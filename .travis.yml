@@ -4,9 +4,9 @@ node_js:
 branches:
   only:
     - dev  # 设置自动化部署的源码分支
-# cache:
-#   directories:
-#     - node_modules  
+cache:
+  directories:
+    - node_modules  
 
 # ------------------------------------------------
 # 下面是Token加密信息，不要替换
@@ -31,17 +31,17 @@ before_script:
 
 # 安装依赖组件
 install:
-  - npm install
   - npm install hexo-cli -g
   - npm install hexo --save
+  - npm install
   - npm install hexo-generator-feed --save
   - npm install hexo-deployer-git --save
   - npm install hexo-renderer-ejs --save
   - npm install hexo-renderer-stylus --save
   - npm install hexo-renderer-marked --save
-  - npm install hexo-renderer-sass --save
-  - npm install hexo-generator-sitemap --save
-  - npm install hexo-generator-baidu-sitemap --save
+  # - npm install hexo-renderer-sass --save
+  # - npm install hexo-generator-sitemap --save
+  # - npm install hexo-generator-baidu-sitemap --save
 # 执行的命令
 script:
   - hexo clean
