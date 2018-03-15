@@ -1,7 +1,11 @@
-deploy:
-  provider: pages
-  skip-cleanup: true
-  github-token: jViDiG6zAfxarhVX6KGvTg
-  keep-history: true
-  on:
-    branch: master
+language: node_js
+node_js:
+- "8.9.1"  # nodejs的版本
+branches:
+  only:
+  - master  # 设置自动化部署的源码分支
+
+
+env:
+  global:
+    secure: goX24ospOgwxNd4OSV3qC15ZwJoRRibLUyMz17hpbaUgCyedgYPLFr5oxTqB8uBvaqpp3YcFmU5vVqSe3psR0SVn8DrQqXl4pXV9zWuPihiViBTGzU/MPB/Q8KhBPUeDMsr98O5kStKwdCJNx2roCKPsywPlf6tf7yySkmg0BmLoqGmte2uHcoVNOUi1VVD72+DuJY9RMrjUDJKBZAPhl2ZKGhVo4vWwDQ2M3ZZdz2aWqDo59kCwPBqJ9TE+J6udNb4s+eCEUX4k5VUmj8UIeySlAM2h8qc6lYIY9x9uluYSCYQd5SRk6RmMAllzx+qxnt4PKn5BxmCs2UoXzolXhvE/PSt4nmFB7u/haE8iWCbRI+RS6wiWU4/IlnbDZdLSbZg+QYv1M9L2yX9q7uwHwmcfyUi4NGvFeBnp3K9ylGX9kjQBk3QdIX+GSjjnU1cXf3001uyoz5kiVy2pz6YKC8G68ilMRwckkcGWoOVOBnZz3rJo1a3CuxREonTbYJFHMfM05ROUmFReMAg4IoYijJobAZC4Uk0wGRKQcgQ2argd8xzawBeuMAzn7ZrP5EBPvwNcmIIVW2FduWFi62qff6EWf4j62r+iSbldyjtGshVeKF6EuEkH0MsxrBizABtW9Azffy31qqyPb+j4vN9b+CA7bN47c4lFzBYaGeAkuok=
