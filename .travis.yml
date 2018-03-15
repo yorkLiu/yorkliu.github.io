@@ -4,6 +4,9 @@ node_js:
 branches:
   only:
   - dev  # 设置自动化部署的源码分支
+cache:
+  directories:
+  - node_modules  
 
 # ------------------------------------------------
 # 下面是Token加密信息，不要替换
@@ -14,9 +17,9 @@ env:
 
 before_install:
 - export TZ='Asia/Shanghai'  
-- npm install -g hexo
-- npm install -g hexo-cli -g
-- npm install hexo-deployer-git --save
+# - npm install -g hexo
+# - npm install -g hexo-cli -g
+# - npm install hexo-deployer-git --save
 
 before_script:
 # ------------------------------------------------
@@ -32,6 +35,8 @@ before_script:
 
 # 安装依赖组件
 install:
+- npm install -g hexo-cli -g
+- npm install hexo-deployer-git --save
 - npm install
 # 执行的命令
 script:
