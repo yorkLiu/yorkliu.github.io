@@ -1,6 +1,6 @@
 language: node_js
 node_js:
-- "6"  # nodejs的版本
+- "8"  # nodejs的版本
 branches:
   only:
   - dev  # 设置自动化部署的源码分支
@@ -16,6 +16,7 @@ before_install:
 - export TZ='Asia/Shanghai'  
 - npm install -g hexo
 - npm install -g hexo-cli 
+- npm install hexo-deployer-git --save
 
 before_script:
 # ------------------------------------------------
