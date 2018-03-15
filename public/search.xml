@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[test]]></title>
+    <url>%2F2018%2F03%2F14%2Ftest%2F</url>
+    <content type="text"><![CDATA[var gitment = new Gitment({ id: '页面 ID', // 可选。默认为 location.href owner: 'yorkLiu', repo: 'https://github.com/yorkLiu/yorkliu.github.io', oauth: { client_id: '5de7e66d11e669bdea4b', client_secret: 'e89611df6231762c6ceacf98c6b0378164569240', }, }) gitment.render('container')]]></content>
+      <categories>
+        <category>Guid</category>
+      </categories>
+      <tags>
+        <tag>Test</tag>
+        <tag>Test comment with gitment</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <url>%2F2018%2F03%2F14%2Fhello-world%2F</url>
+    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
+  </entry>
+</search>
