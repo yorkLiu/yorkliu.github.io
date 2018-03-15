@@ -15,7 +15,7 @@ env:
 before_install:
 - export TZ='Asia/Shanghai'  
 - npm install -g hexo
-- npm install -g hexo-cli 
+- npm install -g hexo-cli -g
 - npm install hexo-deployer-git --save
 
 before_script:
