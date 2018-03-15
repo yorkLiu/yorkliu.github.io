@@ -28,7 +28,7 @@ before_script:
   # ------------------------------------------------
   # github仓库操作  注意将仓库修改成自己的
   # ------------------------------------------------
-  - sed -i'' "s~git@github.com:yorkLiu/yorkliu.github.io.git~https://${REPO_TOKEN}:x-oauth-basic@github.com/yorkLiu/yorkliu.github.io.git~" _config.yml
+  # - sed -i'' "s~git@github.com:yorkLiu/yorkliu.github.io.git~https://${REPO_TOKEN}:x-oauth-basic@github.com/yorkLiu/yorkliu.github.io.git~" _config.yml
 
 # 安装依赖组件
 install:
@@ -42,4 +42,9 @@ script:
   - hexo generate
 # 执行的成功后执行 
 after_success:
-  - hexo deploy
+  # - hexo deploy
+  - cd ./public
+  - git init
+  - git add --all .
+  - git commit -m "Auto Builder From Travis"
+  - git push --quiet --force https://$REPO_TOKEN@github.com/yorkLiu/yorkliu.github.io.git master
