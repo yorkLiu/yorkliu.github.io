@@ -31,9 +31,9 @@ before_script:
 
 # 安装依赖组件
 install:
+  - npm install
   - npm install hexo-cli -g
   - npm install hexo --save
-  - npm install
   - npm install hexo-generator-feed --save
   - npm install hexo-deployer-git --save
   - npm install hexo-renderer-ejs --save
