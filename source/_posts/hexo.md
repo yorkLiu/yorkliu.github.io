@@ -187,7 +187,7 @@ Hexo 中有很多主题，可以在[官网](https://hexo.io/themes/)查看。 �
 
 ## 添加 搜索 功能
 开启博客的 **搜索** 功能
-**Install**
+**Install [hexo-generator-search](https://www.npmjs.com/package/hexo-generator-search)**
 ```bash
 $ npm install hexo-generator-search --save
 ```
