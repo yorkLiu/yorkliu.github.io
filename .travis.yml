@@ -34,6 +34,7 @@ install:
   - npm install hexo-renderer-ejs --save
   - npm install hexo-renderer-stylus --save
   - npm install hexo-renderer-marked --save
+  - npm install hexo-generator-search --save
   # - npm install hexo-renderer-sass --save
   # - npm install hexo-generator-sitemap --save
   # - npm install hexo-generator-baidu-sitemap --save

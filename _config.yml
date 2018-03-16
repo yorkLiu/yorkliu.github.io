@@ -97,8 +97,8 @@ marked:
 # hexo-generator-searchdb
 # 安装 hexo-generator-searchdb，在站点的根目录下执行以下命令：
 # npm install hexo-generator-searchdb --save
-# search:
-#   path: search.xml
-#   field: post
-#   format: html
-#   limit: 10000
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000

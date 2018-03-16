@@ -65,7 +65,7 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 [Markdown](h
   $ hexo new test
   $ echo "This is my first Hexo blog" > test.md
   ```
-  此时会在source/_posts目录下生成test.md文件，输入些许内容，然后保存。(当然，你可以直接在 **source/_posts/**下新建一个.md文件)
+  此时会在source/_posts目录下生成test.md文件，输入些许内容，然后保存。(当然，你可以直接在 **source/_posts/** 下新建一个.md文件)
   编译一下并启动server, 即可看到第一篇博客页面已经展现在你的眼前了
   ```bash
   $ hexo clean
@@ -75,7 +75,7 @@ Hexo 是一个快速、简洁且高效的博客框架。Hexo 使用 [Markdown](h
   访问: http://localhost:4000/ 即可看到
 
 ## 修改配置
-网站的设置大部分都在**_config.yml**文件中，详细配置可以查看 [官方文档](https://hexo.io/zh-cn/docs/configuration.html)   
+网站的设置大部分都在 **_config.yml** 文件中，详细配置可以查看 [官方文档](https://hexo.io/zh-cn/docs/configuration.html)   
 下面列举一些常用的配置：
   - title -> 网站标题
   - subtitle -> 网站副标题
@@ -181,12 +181,28 @@ Hexo 中有很多主题，可以在[官网](https://hexo.io/themes/)查看。 �
   theme: next
   ```
 3. theme 配置文件
-    每个theme都有自己的**_config.yml** 文件，路径为: /theme/{theme}/_config.yml，在该文件中可以配置 博客的 Layout方式
+    每个theme都有自己的 **_config.yml** 文件，路径为: /theme/{theme}/_config.yml，在该文件中可以配置 博客的 Layout方式
     **Scheme** Layout 设置
     推荐使用`scheme: Pisces`
 
 ## 添加 搜索 功能
-开启博客的 **搜索**功能
+开启博客的 **搜索** 功能
+**Install**
+```bash
+$ npm install hexo-generator-search --save
+```
+添加以下代码在根目录下的 **_config.yml** 文件中
+```
+search:
+  path: search.xml
+  field: post
+```
+  * path - file path. By default is search.xml . If the file extension is .json, the output format will be JSON. Otherwise XML format file will be exported.
+  * field - the search scope you want to search, you can chose:
+    * post (Default) - will only covers all the posts of your blog.
+    * page - will only covers all the pages of your blog.
+    * all - will covers all the posts and pages of your blog
+
 ```
 $ cd themes/next
 vi _config.yml

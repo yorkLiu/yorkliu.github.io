@@ -122,6 +122,7 @@ categories:
         - npm install hexo-renderer-ejs --save
         - npm install hexo-renderer-stylus --save
         - npm install hexo-renderer-marked --save
+        - npm install hexo-generator-search --save
 
       before_script:
         - npm install -g gulp
