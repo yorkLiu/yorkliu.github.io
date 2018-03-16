@@ -6,7 +6,7 @@ branches:
     - dev  # 设置自动化部署的源码分支
 cache:
   directories:
-    - node_modules  
+    - node_modules
 
 # ------------------------------------------------
 # 下面是Token加密信息，不要替换
@@ -16,7 +16,7 @@ env:
     secure: goX24ospOgwxNd4OSV3qC15ZwJoRRibLUyMz17hpbaUgCyedgYPLFr5oxTqB8uBvaqpp3YcFmU5vVqSe3psR0SVn8DrQqXl4pXV9zWuPihiViBTGzU/MPB/Q8KhBPUeDMsr98O5kStKwdCJNx2roCKPsywPlf6tf7yySkmg0BmLoqGmte2uHcoVNOUi1VVD72+DuJY9RMrjUDJKBZAPhl2ZKGhVo4vWwDQ2M3ZZdz2aWqDo59kCwPBqJ9TE+J6udNb4s+eCEUX4k5VUmj8UIeySlAM2h8qc6lYIY9x9uluYSCYQd5SRk6RmMAllzx+qxnt4PKn5BxmCs2UoXzolXhvE/PSt4nmFB7u/haE8iWCbRI+RS6wiWU4/IlnbDZdLSbZg+QYv1M9L2yX9q7uwHwmcfyUi4NGvFeBnp3K9ylGX9kjQBk3QdIX+GSjjnU1cXf3001uyoz5kiVy2pz6YKC8G68ilMRwckkcGWoOVOBnZz3rJo1a3CuxREonTbYJFHMfM05ROUmFReMAg4IoYijJobAZC4Uk0wGRKQcgQ2argd8xzawBeuMAzn7ZrP5EBPvwNcmIIVW2FduWFi62qff6EWf4j62r+iSbldyjtGshVeKF6EuEkH0MsxrBizABtW9Azffy31qqyPb+j4vN9b+CA7bN47c4lFzBYaGeAkuok=
 
 before_install:
-  - export TZ='Asia/Shanghai'  
+  - export TZ='Asia/Shanghai'
   # ------------------------------------------------
   # 设置github账户信息 注意修改成自己的信息
   # ------------------------------------------------
@@ -39,13 +39,13 @@ install:
   # - npm install hexo-generator-baidu-sitemap --save
 
 before_script:
-  - npm install -g gulp  
+  - npm install -g gulp
 
 # 执行的命令
 script:
   - hexo clean
   - hexo generate
-# 执行的成功后执行 
+# 执行的成功后执行
 after_success:
   # - hexo deploy
   - cd ./public
