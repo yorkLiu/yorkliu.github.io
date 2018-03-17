@@ -6,13 +6,13 @@
 title: Yong's Blog
 subtitle: 区块链 人工智能
 description: BlockChain, AI Technology
-author: Yong
+author: Liu Yong
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: /
+url: https://yorkliu.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -102,3 +102,7 @@ search:
   field: post
   format: html
   limit: 10000
+
+# 文章末尾添加“本文结束”标记
+passage_end_tag:
+  enabled: true

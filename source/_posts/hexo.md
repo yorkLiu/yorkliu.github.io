@@ -7,6 +7,7 @@ tags:
   - Travis CI
 categories:
   - Hexo搭建博客
+copyright: true  
 ---
 
 # Hexo
