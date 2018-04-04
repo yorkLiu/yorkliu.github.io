@@ -1,5 +1,5 @@
 ---
-title: Apriori
+title: 使用Apriori算法进行关联分析
 copyright: true
 date: 2018-03-29 17:04:41
 tags: 机器学习算法

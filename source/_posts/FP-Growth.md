@@ -1,5 +1,5 @@
 ---
-title: FP-Growth
+title: 使用FP-growth算法来高效发现频繁项集
 copyright: true
 date: 2018-04-04 11:51:04
 tags: 机器学习算法
