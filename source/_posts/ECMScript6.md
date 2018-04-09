@@ -271,6 +271,7 @@ animals('cat', 'dog', 'fish') //["cat", "dog", "fish"]
 这有可能导致两个问题：
   1. 一方面js代码变得很臃肿，难以维护;
   2. 另一方面我们常常得很注意每个script标签在html中的位置，因为它们通常有依赖关系，顺序错了可能就会出bug;在es6之前为解决上面提到的问题，我们得利用第三方提供的一些方案，主要有两种CommonJS(服务器端)和AMD（浏览器端，如require.js）。
+
 如果想了解更多AMD，尤其是require.js，可以参看这个教程  
 > [why modules on the web are useful and the mechanisms that can be used on the web today to enable them](http://requirejs.org/docs/why.html)
 
@@ -385,4 +386,4 @@ ES6帮我们实现了！
 希望更全面了解es6伙伴们可以去看阮一峰所著的电子书[ECMAScript 6入门](http://es6.ruanyifeng.com/)
 
 ---------------
-<div style="font-size:10px">本文来自: https://blog.csdn.net/daily886/article/details/53765658</div>
+<span style="font-size:10px">本文来自: https://blog.csdn.net/daily886/article/details/53765658</span>
