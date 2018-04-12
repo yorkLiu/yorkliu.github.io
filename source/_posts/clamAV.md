@@ -11,7 +11,7 @@ categories: 开发
 > ClamAV 杀毒是Linux平台最受欢迎的杀毒软件，ClamAV属于免费开源产品，支持多种平台，如：Linux/Unix、MAC OS X、Windows、OpenVMS。ClamAV是基于病毒扫描的命令行工具，但同时也有支持图形界面的ClamTK工具。ClamAV主要用于邮件服务器扫描邮件。它有多种接口从邮件服务器扫描邮件，支持文件格式有如：ZIP、RAR、TAR、GZIP、BZIP2、HTML、DOC、PDF,、SIS CHM、RTF等等。ClamAV有自动的数据库更新器，还可以从共享库中运行。命令行的界面让ClamAV运行流畅
 
 
-# 安装步骤 
+# 安装步骤
 
 1. Open terminal, 使用 [Homebrew](https://brew.sh/) 来安装 [ClamAV](https://www.clamav.net/)
   ```bash
@@ -144,6 +144,10 @@ categories: 开发
 
 Enjoin, have ClamAV funny!!
 
+# ClamAV 与Java集成
+请参考
+* [clamav-java GitHub](https://github.com/solita/clamav-java)
+* [clamav-rest GitHub](https://github.com/solita/clamav-rest)
 -------
 <span style="font-size=10px">
 参考： https://gist.github.com/zhurui1008/4fdc875e557014c3a34e
