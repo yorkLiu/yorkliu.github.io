@@ -1,11 +1,11 @@
 ---
-title: 2018-04-28 IT News
+title: 2018-04-27 IT News
 copyright: true
-date: 2018-04-28 15:01:50
+date: 2018-04-27 15:01:50
 tags: IT NEWS
 categories: IT NEWS
 ---
-# 2018-04-28 IT News
+# 2018-04-27 IT News
  ## [程序员渴望的“无代码世界”要来了！](https://blog.csdn.net/csdnnews/article/details/80115457)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
  ## [抛开 Android 不谈，谁是最受欢迎的 Linux 发行版？](https://blog.csdn.net/csdnnews/article/details/80115458)
@@ -134,5 +134,3 @@ categories: IT NEWS
  > 产品经理除了要能够熟练使用工具、规范产品流程，更重要的是要有产品感觉，即能够透过现象看本质，并能在大脑中形成产品流程和框架的能力，来看看小白该如何培养自己的...
  ## [全民K歌的线下之路，泛娱乐社交该怎么玩？](http://www.woshipm.com/it/973305.html)
  > 前有“共享经济”的大旗，后有“新零售”的热浪，线上线下融合及无人值守的概念被反复追捧，阿里和京东有无人便利店，而一向缺少电商基因的腾讯早已拿出了全面K歌作为试验田...
-
-    
