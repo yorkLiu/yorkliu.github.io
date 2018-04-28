@@ -1,6 +1,12 @@
 language: node_js
 node_js: node
   # - "6.9.4"  # nodejs的版本
+#blocklist
+branches:
+  except:
+    - master
+
+# savelist
 branches:
   only:
     - dev  # 设置自动化部署的源码分支
