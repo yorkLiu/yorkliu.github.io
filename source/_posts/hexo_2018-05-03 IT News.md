@@ -1,7 +1,7 @@
 ---
 title: 2018-05-03 IT News
 copyright: true
-date: 2018-05-03 14:26:56
+date: 2018-05-03 14:28:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -48,6 +48,18 @@ AR&#28216;&#25103;&#31038;&#20132;&#24179;&#21488;&#8220;AR Monster&#8221;&#3371
                         
 </details>
 
+ ## [住个酒店，“我”的隐私就被强制扒干净了！](https://blog.csdn.net/csdnnews/article/details/80174560)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！五一...
+ ## [嘴上说着喜爱Java 9 ，身体却诚实地拥抱了Java 8](https://blog.csdn.net/csdnnews/article/details/80174562)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！去年...
+ ## [如何开发一款可以删除个人信息的社交软件？小扎做到了！](https://blog.csdn.net/csdnnews/article/details/80174564)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！闹得...
+ ## [腾讯竟然是这样存储你的数据的！！！](https://blog.csdn.net/csdnnews/article/details/80174566)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
+ ## [摩拜免押金；滴滴外卖订单骤降；小米最快本周 IPO | CSDN极客头条](https://blog.csdn.net/csdnnews/article/details/80174568)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！今日...
+ ## [确认过眼神，你是要来百度AI开发者实战营深圳站的人](https://blog.csdn.net/csdnnews/article/details/80174571)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！深圳...
  ## [阿里巴巴Java开发手册](https://blog.csdn.net/yunfupei0434/article/details/80174166)
  > 趁着有时间把阿里巴巴Java开发手册又看了一遍了，很多时候发现自己好像一点都不记得里面的内容了。于是只能把大概内容用思维导图的形式画一遍，这样可以在脑子里形成一张图，方便记忆。其中有许多是比较基础的内容，希望对大家也有帮助。1总图2编程规约3异常日志4单元测试5安全规约6MySQL数据库7工程结构...
  ## [笑话集:bug跟蚊子的相似之处](https://blog.csdn.net/yunfupei0434/article/details/80174158)
