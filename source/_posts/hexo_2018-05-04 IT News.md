@@ -1,7 +1,7 @@
 ---
 title: 2018-05-04 IT News
 copyright: true
-date: 2018-05-04 10:42:42
+date: 2018-05-04 10:43:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -87,6 +87,16 @@ AI&#35821;&#38899;&#21161;&#25163;&#8220;SoundHound&#8221;&#33719;&#33150;&#3575
  > 今天我们来介绍spectrum：一项Cloudflare新业务，可为任何基于TCP协议的服务提供DDoS防护、负载均衡和内容
  ## [2018 年第一季度报告：JavaScript 仍是最热门语言](http://news.51cto.com/art/201805/572266.htm)
  > Freelancer.com 发布了 2018 年第一季度的“Fast 50 报告”，该份报告表明了 2018 年技术的总体趋势：区块
+ ## [绝杀《绝地求生》外挂！](https://blog.csdn.net/csdnnews/article/details/80189738)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！15...
+ ## [谷歌终于开放 “.app” 顶级域名注册：需要 HTTPS 加密](https://blog.csdn.net/csdnnews/article/details/80189741)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！Go...
+ ## [技术人的 40 岁，真的不惑了吗？](https://blog.csdn.net/csdnnews/article/details/80189743)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一位...
+ ## [知乎：“我们不主动收集数据”；滴滴被打乘客怂了；三星太子归位 | CSDN极客头条...](https://blog.csdn.net/csdnnews/article/details/80189751)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
+ ## [雷军：避开阿里、绕过腾讯，只为开辟小米新战场！](https://blog.csdn.net/csdnnews/article/details/80189752)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！布局...
  ## [Facebook隐私搞双重标准：员工隐私保护优于普通用户](http://www.lanjingtmt.com/news/detail/34696.shtml)
  > 据美国《华尔街日报》网站援引知情人士消息称，Facebook在用户隐私问题上搞双重标准，公司内部员工受到的隐私保护高于普通用户。
  ## [LG手机业务大转型：放弃高端转向性价比 拟重返中国](http://www.lanjingtmt.com/news/detail/34694.shtml)
