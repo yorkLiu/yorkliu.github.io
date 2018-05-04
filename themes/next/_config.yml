@@ -113,8 +113,8 @@ menu_icons:
 # Schemes
 # scheme: Muse
 #scheme: Mist
-# scheme: Pisces
-scheme: Gemini
+scheme: Pisces
+# scheme: Gemini
 
 
 # ---------------------------------------------------------------
@@ -553,16 +553,16 @@ busuanzi_count:
   enable: true
   # custom uv span for the whole site
   site_uv: true
-  site_uv_header: <i class="fa fa-user"></i> "总访问人数:"
+  site_uv_header: <i class="fa fa-user"></i> 总访问人数:
   site_uv_footer:
   # custom pv span for the whole site
   site_pv: true
-  site_pv_header: <i class="fa fa-eye"></i> "总访问量:"
+  site_pv_header: <i class="fa fa-eye"></i> 总访问量:
   site_pv_footer:
   # custom pv span for one page only
   page_pv: true
   # page_pv_header: <i class="fa fa-file-o"></i>
-  page_pv_header: <i class="fa fa-eye"></i> "阅读次数:"
+  page_pv_header: <i class="fa fa-eye"></i> 阅读次数:
   page_pv_footer:
 
 
