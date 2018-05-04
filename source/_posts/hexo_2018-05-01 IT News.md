@@ -5,7 +5,7 @@ date: 2018-05-01 15:56:50
 tags: IT NEWS
 categories: IT NEWS
 ---
-# 2018-05-01 IT News
+
  ## [科技公司如何占据了你的每一分钟？](https://blog.csdn.net/csdnnews/article/details/80153817)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！每个...
  ## [三星电子通信撤出中国！](https://blog.csdn.net/csdnnews/article/details/80153818)
@@ -50,5 +50,3 @@ categories: IT NEWS
  > 一个衡量CPM价格的公式：CPM=媒体郑重感 x 精准度 x 人群消费潜力。有个朋友曾经很困惑地问我：“为什么看电视的人越来越少，却还有那么多品牌要去电视上投广告？”我...
  ## [为何这么多用户愿意成为VIP？](http://www.woshipm.com/user-research/985036.html)
  > 从游戏中的充钱你就可以更加强大，到视频中的蓝光专享，VIP几乎受到所有产品的青睐。本文将带大家了解VIP为何能够让用户心甘情愿的掏腰包。VIP即very important perso...
-
-    

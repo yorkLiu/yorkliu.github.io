@@ -5,7 +5,7 @@ date: 2018-04-28 15:55:17
 tags: IT NEWS
 categories: IT NEWS
 ---
-# 2018-04-28 IT News
+
  ## [程序员渴望的“无代码世界”要来了！](https://blog.csdn.net/csdnnews/article/details/80115457)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
  ## [抛开 Android 不谈，谁是最受欢迎的 Linux 发行版？](https://blog.csdn.net/csdnnews/article/details/80115458)
@@ -62,5 +62,3 @@ categories: IT NEWS
  > 对于公司而言，节日永远是不够多的，运营人员充分发挥了有节日要搞活动，没有节日创造节日也要搞活动的精神。各大电器也都纷纷“成精”，过起了自己的节日，手机节、冰箱...
  ## [网站设计：从幽灵按钮到空心元素，如何用好这一设计趋势](http://www.woshipm.com/ucd/1009519.html)
  > 空心元素，尤其是幽灵按钮，需要设计师对于细节和体验有足够的关注才能用好。幽灵按钮和类似的空心元素，在诸多的设计趋势当中，还是显得颇为单薄的。它们的转化率看...
-
-    

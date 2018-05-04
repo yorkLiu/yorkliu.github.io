@@ -5,7 +5,7 @@ date: 2018-05-02 17:40:59
 tags: IT NEWS
 categories: IT NEWS
 ---
-# 2018-05-02 IT News
+
  ## [@程序员，你的技术过气了吗？](https://blog.csdn.net/csdnnews/article/details/80161548)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
  ## [中关村程序员的 996 强制加班与工作效率成正比吗？](https://blog.csdn.net/csdnnews/article/details/80161551)
@@ -64,5 +64,3 @@ categories: IT NEWS
  > 区块链付费问答产品 ：Cent ，具有不同于古典互联网社区产品的设计细节和产品机制，它的“排序”方式使内容第一次有了另一种更公平的筛选算法和发现机制。橙皮书之前介...
  ## [电商新零售的两大心态：找出路还是抄近路？](http://www.woshipm.com/newretail/1012668.html)
  > 比起深度垂直化的互联网，新零售仍然是个新事物，即便在过去几年中一次又一次的被资本催熟。那电商新零售的两大心态是什么？是找出路还是抄近路？今年的五一，可能已...
-
-    
