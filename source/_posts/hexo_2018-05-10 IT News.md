@@ -1,7 +1,7 @@
 ---
 title: 2018-05-10 IT News
 copyright: true
-date: 2018-05-10 12:17:42
+date: 2018-05-10 12:18:26
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -95,6 +95,34 @@ categories: IT NEWS
  > 在三月份，Google 就已经放出了 Android P 的开发者预览版供大家尝鲜，而在昨天晚上 Google I/O 2018 大会
  ## [【GPU精粹与Shader编程】《GPU Gems 1》全书核心内容提炼总结 · 下篇](http://blog.csdn.net/zhmxy555/article/details/80218307)
  > 【GPU精粹与Shader编程】《GPU Gems 1》全书核心内容提炼总结 · 下篇
+ ## [科技逆袭？中通变了呢！](http://blog.csdn.net/sch881226/article/details/80250023)
+ > 科技逆袭？中通变了呢！
+ ## [Springboot @Async 异步方法](http://blog.csdn.net/qq_15071263/article/details/80165680)
+ > Springboot @Async 异步方法
+ ## [民生银行分布式NewSQL数据库实践](http://blog.csdn.net/sunhf_csdn/article/details/80253809)
+ > 民生银行分布式NewSQL数据库实践
+ ## [雷军—我十年的程序员生涯](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80213719)
+ > 雷军—我十年的程序员生涯
+ ## [一个月薪12000的北京程序员的生活写照，值得每个码农读读](http://blog.csdn.net/person_limit/article/details/80201204)
+ > 一个月薪12000的北京程序员的生活写照，值得每个码农读读
+ ## [我用 Python 爬取微信好友，最后发现一个大秘密](http://blog.csdn.net/j2IaYU7Y/article/details/80238904)
+ > 我用 Python 爬取微信好友，最后发现一个大秘密
+ ## [阿里员工网络炫富：工作七年买了三套房](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80213728)
+ > 阿里员工网络炫富：工作七年买了三套房
+ ## [非科班程序员如何逆袭？](http://blog.csdn.net/MIcF435p6D221sSdLd2/article/details/80213505)
+ > 非科班程序员如何逆袭？
+ ## [【大数据侦查到人工智能的进化】](http://blog.csdn.net/xCnhYKoHj3eK/article/details/80238133)
+ > 【大数据侦查到人工智能的进化】
+ ## [拼多多悬赏百万查谣言者；今日头条否认融资；FB设计卫星丨价值早报](http://blog.csdn.net/age12v/article/details/80237695)
+ > 拼多多悬赏百万查谣言者；今日头条否认融资；FB设计卫星丨价值早报
+ ## [雷军—我十年的程序员生涯](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80213801)
+ > 雷军—我十年的程序员生涯
+ ## [32岁入门晚不晚？来听听这位70后程序员的故事](http://blog.csdn.net/c6E5UlI1N/article/details/80213385)
+ > 32岁入门晚不晚？来听听这位70后程序员的故事
+ ## [监督学习：KNN（K-近邻）算法实现手写数字识别的三种方法](http://blog.csdn.net/UFv59to8/article/details/80241272)
+ > 监督学习：KNN（K-近邻）算法实现手写数字识别的三种方法
+ ## [5 月编程语言榜：C 再度暴涨，Scala 成功上位](http://blog.csdn.net/P5dEyT322JACS/article/details/80238710)
+ > 5 月编程语言榜：C 再度暴涨，Scala 成功上位
  ## [程序员就要独“一”无“二”](https://blog.csdn.net/csdnnews/article/details/80248315)
  > 我是一名程序员我喜欢一，讨厌二妈妈说，我小时候就喜欢一喜欢第一次喝的...
  ## [马化腾怒怼张一鸣；中兴产品下架；微信整改小程序 | CSDN 极客头条](https://blog.csdn.net/csdnnews/article/details/80248310)
