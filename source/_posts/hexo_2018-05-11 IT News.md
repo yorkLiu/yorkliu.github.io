@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 11:22:43
+date: 2018-05-11 11:23:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -141,34 +141,6 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 偶然在网上看到了美化版的微信，而这些“分身版”、“美化版”的客户端预留了大量高危接口，一不注意手机就
  ## [从点线面体谈开发到架构师的转型](http://blog.csdn.net/robertleepeak/article/details/80259986)
  > 从点线面体谈开发到架构师的转型
- ## [科技逆袭？中通变了呢！](http://blog.csdn.net/sch881226/article/details/80250023)
- > 科技逆袭？中通变了呢！
- ## [Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解](http://blog.csdn.net/jiangwei0910410003/article/details/79185353)
- > Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解
- ## [Springboot @Async 异步方法](http://blog.csdn.net/qq_15071263/article/details/80165680)
- > Springboot @Async 异步方法
- ## [15类一面试就知道不靠谱的公司](http://blog.csdn.net/foruok/article/details/80226740)
- > 15类一面试就知道不靠谱的公司
- ## [华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的](http://blog.csdn.net/zw0Pi8G5C1x/article/details/80238831)
- > 华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的
- ## [僧多肉少的阿里实习，我面了5次才拿到offer！](http://blog.csdn.net/Y0Q2T57s/article/details/80239103)
- > 僧多肉少的阿里实习，我面了5次才拿到offer！
- ## [这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了](http://blog.csdn.net/qq_41807409/article/details/80206210)
- > 这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了
- ## [对程序员老婆的误会](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80270050)
- > 对程序员老婆的误会
- ## [如何正确地黑程序员](http://blog.csdn.net/m68FUTKMUrmtj/article/details/80270115)
- > 如何正确地黑程序员
- ## [5 月编程语言榜：C 再度暴涨，Scala 成功上位](http://blog.csdn.net/P5dEyT322JACS/article/details/80238710)
- > 5 月编程语言榜：C 再度暴涨，Scala 成功上位
- ## [想转行IT行业？这是我给你最真挚的建议](http://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80241404)
- > 想转行IT行业？这是我给你最真挚的建议
- ## [【福利】【两周年庆典，送书第二弹】机器学习方法体系汇总](http://blog.csdn.net/Mbx8X9u/article/details/80251811)
- > 【福利】【两周年庆典，送书第二弹】机器学习方法体系汇总
- ## [自适应注意力机制在Image Caption中的应用](http://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80270003)
- > 自适应注意力机制在Image Caption中的应用
- ## [困扰程序员的30种软件开发问题，你是否时曾相识？](http://blog.csdn.net/xishining/article/details/80204250)
- > 困扰程序员的30种软件开发问题，你是否时曾相识？
  ## [滴滴悬赏100万“捉拿”司机；手机QQ又宕机；中兴手机或将出售 | CSDN 极客头条...](https://blog.csdn.net/csdnnews/article/details/80276260)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
  ## [中兴被逼入绝境，或将出售手机业务？](https://blog.csdn.net/csdnnews/article/details/80276253)
