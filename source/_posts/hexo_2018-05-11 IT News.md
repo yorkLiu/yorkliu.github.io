@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 11:44:57
+date: 2018-05-11 11:45:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -139,34 +139,6 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 偶然在网上看到了美化版的微信，而这些“分身版”、“美化版”的客户端预留了大量高危接口，一不注意手机就
  ## [从点线面体谈开发到架构师的转型](http://blog.csdn.net/robertleepeak/article/details/80259986)
  > 从点线面体谈开发到架构师的转型
- ## [科技逆袭？中通变了呢！](http://blog.csdn.net/sch881226/article/details/80250023)
- > 科技逆袭？中通变了呢！
- ## [Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解](http://blog.csdn.net/jiangwei0910410003/article/details/79185353)
- > Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解
- ## [Springboot @Async 异步方法](http://blog.csdn.net/qq_15071263/article/details/80165680)
- > Springboot @Async 异步方法
- ## [15类一面试就知道不靠谱的公司](http://blog.csdn.net/foruok/article/details/80226740)
- > 15类一面试就知道不靠谱的公司
- ## [华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的](http://blog.csdn.net/zw0Pi8G5C1x/article/details/80238831)
- > 华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的
- ## [僧多肉少的阿里实习，我面了5次才拿到offer！](http://blog.csdn.net/Y0Q2T57s/article/details/80239103)
- > 僧多肉少的阿里实习，我面了5次才拿到offer！
- ## [这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了](http://blog.csdn.net/qq_41807409/article/details/80206210)
- > 这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了
- ## [自适应注意力机制在Image Caption中的应用](http://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80270003)
- > 自适应注意力机制在Image Caption中的应用
- ## [如何正确地黑程序员](http://blog.csdn.net/m68FUTKMUrmtj/article/details/80270115)
- > 如何正确地黑程序员
- ## [对程序员老婆的误会](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80270050)
- > 对程序员老婆的误会
- ## [想转行IT行业？这是我给你最真挚的建议](http://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80241404)
- > 想转行IT行业？这是我给你最真挚的建议
- ## [程序员社区骂战：不满政治正确，LLVM元老宣布退出](http://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80237298)
- > 程序员社区骂战：不满政治正确，LLVM元老宣布退出
- ## [卷积为什么如此强大？一文全解深度学习中的卷积](http://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80269127)
- > 卷积为什么如此强大？一文全解深度学习中的卷积
- ## [单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80270122)
- > 单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？
  ## [滴滴悬赏100万“捉拿”司机；手机QQ又宕机；中兴手机或将出售 | CSDN 极客头条...](https://blog.csdn.net/csdnnews/article/details/80276260)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
  ## [中兴被逼入绝境，或将出售手机业务？](https://blog.csdn.net/csdnnews/article/details/80276253)
@@ -195,6 +167,8 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 1.Summary:1-1.MongoDB进入3.x版本之后，对集群的结构和存储引擎做了较大的修改。在学习过程中时常遇到一些3.0之前的版本的指导，但我使用的却是3.6，所以...
  ## [币圈撸羊毛：优质区块链空投糖果分享（2018-05-11）](https://www.jianshu.com/p/269e0e384553)
  > 今天介绍的三枚糖果质量都不错，大家可以多多关注，有什么问题或是建议可以留言给我，会尽量解答或改正哈^_^近期我觉得还是应该把重心放在LFT和TOS糖果上，估计应该快结束了！ ...
+ ## [普洛斯设立首个物流生态领域专项基金，规模达100亿](http://www.lanjingtmt.com/news/detail/34870.shtml)
+ > 现代物流基础设施与解决方案提供商普洛斯（GLP）宣布设立隐山现代物流服务基金，专注于投资物流生态领域。
  ## [天神娱乐出现影响股价信息 今日临停](http://www.lanjingtmt.com/news/detail/34869.shtml)
  > 董事长遭证监会立案调查
  ## [无人货架要崩盘？月租500元日成交额10元 盗损率50](http://www.lanjingtmt.com/news/detail/34868.shtml)
