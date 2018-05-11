@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 11:43:09
+date: 2018-05-11 11:44:00
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,51 +56,51 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
 </details>
 
  ## [深入理解SpringAOP之代理对象](https://my.oschina.net/u/3739863/blog/1810570)
- > 本
+ > 本篇文章主要带大家简单分析一下AOP的代理对象，至于AOP是什么，如何配置等基础性知识，不在这里讨论。在这之前我们需要了解springframework的三个核心接口与getBean方法 一、FactoryBean&BeanFactory&ObjectFactory 　　这三个接口都为Springf
  ## [“阿里架构师”kafka 数据可靠性深度解读](https://my.oschina.net/u/3833719/blog/1810198)
- > 1
+ > 1 概述 Kakfa起初是由LinkedIn公司开发的一个分布式的消息系统，后成为Apache的一部分，它使用Scala编写，以可水平扩展和高吞吐率而被广泛使用。目前越来越多的开源分布式处理系统如Cloudera、Apache Storm、Spark等都支持与Kafka集成。 Kafka凭借着自身的
  ## [基于Docker搭建MySQL主从复制](https://my.oschina.net/u/3773384/blog/1810111)
  > 本篇博文相对简单，因为是初次使用Docker，MySQL的主从复制之前也在Centos环境下搭建过，但是也忘的也差不多了，因此本次尝试在Docker中搭建。
  ## [Opera 53 稳定版发布：优化多标签页的显示和地址栏](https://www.oschina.net/news/95987/opera-53-stable-released)
- > 基
+ > 基于 Chromium 的 Opera 在今天发布了最新的稳定版更新，对标签页和地址栏进行了小幅调整。Opera 53 稳定版基于最新的 Chromium 66.0.3359.139 开源浏览器，目前已经面向全球的 Linux、Mac 和 Windows 用户开放。 下载地址 >>> https:/
  ## [聊天私服 Akaxin 0.5.4 发布，优化聊天、注册逻辑](https://www.oschina.net/news/95986/akaxin-0-5-4-released)
- > A
+ > Akaxin 是一款开源免费的私有聊天软件，可以部署在任意服务器上，搭建自己的聊天服务器，供自己与朋友、用户使用。 反馈与建议，请联系 hi@akaxin.xyz     特性： 单聊、群聊（含文字、图片、语音等） 端到端的加密消息（服务端不可解密，服务器可通过配置关闭此特性） 匿名注册、实名注册，
  ## [POSCMS V3.2.14 发布，跨平台网站内容管理系统](https://www.oschina.net/news/95984/poscms-3-2-14-released)
- > 一
+ > 一、新增内容 升级ci框架到国际版最新v3.1.6 增加联动菜单自定义字段功能 增加关键词库自定义字段功能 增加对移动端真静态化的支持 增加数据优化插件（VIP5000版） 增加手动生成附件缓存功能，预防卡顿 增加移动端静态时绑定目录/mobile/ 增加格式化多文件字段数据方法dr_get_fil
  ## [腾讯 AI-Java 客户端 Taip 重大更新，支持更多功能](https://www.oschina.net/news/95983/taip-4-1-0-released)
- > T
+ > TAIP 是调用腾讯 AI 接口的 Java 客户端，为调用腾讯 AI 功能的开发人员提供了一系列的交互方法。 目前版本已经更新至4.1.0，Java开发者们无需再各种百度了。 Java JDK 1.7+ 新特性 人脸识别（个体管理、信息管理）、图片特效接口服务调用服务 【face人脸识别】 人脸检
  ## [Google Chrome 66 稳定版更新：修复四大严重安全漏洞](https://www.oschina.net/news/95982/chrome-66-stable-released)
- > 本
+ > 本周四 Google 发布了 Chrome 66 稳定版维护更新，最新版本号为 v66.0.3359.170，目前已经面向Linux、Mac 和 Windows 三大平台开放，重点修复了一些非常严重的安全问题。 Google Chrome 66.0.3359.170 版本目前共修复了 4 个安全漏洞
  ## [JS 基金会发布 Dojo 2.0 ，带来大量改进](https://www.oschina.net/news/95981/dojo-2-0-released)
- > 2
+ > 2018年5月2日，Dojo团队发布了Dojo第二版（Dojo 2）。Dojo是一种为JavaScript开发人员扩展开发过程提供帮助的工具箱。Dojo 2聚焦于开发人员对构建现代企业应用的需求，是在2007年发布Dojo 1的十多年后对Dojo的一次完全重写。Dojo 2使用TypeScript构
  ## [然之协同 4.6.3.stable 发布，集成喧喧 1.5.0](https://www.oschina.net/news/95980/ranzhi-4-6-3-stable-released)
- > 然
+ > 然之协同办公系统是一款面向中小企业内部管理的协同办公系统，由客户管理(crm)、日常办公(oa)、现金记账(cash)、团队分享(team)、项目管理（proj）、阿米巴应用（ameba）应用导航(ips)等模块组成。专注于提供一体化、精简的解决方案，真正开源免费，扩展性强，支持二次开发，可以满足用
  ## [终于，微软修复了 Notepad 长达 33 年的换行“Bug”](https://www.oschina.net/news/95979/extended-eol-in-notepad)
- > 自
+ > 自 1985 年发布以来，微软的 Notepad（记事本）一直存在的一个 “Bug” ，终于宣布要解决了。 对于一般用户来说，记事本是一个非常实用的 TXT 文本编辑工具。不过 IT 专业人员可能会烦扰记事本只支持 Windows 的行尾符 (End-of-Line) - 回车（CR）和换行符（LF
  ## [每日一博 | 基于 Docker 搭建 MySQL 主从复制](https://my.oschina.net/u/3773384/blog/1810111)
  > 本篇博文相对简单，因为是初次使用 Docker ，MySQL 的主从复制之前也在 Centos 环境下搭建过，但是也忘的也差不多了，因此本次尝试在 Docker 中搭建。根据网上教程走还是踩了一些坑，不过所幸最终搭建成功，因此记录下来，避免以后踩了重复的坑。
  ## [我勒个去，你怎么把这种问题代码提交到仓库啊？？](https://www.oschina.net/news/95977/git-workflow-story)
- > 我
+ > 我已经疯了，今天公司新来的小白提交了好了问题代码到项目仓库，最要命的是项目在线上跑不起来时费劲好大力气，检查了各种可能性，甚至还一度怀疑是不是数据库、应用服务器有问题呢。花了半个小时才发现是代码问题，追踪到版本管理才发现是新来的小白提交了很多问题代码！！！ 然后又花了很多时间为了把这个被小白污染的仓
  ## [码云推荐 | 基于 Netty 和 Spring 的服务端容器 StartX](https://gitee.com/sharegpj/StartX)
  > 基于 Netty 和 Spring 开发的服务端容器，支持 Socket，WebSocket(SSL)，HTTP(S)，提供集成环境，能很快速的进入业务开发，对业务开发者透明，支持对各种通讯协议进行定制。
  ## [RadonDB —— 基于 MySQL 的分布式关系型数据库](https://www.oschina.net/p/radondb)
- > R
+ > RadonDB 是青云（QingCloud）基于 MySQL 研发的新一代分布式关系型数据库。RadonDB 不仅支持分布式事务，全面兼容 MySQL，还能够实现容量与性能无限水平扩展，具备金融级数据强一致性，满足企业级核心数据库对大容量、高并发、高可靠及高可用的苛刻要求。此外，还支持智能化自动分表
  ## [5 月编程语言指数榜：Python 首次超越 Java 夺下冠军](https://www.oschina.net/news/95974/may-pypl-popularity-of-programming-language)
- > 这
+ > 这个 5 月，国外两个流行的编程语言参考指标榜单都出现了十分有意思的变化。在 TIOBE 5 月编程语言榜中，Scala 厚积薄发，一举进入 TOP 20 。而在 PYPL 发布的 5 月编程语言指数榜中，Python 首次超越 Java 占据榜首位置。 PS：趋势是与去年 5 月对比 PYPL 指
  ## [微软副总裁潘正磊：我们将重振 Windows 桌面开发](https://www.oschina.net/news/95973/microsoft-will-revive-windows-desktop-development)
- > 在
+ > 在刚刚结束的 Build 2018 开发者大会上，微软发布了利用 AI 来帮助开发者提高生产力的 Visual Studio IntelliCode，允许开发者实时合作开发的 Visual Studio Live Share，C＃机器学习库 ML.NET 等非常实用的工具和框架。以及，被寄予厚望的 
  ## [协作翻译 | 一文读懂 Rust 语言中的错误处理](https://www.oschina.net/translate/rust-error-handling)
- > 在
+ > 在本文，我打算为 Rust 中如何处理错误做一个全面论述。不仅如此，我会尽量每次只引入一种错误处理方式，那么在如何将每一种组合到一起的时候，你就可以有一个坚实的实践知识基础。 如果使用最幼稚的方法，Rust 中的错误处理可以是冗长且恼人的。本文会探索那些绊脚石，并且示范如何使用标准库来让错误处理更加
  ## [OSChina 周五乱弹 —— QQ 和妹子聊天，翻车了](https://my.oschina.net/xxiaobian/blog/1810544)
  > 公司一开发妹子，长的不错，对一男同事赶到好感，又不敢表白，每天没事找事的接近男同事，并且在T恤胸前印了OOM。男同事由于是一个gay，也发现了该女生对他的爱慕，不好直接拒绝，毕竟女的没有开口表白，于是在裤兜印了ANR。于是乎女的就再也没有纠缠他了。
  ## [“国产自主可控”的开源软件就是一个矛盾体](https://www.oschina.net/news/95970/about-the-zh-opensource-software)
- > 编
+ > 编者注：文章来自Linux 宝库公众号，作者：开源社会人。仅作讨论，不代表开源中国观点。 一、梁宁女士：关于国产芯片与操作系统的往事 一篇万字长文，在今年4月的时候，刷了很多人的屏。其实我就想问一句：当时你们立项的时候，是怎么跟国家吹牛的？在拿了国家那么多钱之后，事情做成了吗？ 拿了钱，没有做成事，
  ## [孤独的少数派，抵制 systemd 的 Devuan 能走多远？](https://www.oschina.net/news/95969/wheres-the-future-of-devuan)
- > D
+ > Devuan Linux，一个由一群不满 systemd 的开发者创建的 Debian 分支，本周发布了其 2.0 “ASCII” 的首个候选版本。 据悉，Devuan 2.0 基于 Debian Stretch ，不使用 systemd ，其安装选项中有 SysVinit 和 OpenRC 可供选
  ## [PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 和 9.3.23 发布](https://www.oschina.net/news/95968/postgresql-10-4-and-9-6-9-released)
- > P
+ > PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 和 9.3.23 全系列更新发布！ 本次更新修复了一个安全问题以及过去三个月报告的一些错误。 安全问题 该版本修复了一个安全漏洞 CVE-2018-1115: 函数 pg_logfile_rotate() 权限过高，使得可
  ## [Go 语言集成开发环境 GoLand 更新至 2018.1.3 版本](https://www.oschina.net/news/95967/goland-2018-1-3-released)
- > G
+ > GoLand 2018.1.3 已发布，这是一个全新的更新，尽管没有带来明显的针对 Go 语言的特定改进，但还是提供了许多与 UI，JavaScript 和 SQL 支持相关的错误修复和改进。 可通过 Toolbox App 进行更新，或通过官网下载 >>> https://www.jetbrain
  ## [万台服务器“一人挑”的奥秘](http://zhuanlan.51cto.com/art/201805/573158.htm)
  > 万台服务器“一人挑”的奥秘
  ## [实施全闪存阵列的六个最佳实践](http://stor.51cto.com/art/201805/573145.htm)
