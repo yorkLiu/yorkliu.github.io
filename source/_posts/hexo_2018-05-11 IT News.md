@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 10:26:18
+date: 2018-05-11 10:26:56
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -93,6 +93,34 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 如果IT行业人士正在努力获得企业首席信息官的职位，那么是否采取了正确的方法和措施?以下是如何提高吸引力
  ## [从点线面体谈开发到架构师的转型](http://blog.csdn.net/robertleepeak/article/details/80259986)
  > 从点线面体谈开发到架构师的转型
+ ## [科技逆袭？中通变了呢！](http://blog.csdn.net/sch881226/article/details/80250023)
+ > 科技逆袭？中通变了呢！
+ ## [Springboot @Async 异步方法](http://blog.csdn.net/qq_15071263/article/details/80165680)
+ > Springboot @Async 异步方法
+ ## [Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解](http://blog.csdn.net/jiangwei0910410003/article/details/79185353)
+ > Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解
+ ## [15类一面试就知道不靠谱的公司](http://blog.csdn.net/foruok/article/details/80226740)
+ > 15类一面试就知道不靠谱的公司
+ ## [华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的](http://blog.csdn.net/zw0Pi8G5C1x/article/details/80238831)
+ > 华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的
+ ## [僧多肉少的阿里实习，我面了5次才拿到offer！](http://blog.csdn.net/Y0Q2T57s/article/details/80239103)
+ > 僧多肉少的阿里实习，我面了5次才拿到offer！
+ ## [程序视界3周岁！3重福利大放送！](http://blog.csdn.net/IMbRl71u7pt5X29rlEu7/article/details/80252446)
+ > 程序视界3周岁！3重福利大放送！
+ ## [如何正确地黑程序员](http://blog.csdn.net/m68FUTKMUrmtj/article/details/80270115)
+ > 如何正确地黑程序员
+ ## [这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了](http://blog.csdn.net/qq_41807409/article/details/80206210)
+ > 这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了
+ ## [单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80270122)
+ > 单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？
+ ## [把机器手臂变成纯爱AI恋人，制造开源男友的女码农到底在想什么？](http://blog.csdn.net/R5A81qHe857X8/article/details/80253083)
+ > 把机器手臂变成纯爱AI恋人，制造开源男友的女码农到底在想什么？
+ ## [从英语小白到口语8级，她只用这一个方法！](http://blog.csdn.net/j3T9Z7H/article/details/80238050)
+ > 从英语小白到口语8级，她只用这一个方法！
+ ## [程序员社区骂战：不满政治正确，LLVM元老宣布退出](http://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80237298)
+ > 程序员社区骂战：不满政治正确，LLVM元老宣布退出
+ ## [让机器“析毫剖厘”：图像理解与编辑|VALSE2018之三](http://blog.csdn.net/XWUkefr2tnh4/article/details/80250922)
+ > 让机器“析毫剖厘”：图像理解与编辑|VALSE2018之三
  ## [滴滴悬赏100万“捉拿”司机；手机QQ又宕机；中兴手机或将出售 | CSDN 极客头条...](https://blog.csdn.net/csdnnews/article/details/80276260)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
  ## [中兴被逼入绝境，或将出售手机业务？](https://blog.csdn.net/csdnnews/article/details/80276253)
