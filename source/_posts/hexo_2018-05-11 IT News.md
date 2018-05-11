@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 10:27:44
+date: 2018-05-11 11:22:43
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -55,6 +55,54 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
                         
 </details>
 
+ ## [深入理解SpringAOP之代理对象](https://my.oschina.net/u/3739863/blog/1810570)
+ > 本篇文章主要带大家简单分析一下AOP的代理对象，至于AOP是什么，如何配置等基础性知识，不在这里讨论。在这之前我们需要了解springframework的三个核心接口与getBean方法 一、FactoryBean&BeanFactory&ObjectFactory 　　这三个接口都为Springframework的核心接口，虽然这三个名字很像，但是意义却千差万别。面试的时候也常问它们之间的区别。BeanFactory本身就是一个bean的工厂，同时也是我们的IOC容器，而FactoryBean是一个特殊的Bean,我们可以来看看这个接口： /* * Copyright 2002-2016 the original author or authors. * * Licensed under the Apache License, Version 2.0 (the "License"); * you may not use this file except in compliance with the License. * You may obtain a copy of the License at * *      http://www.apache.org/licenses/LICENSE-2.0 * * Unless required by applicable law or agreed to in writing, software * distributed under the License is distributed on an "AS IS" BASIS, * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. * See the License for the specific language gover...
+ ## [“阿里架构师”kafka 数据可靠性深度解读](https://my.oschina.net/u/3833719/blog/1810198)
+ > 1 概述 Kakfa起初是由LinkedIn公司开发的一个分布式的消息系统，后成为Apache的一部分，它使用Scala编写，以可水平扩展和高吞吐率而被广泛使用。目前越来越多的开源分布式处理系统如Cloudera、Apache Storm、Spark等都支持与Kafka集成。 Kafka凭借着自身的优势，越来越受到互联网企业的青睐，唯品会也采用Kafka作为其内部核心消息引擎之一。Kafka作为一个商业级消息中间件，消息可靠性的重要性可想而知。如何确保消息的精确传输？如何确保消息的准确存储？如何确保消息的正确消费？这些都是需要考虑的问题。本文首先从Kafka的架构着手，先了解下Kafka的基本原理，然后通过对kakfa的存储机制、复制原理、同步原理、可靠性和持久性保证等等一步步对其可靠性进行分析，最后通过benchmark来增强对Kafka高可靠性的认知。 2 Kafka体系架构 如上图所示，一个典型的Kafka体系架构包括若干Producer（可以是服务器日志，业务数据，页面前端产生的page view等等），若干broker（Kafka支持水平扩展，一般broker数量越多，集群吞吐率越高），若干Consumer (Group)，以及一个Zookeeper集群。Kafka通过Zookeeper管理集群配置，选举leader，以及在consumer group发生变化时进行rebalance。P...
+ ## [基于Docker搭建MySQL主从复制](https://my.oschina.net/u/3773384/blog/1810111)
+ > 本篇博文相对简单，因为是初次使用Docker，MySQL的主从复制之前也在Centos环境下搭建过，但是也忘的也差不多了，因此本次尝试在Docker中搭建。
+ ## [小改下把tio-websocket-showcase变成可集群方式](https://my.oschina.net/u/2078/blog/1810080)
+ > 基于发布订阅的方案
+ ## [Opera 53 稳定版发布：优化多标签页的显示和地址栏](https://www.oschina.net/news/95987/opera-53-stable-released)
+ > 基于 Chromium 的 Opera 在今天发布了最新的稳定版更新，对标签页和地址栏进行了小幅调整。Opera 53 稳定版基于最新的 Chromium 66.0.3359.139 开源浏览器，目前已经面向全球的 Linux、Mac 和 Windows 用户开放。 下载地址 >>> https://www.opera.com/download 本次版本更新重点优化了标签页和低地址栏的外观，尤其是 Mac 用户在打开多个标签页的时候，对标签栏的显示进行了优化，以便于用户能够更快的找到某个标签页。 Opera 的 EVP Desktop Krystian Kolondra 表示：“今天我们将 Opera 53 从测试版过渡到稳定版，新版本中优化了标签页和地址栏的显示。Mac 用户在打开多个标签页的时候往往很难定位或者管理某个特定标签页，我们想出了一种优化方式，能够让你的标签页标志变得更加明显。” 地址栏颜色也有改进
+ ## [聊天私服 Akaxin 0.5.4 发布，优化聊天、注册逻辑](https://www.oschina.net/news/95986/akaxin-0-5-4-released)
+ > Akaxin 是一款开源免费的私有聊天软件，可以部署在任意服务器上，搭建自己的聊天服务器，供自己与朋友、用户使用。 反馈与建议，请联系 hi@akaxin.xyz     特性： 单聊、群聊（含文字、图片、语音等） 端到端的加密消息（服务端不可解密，服务器可通过配置关闭此特性） 匿名注册、实名注册，以及注册邀请码机制（只允许特定用户注册） 扩展机制 等          一、快速体验 1. 启动服务器 最新版本: openzaly-0.5.4.jar 云下载: https://cdn-akaxin-1255552447.cos.ap-beijing.myqcloud.com/openzaly/openzaly-server.jar Gitee下载: 下载链接 Changelog 支持同时启用邀请码与实名账号 增加默认好友、默认群 管理员首次登陆后，注册机制默认修改为：匿名（无邀请码） 快速体验启动命令： java -jar openzaly-server.jar  2. 下载客户端 iOS Android 3. 访问站点 生成账号（手机账号与匿名均可） 输入站点服务器 首次登陆为管理员，邀请码：000000 别的用户登陆后可以互加好友，开始聊天。 匿名账号，账号保存在设备本地，用户不会填写手机信息，任何地方都获取不到。 站点注册方式默认为匿名，进入站点后，请根据情况第一时间修改为 实名 或者 开启邀请码，防止恶意用户进入
+ ## [腾讯 AI-Java 客户端 Taip 重大更新，支持更多功能](https://www.oschina.net/news/95983/taip-4-1-0-released)
+ > TAIP 是调用腾讯 AI 接口的 Java 客户端，为调用腾讯 AI 功能的开发人员提供了一系列的交互方法。 目前版本已经更新至4.1.0，Java开发者们无需再各种百度了。 Java JDK 1.7+ 新特性 人脸识别（个体管理、信息管理）、图片特效接口服务调用服务 【face人脸识别】 人脸检测与分析、多人脸检测、人脸对比、跨年龄人脸识别、五官定位、人脸识别、人脸验证、个体创建、删除个体、增加人脸、删除人脸、设置信息、获取信息、获取组列表、获取个体列表、获取人脸列表、获取人脸信息接口功能接入 【ptu图片特效】 人脸美妆、人脸变妆、图片滤镜（天天P图）、图片滤镜（AI Lab）、人脸融合、大头贴、颜龄检测接口功能接入
+ ## [Google Chrome 66 稳定版更新：修复四大严重安全漏洞](https://www.oschina.net/news/95982/chrome-66-stable-released)
+ > 本周四 Google 发布了 Chrome 66 稳定版维护更新，最新版本号为 v66.0.3359.170，目前已经面向Linux、Mac 和 Windows 三大平台开放，重点修复了一些非常严重的安全问题。 Google Chrome 66.0.3359.170 版本目前共修复了 4 个安全漏洞，包含 能够从沙盒中逃逸的高危漏洞 一个在扩展程序的提权漏洞 一个在 V8 JavaScript 引擎中类型混乱问题 PDF 查看器 PDFium 中的堆缓冲区溢出问题 目前 Google 并未对外披露具体有多少用户受到这些漏洞影响，官方日志中写道：“在大部分用户安装修复补丁之后我们会公布 BUG 的细节和链接信息。如果这些 BUG 依然存在于其他项目所依赖的第三方库中我们也会选择保留。” 除了上文提及的安全漏洞之外，Chrome 66.0.3359.170 同时还包含了其他大量修复，因此推荐 Chrome 用户尽快完成升级，避免被黑客有机可乘。 稳定版 32 位 最新版本：66.0.3359.170，文件大小：46.457MB，查询时间：2018-05-11 04:28 http://dl.google.com/release2/chrome/LoIYac1RLu8_66.0.3359.170/66.0.3359.170_chrome_installer.exe https://dl.google.com/release2/chrome/LoIYac1RLu8_66.0.3359.170/66.0.3359.170_chrome_installer.exe http://www.google.com/dl/release2/chrome/LoIYac1RLu8_66.0.3359.170/66.0.3359.170_chrome_installer.exe https://www.google.com/dl/release2/chrome/LoIYac1RLu8_66.0.3359.170/66.0.3359.170_chrome_installer.exe SHA1：D41B3356256A232D6891CC86C1C616557BD4AE59，  SHA256：35BAF449DC70849EEB6B0DF3F933429422527A5844B7F1F3DFAFD5B1EABF2CD1 稳定版 64 位 最新版本：66.0.3359.170，文件大小：46.879MB，查询时间：2018-05-11 04:28 http://dl.google.com/release2/chrome/AJGhpK4w6uRy_66.0.3359.170/66.0.3359.170_chrome_installer.exe https://dl.google.com/release2/chrome/AJGhpK4w6uRy_66.0.3359.170/66.0.3359.170_chrome_installer.exe http://www.google.com/dl/release2/chrome/AJGhpK4w6uRy_66.0.3359.170/66.0.3359.170_chrome_installer.exe  https://www.google.com/dl/release2/chrome/AJGhpK4w6uRy_66.0.3359.170/66.0.3359.170_chrome_installer.exe SHA1：D49EE37219DF6972C8B98A2233D3C5DA617F17E1       SHA256：8E0F91236CDC5E8A4EEB529551806890E96D745DA451556BEC8DEE6803D268DE 来自：cnBeta...
+ ## [JS 基金会发布 Dojo 2.0 ，带来大量改进](https://www.oschina.net/news/95981/dojo-2-0-released)
+ > 2018年5月2日，Dojo团队发布了Dojo第二版（Dojo 2）。Dojo是一种为JavaScript开发人员扩展开发过程提供帮助的工具箱。Dojo 2聚焦于开发人员对构建现代企业应用的需求，是在2007年发布Dojo 1的十多年后对Dojo的一次完全重写。Dojo 2使用TypeScript构建，采用了基于组件的架构和虚拟DOM。Dojo 2在工具上做了大幅的改进，其中包括一种新的CLI、集成的测试，以及一些连接Dojo与常见标准及工具的功能。 Dojo 2关注于对现代JavaScript巨大改进的集成，并提供给开发人员使用。Dojo的联合创始人和项目牵头者Dylan Schiemann给出了如下的介绍： 从很多方面看，Dojo 1必须要先行一步。而当前的问题，更多的在于如何将各种功能以一致的方式整合在一起。如何创建具有React那样的响应能力、但是能够更好地扩展到更大规模组件上的功能？如何能自然而然地而非磕磕绊绊地实现国际化（i18n）。 我们正力图打破各种框架之间的隔阂。我们一直在推进，已使Web组件系统深受Dojo 1 Widget的影响。所以这里要指出的是，我们需要一个基于响应式组件的系统，但并不希望将开发人员锁定到Dojo中。因此我们实现了一套工具，用于导入或导出Web组件，以供在Dojo中使用或是在Dojo之外使用。 工具是Dojo 2的一个主要关注点。Dojo 2提供了一种全新的CLI、集成的测试，以及一系列实现Dojo与常用标准和工具连接的功能。Dojo 2的Beta测试人员Rene Rubalcava撰写了一篇博客文章，介绍了该即将推出的新版本。文中特别指出，非常容易实现将Dojo Widget导出为可移植、符合标准的Web组件：“在REPO中运行命令dojo build --element=src/createTwitterShareElement.ts，之后该组件就可以在Web页面中使用了”。当被问及在Beta测试中接触到的所有特性中他最喜欢哪个时，Rubalcalva进一步做了如下的解释： Widget导出特性可以作为人们即刻开始使用Dojo 2的一个绝佳入口。这是一个很棒的特性！我之前从未在框架中看到这样的特性。在我看来，用户将会从该特性中受益匪浅。它使得开发人员可完全聚焦于组件的创建。CLI非常好用。 CLI提供了多种好特性，人们可以从中发现大量可用之处。其中之一，就是使用CLI为应用赋予主题。开发人员可以引入Dojo提供的一些默认的Widget，而CLI则提供了将主题应用到Widget和应用的工具。 Dojo中内建了一个基于CSS Modules的主题系统。所有内建Widget可主题化（Themeable）。根据Dojo的主题文档，可直接使用CSS Modules的组合（composition）功能实现主题的扩展。想要着...
+ ## [然之协同 4.6.3.stable 发布，集成喧喧 1.5.0](https://www.oschina.net/news/95980/ranzhi-4-6-3-stable-released)
+ > 然之协同办公系统是一款面向中小企业内部管理的协同办公系统，由客户管理(crm)、日常办公(oa)、现金记账(cash)、团队分享(team)、项目管理（proj）、阿米巴应用（ameba）应用导航(ips)等模块组成。专注于提供一体化、精简的解决方案，真正开源免费，扩展性强，支持二次开发，可以满足用户更多需求。 2018年5月8日，然之协同管理软件4.6.3.stable版本正式发布了！ 这次发布主要是集成喧喧1.5.0，然之的待办可以直接发送到喧喧，在喧喧中也可以直接创建然之的待办。现在可以使用1.5.0版本的xxd服务器直接连接然之而无需升级。 一、修改记录 添加用户、用户资料变更、删除用户时添加历史记录 新增队列服务功能 用户信息变更时发送通知到喧喧 检查未添加待办发送通知到喧喧 待办指派给用户时发送通知到喧喧 二、下载地址 源码包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.zip linux rpm安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi-4.6.3.stable-1.noarch.rpm linux deb安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi_4.6.3.stable_1_all.deb Windows 64位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.win64.exe Windows 32位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.win32.exe Linux 64位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.zbox_64.tar.gz Linux 32位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.zbox_32.tar.gz 注：Linux一键安装包必须直接解压到/opt目录下。 国际版 源码包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.int.zip linux rpm安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi-4.6.3.stable.int-1.noarch.rpm linux deb安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi_4.6.3.stable.int_1_all.deb Windows 64位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.int.win64.exe Windows 32位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.int.win32.exe Linux 64位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.int.zbox_64.tar.gz Linux 32位一键安装包：http://dl.cnezsoft.com/ranzhi/4.6.3/ranzhi.4.6.3.stable.int.zbox_32.tar.gz 注：Linux一键安装包必须直接解压到/opt目录下。...
+ ## [终于，微软修复了 Notepad 长达 33 年的换行“Bug”](https://www.oschina.net/news/95979/extended-eol-in-notepad)
+ > 自 1985 年发布以来，微软的 Notepad（记事本）一直存在的一个 “Bug” ，终于宣布要解决了。 对于一般用户来说，记事本是一个非常实用的 TXT 文本编辑工具。不过 IT 专业人员可能会烦扰记事本只支持 Windows 的行尾符 (End-of-Line) - 回车（CR）和换行符（LF），因为这意味着记事本无法正确显示在 Unix、Linux 和 macOS 中创建的文本内容，看起来就像下面这样： 在微软的开发者博客上，开发团队表示正在更新 Windows 10 上的记事本应用，以新增对 Unix / Linux 行结尾（LF）和 Macintosh 行结尾（CR）的支持。版本更新后，在记事本中创建的新文件依然会默认使用 Windows 行结尾符（CRLF），但可以查看、编辑和打印现有文件，并正确保持文件的当前行尾格式。 目前，记事本在 Windows 10 内部预览版中已得到更新。至于这个问题为什么会持续三十多年，文中没有提及。 如果不喜欢新增的功能，还可以通过编辑注册表 [HKEY_CURRENT_USER\Software\Microsoft\Notepad] 将其禁用。
+ ## [每日一博 | 基于 Docker 搭建 MySQL 主从复制](https://my.oschina.net/u/3773384/blog/1810111)
+ > 本篇博文相对简单，因为是初次使用 Docker ，MySQL 的主从复制之前也在 Centos 环境下搭建过，但是也忘的也差不多了，因此本次尝试在 Docker 中搭建。根据网上教程走还是踩了一些坑，不过所幸最终搭建成功，因此记录下来，避免以后踩了重复的坑。
+ ## [我勒个去，你怎么把这种问题代码提交到仓库啊？？](https://www.oschina.net/news/95977/git-workflow-story)
+ > 我已经疯了，今天公司新来的小白提交了好了问题代码到项目仓库，最要命的是项目在线上跑不起来时费劲好大力气，检查了各种可能性，甚至还一度怀疑是不是数据库、应用服务器有问题呢。花了半个小时才发现是代码问题，追踪到版本管理才发现是新来的小白提交了很多问题代码！！！ 然后又花了很多时间为了把这个被小白污染的仓库清理干净，因为在他提交的前前后后都会其他的代码更新。 都怪我，为了着急上线没怎么做测试就匆匆上线；都怪我，没有检查大家提交的代码就急忙更新。业务中断两个小时，看来离滚蛋不远了。吃键盘的心都有了！！！ ----- 华丽分割线 ----- 这就是不做代码评审的下场！！！ 可是代码评审很难搞，特别是使用 SVN 或者把 Git 当做 SVN 来用的团队。 我们希望项目的主仓库只有负责人才有权限操作，项目组成员对代码的任何修改都要经过审核后才能合并到主仓库。这样才能确保上述事故不会发生。 ----- 呼啦啦分割线 ----- 其实只要我们善用 Git 工作流就可以轻轻松松实现代码的评审功能。 以码云为例，基本流程如下： 假设项目主仓库 A/Project1 ，该仓库只有项目负责人（小红）具备写权限，项目成员只读 新来的小白复制 A/Project1 仓库到 "小白/Project1"  （在 A/Project1 页面点一下 Fork 按钮） 然后小白开始制造各种 Bug ，修改无数代码 写了一天的代码，小白觉得可以交差了，然后创建了个 Pull Request 请求把当前的改动合并到主仓库 项目负责人小红看到有人提交了 Pull Request ，打开小白修改的文件一看，惊呼：这是什么垃圾代码！！！ 一时间，小白哭，小红怒，天色阴暗，可能要下雨了。。。 如果你还不熟悉 Git 工作流的操作，请前往 https://gitee.com/ 体验。 欲知后事如何，请听下回分解。
+ ## [码云推荐 | 基于 Netty 和 Spring 的服务端容器 StartX](https://gitee.com/sharegpj/StartX)
+ > 基于 Netty 和 Spring 开发的服务端容器，支持 Socket，WebSocket(SSL)，HTTP(S)，提供集成环境，能很快速的进入业务开发，对业务开发者透明，支持对各种通讯协议进行定制。
+ ## [RadonDB —— 基于 MySQL 的分布式关系型数据库](https://www.oschina.net/p/radondb)
+ > RadonDB 是青云（QingCloud）基于 MySQL 研发的新一代分布式关系型数据库。RadonDB 不仅支持分布式事务，全面兼容 MySQL，还能够实现容量与性能无限水平扩展，具备金融级数据强一致性，满足企业级核心数据库对大容量、高并发、高可靠及高可用的苛刻要求。此外，还支持智能化自动分表、自动扩容及自动运维，大幅减轻数据库运维压力。
+ ## [5 月编程语言指数榜：Python 首次超越 Java 夺下冠军](https://www.oschina.net/news/95974/may-pypl-popularity-of-programming-language)
+ > 这个 5 月，国外两个流行的编程语言参考指标榜单都出现了十分有意思的变化。在 TIOBE 5 月编程语言榜中，Scala 厚积薄发，一举进入 TOP 20 。而在 PYPL 发布的 5 月编程语言指数榜中，Python 首次超越 Java 占据榜首位置。 PS：趋势是与去年 5 月对比 PYPL 指数原始数据基于 Google trends ，根据编程语言在 Google 上的搜索频率（次数）来评估语言的流行度。Python 上个月以 22.2％ 的份额位列第二，本月以 22.8% 的成绩击败了 22.5% 的 Java ，而这也是 Python 在 PYPL 指数榜中的首次夺冠。 下面的走势图也能十分明显的看到 Python 的增长。 完整的排名请查看：PYPL PopularitY of Programming Language
+ ## [微软副总裁潘正磊：我们将重振 Windows 桌面开发](https://www.oschina.net/news/95973/microsoft-will-revive-windows-desktop-development)
+ > 在刚刚结束的 Build 2018 开发者大会上，微软发布了利用 AI 来帮助开发者提高生产力的 Visual Studio IntelliCode，允许开发者实时合作开发的 Visual Studio Live Share，C＃机器学习库 ML.NET 等非常实用的工具和框架。以及，被寄予厚望的 .NET Core 3 。 微软全球开发平台事业部副总裁潘正磊 (Julia Liuson) 在接受外媒 The Reg 采访时表示，微软将重振 Windows 桌面开发，.NET Core 3 则是关键的第一步。 随着 Windows Phone 从微软的版图上移除，许多人认为 UWP 已没有多少价值。潘正磊表示，.NET Core 3 就是将 UWP 和其他框架相互结合，Windows 开发者将获得微软之前在各个框架上取得的所有研究进展。Windows 拥有数百万的桌面开发者，微软正在做一些事情来帮助这群开发者前进。 在采访中，潘正磊也谈到了关注度非常高的 Visual Studio 系列。目前微软拥有三款独立的产品，Visual Studio、Visual Studio for Mac 和 Visual Studio Code 。她表示三款产品其实已经在共享很多组件，比如 VS for Mac 中的 ASP.NET 特性就完全来自 Windows 端。刚刚推出的 IntelliCode、Live Share 等服务也将在三种产品中都可用。其中，作为非商业化的 Visual Studio Code，是微软试图吸引开发者的关注度和忠诚度的工具，最终希望能促进整个平台的建设和发展。 原文：The Reg  编译：开源中国
+ ## [协作翻译 | 一文读懂 Rust 语言中的错误处理](https://www.oschina.net/translate/rust-error-handling)
+ > 在本文，我打算为 Rust 中如何处理错误做一个全面论述。不仅如此，我会尽量每次只引入一种错误处理方式，那么在如何将每一种组合到一起的时候，你就可以有一个坚实的实践知识基础。 如果使用最幼稚的方法，Rust 中的错误处理可以是冗长且恼人的。本文会探索那些绊脚石，并且示范如何使用标准库来让错误处理更加简洁且符合习惯。
+ ## [OSChina 周五乱弹 —— QQ 和妹子聊天，翻车了](https://my.oschina.net/xxiaobian/blog/1810544)
+ > 公司一开发妹子，长的不错，对一男同事赶到好感，又不敢表白，每天没事找事的接近男同事，并且在T恤胸前印了OOM。男同事由于是一个gay，也发现了该女生对他的爱慕，不好直接拒绝，毕竟女的没有开口表白，于是在裤兜印了ANR。于是乎女的就再也没有纠缠他了。
+ ## [“国产自主可控”的开源软件就是一个矛盾体](https://www.oschina.net/news/95970/about-the-zh-opensource-software)
+ > 编者注：文章来自Linux 宝库公众号，作者：开源社会人。仅作讨论，不代表开源中国观点。 一、梁宁女士：关于国产芯片与操作系统的往事 一篇万字长文，在今年4月的时候，刷了很多人的屏。其实我就想问一句：当时你们立项的时候，是怎么跟国家吹牛的？在拿了国家那么多钱之后，事情做成了吗？ 拿了钱，没有做成事，不是骗钱，是啥？ 现在梁宁女士写文章，悲情十足地说“当时没有考虑到系统生态的困难”。那么：立项的时候，也没有考虑到？因为考虑不周，所以让国家交了学费？ 现在梁宁女士的总结是：我们国家如果真的想要一个“移动操作系统生态”，其实挺清晰和明确的，就是国家出钱，投种子，一年往市场里撒1000亿，连撒5年钱。允许大面积失败。 我忍不住就要呵呵了！当年的国家那么穷，都被你们申请到了那么多钱。现在国家有钱了，所以你们忍不住，胃口更大了！5000亿，大面积失败！真的当国家是冤大头？ 为啥要有国产CPU？为啥要有国产操作系统？为啥国家要投几千亿，建立一套完全独立自主可控的生态？ 这些问题如果搞不明白，国家就注定是冤大头无疑！ 二、硬件与软件，区别是什么？ 最近我在看一本小说：《大国重工》，是记述从80年开始的，国家工业制造的重大装备的崛起历程。其中有一段话很有价值：“一个错误的决策，可能会导致无数人力、物力、财力的浪费，会把咱们国家的技术发展引向歧路，同时还会浪费掉宝贵的时间。要实现四个现代化，还能有多少时间去走弯路、交学费呢？” 在工业领域、装备领域，泛泛而论，在所有看得见、摸得着的硬件领域，大规模制造都是一个复杂的问题。人家能造出来，你造不出来。人家能够大规模、低成本造出来，你只能小规模、高成本地生产。事到临头，你的生产技术跟不上，你的产能跟不上，就只能选择进口。 所以，在硬件领域，在核心、基础、关键的环节，被人卡住脖子、受制于人，是一个非常现实的问题。 但是，软件大不相同！软件的复制成本，几乎为零！只要能够通过某种渠道买到一套软件，就意味着任何人都可以用上这套软件。当然，盗版是一个需要进一步讨论的话题。 如果有人搞不清硬件与软件的区别，基于避免“受制于人”危险的考虑，一定要开发国产的XX软件，我想他们在概念上存在重大偏差。 三、倪院士的逻辑 果然是一门师徒，梁宁女士的老师倪光南院士，最近又有惊人言论： 【倪光南：微软放任盗版让国产软件起不来】4月24日，中国工程院院士倪光南称，从Win7开始，微软允许装盗版，谁装盗版，谁没装盗...
+ ## [孤独的少数派，抵制 systemd 的 Devuan 能走多远？](https://www.oschina.net/news/95969/wheres-the-future-of-devuan)
+ > Devuan Linux，一个由一群不满 systemd 的开发者创建的 Debian 分支，本周发布了其 2.0 “ASCII” 的首个候选版本。 据悉，Devuan 2.0 基于 Debian Stretch ，不使用 systemd ，其安装选项中有 SysVinit 和 OpenRC 可供选择，并提供 XFCE、KDE、MATE、Cinnamon、LXQT 等不同的桌面环境。2.0 的正式发布时间尚未公布。 Devuan 的目标是成为一个保护用户和开发者社区自由的发行版，为现有的 Debian 用户和愿意维护 Init Freedom 的下游分布实现多样性、互操作性和后向兼容性。该项目自成立之初至今一直都不怎么被大众看好，甚至被看成是一群人微不足道的小打小闹。而事实上，项目之前由于迭代速度较慢，甚至一度被外界认为已停止。 不过，Devuan 的官网目前已列出其后续的版本规划，开发团队目前已经在进行第三个基于 Debian Buster 版本的开发工作，并很快可以进行测试。 对于该系统，你怎么看？是否看好其未来发展？欢迎评论探讨。
+ ## [PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 和 9.3.23 发布](https://www.oschina.net/news/95968/postgresql-10-4-and-9-6-9-released)
+ > PostgreSQL 10.4, 9.6.9, 9.5.13, 9.4.18 和 9.3.23 全系列更新发布！ 本次更新修复了一个安全问题以及过去三个月报告的一些错误。 安全问题 该版本修复了一个安全漏洞 CVE-2018-1115: 函数 pg_logfile_rotate() 权限过高，使得可允许访问控制列表 其他 Bug 修复和改进 本次更新还修复了过去几个月报告的 50 多个错误。其中一些问题仅影响版本 10，但更多的是影响所有受支持的版本。 Fix incorrect volatility and parallel-safety markings on several built-in functions to ensure correct query planning optimizations Several fixes for partitioning, including potential crashes as well as allowing TRUE and FALSE to be used as partition bounds Fix where a new TOAST value could be assigned to a dead-but-not-yet-vacuumed TOAST OID, which would result in an error similar to "unexpected chunk number 0 (expected 1) for toast value nnnnn" Fix "CREATE TABLE ... LIKE" with bigint identity columns on 32-bit platforms Fix memory leak within the runtime of a query that repeatedly executes hash joins Several crash fixes around queries using GROUPING SET Avoid failure if a query-cancel or session-termination interrupt occurs while committing a prepared transaction Reduce locking during autovacuum worker scheduling, which prevents loss of potential worker concurrency Fix possible slow execution of REFRESH MATERIALIZED VIEW CONCURRENTLY Several fixes around query plans that use "index-only" scans Avoid deadlocks in concurrent CREATE INDEX CONCURRENTLY commands that are run under SERIALIZABLE or REPEATABLE READ transaction isolation Several fixes for SP-GiST indexes, including one collation-aware searches on text columns Fixes related to counting the number of tuples in partial GiST, SP-GiST, and Bloom indexes Several fixes for logical decoding and replication Fix misquoting of values for list-valued GUC variables (e.g. local_preload_libraries, session_preload_libraries, shared_preload_libraries, temp_tablespaces) in dumps Several fixes for pg_stat_activity Several fixes for ecpg Fix for pg_recvlogical to ensure com...
+ ## [Go 语言集成开发环境 GoLand 更新至 2018.1.3 版本](https://www.oschina.net/news/95967/goland-2018-1-3-released)
+ > GoLand 2018.1.3 已发布，这是一个全新的更新，尽管没有带来明显的针对 Go 语言的特定改进，但还是提供了许多与 UI，JavaScript 和 SQL 支持相关的错误修复和改进。 可通过 Toolbox App 进行更新，或通过官网下载 >>> https://www.jetbrains.com/go/download/ 值得关注的更新 支持 .sqlite/.sqlite3 文件 Vue 文件中的流支持 改进对 Angular 6 的支持以及与 Angular CLI 6 蓝图的集成 TypeScript 代码自动补全的更新 —— 根据 TSLint 规则 详细内容请查看发布说明 https://confluence.jetbrains.com/display/GOLAND/GoLand+2018.1.3+Release+Notes P.S. EAP for GoLand 2018.2 也即将发布，它将带来很多好玩的功能特性，敬请期待！
+ ## [Debian 的一个分支 Devuan 2.0 ASCII 首个候选版发布](https://www.oschina.net/news/95966/devuan-2-0-0-rc-released)
+ > Devuan 2.0 ASCII 首个候选版已发布，Devuan 是使用 SysV init 和 OpenRC 软件代替 Debian systemd 包的 Debian 分支。 官方表示，Devuan 2.0 ASCII 很快将正式推出。 Devuan 2.0 ASCII RC 安装程序现在提供更多种类的桌面环境，包括 Xfce，KDE，MATE，Cinnamon，LXQt（其他都可以在安装后使用）。此外，还有数百种 CLI 和 TUI util 的“控制台生产力”选项，以及最适合的基本系统服务器。当从 ISO 安装时，安装选项提供了 SysV init 和 OpenRC 的选择。 更多细节可以在项目发布公告中找到，Devuan 提供多种版本，并提供 x86，x86-64 和多个 ARM 单板计算机的构建。 Download (pkglist):  devuan_ascii_2.0.0-rc_amd64_desktop-live.iso (1,008MB, SHA256, signature),  devuan_ascii_2.0.0-rc_amd64_minimal-live.iso (357MB, SHA256, signature). 升级指南和下载地址：https://dev1galaxy.org/viewtopic.php?id=2047
  ## [万台服务器“一人挑”的奥秘](http://zhuanlan.51cto.com/art/201805/573158.htm)
  > 万台服务器“一人挑”的奥秘
  ## [实施全闪存阵列的六个最佳实践](http://stor.51cto.com/art/201805/573145.htm)
@@ -71,56 +119,56 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 2018年7款最佳免费数据分析工具
  ## [详谈软件定义存储如何约会区块链？](http://stor.51cto.com/art/201805/572945.htm)
  > 详谈软件定义存储如何约会区块链？
+ ## [面向开发人员的区块链：真的适合应用程序吗](http://server.51cto.com/-573176.htm)
+ > 任何意义的交易可能都很复杂，需要一个强大的法律框架才能使用它们。这就是为什么与银行账户相关的重要数据
+ ## [AI应用于病床管理，跟踪式预测让患者有床可住](http://ai.51cto.com/art/201805/573175.htm)
+ > 而据Nature Digital Medicine发表的一项最新研究，AI在医疗领域的应用取得了新的进展，很有可能会为成熟的
+ ## [管理混合云和多云:代理或无代理?](http://cloud.51cto.com/art/201805/573172.htm)
+ > 代理监控与无代理监控一直是一个IT服务管理行业激烈争议的话题。那么哪个更好一些?随着混合云和多云基础设
+ ## [40多岁的 Unix 还能走多远？](http://os.51cto.com/art/201805/573174.htm)
+ > 这项工作后来帮他和他的同事Dennis Ritchie获得了1983年的计算机领域的最高奖项图灵奖，而他当时所采用的众
+ ## [服务器托管时关于机房和带宽的问题](http://server.51cto.com/News-573170.htm)
+ > 现在服务器托管越来越受到企业青睐，其关键也在于服务器托管安全性高，托管服务器用户是独享服务器资源，可
+ ## [微信小程序“反编译”实战（二）：源码还原](http://mobile.51cto.com/hot-573168.htm)
+ > 本文包含一部分源码分析，由于手机屏幕较小，阅读体验可能不佳，建议在电脑上浏览。下文使用的还原工具来自
+ ## [微信小程序“反编译”实战（一）：解包](http://mobile.51cto.com/hot-573162.htm)
+ > 本实战教程将一步步告诉你如何“反编译”获得其它小程序的源代码，主要参考了看雪论坛、V2EX、GitHub 等网
+ ## [你知道区块链上还可以结婚么？](http://blockchain.51cto.com/art/201805/573161.htm)
+ > 自从“创世”区块被挖掘以来，人们一直在比特币区块链中隐藏信息，比特币区块链也充斥着各种消息。随着人工
+ ## [数字时代，企业应该如何实现卓越的数字体验?](http://network.51cto.com/art/201805/573160.htm)
+ > 在云计算、移动互联网和分析工具等主流技术趋势的推动下，数字化正变得越来越重要。数字化时代，企业内业务
  ## [初涉iOS逆向工程：免越狱修改微信（外观篇）](http://mobile.51cto.com/hot-573146.htm)
  > 偶然在网上看到了美化版的微信，而这些“分身版”、“美化版”的客户端预留了大量高危接口，一不注意手机就
- ## [链世界｜区块链乱象该停了！国家出手制定区块链标准，明年底完成](http://blockchain.51cto.com/art/201805/573157.htm)
- > 虽然区块链目前来看是一波非常不错的财富浪潮，但它毕竟是一个新兴的事物依旧还处于发展的初级阶段，在高收
- ## [中大奖的秘密！彩票的数学知识](http://bigdata.51cto.com/art/201805/573156.htm)
- > 2005年2月，美国的一个彩票品种，就出现了漏洞，被麻省理工学院的学生发现了。随后的七年，这个学生反复购
- ## [微软开源 ML.NET 跨平台机器学习框架，AI 普及又向前跨进一步](http://news.51cto.com/art/201805/573154.htm)
- > ML.NET 是一个跨平台框架，可以允许 .NET 开发人员开发专属模型，并在他们的应用程序中注入定制的机器学习
- ## [终于，微软修复了 Notepad 长达 33 年的换行“Bug”](http://news.51cto.com/art/201805/573151.htm)
- > 自 1985 年发布以来，微软的 Notepad（记事本）一直存在的一个 “Bug” ，终于宣布要解决了。
- ## [机器领域人才缺失？人工智能时代，远比你想象的来得更快！](http://ai.51cto.com/art/201805/573152.htm)
- > 我们常说，人工智能时代要来临了，当20年后我们的孩子步入社会，很可能迎接他们的是与机器人pk；而且，很多
- ## [“国产自主可控”的开源软件就是个矛盾体](http://news.51cto.com/art/201805/573150.htm)
- > 我们国家如果真的想要一个“移动操作系统生态”，其实挺清晰和明确的，就是国家出钱，投种子，一年往市场里
- ## [5 月编程语言指数榜：Python 首次超越 Java 夺下冠军](http://news.51cto.com/art/201805/573148.htm)
- > 这个 5 月，国外两个流行的编程语言参考指标榜单都出现了十分有意思的变化。在 TIOBE 5 月编程语言榜中，Sc
- ## [吃火锅，秒懂云计算！](http://cloud.51cto.com/art/201805/573143.htm)
- > 上周，有个厂商请小千去吃火锅，妹子一边咂嘴一边琢磨突然发现，用火锅解释云计算太形象了。因为，要把云计
- ## [获得首席信息官职位的7种方式](http://www.cioage.com/art/201805/573142.htm)
- > 如果IT行业人士正在努力获得企业首席信息官的职位，那么是否采取了正确的方法和措施?以下是如何提高吸引力
  ## [从点线面体谈开发到架构师的转型](http://blog.csdn.net/robertleepeak/article/details/80259986)
  > 从点线面体谈开发到架构师的转型
  ## [科技逆袭？中通变了呢！](http://blog.csdn.net/sch881226/article/details/80250023)
  > 科技逆袭？中通变了呢！
- ## [Springboot @Async 异步方法](http://blog.csdn.net/qq_15071263/article/details/80165680)
- > Springboot @Async 异步方法
  ## [Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解](http://blog.csdn.net/jiangwei0910410003/article/details/79185353)
  > Android"挂逼"修练之行--微信小程序逆向辅助插件工具开发详解
+ ## [Springboot @Async 异步方法](http://blog.csdn.net/qq_15071263/article/details/80165680)
+ > Springboot @Async 异步方法
  ## [15类一面试就知道不靠谱的公司](http://blog.csdn.net/foruok/article/details/80226740)
  > 15类一面试就知道不靠谱的公司
  ## [华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的](http://blog.csdn.net/zw0Pi8G5C1x/article/details/80238831)
  > 华为、阿里、网易员工下班时间大曝光，靠加班，你是赢不了他们的
  ## [僧多肉少的阿里实习，我面了5次才拿到offer！](http://blog.csdn.net/Y0Q2T57s/article/details/80239103)
  > 僧多肉少的阿里实习，我面了5次才拿到offer！
- ## [程序视界3周岁！3重福利大放送！](http://blog.csdn.net/IMbRl71u7pt5X29rlEu7/article/details/80252446)
- > 程序视界3周岁！3重福利大放送！
- ## [如何正确地黑程序员](http://blog.csdn.net/m68FUTKMUrmtj/article/details/80270115)
- > 如何正确地黑程序员
  ## [这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了](http://blog.csdn.net/qq_41807409/article/details/80206210)
  > 这波血亏! 腾讯预计会亏5000万, 又有程序员要被祭天了
- ## [单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80270122)
- > 单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？
- ## [把机器手臂变成纯爱AI恋人，制造开源男友的女码农到底在想什么？](http://blog.csdn.net/R5A81qHe857X8/article/details/80253083)
- > 把机器手臂变成纯爱AI恋人，制造开源男友的女码农到底在想什么？
- ## [从英语小白到口语8级，她只用这一个方法！](http://blog.csdn.net/j3T9Z7H/article/details/80238050)
- > 从英语小白到口语8级，她只用这一个方法！
- ## [程序员社区骂战：不满政治正确，LLVM元老宣布退出](http://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80237298)
- > 程序员社区骂战：不满政治正确，LLVM元老宣布退出
- ## [让机器“析毫剖厘”：图像理解与编辑|VALSE2018之三](http://blog.csdn.net/XWUkefr2tnh4/article/details/80250922)
- > 让机器“析毫剖厘”：图像理解与编辑|VALSE2018之三
+ ## [对程序员老婆的误会](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80270050)
+ > 对程序员老婆的误会
+ ## [如何正确地黑程序员](http://blog.csdn.net/m68FUTKMUrmtj/article/details/80270115)
+ > 如何正确地黑程序员
+ ## [5 月编程语言榜：C 再度暴涨，Scala 成功上位](http://blog.csdn.net/P5dEyT322JACS/article/details/80238710)
+ > 5 月编程语言榜：C 再度暴涨，Scala 成功上位
+ ## [想转行IT行业？这是我给你最真挚的建议](http://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80241404)
+ > 想转行IT行业？这是我给你最真挚的建议
+ ## [【福利】【两周年庆典，送书第二弹】机器学习方法体系汇总](http://blog.csdn.net/Mbx8X9u/article/details/80251811)
+ > 【福利】【两周年庆典，送书第二弹】机器学习方法体系汇总
+ ## [自适应注意力机制在Image Caption中的应用](http://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80270003)
+ > 自适应注意力机制在Image Caption中的应用
+ ## [困扰程序员的30种软件开发问题，你是否时曾相识？](http://blog.csdn.net/xishining/article/details/80204250)
+ > 困扰程序员的30种软件开发问题，你是否时曾相识？
  ## [滴滴悬赏100万“捉拿”司机；手机QQ又宕机；中兴手机或将出售 | CSDN 极客头条...](https://blog.csdn.net/csdnnews/article/details/80276260)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
  ## [中兴被逼入绝境，或将出售手机业务？](https://blog.csdn.net/csdnnews/article/details/80276253)
@@ -147,12 +195,22 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 1.Summary:1-1.MongoDB进入3.x版本之后，对集群的结构和存储引擎做了较大的修改。在学习过程中时常遇到一些3.0之前的版本的指导，但我使用的却是3.6，所以...
  ## [币圈撸羊毛：优质区块链空投糖果分享（2018-05-11）](https://www.jianshu.com/p/269e0e384553)
  > 今天介绍的三枚糖果质量都不错，大家可以多多关注，有什么问题或是建议可以留言给我，会尽量解答或改正哈^_^近期我觉得还是应该把重心放在LFT和TOS糖果上，估计应该快结束了！ ...
+ ## [天神娱乐出现影响股价信息 今日临停](http://www.lanjingtmt.com/news/detail/34869.shtml)
+ > 董事长遭证监会立案调查
+ ## [无人货架要崩盘？月租500元日成交额10元 盗损率50](http://www.lanjingtmt.com/news/detail/34868.shtml)
+ > 月租500元，日成交额10元，盗损率50%，无人货架要崩盘？去年网点目标1万，今年变100万，互联网速度拖垮资金链。
+ ## [人民日报：立起规矩来 严管漏网车](http://www.lanjingtmt.com/news/detail/34866.shtml)
+ > 对屡屡挑战交规的电动车、摩托车，不能再听之任之，必须尽快加强约束和监管。
  ## [云知声获中电健康基金领投1亿美元C轮融资，360等跟投](http://www.lanjingtmt.com/news/detail/34864.shtml)
  > 目前智能语音技术领域的最大单笔融资。
  ## [小米金融计划拆分：IPO前夜造概念难有出路](http://www.lanjingtmt.com/news/detail/34859.shtml)
  > ​继蚂蚁金服、京东金融、百度金融等科技巨头拆分后，小米金融也计划拆分。
  ## [与其一个人闷头苦学，不如让老司机指条明路！](http://www.woshipm.com/active/1019792.html)
  > “对于你要做的产品，为什么要做竞品分析呢？哪位童鞋可以说说”随时了解竞争对手的产品和市场动态，知己知彼百战不殆掌握竞争对手对细分用户的需求满足情况，及时发...
+ ## [轻量级和重量级用户运营：1或100万个用户如何区别运营？](http://www.woshipm.com/operate/1022290.html)
+ > 用户运营需要有量级概念，运营一百个用户和运营十万个用户有着质的不同。我们为了更好讲解，以下内容将千人以下的规模定义为“轻量级”；百万人规模定义为“重量级”；至于...
+ ## [工具类产品，究竟是如何盈利的？](http://www.woshipm.com/it/1020971.html)
+ > 工具类产品作为产品的一个重要分类算的上是最早出现的产品之一了。相比较娱乐类产品而言，工具类产品一般没有会员以及道具购买；而相对于电商金融类产品而言，它又难以...
  ## [如何设计智能语音助手？](http://www.woshipm.com/pd/1022055.html)
  > 随着人工智能的发展，智能语音也在不断取得重大的突破，那么设计一个智能语音助手需要交付些什么？和设计VUI时需要遵守哪些基本设计原则？来看看作者的回答。近年随着...
  ## [谷歌助手点餐，微软小娜下单：AI横行的未来世界里没有人类什么事](http://www.woshipm.com/ai/1021338.html)
@@ -167,18 +225,22 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 谷歌昨晚在加州召开了 2018 年度的开发者大会（Google I/O 2018）。在大会介绍的 Android P、Gmail、Gboard、TPUv3 等众多新产品和功能中，尤为亮眼的无疑是个人助理 Go...
  ## [产品经理周报第18期｜滴滴寻求流量变现入口，摩拜单车开启免押金试点，虎牙将在5月11日进行IPO……](http://www.woshipm.com/it/1022105.html)
  > 早#本周最佳言论#☟☟☟傅盛受邀参加了北大120周年校庆创新创业投资论坛，并发表演讲：对个人而言，如果一个人重视认知和思维模式的升级，而不是简单的知识或技能积累...
+ ## [聊聊 ∣ 如何设计站内信？](http://www.chanpin100.com/article/106814)
+ > 如何设计站内信，使其真正发挥方便会员商务信件往来的服务功能？
+ ## [网易、百科这些APP巨头们砸重金入局短视频，只为跟风自嗨？](http://www.chanpin100.com/article/106842)
+ > 这些互联网巨头们纷纷选择在泛知识短视频领域布局、跑马圈地，并非是简单的跟风，而是因为这个风口才刚刚显现。
+ ## [聊聊 ∣ 产品小白也来谈谈知识付费](http://www.chanpin100.com/article/106836)
+ > 知识付费到底是“歪门邪风”还是“蔚然成风”。
+ ## [用户价值 VS 用户体验](http://www.chanpin100.com/article/106848)
+ > 做好了用户体验，产品就一定能成功吗？显然不是，所以这里就需要抛出另外一个概念——用户价值。笔者认为，因为拥有价值，才会注重体验，所以下面来谈谈用户价值与用户体验的关系。
+ ## [快感消退，4步挽回用户适应产品后淡漠的激情](http://www.chanpin100.com/article/106850)
+ > 产品给用户带来的满足感，终将会消退。随着用户适应产品，激情将荡然无存。
  ## [7大套路，助你打造千万日活](http://www.chanpin100.com/article/106849)
  > 评判一款产品是不是做得好，我们首先想到的一定是它的用户活跃。日活越高，意味着真正使用产品的人越多，流量也就越大，流量越大进行各种转化的可能性也就相对多一些。
  ## [刘玮冬运营手记|用户运营的核心手段是什么？标签化管理与策略制定](http://www.chanpin100.com/article/106841)
  > 今天我抛开理论，为大家讲讲用户运营中的核心操作手段，以帮助大家更好的了解用户运营到底是如何进行实操的。
  ## [产品心理学：你需要掌握的分析模型](http://www.chanpin100.com/article/106845)
  > 产品经理在做产品时，最重要的产品思维就是同理心，即要站在用户的角度去思考，感同身受用户在各个节点的情绪。
- ## [入门区块链02 ∣不可不知的区块链七大设计原则](http://www.chanpin100.com/article/106797)
- > 无论区块链技术以何种方式进行应用和落地，它都应该遵循一些基本原则，这些原则将有助于我们理解区块链的基本原理。
- ## [想做产品经理的你，先问问自己这几个工具你会不会](http://www.chanpin100.com/article/106776)
- > 想要做产品经理，要先学会这几个必备的工具。
- ## [甲方对乙方说：管理在上  业务在下](http://www.chanpin100.com/article/106816)
- > 只有系统能够精准地将线下业务“搬“到线上，无缝地让管理流程在线上跑起来的话，才能够达到客户的需求，减少试运行和验收过程中的麻烦，更好地为甲方服务和完成项目验收。
  ## [去豆瓣刷分一条长评40元起？豆瓣：反刷分是日常工作](http://www.pmtoo.com/article/46083.html)
  > 电影《后来的我们》近期备受关注，从82万人“想看”，到首映当日大量异常退票，再到水军豆瓣刷分传闻。目前，该电影在...
  ## [腾讯越发重视传统文化，这是互动娱乐业务调整的开始](http://www.pmtoo.com/article/46077.html)
