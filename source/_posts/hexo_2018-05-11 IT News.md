@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 11:40:32
+date: 2018-05-11 11:41:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -61,8 +61,6 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 1
  ## [基于Docker搭建MySQL主从复制](https://my.oschina.net/u/3773384/blog/1810111)
  > 本篇博文相对简单，因为是初次使用Docker，MySQL的主从复制之前也在Centos环境下搭建过，但是也忘的也差不多了，因此本次尝试在Docker中搭建。
- ## [小改下把tio-websocket-showcase变成可集群方式](https://my.oschina.net/u/2078/blog/1810080)
- > 基于发布订阅的方案
  ## [Opera 53 稳定版发布：优化多标签页的显示和地址栏](https://www.oschina.net/news/95987/opera-53-stable-released)
  > 基
  ## [聊天私服 Akaxin 0.5.4 发布，优化聊天、注册逻辑](https://www.oschina.net/news/95986/akaxin-0-5-4-released)
