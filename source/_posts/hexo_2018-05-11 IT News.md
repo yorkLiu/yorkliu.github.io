@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 11:37:55
+date: 2018-05-11 11:38:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -161,12 +161,12 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 如何正确地黑程序员
  ## [对程序员老婆的误会](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80270050)
  > 对程序员老婆的误会
- ## [阿里的这位程序员火了，“求联系方式”的粉丝已刷爆阿里内网](http://blog.csdn.net/qq_41807409/article/details/80208470)
- > 阿里的这位程序员火了，“求联系方式”的粉丝已刷爆阿里内网
- ## [5 月编程语言榜：C 再度暴涨，Scala 成功上位](http://blog.csdn.net/P5dEyT322JACS/article/details/80238710)
- > 5 月编程语言榜：C 再度暴涨，Scala 成功上位
- ## [【福利】【两周年庆典，送书第二弹】机器学习方法体系汇总](http://blog.csdn.net/Mbx8X9u/article/details/80251811)
- > 【福利】【两周年庆典，送书第二弹】机器学习方法体系汇总
+ ## [想转行IT行业？这是我给你最真挚的建议](http://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80241404)
+ > 想转行IT行业？这是我给你最真挚的建议
+ ## [程序员社区骂战：不满政治正确，LLVM元老宣布退出](http://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80237298)
+ > 程序员社区骂战：不满政治正确，LLVM元老宣布退出
+ ## [卷积为什么如此强大？一文全解深度学习中的卷积](http://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80269127)
+ > 卷积为什么如此强大？一文全解深度学习中的卷积
  ## [单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80270122)
  > 单身程序狗解决了一个技术难题后，没有妹子可以炫耀，怎么办？
  ## [滴滴悬赏100万“捉拿”司机；手机QQ又宕机；中兴手机或将出售 | CSDN 极客头条...](https://blog.csdn.net/csdnnews/article/details/80276260)
