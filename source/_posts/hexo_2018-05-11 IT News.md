@@ -1,7 +1,7 @@
 ---
 title: 2018-05-11 IT News
 copyright: true
-date: 2018-05-11 11:37:04
+date: 2018-05-11 11:37:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -191,6 +191,8 @@ AI&#21307;&#30103;&#20844;&#21496;&#8220;&#19975;&#28789;&#30424;&#21476;&#8221;
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！这次...
  ## [微信警告小游戏“分享滥用”；小米千亿估值再被下调；Facebook 最大规模重组 | CSDN 极客头条...](https://blog.csdn.net/csdnnews/article/details/80267081)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
+ ## [基于 Kibana6.x eUI的React 页面开发](https://www.jianshu.com/p/260a18943b14)
+ > React和JS的混合对于server side JS 开发真的是个创意， 模块化清晰， 构造简单。 Ref: 1. React :https://reactjs.org/ ...
  ## [MongoDB搭建复制集&分片集群（进阶）](https://www.jianshu.com/p/0c4a6b3e4f58)
  > 1.Summary:1-1.MongoDB进入3.x版本之后，对集群的结构和存储引擎做了较大的修改。在学习过程中时常遇到一些3.0之前的版本的指导，但我使用的却是3.6，所以...
  ## [币圈撸羊毛：优质区块链空投糖果分享（2018-05-11）](https://www.jianshu.com/p/269e0e384553)
