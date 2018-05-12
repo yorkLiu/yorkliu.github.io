@@ -1,7 +1,7 @@
 ---
 title: 2018-05-12 IT News
 copyright: true
-date: 2018-05-12 15:32:32
+date: 2018-05-12 15:34:23
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -110,6 +110,12 @@ categories: IT NEWS
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！「C...
  ## [中兴被逼入绝境，或将出售手机业务？](https://blog.csdn.net/csdnnews/article/details/80276253)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！“因...
+ ## [Linux文件操作](https://www.jianshu.com/p/c028af591364)
+ > 创建、命令文件 touch 使用touch命令可以创建一个文件： 上面的命令创建了一个名为name.txt的文件。 在Linux，命名文件通常使用下面的字符： 小写字母，比如...
+ ## [DOC文档注释，让你的代码如此清晰（文末有福利）](https://www.jianshu.com/p/d44d4f056f5e)
+ > 1.开发背景，这不重要 最近一直在写dubbo接口，以前总是用word文档写接口描述然后发给别人。现在太多了，而且跟别人对接联调的人家急着用，根本没时间去写word文档。那就...
+ ## [骗子冒充淘宝客服一年骗78万，退款二维码扫前需当心](http://www.lanjingtmt.com/news/detail/34896.shtml)
+ > 法官提醒，虽然这种新型网购骗局迷惑性极大，但很容易分辨，一旦遇到类似情况，网友应该先联系网购的商家咨询具体情况。
  ## [富士康IPO获批文，估值与募资金额成最大关注](http://www.lanjingtmt.com/news/detail/34895.shtml)
  > 日前据证监会方面消息，已按法定程序核准了富士康工业互联网股份有限公司（以下简称“富士康”）的首发申请。富士康及其承销商将与上交所协商确定发行日程，并刊登招股文件。
  ## [富士康斥资百亿美元在美建设液晶工厂：6月8日动工](http://www.lanjingtmt.com/news/detail/34894.shtml)
