@@ -1,7 +1,7 @@
 ---
 title: 2018-05-17 IT News
 copyright: true
-date: 2018-05-17 09:22:26
+date: 2018-05-17 09:23:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -188,7 +188,7 @@ categories: IT NEWS
  ## [MacOS网络正常，但是打不开网页](https://www.jianshu.com/p/5feeecb68fa1)
  > QQ能上，也能正常使用，但是任何浏览器都打不开网页 网上的解决方法大多说是添加DNS，或者终端命令刷新DNS（奇怪的是针对各个不同mac系统版本命令还完全不一样...)。 经...
  ## [多家网站和APP上线账号注销功能 破解注销难还需加把力](http://www.lanjingtmt.com/news/detail/35013.shtml)
- > 
+ > 日前，不少用户发现腾讯QQ开始支持账号注销，但该功能很快下线。
  ## [网易Q1财报：净利润13.37亿元 同比下滑69.2%](http://www.lanjingtmt.com/news/detail/35012.shtml)
  > 同时还宣布其股份回购进展。
  ## [5G调查：华为2019年推5G芯片，大唐濒临退市](http://www.lanjingtmt.com/news/detail/35011.shtml)
