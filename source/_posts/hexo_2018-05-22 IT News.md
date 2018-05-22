@@ -1,7 +1,7 @@
 ---
 title: 2018-05-22 IT News
 copyright: true
-date: 2018-05-22 19:27:31
+date: 2018-05-22 19:28:22
 tags: IT NEWS
 categories: IT NEWS
 ---
