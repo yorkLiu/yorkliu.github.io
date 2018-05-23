@@ -1,7 +1,7 @@
 ---
 title: 2018-05-23 IT News
 copyright: true
-date: 2018-05-23 09:36:09
+date: 2018-05-23 09:39:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -146,6 +146,36 @@ categories: IT NEWS
  > HBase 所支持的现代产品对Hbase读写性能的期望越来越高。理想情况下，HBase 也希望在保证其可靠的持久存储
  ## [【物联网安全】系列之一: 隐藏在摄像头下的罪恶](http://zhuanlan.51cto.com/art/201805/574030.htm)
  > 本文以摄像头为例，探讨了与之相关的两大类安全事件及其发生的原因，并扩展到物联网的安全需求。我们看到，
+ ## [CSDN日报180522——《程序员领域知识体系搭建》](http://blog.csdn.net/blogdevteam/article/details/80413827)
+ > CSDN日报180522——《程序员领域知识体系搭建》
+ ## [[Python人工智能] 一.神经网络入门及theano基础代码讲解](http://blog.csdn.net/Eastmount/article/details/80363106)
+ > [Python人工智能] 一.神经网络入门及theano基础代码讲解
+ ## [JVM进阶之GC（五）对象的内存分配和回收策略](http://blog.csdn.net/u011519624/article/details/80394649)
+ > JVM进阶之GC（五）对象的内存分配和回收策略
+ ## [SoftRenderer&RenderPipeline（从迷你光栅化软渲染器的实现看渲染流水线）](http://blog.csdn.net/puppet_master/article/details/80317178)
+ > SoftRenderer&amp;RenderPipeline（从迷你光栅化软渲染器的实现看渲染流水线）
+ ## [“菜鸟”程序员和“大神”程序员差距在哪里](http://blog.csdn.net/Px01Ih8/article/details/80288314)
+ > “菜鸟”程序员和“大神”程序员差距在哪里
+ ## [“菜鸟”程序员和“大神”程序员差距在哪里](http://blog.csdn.net/MIcF435p6D221sSdLd2/article/details/80288496)
+ > “菜鸟”程序员和“大神”程序员差距在哪里
+ ## [新课上线|Python实现图片拼接与混合、XML-RPC文件共享程序等](http://blog.csdn.net/MOY37RQW1JarN33BgZk/article/details/80288537)
+ > 新课上线|Python实现图片拼接与混合、XML-RPC文件共享程序等
+ ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
+ > 怎样和程序猿谈一场不散场的爱情
+ ## [面试时，如何在1分钟内更好的展现自己？](http://blog.csdn.net/Y0Q2T57s/article/details/80276595)
+ > 面试时，如何在1分钟内更好的展现自己？
+ ## [进击的YOLOv3，目标检测网络的巅峰之作 | 内附实景大片](http://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80288534)
+ > 进击的YOLOv3，目标检测网络的巅峰之作 | 内附实景大片
+ ## [在职业生涯里，有没有让你觉得最得意和最糟糕的事情？](http://blog.csdn.net/X8i0Bev/article/details/80276598)
+ > 在职业生涯里，有没有让你觉得最得意和最糟糕的事情？
+ ## [世纪难题，程序员如何向父母介绍自己的工作？](http://blog.csdn.net/OQjya206rsQ71/article/details/80288511)
+ > 世纪难题，程序员如何向父母介绍自己的工作？
+ ## [最近面了不少java开发，据此来说下我的感受：哪怕事先只准备1小时，成功概率也能大大提升](http://blog.csdn.net/qq_41701956/article/details/80305553)
+ > 最近面了不少java开发，据此来说下我的感受：哪怕事先只准备1小时，成功概率也能大大提升
+ ## [曝一下工资：23岁，程序员，月薪一万五，网友：你们聊，搬砖去了](http://blog.csdn.net/qq_40433465/article/details/80306351)
+ > 曝一下工资：23岁，程序员，月薪一万五，网友：你们聊，搬砖去了
+ ## [程序猿和hr面试时的巅峰对决](http://blog.csdn.net/Y0Q2T57s/article/details/80276590)
+ > 程序猿和hr面试时的巅峰对决
  ## [HTTP](https://www.jianshu.com/p/d14f432b8a2e)
  > HTTP定义 超文本传输协议 HTTP  HyperText Transfer Protocol 是互联网上应用最为广泛的一种网络协议，所有的WWW文件必须遵守 OSI 七层...
  ## [TCL集团427亿元投建超高清显示产线，月产量欲达9万张面板](http://www.lanjingtmt.com/news/detail/35197.shtml)
