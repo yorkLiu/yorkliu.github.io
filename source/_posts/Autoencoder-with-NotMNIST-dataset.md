@@ -521,21 +521,21 @@ plt.show()
 
 
 
-![png](Autoencoder%20with%20NotMNIST%20dataset_files/Autoencoder%20with%20NotMNIST%20dataset_33_1.png)
+![png](/uploads/Autoencoder%20with%20NotMNIST%20dataset_files/Autoencoder%20with%20NotMNIST%20dataset_33_1.png)
 
 
     Added noise for test data:
 
 
 
-![png](Autoencoder%20with%20NotMNIST%20dataset_files/Autoencoder%20with%20NotMNIST%20dataset_33_3.png)
+![png](/uploads/Autoencoder%20with%20NotMNIST%20dataset_files/Autoencoder%20with%20NotMNIST%20dataset_33_3.png)
 
 
     Decoded noised test data:
 
 
 
-![png](Autoencoder%20with%20NotMNIST%20dataset_files/Autoencoder%20with%20NotMNIST%20dataset_33_5.png)
+![png](/uploads/Autoencoder%20with%20NotMNIST%20dataset_files/Autoencoder%20with%20NotMNIST%20dataset_33_5.png)
 
 
 效果相当的不错
