@@ -1,7 +1,7 @@
 ---
 title: 2018-05-24 IT News
 copyright: true
-date: 2018-05-24 09:41:52
+date: 2018-05-24 09:42:43
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -185,6 +185,8 @@ categories: IT NEWS
  > &amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#1...
  ## [四面轻松突围！我是如何斩获高级运维开发一职的？](https://blog.csdn.net/csdnnews/article/details/80428957)
  > &amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#1...
+ ## [Android_6.数据存储_2SharedPreferences存储](https://www.jianshu.com/p/2e4b470c8373)
+ > 本文是以Android Studio为开发工具，&lt;&lt;第一行代码Anroid第2版&gt;&gt; 为学习指导书籍的学习记录 6.3 SharedPreferences存储 1、不同于文件...
  ## [申通快递员上门打人案进展：索赔76万元并要求公开道歉](http://www.lanjingtmt.com/news/detail/35239.shtml)
  > 消费者将其投诉至申通总部后，得到的回应均是已经了解到相关情况，将把涉事快递员的行为列入考核，并从工资入手对其进行惩罚。
  ## [为IPO造工业互联网概念，富士康能否摘掉“世界代工厂”帽子](http://www.lanjingtmt.com/news/detail/35236.shtml)
