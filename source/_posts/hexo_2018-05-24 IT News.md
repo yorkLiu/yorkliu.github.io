@@ -1,7 +1,7 @@
 ---
 title: 2018-05-24 IT News
 copyright: true
-date: 2018-05-24 15:42:47
+date: 2018-05-24 15:43:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -141,32 +141,32 @@ categories: IT NEWS
  > 本文介绍的三个架构模式，你会发现几乎在所有的Web框架实现都大同小异，这就是模式的好处。模式的意义类似
  ## [CSDN日报180523——《编程这件小事》](http://blog.csdn.net/blogdevteam/article/details/80423972)
  > CSDN日报180523——《编程这件小事》
+ ## [Ray - 面向增强学习场景的分布式计算框架](http://blog.csdn.net/colorant/article/details/80417412)
+ > Ray - 面向增强学习场景的分布式计算框架
  ## [人类赋予人工智能伦理，生物进化方向的突破是关键【南科大发言】](http://blog.csdn.net/zkyliufeng/article/details/80419699)
  > 人类赋予人工智能伦理，生物进化方向的突破是关键【南科大发言】
  ## [LinkedSee灵犀朱品燕：开启AIOps新时代](http://blog.csdn.net/sunhf_csdn/article/details/80433592)
  > LinkedSee灵犀朱品燕：开启AIOps新时代
- ## [Spark2.1.0之基础知识](http://blog.csdn.net/beliefer/article/details/80303035)
- > Spark2.1.0之基础知识
  ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80288503)
  > 程序猿秃顶算工伤吗？
  ## [“菜鸟”程序员和“大神”程序员差距在哪里](http://blog.csdn.net/MIcF435p6D221sSdLd2/article/details/80288496)
  > “菜鸟”程序员和“大神”程序员差距在哪里
  ## [子元素在父元素中上下左右居中](http://blog.csdn.net/ZJ_152261/article/details/80321041)
  > 子元素在父元素中上下左右居中
- ## [不用叫方文山！AI 能拯救杰伦的土味歌词](http://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80417077)
- > 不用叫方文山！AI 能拯救杰伦的土味歌词
  ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80288527)
  > 程序猿秃顶算工伤吗？
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
  > 怎样和程序猿谈一场不散场的爱情
+ ## [不用叫方文山！AI 能拯救杰伦的土味歌词](http://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80417077)
+ > 不用叫方文山！AI 能拯救杰伦的土味歌词
  ## [数据分析中的可视化-常见图形](http://blog.csdn.net/leadai/article/details/80345378)
  > 数据分析中的可视化-常见图形
- ## [当数学家爱上了作诗。。。](http://blog.csdn.net/FnqTyr45/article/details/80345334)
- > 当数学家爱上了作诗。。。
  ## [程序员都经历过的那些事](http://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80288567)
  > 程序员都经历过的那些事
  ## [潘正磊：再过三五年 AI会变成开发人员的基本概念](http://blog.csdn.net/sD7O95O/article/details/80288509)
  > 潘正磊：再过三五年 AI会变成开发人员的基本概念
+ ## [当数学家爱上了作诗。。。](http://blog.csdn.net/FnqTyr45/article/details/80345334)
+ > 当数学家爱上了作诗。。。
  ## [小邪在阿里的十年技术人生](http://blog.csdn.net/b0Q8cpra539haFS7/article/details/80333445)
  > 小邪在阿里的十年技术人生
  ## [Google Fuchsia 对中国操作系统的启示 | 畅言](https://blog.csdn.net/csdnnews/article/details/80428956)
