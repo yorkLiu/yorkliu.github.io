@@ -1,7 +1,7 @@
 ---
 title: 2018-05-24 IT News
 copyright: true
-date: 2018-05-24 09:42:43
+date: 2018-05-24 15:42:47
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -63,16 +63,14 @@ categories: IT NEWS
  > maven自定义原型
  ## [码云即将支持 Git v2 Protocol](https://my.oschina.net/GIIoOS/blog/1817372)
  > Git v2 Protocol aka Git Wire Protocol
- ## [Why c++ coroutine？Why libgo？](https://my.oschina.net/yyzybb/blog/1817226)
- > 讲述C++协程的近况、设计与实现中的细节与决策
- ## [WebMIS v1.0.0  源码解析，教你如何自建HMVC框架](https://my.oschina.net/ksphp/blog/1817198)
- > 时隔2年的调整，WebMIS的PHP框架再次突破局限创新，整理的大量计算机编程基础知识，吸取大量php框架核心部分，自主研发了一套简洁、灵活、快速的PHP框架，提供了快速开发后台初步解决多用户、多权限问题，封装的一套后台操作的前端效果。 在线体验：http://mvc.webmis.vip/admi
- ## [JavaScript成语消消乐](https://my.oschina.net/lightled/blog/1817190)
- > 一 预览 二 开发步骤 基本面向过程的思想。没有面向对象的部分。 准备好成语库。db.js 选出每一关的成语。 对成语进行乱序。 初始化表格的同时，将单个字放到每个单元格的按钮上展示。 对tbody进行点击事件的监听。事件函数中获取btn。用变量记录选中的文字。 判断得分、判断下一关、判断游戏结束(
- ## [怎样写一个类似ROS的易用的android机器人框架（4）](https://my.oschina.net/u/181909/blog/1817160)
- > # 怎样写一个类似ROS的易用的android机器人框架（4） [怎样写一个类似ROS的易用的android机器人框架（3）](https://my.oschina.net/u/181909/blog/1813843) ## 机器人任务框架的工作流程 为避免机器人执行多任务时对传感器，执行机构的占用
- ## [Rancher 2.0部署过程中常见问题分析与解决](https://my.oschina.net/u/3330830/blog/1817151)
- > 本文主要介绍了部署Rancher 2.0的环境需求，包括操作系统、硬件配置、支持的docker版本部署过程中的常见问题及排查思路，多数问题整理收集自Rancher官方技术交流群内用户的提问与反馈。
+ ## [JMI 0.0.1 发布，JNI 的 C++11 封装](https://www.oschina.net/news/96409/jmi-0-0-1-released)
+ > JMI 全称 JNI Modern Interface, 使用 C++11 简化 JNI 开发, 用户代码更少、更方便、更高效、更安全。 功能及使用方法介绍 主要更新内容： - JObject 支持 CRTP - 修复局部引用泄漏 - 统一了返回void和其他类型的方法调用 - 支持C++各种数组类
+ ## [tinyselect 0.4.3 修复在未分组时创建下拉列表失败的问题](https://www.oschina.net/news/96408/tinyselect-0-4-3-released)
+ > 项目上突然出问题了，下拉框没有显示出来，一查居然是这货里面分组判断失误引起的。虽然是自己玩的项目，但有问题也应该及时修复，哈哈哈哈哈哈 有兴趣可以下载更新  https://gitee.com/hyjiacan/TinySelect/attach_files/download?i=138559&amp;u=
+ ## [弹窗插件 Layx v2.1.5 版本发布，UI 大量优化](https://www.oschina.net/news/96406/layx-2-1-5-released)
+ > Layx 一款熟悉但又不太一样的Web弹窗插件。 gzip压缩版仅 13.5kb，非常小巧。 更新日志 - [新增] 提示框、消息框、询问框、输入框、加载框 宽度高度自适应功能- [新增] buttons配置参数id、classes、style属性、提供按钮更多定制功能- [新增] buttons配
+ ## [t-io 3.0.0 发布，不止是 30 万 TCP 长连接框架](https://www.oschina.net/news/96405/t-io-3-0-0-released)
+ > t-io介绍请见：t-io官网 自问：为什么不是“百万级TCP长连接框架”而是30万了？ 自答：t-io目前已经做过的测试中，最多只测到了30万个长连接（见：t-io 30W长连接并发压力测试报告），当测试报告上看，我本人推测出单机可以支持百万级，只是这种推测不是人人能接受的，所以此处改成30万也不
  ## [定制程序员专属信用卡，需求功能你来写](https://citiccard.wjx.cn/jq/22420531.aspx)
  > 程序员专属的信用卡应该是怎样的呢？这次不用再实现 PM 和老板的需求了，轮到你来填写需求功能~！
  ## [bs :: framework — 使用 C++14 的新一代游戏开发框架](https://www.oschina.net/p/bs-framework)
@@ -105,76 +103,70 @@ categories: IT NEWS
  > 一天又一天，Safe.js更新准时到达！ 那么我们来看一下这次safejs的更新又更新了哪些内容： 修改组件方法，可以重复渲染 增加bindVal属性 增加bindHTML属性 增加bindText 具体想了解更新内容的可以进入我们在码云上的wiki！ 点赞是参与开源社区的必备礼仪（红薯说的...）
  ## [J2Cache 2.3.20 封箱版发布，要开始 3.x 跨语言支持了](https://www.oschina.net/news/96389/j2cache-2-3-20-released)
  > 我说你们咋那么讨厌呢，每次喷我都喷得那么准！ 日前 J2Cache 已经修复了 2.x 的最后一个很小很小的 Bug（详情），发布了这个 2.3.20 版本。这将会是 2.x 的最后一个更新版本。 Maven： &lt;dependency&gt;    &lt;groupId&gt;net.oschina.j2cache
- ## [VuePress 0.9.0 发布，基于 Vue 的静态网站生成器](https://www.oschina.net/news/96388/vuepress-0-9-0-released)
- > VuePress 0.9.0 已发布，VuePress 是一个基于 Vue 的轻量级静态网站生成器，以及为编写技术文档而优化的默认主题。 它是为了满足 Vue 自己的子项目文档的需求而创建的。 新版本包含大量修复，并带来了许多新特性，包括： 为每个文档生成上次更新的时间戳 正确处理电话链接 改进标题
- ## [CodeMirror 5.38.0 发布，多功能在线代码编辑器](https://www.oschina.net/news/96387/codemirror-5-38-0-released)
- > CodeMirror 是一款允许在浏览器中的多功能文本编辑器，专用于编辑代码，并附带超过 100 种语言模式和各种插件，可实现高级的代码编辑功能，包括代码高亮显示，功能扩展以及多个主题样式。 CodeMirror 5.38.0 包含以下更新内容： Bug 修复 改进拖拽期间发现丢失的 mouseup
- ## [vlayout 1.2.15 发布，LayoutManager 定制化布局](https://www.oschina.net/news/96386/vlayout-1-2-15-released)
- > vlayout 1.2.15 已发布，更新内容： Add @Keep for PerformanceMonitor methods; com.alibaba.android:vlayout:1.2.15@aar vlayout（VirtualLayout）是阿里开源的一个针对 RecyclerVie
- ## [在线写作平台 Ghost 1.23.0 发布，新编辑器来袭](https://www.oschina.net/news/96385/ghost-1-23-0-released)
- > Ghost 是一个完全开源的平台，它能帮助你快速建立并运行一个现代化的在线写作平台。它驱动着博客、杂志以及像 Zappos 和 Sky News 等新闻媒体。 Ghost 的编辑环境基于 Markdown ，所有已发布的内容都会存放在一个易于搜索的存档中，可供快速查找。且使用简单，添加 logo、创
+ ## [帮助你做高级数据分析的各类 ETL 工具比较](http://bigdata.51cto.com/art/201805/574008.htm)
+ > 帮助你做高级数据分析的各类 ETL 工具比较
+ ## [针对云原生转型的6个关键数据策略](http://cloud.51cto.com/art/201805/574164.htm)
+ > 针对云原生转型的6个关键数据策略
+ ## [不理解Zookeeper一致性原理，谈何异地多活改造](http://developer.51cto.com/art/201805/574334.htm)
+ > 不理解Zookeeper一致性原理，谈何异地多活改造
  ## [四项最佳实践让您的云部署准备好迎接GDPR](http://cloud.51cto.com/art/201805/574268.htm)
  > 四项最佳实践让您的云部署准备好迎接GDPR
+ ## [程序员这样面试，拿到offer的几率是80%](http://news.51cto.com/art/201805/574202.htm)
+ > 程序员这样面试，拿到offer的几率是80%
  ## [外媒速递：2018年最值得关注的五大软件开发趋势](http://zhuanlan.51cto.com/art/201805/574285.htm)
  > 外媒速递：2018年最值得关注的五大软件开发趋势
+ ## [机器人上岗，「无人配送」背后的角力与暗战](http://www.cioage.com/art/201805/574271.htm)
+ > 机器人上岗，「无人配送」背后的角力与暗战
  ## [【专题】挨踢部落坐诊第十六期：运维人员忽略的那些细节](http://news.51cto.com/art/201805/574237.htm)
  > 【专题】挨踢部落坐诊第十六期：运维人员忽略的那些细节
- ## [我不得不告诉大家的MySQL优化“套路”](http://database.51cto.com/art/201805/574038.htm)
- > 我不得不告诉大家的MySQL优化“套路”
- ## [怎样高效实现增长？这里有50个经典的增长黑客策略](http://news.51cto.com/art/201805/574006.htm)
- > 怎样高效实现增长？这里有50个经典的增长黑客策略
- ## [机器人是如何取代你？英国超市智能仓库只需3个人，一天能分拣50万件货](http://ai.51cto.com/art/201805/574009.htm)
- > 机器人是如何取代你？英国超市智能仓库只需3个人，一天能分拣50万件货
- ## [如何解决Windows 10 April 2018更新版引起的网络问题？](http://os.51cto.com/art/201805/573994.htm)
- > 如何解决Windows 10 April 2018更新版引起的网络问题？
- ## [可解释的人工智能：让机器解释自己，减少算法产生的偏见](http://news.51cto.com/art/201805/574033.htm)
- > 可解释的人工智能：让机器解释自己，减少算法产生的偏见
- ## [大数据时代，这些专业人才最吃香](http://bigdata.51cto.com/art/201805/574270.htm)
- > 通过大数据，百度掌握你的隐私，微信知道你的社交圈子，淘宝了解你的购物习惯，移动电信联通三大运营商存有
- ## [专家：中国拥有IPv6地址量居全球第二](http://news.51cto.com/art/201805/574331.htm)
- > 全球互联网协议(IP)地址分配正在向以IPv6为基础的下一代互联网过渡。亚太互联网络信息中心专家日前在2018全
- ## [推荐：阿里技术大牛最爱的“闲书”](http://news.51cto.com/art/201805/574329.htm)
- > 在忙碌的写代码、修 bug 生活里，你有多久没有闲下来，读读“闲书”，取悦自己了呢？今天，阿里的数位技术
- ## [计算机历史博物馆公布早期流行邮件客户端 Eudora 源码](http://news.51cto.com/art/201805/574324.htm)
- > 计算机历史博物馆公布了早期流行邮件客户端 Eudora 的源代码。计算机历史博物馆是在与高通谈判五年之后才
- ## [苹果推出数据隐私网站，可以让用户一站式下载个人数据](http://news.51cto.com/art/201805/574321.htm)
- > 5 月 23 日据国外媒体报道，苹果刚刚推出了一个全新的数据和隐私门户网站，可以让用户更方便的下载保存在公
- ## [智慧治堵：城市交通治理新实践](http://www.cioage.com/art/201805/574276.htm)
- > 日前，交通运输部规划研究院、高德地图等单位联合发布《2018年第一季度中国主要城市交通分析报告》。受监测
- ## [这些错误的数据备份方法, 会让你损失惨重](http://stor.51cto.com/art/201805/574313.htm)
- > 所有的IT人士在进入这个行业的第一天就明白定期备份对于企业数据来说是一件极为重要的事情。但在实施备份工
- ## [提高数据存储效率的七个技巧](http://stor.51cto.com/art/201805/574302.htm)
- > IT专业人员经常致力于提高存储性能，以确保应用程序获得他们运行所需的资源。有的企业采用的是硬盘技术，这
- ## [你真的了解软件定义的分布式存储吗？](http://stor.51cto.com/art/201805/574298.htm)
- > 目前我们正处于一个新的时代，这个时代被赋予了许多标签：互联网+时代、云计算时代、大数据时代、人工智能
+ ## [国产LINUX操作系统的春天来了，配套软件需要担心？NO！](http://os.51cto.com/art/201805/574382.htm)
+ > Linux是一套免费使用和自由传播的类Unix操作系统，是一个基于POSIX和UNIX的多用户、多任务、支持多线程和多
+ ## [悲！内存涨价 没完没了](http://biz.51cto.com/art/201805/574383.htm)
+ > 根据内存专业调研机构集邦咨询(DRAMeXchange)的最新数据，2018年第一季度，受持续涨价刺激，全球DRAM内存颗
+ ## [如何从命令行管理MySQL数据库和用户](http://database.51cto.com/art/201805/574380.htm)
+ > 本教程介绍了如何使用命令行来创建和管理MySQL或MariaDB数据库和用户。 MySQL是最受欢迎的开源关系数据库管
+ ## [目前最受欢迎的12个Python开源框架，你用过几个？](http://news.51cto.com/art/201805/574377.htm)
+ > 今天给大家带来了12个在GitHub等开源网站中最受欢迎的Python开源框架。如果你正在学习python，那么这12个开
+ ## [2018年最全的App设计资源（工具+模板下载+例子）](http://news.51cto.com/art/201805/574376.htm)
+ > 在做移动App设计时，设计师想要更好的呈现视觉效果给用户，不仅仅需要一款优秀的App原型设计工具，同样也
+ ## [ARM服务器军团全军覆没，还有人能搅动这潭水吗？](http://news.51cto.com/art/201805/574374.htm)
+ > 英特尔已经几乎完全统治了整个服务器市场，占有率已经超过了90%。但这块肥肉一直被ARM惦记着，高通等一众
+ ## [在Linux中如何轻松搜索和安装Google Web字体](http://os.51cto.com/art/201805/574375.htm)
+ > Font Finder 是旧的 Typecatcher 的 Rust 实现，用于从 Google 的字体存档中轻松搜索和安装 Google Web 字
+ ## [区块链怎么分辨“毒大米”、“死猪肉”？](http://blockchain.51cto.com/art/201805/574370.htm)
+ > 食品安全是大众最关心的问题，拥有公开、透明、难篡改特性的区块链，能否助力我们吃到放心食品？食品信息上
+ ## [软件开发人员必须具备的一些软技能，否则只能是码农！](http://developer.51cto.com/art/201805/574364.htm)
+ > 软件开发人员(程序员,码农)除了写好代码之外，更需要在身体上、精神上和心灵上更强大、更健康。一个软件开
+ ## [Web框架的架构模式探讨](http://developer.51cto.com/art/201805/574361.htm)
+ > 本文介绍的三个架构模式，你会发现几乎在所有的Web框架实现都大同小异，这就是模式的好处。模式的意义类似
  ## [CSDN日报180523——《编程这件小事》](http://blog.csdn.net/blogdevteam/article/details/80423972)
  > CSDN日报180523——《编程这件小事》
- ## [Ray - 面向增强学习场景的分布式计算框架](http://blog.csdn.net/colorant/article/details/80417412)
- > Ray - 面向增强学习场景的分布式计算框架
  ## [人类赋予人工智能伦理，生物进化方向的突破是关键【南科大发言】](http://blog.csdn.net/zkyliufeng/article/details/80419699)
  > 人类赋予人工智能伦理，生物进化方向的突破是关键【南科大发言】
- ## [智能合约最佳实践 之 Solidity 编码规范](http://blog.csdn.net/xilibi2003/article/details/80192294)
- > 智能合约最佳实践 之 Solidity 编码规范
+ ## [LinkedSee灵犀朱品燕：开启AIOps新时代](http://blog.csdn.net/sunhf_csdn/article/details/80433592)
+ > LinkedSee灵犀朱品燕：开启AIOps新时代
+ ## [Spark2.1.0之基础知识](http://blog.csdn.net/beliefer/article/details/80303035)
+ > Spark2.1.0之基础知识
  ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80288503)
  > 程序猿秃顶算工伤吗？
  ## [“菜鸟”程序员和“大神”程序员差距在哪里](http://blog.csdn.net/MIcF435p6D221sSdLd2/article/details/80288496)
  > “菜鸟”程序员和“大神”程序员差距在哪里
- ## [痛打“唯流量论”，这就是UUU背后的故事](http://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80335976)
- > 痛打“唯流量论”，这就是UUU背后的故事
+ ## [子元素在父元素中上下左右居中](http://blog.csdn.net/ZJ_152261/article/details/80321041)
+ > 子元素在父元素中上下左右居中
+ ## [不用叫方文山！AI 能拯救杰伦的土味歌词](http://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80417077)
+ > 不用叫方文山！AI 能拯救杰伦的土味歌词
+ ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80288527)
+ > 程序猿秃顶算工伤吗？
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
  > 怎样和程序猿谈一场不散场的爱情
- ## [程序员都经历过的那些事](http://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80288567)
- > 程序员都经历过的那些事
  ## [数据分析中的可视化-常见图形](http://blog.csdn.net/leadai/article/details/80345378)
  > 数据分析中的可视化-常见图形
- ## [爆料 | 解析阿里妈妈如何将深度学习应用在广告、推荐及搜索业务](http://blog.csdn.net/j2IaYU7Y/article/details/80345373)
- > 爆料 | 解析阿里妈妈如何将深度学习应用在广告、推荐及搜索业务
- ## [机器人遛机器狗，估计不久能看到了](http://blog.csdn.net/P5dEyT322JACS/article/details/80288480)
- > 机器人遛机器狗，估计不久能看到了
- ## [潘正磊：再过三五年 AI会变成开发人员的基本概念](http://blog.csdn.net/sD7O95O/article/details/80288509)
- > 潘正磊：再过三五年 AI会变成开发人员的基本概念
  ## [当数学家爱上了作诗。。。](http://blog.csdn.net/FnqTyr45/article/details/80345334)
  > 当数学家爱上了作诗。。。
+ ## [程序员都经历过的那些事](http://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80288567)
+ > 程序员都经历过的那些事
+ ## [潘正磊：再过三五年 AI会变成开发人员的基本概念](http://blog.csdn.net/sD7O95O/article/details/80288509)
+ > 潘正磊：再过三五年 AI会变成开发人员的基本概念
  ## [小邪在阿里的十年技术人生](http://blog.csdn.net/b0Q8cpra539haFS7/article/details/80333445)
  > 小邪在阿里的十年技术人生
  ## [Google Fuchsia 对中国操作系统的启示 | 畅言](https://blog.csdn.net/csdnnews/article/details/80428956)
@@ -185,16 +177,60 @@ categories: IT NEWS
  > &amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#1...
  ## [四面轻松突围！我是如何斩获高级运维开发一职的？](https://blog.csdn.net/csdnnews/article/details/80428957)
  > &amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#13;&amp;amp;#13;                    &amp;amp;#1...
+ ## [[Python人工智能] 二.theano实现回归神经网络分析](http://blog.csdn.net/eastmount/article/details/80390462)
+ > 从本篇文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。第一篇文章主要讲解神经网络基础概念，同时讲解Theano库的安装过程及基础用法，主要结合 &amp;quot;莫烦大神&amp;quo...
+ ## [Bluetooth Asia 2018 约不约？](https://www.jianshu.com/p/2c0d95f84563)
+ > 今年，Bluetooth Asia 2018蓝牙亚洲大会将于5月30日-5月31日再次登陆深圳。届时，将有超过1500位市场上具有影响力的行业人士、开发者和技术驱动型消费者将...
+ ## [TED社群第三期分享：Work-In 通证经济模型的优缺点和落地方案](https://www.jianshu.com/p/f218b809f20e)
+ > 本文参与币车（biche.yaofache.com）HIT大V养成计划 最近我组建了个Token Economy Design社群，邀请朋友进来共同分享区块链项目生态中Tok...
  ## [Android_6.数据存储_2SharedPreferences存储](https://www.jianshu.com/p/2e4b470c8373)
  > 本文是以Android Studio为开发工具，&lt;&lt;第一行代码Anroid第2版&gt;&gt; 为学习指导书籍的学习记录 6.3 SharedPreferences存储 1、不同于文件...
+ ## [杨元庆：三大主营业务均提高盈利能力，电脑销量重回全球第一](http://www.lanjingtmt.com/news/detail/35253.shtml)
+ > 杨元庆还在公开信中提及，联想将用蒸蒸日上的业绩对谣言给予最有力的反击。
+ ## [联想2018财年营收增5%至453.5亿美元 手机收入下跌](http://www.lanjingtmt.com/news/detail/35251.shtml)
+ > 财报显示，截至2018年3月31日，联想全年营收达453.5亿美元，较去年同期增长5%，为三年来最好水平，净亏损为1.89亿美元。
+ ## [创新工场在广州设立25亿元的智能投资基金](http://www.lanjingtmt.com/news/detail/35250.shtml)
+ > 今日，创新工场宣布，在广州设立规模为25亿元的创新工场智能投资基金。
+ ## [外媒称新浪考虑在香港二次上市，后者暂未回应](http://www.lanjingtmt.com/news/detail/35249.shtml)
+ > 净营收为4.408亿美元，同比增长59%；毛利率为75%，同比上升约6%。
+ ## [暴跌后仅有8倍PE，趣店为何还在跌跌不休？](http://www.lanjingtmt.com/news/detail/35247.shtml)
+ > 5月21日2018Q1财报中，业绩指标几乎全面下跌，其中线上消费金融服务交易总额153亿元，同比下降8.1%。
+ ## [交通部：将网约车纳入出租车服务质量信誉考核体系](http://www.lanjingtmt.com/news/detail/35246.shtml)
+ > 《办法》规定，对驾驶员遵守法规、安全生产、经营行为、运营服务等方面实施考核，出租汽车驾驶员在考核期内得分低于3分的，按要求接受培训。
+ ## [暴裂无声张一鸣](http://www.lanjingtmt.com/news/detail/35240.shtml)
+ > 技术想要把世界改变成何种模样，或许是张一鸣暴裂无声的真正重生。
+ ## [腾讯“封杀”其余短视频，微视就能找回自己吗？](http://www.lanjingtmt.com/news/detail/35230.shtml)
+ > 已经被弃两次的微视，如果这次仍然不能崛起，腾讯还会为微视付出代价吗？
+ ## [B站回应前员工指控陈睿报假案：有异议请诉诸司法](http://www.lanjingtmt.com/news/detail/35243.shtml)
+ > B站称，前员工高楠楠公开指控现任CEO陈睿曾报假案，是企图在案件开庭前混淆视听，影响司法公正。
+ ## [高温来袭，华为平板M5伴你清凉追剧](http://www.lanjingtmt.com/news/detail/35242.shtml)
+ > 为了在追剧时更有代入感和戏剧感染力，一款轻薄便携手感好的观剧神器必不可少。前不久上市的华为平板M5在视听方面表现出色，极致影音体验带你飞升追剧新境界。
  ## [申通快递员上门打人案进展：索赔76万元并要求公开道歉](http://www.lanjingtmt.com/news/detail/35239.shtml)
  > 消费者将其投诉至申通总部后，得到的回应均是已经了解到相关情况，将把涉事快递员的行为列入考核，并从工资入手对其进行惩罚。
  ## [为IPO造工业互联网概念，富士康能否摘掉“世界代工厂”帽子](http://www.lanjingtmt.com/news/detail/35236.shtml)
  > 显然，富士康目前不足以跟高科技企业挂钩，企业本质仍然处于“代工”行列。由于过分依赖上游企业，毛利润和净利润过低才是富士康多年来想转型的根本动因。
- ## [社区o2o用户运营：用洗衣频道实操案例教你如何搭建用户流失预警体系](http://www.woshipm.com/user-research/1035461.html)
- > 与其等用户流失后通过运营手段进行召回，不如一开始就准备好一套用户流失预警体系，可以更有效降低用户流失率。本文作者就以洗衣频道为例，教你如何搭建用户流失预警体...
- ## [关于消费升级，读这篇就够了](http://www.woshipm.com/it/1035433.html)
- > 本文再详细说一次消费升级这个话题：包括什么是消费升级？消费升级的核心特征是什么？消费升级的核心人是谁？当前有哪些正在发生的消费升级现象？一、什么是消费升级...
+ ## [1400万孩子喜欢的凯叔讲故事，是这样做内容运营的](http://www.woshipm.com/operate/1036856.html)
+ > 凯叔讲故事自诞生以来，之所以深受小朋友和家长喜爱，除了因内容优质外，也离不开其运营策略，来看看凯叔讲故事是如何做内容运营的。2014年央视财经频道《财富故事会...
+ ## [一套用户增长的完整系统架构（分析体系篇）](http://www.woshipm.com/user-research/1036057.html)
+ > 在用户增长的领域里，学到了对的道理，真的可以过好这一生。互联网的世界里一切都是为了增长，灵光一现的创新可能会让一个产品成功，但绝不可能长久，在用户增长的领...
+ ## [依赖和上瘾，那是两码事](http://www.woshipm.com/user-research/1036317.html)
+ > 你爱的人，会让你上瘾。爱你的人，会让你产生依赖。爱你的人和你爱的人，你选谁？Lin是我多年的好友，我俩无话不说。从去年起，她的心情捉摸不定。去年9月份，她和...
+ ## [产品用户规模化增长的4种策略](http://www.woshipm.com/user-research/945057.html)
+ > 本文是【网易产品如何超车】之网易云音乐副总裁王诗沐分享的云音乐规模化策略的部分笔记和自我理解。对于产品用户的增长，一开始的时候并不是急于功能增加，用户太少...
+ ## [常见用户行为分析模型解析（7）—— 用户分群](http://www.woshipm.com/data-analysis/1035908.html)
+ > 在用户行为分析领域，数据分析方法的科学应用结合理论推导，能够相对完整地揭示用户行为的内在规律。间隔分析模型旨在通过事件发生间隔时间与分布态势，辅助企业实现深...
+ ## [绝境中求生存，互联网金融行业该如何突破？](http://www.woshipm.com/pmd/1029849.html)
+ > 除了政策因素外，互联网金融获客成本高居不下、坏账率奇高、无法实现盈利等等，也是互联网金融难以突破的瓶颈。那么互联网金融行业该如何突破？来看看作者的建议。一...
+ ## [前 Uber 增长团队主管 Andrew Chen：增长的五个关键经验](http://www.woshipm.com/chuangye/1030930.html)
+ > 编者按：Dropbox、Uber、AngelList、Front、Gusto和BobaGuys有什么共同点？它们都受益于增长专家&amp;Andreessen Horowitz 的普通合伙人安德鲁·陈（Andrew Chen）的明智...
+ ## [内容平台商业化，如何才能“破开云雾”？](http://www.woshipm.com/it/1036179.html)
+ > 内容平台要大规模盈利，就必须走出同质化的困局。但内容平台想要破局，就不得不在细微深处着手。一直以来，内容平台变现困难、难以建立商业模式的问题备受业界关注。...
+ ## [案例分析：第三方证券类产品的用户分群和用户成长](http://www.woshipm.com/user-research/1035828.html)
+ > 对于用户运营工作来说，基础数据获取是第一步，用户分群是第二步，用户成长则是最关键的第三步。本文通过３种分群方式和３个用户成长模型，简述了第三方证券类用户的运...
+ ## [免费试听｜想达到高薪文案的水准？这3个文案秘诀，先掌握好](http://www.woshipm.com/active/1035859.html)
+ > 本次试听的是腾讯课堂&amp;起点学院联合打造的4周文案训练营。试听免费，试听信息见下方。下面这位同学来自腾讯课堂&amp;起点学院联合打造的4周文案训练营。她用文案...
+ ## [如何将产品推向市场？通过9个问题帮你寻找获客渠道](http://www.woshipm.com/marketing/1036539.html)
+ > 如果你正在寻找自己的获客渠道，你应该仔细思考客户的购买方式，以此为基础规划获客战略。几乎所有的创业公司都遭遇过这样的困境：将产品推向市场，并获得初步认可后...
  ## [1.6 亿用户，知乎将如何保障理性的「公共空间」](http://www.pmtoo.com/article/46657.html)
  > 5 月 19 日，知乎在 3000 平米的北京「751 东区故事」召开了年度最大品牌盛典「第五届盐 Club 新知青年大会」。会上，知乎创...
  ## [谁说男生不需要美图秀秀？「发际线拯救神器」了解一下](http://www.pmtoo.com/article/46651.html)
