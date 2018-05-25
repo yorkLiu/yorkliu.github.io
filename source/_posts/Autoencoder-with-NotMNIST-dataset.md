@@ -10,7 +10,7 @@ categories:
     - Keras
 ---
 
-上一篇我们已经了了解了 [Autoencoder in Keras](Autoencoder with Keras.ipynb), 并使用了 MNIST 数据集，这一章我们将再次实现 Autoencoder但用[NotMNISt 数据集](http://yaroslavvb.com/upload/notMNIST/)
+上一篇我们已经了了解了 [Autoencoder in Keras](https://yorkliu.github.io/2018/05/24/Autoencoder-with-Keras), 并使用了 MNIST 数据集，这一章我们将再次实现 Autoencoder但用[NotMNISt 数据集](http://yaroslavvb.com/upload/notMNIST/)
 
 ## 目录
 - [1. NotMNIST数据](#1.-NotMNIST数据)

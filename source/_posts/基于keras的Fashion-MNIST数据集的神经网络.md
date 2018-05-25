@@ -9,14 +9,17 @@ categories:
     - 机器学习
     - Keras
 ---
-
-## 目录
+# 目录
 
 - [1. Fashion MNIST简介](#1.-Fashion-MNIST简介)
 - [2. 加载Fashion MNIST数据集](#2.-加载Fashion-MNIST数据集)
 - [3. 数据处理](#3.-数据处理)
 - [4. 创建卷积神经网络](#4.-创建卷积神经网络)
 - [5. 使用混淆矩阵来验证](#5.-使用混淆矩阵来验证)
+- [6. 保存模型](#6.-保存模型)
+- [7. 用自己的数据集来验证模型](#7.-用自己的数据集来验证模型)
+
+**注**: 有关如何制作自己的图片数据集请参考我的另一篇文章: [如何用Paython制作自己的图片数据集](如何用Paython制作自己的图片数据集.ipynb)
 
 # 1. Fashion MNIST简介
 
@@ -351,3 +354,83 @@ print confusion_matrix(y_test_classes, y_pred_classes)
 
 
 从混淆矩阵来看 "裤子" 和 "包"的准确率非常高(达到了 99%), "衬衫"与"外套" 有些分不清(『衬衫』中有 63例都识别成了 『外套』)
+
+
+# 6. 保存模型
+
+```python
+model.save_weights('../data/fashion_mnist_model.h5')
+```
+
+# 7. 用自己的数据集来验证模型
+
+有关如何制作自己的图片数据集请参考我的另一篇文章: [如何用Paython制作自己的图片数据集](如何用Paython制作自己的图片数据集.ipynb)
+
+因为我已经生成了自己的数据集，并保存到了"data/my-dataset-images/My_Fashion_MNIST" 文件中，因为以下代码可以直接加载这个数据集
+
+```python
+my_fashion_test_data = np.load('../data/my-dataset-images/My_Fashion_MNIST')
+print my_fashion_test_data.shape
+```
+    (10, 28, 28)
+
+```python
+n = my_fashion_test_data.shape[0]
+
+plt.figure(figsize=(18,10))
+for i in range(n):
+    plt.subplot(1,n,i+1)
+    plt.imshow(my_fashion_test_data[i], cmap='gray')
+
+plt.show()
+```
+
+![png](/uploads/keras_Fashion_MNIST_files/keras_Fashion_MNIST_28_0.png)
+
+
+```python
+print X_test.shape
+
+# 将数据二值化
+# 这一步非常重要，不然会影响模型的结果
+my_fashion_test_data = my_fashion_test_data/255
+
+# 因为 X_test 的shape是 (10000, 28, 28, 1)即: 10000 samples, 每个样本都是 28x28x1 的 (28 x 28 大小),
+# 只有1个通道(即灰度图像)
+# 因此，我们自己的数据集也要按照这样的格式来reshape一下
+my_X_test = my_fashion_test_data.reshape(-1, 28, 28, 1).astype(np.float32)
+
+print my_X_test.shape
+print my_X_test.max()
+print my_X_test.min()
+```
+
+    (10000, 28, 28, 1)
+    (10, 28, 28, 1)
+    2.1935036e-22
+    1.720395e-24
+
+
+
+```python
+m_y_pred = model.predict(my_X_test)
+```
+
+
+```python
+#print m_y_pred
+m_y_classes = np.argmax(m_y_pred, axis=1)
+# print m_y_test_classes
+print m_y_classes
+```
+
+    [0 0 0 0 0 0 0 0 0 0]
+
+
+测试结果还是非常满意的，准确率达到的100%，当然可能是因为我们自定义的测试数据集没有多少的原因，但whatever, 效果还是相当不错的！！
+
+# 总结
+
+本篇文章知识点还是比较多的, 数据处理，建立模型，创建CNN网络，构建自己的数据集用来测试等。
+
+本模型的准确率不是很高，傻傻的不分"衬衫"与"外套"以及"T-Shirt", 可以试着多建立几层"隐藏层"或者将training data 加一些 "噪点"来训练等等方法来提高模型的准确度.
