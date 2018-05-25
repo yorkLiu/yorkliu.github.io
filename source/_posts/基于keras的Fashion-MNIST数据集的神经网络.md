@@ -19,7 +19,7 @@ categories:
 - [6. 保存模型](#6.-保存模型)
 - [7. 用自己的数据集来验证模型](#7.-用自己的数据集来验证模型)
 
-**注**: 有关如何制作自己的图片数据集请参考我的另一篇文章: [如何用Paython制作自己的图片数据集](如何用Paython制作自己的图片数据集.ipynb)
+**注**: 有关如何制作自己的图片数据集请参考我的另一篇文章: [如何用Paython制作自己的图片数据集](https://yorkliu.github.io/2018/05/25/%E5%A6%82%E4%BD%95%E7%94%A8Paython%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E7%89%87%E6%95%B0%E6%8D%AE%E9%9B%86)
 
 # 1. Fashion MNIST简介
 
@@ -364,7 +364,7 @@ model.save_weights('../data/fashion_mnist_model.h5')
 
 # 7. 用自己的数据集来验证模型
 
-有关如何制作自己的图片数据集请参考我的另一篇文章: [如何用Paython制作自己的图片数据集](如何用Paython制作自己的图片数据集.ipynb)
+有关如何制作自己的图片数据集请参考我的另一篇文章: [如何用Paython制作自己的图片数据集](https://yorkliu.github.io/2018/05/25/%E5%A6%82%E4%BD%95%E7%94%A8Paython%E5%88%B6%E4%BD%9C%E8%87%AA%E5%B7%B1%E7%9A%84%E5%9B%BE%E7%89%87%E6%95%B0%E6%8D%AE%E9%9B%86/)
 
 因为我已经生成了自己的数据集，并保存到了"data/my-dataset-images/My_Fashion_MNIST" 文件中，因为以下代码可以直接加载这个数据集
 
