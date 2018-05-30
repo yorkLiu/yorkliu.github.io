@@ -53,7 +53,7 @@ categories:
 > We have created a 17 category flower dataset with **80 images for each class**. The flowers chosen are some common flowers in the UK. The images have large scale, pose and light variations and there are also classes with large varations of images within the class and close similarity to other classes. The categories can be seen in the figure below. We randomly split the dataset into 3 different training, validation and test sets. A subset of the images have been groundtruth labelled for segmentation.
 
 如下所示:
-![](../data/images/17_flowers_categories.jpg)
+![](/uploads/images/17_flowers_categories.jpg)
 
 
 # 2.数据集处理
@@ -72,7 +72,6 @@ data
 ```  
 
 该数据集共有17种花，分别为:
-
 | Index| Flower Name|
 | :--- | :--- |
 |0| Buttercup|
