@@ -72,7 +72,7 @@ data
 
 该数据集共有17种花，分别为:
 
-| | |
+| Index| Flower Name|
 | :--- | :--- |
 |0| Buttercup|
 |1| Colts Foot|
@@ -958,25 +958,6 @@ plot_model(model, '17_flowers_classes_with_inception_v3_model.png')
 - setup_to_transfer_learning： 这个函数将骨架模型的所有层都设置为不可训练
 - setup_to_fine_tune：这个函数将骨架模型中的前几层设置为不可训练，后面的所有Inception模块都设置为可训练。 这里面的GAP_LAYER需要配合打印图和调试的方法确认正确的值。
 
-
-```python
-# import tensorflow as tf
-# from keras.applications import Xception
-# from keras.utils import multi_gpu_model
-# G =1
-
-# with tf.device('/cpu:0'):
-#     model = Xception(weights=None,
-#                      input_shape=(299, 299, 3),
-#                      classes=800)
-# multi_gpu_model(model, gpus=2)
-
-import os
-os.environ["CUDA_DEVICE_ORDER"]="PCI_BUS_ID"
-os.environ["CUDA_VISIBLE_DEVICES"]="1" #model will be trained on GPU 1
-```
-
-
 ```python
 from keras.optimizers import Adam, RMSprop, SGD
 
@@ -1030,22 +1011,6 @@ print 'Traning the Transfer Learning total spend:', (end - start)
     12/12 [==============================] - 176s 15s/step - loss: 2.8624 - acc: 0.0898 - val_loss: 2.7887 - val_acc: 0.0898
     Epoch 2/2
     12/12 [==============================] - 182s 15s/step - loss: 2.6725 - acc: 0.1497 - val_loss: 2.6705 - val_acc: 0.1875
-    Traning the Transfer Learning total spend:
-
-
-    ---------------------------------------------------------------------------
-
-    NameError                                 Traceback (most recent call last)
-
-    <ipython-input-14-c0321365b541> in <module>()
-         17 model.save('../data/models/17_flowers_iv3_transfer_learning_model.h5')
-         18
-    ---> 19 print 'Traning the Transfer Learning total spend:', (end - start)
-
-
-    NameError: name 'end' is not defined
-
-
 
 ```python
 start = datetime.now()
