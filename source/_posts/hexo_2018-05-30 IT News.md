@@ -1,7 +1,7 @@
 ---
 title: 2018-05-30 IT News
 copyright: true
-date: 2018-05-30 11:12:02
+date: 2018-05-30 11:12:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -167,8 +167,8 @@ AI&#26080;&#20154;&#25668;&#20687;&#26426;&#30740;&#21457;&#21830;&#8221;&#30591
  > 在IT技术圈混，怎么能不知道这几个公众号？
  ## [当数学家爱上了作诗。。。](http://blog.csdn.net/FnqTyr45/article/details/80345334)
  > 当数学家爱上了作诗。。。
- ## [Python抖音机器人，论如何在抖音上找到漂亮小姐姐？](http://blog.csdn.net/u012123989/article/details/80482297)
- > Python抖音机器人，论如何在抖音上找到漂亮小姐姐？
+ ## [ajax中出现两次请求](http://blog.csdn.net/fwk19840301/article/details/80488281)
+ > ajax中出现两次请求
  ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80288527)
  > 程序猿秃顶算工伤吗？
  ## [网约车从业者期盼行业信心重振：水是真的不敢递](http://www.lanjingtmt.com/news/detail/35373.shtml)
