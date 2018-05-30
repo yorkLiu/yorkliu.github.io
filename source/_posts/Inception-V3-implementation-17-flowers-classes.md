@@ -57,20 +57,21 @@ categories:
 
 # 2.数据集处理
 
-源数据集是没有标签的，并且也都没有分类，所有的类别的图片都在同一个folder中，因此我们要将数据集进行分类，因为我们下面还要用到 Keras 中的ImageDataGenerator来增强数据集，因些还得将数据按照ImageDataGenerator的格式存储
+源数据集是没有标签的，并且也都没有分类，所有的类别的图片都在同一个folder中，因此我们要将数据集进行分类，因为我们下面还要用到 Keras 中的ImageDataGenerator来增强数据集，因些还得将数据按照ImageDataGenerator的格式存储:
+```
+data
+  |_class0
+    |image0
+    |....
+  |_class1
+    |image0
+    |...
+  ....
+```
 
-```bash
-  data
-    |_class0
-      |image0
-      |....
-    |_class1
-      |image0
-      |...
-    ....  
-```  
 
 该数据集共有17种花，分别为:
+
 
 | Index| Flower Name|
 | :--- | :--- |
@@ -91,6 +92,7 @@ categories:
 |14| Tigerlily|
 |15| Tulip|
 |16| Cowslip|
+
 
 我们将数据集分成：
   - train data: 800
