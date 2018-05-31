@@ -1,7 +1,7 @@
 ---
 title: 2018-05-31 IT News
 copyright: true
-date: 2018-05-31 13:44:29
+date: 2018-05-31 13:45:45
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -201,6 +201,36 @@ AI&33455;&29255;&20844;&21496;&8220;&25506;&22659;&31185;&25216;&8221;&25968;&21
  >  1 模型训练基本步骤进入了AI领域，学习了手写字识别等几个demo后，就会发现深度学习模型训练是十分关键和有挑战性的。选定了网...
  ## [关于深度学习，这些知识点你需要了解一下](https://yq.aliyun.com/articles/598419)
  > 想要学习深度学习，不了解这些知识点，怕是学不好哦~
+ ## [CSDN日报180529——《毕业三到五年，别让“努力”毁了你》](http://blog.csdn.net/blogdevteam/article/details/80503433)
+ > CSDN日报180529——《毕业三到五年，别让“努力”毁了你》
+ ## [无人驾驶之车辆检测与跟踪](http://blog.csdn.net/u010665216/article/details/80510063)
+ > 无人驾驶之车辆检测与跟踪
+ ## [【资源】最新人工智能 10 大主题 Github 清单](http://blog.csdn.net/qq_42154484/article/details/80508710)
+ > 【资源】最新人工智能 10 大主题 Github 清单
+ ## [AI抢程序员工作：2040年AI可能代替程序员](http://blog.csdn.net/qq_42154484/article/details/80508725)
+ > AI抢程序员工作：2040年AI可能代替程序员
+ ## [【论文笔记】attention-based model 论文汇总](http://blog.csdn.net/weixin_39837402/article/details/80508749)
+ > 【论文笔记】attention-based model 论文汇总
+ ## [目标跟踪算法概览](http://blog.csdn.net/liujiandu101/article/details/80508755)
+ > 目标跟踪算法概览
+ ## [Numpy金融函数的应用](http://blog.csdn.net/sinat_30353259/article/details/80508854)
+ > Numpy金融函数的应用
+ ## [【卷积神经网络-进化史】从LeNet到AlexNet](http://blog.csdn.net/wangchaoqi1985/article/details/80508889)
+ > 【卷积神经网络-进化史】从LeNet到AlexNet
+ ## [\[Caffe\]:关于caffe新手入门](http://blog.csdn.net/intjun/article/details/80509237)
+ > \[Caffe\]:关于caffe新手入门
+ ## [Google Innocamp2018创新训练营--华东师范大学之行](http://blog.csdn.net/qq_37802644/article/details/80509333)
+ > Google Innocamp2018创新训练营--华东师范大学之行
+ ## [TensorFlow的数据读取机制](http://blog.csdn.net/AI_girl/article/details/80509486)
+ > TensorFlow的数据读取机制
+ ## [人脸检测（dlib和opencv）](http://blog.csdn.net/weixin_38569817/article/details/80509494)
+ > 人脸检测（dlib和opencv）
+ ## [机器学习：线性模型-多分类任务拆分之纠错输出码ECOC浅析](http://blog.csdn.net/weixin_35732969/article/details/80509498)
+ > 机器学习：线性模型-多分类任务拆分之纠错输出码ECOC浅析
+ ## [一次卷积的计算量到底有多少 ?](http://blog.csdn.net/mtj66/article/details/80509713)
+ > 一次卷积的计算量到底有多少 ?
+ ## [用keras采用DCGAN网络生成三国群英传7的人物头像](http://blog.csdn.net/hahajinbu/article/details/80509728)
+ > 用keras采用DCGAN网络生成三国群英传7的人物头像
  ## [\[Python人工智能\] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
  > 从本篇文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前两篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络，这篇文章主要讲解机...
 # PM 
