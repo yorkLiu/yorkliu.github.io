@@ -1,7 +1,7 @@
 ---
 title: 2018-05-31 IT News
 copyright: true
-date: 2018-05-31 09:42:04
+date: 2018-05-31 09:42:56
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -161,6 +161,8 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > 人在职场，该不该对领导掏心掏肺？
  ## [当数学家爱上了作诗。。。](http://blog.csdn.net/FnqTyr45/article/details/80345334)
  > 当数学家爱上了作诗。。。
+ ## [[Python人工智能] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
+ > 从本篇文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前两篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络，这篇文章主要讲解机...
  ## [三星GalaxyS7 edge再现爆炸  重蹈覆辙失主流市场](http://www.lanjingtmt.com/news/detail/35404.shtml)
  > 目前三星在中国市场的份额只有3%左右。
  ## [产品设计之前，如何分析业务需求和用户痛点？](http://www.woshipm.com/pd/1038848.html)
