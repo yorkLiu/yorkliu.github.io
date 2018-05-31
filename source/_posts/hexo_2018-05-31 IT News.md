@@ -1,7 +1,7 @@
 ---
 title: 2018-05-31 IT News
 copyright: true
-date: 2018-05-31 13:28:01
+date: 2018-05-31 13:44:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -57,7 +57,7 @@ AI&33455;&29255;&20844;&21496;&8220;&25506;&22659;&31185;&25216;&8221;&25968;&21
  ## [使用Opencv-python生成520图片数字](https://my.oschina.net/tsingliu/blog/1821522)
  > 520当天一个无聊的程序员想要制造一些浪漫（好像没有多少人懂）气息，从早到晚就有了下面的效果:   看到这里你心动了吗？警惕：前方高能 一、自行准备图片素材（忧伤的很） 二、引入所需的包 cv2（Opencv-python）：图像处理的主要工具 pathlib: 系统文件操作工具 三、构建数字模型，
  ## [RESTFul 服务测试自动化的艺术 - TODO 服务篇](https://my.oschina.net/greenlaw110/blog/1821431)
- > 老码农在[上一篇博客](https://my.oschina.net/greenlaw110/blog/1811714) 给出了如何从头开始创建一个 自带自动化测试工具的 RESTful 服务项目的例子. 今天我们在这个简单例子上做延伸, 把这个例子改写为一个简单的 TODO Task 应用. 该应
+ > 老码农在\[上一篇博客\](https://my.oschina.net/greenlaw110/blog/1811714) 给出了如何从头开始创建一个 自带自动化测试工具的 RESTful 服务项目的例子. 今天我们在这个简单例子上做延伸, 把这个例子改写为一个简单的 TODO Task 应用. 该应
  ## [Java NIO Buffer](https://my.oschina.net/j4love/blog/1821305)
  > Buffer 简介     Buffer 的作用是用来存储数据 ， 可以对数据进行存、取的操作。 Buffer 的空间大小初始化时确定之后是不可变的。 Buffer 中的重要属性 ： mark :  标记位置 （初始为 -1） position  ：  操作缓冲区的&quot;针针&quot;(说指针是为了方便理解)位
  ## [【大量干货】史上最完整的Tengine HTTPS原理解析、实践与调试](https://my.oschina.net/sherrywangzh/blog/1821267)
@@ -101,7 +101,7 @@ AI&33455;&29255;&20844;&21496;&8220;&25506;&22659;&31185;&25216;&8221;&25968;&21
  ## [Cphalcon 3.4.0 发布，PHP 的 C 扩展 Web 框架](https://www.oschina.net/news/96608/cphalcon-3-4-0-released)
  > Cphalcon 3.4.0 发布了，Cphalcon 是一个开源的 Web 框架，作为 PHP 语言 C 扩展，它提供了更高的性能与更低的资源消耗。此次更新内容包含： 新增 Phalcon\Mvc\Router::attach 以将 Route 对象直接加入 Router 13326 新增监听 
  ## [Groovy 2.5.0 发布，JVM 动态脚本语言](https://www.oschina.net/news/96607/groovy-2-5-0-released)
- > Apache Groovy 2.5.0 已发布。此版本包含大量修复和依赖更新，并包含以下新特性： [GROOVY-6744] - Have the elvis operator (?:) support the Optional type in Java 8 [GROOVY-7089] - Base
+ > Apache Groovy 2.5.0 已发布。此版本包含大量修复和依赖更新，并包含以下新特性： \[GROOVY-6744\] - Have the elvis operator (?:) support the Optional type in Java 8 \[GROOVY-7089\] - Base
  ## [Mob林荣波：再论数据工厂架构升级](http://cloud.51cto.com/art/201805/575074.htm)
  > Mob林荣波：再论数据工厂架构升级
  ## [AI技术+短视频于苏宁易购电商平台的应用实践](http://ai.51cto.com/art/201805/575067.htm)
@@ -201,37 +201,7 @@ AI&33455;&29255;&20844;&21496;&8220;&25506;&22659;&31185;&25216;&8221;&25968;&21
  >  1 模型训练基本步骤进入了AI领域，学习了手写字识别等几个demo后，就会发现深度学习模型训练是十分关键和有挑战性的。选定了网...
  ## [关于深度学习，这些知识点你需要了解一下](https://yq.aliyun.com/articles/598419)
  > 想要学习深度学习，不了解这些知识点，怕是学不好哦~
- ## [CSDN日报180529——《毕业三到五年，别让“努力”毁了你》](http://blog.csdn.net/blogdevteam/article/details/80503433)
- > CSDN日报180529——《毕业三到五年，别让“努力”毁了你》
- ## [无人驾驶之车辆检测与跟踪](http://blog.csdn.net/u010665216/article/details/80510063)
- > 无人驾驶之车辆检测与跟踪
- ## [【资源】最新人工智能 10 大主题 Github 清单](http://blog.csdn.net/qq_42154484/article/details/80508710)
- > 【资源】最新人工智能 10 大主题 Github 清单
- ## [AI抢程序员工作：2040年AI可能代替程序员](http://blog.csdn.net/qq_42154484/article/details/80508725)
- > AI抢程序员工作：2040年AI可能代替程序员
- ## [【论文笔记】attention-based model 论文汇总](http://blog.csdn.net/weixin_39837402/article/details/80508749)
- > 【论文笔记】attention-based model 论文汇总
- ## [目标跟踪算法概览](http://blog.csdn.net/liujiandu101/article/details/80508755)
- > 目标跟踪算法概览
- ## [Numpy金融函数的应用](http://blog.csdn.net/sinat_30353259/article/details/80508854)
- > Numpy金融函数的应用
- ## [【卷积神经网络-进化史】从LeNet到AlexNet](http://blog.csdn.net/wangchaoqi1985/article/details/80508889)
- > 【卷积神经网络-进化史】从LeNet到AlexNet
- ## [[Caffe]:关于caffe新手入门](http://blog.csdn.net/intjun/article/details/80509237)
- > [Caffe]:关于caffe新手入门
- ## [Google Innocamp2018创新训练营--华东师范大学之行](http://blog.csdn.net/qq_37802644/article/details/80509333)
- > Google Innocamp2018创新训练营--华东师范大学之行
- ## [TensorFlow的数据读取机制](http://blog.csdn.net/AI_girl/article/details/80509486)
- > TensorFlow的数据读取机制
- ## [人脸检测（dlib和opencv）](http://blog.csdn.net/weixin_38569817/article/details/80509494)
- > 人脸检测（dlib和opencv）
- ## [机器学习：线性模型-多分类任务拆分之纠错输出码ECOC浅析](http://blog.csdn.net/weixin_35732969/article/details/80509498)
- > 机器学习：线性模型-多分类任务拆分之纠错输出码ECOC浅析
- ## [一次卷积的计算量到底有多少 ?](http://blog.csdn.net/mtj66/article/details/80509713)
- > 一次卷积的计算量到底有多少 ?
- ## [用keras采用DCGAN网络生成三国群英传7的人物头像](http://blog.csdn.net/hahajinbu/article/details/80509728)
- > 用keras采用DCGAN网络生成三国群英传7的人物头像
- ## [[Python人工智能] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
+ ## [\[Python人工智能\] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
  > 从本篇文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前两篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络，这篇文章主要讲解机...
 # PM 
  ## [视频类App竞品分析与交互体验](http://www.woshipm.com/evaluating/1022508.html)
