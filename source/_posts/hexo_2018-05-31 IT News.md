@@ -1,7 +1,7 @@
 ---
 title: 2018-05-31 IT News
 copyright: true
-date: 2018-05-31 11:39:15
+date: 2018-05-31 12:51:53
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -49,6 +49,7 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
                         
 </details>
 
+# IT 新闻
  ## [推荐朋友发项目来开源众包吧，成交立享5%的成交额提成！助人为乐还赚钱](https://my.oschina.net/osczb/blog/1821691)
  > 有的时候就有那么多的好事
  ## [从linux源码看socket的close](https://my.oschina.net/alchemystar/blog/1821680)
@@ -61,6 +62,8 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > Buffer 简介     Buffer 的作用是用来存储数据 ， 可以对数据进行存、取的操作。 Buffer 的空间大小初始化时确定之后是不可变的。 Buffer 中的重要属性 ： mark :  标记位置 （初始为 -1） position  ：  操作缓冲区的&quot;针针&quot;(说指针是为了方便理解)位
  ## [【大量干货】史上最完整的Tengine HTTPS原理解析、实践与调试](https://my.oschina.net/sherrywangzh/blog/1821267)
  > 在最近的飞天技术汇CDN Tengine开源技术沙龙上，阿里云技术专家王祖熙（金九）进行了《Tengine HTTPS最佳实践》的主题分享。本文为演讲记录，介绍了HTTPS趋势、HTTPS基础、HTTPS实践、HTTPS调试。
+ ## [MAME 0.198 发布，重温童年的街机模拟器](https://www.oschina.net/news/96627/mame-0-198-released)
+ > MAME 0.196 已发布，MAME 最初是街机模拟器，随着时间的推移，MAME 吸收了姊妹项目 MESS（多机种模拟器超级系统），所以 MAME 现在还记录了各种各样的（大多是老式的）电脑游戏、掌机游戏和电子游戏（视频游戏）。 新版本添加了几款新的街机游戏，包括 Tom Tom Magic、Ji
  ## [.NET Core 2.1 发布，.NET 框架核心类库](https://www.oschina.net/news/96626/dotnet-core-2-1-released)
  > .NET Core 2.1 发布了，此次更新包括对性能的改进，对运行时和工具的改进，以及新增一种以 NuGet 包的形式部署工具的方法。同时带来许多新的 API，专注于密码学、压缩和 Windows 兼容性。此版本是第一个支持 Alpine Linux 和 ARM32 芯片的版本。 同时，ASP.N
  ## [PDF.NET SOD 5.6.2.0530 版本发布](https://www.oschina.net/news/96625/pdfnet-sod-5-6-2-0530-released)
@@ -99,8 +102,8 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > Cphalcon 3.4.0 发布了，Cphalcon 是一个开源的 Web 框架，作为 PHP 语言 C 扩展，它提供了更高的性能与更低的资源消耗。此次更新内容包含： 新增 Phalcon\Mvc\Router::attach 以将 Route 对象直接加入 Router #13326 新增监听 
  ## [Groovy 2.5.0 发布，JVM 动态脚本语言](https://www.oschina.net/news/96607/groovy-2-5-0-released)
  > Apache Groovy 2.5.0 已发布。此版本包含大量修复和依赖更新，并包含以下新特性： [GROOVY-6744] - Have the elvis operator (?:) support the Optional type in Java 8 [GROOVY-7089] - Base
- ## [Akka 2.5.13 发布，Actor 模型开发库](https://www.oschina.net/news/96606/akka-2-5-13-released)
- > Akka 2.5.13 发布了，目前暂时没有发现相关更新信息，您可以留意官方更新网页了解详情。 Akka 是一个用 Scala 编写的库，用于简化编写容错的、高可伸缩性的 Java 和 Scala 的 Actor 模型应用。 下载地址：  Source code (zip)  Source code
+ ## [Mob林荣波：再论数据工厂架构升级](http://cloud.51cto.com/art/201805/575074.htm)
+ > Mob林荣波：再论数据工厂架构升级
  ## [AI技术+短视频于苏宁易购电商平台的应用实践](http://ai.51cto.com/art/201805/575067.htm)
  > AI技术+短视频于苏宁易购电商平台的应用实践
  ## [一篇文章快速理解微服务架构下的数据设计](http://developer.51cto.com/art/201805/575051.htm)
@@ -115,8 +118,10 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > 深入浅出：大妈也能看懂的大数据分布式计算
  ## [百倍币狂欢已结束？45个大佬的24条区块链潜规则，全部公开！](http://blockchain.51cto.com/art/201805/574958.htm)
  > 百倍币狂欢已结束？45个大佬的24条区块链潜规则，全部公开！
- ## [实时网络威胁情报比以往来得更重要](http://netsecurity.51cto.com/art/201805/574712.htm)
- > 实时网络威胁情报比以往来得更重要
+ ## [信息数字化、业务数字化与数字化转型的本质是什么？](http://www.cioage.com/art/201805/575078.htm)
+ > 数字化转型并不是技术转型，这个更广泛的术语是指客户驱动的战略性业务转型，不仅需要实施数字技术，还需要
+ ## [5G场景和技术带来新安全威胁](http://www.cioage.com/art/201805/575076.htm)
+ > 5G网络的虚拟化特点，改变了传统网络中功能网元的保护很大程度上依赖于对物理设备的安全隔离的现状，因此，
  ## [Linux系统进程的一些知识总结，进程与线程之间的纠葛...](http://os.51cto.com/art/201805/575068.htm)
  > Linux 是一个多任务的操作系统，也就是说，在同一时间内，可以有多个进程同时执行。我们大家常用的单CPU计
  ## [揭开免费WiFi隐藏的黑幕！](http://server.51cto.com/sSecurity-575066.htm)
@@ -133,10 +138,6 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > 近日，联通在大冰神卡的销售上推出团购优惠举措，拼团帖开始出现于各大社交平台，运营商流量用户争夺拼杀进
  ## [一文看懂“车联网”的前世今生](http://zhuanlan.51cto.com/art/201805/575052.htm)
  > 联网技术是和传感、计算(例如自动驾驶)、软件开发，等信息化技术同步发展的，未来的“智能交通”是交通(道
- ## [2018年数据科学和机器学习调查:Python完胜R语言，Hadoop被抛弃！](http://news.51cto.com/art/201805/575050.htm)
- > 近日，数据科学网站KDnuggets发布 2018年数据科学和机器学习工具调查结果。
- ## [Google Chrome 67稳定版更新：大多数网站支持免密登陆方式](http://news.51cto.com/art/201805/575048.htm)
- > 援引外媒ZDNet报道，最新上线的桌面端Chrome 67版本中允许大多数网站实现免密码登陆方式，这就意味着用户
  ## [CSDN日报180529——《毕业三到五年，别让“努力”毁了你》](http://blog.csdn.net/blogdevteam/article/details/80503433)
  > CSDN日报180529——《毕业三到五年，别让“努力”毁了你》
  ## [机器学习 （十二）让你轻松理解K-means 聚类算法](http://blog.csdn.net/lilongsheng1125/article/details/80144000)
@@ -155,18 +156,24 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > 程序员都经历过的那些事
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
  > 怎样和程序猿谈一场不散场的爱情
- ## [小邪在阿里的十年技术人生](http://blog.csdn.net/b0Q8cpra539haFS7/article/details/80333445)
- > 小邪在阿里的十年技术人生
+ ## [最近做大数据面试官的感想](http://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
+ > 最近做大数据面试官的感想
+ ## [在IT技术圈混，怎么能不知道这几个公众号？](http://blog.csdn.net/bjweimengshu/article/details/80416672)
+ > 在IT技术圈混，怎么能不知道这几个公众号？
  ## [人在职场，该不该对领导掏心掏肺？](http://blog.csdn.net/X8i0Bev/article/details/80331699)
  > 人在职场，该不该对领导掏心掏肺？
  ## [雷军的留名，不是以程序员身份](http://blog.csdn.net/iodjSVf8U1J7KYc/article/details/80345364)
  > 雷军的留名，不是以程序员身份
+ ## [小邪在阿里的十年技术人生](http://blog.csdn.net/b0Q8cpra539haFS7/article/details/80333445)
+ > 小邪在阿里的十年技术人生
  ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80288527)
  > 程序猿秃顶算工伤吗？
- ## [最近做大数据面试官的感想](http://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
- > 最近做大数据面试官的感想
- ## [自然语言处理PPT笔记](http://blog.csdn.net/qq_41818806/article/details/80499841)
- > 自然语言处理PPT笔记
+ ## [王传福：比亚迪的沉沦与突围](http://www.lanjingtmt.com/news/detail/35408.shtml)
+ > 传统新能源造车企业的光环正在黯然褪去。
+ ## [暴风集团生死劫：巨额资金链缺口难解5000万迷你融资杯水车薪](http://www.lanjingtmt.com/news/detail/35407.shtml)
+ > 一纸蹊跷的5000万元小额快融申请，暴露了暴风集团资金链危局的冰山一角。
+ ## [商汤科技完成C+轮6.2亿美元融资，成全球估值最高AI公司](http://www.lanjingtmt.com/news/detail/35414.shtml)
+ > 此轮过后，商汤科技总融资额超16亿美元，估值超过45亿美金，成为全球估值最高AI公司。
  ## [马云：阿里菜鸟将投上千亿建设智能物流 全国24小时必达](http://www.lanjingtmt.com/news/detail/35412.shtml)
  > 日前阿里巴巴集团董事局主席马云在2018全球智慧物流峰会上表示，菜鸟要全力以赴建设国家智能物流骨干网，阿里巴巴和菜鸟将会投资上千亿元在这一事业上。
  ## [区块链成香饽饽，加密货币却成落汤鸡](http://www.lanjingtmt.com/news/detail/35403.shtml)
@@ -177,6 +184,11 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > 消费者反馈手表问题多，品牌授权书是否系伪造一波三折。
  ## [三星GalaxyS7 edge被诉爆炸  重蹈覆辙失主流市场](http://www.lanjingtmt.com/news/detail/35404.shtml)
  > 目前三星在中国市场的份额只有3%左右。
+# 人工智能
+ ## [第4章 Keras入门](https://yq.aliyun.com/articles/598492)
+ > 第4章 Keras入门Python的科学计算包主要是Theano和TensorFlow：很强大，但有点难用。Keras可以基于这两种...
+ ## [第3章 TensorFlow入门](https://yq.aliyun.com/articles/598487)
+ > 第3章 TensorFlow入门TensorFlow是Google创造的数值运算库，作为深度学习的底层使用。本章包括：Tenso...
  ## [阿里技术](https://yq.aliyun.com/articles/598485)
  > AI与法务，会擦出怎样的火花？日前在阿里巴巴内部，进行了这样一场特殊的“比赛”。600份在线协议，8位专业律师用了一周时间完成审核，而人...
  ## [吕本富：从平台经济到平台经济学](https://yq.aliyun.com/articles/598461)
@@ -189,8 +201,49 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > ## 1 模型训练基本步骤进入了AI领域，学习了手写字识别等几个demo后，就会发现深度学习模型训练是十分关键和有挑战性的。选定了网...
  ## [关于深度学习，这些知识点你需要了解一下](https://yq.aliyun.com/articles/598419)
  > 想要学习深度学习，不了解这些知识点，怕是学不好哦~
+ ## [CSDN日报180529——《毕业三到五年，别让“努力”毁了你》](http://blog.csdn.net/blogdevteam/article/details/80503433)
+ > CSDN日报180529——《毕业三到五年，别让“努力”毁了你》
+ ## [无人驾驶之车辆检测与跟踪](http://blog.csdn.net/u010665216/article/details/80510063)
+ > 无人驾驶之车辆检测与跟踪
+ ## [【资源】最新人工智能 10 大主题 Github 清单](http://blog.csdn.net/qq_42154484/article/details/80508710)
+ > 【资源】最新人工智能 10 大主题 Github 清单
+ ## [AI抢程序员工作：2040年AI可能代替程序员](http://blog.csdn.net/qq_42154484/article/details/80508725)
+ > AI抢程序员工作：2040年AI可能代替程序员
+ ## [【论文笔记】attention-based model 论文汇总](http://blog.csdn.net/weixin_39837402/article/details/80508749)
+ > 【论文笔记】attention-based model 论文汇总
+ ## [目标跟踪算法概览](http://blog.csdn.net/liujiandu101/article/details/80508755)
+ > 目标跟踪算法概览
+ ## [Numpy金融函数的应用](http://blog.csdn.net/sinat_30353259/article/details/80508854)
+ > Numpy金融函数的应用
+ ## [【卷积神经网络-进化史】从LeNet到AlexNet](http://blog.csdn.net/wangchaoqi1985/article/details/80508889)
+ > 【卷积神经网络-进化史】从LeNet到AlexNet
+ ## [[Caffe]:关于caffe新手入门](http://blog.csdn.net/intjun/article/details/80509237)
+ > [Caffe]:关于caffe新手入门
+ ## [Google Innocamp2018创新训练营--华东师范大学之行](http://blog.csdn.net/qq_37802644/article/details/80509333)
+ > Google Innocamp2018创新训练营--华东师范大学之行
+ ## [TensorFlow的数据读取机制](http://blog.csdn.net/AI_girl/article/details/80509486)
+ > TensorFlow的数据读取机制
+ ## [人脸检测（dlib和opencv）](http://blog.csdn.net/weixin_38569817/article/details/80509494)
+ > 人脸检测（dlib和opencv）
+ ## [机器学习：线性模型-多分类任务拆分之纠错输出码ECOC浅析](http://blog.csdn.net/weixin_35732969/article/details/80509498)
+ > 机器学习：线性模型-多分类任务拆分之纠错输出码ECOC浅析
+ ## [一次卷积的计算量到底有多少 ?](http://blog.csdn.net/mtj66/article/details/80509713)
+ > 一次卷积的计算量到底有多少 ?
+ ## [用keras采用DCGAN网络生成三国群英传7的人物头像](http://blog.csdn.net/hahajinbu/article/details/80509728)
+ > 用keras采用DCGAN网络生成三国群英传7的人物头像
  ## [[Python人工智能] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
  > 从本篇文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前两篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络，这篇文章主要讲解机...
+# PM
+ ## [视频类App竞品分析与交互体验](http://www.woshipm.com/evaluating/1022508.html)
+ > 本文作者选择了爱奇艺、腾讯视频和优酷来做竞品分析，一起来看看~我本人是几乎每天都会打开视频app看电视、电影、综艺等，学生时代时比较流行的是PPS、风行、暴风影音...
+ ## [运营眼里2B和2C区别，至少还差8个纬度](http://www.woshipm.com/operate/1044751.html)
+ > 对于从事2b运营或者从2c跨界2b 运营人来说，认知不一样，对应结果不一样。为什么要比较？认知教育中，老师教导我们说：对于任何一个问题我们要从元问题开始怀疑，首...
+ ## [滴滴，我们帮你完善了一下“紧急求助”功能](http://www.woshipm.com/pd/1043787.html)
+ > 只着眼于“紧急求助”这一功能本身，从场景和逻辑上讲，对于突如其来的恶行，能提供的“安全保障”，微乎其微。没有预警，受害人就没有触发“紧急求助”这一按钮的动机和时机...
+ ## [需求到方案：（1）需求与经验](http://www.woshipm.com/pd/1043659.html)
+ > 又是接近两个月没有更新文章， 正在带着团队孵化一个很有意思的项目，预计还有一个月不到就要上线发布了，届时邀请大家体验。这次和大家分享一下从产品需求到设计方案的...
+ ## [进军农村市场的正确打开方式，刘强东已找到了吗？](http://www.woshipm.com/it/1044649.html)
+ > 在电商时代，电商平台已经与大部分品类的品牌商建立了直接合作关系，供应链成为最大优势，现在他们要把这种能力输出到农村。刘强东堪称中国最知名的农村村长，真是为...
  ## [写给设计师看的数据知识](http://www.woshipm.com/data-analysis/1044309.html)
  > 设计师在工作中常遇到的一些问题其实都可以通过数据分析解决，本文通过常见的概念和案例分析，总结了关于数据方面的一些基本知识。作为设计师，你是否遇到过这些问题...
  ## [刘玮冬运营手记 | 运营系统化实战复盘，如何让社区运营实现系统化](http://www.woshipm.com/operate/1044570.html)
@@ -205,16 +258,6 @@ AI&#33455;&#29255;&#20844;&#21496;&#8220;&#25506;&#22659;&#31185;&#25216;&#8221;
  > “自己不是咨询师，而是喜欢直接问客户刁钻问题的人”——管理大师德鲁克“人类最高级的智慧就是向自己或向别人提问”——苏格拉底。很多时候，一个好的问题比答案更重要。...
  ## [产品设计之前，如何分析业务需求和用户痛点？](http://www.woshipm.com/pd/1038848.html)
  > 本文作者将结合一个血糖管理案例来一步一步分析，是如何从业务目的分析到明确设计策略。enjoy~对于产品设计，其目的不仅仅是一个用户体验好的产品，更是一款成功的产...
- ## [越努力，越“难过” —— 工作中常见的努力后遗症](http://www.woshipm.com/it/1043779.html)
- > 会点开看这个文章的你，想必是在努力的过程中，无疑了。这篇文章呢，主要是相对散的分享一些最近工作中看到的体会到的成长之痛。当然，嘿嘿嘿，主要是负面情绪的毒气以...
- ## [如何像专家一样针对原型进行可用性测试？](http://www.woshipm.com/rp/1044370.html)
- > 可用性测试不是针对设计的某个单一阶段而言的，你必须将其放到整个产品过程中，在这个过程中不断迭代和完善。如果你想要最好的产品，你必须从原型阶段就已经开始预测真...
- ## [线下课程丨终于晋升为运营总监了，我反而更加苦恼了](http://www.woshipm.com/active/1042879.html)
- > 近几年产品同质化严重，层出不穷的运营玩法给产品带来了活力。运营的重要性也逐步被认同。诚然做运营门槛不高，拥有学习力的人似乎都可以加入运营团队。所以我们发现...
- ## [2018互联网女皇报告：中国正在成为全球互联网的中心](http://www.woshipm.com/it/1044457.html)
- > 北京时间5月31日凌晨，有“互联网女皇”之称的玛丽米克尔发布了2018年的互联网趋势报告，这也是她第23年公布互联网报告。以下为报告主要亮点：2017年是智能手机出货量...
- ## [抖音凭什么让你沉迷？](http://www.woshipm.com/pd/1043006.html)
- > 本文将来深究一下抖音让你如此沉迷的原因，主要是从产品定位、产品设计和产品运营三个方面展开分析，enjoy~过去的半年内，抖音短视频做到了日新增用户数均97.79万。在...
  ## [王菊为什么这么红？](http://www.pmtoo.com/article/46990.html)
  > 开场提醒：大家这几天最好不要发朋友圈，不要捞漂流瓶，不然很可能会被「陶渊明」拉去给王菊投票。虽然有些夸张，但只要...
  ## [投资“差评”后，腾讯差评不断](http://www.pmtoo.com/article/46984.html)
