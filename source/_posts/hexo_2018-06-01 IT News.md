@@ -1,7 +1,7 @@
 ---
 title: 2018-06-01 IT News
 copyright: true
-date: 2018-06-01 10:37:36
+date: 2018-06-01 10:38:47
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -146,12 +146,12 @@ AI&20844;&21496;&8220;&21830;&27748;&31185;&25216;&8221;&23436;&25104;6.2&20159;
  > 华为和合作伙伴们正在激发出每座城市喷薄欲出的活力和潜能，不论是云计算、企业园区、物联网等领域的创新，
  ## [CSDN日报180531——《我的自控力心得》](http://blog.csdn.net/blogdevteam/article/details/80529032)
  > CSDN日报180531——《我的自控力心得》
- ## [惊呆！编程就像写文档！开发神似搭积木！](http://blog.csdn.net/sunhf_csdn/article/details/80533597)
- > 惊呆！编程就像写文档！开发神似搭积木！
  ## [基于Crypto++密码库的ECIES和ECDSA算法的联合使用](http://blog.csdn.net/GuoXuan_CHN/article/details/80532258)
  > 基于Crypto++密码库的ECIES和ECDSA算法的联合使用
- ## [CNN破解简单验证码(Tensorflow实现)](http://blog.csdn.net/cskywit/article/details/79230658)
- > CNN破解简单验证码(Tensorflow实现)
+ ## [基于改进的K-means算法在共享交通行业客户细分中的应用](http://blog.csdn.net/u010665216/article/details/78165340)
+ > 基于改进的K-means算法在共享交通行业客户细分中的应用
+ ## [30岁看中年危机](http://blog.csdn.net/bit_kaki/article/details/80157308)
+ > 30岁看中年危机
  ## [辟谣！男程序员都是秃头，女程序员满脸痘痘](http://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/80288562)
  > 辟谣！男程序员都是秃头，女程序员满脸痘痘
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
