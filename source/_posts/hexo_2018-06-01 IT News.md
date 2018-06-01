@@ -1,7 +1,7 @@
 ---
 title: 2018-06-01 IT News
 copyright: true
-date: 2018-06-01 11:33:21
+date: 2018-06-01 12:56:23
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -53,7 +53,8 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
                         
 </details>
 
-<p>&nbsp;</p># IT 新闻 
+<p>&nbsp;</p>
+# IT 新闻 
  ## [MySQL-性能优化-索引和查询优化](https://my.oschina.net/qrmc/blog/1822373)
  > MySQL-性能优化-索引和查询优化 要知道为什么使用索引，要知道如何去使用好索引，使自己的查询达到最优性能，需要先了解索引的数据结构和磁盘的存取原理 参考博客：MySQL索引背后的数据结构及算法原理 如上这篇博客写的挺好，我就不再造轮子了，对如上博客，我总结如下几个重要的要点： 1. 不使用顺序查
  ## [实现小程序与HTML5应用互转框架之TouchUI-WX推荐](https://my.oschina.net/lemonfive/blog/1822305)
@@ -126,6 +127,10 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  > 美国军队正在利用物联网技术改变战争方式
  ## [2018年五月产业大事记：GDPR启动，13家安全厂商及合作伙伴拿出应对方案](http://news.51cto.com/art/201805/575127.htm)
  > 2018年五月产业大事记：GDPR启动，13家安全厂商及合作伙伴拿出应对方案
+ ## [软件开发中的10大不为人知的真相](http://developer.51cto.com/art/201806/575173.htm)
+ > 对于相关的计算机和代码知识，通常来说程序员比一般人要了解得多，下面我将为大家揭晓一些业内人士不会诉诸
+ ## [如何根据需要选择更适合你的Linux发行版?](http://server.51cto.com/Net-575172.htm)
+ > 很多人经常会问我这样一个问题：“嘿，你是用Linux的，对吧?我应该使用Linux的哪个版本?我有这个朋友推荐我
  ## [在Linux中如何归档文件和目录](http://os.51cto.com/art/201806/575171.htm)
  > 在我们之前的教程中，我们讨论了如何使用 gzip 和 bzip2 压缩和解压缩文件。在本教程中，我们将学习如何在
  ## [数据中心运维人的半衰期危机](http://server.51cto.com/Datacenter-575170.htm)
@@ -142,22 +147,18 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  > Linux内核中设置了一组用于实现各种系统功能的子程序，称为系统调用。用户可以通过系统调用命令在自己的应
  ## [区块链 | 详解以太坊的工作原理](http://blockchain.51cto.com/art/201806/575162.htm)
  > 不管你们知不知道以太坊Ethereum blockchain是什么，但是你们大概都听说过以太坊。最近在新闻里出现过很多
- ## [免费福利浑不知？一键开启Windows 10“超级性能模式”](http://os.51cto.com/art/201806/575157.htm)
- > 随着Win10四月版更新尘埃落定，微软已经逐步将重心放到全新的Win10 RS5上。除了SETS标签、云剪切板、暗黑版
- ## [这20个好用的 Unix/Linux 命令技巧 送给你](http://os.51cto.com/art/201806/575158.htm)
- > 我在生产服务器上有一个很大的200GB的日志文件需要删除。我的rm和ls命令已经崩溃，我担心这是由于巨大的磁
  ## [CSDN日报180531——《我的自控力心得》](http://blog.csdn.net/blogdevteam/article/details/80529032)
  > CSDN日报180531——《我的自控力心得》
- ## [Windows Community Toolkit 3.0 新功能 在WinForms 和 WPF 使用 UWP 控件](http://blog.csdn.net/lindexi_gd/article/details/80533053)
- > Windows Community Toolkit 3.0 新功能 在WinForms 和 WPF 使用 UWP 控件
- ## [基于Crypto++密码库的ECIES和ECDSA算法的联合使用](http://blog.csdn.net/GuoXuan_CHN/article/details/80532258)
- > 基于Crypto++密码库的ECIES和ECDSA算法的联合使用
  ## [继承和接口实现中的异常处理——异常去哪儿了？](http://blog.csdn.net/laomadawei/article/details/80531942)
  > 继承和接口实现中的异常处理——异常去哪儿了？
- ## [辟谣！男程序员都是秃头，女程序员满脸痘痘](http://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/80288562)
- > 辟谣！男程序员都是秃头，女程序员满脸痘痘
+ ## [关于TCP同时打开-无需Listener的TCP连接建立过程](http://blog.csdn.net/dog250/article/details/80518481)
+ > 关于TCP同时打开-无需Listener的TCP连接建立过程
+ ## [Windows Community Toolkit 3.0 新功能 在WinForms 和 WPF 使用 UWP 控件](http://blog.csdn.net/lindexi_gd/article/details/80533053)
+ > Windows Community Toolkit 3.0 新功能 在WinForms 和 WPF 使用 UWP 控件
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
  > 怎样和程序猿谈一场不散场的爱情
+ ## [辟谣！男程序员都是秃头，女程序员满脸痘痘](http://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/80288562)
+ > 辟谣！男程序员都是秃头，女程序员满脸痘痘
  ## [200 行 Python 代码做个换脸程序（附源码）](http://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80345346)
  > 200 行 Python 代码做个换脸程序（附源码）
  ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80288527)
@@ -166,26 +167,28 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  > 雷军的留名，不是以程序员身份
  ## [用文本挖掘剖析近5万首《全唐诗》，发现了这些有趣的秘密](http://blog.csdn.net/UFv59to8/article/details/80345348)
  > 用文本挖掘剖析近5万首《全唐诗》，发现了这些有趣的秘密
- ## [趣图：好虐，程序员和测试之间的关系](http://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80288568)
- > 趣图：好虐，程序员和测试之间的关系
+ ## [美国程序员vs中国程序员](http://blog.csdn.net/qq_42203289/article/details/80506934)
+ > 美国程序员vs中国程序员
  ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](http://blog.csdn.net/ityouknow/article/details/80490925)
  > 一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)
- ## [Linux运维常用命令----持续更新](http://blog.csdn.net/Beyond_F4/article/details/80506134)
- > Linux运维常用命令----持续更新
+ ## [刚入坑的程序员，我该告诉你点什么？（高龄程序员的大实话）](http://blog.csdn.net/qq_40433465/article/details/80403147)
+ > 刚入坑的程序员，我该告诉你点什么？（高龄程序员的大实话）
  ## [一场皆大欢喜的程序员跳槽事件](http://blog.csdn.net/GitChat/article/details/80416257)
  > 一场皆大欢喜的程序员跳槽事件
- ## [一句“在吗？”逼死人](http://blog.csdn.net/ityouknow/article/details/80337608)
- > 一句“在吗？”逼死人
+ ## [Java 危矣！统治地位已不复存在？](http://blog.csdn.net/OQjya206rsQ71/article/details/80331676)
+ > Java 危矣！统治地位已不复存在？
  ## [Git曝最危险漏洞，允许攻击者远程执行代码！](https://blog.csdn.net/csdnnews/article/details/80535472)
  > 一场由Git引发的漏洞危机，影响到的将是社区上的全体开发者。5月29日，微软Visual Studio Team Services项目经理Edward Thomson在DevOps博客中提到，Git社区最近发现Git存在的漏洞，允许黑客在用户的系统上远程执行任意代码。目前，Git和...
  ## [PHP、Java 还是 Python？谁是微信公众号开发的首选语言](https://blog.csdn.net/csdnnews/article/details/80532740)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！现在...
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！现在很...
  ## [阿里腾讯百度们已经占据了全球互联网半壁江山！](https://blog.csdn.net/csdnnews/article/details/80532284)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！智能...
  ## [高德地图联手中国气象局，积水地图 AI 版实时预测道路积水](https://blog.csdn.net/csdnnews/article/details/80527502)
  > 5月31日消息，高德地图今日宣布与中国气象局公共气象服务中心达成战略合作，双方将在气象预警、大数据共享等诸多方面展开深度合作。在接入了中国气象局权威和精细化的气象数据之后，高德地图可为用户提供基于位置和出行全周期的智慧气象服务。在全国主汛期来临之前，双方还合作推出了积水地图AI版，借助大数据、...
  ## [争议周鸿祎：360 绝没有恶意做空 EOS！](https://blog.csdn.net/csdnnews/article/details/80523244)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！版权声...
+ ## [增资加转股合计近20亿元，蚂蚁金服在哈罗单车持股比例超36%](http://www.lanjingtmt.com/news/detail/35433.shtml)
+ > 其中蚂蚁金服全资子公司上海云鑫将对低碳科技增资人民币18.93亿元。
  ## [小红书完成3亿美元财务融资 估值超30亿美元](http://www.lanjingtmt.com/news/detail/35430.shtml)
  > 此轮募集的资金将主要用于扩大和升级团队，继续加大在产品技术方面的投入。
  ## [儿童眼中的互联网世界：潘多拉与巧克力并存](http://www.lanjingtmt.com/news/detail/35429.shtml)
@@ -236,6 +239,12 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  ## [\[Python人工智能\] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
  > 从本篇文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前两篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络，这篇文章主要讲解机...
 # PM 
+ ## [促销的真相：用户焦虑了，转化率就上去了](http://www.woshipm.com/marketing/1045749.html)
+ > 促销的真相是：用户焦虑了，转化率就上去了！不断出现的催促，不断积累的焦虑，不断上升的转化率。那么如何才能设计出焦虑感？本文作者教你10种方法。先思考一个问题...
+ ## [从交互角度分析：为什么我沉迷抖音，却不想刷微视？](http://www.woshipm.com/ucd/1045917.html)
+ > 本文作者仅从交互角度来看下抖音和微视的不同，一起来看看~最近已经是个抖友了！每天抖音中毒停不下来。因为微视是腾讯力推的产品，出于好奇也下载了。作为交互设计...
+ ## [设计师的必备技能：项目同步管理法](http://www.woshipm.com/zhichang/1045891.html)
+ > 本文作者将就个人的工作经验，和大家分享作为设计师，同步项目信息的方法和原则。enjoy~最近在工作中发现，身边的设计师喜欢埋头干活，项目的信息同步做得比较少。大...
  ## [筛选功能设计总结](http://www.woshipm.com/pd/1045627.html)
  > 从用户的操作流程上来说，如果用户想使用一个功能，必然首先要发现它。如果连功能入口都找不到，后续的用户体验也无从谈起。而筛选功能可以帮助用户对功能信息进行快速...
  ## [可用性研究中要测试多少个用户？](http://www.woshipm.com/user-research/1045153.html)
@@ -250,12 +259,6 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  > 旅游场景下应用人工智能有美好的前景，同时也有很多问题亟待解决。语音交互被视为人工智能时代的重要入口，而家庭又是一个噪音较少、网络稳定、需求明确而有限的场景...
  ## [如何应用设计冲刺，完成一次官网以及品牌的升级？](http://www.woshipm.com/pd/1042182.html)
  > 如何将书中的理论应用到实际的项目中，经常困扰产品经理。通常来说，我们经常读书的时候，感觉深刻收益，但是应用到实际的案例中，往往无从下手。今天就来讲一讲，如何...
- ## [集call免费学｜零经验/跨行如何快速入行互联网运营？](http://www.woshipm.com/active/1044917.html)
- > 从过去的编辑、推广到现在的新媒体编辑、活动运营、内容运营、全栈运营，互联网运营的准入门槛越来越低，也成了很多同学入行互联网的第一选择。想进入互联网运营岗的同...
- ## [移动交互设计：提示语总结](http://www.woshipm.com/ucd/1044862.html)
- > 交互设计工作中，难免会遇到提示语如何编写的问题，根据实际操作经验归纳总结如下，提供大家参考。一、提示语规范各类提示语可根据实际情况进行适当调整，在实际产品...
- ## [有哪些看过后觉得非常好的广告（下）](http://www.woshipm.com/marketing/1044994.html)
- > 在本系列上、中两篇，我们分别探讨了“小我”和“大我”型的广告，今天要和大家探讨并分享“无我型”的广告案例。什么是“无我型”的广告呢？不同于通过功能认知建立市场的...
  ## [1小时卖500箱猫罐头，还和迪奥摩拜合作，猫来了是如何做到月流水40万的？](http://www.pmtoo.com/article/47095.html)
  > 据测算，国内养宠物猫人群已经达到5000万。“吸”猫风潮更是在年轻人群中流行，几乎每个人的朋友圈中都至少有一个晒猫狂人，“吸...
  ## [从游戏狂欢到全民尬舞，看《堡垒之夜》如何颠覆和超越自我](http://www.pmtoo.com/article/47082.html)
