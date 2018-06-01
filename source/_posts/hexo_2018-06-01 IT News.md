@@ -1,7 +1,7 @@
 ---
 title: 2018-06-01 IT News
 copyright: true
-date: 2018-06-01 10:36:44
+date: 2018-06-01 10:37:36
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,8 +74,6 @@ AI&20844;&21496;&8220;&21830;&27748;&31185;&25216;&8221;&23436;&25104;6.2&20159;
  > SpringCloudFinchley.RC2 Feign 的变化，与问题解决。
  ## [从linux源码看socket的close](https://my.oschina.net/alchemystar/blog/1821680)
  >  从linux源码看socket的close 笔者一直觉得如果能知道从应用到框架再到操作系统的每一处代码，是一件Exciting的事情。上篇博客讲了socket的阻塞和非阻塞，这篇就开始谈一谈socket的close(以tcp为例且基于linux-2.6.24内核版本)  TCP关闭状态转移图
- ## [根据 JWT 的 key 和 URL 决定是否缓存 HTTP 请求](https://my.oschina.net/u/3720037/blog/1821676)
- > 链接 https://stackoverflow.com/questions/50605544/caching-api-requests-with-jwt-auth/50615736  需求 根据JWT的key和URL决定是否缓存HTTP请求 比如JWT里 ``` payload: { &quot;iss
  ## [t-io 3.0.1 发布：换了三个类名，请务必关注修改日志](https://www.oschina.net/news/96662/t-io-3-0-1-released)
  > 概述： 本次修改点很少也很多，少是因为几乎没有功能方面的改动，多是因为几个很重要的类换新名字了。换名字的原因是因为在沟通过程中经常出现误解，所以还请大家花上几分钟升级一下。 修改点： 1、org.tio.core.Aio --&gt; org.tio.core.Tio 2、org.tio.server.A
  ## [RT-Thread 3.0.4 发布，国产 IoT 操作系统](https://www.oschina.net/news/96661/rt-thread-3-0-4-released)
@@ -146,6 +144,36 @@ AI&20844;&21496;&8220;&21830;&27748;&31185;&25216;&8221;&23436;&25104;6.2&20159;
  > 我在生产服务器上有一个很大的200GB的日志文件需要删除。我的rm和ls命令已经崩溃，我担心这是由于巨大的磁
  ## [最美的生态在路上，华为中国ICT生态之行2018展现“行走的力量”](http://network.51cto.com/art/201806/575154.htm)
  > 华为和合作伙伴们正在激发出每座城市喷薄欲出的活力和潜能，不论是云计算、企业园区、物联网等领域的创新，
+ ## [CSDN日报180531——《我的自控力心得》](http://blog.csdn.net/blogdevteam/article/details/80529032)
+ > CSDN日报180531——《我的自控力心得》
+ ## [惊呆！编程就像写文档！开发神似搭积木！](http://blog.csdn.net/sunhf_csdn/article/details/80533597)
+ > 惊呆！编程就像写文档！开发神似搭积木！
+ ## [基于Crypto++密码库的ECIES和ECDSA算法的联合使用](http://blog.csdn.net/GuoXuan_CHN/article/details/80532258)
+ > 基于Crypto++密码库的ECIES和ECDSA算法的联合使用
+ ## [CNN破解简单验证码(Tensorflow实现)](http://blog.csdn.net/cskywit/article/details/79230658)
+ > CNN破解简单验证码(Tensorflow实现)
+ ## [辟谣！男程序员都是秃头，女程序员满脸痘痘](http://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/80288562)
+ > 辟谣！男程序员都是秃头，女程序员满脸痘痘
+ ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
+ > 怎样和程序猿谈一场不散场的爱情
+ ## [200 行 Python 代码做个换脸程序（附源码）](http://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80345346)
+ > 200 行 Python 代码做个换脸程序（附源码）
+ ## [程序猿秃顶算工伤吗？](http://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80288527)
+ > 程序猿秃顶算工伤吗？
+ ## [雷军的留名，不是以程序员身份](http://blog.csdn.net/iodjSVf8U1J7KYc/article/details/80345364)
+ > 雷军的留名，不是以程序员身份
+ ## [用文本挖掘剖析近5万首《全唐诗》，发现了这些有趣的秘密](http://blog.csdn.net/UFv59to8/article/details/80345348)
+ > 用文本挖掘剖析近5万首《全唐诗》，发现了这些有趣的秘密
+ ## [趣图：好虐，程序员和测试之间的关系](http://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80288568)
+ > 趣图：好虐，程序员和测试之间的关系
+ ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](http://blog.csdn.net/ityouknow/article/details/80490925)
+ > 一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)
+ ## [Linux运维常用命令----持续更新](http://blog.csdn.net/Beyond_F4/article/details/80506134)
+ > Linux运维常用命令----持续更新
+ ## [一场皆大欢喜的程序员跳槽事件](http://blog.csdn.net/GitChat/article/details/80416257)
+ > 一场皆大欢喜的程序员跳槽事件
+ ## [一句“在吗？”逼死人](http://blog.csdn.net/ityouknow/article/details/80337608)
+ > 一句“在吗？”逼死人
  ## [PHP、Java 还是 Python？谁是微信公众号开发的首选语言](https://blog.csdn.net/csdnnews/article/details/80532740)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！现在...
  ## [阿里腾讯百度们已经占据了全球互联网半壁江山！](https://blog.csdn.net/csdnnews/article/details/80532284)
