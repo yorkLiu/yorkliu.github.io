@@ -1,7 +1,7 @@
 ---
 title: 2018-06-01 IT News
 copyright: true
-date: 2018-06-01 11:23:48
+date: 2018-06-01 11:32:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -53,7 +53,7 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
                         
 </details>
 
-# IT 新闻 
+<p>&nbsp;</p># IT 新闻 
  ## [MySQL-性能优化-索引和查询优化](https://my.oschina.net/qrmc/blog/1822373)
  > MySQL-性能优化-索引和查询优化 要知道为什么使用索引，要知道如何去使用好索引，使自己的查询达到最优性能，需要先了解索引的数据结构和磁盘的存取原理 参考博客：MySQL索引背后的数据结构及算法原理 如上这篇博客写的挺好，我就不再造轮子了，对如上博客，我总结如下几个重要的要点： 1. 不使用顺序查
  ## [实现小程序与HTML5应用互转框架之TouchUI-WX推荐](https://my.oschina.net/lemonfive/blog/1822305)
@@ -152,8 +152,8 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  > Windows Community Toolkit 3.0 新功能 在WinForms 和 WPF 使用 UWP 控件
  ## [基于Crypto++密码库的ECIES和ECDSA算法的联合使用](http://blog.csdn.net/GuoXuan_CHN/article/details/80532258)
  > 基于Crypto++密码库的ECIES和ECDSA算法的联合使用
- ## [VMware李映：助力企业打造真正下一代数字化平台](http://blog.csdn.net/yssycz/article/details/80534411)
- > VMware李映：助力企业打造真正下一代数字化平台
+ ## [继承和接口实现中的异常处理——异常去哪儿了？](http://blog.csdn.net/laomadawei/article/details/80531942)
+ > 继承和接口实现中的异常处理——异常去哪儿了？
  ## [辟谣！男程序员都是秃头，女程序员满脸痘痘](http://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/80288562)
  > 辟谣！男程序员都是秃头，女程序员满脸痘痘
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
@@ -176,6 +176,8 @@ AI&#20844;&#21496;&#8220;&#21830;&#27748;&#31185;&#25216;&#8221;&#23436;&#25104;
  > 一场皆大欢喜的程序员跳槽事件
  ## [一句“在吗？”逼死人](http://blog.csdn.net/ityouknow/article/details/80337608)
  > 一句“在吗？”逼死人
+ ## [Git曝最危险漏洞，允许攻击者远程执行代码！](https://blog.csdn.net/csdnnews/article/details/80535472)
+ > 一场由Git引发的漏洞危机，影响到的将是社区上的全体开发者。5月29日，微软Visual Studio Team Services项目经理Edward Thomson在DevOps博客中提到，Git社区最近发现Git存在的漏洞，允许黑客在用户的系统上远程执行任意代码。目前，Git和...
  ## [PHP、Java 还是 Python？谁是微信公众号开发的首选语言](https://blog.csdn.net/csdnnews/article/details/80532740)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！现在...
  ## [阿里腾讯百度们已经占据了全球互联网半壁江山！](https://blog.csdn.net/csdnnews/article/details/80532284)
