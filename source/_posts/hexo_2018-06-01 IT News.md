@@ -1,7 +1,7 @@
 ---
 title: 2018-06-01 IT News
 copyright: true
-date: 2018-06-01 10:38:47
+date: 2018-06-01 10:39:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -72,8 +72,6 @@ AI&20844;&21496;&8220;&21830;&27748;&31185;&25216;&8221;&23436;&25104;6.2&20159;
  > 有的时候就有那么多的好事
  ## [最新SpringCloud 服务注入与发送Feign请求](https://my.oschina.net/bianxin/blog/1821684)
  > SpringCloudFinchley.RC2 Feign 的变化，与问题解决。
- ## [从linux源码看socket的close](https://my.oschina.net/alchemystar/blog/1821680)
- >  从linux源码看socket的close 笔者一直觉得如果能知道从应用到框架再到操作系统的每一处代码，是一件Exciting的事情。上篇博客讲了socket的阻塞和非阻塞，这篇就开始谈一谈socket的close(以tcp为例且基于linux-2.6.24内核版本)  TCP关闭状态转移图
  ## [t-io 3.0.1 发布：换了三个类名，请务必关注修改日志](https://www.oschina.net/news/96662/t-io-3-0-1-released)
  > 概述： 本次修改点很少也很多，少是因为几乎没有功能方面的改动，多是因为几个很重要的类换新名字了。换名字的原因是因为在沟通过程中经常出现误解，所以还请大家花上几分钟升级一下。 修改点： 1、org.tio.core.Aio --&gt; org.tio.core.Tio 2、org.tio.server.A
  ## [RT-Thread 3.0.4 发布，国产 IoT 操作系统](https://www.oschina.net/news/96661/rt-thread-3-0-4-released)
