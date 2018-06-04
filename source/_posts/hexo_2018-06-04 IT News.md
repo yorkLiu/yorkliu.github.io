@@ -1,7 +1,7 @@
 ---
 title: 2018-06-04 IT News
 copyright: true
-date: 2018-06-04 09:06:10
+date: 2018-06-04 09:37:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -60,10 +60,10 @@ categories: IT NEWS
  > Apache Qpid Broker-J 7.0.4 已发布，Apache Qpid Broker-J 是一个用 Java 编写的消息代理，它使用 AMQP 1.0, 0-10, 0-9-1, 0-9 和 0-8 存储、路由和转发消息。该版本带来了新特性和改进，还修复了 bug： 新特性 QPID-
  ## [Hunt framework 1.0.0 正式版，三年来最大更新](https://www.oschina.net/news/96719/hunt-framework-1-0-0-released)
  > Hunt framework 通过三年的不断完善，HuntLabs 所有成员很高兴的对外宣布 hunt 1.0.0 正式版，经过了 0.4.x / 0.5.x / 0.7.x / 0.9.x / 0.10.x 的一些重要分支，我们改进了很多不方便使用的地方，同时带来了更好的性能。 主要更新特性：  
- ## [外媒速递：2018年最值得关注的15项DevOps盛事](http://zhuanlan.51cto.com/art/201806/575262.htm)
- > 外媒速递：2018年最值得关注的15项DevOps盛事
  ## [在创业公司担任了4年技术总监，我总结出这些套路！](http://news.51cto.com/art/201806/575236.htm)
  > 在创业公司担任了4年技术总监，我总结出这些套路！
+ ## [外媒速递：2018年最值得关注的15项DevOps盛事](http://zhuanlan.51cto.com/art/201806/575262.htm)
+ > 外媒速递：2018年最值得关注的15项DevOps盛事
  ## [程序员，除了写好代码，你更应该看5月的这十篇热门文章！](http://news.51cto.com/art/201806/575235.htm)
  > 程序员，除了写好代码，你更应该看5月的这十篇热门文章！
  ## [TuringNet洪军：可信的人工智能服务](http://cloud.51cto.com/art/201806/575234.htm)
@@ -76,6 +76,12 @@ categories: IT NEWS
  > 所有企业要注意了，你随时可能掉进GDPR这个坑里！
  ## [15大混合云提供商提供了哪些解决方案](http://cloud.51cto.com/art/201806/575155.htm)
  > 15大混合云提供商提供了哪些解决方案
+ ## [Windows 10活跃用户超7亿：其中1.5亿人使用Cortana](http://os.51cto.com/art/201806/575271.htm)
+ > 在5月的Build 2018大会上，微软宣布Windows 10用户数接近7亿，也就是说，比1年前增加了2亿。
+ ## [海淀分局警务支援大队对快手、抖音等视频直播类网站开展网络信息安全管理培训](http://news.51cto.com/art/201806/575270.htm)
+ > 针对辖区内直播网站和视频网站数量众多等特点，为提高此类网站封堵违法有害信息的能力，近日，海淀分局警务
+ ## [你可以用Linux中的IP工具做3件有用的事情](http://os.51cto.com/art/201806/575269.htm)
+ > ifconfig 命令在 Linux 上被弃用已有十多年的时间了，而 iproute2 项目包含了神奇的工具 ip。许多在线教程
  ## [原来磁盘分区是这么回事，这回就都懂了](http://stor.51cto.com/art/201806/575268.htm)
  > 装过系统的人都知道必须要分区后才能安装系统，形象点的说比如windows里C:、D:之类的东西；如果你要问硬盘
  ## [运营商眼里的物联网：从0到30万，然后遥望星辰大海](http://iot.51cto.com/art/201806/575267.htm)
@@ -131,8 +137,6 @@ categories: IT NEWS
  > （转载）在机器学习领域,怎样写好一篇学术论文
  ## [（转载）如何写论文之标题篇](http://blog.csdn.net/weixin_40514680/article/details/80555238)
  > （转载）如何写论文之标题篇
- ## [步进电机多轴联动算法](http://blog.csdn.net/Renjiankun/article/details/80555251)
- > 步进电机多轴联动算法
  ## [基于Graph Embedding的打包购商品挖掘系统解析](http://blog.csdn.net/u013550000/article/details/80555312)
  > 基于Graph Embedding的打包购商品挖掘系统解析
  ## [机器学习实战----k值近邻算法（Python语言）](http://blog.csdn.net/xuyunyunaixuexi/article/details/80555320)
@@ -155,6 +159,8 @@ categories: IT NEWS
  > 【人脸检测】第十四篇 Haar特征检测原理与Haar特征分类器
  ## [tensorflow-综合学习系列实例之循环网络](http://blog.csdn.net/qq_18603599/article/details/80555551)
  > tensorflow-综合学习系列实例之循环网络
+ ## [初学机器学习：直观解读KL散度的数学概念](http://blog.csdn.net/u011808673/article/details/80555553)
+ > 初学机器学习：直观解读KL散度的数学概念
  ## [\[Python人工智能\] 五.theano实现神经网络正规化Regularization处理](http://blog.csdn.net/eastmount/article/details/80536725)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前三篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
  ## [\[Python人工智能\] 四.神经网络和深度学习入门知识](http://blog.csdn.net/eastmount/article/details/80499259)
