@@ -1,7 +1,7 @@
 ---
 title: 2018-06-04 IT News
 copyright: true
-date: 2018-06-04 09:39:23
+date: 2018-06-04 09:40:23
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -152,8 +152,8 @@ categories: IT NEWS
  > 不用叫方文山！AI 能拯救杰伦的土味歌词
  ## [怎样和程序猿谈一场不散场的爱情](http://blog.csdn.net/UFv59to8/article/details/80288551)
  > 怎样和程序猿谈一场不散场的爱情
- ## [【重磅】英特尔AI大会：新AI芯片和这家巨头的AI路线图](http://blog.csdn.net/McIl9G4065Q/article/details/80428910)
- > 【重磅】英特尔AI大会：新AI芯片和这家巨头的AI路线图
+ ## [Python书还有这些值得读](http://blog.csdn.net/zV3e189oS5c0tSknrBCL/article/details/80429111)
+ > Python书还有这些值得读
  ## [在IT技术圈混，怎么能不知道这几个公众号？](http://blog.csdn.net/bjweimengshu/article/details/80416672)
  > 在IT技术圈混，怎么能不知道这几个公众号？
  ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](http://blog.csdn.net/ityouknow/article/details/80490925)
