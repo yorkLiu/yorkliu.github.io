@@ -1,7 +1,7 @@
 ---
 title: 2018-06-05 IT News
 copyright: true
-date: 2018-06-05 10:19:26
+date: 2018-06-05 10:21:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -106,6 +106,22 @@ IP&#21160;&#28459;&#21046;&#20316;&#20844;&#21496;&#8220;&#21335;&#36784;&#21271
  > 北京时间 6 月 5 日凌晨，一年一度的苹果 WWDC 开发者大会在美国圣何塞召开。本次大会一切都是关于软件的，大会上，苹果正式推出了新版 iPhone 操作系统 iOS 12，并宣布了新版 macOS 桌面系统，代号&quot;Mojave&quot;，版本号应该是 macOS 10.14，但发布会上没有明说。 iO
  ## [Infinispan 9.3.0.CR1 发布，同时兼容 Java 8 和 Java 10](https://www.oschina.net/news/96754/infinispan-9-3-0-cr1-released)
  > Infinispan 9.3.0.CR1 现已发布，这也是首个可同时使用 Java 8 和 Java 10 的版本，也可使用 Java 11 的预发行版。值得注意的是，Infinispan 仍然只能在类路径模式下工作。 值得关注的更新： Expanded transaction support in
+ ## [【经验帖】为什么分布式一定要有Redis?](http://os.51cto.com/art/201806/575389.htm)
+ > 【经验帖】为什么分布式一定要有Redis?
+ ## [你是‘85前’工程师吗？请小心这3种心态](http://news.51cto.com/art/201806/575346.htm)
+ > 你是‘85前’工程师吗？请小心这3种心态
+ ## [11种最佳编程字体中的那款适合你？](http://developer.51cto.com/art/201806/575289.htm)
+ > 11种最佳编程字体中的那款适合你？
+ ## [苹果 WWDC 2018：最全总结看这里，不错过任何重点](http://news.51cto.com/art/201806/575388.htm)
+ > 苹果 WWDC 2018：最全总结看这里，不错过任何重点
+ ## [外媒速递：九项关键DevOps KPI成就理想数据库优化效果](http://zhuanlan.51cto.com/art/201806/575380.htm)
+ > 外媒速递：九项关键DevOps KPI成就理想数据库优化效果
+ ## [刚刚，微软75亿美元“喜提”10岁的全球最大同性交友网站！](http://news.51cto.com/art/201806/575394.htm)
+ > 刚刚，微软75亿美元“喜提”10岁的全球最大同性交友网站！
+ ## [微博应对日访问量百亿级的缓存架构设计](http://developer.51cto.com/art/201806/575391.htm)
+ > 微博应对日访问量百亿级的缓存架构设计
+ ## [挨踢部落故事汇(39)一个工程师首次使用工作流(workflow)的点滴](http://news.51cto.com/art/201806/575368.htm)
+ > 挨踢部落故事汇(39)一个工程师首次使用工作流(workflow)的点滴
  ## [微软+ GitHub VS 谷歌+ GitLab ，用户争夺战已打响](http://news.51cto.com/art/201806/575392.htm)
  > 在各大媒体纷纷报道 GitHub 被微软收购的消息时，GitLab 也没有闲着。GitLab 除了高调发文祝贺之外，还直
  ## [微软宣布以75亿美元收购GitHub 后者将保持独立开放](http://news.51cto.com/art/201806/575390.htm)
@@ -152,6 +168,14 @@ IP&#21160;&#28459;&#21046;&#20316;&#20844;&#21496;&#8220;&#21335;&#36784;&#21271
  > 在IT技术圈混，怎么能不知道这几个公众号？
  ## [一句“在吗？”逼死人](https://blog.csdn.net/ityouknow/article/details/80337608)
  > 一句“在吗？”逼死人
+ ## [赛事招募 | 互联网创客马拉松开show啦~比武招APP](https://blog.csdn.net/csdnnews/article/details/80575424)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！战火...
+ ## [全民讨伐 Google AI “作恶”项目](https://blog.csdn.net/csdnnews/article/details/80575423)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！内部...
+ ## [为什么程序员纷纷反对微软收购GitHub？](https://blog.csdn.net/csdnnews/article/details/80570518)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！在听...
+ ## [微软或将全资收购 GitHub，价格达 50 亿美元或更高](https://blog.csdn.net/csdnnews/article/details/80564709)
+ > 长期以来就有传言表示，微软有意收购流行的代码托管平台 GitHub。现在关于这个传言又有了新的实质性进展 ——最新消息，据外媒 Business Insider 报道，微软在过去几周曾举行会谈，讨论收购代码托管平台 GitHub 的事宜。一位了解两家公司之间讨论的人士告诉 CNBC，他...
  ## [独家|快手确认全资收购A站 将保持原有团队独立运营](http://www.lanjingtmt.com/news/detail/35501.shtml)
  > 快手官方向蓝鲸TMT独家确认这一收购消息属实，并表示，收购完成后A站保留原有团队进行独立运营。
  ## [APP注销：快手抖音最难 废弃手机号或被盗取信息](http://www.lanjingtmt.com/news/detail/35498.shtml)
