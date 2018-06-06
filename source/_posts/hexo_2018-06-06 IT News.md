@@ -1,21 +1,11 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:17:25
+date: 2018-06-06 09:18:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Kafka 入门和 Spring Boot 集成](https://my.oschina.net/u/258745/blog/1824848)
- >  Kafka 入门和 Spring Boot 集成  概述 kafka 是一个高性能的消息队列，也是一个分布式流处理平台（这里的流指的是数据流）。由java 和 Scala 语言编写，最早由 LinkedIn 开发，并 2011年开源，现在由 Apache 开发维护。  应用场景 下面列举了一
- ## [python日志轮转RotatingFileHandler在django中的一个bug](https://my.oschina.net/watcher/blog/1824673)
- > django使用RotatingFileHandler出现的OSError或者WindowsError
- ## [EMQ百万级MQTT消息服务(TLS压测和流量消耗)](https://my.oschina.net/wenzhenxi/blog/1824647)
- > EMQ百万级MQTT消息服务(TLS压测和流量消耗)
- ## [浅谈csrf攻击以及yii2对其的防范措施](https://my.oschina.net/abei2017/blog/1824462)
- > &gt; 凡是我yii2学习社群的成员都知道，我不止一次给大家说构造表单100%使用yii2的ActiveForm来实现，这除了能和AR更好结合外就是自动生成csrf隐藏域，一个非常安全的举措。 今天北哥就给大家普及下csrf是啥？如果你已经知道了可以直接拉文章到底部点个赞。:smile: **CSRF*
- ## [开发基于以太坊智能合约的DApp](https://my.oschina.net/u/2275217/blog/1824367)
- > 最近要找个H5的前端写个简单的DApp，聊过几个H5的工程师，都被跟以太坊交互的部分吓住了。虽然网上有N多的教程，但是对于H5工程师来说，还是有些困难。分析其原因，在于不了解ganache-cli（原来叫testrpc）/web3/以太坊节点/metamask之间的架构关系。 梳理一下架构关系： w
  ## [6 月南京源创会，解读如何实现一个任务型对话机器人](https://www.oschina.net/event/2279616?origin=zhzx)
  > 6 月 23 日南京源创会火热报名中，技术专家将为你介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便的创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [每日一博 | 浅谈 csrf 攻击以及 yii2 对其的防范措施](https://my.oschina.net/abei2017/blog/1824462)
