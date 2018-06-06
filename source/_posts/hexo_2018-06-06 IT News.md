@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:55:50
+date: 2018-06-06 09:56:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -190,8 +190,6 @@ AI&#20010;&#24615;&#21270;&#20445;&#25252;&#35270;&#21147;&#30740;&#21457;&#2183
  > 机器学习/深度学习入门：搭建神经网络流程
  ## [机器学习经典论文](https://blog.csdn.net/penny_cheng04/article/details/80581847)
  > 机器学习经典论文
- ## [《DP学习系列》从零开始学习动态规划，多重背包（三）](https://blog.csdn.net/LoveStackover/article/details/80581907)
- > 《DP学习系列》从零开始学习动态规划，多重背包（三）
  ## [7-感知机-二分类-分类-监督学习-机器学习](https://blog.csdn.net/yeziand01/article/details/80581912)
  > 7-感知机-二分类-分类-监督学习-机器学习
  ## [图像特征提取](https://blog.csdn.net/m0_37692953/article/details/80581923)
@@ -210,6 +208,8 @@ AI&#20010;&#24615;&#21270;&#20445;&#25252;&#35270;&#21147;&#30740;&#21457;&#2183
  > 躺在库里的时空大数据，我该拿你怎么办？(一)
  ## [高级编程作业 scipy](https://blog.csdn.net/RiddleXyz/article/details/80582103)
  > 高级编程作业 scipy
+ ## [\[2G显卡\]使用darknet/YOLO训练自己的数据](https://blog.csdn.net/weixin_39449466/article/details/80582197)
+ > \[2G显卡\]使用darknet/YOLO训练自己的数据
  ## [\[Python人工智能\] 五.theano实现神经网络正规化Regularization处理](http://blog.csdn.net/eastmount/article/details/80536725)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前三篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
