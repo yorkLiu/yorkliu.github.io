@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:14:49
+date: 2018-06-06 09:15:36
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -16,8 +16,6 @@ categories: IT NEWS
  > &gt; 凡是我yii2学习社群的成员都知道，我不止一次给大家说构造表单100%使用yii2的ActiveForm来实现，这除了能和AR更好结合外就是自动生成csrf隐藏域，一个非常安全的举措。 今天北哥就给大家普及下csrf是啥？如果你已经知道了可以直接拉文章到底部点个赞。:smile: **CSRF*
  ## [开发基于以太坊智能合约的DApp](https://my.oschina.net/u/2275217/blog/1824367)
  > 最近要找个H5的前端写个简单的DApp，聊过几个H5的工程师，都被跟以太坊交互的部分吓住了。虽然网上有N多的教程，但是对于H5工程师来说，还是有些困难。分析其原因，在于不了解ganache-cli（原来叫testrpc）/web3/以太坊节点/metamask之间的架构关系。 梳理一下架构关系： w
- ## [Spring AOP切点表达式详解](https://my.oschina.net/zhangxufeng/blog/1824275)
- >  1. 简介        面向对象编程，也称为OOP（即Object Oriented Programming）最大的优点在于能够将业务模块进行封装，从而达到功能复用的目的。通过面向对象编程，不同的模板可以相互组装，从而实现更为复杂的业务模块，其结构形式可用下图表示： !\[业务模块\](htt
  ## [6 月南京源创会，解读如何实现一个任务型对话机器人](https://www.oschina.net/event/2279616?origin=zhzx)
  > 6 月 23 日南京源创会火热报名中，技术专家将为你介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便的创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [每日一博 | 浅谈 csrf 攻击以及 yii2 对其的防范措施](https://my.oschina.net/abei2017/blog/1824462)
