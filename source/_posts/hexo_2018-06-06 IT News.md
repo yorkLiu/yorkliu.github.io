@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:12:29
+date: 2018-06-06 09:13:42
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -126,12 +126,6 @@ categories: IT NEWS
  > 二维码登录（二）生成二维码
  ## [最近做大数据面试官的感想](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
  > 最近做大数据面试官的感想
- ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
- ## [苹果，你拿什么勇气来跟 Android 比？](https://blog.csdn.net/csdnnews/article/details/80589224)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
- ## [如果 GitHub 被中国互联网巨头收购会怎样？](https://blog.csdn.net/csdnnews/article/details/80576957)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
  ## [快手接盘A站：IPO前夜布局二次元，商业化短板犹存](http://www.lanjingtmt.com/news/detail/35537.shtml)
  > 很难说作为首次对外收购，快手能否为A站厘清多年累积的痼疾，定下清晰可行的长期战略方向，并如它所承诺，不打扰A站原有的社区氛围。
 # 人工智能 
