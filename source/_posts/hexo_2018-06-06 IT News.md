@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:20:10
+date: 2018-06-06 09:21:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -60,6 +60,8 @@ categories: IT NEWS
  > 让应用程序准备好无服务器平台的三个方法
  ## [外媒速递：十款DevOps自动化工具助你笑傲2018](http://zhuanlan.51cto.com/art/201806/575480.htm)
  > 外媒速递：十款DevOps自动化工具助你笑傲2018
+ ## [对区块链技术和智能合约安全的六种误读](http://netsecurity.51cto.com/art/201806/575477.htm)
+ > 对区块链技术和智能合约安全的六种误读
  ## [当我们在讨论金融CTO能不能做银行行长的时候，我们到底是在讨论什么？](http://zhuanlan.51cto.com/art/201806/575472.htm)
  > 当我们在讨论金融CTO能不能做银行行长的时候，我们到底是在讨论什么？
  ## [您好，语音识别了解一下！](http://ai.51cto.com/art/201806/575470.htm)
@@ -70,8 +72,8 @@ categories: IT NEWS
  > 刚刚，微软75亿美元“喜提”10岁的全球最大同性交友网站！
  ## [【经验帖】为什么分布式一定要有Redis?](http://os.51cto.com/art/201806/575389.htm)
  > 【经验帖】为什么分布式一定要有Redis?
- ## [11种最佳编程字体中的哪款适合你？](http://developer.51cto.com/art/201806/575289.htm)
- > 11种最佳编程字体中的哪款适合你？
+ ## [6个最高效的语言处理Python库，你用过几个？](http://developer.51cto.com/art/201806/575489.htm)
+ > 最近一段时间Python已经成为数据科学行业中大火的编程语言，今天技术学派收集了一些较为高效的语言处理Pyth
  ## [大话数据结构之线性表顺序存储结构](http://stor.51cto.com/art/201806/575488.htm)
  > 数组的长度是存放线性表的储存空间的长度，存储分配后这个量一般是不变的。 线性表的长度是线性表黄总数据
  ## [雷军50岁身价破1000亿：决定人生胜负的，是这5条规律](http://news.51cto.com/art/201806/575486.htm)
@@ -90,8 +92,6 @@ categories: IT NEWS
  > 在进一步标准化之前，这里有三道防线可以确保物联网设备安全无忧：保护设备，保护网络，知道物联网中有什么
  ## [当SDN遇上5G会发生什么？](http://network.51cto.com/art/201806/575479.htm)
  > 5G xHaul网络有着无线网络独有的特点，当前为数据中心和固网承载为主要应用场景而设计的SDN架构并不能完全
- ## [对区块链技术和智能合约安全的六种误读](http://netsecurity.51cto.com/art/201806/575477.htm)
- > 公司企业越来越青睐区块链技术作为安全业务解决方案，区块链和智能合约的用例日渐增多。然而，关于区块链和
  ## [CSDN日报180605——《认知升级是令我们变得优秀的重要基石》](https://blog.csdn.net/blogdevteam/article/details/80572737)
  > CSDN日报180605——《认知升级是令我们变得优秀的重要基石》
  ## [深度学习AI美颜系列----基于抠图的人像特效算法](https://blog.csdn.net/Trent1985/article/details/80578841)
@@ -161,6 +161,8 @@ categories: IT NEWS
  > 躺在库里的时空大数据，我该拿你怎么办？(一)
  ## [高级编程作业 scipy](https://blog.csdn.net/RiddleXyz/article/details/80582103)
  > 高级编程作业 scipy
+ ## [\[Python人工智能\] 五.theano实现神经网络正规化Regularization处理](http://blog.csdn.net/eastmount/article/details/80536725)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前三篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [如何把可用性测试的任务描述写的更好？](http://www.woshipm.com/pd/1045585.html)
  > 可用性测试非常简单，即使是第一次使用，也可以获得有价值的洞见和观察。如果任务不对，你做什么都是错的，当然可用性测试也不会收到什么有效的反馈。思考人们如何使...
