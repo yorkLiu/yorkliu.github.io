@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:51:42
+date: 2018-06-06 09:53:22
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -139,6 +139,34 @@ AI&#20010;&#24615;&#21270;&#20445;&#25252;&#35270;&#21147;&#30740;&#21457;&#2183
  > 在进一步标准化之前，这里有三道防线可以确保物联网设备安全无忧：保护设备，保护网络，知道物联网中有什么
  ## [CSDN日报180605——《认知升级是令我们变得优秀的重要基石》](https://blog.csdn.net/blogdevteam/article/details/80572737)
  > CSDN日报180605——《认知升级是令我们变得优秀的重要基石》
+ ## [深度学习AI美颜系列----基于抠图的人像特效算法](https://blog.csdn.net/Trent1985/article/details/80578841)
+ > 深度学习AI美颜系列----基于抠图的人像特效算法
+ ## [如果 GitHub 被中国互联网巨头收购，一定会换一个响当当的 Slogan！](https://blog.csdn.net/wenbitianxiafeng/article/details/80572577)
+ > 如果 GitHub 被中国互联网巨头收购，一定会换一个响当当的 Slogan！
+ ## [解决插件ButterKnife在Library中使用的坑](https://blog.csdn.net/qq_24382363/article/details/80578852)
+ > 解决插件ButterKnife在Library中使用的坑
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [018年，这种员工，开再高的工资都要留住](https://blog.csdn.net/zhangbijun1230/article/details/80516512)
+ > 018年，这种员工，开再高的工资都要留住
+ ## [深入剖析Spring Boot（一）应用搭建和启动](https://blog.csdn.net/l_husky/article/details/80566886)
+ > 深入剖析Spring Boot（一）应用搭建和启动
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/FYGu18/article/details/80571426)
+ > 没想到啊！2599元的Java干货今天免费送
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [干货 ：基于用户画像的聚类分析](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80532753)
+ > 干货 ：基于用户画像的聚类分析
+ ## [在IT技术圈混，怎么能不知道这几个公众号？](https://blog.csdn.net/bjweimengshu/article/details/80416672)
+ > 在IT技术圈混，怎么能不知道这几个公众号？
+ ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](https://blog.csdn.net/ityouknow/article/details/80490925)
+ > 一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
+ > 推荐算法不够精准？让知识图谱来解决
  ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
  ## [苹果，你拿什么勇气来跟 Android 比？](https://blog.csdn.net/csdnnews/article/details/80589224)
