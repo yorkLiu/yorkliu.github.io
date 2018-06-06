@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:13:42
+date: 2018-06-06 09:14:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -18,8 +18,6 @@ categories: IT NEWS
  > 最近要找个H5的前端写个简单的DApp，聊过几个H5的工程师，都被跟以太坊交互的部分吓住了。虽然网上有N多的教程，但是对于H5工程师来说，还是有些困难。分析其原因，在于不了解ganache-cli（原来叫testrpc）/web3/以太坊节点/metamask之间的架构关系。 梳理一下架构关系： w
  ## [Spring AOP切点表达式详解](https://my.oschina.net/zhangxufeng/blog/1824275)
  >  1. 简介        面向对象编程，也称为OOP（即Object Oriented Programming）最大的优点在于能够将业务模块进行封装，从而达到功能复用的目的。通过面向对象编程，不同的模板可以相互组装，从而实现更为复杂的业务模块，其结构形式可用下图表示： !\[业务模块\](htt
- ## [Kubernetes(三) - 使用Rancher部署K8S集群(搭建Kubernetes)](https://my.oschina.net/wenzhenxi/blog/1824274)
- > 目前创建K8S集群的安装程序最受欢迎的有Kops，Kubespray，kubeadm，rancher，以及个人提供的脚本集等。
  ## [6 月南京源创会，解读如何实现一个任务型对话机器人](https://www.oschina.net/event/2279616?origin=zhzx)
  > 6 月 23 日南京源创会火热报名中，技术专家将为你介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便的创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [每日一博 | 浅谈 csrf 攻击以及 yii2 对其的防范措施](https://my.oschina.net/abei2017/blog/1824462)
@@ -126,6 +124,12 @@ categories: IT NEWS
  > 二维码登录（二）生成二维码
  ## [最近做大数据面试官的感想](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
  > 最近做大数据面试官的感想
+ ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
+ ## [苹果，你拿什么勇气来跟 Android 比？](https://blog.csdn.net/csdnnews/article/details/80589224)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
+ ## [如果 GitHub 被中国互联网巨头收购会怎样？](https://blog.csdn.net/csdnnews/article/details/80576957)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
  ## [快手接盘A站：IPO前夜布局二次元，商业化短板犹存](http://www.lanjingtmt.com/news/detail/35537.shtml)
  > 很难说作为首次对外收购，快手能否为A站厘清多年累积的痼疾，定下清晰可行的长期战略方向，并如它所承诺，不打扰A站原有的社区氛围。
 # 人工智能 
