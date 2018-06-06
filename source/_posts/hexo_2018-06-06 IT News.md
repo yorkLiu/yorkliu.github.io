@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:48:45
+date: 2018-06-06 09:49:50
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -135,36 +135,6 @@ AI&#20010;&#24615;&#21270;&#20445;&#25252;&#35270;&#21147;&#30740;&#21457;&#2183
  > 据MBT Mag报导，与工业4.0相关的数字化转型旨在透过利用数据、自主反馈、预测分析和人工智能(AI)来实现客户
  ## [保护物联网设备安全的入门指南](http://iot.51cto.com/art/201806/575481.htm)
  > 在进一步标准化之前，这里有三道防线可以确保物联网设备安全无忧：保护设备，保护网络，知道物联网中有什么
- ## [CSDN日报180605——《认知升级是令我们变得优秀的重要基石》](https://blog.csdn.net/blogdevteam/article/details/80572737)
- > CSDN日报180605——《认知升级是令我们变得优秀的重要基石》
- ## [深度学习AI美颜系列----基于抠图的人像特效算法](https://blog.csdn.net/Trent1985/article/details/80578841)
- > 深度学习AI美颜系列----基于抠图的人像特效算法
- ## [如果 GitHub 被中国互联网巨头收购，一定会换一个响当当的 Slogan！](https://blog.csdn.net/wenbitianxiafeng/article/details/80572577)
- > 如果 GitHub 被中国互联网巨头收购，一定会换一个响当当的 Slogan！
- ## [解决插件ButterKnife在Library中使用的坑](https://blog.csdn.net/qq_24382363/article/details/80578852)
- > 解决插件ButterKnife在Library中使用的坑
- ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
- > 凌晨3点不回家，你咋不去死
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [018年，这种员工，开再高的工资都要留住](https://blog.csdn.net/zhangbijun1230/article/details/80516512)
- > 018年，这种员工，开再高的工资都要留住
- ## [深入剖析Spring Boot（一）应用搭建和启动](https://blog.csdn.net/l_husky/article/details/80566886)
- > 深入剖析Spring Boot（一）应用搭建和启动
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/FYGu18/article/details/80571426)
- > 没想到啊！2599元的Java干货今天免费送
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [干货 ：基于用户画像的聚类分析](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80532753)
- > 干货 ：基于用户画像的聚类分析
- ## [在IT技术圈混，怎么能不知道这几个公众号？](https://blog.csdn.net/bjweimengshu/article/details/80416672)
- > 在IT技术圈混，怎么能不知道这几个公众号？
- ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](https://blog.csdn.net/ityouknow/article/details/80490925)
- > 一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
  ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
  ## [苹果，你拿什么勇气来跟 Android 比？](https://blog.csdn.net/csdnnews/article/details/80589224)
@@ -208,8 +178,6 @@ AI&#20010;&#24615;&#21270;&#20445;&#25252;&#35270;&#21147;&#30740;&#21457;&#2183
  > 躺在库里的时空大数据，我该拿你怎么办？(一)
  ## [高级编程作业 scipy](https://blog.csdn.net/RiddleXyz/article/details/80582103)
  > 高级编程作业 scipy
- ## [\[Python人工智能\] 五.theano实现神经网络正规化Regularization处理](http://blog.csdn.net/eastmount/article/details/80536725)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前三篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [如何把可用性测试的任务描述写的更好？](http://www.woshipm.com/pd/1045585.html)
  > 可用性测试非常简单，即使是第一次使用，也可以获得有价值的洞见和观察。如果任务不对，你做什么都是错的，当然可用性测试也不会收到什么有效的反馈。思考人们如何使...
@@ -217,21 +185,5 @@ AI&#20010;&#24615;&#21270;&#20445;&#25252;&#35270;&#21147;&#30740;&#21457;&#2183
  > 本文作者以大白话且通俗易懂的方式，来与大家分享知识和观点，主要讲解的是平面设计基础理论知识与实际用法，文章适合设计小白和需要填补设计基础的设计师学习阅读。...
  ## [广告公司要做的也不是创意，而是内容](http://www.woshipm.com/marketing/1049960.html)
  > 创造性地解决客户的问题，这就是广告公司的价值所在。我曾经在2013年公司年中总结会上谈到“我们既不需要品牌，也不需要创意”，引来一片哗然。如今5年过去了，这里录...
- ## [互联网巨头聚齐 基金代销竞争白热化](http://www.pmtoo.com/article/47446.html)
- > 第三方基金销售平台迎来强劲对手，今年1月获得第三方基金销售牌照的互联网巨头腾讯“杀入”基金销售江湖。北京商报记者最新...
- ## [腾讯与今日头条互诉背后 谁动了谁的奶酪？](http://www.pmtoo.com/article/47442.html)
- > 腾讯与今日头条之间的“头腾大战”近一个月来愈演愈烈，最终，双方的积怨以两纸诉状的方式爆发。6月1日下午，腾讯发布一则...
- ## [构建企业级数据仓库的五步法](http://www.pmtoo.com/article/47439.html)
- > 一. 确定主题即确定数据分析或前端展现的主题(例如:某年某月某地区的啤酒销售情况). 主题要体现出某一方面的各分析角...
- ## [长出“肌肉”的机器人离我们还有多远？](http://www.pmtoo.com/article/47430.html)
- > 其实我们很难在机器人身上看到人造肌肉应用的最关键原因，还是因为我们现在需要的是精密的机械控制。图片来源@视...
- ## [屈臣氏在香港开了一家 2400 平米的店，也有无人支付服务](http://www.pmtoo.com/article/47423.html)
- > 屈臣氏在香港开了一家名叫 CKC18 的大型购物概念店，除了扩展一般屈臣氏零售店里的美妆、日用、零食饮料等商品外，这家...
- ## [你们只管吐槽新的 iOS 12，看谁笑到最后](http://www.pmtoo.com/article/47418.html)
- > 看够了 iOS 12 的吐槽，来看看真东西。深夜，我喝着红牛看苹果 WWDC 开发者大会，一边读着朋友对 iOS 12 的吐槽，一边笑...
- ## [究竟谁将从AI中获益？](http://www.pmtoo.com/article/47389.html)
- > 拥有最好的AI技术，工具，数据，科技人才，最多的客户和最强的资金实力的公司和国家将从AI淘金热中获益。那些最具有规模效应...
- ## [快手确认完成收购A站，后者保持独立品牌和运营](http://www.pmtoo.com/article/47375.html)
- > 快手确认全资收购A站。未来，A站将保持独立品牌、维持独立运营、保持原有团队、独立发展。快手会在资金、资源、技术等方面给...
 
     
