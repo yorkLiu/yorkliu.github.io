@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:15:36
+date: 2018-06-06 09:16:33
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -131,36 +131,6 @@ categories: IT NEWS
  ## [快手接盘A站：IPO前夜布局二次元，商业化短板犹存](http://www.lanjingtmt.com/news/detail/35537.shtml)
  > 很难说作为首次对外收购，快手能否为A站厘清多年累积的痼疾，定下清晰可行的长期战略方向，并如它所承诺，不打扰A站原有的社区氛围。
 # 人工智能 
- ## [CSDN日报180605——《认知升级是令我们变得优秀的重要基石》](https://blog.csdn.net/blogdevteam/article/details/80572737)
- > CSDN日报180605——《认知升级是令我们变得优秀的重要基石》
- ## [caffe 学习笔记之solver层](https://blog.csdn.net/Scythe666/article/details/80583501)
- > caffe 学习笔记之solver层
- ## [机器学习方法概述（持续更新。。。）](https://blog.csdn.net/Haiyang_Duan/article/details/80581834)
- > 机器学习方法概述（持续更新。。。）
- ## [机器学习/深度学习入门：搭建神经网络流程](https://blog.csdn.net/M_Z_G_Y/article/details/80581845)
- > 机器学习/深度学习入门：搭建神经网络流程
- ## [机器学习经典论文](https://blog.csdn.net/penny_cheng04/article/details/80581847)
- > 机器学习经典论文
- ## [《DP学习系列》从零开始学习动态规划，多重背包（三）](https://blog.csdn.net/LoveStackover/article/details/80581907)
- > 《DP学习系列》从零开始学习动态规划，多重背包（三）
- ## [7-感知机-二分类-分类-监督学习-机器学习](https://blog.csdn.net/yeziand01/article/details/80581912)
- > 7-感知机-二分类-分类-监督学习-机器学习
- ## [图像特征提取](https://blog.csdn.net/m0_37692953/article/details/80581923)
- > 图像特征提取
- ## [如何启动tensorboard进行可视化](https://blog.csdn.net/qq_30868235/article/details/80581947)
- > 如何启动tensorboard进行可视化
- ## [python计算机视觉阅读笔记(一)](https://blog.csdn.net/zjh0918/article/details/80582006)
- > python计算机视觉阅读笔记(一)
- ## [45K月薪的Python大咖实现语音密钥, 腾讯欲花百万年薪聘请, 转身就被拒绝了!](https://blog.csdn.net/qq_41841569/article/details/80582022)
- > 45K月薪的Python大咖实现语音密钥, 腾讯欲花百万年薪聘请, 转身就被拒绝了!
- ## [python机器学习之我见：k-近邻算法](https://blog.csdn.net/zztingfeng/article/details/80582024)
- > python机器学习之我见：k-近邻算法
- ## [拉格朗日乘数法与对偶性](https://blog.csdn.net/QWERTYASDFGHZXCC/article/details/80582065)
- > 拉格朗日乘数法与对偶性
- ## [躺在库里的时空大数据，我该拿你怎么办？(一)](https://blog.csdn.net/peckerzeng/article/details/80582098)
- > 躺在库里的时空大数据，我该拿你怎么办？(一)
- ## [高级编程作业 scipy](https://blog.csdn.net/RiddleXyz/article/details/80582103)
- > 高级编程作业 scipy
  ## [\[Python人工智能\] 五.theano实现神经网络正规化Regularization处理](http://blog.csdn.net/eastmount/article/details/80536725)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前三篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
