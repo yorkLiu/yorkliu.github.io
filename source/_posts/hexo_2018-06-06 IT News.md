@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:11:38
+date: 2018-06-06 09:12:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -110,8 +110,8 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [在IT技术圈混，怎么能不知道这几个公众号？](https://blog.csdn.net/bjweimengshu/article/details/80416672)
  > 在IT技术圈混，怎么能不知道这几个公众号？
- ## [还在熬夜憋思路？这12篇最新论文打包送给你 | 本周值得读](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80570496)
- > 还在熬夜憋思路？这12篇最新论文打包送给你 | 本周值得读
+ ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
+ > 推荐算法不够精准？让知识图谱来解决
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
  ## [一场皆大欢喜的程序员跳槽事件](https://blog.csdn.net/GitChat/article/details/80416257)
