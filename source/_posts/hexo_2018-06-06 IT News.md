@@ -1,7 +1,7 @@
 ---
 title: 2018-06-06 IT News
 copyright: true
-date: 2018-06-06 09:10:12
+date: 2018-06-06 09:11:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -96,6 +96,36 @@ categories: IT NEWS
  > 5G xHaul网络有着无线网络独有的特点，当前为数据中心和固网承载为主要应用场景而设计的SDN架构并不能完全
  ## [对区块链技术和智能合约安全的六种误读](http://netsecurity.51cto.com/art/201806/575477.htm)
  > 公司企业越来越青睐区块链技术作为安全业务解决方案，区块链和智能合约的用例日渐增多。然而，关于区块链和
+ ## [CSDN日报180605——《认知升级是令我们变得优秀的重要基石》](https://blog.csdn.net/blogdevteam/article/details/80572737)
+ > CSDN日报180605——《认知升级是令我们变得优秀的重要基石》
+ ## [深度学习AI美颜系列----基于抠图的人像特效算法](https://blog.csdn.net/Trent1985/article/details/80578841)
+ > 深度学习AI美颜系列----基于抠图的人像特效算法
+ ## [如果 GitHub 被中国互联网巨头收购，一定会换一个响当当的 Slogan！](https://blog.csdn.net/wenbitianxiafeng/article/details/80572577)
+ > 如果 GitHub 被中国互联网巨头收购，一定会换一个响当当的 Slogan！
+ ## [解决插件ButterKnife在Library中使用的坑](https://blog.csdn.net/qq_24382363/article/details/80578852)
+ > 解决插件ButterKnife在Library中使用的坑
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [在IT技术圈混，怎么能不知道这几个公众号？](https://blog.csdn.net/bjweimengshu/article/details/80416672)
+ > 在IT技术圈混，怎么能不知道这几个公众号？
+ ## [还在熬夜憋思路？这12篇最新论文打包送给你 | 本周值得读](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80570496)
+ > 还在熬夜憋思路？这12篇最新论文打包送给你 | 本周值得读
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [一场皆大欢喜的程序员跳槽事件](https://blog.csdn.net/GitChat/article/details/80416257)
+ > 一场皆大欢喜的程序员跳槽事件
+ ## [深入剖析Spring Boot（一）应用搭建和启动](https://blog.csdn.net/l_husky/article/details/80566886)
+ > 深入剖析Spring Boot（一）应用搭建和启动
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/FYGu18/article/details/80571426)
+ > 没想到啊！2599元的Java干货今天免费送
+ ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](https://blog.csdn.net/ityouknow/article/details/80490925)
+ > 一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)
+ ## [二维码登录（二）生成二维码](https://blog.csdn.net/xvshu/article/details/80572041)
+ > 二维码登录（二）生成二维码
+ ## [最近做大数据面试官的感想](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
+ > 最近做大数据面试官的感想
  ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
  ## [苹果，你拿什么勇气来跟 Android 比？](https://blog.csdn.net/csdnnews/article/details/80589224)
