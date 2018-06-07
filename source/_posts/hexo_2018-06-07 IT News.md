@@ -1,7 +1,7 @@
 ---
 title: 2018-06-07 IT News
 copyright: true
-date: 2018-06-07 09:21:00
+date: 2018-06-07 09:21:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -78,26 +78,6 @@ categories: IT NEWS
  > 当我们在讨论金融CTO能不能做银行行长的时候，我们到底是在讨论什么？
  ## [您好，语音识别了解一下！](http://ai.51cto.com/art/201806/575470.htm)
  > 您好，语音识别了解一下！
- ## [微软妥协，答应更改备受争议的 GVFS 项目名称](http://news.51cto.com/art/201806/575595.htm)
- > 微软去年发布了一个名为 GVFS 的项目，这是一个 Git 虚拟文件系统，全称为 Git Virtual File System，允许
- ## [中兴认罚17亿美元，美商务部解除对中兴7年禁购令](http://news.51cto.com/art/201806/575592.htm)
- > 据路透社报道，中兴通讯于上周末与美国签署一项原则性协议，该协议将解除美国商务部针对中兴的7年禁令。美
- ## [MySQL性能优化，索引和查询优化](http://database.51cto.com/art/201806/575594.htm)
- > 要知道为什么使用索引，要知道如何去使用好索引，使自己的查询达到最优性能，需要先了解索引的数据结构和磁
- ## [性能测试问题与思考](http://zhuanlan.51cto.com/art/201806/575593.htm)
- > 市面上现在有非常多关于性能测试的书籍，其中不少书籍都能够系统地介绍性能测试。今天我想通过另一种方式来
- ## [如何使用GNU Parallel提高Linux命令行执行效率](http://os.51cto.com/art/201806/575591.htm)
- > GNU Parallel 是一个 shell 工具，可以并行执行任务。它可以解析多种输入，让你可以同时在多份数据上运行脚
- ## [打造企业级移动测试云平台](http://zhuanlan.51cto.com/art/201806/575590.htm)
- > 随着移动技术的发展和革新，移动领域的测试技术和实践也有了一定发展：工具不再像早期一样几家独大，选择性
- ## [有些决策不能，也永远不该委托给机器](http://zhuanlan.51cto.com/art/201806/575589.htm)
- > 由于数据偏差、系统内置偏见，不了解统计数据以及过度信任机器的决策者，还有其他众多的挑战，算法永远不会
- ## [安全上网 七招教你避防风险](http://netsecurity.51cto.com/art/201806/575587.htm)
- > 在网络安全越来越受到重视的今天，身处网络之海有哪些注意事项，怎样避防安全风险?免费WiFi须当心，隐私调
- ## [物联网成为国内运营商eSIM技术“网红”切入领域](http://iot.51cto.com/art/201806/575586.htm)
- > 运营商通过SIM卡握住了大批量的用户。可以说，SIM卡就是运营商驻守“领地”的一道“壁垒”。然而，运营商并
- ## [企业GDPR合规助手：SIEM工具](http://netsecurity.51cto.com/art/201806/575585.htm)
- > 虽然目前还没有一款工具能够帮助企业完全满足 GDPR 的合规性，但有一系列工具可帮助企业朝合规的方向努力，
  ## [CSDN日报180606——《我的读研经历与算法岗求职经验》](https://blog.csdn.net/blogdevteam/article/details/80600331)
  > CSDN日报180606——《我的读研经历与算法岗求职经验》
  ## [React Native电商项目实战——开篇](https://blog.csdn.net/yulianlin/article/details/80580701)
@@ -136,6 +116,8 @@ categories: IT NEWS
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！最近...
  ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理 ...
+ ## [A股挂牌前夕富士康庆生！郭台铭已捐90%财富，每天工作16时](http://www.lanjingtmt.com/news/detail/35569.shtml)
+ > 在工业互联网领域，富士康未来要做中国的Predix。
  ## [汽车金融坏账率难降，电商ABS计划难成优信瓜子们的融资新宠](http://www.lanjingtmt.com/news/detail/35567.shtml)
  > “此次深交所通过的这一计划在业内或许具有里程碑的意义”，一位券商的分析人士在采访中表示，不排除未来二手车电商平台采取类似做法的可能。
 # 人工智能 
