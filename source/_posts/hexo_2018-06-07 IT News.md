@@ -1,7 +1,7 @@
 ---
 title: 2018-06-07 IT News
 copyright: true
-date: 2018-06-07 08:50:40
+date: 2018-06-07 08:51:32
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,22 +62,6 @@ categories: IT NEWS
  > GitHub 打造的文本编辑器 Atom 发布了 1.28.0-beta3 版本。 该版本的主要更新内容 将 GitHub 软件包升级至 v0.15.5 添加了将 Atom 的颜色配置文件更改回 sRGB 的设置 修复了在非正则表达式搜索中前缀带反斜杠的破折号的问题 详细更新内容和下载地址请查看 G
  ## [OrientDB v3.0.2 发布，多模型 NoSQL 数据库](https://www.oschina.net/news/96818/orientdb-v-3-0-2-released)
  > OrientDB v3.0.2 已发布。OrientDB 是兼具文档数据库的灵活性和图形数据库管理链接能力的可深层次扩展的文档-图形数据库管理系统。可选无模式、全模式或混合模式。支持许多高级特性，诸如 ACID 事务、快速索引，原生和 SQL 查询功能。可以导入 JSON 格式、导出文档。 该版本主
- ## [外媒速递：区块链技术将在GDPR全面实施后迎来怎样的命运?](http://zhuanlan.51cto.com/art/201806/575588.htm)
- > 外媒速递：区块链技术将在GDPR全面实施后迎来怎样的命运?
- ## [WOT董明鑫：容器技术在雪球的实践](http://cloud.51cto.com/art/201806/575519.htm)
- > WOT董明鑫：容器技术在雪球的实践
- ## [2000万日订单背后，如何保障系统的高可用？](http://developer.51cto.com/art/201806/575494.htm)
- > 2000万日订单背后，如何保障系统的高可用？
- ## [让应用程序准备好无服务器平台的三个方法](http://cloud.51cto.com/art/201806/575382.htm)
- > 让应用程序准备好无服务器平台的三个方法
- ## [当 Atom 遇见 VSCode ，微软将对 GitHub 做 6 件事](http://news.51cto.com/art/201806/575483.htm)
- > 当 Atom 遇见 VSCode ，微软将对 GitHub 做 6 件事
- ## [对区块链技术和智能合约安全的六种误读](http://netsecurity.51cto.com/art/201806/575477.htm)
- > 对区块链技术和智能合约安全的六种误读
- ## [当我们在讨论金融CTO能不能做银行行长的时候，我们到底是在讨论什么？](http://zhuanlan.51cto.com/art/201806/575472.htm)
- > 当我们在讨论金融CTO能不能做银行行长的时候，我们到底是在讨论什么？
- ## [您好，语音识别了解一下！](http://ai.51cto.com/art/201806/575470.htm)
- > 您好，语音识别了解一下！
  ## [如何使用GNU Parallel提高Linux命令行执行效率](http://os.51cto.com/art/201806/575591.htm)
  > GNU Parallel 是一个 shell 工具，可以并行执行任务。它可以解析多种输入，让你可以同时在多份数据上运行脚
  ## [打造企业级移动测试云平台](http://zhuanlan.51cto.com/art/201806/575590.htm)
@@ -130,37 +114,6 @@ categories: IT NEWS
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
  ## [汽车金融坏账率难降，电商ABS计划难成优信瓜子们的融资新宠](http://www.lanjingtmt.com/news/detail/35567.shtml)
  > “此次深交所通过的这一计划在业内或许具有里程碑的意义”，一位券商的分析人士在采访中表示，不排除未来二手车电商平台采取类似做法的可能。
-# 人工智能 
- ## [CSDN日报180606——《我的读研经历与算法岗求职经验》](https://blog.csdn.net/blogdevteam/article/details/80600331)
- > CSDN日报180606——《我的读研经历与算法岗求职经验》
- ## [解读DP-SLAM （4）](https://blog.csdn.net/qq_39732684/article/details/80594745)
- > 解读DP-SLAM （4）
- ## [Python基础教程（六）：](https://blog.csdn.net/qq_25558239/article/details/80594763)
- > Python基础教程（六）：
- ## [03网络正则化](https://blog.csdn.net/weixin_40920290/article/details/80594789)
- > 03网络正则化
- ## [自然语言处理中的Attention Model原理介绍](https://blog.csdn.net/lingpy/article/details/80594861)
- > 自然语言处理中的Attention Model原理介绍
- ## [深度学习的一些基本概念-CNN（1）](https://blog.csdn.net/qq_36967497/article/details/80594924)
- > 深度学习的一些基本概念-CNN（1）
- ## [学习心得篇-不断更新](https://blog.csdn.net/yeziand01/article/details/80594928)
- > 学习心得篇-不断更新
- ## [【傻瓜攻略】深度学习之海森矩阵（九）](https://blog.csdn.net/lyy_sha/article/details/80594931)
- > 【傻瓜攻略】深度学习之海森矩阵（九）
- ## [简述为什么输出层在使用sigmoid做激励函数时, 代价函数用交叉熵比平方差更好](https://blog.csdn.net/qq_24568487/article/details/80594944)
- > 简述为什么输出层在使用sigmoid做激励函数时, 代价函数用交叉熵比平方差更好
- ## [CNN卷积神经网络——新手上手](https://blog.csdn.net/qq_33690342/article/details/80594950)
- > CNN卷积神经网络——新手上手
- ## [ML15: 机器学习2](https://blog.csdn.net/weixin_38246633/article/details/80594953)
- > ML15: 机器学习2
- ## [以Attention Model为例谈谈两种研究创新模式](https://blog.csdn.net/lingpy/article/details/80594964)
- > 以Attention Model为例谈谈两种研究创新模式
- ## [熵(Entropy):机器学习](https://blog.csdn.net/weixin_39672172/article/details/80594990)
- > 熵(Entropy):机器学习
- ## [深度学习图像标注工具汇总](https://blog.csdn.net/qq_33485434/article/details/80594994)
- > 深度学习图像标注工具汇总
- ## [ML16:逻辑回归](https://blog.csdn.net/weixin_38246633/article/details/80595116)
- > ML16:逻辑回归
 # PM 
  ## [人人都是产品经理推荐｜6～8月，产品汪、运营喵不容错过的知识盛会！](http://www.woshipm.com/active/1040335.html)
  > 大数据，人工智能，区块链正迅速的改变各行各业新的商业环境与技术条件的变化无疑会产生新的产品和商业模式我们每个人都无法置身事外从全民的互联网焦虑到商业破局...
@@ -168,25 +121,5 @@ categories: IT NEWS
  > 交互设计师的重要价值在于使产品变得易用且人性化。这就需要我们深入学习交互设计的基本理论知识，帮助我们拆分问题，提高效率，创造出更好的设计。前段时间我们发布...
  ## [抖音vs微信，这次你站哪边？](http://www.chanpin100.com/article/106975)
  > 【小百摘要】仁者见仁，智者见智。一场微信和抖音的较量，你支持谁呢？
- ## [菊外人还需努力，《创造101》点击量惜败《偶像练习生》](http://www.pmtoo.com/article/47540.html)
- > 各类型的网综的兴起，各种流行词的火爆，都在昭示着网综已经进入了全民话题带流量的时代。本文是由极光大数据发布《2018年网...
- ## [“新零售”的本质就是定义效率](http://www.pmtoo.com/article/47537.html)
- > 本文将从三方面来分享：首先，什么是“新零售”，它与传统零售的本质差别是什么；其次，“新零售”到底给我们带来了什么样的便利...
- ## [广告公司要做的也不是创意，而是内容](http://www.pmtoo.com/article/47519.html)
- > 创造性地解决客户的问题，这就是广告公司的价值所在。我曾经在2013年公司年中总结会上谈到“我们既不需要品牌，也不需要创...
- ## [世界杯来了，品牌该怎么借势推广？](http://www.pmtoo.com/article/47510.html)
- > 说起体育营销大家可能觉得那都是大公司的事，毕竟也只有大公司才花得起钱去做赛事的官方赞助，常规的体育营销套路（比如请球...
- ## [贴吧、知乎老账号一号难求，刷量灰产上演“灰吃灰”](http://www.pmtoo.com/article/47505.html)
- > 无论是灰产横行，还是“灰吃灰”，都是行业虚假繁荣下的必然产物。“你最近的转化率高吗？”“不高，肯定要刷刷订单量了。...
- ## [“头腾大战”的核心是公共利益](http://www.pmtoo.com/article/47494.html)
- > 一一年前的2017年6月，欧盟向谷歌开出了一张创纪录的天价罚单：24亿欧元，这相当于谷歌母公司Alphabet营收的3%。比起...
- ## [人民日报评美拍：让我们的网络空间清朗起来](http://www.pmtoo.com/article/47490.html)
- > 近期，某网络直播短视频平台因传播涉未成年人低俗不良信息，严重影响青少年身心健康。国家网信办会同各部门依法依规联合...
- ## [为解决电子邮件“杀时间”的短板，巨头们做了哪些努力？](http://www.pmtoo.com/article/47487.html)
- > 电邮顽疾很多，但最大的短板或许在于过于消耗时间。图片来源：视觉中国随着人口红利的过去，今天的互联网巨头...
- ## [山寨包围下加速狂奔，抖音爆款“答案茶”还能火多久？](http://www.pmtoo.com/article/47482.html)
- > 三个月开出200多家加盟店，既不是为了“捞一笔就走”，也不是资本助力的烧钱游戏，而是在“网红效应”下和山寨者的一场赛跑。...
- ## [那些难堪的地产中年人](http://www.pmtoo.com/article/47479.html)
- > 在一个行业里待够30年，你能经历的就不只是几次行业的危机起伏，还能看见很多人的奋进、挣扎、消失，看见一些梦想，看见...
 
     
