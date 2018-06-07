@@ -1,7 +1,7 @@
 ---
 title: 2018-06-07 IT News
 copyright: true
-date: 2018-06-07 08:54:17
+date: 2018-06-07 09:21:00
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -22,6 +22,8 @@ categories: IT NEWS
  > 1、前言 相信大家都知道了，微软已确认要收购 GitHub 了，Github官方也在Github网站显眼位置给出了CEO的确认收购博客文章。具体多少钱收购的还不得而知，但是据知情人士透漏，GitHub 之所以放弃了原有的上市计划，而选择出售给微软，部分原因是因为他们对微软 CEO 萨提亚·纳德拉印象
  ## [Spring Boot使用过滤器和拦截器分别实现REST接口简易安全认证](https://my.oschina.net/u/3854434/blog/1824961)
  > 本文通过一个简易安全认证示例的开发实践，理解过滤器和拦截器的工作原理。 很多文章都将过滤器（Filter）、拦截器（Interceptor）和监听器（Listener）这三者和Spring关联起来讲解，并认为过滤器（Filter）、拦截器（Interceptor）和监听器（Listener）是Spr
+ ## [传欧盟裁定安卓存垄断行为，或开 110 亿美元天价罚单](https://www.oschina.net/news/96838/eu-android-penalty)
+ > 据外媒报道，受欧盟官员将以“负面结果”打击公司谷歌母公司 Alphabet ，因滥用 Android 移动操作系统的统治优势对其罚款 110 亿美元这一消息的影响，Alphabet 股价在周三应声出现了下滑。 《金融时报》周三援引消息人士的话报道称，欧盟反垄断专员玛格丽特-维斯塔格（Margreth
  ## [红薯微剧场 | 开源众包发包记第一集 —— 前端篇](https://www.oschina.net/news/96837/zhongbao-frontend)
  > 开源众包发包记         ---玩转众包 第一集   巧引外援、顺度难关---前端开发项目篇 丁酉年11月，北京的天气已经逐渐寒凉，部分办公司的灯光已熄灭，办公室的窗户上印衬着佳佳略显倦怠的容颜。虽然小风衣里那1.6米的身影依然倔强的凸显着一个南方姑娘的娇美身姿，可惜此时却无人欣赏。佳佳看着墙
  ## [每日一博 | SpringBoot 应用部署于外置 Tomcat 容器](https://my.oschina.net/hansonwang99/blog/1824245)
@@ -60,8 +62,6 @@ categories: IT NEWS
  > Angular 6.0.4 和 6.1.0-beta.0 已发布，两者的主要更新都是修复 bug，不过 6.1.0-beta.0 还添加了一些新特性。 修复的 bug 包括 修复浏览器检测逻辑 不依赖于不兼容的 TS 方法 避免使用 http 拦截器时的依赖周期 …… 其他修复的 bug 详情点此查
  ## [GitHub 的文本编辑器 Atom 发布 1.28.0-beta3 版本](https://www.oschina.net/news/96819/github-atom-1-28-0-beta3-released)
  > GitHub 打造的文本编辑器 Atom 发布了 1.28.0-beta3 版本。 该版本的主要更新内容 将 GitHub 软件包升级至 v0.15.5 添加了将 Atom 的颜色配置文件更改回 sRGB 的设置 修复了在非正则表达式搜索中前缀带反斜杠的破折号的问题 详细更新内容和下载地址请查看 G
- ## [OrientDB v3.0.2 发布，多模型 NoSQL 数据库](https://www.oschina.net/news/96818/orientdb-v-3-0-2-released)
- > OrientDB v3.0.2 已发布。OrientDB 是兼具文档数据库的灵活性和图形数据库管理链接能力的可深层次扩展的文档-图形数据库管理系统。可选无模式、全模式或混合模式。支持许多高级特性，诸如 ACID 事务、快速索引，原生和 SQL 查询功能。可以导入 JSON 格式、导出文档。 该版本主
  ## [外媒速递：区块链技术将在GDPR全面实施后迎来怎样的命运?](http://zhuanlan.51cto.com/art/201806/575588.htm)
  > 外媒速递：区块链技术将在GDPR全面实施后迎来怎样的命运?
  ## [WOT董明鑫：容器技术在雪球的实践](http://cloud.51cto.com/art/201806/575519.htm)
@@ -78,6 +78,14 @@ categories: IT NEWS
  > 当我们在讨论金融CTO能不能做银行行长的时候，我们到底是在讨论什么？
  ## [您好，语音识别了解一下！](http://ai.51cto.com/art/201806/575470.htm)
  > 您好，语音识别了解一下！
+ ## [微软妥协，答应更改备受争议的 GVFS 项目名称](http://news.51cto.com/art/201806/575595.htm)
+ > 微软去年发布了一个名为 GVFS 的项目，这是一个 Git 虚拟文件系统，全称为 Git Virtual File System，允许
+ ## [中兴认罚17亿美元，美商务部解除对中兴7年禁购令](http://news.51cto.com/art/201806/575592.htm)
+ > 据路透社报道，中兴通讯于上周末与美国签署一项原则性协议，该协议将解除美国商务部针对中兴的7年禁令。美
+ ## [MySQL性能优化，索引和查询优化](http://database.51cto.com/art/201806/575594.htm)
+ > 要知道为什么使用索引，要知道如何去使用好索引，使自己的查询达到最优性能，需要先了解索引的数据结构和磁
+ ## [性能测试问题与思考](http://zhuanlan.51cto.com/art/201806/575593.htm)
+ > 市面上现在有非常多关于性能测试的书籍，其中不少书籍都能够系统地介绍性能测试。今天我想通过另一种方式来
  ## [如何使用GNU Parallel提高Linux命令行执行效率](http://os.51cto.com/art/201806/575591.htm)
  > GNU Parallel 是一个 shell 工具，可以并行执行任务。它可以解析多种输入，让你可以同时在多份数据上运行脚
  ## [打造企业级移动测试云平台](http://zhuanlan.51cto.com/art/201806/575590.htm)
@@ -90,12 +98,6 @@ categories: IT NEWS
  > 运营商通过SIM卡握住了大批量的用户。可以说，SIM卡就是运营商驻守“领地”的一道“壁垒”。然而，运营商并
  ## [企业GDPR合规助手：SIEM工具](http://netsecurity.51cto.com/art/201806/575585.htm)
  > 虽然目前还没有一款工具能够帮助企业完全满足 GDPR 的合规性，但有一系列工具可帮助企业朝合规的方向努力，
- ## [物联网改变机场乘客体验的八个阶段](http://iot.51cto.com/art/201806/575584.htm)
- > 这一切都只是开始：当物联网将机场与机场外资产（如运输）连接时，机场体验将发生真正、彻底的变化，可以为
- ## [旧手机的隐私顽疾：砸了浪费，卖了受罪](http://netsecurity.51cto.com/art/201806/575583.htm)
- > 近期看到很多关于二手手机所造成隐私问题的讨论，其实这一直都存在，但始终无法让大多数人认识到其严重性。
- ## [运营商再陷“偷跑流量”舆论漩涡 优化计费方式或纾解用户质疑](http://network.51cto.com/art/201806/575582.htm)
- > 运营商再因流量偷跑质疑被推上风口浪尖。1个G挺不过15天、手机流量“非正常消耗”成通病、不限流量不应只是
  ## [CSDN日报180606——《我的读研经历与算法岗求职经验》](https://blog.csdn.net/blogdevteam/article/details/80600331)
  > CSDN日报180606——《我的读研经历与算法岗求职经验》
  ## [React Native电商项目实战——开篇](https://blog.csdn.net/yulianlin/article/details/80580701)
@@ -126,8 +128,14 @@ categories: IT NEWS
  > 干货 ：基于用户画像的聚类分析
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
  > 凌晨3点不回家，你咋不去死
+ ## [PC 芯片接连抛售，失去明星工程师的东芝是如何走向末路的？](https://blog.csdn.net/csdnnews/article/details/80604095)
+ > 译者 | 弯月 责编 | 唐小引【CSDN 编者按】不知大家对于东芝（Toshiba）还有多少印象？笔者零星的印象只在于使用过东芝的电脑。而如今，东芝为它的一个又一个业务寻找新的主人。先是 180 亿美元将自己的芯片部门卖给了美国私人股份公司 Bain Capital，而后，又以 40 ...
+ ## [中兴 108 亿换得自由身！](https://blog.csdn.net/csdnnews/article/details/80603636)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！生死 ...
+ ## [看到它，让我想起了帅出天际的精灵王子……](https://blog.csdn.net/csdnnews/article/details/80598872)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！最近...
  ## [微软拿 480 亿买 GitHub 就为了拥抱开源？](https://blog.csdn.net/csdnnews/article/details/80589579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理...
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！整理 ...
  ## [汽车金融坏账率难降，电商ABS计划难成优信瓜子们的融资新宠](http://www.lanjingtmt.com/news/detail/35567.shtml)
  > “此次深交所通过的这一计划在业内或许具有里程碑的意义”，一位券商的分析人士在采访中表示，不排除未来二手车电商平台采取类似做法的可能。
 # 人工智能 
