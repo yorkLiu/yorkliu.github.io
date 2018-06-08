@@ -1,7 +1,7 @@
 ---
 title: 2018-06-08 IT News
 copyright: true
-date: 2018-06-08 10:38:14
+date: 2018-06-08 10:39:23
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,6 +56,8 @@ categories: IT NEWS
  > !\[\](https://ws4.sinaimg.cn/large/006tNc79ly1fs2s4f0jf4j31g80ytn6i.jpg)  前言 之前在做 \[秒杀架构实践\](https://crossoverjie.top/2018/05/07/ssm/SSM18-seconds-kill/
  ## [RuiJi.Net .NET 开源爬虫框架](https://my.oschina.net/zhupingqi/blog/1826317)
  > 项目地址 https://github.com/zhupingqi/RuiJi.Net https://gitee.com/zhupingqi/RuiJi.Net 文档 http://www.ruijihg.com/archives/ruijinet/getting-started RuiJi.Ne
+ ## [PHP 7.3.0 alpha 1 发布，包含大量修复和改进](https://www.oschina.net/news/96875/php-7-3-0-alpha1-released)
+ > PHP 7.3.0 alpha 1 已发布，更新内容如下： NEWS- Core:  . Improved PHP GC. (Dmitry, Nikita)  . Redesigned the old ext_skel program written in PHP, run:     &x27;php ex
  ## [v-dialogs v1.10 发布，基于 Vue2 的多功能弹出窗口组件](https://www.oschina.net/news/96874/v-dialogs-1-1-0-released)
  > 基于 Vue2 的多功能弹出窗口组件 v1.10.0 版本发布，更新内容： 修复连续弹出和关闭窗口时，最后一个窗口不会被关闭的问题 窗口增加部分动画效果 增加 singletonKey 配置项目，用于设置全局唯一的键值，以保证同一类型的窗口只弹出一次（例如系统错误类） 支持 i18n 国际化，自带支
  ## [Java 快速开发平台 JEECG 3.7.6，高考性能增强版本发布](https://www.oschina.net/news/96873/jeecg-3-7-6-released)
@@ -94,8 +96,6 @@ categories: IT NEWS
  > 谷歌宣布 Chrome 68 Beta 已发布，适用于 Android, Chrome OS, Linux, macOS 和 Windows 平台。可在 ChromeStatus.com 上查看 Chrome 68 的完整功能列表。 值得关注的更新 新增将 progressive web apps 
  ## [开源 PHP 电子商务网站框架 Sylius 1.2.0-RC 版发布](https://www.oschina.net/news/96855/sylius-1-2-0-rc-released)
  > Sylius 1.2.0-RC 版已发布，根据其在 GitHub 的发布说明，本次更新包含以下内容： 添加对 Symfony 4.1 的支持 (9454) 放弃对 Symfony 4.0 的支持 (9454) 增加了在 ResourceBundle 中将定制服务用作 factories/repo
- ## [PhpStorm 2018.1.5 发布，包括新功能和错误修复](https://www.oschina.net/news/96854/phpstorm-2018-1-5-released)
- > ﻿PhpStorm 2018.1.5(build 181.5281.19) 已发布，可通过 Toolbox 获取更新，也可直接下载 PhpStorm 2018.1.5。 该版本提供了新功能和 bug 修复，还采用了 IntelliJ 平台中的最新改进。有以下值得注意的 bug 修复和新特性： 当 L
  ## [百亿级日访问量的应用如何做缓存架构设计？](http://developer.51cto.com/art/201806/575721.htm)
  > 百亿级日访问量的应用如何做缓存架构设计？
  ## [开发软件时让不同团队并肩作战的10个要点](http://developer.51cto.com/art/201806/575714.htm)
@@ -224,5 +224,25 @@ categories: IT NEWS
  > 【小百摘要】小米借助上市之势，复活米聊，提出“我为更有趣的交友而奋斗”，鼓捣点信息流、大数据、直播、小游戏、办公等等，加上沉淀了这么多年的米粉一发力，这个战场还是非常值得考虑的。各位看官怎么看？
  ## [商业的基本逻辑](http://www.chanpin100.com/article/106983)
  > 【小百摘要】你知道吗？这个公式主导了几乎所有的商业模式。
+ ## [从“她”到“他”，美妆品牌五大趋势解读](http://www.pmtoo.com/article/47668.html)
+ > 如今的护肤甚至美妆已经不再是女性的专属，男士美容产品线的不断成长，也许将带来深刻的改变。图片来源：视觉中国...
+ ## [通过手术“换个性格”，了解一下？](http://www.pmtoo.com/article/47665.html)
+ > 大量的事实表明，脑损伤对人的性格的改变是显而易见的。那么如果对大脑的一些区域实施人工干预，是否有助于某种疾病的治疗...
+ ## [快手、抖音，龙头决战就在今年](http://www.pmtoo.com/article/47658.html)
+ > 每隔两周的周五下午 5 点，快手 CEO 宿华都准时出现在快手自建的咖啡厅，用一个小时来回答 5 个办公区共 2000 多名员工的问题...
+ ## [差点被创业毁掉婚姻后，我终于学会了平衡家庭和工作](http://www.pmtoo.com/article/47651.html)
+ > 我跟妻子结婚12年了，感情经历过风风雨雨后，我学到了很多东西。Jim这个人既当企业家又当丈夫。在他60岁出头的时候，...
+ ## [高考当然要靠自我奋斗](http://www.pmtoo.com/article/47647.html)
+ > 明天是高考的第一天，安徽大别山深处的“高考工厂”毛坦厂中学学生，将结束一年暗无天日的生活，坐着车牌号为“...
+ ## [虎牙：游戏直播行业的竞争不只是挖游戏主播，搭建内容生态更重要](http://www.pmtoo.com/article/47644.html)
+ > “我们认为挖游戏主播和搭建一个内容生态是两个能力，虎牙在内容生态上面的投入和沉淀会帮助公司在未来竞争中走的更远。”...
+ ## [点赞微信可以为公众号做得更多](http://www.pmtoo.com/article/47641.html)
+ > 今天一起床，发现微信害我输了 10 块钱，我去年跟一朋友打赌说微信 iOS 端今年还没法恢复赞赏，结果今天恢复了，于是我被...
+ ## [王兴、程维、张一鸣…TMD创始人的高考往事了解一下](http://www.pmtoo.com/article/47637.html)
+ > 江山代有人才出，说不定新一代的大佬，现在正在参加高考。图片来源@视觉中国马云当年高考数学只得一分的趣事，...
+ ## [苹果，谷歌，Facebook开押赌注，三场开发者大会的重点都在这里了](http://www.pmtoo.com/article/47623.html)
+ > 三场开发者大会看下来，硅谷科技互联网圈所处阶段和中国差不多：大局已定，新的“技术微创新”和商业模式都要基于现有平台，...
+ ## [婚姻对人有什么影响？这是结婚第一年人的4种改变](http://www.pmtoo.com/article/47617.html)
+ > 近朱者赤，和另一个人相处的时间足够久，最终都会或多或少被对方影响，或许开始喜欢喝同一种口味的咖啡，看同档晨间剧...
 
     
