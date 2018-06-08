@@ -1,7 +1,7 @@
 ---
 title: 2018-06-08 IT News
 copyright: true
-date: 2018-06-08 10:36:25
+date: 2018-06-08 10:37:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -132,6 +132,36 @@ categories: IT NEWS
  > Go 是一个内置支持并发编程的语言。借助使用 go 关键字去创建协程goroutine（轻量级线程）和在 Go 中提供的
  ## [融合了 JavaScript 之力的 Nashorn 或被 JDK 11 弃用](http://news.51cto.com/art/201806/575708.htm)
  > 还没有使用过 Nashorn ？如果感兴趣的话，建议尽快去尝试一下，因为 Jim Laskey 最近提交了一个新的 JEP 3
+ ## [CSDN 学院百万年薪招募 AI 讲师了！](https://blog.csdn.net/CSDNedu/article/details/80597565)
+ > CSDN 学院百万年薪招募 AI 讲师了！
+ ## [一次不太成功的项目实战：HOG特征+SVM实现交通标志的检测](https://blog.csdn.net/sinat_34474705/article/details/80502789)
+ > 一次不太成功的项目实战：HOG特征+SVM实现交通标志的检测
+ ## [提升Hive操作Amazon S3读写数据的性能](https://blog.csdn.net/fenglibing/article/details/80596556)
+ > 提升Hive操作Amazon S3读写数据的性能
+ ## [CSDN日报180607——《时代变了》](https://blog.csdn.net/blogdevteam/article/details/80615259)
+ > CSDN日报180607——《时代变了》
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [一场皆大欢喜的程序员跳槽事件](https://blog.csdn.net/GitChat/article/details/80416257)
+ > 一场皆大欢喜的程序员跳槽事件
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [就算没时光机，你也可以来这儿一窥未来世界](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80571311)
+ > 就算没时光机，你也可以来这儿一窥未来世界
+ ## [在IT技术圈混，怎么能不知道这几个公众号？](https://blog.csdn.net/bjweimengshu/article/details/80416672)
+ > 在IT技术圈混，怎么能不知道这几个公众号？
+ ## [为打造无人仓，菜鸟自研了一套柔性自动化技术](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80562414)
+ > 为打造无人仓，菜鸟自研了一套柔性自动化技术
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)](https://blog.csdn.net/ityouknow/article/details/80490925)
+ > 一次惊险的跳槽面试经历（阿里/美团/头条/网易/有赞...)
  ## [苹果抛弃 OpenGL！](https://blog.csdn.net/csdnnews/article/details/80617059)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发者...
  ## [为什么程序员会选择 Python 作为入门语言？](https://blog.csdn.net/csdnnews/article/details/80617053)
@@ -151,36 +181,6 @@ categories: IT NEWS
 # 人工智能 
  ## [人工智能用Python？高考要加入Python？！Python成为微软官方Excel脚本语言？再不学习就OUT了！](https://yq.aliyun.com/articles/600614)
  > Python适合初学者入门最好的语言人工智能用Python？高考要加入Python？现在连微软官方Excel都要把Python作为官方语...
- ## [CSDN 学院百万年薪招募 AI 讲师了！](https://blog.csdn.net/CSDNedu/article/details/80597565)
- > CSDN 学院百万年薪招募 AI 讲师了！
- ## [第十九次作业](https://blog.csdn.net/weixin_39367127/article/details/80607478)
- > 第十九次作业
- ## [TensorFlow的数据导入方法。](https://blog.csdn.net/cyoohcy/article/details/80607480)
- > TensorFlow的数据导入方法。
- ## [深度学习AI美颜系列----基于抠图的人像特效算法](https://blog.csdn.net/qq_40909394/article/details/80607497)
- > 深度学习AI美颜系列----基于抠图的人像特效算法
- ## [CVPR 2018 微表情识别论文](https://blog.csdn.net/weixin_36608043/article/details/80607524)
- > CVPR 2018 微表情识别论文
- ## [tensorflow数据读取机制](https://blog.csdn.net/pursuit_zhangyu/article/details/80607529)
- > tensorflow数据读取机制
- ## [\[机器学习\]支持向量机3——SMO算法](https://blog.csdn.net/siyue0211/article/details/80607566)
- > \[机器学习\]支持向量机3——SMO算法
- ## [TensorFlow-Slim准备自己的数据集](https://blog.csdn.net/u011092156/article/details/80607601)
- > TensorFlow-Slim准备自己的数据集
- ## [一文搞懂HMM（隐马尔可夫模型）](https://blog.csdn.net/JohinieLi/article/details/80607706)
- > 一文搞懂HMM（隐马尔可夫模型）
- ## [Python实现 灰色关联分析 与结果可视化](https://blog.csdn.net/FontThrone/article/details/80607794)
- > Python实现 灰色关联分析 与结果可视化
- ## [协方差Cov(X,Y)的含义(转)](https://blog.csdn.net/yinshuli2008/article/details/80607892)
- > 协方差Cov(X,Y)的含义(转)
- ## [深入浅出统计学 第二三章 量度](https://blog.csdn.net/FontThrone/article/details/80607927)
- > 深入浅出统计学 第二三章 量度
- ## [强化学习介绍--系列文章1](https://blog.csdn.net/zhangqiangbeijing/article/details/80608059)
- > 强化学习介绍--系列文章1
- ## [【Day1】对抗神经网络GAN](https://blog.csdn.net/Soheyi/article/details/80608102)
- > 【Day1】对抗神经网络GAN
- ## [01 统计学习方法概论](https://blog.csdn.net/Double___You/article/details/80608108)
- > 01 统计学习方法概论
 # PM 
  ## [高效能人士执行4原则，让你从日常琐事中抽身](http://www.woshipm.com/zhichang/1051897.html)
  > 工作中，有时我们需要时间去做一些非常重要的任务，但却一直被很多琐碎的工作缠身，结果最后什么也没做好。那么如何在日常事务的笼罩下去执行你们最重要的战略计划呢？...
