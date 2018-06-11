@@ -1,7 +1,7 @@
 ---
 title: 2018-06-11 IT News
 copyright: true
-date: 2018-06-11 13:36:29
+date: 2018-06-11 13:43:53
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -136,8 +136,8 @@ categories: IT NEWS
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [为打造无人仓，菜鸟自研了一套柔性自动化技术](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80562414)
  > 为打造无人仓，菜鸟自研了一套柔性自动化技术
- ## [阿里程序员吐槽：很多在这混不下去的人，都到小公司去当摆设了](https://blog.csdn.net/FPscyqs/article/details/80609421)
- > 阿里程序员吐槽：很多在这混不下去的人，都到小公司去当摆设了
+ ## [最近做大数据面试官的感想](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
+ > 最近做大数据面试官的感想
  ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提...
  ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
