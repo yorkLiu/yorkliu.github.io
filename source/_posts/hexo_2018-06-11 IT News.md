@@ -1,7 +1,7 @@
 ---
 title: 2018-06-11 IT News
 copyright: true
-date: 2018-06-11 12:20:19
+date: 2018-06-11 13:35:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -132,16 +132,28 @@ categories: IT NEWS
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [一场皆大欢喜的程序员跳槽事件](https://blog.csdn.net/GitChat/article/details/80416257)
  > 一场皆大欢喜的程序员跳槽事件
- ## [web前端相关知识](https://blog.csdn.net/weixin_41933499/article/details/80632901)
- > web前端相关知识
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [为打造无人仓，菜鸟自研了一套柔性自动化技术](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80562414)
  > 为打造无人仓，菜鸟自研了一套柔性自动化技术
+ ## [阿里程序员吐槽：很多在这混不下去的人，都到小公司去当摆设了](https://blog.csdn.net/FPscyqs/article/details/80609421)
+ > 阿里程序员吐槽：很多在这混不下去的人，都到小公司去当摆设了
+ ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提...
  ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [什么是面向故事编程？](https://blog.csdn.net/csdnnews/article/details/80649688)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
+ ## [爬了菊姐的两万条评论，竟发现菊粉都是这样的人！](https://blog.csdn.net/csdnnews/article/details/80649715)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！图片...
+ ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80649691)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
+ ## [从拼低价到秀卖点，山寨“智能电视”为什么会火?](http://www.lanjingtmt.com/news/detail/35658.shtml)
+ > 不到三百块，啥都能看的电视靠谱吗？
+ ## [因违规被约谈多次，头条和抖音为何依旧问题重重](http://www.lanjingtmt.com/news/detail/35653.shtml)
+ > 无论是抖音还是头条其它产品，外部环境压制下的改变，终究不是自省。
  ## [摩拜宣布百城免押金，无信用分等任何限制](http://www.lanjingtmt.com/news/detail/35675.shtml)
  > 据悉，目前上海尚未被包含在其中，摩拜相关人士对外透露将于晚些时候开通。
  ## [高价低配“轰炸”线下！vivo赖以生存的营销模式还能走多远？](http://www.lanjingtmt.com/news/detail/35673.shtml)
@@ -202,6 +214,8 @@ categories: IT NEWS
  ## [ORB_SLAM2视觉惯性紧耦合定位算法详解](https://blog.csdn.net/wangshuailpp/article/details/80640663)
  > ORB_SLAM2视觉惯性紧耦合定位算法详解
 # PM 
+ ## [4个角度：蚂蜂窝旅游APP思考与分析](http://www.woshipm.com/it/1053354.html)
+ > 随着时代的发展，出去旅游是时常会有的事情，尤其是在年轻一代中，他们热衷于在空余时间和朋友出去游玩，又或者是自己独自出去。而与之而来的，旅游APP也随之发展起来，...
  ## [为什么社交媒体的分工更偏女性？](http://www.woshipm.com/it/1056195.html)
  > 编者按：社交媒体的分工其实加剧了分化和隐性歧视，在公司改变它们的招聘方式之前，这种分化只会越来越根深蒂固。招聘技术类职位的公司通常会在招聘广告中加入对男性...
  ## [影响力的6大原则：好感、互惠、社会认同、承诺和一致性、权威、稀缺](http://www.woshipm.com/it/1033237.html)
@@ -224,8 +238,6 @@ categories: IT NEWS
  > 从迷茫到清晰，也就是跨入了一个新的境界，眼界等皆不同以往了。enjoy~由于厌倦了上家公司里的各种背锅、勾心斗角、相互倾轧，感觉自己天天忙忙碌碌，碌碌无为，整个...
  ## [详细解析：为何小红书APP让人爱不释手？](http://www.woshipm.com/evaluating/1006179.html)
  > 最近的小红书的内容社区做的很火，作者也用了小红书一年多，在电商市场上几乎被垄断，以“社交+电商”杀出重围，所以本文是作者对小红书该产品的具体分析以及见解。一、...
- ## [五维自检法：一套图标设计的评判体系](http://www.woshipm.com/ucd/1055729.html)
- > 最近在做图标的优化调整，虽然改动不大，但在复盘的时候还是总结出很多心得，在这里和大家分享一下。图标是界面设计中最重要的元素之一，也是我们UI设计师必备的技能...
  ## [头条VS腾讯：中国的互联网，需要什么样的价值观？](http://www.chanpin100.com/article/107005)
  > 【小百摘要】唯有进行产品迭代转型，拥抱开放，不断搭建更加成熟的生态圈，以更加“诚恳”的态度来满足用户需求，才能在这一场“跑马圈地”中走的更远。
  ## [当陆奇成为萨提亚·纳德拉的老板](http://www.chanpin100.com/article/107006)
