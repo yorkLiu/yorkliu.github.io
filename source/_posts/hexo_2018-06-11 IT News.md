@@ -1,7 +1,7 @@
 ---
 title: 2018-06-11 IT News
 copyright: true
-date: 2018-06-11 13:45:16
+date: 2018-06-11 17:55:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -32,6 +32,14 @@ categories: IT NEWS
  > 微服务应用在容器化后，日志的查询就会变成困难的问题，虽说有\[portainer\](https://portainer.io/)这类的容器管理工具，能够方便的查询每个容器中的日志，但容器到达一定数量后，尤其是应用有多个实例时候，查询就成了头疼的问题。所以我们采用了Kafka-Logstash-Elas
  ## [优雅的处理你的Java异常](https://my.oschina.net/c5ms/blog/1827907)
  >  本文介绍 本文仅按照业务系统开发角度描述异常的一些处理看法.不涉及java的异常基础知识,可以自行查阅 **《Java核心技术 卷I》** 和 **《java编程思想》** 可以得到更多的基础信息. 在开发业务系统中,我们目前绝大多数采用MVC模式,但是往往有人把service跟controll
+ ## [Jenkins 2.127 发布，可扩展的持续集成引擎](https://www.oschina.net/news/96964/jenkins-2-127-released)
+ > Jenkins 2.127 发布了，目前没有发现更新信息，您可以查看提交日志了解详情。 Jenkins 是一个可扩展的持续集成引擎，前身是 Hudson。 主要用于： 1.持续、自动地构建/测试软件项目，如CruiseControl与DamageControl。 2.监控一些定时执行的任务。 下载地
+ ## [历经 35 个版本迭代，NG-ZORRO 1.0.0 发布](https://www.oschina.net/news/96963/ng-zorro-1-0-0-released)
+ > 10个月之前我们发布了 NG-ZORRO 的第一个版本，在这 10个月的时间里，我们接收了超过 35 个 contributor 的 386 次 Commit。 在经过了 35 个版本的迭代之后，1.0 版本在今天正式发布。 1.0 版本基于最新的 Angular ^6.0.0 与 RxJS ^6.
+ ## [企业级数字化服务平台 Choerodon 猪齿鱼发布 0.6 版本](https://www.oschina.net/news/96960/choerodon-0-6-released)
+ > Choerodon猪齿鱼是一个开源企业服务平台，是基于Kubernetes的容器编排和管理能力，整合DevOps工具链、微服务和移动应用框架，来帮助企业实现敏捷化的应用交付和自动化的运营管理，并提供IoT、支付、数据、智能洞察、企业应用市场等业务组件，来帮助企业聚焦于业务，加速数字化转型。 2018
+ ## [NutzBoot v2.2.0 没有华丽的标题，只有朴素的代码](https://www.oschina.net/news/96959/nutzboot-v-2-2-0-released)
+ > NutzBoot  v2.2.0 &quot;荷塘月色&quot; 发布了，此版本完善了 serlvet 容器(jetty/undertow/tomcat)对 web.xml 的替代性配置。 时间: 2018-06-11 曲目: 荷塘月色 兼容性: 与2.0.x/2.1.x完全兼容 变更: add: tomcat也需要
  ## [J-IM v2.1.0 发布，支持 SSL/TLS 安全加密传输](https://www.oschina.net/news/96956/j-im-v2-1-0-released)
  > J-IM 2.1.0 发布了，J-IM 是用 JAVA 语言,基 于t-io 开发的轻量、高性能、支持几十万至百万在线用户的IM(即时通讯)框架,它的主要目标降低即时通讯门槛，使用者基于它可以极快速、低成本的打造接入自己的高性能即时通讯服务器，并且通过极简洁的消息格式(JSON)就可以实现多端不同协
  ## [无垠式 Java 通用代码生成器 Ada 1.5.0 正式版已发布](https://www.oschina.net/news/96955/ada-1-5-0-released)
@@ -60,84 +68,78 @@ categories: IT NEWS
  > 日前，有 bleepingcomputer 网友发现，在6月6日的时候 Windows 10出现了一项新功能，允许用户远程安装应用程序到其它设备中。 据该网友介绍，该新功能名叫“Install on my devices”，即”安装到我的设备”，它指的是，当用户在网页版的 Microsoft Sto
  ## [每日一博 | 使用过滤器和拦截器实现 REST 接口安全认证](https://my.oschina.net/u/3854434/blog/1824961)
  > 本文通过一个简易安全认证示例的开发实践，理解过滤器和拦截器的工作原理。很多文章都将过滤器（Filter）、拦截器（Interceptor）和监听器（Listener）这三者和Spring关联起来讲解，并认为过滤器（Filter）、拦截器（Interceptor）和监听器（Listener）是Spri
- ## [cy-ui — 基于 layui 的纯前端框架](https://www.oschina.net/p/cy-ui)
- > cy-ui 是基于 layui 的纯前端框架。特点是1.基于原生layui源码,替换layui文件即可完成升级！2.前端声明式组件封装、附带文档编写 ctrl+c ctrl+v 即可使用。封装数据源，可通过url、枚举、字典直接渲染组件。代码量极少且易维护。3.引入vue组件,组件库更全面！4.常用
+ ## [FilePizza —— 在浏览器中进行点对点文件传输](https://www.oschina.net/p/filepizza)
+ > 你可以通过 FilePizza 在浏览器中点对点传输文件。使用 WebRTC，FilePizza 消除了其他基于 Web 的文件共享服务所需的初始上传步骤。
  ## [码云推荐 | Android 自定义 SeekBar 库  TickSeekBar](https://gitee.com/zhuangguangquan/TickSeekBar)
  > TickSeekBar 是一个安卓自定义SeekBar库。 另外, 如果你需要指示器显示在 SeekBar 的顶部, 请看另外一个 SeekBar库。seekbar上每一块track的颜色都能被设置。你可以为滑块和tick标记设置StateListDrawable 或者 ColorStateList
- ## [OSChina 周一乱弹 —— 你老婆和闺蜜总用奇怪的眼神看着你](https://my.oschina.net/xxiaobian/blog/1827880)
- > 耗资约2亿美元，占地面积相当于两个网球场的美国超级计算机“顶点”，在华盛顿时间6月8日，终于让美国能源源部下属的橡树岭国家实验室扬眉吐气了一把。这台超级计算机浮点运算速度峰值达每秒20亿亿次，世界最强。
- ## [Windows 的 JScript 组件被曝存在一个 0day RCE](https://www.oschina.net/news/96937/jscript-component-0day)
- > 近期，Telspace Systems公司的安全研究专家Dmitri Kaslov在Windows操作系统的JScript组件中发现了一个严重的安全漏洞，而这个漏洞将允许攻击者在目标主机上执行恶意代码。 在今年的一月份，Kaslov通过趋势科技Zero-Day Initiative（ZDI）服务发现
- ## [码云 Pages 全面改进上线 —— 你想要的应该都有](https://www.oschina.net/news/96936/gitee-pages-upgrade)
- > 码云 Pages 是一个基于 Jekyll 静态网站服务，可以用它来制作个人博客、简历、项目主页、个人主页等等。具体的使用方法请看这里。  上周我们刚刚对该服务进行全面改进： 支持发布仓库中某个目录（ 例如你可以将项目的文档目录 doc 发布成静态网页 ） 支持自定义域名（如 https://www
- ## [Redmine 3.4.6 and 3.3.8 ，项目管理和缺陷跟踪工具](https://www.oschina.net/news/96935/redmine-3-4-6-and-3-3-8-released)
- > Redmine 3.4.6 和 3.3.8 发布了，Redmine 是一个开源的、基于 Web 的项目管理和缺陷跟踪工具。它用日历和甘特图辅助项目及进度可视化显示。同时它又支持多项目管理，提供集成的项目管理功能，问题跟踪，并为多个版本控制选项的支持。 主要更新内容如下： 3.4.6 \[Issues\]
+ ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
+ > 一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史
+ ## [古老东方的终极奥义――智能美颜](http://ai.51cto.com/art/201806/575875.htm)
+ > 古老东方的终极奥义――智能美颜
  ## [天没有塌下来！这里有GitHub之外的五个最佳选择](http://os.51cto.com/art/201806/575822.htm)
  > 天没有塌下来！这里有GitHub之外的五个最佳选择
  ## [从构建分布式秒杀系统聊聊限流特技](http://developer.51cto.com/art/201806/575867.htm)
  > 从构建分布式秒杀系统聊聊限流特技
  ## [大龄程序员没有出路，真的如此吗？（文末有彩蛋）](http://news.51cto.com/art/201806/575844.htm)
  > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
+ ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
+ > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
  ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
  > 外媒速递：数据科学领域的十二大常见认知错误
  ## [万字长文！资深大牛谈游戏程序员的个人修炼](http://news.51cto.com/art/201806/575842.htm)
  > 万字长文！资深大牛谈游戏程序员的个人修炼
- ## [两个成倍提高工作效率的 Vim 使用技巧](http://server.51cto.com/Net-575864.htm)
- > 两个成倍提高工作效率的 Vim 使用技巧
- ## [爬了菊姐2W条微博评论，竟发现“菊粉”都是这样的人！（附代码）](http://developer.51cto.com/art/201806/575841.htm)
- > 爬了菊姐2W条微博评论，竟发现“菊粉”都是这样的人！（附代码）
- ## [基于Python来开发一个QQ机器人，原来这么简单！](http://developer.51cto.com/art/201806/575795.htm)
- > 基于Python来开发一个QQ机器人，原来这么简单！
- ## [腾讯新总部曝光，藏着让4万员工拼命工作的套路！](http://server.51cto.com/News-575868.htm)
- > 看一个老板有没有格局就看他身边的人，有没有赚大钱就行了。一个人不愿意把钱分出去，把名让出去，把权利放
- ## [十个企业应该注意的云安全问题](http://netsecurity.51cto.com/art/201806/575866.htm)
- > 服务器虚拟化在带来种种好处的基础上也引入了新的安全威胁，如虚拟机之间的互相攻击，随时启动的防护间歇等
- ## [盘点中国第一代程序员，看尽中国软件的前世今生](http://developer.51cto.com/art/201806/575865.htm)
- > 过去的20年，是中国程序员快意恩仇的江湖时代，程序员通过知识实现梦想和财富。历数曾经的数字英雄，名利双
- ## [刚刚：工信部要求三大运营商自查“不限量”套餐！](http://news.51cto.com/art/201806/575863.htm)
- > 当前“不限量”套餐宣传中存在的问题，全行业立即开展自查工作！！三家基础电信企业均表示将严格落实会议要
- ## [破解虚拟化“尴尬”的方式：数据中心“云”化](http://network.51cto.com/art/201806/575861.htm)
- > 相比以前“真实”的物理设备来说，企业将虚拟化技术引入内部网络，将更多的数据资源放在资源池当中，使得数
- ## [有史以来最牛的一张程序员职业路线图！](http://developer.51cto.com/art/201806/575859.htm)
- > 最近在琢磨程序员到底路在何方，经过不断的自虐和代入，终于在迷雾森林中得图一张，看之豁然开朗。独乐乐不
- ## [数据中心管理：DMaaS提供了哪些DCIM所不具备的功能?](http://server.51cto.com/Datacenter-575858.htm)
- > 数据中心管理即服务(DMaaS)是一项基于云计算的远程监控服务，它汇总并分析大量匿名客户数据，以帮助企业更
- ## [警惕！数据中心这五种情况不适合系统中心虚拟机管理器](http://server.51cto.com/Datacenter-575857.htm)
- > 系统中心虚拟机管理器(SCVMM)已然被数据中心业界普遍认为是市场上最为领先的Hyper-V管理平台之一。但事实上
- ## [区块链开发者速看：一个方便的Bluffer指南](http://server.51cto.com/OS-575856.htm)
- > 什么是区块链技术?其核心是区块链是一个分类帐。它是交易的数字分类帐，同时由多个来源分发，验证和监控。
- ## [Windows Server 2019中SDN的重大改进](http://virtual.51cto.com/art/201806/575855.htm)
- > 许多适用于Windows Server 2019的SDN的组件吸引了早期采用者的注意，包括安全性、合规性、灾难恢复、业务连
+ ## [百度发布尝鲜价89元“小度智能音箱” 投下儿童模式、极客模式两枚重磅炸弹](http://ai.51cto.com/art/201806/575903.htm)
+ > 6月11日，百度正式发布首款自有品牌智能音箱“小度智能音箱”。这款号称百度AI“小当家”的智能音箱具备伶
+ ## [职业讨债人要失业了？人工智能就是这样让人乖乖还钱的](http://ai.51cto.com/art/201806/575897.htm)
+ > 据外媒报道，人工智能可以分析文本，找到最合适的语气与债主对话;它还可以通过分析找到债主的地理位置，或
+ ## [上海人才大数据：上下班1小时，年薪30万](http://bigdata.51cto.com/art/201806/575895.htm)
+ > 近日，一部电视剧《上海女子图鉴》将“上海中高端人才”推上了热议话题，也引起了很多人对上海中高端人才的
+ ## [三招提升数据不平衡模型的性能（附python代码）](http://bigdata.51cto.com/art/201806/575894.htm)
+ > 针对数据不平衡问题有相应的处理办法，比如对多数样本进行采样使得其样本数量级与少样本数相近，或者是对少
+ ## [Oracle声称它可以将云迁移成本将低30%，但客户会买账吗？](http://cloud.51cto.com/art/201806/575893.htm)
+ > 众所周知，在所有IT项目中，ERP系统的迁移可能是其中最耗费资金的。 一次性的实施过程的成本可能就达到了百
+ ## [从迷思到现实：必需知道这三点才能称得上懂沙箱](http://server.51cto.com/sSecurity-575882.htm)
+ > 因为能在威胁真正影响到生产环境之前做测试，沙箱一直被标榜为预防网络攻击的高级方法。但这种方法有没有
+ ## [一步步教你编写不可维护的PHP代码](http://developer.51cto.com/art/201806/575885.htm)
+ > 编写不可维护的代码是一个特殊的技能，但奇怪的是，似乎对某些开发者来说是很自然的。不过对于剩下的开发者
+ ## [企业如何避免“云陷阱”？](http://cloud.51cto.com/art/201806/575883.htm)
+ > 如今，云计算技术正在帮助企业扩大规模，以满足不断增长的客户的需求，同时不会丧失灵活性或收入。对于那些
+ ## [东方世界杨潇：AR开发技术点探索](http://ai.51cto.com/art/201806/575888.htm)
+ > 据市场调研公司Digi-Capital数据：到2020年，AR市场规模将达到1200亿美元。AR发展如此迅猛，自然少不了背
+ ## [NVIDIA新一代GeForce显卡7月30日发布？](http://biz.51cto.com/art/201806/575880.htm)
+ > 在6月4日台北君悦饭店的媒体采访活动中，NVIDIA CEO黄仁勋给外界“泼了一盆冷水”，他透露新一代GeForce还
  ## [CSDN日报180607——《时代变了》](https://blog.csdn.net/blogdevteam/article/details/80615259)
  > CSDN日报180607——《时代变了》
  ## [一次不太成功的项目实战：HOG特征+SVM实现交通标志的检测](https://blog.csdn.net/sinat_34474705/article/details/80502789)
  > 一次不太成功的项目实战：HOG特征+SVM实现交通标志的检测
- ## [从CPU cache一致性的角度看Linux spinlock的不可伸缩性(non-scalable)](https://blog.csdn.net/dog250/article/details/80589442)
- > 从CPU cache一致性的角度看Linux spinlock的不可伸缩性(non-scalable)
  ## [提升Hive操作Amazon S3读写数据的性能](https://blog.csdn.net/fenglibing/article/details/80596556)
  > 提升Hive操作Amazon S3读写数据的性能
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
+ ## [分布式一致性方案](https://blog.csdn.net/benhuo931115/article/details/80614986)
+ > 分布式一致性方案
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [在IT技术圈混，怎么能不知道这几个公众号？](https://blog.csdn.net/bjweimengshu/article/details/80416672)
  > 在IT技术圈混，怎么能不知道这几个公众号？
  ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
  > 人脸识别、AI与大数据：技术挑战与突破
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [一场皆大欢喜的程序员跳槽事件](https://blog.csdn.net/GitChat/article/details/80416257)
- > 一场皆大欢喜的程序员跳槽事件
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [为打造无人仓，菜鸟自研了一套柔性自动化技术](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80562414)
- > 为打造无人仓，菜鸟自研了一套柔性自动化技术
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
  ## [最近做大数据面试官的感想](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80345385)
  > 最近做大数据面试官的感想
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [一场皆大欢喜的程序员跳槽事件](https://blog.csdn.net/GitChat/article/details/80416257)
+ > 一场皆大欢喜的程序员跳槽事件
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
+ ## [为打造无人仓，菜鸟自研了一套柔性自动化技术](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80562414)
+ > 为打造无人仓，菜鸟自研了一套柔性自动化技术
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
+ ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
  ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提...
  ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
@@ -173,6 +175,32 @@ categories: IT NEWS
  ## [知乎商业化遭质疑：大V很赚钱，知乎不赚钱](http://www.lanjingtmt.com/news/detail/35660.shtml)
  > 作为一个知识社区，知乎的商业模式并不明朗。
 # 人工智能 
+ ## [6月9日云栖精选夜读丨普京点赞中国数字经济背后 阿里巴巴正在改变俄罗斯商业](https://yq.aliyun.com/articles/601405)
+ > 俄罗斯总统普京近日接受中央广播电视总台专访时，大力点赞中国发展数字经济的成就，称对中国物联网和电子商务印象深刻。 普京表示，中国在现代经济形态，以及诸如数字经济这样有发展前景的领域中做出了巨大的努力，并且取得了显著成绩，如物联网和电子商务。
+ ## [教机器遗忘或许比学习更重要：让AI健忘的三种方式](https://yq.aliyun.com/articles/601401)
+ > 大部分人不会喜欢遗忘的感觉。回到家顺手把钥匙丢在一个角落就再也想不起来放在哪儿了，街角偶遇一个同事却怎么拍脑袋也叫不出他的名字……我们害...
+ ## [美国专家：人工智能凛冬将至](https://yq.aliyun.com/articles/601390)
+ > 自深度学习（deep learning）技术问世后，许多人都相信这将是带领我们逐步走入「通用AI」（general AI）梦想的关键，企业领导者也都在演讲中谈及AI 时代将会如何来临，然而事情真的如此顺利吗？电脑视觉与AI 领域专家Filip Piekniewski 并不这么认为，近日在博客的一篇文
+ ## [异构计算成主流，芯片大整合时代到来](https://yq.aliyun.com/articles/601345)
+ > 异构时代正在到来我们知道，此前在半导体产业，一般的芯片公司都只专注于少数几种种芯片，但近年来，芯片公司除了之前的纵向发展提升速度外，也越...
+ ## [CentOS7.X下安装Gearman-1.1.17及其PHP-7.X扩展](https://yq.aliyun.com/articles/601310)
+ > CentOS7.X下安装Gearman-1.1.17及其PHP-7.X扩展
+ ## [ET大脑与寒武纪：看阿里云的最强计算决心](https://yq.aliyun.com/articles/601270)
+ > 在2018年6月7日的上海云栖大会上，阿里云宣布，将为吉隆坡提供ET城市大脑，助力城市治理。这是中国的数字化基础设施，第一次输出到世界，更是...
+ ## [深度 | 驻云为你解析上海云栖六大看点](https://yq.aliyun.com/articles/601245)
+ > 驻云同学直击上海云栖大会，独家挖掘最有价值的信息（文末还有彩蛋）
+ ## [麻省理工成立金融科技实验室，蚂蚁金服成唯一中国创始企业](https://yq.aliyun.com/articles/601152)
+ > 小蚂蚁说：近日，美国麻省理工学院计算机科学与人工智能实验室在其高校合作伙伴年会上正式宣布成立MIT金融科技实验室，该研究项目依托于M...
+ ## [资源 | 阿里发布免费深度学习课程：感知机梳理（附链接）](https://yq.aliyun.com/articles/601149)
+ > 在2018 云栖大会·上海峰会上，阿里巴巴发布了免费的天池深度学习课程，涵盖了神经网络基础、CNN、RNN、递归网络、强化学习以及 GAN...
+ ## [DFSMN在阿里巴巴的应用以及如何采用开源代码训练DFSMN模型](https://yq.aliyun.com/articles/601146)
+ > DFSMN模型是语音识别中一种先进的声学模型，语音识别中的声学模型是语音识别技术中的核心所在。具体来说，声学模型是根据输入语音进行发音可能性...
+ ## [送你一份机器/深度学习自学指南（附视频&速成方案）](https://yq.aliyun.com/articles/601144)
+ > 回答这个问题，最先要考虑的问题是：你有多少时间？准备用三个月入门，和想要一个月速成，肯定是截然不同的路径。当然我建议大家稳扎稳打，至少可...
+ ## [这一本书教你用Python快速入门深度神经网络](https://yq.aliyun.com/articles/601142)
+ > 2016年年初，传奇的围棋棋手李世石与一个围棋界的“新手”开始了一系列举世瞩目的较量。围棋是一种棋盘类游戏，于2500年前发源于中国。它...
+ ## [MIT的实验室里，诞生了一个《惊魂记》版AI精神病患者](https://yq.aliyun.com/articles/601122)
+ > 不知道你有没有看过希区柯克的电影《惊魂记》。整部电影弥漫着惊悚和恐怖的气息，直到结尾，你还不得不接受来自精神分裂的汽车旅馆老板Norman...
  ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://yq.aliyun.com/articles/601113)
  > 还在为找不到机器学习的API而烦恼吗？本篇文章将介绍一个包含50+关于人脸和图像识别，文本分析，NLP，情感分析，语言翻译，机器学习和预测...
  ## [联手马斯克创立神秘组织，他正改写人类与AI的未来](https://yq.aliyun.com/articles/601112)
@@ -187,14 +215,6 @@ categories: IT NEWS
  > CSDN日报180607——《时代变了》
  ## [RON 算法及代码笔记](https://blog.csdn.net/u014380165/article/details/80645075)
  > RON 算法及代码笔记
- ## [Kaggle实战之leaf classification（树叶分类）](https://blog.csdn.net/qq_29462849/article/details/80640285)
- > Kaggle实战之leaf classification（树叶分类）
- ## [深度学习之TensorFlow学习（一）](https://blog.csdn.net/hugolyl/article/details/80640286)
- > 深度学习之TensorFlow学习（一）
- ## [数据处理练习](https://blog.csdn.net/qq_35783731/article/details/80640303)
- > 数据处理练习
- ## [站在巨人的肩膀上：Caffe finetune](https://blog.csdn.net/xiezongsheng1990/article/details/80640323)
- > 站在巨人的肩膀上：Caffe finetune
  ## [维特比算法代码](https://blog.csdn.net/bian_h_f612701198412/article/details/80640328)
  > 维特比算法代码
  ## [半监督学习总结](https://blog.csdn.net/CangHaier/article/details/80640342)
@@ -213,31 +233,35 @@ categories: IT NEWS
  > 讲道理 | 特征值和特征向量意义
  ## [ORB_SLAM2视觉惯性紧耦合定位算法详解](https://blog.csdn.net/wangshuailpp/article/details/80640663)
  > ORB_SLAM2视觉惯性紧耦合定位算法详解
+ ## [标签传播算法](https://blog.csdn.net/class_brick/article/details/80640671)
+ > 标签传播算法
+ ## [ORB_SLAM2视觉惯性紧耦合定位技术路线与代码详解0——理论基础知识](https://blog.csdn.net/wangshuailpp/article/details/80640672)
+ > ORB_SLAM2视觉惯性紧耦合定位技术路线与代码详解0——理论基础知识
+ ## [共用y轴的双图形绘制](https://blog.csdn.net/zhuiqiuuuu/article/details/80640696)
+ > 共用y轴的双图形绘制
+ ## [三个实例搞定MATLAb二维曲线图（绘制图像）](https://blog.csdn.net/qq_27495157/article/details/80640705)
+ > 三个实例搞定MATLAb二维曲线图（绘制图像）
 # PM 
- ## [4个角度：蚂蜂窝旅游APP思考与分析](http://www.woshipm.com/it/1053354.html)
- > 随着时代的发展，出去旅游是时常会有的事情，尤其是在年轻一代中，他们热衷于在空余时间和朋友出去游玩，又或者是自己独自出去。而与之而来的，旅游APP也随之发展起来，...
- ## [为什么社交媒体的分工更偏女性？](http://www.woshipm.com/it/1056195.html)
- > 编者按：社交媒体的分工其实加剧了分化和隐性歧视，在公司改变它们的招聘方式之前，这种分化只会越来越根深蒂固。招聘技术类职位的公司通常会在招聘广告中加入对男性...
- ## [影响力的6大原则：好感、互惠、社会认同、承诺和一致性、权威、稀缺](http://www.woshipm.com/it/1033237.html)
- > 影响力的六大原则是什么？我们如何利用这6大原则来提高自己的影响力，转而提高自己的工作效率？本文通过具体的一些案例结合，向大家详细的解说，一起来看看~读过罗伯...
- ## [案例分析：如何用高水准的作品集敲开大公司大门](http://www.woshipm.com/zhichang/1055265.html)
- > 我的简历曾经收到滴滴、ofo、360、聚美、京东、每日优鲜等名企的面试邀请，所以我的简历设计思路是能扣开名企大门的，剩下的就要看气场合不合和面试技巧了（可能我气场...
- ## [发布1年营收超1亿，2年多2000万用户，得到APP是如何一步步走到今天的？](http://www.woshipm.com/evaluating/1054182.html)
- > 如果你没听过得到APP，那么，你可能听说过「罗辑思维」，得到APP是罗辑思维团队花费2年多时间，打磨的一款知识服务类产品，主要通过语音+图文的方式，付费提供知识服务...
- ## [3步阐述：简单的搜索框，为何不简单？](http://www.woshipm.com/pd/1055790.html)
- > 搜索功能是几乎每个产品的通用标配功能，一个看似简单的搜索框背后，其实隐含了大量的设计思考和技术壁垒。本文将从三个部分阐述，为何搜索框并不简单。本文将从搜索...
- ## [深入浅出：后台产品的核心能力](http://www.woshipm.com/pmd/1055717.html)
- > 一直以来，市面上的书籍以及培训课程，都围绕着前端产品经理在介绍，将更多的重心放在产品经理对于用户、需求、场景的理解，以及对前端交互界面以及用户体验的设计上。...
- ## [你可能会提供好服务，但是不知道怎么提供好体验](http://www.woshipm.com/user-research/1055198.html)
- > 我们总是认为自己提供了最好的服务，但很多时候用户都不买账；只是因为，我们需要提供的是“好体验”而不是“好服务”。体验经济这个概念已经被讲了许多年，我们一点都不...
- ## [抢占AI翻译赛道，搜索平台为何不约而同发力NMT？](http://www.woshipm.com/ai/1055471.html)
- > 不论是国外的谷歌，还是国内的搜索巨头百度、搜狗、360等，均把NMT作为AI翻译的标配，翻译集中的领域在中英互译上，这是一个很有趣的现象。AI翻译真的是块肥肉吗？为什...
- ## [写给大家的4个新媒体写作建议](http://www.woshipm.com/copy/1056040.html)
- > 本文作者将结合自身经验，与大家分享4个他自己在公众号写文章过程中的想法， enjoy~微信的火爆，也带火了另一句话——再小的个体也有自己的品牌！这句话讲得特别好，人...
- ## [离职放空期间，关于前端产品职业发展，我是如何从迷茫到清晰的](http://www.woshipm.com/pmd/1055838.html)
- > 从迷茫到清晰，也就是跨入了一个新的境界，眼界等皆不同以往了。enjoy~由于厌倦了上家公司里的各种背锅、勾心斗角、相互倾轧，感觉自己天天忙忙碌碌，碌碌无为，整个...
- ## [详细解析：为何小红书APP让人爱不释手？](http://www.woshipm.com/evaluating/1006179.html)
- > 最近的小红书的内容社区做的很火，作者也用了小红书一年多，在电商市场上几乎被垄断，以“社交+电商”杀出重围，所以本文是作者对小红书该产品的具体分析以及见解。一、...
+ ## [3个方面解读：心理付费行业“法”、“术”、“势”](http://www.woshipm.com/it/1056085.html)
+ > 本文主要是结合在知识付费行业火热的背景下，对于心理付费行业进行分析。文章作者以行业一线的运营者视角，跟大家讨论“法”、“术”、“势”三个方面。2018年在知识付费行...
+ ## [P2P存管资金端为例：如何从0到1的设计一个产品](http://www.woshipm.com/pd/1056324.html)
+ > 如何去设计一款产品？首先我们应该明确产品目标，在做这个产品之前，我们要知道产品的战略发展方向，我们要清楚的知道我们的产品要解决什么问题？然后在带着这些问题去...
+ ## [案例分享：如何用红包裂变推广增加APP的下载量？](http://www.woshipm.com/marketing/1056336.html)
+ > 膨胀红包的玩法很简单，进入膨胀红包活动区，输入红包金额，让红包膨胀一会，然后再把红包分享给好友，好友即可收到一个最低1.1倍，最高10倍的膨胀红包。而苏宁正是通过...
+ ## [优惠券系统应该如何设计？](http://www.woshipm.com/pd/1056437.html)
+ > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时使用（优惠优先级）、使用规则等。那优惠券系统...
+ ## [街兔电单车产品需求文档](http://www.woshipm.com/pd/1055298.html)
+ > 闲来无事，于是想通过自己的长时间的产品体验，倒推出街兔app的产品需求文档，同时也锻炼自己的产品需求文档撰写能力，当然更是为了自己仅有的几个订阅读者有文可看，哈...
+ ## [抖音带火的红利新玩法：城市营销](http://www.woshipm.com/marketing/1056382.html)
+ > 重庆的洪崖洞因为抖音而大火，西安的旅游人数因抖音而大量增加，甚至是拉动了城市经济的增长。而在这个基础上，一大波的一二线城市，利用相关的音乐，配上自己城市著名...
+ ## [3个案例来分析：用户体验，别迷信权威](http://www.woshipm.com/user-research/1056198.html)
+ > 本文作者主要是通过三个案例来表达他自己的看法，在用户体验上，不能太迷信权威。因为权威有时也会出错，你自己的观点和想法也许更有价值。关于这个主题的思考由来已...
+ ## [盒马鲜生商业模式与运营全面解剖](http://www.woshipm.com/it/1056636.html)
+ > 盒马鲜生属于阿里新零售模式探索的先锋部队，为支付宝渗透线下零售业提供助力，并从“生鲜超市+餐饮”新业态进行探索，提升与腾讯京东电商平台的竞争力。本文是关于盒马鲜...
+ ## [线下课程丨闭关一年，我和我的课研团队只做了一件事…](http://www.woshipm.com/active/1056279.html)
+ > 品牌仅仅是logo+slogan吗？营销就是简单的推销产品吗？公关大战只有BAT才会遇到吗？互联网公司和中小公司真的不需要品牌营销吗？——人人都是产品经理社群和天天问关...
+ ## [产品未来方法论：基于区块链的DApp设计要点](http://www.woshipm.com/pd/1056082.html)
+ > DApp是其后端在去中心化的点对点网络上运行，源代码是开源的，网络中不存在能够完全控制DApp的节点。本文基于区块链，谈谈DApp的设计要点。当你打算在应用市场上传并...
  ## [头条VS腾讯：中国的互联网，需要什么样的价值观？](http://www.chanpin100.com/article/107005)
  > 【小百摘要】唯有进行产品迭代转型，拥抱开放，不断搭建更加成熟的生态圈，以更加“诚恳”的态度来满足用户需求，才能在这一场“跑马圈地”中走的更远。
  ## [当陆奇成为萨提亚·纳德拉的老板](http://www.chanpin100.com/article/107006)
