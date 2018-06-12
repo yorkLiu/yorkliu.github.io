@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 12:45:13
+date: 2018-06-12 12:47:20
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -142,36 +142,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 你在家里运行着一台 Linux 服务器，它放在一个 NAT 路由器或者限制性防火墙后面。现在你想在外出时用 SSH
  ## [Python相比Java，谁更胜一筹呢？](http://developer.51cto.com/art/201806/575965.htm)
  > 近几年来，随着人工智能的火爆，Python一直处于各种流行编程语言排名的前列。该语言几乎可以用于任何事情。
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [数据结构与算法（九）Set集合和BinarySearchTree的时间复杂度分析](https://blog.csdn.net/johnny901114/article/details/80628876)
- > 数据结构与算法（九）Set集合和BinarySearchTree的时间复杂度分析
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
- ## [Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧](https://blog.csdn.net/sinyu890807/article/details/80586028)
- > Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
- > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
- ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
- > 怎么花140万美元“低价”，喜提300万美元豪宅？
- ## [十年华为女员工告别帖：在华为混得很一般，离职去事业单位养老](https://blog.csdn.net/FPscyqs/article/details/80620833)
- > 十年华为女员工告别帖：在华为混得很一般，离职去事业单位养老
- ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
- > 《技术人求职指南》（二）如何写好简历
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -213,36 +183,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
- > 普林斯顿 微积分读本 修订版 PDF 130MB
- ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
- > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
- ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
- > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
- ## [【转译】 Visualization教程——PCLPlotter类](https://blog.csdn.net/liukunrs/article/details/80653239)
- > 【转译】 Visualization教程——PCLPlotter类
- ## [python 包的使用 （二）——tesseract识别图片中的文字](https://blog.csdn.net/weixin_41988628/article/details/80653245)
- > python 包的使用 （二）——tesseract识别图片中的文字
- ## [项亮《推荐系统实践》——使用LFM隐语义模型进行Top-N推荐](https://blog.csdn.net/fuqiuai/article/details/80653267)
- > 项亮《推荐系统实践》——使用LFM隐语义模型进行Top-N推荐
- ## [R 语言 optim 使用](https://blog.csdn.net/taojiea1014/article/details/80653286)
- > R 语言 optim 使用
- ## [周志华《Machine Learning》学习笔记 2   ——性能度量](https://blog.csdn.net/zhuangV587/article/details/80653292)
- > 周志华《Machine Learning》学习笔记 2   ——性能度量
- ## [深度学习在CTR中的应用](https://blog.csdn.net/qq_38150441/article/details/80653365)
- > 深度学习在CTR中的应用
- ## [基于大规模机器学习模型的推荐系统](https://blog.csdn.net/LegenDavid/article/details/80653424)
- > 基于大规模机器学习模型的推荐系统
- ## [AUC上升CTR一定上升么](https://blog.csdn.net/LegenDavid/article/details/80653433)
- > AUC上升CTR一定上升么
- ## [非线性优化与g2o](https://blog.csdn.net/qq_40213457/article/details/80653462)
- > 非线性优化与g2o
- ## [机器学习tips：什么是pipeline？](https://blog.csdn.net/qq_39521554/article/details/80653463)
- > 机器学习tips：什么是pipeline？
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
