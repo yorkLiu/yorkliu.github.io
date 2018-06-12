@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:28:42
+date: 2018-06-12 10:28:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -122,56 +122,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
  ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
  > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
- ## [10 款程序员必备的免费开源安全工具，助你成为极客](http://news.51cto.com/art/201806/575967.htm)
- > 信息安全工程师、网络安全产品以及相关的技术和流程都需要耗费企业大量的成本，对于大部分企业来说，往往
- ## [如何通过反向 SSH 隧道访问 NAT 后面的 Linux 服务器](http://server.51cto.com/sOS-575968.htm)
- > 你在家里运行着一台 Linux 服务器，它放在一个 NAT 路由器或者限制性防火墙后面。现在你想在外出时用 SSH
- ## [Python相比Java，谁更胜一筹呢？](http://developer.51cto.com/art/201806/575965.htm)
- > 近几年来，随着人工智能的火爆，Python一直处于各种流行编程语言排名的前列。该语言几乎可以用于任何事情。
- ## [PYPL 6 月 IDE 指数榜：IntelliJ 追上 Sublime Text](http://news.51cto.com/art/201806/575966.htm)
- > PYPL 6 月的 IDE 指数榜单 Top IDE index 已经发布了，本月排名前 3 位的 IDE 与上个月相同，分别是 Visu
- ## [TIOBE 6 月编程语言榜：TypeScript 首次跻身前100](http://news.51cto.com/art/201806/575964.htm)
- > TIOBE 公布了 6 月编程语言指数排名榜，此次榜单的焦点在于 TypeScript 成功跻身前100名，以及 C 语言指数
- ## [Spring中获取request的几种方法，及其线程安全性分析](http://developer.51cto.com/art/201806/575961.htm)
- > 本文将介绍在Spring MVC开发的web系统中，获取request对象的几种方法，并讨论其线程安全性。
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
- > 5月8号，谷歌召开一年一度的Google I/O大会。谷歌CEO劈柴直接祭出了这次大会的王牌AI，这个智能过人的Al让
- ## [使用云服务器的7条安全提示](http://server.51cto.com/sOS-575956.htm)
- > 公共云服务器为企业和开发者提供了广泛的优势。通过降低硬件和内部IT基础架构的资本支出以及SaaS、PaaS和Ia
- ## [如何在Windows 10 PC上为孩子设置屏幕时间？](http://os.51cto.com/art/201806/575955.htm)
- > 对于年幼的孩子，甚至是十几岁的孩子，一些家长发现限制他们在屏幕前花费的时间是有益的。 如果你在这个阵
- ## [AI是如何影响计算机内存系统的？](http://stor.51cto.com/art/201806/575954.htm)
- > 从 20 世纪 80 年代至 20 世纪 90 年代早期，由于相对较低的 CPU 性能，计算机系统达到了一个瓶颈期，因此
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
- > 让人们久等了的TCP BBR v2.0快要出炉了！
- ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
- > 未来物联网的一些问题
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
- > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
- ## [在技术圈混，怎么能不知道这几个公众号！！！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80523235)
- > 在技术圈混，怎么能不知道这几个公众号！！！
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
