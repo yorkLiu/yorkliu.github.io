@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:04:48
+date: 2018-06-12 10:06:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,6 +66,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 1.先说下缘由，项目没有使用配置中心，所以本地和开发有不同的build.gradle文件 def env=System.getProperty(&quot;profile&quot;) ?:&quot;dev&quot;if(env==&x27;prd&x27;){    apply from:&quot;build-prd.gradle&quot;}else{    ap
  ## [Kubernetes(四) - Pod和Deployment](https://my.oschina.net/wenzhenxi/blog/1827983)
  > !\[\](http://pic.w-blog.cn/kubernetes/7.png) Kubernetes中有各种各样的组件,对于容器来说Kubernetes最小的单元是由Pod进行组成的,但是我们在使用过程中经常会使用到Deployment来部署我们的应用,其中究竟区别在哪里,我们今天就来一同探索
+ ## [DocHub v1.0 版本发布，构建你自己的百度文库](https://www.oschina.net/news/96990/dochub-1-0-released)
+ > DocHub文库系统，使用Go语言的beego框架开发的类百度文库系统，实现office、PDF等文档在线浏览。 当前发布1.0版本，属于尝鲜版，mobi、epub和txt等格式文档，暂时还没有实现在线浏览的支持，但是已有解决方案，目前还在开发和测试中。 发布日志 1. Office、PDF等文档在
  ## [Android Studio 3.2 Canary 18 发布，常规更新](https://www.oschina.net/news/96989/android-studio-3-2-canary-18-released)
  > Android Studio 3.2 Canary 18 已发布，此次更新主要修复以下问题： 包含测试库的依赖导致导航编辑器阻止等待构建完成。 使用文本框调试布局时，调试器崩溃。 OnePixelDivider 有一个 myDisposable 实例，该实例在处置实例时未被清除。 默认的 .giti
  ## [码云企业版任务管理增加了成员看板，谁干什么都清楚](https://www.oschina.net/news/96988/gitee-task-management-enhance)
@@ -104,8 +106,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > Framework7 3.0.0 beta8 已发布。更新内容如下： Phenome 将 object rest spread 语法转换为 Vue/React 组件中的 Object.assign 语法 下载地址： framework7-react.tar.gz framework7-vue.tar
  ## [Kubernetes 1.10.4 和 1.11.0-beta.2，容器编排工具](https://www.oschina.net/news/96971/kubernetes-v1-11-0-beta2-1-10-4-released)
  > Kubernetes 1.10.4 和 1.11.0-beta.2 已发布，主要更新是 bug 修复，更新内容较多。 1.10.4 Fixes issue for readOnly subpath mounts for SELinux systems and when the volume moun
- ## [Git for Windows v2.18.0-rc1.windows.2 发布](https://www.oschina.net/news/96970/git-for-windows-2-18-0-rc1-win2-released)
- > Git for Windows v2.18.0-rc1.windows.2 已发布。 该版本暂未提供发布说明。 下载地址： https://github.com/git-for-windows/git/releases/tag/v2.18.0-rc1.windows.2  msysgit 的开发成员
  ## [3分钟深入学习Redis的高可用特性“持久化”](http://developer.51cto.com/art/201806/575960.htm)
  > 3分钟深入学习Redis的高可用特性“持久化”
  ## [外媒速递：管理大师的四大终极段位](http://zhuanlan.51cto.com/art/201806/575935.htm)
@@ -246,5 +246,25 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
  ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
  > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
+ ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
+ > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
+ ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
+ > 人工智能（AI）可以做什么？Google DeepMind的AlphaGo下棋打败世界冠军，百度阿波罗计划的无人车可以代替司机实现精准代驾，...
+ ## [跳过电脑，手机与社交媒体正在推倒零售业的进入壁垒](http://www.pmtoo.com/article/47921.html)
+ > 随着社交媒体消费主义催生了越来越多生气勃勃的品牌，年轻人已经开始将Youtube、Instagram等社交平台作为销售商品的主要途...
+ ## [从“3Q”到“头腾”：如何“战胜”腾讯？](http://www.pmtoo.com/article/47918.html)
+ > 北京近日的气温不断攀升。和气温一同升腾的，还有头条与腾讯之间的战火。从头条系短视频遭到腾讯“封杀”，再到今日头条客...
+ ## [资源不足、版权与自制能力有限，芒果TV如何适应互联网玩法？](http://www.pmtoo.com/article/47913.html)
+ > 从目前我国整体网络视频行业来看，在三大平台遥遥领先已成定局的情况下，从资本到体制、从人才到内容，芒果TV目前面临的挑...
+ ## [2个方面总结：打开用户增长的正确方式](http://www.pmtoo.com/article/47901.html)
+ > 用户增长的本质是在数据分析框架下进行精准化运营，是一门新型的实践科学。需要在充分理解业务的前提下，对症下药，切不可迷...
+ ## [产品分析：下厨房，唯有美食与爱不可辜负](http://www.pmtoo.com/article/47873.html)
+ > 曾经我对下厨的全部认知仅仅停留在了妈妈做的饭菜上，所以也曾像招商银行《世界再大，大不过一盘番茄炒蛋》广告里的主人公一...
+ ## [Google 说，情侣 emoji 不应该只有男女搭配](http://www.pmtoo.com/article/47860.html)
+ > 如果梳理 emoji 和表情包的变迁史，你会发现这不仅是一部有趣的互联网简史，还是一份通俗易懂的历史底稿。Google 是一家...
+ ## [大迁徙：小程序为什么能为微信带来流量，然后留住它们？](http://www.pmtoo.com/article/47856.html)
+ > 互联网的世界里，流量就是氧气。微信生态在小程序诞生之前，已经有些沉闷了，它需要点新鲜的东西。但移动互联网世界...
+ ## [如何解释中产的焦虑和对中产的误读？ | 我们如何与未来相处⑧](http://www.pmtoo.com/article/47842.html)
+ > 这一部分会涉及中产阶层的焦虑、社会阶层流动与固化等问题。这一篇我们从中产焦虑和对中产的误读开始。“有时候，关键...
 
     
