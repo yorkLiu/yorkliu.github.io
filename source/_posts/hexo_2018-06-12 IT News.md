@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:00:23
+date: 2018-06-12 10:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -106,6 +106,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > Kubernetes 1.10.4 和 1.11.0-beta.2 已发布，主要更新是 bug 修复，更新内容较多。 1.10.4 Fixes issue for readOnly subpath mounts for SELinux systems and when the volume moun
  ## [Git for Windows v2.18.0-rc1.windows.2 发布](https://www.oschina.net/news/96970/git-for-windows-2-18-0-rc1-win2-released)
  > Git for Windows v2.18.0-rc1.windows.2 已发布。 该版本暂未提供发布说明。 下载地址： https://github.com/git-for-windows/git/releases/tag/v2.18.0-rc1.windows.2  msysgit 的开发成员
+ ## [3分钟深入学习Redis的高可用特性“持久化”](http://developer.51cto.com/art/201806/575960.htm)
+ > 3分钟深入学习Redis的高可用特性“持久化”
  ## [外媒速递：管理大师的四大终极段位](http://zhuanlan.51cto.com/art/201806/575935.htm)
  > 外媒速递：管理大师的四大终极段位
  ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
@@ -120,8 +122,16 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
  ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
  > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
- ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
- > 外媒速递：数据科学领域的十二大常见认知错误
+ ## [Spring中获取request的几种方法，及其线程安全性分析](http://developer.51cto.com/art/201806/575961.htm)
+ > 本文将介绍在Spring MVC开发的web系统中，获取request对象的几种方法，并讨论其线程安全性。
+ ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
+ > 5月8号，谷歌召开一年一度的Google I/O大会。谷歌CEO劈柴直接祭出了这次大会的王牌AI，这个智能过人的Al让
+ ## [使用云服务器的7条安全提示](http://server.51cto.com/sOS-575956.htm)
+ > 公共云服务器为企业和开发者提供了广泛的优势。通过降低硬件和内部IT基础架构的资本支出以及SaaS、PaaS和Ia
+ ## [如何在Windows 10 PC上为孩子设置屏幕时间？](http://os.51cto.com/art/201806/575955.htm)
+ > 对于年幼的孩子，甚至是十几岁的孩子，一些家长发现限制他们在屏幕前花费的时间是有益的。 如果你在这个阵
+ ## [AI是如何影响计算机内存系统的？](http://stor.51cto.com/art/201806/575954.htm)
+ > 从 20 世纪 80 年代至 20 世纪 90 年代早期，由于相对较低的 CPU 性能，计算机系统达到了一个瓶颈期，因此
  ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
  > 自称“网络时代”诞生以来，加密货币创造了最大的浪潮。在2017年，一个比特币的价值高达19,000美元，并且自
  ## [云计算NAS提供跨本地和云端的文件访问](http://stor.51cto.com/art/201806/575952.htm)
@@ -132,22 +142,12 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 最近我在作者社区征集分享大家正在读的书。大家生活阅历和工作岗位各不相同，共同点是每天都与 Linux 和开
  ## [微软宣布停止支持官方论坛Win7分版：加速淘汰步伐](http://news.51cto.com/art/201806/575949.htm)
  > 目前，Windows 7已经结束主流支持，进入扩展/外延支持序列，也就是微软不会发布功能更新（即Service Pack
- ## [微软收购 GitHub：多年后大家会明白，这是一次伟大的收购](http://news.51cto.com/art/201806/575948.htm)
- > GitHub 如今“名花有主”了――微软以 75 亿美元的价格收购了它，此前该公司作为一家独立公司已经经营了 10
- ## [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](http://news.51cto.com/art/201806/575947.htm)
- > 你是否有类似这样的问题――“天天写业务代码的程序员，怎么成为技术大牛，开始写技术代码？”今天，阿里资
- ## [阿里开源自研语音识别模型DFSMN，准确率高达96.04%](http://news.51cto.com/art/201806/575946.htm)
- > 近日，阿里巴巴达摩院机器智能实验室开源了新一代语音识别模型 DFSMN，将全球语音识别准确率纪录提高至 96.
- ## [与微软收购 GitHub 无关，X.Org 正在往 GitLab 上迁移](http://news.51cto.com/art/201806/575945.htm)
- > 红帽的 Adam Jackon 在网站上宣布了 X.Org 开始迁移到 GitLab 的计划。
- ## [农业物联网：智能农业的五种技术用途和挑战](http://iot.51cto.com/art/201806/575939.htm)
- > 在本文中，我们将探索农业中的物联网用例并检查它们的好处。如果你正在考虑投资智能农业或计划为农业构建物
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
- > 未来物联网的一些问题
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
  > 让人们久等了的TCP BBR v2.0快要出炉了！
+ ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
+ > 未来物联网的一些问题
  ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
  > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
@@ -160,18 +160,18 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 程序员：如何优雅地装逼
  ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
  > 人脸识别、AI与大数据：技术挑战与突破
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
  ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
+ > 推荐算法不够精准？让知识图谱来解决
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
  > 想转行人工智能？机会来了！！！
- ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
- > 凌晨3点不回家，你咋不去死
- ## [程序员幽默：66条让你笑爆肚皮的程序员段子](https://blog.csdn.net/qq_17238449/article/details/80612748)
- > 程序员幽默：66条让你笑爆肚皮的程序员段子
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -242,25 +242,5 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
  ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
  > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
- ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
- > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
- ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
- > 人工智能（AI）可以做什么？Google DeepMind的AlphaGo下棋打败世界冠军，百度阿波罗计划的无人车可以代替司机实现精准代驾，...
- ## [跳过电脑，手机与社交媒体正在推倒零售业的进入壁垒](http://www.pmtoo.com/article/47921.html)
- > 随着社交媒体消费主义催生了越来越多生气勃勃的品牌，年轻人已经开始将Youtube、Instagram等社交平台作为销售商品的主要途...
- ## [从“3Q”到“头腾”：如何“战胜”腾讯？](http://www.pmtoo.com/article/47918.html)
- > 北京近日的气温不断攀升。和气温一同升腾的，还有头条与腾讯之间的战火。从头条系短视频遭到腾讯“封杀”，再到今日头条客...
- ## [资源不足、版权与自制能力有限，芒果TV如何适应互联网玩法？](http://www.pmtoo.com/article/47913.html)
- > 从目前我国整体网络视频行业来看，在三大平台遥遥领先已成定局的情况下，从资本到体制、从人才到内容，芒果TV目前面临的挑...
- ## [2个方面总结：打开用户增长的正确方式](http://www.pmtoo.com/article/47901.html)
- > 用户增长的本质是在数据分析框架下进行精准化运营，是一门新型的实践科学。需要在充分理解业务的前提下，对症下药，切不可迷...
- ## [产品分析：下厨房，唯有美食与爱不可辜负](http://www.pmtoo.com/article/47873.html)
- > 曾经我对下厨的全部认知仅仅停留在了妈妈做的饭菜上，所以也曾像招商银行《世界再大，大不过一盘番茄炒蛋》广告里的主人公一...
- ## [Google 说，情侣 emoji 不应该只有男女搭配](http://www.pmtoo.com/article/47860.html)
- > 如果梳理 emoji 和表情包的变迁史，你会发现这不仅是一部有趣的互联网简史，还是一份通俗易懂的历史底稿。Google 是一家...
- ## [大迁徙：小程序为什么能为微信带来流量，然后留住它们？](http://www.pmtoo.com/article/47856.html)
- > 互联网的世界里，流量就是氧气。微信生态在小程序诞生之前，已经有些沉闷了，它需要点新鲜的东西。但移动互联网世界...
- ## [如何解释中产的焦虑和对中产的误读？ | 我们如何与未来相处⑧](http://www.pmtoo.com/article/47842.html)
- > 这一部分会涉及中产阶层的焦虑、社会阶层流动与固化等问题。这一篇我们从中产焦虑和对中产的误读开始。“有时候，关键...
 
     
