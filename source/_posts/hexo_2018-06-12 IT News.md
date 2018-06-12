@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:51:52
+date: 2018-06-12 10:52:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -122,26 +122,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 天没有塌下来！这里有GitHub之外的五个最佳选择
  ## [从构建分布式秒杀系统聊聊限流特技](http://developer.51cto.com/art/201806/575867.htm)
  > 从构建分布式秒杀系统聊聊限流特技
- ## [成功进行云计算迁移的八个步骤](http://cloud.51cto.com/art/201806/575976.htm)
- > 企业准备云迁移是评估其内部部署数据和应用程序，并根据业务关键性对其进行排名的宝贵机会。这有助于了解企
- ## [不懂Python，你将成为人工智能时代的新“文盲”](http://developer.51cto.com/art/201806/575973.htm)
- > 每个阶段，大家对“文盲”的定义都是不相同的，以前不识汉字就是文盲，后来不会说英语就是文盲。在人工智能
- ## [史上最全无线网桥知识，收藏这一篇就够了！](http://server.51cto.com/Net-575974.htm)
- > 无线网络，顾名思义，即是无需依赖网线也可以进行网络组建的方式，它主要是通过采用无线通信技术实现的。主
- ## [如何通过反向 SSH 隧道访问 NAT 后面的 Linux 服务器](http://server.51cto.com/sOS-575968.htm)
- > 你在家里运行着一台 Linux 服务器，它放在一个 NAT 路由器或者限制性防火墙后面。现在你想在外出时用 SSH
- ## [Python相比Java，谁更胜一筹呢？](http://developer.51cto.com/art/201806/575965.htm)
- > 近几年来，随着人工智能的火爆，Python一直处于各种流行编程语言排名的前列。该语言几乎可以用于任何事情。
- ## [PYPL 6 月 IDE 指数榜：IntelliJ 追上 Sublime Text](http://news.51cto.com/art/201806/575966.htm)
- > PYPL 6 月的 IDE 指数榜单 Top IDE index 已经发布了，本月排名前 3 位的 IDE 与上个月相同，分别是 Visu
- ## [Spring中获取request的几种方法，及其线程安全性分析](http://developer.51cto.com/art/201806/575961.htm)
- > 本文将介绍在Spring MVC开发的web系统中，获取request对象的几种方法，并讨论其线程安全性。
- ## [使用云服务器的7条安全提示](http://server.51cto.com/sOS-575956.htm)
- > 公共云服务器为企业和开发者提供了广泛的优势。通过降低硬件和内部IT基础架构的资本支出以及SaaS、PaaS和Ia
- ## [如何在Windows 10 PC上为孩子设置屏幕时间？](http://os.51cto.com/art/201806/575955.htm)
- > 对于年幼的孩子，甚至是十几岁的孩子，一些家长发现限制他们在屏幕前花费的时间是有益的。 如果你在这个阵
- ## [AI是如何影响计算机内存系统的？](http://stor.51cto.com/art/201806/575954.htm)
- > 从 20 世纪 80 年代至 20 世纪 90 年代早期，由于相对较低的 CPU 性能，计算机系统达到了一个瓶颈期，因此
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
