@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 12:36:45
+date: 2018-06-12 12:38:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -213,6 +213,36 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
+ ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
+ > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
+ ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
+ > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
+ ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
+ > 普林斯顿 微积分读本 修订版 PDF 130MB
+ ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
+ > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
+ ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
+ > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
+ ## [【转译】 Visualization教程——PCLPlotter类](https://blog.csdn.net/liukunrs/article/details/80653239)
+ > 【转译】 Visualization教程——PCLPlotter类
+ ## [python 包的使用 （二）——tesseract识别图片中的文字](https://blog.csdn.net/weixin_41988628/article/details/80653245)
+ > python 包的使用 （二）——tesseract识别图片中的文字
+ ## [项亮《推荐系统实践》——使用LFM隐语义模型进行Top-N推荐](https://blog.csdn.net/fuqiuai/article/details/80653267)
+ > 项亮《推荐系统实践》——使用LFM隐语义模型进行Top-N推荐
+ ## [R 语言 optim 使用](https://blog.csdn.net/taojiea1014/article/details/80653286)
+ > R 语言 optim 使用
+ ## [周志华《Machine Learning》学习笔记 2   ——性能度量](https://blog.csdn.net/zhuangV587/article/details/80653292)
+ > 周志华《Machine Learning》学习笔记 2   ——性能度量
+ ## [深度学习在CTR中的应用](https://blog.csdn.net/qq_38150441/article/details/80653365)
+ > 深度学习在CTR中的应用
+ ## [基于大规模机器学习模型的推荐系统](https://blog.csdn.net/LegenDavid/article/details/80653424)
+ > 基于大规模机器学习模型的推荐系统
+ ## [AUC上升CTR一定上升么](https://blog.csdn.net/LegenDavid/article/details/80653433)
+ > AUC上升CTR一定上升么
+ ## [非线性优化与g2o](https://blog.csdn.net/qq_40213457/article/details/80653462)
+ > 非线性优化与g2o
+ ## [机器学习tips：什么是pipeline？](https://blog.csdn.net/qq_39521554/article/details/80653463)
+ > 机器学习tips：什么是pipeline？
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
