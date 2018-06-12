@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:46:50
+date: 2018-06-12 10:48:28
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -186,8 +186,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
- ## [携程宣布与Booking.com加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35695.shtml)
- > 在2014年8月Priceline第一次投资携程时，市场便预测两者将在海内外的酒店资源方面实现资源互补。
  ## [携程宣布与Booking.com加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35694.shtml)
  > 携程旅行网（纳斯达克: CTRP）宣布，将与Booking Holdings(纳斯达克: BKNG)进一步增强战略合作关系。携程表示，将和Booking.com继续共享两家公司的酒
  ## [5000万迷你融资引争议！暴风冯鑫还能挺下去吗？](http://www.lanjingtmt.com/news/detail/35692.shtml)
