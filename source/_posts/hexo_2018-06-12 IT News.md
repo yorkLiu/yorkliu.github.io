@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 08:02:56
+date: 2018-06-12 08:03:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -112,16 +112,16 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
+ ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
+ > 想转行人工智能？机会来了！！！
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
  > 凌晨3点不回家，你咋不去死
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
- > 《技术人求职指南》（二）如何写好简历
  ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
  > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
  ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
