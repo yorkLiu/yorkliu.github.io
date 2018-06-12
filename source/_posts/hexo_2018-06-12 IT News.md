@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:14:29
+date: 2018-06-12 09:15:00
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,6 +74,26 @@ categories: IT NEWS
  > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
  ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
  > 外媒速递：数据科学领域的十二大常见认知错误
+ ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
+ > 自称“网络时代”诞生以来，加密货币创造了最大的浪潮。在2017年，一个比特币的价值高达19,000美元，并且自
+ ## [云计算NAS提供跨本地和云端的文件访问](http://stor.51cto.com/art/201806/575952.htm)
+ > 通常来说，以非结构化格式创建的信息会作为对象储存在对象存储中，或者作为文件储存在网络附加存储（NAS）
+ ## [存储基础知识：最后一代闪存？QLC与MLC、TLC、SLC](http://stor.51cto.com/art/201806/575951.htm)
+ > Micron公司最近推出了第一款QLC闪存产品，为NAND闪存市场又增添一位成员。而英特尔公司也计划在2018年下半
+ ## [面向 Linux 和开源爱好者的书单](http://news.51cto.com/art/201806/575950.htm)
+ > 最近我在作者社区征集分享大家正在读的书。大家生活阅历和工作岗位各不相同，共同点是每天都与 Linux 和开
+ ## [微软宣布停止支持官方论坛Win7分版：加速淘汰步伐](http://news.51cto.com/art/201806/575949.htm)
+ > 目前，Windows 7已经结束主流支持，进入扩展/外延支持序列，也就是微软不会发布功能更新（即Service Pack
+ ## [微软收购 GitHub：多年后大家会明白，这是一次伟大的收购](http://news.51cto.com/art/201806/575948.htm)
+ > GitHub 如今“名花有主”了――微软以 75 亿美元的价格收购了它，此前该公司作为一家独立公司已经经营了 10
+ ## [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](http://news.51cto.com/art/201806/575947.htm)
+ > 你是否有类似这样的问题――“天天写业务代码的程序员，怎么成为技术大牛，开始写技术代码？”今天，阿里资
+ ## [阿里开源自研语音识别模型DFSMN，准确率高达96.04%](http://news.51cto.com/art/201806/575946.htm)
+ > 近日，阿里巴巴达摩院机器智能实验室开源了新一代语音识别模型 DFSMN，将全球语音识别准确率纪录提高至 96.
+ ## [与微软收购 GitHub 无关，X.Org 正在往 GitLab 上迁移](http://news.51cto.com/art/201806/575945.htm)
+ > 红帽的 Adam Jackon 在网站上宣布了 X.Org 开始迁移到 GitLab 的计划。
+ ## [农业物联网：智能农业的五种技术用途和挑战](http://iot.51cto.com/art/201806/575939.htm)
+ > 在本文中，我们将探索农业中的物联网用例并检查它们的好处。如果你正在考虑投资智能农业或计划为农业构建物
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
@@ -92,18 +112,18 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
- ## [设计模式（一）](https://blog.csdn.net/Mao1253/article/details/80632133)
- > 设计模式（一）
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
- > 《技术人求职指南》（二）如何写好简历
  ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
  > 推荐算法不够精准？让知识图谱来解决
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
+ ## [设计模式（一）](https://blog.csdn.net/Mao1253/article/details/80632133)
+ > 设计模式（一）
+ ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
+ > 想转行人工智能？机会来了！！！
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
  ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
