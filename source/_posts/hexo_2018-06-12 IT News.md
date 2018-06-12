@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:21:09
+date: 2018-06-12 09:21:39
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -124,6 +124,18 @@ categories: IT NEWS
  > 凌晨3点不回家，你咋不去死
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
+ ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
+ ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
+ > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
+ ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
+ ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提...
+ ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
+ > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
+ ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
+ > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
 # 人工智能 
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
@@ -155,8 +167,6 @@ categories: IT NEWS
  > 针对流体流动和温度场的数值分析步骤
  ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
  > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [P2P理财平台银行资金存管系统设计（下）](http://www.woshipm.com/pd/1056397.html)
  > 全文分为上下两篇，本文是下篇。上篇主要阐述了存管系统的必要性、产品经理前期工作以及对接的历程，见《P2P理财平台银行资金存管系统设计（上）》。下篇重点阐述了存管...
