@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:51:34
+date: 2018-06-12 09:52:45
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -170,8 +170,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
  > 凌晨3点不回家，你咋不去死
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
+ ## [程序员幽默：66条让你笑爆肚皮的程序员段子](https://blog.csdn.net/qq_17238449/article/details/80612748)
+ > 程序员幽默：66条让你笑爆肚皮的程序员段子
  ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
  > 想转行人工智能？机会来了！！！
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
