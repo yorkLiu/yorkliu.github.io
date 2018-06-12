@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:32:53
+date: 2018-06-12 09:33:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -144,6 +144,36 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 红帽的 Adam Jackon 在网站上宣布了 X.Org 开始迁移到 GitLab 的计划。
  ## [农业物联网：智能农业的五种技术用途和挑战](http://iot.51cto.com/art/201806/575939.htm)
  > 在本文中，我们将探索农业中的物联网用例并检查它们的好处。如果你正在考虑投资智能农业或计划为农业构建物
+ ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
+ > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
+ ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
+ > 未来物联网的一些问题
+ ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
+ > 让人们久等了的TCP BBR v2.0快要出炉了！
+ ## [Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧](https://blog.csdn.net/sinyu890807/article/details/80586028)
+ > Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
+ > 推荐算法不够精准？让知识图谱来解决
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
+ > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
+ ## [荣耀Play曝光，可能是华为首款游戏手机，快来了解一下！](https://blog.csdn.net/M7720EIoSi6oA9/article/details/80561967)
+ > 荣耀Play曝光，可能是华为首款游戏手机，快来了解一下！
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
  ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
@@ -196,11 +226,5 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 笔者正在由电商产品经理转型数据产品经理，为了提升自己学习的效率，尝试以这种输出驱动输入的模式，将自己学习的思路和学习内容分享给大家，也希望可以与其他数据产品...
  ## [深度推荐：月薪3万的营销人，如何利用消费者的七宗罪](http://www.woshipm.com/marketing/1055446.html)
  > 用户什么都想，但是他们的需求有时候却连自己都搞不清楚。这里，我尝试用“七宗罪”的框架帮助你理解用户内心的真实需求。相信我们无论在学校，还是在企业，有关于营销...
- ## [头条VS腾讯：中国的互联网，需要什么样的价值观？](http://www.chanpin100.com/article/107005)
- > 【小百摘要】唯有进行产品迭代转型，拥抱开放，不断搭建更加成熟的生态圈，以更加“诚恳”的态度来满足用户需求，才能在这一场“跑马圈地”中走的更远。
- ## [当陆奇成为萨提亚·纳德拉的老板](http://www.chanpin100.com/article/107006)
- > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
- ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
- > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
 
     
