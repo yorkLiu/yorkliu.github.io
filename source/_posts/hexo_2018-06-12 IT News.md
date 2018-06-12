@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:12:28
+date: 2018-06-12 09:13:41
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,22 @@ categories: IT NEWS
  > Kubernetes 1.10.4 和 1.11.0-beta.2 已发布，主要更新是 bug 修复，更新内容较多。 1.10.4 Fixes issue for readOnly subpath mounts for SELinux systems and when the volume moun
  ## [Git for Windows v2.18.0-rc1.windows.2 发布](https://www.oschina.net/news/96970/git-for-windows-2-18-0-rc1-win2-released)
  > Git for Windows v2.18.0-rc1.windows.2 已发布。 该版本暂未提供发布说明。 下载地址： https://github.com/git-for-windows/git/releases/tag/v2.18.0-rc1.windows.2  msysgit 的开发成员
+ ## [外媒速递：管理大师的四大终极段位](http://zhuanlan.51cto.com/art/201806/575935.htm)
+ > 外媒速递：管理大师的四大终极段位
+ ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
+ > 一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史
+ ## [古老东方的终极奥义――智能美颜](http://ai.51cto.com/art/201806/575875.htm)
+ > 古老东方的终极奥义――智能美颜
+ ## [天没有塌下来！这里有GitHub之外的五个最佳选择](http://os.51cto.com/art/201806/575822.htm)
+ > 天没有塌下来！这里有GitHub之外的五个最佳选择
+ ## [从构建分布式秒杀系统聊聊限流特技](http://developer.51cto.com/art/201806/575867.htm)
+ > 从构建分布式秒杀系统聊聊限流特技
+ ## [大龄程序员没有出路，真的如此吗？（文末有彩蛋）](http://news.51cto.com/art/201806/575844.htm)
+ > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
+ ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
+ > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
+ ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
+ > 外媒速递：数据科学领域的十二大常见认知错误
  ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
  > 自称“网络时代”诞生以来，加密货币创造了最大的浪潮。在2017年，一个比特币的价值高达19,000美元，并且自
  ## [云计算NAS提供跨本地和云端的文件访问](http://stor.51cto.com/art/201806/575952.htm)
@@ -108,18 +124,6 @@ categories: IT NEWS
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
- ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
- ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
- > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
- ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
- ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提...
- ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
- > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
- ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
- > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
 # 人工智能 
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
