@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:02:59
+date: 2018-06-12 10:04:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -172,20 +172,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
  > 想转行人工智能？机会来了！！！
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
- ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
- ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
- > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
- ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
- ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提到...
- ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
- > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
- ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
- > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [5000万迷你融资引争议！暴风冯鑫还能挺下去吗？](http://www.lanjingtmt.com/news/detail/35692.shtml)
+ > 备受质疑的暴风显然近段时间又走上了风口浪尖，撤回18亿抛出5000万的迷你融资，真让人搞不明白暴风葫芦里到底卖着什么药？
  ## [违反《劳动法》！亚马逊承认富士康在中国非法雇佣8000人](http://www.lanjingtmt.com/news/detail/35691.shtml)
  > 如今，亚马逊和“血汗工厂”一词捆绑登上各大新闻网头条。事件源起于亚马逊在富士康湖南衡阳工厂使用派遣员工及薪酬待遇违反《劳动法》。
  ## [优信“疯狂”烧钱7年亏损超49.8亿元  冲击IPO步履维艰](http://www.lanjingtmt.com/news/detail/35690.shtml)
@@ -193,12 +181,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
 # 人工智能 
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [《DP学习系列》从零开始学习动态规划，有依赖的背包问题（七）](https://blog.csdn.net/LoveStackover/article/details/80652494)
- > 《DP学习系列》从零开始学习动态规划，有依赖的背包问题（七）
- ## [caffe 学习率设置问题](https://blog.csdn.net/huima2017/article/details/80652509)
- > caffe 学习率设置问题
- ## [Matlab：传递函数、状态空间方程描述与运算](https://blog.csdn.net/dashumak/article/details/80652535)
- > Matlab：传递函数、状态空间方程描述与运算
  ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
  > 深度学习初探
  ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
@@ -221,6 +203,12 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 针对流体流动和温度场的数值分析步骤
  ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
  > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
+ ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
+ > 普林斯顿 微积分读本 修订版 PDF 130MB
+ ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
+ > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
+ ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
+ > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
@@ -244,25 +232,5 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
  ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
  > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
- ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
- > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
- ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
- > 人工智能（AI）可以做什么？Google DeepMind的AlphaGo下棋打败世界冠军，百度阿波罗计划的无人车可以代替司机实现精准代驾，...
- ## [跳过电脑，手机与社交媒体正在推倒零售业的进入壁垒](http://www.pmtoo.com/article/47921.html)
- > 随着社交媒体消费主义催生了越来越多生气勃勃的品牌，年轻人已经开始将Youtube、Instagram等社交平台作为销售商品的主要途...
- ## [从“3Q”到“头腾”：如何“战胜”腾讯？](http://www.pmtoo.com/article/47918.html)
- > 北京近日的气温不断攀升。和气温一同升腾的，还有头条与腾讯之间的战火。从头条系短视频遭到腾讯“封杀”，再到今日头条客...
- ## [资源不足、版权与自制能力有限，芒果TV如何适应互联网玩法？](http://www.pmtoo.com/article/47913.html)
- > 从目前我国整体网络视频行业来看，在三大平台遥遥领先已成定局的情况下，从资本到体制、从人才到内容，芒果TV目前面临的挑...
- ## [2个方面总结：打开用户增长的正确方式](http://www.pmtoo.com/article/47901.html)
- > 用户增长的本质是在数据分析框架下进行精准化运营，是一门新型的实践科学。需要在充分理解业务的前提下，对症下药，切不可迷...
- ## [产品分析：下厨房，唯有美食与爱不可辜负](http://www.pmtoo.com/article/47873.html)
- > 曾经我对下厨的全部认知仅仅停留在了妈妈做的饭菜上，所以也曾像招商银行《世界再大，大不过一盘番茄炒蛋》广告里的主人公一...
- ## [Google 说，情侣 emoji 不应该只有男女搭配](http://www.pmtoo.com/article/47860.html)
- > 如果梳理 emoji 和表情包的变迁史，你会发现这不仅是一部有趣的互联网简史，还是一份通俗易懂的历史底稿。Google 是一家...
- ## [大迁徙：小程序为什么能为微信带来流量，然后留住它们？](http://www.pmtoo.com/article/47856.html)
- > 互联网的世界里，流量就是氧气。微信生态在小程序诞生之前，已经有些沉闷了，它需要点新鲜的东西。但移动互联网世界...
- ## [如何解释中产的焦虑和对中产的误读？ | 我们如何与未来相处⑧](http://www.pmtoo.com/article/47842.html)
- > 这一部分会涉及中产阶层的焦虑、社会阶层流动与固化等问题。这一篇我们从中产焦虑和对中产的误读开始。“有时候，关键...
 
     
