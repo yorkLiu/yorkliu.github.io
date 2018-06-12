@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 12:26:50
+date: 2018-06-12 12:28:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -168,10 +168,10 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
  ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
  > 怎么花140万美元“低价”，喜提300万美元豪宅？
+ ## [十年华为女员工告别帖：在华为混得很一般，离职去事业单位养老](https://blog.csdn.net/FPscyqs/article/details/80620833)
+ > 十年华为女员工告别帖：在华为混得很一般，离职去事业单位养老
  ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
  > 《技术人求职指南》（二）如何写好简历
- ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
- > 凌晨3点不回家，你咋不去死
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
