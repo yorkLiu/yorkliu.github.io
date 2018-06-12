@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 17:01:21
+date: 2018-06-12 17:02:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -108,42 +108,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 根据市场调查机构 Futuresource Consulting 最新公布的2018年第1季度数据，全球面向K-12（幼儿园、小学和中学的同统称）的移动PC设备出货量为580万台，去年同期为550万台，同比增加4%。亚太和欧洲地区增长趋势明显，而在中东、非洲和拉丁美洲降幅最大。 在2018年第1季度
  ## [Wine 开发版 3.10 发布，调试器已支持 Wow64 进程](https://www.oschina.net/news/96976/wine-3-10-released)
  > Wine 开发版 3.10 已发布，本次更新包含新特性的增加和 bug 修复（共计修复 17 个 bug）。 3.10 主要新增功能 在 Direct 3D 12 中支持 Swapchain Vulkan 支持更新到最新规范 调试器支持 Wow64 进程 对任务计划程序(Task Scheduler
- ## [东方世界杨潇：AR开发技术点探索](http://ai.51cto.com/art/201806/575888.htm)
- > 东方世界杨潇：AR开发技术点探索
- ## [Airbnb资深架构师李聪：IT系统架构设计应充分考虑用户隐私](http://news.51cto.com/art/201806/575957.htm)
- > Airbnb资深架构师李聪：IT系统架构设计应充分考虑用户隐私
- ## [不可不知的 10 款开源 IT 安全工具](http://netsecurity.51cto.com/art/201806/575982.htm)
- > 不可不知的 10 款开源 IT 安全工具
- ## [教机器遗忘或许比学习更重要：让AI健忘的三种方式](http://zhuanlan.51cto.com/art/201806/575944.htm)
- > 教机器遗忘或许比学习更重要：让AI健忘的三种方式
- ## [3分钟深入学习Redis的高可用特性“持久化”](http://developer.51cto.com/art/201806/575960.htm)
- > 3分钟深入学习Redis的高可用特性“持久化”
- ## [全国首套！基于Java区块链项目的实战教程](http://blockchain.51cto.com/art/201806/575899.htm)
- > 全国首套！基于Java区块链项目的实战教程
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
- > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
- > 比特币替代品：值得关注的6种新兴密码技术
- ## [帮助组织治理和管理云计算支出的三个技巧](http://cloud.51cto.com/art/201806/576022.htm)
- > 大多数研究显示云计算支出的30%以上最终被浪费，显然企业还有很多工作要做。为避免超支，企业必须认识到优
- ## [令人激动的语音UI背后](http://zhuanlan.51cto.com/art/201806/576052.htm)
- > 语音UI系统使用多个麦克风接收指令，声音识别系统的准确性很大程度上取决于这些阵列是否能够专注于用户的声
- ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
- > 荷兰央行De Nederlandsche Bank (DNB)最近在其网站上宣布：经过三年的测试，区块链技术目前无法满足金融市
- ## [10款最好的GitHub替代品盘点！](http://os.51cto.com/art/201806/576048.htm)
- > Github是一个功能强大，安全并且是最受欢迎的软件项目托管平台，由于它是一个开源项目的托管平台而广为人知
- ## [云计算带来商业模式的改变，CIO将何去何从](http://cloud.51cto.com/art/201806/576015.htm)
- > 云计算不仅仅是一种技术创新，云计算更有价值的是其带来的商业模式创新，这个商业模式的核心就是按需取用、
- ## [2018数据科学和机器学习调查:Hadoop被抛弃!](http://bigdata.51cto.com/art/201806/576039.htm)
- > 近日，著名数据科学网站 KDnuggets 发布了 2018 年数据科学和机器学习工具调查结果。超过 2000 人对自己「
- ## [人工智能技术在电商搜索的落地应用](http://ai.51cto.com/art/201806/576035.htm)
- > 一直以来都被高度曝光的人工智能领域相关应用，总是引来巨大关注。在电商搜索领域，人工智能发挥着怎样的作
- ## [天没有塌下来！这里有GitHub之外的五个最佳选择](http://developer.51cto.com/art/201806/576032.htm)
- > 开源代码仓库网站对于开发应用软件的科技公司和开发者社区来说同样至关重要。对于需要Git版本控制系统的项
- ## [如何比较AWS、阿里云和DigitalOcean？](http://cloud.51cto.com/art/201806/576018.htm)
- > 在本文中，我们将服务内容与价格上对AWS、阿里云和DigitalOcean进行比较。但是要说明的是，三大供应商的服
- ## [如何看到数字化项目的全局视图](http://www.cioage.com/art/201806/576029.htm)
- > 全局视图是一个整体视图，它显示一个组织的许多相关部分，这些部分相互作用以完成一些事情。一个全局视图对
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [深度学习AI美颜系列---AI美颜磨皮算法一](https://blog.csdn.net/Trent1985/article/details/80661230)
@@ -174,20 +138,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 《技术人求职指南》（二）如何写好简历
  ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
  > 怎么花140万美元“低价”，喜提300万美元豪宅？
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
- ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
- ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
- > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
- ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
- ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提到...
- ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
- > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
- ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
- > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
  ## [抖音日活超1.5亿，月活破3亿，用户集中24-30岁](http://www.lanjingtmt.com/news/detail/35708.shtml)
  > 短视频平台抖音今日宣布，截至2018年6月，抖音短视频日活跃用户数超过1.5亿，月活跃用户数超过3亿。
  ## [解说大神韩乔生混搭电竞主播陈一发 优酷世界杯解说阵容破次元壁](http://www.lanjingtmt.com/news/detail/35707.shtml)
