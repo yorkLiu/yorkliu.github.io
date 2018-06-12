@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 08:55:46
+date: 2018-06-12 08:57:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,22 +58,6 @@ categories: IT NEWS
  > Kubernetes 1.10.4 和 1.11.0-beta.2 已发布，主要更新是 bug 修复，更新内容较多。 1.10.4 Fixes issue for readOnly subpath mounts for SELinux systems and when the volume moun
  ## [Git for Windows v2.18.0-rc1.windows.2 发布](https://www.oschina.net/news/96970/git-for-windows-2-18-0-rc1-win2-released)
  > Git for Windows v2.18.0-rc1.windows.2 已发布。 该版本暂未提供发布说明。 下载地址： https://github.com/git-for-windows/git/releases/tag/v2.18.0-rc1.windows.2  msysgit 的开发成员
- ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
- > 一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史
- ## [古老东方的终极奥义――智能美颜](http://ai.51cto.com/art/201806/575875.htm)
- > 古老东方的终极奥义――智能美颜
- ## [天没有塌下来！这里有GitHub之外的五个最佳选择](http://os.51cto.com/art/201806/575822.htm)
- > 天没有塌下来！这里有GitHub之外的五个最佳选择
- ## [从构建分布式秒杀系统聊聊限流特技](http://developer.51cto.com/art/201806/575867.htm)
- > 从构建分布式秒杀系统聊聊限流特技
- ## [大龄程序员没有出路，真的如此吗？（文末有彩蛋）](http://news.51cto.com/art/201806/575844.htm)
- > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
- ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
- > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
- ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
- > 外媒速递：数据科学领域的十二大常见认知错误
- ## [万字长文！资深大牛谈游戏程序员的个人修炼](http://news.51cto.com/art/201806/575842.htm)
- > 万字长文！资深大牛谈游戏程序员的个人修炼
  ## [面向 Linux 和开源爱好者的书单](http://news.51cto.com/art/201806/575950.htm)
  > 最近我在作者社区征集分享大家正在读的书。大家生活阅历和工作岗位各不相同，共同点是每天都与 Linux 和开
  ## [微软宣布停止支持官方论坛Win7分版：加速淘汰步伐](http://news.51cto.com/art/201806/575949.htm)
@@ -135,36 +119,6 @@ categories: IT NEWS
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
 # 人工智能 
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [《DP学习系列》从零开始学习动态规划，有依赖的背包问题（七）](https://blog.csdn.net/LoveStackover/article/details/80652494)
- > 《DP学习系列》从零开始学习动态规划，有依赖的背包问题（七）
- ## [caffe 学习率设置问题](https://blog.csdn.net/huima2017/article/details/80652509)
- > caffe 学习率设置问题
- ## [Matlab：传递函数、状态空间方程描述与运算](https://blog.csdn.net/dashumak/article/details/80652535)
- > Matlab：传递函数、状态空间方程描述与运算
- ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
- > 深度学习初探
- ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
- > 使用Python进行数据可视化（三、处理csv文件）
- ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
- > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
- ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
- > 对于卷积神经网络中全连接层的理解
- ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
- > 重标极差法（R/S）在matlab上的实现
- ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
- > 使用Squeeze-Net 为基础网络的ssd（keras）
- ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
- > 机器学习中一些基本的算法源码实现及注释详情
- ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
- > 人工智能数学基础----导数
- ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
- > 一文读懂 CNN、DNN、RNN 内部网络结构区别
- ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
- > 针对流体流动和温度场的数值分析步骤
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
