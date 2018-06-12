@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:34:04
+date: 2018-06-12 10:34:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -152,14 +152,14 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
  ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
  > 人脸识别、AI与大数据：技术挑战与突破
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
  ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
@@ -168,8 +168,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 推荐算法不够精准？让知识图谱来解决
  ## [在技术圈混，怎么能不知道这几个公众号！！！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80523235)
  > 在技术圈混，怎么能不知道这几个公众号！！！
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
  ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
  > 想转行人工智能？机会来了！！！
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
@@ -193,6 +193,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  ## [优信“疯狂”烧钱7年亏损超49.8亿元  冲击IPO步履维艰](http://www.lanjingtmt.com/news/detail/35690.shtml)
  > 二手车电商平台优信向美国证券交易委员会（SEC）提交招股说明书，拟募资最多5亿美元在纳斯达克（NASDAQ）上市。此次，优信选择赴美上市，不要求连续三年盈利，但赴美上市的故事能否讲
 # 人工智能 
+ ## [从最新的前沿科技趋势看未来的8个样子 （含视频+报告）](https://yq.aliyun.com/articles/601448)
+ > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
