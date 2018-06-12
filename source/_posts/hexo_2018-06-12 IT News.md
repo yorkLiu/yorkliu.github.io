@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 11:08:54
+date: 2018-06-12 12:01:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,6 +66,10 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  >  系统选择 对于开发环境，要想少折腾，优先选择 ubuntu 系的 —— Linux Mint ，这是国外使用最多的桌面发行版之一，同时各项操作也比较人性化，建议优先考虑。 （比如 nativescript 默认只提供了 deb 包的支持。） 这里下载： https://www.linuxmin
  ## [Java NIO Channel](https://my.oschina.net/j4love/blog/1828336)
  > 写在前面         之前在学习 dubbo 源码和 netty ， 在学习到 dubbo 的传输层源码的时候不太理解 dubbo 对 Channel 的设计 ， Client ， Server 分别都实现了 Channel 接口 ， 当时是不太理解的 。又参考了一下 netty 发现 dubb
+ ## [蝉知 chanzhiEPS 7.1 正式发布，企业门户系统](https://www.oschina.net/news/96993/chanzhieps-7-1-released)
+ > 蝉知企业门户系统是由业内资深开发团队开发的一款专向企业营销使用的企业门户系统，企业使用蝉知系统可以非常方便地搭建一个专业的企业营销网站，进行宣传，开展业务，服务客户。蝉知系统内置了文章、产品、论坛、评论、会员、博客、帮助等功能，同时还可以和微信进行集成绑定。功能丰富实用，后台操作简洁方便。 蝉知官网
+ ## [OdnShop 发布 V1.0 正式版，完整可用的开源微商城系统](https://www.oschina.net/news/96992/odnshop-v1-0-released)
+ > OdnShop是基于ASP.NET 4.0+Mysql开发的开源微商城系统，我们的目标是构建一个核心完善而又轻量级的微商城平台。 本版本更新功能： 1，修正数据库操作的部分表名称的表前缀错误； 2，修正首页的图标链接错误。 OdnShop系统是作者本人在基于为客户定制的微商城系统基础上删减功能而来，
  ## [DocHub v1.0 版本发布，构建你自己的百度文库](https://www.oschina.net/news/96990/dochub-1-0-released)
  > DocHub文库系统，使用Go语言的beego框架开发的类百度文库系统，实现office、PDF等文档在线浏览。 当前发布1.0版本，属于尝鲜版，mobi、epub和txt等格式文档，暂时还没有实现在线浏览的支持，但是已有解决方案，目前还在开发和测试中。 发布日志 1. Office、PDF等文档在
  ## [Android Studio 3.2 Canary 18 发布，常规更新](https://www.oschina.net/news/96989/android-studio-3-2-canary-18-released)
@@ -102,54 +106,50 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > NethServer 7.5 已正式发布。 NethServer 是基于 CentOS 的面向服务器的 Linux 发行。该产品的主要特性是模块化的设计，这使得用户可以容易地将该发行版用作以下任何功能：邮件服务器和过滤器、网页服务器、群件、防火墙、网页过滤器、入侵阻止系统/入侵检测系统、虚拟专用网服
  ## [Yarn 1.8.0 发布，Facebook 推出的 JS 包管理器](https://www.oschina.net/news/96973/yarn-1-8-0-released)
  > Facebook 推出的 JavaScript 包管理器 Yarn 发布了 1.8.0 版本，Yarn 是 Facebook 推出的 JavaScript 包管理器，旨在提供 npm 之外的另一种选择方案。Yarn 具有极佳的伸缩性，可以支持成千上万个直接或间接的包依赖。Yarn 的设计初衷是保证稳
- ## [Framework7 3.0.0 beta8 发布，全功能 HTML 框架](https://www.oschina.net/news/96972/framework7-300-beta8-released)
- > Framework7 3.0.0 beta8 已发布。更新内容如下： Phenome 将 object rest spread 语法转换为 Vue/React 组件中的 Object.assign 语法 下载地址： framework7-react.tar.gz framework7-vue.tar
- ## [Kubernetes 1.10.4 和 1.11.0-beta.2，容器编排工具](https://www.oschina.net/news/96971/kubernetes-v1-11-0-beta2-1-10-4-released)
- > Kubernetes 1.10.4 和 1.11.0-beta.2 已发布，主要更新是 bug 修复，更新内容较多。 1.10.4 Fixes issue for readOnly subpath mounts for SELinux systems and when the volume moun
+ ## [不可不知的 10 款开源 IT 安全工具](http://netsecurity.51cto.com/art/201806/575982.htm)
+ > 不可不知的 10 款开源 IT 安全工具
  ## [教机器遗忘或许比学习更重要：让AI健忘的三种方式](http://zhuanlan.51cto.com/art/201806/575944.htm)
  > 教机器遗忘或许比学习更重要：让AI健忘的三种方式
  ## [3分钟深入学习Redis的高可用特性“持久化”](http://developer.51cto.com/art/201806/575960.htm)
  > 3分钟深入学习Redis的高可用特性“持久化”
- ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
- > 比特币替代品：值得关注的6种新兴密码技术
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
+ > 比特币替代品：值得关注的6种新兴密码技术
  ## [外媒速递：管理大师的四大终极段位](http://zhuanlan.51cto.com/art/201806/575935.htm)
  > 外媒速递：管理大师的四大终极段位
  ## [TIOBE 6 月编程语言榜：TypeScript 首次跻身前100](http://news.51cto.com/art/201806/575964.htm)
  > TIOBE 6 月编程语言榜：TypeScript 首次跻身前100
  ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
  > 一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史
- ## [古老东方的终极奥义――智能美颜](http://ai.51cto.com/art/201806/575875.htm)
- > 古老东方的终极奥义――智能美颜
+ ## [区块链存储机制解密：与数据库存储机制一脉相承](http://blockchain.51cto.com/art/201806/575987.htm)
+ > 从数据库的角度看待区块链的存储机制会简单直观很多。在一个标准的关系型数据库中，存储一般分为日志存储、
+ ## [如何检查加密USB驱动器是否安全？](http://stor.51cto.com/art/201806/575985.htm)
+ > 目前，安全USB驱动器制造商正在遵循由NIST（美国国家标准与技术研究院）开发的FIPS140认证标准，该标准适用
+ ## [HBase从入门到精通系列：误删数据如何抢救？](http://bigdata.51cto.com/art/201806/575980.htm)
+ > 有时候我们操作数据库的时候不小心误删数据，这时候如何找回？mysql里有binlog可以帮助我们恢复数据，但是
+ ## [即使是首席信息官也需要一顶安全帽：敏捷建设是智能IT的秘密武器](http://www.cioage.com/art/201806/575988.htm)
+ > 敏捷建设方法正在显著地改变IT基础架构的构建方式。这些建设实践反过来又将在这些方面为首席信息官提供更大
  ## [MySQL8与PG10：新版本下的较量谁更胜一筹？](http://database.51cto.com/art/201806/575977.htm)
  > 既然MySQL 8和PostgreSQL 10已经发布了，现在是时候回顾一下这两大开源关系型数据库是如何彼此竞争的。在这
  ## [成功进行云计算迁移的八个步骤](http://cloud.51cto.com/art/201806/575976.htm)
  > 企业准备云迁移是评估其内部部署数据和应用程序，并根据业务关键性对其进行排名的宝贵机会。这有助于了解企
  ## [不懂Python，你将成为人工智能时代的新“文盲”](http://developer.51cto.com/art/201806/575973.htm)
  > 每个阶段，大家对“文盲”的定义都是不相同的，以前不识汉字就是文盲，后来不会说英语就是文盲。在人工智能
- ## [史上最全无线网桥知识，收藏这一篇就够了！](http://server.51cto.com/Net-575974.htm)
+ ## [史上最全无线网桥知识，收藏这一篇就够了！](http://network.51cto.com/art/201806/575974.htm)
  > 无线网络，顾名思义，即是无需依赖网线也可以进行网络组建的方式，它主要是通过采用无线通信技术实现的。主
  ## [如何通过反向 SSH 隧道访问 NAT 后面的 Linux 服务器](http://server.51cto.com/sOS-575968.htm)
  > 你在家里运行着一台 Linux 服务器，它放在一个 NAT 路由器或者限制性防火墙后面。现在你想在外出时用 SSH
  ## [Python相比Java，谁更胜一筹呢？](http://developer.51cto.com/art/201806/575965.htm)
  > 近几年来，随着人工智能的火爆，Python一直处于各种流行编程语言排名的前列。该语言几乎可以用于任何事情。
- ## [PYPL 6 月 IDE 指数榜：IntelliJ 追上 Sublime Text](http://news.51cto.com/art/201806/575966.htm)
- > PYPL 6 月的 IDE 指数榜单 Top IDE index 已经发布了，本月排名前 3 位的 IDE 与上个月相同，分别是 Visu
- ## [Spring中获取request的几种方法，及其线程安全性分析](http://developer.51cto.com/art/201806/575961.htm)
- > 本文将介绍在Spring MVC开发的web系统中，获取request对象的几种方法，并讨论其线程安全性。
- ## [使用云服务器的7条安全提示](http://server.51cto.com/sOS-575956.htm)
- > 公共云服务器为企业和开发者提供了广泛的优势。通过降低硬件和内部IT基础架构的资本支出以及SaaS、PaaS和Ia
- ## [如何在Windows 10 PC上为孩子设置屏幕时间？](http://os.51cto.com/art/201806/575955.htm)
- > 对于年幼的孩子，甚至是十几岁的孩子，一些家长发现限制他们在屏幕前花费的时间是有益的。 如果你在这个阵
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
  > 让人们久等了的TCP BBR v2.0快要出炉了！
  ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
  > 未来物联网的一些问题
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
+ ## [数据结构与算法（九）Set集合和BinarySearchTree的时间复杂度分析](https://blog.csdn.net/johnny901114/article/details/80628876)
+ > 数据结构与算法（九）Set集合和BinarySearchTree的时间复杂度分析
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
@@ -160,18 +160,18 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
- ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
- > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
- ## [在技术圈混，怎么能不知道这几个公众号！！！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80523235)
- > 在技术圈混，怎么能不知道这几个公众号！！！
- ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
- > 《技术人求职指南》（二）如何写好简历
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
+ > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
+ ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
+ > 怎么花140万美元“低价”，喜提300万美元豪宅？
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -186,7 +186,9 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
- ## [携程宣布与Booking.com加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35694.shtml)
+ ## [滴滴外卖开启连锁模式，距离全国连锁还有多远？](http://www.lanjingtmt.com/news/detail/35693.shtml)
+ > 以网约车起家的滴滴在2018年宣布进军外卖领域，并于4月份在无锡正式上线外卖业务，实现首战告捷的滴滴外卖在短时间内接连拿下南京、泰州两城，成都即将上线，将外卖业务开展到全国的计划开
+ ## [携程宣布与Booking加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35694.shtml)
  > 携程旅行网（纳斯达克: CTRP）宣布，将与Booking Holdings(纳斯达克: BKNG)进一步增强战略合作关系。携程表示，将和Booking.com继续共享两家公司的酒
  ## [5000万迷你融资引争议！暴风冯鑫还能挺下去吗？](http://www.lanjingtmt.com/news/detail/35692.shtml)
  > 备受质疑的暴风显然近段时间又走上了风口浪尖，撤回18亿抛出5000万的迷你融资，真让人搞不明白暴风葫芦里到底卖着什么药？
@@ -195,43 +197,33 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  ## [优信“疯狂”烧钱7年亏损超49.8亿元  冲击IPO步履维艰](http://www.lanjingtmt.com/news/detail/35690.shtml)
  > 二手车电商平台优信向美国证券交易委员会（SEC）提交招股说明书，拟募资最多5亿美元在纳斯达克（NASDAQ）上市。此次，优信选择赴美上市，不要求连续三年盈利，但赴美上市的故事能否讲
 # 人工智能 
+ ## [美国重夺超算第一背后：英伟达GPU提供了95%计算力](https://yq.aliyun.com/articles/601469)
+ > 时隔5年后，美国暂时夺回了世界超级计算机领域的头把交椅。美国当地时间6月8日，美国能源部下属橡树岭国家实验室宣布，他们研发出的超级计算机“...
+ ## [AMD突然发布7nm芯片背后的野心](https://yq.aliyun.com/articles/601464)
+ > 在日前举行的Computex 2018媒体发布会上，AMD有些出人意料地进行了高规格的产品发布，公开的产品包括下一代使用7nm工艺的VEG...
+ ## [全球最强大脑在哪里？阿里小蜜算法团队在寻找](https://yq.aliyun.com/articles/601463)
+ > 阿里小蜜是什么？ 阿里小蜜是阿里巴巴集团智能服务事业部旗下的面向电商领域的服务机器人。阿里小蜜所在的智能服务事业部，致力于以体验为核心...
+ ## [2018LinuxCon，开源界的大咖们来了，赶紧行动！](https://yq.aliyun.com/articles/601462)
+ > 全球顶级开源盛会二度落地中国！很多人都期望有着牛顿的成功之道：我之所以能成功 ，是因为我站在巨人的肩上。但是，最为困惑的是：巨人在哪...
+ ## [医工结合之路：草木蔓发，春山可望 | 专访清华统计中心俞声](https://yq.aliyun.com/articles/601459)
+ > 清华大学统计学研究中心助理教授俞声，主要的研究方向是基于电子病历的数据分析，他与数据科学研究院的合作始于数据院和清华大学临床医学院合作搭建清华临床医学科研数据平台（以下简称：医学数据平台）。“我们自己去跟医院谈合作，不一定能引起人家的兴趣，医学数据平台的搭建促使我们能够更好的使用医疗数据做研究。
  ## [从最新的前沿科技趋势看未来的8个样子 （含视频+报告）](https://yq.aliyun.com/articles/601448)
  > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
- > 深度学习初探
- ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
- > 使用Python进行数据可视化（三、处理csv文件）
- ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
- > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
- ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
- > 对于卷积神经网络中全连接层的理解
- ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
- > 重标极差法（R/S）在matlab上的实现
- ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
- > 使用Squeeze-Net 为基础网络的ssd（keras）
- ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
- > 机器学习中一些基本的算法源码实现及注释详情
- ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
- > 人工智能数学基础----导数
- ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
- > 一文读懂 CNN、DNN、RNN 内部网络结构区别
- ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
- > 针对流体流动和温度场的数值分析步骤
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
- > 普林斯顿 微积分读本 修订版 PDF 130MB
- ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
- > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
- ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
- > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
+ ## [如何进行产品规划与工时评估？](http://www.woshipm.com/pmd/1053793.html)
+ > 产品狗们要如何去进行产品规划和工时评估呢？本文作者针对这方面的问题，给大家提供了一个思路，一起来文章中看看~对象：产品狗们环境：非外包（需要拼命抢夺资源）...
+ ## [搭建流量分配体系（1）：从外卖业务说起](http://www.woshipm.com/operate/1057112.html)
+ > 对于平台产品来说，流量分配是一个重要的问题。如何把平台流量合理的分配到各个业务线，业务线如何把流量合理的分配给商家？这些问题经常困扰着O2O业务形态与电商业务...
+ ## [2方面分析：1～3年经验的产品经理，该“跳槽”么？](http://www.woshipm.com/pmd/1056873.html)
+ > 跳槽这个问题，对于很多人来说都是一个难题，经常会纠结自己应不应该跳槽，如果跳槽那值不值得？文章作者从两个方面来分析，一到三年经验的产品经理，到底要不要跳槽。...
+ ## [面对新零售大风口，传统连锁该如何进行转型?](http://www.woshipm.com/newretail/1056947.html)
+ > 马云说过：真正的纯电商时代过去了，做到下一步，就是新零售，也就是从线上流量的争夺到线下流量的争夺。从趋势看，今年，新零售逐步向垂直化行业延伸，迈向纵深，传统...
+ ## [线上+线下课程 | 给产品新人的绝佳高薪计划，从入门到求职一次搞定！](http://www.woshipm.com/active/1057222.html)
+ > 这是一个人人都是产品经理的时代，也是一个人人都向往产品经理的时代。工资水平：在北京上海一线城市，有89%的产品经理月薪在6k以上，超过一半的产品经理月薪过万。...
  ## [短视频产品的竞品分析与教育短视频的一些遐想](http://www.woshipm.com/evaluating/1027999.html)
  > 近年来随着互联网发展，社交方式逐步由文字，图片转向了语音、视频。随着快手、抖音等各大短视频平台成立，短视频社交成为了大家喜爱的生活方式，各大互联网巨头抢占市...
  ## [2.4万个小红书的作者数据，分析下小红书如何引领海外消费潮流](http://www.woshipm.com/user-research/1057162.html)
@@ -246,20 +238,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在“九城”战略之下，滴滴外卖继续挥师西进，日前宣布将进军成都，似有锐不可当之势。但人声鼎沸之下，却藏有滴滴外卖的战略变数。今年3月份时，滴滴外卖为自己的外卖“...
  ## [全面解析：信用卡代偿业务](http://www.woshipm.com/evaluating/1056822.html)
  > 随着经济的发展，用户消费活跃度不断增加，信用卡逐渐成为消费者消费的主要手段之一。与之兴起的各类型的信用卡代偿业务也进入市场，本文是一篇关于信用卡代偿业务的分...
- ## [如何设计网页和APP中的背景？这8种趋势值得借鉴](http://www.woshipm.com/ucd/1057459.html)
- > 看看2018年，设计师们使用背景的8个主要趋势吧，如果你正在头疼如何设计背景，这8种趋势和样式将是一个不错的参考和指引。在许多设计当中，背景元素常常是设计师在设...
- ## [运营视角｜产品为什么要做“签到”？有哪些“签到”方式？](http://www.woshipm.com/operate/1057422.html)
- > 在本文中，作者将跟大家分享其对产品签到的一些思考。enjoy~近期在即刻看到一网友说，他不是很喜欢钉钉的“签到系统”，因为领导能看到谁是第一个走的，谁是最后一个走...
- ## [5个步骤教你做ERP：权限系统（一）](http://www.woshipm.com/pd/1056633.html)
- > 没有权限系统的ERP，是没有灵魂没有大脑的躯壳，一个权限混乱的ERP，是一个四肢不协调的机器人，哪怕指令再明确，行为也达不到期望要求。本文主要分为五个步骤来教你如...
- ## [P2P理财平台银行资金存管系统设计（下）](http://www.woshipm.com/pd/1056397.html)
- > 全文分为上下两篇，本文是下篇。上篇主要阐述了存管系统的必要性、产品经理前期工作以及对接的历程，见《P2P理财平台银行资金存管系统设计（上）》。下篇重点阐述了存管...
- ## [数据产品经理从零到一（1）：数据产品能力模型构建](http://www.woshipm.com/pmd/1056964.html)
- > 笔者正在由电商产品经理转型数据产品经理，为了提升自己学习的效率，尝试以这种输出驱动输入的模式，将自己学习的思路和学习内容分享给大家，也希望可以与其他数据产品...
- ## [头条VS腾讯：中国的互联网，需要什么样的价值观？](http://www.chanpin100.com/article/107005)
- > 【小百摘要】唯有进行产品迭代转型，拥抱开放，不断搭建更加成熟的生态圈，以更加“诚恳”的态度来满足用户需求，才能在这一场“跑马圈地”中走的更远。
- ## [当陆奇成为萨提亚·纳德拉的老板](http://www.chanpin100.com/article/107006)
- > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
  ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
  > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
  ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
