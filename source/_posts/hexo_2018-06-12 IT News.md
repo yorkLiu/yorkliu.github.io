@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 08:43:55
+date: 2018-06-12 08:44:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -110,8 +110,8 @@ categories: IT NEWS
  > 人脸识别、AI与大数据：技术挑战与突破
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
  ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
  > 想转行人工智能？机会来了！！！
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
@@ -122,8 +122,8 @@ categories: IT NEWS
  > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
  ## [电商---实现购物车功能](https://blog.csdn.net/xc_zhou/article/details/80647171)
  > 电商---实现购物车功能
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
  ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
  > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
  ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
