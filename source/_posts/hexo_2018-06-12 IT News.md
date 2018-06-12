@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:15:36
+date: 2018-06-12 10:16:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -142,6 +142,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 最近我在作者社区征集分享大家正在读的书。大家生活阅历和工作岗位各不相同，共同点是每天都与 Linux 和开
  ## [微软宣布停止支持官方论坛Win7分版：加速淘汰步伐](http://news.51cto.com/art/201806/575949.htm)
  > 目前，Windows 7已经结束主流支持，进入扩展/外延支持序列，也就是微软不会发布功能更新（即Service Pack
+ ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
+ > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
