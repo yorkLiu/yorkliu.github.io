@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:47:30
+date: 2018-06-12 09:47:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -124,34 +124,14 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
  ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
  > 外媒速递：数据科学领域的十二大常见认知错误
- ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
- > 自称“网络时代”诞生以来，加密货币创造了最大的浪潮。在2017年，一个比特币的价值高达19,000美元，并且自
- ## [云计算NAS提供跨本地和云端的文件访问](http://stor.51cto.com/art/201806/575952.htm)
- > 通常来说，以非结构化格式创建的信息会作为对象储存在对象存储中，或者作为文件储存在网络附加存储（NAS）
- ## [存储基础知识：最后一代闪存？QLC与MLC、TLC、SLC](http://stor.51cto.com/art/201806/575951.htm)
- > Micron公司最近推出了第一款QLC闪存产品，为NAND闪存市场又增添一位成员。而英特尔公司也计划在2018年下半
- ## [面向 Linux 和开源爱好者的书单](http://news.51cto.com/art/201806/575950.htm)
- > 最近我在作者社区征集分享大家正在读的书。大家生活阅历和工作岗位各不相同，共同点是每天都与 Linux 和开
- ## [微软宣布停止支持官方论坛Win7分版：加速淘汰步伐](http://news.51cto.com/art/201806/575949.htm)
- > 目前，Windows 7已经结束主流支持，进入扩展/外延支持序列，也就是微软不会发布功能更新（即Service Pack
- ## [微软收购 GitHub：多年后大家会明白，这是一次伟大的收购](http://news.51cto.com/art/201806/575948.htm)
- > GitHub 如今“名花有主”了――微软以 75 亿美元的价格收购了它，此前该公司作为一家独立公司已经经营了 10
- ## [如何快速成长为技术大牛？阿里资深技术专家的总结亮了](http://news.51cto.com/art/201806/575947.htm)
- > 你是否有类似这样的问题――“天天写业务代码的程序员，怎么成为技术大牛，开始写技术代码？”今天，阿里资
- ## [阿里开源自研语音识别模型DFSMN，准确率高达96.04%](http://news.51cto.com/art/201806/575946.htm)
- > 近日，阿里巴巴达摩院机器智能实验室开源了新一代语音识别模型 DFSMN，将全球语音识别准确率纪录提高至 96.
- ## [与微软收购 GitHub 无关，X.Org 正在往 GitLab 上迁移](http://news.51cto.com/art/201806/575945.htm)
- > 红帽的 Adam Jackon 在网站上宣布了 X.Org 开始迁移到 GitLab 的计划。
- ## [农业物联网：智能农业的五种技术用途和挑战](http://iot.51cto.com/art/201806/575939.htm)
- > 在本文中，我们将探索农业中的物联网用例并检查它们的好处。如果你正在考虑投资智能农业或计划为农业构建物
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
+ ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
+ > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
  ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
  > 未来物联网的一些问题
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
  > 让人们久等了的TCP BBR v2.0快要出炉了！
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
@@ -168,26 +148,12 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
  > 凌晨3点不回家，你咋不去死
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
- ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
- ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
- > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
- ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
- ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提到...
- ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
- > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
- ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
- > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
+ > 想转行人工智能？机会来了！！！
  ## [优信“疯狂”烧钱7年亏损超49.8亿元  冲击IPO步履维艰](http://www.lanjingtmt.com/news/detail/35690.shtml)
  > 二手车电商平台优信向美国证券交易委员会（SEC）提交招股说明书，拟募资最多5亿美元在纳斯达克（NASDAQ）上市。此次，优信选择赴美上市，不要求连续三年盈利，但赴美上市的故事能否讲
 # 人工智能 
@@ -221,8 +187,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 针对流体流动和温度场的数值分析步骤
  ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
  > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [P2P理财平台银行资金存管系统设计（下）](http://www.woshipm.com/pd/1056397.html)
  > 全文分为上下两篇，本文是下篇。上篇主要阐述了存管系统的必要性、产品经理前期工作以及对接的历程，见《P2P理财平台银行资金存管系统设计（上）》。下篇重点阐述了存管...
