@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:11:16
+date: 2018-06-12 09:12:28
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,22 +58,6 @@ categories: IT NEWS
  > Kubernetes 1.10.4 和 1.11.0-beta.2 已发布，主要更新是 bug 修复，更新内容较多。 1.10.4 Fixes issue for readOnly subpath mounts for SELinux systems and when the volume moun
  ## [Git for Windows v2.18.0-rc1.windows.2 发布](https://www.oschina.net/news/96970/git-for-windows-2-18-0-rc1-win2-released)
  > Git for Windows v2.18.0-rc1.windows.2 已发布。 该版本暂未提供发布说明。 下载地址： https://github.com/git-for-windows/git/releases/tag/v2.18.0-rc1.windows.2  msysgit 的开发成员
- ## [外媒速递：管理大师的四大终极段位](http://zhuanlan.51cto.com/art/201806/575935.htm)
- > 外媒速递：管理大师的四大终极段位
- ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
- > 一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史
- ## [古老东方的终极奥义――智能美颜](http://ai.51cto.com/art/201806/575875.htm)
- > 古老东方的终极奥义――智能美颜
- ## [天没有塌下来！这里有GitHub之外的五个最佳选择](http://os.51cto.com/art/201806/575822.htm)
- > 天没有塌下来！这里有GitHub之外的五个最佳选择
- ## [从构建分布式秒杀系统聊聊限流特技](http://developer.51cto.com/art/201806/575867.htm)
- > 从构建分布式秒杀系统聊聊限流特技
- ## [大龄程序员没有出路，真的如此吗？（文末有彩蛋）](http://news.51cto.com/art/201806/575844.htm)
- > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
- ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
- > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
- ## [外媒速递：数据科学领域的十二大常见认知错误](http://zhuanlan.51cto.com/art/201806/575838.htm)
- > 外媒速递：数据科学领域的十二大常见认知错误
  ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
  > 自称“网络时代”诞生以来，加密货币创造了最大的浪潮。在2017年，一个比特币的价值高达19,000美元，并且自
  ## [云计算NAS提供跨本地和云端的文件访问](http://stor.51cto.com/art/201806/575952.htm)
@@ -112,18 +96,18 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
+ ## [设计模式（一）](https://blog.csdn.net/Mao1253/article/details/80632133)
+ > 设计模式（一）
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
  ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
  > 推荐算法不够精准？让知识图谱来解决
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
- ## [设计模式（一）](https://blog.csdn.net/Mao1253/article/details/80632133)
- > 设计模式（一）
- ## [2018年6月编程语言tiobe排行](https://blog.csdn.net/Dong_Alex/article/details/80645051)
- > 2018年6月编程语言tiobe排行
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
  ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
