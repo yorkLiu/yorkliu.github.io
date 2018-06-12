@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 17:09:30
+date: 2018-06-12 17:11:23
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -148,10 +148,10 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [深度学习AI美颜系列---AI美颜磨皮算法一](https://blog.csdn.net/Trent1985/article/details/80661230)
  > 深度学习AI美颜系列---AI美颜磨皮算法一
+ ## [Android中模仿探究抖音短视频的动态壁纸功能以及动态壁纸的拓展功能使用](https://blog.csdn.net/jiangwei0910410003/article/details/80461169)
+ > Android中模仿探究抖音短视频的动态壁纸功能以及动态壁纸的拓展功能使用
  ## [把100PB数据迁移到阿里云，需要几步？](https://blog.csdn.net/sunhf_csdn/article/details/80665726)
  > 把100PB数据迁移到阿里云，需要几步？
- ## [Spark2.1.0之模型设计与基本架构](https://blog.csdn.net/beliefer/article/details/80468095)
- > Spark2.1.0之模型设计与基本架构
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
