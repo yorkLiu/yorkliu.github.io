@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:36:03
+date: 2018-06-12 10:36:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
 
 <p>&nbsp;</p>
 # IT 新闻 
+ ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
+ > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
  ## [开发环境从 windows 到 Linux 简单攻略](https://my.oschina.net/zhdong/blog/1828352)
  >  系统选择 对于开发环境，要想少折腾，优先选择 ubuntu 系的 —— Linux Mint ，这是国外使用最多的桌面发行版之一，同时各项操作也比较人性化，建议优先考虑。 （比如 nativescript 默认只提供了 deb 包的支持。） 这里下载： https://www.linuxmin
  ## [Java NIO Channel](https://my.oschina.net/j4love/blog/1828336)
