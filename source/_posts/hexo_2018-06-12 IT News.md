@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:26:41
+date: 2018-06-12 09:28:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -122,37 +122,19 @@ categories: IT NEWS
  > 凌晨3点不回家，你咋不去死
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
+ ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
+ ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
+ > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
+ ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
+ ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提到...
+ ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
+ > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
+ ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
+ > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
 # 人工智能 
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [《DP学习系列》从零开始学习动态规划，有依赖的背包问题（七）](https://blog.csdn.net/LoveStackover/article/details/80652494)
- > 《DP学习系列》从零开始学习动态规划，有依赖的背包问题（七）
- ## [caffe 学习率设置问题](https://blog.csdn.net/huima2017/article/details/80652509)
- > caffe 学习率设置问题
- ## [Matlab：传递函数、状态空间方程描述与运算](https://blog.csdn.net/dashumak/article/details/80652535)
- > Matlab：传递函数、状态空间方程描述与运算
- ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
- > 深度学习初探
- ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
- > 使用Python进行数据可视化（三、处理csv文件）
- ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
- > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
- ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
- > 对于卷积神经网络中全连接层的理解
- ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
- > 重标极差法（R/S）在matlab上的实现
- ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
- > 使用Squeeze-Net 为基础网络的ssd（keras）
- ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
- > 机器学习中一些基本的算法源码实现及注释详情
- ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
- > 人工智能数学基础----导数
- ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
- > 一文读懂 CNN、DNN、RNN 内部网络结构区别
- ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
- > 针对流体流动和温度场的数值分析步骤
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
