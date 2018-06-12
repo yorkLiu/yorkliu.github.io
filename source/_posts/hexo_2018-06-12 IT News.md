@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:42:14
+date: 2018-06-12 10:43:26
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,8 +66,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 写在前面         之前在学习 dubbo 源码和 netty ， 在学习到 dubbo 的传输层源码的时候不太理解 dubbo 对 Channel 的设计 ， Client ， Server 分别都实现了 Channel 接口 ， 当时是不太理解的 。又参考了一下 netty 发现 dubb
  ## [Gradle 生产与开发build.gradle配置不一样时打包（Springboot）](https://my.oschina.net/tangdu/blog/1828004)
  > 1.先说下缘由，项目没有使用配置中心，所以本地和开发有不同的build.gradle文件 def env=System.getProperty(&quot;profile&quot;) ?:&quot;dev&quot;if(env==&x27;prd&x27;){    apply from:&quot;build-prd.gradle&quot;}else{    ap
- ## [Kubernetes(四) - Pod和Deployment](https://my.oschina.net/wenzhenxi/blog/1827983)
- > !\[\](http://pic.w-blog.cn/kubernetes/7.png) Kubernetes中有各种各样的组件,对于容器来说Kubernetes最小的单元是由Pod进行组成的,但是我们在使用过程中经常会使用到Deployment来部署我们的应用,其中究竟区别在哪里,我们今天就来一同探索
  ## [DocHub v1.0 版本发布，构建你自己的百度文库](https://www.oschina.net/news/96990/dochub-1-0-released)
  > DocHub文库系统，使用Go语言的beego框架开发的类百度文库系统，实现office、PDF等文档在线浏览。 当前发布1.0版本，属于尝鲜版，mobi、epub和txt等格式文档，暂时还没有实现在线浏览的支持，但是已有解决方案，目前还在开发和测试中。 发布日志 1. Office、PDF等文档在
  ## [Android Studio 3.2 Canary 18 发布，常规更新](https://www.oschina.net/news/96989/android-studio-3-2-canary-18-released)
