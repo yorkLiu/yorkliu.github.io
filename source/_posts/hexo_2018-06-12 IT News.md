@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 17:57:02
+date: 2018-06-12 17:58:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -144,36 +144,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > windows 10可能仍然存在意见分歧，但如果您的PC或笔记本电脑拥有它，则有许多功能可供选择。 其中一个默认
  ## [人工智能技术在电商搜索的落地应用](http://ai.51cto.com/art/201806/576035.htm)
  > 一直以来都被高度曝光的人工智能领域相关应用，总是引来巨大关注。在电商搜索领域，人工智能发挥着怎样的作
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [把100PB数据迁移到阿里云，需要几步？](https://blog.csdn.net/sunhf_csdn/article/details/80665726)
- > 把100PB数据迁移到阿里云，需要几步？
- ## [Android中模仿探究抖音短视频的动态壁纸功能以及动态壁纸的拓展功能使用](https://blog.csdn.net/jiangwei0910410003/article/details/80461169)
- > Android中模仿探究抖音短视频的动态壁纸功能以及动态壁纸的拓展功能使用
- ## [Spark2.1.0之模型设计与基本架构](https://blog.csdn.net/beliefer/article/details/80468095)
- > Spark2.1.0之模型设计与基本架构
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [JavaScript自己整理的基础-01](https://blog.csdn.net/Lazy_Life/article/details/80640533)
- > JavaScript自己整理的基础-01
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
- > 凌晨3点不回家，你咋不去死
- ## [电商---实现购物车功能](https://blog.csdn.net/xc_zhou/article/details/80647171)
- > 电商---实现购物车功能
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
