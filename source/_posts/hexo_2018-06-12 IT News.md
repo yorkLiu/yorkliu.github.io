@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 18:03:27
+date: 2018-06-12 18:05:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,8 +66,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
  ## [开发环境从 windows 到 Linux 简单攻略](https://my.oschina.net/zhdong/blog/1828352)
  >  系统选择 对于开发环境，要想少折腾，优先选择 ubuntu 系的 —— Linux Mint ，这是国外使用最多的桌面发行版之一，同时各项操作也比较人性化，建议优先考虑。 （比如 nativescript 默认只提供了 deb 包的支持。） 这里下载： https://www.linuxmin
- ## [Java NIO Channel](https://my.oschina.net/j4love/blog/1828336)
- > 写在前面         之前在学习 dubbo 源码和 netty ， 在学习到 dubbo 的传输层源码的时候不太理解 dubbo 对 Channel 的设计 ， Client ， Server 分别都实现了 Channel 接口 ， 当时是不太理解的 。又参考了一下 netty 发现 dubb
  ## [Proxy-Go 全平台 SDK v4.9 来啦！](https://www.oschina.net/news/96999/proxy-go-4-9-released)
  > Proxy-Go 全平台 SDK是proxy使用gombile实现了一份go代码编译为android和ios平台下面可以直接调用的sdk类库, 另外还为linux和windows提供sdk支持，基于这些类库,APP开发者可以轻松的开发出各种形式的代理工具。 此次更新： 修复了HTTP Basic代理
  ## [ZStack 2.4.0 发布，新增企业管理以及支持 ARM 服务器](https://www.oschina.net/news/96997/zstack-2-4-0-released)
@@ -188,6 +186,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [美团最快9月赴港上市，最新估值600亿美元](http://www.lanjingtmt.com/news/detail/35711.shtml)
+ > 外媒the Information此前曾报道，据某知情人士透露，美团最快今年9月赴港IPO，最新一轮估值为600亿美元。
  ## [发改委与建行设立3000亿战略性新兴产业发展基金](http://www.lanjingtmt.com/news/detail/35709.shtml)
  > 投向新一代信息技术、高端装备、新材料、生物、新能源汽车、新能源、节能环保和数字创意等战略性新兴产业领域。
  ## [抖音日活超1.5亿，月活破3亿，用户集中24-30岁](http://www.lanjingtmt.com/news/detail/35708.shtml)
@@ -235,36 +235,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
- > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
- ## [【转译】 Visualization教程——PCLPlotter类](https://blog.csdn.net/liukunrs/article/details/80653239)
- > 【转译】 Visualization教程——PCLPlotter类
- ## [python 包的使用 （二）——tesseract识别图片中的文字](https://blog.csdn.net/weixin_41988628/article/details/80653245)
- > python 包的使用 （二）——tesseract识别图片中的文字
- ## [项亮《推荐系统实践》——使用LFM隐语义模型进行Top-N推荐](https://blog.csdn.net/fuqiuai/article/details/80653267)
- > 项亮《推荐系统实践》——使用LFM隐语义模型进行Top-N推荐
- ## [R 语言 optim 使用](https://blog.csdn.net/taojiea1014/article/details/80653286)
- > R 语言 optim 使用
- ## [周志华《Machine Learning》学习笔记 2   ——性能度量](https://blog.csdn.net/zhuangV587/article/details/80653292)
- > 周志华《Machine Learning》学习笔记 2   ——性能度量
- ## [深度学习在CTR中的应用](https://blog.csdn.net/qq_38150441/article/details/80653365)
- > 深度学习在CTR中的应用
- ## [基于大规模机器学习模型的推荐系统](https://blog.csdn.net/LegenDavid/article/details/80653424)
- > 基于大规模机器学习模型的推荐系统
- ## [AUC上升CTR一定上升么](https://blog.csdn.net/LegenDavid/article/details/80653433)
- > AUC上升CTR一定上升么
- ## [非线性优化与g2o](https://blog.csdn.net/qq_40213457/article/details/80653462)
- > 非线性优化与g2o
- ## [机器学习tips：什么是pipeline？](https://blog.csdn.net/qq_39521554/article/details/80653463)
- > 机器学习tips：什么是pipeline？
- ## [Spark-基于scala实现文章特征提取(TF-IDF)](https://blog.csdn.net/u012761191/article/details/80653470)
- > Spark-基于scala实现文章特征提取(TF-IDF)
- ## [这一本书教你用Python快速入门深度神经网络](https://blog.csdn.net/epubit17/article/details/80653501)
- > 这一本书教你用Python快速入门深度神经网络
- ## [论文阅读——矩阵填补模型之深度矩阵分解（Deep Matrix Factorization）](https://blog.csdn.net/manduner/article/details/80653567)
- > 论文阅读——矩阵填补模型之深度矩阵分解（Deep Matrix Factorization）
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
