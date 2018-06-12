@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:52:45
+date: 2018-06-12 09:53:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,8 +66,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 1.先说下缘由，项目没有使用配置中心，所以本地和开发有不同的build.gradle文件 def env=System.getProperty(&quot;profile&quot;) ?:&quot;dev&quot;if(env==&x27;prd&x27;){    apply from:&quot;build-prd.gradle&quot;}else{    ap
  ## [Kubernetes(四) - Pod和Deployment](https://my.oschina.net/wenzhenxi/blog/1827983)
  > !\[\](http://pic.w-blog.cn/kubernetes/7.png) Kubernetes中有各种各样的组件,对于容器来说Kubernetes最小的单元是由Pod进行组成的,但是我们在使用过程中经常会使用到Deployment来部署我们的应用,其中究竟区别在哪里,我们今天就来一同探索
- ## [SpringCloud实践分享-日志收集Kafka-ELK](https://my.oschina.net/yangzijing/blog/1827927)
- > 微服务应用在容器化后，日志的查询就会变成困难的问题，虽说有\[portainer\](https://portainer.io/)这类的容器管理工具，能够方便的查询每个容器中的日志，但容器到达一定数量后，尤其是应用有多个实例时候，查询就成了头疼的问题。所以我们采用了Kafka-Logstash-Elas
  ## [Android Studio 3.2 Canary 18 发布，常规更新](https://www.oschina.net/news/96989/android-studio-3-2-canary-18-released)
  > Android Studio 3.2 Canary 18 已发布，此次更新主要修复以下问题： 包含测试库的依赖导致导航编辑器阻止等待构建完成。 使用文本框调试布局时，调试器崩溃。 OnePixelDivider 有一个 myDisposable 实例，该实例在处置实例时未被清除。 默认的 .giti
  ## [码云企业版任务管理增加了成员看板，谁干什么都清楚](https://www.oschina.net/news/96988/gitee-task-management-enhance)
@@ -146,12 +144,12 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在本文中，我们将探索农业中的物联网用例并检查它们的好处。如果你正在考虑投资智能农业或计划为农业构建物
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
  ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
  > 未来物联网的一些问题
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
  > 让人们久等了的TCP BBR v2.0快要出炉了！
+ ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
+ > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
@@ -168,12 +166,12 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
+ > 想转行人工智能？机会来了！！！
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
  > 凌晨3点不回家，你咋不去死
  ## [程序员幽默：66条让你笑爆肚皮的程序员段子](https://blog.csdn.net/qq_17238449/article/details/80612748)
  > 程序员幽默：66条让你笑爆肚皮的程序员段子
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -224,18 +222,20 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
+ ## [全面解析：信用卡代偿业务](http://www.woshipm.com/evaluating/1056822.html)
+ > 随着经济的发展，用户消费活跃度不断增加，信用卡逐渐成为消费者消费的主要手段之一。与之兴起的各类型的信用卡代偿业务也进入市场，本文是一篇关于信用卡代偿业务的分...
+ ## [如何设计网页和APP中的背景？这8种趋势值得借鉴](http://www.woshipm.com/ucd/1057459.html)
+ > 看看2018年，设计师们使用背景的8个主要趋势吧，如果你正在头疼如何设计背景，这8种趋势和样式将是一个不错的参考和指引。在许多设计当中，背景元素常常是设计师在设...
+ ## [运营视角｜产品为什么要做“签到”？有哪些“签到”方式？](http://www.woshipm.com/operate/1057422.html)
+ > 在本文中，作者将跟大家分享其对产品签到的一些思考。enjoy~近期在即刻看到一网友说，他不是很喜欢钉钉的“签到系统”，因为领导能看到谁是第一个走的，谁是最后一个走...
+ ## [5个步骤教你做ERP：权限系统（一）](http://www.woshipm.com/pd/1056633.html)
+ > 没有权限系统的ERP，是没有灵魂没有大脑的躯壳，一个权限混乱的ERP，是一个四肢不协调的机器人，哪怕指令再明确，行为也达不到期望要求。本文主要分为五个步骤来教你如...
  ## [P2P理财平台银行资金存管系统设计（下）](http://www.woshipm.com/pd/1056397.html)
  > 全文分为上下两篇，本文是下篇。上篇主要阐述了存管系统的必要性、产品经理前期工作以及对接的历程，见《P2P理财平台银行资金存管系统设计（上）》。下篇重点阐述了存管...
  ## [数据产品经理从零到一（1）：数据产品能力模型构建](http://www.woshipm.com/pmd/1056964.html)
  > 笔者正在由电商产品经理转型数据产品经理，为了提升自己学习的效率，尝试以这种输出驱动输入的模式，将自己学习的思路和学习内容分享给大家，也希望可以与其他数据产品...
  ## [深度推荐：月薪3万的营销人，如何利用消费者的七宗罪](http://www.woshipm.com/marketing/1055446.html)
  > 用户什么都想，但是他们的需求有时候却连自己都搞不清楚。这里，我尝试用“七宗罪”的框架帮助你理解用户内心的真实需求。相信我们无论在学校，还是在企业，有关于营销...
- ## [头条VS腾讯：中国的互联网，需要什么样的价值观？](http://www.chanpin100.com/article/107005)
- > 【小百摘要】唯有进行产品迭代转型，拥抱开放，不断搭建更加成熟的生态圈，以更加“诚恳”的态度来满足用户需求，才能在这一场“跑马圈地”中走的更远。
- ## [当陆奇成为萨提亚·纳德拉的老板](http://www.chanpin100.com/article/107006)
- > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
- ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
- > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
  ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
  > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
  ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
