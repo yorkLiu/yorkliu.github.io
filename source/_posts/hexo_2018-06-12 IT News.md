@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:17:43
+date: 2018-06-12 09:18:45
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -96,10 +96,10 @@ categories: IT NEWS
  > 在本文中，我们将探索农业中的物联网用例并检查它们的好处。如果你正在考虑投资智能农业或计划为农业构建物
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
- > 让人们久等了的TCP BBR v2.0快要出炉了！
  ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
  > 未来物联网的一些问题
+ ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
+ > 让人们久等了的TCP BBR v2.0快要出炉了！
  ## [Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧](https://blog.csdn.net/sinyu890807/article/details/80586028)
  > Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
@@ -120,10 +120,10 @@ categories: IT NEWS
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
  ## [设计模式（一）](https://blog.csdn.net/Mao1253/article/details/80632133)
  > 设计模式（一）
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
  ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
  > 凌晨3点不回家，你咋不去死
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
  ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
