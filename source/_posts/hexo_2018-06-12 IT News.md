@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 17:11:23
+date: 2018-06-12 17:13:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -148,10 +148,10 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [深度学习AI美颜系列---AI美颜磨皮算法一](https://blog.csdn.net/Trent1985/article/details/80661230)
  > 深度学习AI美颜系列---AI美颜磨皮算法一
- ## [Android中模仿探究抖音短视频的动态壁纸功能以及动态壁纸的拓展功能使用](https://blog.csdn.net/jiangwei0910410003/article/details/80461169)
- > Android中模仿探究抖音短视频的动态壁纸功能以及动态壁纸的拓展功能使用
  ## [把100PB数据迁移到阿里云，需要几步？](https://blog.csdn.net/sunhf_csdn/article/details/80665726)
  > 把100PB数据迁移到阿里云，需要几步？
+ ## [Java程序员的第一个Python小程序：京东畅销书榜爬虫](https://blog.csdn.net/bruce128/article/details/80629521)
+ > Java程序员的第一个Python小程序：京东畅销书榜爬虫
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
@@ -211,7 +211,7 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
 # 人工智能 
  ## [《生命3.0》作者：在AI基础研究和教育投入上，中国完胜美国](https://yq.aliyun.com/articles/601674)
  > 马克斯·泰格马克是人工智能领域最重要的思想家之一，《生命3.0：在人工智能的时代生而为人》的作者。本文是venturebeat网站对泰格马克...
- ## [【Jeff Dean推荐】为什么说未来的深度学习是小、轻、快](https://yq.aliyun.com/articles/601670)
+ ## [Jeff Dean点赞的内容，为什么说未来的深度学习是小、轻、快](https://yq.aliyun.com/articles/601670)
  > 数据科学家，Jetpac 公司CTO Pete Warden发表了一篇博文，详细阐述了微型化是机器学习应用的一条出路，并且相信机器学习可以在...
  ## [香侬专栏 | 独家对话斯坦福大学计算机系教授Percy Liang](https://yq.aliyun.com/articles/601595)
  > 斯坦福大学计算机系助理教授、斯坦福人工智能实验室成员 Percy Liang 主要研究方向为自然语言处理（对话系统，语义分析等方向）及机器...
