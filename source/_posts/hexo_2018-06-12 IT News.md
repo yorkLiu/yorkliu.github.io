@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:36:41
+date: 2018-06-12 09:37:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -217,8 +217,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 针对流体流动和温度场的数值分析步骤
  ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
  > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [P2P理财平台银行资金存管系统设计（下）](http://www.woshipm.com/pd/1056397.html)
  > 全文分为上下两篇，本文是下篇。上篇主要阐述了存管系统的必要性、产品经理前期工作以及对接的历程，见《P2P理财平台银行资金存管系统设计（上）》。下篇重点阐述了存管...
