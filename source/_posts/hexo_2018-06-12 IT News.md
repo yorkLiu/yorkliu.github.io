@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:04:07
+date: 2018-06-12 10:04:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -80,8 +80,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 微软在官网论坛的一个帖子中宣布，自2018年7月起，停止在论坛上对 Windows 7 和 Windows 8.1/8.1 RT 相关主题的讨论提供技术支持。 上个月底我们报道了一份关于 Windows 操作系统的调查结果，其中显示 Windows 7 使用率相比 2017 年大幅下降，从 64% 
  ## [被人工智能挟裹的程序员们，该如何切入 AI 开发？](https://www.oschina.net/news/96946/how-can-dev-learn-ai)
  > 根据 Gartner 最新发布的预测报告，2018 年全球人工智能市场规模将高达 1.2 万亿美元。这是一个“坑”多“萝卜”少的多金行业，计算机视觉、自然语言处理等前沿应用领域尤甚。毫无疑问，人工智能绝对是十年内的技术风口。那站在浪尖上的普通程序员们，该如何跻身 AI 洪流，与时代趋势共舞呢？
- ## [每日一博 | 电商个性化推荐系统：协同过滤算法方案解析](https://my.oschina.net/xiaominmin/blog/1828229)
- > 协同过滤推荐算法是诞生最早，并且较为著名的推荐算法。主要的功能是预测和推荐。算法通过对用户历史行为数据的挖掘发现用户的偏好，基于不同的偏好对用户进行群组划分并推荐品味相似的商品。
+ ## [每日一博 | 优雅的处理你的 Java 异常](https://my.oschina.net/c5ms/blog/1827907)
+ > 本文仅按照业务系统开发角度描述异常的一些处理看法.不涉及java的异常基础知识,可以自行查阅 《Java核心技术 卷I》 和 《java编程思想》 可以得到更多的基础信息.
  ## [码云推荐 | 中小型视频网站省流量神器 hlsjs-p2p-engine](https://gitee.com/cdnbye/hlsjs-p2p-engine)
  > hlsjs-p2p-engine的目标是开发一个hls.js的插件，通过WebRTC datachannel技术，在不影响用户体验的前提下，最大化p2p率，从而为CP节省流量成本。而在H5采用的视频传输格式中，hls由于兼容ios和android、可以穿过任何允许HTTP数据通过的防火墙、容易使用内
  ## [iView Weapp  — 一套高质量的微信小程序 UI 组件库](https://www.oschina.net/p/iview-weapp)
@@ -172,6 +172,20 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
  > 想转行人工智能？机会来了！！！
+ ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
+ > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
+ ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
+ ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
+ > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
+ ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
+ ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提到...
+ ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
+ > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
+ ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
+ > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
  ## [5000万迷你融资引争议！暴风冯鑫还能挺下去吗？](http://www.lanjingtmt.com/news/detail/35692.shtml)
  > 备受质疑的暴风显然近段时间又走上了风口浪尖，撤回18亿抛出5000万的迷你融资，真让人搞不明白暴风葫芦里到底卖着什么药？
  ## [违反《劳动法》！亚马逊承认富士康在中国非法雇佣8000人](http://www.lanjingtmt.com/news/detail/35691.shtml)
