@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:27:33
+date: 2018-06-12 10:28:42
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -80,8 +80,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > PYPL 6 月的 IDE 指数榜单 Top IDE index 已经发布了，本月排名前 3 位的 IDE 与上个月相同，分别是 Visual Studio、Eclipse 和 Android Studio，前 10 名中，Xcode 被 PyCharm 反超，IntelliJ 追上 Sublime
  ## [放弃 Windows 7！微软停止在论坛上对其提供技术支持](https://www.oschina.net/news/96984/microsoft-abandons-win7-support-on-forums)
  > 微软在官网论坛的一个帖子中宣布，自2018年7月起，停止在论坛上对 Windows 7 和 Windows 8.1/8.1 RT 相关主题的讨论提供技术支持。 上个月底我们报道了一份关于 Windows 操作系统的调查结果，其中显示 Windows 7 使用率相比 2017 年大幅下降，从 64% 
- ## [被人工智能挟裹的程序员们，该如何切入 AI 开发？](https://www.oschina.net/news/96946/how-can-dev-learn-ai)
- > 根据 Gartner 最新发布的预测报告，2018 年全球人工智能市场规模将高达 1.2 万亿美元。这是一个“坑”多“萝卜”少的多金行业，计算机视觉、自然语言处理等前沿应用领域尤甚。毫无疑问，人工智能绝对是十年内的技术风口。那站在浪尖上的普通程序员们，该如何跻身 AI 洪流，与时代趋势共舞呢？
+ ## [6 月 23 日南京源创会，与您探讨 AI 领域在开源的发展](https://www.oschina.net/event/2279616?origin=zhzx)
+ > AI技术和行业日趋火热，业界Google、腾讯、华为等各大厂商也陆续投入其中。本次将于大家分享AI领域的开技术及社区生态，涵盖 AI基础设施、机器学习引擎、模型支持、分布式支持等方面，和与会者共同探讨AI领域在开源的发展。
  ## [每日一博 | 优雅的处理你的 Java 异常](https://my.oschina.net/c5ms/blog/1827907)
  > 本文仅按照业务系统开发角度描述异常的一些处理看法.不涉及java的异常基础知识,可以自行查阅 《Java核心技术 卷I》 和 《java编程思想》 可以得到更多的基础信息.
  ## [码云推荐 | 中小型视频网站省流量神器 hlsjs-p2p-engine](https://gitee.com/cdnbye/hlsjs-p2p-engine)
