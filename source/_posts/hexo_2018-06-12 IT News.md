@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 08:41:34
+date: 2018-06-12 08:42:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -166,12 +166,6 @@ categories: IT NEWS
  ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
  > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
 # PM 
- ## [头条VS腾讯：中国的互联网，需要什么样的价值观？](http://www.chanpin100.com/article/107005)
- > 【小百摘要】唯有进行产品迭代转型，拥抱开放，不断搭建更加成熟的生态圈，以更加“诚恳”的态度来满足用户需求，才能在这一场“跑马圈地”中走的更远。
- ## [当陆奇成为萨提亚·纳德拉的老板](http://www.chanpin100.com/article/107006)
- > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
- ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
- > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
  ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
  > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
  ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
