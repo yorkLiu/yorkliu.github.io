@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:43:26
+date: 2018-06-12 10:43:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -186,6 +186,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [携程宣布与Booking.com加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35694.shtml)
+ > 携程旅行网（纳斯达克: CTRP）宣布，将与Booking Holdings(纳斯达克: BKNG)进一步增强战略合作关系。携程表示，将和Booking.com继续共享两家公司的酒
  ## [5000万迷你融资引争议！暴风冯鑫还能挺下去吗？](http://www.lanjingtmt.com/news/detail/35692.shtml)
  > 备受质疑的暴风显然近段时间又走上了风口浪尖，撤回18亿抛出5000万的迷你融资，真让人搞不明白暴风葫芦里到底卖着什么药？
  ## [违反《劳动法》！亚马逊承认富士康在中国非法雇佣8000人](http://www.lanjingtmt.com/news/detail/35691.shtml)
@@ -197,36 +199,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
- > 深度学习初探
- ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
- > 使用Python进行数据可视化（三、处理csv文件）
- ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
- > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
- ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
- > 对于卷积神经网络中全连接层的理解
- ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
- > 重标极差法（R/S）在matlab上的实现
- ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
- > 使用Squeeze-Net 为基础网络的ssd（keras）
- ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
- > 机器学习中一些基本的算法源码实现及注释详情
- ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
- > 人工智能数学基础----导数
- ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
- > 一文读懂 CNN、DNN、RNN 内部网络结构区别
- ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
- > 针对流体流动和温度场的数值分析步骤
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
- > 普林斯顿 微积分读本 修订版 PDF 130MB
- ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
- > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
- ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
- > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
