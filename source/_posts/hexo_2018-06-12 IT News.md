@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:43:54
+date: 2018-06-12 10:44:27
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -122,26 +122,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 大龄程序员没有出路，真的如此吗？（文末有彩蛋）
  ## [不会编程？微信小程序开发照样玩得溜！（送百套项目源码）](http://developer.51cto.com/art/201806/575891.htm)
  > 不会编程？微信小程序开发照样玩得溜！（送百套项目源码）
- ## [不懂Python，你将成为人工智能时代的新“文盲”](http://developer.51cto.com/art/201806/575973.htm)
- > 每个阶段，大家对“文盲”的定义都是不相同的，以前不识汉字就是文盲，后来不会说英语就是文盲。在人工智能
- ## [史上最全无线网桥知识，收藏这一篇就够了！](http://server.51cto.com/Net-575974.htm)
- > 无线网络，顾名思义，即是无需依赖网线也可以进行网络组建的方式，它主要是通过采用无线通信技术实现的。主
- ## [10 款程序员必备的免费开源安全工具，助你成为极客](http://news.51cto.com/art/201806/575967.htm)
- > 信息安全工程师、网络安全产品以及相关的技术和流程都需要耗费企业大量的成本，对于大部分企业来说，往往
- ## [如何通过反向 SSH 隧道访问 NAT 后面的 Linux 服务器](http://server.51cto.com/sOS-575968.htm)
- > 你在家里运行着一台 Linux 服务器，它放在一个 NAT 路由器或者限制性防火墙后面。现在你想在外出时用 SSH
- ## [Python相比Java，谁更胜一筹呢？](http://developer.51cto.com/art/201806/575965.htm)
- > 近几年来，随着人工智能的火爆，Python一直处于各种流行编程语言排名的前列。该语言几乎可以用于任何事情。
- ## [PYPL 6 月 IDE 指数榜：IntelliJ 追上 Sublime Text](http://news.51cto.com/art/201806/575966.htm)
- > PYPL 6 月的 IDE 指数榜单 Top IDE index 已经发布了，本月排名前 3 位的 IDE 与上个月相同，分别是 Visu
- ## [TIOBE 6 月编程语言榜：TypeScript 首次跻身前100](http://news.51cto.com/art/201806/575964.htm)
- > TIOBE 公布了 6 月编程语言指数排名榜，此次榜单的焦点在于 TypeScript 成功跻身前100名，以及 C 语言指数
- ## [Spring中获取request的几种方法，及其线程安全性分析](http://developer.51cto.com/art/201806/575961.htm)
- > 本文将介绍在Spring MVC开发的web系统中，获取request对象的几种方法，并讨论其线程安全性。
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
- > 5月8号，谷歌召开一年一度的Google I/O大会。谷歌CEO劈柴直接祭出了这次大会的王牌AI，这个智能过人的Al让
- ## [使用云服务器的7条安全提示](http://server.51cto.com/sOS-575956.htm)
- > 公共云服务器为企业和开发者提供了广泛的优势。通过降低硬件和内部IT基础架构的资本支出以及SaaS、PaaS和Ia
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
  ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
@@ -199,6 +179,36 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 人工智能、区块链、物联网，新技术呼啸而来，它们不仅正在改变我们的日常生活，还可能对未来的商业模式、社会治理、国际政治产生影响。最近，阿里云...
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
+ ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
+ > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
+ ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
+ > 深度学习初探
+ ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
+ > 使用Python进行数据可视化（三、处理csv文件）
+ ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
+ > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
+ ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
+ > 对于卷积神经网络中全连接层的理解
+ ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
+ > 重标极差法（R/S）在matlab上的实现
+ ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
+ > 使用Squeeze-Net 为基础网络的ssd（keras）
+ ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
+ > 机器学习中一些基本的算法源码实现及注释详情
+ ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
+ > 人工智能数学基础----导数
+ ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
+ > 一文读懂 CNN、DNN、RNN 内部网络结构区别
+ ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
+ > 针对流体流动和温度场的数值分析步骤
+ ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
+ > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
+ ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
+ > 普林斯顿 微积分读本 修订版 PDF 130MB
+ ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
+ > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
+ ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
+ > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
