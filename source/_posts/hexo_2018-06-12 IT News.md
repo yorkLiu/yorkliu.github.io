@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:18:38
+date: 2018-06-12 10:19:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -197,34 +197,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
- > 深度学习初探
- ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
- > 使用Python进行数据可视化（三、处理csv文件）
- ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
- > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
- ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
- > 对于卷积神经网络中全连接层的理解
- ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
- > 重标极差法（R/S）在matlab上的实现
- ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
- > 使用Squeeze-Net 为基础网络的ssd（keras）
- ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
- > 机器学习中一些基本的算法源码实现及注释详情
- ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
- > 人工智能数学基础----导数
- ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
- > 一文读懂 CNN、DNN、RNN 内部网络结构区别
- ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
- > 针对流体流动和温度场的数值分析步骤
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
- > 普林斯顿 微积分读本 修订版 PDF 130MB
- ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
- > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
- ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
- > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
@@ -248,25 +220,5 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
  ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
  > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
- ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
- > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
- ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
- > 人工智能（AI）可以做什么？Google DeepMind的AlphaGo下棋打败世界冠军，百度阿波罗计划的无人车可以代替司机实现精准代驾，...
- ## [跳过电脑，手机与社交媒体正在推倒零售业的进入壁垒](http://www.pmtoo.com/article/47921.html)
- > 随着社交媒体消费主义催生了越来越多生气勃勃的品牌，年轻人已经开始将Youtube、Instagram等社交平台作为销售商品的主要途...
- ## [从“3Q”到“头腾”：如何“战胜”腾讯？](http://www.pmtoo.com/article/47918.html)
- > 北京近日的气温不断攀升。和气温一同升腾的，还有头条与腾讯之间的战火。从头条系短视频遭到腾讯“封杀”，再到今日头条客...
- ## [资源不足、版权与自制能力有限，芒果TV如何适应互联网玩法？](http://www.pmtoo.com/article/47913.html)
- > 从目前我国整体网络视频行业来看，在三大平台遥遥领先已成定局的情况下，从资本到体制、从人才到内容，芒果TV目前面临的挑...
- ## [2个方面总结：打开用户增长的正确方式](http://www.pmtoo.com/article/47901.html)
- > 用户增长的本质是在数据分析框架下进行精准化运营，是一门新型的实践科学。需要在充分理解业务的前提下，对症下药，切不可迷...
- ## [产品分析：下厨房，唯有美食与爱不可辜负](http://www.pmtoo.com/article/47873.html)
- > 曾经我对下厨的全部认知仅仅停留在了妈妈做的饭菜上，所以也曾像招商银行《世界再大，大不过一盘番茄炒蛋》广告里的主人公一...
- ## [Google 说，情侣 emoji 不应该只有男女搭配](http://www.pmtoo.com/article/47860.html)
- > 如果梳理 emoji 和表情包的变迁史，你会发现这不仅是一部有趣的互联网简史，还是一份通俗易懂的历史底稿。Google 是一家...
- ## [大迁徙：小程序为什么能为微信带来流量，然后留住它们？](http://www.pmtoo.com/article/47856.html)
- > 互联网的世界里，流量就是氧气。微信生态在小程序诞生之前，已经有些沉闷了，它需要点新鲜的东西。但移动互联网世界...
- ## [如何解释中产的焦虑和对中产的误读？ | 我们如何与未来相处⑧](http://www.pmtoo.com/article/47842.html)
- > 这一部分会涉及中产阶层的焦虑、社会阶层流动与固化等问题。这一篇我们从中产焦虑和对中产的误读开始。“有时候，关键...
 
     
