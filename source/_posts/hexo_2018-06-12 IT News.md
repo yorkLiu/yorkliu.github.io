@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 09:25:48
+date: 2018-06-12 09:26:41
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -16,8 +16,6 @@ categories: IT NEWS
  > !\[\](http://pic.w-blog.cn/kubernetes/7.png) Kubernetes中有各种各样的组件,对于容器来说Kubernetes最小的单元是由Pod进行组成的,但是我们在使用过程中经常会使用到Deployment来部署我们的应用,其中究竟区别在哪里,我们今天就来一同探索
  ## [SpringCloud实践分享-日志收集Kafka-ELK](https://my.oschina.net/yangzijing/blog/1827927)
  > 微服务应用在容器化后，日志的查询就会变成困难的问题，虽说有\[portainer\](https://portainer.io/)这类的容器管理工具，能够方便的查询每个容器中的日志，但容器到达一定数量后，尤其是应用有多个实例时候，查询就成了头疼的问题。所以我们采用了Kafka-Logstash-Elas
- ## [优雅的处理你的Java异常](https://my.oschina.net/c5ms/blog/1827907)
- >  本文介绍 本文仅按照业务系统开发角度描述异常的一些处理看法.不涉及java的异常基础知识,可以自行查阅 **《Java核心技术 卷I》** 和 **《java编程思想》** 可以得到更多的基础信息. 在开发业务系统中,我们目前绝大多数采用MVC模式,但是往往有人把service跟controll
  ## [Android Studio 3.2 Canary 18 发布，常规更新](https://www.oschina.net/news/96989/android-studio-3-2-canary-18-released)
  > Android Studio 3.2 Canary 18 已发布，此次更新主要修复以下问题： 包含测试库的依赖导致导航编辑器阻止等待构建完成。 使用文本框调试布局时，调试器崩溃。 OnePixelDivider 有一个 myDisposable 实例，该实例在处置实例时未被清除。 默认的 .giti
  ## [码云企业版任务管理增加了成员看板，谁干什么都清楚](https://www.oschina.net/news/96988/gitee-task-management-enhance)
@@ -124,18 +122,6 @@ categories: IT NEWS
  > 凌晨3点不回家，你咋不去死
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
- ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！开发...
- ## [为了程序员的颈椎，做机械键盘的 Cherry 发布了把椅子！](https://blog.csdn.net/csdnnews/article/details/80656449)
- > 北京时间 6 月 10 日，65 岁的德国老牌外设厂商 CHERRY 在北京丽都皇冠假日酒店举办了 2018 年新品发布会。一口气发布了三款机械键盘，一个游戏竞技鼠标，以及一把相当电竞范儿的椅子。新推出的机械键盘其中之二为 MX BOARD 1.0 新增的版本，分别为：TKL RGB、全尺...
- ## [2018 OpenInfra Days China 大咖来袭——开源，我们是认真的](https://blog.csdn.net/csdnnews/article/details/80652579)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作为...
- ## [用 Python 爬了 10 万个产品经理的信息：KPI 多高，锅就有多大！](https://blog.csdn.net/csdnnews/article/details/80650797)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！一提...
- ## [Linus 又开怼：有时候标准就是个垃圾！](https://blog.csdn.net/csdnnews/article/details/80647800)
- > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
- ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
- > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
 # 人工智能 
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
@@ -182,25 +168,5 @@ categories: IT NEWS
  > 【小百摘要】革自己的命，当然是违背人性的，而认识到以退为进，让他人成就自己更伟大的成功，就只是一种智慧了。
  ## [深入浅出：后台产品的核心能力](http://www.chanpin100.com/article/107003)
  > 【小百摘要】对于每一个前端产品而言，背后都有一个或多个后台产品在支撑，以保证用户需求可以被满足，用户体验可以被感知。
- ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
- > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
- ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
- > 人工智能（AI）可以做什么？Google DeepMind的AlphaGo下棋打败世界冠军，百度阿波罗计划的无人车可以代替司机实现精准代驾，...
- ## [跳过电脑，手机与社交媒体正在推倒零售业的进入壁垒](http://www.pmtoo.com/article/47921.html)
- > 随着社交媒体消费主义催生了越来越多生气勃勃的品牌，年轻人已经开始将Youtube、Instagram等社交平台作为销售商品的主要途...
- ## [从“3Q”到“头腾”：如何“战胜”腾讯？](http://www.pmtoo.com/article/47918.html)
- > 北京近日的气温不断攀升。和气温一同升腾的，还有头条与腾讯之间的战火。从头条系短视频遭到腾讯“封杀”，再到今日头条客...
- ## [资源不足、版权与自制能力有限，芒果TV如何适应互联网玩法？](http://www.pmtoo.com/article/47913.html)
- > 从目前我国整体网络视频行业来看，在三大平台遥遥领先已成定局的情况下，从资本到体制、从人才到内容，芒果TV目前面临的挑...
- ## [2个方面总结：打开用户增长的正确方式](http://www.pmtoo.com/article/47901.html)
- > 用户增长的本质是在数据分析框架下进行精准化运营，是一门新型的实践科学。需要在充分理解业务的前提下，对症下药，切不可迷...
- ## [产品分析：下厨房，唯有美食与爱不可辜负](http://www.pmtoo.com/article/47873.html)
- > 曾经我对下厨的全部认知仅仅停留在了妈妈做的饭菜上，所以也曾像招商银行《世界再大，大不过一盘番茄炒蛋》广告里的主人公一...
- ## [Google 说，情侣 emoji 不应该只有男女搭配](http://www.pmtoo.com/article/47860.html)
- > 如果梳理 emoji 和表情包的变迁史，你会发现这不仅是一部有趣的互联网简史，还是一份通俗易懂的历史底稿。Google 是一家...
- ## [大迁徙：小程序为什么能为微信带来流量，然后留住它们？](http://www.pmtoo.com/article/47856.html)
- > 互联网的世界里，流量就是氧气。微信生态在小程序诞生之前，已经有些沉闷了，它需要点新鲜的东西。但移动互联网世界...
- ## [如何解释中产的焦虑和对中产的误读？ | 我们如何与未来相处⑧](http://www.pmtoo.com/article/47842.html)
- > 这一部分会涉及中产阶层的焦虑、社会阶层流动与固化等问题。这一篇我们从中产焦虑和对中产的误读开始。“有时候，关键...
 
     
