@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 13:02:46
+date: 2018-06-12 17:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
 
 <p>&nbsp;</p>
 # IT 新闻 
+ ## [Springboot 应用部署建议](https://my.oschina.net/seal90/blog/1828876)
+ >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
  ## [golang sync.Pool 使用和源码分析](https://my.oschina.net/u/2950272/blog/1828632)
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
  ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
@@ -66,6 +68,12 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  >  系统选择 对于开发环境，要想少折腾，优先选择 ubuntu 系的 —— Linux Mint ，这是国外使用最多的桌面发行版之一，同时各项操作也比较人性化，建议优先考虑。 （比如 nativescript 默认只提供了 deb 包的支持。） 这里下载： https://www.linuxmin
  ## [Java NIO Channel](https://my.oschina.net/j4love/blog/1828336)
  > 写在前面         之前在学习 dubbo 源码和 netty ， 在学习到 dubbo 的传输层源码的时候不太理解 dubbo 对 Channel 的设计 ， Client ， Server 分别都实现了 Channel 接口 ， 当时是不太理解的 。又参考了一下 netty 发现 dubb
+ ## [Proxy-Go 全平台 SDK v4.9 来啦！](https://www.oschina.net/news/96999/proxy-go-4-9-released)
+ > Proxy-Go 全平台 SDK是proxy使用gombile实现了一份go代码编译为android和ios平台下面可以直接调用的sdk类库, 另外还为linux和windows提供sdk支持，基于这些类库,APP开发者可以轻松的开发出各种形式的代理工具。 此次更新： 修复了HTTP Basic代理
+ ## [ZStack 2.4.0 发布，新增企业管理以及支持 ARM 服务器](https://www.oschina.net/news/96997/zstack-2-4-0-released)
+ > ZStack 2.4.0 正式发布了，更新包括企业管理、支持ARM服务器、应用中心一系列新功能。 企业云资源按项目管理 企业管理是ZStack 2.4.0重磅推出的核心功能，也是云计算的特色功能之一。在ZStack 2.4.0中，企业管理以单独的功能模块形式提供给用户，主要包括项目管理、工单审批、独
+ ## [基金数据文件阅读器 FundFileReader 发布 V1.5.0 版本](https://www.oschina.net/news/96996/fundfilereader-v1-5-0-released)
+ > 基金数据文件阅读器 FundFileReader V1.5.0正式开源发布。 本程序是一个可以应用于国内所有公募私募TA系统和销售系统之间传递的文件的解析器。 本程序是一个用于解析中国登记结算系统（中登TA）和基金销售机构之间传递的《开放式基金交换协议》文件，以及中国登记算结算系统（中登TA）和基金
  ## [蝉知 chanzhiEPS 7.1 正式发布，企业门户系统](https://www.oschina.net/news/96993/chanzhieps-7-1-released)
  > 蝉知企业门户系统是由业内资深开发团队开发的一款专向企业营销使用的企业门户系统，企业使用蝉知系统可以非常方便地搭建一个专业的企业营销网站，进行宣传，开展业务，服务客户。蝉知系统内置了文章、产品、论坛、评论、会员、博客、帮助等功能，同时还可以和微信进行集成绑定。功能丰富实用，后台操作简洁方便。 蝉知官网
  ## [OdnShop 发布 V1.0 正式版，完整可用的开源微商城系统](https://www.oschina.net/news/96992/odnshop-v1-0-released)
@@ -100,56 +108,50 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 根据市场调查机构 Futuresource Consulting 最新公布的2018年第1季度数据，全球面向K-12（幼儿园、小学和中学的同统称）的移动PC设备出货量为580万台，去年同期为550万台，同比增加4%。亚太和欧洲地区增长趋势明显，而在中东、非洲和拉丁美洲降幅最大。 在2018年第1季度
  ## [Wine 开发版 3.10 发布，调试器已支持 Wow64 进程](https://www.oschina.net/news/96976/wine-3-10-released)
  > Wine 开发版 3.10 已发布，本次更新包含新特性的增加和 bug 修复（共计修复 17 个 bug）。 3.10 主要新增功能 在 Direct 3D 12 中支持 Swapchain Vulkan 支持更新到最新规范 调试器支持 Wow64 进程 对任务计划程序(Task Scheduler
- ## [yii2 3.0.0-alpha1 发布，高性能 PHP 框架](https://www.oschina.net/news/96975/yii2-3-0-0-alpha1-released)
- > yii2 3.0.0-alpha1 发布了。Yii 2 完全根据 Yii 1.1 版本重写，后者是最流行的 PHP 框架之一。Yii 2 继承了 Yii 的简洁、快速、和高扩展性。Yii 2 需要 PHP 5.4，并且拥有现代 Web 应用开发中最好的实例和协议。 更新内容： Bug 16065:
- ## [NethServer 7.5 正式发布，面向服务器的 Linux 发行版](https://www.oschina.net/news/96974/nethserver-7-5-released)
- > NethServer 7.5 已正式发布。 NethServer 是基于 CentOS 的面向服务器的 Linux 发行。该产品的主要特性是模块化的设计，这使得用户可以容易地将该发行版用作以下任何功能：邮件服务器和过滤器、网页服务器、群件、防火墙、网页过滤器、入侵阻止系统/入侵检测系统、虚拟专用网服
- ## [Yarn 1.8.0 发布，Facebook 推出的 JS 包管理器](https://www.oschina.net/news/96973/yarn-1-8-0-released)
- > Facebook 推出的 JavaScript 包管理器 Yarn 发布了 1.8.0 版本，Yarn 是 Facebook 推出的 JavaScript 包管理器，旨在提供 npm 之外的另一种选择方案。Yarn 具有极佳的伸缩性，可以支持成千上万个直接或间接的包依赖。Yarn 的设计初衷是保证稳
+ ## [东方世界杨潇：AR开发技术点探索](http://ai.51cto.com/art/201806/575888.htm)
+ > 东方世界杨潇：AR开发技术点探索
+ ## [Airbnb资深架构师李聪：IT系统架构设计应充分考虑用户隐私](http://news.51cto.com/art/201806/575957.htm)
+ > Airbnb资深架构师李聪：IT系统架构设计应充分考虑用户隐私
  ## [不可不知的 10 款开源 IT 安全工具](http://netsecurity.51cto.com/art/201806/575982.htm)
  > 不可不知的 10 款开源 IT 安全工具
  ## [教机器遗忘或许比学习更重要：让AI健忘的三种方式](http://zhuanlan.51cto.com/art/201806/575944.htm)
  > 教机器遗忘或许比学习更重要：让AI健忘的三种方式
  ## [3分钟深入学习Redis的高可用特性“持久化”](http://developer.51cto.com/art/201806/575960.htm)
  > 3分钟深入学习Redis的高可用特性“持久化”
+ ## [全国首套！基于Java区块链项目的实战教程](http://blockchain.51cto.com/art/201806/575899.htm)
+ > 全国首套！基于Java区块链项目的实战教程
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
  > 比特币替代品：值得关注的6种新兴密码技术
- ## [外媒速递：管理大师的四大终极段位](http://zhuanlan.51cto.com/art/201806/575935.htm)
- > 外媒速递：管理大师的四大终极段位
- ## [TIOBE 6 月编程语言榜：TypeScript 首次跻身前100](http://news.51cto.com/art/201806/575964.htm)
- > TIOBE 6 月编程语言榜：TypeScript 首次跻身前100
- ## [一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史](http://network.51cto.com/art/201806/575902.htm)
- > 一个优秀的测试基础架构是如何炼成的?eBay茹炳晟畅谈测试演进史
- ## [区块链存储机制解密：与数据库存储机制一脉相承](http://blockchain.51cto.com/art/201806/575987.htm)
- > 从数据库的角度看待区块链的存储机制会简单直观很多。在一个标准的关系型数据库中，存储一般分为日志存储、
- ## [如何检查加密USB驱动器是否安全？](http://stor.51cto.com/art/201806/575985.htm)
- > 目前，安全USB驱动器制造商正在遵循由NIST（美国国家标准与技术研究院）开发的FIPS140认证标准，该标准适用
- ## [HBase从入门到精通系列：误删数据如何抢救？](http://bigdata.51cto.com/art/201806/575980.htm)
- > 有时候我们操作数据库的时候不小心误删数据，这时候如何找回？mysql里有binlog可以帮助我们恢复数据，但是
- ## [即使是首席信息官也需要一顶安全帽：敏捷建设是智能IT的秘密武器](http://www.cioage.com/art/201806/575988.htm)
- > 敏捷建设方法正在显著地改变IT基础架构的构建方式。这些建设实践反过来又将在这些方面为首席信息官提供更大
- ## [MySQL8与PG10：新版本下的较量谁更胜一筹？](http://database.51cto.com/art/201806/575977.htm)
- > 既然MySQL 8和PostgreSQL 10已经发布了，现在是时候回顾一下这两大开源关系型数据库是如何彼此竞争的。在这
- ## [成功进行云计算迁移的八个步骤](http://cloud.51cto.com/art/201806/575976.htm)
- > 企业准备云迁移是评估其内部部署数据和应用程序，并根据业务关键性对其进行排名的宝贵机会。这有助于了解企
- ## [不懂Python，你将成为人工智能时代的新“文盲”](http://developer.51cto.com/art/201806/575973.htm)
- > 每个阶段，大家对“文盲”的定义都是不相同的，以前不识汉字就是文盲，后来不会说英语就是文盲。在人工智能
- ## [史上最全无线网桥知识，收藏这一篇就够了！](http://network.51cto.com/art/201806/575974.htm)
- > 无线网络，顾名思义，即是无需依赖网线也可以进行网络组建的方式，它主要是通过采用无线通信技术实现的。主
- ## [如何通过反向 SSH 隧道访问 NAT 后面的 Linux 服务器](http://server.51cto.com/sOS-575968.htm)
- > 你在家里运行着一台 Linux 服务器，它放在一个 NAT 路由器或者限制性防火墙后面。现在你想在外出时用 SSH
- ## [Python相比Java，谁更胜一筹呢？](http://developer.51cto.com/art/201806/575965.htm)
- > 近几年来，随着人工智能的火爆，Python一直处于各种流行编程语言排名的前列。该语言几乎可以用于任何事情。
+ ## [帮助组织治理和管理云计算支出的三个技巧](http://cloud.51cto.com/art/201806/576022.htm)
+ > 大多数研究显示云计算支出的30%以上最终被浪费，显然企业还有很多工作要做。为避免超支，企业必须认识到优
+ ## [令人激动的语音UI背后](http://zhuanlan.51cto.com/art/201806/576052.htm)
+ > 语音UI系统使用多个麦克风接收指令，声音识别系统的准确性很大程度上取决于这些阵列是否能够专注于用户的声
+ ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
+ > 荷兰央行De Nederlandsche Bank (DNB)最近在其网站上宣布：经过三年的测试，区块链技术目前无法满足金融市
+ ## [10款最好的GitHub替代品盘点！](http://os.51cto.com/art/201806/576048.htm)
+ > Github是一个功能强大，安全并且是最受欢迎的软件项目托管平台，由于它是一个开源项目的托管平台而广为人知
+ ## [云计算带来商业模式的改变，CIO将何去何从](http://cloud.51cto.com/art/201806/576015.htm)
+ > 云计算不仅仅是一种技术创新，云计算更有价值的是其带来的商业模式创新，这个商业模式的核心就是按需取用、
+ ## [2018数据科学和机器学习调查:Hadoop被抛弃!](http://bigdata.51cto.com/art/201806/576039.htm)
+ > 近日，著名数据科学网站 KDnuggets 发布了 2018 年数据科学和机器学习工具调查结果。超过 2000 人对自己「
+ ## [人工智能技术在电商搜索的落地应用](http://ai.51cto.com/art/201806/576035.htm)
+ > 一直以来都被高度曝光的人工智能领域相关应用，总是引来巨大关注。在电商搜索领域，人工智能发挥着怎样的作
+ ## [天没有塌下来！这里有GitHub之外的五个最佳选择](http://developer.51cto.com/art/201806/576032.htm)
+ > 开源代码仓库网站对于开发应用软件的科技公司和开发者社区来说同样至关重要。对于需要Git版本控制系统的项
+ ## [如何比较AWS、阿里云和DigitalOcean？](http://cloud.51cto.com/art/201806/576018.htm)
+ > 在本文中，我们将服务内容与价格上对AWS、阿里云和DigitalOcean进行比较。但是要说明的是，三大供应商的服
+ ## [如何看到数字化项目的全局视图](http://www.cioage.com/art/201806/576029.htm)
+ > 全局视图是一个整体视图，它显示一个组织的许多相关部分，这些部分相互作用以完成一些事情。一个全局视图对
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [数据结构与算法（九）Set集合和BinarySearchTree的时间复杂度分析](https://blog.csdn.net/johnny901114/article/details/80628876)
- > 数据结构与算法（九）Set集合和BinarySearchTree的时间复杂度分析
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
- ## [Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧](https://blog.csdn.net/sinyu890807/article/details/80586028)
- > Android数据库高手秘籍(九)——赶快使用LitePal 2.0版本吧
+ ## [深度学习AI美颜系列---AI美颜磨皮算法一](https://blog.csdn.net/Trent1985/article/details/80661230)
+ > 深度学习AI美颜系列---AI美颜磨皮算法一
+ ## [把100PB数据迁移到阿里云，需要几步？](https://blog.csdn.net/sunhf_csdn/article/details/80665726)
+ > 把100PB数据迁移到阿里云，需要几步？
+ ## [Spark2.1.0之模型设计与基本架构](https://blog.csdn.net/beliefer/article/details/80468095)
+ > Spark2.1.0之模型设计与基本架构
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
@@ -160,18 +162,18 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [电商---实现购物车功能](https://blog.csdn.net/xc_zhou/article/details/80647171)
+ > 电商---实现购物车功能
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
  ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
  > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
- ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
- > 怎么花140万美元“低价”，喜提300万美元豪宅？
- ## [JavaScript自己整理的基础-01](https://blog.csdn.net/Lazy_Life/article/details/80640533)
- > JavaScript自己整理的基础-01
  ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
  > 《技术人求职指南》（二）如何写好简历
+ ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
+ > 怎么花140万美元“低价”，喜提300万美元豪宅？
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -186,6 +188,16 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [抖音日活超1.5亿，月活破3亿，用户集中24-30岁](http://www.lanjingtmt.com/news/detail/35708.shtml)
+ > 短视频平台抖音今日宣布，截至2018年6月，抖音短视频日活跃用户数超过1.5亿，月活跃用户数超过3亿。
+ ## [解说大神韩乔生混搭电竞主播陈一发 优酷世界杯解说阵容破次元壁](http://www.lanjingtmt.com/news/detail/35707.shtml)
+ > 除了央视的解说阵容，此次优酷直播世界杯也推出了自己的混搭解说天团，不仅有韩乔生、董路等专业的解说大神，还有苏醒、李响等酷爱足球文化的跨界明星，更有互联网新媒体时代极具代表性的人气主
+ ## [航旅纵横致歉并将虚拟个人主页设为默认关闭](http://www.lanjingtmt.com/news/detail/35705.shtml)
+ > 航旅纵横在官方微信平台对此曾做出回应，虚拟客舱功能是正在部分航线测试的新功能，虚拟个人主页上展示的不是用户个人的真实身份信息...
+ ## [变相“现金贷”业务换马甲重来 互金协会发布防范风险提示](http://www.lanjingtmt.com/news/detail/35702.shtml)
+ > 互金协会提醒并呼吁，各会员单位和相关机构应依法合规经营，未依法取得经营放贷业务资质的机构，不得以任何形式变相开展贷款业务。
+ ## [新飞电器破产清算系误传，将通过股权拍卖招募投资人](http://www.lanjingtmt.com/news/detail/35701.shtml)
+ > 环球网科技此前曾报道，新飞电器正式申请破产拍卖。11日下午，新飞电器就此事发微博澄清道：新飞公司并没有破产清算，新飞公司的重整程序正在有序推进。
  ## [滴滴外卖开启连锁模式，距离全国连锁还有多远？](http://www.lanjingtmt.com/news/detail/35693.shtml)
  > 以网约车起家的滴滴在2018年宣布进军外卖领域，并于4月份在无锡正式上线外卖业务，实现首战告捷的滴滴外卖在短时间内接连拿下南京、泰州两城，成都即将上线，将外卖业务开展到全国的计划开
  ## [携程宣布与Booking加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35694.shtml)
@@ -197,6 +209,14 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  ## [优信“疯狂”烧钱7年亏损超49.8亿元  冲击IPO步履维艰](http://www.lanjingtmt.com/news/detail/35690.shtml)
  > 二手车电商平台优信向美国证券交易委员会（SEC）提交招股说明书，拟募资最多5亿美元在纳斯达克（NASDAQ）上市。此次，优信选择赴美上市，不要求连续三年盈利，但赴美上市的故事能否讲
 # 人工智能 
+ ## [《生命3.0》作者：在AI基础研究和教育投入上，中国完胜美国](https://yq.aliyun.com/articles/601674)
+ > 马克斯·泰格马克是人工智能领域最重要的思想家之一，《生命3.0：在人工智能的时代生而为人》的作者。本文是venturebeat网站对泰格马克...
+ ## [【Jeff Dean推荐】为什么说未来的深度学习是小、轻、快](https://yq.aliyun.com/articles/601670)
+ > 数据科学家，Jetpac 公司CTO Pete Warden发表了一篇博文，详细阐述了微型化是机器学习应用的一条出路，并且相信机器学习可以在...
+ ## [香侬专栏 | 独家对话斯坦福大学计算机系教授Percy Liang](https://yq.aliyun.com/articles/601595)
+ > 斯坦福大学计算机系助理教授、斯坦福人工智能实验室成员 Percy Liang 主要研究方向为自然语言处理（对话系统，语义分析等方向）及机器...
+ ## [蚂蚁金服ATEC技术探索大会造访伦敦，只为讲好一个普惠金融愿景](https://yq.aliyun.com/articles/601477)
+ > 小蚂蚁说：英国当地时间6月11日，一年一度为期一周的伦敦科技周（London Tech Week）正式拉开帷幕。作为伦敦科技周的重要...
  ## [高手如何做数据分析？这11招是你应该具备的技能](https://yq.aliyun.com/articles/601474)
  > 菜鸟独白用Python来玩转数据分析实在是太爽了，因为有强大的Pandas来处理数据非常方便，我个人对数据分析情有独钟，探索数据的秘密非...
  ## [美国重夺超算第一背后：英伟达GPU提供了95%计算力](https://yq.aliyun.com/articles/601469)
@@ -215,12 +235,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
  ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
  > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
- > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
- ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
- > 普林斯顿 微积分读本 修订版 PDF 130MB
- ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
- > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
  ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
  > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [【转译】 Visualization教程——PCLPlotter类](https://blog.csdn.net/liukunrs/article/details/80653239)
@@ -243,31 +257,39 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 非线性优化与g2o
  ## [机器学习tips：什么是pipeline？](https://blog.csdn.net/qq_39521554/article/details/80653463)
  > 机器学习tips：什么是pipeline？
+ ## [Spark-基于scala实现文章特征提取(TF-IDF)](https://blog.csdn.net/u012761191/article/details/80653470)
+ > Spark-基于scala实现文章特征提取(TF-IDF)
+ ## [这一本书教你用Python快速入门深度神经网络](https://blog.csdn.net/epubit17/article/details/80653501)
+ > 这一本书教你用Python快速入门深度神经网络
+ ## [论文阅读——矩阵填补模型之深度矩阵分解（Deep Matrix Factorization）](https://blog.csdn.net/manduner/article/details/80653567)
+ > 论文阅读——矩阵填补模型之深度矩阵分解（Deep Matrix Factorization）
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
- ## [优秀设计案例分析：用户引导（上）](http://www.woshipm.com/pd/1057170.html)
- > 当一个产品上线新功能或者更新某些信息的时候，往往需要引导用户去使用，或者去提供一些信息给用户，而用户引导在此时就比较重要。本文结合了一些优秀设计案例分析，用...
- ## [复盘｜关于推动项目的经验——以腾讯投资IF大会为例](http://www.woshipm.com/operate/1057640.html)
- > 这是一个非常考验沟通技巧的项目，项目过程中也遇到了因为无效沟通而徒增的困难，虽然最后也是解决了，但我联系到过往项目，在思索一个问题，“如何有效沟通？”。顺畅的...
- ## [如何进行产品规划与工时评估？](http://www.woshipm.com/pmd/1053793.html)
- > 产品狗们要如何去进行产品规划和工时评估呢？本文作者针对这方面的问题，给大家提供了一个思路，一起来文章中看看~对象：产品狗们环境：非外包（需要拼命抢夺资源）...
- ## [搭建流量分配体系（1）：从外卖业务说起](http://www.woshipm.com/operate/1057112.html)
- > 对于平台产品来说，流量分配是一个重要的问题。如何把平台流量合理的分配到各个业务线，业务线如何把流量合理的分配给商家？这些问题经常困扰着O2O业务形态与电商业务...
- ## [2方面分析：1～3年经验的产品经理，该“跳槽”么？](http://www.woshipm.com/pmd/1056873.html)
- > 跳槽这个问题，对于很多人来说都是一个难题，经常会纠结自己应不应该跳槽，如果跳槽那值不值得？文章作者从两个方面来分析，一到三年经验的产品经理，到底要不要跳槽。...
- ## [面对新零售大风口，传统连锁该如何进行转型?](http://www.woshipm.com/newretail/1056947.html)
- > 马云说过：真正的纯电商时代过去了，做到下一步，就是新零售，也就是从线上流量的争夺到线下流量的争夺。从趋势看，今年，新零售逐步向垂直化行业延伸，迈向纵深，传统...
- ## [线上+线下课程 | 给产品新人的绝佳高薪计划，从入门到求职一次搞定！](http://www.woshipm.com/active/1057222.html)
- > 这是一个人人都是产品经理的时代，也是一个人人都向往产品经理的时代。工资水平：在北京上海一线城市，有89%的产品经理月薪在6k以上，超过一半的产品经理月薪过万。...
- ## [短视频产品的竞品分析与教育短视频的一些遐想](http://www.woshipm.com/evaluating/1027999.html)
- > 近年来随着互联网发展，社交方式逐步由文字，图片转向了语音、视频。随着快手、抖音等各大短视频平台成立，短视频社交成为了大家喜爱的生活方式，各大互联网巨头抢占市...
- ## [2.4万个小红书的作者数据，分析下小红书如何引领海外消费潮流](http://www.woshipm.com/user-research/1057162.html)
- > 一边是淘宝天猫，一边是京东苏宁，夹在中间本应该苦苦挣扎的小红书，反倒频频从巨头手里领来巨资。能够成为《创造101》赞助商的平台，肯定不是泛泛之辈。从朋友手里拿...
- ## [如何最终敲定一套设计语言？](http://www.woshipm.com/pd/1051123.html)
- > 前面两篇文章作者分享了，为什么需要设计语言，对内对外有哪些帮助。同时和大家分享了，在做设计语言之前我们先要建立设计原则，以及设计原则下面的设计关键词，通过设...
- ## [5个步骤教你做ERP：权限系统（一）](http://www.woshipm.com/pd/1056633.html)
- > 没有权限系统的ERP，是没有灵魂没有大脑的躯壳，一个权限混乱的ERP，是一个四肢不协调的机器人，哪怕指令再明确，行为也达不到期望要求。本文主要分为五个步骤来教你如...
+ ## [从BAT到ATM，蚂蚁金服的逻辑和风险](http://www.woshipm.com/it/1057344.html)
+ > 蚂蚁金服在不断强化其科技公司的属性，继余额宝开放后，进一步开放了花呗、借呗来强化其连接者的角色，随着蚂蚁金服估值突破1500亿美元，中国互联网的格局要变了，ATM的...
+ ## [译文｜设计师需要了解的机器学习基础知识](http://www.woshipm.com/pd/1058017.html)
+ > 由于机器学习现在比以往任何时候都更容易获得，设计师今天有机会思考如何将机器学习应用于改进他们的产品。设计师应该能够与软件开发人员讨论什么是可能的，如何准备，...
+ ## [通过折线图，思考后台产品Dashboard设计](http://www.woshipm.com/pd/1057144.html)
+ > 《白》一书提及了茶道中“留白”的力量，这种力量让设计者更贴近设计初衷，通过对必要差异的控制，保留最重要的信息，脱离浮夸且无意义的设计。本文借鉴这种力量，思考了...
+ ## [做出刷屏级创意的6大哲学（下）](http://www.woshipm.com/marketing/1057885.html)
+ > 把人加入公式，创意才真正开始作用。人是一切传播的基础，它让我们看透营销的演化，触及品牌的本质。人，世界上最基本、最自然的元素。一切广告创意，不管是理性的还...
+ ## [企业“走出去”上市，这仅仅只是起点](http://www.woshipm.com/chuangye/1057777.html)
+ > ​在内地上市，和赴美或中国香港上市，有着一些本质的区别，而这些区别，对于绝大多数中国科技企业来说，是非常关键的。尽管国内大都数的企业都选择在香港和美国上市，但...
+ ## [用户行为管理实操：什么是锚式并列以及如何使用？](http://www.woshipm.com/user-research/1057783.html)
+ > 在对用户做一系列目标行为来促进拉新、留存、促活、转化时，我们要在给与用户充足的自由感的同时，管理用户的行为，使得他们做出我们想要的选择。很多时候，我们需要...
+ ## [6 个实例告诉你：可用性测试究竟是什么？](http://www.woshipm.com/it/1057846.html)
+ > 可用性测试是什么？本文作者通过用六个实例来分析，如果你还不清楚可用性测试是什么，那就来文章中看看~可用性测试其实没有那么难，反倒是一件非常容易做的事情。在之...
+ ## [通过短视频案例分析，聊聊产品调研的套路](http://www.woshipm.com/pmd/1056032.html)
+ > 作为一名产品经理，产品调研可谓是必备的技能。当一个新的创意或者新的idea产生的时候，我们需要了解市场相关的情况，这时就会用到产品调研。本文将通过演示一个案例，...
+ ## [什么是关联图谱？](http://www.woshipm.com/it/1057792.html)
+ > 关联图谱基于图数据库建立关系网络图，是一种可视化的智能分析产品。通过数据抽取和转换，图计算引擎对数据进行查询和分析，实现秒级数据运算和数据可视化，并以图谱的...
+ ## [一位产品总监分享：从百度到华为，我这五年的工作经历](http://www.woshipm.com/zhichang/1057893.html)
+ > 这篇文章适合你慢慢品味，因为本文作者一看就是那种有一定文字底蕴之人，而他的这些经历、思考总结，是宝贵的，值得你慢慢吸收。enjoy~很久没有写东西了。一是，向来...
+ ## [Soul产品分析报告](http://www.woshipm.com/evaluating/1056606.html)
+ > 随着人们生活水平的不断提高，人们的追求目标也渐渐从物质需求提升到了精神需求上来，社交就是其中一方面。最近，一款基于心灵的社交APP——“Soul”吸引了我的眼球。让我们...
+ ## [小猪佩奇过气了，但年轻人还爱着它](http://www.woshipm.com/it/1057860.html)
+ > 尽管现在社会人小猪佩奇已经过气了，也并没有出现墙倒众人推的局面。还在玩的人也不会遭到嘲笑，大家会用带着爱意的眼神接受。六月的第一天，小猪佩奇似乎又回到了「...
  ## [沉寂3个多月的直播答题 换个马甲又回来啦？](http://www.pmtoo.com/article/47930.html)
  > 最近，一款名为“今日歌王”的APP因在快乐大本营上被主持人强烈“安利”，一时间名声大振。这款游戏的设置和今年年初大热的“...
  ## [科普：阿里的“智能养猪”，是怎么一回事儿](http://www.pmtoo.com/article/47924.html)
