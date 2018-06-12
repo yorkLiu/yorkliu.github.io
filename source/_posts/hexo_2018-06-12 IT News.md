@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 18:16:26
+date: 2018-06-12 18:19:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -156,22 +156,22 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [JavaScript自己整理的基础-01](https://blog.csdn.net/Lazy_Life/article/details/80640533)
  > JavaScript自己整理的基础-01
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
- ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
- > 凌晨3点不回家，你咋不去死
- ## [电商---实现购物车功能](https://blog.csdn.net/xc_zhou/article/details/80647171)
- > 电商---实现购物车功能
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [电商---实现购物车功能](https://blog.csdn.net/xc_zhou/article/details/80647171)
+ > 电商---实现购物车功能
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
+ ## [凌晨3点不回家，你咋不去死](https://blog.csdn.net/Ly4wU5giY/article/details/80523046)
+ > 凌晨3点不回家，你咋不去死
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -186,6 +186,8 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [咪咕视频联合新浪微博发布“MW”计划 合作世界杯内容传播](http://www.lanjingtmt.com/news/detail/35714.shtml)
+ > 今日中国移动旗下咪咕视频宣布，在俄罗斯世界杯期间将与新浪微博在赛事短视频、自制节目、互动玩法传播推广等方面展开合作。
  ## [51TalkQ1净亏收窄至1.13亿元，K12现金收入84%](http://www.lanjingtmt.com/news/detail/35712.shtml)
  > 对于K-12青少一对一大众市场业务，非一线城市的现金收入占比提升到63%。2018年首要发展K-12青少一对一大众市场业务，这将有利于向非一线城市下沉。
  ## [美团最快9月赴港上市，最新估值600亿美元](http://www.lanjingtmt.com/news/detail/35711.shtml)
