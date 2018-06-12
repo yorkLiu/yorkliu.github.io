@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 10:15:00
+date: 2018-06-12 10:15:36
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -142,36 +142,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 最近我在作者社区征集分享大家正在读的书。大家生活阅历和工作岗位各不相同，共同点是每天都与 Linux 和开
  ## [微软宣布停止支持官方论坛Win7分版：加速淘汰步伐](http://news.51cto.com/art/201806/575949.htm)
  > 目前，Windows 7已经结束主流支持，进入扩展/外延支持序列，也就是微软不会发布功能更新（即Service Pack
- ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
- > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
- ## [让人们久等了的TCP BBR v2.0快要出炉了！](https://blog.csdn.net/dog250/article/details/80629551)
- > 让人们久等了的TCP BBR v2.0快要出炉了！
- ## [未来物联网的一些问题](https://blog.csdn.net/chszs/article/details/80629056)
- > 未来物联网的一些问题
- ## [ArcGIS水文分析实战教程(18) 河段桩号与线性参考](https://blog.csdn.net/liyuanxiang1984/article/details/80623624)
- > ArcGIS水文分析实战教程(18) 河段桩号与线性参考
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee](https://blog.csdn.net/cH3RUF0tErmB3yH/article/details/80570509)
- > 青出于蓝而胜于蓝！他在大学期间用Python开发APP-MMUBee
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [想转行人工智能？机会来了！！！](https://blog.csdn.net/Mbx8X9u/article/details/80589563)
- > 想转行人工智能？机会来了！！！
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [收购 GitHub 滔天争议后，微软回应一切](https://blog.csdn.net/csdnnews/article/details/80656833)
@@ -195,6 +165,36 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
 # 人工智能 
  ## [白皮书：AI时代零售业的智能变革](https://yq.aliyun.com/articles/601446)
  > 6月7日，在阿里巴巴云栖大会上海峰会上，阿里云研究院发布了《AI时代零售业智能化变革》白皮书，指出传统零售行业应当以数据和智能技术为核心，从...
+ ## [CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》](https://blog.csdn.net/blogdevteam/article/details/80656667)
+ > CSDN日报1806011——《你的关注点在哪里，你的进步就在哪里》
+ ## [深度学习初探](https://blog.csdn.net/miller1026/article/details/80652696)
+ > 深度学习初探
+ ## [使用Python进行数据可视化（三、处理csv文件）](https://blog.csdn.net/qq_41068877/article/details/80652701)
+ > 使用Python进行数据可视化（三、处理csv文件）
+ ## [deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）](https://blog.csdn.net/u013507678/article/details/80652721)
+ > deeplearning.ai学习笔记（8）—— 机器学习（ML）策略（2）
+ ## [对于卷积神经网络中全连接层的理解](https://blog.csdn.net/lianzhng/article/details/80652744)
+ > 对于卷积神经网络中全连接层的理解
+ ## [重标极差法（R/S）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80652753)
+ > 重标极差法（R/S）在matlab上的实现
+ ## [使用Squeeze-Net 为基础网络的ssd（keras）](https://blog.csdn.net/qq_29068265/article/details/80652815)
+ > 使用Squeeze-Net 为基础网络的ssd（keras）
+ ## [机器学习中一些基本的算法源码实现及注释详情](https://blog.csdn.net/qq_37616069/article/details/80652951)
+ > 机器学习中一些基本的算法源码实现及注释详情
+ ## [人工智能数学基础----导数](https://blog.csdn.net/u010164190/article/details/80652987)
+ > 人工智能数学基础----导数
+ ## [一文读懂 CNN、DNN、RNN 内部网络结构区别](https://blog.csdn.net/hpulfc/article/details/80652999)
+ > 一文读懂 CNN、DNN、RNN 内部网络结构区别
+ ## [针对流体流动和温度场的数值分析步骤](https://blog.csdn.net/hola_/article/details/80653090)
+ > 针对流体流动和温度场的数值分析步骤
+ ## [cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法](https://blog.csdn.net/zhangcucmb/article/details/80653128)
+ > cross_val_score或GridSearchCV scoring参数中使用多个自定义值方法
+ ## [普林斯顿 微积分读本 修订版 PDF 130MB](https://blog.csdn.net/qqduxingzhe/article/details/80653204)
+ > 普林斯顿 微积分读本 修订版 PDF 130MB
+ ## [官网实例详解4.28（mnist_mlp.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80653233)
+ > 官网实例详解4.28（mnist_mlp.py）-keras学习笔记四
+ ## [西门子SCL语言学习笔记——上升沿/下降沿运算的应用](https://blog.csdn.net/tichimi3375/article/details/80653238)
+ > 西门子SCL语言学习笔记——上升沿/下降沿运算的应用
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前四篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
