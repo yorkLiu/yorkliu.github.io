@@ -1,7 +1,7 @@
 ---
 title: 2018-06-12 IT News
 copyright: true
-date: 2018-06-12 12:33:52
+date: 2018-06-12 12:33:23
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,46 +58,6 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
 
 <p>&nbsp;</p>
 # IT 新闻 
- ## [蝉知 chanzhiEPS 7.1 正式发布，企业门户系统](https://www.oschina.net/news/96993/chanzhieps-7-1-released)
- > 蝉知企业门户系统是由业内资深开发团队开发的一款专向企业营销使用的企业门户系统，企业使用蝉知系统可以非常方便地搭建一个专业的企业营销网站，进行宣传，开展业务，服务客户。蝉知系统内置了文章、产品、论坛、评论、会员、博客、帮助等功能，同时还可以和微信进行集成绑定。功能丰富实用，后台操作简洁方便。 蝉知官网
- ## [OdnShop 发布 V1.0 正式版，完整可用的开源微商城系统](https://www.oschina.net/news/96992/odnshop-v1-0-released)
- > OdnShop是基于ASP.NET 4.0+Mysql开发的开源微商城系统，我们的目标是构建一个核心完善而又轻量级的微商城平台。 本版本更新功能： 1，修正数据库操作的部分表名称的表前缀错误； 2，修正首页的图标链接错误。 OdnShop系统是作者本人在基于为客户定制的微商城系统基础上删减功能而来，
- ## [DocHub v1.0 版本发布，构建你自己的百度文库](https://www.oschina.net/news/96990/dochub-1-0-released)
- > DocHub文库系统，使用Go语言的beego框架开发的类百度文库系统，实现office、PDF等文档在线浏览。 当前发布1.0版本，属于尝鲜版，mobi、epub和txt等格式文档，暂时还没有实现在线浏览的支持，但是已有解决方案，目前还在开发和测试中。 发布日志 1. Office、PDF等文档在
- ## [Android Studio 3.2 Canary 18 发布，常规更新](https://www.oschina.net/news/96989/android-studio-3-2-canary-18-released)
- > Android Studio 3.2 Canary 18 已发布，此次更新主要修复以下问题： 包含测试库的依赖导致导航编辑器阻止等待构建完成。 使用文本框调试布局时，调试器崩溃。 OnePixelDivider 有一个 myDisposable 实例，该实例在处置实例时未被清除。 默认的 .giti
- ## [码云企业版任务管理增加了成员看板，谁干什么都清楚](https://www.oschina.net/news/96988/gitee-task-management-enhance)
- > 码云企业版的任务管理又更新啦！！！ 新增成员看板，让你可以清楚看到团队成员手头上的任务，如下图所示： 接下来我们还会继续改进看板，支持各种自定义，敬请期待。 同时还支持任务的批量操作： 预告：上周我们推出了 JavaDoc 在线生成和托管服务（详情），非常受欢迎。但是还没结束，因为 PHP 文档在线
- ## [MKVToolNix 24.0.0 发布，包含 Bug 修复的常规更新](https://www.oschina.net/news/96987/mkvtoolnix-v24-0-0-released)
- > MKVToolNix 24.0.0 已发布，该版本主要带来了一些 Bug 修复及功能增强。比特流格式尚未最终确定，因此 AV1 支持没有改变。 更新内容： 功能及增强： mkvmerge: 改进了对由两个相同条目组成的编辑列表的检测，每个条目跨越电影 header atom 中给出的文件持续时间。第
- ## [TIOBE 6 月编程语言榜：TypeScript 首次跻身前100](https://www.oschina.net/news/96986/tiobe-index-201806)
- > TIOBE 公布了 6 月编程语言指数排名榜，此次榜单的焦点在于 TypeScript 成功跻身前100名，以及 C 语言指数再度暴涨。 TypeScript 语言已经被 TIOBE 追踪了好几年，作为微软推出的 JavaScript 增加版，尽管它在业界的知名度很高，但是从未进入前100名。本月 
- ## [PYPL 6 月 IDE 指数榜：IntelliJ 追上 Sublime Text](https://www.oschina.net/news/96985/pypl-top-ide-index-201806)
- > PYPL 6 月的 IDE 指数榜单 Top IDE index 已经发布了，本月排名前 3 位的 IDE 与上个月相同，分别是 Visual Studio、Eclipse 和 Android Studio，前 10 名中，Xcode 被 PyCharm 反超，IntelliJ 追上 Sublime
- ## [放弃 Windows 7！微软停止在论坛上对其提供技术支持](https://www.oschina.net/news/96984/microsoft-abandons-win7-support-on-forums)
- > 微软在官网论坛的一个帖子中宣布，自2018年7月起，停止在论坛上对 Windows 7 和 Windows 8.1/8.1 RT 相关主题的讨论提供技术支持。 上个月底我们报道了一份关于 Windows 操作系统的调查结果，其中显示 Windows 7 使用率相比 2017 年大幅下降，从 64% 
- ## [6 月 23 日南京源创会，与您探讨 AI 领域在开源的发展](https://www.oschina.net/event/2279616?origin=zhzx)
- > AI技术和行业日趋火热，业界Google、腾讯、华为等各大厂商也陆续投入其中。本次将于大家分享AI领域的开技术及社区生态，涵盖 AI基础设施、机器学习引擎、模型支持、分布式支持等方面，和与会者共同探讨AI领域在开源的发展。
- ## [每日一博 | 优雅地处理你的 Java 异常](https://my.oschina.net/c5ms/blog/1827907)
- > 本文仅按照业务系统开发角度描述异常的一些处理看法.不涉及java的异常基础知识,可以自行查阅 《Java核心技术 卷I》 和 《java编程思想》 可以得到更多的基础信息.
- ## [码云推荐 | 中小型视频网站省流量神器 hlsjs-p2p-engine](https://gitee.com/cdnbye/hlsjs-p2p-engine)
- > hlsjs-p2p-engine的目标是开发一个hls.js的插件，通过WebRTC datachannel技术，在不影响用户体验的前提下，最大化p2p率，从而为CP节省流量成本。而在H5采用的视频传输格式中，hls由于兼容ios和android、可以穿过任何允许HTTP数据通过的防火墙、容易使用内
- ## [iView Weapp  — 一套高质量的微信小程序 UI 组件库](https://www.oschina.net/p/iview-weapp)
- > iView Weapp 提供了与 iView 一致的 UI 和尽可能相同的接口名称，大幅度降低了学习成本，使用起来如鱼得水。如果你是 iView 的核心用户，用起 iView Weapp 来甚至不用看文档！当然，我们对新用户也很友好，事无巨细的文档、友好的 API 和完整的示例，几分钟就可以上手啦。
- ## [10 款程序员必备的免费开源安全工具，助你成为极客](https://www.oschina.net/news/96979/10-open-source-cyber-security-tools)
- > 信息安全工程师、网络安全产品以及相关的技术和流程都需要耗费企业大量的成本，对于大部分企业来说，往往会缩减这一部分的支出，因此许多开发人员都会首选免费的开源安全工具。 事实上，无论是学习，试验，还是在生产基础上进行部署，安全专业人员长期以来都将开源软件视为其工具包的重要组成部分。本文我们将盘点10个你
- ## [OSChina 周二乱弹 —— 因为这样被离职了](https://my.oschina.net/xxiaobian/blog/1828534)
- > FalconChen ：我的动弹微信小程序竟然通过审核了，欢迎大家扫码测试。小小编辑：你开发的乱弹在动弹的入口，现在还是每天发布，什么也不说了，支持你一下。
- ## [2018 教育市场移动设备数据出炉，Windows 依然是老大](https://www.oschina.net/news/96977/global-k12-mobile-pc-education-market-state)
- > 根据市场调查机构 Futuresource Consulting 最新公布的2018年第1季度数据，全球面向K-12（幼儿园、小学和中学的同统称）的移动PC设备出货量为580万台，去年同期为550万台，同比增加4%。亚太和欧洲地区增长趋势明显，而在中东、非洲和拉丁美洲降幅最大。 在2018年第1季度
- ## [Wine 开发版 3.10 发布，调试器已支持 Wow64 进程](https://www.oschina.net/news/96976/wine-3-10-released)
- > Wine 开发版 3.10 已发布，本次更新包含新特性的增加和 bug 修复（共计修复 17 个 bug）。 3.10 主要新增功能 在 Direct 3D 12 中支持 Swapchain Vulkan 支持更新到最新规范 调试器支持 Wow64 进程 对任务计划程序(Task Scheduler
- ## [yii2 3.0.0-alpha1 发布，高性能 PHP 框架](https://www.oschina.net/news/96975/yii2-3-0-0-alpha1-released)
- > yii2 3.0.0-alpha1 发布了。Yii 2 完全根据 Yii 1.1 版本重写，后者是最流行的 PHP 框架之一。Yii 2 继承了 Yii 的简洁、快速、和高扩展性。Yii 2 需要 PHP 5.4，并且拥有现代 Web 应用开发中最好的实例和协议。 更新内容： Bug 16065:
- ## [NethServer 7.5 正式发布，面向服务器的 Linux 发行版](https://www.oschina.net/news/96974/nethserver-7-5-released)
- > NethServer 7.5 已正式发布。 NethServer 是基于 CentOS 的面向服务器的 Linux 发行。该产品的主要特性是模块化的设计，这使得用户可以容易地将该发行版用作以下任何功能：邮件服务器和过滤器、网页服务器、群件、防火墙、网页过滤器、入侵阻止系统/入侵检测系统、虚拟专用网服
- ## [Yarn 1.8.0 发布，Facebook 推出的 JS 包管理器](https://www.oschina.net/news/96973/yarn-1-8-0-released)
- > Facebook 推出的 JavaScript 包管理器 Yarn 发布了 1.8.0 版本，Yarn 是 Facebook 推出的 JavaScript 包管理器，旨在提供 npm 之外的另一种选择方案。Yarn 具有极佳的伸缩性，可以支持成千上万个直接或间接的包依赖。Yarn 的设计初衷是保证稳
  ## [不可不知的 10 款开源 IT 安全工具](http://netsecurity.51cto.com/art/201806/575982.htm)
  > 不可不知的 10 款开源 IT 安全工具
  ## [教机器遗忘或许比学习更重要：让AI健忘的三种方式](http://zhuanlan.51cto.com/art/201806/575944.htm)
@@ -178,6 +138,16 @@ AI&#25945;&#26448;&#27491;&#24335;&#21457;&#24067; &#20154;&#24037;&#26234;&#330
  > 在一个 Linux 内核 4.18-rc1 的 Pull Request 中，开发者 Andy Shevchenko 表示其在对设备属性框架进行更新时，移除了 union 别名，这引发了 Linus 的暴怒。这一次 Linus Torvalds 发怒的原因在于 Andy 给出的移除 union...
  ## [揭秘比特币江湖传奇](https://blog.csdn.net/csdnnews/article/details/80647748)
  > 作者简介：冯静哲，2013加入去哪儿网，从事后端开发工作，非典型程序员，乐于收集技术圈八卦，最近对人文社会科学感兴趣。比特币和区块链，从最初的无人问津，到当前的炙手可热。笔者从2011年接触到比特币，经历了技术的变迁，资本的狂热，监管的介入。体验了起伏跌宕之后，本已决定退出不再关注...
+ ## [滴滴外卖开启连锁模式，距离全国连锁还有多远？](http://www.lanjingtmt.com/news/detail/35693.shtml)
+ > 以网约车起家的滴滴在2018年宣布进军外卖领域，并于4月份在无锡正式上线外卖业务，实现首战告捷的滴滴外卖在短时间内接连拿下南京、泰州两城，成都即将上线，将外卖业务开展到全国的计划开
+ ## [携程宣布与Booking加强战略合作，继续共享酒店库](http://www.lanjingtmt.com/news/detail/35694.shtml)
+ > 携程旅行网（纳斯达克: CTRP）宣布，将与Booking Holdings(纳斯达克: BKNG)进一步增强战略合作关系。携程表示，将和Booking.com继续共享两家公司的酒
+ ## [5000万迷你融资引争议！暴风冯鑫还能挺下去吗？](http://www.lanjingtmt.com/news/detail/35692.shtml)
+ > 备受质疑的暴风显然近段时间又走上了风口浪尖，撤回18亿抛出5000万的迷你融资，真让人搞不明白暴风葫芦里到底卖着什么药？
+ ## [违反《劳动法》！亚马逊承认富士康在中国非法雇佣8000人](http://www.lanjingtmt.com/news/detail/35691.shtml)
+ > 如今，亚马逊和“血汗工厂”一词捆绑登上各大新闻网头条。事件源起于亚马逊在富士康湖南衡阳工厂使用派遣员工及薪酬待遇违反《劳动法》。
+ ## [优信“疯狂”烧钱7年亏损超49.8亿元  冲击IPO步履维艰](http://www.lanjingtmt.com/news/detail/35690.shtml)
+ > 二手车电商平台优信向美国证券交易委员会（SEC）提交招股说明书，拟募资最多5亿美元在纳斯达克（NASDAQ）上市。此次，优信选择赴美上市，不要求连续三年盈利，但赴美上市的故事能否讲
 # 人工智能 
  ## [高手如何做数据分析？这11招是你应该具备的技能](https://yq.aliyun.com/articles/601474)
  > 菜鸟独白用Python来玩转数据分析实在是太爽了，因为有强大的Pandas来处理数据非常方便，我个人对数据分析情有独钟，探索数据的秘密非...
