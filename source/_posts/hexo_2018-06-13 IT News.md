@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 17:02:44
+date: 2018-06-13 17:05:46
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [如何选择 Web 前端模板引擎？](https://my.oschina.net/editorial-story/blog/1825266)
  > Web 模板就在那里 模板引擎负责组装数据，以另外一种形式或外观展现数据。 浏览器中的页面是 Web 模板引擎最终的展现。 无论你是否直接使用模板引擎，Web 模板一直都在，不在前端就在后端，它的出现甚至可以追溯到超文本标记语言 HTML 标准正式确立之前。 服务器端的模板引擎 我所知道最早的 We
+ ## [微信模块 Oejia_wx v0.5.2 发布，优化配置增加直发微信消息](https://www.oschina.net/news/97038/oejia_wx-0-5-2-released)
+ > Oejia_wx v0.5.2 发布了。Odoo 的微信模块，提供了对微信公众号和企业号（企业微信）的接入与管理，实现了微信消息与Odoo聊天的无缝对接 v0.5.2 增加同步用户或用户组时的确认窗口提示 对接配置页优化，兼容python3 odoo11的配置保存模式 通讯录secret可单独配置，
  ## [然之协同 4.7.stable 发布，请假新增年假天数设置功能](https://www.oschina.net/news/97037/ranzhi-4-7-stable-released)
  > 然之协同办公系统是一款面向中小企业内部管理的协同办公系统，由客户管理(crm)、日常办公(oa)、现金记账(cash)、团队分享(team)、项目管理（proj）、阿米巴应用（ameba）应用导航(ips)等模块组成。专注于提供一体化、精简的解决方案，真正开源免费，扩展性强，支持二次开发。  6月1
  ## [GoodERP 18.24 发布，开源企业管理软件](https://www.oschina.net/news/97036/gooderp-18-24-released)
@@ -96,8 +98,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 要深入理解具体实现原理后续的业务扩展，把t-io玩6起来还需要耐心看看源码，看了之后我相信你一定会有收获的。其实t-io 在2.4的版本中已加入的集群实现的逻辑代码，只是官方没有写文档以及完整的示例而已，在此不得不说t-io 是一个比较良心的开源项目，很多业务场景都有考虑到。
  ## [OSC 周三乱弹 — 别看现在产品经理闹得欢，将来早晚……](https://my.oschina.net/xxiaobian/blog/1829248)
  > 一般公司最容易被认为摸鱼的岗位就是运维了，有事了，恨不得让运维上吊，但是运维运作得好，就是服务器一年到头不出事，领导总觉得是不是自己白养了运维这个部门。
- ## [IPv6 普及率已达 1/4，互联网之父 Vint Cerf ：这还不够](https://www.oschina.net/news/97012/ipv6-covered-1-4-network-flow-not-enough)
- > 根据外媒ZDNet上周的消息，IPv6推出至今已有6年，其普及率现在已接近1/4。在迎接IPv6启动6周年的一个视频中，互联网之父、谷歌公司副总裁Vint Cerf表示这还不够，呼吁应尽快升级IPv6。 Cerf指出，拥有128位地址池的IPv6能够支持数万亿台互联网连接设备连接在一起的世界，而IP
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
@@ -136,12 +136,12 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 2018年俄罗斯世界杯快来了，今年的大力神杯又将花落谁家?想必每个球迷心中都有自己的答案。但是对于那些银
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
- > 奥布莱恩杯尘埃落定 人工智能立功了！
  ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
  > Zipkin实践：Python项目中跟踪系统导入Zipkin
  ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
  > 数据分析师、数据科学家、大数据专家三个职位的区别
+ ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
+ > 奥布莱恩杯尘埃落定 人工智能立功了！
  ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
  > 《技术人求职指南》（二）如何写好简历
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
@@ -154,14 +154,14 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
  > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
  ## [价值3980元的web全栈视频，3万人都看过，你想免费领取吗？](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80491146)
  > 价值3980元的web全栈视频，3万人都看过，你想免费领取吗？
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [“6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？](https://blog.csdn.net/xunshangkeji/article/details/80647347)
+ > “6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
  ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
