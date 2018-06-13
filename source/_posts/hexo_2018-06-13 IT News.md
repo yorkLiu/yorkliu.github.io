@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:21:52
+date: 2018-06-13 09:22:50
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -90,12 +90,12 @@ categories: IT NEWS
  > 在开发服务器基础设施计划之前，可能会推出新的6G标准。但是，在引入无线通信技术的先前发展时，这些变化可
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [大规模分布式系统的跟踪系统：Dapper设计给我们的启示](https://blog.csdn.net/liumiaocn/article/details/80657661)
+ > 大规模分布式系统的跟踪系统：Dapper设计给我们的启示
  ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
  > 数据分析师、数据科学家、大数据专家三个职位的区别
  ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
  > 基于线性SVM的CIFAR-10图像集分类
- ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
- > Zipkin实践：Python项目中跟踪系统导入Zipkin
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
