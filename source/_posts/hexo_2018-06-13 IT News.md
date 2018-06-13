@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:05:44
+date: 2018-06-13 12:06:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,6 +56,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 # IT 新闻 
  ## [Springboot 应用部署建议](https://my.oschina.net/seal90/blog/1828876)
  >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
+ ## [Java 社区平台 Symphony 3.0.0 发布，新增问答帖](https://www.oschina.net/news/97027/symphony-3-0-0-released)
+ > Java 社区平台 Symphony 3.0.0 发布了，更新内容如下： 新增特性 486 新的帖子类型：问答帖 优化改进 643 细分 401 及 403 644 去掉签到时间限制 646 个人设置位置移到隐私中 654 更新 IP 定位 655 更新邮箱修复缺陷 652 帖子快链时丢失查询参数 
  ## [后台管理系统 icec v1.1 发布，完善打包部署脚本](https://www.oschina.net/news/97024/icec-1-1-released)
  > icec 有段时间没有在oschina上面更新了，但作者在实际项目中一直在使用和完善。 功能更新日志： 增加定时任务配置（quartz实现） 整合activiti工作流（在线配置流程） 系统基本信息配置（系统名称，logo等可配置修改） 除以上功能更新外，本地重点介绍下打包部署脚本的更新： spri
  ## [v-region 1.5.0 发布，基于 Vue2 的中国行政区划选择器](https://www.oschina.net/news/97023/v-region-1-5-0-released)
@@ -94,8 +96,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > Ampache 3.8.7 已发布，更新如下： 从远程站点收集作品时可更好地清理图像扩展。 检查B.O.M. (\xff\xfe)只能在 mp3 作曲家标签中删除。 增加 .ogv 编码目标，更有效地传输 mkv 文件。 顶级菜单外观更适合需要翻译的读者。 对 update_remote_catal
  ## [CrateDB 3.0.2 发布，分布式 SQL 数据库](https://www.oschina.net/news/97005/crate-3-0-2-released)
  > CrateDB 3.0.2 已发布，目前没有发现具体更新公告，您可以关注更新主页或提交日志了解详情。 Crate 是一个开源的大规模的可伸缩的数据存储系统，无需任何系统管理需求。提供强大的搜索功能。用于存储各种表格数据、非结构化数据和二进制对象。并可通过 SQL 进行检索。易于安装和使用，支持高可用
- ## [Sylius 1.2.0，1.1.7 和 1.0.16，PHP 电子商务网站框架](https://www.oschina.net/news/97004/sylius-v1-1-7-and-1-0-16--and-1-2-0released)
- > Sylius 1.2.0，1.1.7 和 1.0.16 发布了。Sylius是第一个基于Symfony和Doctrine定制解决方案的电子商务框架。高质量的代码，强大的测试文化，内置的敏捷（BDD）工作流程和卓越的灵活性使其成为针对您的业务需求量身定制的最佳解决方案。功能强大的REST API允许轻
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
