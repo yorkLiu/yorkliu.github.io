@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:48:25
+date: 2018-06-13 09:49:42
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -166,6 +166,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 苹果WWDC大会：iOS求稳，AR求新，APP求全
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
+ ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
+ > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
  > 日前，SHAREit(茄子快传)对外宣布，在全球用户数已超过15亿，同时，前Zynga、Pinterest高管王超将担任茄子快传新任COO。
  ## [OPPO VS vivo，比敌人更接近敌人](http://www.lanjingtmt.com/news/detail/35729.shtml)
@@ -203,8 +205,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > openCV数据符号说明
  ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
  > 用Python生成词云
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [线上课程｜工作2-3年，没有产品经验，怎样才能顺利转岗获得产品offer](http://www.woshipm.com/active/1051268.html)
  > 产品经理发展前景广阔，薪资待遇高，不少同学都萌生了转产品经理的想法。互联网从业者，和产品有接触，通过转产品突破职业发展瓶颈，从执行层跃迁到管理层；传统行...
