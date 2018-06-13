@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:06:22
+date: 2018-06-13 10:08:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -164,8 +164,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 工程狮爸爸如何准备儿童节礼物？
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
+ ## [“董小姐”的造车梦何去何从？](http://www.lanjingtmt.com/news/detail/35715.shtml)
+ > 珠海银隆最近半年日子并不好过，欠款、工厂生产停滞、供应商堵门讨薪，这些曾经在乐视身上发生过的事都在银隆身上一一重演。
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
  > 日前，SHAREit(茄子快传)对外宣布，在全球用户数已超过15亿，同时，前Zynga、Pinterest高管王超将担任茄子快传新任COO。
  ## [OPPO VS vivo，比敌人更接近敌人](http://www.lanjingtmt.com/news/detail/35729.shtml)
@@ -175,34 +175,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
- > python 数据标准化常用方法，z-score\min-max标准化
- ## [大话AdaBoost算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80664739)
- > 大话AdaBoost算法
- ## [TensorFlow入门基础：单层神经网络进行模型拟合](https://blog.csdn.net/u011317780/article/details/80664755)
- > TensorFlow入门基础：单层神经网络进行模型拟合
- ## [【机器学习笔记3】用逻辑回归预测马疝病的死亡率](https://blog.csdn.net/u011362297/article/details/80664812)
- > 【机器学习笔记3】用逻辑回归预测马疝病的死亡率
- ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
- > 印刷纸表面瑕疵检测
- ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
- > R语言中的SMOTE算法的参数解释
- ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
- > 人脸面部情绪识别（一）
- ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
- > openCV数据符号说明
- ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
- > 用Python生成词云
- ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
- > 从人脸识别到情感分析，这有50个机器学习实用API！
- ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
- > 机器学习预测世界杯：巴西夺冠
- ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
- > 别把机器学习和人工智能搞混了！
- ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
- > 三招提升数据不平衡模型的性能（附python代码）
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
