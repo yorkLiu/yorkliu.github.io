@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:15:00
+date: 2018-06-13 08:16:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -28,8 +28,8 @@ categories: IT NEWS
  > Sylius 1.2.0，1.1.7 和 1.0.16 发布了。Sylius是第一个基于Symfony和Doctrine定制解决方案的电子商务框架。高质量的代码，强大的测试文化，内置的敏捷（BDD）工作流程和卓越的灵活性使其成为针对您的业务需求量身定制的最佳解决方案。功能强大的REST API允许轻
  ## [Framework7 3.0.0 beta9 发布，全功能 HTML 框架](https://www.oschina.net/news/97003/framework7-300-beta9-released)
  > Framework7 3.0.0 beta9 已发布。更新内容如下： Core Better @global parsing in js and js_if helpers All new Tooltip component Template7 update to latest 1.3.6 Phen
- ## [Angular.js 1.7.2 发布，Web 前端框架](https://www.oschina.net/news/97002/angularjs-1-7-1-released2)
- > Angular.js 1.7.2 已发布。主要更新内容如下： 在之前的版本中，AngularJS 不再使用的私人的，未公开的 API。而一些流行的 UI 库（如 AngularJS Material，UI Bootstrap，ngDialog 等）都依赖于该 API。因此，为了避免开发者不必要的痛苦
+ ## [Angular.js 1.7.2 发布，Web 前端框架](https://www.oschina.net/news/97002/angularjs-1-7-2-released)
+ > Angular.js 1.7.2 已发布。主要更新内容如下： 在之前的版本中，AngularJS 移除了不再使用的私人的，未公开的 API。而一些流行的 UI 库（如 AngularJS Material，UI Bootstrap，ngDialog 等）都依赖于该 API。因此，为了避免开发者不必要
  ## [东方世界杨潇：AR开发技术点探索](http://ai.51cto.com/art/201806/575888.htm)
  > 东方世界杨潇：AR开发技术点探索
  ## [Airbnb资深架构师李聪：IT系统架构设计应充分考虑用户隐私](http://news.51cto.com/art/201806/575957.htm)
@@ -123,26 +123,5 @@ categories: IT NEWS
  > 用Python生成词云
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
-# PM 
- ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
- > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
- ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
- > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
- ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
- > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
- ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
- > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
- ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
- > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
- ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
- > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
- ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
- > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
- ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
- > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
- ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
- > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
- ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
- > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
