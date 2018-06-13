@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:48:46
+date: 2018-06-13 12:49:41
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -193,6 +193,34 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 当我问他，为什么不做数据库了？他笑着说，两次的岗位调整都比较戏剧性。当初老板问他，会数据库吗？他单纯的以为，不就是修改一些代码吗？这谁不会？早就会了，结果就到了数据库部门。此次负责弹性计算亦是如此，老板问他，会计算吗？计算这肯定会啊！结果，就到了弹性计算。
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
+ > python 数据标准化常用方法，z-score\min-max标准化
+ ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
+ > 印刷纸表面瑕疵检测
+ ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
+ > R语言中的SMOTE算法的参数解释
+ ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
+ > 人脸面部情绪识别（一）
+ ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
+ > openCV数据符号说明
+ ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
+ > 用Python生成词云
+ ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
+ > 从人脸识别到情感分析，这有50个机器学习实用API！
+ ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
+ > 机器学习预测世界杯：巴西夺冠
+ ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
+ > 别把机器学习和人工智能搞混了！
+ ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
+ > 三招提升数据不平衡模型的性能（附python代码）
+ ## [机器学习入门：线性回归及梯度下降](https://blog.csdn.net/ucinmireux/article/details/80665232)
+ > 机器学习入门：线性回归及梯度下降
+ ## [TensorBoard 简介及使用流程](https://blog.csdn.net/zqnnn/article/details/80665287)
+ > TensorBoard 简介及使用流程
+ ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
+ > 经验正交函数分析法（EOF）在matlab上的实现
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
