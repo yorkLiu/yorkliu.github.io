@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:20:38
+date: 2018-06-13 12:21:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -112,56 +112,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 荷兰央行：区块链目前无法满足金融基础设施需求
  ## [外媒速递：AI项目势必遭遇失败的九种迹象](http://zhuanlan.51cto.com/art/201806/576077.htm)
  > 外媒速递：AI项目势必遭遇失败的九种迹象
- ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
- > “微信小程序的发布给了一个新的思路，我们可以通过小程序的思路去解决动态化的一些问题，于是我们提出了小
- ## [网站必备的五大HTTP安全标头](http://server.51cto.com/sSecurity-576115.htm)
- > 在超文本传输协议（ Hypertext Transfer Protocol ，HTTP）的请求和响应消息中，协议头部分的那些组件。HTT
- ## [数据中心机房经常报警的原因详解！](http://server.51cto.com/BuildDC-576114.htm)
- > “机房蓄电池”被广泛应用，特别是在发射传输方面，给设备不间断高质量的运转供给了保证，在运用的过程中
- ## [我想带你去旅行，我用Python提前做了一份端午旅游攻略，请收下！](http://developer.51cto.com/art/201806/576112.htm)
- > 旅游是调节心情的有效途径，越来越多的上班族和学生期待利用假期时间外出游 玩来开拓眼界、舒缓压力。然而
- ## [人工智能揭示提高员工保留率的秘密](http://ai.51cto.com/art/201806/576113.htm)
- > 多年来，员工保留一直是企业雇主面临的一个严重的问题。由于担心工作保障以及员工忠诚度降低，导致更多人寻
- ## [大数据+人工智能 双擎驱动企业数字化转型](http://bigdata.51cto.com/art/201806/576111.htm)
- > 数字化时代，大数据及人工智能成为驱动企业业务增长的技术引擎，数字化转型也已成为企业生存和发展的必修课
- ## [AcFun遭遇黑客攻击，近千万条用户数据泄露](http://netsecurity.51cto.com/art/201806/576109.htm)
- > 北京时间6月13日凌晨，AcFun 发布公告称网站遭遇黑客攻击，近千万条用户数据外泄。呼吁 2017 年 7 月 7 日
- ## [学完Python能从事哪些工作？](http://developer.51cto.com/art/201806/576108.htm)
- > Python是一门面向对象的编程语言，编译速度超快，从诞生到现在已经25个年头了。它具有丰富和强大的库，常被
- ## [服务器性能优化的正确姿势](http://server.51cto.com/sOS-576110.htm)
- > 性能最通俗的衡量指标就是“时间”，CPU的使用率指的是CPU用于计算的时间占比，磁盘使用率指的是磁盘操作的
- ## [零基础Python数据库怎么学？大牛带你扬帆起航](http://developer.51cto.com/art/201806/576106.htm)
- > 因为做数据分析特别是当你的数据量非常大时候或者后端开发的时候，肯定是要用数据库的，所以学好数据库非常
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
- > 基于线性SVM的CIFAR-10图像集分类
- ## [大规模分布式系统的跟踪系统：Dapper设计给我们的启示](https://blog.csdn.net/liumiaocn/article/details/80657661)
- > 大规模分布式系统的跟踪系统：Dapper设计给我们的启示
- ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
- > Zipkin实践：Python项目中跟踪系统导入Zipkin
- ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
- > 《技术人求职指南》（二）如何写好简历
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
- > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
- > 电商订单系统设计简析(二)
- ## [价值3980元的web全栈视频，3万人都看过，你想免费领取吗？](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80491146)
- > 价值3980元的web全栈视频，3万人都看过，你想免费领取吗？
  ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
  > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
@@ -189,6 +139,38 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 分类问题在线性回归中，预测的是连续值，而在分类问题中，预测的是离散值，预测的结果是特征属于哪个类别以及概率，比如是否垃圾邮件、肿瘤是良性...
  ## [对话阿里云弹性计算负责人褚霸：把计算做到极致，关键还不加价！](https://yq.aliyun.com/articles/601796)
  > 当我问他，为什么不做数据库了？他笑着说，两次的岗位调整都比较戏剧性。当初老板问他，会数据库吗？他单纯的以为，不就是修改一些代码吗？这谁不会？早就会了，结果就到了数据库部门。此次负责弹性计算亦是如此，老板问他，会计算吗？计算这肯定会啊！结果，就到了弹性计算。
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
+ > python 数据标准化常用方法，z-score\min-max标准化
+ ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
+ > 印刷纸表面瑕疵检测
+ ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
+ > R语言中的SMOTE算法的参数解释
+ ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
+ > 人脸面部情绪识别（一）
+ ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
+ > openCV数据符号说明
+ ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
+ > 用Python生成词云
+ ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
+ > 从人脸识别到情感分析，这有50个机器学习实用API！
+ ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
+ > 机器学习预测世界杯：巴西夺冠
+ ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
+ > 别把机器学习和人工智能搞混了！
+ ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
+ > 三招提升数据不平衡模型的性能（附python代码）
+ ## [机器学习入门：线性回归及梯度下降](https://blog.csdn.net/ucinmireux/article/details/80665232)
+ > 机器学习入门：线性回归及梯度下降
+ ## [TensorBoard 简介及使用流程](https://blog.csdn.net/zqnnn/article/details/80665287)
+ > TensorBoard 简介及使用流程
+ ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
+ > 经验正交函数分析法（EOF）在matlab上的实现
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [大数据火热的时代，“小数据”的意义何在？](http://www.woshipm.com/it/1058595.html)
  > 云计算时代，大数据受到了互联网的追捧。如今的人工智能时代，机器学习更是需要投入大量的数据，在大数据的基础上，对机器进行训练，并从中归纳出可以被计算机运用的知...
@@ -214,5 +196,25 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 《QuestMobile 2017年中国移动互联网年度报告》显示：去年短视频独立行业用户已突破4.1亿人，同比增长率达116.5%。在今年，抖音的快速火爆，吸引了更多品牌商、网红与...
  ## [4方面分析：由对骂群带来的产品思考](http://www.woshipm.com/it/1058616.html)
  > 对骂互喷群作为一个发源于粉丝群、篮球社区等地的网络热点，从“出圈”爆红到消散，仅仅不到两天时间。起初，人们都混在一起，众声喧哗。后来，人与人之间分开，组成小...
+ ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
+ > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
+ ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
+ > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
+ ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
+ > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
+ ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
+ > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
+ ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
+ > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
+ ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
+ > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
+ ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
+ > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
+ ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
+ > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
+ ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
+ > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
+ ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
+ > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
