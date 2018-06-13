@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:20:36
+date: 2018-06-13 10:21:27
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
  ## [golang sync.Pool 使用和源码分析](https://my.oschina.net/u/2950272/blog/1828632)
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
+ ## [v-region 1.5.0 发布，基于 Vue2 的中国行政区划选择器](https://www.oschina.net/news/97023/v-region-1-5-0-released)
+ > 基于Vue2简洁易用的中国行政区划选择器 v-region 1.5.0版本更新，更新内容： 增加选择器模式 修复初始化选中项目时，项目未选中的问题 增加选择器模式下，省份的排列顺序使用名称长度和编码进行排序 修复选择器模式下拉菜单显示位置不正确问题   插件简介 v-region 基于Vue2简洁易
  ## [Facebook 开源其调试平台 Sonar，支持 Android 与 iOS](https://www.oschina.net/news/97021/facebook-open-source-sonar)
  > Facebook 在其官网宣布，正式开源其内部用于移动应用调试的平台 Sonar。 项目地址：https://github.com/facebook/Sonar Sonar 是一个用于调试 iOS 和 Android 移动应用的平台，通过一个简单的界面，开发者可以可视化地审查和控制其 APP，除了可
  ## [高手问答 | 新手如何从 Spring Boot 切入微服务？](https://www.oschina.net/question/2720166_2281509)
@@ -96,8 +98,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > Sylius 1.2.0，1.1.7 和 1.0.16 发布了。Sylius是第一个基于Symfony和Doctrine定制解决方案的电子商务框架。高质量的代码，强大的测试文化，内置的敏捷（BDD）工作流程和卓越的灵活性使其成为针对您的业务需求量身定制的最佳解决方案。功能强大的REST API允许轻
  ## [Framework7 3.0.0 beta9 发布，全功能 HTML 框架](https://www.oschina.net/news/97003/framework7-300-beta9-released)
  > Framework7 3.0.0 beta9 已发布。更新内容如下： Core Better @global parsing in js and js_if helpers All new Tooltip component Template7 update to latest 1.3.6 Phen
- ## [Angular.js 1.7.2 发布，Web 前端框架](https://www.oschina.net/news/97002/angularjs-1-7-2-released)
- > Angular.js 1.7.2 已发布。主要更新内容如下： 在之前的版本中，AngularJS 移除了私人、未公开的 API。而一些流行的 UI 库（如 AngularJS Material，UI Bootstrap，ngDialog 等）都依赖于该 API。因此，为了避免开发者不必要的痛苦，这个
  ## [运维的本质是什么？阿里“无人化”智能运维平台的演进](http://os.51cto.com/art/201806/576094.htm)
  > 运维的本质是什么？阿里“无人化”智能运维平台的演进
  ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
@@ -138,10 +138,10 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
  > 基于线性SVM的CIFAR-10图像集分类
+ ## [深度学习AI美颜系列---AI瘦身效果算法揭秘](https://blog.csdn.net/Trent1985/article/details/80667611)
+ > 深度学习AI美颜系列---AI瘦身效果算法揭秘
  ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
  > Zipkin实践：Python项目中跟踪系统导入Zipkin
- ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
- > 数据分析师、数据科学家、大数据专家三个职位的区别
  ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
  > 《技术人求职指南》（二）如何写好简历
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
@@ -164,10 +164,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 工程狮爸爸如何准备儿童节礼物？
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
- > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [“董小姐”的造车梦何去何从？](http://www.lanjingtmt.com/news/detail/35715.shtml)
  > 珠海银隆最近半年日子并不好过，欠款、工厂生产停滞、供应商堵门讨薪，这些曾经在乐视身上发生过的事都在银隆身上一一重演。
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
