@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 18:06:35
+date: 2018-06-13 18:10:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,7 +68,7 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [flag -- 诡异的memcache标记](https://my.oschina.net/jijunjian/blog/1829272)
  > 引子　　　 　    打从去年一路北漂，进入无人货架行业，业务需求漫天飘，最近总算把工作都规划齐整。回望过去一年多的时间里，诸多东西值得整理，memcache就是其中一个。 　　 看到java的工资高些，队伍中好些人都想学习java，美其名曰：技术多元化。奈何团队中并没有相关经验的人，也深知大家殷切
- ## [微信模块 Oejia_wx v0.5.2 发布，优化配置增加直发微信消息](https://www.oschina.net/news/97038/oejia_wx-0-5-2-released)
+ ## [微信模块 Oejia_wx v0.5.2 优化配置，增加直发微信消息](https://www.oschina.net/news/97038/oejia_wx-0-5-2-released)
  > Oejia_wx v0.5.2 发布了。Odoo 的微信模块，提供了对微信公众号和企业号（企业微信）的接入与管理，实现了微信消息与Odoo聊天的无缝对接 v0.5.2 增加同步用户或用户组时的确认窗口提示 对接配置页优化，兼容python3 odoo11的配置保存模式 通讯录secret可单独配置，
  ## [然之协同 4.7.stable 发布，请假新增年假天数设置功能](https://www.oschina.net/news/97037/ranzhi-4-7-stable-released)
  > 然之协同办公系统是一款面向中小企业内部管理的协同办公系统，由客户管理(crm)、日常办公(oa)、现金记账(cash)、团队分享(team)、项目管理（proj）、阿米巴应用（ameba）应用导航(ips)等模块组成。专注于提供一体化、精简的解决方案，真正开源免费，扩展性强，支持二次开发。  6月1
@@ -144,6 +144,36 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 据调研机构Forrester Research最近发布的营销报告，随着组织的领导者开始意识到大量使用大数据技术所需的工
  ## [2018年世界杯冠军竟然被大数据算出来了，还要比吗？](http://bigdata.51cto.com/art/201806/576151.htm)
  > 2018年俄罗斯世界杯快来了，今年的大力神杯又将花落谁家?想必每个球迷心中都有自己的答案。但是对于那些银
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
+ > Zipkin实践：Python项目中跟踪系统导入Zipkin
+ ## [大规模分布式系统的跟踪系统：Dapper设计给我们的启示](https://blog.csdn.net/liumiaocn/article/details/80657661)
+ > 大规模分布式系统的跟踪系统：Dapper设计给我们的启示
+ ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
+ > 数据分析师、数据科学家、大数据专家三个职位的区别
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
+ > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
+ ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
+ > 电商订单系统设计简析(二)
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [怎么花140万美元“低价”，喜提300万美元豪宅？](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80589586)
+ > 怎么花140万美元“低价”，喜提300万美元豪宅？
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [“6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？](https://blog.csdn.net/xunshangkeji/article/details/80647347)
+ > “6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
  ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
