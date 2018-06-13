@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:38:41
+date: 2018-06-13 12:39:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -54,6 +54,50 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 
 <p>&nbsp;</p>
 # IT 新闻 
+ ## [Springboot 应用部署建议](https://my.oschina.net/seal90/blog/1828876)
+ >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
+ ## [Tomcat Session管理分析](https://my.oschina.net/OutOfMemory/blog/1825123)
+ > 前言 在上文Nginx+Tomcat关于Session的管理中简单介绍了如何使用redis来集中管理session，本文首先将介绍默认的管理器是如何管理Session的生命周期的，然后在此基础上对Redis集中式管理Session进行分析。 Tomcat Manager介绍 上文中在Tomcat的c
+ ## [Java 社区平台 Symphony 3.0.0 发布，新增问答帖](https://www.oschina.net/news/97027/symphony-3-0-0-released)
+ > Java 社区平台 Symphony 3.0.0 发布了，更新内容如下： 新增特性 486 新的帖子类型：问答帖 优化改进 643 细分 401 及 403 644 去掉签到时间限制 646 个人设置位置移到隐私中 654 更新 IP 定位 655 更新邮箱修复缺陷 652 帖子快链时丢失查询参数 
+ ## [后台管理系统 icec v1.1 发布，完善打包部署脚本](https://www.oschina.net/news/97024/icec-1-1-released)
+ > icec 有段时间没有在oschina上面更新了，但作者在实际项目中一直在使用和完善。 功能更新日志： 增加定时任务配置（quartz实现） 整合activiti工作流（在线配置流程） 系统基本信息配置（系统名称，logo等可配置修改） 除以上功能更新外，本地重点介绍下打包部署脚本的更新： spri
+ ## [v-region 1.5.0 发布，基于 Vue2 的中国行政区划选择器](https://www.oschina.net/news/97023/v-region-1-5-0-released)
+ > 基于Vue2简洁易用的中国行政区划选择器 v-region 1.5.0版本更新，更新内容： 增加选择器模式 修复初始化选中项目时，项目未选中的问题 增加选择器模式下，省份的排列顺序使用名称长度和编码进行排序 修复选择器模式下拉菜单显示位置不正确问题   插件简介 v-region 基于Vue2简洁易
+ ## [Facebook 开源其调试平台 Sonar，支持 Android 与 iOS](https://www.oschina.net/news/97021/facebook-open-source-sonar)
+ > Facebook 在其官网宣布，正式开源其内部用于移动应用调试的平台 Sonar。 项目地址：https://github.com/facebook/Sonar Sonar 是一个用于调试 iOS 和 Android 移动应用的平台，通过一个简单的界面，开发者可以可视化地审查和控制其 APP，除了可
+ ## [高手问答 | 新手如何从 Spring Boot 切入微服务？](https://www.oschina.net/question/2720166_2281509)
+ > Spring Boot 对于一些第三方技术的使用，提供了非常完美的整合，使你在简单的使用中，不知不觉运用了非常高级和先进的技术。本期高手问答邀请到了黄文毅@阿_毅 和大家一起围绕 Spring Boot 以及微服务这两个主题进行交流。
+ ## [过半用户饱受 Windows 10 更新之苦，消费者组织没法忍](https://www.oschina.net/news/97019/which-says-ms-must-help-consumers-affected-by-win10-pain)
+ > 知名消费者权益组织 Which? 12日发文称过半数微软用户饱受 Windows 10 更新之苦，希望微软能够尊重用户的消费者权利。 Which? 组织通过对超过 1100 名成员的调查后发现，Windows 10 更新给用户带来了不少问题，其中常见的有系统更新之后软件兼容性问题，例如程序工作不正常
+ ## [Chrome 浏览器以 58.09% 的市场占有率稳居世界第一](https://www.oschina.net/news/97018/chrome-has-the-top-share-58-09)
+ > 网站通讯流量监测机构 StatCounter 公布了5月份全球浏览器市场份额数据。 结果显示，Chrome 以 58.09% 的市场占有率毫无疑问地稳居第一，其后 Safari 占有 13.7%，而国产浏览器 UC 占据了市场份额的 8.16%，尴尬的 IE 现在还有 3.08% 的市场。微软新推的
+ ## [协作翻译 | Linux 与 Unix 到底有什么不同？](https://www.oschina.net/translate/differences-between-linux-and-unix)
+ > 大多数软件开发人员，甚至是那些在这场古老的“Linux革命”中成长的软件开发人员，也至少听说过Unix。这听起来与Linux类似，你可能已经听说过人们可以互换地使用这些术语。或者你也许听说过Linux被称为“类Unix”操作系统。
+ ## [码云推荐 | 树莓派可视化编程软件 BlocklyPi](https://gitee.com/hgcserver/BlocklyPi)
+ > BlocklyPi 是一个基于 Blockly 的树莓派可视化编程软件，类似于 Mixly，可以让零基础不会编程的人玩转树莓派 gpio。基于 HTML、Javascript 的在线编辑器。原生 Blocks 及 generators 在 libs 文件夹下，树莓派的在 pt 文件夹下。
+ ## [Weave Scope：Docker 和 K8s 的可视化管理和监控工具](https://www.oschina.net/p/weave-scope)
+ > Weave Scope 用于监控、可视化和管理 Docker 以及 Kubernetes。Weave Scope 这个项目会自动生成容器之间的关系图，方便理解容器之间的关系，也方便监控容器化和微服务化的应用。
+ ## [每日一博 | t-io 集群解决方案以及源码解析](https://my.oschina.net/zyw205/blog/1827495)
+ > 要深入理解具体实现原理后续的业务扩展，把t-io玩6起来还需要耐心看看源码，看了之后我相信你一定会有收获的。其实t-io 在2.4的版本中已加入的集群实现的逻辑代码，只是官方没有写文档以及完整的示例而已，在此不得不说t-io 是一个比较良心的开源项目，很多业务场景都有考虑到。
+ ## [OSC 周三乱弹 — 别看现在产品经理闹得欢，将来早晚……](https://my.oschina.net/xxiaobian/blog/1829248)
+ > 一般公司最容易被认为摸鱼的岗位就是运维了，有事了，恨不得让运维上吊，但是运维运作得好，就是服务器一年到头不出事，领导总觉得是不是自己白养了运维这个部门。
+ ## [IPv6 普及率已达 1/4，互联网之父 Vint Cerf ：这还不够](https://www.oschina.net/news/97012/ipv6-covered-1-4-network-flow-not-enough)
+ > 根据外媒ZDNet上周的消息，IPv6推出至今已有6年，其普及率现在已接近1/4。在迎接IPv6启动6周年的一个视频中，互联网之父、谷歌公司副总裁Vint Cerf表示这还不够，呼吁应尽快升级IPv6。 Cerf指出，拥有128位地址池的IPv6能够支持数万亿台互联网连接设备连接在一起的世界，而IP
+ ## [SparkyLinux 5.4 发布，基于 Debian 的测试分支](https://www.oschina.net/news/97011/sparkylinux-5-4-released)
+ > SparkyLinux 5.4 已发布。代号 &quot; Nibiru &quot;。SparkyLinux 是轻量级的、快速的、简单的 Linux 发行，它被设计为既适合老旧的也适合新式的计算机，并以定制的 Enlightenment 和 LXDE 桌面为特色。它构建于 Debian GNU/Linux 的测试分支
+ ## [KDE Plasma 5.13 发布，极大减少内存使用量](https://www.oschina.net/news/97010/kde-plasma-5-13-released)
+ > KDE Plasma 5.13 已发布。KDE Plasma 成员一直在努力继续使 Plasma 成为一款轻量且响应迅速的桌面，能够快速加载和运行，但仍保持全功能，并具有极佳的外观和感觉。 此次更新主要做了以下优化： 优化了启动并最大限度地减少了内存使用量，从而缩短了桌面到桌面的时间，提高了运行时性
+ ## [Python 3.7.0rc1 和 3.6.6rc1 发布，最终预览版](https://www.oschina.net/news/97009/python-370rc1-and-366rc1-released)
+ > Python 3.7.0rc1 和 3.6.6rc1 已发布下载。 3.7.0rc1 是 Python 3.7 的下一个功能版本的最终计划发布预览。 3.6.6rc1 是 Python 3.6 当前版本的下一个维护版本的发布预览。若没有发现关键问题，3.7.0 和 3.6.6 的计划发布日期为 20
+ ## [Neovim v0.3.0 发布，Vim 改进版](https://www.oschina.net/news/97008/neovim-0-3-0-released)
+ > Neovim v0.3.0 已发布，Bram Moolenaar 在写 Vim 时还是 90 年代初，至今已经 20 多年过去了。其中，不仅包含了大量的遗留代码，而且程序的维护、Bug 的修复、以及新特性的添加都变得越来越困难。为了解决这些问题，Neovim 项目应运而生。Neo 即“新”之意，它是
+ ## [Ember.js 3.3.0-beta.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/97007/ember-js-3-3-0-beta-2-released)
+ > Ember.js 3.3.0-beta.2 已发布，Ember 是一个 Web 应用程序，消除了样板，并提供了一个标准的应用程序架构的 JavaScript 框架。 本次更新内容如下： 16709 \[BUGFIX\] 避免 @ember/ordered-set addo中的有序集合弃用 16715
+ ## [Ampache 3.8.7 发布，Web 音视频流应用/文件管理器](https://www.oschina.net/news/97006/ampache-3-8-7)
+ > Ampache 3.8.7 已发布，更新如下： 从远程站点收集作品时可更好地清理图像扩展。 检查B.O.M. (\xff\xfe)只能在 mp3 作曲家标签中删除。 增加 .ogv 编码目标，更有效地传输 mkv 文件。 顶级菜单外观更适合需要翻译的读者。 对 update_remote_catal
+ ## [CrateDB 3.0.2 发布，分布式 SQL 数据库](https://www.oschina.net/news/97005/crate-3-0-2-released)
+ > CrateDB 3.0.2 已发布，目前没有发现具体更新公告，您可以关注更新主页或提交日志了解详情。 Crate 是一个开源的大规模的可伸缩的数据存储系统，无需任何系统管理需求。提供强大的搜索功能。用于存储各种表格数据、非结构化数据和二进制对象。并可通过 SQL 进行检索。易于安装和使用，支持高可用
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
@@ -147,36 +191,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 分类问题在线性回归中，预测的是连续值，而在分类问题中，预测的是离散值，预测的结果是特征属于哪个类别以及概率，比如是否垃圾邮件、肿瘤是良性...
  ## [对话阿里云弹性计算负责人褚霸：把计算做到极致，关键还不加价！](https://yq.aliyun.com/articles/601796)
  > 当我问他，为什么不做数据库了？他笑着说，两次的岗位调整都比较戏剧性。当初老板问他，会数据库吗？他单纯的以为，不就是修改一些代码吗？这谁不会？早就会了，结果就到了数据库部门。此次负责弹性计算亦是如此，老板问他，会计算吗？计算这肯定会啊！结果，就到了弹性计算。
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
- > python 数据标准化常用方法，z-score\min-max标准化
- ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
- > 印刷纸表面瑕疵检测
- ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
- > R语言中的SMOTE算法的参数解释
- ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
- > 人脸面部情绪识别（一）
- ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
- > openCV数据符号说明
- ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
- > 用Python生成词云
- ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
- > 从人脸识别到情感分析，这有50个机器学习实用API！
- ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
- > 机器学习预测世界杯：巴西夺冠
- ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
- > 别把机器学习和人工智能搞混了！
- ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
- > 三招提升数据不平衡模型的性能（附python代码）
- ## [机器学习入门：线性回归及梯度下降](https://blog.csdn.net/ucinmireux/article/details/80665232)
- > 机器学习入门：线性回归及梯度下降
- ## [TensorBoard 简介及使用流程](https://blog.csdn.net/zqnnn/article/details/80665287)
- > TensorBoard 简介及使用流程
- ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
- > 经验正交函数分析法（EOF）在matlab上的实现
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
@@ -204,5 +218,25 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 《QuestMobile 2017年中国移动互联网年度报告》显示：去年短视频独立行业用户已突破4.1亿人，同比增长率达116.5%。在今年，抖音的快速火爆，吸引了更多品牌商、网红与...
  ## [4方面分析：由对骂群带来的产品思考](http://www.woshipm.com/it/1058616.html)
  > 对骂互喷群作为一个发源于粉丝群、篮球社区等地的网络热点，从“出圈”爆红到消散，仅仅不到两天时间。起初，人们都混在一起，众声喧哗。后来，人与人之间分开，组成小...
+ ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
+ > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
+ ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
+ > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
+ ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
+ > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
+ ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
+ > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
+ ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
+ > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
+ ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
+ > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
+ ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
+ > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
+ ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
+ > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
+ ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
+ > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
+ ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
+ > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
