@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:54:04
+date: 2018-06-13 09:54:39
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,8 +58,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
  ## [golang sync.Pool 使用和源码分析](https://my.oschina.net/u/2950272/blog/1828632)
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
- ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
- > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
  ## [Facebook 开源其调试平台 Sonar，支持 Android 与 iOS](https://www.oschina.net/news/97021/facebook-open-source-sonar)
  > Facebook 在其官网宣布，正式开源其内部用于移动应用调试的平台 Sonar。 项目地址：https://github.com/facebook/Sonar Sonar 是一个用于调试 iOS 和 Android 移动应用的平台，通过一个简单的界面，开发者可以可视化地审查和控制其 APP，除了可
  ## [高手问答 | 新手如何从 Spring Boot 切入微服务？](https://www.oschina.net/question/2720166_2281509)
@@ -136,6 +134,36 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 对于在 2019 年非常有可能标准化的 802.11ax 无线局域网标准而言，现在也许是市场预热的开始，下面我们就来
  ## [高速发展企业必备秘诀：SD-WAN技术](http://network.51cto.com/art/201806/576072.htm)
  > 高速成长的企业意味着公司拥有多个办公或营业的地点，分布在各地的员工必须通过广域网WAN连接到公司总部的
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
+ > 基于线性SVM的CIFAR-10图像集分类
+ ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
+ > Zipkin实践：Python项目中跟踪系统导入Zipkin
+ ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
+ > 数据分析师、数据科学家、大数据专家三个职位的区别
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
+ > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [苹果WWDC大会：iOS求稳，AR求新，APP求全](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80575819)
+ > 苹果WWDC大会：iOS求稳，AR求新，APP求全
+ ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
+ > 电商订单系统设计简析(二)
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
@@ -178,6 +206,12 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
+ ## [增长黑客真是打败传统市场部的“灭霸”吗？](http://www.woshipm.com/operate/1058424.html)
+ > 增长黑客是通过充分挖掘产品、技术与用户之间本身的潜力，以更小的成本投入，撬动更直接和可衡量的增长回报的策略和手段。增长黑客，并非是一个绝对的泾渭分明的定义，...
+ ## [大而全产品VS小而精产品，谁更有优势？](http://www.woshipm.com/pd/1058415.html)
+ > 所谓大而全，不仅体现在内容上，也体现在功能上。比如百度贴吧是内容方面的大而全，而被批评设计过于臃肿的产品则多是功能的大而全。与此相对应的概念是小而精，比如人...
+ ## [策略产品经理基础知识：3.1 策略PM的工作思考流程](http://www.woshipm.com/pmd/1058290.html)
+ > 本文应该是计划内针对策略理论部分的最后一篇帖子了，算是思路总结吧，后续再发新帖子，那就是策略在解决产品问题中的应用案例了。一、关键词先灌个鸡汤。每个行业和...
  ## [线上课程｜工作2-3年，没有产品经验，怎样才能顺利转岗获得产品offer](http://www.woshipm.com/active/1051268.html)
  > 产品经理发展前景广阔，薪资待遇高，不少同学都萌生了转产品经理的想法。互联网从业者，和产品有接触，通过转产品突破职业发展瓶颈，从执行层跃迁到管理层；传统行...
  ## [2018广告营销作业手册（中）](http://www.woshipm.com/marketing/1058119.html)
