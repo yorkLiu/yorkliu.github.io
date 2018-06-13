@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:26:25
+date: 2018-06-13 10:27:28
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -142,8 +142,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > Zipkin实践：Python项目中跟踪系统导入Zipkin
  ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
  > 《技术人求职指南》（二）如何写好简历
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
  ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
  > 人脸识别、AI与大数据：技术挑战与突破
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
@@ -152,16 +152,16 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 你靠什么在单位立足？此文堪称经典！
  ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
  > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [苹果WWDC大会：iOS求稳，AR求新，APP求全](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80575819)
- > 苹果WWDC大会：iOS求稳，AR求新，APP求全
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [“6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？](https://blog.csdn.net/xunshangkeji/article/details/80647347)
+ > “6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？
  ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
  > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
