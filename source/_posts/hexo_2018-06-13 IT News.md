@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:27:28
+date: 2018-06-13 10:29:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -136,28 +136,28 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
  > 基于线性SVM的CIFAR-10图像集分类
- ## [深度学习AI美颜系列---AI瘦身效果算法揭秘](https://blog.csdn.net/Trent1985/article/details/80667611)
- > 深度学习AI美颜系列---AI瘦身效果算法揭秘
  ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
  > Zipkin实践：Python项目中跟踪系统导入Zipkin
- ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
- > 《技术人求职指南》（二）如何写好简历
+ ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
+ > 数据分析师、数据科学家、大数据专家三个职位的区别
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
  ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
  > 人脸识别、AI与大数据：技术挑战与突破
+ ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
+ > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
- ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
- > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [“6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？](https://blog.csdn.net/xunshangkeji/article/details/80647347)
