@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 18:01:10
+date: 2018-06-13 18:03:53
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -174,22 +174,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > “6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
- ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
- ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
- > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
- > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
- ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80681527)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！听说...
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80681521)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！近几...
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
- ## [我一直在假装努力，你却在真正成长](https://blog.csdn.net/csdnnews/article/details/80681543)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！CS...
  ## [阿里360蚂蚁金服滴滴…齐聚蓝鲸新科技峰会，共论商业新趋势！](http://www.lanjingtmt.com/news/detail/35748.shtml)
  > 对于TMT行业来说，这是2018年科技圈的一场饕餮盛宴；与其说是一次行业群英荟聚，不如说是一次巅峰对决的高科技峰会。
  ## [创维数码发2018Q1财报，净利润5.41亿港元同比降59%](http://www.lanjingtmt.com/news/detail/35746.shtml)
