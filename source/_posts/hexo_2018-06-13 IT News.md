@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:23:25
+date: 2018-06-13 08:23:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,6 +12,8 @@ categories: IT NEWS
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
  ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
  > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
+ ## [Chorme 浏览器以 58.09% 的市场占有率稳居世界第一](https://www.oschina.net/news/97018/chrome-has-the-top-share-58.09%)
+ > 网站通讯流量监测机构 StatCounter 公布了5月份全球浏览器市场份额数据。 结果显示，Chrome 以 58.09% 的市场占有率毫无疑问地稳居第一，其后 Safari 占有 13.7%，而国产浏览器 UC 占据了市场份额的 8.16%，尴尬的 IE 现在还有 3.08% 的市场。微软新推的
  ## [协作翻译 | Linux 与 Unix 到底有什么不同？](https://www.oschina.net/translate/differences-between-linux-and-unix)
  > 大多数软件开发人员，甚至是那些在这场古老的“Linux革命”中成长的软件开发人员，也至少听说过Unix。这听起来与Linux类似，你可能已经听说过人们可以互换地使用这些术语。或者你也许听说过Linux被称为“类Unix”操作系统。
  ## [码云推荐 | 树莓派可视化编程软件 BlocklyPi](https://gitee.com/hgcserver/BlocklyPi)
@@ -135,6 +137,8 @@ categories: IT NEWS
  > openCV数据符号说明
  ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
  > 用Python生成词云
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
  > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
