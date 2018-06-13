@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:02:37
+date: 2018-06-13 08:04:43
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,6 +12,8 @@ categories: IT NEWS
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
  ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
  > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
+ ## [Python 3.7.0rc1 和 3.6.6rc1 发布，最终预览版](https://www.oschina.net/news/97009/python-370rc1-and-366rc1-released)
+ > Python 3.7.0rc1 和 3.6.6rc1 已发布下载。 3.7.0rc1 是 Python 3.7 的下一个功能版本的最终计划发布预览。 3.6.6rc1 是 Python 3.6 当前版本的下一个维护版本的发布预览。若没有发现关键问题，3.7.0 和 3.6.6 的计划发布日期为 20
  ## [Neovim v0.3.0 发布，Vim 改进版](https://www.oschina.net/news/97008/neovim-0-3-0-released)
  > Neovim v0.3.0 已发布，Bram Moolenaar 在写 Vim 时还是 90 年代初，至今已经 20 多年 过去了。其中，不仅包含了大量的遗留代码，而且程序的维护、Bug 的 修复、以及新特性的添加都变得越来越困难。为了解决这些问题，Neovim 项目应运而生。Neo 即“新”之意，
  ## [Ember.js 3.3.0-beta.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/97007/ember-js-3-3-0-beta-2-released)
@@ -42,6 +44,18 @@ categories: IT NEWS
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
  > 比特币替代品：值得关注的6种新兴密码技术
+ ## [小心物联网中的“行尸走肉”](http://iot.51cto.com/art/201806/576074.htm)
+ > 你可能已经听腻了物联网非常复杂、生态系统非常分散;你也可能会觉得很多公司和产品将变成“行尸走肉”。但
+ ## [关于802.11ax无线局域网标准的七大认识误区](http://network.51cto.com/art/201806/576073.htm)
+ > 对于在 2019 年非常有可能标准化的 802.11ax 无线局域网标准而言，现在也许是市场预热的开始，下面我们就来
+ ## [高速发展企业必备秘诀：SD-WAN技术](http://network.51cto.com/art/201806/576072.htm)
+ > 高速成长的企业意味着公司拥有多个办公或营业的地点，分布在各地的员工必须通过广域网WAN连接到公司总部的
+ ## [基于云的WAF VS. 本地部署WAF](http://zhuanlan.51cto.com/art/201806/576071.htm)
+ > 随着应用程序格局的变化，我们用于保护企业系统及其处理数据的工具也在随之发生变化。其中，WAF的发展就是
+ ## [6G技术来临，网络供应商要重新设计数据服务器吗？](http://network.51cto.com/art/201806/576070.htm)
+ > 在开发服务器基础设施计划之前，可能会推出新的6G标准。但是，在引入无线通信技术的先前发展时，这些变化可
+ ## [恐慌来袭！云计算有望颠覆行业巨头？](http://cloud.51cto.com/art/201806/576069.htm)
+ > 云计算的应用对小企业来说是个好消息。但对大公司来说，这并不是什么好消息，因为将面临正在扰乱和颠覆市场
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
@@ -72,8 +86,6 @@ categories: IT NEWS
  > 推荐算法不够精准？让知识图谱来解决
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
