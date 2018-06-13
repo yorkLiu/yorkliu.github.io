@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:20:12
+date: 2018-06-13 12:20:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -162,6 +162,12 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 电商订单系统设计简析(二)
  ## [价值3980元的web全栈视频，3万人都看过，你想免费领取吗？](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80491146)
  > 价值3980元的web全栈视频，3万人都看过，你想免费领取吗？
+ ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
+ > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
+ ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
+ > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
+ ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
+ > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [传统餐饮九死一生，五芳斋的AI梦能撑多久？](http://www.lanjingtmt.com/news/detail/35732.shtml)
  > 冈察洛夫曾说过：“人无疑是大地的主人，但又是肠胃的奴隶”这话说的一点不假，在饥饿面前，人人都不得不妥协
  ## [高额补贴成“空头支票”，腾讯微视要赖主播们的帐？](http://www.lanjingtmt.com/news/detail/35731.shtml)
@@ -183,38 +189,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 分类问题在线性回归中，预测的是连续值，而在分类问题中，预测的是离散值，预测的结果是特征属于哪个类别以及概率，比如是否垃圾邮件、肿瘤是良性...
  ## [对话阿里云弹性计算负责人褚霸：把计算做到极致，关键还不加价！](https://yq.aliyun.com/articles/601796)
  > 当我问他，为什么不做数据库了？他笑着说，两次的岗位调整都比较戏剧性。当初老板问他，会数据库吗？他单纯的以为，不就是修改一些代码吗？这谁不会？早就会了，结果就到了数据库部门。此次负责弹性计算亦是如此，老板问他，会计算吗？计算这肯定会啊！结果，就到了弹性计算。
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
- > python 数据标准化常用方法，z-score\min-max标准化
- ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
- > 印刷纸表面瑕疵检测
- ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
- > R语言中的SMOTE算法的参数解释
- ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
- > 人脸面部情绪识别（一）
- ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
- > openCV数据符号说明
- ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
- > 用Python生成词云
- ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
- > 从人脸识别到情感分析，这有50个机器学习实用API！
- ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
- > 机器学习预测世界杯：巴西夺冠
- ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
- > 别把机器学习和人工智能搞混了！
- ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
- > 三招提升数据不平衡模型的性能（附python代码）
- ## [机器学习入门：线性回归及梯度下降](https://blog.csdn.net/ucinmireux/article/details/80665232)
- > 机器学习入门：线性回归及梯度下降
- ## [TensorBoard 简介及使用流程](https://blog.csdn.net/zqnnn/article/details/80665287)
- > TensorBoard 简介及使用流程
- ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
- > 经验正交函数分析法（EOF）在matlab上的实现
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [大数据火热的时代，“小数据”的意义何在？](http://www.woshipm.com/it/1058595.html)
  > 云计算时代，大数据受到了互联网的追捧。如今的人工智能时代，机器学习更是需要投入大量的数据，在大数据的基础上，对机器进行训练，并从中归纳出可以被计算机运用的知...
