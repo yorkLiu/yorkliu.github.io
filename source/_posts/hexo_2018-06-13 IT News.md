@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:22:40
+date: 2018-06-13 08:23:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,6 +12,12 @@ categories: IT NEWS
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
  ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
  > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
+ ## [协作翻译 | Linux 与 Unix 到底有什么不同？](https://www.oschina.net/translate/differences-between-linux-and-unix)
+ > 大多数软件开发人员，甚至是那些在这场古老的“Linux革命”中成长的软件开发人员，也至少听说过Unix。这听起来与Linux类似，你可能已经听说过人们可以互换地使用这些术语。或者你也许听说过Linux被称为“类Unix”操作系统。
+ ## [码云推荐 | 树莓派可视化编程软件 BlocklyPi](https://gitee.com/hgcserver/BlocklyPi)
+ > BlocklyPi 是一个基于 Blockly 的树莓派可视化编程软件，类似于 Mixly，可以让零基础不会编程的人玩转树莓派 gpio。基于 HTML、Javascript 的在线编辑器。原生 Blocks 及 generators 在 libs 文件夹下，树莓派的在 pt 文件夹下。
+ ## [jmeter-plugins-dubbo — 可视化测试 Dubbo](https://www.oschina.net/p/jmeter-plugins-dubbo)
+ > jmeter-plugins-dubbo 是一个 Apache JMeter 的插件, 主要用途是在 Jmeter 中可视化地对 Dubbo 接口进行压力测试，简单易用。Jmeter 版本支持 3.0+，Dubbo 版本支持 2.5.x、2.6.x。
  ## [每日一博 | t-io 集群解决方案以及源码解析](https://my.oschina.net/zyw205/blog/1827495)
  > 要深入理解具体实现原理后续的业务扩展，把t-io玩6起来还需要耐心看看源码，看了之后我相信你一定会有收获的。其实t-io 在2.4的版本中已加入的集群实现的逻辑代码，只是官方没有写文档以及完整的示例而已，在此不得不说t-io 是一个比较良心的开源项目，很多业务场景都有考虑到。
  ## [OSC 周三乱弹 — 别看现在产品经理闹得欢，将来早晚……](https://my.oschina.net/xxiaobian/blog/1829248)
@@ -99,7 +105,56 @@ categories: IT NEWS
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
 # 人工智能 
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
+ > python 数据标准化常用方法，z-score\min-max标准化
+ ## [聚类算法概述及相关距离度量公式](https://blog.csdn.net/qq_19461333/article/details/80664647)
+ > 聚类算法概述及相关距离度量公式
+ ## [SEO算法深度分析之倒排索引，来解释SEO排名的问题](https://blog.csdn.net/qq_37471400/article/details/80664665)
+ > SEO算法深度分析之倒排索引，来解释SEO排名的问题
+ ## [未完成【编译原理】科学计算器设计Java](https://blog.csdn.net/ttangyyyy/article/details/80664681)
+ > 未完成【编译原理】科学计算器设计Java
+ ## [用Python为直方图绘制拟合正态分布曲线的两种方法](https://blog.csdn.net/jiangjiang_jian/article/details/80664709)
+ > 用Python为直方图绘制拟合正态分布曲线的两种方法
+ ## [大话AdaBoost算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80664739)
+ > 大话AdaBoost算法
+ ## [TensorFlow入门基础：单层神经网络进行模型拟合](https://blog.csdn.net/u011317780/article/details/80664755)
+ > TensorFlow入门基础：单层神经网络进行模型拟合
+ ## [【机器学习笔记3】用逻辑回归预测马疝病的死亡率](https://blog.csdn.net/u011362297/article/details/80664812)
+ > 【机器学习笔记3】用逻辑回归预测马疝病的死亡率
+ ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
+ > 印刷纸表面瑕疵检测
+ ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
+ > R语言中的SMOTE算法的参数解释
+ ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
+ > 人脸面部情绪识别（一）
+ ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
+ > openCV数据符号说明
+ ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
+ > 用Python生成词云
+# PM 
+ ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
+ > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
+ ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
+ > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
+ ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
+ > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
+ ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
+ > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
+ ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
+ > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
+ ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
+ > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
+ ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
+ > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
+ ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
+ > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
+ ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
+ > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
+ ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
+ > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
