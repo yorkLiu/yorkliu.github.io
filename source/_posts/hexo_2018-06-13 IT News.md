@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:57:12
+date: 2018-06-13 09:58:28
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -164,6 +164,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 工程狮爸爸如何准备儿童节礼物？
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
+ ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
+ > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
  > 日前，SHAREit(茄子快传)对外宣布，在全球用户数已超过15亿，同时，前Zynga、Pinterest高管王超将担任茄子快传新任COO。
  ## [OPPO VS vivo，比敌人更接近敌人](http://www.lanjingtmt.com/news/detail/35729.shtml)
