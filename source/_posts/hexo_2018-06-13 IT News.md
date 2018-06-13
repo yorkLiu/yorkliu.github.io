@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:06:47
+date: 2018-06-13 08:07:56
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -15,7 +15,7 @@ categories: IT NEWS
  ## [Python 3.7.0rc1 和 3.6.6rc1 发布，最终预览版](https://www.oschina.net/news/97009/python-370rc1-and-366rc1-released)
  > Python 3.7.0rc1 和 3.6.6rc1 已发布下载。 3.7.0rc1 是 Python 3.7 的下一个功能版本的最终计划发布预览。 3.6.6rc1 是 Python 3.6 当前版本的下一个维护版本的发布预览。若没有发现关键问题，3.7.0 和 3.6.6 的计划发布日期为 20
  ## [Neovim v0.3.0 发布，Vim 改进版](https://www.oschina.net/news/97008/neovim-0-3-0-released)
- > Neovim v0.3.0 已发布，Bram Moolenaar 在写 Vim 时还是 90 年代初，至今已经 20 多年 过去了。其中，不仅包含了大量的遗留代码，而且程序的维护、Bug 的 修复、以及新特性的添加都变得越来越困难。为了解决这些问题，Neovim 项目应运而生。Neo 即“新”之意，
+ > Neovim v0.3.0 已发布，Bram Moolenaar 在写 Vim 时还是 90 年代初，至今已经 20 多年过去了。其中，不仅包含了大量的遗留代码，而且程序的维护、Bug 的修复、以及新特性的添加都变得越来越困难。为了解决这些问题，Neovim 项目应运而生。Neo 即“新”之意，它是
  ## [Ember.js 3.3.0-beta.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/97007/ember-js-3-3-0-beta-2-released)
  > Ember.js 3.3.0-beta.2 已发布，Ember 是一个 Web 应用程序，消除了样板，并提供了一个标准的应用程序架构的 JavaScript 框架。 本次更新内容如下： 16709 \[BUGFIX\] 避免 @ember/ordered-set addo中的有序集合弃用 16715
  ## [Ampache 3.8.7 发布，Web 音视频流应用/文件管理器](https://www.oschina.net/news/97006/ampache-3-8-7)
@@ -58,34 +58,6 @@ categories: IT NEWS
  > 云计算的应用对小企业来说是个好消息。但对大公司来说，这并不是什么好消息，因为将面临正在扰乱和颠覆市场
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
- > 数据分析师、数据科学家、大数据专家三个职位的区别
- ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
- > 基于线性SVM的CIFAR-10图像集分类
- ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
- > Zipkin实践：Python项目中跟踪系统导入Zipkin
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
- > 人脸识别、AI与大数据：技术挑战与突破
- ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
- > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
- > 作为一名半路出家的程序员，要学的还很多
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
- ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
- > 电商订单系统设计简析(二)
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
 # 人工智能 
