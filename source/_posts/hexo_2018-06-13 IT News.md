@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:33:36
+date: 2018-06-13 08:34:30
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -143,6 +143,8 @@ categories: IT NEWS
  > openCV数据符号说明
  ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
  > 用Python生成词云
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
  > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
