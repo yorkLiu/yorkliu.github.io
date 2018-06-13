@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 13:06:37
+date: 2018-06-13 17:01:26
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -54,10 +54,24 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 
 <p>&nbsp;</p>
 # IT 新闻 
- ## [Springboot 应用部署建议](https://my.oschina.net/seal90/blog/1828876)
- >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
- ## [Tomcat Session管理分析](https://my.oschina.net/OutOfMemory/blog/1825123)
- > 前言 在上文Nginx+Tomcat关于Session的管理中简单介绍了如何使用redis来集中管理session，本文首先将介绍默认的管理器是如何管理Session的生命周期的，然后在此基础上对Redis集中式管理Session进行分析。 Tomcat Manager介绍 上文中在Tomcat的c
+ ## [Guava 源码分析（Cache 原理）](https://my.oschina.net/crossoverjie/blog/1829337)
+ > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
+ ## [如何选择 Web 前端模板引擎？](https://my.oschina.net/editorial-story/blog/1825266)
+ > Web 模板就在那里 模板引擎负责组装数据，以另外一种形式或外观展现数据。 浏览器中的页面是 Web 模板引擎最终的展现。 无论你是否直接使用模板引擎，Web 模板一直都在，不在前端就在后端，它的出现甚至可以追溯到超文本标记语言 HTML 标准正式确立之前。 服务器端的模板引擎 我所知道最早的 We
+ ## [然之协同 4.7.stable 发布，请假新增年假天数设置功能](https://www.oschina.net/news/97037/ranzhi-4-7-stable-released)
+ > 然之协同办公系统是一款面向中小企业内部管理的协同办公系统，由客户管理(crm)、日常办公(oa)、现金记账(cash)、团队分享(team)、项目管理（proj）、阿米巴应用（ameba）应用导航(ips)等模块组成。专注于提供一体化、精简的解决方案，真正开源免费，扩展性强，支持二次开发。  6月1
+ ## [GoodERP 18.24 发布，开源企业管理软件](https://www.oschina.net/news/97036/gooderp-18-24-released)
+ > 2018/06/04 ~ 2018/06/10 所有模块 \[优化\] 所有单据在确认时检查状态，不能重复确认或者撤销。 core 模块 \[优化\] 主页关键指标中按钮的布局，对齐，并可以根据屏幕大小自动排列。 goods 模块 \[优化\] 在产品分类上设置税率，并在取税率时逐级取。 sell 模块 \[优化
+ ## [A 站惨遭黑客攻击，近千万条用户数据泄露](https://www.oschina.net/news/97035/acfun-data-leakage)
+ > 今早（6月13日），AcFun 弹幕视频网在其官网发布公告称，A 站遭受黑客攻击，导致近千万的用户数据泄露。此次泄露的用户数据包含用户 ID、用户昵称、加密存储的密码等信息，所有用户密码都经过加密，没有明文密码。 事情发生后，A 站出面解释道，在2017年7月7日之后一直未登录过AcFun，密码加密
+ ## [腾讯 AI-Java 客户端 TAip 新增加手写体、车牌识别](https://www.oschina.net/news/97034/taip-4-2-5-released)
+ > TAIP 是调用腾讯 AI 接口的 Java 客户端，为调用腾讯 AI 功能的开发人员提供了一系列的交互方法。 目前版本已经更新至4.2.5，Java开发者们无需再各种百度了。 新特性 文字识别模块新增手写体识别、车牌识别 public class Sample {    //设置APPID/APP
+ ## [Spring Security 4.2.7 和 5.0.6 发布](https://www.oschina.net/news/97030/spring-security-4-2-7-and-5-0-6-released)
+ > Spring Security 4.2.7 和 5.0.6 发布了，目前暂未见到相关发布信息，您可以查看提交日志了解详情。 4.2.7 下载地址：  Source code (zip)  Source code (tar.gz) 5.0.6 下载地址：  Source code (zip)  Sou
+ ## [Spring Framework 5.0.7 和 4.3.18 发布](https://www.oschina.net/news/97029/spring-5-0-7-and-4-3-18-released)
+ > Spring Framework 5.0.7 和 4.3.18 发布了，Spring Framework 5.0.7包含39个修复和选定的改进，而Spring Framework 4.3.18包含15个修复和选定的改进。这些是本周晚些时候即将发布的Spring Boot 2.0.3和1.5.14维护
+ ## [Firefly 4.8.1 正式版发布，增加 MDC 实现](https://www.oschina.net/news/97028/firefly-4-8-1-released)
+ > Firefly 4.8.1 新增了基于Coroutine的MDC实现并修复了网络框架在Windows系统中无法发送大的数据的问题。 Firefly HTTP服务器是异步的。一个HTTP请求会跨越多个线程。默认的MDC将数据保存在ThreadLocal中。这意味着默认的MDC无法跟踪用户请求。 我们添
  ## [Java 社区平台 Symphony 3.0.0 发布，新增问答帖](https://www.oschina.net/news/97027/symphony-3-0-0-released)
  > Java 社区平台 Symphony 3.0.0 发布了，更新内容如下： 新增特性 486 新的帖子类型：问答帖 优化改进 643 细分 401 及 403 644 去掉签到时间限制 646 个人设置位置移到隐私中 654 更新 IP 定位 655 更新邮箱修复缺陷 652 帖子快链时丢失查询参数 
  ## [后台管理系统 icec v1.1 发布，完善打包部署脚本](https://www.oschina.net/news/97024/icec-1-1-released)
@@ -84,20 +98,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 一般公司最容易被认为摸鱼的岗位就是运维了，有事了，恨不得让运维上吊，但是运维运作得好，就是服务器一年到头不出事，领导总觉得是不是自己白养了运维这个部门。
  ## [IPv6 普及率已达 1/4，互联网之父 Vint Cerf ：这还不够](https://www.oschina.net/news/97012/ipv6-covered-1-4-network-flow-not-enough)
  > 根据外媒ZDNet上周的消息，IPv6推出至今已有6年，其普及率现在已接近1/4。在迎接IPv6启动6周年的一个视频中，互联网之父、谷歌公司副总裁Vint Cerf表示这还不够，呼吁应尽快升级IPv6。 Cerf指出，拥有128位地址池的IPv6能够支持数万亿台互联网连接设备连接在一起的世界，而IP
- ## [SparkyLinux 5.4 发布，基于 Debian 的测试分支](https://www.oschina.net/news/97011/sparkylinux-5-4-released)
- > SparkyLinux 5.4 已发布。代号 &quot; Nibiru &quot;。SparkyLinux 是轻量级的、快速的、简单的 Linux 发行，它被设计为既适合老旧的也适合新式的计算机，并以定制的 Enlightenment 和 LXDE 桌面为特色。它构建于 Debian GNU/Linux 的测试分支
- ## [KDE Plasma 5.13 发布，极大减少内存使用量](https://www.oschina.net/news/97010/kde-plasma-5-13-released)
- > KDE Plasma 5.13 已发布。KDE Plasma 成员一直在努力继续使 Plasma 成为一款轻量且响应迅速的桌面，能够快速加载和运行，但仍保持全功能，并具有极佳的外观和感觉。 此次更新主要做了以下优化： 优化了启动并最大限度地减少了内存使用量，从而缩短了桌面到桌面的时间，提高了运行时性
- ## [Python 3.7.0rc1 和 3.6.6rc1 发布，最终预览版](https://www.oschina.net/news/97009/python-370rc1-and-366rc1-released)
- > Python 3.7.0rc1 和 3.6.6rc1 已发布下载。 3.7.0rc1 是 Python 3.7 的下一个功能版本的最终计划发布预览。 3.6.6rc1 是 Python 3.6 当前版本的下一个维护版本的发布预览。若没有发现关键问题，3.7.0 和 3.6.6 的计划发布日期为 20
- ## [Neovim v0.3.0 发布，Vim 改进版](https://www.oschina.net/news/97008/neovim-0-3-0-released)
- > Neovim v0.3.0 已发布，Bram Moolenaar 在写 Vim 时还是 90 年代初，至今已经 20 多年过去了。其中，不仅包含了大量的遗留代码，而且程序的维护、Bug 的修复、以及新特性的添加都变得越来越困难。为了解决这些问题，Neovim 项目应运而生。Neo 即“新”之意，它是
- ## [Ember.js 3.3.0-beta.2 发布，JavaScript MVC 框架](https://www.oschina.net/news/97007/ember-js-3-3-0-beta-2-released)
- > Ember.js 3.3.0-beta.2 已发布，Ember 是一个 Web 应用程序，消除了样板，并提供了一个标准的应用程序架构的 JavaScript 框架。 本次更新内容如下： 16709 \[BUGFIX\] 避免 @ember/ordered-set addo中的有序集合弃用 16715
- ## [Ampache 3.8.7 发布，Web 音视频流应用/文件管理器](https://www.oschina.net/news/97006/ampache-3-8-7)
- > Ampache 3.8.7 已发布，更新如下： 从远程站点收集作品时可更好地清理图像扩展。 检查B.O.M. (\xff\xfe)只能在 mp3 作曲家标签中删除。 增加 .ogv 编码目标，更有效地传输 mkv 文件。 顶级菜单外观更适合需要翻译的读者。 对 update_remote_catal
- ## [CrateDB 3.0.2 发布，分布式 SQL 数据库](https://www.oschina.net/news/97005/crate-3-0-2-released)
- > CrateDB 3.0.2 已发布，目前没有发现具体更新公告，您可以关注更新主页或提交日志了解详情。 Crate 是一个开源的大规模的可伸缩的数据存储系统，无需任何系统管理需求。提供强大的搜索功能。用于存储各种表格数据、非结构化数据和二进制对象。并可通过 SQL 进行检索。易于安装和使用，支持高可用
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
@@ -114,77 +114,73 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 荷兰央行：区块链目前无法满足金融基础设施需求
  ## [外媒速递：AI项目势必遭遇失败的九种迹象](http://zhuanlan.51cto.com/art/201806/576077.htm)
  > 外媒速递：AI项目势必遭遇失败的九种迹象
- ## [三大运营商世界杯资费出炉：最低14元包天不限量](http://network.51cto.com/art/201806/576124.htm)
- > 四年一次的足球盛宴，2018俄罗斯世界杯明日将正式开幕。三大电信运营商纷纷推出“世界杯”优惠资费套餐，无
- ## [智慧建筑不再遥远，看康普如何用一根双绞线连接一切!](http://network.51cto.com/art/201806/576123.htm)
- > 由于布线往往是在建筑墙内，对于“看不见的支出”，用户往往觉得“能省则省”。康普2007年就推出了6A产品，
- ## [网站必备的五大HTTP安全标头](http://server.51cto.com/sSecurity-576115.htm)
- > 在超文本传输协议（ Hypertext Transfer Protocol ，HTTP）的请求和响应消息中，协议头部分的那些组件。HTT
- ## [数据中心机房经常报警的原因详解！](http://server.51cto.com/BuildDC-576114.htm)
- > “机房蓄电池”被广泛应用，特别是在发射传输方面，给设备不间断高质量的运转供给了保证，在运用的过程中
- ## [我想带你去旅行，我用Python提前做了一份端午旅游攻略，请收下！](http://developer.51cto.com/art/201806/576112.htm)
- > 旅游是调节心情的有效途径，越来越多的上班族和学生期待利用假期时间外出游 玩来开拓眼界、舒缓压力。然而
- ## [人工智能揭示提高员工保留率的秘密](http://ai.51cto.com/art/201806/576113.htm)
- > 多年来，员工保留一直是企业雇主面临的一个严重的问题。由于担心工作保障以及员工忠诚度降低，导致更多人寻
- ## [大数据+人工智能 双擎驱动企业数字化转型](http://bigdata.51cto.com/art/201806/576111.htm)
- > 数字化时代，大数据及人工智能成为驱动企业业务增长的技术引擎，数字化转型也已成为企业生存和发展的必修课
- ## [AcFun遭遇黑客攻击，近千万条用户数据泄露](http://netsecurity.51cto.com/art/201806/576109.htm)
- > 北京时间6月13日凌晨，AcFun 发布公告称网站遭遇黑客攻击，近千万条用户数据外泄。呼吁 2017 年 7 月 7 日
- ## [学完Python能从事哪些工作？](http://developer.51cto.com/art/201806/576108.htm)
- > Python是一门面向对象的编程语言，编译速度超快，从诞生到现在已经25个年头了。它具有丰富和强大的库，常被
- ## [服务器性能优化的正确姿势](http://server.51cto.com/sOS-576110.htm)
- > 性能最通俗的衡量指标就是“时间”，CPU的使用率指的是CPU用于计算的时间占比，磁盘使用率指的是磁盘操作的
+ ## [React Native组件集成到Android原生项目](http://zhuanlan.51cto.com/art/201806/576177.htm)
+ > 为了把 React Native 集成到 Android 原生项目中，踩了很多坑，因为作为web前端开发，本来就不熟悉安卓，参
+ ## [CIO半月刊第37期|“如果我们有数据，就让数据说话” ――专访正泰CDO孙钦辉](http://www.cioage.com/art/201806/576169.htm)
+ > “2018 CXO企业数字化转型国际峰会”将于6月13日开幕，届时，全球数字化转型顶尖大枷Brian Solis、Samiran
+ ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](http://zhuanlan.51cto.com/art/201806/576172.htm)
+ > 说起 Spring Boot 我们不得不先了解一下 Spring 这个企业，不仅因为 Spring Boot 来源于 Spirng 大家族，而
+ ## [Spring Boot和Feign中使用Java 8时间日期API（LocalDate等）的序列化问题](http://zhuanlan.51cto.com/art/201806/576168.htm)
+ > LocalDate、LocalTime、LocalDateTime是Java 8开始提供的时间日期API，主要用来优化Java 8以前对于时间日期
+ ## [“互联网+”教育，落实到教学的困难之处](http://www.cioage.com/art/201806/576164.htm)
+ > 教育信息化，要求在教育过程中较全面地运用多媒体和网络为基础的现代信息技术，促进教育改革，从而适应正在
+ ## [实践App内存优化：如何有序地做内存分析与优化](http://mobile.51cto.com/hot-576167.htm)
+ > 由于项目里之前线上版本出现过一定比例的OOM,虽然比例并不大，但是还是暴露了一定的问题，所以打算对我们Ap
+ ## [创新匮乏下 笔记本触控功能实用性有多少？](http://biz.51cto.com/art/201806/576160.htm)
+ > 很多人选择换笔记本产品的另一个原因则是原来的电脑不具备一项或多项功能，比如：指纹识别、Windows Hello
+ ## [虚拟化技术分析：动态地址转换](http://virtual.51cto.com/art/201806/576156.htm)
+ > 从硬件的角度来看，此时的System/360 Model 67并没有提供虚拟化设备的支持，是CP-67虚拟机管理程序自己提供
+ ## [2018年值得关注的5个大数据趋势](http://bigdata.51cto.com/art/201806/576155.htm)
+ > 据调研机构Forrester Research最近发布的营销报告，随着组织的领导者开始意识到大量使用大数据技术所需的工
+ ## [2018年世界杯冠军竟然被大数据算出来了，还要比吗？](http://bigdata.51cto.com/art/201806/576151.htm)
+ > 2018年俄罗斯世界杯快来了，今年的大力神杯又将花落谁家?想必每个球迷心中都有自己的答案。但是对于那些银
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
- > 基于线性SVM的CIFAR-10图像集分类
- ## [大规模分布式系统的跟踪系统：Dapper设计给我们的启示](https://blog.csdn.net/liumiaocn/article/details/80657661)
- > 大规模分布式系统的跟踪系统：Dapper设计给我们的启示
+ ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
+ > 奥布莱恩杯尘埃落定 人工智能立功了！
  ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
  > Zipkin实践：Python项目中跟踪系统导入Zipkin
+ ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
+ > 数据分析师、数据科学家、大数据专家三个职位的区别
  ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
  > 《技术人求职指南》（二）如何写好简历
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
  ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
  > 人脸识别、AI与大数据：技术挑战与突破
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
  > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
+ ## [价值3980元的web全栈视频，3万人都看过，你想免费领取吗？](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80491146)
+ > 价值3980元的web全栈视频，3万人都看过，你想免费领取吗？
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
- ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
- > 工程狮爸爸如何准备儿童节礼物？
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [“6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？](https://blog.csdn.net/xunshangkeji/article/details/80647347)
  > “6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
  ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
  > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
  > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
- ## [传统餐饮九死一生，五芳斋的AI梦能撑多久？](http://www.lanjingtmt.com/news/detail/35732.shtml)
- > 冈察洛夫曾说过：“人无疑是大地的主人，但又是肠胃的奴隶”这话说的一点不假，在饥饿面前，人人都不得不妥协
- ## [高额补贴成“空头支票”，腾讯微视要赖主播们的帐？](http://www.lanjingtmt.com/news/detail/35731.shtml)
- > 一位MCN机构负责人看到微视新补贴政策出台后，已经转战百度Nani。“（微视）根本没流量，我现在已经对微视失望了。”
- ## [漫游宝租售无证产品 天猫携程应尽监督责任](http://www.lanjingtmt.com/news/detail/35726.shtml)
- > 很少有人考虑携带的移动Wifi的安全性能。但如果陪你看世界的这个移动Wifi是一个不符合3C认证的不合格产品呢？
- ## [“董小姐”的造车梦何去何从？](http://www.lanjingtmt.com/news/detail/35715.shtml)
- > 珠海银隆最近半年日子并不好过，欠款、工厂生产停滞、供应商堵门讨薪，这些曾经在乐视身上发生过的事都在银隆身上一一重演。
- ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
- > 日前，SHAREit(茄子快传)对外宣布，在全球用户数已超过15亿，同时，前Zynga、Pinterest高管王超将担任茄子快传新任COO。
- ## [OPPO VS vivo，比敌人更接近敌人](http://www.lanjingtmt.com/news/detail/35729.shtml)
- > “双子星”、“孪生”在各个行业都不多见，终端行业由于自身较其他行业周期短、业态丰富，出现“OV现象”算是非常特殊的一例。
- ## [A站遭遇黑客攻击泄露千万用户数据  提醒用户尽快修改密码](http://www.lanjingtmt.com/news/detail/35728.shtml)
- > 昨日晚间弹幕社区网站Acfun(以下简称“A站”）发布公告称遭遇黑客攻击，近千万条用户数据外泄。
 # 人工智能 
+ ## [资源 | 台大李宏毅教授最新课程，深度强化学习有国语版啦！](https://yq.aliyun.com/articles/602038)
+ > 入坑深度学习的同学肯定都听过台湾大学的李宏毅教授，或者是他那本非常受欢迎的课程——《1天搞懂深度学习》。这门课程的讲义PPT总共有286页...
+ ## [深度学习的未来在单片机身上？](https://yq.aliyun.com/articles/601944)
+ > Pete Warden，是谷歌TensorFlow团队成员，也是TensorFLow Mobile的负责人，常年遨游在深度学习的大海。...
+ ## [国民技术计划1.4亿入股华夏芯](https://yq.aliyun.com/articles/601919)
+ > 昨晚，国民技术发布公告，拟通过全资子公司深圳前海国民投资管理有限公司以 1.4 亿元现金增资参股华夏芯（北京）通用处理器技术有限公司，参股后将占华夏芯增资后的股权比例约为 21.37%。据国民技术介绍，目前行业内其他同类型公司的产品，缺少安全核心技术的要素，芯片漏洞会造成众多设备面临恶意攻击风险；而
+ ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://yq.aliyun.com/articles/601913)
+ > 5月末的一天中午，蚂蚁AI平台部的几个PD同学吃完老娘舅，在Z空间楼下遛弯。 期间，某同学提到一则“小孩子因为鸡毛蒜皮的小事，想不开而...
+ ## [云栖科技评论第58期：云计算：能力越大，责任越大](https://yq.aliyun.com/articles/601878)
+ > 云计算巨头们如今有着惊人的数据中心投入能力，有强大的人工智能、大数据和物联网等前沿科技能力，能力越来越大，与之相应，责任也要越来越大。
  ## [阿里巴巴登顶全球企业创新榜，被美国四大互联网公司视为头号对手](https://yq.aliyun.com/articles/601817)
  > 在最新发布的毕马威2018年度创新报告中，阿里巴巴被评为地球上最具科技颠覆力的公司。排在阿里巴巴之后的，是Facebook、亚马逊、谷歌等...
  ## [客户端码农学习ML —— 逻辑回归分类算法](https://yq.aliyun.com/articles/601801)
@@ -197,16 +193,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
  > python 数据标准化常用方法，z-score\min-max标准化
- ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
- > 印刷纸表面瑕疵检测
- ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
- > R语言中的SMOTE算法的参数解释
- ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
- > 人脸面部情绪识别（一）
- ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
- > openCV数据符号说明
- ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
- > 用Python生成词云
  ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
  > 从人脸识别到情感分析，这有50个机器学习实用API！
  ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
@@ -221,32 +207,40 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > TensorBoard 简介及使用流程
  ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
  > 经验正交函数分析法（EOF）在matlab上的实现
+ ## [TensorFlow入门指南](https://blog.csdn.net/u012300744/article/details/80665318)
+ > TensorFlow入门指南
+ ## [人脸识别之SphereFace](https://blog.csdn.net/weixin_42111770/article/details/80665419)
+ > 人脸识别之SphereFace
+ ## [资源 | 阿里发布免费深度学习课程：感知机梳理（附链接）](https://blog.csdn.net/qq_42154484/article/details/80665423)
+ > 资源 | 阿里发布免费深度学习课程：感知机梳理（附链接）
+ ## [送你一份机器/深度学习自学指南（附视频&速成方案）](https://blog.csdn.net/qq_42154484/article/details/80665439)
+ > 送你一份机器/深度学习自学指南（附视频&amp;速成方案）
+ ## [计算广告学方向概述](https://blog.csdn.net/qq_21794823/article/details/80665516)
+ > 计算广告学方向概述
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
- ## [3个方面研究：图与表展示](http://www.woshipm.com/it/1058908.html)
- > 图与表，是数据展示的两种形式，它们分别适用于不同的场景。文章从三个方面研究，图与表的展示，一起来文章中看看~一、图与表的优劣势和适用场景图的优势是直观、易...
- ## [大数据火热的时代，“小数据”的意义何在？](http://www.woshipm.com/it/1058595.html)
- > 云计算时代，大数据受到了互联网的追捧。如今的人工智能时代，机器学习更是需要投入大量的数据，在大数据的基础上，对机器进行训练，并从中归纳出可以被计算机运用的知...
- ## [系列故事之二｜运营部来了个李彩凤](http://www.woshipm.com/operate/1058887.html)
- > 本文为运营部系列故事之二。我们运营组有4个人，分工如下：李彩凤：页面总控，负责转化业务，尤其是那些重要的Landing page页。赵庆亭：病毒传播项目负责人，目前...
- ## [4个角度分析：朋友圈之死](http://www.woshipm.com/it/1058973.html)
- > 朋友圈是一个社交表演的舞台，添加的人越多，关系就越复杂，慢慢的就会压抑人们在朋友圈里的表达，在朋友圈里发表内容的成本变高了，高到以至于压抑了人的表达，这就是...
- ## [如何找到用户的真实需求？这有三个思路](http://www.woshipm.com/user-research/1058963.html)
- > 今天说个老生常谈的话题，怎么找到用户的真实需求。大家都知道，通过一些正儿八经的方法，除非有相当的技巧，否则用户基本上不会跟你说真话。无数产品悲剧都是由此而...
- ## [以“2018俄罗斯世界杯”营销为例，聊聊文案如何传播品牌](http://www.woshipm.com/copy/1058750.html)
- > 内容传播少不了文案。怎样的文案才能更好地传播品牌呢？本文以世界杯文案为例，分析一下文案该如何创作。最近跟一位服务于甲方零售业的朋友聊到品牌创意，得知该公司...
- ## [品牌：设计思维中被忽视的孩子](http://www.woshipm.com/ucd/1058837.html)
- > 大家好，我是MU.SIR，一个不断自学的不正经设计师。今天这篇译文是关于当今设计中过度强调用户体验而忽视了品牌传达的问题，其实在我自己看来，品牌是任何商业设计主体...
- ## [价值包装三步骤：讲好故事+包装好产品+好销售策略](http://www.woshipm.com/operate/1058726.html)
- > 当我们在卖产品的时候，我们可以选择讲述一个好的产品故事，然后对产品进行价值包装，就可以把产品实现几倍价值提升（必须为非标品，品牌没有知名度的产品），然后通过...
- ## [智能合约是什么？能否摘掉无良媒体的帽子？](http://www.woshipm.com/ai/1058716.html)
- > 智能合约是一套以数字形式定义的承诺，包括合约参与方可以在上面执行这些承诺的协议。与传统的合约相比，它不需要人去执行，而是由计算机自动执行其合约条款，被视为区...
- ## [一个提升用户体验的绝好方法：触点管理](http://www.woshipm.com/marketing/1058822.html)
- > 这个提升用户体验的方法，再过800年也不过时！没有顾客的门店一定活不久，没有用户的产品也一定会失败。那顾客为啥要去你的门店，用户又为什么选择你的产品呢？首先...
- ## [案例分析丨小红书：一些社区运营的新思考](http://www.woshipm.com/operate/1058624.html)
- > 小红书作为一个社区属性为主的产品，并因为丰富的内容而不断赋能，迸发新的平台生命力。本文以小红书为案例，分析社区运营的一些认识，并通过对小红书内容社区部分做的...
- ## [短视频占据风口，直播平台该如何反击？](http://www.woshipm.com/it/1058609.html)
- > 《QuestMobile 2017年中国移动互联网年度报告》显示：去年短视频独立行业用户已突破4.1亿人，同比增长率达116.5%。在今年，抖音的快速火爆，吸引了更多品牌商、网红与...
+ ## [抖音：用户对“关注的人”无兴趣，应该如何促进社交？](http://www.woshipm.com/pd/1059348.html)
+ > 抖音接下来的产品和运营方向的重心之一，是建立更牢固的“关注”关系，加强互动，促进社交，以及帮助抖音的内容生产者变现。一、抖音存在的一个问题抖音产品很牛逼，增...
+ ## [《腾讯课堂》产品分析报告](http://www.woshipm.com/evaluating/1059128.html)
+ > 腾讯课堂为腾讯推出的直播学习平台，主要解决用户通过网络学习的需求。通过腾讯课堂的课程内容十分广泛，市面上最火的互联网方向、外语学习、职业考试等都有十分细致的...
+ ## [Spotify的发展史：拥有7000多万付费用户，他们是怎么做到的？](http://www.woshipm.com/evaluating/1059399.html)
+ > 编者按：Spotify是现在最受欢迎的流媒体音乐服务提供商之一，截止2018年第一季度，拥有7000多万付费用户。与此同时，苹果音乐的用户才5000万（包括付费用户和试用用户）...
+ ## [方军：怎样把知识变得更易懂、易用？](http://www.woshipm.com/pmd/1059145.html)
+ > “知识付费”流行的今天，我们可以接触到的知识越来越多。可是很多知识并不那么容易被吸收与使用。怎么把知识变得不那么难呢？被通俗称为“知识付费”的互联网知识产品发...
+ ## [催收场景及产品调研分析：AI应用篇](http://www.woshipm.com/ai/1058007.html)
+ > 随着消费信贷的快速发展，第三方催收行业迅速发展，但暴力催收、裸条事件的曝光，催收行业的薄弱环节及制约因素，引起行业及监管部门的关注。催收企业需要法律法规监管...
+ ## [刘润：什么是新零售？用“加减乘除”这个逻辑来解读](http://www.woshipm.com/newretail/1059215.html)
+ > 新零售就是更高效率的零售。2016年10月份马云和雷军同时提出了新零售，为什么会提出这个概念，并且这个概念在过去两年如此重要？一个重要的原因就是互联网流量价格越...
+ ## [内容型产品出海：怎样通过数据运营，驱动业务发展？](http://www.woshipm.com/operate/1058698.html)
+ > 2018年是中国内容型产品出海的新起点，随着精细化运营理念不断深入人心，怎样从0到1搭建数据运营体系，利用数据指导渠道投放、优化产品和内容，成为新的课题。从2012 ...
+ ## [互联网盈利，有什么商业模式？](http://www.woshipm.com/operate/1059026.html)
+ > 互联网盈利模式有哪些呢？本文从商业模式和产品矩阵的角度带你了解一下。一、序幕很长一段时间里，示月还在翻看老衬写的《奇点运营》，尽管很多年之前就已经看过了。...
+ ## [知乎、喜马拉雅推出超级会员日：对知识付费行业意味着什么？](http://www.woshipm.com/it/1059060.html)
+ > 知乎和喜马拉雅在这段时间，分别推出了超级会员日，为什么在相同的时间节点，这些领先的知识付费平台纷纷做出了相似的举动，是偶然之举，还是行业形势所迫？在过去的...
+ ## [如何实现“圈层裂变”的产品增长？](http://www.woshipm.com/operate/1056000.html)
+ > 把社会的人群区分三六九等，往往同等级的人只能和同等级的人成为朋友，每一个等级层次都是一个圈层。一个产品在诞生前，就应该想好这个产品对应的圈层是哪类人群，人群...
+ ## [实例分享：如何玩转微信社群运营？](http://www.woshipm.com/operate/1056949.html)
+ > 社交是人的基本需求，基于兴趣或共同需求的社交，更是人们的刚需。对于一个社群来说，聚集在一起的成员必须有一个共同的强需求，社群必须能提供解决这一需求的服务。那...
 
     
