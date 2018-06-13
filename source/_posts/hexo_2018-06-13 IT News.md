@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:08:40
+date: 2018-06-13 10:09:30
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -164,6 +164,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 工程狮爸爸如何准备儿童节礼物？
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
+ ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
+ > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
  ## [“董小姐”的造车梦何去何从？](http://www.lanjingtmt.com/news/detail/35715.shtml)
  > 珠海银隆最近半年日子并不好过，欠款、工厂生产停滞、供应商堵门讨薪，这些曾经在乐视身上发生过的事都在银隆身上一一重演。
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
@@ -175,6 +177,34 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
+ > python 数据标准化常用方法，z-score\min-max标准化
+ ## [大话AdaBoost算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80664739)
+ > 大话AdaBoost算法
+ ## [TensorFlow入门基础：单层神经网络进行模型拟合](https://blog.csdn.net/u011317780/article/details/80664755)
+ > TensorFlow入门基础：单层神经网络进行模型拟合
+ ## [【机器学习笔记3】用逻辑回归预测马疝病的死亡率](https://blog.csdn.net/u011362297/article/details/80664812)
+ > 【机器学习笔记3】用逻辑回归预测马疝病的死亡率
+ ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
+ > 印刷纸表面瑕疵检测
+ ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
+ > R语言中的SMOTE算法的参数解释
+ ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
+ > 人脸面部情绪识别（一）
+ ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
+ > openCV数据符号说明
+ ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
+ > 用Python生成词云
+ ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
+ > 从人脸识别到情感分析，这有50个机器学习实用API！
+ ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
+ > 机器学习预测世界杯：巴西夺冠
+ ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
+ > 别把机器学习和人工智能搞混了！
+ ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
+ > 三招提升数据不平衡模型的性能（附python代码）
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
@@ -188,5 +218,25 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 产品经理发展前景广阔，薪资待遇高，不少同学都萌生了转产品经理的想法。互联网从业者，和产品有接触，通过转产品突破职业发展瓶颈，从执行层跃迁到管理层；传统行...
  ## [2018广告营销作业手册（中）](http://www.woshipm.com/marketing/1058119.html)
  > 很多人告诉我，自媒体的文字应该短而生动、且高频，可是我是个笨人不会转弯，一写就较真，一较真就陷下去，越写越长，越写越严肃…长篇枯燥，真心没人看。人家说，这根...
+ ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
+ > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
+ ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
+ > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
+ ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
+ > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
+ ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
+ > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
+ ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
+ > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
+ ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
+ > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
+ ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
+ > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
+ ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
+ > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
+ ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
+ > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
+ ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
+ > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
