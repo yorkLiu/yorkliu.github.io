@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:54:19
+date: 2018-06-13 12:53:12
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -54,10 +54,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 
 <p>&nbsp;</p>
 # IT 新闻 
- ## [Springboot 应用部署建议](https://my.oschina.net/seal90/blog/1828876)
- >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
- ## [Tomcat Session管理分析](https://my.oschina.net/OutOfMemory/blog/1825123)
- > 前言 在上文Nginx+Tomcat关于Session的管理中简单介绍了如何使用redis来集中管理session，本文首先将介绍默认的管理器是如何管理Session的生命周期的，然后在此基础上对Redis集中式管理Session进行分析。 Tomcat Manager介绍 上文中在Tomcat的c
  ## [Java 社区平台 Symphony 3.0.0 发布，新增问答帖](https://www.oschina.net/news/97027/symphony-3-0-0-released)
  > Java 社区平台 Symphony 3.0.0 发布了，更新内容如下： 新增特性 486 新的帖子类型：问答帖 优化改进 643 细分 401 及 403 644 去掉签到时间限制 646 个人设置位置移到隐私中 654 更新 IP 定位 655 更新邮箱修复缺陷 652 帖子快链时丢失查询参数 
  ## [后台管理系统 icec v1.1 发布，完善打包部署脚本](https://www.oschina.net/news/97024/icec-1-1-released)
