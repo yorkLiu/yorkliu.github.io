@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:00:46
+date: 2018-06-13 10:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -98,8 +98,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > Framework7 3.0.0 beta9 已发布。更新内容如下： Core Better @global parsing in js and js_if helpers All new Tooltip component Template7 update to latest 1.3.6 Phen
  ## [Angular.js 1.7.2 发布，Web 前端框架](https://www.oschina.net/news/97002/angularjs-1-7-2-released)
  > Angular.js 1.7.2 已发布。主要更新内容如下： 在之前的版本中，AngularJS 移除了私人、未公开的 API。而一些流行的 UI 库（如 AngularJS Material，UI Bootstrap，ngDialog 等）都依赖于该 API。因此，为了避免开发者不必要的痛苦，这个
- ## [七款适用于企业的开源VPN工具](http://netsecurity.51cto.com/art/201806/575993.htm)
- > 七款适用于企业的开源VPN工具
+ ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
+ > 七款适用于企业的开源 VPN 工具
  ## [外媒速递：AI项目势必遭遇失败的九种迹象](http://zhuanlan.51cto.com/art/201806/576077.htm)
  > 外媒速递：AI项目势必遭遇失败的九种迹象
  ## [Airbnb首席架构师李聪：IT系统架构设计应充分考虑用户隐私](http://news.51cto.com/art/201806/575957.htm)
@@ -114,6 +114,16 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 全国首套！基于Java区块链项目的实战教程
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](http://ai.51cto.com/art/201806/575958.htm)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [过半用户饱受 Windows 10 更新之苦，消费者组织没法忍](http://news.51cto.com/art/201806/576090.htm)
+ > 知名消费者权益组织 Which? 12日发文称过半数微软用户饱受 Windows 10 更新之苦，希望微软能够尊重用户的消
+ ## [Facebook 开源其调试平台 Sonar，支持 Android 与 iOS](http://news.51cto.com/art/201806/576088.htm)
+ > Facebook 在其官网宣布，正式开源其内部用于移动应用调试的平台 Sonar。
+ ## [自动驾驶汽车，是不是也该给司机单独考个驾照？](http://www.cioage.com/art/201806/576087.htm)
+ > 既然Level 5才能够真正实现无司机化，那么驾驶L0-4级自动辅助驾驶汽车的司机需不需要单独考一个驾驶证？
+ ## [2018开发者生态报告：Java最流行，Go最有潜力，JavaScript最常用](http://developer.51cto.com/art/201806/576085.htm)
+ > JetBrains 近日发布了 2018 开发者生态报告，该报告包含开发人员对各种编程语言以及数据库和团队工具的偏好
+ ## [菜鸟学分析：通过数据分析发现服务器性能问题](http://server.51cto.com/News-576086.htm)
+ > 在最近导入大量新用户后，留存发生了突然的下降，还好最近没有什么更新动作，所以能比较明确的感觉到留存可
  ## [Python爬取历年高考分数线――预测2018年高考分数线](http://developer.51cto.com/art/201806/576084.htm)
  > 高考已经结束了，相信绝大部分同学都在放松自己了，毕竟压抑了这么久。现在虽然距离高考放榜还有一段时间，
  ## [破解小微企业痛点 企业云办公选型指南](http://biz.51cto.com/art/201806/576083.htm)
@@ -124,18 +134,36 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > hbase是bigtable的开源山寨版本。是建立的hdfs之上，提供高可靠性、高性能、列存储、可伸缩、实时读写的数
  ## [视频监控里面的存储设备特点及加密](http://stor.51cto.com/art/201806/576080.htm)
  > 存储设备是视频监控系统中不可缺的的一部分。视频监控系统中采用的存储设备在数据读写方式上具有与其它类型
- ## [逆向云模型对数据存储策略的再思考](http://stor.51cto.com/art/201806/576078.htm)
- > 如今有许多企业存储讨论的重点是将数据转移到公共云上进行归档，因为进入的成本并不高，尤其是在需要即时容
- ## [防火墙正向三大方向演进](http://netsecurity.51cto.com/art/201806/576076.htm)
- > 当前绝大多数企业都部署有防火墙设备，然而如何利用好这些安全防护设备却并非全部企业都擅长的。因此选择什
- ## [小心网络攻击者借加密使坏](http://netsecurity.51cto.com/art/201806/576075.htm)
- > 在近期发布的2018年安全报告中却暴露出加密在网络防御中日益凸显的漏洞，那就是“加密”也会被攻击者所利用
- ## [关于802.11ax无线局域网标准的七大认识误区](http://network.51cto.com/art/201806/576073.htm)
- > 对于在 2019 年非常有可能标准化的 802.11ax 无线局域网标准而言，现在也许是市场预热的开始，下面我们就来
- ## [高速发展企业必备秘诀：SD-WAN技术](http://network.51cto.com/art/201806/576072.htm)
- > 高速成长的企业意味着公司拥有多个办公或营业的地点，分布在各地的员工必须通过广域网WAN连接到公司总部的
- ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
- > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
+ > 基于线性SVM的CIFAR-10图像集分类
+ ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
+ > Zipkin实践：Python项目中跟踪系统导入Zipkin
+ ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
+ > 数据分析师、数据科学家、大数据专家三个职位的区别
+ ## [《技术人求职指南》（二）如何写好简历](https://blog.csdn.net/gBbQRglVIr3dYi82/article/details/80524128)
+ > 《技术人求职指南》（二）如何写好简历
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
+ > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [苹果WWDC大会：iOS求稳，AR求新，APP求全](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80575819)
+ > 苹果WWDC大会：iOS求稳，AR求新，APP求全
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
+ ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
+ > 电商订单系统设计简析(二)
  ## [茄子快传宣布全球用户达15亿，前Zynga高管王超任新COO](http://www.lanjingtmt.com/news/detail/35730.shtml)
  > 日前，SHAREit(茄子快传)对外宣布，在全球用户数已超过15亿，同时，前Zynga、Pinterest高管王超将担任茄子快传新任COO。
  ## [OPPO VS vivo，比敌人更接近敌人](http://www.lanjingtmt.com/news/detail/35729.shtml)
@@ -186,25 +214,5 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 产品经理发展前景广阔，薪资待遇高，不少同学都萌生了转产品经理的想法。互联网从业者，和产品有接触，通过转产品突破职业发展瓶颈，从执行层跃迁到管理层；传统行...
  ## [2018广告营销作业手册（中）](http://www.woshipm.com/marketing/1058119.html)
  > 很多人告诉我，自媒体的文字应该短而生动、且高频，可是我是个笨人不会转弯，一写就较真，一较真就陷下去，越写越长，越写越严肃…长篇枯燥，真心没人看。人家说，这根...
- ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
- > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
- ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
- > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
- ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
- > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
- ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
- > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
- ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
- > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
- ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
- > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
- ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
- > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
- ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
- > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
- ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
- > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
- ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
- > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
