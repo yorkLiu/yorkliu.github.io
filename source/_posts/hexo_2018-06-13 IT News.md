@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:00:39
+date: 2018-06-13 08:02:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -42,8 +42,6 @@ categories: IT NEWS
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [比特币替代品：值得关注的6种新兴密码技术](http://server.51cto.com/sSecurity-575953.htm)
  > 比特币替代品：值得关注的6种新兴密码技术
- ## [恐慌来袭！云计算有望颠覆行业巨头？](http://cloud.51cto.com/art/201806/576069.htm)
- > 云计算的应用对小企业来说是个好消息。但对大公司来说，这并不是什么好消息，因为将面临正在扰乱和颠覆市场
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
