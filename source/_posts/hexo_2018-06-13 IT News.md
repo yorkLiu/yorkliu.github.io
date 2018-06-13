@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 17:49:20
+date: 2018-06-13 17:51:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -54,10 +54,20 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 
 <p>&nbsp;</p>
 # IT 新闻 
+ ## [分布式环境下的配置变更如何做到平滑](https://my.oschina.net/fileoptions/blog/1829700)
+ > 时长有种感觉，技术和生活都是相同，很多看似深奥的技术原理都可以在生活中找到映射，比如。        假设一个场景，你有很多员工，分散在世界各地，你们平时都用邮件沟通，有一天你想切换为钉钉沟通，那么你会怎么做呢？首先，你会想到群发一个邮件给你的所有员工，然而，你无法确认员工是否查看了邮件，什么时候查
+ ## [redis sds 实现的几个巧妙的想法](https://my.oschina.net/u/2950272/blog/1829687)
+ > 翻redis 源码的时候，发现有些用法真是很巧妙的，一个是指针变换，一个是内存管理策略，当然后者是有利弊的。         sds.h 就这两个数据类型，这里，能够sds 和 sdshdr 相互转化。对外的接口，参数和返回只有char * 。redis 为每个char * 都维护了个数据结构 sd
+ ## [精讲Redis内存模型](https://my.oschina.net/u/3779583/blog/1829617)
+ > 前言 Redis是目前最火爆的内存数据库之一，通过在内存中读写数据，大大提高了读写速度，可以说Redis是实现网站高并发不可或缺的一部分。 我们使用Redis时，会接触Redis的5种对象类型（字符串、哈希、列表、集合、有序集合），丰富的类型是Redis相对于Memcached等的一大优势。在了解R
+ ## [神奇的403](https://my.oschina.net/qixiaobo025/blog/1829469)
+ > 背景 应曾老师要求 来写一篇神奇的403…… 分享会结束后 某曾老师高兴地说道：“试用出bug了……测试【^^！】说你修改了profile“ 先来看一下现象！ 请求返回403~！ 问题 /kzf6/maintain/getNoFinishMaintainList.do?idCar=406059193
+ ## [apiDoc构建源代码注释的接口文档](https://my.oschina.net/wuweixiang/blog/1829384)
+ > apiDoc官网：http://apidocjs.com/ 入门 前言 本文档中的所有示例都使用Javadoc-Style（可用于C＃，Go，Dart，Java，JavaScript，PHP，TypeScript和所有其他支持Javadoc的语言）： /** * This is a comment.
  ## [Guava 源码分析（Cache 原理）](https://my.oschina.net/crossoverjie/blog/1829337)
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
- ## [如何选择 Web 前端模板引擎？](https://my.oschina.net/editorial-story/blog/1825266)
- > Web 模板就在那里 模板引擎负责组装数据，以另外一种形式或外观展现数据。 浏览器中的页面是 Web 模板引擎最终的展现。 无论你是否直接使用模板引擎，Web 模板一直都在，不在前端就在后端，它的出现甚至可以追溯到超文本标记语言 HTML 标准正式确立之前。 服务器端的模板引擎 我所知道最早的 We
+ ## [flag -- 诡异的memcache标记](https://my.oschina.net/jijunjian/blog/1829272)
+ > 引子　　　 　    打从去年一路北漂，进入无人货架行业，业务需求漫天飘，最近总算把工作都规划齐整。回望过去一年多的时间里，诸多东西值得整理，memcache就是其中一个。 　　 看到java的工资高些，队伍中好些人都想学习java，美其名曰：技术多元化。奈何团队中并没有相关经验的人，也深知大家殷切
  ## [微信模块 Oejia_wx v0.5.2 发布，优化配置增加直发微信消息](https://www.oschina.net/news/97038/oejia_wx-0-5-2-released)
  > Oejia_wx v0.5.2 发布了。Odoo 的微信模块，提供了对微信公众号和企业号（企业微信）的接入与管理，实现了微信消息与Odoo聊天的无缝对接 v0.5.2 增加同步用户或用户组时的确认窗口提示 对接配置页优化，兼容python3 odoo11的配置保存模式 通讯录secret可单独配置，
  ## [然之协同 4.7.stable 发布，请假新增年假天数设置功能](https://www.oschina.net/news/97037/ranzhi-4-7-stable-released)
