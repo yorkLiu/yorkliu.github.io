@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:31:25
+date: 2018-06-13 09:32:26
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -52,8 +52,8 @@ categories: IT NEWS
  > Framework7 3.0.0 beta9 已发布。更新内容如下： Core Better @global parsing in js and js_if helpers All new Tooltip component Template7 update to latest 1.3.6 Phen
  ## [Angular.js 1.7.2 发布，Web 前端框架](https://www.oschina.net/news/97002/angularjs-1-7-2-released)
  > Angular.js 1.7.2 已发布。主要更新内容如下： 在之前的版本中，AngularJS 移除了私人、未公开的 API。而一些流行的 UI 库（如 AngularJS Material，UI Bootstrap，ngDialog 等）都依赖于该 API。因此，为了避免开发者不必要的痛苦，这个
- ## [Airbnb李聪：IT系统架构设计应充分考虑用户隐私](http://news.51cto.com/art/201806/575957.htm)
- > Airbnb李聪：IT系统架构设计应充分考虑用户隐私
+ ## [Airbnb首席架构师李聪：IT系统架构设计应充分考虑用户隐私](http://news.51cto.com/art/201806/575957.htm)
+ > Airbnb首席架构师李聪：IT系统架构设计应充分考虑用户隐私
  ## [外媒速递：AI项目势必遭遇失败的九种迹象](http://zhuanlan.51cto.com/art/201806/576077.htm)
  > 外媒速递：AI项目势必遭遇失败的九种迹象
  ## [东方世界杨潇：AR开发技术点探索](http://ai.51cto.com/art/201806/575888.htm)
