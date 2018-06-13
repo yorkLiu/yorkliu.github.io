@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 17:07:48
+date: 2018-06-13 17:11:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -114,6 +114,26 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 荷兰央行：区块链目前无法满足金融基础设施需求
  ## [外媒速递：AI项目势必遭遇失败的九种迹象](http://zhuanlan.51cto.com/art/201806/576077.htm)
  > 外媒速递：AI项目势必遭遇失败的九种迹象
+ ## [React Native组件集成到Android原生项目](http://zhuanlan.51cto.com/art/201806/576177.htm)
+ > 为了把 React Native 集成到 Android 原生项目中，踩了很多坑，因为作为web前端开发，本来就不熟悉安卓，参
+ ## [CIO半月刊第37期|“如果我们有数据，就让数据说话” ――专访正泰CDO孙钦辉](http://www.cioage.com/art/201806/576169.htm)
+ > “2018 CXO企业数字化转型国际峰会”将于6月13日开幕，届时，全球数字化转型顶尖大枷Brian Solis、Samiran
+ ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](http://zhuanlan.51cto.com/art/201806/576172.htm)
+ > 说起 Spring Boot 我们不得不先了解一下 Spring 这个企业，不仅因为 Spring Boot 来源于 Spirng 大家族，而
+ ## [Spring Boot和Feign中使用Java 8时间日期API（LocalDate等）的序列化问题](http://zhuanlan.51cto.com/art/201806/576168.htm)
+ > LocalDate、LocalTime、LocalDateTime是Java 8开始提供的时间日期API，主要用来优化Java 8以前对于时间日期
+ ## [“互联网+”教育，落实到教学的困难之处](http://www.cioage.com/art/201806/576164.htm)
+ > 教育信息化，要求在教育过程中较全面地运用多媒体和网络为基础的现代信息技术，促进教育改革，从而适应正在
+ ## [实践App内存优化：如何有序地做内存分析与优化](http://mobile.51cto.com/hot-576167.htm)
+ > 由于项目里之前线上版本出现过一定比例的OOM,虽然比例并不大，但是还是暴露了一定的问题，所以打算对我们Ap
+ ## [创新匮乏下 笔记本触控功能实用性有多少？](http://biz.51cto.com/art/201806/576160.htm)
+ > 很多人选择换笔记本产品的另一个原因则是原来的电脑不具备一项或多项功能，比如：指纹识别、Windows Hello
+ ## [虚拟化技术分析：动态地址转换](http://virtual.51cto.com/art/201806/576156.htm)
+ > 从硬件的角度来看，此时的System/360 Model 67并没有提供虚拟化设备的支持，是CP-67虚拟机管理程序自己提供
+ ## [2018年值得关注的5个大数据趋势](http://bigdata.51cto.com/art/201806/576155.htm)
+ > 据调研机构Forrester Research最近发布的营销报告，随着组织的领导者开始意识到大量使用大数据技术所需的工
+ ## [2018年世界杯冠军竟然被大数据算出来了，还要比吗？](http://bigdata.51cto.com/art/201806/576151.htm)
+ > 2018年俄罗斯世界杯快来了，今年的大力神杯又将花落谁家?想必每个球迷心中都有自己的答案。但是对于那些银
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
@@ -142,8 +162,8 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 在IT圈混，怎么能不知道这些公众号？
  ## [“6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？](https://blog.csdn.net/xunshangkeji/article/details/80647347)
  > “6.18”大揭秘：为什么电商er会喜欢利用ERP系统处理订单？
- ## [价值3980元的web全栈视频，3万人都看过，你想免费领取吗？](https://blog.csdn.net/snsHL9db69ccu1aIKl9r/article/details/80491146)
- > 价值3980元的web全栈视频，3万人都看过，你想免费领取吗？
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
  > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
@@ -197,6 +217,36 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 分类问题在线性回归中，预测的是连续值，而在分类问题中，预测的是离散值，预测的结果是特征属于哪个类别以及概率，比如是否垃圾邮件、肿瘤是良性...
  ## [对话阿里云弹性计算负责人褚霸：把计算做到极致，关键还不加价！](https://yq.aliyun.com/articles/601796)
  > 当我问他，为什么不做数据库了？他笑着说，两次的岗位调整都比较戏剧性。当初老板问他，会数据库吗？他单纯的以为，不就是修改一些代码吗？这谁不会？早就会了，结果就到了数据库部门。此次负责弹性计算亦是如此，老板问他，会计算吗？计算这肯定会啊！结果，就到了弹性计算。
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
+ > python 数据标准化常用方法，z-score\min-max标准化
+ ## [从人脸识别到情感分析，这有50个机器学习实用API！](https://blog.csdn.net/weixin_40581617/article/details/80665069)
+ > 从人脸识别到情感分析，这有50个机器学习实用API！
+ ## [机器学习预测世界杯：巴西夺冠](https://blog.csdn.net/weixin_40581617/article/details/80665121)
+ > 机器学习预测世界杯：巴西夺冠
+ ## [别把机器学习和人工智能搞混了！](https://blog.csdn.net/weixin_40581617/article/details/80665147)
+ > 别把机器学习和人工智能搞混了！
+ ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
+ > 三招提升数据不平衡模型的性能（附python代码）
+ ## [机器学习入门：线性回归及梯度下降](https://blog.csdn.net/ucinmireux/article/details/80665232)
+ > 机器学习入门：线性回归及梯度下降
+ ## [TensorBoard 简介及使用流程](https://blog.csdn.net/zqnnn/article/details/80665287)
+ > TensorBoard 简介及使用流程
+ ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
+ > 经验正交函数分析法（EOF）在matlab上的实现
+ ## [TensorFlow入门指南](https://blog.csdn.net/u012300744/article/details/80665318)
+ > TensorFlow入门指南
+ ## [人脸识别之SphereFace](https://blog.csdn.net/weixin_42111770/article/details/80665419)
+ > 人脸识别之SphereFace
+ ## [资源 | 阿里发布免费深度学习课程：感知机梳理（附链接）](https://blog.csdn.net/qq_42154484/article/details/80665423)
+ > 资源 | 阿里发布免费深度学习课程：感知机梳理（附链接）
+ ## [送你一份机器/深度学习自学指南（附视频&速成方案）](https://blog.csdn.net/qq_42154484/article/details/80665439)
+ > 送你一份机器/深度学习自学指南（附视频&amp;速成方案）
+ ## [计算广告学方向概述](https://blog.csdn.net/qq_21794823/article/details/80665516)
+ > 计算广告学方向概述
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
@@ -222,25 +272,5 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 把社会的人群区分三六九等，往往同等级的人只能和同等级的人成为朋友，每一个等级层次都是一个圈层。一个产品在诞生前，就应该想好这个产品对应的圈层是哪类人群，人群...
  ## [实例分享：如何玩转微信社群运营？](http://www.woshipm.com/operate/1056949.html)
  > 社交是人的基本需求，基于兴趣或共同需求的社交，更是人们的刚需。对于一个社群来说，聚集在一起的成员必须有一个共同的强需求，社群必须能提供解决这一需求的服务。那...
- ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
- > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
- ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
- > 新4C是指在合适的场景下，针对特定的社群，利用有传播力的内容或者话题，通过社群网络中人与人的连接的裂变实现快速扩散与传...
- ## [江小白案例借鉴：传统企业营销方式如何变革？](http://www.pmtoo.com/article/48119.html)
- > 在近几年江小白通过颠覆传统的营销方式，实现了低成本地快速切入市场。那传统企业能从江小白的营销案例中学到什么呢？在此基...
- ## [抖音国内日活破1.5亿 与微信矛盾公开化但并不依赖对方](http://www.pmtoo.com/article/48112.html)
- > 6月12日，抖音首次对外公布最新用户数据：截止目前，抖音国内日活用户突破1.5亿，月活用户超过3亿。同时现场对近期业界关注的...
- ## [阿里巴巴又出了一个读书应用，说要做严肃文学](http://www.pmtoo.com/article/48106.html)
- > 阿里巴巴又做了一个新的读书应用，叫天猫读书。这个是由阿里文学与天猫图书联合推出的数字阅读产品，在此之前，阿里巴巴旗下...
- ## [男妆消费崛起，95后“花美男”的美妆生意开始了](http://www.pmtoo.com/article/48068.html)
- > 在消费升级、明星效应与求美流行文化的影响下，越来越多男生开始护肤、化妆，蜕变成一个个精致的男孩。十年前...
- ## [“精致boy”、“炫酷girl”双双崛起，消费的性别边界正逐渐模糊](http://www.pmtoo.com/article/48065.html)
- > 随着男性自我形象管理意识的提升和两性分工的变化，传统基于性别标签定义的消费需求正在发生改变，消费的性别边界正在逐渐模...
- ## [为什么说阿里应该收购抖音？](http://www.pmtoo.com/article/48059.html)
- > 放眼整个互联网行业，百度、网易是无从渗透的老牌劲旅，只有羽翼待丰的头条，是阿里系能够指望得上的强援。头条以算法做内...
- ## [A站受黑客攻击，官方：请及时修改密码](http://www.pmtoo.com/article/48055.html)
- > 6 月 13 号消息： 13 号凌晨，Acfun在官网发布了一篇文章，文中称A站因被黑客攻击，千万位用户的数据可能已经泄露，请 20...
- ## [中国“购物女神”通过分享自己的缺点建立信任，超级网红都有这３大力量！](http://www.pmtoo.com/article/48051.html)
- > 黎贝卡拥有「购物女神」的称号，是中国最具影响力的时尚自媒体之一。她在微博上拥有超过300万粉丝，微信上拥有超过45...
 
     
