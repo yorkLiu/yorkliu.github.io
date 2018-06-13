@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:06:09
+date: 2018-06-13 09:09:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -123,6 +123,34 @@ categories: IT NEWS
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
+ > python 数据标准化常用方法，z-score\min-max标准化
+ ## [聚类算法概述及相关距离度量公式](https://blog.csdn.net/qq_19461333/article/details/80664647)
+ > 聚类算法概述及相关距离度量公式
+ ## [SEO算法深度分析之倒排索引，来解释SEO排名的问题](https://blog.csdn.net/qq_37471400/article/details/80664665)
+ > SEO算法深度分析之倒排索引，来解释SEO排名的问题
+ ## [未完成【编译原理】科学计算器设计Java](https://blog.csdn.net/ttangyyyy/article/details/80664681)
+ > 未完成【编译原理】科学计算器设计Java
+ ## [用Python为直方图绘制拟合正态分布曲线的两种方法](https://blog.csdn.net/jiangjiang_jian/article/details/80664709)
+ > 用Python为直方图绘制拟合正态分布曲线的两种方法
+ ## [大话AdaBoost算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80664739)
+ > 大话AdaBoost算法
+ ## [TensorFlow入门基础：单层神经网络进行模型拟合](https://blog.csdn.net/u011317780/article/details/80664755)
+ > TensorFlow入门基础：单层神经网络进行模型拟合
+ ## [【机器学习笔记3】用逻辑回归预测马疝病的死亡率](https://blog.csdn.net/u011362297/article/details/80664812)
+ > 【机器学习笔记3】用逻辑回归预测马疝病的死亡率
+ ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
+ > 印刷纸表面瑕疵检测
+ ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
+ > R语言中的SMOTE算法的参数解释
+ ## [人脸面部情绪识别（一）](https://blog.csdn.net/hpyMiss/article/details/80664880)
+ > 人脸面部情绪识别（一）
+ ## [openCV数据符号说明](https://blog.csdn.net/sgdd123/article/details/80664891)
+ > openCV数据符号说明
+ ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
+ > 用Python生成词云
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
