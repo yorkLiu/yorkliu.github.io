@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 12:03:54
+date: 2018-06-13 12:05:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -195,12 +195,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [python 数据标准化常用方法，z-score\min-max标准化](https://blog.csdn.net/HHTNAN/article/details/80668746)
  > python 数据标准化常用方法，z-score\min-max标准化
- ## [大话AdaBoost算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80664739)
- > 大话AdaBoost算法
- ## [TensorFlow入门基础：单层神经网络进行模型拟合](https://blog.csdn.net/u011317780/article/details/80664755)
- > TensorFlow入门基础：单层神经网络进行模型拟合
- ## [【机器学习笔记3】用逻辑回归预测马疝病的死亡率](https://blog.csdn.net/u011362297/article/details/80664812)
- > 【机器学习笔记3】用逻辑回归预测马疝病的死亡率
  ## [印刷纸表面瑕疵检测](https://blog.csdn.net/qq_21684243/article/details/80664819)
  > 印刷纸表面瑕疵检测
  ## [R语言中的SMOTE算法的参数解释](https://blog.csdn.net/c1z2w3456789/article/details/80664872)
@@ -219,6 +213,12 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 别把机器学习和人工智能搞混了！
  ## [三招提升数据不平衡模型的性能（附python代码）](https://blog.csdn.net/weixin_40581617/article/details/80665183)
  > 三招提升数据不平衡模型的性能（附python代码）
+ ## [机器学习入门：线性回归及梯度下降](https://blog.csdn.net/ucinmireux/article/details/80665232)
+ > 机器学习入门：线性回归及梯度下降
+ ## [TensorBoard 简介及使用流程](https://blog.csdn.net/zqnnn/article/details/80665287)
+ > TensorBoard 简介及使用流程
+ ## [经验正交函数分析法（EOF）在matlab上的实现](https://blog.csdn.net/qq_23860475/article/details/80665289)
+ > 经验正交函数分析法（EOF）在matlab上的实现
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
