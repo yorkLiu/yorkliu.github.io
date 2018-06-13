@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:36:40
+date: 2018-06-13 09:37:22
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -120,6 +120,8 @@ categories: IT NEWS
  > 电商订单系统设计简析(二)
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
+ ## [OPPO VS vivo，比敌人更接近敌人](http://www.lanjingtmt.com/news/detail/35729.shtml)
+ > “双子星”、“孪生”在各个行业都不多见，终端行业由于自身较其他行业周期短、业态丰富，出现“OV现象”算是非常特殊的一例。
  ## [A站遭遇黑客攻击泄露千万用户数据  提醒用户尽快修改密码](http://www.lanjingtmt.com/news/detail/35728.shtml)
  > 昨日晚间弹幕社区网站Acfun(以下简称“A站”）发布公告称遭遇黑客攻击，近千万条用户数据外泄。
 # 人工智能 
