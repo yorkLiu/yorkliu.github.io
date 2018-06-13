@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:56:40
+date: 2018-06-13 10:58:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -96,6 +96,10 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > Sylius 1.2.0，1.1.7 和 1.0.16 发布了。Sylius是第一个基于Symfony和Doctrine定制解决方案的电子商务框架。高质量的代码，强大的测试文化，内置的敏捷（BDD）工作流程和卓越的灵活性使其成为针对您的业务需求量身定制的最佳解决方案。功能强大的REST API允许轻
  ## [Framework7 3.0.0 beta9 发布，全功能 HTML 框架](https://www.oschina.net/news/97003/framework7-300-beta9-released)
  > Framework7 3.0.0 beta9 已发布。更新内容如下： Core Better @global parsing in js and js_if helpers All new Tooltip component Template7 update to latest 1.3.6 Phen
+ ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
+ > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
+ ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
+ > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
  ## [运维的本质是什么？阿里“无人化”智能运维平台的演进](http://os.51cto.com/art/201806/576094.htm)
  > 运维的本质是什么？阿里“无人化”智能运维平台的演进
  ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
@@ -108,10 +112,10 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 东方世界杨潇：AR开发技术点探索
  ## [不可不知的 10 款开源 IT 安全工具](http://netsecurity.51cto.com/art/201806/575982.htm)
  > 不可不知的 10 款开源 IT 安全工具
- ## [3分钟深入学习Redis的高可用特性“持久化”](http://developer.51cto.com/art/201806/575960.htm)
- > 3分钟深入学习Redis的高可用特性“持久化”
- ## [全国首套！基于Java区块链项目的实战教程](http://blockchain.51cto.com/art/201806/575899.htm)
- > 全国首套！基于Java区块链项目的实战教程
+ ## [学完Python能从事哪些工作？](http://developer.51cto.com/art/201806/576108.htm)
+ > Python是一门面向对象的编程语言，编译速度超快，从诞生到现在已经25个年头了。它具有丰富和强大的库，常被
+ ## [零基础Python数据库怎么学？大牛带你扬帆起航](http://developer.51cto.com/art/201806/576106.htm)
+ > 因为做数据分析特别是当你的数据量非常大时候或者后端开发的时候，肯定是要用数据库的，所以学好数据库非常
  ## [Mac版Office 2019首个预览版发布：正式版下半年到来](http://news.51cto.com/art/201806/576097.htm)
  > 6月13日早间消息，面向macOS的Office 2019首个预览版本（商业用户）已经推出，含Word, Excel, PowerPoint,
  ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
@@ -128,10 +132,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
  > 知名消费者权益组织 Which? 12日发文称过半数微软用户饱受 Windows 10 更新之苦，希望微软能够尊重用户的消
  ## [Facebook 开源其调试平台 Sonar，支持 Android 与 iOS](http://news.51cto.com/art/201806/576088.htm)
  > Facebook 在其官网宣布，正式开源其内部用于移动应用调试的平台 Sonar。
- ## [自动驾驶汽车，是不是也该给司机单独考个驾照？](http://www.cioage.com/art/201806/576087.htm)
- > 既然Level 5才能够真正实现无司机化，那么驾驶L0-4级自动辅助驾驶汽车的司机需不需要单独考一个驾驶证？
- ## [2018开发者生态报告：Java最流行，Go最有潜力，JavaScript最常用](http://developer.51cto.com/art/201806/576085.htm)
- > JetBrains 近日发布了 2018 开发者生态报告，该报告包含开发人员对各种编程语言以及数据库和团队工具的偏好
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
