@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:33:38
+date: 2018-06-13 09:34:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -114,8 +114,8 @@ categories: IT NEWS
  > 在IT圈混，怎么能不知道这些公众号？
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
- ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
- > 推荐算法不够精准？让知识图谱来解决
+ ## [苹果WWDC大会：iOS求稳，AR求新，APP求全](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80575819)
+ > 苹果WWDC大会：iOS求稳，AR求新，APP求全
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
@@ -153,8 +153,6 @@ categories: IT NEWS
  > openCV数据符号说明
  ## [用Python生成词云](https://blog.csdn.net/ydydyd00/article/details/80665028)
  > 用Python生成词云
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [线上课程｜工作2-3年，没有产品经验，怎样才能顺利转岗获得产品offer](http://www.woshipm.com/active/1051268.html)
  > 产品经理发展前景广阔，薪资待遇高，不少同学都萌生了转产品经理的想法。互联网从业者，和产品有接触，通过转产品突破职业发展瓶颈，从执行层跃迁到管理层；传统行...
