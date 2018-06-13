@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:21:33
+date: 2018-06-13 08:22:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,6 +12,10 @@ categories: IT NEWS
  > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
  ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
  > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
+ ## [OSChina 周三乱弹 —— 别看现在产品经理闹得欢，将来早晚……](https://my.oschina.net/xxiaobian/blog/1829248)
+ > 一般公司最容易被认为摸鱼的岗位就是运维了，有事了，恨不得让运维上吊，但是运维运作得好，就是服务器一年到头不出事，领导总觉得是不是自己白养了运维这个部门。
+ ## [IPv6 普及率已达 1/4，互联网之父 Vint Cerf ：这还不够](https://www.oschina.net/news/97012/ipv6-covered-1-4-network-flow-not-enough)
+ > 根据外媒ZDNet上周的消息，IPv6推出至今已有6年，其普及率现在已接近1/4。在迎接IPv6启动6周年的一个视频中，互联网之父、谷歌公司副总裁Vint Cerf表示这还不够，呼吁应尽快升级IPv6。 Cerf指出，拥有128位地址池的IPv6能够支持数万亿台互联网连接设备连接在一起的世界，而IP
  ## [SparkyLinux 5.4 发布，基于 Debian 的测试分支](https://www.oschina.net/news/97011/sparkylinux-5-4-released)
  > SparkyLinux 5.4 已发布。代号 &quot; Nibiru &quot;。SparkyLinux 是轻量级的、快速的、简单的 Linux 发行，它被设计为既适合老旧的也适合新式的计算机，并以定制的 Enlightenment 和 LXDE 桌面为特色。它构建于 Debian GNU/Linux 的测试分支
  ## [KDE Plasma 5.13 发布，极大减少内存使用量](https://www.oschina.net/news/97010/kde-plasma-5-13-released)
