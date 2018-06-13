@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 09:14:22
+date: 2018-06-13 09:15:19
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -114,8 +114,8 @@ categories: IT NEWS
  > 在IT圈混，怎么能不知道这些公众号？
  ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
  > 作为一名半路出家的程序员，要学的还很多
- ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
- > 机器学习及深度学习的知识点及面试题总结
+ ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
+ > 推荐算法不够精准？让知识图谱来解决
  ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
  > 电商订单系统设计简析(二)
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
