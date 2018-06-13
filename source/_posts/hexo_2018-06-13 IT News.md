@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 10:25:48
+date: 2018-06-13 10:26:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,8 +56,6 @@ K12&#25945;&#32946;&#20449;&#24687;&#21270;&#31649;&#29702;&#26381;&#21153;&#218
 # IT 新闻 
  ## [Springboot 应用部署建议](https://my.oschina.net/seal90/blog/1828876)
  >  简介 &gt;springboot应用的人越来越多，看到许多人在部署的时候依旧热衷于使用 nohup，&amp; 等手段（可在 https://www.ibm.com/developerworks/cn/linux/l-cn-nohup/ 查看更多手段，developerWorks 有人说是IBM 的一大彩蛋
- ## [golang sync.Pool 使用和源码分析](https://my.oschina.net/u/2950272/blog/1828632)
- > golang 在写高频服务的时候，如何解决gc问题，对象池是一个很有效果的方式，本文阐述下对象池的两种使用方式，和对对象池的源码分析，以及使用pool 的要点。golang 的对象池源码在避免锁竞争还利用了分段锁的思想减少锁的竞争，代码比较精彩。 该文章后续仍在不断的更新修改中， 请移步到原文地址h
  ## [v-region 1.5.0 发布，基于 Vue2 的中国行政区划选择器](https://www.oschina.net/news/97023/v-region-1-5-0-released)
  > 基于Vue2简洁易用的中国行政区划选择器 v-region 1.5.0版本更新，更新内容： 增加选择器模式 修复初始化选中项目时，项目未选中的问题 增加选择器模式下，省份的排列顺序使用名称长度和编码进行排序 修复选择器模式下拉菜单显示位置不正确问题   插件简介 v-region 基于Vue2简洁易
  ## [Facebook 开源其调试平台 Sonar，支持 Android 与 iOS](https://www.oschina.net/news/97021/facebook-open-source-sonar)
