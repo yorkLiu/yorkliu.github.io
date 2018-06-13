@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:20:47
+date: 2018-06-13 08:21:33
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -13,7 +13,7 @@ categories: IT NEWS
  ## [JPA、Hibernate、Spring data jpa之间的关系，终于明白了](https://my.oschina.net/u/3080373/blog/1828589)
  > 什么么是JPA？ 全称Java Persistence API，可以通过注解或者XML描述【对象-关系表】之间的映射关系，并将实体对象持久化到数据库中。 为我们提供了： 1）ORM映射元数据：JPA支持XML和注解两种元数据的形式，元数据描述对象和表之间的映射关系，框架据此将实体对象持久化到数据库表
  ## [SparkyLinux 5.4 发布，基于 Debian 的测试分支](https://www.oschina.net/news/97011/sparkylinux-5-4-released)
- > SparkyLinux 5.4 已发布。代号 &quot; Buster &quot;。SparkyLinux 是轻量级的、快速的、简单的 Linux 发行，它被设计为既适合老旧的也适合新式的计算机，并以定制的 Enlightenment 和 LXDE 桌面为特色。它构建于 Debian GNU/Linux 的测试分支
+ > SparkyLinux 5.4 已发布。代号 &quot; Nibiru &quot;。SparkyLinux 是轻量级的、快速的、简单的 Linux 发行，它被设计为既适合老旧的也适合新式的计算机，并以定制的 Enlightenment 和 LXDE 桌面为特色。它构建于 Debian GNU/Linux 的测试分支
  ## [KDE Plasma 5.13 发布，极大减少内存使用量](https://www.oschina.net/news/97010/kde-plasma-5-13-released)
  > KDE Plasma 5.13 已发布。KDE Plasma 成员一直在努力继续使 Plasma 成为一款轻量且响应迅速的桌面，能够快速加载和运行，但仍保持全功能，并具有极佳的外观和感觉。 此次更新主要做了以下优化： 优化了启动并最大限度地减少了内存使用量，从而缩短了桌面到桌面的时间，提高了运行时性
  ## [Python 3.7.0rc1 和 3.6.6rc1 发布，最终预览版](https://www.oschina.net/news/97009/python-370rc1-and-366rc1-released)
