@@ -1,7 +1,7 @@
 ---
 title: 2018-06-13 IT News
 copyright: true
-date: 2018-06-13 08:07:56
+date: 2018-06-13 08:08:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,34 @@ categories: IT NEWS
  > 云计算的应用对小企业来说是个好消息。但对大公司来说，这并不是什么好消息，因为将面临正在扰乱和颠覆市场
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [数据分析师、数据科学家、大数据专家三个职位的区别](https://blog.csdn.net/chszs/article/details/80658582)
+ > 数据分析师、数据科学家、大数据专家三个职位的区别
+ ## [基于线性SVM的CIFAR-10图像集分类](https://blog.csdn.net/red_stone1/article/details/80661133)
+ > 基于线性SVM的CIFAR-10图像集分类
+ ## [Zipkin实践：Python项目中跟踪系统导入Zipkin](https://blog.csdn.net/liumiaocn/article/details/80657943)
+ > Zipkin实践：Python项目中跟踪系统导入Zipkin
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [人脸识别、AI与大数据：技术挑战与突破](https://blog.csdn.net/r6Auo52bK/article/details/80571739)
+ > 人脸识别、AI与大数据：技术挑战与突破
+ ## [吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80575808)
+ > 吃鸡攻略！70万场Kaggle数据集强势分析“绝地求生”
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [工程狮爸爸如何准备儿童节礼物？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/80577973)
+ > 工程狮爸爸如何准备儿童节礼物？
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [作为一名半路出家的程序员，要学的还很多](https://blog.csdn.net/H176Nhx7/article/details/80523025)
+ > 作为一名半路出家的程序员，要学的还很多
+ ## [推荐算法不够精准？让知识图谱来解决](https://blog.csdn.net/m0epNwstYk4/article/details/80571318)
+ > 推荐算法不够精准？让知识图谱来解决
+ ## [电商订单系统设计简析(二)](https://blog.csdn.net/weixin_42324519/article/details/80637849)
+ > 电商订单系统设计简析(二)
  ## [TIOBE 6 月编程语言排行榜：Java 放缓，C 复兴了！](https://blog.csdn.net/csdnnews/article/details/80660963)
  > 一月一更的 TIOBE 编程语言社区最新发布了 2018 年 6 月排行榜。和 5 月榜单相比，前十名没有任何变化，依然是 Java、C、C++、Python、C、Visual Basic .NET、PHP、JavaScript、SQL。不过通过对比明显看出，稳居编程界老大地位多年的 Jav...
 # 人工智能 
@@ -93,5 +121,26 @@ categories: IT NEWS
  > 用Python生成词云
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
+# PM 
+ ## [优惠券系统应该如何设计？](http://www.pmtoo.com/article/48036.html)
+ > 优惠券是一套规则的组合，它的基本信息包括优惠券名称、发放数量、优惠券是否可叠加、每人限领张数、是否和其他促销同时...
+ ## [15条时间管理法则和高效工作习惯](http://www.pmtoo.com/article/48031.html)
+ > 要想提升效率、管理时间，最重要的不是某个技巧，而是需要转变心态。内容来源：本文为中国友谊出版社书籍《高效15法...
+ ## [客厅的千亿市场，OTT大屏如何突破运营变现的瓶颈？](http://www.pmtoo.com/article/48023.html)
+ > 2018年，是OTT大屏稳步发展的一年。经历了政策的管控、2017年资本的寒冬，智能电视和盒子行业都步入了冷静期。2017年，OTT电...
+ ## [十届世界杯，媒介四十年](http://www.pmtoo.com/article/48016.html)
+ > 世界杯见证了媒介变革，也见证了社会变迁。图片来源：视觉中国即将到来的世界杯，注定了是一场全民狂欢。这...
+ ## [救救纸币！设计师们拿出了最具未来感的想法](http://www.pmtoo.com/article/47993.html)
+ > 扫码支付用多了，会让人越来越嫌弃纸币的土与笨拙。但在平面设计师的眼里，这些流通的货币符号就像是一张无穷无尽的画布...
+ ## [银隆IPO终止：一个非典型车企的扩张及失败之路](http://www.pmtoo.com/article/47987.html)
+ > 广东证监局披露的最新一期广东辖区已报备拟上市公司辅导工作进度表显示，银隆的进度栏已变更为“辅导终止”，这无论是对执拗...
+ ## [来来优酷看世界杯原来有这么多好玩的活动原来有这么多好玩的活动](http://www.pmtoo.com/article/47984.html)
+ > 6 月 10 日，优酷 2018 世界杯战略发布会在北京举行，知名导演姜文和人气明星鹿晗现身发布会，二人都将加盟本次优酷世界杯的...
+ ## [花点时间创始人的万字笔记，干货满满，墙裂建议认真阅读](http://www.pmtoo.com/article/47981.html)
+ > 花点时间，是鲜花电商领域跑出的一匹黑马，在短短三年时间，获得了数亿元融资，估值超过20亿元，其中，累计用户超过800万...
+ ## [两大网约车应用越来越像 它们的未来会是什么？](http://www.pmtoo.com/article/47978.html)
+ > 对于大多数人来说，优步和Lyft之间似乎没有什么区别。优步起源于“黑车”行业，而Lyft的前身——搭车社区，是一款汽车共乘App...
+ ## [王健林和他的“蹩脚影视剧”万达电商](http://www.pmtoo.com/article/47971.html)
+ > 影视行业有一个共识：一部好的影视作品，好剧本、好导演、好演员，缺一不可。万达电商这部“影视剧”，虽然有顶级“导演”，...
 
     
