@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:01:41
+date: 2018-06-14 08:04:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,8 +62,8 @@ categories: IT NEWS
  > 大规模分布式系统的跟踪系统：Dapper设计给我们的启示
  ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
  > 奥布莱恩杯尘埃落定 人工智能立功了！
- ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
- > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [React Native 电商项目实战——1.创建项目](https://blog.csdn.net/yulianlin/article/details/80670139)
+ > React Native 电商项目实战——1.创建项目
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
@@ -129,5 +129,26 @@ categories: IT NEWS
  > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
+# PM 
+ ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
+ > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
+ ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
+ > 新4C是指在合适的场景下，针对特定的社群，利用有传播力的内容或者话题，通过社群网络中人与人的连接的裂变实现快速扩散与传...
+ ## [江小白案例借鉴：传统企业营销方式如何变革？](http://www.pmtoo.com/article/48119.html)
+ > 在近几年江小白通过颠覆传统的营销方式，实现了低成本地快速切入市场。那传统企业能从江小白的营销案例中学到什么呢？在此基...
+ ## [抖音国内日活破1.5亿 与微信矛盾公开化但并不依赖对方](http://www.pmtoo.com/article/48112.html)
+ > 6月12日，抖音首次对外公布最新用户数据：截止目前，抖音国内日活用户突破1.5亿，月活用户超过3亿。同时现场对近期业界关注的...
+ ## [阿里巴巴又出了一个读书应用，说要做严肃文学](http://www.pmtoo.com/article/48106.html)
+ > 阿里巴巴又做了一个新的读书应用，叫天猫读书。这个是由阿里文学与天猫图书联合推出的数字阅读产品，在此之前，阿里巴巴旗下...
+ ## [男妆消费崛起，95后“花美男”的美妆生意开始了](http://www.pmtoo.com/article/48068.html)
+ > 在消费升级、明星效应与求美流行文化的影响下，越来越多男生开始护肤、化妆，蜕变成一个个精致的男孩。十年前...
+ ## [“精致boy”、“炫酷girl”双双崛起，消费的性别边界正逐渐模糊](http://www.pmtoo.com/article/48065.html)
+ > 随着男性自我形象管理意识的提升和两性分工的变化，传统基于性别标签定义的消费需求正在发生改变，消费的性别边界正在逐渐模...
+ ## [为什么说阿里应该收购抖音？](http://www.pmtoo.com/article/48059.html)
+ > 放眼整个互联网行业，百度、网易是无从渗透的老牌劲旅，只有羽翼待丰的头条，是阿里系能够指望得上的强援。头条以算法做内...
+ ## [A站受黑客攻击，官方：请及时修改密码](http://www.pmtoo.com/article/48055.html)
+ > 6 月 13 号消息： 13 号凌晨，Acfun在官网发布了一篇文章，文中称A站因被黑客攻击，千万位用户的数据可能已经泄露，请 20...
+ ## [中国“购物女神”通过分享自己的缺点建立信任，超级网红都有这３大力量！](http://www.pmtoo.com/article/48051.html)
+ > 黎贝卡拥有「购物女神」的称号，是中国最具影响力的时尚自媒体之一。她在微博上拥有超过300万粉丝，微信上拥有超过45...
 
     
