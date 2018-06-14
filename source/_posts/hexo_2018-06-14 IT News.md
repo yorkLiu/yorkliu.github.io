@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 12:08:02
+date: 2018-06-14 12:08:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -105,6 +105,8 @@ categories: IT NEWS
  > React 16.4.1 已发布，主要更新内容如下： React 现在可以将 propType 分配给由 React.ForwardRef 返回的组件。(@bvaughn in 12911) React DOM 修复：当输入类型从其他类型更改为文本时崩溃。 (@spirosikmd in 121
  ## [Elasticsearch 6.3.0 和 5.6.0 发布，Bug 修复](https://www.oschina.net/news/97046/elasticsearch-630-and-560-released)
  > Elasticsearch 6.3.0 和 5.6.0 已发布 6.3.0 更新内容如下： BUGFIX: 在关闭管道时修正竞态条件 9285 BUGFIX: 确保永久队列检查点的原子创建 9303 BUGFIX: 修复了包含非 ASCII 字符的事件在通过持久队列后不正确编码的问题 9307
+ ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
+ > 不空谈!轻松筹将区块链落地公益和互助行业
  ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
  > 视+AR创始人张小军告诉你建设AR平台的正确姿势
  ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
@@ -119,8 +121,6 @@ categories: IT NEWS
  > 外媒速递：云数据库时代终于全面来临
  ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
  > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
- ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
- > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
  > 什么是阳光链?阳光链是新一代的高性能公有基础链，包括完整的分布式账本，支持智能合约、DApp(Decentralize
  ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
@@ -232,8 +232,6 @@ categories: IT NEWS
  > TensorFlow技术内幕（七）：模型优化之XLA（上）
  ## [Numpy高维数据的理解](https://blog.csdn.net/weixin_36277945/article/details/80679127)
  > Numpy高维数据的理解
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [从Agenda看如何满足用户需求？](http://www.woshipm.com/user-research/1053508.html)
  > Agenda是今年获得苹果设计大奖的得主，在交互和视觉层面，它都一定程度上满足了用户对笔记类产品美的期望需求。本文主要是通过Agenda看如何满足用户需求？最近经常使...
