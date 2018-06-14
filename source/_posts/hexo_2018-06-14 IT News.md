@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:15:49
+date: 2018-06-14 08:16:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -22,6 +22,10 @@ categories: IT NEWS
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [flag -- 诡异的memcache标记](https://my.oschina.net/jijunjian/blog/1829272)
  > 引子　　　 　    打从去年一路北漂，进入无人货架行业，业务需求漫天飘，最近总算把工作都规划齐整。回望过去一年多的时间里，诸多东西值得整理，memcache就是其中一个。 　　 看到java的工资高些，队伍中好些人都想学习java，美其名曰：技术多元化。奈何团队中并没有相关经验的人，也深知大家殷切
+ ## [微软 6 月 Patch Tuesday 修复影响所有 Windows 的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
+ > 微软发布了 6 月 Patch Tuesday 的更新版本，解决了 50 个漏洞，其中有 11 个关键的远程代码执行漏洞和 39 个被定级为“重要”的漏洞。 据介绍，这些关键问题的影响涉及到 Edge 和 IE 浏览器。在发布修补程序前，除了脚本引擎中的 CVE-2018-8267 漏洞已经被利用并
+ ## [Google 禁止从第三方网站安装 Chrome 扩展程序](https://www.oschina.net/news/97057/chrome-to-ban-inline-installation-of-extension)
+ > 谷歌宣布将废除 Chrome 扩展的内联安装方式（inline installation），这将使用户无法从第三方网站安装 Chrome 扩展程序。 Google 一直试图改进 Chrome 浏览器扩展的安装体验，一般用户可以直接从 Google 网上应用商店安装所需 Chrome 扩展，而有些开发
  ## [每日一博 | Redis 内存模型深度解析与应用](https://my.oschina.net/u/3779583/blog/1829617)
  > 文章主要介绍Redis的内存模型（以3.0为例），包括Redis占用内存的情况及如何查询、不同的对象类型在内存中的编码方式、内存分配器(jemalloc)、简单动态字符串(SDS)、RedisObject等；然后在此基础上介绍几个Redis内存模型的应用。
  ## [码云推荐 | 可扩展的报警系统 Quick-Alarm](https://gitee.com/liuyueyi/quick-alarm)
@@ -52,7 +56,7 @@ categories: IT NEWS
  > Next.js 6.0.4-canary.6 已发布，更新内容如下： Check if the incoming header is set before applying to the response: 2a1075c Next.js 是一个用于在服务端渲染 React 应用程序的简单框架。 下
  ## [CodeMaid 10.5.119 发布，开源 Visual Studio 扩展](https://www.oschina.net/news/97042/codemaid-10-5-119-released)
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
- ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-is-released)
+ ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-released)
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
@@ -86,24 +90,24 @@ categories: IT NEWS
  > 程序员：如何优雅地装逼
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
  > js原生创建模拟事件和自定义事件的方法
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
  > 10个web开发好用框架
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [面试教程 | 多家AI公司面试之后，我学到了什么？](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80649808)
+ > 面试教程 | 多家AI公司面试之后，我学到了什么？
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
  ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
@@ -147,5 +151,26 @@ categories: IT NEWS
  > PCA故障检测步骤
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
+# PM 
+ ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
+ > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
+ ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
+ > 新4C是指在合适的场景下，针对特定的社群，利用有传播力的内容或者话题，通过社群网络中人与人的连接的裂变实现快速扩散与传...
+ ## [江小白案例借鉴：传统企业营销方式如何变革？](http://www.pmtoo.com/article/48119.html)
+ > 在近几年江小白通过颠覆传统的营销方式，实现了低成本地快速切入市场。那传统企业能从江小白的营销案例中学到什么呢？在此基...
+ ## [抖音国内日活破1.5亿 与微信矛盾公开化但并不依赖对方](http://www.pmtoo.com/article/48112.html)
+ > 6月12日，抖音首次对外公布最新用户数据：截止目前，抖音国内日活用户突破1.5亿，月活用户超过3亿。同时现场对近期业界关注的...
+ ## [阿里巴巴又出了一个读书应用，说要做严肃文学](http://www.pmtoo.com/article/48106.html)
+ > 阿里巴巴又做了一个新的读书应用，叫天猫读书。这个是由阿里文学与天猫图书联合推出的数字阅读产品，在此之前，阿里巴巴旗下...
+ ## [男妆消费崛起，95后“花美男”的美妆生意开始了](http://www.pmtoo.com/article/48068.html)
+ > 在消费升级、明星效应与求美流行文化的影响下，越来越多男生开始护肤、化妆，蜕变成一个个精致的男孩。十年前...
+ ## [“精致boy”、“炫酷girl”双双崛起，消费的性别边界正逐渐模糊](http://www.pmtoo.com/article/48065.html)
+ > 随着男性自我形象管理意识的提升和两性分工的变化，传统基于性别标签定义的消费需求正在发生改变，消费的性别边界正在逐渐模...
+ ## [为什么说阿里应该收购抖音？](http://www.pmtoo.com/article/48059.html)
+ > 放眼整个互联网行业，百度、网易是无从渗透的老牌劲旅，只有羽翼待丰的头条，是阿里系能够指望得上的强援。头条以算法做内...
+ ## [A站受黑客攻击，官方：请及时修改密码](http://www.pmtoo.com/article/48055.html)
+ > 6 月 13 号消息： 13 号凌晨，Acfun在官网发布了一篇文章，文中称A站因被黑客攻击，千万位用户的数据可能已经泄露，请 20...
+ ## [中国“购物女神”通过分享自己的缺点建立信任，超级网红都有这３大力量！](http://www.pmtoo.com/article/48051.html)
+ > 黎贝卡拥有「购物女神」的称号，是中国最具影响力的时尚自媒体之一。她在微博上拥有超过300万粉丝，微信上拥有超过45...
 
     
