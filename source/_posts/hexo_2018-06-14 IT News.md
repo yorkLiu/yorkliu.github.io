@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:40:33
+date: 2018-06-14 10:41:47
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -192,36 +192,6 @@ categories: IT NEWS
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
  > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
- > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
- ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
- > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
- ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
- > 什么BIM模型精度
- ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
- > Softmax回归函数
- ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
- > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
- ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
- > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
- ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
- > 高手如何做数据分析？这11招是你应该具备的技能
- ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
- > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
- ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
- > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
- ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
- > 入行机器学习算法，其实就是顺应时代发展
- ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
- > 小白上手深度学习，就等着哭吧
- ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
- > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
- ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
- > PCA故障检测步骤
- ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
- > TensorFlow技术内幕（七）：模型优化之XLA（上）
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
