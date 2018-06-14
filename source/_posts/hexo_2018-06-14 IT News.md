@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:39:12
+date: 2018-06-14 09:40:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -109,6 +109,22 @@ categories: IT NEWS
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
  ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-released)
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
+ ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
+ > 如何解决WordPress中的502 Bad Gateway错误？
+ ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
+ > 外媒速递：云数据库时代终于全面来临
+ ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
+ > 魅族张兴业谈实践：利用Weex技术做魅族小程序
+ ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
+ > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
+ ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
+ > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
+ ## [运维的本质是什么？阿里“无人化”智能运维平台的演进](http://os.51cto.com/art/201806/576094.htm)
+ > 运维的本质是什么？阿里“无人化”智能运维平台的演进
+ ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
+ > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
+ ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
+ > 七款适用于企业的开源 VPN 工具
  ## [微软开源的ServiceFabric：在多个集群中运行，机器总数超过160000台](http://news.51cto.com/art/201806/576198.htm)
  > 微软的 Service Fabric 为 Azure 的许多关键服务提供支持。它已开发了大约 15 年，部署于生产环境已有 10
  ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
@@ -147,12 +163,22 @@ categories: IT NEWS
  > 在IT圈混，怎么能不知道这些公众号？
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
- ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
- > 10个web开发好用框架
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
- > 没想到啊！2599元的Java干货今天免费送
+ ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
+ > 10个web开发好用框架
+ ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
+ ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
+ ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
+ ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
+ > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
+ ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
+ > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
  > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
