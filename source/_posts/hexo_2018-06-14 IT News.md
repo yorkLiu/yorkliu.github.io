@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:54:15
+date: 2018-06-14 17:56:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,6 +65,8 @@ categories: IT NEWS
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
  ## [Dubbo解析(二)-内核实现之SPI机制（下）](https://my.oschina.net/u/2377110/blog/1829922)
  > 上一章我们介绍了JDK的SPI机制，它旨在建立一种服务发现的规范。而Dubbo基于此根据框架的整体设计做了一些改进： 1. JDK的SPI机制会一次性实例化所有服务提供者实现，如果有提供者的初始化很耗时，但并不会使用会很耗费资源。**Dubbo则只存储了所有提供者的Class对象，实际使用时才构造对
+ ## [Swoole 4.0 正式版发布，面向生产环境的 PHP 协程引擎](https://www.oschina.net/news/97074/swoole-4-0-released)
+ > Swoole虽然在2016年就支持了协程特性，但由于底层是基于setjmp/longjmp实现的stackless方案。因此在某些场景下，如call_user_func、array_map、__destruct中无法使用协程。大型应用程序中逻辑非常复杂，多人协作的团队中，开发者很容易踩到坑。在禁止场
  ## [Krita 4.0.4 正式发布，开源数字绘画软件](https://www.oschina.net/news/97073/krita-4-0-4-released)
  > Krita 开发小组在今天正式发布 Krita 4.0.4 版，这是 Krita 4.0.0 的一个问题修正版本，也是该系列的最后一次维护性更新。 Krita 的中文翻译在这一版得到了大幅更新，但是少数字符串因为在源代码中未进行可翻译处理而依然显示英文。这个问题正在被处理。果遇到其它翻译缺失也请上报
  ## [新一代代码生成器 Lemur-generation 1.3 基础字段支持版](https://www.oschina.net/news/97072/lemur-generation-1-3-released)
@@ -103,8 +105,6 @@ categories: IT NEWS
  > 谷歌 12 日在官网宣布已将神经机器翻译（Neural Machine Translation，NMT）技术应用到移动设备 Android 和 iOS 上，使得 Google Translate 的离线翻译能力上了一个台阶。 谷歌于约两年前推出 NMT 技术，并将其引入 Google Transla
  ## [Firefox 61.0 Beta 13 (Quantum) 发布，支持暗色主题](https://www.oschina.net/news/97050/firefox-61-beta3-released)
  > Mozilla Firefox 61.0 Beta 已发布，主要带来了 Quantum 引擎性能上的改进，优化了处理 CSS 的过程，让页面加载速度更快，并且用户还会感觉到切换标签页也会变快。 同时 Firefox 61.0 Beta 还提供了对暗色主题的支持。有兴趣的朋友可以登录 Mozilla 
- ## [Kotlin 1.2.50 发布，在 Eclipse IDE 插件中获支持](https://www.oschina.net/news/97049/kotlin-1-2-50-released)
- > Kotlin 1.2.50 已发布，带来了一些 Bug 修复和工具更新。主要更新内容如下： 在 Eclipse IDE 插件中更新 Kotlin 支持 在标准库的常见部分和 JS 部分添加新功能 将 JUnit 5 支持带给 kotlin.test 改进了实验性脚本支持 在 IntelliJ IDE
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
  > 【WOT2018】孙玄：转转如何打造AI工程架构体系
  ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
