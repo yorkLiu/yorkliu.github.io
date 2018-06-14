@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:18:38
+date: 2018-06-14 09:19:42
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -212,8 +212,6 @@ categories: IT NEWS
  > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
  ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
  > PCA故障检测步骤
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [坪效高出同行5倍，盒马鲜生究竟做对了什么？](http://www.woshipm.com/newretail/1059564.html)
  > 在独家专访候毅后，本文作者将从创始人的视角，来理解盒马鲜生这个零售新物种的商业逻辑。enjoy~2016年10月13日，两位互联网大佬在两个不同的地方，分别提出了“新零售...
