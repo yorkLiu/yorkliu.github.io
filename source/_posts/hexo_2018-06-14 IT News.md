@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 12:32:04
+date: 2018-06-14 12:32:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -106,22 +106,6 @@ categories: IT NEWS
  ## [Elasticsearch 6.3.0 和 5.6.0 发布，Bug 修复](https://www.oschina.net/news/97046/elasticsearch-630-and-560-released)
  > Elasticsearch 6.3.0 和 5.6.0 已发布 6.3.0 更新内容如下： BUGFIX: 在关闭管道时修正竞态条件 9285 BUGFIX: 确保永久队列检查点的原子创建 9303 BUGFIX: 修复了包含非 ASCII 字符的事件在通过持久队列后不正确编码的问题 9307
  ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
- > 不空谈!轻松筹将区块链落地公益和互助行业
- ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
- > 视+AR创始人张小军告诉你建设AR平台的正确姿势
- ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
- > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
- ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
- > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
- > 如何解决WordPress中的502 Bad Gateway错误？
- ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
- > 码农福音：一个专门开发高性能大数据代码的系统「开源了」
- ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
- > 外媒速递：云数据库时代终于全面来临
- ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
- > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
- ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
  > 什么是阳光链?阳光链是新一代的高性能公有基础链，包括完整的分布式账本，支持智能合约、DApp(Decentralize
  ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
  > 现在， AR 应用已经开始在企业的产品和整条价值链中得到测试和部署。如何部署AR，建设AR平台成为摆在众多企
@@ -171,18 +155,6 @@ categories: IT NEWS
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
- > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
- ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
- ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户出...
- ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
- ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
- > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
- > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [腾讯32亿拟收购《绝地求生》开发商10%股份，或牵涉同业纠纷](http://www.lanjingtmt.com/news/detail/35761.shtml)
  > 据知情人士消息，腾讯计划以5亿美元（约合人民币32亿元）将收购《绝地求生》开发商蓝洞公司(Bluehole Inc)10%的股份，其估值目前已超过50亿美元。去年11月，腾讯拿下《
  ## [“首富”陈天桥和盛大游戏过去的十年](http://www.lanjingtmt.com/news/detail/35754.shtml)
