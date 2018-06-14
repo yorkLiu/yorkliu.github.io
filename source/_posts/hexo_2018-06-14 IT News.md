@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 11:01:40
+date: 2018-06-14 11:02:50
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,8 +65,6 @@ categories: IT NEWS
  > 前言 Redis是目前最火爆的内存数据库之一，通过在内存中读写数据，大大提高了读写速度，可以说Redis是实现网站高并发不可或缺的一部分。 我们使用Redis时，会接触Redis的5种对象类型（字符串、哈希、列表、集合、有序集合），丰富的类型是Redis相对于Memcached等的一大优势。在了解R
  ## [神奇的403](https://my.oschina.net/qixiaobo025/blog/1829469)
  > 背景 应曾老师要求 来写一篇神奇的403…… 分享会结束后 某曾老师高兴地说道：“试用出bug了……测试【^^！】说你修改了profile“ 先来看一下现象！ 请求返回403~！ 问题 /kzf6/maintain/getNoFinishMaintainList.do?idCar=406059193
- ## [apiDoc构建源代码注释的接口文档](https://my.oschina.net/wuweixiang/blog/1829384)
- > apiDoc官网：http://apidocjs.com/ 入门 前言 本文档中的所有示例都使用Javadoc-Style（可用于C＃，Go，Dart，Java，JavaScript，PHP，TypeScript和所有其他支持Javadoc的语言）： /** * This is a comment.
  ## [Spring Cloud Pipelines 1.0.0.M8 发布，重构 CF](https://www.oschina.net/news/97068/spring-cloud-pipelines-1-0-0-m8-released)
  > Spring Cloud Pipelines 1.0.0.M8 发布了，这是 Spring Clound Pipelines 的一个新里程碑，此次更新增加了许多新功能和关于质量与测试的改进，包括重构 Cloud Foundry，更改发布模式等。 新功能增加了对具有多个模块的项目的支持，以及对于单一库
  ## [Spring Security 4.2.7 和 5.0.6 发布，Spring 安全框架](https://www.oschina.net/news/97065/spring-security-4-2-7-5-0-6-released)
@@ -194,6 +192,10 @@ categories: IT NEWS
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
  > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
+ ## [云时代应用多样化 异构计算成主流](https://yq.aliyun.com/articles/602130)
+ > 前不久，英伟达发布了其机器人平台——Jetson Xavier，我们可以看到，这个平台包含了6种处理器：1个Volta TensorCore GPU、1个8核ARM64 CPU、2个NVDLA深度学习加速器、1个图像处理器、1个视觉处理器和1个视频处理器。
+ ## [医学+数据科学，必将大有可为 | 清华生物医学影像研究中心赵锡海](https://yq.aliyun.com/articles/602129)
+ > 在数据时代，相比于传统的统计学分析方法，使用数据科学领域的算法模型或图像识别等技术将能辅助医学专家提高医学研究效率和精准度。作为从始至终支持数据院在医疗健康大数据方向研究工作的医学专家，清华大学生物医学影像研究中心研究员赵锡海早就认识到数据科学对于医学研究的重要性，也一直在践行和推动“医工结合”的创
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
