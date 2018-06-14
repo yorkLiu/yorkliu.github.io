@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:37:41
+date: 2018-06-14 09:39:43
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -71,7 +71,7 @@ categories: IT NEWS
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [脚本语言不行？JavaScript 重写 Office 365 已进入尾声](https://www.oschina.net/news/97060/office-365-is-rewriting-with-javascript)
  > 微软技术项目经理（Technical Program Manager ，TPM）、Webpack 核心团队成员 Sean Thomas Larkin  发 Twitter 透露了 Office 365 正在用 JavaScript 重写的消息。 这个消息源于一次简短的编程语言口水之争。一个备注 C+
- ## [如何像扎克伯格一样实际编码创造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzd)
+ ## [如何像扎克伯格一样实际编码创造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzx)
  > 重点介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便地创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [微软 6 月 Patch Tuesday 修复影响所有 Windows 的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
  > 微软发布了 6 月 Patch Tuesday 的更新版本，解决了 50 个漏洞，其中有 11 个关键的远程代码执行漏洞和 39 个被定级为“重要”的漏洞。 据介绍，这些关键问题的影响涉及到 Edge 和 IE 浏览器。在发布修补程序前，除了脚本引擎中的 CVE-2018-8267 漏洞已经被利用并
@@ -163,12 +163,12 @@ categories: IT NEWS
  > 在IT圈混，怎么能不知道这些公众号？
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
- ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
- > 10个web开发好用框架
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
- > 没想到啊！2599元的Java干货今天免费送
+ ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
+ > 10个web开发好用框架
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
  ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
@@ -212,8 +212,6 @@ categories: IT NEWS
  > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
  ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
  > PCA故障检测步骤
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [坪效高出同行5倍，盒马鲜生究竟做对了什么？](http://www.woshipm.com/newretail/1059564.html)
  > 在独家专访候毅后，本文作者将从创始人的视角，来理解盒马鲜生这个零售新物种的商业逻辑。enjoy~2016年10月13日，两位互联网大佬在两个不同的地方，分别提出了“新零售...
