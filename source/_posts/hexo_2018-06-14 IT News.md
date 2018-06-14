@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 12:20:56
+date: 2018-06-14 12:21:51
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -232,6 +232,8 @@ categories: IT NEWS
  > TensorFlow技术内幕（七）：模型优化之XLA（上）
  ## [Numpy高维数据的理解](https://blog.csdn.net/weixin_36277945/article/details/80679127)
  > Numpy高维数据的理解
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [从Agenda看如何满足用户需求？](http://www.woshipm.com/user-research/1053508.html)
  > Agenda是今年获得苹果设计大奖的得主，在交互和视觉层面，它都一定程度上满足了用户对笔记类产品美的期望需求。本文主要是通过Agenda看如何满足用户需求？最近经常使...
