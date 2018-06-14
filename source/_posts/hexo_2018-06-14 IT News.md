@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:53:12
+date: 2018-06-14 08:53:41
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -153,8 +153,6 @@ categories: IT NEWS
  > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
  ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
  > PCA故障检测步骤
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
  > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
