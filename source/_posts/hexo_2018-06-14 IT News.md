@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:50:42
+date: 2018-06-14 09:51:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -159,18 +159,18 @@ categories: IT NEWS
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
- > js原生创建模拟事件和自定义事件的方法
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
+ > 没想到啊！2599元的Java干货今天免费送
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
+ ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
+ > js原生创建模拟事件和自定义事件的方法
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
- ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
- > 10个web开发好用框架
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
  ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
