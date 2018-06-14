@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:56:32
+date: 2018-06-14 10:57:32
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -143,36 +143,6 @@ categories: IT NEWS
  > 托管服务器以后用户是独享服务器资源，可以自主选择足够的网络带宽等资源。机房适宜的环境（温度、湿度等等
  ## [微软开源的ServiceFabric：在多个集群中运行，机器总数超过160000台](http://news.51cto.com/art/201806/576198.htm)
  > 微软的 Service Fabric 为 Azure 的许多关键服务提供支持。它已开发了大约 15 年，部署于生产环境已有 10
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [SpringBoot集成Redis实现缓存处理(Spring AOP技术)](https://blog.csdn.net/u014427391/article/details/78799623)
- > SpringBoot集成Redis实现缓存处理(Spring AOP技术)
- ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
- > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
- ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
- > 奥布莱恩杯尘埃落定 人工智能立功了！
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
- > js原生创建模拟事件和自定义事件的方法
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
- > TensorFlow: 薛定谔的管道
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
- ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
- > 10个web开发好用框架
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
  ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
