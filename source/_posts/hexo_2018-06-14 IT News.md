@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:26:02
+date: 2018-06-14 09:26:33
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -169,6 +169,18 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
  > 没想到啊！2599元的Java干货今天免费送
+ ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
+ ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
+ ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
+ ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
+ > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
+ ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
+ > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
+ ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
+ > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
