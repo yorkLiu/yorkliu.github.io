@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:08:55
+date: 2018-06-14 09:10:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -64,6 +64,8 @@ categories: IT NEWS
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
  ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
  > 如何解决WordPress中的502 Bad Gateway错误？
+ ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
+ > 外媒速递：云数据库时代终于全面来临
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
@@ -76,8 +78,8 @@ categories: IT NEWS
  > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
  ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
  > 七款适用于企业的开源 VPN 工具
- ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
- > 荷兰央行：区块链目前无法满足金融基础设施需求
+ ## [微软开源的ServiceFabric：在多个集群中运行，机器总数超过160000台](http://news.51cto.com/art/201806/576198.htm)
+ > 　微软的 Service Fabric 为 Azure 的许多关键服务提供支持。它已开发了大约 15 年，部署于生产环境已有 10
  ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
  > 赖斯大学的科研团队将在本周的 SIGMOD 数据管理国际大会上推介 PlinyCompute。
  ## [为什么要实现存储控制器国产化？](http://stor.51cto.com/art/201806/576196.htm)
