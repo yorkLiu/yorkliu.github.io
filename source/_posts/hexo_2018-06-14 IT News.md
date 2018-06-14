@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:18:01
+date: 2018-06-14 08:19:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -22,6 +22,8 @@ categories: IT NEWS
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [flag -- 诡异的memcache标记](https://my.oschina.net/jijunjian/blog/1829272)
  > 引子　　　 　    打从去年一路北漂，进入无人货架行业，业务需求漫天飘，最近总算把工作都规划齐整。回望过去一年多的时间里，诸多东西值得整理，memcache就是其中一个。 　　 看到java的工资高些，队伍中好些人都想学习java，美其名曰：技术多元化。奈何团队中并没有相关经验的人，也深知大家殷切
+ ## [脚本语言不行？JavaScript 重写 Office 365 已进入尾声](https://www.oschina.net/news/97060/office-365-is-rewriting-with-javascript)
+ > 微软技术项目经理（Technical Program Manager ，TPM）、Webpack 核心团队成员 Sean Thomas Larkin  发 Twitter 透露了 Office 365 正在用 JavaScript 重写的消息。 这个消息源于一次简短的编程语言口水之争。一个备注 C+
  ## [如何像扎克伯格一样实际编码创造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzd)
  > 重点介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便地创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [微软 6 月 Patch Tuesday 修复影响所有 Windows 的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
