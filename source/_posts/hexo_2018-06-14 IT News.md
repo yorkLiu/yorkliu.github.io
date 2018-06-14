@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:35:53
+date: 2018-06-14 17:37:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -218,36 +218,6 @@ categories: IT NEWS
  > 前不久，英伟达发布了其机器人平台——Jetson Xavier，我们可以看到，这个平台包含了6种处理器：1个Volta TensorCore GPU、1个8核ARM64 CPU、2个NVDLA深度学习加速器、1个图像处理器、1个视觉处理器和1个视频处理器。
  ## [医学+数据科学，必将大有可为 | 清华生物医学影像研究中心赵锡海](https://yq.aliyun.com/articles/602129)
  > 在数据时代，相比于传统的统计学分析方法，使用数据科学领域的算法模型或图像识别等技术将能辅助医学专家提高医学研究效率和精准度。作为从始至终支持数据院在医疗健康大数据方向研究工作的医学专家，清华大学生物医学影像研究中心研究员赵锡海早就认识到数据科学对于医学研究的重要性，也一直在践行和推动“医工结合”的创
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
- > 什么BIM模型精度
- ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
- > Softmax回归函数
- ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
- > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
- ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
- > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
- ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
- > 高手如何做数据分析？这11招是你应该具备的技能
- ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
- > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
- ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
- > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
- ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
- > 入行机器学习算法，其实就是顺应时代发展
- ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
- > 小白上手深度学习，就等着哭吧
- ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
- > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
- ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
- > PCA故障检测步骤
- ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
- > TensorFlow技术内幕（七）：模型优化之XLA（上）
- ## [Numpy高维数据的理解](https://blog.csdn.net/weixin_36277945/article/details/80679127)
- > Numpy高维数据的理解
- ## [训练集、验证集和测试集](https://blog.csdn.net/zqnnn/article/details/80679168)
- > 训练集、验证集和测试集
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
