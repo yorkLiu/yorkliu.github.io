@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:21:51
+date: 2018-06-14 08:22:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,6 +62,22 @@ categories: IT NEWS
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
  ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-released)
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
+ ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
+ > 魅族张兴业谈实践：利用Weex技术做魅族小程序
+ ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
+ > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
+ ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
+ > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
+ ## [运维的本质是什么？阿里“无人化”智能运维平台的演进](http://os.51cto.com/art/201806/576094.htm)
+ > 运维的本质是什么？阿里“无人化”智能运维平台的演进
+ ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
+ > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
+ ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
+ > 七款适用于企业的开源 VPN 工具
+ ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
+ > 荷兰央行：区块链目前无法满足金融基础设施需求
+ ## [Python爬取历年高考分数线，帮你预测2018年高考分数线](http://developer.51cto.com/art/201806/576084.htm)
+ > Python爬取历年高考分数线，帮你预测2018年高考分数线
  ## [如何评估和选择IoT平台？](http://iot.51cto.com/art/201806/576193.htm)
  > 企业可以持续专注于自身 IoT 平台的基本任务和功能，从而摆脱噪音的干扰。用一种条理分明的方法来梳理哪些
  ## [物联网的“小媳妇”，就该被冷落么？](http://iot.51cto.com/art/201806/576192.htm)
