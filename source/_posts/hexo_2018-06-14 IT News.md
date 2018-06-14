@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:41:42
+date: 2018-06-14 09:43:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -113,6 +113,8 @@ categories: IT NEWS
  > 如何解决WordPress中的502 Bad Gateway错误？
  ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
  > 外媒速递：云数据库时代终于全面来临
+ ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
+ > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
@@ -123,8 +125,6 @@ categories: IT NEWS
  > 运维的本质是什么？阿里“无人化”智能运维平台的演进
  ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
  > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
- ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
- > 七款适用于企业的开源 VPN 工具
  ## [如何选择服务器托管商？教你3招轻松搞定！](http://server.51cto.com/sOS-576200.htm)
  > 托管服务器以后用户是独享服务器资源，可以自主选择足够的网络带宽等资源。机房适宜的环境（温度、湿度等等
  ## [微软开源的ServiceFabric：在多个集群中运行，机器总数超过160000台](http://news.51cto.com/art/201806/576198.htm)
