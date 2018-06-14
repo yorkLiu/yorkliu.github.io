@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:47:44
+date: 2018-06-14 17:48:19
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -248,6 +248,8 @@ categories: IT NEWS
  > Numpy高维数据的理解
  ## [训练集、验证集和测试集](https://blog.csdn.net/zqnnn/article/details/80679168)
  > 训练集、验证集和测试集
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [用户运营浅谈-我的工作结构框架（序言）](http://www.woshipm.com/operate/1060566.html)
  > 本文作者将在此分享关于其在用户运营工作经历中的各个工作内容的浅谈，之后也会对每个工作内容进行详细的复盘，写下自己的心得。与你分享~夏天终于来了，在烦闷的夜里...
