@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:16:59
+date: 2018-06-14 08:18:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -22,6 +22,8 @@ categories: IT NEWS
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [flag -- 诡异的memcache标记](https://my.oschina.net/jijunjian/blog/1829272)
  > 引子　　　 　    打从去年一路北漂，进入无人货架行业，业务需求漫天飘，最近总算把工作都规划齐整。回望过去一年多的时间里，诸多东西值得整理，memcache就是其中一个。 　　 看到java的工资高些，队伍中好些人都想学习java，美其名曰：技术多元化。奈何团队中并没有相关经验的人，也深知大家殷切
+ ## [如何像扎克伯格一样实际编码创造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzd)
+ > 重点介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便地创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [微软 6 月 Patch Tuesday 修复影响所有 Windows 的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
  > 微软发布了 6 月 Patch Tuesday 的更新版本，解决了 50 个漏洞，其中有 11 个关键的远程代码执行漏洞和 39 个被定级为“重要”的漏洞。 据介绍，这些关键问题的影响涉及到 Edge 和 IE 浏览器。在发布修补程序前，除了脚本引擎中的 CVE-2018-8267 漏洞已经被利用并
  ## [Google 禁止从第三方网站安装 Chrome 扩展程序](https://www.oschina.net/news/97057/chrome-to-ban-inline-installation-of-extension)
