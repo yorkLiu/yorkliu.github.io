@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:41:47
+date: 2018-06-14 10:42:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,6 +67,8 @@ categories: IT NEWS
  > 背景 应曾老师要求 来写一篇神奇的403…… 分享会结束后 某曾老师高兴地说道：“试用出bug了……测试【^^！】说你修改了profile“ 先来看一下现象！ 请求返回403~！ 问题 /kzf6/maintain/getNoFinishMaintainList.do?idCar=406059193
  ## [apiDoc构建源代码注释的接口文档](https://my.oschina.net/wuweixiang/blog/1829384)
  > apiDoc官网：http://apidocjs.com/ 入门 前言 本文档中的所有示例都使用Javadoc-Style（可用于C＃，Go，Dart，Java，JavaScript，PHP，TypeScript和所有其他支持Javadoc的语言）： /** * This is a comment.
+ ## [Spring Security 4.2.7 和 5.0.6 发布，Spring 安全框架](https://www.oschina.net/news/97065/spring-security-4-2-7-5-0-6-released)
+ > Spring Security 4.2.7 和 5.0.6 发布了，此次更新主要提供 bug 修复和依赖版本更新，以及一些小的改进。这些版本将同步在本周晚些时候即将发布的 Spring Boot 维护版本中。 详情可以查看发布公告。 4.2.7 下载地址：  Source code (zip)  S
  ## [Montage GTD 1.1.0 发布，支持社交账号登录和任务订阅](https://www.oschina.net/news/97064/montage-gtd-1-1-0-released)
  > Montage GTD 发布 1.1.0 版本，一个基于 Laravel 集 RSS 阅读、思维导图、番茄工作法于一体的 GTD 应用。 更新内容： 社交账号登录支持： 支持微博、GitHub账号登录 支持ics日历订阅： （使用手机safari等浏览器复制打开既可以自动订阅） 新增个人日历订阅支持
  ## [脚本语言不行？JavaScript 重写 Office 365 已进入尾声](https://www.oschina.net/news/97060/office-365-is-rewriting-with-javascript)
@@ -105,8 +107,6 @@ categories: IT NEWS
  > TypeScript 2.9.2 已发布。此版本包含一组针对 TypeScript 2.9.1 的错误修复。 有关已解决问题的完整列表，请查看 TypeScript 2.9.2 的固定问题查询。 TypeScript 是由微软开发的自由和开源的编程语言，是 JavaScript 类型的超集，它可以编
  ## [Next.js 6.0.4-canary.6 发布，React 服务器端渲染框架](https://www.oschina.net/news/97043/next-js-6-0-4-canary-6-released)
  > Next.js 6.0.4-canary.6 已发布，更新内容如下： Check if the incoming header is set before applying to the response: 2a1075c Next.js 是一个用于在服务端渲染 React 应用程序的简单框架。 下
- ## [CodeMaid 10.5.119 发布，开源 Visual Studio 扩展](https://www.oschina.net/news/97042/codemaid-10-5-119-released)
- > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
  ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
  ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
@@ -173,16 +173,6 @@ categories: IT NEWS
  > 华为资深工程师：码农很多，但程序员并不多......
  ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
  > 10个web开发好用框架
- ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
- ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
- ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
- ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
- > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
- > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [“首富”陈天桥和盛大游戏过去的十年](http://www.lanjingtmt.com/news/detail/35754.shtml)
  > “回忆杀”只有回忆
  ## [乐视网前CEO梁军再创业，坚持互联网电视领域](http://www.lanjingtmt.com/news/detail/35760.shtml)
@@ -192,6 +182,8 @@ categories: IT NEWS
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
  > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
