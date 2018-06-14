@@ -97,3 +97,9 @@ seg.save('seg.marshal')
 # sentiment.save('sentiment.marshal')
 ```
 这样训练好的文件就存储为`seg.marshal`了，之后修改`snownlp/seg/__init__.py`里的`data_path`指向刚训练好的文件即可
+
+
+【注】
+- 知网发布“情感分析用词语集（beta版）http://www.keenage.com/html/c_bulletin_2007.htm
+- Python 文本挖掘：使用情感词典进行情感分析（情感词典 ） http://rzcoding.blog.163.com/blog/static/2222810172013101991918346/
+- Python 文本挖掘：使用情感词典进行情感分析（算法及程序设计） http://rzcoding.blog.163.com/blog/static/2222810172013101844033170/
