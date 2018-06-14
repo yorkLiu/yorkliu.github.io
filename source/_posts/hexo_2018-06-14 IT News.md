@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:50:18
+date: 2018-06-14 17:51:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -105,6 +105,22 @@ categories: IT NEWS
  > Mozilla Firefox 61.0 Beta 已发布，主要带来了 Quantum 引擎性能上的改进，优化了处理 CSS 的过程，让页面加载速度更快，并且用户还会感觉到切换标签页也会变快。 同时 Firefox 61.0 Beta 还提供了对暗色主题的支持。有兴趣的朋友可以登录 Mozilla 
  ## [Kotlin 1.2.50 发布，在 Eclipse IDE 插件中获支持](https://www.oschina.net/news/97049/kotlin-1-2-50-released)
  > Kotlin 1.2.50 已发布，带来了一些 Bug 修复和工具更新。主要更新内容如下： 在 Eclipse IDE 插件中更新 Kotlin 支持 在标准库的常见部分和 JS 部分添加新功能 将 JUnit 5 支持带给 kotlin.test 改进了实验性脚本支持 在 IntelliJ IDE
+ ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
+ > 【WOT2018】孙玄：转转如何打造AI工程架构体系
+ ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
+ > 我用Python分析了4W场比赛，2018世界杯冠军竟然是……
+ ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
+ > 不空谈!轻松筹将区块链落地公益和互助行业
+ ## [【深度】十分钟读完人工智能的三生三世](http://ai.51cto.com/art/201806/576213.htm)
+ > 【深度】十分钟读完人工智能的三生三世
+ ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
+ > 视+AR创始人张小军告诉你建设AR平台的正确姿势
+ ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
+ > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
+ ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
+ > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
+ ## [8小时！学会用Python完成安全测试的信息收集](http://www.51cto.com/art/201806/576059.htm)
+ > 8小时！学会用Python完成安全测试的信息收集
  ## [让网络更简单、智能、安全，迪普科技发布自安全网络解决方案](http://netsecurity.51cto.com/art/201806/576287.htm)
  > 2018年6月13日，杭州迪普科技股份有限公司在北京举办了迪普科技“大道智简铸网唯安”自安全网络解决方案发
  ## [TensorFlow的动态图工具Eager怎么用？这是一篇极简教程](http://zhuanlan.51cto.com/art/201806/576289.htm)
@@ -155,6 +171,18 @@ categories: IT NEWS
  > 我们为什么应该坚持写博客
  ## [定时器有哪些用法](https://blog.csdn.net/qq_41562919/article/details/80666477)
  > 定时器有哪些用法
+ ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
+ > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
+ ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
+ ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户出...
+ ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
+ ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
+ > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
+ ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
+ > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [前央视制片人陈晓卿出任腾讯视频副总编](http://www.lanjingtmt.com/news/detail/35767.shtml)
  > 今日腾讯视频公布，纪录片导演、《舌尖上的中国》之父陈晓卿，加盟腾讯视频出任副总编辑，同时陈晓卿任平台稻来纪录片实验室负责人、《风味人间》总导演。
  ## [优酷多声道花式解说世界杯揭幕战 进球就下红包雨](http://www.lanjingtmt.com/news/detail/35764.shtml)
