@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:06:20
+date: 2018-06-14 10:07:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -175,16 +175,6 @@ categories: IT NEWS
  > 华为资深工程师：码农很多，但程序员并不多......
  ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
  > 10个web开发好用框架
- ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
- ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
- ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
- ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
- > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
- > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [优信公布IPO发行价格区间，最高募资5.467亿美元](http://www.lanjingtmt.com/news/detail/35759.shtml)
  > 日前据二手车电商优信向美国证券交易委员会（SEC）提交的招股说明书2号补充文件显示，优信首次公开募股发行价格区间确定为10.5美元至12.5美元。
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
@@ -220,8 +210,6 @@ categories: IT NEWS
  > PCA故障检测步骤
  ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
  > TensorFlow技术内幕（七）：模型优化之XLA（上）
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [Axure示例：需求文档—阿里钉钉的消息模块](http://www.woshipm.com/rp/1059947.html)
  > 笔者为产品新人，这篇文章是笔者在看了产品相关视频后的实战联系，通过这篇文章，向大家分享我的学习成果，希望可以获得宝贵意见，一起来共同学习。为什么选择钉钉的...
