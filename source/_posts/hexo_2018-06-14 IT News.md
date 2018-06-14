@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:59:32
+date: 2018-06-14 11:00:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -107,22 +107,6 @@ categories: IT NEWS
  > Redis 5.0 rc2，4.0.10 和 3.2.12 已发布。主要更新情况如下： 5.0 rc2 此版本修复了重要的安全问题。 此版本修复了 SCAN 命令系列错误。 此版本修复了 PSYNC2 边界案件到期。 与 Sentinel 相关的修复。 修复其他问题 详细更新内容 4.0.10 此版
  ## [TypeScript 2.9.2 发布，微软推出的 JavaScript 超集](https://www.oschina.net/news/97044/typescript-2-9-2-released)
  > TypeScript 2.9.2 已发布。此版本包含一组针对 TypeScript 2.9.1 的错误修复。 有关已解决问题的完整列表，请查看 TypeScript 2.9.2 的固定问题查询。 TypeScript 是由微软开发的自由和开源的编程语言，是 JavaScript 类型的超集，它可以编
- ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
- > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
- > 如何解决WordPress中的502 Bad Gateway错误？
- ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
- > 码农福音：一个专门开发高性能大数据代码的系统「开源了」
- ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
- > 外媒速递：云数据库时代终于全面来临
- ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
- > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
- ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
- > 魅族张兴业谈实践：利用Weex技术做魅族小程序
- ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
- > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
- ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
- > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
  ## [家居新零售，一场以消费体验为核心的浩大变革正破风而来](http://www.cioage.com/art/201806/576209.htm)
  > 家居新零售门店遍地开花，其最终的目的还是在于让消费者获得新体验，在新零售风口下，家居行业即将掀起从单
  ## [大公司程序员与小公司程序员的区别](http://developer.51cto.com/art/201806/576207.htm)
