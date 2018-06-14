@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:04:26
+date: 2018-06-14 10:05:46
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -145,6 +145,46 @@ categories: IT NEWS
  > 数据显示，2016年中国进口芯片金额高达2300亿美元，花费几乎是排在第二名的原油进口金额的两倍。此次事件让
  ## [为什么要实现存储控制器国产化？](http://stor.51cto.com/art/201806/576196.htm)
  > 我们一直在强调存储产业的重要性，但是作为存储的核心技术之一，存储控制器的作用正与日俱增，要实现存储产
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [SpringBoot集成Redis实现缓存处理(Spring AOP技术)](https://blog.csdn.net/u014427391/article/details/78799623)
+ > SpringBoot集成Redis实现缓存处理(Spring AOP技术)
+ ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
+ > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
+ > 奥布莱恩杯尘埃落定 人工智能立功了！
+ ## [大规模分布式系统的跟踪系统：Dapper设计给我们的启示](https://blog.csdn.net/liumiaocn/article/details/80657661)
+ > 大规模分布式系统的跟踪系统：Dapper设计给我们的启示
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
+ > js原生创建模拟事件和自定义事件的方法
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
+ ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
+ > 10个web开发好用框架
+ ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
+ ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
+ ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
+ ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
+ > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
+ ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
+ > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [优信公布IPO发行价格区间，最高募资5.467亿美元](http://www.lanjingtmt.com/news/detail/35759.shtml)
  > 日前据二手车电商优信向美国证券交易委员会（SEC）提交的招股说明书2号补充文件显示，优信首次公开募股发行价格区间确定为10.5美元至12.5美元。
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
@@ -152,8 +192,6 @@ categories: IT NEWS
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [\[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结](https://blog.csdn.net/qq_21125183/article/details/80678187)
- > \[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结
  ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
  > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
  ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
@@ -180,6 +218,10 @@ categories: IT NEWS
  > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
  ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
  > PCA故障检测步骤
+ ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
+ > TensorFlow技术内幕（七）：模型优化之XLA（上）
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [Axure示例：需求文档—阿里钉钉的消息模块](http://www.woshipm.com/rp/1059947.html)
  > 笔者为产品新人，这篇文章是笔者在看了产品相关视频后的实战联系，通过这篇文章，向大家分享我的学习成果，希望可以获得宝贵意见，一起来共同学习。为什么选择钉钉的...
