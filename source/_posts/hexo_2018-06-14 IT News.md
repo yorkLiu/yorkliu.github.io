@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 12:50:47
+date: 2018-06-14 12:52:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -105,22 +105,6 @@ categories: IT NEWS
  > React 16.4.1 已发布，主要更新内容如下： React 现在可以将 propType 分配给由 React.ForwardRef 返回的组件。(@bvaughn in 12911) React DOM 修复：当输入类型从其他类型更改为文本时崩溃。 (@spirosikmd in 121
  ## [Elasticsearch 6.3.0 和 5.6.0 发布，Bug 修复](https://www.oschina.net/news/97046/elasticsearch-630-and-560-released)
  > Elasticsearch 6.3.0 和 5.6.0 已发布 6.3.0 更新内容如下： BUGFIX: 在关闭管道时修正竞态条件 9285 BUGFIX: 确保永久队列检查点的原子创建 9303 BUGFIX: 修复了包含非 ASCII 字符的事件在通过持久队列后不正确编码的问题 9307
- ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
- > 不空谈!轻松筹将区块链落地公益和互助行业
- ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
- > 视+AR创始人张小军告诉你建设AR平台的正确姿势
- ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
- > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
- ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
- > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
- > 如何解决WordPress中的502 Bad Gateway错误？
- ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
- > 码农福音：一个专门开发高性能大数据代码的系统「开源了」
- ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
- > 外媒速递：云数据库时代终于全面来临
- ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
- > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
  ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
  > 什么是阳光链?阳光链是新一代的高性能公有基础链，包括完整的分布式账本，支持智能合约、DApp(Decentralize
  ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
