@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:48:19
+date: 2018-06-14 17:48:47
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -141,36 +141,6 @@ categories: IT NEWS
  > 数据库的存储引擎是数据库的底层软件组件，数据库管理系统使用数据库引擎进行增删查改的操作。mysql的核心
  ## [MySQL现已正式支持文档存储](http://database.51cto.com/art/201806/576258.htm)
  > Oracle 已经发布了他们的开源关系数据库管理系统 MySQL 8。这个版本引入了许多改进，最受关注的可能是基于
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
- > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
- ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
- > 开源一个Android自定义图表库
- ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
- > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
- > js原生创建模拟事件和自定义事件的方法
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
- > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
- > TensorFlow: 薛定谔的管道
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [定时器有哪些用法](https://blog.csdn.net/qq_41562919/article/details/80666477)
- > 定时器有哪些用法
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
@@ -273,9 +243,5 @@ categories: IT NEWS
  > 尽管长期被质疑的共享单车市场近期，也出现某些“第二春”的现象，但这第二春似乎只是假象，共享单车仍然面临生死考验。“空军”已经开始撤退。“有人被裁，也有人主动走，...
  ## [美国大学生面试 Apple Music 失败，直接回家将其重新设计](http://www.woshipm.com/pd/1060341.html)
  > 本文作者是就读于美国西北大学的一名大学生，他申请了Apple Music平面设计实习生的岗位。被拒之后，他花了三个月时间重新设计了Apple Music。本文记录了他在重新设计过...
- ## [大部分公司的运营体系，烂如手工作坊](http://www.chanpin100.com/article/106956)
- > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
- ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
- > 【小百摘要】教你打出你的增长策略流。
 
     
