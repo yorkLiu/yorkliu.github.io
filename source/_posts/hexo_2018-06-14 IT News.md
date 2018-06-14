@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:12:10
+date: 2018-06-14 09:12:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -122,28 +122,51 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
  > 没想到啊！2599元的Java干货今天免费送
+ ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
+ ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
+ ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
+ ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
+ > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
+ ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
+ > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
+# 人工智能 
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [\[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结](https://blog.csdn.net/qq_21125183/article/details/80678187)
+ > \[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结
+ ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
+ > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
+ ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
+ > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
+ ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
+ > 什么BIM模型精度
+ ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
+ > Softmax回归函数
+ ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
+ > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
+ ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
+ > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
+ ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
+ > 高手如何做数据分析？这11招是你应该具备的技能
+ ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
+ > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
+ ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
+ > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
+ ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
+ > 入行机器学习算法，其实就是顺应时代发展
+ ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
+ > 小白上手深度学习，就等着哭吧
+ ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
+ > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
+ ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
+ > PCA故障检测步骤
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [坪效高出同行5倍，盒马鲜生究竟做对了什么？](http://www.woshipm.com/newretail/1059564.html)
  > 在独家专访候毅后，本文作者将从创始人的视角，来理解盒马鲜生这个零售新物种的商业逻辑。enjoy~2016年10月13日，两位互联网大佬在两个不同的地方，分别提出了“新零售...
- ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
- > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
- ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
- > 新4C是指在合适的场景下，针对特定的社群，利用有传播力的内容或者话题，通过社群网络中人与人的连接的裂变实现快速扩散与传...
- ## [江小白案例借鉴：传统企业营销方式如何变革？](http://www.pmtoo.com/article/48119.html)
- > 在近几年江小白通过颠覆传统的营销方式，实现了低成本地快速切入市场。那传统企业能从江小白的营销案例中学到什么呢？在此基...
- ## [抖音国内日活破1.5亿 与微信矛盾公开化但并不依赖对方](http://www.pmtoo.com/article/48112.html)
- > 6月12日，抖音首次对外公布最新用户数据：截止目前，抖音国内日活用户突破1.5亿，月活用户超过3亿。同时现场对近期业界关注的...
- ## [阿里巴巴又出了一个读书应用，说要做严肃文学](http://www.pmtoo.com/article/48106.html)
- > 阿里巴巴又做了一个新的读书应用，叫天猫读书。这个是由阿里文学与天猫图书联合推出的数字阅读产品，在此之前，阿里巴巴旗下...
- ## [男妆消费崛起，95后“花美男”的美妆生意开始了](http://www.pmtoo.com/article/48068.html)
- > 在消费升级、明星效应与求美流行文化的影响下，越来越多男生开始护肤、化妆，蜕变成一个个精致的男孩。十年前...
- ## [“精致boy”、“炫酷girl”双双崛起，消费的性别边界正逐渐模糊](http://www.pmtoo.com/article/48065.html)
- > 随着男性自我形象管理意识的提升和两性分工的变化，传统基于性别标签定义的消费需求正在发生改变，消费的性别边界正在逐渐模...
- ## [为什么说阿里应该收购抖音？](http://www.pmtoo.com/article/48059.html)
- > 放眼整个互联网行业，百度、网易是无从渗透的老牌劲旅，只有羽翼待丰的头条，是阿里系能够指望得上的强援。头条以算法做内...
- ## [A站受黑客攻击，官方：请及时修改密码](http://www.pmtoo.com/article/48055.html)
- > 6 月 13 号消息： 13 号凌晨，Acfun在官网发布了一篇文章，文中称A站因被黑客攻击，千万位用户的数据可能已经泄露，请 20...
- ## [中国“购物女神”通过分享自己的缺点建立信任，超级网红都有这３大力量！](http://www.pmtoo.com/article/48051.html)
- > 黎贝卡拥有「购物女神」的称号，是中国最具影响力的时尚自媒体之一。她在微博上拥有超过300万粉丝，微信上拥有超过45...
 
     
