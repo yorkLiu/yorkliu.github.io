@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:19:42
+date: 2018-06-14 09:20:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,8 +69,6 @@ categories: IT NEWS
  > apiDoc官网：http://apidocjs.com/ 入门 前言 本文档中的所有示例都使用Javadoc-Style（可用于C＃，Go，Dart，Java，JavaScript，PHP，TypeScript和所有其他支持Javadoc的语言）： /** * This is a comment.
  ## [Guava 源码分析（Cache 原理）](https://my.oschina.net/crossoverjie/blog/1829337)
  > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
- ## [flag -- 诡异的memcache标记](https://my.oschina.net/jijunjian/blog/1829272)
- > 引子　　　 　    打从去年一路北漂，进入无人货架行业，业务需求漫天飘，最近总算把工作都规划齐整。回望过去一年多的时间里，诸多东西值得整理，memcache就是其中一个。 　　 看到java的工资高些，队伍中好些人都想学习java，美其名曰：技术多元化。奈何团队中并没有相关经验的人，也深知大家殷切
  ## [脚本语言不行？JavaScript 重写 Office 365 已进入尾声](https://www.oschina.net/news/97060/office-365-is-rewriting-with-javascript)
  > 微软技术项目经理（Technical Program Manager ，TPM）、Webpack 核心团队成员 Sean Thomas Larkin  发 Twitter 透露了 Office 365 正在用 JavaScript 重写的消息。 这个消息源于一次简短的编程语言口水之争。一个备注 C+
  ## [如何像扎克伯格一样实际编码创造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzd)
@@ -182,36 +180,8 @@ categories: IT NEWS
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
  > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [\[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结](https://blog.csdn.net/qq_21125183/article/details/80678187)
- > \[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结
- ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
- > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
- ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
- > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
- ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
- > 什么BIM模型精度
- ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
- > Softmax回归函数
- ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
- > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
- ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
- > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
- ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
- > 高手如何做数据分析？这11招是你应该具备的技能
- ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
- > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
- ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
- > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
- ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
- > 入行机器学习算法，其实就是顺应时代发展
- ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
- > 小白上手深度学习，就等着哭吧
- ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
- > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
- ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
- > PCA故障检测步骤
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [坪效高出同行5倍，盒马鲜生究竟做对了什么？](http://www.woshipm.com/newretail/1059564.html)
  > 在独家专访候毅后，本文作者将从创始人的视角，来理解盒马鲜生这个零售新物种的商业逻辑。enjoy~2016年10月13日，两位互联网大佬在两个不同的地方，分别提出了“新零售...
