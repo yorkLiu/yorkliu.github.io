@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:28:33
+date: 2018-06-14 10:30:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -71,7 +71,7 @@ categories: IT NEWS
  > Montage GTD 发布 1.1.0 版本，一个基于 Laravel 集 RSS 阅读、思维导图、番茄工作法于一体的 GTD 应用。 更新内容： 社交账号登录支持： 支持微博、GitHub账号登录 支持ics日历订阅： （使用手机safari等浏览器复制打开既可以自动订阅） 新增个人日历订阅支持
  ## [脚本语言不行？JavaScript 重写 Office 365 已进入尾声](https://www.oschina.net/news/97060/office-365-is-rewriting-with-javascript)
  > 微软技术项目经理（Technical Program Manager ，TPM）、Webpack 核心团队成员 Sean Thomas Larkin  发 Twitter 透露了 Office 365 正在用 JavaScript 重写的消息。 这个消息源于一次简短的编程语言口水之争。一个备注 C+
- ## [如何像扎克伯格一样实际编码创造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzx)
+ ## [如何像扎克伯格一样实际编码造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzx)
  > 重点介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便地创建一个任务型对话机器人并集成到自己的业务系统或产品中。
  ## [微软 6 月 Patch Tuesday 修复影响所有 Windows 的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
  > 微软发布了 6 月 Patch Tuesday 的更新版本，解决了 50 个漏洞，其中有 11 个关键的远程代码执行漏洞和 39 个被定级为“重要”的漏洞。 据介绍，这些关键问题的影响涉及到 Edge 和 IE 浏览器。在发布修补程序前，除了脚本引擎中的 CVE-2018-8267 漏洞已经被利用并
@@ -143,46 +143,6 @@ categories: IT NEWS
  > 托管服务器以后用户是独享服务器资源，可以自主选择足够的网络带宽等资源。机房适宜的环境（温度、湿度等等
  ## [微软开源的ServiceFabric：在多个集群中运行，机器总数超过160000台](http://news.51cto.com/art/201806/576198.htm)
  > 微软的 Service Fabric 为 Azure 的许多关键服务提供支持。它已开发了大约 15 年，部署于生产环境已有 10
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [SpringBoot集成Redis实现缓存处理(Spring AOP技术)](https://blog.csdn.net/u014427391/article/details/78799623)
- > SpringBoot集成Redis实现缓存处理(Spring AOP技术)
- ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
- > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
- ## [奥布莱恩杯尘埃落定 人工智能立功了！](https://blog.csdn.net/sunhf_csdn/article/details/80671342)
- > 奥布莱恩杯尘埃落定 人工智能立功了！
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
- > 你靠什么在单位立足？此文堪称经典！
- ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
- > js原生创建模拟事件和自定义事件的方法
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
- > TensorFlow: 薛定谔的管道
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
- ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
- > 10个web开发好用框架
- ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
- ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！用户...
- ## [年薪 700 万也换不来区块链开发者的一次回眸](https://blog.csdn.net/csdnnews/article/details/80681541)
- > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！【C...
- ## [苹果封杀加密货币！](https://blog.csdn.net/csdnnews/article/details/80675227)
- > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
- ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
- > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
  ## [乐视网前CEO梁军再创业，坚持互联网电视领域](http://www.lanjingtmt.com/news/detail/35760.shtml)
  > 乐视网前任总经理梁军在今日头条个人账号发布消息，介绍其新建立的公司称为新视家科技的原因。
  ## [优信公布IPO发行价格区间，最高募资5.467亿美元](http://www.lanjingtmt.com/news/detail/35759.shtml)
@@ -231,5 +191,25 @@ categories: IT NEWS
  > 高考之后，你有多久没有为了一个目标去努力拼搏过？在今年高考后的这个周末，起点学院产品经理实战训练营迎来了一群小伙伴，他们放弃周末休息，重拾对学习的热情，准备...
  ## [坪效高出同行5倍，盒马鲜生究竟做对了什么？](http://www.woshipm.com/newretail/1059564.html)
  > 在独家专访候毅后，本文作者将从创始人的视角，来理解盒马鲜生这个零售新物种的商业逻辑。enjoy~2016年10月13日，两位互联网大佬在两个不同的地方，分别提出了“新零售...
+ ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
+ > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
+ ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
+ > 新4C是指在合适的场景下，针对特定的社群，利用有传播力的内容或者话题，通过社群网络中人与人的连接的裂变实现快速扩散与传...
+ ## [江小白案例借鉴：传统企业营销方式如何变革？](http://www.pmtoo.com/article/48119.html)
+ > 在近几年江小白通过颠覆传统的营销方式，实现了低成本地快速切入市场。那传统企业能从江小白的营销案例中学到什么呢？在此基...
+ ## [抖音国内日活破1.5亿 与微信矛盾公开化但并不依赖对方](http://www.pmtoo.com/article/48112.html)
+ > 6月12日，抖音首次对外公布最新用户数据：截止目前，抖音国内日活用户突破1.5亿，月活用户超过3亿。同时现场对近期业界关注的...
+ ## [阿里巴巴又出了一个读书应用，说要做严肃文学](http://www.pmtoo.com/article/48106.html)
+ > 阿里巴巴又做了一个新的读书应用，叫天猫读书。这个是由阿里文学与天猫图书联合推出的数字阅读产品，在此之前，阿里巴巴旗下...
+ ## [男妆消费崛起，95后“花美男”的美妆生意开始了](http://www.pmtoo.com/article/48068.html)
+ > 在消费升级、明星效应与求美流行文化的影响下，越来越多男生开始护肤、化妆，蜕变成一个个精致的男孩。十年前...
+ ## [“精致boy”、“炫酷girl”双双崛起，消费的性别边界正逐渐模糊](http://www.pmtoo.com/article/48065.html)
+ > 随着男性自我形象管理意识的提升和两性分工的变化，传统基于性别标签定义的消费需求正在发生改变，消费的性别边界正在逐渐模...
+ ## [为什么说阿里应该收购抖音？](http://www.pmtoo.com/article/48059.html)
+ > 放眼整个互联网行业，百度、网易是无从渗透的老牌劲旅，只有羽翼待丰的头条，是阿里系能够指望得上的强援。头条以算法做内...
+ ## [A站受黑客攻击，官方：请及时修改密码](http://www.pmtoo.com/article/48055.html)
+ > 6 月 13 号消息： 13 号凌晨，Acfun在官网发布了一篇文章，文中称A站因被黑客攻击，千万位用户的数据可能已经泄露，请 20...
+ ## [中国“购物女神”通过分享自己的缺点建立信任，超级网红都有这３大力量！](http://www.pmtoo.com/article/48051.html)
+ > 黎贝卡拥有「购物女神」的称号，是中国最具影响力的时尚自媒体之一。她在微博上拥有超过300万粉丝，微信上拥有超过45...
 
     
