@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 12:04:35
+date: 2018-06-14 12:05:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -204,8 +204,6 @@ categories: IT NEWS
  > 在数据时代，相比于传统的统计学分析方法，使用数据科学领域的算法模型或图像识别等技术将能辅助医学专家提高医学研究效率和精准度。作为从始至终支持数据院在医疗健康大数据方向研究工作的医学专家，清华大学生物医学影像研究中心研究员赵锡海早就认识到数据科学对于医学研究的重要性，也一直在践行和推动“医工结合”的创
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
- > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
  ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
  > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
  ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
@@ -232,6 +230,8 @@ categories: IT NEWS
  > PCA故障检测步骤
  ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
  > TensorFlow技术内幕（七）：模型优化之XLA（上）
+ ## [Numpy高维数据的理解](https://blog.csdn.net/weixin_36277945/article/details/80679127)
+ > Numpy高维数据的理解
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
