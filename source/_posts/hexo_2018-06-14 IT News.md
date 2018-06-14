@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:06:12
+date: 2018-06-14 17:07:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -123,6 +123,26 @@ categories: IT NEWS
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
  ## [8小时！学会用Python完成安全测试的信息收集](http://www.51cto.com/art/201806/576059.htm)
  > 8小时！学会用Python完成安全测试的信息收集
+ ## [2018世界杯即将开幕 | 你有一份安全观球指南待领取](http://netsecurity.51cto.com/art/201806/576286.htm)
+ > 网络开始普及之后，世界杯这种全球性活动吸引了越来越多的关注。但是，每一场比赛除了是球迷狂欢的大 party
+ ## [物联网预测性维护为制造业带来五大好处](http://iot.51cto.com/art/201806/576272.htm)
+ > 拥抱物联网(IoT)技术，能为制造商带来提高生产力、改善员工安全、简化库存管理及质量控制等方面的好处。下
+ ## [写给Android开发的小程序布局指南，Flex布局！](http://mobile.51cto.com/ahot-576271.htm)
+ > 在小程序的开发框架中，会使用 Flex 排版布局，它可以帮助我们快速的在小程序中进行 UI 布局。虽说 Flex 现
+ ## [机器学习、人工智能与网络安全的未来](http://zhuanlan.51cto.com/art/201806/576270.htm)
+ > 相较于更加基础的自动化前辈，学习能力给了安全AI与ML应用无与伦比的速度和准确性。但它们尚未达到安全万灵
+ ## [不同的领域、框架，这是一份超全的深度学习模型GitHub集合](http://zhuanlan.51cto.com/art/201806/576269.htm)
+ > 近日有开发者发布了一个模型聚合平台，我们可以分领域在上面搜索到当前最为流行的开源模型。作者根据 GitHu
+ ## [未来公务员都会是数据分析高手了，你还要当个只会Excel的小白吗？](http://bigdata.51cto.com/art/201806/576268.htm)
+ > 据外媒报道，新加坡2万公务员将在未来5年内接受数据分析培训，新加坡政府已任命首席数据战略官员，领导实现
+ ## [关于MySQL存储引擎、管理和维护概述](http://database.51cto.com/art/201806/576259.htm)
+ > 数据库的存储引擎是数据库的底层软件组件，数据库管理系统使用数据库引擎进行增删查改的操作。mysql的核心
+ ## [MySQL现已正式支持文档存储](http://database.51cto.com/art/201806/576258.htm)
+ > Oracle 已经发布了他们的开源关系数据库管理系统 MySQL 8。这个版本引入了许多改进，最受关注的可能是基于
+ ## [亚信科技中国软交会斩获多项大奖](http://www.51cto.com/art/201806/576256.htm)
+ > 亚信科技凭借综合实力获得最具影响力企业奖，亚信科技机器学习平台荣获最具竞争力产品奖，并在同期举行的20
+ ## [区块链如何更好地改进云计算解决方案](http://blockchain.51cto.com/art/201806/576253.htm)
+ > 目前区块链在提供运行大数据应用程序所需的计算能力方面，还远远不能取代云计算。但这并不意味着这项技术无
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
@@ -139,10 +159,10 @@ categories: IT NEWS
  > js原生创建模拟事件和自定义事件的方法
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
