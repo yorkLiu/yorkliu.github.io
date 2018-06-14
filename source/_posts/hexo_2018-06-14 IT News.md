@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:08:01
+date: 2018-06-14 17:08:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -123,6 +123,26 @@ categories: IT NEWS
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
  ## [8小时！学会用Python完成安全测试的信息收集](http://www.51cto.com/art/201806/576059.htm)
  > 8小时！学会用Python完成安全测试的信息收集
+ ## [2018世界杯即将开幕 | 你有一份安全观球指南待领取](http://netsecurity.51cto.com/art/201806/576286.htm)
+ > 网络开始普及之后，世界杯这种全球性活动吸引了越来越多的关注。但是，每一场比赛除了是球迷狂欢的大 party
+ ## [物联网预测性维护为制造业带来五大好处](http://iot.51cto.com/art/201806/576272.htm)
+ > 拥抱物联网(IoT)技术，能为制造商带来提高生产力、改善员工安全、简化库存管理及质量控制等方面的好处。下
+ ## [写给Android开发的小程序布局指南，Flex布局！](http://mobile.51cto.com/ahot-576271.htm)
+ > 在小程序的开发框架中，会使用 Flex 排版布局，它可以帮助我们快速的在小程序中进行 UI 布局。虽说 Flex 现
+ ## [机器学习、人工智能与网络安全的未来](http://zhuanlan.51cto.com/art/201806/576270.htm)
+ > 相较于更加基础的自动化前辈，学习能力给了安全AI与ML应用无与伦比的速度和准确性。但它们尚未达到安全万灵
+ ## [不同的领域、框架，这是一份超全的深度学习模型GitHub集合](http://zhuanlan.51cto.com/art/201806/576269.htm)
+ > 近日有开发者发布了一个模型聚合平台，我们可以分领域在上面搜索到当前最为流行的开源模型。作者根据 GitHu
+ ## [未来公务员都会是数据分析高手了，你还要当个只会Excel的小白吗？](http://bigdata.51cto.com/art/201806/576268.htm)
+ > 据外媒报道，新加坡2万公务员将在未来5年内接受数据分析培训，新加坡政府已任命首席数据战略官员，领导实现
+ ## [关于MySQL存储引擎、管理和维护概述](http://database.51cto.com/art/201806/576259.htm)
+ > 数据库的存储引擎是数据库的底层软件组件，数据库管理系统使用数据库引擎进行增删查改的操作。mysql的核心
+ ## [MySQL现已正式支持文档存储](http://database.51cto.com/art/201806/576258.htm)
+ > Oracle 已经发布了他们的开源关系数据库管理系统 MySQL 8。这个版本引入了许多改进，最受关注的可能是基于
+ ## [亚信科技中国软交会斩获多项大奖](http://www.51cto.com/art/201806/576256.htm)
+ > 亚信科技凭借综合实力获得最具影响力企业奖，亚信科技机器学习平台荣获最具竞争力产品奖，并在同期举行的20
+ ## [区块链如何更好地改进云计算解决方案](http://blockchain.51cto.com/art/201806/576253.htm)
+ > 目前区块链在提供运行大数据应用程序所需的计算能力方面，还远远不能取代云计算。但这并不意味着这项技术无
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
@@ -200,6 +220,36 @@ categories: IT NEWS
  > 前不久，英伟达发布了其机器人平台——Jetson Xavier，我们可以看到，这个平台包含了6种处理器：1个Volta TensorCore GPU、1个8核ARM64 CPU、2个NVDLA深度学习加速器、1个图像处理器、1个视觉处理器和1个视频处理器。
  ## [医学+数据科学，必将大有可为 | 清华生物医学影像研究中心赵锡海](https://yq.aliyun.com/articles/602129)
  > 在数据时代，相比于传统的统计学分析方法，使用数据科学领域的算法模型或图像识别等技术将能辅助医学专家提高医学研究效率和精准度。作为从始至终支持数据院在医疗健康大数据方向研究工作的医学专家，清华大学生物医学影像研究中心研究员赵锡海早就认识到数据科学对于医学研究的重要性，也一直在践行和推动“医工结合”的创
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
+ > 什么BIM模型精度
+ ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
+ > Softmax回归函数
+ ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
+ > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
+ ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
+ > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
+ ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
+ > 高手如何做数据分析？这11招是你应该具备的技能
+ ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
+ > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
+ ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
+ > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
+ ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
+ > 入行机器学习算法，其实就是顺应时代发展
+ ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
+ > 小白上手深度学习，就等着哭吧
+ ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
+ > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
+ ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
+ > PCA故障检测步骤
+ ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
+ > TensorFlow技术内幕（七）：模型优化之XLA（上）
+ ## [Numpy高维数据的理解](https://blog.csdn.net/weixin_36277945/article/details/80679127)
+ > Numpy高维数据的理解
+ ## [训练集、验证集和测试集](https://blog.csdn.net/zqnnn/article/details/80679168)
+ > 训练集、验证集和测试集
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
