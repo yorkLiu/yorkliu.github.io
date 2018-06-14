@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 08:32:55
+date: 2018-06-14 08:34:20
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,6 +62,22 @@ categories: IT NEWS
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
  ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-released)
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
+ ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
+ > 魅族张兴业谈实践：利用Weex技术做魅族小程序
+ ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
+ > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
+ ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
+ > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
+ ## [运维的本质是什么？阿里“无人化”智能运维平台的演进](http://os.51cto.com/art/201806/576094.htm)
+ > 运维的本质是什么？阿里“无人化”智能运维平台的演进
+ ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
+ > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
+ ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
+ > 七款适用于企业的开源 VPN 工具
+ ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
+ > 荷兰央行：区块链目前无法满足金融基础设施需求
+ ## [Python爬取历年高考分数线，帮你预测2018年高考分数线](http://developer.51cto.com/art/201806/576084.htm)
+ > Python爬取历年高考分数线，帮你预测2018年高考分数线
  ## [如何评估和选择IoT平台？](http://iot.51cto.com/art/201806/576193.htm)
  > 企业可以持续专注于自身 IoT 平台的基本任务和功能，从而摆脱噪音的干扰。用一种条理分明的方法来梳理哪些
  ## [物联网的“小媳妇”，就该被冷落么？](http://iot.51cto.com/art/201806/576192.htm)
@@ -78,24 +94,24 @@ categories: IT NEWS
  > 程序员：如何优雅地装逼
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
+ ## [面试教程 | 多家AI公司面试之后，我学到了什么？](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80649808)
+ > 面试教程 | 多家AI公司面试之后，我学到了什么？
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
  > js原生创建模拟事件和自定义事件的方法
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
  > 10个web开发好用框架
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [面试教程 | 多家AI公司面试之后，我学到了什么？](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80649808)
- > 面试教程 | 多家AI公司面试之后，我学到了什么？
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！昨天...
  ## [A 站彻底要凉？近千万条用户数据外泄！](https://blog.csdn.net/csdnnews/article/details/80681539)
