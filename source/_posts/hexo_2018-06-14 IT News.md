@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:18:28
+date: 2018-06-14 17:19:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -143,10 +143,10 @@ categories: IT NEWS
  > 目前区块链在提供运行大数据应用程序所需的计算能力方面，还远远不能取代云计算。但这并不意味着这项技术无
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
- > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
  ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
  > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
+ > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
  ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
  > 开源一个Android自定义图表库
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
@@ -163,12 +163,12 @@ categories: IT NEWS
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
+ > TensorFlow: 薛定谔的管道
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
- ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
- > TensorFlow: 薛定谔的管道
  ## [定时器有哪些用法](https://blog.csdn.net/qq_41562919/article/details/80666477)
  > 定时器有哪些用法
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
