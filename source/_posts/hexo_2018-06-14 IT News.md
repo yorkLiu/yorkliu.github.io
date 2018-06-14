@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:02:25
+date: 2018-06-14 09:02:46
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,22 +62,6 @@ categories: IT NEWS
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
  ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-released)
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
- ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
- > 如何解决WordPress中的502 Bad Gateway错误？
- ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
- > 魅族张兴业谈实践：利用Weex技术做魅族小程序
- ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
- > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
- ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
- > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
- ## [运维的本质是什么？阿里“无人化”智能运维平台的演进](http://os.51cto.com/art/201806/576094.htm)
- > 运维的本质是什么？阿里“无人化”智能运维平台的演进
- ## [商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销](http://stor.51cto.com/art/201806/576098.htm)
- > 商助科技顾问总监郑泉：互联网企业如何实现基于场景的大数据营销
- ## [七款适用于企业的开源 VPN 工具](http://netsecurity.51cto.com/art/201806/575993.htm)
- > 七款适用于企业的开源 VPN 工具
- ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
- > 荷兰央行：区块链目前无法满足金融基础设施需求
  ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
  > 赖斯大学的科研团队将在本周的 SIGMOD 数据管理国际大会上推介 PlinyCompute。
  ## [为什么要实现存储控制器国产化？](http://stor.51cto.com/art/201806/576196.htm)
@@ -114,8 +98,8 @@ categories: IT NEWS
  > 华为资深工程师：码农很多，但程序员并不多......
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
- ## [面试教程 | 多家AI公司面试之后，我学到了什么？](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/80649808)
- > 面试教程 | 多家AI公司面试之后，我学到了什么？
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
+ > 没想到啊！2599元的Java干货今天免费送
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
@@ -129,36 +113,6 @@ categories: IT NEWS
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
  > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [\[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结](https://blog.csdn.net/qq_21125183/article/details/80678187)
- > \[PVLDB 12\] GraphLab : 分布式机器学习大规模图处理系统 学习总结
- ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
- > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
- ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
- > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
- ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
- > 什么BIM模型精度
- ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
- > Softmax回归函数
- ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
- > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
- ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
- > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
- ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
- > 高手如何做数据分析？这11招是你应该具备的技能
- ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
- > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
- ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
- > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
- ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
- > 入行机器学习算法，其实就是顺应时代发展
- ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
- > 小白上手深度学习，就等着哭吧
- ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
- > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
- ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
- > PCA故障检测步骤
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
