@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:38:52
+date: 2018-06-14 10:39:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -107,22 +107,6 @@ categories: IT NEWS
  > Next.js 6.0.4-canary.6 已发布，更新内容如下： Check if the incoming header is set before applying to the response: 2a1075c Next.js 是一个用于在服务端渲染 React 应用程序的简单框架。 下
  ## [CodeMaid 10.5.119 发布，开源 Visual Studio 扩展](https://www.oschina.net/news/97042/codemaid-10-5-119-released)
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
- ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
- > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
- > 如何解决WordPress中的502 Bad Gateway错误？
- ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
- > 码农福音：一个专门开发高性能大数据代码的系统「开源了」
- ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
- > 外媒速递：云数据库时代终于全面来临
- ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
- > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
- ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
- > 魅族张兴业谈实践：利用Weex技术做魅族小程序
- ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
- > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
- ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
- > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
  ## [家居新零售，一场以消费体验为核心的浩大变革正破风而来](http://www.cioage.com/art/201806/576209.htm)
  > 家居新零售门店遍地开花，其最终的目的还是在于让消费者获得新体验，在新零售风口下，家居行业即将掀起从单
  ## [大公司程序员与小公司程序员的区别](http://developer.51cto.com/art/201806/576207.htm)
@@ -222,8 +206,6 @@ categories: IT NEWS
  > PCA故障检测步骤
  ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
  > TensorFlow技术内幕（七）：模型优化之XLA（上）
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [Axure示例：需求文档—阿里钉钉的消息模块](http://www.woshipm.com/rp/1059947.html)
  > 笔者为产品新人，这篇文章是笔者在看了产品相关视频后的实战联系，通过这篇文章，向大家分享我的学习成果，希望可以获得宝贵意见，一起来共同学习。为什么选择钉钉的...
