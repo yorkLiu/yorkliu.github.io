@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 13:00:34
+date: 2018-06-14 17:02:00
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -55,16 +55,24 @@ categories: IT NEWS
 
 <p>&nbsp;</p>
 # IT 新闻 
+ ## [精讲Redis：持久化](https://my.oschina.net/u/3779583/blog/1830335)
+ > 前言 在上一篇文章中，介绍了Redis内存模型，从这篇文章开始，将依次介绍Redis高可用相关的知识——持久化、复制(及读写分离)、哨兵、以及集群。 一、Redis高可用概述 在介绍Redis高可用之前，先说明一下在Redis的语境中高可用的含义。 我们知道，在web服务器中，高可用是指服务器可以正
+ ## [Python标准库笔记(10) — itertools模块](https://my.oschina.net/jhao104/blog/1830307)
+ > &gt; itertools 用于更高效地创建迭代器的函数工具。 &gt; Python版本 3.x `itertools` 提供的功能受Clojure，Haskell，APL和SML等函数式编程语言的类似功能的启发。它们的目的是快速有效地使用内存，并且将它们关联在一起以表示更复杂的基于迭代的算法。 基于迭代器
+ ## [Java OSGL 工具库 - Bean 拷贝的艺术](https://my.oschina.net/greenlaw110/blog/1830186)
+ > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
+ ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
+ >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
  ## [Dubbo解析(二)-内核实现之SPI机制（下）](https://my.oschina.net/u/2377110/blog/1829922)
  > 上一章我们介绍了JDK的SPI机制，它旨在建立一种服务发现的规范。而Dubbo基于此根据框架的整体设计做了一些改进： 1. JDK的SPI机制会一次性实例化所有服务提供者实现，如果有提供者的初始化很耗时，但并不会使用会很耗费资源。**Dubbo则只存储了所有提供者的Class对象，实际使用时才构造对
- ## [分布式环境下的配置变更如何做到平滑](https://my.oschina.net/fileoptions/blog/1829700)
+ ## [生活中的分布式配置变更算法](https://my.oschina.net/fileoptions/blog/1829700)
  > 时长有种感觉，技术和生活都是相同，很多看似深奥的技术原理都可以在生活中找到映射，比如。        假设一个场景，你有很多员工，分散在世界各地，你们平时都用邮件沟通，有一天你想切换为钉钉沟通，那么你会怎么做呢？首先，你会想到群发一个邮件给你的所有员工，然而，你无法确认员工是否查看了邮件，什么时候查
- ## [redis sds 实现的几个巧妙的想法](https://my.oschina.net/u/2950272/blog/1829687)
- > 翻redis 源码的时候，发现有些用法真是很巧妙的，一个是指针变换，一个是内存管理策略，当然后者是有利弊的。         sds.h 就这两个数据类型，这里，能够sds 和 sdshdr 相互转化。对外的接口，参数和返回只有char * 。redis 为每个char * 都维护了个数据结构 sd
- ## [精讲Redis内存模型](https://my.oschina.net/u/3779583/blog/1829617)
- > 前言 Redis是目前最火爆的内存数据库之一，通过在内存中读写数据，大大提高了读写速度，可以说Redis是实现网站高并发不可或缺的一部分。 我们使用Redis时，会接触Redis的5种对象类型（字符串、哈希、列表、集合、有序集合），丰富的类型是Redis相对于Memcached等的一大优势。在了解R
- ## [神奇的403](https://my.oschina.net/qixiaobo025/blog/1829469)
- > 背景 应曾老师要求 来写一篇神奇的403…… 分享会结束后 某曾老师高兴地说道：“试用出bug了……测试【^^！】说你修改了profile“ 先来看一下现象！ 请求返回403~！ 问题 /kzf6/maintain/getNoFinishMaintainList.do?idCar=406059193
+ ## [Krita 4.0.4 正式发布，开源数字绘画软件](https://www.oschina.net/news/97073/krita-4-0-4-released)
+ > Krita 开发小组在今天正式发布 Krita 4.0.4 版，这是 Krita 4.0.0 的一个问题修正版本，也是该系列的最后一次维护性更新。 Krita 的中文翻译在这一版得到了大幅更新，但是少数字符串因为在源代码中未进行可翻译处理而依然显示英文。这个问题正在被处理。果遇到其它翻译缺失也请上报
+ ## [新一代代码生成器 Lemur-generation 1.3 基础字段支持版](https://www.oschina.net/news/97072/lemur-generation-1-3-released)
+ > 新一代代码生成器 Lemur-generation 1.3 版本已发布。 更新内容包括： 支持全局基础字段 扩大了类型的支持 生成增加了全选 sql导入支持了db2,oracle 修复了其他bug 使用方法：  在数据库管理,新建数据库连接 模板分组建立自己的模板分组/clone别人分享的 参数管理
+ ## [JHipster v5 的第三个测试版本 v5.0.0-beta.2 发布](https://www.oschina.net/news/97071/jhipster-v5-0-0-beta-2-released)
+ > 这是JHipster v5的第三个测试版本。我们没有具体的问题，如果一切顺利，它将在未来几天内成为我们第一个v5稳定版本。 它在主项目上有204个关闭的tickets和pull requests，所以如果你对我们的5.0.0-beta.1版本有任何反馈，我们希望可以修正它！ 由于这是一个测试版本，因
  ## [Node.js 8.11.3 和 10.4.1 发布，JavaScript 运行时](https://www.oschina.net/news/97070/nodejs-8-11-3-and-10-4-1-released)
  > Node.js 8.11.3 和 10.4.1 发布了，更新内容如下： 8.11.3 Notable Changes buffer (CVE-2018-7167): Fixes Denial of Service vulnerability where calling Buffer.fill() c
  ## [Spring Cloud Pipelines 1.0.0.M8 发布，重构 CF](https://www.oschina.net/news/97068/spring-cloud-pipelines-1-0-0-m8-released)
@@ -99,78 +107,72 @@ categories: IT NEWS
  > Mozilla Firefox 61.0 Beta 已发布，主要带来了 Quantum 引擎性能上的改进，优化了处理 CSS 的过程，让页面加载速度更快，并且用户还会感觉到切换标签页也会变快。 同时 Firefox 61.0 Beta 还提供了对暗色主题的支持。有兴趣的朋友可以登录 Mozilla 
  ## [Kotlin 1.2.50 发布，在 Eclipse IDE 插件中获支持](https://www.oschina.net/news/97049/kotlin-1-2-50-released)
  > Kotlin 1.2.50 已发布，带来了一些 Bug 修复和工具更新。主要更新内容如下： 在 Eclipse IDE 插件中更新 Kotlin 支持 在标准库的常见部分和 JS 部分添加新功能 将 JUnit 5 支持带给 kotlin.test 改进了实验性脚本支持 在 IntelliJ IDE
- ## [RabbitMQ 3.6.16 和 3.7.6 发布，多协议消息代理](https://www.oschina.net/news/97048/rabbitmq-3-6-16-and-3-7-6-released)
- > RabbitMQ 3.6.16 和 3.7.6 已发布，RabbitMQ 3.6.16 是一个维护版本，主要包括来自 3.7.x 系列的选定 backports。 建议早期 3.6.x 版本的用户升级到 3.7.x 版本，如 3.7.6。3.7.6 主要包含系列 Bug 修复。 3.6.16 更新情
- ## [React 16.4.1 发布，构建用户界面的 JavaScript 库](https://www.oschina.net/news/97047/react-16-4-1-released)
- > React 16.4.1 已发布，主要更新内容如下： React 现在可以将 propType 分配给由 React.ForwardRef 返回的组件。(@bvaughn in 12911) React DOM 修复：当输入类型从其他类型更改为文本时崩溃。 (@spirosikmd in 121
- ## [Elasticsearch 6.3.0 和 5.6.0 发布，Bug 修复](https://www.oschina.net/news/97046/elasticsearch-630-and-560-released)
- > Elasticsearch 6.3.0 和 5.6.0 已发布 6.3.0 更新内容如下： BUGFIX: 在关闭管道时修正竞态条件 9285 BUGFIX: 确保永久队列检查点的原子创建 9303 BUGFIX: 修复了包含非 ASCII 字符的事件在通过持久队列后不正确编码的问题 9307
+ ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
+ > 【WOT2018】孙玄：转转如何打造AI工程架构体系
+ ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
+ > 我用Python分析了4W场比赛，2018世界杯冠军竟然是……
  ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
  > 不空谈!轻松筹将区块链落地公益和互助行业
+ ## [【深度】十分钟读完人工智能的三生三世](http://ai.51cto.com/art/201806/576213.htm)
+ > 【深度】十分钟读完人工智能的三生三世
  ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
  > 视+AR创始人张小军告诉你建设AR平台的正确姿势
  ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
  > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
  ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
- > 如何解决WordPress中的502 Bad Gateway错误？
- ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
- > 码农福音：一个专门开发高性能大数据代码的系统「开源了」
- ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
- > 外媒速递：云数据库时代终于全面来临
- ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
- > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
- ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
- > 什么是阳光链?阳光链是新一代的高性能公有基础链，包括完整的分布式账本，支持智能合约、DApp(Decentralize
- ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
- > 现在， AR 应用已经开始在企业的产品和整条价值链中得到测试和部署。如何部署AR，建设AR平台成为摆在众多企
- ## [区块链入门教程第二期：挖矿？](http://blockchain.51cto.com/art/201806/576234.htm)
- > 上一期我们讲了关于区块链的基本知识，链接在这《区块链入门教程第一期：区块链》，今天我们就来讲一下区块
- ## [灾难恢复将帮助企业摒弃辅助数据中心](http://server.51cto.com/Datacenter-576233.htm)
- > 企业为灾难恢复建立一个辅助数据中心不再是一个可持续的选择，也不是必要的。由于云采用率和云计算提供商的
- ## [边缘服务对企业的弹性策略至关重要的5个原因](http://cloud.51cto.com/art/201806/576232.htm)
- > 当涉及到计算时，边缘计算成为了目前流行的话题。这是为什么?边缘计算是一种分散计算能力并将移动到用户和
- ## [区块链入门教程第一期：区块链](http://blockchain.51cto.com/art/201806/576231.htm)
- > 区块链（blockchain）是眼下的大热门，新闻媒体大量报道，宣称它将创造未来。可是，很多人都是为了炒币来的
- ## [既生瑜何生亮 电视和显示器谁更重要？](http://biz.51cto.com/art/201806/576229.htm)
- > 随着大家的生活水平越来越高，除了工作之余也喜欢在家休闲时间里看下电视或者玩玩电脑。其中电视和电脑的显
- ## [MySQL存储引擎MyISAM与InnoDB的优劣](http://stor.51cto.com/art/201806/576226.htm)
- > 使用MySQL当然会接触到MySQL的存储引擎，在新建数据库和新建数据表的时候都会看到。MySQL默认的存储引擎是M
- ## [经历了一个炒作周期，聊天机器人为什么还没成功？](http://ai.51cto.com/art/201806/576223.htm)
- > 2016年，我们说，机器人模式的转变将比过去十年从网络向移动应用的转变更具破坏性和趣味性。我们相信，聊天
- ## [区块链能够给物联网带来什么？](http://www.cioage.com/art/201806/576220.htm)
- > 物联网的发展离不开区块链技术，两者相辅相成。
+ ## [8小时！学会用Python完成安全测试的信息收集](http://www.51cto.com/art/201806/576059.htm)
+ > 8小时！学会用Python完成安全测试的信息收集
+ ## [2018世界杯即将开幕 | 你有一份安全观球指南待领取](http://netsecurity.51cto.com/art/201806/576286.htm)
+ > 网络开始普及之后，世界杯这种全球性活动吸引了越来越多的关注。但是，每一场比赛除了是球迷狂欢的大 party
+ ## [物联网预测性维护为制造业带来五大好处](http://iot.51cto.com/art/201806/576272.htm)
+ > 拥抱物联网(IoT)技术，能为制造商带来提高生产力、改善员工安全、简化库存管理及质量控制等方面的好处。下
+ ## [写给Android开发的小程序布局指南，Flex布局！](http://mobile.51cto.com/ahot-576271.htm)
+ > 在小程序的开发框架中，会使用 Flex 排版布局，它可以帮助我们快速的在小程序中进行 UI 布局。虽说 Flex 现
+ ## [机器学习、人工智能与网络安全的未来](http://zhuanlan.51cto.com/art/201806/576270.htm)
+ > 相较于更加基础的自动化前辈，学习能力给了安全AI与ML应用无与伦比的速度和准确性。但它们尚未达到安全万灵
+ ## [不同的领域、框架，这是一份超全的深度学习模型GitHub集合](http://zhuanlan.51cto.com/art/201806/576269.htm)
+ > 近日有开发者发布了一个模型聚合平台，我们可以分领域在上面搜索到当前最为流行的开源模型。作者根据 GitHu
+ ## [未来公务员都会是数据分析高手了，你还要当个只会Excel的小白吗？](http://bigdata.51cto.com/art/201806/576268.htm)
+ > 据外媒报道，新加坡2万公务员将在未来5年内接受数据分析培训，新加坡政府已任命首席数据战略官员，领导实现
+ ## [关于MySQL存储引擎、管理和维护概述](http://database.51cto.com/art/201806/576259.htm)
+ > 数据库的存储引擎是数据库的底层软件组件，数据库管理系统使用数据库引擎进行增删查改的操作。mysql的核心
+ ## [MySQL现已正式支持文档存储](http://database.51cto.com/art/201806/576258.htm)
+ > Oracle 已经发布了他们的开源关系数据库管理系统 MySQL 8。这个版本引入了许多改进，最受关注的可能是基于
+ ## [亚信科技中国软交会斩获多项大奖](http://www.51cto.com/art/201806/576256.htm)
+ > 亚信科技凭借综合实力获得最具影响力企业奖，亚信科技机器学习平台荣获最具竞争力产品奖，并在同期举行的20
+ ## [区块链如何更好地改进云计算解决方案](http://blockchain.51cto.com/art/201806/576253.htm)
+ > 目前区块链在提供运行大数据应用程序所需的计算能力方面，还远远不能取代云计算。但这并不意味着这项技术无
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [SpringBoot集成Redis实现缓存处理(Spring AOP技术)](https://blog.csdn.net/u014427391/article/details/78799623)
- > SpringBoot集成Redis实现缓存处理(Spring AOP技术)
  ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
  > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
- ## [React Native 电商项目实战——1.创建项目](https://blog.csdn.net/yulianlin/article/details/80670139)
- > React Native 电商项目实战——1.创建项目
+ ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
+ > 开源一个Android自定义图表库
+ ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
+ > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
  ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
  > 你靠什么在单位立足？此文堪称经典！
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
  ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
  > js原生创建模拟事件和自定义事件的方法
+ ## [定时器有哪些用法](https://blog.csdn.net/qq_41562919/article/details/80666477)
+ > 定时器有哪些用法
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [机器学习5年大跃进，可能是个错觉](https://blog.csdn.net/LrS62520kV/article/details/80684410)
+ > 机器学习5年大跃进，可能是个错觉
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
- > 10个web开发好用框架
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
@@ -183,6 +185,10 @@ categories: IT NEWS
  > 听说，挖币很挣钱？    手机挖币是不是骗局？    币还没挖着，手机的电量和 CPU 瞬间被榨干了！不知何时起，腥风血雨的币圈江湖杀入了大街小巷，一批批投资者、创业者、热钱纷纷涌入其中，「一念天堂，一念地狱」的现象也层出不穷，为避免这种现状愈演愈烈，监管政策随之而来。如今...
  ## [动辄年薪 25 万只是白菜价的人工智能黄了？](https://blog.csdn.net/csdnnews/article/details/80675076)
  > 近几年，人工智能风生水起，中美巨头纷纷布局，创业型公司纷至沓来，深度学习、机器学习、算法等技术名词不绝于耳，“智能”产品琳琅满目……然而精彩纷呈背后，各种「AI 威胁论」也水涨船高：  马斯克：如果你不担心人工智能的安全性，那么现在你应该担心。它比朝鲜核武器危险得多。    霍金：远离 ...
+ ## [前央视制片人陈晓卿出任腾讯视频副总编](http://www.lanjingtmt.com/news/detail/35767.shtml)
+ > 今日腾讯视频公布，纪录片导演、《舌尖上的中国》之父陈晓卿，加盟腾讯视频出任副总编辑，同时陈晓卿任平台稻来纪录片实验室负责人、《风味人间》总导演。
+ ## [优酷多声道花式解说世界杯揭幕战 进球就下红包雨](http://www.lanjingtmt.com/news/detail/35764.shtml)
+ > 作为首家拿下世界杯直播权的主流视频平台，在央视的合作支持下，优酷协同阿里生态正式开启手机看世界杯元年。在赛事直播上，优酷采取央视解说、粤语解说、优酷专属专业解说以及跨界明星等四路四
  ## [腾讯32亿拟收购《绝地求生》开发商10%股份，或牵涉同业纠纷](http://www.lanjingtmt.com/news/detail/35761.shtml)
  > 据知情人士消息，腾讯计划以5亿美元（约合人民币32亿元）将收购《绝地求生》开发商蓝洞公司(Bluehole Inc)10%的股份，其估值目前已超过50亿美元。去年11月，腾讯拿下《
  ## [“首富”陈天桥和盛大游戏过去的十年](http://www.lanjingtmt.com/news/detail/35754.shtml)
@@ -194,8 +200,20 @@ categories: IT NEWS
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
  > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
- ## [视觉人工智能将与更多产业相结合](https://yq.aliyun.com/articles/602136)
- > 中国公安部门正在开启的名为“天网”(Sky Net)的安全网络被广泛应用。该网络有可能识别出世界上任何人的面部特征，并将其与犯罪嫌疑人数据库中的照片当场匹配。事实上，它可以如此迅速地分析照片的特征，以至于它可以在一秒钟内扫描地球上的每一张脸庞，而扫描世界上的每一张脸只需要两秒钟，准确率高达99.8%
+ ## [阿里安全图灵实验室炫谦：如何成长为一名优秀的AI算法工程师？](https://yq.aliyun.com/articles/602445)
+ > 阿里安全一线程序员告诉你“钢铁是怎样炼成的”。
+ ## [丰田将与Uber联手开发无人驾驶技术](https://yq.aliyun.com/articles/602412)
+ > 近年来，人工智能、机器人、无人驾驶技术热度不断上升，丰田也在无人驾驶领域有大动作，将与丰田一起研究无人驾驶技术。
+ ## [DockerCon SF 18 Day One 速记 - 从容器到云原生](https://yq.aliyun.com/articles/602410)
+ > 确认过眼神，这是DockerCon SF 2018
+ ## [AutoML破解深度学习寒冬论，夏粉教小白5分钟搞定机器学习建模](https://yq.aliyun.com/articles/602250)
+ > 昨天，国内AutoML领域创业公司智铀科技发布了自动化机器学习产品“小智”，据公开数据显示，这是国内首款可私有部署的AutoML商用产品。新...
+ ## [【CNN已老，GNN来了】DeepMind、谷歌大脑、MIT等27位作者重磅论文，图网络让深度学习也能因果推理](https://yq.aliyun.com/articles/602233)
+ > DeepMind联合谷歌大脑、MIT等机构27位作者发表重磅论文，提出“图网络”（Graph network），将端到端学习与归纳推理相结合...
+ ## [为什么说要重视神经网络加速器](https://yq.aliyun.com/articles/602181)
+ > 自从以深度学习为代表的神经网络算法的精度大大提升以后，人工智能开始终于又再次火了起来，且有席卷全球之势。根据BBC预测，到2020年，人工...
+ ## [使用ConcurrentMap实现高效可靠的原子操作](https://yq.aliyun.com/articles/602145)
+ > java ConcurrentMap
  ## [阿里副总裁刘松：技术创业将成为下一个互联网风口](https://yq.aliyun.com/articles/602132)
  > 未来10年，中国互联网将发生哪些重要变化？新的创业机会将出现在哪些行业？近日，在参加创业黑马产业升级大课《重回高增长》活动上，阿里巴巴集...
  ## [云时代应用多样化 异构计算成主流](https://yq.aliyun.com/articles/602130)
@@ -204,8 +222,6 @@ categories: IT NEWS
  > 在数据时代，相比于传统的统计学分析方法，使用数据科学领域的算法模型或图像识别等技术将能辅助医学专家提高医学研究效率和精准度。作为从始至终支持数据院在医疗健康大数据方向研究工作的医学专家，清华大学生物医学影像研究中心研究员赵锡海早就认识到数据科学对于医学研究的重要性，也一直在践行和推动“医工结合”的创
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
- > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
  ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
  > 什么BIM模型精度
  ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
@@ -232,54 +248,36 @@ categories: IT NEWS
  > TensorFlow技术内幕（七）：模型优化之XLA（上）
  ## [Numpy高维数据的理解](https://blog.csdn.net/weixin_36277945/article/details/80679127)
  > Numpy高维数据的理解
+ ## [训练集、验证集和测试集](https://blog.csdn.net/zqnnn/article/details/80679168)
+ > 训练集、验证集和测试集
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
- ## [从Agenda看如何满足用户需求？](http://www.woshipm.com/user-research/1053508.html)
- > Agenda是今年获得苹果设计大奖的得主，在交互和视觉层面，它都一定程度上满足了用户对笔记类产品美的期望需求。本文主要是通过Agenda看如何满足用户需求？最近经常使...
- ## [消费众测为什么四年了仍不温不火？](http://www.woshipm.com/it/1059027.html)
- > 消费众测在刚兴起的时候，吸引了众多企业的关注，并且都陆续推出自己的消费众测平台，可是现在四年过去了，消费众测并没有对市场产生多大的影响，这究竟是为什么呢？2...
- ## [鹅厂内部的产品经理：跨部门合作，是1+1＞2的模式](http://www.woshipm.com/pmd/1060249.html)
- > 对于很多刚入门的产品新人来说，如何提升自己的职场专业能力可谓是一大痛点。产品新人往往从功能优化类的小需求起步，难以对产品的完整链条有全貌认知，也不知道产品的...
- ## [微信电商的三步走，是内容电商的正确姿势吗？](http://www.woshipm.com/it/1059993.html)
- > 微信在京东618时，开启了搜索直达电商功能，那微信开启这个功能的目的是什么呢？微信是否准备正是入局内容电商呢？6月13日夜间，微信开放搜索开放单品，诸如：“iPhone...
- ## [从6个方面着手：产品经理应如何与设计师沟通？](http://www.woshipm.com/pmd/1059725.html)
- > 很多的产品经理认为自己在视觉的问题不太专业，所以验收的时候往往会忽视一些问题，那产品经理要如何验收设计稿呢？应该怎样去与设计师交流呢？现在很多产品同学，在...
- ## [探索双核心用户下的服务流程设计新思路](http://www.woshipm.com/ucd/1060087.html)
- > 消费升级伴随着越来越多服务型产品在当今时代竞相绽放，产品所提供的服务怎样能更好地满足用户的胃口？产品定义初期设计者们如何以全局观洞察服务流程中的触点设计？1...
- ## [供应链金融（一）：商业保理产品架构介绍](http://www.woshipm.com/pd/1059706.html)
- > 互金发展到现在，资产端从最初发展的房贷、车贷、信贷发展到目前的消费贷、供应链金融，商业保理就属于供应链金融中的一种产品形式。本文主要是关于商业保理的产品架构...
- ## [案例分析：区块链+保险领域智能合约解决方案](http://www.woshipm.com/pd/1060117.html)
- > 本文是拉比老师通过大量的学习与研究，并查看N个关于保险领域的白皮书，并从中进行竞品分析，把自己认为最重要的共性部分，分享给大家，特别适合正在这个领域创业、投资...
- ## [论市场、品牌、销售、运营之间的暧昧关系](http://www.woshipm.com/it/1059035.html)
- > 市场、品牌、销售、运营之间的关系是怎样的？他们互相的定位和功能是什么？如果你还不是很清楚，就来文章中看看~声明：笔者做过品牌、市场、运营、等工作。且处于离职...
- ## [品牌怎么抢世界杯借势营销的C位？](http://www.woshipm.com/marketing/1060097.html)
- > 借势营销必须要按照公关的套路出牌！大叔今天就给大家补个课，提供一些“以小博大”的借势营销策略。enjoy~北京时间6月14日23点，也就是今天晚上，2018俄罗斯世界杯即将...
- ## [连日活 10 亿的微信打破圈层壁都难，拼多多怎么做到的？](http://www.woshipm.com/it/1060090.html)
- > 在微信拼单谁都能模仿，但供应链这个核心壁垒并不是谁都能建立起来。作者：周天来源：周天财经（ID：techfinsight）穿行在中国蒜乡——河南中牟县的村镇道路上，我...
+ ## [用户运营浅谈-我的工作结构框架（序言）](http://www.woshipm.com/operate/1060566.html)
+ > 本文作者将在此分享关于其在用户运营工作经历中的各个工作内容的浅谈，之后也会对每个工作内容进行详细的复盘，写下自己的心得。与你分享~夏天终于来了，在烦闷的夜里...
+ ## [如何让自己在每家公司都能有提升？这里有5个方法](http://www.woshipm.com/zhichang/1059255.html)
+ > 换工作的原因可能是多种多样的，每个人的原因都是不一样的。但是进入一个公司后，如何提升自己的方法却是一样的。首先，介绍一下自己，我是一位从开发转岗到产品的初...
+ ## [世界杯来了，移动办公的“世界杯”怎么踢？](http://www.woshipm.com/it/1060273.html)
+ > 如果用世界杯参赛球队来看移动办公领域的各个玩家，我们会发现移动办公早已在踢自己的世界杯，或许可以从一些有意思的角度来看出行业竞争的态势和未来，那移动办公的“世...
+ ## [实例分析：如何让数据开口说话？](http://www.woshipm.com/pd/1060245.html)
+ > 大量的数据体现了用户对新功能的好恶、对公告的查阅量、页面结构改变后的适应程度。枯燥的数据能够切实有效地透过问题看本质，更客观的设计产品。曾经，用户体验是玄...
+ ## [电商后台：商品管理系统](http://www.woshipm.com/pd/1060191.html)
+ > 电商管理系统是为了能够让用户快速的找到商品，为同类型产品提供标准的属性、属性值，便于统一产品，使用户得到决策必须的消息，为运营童鞋方便管理商品的上下架。最...
+ ## [从10个实际项目总结：关联图谱可以怎么用（上）](http://www.woshipm.com/it/1060345.html)
+ > 本文是作者根据了解到的，做过的近10个实际项目，提炼出了一些关联图谱在银行、保险、审计、公安四个领域的应用方式，一起来看看关联图谱究竟可以怎么用？关联图谱可...
+ ## [5种不同跨境电商运营模式分析](http://www.woshipm.com/operate/1060277.html)
+ > 本文是针对物种不同跨境电商运营模式的分析，主要分析的是它们的优缺点，然后还提了相关的建议。一起来看看~一、M2C模式代表公司：天猫国际、洋码头。概述：两家公...
+ ## [实例解析｜如何带着交互&视觉思维来设计UI](http://www.woshipm.com/ucd/1060172.html)
+ > UI在拿到产品原型时该如何思考？如何着手设计界面？最近跟一些设计师朋友交流UI设计方案，总结了一下在方案优化的思考过程，在这里分享给大家。目录：两道思维思维...
+ ## [3个方面分析：TV端如何做好反馈？](http://www.woshipm.com/pd/1060010.html)
+ > 对于应用软件来说，反馈就是当用户执行了某一个操作后，系统应该给用户一个信号， 告诉用户你操作的结果是什么。这个结果包含操作成功、操作失败等信息，用户可以通过这...
+ ## [共享单车“第二春”假象：ofo、摩拜仍面临生死考验](http://www.woshipm.com/it/1060498.html)
+ > 尽管长期被质疑的共享单车市场近期，也出现某些“第二春”的现象，但这第二春似乎只是假象，共享单车仍然面临生死考验。“空军”已经开始撤退。“有人被裁，也有人主动走，...
+ ## [美国大学生面试 Apple Music 失败，直接回家将其重新设计](http://www.woshipm.com/pd/1060341.html)
+ > 本文作者是就读于美国西北大学的一名大学生，他申请了Apple Music平面设计实习生的岗位。被拒之后，他花了三个月时间重新设计了Apple Music。本文记录了他在重新设计过...
  ## [大部分公司的运营体系，烂如手工作坊](http://www.chanpin100.com/article/106956)
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
- ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
- > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
- ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
- > 新4C是指在合适的场景下，针对特定的社群，利用有传播力的内容或者话题，通过社群网络中人与人的连接的裂变实现快速扩散与传...
- ## [江小白案例借鉴：传统企业营销方式如何变革？](http://www.pmtoo.com/article/48119.html)
- > 在近几年江小白通过颠覆传统的营销方式，实现了低成本地快速切入市场。那传统企业能从江小白的营销案例中学到什么呢？在此基...
- ## [抖音国内日活破1.5亿 与微信矛盾公开化但并不依赖对方](http://www.pmtoo.com/article/48112.html)
- > 6月12日，抖音首次对外公布最新用户数据：截止目前，抖音国内日活用户突破1.5亿，月活用户超过3亿。同时现场对近期业界关注的...
- ## [阿里巴巴又出了一个读书应用，说要做严肃文学](http://www.pmtoo.com/article/48106.html)
- > 阿里巴巴又做了一个新的读书应用，叫天猫读书。这个是由阿里文学与天猫图书联合推出的数字阅读产品，在此之前，阿里巴巴旗下...
- ## [男妆消费崛起，95后“花美男”的美妆生意开始了](http://www.pmtoo.com/article/48068.html)
- > 在消费升级、明星效应与求美流行文化的影响下，越来越多男生开始护肤、化妆，蜕变成一个个精致的男孩。十年前...
- ## [“精致boy”、“炫酷girl”双双崛起，消费的性别边界正逐渐模糊](http://www.pmtoo.com/article/48065.html)
- > 随着男性自我形象管理意识的提升和两性分工的变化，传统基于性别标签定义的消费需求正在发生改变，消费的性别边界正在逐渐模...
- ## [为什么说阿里应该收购抖音？](http://www.pmtoo.com/article/48059.html)
- > 放眼整个互联网行业，百度、网易是无从渗透的老牌劲旅，只有羽翼待丰的头条，是阿里系能够指望得上的强援。头条以算法做内...
- ## [A站受黑客攻击，官方：请及时修改密码](http://www.pmtoo.com/article/48055.html)
- > 6 月 13 号消息： 13 号凌晨，Acfun在官网发布了一篇文章，文中称A站因被黑客攻击，千万位用户的数据可能已经泄露，请 20...
- ## [中国“购物女神”通过分享自己的缺点建立信任，超级网红都有这３大力量！](http://www.pmtoo.com/article/48051.html)
- > 黎贝卡拥有「购物女神」的称号，是中国最具影响力的时尚自媒体之一。她在微博上拥有超过300万粉丝，微信上拥有超过45...
 
     
