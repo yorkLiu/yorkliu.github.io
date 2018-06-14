@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 17:39:20
+date: 2018-06-14 17:40:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -121,6 +121,10 @@ categories: IT NEWS
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
  ## [8小时！学会用Python完成安全测试的信息收集](http://www.51cto.com/art/201806/576059.htm)
  > 8小时！学会用Python完成安全测试的信息收集
+ ## [让网络更简单、智能、安全，迪普科技发布自安全网络解决方案](http://netsecurity.51cto.com/art/201806/576287.htm)
+ > 2018年6月13日，杭州迪普科技股份有限公司在北京举办了迪普科技“大道智简铸网唯安”自安全网络解决方案发
+ ## [TensorFlow的动态图工具Eager怎么用？这是一篇极简教程](http://zhuanlan.51cto.com/art/201806/576289.htm)
+ > 去年11月，Google Brain 团队发布了Eager Execution，一个由运行定义的新接口，为TensorFlow这一最为流行的
  ## [2018世界杯即将开幕 | 你有一份安全观球指南待领取](http://netsecurity.51cto.com/art/201806/576286.htm)
  > 网络开始普及之后，世界杯这种全球性活动吸引了越来越多的关注。但是，每一场比赛除了是球迷狂欢的大 party
  ## [物联网预测性维护为制造业带来五大好处](http://iot.51cto.com/art/201806/576272.htm)
@@ -137,10 +141,6 @@ categories: IT NEWS
  > 数据库的存储引擎是数据库的底层软件组件，数据库管理系统使用数据库引擎进行增删查改的操作。mysql的核心
  ## [MySQL现已正式支持文档存储](http://database.51cto.com/art/201806/576258.htm)
  > Oracle 已经发布了他们的开源关系数据库管理系统 MySQL 8。这个版本引入了许多改进，最受关注的可能是基于
- ## [亚信科技中国软交会斩获多项大奖](http://www.51cto.com/art/201806/576256.htm)
- > 亚信科技凭借综合实力获得最具影响力企业奖，亚信科技机器学习平台荣获最具竞争力产品奖，并在同期举行的20
- ## [区块链如何更好地改进云计算解决方案](http://blockchain.51cto.com/art/201806/576253.htm)
- > 目前区块链在提供运行大数据应用程序所需的计算能力方面，还远远不能取代云计算。但这并不意味着这项技术无
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
