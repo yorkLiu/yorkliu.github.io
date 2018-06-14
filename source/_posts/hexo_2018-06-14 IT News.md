@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:17:29
+date: 2018-06-14 10:19:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,8 +67,6 @@ categories: IT NEWS
  > 背景 应曾老师要求 来写一篇神奇的403…… 分享会结束后 某曾老师高兴地说道：“试用出bug了……测试【^^！】说你修改了profile“ 先来看一下现象！ 请求返回403~！ 问题 /kzf6/maintain/getNoFinishMaintainList.do?idCar=406059193
  ## [apiDoc构建源代码注释的接口文档](https://my.oschina.net/wuweixiang/blog/1829384)
  > apiDoc官网：http://apidocjs.com/ 入门 前言 本文档中的所有示例都使用Javadoc-Style（可用于C＃，Go，Dart，Java，JavaScript，PHP，TypeScript和所有其他支持Javadoc的语言）： /** * This is a comment.
- ## [Guava 源码分析（Cache 原理）](https://my.oschina.net/crossoverjie/blog/1829337)
- > !\[1.jpeg\](https://i.loli.net/2018/06/12/5b1fea79e07cb.jpeg)  前言 Google 出的 \[Guava\](https://github.com/google/guava) 是 Java 核心增强的库，应用非常广泛。 我平时用的也挺频繁，这
  ## [Montage GTD 1.1.0 发布，支持社交账号登录和任务订阅](https://www.oschina.net/news/97064/montage-gtd-1-1-0-released)
  > Montage GTD 发布 1.1.0 版本，一个基于 Laravel 集 RSS 阅读、思维导图、番茄工作法于一体的 GTD 应用。 更新内容： 社交账号登录支持： 支持微博、GitHub账号登录 支持ics日历订阅： （使用手机safari等浏览器复制打开既可以自动订阅） 新增个人日历订阅支持
  ## [脚本语言不行？JavaScript 重写 Office 365 已进入尾声](https://www.oschina.net/news/97060/office-365-is-rewriting-with-javascript)
@@ -190,36 +188,8 @@ categories: IT NEWS
  ## [爱奇艺缺席优酷拿下世界杯 一场阿里系All-in营销战](http://www.lanjingtmt.com/news/detail/35757.shtml)
  > 对优酷而言，想要发力体育，最大问题在于缺乏有号召力头部IP内容，但阿里体育成立近3年，一直在版权大战外围观战，优酷是否有决心和弹药加入新一轮的赛事版权大战未可知。
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵](https://blog.csdn.net/baidu_26408419/article/details/80678211)
- > matlab版本POSIT算法来计算三维以及二维人脸模型的映射透视投影矩阵
- ## [python的中文文本挖掘库snownlp进行购物评论文本情感分析实例](https://blog.csdn.net/hellozhxy/article/details/80678263)
- > python的中文文本挖掘库snownlp进行购物评论文本情感分析实例
- ## [什么BIM模型精度](https://blog.csdn.net/jxzx1007/article/details/80678335)
- > 什么BIM模型精度
- ## [Softmax回归函数](https://blog.csdn.net/laobai1015/article/details/80678338)
- > Softmax回归函数
- ## [【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记](https://blog.csdn.net/weixin_42395916/article/details/80678464)
- > 【Machine Learning@Andrew Ng, Coursera】机器学习Week1 单变量线性回归笔记
- ## [【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合](https://blog.csdn.net/weixin_41770169/article/details/80678471)
- > 【机器学习课程-华盛顿大学】：3 分类 3.4 决策树过拟合
- ## [高手如何做数据分析？这11招是你应该具备的技能](https://blog.csdn.net/qq_42154484/article/details/80678481)
- > 高手如何做数据分析？这11招是你应该具备的技能
- ## [端午快到了！去哪里最好玩？人最少？提前用Python分析一波！](https://blog.csdn.net/qq_42156420/article/details/80678483)
- > 端午快到了！去哪里最好玩？人最少？提前用Python分析一波！
- ## [网易北京研发中心-网易传媒部门深度学习算法实习生面试总结](https://blog.csdn.net/program_developer/article/details/80678551)
- > 网易北京研发中心-网易传媒部门深度学习算法实习生面试总结
- ## [入行机器学习算法，其实就是顺应时代发展](https://blog.csdn.net/korea1121/article/details/80678647)
- > 入行机器学习算法，其实就是顺应时代发展
- ## [小白上手深度学习，就等着哭吧](https://blog.csdn.net/korea1121/article/details/80678704)
- > 小白上手深度学习，就等着哭吧
- ## [官网实例详解4.2（antirectifier.py）-keras学习笔记四](https://blog.csdn.net/wyx100/article/details/80678735)
- > 官网实例详解4.2（antirectifier.py）-keras学习笔记四
- ## [PCA故障检测步骤](https://blog.csdn.net/sp353846548/article/details/80678740)
- > PCA故障检测步骤
- ## [TensorFlow技术内幕（七）：模型优化之XLA（上）](https://blog.csdn.net/gaofeipaopaotang/article/details/80679100)
- > TensorFlow技术内幕（七）：模型优化之XLA（上）
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [Axure示例：需求文档—阿里钉钉的消息模块](http://www.woshipm.com/rp/1059947.html)
  > 笔者为产品新人，这篇文章是笔者在看了产品相关视频后的实战联系，通过这篇文章，向大家分享我的学习成果，希望可以获得宝贵意见，一起来共同学习。为什么选择钉钉的...
