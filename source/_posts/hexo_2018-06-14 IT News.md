@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 12:35:54
+date: 2018-06-14 12:36:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -143,6 +143,34 @@ categories: IT NEWS
  > 物联网的发展离不开区块链技术，两者相辅相成。
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [SpringBoot集成Redis实现缓存处理(Spring AOP技术)](https://blog.csdn.net/u014427391/article/details/78799623)
+ > SpringBoot集成Redis实现缓存处理(Spring AOP技术)
+ ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
+ > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [React Native 电商项目实战——1.创建项目](https://blog.csdn.net/yulianlin/article/details/80670139)
+ > React Native 电商项目实战——1.创建项目
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [js原生创建模拟事件和自定义事件的方法](https://blog.csdn.net/shadow_zed/article/details/80666526)
+ > js原生创建模拟事件和自定义事件的方法
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [10个web开发好用框架](https://blog.csdn.net/lmseo5hy/article/details/80667062)
+ > 10个web开发好用框架
+ ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
+ > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [“机海战术”已死！后智能手机时代靠什么才能赢？](https://blog.csdn.net/csdnnews/article/details/80683330)
@@ -229,10 +257,6 @@ categories: IT NEWS
  > 借势营销必须要按照公关的套路出牌！大叔今天就给大家补个课，提供一些“以小博大”的借势营销策略。enjoy~北京时间6月14日23点，也就是今天晚上，2018俄罗斯世界杯即将...
  ## [连日活 10 亿的微信打破圈层壁都难，拼多多怎么做到的？](http://www.woshipm.com/it/1060090.html)
  > 在微信拼单谁都能模仿，但供应链这个核心壁垒并不是谁都能建立起来。作者：周天来源：周天财经（ID：techfinsight）穿行在中国蒜乡——河南中牟县的村镇道路上，我...
- ## [大部分公司的运营体系，烂如手工作坊](http://www.chanpin100.com/article/106956)
- > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
- ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
- > 【小百摘要】教你打出你的增长策略流。
  ## [如何解决晋升后的困惑？这里有5个方法](http://www.pmtoo.com/article/48134.html)
  > 当你刚升职的时候，产生困惑是很正常的事情，那面对这些困惑的时候，我们要如何处理呢？文中提供了五个方法，一起来看看~...
  ## [新4C：低成本引爆社群的秘籍](http://www.pmtoo.com/article/48123.html)
