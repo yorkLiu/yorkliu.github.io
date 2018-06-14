@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 10:33:17
+date: 2018-06-14 10:34:39
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -73,7 +73,7 @@ categories: IT NEWS
  > 微软技术项目经理（Technical Program Manager ，TPM）、Webpack 核心团队成员 Sean Thomas Larkin  发 Twitter 透露了 Office 365 正在用 JavaScript 重写的消息。 这个消息源于一次简短的编程语言口水之争。一个备注 C+
  ## [如何像扎克伯格一样实际编码造一个 Javis，做钢铁侠？](https://www.oschina.net/event/2279616?origin=zhzx)
  > 重点介绍任务型对话机器人的实现方案，并结合一个实际案例，介绍如何利用可视化编辑工具，简便地创建一个任务型对话机器人并集成到自己的业务系统或产品中。
- ## [微软 6 月 Patch Tuesday 修复影响所有 Windows 的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
+ ## [微软6月Patch Tuesday修复影响所有Windows的漏洞](https://www.oschina.net/news/97058/microsoft-patch-tuesday-updates-for-1806)
  > 微软发布了 6 月 Patch Tuesday 的更新版本，解决了 50 个漏洞，其中有 11 个关键的远程代码执行漏洞和 39 个被定级为“重要”的漏洞。 据介绍，这些关键问题的影响涉及到 Edge 和 IE 浏览器。在发布修补程序前，除了脚本引擎中的 CVE-2018-8267 漏洞已经被利用并
  ## [Google 禁止从第三方网站安装 Chrome 扩展程序](https://www.oschina.net/news/97057/chrome-to-ban-inline-installation-of-extension)
  > 谷歌宣布将废除 Chrome 扩展的内联安装方式（inline installation），这将使用户无法从第三方网站安装 Chrome 扩展程序。 Google 一直试图改进 Chrome 浏览器扩展的安装体验，一般用户可以直接从 Google 网上应用商店安装所需 Chrome 扩展，而有些开发
@@ -107,6 +107,22 @@ categories: IT NEWS
  > Next.js 6.0.4-canary.6 已发布，更新内容如下： Check if the incoming header is set before applying to the response: 2a1075c Next.js 是一个用于在服务端渲染 React 应用程序的简单框架。 下
  ## [CodeMaid 10.5.119 发布，开源 Visual Studio 扩展](https://www.oschina.net/news/97042/codemaid-10-5-119-released)
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
+ ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
+ > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
+ ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
+ > 如何解决WordPress中的502 Bad Gateway错误？
+ ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
+ > 码农福音：一个专门开发高性能大数据代码的系统「开源了」
+ ## [外媒速递：云数据库时代终于全面来临](http://zhuanlan.51cto.com/art/201806/576191.htm)
+ > 外媒速递：云数据库时代终于全面来临
+ ## [走到今天的iOS和Android 系统，还需要再争个你死我活吗？](http://mobile.51cto.com/iphone-576136.htm)
+ > 走到今天的iOS和Android 系统，还需要再争个你死我活吗？
+ ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
+ > 魅族张兴业谈实践：利用Weex技术做魅族小程序
+ ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
+ > 【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局
+ ## [【有奖话题讨论】云时代下，企业IT运维如何应势而变？](http://news.51cto.com/art/201806/576105.htm)
+ > 【有奖话题讨论】云时代下，企业IT运维如何应势而变？
  ## [家居新零售，一场以消费体验为核心的浩大变革正破风而来](http://www.cioage.com/art/201806/576209.htm)
  > 家居新零售门店遍地开花，其最终的目的还是在于让消费者获得新体验，在新零售风口下，家居行业即将掀起从单
  ## [大公司程序员与小公司程序员的区别](http://developer.51cto.com/art/201806/576207.htm)
