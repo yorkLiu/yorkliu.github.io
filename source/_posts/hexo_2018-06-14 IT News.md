@@ -1,7 +1,7 @@
 ---
 title: 2018-06-14 IT News
 copyright: true
-date: 2018-06-14 09:00:33
+date: 2018-06-14 09:01:34
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,6 +62,8 @@ categories: IT NEWS
  > CodeMaid 是一个开源的 Visual Studio 扩展， 用来清理和简化你的 C, C++, F, VB, PHP, PowerShell, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript 和TypeScript 的代码以
  ## [IntelliJ IDEA 2018.1.5 正式发布，错误修复和改进](https://www.oschina.net/news/97041/intellij-idea-2018-1-5-released)
  > IntelliJ IDEA 2018.1.5 已正式发布。本次更新修复了几处回归错误，以及各种 bug 修复，点此查看本次更新的所有修复内容。 值得关注的改进 在使用/取消导航弹出窗口/菜单后，IDE 不会失去焦点 IDEA-191839. 导航到类(Сtrl+N /cmd+O)这个功能现在可以正常
+ ## [如何解决WordPress中的502 Bad Gateway错误？](http://developer.51cto.com/art/201806/576162.htm)
+ > 如何解决WordPress中的502 Bad Gateway错误？
  ## [魅族张兴业谈实践：利用Weex技术做魅族小程序](http://news.51cto.com/art/201806/576117.htm)
  > 魅族张兴业谈实践：利用Weex技术做魅族小程序
  ## [【WOT2018】如何借助AR提升企业竞争力？三位大咖教你轻松布局](http://developer.51cto.com/art/201806/576107.htm)
@@ -76,8 +78,12 @@ categories: IT NEWS
  > 七款适用于企业的开源 VPN 工具
  ## [荷兰央行：区块链目前无法满足金融基础设施需求](http://blockchain.51cto.com/art/201806/576042.htm)
  > 荷兰央行：区块链目前无法满足金融基础设施需求
- ## [Python爬取历年高考分数线，帮你预测2018年高考分数线](http://developer.51cto.com/art/201806/576084.htm)
- > Python爬取历年高考分数线，帮你预测2018年高考分数线
+ ## [码农福音：一个专门开发高性能大数据代码的系统「开源了」](http://news.51cto.com/art/201806/576197.htm)
+ > 赖斯大学的科研团队将在本周的 SIGMOD 数据管理国际大会上推介 PlinyCompute。
+ ## [为什么要实现存储控制器国产化？](http://stor.51cto.com/art/201806/576196.htm)
+ > 我们一直在强调存储产业的重要性，但是作为存储的核心技术之一，存储控制器的作用正与日俱增，要实现存储产
+ ## [NVMe与SATA的存储技术比较](http://stor.51cto.com/art/201806/576195.htm)
+ > 闪存存储确实可以像其名称一样达到快速存储的要求，但其速度总是有一定的提升空间，特别是在数据中心。
  ## [如何评估和选择IoT平台？](http://iot.51cto.com/art/201806/576193.htm)
  > 企业可以持续专注于自身 IoT 平台的基本任务和功能，从而摆脱噪音的干扰。用一种条理分明的方法来梳理哪些
  ## [物联网的“小媳妇”，就该被冷落么？](http://iot.51cto.com/art/201806/576192.htm)
