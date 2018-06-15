@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:08:29
+date: 2018-06-15 08:09:35
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,6 +14,10 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
+ ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
+ > Mozilla 2018 年的 all hands 会议正在旧金山举行，而近日其官网上的一则演讲摘要透露了 Mozilla 正在讨论研发一款语音网页浏览器的消息。 信息显示，演讲者 Tamara Hills 将分享主题为“Technical Stack Requirements for a Voic
+ ## [刺痛程序员灵魂的问与答：你见过半个女架构师吗？](https://www.oschina.net/question/2720166_2281581)
+ > 我是一个做Java后台的女生，后期想要做架构师，但是女生在这个行业可以长久的走下去吗？我看的大牛差不多都是男生，可能是我见识太少，就想问问大家，女生在这个行业大概可以做多久开发，转架构的话，哪些公司可以接受一个女架构师吗？
  ## [Intel 披露新型 Spectre 漏洞变体：Lazy FP 状态还原](https://www.oschina.net/news/97094/lazy-fp-state-restore-vulnerability)
  > Intel 在官网上公布了一个 Spectre 漏洞的新变体：Lazy FP 状态还原（Lazy FP state restore），该漏洞被定级为“中等”，攻击者同样可以以推断数据的方式使用户信息泄露。 操作系统一旦在上下文切换时使用了 CPU 的 Lazy FP 功能进行系统状态保存与还原，攻击
  ## [深度分析100多个优秀开源项目后，我们发现一些特征！](https://blog.gitee.com/2018/06/13/pro_depth_analysis/)
@@ -31,7 +35,7 @@ categories: IT NEWS
  ## [OSChina 周五乱弹 —— 如何向妹子解释越位](https://my.oschina.net/xxiaobian/blog/1830638)
  > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
  ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
- > Visual Studio Code 1.24.1 已发布，该版本主要是 1.24 中的一些问题，详情可前往 issues 查看。 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉入自
+ > Visual Studio Code 1.24.1 已发布，该版本主要是修复 1.24 中的一些问题，详情可前往 issues 查看。 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉
  ## [Mozilla 为 iOS 版 Firefox 12 浏览器引入全新生产力特性](https://www.oschina.net/news/97085/mozilla-firefox-12-for-ios-productivity-features)
  > Mozilla 宣布了面向苹果 iOS 移动平台的 Firefox 12 网络浏览器，为 iPad 和 iPhone 用户带来了一大票全新的生产力特性。 本次更新主打多任务和提升使用效率，比如下载文件以便后续离线阅读。所有离线下载都可以通过主菜单轻松访问到。Mozilla 在公告中写到：“当你需要离
  ## [自动化构建系统 CMake 3.11.4 发布，常规维护版本](https://www.oschina.net/news/97084/cmake-3-11-4-released)
@@ -50,8 +54,6 @@ categories: IT NEWS
  > OTP 20.3.8 已发布，OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器。 该版本对以下应用进行了更新： erts-9.3.3 snmp-5.2.11 以下应用均未做更新： - asn1-5.0.5- common_test-1.15.4- co
  ## [WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 发布](https://www.oschina.net/news/97077/mapbox-gl-js-v0-46-beta1-released)
  > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
- ## [Angular 6.1.0-beta.1 发布，Web 前端框架](https://www.oschina.net/news/97076/angular-6-1-0-beta1-released)
- > Angular 6.1.0-beta.1 已发布。主要更新内容如下： Bug 修复： animations: always render end-state styles for orphaned DOM nodes (24236) (dc4a3d0) bazel: Allow ng_module
  ## [WOT沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
  > WOT沈剑：58速运架构解耦与微服务实践
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
@@ -68,18 +70,6 @@ categories: IT NEWS
  > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
  ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [选择最佳DDoS解决方案（四）――混合防护措施](http://netsecurity.51cto.com/art/201806/576310.htm)
- > 本文是此系列文章的最后一篇，探讨了防御DDoS攻击的各种替代方法，以及如何为企业选择最佳的解决方案。
- ## [浅谈基于意图的网络（IBN）](http://network.51cto.com/art/201806/576309.htm)
- > 在园区网络中，有许多新兴趋势影响着未来网络建模的方式，这些趋势包括移动性、物联网(IoT)以及跨有线和无
- ## [选择最佳DDoS解决方案（三）――永远在线的云服务](http://netsecurity.51cto.com/art/201806/576308.htm)
- > 此系列文章深入介绍了不同的DDoS防护模型，以便帮助客户为特定用例选择最佳的防护措施。本文将介绍永远在线
- ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
- > 近日，哥伦比亚大学神经生物学与行为学博士 Grace Lindsay 在其博客上发文，通过问答的形式讨论了 CNN 和生
- ## [路由器长期不关，对网速有影响吗？还真有！](http://network.51cto.com/art/201806/576307.htm)
- > 路由器长时间连续工作，对它的寿命有影响吗?对网速有影响吗?　是的!路由器长时间不断电，的确会影响网速!但
- ## [搭建云存储，对比私有云和公有云的不同](http://cloud.51cto.com/art/201806/576306.htm)
- > 说起公共存储，很难不与后网络公司时代的选择性外包联系起来，但尽管如此，它还是具备着简单和固有的可用性
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
