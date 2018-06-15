@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:39:27
+date: 2018-06-15 10:39:46
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -210,6 +210,10 @@ categories: IT NEWS
  > 万万没想到，枯燥的“机器学习”还可以这样学！
  ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
  > 机器学习之梯度下降
+ ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
+ > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [PRD：倒推知乎APP产品需求文档](http://www.woshipm.com/pmd/1059547.html)
  > 产品需求文档和Axure是产品工作中很重要的两个点，也是新人入门的不错途径。通过对一款产品prd的书写，有助于增加自己的产品规范能力并提高自己使用Axure的能力。本文将...
