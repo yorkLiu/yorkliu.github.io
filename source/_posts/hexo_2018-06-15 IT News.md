@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:27:11
+date: 2018-06-15 09:26:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -54,6 +54,22 @@ categories: IT NEWS
  > OTP 20.3.8 已发布，OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器。 该版本对以下应用进行了更新： erts-9.3.3 snmp-5.2.11 以下应用均未做更新： - asn1-5.0.5- common_test-1.15.4- co
  ## [WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 发布](https://www.oschina.net/news/97077/mapbox-gl-js-v0-46-beta1-released)
  > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
+ ## [Facebook利用人工智能的六种方式，有些你可能想不到](http://ai.51cto.com/art/201806/576297.htm)
+ > Facebook利用人工智能的六种方式，有些你可能想不到
+ ## [外媒速递：十家值得关注的物联网初创企业](http://zhuanlan.51cto.com/art/201806/576313.htm)
+ > 外媒速递：十家值得关注的物联网初创企业
+ ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
+ > 卷积神经网络十五问：CNN与生物视觉系统的研究探索
+ ## [【WOT2018】沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
+ > 【WOT2018】沈剑：58速运架构解耦与微服务实践
+ ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
+ > 【WOT2018】孙玄：转转如何打造AI工程架构体系
+ ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
+ > 我用Python分析了4W场比赛，2018世界杯冠军竟然是……
+ ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
+ > 不空谈!轻松筹将区块链落地公益和互助行业
+ ## [【深度】十分钟读完人工智能的三生三世](http://ai.51cto.com/art/201806/576213.htm)
+ > 【深度】十分钟读完人工智能的三生三世
  ## [高通服务器芯片部门裁员：可能占该部门员工数量一半](http://news.51cto.com/art/201806/576317.htm)
  > 北京时间6月15日上午消息，高通数据中心芯片部门裁减约280名员工，原本高通投入重兵，大举进入服务器市场
  ## [NB-IoT在交通基础设施安全监测中的应用探析](http://iot.51cto.com/art/201806/576316.htm)
