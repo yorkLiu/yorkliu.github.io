@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 12:09:13
+date: 2018-06-15 12:55:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,86 +56,86 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [世界杯期间，请调整你的流量，15款app免流量40G](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=kGAnMJTI07P9ScIICpaKjjR00-OhuVwQC*dthxKE0GxyVB2gK85bk9qDL0AZNQK8WzmScdFhpI49ISbLg1i7xGXMR9tvtHX6g0pHDZxbnpFQVmdK2jUTG7INq7i-9Y4L&new=1)
- > 每届世界杯都会让你不眠不夜今年小编告诉你依旧如此时差仍然存在作息还得调整生活还得继续工作还得持续可是，今年不一样哟看看时间有限但你的流量畅快使用随时随地看随处随想回看赛事不怕晚就怕看不完电信19元王...
- ## [CESA 2018 进行时|相对而言，今年VR展台与产品均不多，但亮点也有](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=dJx0a2ej83NSl55jc8Kc5BwgPJxopLMX6z6xbo6W94zZHsosWvCgej7uGd2FTDKdLjQgcYRl4PaQeB3dFV08QofF9IBMxXC8UNZuGUOoZvmgI9GxBx46wgaFl9QxmgY9&new=1)
- > 昨日，为期三天的CES Asia 2018（第四届亚洲消费电子展）在上海新国际博览中心正式开幕。今年的亚洲CES展分成5大展馆（N1-N5），含人工智能、AR/VR、5G、机器人、移动互联、汽车技术、初创公司等展区，并汇集AI...
- ## [里程碑!首个“真”5G标准出炉，产业开启冲刺模式](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=eJZYNRsL6Ry*-F6YipfpyWuMrV119nKuUzFuiUmea8zHjry9*ppkIttjaPBJ1AhAijr3amlhydC-bqJz2YOqRg9Eu4aEaFyjZooIaXsJd48zI7pQ3ftMQ1uN3c5opICU&new=1)
- > 美国圣地亚哥时间6月13日，3GPP 5G NR标准SA(Standalone，独立组网)方案在3GPP第80次TSG RAN全会正式完成并发布，标志着首个真正完整意义的国际5G标准正式出炉。随着5G第一阶段全功能标准化工作的完成，产业进入
- ## [华为“吓人技术”的30年往事](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=bxI*l9BzFBya66E7tCJnyGi2M3zRVyUXTmAi4JnxSC3xEZRdW3I-mPwKh0GzUvQRTZeH9vhMStd8Cz5lr1O783GOQExNLewFvTmMSaWMInHhQd2fi-qRkJFVxOqil9pl&new=1)
- > 关键时刻，第一时间送达来源 / 周掌柜（ID：zhouzhanggui525）原文 / FT中文网欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻5月末，余承东微博引爆荣耀Play“很吓人的技术”，引发网友风起云涌般...
- ## [智能图像处理，让机器视觉及其应用更智能高效](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=ejExl5ggzjuI20796fYuougDgWPnvRgrQHwdI7D9*PNIKlSlO6mbfxExR-*UId05H-ckl1eN*B6GWbxF1gipYQ1cn-QnFs3vKmd1mced8h-eWDTh8NPREoNhGe71yYEd&new=1)
- > 机器视觉（Machine Vision）是人工智能领域中发展迅速的一个重要分支，目前正处于不断突破、走向成熟的阶段。一般认为机器视觉“是通过光学装置和非接触传感器自动地接受和处理一个真实场景的图像，通过分析...
- ## [一个家，最重要的地方其实是这里](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=CdOrYAdFZmP-5DCpu3o7ufik3kesmf3HvDunveM-Af7-k-Nc1oLAtybjv3oYYVgzWYzs4*BWqFRLkzvvWj*xr2qj8gHg0wSOX-Zvj2eu8iOMB1t9kQbmnAlT2B2T2G4J&new=1)
- > 对于一个即将把自己最重要的人和物都搬进新房的人来说，一把好的门锁才是最能够给你带来安全感的东西。家给你归属感，门锁给你安全感。作为家中一夫当关的门锁，正朝着更便捷、安全的智能门锁进化。简单来说，智...
- ## [喜讯，国际标准5G第一版出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=67kmdgGUacg2IUPu3MF9ipzJ7wieos1HBXzOd7YhP2L8KkseSuFbkygZJtSE2*ag1VDcwnLm1Ofj39ZniKL5ISJaQn5Etx059r8fd8Ex0SUeqs7AxKM6*fiMzRuNyikU&new=1)
- > ▲ 首图来源：华为官网北京时间2018年6月14日11:18，3GPP全会（TSG80）批准了第五代移动通信技术标准（5G NR）独立组网功能冻结，也就是大家熟知的5G。加上去年12月完成的非独立组网标准已经冻结，这意味着，5G...
- ## [25秒，看清闪存的一辈子](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=yqxVjuh2lFi3ooY-pV-LlpYiZdnuu9UlT3RXuNBjChVfct5lnyEOIWZ*bGkoDCK1ev6OmvmcMARzi4B6GgJ35qFxFCbFORD5KQCuL5Eg1wFncxuJfhhsFfPZus8Y5sSD&new=1)
- > Turn it on !默默拉开抽屉，打开尘封已久的小铁盒，一只U盘，几只旧手机...青春，原来是满满的“高！科！技！”未来，还有什么值得期待？2018.7.20-21 GSS大会 武汉见！这个夏天注定不一样 ...与“磁盘”的存储...
- ## [\[重磅\]首个国际5G标准正式出炉，产业进入全面冲刺](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=blYCm4KC-34KwZn0QpQJ**aOGtR5Mj29ANZvHnvIWYuJaCB00SORiQUrllfhzWoo2X-XiYjk2g7p1XdcLfQnJt-tSCy5MRdA-MzL4Vj-TG*RtJ6RIAmtxs59reJpjiSd&new=1)
- > “ 当地时间2018年6月13日20:18（北京时间2018年6月14日11:18），3GPP全会（TSG80）批准了第五代移动通信技术标准（5G NR）独立组网功能冻结。”加之去年12月完成的非独立组网NR标准，5G 已经完成第一阶段全
- ## [东芝TMC将目标锁定数据中心存储市场，将在美国设立3个研发中心](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=2yCSkq6LHBRg5Hs0GVNicq4fJdd4EPgu2xnFjj7gGQMRLNC5lA5t-5jokNOXF9gOxJh-Tkl3UwVwiZjif7av*mDDNbhOt3ehPxA6vNAa-NhWK-2wQCGmeDerb8V4ENy*&new=1)
- > 据日刊工业新闻报导，东芝存储器(TMC)独立后，决定在美国设立研发据点，锁定的商机是数据中心与服务器的NAND存储器需求。目前东芝存储器的规划，是以美国加州佛森市(Folsom，California)为中心，设立名为Storage...
- ## [CES Asia 2018亮点大合集，家电行业风向标这里看](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=c*X0ub1j0t1jz9XAMT0wI-FArgRFzjf3h-3Om2MLHG9XGLq0uCtZqlluB-S1Gm-0TEJCRtQOZsB-iNDRM3q7auzHF5rzV*1tWbyY-lpXHmOBEozNeVwQiUKVkB5TnXut&new=1)
- > 6月13日（昨日），CES Asia 在上海新国展中心拉开帷幕。作为亚洲最大的消费电子展，每年的CES Asia都吸引了众多厂商和普通观众。今年是亚洲消费电子展在中国上海举办的第四个年头，展会的规模也达到了空前的效果...
- ## [华为新Logo惊现江湖，民间高手VS设计大神，你挺谁?](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=L0qwgxccw05i5b*l4ERKwrk47sGa2l4Kv1Pvt7GvA78byWOHMFvCOIGHZmMLnGioZz4F*XJvp898Cv-nx3t8SacDQqQ-zQPBchvBTg14g9RPmlRnOQOhRVBPp8KsPn1G&new=1)
- > 华为出了个新Logo卖个关子，先露一半一看这个图形就不简单小编在园区随机采访了一些人“你从这张图里看到了什么？”没料，炸出了一群民间高手答案可谓五花八门有些人天马行空趴体达人说：化妆舞会的眼罩程序猿GG...
- ## [图灵奖演讲2018，59页PPT迎接芯片体系结构的新黄金时代](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=IQuCTXimtUTsW08czf6LDd9xce18h29zPPO4SCIYVl7Q2OWJDXM4i84Ck5hRc9fXk-1yBnNy6BeGvc4lvN4BhOCn-z6Pgygk--6HmpKBdWPc6cZbASRIPH*zh4HaXzkX&new=1)
- > 来源： 计算所控制计算实验室    6月4日，在今年的国际计算机体系结构大会ISCA2018的图灵奖演讲会上，ACM/IEEE邀请了2017年图灵奖获得者John Hennessy与David Patterson联合进行了一场关于未来计算机
- ## [城市公交新装一种移动式设备：搭载有传感器 实时监测道路空气质量](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=LynwOXX78HUeVX*bL2b7klglCYEHzImgVhxtem0A8dn1GFqYjOFodLNgUJZncV71sz4VESP*vexUyagBoEsfHDlCNLeM3SCPIbw1OcAm4zuJtQy2n2L7PMPIhG2-QvVS&new=1)
- > 近日，在国内外与传感技术运用相关的诸多领域，有哪些最新的应用动态呢？来看看以下三则简讯。巡城马移动式空气监测设备，资料图1.佛山禅城50辆公交车将装移动式空气监测设备据媒体报道，6月底至7月初，佛山市禅...
- ## [里程碑：首个真正完整5G标准今天冻结，5G设备可以生产了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=DKghK*T8hARGf43-gx*II4C0iNIfZL4zZEHJcz1slyT-L7tj3N3*ES66Gam6xQemZbBI-eh-HSYwUx0lKSVQlza5GoLORIO-SiBvvXkc677k4AU35DpTT2hNEm3NW92A&new=1)
- > 【摘要】3GPP全会(TSG80)批准了第五代移动通信技术标准(5G NR)独立组网（SA）功能冻结。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：王欣本文来源：通信产业网（ccidcom）杂谈投稿邮箱：6312550
- ## [5G终于要来了!实测速度太惊人：4G手机将淘汰](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=wThnl7WjHOtVxJckD6E*EdOVhO0J1g84UPFlUhf3acYlb9NL6NvEfdlUtKTB50gdMrZxOPyU895OVLk3dMq8VL03g5hRR85xfZNPnbygcbVA75QAdgmkIXPMW-I8gthf&new=1)
- > 6月13日上午，在美国圣地亚哥3GPP 5G NR标准 SA（Standalone，独立组网）方案在3GPP第80次TSG RAN全会正式完成并发布，这标志着首个真正完整意义的国际5G标准正式出炉。据悉，中国企业大唐电信集团在5G首个国际...
- ## [意外!老司机MIPS竟被AI芯片初创公司Wave收购了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=*DZ*HOiS3PsfrApdN6B1XbwfxAOiJjdyxHeYx2kIWO2dLqQke*AVm2GyfauZxvNbVCu7hkscaBtk9haWS*4PCcmVQHjODDvQIX3QqWsTMoWUAbCG57A*xJ6Ef9WNoYPK&new=1)
- > 去年9月，Imagination Technologies宣布同意接受具有中国背景的私募基金Canyon Bridge Capital Partners的收购要约，交易总价约为5.5亿英镑。而作为交易的一部分，Imagination将旗下的
- ## [阿里王坚：像规划垃圾处理一样规划数据处理，城市会发生巨变](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=L7W5M7m4OtahJrZu*y-2edwrn1O7z3mokJK73Nn-J6PDvgj3fQcyco8PDduKHGd2vA9jA-f*j28kaxexw2VPOOhJs-t5rUIemo4BumTR*YyyjBlT-Z9ID2jCOxuBjDLz&new=1)
- > 阿里巴巴集团技术委员会主席王坚认为：1、城市是人类最了不起的发明，“智慧城市”不是城市的未来；2、城市大脑是支撑未来城市发展的基础设施；3、人的智能远远不能解决城市的复杂问题，必须借助机器智能。演讲/...
- ## [6月14日 太原安防展盛大开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=f7cI1U5YccPH-oOxFK7s965UFbz9A*R*zR-b6kbhn8iYwEAdZrzqipQ0So-hqdE3uyaTFoN8MpkpHeooR-JfP7I3ywtWQzmvmLYQ*8veDWY8L2dp6FOJa7H16Af*D4UN&new=1)
- > 6月14日，为期三天的2018中国（太原）第五届社会公共安全产品暨警用装备博览会（以下简称“太原安防展”）在中国（太原）煤炭交易中心盛大开幕。中国安防展览网作为本次展会合作媒体出席现场，为您带来直击报道...
- ## [硅谷老前辈 MIPS 第 4 次被收购，这次遇到真爱了?](http://mp.weixin.qq.com/s?src=11&timestamp=1529035207&ver=939&signature=4oBTxTHwCub02MORxmAfxz6G*1qd79LhV6icr5pdx0gXyHs01VN-Mm2oeJ5lJ5CWvicYNfhY53okJJRSCA4fraaR7SF3QdsfI53yjRpzeCZBhTE3kcdsval1OQ0BvvRB&new=1)
+ ## [运营商高层谁会担任铁塔总经理 中移动副总裁董昕在候选之列吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=n*6040YKiDBi5Opy8omczB-NzXxBI2FCY7ZceBsYQHlI4BIRj97jkxcdy6BFZ2e8go10at7IAg9*IRB6bL8mFJZNT-aF9788EA2kP1atcnUelcwmUJ63fG6eKVFuyWI7&new=1)
+ > 近日，中国铁塔上市一事闹得沸沸腾腾，而关于中国铁塔总经理的最佳人选一直没有敲定，引发了关于业界的诸多猜测。按照常理，中国联通董事长已经由佟吉禄担任，中国移动作为中国铁塔的最大股东，中国铁塔新任总经...
+ ## [5G独立组网标准正式冻结，但短期难以取代4G](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=6wRjrNxOyt3fSmdTBPcGCfhY1MJ*gMh-vwTyd4g9PLfHr6TENASI10uyI1iQBAeWGL6LshkMaSzw-ijXF1-7kugsxe6Y21XzCdjS1mcyYOXD885sdEvRuKwS8wm0Ic5p&new=1)
+ > 北京时间2018年6月14日，3GPP全会批准了第五代移动通信技术标准（5G NR）独立组网功能冻结。加之去年12月完成的非独立组网NR标准，5G已经完成第一阶段全功能标准化工作，进入了产业全面冲刺新阶段。5G标准发布是...
+ ## [硅谷老前辈 MIPS 第 4 次被收购，这次遇到真爱了?](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=4oBTxTHwCub02MORxmAfxz6G*1qd79LhV6icr5pdx0gXyHs01VN-Mm2oeJ5lJ5CWD9urFjpa7gcYzmwGemBsNmHCriUAi3zBpfOUIEAheFVJHTTQkTpYHBIZhXbgx0ea&new=1)
  > 据外媒报道，一家名叫 Wave Computing 人工智能芯片初创企业，刚刚收购了处理器业务的老前辈 —— MIPS Technologies 。Wave 成立于2010 年，芯片主要用于 AI 的训练和推理阶段。Wave旨在通过定制处理
- ## [有哪些好用免费的多人协同办公软件可推荐？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
- > 多人协同办公软件，我们团队目前在用的是钉钉、亿方云、teambition。钉钉主要用的是审批和报销，因为一直都在用，很习惯也很顺手了。亿方云在团队协作层面的使用体验很不错，使用之后，基本不再需要邮箱，文件沟通直...
- ## [知乎历史板块各领域都有哪些大神？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [华为新Logo惊现江湖，民间高手VS设计大神，你挺谁?](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=L0qwgxccw05i5b*l4ERKwrk47sGa2l4Kv1Pvt7GvA78byWOHMFvCOIGHZmMLnGioptKHYqm0gamPLON9N5eHSEwsvG-Vh*oLMNXA6a7OJSGumxaJ5orYGDbVLN17ePw-&new=1)
+ > 华为出了个新Logo卖个关子，先露一半一看这个图形就不简单小编在园区随机采访了一些人“你从这张图里看到了什么？”没料，炸出了一群民间高手答案可谓五花八门有些人天马行空趴体达人说：化妆舞会的眼罩程序猿GG...
+ ## [智能图像处理，让机器视觉及其应用更智能高效](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=ejExl5ggzjuI20796fYuougDgWPnvRgrQHwdI7D9*PNIKlSlO6mbfxExR-*UId05SH7zXE8WuT*AagV1zDJyvXNIn3Vr5-oNnZujYOqXzReCCMakW6-2oDLwiKDTaaEK&new=1)
+ > 机器视觉（Machine Vision）是人工智能领域中发展迅速的一个重要分支，目前正处于不断突破、走向成熟的阶段。一般认为机器视觉“是通过光学装置和非接触传感器自动地接受和处理一个真实场景的图像，通过分析...
+ ## [城市公交新装一种移动式设备：搭载有传感器 实时监测道路空气质量](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=LynwOXX78HUeVX*bL2b7klglCYEHzImgVhxtem0A8dn1GFqYjOFodLNgUJZncV71WAc275RU9v0EPFG8ug4A7wmXAITFSSxFrZB9hN3HQ7kRHIzw6Qs2pxt6D*owAPB9&new=1)
+ > 近日，在国内外与传感技术运用相关的诸多领域，有哪些最新的应用动态呢？来看看以下三则简讯。巡城马移动式空气监测设备，资料图1.佛山禅城50辆公交车将装移动式空气监测设备据媒体报道，6月底至7月初，佛山市禅...
+ ## [中国联通正推动50G PON波长计划等研究](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=KDGE7BHq5bayUWpsjj0CydqDQLCgWnAK6qEqlSV5Z8BbveNRGcIOdMEhhN2L-6ZMoCAdFZ11Y7-kSRJgT7GcA-4XNMs1h3vFIVUOcusHRa*vzp00mz4ZtG6cZyStTdTo&new=1)
+ > 在“2018中国光网络研讨会”上，谈及50G PON建设部署总体设想，中国联通网络技术研究院网络技术研究部光接入网室高级工程师贾武表示，中国联通积极支持产业界加快50G PON相关器件、系统实现技术研究，将在规...
+ ## [全球版 Azure 为企业启动智能出海战略布局](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=3XLg6DjVPV9KCxecW3Xfe9nYbcTzZC6ddJ2QLZpCnMRYCHCSJhCW48zNL9ErEpe6NyZefy8WSUwU65RlinB33kZMYMnSeEg3WiVh-EVKOfeU6Vf90pO6kMgfJjeUjv4R&new=1)
+ > 企业出海是潮流，动力助推是关键，稳健发展是基本。企业“追赶”最新科技成果，在客观上推动了创新科技走出国门，也让企业加快了创新的步伐。愿景为好，但是在创新成果不断发展的今天，如何在大趋势下中寻找明晰...
+ ## [图灵奖演讲2018，59页PPT迎接芯片体系结构的新黄金时代](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=IQuCTXimtUTsW08czf6LDd9xce18h29zPPO4SCIYVl7Q2OWJDXM4i84Ck5hRc9fXdHoh5RKZlYw701MYIjKP0YLSCLaj-or37wMOhRk7Xhy8pTuuG76b3JbJEQkjaUkG&new=1)
+ > 来源： 计算所控制计算实验室    6月4日，在今年的国际计算机体系结构大会ISCA2018的图灵奖演讲会上，ACM/IEEE邀请了2017年图灵奖获得者John Hennessy与David Patterson联合进行了一场关于未来计算机
+ ## [华为“吓人技术”的30年往事](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=bxI*l9BzFBya66E7tCJnyGi2M3zRVyUXTmAi4JnxSC3xEZRdW3I-mPwKh0GzUvQRrrGA*e6G7rjzDz0XzcK8FstklcfhUyWuz28Kc3G-1MLmqLLe567X5npZjBkf6ad7&new=1)
+ > 关键时刻，第一时间送达来源 / 周掌柜（ID：zhouzhanggui525）原文 / FT中文网欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻5月末，余承东微博引爆荣耀Play“很吓人的技术”，引发网友风起云涌般...
+ ## [5G时代来临后，自动驾驶汽车能落地平民化吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=Bc6mblRkkD1drta6e4MJqNy6sNFl01VeyiwfBwKAyL5XwSGVYbYSevbE4fzWQ*DvOkXfAUrMG1tUudoiNmVwWr-VjG06oQHQKYLk7Fjhv2Z3lEKsEpgI98LpfxOOutGZ&new=1)
+ > 全文共1505字，阅读大约需要3分钟撰文 | 唐兵责编 | 张宇11年前，苹果科技公司发布第一代IPhone手机，取消按键键盘，将人类带入了智能手机时代。如今各类智能手机遍布全世界，只有少数的老年机保留了键盘，智能...
+ ## [25秒，看清闪存的一辈子](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=yqxVjuh2lFi3ooY-pV-LlpYiZdnuu9UlT3RXuNBjChVfct5lnyEOIWZ*bGkoDCK1DsxvaY5CV5M8oTR0-VzkGAkYZE1M*nXBlsMSN*crPB67THalk0tTPfmSQb3myyf-&new=1)
+ > Turn it on !默默拉开抽屉，打开尘封已久的小铁盒，一只U盘，几只旧手机...青春，原来是满满的“高！科！技！”未来，还有什么值得期待？2018.7.20-21 GSS大会 武汉见！这个夏天注定不一样 ...与“磁盘”的存储...
+ ## [\[重磅\]首个国际5G标准正式出炉，产业进入全面冲刺](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=blYCm4KC-34KwZn0QpQJ**aOGtR5Mj29ANZvHnvIWYuJaCB00SORiQUrllfhzWooZSvsSh7f2WjTmD5aIRKJNG56LBME-HhbrgrSbsLM0uXeLTKimxvt3Qlc00aNP4RF&new=1)
+ > “ 当地时间2018年6月13日20:18（北京时间2018年6月14日11:18），3GPP全会（TSG80）批准了第五代移动通信技术标准（5G NR）独立组网功能冻结。”加之去年12月完成的非独立组网NR标准，5G 已经完成第一阶段全
+ ## [OptiNet2018|中国光网络研讨会首日会议圆满举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=qZmClxx1hbOCZlpS5NARJNOI7-I-veKuHw1WVLYwLuqrM0eD8Qksy6C-GZWB3pL0fhZuPHN4G1OKCMvvLVTlIWNKUf2EgFlF*2mlQqLbpi87PEXfUhs8D116bayO59Wa&new=1)
+ > 摘要2018年6月13~14日，第18届中国光网络研讨会(Optinet China)在中国·北京粤财JW万豪酒店举行，本届会议由中国通信学会光通信专业委员会和工信部通信科技委传输与接入专家咨询组联合主办，由北京讯息展信息技...
+ ## [意外!老司机MIPS竟被AI芯片初创公司Wave收购了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=*DZ*HOiS3PsfrApdN6B1XbwfxAOiJjdyxHeYx2kIWO2dLqQke*AVm2GyfauZxvNb-LvRnJEDRjSuky1NjauJUYh-qJ8DSd961HpFGvXaAzcC0AdVvZx3Vbk1apoyYrgv&new=1)
+ > 去年9月，Imagination Technologies宣布同意接受具有中国背景的私募基金Canyon Bridge Capital Partners的收购要约，交易总价约为5.5亿英镑。而作为交易的一部分，Imagination将旗下的
+ ## [6月14日 太原安防展盛大开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=f7cI1U5YccPH-oOxFK7s965UFbz9A*R*zR-b6kbhn8iYwEAdZrzqipQ0So-hqdE3e*bRopfWiFGZ4vgrjUDd1dizx0zRg8UeqqXRhmKgPbdtHVCSyzfRW9au2HlbBkbe&new=1)
+ > 6月14日，为期三天的2018中国（太原）第五届社会公共安全产品暨警用装备博览会（以下简称“太原安防展”）在中国（太原）煤炭交易中心盛大开幕。中国安防展览网作为本次展会合作媒体出席现场，为您带来直击报道...
+ ## [东芝TMC将目标锁定数据中心存储市场，将在美国设立3个研发中心](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=2yCSkq6LHBRg5Hs0GVNicq4fJdd4EPgu2xnFjj7gGQMRLNC5lA5t-5jokNOXF9gO-lSjo5VJ0LjclXpW5vxDaByW1X2cncgUne*SZD5ztbaSMmw1TDiNlMbm*r4SyCgF&new=1)
+ > 据日刊工业新闻报导，东芝存储器(TMC)独立后，决定在美国设立研发据点，锁定的商机是数据中心与服务器的NAND存储器需求。目前东芝存储器的规划，是以美国加州佛森市(Folsom，California)为中心，设立名为Storage...
+ ## [一个家，最重要的地方其实是这里](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=CdOrYAdFZmP-5DCpu3o7ufik3kesmf3HvDunveM-Af7-k-Nc1oLAtybjv3oYYVgzEmKo6COPEQ207NKwt7b-dbVcX-cz6I5X0x-tWkDa9FaQJt6uYe2BfO*0ZBAKQs2u&new=1)
+ > 对于一个即将把自己最重要的人和物都搬进新房的人来说，一把好的门锁才是最能够给你带来安全感的东西。家给你归属感，门锁给你安全感。作为家中一夫当关的门锁，正朝着更便捷、安全的智能门锁进化。简单来说，智...
+ ## [Windows 7 终究活成了 XP 的样子](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=8wIod3ud3GOxSxts-u*6Tul6aWNO4FK93sp-XZXh07uTm3H7qLoH0LP9MjF7Hq*GF*Ywe2DXD-RloO3WhIHgKks-ZK9JSI37DFN5LIHEtPbB2x9-m*Yyo7QB8I-J0hGi&new=1)
+ > 关键时刻，第一时间送达！迄今为止，微软的 Windows 操作系统已经入驻 PC 市场近 33 个年头，期间经历了无数的辉煌与坎坷。在发布的这么多款操作系统中，你对哪个版本印象最为深刻？就笔者自身而言，Windows XP ...
+ ## [里程碑!首个“真”5G标准出炉，产业开启冲刺模式](http://mp.weixin.qq.com/s?src=11&timestamp=1529037007&ver=939&signature=eJZYNRsL6Ry*-F6YipfpyWuMrV119nKuUzFuiUmea8zHjry9*ppkIttjaPBJ1AhA9W5xcBO3KHCIMiuhKmMceCEQ*DMW8-Ymg-5SzUbxz2rdhHsE6GZhuOjNSJyr12T-&new=1)
+ > 美国圣地亚哥时间6月13日，3GPP 5G NR标准SA(Standalone，独立组网)方案在3GPP第80次TSG RAN全会正式完成并发布，标志着首个真正完整意义的国际5G标准正式出炉。随着5G第一阶段全功能标准化工作的完成，产业进入
+ ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
+ > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
+ ## [知乎历史板块各领域都有哪些大神？](https://www.zhihu.com/question/279993358)
  > 知乎的活跃用户里哪有多少真正的大神？问大神不如问问有什么好的文章，毕竟即使不是什么大神，只要在这个领域比我知识多就可以向他学习。但是许多知乎历史的所谓大v，包括个别题主列举的大神，虽然确实贡献过好的文章...
- ## [如何评价罗永浩6月13日专场直播？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [如何评价罗永浩6月13日专场直播？](https://www.zhihu.com/question/280673890)
  > 如果这场直播能多卖出去100台R1，那么就相当于日销量增加100%，总销量增加1%，换成苹果就是100万台，如果做一次直播就能多卖100万台iPhone，我相信库克愿意每天都做直播，你们不要乱黑。从6+64升级到8+128需要花费...
- ## [SEO中site语法网站首页不在第一名，有什么方法可以解决?](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [SEO中site语法网站首页不在第一名，有什么方法可以解决?](https://www.zhihu.com/question/280495934)
  > site网站首页不在第一的原因及解决方法1、内页权重高于首页这种情况在我们平时做SEO优化的时候最为常见，当内页权重高于首页的时候，site网站首页一般就不在第一了。这种情况不必担心，每天更新内页的时候给首页做...
- ## [各位道友以及各路大神们。我是不是真的扑街了?](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [各位道友以及各路大神们。我是不是真的扑街了?](https://www.zhihu.com/question/281027889)
  > 事先说，我没看书，就是看了简介。看到一个小家族“江家”……我相信，你的编辑肯定心肝一颤，在后台点了不予签约。相信在知乎，江家会引发更多联想。还看到“本文轻虐，非小白文”字样，现在的读者经过无数自称非小...
- ## [网速慢竟是因为黑宽带，如何避免被黑?](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [网速慢竟是因为黑宽带，如何避免被黑?](https://www.zhihu.com/question/277373954)
  > 谢邀。之前读书的时候也碰到过黑宽带的情况，价格那叫一个便宜，那时作为学生党当然毫不犹豫的掏腰包了。但是之后就后悔了，白天的网速那叫一个感人，到了半夜才能稍微好些，打客服也是一个劲的敷衍，投诉也没用，后...
- ## [（2018年）远距离传输大文件，1T左右文件，如何最快？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
- > 还是快递，顺丰24小时那个。
- ## [黄景瑜许魏洲是不是不止朋友关系？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633)
+ > 可不是么，两个人见面握一次手就够了，连握三次手是很神经病的行为。人家明明叫 three-way handshake，而不是 three handshakes。三步握手，是一次握手分三个步骤进行，而不是一共握三次手。握手和敬军礼一样，源自「...
+ ## [黄景瑜许魏洲是不是不止朋友关系？](https://www.zhihu.com/question/40910509)
  > 始于《红海行动》，陷于黄景瑜。很多人难以理解，为什么不能同台的两个人的cp依旧坚挺的存在着，鱼粥cp一直微博cp排行榜前十，长时间处于排行榜TOP3,TOP2，但是在鱼粥重大节日就会上升到TOP1，从2018年3月以...
- ## [如何评价罗永浩6月13日专场直播？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [如何评价罗永浩6月13日专场直播？](https://www.zhihu.com/question/280673890)
  > 如果这场直播能多卖出去100台R1，那么就相当于日销量增加100%，总销量增加1%，换成苹果就是100万台，如果做一次直播就能多卖100万台iPhone，我相信库克愿意每天都做直播，你们不要乱黑。从6+64升级到8+128需要花费...
- ## [EOS账户如何注册，相比投资域名，投资EOS账户有价值吗？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [EOS账户如何注册，相比投资域名，投资EOS账户有价值吗？](https://www.zhihu.com/question/280563825)
  > 1、如何注册看下文，更简单的注册办法，我更新后会放在这里2、可以在这里查询http://www.dappworld.com/api/v1/eos/account （页面有点糙，见笑）3、未来确定会开放交易EOS账号，就像是银行账户名，也像互联网的域...
- ## [如何评价苏享茂代理律师递交民事起诉书请求判令翟欣欣返还千万财产？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [如何评价苏享茂代理律师递交民事起诉书请求判令翟欣欣返还千万财产？](https://www.zhihu.com/question/274073410)
  > 这个案子如果是苏享茂一方败诉，将会成为比王宝强、马蓉离婚案更有影响力的里程碑，促使有钱的男人慎重对待婚姻，使那些妄图通过婚姻敲诈男方的劣质女性再也不能玩仙人跳【因为富人们的警惕性更高了，不好骗了】。如...
- ## [米粉怎么看待vivo NEX？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [米粉怎么看待vivo NEX？](https://www.zhihu.com/question/280803784)
  > “哇！NEX好帅啊！”“哇！这个简直酷爆了！”“哇！这真的是vivo的产品吗？”“哇！这个手机正面好震撼啊！”“什么？价格才4k？买买买！买爆！”“你听说了吗？vivo出了一款超级棒的手机。”“什么？vivo也用84...
- ## [如何看待鹿晗解说 2018 俄罗斯世界杯？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [如何看待鹿晗解说 2018 俄罗斯世界杯？](https://www.zhihu.com/question/280534509)
  > 以世界杯的热度还需要流量明星来推广？说这话的脸太大。明明是鹿晗蹭世界杯热度。还有，通过他来拉足球小白入坑？也不想想鹿晗能招来的都是些什么样的粉丝。我最烦粉圈那些污七八糟的东西，等广大球迷朋友们见识到了...
- ## [如何辨别一个程序员水平的高低？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [如何辨别一个程序员水平的高低？](https://www.zhihu.com/question/35194924)
  > 码农有四个综合能力：1. debug 能力2. performance分析3. 保护性编程4. 投入产出比分析
- ## [维基百科的日常资金来源途径主要包括哪些？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
- > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
  > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [怎么看待镇江一会计利用公司财务漏洞890余万160万用于打赏斗鱼冯提莫网络主播？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [怎么看待镇江一会计利用公司财务漏洞890余万160万用于打赏斗鱼冯提莫网络主播？](https://www.zhihu.com/question/60031594)
  > 导读：王会计事件曾经轰动整个直播圈，斗鱼、熊猫TV头部女主播均有涉案，最近央视报道了王会计的判刑结果，他挪用980万元，逍遥了10个月，与2名女主播发生关系，每日挥霍最高达数十万，最终换来了7年的牢狱生活。去...
- ## [链家、房多多、搜房网上挂的房子的信息都是真的吗？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
- > 对房产互联网行业而言，“真房源”信息一直是一个受关注但是也是受消费者诟病最多的关键点。因为房产交易需要线下服务人员(经纪人)进行服务，而交易本身的场景发生在线下。真房源所谓真包含几个特征:真实存在：即在售...
- ## [派出所接过哪些奇怪的报警？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [派出所接过哪些奇怪的报警？](https://www.zhihu.com/question/268167592)
  > 感觉很暖！
- ## [中国导师制真的需要改革了吗？](http://zhihu.sogou.com/include/pc/pc/topic/topic2_0.html)
+ ## [中国导师制真的需要改革了吗？](https://www.zhihu.com/question/271435660)
  > 从目的上看，学生考研是为了给导师做贡献么？肯定不是，学生的目的要么是为了找好工作，要么是喜欢科研。导师招学生是为了培养学生，当一个合格的老师么？肯定不是，导师的目的是找一个苦力。学生学费没少交，爹妈也...
+ ## [各位道友以及各路大神们。我是不是真的扑街了?](https://www.zhihu.com/question/281027889)
+ > “本书轻虐，非小白文。”作者很明显以前不是作者，应该也不是个老读者。虐不虐，是不是小白文不是看简介说的，是看你书怎么写的。简介里出现这八个字很多读者根本不会去看这本书，因为多数标榜自己是非小白文的书质...
+ ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
+ > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
 # IT 技术 
  ## [区块岛(杭州)信息科技有限公司 大面积招聘开始啦！](https://my.oschina.net/u/2982602/blog/1830749)
  > 区块岛(杭州)信息科技有限公司 一、公司简介 区块岛(杭州)信息科技有限公司是以区块链技术驱动发展的高科技创新互联网企业，总部位于杭州，主要从事区块链技术开发、区块链社区建设运营、区块链投资运营等业务。公司以区块链服务实体经济、技术服务为己任，基于正本清源的原则，重点推动区块链行业的技术和开源生态发
@@ -147,8 +147,6 @@ categories: IT NEWS
  > &gt; itertools 用于更高效地创建迭代器的函数工具。 &gt; Python版本 3.x `itertools` 提供的功能受Clojure，Haskell，APL和SML等函数式编程语言的类似功能的启发。它们的目的是快速有效地使用内存，并且将它们关联在一起以表示更复杂的基于迭代的算法。 基于迭代器
  ## [Java OSGL 工具库 - Bean 拷贝的艺术](https://my.oschina.net/greenlaw110/blog/1830186)
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
- ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
- >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
  ## [Nutz 1.r.66 发布，Java 应用框架](https://www.oschina.net/news/97104/nutz-1-r-66-released)
  > 相隔了快5个月后，我们又回来了。 首先吐槽下上次发布版本后定的一堆目标，到目前为止一个都没实现... 定好了4月来点动作，之后很自然的推迟到5月，又从5月很自然推迟到6月，然后6月已经过半了，还没影呢... 不过好在NutzBoot一直在wendal的带领下有条不紊的发着版本，非常牛逼非常给力！据说
  ## [Spring Kafka 2.1.7 发布，Spring 的 Kafka 抽象](https://www.oschina.net/news/97103/spring-kafka-2-1-7-released)
@@ -247,17 +245,17 @@ categories: IT NEWS
  > 没想到啊！2599元的Java干货今天免费送
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [手把手教你用Prophet快速进行时间序列预测（附Prophet和R代码）](https://blog.csdn.net/Tw6cy6uKyDea86Z/article/details/80681981)
- > 手把手教你用Prophet快速进行时间序列预测（附Prophet和R代码）
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
+ > 牛逼程序员教你用“火眼精睛”找bug
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
- ## [菜鸟否认“通达系清空丰巢股份”为站队 称业务不冲突](http://www.lanjingtmt.com/news/detail/35793.shtml)
+ ## [“通达系”清退丰巢股份被疑为站队，菜鸟表示暂不回应](http://www.lanjingtmt.com/news/detail/35798.shtml)
  > 今日针对有关媒体报道“通达系”清空丰巢股份为站队菜鸟，菜鸟回应称，纯属猜测，丰巢是做货柜的，和菜鸟业务完全不冲突。
  ## [小熊电器闯IPO：有钱找代言没钱搞研发，严重依赖渠道](http://www.lanjingtmt.com/news/detail/35788.shtml)
  > 线上占比过高的小熊电器虽然业绩增长良好，但所受掣肘也较多，并由此带来了季节波动风险、存货周转率过低、资产负债率过高等问题。
