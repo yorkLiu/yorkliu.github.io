@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 17:28:12
+date: 2018-06-15 17:30:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -147,6 +147,8 @@ categories: IT NEWS
  > 区块岛(杭州)信息科技有限公司 一、公司简介 区块岛(杭州)信息科技有限公司是以区块链技术驱动发展的高科技创新互联网企业，总部位于杭州，主要从事区块链技术开发、区块链社区建设运营、区块链投资运营等业务。公司以区块链服务实体经济、技术服务为己任，基于正本清源的原则，重点推动区块链行业的技术和开源生态发
  ## [如何快速搭建一个简单的塔防小游戏](https://my.oschina.net/u/3875054/blog/1830663)
  > C语言是所有编程语言的基础，当我们对C语言有足够深入的理解后，就能轻松入门其他语言，比如现在流行的Python。现在，我将带领大家看一个基于C语言经典算法，使用Python编写的塔防小游戏。 在塔防游戏中，有许多敌人向着同一目标前进。在很多塔防游戏当中，有一条或几条事先预定好的路径。在一些中，比如经
+ ## [Jboot v1.5.7 发布，优化细节、正常更新](https://www.oschina.net/news/97109/jboot-1-5-7-released)
+ > Jboot 是一个基于 JFinal 和 Undertow 开发的微服务框架。提供了 AOP、RPC、分布式缓存、限流、降级、熔断、统一配置中心、Opentracing 数据追踪、metrics 数据监控、分布式 session、代码生成器、shiro 和 jwt 安全控制、swagger api 
  ## [深度操作系统 15.6 —— 细节中寻求突破](https://www.oschina.net/news/97107/deepin-15-6-great-improvements-in-the-details)
  > 深度操作系统桌面版适用于笔记本和台式机，通过产品设计和技术实现，致力于为大家带来稳定、高效与易用的用户体验。而简洁界面设计和交互可以帮助用户减少浏览和查找的时间，将更多时间投入工作和学习。在这次较长的产品研发周期里，产品经过了不断的探讨、研究和方向修正，并最终选择更倾向于用户的实用性改善和产品内在修
  ## [微服务框架 NutzBoot v2.2.1 发布，使用 Nutz 1.r.66](https://www.oschina.net/news/97106/nutzboot-2-2-1-released)
@@ -161,8 +163,8 @@ categories: IT NEWS
  > Spring AMQP 2.0.4 和 1.7.8 发布了，更新内容如下： 2.0.4 Change Log: 54b7dd8 Add more debug/trace logging 3a55ede Add licence and notice to all artifacts 00bd3dc A
  ## [网市场云建站 v4.1升级，以真正实用建站商盈利为目的建站系统](https://www.oschina.net/news/97101/wangmarket-4-1-released)
  > 网市场云建站系统，结合各种产品，将建站成本降低到0.1元！打破传统建站的高成本，让价格不再是阻碍的门槛，让每个人都能有自己的网站！ 升级日志 CMS模式网站管理后台，增加模板插件机制。可以随机增加插件进行扩展。 CMS网站管理后台，增加万能表单插件，可自由制作自己的信息反馈系统。 http://ta
- ## [Deepin 操作系统面临重重困境，联合创始人宣布离职](https://www.oschina.net/news/97099/deeepin-cto-leaved-his-job)
- > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜的事情发生了，其联合创始人王勇离职，Deepin 的前途
+ ## [Deepin 操作系统联合创始人宣布离职](https://www.oschina.net/news/97099/deeepin-cto-leaved-his-job)
+ > 文章仅代表作者@南湖船老大个人观点，并不代表本站立场。 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜
  ## [接口管理系统 eoLinker-AMS 开源版 V4.0 发布更新](https://www.oschina.net/news/97098/eolinker-4-0-released)
  > eoLinker API Management System（AMS）是一款帮助企业开发人员进行在线管理接口文档、进行自动化测试、团队协作的工具，它旨在提高企业项目的接口管理水平，提升开发速度并且降低运维成本。 eoLinker是目前业内最强、国内最大、功能最完善的在线API接口管理平台，提供自动生
  ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
@@ -185,24 +187,6 @@ categories: IT NEWS
  > oss-server是针对项目开发时提供的小型对象存储系统,开发者在针对文件上传时业务剥离,同时方便文件迁移，为满足单个项目，多个系统的情况下，提供统一的oss服务。oss-server使用tomcat+nginx的方式，tomcat提供上传对象存储的能力，nginx提供在线访问的能力，oss不提供
  ## [OSChina 周五乱弹 —— 如何向妹子解释越位](https://my.oschina.net/xxiaobian/blog/1830638)
  > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
- ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
- > Visual Studio Code 1.24.1 已发布，该版本主要是修复 1.24 中的一些问题，详情可前往 issues 查看。 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉
- ## [? UMCloudOpenStack](http://news.51cto.com/art/201806/576349.htm)
- > ? UMCloudOpenStack
- ## [WOT](http://developer.51cto.com/art/201806/576334.htm)
- > WOT
- ## [WOT20182.0](http://cloud.51cto.com/art/201806/576325.htm)
- > WOT20182.0
- ## [](http://news.51cto.com/art/201806/576372.htm)
- > 
- ## [Facebook](http://ai.51cto.com/art/201806/576297.htm)
- > Facebook
- ## [](http://zhuanlan.51cto.com/art/201806/576313.htm)
- > 
- ## [Python](http://developer.51cto.com/art/201806/576296.htm)
- > Python
- ## [](http://blockchain.51cto.com/art/201806/576267.htm)
- > 
  ## [Python](http://developer.51cto.com/art/201806/576393.htm)
  > ITITIT
  ## [ ](http://developer.51cto.com/art/201806/576386.htm)
