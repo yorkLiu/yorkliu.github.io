@@ -3,7 +3,9 @@ title: SnowNLP 中文分词, 情感分析之利器
 copyright: true
 date: 2018-06-14 12:48:51
 tags: 机器学习
-categories: 机器学习
+categories:
+  - 机器学习
+  - 情感分析
 ---
 # SnowNLP 简介
 [SnowNLP](https://pypi.org/project/snownlp/)是一个python写的类库，可以方便的处理中文文本内容。这是今天在邮件列表中看到的，感觉还挺有意思，象：转换成拼音，繁体转简体，提取文本关键词（Textrank算法），提取文本摘要（Textrank算法）好象在一些场合挺有用
