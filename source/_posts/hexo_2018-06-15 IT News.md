@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 17:21:48
+date: 2018-06-15 17:23:26
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -255,6 +255,8 @@ categories: IT NEWS
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
+ ## [武汉年内削减共享单车15万辆](http://www.lanjingtmt.com/news/detail/35810.shtml)
+ > 江城武汉共享单车突破103万辆，乱停乱放问题依然突出，超出了人行道承载能力。14日，武汉市交委、市城管部门宣布，年内将削减共享单车15万辆。
  ## [超百位媒体人齐聚会，蓝鲸财经新科技峰会要搞事情](http://www.lanjingtmt.com/news/detail/35809.shtml)
  > 远离泡沫、抽丝剥茧，碰撞TMT行业先知型观点，齐聚北京三里屯洲际酒店，洞察尽在的6月20日“第一届蓝鲸财经新科技峰会”。
  ## [王峰辞任蓝港互动CEO，宣布全力投身区块链](http://www.lanjingtmt.com/news/detail/35808.shtml)
@@ -278,6 +280,8 @@ categories: IT NEWS
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
+ > 周志华-机器学习-笔记（四）- 神经网络
  ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
  > django实现类似触发器的效果
  ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
@@ -304,8 +308,10 @@ categories: IT NEWS
  > 笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章
  ## [t特征工程——特征选择](https://blog.csdn.net/wsp_1138886114/article/details/80691648)
  > t特征工程——特征选择
- ## [数理统计二（概率论）](https://blog.csdn.net/qq_42379006/article/details/80691649)
- > 数理统计二（概率论）
+ ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
+ > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [如何在世界杯赛中寻找可结合的品牌推广策略？](http://www.woshipm.com/marketing/1062127.html)
  > 世界杯品牌营销推广的“巧点”到底在哪里呢？到底是适合那些品牌来玩？品牌应该怎么玩呢？如果你不知道，那就来文章中看看~世界杯开赛了，又是球迷们狂欢熬夜看球赛的时...
