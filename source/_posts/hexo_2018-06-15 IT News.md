@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 17:30:13
+date: 2018-06-15 17:31:35
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,46 +56,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [25秒，看清闪存的一辈子](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=yqxVjuh2lFi3ooY-pV-LlpYiZdnuu9UlT3RXuNBjChWledvnGoGdukpD*nBMHRKYOjFHvj3QcKKvmLh*CtX0i*YLZFhSs0Mcr5lEYswp8xCf-m8Bw*I*AFBz8ot05nnu&new=1)
- > Turn it on !默默拉开抽屉，打开尘封已久的小铁盒，一只U盘，几只旧手机...青春，原来是满满的“高！科！技！”未来，还有什么值得期待？2018.7.20-21 GSS大会 武汉见！这个夏天注定不一样 ...与“磁盘”的存储...
- ## [里程碑：首个真正完整5G标准今天冻结，5G设备可以生产了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=DKghK*T8hARGf43-gx*II4C0iNIfZL4zZEHJcz1slyRmp-qz1juPavXs5pdId3NSkMPYIY0YHSSjB4ew6wjLvEO9C0bUF1mmQ*2UbOJyqhkho8sHqkH0o7m8rxCuKbr9&new=1)
+ ## [全球版 Azure 为企业启动智能出海战略布局](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=46JWLhySPeT3RMw0CRGUfDez*91I34bXrYSRG0pa4urnEVi*DBuZjbOrNnZKDhsHCVhU34GQaU1LSWn4huYpWcpr8TwmQ*dT3p6VwCzuqI8bYwQPR7ykU*FYqGUxN0Qg&new=1)
+ > 企业出海是潮流，动力助推是关键，稳健发展是基本。企业“追赶”最新科技成果，在客观上推动了创新科技走出国门，也让企业加快了创新的步伐。愿景为好，但是在创新成果不断发展的今天，如何在大趋势下中寻找明晰...
+ ## [里程碑：首个真正完整5G标准今天冻结，5G设备可以生产了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=rnhoATOJE*zgcuiyVDAClulxH3KW3iKdBhWjZydEB4w3lkQbTTHYVc3sBnt3CFDfHOMenlHYbvqf1ofdRrHyMsQyrRdMYsAOX89kyfdrdywdN3ItW5uH9roKDP3aEpnQ&new=1)
  > 【摘要】3GPP全会(TSG80)批准了第五代移动通信技术标准(5G NR)独立组网（SA）功能冻结。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：王欣本文来源：通信产业网（ccidcom）杂谈投稿邮箱：6312550
- ## [Windows 7 终究活成了 XP 的样子](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=8wIod3ud3GOxSxts-u*6Tul6aWNO4FK93sp-XZXh07u*bdtp-gx1ly88M49w4-zCjOj*dDmSQdhhvjQVkyqqQG3ZaK0X*RbKaO6dTihSnAeMihhb7Za6Yy26Iz259Olj&new=1)
- > 关键时刻，第一时间送达！迄今为止，微软的 Windows 操作系统已经入驻 PC 市场近 33 个年头，期间经历了无数的辉煌与坎坷。在发布的这么多款操作系统中，你对哪个版本印象最为深刻？就笔者自身而言，Windows XP ...
- ## [5G独立组网标准正式冻结，但短期难以取代4G](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=6wRjrNxOyt3fSmdTBPcGCfhY1MJ*gMh-vwTyd4g9PLfor3yLFC6ilBzwrsg0IHEgMlQWYKJF1A4FhKvFnwzNJXf9nwbCMQPKIEpKSzxkU2m83cc8sA0dDmZWXIDWQtA5&new=1)
- > 北京时间2018年6月14日，3GPP全会批准了第五代移动通信技术标准（5G NR）独立组网功能冻结。加之去年12月完成的非独立组网NR标准，5G已经完成第一阶段全功能标准化工作，进入了产业全面冲刺新阶段。5G标准发布是...
- ## [华为“吓人技术”的30年往事](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=bxI*l9BzFBya66E7tCJnyGi2M3zRVyUXTmAi4JnxSC3LpsjcOo3OpTQwnYeUO*a1zsNQ4niZJAHzzgd44NA2Web6c0qerOJEyF1sqvXHNpFfv4jzI*qm*2VJnOhSSvMe&new=1)
- > 关键时刻，第一时间送达来源 / 周掌柜（ID：zhouzhanggui525）原文 / FT中文网欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻5月末，余承东微博引爆荣耀Play“很吓人的技术”，引发网友风起云涌般...
- ## [5G终于要来了!实测速度太惊人：4G手机将淘汰](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=wThnl7WjHOtVxJckD6E*EdOVhO0J1g84UPFlUhf3acZsa8IQCwZFs0F9FYd93luDO*sISe9qkmWMi-B2h17V-jFzQoK8mdOw-5aIvI1QWi1xHJhKRmhGzqMPSur7ccr8&new=1)
- > 6月13日上午，在美国圣地亚哥3GPP 5G NR标准 SA（Standalone，独立组网）方案在3GPP第80次TSG RAN全会正式完成并发布，这标志着首个真正完整意义的国际5G标准正式出炉。据悉，中国企业大唐电信集团在5G首个国际...
- ## [最新消息!中国商务部通过高通收购恩智浦案](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=4oBTxTHwCub02MORxmAfxz6G*1qd79LhV6icr5pdx0jgh9J6uTO7TM684V7LU1278PW7TgEYGO2YXDm-ikLAnZauT2LMgsihCUq0lJ*4j5DHc*rxzcnoO8U2-hbf4qSw&new=1)
- > 既然中兴不会被美国严厉制裁了，那么高通收购NXP的事情也加快了。 6月15日报道，根据南华早报援引知情人士消息称，中国商务部已经批准高通对恩智浦总额440亿美元的收购计划。 这笔交易需要获得9个国家或地区的反...
- ## [一个家，最重要的地方其实是这里](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=CdOrYAdFZmP-5DCpu3o7ufik3kesmf3HvDunveM-Af7IRXV9ul5GRs9Eo-1LQ94RRvGwxJVbhyomPXAyJNaiV670dxwNjkXBSweN9dIirCdfE1KgIq*3RRSeeCIrXPot&new=1)
- > 对于一个即将把自己最重要的人和物都搬进新房的人来说，一把好的门锁才是最能够给你带来安全感的东西。家给你归属感，门锁给你安全感。作为家中一夫当关的门锁，正朝着更便捷、安全的智能门锁进化。简单来说，智...
- ## [意外!老司机MIPS竟被AI芯片初创公司Wave收购了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=*DZ*HOiS3PsfrApdN6B1XbwfxAOiJjdyxHeYx2kIWO0nY*Tvradah*HQ5lWpuJ8gLhMJMz7fSDsZ74-zCatqia7sy4j4LNxgxivKj-L1HAZXaW5Husv3iBTa5cTV4yo8&new=1)
- > 去年9月，Imagination Technologies宣布同意接受具有中国背景的私募基金Canyon Bridge Capital Partners的收购要约，交易总价约为5.5亿英镑。而作为交易的一部分，Imagination将旗下的
- ## [当5G与物联网进一步结合 安防也将借势开疆拓土](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=f7cI1U5YccPH-oOxFK7s965UFbz9A*R*zR-b6kbhn8jlED1-O-JflwnJ3khgEjiF5AgPsxYWNeDnN2jCm4nzffeW15cB1vcWntv2P388-Vq39v2B8o1b9a0Mpw4dsfDO&new=1)
- > 安防安永发布的《中国扬帆启航，引领全球5G》报告显示，中国将5G商用发布时间表提前至2019年，很可能成为全球最先部署5G的几个主要市场之一。预计到2025年，中国的5G用户数将达到5.76亿，占全球总数逾40%。当5G...
- ## [运营商高层谁会担任铁塔总经理 中移动副总裁董昕在候选之列吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=n*6040YKiDBi5Opy8omczB-NzXxBI2FCY7ZceBsYQHkLxG2q8ntmItv2BaQAyu02dbUQt-qXkppdo1M00tBNIXCURKx19ootpzA*JlQ2NZ0Nx-bKVQYvxApJYYtZ6Mgb&new=1)
- > 近日，中国铁塔上市一事闹得沸沸腾腾，而关于中国铁塔总经理的最佳人选一直没有敲定，引发了关于业界的诸多猜测。按照常理，中国联通董事长已经由佟吉禄担任，中国移动作为中国铁塔的最大股东，中国铁塔新任总经...
- ## [小米更新招股书现十大变化 雷军百亿红包坐实!证监会火速力保CDR不破发!](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=7bNitNNFcwhugMXl7dfV8YIR9Fm07Zmz1lHud2inenOUHmqOjWZzzEe6rTsPl2GD*K0H-svs2N7ECfSyk-3Bm1uIy870BssEyaToZXGcGzo2KKkwkieTt1wARaHfXGeI&new=1)
+ ## [小米更新招股书现十大变化 雷军百亿红包坐实!证监会火速力保CDR不破发!](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=GW2ZOeYUeQqqSWd9Ir2Yu9N7EhBY8BT6PZreBwCHlTLe4L2ORGm-xrbO32LbDqnmWfIGIKE8MDg29BAgZGD0AhkxOzOmMdYwEjUa5s4NbUugYiNqfmWSgxbHnCb4Vuz8&new=1)
  > 6月14日，CDR第一股小米更新了A股招股书，与3天前的版本相比，CDR发行比例初步明确，发行数量、价格、日期等诸多信息仍待确定，同时小米生态、小米之家、小米金融、小米游戏等详细运营数据全面公布，雷军的百亿...
- ## [世界杯期间，请调整你的流量，15款app免流量40G](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=kGAnMJTI07P9ScIICpaKjjR00-OhuVwQC*dthxKE0Gz3jc64q0Add0BR5eTK7p1dABeMegMqKLlzpNB9aZfykPiAbT3hbX-mJb7bmBgn0qesAqLInDzMCUXFPo8njmel&new=1)
- > 每届世界杯都会让你不眠不夜今年小编告诉你依旧如此时差仍然存在作息还得调整生活还得继续工作还得持续可是，今年不一样哟看看时间有限但你的流量畅快使用随时随地看随处随想回看赛事不怕晚就怕看不完电信19元王...
- ## [五角大楼斥资2750万美元建隔离系统，防止军事机密泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=zdmnfwm7JYhU4MDMRmi9M*VvjfvUsdUQZRweKQg7alMykZKkpbE9lEWFG5kSlHgJgari2oesgOsBaJOKfvd7-ELVV9IdwgfF0VjMyOcVAnLtj5NIGFmjV7HqJ71NXdnh&new=1)
+ ## [五角大楼斥资2750万美元建隔离系统，防止军事机密泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=XksIQyhYgINTyMuWdbLUrjB6pCsWOfmnLeMynaBLWNkhIUHjNlBWuy*diQRvizCSSsVH3J3WFJzs27sFnQ6m8naz*AF5PZfMTmc5e21Zs0YQ38XTANvObojhncul8DNH&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全6月15日讯 美国国防部下的国防信息局（DISA）不希望五角大楼的工作人员使用国防部的内部网络浏览互联网网页，正在试图采用将网络浏览推向云端的方式来隔离...
- ## [迅实光固化3D打印齿科应用方案，美国牙医已经大量使用](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=q*nBJgY8LnxvEhG830R-Z5XE4YXtOAaVdlBTso9QhoaF1X1bPWdocn*4bzJ5EzOTWpTm8I4R-0WC0Aj6GoaVYSMzjWZv3PMgwRsmViMDIpfdqXTTne3JsJuVfqJcRkE8&new=1)
- > 齿科是非生物3D打印中最有前景的领域之一，3D打印技术在齿科修复领域中的应用主要包括可摘义齿、矫正器和种植牙，齿科是目前最有希望可以规模化应用的3D打印技术的医疗领域，根据Smartech市场研究报告中的预测，...
- ## [重磅!5G第一阶段标准发布啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=bupobd6d6dBmD0O6JssI9fzeSoCRm8I97s5fotpz-Dq9Idcq2qf8C6TmrJhtPWEYpfZu6ysYDOy*vnWqDWw0z8ukCGRJtc2DEnPeY3YJtroRDy7ZnloaBPUiPAVuWGFu&new=1)
- > △视频： 5G第一阶段标准发布 5G第一阶段标准发布这次公布的标准，内容包括独立组网的5G标准，支持增强移动宽带和低时延高可靠物联网，以及网络接口协议。 中国移动研究院副院长 黄宇红：这个标准制定完以后，产...
- ## [\[重磅\]首个国际5G标准正式出炉，产业进入全面冲刺](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=blYCm4KC-34KwZn0QpQJ**aOGtR5Mj29ANZvHnvIWYtfQmQlNwJIcL5JyHgf7fCeaOB-CmxnqB6QU8kcOfu9AcUguKlQD1gMtJ1XAJ1t54zxe1SdyfOeMHvPnSjYxrQ9&new=1)
- > “ 当地时间2018年6月13日20:18（北京时间2018年6月14日11:18），3GPP全会（TSG80）批准了第五代移动通信技术标准（5G NR）独立组网功能冻结。”加之去年12月完成的非独立组网NR标准，5G 已经完成第一阶段全
- ## [流量不限量?坑你没商量!](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=lf4f2luDX9fpkLiABhlfOmzGjq77PaN779i4KD1VazqrBypDKH4rJh4QgPDnV-8PvY8eYIRRW8dmRV3Owk7tiEalIECU45ZfIARUv*mFoG9a5-4-EuvrfxK0qCMGVcNa&new=1)
- > 新浪科技科技观潮，与浪前行关注 文|新浪科技 唐子祥如果重选，不少用户应该不会再选择不限量套餐。 随着4G网络普及和移动互联网浪潮来袭，短视频、直播等产品流行起来，然而视频很好看，流量的使用速度也很好看...
- ## [阿里王坚：像规划垃圾处理一样规划数据处理，城市会发生巨变](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=L7W5M7m4OtahJrZu*y-2edwrn1O7z3mokJK73Nn-J6OllKxSeMD22s-21abatS*7krLfHHJJkpzZCt4q3nHvC*zPpKLAmtzmE5n5Pwf3wAdryis77mHw7HQ-yhJzYJFf&new=1)
+ ## [5G终于要来了!实测速度太惊人：4G手机将淘汰](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=Id90cPQRHiDM9v5NguGjhpp4wtc*QIB8I17PabhJsPMpMmqMesF*hqcZhcw4s-yZz11mrGZsvQD1gOhJO146gnOa69EY82XDx8yMnL9iF-i7JXTZpL2J6BSgVRnnjkKK&new=1)
+ > 6月13日上午，在美国圣地亚哥3GPP 5G NR标准 SA（Standalone，独立组网）方案在3GPP第80次TSG RAN全会正式完成并发布，这标志着首个真正完整意义的国际5G标准正式出炉。据悉，中国企业大唐电信集团在5G首个国际...
+ ## [阿里王坚：像规划垃圾处理一样规划数据处理，城市会发生巨变](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=C-c4LXnb4KUKaBIHFpcxbYJfU9m55c0WB9oouFWjVzAMRXL2KFh*fpdGUpDmzYAfli2G8CTpV0CEHyxdXRExR2IujU2Fkzy5LMLni1X7AaNtbtbDUqbYZjfOzk4SdpQl&new=1)
  > 阿里巴巴集团技术委员会主席王坚认为：1、城市是人类最了不起的发明，“智慧城市”不是城市的未来；2、城市大脑是支撑未来城市发展的基础设施；3、人的智能远远不能解决城市的复杂问题，必须借助机器智能。演讲/...
- ## [中国联通正推动50G PON波长计划等研究](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=KDGE7BHq5bayUWpsjj0CydqDQLCgWnAK6qEqlSV5Z8De*MfjQw4*ZZO3RqKD0V32hXBCm6Z7ZxlDc5F*1SgKr1rPJ9Qzc5VjFI02MAQCnj1r4dKgpXc0wE4-fyv-Q-Rz&new=1)
+ ## [一个家，最重要的地方其实是这里](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=OupEk6rnkdw0jjwemoA264zMxZnVoxg8xxhnVS2qpTw1MXFU0vXFLGJont-vpu9zp4Yq0BxWvt-RyEHWDV41dFma2AqOwthhYwKqtbR2mQDw4wbvfXvqrMWQpgyN6efJ&new=1)
+ > 对于一个即将把自己最重要的人和物都搬进新房的人来说，一把好的门锁才是最能够给你带来安全感的东西。家给你归属感，门锁给你安全感。作为家中一夫当关的门锁，正朝着更便捷、安全的智能门锁进化。简单来说，智...
+ ## [图灵奖演讲2018，59页PPT迎接芯片体系结构的新黄金时代](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=GB8Sngi12Qt5DPX4-34gRllQ3EEfzIbvq*CZW2gP1g3w6uzeNDpOzogJuwlLOY1ExEmaQ8RnArXa-2R3-dVix3eGr6poKpHCi*UXK0nWgXmNKDUBn9tldKGAjZpvnu9w&new=1)
+ > 来源： 计算所控制计算实验室    6月4日，在今年的国际计算机体系结构大会ISCA2018的图灵奖演讲会上，ACM/IEEE邀请了2017年图灵奖获得者John Hennessy与David Patterson联合进行了一场关于未来计算机
+ ## [\[观察\]数据洪流来袭，企业转型势不可挡，如何四两拨千斤?](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=Q9SG7q8yJdFk7yqF3WIQE6hbgxqCbltcCbwduksDk*halsCk4zzLW6xHSBd*33Tg264HyskTmGTyFIutOK6Q8L1RX8J9yM3x81m9XORXwxfnngbOw-gKiD7v9svH35Do&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！在漫长的历史里，文明的进步都是伴随着科技的发展，企业也在不断进化，无论是商业战略还是商业模式，在科技的推动下与时俱进，不断更迭创新。历史的长河流入数据洪流的时代，...
+ ## [OptiNet2018|中国光网络研讨会首日会议圆满举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=qRAeBc0uHFrS8hixigdeUHO3LWjrqzYFgDfuW5u3S70e0k9Qob9zDXiJ6Jzo*y5b0JorHFlewQ3T3YUMzHMgWDYonuSQZATJgSvEsQk9kVlZ7SQUlHRBsEfyDu9v14dW&new=1)
+ > 摘要2018年6月13~14日，第18届中国光网络研讨会(Optinet China)在中国·北京粤财JW万豪酒店举行，本届会议由中国通信学会光通信专业委员会和工信部通信科技委传输与接入专家咨询组联合主办，由北京讯息展信息技...
+ ## [记者直击华为上海“造车”，这个梦你支持吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=VxKKaO-uakAHzZNIJLQPmTiE3psNhhjJV4ohgEjN5LzCZkhVgR1k35QP5WCib63APQcelw3rALvxdNJmXfyNRaHLl08dftasFYCKH295Qq4VgDm-VlHBN79S1fLhZRAy&new=1)
+ > 上海34℃度的高温下，浦东金桥一个偏远位置的空地上，一辆黑色汽车时而停下、时而缓慢前进，车上3位工程师一边讨论、一边进行着测试，坐得满满当当的汽车内，唯一空着的位置——只有左前方的驾驶位。这是《IT时...
+ ## [最新消息!中国商务部通过高通收购恩智浦案](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=AlcwqhFKxEiz5ie88pj3-Zr5VR4AFBEucr2YIPMDQy39Ad0yGiJMEdyQ0bGgJfKFSfeVpH6VoQnZK96IoAsT40Rvz893c0fEhuEplPQ9HonKKzl0n9-elR8ALC8CN3qi&new=1)
+ > 既然中兴不会被美国严厉制裁了，那么高通收购NXP的事情也加快了。 6月15日报道，根据南华早报援引知情人士消息称，中国商务部已经批准高通对恩智浦总额440亿美元的收购计划。 这笔交易需要获得9个国家或地区的反...
+ ## [流量不限量?坑你没商量!](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=M7ERT9EIbTO8xU-13ktgqd4fCUek-Q9*qQbgagA*SeYZLqEKXcHBDL3XiGbTswbQDA54TiAUylidK3cdO-ByGs3t8LMY8m8a7kOwF5UnrvBgAJH6*t2X*MI4HK8b98dJ&new=1)
+ > 新浪科技科技观潮，与浪前行关注 文|新浪科技 唐子祥如果重选，不少用户应该不会再选择不限量套餐。 随着4G网络普及和移动互联网浪潮来袭，短视频、直播等产品流行起来，然而视频很好看，流量的使用速度也很好看...
+ ## [5G时代来临后，自动驾驶汽车能落地平民化吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=l7od6eqMaNk59-NVSy5bBpD6Y*EJSumUzY36ALXHS8ThmisJsp6gvoCa2ZJYRkeXMwtZld4FQ*LFyWOF*aEjeA85fcXv4zX*fq-RIBSRBDvlQyiCjP5rKImSXI0DJJ43&new=1)
+ > 全文共1505字，阅读大约需要3分钟撰文 | 唐兵责编 | 张宇11年前，苹果科技公司发布第一代IPhone手机，取消按键键盘，将人类带入了智能手机时代。如今各类智能手机遍布全世界，只有少数的老年机保留了键盘，智能...
+ ## [5G独立组网标准正式冻结，但短期难以取代4G](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=IXmI04uHieptk7uOcykarnGv66znwjFKYU3dAk3B5-9XxCEQfCOr-vnBOD6TyPPVk1poR69lSm8HLJ1AoELZgOSkSUYSmGYL9uWovQOZ-vNQXj0RToFiEK8vLWb7V0yK&new=1)
+ > 北京时间2018年6月14日，3GPP全会批准了第五代移动通信技术标准（5G NR）独立组网功能冻结。加之去年12月完成的非独立组网NR标准，5G已经完成第一阶段全功能标准化工作，进入了产业全面冲刺新阶段。5G标准发布是...
+ ## [中国联通正推动50G PON波长计划等研究](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=olJ28Tzh*wjkMqb85HQ20KgigvufHyGCtfJrHsm3NtB3DpXk2HYipit8EyjP5jnuFP7-f8lZHAP2WvmBwWmm0p*1TCDzUw1ZsbmOQVuQjotCnfqkfoaKhXbyRaKSKI1i&new=1)
  > 在“2018中国光网络研讨会”上，谈及50G PON建设部署总体设想，中国联通网络技术研究院网络技术研究部光接入网室高级工程师贾武表示，中国联通积极支持产业界加快50G PON相关器件、系统实现技术研究，将在规...
+ ## [华为“吓人技术”的30年往事](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=zyISnjWSWn*bZqUl3FoMtVnV3nYinAw6q5uYPMmNwbjcticJH1HmdF8Lj1jiw-t-72BDnmMIaDwGa*EnNnkeSXhUiD7pWsqpoRMyNKl0vDQOkXoezFzReaShxCa8Ewfp&new=1)
+ > 关键时刻，第一时间送达来源 / 周掌柜（ID：zhouzhanggui525）原文 / FT中文网欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻5月末，余承东微博引爆荣耀Play“很吓人的技术”，引发网友风起云涌般...
+ ## [迅实光固化3D打印齿科应用方案，美国牙医已经大量使用](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=5MNogFRNaDseoAe145cdVRQzAtvQJXzT9uR4ZNHv-LyEVECs58jczBzsngKVCQRbxPJdMr4hPDj2D7GYHiome-azbY-Q4mAhcMLkbs70l-Vg*SnYdiFSLQNs0H3e2ile&new=1)
+ > 齿科是非生物3D打印中最有前景的领域之一，3D打印技术在齿科修复领域中的应用主要包括可摘义齿、矫正器和种植牙，齿科是目前最有希望可以规模化应用的3D打印技术的医疗领域，根据Smartech市场研究报告中的预测，...
+ ## [世界杯期间，请调整你的流量，15款app免流量40G](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=7JJhubXFZiHyASjFR*6HE-TM5Lmy16L1apiZaN4hcZXM3FNlf1ZGGlWh6TAhRN*zx*ug*CwFQXCfeJo2euexUsZvrZmlNtqr4se7HQivKfFwdjWY1PNrU9a5eLYyrRWb&new=1)
+ > 每届世界杯都会让你不眠不夜今年小编告诉你依旧如此时差仍然存在作息还得调整生活还得继续工作还得持续可是，今年不一样哟看看时间有限但你的流量畅快使用随时随地看随处随想回看赛事不怕晚就怕看不完电信19元王...
+ ## [意外!老司机MIPS竟被AI芯片初创公司Wave收购了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529055007&ver=940&signature=45Bv-pju-2VMEJFKJYDCcgKOcvIDOW6IW4N*zdFJ1tnnSMn5D-r0YS-O3xCg9umllfX86fYJZqd14-GtFfEa5subFgiEV6gpMXI-J8p4BIcj5kVDsXBb*D805NDWCt3H&new=1)
+ > 去年9月，Imagination Technologies宣布同意接受具有中国背景的私募基金Canyon Bridge Capital Partners的收购要约，交易总价约为5.5亿英镑。而作为交易的一部分，Imagination将旗下的
  ## [有哪些好用免费的多人协同办公软件可推荐？](https://www.zhihu.com/question/19834756)
  > 多人协同办公软件，我们团队目前在用的是钉钉、亿方云、teambition。钉钉主要用的是审批和报销，因为一直都在用，很习惯也很顺手了。亿方云在团队协作层面的使用体验很不错，使用之后，基本不再需要邮箱，文件沟通直...
  ## [在线教育的模式可以有哪些？](https://www.zhihu.com/question/21367356)
@@ -187,6 +187,22 @@ categories: IT NEWS
  > oss-server是针对项目开发时提供的小型对象存储系统,开发者在针对文件上传时业务剥离,同时方便文件迁移，为满足单个项目，多个系统的情况下，提供统一的oss服务。oss-server使用tomcat+nginx的方式，tomcat提供上传对象存储的能力，nginx提供在线访问的能力，oss不提供
  ## [OSChina 周五乱弹 —— 如何向妹子解释越位](https://my.oschina.net/xxiaobian/blog/1830638)
  > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
+ ## [? UMCloudOpenStack](http://news.51cto.com/art/201806/576349.htm)
+ > ? UMCloudOpenStack
+ ## [WOT](http://developer.51cto.com/art/201806/576334.htm)
+ > WOT
+ ## [WOT20182.0](http://cloud.51cto.com/art/201806/576325.htm)
+ > WOT20182.0
+ ## [](http://news.51cto.com/art/201806/576372.htm)
+ > 
+ ## [Facebook](http://ai.51cto.com/art/201806/576297.htm)
+ > Facebook
+ ## [](http://zhuanlan.51cto.com/art/201806/576313.htm)
+ > 
+ ## [Python](http://developer.51cto.com/art/201806/576296.htm)
+ > Python
+ ## [](http://blockchain.51cto.com/art/201806/576267.htm)
+ > 
  ## [Python](http://developer.51cto.com/art/201806/576393.htm)
  > ITITIT
  ## [ ](http://developer.51cto.com/art/201806/576386.htm)
@@ -264,36 +280,6 @@ categories: IT NEWS
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
- > 周志华-机器学习-笔记（四）- 神经网络
- ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
- > django实现类似触发器的效果
- ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
- > 特征工程——特征转换
- ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
- > Xadmin自定义开发 笔记（一）
- ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
- > 机器学习：提升算法之Adaboost
- ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
- > 视觉问答VQA领域论文集锦
- ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
- > TensorFlow入门：（六）实现GAN
- ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://blog.csdn.net/qq_42154484/article/details/80691510)
- > 万万没想到，枯燥的“机器学习”还可以这样学！
- ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
- > 机器学习之梯度下降
- ## [特征工程——数据降维](https://blog.csdn.net/wsp_1138886114/article/details/80691543)
- > 特征工程——数据降维
- ## [Unity项目总结 模型制作 场景搭建](https://blog.csdn.net/qq_34272906/article/details/80691552)
- > Unity项目总结 模型制作 场景搭建
- ## [用一句话总结常用的机器学习算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80691609)
- > 用一句话总结常用的机器学习算法
- ## [笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章](https://blog.csdn.net/ZOMB1E123456/article/details/80691614)
- > 笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章
- ## [t特征工程——特征选择](https://blog.csdn.net/wsp_1138886114/article/details/80691648)
- > t特征工程——特征选择
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
