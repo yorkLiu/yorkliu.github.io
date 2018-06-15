@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:42:25
+date: 2018-06-15 10:46:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -121,26 +121,26 @@ categories: IT NEWS
  > 10亿流量的入口，小程序游戏会是那把钥匙吗？
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
  > 【WOT2018】孙玄：转转如何打造AI工程架构体系
+ ## [知识图谱数据构建的“硬骨头”，阿里工程师如何拿下？](http://news.51cto.com/art/201806/576338.htm)
+ > 作为近年来搜索领域和自然语言处理领域的热点，知识图谱正引领着搜索引擎向知识引擎的转变。在阿里的“神马
+ ## [史上最快！借助AI技术 2.5亿设备已升级至最新Win10](http://news.51cto.com/art/201806/576335.htm)
+ > 北京时间 6 月 15 日早间消息，与其它科技巨头一样，微软希望所有人都知道，该公司正全力投资人工智能领域
+ ## [Deepin 操作系统面临重重困境，创始人兼 CTO 已离职](http://news.51cto.com/art/201806/576333.htm)
+ > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发
+ ## [用 Python 快速实现 HTTP 和 FTP 服务器](http://server.51cto.com/sOS-576336.htm)
+ > 这些年，在IT界流行这样一句脍炙人口的话：人生苦短，我用 Python 。不知道从什么时候开始，这句话开始被广
+ ## [微软：Windows 10四月更新正式版安装量已突破2.5亿](http://os.51cto.com/art/201806/576330.htm)
+ > 微软今天（6月15日）宣布，四月更新已经全员推送就绪，目前的部署安装量超2.5亿。当然，这个数据含PC、Xbox
+ ## [谯洪敏：滴滴前端工程化思维](http://developer.51cto.com/art/201806/576334.htm)
+ > 纵观互联网的发展历史，没有哪一刻能像现在这样，存在如此丰富多彩的前端技术。前端技术的发展伴随着互联网
+ ## [九成AI企业亏损――人工智能遭遇商业落地之痛](http://ai.51cto.com/art/201806/576337.htm)
+ > 6月13日至15日，2018全球智能+新商业峰会在上海举行，同时作为世界人工智能大会的重要组成部分，世界人工智
+ ## [如何在Windows 10中恢复丢失的回收站](http://os.51cto.com/art/201806/576328.htm)
+ > 回收站是否从windows 10桌面消失？ 没问题，您可以使用本博客文章中建议的解决方案快速恢复它。
+ ## [如何根据行业来选择服务器配置](http://server.51cto.com/News-576329.htm)
+ > 对于企业来说网站是企业重要的门户，然而不同企业对于网站服务器托管的方式会随着企业的需求而变化。
  ## [在创业公司担任了4年技术总监，我总结出这些套路_技术栈微信半月刊第19期](http://news.51cto.com/art/201806/576327.htm)
  > 51CTO技术栈微信半月刊第三期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一线技
- ## [学习Python必去的8个网站！](http://developer.51cto.com/art/201806/576324.htm)
- > 作为一个现时代的程序员初学者，除了看书之外，互联网的学习手段也是断不能少的！以下这些网站，虽说不上全
- ## [云计算剖析云计算数据中心架构](http://server.51cto.com/Datacenter-576326.htm)
- > 对于云计算而言，应着重从高端服务器、高密度低成本服务器、海量存储设备和高性能计算设备等基础设施领域提
- ## [花旗银行计划 5年内让人工智能代替1万个工作岗位](http://ai.51cto.com/art/201806/576323.htm)
- > 据金融时报，花旗银行计划在 5 年内把投资银行部门的科技和业务人员裁去 50% ，准备用人工智能算法代替他们
- ## [恢复时间目标(RTO)和恢复点目标(RPO)的理解差异](http://stor.51cto.com/art/201806/576321.htm)
- > 灾难以多种形式出现。破坏、盗窃、遗失或自然灾害都会使企业的应用程序崩溃并破坏其数据。在理想的情况下，
- ## [iOS 12这几个功能借鉴了Android系统？](http://news.51cto.com/art/201806/576320.htm)
- > 前不久的 WWDC 2018 全球开发者大会上，苹果正式发布了 iOS 12 操作系统，虽然没有大量功能更新，更多专注
- ## [谈谈云计算的10大误区](http://cloud.51cto.com/art/201806/576319.htm)
- > 云计算概念自诞生以来就无法摆脱误解、困惑和炒作，这么多年过去了，从普通消费者到财富500强CEO依然经常陷
- ## [高通服务器芯片部门裁员：可能占该部门员工数量一半](http://news.51cto.com/art/201806/576317.htm)
- > 北京时间6月15日上午消息，高通数据中心芯片部门裁减约280名员工，原本高通投入重兵，大举进入服务器市场
- ## [NB-IoT在交通基础设施安全监测中的应用探析](http://iot.51cto.com/art/201806/576316.htm)
- > 交通基础设施安全监测应该是NB-IoT的一个新的广阔的应用场景，从交通管理的需求来看，交通基础设施的安全监
- ## [可透视的AI问世了，你的一举一动都在别人眼里！](http://ai.51cto.com/art/201806/576322.htm)
- > 据英国《每日邮报》6月14日报道，一种可透视的人工智能(AI)已研发成功,并即将问世。据称，该软件可以跟踪多
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
@@ -182,6 +182,36 @@ categories: IT NEWS
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
+ > 系统稳定性分析
+ ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
+ > Tensorflow数据输入
+ ## [中文自然语言处理入门实战](https://blog.csdn.net/qq_36330643/article/details/80691224)
+ > 中文自然语言处理入门实战
+ ## [TensorFlow模型载入方法汇总](https://blog.csdn.net/u014061630/article/details/80691256)
+ > TensorFlow模型载入方法汇总
+ ## [AUC的物理意义](https://blog.csdn.net/mimi9919/article/details/80691277)
+ > AUC的物理意义
+ ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
+ > 周志华-机器学习-笔记（四）- 神经网络
+ ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
+ > django实现类似触发器的效果
+ ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
+ > 特征工程——特征转换
+ ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
+ > Xadmin自定义开发 笔记（一）
+ ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
+ > 机器学习：提升算法之Adaboost
+ ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
+ > 视觉问答VQA领域论文集锦
+ ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
+ > TensorFlow入门：（六）实现GAN
+ ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://blog.csdn.net/qq_42154484/article/details/80691510)
+ > 万万没想到，枯燥的“机器学习”还可以这样学！
+ ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
+ > 机器学习之梯度下降
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
