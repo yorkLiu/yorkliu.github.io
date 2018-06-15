@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:05:17
+date: 2018-06-15 08:06:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,6 +14,12 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
+ ## [每日一博 | Java OSGL 工具库 - Bean 拷贝的艺术](https://www.oschina.net)
+ > OSGL 依赖于 Java 反射来获得 Bean 的内部结构，和很多其他工具不同, OSGL 使用字段而不是 Getter/Setter 来获取内部数据，而是提供了一套功能完善的 API 支持 Bean 的拷贝操作，并提供了五种不同的 Bean 拷贝语义。
+ ## [码云推荐 | SVG 格式设计稿预览工具 svg-measure](https://gitee.com/zane_young/svg-measure)
+ > svg-measure 是可以测量距离，复制 CSS/文本的 SVG 格式设计稿预览工具, 测试过 Sketch, Adobe XD, Gravit Designer。接下来计划支持 Scala、桌面 App、线上版本等。
+ ## [oss-server  — 小型对象存储系统](https://www.oschina.net/p/oss-server)
+ > oss-server是针对项目开发时提供的小型对象存储系统,开发者在针对文件上传时业务剥离,同时方便文件迁移，为满足单个项目，多个系统的情况下，提供统一的oss服务。oss-server使用tomcat+nginx的方式，tomcat提供上传对象存储的能力，nginx提供在线访问的能力，oss不提供
  ## [OSChina 周五乱弹 —— 如何向妹子解释越位](https://my.oschina.net/xxiaobian/blog/1830638)
  > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
  ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
