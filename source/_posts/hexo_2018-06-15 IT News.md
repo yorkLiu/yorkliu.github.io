@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:01:29
+date: 2018-06-15 08:02:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,6 +14,8 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
+ ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
+ > Visual Studio Code 1.24.1 已发布，该版本更新情况可前往 issues 查看。 可参考 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉入自己的文件。 在移动/
  ## [Mozilla 为 iOS 版 Firefox 12 浏览器引入全新生产力特性](https://www.oschina.net/news/97085/mozilla-firefox-12-for-ios-productivity-features)
  > Mozilla 宣布了面向苹果 iOS 移动平台的 Firefox 12 网络浏览器，为 iPad 和 iPhone 用户带来了一大票全新的生产力特性。 本次更新主打多任务和提升使用效率，比如下载文件以便后续离线阅读。所有离线下载都可以通过主菜单轻松访问到。Mozilla 在公告中写到：“当你需要离
  ## [CMake 3.11.4 发布，自动化构建系统](https://www.oschina.net/news/97084/cmake-3-11-4-released)
