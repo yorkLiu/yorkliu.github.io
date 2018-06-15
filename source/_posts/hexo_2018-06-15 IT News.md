@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:58:53
+date: 2018-06-15 09:59:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -122,6 +122,8 @@ categories: IT NEWS
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
+ > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [星舆科技Starcart获近亿元pre-A融资，研发北斗定位](http://www.lanjingtmt.com/news/detail/35787.shtml)
  > 将用于“网-端-云”三位一体的精准时空体系构建
  ## [人民日报人民时评：个人信息，利用好更需保护好](http://www.lanjingtmt.com/news/detail/35786.shtml)
@@ -159,6 +161,10 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
+ ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
+ > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [PRD：倒推知乎APP产品需求文档](http://www.woshipm.com/pmd/1059547.html)
  > 产品需求文档和Axure是产品工作中很重要的两个点，也是新人入门的不错途径。通过对一款产品prd的书写，有助于增加自己的产品规范能力并提高自己使用Axure的能力。本文将...
