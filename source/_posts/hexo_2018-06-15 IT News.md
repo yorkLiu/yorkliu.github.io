@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:07:14
+date: 2018-06-15 08:08:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,6 +14,10 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
+ ## [Intel 披露新型 Spectre 漏洞变体：Lazy FP 状态还原](https://www.oschina.net/news/97094/lazy-fp-state-restore-vulnerability)
+ > Intel 在官网上公布了一个 Spectre 漏洞的新变体：Lazy FP 状态还原（Lazy FP state restore），该漏洞被定级为“中等”，攻击者同样可以以推断数据的方式使用户信息泄露。 操作系统一旦在上下文切换时使用了 CPU 的 Lazy FP 功能进行系统状态保存与还原，攻击
+ ## [深度分析100多个优秀开源项目后，我们发现一些特征！](https://blog.gitee.com/2018/06/13/pro_depth_analysis/)
+ > 最受欢迎的国产开源项目都是什么模样？选用什么开源协议？使用哪种语言？实现了什么功能？我们选取了码云 Gitee.com 平台 144 个优质开源项目，为你深入剖析国内 Top 开源项目。
  ## [机器学习｜几款主流框架的对比和选择](https://www.oschina.net/news/97092/compare-some-ai-frameworks?origin=zhzx)
  > 随着 AI 技术快速发展，各种理论与实践层出不穷，它正在迅速改变我们生活中几乎每一个领域。而各种开发库和框架的发展，也拉近了开发者与 AI 距离。本文将介绍主流人工智能开发库，并分析其特征，帮助 AI 领域开发者减少选择障碍。 TensorFlow：Google 开源人工智能工具 TensorFlo
  ## [Openstack 基金会从开源云平台转向开源基础设施分支](https://www.oschina.net/news/97091/openstack-foundation-branches-out-open-source-infrastructure)
@@ -27,7 +31,7 @@ categories: IT NEWS
  ## [OSChina 周五乱弹 —— 如何向妹子解释越位](https://my.oschina.net/xxiaobian/blog/1830638)
  > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
  ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
- > Visual Studio Code 1.24.1 已发布，该版本更新情况可前往 issues 查看。 可参考 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉入自己的文件。 在移动/
+ > Visual Studio Code 1.24.1 已发布，该版本主要是 1.24 中的一些问题，详情可前往 issues 查看。 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉入自
  ## [Mozilla 为 iOS 版 Firefox 12 浏览器引入全新生产力特性](https://www.oschina.net/news/97085/mozilla-firefox-12-for-ios-productivity-features)
  > Mozilla 宣布了面向苹果 iOS 移动平台的 Firefox 12 网络浏览器，为 iPad 和 iPhone 用户带来了一大票全新的生产力特性。 本次更新主打多任务和提升使用效率，比如下载文件以便后续离线阅读。所有离线下载都可以通过主菜单轻松访问到。Mozilla 在公告中写到：“当你需要离
  ## [自动化构建系统 CMake 3.11.4 发布，常规维护版本](https://www.oschina.net/news/97084/cmake-3-11-4-released)
@@ -98,14 +102,14 @@ categories: IT NEWS
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [Intel拟推动概率计算研究](https://blog.csdn.net/gS780J/article/details/80684070)
+ > Intel拟推动概率计算研究
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
  > 机器学习及深度学习的知识点及面试题总结
- ## [机器学习正在成为程序员的必备能力](https://blog.csdn.net/Mbx8X9u/article/details/80650051)
- > 机器学习正在成为程序员的必备能力
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
 # 人工智能 
@@ -148,5 +152,19 @@ categories: IT NEWS
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
+ ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
+ > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
+ ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
+ > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
+ ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
+ > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
+ ## [经历了一个炒作周期，聊天机器人为什么还没成功?](http://www.pmtoo.com/article/48165.html)
+ > 由于我们期待太多，要求过急，对机器人行业以及我们都造成了伤害，我们严重高估了聊天机器人的初始影响效应。图...
+ ## [前有腾讯网易后有审批牵制，中国版Steam内容资源怎么解决？](http://www.pmtoo.com/article/48161.html)
+ > 说句实话，对于中国版的Steam我是不怎么看好的，因为它到时候的遇到的内容资源问题将十分的致命。图片来源：视觉...
+ ## [\[评论\]对骂群是个好产品](http://www.pmtoo.com/article/48158.html)
+ > 对骂群强行将两批原本水火不容的人驱赶到一起，这很违反当代产品经理的不成文规矩。实际上，现在绝大部分使用算法的公司...
+ ## [深度学习的寒冬来了？](http://www.pmtoo.com/article/48137.html)
+ > 深度学习可能还要在它所谓的“王座”上再坐一会。而媒体和反对者想要得出AI寒冬的结论，可能还需要多花些努力才行。...
 
     
