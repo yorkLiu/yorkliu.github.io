@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:15:44
+date: 2018-06-15 08:16:36
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -112,6 +112,8 @@ categories: IT NEWS
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
  > 机器学习及深度学习的知识点及面试题总结
+ ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
+ > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
@@ -143,6 +145,8 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [产品经理周报第23期｜本周各大产品的动作有点大，不信你看](http://www.woshipm.com/it/1060932.html)
  > 早☟☟☟昨晚世界杯开幕了你看了么据说贝利、章鱼后AI接棒世界杯“预测帝”称巴西夺冠emmm……未来还是一个未知数……现在还是随着小编的步伐，一起回顾本周有关产...
