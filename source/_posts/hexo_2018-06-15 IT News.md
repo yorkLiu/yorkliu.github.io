@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:29:00
+date: 2018-06-15 08:30:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -112,6 +112,8 @@ categories: IT NEWS
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [机器学习正在成为程序员的必备能力](https://blog.csdn.net/Mbx8X9u/article/details/80650051)
  > 机器学习正在成为程序员的必备能力
+ ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
+ > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
