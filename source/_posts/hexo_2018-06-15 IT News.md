@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 17:09:30
+date: 2018-06-15 17:09:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -235,22 +235,22 @@ categories: IT NEWS
  > 在IT圈混，怎么能不知道这些公众号？
  ## [ggplot2：可视化设计师的神器，了解一下](https://blog.csdn.net/kMD8d5R/article/details/80682079)
  > ggplot2：可视化设计师的神器，了解一下
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
- > 牛逼程序员教你用“火眼精睛”找bug
+ ## [世界上到底有没有月薪底于3万的程序员？](https://blog.csdn.net/qq_40433465/article/details/80653061)
+ > 世界上到底有没有月薪底于3万的程序员？
  ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
  > 没想到啊！2599元的Java干货今天免费送
- ## [Java 被黑的最惨的一次](https://blog.csdn.net/GitChat/article/details/80682329)
- > Java 被黑的最惨的一次
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
+ > 牛逼程序员教你用“火眼精睛”找bug
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
  ## [2018年数据科学语言&amp;工具排名，Python完胜R语言](https://blog.csdn.net/MOY37RQW1JarN33BgZk/article/details/80684295)
  > 2018年数据科学语言&amp;amp;工具排名，Python完胜R语言
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [王峰辞任蓝港互动CEO，宣布全力投身区块链](http://www.lanjingtmt.com/news/detail/35808.shtml)
@@ -333,25 +333,5 @@ categories: IT NEWS
  > 【小百摘要】父亲节马上来临，各种版本的父亲节文案你最喜欢哪一个？留言一起讨论吧~
  ## [抖音的1.5亿日活和3亿月活背后反映了怎样的产品属性？](http://www.chanpin100.com/article/107028)
  > 【小百摘要】从抖音日活/月活 =0.5浅谈日活/月活的价值。
- ## [这届世界杯，中国除了足球队，其他都去了](http://www.pmtoo.com/article/48233.html)
- > 世界杯没中国队什么事，但中国元素却是随处可见，从比赛用球到众多中国球迷，再到满大街的银联、支付宝标识，央视名嘴白岩松...
- ## [美容仪成了中国年轻消费者的新玩具，它是怎样流行起来的？](http://www.pmtoo.com/article/48221.html)
- > 技术名词、社交网络和网红、再加上对“初老”的恐惧，一个新的电子玩具诞生了打湿面部、涂上洁面乳，打开洁面仪在脸上...
- ## [场上场下都是黑科技，这届世界杯不一样](http://www.pmtoo.com/article/48213.html)
- > 还有几个小时，世界杯揭幕战就将在莫斯科卢日尼基体育场打响，啤酒和零食准备好了吗？是德国成功卫冕冠军，还是梅西终圆...
- ## [Airbnb 诞生十年后，狂奔的共享经济开始「妥协」](http://www.pmtoo.com/article/48208.html)
- > 狂奔十年后的 Airbnb 正在面对激情过后的「琐碎庸常」。年初刚庆祝完公司成立十周年庆典的 Airbnb，似乎有些流年不利。...
- ## [时隔两年再发新品，零度智控欲激活百亿市场](http://www.pmtoo.com/article/48202.html)
- > &quot; 我们憋了很久了 &quot; 站上台上拿起话筒，杨建军迫不及待的说出了这句话。杨建军已经很久没有像这样面对那么多人发言。上一...
- ## [从穿工装相亲到出门被嘲笑：新飞员工口述企业兴衰史](http://www.pmtoo.com/article/48196.html)
- > “新新飞 新发展 2018年隆重开工”——挂在新飞电器门口的红色条幅十分醒目，此时看起来却是百感交集，在公司门口偶尔来往的...
- ## [微信群互喷席卷全网，群主月入数万闷声发财](http://www.pmtoo.com/article/48189.html)
- > 被玩出花儿的微信“对骂群”，到底是怎么赚钱的呢？图片来源：视觉中国NBA总决赛虽已落下帷幕，但“骑勇大战”所掀起...
- ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
- > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
- ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
- > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
- ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
- > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
 
     
