@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:36:00
+date: 2018-06-15 10:37:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -105,22 +105,6 @@ categories: IT NEWS
  > Redisson 3.7.2 和 2.12.2 已发布，Redisson 是架设在 Redis 基础上的一个 Java 驻内存数据网格(In-Memory Data Grid)。 Redisson 在基于 NIO 的 Netty 框架上，充分利用了 Redis 键值数据库提供的一系列优势，在 Jav
  ## [Requests 2.19.0 和 2.19.1，Python 的 HTTP 客户端库](https://www.oschina.net/news/97079/requests-2-19-0-released)
  > Requests 2.19.0 和 2.19.1 已发布。Requests 是一个“非转基因”的 Python HTTP 库，人类可以安全享用。允许你发送“纯天然”、“植物饲养”的 HTTP/1.1 请求，无需手工劳动。你不需要手动为 URL 添加查询字串，也不需要对 POST 数据进行表单编码。K
- ## [【WOT2018】史扬：边缘计算参考架构2.0实践与思考](http://cloud.51cto.com/art/201806/576325.htm)
- > 【WOT2018】史扬：边缘计算参考架构2.0实践与思考
- ## [Facebook利用人工智能的六种方式，有些你可能想不到](http://ai.51cto.com/art/201806/576297.htm)
- > Facebook利用人工智能的六种方式，有些你可能想不到
- ## [外媒速递：十家值得关注的物联网初创企业](http://zhuanlan.51cto.com/art/201806/576313.htm)
- > 外媒速递：十家值得关注的物联网初创企业
- ## [区块链的信任输入、信任输出到底来自于哪里？](http://blockchain.51cto.com/art/201806/576267.htm)
- > 区块链的信任输入、信任输出到底来自于哪里？
- ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
- > 卷积神经网络十五问：CNN与生物视觉系统的研究探索
- ## [【WOT2018】沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
- > 【WOT2018】沈剑：58速运架构解耦与微服务实践
- ## [10亿流量的入口，小程序游戏会是那把钥匙吗？](http://mobile.51cto.com/news-576203.htm)
- > 10亿流量的入口，小程序游戏会是那把钥匙吗？
- ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
- > 【WOT2018】孙玄：转转如何打造AI工程架构体系
  ## [在创业公司担任了4年技术总监，我总结出这些套路_技术栈微信半月刊第19期](http://news.51cto.com/art/201806/576327.htm)
  > 51CTO技术栈微信半月刊第三期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一线技
  ## [学习Python必去的8个网站！](http://developer.51cto.com/art/201806/576324.htm)
@@ -141,6 +125,36 @@ categories: IT NEWS
  > 交通基础设施安全监测应该是NB-IoT的一个新的广阔的应用场景，从交通管理的需求来看，交通基础设施的安全监
  ## [可透视的AI问世了，你的一举一动都在别人眼里！](http://ai.51cto.com/art/201806/576322.htm)
  > 据英国《每日邮报》6月14日报道，一种可透视的人工智能(AI)已研发成功,并即将问世。据称，该软件可以跟踪多
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
+ > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
+ ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
+ > 开源一个Android自定义图表库
+ ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
+ > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
+ > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
+ > 没想到啊！2599元的Java干货今天免费送
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
+ > 牛逼程序员教你用“火眼精睛”找bug
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [星舆科技Starcart获近亿元pre-A融资，研发北斗定位](http://www.lanjingtmt.com/news/detail/35787.shtml)
