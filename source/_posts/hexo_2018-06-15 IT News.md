@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:09:35
+date: 2018-06-15 08:10:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,6 +70,18 @@ categories: IT NEWS
  > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
  ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
+ ## [选择最佳DDoS解决方案（四）――混合防护措施](http://netsecurity.51cto.com/art/201806/576310.htm)
+ > 本文是此系列文章的最后一篇，探讨了防御DDoS攻击的各种替代方法，以及如何为企业选择最佳的解决方案。
+ ## [浅谈基于意图的网络（IBN）](http://network.51cto.com/art/201806/576309.htm)
+ > 在园区网络中，有许多新兴趋势影响着未来网络建模的方式，这些趋势包括移动性、物联网(IoT)以及跨有线和无
+ ## [选择最佳DDoS解决方案（三）――永远在线的云服务](http://netsecurity.51cto.com/art/201806/576308.htm)
+ > 此系列文章深入介绍了不同的DDoS防护模型，以便帮助客户为特定用例选择最佳的防护措施。本文将介绍永远在线
+ ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
+ > 近日，哥伦比亚大学神经生物学与行为学博士 Grace Lindsay 在其博客上发文，通过问答的形式讨论了 CNN 和生
+ ## [路由器长期不关，对网速有影响吗？还真有！](http://network.51cto.com/art/201806/576307.htm)
+ > 路由器长时间连续工作，对它的寿命有影响吗?对网速有影响吗?　是的!路由器长时间不断电，的确会影响网速!但
+ ## [搭建云存储，对比私有云和公有云的不同](http://cloud.51cto.com/art/201806/576306.htm)
+ > 说起公共存储，很难不与后网络公司时代的选择性外包联系起来，但尽管如此，它还是具备着简单和固有的可用性
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
@@ -80,24 +92,24 @@ categories: IT NEWS
  > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
  ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
  > TensorFlow: 薛定谔的管道
  ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
  > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
  ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
  > 我们为什么应该坚持写博客
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [Intel拟推动概率计算研究](https://blog.csdn.net/gS780J/article/details/80684070)
  > Intel拟推动概率计算研究
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
  ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
  > 机器学习及深度学习的知识点及面试题总结
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
