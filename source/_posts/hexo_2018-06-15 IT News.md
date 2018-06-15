@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:06:55
+date: 2018-06-15 09:09:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,6 +70,10 @@ categories: IT NEWS
  > 【深度】十分钟读完人工智能的三生三世
  ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
  > 视+AR创始人张小军告诉你建设AR平台的正确姿势
+ ## [展望未来：物联网的下一步是什么？](http://iot.51cto.com/art/201806/576314.htm)
+ > 未来，物联网将继续以非常快的速度发展，并在很多方面取得成功。最终目标是拥有一个智能且完全安全的物联网
+ ## [作为 Java 开发者，你需要了解的堆外内存知识](http://stor.51cto.com/art/201806/576315.htm)
+ > 很久没有遇到堆外内存相关的问题了，五一假期刚结束，便不期而遇，以前也处理过几次这类问题，但都没有总结
  ## [CNCERT钓鱼邮件攻击防范指南](http://netsecurity.51cto.com/art/201806/576311.htm)
  > 钓鱼邮件是指黑客伪装成用户信任的人，通过发送电子邮件的方式，诱使用户回复邮件、点击嵌入邮件正文的恶意
  ## [选择最佳DDoS解决方案（四）――混合防护措施](http://netsecurity.51cto.com/art/201806/576310.htm)
@@ -108,12 +112,12 @@ categories: IT NEWS
  > 我们为什么应该坚持写博客
  ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
  > 机器学习及深度学习的知识点及面试题总结
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [机器学习正在成为程序员的必备能力](https://blog.csdn.net/Mbx8X9u/article/details/80650051)
  > 机器学习正在成为程序员的必备能力
- ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
- > 牛逼程序员教你用“火眼精睛”找bug
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [2018世界杯的莫比乌斯环：海信、vivo过亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
