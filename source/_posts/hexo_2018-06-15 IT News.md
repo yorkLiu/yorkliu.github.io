@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:41:58
+date: 2018-06-15 08:43:34
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -84,37 +84,39 @@ categories: IT NEWS
  > 路由器长时间连续工作，对它的寿命有影响吗?对网速有影响吗?　是的!路由器长时间不断电，的确会影响网速!但
  ## [搭建云存储，对比私有云和公有云的不同](http://cloud.51cto.com/art/201806/576306.htm)
  > 说起公共存储，很难不与后网络公司时代的选择性外包联系起来，但尽管如此，它还是具备着简单和固有的可用性
-# 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [Word Embedding的通俗解释](https://blog.csdn.net/jdbc/article/details/80691037)
- > Word Embedding的通俗解释
- ## [C双拼输入法使用说明](https://blog.csdn.net/dsscicin/article/details/80691080)
- > C双拼输入法使用说明
- ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
- > 系统稳定性分析
- ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
- > Tensorflow数据输入
- ## [中文自然语言处理入门实战](https://blog.csdn.net/qq_36330643/article/details/80691224)
- > 中文自然语言处理入门实战
- ## [TensorFlow模型载入方法汇总](https://blog.csdn.net/u014061630/article/details/80691256)
- > TensorFlow模型载入方法汇总
- ## [AUC的物理意义](https://blog.csdn.net/mimi9919/article/details/80691277)
- > AUC的物理意义
- ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
- > 周志华-机器学习-笔记（四）- 神经网络
- ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
- > django实现类似触发器的效果
- ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
- > 特征工程——特征转换
- ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
- > Xadmin自定义开发 笔记（一）
- ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
- > 机器学习：提升算法之Adaboost
- ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
- > 视觉问答VQA领域论文集锦
- ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
- > TensorFlow入门：（六）实现GAN
+ ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
+ > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
+ ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
+ > 开源一个Android自定义图表库
+ ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
+ > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
+ > TensorFlow: 薛定谔的管道
+ ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
+ > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
+ > 机器学习及深度学习的知识点及面试题总结
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [机器学习正在成为程序员的必备能力](https://blog.csdn.net/Mbx8X9u/article/details/80650051)
+ > 机器学习正在成为程序员的必备能力
+ ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
+ > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
+# 人工智能 
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
