@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:51:40
+date: 2018-06-15 09:52:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -159,6 +159,8 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
+ ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
+ > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
