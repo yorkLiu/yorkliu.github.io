@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:20:05
+date: 2018-06-15 08:21:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -145,8 +145,6 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [产品经理周报第23期｜本周各大产品的动作有点大，不信你看](http://www.woshipm.com/it/1060932.html)
  > 早☟☟☟昨晚世界杯开幕了你看了么据说贝利、章鱼后AI接棒世界杯“预测帝”称巴西夺冠emmm……未来还是一个未知数……现在还是随着小编的步伐，一起回顾本周有关产...
