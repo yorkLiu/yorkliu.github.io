@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:40:16
+date: 2018-06-15 09:40:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -155,6 +155,10 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
+ ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
+ > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [四步拆解：喜马拉雅FM主播等级体系设计](http://www.woshipm.com/pd/1060838.html)
  > 喜马拉雅主播等级体系算是喜马各业务线中资历比较老的一员了，主要服务于主播用户查看自身等级，以及特权享受，这次整理了近期关于主播等级线现存问题的改版。1. 产品...
