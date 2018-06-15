@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:13:52
+date: 2018-06-15 10:14:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,7 +65,7 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
- ## [重磅！国产 Linux 操作系统 Deepin 创始人兼 CTO 已离职](https://www.oschina.net/news/97099/deeepin-cto-leaved-his-job)
+ ## [Deepin 操作系统面临重重困境，创始人兼 CTO 宣布离职](https://www.oschina.net/news/97099/deeepin-cto-leaved-his-job)
  > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜的事情发生了，其创始人兼 CTO 离职，Deepin 的
  ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
  > Mozilla 2018 年的 all hands 会议正在旧金山举行，而近日其官网上的一则演讲摘要透露了 Mozilla 正在讨论研发一款语音网页浏览器的消息。 信息显示，演讲者 Tamara Hills 将分享主题为“Technical Stack Requirements for a Voic
@@ -231,19 +231,5 @@ categories: IT NEWS
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
- ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
- > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
- ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
- > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
- ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
- > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
- ## [经历了一个炒作周期，聊天机器人为什么还没成功?](http://www.pmtoo.com/article/48165.html)
- > 由于我们期待太多，要求过急，对机器人行业以及我们都造成了伤害，我们严重高估了聊天机器人的初始影响效应。图...
- ## [前有腾讯网易后有审批牵制，中国版Steam内容资源怎么解决？](http://www.pmtoo.com/article/48161.html)
- > 说句实话，对于中国版的Steam我是不怎么看好的，因为它到时候的遇到的内容资源问题将十分的致命。图片来源：视觉...
- ## [\[评论\]对骂群是个好产品](http://www.pmtoo.com/article/48158.html)
- > 对骂群强行将两批原本水火不容的人驱赶到一起，这很违反当代产品经理的不成文规矩。实际上，现在绝大部分使用算法的公司...
- ## [深度学习的寒冬来了？](http://www.pmtoo.com/article/48137.html)
- > 深度学习可能还要在它所谓的“王座”上再坐一会。而媒体和反对者想要得出AI寒冬的结论，可能还需要多花些努力才行。...
 
     
