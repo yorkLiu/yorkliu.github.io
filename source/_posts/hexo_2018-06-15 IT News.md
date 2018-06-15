@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:02:57
+date: 2018-06-15 10:05:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -133,10 +133,6 @@ categories: IT NEWS
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [Word Embedding的通俗解释](https://blog.csdn.net/jdbc/article/details/80691037)
- > Word Embedding的通俗解释
- ## [C双拼输入法使用说明](https://blog.csdn.net/dsscicin/article/details/80691080)
- > C双拼输入法使用说明
  ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
  > 系统稳定性分析
  ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
@@ -161,6 +157,10 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
+ ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://blog.csdn.net/qq_42154484/article/details/80691510)
+ > 万万没想到，枯燥的“机器学习”还可以这样学！
+ ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
+ > 机器学习之梯度下降
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
