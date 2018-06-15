@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:18:18
+date: 2018-06-15 09:23:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -58,6 +58,8 @@ categories: IT NEWS
  > Facebook利用人工智能的六种方式，有些你可能想不到
  ## [外媒速递：十家值得关注的物联网初创企业](http://zhuanlan.51cto.com/art/201806/576313.htm)
  > 外媒速递：十家值得关注的物联网初创企业
+ ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
+ > 卷积神经网络十五问：CNN与生物视觉系统的研究探索
  ## [【WOT2018】沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
  > 【WOT2018】沈剑：58速运架构解耦与微服务实践
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
@@ -68,8 +70,12 @@ categories: IT NEWS
  > 不空谈!轻松筹将区块链落地公益和互助行业
  ## [【深度】十分钟读完人工智能的三生三世](http://ai.51cto.com/art/201806/576213.htm)
  > 【深度】十分钟读完人工智能的三生三世
- ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
- > 视+AR创始人张小军告诉你建设AR平台的正确姿势
+ ## [高通服务器芯片部门裁员：可能占该部门员工数量一半](http://news.51cto.com/art/201806/576317.htm)
+ > 北京时间6月15日上午消息，高通数据中心芯片部门裁减约280名员工，原本高通投入重兵，大举进入服务器市场
+ ## [NB-IoT在交通基础设施安全监测中的应用探析](http://iot.51cto.com/art/201806/576316.htm)
+ > 交通基础设施安全监测应该是NB-IoT的一个新的广阔的应用场景，从交通管理的需求来看，交通基础设施的安全监
+ ## [目前所有网络存储技术整理篇（SAN/NAS以及集群存储、P2P存储、网格存储等）](http://stor.51cto.com/art/201806/576318.htm)
+ > 在以数据为中心的信息时代，存储已成为IT基础设施的核心之一。数据存储已经成为继互联网热潮之后的又一次技
  ## [展望未来：物联网的下一步是什么？](http://iot.51cto.com/art/201806/576314.htm)
  > 未来，物联网将继续以非常快的速度发展，并在很多方面取得成功。最终目标是拥有一个智能且完全安全的物联网
  ## [作为 Java 开发者，你需要了解的堆外内存知识](http://stor.51cto.com/art/201806/576315.htm)
@@ -82,17 +88,73 @@ categories: IT NEWS
  > 在园区网络中，有许多新兴趋势影响着未来网络建模的方式，这些趋势包括移动性、物联网(IoT)以及跨有线和无
  ## [选择最佳DDoS解决方案（三）――永远在线的云服务](http://netsecurity.51cto.com/art/201806/576308.htm)
  > 此系列文章深入介绍了不同的DDoS防护模型，以便帮助客户为特定用例选择最佳的防护措施。本文将介绍永远在线
- ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
- > 近日，哥伦比亚大学神经生物学与行为学博士 Grace Lindsay 在其博客上发文，通过问答的形式讨论了 CNN 和生
  ## [路由器长期不关，对网速有影响吗？还真有！](http://network.51cto.com/art/201806/576307.htm)
  > 路由器长时间连续工作，对它的寿命有影响吗?对网速有影响吗?　是的!路由器长时间不断电，的确会影响网速!但
- ## [搭建云存储，对比私有云和公有云的不同](http://cloud.51cto.com/art/201806/576306.htm)
- > 说起公共存储，很难不与后网络公司时代的选择性外包联系起来，但尽管如此，它还是具备着简单和固有的可用性
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
+ > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
+ ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
+ > 开源一个Android自定义图表库
+ ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
+ > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
+ > 程序员：如何优雅地装逼
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
+ > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
+ ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
+ > 华为资深工程师：码农很多，但程序员并不多......
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
+ > 机器学习及深度学习的知识点及面试题总结
+ ## [机器学习正在成为程序员的必备能力](https://blog.csdn.net/Mbx8X9u/article/details/80650051)
+ > 机器学习正在成为程序员的必备能力
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [2018世界杯的莫比乌斯环：海信、vivo过亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [Word Embedding的通俗解释](https://blog.csdn.net/jdbc/article/details/80691037)
+ > Word Embedding的通俗解释
+ ## [C双拼输入法使用说明](https://blog.csdn.net/dsscicin/article/details/80691080)
+ > C双拼输入法使用说明
+ ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
+ > 系统稳定性分析
+ ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
+ > Tensorflow数据输入
+ ## [中文自然语言处理入门实战](https://blog.csdn.net/qq_36330643/article/details/80691224)
+ > 中文自然语言处理入门实战
+ ## [TensorFlow模型载入方法汇总](https://blog.csdn.net/u014061630/article/details/80691256)
+ > TensorFlow模型载入方法汇总
+ ## [AUC的物理意义](https://blog.csdn.net/mimi9919/article/details/80691277)
+ > AUC的物理意义
+ ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
+ > 周志华-机器学习-笔记（四）- 神经网络
+ ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
+ > django实现类似触发器的效果
+ ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
+ > 特征工程——特征转换
+ ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
+ > Xadmin自定义开发 笔记（一）
+ ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
+ > 机器学习：提升算法之Adaboost
+ ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
+ > 视觉问答VQA领域论文集锦
+ ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
+ > TensorFlow入门：（六）实现GAN
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
@@ -104,5 +166,19 @@ categories: IT NEWS
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
+ ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
+ > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
+ ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
+ > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
+ ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
+ > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
+ ## [经历了一个炒作周期，聊天机器人为什么还没成功?](http://www.pmtoo.com/article/48165.html)
+ > 由于我们期待太多，要求过急，对机器人行业以及我们都造成了伤害，我们严重高估了聊天机器人的初始影响效应。图...
+ ## [前有腾讯网易后有审批牵制，中国版Steam内容资源怎么解决？](http://www.pmtoo.com/article/48161.html)
+ > 说句实话，对于中国版的Steam我是不怎么看好的，因为它到时候的遇到的内容资源问题将十分的致命。图片来源：视觉...
+ ## [\[评论\]对骂群是个好产品](http://www.pmtoo.com/article/48158.html)
+ > 对骂群强行将两批原本水火不容的人驱赶到一起，这很违反当代产品经理的不成文规矩。实际上，现在绝大部分使用算法的公司...
+ ## [深度学习的寒冬来了？](http://www.pmtoo.com/article/48137.html)
+ > 深度学习可能还要在它所谓的“王座”上再坐一会。而媒体和反对者想要得出AI寒冬的结论，可能还需要多花些努力才行。...
 
     
