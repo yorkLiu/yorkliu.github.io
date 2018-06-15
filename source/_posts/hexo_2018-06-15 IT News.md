@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 17:31:35
+date: 2018-06-15 17:33:05
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -280,6 +280,36 @@ categories: IT NEWS
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
+ > 周志华-机器学习-笔记（四）- 神经网络
+ ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
+ > django实现类似触发器的效果
+ ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
+ > 特征工程——特征转换
+ ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
+ > Xadmin自定义开发 笔记（一）
+ ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
+ > 机器学习：提升算法之Adaboost
+ ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
+ > 视觉问答VQA领域论文集锦
+ ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
+ > TensorFlow入门：（六）实现GAN
+ ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://blog.csdn.net/qq_42154484/article/details/80691510)
+ > 万万没想到，枯燥的“机器学习”还可以这样学！
+ ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
+ > 机器学习之梯度下降
+ ## [特征工程——数据降维](https://blog.csdn.net/wsp_1138886114/article/details/80691543)
+ > 特征工程——数据降维
+ ## [Unity项目总结 模型制作 场景搭建](https://blog.csdn.net/qq_34272906/article/details/80691552)
+ > Unity项目总结 模型制作 场景搭建
+ ## [用一句话总结常用的机器学习算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80691609)
+ > 用一句话总结常用的机器学习算法
+ ## [笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章](https://blog.csdn.net/ZOMB1E123456/article/details/80691614)
+ > 笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章
+ ## [t特征工程——特征选择](https://blog.csdn.net/wsp_1138886114/article/details/80691648)
+ > t特征工程——特征选择
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
