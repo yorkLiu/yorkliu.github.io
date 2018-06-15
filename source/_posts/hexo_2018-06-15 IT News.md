@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:37:04
+date: 2018-06-15 10:38:19
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -105,6 +105,22 @@ categories: IT NEWS
  > Redisson 3.7.2 和 2.12.2 已发布，Redisson 是架设在 Redis 基础上的一个 Java 驻内存数据网格(In-Memory Data Grid)。 Redisson 在基于 NIO 的 Netty 框架上，充分利用了 Redis 键值数据库提供的一系列优势，在 Jav
  ## [Requests 2.19.0 和 2.19.1，Python 的 HTTP 客户端库](https://www.oschina.net/news/97079/requests-2-19-0-released)
  > Requests 2.19.0 和 2.19.1 已发布。Requests 是一个“非转基因”的 Python HTTP 库，人类可以安全享用。允许你发送“纯天然”、“植物饲养”的 HTTP/1.1 请求，无需手工劳动。你不需要手动为 URL 添加查询字串，也不需要对 POST 数据进行表单编码。K
+ ## [【WOT2018】史扬：边缘计算参考架构2.0实践与思考](http://cloud.51cto.com/art/201806/576325.htm)
+ > 【WOT2018】史扬：边缘计算参考架构2.0实践与思考
+ ## [Facebook利用人工智能的六种方式，有些你可能想不到](http://ai.51cto.com/art/201806/576297.htm)
+ > Facebook利用人工智能的六种方式，有些你可能想不到
+ ## [外媒速递：十家值得关注的物联网初创企业](http://zhuanlan.51cto.com/art/201806/576313.htm)
+ > 外媒速递：十家值得关注的物联网初创企业
+ ## [区块链的信任输入、信任输出到底来自于哪里？](http://blockchain.51cto.com/art/201806/576267.htm)
+ > 区块链的信任输入、信任输出到底来自于哪里？
+ ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
+ > 卷积神经网络十五问：CNN与生物视觉系统的研究探索
+ ## [【WOT2018】沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
+ > 【WOT2018】沈剑：58速运架构解耦与微服务实践
+ ## [10亿流量的入口，小程序游戏会是那把钥匙吗？](http://mobile.51cto.com/news-576203.htm)
+ > 10亿流量的入口，小程序游戏会是那把钥匙吗？
+ ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
+ > 【WOT2018】孙玄：转转如何打造AI工程架构体系
  ## [在创业公司担任了4年技术总监，我总结出这些套路_技术栈微信半月刊第19期](http://news.51cto.com/art/201806/576327.htm)
  > 51CTO技术栈微信半月刊第三期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一线技
  ## [学习Python必去的8个网站！](http://developer.51cto.com/art/201806/576324.htm)
@@ -131,8 +147,8 @@ categories: IT NEWS
  > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
  ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
  > 开源一个Android自定义图表库
- ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
- > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
+ ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
+ > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
