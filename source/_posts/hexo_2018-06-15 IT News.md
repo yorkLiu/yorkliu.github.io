@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:05:05
+date: 2018-06-15 10:06:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -56,6 +56,8 @@ categories: IT NEWS
  > OTP 20.3.8 已发布，OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器。 该版本对以下应用进行了更新： erts-9.3.3 snmp-5.2.11 以下应用均未做更新： - asn1-5.0.5- common_test-1.15.4- co
  ## [WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 发布](https://www.oschina.net/news/97077/mapbox-gl-js-v0-46-beta1-released)
  > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
+ ## [【WOT2018】史扬：边缘计算参考架构2.0实践与思考](http://cloud.51cto.com/art/201806/576325.htm)
+ > 【WOT2018】史扬：边缘计算参考架构2.0实践与思考
  ## [Facebook利用人工智能的六种方式，有些你可能想不到](http://ai.51cto.com/art/201806/576297.htm)
  > Facebook利用人工智能的六种方式，有些你可能想不到
  ## [外媒速递：十家值得关注的物联网初创企业](http://zhuanlan.51cto.com/art/201806/576313.htm)
@@ -70,10 +72,10 @@ categories: IT NEWS
  > 10亿流量的入口，小程序游戏会是那把钥匙吗？
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
  > 【WOT2018】孙玄：转转如何打造AI工程架构体系
- ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
- > 我用Python分析了4W场比赛，2018世界杯冠军竟然是……
  ## [学习Python必去的8个网站！](http://developer.51cto.com/art/201806/576324.htm)
  > 作为一个现时代的程序员初学者，除了看书之外，互联网的学习手段也是断不能少的！以下这些网站，虽说不上全
+ ## [云计算剖析云计算数据中心架构](http://server.51cto.com/Datacenter-576326.htm)
+ > 对于云计算而言，应着重从高端服务器、高密度低成本服务器、海量存储设备和高性能计算设备等基础设施领域提
  ## [花旗银行计划 5年内让人工智能代替1万个工作岗位](http://ai.51cto.com/art/201806/576323.htm)
  > 据金融时报，花旗银行计划在 5 年内把投资银行部门的科技和业务人员裁去 50% ，准备用人工智能算法代替他们
  ## [恢复时间目标(RTO)和恢复点目标(RPO)的理解差异](http://stor.51cto.com/art/201806/576321.htm)
@@ -90,8 +92,6 @@ categories: IT NEWS
  > 据英国《每日邮报》6月14日报道，一种可透视的人工智能(AI)已研发成功,并即将问世。据称，该软件可以跟踪多
  ## [目前所有网络存储技术整理篇（SAN/NAS以及集群存储、P2P存储、网格存储等）](http://stor.51cto.com/art/201806/576318.htm)
  > 在以数据为中心的信息时代，存储已成为IT基础设施的核心之一。数据存储已经成为继互联网热潮之后的又一次技
- ## [展望未来：物联网的下一步是什么？](http://iot.51cto.com/art/201806/576314.htm)
- > 未来，物联网将继续以非常快的速度发展，并在很多方面取得成功。最终目标是拥有一个智能且完全安全的物联网
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
@@ -124,12 +124,6 @@ categories: IT NEWS
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
- ## [星舆科技Starcart获近亿元pre-A融资，研发北斗定位](http://www.lanjingtmt.com/news/detail/35787.shtml)
- > 将用于“网-端-云”三位一体的精准时空体系构建
- ## [人民日报人民时评：个人信息，利用好更需保护好](http://www.lanjingtmt.com/news/detail/35786.shtml)
- > 平衡好信息开发利用与保护个人信息安全的关系，事关每个人的合法权益，也关乎数字经济能否真正行稳致远
- ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
- > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
