@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:06:01
+date: 2018-06-15 10:07:12
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -16,6 +16,8 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
+ ## [国产 Linux 操作系统 Deepin 面临重重困难，创始人兼 CTO 已辞职](https://www.oschina.net/news/97099/deeepin-)
+ > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜的事情发生了，其创始人兼 CTO 离职，Deepin 的
  ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
  > Mozilla 2018 年的 all hands 会议正在旧金山举行，而近日其官网上的一则演讲摘要透露了 Mozilla 正在讨论研发一款语音网页浏览器的消息。 信息显示，演讲者 Tamara Hills 将分享主题为“Technical Stack Requirements for a Voic
  ## [刺痛程序员灵魂的问与答：你见过半个女架构师吗？](https://www.oschina.net/question/2720166_2281581)
@@ -54,8 +56,6 @@ categories: IT NEWS
  > Requests 2.19.0 和 2.19.1 已发布。Requests 是一个“非转基因”的 Python HTTP 库，人类可以安全享用。允许你发送“纯天然”、“植物饲养”的 HTTP/1.1 请求，无需手工劳动。你不需要手动为 URL 添加查询字串，也不需要对 POST 数据进行表单编码。K
  ## [OTP 20.3.8 发布，Erlang 编写的应用服务器](https://www.oschina.net/news/97078/otp-20-3-8-released)
  > OTP 20.3.8 已发布，OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器。 该版本对以下应用进行了更新： erts-9.3.3 snmp-5.2.11 以下应用均未做更新： - asn1-5.0.5- common_test-1.15.4- co
- ## [WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 发布](https://www.oschina.net/news/97077/mapbox-gl-js-v0-46-beta1-released)
- > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
  ## [【WOT2018】史扬：边缘计算参考架构2.0实践与思考](http://cloud.51cto.com/art/201806/576325.htm)
  > 【WOT2018】史扬：边缘计算参考架构2.0实践与思考
  ## [Facebook利用人工智能的六种方式，有些你可能想不到](http://ai.51cto.com/art/201806/576297.htm)
@@ -124,6 +124,12 @@ categories: IT NEWS
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
+ ## [星舆科技Starcart获近亿元pre-A融资，研发北斗定位](http://www.lanjingtmt.com/news/detail/35787.shtml)
+ > 将用于“网-端-云”三位一体的精准时空体系构建
+ ## [人民日报人民时评：个人信息，利用好更需保护好](http://www.lanjingtmt.com/news/detail/35786.shtml)
+ > 平衡好信息开发利用与保护个人信息安全的关系，事关每个人的合法权益，也关乎数字经济能否真正行稳致远
+ ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
+ > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
