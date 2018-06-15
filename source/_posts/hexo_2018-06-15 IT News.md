@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:32:22
+date: 2018-06-15 08:34:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -54,8 +54,8 @@ categories: IT NEWS
  > OTP 20.3.8 已发布，OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器。 该版本对以下应用进行了更新： erts-9.3.3 snmp-5.2.11 以下应用均未做更新： - asn1-5.0.5- common_test-1.15.4- co
  ## [WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 发布](https://www.oschina.net/news/97077/mapbox-gl-js-v0-46-beta1-released)
  > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
- ## [WOT沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
- > WOT沈剑：58速运架构解耦与微服务实践
+ ## [【WOT2018】沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
+ > 【WOT2018】沈剑：58速运架构解耦与微服务实践
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
  > 【WOT2018】孙玄：转转如何打造AI工程架构体系
  ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
@@ -70,6 +70,8 @@ categories: IT NEWS
  > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
  ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
  > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
+ ## [CNCERT钓鱼邮件攻击防范指南](http://netsecurity.51cto.com/art/201806/576311.htm)
+ > 钓鱼邮件是指黑客伪装成用户信任的人，通过发送电子邮件的方式，诱使用户回复邮件、点击嵌入邮件正文的恶意
  ## [选择最佳DDoS解决方案（四）――混合防护措施](http://netsecurity.51cto.com/art/201806/576310.htm)
  > 本文是此系列文章的最后一篇，探讨了防御DDoS攻击的各种替代方法，以及如何为企业选择最佳的解决方案。
  ## [浅谈基于意图的网络（IBN）](http://network.51cto.com/art/201806/576309.htm)
