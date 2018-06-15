@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:21:54
+date: 2018-06-15 10:22:56
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,6 +67,8 @@ categories: IT NEWS
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
  ## [Deepin 操作系统面临重重困境，创始人兼 CTO 已离职](https://www.oschina.net/news/97099/deeepin-cto-leaved-his-job)
  > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜的事情发生了，其创始人兼 CTO 离职，Deepin 的
+ ## [接口管理系统 eoLinker-AMS 开源版 V4.0 发布更新](https://www.oschina.net/news/97098/eolinker-4-0-released)
+ > eoLinker API Management System（AMS）是一款帮助企业开发人员进行在线管理接口文档、进行自动化测试、团队协作的工具，它旨在提高企业项目的接口管理水平，提升开发速度并且降低运维成本。 eoLinker是目前业内最强、国内最大、功能最完善的在线API接口管理平台，提供自动生
  ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
  > Mozilla 2018 年的 all hands 会议正在旧金山举行，而近日其官网上的一则演讲摘要透露了 Mozilla 正在讨论研发一款语音网页浏览器的消息。 信息显示，演讲者 Tamara Hills 将分享主题为“Technical Stack Requirements for a Voic
  ## [刺痛程序员灵魂的问与答：你见过半个女架构师吗？](https://www.oschina.net/question/2720166_2281581)
@@ -103,8 +105,6 @@ categories: IT NEWS
  > Redisson 3.7.2 和 2.12.2 已发布，Redisson 是架设在 Redis 基础上的一个 Java 驻内存数据网格(In-Memory Data Grid)。 Redisson 在基于 NIO 的 Netty 框架上，充分利用了 Redis 键值数据库提供的一系列优势，在 Jav
  ## [Requests 2.19.0 和 2.19.1，Python 的 HTTP 客户端库](https://www.oschina.net/news/97079/requests-2-19-0-released)
  > Requests 2.19.0 和 2.19.1 已发布。Requests 是一个“非转基因”的 Python HTTP 库，人类可以安全享用。允许你发送“纯天然”、“植物饲养”的 HTTP/1.1 请求，无需手工劳动。你不需要手动为 URL 添加查询字串，也不需要对 POST 数据进行表单编码。K
- ## [OTP 20.3.8 发布，Erlang 编写的应用服务器](https://www.oschina.net/news/97078/otp-20-3-8-released)
- > OTP 20.3.8 已发布，OTP (Open Telecom Platform) 是一个用 Erlang 编写的应用服务器。 该版本对以下应用进行了更新： erts-9.3.3 snmp-5.2.11 以下应用均未做更新： - asn1-5.0.5- common_test-1.15.4- co
  ## [【WOT2018】史扬：边缘计算参考架构2.0实践与思考](http://cloud.51cto.com/art/201806/576325.htm)
  > 【WOT2018】史扬：边缘计算参考架构2.0实践与思考
  ## [Facebook利用人工智能的六种方式，有些你可能想不到](http://ai.51cto.com/art/201806/576297.htm)
@@ -227,6 +227,10 @@ categories: IT NEWS
  > 喜马拉雅主播等级体系算是喜马各业务线中资历比较老的一员了，主要服务于主播用户查看自身等级，以及特权享受，这次整理了近期关于主播等级线现存问题的改版。1. 产品...
  ## [产品经理周报第23期｜本周各大产品的动作有点大，不信你看](http://www.woshipm.com/it/1060932.html)
  > 早☟☟☟昨晚世界杯开幕了你看了么据说贝利、章鱼后AI接棒世界杯“预测帝”称巴西夺冠emmm……未来还是一个未知数……现在还是随着小编的步伐，一起回顾本周有关产...
+ ## [大部分公司的运营体系，烂如手工作坊](http://www.chanpin100.com/article/106956)
+ > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
+ ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
+ > 【小百摘要】教你打出你的增长策略流。
  ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
  > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
  ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
