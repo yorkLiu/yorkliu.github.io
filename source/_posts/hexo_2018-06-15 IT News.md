@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:56:17
+date: 2018-06-15 10:56:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -141,36 +141,6 @@ categories: IT NEWS
  > 对于企业来说网站是企业重要的门户，然而不同企业对于网站服务器托管的方式会随着企业的需求而变化。
  ## [在创业公司担任了4年技术总监，我总结出这些套路_技术栈微信半月刊第19期](http://news.51cto.com/art/201806/576327.htm)
  > 51CTO技术栈微信半月刊第三期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一线技
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇](https://blog.csdn.net/superwebmaster/article/details/80677593)
- > JavaScript三元运算符的使用 进阶三元运算逻辑拓展篇
- ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
- > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
- ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
- > 开源一个Android自定义图表库
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
- > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [把共和党当纳粹？谷歌：这个锅我们不背！](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/80649856)
- > 把共和党当纳粹？谷歌：这个锅我们不背！
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
- > 没想到啊！2599元的Java干货今天免费送
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [小熊电器闯IPO：有钱找代言没钱搞研发，严重依赖渠道](http://www.lanjingtmt.com/news/detail/35788.shtml)
@@ -233,5 +203,19 @@ categories: IT NEWS
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
+ ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
+ > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
+ ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
+ > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
+ ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
+ > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
+ ## [经历了一个炒作周期，聊天机器人为什么还没成功?](http://www.pmtoo.com/article/48165.html)
+ > 由于我们期待太多，要求过急，对机器人行业以及我们都造成了伤害，我们严重高估了聊天机器人的初始影响效应。图...
+ ## [前有腾讯网易后有审批牵制，中国版Steam内容资源怎么解决？](http://www.pmtoo.com/article/48161.html)
+ > 说句实话，对于中国版的Steam我是不怎么看好的，因为它到时候的遇到的内容资源问题将十分的致命。图片来源：视觉...
+ ## [\[评论\]对骂群是个好产品](http://www.pmtoo.com/article/48158.html)
+ > 对骂群强行将两批原本水火不容的人驱赶到一起，这很违反当代产品经理的不成文规矩。实际上，现在绝大部分使用算法的公司...
+ ## [深度学习的寒冬来了？](http://www.pmtoo.com/article/48137.html)
+ > 深度学习可能还要在它所谓的“王座”上再坐一会。而媒体和反对者想要得出AI寒冬的结论，可能还需要多花些努力才行。...
 
     
