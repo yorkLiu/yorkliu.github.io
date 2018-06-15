@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:38:21
+date: 2018-06-15 09:38:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -125,6 +125,36 @@ categories: IT NEWS
  ## [2018世界杯的莫比乌斯环：海信、vivo过亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
+ ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
+ > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
+ ## [Word Embedding的通俗解释](https://blog.csdn.net/jdbc/article/details/80691037)
+ > Word Embedding的通俗解释
+ ## [C双拼输入法使用说明](https://blog.csdn.net/dsscicin/article/details/80691080)
+ > C双拼输入法使用说明
+ ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
+ > 系统稳定性分析
+ ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
+ > Tensorflow数据输入
+ ## [中文自然语言处理入门实战](https://blog.csdn.net/qq_36330643/article/details/80691224)
+ > 中文自然语言处理入门实战
+ ## [TensorFlow模型载入方法汇总](https://blog.csdn.net/u014061630/article/details/80691256)
+ > TensorFlow模型载入方法汇总
+ ## [AUC的物理意义](https://blog.csdn.net/mimi9919/article/details/80691277)
+ > AUC的物理意义
+ ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
+ > 周志华-机器学习-笔记（四）- 神经网络
+ ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
+ > django实现类似触发器的效果
+ ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
+ > 特征工程——特征转换
+ ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
+ > Xadmin自定义开发 笔记（一）
+ ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
+ > 机器学习：提升算法之Adaboost
+ ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
+ > 视觉问答VQA领域论文集锦
+ ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
+ > TensorFlow入门：（六）实现GAN
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
