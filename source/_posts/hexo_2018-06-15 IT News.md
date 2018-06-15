@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:03:38
+date: 2018-06-15 08:05:17
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,11 +14,13 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
+ ## [OSChina 周五乱弹 —— 如何向妹子解释越位](https://my.oschina.net/xxiaobian/blog/1830638)
+ > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
  ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
  > Visual Studio Code 1.24.1 已发布，该版本更新情况可前往 issues 查看。 可参考 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉入自己的文件。 在移动/
  ## [Mozilla 为 iOS 版 Firefox 12 浏览器引入全新生产力特性](https://www.oschina.net/news/97085/mozilla-firefox-12-for-ios-productivity-features)
  > Mozilla 宣布了面向苹果 iOS 移动平台的 Firefox 12 网络浏览器，为 iPad 和 iPhone 用户带来了一大票全新的生产力特性。 本次更新主打多任务和提升使用效率，比如下载文件以便后续离线阅读。所有离线下载都可以通过主菜单轻松访问到。Mozilla 在公告中写到：“当你需要离
- ## [CMake 3.11.4 发布，自动化构建系统](https://www.oschina.net/news/97084/cmake-3-11-4-released)
+ ## [自动化构建系统 CMake 3.11.4 发布，常规维护版本](https://www.oschina.net/news/97084/cmake-3-11-4-released)
  > CMake 3.11.4 已发布，CMake 是一个跨平台的自动化建构系统,它使用一个名为 CMakeLists.txt 的文件来描述构建过程，可以产生标准的构建文件，如 Unix 的 Makefile 或Windows Visual C++ 的 projects/workspaces 。文件 CM
  ## [Emulator 27.3.7 发布，Android Studio 自带模拟器](https://www.oschina.net/news/97083/emulator-27-3-7-released)
  > Android Studio 的模拟器 Emulator 27.3.7 Canary 发布了，此版本更新内容如下： 修复了 Windows 管理程序平台上运行的模拟器的问题，其中 API 级别&lt;=25 的系统映像无法启动。 详情及历史更新内容可以查看： https://androidstudio.g
@@ -36,6 +38,34 @@ categories: IT NEWS
  > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
  ## [Angular 6.1.0-beta.1 发布，Web 前端框架](https://www.oschina.net/news/97076/angular-6-1-0-beta1-released)
  > Angular 6.1.0-beta.1 已发布。主要更新内容如下： Bug 修复： animations: always render end-state styles for orphaned DOM nodes (24236) (dc4a3d0) bazel: Allow ng_module
+ ## [WOT沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
+ > WOT沈剑：58速运架构解耦与微服务实践
+ ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
+ > 【WOT2018】孙玄：转转如何打造AI工程架构体系
+ ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
+ > 我用Python分析了4W场比赛，2018世界杯冠军竟然是……
+ ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
+ > 不空谈!轻松筹将区块链落地公益和互助行业
+ ## [【深度】十分钟读完人工智能的三生三世](http://ai.51cto.com/art/201806/576213.htm)
+ > 【深度】十分钟读完人工智能的三生三世
+ ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
+ > 视+AR创始人张小军告诉你建设AR平台的正确姿势
+ ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
+ > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
+ ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
+ > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
+ ## [选择最佳DDoS解决方案（四）――混合防护措施](http://netsecurity.51cto.com/art/201806/576310.htm)
+ > 本文是此系列文章的最后一篇，探讨了防御DDoS攻击的各种替代方法，以及如何为企业选择最佳的解决方案。
+ ## [浅谈基于意图的网络（IBN）](http://network.51cto.com/art/201806/576309.htm)
+ > 在园区网络中，有许多新兴趋势影响着未来网络建模的方式，这些趋势包括移动性、物联网(IoT)以及跨有线和无
+ ## [选择最佳DDoS解决方案（三）――永远在线的云服务](http://netsecurity.51cto.com/art/201806/576308.htm)
+ > 此系列文章深入介绍了不同的DDoS防护模型，以便帮助客户为特定用例选择最佳的防护措施。本文将介绍永远在线
+ ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
+ > 近日，哥伦比亚大学神经生物学与行为学博士 Grace Lindsay 在其博客上发文，通过问答的形式讨论了 CNN 和生
+ ## [路由器长期不关，对网速有影响吗？还真有！](http://network.51cto.com/art/201806/576307.htm)
+ > 路由器长时间连续工作，对它的寿命有影响吗?对网速有影响吗?　是的!路由器长时间不断电，的确会影响网速!但
+ ## [搭建云存储，对比私有云和公有云的不同](http://cloud.51cto.com/art/201806/576306.htm)
+ > 说起公共存储，很难不与后网络公司时代的选择性外包联系起来，但尽管如此，它还是具备着简单和固有的可用性
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
