@@ -1,11 +1,13 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:47:00
+date: 2018-06-15 09:47:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
+ ## [如何快速搭建一个简单的塔防小游戏](https://my.oschina.net/u/3875054/blog/1830663)
+ > C语言是所有编程语言的基础，当我们对C语言有足够深入的理解后，就能轻松入门其他语言，比如现在流行的Python。现在，我将带领大家看一个基于C语言经典算法，使用Python编写的塔防小游戏。 在塔防游戏中，有许多敌人向着同一目标前进。在很多塔防游戏当中，有一条或几条事先预定好的路径。在一些中，比如经
  ## [精讲Redis：持久化](https://my.oschina.net/u/3779583/blog/1830335)
  > 前言 在上一篇文章中，介绍了Redis内存模型，从这篇文章开始，将依次介绍Redis高可用相关的知识——持久化、复制(及读写分离)、哨兵、以及集群。 一、Redis高可用概述 在介绍Redis高可用之前，先说明一下在Redis的语境中高可用的含义。 我们知道，在web服务器中，高可用是指服务器可以正
  ## [Python标准库笔记(10) — itertools模块](https://my.oschina.net/jhao104/blog/1830307)
@@ -110,16 +112,18 @@ categories: IT NEWS
  > 我们为什么应该坚持写博客
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
- > 机器学习及深度学习的知识点及面试题总结
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
+ > 没想到啊！2599元的Java干货今天免费送
  ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
  > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
+ > 机器学习及深度学习的知识点及面试题总结
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
- > 牛逼程序员教你用“火眼精睛”找bug
+ ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
+ > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [人民日报人民时评：个人信息，利用好更需保护好](http://www.lanjingtmt.com/news/detail/35786.shtml)
  > 平衡好信息开发利用与保护个人信息安全的关系，事关每个人的合法权益，也关乎数字经济能否真正行稳致远
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
@@ -155,6 +159,8 @@ categories: IT NEWS
  > 视觉问答VQA领域论文集锦
  ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
  > TensorFlow入门：（六）实现GAN
+ ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
+ > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [四步拆解：喜马拉雅FM主播等级体系设计](http://www.woshipm.com/pd/1060838.html)
  > 喜马拉雅主播等级体系算是喜马各业务线中资历比较老的一员了，主要服务于主播用户查看自身等级，以及特权享受，这次整理了近期关于主播等级线现存问题的改版。1. 产品...
