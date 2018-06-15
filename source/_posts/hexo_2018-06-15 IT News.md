@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 17:23:26
+date: 2018-06-15 17:25:20
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -96,46 +96,6 @@ categories: IT NEWS
  > 阿里巴巴集团技术委员会主席王坚认为：1、城市是人类最了不起的发明，“智慧城市”不是城市的未来；2、城市大脑是支撑未来城市发展的基础设施；3、人的智能远远不能解决城市的复杂问题，必须借助机器智能。演讲/...
  ## [中国联通正推动50G PON波长计划等研究](http://mp.weixin.qq.com/s?src=11&timestamp=1529053206&ver=939&signature=KDGE7BHq5bayUWpsjj0CydqDQLCgWnAK6qEqlSV5Z8De*MfjQw4*ZZO3RqKD0V32hXBCm6Z7ZxlDc5F*1SgKr1rPJ9Qzc5VjFI02MAQCnj1r4dKgpXc0wE4-fyv-Q-Rz&new=1)
  > 在“2018中国光网络研讨会”上，谈及50G PON建设部署总体设想，中国联通网络技术研究院网络技术研究部光接入网室高级工程师贾武表示，中国联通积极支持产业界加快50G PON相关器件、系统实现技术研究，将在规...
- ## [有哪些好用免费的多人协同办公软件可推荐？](https://www.zhihu.com/question/19834756)
- > 多人协同办公软件，我们团队目前在用的是钉钉、亿方云、teambition。钉钉主要用的是审批和报销，因为一直都在用，很习惯也很顺手了。亿方云在团队协作层面的使用体验很不错，使用之后，基本不再需要邮箱，文件沟通直...
- ## [在线教育的模式可以有哪些？](https://www.zhihu.com/question/21367356)
- > 谢邀～看了下，诸位答主对在线教育确实说得很详细了。其实题主所谓的“模式”，更多的应该说是盈利模式，不如我们一步到位，来谈谈这个问题。一般意义上，2013年是“中国在线教育元年”，几年来，中国在线教育发展如...
- ## [SEO中site语法网站首页不在第一名，有什么方法可以解决?](https://www.zhihu.com/question/280495934)
- > site网站首页不在第一的原因及解决方法1、内页权重高于首页这种情况在我们平时做SEO优化的时候最为常见，当内页权重高于首页的时候，site网站首页一般就不在第一了。这种情况不必担心，每天更新内页的时候给首页做...
- ## [米粉们，你们怎么看待vivo NEX？](https://www.zhihu.com/question/280803784)
- > &gt; 任何群体都必然是精分的。----窝.资基硕德记不记得当初 Mix 一代发布的时候，一波人声称路转粉？一波人声称甘愿当猴？还有一波人声称，对小米所有的好印象，只停留在 Mix 发布的那个时刻。然后呢？就没有然后了，...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [各位大神axios.js怎么读？](https://www.zhihu.com/question/281103899)
- > 谢邀。艾克丝伊欧姿点杰斯。
- ## [网速慢竟是因为黑宽带，如何避免被黑?](https://www.zhihu.com/question/277373954)
- > 谢邀。之前读书的时候也碰到过黑宽带的情况，价格那叫一个便宜，那时作为学生党当然毫不犹豫的掏腰包了。但是之后就后悔了，白天的网速那叫一个感人，到了半夜才能稍微好些，打客服也是一个劲的敷衍，投诉也没用，后...
- ## [看网络小说的时候，有哪些片段让你觉得作者的文化素养并不高？](https://www.zhihu.com/question/267245300)
- > “命中率50%，那我只要打两次，就强制命中了”——著名小说家
- ## [如何以「魔女捡到了一个孩子」为开头写一个故事？](https://www.zhihu.com/question/267134073)
- > 魔女捡到了一个孩子，她领着孩子走进卧室，随后手掌一番，手心便出现一颗碧绿色药丸。“小弟弟，我不强迫你”她眨了眨秀长的眼睛说道：“但我知道你会服下它。”孩子笑了，竟毫不犹豫地吃下了药丸。半分钟后，孩子进...
- ## [PChome.tw号称是台湾最大的电商网站，为什么页面那么多，看起来乱糟糟的，台湾人喜欢这种风格吗？](https://www.zhihu.com/question/20166682)
- > http://www.pcstore.com.tw/页面像超市打折讯息宣传单，适合家庭主妇，一眼就看到打折的商品，直达入口，以求最大限度地引流，而不是淘宝式的目录树。通常超市首推和打折的商品是他们最想卖出去的商品，http://PCh...
- ## [如何看待被扣发工资的快递小哥哭诉刘强东的回应是对他的侮辱？](https://www.zhihu.com/question/280280013)
- > 偶尔看到几个不黑京东的，评论基本都是啊终于看到个明白人/理性的人了。我呸！你们去京东工作过吗？讲事实，事实就是你永远不可能知道真相，讲个毛？相比较而言我更相信快递小哥！入职了京东金融，绩效占比百分之50，...
- ## [（2018年）远距离传输大文件，1T左右文件，如何最快？](https://www.zhihu.com/question/26352419)
- > 还是快递，顺丰24小时那个。
- ## [如何评价百度悄然上线的P2P CDN产品？](https://www.zhihu.com/question/68520917)
- > 迅雷早先的水晶也有PC端挖矿，后来没有了（没有深入考察，反正我没看到了）。很简单，你的PC会7x24小时在线吗？大概率是不能，那么一大堆不稳定的节点也就意味着不稳定的服务，然并卵；再来，你PC在线挖矿，挣...
- ## [微博买粉丝，微博买粉丝怎么买？](https://www.zhihu.com/question/272113282)
- > 新浪微博新手前期苦苦最求怎样去增加粉丝。于是在各大微博里狂喊互粉。现在我来谈谈心得，一个增加微博粉丝的捷径。隶属于深圳市扶苏科技有限公司，作为国内专业的新浪微博营销平台，我们专注为客户提供优质的营销服...
- ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
- > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
- ## [如何评价饿了么新的隐私政策？](https://www.zhihu.com/question/281032181)
- > 饿了么还算是好的明确的说明了我要这些信息，你要是不想用就可以不用，现在大多app都不带通知你的直接获取你的隐私。
- ## [如何评价苏享茂代理律师递交民事起诉书请求判令翟欣欣返还千万财产？](https://www.zhihu.com/question/274073410)
- > 不是学法律的，不想评价。就是觉得对于这件事情，有些女权主义者特别的恶心。不匿名。我之前也是关注过几个女权博主的，开始觉得她们说的很有道理。后来发现就是邪教。比如作家陈岚，就这个人一直在为翟洗白。这个陈...
- ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
- > 看基金会的财报嘛~http://wikimediafoundation.org/wiki/Financial_reports哦，对了，这是维基媒体基金会的财报，资金不是全部投入维基百科的哟为了简明扼要的回答问题，算了一下2012年下半年：总收入 $30,916,665，...
- ## [在PC上，除了chrome，你还喜欢（推荐）哪些浏览器？](https://www.zhihu.com/question/34668044)
- > 我们在日常使用软件时，其实很多时候也遇到过确实更好用的工具，但是考虑到旧有的使用习惯以及迁移成本，往往没有勇气迈出更换工具的那一步。更不要说 Chrome 浏览器这种高频应用——打住！你让我换浏览器，还是不要...
- ## [EOS账户如何注册，相比投资域名，投资EOS账户有价值吗？](https://www.zhihu.com/question/280563825)
- > 1、如何注册看下文，更简单的注册办法，我更新后会放在这里2、可以在这里查询http://www.dappworld.com/api/v1/eos/account （页面有点糙，见笑）3、未来确定会开放交易EOS账号，就像是银行账户名，也像互联网的域...
 # IT 技术 
  ## [有关Serverless未来的争议不断，来自LC3大会的意见是……](https://my.oschina.net/u/2982602/blog/1831058)
  > 过去十年，云服务深刻地改变了社会获取和使用计算能力的方式，云服务自身也以极快的速度演进。在基础设施云化之后，容器、Serverless（无服务器架构）等技术迅猛发展，开始推动业务的云化，云计算进入2.0时代。 从出现到现在两年时间，Serverless没有一个公认的权威定义。根据亚马逊AWS官网的定
@@ -187,22 +147,6 @@ categories: IT NEWS
  > 巴西已经不是四年前的巴西，德国也不是昔日的德国。真正的足球强队应该是非常稳定的。放眼国际足坛，能做到这一点的只有中国队。昨天的中国队还是当年的中国队，纵观世界，没有一支球队能像中国队这样稳定。
  ## [Visual Studio Code 1.24.1 发布，常规更新](https://www.oschina.net/news/97086/vs-code-1-24-1-released)
  > Visual Studio Code 1.24.1 已发布，该版本主要是修复 1.24 中的一些问题，详情可前往 issues 查看。 1.24 的一些更新亮点： 未使用的变量检测 - 未使用的变量在 JavaScript/TypeScript 文件中会变灰。 移至新文件重构 - 可轻松将类和函数拉
- ## [? UMCloudOpenStack](http://news.51cto.com/art/201806/576349.htm)
- > ? UMCloudOpenStack
- ## [WOT](http://developer.51cto.com/art/201806/576334.htm)
- > WOT
- ## [WOT20182.0](http://cloud.51cto.com/art/201806/576325.htm)
- > WOT20182.0
- ## [](http://news.51cto.com/art/201806/576372.htm)
- > 
- ## [Facebook](http://ai.51cto.com/art/201806/576297.htm)
- > Facebook
- ## [](http://zhuanlan.51cto.com/art/201806/576313.htm)
- > 
- ## [Python](http://developer.51cto.com/art/201806/576296.htm)
- > Python
- ## [](http://blockchain.51cto.com/art/201806/576267.htm)
- > 
  ## [Python](http://developer.51cto.com/art/201806/576393.htm)
  > ITITIT
  ## [ ](http://developer.51cto.com/art/201806/576386.htm)
@@ -253,8 +197,6 @@ categories: IT NEWS
  > 大数据可视化工具圈里的春秋战国
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
- > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
  ## [武汉年内削减共享单车15万辆](http://www.lanjingtmt.com/news/detail/35810.shtml)
  > 江城武汉共享单车突破103万辆，乱停乱放问题依然突出，超出了人行道承载能力。14日，武汉市交委、市城管部门宣布，年内将削减共享单车15万辆。
  ## [超百位媒体人齐聚会，蓝鲸财经新科技峰会要搞事情](http://www.lanjingtmt.com/news/detail/35809.shtml)
@@ -277,41 +219,6 @@ categories: IT NEWS
  > 平衡好信息开发利用与保护个人信息安全的关系，事关每个人的合法权益，也关乎数字经济能否真正行稳致远
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
-# 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
- > 周志华-机器学习-笔记（四）- 神经网络
- ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
- > django实现类似触发器的效果
- ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
- > 特征工程——特征转换
- ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
- > Xadmin自定义开发 笔记（一）
- ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
- > 机器学习：提升算法之Adaboost
- ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
- > 视觉问答VQA领域论文集锦
- ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
- > TensorFlow入门：（六）实现GAN
- ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://blog.csdn.net/qq_42154484/article/details/80691510)
- > 万万没想到，枯燥的“机器学习”还可以这样学！
- ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
- > 机器学习之梯度下降
- ## [特征工程——数据降维](https://blog.csdn.net/wsp_1138886114/article/details/80691543)
- > 特征工程——数据降维
- ## [Unity项目总结 模型制作 场景搭建](https://blog.csdn.net/qq_34272906/article/details/80691552)
- > Unity项目总结 模型制作 场景搭建
- ## [用一句话总结常用的机器学习算法](https://blog.csdn.net/SIGAI_CSDN/article/details/80691609)
- > 用一句话总结常用的机器学习算法
- ## [笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章](https://blog.csdn.net/ZOMB1E123456/article/details/80691614)
- > 笔记：《机器学习训练秘籍》-吴恩达deeplearningai微信公众号推送文章
- ## [t特征工程——特征选择](https://blog.csdn.net/wsp_1138886114/article/details/80691648)
- > t特征工程——特征选择
- ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
- > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
- ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
- > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [如何在世界杯赛中寻找可结合的品牌推广策略？](http://www.woshipm.com/marketing/1062127.html)
  > 世界杯品牌营销推广的“巧点”到底在哪里呢？到底是适合那些品牌来玩？品牌应该怎么玩呢？如果你不知道，那就来文章中看看~世界杯开赛了，又是球迷们狂欢熬夜看球赛的时...
