@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:07:12
+date: 2018-06-15 10:08:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -16,7 +16,7 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
- ## [国产 Linux 操作系统 Deepin 面临重重困难，创始人兼 CTO 已辞职](https://www.oschina.net/news/97099/deeepin-)
+ ## [国产 Linux 操作系统 Deepin 面临重重困难，创始人兼 CTO 已辞职](https://www.oschina.net/news/97099/deeepin-cto-departure)
  > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜的事情发生了，其创始人兼 CTO 离职，Deepin 的
  ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
  > Mozilla 2018 年的 all hands 会议正在旧金山举行，而近日其官网上的一则演讲摘要透露了 Mozilla 正在讨论研发一款语音网页浏览器的消息。 信息显示，演讲者 Tamara Hills 将分享主题为“Technical Stack Requirements for a Voic
@@ -72,6 +72,8 @@ categories: IT NEWS
  > 10亿流量的入口，小程序游戏会是那把钥匙吗？
  ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
  > 【WOT2018】孙玄：转转如何打造AI工程架构体系
+ ## [在创业公司担任了4年技术总监，我总结出这些套路_技术栈微信半月刊第19期](http://news.51cto.com/art/201806/576327.htm)
+ > 51CTO技术栈微信半月刊第三期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一线技
  ## [学习Python必去的8个网站！](http://developer.51cto.com/art/201806/576324.htm)
  > 作为一个现时代的程序员初学者，除了看书之外，互联网的学习手段也是断不能少的！以下这些网站，虽说不上全
  ## [云计算剖析云计算数据中心架构](http://server.51cto.com/Datacenter-576326.htm)
@@ -90,8 +92,6 @@ categories: IT NEWS
  > 交通基础设施安全监测应该是NB-IoT的一个新的广阔的应用场景，从交通管理的需求来看，交通基础设施的安全监
  ## [可透视的AI问世了，你的一举一动都在别人眼里！](http://ai.51cto.com/art/201806/576322.htm)
  > 据英国《每日邮报》6月14日报道，一种可透视的人工智能(AI)已研发成功,并即将问世。据称，该软件可以跟踪多
- ## [目前所有网络存储技术整理篇（SAN/NAS以及集群存储、P2P存储、网格存储等）](http://stor.51cto.com/art/201806/576318.htm)
- > 在以数据为中心的信息时代，存储已成为IT基础设施的核心之一。数据存储已经成为继互联网热潮之后的又一次技
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
