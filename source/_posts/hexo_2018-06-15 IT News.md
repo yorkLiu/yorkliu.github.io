@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:06:06
+date: 2018-06-15 08:07:14
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,7 +14,11 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
- ## [每日一博 | Java OSGL 工具库 - Bean 拷贝的艺术](https://www.oschina.net)
+ ## [机器学习｜几款主流框架的对比和选择](https://www.oschina.net/news/97092/compare-some-ai-frameworks?origin=zhzx)
+ > 随着 AI 技术快速发展，各种理论与实践层出不穷，它正在迅速改变我们生活中几乎每一个领域。而各种开发库和框架的发展，也拉近了开发者与 AI 距离。本文将介绍主流人工智能开发库，并分析其特征，帮助 AI 领域开发者减少选择障碍。 TensorFlow：Google 开源人工智能工具 TensorFlo
+ ## [Openstack 基金会从开源云平台转向开源基础设施分支](https://www.oschina.net/news/97091/openstack-foundation-branches-out-open-source-infrastructure)
+ > Openstack 基金会正在进行变革，社区从开源云平台向开源基础设施这一主题分支转变。  Openstack 是包含各种开源云基础设施组件，随便举几例，从裸机供应（Ironic）到网络（Neutron）和计算（Nova）等都涵盖。 Openstack 最初是从 Rackspace 和美国宇航局（N
+ ## [每日一博 | Java OSGL 工具库 - Bean 拷贝的艺术](https://my.oschina.net/greenlaw110/blog/1830186)
  > OSGL 依赖于 Java 反射来获得 Bean 的内部结构，和很多其他工具不同, OSGL 使用字段而不是 Getter/Setter 来获取内部数据，而是提供了一套功能完善的 API 支持 Bean 的拷贝操作，并提供了五种不同的 Bean 拷贝语义。
  ## [码云推荐 | SVG 格式设计稿预览工具 svg-measure](https://gitee.com/zane_young/svg-measure)
  > svg-measure 是可以测量距离，复制 CSS/文本的 SVG 格式设计稿预览工具, 测试过 Sketch, Adobe XD, Gravit Designer。接下来计划支持 Scala、桌面 App、线上版本等。
@@ -144,19 +148,5 @@ categories: IT NEWS
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
- ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
- > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
- ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
- > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
- ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
- > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
- ## [经历了一个炒作周期，聊天机器人为什么还没成功?](http://www.pmtoo.com/article/48165.html)
- > 由于我们期待太多，要求过急，对机器人行业以及我们都造成了伤害，我们严重高估了聊天机器人的初始影响效应。图...
- ## [前有腾讯网易后有审批牵制，中国版Steam内容资源怎么解决？](http://www.pmtoo.com/article/48161.html)
- > 说句实话，对于中国版的Steam我是不怎么看好的，因为它到时候的遇到的内容资源问题将十分的致命。图片来源：视觉...
- ## [\[评论\]对骂群是个好产品](http://www.pmtoo.com/article/48158.html)
- > 对骂群强行将两批原本水火不容的人驱赶到一起，这很违反当代产品经理的不成文规矩。实际上，现在绝大部分使用算法的公司...
- ## [深度学习的寒冬来了？](http://www.pmtoo.com/article/48137.html)
- > 深度学习可能还要在它所谓的“王座”上再坐一会。而媒体和反对者想要得出AI寒冬的结论，可能还需要多花些努力才行。...
 
     
