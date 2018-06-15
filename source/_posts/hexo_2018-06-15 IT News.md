@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:38:53
+date: 2018-06-15 08:39:27
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -117,41 +117,15 @@ categories: IT NEWS
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [Word Embedding的通俗解释](https://blog.csdn.net/jdbc/article/details/80691037)
- > Word Embedding的通俗解释
- ## [C双拼输入法使用说明](https://blog.csdn.net/dsscicin/article/details/80691080)
- > C双拼输入法使用说明
- ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
- > 系统稳定性分析
- ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
- > Tensorflow数据输入
- ## [中文自然语言处理入门实战](https://blog.csdn.net/qq_36330643/article/details/80691224)
- > 中文自然语言处理入门实战
- ## [TensorFlow模型载入方法汇总](https://blog.csdn.net/u014061630/article/details/80691256)
- > TensorFlow模型载入方法汇总
- ## [AUC的物理意义](https://blog.csdn.net/mimi9919/article/details/80691277)
- > AUC的物理意义
- ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
- > 周志华-机器学习-笔记（四）- 神经网络
- ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
- > django实现类似触发器的效果
- ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
- > 特征工程——特征转换
- ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
- > Xadmin自定义开发 笔记（一）
- ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
- > 机器学习：提升算法之Adaboost
- ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
- > 视觉问答VQA领域论文集锦
- ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
- > TensorFlow入门：（六）实现GAN
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
  ## [产品经理周报第23期｜本周各大产品的动作有点大，不信你看](http://www.woshipm.com/it/1060932.html)
  > 早☟☟☟昨晚世界杯开幕了你看了么据说贝利、章鱼后AI接棒世界杯“预测帝”称巴西夺冠emmm……未来还是一个未知数……现在还是随着小编的步伐，一起回顾本周有关产...
+ ## [大部分公司的运营体系，烂如手工作坊](http://www.chanpin100.com/article/106956)
+ > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
+ ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
+ > 【小百摘要】教你打出你的增长策略流。
  ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
  > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
  ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
