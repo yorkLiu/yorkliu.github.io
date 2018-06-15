@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:53:10
+date: 2018-06-15 08:54:08
 tags: IT NEWS
 categories: IT NEWS
 ---
