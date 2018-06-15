@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:08:58
+date: 2018-06-15 10:11:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -16,7 +16,7 @@ categories: IT NEWS
  > 本篇是 Java OSGL 工具库系列的第六篇, 前面五篇分别是: 1. \[图片处理的艺术\](https://my.oschina.net/greenlaw110/blog/1786151) 2. \[图片处理的艺术之自定义图片处理器\](https://my.oschina.net/greenlaw1
  ## [Ansible 极简教程](https://my.oschina.net/kangvcar/blog/1830155)
  >  一、基本部署  安装Ansible ```  yum -y install epel-release  yum list all *ansible*  yum info ansible  yum -y install ansible ```  Ansible配置文件 ```
- ## [国产 Linux 操作系统 Deepin 面临重重困难，创始人兼 CTO 已辞职](https://www.oschina.net/news/97099/deeepin-cto-departure)
+ ## [重磅！国产 Linux 操作系统 Deepin 创始人兼 CTO 已离职](https://www.oschina.net/news/97099/deeepin-cto-leaved-his-job)
  > 作为国内做的最好的 Linux 发行版，源自 Debian sid 的 Deepin 目前正面临重重困境，新版本不断延期，开发人员离职，bug 长期得不到修复，和 Debian/Ubuntu 的兼容性问题也面临越来越严重的挑战。 如今，雪上加霜的事情发生了，其创始人兼 CTO 离职，Deepin 的
  ## [网上冲浪姿势将革新？Mozilla 正在讨论研发语音浏览器](https://www.oschina.net/news/97096/mozilla-working-on-a-voice-controlled-web-browser-project)
  > Mozilla 2018 年的 all hands 会议正在旧金山举行，而近日其官网上的一则演讲摘要透露了 Mozilla 正在讨论研发一款语音网页浏览器的消息。 信息显示，演讲者 Tamara Hills 将分享主题为“Technical Stack Requirements for a Voic
@@ -26,7 +26,7 @@ categories: IT NEWS
  > Intel 在官网上公布了一个 Spectre 漏洞的新变体：Lazy FP 状态还原（Lazy FP state restore），该漏洞被定级为“中等”，攻击者同样可以以推断数据的方式使用户信息泄露。 操作系统一旦在上下文切换时使用了 CPU 的 Lazy FP 功能进行系统状态保存与还原，攻击
  ## [深度分析100多个优秀开源项目后，我们发现一些特征！](https://blog.gitee.com/2018/06/13/pro_depth_analysis/)
  > 最受欢迎的国产开源项目都是什么模样？选用什么开源协议？使用哪种语言？实现了什么功能？我们选取了码云 Gitee.com 平台 144 个优质开源项目，为你深入剖析国内 Top 开源项目。
- ## [机器学习｜几款主流框架的对比和选择](https://www.oschina.net/news/97092/compare-some-ai-frameworks?origin=zhzx)
+ ## [机器学习｜几款主流框架的对比和选择](https://www.oschina.net/news/97092/compare-some-ai-frameworks)
  > 随着 AI 技术快速发展，各种理论与实践层出不穷，它正在迅速改变我们生活中几乎每一个领域。而各种开发库和框架的发展，也拉近了开发者与 AI 距离。本文将介绍主流人工智能开发库，并分析其特征，帮助 AI 领域开发者减少选择障碍。 TensorFlow：Google 开源人工智能工具 TensorFlo
  ## [Openstack 基金会从开源云平台转向开源基础设施分支](https://www.oschina.net/news/97091/openstack-foundation-branches-out-open-source-infrastructure)
  > Openstack 基金会正在进行变革，社区从开源云平台向开源基础设施这一主题分支转变。  Openstack 是包含各种开源云基础设施组件，随便举几例，从裸机供应（Ironic）到网络（Neutron）和计算（Nova）等都涵盖。 Openstack 最初是从 Rackspace 和美国宇航局（N
