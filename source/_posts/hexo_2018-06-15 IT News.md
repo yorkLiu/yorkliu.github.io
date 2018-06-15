@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 08:03:15
+date: 2018-06-15 08:03:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -36,34 +36,6 @@ categories: IT NEWS
  > WEB GIS 开发框架 mapbox-gl-js v0.46.beta1 已发布。 Mapbox GL JS 是一个 JavaScript 库，使用 WebGL 渲染交互式矢量瓦片地图和栅格瓦片地图。WebGL 渲染意味着高性能，MapboxGL 能够渲染大量的地图要素，拥有流畅的交互以及动画效果
  ## [Angular 6.1.0-beta.1 发布，Web 前端框架](https://www.oschina.net/news/97076/angular-6-1-0-beta1-released)
  > Angular 6.1.0-beta.1 已发布。主要更新内容如下： Bug 修复： animations: always render end-state styles for orphaned DOM nodes (24236) (dc4a3d0) bazel: Allow ng_module
- ## [WOT沈剑：58速运架构解耦与微服务实践](http://cloud.51cto.com/art/201806/576302.htm)
- > WOT沈剑：58速运架构解耦与微服务实践
- ## [【WOT2018】孙玄：转转如何打造AI工程架构体系](http://ai.51cto.com/art/201806/576264.htm)
- > 【WOT2018】孙玄：转转如何打造AI工程架构体系
- ## [我用Python分析了4W场比赛，2018世界杯冠军竟然是……](http://developer.51cto.com/art/201806/576257.htm)
- > 我用Python分析了4W场比赛，2018世界杯冠军竟然是……
- ## [不空谈!轻松筹将区块链落地公益和互助行业](http://news.51cto.com/art/201806/576239.htm)
- > 不空谈!轻松筹将区块链落地公益和互助行业
- ## [【深度】十分钟读完人工智能的三生三世](http://ai.51cto.com/art/201806/576213.htm)
- > 【深度】十分钟读完人工智能的三生三世
- ## [视+AR创始人张小军告诉你建设AR平台的正确姿势](http://news.51cto.com/art/201806/576238.htm)
- > 视+AR创始人张小军告诉你建设AR平台的正确姿势
- ## [想再活500年的A站彻底要凉？近千万条用户数据外泄！](http://netsecurity.51cto.com/art/201806/576214.htm)
- > 想再活500年的A站彻底要凉？近千万条用户数据外泄！
- ## [从无从下手到见招拆招，苏宁金融移动端登录优化之道](http://mobile.51cto.com/app-show-576208.htm)
- > 从无从下手到见招拆招，苏宁金融移动端登录优化之道
- ## [选择最佳DDoS解决方案（四）――混合防护措施](http://netsecurity.51cto.com/art/201806/576310.htm)
- > 本文是此系列文章的最后一篇，探讨了防御DDoS攻击的各种替代方法，以及如何为企业选择最佳的解决方案。
- ## [浅谈基于意图的网络（IBN）](http://network.51cto.com/art/201806/576309.htm)
- > 在园区网络中，有许多新兴趋势影响着未来网络建模的方式，这些趋势包括移动性、物联网(IoT)以及跨有线和无
- ## [选择最佳DDoS解决方案（三）――永远在线的云服务](http://netsecurity.51cto.com/art/201806/576308.htm)
- > 此系列文章深入介绍了不同的DDoS防护模型，以便帮助客户为特定用例选择最佳的防护措施。本文将介绍永远在线
- ## [卷积神经网络十五问：CNN与生物视觉系统的研究探索](http://zhuanlan.51cto.com/art/201806/576305.htm)
- > 近日，哥伦比亚大学神经生物学与行为学博士 Grace Lindsay 在其博客上发文，通过问答的形式讨论了 CNN 和生
- ## [路由器长期不关，对网速有影响吗？还真有！](http://network.51cto.com/art/201806/576307.htm)
- > 路由器长时间连续工作，对它的寿命有影响吗?对网速有影响吗?　是的!路由器长时间不断电，的确会影响网速!但
- ## [搭建云存储，对比私有云和公有云的不同](http://cloud.51cto.com/art/201806/576306.htm)
- > 说起公共存储，很难不与后网络公司时代的选择性外包联系起来，但尽管如此，它还是具备着简单和固有的可用性
  ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
  > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
  ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
