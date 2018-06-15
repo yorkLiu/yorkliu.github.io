@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 10:39:46
+date: 2018-06-15 10:41:30
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -141,38 +141,10 @@ categories: IT NEWS
  > 交通基础设施安全监测应该是NB-IoT的一个新的广阔的应用场景，从交通管理的需求来看，交通基础设施的安全监
  ## [可透视的AI问世了，你的一举一动都在别人眼里！](http://ai.51cto.com/art/201806/576322.htm)
  > 据英国《每日邮报》6月14日报道，一种可透视的人工智能(AI)已研发成功,并即将问世。据称，该软件可以跟踪多
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
- > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
- ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
- > 开源一个Android自定义图表库
- ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
- > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
- ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
- > 程序员：如何优雅地装逼
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
- > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
- > 华为资深工程师：码农很多，但程序员并不多......
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
- > 没想到啊！2599元的Java干货今天免费送
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [牛逼程序员教你用“火眼精睛”找bug](https://blog.csdn.net/qq_42203289/article/details/80678604)
- > 牛逼程序员教你用“火眼精睛”找bug
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
+ ## [小熊电器闯IPO：有钱找代言没钱搞研发，严重依赖渠道](http://www.lanjingtmt.com/news/detail/35788.shtml)
+ > 线上占比过高的小熊电器虽然业绩增长良好，但所受掣肘也较多，并由此带来了季节波动风险、存货周转率过低、资产负债率过高等问题。
  ## [星舆科技Starcart获近亿元pre-A融资，研发北斗定位](http://www.lanjingtmt.com/news/detail/35787.shtml)
  > 将用于“网-端-云”三位一体的精准时空体系构建
  ## [人民日报人民时评：个人信息，利用好更需保护好](http://www.lanjingtmt.com/news/detail/35786.shtml)
@@ -180,36 +152,6 @@ categories: IT NEWS
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
  > “在绿茵场上滚动的不是足球，而是黄金。”世界杯比赛期间大部分A股市场呈现下跌走势。
 # 人工智能 
- ## [CSDN日报1806012——《欠薪的公司，不要做任何犹豫》](https://blog.csdn.net/blogdevteam/article/details/80667708)
- > CSDN日报1806012——《欠薪的公司，不要做任何犹豫》
- ## [系统稳定性分析](https://blog.csdn.net/Reason_Lee/article/details/80691155)
- > 系统稳定性分析
- ## [Tensorflow数据输入](https://blog.csdn.net/qq_34106574/article/details/80691162)
- > Tensorflow数据输入
- ## [中文自然语言处理入门实战](https://blog.csdn.net/qq_36330643/article/details/80691224)
- > 中文自然语言处理入门实战
- ## [TensorFlow模型载入方法汇总](https://blog.csdn.net/u014061630/article/details/80691256)
- > TensorFlow模型载入方法汇总
- ## [AUC的物理意义](https://blog.csdn.net/mimi9919/article/details/80691277)
- > AUC的物理意义
- ## [周志华-机器学习-笔记（四）- 神经网络](https://blog.csdn.net/Timmy_attack/article/details/80691296)
- > 周志华-机器学习-笔记（四）- 神经网络
- ## [django实现类似触发器的效果](https://blog.csdn.net/qq_40157234/article/details/80691348)
- > django实现类似触发器的效果
- ## [特征工程——特征转换](https://blog.csdn.net/wsp_1138886114/article/details/80691372)
- > 特征工程——特征转换
- ## [Xadmin自定义开发 笔记（一）](https://blog.csdn.net/Sun_White_Boy/article/details/80691414)
- > Xadmin自定义开发 笔记（一）
- ## [机器学习：提升算法之Adaboost](https://blog.csdn.net/qq_39521554/article/details/80691421)
- > 机器学习：提升算法之Adaboost
- ## [视觉问答VQA领域论文集锦](https://blog.csdn.net/weixin_34613450/article/details/80691422)
- > 视觉问答VQA领域论文集锦
- ## [TensorFlow入门：（六）实现GAN](https://blog.csdn.net/MOU_IT/article/details/80691466)
- > TensorFlow入门：（六）实现GAN
- ## [万万没想到，枯燥的“机器学习”还可以这样学！](https://blog.csdn.net/qq_42154484/article/details/80691510)
- > 万万没想到，枯燥的“机器学习”还可以这样学！
- ## [机器学习之梯度下降](https://blog.csdn.net/wuhuimin521/article/details/80691514)
- > 机器学习之梯度下降
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
  ## [\[Python人工智能\] 六.神经网络的评价指标、特征标准化和特征选择](http://blog.csdn.net/eastmount/article/details/80650980)
@@ -231,19 +173,5 @@ categories: IT NEWS
  > 【小百摘要】纵然运营系统化有大量的优点，但在国内众多的互联网公司，依然不被受到重视，这是为什么呢？本文作者将在此着重讲述。
  ## [创业公司如何做用户增长？制定适合你的用户增长策略](http://www.chanpin100.com/article/107007)
  > 【小百摘要】教你打出你的增长策略流。
- ## [有人写书揭秘”硅谷女骗子”创业史:称其还想再创业](http://www.pmtoo.com/article/48186.html)
- > 据名利场报道，硅谷向来以充满夸夸其谈、欺骗投资者和媒体的创始人而闻名，甚至有些人会对国会撒谎，而且往往能侥幸过关...
- ## [赶在618前夕，微信更新了两个支付与电商功能](http://www.pmtoo.com/article/48181.html)
- > 本周末，中国消费者即将迎来上半年最大的消费网购峰值，6月17日父亲节，6月18日端午节，也是京东、天猫等电商的618购物节。略...
- ## [“智能点餐”背后，亚马逊和谷歌是在为智能家居布局](http://www.pmtoo.com/article/48178.html)
- > 面对国内这上百品牌的智能音箱，我们也在思考一个问题：各个厂家希望带给用户的究竟是什么呢？图片来源：视觉中国...
- ## [经历了一个炒作周期，聊天机器人为什么还没成功?](http://www.pmtoo.com/article/48165.html)
- > 由于我们期待太多，要求过急，对机器人行业以及我们都造成了伤害，我们严重高估了聊天机器人的初始影响效应。图...
- ## [前有腾讯网易后有审批牵制，中国版Steam内容资源怎么解决？](http://www.pmtoo.com/article/48161.html)
- > 说句实话，对于中国版的Steam我是不怎么看好的，因为它到时候的遇到的内容资源问题将十分的致命。图片来源：视觉...
- ## [\[评论\]对骂群是个好产品](http://www.pmtoo.com/article/48158.html)
- > 对骂群强行将两批原本水火不容的人驱赶到一起，这很违反当代产品经理的不成文规矩。实际上，现在绝大部分使用算法的公司...
- ## [深度学习的寒冬来了？](http://www.pmtoo.com/article/48137.html)
- > 深度学习可能还要在它所谓的“王座”上再坐一会。而媒体和反对者想要得出AI寒冬的结论，可能还需要多花些努力才行。...
 
     
