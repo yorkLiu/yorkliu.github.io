@@ -1,7 +1,7 @@
 ---
 title: 2018-06-15 IT News
 copyright: true
-date: 2018-06-15 09:54:59
+date: 2018-06-15 09:55:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -124,6 +124,8 @@ categories: IT NEWS
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [用机器学习预测谁将夺得世界杯冠军？附完整代码！](https://blog.csdn.net/csdnnews/article/details/80690165)
  > 2018 年 FIFA 世界杯即将拉开帷幕，全世界的球迷都热切地想要知道：谁将获得那梦寐以求的大力神杯？如果你不仅是个足球迷，而且也是高科技人员的话，我猜你肯定知道机器学习和人工智能也是目前的流行词。让我们结合两者来预测一下本届俄罗斯 FIFA 世界杯哪个国家将夺冠。免责声明：请不要以...
+ ## [星舆科技Starcart获近亿元pre-A融资，研发北斗定位](http://www.lanjingtmt.com/news/detail/35787.shtml)
+ > 将用于“网-端-云”三位一体的精准时空体系构建
  ## [人民日报人民时评：个人信息，利用好更需保护好](http://www.lanjingtmt.com/news/detail/35786.shtml)
  > 平衡好信息开发利用与保护个人信息安全的关系，事关每个人的合法权益，也关乎数字经济能否真正行稳致远
  ## [2018世界杯的莫比乌斯环：海信、vivo千亿赞助值吗](http://www.lanjingtmt.com/news/detail/35785.shtml)
