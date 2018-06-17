@@ -1,51 +1,51 @@
 ---
 title: 2018-06-17 IT News
 copyright: true
-date: 2018-06-17 12:01:26
+date: 2018-06-17 17:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [微软投身“互联网+医疗健康”建设，撬动448亿的市场潜力](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=pn7leWVa6dra7ngWft8lWJgFEqQsxOHzsnvNOkk-iqorufXllZyaq5AjfCMykFHz7Ag-yxBwShOwn1*vV7rT9bRokCZResrHNLz8E9ShGerQMK0YX2GTIYmFf0Tlkbmm&new=1)
- > 微软大中华区副总裁兼市场营销及运营总经理康容在微软，我们相信，科学进步、技术创新的终极目标是造福人类。因此，微软投入数千亿美元启动了“人工智能地球计划”和“人工智能无障碍计划”，希望全球开发者能够...
- ## [咪咕不哭!世界杯首日卡屏、模糊原来是由于华为云!](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=i2n2tMU8Br2hlkqIglmLG1zufguQ9khxt8Rm5I3Au4w0maUv34mgjQKqN9Yn0*-3mxckYPwCjeNfw-kusapwqiSHxVU0eWwijD5ARrGahqrVfIbaEzOWgeyOvV3-D4L5&new=1)
- > 6月14日晚，俄罗斯世界杯终于如期开战，首场俄罗斯与沙特也为全世界的球迷带来了一场酣畅淋漓的比赛。然而，在世界杯未开赛的时候，关于直播版权之争成了人们关注的热点，今年，由于广电总局的安排，大陆地区只...
- ## [航天科工董事长高红卫：全球制造业即将进入特殊历史阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=aHe1yL8caIt1bnYN-Y9XsRQkXgLyBqIvrXX6FgfMIIFbJsWSWeId39VWXPqhRBloB-s3rJEtYhGnPiEuCYuxV4CSXzDAMKBo-rVOXsHMZxgZxwLmka*8DBnjbznzX2Qa&new=1)
- > “航天云网采用INDICS+CMSS搭配，目标是构建和涵养以工业互联网为基础的云制造产业集群生态。”6月15日，中国航天科工集团有限公司党组书记、董事长高红卫在本届工业互联网高峰论坛上在介绍航天云网打造云制造产...
- ## [2018世界杯开幕 你需要一份安全观球指南](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=aJg6BFWaoek-4Fe6rk7YoyVqKGdIX5UH*uIkPbMih55NvD2zgPYVIaU-XPmcksBlTRRBihmaZEyjJ--pwFM1EDvoNjYbUS3*DRDXxjhq8BcPx3ROjsDIz4DlsfJUVnme&new=1)
- > 6月14日，2018世界杯在俄罗斯拉开帷幕。据悉，本届世界杯共有来自5大洲的32只球队参赛，时间为6月14日-7月15日。这是世界杯首次在俄罗斯境内举行，也是世界杯首次来到东欧国家。　　除了东道主俄罗斯自动获得参...
- ## [以柔克刚，中国科技新产线震惊世界](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=D4U6WsD*YyGBPlAf-957*0Tj643nR8PmO69TrrchdMxEHkpTSxVplcPOn11J49KFNhkxPOZ2jJz5x0C2NQpQNLET4I3p1KtzBQJESrXQUpMbaTDmv6MCLf3U*ngx8tc*&new=1)
- > 2018 年 6 月 6 日，柔宇首条具有自主知识产权的类六代全柔性显示屏大规模量产线在中国深圳，正式点亮投产了！！这是全球首条具有自主知识产权的类六代全柔性显示屏大规模量产线，正式的投产也标志着柔宇人坚持...
- ## [电信用户0元抢购优酷定向流量包](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=CHmqM2WVuw0B4ebgnvaGgJ13a0hVLFxVe0G8zD9k-lSuaxOOgZMFJxg20y4bnAf4AbElNez*96xCPexQCeF*P3OyySqgHM4hu19yQmSP050ZLck7Tb1aB3dnLjEi4FAD&new=1)
- > 看世界杯？看电影？看电视剧？你的流量不用花钱中国电信推出0元订购6GB优酷流量包即日起至2018年7月31日订购0元6GB优酷流量包，每用户限订一次，订购后立即生效，有效期31天。是0元订购6GB流量让你优酷不花钱不...
- ## [彭兰：群氓的智慧还是群体性迷失 ——互联网群体互动效果的两面观察](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=qMCcNDtXXa-2UA6B-qoHHnBMepW0DcYhqJxcXrKtBxwHKbR50MsPPTcS4rtliqFHUAc65OIE0phESHr6xyMhZ4rseR0pTaferIRjQ8*THcJJgxmKQjpwveNHg3Ed5Ue8&new=1)
+ ## [彭兰：群氓的智慧还是群体性迷失 ——互联网群体互动效果的两面观察](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=qMCcNDtXXa-2UA6B-qoHHnBMepW0DcYhqJxcXrKtBxwa8F*YP4ETuqNRcHCwUyC3TqVeBWkGXuvuNJ1kzS2eZPEfHnyJFSPzAivi2BfuhHHqimK7wj2b4NGbSLfcqThT&new=1)
  > 互联网特别是社会化媒体的发展，以其特有的方式将人与人连接起来，使个体聚集为群体。网络中的群体互动，究竟会带来什么样的结果?从现有的研究来看，主要有两种代表性的判断。虽然这两种判断有所冲突，但却...
- ## [全网通后，电信联通再次联手，这次瞄准了AI终端!](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=UxMmod73lA0vlao9pJ4T9miVGG801oukApJw42wx4g7dsN7Oh7JHCwx22xD9jZTIDbCsFGKFmygUu1zCmZMXg-*KyzOWYdhUTKbMAkhf3j04e7rNK3zk*DnTIn2U2cR5&new=1)
- > 6月13日，中国电信联合中国联通在GSMA TSG终端工作组第32次会议上，发起AI终端研究项目立项（A New Study Item proposal for AI Devices Guidelines），该立项得到与会运营商、终端厂商、
- ## [专访天数智芯倪岭：如何赋能企业更有效地进行AI应用开发?](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=s1u4NZg5mhn9z7lFud9LVY3pATiXVru7xVk*aWtXfxyO-XmdD9B7bvt-vdQGU24QQyj2PSSezZwaPCRb7rCEqgmKgT*SFrVsU*5tkmcJyPY2TWtWDCCVMfp-CfZTBL1f&new=1)
- > 关键时刻，第一时间送达！近年来，在大数据、云计算等技术升级的共同推动下，人工智能技术及应用取得了蓬勃发展。如今，继“互联网+”之后，“AI+”已蔚然成风。人工智能技术的发展不会取代人类，但使用人工智能...
- ## [采访了10656名运营商员工关于灰色收入的看法，结果令人震惊…](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=skpeX78xaXhJHYolBDjTL7C7dkVz8XHbaDcLfNDOO53rbMPJUPisAQIsyoPZEXSh4q4MBAzgxiWRXRgnLFt*XIVSbT2VOvMoceUUEDgbvmesaAG0psrouDmwFRB81Sqf&new=1)
- > 慧慧
- ## [惩治网络犯罪 守护网络安全——最高检与腾讯公司联合开展惩治网络犯罪业务培训](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=lv3ENtJWBRcD9L5J-S-dd*GQ5gKR*O3W4PiHwmszpUR6DgCzU8zz4n2qbe738YfVdRsS8whc*E37IgMGtXXjoocYjbDb9M5mh0Daw*eiEK7nkE4zvQn5*RdNqcGK2hf3&new=1)
- > 点击蓝字关注我们      6月15日，由最高人民检察院公诉厅、侦查监督厅、法律政策研究室联合举办的“全国检察机关惩治网络犯罪业务培训”在最高检举行。本次培训邀请了腾讯公司安全管理部总经理朱劲松进行主题分...
- ## [部署10台惠普3D打印系统，广东(大沥)3D打印协同创新平台揭牌](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=D1ntp0QhJmOA3KCa5bg64SbGRqVt2mfg7Ef9Mfoofv1**MiX5ZcBQzhfWWUsxp3wqhkYtzbET66AVa-pUvQWIa4N7AjqND-d6C9VC82r-0IfXpg6-GdQnCmYUXLCKW26&new=1)
- > 惠普3D打印机自进入中国市场以来，大动作不断，这一次更是在佛山大沥3D打印协同创新平台一次性部署了10台惠普3D打印系统。2018年6月16日，南极熊来到佛山市大沥镇，见证了这一平台的揭幕仪式。下午，惠普公司和...
- ## [谷歌的「未来城市」](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=H-uVVMW9xNSdEnxa78N0gGFqBNwDU15Cn3cIgB0OweyrNzNesXd3rZqUg945HIUes5xW8R22DgUbTeFfGrm6dy6mapjLRhgg62RJxseDxb6t9fo9q3pTnmg27ezRw4ed&new=1)
- > 来源：爱范儿摘要：自 2015 年以来，谷歌一直在进行一个神秘的项目。自 2015 年以来，谷歌一直在进行一个神秘的项目。它就是由谷歌主导的「高科技未来城市项目」。那这个高科技未来城市是个什么样的城市，让玩物...
- ## [大饱眼福!花样高科产品来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=0DPQZrfkqN*COXut3lTz8Ne1-gprnnML0hRs09XpLXZJ2EahxS8G7blMNG1W7YCU9UqTCdPkS*aq-tgkMBAVYTn19tl4yXa5MfFopjFfj8j6XvE3qfWcLDtCg41Aci8H&new=1)
- > 为期 3 天的亚洲消费电子展 CES Asia 2018 已在上海成功落幕。作为亚洲最大的消费电子展，每年的CES Asia都吸引了众多厂商和普通观众。今年是亚洲消费电子展在中国上海举办的第四个年头，展会的规模也达到了空前...
- ## [库克：久坐是癌症 每个员工都该有站立办公桌](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=VIYLdbzzy8DfdsRcf5Eau09gFC*wNZu1zBCnlAFfVOLEWgh1cDRbVk*uq*XI5lRr0VjqW6Brc4qD5KqBjwMKwJT6YlDgPCTYcVIS7GhEWhKWxaOC6ZJFvRRZkRlff2Lj&new=1)
+ ## [航天科工董事长高红卫：全球制造业即将进入特殊历史阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=aHe1yL8caIt1bnYN-Y9XsRQkXgLyBqIvrXX6FgfMIIGWGhbfdMXTEQcRLWteG*Br-1Kd5clSlaBBo9JfaX2RgCpxUZmPaIKPuDA-NNeJMZGAJ45rp7tqC3eF6mUjhmm4&new=1)
+ > “航天云网采用INDICS+CMSS搭配，目标是构建和涵养以工业互联网为基础的云制造产业集群生态。”6月15日，中国航天科工集团有限公司党组书记、董事长高红卫在本届工业互联网高峰论坛上在介绍航天云网打造云制造产...
+ ## [微软投身“互联网+医疗健康”建设，撬动448亿的市场潜力](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=pn7leWVa6dra7ngWft8lWJgFEqQsxOHzsnvNOkk-iqraiTO0qmpm8xJhcmYmAPzJZPKrNWJcGgBhVv8f2DFLvRqmjeMO7tVsuWMYITfsrxtdXvAn000eNCyypme4yE2M&new=1)
+ > 微软大中华区副总裁兼市场营销及运营总经理康容在微软，我们相信，科学进步、技术创新的终极目标是造福人类。因此，微软投入数千亿美元启动了“人工智能地球计划”和“人工智能无障碍计划”，希望全球开发者能够...
+ ## [库克：久坐是癌症 每个员工都该有站立办公桌](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=VIYLdbzzy8DfdsRcf5Eau09gFC*wNZu1zBCnlAFfVOJuhaNMllgIY0bpD4e0vic6tjTFjVBhuKlFY3bGE0PNvvpx1fVC0TskCDSPOLA0eZzVMkpsp8e6CdBW-PBMO7Yh&new=1)
  > 苹果CEO库克：苹果新飞船总部每个人都有一个站立的办公桌，坐着就是新型癌症。苹果公司CEO蒂姆库克最近透露了苹果新飞船总部的一个有趣的细节：每个人都有一个站立的办公桌。同时他在最近的一次采访中表示：“坐...
- ## [5G标准完成意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=e004u5qASDo-Y4m0CqKVIl448e3viuVu5KCo32OiJZ-c4fhkYalgomD9E2*pBO3F1r7q7AJBMOj0ehbF1-aTVkUjo9BXBZsubFGi-LhmKOfHQtaD9tIcNzuN02*OWWUn&new=1)
+ ## [“爸，没事儿，有我呢!”](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=TmGEH*6spLBRwfrN0ZM299Nertk6lcKCvb*XHI5x2S1DBI3PcWN30RDEV0v9BZckyYMeEtk0vxibd0qhhiQBwuAxTvbcE6lutcNCFLt3FUlB9ue-dDH7VjrFBD5pBGCP&new=1)
+ > 他的肩头是我爬过的第一座“高山”他的怀抱是我累了就能停靠的“港湾”也不记得从哪天开始小时候，我曾经崇拜的那个超级英雄开始被最新电子产品弄得手忙脚乱随便爬几层楼也会变得气喘吁吁经常忘记关火关灯关煤气...
+ ## [每个人都拿 aria2 和迅雷比，但是真比不过啊..](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=sWppqW7XpwB8*H9lHM6F81YPZsjabWBvwJVRGgD1THIE375dKpJm1cOfNLGyIxx4XAKBdtCltW28RuHuK0IZtpQm1YVaXWfBa58teompPo3HFjNpBHWFsySrKcVMHQLC&new=1)
+ > 虽然，你可以强调两者完全不同，但是 ，你 aria2 的速度就是不如迅雷肿么办？其实也简单啊，能用迅雷的就用迅雷，不能用的就用 aria2 啊...Photon 是一款基于 aria2 的多线程下载软件，拥有易用、友好的图形界面...
+ ## [5G标准完成意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=e004u5qASDo-Y4m0CqKVIl448e3viuVu5KCo32OiJZ8Pca2PhP4C6fJr2EkZ1PA11F8PZYJKRiHXMpuD8JAM9qRKST2yFPSQI48ys1gIY8Nm8MpFWxdkdKmXPK2tq1J7&new=1)
  > 【摘要】这一里程碑事件，对于电信业意味着什么？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：网优雇佣军本文来源：网优雇佣军（hr_opt）杂谈投稿邮箱：631255063@qq.com如约而至，3GPP TSG＃80全会
- ## [集团|携手共进!中国健康传媒集团与贵州科学院达成战略合作](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=fe4rrfW02Y58veiv7dB3dJU-Q4j9KZa0Q5R2zChMivvBwS59JmbLFN9E0Wkdo0Lwh0VHvxXyZJDiQK4HABAyI2Yw*na0BMMJvlFwzL6WTxevDqehGF3xQ28pGLImKITt&new=1)
- > 6月15日，中国健康传媒集团与贵州科学院在京签署战略合作框架协议。双方将围绕大数据食品药品安全治理现代化，充分发挥贵州科学院及其健康传媒大数据的研发技术及平台应用、现代传媒网络平台及技术等优势，推进...
- ## [超越你对未来交通的想象!Honda强大的黑科技又又又来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=7LNO6A1hs2WRlz1VQ1N-0ftbK2dGmPQrdmveXwnsGciKDQJHudhff0TNhbE6L3BqzTl5IrxWdUceCINFHwNDbCI*76TYCfF9ynjQUKKrE9YExxyq2LFTcyoOfYbbXBxB&new=1)
+ ## [干机械这么多年，你能和别人说说机械发展史吗?涨姿势了](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=1HYFnKfRr6An9maODxG3ybR8JLEDevAvbjRKBmZ87LXTXjzXXzlbVezygpoptPm5uw4WbUv*mu5WYx2k0fsw2WpYJ9Xht-vNaMip4tYecxnLvKvTcFf1aEqN017CyvlK&new=1)
+ > 远古时代简单机械：杠杆、车轮、滑轮、斜面、螺旋等。公元前3000年，在修建金字塔的过程中，就使用了滚木来搬运巨石。阿基米德用螺旋将水提升至高处，那就是今天的螺旋式输送机的始祖。古代中国公元一世纪 东汉...
+ ## [超越你对未来交通的想象!Honda强大的黑科技又又又来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=7LNO6A1hs2WRlz1VQ1N-0ftbK2dGmPQrdmveXwnsGchUroerk-ElBF9dD95H*lUlW8TqawyeTFVFnqxPf5dKfYeWM3PidViujLUp5Zx1DNG-0hGwxYTxLcEoySczqnTZ&new=1)
  > 每一年的亚洲消费电子展上，Honda的“黑科技”都是交通技术领域最受关注的焦点。去年，Honda带来了RIDING ASSIST系统，让摩托车可以实现自动平衡，既可以让驾驶更轻松，也更好地保护骑士的安全。还记得搭载该项...
- ## [A站数据泄露的背后，你必须知道的那些点](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=o7FbmFFoMzsb8OtwX90QiwXsJD44SBhgtSh9haIihgHIMrgq*biB6KsL1-tC8i0q9Dt0v7AOJdOY8phEUK9KgVluv6cTu2bKLPAOcn8DFgVFWnAH-wIasg-extFFucff&new=1)
- > 混迹于二次元的童鞋都了解，数日前弹幕社区网站Acfun(以下简称“A站”)确认将被快手收购，就在大家都在期待“快手+A站”能够摩擦出怎样的火花时，A站自曝受到黑客攻击，导致近千万条用户数据外泄。　　消息一经...
- ## [大众汽车测试用于电池研究的量子计算技术](http://mp.weixin.qq.com/s?src=11&timestamp=1529208006&ver=943&signature=MPLaLdY6*GWKEyVjcQQ1yUXc5UNvYlRoQYdN-vTNruuNf5RKsAcGem*I8342FlgT0hV7gQf3sej7IdqFXU5lnsixeT9PeXq7CWnzmHgm0fEgY71wuV78Bmjjd04OCYSN&new=1)
- > ★★★★★大众汽车集团首席信息官Martin Hofmann表示：“我们正专注于集团IT系统的现代化，我们的目标是：加强工作流程的数字化，使其更简单、更安全、更高效，并为新的业务模式提供支持。这就是我们引入特定的...
+ ## [iPhone可能被禁?美国贸易部门认为苹果侵犯高通专利](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=OCAjPGohlLyOmSalayFdPxLvGUYrDcDSbNqkVLxFJYQ7ATVjFLcuAIyzfQUxTwq9loP*lv0dYvxvVK2Z2impLMd9QYe-f11PqjcchBfBM3bMvnfgwnSvrucFDc*7qenv&new=1)
+ > 【TechWeb报道】6月5日消息，据路透社报道，美国国际贸易委员会（ITC）的工作人员周五建议一名贸易法官判决，苹果侵犯了高通至少一项专利，此举可能会导致某些iPhone被禁止向美国进口。大约1年前，高通对苹果提...
+ ## [A站要凉了?遭黑客攻击，近千万条用户数据外泄!](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=J2Ltfbl*Rp7NgjUvBDltvb6rI57ArkK5O0eNU3jfPjHyRMljH9edoxLracKIwohLpujQMPmGFaveK0QP78zAuLHQ0bt75qUjgm*iQx-2mVn3Bs62nZqHsznpRLGTwc9t&new=1)
+ > 关键时刻，第一时间送达！6 月 13 日，弹幕视频网 AcFun （A站）发公告称，因网站受黑客攻击，已有近千万条用户数据外泄，目前已报警处理，希望用户及时修改密码。公告称，用户数据泄露的数量达近千万条，原因是...
+ ## [\[FB TV\]一周「BUF大事件」：弹幕网站Acfun遭遇黑客攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=VIwWM3OnHVcDBlYuNoJRbwcFr2jTsofLrBe1enLYyV26KQrtzLd*G3chP1vwYNVKF*xogL6bgbIuFgIG3sfsTJDGxg2fnwmOlcvhnCPqNkeiM6kpEIPgd*QAnEz58qIj&new=1)
+ > 本周梗概本周BUF大事件还是为大家带来了新鲜有趣的安全新闻，本周弹幕社区网站Acfun遭遇黑客攻击，剧情峰回路转；航路纵横被爆泄露用户隐私信息，官方紧急调整；英特尔披露了Spectre漏洞的新变体。想要了解详情...
+ ## [全网通后，电信联通再次联手，这次瞄准了AI终端!](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=UxMmod73lA0vlao9pJ4T9miVGG801oukApJw42wx4g7eTF8kZZ933whFzW*npNTXFnFRhHxPlKk0yyN*Ae46c6X2mREw48Jv6ZOn8-Kog7CMPfhJWdg32-XwS*anAPzY&new=1)
+ > 6月13日，中国电信联合中国联通在GSMA TSG终端工作组第32次会议上，发起AI终端研究项目立项（A New Study Item proposal for AI Devices Guidelines），该立项得到与会运营商、终端厂商、
+ ## [北约某国驻基辅大使馆遭遇黑客攻击企图](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=2AbVWR51Pg-kWdAJYAYVkXCnYhwsaA*uFtB*3-IPU5zVvMEZu1HWuWH0kYQTp7lodB8kNUF74EkDojl4fElN5RVmWVp0nTSsktNn-LddTraCphtzJlhnHT*MIq7fiZRn&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全6月17日讯 乌克兰国家安全局（SBU）2018年6月5日在一份声明中称，乌克兰国家安全局阻止了一起针对北约（NATO）某成员国驻基辅大使馆的网络攻击行动，但乌...
+ ## [大饱眼福!花样高科产品来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=0DPQZrfkqN*COXut3lTz8Ne1-gprnnML0hRs09XpLXa-hOHLCSHAMVTMWv5w1VHLZtNQAs*fuNKNHbuiyTsKNSofq3z88x-1LVcw46Txhx2MQ5*YVWM1QWMZQrHlrL0q&new=1)
+ > 为期 3 天的亚洲消费电子展 CES Asia 2018 已在上海成功落幕。作为亚洲最大的消费电子展，每年的CES Asia都吸引了众多厂商和普通观众。今年是亚洲消费电子展在中国上海举办的第四个年头，展会的规模也达到了空前...
+ ## [开源不止，前进不息：2018 OpenInfra Days China 来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=s1u4NZg5mhn9z7lFud9LVY3pATiXVru7xVk*aWtXfxz4XTnyCimsqG7OCEDbU47gR3XnhvpQ7SnBDp7BDAVjMor-bvyJ*xNvAG6wXozvkJFpZoFR8x4iiOpoGCqerh5H&new=1)
+ > 关键时刻，第一时间送达！OpenStack Days China 是由一群热衷并专注于开源的中国志愿者为中国开源社区组织和举办的年度社区活动。近两年来，志愿者团队成功激起广泛关注，获得了中国各行各业和来自全球开源开发...
+ ## [部署10台惠普3D打印系统，广东(大沥)3D打印协同创新平台揭牌](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=D1ntp0QhJmOA3KCa5bg64SbGRqVt2mfg7Ef9Mfoofv0pJA94nUqYHQYRCofsjch0PDpP0shHHyjvm*Zk0YzCU9r0fndfV0ROX*673aH1fpnpZL-*NZ5vAJ4*3-NHBJOZ&new=1)
+ > 惠普3D打印机自进入中国市场以来，大动作不断，这一次更是在佛山大沥3D打印协同创新平台一次性部署了10台惠普3D打印系统。2018年6月16日，南极熊来到佛山市大沥镇，见证了这一平台的揭幕仪式。下午，惠普公司和...
+ ## [人工智能、国际竞争与大国均势](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=mrRakkKk3Bccvw08CQEr8Yzah6L**0jrcupXdla4N1mPDbTwfPnYczTYrkEs6G5lViTod*mFy4Cyf4Prl4lxx4A*NX4N8PeI3JpUVsJ0rrtybmaK-9S48gntDHHolfcg&new=1)
+ > 全球技术地图创新丨前沿丨科普丨资讯人工智能就是我们的未来，它将对全球政治和力量均势产生极大的、甚至可能是决定性的影响。本文通过对军事创新、科技发展和国际政治的学术研究，评估人工智能在力量均势和国际...
+ ## [电信用户0元抢购优酷定向流量包](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=CHmqM2WVuw0B4ebgnvaGgJ13a0hVLFxVe0G8zD9k-lSD9aQ0OcXdfkOQruz7zsXqpCcs881Km2DvTRbjR67pV6T55y-j1wPGnxzn6qLZavCInPgAUkdXihHRjPoYZtQb&new=1)
+ > 看世界杯？看电影？看电视剧？你的流量不用花钱中国电信推出0元订购6GB优酷流量包即日起至2018年7月31日订购0元6GB优酷流量包，每用户限订一次，订购后立即生效，有效期31天。是0元订购6GB流量让你优酷不花钱不...
+ ## [想和上百位人工智能大牛面对面?全球人工智能与机器人峰会特惠门票热卖中](http://mp.weixin.qq.com/s?src=11&timestamp=1529226006&ver=943&signature=yzMZ2hRAWdMwXX5hRSN-d*4Edse7T94kp6J*I6UZhsmoIpaI7tQpJKZnjfnKiVBvpNwjgHAmKHsfB3FTNEU1bmGlTV-IpjyD1X6vPkpDGAyCOcrdcYODBWCB3SNqrYaR&new=1)
+ > 2018 年 6 月 29 日至 7 月 1 日，第三届 CCF-GAIR —— 2018 年全球人工智能与机器人峰会将在深圳进行，海内外近 100 位在人工智能领域享有盛誉的大牛将汇聚于此，进行演讲和圆桌讨论的嘉宾包括图灵奖得主，诺...
  ## [淘宝上卖SEO服务的人靠谱吗？他们是怎么做的？](https://www.zhihu.com/question/30233237)
  > 1.电击器，现在已经基本被百度扼杀了。2.收集几千几万个关键词，什么都不做总有部分关键词会上首页吧？？
  ## [如何看待联想对小米游戏本的评价并直呼“miboy”?](https://www.zhihu.com/question/271072865)
@@ -64,10 +64,16 @@ categories: IT NEWS
  > 什么是智能家居？回答一个问题就能飞黄腾达的机会你想要吗？在智能家居领域，真就有这样的机会——只要回答好一个问题，你想成为行业的领导者的梦想就完成了一半：什么是智能家居？然而这个问题太难回答了。我记得n年...
  ## [怎样辨别面试你的产品经理（或者产品总监）水平高低？](https://www.zhihu.com/question/26492953)
  > 我：张总，由于我自己的原因，感觉跟公司不太匹配，想撤了...张总：考虑清楚了吗？我：考虑清楚了，确实不太适合张总挠了挠头，过了一会说：你这样，搞得我很想打人入职这家公司后的第二天，经过一晚上的思考，我还是...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [推荐个比较好用的协同办公软件？](https://www.zhihu.com/question/20425631)
  > 使用过很多协同办公软件，这边推荐大家去使用teambition、亿方云和Tower，它们都是管理类工作，可以很好满足题主任务传达与分配的需求。这三款软件我们公司都在用，teambition用做项目管理与协同，处理各种重要项目...
+ ## [照片保存的最佳方案是什么？](https://www.zhihu.com/question/21277301)
+ > 打印出来！摸在手里的照片比屏幕上的照片好看100倍！
  ## [各位大神axios.js怎么读？](https://www.zhihu.com/question/281103899)
  > 谢邀。艾克丝伊欧姿点杰斯。
+ ## [如何评价《这！就是铁甲》第十期（冠军争夺战）？](https://www.zhihu.com/question/280269508)
+ > 1、虎爪和撒贝宁的互动很有趣。显然，虎爪老爷子对撒贝宁上一期的下的臭棋心有余悸，第一轮就很主动地上擂台为自己挑选对手，老爷子一番操作很幸运地避免了再次对阵弹射，姜还是老的辣。2、张一山被撒贝宁套路了还不...
  ## [如何形象说明路由协议RIP和OSPF？](https://www.zhihu.com/question/62872429)
  > RIPRIP协议是基于谣言的消息传播，这话怎么理解呢，先来看一个例子。宫廷戏经常有这样的场景，正襟危坐的皇上老大，对下边的太监小弟说：宣隔壁老王觐见！太监小弟尖着阳气不足的喉咙喊：宣隔壁老王觐见！（娘...
  ## [那些年薪百万的人，会参加天猫618这样的活动么？](https://www.zhihu.com/question/280977732)
@@ -76,19 +82,11 @@ categories: IT NEWS
  > 我前两个月帮人组建研发团队，遇到四个人，都是从北京回西安的。第1个是年轻小伙子，工作了不到两年，看不到希望，觉得在北京买房无望，回来了。第2个是孩子2岁多，年薪将近50万，但是在北京还没房子，考虑到紧接着要...
  ## [你的团队内部是如何进行项目管理和协作的？具体流程如何？使用什么工具呢？](https://www.zhihu.com/question/19798220)
  > 我们团队有10多个人，平时经常需要出差，目前在用teambition做任务管理，用亿方云做文件存储和办公，两个产品都非常棒！首先说说teambition，自从引入teambition后确实解决了不少实际问题，比如工作无记录、分工不明...
- ## [如何评价斗鱼主播妃凌雪（雪MM）在绝地求生中的行为？](https://www.zhihu.com/question/263951540)
- > 今天是2018年6月16日，端午节放假第一天，早上百无聊赖打开斗鱼看到妃凌雪正在直播顺便就点了进去，不管别人对她有什么质疑，开挂也好透视也好我自己是个挺中立和理性的人，感觉看个直播混混时间就行了。当时刚好她新...
- ## [1、为什么我的电脑ping其他电脑的时候延迟会出现抖动？ 2、骨干网延迟如何计算？](https://www.zhihu.com/question/68128748)
- > 计算机网络，由终端设备 + 网络中继设备组成。网络中继设备，就是把用户IP包通过接力的方式，送到目的地的设备的泛称，可能是物理层设备（猫）、可能是二层设备（交换机）、也可能是三层设备（路由器/防火墙）。可...
  ## [怎么看待镇江一会计利用公司财务漏洞挪用930余万用于打赏网络主播？](https://www.zhihu.com/question/60031594)
  > 退钱根本不是重点，冯女士怎么套出来这160万才是故事的重点。看了诸位大佬的对冯女士公关回应的专业分析觉得好气又好笑，那是冯女士5月的直播回应...2017年的...一年多前的新闻配上一年多前的回应，现在再拿出来分析...
  ## [EOS账户如何注册，相比投资域名，投资EOS账户有价值吗？](https://www.zhihu.com/question/280563825)
  > 1、如何注册看下文，更简单的注册办法，我更新后会放在这里2、可以在这里查询http://www.dappworld.com/api/v1/eos/account （页面有点糙，见笑）3、未来确定会开放交易EOS账号，就像是银行账户名，也像互联网的域...
- ## [如何看待《创造101》第九期，孟美岐选择了盛放？](https://www.zhihu.com/question/281271173)
- > 看这次选歌 美岐完全让我惊讶到了， 真的没想到她会选择盛放那首歌 当这两首歌的Demo播放出来时 我就想美岐肯定就会选逆风了 因为太适合她的风格了 在往期公演选歌时 她听到歌曲Demo时 如果适合她 她就会很开心 并...
 # IT 技术 
- ## [Docker安装Jenkins(DooD)](https://my.oschina.net/u/3269534/blog/1831317)
- >  Docker安装Jenkins(DooD) ```sh  切换root用户 su -  不要安装centos7自带的1.13版本，这个版本过低，所以脚本方式安装最新版 curl -sSL https://get.daocloud.io/docker | sh  或者直接下载rpm包安装 w
  ## [实用工具推荐 — SQL 数据库的通用命令行界面 usql](https://www.oschina.net/p/usql)
  > 命令行如何执行 SQL 语句？每个数据库都有自己的方式，彼此不同。现在出现了一个工具 usql，提供统一的方式，在命令行下操作不同的数据库。
  ## [协作翻译 | “王者对战”之 MySQL 8 vs PostgreSQL 10](https://www.oschina.net/translate/showdown-mysql-8-vs-postgresql-10)
@@ -159,34 +157,34 @@ categories: IT NEWS
  >  Visual Studio Kubernetes  Kubernetes 
  ## [为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？](https://blog.csdn.net/ityouknow/article/details/80682237)
  > 为什么说 Java 程序员到了必须掌握 Spring Boot 的时候？
- ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
- > 开源一个Android自定义图表库
  ## [从0到1 JavaScript封装一个自己的Ajax并完善与拓展Ajax](https://blog.csdn.net/superwebmaster/article/details/80678590)
  > 从0到1 JavaScript封装一个自己的Ajax并完善与拓展Ajax
- ## [如何检测或判断一个文件或字节流（无BOM）是什么编码类型](https://blog.csdn.net/cyq1162/article/details/80695110)
- > 如何检测或判断一个文件或字节流（无BOM）是什么编码类型
+ ## [开源一个Android自定义图表库](https://blog.csdn.net/u010163442/article/details/80690993)
+ > 开源一个Android自定义图表库
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
  ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
  > 在互联网圈混，怎么能不知道这9个Java方向公众号
  ## [程序员：如何优雅地装逼](https://blog.csdn.net/m68FUTKMUrmtj/article/details/80544927)
  > 程序员：如何优雅地装逼
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
- > 在IT圈混，怎么能不知道这些公众号？
+ ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
+ > 我们为什么应该坚持写博客
  ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
  > TensorFlow: 薛定谔的管道
- ## [某名企程序员吐槽：面试了一个专科生，专科都想进名企？](https://blog.csdn.net/zwjweb/article/details/80667822)
- > 某名企程序员吐槽：面试了一个专科生，专科都想进名企？
+ ## [刘强东和快递员的亲密照片被曝光，网友：这摆拍太恶心](https://blog.csdn.net/FPscyqs/article/details/80701911)
+ > 刘强东和快递员的亲密照片被曝光，网友：这摆拍太恶心
  ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
  > 没想到啊！2599元的Java干货今天免费送
+ ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
+ > 在IT圈混，怎么能不知道这些公众号？
+ ## [2018年数据科学语言&amp;工具排名，Python完胜R语言](https://blog.csdn.net/MOY37RQW1JarN33BgZk/article/details/80684295)
+ > 2018年数据科学语言&amp;amp;工具排名，Python完胜R语言
+ ## [Gartner这5点预测，IT公司的业务管理者们必须注意啦！](https://blog.csdn.net/jR2qkuHiR0G/article/details/80681645)
+ > Gartner这5点预测，IT公司的业务管理者们必须注意啦！
 # 人工智能 
  ## [逻辑回归，决策树，支持向量机 选择方案](https://blog.csdn.net/tianyaleixiaowu/article/details/80709239)
  > 逻辑回归，决策树，支持向量机 选择方案
@@ -194,16 +192,6 @@ categories: IT NEWS
  > LightGBM 如何调参
  ## [干货 | 知识图谱的技术与应用](https://blog.csdn.net/bluejoe2000/article/details/80713084)
  > 干货 | 知识图谱的技术与应用
- ## [机器学习之股票分析](https://blog.csdn.net/caoyu1221/article/details/80708818)
- > 机器学习之股票分析
- ## [第6章支持向量机图片（二）](https://blog.csdn.net/qq_39227338/article/details/80708866)
- > 第6章支持向量机图片（二）
- ## [从Logistic回归到神经网络](https://blog.csdn.net/hellocsz/article/details/80708996)
- > 从Logistic回归到神经网络
- ## [相似图片检测：感知哈希算法之dHash的Python实现](https://blog.csdn.net/qq_27563511/article/details/80709045)
- > 相似图片检测：感知哈希算法之dHash的Python实现
- ## [在tensorflow中玩逻辑回归的迭代模型](https://blog.csdn.net/weixin_42108215/article/details/80709061)
- > 在tensorflow中玩逻辑回归的迭代模型
  ## [为什么正则化能够降低过拟合](https://blog.csdn.net/junjun150013652/article/details/80709080)
  > 为什么正则化能够降低过拟合
  ## [TensorFlow进阶--实现多层Layer](https://blog.csdn.net/u010936286/article/details/80709098)
@@ -218,9 +206,21 @@ categories: IT NEWS
  > tensorflow学习笔记七：参数初始化（initializer)
  ## [TensorFlow进阶--实现随机与批量训练](https://blog.csdn.net/u010936286/article/details/80709304)
  > TensorFlow进阶--实现随机与批量训练
+ ## [第14章 利用SVD简化数据](https://blog.csdn.net/zhangjzyeah/article/details/80709315)
+ > 第14章 利用SVD简化数据
+ ## [tensorflow学习笔记八：池化层（pooling)和全连接层(dense)](https://blog.csdn.net/qq_33144323/article/details/80709329)
+ > tensorflow学习笔记八：池化层（pooling)和全连接层(dense)
+ ## [编译原理文法等价变换](https://blog.csdn.net/qwezhaohaihong/article/details/80709331)
+ > 编译原理文法等价变换
+ ## [DL学习笔记-ResNet论文阅读](https://blog.csdn.net/qq_36387683/article/details/80709346)
+ > DL学习笔记-ResNet论文阅读
+ ## [caffe新手训练模型遇到的重重阻碍——辛酸史](https://blog.csdn.net/guanzheng9996/article/details/80709381)
+ > caffe新手训练模型遇到的重重阻碍——辛酸史
  ## [Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读](http://blog.csdn.net/eastmount/article/details/80647813)
  > Python新书上市，强烈推荐！《Python网络数据爬取及分析从入门到精通（爬取篇）》导读。本书主要包括上下两册：《Python网络数据爬取及分析从入门到精通（爬取篇）》、《Python网络数据爬取...
 # PM 
+ ## [个人总结：icon网格使用规范](http://www.woshipm.com/pd/1062181.html)
+ > 本文非常全面并且很长，建议收藏以备日后所需，看完本文基本就能了解图标的一切，如果没有耐心，可以拉倒底部，查看技巧。我们的追波team链接，文中部分作品来自team...
  ## [从内容消费者的角度谈谈：抖音和微视在产品设计上的差异](http://www.woshipm.com/evaluating/1062172.html)
  > 本文作者仅选取“内容消费者”的角度，对抖音和微视进行差异分析。enjoy~近日，微视超越抖音登顶App Store免费榜，抖音宣布国内日活用户达1.5亿，再加上“头腾大战”的持...
  ## [零售企业重构新营销模式的关键四要素是什么？](http://www.woshipm.com/marketing/1062464.html)
