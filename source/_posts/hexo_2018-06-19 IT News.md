@@ -1,7 +1,7 @@
 ---
 title: 2018-06-19 IT News
 copyright: true
-date: 2018-06-19 17:02:54
+date: 2018-06-19 17:08:12
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -195,72 +195,72 @@ S2B2C&#23130;&#24198;&#26381;&#21153;&#24179;&#21488;&#8220;&#24187;&#29066;&#31
  > 预计使用 GPLv2 或 LGPLv2.1 的由红帽发起的开源项目，它们的开源许可协议都将会被加上 GPLv3 的终止条件。 在开源领域，开源协议的重要性不言而喻。因此，领先的 Linux 公司红帽宣布，所有由红帽发起的并使用了 GPLv2 或 LGPLv2.1 许可证的开源项目，它们都将会在已采用
  ## [LibreOffice 打造了一个原生文件选择器，更好集成 KDE 5](https://www.oschina.net/news/97187/libreoffice-kde5-file-picker)
  > 几个月前，LibreOffice 的开发者开始致力于与 KDE Plasma 5 进行更好的集成，到今天有了明显增长的成果 —— LibreOffice 现在拥有了原生的文件选择器。 LibreOffice 开发者 Katarina Behrens 已开始着手打造一个&quot;KDE5&quot;的原生文件选择器，用
- ## [2018](http://news.51cto.com/art/201806/576461.htm)
- > 2018
- ## [FacebookZstd](http://os.51cto.com/art/201806/576411.htm)
- > FacebookZstd
- ## [](http://developer.51cto.com/art/201806/576449.htm)
- > 
- ## [](http://netsecurity.51cto.com/art/201806/576442.htm)
- > 
- ## [Html57](http://developer.51cto.com/art/201806/576495.htm)
- > Html57
- ## [](http://news.51cto.com/art/201806/576451.htm)
- > 
- ## [AI](http://zhuanlan.51cto.com/art/201806/576431.htm)
- > AI
- ## [ITshadow IT](http://netsecurity.51cto.com/art/201806/576445.htm)
- > ITshadow IT
- ## [Python3K](http://developer.51cto.com/art/201806/576532.htm)
- > PythonPython
- ## [9](http://bigdata.51cto.com/art/201806/576525.htm)
- >  
- ## [Python](http://developer.51cto.com/art/201806/576526.htm)
- > Python
- ## [StratisLinux](http://os.51cto.com/art/201806/576520.htm)
- > Stratis  ZFS  Btrfs 
- ## [ Dubbo ](http://zhuanlan.51cto.com/art/201806/576528.htm)
- >  CORBARMIEJBWebService
- ## [Windows 10](http://os.51cto.com/art/201806/576515.htm)
- > Windows 1072.5
- ## [JavaHeap](http://zhuanlan.51cto.com/art/201806/576518.htm)
- > JavaJava Hea
- ## [Java10](http://developer.51cto.com/art/201806/576513.htm)
- > JavaJava
- ## [8 ](http://blockchain.51cto.com/art/201806/576510.htm)
- > 
- ## [](http://biz.51cto.com/art/201806/576491.htm)
- > 
+ ## [2018年俄罗斯世界杯，运用了哪些「智能硬件」？](http://news.51cto.com/art/201806/576461.htm)
+ > 2018年俄罗斯世界杯，运用了哪些「智能硬件」？
+ ## [如何使用Facebook开发的这种快速数据压缩算法Zstd](http://os.51cto.com/art/201806/576411.htm)
+ > 如何使用Facebook开发的这种快速数据压缩算法Zstd
+ ## [揭秘大众点评账号业务高可用的“三大法宝”](http://developer.51cto.com/art/201806/576449.htm)
+ > 揭秘大众点评账号业务高可用的“三大法宝”
+ ## [着眼黑产攻防，四位大咖分享防护经验为你支招](http://netsecurity.51cto.com/art/201806/576442.htm)
+ > 着眼黑产攻防，四位大咖分享防护经验为你支招
+ ## [【Html5实战】7小时开发出手机支付宝界面！](http://developer.51cto.com/art/201806/576495.htm)
+ > 【Html5实战】7小时开发出手机支付宝界面！
+ ## [十年肺腑之言：说说技术总监的“三板斧”](http://news.51cto.com/art/201806/576451.htm)
+ > 十年肺腑之言：说说技术总监的“三板斧”
+ ## [外媒速递：机器学习领域的八大开源AI技术项目综述](http://zhuanlan.51cto.com/art/201806/576431.htm)
+ > 外媒速递：机器学习领域的八大开源AI技术项目综述
+ ## [影子IT（shadow IT）：彼之砒霜，我之蜜糖](http://netsecurity.51cto.com/art/201806/576445.htm)
+ > 影子IT（shadow IT）：彼之砒霜，我之蜜糖
+ ## [学生自学Python去面试，月薪为何仅3K？面试官问题解析！](http://developer.51cto.com/art/201806/576532.htm)
+ > 很多人认为Python语言简单（实际真的那么简单吗？语法简洁不代表容易学），都去自学Python编程语言，然后寻
+ ## [科普文：银行业9大数据科学应用案例解析！](http://bigdata.51cto.com/art/201806/576525.htm)
+ > 在银行业中使用数据科学不仅仅是一种趋势，它已成为保持竞争的必要条件。 银行必须认识到，大数据技术可以
+ ## [假如你已经开始学Python，对爬虫没有头绪，不妨看看这几个案例！](http://developer.51cto.com/art/201806/576526.htm)
+ > 这几个案例以前是给一些想进入Python行业的朋友写的，看到大家都比较满意，所以就再次拿了出来，如果你已经
+ ## [使用Stratis从命令行管理Linux存储](http://os.51cto.com/art/201806/576520.htm)
+ > 正如本系列的第一部分和第二部分中所讨论的，Stratis 是一个具有与 ZFS 和 Btrfs 相似功能的卷管理文件系统
+ ## [如何快速开发一个 Dubbo 应用？](http://zhuanlan.51cto.com/art/201806/576528.htm)
+ > 在分布式系统中，远程调用是最基础也是最重要的基石。历史上，曾经先后出现过 CORBA、RMI、EJB、WebService
+ ## [微软大中华区副总裁：Windows 10不再是操作系统](http://os.51cto.com/art/201806/576515.htm)
+ > 根据微软官方数据，Windows 10全球月活跃用户超过7亿，更新到四月版的设备达到2.5亿。张永利表示，这比任何
+ ## [Java虚拟机的Heap监狱](http://zhuanlan.51cto.com/art/201806/576518.htm)
+ > 在Java虚拟机中，我是一个位高权重的大管家，他们都很怕我，尤其是那些Java 对象，我把他们圈到一个叫做Hea
+ ## [Java程序员必读的10本书籍](http://developer.51cto.com/art/201806/576513.htm)
+ > 如果你是一名程序员，想知道如何提高你对Java的了解或者成为更好的Java开发人员，那你就来对地方了。在本文
+ ## [8个案例告诉你 区块链正在颠覆共享经济](http://blockchain.51cto.com/art/201806/576510.htm)
+ > 区块链已经成为人们关注的热门词之一，并带有强烈的社交色彩，然而，不管是何种分布式数字系统，似乎都被包
+ ## [还在用笔记本玩游戏？台式机才能给你极致享受](http://biz.51cto.com/art/201806/576491.htm)
+ > 随着笔记本的性能越来越好，玩家对于游戏本的需求也越来越高了，再加上购买游戏笔记本并不需要额外购买显示
  ## [【福利】CSDN & GitChat 邀请你免费参加 OpenInfra 开源技术大会](https://blog.csdn.net/GitChat/article/details/80730918)
  > 【福利】CSDN &amp; GitChat 邀请你免费参加 OpenInfra 开源技术大会
+ ## [Android包管理机制（一） PackageInstaller的初始化](https://blog.csdn.net/itachi85/article/details/80736008)
+ > Android包管理机制（一） PackageInstaller的初始化
  ## [C 标准性能测试](https://blog.csdn.net/lindexi_gd/article/details/80733217)
  > C 标准性能测试
  ## [instant app入门和开发指南](https://blog.csdn.net/singwhatiwanna/article/details/80490124)
  > instant app入门和开发指南
- ## [Zabbix3.4.8监控硬件及服务（详解）一](https://blog.csdn.net/qq_39591494/article/details/80504256)
- > Zabbix3.4.8监控硬件及服务（详解）一
+ ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
+ > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
  ## [在IT圈混，怎么能不知道这些公众号？](https://blog.csdn.net/Mbx8X9u/article/details/80562386)
  > 在IT圈混，怎么能不知道这些公众号？
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
- ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
- > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
- > 机器学习及深度学习的知识点及面试题总结
- ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
- > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
- ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
- > 程序员如何在百忙之中不走岔路，不白忙！
- ## [爬虫3--爬取王者荣耀皮肤](https://blog.csdn.net/niunai96/article/details/80715221)
- > 爬虫3--爬取王者荣耀皮肤
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
- > 没想到啊！2599元的Java干货今天免费送
  ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
  > TensorFlow: 薛定谔的管道
+ ## [程序员如何在百忙之中不走岔路，不白忙！](https://blog.csdn.net/bntX2jSQfEHy7/article/details/80544896)
+ > 程序员如何在百忙之中不走岔路，不白忙！
+ ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
+ > 在互联网圈混，怎么能不知道这9个Java方向公众号
+ ## [猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…](https://blog.csdn.net/FnqTyr45/article/details/80685250)
+ > 猝不及防，Google成功“造人”令人胆寒！人类迎来史上最惨失业潮…
+ ## [机器学习及深度学习的知识点及面试题总结](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80654931)
+ > 机器学习及深度学习的知识点及面试题总结
+ ## [一个两年Java工程师的面试总结](https://blog.csdn.net/qq_41790443/article/details/80694415)
+ > 一个两年Java工程师的面试总结
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
+ > 没想到啊！2599元的Java干货今天免费送
+ ## [某名校学子被吐槽：说好的入职不来了，素质还不如大专生](https://blog.csdn.net/FPscyqs/article/details/80701831)
+ > 某名校学子被吐槽：说好的入职不来了，素质还不如大专生
  ## [阿里高德城市大脑·智慧交通战略发布，公共服务版首次亮相！](https://blog.csdn.net/csdnnews/article/details/80735375)
  > 6 月 19 日，世界交通运输大会期间，国内最大的移动出行平台高德地图联手阿里云在北京发布城市大脑·智慧交通战略，城市大脑·智慧交通公共服务版也首次亮相。高德集团总裁刘振飞在发布会上表示，城市大脑是驱动未来城市交通发展的新变量。城市大脑将实现交通系统中个体最优和全局最优之间的动态平衡，终局是真实世.
  ## [Java 下降，华为平均月薪高达 35K，分析 89 万招聘数据有这些发现！](https://blog.csdn.net/csdnnews/article/details/80733671)
