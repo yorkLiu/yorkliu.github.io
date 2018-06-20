@@ -1,7 +1,7 @@
 ---
 title: 2018-06-20 IT News
 copyright: true
-date: 2018-06-20 10:02:20
+date: 2018-06-20 12:05:41
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -57,47 +57,51 @@ ofo &#25512;&#20986;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [电信服务数据精准对比 一年的变化竟有这么大?](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=LL60Z4mS0EJrMLUygDOntuOW6tUviqrEJ4WJ1HHN-fY5P*WfUr3w615ZSyNN-ELmARa3IZOVlnHw*bbGLD5e1TIWmhhwL-DK9xH3viHxo1n*xTfwsE7OorvJk6z5Bw1U&new=1)
- > 6月13日，工信部发布电信服务质量报告，通报了截止今年一季度末我国电信行业的发展总体概况，从中可见我国电信服务方面质量及监管问题，也可预见未来的发展方向。那么截止目前，我国的电信情况如何呢？据报告显...
- ## [南京云创大数据科学技术协会成立](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=WVwdbVCjNzsGdJhvrEWEayZmOFgja4WjjSm1I7tpZchUCQsr-mNr8Gslubuv1DK4lKQhut2aIo2BbnHGb5tnRFY3pxIezLwLfinKPZfflytDMin9ak684mmM4Fa1aXEk&new=1)
- > 2018年6月19日下午，南京云创大数据科学技术协会成立仪式暨第一次代表大会在云创大数据总部举行，本次大会得到了秦淮区科学技术协会领导陶晓霞、黄进的莅临指导。本次大会，审议并通过了《南京云创大数据科技股...
- ## [5G SA标准与IoDT神同步，他们是如何做到的?](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=ZX-GTLm7xcD04zBpP9EngwoQBX4Zylxt4OTZ*Bgv1fBHFLFQ9y4se9SI*YcWc6RMhuUMoTopc9gcnMKy5LFrobWtt2VCKGJhMH2-nFCnfY8dyWUcF9ri4e2l5jrG1ZWU&new=1)
- > “等了好久终于等到今天！”聚光灯下，万众瞩目的5G又迈出了至关重要的一大步！当地时间2018年6月13日20:18（北京时间2018年6月14日11:18），在美国圣地亚哥，3GPP全会（TSG80）批准了第五代移动通信技术标准（...
- ## [技术解读：Hadoop、PostgreSQL 与 Storm 正面比拼报告!](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=iHEY6IIPhN6eswSN22vVDWVFEmDc8ct6URRrvkedgpDmr6JprShzdCqBWAAF*CL8J729a7F-HFPcV5WTk4DiViJubi2vQi7yyQz1lcRljFSU0CCn42mM7CZN3aZbPOfm&new=1)
- > 在 “Hadoop 是否已失宠?” 的选题调研中，笔者调查了银行、Hadoop 发行商、Hadoop 企业用户以及部分工程师的意见，所处环境、业务需求以及看问题角度的不同让这些组织或个人有着不同的意见。如果你的数据量和增...
- ## [澳大利亚5G市场将启动，华为呛声望公正待遇](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=tue1M1ZVhvyG5DoaS1ag311Fg*fXXi1dUBVMKOC4E3ZYD9LJWr94KSyXVE-r2biRvCPbzufArEJYt9vHqPGFNjpNkPrAbzcpQD9KBF2tZiArJD*9pFxIwrPkndgu*-0S&new=1)
- > 华为近日对澳大利亚政府声称其构成安全风险的说法展开反击，表示澳大利亚称其引起安全风险纯属“孤陋寡闻”，这或将加剧北京-堪培拉之间的紧张局势。此前有消息称，华为可能会被澳大利亚政府禁止参与该国的5G移...
- ## [5G首个国际标准正式发布!5G手机明年到来](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=vkb926kmYAHKGQHplZylCN7uxNws*t1Ilahtez-FG31owx2bl73gQKpGzSmWZQkYs6mowjlF5xCyrCbdMqpLH9yBlqeBp0G9eq4ccaDI**dEnAhy-kHnDhJaLQRtwIhY&new=1)
- > 关键时刻，第一时间送达！国际标准组织3GPP昨天举行了全体会议，第五代移动通信技术标准（5GNRStandalone，独立组网）方案获得批准并发布，这标志着首个真正完整的国际5G标准正式出炉，5G已完成第一阶段全功能标...
- ## [让生活远离爆炸：大数据助力城市危险品管理](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=LqPI*fPayQShLjUjbZ4QYjq*wqnODn888C379B9*JOGsYNJf6u7VnnGV1Yk5BE5ZuFnTz48gINPHys4B-59vaw5tPExSYja2bWJ6fq3CpvQep6Z2IDfAowmXRdvjBb8M&new=1)
- > 王静远  北京航空航天大学计算机学院副教授陈   超  北京航空航天大学研究生“8·12天津滨海新区爆炸事故”已经过去了近3年，大量的人员伤亡与财产损失给我们带来了惨痛的教训，同时也令我们开始反思城市危险品...
- ## [特斯拉CEO回击Model S起火事件：有员工故意搞破坏](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=CfJwTchydSRd5eOwx570WzPNW4zm852VCmMEvVE7BYxbYjFB8m6Hjj25VILJDw3UL2hU8JgzzJGPZtneHHPJ0mxF7uw6gl1MqTN7is85sekOEuK7dXpjcd9AmXhdSKSH&new=1)
- > 美国国家交通安全委员会（NTSB）将派遣一名技术专家作为观察员，了解特斯拉对上周五的Model S电池起火事件展开的调查。特斯拉CEO埃隆·马斯克（Elon Musk）上周日曾发邮件表示，他发现有公司员工正在开展破坏活...
- ## [腾讯王卡已成“强弩之末”?](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=2*9QGZ89PrxS217*AqDWGVED9ZTrC4c8*K1wpMDeZ2o2UNrHJDaoaZj73vZ1DlaPrWyGbCWsc3Y8IpTEqa*xtwfr4WzzSj3gAdNAYGfOrqJ-QXSj3dkcL1i5uzrWz-7T&new=1)
- > 【摘要】以腾讯王卡为代表的互联网定向“不限量”套餐的余威还能持续多久呢？网卡宽带的入场又说明了什么呢？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：张运来本文来源：C114通信网（C114-weixin）...
- ## [价值证伪|证监会正面怼小米，揪出了小米的这些致命弱点](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=pluWs4EXhNWMDFWuzBsP5oYv0kqDyM3WGfBqMVXvYzixdmfBWPWoxXZ7nSBvKm9Jq4LjLCiyMtN2IhCW3OLA1yMCPSI95xNMMeF7kgn9oyWiyrRRqgPm9Jlhbzj13nPP&new=1)
+ ## [价值证伪|证监会正面怼小米，揪出了小米的这些致命弱点](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=pluWs4EXhNWMDFWuzBsP5oYv0kqDyM3WGfBqMVXvYzixdmfBWPWoxXZ7nSBvKm9JhpdczDMhoekW6jjApJxwEFIqtxUFunfw*pE6vVyLL7BqDMhkkcNBCEZ7q29*pVpO&new=1)
  > 备受关注的国内CDR推进又有新进展，小米集团申请推迟召开发审委会议审核公司的CDR发行申请。而在6月14日晚间，在受理小米集团公开发行存托凭证申请一周之后，中国证监会对小米的CDR发行申请做出了超过2万字的第...
- ## [未来，召之即来](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=ib7P640Gn37VEZ-5hvu5NWqw1jTH0WkZlwc1cPT*X1bu-xt12CDJyffg0DYcJEeDxdNPaO3NNLPCs2LRQ6ls8uXmG6a4a8txkBiGsS2mSo3-OhUbpFDWrWr7JDN9uTqw&new=1)
- > AI MAKER全球领先企业深兰科技，于2018年6月6日举办了功能性商用车芭堤雅发布会。 本着“未来，召之即来”的大会主题，芭提雅作为全球首款人工智能功能性商用车，已向世人揭开了神秘的面纱。开启市场，重塑业态 ...
- ## [5G带来的不仅仅是网速那么简单，5G到底意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=OHGGMVxmDH5wFjxm2UWRJzmomDEvWvmI*PIFMCO5ASuGxlyNTjvuxER931BMjE*qp5-1K*pXZ*d10dKS7J03BCKJdxTcIzc2Rjg2CvK-nPRPxtRoKlv-R9CRogtKfYsy&new=1)
- > 5G意味着什么？意味着更快的上传下载速度、炫酷的VR娱乐体验、城市物联、无人驾驶、远程医疗...5G不仅仅是网速那么简单，它能颠覆时代！更快的上传下载速度5G时代的来临，带来最明面和直观的影响就是，网络数据...
- ## [当汽车建立起社交圈，安吉星让用车生活智能又安全?](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=jou7V4yps5UfVhaHKQzBOmK9pU8AqR7zzo9iVfDV1AoQ32Cc-cvRWdL1TEZfac8f1Be7CDu*bOmSBapnoAceszRAQ6DCpYOzs0aq74jp8xKn-hBvQYRIynXl-JWmsgj3&new=1)
- > 文/令秧早在三年前就有数据显示，在当时中国的公路上大概有1.5亿辆汽车，与智能手机同处在一个量级，于是就产生了如果每一辆汽车都具备高度智能互联的特性，那么我们的用车生活会是怎样一种体验的设想。如今，随...
- ## [不太宁静的安防五月](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=zb57jUplJGVZz*5PmAG7mciUQsJrBEbZXmm-4axaWXvez1LZGQ6eSTlhpPxKJ*L3zKtgawFYL3yCME2ZPBIUhE2*TyhJQ-*fK9c0YzlINJ-SlnBp9tDzkIaCIiHS-jG5&new=1)
+ ## [不太宁静的安防五月](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=zb57jUplJGVZz*5PmAG7mciUQsJrBEbZXmm-4axaWXvez1LZGQ6eSTlhpPxKJ*L3eaU0fykOn9*DQxzT1Kj-sON1iRqhXIcq9SIdZ5xspWWCtdOYAa0kBnQQnjls243X&new=1)
  > 5月对于安防行业而言，可谓不太安静。先谈“最严数据法”。经过两年的酝酿，GDPR（《通用数据保护条例》）开始在欧盟范围内正式生效，该条例规定，不管是“数据管理”还是“数据运用”，都必须以合法、公平...
- ## [5G“前夜”，室内数字化覆盖如何担当网络“主角”?](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=A8wmAALjFrE-IbyCbaJktYhwEgsVMrzVHPWtoIZ7MAtO9QXEfzcQu7L*oXzceWCsfYlFkD6MIZX-nXmmnRZPI8hT9j0ljzPj7OKHT6*fBwW-nS9Jw*Av1JzF2u7FQqMI&new=1)
- > 5G组网标准的出炉，正式拉开了5G商用序幕。在5G“前夜”，室内覆盖仍然是网络覆盖的难点和重点。在传统DAS系统无法承担5G室内覆盖的情况下，有源室分系统等数字化室内覆盖方案，将如何担当5G室内覆盖的重要手段...
- ## [《安全防范工程技术标准》发布众望所归 意义重大](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=T6HA0I*qiCTqjo5yEgZOmFntu54*uxCfE8tzBGXCOz5rXEMQ6YwWV1BO09ZLrgsH6cJiFmjNXnXixE0NDOAUkDFP5UHOa8V-HKheT8Z6hPzJpzSJAJiEVhP7pCwWveOU&new=1)
- > 6月2日，在中国社会科学院、中国科学院、中国工程院共同主办的“中国城市百人论坛”上，清华大学公共安全研究院教授、中国工程院院士范维澄出席论坛并发表演讲。目前基于物联网、大数据、云计算、移动互联网、人...
- ## [爱奇艺智能CEO熊文：用互联网变革线下影院](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=bRNSWgu8GrIu1cDEHWOTs3dUHYOzPq1hcU4QDumY4qOg5lKIM2TgSVUTPRqg017myvYbKLQZkYE*MkQ0JoN-5T95ap5lJguobJaTaNPxMDLJQH1XSRU-N2NwyNcPQd6j&new=1)
- > 德江｜ 撰文 中国互联网发展短短二十多年，说长不长，对我们生活的影响是显而易见的。电子商务的发展将人们的购物行为从街边小店和商场转移到了天猫、京东，视频网站的发展将人们的视听娱乐从电视机转移到在线视...
- ## [打造三纵三横架构 华为坚持做好智慧城轨使能者](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=Ztn2hr44PgPX7D0igjvkxb2VyNAGt3LsimKUZsjtQhTekmgMiFgjxFcG5qRDD33xvNESrzt4JJDSOjaUCocVmAbLGRe*0WpAWm*M5locC13eF*rd7Djfc6dUG4-NAAx5&new=1)
- > ——本文作者 丁常彦在日渐拥挤的城市里，轨道交通的重要性越来越突出，智慧城轨的呼声也一天比一天高。首先，今年国家发改委虽然对申报建设地铁城市的人口、财政收入、GDP等有了明确的要求，但全国城市轨道交通...
- ## [火速围观!机器人的“健身房”](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=DP8GNb58jlxMKjqaYQhHtApYb5REphHZleuUTj0TZhIEvPB0SmbgfAMh1MSDJ*RrRm*E*gpGE4c2-kqhtPmaEVulGOHc81RW0vUXruZjxpnO78zWjA8W8UY0Zr-NUQHd&new=1)
- > 看点：实地探访库卡9000平米制造工厂，原来机器人也有“健身房”？2017年1月6日，美的集团正式以37亿欧元（约合292亿人民币）的价格完成了对于库卡机器人（KUKA）94.55%股份的收购。从那时算起，已经过去了522天...
- ## [\[视频\]CES Asia 2018 车展上的造车“新”势力|动点探会·上](http://mp.weixin.qq.com/s?src=11&timestamp=1529460007&ver=949&signature=RaRjJiOSQTAmH5ik7-gOKtPFpvrHhFbXsRO2edt7FrlFetcFUbd7igbq0hGq67nu0C0THNYd4bwKLQyWJHSHMeetXtR0VVExGss2MUcmOVFdA1X3t3rB3H1KJH8RsRZc&new=1)
+ ## [当汽车建立起社交圈，安吉星让用车生活智能又安全?](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=jou7V4yps5UfVhaHKQzBOmK9pU8AqR7zzo9iVfDV1AoQ32Cc-cvRWdL1TEZfac8f0v6NLDQ081tBBWmPekRdZ7w2vpffHIMVg8vycohCRt920MxsBVmG3ZUdY3vTRG9C&new=1)
+ > 文/令秧早在三年前就有数据显示，在当时中国的公路上大概有1.5亿辆汽车，与智能手机同处在一个量级，于是就产生了如果每一辆汽车都具备高度智能互联的特性，那么我们的用车生活会是怎样一种体验的设想。如今，随...
+ ## [5G首个国际标准正式发布!5G手机明年到来](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=vkb926kmYAHKGQHplZylCN7uxNws*t1Ilahtez-FG31owx2bl73gQKpGzSmWZQkYhxcHxt65ySnxUjcrjIa9jCARiaQXrvJloNcltvVkMy3eD6PLK4ht40bDavkXPS7U&new=1)
+ > 关键时刻，第一时间送达！国际标准组织3GPP昨天举行了全体会议，第五代移动通信技术标准（5GNRStandalone，独立组网）方案获得批准并发布，这标志着首个真正完整的国际5G标准正式出炉，5G已完成第一阶段全功能标...
+ ## [技术解读：Hadoop、PostgreSQL 与 Storm 正面比拼报告!](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=iHEY6IIPhN6eswSN22vVDWVFEmDc8ct6URRrvkedgpDmr6JprShzdCqBWAAF*CL8Cf9f*CY2CWsl7HHTvCOS8rhYm67jxxkOGdFDK4ylP1bYeicV4zxEqyRa60Cv7Qkb&new=1)
+ > 在 “Hadoop 是否已失宠?” 的选题调研中，笔者调查了银行、Hadoop 发行商、Hadoop 企业用户以及部分工程师的意见，所处环境、业务需求以及看问题角度的不同让这些组织或个人有着不同的意见。如果你的数据量和增...
+ ## [\[视频\]CES Asia 2018 车展上的造车“新”势力|动点探会·上](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=RaRjJiOSQTAmH5ik7-gOKtPFpvrHhFbXsRO2edt7FrlFetcFUbd7igbq0hGq67nuCnl3eHDbjR3SA*CJ9XFKwuoOOHwgZslQJ6qxSfhWLv2-qM7c3XT2pRjg0gmLSLEy&new=1)
  > 动点科技 | ID：technode为期三天的 CES Asia 2018 于 6 月 15 日在上海新国展中心落下了帷幕。作为亚洲最大的消费电子展，每一届的 CES Asia 都吸引了众多展商和观众。今年也是亚洲消费电子展在中国上海举办的
+ ## [5G带来的不仅仅是网速那么简单，5G到底意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=OHGGMVxmDH5wFjxm2UWRJzmomDEvWvmI*PIFMCO5ASuGxlyNTjvuxER931BMjE*q*eQIIdCMAyRTu6InxjIjsZ3CFPgZrmfeJ*0KqfG4jaigkSJDF7dTqLMQC1qcaRsV&new=1)
+ > 5G意味着什么？意味着更快的上传下载速度、炫酷的VR娱乐体验、城市物联、无人驾驶、远程医疗...5G不仅仅是网速那么简单，它能颠覆时代！更快的上传下载速度5G时代的来临，带来最明面和直观的影响就是，网络数据...
+ ## [手机流量这样用，比无限流量更划算](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=Va7sPMgyule53MP5kYmsk4e8*FM4-2O0hLJLF*c989p*pJQgBglqH92h7LdRJlXnNPDZEXiw6QqdfS7A4uPRguf1VDpEUH9eAFfq8*upI0mOi6EUNNSW1uD8qyiTW929&new=1)
+ > （温馨提示：视频10.32M）大家好，欢迎收看科技狐。最近，各大营运商都在推销自己的无限流量卡，但是其中的坑你们要知道，无限流量并不是真正的无限流量，而是你超过了一定流量的时候，给你限速，4G变成3G，网速...
+ ## [火速围观!机器人的“健身房”](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=DP8GNb58jlxMKjqaYQhHtApYb5REphHZleuUTj0TZhIEvPB0SmbgfAMh1MSDJ*RrIyrFHQO8iNOnqwGmFw3-8PseTq-dim6emwYr0tSiQ0r5MmGzP7eHk-79h6MqffuA&new=1)
+ > 看点：实地探访库卡9000平米制造工厂，原来机器人也有“健身房”？2017年1月6日，美的集团正式以37亿欧元（约合292亿人民币）的价格完成了对于库卡机器人（KUKA）94.55%股份的收购。从那时算起，已经过去了522天...
+ ## [澳大利亚5G市场将启动，华为呛声望公正待遇](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=tue1M1ZVhvyG5DoaS1ag311Fg*fXXi1dUBVMKOC4E3ZYD9LJWr94KSyXVE-r2biRLo3V4YQslcf1MjDORQ5gC1XvwfY7gbXo9RcI*jvKBEictMuFzBEu9jYihyw8-xld&new=1)
+ > 华为近日对澳大利亚政府声称其构成安全风险的说法展开反击，表示澳大利亚称其引起安全风险纯属“孤陋寡闻”，这或将加剧北京-堪培拉之间的紧张局势。此前有消息称，华为可能会被澳大利亚政府禁止参与该国的5G移...
+ ## [打造三纵三横架构 华为坚持做好智慧城轨使能者](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=Ztn2hr44PgPX7D0igjvkxb2VyNAGt3LsimKUZsjtQhTekmgMiFgjxFcG5qRDD33xW5JbOpVH-*c5CcH-tXXPLN31w7kFczErqo9YdEbuXqx592ZzoHXtCYHMRqiGdSCE&new=1)
+ > ——本文作者 丁常彦在日渐拥挤的城市里，轨道交通的重要性越来越突出，智慧城轨的呼声也一天比一天高。首先，今年国家发改委虽然对申报建设地铁城市的人口、财政收入、GDP等有了明确的要求，但全国城市轨道交通...
+ ## [腾讯王卡已成“强弩之末”?](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=2*9QGZ89PrxS217*AqDWGVED9ZTrC4c8*K1wpMDeZ2o2UNrHJDaoaZj73vZ1DlaP7lJlDcPrDFXNev6ZkbUP7uDzA4*HY22yJFjqUx1TEf0pIoLcvRWUa0O7eBVd-RYK&new=1)
+ > 【摘要】以腾讯王卡为代表的互联网定向“不限量”套餐的余威还能持续多久呢？网卡宽带的入场又说明了什么呢？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：张运来本文来源：C114通信网（C114-weixin）...
+ ## [\[观察\]效率提升，英特尔助力企业驶入“快车道”](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=0yvOeNb8lbNrVFaVd9TlvuWU2io7sh2IeIUcS3Vy0C9GQi46r8YRTValOm4QQahLN9J-ZSZjE4zzkY-P*NDrMiyYoFzaKIJi0GZdSXPoZcxEWHLOdC91S7bQOQxb4emn&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！随着越来越多的企业加入数字化转型大军，每个企业都在期待着数字化带来的业务创新及优化。从云平台的应用、大数据的决策分析，再到工作流程自动化，企业的IT部门不再仅仅是维...
+ ## [京东送货机器人上路送快递?真当交通安全是空气?](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=h3VOb1*CaTT-vLSkwmEcK5E4ivG12k2EIzLM51SVaZQjdC-hEYQdIh*g-1BuPSnG*FF*fkmkzNYkgzRd1zNvJtFdcI*FAff2kV*gH1F-LGMoXNL1TxZJlqNXs4khCIcw&new=1)
+ > 【Man哥语】6月18日，京东宣布在北京市海淀区开启全球首次全场景常态化配送运营！为配送机器人规模应用和更广布局进行先行尝试。Man哥想说，横冲直撞的电瓶车还没治理完，送货机器人又来添乱了。何为京东配送机...
+ ## [5G将带来一些改变，但用户行为的变化并不大](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=d4tSXwb9kaUIIiYDHmqrChpW4dBI6GxwsoAY2iDIYoR275kwHp2ASe3ybNw*JlCzl0dd0HkxhPWNTVpWrmZflGcMi6FROy6-aTczfiFZhsFfsXQrrGtGuRJniI96tlhI&new=1)
+ > “ 随着5G标准的正式出炉，5G相关产品也将在下半年开始与消费者见面，相关预测显示，5G将会让CDMA走向消亡，用户使用流量也将大幅攀升，不过用户的使用行为变化不大。那么，5G的杀手锏业务又在哪里呢？”下半年...
+ ## [独家：中国移动财务部总经理朱敏升任中国电信集团党组成员](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=LL60Z4mS0EJrMLUygDOntuOW6tUviqrEJ4WJ1HHN-fbmNJFbZZ82Bm572DvALT6Gwll1omhwIHeGhMB6ivG14Ureb21gnX9c3U0fsqwGkT90ePbL1JYNwxsfPTWacb6U&new=1)
+ > 知情人士向运营商世界网独家透露，中国移动财务部总经理朱敏已升任中国电信集团有限公司总会计师、党组成员，并且已到中国电信上任，这意味着朱敏离开了工作了多年的中国移动，转到中国电信任职。中国移动财务工...
+ ## [巡检有了“新宠” 湖北移动探索无人机基站巡检](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=YMT20cEC7QiC2OOwuZXyBxUx6eU5N5vfw-hGcJp6gfQG0eplvHFcVShW-l59RFY-GFhLuYJ9CbBu2wvGEJPOfC0El5auiATHLZZkH3ynaUu48Yr3jZck9bhvBQB8wkkl&new=1)
+ > 无人机是新一轮科技革命和产业革命的热点，正逐渐成为中国经济增长的新引擎。近日，记者从中国移动湖北公司获悉，该公司正探索将无人机运用于日常基站巡检，预计今年年底投入使用。规律性的对基站进行维护巡检，...
+ ## [谷歌将向京东投资5.5亿美元，双方达成战略性合作](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=VQj6wxHhPWeZUj-pZDQ48OLcIfkJ4f4IX6nlD2xEDHooq6mtQdvjkNQyflSzeeYvgpAbk6LNWEahDTdZ-IrHlstfCB1ZXPYQ*wnlR94UcMD0RZXQZ2jIdZkpUBBRPW4b&new=1)
+ > 关注全球技术地图获取科技前沿动态科技战略特朗普签署3号航天政策指令《国家太空交通管理政策》据白宫官网6月18日消息，特朗普签署3号航天政策指令《国家太空交通管理政策》，指导美国太空交通管理，并降低太空...
+ ## [爱奇艺智能CEO熊文：用互联网变革线下影院](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=bRNSWgu8GrIu1cDEHWOTs3dUHYOzPq1hcU4QDumY4qOg5lKIM2TgSVUTPRqg017mD1jLW6D6B5IvdXgXWLHfAz0L5dvPXQkAL2-Dov6afDh1t2GBTSkcDt1EPUYy9tFv&new=1)
+ > 德江｜ 撰文 中国互联网发展短短二十多年，说长不长，对我们生活的影响是显而易见的。电子商务的发展将人们的购物行为从街边小店和商场转移到了天猫、京东，视频网站的发展将人们的视听娱乐从电视机转移到在线视...
+ ## [VR定位追踪技术PK赛，围观一下?](http://mp.weixin.qq.com/s?src=11&timestamp=1529467206&ver=949&signature=1WSfaID04HWu1zi7aszGKZVRa1pnRtp5*YHq-dIL8qphBfl*EfOeiRW0MXl7j*bTMbnexuCTFjbGLigoqnSyRwXxXq-kJxoqZeqMHNift60SsznYzy3P5*2WOLF6*EEc&new=1)
+ > VR最引以为傲的特性，即为“沉浸感”。要想达到真正完全式沉浸体验，不仅需要光学透镜拥有较大视场角，覆盖玩家的视野，让人恍如真正置身其中。如小派8K VR头显，为了打造VR最佳沉浸感，头显的视场角达到200度，...
 # IT 技术 
+ ## [一名开源小白的Apache成长自述](https://my.oschina.net/u/3823482/blog/1832670)
+ > 今天收到了来自Apache Vote我成为Serviceomb项目Committer的邮件，代表自己的贡献得到了充分的肯定；除了感谢团队的给力支持，我更希望将自己的成长经历——如何践行Apache Way的心得介绍给大家，让大家爱上Apache开源社区，也能和我一样成长为自己喜爱项目的Committ
+ ## [这届俄罗斯世界杯的冷门那么多怎么办？](https://my.oschina.net/osczb/blog/1832665)
+ > 最纯粹的世界杯，最神奇的大冷门。 德国0比1被墨西哥摩擦了。 日本历史性的赢了哥伦比亚。 C罗也挑平了西班牙。 梅西被冰岛狮吼吼愣神了。 就连11次进世界杯4强的巴西也被瑞士逼平了。 天台已经挤满了输红眼的人们。空气中充满了悲伤的气氛。这时候人群中突然传来一声嘶哑声：“快看，楼下又来了一大股民朋友！
  ## [自己动手写一个单链表](https://my.oschina.net/ouyangsihai/blog/1832509)
  > &gt;文章有不当之处，欢迎指正，如果喜欢微信阅读，你也可以关注我的微信公众号：`好好学java`，获取优质学习资源。  一、概述 单向链表（单链表）是链表的一种，其特点是链表的链接方向是单向的，对链表的访问要通过顺序读取从头部开始。 链式存储结构的线性表将采用一组任意的存储单元存放线性表中的数据元
  ## [开源一款强大的文件服务组件（QJ_FileCenter）（系列三 访问接口与项目集成）](https://my.oschina.net/u/2267912/blog/1832391)
@@ -110,14 +114,16 @@ ofo &#25512;&#20986;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20
  > 基于bboss持久层和bboss elasticsearch客户端实现数据库数据导入es案例分享（支持各种数据库和各种es版本） 1.案例对应的源码 https://gitee.com/bboss/bboss-elastic/blob/master/bboss-elasticsearch-rest-
  ## [unity游戏开发之ULua框架介绍（一）](https://my.oschina.net/u/3791427/blog/1832126)
  > 1.基础介绍 ①ULua 集成开发环境叫做：SimpleFramework，SimpleFramework 分为NGUI 和UGUI两个版本，区别是NGUI 版本的框架资源中含有NGUI 这个插件。SimpleFramework 本身不是Unitypackage 格式，而是一个Unity3D的项目工
- ## [Glide4.0 以后 监听Gif播放完成](https://my.oschina.net/u/3364122/blog/1831883)
- > 在Glide3.0的时候，我们可以通过GifDecoder获取每一帧的播放时长然后相加得到gif的播放时长，即：   GifDrawable drawable = (GifDrawable) glideDrawable;  GifDecoder decoder = drawable.getDecod
- ## [使用Statefulset在Kubernetes集群中部署etcd集群](https://my.oschina.net/u/2612999/blog/1831858)
- > !\[\](https://wilhelmguo.tk/api/file/getImage?fileId=5b24c7aeaddba4075b00000c) 随着微服务架构的火爆，Etcd作为服务发现或者分部式存储的基础平台也越来越频繁的出现在我们的视野里。因此对于快速部署一套高可用的Etcd集群的需求
- ## [Kubernetes(五) - Service](https://my.oschina.net/wenzhenxi/blog/1831847)
- > !\[\](http://pic.w-blog.cn/kubernetes/7.png) Kubernetes解决的另外一个痛点就是服务发现,服务发现机制和容器开放访问都是通过Service来实现的,把Deployment和Service关联起来只需要Label标签相同就可以关联起来形成负载均衡,基于k
- ## [Vue 兼容 ie9 的全面解决方案](https://my.oschina.net/u/171860/blog/1831843)
- >  前言 **背景情况** - vue - 2.5.11 - vue-cli 使用模板 `webpack-simple` - http请求：axios Vue 官方对于 ie 浏览器版本兼容情况的描述是 ie9+，即是 ie9 及更高的版本。经过测试，Vue 的核心框架 `vuejs` 本身，以及
+ ## [Java 连接池 Apache Commons DBCP 2.4.0 发布](https://www.oschina.net/news/97251/apache-commons-dbcp-2-4-0-released)
+ > Apache Commons DBCP 2.4.0 已发布，DBCP(Database Connection Pool)是一个依赖 Jakarta commons-pool 对象池机制的数据库连接池，Tomcat 的数据源使用的就是 DBCP。 下载地址：http://commons.apache.
+ ## [Proxy-Go 全平台 SDK v5.0 发布啦！新增安全DNS代理！](https://www.oschina.net/news/97250/proxy-go-sdk-5-0-released)
+ > Proxy-Go 全平台 SDK是proxy使用gombile实现了一份go代码编译为android和ios平台下面可以直接调用的sdk类库, 另外还为linux和windows提供sdk支持，基于这些类库,APP开发者可以轻松的开发出各种形式的代理工具。 此次更新： 修复了SPS多端口无效的bug
+ ## [shadowtunnel v1.0 处女版发布啦! 保护你的 TCP 流量！](https://www.oschina.net/news/97249/shadowtunnel-1-0-0-released)
+ > shadowtunnel v1.0发布啦！shadowtunnel 是一款可以在你本地机器和远程服务之间建立安全的加密隧道，保护你的 tcp 流量，能高效压缩传输，流量无特征。 local machine &lt;----&gt; shadowtunnel &lt;---&gt; service on remote. 用法
+ ## [t-io 3.0.3：TFB 压测被 actframework 碾压过后的简单抵抗](https://www.oschina.net/news/97248/t-io-3-0-3-released)
+ > 概述 上个版本有说tio参与了TFB测试，当时就说等着被大家看笑话，最新的测试结果出来了，果然排名比较靠后 1、json压测排名第176，每秒处理9.96万个http请求，知名国产框架act是排名第一，是每秒处理122.8万个http请求 2、plaintext压测排名第82，每秒处理68.3万个h
+ ## [LuckyFrame V2.6 Beta 版本发布，一站式自动化测试平台](https://www.oschina.net/news/97247/luckyframe-2-6-beta-released)
+ > LuckyFrame V2.6 Beta 版本发布，这是集自动化测试以及质量管理的统一平台，自动化测试平台支持接口自动化&amp;UI自动化&amp;移动端自动化，提供多个报表统计数据入口，并有图形化展示，并提供几个质量管理数据收集模板，用来做项目质量分析。 此测试平台分为两个项目，一个Web服务端项目，主要用来管
  ## [Hutool 4.1.1 发布，Java 工具集](https://www.oschina.net/news/97246/hutool-4-1-1-released)
  > Hutoo l是一个 Java 工具包，也只是一个工具包，它帮助我们简化每一行代码，减少每一个方法，让 Java 语言也可以“甜甜的”。Hutool 最初是我项目中“util”包的一个整理，后来慢慢积累并加入更多非业务相关功能，并广泛学习其它开源项目精髓，经过自己整理修改，最终形成丰富的开源工具集。
  ## [高手问答 | 想要玩转 Python？从 Python 网络爬虫开始吧](https://www.oschina.net/question/2720166_2281819)
@@ -148,24 +154,14 @@ ofo &#25512;&#20986;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20
  > Laradock 7.0.2 已发布，更新内容如下： 更新 Kibana 版本以匹配 Elasticsearch 的版本； 修复 php 5.6 drush “Segmentation fault” 报错； 修复 php 7.0 swoole 构建失败。 更多细节可查阅发行列表。 Laradock 
  ## [draw.io 8.8.3 发布，在线图表编辑工具](https://www.oschina.net/news/97232/drawio-8-8-3-released)
  > draw.io 8.8.3 已发布，该版本主要是修复了 Allied Telesis 中的错别字。详情 draw.io 是一款在线图表编辑工具, 可以用来编辑工作流、BPM、org charts、UML、ER图、网络拓朴图等。 下载地址： draw.war Source code (zip) Sou
- ## [Boostnote 0.11.6 发布，Markdown 笔记编辑器](https://www.oschina.net/news/97231/boostnote-0-11-6-released)
- > Boostnote 0.11.6 已发布，包括以下新特性： 分割视图可调整。现在可通过拖动来调整编辑器的宽度和预览框； 支持通过 OS shell 打开本地文件； 国际化：新增土耳其语； 改进笔记附件； 支持自定义 markdown css 。 更多修复和改进请查阅发行说明。 Boostnote 是
- ## [Java 框架 Dropwizard 1.3.4 和 1.2.7 发布](https://www.oschina.net/news/97230/dropwizard-1-3-4-released)
- > Dropwizard 1.3.4 和 1.2.7 已发布，主要是将 Jackson 更新至 2.9.6 ，以修复 CVE-2018-12022 和 CVE-2018-12023  (2392, 2393)。此外，Dropwizard 1.3.4 还更新了 Liquibase 3.6.1 。 Dr
- ## [HandBrake 1.1.1 发布，多功能视频转码工具](https://www.oschina.net/news/97229/handbrake-1-1-1-released)
- > HandBrake 1.1.1 已发布，主要是解决和修复 1.1.0 版本中报告的问题。HandBrake 是一款开源的视频转码软件，可用于 MacOS X、Linux 和 Windows 系统。 针对所有平台的更新如下： General 修复梳状检测滤波器中潜在的崩溃问题 修复填充过滤器中潜在的崩
- ## [Mastodon 2.4.2 发布，开源社交网络服务器](https://www.oschina.net/news/97228/mastodon-2-4-2-released)
- > Mastodon 2.4.2 已发布，带来了以下新特性： 在新用户收到你的邀请链接并进行注册后，会自动关注邀请人； 新增语言筛选功能：勾选语言后，将只显示这些语言的内容； 允许选择默认发帖语言。 更多细节可查阅发行列表 Mastodon 是一个免费的开源社交网络程序，一个商业平台的替代方案，避免了单
- ## [XXL-CONF v1.5.0 发布，分布式配置中心](https://www.oschina.net/news/97227/xxl-conf-1-5-0-released)
- > v1.5.0 新特性 1、配置中心Agent服务增强：针对非Java应用提供Agent服务获取配置，提供同步、异步两种Http请求方式，原生支持 long-polling（Http） 的方式获取配置数据、并实时感知配置变更。同时，强化请求权限校验； 2、配置同步功能：将会检测对应项目下的全部未同步配
- ## [混合现实技术下的医疗场景，维卓致远用3D场景精准定位病灶](http://ai.51cto.com/art/201806/576565.htm)
- > 混合现实技术下的医疗场景，维卓致远用3D场景精准定位病灶
- ## [宜信技术研发中心高级架构师王东：实时敏捷大数据在宜信的实践](http://server.51cto.com/News-576556.htm)
- > 宜信技术研发中心高级架构师王东：实时敏捷大数据在宜信的实践
+ ## [6个人如何维护上千规模的大数据集群？](http://bigdata.51cto.com/art/201806/576568.htm)
+ > 6个人如何维护上千规模的大数据集群？
  ## [保证DevOps与持续交付质量的九大最佳测试工具](http://developer.51cto.com/art/201806/576547.htm)
  > 保证DevOps与持续交付质量的九大最佳测试工具
  ## [外媒速递：DevOps实践当中的四种常见缺陷](http://zhuanlan.51cto.com/art/201806/576548.htm)
  > 外媒速递：DevOps实践当中的四种常见缺陷
+ ## [【科普文】银行业9大数据科学应用案例解析](http://bigdata.51cto.com/art/201806/576525.htm)
+ > 【科普文】银行业9大数据科学应用案例解析
  ## [2018年俄罗斯世界杯，运用了哪些「智能硬件」？](http://news.51cto.com/art/201806/576461.htm)
  > 2018年俄罗斯世界杯，运用了哪些「智能硬件」？
  ## [如何使用Facebook开发的这种快速数据压缩算法Zstd](http://os.51cto.com/art/201806/576411.htm)
@@ -174,56 +170,56 @@ ofo &#25512;&#20986;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20
  > 揭秘大众点评账号业务高可用的“三大法宝”
  ## [着眼黑产攻防，四位大咖分享防护经验为你支招](http://netsecurity.51cto.com/art/201806/576442.htm)
  > 着眼黑产攻防，四位大咖分享防护经验为你支招
- ## [暗网叫卖知名网站千万用户数据？揭秘黑产如何操作 - 网络・安全技术周刊第349期](http://network.51cto.com/art/201806/576563.htm)
- > 近日，暗网突现一条售卖信息，一名黑客号称出售两个日流量超百万的知名站点的Shell及内网权限，其中一个站
- ## [混合现实技术下的医疗场景，维卓致远用3D场景精准定位病灶](http://ai.51cto.com/art/201806/576565.htm)
- > 现如今的医疗行业正在逐步变得更加科技化、精准化，医疗体系的变革至少有一半的推动力来自于科技的创新，而
- ## [pickle 更快的数据储存方式](http://stor.51cto.com/art/201806/576564.htm)
- > 很多人会选择将数据写入一个文本文档，使用时再将之读入。这固然是一种解决办法，但不够“优雅”，今天我们
- ## [你的开源项目缺个好看的 logo？这里有人免费帮你画好了](http://news.51cto.com/art/201806/576561.htm)
- > 作为一名每天浏览 N 个（掐指一算，N &gt; 15）开源项目的编辑，我发现了一个十分普遍的问题 ―― 大部分开源
- ## [在 Oracle 中如何配置和运行外部存储过程](http://stor.51cto.com/art/201806/576562.htm)
- > Oracle 数据库的外部存储过程特性提供了在 C 语言（或能通过 C 调用的其他语言）中实现代码逻辑然后在数据
- ## [码农的一天是怎么过的？](http://news.51cto.com/art/201806/576560.htm)
- > 在很多人眼里，程序员就是整天坐在电脑前面敲一整天代码的形象。但真实的情况如何呢？带着这个问题，Pavel
- ## [5G标准出炉，与4G有啥不一样？ 或1秒内下载1G电影](http://news.51cto.com/art/201806/576559.htm)
- > 据运营商的消息，现在 4G 网络环境下载一部 1G 的电影估计要 30 秒，如果用 5G 网络，到时计算单位可能不是
- ## [大数据解锁传统企业面临的挑战](http://bigdata.51cto.com/art/201806/576558.htm)
- > 一些专家认为，大数据将成为市场营销的最大标志。其他人则认为大数据正在解决物流挑战。但在进行民意调查后
- ## [国内高校首次规模招收AI专业本科生](http://news.51cto.com/art/201806/576557.htm)
- > 近年来高校领域形成了开设人工智能专业的热潮，而 2018 年，则是高校第一次面向高考生展开大规模招生，00
- ## [专访微软张永利：Windows 10不再只是操作系统](http://news.51cto.com/art/201806/576554.htm)
- > 在刚刚过去的 COMPUTEX 和 E3 上，微软都显得颇为高调。一手智能边缘、一手独占大作，这家以 Windows 与 Of
+ ## [深度分析企业架构的隐藏奥秘](http://www.cioage.com/art/201806/576598.htm)
+ > 想在不增加技术负担的情况下降低IT成本?企业架构是一个很好的起点。想要改进业务或者IT集成吗?企业架构有望
+ ## [用于数据科学和机器学习的GitHub存储库和Reddit主题（5月）](http://bigdata.51cto.com/art/201806/576595.htm)
+ > 这篇文章总结了Reddit平台上5月份的一些关于数据科学的讨论，其中包括数据科学家在未来3年的作用以及有史以
+ ## [2018世界杯数据分析：梅西为什么进不了球？](http://bigdata.51cto.com/art/201806/576591.htm)
+ > 在阿根廷vs冰岛一战中，梅西的表现引来无数吐槽，不仅射丢点球，全场大部分时间还在“散步”。但基于数据的
+ ## [NVIDIA下一代显卡大变：频率架构截然不同](http://biz.51cto.com/art/201806/576590.htm)
+ > NVIDIA与AIC合作伙伴终于开始了新一代GeForce游戏卡的各项准备工作，预计8-9月份就会和我们见面，比往常节
+ ## [Intel加速迈进：主流上8核 发烧上22核](http://biz.51cto.com/art/201806/576589.htm)
+ > AMD Ryzen锐龙不断强势攻城略地，Intel也打起精神，掀起了“核战”，桌面发烧上到18核心，主流也有6核心，
+ ## [关于云计算，企业决策者需留意的十个要点](http://cloud.51cto.com/art/201806/576581.htm)
+ > 本文中列出了10个与云计算接触时需要留意的关键点，以帮助企业的业务决策者避免陷入一些IT误区，并从云计算
+ ## [数据分析外包的利与弊](http://bigdata.51cto.com/art/201806/576588.htm)
+ > 企业会将各种IT和业务功能外包给服务提供商，这就包括一些非常具有战略意义的功能。而数据分析也越来越多地
+ ## [CIO手册: 10个在数字时代引领IT的秘诀](http://www.cioage.com/art/201806/576593.htm)
+ > 从操纵政治到放弃投资回报率，来自Bharti Airtel，Land O&x27;Lakes和联合国的CIO们在麻省理工学院斯隆CIO研讨
+ ## [AR长跑发令枪已响，苹果、谷歌已经跑出了多少米？](http://mobile.51cto.com/vrar-576574.htm)
+ > 有 VR 连续「三个元年」的失败在前，AR 行业已经非常乖觉的不再使用「元年」这样的叫法了。苹果和谷歌的 AR
+ ## [5个技巧让你更高效地完成云应用开发](http://cloud.51cto.com/art/201806/576587.htm)
+ > 在云技术主导IT行业的今天，除非你的公司是在云计算出现之后成立的，否则你的IT环境必然运行着大量的，不同
  ## [CSDN日报1806019——《程序员，读研你的优势是什么呢？》](https://blog.csdn.net/blogdevteam/article/details/80737684)
  > CSDN日报1806019——《程序员，读研你的优势是什么呢？》
  ## [在Keras中使用VGG进行物体识别](https://blog.csdn.net/baimafujinji/article/details/80700263)
  > 在Keras中使用VGG进行物体识别
  ## [TensorFlow中的Eager Execution和自动微分](https://blog.csdn.net/Yt7589/article/details/80724830)
  > TensorFlow中的Eager Execution和自动微分
- ## [模块级别自动化测试的经验与教训](https://blog.csdn.net/hustspy1990/article/details/80725017)
- > 模块级别自动化测试的经验与教训
+ ## [AI: 如何快速开发智能机器人 Bot Intelligence](https://blog.csdn.net/jason_dct/article/details/80721566)
+ > AI: 如何快速开发智能机器人 Bot Intelligence
  ## [人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/80685242)
  > 人工智能人才荒，年薪50万砸钱抢人，但是转行人产生了这样的疑虑……
- ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
- > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [在互联网圈混，怎么能不知道这9个Java方向公众号](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80571296)
- > 在互联网圈混，怎么能不知道这9个Java方向公众号
- ## [机器学习5年大跃进，可能是个错觉](https://blog.csdn.net/LrS62520kV/article/details/80684410)
- > 机器学习5年大跃进，可能是个错觉
- ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
- > TensorFlow: 薛定谔的管道
  ## [华为资深工程师：码农很多，但程序员并不多......](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/80655451)
  > 华为资深工程师：码农很多，但程序员并不多......
+ ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
+ > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
+ ## [TensorFlow: 薛定谔的管道](https://blog.csdn.net/XWUkefr2tnh4/article/details/80684444)
+ > TensorFlow: 薛定谔的管道
+ ## [又一程序员996加班猝死？网友表示：我要考虑走人了！](https://blog.csdn.net/zwjweb/article/details/80701257)
+ > 又一程序员996加班猝死？网友表示：我要考虑走人了！
  ## [Java 危矣！统治地位已不复存在？](https://blog.csdn.net/mxw2552261/article/details/80681653)
  > Java 危矣！统治地位已不复存在？
  ## [区块链技术公司怎么赚钱？区块链技术潜力在哪？](https://blog.csdn.net/ZZF1993520/article/details/80708098)
  > 区块链技术公司怎么赚钱？区块链技术潜力在哪？
- ## [程序员实习请假回校领毕业证，还没上火车就被公司通知不用回来了](https://blog.csdn.net/weixin_42457685/article/details/80690883)
- > 程序员实习请假回校领毕业证，还没上火车就被公司通知不用回来了
  ## [为什么一定要给孩子找个程序员爸爸？](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80681623)
  > 为什么一定要给孩子找个程序员爸爸？
- ## [我们为什么应该坚持写博客](https://blog.csdn.net/ityouknow/article/details/80589552)
- > 我们为什么应该坚持写博客
+ ## [你靠什么在单位立足？此文堪称经典！](https://blog.csdn.net/Px01Ih8/article/details/80577810)
+ > 你靠什么在单位立足？此文堪称经典！
+ ## [Intel拟推动概率计算研究](https://blog.csdn.net/gS780J/article/details/80684070)
+ > Intel拟推动概率计算研究
+ ## [特斯拉AI总监自曝自动驾驶系统秘密：用神经网络编程](https://blog.csdn.net/za8KFnpo2/article/details/80681836)
+ > 特斯拉AI总监自曝自动驾驶系统秘密：用神经网络编程
  ## [阿里高德城市大脑·智慧交通战略发布，公共服务版首次亮相！](https://blog.csdn.net/csdnnews/article/details/80735375)
  > 6 月 19 日，世界交通运输大会期间，国内最大的移动出行平台高德地图联手阿里云在北京发布城市大脑·智慧交通战略，城市大脑·智慧交通公共服务版也首次亮相。高德集团总裁刘振飞在发布会上表示，城市大脑是驱动未来城市交通发展的新变量。城市大脑将实现交通系统中个体最优和全局最优之间的动态平衡，终局是真实世.
  ## [Java 下降，华为平均月薪高达 35K，分析 89 万招聘数据有这些发现！](https://blog.csdn.net/csdnnews/article/details/80733671)
@@ -239,18 +235,6 @@ ofo &#25512;&#20986;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20
 # 人工智能 
  ## [CSDN日报1806019——《程序员，读研你的优势是什么呢？》](https://blog.csdn.net/blogdevteam/article/details/80737684)
  > CSDN日报1806019——《程序员，读研你的优势是什么呢？》
- ## [python 图像处理](https://blog.csdn.net/qq_39709535/article/details/80733763)
- > python 图像处理
- ## [【FPGA笔记】基于FPGA的图像处理](https://blog.csdn.net/u012923751/article/details/80733851)
- > 【FPGA笔记】基于FPGA的图像处理
- ## [高级编程技术【sklearn】](https://blog.csdn.net/Zero_S_Qiu/article/details/80733953)
- > 高级编程技术【sklearn】
- ## [人脸识别算法演化史](https://blog.csdn.net/SIGAI_CSDN/article/details/80733973)
- > 人脸识别算法演化史
- ## [基于模型的推荐系统](https://blog.csdn.net/Dynomite/article/details/80734066)
- > 基于模型的推荐系统
- ## [高级编程技术，第十五周](https://blog.csdn.net/qq_36319729/article/details/80734083)
- > 高级编程技术，第十五周
  ## [机器学习之SMO、SVR](https://blog.csdn.net/liuy9803/article/details/80734116)
  > 机器学习之SMO、SVR
  ## [吴恩达机器学习 - 逻辑回归的正则化](https://blog.csdn.net/wyg1997/article/details/80734142)
@@ -267,12 +251,58 @@ ofo &#25512;&#20986;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20
  > 源方法【方法】：数学建模思维
  ## [MaskRCNN在TensorFlow上训练自己的数据集](https://blog.csdn.net/m0_37718269/article/details/80734628)
  > MaskRCNN在TensorFlow上训练自己的数据集
+ ## [基于深度学习的目标检测算法综述](https://blog.csdn.net/SIGAI_CSDN/article/details/80734712)
+ > 基于深度学习的目标检测算法综述
+ ## [备好数据后，数据科学家还要做什么？](https://blog.csdn.net/jingluodashen/article/details/80734717)
+ > 备好数据后，数据科学家还要做什么？
+ ## [第十五周作业（sklearn）](https://blog.csdn.net/qianjq3/article/details/80734735)
+ > 第十五周作业（sklearn）
+ ## [时序行为检测论文笔记（一）：CDC](https://blog.csdn.net/weixin_38423311/article/details/80734767)
+ > 时序行为检测论文笔记（一）：CDC
+ ## [时序行为检测论文笔记（二）：R3D](https://blog.csdn.net/weixin_38423311/article/details/80734841)
+ > 时序行为检测论文笔记（二）：R3D
+ ## [夯实智能化作战大数据人才基础](https://blog.csdn.net/qq_39443136/article/details/80734914)
+ > 夯实智能化作战大数据人才基础
 # PM 
- ## [怎样跟60后的爸妈解释“产品经理”？](http://www.woshipm.com/pmd/1065114.html)
- > 如何告诉60后的爸妈“我是产品经理”？正所谓：产品就是用户、场景和需求，再辅以解决方案。干吧！一、用户分析1.用户是谁？我1960年出生的爸爸我1961年出生的妈妈...
- ## [App只能用吗？App能玩吗？](http://www.woshipm.com/ucd/1064903.html)
- > 设计应用App时，我们可以借鉴一些游戏的处理方式，让用户的整体操作更流畅、让用户更专注到我们希望他们做的事情。最近在工作中受到很多游戏设计的启发，加上平时自己...
+ ## [关于需求管理的产品工作流程方法论](http://www.woshipm.com/pmd/1063940.html)
+ > 笔者在前文《关于洞察挖掘产品需求的思考与总结》中介绍了收集和挖掘需求的方法。本篇将接前文，介绍在获取到一些需求之后，如何进行需求管理？在相对成熟的产品团队...
+ ## [从京东、天猫、苏宁618说起，聊聊电商大促未来如何发展？](http://www.woshipm.com/marketing/1063880.html)
+ > 一年一度的618电商大促来袭，本文从营销策略的角度来观察电商大促，主要想解决两个疑惑：1.今年的618大促相比往年有什么显著的变化？2.未来电商大促的发展方向？京...
+ ## [设计沉思录｜运营创意树](http://www.woshipm.com/pd/1065550.html)
+ > 本文将结合一个真实案例，为大家讲述作者是如何通过自己总结出来的系统化的创意流程，产生具体的设计方案。一起来看看~一提到设计与创意，大家可能会觉得这是一件很抽...
+ ## [如何做好微交互，来提升产品的用户体验？](http://www.woshipm.com/ucd/1065136.html)
+ > 本篇文章，作者将展示一些有效微交互的例子，同时也会解释一下，它们是如何提高产品用户体验，另外也会教大家怎样做微交互测试。之所以将翻译出来，其原因是文中的那...
+ ## [AI必备知识：推荐系统](http://www.woshipm.com/ai/1064987.html)
+ > 本文作者详细介绍了AI推荐系统，并提出了自己的想法。跟着作者思路一起来了解一下吧！一、好的推荐系统1. 什么是好的推荐系统——用户视角什么是推荐系统?当你心理产...
+ ## [短视频演义：产品与运营的那些事儿](http://www.woshipm.com/chuangye/1065444.html)
+ > 本文作者主要回顾当初进行短视频创业的经历，一起和大家聊聊短视频产品与运营的一些事，希望能对大家有所帮助~序幕广州的冬天，一年一个样，暖冬炎热似暑，冷冬冰寒...
+ ## [社区三年杂记1：从2015年至今，我在阿里做社交的经历](http://www.woshipm.com/zhichang/1065610.html)
+ > 文章是为了记录从2015年7月至今在阿里做社交的经历而写，文章会有两个主线，一个是对业务的思考和回顾，一个是自己的成长；更多是总结回顾而非预测，但“知史以明鉴 查古...
+ ## [问答市场用户下沉的逻辑](http://www.woshipm.com/it/1065559.html)
+ > 问答市场的玩家为什么集体下沉？在流量红利日益殆尽的的移动互联战场，“用户下沉”这个关键词一度成为众多APP共同的主题，拼多多、趣头条等深谙下沉之道的产品以强悍的...
+ ## [为什么今年618没有想象的那么火？](http://www.woshipm.com/it/1065565.html)
+ > 平台为了业绩改变营销策略，缺乏新概念打动用户，新电商业态的不断出现正在解构中心化的平台模式。6月18日凌晨，朋友圈在一片世界杯声中，偶尔夹杂着几条关于电商618...
+ ## [5个方面分析：搜索框的产品设计逻辑](http://www.woshipm.com/pd/1063760.html)
+ > 搜索功能是绝大部分产品中标配的功能，因为搜索功能可以帮助用户快速找到想要的内容，缩短用户使用成本，文章主要聊一聊App搜索框的产品设计逻辑。产品设计中，不管是...
+ ## [互联网产品logo的分类及特点](http://www.woshipm.com/pd/1063956.html)
+ > 产品logo不需要过多的语言来阐述，一个简单的图标就可以代表这个产品。比如：一个被咬了一口的的苹果，飘扬的旗帜（微软），一只大多数人都不知道是哪只眼睛睁开的企鹅...
+ ## [互联网金融行业里，资金端与资产端如何对接？](http://www.woshipm.com/pd/1065044.html)
+ > 在互金行业里，资金端与资产端是如何对接的？本文将用简洁的语言将它的中间逻辑梳理清楚，一起来看看~现在做理财（即资金端）的PM很多，做消费金融或者现金贷（即资产...
  ## [你会主动和老板谈升职加薪吗？](http://www.chanpin100.com/article/107041)
  > 【小百摘要】不光是女性羞于启齿谈升职加薪，东方文化中，大家也都更加内敛，这个问题该如何解决？
+ ## [产品复盘：为何这款产品会做失败？](http://www.pmtoo.com/article/48427.html)
+ > 本文是作者根据自己开发的产品的一次复盘，从九个方面来分析了他失败的原因，一起来看看~进入主旨之前呢，笔者先大体...
+ ## [从4个方面看看：微信最新的这一波改版](http://www.pmtoo.com/article/48416.html)
+ > 微信最新的改版引起了众多的讨论，本文作者从它改版的四个方面，来探究一下微信这次改版背后的逻辑和思考究竟是什么？最...
+ ## [懂球帝APP产品需求文档](http://www.pmtoo.com/article/48393.html)
+ > 产品小白一枚，白得发亮，白得透明，白得让人瑟瑟发抖。希望通过实践来提高自己，同时也希望能同大家交流。以下为Axure原...
+ ## [谷歌投资京东，也许在考虑家庭购物](http://www.pmtoo.com/article/48389.html)
+ > 谷歌入股京东，就有一些非财务投资的卡位意味了：未来，谷歌做消费者界面，京东做电商。一据各种科技媒体...
+ ## [年度必备知识点：来了一个 8 系，宝马旗舰升级](http://www.pmtoo.com/article/48364.html)
+ > 用了这么多年搜索引擎，我也还没搞明白到底百度和 Google 谁更懂中文。然后我却早早找到了最懂中文的汽车企业，无论是用“...
+ ## [搜一搜”直达商品，微信要和阿里抢饭碗了？](http://www.pmtoo.com/article/48360.html)
+ > 微信搜一搜直达商品，因为缺乏用户场景、内容来源封闭等原因注定无法改变微信电商格局。但是不代表微信没有机会和能力改变...
+ ## [阿里会收购抖音吗？](http://www.pmtoo.com/article/48356.html)
+ > 抖音愿意拿BAT的钱，最可能拿的是阿里的，但也不会以被收购的方式。如果能像微博一样拿到投资的同时拿到大笔广告投放承诺——...
 
     
