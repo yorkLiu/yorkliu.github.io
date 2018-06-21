@@ -1,51 +1,70 @@
 ---
 title: 2018-06-21 IT News
 copyright: true
-date: 2018-06-21 09:00:36
+date: 2018-06-21 10:00:38
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】2018年6月21日 星期四</b></summary><div class="news-list-content"><p>1. &#24494;&#20449; iOS &#29256;&#26412;&#26356;&#26032;&#33267; 6.7.0&#65292;&#26032;&#22686;&#8220;&#21487;&#20197;&#30452;&#25509;&#27983;&#35272;&#35746;&#38405;&#21495;&#28040;&#24687;&#8221;&#30340;&#21151;&#33021;&#12290;&#26356;&#26032;&#21518;&#65292;&#29992;&#25143;&#21487;&#20197;&#22312;&#21407;&#26412;&#30340;&#35746;&#38405;&#21495;&#31383;&#21475;&#20197;&#19968;&#31181;&#25353;&#26102;&#38388;&#25490;&#24207;&#65292;&#21482;&#26174;&#31034;&#20844;&#20247;&#21495;&#22836;&#26465;&#30340;&#8220;&#26631;&#39064;+&#22836;&#22270;&#8221;&#30340;&#20449;&#24687;&#27969;&#65292;&#23601;&#21644;&#24456;&#22810;&#36164;&#35759;&#31867; app &#19968;&#26679;&#12290;</p>
+<p>2. &#25903;&#20184;&#23453;&#23448;&#26041;&#23459;&#24067;&#65292;&#29616;&#22312;&#36890;&#36807;&#25903;&#20184;&#23453;&#21487;&#20197;&#26597;&#35810;&#20010;&#20154;&#25152;&#24471;&#31246;&#30340;&#32564;&#32435;&#24773;&#20917;&#20102;&#12290;&#20855;&#20307;&#21150;&#27861;&#20026;&#65306;&#25903;&#20184;&#23453;&#25628;&#32034;&#8220;&#20010;&#31246;&#8221;&#65292;&#28857;&#20987;&#30456;&#24212;&#30465;&#24066;&#30340;&#31246;&#21153;&#26381;&#21153;&#65292;&#21363;&#21487;&#26597;&#35810;&#20010;&#20154;&#25152;&#24471;&#31246;&#30340;&#32564;&#32435;&#24773;&#20917;&#65292;&#30446;&#21069;&#65292;&#20165;&#25903;&#25345;&#37096;&#20998;&#22478;&#24066;&#26597;&#35810;&#12290;</p>
+<p>3. &#28120;&#23453;&#32593;&#23448;&#26041;&#21457;&#24067;&#20844;&#21578;&#31216;&#65292;&#23558;&#20851;&#38381;&#8220;&#32593;&#32476;&#28216;&#25103;&#21345;&#28857;&gt;&gt;&#25163;&#28216;&#20805;&#20540;&#8221;&#31867;&#30446;&#65292;&#21516;&#26102;&#65292;&#24179;&#21488;&#23558;&#23545;&#31867;&#30446;&#19979;&#30340;&#30456;&#20851;&#21830;&#21697;&#21644;&#26381;&#21153;&#36827;&#34892;&#19979;&#26550;&#22788;&#29702;&#65292;&#21518;&#32493;&#24320;&#25918;&#26102;&#38388;&#24453;&#23450;&#12290;</p>
+<p>4. &#33150;&#35759;&#23459;&#24067;&#25512;&#20986;&#8220;&#26410;&#25104;&#24180;&#20154;&#28216;&#25103;&#28040;&#36153;&#25552;&#37266;&#8221;&#65292;&#27491;&#22312;&#35797;&#29992;&#20013;&#12290;&#24403;&#29992;&#25143;&#22312;&#33150;&#35759;&#26071;&#19979;&#28216;&#25103;&#30340;&#21333;&#26085;&#32047;&#35745;&#28040;&#36153;&#36798; 500 &#20803;&#25110;&#20197;&#19978;&#65292;&#23545;&#20110;&#20854;&#20013;&#30097;&#20284;&#26410;&#25104;&#24180;&#20154;&#28040;&#36153;&#30340;&#65292;&#23458;&#26381;&#22242;&#38431;&#23558;&#23581;&#35797;&#20027;&#21160;&#32852;&#31995;&#30456;&#20851;&#25903;&#20184;&#36134;&#25143;&#30340;&#25152;&#26377;&#20154;&#36827;&#34892;&#25552;&#37266;&#21644;&#30830;&#35748;&#12290;</p>
+<p>5. &#20154;&#24037;&#26234;&#33021;&#24314;&#31569;&#24212;&#29992;&#20844;&#21496;&#12300;&#23567;&#24211;&#31185;&#25216;&#12301;&#23459;&#24067;&#23436;&#25104;&#25968;&#21315;&#19975;PreA&#36718;&#34701;&#36164;&#65292;&#30001;&#19996;&#26041;&#23500;&#28023;&#21644;&#20013;&#21335;&#33655;&#22810;&#21512;&#25237;&#12290;&#23567;&#24211;&#31185;&#25216;&#38754;&#21521;&#30340;&#26159;&#19975;&#20159;&#35268;&#27169;&#30340;&#24314;&#31569;&#24066;&#22330;&#65292;&#24076;&#26395;&#20026;&#36825;&#20010;&#34892;&#19994;&#30340;&#35774;&#35745;&#12289;&#24314;&#31569;&#23458;&#25143;&#25552;&#20379;&#33258;&#21160;&#24314;&#31569;&#35774;&#35745;&#35299;&#20915;&#26041;&#26696;&#12290;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】2018年6月20日 星期三</b></summary><div class="news-list-content"><p>1. &#30334;&#24230;&#23459;&#24067;&#30334;&#24230;&#38899;&#20048;&#27491;&#24335;&#36827;&#34892;&#21697;&#29260;&#21319;&#32423;&#65292;&#30334;&#24230;&#38899;&#20048;&#23558;&#21464;&#36523;&#20026;&#8220;&#21315;&#21315;&#38899;&#20048;&#8221;&#65292;&#21516;&#26102;&#21551;&#29992;&#20840;&#26032;&#30340;LOGO&#21644;&#22495;&#21517;&#65292;&#20197;&#20415;&#26356;&#22909;&#22320;&#19982;&#22826;&#21512;&#38899;&#20048;&#19978;&#19979;&#28216;&#20840;&#20135;&#19994;&#38142;&#30456;&#34701;&#21512;&#12290;&#26410;&#26469;&#21315;&#21315;&#38899;&#20048;&#23558;&#25512;&#34892;&#24046;&#24322;&#21270;&#36816;&#33829;&#65292;&#22312;&#32454;&#20998;&#38899;&#20048;&#39046;&#22495;&#21457;&#21147;&#12290;</p>
+<p>2. ofo&#23459;&#24067;&#24050;&#19978;&#32447;&#26032;&#19968;&#20195;&#20449;&#29992;&#31215;&#20998;&#20307;&#31995;&#65292;&#36890;&#36807;&#33258;&#26377;&#25968;&#25454;&#24314;&#31435;&#26356;&#21152;&#26234;&#33021;&#21644;&#23436;&#21892;&#30340;&#29992;&#25143;&#20449;&#29992;&#32771;&#35780;&#26426;&#21046;&#12290;&#20170;&#21518;ofo&#23558;&#26681;&#25454;&#29992;&#25143;&#34892;&#20026;&#36827;&#34892;&#20449;&#29992;&#20998;&#32423;&#65292;&#29992;&#25143;&#19968;&#26086;&#20135;&#29983;&#19981;&#25991;&#26126;&#34892;&#20026;&#23558;&#25187;&#20998;&#29978;&#33267;&#25187;&#36153;&#65292;&#32780;&#20449;&#29992;&#36739;&#39640;&#30340;&#29992;&#25143;&#26377;&#26395;&#20943;&#20813;&#25276;&#37329;&#12290;</p>
+<p>3. &#20170;&#26085;&#22836;&#26465;&#19978;&#32447;&#20102;&#8220;&#20170;&#26085;&#28216;&#25103;&#8221;&#20840;&#26032;&#26495;&#22359;&#65292;&#32780;&#36825;&#20010;&#26495;&#22359;&#34987;&#38544;&#34255;&#22312;&#20102;&#20170;&#26085;&#22836;&#26465;Android&#29256;&#30340;&#38065;&#21253;&#33756;&#21333;&#19979;&#12290;&#20170;&#26085;&#22836;&#26465;&#20316;&#20026;&#19968;&#20010;&#22836;&#37096;&#28192;&#36947;&#65292;&#27969;&#37327;&#26159;&#26368;&#22823;&#30340;&#20248;&#21183;&#65292;&#27492;&#21069;&#19981;&#23569;&#28216;&#25103;&#20844;&#21496;&#23601;&#36890;&#36807;&#22836;&#26465;&#23454;&#29616;&#20102;&#28216;&#25103;&#21033;&#28070;&#30340;&#26368;&#22823;&#21270;&#65292;&#29978;&#33267;B&#32423;&#21035;&#28216;&#25103;&#37117;&#33021;&#24471;&#20197;&#32493;&#21629;&#12290;</p>
+<p>4. &#35895;&#27468;&#22320;&#22270;&#20135;&#21697;&#36817;&#26085;&#23545;&#29992;&#25143;&#25903;&#25345;&#39029;&#38754;&#36827;&#34892;&#20102;&#26356;&#26032;&#65292;&#20854;&#20013;&#26126;&#30830;&#25351;&#20986;&#8220;&#24744;&#22312;&#35895;&#27468;&#22320;&#22270;&#20013;&#23558;&#26080;&#27861;&#32487;&#32493;&#21457;&#20986;Uber&#32593;&#32422;&#36710;&#35746;&#21333;&#8221;&#12290;&#25454;&#31216;&#65292;&#36825;&#19968;&#21512;&#20316;&#26159;&#22312;&#21435;&#24180;&#21021;&#25512;&#20986;&#65292;&#23545;&#20110;&#35895;&#27468;&#22320;&#22270;&#20197;&#21450;Uber&#32593;&#32422;&#36710;&#29992;&#25143;&#26469;&#35828;&#25552;&#20379;&#20102;&#24040;&#22823;&#30340;&#26041;&#20415;&#12290;&#19981;&#36807;&#65292;&#20004;&#23478;&#20844;&#21496;&#20851;&#31995;&#30340;&#23319;&#21464;&#65292;&#24050;&#32463;&#23548;&#33268;&#21512;&#20316;&#38590;&#20197;&#20877;&#32487;&#32493;&#12290;</p>
+<p>5. &#19987;&#27880;&#20110;&#30740;&#21457;&#21019;&#26032;&#30103;&#27861;&#20197;&#28385;&#36275;&#21307;&#30103;&#24613;&#38656;&#30340;&#20020;&#24202;&#30740;&#31350;&#38454;&#27573;&#30340;&#20844;&#21496;&#12300;&#26216;&#27888;&#21307;&#33647;&#12301;&#23459;&#24067;&#23436;&#25104;A&#36718;6,500&#19975;&#32654;&#20803;&#34701;&#36164;&#30340;&#39318;&#27425;&#20132;&#21106;&#65292;&#20849;&#35745;3,700&#19975;&#32654;&#20803;&#12290;&#30001;&#21551;&#26126;&#21019;&#25237;&#39046;&#25237;&#65292;&#26412;&#27425;&#34701;&#36164;&#23558;&#29992;&#20110;&#24320;&#23637;&#20844;&#21496;&#20027;&#35201;&#22312;&#30740;&#20135;&#21697;AZD3759&#30340;&#22269;&#38469;&#22810;&#20013;&#24515;II&#26399;&#20020;&#24202;&#35797;&#39564;&#65292;&#21644;&#36827;&#19968;&#27493;&#20016;&#23500;&#20844;&#21496;&#30340;&#20135;&#21697;&#31649;&#32447;&#12290;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [车联网标准体系指南发布，自动驾驶发展迎来新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=k3stBdKStA3Wf75s1ZvuLzE3PrwJlZWxxleDD9qZLwiX8yYXeDQOGl92SYQV846n0mB9-2I2wK7XIoTp6hK3YPyf2yDWrmNHkz5tO*7CT2ZOpN9ccZXfTeMuk3*yKfVY&new=1)
- > 日前，工业和信息化部与国家标准委联合印发《国家车联网产业标准体系建设指南(总体要求)》《国家车联网产业标准体系建设指南(信息通信)》和《国家车联网产业标准体系建设指南(电子产品和服务)》，全面推动车联网...
- ## [效果喜人，基于单目深度相机的实时体态追踪方案诞生](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=4vLOYCNtIaGhK*WildDor-rN7D9qdzxGk6cqcfhzjizWJ13GUFWrQBJ9hvTEVUHK622gfUve9YuPEpSeR6RF8U41yr2uV9weCWjoeVKjlm00Xqs5jP08dhmoJ1Krd9PY&new=1)
- > hi188｜ 撰文 随着AR技术的出现，部分高端智能手机逐渐也加入了深度追踪摄像头，以Google Project Tango项目为例，联想和华硕都推出相关机型，虽然这些机型销量并不友好，而且应用数量也非常少。但是，这一现状...
- ## [要上天!中国移动将集采无人机基站 单站限价70万](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=zNeW4NWBycGR50Yy*5LyCH2a-ZSxzzVF4Zo-269Rw3PQR7xocUl5*owm4JYlfCMFaiINbiWqFRWpRzXPC*56g4LjaneZOJeW*an-DSGBdcz31oq*GfsL3tMh-56YH62y&new=1)
- > 昨日，中国移动宣布将采购系留无人机高空基站30套，系留无人机高空基站保障车2辆。其中，无人机基站最高限价为不含税2100万元;保障车最高限价为不含税522万元。据中国移动表示，此次招标产品主要将用于应急通信...
- ## [\[规划\]投资超30亿!滨江将在南部新建一个千亿级小镇~](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=AhdLrngmaVzI-8N9te-KqYT8VeIm5mSG48*45enySvZcBNnu-DPdXU7YUrcqbS9SUsCeFb-jrW0RMDleyOazk0Nifz-LkjLORBLLva*zpTWvxhfKC7AdJCaNf4PxO*C-&new=1)
- > 好消息滨江计划三年投资超30亿元建一座集生产、生态、生活为一体且全省唯一的“智造供给特色小镇”项目效果图曝光不信你看▼看了效果图，你有被惊艳到吗？在这里定居、生活、工作，一定是件很幸福的事情吧？这个...
- ## [国外推出一种马匹智能缰绳：采用泰利特GNSS模块确定马的位置](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=vdXVgeXbaCG5nAW*Q4D635Ue0kkOhtMmdVI3FKMzhn1OuogQ9-z6CMMCW66hq3TMCftYRVbzfI69L9-CkKLFwtmjZJ5GEi1vlPe6K6jvMzQ8ze0lMwA9hA4SeYksrngt&new=1)
- > 相关数据统计，腹绞痛是造就马匹死亡的主要原因。在美国，每年超过9万的马匹，都会遭受一段时期的腹绞痛。不过要是能及时发现，绞痛也很容易治愈。但难点在于，跟猫狗不一样，在大多数时间里，马匹都处于无人监...
- ## [美国利用增材制造技术首次实现梯度复合材料构件一步成形](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=PZmpCfAV*JOeoNNU3C7q85nzeIZ6r3ifxg5E4VdEKv5n8YW0vsFcpSAAF4FvGEcHr-QNpIefP1LVv3oL55vpr7Zd18LSgMm6pvkMVlOb3rVTfXxLqSzIXNR4WgX-kQEw&new=1)
- > “要做到制造创新，哪些是重要的？其中有一块就是材料。”6月17日，第五届世界3D打印技术产业大会在南海区大沥开幕。会上，英国皇家工程院院士、新加坡工程院院士Seeram Ramakrisnna分享了“3D打印重新定义制造...
- ## [英国电信与华为合作研发5G网络切片技术](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=TK7aob7uaP7Gf9w2Ns5ZWW1a58UPRYknAxZz2FkFStM7-N*0IdKx7K17ZcKEyuGnXPQbyaeMtJLt-DlqkhSjFtCQBnSypjeFv7BEZlLry5akB*TiwgiOZKb-FrgtbWW1&new=1)
+ ## [三位图灵奖得主汇聚南京，云创人工智能产品现场展示引关注](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=TZ3vkszhDXzx-Z1ib-mPWZv7wieJ7fOViod82MCklIQ7VAzTnYBfa3zsMP5fbhD6-2QrTKlk4M8baJpZIEVrlLXbUeQ0*Gdw6gXHoViiQ6v8OXUgeQXm39D*MnxA8KdC&new=1)
+ > 2018年6月20日上午，由南京市政府大力支持，南京图灵人工智能研究院主办，栖霞区政府承办，市科委等部门协办的2018交叉智能前沿峰会在南京盛大开幕。此次大会邀请人工智能、区块链与网络安全等领域的多位世...
+ ## [英国电信与华为合作研发5G网络切片技术](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=TK7aob7uaP7Gf9w2Ns5ZWW1a58UPRYknAxZz2FkFStM7-N*0IdKx7K17ZcKEyuGnkkJ3dYaS6bJhINibQOfp*rGmdrtqVrVbKI4Y965oKTnskBEQb06-8e1xJk7UInEH&new=1)
  > 关注全球技术地图获取科技前沿动态科技战略特朗普签署《促进美国经济、安全和环境利益的海洋政策》行政令据白宫官网6月19日消息，特朗普签署《促进美国经济、安全和环境利益的海洋政策》行政令，旨在通过改善公...
- ## [Optane，3D NAND，朋友一生一起走!](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=sD7KXULCmMlbVNPXBXdi7n5Q1i0LK1A9EEIsBbTpO00Ut3eTqQa*v6sw3cly8o1E5234J6l7jBrvV5GKB1ANOzCxkhw2hP5HI8Z0GniImeODEqOqx7NY5JpTUzex-YP1&new=1)
- > 英特尔的战略非常清晰：同为新一代存储介质，Optane（傲腾）针对的是热数据，提供其所需要的存储性能；3D NAND（闪存）针对容量型数据存储市场，二者相得益彰。但是这并没有消除市场的疑虑，很多人还是搞不清楚...
- ## [借助AIoT东风，智能交通开启新商机](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=mUgFQ5XckHzfSekColTWOhUHMYqRAsUNs2xcUM25FozRzpM8PWLG6ycod162IIt5-rNWDvlIo2*IpZIayh25b49KRF3Qm8A5SW49w3EO5aCrxQIZIMla1HVYR49rVohE&new=1)
- > 从70年代末开始，我国便开始研究智能交通，从最简单的交通信号控制到城市交通诱导，在技术不断迭代发展的今天，智能交通也迎来了新的变革。在国务院印发《新一代人工智能发展规划》中，提到了人工智能在智能交通...
- ## [刚刚，中国电信集团党组成员变动!](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=kapsnekYlWxMAKg528Ha*V9obUE2MCeolgqgTe8AaFFmMH3BogDKA3BJHbI*bd1WBNadg*BIaN9GAWPngS2s1MSPM6F1PcqXhyUkwymPAvmgNRbgH2p3g1uZtTgzizlv&new=1)
- > 据运营商世界网报道，中国移动财务部总经理朱敏已升任中国电信集团有限公司总会计师、党组成员，并且已到中国电信上任，这意味着朱敏离开了工作了多年的中国移动，转到中国电信任职。公开资料显示：朱敏，女，19...
- ## [无人机处理事故，还能现场喊话!](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=LvQRLr*khEAyn-3OE*obzoN1meu-lysjvarh9CIdDT5LNcdWG65u0ASLJUjp5v0l5MVGKzFb*B0OWLPthcYW7344MlN518ZQegXwEtYfVMoD9VzA9kn7c6PjdDQbdACP&new=1)
- > “某某车和某某车的驾驶员你们好，这里是天津市公安交通管理局南开支队，路况巡查，在与你们通话，你们的事故现场，我们已经通过无人机的无人采集系统进行了完整的采集 。” “如果你们没有人员受伤情况，请向我...
- ## [黎明破晓，细看阴云笼罩下的通信行业丨2018中期策略](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=JQF53YLggJbjb6nfNn15GvLJLmxZsE-kYv5DHk3odG-Pgsjxb2MoN2*h-o-TCNsAQMY0at*szBKw8LHGJj9ni3kGMra3*eUd6SyFLV9KHSayaIKvDFotb0zWuioBpDVA&new=1)
- > 2018年上半年，振荡中低迷成为A股的“主旋律”。当前券商中期策略会正在密集召开中，在经济转型持续、A股估值靠近长期价值区域、防范风险、消费升级较为确定等共识之外，下半年A股还会出现怎样的走势？个股和行...
- ## [华为研发兵王：4年从应届生到软件总工程师，他说秘诀是…](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=CeGi0sAOH90NnjTjicknphY4Eo2-IEly*GVdyrhvfrPWk9rMsw5wHgpcGQ3f1jYYsVw304b12sckUDOT52*i8s1510XI1AQqAJtGkLSqaNp78y*K5WKVhF0IzZeWtz9N&new=1)
- > 不管头衔是总工程师也好，是研发小兵也好，为了最初探索通信世界的朴素理想，我都会一直趴在软件上做精、做深、做透彻。我相信，只要愿意为自己走出一条路，世界就会为你打开一盏灯。2007年高考报志愿，当别人还...
- ## [围攻微软，AI 何罪?](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=IdW9XYV7*YS1IVsujJL1MIwtzo7*sTp5nCy4aidNkZX0gJr3*U7L3gHq8tLkIBOf1FM8c3V5wTl2kv4Lfbawp0M1HY5FiviI2RA90WcBlclS90D*zDh33r8q*twMhCuV&new=1)
- > 关键时刻，第一时间送达！技术本身并不可耻！两年前快播 CEO 王欣在庭审为自己辩解时如是说。确然，菜刀本无罪，但是向冲突的双方兜售菜刀就是有罪。技术本无罪，但人为地利用技术作恶就是罪无可赦。山雨欲来风...
- ## [众咖热议：5G来临，室内数字化覆盖到底怎么做?](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=7bG1ClGF9jbkzL9ioBvqFzPM*nnoAi25N4v4kZJlxgi4YGY5dgfb0QaGeHrvtrCpuHjUp9c-yC1YwHJltO-Ad0TwuCsCDjbrRh1EJIWgII5K2o2hMevKZF6SUzlmhOFt&new=1)
- > 除了车联网、智慧能源和联网无人机，5G众多业务大部分发生在室内。因此，与4G时代类似，5G时代的新业务有70%会发生在室内。今天（6月20日）下午，通信世界“小而美”的蓝戈沙龙又开场了，有幸邀请到业界多位大咖...
- ## [科技早报：苹果发布新版iOS 12 狂灭Bug!](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=15VFVxcvbMoMnTYB77A0Wwvzs8Wwd4NPNP7T449BFwPkZh3M3TuR841RcJ9gsLh6q2Eg0ddzOBao00G6i1oYLWO8hqcdDl*pZbsZhS8n0LWZ4jIqqemXZkdjVU*cnQdj&new=1)
- > 苹果发布iOS 12最新版：狂灭Bug！好了，大家期盼很久的iOS 12第二个测试版，苹果终于放出来了，当然虽然相比第一版系统本身稳定了一些，但是依然不建议你日常使用，因为出现bug的几率还是挺大的。在这个iOS 12第...
- ## [近距离走进中国移动海上营业厅：十余年只为渔民架起“信息致富桥”](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=l1-P1H49URpBuHZC236IolKnybhCytldi0oATAhNaXgnI1ODLm7qMvSQRKpmodQUyrmW*3Kwf45utVISpGwhlV3cq6pJUJQ2W4faIxK8GJeWC7ESo8y7JeXXo58-Z*9g&new=1)
- > 福建宁德，一个位于长江三角洲、珠江三角洲、台湾省三大经济区中间位置的重要军事港口。在这个距离北京有1816公里的地方，有一个被誉为“海上明珠”的中国移动海上营业厅，并由于其唯一性和神秘性一直吸引着外界...
- ## [中国已成FTTH大国，运营商开放竞争给产业带来新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=94Il4aRX0vS7pc21DkYgCYFktAAWueHmIK5i9k0kJaKbjCW3NhryNVjhFWoBTwA3r9lTFaCJCMEsOnMlLqYBF1eNzA7gctKaSRCh0Ndv-tENFoo1GTl6T6eadcLeiEfY&new=1)
- > 在全球，FTTH已经成为有线宽带接入的主旋律。自2013年我国“宽带中国”战略发布到现在，FTTH已经发展成为家庭宽带用户的85.6%，中国已经成为FTTH大国。数据统计，2017年全球固定宽带用户达到8.7亿户，全球73%的F...
- ## [机器学习时代哈希算法如何高效索引数据?](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=KdjFIzLzDvY9q7xaxTOqxWOdU5IpgNOx1LjfQHlHH6sxwJaTbBW3DYv7SuCbx75-vVnL1aXYKIaPfgHB0FtL7V-zbd-51QS2J6*WquXi02F-EDnwqTwX0tU5FmvBYhlA&new=1)
+ ## [国外推出一种马匹智能缰绳：采用泰利特GNSS模块确定马的位置](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=vdXVgeXbaCG5nAW*Q4D635Ue0kkOhtMmdVI3FKMzhn1OuogQ9-z6CMMCW66hq3TM5ZljyXp9UEX5WgLtYnssSFEVvjBKzu*H5c9Ed55zTFsRB9mk8SDVfVMycp22rFlP&new=1)
+ > 相关数据统计，腹绞痛是造就马匹死亡的主要原因。在美国，每年超过9万的马匹，都会遭受一段时期的腹绞痛。不过要是能及时发现，绞痛也很容易治愈。但难点在于，跟猫狗不一样，在大多数时间里，马匹都处于无人监...
+ ## [机器学习时代哈希算法如何高效索引数据?](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=KdjFIzLzDvY9q7xaxTOqxWOdU5IpgNOx1LjfQHlHH6sxwJaTbBW3DYv7SuCbx75-XGUQFxDPsESFI6sHbo6spd2zG7oHSg*IjjE6ia7jmQnqn4MCKcGT23*4Z462-Pui&new=1)
  > 转自 | 网络大数据编辑 | 赵钰莹哈希算法一直是索引中最为经典的方法，它们能高效地储存与检索数据。但在去年 12 月，Jeff Dean 与 MIT 等研究者将索引视为模型，探索了深度学习模型学习的索引优于传统索引结构...
- ## [公有链七大超级难题：建立点对点的分享社区(二)](http://mp.weixin.qq.com/s?src=11&timestamp=1529542807&ver=951&signature=wiWQpn1WR-ftPYFRD-y1OWl*bzCxtcE6qzVnKaTfc94L-yoDBVWlAidk7yqwldCVVZv-1NS1KGE*D*cAt65MgcKVQl6SSW11E9jeMwhF8WamaespMj18rmvVIDzWRBnT&new=1)
+ ## [借助AIoT东风，智能交通开启新商机](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=mUgFQ5XckHzfSekColTWOhUHMYqRAsUNs2xcUM25FozRzpM8PWLG6ycod162IIt5JeR*ZRa5UK0eb7mILBnDkOQtWgqi0tyaIZ6jW3xM3LK95orePSEXC0hMTp05PNoC&new=1)
+ > 从70年代末开始，我国便开始研究智能交通，从最简单的交通信号控制到城市交通诱导，在技术不断迭代发展的今天，智能交通也迎来了新的变革。在国务院印发《新一代人工智能发展规划》中，提到了人工智能在智能交通...
+ ## [公有链七大超级难题：建立点对点的分享社区(二)](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=wiWQpn1WR-ftPYFRD-y1OWl*bzCxtcE6qzVnKaTfc94L-yoDBVWlAidk7yqwldCVDSr5d8Ga3XiYREmCaHW3*9-TwCNhYGT*rw9h5IWNlJjbkR5JvDvSDBn3nVP7PW43&new=1)
  > 编者按：Genaro的创始人Larry针对当前的公链现状推出了系列文章《公有链七大超级难题》，本篇是该系列的第二篇文章。在本系列第一篇文章《如何设计公有链可持续发展的共识算法》中，Larry提出一个安全、低能耗、...
+ ## [车联网标准体系指南发布，自动驾驶发展迎来新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=k3stBdKStA3Wf75s1ZvuLzE3PrwJlZWxxleDD9qZLwiX8yYXeDQOGl92SYQV846n*TrwmuO5eYEwDKMk1L2lN5E7Y3dhnuPkwIUVtBZH2UpYcrKfU2jPt0XjKbqDDDjN&new=1)
+ > 日前，工业和信息化部与国家标准委联合印发《国家车联网产业标准体系建设指南(总体要求)》《国家车联网产业标准体系建设指南(信息通信)》和《国家车联网产业标准体系建设指南(电子产品和服务)》，全面推动车联网...
+ ## [Optane，3D NAND，朋友一生一起走!](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=sD7KXULCmMlbVNPXBXdi7n5Q1i0LK1A9EEIsBbTpO00Ut3eTqQa*v6sw3cly8o1EIPdgPOu*YSEq77WKojzC7YF283ywD-Kyt8LDTlVtzTIvQVg6gCZKDkbzf0MPYi-I&new=1)
+ > 英特尔的战略非常清晰：同为新一代存储介质，Optane（傲腾）针对的是热数据，提供其所需要的存储性能；3D NAND（闪存）针对容量型数据存储市场，二者相得益彰。但是这并没有消除市场的疑虑，很多人还是搞不清楚...
+ ## [再次遭禁售?中兴这样回应..](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=JTWh6RqdGtQZRN*yYO7mJ2JCLMHLEt34oZ6UpLbG07X0VA-u3dUkEVvHAZ6XFB7zkVuac7Se4hjKBuC6N7ppj2-mlQa3ESGoksfKbfC5KtcSGyJ07dxqyXkMXlaVGdJk&new=1)
+ > 2018年6月19日，“美国参议院于周一晚通过了一项将恢复对中国电信巨头中兴通讯股份有限公司进行处罚的立法案”的消息刷遍网络。业界人士猜测，一旦法案成真，中兴将难以扭转目前被禁的局面。6月20日中兴通讯(000...
+ ## [要上天!中国移动将集采无人机基站 单站限价70万](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=zNeW4NWBycGR50Yy*5LyCH2a-ZSxzzVF4Zo-269Rw3PQR7xocUl5*owm4JYlfCMFZd0Lldsk8jncb4fVORTZNevNAAbNPpEd-87qOYt5X5tW1nKGoOTF3timmzAGjf9Q&new=1)
+ > 昨日，中国移动宣布将采购系留无人机高空基站30套，系留无人机高空基站保障车2辆。其中，无人机基站最高限价为不含税2100万元;保障车最高限价为不含税522万元。据中国移动表示，此次招标产品主要将用于应急通信...
+ ## [科技早报：苹果发布新版iOS 12 狂灭Bug!](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=15VFVxcvbMoMnTYB77A0Wwvzs8Wwd4NPNP7T449BFwPkZh3M3TuR841RcJ9gsLh6AbLyD3gBhPMwsMn8cIvWpG-UcOaaRFckfKo09wnB2McVCU*ir8ylg0Jqpac*AHGC&new=1)
+ > 苹果发布iOS 12最新版：狂灭Bug！好了，大家期盼很久的iOS 12第二个测试版，苹果终于放出来了，当然虽然相比第一版系统本身稳定了一些，但是依然不建议你日常使用，因为出现bug的几率还是挺大的。在这个iOS 12第...
+ ## [丰田结盟7-11 打造移动便利店](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=eH3kvJNEZazlGhd68UUEJIqEOt58sNDSNOOykKc5thHbX1JaGrksJoTw98NmsH9krSrkgOWXY6v-Q3w63kndvay11DiwwJ9y0-heQtveE5Kot2eEaWbt3XU*So9Kics-&new=1)
+ > 来源：环球网      记者：王欢据《日本经济新闻》6月20日报道，丰田汽车日前与日本快递企业雅玛多控股(HD)以及便利店企业日本7-11开始磋商共同开发基于自动驾驶汽车的新服务。讨论应用于自动移动的便利店...
+ ## [效果喜人，基于单目深度相机的实时体态追踪方案诞生](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=4vLOYCNtIaGhK*WildDor-rN7D9qdzxGk6cqcfhzjizWJ13GUFWrQBJ9hvTEVUHKci60nPIGf5RlOHXh0wPKTg99yesSFu93GDadXW3SiIzJVTtEIDFAeEEftbXj6Yqx&new=1)
+ > hi188｜ 撰文 随着AR技术的出现，部分高端智能手机逐渐也加入了深度追踪摄像头，以Google Project Tango项目为例，联想和华硕都推出相关机型，虽然这些机型销量并不友好，而且应用数量也非常少。但是，这一现状...
+ ## [权力背后的贪欲：你被大数据”杀熟“了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=VqK0CIu0Lb*mLbWZImIuBw7LbWw7VYiJZRoCmd9FOgeuiQ4Q4tpVsIcF7nyf*7dSSlhKJ75QCeP9bR2-2eBw9vvOXTukxJjsTnZ25gwhhF-MrrCbDksw7qqoMZJ-Pjvz&new=1)
+ > ►技术先行、规范滞后使得大数据的应用并不平稳，由此导致人们对个人隐私保护产生了隐忧，也对数据是否会被滥用或垄断等存在顾虑。因此，企业有必要思考，在利用大数据的同时，避免伤害消费者，如此才能赢得消费...
+ ## [致命事故之后，Uber开始无人驾驶汽车的模拟测试](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=3KVs0KdCtMZBKncAGFos*REFxcTiHv2xsyOWSXPMEJdbVsJtlkpU54HIMiYMCsCVLZmvLEdjvtk6xFga932Sd5ELRnZiJpOERJ6U-b0oWCRaSpsAH39b3TuAxxssBqZF&new=1)
+ > 6月20日消息，据Engadget报道，科技媒体The Information宣称，网约车巨头Uber此前可能“忽视”了无人驾驶汽车的模拟测试。不过今年3月份，Uber的无人驾驶汽车撞死一名行人后，情况显然发生了变化。The Informa
+ ## [黎明破晓，细看阴云笼罩下的通信行业丨2018中期策略](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=JQF53YLggJbjb6nfNn15GvLJLmxZsE-kYv5DHk3odG-Pgsjxb2MoN2*h-o-TCNsAfIMLg4NjZqZ2t6SfDIrUbv9ysT8P9Yf6GKXZkbAG1a9hRlPtnVtR5ZEQoEEpibYQ&new=1)
+ > 2018年上半年，振荡中低迷成为A股的“主旋律”。当前券商中期策略会正在密集召开中，在经济转型持续、A股估值靠近长期价值区域、防范风险、消费升级较为确定等共识之外，下半年A股还会出现怎样的走势？个股和行...
+ ## [围攻微软，AI 何罪?](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=IdW9XYV7*YS1IVsujJL1MIwtzo7*sTp5nCy4aidNkZX0gJr3*U7L3gHq8tLkIBOferEpTcx6tyiNkgAZua7Efubp7*AYI9Mb*L8sN5pyPJIz927-hfgrgym7hESS1Vzz&new=1)
+ > 关键时刻，第一时间送达！技术本身并不可耻！两年前快播 CEO 王欣在庭审为自己辩解时如是说。确然，菜刀本无罪，但是向冲突的双方兜售菜刀就是有罪。技术本无罪，但人为地利用技术作恶就是罪无可赦。山雨欲来风...
+ ## [华为研发兵王：4年从应届生到软件总工程师，他说秘诀是…](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=CeGi0sAOH90NnjTjicknphY4Eo2-IEly*GVdyrhvfrPWk9rMsw5wHgpcGQ3f1jYYcG-G5uuFYMjHEiVnp7fPxRe1rH6vB1ZSY8asyabckCHY9vW9nnghN0LTgSE2SsWX&new=1)
+ > 不管头衔是总工程师也好，是研发小兵也好，为了最初探索通信世界的朴素理想，我都会一直趴在软件上做精、做深、做透彻。我相信，只要愿意为自己走出一条路，世界就会为你打开一盏灯。2007年高考报志愿，当别人还...
+ ## [Windows,Mac 与 Linux 哪个更适合开发者?](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=pcywc*XP60FUTG5nwiQMtmkzxMJ4tbN2VAABdR0GIxKRHc7oO60Pyiy3dY0Tuh3ijK*sAjg8mIeUBwompfHt3O-LleBRYOlelKtIO54IbL15WhHmAeH9lJOCgv2g8doJ&new=1)
+ > 以前写的，怕引来口水战，干脆不发。这段时间面试了十来人，用Mac的开发水平明显高于Windows的，挺多感想的，于是改改发了吧。Windows：对普通用户而言体验最友好，对开发者体验最差；Linux：开发者的天堂，普通...
+ ## [\[规划\]投资超30亿!滨江将在南部新建一个千亿级小镇~](http://mp.weixin.qq.com/s?src=11&timestamp=1529546407&ver=951&signature=AhdLrngmaVzI-8N9te-KqYT8VeIm5mSG48*45enySvZcBNnu-DPdXU7YUrcqbS9S9n7iDs3LuQYF4lywQY931QBiyQFLbnSwxZLd3og2PhkNxluqM*zZ4-WkbmrRoa9-&new=1)
+ > 好消息滨江计划三年投资超30亿元建一座集生产、生态、生活为一体且全省唯一的“智造供给特色小镇”项目效果图曝光不信你看▼看了效果图，你有被惊艳到吗？在这里定居、生活、工作，一定是件很幸福的事情吧？这个...
 # IT 技术 
  ## [使用快嘉sdkg极速搭建接口模拟系统](https://my.oschina.net/fastjrun/blog/1833156)
  > 在具体项目研发过程中，一旦前后端双方约定好接口，前端和app同事就会希望后台同事可以尽快提供可供对接的接口方便调试，而对后台同事来说定好接口还仅是个开始、设计流程，实现业务逻辑，编写代码、调试、集成和...
@@ -105,10 +124,14 @@ categories: IT NEWS
  > Apache BookKeeper 是一个针对实时工作负载优化的可扩展、高容错和低延迟的存储服务，已作为基础存储服务被用于构建各种可靠的服务，同时也是 Apache DistributedLog 的日志段存储和 Apache Pulsar 的消息存储。 Apache BookKeeper 4.7.1
  ## [Chef 14.3.18 发布，自动化服务器配置管理工具](https://www.oschina.net/news/97263/chef-14-3-18-released)
  > Chef 14.3.18 已发布，Chef 是一个系统集成框架，为整个架构提供配置管理功能。 主要更新内容包括： 统一 shell_out API 删除未使用的 audit test cookbook 支持 Windows 2008 R2 上的 windows_feature_powershell 
+ ## [狂揽1592亿！京东京麦平台618备战实践总结](http://developer.51cto.com/art/201806/576686.htm)
+ > 狂揽1592亿！京东京麦平台618备战实践总结
+ ## [表明你的软件应该进行重大更新的11个迹象](http://developer.51cto.com/art/201806/576647.htm)
+ > 表明你的软件应该进行重大更新的11个迹象
  ## [外媒速递：2018年你必须了解的十大SEO优化思路](http://zhuanlan.51cto.com/art/201806/576673.htm)
  > 外媒速递：2018年你必须了解的十大SEO优化思路
- ## [表明你的软件该进行重大更新的11个迹象](http://developer.51cto.com/art/201806/576647.htm)
- > 表明你的软件该进行重大更新的11个迹象
+ ## [在真实工作中的编程是怎么样的，与学校里有什么不同？](http://developer.51cto.com/art/201806/576680.htm)
+ > 在真实工作中的编程是怎么样的，与学校里有什么不同？
  ## [宜信研发总监张真：运维机器人之任务决策系统演进](http://ai.51cto.com/art/201806/576623.htm)
  > 宜信研发总监张真：运维机器人之任务决策系统演进
  ## [如何用好大数据？51信用卡刘建辉揭秘大数据应用产品进阶之道](http://network.51cto.com/art/201806/576618.htm)
@@ -117,34 +140,32 @@ categories: IT NEWS
  > 6个人如何维护上千规模的大数据集群？
  ## [从小白到大牛-Python完全学习教程【附5大案例实战】](http://developer.51cto.com/art/201806/576503.htm)
  > 从小白到大牛-Python完全学习教程【附5大案例实战】
- ## [【推荐】Java程序员必读的10本书籍](http://developer.51cto.com/art/201806/576513.htm)
- > 【推荐】Java程序员必读的10本书籍
- ## [大话IS-IS--路由协议的后宫宠妃](http://network.51cto.com/art/201806/576614.htm)
- > 大话IS-IS--路由协议的后宫宠妃
+ ## [db如何快速回滚+恢复，DBA的神技能](http://database.51cto.com/art/201806/576692.htm)
+ > 保证数据的安全性是DBA第一要务：理论上可以恢复+跑路；全量备份+增量备份+定期演练；1小时延时从库；双份1
+ ## [什么是模块化数据中心？模块化数据中心有什么好处？](http://server.51cto.com/Datacenter-576691.htm)
+ > 模块化数据中心是基于云计算的新一代数据中心部署形式，为了应对云计算、虚拟化、集中化、高密化等服务器发
+ ## [比特币为什么要扩容？为什么说扩容是区块链最大的问题](http://blockchain.51cto.com/art/201806/576690.htm)
+ > 二十一世纪初，互联网的速度非常缓慢。当时如果你有一个博客，用户要访问它既费时又费钱。人们注意到这个问
+ ## [别傻了！双核和双路服务器根本不一样](http://server.51cto.com/sOS-576689.htm)
+ > 服务器术语里，大家经常会听到1U、2U，单路、双路，机架式、塔式及刀片式等常用名词。其中，机架式、塔式及
+ ## [建设一个数据中心机房必须考虑的因素有哪些？](http://server.51cto.com/Datacenter-576688.htm)
+ > 一个全面的数据中心机房建设工程一般包括：综合布线、抗静电地板铺设、棚顶墙体装修、隔断装修、ups电源、
+ ## [使用Python分析14亿条数据](http://developer.51cto.com/art/201806/576687.htm)
+ > Google Ngram viewer是一个有趣和有用的工具，它使用谷歌从书本中扫描来的海量的数据宝藏，绘制出单词使用
+ ## [理性强化学习遭遇瓶颈，进化算法会成为接替者吗？](http://zhuanlan.51cto.com/art/201806/576685.htm)
+ > 人工智能和博弈论的交集催生了强化学习，但在博弈论基础上的问题求解通常依赖于理性和完美信息假设。在多智
+ ## [为什么Linux比Windows和macOS更安全](http://os.51cto.com/art/201806/576683.htm)
+ > 多年前做出的操作系统选型终将影响到如今的企业安全。在三大主流操作系统当中，有一个能被称作最安全的。
+ ## [SSD固态硬盘结构：主控算法、固件、NAND闪存](http://stor.51cto.com/art/201806/576684.htm)
+ > 升级SSD不仅是性能上的小幅度提升，SSD将利用具有革命性的随机访问速度、卓越的多任务处理能力、杰出的耐久
  ## [IDC预测闪存行业未来几年将迎来“暴风雨”](http://stor.51cto.com/art/201806/576682.htm)
  > 收入增长放缓是由于对闪存的需求温和降低以及单位成本降低所导致。Wells Fargo高级分析师Aaron Rakers表示
- ## [在真实工作中的编程是怎么样的，与学校里有什么不同？](http://developer.51cto.com/art/201806/576680.htm)
- > 学校里每门编程语言课程都是上一点上不完的，实验课写的代码最长一两百行。 而在真实的工作环境中，程序员
- ## [备好数据后，数据科学家还要做什么？](http://zhuanlan.51cto.com/art/201806/576681.htm)
- > 在这个数据科学越来越火的时代，数据科学家的工作到底是怎样的呢?下面，我带大家走进真实的数据科学世界。
- ## [冗余云存储如何确保高可用性](http://stor.51cto.com/art/201806/576678.htm)
- > 云存储供应商几乎都是使用了冗余的硬件，从而能够以服务水平协议(SLA)为客户提供服务，而采用这样的冗余策
- ## [京东物流仓储系统在618大促保障背后的这6条运维秘诀](http://os.51cto.com/art/201806/576679.htm)
- > 在本篇我们将会详细介绍京东物流仓储系统的数据库架构，以及如何通过运维自动化平台、性能优化、故障自愈和
- ## [企业部署ETL工具的三种方式，应该怎么选？](http://bigdata.51cto.com/art/201806/576676.htm)
- > 随着时间的推移，数据源、数据类型以及ETL供应商的数量均急剧增加，ETL工具的价格开始逐渐降低，这让很多中
- ## [如果编程替换成中文会怎样? 程序员看了表示头疼](http://developer.51cto.com/art/201806/576675.htm)
- > 你以为会写中文就会编程吗?这就像你以为会写汉字就会写出好文章一样。编程是和机器沟通，因此要用机器的语
- ## [为什么数据科学家都钟情于最常见的正态分布？](http://bigdata.51cto.com/art/201806/576674.htm)
- > 对于深度学习和机器学习工程师们来说，正态分布是世界上所有概率模型中最重要的一个。即使你没有参与过任何
- ## [为什么数据科学家都钟情于最常见的正态分布？](http://zhuanlan.51cto.com/art/201806/576677.htm)
- > 对于深度学习和机器学习工程师们来说，正态分布是世界上所有概率模型中最重要的一个。即使你没有参与过任何
- ## [微信订阅号逆天改版！到底会带来哪些影响？](http://mobile.51cto.com/app-show-576672.htm)
- > 微信订阅号正式改版啦!差不多一年前的传闻，终于变为现实，令很多人猝不及防。微信在AppStore更新6.7.0版本
  ## [NLP公开课 | 竹间智能：人机交互未来如何改变人类生活](https://blog.csdn.net/guleileo/article/details/80745376)
  > NLP公开课 | 竹间智能：人机交互未来如何改变人类生活
  ## [模块级别自动化测试的经验与教训](https://blog.csdn.net/hustspy1990/article/details/80725017)
  > 模块级别自动化测试的经验与教训
+ ## [TensorFlow中的Eager Execution和自动微分](https://blog.csdn.net/Yt7589/article/details/80724830)
+ > TensorFlow中的Eager Execution和自动微分
  ## [2018年俄罗斯世界杯之Java数据爬虫（一）](https://blog.csdn.net/long2010yu2010/article/details/80732607)
  > 2018年俄罗斯世界杯之Java数据爬虫（一）
  ## [TensorFlow可微编程实践1---自动微分简介](https://blog.csdn.net/Yt7589/article/details/80734369)
@@ -157,20 +178,24 @@ categories: IT NEWS
  > 华为资深工程师：码农很多，但程序员并不多......
  ## [7天内我面试了10家公司，如何从命中率0%到命中率至70%？](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80730839)
  > 7天内我面试了10家公司，如何从命中率0%到命中率至70%？
+ ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
+ > 没想到啊！2599元的Java干货今天免费送
+ ## [【转】 jquery实现登录后右下角弹窗提醒（附带简单样式）](https://blog.csdn.net/wqlinloveruby/article/details/80729194)
+ > 【转】 jquery实现登录后右下角弹窗提醒（附带简单样式）
  ## [天天工作拧螺丝，怎么突破瓶颈？](https://blog.csdn.net/Ch97CKd/article/details/80730874)
  > 天天工作拧螺丝，怎么突破瓶颈？
  ## [《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想](https://blog.csdn.net/sD7O95O/article/details/80603647)
  > 《你必须掌握的Entity Framework 6.x与Core 2.0》正式出版感想
- ## [【转】 jquery实现登录后右下角弹窗提醒（附带简单样式）](https://blog.csdn.net/wqlinloveruby/article/details/80729194)
- > 【转】 jquery实现登录后右下角弹窗提醒（附带简单样式）
  ## [一个屌丝程序员的青春（一八八）](https://blog.csdn.net/tanga842428/article/details/80698320)
  > 一个屌丝程序员的青春（一八八）
- ## [没想到啊！2599元的Java干货今天免费送](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/80649952)
- > 没想到啊！2599元的Java干货今天免费送
  ## [拒绝青铜，成为王者！一个硅谷网工的四年升级！](https://blog.csdn.net/k6T9Q8XKs6iIkZPPIFq/article/details/80682077)
  > 拒绝青铜，成为王者！一个硅谷网工的四年升级！
- ## [离梦想最近的时候是什么时候？](https://blog.csdn.net/Z1XpIYDj9sn/article/details/80751121)
- > 离梦想最近的时候是什么时候？
+ ## [@程序员，第一批00后开始报考AI专业了](https://blog.csdn.net/csdnnews/article/details/80754921)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！端午...
+ ## [围攻微软，AI 何罪？](https://blog.csdn.net/csdnnews/article/details/80754511)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！技术...
+ ## [动辄350亿被盗，区块链安全真就如此不堪一击？](https://blog.csdn.net/csdnnews/article/details/80754512)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！安全...
  ## [抛弃 Java 改用 Kotlin 的六个月后，我后悔了](https://blog.csdn.net/csdnnews/article/details/80746096)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！毫无...
  ## [区块链安全：真的像表面上看起来那么简单么？](https://blog.csdn.net/csdnnews/article/details/80750461)
@@ -217,7 +242,5 @@ categories: IT NEWS
  > 【小百摘要】了解这些设计原则，助你打造最佳用户体验
  ## [2018世界杯用户行为洞察报告](http://www.chanpin100.com/article/107042)
  > 【小百摘要】酷鹅用户研究院（微信ID：kueclub）联合腾讯指数，为您呈现世界杯用户的构成和看球习惯，世界杯赛前热议的内容，以及对世界杯的情怀与期待。为您带来更有看点、更具价值的世界杯球迷群体实录。
- ## [你会主动和老板谈升职加薪吗？](http://www.chanpin100.com/article/107041)
- > 【小百摘要】不光是女性羞于启齿谈升职加薪，东方文化中，大家也都更加内敛，这个问题该如何解决？
 
     
