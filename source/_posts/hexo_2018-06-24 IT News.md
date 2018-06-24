@@ -1,61 +1,59 @@
 ---
 title: 2018-06-24 IT News
 copyright: true
-date: 2018-06-24 09:04:07
+date: 2018-06-24 10:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [探寻华为崛起的“神秘力量”MateRS保时捷设计用户亲临华为总部](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=utGrhOKUZO*sTimh*v39LyPMdIXp64vPI*FJP030USypgxJt33oPH5UWklrL4hivmi-1HtRI677IW7RMPBHGsf2A*oaZrYkO-mRkYXIMK*CE8oQikPJGlKncjJGfx-nI&new=1)
- > 2017年，华为年营收6000多亿，在研发上的投入达897亿元人民币，同比增长17.4%。反映在智能手机市场上的成果之一，就是风靡一时的“吓人技术”、徕卡三摄还有售价万元的华为MateRS保时捷设计。擅长厚积薄发的华为...
- ## [玩转微软市场资讯?用这个就够了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=sZd15BpxLZw32d1Z9YKeO7eDxllO1a5sLg8CaJfp3oYNSP3oTHhXP10ECv8SJpWbRtfqAfiqUfE2YrCJn0hvFxeYJpWOqhizQ9IRscB-SrpTa0m3fB6cbz1311NTvDcO&new=1)
- > 在科技服务上，微软一直致力于构建更加便捷、凝聚科技的平台，万千科技资讯，无需苦苦寻觅，就跨过地域界限，推到你的面前。微软中国市场活动平台，即Microsoft China Events Hub应运而生。这是一个微软在中国的...
- ## [熊猫直播身陷“资金链断裂”传闻；李彦宏辞去中国联通董事职务：重心转向移动?| 懂懂周评](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=Yi7mLx0owHSXLP1c5Q3q1s97awuXVn-Dli8j-gVfF7NC7nzcto1SMxGDLWtdlkdkfh83vlPgmxJIS9W5v5j0UhJ4xRjKEYzhszVtoGJ60rsgynyNeHBS2GeHYQfVQD-C&new=1)
- > 本周热点：熊猫直播身陷“资金链断裂”传闻；李彦宏辞去中国联通董事职务：重心转向移动？雷军不再纠结小米属性 “新物种”面临严考；三大运营商下月集体取消手机流量漫游费 但有些套餐无法享受。文丨懂懂笔记  ...
- ## [注意!三大运营商取消流量漫游费 但有一种尚且不在政策之内!](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=0cuDgroNetoElWDjtQPMMCxpTr6GmVH2QIDTlZVdxwA2lDd8rv301wgeYePYBmveoS1PG4O7PTVVNOdcRVQZokpcgGkYXJrBvc8rvNfUEIR5shkAwV-95ZaaNRDJ3UYc&new=1)
+ ## [一文看懂广东智能汽车产业链全景!](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=EJVsN2ibaeemy*0trRddFIUTb0BgNYLafFuRjMUa9chY5ADZrOkRyZF7Y*K2uLfDE*LKkJv6xgwewW*9k3CaBTd20vWhSLOVxa0lSR*tNVKFpJ-xzuK*xYRi4gKBKxRj&new=1)
+ > 两三年前，大家还觉得智能汽车很遥远!两三年后，或许就没人认为无人驾驶是个梦了!随着科技革命的快速推进,5G、云计算、人工智能等新一代信息技术与汽车交通等领域的深度融合,不断推动着车与车、路、人、云多维信...
+ ## [注意!三大运营商取消流量漫游费 但有一种尚且不在政策之内!](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=0cuDgroNetoElWDjtQPMMCxpTr6GmVH2QIDTlZVdxwA2lDd8rv301wgeYePYBmveOGP2jHYZzXof95yapyVv9F-z2j5*t06obhyZg2n12oA*LNF1HVsAcbRZoIgo0Xna&new=1)
  > 【TechWeb报道】就在昨日，三大运营商接二连三宣布从7月1日起，取消流量漫游费，来相应国家相关部门的提速降费政策，新老用户省内流量升级为国内流量(不含港澳台)。流量终于不用再区分省内省外。虽然政策会在7月...
- ## [互联网公司雄霸智能音箱市场，硬件创业公司该慌吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=jTcM1-ckXvIkAYayQuAt4cnl4JV0ux2ZA7J-JNFNwsgzXa-u99A8FXEcO3uZKdKPnuR8EZCyK0XylFXwpPppf3D7ZwY*zK1zfskorv6w-V5U32FzpdZunwR2DMhJ4Fgl&new=1)
- > ▲ 首图来源：亚马逊今年5月，研究机构Canalys公布的最新报告显示，2018年Q1全球前四大智能音箱厂商分别是谷歌、亚马逊、阿里巴巴旗下天猫，以及小米。另外，报告还透露，美国是全球最大智能音箱市场，其次是中...
- ## [别了，快递!刘强东突然宣布!一场风暴到来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=du6tPvkH3o9*NRiqG1cHhLhxaG3c8d-duM-Do0sbqXUHdTg3DXy8qNF7gtT2hsXblY6HBCntxJlfsQqPreZzEF8kKbC0Uim11paS261bWPcbBf7IQ98GJescNwa7JDNq&new=1)
- > ■ 来源| 内参君 | 财经要参（mofzpy）01真的不敢相信，这个时代变化之快让人无法想象！创新！创新！再创新！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！就在刚刚，刘强东突然扔出一枚超级核弹，炸的整个物...
- ## [别了快递!刘强东宣布：一场风暴到来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=zhskLtPpfGo0Uv7EE0cT*ZYrYGfEVQhvhT459d5TzChDTGy90dunBzRlRUHsUqrTbOFaLIH*w4WWeqOZ9wko7S4RXbM8hkCVSS2w1gFP8MJJ6legLBlRB0ogLrXBALNi&new=1)
- > 解决销售难题 传播管理智慧 快来关注我吧1真的不敢相信，这个时代变化之快让人无法想象！创新！创新！再创新！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！就在刚刚，刘强东突然扔出一枚超级核弹，炸的整个...
- ## [Magic Leap在Unity大会公布更多开发细节](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=8*DqOloFoDWPHkz4GSpKGVaRBHK09Tuw5PwWTeEC6PaIglrluVbfxjO5yIYivPMwXEQ14KL04hgVnb3Lt1-VQYeACnwIjtJmzCvEXazALFhiAzjuh197QDkI9P0gDRcH&new=1)
- > hi188｜ 撰文 最近在Unity柏林大会期间，备受关注的Magic Leap为开发者带来了Magic Leap One应用的速成课程，同时我们也在本次展会期间了解到其工作原理，并且也公开第一人称视角的体验画面。Magic Leap公司两
- ## [移动联通电信都要哭，流量强制升级](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=nod1qn7TUtbgF5AD2ZOeTLbdQSSnMGEVzyq6mFAgMTCfLJy1iA9L57y2sTTCvkJnGiuH9BCzSL4opqH4qe4BtIuyIYeNFNNvmRh3BZ3a85Nc8k8zn3F9P*0A8MSwdcyI&new=1)
- > 总算来了。7 月 1 号开始，三大运营商正式取消流量漫游费。简单来说，以前那些市内流量，省内流量统统成为历史，现在统一为全国流量。泥萌现在用的各种套餐，所有流量都会在 7 月 1 号升级为全国流量。爽爆！像...
- ## [云创大数据公安事业部正式成立](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=JZpZSuaR77U4aHiRX3rx3ffGqtyEKed4QGV0vNz1JWXnLVTioOtPvPAuqNA9mBVqz1cqacNVfr96N-jomuaqqmwX9-vWO2M97P0jW7ER96VcV0uHnKwJt-V6or1y*V9n&new=1)
- > 2018年6月19日，云创大数据公安事业部正式成立，左赛担任公安事业部总经理。该事业部的成立是继地震事业部、教育事业部、环境事业部、测绘事业部之后，云创大数据组织成立的第五大事业部。 随着社会经济发展，公...
- ## [我的送餐员 一定会头顶摄像头脚踏四轮来送餐](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=4W2m9Yab5fOFAiYufbcH6F276ecydU1Pgp9qOncslkzGZZyXHwabScCb2QwvT9NDuwZe83hGZO25IqSQ32Ce6LzWI2hOLNCfdDaxqeI2KHtSiY0SC*MBIo7ETDp0QHhv&new=1)
- > 关键时刻，第一时间送达！6月22日消息，近日深兰科技亮相了一款专门针对短途配送研发的智能物流机器人“小蚂哥”，这是自芭提雅自动驾驶功能性商务车之后的，深兰科技向新零售领域的又一次发力。这款外形呆萌的...
- ## [所有人注意：这些手机号无法升级全国流量](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=26OHVQmE40dtetx6WV3qK*K3X5TyceX67RCDDtHG4VJH1MTgNLWbG7HBqsMItj8*LEOVKkCHsYxcJmSWXSxvg5m9lh8pReBU8O8B27yOm53I07pgMjeb1rJHeCCC*129&new=1)
- > “必修”改名风格不变关注专业科技新闻及深度报道，人工智能、编程领域“昨天我们报道了三大运营商统一发出声明，在7月1日正式取消流量漫游，手机号的省内流量将全面升级到全国流量！当时就有不少读者问我们：校...
- ## [长江商学院以团队的形式亮相CES Asia 三天收获满满](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=NfMKYbr4NQczjgcppVQ6ahQZYB8TO6RTop9QGi7IBxhsjB*FN5-K2wfgIICeV2bSdvx5NgafmHpIiCDTCj8WMLTGp6cxXNfPK0yQA2CSEG1Gx0hbun*vTe02OqZLlH21&new=1)
- > 出品：OFweek智能家居网欢迎下载OFweek APP查看更多新闻长江商学院在CES Asia展台在2018年的亚洲国际消费电子展（CES Asia）上，一个小小的滑板吸引了观众们驻足观看，和普通需要用腿部力量去控制滑板滑行速度和...
- ## [\[PPT下载\]众包模式下的高精地图测绘技术该何去何从?中海庭常务副总经理罗跃军给出了答案!](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=eHqdRK*vp8D4AypI3T-3dUv-FC812cWH2*tWjuWcQgtk3U-O-zBlY2oBa4TxNn0WIm8pCqagu35TumY5wKei8Ebf2WYi2jXs8jSO7TlSP6qKwCx2iuIp8PdjPNYYSwe6&new=1)
- > 主讲导师|罗跃军本文编辑|师侥4月20日起，智东西公开课推出自动驾驶系列课第二季，多位自动驾驶新势力的创始人和高管在此为大家进行了系统讲解。 第八课由中海庭常务副总经理罗跃军主讲，主题为《众包模式下的高...
- ## [专访：进入中国5年,工业级3D打印机销售超300台,德国EOS融入工业4.0](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=xxUqGjMZX3EjuiFJuE74KlgDWEdCwCvf-zS07m-vkrcZ77UvSCAxC21LFTTPXgFy7L9FYelD6OR8TzZdoUerFDFuOBzOng9BIP0BWuhk-7YuoRwfj2GO6OYAYTh3oJM8&new=1)
- > 时值EOS正式进入中国市场五周年之际，EOS于2018年6月14日举办了媒体圆桌会议，南极熊作为3D打印领域专业媒体出席了此次活动。EOS首席执行官兼企业管理发言人Dr. Adrian Keppler、EOS亚太区高级副总裁胡贤文、EOS...
- ## [可恨的费用推出历史舞台，全国13亿人民欢呼沸腾](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=lAnVaJkg*bMT0jzBALlL*InRcx8RjzdAjQZ27NbqpNURtq6tWAkXqfKbI6TikzOMryJ*5Wtl19NYgPK7-yLeuGvRFZ5offLIVHLxnAf4W-VGEYsjx15oWY5vkl*1pwur&new=1)
- > 来源 | 电商之家（ID：iechome）转载授权请联系（微信ID：dab2881339646）人在江湖混，出来总是要还得，只是时间问题罢了！1再见！可恶的“流量漫游”费用国家一声令下，该来的总是会来！刚刚，移动、电信、联通...
- ## [荷兰公司Vormvrij推出新的LUTUM 4陶瓷3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=f7TdvoJVcAxfjRmKd8FSywnzHfUd44xgYoIsfDtLlHugOcaKaZ3d1uVtz3YXIUtmb8H46bzvyvVBVb28XrGN7fe38FyAbQirlbBnqSDBF0qybc4gVglhpqPOzbrOpB2v&new=1)
- > 位于荷兰的陶瓷3D打印专家Vormvrij推出了最新的粘土挤出3D打印机LUTUM 4， LUTUM v4的第一个原型在6月初的埃尔富特展览中心的Fabcon + RapidTech展会上展出。粘土3D打印是增材制造领域的一个独特领域，褒贬
- ## [这些国际创新科技，你知道几个?](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=99csKbBRFsu0fJxhdKx-2qaInvNr0a5eFjmKBIAJhnSjJGgrbVyS395bs11EWm4rdWJVI4Da83KriJ0RhTR9UUkfoxzAcfBADodWKbw*ooBb5fq1ZcXNjKOPKh*buMIg&new=1)
- > “阿凡达”测谎仪传统的测谎仪基于测试脉搏、血压等生理变化，结果往往受到当事人心理素质以及周围环境等因素影响。测谎仪数据是否具有可参考的效用也因此备受争议。美国国土安全局以及来自加拿大、欧盟的权威系...
- ## [余承东：华为手机销售目标2018年超2亿、2019年2.5亿、2020年3亿](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=qDVT5xRnOV7sqI84PeCZ1sS3EBQArCYplrc-wLRa4Jx4aU22BfJUzbUALCOU62e5sqjgN1D9CEKaMVUFrdwZBEZ3C3xLLN9VuLvPm0hTCCr2gipAFz6XGpjD1864Ee-5&new=1)
- > 全文字数： 530    阅读时间：2分钟余承东表示，“2018年华为手机销量目标是超过2亿部，明年目标是超过2.5亿部，后年目标超过3亿部。”文｜集微网校对｜蓝天图源｜网络集微网综合报道，此前，华为消费者业务CEO...
- ## [流量漫游费7月1日起取消，但这类手机用户不能享受!](http://mp.weixin.qq.com/s?src=11&timestamp=1529802007&ver=957&signature=MC7rjlVNcfNWOl1MCIVgkCfNxpKavoZvK7jTjDLra5Iqn7Pqz4JlA3dz2cNgQUOSlfqAOmtQBoVwaYeS*b0FSJ4FffzrpoE6CiA81SsuF272vQjqTLSCnbe25hORwYyE&new=1)
+ ## [流量漫游费7月1日起取消，但这类手机用户不能享受!](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=MC7rjlVNcfNWOl1MCIVgkCfNxpKavoZvK7jTjDLra5Iqn7Pqz4JlA3dz2cNgQUOSZtkh1AMvK0FXbdOUWmG0lPi1WthWA42nyeMKSQMuy3rAYd4pXWI-teKzb1cH9NPp&new=1)
  > 央视网世界就在眼前22日，流量漫游费取消的时间点得到了三大电信运营商的最终确定——7月1日起实施。流量漫游费取消后，哪些手机用户受益？区分新老用户么？能节省多少钱？很多人比较关心，流量漫游费取消是否会...
+ ## [专访：进入中国5年,工业级3D打印机销售超300台,德国EOS融入工业4.0](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=xxUqGjMZX3EjuiFJuE74KlgDWEdCwCvf-zS07m-vkrcZ77UvSCAxC21LFTTPXgFymvuspZ-cmeIssKD7fdOYIjowFUXJPTWXNV8Xd8dE*ne2HgHwX-UYAv6KLZwJA*F5&new=1)
+ > 时值EOS正式进入中国市场五周年之际，EOS于2018年6月14日举办了媒体圆桌会议，南极熊作为3D打印领域专业媒体出席了此次活动。EOS首席执行官兼企业管理发言人Dr. Adrian Keppler、EOS亚太区高级副总裁胡贤文、EOS...
+ ## [前瞻性总结：全球未来十年不可不知的10大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=K9-J*AIrPA*8YryDVV1034WxfC6Ea-pq7tyOzcgxvQyKuqIngcPZZZKG0nCsVpmh1AMqIaHJg0JUFxh6wM-23UDGck-9up*h-1rdrQQvnDNPM4BPG3cNxeofb0PXzx7m&new=1)
+ > ✎ 编 者 按 无论你身在何处，真正的大趋势必将把地球上每一个人深卷其中，并重构大至国家、城市，小至企业、消费者之间一系列错综复杂的关系。不管你是处于创业模式，还是在大企业里面工作，都需要了解：未来人...
+ ## [可恨的费用推出历史舞台，全国13亿人民欢呼沸腾](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=lAnVaJkg*bMT0jzBALlL*InRcx8RjzdAjQZ27NbqpNURtq6tWAkXqfKbI6TikzOMN7*p2ivzIDuewU4vvfIHMBLmH0BQQ1Ph8KqDEba7urPTWJhLhaWwpOpZlJuUzLj*&new=1)
+ > 来源 | 电商之家（ID：iechome）转载授权请联系（微信ID：dab2881339646）人在江湖混，出来总是要还得，只是时间问题罢了！1再见！可恶的“流量漫游”费用国家一声令下，该来的总是会来！刚刚，移动、电信、联通...
+ ## [探寻华为崛起的“神秘力量”MateRS保时捷设计用户亲临华为总部](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=utGrhOKUZO*sTimh*v39LyPMdIXp64vPI*FJP030USypgxJt33oPH5UWklrL4hiv7CXo3mM8DItSZwzas0p6qvoBDQCn5ODFTryuvX2rf*oybAC0Qx7VADHRw0XvbPDr&new=1)
+ > 2017年，华为年营收6000多亿，在研发上的投入达897亿元人民币，同比增长17.4%。反映在智能手机市场上的成果之一，就是风靡一时的“吓人技术”、徕卡三摄还有售价万元的华为MateRS保时捷设计。擅长厚积薄发的华为...
+ ## [\[PPT下载\]众包模式下的高精地图测绘技术该何去何从?中海庭常务副总经理罗跃军给出了答案!](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=eHqdRK*vp8D4AypI3T-3dUv-FC812cWH2*tWjuWcQgtk3U-O-zBlY2oBa4TxNn0WE5dEbWs1HgNtDwtxiEIX2fmPlq9GN3qDUfBlEuRl5PAZrIstVPu7*rhfqxIF0Za*&new=1)
+ > 主讲导师|罗跃军本文编辑|师侥4月20日起，智东西公开课推出自动驾驶系列课第二季，多位自动驾驶新势力的创始人和高管在此为大家进行了系统讲解。 第八课由中海庭常务副总经理罗跃军主讲，主题为《众包模式下的高...
+ ## [荷兰公司Vormvrij推出新的LUTUM 4陶瓷3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=f7TdvoJVcAxfjRmKd8FSywnzHfUd44xgYoIsfDtLlHugOcaKaZ3d1uVtz3YXIUtm*s4Aq308rkIgA8b1pLLkMYcnTcXcoyfaT2LkFJZF2-2L7IJwjxWxGlKaCRu8oLba&new=1)
+ > 位于荷兰的陶瓷3D打印专家Vormvrij推出了最新的粘土挤出3D打印机LUTUM 4， LUTUM v4的第一个原型在6月初的埃尔富特展览中心的Fabcon + RapidTech展会上展出。粘土3D打印是增材制造领域的一个独特领域，褒贬
+ ## [别了快递!刘强东宣布：一场风暴到来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=zhskLtPpfGo0Uv7EE0cT*ZYrYGfEVQhvhT459d5TzChDTGy90dunBzRlRUHsUqrTOXG1hBkNQTYIiITcabk-8RkhchtCiDQz-kl10NujRgR5g84osiZsWfgVOOHgbzzh&new=1)
+ > 解决销售难题 传播管理智慧 快来关注我吧1真的不敢相信，这个时代变化之快让人无法想象！创新！创新！再创新！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！就在刚刚，刘强东突然扔出一枚超级核弹，炸的整个...
+ ## [云创大数据公安事业部正式成立](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=JZpZSuaR77U4aHiRX3rx3ffGqtyEKed4QGV0vNz1JWXnLVTioOtPvPAuqNA9mBVqtzuY6crqc-3qMQ7wVGkyti-YI1F*FRFgBJUgo8OonMpzcovbBHCFQJDm1NPiIST-&new=1)
+ > 2018年6月19日，云创大数据公安事业部正式成立，左赛担任公安事业部总经理。该事业部的成立是继地震事业部、教育事业部、环境事业部、测绘事业部之后，云创大数据组织成立的第五大事业部。 随着社会经济发展，公...
+ ## [无人机监管之路走上正轨 利于提振企业信心](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=JN0aoOmsJzrFraWelOo3MtTqbdIbu7blkaHldd66NqzsJcgOsWfRsQiHxFq36aV1Ragv6zHQXfgYhYYipLq3bBNqZyJb2JgnNHwi5dIFYP9KwIpKDRkRIOOA9y4RMSz2&new=1)
+ > 无人机领域在2018年1月底有件大事发生，《无人驾驶航空器飞行管理条例（征求意见稿）》公布，监管的大靴子终于抛出来。无人机监管一直以来都与整个无人机产业的发展紧密相连。民用无人机作为一种相对新兴且用途...
+ ## [互联网公司雄霸智能音箱市场，硬件创业公司该慌吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=jTcM1-ckXvIkAYayQuAt4cnl4JV0ux2ZA7J-JNFNwsgzXa-u99A8FXEcO3uZKdKPf1wis9HPF9SsIai*sqke-M0vzH4LpzBop1iOOxyUK3Uxrsu4vDyBd8mTcTywHUNk&new=1)
+ > ▲ 首图来源：亚马逊今年5月，研究机构Canalys公布的最新报告显示，2018年Q1全球前四大智能音箱厂商分别是谷歌、亚马逊、阿里巴巴旗下天猫，以及小米。另外，报告还透露，美国是全球最大智能音箱市场，其次是中...
+ ## [所有人注意：这些手机号无法升级全国流量](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=26OHVQmE40dtetx6WV3qK*K3X5TyceX67RCDDtHG4VJH1MTgNLWbG7HBqsMItj8*4l9XtmA-ugxbI9lIHfbjCYq0rtCKCerpxukgTVxsULoT7-xZvnqoXdBhVmbGxJey&new=1)
+ > “必修”改名风格不变关注专业科技新闻及深度报道，人工智能、编程领域“昨天我们报道了三大运营商统一发出声明，在7月1日正式取消流量漫游，手机号的省内流量将全面升级到全国流量！当时就有不少读者问我们：校...
+ ## [我的送餐员 一定会头顶摄像头脚踏四轮来送餐](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=4W2m9Yab5fOFAiYufbcH6F276ecydU1Pgp9qOncslkzGZZyXHwabScCb2QwvT9NDFvYkUEB9qozYgbgqJoJXRXwGFYIMBuNUV79PvrVcnIi*zTtO4GXMJAZMFCoOuZ9k&new=1)
+ > 关键时刻，第一时间送达！6月22日消息，近日深兰科技亮相了一款专门针对短途配送研发的智能物流机器人“小蚂哥”，这是自芭提雅自动驾驶功能性商务车之后的，深兰科技向新零售领域的又一次发力。这款外形呆萌的...
+ ## [这些国际创新科技，你知道几个?](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=99csKbBRFsu0fJxhdKx-2qaInvNr0a5eFjmKBIAJhnSjJGgrbVyS395bs11EWm4rFuUyOd8sxVwffZuCBIrgzTXfK44Ers0eK-IbGhx58WMQ91hy3eP2pR-o7M78BnK2&new=1)
+ > “阿凡达”测谎仪传统的测谎仪基于测试脉搏、血压等生理变化，结果往往受到当事人心理素质以及周围环境等因素影响。测谎仪数据是否具有可参考的效用也因此备受争议。美国国土安全局以及来自加拿大、欧盟的权威系...
+ ## [Magic Leap在Unity大会公布更多开发细节](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=8*DqOloFoDWPHkz4GSpKGVaRBHK09Tuw5PwWTeEC6PaIglrluVbfxjO5yIYivPMw9xN7Lk8ytWigo3SRoj97y6rfQz9hPtgvqSOgxk-veFXrC3ERVjxSOwoHPU5sRMIU&new=1)
+ > hi188｜ 撰文 最近在Unity柏林大会期间，备受关注的Magic Leap为开发者带来了Magic Leap One应用的速成课程，同时我们也在本次展会期间了解到其工作原理，并且也公开第一人称视角的体验画面。Magic Leap公司两
+ ## [智能制造：龙头企业论道激光未来新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=xiulkzGcMbdl5wCgptUhFoZNrOW-6l-EFYPnVdbGHVsrwbMnJAnfAwWznJr7hz0DssdOUoFFOAqlztV73dUxWl3fIjxbjmV5u64PRbJ82SilxOYrIbpccvl5xqeq9hOJ&new=1)
+ > 随着“工业4.0”及“中国制造2025”理念的不断深入，越来越多的企业开始意识到转型升级的重要性。在国家正在大力推进智能制造战略之下，正是制造业迈向智能制造发展的黄金时期。其中，激光作为先进的加工工艺，...
+ ## [长江商学院以团队的形式亮相CES Asia 三天收获满满](http://mp.weixin.qq.com/s?src=11&timestamp=1529803807&ver=957&signature=NfMKYbr4NQczjgcppVQ6ahQZYB8TO6RTop9QGi7IBxhsjB*FN5-K2wfgIICeV2bSA*f3h-L0VxlAzKazj0T5qY8z6DKHoPtV1z2OrIyn9n3-ks2VwDYmHxe4p--ovNju&new=1)
+ > 出品：OFweek智能家居网欢迎下载OFweek APP查看更多新闻长江商学院在CES Asia展台在2018年的亚洲国际消费电子展（CES Asia）上，一个小小的滑板吸引了观众们驻足观看，和普通需要用腿部力量去控制滑板滑行速度和...
  ## [如何改善国内IT培训的现状？](https://www.zhihu.com/question/282038143)
  > 一流工程师都不屑于做培训，但会做技术影响力，比如 @winter @贺师俊 @justjavac @phodal @黄玄 @小爝 如果说改进，培训就踏踏实实做培训，好好教就好了，别造假，别教背题面试，别拿老师背景忽悠人，别有一个进了ba...
  ## [如何看待《为了你我愿意热爱整个世界》这部剧？](https://www.zhihu.com/question/281535674)
  > 人到中年，坦诚地胖了起来，口味也平和杂糅了。放眼看去，世界可爱的地方和可恨的地方都不多，到处都是人生本来该有的模样。我学过最有力量的一句话是：人生苦难重重，但这个现实显然在许多国产青春爱情戏里被超现实...
  ## [如何着手分析一个行业？](https://www.zhihu.com/question/20219092)
  > 为什么有人一周时间里，就能了解一个行业的全局及发展趋势？其实洞察行业是有一定套路的，刚刚看完王煜全老师的新书《学会洞察行业--写好分析报告的6堂实战课》。书中不仅系统地梳理了行业研究的基本方法和思路，还通...
+ ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
+ > 大家还记得抓获“甘肃白银案”主犯的过程的来龙去脉吗？白银警方一直握有案犯的DNA信息，而DNA信息是每个人唯一拥有的，那问题来了，既然DNA信息唯一识别一个人，警方为何那么多年却一直不能锁定案犯？答案...
  ## [如何看待大数据「杀熟」？](https://www.zhihu.com/question/268104462)
  > 现在一些互联网平台和商家可能已经成佛了，不“杀生”都改“杀熟”了。我们先来看看都有哪些“杀熟”事件：大数据无意识算法所致第一起“杀熟”事件还要追溯到2000年，有用户在删除了浏览器Cookies之后，发现之前浏...
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > 这就好比寄快递要填地址，只填收货人的身份证号是不行的。
  ## [国内有哪些类似Google Docs 的在线文档编辑软件？](https://www.zhihu.com/question/19578002)
  > 之前看过网友的推荐，类似Google Docs的在线文档编辑软件似乎有很多。但是我们团队只用过石墨文档和亿方云，和大家简单分享下使用体验吧：石墨文档是文档协作类工具，在石墨文档上，所有文件都存放存在云端，可满足...
  ## [前端技术岗，阿里 P7、腾讯 T3的要求是怎样的？](https://www.zhihu.com/question/277437814)
@@ -74,18 +72,18 @@ categories: IT NEWS
  > 作为国内首家专注为内容创作者提供知识变现的SaaS工具，邀请小鹅通来回答这个问题应该是再合适不过了。斗胆总结一下，知识变现，难在四点。第一难：知识变现内容怎么定位？对即将要做的事情或者产品进行定位是一件...
  ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [如何看待XDD加入RNG绝地求生分部？](https://www.zhihu.com/question/276536443)
- > 机会是留给有准备的人，从XDD从守望先锋转到绝地求生，在老师傅的劝说下，他还是有个职业梦，一起搞个战队Narin，但最后被老师傅骗了，踢出了队伍。但他一直没放弃自己的职业梦想。努力的去联系其他队伍，现在电...
  ## [看网络小说的时候，有哪些片段让你觉得作者的文化素养并不高？](https://www.zhihu.com/question/267245300)
  > 设定约为16.17世纪的极品家丁主角对着一法国人说，你的世界通用语英语说得不咋样，要多练练法国人羞愧地低下了头
  ## [网拍到底是真是假？](https://www.zhihu.com/question/61885011)
  > 记录一下 我是来揭幕的 就是在知乎高票回答中加的小姐姐拉我进群的好 接下来交代一下经过经常在淘宝上买衣服 然后看到的买家秀就感觉不对劲 像是模特专门拍的一样于是我就做了功课 果然还有帮人拍买家秀的由于我本人...
+ ## [如何看待大司马6.19日发微博应对水军攻击？](https://www.zhihu.com/question/281630381)
+ > 都说斗鱼一哥这个位置有毒，真是这样吗？其实仔细想想同样是打低端局，为什么大司马被喷的那么惨，而别的主播却安然无事呢?因为两点第一点：大司马更火，人气更高，敌台的主播和水军更需要去打压和抹黑他。第二点：大...
  ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
  > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
  ## [如何评价知乎改版后上下滑动看答案？](https://www.zhihu.com/question/277034080)
  > iOS版4.18.1也变成竖着切换回答了，而且AppStore看了下4.18.2还没有更新。看来这件事是早有预谋的。而且点“下个回答”那个按钮也容易点偏，正好在广告的位置。我每月续费看没有广告的知乎行不行，不行的话我就卸...
- ## [高校生态圈跟你最初想象的有何不同?](https://www.zhihu.com/question/271346471)
- > 北京某985博士生先说教学，我是从地方院校上来的，在985读硕博。原本以为名校教学质量会高很多，毕竟名师比较多。然而实际情况正好相反，上课念PPT，讲课死气沉沉的，逃课的人很多，可以达到一半。有人说都上研究...
+ ## [关于带宽，网络传输速率搞不懂的一堆问题？](https://www.zhihu.com/question/26501469)
+ > 1、带宽就是链路上的最大数据传输能力，单位bps，就是链路每秒钟最多能传输多少数据。2、平均网速基本上不可能超过带宽（瞬间网速可以因为缓冲等等复杂原因超过）。3、运营商只保证他给你的接口端的带宽，也就是说运...
 # IT 技术 
  ## [CyclicBarrier、CountDownLatch以及Semaphore使用及其原理分析](https://my.oschina.net/wenbo123/blog/1834618)
  > CyclicBarrier、CountDownLatch以及Semaphore是Java并发包中几个常用的并发组件，这几个组件特点是功能相识很容易混淆。首先我们分别介绍这几个组件的功能然后再通过实例分析和源码分析其中设计原理。 CyclicBarr...
@@ -153,6 +151,12 @@ categories: IT NEWS
  > 如何使用Java框架Pronghorn迅速编写应用程序
  ## [无人驾驶真的能缓解交通拥堵？看专家们怎么说！](http://www.cioage.com/art/201806/576747.htm)
  > 无人驾驶真的能缓解交通拥堵？看专家们怎么说！
+ ## [如何优雅的「打断」你的线程?](http://zhuanlan.51cto.com/art/201806/576902.htm)
+ > 目前在 Tomcat 使用中，无法在运行时直接操作 Connector ，所以一般情况这个 pause 标识可能没法设置，但有
+ ## [选redis还是memcache，源码怎么说？](http://zhuanlan.51cto.com/art/201806/576901.htm)
+ > memcache和redis是互联网分层架构中，最常用的KV缓存。不少同学在选型的时候会纠结，到底是选择memcache还
+ ## [Tomcat是怎样处理搜索引擎爬虫请求的?](http://zhuanlan.51cto.com/art/201806/576900.htm)
+ > 每个置身于互联网中的站点，都需要搜索引擎的收录，以及在适时在结果中的展现，从而将信息提供给用户、读者
  ## [我的数据科学成果为什么无法商业化？](http://zhuanlan.51cto.com/art/201806/576898.htm)
  > 在数据科学的实践应用中，有些工作成果可以获得数十亿级的商业回报，而绝大多数的工作成果却并没有达到预期
  ## [CSDN日报1806022——《别被别人抢走了你的时间》](https://blog.csdn.net/blogdevteam/article/details/80776396)
@@ -165,26 +169,34 @@ categories: IT NEWS
  > 卓越人生的两大利器——任务分解与保持节奏
  ## [只有程序员才懂这些黑色幽默！](https://blog.csdn.net/xishining/article/details/80751014)
  > 只有程序员才懂这些黑色幽默！
- ## [7天内我面试了10家公司，如何从命中率0%到命中率至70%？](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80730839)
- > 7天内我面试了10家公司，如何从命中率0%到命中率至70%？
- ## [一块玻璃1万多？！！OPPO Find X正式发布，黑科技满满就是价格太感人……](https://blog.csdn.net/M7720EIoSi6oA9/article/details/80749966)
- > 一块玻璃1万多？！！OPPO Find X正式发布，黑科技满满就是价格太感人……
- ## [离梦想最近的时候是什么时候？](https://blog.csdn.net/t46RYuqj/article/details/80750866)
- > 离梦想最近的时候是什么时候？
- ## [Java程序员涨薪必备技能（1-5年必看！！！）](https://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80749614)
- > Java程序员涨薪必备技能（1-5年必看！！！）
- ## [如何通过 JavaScript 实现机器学习和神经学网络？](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80750197)
- > 如何通过 JavaScript 实现机器学习和神经学网络？
  ## [Java 危矣！统治地位已不复存在？](https://blog.csdn.net/mxw2552261/article/details/80681653)
  > Java 危矣！统治地位已不复存在？
+ ## [一块玻璃1万多？！！OPPO Find X正式发布，黑科技满满就是价格太感人……](https://blog.csdn.net/M7720EIoSi6oA9/article/details/80749966)
+ > 一块玻璃1万多？！！OPPO Find X正式发布，黑科技满满就是价格太感人……
+ ## [Java程序员涨薪必备技能（1-5年必看！！！）](https://blog.csdn.net/EGEFCXzo3Ha1x4/article/details/80749614)
+ > Java程序员涨薪必备技能（1-5年必看！！！）
  ## [Funcode-贪吃蛇](https://blog.csdn.net/YT201758501112/article/details/80744904)
  > Funcode-贪吃蛇
- ## [你为什么学不好Python？](https://blog.csdn.net/Z1XpIYDj9sn/article/details/80751117)
- > 你为什么学不好Python？
- ## [拒绝青铜，成为王者！一个硅谷网工的四年升级！](https://blog.csdn.net/k6T9Q8XKs6iIkZPPIFq/article/details/80682077)
- > 拒绝青铜，成为王者！一个硅谷网工的四年升级！
+ ## [离梦想最近的时候是什么时候？](https://blog.csdn.net/t46RYuqj/article/details/80750866)
+ > 离梦想最近的时候是什么时候？
+ ## [7天内我面试了10家公司，如何从命中率0%到命中率至70%？](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80730839)
+ > 7天内我面试了10家公司，如何从命中率0%到命中率至70%？
  ## [为什么一定要给孩子找个程序员爸爸？](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80681623)
  > 为什么一定要给孩子找个程序员爸爸？
+ ## [从学术角度论Uber的人工智能预测醉酒专利](https://blog.csdn.net/YMPzUELX3AIAp7Q/article/details/80754914)
+ > 从学术角度论Uber的人工智能预测醉酒专利
+ ## [快速图像增强的简便大法来了，英伟达开源新库代号“DALI”| CVPR 18](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80751066)
+ > 快速图像增强的简便大法来了，英伟达开源新库代号“DALI”| CVPR 18
+ ## [程序员伤不起的30岁，哈哈](https://blog.csdn.net/qq_42458386/article/details/80747689)
+ > 程序员伤不起的30岁，哈哈
+ ## [Swift 让我对苹果深恶痛绝！](https://blog.csdn.net/csdnnews/article/details/80788296)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！在我...
+ ## [我竟然被机器强行解雇了！](https://blog.csdn.net/csdnnews/article/details/80788300)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！AI...
+ ## [Github 用户喊话微软：放弃 ICE 吧，不然会失去我们的](https://blog.csdn.net/csdnnews/article/details/80788298)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！近日...
+ ## [世界杯直播背后看不见的战斗：腾讯云极速高清技术部署实录](https://blog.csdn.net/csdnnews/article/details/80788299)
+ > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
 # 人工智能 
  ## [CSDN日报1806022——《别被别人抢走了你的时间》](https://blog.csdn.net/blogdevteam/article/details/80776396)
  > CSDN日报1806022——《别被别人抢走了你的时间》
@@ -216,5 +228,8 @@ categories: IT NEWS
  > Mac版R语言入门（6）：R语言图形绘制函数与高级可视化方法
  ## [深度学习在美团搜索广告排序的应用实践](https://blog.csdn.net/starzhou/article/details/80780666)
  > 深度学习在美团搜索广告排序的应用实践
+# PM 
+ ## [一项调查报告：关于风投和创业者眼中的彼此](http://www.woshipm.com/chuangye/1070239.html)
+ > 创业者和风投眼中的彼此，差距竟然这么大？作为风投，我们以自己是“增值投资者”而自豪。我们不仅为创业公司扩大规模提供财务手段，而且还经常提供各种咨询、联系和专...
 
     
