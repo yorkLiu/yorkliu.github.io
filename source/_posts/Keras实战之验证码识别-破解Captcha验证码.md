@@ -92,12 +92,6 @@ if __name__ == "__main__":
      0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0. 0.]
 
 
-
-```python
-
-```
-
-
 ```python
 # PIL是一个常用的python图像库。在python 3.5中， 应该使用pip install pillow来安装
 from PIL import Image, ImageFont, ImageDraw, ImageFilter
