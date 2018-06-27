@@ -1,7 +1,7 @@
 ---
 title: 2018-06-27 IT News
 copyright: true
-date: 2018-06-27 10:00:42
+date: 2018-06-27 12:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -61,87 +61,89 @@ STEM&#25945;&#32946;&#26426;&#26500;&#8220;&#28779;&#26143;&#20154;&#20465;&#200
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [来 TC 杭州，国内十几家顶尖自动驾驶公司都在这里了](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=m5f8PBSLp6cDq2Kem2sblROUr7w3lS-p9BysClSv-OX4t1QBxNfGDgduY9EDi3s65CeCNUn4wxI-*8yf6BHhI5O0VEz8k*y9VN4LZU0yng0UfqYjUnx*nCc9bQxSCFqv&new=1)
+ ## [AI上有信仰的云，华为云推出EI智能体](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=J8T-A*-yjufm4W6T6LqboBTrRxFwnT5HSGUtyY6F*wTTapBZKtq8L3Abfq7Nu7mC0TpMk56dIBux91-bgJSanze7iWgtLsLurYLXkiB5ZUTduA5EGZG-KZrnPDIn7rKm&new=1)
+ > 全球领先的ICT（信息与通信）基础设施和智能终端提供商华为，于6月26日在深圳举办了“AI上有信仰的云——华为云中国行2018”首站活动，详细阐释了华为云在技术、商业、生态方面的理念和实践， 并推出了华为云面...
+ ## [来 TC 杭州，国内十几家顶尖自动驾驶公司都在这里了](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=m5f8PBSLp6cDq2Kem2sblROUr7w3lS-p9BysClSv-OW7dLxdlO1sOgoFHYk27eCghm-yd3R1xJFAYPZ7WYtUI*zO6DRHOBDXvare3tzy95gxyN7XK1hYT-AXUMIV69km&new=1)
  > 动点科技 | ID：technode科技就是生产力。没错，从蒸汽机到工业机器人，技术不断将人们从体力劳动中解放出来。而现在，人工智能又在试图帮人们打破脑力劳动的枷锁，人类或将迎来彻底的自由与解放。在这过程中，...
- ## [Android 9.0将加入新的生物识别API：原来已落后主流一个时代](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=5u2WwUK4Ci1gmHU*KpMxX94OztytZFkUFJWz9o1C-WqorD5vMXqfL9CN*yvbope8y3Uwrz418YIX18AH3nE5ztiDIgI69sU3p95-7Vldu8h3FbP4pEA*5xK6LLE4XU1w&new=1)
- > 关键时刻，第一时间送达！根据媒体报道，谷歌将会在即将推出的Android 9.0版本系统当中加入更好的生物识别API，为开发者提供更安全和方便的生物验证机制。开发人员使用了BiometricPrompt API将生物识别身份验证...
- ## [黑客发现新漏洞您的密码保护已失效](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=C6c7RR6pakXcWO*Dsokg5W3CKwTfwHywKF54jSVCPfghQ5YS6u*NXtbNtV*JAwkIC-sbSgxUGm1ZmqEzTpcj9wxjRmbBUbDfYcV2rQNfiaTkd0bRXWaKYs-sGWiV*z7f&new=1)
- > 关键讯息，D1时间送达！想要解锁一部iPhone并不是件容易事，如果输入的密码不断错误，设备可能会被锁定几年甚至几十年，有可能彻底丢失设备上保存的数据。但是近日，网络安全公司Hacker House的联合创始人马修-...
- ## [2018“小巴展”来袭 这些热点不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=Yv8ez65tUGzqDRyDdai49*yZfkjvZBBHIZ5EDFgR9ltkzZk5HHbJjT8V8shXYbXTRTZVBOSBtJR-TDer55v1BRqhVWWTshCeeo0w9p3BmpiLSa0cYpFUWfKh6RluqcNv&new=1)
- > MWC上海2018(世界移动大会·上海)将于明天正式开幕，“小巴展”作为亚洲规模极大的移动行业大会,今年已经是连续第七年在上海举行。都说MWC上海不容错过，那么这次展会都有什么好看的？小编在此搜集了各方的爆料...
- ## [产能争夺战开打 中芯、华虹等两岸晶圆厂门庭若市](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=QD6zoDpycbyFKnNiON58pxrFzRVhciiaaPY-vPDzrzPhDCmB1M4HNYrf80rS3JgXGF2oTK4nxkjlikUqExc4BvxnnbqgKTmsFRjOYgj0SZBjUOyHEtk4xGNkxRxzATPE&new=1)
- > 两岸8吋晶圆代工报价第3季确定调涨，6吋晶圆代工价格亦蠢蠢欲动，被迫接受涨价的IC设计业者表示，能在2018年下半卡位8吋及6吋成熟制程产能才是重点，近期两岸8吋晶圆厂开始出现大抢产能的盛况，希望在晶圆产能紧...
- ## [WPA3来啦：WiFi联盟开始认证支持WPA3协议的设备](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=8BSMl53gApLDPQhQwjgzMPC-pATnrzR1lL62BpvZc0LHodXeXm441uVcmq2JpLyMYBxUXc9k6*IlPdS9oc9eAWR6Cwi7SSGyuXg--r39kkCgy8NWn0ZOtDEEDOog7bIK&new=1)
- > 当然对于用户来说即便路由器已经支持WPA3协议，也还需要自己的移动设备和笔记本电脑等支持才可使用。所以WPA3亦会向下兼容WPA2协议以便不会出现不支持的情况，然后慢慢过渡直到所有设备都支持新协议。发布于2004...
- ## [怒怼黑客，Linux 下的7个开源安全工具](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=JGGNxzCXEiTHxQSQA93aNanxjGNWkgQZTrevM808K7DTw3CunPJAPKQ7HyVm94BjxaA2yYWPDwcxIMb6WyDwiuqV3LSqMjlTr3WgDEhqTuL-7t0pRkcjPL9a8A7ElJc6&new=1)
- > 来源 | 开源最前线（ID：OpenSourceTop） 猿妹 编译链接：https://www.tecmint.com/best-antivirus-programs-for-linux/虽然 Linux 操作系统相当稳定和安全，但他们不
- ## [三大运营商取消流量漫游费，流量资费仍有下降空间](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=hO2Fl9eWvhZmdixtjouLsntVLRA2gDPSYyoAv8UheMHKhHukWXjE6i-06vSQlLcKNHACRg-qa-wPZ59YtpV-FvxRSXUQsYgzDW-KQ7p0ilh9HF7HoFaDGy-RKtQYKv53&new=1)
- > “ 日前，中国移动、中国电信、中国联通都相继发布公告称为贯彻落实国家提速降费政策，自2018年7月1日起，取消流量“漫游”费，新老用户省内流量升级为国内流量（不含港澳台）。”据悉，目前三大电信运营商已完...
- ## [中国将面临大洗牌，谁都逃不掉!](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=JEH9yHxpstB0Tap0SestebjrGShcOnF4Fiiqx1pQn4pRwUGLNI07c8YnMs0amm7NnUvSriJP7eIKjFXffHcN4NF220ZW02gcWfdchf7wUfbKWatnIR3EkoHHht2LtIR9&new=1)
+ ## [中国将面临大洗牌，谁都逃不掉!](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=JEH9yHxpstB0Tap0SestebjrGShcOnF4Fiiqx1pQn4oCNYTXAAQFThNDaBm-5MgJTmLFLQjW*MwdriiZCBJ4TUTFvrt7qBU4vut4QObM6WmQjGa-R9szQeYquH8QypXa&new=1)
  > 千万不要觉得这很遥远。上个世纪，已经有打字员、铁匠、电话接线员等很多职业消失了。随着科技的快速发展，未来职业变迁的速度将越来越快。以下将盘点这些未来可能濒临消失的职业。将要入行的人千万要当心。1、...
- ## [2018年全球 DRAM 及 NAND 价格走势分析](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=*6WxZAF14dYGv6JjHhFPeKquZMRMC20fq0ydWR1R48KY8eVi4b7AaYECM7fQenIgeevqcp2OwSpKTzTNfs7tzprg7ltdyodOIWjthkZtpSFK0H4ipT-vfqwbgl3I541i&new=1)
- > 最近，市场研究机构 Yole 发布了季度内存相关报告，称过去一年DRAM和NAND贡献巨大的内存市场，将在2018年取得类似的成功。内存将有望占2018年半导体总收入的1/3以上，大大超过约25％的历史平均水平。 2017年，半...
- ## [华为云郑叶来：坚持普惠AI，打造通往未来的EI智能体](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=4d*EkBmdYzf68ws80Q3bYW0uuV-fR01jKk*Iwm7LAq3THNjM34a48peCVEfGoGziQ6oo22ywFuOdIfC8DrlPPiwvKBdwjcZtOaqtfoP7MHc8uTBMoWERID5MlhkZR3yt&new=1)
- > 6月26日，华为云中国行2018年系列活动首站在深圳开启。华为云BU总裁郑叶来出席活动，并发表了《不畏浮云遮望眼，做有信仰的云》的主题演讲。会上详细解读了华为云EI（企业智能）智能体。 恪守为客户创造价值承诺...
- ## [一组68页超赞MES基础知识PPT!](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=f0Ljugob4aThbbZ4kWkGTbEEeN7q7Nk7vz6cBdp9ZPCLO5QvN-nZChv4xwD34flwGBHj4YrFxy*x6jNHOJcflBwEwTA1mAZWuFNxvpyNtK9c6X77i*p*Ciz*WA2XTNZr&new=1)
- > 导读没有工业4.0拽炫酷，没有机器人火热，但MES却在一片萧瑟中以20%的年均增速低调领跑着自动化市场，并受到国际大佬和本土企业越来越多的关注。文/佰思杰科技下面这组MES基础知识PPT非常精彩，来自佰思杰科技，...
- ## [我的挂车会说话：G7用物联网+AI重新定义挂车运输|卡车之友网](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=9cZGRXO*DFz6ctyQHMsmdoT0G4DqpzDspeYzTdcgqMCEJ2fYpcUTw1fRfLc7EIj46S4p3kAbPyFwPv66LNGWoejme3WA*myDvMGzn36y2OgLHxjDSGP*KzUE0P7req0f&new=1)
- > 卡车之友网原创  www.ecv360.com  微信公众号：ecv360王晓辉现场报道6月26日，中国领先的智慧物联网公司G7在北京正式发布智能挂车产品。被誉为“会说话”的G7智能挂是对传统挂车的颠覆性设计，将物联网、大数据...
- ## [华为郑叶来：不畏浮云遮望眼，做有信仰的云](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=x2yeXXcSPf*r-z0tRqe9RqUpdjdRNXruB2Ak6HUFs8NGWbbOpfhZykSIY*wuHXzGS7n9v2qfYjuH4gca4u6czcIyDC9PWbimBoJLf47olKTk1H7UJifjhAjW5iPSDfhD&new=1)
- > 6月26日，2018华为云中国行以深圳作为首站揭开序幕。大会上，华为副总裁、华为云BU总裁郑叶来先生发表“不畏浮云遮望眼，做有信仰的云”主题演讲。那么，华为云如何让技术真正普惠企业以及个人，应对快速变化的...
- ## [MWCS前一日，联通抢先在国际合作伙伴群发“红包”](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=rW2HKFkIPjlKrdKU5Q14zextF96Lke66j1pyE8XvBje9deWh4AAXno-V144pHSHSpHVWmbCPbYK3Lg2pxo3eU1XoXL3-VrxFFNgv7y62tnDO9xtyh-xWA6qpyTyuHx0i&new=1)
- > 号外世界移动大会上海展（MWCS）开幕前一天，各大厂商纷纷在把小伙伴们聚集在一起，拉群开会。6月26日，中国联通就在上海举办了“2018年国际合作伙伴会议”，会议以“云网一体 联通世界”为主题，吸引了来自全球...
- ## [中国联通国际伙伴大会开幕 陆益民讲解联通四大领域成就](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=YHS-GniYZ47z6MugcQAuGF3GywvlENeeZqqEehhvNnvB9*9Hd-SrQ2v-3dSFNOKsefjwAO0L1WF1IqRYKz6Y4B9ZX4ZHgBnkoG-wSvtMLlupy8zScH08q4OKqTHDvwgc&new=1)
- > 6月26日，在世界移动大会开幕前夕，中国联通率先在上海举办“2018年国际合作伙伴会议”，该大会已经举办了十三届，本次以“云网一体 联通世界”为主题。会上中国联通总经理陆益民发表了题为“携手融入数字化转型...
- ## [高手过招靠“内功”看视听机器人如何征服你](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=oi8jHJC5MAGh0KA9wyS2VBscVgmz1r8IVcwcSV3TO51*B2tWNHfckA2eiX8osvSxHOGMQwhs*4z3iVcqpUNlSZNoAn5KUk-H2mLOVZgNHF*JxDObUgQa6AJeXkfV3IvL&new=1)
- > 要问现下什么最火，那毫无疑问一定是人工智能音箱。各商家斗智斗勇博出线时，谁会想到，2018年却成为国内智能音箱的分水岭，目前又开始进入新一轮爆发期。据不完全统计，国内外已经发布AI音箱产品的企业有近50家...
- ## [区块链是否会推动下一代数据安全?](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=ihjr-VUhEKvamlhFWYEzjAn5fbAFgoRMYY2x-3vvnsGLyXBs934qVHrFkT-0-SwAHw2*CDVaRyBQWLvB-MfJ59vMBtuGYpQJXvhJCRS*400LeDIiZuStFYwZN4Mv0Eur&new=1)
+ ## [区块链是否会推动下一代数据安全?](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=ihjr-VUhEKvamlhFWYEzjAn5fbAFgoRMYY2x-3vvnsFQmM74yHr88QBYdzm0yLyp2wRO6kmYM6T05IMPncDPtxeKmr1Em3BXgwn58WRQdosWHGSEsHYJgD5JfPq196bH&new=1)
  > 区块链为什么“安全”？首先，我们需要为区块链的基础创建通用框架。块，作为区块链的基本元素，是安全打包、保存的数据块，每个块都是链条的一部分，且不存在编辑或删除块的机制。虽然数据链具有强大的加密保护...
- ## [头条|9月3-4日第十七届讯石研讨会隆重来袭](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=xPZkVWSxfEnMIwKYiV5VUsgXMCU*o-rAMleEMNDaj4CVP3t9oXe0fq0fwMW1fahLAKlww9KvKrlW2XNqNnn5njW0OSZ*o9pKDjYWSsEU6*NeCbPCM85CyXYLnoCqYvY5&new=1)
- > 导读9月3-4日，主题为《5G时代的应用与技术发展》的讯石第十七届光纤通讯市场暨技术专题研讨会邀您共聚深圳麒麟山庄，从技术趋势到市场信息全面武装，把握5G领跑局面，深入探讨国产芯片当自强，领教数据中心蛋糕...
- ## [中国电信发布5G技术白皮书：优选SA方案 明确总体演进原则\[附PDF下载\]](http://mp.weixin.qq.com/s?src=11&timestamp=1530064807&ver=963&signature=VMTpCvJiUm3rj6vmYVqIs7tDj*MFf-RozT83xx3v9Gj1CPcDPZr4MMBNAIAU3FjQDDtSuzwc0fZ-oV9NEXdE4IpC9Jep5VzOBVBpPsdpxl5VzAVaUZPE5IbT2zpS1tS6&new=1)
- > 今天，中国电信在2018上海世界移动大会上正式发布《中国电信5G技术白皮书》（以下简称“白皮书”）。这是全球运营商首次发布全面阐述5G技术观点和总体策略的白皮书。中国电信在白皮书中表示，其5G网络将优先选择...
- ## [如何着手分析一个行业？](https://www.zhihu.com/question/20219092)
- > 为什么有人一周时间里，就能了解一个行业的全局及发展趋势？其实洞察行业是有一定套路的，刚刚看完王煜全老师的新书《学会洞察行业--写好分析报告的6堂实战课》。书中不仅系统地梳理了行业研究的基本方法和思路，还通...
+ ## [记一次服务器被入侵的调查取证](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=5e*N2pK4tp7EWEBQeuBc2jdYmIxozfOsdhgsI10T1by8umSvxlh6F6Sb2LMhQ1zPL8bJUwaUQO7-tDUuKD9SCGtS8OHmY1wxWhofH4uvBcxgz9PUOihnJ6fv6kMGA2i-&new=1)
+ > *本文原创作者：fish1983，本文属FreeBuf原创奖励计划，未经许可禁止转载0×1 事件描述小Z所在公司的信息安全建设还处于初期阶段，而且只有小Z新来的一个信息安全工程师，所以常常会碰到一些疑难问题。一天，小Z...
+ ## [一组68页超赞MES基础知识PPT!](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=f0Ljugob4aThbbZ4kWkGTbEEeN7q7Nk7vz6cBdp9ZPADF4cdngo9qXFWtQPW*b6vjIsO-UiPCZysX5UoPc3r77*wGRAa8ZVUUUv1DByIDjy6eiOs1kr36MY*Qv1fEveg&new=1)
+ > 导读没有工业4.0拽炫酷，没有机器人火热，但MES却在一片萧瑟中以20%的年均增速低调领跑着自动化市场，并受到国际大佬和本土企业越来越多的关注。文/佰思杰科技下面这组MES基础知识PPT非常精彩，来自佰思杰科技，...
+ ## [怒怼黑客，Linux 下的7个开源安全工具](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=JGGNxzCXEiTHxQSQA93aNanxjGNWkgQZTrevM808K7AMBnbdbYxtWN6HysvArcSijqLQ1i-gD7qgDEXU0FnRYxUmX5HdIgATjWvp5LTxD2Bl89laNLNWBnSeMOBDEGAB&new=1)
+ > 来源 | 开源最前线（ID：OpenSourceTop） 猿妹 编译链接：https://www.tecmint.com/best-antivirus-programs-for-linux/虽然 Linux 操作系统相当稳定和安全，但他们不
+ ## [产能争夺战开打 中芯、华虹等两岸晶圆厂门庭若市](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=QD6zoDpycbyFKnNiON58pxrFzRVhciiaaPY-vPDzrzOmvCpxL6USRiTeRTm-ihriKFYb8SgrG8P468iHz-1xWbj9IIXc8RWgF-FXAiB4eFgXGv73rl-gbL32UChCVEG9&new=1)
+ > 两岸8吋晶圆代工报价第3季确定调涨，6吋晶圆代工价格亦蠢蠢欲动，被迫接受涨价的IC设计业者表示，能在2018年下半卡位8吋及6吋成熟制程产能才是重点，近期两岸8吋晶圆厂开始出现大抢产能的盛况，希望在晶圆产能紧...
+ ## [三大运营商取消流量漫游费，流量资费仍有下降空间](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=hO2Fl9eWvhZmdixtjouLsntVLRA2gDPSYyoAv8UheMF59CDRZiun8RnBev90SbW-O42IpzsfDIfAxViCDpGRxAbP46w8LP4YTbt-F6DBAoCCI7Ajy0pVMDg2G6vsD2QX&new=1)
+ > “ 日前，中国移动、中国电信、中国联通都相继发布公告称为贯彻落实国家提速降费政策，自2018年7月1日起，取消流量“漫游”费，新老用户省内流量升级为国内流量（不含港澳台）。”据悉，目前三大电信运营商已完...
+ ## [AIoT时代下的智能交通商机](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=U9T1jCimgI*GmZalrFZSBfA2Qu*J1BKqheWJ4*qy2nau5u1s7zM2frky7vxd-uOE4eHjCac2VL4tuhyNf6i1T3Ud3IW4RSvSJxlnNxCjKB1zKlotFC4xzEqKO*6W4ErN&new=1)
+ > 智能交通 未来经济新“热点”　　近年来，随着我国城市化进程飞速发展，汽车普及进程也随之加快，由此所带来的各种交通问题逐渐凸显，交通拥堵、道路事故和城市大气污染等问题已然成为各大城市的通病。　　如何...
+ ## [高手过招靠“内功”看视听机器人如何征服你](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=oi8jHJC5MAGh0KA9wyS2VBscVgmz1r8IVcwcSV3TO50V6ohSREOSHYG7aeAFascZrYpWcy0DDnN85tXi9Vkjg3ZRYyJgjJLBToML7KB2G32cLkubUUAujXAuaaQE8K6*&new=1)
+ > 要问现下什么最火，那毫无疑问一定是人工智能音箱。各商家斗智斗勇博出线时，谁会想到，2018年却成为国内智能音箱的分水岭，目前又开始进入新一轮爆发期。据不完全统计，国内外已经发布AI音箱产品的企业有近50家...
+ ## [\[今日头条\]诺基亚贝尔首家完成工信部5G中频段射频测试](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=-AWX4YxjebbUV14emOetkonpzrz*-cPzK1ZQr3VLZMRjSBcwqog2NayKfJkSDWb5DD*ygcMJ30Ro6G*p*wXHhWhioNZuIdndA527Xz2SyA16wvL1xwIKi68dun109pma&new=1)
+ > 2018年IMT-2020(5G)峰会上，IMT-2020(5G)推进组公布了5G技术研发试验第三阶段进展情况，作为首家完成工信部5G技术研发试验中的4.9G射频测试，唯一使用第三方终端完成5G NR数据连接测试的设备商，诺基亚贝尔...
+ ## [英特尔让5G体验成为可能，遇见美好未来](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=qEG*C-S99JKDMvUqyOgJujbF3hcT2e9Flprd5fS0aIrQaVtd2K-E8nhKZIH2X4SguqGR22mjxLlQ*ZubAH7anfrwDDz0SOLG6ZEnPcZSPw8X6V7Oqfp4ZVxqKHye2o9M&new=1)
+ > 您正身处在第四次工业革命，您正在身临其境的见证一个时代的革新。所谓第四次工业革命也是全新的技术革新，是继蒸汽技术革命、电力技术革命、计算机及信息技术革命的又一次科技革命，以人工智能等创新技术为主导...
+ ## [未来10年，最有出息的孩子就是这种!家长一定要看!](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=QoDxor4ndhKrp-51E9GdjcHg7wG0Owg4xfDfZgBE9Bn07P*JBl1tx7UsIFjDgwcaeQ8ENwDDqSsCdCyRbHCrA*X8VmHLxZZ3fn79IwmQrv013msjyuzSS0IdU5QSmvrF&new=1)
+ > 近日，热门人物访谈节目《局面》专访了围棋九段柯洁。当主持人问到2017年柯洁大战人工智能机器人阿尔法狗的情景时。柯洁坦言，面对人工智能60连胜的战绩时，他确实“不敢正视淋漓的鲜血”，在鏖战3小时后，投子...
+ ## [2018上半年 人脸识别领域十大值得关注企业](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=r8gC*XxJrwFUpCDdHDCUmX5ZVTWpjLhh020ThTF-zJ*K9ywTXjhOu2LL6MpRYeAoAv8ys*Taa6h9*u8eWIs14hjSQaC7sYhxP6**8iU1f4NOOg2r4Zj68Eujvf5CbxUg&new=1)
+ > 2018年人工智能大热，而以人脸识别为代表的计算机视觉技术可谓是人工智能应用中最具代表性的一项。人脸识别基于人的脸部特征信息进行身份识别，近年来不断取得突破，应用范围也越来越广。 春节期间，平昌冬奥会...
+ ## [WPA3来啦：WiFi联盟开始认证支持WPA3协议的设备](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=8BSMl53gApLDPQhQwjgzMPC-pATnrzR1lL62BpvZc0L7R0Jdc*yx5andkcwzyjtbBOpzZgvPLMt20nIHEMT96rUGNuapw0UBdPXeo3XdAR5K25j7lmGG8yefesGz2*Bk&new=1)
+ > 当然对于用户来说即便路由器已经支持WPA3协议，也还需要自己的移动设备和笔记本电脑等支持才可使用。所以WPA3亦会向下兼容WPA2协议以便不会出现不支持的情况，然后慢慢过渡直到所有设备都支持新协议。发布于2004...
+ ## [2018年全球 DRAM 及 NAND 价格走势分析](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=*6WxZAF14dYGv6JjHhFPeKquZMRMC20fq0ydWR1R48JV6orH8nkQ2qvosgZOgFAtsw08EKl1ddFbi8hSoo*RUxfcGRfOCqh10vITRgO6jnQi6hfc-pzBKv5mRid7uQUq&new=1)
+ > 最近，市场研究机构 Yole 发布了季度内存相关报告，称过去一年DRAM和NAND贡献巨大的内存市场，将在2018年取得类似的成功。内存将有望占2018年半导体总收入的1/3以上，大大超过约25％的历史平均水平。 2017年，半...
+ ## [2018“小巴展”来袭 这些热点不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=Yv8ez65tUGzqDRyDdai49*yZfkjvZBBHIZ5EDFgR9lsFVymfMLtPe73zyGUkUA5KuH0Oy2LW5OhC6YQHJbXM-E1Fd*dFouskYxvVAXyPilel3y6MuJz9FJiXgoq8*0v*&new=1)
+ > MWC上海2018(世界移动大会·上海)将于明天正式开幕，“小巴展”作为亚洲规模极大的移动行业大会,今年已经是连续第七年在上海举行。都说MWC上海不容错过，那么这次展会都有什么好看的？小编在此搜集了各方的爆料...
+ ## [Android 9.0将加入新的生物识别API：原来已落后主流一个时代](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=5u2WwUK4Ci1gmHU*KpMxX94OztytZFkUFJWz9o1C-Wpytd7iscsxaQOHnjoE-h4LUUtHXQvBXfsdB5f2MPjefV8icLiIVpyvfiSixjKNDorMaH7rStjA7f04tChHOcPG&new=1)
+ > 关键时刻，第一时间送达！根据媒体报道，谷歌将会在即将推出的Android 9.0版本系统当中加入更好的生物识别API，为开发者提供更安全和方便的生物验证机制。开发人员使用了BiometricPrompt API将生物识别身份验证...
+ ## [华为郑叶来：不畏浮云遮望眼，做有信仰的云](http://mp.weixin.qq.com/s?src=11&timestamp=1530072007&ver=963&signature=x2yeXXcSPf*r-z0tRqe9RqUpdjdRNXruB2Ak6HUFs8Pics6s8*BTmBkiz76ZH6z1M-hCDAGdV5d-KjaCNdQdf9WT6BopvqOUtFpAesyJKb*Qa583o4tn4bFeyd2xc0we&new=1)
+ > 6月26日，2018华为云中国行以深圳作为首站揭开序幕。大会上，华为副总裁、华为云BU总裁郑叶来先生发表“不畏浮云遮望眼，做有信仰的云”主题演讲。那么，华为云如何让技术真正普惠企业以及个人，应对快速变化的...
  ## [如何评价剧版《镇魂》？](https://www.zhihu.com/question/63821120)
  > 拍得不行，有很大的改进余地，如果以人一生的年龄来形容这个剧的完成度，我说上初中真的已经很不错了。为了过审，把原著的山海经设定去除了，没有了冥府判官，没有了一个个中国传统神话故事与口口相传的典故风俗，改...
  ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
  > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
+ ## [小米会迅速衰落么？](https://www.zhihu.com/question/280783391)
+ > 首先上结论：不会。为什么不会？这是由外部和内部两个因素共同决定的，外部的品牌竞争因素和内部的产品结构因素。第一，外部的品牌竞争因素。这是非常经典的一张图片，因为其中包含了非常多的信息。对于这个问题，我...
+ ## [最近老听说十级钳工的传说，人的手工真的能堪比机器或是超越机器的精度吗？](https://www.zhihu.com/question/279781766)
+ > 前几年去那种养了很多老工人的国企安装调试焊接机器人的时候，闲暇时候总有人来跟我们吹牛逼，说他以前是几级焊工，单位以前什么件焊不了都得车间主任出马求他焊，焊件之前喝点酒，焊接的时候手抖能焊出非常规矩漂亮...
  ## [如何评价「方舟子：阿胶中几乎不含铁如何治疗缺铁性贫血」？](https://www.zhihu.com/question/274392582)
  > 这问题好回答。不管能不能治疗现在谁买将近1000元rmb一斤的阿胶谁傻逼。本来这东西正常价格就是四五十一斤，东阿集团通过垄断生给提到1000一斤。原来吃阿胶还是一种民俗，冬至什么的给老婆老娘买点阿胶也是个意思，不...
  ## [如何把游戏新手村的任务写的惊心动魄？](https://www.zhihu.com/question/46640158)
  > 喂，你终于醒了！你被扔在这里的时候一动不动，所有人都以为你马上就要死了！嘘！我知道你现在身上很疼，但是忍着点别大声叫，那边那只怪物睡得是很沉，可是万一把它弄醒了，我们就再也没有逃走的机会了。什么？你失...
- ## [实际应用中，TCP/IP协议栈是如何工作的？](https://www.zhihu.com/question/282275199)
- > 问题一：对TCP的理解基本上是对的，但是有一个地方是不准确的。TCP不会对接收到的segments，拼接成一个文件再让应用程序取走，这是不对的！第一：如果这么做，一个大文件很容易就将接收方的接收缓存耗尽，压根...
- ## [从《白夜追凶》的潘粤明到《镇魂》的白宇，朱一龙大火，是否证明了演艺圈的审美从小鲜肉向演技派的回归？](https://www.zhihu.com/question/282365747)
- > 没那么夸张。这两部剧都看了，说说这两部剧的共同点吧。1原作的人设都特别好。白夜追凶双胞胎兄弟充满二元对立的戏剧张力，两个人设完整饱满。而P大的原作里的赵云澜，沈巍本身就属于比较王道的一种攻受设置——然后...
+ ## [为什么收到三个重复的ACK意味着发生拥塞?](https://www.zhihu.com/question/280521822)
+ > 三次重复的ACK，可能是丢包引起的，丢包可能是网络拥塞造成的，也可能是信号失真造成的。三次重复的ACK，也有可能是乱序引起的，而乱序和网络拥塞没有直接关系。如果就写这两行，感觉什么都没写，接下来的文字...
+ ## [如何看待盲人王蕴高考成绩进入上海前十名，仅比状元少三分？](https://www.zhihu.com/question/282312411)
+ > 此事件中，新闻报道隐藏了一些重要信息，给大众造成了较大误导，其中最重要的信息是：上海市考试院根据上海市盲校盲人高中课程标准，为参与高考的学生独立高考命题。给大家介绍一下这个独立命题类似单招单考，考试时...
+ ## [如何评价 justjavac 在 GMTC 2018 上的 V8 主题演讲？](https://www.zhihu.com/question/282081343)
+ > 看过 justjavac 的文章，V8 的深入理解我是服气的，群里有人贴过 PPT 我觉得还好。不知道 GMTC 是定位在什么级别的会议。我记得 js 欧洲大会有请 V8 团队里的大神去分享的，那肯定是更高水准的演讲了。花点...
  ## [如何看待用盗版 Windows 和办公软件，却在 Steam 上花了几千元买游戏的人？](https://www.zhihu.com/question/266903874)
  > 我的德国舍友告诉我，用P2P软件下载一集Game of Thrones，可能面临约500欧的罚款。发达国家的版权意识重，主要是因为处罚重。我们的版权意识轻，就是因为处罚轻。与教育程度和国籍关系都不大。
  ## [外卖小哥送完餐后发短信要求点赞，我反正是给了投诉！！换成你们给不给？](https://www.zhihu.com/question/280731838)
  > 要是我，我选择给题主一巴掌。按照题主的思路，是因为 饿了么平台 把题主的手机号给了送餐小哥，没有保护好题主的隐私。那么问题来了。如果真是有过错也是平台的过程，而不是骑手的，骑手并没有泄露传播你的手机号。...
  ## [国内有哪些类似Google Docs 的在线文档编辑软件？](https://www.zhihu.com/question/19578002)
  > 之前看过网友的推荐，类似Google Docs的在线文档编辑软件似乎有很多。但是我们团队只用过石墨文档和亿方云，和大家简单分享下使用体验吧：石墨文档是文档协作类工具，在石墨文档上，所有文件都存放存在云端，可满足...
- ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
- > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
- ## [你所认识的键盘侠在现实生活中是什么样的？](https://www.zhihu.com/question/62238357)
- > 平时和别人交流中能感受到一些。现实生活中就是一个普通人吧。只是思想比较简单。很少有那种真正人品很坏的键盘侠。反正我是不认识。而且很多人并不是天天都是键盘侠，可能只是偶尔的。他们自己意识不到这些问题，也...
- ## [如何看待b站周年庆将fgo排除在外？](https://www.zhihu.com/question/282695783)
- > Pipi美：请玩家们同心协力，不要给BGO氪金B站现在摆明了就是把氪金玩家当氪金母猪和人肉发电机，态度很明确了。先前被氪爆的两个CCC卡池也充分说明了这个问题。在我看来，对于国服玩家而言，接下来的新登场英...
- ## [约旦那么穷，为什么约旦王后却被称为“阿拉伯世界的戴安娜”？](https://www.zhihu.com/question/276374108)
- > 圣裔哈希姆王室是近东最文明可靠的二元君主。是近东逊尼派穆斯林最值得仰赖的，观念最正确的，且最符合世俗见解的王室。这个称呼没有任何问题。很正确。希望哈希姆能够团结近东的全体阿拉伯人甚至是全体穆斯林
- ## [如何评价杨超越自黑？](https://www.zhihu.com/question/282532271)
- > 这个自黑的微博底下她还回复了两句评论，连起来看你会更明白杨超越这个小姑娘，真不是一个正常人。她真的就是那种热血少年漫里面的主人公，她自黑也不是你所理解的那种“自黑”，就像B站那个让我入坑的视频里面，当...
  ## [有哪些以前觉得好听后来才听懂的歌？](https://www.zhihu.com/question/66263206)
  > 王菲作为华语乐坛的天后，她的主流歌曲陪伴着我们度过青葱岁月。相信每个人的年少时光里，都有着一首王菲的歌，熟悉的旋律必定还萦绕耳旁。但那时，年少的自己经历太少，喜欢听歌也是单纯觉得旋律动人，甚少关注到歌...
+ ## [为什么台湾的Facebook用户远远多于Twitter用户？](https://www.zhihu.com/question/35337014)
+ > 台湾由Facebook一统天下，上到资讯传播，下到即时通讯，中间是本职的关系型社交，全吃掉了（即时通讯line分了一大部分去），这本身就是一种不正常的现象，美国市场早就分化了，大陆也分化了（微博/朋友圈/微信），社...
  ## [如何看待ofo推出的信用体系？](https://www.zhihu.com/question/282016918)
  > 随着共享单车行业的不断发展，为用户带来出行方便的同时，也暴露出很多行业的弊病，车辆的乱停乱放，用户对车辆的随意损毁，私自上锁等不和谐因素，也为交通系统带来了负担。这些问题很大程度上源自于行业初期的野蛮...
+ ## [如何看待b站周年庆将fgo排除在外？](https://www.zhihu.com/question/282695783)
+ > 来讲一个故事吧从前，有一户人家，穷困潦倒，也没有后代能够抚养他们有位富翁看他们可怜，便赐予他们一个孩子。孩子很争气，给他们无数的财富但那家的家长明白，她并不是自己的孩子，只是别人赐予的，于是他养了很多...
  ## [什么是用户运营？用户运营的具体职责是什么？](https://www.zhihu.com/question/19893183)
  > 之前回答过一个问题：是关于用户画像的，当然用户画像必然也是用户运营必须清楚的，今天我我们就来探讨下用户运营的那些事。办办学苑：什么是用户画像呢？一般用户画像的作用是什么？ 作为一名新媒体运营，当我们接触...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [外卖小哥送完餐后发短信要求点赞，我反正是给了投诉！！换成你们给不给？](https://www.zhihu.com/question/280731838)
  > 题主这思(zhi)维(shang)还是趁早告别订外卖吧。
+ ## [如何评价杨超越自黑？](https://www.zhihu.com/question/282532271)
+ > 这个自黑的微博底下她还回复了两句评论，连起来看你会更明白杨超越这个小姑娘，真不是一个正常人。她真的就是那种热血少年漫里面的主人公，她自黑也不是你所理解的那种“自黑”，就像B站那个让我入坑的视频里面，当...
 # IT 技术 
+ ## [就算你来的是清华大学的录取通知书，还不是要和我做一样的事。。。](https://my.oschina.net/osczb/blog/1836137)
+ > 一支穿云箭，百万师弟来相见。 这个星期，广东高考放榜了。近日很多地方的高考成绩都将会陆续放榜，众多师弟师妹们都在研究哪里的大学学习终极代码技能。无可厚非互联网行业还是国家的国之重器。风口行业！ 顺势造...
  ## [\[译\] D3.js 嵌套选择集 (Nested Selection)](https://my.oschina.net/u/3413999/blog/1835934)
  > \[译\] D3.js 嵌套选择集 (Nested Selection) 译者注: 原文: Mike Bostock (D3.js 作者) -- Nested Selections 译者: ssthouse 本文讲解的是关于 D3.js 中 d3-selection 的使用. d3-selection 
  ## [GameHollywood 面试笔记](https://my.oschina.net/u/3888259/blog/1835873)
@@ -153,7 +155,7 @@ STEM&#25945;&#32946;&#26426;&#26500;&#8220;&#28779;&#26143;&#20154;&#20465;&#200
  ## [高性能配置中心 duic - 设计&实现](https://my.oschina.net/weghst/blog/1835714)
  > 什么是配置？ 配置（Configuration）对于技术人员来说应该都不陌生，通常配置都是以 key-value 的形式存在于配置文件当中。例如线程池大小、数据库连接、逻辑开关及业务参数等等。 那么为什么我们需要提供各种各样...
  ## [vue中v-model的应用](https://my.oschina.net/zicheng/blog/1835681)
- > vue中经常使用到&lt;input&gt;和&lt;textarea&gt;这类表单元素，vue对于这些元素的数据绑定和我们以前经常用的jQuery有些区别。vue使用v-model实现这些标签数据的双向绑定，它会根据控件类型自动选取正确的方法来更新元素。 ...
+ > vue中经常使用到和这类表单元素，vue对于这些元素的数据绑定和我们以前经常用的jQuery有些区别。vue使用v-model实现这些标签数据的双向绑定，它会根据控件类型自动选取正确的方法来更新元素。 ...
  ## [Spring Boot2.0 整合mybatis、分页插件、druid](https://my.oschina.net/bianxin/blog/1835680)
  > 前言 本文主要是针对SpringBoot2.0.2版本，实现整合mybatis、分页插件、druid等组件，实现完整的web服务，提供restful风格接口。 SpringBoot集成MyBatis有两种方式，一种简单的方式就是使用MyBatis官方提供的： ...
  ## [持续开放，腾讯TARS、TSeer助力Linux建设开源社区](https://my.oschina.net/u/3447988/blog/1835662)
@@ -162,10 +164,20 @@ STEM&#25945;&#32946;&#26426;&#26500;&#8220;&#28779;&#26143;&#20154;&#20465;&#200
  > FIlebeat 配置文件内容详解： vi filebeat.yml filebeat.prospectors: 日志类型 - type: log enabled: True  日志路径可以写多个，支持通配符 paths: - /tmp/test.log 设置字符集编码 e...
  ## [Spring boot整合ElasticSearch案例分享](https://my.oschina.net/bboss/blog/1835601)
  > The best elasticsearch highlevel java rest api-----bboss Spring boot整合ElasticSearch HighLevel Rest Client案例分享，本文涉及内容 集成bboss es starter 单es集群整合 多es集群整
- ## [妈妈再也不用担心爬虫被封号了！手把手教你搭建Cookies池](https://my.oschina.net/devqianlong/blog/1835523)
- > 很多时候，在爬取没有登录的情况下，我们也可以访问一部分页面或请求一些接口，因为毕竟网站本身需要做SEO，不会对所有页面都设置登录限制。 但是，不登录直接爬取会有一些弊端，弊端主要有以下两点。 设置了登录...
+ ## [公安部发布《网络安全等级保护条例（征求意见稿）》](https://www.oschina.net/question/2720166_2282239)
+ > 公安部关于《网络安全等级保护条例（征求意见稿）》公开征求意见的公告，你怎么看？
+ ## [Firefox 61 正式发布：速度更快，操作更智能更便捷](https://www.oschina.net/news/97479/firefox-61-released)
+ > Firefox 61 已正式发布，开发团队表示继续专注于打造比其他浏览器更智能、更快速的浏览器。 更新亮点包括： Add Search Engines：用户现在可以更轻松地在 Firefox 的地址栏加入自定义搜索引擎，从而实现更快、更简化的搜索功能。 Tab Warming: 现在在标签页之间来回
+ ## [Java 开源博客 Solo 2.9.1 发布，支持 PJAX](https://www.oschina.net/news/97478/solo-2-9-1-released)
+ > Solo 是一款一个命令就能搭建好的 Java 开源博客系统，如果你想开个独立博客，请一定不要错过！ 2.9.1 版本支持 PAJX，带来了更好的页面跳转体验，具体使用方式请参考 Solo 皮肤开发指南。 安装 下载安装包 解压后执行 java -cp WEB-INF/lib/*;WEB-INF/c
+ ## [禅道 10.0.stable 版本发布，全新的界面和交互体验](https://www.oschina.net/news/97476/zentao-10-0-stable-released)
+ > 禅道项目管理软件集产品管理、项目管理、质量管理、文档管理、组织管理和事务管理于一体，是一款功能完备的项目管理软件，完美地覆盖了项目管理的核心流程。禅道官网：http://www.zentao.net 2009年7月30日，禅道发布了简陋的0.01 alpha版本。九年来，禅道团队坚持以开源方式持续完
  ## [bboss elasticsearch v5.0.7.8 发布](https://www.oschina.net/news/97475/bboss-elastic-5-0-7-8-released)
  > The best elasticsearch highlevel java rest api-----bboss bboss elasticsearch v5.0.7.8发布 功能改进 1.新增spring boot starter模块，全面支持spring boot starter风格，支持单ES
+ ## [Tails 3.8 发布，基于 Debian 的发行版](https://www.oschina.net/news/97474/tails-3-8-released)
+ > Tails 3.8 已发布，Tails(The Amnesic Incognito Live System) 是基于 Debian 的自启动光盘或 USB 发行，其目标是为用户提供完整的因特网匿名功能。 安全修复： Upgrade Tor Browser to 7.5.6 (MFSA 2018-17
+ ## [Alpine Linux 3.8.0 发布，轻量级 Linux 发行版](https://www.oschina.net/news/97473/alpine-3-8-0-released)
+ > Alpine Linux 3.8.0 已发布，Alpine Linux 是一个基于 musl libc 和 busybox 的面向安全应用的轻量级 Linux 发行版。 新功能和值得注意的新软件包 Support netboot on all architectures Add arm64 (aar
  ## [Fuchsia 操作系统将支持运行 Linux 应用程序](https://www.oschina.net/news/97471/googles-fuchsia-adds-emulator-running-linux-apps)
  > 近日，谷歌已经为其新兴开源的 Fuchsia OS 添加了一个 Guest App，以使 Linux 应用程序能够在 Fuchsia 中作为虚拟机（VM）运行。这个 Guest App 使用了一个叫作 Machina 的库，相比传统的模拟器，Guest App 与宿主操作系统的集成更加紧密。 上个月
  ## [MariaDB 10.2.16 发布，MySQL 分支版本](https://www.oschina.net/news/97470/mariadb-10-2-16-released)
@@ -192,84 +204,72 @@ STEM&#25945;&#32946;&#26426;&#26500;&#8220;&#28779;&#26143;&#20154;&#20465;&#200
  > 2018 年各地高考分数从 6 月 22 日开始向社会公布，录取工作将于 7 月上旬开始进行。然而，在放榜之日，却有不法分子盯上了急忙想要查询成绩的考生。 据腾讯御见威胁情报中心透露，它们发现某重点大学“高考录取查询系统”页面被植入挖矿代码，访问后会自动执行挖矿程序，挖取门罗币，导致电脑 CPU 占
  ## [Firefox 将引入安全审查工具：确认个人账号是否泄露](https://www.oschina.net/news/97459/firefox-introduce-security-review-tools)
  > Mozilla宣布未来Firefox版本将引入一项令人兴奋的功能。这项功能就是建议安全审查工具，使用Troy Hunt的“Have I Been Pwned”（HIBP）数据库对已知泄露的数据库进行扫描，确认用户账号是否出现在其中。 去年11月份，该功能的初版首次曝光。Mozilla表示通过免费访问
- ## [Foundation 6.5.0 RC1 发布，改进应用可访问性](https://www.oschina.net/news/97458/foundation-sites-6-5-0-rc1-released)
- > Foundation(foundation-sites) 6.5.0 RC1 发布了，Foundation 是一个易用、强大而且灵活的框架，用于构建基于任何设备上的 Web 应用。提供多种 Web 上的 UI 组件，如表单、按钮、Tabs 等等。 此版本主要关注稳定之前的版本，改进可访问性和浏览器支
- ## [Element 2.4.2 发布，代码改变 Select 值触发表单校验](https://www.oschina.net/news/97457/element-2-4-2-released)
- > Element 2.4.2 发布了，Element 是一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库，提供了配套设计资源，帮助你的网站快速成型。由饿了么公司前端团队开源。 此次更新内容如下： 修复 Table 的 class-name 和 label-class-name 
- ## [PMD 6.5.0 发布，新增检测使用非官方支持注释的规则](https://www.oschina.net/news/97456/pmd-6-5-0-released)
- > PMD 6.5.0 发布了，PMD 是一个代码分析器，能够帮助发现常见的编程瑕疵，像是未使用的变量、空的 catch 块、不必要的对象创建等等。最初仅支持 Java 代码，目前还可支持 JavaScript、Salesforce.com Apex 和 Visualforce、PLSQL、Apache
- ## [Mithril.js 3.0.0 发布，JavaScript MVC 框架](https://www.oschina.net/news/97455/mithriljs-3-0-0-released)
- > Mithril.js 3.0.0 发布了，Mithril.js 是一个客户端的 JavaScript MVC 框架。可将应用分成数据层、UI层和控制层。API 提供一个模板引擎，带 DOM diff 实现，支持路由和组合。 此次更新内容包括： Breaking 更好的输入检查以防止滥用库(2167
- ## [ArangoDB 3.3.11 发布，原生的多模型数据库](https://www.oschina.net/news/97454/arangodb-3-3-11-released)
- > ArangoDB 3.3.11 发布了，目前暂未见到相关更新信息您可以查看提交日志和更新日志了解更新内容。 ArangoDB 是一个原生的多模型数据库，具有灵活的文档、图形和键值数据模型。使用方便的 SQL 查询语言或 JavaScript 扩展构建高性能应用程序。 下载地址：  Source co
- ## [Joomla 3.8.10 发布，修复 Windows 自动加载器漏洞](https://www.oschina.net/news/97453/joomla-3-8-10-released)
- > Joomla 3.8.10 发布了，Joomla 是一个内容管理系统（CMS），它使您能够建立网站和强大的在线应用程序，它是一个简单而强大的 Web 服务器应用程序，它需要一台带有 PHP 和 MySQL、PostgreSQL 或 SQL Server 的服务器才能运行。 此次更新修复了在 3.8.
+ ## [MySQL到底有几种日志类型需要我们记住？](http://database.51cto.com/art/201806/577169.htm)
+ > MySQL到底有几种日志类型需要我们记住？
+ ## [从删库到跑路or恢复，记一次MySQL数据库文件损坏恢复经历](http://database.51cto.com/art/201806/577085.htm)
+ > 从删库到跑路or恢复，记一次MySQL数据库文件损坏恢复经历
  ## [Linux运行速度太慢？教你如何查明具体原因](http://os.51cto.com/art/201806/577123.htm)
  > Linux运行速度太慢？教你如何查明具体原因
+ ## [【榜样】科技圈30岁以下大佬盘点：你搬砖，人家搬金砖](http://news.51cto.com/art/201806/577170.htm)
+ > 【榜样】科技圈30岁以下大佬盘点：你搬砖，人家搬金砖
+ ## [Airbnb 弃用之后，我们还应该用 React Native 吗？](http://news.51cto.com/art/201806/577168.htm)
+ > Airbnb 弃用之后，我们还应该用 React Native 吗？
  ## [外媒速递：十项提示引导你升段为高阶Java开发者](http://zhuanlan.51cto.com/art/201806/577147.htm)
  > 外媒速递：十项提示引导你升段为高阶Java开发者
  ## [GPRS模块为什么会低至十几元？我所经历的物联网模块国产化过程](http://iot.51cto.com/art/201806/577155.htm)
  > GPRS模块为什么会低至十几元？我所经历的物联网模块国产化过程
- ## [【WOT2018】WRTnode罗未：物联网在制造行业的赚钱模型，了解一下！](http://developer.51cto.com/art/201806/577061.htm)
- > 【WOT2018】WRTnode罗未：物联网在制造行业的赚钱模型，了解一下！
- ## [【WOT2018】郑长帅：揭秘摩拜国际化背后的IoT技术支撑](http://developer.51cto.com/art/201806/577056.htm)
- > 【WOT2018】郑长帅：揭秘摩拜国际化背后的IoT技术支撑
- ## [我用Python提前“算”出了2018世界杯夺冠球队（第二弹......）](http://developer.51cto.com/art/201806/577055.htm)
- > 我用Python提前“算”出了2018世界杯夺冠球队（第二弹......）
- ## [【推荐】为Web开发人员精选的十种Angular教程](http://developer.51cto.com/art/201806/577015.htm)
- > 【推荐】为Web开发人员精选的十种Angular教程
- ## [告别流量“漫游”费之十问，你想知道的都在这儿了](http://network.51cto.com/art/201806/577023.htm)
- > 告别流量“漫游”费之十问，你想知道的都在这儿了
- ## [家里的无线路由器安全吗？这些你得知道 - 网络・安全技术周刊第350期](http://network.51cto.com/art/201806/577157.htm)
- > 现在家中联网的设备越来越多，智能手机、平板电脑、笔记本电脑、智能电视、游戏主机……还有许多智能家居设
- ## [如何选择一个合适的嵌入式操作系统？](http://server.51cto.com/sOS-577158.htm)
- > 如果你想开发的嵌入式设备是一个和网络应用密切相关或者就是一个网络设备，那么你应该选择用嵌入式Linux或
- ## [Linux系统的备份工具有哪些？](http://stor.51cto.com/art/201806/577154.htm)
- > 对于计算机而言，数据备份是一个非常重要的环节，系统管理员每天需要处理大量的企业级数据，甚至个人计算机
- ## [大多数供应商网络存储系统收入攀升](http://stor.51cto.com/art/201806/577152.htm)
- > 云计算和软件定义产品正在蚕食传统企业网络存储系统市场，但后者仍然保持着相当强劲的增长。这是因为托管服
- ## [世界杯上备受争议的VAR技术到底是如何诞生的？](http://news.51cto.com/art/201806/577150.htm)
- > 《连线》网站撰文揭秘国际足联备受热议的VAR（视频助理裁判）的诞生过程。“裁判2.0”项目先是创造了门线技
- ## [前端不止：Web性能优化 - 关键渲染路径以及优化策略](http://zhuanlan.51cto.com/art/201806/577153.htm)
- > 想一想，如果你希望你的网站在一秒钟之内呈现用户想看的关键信息，有哪些可行的手段?Minify，压缩，雪碧图
- ## [Python的5个具有潜力的发展方向！](http://news.51cto.com/art/201806/577149.htm)
- > 近些年，编程语言Python的热度越来越高，因为Python简单，学起来快，是不少程序员入门的首选语言。
- ## [数据安全仍是中小企业上云的最大阻碍](http://netsecurity.51cto.com/art/201806/577148.htm)
- > 研究表明，使用云服务优化运营的趋势可能带来一些严重的负面影响，包括诸多“主权”的丧失，如可能泄露价值
- ## [从 Stack Overflow 2018 调查报告看机器学习发展趋势](http://news.51cto.com/art/201806/577146.htm)
- > Stack Overflow 的数据科学家 Julia Silge 通过对数据进行深入研究，分析处理了 2018 年最受欢迎的机器学习
- ## [网络加速冲刺十升级 2018上半年回顾(1)](http://network.51cto.com/art/201806/577145.htm)
- > 2018年上半年就要过去了，在IT的企业级领域又发生了哪些大事值得关注？2018年上半年的网络产业可以总结为十
+ ## [【推荐】负载均衡很难？看完这篇全懂了](http://server.51cto.com/sOS-577127.htm)
+ > 【推荐】负载均衡很难？看完这篇全懂了
+ ## [旖美信息技术前端开发经理陈国兴：抽象语法树与Javascript](http://server.51cto.com/News-577191.htm)
+ > 抽象语法树是程序代码语法的抽象表示，以树状的形式表现编程语言的语法结构。这棵树从树根开始，然后一直往
+ ## [将会改变人们对大数据增长看法的10个图表](http://bigdata.51cto.com/art/201806/577187.htm)
+ > 而根据调研机构埃森哲公司的一项研究，79%的企业高管认为，没有接受和采用大数据的公司最终将失去其市场竞
+ ## [三大运营商亮出最新5G战略](http://network.51cto.com/art/201806/577190.htm)
+ > 随着全球5G第一版标准锁定，电信运营商们纷纷吹响产业化的冲锋号。在2018上海世界移动通信大会开幕前一天，
+ ## [赵宇：智能制造MES系统方案规划实施|V课堂第117期](http://zhuanlan.51cto.com/art/201806/577189.htm)
+ > 第117期【智造+V课堂】邀请北京瑞泰时科技有限公司总经理赵宇，赵总从MES系统规划设计、功能架构、系统模型
+ ## [云架构师――云计算成功部署的重要角色](http://cloud.51cto.com/art/201806/577184.htm)
+ > 云架构师负责管理一个组织中的云计算架构，特别是随着云技术日益复杂化。云计算架构涵盖了与云计算相关的一
+ ## [数据科学20个最好的Python库](http://news.51cto.com/art/201806/577181.htm)
+ > Python 在解决数据科学任务和挑战方面继续处于领先地位。去年，我们曾发表一篇博客文章 Top 15 Python Libr
+ ## [云计算销售中遇到的5种买家](http://cloud.51cto.com/art/201806/577182.htm)
+ > 随着云计算服务和客户的不断发展，云计算提供商需要关注一些关键的营销能力，以确保他们在目标买家中保持相
+ ## [Windows现蓝屏诈骗：差点中招](http://server.51cto.com/sSecurity-577186.htm)
+ > 一旦你对硬盘的问题所在有了清楚的认识，你便可以着手寻找答案了。这里列举了十个用于硬盘数据恢复的工具。
+ ## [谷歌Fuchsia 操作系统将支持运行 Linux 应用程序](http://news.51cto.com/art/201806/577167.htm)
+ > 近日，谷歌已经为其新兴开源的 Fuchsia OS 添加了一个 Guest App，以使 Linux 应用程序能够在 Fuchsia 中作
+ ## [被APP评分弹窗烦的不行？教你一招解决](http://mobile.51cto.com/app-show-577165.htm)
+ > 相信用iOS的小伙伴们对于APP评分都不陌生，这个场景大家应该经常遇到：刚看到一个游戏感觉不错，下载完正玩
+ ## [我的漫漫程序人生路（真诚的长文，慎点）](https://blog.csdn.net/ricohzhanglong/article/details/80805785)
+ > 我的漫漫程序人生路（真诚的长文，慎点）
  ## [我终于搞清楚了和String有关的那点事儿。](https://blog.csdn.net/hollis_chuang/article/details/80810586)
  > 我终于搞清楚了和String有关的那点事儿。
  ## [RN 电商项目实战——2.组件的State](https://blog.csdn.net/yulianlin/article/details/80808275)
  > RN 电商项目实战——2.组件的State
- ## [我的漫漫程序人生路（真诚的长文，慎点）](https://blog.csdn.net/ricohzhanglong/article/details/80805785)
- > 我的漫漫程序人生路（真诚的长文，慎点）
  ## [【趣图】尽管如此，我还是热爱编程！](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80754924)
  > 【趣图】尽管如此，我还是热爱编程！
- ## [7天内我面试了10家公司，如何从命中率0%到命中率至70%？](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80730839)
- > 7天内我面试了10家公司，如何从命中率0%到命中率至70%？
  ## [IT程序员的抉择：我要离开帝都了](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80731102)
  > IT程序员的抉择：我要离开帝都了
- ## [你为什么学不好Python？](https://blog.csdn.net/t46RYuqj/article/details/80750871)
- > 你为什么学不好Python？
- ## [只有程序员才懂这些黑色幽默！](https://blog.csdn.net/xishining/article/details/80751014)
- > 只有程序员才懂这些黑色幽默！
- ## [为什么一定要给孩子找个程序员爸爸？](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80681623)
- > 为什么一定要给孩子找个程序员爸爸？
  ## [Java程序员涨薪必备技能（1-5年必看！！！）](https://blog.csdn.net/UW63ZqpKxwlRL1/article/details/80750205)
  > Java程序员涨薪必备技能（1-5年必看！！！）
- ## [什么是适应？](https://blog.csdn.net/VucNdnrzk8iwX/article/details/80780489)
- > 什么是适应？
- ## [如何夸程序员？](https://blog.csdn.net/GitChat/article/details/80730917)
- > 如何夸程序员？
- ## [如何通过 JavaScript 实现机器学习和神经学网络？](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80750197)
- > 如何通过 JavaScript 实现机器学习和神经学网络？
+ ## [你为什么学不好Python？](https://blog.csdn.net/t46RYuqj/article/details/80750871)
+ > 你为什么学不好Python？
+ ## [7天内我面试了10家公司，如何从命中率0%到命中率至70%？](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80730839)
+ > 7天内我面试了10家公司，如何从命中率0%到命中率至70%？
  ## [我们计划免费招收300个学生学习人工智能专业](https://blog.csdn.net/fRF0lw4/article/details/80750536)
  > 我们计划免费招收300个学生学习人工智能专业
- ## [工作15年码农总结：学编程难吗？那只是你觉得难！](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/80731107)
- > 工作15年码农总结：学编程难吗？那只是你觉得难！
+ ## [为什么一定要给孩子找个程序员爸爸？](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80681623)
+ > 为什么一定要给孩子找个程序员爸爸？
+ ## [如何通过 JavaScript 实现机器学习和神经学网络？](https://blog.csdn.net/T7SFOKzorD1JAYMSFk4/article/details/80750197)
+ > 如何通过 JavaScript 实现机器学习和神经学网络？
+ ## [记录我这四个月的JAVA学习](https://blog.csdn.net/chenhu82028/article/details/80740482)
+ > 记录我这四个月的JAVA学习
+ ## [天天工作拧螺丝，怎么突破瓶颈？](https://blog.csdn.net/Ch97CKd/article/details/80730874)
+ > 天天工作拧螺丝，怎么突破瓶颈？
+ ## [一块玻璃1万多？！！OPPO Find X正式发布，黑科技满满就是价格太感人……](https://blog.csdn.net/M7720EIoSi6oA9/article/details/80749968)
+ > 一块玻璃1万多？！！OPPO Find X正式发布，黑科技满满就是价格太感人……
+ ## [快速图像增强的简便大法来了，英伟达开源新库代号“DALI”| CVPR 18](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80751066)
+ > 快速图像增强的简便大法来了，英伟达开源新库代号“DALI”| CVPR 18
  ## [新旧 iPhone 比速度，iOS 12 公开测试版发布！](https://blog.csdn.net/csdnnews/article/details/80823446)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！在月...
  ## [为什么我会站队全栈工程师？](https://blog.csdn.net/csdnnews/article/details/80823447)
@@ -278,6 +278,20 @@ STEM&#25945;&#32946;&#26426;&#26500;&#8220;&#28779;&#26143;&#20154;&#20465;&#200
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！从负...
  ## [Python 爬取 50 万数据得出最权威、全面的高考志愿填报指南！](https://blog.csdn.net/csdnnews/article/details/80823445)
  > 点击上方“CSDN”，选择“置顶公众号”关键时刻，第一时间送达！作者...
+ ## [泰坦云获C轮亿级融资，春晓资本、珠海科创投联合领投](http://www.lanjingtmt.com/news/detail/36085.shtml)
+ > 旅游云技术服务平台泰坦云宣布已完成C轮亿级融资，由春晓资本、珠海科创投联合领投，博将资本跟投。
+ ## [区块链投资200天：扯去神话外衣，技术革命如何落地？](http://www.lanjingtmt.com/news/detail/36084.shtml)
+ > “任何神话和妖魔化区块链的我觉得都不可取。”梅花创投创始合伙人吴世春表示。他认为，不要慌张，不要焦虑，提升认知，拥抱趋势，探索区块链改造所在行业的机会，才是打开这一波区块链浪潮的正
+ ## [中国移动尚冰：5G时代将成为电信运营市场的重要分水岭](http://www.lanjingtmt.com/news/detail/36083.shtml)
+ > 在2018世界移动大会上，中移动董事长尚冰表示，“网络信息技术应用日益普及，已经渗透到人们生产生活的方方面面。”
+ ## [消息称映客IPO拟发行3.02亿股股票，最高或筹集1.93亿](http://www.lanjingtmt.com/news/detail/36082.shtml)
+ > 手机直播平台映客拟通过香港IPO发行3.023亿股股票，定价3.85-5港元之间，拟筹集最多1.93亿美元。对此蓝鲸TMT向映客方面求证，截止至出稿，对方尚未回应。
+ ## [美团上市：互联网新一代的亮相](http://www.lanjingtmt.com/news/detail/36081.shtml)
+ > 美团点评的招股书显示，公司的总收入在2015年、2016年和2017年分别是40亿、130亿和339亿，增长率相当惊人。与此同时，这三年的亏损分别是59亿、53.5亿和28.5亿。
+ ## [Facebook宣布放弃使用无人机向边远地区供网计划](http://www.lanjingtmt.com/news/detail/36080.shtml)
+ > 同时根据美媒报道，停止开发该项目导致裁员16人，而该项目负责人安德鲁·考克斯（Andrew Cox）已于5月份离职。
+ ## [58同城被迫“割肉”，为何最后房产中介是赢家](http://www.lanjingtmt.com/news/detail/36067.shtml)
+ > 自媒体包邮区的一篇《感觉链家被掏空》，彻底把链家和58同盟放在了对立面。尤其是文中那句“打倒寡头左老板”，似乎深得有心人之心。
  ## [上市在即的美团，能否从新零售与互金觅得奇兵](http://www.lanjingtmt.com/news/detail/36076.shtml)
  > 在大零售生态尤其是新零售领域，无论是平日交流还是公开推广，美团一直较为低调，小心翼翼进行业务探索。而在金融监管趋严的环境下，包括美团在内的互金业务均需谨慎前行。
 # 人工智能 
@@ -314,12 +328,30 @@ STEM&#25945;&#32946;&#26426;&#26500;&#8220;&#28779;&#26143;&#20154;&#20465;&#200
  ## [\[Python人工智能\] 七.加速神经网络、激励函数和过拟合](http://blog.csdn.net/eastmount/article/details/80757556)
  > 从本系列文章开始，作者正式开始研究Python深度学习、神经网络及人工智能相关知识。前五篇文章讲解了神经网络基础概念、Theano库的安装过程及基础用法、theano实现回归神经网络、theano实现...
 # PM 
+ ## [Guerilla 可用性测试案例之一：Airbnb 愿望清单功能](http://www.woshipm.com/evaluating/1074453.html)
+ > 本文是关于Airbnb的一项可用性测试，是为了发现Airbnb租房预订过程中的痛点。一起来看看~我进行了一项可用性测试，目的是想发现 Airbnb 租房预订过程中的痛点。目的...
+ ## [写文案，是你与千千万万读者的狂欢](http://www.woshipm.com/copy/1074465.html)
+ > 对于一个广告而言，文案的重要性不言而喻，那要如何才能写好一个文案，去吸引读者通过这个广告来关注这个产品呢？互联网时代，当“蜂窝式“的大量信息出现时，信息越多...
+ ## [如何系统的学习线？这里有几个方法](http://www.woshipm.com/pd/1073749.html)
+ > 在平面造型中，线比点更具有感情色彩，且不同的线具有的感情色彩也是不同的，那在不同的场景中，我们应该如何去运用线的感情色彩呢？一、线的概念线是点运动的轨迹，...
+ ## [一套匹配电商类系统建设的解决方案思路](http://www.woshipm.com/pmd/1073061.html)
+ > 近期有几个跳槽去友商的同事回来和我说，“老吴你分享的怎么写方案挺有效，解决了不少写方案的困惑。”所以，觉得这套方案编写的思路可能帮到更多的乙方苦逼顾问们，在这...
+ ## [你发邮件的时候，考虑过「用户」的感受么？](http://www.woshipm.com/user-research/1073207.html)
+ > 站在用户视角看待问题，关键是大家需要养成意识来趋使自己时刻进入用户视角，这是一种思维习惯。一个真实的故事：小光同学按要求每天发日报给老板，为了方便，总是在...
+ ## [重新解读：零售业“人-货-场”的关系](http://www.woshipm.com/newretail/1074304.html)
+ > 本文主要是对消费者、消费品、零售场所这三者的关系进行了重新的解读，一起来文中看看~一般认为，构成零售业态不可或缺的三个要素分别是消费者（人）、消费品（货）和...
+ ## [二手平台『享物说』的经济学原理](http://www.woshipm.com/pd/1071021.html)
+ > 本文主要是以享物说为例，从平台运营这个角度阐述完全与现实货币脱钩的积分制交易模式是如何促进中观调控能力的，同时从平台治理角度分析该模式需要关注的生态问题。enj...
+ ## [轰炸朋友圈的支付宝红包搜索码，有哪些套路玩法？](http://www.woshipm.com/operate/1073258.html)
+ > 本文是对轰炸朋友圈的支付宝红包搜索码玩法的简单介绍，以及一些套路玩法的现状和构思。温馨提示：好好做产品，少些套路，多些思考！相信这几天，你一定在朋友圈看到...
+ ## [从商业思维到设计策略：用设计赋能商业](http://www.woshipm.com/pd/1074317.html)
+ > 设计赋能商业，不是用设计来改变商业策略，而是通过设计方法来优化、创新商业策略所映射出的产品体系。一、商业本质对于以经济利益为最终指向的企业机构来说，商业的...
+ ## [从设计到开发上线中，产品的一些基本原则](http://www.woshipm.com/pd/1074574.html)
+ > 本文作者最近复盘并总结出了：产品从设计到开发上线中的一些基本原则，enjoy~身在创业团队中工作，讨论与意见分歧是不可避免的，最近在进行复盘的时候，我发现讨论通...
+ ## [全面解析：就诊预约应如何设计？](http://www.woshipm.com/pd/1074056.html)
+ > 大家基本上都会有过就诊预约的体验，我们可能是通过线下预约或者是打电话、小程序以及微信公众号等方式，但是，至今仍然没有一个完美的方案来将预约就诊做到最好。一...
  ## [有趣的Axure案例：打地鼠游戏的设计](http://www.woshipm.com/rp/1072958.html)
  > 一个有趣的实例，通过axure制作一个打地鼠的游戏，可以进行难度选择。其中如果选择难度一地鼠为正常大小，选择难度二，地鼠则为缩小版。虽然小游戏很简单，但其中用到的...
- ## [运营必须知道的数据运营精髓](http://www.woshipm.com/operate/1072510.html)
- > 身边有很多运营的小伙伴，天天在看数据，分析数据，但是始终给不出好的解决方案和运营创新，浑浑噩噩，不知方向在哪里。本文列出了运营必须知道的数据指标及指标背后你...
- ## [免费试听｜Axure菜鸟掌握这4个交互效果，原型专业度立刻提升](http://www.woshipm.com/it/1074132.html)
- > 本次试听的是腾讯课堂&amp;起点学院联合打造的6周axure实战班。试听免费，试听信息见下方axure实战班已经有2700多位学习提升，第9期火热报名中~如果你想快速做出标准...
  ## [关于小程序，你必须掌握的11点认知](http://www.chanpin100.com/article/106947)
  > 【小百摘要】小程序应该注意的十二点，你都知道吗？
  ## [谁第一个提出的“支付宝钱包”概念？](http://www.chanpin100.com/article/107013)
