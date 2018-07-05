@@ -1,55 +1,53 @@
 ---
 title: 2018-07-05 IT News
 copyright: true
-date: 2018-07-05 08:01:00
+date: 2018-07-05 09:00:43
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[科技早报7点整\]何小鹏调侃贾跃亭 谷歌被曝隐私危机 抖音好友小程序暂停服务……](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=A1IRDZhPPOvQnwut2swlgkHfXQRbFO4jtKbrw8-5L5kEhGKyEjrjkO9OKlMUgMBTSbnUAPEW2899j9gJy7XYIb7XV2sduYg6pBwp7lE6OwvR67UhJt-MxOJO3AaeGtKo&new=1)
- > 早上好，科技圈【一度蜜科技早报】第183期1.何小鹏调侃贾跃亭是聪明人 专家称FF量产几无可能就在FF公布完成首轮融资后不久，小鹏汽车董事长何小鹏便评论到：“又见财技，做个空壳公司20亿美元投资，然后8亿美元...
- ## [\[今日头条\]中国ICT技术：进步可喜 前景可期](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=Wfp7YvIeGaEDohZeevXOcCmwzfp7vsUz5j*6dGqo2Q76WMuEskBB8VUVlChBVXoLzYUs20OkXhLMTmXdiT*uaUSbgiS0Tsg4gUBxA3NxKuXqHPXrxbNnhG4K9kgfqjF-&new=1)
- > 改革开放40年，中国高新技术发展水平如何？特别是在ICT（信息通讯技术）领域，国外半导体专家究竟是如何看待和评价的呢？带着这些问题，科技日报记者日前采访了韩国著名企业家和半导体专家崔珍奭博士，倾听了他...
- ## [中国联通和中国物流与采购联合会在数字供应链领域达成战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=QzW23Urx-V2rLrcAH9FHN*7Nn4vqt7Pk2RMTNBOGeTPOK9GHEHFnNFxxaUQ0aPorO*viyDOEqvBzEI97e4ukSjHeLw8vesuCDFvth6vGL8c0e-kg5Pji56h3n6Hi0H7b&new=1)
- > 2018年7月3号，中国联通和中国物流与采购联合会（以下简称中物联）合作发布会在北京召开。会上，中国联通与中物联签署了战略合作协议，将共同推动数字供应链快速发展。中国联通总经理陆益民、副总经理梁宝俊...
- ## [对话华为轮值董事长徐直军：华为云的加法和减法](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=pWO5oaYChDvQjGoXCaEDGs5RMGQiAfG5SMS7FHw5TCa*JgKCfzlmsCHlP6Hr5jrPTpwzqzwYzas5uQl8Yq*CRLGwJ*UtNUOWbqjyR-cvMqPPOZ5gBBeGj8HcjbWBubCa&new=1)
- > — 赛博故事 高飞16个月前，华为开始在公有云市场进行的连番操作，在业界引发了轰动。2017年3月，华为时任轮值CEO徐直军在生态合作伙伴大会上宣布强力投资公有云，成立Cloud BU。同年8月，华为总裁任正非签发了...
- ## [中国网约车用户规模达1.85亿 滴滴满意度排名垫底](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=f--YKjyYBaNv3LiMdzg9c7kmsq6r53QnsxL9FVu-qC0FijoBfHbW6BqC1s87C98Ejx3Jid0HwwR1cBKB1cCCUBVXY07WgeibrS9e7oCv2BBV1ZiC9lQBSuBbhZTvkEMG&new=1)
- > 极光大数据《2018年5月专车市场研究报告》显示，截至2018年5月最后一周，网约车app整体渗透率为16.9%，用户规模达到1.85亿。滴滴出行在网约车用户中知名度最高，但用户满意度垫底。极光观点截至2018年5月底，网...
- ## [人类第一款双足行走类人机器人将停止开发，传奇谢幕!](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=zqm-O8o28JodAZRN4h3n8clHn3Ow-zem3eR7aAS-J9QLc8BlHLj4WTlP-YA6evPuzNOrHiulAScWSU59rFy2PbvgO23QvBylzZY6q1JGNF6abZo9YysKyHSAzR*EDeQB&new=1)
- > 硬蛋，不止硬件。硬蛋（Ingdan）你的创新探索站！▼大家好我是蛋君，不知道大家还认不认得它？这款叫阿西莫（ASIMO）的机器人，曾经被成为世界上最先进的类人机器人，同时它也是全球最早具备人类双足行走能力的...
- ## [流量漫游费取消后，中国移动重点讲解了几个需要注意的地方](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=8kiFDCmbISKSMrGJTztAcSwUejUrWaf4NRmgLZYRJq9dYXlDUuGCuqa-PMum0YgRSWKU8OIMD6ubc5*ZPmuxDrk-rTSMRjinijOlQcQBtpp8411kt6JrPWB*7wgqVlOS&new=1)
- > 从7月1日零时起，省内流量、流量漫游费正式成为历史名词，三大运营商同步升级，从今以后就只有全国通用流量了。对于这一政策变动，相信不少人还有疑虑，中国移动今天就特意做了个小科普，重点讲解了几个需要注意...
- ## [IC设计者必参加的的测试方法研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=ZD4XDzp5mMlsmtD7KRKP-sM70S49DAyPKsvr*sqCGSI9zUALwFCzeHm1yu3W975wNN6q2IXesC2filW99ICN3m-3R4HIssN0Ao5zXAH5qrhJDnop4863ikhceP4y*e37&new=1)
- > 一网打尽当前 IC 应用领域最热门方向及其测试方案AI、5G、Cloud哪一个是 IC 最前沿的应用方向？物联网、大数据、高功率哪一个才能为 IC 带来爆发性的市场？在半导体热潮席卷大江南北之际每个 IC 人都在认真的思...
- ## [华为向西北转移50公里，深圳已再无吸引力?](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=mv*5Gp5c8QyMvPXwu50x1x7Wm6qpiiqW-ICYFDMOvTLuTAyDviBfsYntid-RQyrNrA76i3T4rvTPr955sLZ8xGhRVhRON5XMkWhnJurP89yAz3IQVkP9DdjS*7CIF4RA&new=1)
- > 关键时刻，第一时间送达出品 / 腾讯新闻&amp;爱范儿文 / 爱范儿 沈星佑欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻华为深圳总部，已经是一座有着完整基本设施的“城邦”，食堂、住宅、医院一应俱全...
- ## [双活太远为啥用波分，容灾链路设计关键点知多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=Yqt70HgeX*0xjYdW5h381iFbjyhRUHhkWc*gCk4BJjYZjCbRq0tg5pCO3sPAUuaf9MpgWZlNvqVCKSv9EFYESqbjMLQK6dSicdFDqbzkp2U8HUBRnCjDY43TN1oSKu8v&new=1)
- > 关键讯息，D1时间送达！容灾通信链路设计是保障用户在合理的通信成本下成功实现容灾系统建设的重要步骤。不同的通信链路有不同的属性，如距离支持、带宽能力等，而不同的容灾技术和容灾应用对通信链路的要求并不...
- ## [国内外大咖云集!中山这场盛会业内最具规模，有啥猛料?](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=yC48LqcPYibNMIZ*YdKNynFegEGId8RyWtzwZvJI2g7i0GXXZW7TrrwE3IIQ8JIdyfrF1wG6O6sdyK3tWxCZ6tvumWHMrxz0CIhVh6k57H8oQPtO5WBfBcD3Jm*DHE36&new=1)
- > 说到“齿轮”，相信大家都不陌生小到每个人日常骑单车、开门锁等生活细节大到航空、高铁、船舶等大器件时时刻刻都需要齿轮发挥作用它是量大面广的关键基础零部件能应用在国民经济各个领域齿轮工业是机械工业中技...
- ## [HTC中国区总裁汪丛青：VR并不依赖于5G，但5G会帮助VR更轻](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=MwQs*fLa-WmUm47Ma4fKZG8qzJeXISpKtenPj6xv8cK3Y8nHSGaxmxWVcmZ057ik53JDXt0z*m78n4xJVXSu-JMhsiLkOaMhAIv5qWK4qWYw9DucH5juIgMlTHVRoFfo&new=1)
- > 913VR.com眼见即为真实（点击底部“阅读原文”，了解更多VR最新资讯）来源｜913VR（原创）作者｜丹哥说VR就在上周，我们在MWCS 2018大会上采访了HTC中国区总裁汪丛青。此次大会期间，HTC展示了一系列智能手机与V...
- ## [中国电信批量集采消费物联网专用卡 这家公司成为第一候选](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=fg*E9I68-2qLJw40H4OM7Vg2uea7yCBUq1m0cujVN9j35ba7MzfCtRnvBlwG2nrxp7SuqoqUdgDbW*nGdu1JN4h5UclrHOLjr5bYSc2oiXjxFEYYAIFIkNxJ-X0HPNQ5&new=1)
- > 近日，中国电信公布了2018年UIM卡集采项目-消费级物联网专用卡的四位中标候选人，依次是恒宝、东信和平科技、北京华虹集成电路设计和武汉天喻信息。据了解，此次集采于2018年6月13日开始评标，经评审，恒宝股份...
- ## [2018世界移动大会完美落幕，和飞信惊艳亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=4WcDHj5YTzAqfntBK7JeDhvC4VdHIDruO2JWdyDlpDFuNXEHiaWU0Wbeaas4rQpzdgk*nDIvRqDqQzf8lpeNaYKej4KWE6rPznG121nZBLKIomIT4rz1AH3PAVe7Fyyi&new=1)
- > 俺主编君够科枝，慎关注！6月27-29日，在上海举办的2018世界移动大会完美落幕，本次展会吸引了来自全球100多个国家与地区超过6万名的参会者，中国移动和飞信不仅参与本次大会，还为大会带来了强大的会务助手功能...
- ## [对话范志文：5G承载迈入商用前期 烽火FitHaul+云化一次将网建对](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=PUjKFGO4RLcddAPhlSEy0zZnaJOxJRsMDcBZzMfG-yHC*qDDAaOnui*x*SbI5GrKTkLtXmhRWXxf4SHTrSTY3tmVXqMoumjvEj5IyhWNpKuJ-69R*tBrK0MVSw0JjFoN&new=1)
- > 从技术、架构到业务实践，位列全球光传送第一梯队的烽火通信已经在承载上为5G的规模商用部署做好了准备。随着3GPP 5G第一阶段全功能标准化工作的完成，产业进入了全面冲刺的新阶段，而作为整网基石所在的承载网...
- ## [最近频被提及的VR培训，现况究竟如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=7LUZaPvavqWegnpyQptlzt5koZ8Yrb80m-xEL8cGj6YPoA0VCCtwrB3m0hs77ZpFKUWQtNNvarkPvMYxgTFvz6XOAPg4mvJz7N7EYn*5Jqi68NQRu*xGrd60oJA0QQ7n&new=1)
- > 为什么越来越多人把目光投向VR培训领域？正文共 3007 字 13 图;预计阅读时间 8 分钟VR一直是近些年的热门话题，除了在游戏领域的应用外，VR培训领域也备受关注。如今，VR培训正在被越来越多的行业所运用，比如医...
- ## [NEWS|新大陆工程实验中心新增55个检测项目再获CNAS国家实验室认证](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=meYxLG9iX4E9n9ifT9vgoDOuWsg00OT1n*cM8GG63qJ2qz7EIRXKY*564Fhkrhs63m1rTvPOinC-Uc4Q0lHMsHjcnNlgxPwgYuBDE1MtNU9J8cJ8OwHsXCAxt-6AjWMk&new=1)
+ ## [NEWS|新大陆工程实验中心新增55个检测项目再获CNAS国家实验室认证](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=meYxLG9iX4E9n9ifT9vgoDOuWsg00OT1n*cM8GG63qK4VEAYDvgVGJ6VsLnNugVM-rJ8DcepwVLdxcjzt5ozOPMVHqZF*G8ZImW-dWEK3exl4aflsjOnkI7D8ijtpoHq&new=1)
  > 本刊讯： 福建新大陆电脑股份有限公司工程实验中心日前又有55个检测项目通过中国合格评定国家认可委员会(CNAS) 现场扩项和监督评审。本次新增的55个项目包括直接部件标识(DPM)质量、DPM条码识读设备以及锂离子蓄...
- ## [拿出18亿美金收购3D打印等业务，2D巨头理光也拼了](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=YTZ3qPt1zEKbZrBuTRtzwmdSbfe*Z5ysXf-qOaxpAT2Vvhd4q0f8LmyAJMVulqlLO2umh3*dy4emoFXc1vX12js9eW2lqM9WLjhF1265ssmxjcPFT9mCFRR8HOLory*V&new=1)
- > 随着全球2D打印业务的下滑，2D巨头们都在寻求新的业绩增长点。3D打印在他们看来是一个不错的新选择，包括惠普、理光、佳能、柯尼卡美能达等在内的2D巨头都在行动了。2018年7月3日，南极熊从外媒获悉，日本理光已...
- ## [智能充电新时代需要思想碰撞](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=iJqtKgVnVnA*pZZ*Ho40Y7dtTUpHplkPPutaNRqmw243qWoH0jFC02ZRExoqP5z-q7ZeYA2swnU2dZU484dn3WoHZQhC-qc1dL-HXP6kVjScQcjWJFLvOR0onufLyFF0&new=1)
+ ## [HTC全球裁员四分之一，主要波及台湾地区](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=fhpW1DGvEmYs2nrok8zvqPv4KPY7o9-ohJnfrzkXkTQF9ZuE3WppW2b9doeh6fIK1HHPX9pwBo0FRnRrlmp4uSllk7aNsY4Gb-a-YsZvwwxA4ZpFmwHiTm7KTH7Ujfi4&new=1)
+ > 导读：前不久HTC CEO王雪红还对全体股东表示已经迈出转型成功第一步。结果一周后即宣布裁员1500人，主要涉及台湾桃园地区的组装厂，裁员人数约占HTC员工总数的1/4……文章来源：综新华网（newsxinhua）、新浪科...
+ ## [为什么说高精地图是实现自动驾驶的核心角色?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=02TbaAQCGrN14-0iV1foBRSRTnntyHJDm7hZRYvkpaV7ThYcekZtlvN9wxnNT8Gw*NvYmZM1S7SJmnvBCitZoLRrPTFxoiyc3gFvJBO9wHLrLn7959rY72xkhJ*XB2VK&new=1)
+ > 本文是雅斯顿原创文章  撰文 ✎哈尔 自动驾驶俨然已成为汽车领域很重要的一个产业趋势了。不过由于它所涉及和覆盖的产业链环节实在太多，从而导致进展缓慢，若想要改变这一现状，实现大规模的商业落地，各个环节...
+ ## [他们用VR手套+Tracker成功的让盲人“看”到艺术品](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=Fy3GfB31y4BOD6bM2Od3KE*toXgmrab4NFkJaoOTSEMMxlv74GTxQqfCj4lk-iWFFDwrGWwRmXHop2EfYtiEYkpqEVEgooIBtQXcjt52bBgHoG29GfT7ujeEjxR9VK8u&new=1)
+ > Esther｜ 撰文近日，VR科技公司NeuroDigital，Geometry Prague广告公司和Leontinka基金会与捷克国家博物馆联手打造了,一场名为“Touching Masterpieces”的VR试验展，帮助有视觉障碍的
+ ## [发布自研AI芯片、量产自动驾驶巴士下线，百度AII in AI成果的含金量有多大?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=SeEjVon39cO5mz1xPhtIvOZK-LHveDbRIO4xTE3kTpkg50EGjYlsxrIllulA5p7jGSCaMs8a1yPOjGblZZsbuYf*C0NVcj67N*6HwVGql1aZnv9fUPnqrzCbRByo9cJ3&new=1)
+ > 百度Apollo已经达成超过90个产品研发合作，超过1万名开发者推荐使用Apollo的开放代码以及116家生态合作伙伴，小度车载OS已与福特、北京现代、东风悦达起亚、奇瑞、拜腾、东风小康等达成量产合作计划、百度大脑3....
+ ## [讲师阵容|讯石第十七届研讨会九月隆重来袭：大咖级讲师阵容介绍(系列一)](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=nvOfM1Oh5syET5g3vwwYyNqpEzmU3YszpI9unHzSy*rY0Q1aSy-ByX0VhECrzgeMZ68NMnOLFWmZ74ds4QIDHtU75LUqmGVTqOz6*MRVRQ8KHrmlmWHRMB7zDyHH-Evi&new=1)
+ > 导读9月3日-4日，讯石第十七届研讨会将在深圳麒麟山庄隆重举办。本届研讨会主题关键词为“5G+数据中心+芯片”。本文为大家介绍本届研讨会部分已确定出席的讲师大咖，分别是中国电信韦乐平主任、中国联通唐雄燕博...
+ ## [2018世界移动大会完美落幕，和飞信惊艳亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=4WcDHj5YTzAqfntBK7JeDhvC4VdHIDruO2JWdyDlpDGWZW*RRbMCJxdNRbGbaQ4LO*rNkP9bstJWlEhQBAvdLTVINBhY2IWh9qcXATMoIJxMpvhgPt4NrFg2vzu5a5d2&new=1)
+ > 俺主编君够科枝，慎关注！6月27-29日，在上海举办的2018世界移动大会完美落幕，本次展会吸引了来自全球100多个国家与地区超过6万名的参会者，中国移动和飞信不仅参与本次大会，还为大会带来了强大的会务助手功能...
+ ## [智能充电新时代需要思想碰撞](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=iJqtKgVnVnA*pZZ*Ho40Y7dtTUpHplkPPutaNRqmw24VhkMc4o6Cf6Q3jmxcEvJEIEStMpMzHo4IAivKrnxYDU93-bkoESam3YjFmraLJB5AkiDpMJO0RQL*opwskpUC&new=1)
  > 6月28日，以“智能生态 打造充电新时代”为主题的2018（第三届）中国充电桩创新峰会顺利闭幕。在以“智能时代的创新与变革为主题”的高端对话环节，主持人中国电动汽车充电技术与产业联盟常务副秘书长郑甲兔，和...
- ## [橡树岭实验室开发出使用木质素的新型3D打印材料](http://mp.weixin.qq.com/s?src=11&timestamp=1530748806&ver=979&signature=o2q4V7mbmVK2Z3L7oySy1nR1Kniz8muJOp9rPPBUHOQi8QQiXA7tKohhUvMNFrWMz7dncdwLIANubJcJfLpZCCLbX5suFvkiBFsIGOv3Bu5Tck5bmsyTaqOPXq4g87WG&new=1)
- > 木质素是一种复杂的有机聚合物，是许多植物细胞壁的重要组成部分，使其具有木质和刚性。 它也是一种可3D打印材料，很像纤维素。 橡树岭国家实验室（ORNL）是一家研究机构，在3D打印方面做了大量重要工作，开发了...
+ ## [2017深圳IC产业发展情况，全年销售额达668.4亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=lYxsmeMrYzNdqHUSANL3-vUWzSdgfxmBpiSgt-Z-PExNSdy2QqUECrBumazSCD9ikOymsCHq5kvW0mxGzs8phbWeHquurOn8u2fX6g7nuS83YB00ssD2Papz5M*L5JaI&new=1)
+ > 据说，睿智的人都选择了置顶“微电子制造” 7月3日，国家集成电路设计深圳产业化基地副主任赵秋奇在“深圳集成电路创新应用高峰论坛”上针对“深圳集成电路产业发展”作了主题报告。以下是关于深圳集成电路产业...
+ ## [如果5G就像踢一场世界杯，拿什么遇见美好未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=mWAbOA*zCFURexBUERaPQwy6kcIACRKAnmUQd47tm3I9XEj-XiceDs88aedbME0cuxp73RwZfRLbHv9aRMfwQN1-K*tb9xe2FVeo-nV5FM2*B3zCAtjm4C9AasFP8T9-&new=1)
+ > 再见C罗，再见梅西，再见阿根廷，再见德国，我的俄罗斯世界杯提前结束了。以“遇见美好未来”为主题，一年一度的行业盛会——2018年世界移动大会-上海也完美落下帷幕。5G首个标准R15正式诞生于俄罗斯世界杯前夜...
+ ## [MWCS手记：英特尔加速5G网络转型 核心、边缘、接入一个都不能少!](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=AyF9RV99XZSyOTDe*-Vd3sjo98bWjEpN54TAZ8R3WpbqOiIGxruKeTkCK5tk0W71JIrmrEDa2KSBBawHTsZJKOXWgq0hxjr1YD8EzXJWk*q9oPhXXSrl8mrcTcKTl8ts&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！随着近日5G独立组网（SA）NR标准冻结，5G的商用步伐从散步变成慢跑、快跑，到现在已经开始疾速奔跑，这也意味着5G技术方案验证及应用步入关键阶段。作为一家基础设施核心技术...
+ ## [双活太远为啥用波分，容灾链路设计关键点知多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=Yqt70HgeX*0xjYdW5h381iFbjyhRUHhkWc*gCk4BJjY9WZbKZb1orPHMBMlWKLRHBHRC0Cs2HRdLswz-Frh*ET86xF*D6-EuRRPAEXwSgmssUbJT*SicfhGCgIbNeebL&new=1)
+ > 关键讯息，D1时间送达！容灾通信链路设计是保障用户在合理的通信成本下成功实现容灾系统建设的重要步骤。不同的通信链路有不同的属性，如距离支持、带宽能力等，而不同的容灾技术和容灾应用对通信链路的要求并不...
+ ## [最近频被提及的VR培训，现况究竟如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=7LUZaPvavqWegnpyQptlzt5koZ8Yrb80m-xEL8cGj6bvRfQIh78TdvmJdjSslWib95Tz5-FH6y35*zgiMZ7keTWCOxUkhtstwS6F50TrQ6e56vJvoSUYPmlTLaKtnR6D&new=1)
+ > 为什么越来越多人把目光投向VR培训领域？正文共 3007 字 13 图;预计阅读时间 8 分钟VR一直是近些年的热门话题，除了在游戏领域的应用外，VR培训领域也备受关注。如今，VR培训正在被越来越多的行业所运用，比如医...
+ ## [国家千人计划教授任奎：数据安全的现状与趋势(全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=vDi96O8uA9FBt8ehKM6axb9vRRygo4a3L3kJEv1fVENm3XSHY33PbokrcBo2c*prUbnytUILFDgyxTlpP*2BqpkZLHf8p91-OPnXyb3a2SEucAiosbokUcEcHWuJV3W8&new=1)
+ > 宅客频道编者按：数据安全的问题存在于数据的整个生命周期，从数据采集、流转、传输到数据使用，其中尤为受到关注的是数据的机密性、完整性以及可用性。在6月30日举办的CCF-GAIR智能安全专场中，浙江大学网络空...
+ ## [\[活动预告\]2018中国无锡科技创新创业大赛——电子信息行业赛将于7月9日、10日正式举办](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=Bfu6GW1t1Rj9yyUjRZqzrC3URDsNKlMedVdEkQWhIRQ13zJBTM5gMwAFCh7XANPzwLO9sTJMbmVa8vsxwHbdQMrbIvxVtKEZjsCoECNTXgvA1MK22QX8uUBW0rX8vpxJ&new=1)
+ > 来源：无锡市企业金融服务中心2018中国无锡科技创新创业大赛2018年中国无锡科技创新创业大赛由无锡市人民政府指导，无锡市科学技术局、无锡市金融工作办公室、深交所江苏创新创业企业上市培育基地、深圳证券信息...
+ ## [HTC中国区总裁汪丛青：VR并不依赖于5G，但5G会帮助VR更轻](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=MwQs*fLa-WmUm47Ma4fKZG8qzJeXISpKtenPj6xv8cIu8c*caiPop6Yz1LfnWaFkI3KWIbujy76RlvP7Mwe5mZVQx06kX2Qn5Xz68lJFBbcX*FuRVhHGYODRm30v5-hz&new=1)
+ > 913VR.com眼见即为真实（点击底部“阅读原文”，了解更多VR最新资讯）来源｜913VR（原创）作者｜丹哥说VR就在上周，我们在MWCS 2018大会上采访了HTC中国区总裁汪丛青。此次大会期间，HTC展示了一系列智能手机与V...
+ ## [国内外大咖云集!中山这场盛会业内最具规模，有啥猛料?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=yC48LqcPYibNMIZ*YdKNynFegEGId8RyWtzwZvJI2g4KLRqaGpyiop6-3eHwYZZ1CoN2HWlgz89Kw3nKXYcMszKJorGO2PZ9SjxeA7zi8zYWz0lbjWcCH8A6*b5gMJsG&new=1)
+ > 说到“齿轮”，相信大家都不陌生小到每个人日常骑单车、开门锁等生活细节大到航空、高铁、船舶等大器件时时刻刻都需要齿轮发挥作用它是量大面广的关键基础零部件能应用在国民经济各个领域齿轮工业是机械工业中技...
+ ## [对话范志文：5G承载迈入商用前期 烽火FitHaul+云化一次将网建对](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=PUjKFGO4RLcddAPhlSEy0zZnaJOxJRsMDcBZzMfG-yGYeiHjPiNwLSEWPIoIzXWDgQhPtyHPcXg-Wyf24x2j0ibtWrC13puXGDvZFfUY9x4vQvhV7axu3-83AUoo6Ga8&new=1)
+ > 从技术、架构到业务实践，位列全球光传送第一梯队的烽火通信已经在承载上为5G的规模商用部署做好了准备。随着3GPP 5G第一阶段全功能标准化工作的完成，产业进入了全面冲刺的新阶段，而作为整网基石所在的承载网...
+ ## [华为向西北转移50公里，深圳已再无吸引力?](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=mv*5Gp5c8QyMvPXwu50x1x7Wm6qpiiqW-ICYFDMOvTJ6ke8voUQS0*S6cN7V6dY7KG3lQ4fGP31ysTeDM9iD1elBuFGSpi*ceRrrkdGtUc2wNvr2nccIaBzPWFtVmWML&new=1)
+ > 关键时刻，第一时间送达出品 / 腾讯新闻&amp;爱范儿文 / 爱范儿 沈星佑欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻华为深圳总部，已经是一座有着完整基本设施的“城邦”，食堂、住宅、医院一应俱全...
+ ## [IC设计者必参加的的测试方法研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1530752406&ver=979&signature=ZD4XDzp5mMlsmtD7KRKP-sM70S49DAyPKsvr*sqCGSJD4GzAVxHfbcWZxcF2SE3vMx4hishmLYrKab527OV3nI8Rt1kUnjIOyl1hs4WVxeUaXwkzTDbdCKr8lpJX*fzD&new=1)
+ > 一网打尽当前 IC 应用领域最热门方向及其测试方案AI、5G、Cloud哪一个是 IC 最前沿的应用方向？物联网、大数据、高功率哪一个才能为 IC 带来爆发性的市场？在半导体热潮席卷大江南北之际每个 IC 人都在认真的思...
  ## [你为什么离开数据科学（Data Science）行业?](https://www.zhihu.com/question/278539797)
  > 不能算是离开，因为还在原公司工作，但是很少做大数据相关的工作了。有两方面原因：其一，是大多数公司都喜欢赚钱的事，不喜欢省钱的事，钱不是省出来，尤其对于创业公司。做大数据，本质上改变不了业务模式，更强调...
- ## [有什么好的单机版手机RPG推荐？](https://www.zhihu.com/question/36076669)
- > 又看到一个擅长的问题了，这个问题可是把我的心头血都拿出来了。高中到大学最喜欢玩的就是暗黑类和日式的RPG，还记得诺基亚时期手机上的几乎玩了个遍啊。注意：ios商店搜不到的需要搜英文名。（原创，如果转载请注...
  ## [淘宝有哪些特色原创女装店？](https://www.zhihu.com/question/26056830)
  > 最近把淘宝收藏的700多家店铺整理了一下，每次整理都会有一些店铺被我取关，下面这些是筛选下来描述/服务/物流都是4.8分或以上的金牌卖家，而且是符合题主说的“特色原创女装店”标签的~下面将近20家店铺，各种风格都...
  ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
@@ -82,11 +80,17 @@ categories: IT NEWS
  > 台湾由Facebook一统天下，上到资讯传播，下到即时通讯，中间是本职的关系型社交，全吃掉了（即时通讯line分了一大部分去），这本身就是一种不正常的现象，美国市场早就分化了，大陆也分化了（微博/朋友圈/微信），社...
  ## [你曾经因为做不出数学题哭泣过吗？](https://www.zhihu.com/question/63139055)
  > 奥数课上有一个孩子，他比所有人小。应该是跨级生。也许是个天才。我们都悄悄的嫉妒他：“真羡慕有天赋的人啊”是啊，要是那么聪明，便可以在简单模式下快乐的过一辈子吧？可以不用费劲的思考想不明白的数学题了。有...
- ## [初入运营，最近想读几本关于互联网运营的书，求推荐?](https://www.zhihu.com/question/28691512)
- > 互联网从业以来，我看过上百本互联网思维和方法论的书，从中我选出了这15本书，包含理论和方法论，几乎是每个运营都必看的书籍。（文末有福利）运营是互联网公司里掌控性最强的一个岗位，所以需要会的知识点需要很多...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
+ ## [为什么程序员的女朋友或老婆颜值普遍要高于男方很多？还是说程序员已经算是婚恋市场的优质股了？](https://www.zhihu.com/question/63765274)
+ > 因为程序员没空涂各种护肤品。
+ ## [有什么自由度特别高的手机游戏？](https://www.zhihu.com/question/63110300)
+ > 《泰拉瑞亚》，一款开放性的沙盒游戏，可以说是2d版的《我的世界》。我第一次玩这款游戏是我高中的时候，因为高中同学都在玩，于是我也跟了一波风，下了这个游戏，没想到却从此入了坑。一开始玩的时候会有一点不适应...
 # IT 技术 
+ ## [Netty(二) 从线程模型的角度看 Netty 为什么是高性能的？](https://my.oschina.net/crossoverjie/blog/1840429)
+ > 前言 在之前的 SpringBoot 整合长连接心跳机制 一文中认识了 Netty。 但其实只是能用，为什么要用 Netty？它有哪些优势？这些其实都不清楚。 本文就来从历史源头说道说道。 传统 IO 在 Netty 以及 NIO 出现之前，...
+ ## [利用TICK搭建Docker容器可视化监控中心](https://my.oschina.net/hansonwang99/blog/1840421)
+ > 概述 性能监控是容器服务必不可少的基础设施，容器化应用运行于宿主机上，我们需要知道该容器的运行情况，包括 CPU使用率、内存占用、网络状况以及磁盘空间等等一系列信息。在我的前文《Docker容器可视化监控中心...
  ## [RabbitMQ使用分析和高可用集群搭建](https://my.oschina.net/genghz/blog/1840262)
  > 一、RabbitMQ 基础理解 RabbitMQ，是一个使用 erlang 编写的 AMQP（高级消息队列协议）的服务实现，简单来说，就是一个功能强大的消息队列服务。 概念理解： Producer: 消息发送者 RabbitMQ: Vhost: 相当于分组，...
  ## [\[译\]是什么让Purism的Librem计算机优于来自其他供应商的专有设备？](https://my.oschina.net/u/3312265/blog/1840253)
@@ -95,14 +99,40 @@ categories: IT NEWS
  > 源码 预览 游戏开发中或多或少都有接触过Tilemap，在Tiled编辑器里编辑好地图之后，导出数据，然后在游戏引擎(Cocos...)里就可以直接使用了，确实很方便。 由于Pixi.js自身并不支持Tilemap的解析渲染，所以我一直...
  ## [脑残式网络编程入门(一)：跟着动画来学TCP三次握手和四次挥手](https://my.oschina.net/jb2011/blog/1840038)
  > 1、引言 网络编程中TCP协议的三次握手和四次挥手的问题，在面试中是最为常见的知识点之一。很多读者都知道“三次”和“四次”，但是如果问深入一点，他们往往都无法作出准确回答。 本篇文章尝试使用动画图片的方式...
- ## [基于卡片设计的UI界面优化](https://my.oschina.net/u/3875054/blog/1839947)
- > 在现实生活在，视觉信息总是很吸引人的眼球，好的页面设计总是能够脱颖而出，而卡片设计的应用就是一种趋势。 有数据显示移动端使用率远远高于桌面端，网页设计都能很好的适应小屏幕。这个结论就是：简单的界面风...
  ## [koa框架 mp2 node服务搭建swagger服务](https://my.oschina.net/kaikai1/blog/1839921)
  > 说明：用koa2搭建静态文件服务器，mp2管理node服务，搭建swagger-ui和swagger-editor服务，项目地址：koa-swagger 1、环境搭建 安装最新版nodejs 新建文件夹koa-swagger，在文件夹内创建swagger-ui与swagger-edi...
  ## [整合spring cloud云架构 - 根据token获取用户信息](https://my.oschina.net/u/3873725/blog/1839824)
  > 上一篇我根据框架中OAuth2.0的使用总结，画了SSO单点登录之OAuth2.0 登出流程，今天我们看一下根据用户token获取yoghurt信息的流程：   /**   * 根据token获取用户信息   * @param accessToken   ...
  ## [React Native基础&入门教程：初步使用Flexbox布局](https://my.oschina.net/powertoolsteam/blog/1839769)
  > 一、长度的单位 在开始任何布局之前，让我们来首先需要知道，在写React Native组件样式时，长度的不带单位的，它表示“与设备像素密度无关的逻辑像素点”。 这个怎么理解呢？ 我们知道，屏幕上一个发光的最小点，...
+ ## [ExcelUtil 1.5.6 修复导出的一些 bug，并大幅减少引入 jar](https://www.oschina.net/news/97731/excelutil-1-5-6-released)
+ > ExcelUtil1.5.6 发布了，同志们，修复了导出时的一些 bug。 原因如下，在导出时由于表头会占用一行，所以下标是从1开始的，导致数据最终输出到 Excel 中其实会少一行，很多人并没有注意到这个细节。 所幸的是，我们及时发现并修复了此 bug。 是不是很机智。 每次升级都采用平滑升级，保
+ ## [Go 语言开发工具 LiteIDE X33.4 现已支持 Go 1.11 Beta1](https://www.oschina.net/news/97730/liteide-x33-4-released)
+ > Go 语言开发工具 LiteIDE X33.4 发布, 新版本代码完成使用 mdempsky/gocode 以支持 go1.11beta1。增强了 DlvDebugger 插件功能 ( variable, watch, threads, goroutines, registers)，以支持 Delv
+ ## [每日一博 | RabbitMQ 使用分析和高可用集群搭建](https://my.oschina.net/genghz/blog/1840262)
+ > RabbitMQ，是一个使用 erlang 编写的 AMQP（高级消息队列协议）的服务实现，简单来说，就是一个功能强大的消息队列服务。
+ ## [7 月编程语言指数榜：Python 与 Java 逐渐拉开差距](https://www.oschina.net/news/97727/pypl-popular-language-july)
+ > PYPL 已发布7月编程语言指数榜，Python 在今年5月首次超越 Java 拿下榜首位置后，保持上涨趋势，正逐渐与 Java 拉开差距。 此外，JavaScript 和 PHP 在季军位置的争夺上也十分激烈。二者在上半年的指数得分上十分接近，不过本月由于 PHP 出现了 1.5 个百分点的下降，
+ ## [Firefox 安卓版进入维护模式，开发团队透露在憋大招](https://www.oschina.net/news/97726/firefox-android-is-on-hold)
+ > Mozilla 已将 Firefox for Android 调整至维护模式，该浏览器依然可以使用，但多数情况下将只会收到一些 bug 修复和安全更新，而不会再有新特性。Mozilla 正将其 Android 团队的大部分资源集中在计划明年推出的 Android 新产品上。 该消息来源于 Firef
+ ## [码云推荐 | 零配置高扩展的 SpringBoot 通用权限神器](https://gitee.com/geekerdream/common-security)
+ > SpringBoot 通用的权限处理框架（权限神器），每个模块都可以单独使用，针对 Spring-Security 进行二次封装，使其变得更简洁，可扩展性更强。引入此包无需再重复引入 SpringSecurity 的依赖，真正的达到了零配置、高灵活的特性！
+ ## [Gio.js —— 基于 Three.js 的 Web3D 地球数据可视化库](https://www.oschina.net/p/giojs)
+ > Gio.js 是一个基于 Three.js 的 web 3D 地球数据可视化的开源组件库。使用 Gio.js 的网页应用开发者，可以快速地以申明的方式创建自定义的 Web3D 数据可视化模型，添加数据，并且将其作为一个组件整合到自己的应用中。
+ ## [翻译 | PgSQL 的一些你可能不知道但应该尝试的功能](https://www.oschina.net/translate/postgres-features)
+ > PostgreSQL 包含许多重要的功能。他们中的许多人都非常知名。其他人可以是非常有用的，但没有广泛赞赏。以下是我们首选的 PostgreSQL 功能，你可能没有仔细看过，但实际上应该这样做，因为它们可以帮助你更快地将代码投入生产，使操作更轻松。
+ ## [React Native v0.56.0 稳定版发布，包含大量重要变化](https://www.oschina.net/news/97722/react-native-0-56-0-released)
+ > React Native v0.56.0 已发布，这也是属于 6 月的更新发布！ 开发团队表示，自3月以来，超过 60 位贡献者贡献了 816 个 commit。另外，由于这个新版本有一些重要的破坏性变化需要大量的额外工作才能使其达到稳定的状态，这也是月度发布周期中跳过4月和5月的主要原因。 看一下
+ ## [OSC 周四乱弹 —— 下班别走，我张南华同意后方可下班](https://my.oschina.net/xxiaobian/blog/1840422)
+ > 程序员一定要注意自己的身体！！！班可以加，夜可以熬，但是一定要记住，现在年轻没问题，岁数大了都会还回来的，一定要保持适当的健身！！！看到老大35岁 了，对项目极其认真负责的一个人，最近请了1个月假去治病了，腰和手腕都有问题，哎，现在不在意，到30岁之后都会慢慢来找你要债了！
+ ## [恼人的浏览器“下载炸弹”重现，Chrome 再次中招](https://www.oschina.net/news/97720/download-bomb-returns-in-chrome)
+ > 去年冬天，安全公司 Malwarebytes 向 Chrome 浏览器报告了一个安全漏洞，有恶意团伙利用“下载炸弹”（Download Bomb）来阻塞用户的浏览器，然后诱导用户拨打页面上的“技术支持电话”进行诈骗行为。 “下载炸弹”通过 JavaScript Blob 方法和 window.nav
+ ## [开源中国翻译频道贡献 2018 年 5-6 月奖励名单出炉](https://www.oschina.net/question/2720166_2282566)
+ > 开奖啦~开源中国社区翻译贡献计划 2018 年 5-6 月翻译贡献会员 TOP 10 正式出炉！同时 2018 年 7-8 月翻译贡献奖励计划火热进行中，欢迎大家踊跃参与~
+ ## [密码的锅，Gentoo 发布 GitHub 仓库被入侵事件报告](https://www.oschina.net/news/97718/gentoo-github-organization-hacked)
+ > 之前我们曾报道过“Gentoo Linux 的 GitHub 仓库被入侵，意图删除所有文件”的消息，Gentoo Linux 的 Github 仓库在6月28日晚上受到黑客攻击，并成功取得了组织的控制权。攻击者篡改了存储库的内容以及页面，并用恶意 ebuild 文件替换了 portage 和 mus
+ ## [开源 Java 论坛系统巡云轻论坛 1.2 发布，新增功能](https://www.oschina.net/news/97717/diyhibbs-1-2-released)
+ > 主要更新 1.新增话题优先级排序功能 2.新增全站指定目录文件打包功能 3.修复手机端提交话题编辑器上传图片错误 4.增加后台服务器节点时间显示 5.Spring Framework更新为5.0.7版本 6.Spring Security更新为5.0.6版本 简介 巡云轻论坛系统采用JAVA+MYS
  ## [企业级 JavaScript 数据网格 ag-Grid 发布 18.1.0 版本](https://www.oschina.net/news/97716/ag-grid-18-10-released)
  > 企业级 JavaScript 数据网格 ag-Grid 18.1.0 版本已发布，ag-Grid 是支持 Javascript / React / AngularJS / Web 组件的高级数据网格/数据表。 本次发布的 18.1.0 版本是一个次要版本，更新主要集中在 bug 的修复。 详细更新内
  ## [开源 UNIX 操作系统 NetBSD 8.0 RC2 最终候选版发布](https://www.oschina.net/news/97715/netbsd-8-0-rc2-released)
@@ -115,10 +145,6 @@ categories: IT NEWS
  > Node v10.4.0 已发布，该版本值得关注的更新是已提供处于实验阶段的 DNS 模块功能，此外还包括一些改进，如对 worker 的支持。 dns: An experimental promisified version of the dns module is now available. 
  ## [Ember 3.2 ：包含 Ember.js, Ember Data 和 Ember CLI](https://www.oschina.net/news/97711/ember-3-2-released)
  > Ember 3.2 现已发布，Ember 3.2 项目包括 Ember.js, Ember Data 和 Ember CLI。 Ember.js Ember.js 是一个 Web 应用程序的核心 JavaScript 框架。它极大地减少了构建任何 Web 应用程序所需的时间、精力和资源。它致力于通过
- ## [Python Web 框架 Django 1.11.14 和 2.0.7 发布](https://www.oschina.net/news/97710/django-2-0-7-and-1-11-14-released)
- > Python Web 框架 Django 1.11.14 和 2.0.7 已发布，官方表示，这是一次 bug 修复版本的发布。主要修复了以下的 bug： 1.11.14 Fixed WKBWriter.write() and write_hex() for empty polygons on GEO
- ## [key-value 存储系统 RocksDB v5.14.2 发布，bug 修复](https://www.oschina.net/news/97709/rocksdb-5-14-2-released)
- > RocksDB v5.14.2 已发布。该版本主要是修复了 bug。具体如下： 在 NewSstFileManager() 中将 bytes_max_delete_chunk 的默认值改为 0，因为它与检查点不兼容 为 RocksJava Mac Release 版本设置 DEBUG_LEVEL=0
  ## [挨踢部落故事汇第五期分享进行时](http://news.51cto.com/art/201807/577861.htm)
  > 挨踢部落故事汇第五期分享进行时
  ## [这可能是把Docker概念讲的最清楚的一篇文章](http://cloud.51cto.com/art/201807/577775.htm)
@@ -139,40 +165,12 @@ categories: IT NEWS
  > 在综合布线时，遇到弱电线该如何设计，这篇文章主要讲弱电线布线的四个注意事项，弱电线的种类如：电话线、
  ## [网络管理的六大关键趋势](http://network.51cto.com/art/201807/577868.htm)
  > 本文从云服务和网络工具集挑战的广泛影响，到操作(NetOps)和IT安全之间的融合，揭示了几个值得关注的现象，
- ## [入行 AI，如何选个脚踏实地的岗位？](https://blog.csdn.net/GitChat/article/details/80912831)
- > 入行 AI，如何选个脚踏实地的岗位？
- ## [Flutter从入门到实战](https://blog.csdn.net/u013132758/article/details/80474494)
- > Flutter从入门到实战
- ## [Jim Zemlin：中国是开源最重要的市场](https://blog.csdn.net/sunhf_csdn/article/details/80899921)
- > Jim Zemlin：中国是开源最重要的市场
- ## [iOS-性能优化深入探究](https://blog.csdn.net/qiuxuewei2012/article/details/80901748)
- > iOS-性能优化深入探究
- ## [知识图谱之社交网络分析（SNA）之python处理](https://blog.csdn.net/HHTNAN/article/details/80902337)
- > 知识图谱之社交网络分析（SNA）之python处理
- ## [让DeepLearning4j阅读小说并给出关联度最高的词](https://blog.csdn.net/tianyaleixiaowu/article/details/80880627)
- > 让DeepLearning4j阅读小说并给出关联度最高的词
- ## [Nginx 学习笔记](https://blog.csdn.net/aimomo007/article/details/80859783)
- > Nginx 学习笔记
- ## [阿里“AI搭配师”一秒给你100种穿搭建议，程序员进军女性时尚靠什么？](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80912828)
- > 阿里“AI搭配师”一秒给你100种穿搭建议，程序员进军女性时尚靠什么？
- ## [IP地址分类详解](https://blog.csdn.net/dearbaba_8520/article/details/80853216)
- > IP地址分类详解
- ## [国企程序员是一种怎样的体验](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80912814)
- > 国企程序员是一种怎样的体验
- ## [BAT的薪资到底有多高？福利待遇怎么样？](https://blog.csdn.net/t46RYuqj/article/details/80912805)
- > BAT的薪资到底有多高？福利待遇怎么样？
- ## [程序猿秃顶算工伤吗？](https://blog.csdn.net/rlnLo2pNEfx9c/article/details/80906309)
- > 程序猿秃顶算工伤吗？
- ## [Google开启全新图像目标检测大赛，场景多样性和复杂度史无前例](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80912822)
- > Google开启全新图像目标检测大赛，场景多样性和复杂度史无前例
- ## [DeepMind新突破：雷神之锤3战场AI夺旗，团战胜率超过人类](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/80912824)
- > DeepMind新突破：雷神之锤3战场AI夺旗，团战胜率超过人类
- ## [如何在工作中如鱼得水?有三点很重要。。。](https://blog.csdn.net/DP29syM41zyGndVF/article/details/80912216)
- > 如何在工作中如鱼得水?有三点很重要。。。
  ## [Visual Studio 与 Eclipse，谁是最强 IDE？](https://blog.csdn.net/csdnnews/article/details/80912604)
  > PYPL 7 月最新 IDE 指数榜单 Top IDE index ...
  ## [李彦宏：百度吹过的牛逼今天实现了！](https://blog.csdn.net/csdnnews/article/details/80912613)
  > 今天，在北京进入桑拿天的 36℃ 里，2018 百度 AI 开发者大...
+ ## [美图的双重困局](http://www.lanjingtmt.com/news/detail/36303.shtml)
+ > 在美图两大业务板块中，互联网业务用户基数大但商业模式难打通，不得不推进的硬件业务，也四面临敌。在这样的背景下，美图今年急需“改变”，面临“双转型”压力。
 # 人工智能 
  ## [入行 AI，如何选个脚踏实地的岗位？](https://blog.csdn.net/GitChat/article/details/80912831)
  > 入行 AI，如何选个脚踏实地的岗位？
