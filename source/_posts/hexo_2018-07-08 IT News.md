@@ -1,7 +1,7 @@
 ---
 title: 2018-07-08 IT News
 copyright: true
-date: 2018-07-08 09:00:57
+date: 2018-07-08 10:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -85,6 +85,8 @@ categories: IT NEWS
  > Taro 0.0.68 发布了，Taro 是由京东 - 凹凸实验室打造的一套遵循 React 语法规范的多端统一开发框架。更新内容如下： Bug Fixes 修复swiper 初始化自动播放问题 (7395fb0) cli: 修复 tsconfig.json 设置，加入 typing 依赖. clo
  ## [Chef 14.3.34 发布，自动化服务器配置管理工具](https://www.oschina.net/news/97795/chef-14-3-34-released)
  > Chef 14.3.34 发布了，Chef 是一个系统集成框架，为整个架构提供配置管理功能。 更新内容如下： Prevent failures using windows_feature due to the platform helper 7433 (tas50) Fix dupe stdout
+ ## [感融科技董事长宋屹东：物联网+区块链建立线下多模共识 赋能供应链金融](http://iot.51cto.com/art/201807/578186.htm)
+ > 感融科技董事长宋屹东：物联网+区块链建立线下多模共识 赋能供应链金融
  ## [深入学习Redis高可用的基石：主从复制](http://developer.51cto.com/art/201807/578039.htm)
  > 深入学习Redis高可用的基石：主从复制
  ## [如何使用knockd让黑客看不见你的服务器?](http://netsecurity.51cto.com/art/201807/577870.htm)
@@ -99,8 +101,8 @@ categories: IT NEWS
  > 比特币价格下跌70%，1000种加密币已经“死亡”，你还敢买吗？
  ## [OpenStack环境中运行大数据系统的四大存储问题](http://network.51cto.com/art/201807/577898.htm)
  > OpenStack环境中运行大数据系统的四大存储问题
- ## [区块链做不了什么？能保数据不被篡改却不能保准确](http://blockchain.51cto.com/art/201807/577865.htm)
- > 区块链做不了什么？能保数据不被篡改却不能保准确
+ ## [关于流量漫游费取消的9点正见](http://network.51cto.com/art/201807/578184.htm)
+ > 7月1日，流量漫游费正式取消，加上去年取消的手机漫游费，至此，漫游费将成为历史，在媒体和公众沉浸在评估
  ## [从全球最好的2G网络到全球最好的物联网网络，NB-IoT需要怎么做？](http://iot.51cto.com/art/201807/578185.htm)
  > 过去的20年，我们形成了全球最好的2G网络，并已经承载起全球最多的物联网连接；未来，基于NB-IoT/eMTC的蜂
  ## [5G商业模式论：运营商恐将失去主导权？](http://network.51cto.com/art/201807/578183.htm)
@@ -148,36 +150,6 @@ categories: IT NEWS
  ## [国企程序员是一种怎样的体验](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/80912814)
  > 国企程序员是一种怎样的体验
 # 人工智能 
- ## [AI应用开发实战系列之四 - 定制化视觉服务的使用](https://blog.csdn.net/SoftwareTeacher/article/details/80954568)
- > AI应用开发实战系列之四 - 定制化视觉服务的使用
- ## [Python实现感知机算法](https://blog.csdn.net/Airuio/article/details/80948410)
- > Python实现感知机算法
- ## [简述主动学习](https://blog.csdn.net/qq_25680531/article/details/80948494)
- > 简述主动学习
- ## [pandas 缺失值与空值处理](https://blog.csdn.net/lwgkzl/article/details/80948548)
- > pandas 缺失值与空值处理
- ## [架构之美-最强卷积神经网络架构设计初想](https://blog.csdn.net/weixin_42570446/article/details/80948692)
- > 架构之美-最强卷积神经网络架构设计初想
- ## [Tensorflow猫狗识别模型在Android上的部署](https://blog.csdn.net/wlkdb/article/details/80948705)
- > Tensorflow猫狗识别模型在Android上的部署
- ## [在ROS中使用tensorflow进行人体姿态识别](https://blog.csdn.net/bluewhalerobot/article/details/80948825)
- > 在ROS中使用tensorflow进行人体姿态识别
- ## [数据仓库-关系模型和维度模型](https://blog.csdn.net/sinat_28472983/article/details/80948943)
- > 数据仓库-关系模型和维度模型
- ## [TensorFlow实战：Chapter-9下(DeepLabv3+在自己的数据集训练)](https://blog.csdn.net/u011974639/article/details/80948990)
- > TensorFlow实战：Chapter-9下(DeepLabv3+在自己的数据集训练)
- ## [机器学习笔记6——无监督学习（聚类算法）](https://blog.csdn.net/qq_40597317/article/details/80949123)
- > 机器学习笔记6——无监督学习（聚类算法）
- ## [Python学习笔记：Day 12 编写日志列表页](https://blog.csdn.net/lvsehaiyang1993/article/details/80949143)
- > Python学习笔记：Day 12 编写日志列表页
- ## [Python空间数据处理1： GDAL读写遥感图像](https://blog.csdn.net/qq_23589775/article/details/80949178)
- > Python空间数据处理1： GDAL读写遥感图像
- ## [神经网络与深度学习笔记（一）](https://blog.csdn.net/weixin_37904412/article/details/80949181)
- > 神经网络与深度学习笔记（一）
- ## [Adaboost算法原理分析和实例+代码（简明易懂）](https://blog.csdn.net/caicai2526/article/details/80949201)
- > Adaboost算法原理分析和实例+代码（简明易懂）
- ## [反向传播算法推导-全连接神经网络](https://blog.csdn.net/SIGAI_CSDN/article/details/80949315)
- > 反向传播算法推导-全连接神经网络
  ## [【python数据挖掘课程】二十四.KMeans文本聚类分析互动百科语料](http://blog.csdn.net/eastmount/article/details/80935427)
  > 这是《Python数据挖掘课程》系列文章，也是我上课内容及书籍中的一个案例。本文主要讲述文本聚类相关知识，包括中文分词、数据清洗、特征提取、TF-IDF、KMeans聚类等步骤。本篇文章为基础性文章，...
 
