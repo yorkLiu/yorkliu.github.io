@@ -1,7 +1,7 @@
 ---
 title: 2018-07-08 IT News
 copyright: true
-date: 2018-07-08 08:00:42
+date: 2018-07-08 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -47,6 +47,38 @@ categories: IT NEWS
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
 # IT 技术 
+ ## [LLVM 6.0.1 发布，编译器架构](https://www.oschina.net/news/97813/llvm-6-0-1-released)
+ > LLVM 6.0.1 发布了。LLVM 是 Low Level Virtual Machine （低级虚拟机）的简称，这个库提供了与编译器相关的支持，可以作为多种语言编译器的后台来使用。能够进行程序语言的编译期优化、链接优化、在线编译优化、 代码生成。 该版本暂未提供独立的更新内容，可参考 6.0.
+ ## [OpenCV 2.4.13.7 发布，计算机视觉库](https://www.oschina.net/news/97812/opencv-2-4-13-7-released)
+ > OpenCV 2.4.13.7 发布了，暂无更多更新内容。详情请看发行主页，官方更新页或点击提交记录了解更多。 OpenCV 是 Intel 开源计算机视觉库。它由一系列 C 函数和少量 C++ 类构成，实现了图像处理和计算机视觉方面的很多通用算法。 OpenCV 拥有包括 300 多个C函数的跨平
+ ## [Apache Tomcat 7.0.90 发布，开源 Web 应用服务器](https://www.oschina.net/news/97811/tomcat-7-0-90-released)
+ > Apache Tomcat 7.0.90 发布了，Apache Tomcat 是 Java Servlet、JavaServer Pages、Java 表达式语言和 Java WebSocket 技术的开源实现，是一个免费的开放源代码的 Web 应用服务器。 更新内容如下： Add the Remo
+ ## [Hacker News 6 月招聘趋势，React 根本停不下来](https://www.oschina.net/news/97810/jun-no-signs-of-slowing-for-react)
+ > 2018 年 6 月 Hacker News 招聘趋势已经发布，JavaScript 库 React 在连续12次占据榜首之后，并没有减缓趋势，又一次成为招聘所需的主要技能。 React 指数在6月达到了新的高度，超过 28％ 的 React 帖子被提及，以大幅度领先的姿态第13个月位居榜首。大约在
+ ## [提起几大编程语言的创造者，你脑中浮现的是什么？](https://www.oschina.net/news/97809/creater-of-c-cpp-python-java)
+ > 创造现在主流编程语言的程序员们，都怎么样了？ 提起灯泡的发明者，你可能想起亨利·戈培尔，提起印刷术，你可能会想到毕昇。 这些伟人离我们太远太远，但当提起 C++、python、Java 时，他们的发明者又离我们如此的近，至少他们还在世上，也在工作，但似乎他们的现状都不太好。 伟大的C语言缔造者 丹尼
+ ## [Go IPFS v0.4.16 rc2 发布，点对点分布式文件系统](https://www.oschina.net/news/97808/go-ipfs-0-4-15-rc2-released)
+ > Go IPFS v0.4.16 rc2 发布了。IPFS 是一款点对点的分布式版本文件系统，，试图将所有具有相同文件系统的计算设备连接在一起。它结合了 Git、BitTorrent、Kademlia、SFS 和 Web 的优势。 它就像一个 bittorrent 群，交换 git 对象。 更新内容如
+ ## [因窃取用户数据，Stylish 从 Firefox 与 Chrome 下架](https://www.oschina.net/news/97807/chrome-and-firefox-move-stylish-add-on)
+ > 近日，谷歌和 Mozilla 将 Stylish 插件从其各自的应用中心删除。一份 bug report 显示，Stylish 暗中记录用户的浏览器历史记录并将数据发送到远程服务器，Mozilla 对此作出了说明，而谷歌则直接将其从扩展中心下架。 最早是一位软件开发人员 Robert Heaton 
+ ## [码云推荐 | 200 行 JS 代码实现的音乐播放器 Zplayer](https://gitee.com/supperzh/zplayer)
+ > 史上最精简的音乐播放器，200多行js实现所有功能！拖拽无顿感。
+ ## [KUI for React  — 高性能 UI 组件库](https://www.oschina.net/p/kui-react)
+ > KUI for React 是一个前端 UI 组件库，基于 React，追求完美和性能高效，主题可以根据自己的喜好，和项目定制的风格来开发，可以定制颜色和圆角风格。
+ ## [性能优化：实时 SQL 优化、业务字段冗余、离线计算](https://my.oschina.net/u/2371923/blog/1841088)
+ > 在项目中，随着时间的推移，数据量越来越大，程序的某些功能性能也可能会随之下降，那么此时我们不得不需要对之前的功能进行性能优化。如果优化方案不得当，或者说不优雅，那可能将对整个系统产生不可逆的严重影响。
+ ## [协作翻译 | GitHub 的 MySQL 高可用性实践分享](https://www.oschina.net/translate/mysql-high-availability-at-github)
+ > GitHub 使用 MySQL 作为所有非 git 仓库数据的主要存储, 它的可用性对 GitHub 的访问操作至关重要。GitHub 站点本身、GitHub 的 API、身份验证等等都需要进行数据库访问。
+ ## [OSChina 周日乱弹 —— 请照片里的自己提交辞职报告](https://my.oschina.net/xxiaobian/blog/1842157)
+ > 7月2日15时，沈城室外气温高达32℃。十字路口，一辆私家车与一辆电动车发生剐蹭，骑电动车的六旬老者摔倒在地爬不起来。老者说：“快扶我起来，我有医保，我不讹人，地上太热了，我要被烤熟了……”
+ ## [运维利器 RunDeck v3.0.0-beta1，服务器自动化操作](https://www.oschina.net/news/97801/rundeck-3-0-0-beta1-released)
+ > RunDeck v3.0.0-beta1 已发布，RunDeck 是用 Java/Grails 写的开源工具，帮助用户在数据中心或者云环境中自动化各种操作和流程。通过命令行或者 web 界面，用户可以对任意数量的服务器进行操作，大大降低了对服务器自动化的门槛。 该版本暂未提供更新内容，你可以查看 C
+ ## [壁纸竞赛作品征集，获奖作品将收录进 Ubuntu 18.10](https://www.oschina.net/news/97800/ubuntu-18-10-wallpaper-contest-is-now-open)
+ > 近日，Ubuntu 成员 Nathan Haines 在网站上宣布，即将推出的 Ubuntu 18.10（Cosmic Cuttlefish）的 Ubuntu Free Culture Showcase（自由文化展览）壁纸竞赛现已开放参赛。 他在文中表示，Ubuntu 自由文化展览旨在收集来自世界各
+ ## [谷歌发布 7 月 Android 补丁，修复多个致命漏洞](https://www.oschina.net/news/97799/google-july-2018-android-patches)
+ > 近日谷歌发布了 2018 年 7 月的 Android 补丁，解决了操作系统中的 44 个漏洞。 据了解，这 44 个漏洞包括 Framework、Media Framework、Kernel 和 Qualcomm 组件，以及 Qualcomm 闭源组件问题，其中致命漏洞是远程代码执行，其他漏洞包括
+ ## [SOFABoot 2.4.2 发布，蚂蚁金服开源研发框架](https://www.oschina.net/news/97798/sofaboot-2-4-2-released)
+ > SOFABoot 2.4.2 发布了，SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户
  ## [Mastodon v2.4.3rc2 发布，开源社交网络服务器](https://www.oschina.net/news/97797/mastodon-2-4-3-rc2-released)
  > Mastodon v2.4.3rc2 发布了，Mastodon 是一个免费的开源社交网络程序，一个商业平台的替代方案，避免了单个公司垄断你沟通的风险。选择你信任的服务器，无论选择的是哪个，你都可以与其他人进行互动。任何人都可以运行自己的 Mastodon 实例，并无缝地参与到社交网络中。 更新内容如
  ## [Taro 0.0.68 发布，修复 swiper 初始化自动播放问题](https://www.oschina.net/news/97796/taro-0-0-68-released)
@@ -69,6 +101,22 @@ categories: IT NEWS
  > OpenStack环境中运行大数据系统的四大存储问题
  ## [区块链做不了什么？能保数据不被篡改却不能保准确](http://blockchain.51cto.com/art/201807/577865.htm)
  > 区块链做不了什么？能保数据不被篡改却不能保准确
+ ## [从全球最好的2G网络到全球最好的物联网网络，NB-IoT需要怎么做？](http://iot.51cto.com/art/201807/578185.htm)
+ > 过去的20年，我们形成了全球最好的2G网络，并已经承载起全球最多的物联网连接；未来，基于NB-IoT/eMTC的蜂
+ ## [5G商业模式论：运营商恐将失去主导权？](http://network.51cto.com/art/201807/578183.htm)
+ > 目前看，行业市场将是5G故事的主角，而电信运营商对行业的理解还从来没有深入过，始终作为管道者的角色存在
+ ## [无卡时代，eSIM在物联网圈“混”的开吗？](http://iot.51cto.com/art/201807/578182.htm)
+ > 手机的基本功能不变SIM也没有革命性的变革，但时代正推动SIM卡变革。本文探讨了引入eSIM和嵌入式通用集成电
+ ## [数据科学大Battle，你站Python还是R](http://zhuanlan.51cto.com/art/201807/578181.htm)
+ > Python 或 R，这是一个问题。在数据科学工作中，你可能也经常遇到这个选择困难问题。本文作者Brian Ray基于
+ ## [数据库主从不一致，怎么解？](http://zhuanlan.51cto.com/art/201807/578180.htm)
+ > 在聊数据库与缓存一致性问题之前，先聊聊数据库主库与从库的一致性问题。下面，我们一起来看。
+ ## [止步四强，我们分析了内马尔本次世界杯的43次“倒地”数据](http://zhuanlan.51cto.com/art/201807/578179.htm)
+ > 《华尔街日报》对巴西的前四场世界杯比赛进行了分析，尤其关注到了内马尔的倒地数据，从不一样的角度，为这
+ ## [自然语言处理（NLP）助力解决社会工程攻击问题](http://netsecurity.51cto.com/art/201807/578178.htm)
+ > 社会工程是一个非常普遍却鲜有解决方案的威胁类型。现在，两位研究人员正试图通过一种新型工具来降低攻击者
+ ## [Java 的双重分发与 Visitor 模式](http://zhuanlan.51cto.com/art/201807/578177.htm)
+ > 谈起面向对象的程序设计时，常说起的面向对象的「多态」，其中关于多态，经常有一个说法是「父类引用指向子
  ## [区块链智能合约及形式化验证平台 VaaS 讲解](https://blog.csdn.net/valada/article/details/80892740)
  > 区块链智能合约及形式化验证平台 VaaS 讲解
  ## [深入分析 B2B 大数据应用，带你成功互联网转型](https://blog.csdn.net/valada/article/details/80892727)
