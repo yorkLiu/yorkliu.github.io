@@ -1,51 +1,51 @@
 ---
 title: 2018-07-09 IT News
 copyright: true
-date: 2018-07-09 08:00:46
+date: 2018-07-09 09:03:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [揪出流氓软件!工信部联合手机应用商店推出“高品质APP”](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=VjYGWDsNIq2xSnNUQH90deSf5pH4RoB0iw3iQMItbwUbcBH0UnWj0wNQ8uDXPax0EuPaiFIDmqt6vLd4cFkS0yb59m4zEYmHwGY2d*NAToKbqe4PwNJMdHCX8uhhVAEn&new=1)
- > 俺主编君够科枝，慎关注！近段时间部分应用不合理调用手机前置摄像头、麦克风权限的现象，引发了广大智能手机用户对隐私保护的关注。为了整治、规范应用的标准，工信部出手了。日前，工信部移动应用云测平台智测...
- ## [5G已来，是时候谈谈6G了](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=QAI6QXHQEO1N3KQSHfZaUCtnUTYbfVSd6CM7Q7v44T3I5rtE8MOAMc3OLougaZQZtnhofha-wSHOWn2L1jZkIRuKUrZK*RTEe7P-h3S7eYRfiH6mzN2FDUwAeu9mD8qD&new=1)
- > 什么？！5G还未开建，你就要谈6G了？先不要打我，请听我讲完，再打。首先，展望6G其实是揭开5G神秘面纱的另一种方式。其次，移动网络已经停不下来，网速要更快，覆盖要更好，连接要更稳，应用要更多… 通信业必...
- ## [小米将于明日在港上市,雷军发布公开信 世界上首座浮动城市将于2022建成|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=7fg*BLzhhF1W7SWqZylfJ0LrEzPYiCEuy5uLWfVQzQqz7SCg9J7Aw4pV1OgXeHyWhG3MX14bWKr3wZHujvSphMfPX*Tz5q2qmUgTVfcKBrzGutHrTQGPjwvGjMXjrXSn&new=1)
- > 精选新闻小米将于明日在港上市, 雷军发布公开信新浪科技讯 7月8日上午消息，小米将于7月9日在港交所正式挂牌上市。小米创始人、董事长兼CEO雷军今日发布公开信称，小米IPO发行价 17元港币，估值 543亿美元，已经...
- ## [湖北联通提前进入IPv6网络时代](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=pXqz1g94K3T*A9wQknshOcZbxoXsuCvbUGOjXAMAG6lGnEE4rH-U6*N4OZsnoeOx98*Pp*ndIvfjvWJL7YHFXT5QzXyCM6R4Qoqzfws4dTiM*Xs-YoTa*4HU4FBu*wUX&new=1)
- > 7月3日，湖北联通在全省互联网已经完成基础网络的IPv6地址覆盖、IPv6 DNS的上线运行、IPv6地址单双栈功能测试等工作，基本实现IPv6网络的商用能力，以超大范围IP地址空间为全省业务发展提供了更为广阔的天地，率...
- ## [理想三旬：一位电信基层员工的自白](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=TMsgkTGw3rBCorQHVgMF*dAEhUXIFyaTYaxbueh76CDpvfJAI9xQMVKczFHNyRUyaahkB7BeONfZupdzE2GhkoKSQrOc*wqPRQbNYSOK-qsvWJF6WrNkvD8GG8FfhcAg&new=1)
- > 作者 围小城来源 围城行者十几岁的年少懵懂，初遇情殇，恋人已经离散；二十岁人生辗转，漂泊虚度，却也心怀渴望；三十岁不再纠结过往，与自己和解，前尘往事偶尔提一提便罢，不再念念不忘。路途中遇过的那些电信...
- ## [美研究人员公布“盲动”机器人技术细节 可用于危险工作环境](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=PCHcfUozq-ooj*Q7MJgqj0jz5JCPfntWPdGp6bZR-2UxsvI-WiPchlTTiyuIPAwfo0x*Kix7wwr-affmgIWbPFSn5jIr6RNUj5t8kQtJLIJyi9CUaNZi9ZlLYevw7ZvY&new=1)
- > 美国麻省理工学院近日发布公报称，该校研究人员最新公布了一种“盲动”机器人的技术细节。这种机器人不需要借助视觉系统，可在崎岖地形中穿行跳跃，有望在危险工作环境中得到广泛应用。公报介绍说，“猎豹3号”...
- ## [阿里王坚：别把智慧城市做成怪物](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=LJYq1c8v*UTx41upaUB5RN212bXxTq2VfTWG9mJTWd6EUot79xRKIDy2tXjkZ1wHnF6P*yx50qRTAKNOWXxuU8Jr4TYAiD5ZxJ6gwqgc65AAE8OU*7L1E7hS1GsF2K4N&new=1)
- > 日前，在TechCrunch 2018 国际创新峰会上，阿里巴巴集团技术委员会主席、阿里云创始人王坚博士出席并参加了主题为“对话：城市大脑”对话环节，并就城市大脑、人工智能和创业等话题发表了自己独特的观点。目前还...
- ## [研究人员：去年每一次的ICO平均有五个漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=*S4GzoeDP8YKGbohjHZH-fqGdudmk0fg7lkHf9lWZTbaV0d7fD8oo4nwPPI4V3WQmYO8JBvlQeuuUVk4DyjLbmLurMWrxEZUI8iJmEf*ZsL9YcKI79xMCm29q3wHST8K&new=1)
- > 根据安全研究人员的调查发现，在去年每一次的加密货币ICO（首次币发行）都平均包含五个安全漏洞，其中只有一次ICO不包含任何严重的安全漏洞。根据Positive.com提供的信息，其中的大部分漏洞都存在于智能合约中。...
- ## [因窃取用户数据 Stylish从Firefox与Chrome下架](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=PefB9iNqAdubvNMKf*M2txEXKNe2KGhscQpoGRcIwonhNIbu7Hr6VLI7kaRaeBh0qYV97GZQaJwI3LWetZ93mcy6BpGcyS7AbxNn80dgy2FdGi2T8YqBtwbHiP7953u8&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com近日，谷歌和 Mozilla 将 Stylish 插件从其各自的应用中心删除。一份 bug report 显示，Stylish 暗中记录用户的浏览器历史记录并将数据发送到远程服务
- ## [别了，一代手机巨头!HTC在下坡路上猛踩油门，股价暴跌96%!](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=p8sRNs617iOMZLS0qjdRDRj7j*cSWvVbHHxYX*1I7TMCGXalNKZCLnXYiQrAOa7z4k7Qg9f5B6cccVWMKh0XCB8lRZzvNO*ml5x5XXzs7Tg8z3K8hslVYdZ2HVmRFI0m&new=1)
- > 原载于中国经济网（ID：ourcecn）台湾智能手机制造商HTC公告称，其6月份的销售额下降了近68%，为2年多以来的最大跌幅。这家曾经的安卓手机王者，给了一脚地板油，正在下坡路上越飙越快。HTC表示，他们6月销售额...
- ## [成都3D打印产业发展深度解析](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=F7tX2wfFJsl1ymmF*Ng-zSBYI1NH5kn-AAiOy2ut7UXbi1DUgV*SfdfQG1XyEZ-XedTyloM1Ntxe5f*TkZpRHTjE8G4GGJNlfltJmCdSj5ouLPMgXUuZfeLpkP9*NpAZ&new=1)
- > 3D打印一种基于离散——堆积原理成形实体零件的新型制造技术，它已成为加快制造业转变发展方式和提质增效升级的重要手段，是新一轮工业革命的重要标志之一。当前，增材制造产业已进入产业化应用的高速发展期，通...
- ## [大屏时代，该轮到冰箱当主角了](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=i9FvRV3ky4ZI-SP8hSF3jy0iSb79id*gbKLohfmZDDwhbualwX7JPymbU8*Cy2YPle88mukh1pI9SYTfiewcuPm3d8G6ddHFsQatMcnE-JKAilWY6nsVwZZNWm2S8FPm&new=1)
- > 近几十年来的科技革命，几乎可以等同于一场屏幕革命。屏幕从无到有、从小到大的进化呈现出不可逆的趋势，大到汽车，小到手机、手表，越来越多的东西上开始有了屏幕，而且越来越大，触控、手势甚至语音这样的操作...
- ## [这个神器终于让我知道国产应用有多流氓了!](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=nqu8rOLPMrJZ5ZYGtyqussSAM-qjerEqZXstegUCs5zZusTlMrcQkDyO4fJ2M3l4LSWy*QqkbMvT4l8LQe86ueOKzIjZzjqdFtqyP9qN98pXmYaXswbSUaGqXr9vzAxD&new=1)
- > 将「雷科技」设为星标，不再错过精彩推送vivo NEX 系列手机一经推出，便受到追捧，俨然已经成为当下“国产手机之光”。消费者们总是津津乐道 vivo NEX 那夸张的屏占比，实用性大增的屏幕指纹功能，和比较炫酷的...
- ## [专栏|流量漫游取消，但你可能因此多花钱](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=XITa9k1iBI2KbMf2XOBDxtEocDa3rgcA-JRhpLSeZBl3a-eMSiTDRhVwLttcT*7kwEO1LNTv9KEPjaN-xcJeJhqH3cFTkFHAPDTCTyBkyGt7OKB5ZCKGUkY1xq7d8Pnq&new=1)
- > 这是自去年9月1日三大运营商陆续取消全国电话漫游之后，运营商又一次的大幅让利，从此省内、全国流量的区别成为历史。政策推出之后，得到无数舆论和用户的关注，大家都想知道自己是不是真的可以少花钱。同时也在...
- ## [涨姿势!遭遇“呼死你”电话骚扰怎么办?你确定不来Get一下?](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=yhn8woW*R*aVwwR1FyI1yZuDKAGj6qM6qRjYdTwkCJtmUI2mMScVGs2zs9cqCGh*PFlsIDpuRzi1c0Tb*E4Wwqw0Y9SnQzT7q*dcMvVRZFxkuedWRjHBAMJDw5JKldDL&new=1)
- > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位遭遇“呼死你”电话恶意骚扰，严重影响手机的正常使用怎么办？针对这个问题编特意到网上搜集了一些相关资料，希望对大家有所帮助。那么，接下来我们就...
- ## [“携号转网”真能把中国移动打垮吗?别太天真!](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=0nLHZ2hlYZgJ4lK1iK52fCl7Y5fL8Sql-7bvzFNdbVL4CapFHll6Q8IIZlTXFY6fjG6v6E2MfJ4HijYp8Qu1ny4vMLpQi-4H7LSXOcgherhb4-9X-0u9eshB0-EniMlI&new=1)
+ ## [“携号转网”真能把中国移动打垮吗?别太天真!](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=0nLHZ2hlYZgJ4lK1iK52fCl7Y5fL8Sql-7bvzFNdbVL4CapFHll6Q8IIZlTXFY6fgAAgUDFfY*e9ZieJjZukou85c*zCNdXCXQCH*qk*1cEJ35Q4mi6G3kfSQ2r0x1t7&new=1)
  > 网络上，对中国移动的吐槽比比皆是。很多中国移动用户表示，一旦开通携号转网，坚决不用中国移动。甚至，相当一部分人表示，一旦开通携号转网，中国移动必然会被打垮。但，携号转网，真的能打垮中国移动吗？小编...
- ## [边缘计算大热 获得安防青睐](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=Tt0FXgB4*ZI*ygV3mwcA0nSmwScDa9Wek4aKgHYwkewGHbgRCREgYgOlvugo*2rqO8FFbmLvtptvg7Gc4d92jBFGt1loKhWgEhn0ZRg2DzCBnLPYN9sd9u3a-2kAuuYs&new=1)
- > 物联网的发展让大量设备开始联网，在互联网边缘产生了海量数据，边缘计算以其精准高效的实时响应速度获得了青睐。 据IDC发布的《中国制造业物联网市场预测2016-2020年》报告显示，2018年将有40%的数据需要在网络...
- ## [App Store影响10亿人!但好日子也快到头了](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=q9jx4vmnWzWsrksJeUa6fQt4rs2dIQ-Kg24VXAr8DVbMGYBDZQ9TZ-Ic3OF-C3J6JkTWdYLytra2YQ4xG9vUOiJzbnY0XWfub7euFjdygq*2W4YGME9vFceyrZ1CdTBx&new=1)
- > 苹果在2008年正式推出了App Store服务，当时最初上线时，整个商店仅有500多个APP。十年之后这一数字已经成长至220万个APP。据App Annie报告，2010年7月以来，iOS应用商店总下载量超过1700亿次，营收超过130
- ## [不敌英特尔，高通服务器技术副总裁离职](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=gR118nAlojrcqb*toboWn64yR3OCqkSRO0O3QyutO58t8vJfOmDvrrG1vEIPUlzSmWGP3E4LmFyHXm7IQa8-iRX3YJV34D8Ce*NxuCf55yFON*rPnDbbuN5ZobWf8mAh&new=1)
- > 作为在移动领域的领头羊，高通虽然在便携设备市场叱咤风雨，但在桌面以及服务器市场上并不是一帆风顺的。高通于 2014 年宣布进军服务器市场，基于 ARM 架构打造自家的服务器芯片，成立了 QDT 即高通数据中心事业...
- ## [配天推出AIR6L，人与机器将越来越紧密](http://mp.weixin.qq.com/s?src=11&timestamp=1531092606&ver=987&signature=q5i*yMAR5BUh1Jt5svpler1JliZvqaedGrG3RRX2aG3wPVbPoDHVGMWroj5iKB0KRSsqfgvV8idTGcu6NXVcUx63K80iMhSgv0s4V*PG6nqL3bj6q1zk9JUxhE6W2jF0&new=1)
- > 工业机器人已经成为智能制造的关键角色，国内外企业纷纷投入大力的研发，不断推动新产品和技术的更新迭代。在CIROS2018中国国际机器人展览会上，配天机器人隆重发布了一款式负载6kg长臂桌面型工业机器人AIR6L，...
+ ## [重磅来袭，机器人四大家族财务报表大揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=2-wr-6NzxjNyAbzJCjKQIYlZcfLdyPGcvHKC9XCHZuZM3AQacNOvNhDTRCbtBUJmNu95EQzvvf3tL6qmWfE8BH-Clphw9cBUSyl55SYcyvCCckTvZ26eFDxp5XvWpJml&new=1)
+ > 来源：华尔街见闻摘要：四大家族实力强劲，在机器人技术与市场占有率上遥遥领先。在2015年之前，四大家族在全球的市占率在50%以上，而随着全球许多细分领域机器人厂商的崛起以及《中国制造2025》推动下国内厂商...
+ ## [阿里王坚：别把智慧城市做成怪物](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=LJYq1c8v*UTx41upaUB5RN212bXxTq2VfTWG9mJTWd6EUot79xRKIDy2tXjkZ1wHzjOyVIeUMpqkiZTEnvRI9ndDJmgpapoRGc8tFRxbilfow2bb9do1heYr9cliGj*K&new=1)
+ > 日前，在TechCrunch 2018 国际创新峰会上，阿里巴巴集团技术委员会主席、阿里云创始人王坚博士出席并参加了主题为“对话：城市大脑”对话环节，并就城市大脑、人工智能和创业等话题发表了自己独特的观点。目前还...
+ ## [工信部披露我国5G进展：年底前推出第一版5G](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=OKaTNBLn7t-vMOHFYUEmgcEwXi-LRKl05p9ICneePpfRcdIUsO4NgG-8DsN2kLeCPcj2PFBgoNX73QIBtQZ68qDYAUEfKq82KPz0WTgM*esBzduS03qNhahbQ5jWve-7&new=1)
+ > 序列号查询查询iPhone激活日期，翻新鉴定，保修状态 据央视报道，在近日举行的2018年5G峰会上，工信部副部长陈肇雄披露了全球和我国在5G标准、商用、设备方面的一些进展。陈肇雄表示，5G第一阶段的国际标准已经...
+ ## [成制裁目标?华为：NO!今年将继续采购美国芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=i686vYJ7nHIvibhxyyqeUpYAnGwkZ2mm1ZH*9EDTa0XtBH4U3QZ-gAcEuvEgMnVj8xPaeo1u1ZF4NCCIeM3pHEcLLoXOArSqMnuh7Zx7EyNncFHJwQmZjcyAdiIi5-q1&new=1)
+ > 据路透社报道，华为三位轮值首席执行官之一胡厚崑对一家法国报纸称，不认为华为会成为美国制裁的目标，今年将继续购买美国芯片。华为称不认为会成制裁目标 今年继续采购美国芯片华为是全球最大的电信网络设备制...
+ ## [美研究人员公布“盲动”机器人技术细节 可用于危险工作环境](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=PCHcfUozq-ooj*Q7MJgqj0jz5JCPfntWPdGp6bZR-2UxsvI-WiPchlTTiyuIPAwf--0Vsmg0iGCArfWJjyzVyfqT8*0Q4ZuXLbpeZ5exKkQpwY44NZHmAtliwxrRKvkv&new=1)
+ > 美国麻省理工学院近日发布公报称，该校研究人员最新公布了一种“盲动”机器人的技术细节。这种机器人不需要借助视觉系统，可在崎岖地形中穿行跳跃，有望在危险工作环境中得到广泛应用。公报介绍说，“猎豹3号”...
+ ## [关注|中兴通讯称已获BIS有限授权临时开展部分业务 为期一个月](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=DzcRzLp7kT*88Dp5Ng8mi132gDkpXQwc4CU6xNTqrK-DeIF9m147m2CkBMY5VmH6grG9jLGKYA82rICBKLU3e6C-dhqv03K63BfLCdVZ5mrHIapvd0jPeDGD9Ul6iPlx&new=1)
+ > 导读中兴通讯7月6日发布公告称：本公司和深圳市中兴康讯电子有限公司于2018年7月2 日收到BIS出口商服务办公室发送的在《美国出口管理条例》第764.3(a)(2)条下的有限授权。BIS据此向“位于E组国家(目前为古巴、伊...
+ ## [别了，一代手机巨头!HTC在下坡路上猛踩油门，股价暴跌96%!](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=p8sRNs617iOMZLS0qjdRDRj7j*cSWvVbHHxYX*1I7TMCGXalNKZCLnXYiQrAOa7zFwkTJ27gh0CUMIZmmqfBndhlSqvFTZ5bEDTCOLpHcPacvRQCXr7BF*SRRv623a2S&new=1)
+ > 原载于中国经济网（ID：ourcecn）台湾智能手机制造商HTC公告称，其6月份的销售额下降了近68%，为2年多以来的最大跌幅。这家曾经的安卓手机王者，给了一脚地板油，正在下坡路上越飙越快。HTC表示，他们6月销售额...
+ ## [终端侧AI应用：所见不过冰山一角](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=wB3NBLdT1eZZ7nfoLfTNs2YWLm9m5WOfqZfynnUmFXMKp6xgXBcc6bXcE04icu-UPLFzJ6kZGR*TSEb1x7l4L3-eL60bV-cN3USHTeQSVuYVBO7vD8lW6TsIhtI6EFXf&new=1)
+ > 人工智能可以说是当今最具变革性的力量，它的出现为很多领域带来了改变：手机、汽车、物联网……而正如过去三十年引领移动创新一样，Qualcomm 在人工智能领域的创新亦将人工智能推向新的高地——我们让终端侧人...
+ ## [Java网络编程之UDP协议](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=1gA9wTq9GgIolA4IezY1f-Owf5ZRsBaBKkWZzyZNBYmGRuG9hSe1Pwt76aYo8dsT3MoDHYphyIeOkm7UQ6ch1gVzf9yrJ6lJ66HcJSCu0CgnukGPxdUfUq3IRtDnrKD5&new=1)
+ > 关键时刻，第一时间送达！今天我们来聊聊网络编程这部分的内容网络编程1）计算机网络是指将地理位置不同的具有独立功能的多台计算机及其外部设备，通过通信线路连接起来，在网络操作系统，网络管理软件及网络通...
+ ## [谷歌为安卓发布月度例行更新修复多个高危安全漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=jlvjgHL*k6RmG60EYNHIuHKKtP9ge*b8DoL7MZmxuWeAlDZjuiiGdFRdc6pQ3K1EQjI9egXgYe3Iy7sHb78fHcUY2p-NqWV-KkQm6NPa*YS*0AZY4M-v-K*2ZNIZAdLS&new=1)
+ > 谷歌公司目前已经已经为安卓系统发布本月的例行安全更新，本次更新为框架和媒体组件修复多个高危漏洞。尤其是高通芯片的无线网络组件被发现多个危急级别的漏洞，危急是谷歌漏洞等级排名比高危还要高的级别。这些...
+ ## [拼命鼓吹5G手机的，不是傻就是坏](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=4*MFghI4wx7ohGgXiQ0PuQE1c6Ba7mA0EzguENuAw9MQ8ntfcb5XhNatvgPiAU0dzzTYPE4252lKhTC1581W5akCSf9KrVUMOpVpQWXd9-5XZnG6aXwSoD3XAOsc8hmM&new=1)
+ > 这些天，也不知道是吃了什么药，机哥看到了大量鼓吹 5G 手机的媒体/手机用户。2018 年就在你耳边 BB 让你买 5G 手机的人...一巴掌拍死好吧？机哥承认 5G 的先进性，承认 5G 是未来一段时间的超高速移动通讯的主...
+ ## [5G已来，是时候谈谈6G了](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=QAI6QXHQEO1N3KQSHfZaUCtnUTYbfVSd6CM7Q7v44T3I5rtE8MOAMc3OLougaZQZFOdHCbC9WtEamZuSei0Zjrt8oco-QUlK3PDPph7bpaNXXsd5fciMUIVpuY3ZJz68&new=1)
+ > 什么？！5G还未开建，你就要谈6G了？先不要打我，请听我讲完，再打。首先，展望6G其实是揭开5G神秘面纱的另一种方式。其次，移动网络已经停不下来，网速要更快，覆盖要更好，连接要更稳，应用要更多… 通信业必...
+ ## [工厂可以有多酷?看看这家智能工厂就知道了!](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=Fn4YYnVhiSdPn9cAqTAtkJtWkX33mGf4I7YORi3qGsFsu0Rtzix72VLK4lZnXxNgnvF4OXX5BekIDg2gkOZD-rPTdYLT9jakuo8rraY4EX0dixZWN*8rnfD8Db9bFeyk&new=1)
+ > 整体交付周期从18天缩短至5-7天，生产效率提升30%，中国第一条信息化高端装备智能制造产线，到底有多牛？智能工厂中，轻微的机械声从不远处传来。一辆黄色的AGV小车正从仓库自动取货，将配件驮送至不同的上料站...
+ ## [世界杯视频直播：电信运营商的一次互联网战争\[宁宇专栏-261\]](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=Ne61DEUBozu3P74iCCifgT9cZnAqJGQeswQqL2PR1HD196jzS1MtD0oOc-udgoEOAZ870EbTL0TcfRetcmPl3PHpHhryT9dwbeAZTdGyJ3zivwYWQpw-m37yt4L8b6tC&new=1)
+ > 【摘要】运营商的互联网战争要一场一场打下去，任重而道远。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑系统部经理，现华为业务软件部专家愿意和大家分享运营商的辉煌与没落，成功与失...
+ ## [揪出流氓软件!工信部联合手机应用商店推出“高品质APP”](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=VjYGWDsNIq2xSnNUQH90deSf5pH4RoB0iw3iQMItbwUbcBH0UnWj0wNQ8uDXPax0ovViuFH0R5fpOw9pIp6WZELdrwHWM7iQa5GZ-UcFIEGtn2Y0D19t2k3hxErMcXky&new=1)
+ > 俺主编君够科枝，慎关注！近段时间部分应用不合理调用手机前置摄像头、麦克风权限的现象，引发了广大智能手机用户对隐私保护的关注。为了整治、规范应用的标准，工信部出手了。日前，工信部移动应用云测平台智测...
+ ## [Oculus被用于太空研究，百度大脑3.0正式推出|本周大新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=VHlJ43sIbdFvDkSB39PSPgDSiLfDoG8*o4KSdBYd3h-T8vpYG-2tToiQExhFMrFjgKEfURxInqAdcKQFXEZBc8zQywDXFxXh0K3enneHF6-XTOXbCGYLir30S8hpr47Z&new=1)
+ > hi188｜ 撰文本周大新闻不断，硬件方面，Oculus宣布降低商业版套装，降价后为800-900美元，发售地区新增四个国家，然而依然没有中国。同时，耐德佳通过青亭网首次公开其最新的空间复用型AR光场显示技术。内容方...
+ ## [因窃取用户数据 Stylish从Firefox与Chrome下架](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=PefB9iNqAdubvNMKf*M2txEXKNe2KGhscQpoGRcIwonhNIbu7Hr6VLI7kaRaeBh07eJJVGr3FPtNlpk4i0m0unGj83Q9pWGk5gGiybFQNacHPsYr5bRlwEbn3Tdmlruq&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com近日，谷歌和 Mozilla 将 Stylish 插件从其各自的应用中心删除。一份 bug report 显示，Stylish 暗中记录用户的浏览器历史记录并将数据发送到远程服务
+ ## [云创大数据公安行业各地总代理招募大会即将火热启动!](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=E*9qtWeFArTGJutA1QpVP74v6OqOqmTDT7RM3q0QVp4*5PNVFfs9NWepI-u7XjBLODPTAJeCXavsU4N1FRhM2DOQWT7ILSkfsdnnqyF0bvJ4ysLE1PoS7ZjGMlyj7uCs&new=1)
+ > 近年来，公安信息化建设收效显著，以前偷盗、抢劫频发的路段，因为有了密集分布的视频监控，已经鲜少出现（据统计，目前中国有1.7亿个摄像头，实际数字只会更多，这种监控密度在欧美不可想象）；因为有了DNA比对...
+ ## [\[C114周报\]中兴改组管理层；中移动或率先实现3G退网；美政府拒绝中移动进入美市场](http://mp.weixin.qq.com/s?src=11&timestamp=1531098006&ver=987&signature=qG1cvP2QfNeEbGzTNMLmC0QU2Xk7g4*BQTBpcv1vfMZs0Ubt7SY9H*pPEvcLJtjoQUzJi7LsIk2ZN6M0JA8mWMZApsWab4y*XcNzIJm8Vrw*Z3oc2P7a22gnUv6cj6BG&new=1)
+ > 周报WEEKLY本周热点有中兴通讯改组管理层；中移动或将于2020年前实现3G退网；美政府要求拒绝中移动进入美市场• 第008期 • 中兴改组管理层：徐子阳当选总裁7月5日中兴通讯第七届董事会第三十二次会议审议通过了...
  ## [怎么看外国人选出的“中国新四大发明”-高速铁路、支付宝、共享单车和网购？](https://www.zhihu.com/question/59709095)
  > 高速铁路和网购也算是中国新四大发明，这是想说一带一路沿线国家没见过世面咯？怎么不去问问德国法国意大利西班牙的小伙子？怎么看？（记者）恬不知耻。
  ## [上海小学生被杀，戾气太重的社会我们该如何自处？](https://www.zhihu.com/question/283019488)
@@ -56,8 +56,6 @@ categories: IT NEWS
  > 也许看看演唱者水平就知道了？这个是李袁杰在明日之子中的一段视频，基础的乐理知识都不懂的人还是抄袭出来的音乐，有什么好值得承认的，而且他唱的时候一些音是飘的。。看完之后感慨了一下，顺便安利一下我们班典典...
  ## [淘宝有哪些好看的裙子？](https://www.zhihu.com/question/39865550)
  > 50多家淘宝店铺，N多条超好看的裙纸~~~我买过的也会放上我的买家秀~~这个回答断断续续写几天了...中途电脑还坏了，一波三折嘤嘤嘤....从我关注的将近300家女装店里挑选出来的，有平价、质量不错的，也有集质量与设计...
- ## [如何看待腾讯 2017 年 11 月上线的微保平台，以及首款产品「微医保」？](https://www.zhihu.com/question/67540981)
- > 腾讯首家控股的保险平台“微保”出现在了微信钱包九宫格，通过微保，用户可以在微信平台上购买保险、查询及理赔。微保推出的首款保险产品是健康险——微医保—医疗险。这是一款百万医疗险，最高保额高达600万元，保费...
  ## [网速慢竟是因为黑宽带，如何避免被黑?](https://www.zhihu.com/question/277373954)
  > 谢邀。之前读书的时候也碰到过黑宽带的情况，价格那叫一个便宜，那时作为学生党当然毫不犹豫的掏腰包了。但是之后就后悔了，白天的网速那叫一个感人，到了半夜才能稍微好些，打客服也是一个劲的敷衍，投诉也没用，后...
  ## [怎么评价马云？](https://www.zhihu.com/question/20333333)
@@ -66,31 +64,31 @@ categories: IT NEWS
  > 腾讯首家控股的保险平台“微保”出现在了微信钱包九宫格，通过微保，用户可以在微信平台上购买保险、查询及理赔。微保推出的首款保险产品是健康险——微医保—医疗险。这是一款百万医疗险，最高保额高达600万元，保费...
  ## [ofo 押金余额仅剩 35 亿元，挪用或超百亿，若属实则意味着什么？会产生哪些影响？](https://www.zhihu.com/question/280584116)
  > 对于国内这帮互联网企业，我最反感的就是不是思考通过合作来谋取更大的收益，而是想方设法把对手弄死之后再垄断谋求超额利润。我本人是神州租车的金牌会员，但是从来没有使用过任何品牌的共享单车。无他，不支持信用...
+ ## [如何评价celer？](https://www.zhihu.com/question/55325889)
+ > 知乎首答首先，我只是来挽尊的(๑•̀ω•́๑)其次，celer是我入站时和白衣少侠裙带关系关注的阿婆主。一步一步见证了他和少侠的爱情故事(雾)。刚开始celer打pb的时候，是以白衣少侠为目标(音乐区曾经pb屠版，白衣p...
  ## [如何评价lexburner发表对galgame的批评言论？](https://www.zhihu.com/question/281785782)
  > 虽然作为一个月球人对lex非常厌恶，但是这个问题也确实比较搞笑了。
- ## [如何评价celer？](https://www.zhihu.com/question/55325889)
- > 这是我来的原因。。。傲娇c妈。可以说是炒鸡可爱了。 （不忍心点赞。521耶～）------------------------------------------------------说实话penbeat还需要再成长。身边了解penbeat的人并不多（我的身边）。c妈他们...
  ## [2018 前端技术规划该包含什么？](https://www.zhihu.com/question/283026037)
  > 一套代码横跨iOS Native/Android Native/Mac Native/Windows Native/微信小程序
- ## [dish hd和麦格iptv哪个更适合家庭？](https://www.zhihu.com/question/21552714)
- > 要说这个或者我比较有经验回答。应该说麦格电视和dishhd是目前看外面世界的主流产品，其中dishhd是卫星电视的代表，这二年比较火爆，网上尤其以楼主所留地址中的那个高清时代论坛为主要论坛代表。麦格电视是近日年的...
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
  ## [京东一直在亏，为什么没有倒闭?刘强东为什么还那么有钱？](https://www.zhihu.com/question/30273224)
  > 选给大家讲一个概念，免费的最高境界------越赔越赚钱！对于高手来说，全世界最难的事情，就是卖产品，他们智商有限，所以他们唯一对于卖产品的事情来说，想到的，只能够是平本，或者赔钱卖。这句话是核心，听得懂这...
- ## [客观的讲小米等手机厂商压低整体手机市场的利润，对中国的整个手机产业发展是利是弊？](https://www.zhihu.com/question/282408410)
- > 按照知乎的传统习惯，我们先问是不是，然后再问是利是弊。我的结论是：小米主要是降低了自己的利润，通过自己的体量规模对行业整体的利润上进行了一定程度的影响。对于其他国产头部玩家——华为，vivo和oppo，有一定...
  ## [淘宝有哪些好看的裙子？](https://www.zhihu.com/question/39865550)
  > 50多家淘宝店铺，N多条超好看的裙纸~~~我买过的也会放上我的买家秀~~这个回答断断续续写几天了...中途电脑还坏了，一波三折嘤嘤嘤....从我关注的将近300家女装店里挑选出来的，有平价、质量不错的，也有集质量与设计...
- ## [nga是一个怎样的论坛？](https://www.zhihu.com/question/34679470)
- > 一个非常神奇的论坛一个手机端app能不明所以突然猝死好几天，官方通告在猝死了一段时间后才姗姗来迟表示服务器更新（拿去卖废铁了），ios周一见结果周三了还没见并且官方装死的一个你经常发现，有的明显违反人家土规...
+ ## [怎样评价斗鱼主播狗贼？](https://www.zhihu.com/question/33941894)
+ > 直播很吵，是真的很吵。炉石现在白天没什么人播，偶尔去狗贼叔叔房间看看战士有没有啥新套路，每次五分钟就X出来了。主要是吹比功底不够深厚，属于嗓门大但是姿势有问题的那种。这其实很有趣。狗贼和涛妹算是斗鱼的...
  ## [为什么台湾的Facebook用户远远多于Twitter用户？](https://www.zhihu.com/question/35337014)
  > 台湾由Facebook一统天下，上到资讯传播，下到即时通讯，中间是本职的关系型社交，全吃掉了（即时通讯line分了一大部分去），这本身就是一种不正常的现象，美国市场早就分化了，大陆也分化了（微博/朋友圈/微信），社...
+ ## [当年盗了马化腾QQ的黑客，后来怎么样了？](https://www.zhihu.com/question/282310269)
+ > 抱歉，我觉得最高赞是有问题的 忘了叫什么，当时他应该是没有给马化腾打电话，是写邮件给腾讯的某位主管，然后那主管第一反应就是“你要干嘛，是要黑我们吗”，然后好像就报警了，，其实网上是能找到文章的， ，，后...
+ ## [建站与备案的具体流程是什么？](https://www.zhihu.com/question/20096648)
+ > 先备案吧，备案要等审核的，审核期间边做网站，备案大概要十来天能才完成，当然也可以买不用备案的服务器快捷一点。
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀。。。这问题问的是如此似曾相识，连语气都是。题主是特地换了小号来问的么？如果不是小号的话：看到你已经翻过知乎不少相关问题的答案了，也看到你手动点过几个赞，楼上庄哥哥也又这么nice地再解释了一遍（真是...
 # IT 技术 
  ## [jstat的小伙伴---找出system.gc的调用的小工具](https://my.oschina.net/xpbob/blog/1842198)
  > 场景分析 现场环境中，造成gc频繁的可能性之一就是通过system.gc主动调用了gc。这种情况出现在开发人员业务代码，或者是jdk自身的代码中（例如nio）。我们可以通过jstat -gccause查看gc的原因，如果真的是system....
- ## [stresstester源码分析](https://my.oschina.net/liuhaihua/blog/1842166)
- > 写在前面 stresstester-1.0.jar是早期淘宝的一个压力测试工具，很方便开发人员进行本地代码的压力测试，其他专门压力测试工具也有很多，如:jmeter loadrunner 等等，本篇文章主要讲一下stresstester的源码设计 先...
  ## [TIOBE 7 月编程语言榜：TypeScript 进入前 50 名](https://www.oschina.net/news/97832/tiobe-index-201807)
  > TIOBE 7 月编程语言指数排行榜已经公布了，本月主角还是 TypeScript。 先看一下前 20 名： 前几名地位依旧稳固，其中 C 还是以令人吃惊的速度，持续大幅度地暴涨，只不过由于 Java 也没落后，所以相比上个月，两者在 7 月反而拉开了一些距离。 需要注意的是，SQL 自 2018 
  ## [React 技能图 2018，目前在 GitHub 上已获 2 千多 Star](https://www.oschina.net/news/97831/react-roadmap-2018)
@@ -127,6 +125,10 @@ categories: IT NEWS
  > 首先预览下,本次发布的核心内容 : - 精细化异常信息输出,以便快速的定位问题  \[Feature\] :new: * 666 com.feilong.core.lang.NumberUtil.getAddValue(Number...) 要允许null值 所有数加起来. **说明:** - 
  ## [Wi-Fi逐渐难破解 如何确保新路由器安全](http://netsecurity.51cto.com/art/201807/577680.htm)
  > Wi-Fi逐渐难破解 如何确保新路由器安全
+ ## [管理员百宝箱：节省时间的10款杀手级工具](http://developer.51cto.com/art/201807/578191.htm)
+ > 管理员百宝箱：节省时间的10款杀手级工具
+ ## [外媒速递：IT领导者不容错过的十大IT管理认证资质](http://zhuanlan.51cto.com/art/201807/578190.htm)
+ > 外媒速递：IT领导者不容错过的十大IT管理认证资质
  ## [感融科技董事长宋屹东：物联网+区块链建立线下多模共识 赋能供应链金融](http://iot.51cto.com/art/201807/578186.htm)
  > 感融科技董事长宋屹东：物联网+区块链建立线下多模共识 赋能供应链金融
  ## [深入学习Redis高可用的基石：主从复制](http://developer.51cto.com/art/201807/578039.htm)
@@ -137,10 +139,18 @@ categories: IT NEWS
  > 工业物联网（IIoT）带给硅谷哪些机遇？
  ## [2018开源代码安全报告：每个代码库平均包含64个漏洞](http://news.51cto.com/art/201807/578009.htm)
  > 2018开源代码安全报告：每个代码库平均包含64个漏洞
- ## [比特币价格下跌70%，1000种加密币已经“死亡”，你还敢买吗？](http://blockchain.51cto.com/art/201807/577944.htm)
- > 比特币价格下跌70%，1000种加密币已经“死亡”，你还敢买吗？
- ## [OpenStack环境中运行大数据系统的四大存储问题](http://network.51cto.com/art/201807/577898.htm)
- > OpenStack环境中运行大数据系统的四大存储问题
+ ## [React 技能图 2018，目前在 GitHub 上已获 2 千多 Star](http://news.51cto.com/art/201807/578204.htm)
+ > 之前我们报导过 Hacker News 的 6 月招聘趋势，其中说到 React 再一次稳坐第一的位置，那么，求职市场呼声
+ ## [Redis集群方案怎么做？大牛给你介绍五种方案！](http://stor.51cto.com/art/201807/578206.htm)
+ > Redis数据量日益增大，而且使用的公司越来越多，不仅用于做缓存，同时趋向于存储这块，这样必促使集群的发
+ ## [TIOBE 7 月编程语言榜：TypeScript 进入前 50 名](http://news.51cto.com/art/201807/578203.htm)
+ > TIOBE 7 月编程语言指数排行榜已经公布了，本月主角还是 TypeScript。
+ ## [Windows 10这个Bug你碰到过吗？真的很无奈！](http://os.51cto.com/art/201807/578207.htm)
+ > Windows 10作为一个庞大的系统，有大大小小的Bug实属正常，不过有些Bug确实很难理解，也让用户非常不舒服。
+ ## [深度解析：区块链的数据存放在哪？如何保存个人的信息数据？](http://stor.51cto.com/art/201807/578201.htm)
+ > 都说区块链其实是一串数据所组成的，但是大家有没有想过这个问题，就是，如果区块链是由数据构成的话，那么
+ ## [Hacker News 6 月招聘趋势，React 根本停不下来](http://news.51cto.com/art/201807/578205.htm)
+ > 2018 年 6 月 Hacker News 招聘趋势已经发布，JavaScript 库 React 在连续12次占据榜首之后，并没有减缓趋
  ## [怎么保护你的电脑免受恶意软件的侵害？](http://netsecurity.51cto.com/art/201807/578196.htm)
  > 在我们工作中，如果病毒感染了我们的计算机系统，工作内容或文件可能被截断，需要换台电脑或者重装系统重新
  ## [花钱买罪受？SIEM的五大常见问题](http://netsecurity.51cto.com/art/201807/578197.htm)
@@ -177,6 +187,8 @@ categories: IT NEWS
  > BAT的薪资到底有多高？福利待遇怎么样？
  ## [刚刚，阿里开源了一系列重磅技术炸弹！| 程序员必看](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/80906217)
  > 刚刚，阿里开源了一系列重磅技术炸弹！| 程序员必看
+ ## [美图的困兽之斗：分食社交，为时已晚](http://www.lanjingtmt.com/news/detail/36389.shtml)
+ > 美图能否成为中国的“Instagram”，不确定性太多。
 # 人工智能 
  ## [AI应用开发实战系列之四 - 定制化视觉服务的使用](https://blog.csdn.net/SoftwareTeacher/article/details/80954568)
  > AI应用开发实战系列之四 - 定制化视觉服务的使用
@@ -231,5 +243,13 @@ categories: IT NEWS
  > 据名利场杂志报道，万维网创始人蒂姆·伯纳斯-李（Tim Berners-Lee）亲眼见证了自己的发明正被操控和滥用，从虚假新闻到大...
  ## [虽然流量漫游取消了，但你可能因此花更多钱](http://www.pmtoo.com/article/49096.html)
  > 取消的流量漫游费某种意义上来说就是将用户之前的省内流量全部免费升级成全国流量，但是运营商似乎并不愿意直接为用户升级...
+ ## [产品经理应该如何做好用户访谈？](http://www.pmleader.cn/index.php?m=content&c=index&a=show&catid=9&id=615013)
+ > 就我个人的理解，用户访谈是指产品经理或运营人员和实际的用户（包括潜在用户）围绕某一个目标而进行的沟通和交流，有时候还可以观察用户使用具体产品的实际过程。
+ ## [项目经理如何解决团队成员的误解？](http://www.pmleader.cn/index.php?m=content&c=index&a=show&catid=9&id=615014)
+ > A、B、C为同一项目小组成员，其中A为项目经理主要负责与用户的沟通及项目分解，B负责项目中的技术实现，C负责项目文档的收集和整理。　　C的工作虽然简单但是格外繁重，因而多次向A提出可以增派人员，A已认为...
+ ## [有效实施站会的3个技巧](http://www.pmleader.cn/index.php?m=content&c=index&a=show&catid=9&id=615015)
+ > 通常的站会的形式总是让我感觉有点怪怪的。它有时会造成一些并不期望的效果。这篇文章里，我将向大家介绍一些在我们blossom公司里经过修改后的站会措施。
+ ## [如何管理资历比你大的项目成员](http://www.pmleader.cn/index.php?m=content&c=index&a=show&catid=9&id=615016)
+ > 小杨新到公司被任命为项目经理，共有5个项目成员，负责产品开发。项目组成员均为男性，并且年龄比小杨大4-8岁，对于年龄资历比他大的下属，小杨觉得压力很大。以前负责过团队，但是管理的都是比自己年龄小的...
 
     
