@@ -1,51 +1,51 @@
 ---
 title: 2018-07-11 IT News
 copyright: true
-date: 2018-07-11 08:00:54
+date: 2018-07-11 09:03:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [IPv6成中国争夺网络主权的关键弯道，国家助推部署提速](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=7dQ4DACDHqAn6HLCdGeiQcNBUy6r41f4CJ-HPWaKJWWDraP5KTShlMqkmvywJqkT-p11kmLyltRveoynFexQBteGVYSjcPj3XHO9QZb8nDnBUe6gGFpuzvCDFOQXHPyf&new=1)
- > 近日，国资委召开中央企业IPv6规模部署应用工作推进视频会议，认真贯彻落实中办国办印发的《推进互联网协议第六版（IPv6）规模部署行动计划》要求，加快推进中央企业IPv6部署应用工作。国资委党委委员、秘书长阎...
- ## [创投|大象声科获小米和Qualcomm创投战略投资](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=5cti9Zf4zEfYu5XUHbWs2qtbVUwSVeXTo4NV-R0smIzt7B91gsEie6q-nfH2GZgCvYfs3j0nrtABpVjyunhJO4QhvCcAbU0lq7FSdDrUijDoXdw0yl*K6vzfCqcKUs-z&new=1)
- > 全球领先的机器听觉解决方案供应商大象声科（Elevoc）宣布获得小米和 Qualcomm 创投数千万人民币的 Pre-A 轮战略投资。大象声科表示，该轮融资具有广泛重要的战略意义，将有利于强化上下游产业链，进一步赋能通...
- ## [关键技术仍受制于人，中国科技比美落后几十年?](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=4A*u7ghKc9VHKg44mYNY4kPPJm4ePbVieUcwNo2B9RnnR5VLXVS8U1Dekv184xxlvKApdcUWPlRIvARPCLJFTrwzkHVPK7Syeni7gIRvlaX10pOYXC5UOeT3x*hXEkn1&new=1)
- > 近日，《科技日报》总编辑刘亚东日前的一篇演说引发网上热评。刘亚东表示，中国的科学技术与美国及其他发达国家相比有很大差距，这本来是常识，不是问题。可是国内偏有一些人，一会儿说“新四大发明”，一会儿说...
- ## [头条|人工智能家电渐热，人机交互成最大亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=0wfxiQ4P0381NoKQwfbw1ZfxMiHIuQzRrIgxs63hnmW572WfBZkz5KgRrSRzvvwPWaOA-xwyMG6FBoQbW92XDKd81qiaIZ3aPkFlrPUgZc4LmlAaLZ9xAUXTP7d1iRAb&new=1)
- > 电器微刊行业|深度|视角近年来，基于学习能力和推理能力的不断进步，人工智能不仅热度重燃，还开始与垂直行业深度融合，赋能更多领域。依靠“算法、计算和数据”为驱动力的AI技术演化出诸多“功能”，在机器视觉...
- ## [\[观察\]赋能制造业数字化转型，SAP究竟有何“独门秘籍”?](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=y5W5d0Rjihpu90bFg*Zsu-30-oXvK956spAT3B-zt-CzZDv4JC41ZDmA7V0pRBRIoaUDLY9CpYWUvC3wdB6dtqx3wqh3IoynRDRpYWEPhRFYFtOJcy0zgVHkLomld86E&new=1)
- > 申耀的科技观察读懂科技，赢取未来！日前，2018雪浪大会在中国无锡太湖国际博览中心召开，大会以“从制造业中来，到制造业中去”为核心议题，深入探讨中国制造企业在数字化、网络化、智能化进程中面临的问题。 ...
- ## [山东联通全省开通IPv6业务:在线用户已近百万](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=W-R2xNmqjT0ula8H2ecu760sBKzJWTmGdCZoiW-satMBtdz5L1zwD9figFCYny2Z45M7tuNgYg2MfSt*4KAOtjUp6qO1jyps9TdiS5UZ7dh0etedpp35BLQ32tiQ3YBR&new=1)
- > 6月29日，山东联通率先在全省范围开通IPv6业务，成为省内首家开通全省17地市IPv6业务的运营商。截至7月10日，山东联通IPv6在线用户数已近百万。　　现在我们使用的互联网是IPv4，IP地址长度为32位，其中北美...
- ## [中移互联网小镇亮相互联网大会 为何这个场景如此火爆?](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=6vaWlf2BnWJ6xK68pUBNn6n7xVYEaesjyik3usgJE3ZfJtID4FWEIcegw3iMfVwLftTFtFiLSYCzt1-oqBDKrfd5bERjdtZKnQRtMxC7zz7Pm7xxbx8N3aRWA0rrl0cD&new=1)
- > 今日，2018中国互联网大会在京召开。中国移动参加了本次大会并展出了部分产品。在以“融合发展、智慧连接”为主题的中移互联网小镇中，中国移动展出了工作场景、生活场景和终端使用场景的最新移动互联网技术和产...
- ## [人民日报刊文谈中国大数据：产业规模近5000亿元，不只“数据大”](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=EHBkwgVUcrOsReEboEFJT79PGGPDUgVfGZKZ8G10QAJY3JVn-OF4VBxrxjyXaGLAmIrXAK0fL2Y*Sk2lp4b5DncOcyceVhv-4Q1fmw-DxFWCuR3uTBnytckSFYNMDrRx&new=1)
- > 近年来，中国大力推动实施国家大数据战略，大数据产业保持良好发展势头，涌现出一大批大数据新企业、新产品、新服务、新业态。不断涌动的创新、深度的融合和庞大的体量让中国加速迈入“大数据时代”。而对中国而...
- ## [守护传承的新工具：AI上有信仰的华为云](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=E8FpCU4GwyxDMIuFtvLNdln65ospc53UH9seoNobtSPGM3if4RM8-MhFTufjASxcFfm9faX6Ucj0sKnvZ5ONLtRJDHWCih7ZNoaP0XBkzcZUwUj-jp6z922nkCJ23vzn&new=1)
+ ## [告诉你一个不好的消息：Win10七月份的例行补丁来了，赶紧提前最好准备吧](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=7rF8i3bwqDJE*HYWN-XjX*EHCcEhraqPu07-JrSa-aE5-RUmem-cKYiWTpCEbneJuM*7y*GP0CSsKsF3mN1teA1GuyCBIuuYnHmuv-aGH134ha7XpyRfjvc*mGYR*kxd&new=1)
+ > 预计凌晨1点-2点微软会发布七月份的例行更新，当然不要怀疑，这些补丁一如既往的会出现无法安装、安装失败、失败后自动下载再次安装然后进入死循环。另一个问题是自动重启问题，建议你离开电脑如果超过15分钟的...
+ ## [守护传承的新工具：AI上有信仰的华为云](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=E8FpCU4GwyxDMIuFtvLNdln65ospc53UH9seoNobtSNIX9N2B1D6W*LiXbqzT4WNcZL3YJoZ5te6lyGYP21KcZsbkOiTHPXc0tVe7YeD3b7w70jWguS2zUkpuh*kBINQ&new=1)
  > 7月10日，“AI上有信仰的云——华为云中国行2018”活动在古都西安成功召开。作为全球领先的ICT（信息与通信）基础设施和智能终端提供商，华为携手西安市政府成立了华为云（西北）联合创新中心，并成立了高校上云...
- ## [走进马扎克日本大口工厂，高度智能化令人叹为观止!](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=QOVewjLG2esoUHs*SEUpT1UnkxrrTrPl85UQBa51GX1eNIcmgVpDecS2WQOQlFVbBrKcO6zkigckOJOFPNV3m1Qt8LIlyyT4dyfPY3EAofUohwUfZDpbJDCIfEG2NovC&new=1)
- > 导读极为先进的生产布局方式、机加工实现720小时无人值守、全球11个工厂每台机床的运行状态一览无余......日本百年机床巨头山崎马扎克（Mazak）走在了智能制造最前沿！文/e-works原创山崎马扎克株式会社，成立于...
- ## [一篇文章看懂交换机和路由器的功能区别](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=EJsdZ6xhRFUCfJAdfecKpg5qUJH824iuxJ-qbXg5Ul8hNhUdwtpmQJ3p-gFmat7a9Clu-lo7z4HySbnWOywFkauChpExoV5eS5yJUvecKFoiRbEMtCqoZklZ1gN5l2xs&new=1)
- > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位计算机网络由不同类型的网络相互连接而成，如果几个计算机只是简单地连接在一起是无法进行通信的，因此当我们谈到计算机“互联”时，其实说的是这相互...
- ## [华为郑叶来：+AI时代，在创新的道路上加速奔跑](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=YJS47HDV3qw57eZ70MtKSYgBnqoDUdGCmne6zeIisjavYCYC0fQFyELE-j116pLM7hV9SCsU6tp8Dl3VkTHVf8qCMcZsOQ8kRtiPYxEcIxQy1kQ9f7oqm3qFf6jkTUI3&new=1)
- > 今天，2018“华为云中国行”的第二站在西安顺利举办。华为云BU总裁郑叶来发表了题为《在创新的道路上加速奔跑》的主题演讲。华为云助推西安产业发展西安是文化古都，也是创新之城。著名的“丝绸之路“始于西安，...
- ## [讯石专访|恩纳基智能科技：高精度半导体封装设备是光模块一致性重要保障](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=CCCEt0dZ7zguYzliHs4xpJ7uzuRGUKw1Gk-Lq-NqQw99XD5Mkwzc0ZX20VOs8ycqF5IUA3QAXJj2d7xWfFIC95FEtT9r0qKafZ-54tIU8xh2D-bLLNln9CC5JbiohtUV&new=1)
- > 导读随着大数据应用快速增长，智能交互是自动化设备新时代特点，在产品一致性和降低成本方面具有更大的价值。作为光器件光模块领军企业的半导体设备供应商——恩纳基智能科技无锡有限公司在智能化和自动化结合方...
- ## [《中国人工智能开源软件发展白皮书(2018)》(附下载及解读PPT)](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=ylIVvuVTr8QMSJ324rdFO-N7qOHhl2diD684WrirH7mt3Ue-zPf*dWd9YwKglIPNpO1EslmYfmu-IIW4LMIQjMQZt2-J-47imrma*kNPSeQmWbbdw7stkPFsql-0ILkH&new=1)
- > 来源：走向智能论坛摘要：近日，中国人工智能开源软件发展联盟召集中国电子技术标准化研究院等企事业单位，编撰并正式发布《中国人工智能开源软件发展白皮书（2018）》，白皮书研究梳理人工智能开源软件发展现状...
- ## [韩国YUHS团队将首只3D打印的人工义眼商业化](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=I-f5YuNb5H4LfLjCMZxq33Hc0KXi89bn5eSubq8skIrUHax4CE5*Bv6QbUZBwtcyBCL9vJ6DesMVb*QwOrACP*XkyZe-jdhYzFwO8owBblqRoSwPjFj3Q7SzaWL4m1RF&new=1)
- > 韩国延世大学卫生系统（YUHS）周一宣布，它正准备将韩国首款3D打印人工义眼商业化。经过三年的研究，该团队由医院眼科和人工义眼制造商Baik Seung-woon主导，成功开发出一种技术，利用3D打印机简化人工制作眼球...
- ## [独家：中国联通总经理今日上午更换 陆益民调任这个大集团](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=Llmqru8Lav0r7*Z5xWKNarKQ5yqjWR9On5C2mUBDv1kXktW97JB09nZVX*vgTtRbmhrNhglIDQ2*0i9hFKpBjlUcarAIinoFmlAMNUzr9X*3PSw*rILhTuDbCjJmIgOG&new=1)
- > 知情人士向运营商世界网透露，中国联通总经理变更，现任中国联通总经理陆益民调到中国通用技术(集团)控股有限责任公司任职。中国联通于今日上午举行了陆益民的离任告别相关仪式，陆益民与大家一一握手告别，中国...
- ## [中德签署《关于自动网联驾驶领域合作的联合意向声明》](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=M7EN1J-JxnJqTy9HRrmSp0ujyhj9coRY7kMBl5iEyybSLiIRPlsIkdSbSSTelst5LPDq3kvmjIMuAuEuKLp49jSxgdrHb4xgXHFy4fsJmh0YweFVQiC0unoxAMO30R6L&new=1)
+ ## [中德签署《关于自动网联驾驶领域合作的联合意向声明》](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=M7EN1J-JxnJqTy9HRrmSp0ujyhj9coRY7kMBl5iEyybyhMHM46DshZjSIQWU2o6ODV2yELPTC*E06Hw1-Lf0qZ9iG2wWC0CmqqlSlduTjv9Uz*EGyJZfotgAZ*UpeVdV&new=1)
  > 当地时间7月9日中午，国务院总理李克强在柏林总理府与德国总理默克尔共同主持第五轮中德政府磋商。磋商后，在两国领导人见证下，工业和信息化部部长苗圩与德国联邦经济和能源部、联邦交通和数字基础设施部代表共...
- ## [联通总经理陆益民正式告别电信行业：混改失败，电、联合并真的会有?](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=XZo23JLi9OnnbLJ6uWcQD*YUmnZ6eRN0alEraG7WZt3lrn*0NJJPch-vO9Bkqa0Qvz1kWQUM*kajUPGy93OFhU9W5eK3OMEodSpK1Q6F2AH-ftLkbHmtozGzHIfCM-97&new=1)
- > 昨天上午，中国联通于举行了陆益民的离任告别相关仪式。陆益民与大家一一握手告别，中国联通诸多员工自发来到中国联通大厦一层，向陆益民表达感谢和祝福。△陆益民在联通大厦与员工告别△陆益民在联通大厦与员工...
- ## [广东移动宽带大升级，城区主推200M加速4K普及!](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=P08RaeebhF9TN5vDu0c*UtAAYzVNi7RHbgGNVRBryxfnLjfSBXTM4slhpXQ2-XsXnbvR5yQhe8eNBLHwYyorPcc9QJ4LpFr*s9RTY1MN61yIsOZ4WqjIiDHYaQ0XOty6&new=1)
+ ## [“构建立体式免费网络，消除数字鸿沟”|连尚网络联合创始人李政亮相中国互联网大会](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=MgkspNpbfBfrs0h9vlJBjTJru3zOIiK-MWBJhjsEXaROMZ3fE4saQ2fz9gaaArenf-mSK47Bqk0Z0SSQ4-rIryf3PDEStRq-y230aOp6AHdmrEdfr1*Rny9pDPkNv8RZ&new=1)
+ > 7月10日-12日，由中国互联网协会主办的2018（第十七届）中国互联网大会在北京举行，本届大会将聚焦2018中国互联网的热点和焦点话题，连尚网络联合创始人李政受邀出席并发表演讲。作为全球用户规模最大的独角兽企...
+ ## [中移互联网小镇亮相互联网大会 为何这个场景如此火爆?](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=6vaWlf2BnWJ6xK68pUBNn6n7xVYEaesjyik3usgJE3Zn7O23LkElVbEaahsz7yJm8DEg*g6Zhd*YhCSHfdPKsETtIkLIAFaZKqcPsuS8EUTa-CfzL9a8dJGLinV6*8VI&new=1)
+ > 今日，2018中国互联网大会在京召开。中国移动参加了本次大会并展出了部分产品。在以“融合发展、智慧连接”为主题的中移互联网小镇中，中国移动展出了工作场景、生活场景和终端使用场景的最新移动互联网技术和产...
+ ## [GSS大会最全官方“剧透”来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=pjxagY7mxfgkggU4ee8ClcTgnqeSiAXfFhjm0OHbeRhPhElIJpAUqUrpqnwP2k5REQTvUObZqA22lhja77ybeE7JjXgAen0Zy2CntXfsBV*0bi8Kby346Giyj0a9*47v&new=1)
+ > 倒计时count down9DAYS2018.7.20GSS大会H5上线聊啥以“构建闪存新生态”为主题针对全球闪存和存储半导体全面解读分析产业新生态 行业新热点 企业新发展九大主题论坛两场闭门会议全球近百位演讲嘉宾近百家领先企...
+ ## [云创受邀在徐医大举办“大数据和人工智能”培训班](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=mDgFdITx8735leuPjsCzAT3E*AHEMKsXL6XmYEDJvwIbn8pSuxZ8BWalQGjkrkAHeqY*3gkje85KYPLoLIOfE*xMrPZyKtXxe9WBwyGkIfmfclzn8ZBPDyfnNPSTTJEC&new=1)
+ > 2018年7月9日至10日，云创大数据受邀在徐州医科大学举办“大数据和人工智能”培训班，云创大数据总裁刘鹏教授及多位优秀工程师受邀参加。本次培训班为期两天，这是云创自6月22日为徐医大老师举办大数据、人工智...
+ ## [头条|人工智能家电渐热，人机交互成最大亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=0wfxiQ4P0381NoKQwfbw1ZfxMiHIuQzRrIgxs63hnmVJtGh*2x8zFK-D3iunPfT2Rhru0BgcO4N0uhkat1Z2pQcmGKdAh3bWHqMiAb21ODzvIr-3wCV-MFcncunuGqzr&new=1)
+ > 电器微刊行业|深度|视角近年来，基于学习能力和推理能力的不断进步，人工智能不仅热度重燃，还开始与垂直行业深度融合，赋能更多领域。依靠“算法、计算和数据”为驱动力的AI技术演化出诸多“功能”，在机器视觉...
+ ## [青小蛙一直在用的文件管理器](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=ZxUr6wWPrBz0NbYdsFb93SGd7bF0qWS84Xd95b9ceZ0z9TQYpRIVqS12nA9mvq*Qs3QyS4T5b8WiF7JnXYve3tAPY4ZIqQ9KzQnQz36kdVgxHgKLNmdJ56WEpls737a7&new=1)
+ > Solid Explorer 是一款非常优秀的 Android 文件管理器，Material Design 设计风格，双栏布局，可拖拽操作、支持 ROOT 权限、多媒体浏览器、压缩包支持，Chromecast 流支持等众多功能。@Appin
+ ## [AMD推新芯片技术 迎接Chiplet革命](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=46O7PJd5HAiadgJUjPY-S74-xHyhj1YfF3xZQg7y0rcNlpRvPQIXYU0dLm9FLTawlWoxXNn3DXUrSPMoXTvGFdXtRRNZItnL7zXlj4EsTVlxUQkDfNmNk9P9S7HCvi3m&new=1)
+ > 据悉，计算机和其他系统不是由连接在印刷电路板上的单独封装的芯片制造的，而是由在较大的硅片上互连的裸露的IC制造的时候即将到来。这就是研究人员一直在开发的，名为“chiplets”的概念。按照规划，这个新形态...
+ ## [\[观察\]赋能制造业数字化转型，SAP究竟有何“独门秘籍”?](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=y5W5d0Rjihpu90bFg*Zsu-30-oXvK956spAT3B-zt-A2yx3GbyJ40rAMVqJM*Xj59IZB*caA8u36aoCyXtgerWYW8JQafuBQeEdQQszYD2rzFiVVgj332ihHmOaLrJW0&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！日前，2018雪浪大会在中国无锡太湖国际博览中心召开，大会以“从制造业中来，到制造业中去”为核心议题，深入探讨中国制造企业在数字化、网络化、智能化进程中面临的问题。 ...
+ ## [广东移动宽带大升级，城区主推200M加速4K普及!](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=P08RaeebhF9TN5vDu0c*UtAAYzVNi7RHbgGNVRBryxdjqNGOMX2tk4H4SRadagiq8aIhIpZduLY1*p08M-M9IKow4ZZjEtJCT25jAiZl8yrBjDiPvlii3VmGPhpmbmEj&new=1)
  > 7月6日下午，广东移动联合产业伙伴举办“提速4K产业发展 助力数字广东升级”活动，宣布启动2018年宽带升级计划。全省移动宽带已完成技术升级，全面支持百兆以上网速，年内打造1万个千兆小区，更好地支持广东4K电...
- ## [\[今日头条\]论LoRa在物联网协议大战的竞争优势](http://mp.weixin.qq.com/s?src=11&timestamp=1531267206&ver=991&signature=nmw*DbFbW9CHM*SRo3Z2gwbRanH7w7s8ZtoJXxlrjEKIbKMpQk9-Je-lry6L7RUUQB2xQfXAtrFu-AH58zQy**S3uCTmafWyTR59juTfQx8ir3-5R7CCGuhCX05S9A6W&new=1)
+ ## [“STEM暑假班”又将掀起热潮，VR+STEM也Pick下?](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=7a81Bixppz-LTGEAE0uZ9ujqAJg2A6ZYLCA57vUXXd9RNDtJxJH3xqvPKddhRrYX6C0LcaeBbygF7MDiNhaNV6NzA55Fst4P0wjqAqy2RDct1NeQXt0x-67s4x409sdr&new=1)
+ > 若不能解决VR课程开发和设置的问题，那么想要将VR设备和技术在STEM教育中的应用落到实处，也只能是“巧妇难为无米之炊”。正文共 2639 字 14 图；预计阅读时间 7 分钟小编近日了解到，目前HTC的Vive图书馆计划，...
+ ## [Gartner：六大安全和风险管理新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=HN8WUPbyd9HXIaxsVMM7FQhvv2Ymoi*ltGrbrhgFDouBtFWqvbCR7sP5rWaWpjuh0lFqiZw5XLUU4cF6eTP-BJf3YUkw1GacoqFM-NGbfe5*MYyC*csAY98Bl6p3yRyl&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全7月10日讯 2018年 Gartner 安全和风险管理伦敦峰会将于9月10号~11号举行，分析师将在此次峰会上探究安全管理员面临的趋势。Gartner 认为，企业领导者越
+ ## [5G网络，如何防止LTE网络攻击?](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=vRpCJFWo1a2E*58aU7m5yOtnSnEUaEhx1kEzK7vJhBAdy2Rkge1fRWo1UQWasr00z-o3M8*A88zrrRuR*jA-uUI08QCfoHjszlkm*aHz7-zHWWB-LtlZBtbYky8uBWyw&new=1)
+ > 关键讯息，D1时间送达！黑客是如何攻击5G网络?即使5G进行大规模应用，LTE技术会被淘汰吗?那么我们应该如何防止LTE网络攻击?5G-网络黑客即将推出的5G网络也可能容易受到这些攻击，来自中国网络安全研究人员表示，...
+ ## [MIT造新型猎豹机器人：基于传感器和新算法 可在黑暗中自如穿行](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=dherhqvANYMTf5N3JyWJX7t6gh*saRqX2v4MxCNywi-xljpEVrOskcoW65n0v2vWT2tBM66a2DoPMAcn9H4Qjn9y4PVqytafF8SPXWh9417lhYZdluxTA-QAOKY2gwKt&new=1)
+ > 近日，美国麻省理工学院（MIT）发布公报称，该校研究人员最新研制的Cheetah 3猎豹机器人的技术细节。这种机器人无需借助摄像头或外部环境传感器，便可在崎岖地形中穿行跳跃，有望在核电站等危险工作环境中得...
+ ## [\[今日头条\]论LoRa在物联网协议大战的竞争优势](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=nmw*DbFbW9CHM*SRo3Z2gwbRanH7w7s8ZtoJXxlrjEJ57Lhyc3-Pcv4oD2ru9oxoGzFq2T0n0b8zsa-jfUT*ZjE-*wDqXr7IDxMbFJ7mhgX-Ne*QQ1tp-vmaJzSjNR00&new=1)
  > 目前，物联网（IoT）的几大标准，如NB-IoT、LoRa、SigFox等，正在用各自擅长的技术和应用抢夺IoT风口，以争取在这片广阔的市场上占得先机。　　NB-IoT是电信标准延伸出来的，主要由电信运营商支持，而LoRa的...
+ ## [华为郑叶来：+AI时代，在创新的道路上加速奔跑](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=YJS47HDV3qw57eZ70MtKSYgBnqoDUdGCmne6zeIisjZC6JfjVI9tz5GXrS2Ymk2*4HBVAQc6xDY1RC5MatvZTvJ3jJzrquw*fh-EEYC3pdSn4YgudVvp7HXDZ4b8CxPm&new=1)
+ > 今天，2018“华为云中国行”的第二站在西安顺利举办。华为云BU总裁郑叶来发表了题为《在创新的道路上加速奔跑》的主题演讲。华为云助推西安产业发展西安是文化古都，也是创新之城。著名的“丝绸之路“始于西安，...
+ ## [韶光常在人常新：中国联通总经理陆益民正式离任](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=nBYk90l9A20MZuCifs4*KoQQ36e7Bt6YJJ3Mwgp5dDMa0q6XNLEM34lKvHPGoI*PM72oGJTfQyYC6DLiuJfGIRTrTsX5gngr9L7ooIxNub31Mg20F8OUnsat5LvWIJqs&new=1)
+ > 2018/7/10周二7月10日，经通信世界全媒体记者向有关部门核实确认，中国联通总经理陆益民已于今日正式告别了工作11年的中国联通，调任中国通用总经理一职。截至记者发稿时，中国联通官网管理层信息还未更新。据悉...
+ ## [联通总经理陆益民正式告别电信行业：混改失败，电、联合并真的会有?](http://mp.weixin.qq.com/s?src=11&timestamp=1531270806&ver=991&signature=XZo23JLi9OnnbLJ6uWcQD*YUmnZ6eRN0alEraG7WZt1Q73L5EStVglcvJlaB2uSfvQUnbcrKW*VBJv-3pVH3tSB*hnGUFMQ04GwMkbnKrQ**DN-nwBYla4kIZYltTOWk&new=1)
+ > 昨天上午，中国联通于举行了陆益民的离任告别相关仪式。陆益民与大家一一握手告别，中国联通诸多员工自发来到中国联通大厦一层，向陆益民表达感谢和祝福。△陆益民在联通大厦与员工告别△陆益民在联通大厦与员工...
  ## [线上推广渠道有哪些？](https://www.zhihu.com/question/29368644)
  > 从业5年以来，我跨越的行业还是蛮多的。我也深知新媒体运营其实就是打杂的，比如我们要时刻紧盯文章的阅读量和后台的粉丝量；比如我们要和设计一样都要对五颜六色的黑和变化莫测的白有感；比如我们要对手握一大把KO...
  ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
@@ -95,10 +95,34 @@ categories: IT NEWS
  > 前因 windows下没什么太多好的http暴力压测工具，t-io在TFB上的表现也是前不前后不后的（见：https://my.oschina.net/talenttan/blog/1841863），所以特别想找个http暴力压测工具来找出tio-http的瓶颈，但是，暂时...
  ## [可视化讲解 DOM 构建过程](https://my.oschina.net/u/3413999/blog/1843482)
  > 前言 最近在看 Secrets of the JavaScript Ninja, 书中第二章讲到 DOM 的构建流程. 记得我之前也为理解 DOM 构建流程查阅过数次资料, 虽然每次查阅完都觉得 DOM 构建流程很简单, 看完便懂, 但是懂了又忘还是让人有...
+ ## [ExcelUtil 2.0.1 发布，新增流导入功能](https://www.oschina.net/news/97902/excelutil-2-0-1-released)
+ > 重大版本更新提示！！！2.0.1版本发布了！！！ 从ExcelUtil1.0发布，自发布起，人民群众对于流导入的呼声就从来没有停止过。 就在昨天我们决定对流导入做支持。昨天2.0.1版本已经发布到maven中央仓库。 不管是之前文件、还是现在的流导入，我们都希望在简简单单的2步就搞定，任何操作复杂的
+ ## [7.21杭州源创会，移动端音视频终端引擎技术实践分享](https://www.oschina.net/event/2281784?origin=zhzx)
+ > 7.21杭州源创会火热报名中，来自即构科技资深架构师将和大家分享一下移动端音视频终端引擎的技术实践...
+ ## [PESCMS TEAM 团队任务管理系统 v2.2.0 发布](https://www.oschina.net/news/97900/pescms-team-2-2-0-released)
+ > PESCMS TEAM是一款以GPLv2协议进行开源的团队任务管理系统。兼容PC端和移动端，强大且简单得任务分配指派功能，是团队任务管理的好帮手。 PESCMS Team 团队任务管理系统 2.2.0版更新内容如下： 优化系统架构。 优化邮件发送模式，被动模式不再是阻塞形式发送。 优化更新头像功能。
+ ## [六月新增开源项目：给你一个有趣好玩的手绘 UI 集合](https://my.oschina.net/editorial-story/blog/1843006)
+ > 每月新增开源项目。顾名思义，每月更新一期。我们会从社区上个月新收录的开源项目中，挑选出有价值的、有用的、优秀的、或者好玩的开源项目来和大家分享。数量不多，但我们力求推荐的都是精品。目前这些开源项目主要来源于编辑们的搜集和用户的投递，所以如果你有更好的开源项目推荐，欢迎积极投递。
+ ## [打压竞争对手？Firefox 搜索结果受 Google 区别对待](https://www.oschina.net/news/97898/firefox-battle-with-google)
+ > 4 年前，用户 Swarnava Sengupta 在 Bugzilla 提交了一个 bug，他表示在 Android 上使用 Firefox 搜索某些关键词的时候与使用 Chrome、UC 搜索得到的内容不一样。 Swarnava 具体指出了几个例子： &quot;Weather in san fransi
+ ## [每日一博 | 颠覆传统 IO 设计，深入理解 JAVA NIO](https://my.oschina.net/u/3868959/blog/1843056)
+ > 传统的 IO 流还是有很多缺陷的，尤其它的阻塞性加上磁盘读写本来就慢，会导致 CPU 使用效率大大降低。 所以，jdk 1.4 发布了 NIO 包，NIO 的文件读写设计颠覆了传统 IO 的设计，采用通道+缓存区使得新式的 IO 操作直接面向缓存区，并且是非阻塞的，对于效率的提升真不是一点两点，我们
+ ## [码云推荐 | .Net 桌面插件式开发框架 MWinNet](https://gitee.com/MrocCyen/MWinNet)
+ > MWinNet 是基于 .Net winform 平台的插件式开发框架，可以根据配置文件自定义界面，通过实现框架的命令接口实现相应的功能，达到功能与界面的完全分离，添加新功能只需要将配置文件和对应的dll放入相应的文件夹内，完全插件化。
+ ## [Rain —— Rust 实现的轻巧且强大的分布式计算框架](https://www.oschina.net/p/rain)
+ > Rain 是一个 Rust 实现的轻巧且强大的分布式计算框架，适用于处理大规模的基于任务的管道。 Rain 旨在降低分布式计算世界的入门门槛，目的是提供一个轻巧而强大的分布式框架，该框架具有直观的 Python API、简单的安装和部署以及顶层的深入监控。
+ ## [WebAssembly 执行速度比 JavaScript 快？小心打脸](https://www.oschina.net/news/97894/webassembly-vs-javascript)
+ > WebAssembly 一直被视为解决 Web 性能低下的救星，各大主流浏览器也纷纷选择拥抱 WebAssembly 。尤其是 Firefox ，在对 WebAssembly 的优化上下了许多功夫，像是引入分层编译和 IndexedDB 缓存。 那 WebAssembly 目前实际使用起来的效率情况
+ ## [OSChina 周三乱弹 —— 媳妇认真的思考了一下](https://my.oschina.net/xxiaobian/blog/1843990)
+ > 媳妇准备要孩子，可我一想我的工资除了养家糊口，别的也不够干啥了。诶，我该怎么办。我想买的车还没买……
+ ## [Google 正式开源 Jib ，帮助 Java 应用快速容器化](https://www.oschina.net/news/97892/google-opensource-jib)
+ > Google 本周宣布开源一款新的 Java 工具 Jib ，旨在让开发者使用他们熟悉的工具更轻松地将 Java 应用程序容器化。 在7月9日发布的博客文章中，Google 软件工程师 Appu Goundan 和 Qingyang Chen 将 Jib 描述为一个容器镜像构建器，旨在处理将 Jav
+ ## [Apache 基金会发布2018 财年年报：Java 项目占大半](https://www.oschina.net/news/97891/apache-annual-report-fy2018)
+ > Apache 软件基金会近日发布了长达 40 页的 2018 财年（2017.5.1-2018.4.30）年度报告，这个全球最大的开源基金会，目前已拥有 300 多个开源项目，涵盖人工智能和深度学习、大数据、构建管理、云计算、内容管理、DevOps、物联网和边缘计算、移动、服务器和 Web 框架等众
  ## [IntelliJ IDEA 2018.2 RC，添加多项注释支持](https://www.oschina.net/news/97890/intellij-idea-2018-2-rc-released)
  > IntelliJ IDEA 2018.2 RC 提供了大量有用的 Spring Integration 5.x 改进，添加了对 Spring Integration 注释的支持，例如：@BridgeFrom 和 @BridgeTo 注释，以及对 @EnablePublisher注释的支持。 还改进了
  ## [Netty 4.1.26.Final 发布，Java 网络服务框架](https://www.oschina.net/news/97889/netty-4-1-26-released)
- > Netty 4.1.22.Final 已发布，该版本包含错误修复、性能增强和新功能，建议升级。 主要的更新内容： Add OpenSslX509KeyManagerFactory which makes it even easier for people get the maximum perfor
+ > Netty 4.1.26.Final 已发布，该版本包含错误修复、性能增强和新功能，建议升级。 主要的更新内容： 添加 OpenSsl X509 KeyManagerFactory，在使用带有 netty 的 OpenSSL/LibreSSL/BoringSSL 时更容易获得最大性能 (8084)
  ## [CKFinder 3.4.4 发布，易于使用的 Ajax 文件管理器](https://www.oschina.net/news/97888/ckfinder-3-4-4-released)
  > CKFinder 3.4.4 发布了。CKFinder 是一个易于使用的Ajax文件管理器。提供文件夹树形结构（Folders tree）导航菜单，多语言支持（自动探测用），支持创建/重命名/删除文件和文件夹，集成 FCKeditor 在线编辑器。 这是一个维护版本，更新 ASP.NET 连接器的 
  ## [Android Studio 3.2 Beta 3 发布，问题修复](https://www.oschina.net/news/97887/android-studio-32-canary-3-released)
@@ -111,10 +135,10 @@ categories: IT NEWS
  > Framework7 3.0.1 已发布。更新内容如下： Phenome 修复 ActionsGroup 组件中的 TypeError 错误 下载地址： framework7-react.tar.gz framework7-vue.tar.gz framework7.tar.gz Source co
  ## [Sylius v1.1.10，1.0.18 和 v1.2.3 ，电子商务网站框架](https://www.oschina.net/news/97883/sylius-1110-1018-and-123-released)
  > Sylius v1.1.10，1.0.18 和 v1.2.3 已发布。Sylius 是一个开源的 PHP 电子商务网站框架，基于 Symfony 和 Doctrine 构建，为用户量身定制解决方案。可管理任意复杂的产品和分类，每个产品可以设置不同的税率，支持多种配送方法，集成 Omnipay 在线支
- ## [ArangoDB 3.3.9.4 发布，分布式原生多模型数据库](https://www.oschina.net/news/97882/arangodb-3-3-9-4-released)
- > ArangoDB 3.3.9.4 已发布。ArangoDB 是一个开源的分布式原生多模型数据库 (Apache 2 license)。 理念   利用一个引擎，一个 query 语法，一项数据库技术，以及多个数据模型，来最大力度满足项目的灵活性，简化技术堆栈，简化数据库运维，降低运营成本。 Aran
- ## [Foundation v6.5.0-rc.2 发布，响应式前端框架](https://www.oschina.net/news/97881/foundation-sites-6-5-0-rc2-released)
- > Foundation(foundation-sites) 6.5.0 RC2 发布了，Foundation 是一个易用、强大而且灵活的框架，用于构建基于任何设备上的 Web 应用。提供多种 Web 上的 UI 组件，如表单、按钮、Tabs 等等。 主要更新内容： 组件 11104 - Fix ra
+ ## [企业界迟迟未采用深度学习的四大原因](http://ai.51cto.com/art/201807/578413.htm)
+ > 企业界迟迟未采用深度学习的四大原因
+ ## [外媒速递：关于机器学习的十个成功故事](http://zhuanlan.51cto.com/art/201807/578430.htm)
+ > 外媒速递：关于机器学习的十个成功故事
  ## [偶数科技构建新一代数据仓库，与AI应用场景更契合](http://ai.51cto.com/art/201807/578373.htm)
  > 偶数科技构建新一代数据仓库，与AI应用场景更契合
  ## [回顾 | 2018上半年十大数据泄露事件](http://netsecurity.51cto.com/art/201807/578334.htm)
@@ -127,10 +151,14 @@ categories: IT NEWS
  > 不少公司说自家的服务是AI，没想到却是人假扮的
  ## [互动竞猜|当世界杯遇上黑科技 终极赢家你站谁？](http://ai.51cto.com/art/201807/578302.htm)
  > 互动竞猜|当世界杯遇上黑科技 终极赢家你站谁？
- ## [无需蝴蝶结变声器 也能一秒变柯南――语音合成+深度学习](http://ai.51cto.com/art/201807/578299.htm)
- > 无需蝴蝶结变声器 也能一秒变柯南――语音合成+深度学习
- ## [用Python来看3天破10亿的《我不是药神》到底神在哪？](http://developer.51cto.com/art/201807/578274.htm)
- > 用Python来看3天破10亿的《我不是药神》到底神在哪？
+ ## [Google 正式开源 Jib ，帮助 Java 应用快速容器化](http://news.51cto.com/art/201807/578441.htm)
+ > Google 本周宣布开源一款新的 Java 工具 Jib ，旨在让开发者使用他们熟悉的工具更轻松地将 Java 应用程序容
+ ## [机械硬盘短命的坑，固态硬盘帮你补了，别忘了谢谢队友机器学习](http://stor.51cto.com/art/201807/578440.htm)
+ > 信息社会也是数据的战争，个人和企业每天都在数据打交道，也就是在和存储打交道。存储无处不在，从计算、网
+ ## [超越数据存储：新兴的云计算技术将如何革新4个传统行业](http://stor.51cto.com/art/201807/578439.htm)
+ > 无论人们对于云计算的定义和理解如何“模糊”，它都无处不在地成为了人们工作和日常生活的一部分。事实上，
+ ## [闲话高并发的那些神话，看京东架构师如何把它拉下神坛](http://zhuanlan.51cto.com/art/201807/578438.htm)
+ > 高并发也算是这几年的热门词汇了，尤其在互联网圈，开口不聊个高并发问题，都不好意思出门。高并发有那么邪
  ## [部署云计算的五大策略](http://cloud.51cto.com/art/201807/578431.htm)
  > 云计算将变革企业IT的方式，也将改变人们的思维方式，其前景很乐观，许多企业正在尝试向云计算迁移，但是可
  ## [2018年（迄今为止）最严重的6起内部攻击事件](http://zhuanlan.51cto.com/art/201807/578435.htm)
@@ -143,8 +171,6 @@ categories: IT NEWS
  > 据IDC统计数据显示，到2020年将有超过500亿的终端和设备联网，其中超过50%的数据需要在网络边缘侧分析、处
  ## [三个常见的机器学习错误要避免](http://ai.51cto.com/art/201807/578434.htm)
  > 我非常喜欢基于云的机器学习和深度学习，以及一般意义上的人工智能。但我也发现，基于云的机器学习和深度学
- ## [针对家庭路由器的威胁攻击增加了5倍](http://netsecurity.51cto.com/art/201807/578433.htm)
- > 2018年第一季度，针对消费者级路由器的网络攻击数量急剧增加，其中多是在教育、建筑和生物技术等领域，原因
  ## [这些年，系统架构都经历了怎样的演变？](https://blog.csdn.net/GitChat/article/details/80991660)
  > 这些年，系统架构都经历了怎样的演变？
  ## [认知升级是比其他一切技能都更为重要的思维模式转变](https://blog.csdn.net/ricohzhanglong/article/details/80952192)
@@ -215,6 +241,10 @@ categories: IT NEWS
  ## [【python数据挖掘课程】二十四.KMeans文本聚类分析互动百科语料](http://blog.csdn.net/eastmount/article/details/80935427)
  > 这是《Python数据挖掘课程》系列文章，也是我上课内容及书籍中的一个案例。本文主要讲述文本聚类相关知识，包括中文分词、数据清洗、特征提取、TF-IDF、KMeans聚类等步骤。本篇文章为基础性文章，...
 # PM 
+ ## [移动端界面设计模式：导航设计的各个类型](http://www.woshipm.com/ucd/1093587.html)
+ > 随着移动互联网的不断发展，「以移动为中心」的理念和战略也不断渗透，互联网的「短、平、快」往往使设计师们无法长时间停下来思考可用性设计，快速找到最佳的设计方式...
+ ## [线下课程｜只有运营岗，能容下我辽阔的野心](http://www.woshipm.com/active/1093617.html)
+ > 高考那年，到达人生智力巅峰开始做运营那年，可以说是重返巅峰上知天文下知地理精通时事热点娱乐八卦情感鸡汤也要随时顺手拈来有时得故作深情、有时还要突然发车...
  ## [新零售兴起，来凑热闹的船歌鱼水饺能走多远？](http://www.pmtoo.com/article/49309.html)
  > 新零售是近来的热门话题，是人们对零售行业的一个新阶段的探索。从这个概念提出以来，各大零售领域仿佛都看到了一条康庄...
  ## [叱咤风云的Steam进军中国市场：功成名就or铩羽而归](http://www.pmtoo.com/article/49306.html)
