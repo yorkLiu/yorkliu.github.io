@@ -2,8 +2,9 @@
 title: Spring-Boot + Redis + Swagger实现【长短链接】(Short URL)
 copyright: true
 date: 2018-07-12 16:13:24
-tags: Java
+tags: Spring-Boot + Redis + Swagger
 categories:
+  - Java
   - Spring-Boot
   - Redis
 ---
