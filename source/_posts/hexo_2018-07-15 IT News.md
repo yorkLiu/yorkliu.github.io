@@ -1,92 +1,92 @@
 ---
 title: 2018-07-15 IT News
 copyright: true
-date: 2018-07-15 09:00:48
+date: 2018-07-15 10:00:44
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [当家电遇上军工标准，是抢占概念还是另有玄机?](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=ld-NnfzaKXx7TItwsgc7jmLyUFkgSbZ7*ElrecJz-xS6zTSwqVW058-YorlyuZ*3u*RlMP-eIdmN4Svxv3nExm7y4xrZHgfJbPhePlxyCtzpbAK9MN3eHoQ8uML1IYqP&new=1)
- > 这个时代的变化究竟有多快？《创新者的窘境》里提到，许多行业正在经历果蝇般的命运——在一天的时间内便完成了从受孕、出生到成熟和死亡的全过程。的确，还没有哪个时代会像当下一样经历广泛、快速而残酷的技术...
- ## [融资看趋势：智能传感器成重点布局项目](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=35PlBCw2uzXojJ5ozsJCSakEq0du6J4YSjvViyjaVzpkc54AFZHyOKuSmMxWq1DgVbMIuIaOGplYjaUyYak9KCQ*40pSEct6PJGVUm5CDi57TQEWu5GenhW7k9sEBuyT&new=1)
- > 传感器作为一种能感知、转化、输出信息的装置，在很多领域都有应用。随着物联网、人工智能技术的发展，智能传感器也成为了新的市场需求，未来在工业、医疗、农业、3C等各行各业承担着不可或缺的作用。企业加大智...
- ## [青岛中学携手华为构筑智慧校园，让智慧点亮胶东半岛](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=mCn5gZbPvw-d2Q8y14X1iGVT9uXcVp*K1BHXHaWMzimGZM3LarOs2JBTfjdB*7rJ4jFTRgAm6wbbYvEMubzj2rbCL4pK1HvCPKG-vNu42*UP52HSOOx2YTGNYAyopGbG&new=1)
- > 全球教育行业的信息化浪潮伴随着云计算、大数据的成熟席卷而来，各个地区纷纷推出一系列的举措，试图通过引入智慧应用推动教育行业信息化变革——从数字化校园逐渐向智慧校园演进。青岛中学位于高新区华中路以东...
- ## [IDC预测欧洲3D打印支出将在2022年增长至74亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=3jYYo5d4WGZJAxyaG1v5S2E-hdgtBCD9bI-nsgBi3gJ*V1GQjxGJ9prlRhNUa4Ko4qclhZakHAyr8lVxOKVhC3C9gu71cwfeapjw2U-1T7iRCEcVaz-avb9I**Zv-m-d&new=1)
+ ## [华为“达芬奇计划”首曝光，剑指AI芯片，英伟达慌不慌?](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=3M2EYF**hQ8pamnnxt*RlEfseuBgSysWtyijyOeoBE4ZoKtP2KphBzDUBatIvos*KQmHCwUhlE8BxuVrPApQ4ZrmgAuG36f3K2dDvWQtWht257HZGAf82w-xysbvtLy7&new=1)
+ > 华为内部“达芬奇计划”首次曝光，该计划旨在将AI带入华为所有的产品和服务中。而最首要的一步，就是开发用于数据中心的AI芯片，挑战英伟达！这是华为最新的秘密“作战”方案，也即将是影响最广泛的战略目标。文...
+ ## [突然!支付宝推出重磅福利：联通用户切勿错过!](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=8wYi011lKk6BmSdtl9s7xd57JG4hE*nXteXU5MDx-TWrYuf7qUxKncMQeDa6kmnTA9XLGWnCwTpSzxRyKlMPT48sLz3PYeH5B3K9yRJsVh2eLpzRdsCK11F*ciCYPVLt&new=1)
+ > 一直以来，支付宝针对蚂蚁会员都有多项便捷福利，比如积分换购、保险理财、优酷视频会员卡等等。现在支付宝针对蚂蚁会员又上线了新特权，申请开通以后就能享受手机淘宝、支付宝和优酷免流！不过，目前这项福利是...
+ ## [危情时刻：中国电信卫星电话，防洪抢险初露锋芒!](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=GD1AF1FN-JGHFkjlhiKBPqmlF0MCnuHnMmsJHfYkLvuftWWy7RGXIof4marRkzQ*ctBn2Axt7rz2*laZ4iYaur0ee3H4o9ReoOgzPScv8PRr-*hbLKLB0*rX3Bvq70A4&new=1)
+ > 关键时刻 通信就是生命通道中国电信 卫星通信领军者！运营商情报据说通信人都关注了阅一手情报，早知天下事
+ ## [IDC预测欧洲3D打印支出将在2022年增长至74亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=3jYYo5d4WGZJAxyaG1v5S2E-hdgtBCD9bI-nsgBi3gJ*V1GQjxGJ9prlRhNUa4KoN73JVV7wfX0Gc0glsy0pAJ*VFewpmq6OYg9DFcjFiqa*7jptQaeoF*jcz5-IdOv1&new=1)
  > 从3D打印行业来看，很明显增材制造在应用方面正在增长，尽管给这个行业的增长和价值加上一些冷酷无情的数字仍然很有趣。根据国际数据公司（IDC）全球半年度3D打印支出指南的最新，预计2017年欧洲购买3D打印机、...
- ## [定了!河北28个省级职教集团名单公布，这些院校牵头→](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=jNmK8bipBlfx3*CMZeWG8arcpjCvhAVYcmjyJqcFXHWXAKSVzzKaR6U3nx1Wljb5qjswrXGvR77T0Fq66-qA4KLOqUhZhr2Tq8Rkp65AUpWYjLIEkggXtTtefbqSabs5&new=1)
- > 最新好消息！省教育厅近日发布通知，经研究，决定重新调整确认16个和新建12个河北省职业教育集团。原省级职教集团名称、牵头单位以本次公布的为准，未公布的省级职教集团予以撤销。优质资源集成开放共建共享完善...
- ## [再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=JAlRb9zUtnSWlKXSHzkFZ0lTaHcf5do0hiCOSNONOeN2b7bWzn6kl*0lpkiCCOoyB5TuBd-3fD-H103RFct-TUSLYFYHAV8PE3EZCYGyoIjJ1kXS1ec8Ab0y2OqlWlzu&new=1)
- > 商业│沟通│管理│人际点击上方蓝字关注  商界财富俱乐部这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核...
- ## [华为搬东莞?不，华为人在全球](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=GwX6zfnQ3xVI7VSewq6NLz86-iDIBj2jUO1qmCosmmIOWoohuVgdV9Dy1yjT4KB4dIyeXbadkm294jU0emD0fS6CLQlu6HoO6ZGpl1IpNA4SMssdtTfC0MWPXw6xDa9T&new=1)
+ ## [当家电遇上军工标准，是抢占概念还是另有玄机?](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=ld-NnfzaKXx7TItwsgc7jmLyUFkgSbZ7*ElrecJz-xS6zTSwqVW058-YorlyuZ*3xE688JZ9uecuMBtv6F5UxQgw8gYEU8nXq-La5RB04MtKrL2987G1efxxc3Siw2Gk&new=1)
+ > 这个时代的变化究竟有多快？《创新者的窘境》里提到，许多行业正在经历果蝇般的命运——在一天的时间内便完成了从受孕、出生到成熟和死亡的全过程。的确，还没有哪个时代会像当下一样经历广泛、快速而残酷的技术...
+ ## [华为搬东莞?不，华为人在全球](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=GwX6zfnQ3xVI7VSewq6NLz86-iDIBj2jUO1qmCosmmIOWoohuVgdV9Dy1yjT4KB4cM10hgjPK5tZn-0yee47jFZdgjk8ghN5ScOGYBvv3ic5-YUGU8I78xhuvTcslMp7&new=1)
  > 北京时间的24小时里全球18万华为人在世界不同的地方经历虽不尽相同却始终向着同一个目标出发这是每一个华为人入职的第一课晨练，开启崭新的一天锻炼的不仅仅是体魄更是我们的心志奋斗的脚步从这一刻就已经开始连...
- ## [看上去很美 黄色网站背后隐藏的安全危机](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=bn5b9DHKX1LcCnAEgvG6TkUSk-Kde2jtRVI8SKYLUlgUhcUTGmmdkte-TU7uObI*mxgNyEMgtf51kfI8L1w-G*lPTR*WGjQbnJBV0wyDLFWrZv4Y7sUI5rimOjgpQFVv&new=1)
- > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位1　　随着互联网的发展，上网的用户越来越多，对于各种内容的需求量也就越来越大，在网络上的非学术信息中，47%与色情有关，而目前互联网上色情网页已...
- ## [喷墨砂型3D打印技术(铸造业人士要注意)](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=w0ogOnXpEYQqWVfUr0vSN1g4OcO7JNkXOtnCwWkB3M*72sKhCOzihT3mj9f8ChkPPcmVl-4co20vUefx49l7wyrfeJSuU12pQXIFGh7ZsWhcpD4n9gSGCNasxN*U7QW5&new=1)
+ ## [再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=JAlRb9zUtnSWlKXSHzkFZ0lTaHcf5do0hiCOSNONOeN2b7bWzn6kl*0lpkiCCOoyqvqOR2f-2fdil6LHGD3QDwLTAhd6i2pSUQ9PRkGnJuWUIqrp-koHcdfdeNCjIDgw&new=1)
+ > 商业│沟通│管理│人际点击上方蓝字关注  商界财富俱乐部这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核...
+ ## [喷墨砂型3D打印技术(铸造业人士要注意)](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=w0ogOnXpEYQqWVfUr0vSN1g4OcO7JNkXOtnCwWkB3M*72sKhCOzihT3mj9f8ChkPWs3edrrDxmgE5q80ZYnEY*ikkUFObkxarpj7vCZToB5RXiZh4Kr4plLvslMTWiYN&new=1)
  > 近日，有一个喷墨领域的3D打印技术大牛，笔名叫inker，向南极熊投了一篇稿件，深刻地揭示了利用喷墨来实现砂型3D打印技术的要点。值得一读。中国铸造一直面临大而不强的现状，关键高精密铸件主要依靠进口。加快...
- ## [每周新闻报|三星量产96层V-NAND；SK海力士无锡建工厂；华天科技：80亿元投建南京封测基地](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=VqM42TDbSM6e03dHd8aMKTUuk62cGLi8WoDZzznEDcffapcpaX9CWr-xZvH2r9rC6kSF4xgDS2EWZglPpQIXZWkCkSspg3APuddY9oISIUwTt5CYOrdDNYvDIwTfcO3-&new=1)
- > 1华天科技：80亿元投建南京封测基地7月6日晚，华天科技拟在南京浦口经济开发区投资建设南京集成电路先进封测产业基地项目。该项目总投资80亿元，分三期建设，主要进行存储器、MEMS、人工智能等集成电路产品的封...
- ## [网络5.0创新联盟第一次全会成功召开](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=i4XlMwVtxx*xk2K1ornCMW5DzHdw75XPLs9WCAQpDhmN8yZw1Ki7fU649OIWc22K84a78SiZG9VosEgMomiYk2E2GNBYle*71VjVsOXfg2fUjJS3lzBMDPCSOtEdK8Eb&new=1)
- > 在信息化的发展进程中，网络扮演了不可或缺的重要角色。如今，在一系列日新月异的新技术浪潮之下，快速迭代的高新科技也对网络的发展提出了更高的要求，在逐渐承载更多业务的当下，网络传输质量不可预见、无...
- ## [移动认证亮相中国安卓开发者大会，百万奖金正在向创客招手](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=7iOIcDWbZgr5q8Q27WQ2NrptLVlnlDIUThjqULQYUubvNlO6JVpQzYi-wpqOxcmJdbCk4CDyIzWp8UoOGxW*hoMzeGJjg-Ql9W-I7Bqp6FcDq*oA5NOGG*onDVTQiV1q&new=1)
- > 俺黑君够黑，慎关注！7月12日，“2018中国安卓开发者大会”在北京国际会议中心召开，此次大会由国家部委相关领导，移动智能终端厂商负责人以及移动互联网企业负责人等共同参与，围绕“创新引领，技术先行，生态...
- ## [中兴高达、摩托罗拉系统、大唐移动等B-TrunC单系统产品和互联互通产品在京进行评审](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=K8FEdxmaaIjs5flkeTCykXTQAIyKwX-c--kFLKq4Lvpte3QBy5aRCr6UpDN1p58I8bPNsFw7s0nbA0bw42Rqv0i4UZ7NLZcI1lnM4eGN0eimY-ppBYbWDRz56dAgzZA*&new=1)
- > 2018年7月5日，宽带集群产业联盟B-TrunC认证产品第七次专家评审会在京成功召开。此次会议邀请了行业用户单位的专家，针对B-TrunC单系统产品和互联互通产品进行质询和评审。北京中兴高达通信技术有限公司、天津京...
- ## [耳聪目明 最强大脑 谁来打造自动驾驶机器人|《财经》特别报道](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=LPmTuJP1xzOI7b3-5GSqkFOGb*H5sLumBZNgdTlxOv*7Zg76zJCvNbTcU5REaF7i*Aa2YYpoaNYUYenBkHT-ykqcECpMp6ntRdMfCd8qcc5f4lSzgcOYNODN8KCiHEEH&new=1)
+ ## [耳聪目明 最强大脑 谁来打造自动驾驶机器人|《财经》特别报道](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=LPmTuJP1xzOI7b3-5GSqkFOGb*H5sLumBZNgdTlxOv*7Zg76zJCvNbTcU5REaF7iCvAIFMPUYsQrBmP6-yuwcgx*zAj*kkRM8kbbI*8hQetColBi3rUpMGrdc3usVEZE&new=1)
  > 把这些新零部件拼起来就行了？其实没这么简单。自动驾驶正在改造汽车产业链，新的Tier one会否诞生？（创业公司开始崛起，传统巨头展开收购、联合，不断前进和突破的技术，正在塑造一个新的行业。图/视觉中国） ...
- ## [Facebook挖谷歌AI芯片主管，走上定制芯片开发之路](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=1vmFMvK4IiV6SF17dfH-0nTkdZ-pdgZgwT5kW4ucTsQqFIx0NiI62k6VeipBuYRD9jgO-vXocda3rVJKFplRlmQpqJblSuR56HDnG4WtkcIRUbxHwM32-Ltg8XnggGCO&new=1)
+ ## [解禁了!中兴通讯追赶时间，迎接5G大时代](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=mL5ityCC5hXB97Brytl88W4r9D-cvDDTKJpoR1UFuEVOdf7FiYiVhCv-n25bOyECoYxEv5qlXYgIzx6Y*vi77nVLV6P1hWQHYPVrkb7JD*Mk9fRjTgOY7PXTWJLgeNi1&new=1)
+ > 美东时间7月13日，美国商务部正式解除对中兴通讯的销售禁令，将中兴通讯从拒绝令名单中移除。历经89天的努力和等待，中兴通讯终于可以摆脱美国拒绝令的重压，全面恢复业务运营。作为行业媒体，我们在报道中兴通...
+ ## [Facebook挖谷歌AI芯片主管，走上定制芯片开发之路](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=1vmFMvK4IiV6SF17dfH-0nTkdZ-pdgZgwT5kW4ucTsQqFIx0NiI62k6VeipBuYRDH0wre5xGcm-ufKG142BWsId5H7CgICdfFcVdVM9LOc3z5BM-DCTYhAmgT0bxo3ZQ&new=1)
  > Esther｜ 撰文跟苹果、谷歌和亚马逊一样，Facebook也在芯片方面开始行动了。近日，Facebook挖来了一位前谷歌芯片部门高管Shahriar Rabii，其将担任Facebook芯片开发部门负责人兼副总裁。据了解，Shahria
- ## [是野心还是地狱?深度揭秘马斯克如何带领特斯拉走出产能困境](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=gzsY0FlyFxziX6OHBDaWrdqbXtmB*OQ*sftjni1CZ8nEBUPgZLqSedc65X4M7*DYrhSn6vGGFCXbW-ce2TJ0x-xtB89UBT0Ju6dsGDshsm0EtarHUU*GE-3LKW9rOBfh&new=1)
+ ## [网络5.0创新联盟第一次全会成功召开](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=i4XlMwVtxx*xk2K1ornCMW5DzHdw75XPLs9WCAQpDhmN8yZw1Ki7fU649OIWc22KWppqdtwb*rGTI-WLVwE8XbxoLB9xH30YjnMLeaerRaREEFmYMKx-lOv-IH3zKJDW&new=1)
+ > 在信息化的发展进程中，网络扮演了不可或缺的重要角色。如今，在一系列日新月异的新技术浪潮之下，快速迭代的高新科技也对网络的发展提出了更高的要求，在逐渐承载更多业务的当下，网络传输质量不可预见、无...
+ ## [美国防部软件采购最新四项参考指标](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=VzxkUCvHBBI6odSCvbniozjiemDd9v-nqNoZkIpRtX8ViNfvOW56uZngdfyMfI4oOEHQK2tbupyZuuHoN9bj9qjqaXnS5rHvrSxqxQAbvoHHKGfI2hYgw1SvcMMLvfBV&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全7月14日讯 2018年4月，美国马萨诸塞州坎布里奇（Cambridge）举行的公开会议上，由谷歌母公司 Alphabet 技术顾问 Eric Schmidt 带领的美国国
+ ## [是野心还是地狱?深度揭秘马斯克如何带领特斯拉走出产能困境](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=gzsY0FlyFxziX6OHBDaWrdqbXtmB*OQ*sftjni1CZ8nEBUPgZLqSedc65X4M7*DYaCwaimIcrilMPEV3muRbvUmnFuPldUp3bM7W5ZaO1ADsJIcMc9*vskhbtunsbNom&new=1)
  > 新浪科技科技观潮，与浪前行关注 导读本文出自《彭博商业周刊》2018年7月16日刊特别报道。特斯拉近日宣布，其Model 3电动汽车已经达到预定的产能目标。彭博社探访特斯拉工厂，并从马斯克和多名员工的口中，梳理...
- ## [McAfee 黑市调查大发现：10美元就能获得机场的 RDP 访问权限](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=TMNR-S5e*ounQGDl53sch9szdsR2YFIk9mZKo7pl4267009HD0CcCULPGq9YQmz0DBd3U3G*CZHNooqLPfdRViYjOetMPX0OlS14A9B3JjLSreZzrLrINB8VvnVZFrpd&new=1)
- > 如果给你10美元，够干些什么？emmmmm........够买张电影票或吃份双人堡套餐，够从国贸打车到中关村........那如果给黑客10美元呢？McAfee 的安全研究员告诉我们，这足够让黑客们在暗网购买武器，攻入机场的远程...
- ## [方程式组织DanderSpritz工具测试环境研究](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=sThEh5a4VZPpC2FDafUXqfzocfa-kobw*h3FUtma7jv-UHqN5HOwBZdoiffDxbRO6I2h6In0LQkhh75GXdtXMx-v-vY8zfSYzbdpKS0XhhYx-EaX3j7OqtfQiDHyfwQG&new=1)
- > DanderSpritz是NSA泄露的一款著名的界面化远控工具，由于其功能强大因此也成为了许多安全人员争相研究的对象。但在实际测试过程中，由于缺少说明文档，所以问题也层出不穷。而DanderSpritz lab就是为了解决这些...
- ## [美国刚刚解禁中兴，澳大利亚又要封杀华为?](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=XM6O5ZbXML*4NoV2l55TIuWhdrxSpgExw5S58Mqii9*2ZRUhulky9TRx1qtTl1-UjTiaiZzRT6eoSEplBhEobDe3JzMTDukPo7q0j2bacSGiTka42YhrKMZUazhpq0ZV&new=1)
- > 今天随着美国解除对中兴通讯的禁令，中兴事件终于解决了，虽然付出了不小的代价，这个教训也很惨痛，但是中兴也迎来了重生的机会。可以说，这对很多人来说是一个好消息。但是，接下来国内的另外一家通信巨头——...
- ## [Microsoft Inspire 2018大会：为合作伙伴开启创新、发展和差异化优势全新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1531616406&ver=999&signature=Rg3jL3Amz*IgwGrPL3XFKBBDclRhRlantCRrvxsTbgZkjUNHS6DaEbJ52jZ9PsjAGTgGzunIOhAWLSVemBHlxYKOMqSvC7b6DssugbEdBNqH2JcXJ4fRZwKT6XR*Mm6z&new=1)
+ ## [定了!河北28个省级职教集团名单公布，这些院校牵头→](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=jNmK8bipBlfx3*CMZeWG8arcpjCvhAVYcmjyJqcFXHWXAKSVzzKaR6U3nx1Wljb5t8l9a3WYrWc5Iqd-DjwYFhoS3vYc4mmCgXxMlIGR*57cy9C2L9TXpv1RYcRzEIPj&new=1)
+ > 最新好消息！省教育厅近日发布通知，经研究，决定重新调整确认16个和新建12个河北省职业教育集团。原省级职教集团名称、牵头单位以本次公布的为准，未公布的省级职教集团予以撤销。优质资源集成开放共建共享完善...
+ ## [Microsoft Inspire 2018大会：为合作伙伴开启创新、发展和差异化优势全新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=Rg3jL3Amz*IgwGrPL3XFKBBDclRhRlantCRrvxsTbgZkjUNHS6DaEbJ52jZ9PsjAxupv-2mrhE5GYG6NYblqqw5LgZsdl*Vfu4oMcE7ytxkkHGpGqYj-576UsA8dmapZ&new=1)
  > 世界各地的企业都在经历着一场由云计算、人工智能、混合现实和物联网所驱动的转型。正是这些技术引领企业和当下社会提升到了一个新的高度——零售业正逐渐变得更加个性化；银行业将更加无缝；而医疗领域，也将能...
- ## [王思聪在现实生活中是怎样的？](https://www.zhihu.com/question/51956694)
- > 狂躁症患者外加偏执。有时候在气氛非常和谐的时候，他会因为某一件小事突然爆发，把周围人吓一大跳。怎么说呢，这个人特别像一个LOL主播死亡宣告。就是前一秒他还和颜悦色，下一秒有可能就是疾风骤雨。记得有一次...
- ## [为什么 iPhone 删软件时，所有图标都要抖？](https://www.zhihu.com/question/26470075)
- > 被删的：惊吓啊，并且祈祷你只是在启用3D Touch而不是真把它删了啊！幸存的：看清楚咯！别删错咯！好吧，其实删除软件这一动作应该用UI交互设计的思维来解释UI交互设计遵循的一些原则：整体一致性原则、可预知...
- ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
- > 有条件的话就搭个自建的，同样首次访问域名本地的比所谓的国内最优秀的要快很多看下图，差不多2-3个月没打开同花顺首页了，而且刷新过DNS缓存所以本地不可能有缓存了 ，然而不管查什么，onedns都会超时2秒，而树莓...
- ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
- > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
- ## [有哪些好的网站，让人第一眼看了就怦然心动，流连忘返？](https://www.zhihu.com/question/26380791)
- > 这几天一直在外面玩，趁着今天休息又整理了一波小可爱呢，都是压箱底的心头好哦，希望你们也能喜欢，整理不易，要是能给小姐姐点一个赞，那就更好了呢小独—听一首歌，看一段话，览一篇文✔超级简洁的app，每天推送一...
- ## [本人有10W真实的微信公众号粉丝，请问如何变现？](https://www.zhihu.com/question/21125603)
- > 自己苦心经营的微信公众账号还没来得及变现就胎死腹中？一直嚷嚷着变现却迟迟没有效果？一直默默原创靠着微薄的打赏麻醉自己？很多用户都在说变现，变现，变现。关于变现，我有一套自己的商业逻辑。变现其实最终就是...
- ## [如何评价袁小靓移民美国？](https://www.zhihu.com/question/278304414)
- > 无事献殷勤，非奸即盗；没事喊爱国，非奸即贼。叫的越响的，越是把爱国当生意来搞，基本上这种人叛变的最快。你爱你爹，也不会天天喊“爸爸我爱你啊”；你爱你那口子，也不会天天喊“我爱你”；越是亏心，喊的越欢。
- ## [小牛学堂的培训班是什么情况？](https://www.zhihu.com/question/59419975)
- > 首先我们来看一下当下想学大数据分析的有什么人，当下很多大学生对大数据很感兴趣，比如即将或已经毕业的计算机专业学生，学大数据可以更好的就业，很多人都说计算机专业的大学生好找工作，但是计算机专业的朋友在校...
- ## [为什么论坛老是有色情广告帖？怎么根治「XX地方哪里有找小姐上门服务」这类 spam 现象？](https://www.zhihu.com/question/20923634)
- > 论坛作为UGC内容的主要途径之一，发帖门槛低，内容规范相对宽松，因此内容鱼龙混杂，线下的牛皮膏药的小广告也转到线上。这类不符合论坛调性、甚至会影响用户体验的内容，我们统称为垃圾内容。垃圾内容泛滥的原因...
- ## [为什么台湾的Facebook用户远远多于Twitter用户？](https://www.zhihu.com/question/35337014)
- > 台湾由Facebook一统天下，上到资讯传播，下到即时通讯，中间是本职的关系型社交，全吃掉了（即时通讯line分了一大部分去），这本身就是一种不正常的现象，美国市场早就分化了，大陆也分化了（微博/朋友圈/微信），社...
- ## [有哪些可以投稿赚稿费的公众号以及网站？](https://www.zhihu.com/question/46863528)
- > 加了几十个公号运营社群，整理了一些收稿公号的资料，今天终于派上用场了！要投稿的小伙伴赶紧过来吧！一、公众号文学类：《上海文学》类型：小说、非虚构、诗歌字数：小说、非虚构稿字数限定在1万字内。诗歌在150行...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 这是对我震撼性很大的故事。给我讲故事的人，是我目前最佩服的人，一个姐，本科外科，硕士法医，自学考了律师资格证A本（我是法科生✌️）大家称作法医姐。这是这个姐的基本状况。我记得那是17年的年初，在拉萨，围...
- ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
- > 在芳华里面有句话，女红二代说：江山是我们爹打下来的。因为女红二代的身份，基本所有人都巴结女红二代但你知道当初革命死了多少人？仅仅长征，人数就从8万多变成8千多；知乎只羡慕那些红三代，红二代，你知道别人爷...
- ## [王者荣耀怎么玩好达摩？](https://www.zhihu.com/question/56913055)
- > 我对达摩这个英雄有感情，很深的感情因为他拯救了我的战士型边路达摩是一个非常全面的英雄①达摩可以打3个位置，打野、边路和游走，其中边路&gt;&gt;打野、游走，优先边路位置②达摩S12赛季，边路优先级提高，目前在边路可...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [有哪些可以投稿赚稿费的公众号以及网站？](https://www.zhihu.com/question/46863528)
- > 加了几十个公号运营社群，整理了一些收稿公号的资料，今天终于派上用场了！要投稿的小伙伴赶紧过来吧！一、公众号文学类：《上海文学》类型：小说、非虚构、诗歌字数：小说、非虚构稿字数限定在1万字内。诗歌在150行...
- ## [在饥人谷学习前端是一种怎样的体验？](https://www.zhihu.com/question/41845934)
- > 我也是一个转行的案例虽然计算机专业毕业，但是毕竟大学荒废了4年。毕业后就从事行政方面的工作了，一干干了五年17年时，偶遇饥人谷。一边跟着直播班，一边上班。也不是直播班里特别拔尖的。大概课程2/3时，学到面向...
- ## [电商运营助理【零基础】如何成长为一名运营？](https://www.zhihu.com/question/67431146)
- > 真正意义上的运营，一定是一个能够对整个业务流程有掌控力和影响力的人，而不是简单的执行。这决定了你是否要一直打杂，决定了你有无前途。电商运营也是如此——以下是三节课联合创始人黄有璨老师与电商运营顶尖高手...
- ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
- > 有条件的话就搭个自建的，同样首次访问域名本地的比所谓的国内最优秀的要快很多看下图，差不多2-3个月没打开同花顺首页了，而且刷新过DNS缓存所以本地不可能有缓存了 ，然而不管查什么，onedns都会超时2秒，而树莓...
+ ## [看上去很美 黄色网站背后隐藏的安全危机](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=bn5b9DHKX1LcCnAEgvG6TkUSk-Kde2jtRVI8SKYLUlgUhcUTGmmdkte-TU7uObI*yJi3YfwSlWnGPBDD*eotud-QmsjSNRbcfmT4IJd60ZrGXbM0mUrj3mPoqGHyGPxw&new=1)
+ > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位1　　随着互联网的发展，上网的用户越来越多，对于各种内容的需求量也就越来越大，在网络上的非学术信息中，47%与色情有关，而目前互联网上色情网页已...
+ ## [美国刚刚解禁中兴，澳大利亚又要封杀华为?](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=XM6O5ZbXML*4NoV2l55TIuWhdrxSpgExw5S58Mqii9*2ZRUhulky9TRx1qtTl1-UL06AoWzbPXiRgbze4YE2FY2zRcdT4mkvCKXYPR2H944SAn9oMkKSoZQ5Jdl0cSn8&new=1)
+ > 今天随着美国解除对中兴通讯的禁令，中兴事件终于解决了，虽然付出了不小的代价，这个教训也很惨痛，但是中兴也迎来了重生的机会。可以说，这对很多人来说是一个好消息。但是，接下来国内的另外一家通信巨头——...
+ ## [每周新闻报|三星量产96层V-NAND；SK海力士无锡建工厂；华天科技：80亿元投建南京封测基地](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=VqM42TDbSM6e03dHd8aMKTUuk62cGLi8WoDZzznEDcffapcpaX9CWr-xZvH2r9rCms5*uRBffw*BatdvCFajj-ZGva*PNHzUfsk9IOOwa12w5F0VJsJj3t*lzj*VI3hS&new=1)
+ > 1华天科技：80亿元投建南京封测基地7月6日晚，华天科技拟在南京浦口经济开发区投资建设南京集成电路先进封测产业基地项目。该项目总投资80亿元，分三期建设，主要进行存储器、MEMS、人工智能等集成电路产品的封...
+ ## [融资看趋势：智能传感器成重点布局项目](http://mp.weixin.qq.com/s?src=11&timestamp=1531618206&ver=999&signature=35PlBCw2uzXojJ5ozsJCSakEq0du6J4YSjvViyjaVzpkc54AFZHyOKuSmMxWq1DgPIlsENsSDch5cucWVUm-cOgyEKvnE0nYg*wqNin8YTgAt1LC1DHut6zG-QffyN-J&new=1)
+ > 传感器作为一种能感知、转化、输出信息的装置，在很多领域都有应用。随着物联网、人工智能技术的发展，智能传感器也成为了新的市场需求，未来在工业、医疗、农业、3C等各行各业承担着不可或缺的作用。企业加大智...
 # IT 技术 
+ ## [abu — 基于 Python 融入机器学习技术的量化交易系统](https://www.oschina.net/p/abu)
+ > 阿布量化交易系统（股票，期权，期货，比特币，机器学习），基于 Python 的开源量化交易，量化投资架构。abu 能够帮助用户自动完善策略，主动分析策略产生的交易行为，智能拦截策略生成的容易失败的交易单。
+ ## [协作翻译 | 实用教程分享之 Node.js 的 SQLite 教程](https://www.oschina.net/translate/a-sqlite-tutorial-with-node-js)
+ > 在本教程中，我将演示如何结合 sqlite3 和 Node.js 驱动程序在 Node.js 环境中使用 SQLite。对于那些不熟悉 SQLite 的人来说，它是一个简单的单文件关系数据库，在智能设备、嵌入式系统甚至小型 Web 应用程序中非常流行。
+ ## [码云推荐 | 基于 sqlx 封装的 Golang 数据库操作 gosql](https://gitee.com/fifsky/gosql)
+ > 基于 sqlx 封装的 Golang 数据库操作，支持基于struct的增删改查快速操作、支持基于map的增删改快速操作、支持完整的事务、struct辅助生成工具
+ ## [每日一博 | 使用 Ceph 实现的分布式文件共享解决方案](https://my.oschina.net/wenzhenxi/blog/1845710)
+ > 哈喽大家好呀~这次给大家带来的 Liunx 软件分享是鼎鼎大名的 Ceph 分布式文件系统。文章内容将包括环境准备、集群部署、简单使用和性能等……
+ ## [Wine 将通过 Vulkan 在 macOS 上提供对 Vulkan 的支持](https://www.oschina.net/news/98018/wine-macos-vulkan-moltenvk)
+ > CodeWeavers 的 Andrew Eikum 为 Wine 增加了一项新的功能，通过开源项目 MoltenVK，使得 Windows 应用的兼容层 Wine 支持在 macOS 上使用 Vulkan。 通过使用 MoltenVK 封装器，&quot;winemac&quot; 代码获得了最初的 Vulkan 支
+ ## [Fedora 29 从默认 BuildRoot 中删除 GCC 引起激烈争论](https://www.oschina.net/news/98017/fedora-29-gcc-buildroot-debate)
+ > Fedora 29 中实现了一项令人惊讶的有争议的变化 —— 从默认的 BuildRoot 中删除 GCC 和 GCC-C++，以便将 Fedora 包与 Koji 和 Mock 组合。 到目前为止，我们总是认为 GCC（包括 GCC C++ 编译器）默认存在于每个 build-root 中。但实际
+ ## [QEMU 3.0 准备将于 8 月发布，提供对 GTK3 的良好支持](https://www.oschina.net/news/98016/qemu-3-0-rc-march)
+ > 据外媒报道，自从去年年底讨论从长期运行的 v2.x 跳到 v3.0 里程碑之后，QEMU 3.0 的开发一直在进行中，目前 QEMU 3.0 的第一个候选版本已经推出，标志着 QEMU 3.0 里程碑已到达功能冻结阶段。 QEMU 3.0-RC0 刚被打上 tag 标记，这意味着已到达首个候选版和硬
+ ## [OSChina 周日乱弹 —— 对一个喝醉酒的女孩子做这种事](https://my.oschina.net/xxiaobian/blog/1853145)
+ > “我喜欢你”，“别，你喜欢的只是想象中的我，实际上我可比你想的优秀千万倍，你配不上我的。”
+ ## [GNOME 3.30 的窗口管理器 Mutter 将有更多的性能调优](https://www.oschina.net/news/98014/mutter-additional-opts-3-30)
+ > 在删除 Mutter 对 X11 代码的依赖和各种性能调优优化之后，看起来，Mutter 将会非常适合 GNOME 3.30。除了最近几个月已经完成的性能工作之外，更多的优化工作刚刚落实，看起来还会有更多的优势可能仍在继续。 最新的消息，有关 GNOME 3.0 这两个月以来的 GitLab 代码合
+ ## [火狐浏览器 Windows 10 版暗色主题来了，跟随原生模式](https://www.oschina.net/news/98013/firefox-windows-10s-dark-and-light-mode-settings)
+ > 微软早在2015年就为 Windows 10 系统引入了 Dark 主题，虽然大部分 UWP 应用都支持该项设置，但是 Win32 应用仍在不断完善，微软自家的资源管理器也是在近期刚刚获得对 Dark 主题的支持。 现在，Mozilla 的 Firefox 率先拥抱该设置，在最新的 Nightly 
+ ## [JDK 12 早期试用版发布，尚未列出具体更新内容](https://www.oschina.net/news/98012/jdk-12-ea-builds-released)
+ > JDK 12 Early-Access Builds 已发布，尚未列出具体包含哪些 JEP 和特性。 Release notes API Javadoc 提前了解更新细节，可查阅： Changes in this build Issues addressed in this build 尝鲜地址： 
+ ## [vue-element-admin v3.7.2 发布，后台集成方案](https://www.oschina.net/news/98011/vue-element-admin-3-7-2-released)
+ > vue-element-admin v3.7.2 已发布，更新内容如下： 新增了 lint-staged 进行提交格式化校验 818 优化了\[ArticleDetail\]: refine el-col :span 841 by @ZYSzys 优化了\[login\]: 修复了登录页 input p
+ ## [Debian 9.5 发布，修复和调整安全问题](https://www.oschina.net/news/98010/debian-9-5-released)
+ > Debian 9.5 发布了，这是 Debian 9（代号 stretch ）的第五次更新，主要增加了对安全问题的更正，以及对严重问题的一些调整。 该版本还更新了许多包含的软件包。 完整更新内容请查阅发行说明： https://www.debian.org/News/2018/20180714  镜
+ ## [Material UI 1.4.0 发布，Material Design 实现框架](https://www.oschina.net/news/98009/material-ui-1-4-0-released)
+ > Material UI 1.4.0 已发布，更新亮点包括： 重做 Tooltip 实现，该组件现在更小更快。 12085 新增颜色选择器 12053 新增新的状态开关按钮组件 10144 该版本还包含许多其他修复和改进，完整更新内容和下载地址可查阅发行列表。 Material UI 是一组实现
+ ## [Nginx Unit 1.3 发布，动态 Web 应用服务器](https://www.oschina.net/news/98008/nginx-unit-1-3-released)
+ > Nginx Unit 1.3 已发布，NGINX Unit 是一个动态 Web 应用服务器。 更新内容如下： 更改: 现在允许在 request header 字段值中使用 UTF-8 字符。 特性: 支持配置 request body 限制大小。 特性: 支持各种 HTTP 超时连接配置。 特性:
+ ## [Elide 4.2.4 发布，雅虎开源的应用数据 API 搭建平台](https://www.oschina.net/news/98007/elide-4-2-4-released)
+ > Elide 是一个互联网和移动端应用数据 API 搭建平台，只需要一个简单的 JPA 注释模型 就能帮你轻松搭建 GraphQL 和JSON API web 服务，由雅虎开源。 Elide提供极具规则性，简单易懂的语法规则，让你轻松搞定实体（entity）的安全访问。 JSON-API 和 Grap
+ ## [Chef 14.3.43 发布，自动化服务器配置管理工具](https://www.oschina.net/news/98006/chef-14-3-43-released)
+ > Chef 是一个系统集成框架，为整个架构提供配置管理功能。使用Chef，你可以： 编写代码来管理你的服务器，而不是运行命令（通过Cookbooks）； 集成 tightly 到你的应用程序，数据库，LDAP 目录等……（通过类库）； 轻松的配置应用程序，但需要了解你的基础设备（运行的什么系统？当前的
+ ## [Apache Phoenix 5.0.0 发布，HBase 的 SQL 驱动](https://www.oschina.net/news/98005/apache-phoenix-5-0-released)
+ > Apache Phoenix 5.0.0 已发布，该版本与 HBase 2.0+ 兼容。 Apache Phoenix 为 Apache Hadoop 提供基于 SQL 的 OLTP 和运营分析，使用 Apache HBase 作为其后备存储，并提供与 Apache 生态系统中其他项目的集成，如 S
+ ## [Puma 3.12.0 发布，为并发而生的 Ruby Web 服务器](https://www.oschina.net/news/98004/puma-3-12-0-released)
+ > Puma 3.12.0 已发布，该版本包含 5 个新特性和 2 项 bug 修复。详细如下： 5 features: 现在可以指定服务器应支持的 SSL cipher Puma 的 max_threads 设置现在位于 Puma.stats Pool capacity 现在位于 Puma.stats
+ ## [SQLAlchemy 1.2.10 发布，Python 的 ORM 框架](https://www.oschina.net/news/98003/sqlalchemy-1-2-10-released)
+ > SQLAlchemy 1.2.10 已发布，这是一个小版本，引入了一些针对 Core 和 ORM 的修复： orm \[orm\] \[bug\] Fixed bug in Bundle construct where placing two columns of the same name would b
  ## [踩坑实践：如何消除微服务架构中的系统耦合？](http://developer.51cto.com/art/201807/578706.htm)
  > 踩坑实践：如何消除微服务架构中的系统耦合？
  ## [Android自动化页面测速在美团的实践](http://mobile.51cto.com/ahot-578711.htm)
