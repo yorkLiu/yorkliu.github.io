@@ -1,51 +1,51 @@
 ---
 title: 2018-07-16 IT News
 copyright: true
-date: 2018-07-16 08:00:46
+date: 2018-07-16 09:04:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果、谷歌、百度的不谋而合：欲善“无人驾驶”其事，必先利“地图”之器](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=hFH70EBe1*MNxKh5b-z05XdIpNeRhNzK3kdlrN1RT7esCOI8g9JVR6vgI52tq44PBhoVlItCjCb*2zx0WeZYuz*z2aL3VqNINU-2RY43ToFNQlIc0*x2QSpZYZsAzH-a&new=1)
- > “你是谁？你从哪里来？你要到哪里去？”三个哲学终极问题，无人驾驶占据了其中两个。文丨夏青 编辑 | 秦言 来源丨懂懂笔记（ID：dongdong_note）在2009年宣布启动无人驾驶项目Waymo后，谷歌在2016年5月和菲亚特...
- ## [\[发展趋势\]国网浙江：电力无线专网建设 推动电网创新发展](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=K8FEdxmaaIjs5flkeTCykXTQAIyKwX-c--kFLKq4LvpzwLfQyGLMBNxIIZEfpbmJe7guGLuDe2t*DRBMxsjgz8ap-laoOuriDa2R8lhoucxokzVcbtBBXF4bOaPGGsHX&new=1)
- > 应用电网设备实时运维管理平台，实现电网运维管理“最多跑一次”;水电信息实时监测、多次采集、即时传送，有效推动“多表合一”业务开展;接入分布式光伏，有效监测发电信息……在浙江海盐县， LTE230MHz电力无线...
- ## [苹果印度多名核心被曝离职：iPhone迄今销量不足百万台](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=JFLYCV7R8Gsa35DGk7QLpyB03N10nC53axiLzcJZgVWkpqNm4dJGixPqLwZ4QozFihtCnj73PTYgWNohq8vp-pWCpfJIVCFHz5k6S3MeHTG4ocNlK3AkGrS00d*TvDuU&new=1)
- > 即便强如苹果公司，为了可持续发展，也在不断思忖如何扩大用户量的问题，其中人口全球第二、且智能机发育程度尚不高的印度是其重点发力的市场之一。为了照顾印度居民对便宜产品的喜爱，苹果先后在当地兴建iPhone...
- ## [\[重要\]刚刚，中国移动发了一个紧急通知：从明天起将..](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=*Xp-PYY7SNIZL0BlEIgclcW71*Fi6Yt78gDfR8YN*PAgIeF3XAd15BuiHnjnldCAMFf-F*YS0r2t5HYT8HEXyuB4eQGdPLiWsyzQqVvLj0ru2F952xi*K0CSYZqwh0gy&new=1)
- > 尊敬的用户：为了给您提供更优质的服务，我公司将于2018年7月16日至31日进行系统网络改造升级，中国移动手机客户端的部分业务使用功能会受到影响。此期间如需办理相关业务，请通过中国移动营业厅、网站等渠道咨...
- ## [\[科技\]第四次工业革命来临，中国准备好了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=6aIe9SRl1uYUPl-AHeymMkSEWt0icc2gEGO4XsMsZmXvS5YnLrq2XFQAI-A1M-dvxgn3QqmV48x-JQ5PvISyIKJfnUpqS6mAAZAlJoRm6xZwsscaV*tJ0bcoRVOVH-0a&new=1)
- > 第四次工业革命是不是来了？　　2017年10月，沙特阿拉伯授予机器人索菲亚“女士”公民身份，使之成为世界上第一个机器人公民。世界上第一个机器人公民索菲亚“女士”第四次工业革命是什么？　　也许我们可以...
- ## [财天独家对话高通总裁：博通收购我们失败死于模式之争，手机市场没衰退|过招](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=1M-1-hZN*jCvE-say*XK8VZ3IYYA06atGUNkeEgDzQ*a-vWBqgBIYxilFTTOupDM7n*uKhiRUt0mpkvRb*6olk1HyT99W3tdVPy5p76MaGiuo0jofZPLpVKVATEPNyNa&new=1)
- > 移动通信行业，技术变化速度非常之快，周期非常之短。一个不是基于对创新和技术进行投资的商业模式，是不适合这个行业的。目前，市场正处于从4G向5G过渡期间，5G对整个泛技术领域，将产生广泛且深刻的影响。财经...
- ## [万加链武景刚：物联网要选择合适的技术，而不是被区块链概念绑架](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=6QKcSZj-msFHEi8*fzlqjyMHwpohQNn1jqJhvrtcs3-t-fhs265Q3nbQyNmQ*kM*DdtKPIqRWKyHoTF3ukg8JAlC8tdlABuzrXnAhs38zreOx5UYz7J5fR4vAxBCnGtX&new=1)
- > 算根据IDC数据，2016年全球物联网安装设备已达到148.66亿台，5年后将超过300亿台，年复合增长率在20%左右，增长极为迅速。在这迅速增长中，物联网中心化的技术机构、封闭源代码的安全模型以及数据拥堵等问题日益...
- ## [信仰，让梦想变为现实](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=mCn5gZbPvw-d2Q8y14X1iGVT9uXcVp*K1BHXHaWMzil7IpI*L9GUZUDmIz8NR*pKBVajSP3*MUlsRcnBmialCKl*-co9WME*6Zzt6KvipbHPaVwe0i8pV9RJWJuVCtBZ&new=1)
- > 四年前的我坐在电视机前看着人们为了那个目标而奋力拼搏幻想着我也能是其中的一员如今的我距离那最高的荣耀只有半步之遥我从未在意世人的争议只想到达那最高的巅峰信仰，让梦想变为现实AI上有信仰的云华为云中国...
- ## [违规软件再添新业务，秒变直播僵尸粉刷量造假](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=bn5b9DHKX1LcCnAEgvG6TkUSk-Kde2jtRVI8SKYLUlgKC5fBeb1VoSg7apWgfG68OrvDMRwE14A4IYx0hQAW4EF0V-ptKeqZXrtdSxXnocuYdSYGMYf*6u0edUqhwx7G&new=1)
- > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位0×1 概述腾讯御见威胁情报中心监测发现速浪系列软件突然异常活跃，异常联网行为明显增加，监控数据表明，受该软件家族影响的电脑约50万台。遂对引发该...
- ## [痛心!又一运营商人工作现场被电击，当场……](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=GD1AF1FN-JGHFkjlhiKBPqmlF0MCnuHnMmsJHfYkLvuN2*Rc3BZw*PhiyvfHveSQSkoDuDXpSBmWQwNOuRw1bP3Pv0BTiw07nRRXL4KA9tIixuGBi*qZ7SCKxrX4coH-&new=1)
- > 这是不久前发生的一起通信工程安全事故…安全一万天，事故一瞬间。当亲眼看到自己的同事从扶梯上摔下来的那一刻，突然感觉生命如此脆弱。         这又是一起事故…一个鲜活的生命就这样离我们而去了。血淋淋的...
- ## [如何防范社会工程攻击?](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=VzxkUCvHBBI6odSCvbniozjiemDd9v-nqNoZkIpRtX8WeD65BtT-vy5oyia-BiI*aYUkPJL3KjxYSQTUk8dy3vx4WCBkcxddcKk8TSbttdxbODxA0WE7QEiq8XfqofaK&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全7月15日讯 在 Veriozon 出具的《2017年数据泄露调查》报告中，90%的成功入侵都是通过社交工程实现。与其说社交工程是电脑入侵，不如说是人与人的斗争。现...
- ## [10美元你就能黑了机场：迈克菲发现众多机场服务器登陆凭证泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=QTJZqZhAkAvm2ba1dPT9PCpSDDa1S3DVPzV*O7mM5jIkrhy1V63ma2ikImODw9yuic0qf1vThdh0h4VFTVVZxrx7-yvbVxVbP4y2fuvAfLy*H1pZDTtUdIVSrJuBT963&new=1)
+ ## [携手微软智能云，共赢云计算与人工智能的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=Rg3jL3Amz*IgwGrPL3XFKBBDclRhRlantCRrvxsTbgZlf1edEmK3sTTB0vFMopHZOJM2jh6Z*tXruGPXToxsYkBskcSp69knGf7gguqevXm0Zwd0O5f0lku3ymFJ-jqg&new=1)
+ > 面对智能云计算与人工智能引领的未来，全球各地的企业和组织纷纷秣马厉兵，严阵以待。新兴技术在帮助企业制定商业策略和推动数字化转型中扮演着越来越重要的角色，而微软也在全力以赴地以我们的前沿技术创新、推...
+ ## [\[C114周报\]美商务部正式解除中兴禁令；中国联通总经理陆益民离任；华为斩获西澳铁路无线专网合同](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=mL5ityCC5hXB97Brytl88W4r9D-cvDDTKJpoR1UFuEXG8YmeM47nKeCmwh1Gx*baTmWteFJw21TTvGA-eHf9**vXLcxMaGYaUS6ZpUmFNyV8v2iT3-ILxL4U761oD9y4&new=1)
+ > 周报WEEKLY本周热点有美商务部正式解除中兴禁令；中国联通总经理陆益民离任；华为斩获西澳铁路无线专网合同• 第009期 • 美国商务部正式解除中兴禁令7月14日历经89天的努力和等待，中兴通讯终于可以摆脱美国拒...
+ ## [10美元你就能黑了机场：迈克菲发现众多机场服务器登陆凭证泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=QTJZqZhAkAvm2ba1dPT9PCpSDDa1S3DVPzV*O7mM5jJRxbJasdcyq1YPVNPiPGvjGfSkt95fWMssCV3TVKEnexJpNGAWCSdid4oHlzt561oShLAoSr*TXrrrjUL*7ORz&new=1)
  > 机场在常人眼里应该是安全级别非常高的公共场所，然而不为人知的是仅只需十美元你就可以黑进机场系统。知名安全公司迈克菲在日常巡查时发现有黑客在暗网黑市里面出售多个国际机场的服务器远程桌面连接凭证。任何...
- ## [漏洞奖励计划初见成效：微软发现“幽灵”变体](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=sThEh5a4VZPpC2FDafUXqfzocfa-kobw*h3FUtma7js0uw6*P9Wvg6HmDe8cNl81NXGLpd*e3WOw6wHkuQDobGFzN4Ot5rcL04gDmnyBTQLJiGhNiENm0v2pFIIcXnS5&new=1)
- > 近日，英特尔向两位安全研究人员支付了10万美元作为漏洞奖励计划的奖金。两人发现了著名的幽灵（Spectre）漏洞的新变体，漏洞的发现者——来自麻省理工的Vladimir Kiriansky和咨询公司的Carl Waldspurger将会共...
- ## [软件代理怪兽思杰马克丁](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=D5Euuc4nZ6LlEc2bHk1NLDucOxRAxN*JKSX75QFAFqaE9KD614813zhsN5hYnSNXlM0sRDnasZfqL7qQOC6r6*6ZzJsjReOapM68bX68c4qfJfwcyHYjtxpPogylv76h&new=1)
- > 左手正版右手盗版的商业闭环，是怎么炼成的。如果给拖慢电脑运行速度的软件们排个序的话， 非饱受诟病的 Adobe Flash Player 莫属。作为性能孱弱，散热捉急的 MacBook Air 用户，我肯定是第一个举双手赞成 Flash...
- ## [喷墨砂型3D打印技术(铸造业人士要注意)](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=w0ogOnXpEYQqWVfUr0vSN1g4OcO7JNkXOtnCwWkB3M*DuQj1KTlFNB*wqPw7F3njm-WAx*9le03G07uXGvmHmMbbQ2g1oX26OhVmVkftg1UaAJAquVPZweVhwfioeJ7r&new=1)
- > 近日，有一个喷墨领域的3D打印技术人士，笔名叫inker，向南极熊投了一篇稿件，深刻地揭示了利用喷墨来实现砂型3D打印技术的要点。值得一读。中国铸造一直面临大而不强的现状，关键高精密铸件主要依靠进口。加快...
- ## [“是gay不是gay，我说了算!”](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=7iOIcDWbZgr5q8Q27WQ2NrptLVlnlDIUThjqULQYUua9gzkKhS1HWgtwmNuFS7xeG1Er8QhNMnWGVXG-Rb3xZWQR5Uq3W7dCtau7KfZ25O3WZL41ZRCpbHS0cfwLwRX-&new=1)
- > 俺黑君够黑，慎关注！1.AI人工智能新技能:人脸识别能检测出同性恋？人脸识别不光能解锁手机，抓逃犯…它还可能检测你是直男还是 Gay？去年，斯坦福大学的 助理教授 Michael Kosinki 和同事 Yilun Wang 在一篇论...
- ## [重大发布!8月起全国执行，有手机的都看看!](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=jqfyqYoiznO-jhkGxe*ojda1jQ-3*a03R18fZwWohqTaDpHaZ87s2rHP4j15gxDt71hmi-7-e6vPIPWRMugWNaT*EZImfivB8Qr0Xs3VhlxsLFLJAOBP3mHk2K3YZv80&new=1)
- > 北京土著带您了解最地道的四九城现代人生活都要用到手机号码软件注册新账号要用寄个快递要用 总之随随便便都要用到 个人信息一旦泄露后果不堪设想相信谁都接到过形形色色、千奇百怪的推销电话，很多人一天接5~10...
- ## [中国电信金融业务30年规划详解 距离实现最后目标就剩两年](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=Yi237uOdsRJhnSObR6pjJKfPlU4sH3cCaA1P0x0E2sqILy*4Yz0eV4UtOcbzc3oWA51Q6PuwTfr5Zl-rRnyutW2FOVltESTSqV43uBW2pqNRb2kvjNicppDoLDtLxted&new=1)
+ ## [财天独家对话高通总裁：博通收购我们失败死于模式之争，手机市场没衰退|过招](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=1M-1-hZN*jCvE-say*XK8VZ3IYYA06atGUNkeEgDzQ9qvU8foKqPrb9-SOlB7t-q3rGoa76b*zFBTPj3CY6kSEFlU-5kPMOm6b9CMYSlYX4Mn1PExAdqJ0vVDU6hl1ZC&new=1)
+ > 移动通信行业，技术变化速度非常之快，周期非常之短。一个不是基于对创新和技术进行投资的商业模式，是不适合这个行业的。目前，市场正处于从4G向5G过渡期间，5G对整个泛技术领域，将产生广泛且深刻的影响。财经...
+ ## [\[发展趋势\]国网浙江：电力无线专网建设 推动电网创新发展](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=K8FEdxmaaIjs5flkeTCykXTQAIyKwX-c--kFLKq4LvrubnzNjG46d7C-hdxdjQYlIWA7vQcMLNNHSF*KMpiAa9OBVy3rdCzaJnEMWCEcTusXJ8*km0isjuO*wvYBGyl0&new=1)
+ > 应用电网设备实时运维管理平台，实现电网运维管理“最多跑一次”;水电信息实时监测、多次采集、即时传送，有效推动“多表合一”业务开展;接入分布式光伏，有效监测发电信息……在浙江海盐县， LTE230MHz电力无线...
+ ## [官宣!中国联通开启IPv6新时代!](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=i4XlMwVtxx*xk2K1ornCMW5DzHdw75XPLs9WCAQpDhlrPVrarq3mdULDnFtuID6CcL03W8rO*MmsM4Xl4phkFbh57o2nxGG9FXvHYCyXcN4NjUtrXiDLx4MSx34WxMm3&new=1)
+ > 7月12日，2018中国互联网大会期间，“2018中国IPv6发展论坛”在国际会议中心成功举办。论坛现场举行了基础电信网络IPv6服务开通仪式，宣布将在部分地区正式向公众用户提供IPv6网络服务。中国联通在论坛现场展示...
+ ## [中国电信金融业务30年规划详解 距离实现最后目标就剩两年](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=Yi237uOdsRJhnSObR6pjJKfPlU4sH3cCaA1P0x0E2srSl3J400OHVjhgGOTpTgBqVzeArKDwjdCJP6foeJcBTwPP6WO9Y4V-7C8oT4nSJKhsat9fSw9DIE2qMR7ZxQHK&new=1)
  > 近日，中国电信金融领域的规划图曝光，规划图中中国电信把其金融领域的发展分为三个阶段，当前已是其第三阶段的最后冲刺时间，中国电信距离其终极目标还有多远？规划图显示，1990-2013年是金融IT阶段，这13年中...
- ## [TC 杭州|自动驾驶到底需要怎样的“眼睛”?](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=UYuPjzphVJqUXydr0QEAVKGsGpEdNkEUeQnLVhHb4i8SYQaADlXh*EpvpT5zM6U6xQBefyQt0DOXYWnHd1897euwl5L2ES9E0XVIRxOrsFOTdVqHzkNeo3pTqkuAFa4C&new=1)
+ ## [荷兰：南部城市明年推出全球首个3D打印住宅区](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=3jYYo5d4WGZJAxyaG1v5S2E-hdgtBCD9bI-nsgBi3gIHPkYRlW8J-BUuRymPT9TnRl6zRoLykyEpTLvyrY0-wh8ojBSBOQX40NkmknzysT*aGbeSLUzy8wg4JIXIo3ic&new=1)
+ > 法国《欧洲时报》7月13日报道称，荷兰南部城市艾恩德霍芬计划2019年推出全球第一个3D打印住宅区，发明者认为通过加速建造过程与定制化建筑可以彻底改变建筑业。据报道，房屋是机械手臂以水泥打印的，这项计划受...
+ ## [人工智能+5G：时代抛弃你，连个招呼都不打?](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=BxI0CFW*RugRO8fF3ZngjFF9iPe6Ue*roLtHC7gPlmFqxoTKMJgRrxEYHZgSaJ9jFbJclqA-eOfXLCqMlBJE320h9FqnwJiLlPxmf2aQfvd-95AxqAhebkfKkDC95VHu&new=1)
+ > 通信网络是人工智能爆发的基础，人工智能将大幅提升通信网络能力。人工智能将在5G时代发挥关键作用，以适应网络高效性和复杂性。如果不利用好大数据和人工智能技术，运营商就没有未来。…这是最近电信业内发出的...
+ ## [余承东5年期限将至 华为还能成功超越苹果吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=nWPq17GbWo6GbhvuOorSuDJlVFeY0T3m81wXoknKItXuBmjH6f3PkUmHnPVt8iPysQD6gROFCNVfyzsERVX0CUEBKCQv94kmiroeO-j*Q3GW9OrNuOZ6BFq22XekjpmA&new=1)
+ > ABOUTBEAUTY关于研究君每天精选深度互联网业内文章、收集最新互联网业界资讯、移动互联网报道、研究、服务为己任的第三方行业研究机构。本周一，经过八年奋斗的国产手机厂商小米终于在香港上市了，整个手机圈乃...
+ ## [软件代理怪兽思杰马克丁](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=D5Euuc4nZ6LlEc2bHk1NLDucOxRAxN*JKSX75QFAFqZzDhZaRiOcUu6648Uo*lrrBe*9GW7adBXrwfWSBwny44DmZNlLJBUgw8-4LDgCbWC4Ar1GQHwMKDTD5vg16vzm&new=1)
+ > 左手正版右手盗版的商业闭环，是怎么炼成的。如果给拖慢电脑运行速度的软件们排个序的话， 非饱受诟病的 Adobe Flash Player 莫属。作为性能孱弱，散热捉急的 MacBook Air 用户，我肯定是第一个举双手赞成 Flash...
+ ## [违规软件再添新业务，秒变直播僵尸粉刷量造假](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=bn5b9DHKX1LcCnAEgvG6TkUSk-Kde2jtRVI8SKYLUlibKXXLSWLhcBgRKdr0ZYQD0kQIlBZZoog1VJ***tHOvn5XfS8qfRzHrzMetXBdWzXMop2k5kk1q6wBbcnzdyWC&new=1)
+ > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位0×1 概述腾讯御见威胁情报中心监测发现速浪系列软件突然异常活跃，异常联网行为明显增加，监控数据表明，受该软件家族影响的电脑约50万台。遂对引发该...
+ ## [免费福利|名家芯思维——硅基光电子集成技术和应用|硅光实操](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=A9InE2qI4zegeVUEt4JtuYs0cU9ahTXmr1njSBHW-xfgznG87xT-msB8KYM95gNYF0*6gRgX8qi9*aR8yyjvSI1VguvOjPpBghfRZWtdPNIK9P5bI3ngWzInTtWuZb-h&new=1)
+ > 时间：2018年7月20-21日； 地点：中国·南京； 报名与合作请联系：0755-82960080-123、13923891217。名家芯思维硅基光电子集成技术和应用暨硅光实操 2018年7月20-21日 中国·南京组织单位主办单位工业和
+ ## [如何防范社会工程攻击?](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=VzxkUCvHBBI6odSCvbniozjiemDd9v-nqNoZkIpRtX8BTr46ZHXXGbkU6wfBGDEWW*MEZIVvs2qUuDFZwmCIAsiPUwvw5VezNOh1XIFJQ7KPGvh7oXMsg68UTYgi4aqB&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全7月15日讯 在 Veriozon 出具的《2017年数据泄露调查》报告中，90%的成功入侵都是通过社交工程实现。与其说社交工程是电脑入侵，不如说是人与人的斗争。现...
+ ## [“是gay不是gay，我说了算!”](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=7iOIcDWbZgr5q8Q27WQ2NrptLVlnlDIUThjqULQYUuYC3xQxbrQ3gXV2Yx-Qvcusui3oiCFoAJUMhBbqjkvcW7w98Bl3ZTOxCNfTSOQbCk6HEBxeBLEC1aZDr979Zdl1&new=1)
+ > 俺黑君够黑，慎关注！1.AI人工智能新技能:人脸识别能检测出同性恋？人脸识别不光能解锁手机，抓逃犯…它还可能检测你是直男还是 Gay？去年，斯坦福大学的 助理教授 Michael Kosinki 和同事 Yilun Wang 在一篇论...
+ ## [万加链武景刚：物联网要选择合适的技术，而不是被区块链概念绑架](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=6QKcSZj-msFHEi8*fzlqjyMHwpohQNn1jqJhvrtcs3-DIUtKg9147Cn8XqpYZgRtnf5MDaVjS7yb5Jn8ddPFNrZptsv01naXRYfX9cccF-7a9BTNFgDZkFemP5JSkRlR&new=1)
+ > 算根据IDC数据，2016年全球物联网安装设备已达到148.66亿台，5年后将超过300亿台，年复合增长率在20%左右，增长极为迅速。在这迅速增长中，物联网中心化的技术机构、封闭源代码的安全模型以及数据拥堵等问题日益...
+ ## [震惊：被华为开除后，他索赔一亿美元，并告发前东家窃取商业机密!](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=*Xp-PYY7SNIZL0BlEIgclcW71*Fi6Yt78gDfR8YN*PDuucJftKjMuYeNDuLBosKeIaBTzoB06Hy91YYdlwSrNU60hs6*dYGvB8LAOhQhA5fWUeO3Ck41ksAU24r4q-Tv&new=1)
+ > 对于商业机密的保护，各大巨头可谓是下了血本，比如7月11日雷锋网就报道了苹果是如何大动干戈地请 FBI 调查内鬼员工。但巨头们也许只是明里对窃取商业机密的行为深恶痛绝，暗里却要求自家员工去别的公司窃取商业...
+ ## [苹果、谷歌、百度的不谋而合：欲善“无人驾驶”其事，必先利“地图”之器](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=hFH70EBe1*MNxKh5b-z05XdIpNeRhNzK3kdlrN1RT7f5gRSniewJ2iiCluh9w2sRiQRibHqgKcmjR5wWnZ1LTsNowcCfSxQi4H8kp1iXBJYvmOAQcxX-ZRVGZlCln7gf&new=1)
+ > “你是谁？你从哪里来？你要到哪里去？”三个哲学终极问题，无人驾驶占据了其中两个。文丨夏青 编辑 | 秦言 来源丨懂懂笔记（ID：dongdong_note）在2009年宣布启动无人驾驶项目Waymo后，谷歌在2016年5月和菲亚特...
+ ## [TC 杭州|自动驾驶到底需要怎样的“眼睛”?](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=UYuPjzphVJqUXydr0QEAVKGsGpEdNkEUeQnLVhHb4i9ZWwu0kT*M9ENC41bWyHLRq7hutF-5iFLBuXXRn*-9pt06UsWSt0s8KIeCur24kCHWZk8fuNskpVzbhyqzGRBk&new=1)
  > 动点科技 | ID：technode自动驾驶火了，连带着帮助自动驾驶汽车看世界的各种传感器也成了媒体与资本关注的重点。然而，在激光雷达、毫米波雷达、超声波雷达、摄像头……中，自动驾驶究竟需要什么样的传感器？行...
- ## [节省网费小技巧，插卡路由器了解一下!|Eva的科技生活](http://mp.weixin.qq.com/s?src=11&timestamp=1531699206&ver=999&signature=AWgQY-WSjy3paNwuGxoXxqbiWn57OKf0OQhcm9HPe-NS--XuMJMtEhEoHlD0OtnQ70amuAUcox4CPYLPYi1xDqqPTe8ayiQiaimcI9OPv-lXxtUeHdPwSMXEm3DeH6dK&new=1)
- > @十八线女主持Eva轻参数重体验  带你玩遍科技好物对于我们这些现代人来说空调拯救了我的生命，网络则给予了我灵魂头可断网络不能断，血可流空调必须有！就在最近，华为推出了售价389元的4G路由器每个月都用不完...
+ ## [Magic Leap参数曝光，苹果更新MacBook Pro|本周大新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1531702806&ver=999&signature=1vmFMvK4IiV6SF17dfH-0nTkdZ-pdgZgwT5kW4ucTsTHu1f4r2K*cQugHHvm21gw02M47Op9UVdnwqWJGV4WfbKObTLubNz7XkebiyVidJ17gHFYINS019Wgmo5Z5zEO&new=1)
+ > hi188｜ 撰文本周大新闻为您带来每周科技行业热点。本周，最值得关注的新闻就是，美商务部与中兴公司达成协议，禁令解除。AR/VR方面，Magic Leap公布处理器等更多细节，并宣布新投资者AT&amp;T；Venture Reality Fun
  ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
  > 有条件的话就搭个自建的，同样首次访问域名本地的比所谓的国内最优秀的要快很多看下图，差不多2-3个月没打开同花顺首页了，而且刷新过DNS缓存所以本地不可能有缓存了 ，然而不管查什么，onedns都会超时2秒，而树莓...
  ## [什么样的用户不喜欢微信？](https://www.zhihu.com/question/20779813)
@@ -56,36 +56,36 @@ categories: IT NEWS
  > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
  ## [为什么部分看起来不太复杂的网站，比如Facebook，需要大量顶尖高手来开发？](https://www.zhihu.com/question/20303645)
  > 所以你看看知乎，至今还有大量的 BUG 以及一部分功能自始至终都未完善过。知乎在你们眼里难道有 Facebook 复杂？这就是开发水平不足的后果啊~
- ## [为什么论坛老是有色情广告帖？怎么根治「XX地方哪里有找小姐上门服务」这类 spam 现象？](https://www.zhihu.com/question/20923634)
- > 论坛作为UGC内容的主要途径之一，发帖门槛低，内容规范相对宽松，因此内容鱼龙混杂，线下的牛皮膏药的小广告也转到线上。这类不符合论坛调性、甚至会影响用户体验的内容，我们统称为垃圾内容。垃圾内容泛滥的原因...
+ ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
+ > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
+ ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
+ > 原本回答写的比较隐晦，本文直面回答题主的表述为：目前国内新能源造车势力我都不看好。无论是互联网造车始祖特斯拉连年亏损，自动驾驶事故不断，还是国内蔚来迟迟不交车、赶在交车之前抓紧上市，威马被曝出主推车型...
+ ## [网速慢竟是因为黑宽带，如何避免被黑?](https://www.zhihu.com/question/277373954)
+ > 谢邀。之前读书的时候也碰到过黑宽带的情况，价格那叫一个便宜，那时作为学生党当然毫不犹豫的掏腰包了。但是之后就后悔了，白天的网速那叫一个感人，到了半夜才能稍微好些，打客服也是一个劲的敷衍，投诉也没用，后...
  ## [怎么判断一个产品（品种）有没有市场？有没有一个具体的判断标准？如果需要做市场调查，需要怎么做？](https://www.zhihu.com/question/26817038)
  > 一个概念是否可行,更确切地说, 一个概念能否在你的公司被有效地执行出来, 是比概念本身更重要的问题 。 概念遭遇的第一个执行步与聚就是过滤 。过滤的办法，常用商业模式画布。这张画布上，一个原初的点子，需要依次...
- ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
- > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
- ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
- > 现在只看好蔚来，小鹏和威马。（这个回答建议同行认真看，因为至少泄露了两家企业的内部信息，绝对值一个赞）李书福和李想的话无论放在哪个行业从量变转质变的阶段，都是成立的。更直白点说，绝大部分品牌活不到行业...
+ ## [哪些事情是你做运营之后才知道的？](https://www.zhihu.com/question/284739110)
+ > 你以为只要你工作足够努力，以你的天赋，总会有一个不算太差的结果；做了运营之后才知道，可能连结果都没有。你以为运营是个创意性岗位，可以想出各种各样好玩有趣的方案；做了运营之后才知道，运营全靠套路。你以为...
+ ## [为什么台湾的Facebook用户远远多于Twitter用户？](https://www.zhihu.com/question/35337014)
+ > 台湾由Facebook一统天下，上到资讯传播，下到即时通讯，中间是本职的关系型社交，全吃掉了（即时通讯line分了一大部分去），这本身就是一种不正常的现象，美国市场早就分化了，大陆也分化了（微博/朋友圈/微信），社...
  ## [微软解雇60名HoloLens研发人员, 什么原因 ？](https://www.zhihu.com/question/38084868)
  > 一个比较实际的问题是，HoloLens曾经有两套开发库：MRLab和MRTK。功能重叠，互不兼容。MRLab：里面有很漂亮的UX界面，有Adjust系统，但代码写的很糟糕，耦合度极高，难看。MRTK：也就是曾经的Ho...
- ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
- > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [你赢过的最不可思议的一局王者荣耀是什么？](https://www.zhihu.com/question/276439707)
- > 上图，一天排位连败之后，又开了的一把匹配，五射手局。开局秒选鲁班，然后有人又选了后羿，当时我心情不好，以抬杠的心态选了马可，然后发了一句：干脆五射手好了。结果剩下两人把虞姬和百里齐刷刷地选好了。开始以...
+ ## [如何评价腾讯新推出的腾讯文档？](https://www.zhihu.com/question/273780521)
+ > 1、从产品角度没有什么好说的，文档以及在线文档已经是非常成熟的产品形态。“在线笔记”是我们产品的功能之一，从我们实践经验来讲：做好一款在线文档是非常非常难的，无论是从技术角度还是从产品角度；2、腾讯文档...
  ## [恒大是一家怎样的公司？](https://www.zhihu.com/question/28666048)
  > 未来要垮掉的公司，感觉债务太多了，很难熬过去
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [大数据应用能否通过培训找到合适的工作？](https://www.zhihu.com/question/285320177)
  > 既然你学的是大数据，这些薪资数据不应该都自己用大数据算出来么？
- ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
- > 有条件的话就搭个自建的，同样首次访问域名本地的比所谓的国内最优秀的要快很多看下图，差不多2-3个月没打开同花顺首页了，而且刷新过DNS缓存所以本地不可能有缓存了 ，然而不管查什么，onedns都会超时2秒，而树莓...
+ ## [嗨氏为什么现在不打王者了？](https://www.zhihu.com/question/282672388)
+ > 因为菜。用键鼠玩，秀的英雄玩不了，关羽露娜元歌花木兰这些拿出来就是车祸现场；记得快一年前进他直播间看了几分钟，找了个高手玩星耀五的号拉分打40多星局，他玩鱼？？不谈这英雄本身，占视野什么的辅助基本功都没...
  ## [知乎上的女装大佬们是怎样从萌新变成大佬的？](https://www.zhihu.com/question/58468653)
  > 女装，总是喜忧参半的1 缘起我小时候是一个特别爱哭的人，玩具摔坏了会哭，偶尔看着桌上的剩饭，被踩落的花瓣，心里也会一阵难受，是一个挺感性的人。不过初中之前，我基本还是和许许多多的普通男孩一样，爱打游戏，...
  ## [真正的同性恋者对于网上的「腐」文化怎么看？](https://www.zhihu.com/question/20196888)
  > 对我来说，反感！其一因为我是电影迷，自从腐文化大行其道之后，电影里只要有关于兄弟感情的片段都会被调侃，仿佛只要两个男生在一起都是爱情，而这并不是对我们的尊重，而是亵渎！其二，现在的所谓耽美电影，大部分...
  ## [计算机专业真的如此完美吗？](https://www.zhihu.com/question/49097006)
  > 利益相关：应用数学本科，应数（运筹学、优化方向）硕士，数学与计算机系（组合优化、计算机视觉方向）博士。跨了几个专业+DIY咨询了几十个专业的学生CS完美不敢说性价比、综合打分来看Top 3没谁了分三点讨论：...
- ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
- > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
 # IT 技术 
  ## [browsh —— 极简的基于文本的现代 Web 浏览器](https://www.oschina.net/p/browsh)
  > Browsh 是一个基于文本的现代浏览器。它能渲染现代浏览器所能渲染的任何东西：HTML5、CSS3、JS、视频甚至 WebGL。其主要目的是在远程服务器上运行，并通过 SSH/Mosh 或浏览器内的 HTML 服务进行访问，以显著降低带宽，从而提高浏览速度并降低带宽成本。
@@ -95,10 +95,12 @@ categories: IT NEWS
  > 本文描述一个通过 C++ 可变参数模板实现 C++ 反射机制的方法。该方法非常实用，在 Nebula 高性能网络框架中有大量应用，实现了非常强大的动态加载、动态创建功能。
  ## [码云推荐 | 集成 Swoole 到 Laravel 或 Lumen - LaravelS](https://gitee.com/hhxsv5/laravel-s)
  > LaravelS 是一个胶水项目，用于快速集成 Swoole 到 Laravel 或 Lumen，赋予它们更好的性能、更多可能性。
- ## [又一款关注隐私保护的开源智能手机操作系统：/e/](https://www.oschina.net/news/98041/open-source-privacy-enabled-mobile-phone-operating-system)
+ ## [swagger-bootstrap-ui 1.7.5，Swagger前端 UI 实现](https://www.oschina.net/news/98042/swagger-bootstrap-ui-1-7-5-released)
+ > swagger-bootstrap-ui 1.7.5 发布了。swagger-bootstrap-ui 是 Swagger 的前端 UI 实现，目的是替换 Swagger 默认的 UI 实现 Swagger-UI，使文档更友好一点儿  本版本,swagger-bootstrap-ui核心JS组件进行
+ ## [又一款关注隐私保护的开源智能手机操作系统：/e/](https://www.oschina.net/news/98041/open-source-privacy-mobile-phone-system)
  > 提到注重用户隐私的保护，而且还是开源的智能手机，相信大家都会想到我们此前报道过的由 Purism 公司打造的名为 Librem 5 的智能手机，这款手机默认使用 GNOME 桌面环境和 PureOS，侧重于保护用户的隐私。 而现在我们又发现了一款也号称是旨在保护用户隐私的开源智能手机操作系统，不过系
  ## [看一名 KDE 开发者如何使用 C++17 为项目提升巨大速度](https://www.oschina.net/news/98040/bard-python-cxx-boost-perf)
- > 参与 KDE 和 openSUSE 开发的开源项目开发者 Antonio Larrosa 一直在独立开发着一个名为 Bard 的命令行音乐管理器。他还写了一篇有趣的帖子来讲述他如何将一些操作的速度提升了大约八千倍。 特别是，Antonio 专注于加速在用户的本地音乐收藏中寻找歌曲/音乐副本的过程。最
+ > 参与 KDE 和 openSUSE 开发的开源项目开发者 Antonio Larrosa 一直在独立开发着一个名为 Bard 的命令行音乐管理器。他还写了一篇有趣的帖子来讲述他如何将这个软件中一些操作的速度提升了大约八千倍。 特别是，Antonio 专注于加速在用户的本地音乐收藏中寻找歌曲/音乐副本
  ## [OSChina 周一乱弹 —— 如果是你喜欢的女同学找你借钱](https://my.oschina.net/xxiaobian/blog/1854618)
  > 一个人如果到了三十岁出差还不能坐头等舱，那他的事业便是很失败的 ——《志明与春娇》
  ## [微软 Win10 时间轴现可支持 Chrome 和 Firefox 浏览器](https://www.oschina.net/news/98038/chrome-and-firefox-gain-timeline-integration-via-add-on)
@@ -125,6 +127,10 @@ categories: IT NEWS
  > GnuPG 2.2.9 已发布，这是一个 Bug 维护版本，主要针对 dirmngr、gpg 进行相关修复，具体更新细节请查阅发行说明。 GnuPG 是 OpenPGP 标准的完整且自由的实现，允许加密和签署数据和通信，并具有通用的密钥管理系统以及公共密钥目录的访问模块。 GnuPG 本身是一个命令
  ## [码云企业版任务管理更新 —— 自定义任务类型和状态](https://www.oschina.net/news/98027/gitee-enterprise-task-management-updated)
  > 为了不断满足企业开发中的管理诉求，码云企业版之任务管理再次更新，这次我们给大家带来了完全可自定义的任务类型和状态，可以为不同类型的任务定制不同的状态，满足个性化管理的需求。 如下图所示： 可以通过企业版的任务管理中进入个性设置： 下一步我们将对任务统计、看板的管理进一步的改进和优化，以满足各种开发管
+ ## [Ceph运维告诉你：如何驾驭开源分布式存储？](http://os.51cto.com/art/201807/578855.htm)
+ > Ceph运维告诉你：如何驾驭开源分布式存储？
+ ## [外媒速递：论企业架构当中的那些阴暗秘密](http://zhuanlan.51cto.com/art/201807/578832.htm)
+ > 外媒速递：论企业架构当中的那些阴暗秘密
  ## [踩坑实践：如何消除微服务架构中的系统耦合？](http://developer.51cto.com/art/201807/578706.htm)
  > 踩坑实践：如何消除微服务架构中的系统耦合？
  ## [Android自动化页面测速在美团的实践](http://mobile.51cto.com/ahot-578711.htm)
@@ -137,10 +143,14 @@ categories: IT NEWS
  > 基于Ceph对象存储的分级混合云存储方案
  ## [外媒速递：Windows Server 2019将全面拥抱软件定义网络](http://zhuanlan.51cto.com/art/201807/578688.htm)
  > 外媒速递：Windows Server 2019将全面拥抱软件定义网络
- ## [6个平凡人的经历，帮你参悟工程师的成功秘密](http://news.51cto.com/art/201807/578544.htm)
- > 6个平凡人的经历，帮你参悟工程师的成功秘密
- ## [你了解牛气冲天的SLAM技术吗？](http://zhuanlan.51cto.com/art/201807/578603.htm)
- > 你了解牛气冲天的SLAM技术吗？
+ ## [在Linux上如何得到一个段错误的核心转储](http://os.51cto.com/art/201807/578864.htm)
+ > 本周工作中，我花了整整一周的时间来尝试调试一个段错误。我以前从来没有这样做过，我花了很长时间才弄清楚
+ ## [必须理解的分布式系统中雷同集群技术及原理](http://stor.51cto.com/art/201807/578862.htm)
+ > 分布在不同区域的计算机，彼此之间通过网络建立通信，相互协作作为一个整体对外提供服务，这就是集群，如果
+ ## [如何防范社会工程攻击？](http://netsecurity.51cto.com/art/201807/578857.htm)
+ > 在 Veriozon 出具的《2017年数据泄露调查》报告中，90%的成功入侵都是通过社交工程实现。与其说社交工程是
+ ## [如何利用redis来进行分布式集群系统的限流设计](http://stor.51cto.com/art/201807/578861.htm)
+ > 在很多高并发请求的情况下，我们经常需要对系统进行限流，而且需要对应用集群进行全局的限流，那么我们如何
  ## [工业物联网落地成真](http://iot.51cto.com/art/201807/578859.htm)
  > 以制造业来说，工业物联网仍属于自动化范畴，要真正达到智能化，必须倚靠之后云端平台与AI技术的导入。
  ## [物联网的实用加密方法](http://iot.51cto.com/art/201807/578858.htm)
@@ -149,14 +159,12 @@ categories: IT NEWS
  > 你可以为特定的项目去学习最新的代码框架或者阅读该领域最新成果的科研论文。但是，没有捷径可以获得数据科
  ## [快速入门——深度学习理论解析与实战应用](https://blog.csdn.net/red_stone1/article/details/80999551)
  > 快速入门——深度学习理论解析与实战应用
- ## [如何从零学习 React 技术栈](https://blog.csdn.net/valada/article/details/79908405)
- > 如何从零学习 React 技术栈
- ## [图说区块链：神一样的金融科技与未来社会](https://blog.csdn.net/valada/article/details/79908411)
- > 图说区块链：神一样的金融科技与未来社会
  ## [干货 | 1400篇机器学习的文章中，这10篇是最棒的！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/81024570)
  > 干货 | 1400篇机器学习的文章中，这10篇是最棒的！
- ## [Vue 组件通信全揭秘](https://blog.csdn.net/valada/article/details/79909188)
- > Vue 组件通信全揭秘
+ ## [图说区块链：神一样的金融科技与未来社会](https://blog.csdn.net/valada/article/details/79908411)
+ > 图说区块链：神一样的金融科技与未来社会
+ ## [如何从零学习 React 技术栈](https://blog.csdn.net/valada/article/details/79908405)
+ > 如何从零学习 React 技术栈
  ## [编程人生：毕业到迈入工作的第五年，发生了这些变化](https://blog.csdn.net/j01G58UC80251/article/details/80976970)
  > 编程人生：毕业到迈入工作的第五年，发生了这些变化
  ## [业余时间，决定一个人的成就](https://blog.csdn.net/z50L2O08e2u4afToR9A/article/details/80971848)
@@ -177,6 +185,10 @@ categories: IT NEWS
  > 两例司法实践撕开了一个口子，区块链应用落地会加速吗？
  ## [强化学习AI，20分钟可学会开自动驾驶汽车](https://blog.csdn.net/w26Y3t53EfqaI0MFeQBa/article/details/80977111)
  > 强化学习AI，20分钟可学会开自动驾驶汽车
+ ## [面向对象：一生漫长，诱惑曲折都很多](https://blog.csdn.net/iodjSVf8U1J7KYc/article/details/80976549)
+ > 面向对象：一生漫长，诱惑曲折都很多
+ ## [暴风生死局：风雨过后没有彩虹](http://www.lanjingtmt.com/news/detail/36567.shtml)
+ > 一波未平一波又起，资本市场向来是只讲原则不讲情面，故事讲得再好，也挽救不了暴风跌跌不休的股价，招致而来的只有深交所无情的问询。
 # 人工智能 
  ## [快速入门——深度学习理论解析与实战应用](https://blog.csdn.net/red_stone1/article/details/80999551)
  > 快速入门——深度学习理论解析与实战应用
