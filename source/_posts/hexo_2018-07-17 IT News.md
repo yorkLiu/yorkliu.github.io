@@ -1,7 +1,7 @@
 ---
 title: 2018-07-17 IT News
 copyright: true
-date: 2018-07-17 08:02:08
+date: 2018-07-17 09:03:16
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -47,6 +47,22 @@ categories: IT NEWS
  ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
  > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
 # IT 技术 
+ ## [7.21杭州源创会，和你分享安卓推送到达率的优化实践](https://www.oschina.net/event/2281784?origin=zhzx)
+ > 7月21日杭州源创会【移动开发】专场正在火热报名中，主题囊括移动端音视频、前端架构框架的搭建、推送到达率的优化，以及组件通信框架等……
+ ## [通俗易懂，轻松解决安卓手机 K 歌声音延迟的问题](https://my.oschina.net/editorial-story/blog/1855559)
+ > 这篇文章可以为你提供一个解决录音和播放同步问题的思路，而且解决了声音从手机传输到耳机上有延时的问题。
+ ## [Rav1e —— 专注于快速安全的实验性 AV1 编码器](https://www.oschina.net/p/rav1e)
+ > Rav1e 是一个尚处于实验性阶段的 AV1 编码器，它的目标是能覆盖所有用户案例。由于 AV1 还没到达特性冻结阶段，因此它依赖于特定的解码器版本和定期更新的配置。
+ ## [每日一博 | iOS 消息推送：史上最全 iOS Push 技术详解](https://my.oschina.net/jb2011/blog/1855998)
+ > 本文对iOS Push的在线push、本地push及离线（远程）push进行了详细梳理，介绍相关逻辑、测试时要注意的要点以及相关工具的使用。
+ ## [码云推荐 | 无第三方依赖的 C++ 版 JSON 库 JsonLite](https://gitee.com/a6h3/JsonLite)
+ > C++版轻量级JSON库JsonLite是一个Json的C++实现，可以生成和解析JSON，除了依赖C/C++标准库以外不依赖任何第三方库，可以移植到任何平台上。
+ ## [谷歌将面临史上最高罚款：安卓系统垄断或被打破](https://www.oschina.net/news/98072/google-android-fines)
+ > 美国互联网巨头正在受到欧盟的严厉审查。有消息称，未来两天内，欧盟将对谷歌通过安卓移动操作系统滥用其主导地位的行为做出最终裁决。这也是欧盟针对该公司反垄断调查中最重要、涉及罚金最高的一项。 这一罚款源于谷歌借助自己的安卓智能手机系统保护自己搜索引擎的垄断行为，本次新的罚款金额预计至少将超过去年24亿欧
+ ## [大量 Mega 帐户的登录信息遭泄露，并暴露了用户文件](https://www.oschina.net/news/98071/mega-logins-dumped-online)
+ > 据了解有 15,500 个帐户的文件名已被公开，包括据称是非法的内容。 据外媒 ZDNet 报道，Mega —— 这家于新西兰成立并提供在线云存储和文件托管服务的公司，目前被发现其平台中有成千上万的帐号凭证信息已在网上被公开发布。 被泄露的信息以文本文件形式提供，据了解这份文本文件包含超过 15,5
+ ## [OSC 周二乱弹 — 理解超算排名竟然超出了很多人的智商](https://my.oschina.net/xxiaobian/blog/1857662)
+ > 阎罗殿内。 “阎王大人你是不是搞错了？！我刚看了生死簿，明明还没排到我啊！” “嗯，你不是爱插队吗。”
  ## [开源智能手机 Librem 5 的开发板延迟至8月份出货](https://www.oschina.net/news/98069/librem-5-development-boards-delayed)
  > Purism 一直有提供有关他们致力于 Librem 5 智能手机的软件/硬件开发工作的最新状态，这款智能手机具有安全性和开源性，并计划于2019年1月开始面向用户销售。 据 Librem 5 的官方博客表示，由于外部因素，导致他们开发板的出货日期超出了最初计划的6月份，目前预计8月份才能拿到开发板
  ## [依赖太多，Fedora 29 已确认不会弃用软件包管理器 Yum](https://www.oschina.net/news/98068/yum-still-on-for-fedora-29)
@@ -71,6 +87,10 @@ categories: IT NEWS
  > TheSSS (The Smallest Server Suite) 是一个轻量级的服务器套件，作为一个 LiveCD 进行分发。主要是为系统管理员提供一套小型的服务器软件用于局域网。支持的服务包括：FTP、HTTP、SFTP、SSH、和 Telnet 。主要的安全组件是 4MLinux Firew
  ## [Parcel 1.9.7 发布，开箱即用的 Web 应用打包工具](https://www.oschina.net/news/98058/parcel-1-9-7-released)
  > Parcel 1.9.7 已发布，Parcel 是一款极速、零配置的 Web 应用打包工具。它无需安装插件，开箱即用，使用 worker 进程启用多核编译，同时有文件系统缓存，即使在重启构建后也能快速再编译。 更新内容如下： Fix nested async imports from a share
+ ## [外媒速递：五款卓越开源DevOps工具轻松实现自动化转型](http://zhuanlan.51cto.com/art/201807/579005.htm)
+ > 外媒速递：五款卓越开源DevOps工具轻松实现自动化转型
+ ## [七种适合初创企业的任务管理工具](http://developer.51cto.com/art/201807/578937.htm)
+ > 七种适合初创企业的任务管理工具
  ## [开发者盛宴|51CTO首届开发者大赛决赛](http://mdsa.51cto.com/art/201807/578913.htm)
  > 开发者盛宴|51CTO首届开发者大赛决赛
  ## [6个平凡人的完美“逆袭”，参悟网工成功的秘密！](http://news.51cto.com/art/201807/578856.htm)
@@ -83,10 +103,12 @@ categories: IT NEWS
  > Ceph运维告诉你：如何驾驭开源分布式存储？
  ## [对于AI与假新闻， 苹果和Facebook为何会各执一词？](http://ai.51cto.com/art/201807/578816.htm)
  > 对于AI与假新闻， 苹果和Facebook为何会各执一词？
- ## [程序员遇到最“奇葩”的需求竟然是…...](http://news.51cto.com/art/201807/578871.htm)
- > 程序员遇到最“奇葩”的需求竟然是…...
- ## [踩坑实践：如何消除微服务架构中的系统耦合？](http://developer.51cto.com/art/201807/578706.htm)
- > 踩坑实践：如何消除微服务架构中的系统耦合？
+ ## [谷歌将面临史上最高罚款：安卓系统垄断或被打破](http://news.51cto.com/art/201807/579016.htm)
+ > 谷歌这周将面临一项创纪录的欧盟罚款，这一罚款源于谷歌借助自己的安卓智能手机系统保护自己搜索引擎的垄断
+ ## [【必看】菜鸟入门：了解网络存储基本常识](http://stor.51cto.com/art/201807/579015.htm)
+ > 存储是一件复杂的事情，在经历过电脑运算能力和网络互连能力两次快速发展之后，人们对于网络的需求不再满足
+ ## [分布式之抉择分布式锁――多个方位比较](http://stor.51cto.com/art/201807/579014.htm)
+ > 无论是redis还是zookpeer，其实可靠性都存在一点问题。但是，zookpeer的分布式锁的可靠性比redis强太多!但
  ## [半年盘点：2018年最热门的10家云计算初创公司](http://cloud.51cto.com/art/201807/579013.htm)
  > 在不断壮大的云初创公司群体中，能够脱颖而出的往往是那些为超大规模计算能力增加价值的公司。下面就让我们
  ## [半年盘点：2018年10大网络安全初创公司](http://netsecurity.51cto.com/art/201807/579012.htm)
@@ -101,24 +123,22 @@ categories: IT NEWS
  > 网络安全行业全景图(2018年7月)于今日发布。本次发布的全景图，共分为16大安全领域，64个细分领域，以及酷
  ## [物联网在城市运行效率中的应用前景](http://iot.51cto.com/art/201807/579007.htm)
  > 像物联网这样的智能技术的效用正在慢慢地从提高生活质量的移动应用转向解决人们日常生活中遇到的常见问题。
- ## [并非所有设备都是物联网或工业物联网](http://iot.51cto.com/art/201807/579006.htm)
- > 物联网和工业物联网创造的商机是最有争议话题之一，因为它们被设计用于广泛的消费者和工业应用。物联网组件
  ## [快速入门——深度学习理论解析与实战应用](https://blog.csdn.net/red_stone1/article/details/80999551)
  > 快速入门——深度学习理论解析与实战应用
  ## [React Native 超长列表优化方案](https://blog.csdn.net/valada/article/details/81025006)
  > React Native 超长列表优化方案
- ## [Android 通过 TensorFlow 训练模型识别手写数字](https://blog.csdn.net/valada/article/details/81025010)
- > Android 通过 TensorFlow 训练模型识别手写数字
  ## [Kotlin 代码检查探索与实践](https://blog.csdn.net/valada/article/details/81025008)
  > Kotlin 代码检查探索与实践
+ ## [前端遇上 Go: 静态资源增量更新的新实践](https://blog.csdn.net/valada/article/details/81025007)
+ > 前端遇上 Go: 静态资源增量更新的新实践
  ## [业余时间，决定一个人的成就](https://blog.csdn.net/z50L2O08e2u4afToR9A/article/details/80971848)
  > 业余时间，决定一个人的成就
- ## [为什么很多程序员工作时都戴耳机？](https://blog.csdn.net/Y0Q2T57s/article/details/80975100)
- > 为什么很多程序员工作时都戴耳机？
  ## [从逻辑思维角度提升自己的表达技巧](https://blog.csdn.net/BULpreZHt1ImlN4N/article/details/81009409)
  > 从逻辑思维角度提升自己的表达技巧
  ## [有个厉害的程序员女朋友是什么体验？](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/80971567)
  > 有个厉害的程序员女朋友是什么体验？
+ ## [为什么很多程序员工作时都戴耳机？](https://blog.csdn.net/Y0Q2T57s/article/details/80975100)
+ > 为什么很多程序员工作时都戴耳机？
  ## [编程人生：毕业到迈入工作的第五年，发生了这些变化](https://blog.csdn.net/j01G58UC80251/article/details/80976970)
  > 编程人生：毕业到迈入工作的第五年，发生了这些变化
  ## [推荐10个优质技术公众号](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/80971998)
@@ -127,12 +147,14 @@ categories: IT NEWS
  > 视频：扎克伯格夫妇带你参观当年哈佛宿舍 facebook诞生于此
  ## [坏了，人脸识别能检测出同性恋？](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/80976789)
  > 坏了，人脸识别能检测出同性恋？
- ## [图神经网络+池化模块，斯坦福等提出层级图表征学习](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/81066521)
- > 图神经网络+池化模块，斯坦福等提出层级图表征学习
- ## [电子工程师十大离职原因！](https://blog.csdn.net/DP29syM41zyGndVF/article/details/80972051)
- > 电子工程师十大离职原因！
+ ## [TIOBE 7 月编程语言排行榜：C 被 VB.NET 反超，Objective-C 重回前十](https://blog.csdn.net/csdnnews/article/details/80971469)
+ > TIOBE 7 月编程语言排行榜：C 被 VB.NET 反超，Objective-C 重回前十
  ## [干货｜一文带你入门算法分发！](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/81040055)
  > 干货｜一文带你入门算法分发！
+ ## [机器学习类面试问题与思路总结，你需要吗？](https://blog.csdn.net/qq_28168421/article/details/81040008)
+ > 机器学习类面试问题与思路总结，你需要吗？
+ ## [宝宝树拟上市，广告电商面临双重挑战](http://www.lanjingtmt.com/news/detail/36594.shtml)
+ > 公开资料显示，从2007年的A轮融资开始，宝宝树已经完成大大小小约九轮融资。宝宝树之所以备受资本青睐，一定程度上在于资本比较看好母婴这个品类。但对于宝宝树来说，以内容为切入点，通过
 # 人工智能 
  ## [快速入门——深度学习理论解析与实战应用](https://blog.csdn.net/red_stone1/article/details/80999551)
  > 快速入门——深度学习理论解析与实战应用
@@ -165,6 +187,8 @@ categories: IT NEWS
  ## [关于Attention机制的一些简单理解](https://blog.csdn.net/baidu_36161077/article/details/81066001)
  > 关于Attention机制的一些简单理解
 # PM 
+ ## [无人货架：从野蛮生长到高阶竞争，精细化运营见头部企业实力](http://www.woshipm.com/newretail/1114747.html)
+ > 无人货架盲目的点位扩张已经被证实遇到瓶颈，如何在赛道中保持领先，需要从运营策略甚至整体战略上去重新审视无人货架这一业态本身。火于去年下半年的无人货架，在今...
  ## [产品修炼课1：产品的开发流程和团队成员](http://www.chanpin100.com/article/107188)
  > 【小百摘要】每个产品经理都应该有自己的一套方法论，别人的经验和方法可以借鉴学习，但真正的路还是要自己走，脚下的坑还是要踩过才能体会深刻。
  ## [我分析了拉勾的450个数据，告诉你如何求职数据产品经理](http://www.chanpin100.com/article/107195)
