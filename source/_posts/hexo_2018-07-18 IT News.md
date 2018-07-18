@@ -1,53 +1,51 @@
 ---
 title: 2018-07-18 IT News
 copyright: true
-date: 2018-07-18 08:02:30
+date: 2018-07-18 09:00:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [专访微软总裁：依赖广告盈利会给数据保护带来挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=0hUwS21RyDqkzLjUqIkFATDI6SoK7etPY3whZDO2CKjR7cFDz1SS1Q057JVi0reOqvphRgOp83fieqyD4Wgp2fMtOpIEZCDjkEp7500p9ycCdVqWhhSRQ25AdtE70xuc&new=1)
- > 微软公司总裁施博德表示，当下已是AI的“引爆点”，要关注AI对人类工作的影响；2018年的世界比七八年前更为复杂，新地缘政治是科技界挑战记者/叶展旗“如果一家公司几乎所有收入都来自广告，且广告业务是基于数...
- ## [即将消逝的10种职业，谁也逃不掉](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=U0ROALtbsFMpIjPN4uPL3-hH8mbRMqzxEwNZWzcJnEHIW8ni8R879p9E*p4VJ6VHOo3A9LAUH5iNasaw7EJbbNiA0cAfjgeFwi6QhtB39nHbFAQet7r2pYeu6486k00C&new=1)
- > 问：如何每天都能免费收到这种好文章呢？答：只需点击上面《老板学习站》关注即可！千万不要觉得这很遥远。上个世纪，已经有打字员、铁匠、电话接线员等很多职业消失了。随着科技的快速发展，未来职业变迁的速度...
- ## [谷歌AI自动重构3D大脑 7天完成人类10万小时标注任务](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=1pK9YwXYnkG5vhyRlKsNcdJC0E-9cEuTVyycYDfOvFn99X4aUNgNhI6KL7tUfKNT2xb1vw84aCU5IhY1Oewdvztgo73fx8tb8*0ZuDTkh34CSS5n9g2HtElgjhGcpD*9&new=1)
- > 看点：谷歌提出新的循环卷积神经网络，可以自动追踪神经元并实现大脑3D成像，谷歌称其准确度较其它模型提高一个数量级。导语：谷歌研究人员创建了能够映射大脑神经元的AI系统，7天就能完成人类需要花10万小时的...
- ## [EDR与企业安全落地的实践与思考](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=ZGAyuEZoco8agdLsxKPwEz3lqu2SfaASxeCg8b8soWzGAFFX3X6azz6*PyDSSg6QKVfL-2tUL73v0fmTLX2n498-v5DsmW1V1NZhqnzp4NY5zUvyafzR2JzUqVndu0no&new=1)
- > 很多企业都逐渐意识到要想把恶意攻击者完全拦截在企业环境之外不像部署防火墙和防病毒软件那么简单。现在大多数恶意攻击者都能够利用定制的恶意软件绕过传统的防病毒解决方案，所以我们需要采取更为主动强大的方...
- ## [\[老用户套餐加量不加价\]超大流量乐翻天，超多语音享不停!](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=uIjmZCsjCFxM7D8J*7tTg8NzGNefaWY7xpQPNcMmve0rsiqPbW4PufNcTNE0UH3jNywsmvaQoKaN5XCzyEsh8aePOcXvyvPB5p4IxLBFgUd841Sya7DnZDKB2E4U4XDe&new=1)
- > （文章资源来自于网络，侵权请告知删除）Hello，伙伴们！
- ## [一年时间 人脸识别技术的准确率提升多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=lB1*pEOCfA1o5-7ACS1mYptLfgTpTTPXEAr4cnH7nOAfr-lWTK7b3GUTkloOOeHa8zxcqcyhE9aciSRbmBqjR3BzQpVvwHpWSMJ7WeUlNtAqpDKOtLyRLvrxvELE8A88&new=1)
- > 根据 NIST 官方2018年发布的成绩，目前全球最好人脸识别技术水平为千万分之一误报下的识别准确率接近 99%（yitu－001），这意味着受限场景下，在千万分位误报上，人类已经将机器的人脸识别能力推向了极限。NIST ...
- ## [英特尔AI如何帮助修缮残垣断壁的长城，背后的奥秘找到了](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=-122vqyQQl3cz4fShPlfdUjIYWhm9qIDtaVrDo1be0JWuteqkNApJK1MASJNxBhCGpPhoLMTMwhQ3C47K*e0LBzClzi6ksFplYvPwmP4NHTQ4hmrMMooD-pUpGkwoGt1&new=1)
- > 俺黑君够黑，慎关注！当人工智能走到科技和人文的十字路口，它会迸发出怎样的能量？你会发现，以往没有任何一个时期，会比现在的人工智能距离我们更近，因为它正在以一种近乎革命性的手段解决生活中真实存在的难...
- ## [Pick你啦，今天要来客串一把5G体验员吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=G0TF-vWWOsMB*Luh0RhaEmQD3yx3QgkvUJUPxWfUHGygI9pIwTzLYzOON2Yu-nmShhJuKXd3T*55*CKTdmD0RwfPZOH8IR*Kpo32ZU6KnorurF5qc0ThbumOzkjoxgub&new=1)
- > 在上海浦东，有一个叫“金桥”的小镇，那里风景优美，集聚了各种现代化大型企业，也正是华为上海研发中心的所在地。华为在这里播下了5G的希望，从初生发芽到破土而出，从千锤百炼到身经百战。华为5G不负众人所望...
- ## [安卓系统太火爆又要让谷歌大出血了](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=P524gNvFGsX4sKnwttD*4HzNlnfVMQxZUoyDGOHmSe0GiAip2ClhcPav1Achi8SXEU5ZfMZk92NyTdhSPBXnwvhY*rNvZItjsBUraLJwiSLz81XglyReiiFg2u2QI9lP&new=1)
- > 开源免费使用的安卓操作系统让谷歌继续巩固搜索地位，虽然免费使用但制造商却需要遵守谷歌的相关条款。根据协议制造商在预装安卓系统时需连同预装谷歌系列应用，包括谷歌搜索以及谷歌浏览器等多款应用程序。对于...
- ## [光谱扫描激光雷达为大规模部署自动驾驶铺路](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=676qTf8Qq0iZCqlNllcWXlgjMINHY8XGq-J7JBGXsBOW68nCu725hJ5WxfyujeHme2OqsCuh0FNfVxKZiD1o6RAaTXixDMT2c9DZbuuix*T60CMP7aMtdpdFvYVgzoVi&new=1)
- > 据外媒报道，Baraja公司近日公开发布了其光谱扫描激光雷达（Spectrum-Scan LiDAR）。光谱扫描采用类似棱镜的光学系统以及不同波长的光线，为自动驾驶车辆创造了“超强的眼睛”，为其提供前所未有的数据以及清晰...
- ## [5G这部大剧，刚刚一口气“更新了好几集”](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=hP7*nu9YbaSPhttTyRB7NHzCVDpfdPr59wfjgfYf81yhIm54It1NsfGCIUHiEGnep9qVWa7tu-ul7z6j-E03XHn1TU1w9VKmD*hdyUbaGUnoOGckaLRITXpMha3uRK6v&new=1)
- > 5G这部大剧，全球都在追。随着组网标准的出炉、中国5G三阶段测试逐渐收尾，2018下半年5G走向什么新阶段？技术上有哪些新突破？试点中有哪些新问题？这些，都是更加“烧脑”的情节。今天（7月17日）北京依旧大雨...
- ## [安全链生态发展官Mingo：打造去中心化安全社群，让每个人贡献安全力量](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=S07GXZkByKp7zyMbFuBe*vIb1*MPPIACBsHYm1KmQIE9o57yEKAm0esR9H6gKIXm0gC538OIpOurnKAPUgCswJ32viOWMxS1gZ33f004sOuGzaLstuUfMjvot53L47eY&new=1)
- > Mingo是中国第一批黑客之一，13岁创办“黑客力量”，两年内成为位居全国前列的黑客组织。可贵的是，他没有囿于技术。现在身为区块链安全专家的Mingo认为，技术是服务于社群共识的，建立社群共识是最重要的，甚至...
- ## [板卡评测|LoRaWan开发套件Node开发浅尝——纸上得来终觉浅，绝知此事要躬行](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=UErXIfrOuXx-EH5hmdBkoDqrpNO3TxkvbLkSZukbygf-93*w70hH7iFuEPjz47s8*akU949ciZIyoAAngiuk0K9dXXFDnljxC5pm1tXWLMDYi9vaV6xONnuwK6118uNP&new=1)
- > 在之前的文章我们测试了学蠡科技的LoraWan工业级评估开发套件的硬件部分，这次我们要尝试LoraWan节点模块的软件开发。在开始软件部分之前先解决上一篇结尾中遗留的一个问题。在上一篇文章的硬件测试中，我们发现...
- ## [刚刚!华为这项“重磅计划”泄露!无数人将彻夜难眠!](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=9xSKI5oytKZ8XOL5nVJGKplCW-*dUjxjzgDm1BEiDVjRqUc27gQIIFsDQMnSofTx5AjgsP7BLt9J798XjolF8KFM7ngH8VZgwRdHqOpaJoHUkVGOqyb36vg*sRez22fk&new=1)
- > AI正在改变整个世界！据外媒the information报道，华为目前正在开展一个代号为达芬奇计划“Project Da Vinci”的新项目！“达芬奇计划”旨在将AI带入华为所有的产品和服务中，最首要的一步，就是开发用于数据中...
- ## [安防机器人蓝海将至?多的是你不知道的事](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=UJoP0aC4A8s5I0gjedBnBxjE7fF*qHfifXt6*CsfeGLfTRApIEdk*5UsiZJdrDvk4xvFQultqlQ9OyZNX4VspIppmXNNsC94gAx*S56qtMbRCe*jRZJZfIkztidu24Ky&new=1)
- > 从1920年捷克作家雷尔·恰佩克的科幻小说《罗萨姆的机器人万能公司》中的&quot;robot&quot;一词开始，机器人就从单纯的文字变成了现实。　　在现实生活中，以服务机器人为代表的机器人穿梭在人类世界的各个角落里，逐...
- ## [\[今日头条\]拒绝捧杀，认清自我，中国关键材料：32%一片空白，52%靠进口](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=1kWqMjkmrNvQD6qONeuOVADOIgsN7K4KFYNDqNoyAzymQGpZdBjdukby9vUL8wi4YCpSG1hK5kvYmeX32q7apfDwCrDH7pFF3EJofBkh1x8nWrr2KmvfZxcUyJMcotOo&new=1)
- > 据报道，中国工业和信息化部副部长、国家制造强国建设领导小组办公室主任辛国斌13日在“2018国家制造强国建设专家论坛”上表示，一段时期以来，国内外评价中国制造业发展成就，往往扬长避短，片面夸大成绩。...
- ## [中移研究院年度采购GPU 这家公司能否再度中标?](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=w1EL1AIbWUJrGgBHJpb4DhuN8haVf3mETWzIrDjf7pwXJOVqh2coHsLzwXH13odhi9b3oFrZMdByDNKpR1Kw81NMtd1TL*FHZ5ndoluoUdWbT7p*SlquroceVKfVtQqo&new=1)
- > 近日，中国移动研究院发布了2018-2019GPU服务器集采比选公告。公告显示，此次采购的内容为一年期的GPU服务器，需求共计4款45台。本项目划分为两个标包，标包一为中低端GPU服务器采购，共计44台，包括三种典配：8...
- ## [半导体激光器的未来在哪里?](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=CV8hCkdZbNl9rAWcn3uyrpV0ycdq2cB5-CYmsAvBzRwDBhSoDEVtyrYQiRf2tWZsUfXd6g2mGtNYT6hiFHBQhn6AyQCfqFDlRMcXrBaSHbVAF4CHhvCwLqgj5hCx*pPo&new=1)
- > 中国激光产业在地域分布上呈现出很强的聚集性，以深圳为代表的珠三角区域主要以中、小功率激光加工设备为主，而以武汉光谷为代表的华中区域则在产品线上更为全面，覆盖了大、中、小功率设备。除去这两个最为大型...
- ## [存储芯片为什么这么重要?大国崛起还得靠它](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=wDcGTut2T5PH74-2KVjwkc427Ltqhj5tGZOCQnChfJV5BZLHe4bYl14cG3mwZy-Qli2EFBH2N5oPpfFVmSzbV6*h7EQoNxJ2anuByR1Mz134ycb9Ro65k2RoD7*dJ1TH&new=1)
+ ## [存储芯片为什么这么重要?大国崛起还得靠它](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=wDcGTut2T5PH74-2KVjwkc427Ltqhj5tGZOCQnChfJV5BZLHe4bYl14cG3mwZy-Qd0hVBJIxabSNmcg8nfu*r1iYHZG73FEU0yQj6MQweZz0ClhUal6AEkIIo0RQgV8w&new=1)
  > 存储芯片作为半导体元器件中不可或缺的组成部分，有着非常广泛的应用，在内存、消费电子、智能终端等领域均有运用。随着大数据、云计算、物联网等发展，其在整个产业链中扮演的角色将更加重要。过去，我国的存储...
- ## [中国联通成电信大数据项目唯一采购来源 他俩啥时候好上了?](http://mp.weixin.qq.com/s?src=11&timestamp=1531872006&ver=1005&signature=xPipTxkHdi6TtJLsFPPKPlnrLsluSIvjiTr2W6FT31gmZal0hRL50AlCQy-A-oeQGCZlSneF7xU5OTzViZ*mxmCsSRbn2SyWwpb3QXTQyjue98N0AqfkzemIYP78ORy1&new=1)
+ ## [又是一年大赛时，你是否渴望越创不凡?](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=SNCVwpJWcKEMBmhlpm7QOH1s1uTui7QmxD8D90VMWzFc61IAhigFJgm*vkwWRsz1a9iLLueN*GW0NJ2gEZN86iyYHnhscuuN0rmbt-ohiG7MNCk-zm9SHYzhew5*Heth&new=1)
+ > ——本文作者 康翔今年3月举行的华为中国生态伙伴大会2018上，华为生态大学正式成立。成立仪式上，华为EBG中国区副总裁、华为生态大学首任校长杨文池明确指出：“通过数字化转型推动传统社会向智能社会演进的过...
+ ## [华为要求员工在美国窃取商业机密?官方回应：这完全是在造谣!](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=Y7cKv-Sxan9cqigG9ilQr2KEsbJxQs8CYz*JFjvlQnNqF4SOSE5pQ-xb*3s5pyJ9bq*WecW521LMO3f2-M303z3w3q0KPepQEpc3NnzJ4po-Smoys3o3*X-MtEla9mz1&new=1)
+ > 导读：近日华为被报道要求员工在美国窃取商业机密，对此华为方面给出三点回应，怒斥完全是在造谣。作者：小林 | 文章来源：芯智讯（icsmart）近日有多家媒体报道称，华为要求员工在美国窃取商业机密，对此华为方...
+ ## [5G这部大剧，刚刚一口气“更新了好几集”](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=hP7*nu9YbaSPhttTyRB7NHzCVDpfdPr59wfjgfYf81yhIm54It1NsfGCIUHiEGnezxJPzoNp3KK5F*-DGjHpOSrWUqK6qWlwudiJdfFq7UiTMU2b85WR9anWC2XsAA7V&new=1)
+ > 5G这部大剧，全球都在追。随着组网标准的出炉、中国5G三阶段测试逐渐收尾，2018下半年5G走向什么新阶段？技术上有哪些新突破？试点中有哪些新问题？这些，都是更加“烧脑”的情节。今天（7月17日）北京依旧大雨...
+ ## [\[今日头条\]拒绝捧杀，认清自我，中国关键材料：32%一片空白，52%靠进口](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=1kWqMjkmrNvQD6qONeuOVADOIgsN7K4KFYNDqNoyAzymQGpZdBjdukby9vUL8wi4PRHIweD036VhHu49fiH-Qqm6p43-o*OO3BgO9wWVIlQVwJD8sgpyHC4u4eghZhWr&new=1)
+ > 据报道，中国工业和信息化部副部长、国家制造强国建设领导小组办公室主任辛国斌13日在“2018国家制造强国建设专家论坛”上表示，一段时期以来，国内外评价中国制造业发展成就，往往扬长避短，片面夸大成绩。...
+ ## [让用户明明白白消费!下月起运营商须短信推送月账单](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=*vVtOVBsl02wgv5n3m1sDUag-igo9GVo66czHXo50OTS*rmCglIinRId8xF6gbJfrBG1BORpA5VvCA-x0vCch0saoW2fQKoAAJ2VStUL-0a6ejtqYoRu5Ru9x9VeSAwe&new=1)
+ > 相信很多用户经常对每个月的手机话费账单一头雾水，根本不知道自己具体的消费项目跟对应的金额是多少，莫名其妙的手机就又被扣费了，并且还总是会受到各种垃圾短信、骚扰电话等等，使用户感到非常的困扰。以上情...
+ ## [半导体激光器的未来在哪里?](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=CV8hCkdZbNl9rAWcn3uyrpV0ycdq2cB5-CYmsAvBzRwDBhSoDEVtyrYQiRf2tWZsRymq28uWzts5VtwtQBiTas8MaQRgFMUjbQAY*4i2pDF4oqSWG8rMVMAcGvRvI-im&new=1)
+ > 中国激光产业在地域分布上呈现出很强的聚集性，以深圳为代表的珠三角区域主要以中、小功率激光加工设备为主，而以武汉光谷为代表的华中区域则在产品线上更为全面，覆盖了大、中、小功率设备。除去这两个最为大型...
+ ## [重磅!刚刚，云上贵州牵手中国电信为苹果iCloud提供云存储服务](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=ZfpBltG4ldDvqU1C9XD24ae9iB2uKgMpq8EaGj2m3VGHvOw4qn-fz-aesK5GOIleiDeSNTRxp94cx0g*UTQtmzv-luTMEZTuvKPcDk4s5mKmrQAp70gr2LMIY4X1JNYt&new=1)
+ > 自2018年2月28日中国内地的iCloud业务正式由云上贵州负责运营后，云上贵州牵手中国天翼云为iCloud提供云存储服务，双方已于6月底正式签署《基础设施协议》。作为世界上最大的固定网络运营商、FDD 4G网络运营商和...
+ ## [安防机器人蓝海将至?多的是你不知道的事](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=UJoP0aC4A8s5I0gjedBnBxjE7fF*qHfifXt6*CsfeGLfTRApIEdk*5UsiZJdrDvkOcebyl3yKCvr*MoPy2nlN1sHqD1AYji96cOtj8FzoH*eLs7OsKiW79k49DfBcb30&new=1)
+ > 从1920年捷克作家雷尔·恰佩克的科幻小说《罗萨姆的机器人万能公司》中的&quot;robot&quot;一词开始，机器人就从单纯的文字变成了现实。　　在现实生活中，以服务机器人为代表的机器人穿梭在人类世界的各个角落里，逐...
+ ## [\[Do说\]今天是世界表情符号日?|抖音全球月活破5亿|ofo退出德国市场](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=m*PyE-FMNPUw8FJmHP354Cis*vHzNNaGT1L5T4g9EoSXVP-CurkXOhvv*r4UVBBPMKHVHqPQb1N306hJ0dFfh24gRr0*hTFfv5LzOfj27vDpR1OcZVwOxBMhgVusEyrF&new=1)
+ > 庆祝世界表情符号日：苹果官网高管照片统一更换 Emoji头像据了解，世界表情符号日是一个非官方的全球假日，自2014年7月17日以来每年都会一次。这一天用以庆祝所有关于emoji的活动和产品发布。为了庆祝7月17日“...
+ ## [板卡评测|LoRaWan开发套件Node开发浅尝——纸上得来终觉浅，绝知此事要躬行](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=UErXIfrOuXx-EH5hmdBkoDqrpNO3TxkvbLkSZukbygf-93*w70hH7iFuEPjz47s8COZNnM8C5554vQU70zQvu8eqSi3jA*oRE70vPt7BMANd0jgB73lu-tzh4eKu1bhF&new=1)
+ > 在之前的文章我们测试了学蠡科技的LoraWan工业级评估开发套件的硬件部分，这次我们要尝试LoraWan节点模块的软件开发。在开始软件部分之前先解决上一篇结尾中遗留的一个问题。在上一篇文章的硬件测试中，我们发现...
+ ## [一年时间 人脸识别技术的准确率提升多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=lB1*pEOCfA1o5-7ACS1mYptLfgTpTTPXEAr4cnH7nOAfr-lWTK7b3GUTkloOOeHaqZE4ZQC2QL*Qygz2kYemEFDc*HDtXJuQpCZ4Wyz8FybJ-lv1NEI1*SoFaU2MxJVA&new=1)
+ > 根据 NIST 官方2018年发布的成绩，目前全球最好人脸识别技术水平为千万分之一误报下的识别准确率接近 99%（yitu－001），这意味着受限场景下，在千万分位误报上，人类已经将机器的人脸识别能力推向了极限。NIST ...
+ ## [光谱扫描激光雷达为大规模部署自动驾驶铺路](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=676qTf8Qq0iZCqlNllcWXlgjMINHY8XGq-J7JBGXsBOW68nCu725hJ5WxfyujeHm9zKaFpqCYJ-vtu0RiZWncI33FoFKlEyPfY9TcaFpAiW72sTANrfBxUxu*Mv8kXUH&new=1)
+ > 据外媒报道，Baraja公司近日公开发布了其光谱扫描激光雷达（Spectrum-Scan LiDAR）。光谱扫描采用类似棱镜的光学系统以及不同波长的光线，为自动驾驶车辆创造了“超强的眼睛”，为其提供前所未有的数据以及清晰...
+ ## [Leap Motion最新概念视频：展示VR/AR融合空间](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=m8fUspVBWaIGP2K3DvWvWV37nVgZU2EFz9-o53nc9PUUux8ILUf13tRwkCQonZyzn7yR5unDeaCgwFvq0W7I5T6sEB*BTFS24ICzuT1JM1w2YmPf8H7dbw7XAkGw0gSp&new=1)
+ > Esther｜ 撰文AR与VR技术需要的沉浸式计算在不断变化，只精通AR或VR一项技术现在看来还是不够的。近日，Leap Motion公开展示了两段视频，展望了在不久的未来实现出AR与VR的无缝结合的场景，再次改变了公众对与AR...
+ ## [智能HR已进入企业，要不与时俱进，要不被时代淘汰!](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=0KdjcBRRvNt5iJadBBXdFe0cx8nc6N6IIhG8Rvlla70fPtsAscppWAW7r7L9JlE5WhfzdunycHdPEsQdZJU9JRu6M9CNlD--R14SooXSlHX1u8G8STCBNhCAbtOOh4wz&new=1)
+ > 来源：人力资源管理新型智库2018年是一个技术驱动社会发展的元年，对于职场HR来说，看似风平浪静，实则暗涛汹涌，为什么这么说呢?人工智能从2016年阿尔法狗以4比1的总比分战胜围棋世界冠军获胜开始，进入了白热...
+ ## [GSS大会倒计时3天，最全大咖攻略来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=7ZINvwA5PkaPr7HBYlqL3bVQu6HDMNSyC5zbJfZ*LDQQoh4r7s5bug9whMffM1bC8lbPWtRKWSpSyjuDmLH6va3aGDacwN8p6sqLqAUDQYiBD15WWJ4EHDYH6mqNvm1o&new=1)
+ > 还有三天！还有三天！2018全球存储半导体大会就要开始了！炎热的武汉，火热的闪存存储大会！7月20日，全球存储半导体大会就要开始了，这一天来自全球存储半导体产业精英群星闪耀，这一天尽览全球存储半导体产业...
+ ## [人民日报：引导区块链产业健康发展](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=EkCXL-xg6IBdQSbYiXi*2FXFmdTz*4Pw2exyMtw0*cXb7Fej*vK*J97pM46wKZk1iK7a1G6fp7rZR1AMwnH9sX5nYBFCCCOeF-QQ1hlZ24tGE0PEYAS3vQLEd5d69M-l&new=1)
+ > 去年底召开的中央经济工作会议指出，中国特色社会主义进入了新时代，我国经济发展也进入了新时代，基本特征就是我国经济已由高速增长阶段转向高质量发展阶段。推动我国经济高质量发展不断取得新进展，必须大...
+ ## [中国电信抖音卡是跨界营销的一次成功尝试](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=Jmj7aHY0PCucv*lTPa*uUJdvaHaxydXWECtVmAUXCiOAHBLOnILbOG5vk*e6l7LdLUBK-i*SnBKhvNmDRIpIY7d3yuohVID03jICITk6OzH0N2d4AICDy*IMdNK7leYI&new=1)
+ > 近两年来，各种互联网卡层出不穷，深受用户喜爱，但很多用户依然无法享受到喜爱APP的优惠流量卡。近期，在抖音热度大增的情况下，中国电信迅速行动，与抖音共同发布抖音无限流量卡（以下简称抖音卡），进行跨界...
+ ## [安卓系统太火爆又要让谷歌大出血了](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=P524gNvFGsX4sKnwttD*4HzNlnfVMQxZUoyDGOHmSe0GiAip2ClhcPav1Achi8SXK1g11HZHA9N8XnoqynsfpkCIcy-ubCpkc61UCI51JtzJkHjv19A8KUWX5Nni8n1A&new=1)
+ > 开源免费使用的安卓操作系统让谷歌继续巩固搜索地位，虽然免费使用但制造商却需要遵守谷歌的相关条款。根据协议制造商在预装安卓系统时需连同预装谷歌系列应用，包括谷歌搜索以及谷歌浏览器等多款应用程序。对于...
+ ## [中国联通成电信大数据项目唯一采购来源 他俩啥时候好上了?](http://mp.weixin.qq.com/s?src=11&timestamp=1531875606&ver=1005&signature=xPipTxkHdi6TtJLsFPPKPlnrLsluSIvjiTr2W6FT31gmZal0hRL50AlCQy-A-oeQH8WCmt-dtKpTCaST7uDZyF*KwMcJ3k*SOpFOVKBptmSk31P3TmEZJ7yZjwkDVvTq&new=1)
  > 7月11日，中国电信云公司发布了2018年联通大数据风险防控类产品采购项目单一来源公告。意想不到的是，中国联通却成为此次的唯一供货方，中国联通旗下的联通大数据提供项目所需的风险防控业务接口数据信息。对于...
- ## [上海小学生被杀，戾气太重的社会我们该如何自处？](https://www.zhihu.com/question/283019488)
- > 这次命案的学校，离我在上海的家走路不过五分钟，除了世外小学，附近也有很多其他学校。那一带治安很好，我没出国前待在上海十多年，别说命案，就是连偷窃小偷小摸都很少见。却发生了这种事。这种屌丝男估计是纯粹心...
  ## [美国政府与大学为何能占用 .gov .edu 域名？是否应改为 .gov.us .edu.us？](https://www.zhihu.com/question/266924177)
  > 实际上最初不止美国的学校可以用 .edu ，比如国内的 ustc.edu ， www.tsinghua.edu ，现在都还是可以使用的。只不过后来“腐朽的资本主义”不让非美国的教育机构注册了而已。orz
  ## [一线城市与二三线城市的生活体验有什么不同?](https://www.zhihu.com/question/22009248)
@@ -72,8 +70,10 @@ categories: IT NEWS
  > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
  ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [上海小学生被杀，戾气太重的社会我们该如何自处？](https://www.zhihu.com/question/283019488)
+ > 其实该说的大家也说的差不多了我想提这么一个论点底层/弱势/生活不顺/没钱的确不是报复社会伤害他人的理由。但生活富足美满是不去报复社会的理由。__________________再多说几句吧这个问题 说到底是个社会问题工薪阶...
  ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
- > 据报道，毛毯厂临时工张某与四川籍（为防地域歧视嫌疑特别添加）务工人员龙某（你可以认为就是我）、河南籍无业青年刘某在网吧结识。 4月22日晚，张某约龙某、刘某到自己的出租房喝酒。其间刘某感慨“富人太多”，张...
+ > 如果有人在知乎上问要不要创业，我也一样会规劝他不要创业。因为真正有魄力、有决心的创业者不会到处问别人要不要创业，而魄力和决心恰恰是成功创业者必需的要素。本来创业成功率已经够低了，如果决心还不够，结果可...
  ## [互联网产品经理的必读书目有哪些？](https://www.zhihu.com/question/19568240)
  > 产品汪、运营喵、设计狮。感谢我长达26小时的爆肝汇总吧，这可能是你截止2018年7月17日，在知乎里看到的关于互联网产品、设计、运营岗位最全的必备书籍整理。文章巨长，图片表格巨多。如果你实在是懒得折腾，放心直接...
  ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
@@ -82,11 +82,35 @@ categories: IT NEWS
  > 分享下我自己的个人经验，所有观点，仅代表我个人，行业里面并非都如此，但通过我转行后身边10个朋友都可以在引导下成功转行来看，我想我的经历应该有值得定参考的一面。运营到底是做什么的？运营，其实就是为了帮助...
  ## [王者荣耀法师经常被打野抢蓝，你会怎么做？](https://www.zhihu.com/question/61183949)
  > 射手：打野那个瓜皮哦，一红经常不给我哦，非得抢我的一红哦，有惩戒就了不起啦哦。没有一红还怎么碾压上单，怎么凯瑞，怎么核心输出，玩特个爪哇子皮哦。上单：打野？愿他长寿。我辛辛苦苦顶住上塔，就吃个小鸟怎么...
+ ## [网络地址转换(NAT)技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
+ > 1、我认为 NAT 是加快了互联网的发展，一定程度上拖慢了 IPv6 的 发展，请仔细看这句话。也千万不要把 IPv6 等同于互联网发展。没懂的看下一条。2、从用户角度，其实绝大部分用户（可能除了有 P2P 需求 的那...
  ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
  > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
 # IT 技术 
+ ## [前端的新“轮子” —— JavaScript 应用打包器 Fastpack](https://www.oschina.net/p/fastpack)
+ > Fastpack 是一个 JavaScript 应用打包器，目标是做到对于中型应用（约1000个模块）的打包时间小于 1000ms，增量重新打包时间低于 100ms。
+ ## [每日一博 | Dubbo服务发布之服务暴露&心跳&服务注册](https://my.oschina.net/LucasZhu/blog/1857584)
+ > 服务暴露是对外提供服务及暴露端口，以便消费端可以正常调通服务。心跳机制保证服务器端及客户端正常长连接的保持，服务注册是向注册中心注册服务暴露服务的过程。
+ ## [码云推荐 | Go 实现的图片服务 gis (go image server)](https://gitee.com/phachon/gis)
+ > gis (go image server)，go 实现的图片服务，实现基本的上传、下载、存储、按比例裁剪等功能。
+ ## [苹果用户看过来, 开源中国 iOS 客户端下载攻略了解一下?](https://www.oschina.net/question/2720166_2283396)
+ > 嗨，各位 oscers 好，前段时间由于版权原因，开源中国App暂时在 App Store 下架，期间有许多使用 iOS 系统的 oscers 一直在抱怨应用商店搜索不到 App
+ ## [Go 1.11 将支持的 Go module：解决包依赖管理问题](https://www.oschina.net/news/98104/go-modules-land-go-1-11)
+ > Go 1.11 预计将于2018年8月发布，最大的变化莫过于将为称作&quot;modules&quot;的新概念添加实验性支持。那么这对 Go 开发者意味着什么？ Go 语言从2007年诞生至今，已经发展和演化十多年了。这十多年来，Go 取得了巨大的成就，先后于2009年和2016年当选 TIOBE 年度最佳编程语言
+ ## [谷歌的云平台 Google Cloud 全局负载均衡服务发生中断​​​​​​​](https://www.oschina.net/news/98103/google-cloud-global-loadbalancer-outage)
+ > Google Cloud 的状态信息中心于今天更新了一起服务故障事件，美国当地时间7月17日12点16分左右，有用户反馈 Google Cloud 的全局均衡服务出现返回 502 的问题。具体情况如下： Google Cloud 网络事件 18012 Google Cloud 全局负载均衡服务返回
+ ## [谷歌 CEO 将与欧盟反垄断专员通话：或遭受天价罚款](https://www.oschina.net/news/98102/google-android-eu)
+ > 北京时间7月17日晚间消息，彭博社今日援引两位知情人士的消息称，在欧盟对谷歌Android垄断案作出巨额罚款之前，谷歌高管将与欧盟反垄断专员玛格丽特·维斯塔格(Margrethe Vestager)举行一场电话会议。 其中一位知情人士称，谷歌CEO桑达尔·皮查伊(Sundar Pichai)周二将与
+ ## [OSC 周三乱弹 —— 你被我从 osc 老婆们名单中踢出了](https://my.oschina.net/xxiaobian/blog/1858510)
+ > 每天洗完头看掉落的那些头发都在想着写代码赚得这点钱值不值得……
+ ## [计算机制造商 System76 准备自己打造桌面 Linux PC](https://www.oschina.net/news/98100/system76-factory-started)
+ > 早在2017年4月，System76 就已宣布他们将开始设计和打造他们自己的计算机，从台式机开始，然后自己制造笔记本，而不是要过度依赖于上游供应商。目前看来，这家总部位于科罗拉多州的公司正在接近完全实现其目标。 有一段时间，System76 的员工曾发布他们正在进行的制造工厂的各种图片，而现在他们又
+ ## [SUSE 开发者提议在 GCC 编译器中用 Python 替代 AWK](https://www.oschina.net/news/98099/python-gcc-wwk-proposal)
+ > 日前，一位 SUSE 开发者向 GCC 开发团队发送了一封邮件，希望允许在 GCC 编译器代码库中使用一门脚本语言(Python)，这主要是为了替代现有的 AWK 语言。 这位 SUSE 开发者 Martin Liška 目前正在寻求关于这项提议的可能性，他表示，这不是将现有的 GCC C 编译器代
+ ## [开源虚拟机 VirtualBox 5.2.16 发布，常规维护版本](https://www.oschina.net/news/98098/virtualbox-5-2-16-released)
+ > VirtualBox 5.2.16 已发布，这是一个常规维护版本。包含以下更新内容： OVF: case insensitive comparison of manifest attribute values, to improve compatibility (bug 17357) Linux:
+ ## [自动化构建系统 CMake 3.12 发布，包含重要变化](https://www.oschina.net/news/98097/cmake-3-12-0-released)
+ > CMake 3.12.0 现已发布，下载地址为 https://cmake.org/download/。 文档：https://cmake.org/cmake/help/v3.12 发布说明：https://cmake.org/cmake/help/v3.12/release/3.12.html C
  ## [Goa 1.4.0 发布，Go 语言构建微服务框架](https://www.oschina.net/news/98096/goa-1-4-0-released)
  > Goa 是在 Go 中构建微服务和 API 的框架，采用独特的设计优先方法。使用前确保有 Go 语言环境。 Goa 1.4.0 距离上个正式版本发布已近一年，在这一年中，Goa 迎来了一些新特性和 Bug 修复。 新特性 Multipart Form Encoding 新增对 HTML 4 规范中描
  ## [ZanUI-WeApp 3.0.9 发布，微信小程序 UI 库](https://www.oschina.net/news/98095/zanui-weapp-3-0-9-released)
@@ -103,10 +127,10 @@ categories: IT NEWS
  > SOFABoot 是蚂蚁金服开源的基于 Spring Boot 的研发框架，它在 Spring Boot 的基础上，提供了诸如 Readiness Check，类隔离，日志空间隔离等等能力。在增强了 Spring Boot 的同时，SOFABoot 提供了让用户可以在 Spring Boot 中非常
  ## [Kubernetes 1.11.1 和 1.11.2 beta.0 发布](https://www.oschina.net/news/98089/kubernetes-1-11-1-released)
  > Kubernetes 1.11.1 和 1.11.2 beta.0 已发布，Kubernetes 是一个开源的，用于管理云平台中多个主机上的容器化的应用，Kubernetes 的目标是让部署容器化的应用简单并且高效（powerful），Kubernetes 提供了应用部署、规划、更新、维护的一种机制
- ## [Pandoc 2.2.2 发布，标记格式转换工具](https://www.oschina.net/news/98088/pandoc-2-2-2-released)
- > Pandoc 是一个用于从一种标记格式转换为另一种的 Haskell 库，同时也是一个使用该库的命令行工具。 与大多数将 Markdown 转换为 HTML 的工具（使用正则表达式替换）不同，Pandoc 具有模块化设计：它由一组读取器组成，这些读取器用于以给定格式分析文本并生成一份此文档的本地表示
- ## [San 3.6.3 发布，百度开源的 MVVM 组件框架](https://www.oschina.net/news/98087/san-3-6-3-released)
- > San 3.6.3 已发布，这是一个 bug 修复版本，解决 forgienObject 等带有大写字母的 svg 标签渲染错误的问题。 San 是百度开源的一个 MVVM 的组件框架。它体积小巧（12.6K），兼容性好（IE6），性能卓越，是一个可靠、可依赖的实现响应式用户界面的解决方案。 San
+ ## [关于区块链相关职位，你需要了解的一切](http://blockchain.51cto.com/art/201807/579116.htm)
+ > 关于区块链相关职位，你需要了解的一切
+ ## [外媒速递：DevOps终极指南与关键收益解读](http://zhuanlan.51cto.com/art/201807/579085.htm)
+ > 外媒速递：DevOps终极指南与关键收益解读
  ## [挨踢部落故事汇(40)汽车通信诊断开发-带领程序员走向现实世界](http://news.51cto.com/art/201807/579053.htm)
  > 挨踢部落故事汇(40)汽车通信诊断开发-带领程序员走向现实世界
  ## [开发者盛宴|51CTO首届开发者大赛决赛](http://mdsa.51cto.com/art/201807/578913.htm)
@@ -119,10 +143,12 @@ categories: IT NEWS
  > Service Mesh如此火热，背后的技术细节你了解多少?
  ## [七种适合初创企业的任务管理工具](http://developer.51cto.com/art/201807/578937.htm)
  > 七种适合初创企业的任务管理工具
- ## [区块链10.0展望：2040年，银行职员的一天将这样度过……](http://blockchain.51cto.com/art/201807/578950.htm)
- > 区块链10.0展望：2040年，银行职员的一天将这样度过……
- ## [外媒速递：五款卓越开源DevOps工具轻松实现自动化转型](http://zhuanlan.51cto.com/art/201807/579005.htm)
- > 外媒速递：五款卓越开源DevOps工具轻松实现自动化转型
+ ## [SUSE 开发者提议在 GCC 编译器中用 Python 替代 AWK](http://news.51cto.com/art/201807/579128.htm)
+ > 日前，一位 SUSE 开发者向 GCC 开发团队发送了一封邮件，希望允许在 GCC 编译器代码库中使用一门脚本语言(P
+ ## [大家在学的编程语言 Python，都用来干什么？](http://news.51cto.com/art/201807/579127.htm)
+ > Python 因为简单全面易用而成为近年来大热的编程语言。但是很多人学习了这门余元的语法和基本功能之后却不
+ ## [Redis混合存储-冷热数据识别与交换](http://stor.51cto.com/art/201807/579129.htm)
+ > Redis混合存储产品是阿里云自主研发的完全兼容Redis协议和特性的混合存储产品。通过将部分冷数据存储到磁盘
  ## [半年盘点：2018年10家大数据初创公司](http://bigdata.51cto.com/art/201807/579126.htm)
  > 通过对大数据初创公司的盘点发现，企业需要分析来自多个不同来源的客户数据，以了解客户行为并改善客户体验
  ## [半年盘点：2018年10个最热门数据存储初创公司](http://stor.51cto.com/art/201807/579125.htm)
@@ -137,18 +163,14 @@ categories: IT NEWS
  > 目前物联网技术发展迅猛，却并不普及，其中一大原因就是物联网的安全问题频出，同时企业和个人又不重视，也
  ## [云也要有自己的网络 论SDN和VPC的存在](http://cloud.51cto.com/art/201807/579120.htm)
  > 如果把云计算比作水资源，云网络就像是自来水水龙头，企业在上云过程中，可以自己选择并调节水流的大小和多
- ## [软件定义存储（SDS）之入门](http://network.51cto.com/art/201807/579118.htm)
- > 在互联网、物联网、大数据的伴随下，数据呈指数增长，随之而来将会面临的是更多的存储需求和挑战。传统的解
- ## [从CDN到边缘计算，近水楼台是否先得月？](http://network.51cto.com/art/201807/579117.htm)
- > 边缘计算虽然是新兴的技术，但是许多企业巨头都已经加入其中，CDN跟边缘计算的理念都是要在尽可能接近数据
  ## [如何系统学习领域驱动设计（DDD）？](https://blog.csdn.net/GitChat/article/details/81078607)
  > 如何系统学习领域驱动设计（DDD）？
+ ## [Python 网络爬虫反爬破解策略实战](https://blog.csdn.net/valada/article/details/79909268)
+ > Python 网络爬虫反爬破解策略实战
  ## [大型传统企业的数字化创新之路](https://blog.csdn.net/valada/article/details/79909267)
  > 大型传统企业的数字化创新之路
  ## [Web 安全恩仇录：漏洞原理](https://blog.csdn.net/valada/article/details/79909245)
  > Web 安全恩仇录：漏洞原理
- ## [Python 网络爬虫反爬破解策略实战](https://blog.csdn.net/valada/article/details/79909268)
- > Python 网络爬虫反爬破解策略实战
  ## [从逻辑思维角度提升自己的表达技巧](https://blog.csdn.net/BULpreZHt1ImlN4N/article/details/81009409)
  > 从逻辑思维角度提升自己的表达技巧
  ## [为什么很多程序员工作时都戴耳机？](https://blog.csdn.net/Y0Q2T57s/article/details/80975100)
@@ -169,8 +191,10 @@ categories: IT NEWS
  > 业余时间，决定一个人的成就
  ## [大龄程序员如何在科技公司生存？](https://blog.csdn.net/BULpreZHt1ImlN4N/article/details/81025138)
  > 大龄程序员如何在科技公司生存？
- ## [关于用户画像那些事，看这一文章就够了](https://blog.csdn.net/Tw6cy6uKyDea86Z/article/details/81049882)
- > 关于用户画像那些事，看这一文章就够了
+ ## [可口可乐是靠掠夺资源而发展壮大的吗](https://blog.csdn.net/bKMk01MZ3w/article/details/81029879)
+ > 可口可乐是靠掠夺资源而发展壮大的吗
+ ## [联通进军数字音乐：市场大势已定，死水难起波澜](http://www.lanjingtmt.com/news/detail/36629.shtml)
+ > 相比于中国移动在2014年底，发力数字音乐视频等文娱产品，成立全资子公司咪咕文化科技有限公司。中国联通的动作姗姗来迟。问题的关键在于，此时入场，市场的机会在哪？
 # 人工智能 
  ## [如何高效率系统地学习机器人操作系统ROS1.0和ROS2.0](https://blog.csdn.net/ZhangRelay/article/details/81083294)
  > 如何高效率系统地学习机器人操作系统ROS1.0和ROS2.0
@@ -203,6 +227,8 @@ categories: IT NEWS
  ## [第一次在tensorflow中运行mnist,相关程序，请注意分清楚是tensorflow,安装的时候cpu,还是GPU，当然直接运行都会报错，当用GPU时候，报错后加入下面语句，可以运行](https://blog.csdn.net/m0_37192554/article/details/81082036)
  > 第一次在tensorflow中运行mnist,相关程序，请注意分清楚是tensorflow,安装的时候cpu,还是GPU，当然直接运行都会报错，当用GPU时候，报错后加入下面语句，可以运行
 # PM 
+ ## [调研报告｜拥有2000亿规模的“金矿”，国内客服行业该如何发展？](http://www.woshipm.com/it/1120841.html)
+ > 随着互联网、移动互联网的快速发展，客户的联络需求呈多元化、指数级增长，企业需要提供多渠道的客服系统满足客户沟通联络需求，如网上在线客服，短信、微信、APP、QQ等...
  ## [刘玮冬运营手记|做用户增长，传播分享中的那些魔鬼细节](http://www.chanpin100.com/article/107204)
  > 【小百摘要】如何做好用户增长中的老带新？
  ## [数据分析对传统企业多重要？](http://www.chanpin100.com/article/107210)
