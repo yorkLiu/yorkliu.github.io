@@ -1,50 +1,50 @@
 ---
 title: 2018-07-21 IT News
 copyright: true
-date: 2018-07-21 08:01:27
+date: 2018-07-21 09:02:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [倒计时!推动医学装备网络安全，打造多维度医院信息安全管理](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=Kno6pNJsKiPvTlk5dWYtbnRkogKRcyup2nQooE6Y6RjW7HOUVvl2km41t0cVQVALL6tAi7csvpyOnDEboOS*iS5fwwX0AI0zICUfVzGUL0b1V4n13J2aECVVGroAwwRV&new=1)
- > 7月22日2018中国医学装备网络安全和信息管理学术交流会即将开启会议主办方中国医学装备协会IHE中国e医疗中国医学装备人工智能联盟信息委员会（筹）2018年7月22日，上午8:00-12:00（8：00开始会议签到）在四个小...
- ## [华为“达芬奇计划”剑指AI，要重创英伟达?](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=AgkbQg17mA8zSwea4NeJpP7mIcVqGAi2xDIZeKqUxYMjB9FPqkAwomLLLg09nVst7TEap4xsvg-*0PvFlcHLigFDq*HYY0BIAolY5nYFo58-0p49xG*MQpwU34mwTmE3&new=1)
- > 近日，据外媒The Information报道：华为内部制定了Project Da Vinci，达芬奇计划。在这个巧合的时间点，与中兴的热闹和喧嚣相比，华为则显得低调了许多。 随着消息的披露，华为至今没有做任何回应，关于华为这个...
- ## [智能工厂的发展现状与成功之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=K*cIZAy479u5ZfP4rG7pikdTOCAxLZnMy3f77CdlnxpQmAE8EUkisU2foM3gqUA3y-Vo3RRQiuIgB5i1J3jJEfjyI1vnBN4ZyRjLn*bk5TPk5UfQ*c6SnnHJ*TDrj4t4&new=1)
- > 导读近年来，智能制造热潮席卷神州大地，成为推进“中国制造2025”国家战略最重要的举措。其中，智能工厂（Smart Factory）作为智能制造重要的实践领域，已引起了制造企业的广泛关注和各级政府的高度重视。文/e-...
- ## [数据驱动时代的情报](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=8z1pJJdxfXgxop4EBYJMMBUBVOjzIyfRoIGxa5I8yKQZtvkQ81Ccdzz5Fpxs4Lm*03Ltp58ETVawX1vaVVKu9BZByKEls*Ifn*Z5RyKy2qfvx0y0g*ig1p-EfoR2b9xc&new=1)
+ ## [发改委城市中心专家冯奎：推动城市治理智慧化水平不断提升](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=VLeMdDf2NiM161B7LAs09tQ1OPI7KAlhzXqRD8UVsEqmH0Imqeo14dFekgblWw*SIf-buc3O1SYX3xaEZrRSmh6Ee47x2tnWY3vrzOK2btUtHUyE352uO1M3cnFuJ*bw&new=1)
+ > 文章作者为国家发改委城市和小城镇改革发展中心学术委秘书长冯奎，来源于《ICT新视界·智慧城市特辑》。城市治理智慧化是当前研究与实践的一个热点。总体来看，国内外关于城市治理智慧化的研究始于智慧城市建设...
+ ## [报告|从20世纪70年代至今，自动驾驶汽车的发展经历了哪些历史性的变革?](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=bSrHgLn2Tgad6n6IqEMMdozE-XJx6vwS4aQd1B5b5SOEviLxY*pzJaFPEzOg1RsJLDk5a*kkkpxhpExuRdAXnAIXmd1cKiCHr9rLnVewnX4R726oNuRdTxSq0NsHWxjl&new=1)
+ > 来源：学术头条摘要：当今，无人驾驶技术已经成为整个汽车产业的最新发展方向。科研院校、汽车制造厂商、科技公司、无人驾驶汽车创业公司以及汽车零部件供应商在无人驾驶技术领域进行不断地探索。今天我们为大家...
+ ## [数据驱动时代的情报](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=8z1pJJdxfXgxop4EBYJMMBUBVOjzIyfRoIGxa5I8yKTUZYq95RIblV-*vIhb3UNcpBW-HAXCmpAKsgcsaksdKV47egQHGNbnIvE*Of2KX1AhH77OMOPg*08R6zOcaJ6r&new=1)
  > 人工智能和机器学习将有助于提高未来情报分析人员的工作效率，增加获得和保持竞争优势或时间优势的机会。数字化转型、多域数据集成和算法战将是情报集团保持长期竞争优势的核心。2017年7月，参谋长联席会议主席...
- ## [全球超算美国称霸?揭秘鲜为人知的中国芯](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=VcEuqJq-rW5kMwFIlxWzCvjxZiZxtN3kZ8JuEPfMCXh43XwPO77b5XkptanjfStB28JgR--yuPZVkVSS68ing27EcTuliMmUPGe-FpajkoB4Uy-Oo*pPryDVeJrU3kOU&new=1)
- > 超算，超级计算机，是所有计算机中运算速度最快、性能最强的一类，在科研和军事等尖端领域拥有举足轻重的地位，是综合国力的体现，堪称国之重器。或许这些高尖端的庞然大物距离我们寻常百姓的生活很遥远，所以我...
- ## [快来给你的Windows混合现实空间添加自定义场景](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=*EzRCfWiBH3ztG3KY7anvuf0h2y8kcHPSQtEiIHKEY1QziDNQ1wYke0dYhASQuOIU5hblYXjxQePKa7EzxiH-ybL-YE8f5y2PvsAbXvuY4JnR3s0CzUxY724EcdkmWk5&new=1)
- > hi188｜ 撰文还记得去年10月份，我一次体验Windows 10当中的混合现实门户应用时，就被其吸引，这种高度可定制化的方式令人印象深刻，它不仅把VR应用集成到桌面，还把大量的2D应用直接“平铺”到虚拟场景中，功能...
- ## [聚焦·要闻|新大陆每 10 股派发现金股利0.8 元(含税)，股权登记日7 月 25 日](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=Pq9SH*bOrZoDq9*K*wrfafkEhO991aMxBAYyAfayntXI9FV4ZmyrPWH-RCMNlLSBJretG49T7DgZ5TqCZxtPR5NFrkT0mctaxZJRoJYRLqRukN3RryiWaBUAJLUk0cCC&new=1)
- > 点击图片查看详情新大陆每 10 股派发现金股利0.8 元（含税），股权登记日7 月 25 日国家乡村振兴战略出台——新大陆成立益农控股（广东）有限公司新大陆软件公司大数据行业变现业务蓝图初现——中标“海南移动”...
- ## [安卓也迟早要完：谷歌有意让Fuchsia新操作系统替代安卓](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=gmkqbi5XuoQRM56mtyDL7kH1k1EkKGK*Op0noAzzjyoNViOeJN-tUCmTiMppBIHHMmGnYPOQPpRY7L8tciyxh0AjSC6cUBblA8C2XFTVM*mC9w1MBQ*t5ZgYtQUXlbX4&new=1)
- > 谷歌公司在数十年前收购安卓系统对其源代码进行开源，开源免费策略让安卓成为移动操作系统市场的龙头。尽管谷歌并不是依靠安卓系统才成为顶级的科技公司，但安卓系统也为谷歌搜索等业务贡献非常可观的流量。但是...
- ## [中国信息通信科技集团有限公司正式揭牌运营](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=C57BcPag9XdB0rd-neiIINnPJwFdy5wXpp40v9fnNpIRA0zhwJ02nYt5raLLKKyEDFf3DsZLEHMerQukAgL4ypK9sXhVfgrEQGXIx90WN*thcuvo-jJJVOB9M3w1sr7p&new=1)
- > 2018年7月20日，中国信息通信业界迎来重要时刻，中国信息通信科技集团成立大会在湖北武汉举行。国务院国资委主任、党委副书记肖亚庆，湖北省省委书记、省人大常委会主任蒋超良，湖北省委副书记、省长王晓东，国...
- ## [AI落地智慧安防创新应用峰会成都站完美落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=nCo33mvbHc05izHbEa3nvhltUBfYOGpfA0C61d77qRL1bj-kOTPGwBuKE0R2Cc5xkG8BRExyE4dx*cNU*tZbyRMGnfR*DsjwU8Yim9G8z96cq59V*o*JyH6Y3ztyjXcM&new=1)
- > 2018年7月19日，成都世纪新城展览中心，由a&amp;s传媒与四川省贸促会主办的a&amp;s AI落地智慧安防创新应用峰会隆重举行。本次峰会上，希捷科技有限公司、深圳英飞拓科技股份有限公司、苏州中德宏泰电子科技股份有限...
- ## [落地5G网络中国移动自有妙招 联通电信原来也没闲着?](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=l14wmAcb7a9baj9B*tSPHcEld*jXM0WKaYlW18L7hPXUUKv58h5cMMhG49MaChYtu5ZErhJbFwSWwYkn4tAEWhpHEMS6Bwsz5cz-l3knhfDDsG4RIFQsZBSB8KiHnIi*&new=1)
+ ## [物联网变革 不断进化的智慧社区](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=8icp7Al0cUOiSZKB6LrR8X0R3CchNCWnabmTt4avdtNgDSMWc9mcdqEG3LYiG430JPDpDOpOpXosCFha8TMwzan43Z2hH9DDkk-e*YO7BykjS8sFR-AWdnka4-XS3U-z&new=1)
+ > 如马洛斯需求层次理论所讲的一样，当我们满足了生理需求以及安全需求之后，接下来便是社交需求以及尊重需求。衣食住行都是如此，而智慧社区的出现，便是满足新需求的产物。什么是智慧社区？智慧社区是指社区管理...
+ ## [落地5G网络中国移动自有妙招 联通电信原来也没闲着?](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=l14wmAcb7a9baj9B*tSPHcEld*jXM0WKaYlW18L7hPUvKYjpvPQd-4qAnEASq2OHuk8FnzC0as-eI73jN-grE4n48EWO8gh-L*YLAVQXNnQV0eshpurqEu6tdX5-o2Y-&new=1)
  > 根据报告显示，中国移动坚持强化创新驱动，促进融通发展。持续推动关键技术研究和标准引领，牵头制订5G 网络架构国际标准，引领产业发展。那么，中国移动在创新建设5G方面有什么法宝呢？据了解，中国移动拥有自...
- ## [沿海渔船安装新型动态监管系统 渔船倾覆传感器会自动报警](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=hr3qc7yXGxJv*iNpRaUyA6Qu*Qm71daBAkFpAL7JTBOGR77MgWs5GguAmVwoJ4tmXXNQ9VwQyuQ5QYqa-nhjH2C5AXcKAjOllQv*Bx0tmm5YXLI*FwTQEGshn6SLJSK9&new=1)
- > 最近，在与传感技术相关的诸多领领域，有哪些最新的应用动态呢？来看看以下三则简讯。浙江渔船，资料图　　1.沿海渔船装新型动态监管系统 渔船倾覆传感器会自动报警　　在浙江省海洋渔业局的中心平台上，可...
- ## [行业迎来重要时刻!中国信息通信科技集团有限公司正式成立](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=PkT01kw1uLTPYfxyOGRTvacxVMW8rOKLBqzHoKXCw04GXjZvgw0toxYz7ecKCsahSPlBT1h6EiJxwiFmstIXiH6iw5yLyH8pGhqA9R5teoGC60t7v6p6w4t9j3wdeRjD&new=1)
- > 众所瞩目的中国信息通信科技集团有限公司（下称“中国信科集团”）今日正式宣告成立，为中国乃至全球的信息通信产业发展史添上浓墨重彩的一笔。国务院国资委主任、党委副书记肖亚庆，湖北省省委书记、省人大常委...
- ## [中国联通南非公司正式揭牌开业](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=05Cbd9nDpqzGiqixJjz9j*R9wk2FPWufQzQbaKNq4KSWKu2eZIrD6xUJg2xcbCP8y8-s1G34ma1khDhs258DuCHgr54lEgZaAya*DdMkB5PcFXPbcCpzusUc8Oba0VVS&new=1)
- > 7月18日，中国联通（南非）运营有限公司（以下简称“南非公司”）在南非约翰内斯堡正式开业。当晚南非政府代表、南非中国经贸协会代表、媒体代表、运营商合作伙伴、中资企业等100余人共同出席并见证了揭牌仪...
- ## [又来?微软爆料俄罗斯黑客对美国中期选举候选人发起攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=*B0N50suikZ5eJzussxbZBW4QKmhwK6Ye4pYIMHUIB3swdU2*QA9OcQXlwB*Zg4L1kP3XVpJFF3WdvOO3MRoWdxol8XSogZVdcgY8Nh-kFswO0heNTylKqhQG*QLUp1w&new=1)
- > 微软的一位高层管理人员在近日举办的ASPEN安全论坛上公开表示，他们发现俄罗斯黑客正在尝试对至少三名即将参与美国2018年国会中期选举的候选人进行攻击，但微软成功发现并帮助美国政府阻止了俄罗斯黑客的攻击行...
- ## [Android 五年内要被取代?这里有 Google Fuchsia 的一些真相](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=lKYvHvUTyMskF6j*W5lJH*ppHmafNt5M31ziHgtUhwmdt2erC9CHQg8TBa4PhYViT7FALfTt71uehyCsaBa-3mDzpvxbI3LNgK2FX3akpYldleNdgWactmF-ivVwxHgC&new=1)
- > 7 月 18 日，一笔由欧盟开出、面向 Google 的高达 43.4 亿欧元的创纪录罚单，让 Android 操作系统再次成为舆论场上的焦点。欧盟指责 Google 在 Android 上捆绑 Chrome，限制其他厂商对 Android
- ## [简单反黑客远程控制/后门的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=8PnvXY9Ru07Sl1Ffq4boT7ev*Kx3kejgPQoKYAJqFL2cfVg0Btc7*O8KzL2**SqvDg*SYPAqRAuItmtZR-3fmigOS1her6g7sOfb4g-Nu29SnU90ro8GRLdXbL0PKgUe&new=1)
- > 听说世界上只有百分之3的人关注Jayson，很幸运你是其中一位现在的很多黑客做的软件都存在后门程序的捆绑，所为后门程序就是在你的计算机中开某一个端口后门与黑客的主控端进行连接，一旦运行了捆绑后门的软件，...
- ## [又一家设备商巨头诞生!中国信科集团正式揭牌运营](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=JnEEjqQAIPjuMzDGKp9oaQ16S8bidYQNEjN8JYm1jQVkLjw*SskD6450*RXrAesSqduOOanZL3BbDTd7rwLQV61iG-S0gV8eAkqrIEkDp1TO5y62aUMjHw01c8WFF88E&new=1)
- > 通信业的又一艘巨轮正式起航！今天，“中国信息通信科技集团”正式揭牌运营！中国信科，就是原来的烽火+大唐，也就是武汉邮电科学研究院和电信科学技术研究院联合重组。武汉邮科院旗下由烽火通信、光迅科技、长...
- ## [欧盟重罚谷歌43.4亿欧元，究竟是谁在破坏安卓生态?](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=gjCcsSpzs6LqE2pR1IJOdgP2s1HqiY531XJyxfwvYcq2DJmEeEwEWu1MJQRTq7YsVs9K6ElUHWacBB7HmI-Ed1mgnDX0cdm8KLQnOlMfq2ijAMHsAqb1ySDnOGkdm6Xe&new=1)
+ ## [价格相差20倍!揭开翻译机产业真相](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=yASVWfqy-TtsePRnB4rnOHmAB7ILwJsh9qU4yw9ptJQhzvz*fhPltv5FGDQHjYhK1TSrWHI*KszQZaurxacCKGKm2JTFxYR2iE1-hlUqEJoDUYtjmsLAW502zB-7QXJW&new=1)
+ > 看点：消费电子圈老炮带你看尽AI翻译机背后的打法与套路，今年翻译机的红利，你收割了吗？在中国，任何消费电子圈的风吹草动都逃不过深圳江湖这帮老炮锐利的眼神，他们是风向的跟随者，也是风向的推动者，如果哪...
+ ## [助力上海上港的神秘武器，智慧球场引领中国足球新变革](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=51QC9jTgDXVOQoy1OZktF6Fh9eJRPWhQXsdCfmlS2i8XgJZK40s5HdQDWYGfEU96LzUuL9OZwppJc1qYXinCldd23*aatWpa6vw5XoqHulxoPGlNeMtEPlDmnU*IeamC&new=1)
+ > 2018年俄罗斯世界杯刚刚结束，除了32支球队的精彩发挥外，本届赛事中的Video Assistant Referees（VAR视频裁判）系统也赚足了世界的眼球。其主要作用是将比赛实时画面与虚拟画面相结合，通过多角度、高清晰的画...
+ ## [头条|智能制造先锋齐聚，中国家电业升级有章可循](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=xiSw7MY83OcJ3Y8bqRYcBKR3arWV*mKkUQG6lScbvPTqg7r4NMURvP-hle8Q39e9poMWfE8KGeah14iHH0HkMg37kmsL*zqebvgDPN3Omti9Jkh48XYjRpYNaUc*j*ru&new=1)
+ > 电器微刊行业|深度|视角2018年7月20日，由中国家用电器协会指导、《电器》杂志社主办的“寻找中国家电业智能制造先锋”大型主题活动以一场主题为“智造·新时代”的高峰论坛暨颁奖典礼进行了阶段性总结。会上，...
+ ## [智能工厂的发展现状与成功之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=K*cIZAy479u5ZfP4rG7pikdTOCAxLZnMy3f77CdlnxqPhZ9*okFknUVJiGsf4iiQWWGMFE5wjFQMJY8EapmpUXslyf0KgZDn9uJbVW1RYWF41y6Dxn9oCCWPtd0aTcop&new=1)
+ > 导读近年来，智能制造热潮席卷神州大地，成为推进“中国制造2025”国家战略最重要的举措。其中，智能工厂（Smart Factory）作为智能制造重要的实践领域，已引起了制造企业的广泛关注和各级政府的高度重视。文/e-...
+ ## [\[构建闪存新生态\]2018全球存储半导体大会在武汉光谷盛大开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=ttpK9pesRXYEKuGr6Tx4-Vxwpb6LQ1Rx8-pfp1s7wQ84roYDeDxKsGBFAsH6ff*LvOWZPPU0H16Uu44citZ38uUKnja6ylom8IlF-tVjyeqQLxsukJFmiufLsC6ofq6G&new=1)
+ > 云计算、大数据、人工智能、物联网等技术的快速发展，带来海量数据爆炸式增长和对存储芯片前所未有的需求。为了更快更好地推动闪存和存储半导体市场发展，增进产业上下游交流与互动，7月20-21日，2018全球存储半...
+ ## [安卓也迟早要完：谷歌有意让Fuchsia新操作系统替代安卓](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=gmkqbi5XuoQRM56mtyDL7kH1k1EkKGK*Op0noAzzjyqTuT0Zg5a25WvV6*4nzyzkwJ08LuaiQs8o--ddty9NqTbW-mGFBQmYQmbIYK*q4fGzuwZhtSI93ML6XfSZ3gz*&new=1)
+ > 谷歌公司在数十年前收购安卓系统对其源代码进行开源，开源免费策略让安卓成为移动操作系统市场的龙头。尽管谷歌并不是依靠安卓系统才成为顶级的科技公司，但安卓系统也为谷歌搜索等业务贡献非常可观的流量。但是...
+ ## [一文看懂国产存储芯片产业的现状与未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=6*IjFguuujaX6OtSS7dVvzTFUhFMcQnLIDarqgYV6asfYyPcoCWN6o9W4A2PcAC5kUTeMPgaTMRvI*OLp0woTAU3KAqAGD4vp*IESJ1ihEypw6058wkWMPLCO0MDEvkh&new=1)
+ > 近日，存储芯片大厂三星正式宣布已开始量产96层堆叠、单Die 32GB容量的第五代V-NAND闪存芯片。同时，三星还正式发布了首款LPDDR5内存芯片。可以说，三星在存储领域进一步拉开了与其他竞争对手的差距。相比之下，...
+ ## [大数据安全整治中对公民个人信息的保护将是重中之重](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=1vpF6*o6tMhSIUMsMInK20cHZNFQONDQptwVbv0lv2ewBeMA6K5ydQLrXEHx224ruYkIiVCA0YSED2qj4tKG9LgZU-kCI*b0-B9nrDQVb*2tlRlSQ7rcw7kxuIBsFeQj&new=1)
+ > 点击蓝字关注我们tencentccc题图  |  网络      根据今年6月公安部召开的“2018年全国公安机关网络安全执法检查工作电视电话会议”精神，今年将开展全国网络安全执法大检查，全面排查重要信息系统、关键信息基础...
+ ## [倒计时!推动医学装备网络安全，打造多维度医院信息安全管理](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=Kno6pNJsKiPvTlk5dWYtbnRkogKRcyup2nQooE6Y6RjJbdZd8qOBABco3P4lx4O0KN4PZ63Yma38CAxI24MS2giHh*9a1dMZ8T2AO5u1EEaQK-4H2CJlMzyBGkOTdq9J&new=1)
+ > 7月22日2018中国医学装备网络安全和信息管理学术交流会即将开启会议主办方中国医学装备协会IHE中国e医疗中国医学装备人工智能联盟信息委员会（筹）2018年7月22日，上午8:00-12:00（8：00开始会议签到）在四个小...
+ ## [华为“达芬奇计划”剑指AI，要重创英伟达?](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=AgkbQg17mA8zSwea4NeJpP7mIcVqGAi2xDIZeKqUxYOO-IpQPA4Dnx-XO6BORa764AKRrZPYkbov9tJPMytOsQLvlsyiHHscq1JPdOOq780jYPZkX5s3wEGGJkRt1dAq&new=1)
+ > 近日，据外媒The Information报道：华为内部制定了Project Da Vinci，达芬奇计划。在这个巧合的时间点，与中兴的热闹和喧嚣相比，华为则显得低调了许多。 随着消息的披露，华为至今没有做任何回应，关于华为这个...
+ ## [欧盟重罚谷歌43.4亿欧元，究竟是谁在破坏安卓生态?](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=gjCcsSpzs6LqE2pR1IJOdgP2s1HqiY531XJyxfwvYcrL0vpuZ*T5teBQG3KjHdX-Z5sMBPbCm0cPm3xjpizFmWPNg73bf*hcmT4d0nqYvNQhJ77XqZgZdR2I4MtZ43V*&new=1)
  > 关键时刻，第一时间送达出品 / 腾讯新闻 &amp; 财经特约撰稿人 / 李军  文 / 刘以秦  编辑 / 谢丽蓉欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻想借助一两个反垄断案例就打掉谷歌借助垄断市场获得...
- ## [WitsView 2018 7月下旬 面板价格快报](http://mp.weixin.qq.com/s?src=11&timestamp=1532129406&ver=1011&signature=S3MeTOF6P6GPYSSd6WcRiq6BBMOjPF3LWtekgZma2le5hIGHxSNwZB1ARUrzoqyiVbetkEdIsftNkMzqqiBaN8I0hji*suZigI75NatXP9*UI5XhsaAWfc96tTSBvgBq&new=1)
+ ## [又一家设备商巨头诞生!中国信科集团正式揭牌运营](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=JnEEjqQAIPjuMzDGKp9oaQ16S8bidYQNEjN8JYm1jQXpHxQEFieV*5Efnya7Wa*V0BCWqQs6G7J8AdKdW2UhwCGHHHRUrpZM3VW6Bcxgd0jiutVZfoSb59qNoiyiIWVK&new=1)
+ > 通信业的又一艘巨轮正式起航！今天，“中国信息通信科技集团”正式揭牌运营！中国信科，就是原来的烽火+大唐，也就是武汉邮电科学研究院和电信科学技术研究院联合重组。武汉邮科院旗下由烽火通信、光迅科技、长...
+ ## [全球超算美国称霸?揭秘鲜为人知的中国芯](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=VcEuqJq-rW5kMwFIlxWzCvjxZiZxtN3kZ8JuEPfMCXgMcAvagbofe1Hgs2WkwIzMBvVHBxOwsfOyDoSstizOvkMtRAIkiuBJrNIxx9H7rT8MNX9hoDGE3l2SwE25NtAU&new=1)
+ > 超算，超级计算机，是所有计算机中运算速度最快、性能最强的一类，在科研和军事等尖端领域拥有举足轻重的地位，是综合国力的体现，堪称国之重器。或许这些高尖端的庞然大物距离我们寻常百姓的生活很遥远，所以我...
+ ## [美国废止“网络中立”会让中国断网?专家：误读!](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=QZOkI0dLA2Hfa3Kg5N3Ap4x8C3FclRFSjwp1d-9kZo4Uy9UhypjP9lT*WJUoPyZCxQv7TXxRpkjmK2dAWapzIw*DR1OYoHNAeF6yz6kzed1PM75BQm78i8Zd5QHHJ5Rk&new=1)
+ > 近日，网上流传一种说法，“因为美国废除了网络中立原则，因此可以在需要的时机使用网络武器对特定目标进行网络攻击，甚至令中国断网”，尽管这种说法颇为杞人忧天，却让国人对”网络中立”产生好奇。          ...
+ ## [WitsView 2018 7月下旬 面板价格快报](http://mp.weixin.qq.com/s?src=11&timestamp=1532134806&ver=1011&signature=S3MeTOF6P6GPYSSd6WcRiq6BBMOjPF3LWtekgZma2ldDUycE44R5vTvz6VyFjpXV4gYigSHSeBuVJZT5EaSFC6LsSo-XgJUVad93X2pLcM9iExkjaBUxzYw8e3UVXPEU&new=1)
  > WitsView介绍TrendForce光电事业处WitsView成立于2004年，由一群在面板产业拥有多年经历的分析师组成，研究领域涵盖上游零组件，中游面板以及下游系统商和零售业者。由于我们相信高价情报和精密的研究是协助制造...
  ## [为什么部分外行人看起来不太复杂的网站，比如Facebook，需要大量顶尖高手来开发？](https://www.zhihu.com/question/20303645)
  > 因为大量的顶尖高手做了大量的工作就是为了让你看上去很简单。这世上专门有个工作就是ux，user experience，目的就是为了各种小白用户，外行人用起来觉得简单易上手。有个工作叫A/B test就是抽样实验看哪个设计更简...
@@ -60,14 +60,18 @@ categories: IT NEWS
  > 微软的法务水平太低。应该请知乎软粉组成律师团，祭出软粉三连“我的没有这个问题”“苹果也有这个问题”“一定是你不会用”，保证控方羞愧难当乖乖撤诉再赔偿微软名誉损失费
  ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
  > 谁反对创业了，没有人反对创业，创业是改变命运的最强有力的途径之一，只是这条路不那么好走，有些人一看就不适合创业（至少是目前不适合创业），那么劝他们一下是很有必要的。适合不适合创业的标准，不是能力强弱，...
+ ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
+ > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
  ## [欧美网民有没有使用“网址导航”的习惯？](https://www.zhihu.com/question/65601582)
  > 了解一下Web 1.0的Yahoo:雅虎将全球网址分成新闻、娱乐、科学、教育等14个门类，然后下面再细分。上网者可以使原来茫茫然不得其门而入的上网变成了一件容易的事情。
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [运营到底是做什么的？](https://www.zhihu.com/question/51315756)
+ > 最近刚买了《我在阿里做运营》这本书，用书里的话回答你吧。运营，是达成一个目的的过程中所用的任何人为干预手段。即以结果为导向，调动各种能力和资源去完成任务就是运营。运营需要思考，你要思考怎么做投入产出比...
+ ## [对你影响最深的二次元人物是谁？](https://www.zhihu.com/question/270318303)
+ > 从小学起就喜欢上了动漫，这么多年很多事情没坚持下来，唯有动漫，始终是我人生中重要的一个部分。而要说至今为止对我影响最深的动漫人物，那一定是《夏目友人帐》的夏目贵志，他教会我如何温柔的对待这个世界。在看...
  ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [如何评价红花会的PG ONE？](https://www.zhihu.com/question/61932412)
- > PG陨落背后的圈内事「转载非原创」看这篇文章之前 请各位不要当键盘侠在说一次 不参与洗白这是一条长文，自己写的，但你一定会看完，这里面有太多不为人知的事情。 早在2017年初，国内最强音乐公司摩登天空跟只做中...
  ## [应届生申请产品经理（助理）的岗位，该怎么写简历呢？](https://www.zhihu.com/question/19854642)
  > 应届生申请产品经理，简历是敲门砖，但大多数公司其实都理解应届生没有太多实质性的产品经验或者项目经验，所以一般不太纠结这个点，重点是看基础能力和潜力，如思维方式，逻辑能力，表达能力，沟通能力，学习能力，...
  ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
@@ -76,10 +80,6 @@ categories: IT NEWS
  > 我在北京做了3年的互联网运营，北京的生活压力太大了，终究不是久留之地。年初回了渭南，打算在老家找个小生意做做，也算是符合题主的【三四线城市互联网创业。】我发现，多数的互联网项目都不适用于三四线城市，比如...
  ## [如何评价哔哩哔哩和幻电科技公司创始人徐逸(碧诗)？](https://www.zhihu.com/question/28084029)
  > 先帝，死了，，，被自己建立的网站封号，太真实了，，，徐逸，最幸福的人，，，
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [携程为什么要开线下门店？这是 OTA 版的「新零售」吗？](https://www.zhihu.com/question/61631020)
- > 我发现现在越来越多的线上零售开始做线下店了，那天看到商场的线下体验店人居然还蛮多。我觉得这是因为现在线上的局限性开始显露了。线上服务的机械性，产品的不可触摸性，交易双方的信任与黏性一般，让线下店成为一...
  ## [怎么做好大型电商详情页？都有哪些需要注意的地方？](https://www.zhihu.com/question/27606832)
  > 谢不邀转自我的之乎专栏：平面设计师不管在什么网站，详情页的设计在整个设计环节中都是至关重要的一项，因为详情页在购买环节中能起到一定的转化、促进交易作用，所以一款符合产品定位且视觉效果很好的详情页是很多...
  ## [如何评价京东杀熟？](https://www.zhihu.com/question/270660676)
@@ -87,6 +87,14 @@ categories: IT NEWS
  ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
  > 在职小法医强答一波还是个女法医大学学了五年法医，直到最后一年实习才接触到了真正新鲜的尸体，整个人都很兴奋但我不是变态好咩！特别是凶杀案的时候，确实像电视剧里一样刺激。当然那都是早期年幼无知的时候。现在...
 # IT 技术 
+ ## [每日一博 | 大家都在学的 Python，可以用来干什么？](https://my.oschina.net/u/3839556/blog/1858723)
+ > Python 因为简单全面易用而成为近年来大热的编程语言。但是很多人学习了这门余元的语法和基本功能之后却不知道 Python 能干什么以及怎么做。
+ ## [协作翻译 | 探索 Windows 命令行演变史：起源](https://www.oschina.net/translate/windows-command-line-backgrounder)
+ > 这是我们探索所有命令行的系列帖子中的第一篇 - 从命令行的起源和终端的演变，到我们在未来 Windows 发行版中对 Windows 控制台和命令行进行全面更新的做法。
+ ## [五年取代 Android？谷歌积极开发 Fuchsia 的真相是..](https://www.oschina.net/news/98215/will-android-replaced-by-fuchsia)
+ > 过去两年，Google 一直在开发一个全新的开源操作系统 Fuchsia，没有使用 Linux 内核，而是使用名叫 Zircon 的微内核。这个名为“Fuchsia”的项目是从零开始创建的，目的是为了克服 Android 的局限性。 根据彭博社的报告，Google 有计划在五年内用 Fuchsia 
+ ## [OpenID 失去了最重要的拥护者 StackOverflow](https://www.oschina.net/news/98214/opend-lost-stackoverflow-support)
+ > 近日，OpenID 失去了最重要的拥护者之一 Stack Exchange，该公司旗下运营着 StackOverflow 等问答类型的网站。Stack Exchange 将从 2018 年 7 月 25 日起完全停止对 OpenID 的支持。目前，各大网站都在其产品中逐渐排除对 OpenID 的使用
  ## [码云推荐 | Go 实现的 Redis 内存分析工具](https://gitee.com/hhxsv5/go-redis-memory-analysis)
  > Go 实现的 Redis 内存分析工具：用于找出占用内存较多的 Key，将结果导出至 CSV 文件。
  ## [Jasypt Spring Boot — Spring Boot 项目属性源加密](https://www.oschina.net/p/jasypt-spring-boot)
@@ -141,8 +149,8 @@ categories: IT NEWS
  > 提升技术领导力实操指南
  ## [Spring Data JPA 实战](https://blog.csdn.net/valada/article/details/79909251)
  > Spring Data JPA 实战
- ## [【AI in 美团】如何基于深度学习实现图像的智能审核？](https://blog.csdn.net/MeituanTech/article/details/81076999)
- > 【AI in 美团】如何基于深度学习实现图像的智能审核？
+ ## [AutoDispose代替RxLifecycle优雅的解决RxJava内存泄漏问题](https://blog.csdn.net/yuzhiqiang_1993/article/details/81066344)
+ > AutoDispose代替RxLifecycle优雅的解决RxJava内存泄漏问题
  ## [从阿里社招面试，看“野生”Java程序员的学习道路](https://blog.csdn.net/BULpreZHt1ImlN4N/article/details/81091469)
  > 从阿里社招面试，看“野生”Java程序员的学习道路
  ## [直观理解深度学习的卷积操作，超赞！](https://blog.csdn.net/qq_28168421/article/details/81117352)
@@ -155,6 +163,8 @@ categories: IT NEWS
  > 基于深度学习的图像语义分割算法综述
  ## [我为何一直强调外包公司别去](https://blog.csdn.net/zV3e189oS5c0tSknrBCL/article/details/81074618)
  > 我为何一直强调外包公司别去
+ ## [女生程序员微自传](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/81117212)
+ > 女生程序员微自传
  ## [外国程序员发帖求助：快四十岁了，不知道以后该怎么办](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/81074620)
  > 外国程序员发帖求助：快四十岁了，不知道以后该怎么办
  ## [牛市要来？7月27日聚焦华尔街 2018 虚拟货币对冲基金峰会！](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/81125542)
@@ -163,8 +173,6 @@ categories: IT NEWS
  > 最怕你两手一摊，还觉得理所当然
  ## [Java面试资料大全公开分享](https://blog.csdn.net/UFv59to8/article/details/81107580)
  > Java面试资料大全公开分享
- ## [从C语言开始，教你如何编写游戏外挂](https://blog.csdn.net/moyouyou123/article/details/81094217)
- > 从C语言开始，教你如何编写游戏外挂
 # 人工智能 
  ## [卷积神经网络通俗解读](https://blog.csdn.net/tianyaleixiaowu/article/details/81133566)
  > 卷积神经网络通俗解读
@@ -199,6 +207,8 @@ categories: IT NEWS
  ## [【python数据挖掘课程】二十五.Matplotlib绘制带主题及聚类类标的散点图](http://blog.csdn.net/eastmount/article/details/81106487)
  > 这是《Python数据挖掘课程》系列文章，希望对您有所 帮助。当我们做聚类分析绘制散点图时，通常会遇到无法区分散点类标的情况，做主题分析时，可能会遇到无法将对应散点的名称（尤其中文名称）添加至图型中，...
 # PM 
+ ## [想创业？先回答这三个问题吧](http://www.woshipm.com/chuangye/1133838.html)
+ > 想创业想做生意想见投资人之前，先自己想好这三个问题的答案。前几年，有一篇周鸿祎的“十页商业计划书”传播甚广，是这几年我看到的比较好的、系统性讲商业计划书撰写...
  ## [语音交互入门：从概念、原理到设计流程](http://www.chanpin100.com/article/106958)
  > 【小百摘要】语音技术的发展，将会给我们的产品设计带来极大的改变。未来的产品方向，或者说是人机交互的方式，极可能是视觉与听觉的更加立体的交互，我们会有机会来设计一种完全不一样的用户体验，和完全不同的产品认知。
  ## [手机预装产品的4个特性](http://www.chanpin100.com/article/107228)
