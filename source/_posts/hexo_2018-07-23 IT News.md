@@ -1,82 +1,92 @@
 ---
 title: 2018-07-23 IT News
 copyright: true
-date: 2018-07-23 08:01:41
+date: 2018-07-23 09:01:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [探索 Window 命令行演变史 —— 起源](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=U9qzyY64AKZjiEgq2YPBTWt2QNJsi38dNhykNQLbj3SoSKlQgpqbTyv1hGbhaE4y0gxetYVuEyXxAg9uXHQwu3tAtan7wujI*du6l8uOiI8Bhe93g9LXJucZ3PPspslU&new=1)
- > 脚本之家你与百万开发者在一起 另一个抢沙发赢红包入口协作翻译原文：Windows Command-Line: Backgrounder链接：https://blogs.msdn.microsoft.com/commandline/2018/
- ## [Oculus漫威英雄版Rift VR套装发布!仅售价399美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=-HF-C8PNThWXMKqZkdoMayf4ziyEHfn33ld2SSq95m83jyKdC5U9nwUWuUYnayjPoXDvD37-k8W*sYmBubZevWCJ1Ah7uoElryXO00KhhLarpXu59KCxLmWZIxhTqZMI&new=1)
- > 【TechWeb报道】7月22日消息，据国外媒体报道，Facebook旗下虚拟现实 （VR)厂商Oculus日前宣布推出漫威英雄版Rift VR套装，售价399美元，7月31日开卖。Oculus这款新品叫做“Marvel Powers Un
- ## [赛灵思收购深鉴科技：中国AI芯片产业难改依附式生存](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=OaCNDWaa4nTm8NFnskEDk4NZlTTdzCIv9dd6-hHwk7n0TE3ky05mav*0MCWZLx7cqUo*Hr0MKMBXYLEpd4ov0XTy3r4bKIwb3Xs6zC*YYsLYjKcOaqGbbBfbxxmZIPEL&new=1)
- > ABOUTBEAUTY关于研究君每天精选深度互联网业内文章、收集最新互联网业界资讯、移动互联网报道、研究、服务为己任的第三方行业研究机构。日前，全球最大的可编程芯片（FPGA）厂商赛灵思宣布收购中国 AI 芯片领域...
- ## [\[十万个为什么\]“刷脸的时代”要来了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=L-flJtt7yyxGyzooXhhN116Wob2rTVoG3osSnCgCZjAgsa*FdXvxCG01gWqiYec8uv1nlduuHvV46puWltx0W6t9vd1MKanNK8JnDAdx1NhuGncYesFO8vMAab-bm4P3&new=1)
- > 人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术，人脸识别技术的原理是怎样的？又有哪些关键的技术呢？今天《十万个为什么》节目邀请嘉宾浙江大华技术股份有限公司上海地区副总经理王贺，...
- ## [一百多家汽车厂商机密数据泄露，特斯拉通用大众丰田都中招](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=g6wwn0khAkVQ3B8JMojzUab8HybTRr2tZpygzGqIycr*fEm3VMhtc95j*MKTgZvhnqxLnpX53FYO87PsX9w1Ltgcm4bcMljjngEHlE77n7yLymMdb-1Hau0KFV7JljSa&new=1)
- > 据多家外媒报道，7 月初，来自 UpGuard 安全团队的研究员 Chris Vickery 在网上发现了汽车供应商 Level One 的不安全数据库，数据库包括将近 47000 份文件，涵盖汽车制造厂商近十年的详细蓝图、工厂原理图、客户
- ## [智能晾衣机：能用手机控制的家居“神器”](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=NTnSpmAJldNIlYygpkL-9hf17HwkUbAT8-wcqgeg5JsYcaWNhELm4D1AhLFbm99ejVMaU3K*pymoovAzSlsFvoj6a0lKjUH3cetlwJbseSWrJzXvEx1V3VyxGqjlu17J&new=1)
- > 随着AI技术的发展，“万物智能”成为了一种可能，很多传统物品被加上了智能的标签，如前几年大火的智能音箱、智能家电、智能服装等智能产品。近日，又有一种新颖的智能产品被广泛关注，它就是智能晾衣机，作为一...
- ## [\[老用户套餐加量不加价\]超大流量乐翻天，超多语音享不停!](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=x53peHBBT3y2CHowWJ7aGWAd3vBIlGGidX37GTmQh3yAf7ZbCDp3vkmaPlTuw*tJFMvaan02s8jzcHFDH4tL*AE9H1-5o3Fx23bMP1K8Z1x*Pt3-ZRQ3g8yAIfghqt1W&new=1)
+ ## [\[老用户套餐加量不加价\]超大流量乐翻天，超多语音享不停!](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=x53peHBBT3y2CHowWJ7aGWAd3vBIlGGidX37GTmQh3yAf7ZbCDp3vkmaPlTuw*tJ*pK6lKOe82ejY6OxdbvstGehUcRLB*-62WdesmQRHSErytrJXpNzMq6*fBF*Fz6u&new=1)
  > （文章资源来自于网络，侵权请告知删除）Hello，伙伴们！
- ## [N年后的检验科——我们都失业啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=jQoOBYCBU1RoNlHFJEOq8x0zyoun7dpk*hGRJ53wtkadJnEMECtgZzfJc0Z9N7u9RW1A5D5u-tBdOqvXZE6p7l4188lUQC0x9OUVS5z*CjHf0A2opNKBOnL3-tyqLlA-&new=1)
- > N年后大街小巷满街跑的不只是送外卖的小哥还有咱们检验科的采血机器人网上预约，远程接单机器人走家串户上门采血，冷链运回当来到检验科采血窗口等待你的不再是美女护士而是一字排开的采血机器人不再刷卡抽血，...
- ## [加密货币ATM机长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=nKJqiwJzMDenNv4LTTiybuW2ik2IaX87gAuEoPGUczs7kfKla1XNGe6Mr4jMaLwuue3mk7uWE9t2LFxseknA**ZOEjzt0uGhnrhx8to3hQOiCKmMOQKCTwC1HMmo9Kwi&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com区块链最近有什么动态，一起来看一下？一、全球首次虚拟货币二级市场和传统华尔街对冲基金闭门研讨会将在纽约华尔街召开2018年7月27日, 全球首次虚拟货币二级市...
- ## [电信宽带好不好，联通说了算!](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=zk2W1UUOUY3-AsbinEP9EpfKIzb6XA19SYwnpv0vogGi20*EMxNgrAbOwwXBi2D10HRAHIvO8C4p-lxWvikLjGOJe6Xtu-YFAsruhI6QCjJVECKOd4E1z*dQ4X8*H8p3&new=1)
- > 还有这种操作？运营商情报据说通信人都关注了阅一手情报，早知天下事
- ## [贫穷限制了你的想象力，论数据中心的复杂度](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=4LcOsVz35p-yJjUsyQlwOmbxUiYTe5eDXwrJVza2ALCtURjqcOPOltthhQD5l0PO0ysPldp3yS-whi7DwUUjcOke1kDTUeV-5IuS2yBTf8a6mWi7MvS*daUrXvN81NJz&new=1)
- > 俺黑君够黑，慎关注！在常人眼中，数据中心不过是一座摆放了成千上万台设备的普通建筑，只要有资金，有人力，谁都可以建造上几座。而实际上，一个数据中心的复杂度远超人们想象，是“贫穷限制了想象力”。数据中...
- ## [日本DENSO电装投资 水平多关节机器人 HS-035/045/055A1](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=h3Mc*suyRCmr5AXxxPXv1SM6b7bpm2wUGSnR*3rDS*vF6zlD3qILisbAaz03fi4QimHX7cGYxC4-kJr9jj5AUGGZAEe7cyFYvG1BaHAgmAHfX44ot3ILIP1ZMuVZ3SeZ&new=1)
- > HS-035/045/055A1继承HS系列的优点，提高了速度与性能的下一代水平多关节机械手。　臂长｜350・450・550mm上下行程｜100・150・200・320mm最大可搬运质量｜5kg标准循环时间｜0.29秒&gt; 特长提高速度采用新
- ## [谷歌猜画小程序逆袭，VR接口要被革命?|本周大新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=oFzculDv046hzkwvGupphvE4xKsvUVk9*tean2hdAgHEEZicXHoaUmnqjhR9YbBLMySePwUtJI07Bk3YYhZYYPF6xSQRa1EStEfpmNQm8tSsapZQUc0HtXJ48LNo8zVz&new=1)
- > hi188｜ 撰文本周谷歌带来了首款微信小程序，这是一款基于AI的“我画AI猜”的趣味应用，同时还有很多有趣的应用，例如嘉士伯用AI技术预测未来流行的啤酒口味、Olay玉兰油用AI给用户提供护肤建议等；另一个值得关...
- ## [中国电信成iCloud云存储服务商!有个事情你得关心下!](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=o6xGIwrxxPW5kA3LbIYjTX7tnB7Tiyo0Ek5PwzgsC*mEmwE4qprVhK4EZ57wUGqXUWzBkOok3ZFLFosR*PM5*d7At743Qz3b7UCJoH8BIpkrvDd*24rSgxZJ-qHZEU4z&new=1)
+ ## [中国电信成iCloud云存储服务商!有个事情你得关心下!](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=o6xGIwrxxPW5kA3LbIYjTX7tnB7Tiyo0Ek5PwzgsC*mEmwE4qprVhK4EZ57wUGqXpQiGIje-xt*AQOe0b2rpRdPPLCNGPYvUy*DXHsD8EX8ldVO84rWqPH9Jm*8ibcQn&new=1)
  > 今天2月份，苹果公司正式将iCloud中国区数据中心转移到中国，并且由云上贵州运营。但是由于贵州的服务器预计到2020年才能投入使用，在这段空档期就需要租用其他服务器，满足iCloud的日常需求。就在近日，云上贵...
- ## [美国女童子军正在学习电脑黑客技术!](http://mp.weixin.qq.com/s?src=11&timestamp=1532304007&ver=1015&signature=xs-j3aOEzdDOXI4DZZ94w5OGFyhtX7cv4RqKwVZadXY*wNlQnBq73uC4kHZ9w3q1QqMn6wmDBe*Q1hHYdU0yHB6NPaA-EtTvpZKh6dR1bTA6eOn1NQr2zHgUs2bsXCqR&new=1)
+ ## [日本DENSO电装投资 水平多关节机器人 HS-035/045/055A1](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=h3Mc*suyRCmr5AXxxPXv1SM6b7bpm2wUGSnR*3rDS*vF6zlD3qILisbAaz03fi4QXUkkSHVuKPfZYofTw7egjDbqS6VDbbkCZJqlU7Oun4skpIUqZq7PMsLx10gzO8o1&new=1)
+ > HS-035/045/055A1继承HS系列的优点，提高了速度与性能的下一代水平多关节机械手。　臂长｜350・450・550mm上下行程｜100・150・200・320mm最大可搬运质量｜5kg标准循环时间｜0.29秒&gt; 特长提高速度采用新
+ ## [美国女童子军正在学习电脑黑客技术!](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=xs-j3aOEzdDOXI4DZZ94w5OGFyhtX7cv4RqKwVZadXY*wNlQnBq73uC4kHZ9w3q1YQdx3xVTt-zZnbQzB07VKatBxKp865ECediLUk85i1arf*kjmpEBOXrJllvblPnV&new=1)
  > 你以为美国女童子军在学习烤饼干吗？其实人家正在学习撬锁和电脑黑客，为科学与技术的职业生涯铺路。Laura Genung正在用撬锁的工具找一个挂锁里面的弹子。这位17岁的女童子军有些恼怒地说：“我马上就能撬开了，...
+ ## [N年后的检验科——我们都失业啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=jQoOBYCBU1RoNlHFJEOq8x0zyoun7dpk*hGRJ53wtkadJnEMECtgZzfJc0Z9N7u9EvA3DEtekfptNnOvzqkoihZvkU-1XxmdhegGRLAMO2SqT77bsYGAgO0Cx2oqwnPd&new=1)
+ > N年后大街小巷满街跑的不只是送外卖的小哥还有咱们检验科的采血机器人网上预约，远程接单机器人走家串户上门采血，冷链运回当来到检验科采血窗口等待你的不再是美女护士而是一字排开的采血机器人不再刷卡抽血，...
+ ## [探索 Window 命令行演变史 —— 起源](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=U9qzyY64AKZjiEgq2YPBTWt2QNJsi38dNhykNQLbj3SoSKlQgpqbTyv1hGbhaE4y93rYvdgCoL9NuP14bUGk5EBatHFQuIIyTnkdmINS561Aa2n1BLVrALGJdkuztOsU&new=1)
+ > 脚本之家你与百万开发者在一起 另一个抢沙发赢红包入口协作翻译原文：Windows Command-Line: Backgrounder链接：https://blogs.msdn.microsoft.com/commandline/2018/
+ ## [贫穷限制了你的想象力，论数据中心的复杂度](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=4LcOsVz35p-yJjUsyQlwOmbxUiYTe5eDXwrJVza2ALCtURjqcOPOltthhQD5l0POiAVKloKOl4gVyHEmxwGQufVe5F8SFNRnVKNZnIX3wTUaxPJiNQm8IUMj4K*FdKi6&new=1)
+ > 俺黑君够黑，慎关注！在常人眼中，数据中心不过是一座摆放了成千上万台设备的普通建筑，只要有资金，有人力，谁都可以建造上几座。而实际上，一个数据中心的复杂度远超人们想象，是“贫穷限制了想象力”。数据中...
+ ## [谷歌猜画小程序逆袭，VR接口要被革命?|本周大新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=oFzculDv046hzkwvGupphvE4xKsvUVk9*tean2hdAgHEEZicXHoaUmnqjhR9YbBLLyI0FTx6DKpzjqEajQptBVJ4niiVpnFteRtLUnXzI8IEDOo1ooCACBhDDLFFjCgd&new=1)
+ > hi188｜ 撰文本周谷歌带来了首款微信小程序，这是一款基于AI的“我画AI猜”的趣味应用，同时还有很多有趣的应用，例如嘉士伯用AI技术预测未来流行的啤酒口味、Olay玉兰油用AI给用户提供护肤建议等；另一个值得关...
+ ## [智能晾衣机：能用手机控制的家居“神器”](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=NTnSpmAJldNIlYygpkL-9hf17HwkUbAT8-wcqgeg5JsYcaWNhELm4D1AhLFbm99eV-nWaA3UWz3Ddg3YYYhVm-rhBqnP7OXPnmKGh7TvSWxWPFRWznE3KFjIeC5MmYRJ&new=1)
+ > 随着AI技术的发展，“万物智能”成为了一种可能，很多传统物品被加上了智能的标签，如前几年大火的智能音箱、智能家电、智能服装等智能产品。近日，又有一种新颖的智能产品被广泛关注，它就是智能晾衣机，作为一...
+ ## [加密货币ATM机长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=nKJqiwJzMDenNv4LTTiybuW2ik2IaX87gAuEoPGUczs7kfKla1XNGe6Mr4jMaLwuYknWt7f8ydpzCkr8IbIl1QJkpYts*7M-HVguaHw4j*8uYykgQBYV*bACdX-6o1BO&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com区块链最近有什么动态，一起来看一下？一、全球首次虚拟货币二级市场和传统华尔街对冲基金闭门研讨会将在纽约华尔街召开2018年7月27日, 全球首次虚拟货币二级市...
+ ## [一百多家汽车厂商机密数据泄露，特斯拉通用大众丰田都中招](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=g6wwn0khAkVQ3B8JMojzUab8HybTRr2tZpygzGqIycr*fEm3VMhtc95j*MKTgZvhNDPPeIbA9pIjRi8KyiH6JlMPE1IMwuZV--2wi*MHVeiw0AZadQIEHTg8GZNMLZ4M&new=1)
+ > 据多家外媒报道，7 月初，来自 UpGuard 安全团队的研究员 Chris Vickery 在网上发现了汽车供应商 Level One 的不安全数据库，数据库包括将近 47000 份文件，涵盖汽车制造厂商近十年的详细蓝图、工厂原理图、客户
+ ## [Oculus漫威英雄版Rift VR套装发布!仅售价399美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=-HF-C8PNThWXMKqZkdoMayf4ziyEHfn33ld2SSq95m83jyKdC5U9nwUWuUYnayjPzwMfGW2dcuUyB01E-BxKCvDujzCEnhNJb4CfFUbYJEPekHZ8WeF9OOrB5kYjFUP3&new=1)
+ > 【TechWeb报道】7月22日消息，据国外媒体报道，Facebook旗下虚拟现实 （VR)厂商Oculus日前宣布推出漫威英雄版Rift VR套装，售价399美元，7月31日开卖。Oculus这款新品叫做“Marvel Powers Un
+ ## [电信宽带好不好，联通说了算!](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=zk2W1UUOUY3-AsbinEP9EpfKIzb6XA19SYwnpv0vogGi20*EMxNgrAbOwwXBi2D1nWpnnpU3ub9P47dMlL8NFLgFVEVgBaP*23GdZwMvcejjHgR4KVjR7qnuLdsSYWu4&new=1)
+ > 还有这种操作？运营商情报据说通信人都关注了阅一手情报，早知天下事
+ ## [\[十万个为什么\]“刷脸的时代”要来了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=L-flJtt7yyxGyzooXhhN116Wob2rTVoG3osSnCgCZjAgsa*FdXvxCG01gWqiYec8wjpxHVs*FMiyOPwDp8PlQy3VRYbJ5U0kxR4lpJURRw4rRe9dCJVU5NJPtjPl-94J&new=1)
+ > 人脸识别，是基于人的脸部特征信息进行身份识别的一种生物识别技术，人脸识别技术的原理是怎样的？又有哪些关键的技术呢？今天《十万个为什么》节目邀请嘉宾浙江大华技术股份有限公司上海地区副总经理王贺，...
+ ## [赛灵思收购深鉴科技：中国AI芯片产业难改依附式生存](http://mp.weixin.qq.com/s?src=11&timestamp=1532305807&ver=1015&signature=OaCNDWaa4nTm8NFnskEDk4NZlTTdzCIv9dd6-hHwk7n0TE3ky05mav*0MCWZLx7c9J8FC*9IFu7wlkS9DZz61GYSEwO6*r0RuEJUOr5ibRMhEhgcjNvM9O6oiO1qrdgy&new=1)
+ > ABOUTBEAUTY关于研究君每天精选深度互联网业内文章、收集最新互联网业界资讯、移动互联网报道、研究、服务为己任的第三方行业研究机构。日前，全球最大的可编程芯片（FPGA）厂商赛灵思宣布收购中国 AI 芯片领域...
  ## [在美国，男人在幼儿园里当老师是不是没有社会地位？](https://www.zhihu.com/question/29692537)
  > 不仅仅幼儿园，只要是老师，在反智的美国都是被歧视的对象。工资就算大学教职也不高，毕竟4000-5000美元一个月在美国不是高工资。美国一直有句话:If you can&x27;t do anything, you can teach. If you can&x27;t teach an
+ ## [你为什么离开数据科学（Data Science）行业?](https://www.zhihu.com/question/278539797)
+ > 本科南大数学，硕士美帝统计master，phd在美帝cs。结论上，统计赚钱比cs少太多（至少就刚毕业而言）。统计找到10万刀一年的工作就很棒了，往往要phd，master都找不到工作。cs本科出来就能有15万刀一年。如果起薪低，...
+ ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
+ > 我想，既然你们是做软件工程开发相关的工作，那么选择drupal比较好。drupal的扩展性比较好，又稳定，权限管理功能很强大，用户管理也很好用。module很多，基本上可以做成任何类型的网站。views可以做出任何你想要的页...
  ## [如何对待喷子的骂人行为？](https://www.zhihu.com/question/24881369)
  > 做人要懂得换位思考，你站在他的角度想想，可能智商不够而恼羞成怒，可能个子不高以至目光短浅，可能老婆跟人跑了，心情不佳，可能在外打工一年，回家发现媳妇已经给他怀上孩子了，高兴的语无伦次……总之多站在别人...
  ## [美国政府与大学为何能占用 .gov .edu 域名？是否应改为 .gov.us .edu.us？](https://www.zhihu.com/question/266924177)
  > 实际上最初不止美国的学校可以用 .edu ，比如国内的 ustc.edu ， www.tsinghua.edu ，现在都还是可以使用的。只不过后来“腐朽的资本主义”不让非美国的教育机构注册了而已。orz
- ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
- > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
- ## [运营到底是做什么的？](https://www.zhihu.com/question/51315756)
- > 最近刚买了《我在阿里做运营》这本书，用书里的话回答你吧。运营，是达成一个目的的过程中所用的任何人为干预手段。即以结果为导向，调动各种能力和资源去完成任务就是运营。运营需要思考，你要思考怎么做投入产出比...
- ## [怎么评价马云？](https://www.zhihu.com/question/20333333)
- > 说个本人亲身经历的马云，绝对真实：2008年马云出席博鳌亚洲论坛，本人作为路人，旁听了他参加的一个session。session结束以后，马云就被听众团团围住求合影。当时马总身边既没保镖也没助理（不知道现在有没有），对...
- ## [dish hd和麦格iptv哪个更适合家庭？](https://www.zhihu.com/question/21552714)
- > 要说这个或者我比较有经验回答。应该说麦格电视和dishhd是目前看外面世界的主流产品，其中dishhd是卫星电视的代表，这二年比较火爆，网上尤其以楼主所留地址中的那个高清时代论坛为主要论坛代表。麦格电视是近日年的...
+ ## [求推荐合适的电商办公软件？](https://www.zhihu.com/question/36719139)
+ > 推荐日事清。日事清是国内领先的协同SaaS工具。通过“计划（规划未来）→日程（执行当下）→日志（总结回顾）”的PDCA理念为数十万企业/团队提供项目管理、文档/知识管理、协作流程管理、计划管理等企业核心服...
+ ## [利用大数据人工智能投资股票的能代替投顾吗？](https://www.zhihu.com/question/35489867)
+ > 可以，并且必定是未来的趋势，BigQuant现在所做的就是将此情景变现，让AI真正赋能每一位投资者。智能投顾现在逐渐变成一个热门词汇，简单的理解就是让机器根据客户理财需求，给出投资意见，这个之前似乎只有在科...
+ ## [有没有一些融资租赁公司可以做二手车的售后回租呢？](https://www.zhihu.com/question/269074884)
+ > 2018.3.23更新，多谢各位打脸，赞数居然过十了。。。鉴于题主补充了问题描述，在评论区也进行了提问，具体的回复请诸位移步评论区了解。以下为原答案：谢邀，最喜欢回答专业对口的问题。先说一下融资租赁公司“绕过”...
  ## [如何进行情感化（人性化）设计？](https://www.zhihu.com/question/19577910)
  > 给目标用户定义一个性格，给我们的产品定义一个性格产品和用户之间产生的所有交互就像是人和人之间产生的交互一样这个还是需要具体问题具体分析，举几个例子1. 手机看小说，翻页的时候采用拟物化设计，模拟纸质书籍的...
  ## [喜欢pgone的人是什么心态？](https://www.zhihu.com/question/279629834)
  > 喜欢他从枪林弹雨中厮杀出来的感觉喜欢他背得起罪名也不惧荣光喜欢他的作品从来不让粉丝失望其实说到底喜欢一个人是很难说出为什么的之前一些事情闹得沸沸扬扬的时候很多人跳出来说pg人设崩塌但他只是被有预设的喜欢...
- ## [1、为什么我的电脑ping其他电脑的时候延迟会出现抖动？ 2、骨干网延迟如何计算？](https://www.zhihu.com/question/68128748)
- > 计算机网络，由终端设备 + 网络中继设备组成。网络中继设备，就是把用户IP包通过接力的方式，送到目的地的设备的泛称，可能是物理层设备（猫）、可能是二层设备（交换机）、也可能是三层设备（路由器/防火墙）。可...
  ## [在抖音工作是种什么体验？](https://www.zhihu.com/question/285747864)
  > 我不在抖音，在隔壁(楼)的头条研发部门实习了近一年，每天工作是刷(写)头条Android app。工作体验嘛，软福利方面——不用挤地铁走路8分钟到公司真幸福，懒觉到近10点爬起床上班真幸福，甚至中午还可以回去午个睡，房...
- ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
- > 谁反对创业了，没有人反对创业，创业是改变命运的最强有力的途径之一，只是这条路不那么好走，有些人一看就不适合创业（至少是目前不适合创业），那么劝他们一下是很有必要的。适合不适合创业的标准，不是能力强弱，...
- ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
- > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [现在靠谱的互联网保险销售网站有哪些？在网上买保险要注意什么？](https://www.zhihu.com/question/28810762)
- > 看到楼上有人回答说推荐小雨伞保险，很开心，特地跑过来说声谢谢，也给大家介绍一下我们这个【靠谱的互联网特卖平台】【我们是谁】你可以把小雨伞保险看作是以下是一家腾讯系的互联网保险平台，毕竟小雨伞的首席执行...
- ## [对你影响最深的二次元人物是谁？](https://www.zhihu.com/question/270318303)
- > 从小学起就喜欢上了动漫，这么多年很多事情没坚持下来，唯有动漫，始终是我人生中重要的一个部分。而要说至今为止对我影响最深的动漫人物，那一定是《夏目友人帐》的夏目贵志，他教会我如何温柔的对待这个世界。在看...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [利用大数据人工智能投资股票的能代替投顾吗？](https://www.zhihu.com/question/35489867)
- > 可以，并且必定是未来的趋势，BigQuant现在所做的就是将此情景变现，让AI真正赋能每一位投资者。智能投顾现在逐渐变成一个热门词汇，简单的理解就是让机器根据客户理财需求，给出投资意见，这个之前似乎只有在科...
- ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
- > 李书福和李想两位行业大佬，说的观点都有道理。荣威君也来谈谈自己的看法。确实，互联网改变了这个世界。有很多行业被互联网颠覆了。比如手机：智能互联网手机迅速取代了传统功能手机，并且在这个过程中，诞生了小米...
+ ## [现在网上有哪些可以为大学生提供兼职的网站？](https://www.zhihu.com/question/21243818)
+ > 如果一个人总是缩着肩膀，大腹便便，下巴松垂，或者眼睛半睁半闭，那我们很难说这是一个充满自信的人。
+ ## [如何评价咪蒙的《田朴珺重新发明了一种女人：独立婊》？](https://www.zhihu.com/question/48226901)
+ > 语言腐败是中产阶级文化的核心，是女拳社会的常态资深女拳媒体人咪蒙（马凌）不是什么好鸟，然而她对田朴珺的抨击非常到位。田朴珺的的确确是“独立婊”，但咪蒙自身又何尝不是呢？其实绝大多数现代中国妇女都是“独...
  ## [三四线城市如何进行互联网创业?](https://www.zhihu.com/question/21032041)
  > 我在北京做了3年的互联网运营，北京的生活压力太大了，终究不是久留之地。年初回了渭南，打算在老家找个小生意做做，也算是符合题主的【三四线城市互联网创业。】我发现，多数的互联网项目都不适用于三四线城市，比如...
+ ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
+ > 有条件的话就搭个自建的，同样首次访问域名本地的比所谓的国内最优秀的要快很多看下图，差不多2-3个月没打开同花顺首页了，而且刷新过DNS缓存所以本地不可能有缓存了 ，然而不管查什么，onedns都会超时2秒，而树莓...
+ ## [网络地址转换(NAT)技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
+ > 1、我认为 NAT 是加快了互联网的发展，一定程度上拖慢了 IPv6 的 发展，请仔细看这句话。也千万不要把 IPv6 等同于互联网发展。没懂的看下一条。2、从用户角度，其实绝大部分用户（可能除了有 P2P 需求 的那...
+ ## [又一家装修公司倒闭，继苹果装饰连锁店关门外，这次一号家居网互联网+装修公司也连着关门究竟是什么原因？](https://www.zhihu.com/question/276583095)
+ > 最近也有客户有这种担心，其实究其原因，不是互联网家装缺乏发展潜力，而是很多企业把互联网家装理解地过于简单，抛弃了互联网精神，只是把互联网作为工具，实际上做的还是商业本位的家装，忽视了线下交付管控和用户...
+ ## [数据分析中，你认为用户行为分析最重要的3个点是什么？](https://www.zhihu.com/question/19686197)
+ > 严正声明，用户行为分析的点太多，这里只是分析思路，请按照自己的情况进行选择首先需要看数据分析目的，这个毋庸置疑。不过整体不外乎以下几个目的：对内：产品迭代，对外：精准营销1：产品迭代分析用户行为就是诸如...
+ ## [IXDC 的胡晓是个怎样的人？](https://www.zhihu.com/question/48146387)
+ > 百度UED和各大公司设计团队每年给了IXDC多少会务费，你们知道吗？他能道歉吗？敢道歉吗？只不过是花了大价钱请了些人过来演讲而已，连三流的论坛都赶不上。好好看看国际专业的学术论坛怎么开。国内设计学术界...
+ ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
+ > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
 # IT 技术 
+ ## [腾讯云容器服务平台增加对码云 Gitee 的支持](https://www.oschina.net/news/98262/tencent-hub-support-gitee)
+ > Tencent Hub 是腾讯云平台提供的基于容器的服务，为您提供多存储格式的版本管理，支持 Docker Image、Binary、Helm Charts 等多种类型文件。Tencent Hub 还为您提供 DevOps 工作流的编排引擎，您可轻松编排 DevOps 工作流，打造更强的持续集成与持
+ ## [TP-Micro — 基于 Teleport 的 Go 语言微服务框架](https://www.oschina.net/p/tp-micro)
+ > TP-Micro 是一个基于 Teleport 定制的、简约而强大的 Go 语言微服务框架。支持服务自动发现、支持自定义服务链接选择器 、支持负载均衡、支持多路复用IO及其连接池、支持自定义协议、支持心跳机制
+ ## [每日一博 | 轻易读懂 Java 设计模式之工厂模式](https://my.oschina.net/looly/blog/1860776)
+ > 在 Java（或者叫做面向对象语言）的世界中，工厂模式被广泛应用于项目中，也许你并没有听说过，不过也许你已经在使用了。 简单来说，工厂模式的出现源于增加程序的可扩展性，降低耦合度。之所以叫做工厂模式，是用工厂生产产品来形象的比喻代码中生产对象的过程。
+ ## [码云推荐 | 简单易部署的聊天AI 小面包(Breadbot)](https://gitee.com/ideamark/breadbot)
+ > 小面包（Breadbot）是一款功能强大，简单易部署的聊天AI：一键部署、快速响应、开放百万级语料、免数据库、基于 Python3、支持微信对接
+ ## [首家 GraphQL 即服务公司瞄准开源数据库 PostgreSQL](https://www.oschina.net/news/98258/graphql-postgres)
+ > 作为第一家GraphQL-as-a-Service公司，Hasura推出了其开源GraphQL引擎，这是目前唯一可立即将GraphQL-as-a-Service添加到现有基于Postgres应用程序中的解决方案。基于此，开发人员可以在几分钟之内使用GraphQL，以便在Postgres上构建可扩展的
  ## [未知的开发者将 LibreOffice 发布至 Microsoft Store](https://www.oschina.net/news/98257/unknown-dev-brings-libreoffice-to-microsoft-store)
  > 自由开源的 Microsoft Office 挑战者 —— LibreOffice 现在可通过 Microsoft Store 在 Windows 上进行使用，适用于 Windows 10 PC 和平板电脑。但令人担忧的是，该应用程序的发布者似乎并不是 LibreOffice 的实际开发者，而是来自
  ## [彭博社：谷歌曾寻求与欧盟和解 Android 反垄断案](https://www.oschina.net/news/98256/google-talked-to-eu-about-android)
@@ -107,10 +117,10 @@ categories: IT NEWS
  > Sequelize 5.0.0-beta.10 发布了，Sequelize 是一款基于 Nodejs 的异步 ORM 框架，它同时支持 PostgreSQL、MySQL、SQLite 和 MSSQL 多种数据库，很适合作为 Nodejs 后端数据库的存储接口，为快速开发 Nodejs 应用奠定扎实、
  ## [NG-ZORRO 1.2.0 发布，Ant Design 的 Angular 实现](https://www.oschina.net/news/98243/ng-zorro-1-2-0-released)
  > NG-ZORRO ng-zorro-antd 1.2.0 发布了，NG-ZORRO 是 Ant Design 的 Angular 实现，用于开发和服务于企业级后台产品。 此次更新内容如下： Bug Fixes carousel: 修复窗口大小变化时的问题 (1815) (1e0a029), clo
- ## [Onyx 0.13.2 发布，分布式计算系统](https://www.oschina.net/news/98242/onyx-0-13-2-released)
- > Onyx 0.13.2 发布了，Onyx 是一个无中心、支持云、容错的分布式计算系统，使用 Clojure 编写，支持批处理和流处理混合，提供信息模型用于描述和构建分布式工作流。 该版本更新内容请关注发布主页。 下载地址：  Source code (zip)  Source code (tar.g
  ## [51CTO开发者大赛决赛路演+大咖分享](http://mdsa.51cto.com/art/201807/578913.htm)
  > 51CTO开发者大赛决赛路演+大咖分享
+ ## [外媒速递：Angular 6.0中的十大重要新特性](http://zhuanlan.51cto.com/art/201807/579416.htm)
+ > 外媒速递：Angular 6.0中的十大重要新特性
  ## [搜索引擎怎么选？携程酒店订单Elasticsearch实战](http://developer.51cto.com/art/201807/579354.htm)
  > 搜索引擎怎么选？携程酒店订单Elasticsearch实战
  ## [谷歌AI版“你画我猜”刷屏朋友圈 背后是这样的原理](http://news.51cto.com/art/201807/579320.htm)
@@ -123,8 +133,16 @@ categories: IT NEWS
  > 区块链技术在日常生活中使用的八种方式
  ## [外媒速递：开源无服务器四大解决方案的比拼](http://zhuanlan.51cto.com/art/201807/579292.htm)
  > 外媒速递：开源无服务器四大解决方案的比拼
- ## [存储新时代：利用RISC-V和内存结构实现开放式计算](http://stor.51cto.com/art/201807/579341.htm)
- > 存储新时代：利用RISC-V和内存结构实现开放式计算
+ ## [程序员的群体性焦虑高压下，如何实现个体的线性增长？](http://news.51cto.com/art/201807/579456.htm)
+ > 很多人一直在学习，却也一直在焦虑：程序员 40 岁后该如何发展？他们在感慨现在 IT 的技术浪潮拍打的太快，
+ ## [如何看出一个程序员的技术能力和水平？](http://news.51cto.com/art/201807/579457.htm)
+ > 如何看出一个程序员的技术能力和水平？这个题目是比较复杂的，它包含的东西比较多，认真讨论能写几万字。
+ ## [Ubunsys：面向Ubuntu资深用户的一个高级系统配置工具](http://os.51cto.com/art/201807/579458.htm)
+ > Ubunsys 是一个面向 Ubuntu 及其衍生版的基于 Qt 的高级系统工具。高级用户可以使用命令行轻松完成大多数配
+ ## [知乎十万级容器规模的分布式镜像仓库实践](http://developer.51cto.com/art/201807/579455.htm)
+ > 知乎在 2016 年已经完成了全量业务的容器化，并在自研容器平台上以原生镜像的方式部署和运行。
+ ## [日常Python编程代码优雅之道](http://developer.51cto.com/art/201807/579454.htm)
+ > Python 提供了一组独特的工具和语言特性来使你的代码更加优雅、可读和直观。为正确的问题选择合适的工具，
  ## [区块链如何保护供应链、IoT设备](http://zhuanlan.51cto.com/art/201807/579442.htm)
  > 区块链可谓2018技术潮词。但该分布式数字账本还可引领更好的供应链、更安全的IoT网络和更可靠的DNS。
  ## [AI芯片黑科技盘点](http://ai.51cto.com/art/201807/579444.htm)
@@ -137,12 +155,18 @@ categories: IT NEWS
  > Spring Boot WebFlux 上手教程
  ## [Spring Data JPA 实战](https://blog.csdn.net/valada/article/details/79909251)
  > Spring Data JPA 实战
+ ## [AutoDispose代替RxLifecycle优雅的解决RxJava内存泄漏问题](https://blog.csdn.net/yuzhiqiang_1993/article/details/81066344)
+ > AutoDispose代替RxLifecycle优雅的解决RxJava内存泄漏问题
+ ## [可视化在线编辑器架构设计](https://blog.csdn.net/valada/article/details/79909254)
+ > 可视化在线编辑器架构设计
  ## [女生程序员微自传](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/81117212)
  > 女生程序员微自传
  ## [腾讯社招iOS面试记录](https://blog.csdn.net/olsQ93038o99S/article/details/81107713)
  > 腾讯社招iOS面试记录
  ## [亲历！给大龄IT人的几点求职建议](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/81151333)
  > 亲历！给大龄IT人的几点求职建议
+ ## [Hi, 这是你的“硅谷精英女性职场峰会”邀请函 | Edge2018](https://blog.csdn.net/kXYOnA63Ag9zqtXx0/article/details/81151297)
+ > Hi, 这是你的“硅谷精英女性职场峰会”邀请函 | Edge2018
  ## [Java面试资料大全公开分享](https://blog.csdn.net/UFv59to8/article/details/81107580)
  > Java面试资料大全公开分享
  ## [毕业之后，这些年薪 50w+ 的 90 后程序员都经历了什么？](https://blog.csdn.net/csdnnews/article/details/81151307)
@@ -153,12 +177,8 @@ categories: IT NEWS
  > 在一家单位工作3 -5年后再考虑跳槽，还是一年一跳？
  ## [如何判断程序员在做什么](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/81117215)
  > 如何判断程序员在做什么
- ## [分众急嫁阿里背后原因，或是新潮电梯屏数已超分众一倍](https://blog.csdn.net/nH2ihuQ6uT8n7sO1eYD/article/details/81151303)
- > 分众急嫁阿里背后原因，或是新潮电梯屏数已超分众一倍
- ## [收藏 | 知识图谱论文大合集，干货满满的笔记解读（附资源）](https://blog.csdn.net/tMb8Z9Vdm66wH68VX1/article/details/81151320)
- > 收藏 | 知识图谱论文大合集，干货满满的笔记解读（附资源）
- ## [最简单的弹一弹小游戏](https://blog.csdn.net/j123__/article/details/81142665)
- > 最简单的弹一弹小游戏
+ ## [51信用卡未破“魔咒”：非典型互金企业路往何处？](http://www.lanjingtmt.com/news/detail/36746.shtml)
+ > 51信用卡创始人孙海涛笑言，如果破发，“会挺难混的”。
  ## [华为云被评为中国全栈公有云平台领导者](http://www.lanjingtmt.com/news/detail/36743.shtml)
  > 凭借华为多年来服务企业级市场的经验积累，华为云已经具备完备的面向企业级客户的服务体系。借力遍布全球的服务网点，华为云拥有强大的线上线下服务团队可以为客户提供更优的地面贴身服务。
 # 人工智能 
