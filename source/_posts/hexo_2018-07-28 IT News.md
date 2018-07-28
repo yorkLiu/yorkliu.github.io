@@ -1,53 +1,53 @@
 ---
 title: 2018-07-28 IT News
 copyright: true
-date: 2018-07-28 10:03:16
+date: 2018-07-28 12:07:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[今日头条\]智能家电发展任重而道远，从业者和消费者都要多点耐心](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=BKmXgZr7yqLRX4KdXb*HEpjq1iSENuuT7H2xLiywK21H*zgVnteew--LyXPHT8C6k1Q3sp-d5RV3KWRwetyWGW5AN0WOwMLxK4s8-73Mk9qPpj1AMt8VEw1xF05f9Ba-&new=1)
- > 无家电，不智能。时下，几乎所有的家电厂商都把智能化视作未来发展的趋势，无论是大件家电还是各类新奇的小家电，无一不跟智能化挂上边。在智能家电的品类当中，智能电视首当其冲成为领头羊，中怡康数据显示，20...
- ## [一夜车子归移动!大批移动用户惊现数万欠费：真相了!](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=HFEIsiiAUNdS7QSTx7ihRaAhULyYi-2BRHjao4iLDNqqwOqnSgs3Y6TtGPYvxorTZny3-n1zznX20pTh77U13*miDVFdNUUOML37Px4uu4X7AGCqXEEKkkE1gZAKDwem&new=1)
+ ## [这一次，高通伤得不轻](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=MCURUcW9hSiCVSwemsa*e09*3JKmazOw9*aCs*ELYNZlT9V1klX-lHBeMePa32cFSWVVW3J0rKzCt*-y8Q5ZMNir8jWIkmLjImxPUGGWWgaXyZhvlC9Qiq-9USsWXtIk&new=1)
+ > 文／《财经国家周刊》记者 李瑶导读：高通布局未来智能物联芯片市场的关键一招宣告失败。 在中国国家市场监管总局进一步审查阶段截止日（2018年8月15日）到来之前，高通不再有耐性，选择放弃收购荷兰半导体公司...
+ ## [一夜车子归移动!大批移动用户惊现数万欠费：真相了!](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=HFEIsiiAUNdS7QSTx7ihRaAhULyYi-2BRHjao4iLDNptZPgpmp*bAVDD-tek3y6tsiuoMsS4-fS*HNQzOEInpeuyouTbB6G9cG2KZZeYR2X1-zoIKUKPtCoB6vPpviMW&new=1)
  > 在几年前，一直有移动系统异常扣费的新闻，当时就流传着一个段子“一夜之间房子归移动”。近年来房价暴涨，移动扣的钱也买不起一套房子了，于是这个段子也与时俱进成了“一夜之间车子归移动”。没想到这个段子成...
- ## [高通失败了，全球半导体产业走向何方?](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=kwM64pw2LUeg7nom7gL4gNKCsIdVepRUfiVTaPdaveXF1Vijep3vU40W*VTtBTPvhFO3MZJxl7htHkMJByEkIN0VNkIPNzDtk7novcFDjEOXu5TleUp5mCuyEaYKmlcQ&new=1)
+ ## [高通失败了，全球半导体产业走向何方?](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=kwM64pw2LUeg7nom7gL4gNKCsIdVepRUfiVTaPdaveVb2L3v6znNKaQD0d6a7Z94sKWJOPT9oAcotGlInDk63bkFSr-hiy*NUNu*F65WGNn22H8RDDV6RA1zVe2TUIoA&new=1)
  > 美国东部时间7月25日晚上11点59分，也就是北京时间7月26日中午11点59分，这是高通收购恩智浦半导体的最后期限。由于中国国家市场监督管理总局并未审批通过，这场自2016年发起的半导体史上最大收购案就此落空，高...
- ## [聚焦·要闻|福州市人才发展促进会成立——新大陆科技集团CEO王晶女士当选会长](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=cffTOBtUUlQxGTUQF-sRTTvP*YtYl4dk5MBe2KS2HtBxGf1b3RU5IMnth-a*UrrGPXFEX2wa9vgaZ*6snODtatZd2fc9tx8vIrajVrxZkdYjQB4At3DCRueXIJ*guPsn&new=1)
- > 点击图片查看详情福州市人才发展促进会成立——新大陆科技集团CEO王晶女士当选会长 新大陆跃居全球第二大POS供应商，2017年设备出货量达870万台“码宝”来了！——新大陆“数字公民”首款微信表情包上线“快乐投...
- ## [最全图解!全球运营商5G部署时间表](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=Dc7TdGxlBrdPEqqKb5wtPavtEt1EB3m7nmziImOR3xGAW4TSt2JTs*aMeJ18h5FgqALMZXPQ-qJCHu2UhBhJCctm5OIEfjWYz95Awt-GJUfgB7aWO2hQs8PM95uPl*sG&new=1)
- > GSA的最新报告显示，全球154家移动运营商正在进行5G技术测试或试验。这些运营商正在探索各种关键5G技术，包括Massive MIMO、波束成型以及支持超低延迟的回传、云计算和边缘计算安排等。▎以下为部分主要运营商的...
- ## [关于高通的未来，超过10位高通高管讲了这些干货](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=JmNtsoGRq8p8KEwzDvBgZrjxMSgIXZjN76AZesjZOqOoIXCMCspSt4tJZWDlMRyy0iQo6EZPzGhRIR4J3RWUrjrsv46k7UO6ER7guJgshE86KQdz9Bqhrh1Zjs8PL4Go&new=1)
- > 【摘要】一定程度上，一次改写格局的机会被终止了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：王胖子杂谈投稿邮箱：631255063@qq.com北京时间7月26日，高通对荷兰半导体巨头恩智浦（NXP）的收购计...
- ## [你的密码泄露没?触目惊心的密码泄露该如何查防](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=Ovr6vsk77j5STiOv0BfV8tVoT-TakzMm8oz*E5bkE9DNURS*KsJo23bXKXQnCv5VCVofAd2aD1BaZk9E6y0AiMqScOXuAsfUaEp-QTLSoO*9HazWyR3YSwyRAru*dLdk&new=1)
- > 这一天，小编的邮箱收到通知，某账户登录存在异常，赶紧登陆该账户查看了一下近期活动，有异地登陆现象，忙修改密码，然后自查系统，不过由于好久都没登陆过该账户，基本上可以排除账号密码被木马盗取的可能...
- ## [国科微杨应麟：论应用于AI上的低延迟NVMe系统](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=n5xsRcbpKO-YU0b3ToSJZdKEWe5o4Ja1KaLCdas9QXXjho9ziRvayDNVQzXb5U-Src5I0FGHxlXhqU-9pI654uB*tLm5uZNlc3H6LYM22kVf7tzN-IQRVhTPRGvQu4jg&new=1)
- > 7月20-21日，2018全球存储半导体大会暨全球闪存技术峰会（简称“GSS大会”）在武汉光谷拉开帷幕，大会以“构建闪存新生态”为主题，针对全球闪存和存储半导体的产业新生态、行业新热点、企业新发展，进行全面分...
- ## [为什么工程师一定要学会用FPGA?](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=i03nsJkStOtilENDRXCfKmPTgiEVtR-YM6YenbaPY7lhBVJl*WZULqdzSvnQOKpK5sj5V6l*9qnxYB43SgA0EsBdtYAz6unwiRF-gMuWQgtWzWvcuT4ZSDkJu1kA*kBH&new=1)
- > 对当今的硬件工程师来讲，FPGA的应用是同PCB设计一样必须掌握的技能，因此在过去三年里我们摩尔吧的硬禾实战营最重要的技能培训就是融合了PCB设计的FPGA编程和系统应用，因为在数字化逻辑支撑整个现代科技的今天...
- ## [\[ICEPT议程\]第19届电子封装国际会议将于8月8日在上海召开](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=uzAYGfznpnqCivWnN76e*EjVryUyQXKW4LRMgQyzeaGiroMpuhsvQxAt0bTAq*RxJ1z1S1Tz4C1EeRQRcsGGB01tdx57QsU9hYpP2w6iCWDPM9NZj4xvdwC3H5UV*f6p&new=1)
- > 据说，睿智的人都选择了置顶“微电子制造”第十九届电子封装技术国际会议 (ICEPT 2018)第十九届国际电子封装技术会议（ICEPT 2018）将于2018年8月8日至11日在中国上海召开。会议由中国科学院微电子所、国际电气...
- ## [2018中国增材制造大会暨展览会在杭州举行](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=ho4IecJQeXLrLJLJ6Sy38v6ynXJUShYlUL0siyZRVVRgHza7r7WDIU-ltdQLV61FyQdkNiqvAwhL2oYQPWO2VNlRvTYK0jTQssWNIH*mi2JF*J2TjWGgd9CprB8SPL2M&new=1)
- > 7月26-28日，国内3D打印行业规格最高的峰会——2018中国增材制造大会暨展览会在杭州国际博览中心举行。南极熊作为本次大会的战略合作媒体，对本次大会进行现场报道，【大会图文直播】。本次会议由工业和信息化部...
- ## [智慧教育存多面顽疾，京东云的生态化战略要如何破局?](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=zroIct67gzHxMX1VkUMGDVfhD5V2xbnS*1eb0vFpYYZaD0thXFMS9LNL9sq9-a3KkhW22M5G389mQg6uvvnmaL3ikcHMVa8buWmoYbTJPoAPIOyV0IVYSeWpFYUOpT*k&new=1)
- > 曾几何时，互联网的出现给传统教育带来了转型的机会，于是传统教育和互联网一起扛着在线教育的大旗手拉手向前走，在互相的不断融合创新中，新的教育物种在不断出现，消失，再出现，再消失。 二十多年过去了，历...
- ## [5G路测新玩法，天线装在挡风玻璃上](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=Z9wajeFQBbAxSma6XuvcgjPHYWdRMwnZ8pzfocxFW6GLfGoShY1d4UP0Gg4a7JBQz8XY9EYaXOZMRMIJdwUzfMRhfcwWNrJO67ZRHgqfdsrSr-Xs3jh7tpWyeEljE6QY&new=1)
- > 这可能是目前比较酷的一次5G路测路测车辆：NISSAN GT-R5G基站系统：爱立信副驾驶上的移动终端设备挡风玻璃上的终端天线7月25日，日本NTT DoCoMo与爱立信、AGC联合完成了一次28GHz毫米波路测演示，在超过100公里...
- ## [上半年基础电信企业移动用户数增长近一亿 贡献最多的不是中国移动](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=sZ0IuNlmqw*9yvDpt2fdgATeNSshwtJANCdD2ZpbbW2NIEH-TTuRuAXSyAGAy9MxkY2V1WCfbmUjxtEUtMkGG*ITRGBTzoYKj2zxggrIVehavN7mXuOREhg6gXCFn-EI&new=1)
+ ## [自动驾驶芯片行业深度解析：GPU的现在和ASIC的未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=yfAXjI*epf-h5MltYdaOF0bcHU0VhJ-DEF-77Icg3*mPEZZwz4*TFRGtWqSra--qXjorWxCpAnKDgg9zJBpPVaMfCozprKrZezT10Tk9V*flP4OqAwgEUXL1cqR6vJLy&new=1)
+ > 行业观点：汽车电子发展初期以分布式 ECU 架构为主流，芯片与传感器一一对应，随着汽车电子化程度提升，传感器增多、线路复杂度增大，中心化架构 DCU、MDC 逐步成为了发展趋势； 随着汽车辅助驾驶功能渗透率越来...
+ ## [上半年基础电信企业移动用户数增长近一亿 贡献最多的不是中国移动](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=sZ0IuNlmqw*9yvDpt2fdgATeNSshwtJANCdD2ZpbbW1p2XDbud8X-MnzeQHPb*aTofxpv4ZUwweieIY9D2bVQr*ZBBkB1i48ePTQpl9e4-rDZIPmKXy624Y5DqSACyxv&new=1)
  > 近日，工信部发布“2018年上半年通信业经济运行情况”的公告。公告显示，2018年上半年三家基础电信企业的移动电话用户总数达15.1亿户，同比增长10.6%，净增长9229万，4G用户数量突破了11亿。那在这近一个亿的移...
- ## [Java代码审计丨某开源系统源码审计](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=6QfFgjCXykk4EAYESsiJthZtE2ysOcDr01efJ9ESnpnivo27GAf5WCMY5FAwHAkv4q1PVDPvl8pqRMKed3KXLu9lvXqYPtfz4HQfTqbytFsunxOm43OohPNHUJgq37ej&new=1)
- > *本文作者：黑客小平哥，本文属 FreeBuf 原创奖励计划，未经许可禁止转载。java源代码审计相关资料一直比较少，今天抽空给大家写一篇简单的开源代码审计，这是个做公司网站的开源模板，由于项目比较小，本次就针...
- ## [27张信息图，智能制造的精华提炼!](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=yoxElrSvlTWQUHWP8DfoHeS1vYjxCTohsJ16hHNETM186Ls0SjGoBHIoDePeZfQTCO1q**BV0g3ht1Difaz9x0f3UmTtkRF7U6fxF6e-nKuKNTa79Lo8AhxsulU1XF8z&new=1)
+ ## [并购恩智浦未果，手机业务触顶，VR/AR能成高通的明日之星?](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=XZpaZ5r2wvBd6Hf*pO3Tq4vNbtCDIRqOAdZ6YC7srryZTkvoUEXD4cEQ6r5ZbO5j4GfWPC9Y0g98fWVQxTw1J50ziaX1EI8nALkTy6UdfOjbHaLmE*8tV6EgRxRYtrvM&new=1)
+ > 近日，外媒Business Insider采访了高通公司总裁克里斯蒂亚诺·阿蒙(Cristiano Amon)。谈及未来的增长计划，他指出，VR将是下一个明日之星，并透露高通的移动业务收入在未来可能缩减为总收入的一半。对于营业收入...
+ ## [你的密码泄露没?触目惊心的密码泄露该如何查防](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=Ovr6vsk77j5STiOv0BfV8tVoT-TakzMm8oz*E5bkE9Dc52quqE5yYBgNLtSPjnSg0ph03bZ6DhKn8v-njqZoNG7uQIii8lk0QzQAsXLZTh8yvgVEJ2u07-jDqWbDpTx7&new=1)
+ > 这一天，小编的邮箱收到通知，某账户登录存在异常，赶紧登陆该账户查看了一下近期活动，有异地登陆现象，忙修改密码，然后自查系统，不过由于好久都没登陆过该账户，基本上可以排除账号密码被木马盗取的可能...
+ ## [20万字现场速记，带你看清全球3D打印行业现状](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=ho4IecJQeXLrLJLJ6Sy38v6ynXJUShYlUL0siyZRVVTr9bkeIijLcOy76GyjfyUwKGmG6k3gAhAN6ovJ5qxlHXg*4Vy4-eBrnt5lJcoFL82Yb5VuWgg8JIHgjNerRDXb&new=1)
+ > AMCC2018杭州大会的高峰论坛，几十位专家发表了演讲，深刻揭示了目前全球3D打印行业的现状。虽然座无虚席，但大多数人未能到现场聆听。南极熊希望这些超过20万字的演讲现场速记，可以带你身临其境，感受3D打印行...
+ ## [27张信息图，智能制造的精华提炼!](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=yoxElrSvlTWQUHWP8DfoHeS1vYjxCTohsJ16hHNETM178tk6gBfGAw8iSjxPQbeGSKacTYIyeMDIak8*zA4ex3ybeOoc3mykUXdA0L5jk5k5WscIwnFsbpef8rMC3QQr&new=1)
  > 导读本精彩资料来自中国科学院沈阳自动化研究所特聘研究员杜劲松先生在e-works举办的东北智能制造与工业互联网应用论坛的上的讲座内容。杜老师通过精炼总结分享了其智能制造与实施的经验。文/中科院沈自所研究员...
- ## [上半年通信业情况曝光 三大运营商的短信业务为何突然开始增长?](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=-AQzI9OQbsy-8-cHPYNZ1dLZN3hBI-7kAlgpPES1*sEqVMmxxLl98iQGi2hr7ufgZ3xHmow-JhxFarwHrkFcv5natzyKgE9dEnEvl04Li-Q7jbX1NRBXFQRy0Z0HaqyE&new=1)
+ ## [5G路测新玩法，天线装在挡风玻璃上](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=Z9wajeFQBbAxSma6XuvcgjPHYWdRMwnZ8pzfocxFW6GQuS5hBQq1Ojx-tKHeFKZj3kVa6ELyWoZZ1MTccpxfDvOPJSw4E6cDnBS0lpgX7AeXuLk0L-PMcqQV5i7D9pJg&new=1)
+ > 这可能是目前比较酷的一次5G路测路测车辆：NISSAN GT-R5G基站系统：爱立信副驾驶上的移动终端设备挡风玻璃上的终端天线7月25日，日本NTT DoCoMo与爱立信、AGC联合完成了一次28GHz毫米波路测演示，在超过100公里...
+ ## [国科微杨应麟：论应用于AI上的低延迟NVMe系统](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=n5xsRcbpKO-YU0b3ToSJZdKEWe5o4Ja1KaLCdas9QXXSC-jYIRCu-Z-csE5kSDw4FM-Yi0yfiZGCuzxbnVcOCG26F-*SI*dqaUTV4K67M0RKO8j52U0lE4Myn*9xtdWy&new=1)
+ > 7月20-21日，2018全球存储半导体大会暨全球闪存技术峰会（简称“GSS大会”）在武汉光谷拉开帷幕，大会以“构建闪存新生态”为主题，针对全球闪存和存储半导体的产业新生态、行业新热点、企业新发展，进行全面分...
+ ## [\[今日头条\]智能家电发展任重而道远，从业者和消费者都要多点耐心](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=BKmXgZr7yqLRX4KdXb*HEpjq1iSENuuT7H2xLiywK201pVFEx5gEcHB2ILGVCXgLMi5wdGaV9l0F5Di0kz0oq14c9gIE6tiz6bsBUlpTkWl*pDnHZ0Ypass0wqxAet1X&new=1)
+ > 无家电，不智能。时下，几乎所有的家电厂商都把智能化视作未来发展的趋势，无论是大件家电还是各类新奇的小家电，无一不跟智能化挂上边。在智能家电的品类当中，智能电视首当其冲成为领头羊，中怡康数据显示，20...
+ ## [上半年通信业情况曝光 三大运营商的短信业务为何突然开始增长?](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=-AQzI9OQbsy-8-cHPYNZ1dLZN3hBI-7kAlgpPES1*sEadhgx*ioIcUAi9pOiwKyGBE*l8p9kyfXWTiJxYnTU91jY5ChTOdwDlQNbKr1aD5Jayr-6ukyBCm17V9ipBMQR&new=1)
  > 7月19日，工信部发布了2018年上半年通信业经济运行情况报告，报告称，2018年上半年电信业务收入增速小幅回落、固定通信业务收入增速保持两位数、移动数据及互联网业务收入增速放缓。运营商世界网了解到，2018年...
- ## [从玩具到工具!ARKit升级之后，来看看苹果打算以怎样的态度来改变世界](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=m3hzAuC5XkYN3ynQbYiYnaElENaTw5PQJA40MzP-aNYPLa9lqbyE9dv4*z-IimNwKWgZEW7pjs0co0rexaW8gD6GHTk3wS*5ijQ86gl9Lu6Pf-HesYrQaVZwNxdC9CO-&new=1)
- > “前段时间，谷歌和苹果都相继发布了自家AR组件的升级版。区别在于，谷歌I/O大会上，ARCore成了一个群众演员，陪衬AI、Android P这帮主角；而苹果的WWDC 2018上，ARKit有专门的舞台，专门的身份，专门的搭档。可...
- ## [一文读懂公有云的现状与未来](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=SHTmcbzInyZV5M6KaqK83YCxuLW9v7BNUurN7MIPSiQD3kQM8Imv104*bAjvFKyQk2jeFjhAELL04kFaF4QGyNd3lSA9rsDqsTvZ9RtAPnomJt1Pv8Uy70rgwAp29NYR&new=1)
- > 云计算作为互联网基础设施与传统经济融合推动了地方经济的快速发展，随着物联网、人工智能、大数据与云计算的进一步融合，让云服务的深度和广度得到进一步延伸。云计算对传统产业来说是高效、低成本、安全稳定、...
- ## [用VR+动捕设备来遥控无人机，你试过吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1532741407&ver=1025&signature=ZnmBTP3dT3WgAkaKK2vbm75yf3QW7EzHxjqR-ME92FX5SzkQNeHmJWeIqDh42Bo3mayOrA86RVHRtkWfPmLJttowta*A1Qt*zDTZ6gTT8JXla6G7Zz1BdcoVM6F*BPaw&new=1)
+ ## [在国内公有云厂商中，黑产最爱攻击哪家?](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=k2nd2v2P8PuOCwnyR8I6wLOIcHRWm44Vcnmd1OCddfYSWJ9kqvWivrjb*oiHxiQGxPZMGvrC1vkYIW7SbVtt6OQyWcQ-YB3BwFJaUdI3vI5BKkDARQW4SF3H3hsuGCdQ&new=1)
+ > 宅客频道编者按：云计算本身的开放性、便捷性、多样性和高性价比，不仅吸引着众多的企业用户，同样也吸引着网络黑灰产从业者。现在，越来越多的网络黑灰产通过购买公有云服务，将用于攻击、诈骗、引流的网站和服...
+ ## [关于量子计算，你应该知道的七个事实](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=-ICf0*GRRZc0NAnIoIH24qr91rRgIrse36LMBRjFCbqut6Zj9aeWG3ZAUT8rUIhUeAtpruhSMR9NJlb5iQUZDGrAadYS1B8-kdfCCPKginNIDNzbCOEFfp*MhgZVBEBF&new=1)
+ > 来源：资本实验室摘要：在很多人眼中，量子计算机被认为能够完成经典计算机所不能完成的任务。聚焦前沿科技创新与传统产业升级在很多人眼中，量子计算机被认为能够完成经典计算机所不能完成的任务。事实上，如果...
+ ## [用VR+动捕设备来遥控无人机，你试过吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=ZnmBTP3dT3WgAkaKK2vbm75yf3QW7EzHxjqR-ME92FX2RXO4PgFwZxn5A8rS-BzapPHDEnhQDE58DOAlgsmATYv-h7VyUoU9yGK03wPF37biVuEDBPsidnFwiHMJFLFk&new=1)
  > hi188｜ 撰文现在我们操控无人机是这样的。手柄按键多，操控难度大，操作不当还会引来zhaji风险。大家好，给大家介绍一下，这是一个全新的无人机操控方式，它不用手柄，更不用双手，而是通过VR头显＋身体动作来...
+ ## [聚焦·要闻|福州市人才发展促进会成立——新大陆科技集团CEO王晶女士当选会长](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=cffTOBtUUlQxGTUQF-sRTTvP*YtYl4dk5MBe2KS2HtDkUCjdmIWrpno92BX0UCjMGsaJDCupQmmEhd6HHwEERn-GFJuvNQVr9XUXn7lDUUfe3iM-HDJWfbZn9YybrWLh&new=1)
+ > 点击图片查看详情福州市人才发展促进会成立——新大陆科技集团CEO王晶女士当选会长 新大陆跃居全球第二大POS供应商，2017年设备出货量达870万台“码宝”来了！——新大陆“数字公民”首款微信表情包上线“快乐投...
+ ## [\[科技早报7点整\]扎克伯格狂抛Facebook股票 苹果充电黑科技 苏宁总裁暗怼拼多多……](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=MXyzVNIV8PCQimJ1Tg2RgzskmoFx-y-an2art4Yz7n41vS3kzzUUvqx9J5eExTUpjpcn-CU8WZBqhLxahRrll7XUqpn5OXiH1JlfcbvU5pbPqKh2pizpaZ5rm-8fHYOr&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第207期1.B站、秒拍宣布整改措施：加大审核技术和人员投入日前，国家多部门对B站和秒拍进行了约谈，并做出整改要求。对此，B站和秒拍均表示接受处罚，将集中开展内容整改行动，...
+ ## [关于高通的未来，超过10位高通高管讲了这些干货](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=JmNtsoGRq8p8KEwzDvBgZrjxMSgIXZjN76AZesjZOqPi805TR4X*TnkSDXSNfUOCTC9Zd2dRLs2gH1HNxX0LbQNdjBlrf2dTWnQo6XcGgz9pUv2a04mlydzwk3AepX3f&new=1)
+ > 【摘要】一定程度上，一次改写格局的机会被终止了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：王胖子杂谈投稿邮箱：631255063@qq.com北京时间7月26日，高通对荷兰半导体巨头恩智浦（NXP）的收购计...
+ ## [智慧教育存多面顽疾，京东云的生态化战略要如何破局?](http://mp.weixin.qq.com/s?src=11&timestamp=1532750407&ver=1025&signature=zroIct67gzHxMX1VkUMGDVfhD5V2xbnS*1eb0vFpYYbk6*zhrvl-RNwntR1XSuaVDpw5ggmG3OEaK5HQ-4xM99MHcUOe10jw7SDHoVTjUCSx6yTOwQh0NhphyeBM8KHA&new=1)
+ > 曾几何时，互联网的出现给传统教育带来了转型的机会，于是传统教育和互联网一起扛着在线教育的大旗手拉手向前走，在互相的不断融合创新中，新的教育物种在不断出现，消失，再出现，再消失。 二十多年过去了，历...
  ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
- > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
+ > 先说结论，人肉搜索不是你想防止就能防止的，只要你在网上，我就能找到你。这是一个典型的安全攻防场景，攻击者的目的是获得信息，无论用什么方式；而防御者非常被动，就算被人攻击了也不会发现，你知道自己的信息是...
  ## [大學校園WiFi限制流量，但聽說只要ipv6轉成ipv4就可以突破限制，但具體怎麼做呢？(安卓手機)？](https://www.zhihu.com/question/287203094)
  > 把wifi信号发射器插进你的台式机里，台式机改ipv6，手机连台式机上网进入台式机创建的局域网，然后利用手机也有的remote desktop程序进入台式机，打开Internet Explorer（逃。
  ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
@@ -56,8 +56,6 @@ categories: IT NEWS
  > 在运营一个「快速转行做产品经理」的微信群，起了一个有爱的名字，叫「aha」，主题是：与小伙伴们，一起成长！为了方便大家彼此认识，就把群友的信息做了梳理：没有看错：专业有计算机的、电气工程、通讯、人力资源、...
  ## [有哪些网上自学课程的好网站？](https://www.zhihu.com/question/31044894)
  > 花费了18个番茄时间（约9小时）翻阅了知乎、简书上阅读数在1000以上，共87篇关于推荐学习网站的文章以及回答，统计出278个关于自学的网站推荐（含重复），除去重复，共得出73个自学网站，按照推荐次数高低，得出这8个...
- ## [如果当年失败的红军西路军不是被马家军歼灭而是穿越到临高启明位面的西北地区，临高众能否成功消灭西路军？](https://www.zhihu.com/question/61572509)
- > “开快点，再快点啊！”“交通管制个x，我是元老！”“限速？在我的计速表上没有超速！何况你个马车，还能超速？”马车上的杜雯一脸焦虑，不停地催促着驾车的规划民。到达目的地后，杜雯二话不说，左手一只铳，右手一...
  ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
  > 李书福和李想两位行业大佬，说的观点都有道理。荣威君也来谈谈自己的看法。确实，互联网改变了这个世界。有很多行业被互联网颠覆了。比如手机：智能互联网手机迅速取代了传统功能手机，并且在这个过程中，诞生了小米...
  ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
@@ -72,8 +70,6 @@ categories: IT NEWS
  > 这取决于你个人想怎么发展，你想过上什么样的生活。1，回国去大公司，例如BAT，为了能待遇匹配，其实你可选择的机会并不多。而且好坑也是越来越少。VP和director未必要你，不过你进去做一个中层技术管理人员的机...
  ## [求推荐合适的电商办公软件？](https://www.zhihu.com/question/36719139)
  > 推荐日事清。日事清是国内领先的协同SaaS工具。通过“计划（规划未来）→日程（执行当下）→日志（总结回顾）”的PDCA理念为数十万企业/团队提供项目管理、文档/知识管理、协作流程管理、计划管理等企业核心服...
- ## [小米上市了，“用小米模式做其他行业能做到什么样，看小米有品就行了”，这话如何理解？](https://www.zhihu.com/question/285502950)
- > 谢邀，因为小米上市，小米有品的模式线上线下被问了好几次。 内部的小品同学有个总结，说的挺好，他说如果看懂了关于小米有品的一张图、一句话和一个趋势，这些问题都会迎刃而解。 1、一张图：小米商业模式旋风图 小...
  ## [物联网的核心技术有哪些？物联网发展的主要难题是什么？](https://www.zhihu.com/question/20162861)
  > 物联网概念始于1998 年，它的愿景是生活中所有装置，都能通过网络传递信息(M2M)， 触发装置的侦测、识别、反应或控制等等行为。物联网被公认为是后移动时代的下一个杀手级应用，具有广阔的市场和应用前景。目前的物...
  ## [电商如何优化仓储物流体系？](https://www.zhihu.com/question/24250953)
@@ -82,10 +78,14 @@ categories: IT NEWS
  > 喜欢他从枪林弹雨中厮杀出来的感觉喜欢他背得起罪名也不惧荣光喜欢他的作品从来不让粉丝失望其实说到底喜欢一个人是很难说出为什么的之前一些事情闹得沸沸扬扬的时候很多人跳出来说pg人设崩塌但他只是被有预设的喜欢...
  ## [如果当年失败的红军西路军不是被马家军歼灭而是穿越到临高启明位面的西北地区，临高众能否成功消灭西路军？](https://www.zhihu.com/question/61572509)
  > “开快点，再快点啊！”“交通管制个x，我是元老！”“限速？在我的计速表上没有超速！何况你个马车，还能超速？”马车上的杜雯一脸焦虑，不停地催促着驾车的规划民。到达目的地后，杜雯二话不说，左手一只铳，右手一...
+ ## [王者荣耀氪金玩家如何装逼？](https://www.zhihu.com/question/56994659)
+ > 如果你和队友都是氪金玩家又喜欢装逼的话hhhhh 输了比赛赢了场面啊配合BGM食用更佳哦~ps：出处见知乎以外的水印(*Ü*)ﾉ
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
  ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
  > 估计有不少人以为是创业这碗饭狼多肉少，故意劝退，或者是以为嫉妒提问的天纵奇才，不想让他成功。但是我是这么认为的，首先别的不说，如果你要创业的话，肯定是需要一往无前的态度和精神，结果创业前还要上知乎上去...
+ ## [有没有一些融资租赁公司可以做二手车的售后回租呢？](https://www.zhihu.com/question/269074884)
+ > 2018.3.23更新，多谢各位打脸，赞数居然过十了。。。鉴于题主补充了问题描述，在评论区也进行了提问，具体的回复请诸位移步评论区了解。以下为原答案：谢邀，最喜欢回答专业对口的问题。先说一下融资租赁公司“绕过”...
 # IT 技术 
  ## [Hacker News 7 月编程语言招聘趋势榜，Go 击败 Java](https://www.oschina.net/news/98434/hackernews-top10-programming-languages)
  > Hacker News 近日发布了2018年7月编程语言招聘趋势TOP10，Python 依然稳居冠军宝座，Go 语言逆袭进入前三。 Python JavaScript Go Ruby Java C++ PHP Scala Swift Kotlin 排名前三的 Python、JavaScript、G
@@ -155,32 +155,32 @@ categories: IT NEWS
  > 为什么说 NLP 将是未来数据领域的珠峰？
  ## [移动 App 背后的一站式存储解决方案实践](https://blog.csdn.net/valada/article/details/79909306)
  > 移动 App 背后的一站式存储解决方案实践
- ## [如何利用 R 语言对游戏用户进行深度挖掘](https://blog.csdn.net/valada/article/details/79909304)
- > 如何利用 R 语言对游戏用户进行深度挖掘
  ## [我的架构感悟：从美国宪法学习架构设计原则](https://blog.csdn.net/valada/article/details/79909298)
  > 我的架构感悟：从美国宪法学习架构设计原则
+ ## [如何利用 R 语言对游戏用户进行深度挖掘](https://blog.csdn.net/valada/article/details/79909304)
+ > 如何利用 R 语言对游戏用户进行深度挖掘
  ## [Java程序员从阿里、京东面试回来，这些面试题你会吗？（文末福利）](https://blog.csdn.net/bntX2jSQfEHy7/article/details/81187626)
  > Java程序员从阿里、京东面试回来，这些面试题你会吗？（文末福利）
  ## [一篇可能让你每年多赚5万的写简历技术贴！](https://blog.csdn.net/csdnnews/article/details/81187618)
  > 一篇可能让你每年多赚5万的写简历技术贴！
- ## [我不想做程序员了](https://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/81187514)
- > 我不想做程序员了
- ## [NLP概述和文本自动分类算法详解](https://blog.csdn.net/Uwr44UOuQcNsUQb60zk2/article/details/81201957)
- > NLP概述和文本自动分类算法详解
- ## [程序员自学完一个新框架后](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/81187669)
- > 程序员自学完一个新框架后
  ## [Java程序员如何进入BAT，技术水平需要达到什么程度？（文末福利）](https://blog.csdn.net/j3T9Z7H/article/details/81199631)
  > Java程序员如何进入BAT，技术水平需要达到什么程度？（文末福利）
- ## [领导周末喊程序员修bug，程序员：我是来上班的，不是卖身的](https://blog.csdn.net/Px01Ih8/article/details/81212390)
- > 领导周末喊程序员修bug，程序员：我是来上班的，不是卖身的
- ## [亚马逊市值首次超越9000亿美元，距万亿美元仅一步之遥](https://blog.csdn.net/bKMk01MZ3w/article/details/81213042)
- > 亚马逊市值首次超越9000亿美元，距万亿美元仅一步之遥
  ## [分享我编程工作经历及对软件开发前景的看法](https://blog.csdn.net/sD7O95O/article/details/81199434)
  > 分享我编程工作经历及对软件开发前景的看法
+ ## [领导周末喊程序员修bug，程序员：我是来上班的，不是卖身的](https://blog.csdn.net/Px01Ih8/article/details/81212390)
+ > 领导周末喊程序员修bug，程序员：我是来上班的，不是卖身的
+ ## [程序员自学完一个新框架后](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/81187669)
+ > 程序员自学完一个新框架后
+ ## [我不想做程序员了](https://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/81187514)
+ > 我不想做程序员了
+ ## [亚马逊市值首次超越9000亿美元，距万亿美元仅一步之遥](https://blog.csdn.net/bKMk01MZ3w/article/details/81213042)
+ > 亚马逊市值首次超越9000亿美元，距万亿美元仅一步之遥
  ## [北京，我坚持三年了](https://blog.csdn.net/zrf1335348191/article/details/81169808)
  > 北京，我坚持三年了
  ## [最适合 Python 入门的资源有哪些？](https://blog.csdn.net/zV3e189oS5c0tSknrBCL/article/details/81230593)
  > 最适合 Python 入门的资源有哪些？
+ ## [史上最贱的数学题](https://blog.csdn.net/BULpreZHt1ImlN4N/article/details/81213105)
+ > 史上最贱的数学题
  ## [2018年39名最牛的女程序媛，第三名很多人都认识！](https://blog.csdn.net/csdnnews/article/details/81256783)
  > 这些有着工程师背景的女性，她们负责许多大公司里的重要业务部门，创造着...
  ## [等重构完这系统，我就辞职！](https://blog.csdn.net/csdnnews/article/details/81256785)
@@ -200,14 +200,6 @@ categories: IT NEWS
 # 人工智能 
  ## [为什么说 NLP 将是未来数据领域的珠峰？](https://blog.csdn.net/GitChat/article/details/81114152)
  > 为什么说 NLP 将是未来数据领域的珠峰？
- ## [nlp之命名实体识别HMM方法（1）](https://blog.csdn.net/qq_18617299/article/details/81236272)
- > nlp之命名实体识别HMM方法（1）
- ## [nlp之命名实体识别HMM(2)](https://blog.csdn.net/qq_18617299/article/details/81236308)
- > nlp之命名实体识别HMM(2)
- ## [阿里云大学云学院 “人工智能” 专业重磅预售](https://blog.csdn.net/lsj960922/article/details/81236314)
- > 阿里云大学云学院 “人工智能” 专业重磅预售
- ## [SVM.SVC参数说明](https://blog.csdn.net/ustbclearwang/article/details/81236316)
- > SVM.SVC参数说明
  ## [图像三维重建方法综述](https://blog.csdn.net/xinbolai1993/article/details/81236371)
  > 图像三维重建方法综述
  ## [python 返回函数+匿名函数](https://blog.csdn.net/Asiling_H/article/details/81236446)
@@ -228,7 +220,19 @@ categories: IT NEWS
  > AleNet 学习笔记
  ## [一只菜鸡的决策树入门（二）](https://blog.csdn.net/Oldog_1991/article/details/81236728)
  > 一只菜鸡的决策树入门（二）
+ ## [改变世界的七大NLP技术，你了解多少？](https://blog.csdn.net/Stephen_shijun/article/details/81236827)
+ > 改变世界的七大NLP技术，你了解多少？
+ ## [关联分析之发现频繁项集--使用Apriori算法（1）](https://blog.csdn.net/github_38980969/article/details/81236838)
+ > 关联分析之发现频繁项集--使用Apriori算法（1）
+ ## [tensorflow 导入数据（1）](https://blog.csdn.net/amao1998/article/details/81236900)
+ > tensorflow 导入数据（1）
+ ## [图像特征提取（纹理特征）](https://blog.csdn.net/qq_27012093/article/details/81236973)
+ > 图像特征提取（纹理特征）
 # PM 
+ ## [线上线下融合的三个统一](http://www.woshipm.com/newretail/1170072.html)
+ > O2O实现支付、库存、消费的三个统一，从而真正实现线上电商平台和线下传统企业的融合，这种融合不仅有传统企业向上融合的努力，更重要的是线上电商企业向下的融合。本...
+ ## [拼多多上市的潜台词：新零售风口下的电商再进化](http://www.woshipm.com/newretail/1169766.html)
+ > 作为一种全新的电商模式，拼多多的发展，似乎能够给我们对当前的行业发展提供一些借鉴。有关拼多多IPO的消息引发了诸多关注，伴随着拼多多上市后不断攀升估价的是人们...
  ## [发了offer，恨不得马上签字同意？且慢！](http://www.woshipm.com/zhichang/1168477.html)
  > 编者按：投了很多简历，面了很多公司都石沉大海，正当你为之前所有的准备打水漂感到沮丧时，突然有一家公司给你发来了offer是不是喜出望外？恨不得马上签字同意呢？且慢...
  ## [有人骂的产品，才是好产品](http://www.woshipm.com/pd/1167367.html)
