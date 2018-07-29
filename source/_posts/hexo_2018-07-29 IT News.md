@@ -1,91 +1,51 @@
 ---
 title: 2018-07-29 IT News
 copyright: true
-date: 2018-07-29 09:03:49
+date: 2018-07-29 10:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [改革40年，倾听中国故事，谁能为时代代言?](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=qzQTgumj0Mu3Igz1goIb7o6P0pM2xGPXatd*fgHQ0bLnz3BhWk*M0sTaJE8NGuXtA8h57R1X-T-Ub5IKSLS*Ki7rUwpWqR0ekTkf4NeIKKWDE4gTF*fOLyLEBpoqCt6n&new=1)
- > 今年是改革开放四十年，是一个非常有意义的时间节点，对于中国经济，中国制造，中国科技等诸多领域，都是一个非常重要的时代节点。中国新闻周刊日前推出“致敬时代-改革启示录”系列报道，站在40年的重要节点上...
- ## [2018年第二季度中国宽带速率状况报告出炉 手机4G下载速度最快是联通!移动最慢](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=Jx9BhUYO8bc8U1lY1ODmjQYyFnsFFnaANbOvGdwaO6R*1fAvl77vwrNAluxqv-lUq-8FcpgzPf2F3ti7Qg7Ns3lhxw4EUu7IyMkfbhvx50iiZPK5elsorAkwdWQtSuqQ&new=1)
- > 7月26日，宽带发展联盟发布了第20期《中国宽带速率状况报告》（2018年第二季度）。报告显示，继2018年第一季度我国固定宽带下载速率超越20Mbps以后，第二季度4G网络的下载速率也超越了20Mbps。从不同区域情况来...
- ## [在国内公有云厂商中，黑产最爱攻击哪家?](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=eLMWX75n7KeHa16jJ9DfG49MLr5b5xgvAqyq-5pGNyiPIkO9qCKNrif9Q1n6l3kbOsnIijxI*kUvQSxN6bW*fqLgv1Xkz*aMTjkDEzUTf5m1zJiDw2hLVa6cOTaJFOMD&new=1)
- > 宅客频道编者按：云计算本身的开放性、便捷性、多样性和高性价比，不仅吸引着众多的企业用户，同样也吸引着网络黑灰产从业者。现在，越来越多的网络黑灰产通过购买公有云服务，将用于攻击、诈骗、引流的网站和服...
- ## [中兴又拿下中国移动一业务 两家的关系有多铁?](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=dtvz-x3nwglIJ2VjbZixMsAU1mSVxIXhyoJg0dK4ysGISoO*AKTtxvsiwk2KAlrvv0uSumnwTWpzAuTe850H4vX9CXnbBA5eHqdne-taEXAneWnnRek-0geUr5j6YwCm&new=1)
- > 7月26日，中国移动通信集团安徽公司（以下简称安徽移动）发布公告称，将中兴指定为2018-2019年度互联网电视业务管理平台定制服务的唯一供应商。自中兴被解禁，重新开展全球业务后，这已不是中国移动第一次向中兴...
- ## [\[新品推介\]Inrico T320 IRN|火腿电台手机，国际无线电网络是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=1apeTFOvRZdd3g158u3gmhq2bgmUjG3fmc5HE3HinR3ubT7pRdPIL5*LFCRvPdOSF3-26BrEn8N84jHolCHGZjaRLZvpFULgRbqzOn65T*gSrzglAGYbFyaElXKSVq2r&new=1)
- > 什么是IRN？ 你听说过国际无线电网络吗？ 你见过这些设备吗？IRN（国际无线电网络）是一个使用Teamspeak 3（TS3）的VoIP / RoIP系统，允许用户免费使用不同设备（移动电话，平板电脑，计算机等）在世界各地使用R...
- ## [全球手机AI大战打响!掉队即出局\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=s4ch3BXbRM48VP2VGM-7LJbfTh*PYHXtQ90Gmlbt4r3rZaU-NH8Mkj5sUvLDYlrW2JgJCITttOD5f20Rot6HjTsxnSmBc9wavfGR7l01--c4*6vxOK9JXepxW23E*AEm&new=1)
- > 看点：分析AI赋能带来的市场机遇和价值，解读产品和生态层面所面临的问题和挑战。随着人工智能（AI）技术的快速发展，AI和移动智能终端的结合受到了行业的重视，各主流终端厂商旗舰机型基本普及了AI功能，初步形...
- ## [\[FB TV\]一周「BUF大事件」：“疫苗门”涉事公司官网被黑](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=jUqeA*dNbMBmRdyP4Zq5vXQTq8opLmpFx9Ocsybp6Tso6xiiVCNhTkw5MBMb3TyNffPa2kGroqVflD91npAI8rcYlvU*pMr6gumfpfzR31r2WbHQnYjkruLA*gh9XK4e&new=1)
- > 本周梗概本周BUF大事件还是为大家带来了新鲜有趣的安全新闻，“疫苗门”涉事公司长春长生官网被黑：不搞你，对不起祖国的花朵；广东重庆多家三甲医院服务器遭暴力入侵，黑客赶走50余款挖矿木马独享挖矿资源；恶...
- ## [谷歌、微软这些科技巨头们 为何总是被欧盟开罚单?](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=xP2C7BV9UEwHRTFLIN8FgzTl2JLtBc6-RVJqMA9PpXv3dn6L3zEFXSDk97Dgs1rkao8JMpfE1oM7BMeTfNVKTMl6ENVzBGs7h8rUJ1br*2OEANxF9lU*hQfpU92pLAF5&new=1)
+ ## [8月底IFA见!华为Mate20、麒麟980重磅来袭?](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=Q0MnkNVZPSKbBuDtax5lLag9o-fAsmo2xaWUZCMWXH5DFaCPOfk5U1b6-mbdFy35I-eUFonpu*DAMgQyBIY4S77Ov99QYozLcc4AGmIt5jyO4v9y0XTzQ*2LsDRu3dMj&new=1)
+ > 近日，来自华为海外的一张海报显示，华为将在2018年8月31日的德国柏林国际电子消费品展览会（Internationale Funkausstellung Berlin，简称IFA）上举行Keynote演讲。华为方面并没有在海报上透露演讲主
+ ## [华为杨萍：建设智慧城市，助力实现“物联江西”](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=n4eO6EYYDV2kmIA-3UMwtfgzL3xNYgnxnlrub5n3pPaLQgs7B7KpTQUlebr48zMxCB8rUzkWfHNfcQWNzK5xJz*rybyxgGC2KOHgk5IUdzzFnVs1EH4*nereRvPB0rt3&new=1)
+ > 7月28日，“智享城市，慧聚未来——江西新型智慧城市创新发展论坛”在江西成功举办。本论坛由国家信息中心信息化和产业发展部、中国智慧城市发展研究中心、江西省信息中心主办，华为技术有限公司、泰豪集团有限...
+ ## [重磅!刚刚，电信+联通固网最强组合应声落地!](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=bCYqPrlQuwVhL*K8YQIG08jkVa3RfwFWA4JQmPFFeoESo7D7OysgVCiziJEaWYYP21939d-9ABt931Gv7oFW5ySFoXyfu5toxAou*KNxBaxG-gBVKXWUkEfnMyZyDPqg&new=1)
+ > 短片是真人秀节目的片段，孩子为父母“打Call”，可见运营商人的工作和生活是交织在一起，也足以看出这代运营商人的奋斗历程深深的影响着他们身边的子女。从全网通白皮书开始，中国电信和中国联通的合作。过去两...
+ ## [谷歌、微软这些科技巨头们 为何总是被欧盟开罚单?](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=xP2C7BV9UEwHRTFLIN8FgzTl2JLtBc6-RVJqMA9PpXv3dn6L3zEFXSDk97Dgs1rkLXUjlKltUTAIsB6mdifydizpj-pWIfchFEHpMBaANKYZW-kjD9R7armB3nwz06vG&new=1)
  > 最近，谷歌被欧盟开出巨额罚单一事引发了科技圈的极大关注。谷歌当然不会同意欧盟如此金额的罚款，并暗示了将会对安卓系统进行收费等。也有很多业内人士分析，一旦谷歌对于安卓系统进行收费，将会产生怎么样的影...
- ## [2018中国科技产业园区路演大会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=5mP99awIWyFYVP4Dv1ozgbyP8jlm0UUySTX7bmWHqrm-ziiExTOVavfwpsWp2xceatTVt7wf9vFVmmI1qmh2cJO9r1NKe4giyTsu63yKe6R68hplElOFTtExak9u1bNy&new=1)
+ ## [2018中国科技产业园区路演大会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=5mP99awIWyFYVP4Dv1ozgbyP8jlm0UUySTX7bmWHqrm-ziiExTOVavfwpsWp2xceB4uskbut9oaXnBOW3ggziEkA0ExBmKumSdgsOAjS92pcEQr39wcQVsXAgPRnLjQd&new=1)
  > 2018中国科技产业园区路演大会暨产业园区展览会于7月26日在深圳圆满落幕，本次大会由中国高科技行业门户OFweek维科网、HTC高科会主办，OFweek产业园和产园帮承办。本次大会得到广州工信委产业园区处、广东省产业...
- ## [中远海运美国公司遭遇勒索软件攻击!](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=nasgzcXAZwOS-c8uUAbmvQA3q4HlzSa8pNvMLXMCfymC2aUz73xPosHU4jBnGDq5eRWBbgXZhDdQXmgACHa0*pbEyfhi0ckPKQZqiVvI5-JFDU-e2p-W2xTsMX6CgkHn&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全7月28日讯 据美国长滩当地媒体 Press-Telegram 2018年7月24日的报道，中国远洋海运集团（简称中远或COSCO，全球第四大海运公司）美国公司位于美国长滩
- ## [这一次，高通伤得不轻](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=YOI2O31w6ndsF7hcSy-XEeEcAnXfeAgSI3yo1o2pYLdPipVGYyEM1omhkW5B6ur7sQvkhCQqhG5j32Zs5YCk*qsVn9L4oIV*jLB1zaqudXrkxUwl6LhDIFgUmqaK5UFH&new=1)
- > 文／《财经国家周刊》记者 李瑶导读：高通布局未来智能物联芯片市场的关键一招宣告失败。 在中国国家市场监管总局进一步审查阶段截止日（2018年8月15日）到来之前，高通不再有耐性，选择放弃收购荷兰半导体公司...
- ## [微软小冰入驻网易、华为等 高管谈如何做语音新入口](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=jIkdmpiqOXI5Nptsrt7s2mkvqczzssuwa-V5vd9ZqWJ*lXJMNlouSRdGxEig8ns1g6t3e67J-u02m-ui5NvbkFnjbRAO6bYCUGvMe17E888qsTtJOTefcauR3pSrxVQO&new=1)
- > 微软全球执行副总裁沈向洋向财新记者称，对话式AI会成为操作系统、浏览器、手机应用之后的新入口；小冰启动在中国金融、大众文化、媒体和出版行业的商业化记者/叶展旗经历几年迭代，微软小冰从实验室走进商业市...
- ## [欧美主要半导体企业Q2财报亮点最新汇总](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=IrCOTsWDbd1J7LDStBFXFR8PsYJJZ0YsmXiq7gI3X2tHXHyF63eVKCGHKIcRsyakZaZd1oeWP*dhMPmjyxjrhdlUeoMJsdifa7UgyReBtcaBmFXhe6pEzXSwIZhvXxRL&new=1)
- > 2018年7月26日，高通收购恩智浦，这桩历时21个月、总金额440亿美元的全球最大半导体收购案，彻底凉了，同时 Qualcomm 和 NXP 也公布了最新一季度财报。近日，除了 Qualcomm 和 NXP ，Intel、AMD、TI、S
- ## [物联网可应用于十大行业嘛?](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=eRzhRRIwgRjRvXjRAaA2ryLjJ-ZTSJKPbL8rx51aqzZHhnUDRjqO2jo39fYCYHqkcOJ8hbZU9VMpOGYUjhLelu0Q2pG3i7bgLUdUBmtEwzsh8AGplPr0-6BKpNQpd8e8&new=1)
- > 来源：亿欧智库摘要：近些年来，全球经济增长乏力，物联网已变成了各国经济发展的新动力。基于此，亿欧智库近日将发布一份新的报告《2018物联网行业应用研究报告》，报告总结出了物联网的十大应用行业，到底如何...
- ## [独家专访“中本聪”：我是比特币之父，但我不想证明](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=mXFPtouEyeCSvP1zqkar3WGso8kKdF8BDwfq*umS972QAG6SgU6QPK8sFQHtjMDmfOPsNGVnLKrP-3Xq8jTnLoDmrQFEsE4hwrXEfcm4hQZHqHmbDk*tEp245LEpfyVm&new=1)
- > 来源：零壹财经 · 01Binary作者：孙爽-导语-2008年，“中本聪（Satoshi Nakamoto，缩写为SN）”发布比特币白皮书，掀开了加密货币世界的帷幕，其人却在2010年4月人间“蒸发”。他消失后，比特币仍继续运行，时...
- ## [20万字现场速记，带你看清全球3D打印行业现状](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=acHXar*34aIvnv9zED4xSn4qJ53dztNXzv7QNbk2AdOyzIFQHFilU0hAk*sf5wK4Gs203m*r1BQZloZWIyepZWeOF8e5WJFx1dipbh1Mnk6bH-xQr9bd7o5yi6CCuoBq&new=1)
- > AMCC2018杭州大会的高峰论坛，几十位专家发表了演讲，深刻揭示了目前全球3D打印行业的现状。虽然座无虚席，但大多数人未能到现场聆听。南极熊希望这些超过20万字的演讲现场速记，可以带你身临其境，感受3D打印行...
- ## [全球最大管理咨询公司考虑利用区块链将航运物流自动化](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=-x9Vv4t7yfzHZnrrr0rgevWQ-erHfOKjWYgREOS9H0jS8u998Lb9jkwFWvyuwlUftDkFsYkc1-l*H7hEA3JHKi-uQ5kuIU-fkW9ypDdbrqDu*C6vLlmxu*74ezs6fDxn&new=1)
- > 全球最大的管理咨询公司和技术服务供应商埃森哲（Accenture）正在考虑使用区块链来简化并自动化航运物流。根据美国专利和商标局周四公布的一份文件显示，该系统将用来确定被运送的物体的某些属性，并将这些信息...
- ## [蓝牙Mesh发布距今一年，采用数量超出预期](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=8-GgxOJyyeII191IXs7P3qqsZ9zH*kQxrLC1Tv*p302Cy*knqfjg0-uG3NnQusO3rwuTPnOI0TUpGOqmVkTtARZlucJekX2QFaYDW9BOs6vHDG4GQWIqmz7oB8MQr9yt&new=1)
- > 蓝牙技术在过去二十年中彻底改变了物联网生态。功能的推陈出新不但实现了创新，同时也开创了从无线音频到互联设备的全新市场。延续这一趋势，如今，蓝牙mesh在智能楼宇、智能工业、智慧城市和智能家居等新兴市场...
- ## [前线|当AI能学习腾格尔唱歌](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=8QbkMSmdcX5JHjjd5qiOzvyJM856OjKX2SvyKWL022Y0pk*cs3gP67UL3oZQ89W5O4FjiM3yCWLyeCKvQbRe9qv3lFbsO1ZzGuO8a5YlhfUHILC*vDxlNINRzXJOCw4A&new=1)
+ ## [前线|当AI能学习腾格尔唱歌](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=8QbkMSmdcX5JHjjd5qiOzvyJM856OjKX2SvyKWL022Y0pk*cs3gP67UL3oZQ89W5i00YlTLeT1h1yWVMx3z0OtYfOWcj0zKlpA2mGYmgOeR0iVDLDPsiix-LiTpMag6p&new=1)
  > iFeng科技凤凰网科技官方账号，带你直击真相来源：视觉中国第六代微软小冰全新形象 7月26日，微软在北京召开了年度发布会，宣布微软小冰已经升级到了第六代，升级内容包括微软小冰情感计算框架的所有组成部分。 ...
- ## [周末快览|小米8透明探索版即将开售，中国2019开始商用5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1532824207&ver=1027&signature=fpbviAv0Yt*aZ1t3Oq9-JNz-yFjzI-igQzZXw-1Z6CYkBBv4RnEnC2ObixpS6ZAy7CKUj0r7xj9iANfo*dgetg4M2pKMfY4FokGoe18*P6ldYCrGn*W7ugD8swiog8qh&new=1)
- > 小米8透明探索版7月30日开售小米官方正式宣布，小米8透明探索版将于7月30日晚上7:30，在小米商城首销，定价3699元。透明探索版在小米8的基础上加入了高辨识度的透明后盖，能够直接看到炫酷的内部构造，包括新设...
- ## [应届生直接做PM（产品经理）到底合不合适？](https://www.zhihu.com/question/25990427)
- > 在运营一个「快速转行做产品经理」的微信群，起了一个有爱的名字，叫「aha」，主题是：与小伙伴们，一起成长！为了方便大家彼此认识，就把162位群友的信息做了梳理：这里专业有计算机的、电气工程、通讯、人力资源、...
- ## [美国政府与大学为何能占用 .gov .edu 域名？是否应改为 .gov.us .edu.us？](https://www.zhihu.com/question/266924177)
- > 实际上最初不止美国的学校可以用 .edu ，比如国内的 ustc.edu ， www.tsinghua.edu ，现在都还是可以使用的。只不过后来“腐朽的资本主义”不让非美国的教育机构注册了而已。orz
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 社交开源的程序可以参考目前市场上比较稳定的thinksns，这个程序有8年了，ThinkSNS采用PHP+MySQL技术平台，社交核心+多应用+多插件机制。通过应用、插件、风格包等机制扩展功能，支持全平台。拥有IOS、...
- ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
- > 原本回答写的比较隐晦，本文直面回答题主的表述为：目前国内新能源造车势力我都不看好。无论是互联网造车始祖特斯拉连年亏损，自动驾驶事故不断，还是国内蔚来迟迟不交车、赶在交车之前抓紧上市，威马被曝出主推车型...
- ## [【DNS哪个好】速度快 稳定？](https://www.zhihu.com/question/34826522)
- > 有条件的话就搭个自建的，同样首次访问域名本地的比所谓的国内最优秀的要快很多看下图，差不多2-3个月没打开同花顺首页了，而且刷新过DNS缓存所以本地不可能有缓存了 ，然而不管查什么，onedns都会超时2秒，而树莓...
- ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
- > 这是丁磊的话，我觉得真的很好，应该贴在这个回答的最上方。如果你对某个行业很熟悉，如果你有找到上下游资源的能力，如果你知道合理的利润是多少，如果你有能够支撑你失败的家底，如果你上过班，知道什么叫自律什么...
- ## [什么叫战略投资？](https://www.zhihu.com/question/19734458)
- > 通常来说，战略投资（Strategic Investment）区别于单纯的财务投资（也就是低买高卖的“炒股”），特点是金额较大、持股时间较长、积极参与公司治理，投资者和公司之间在战略层面有一些合作。 在中国证券市场，战略...
- ## [如何防止多IP恶意刷短信验证码？](https://www.zhihu.com/question/35012702)
- > 这类情况的出现主要是由于无验证码识别人机导致的恶意行为，最直接有效的方法即增加验证码内容。相关阅读：验证码有什么作用？为什么有些验证码看起来很容易但是没人做自动识别的？滑动验证码的原理是什么？利益相关...
- ## [电商如何优化仓储物流体系？](https://www.zhihu.com/question/24250953)
- > （1）电商为应对周期性的节日促销，需要优化仓储物流体系，提升业务规模能力和柔性；（2）大型电商要解决的核心问题：平时订单规模的满足Vs节日促销的订单规模（3）大型电商要解决的人员绩效管理问题：不能掌握员工...
- ## [物联网的核心技术有哪些？物联网发展的主要难题是什么？](https://www.zhihu.com/question/20162861)
- > 物联网概念始于1998 年，它的愿景是生活中所有装置，都能通过网络传递信息(M2M)， 触发装置的侦测、识别、反应或控制等等行为。物联网被公认为是后移动时代的下一个杀手级应用，具有广阔的市场和应用前景。目前的物...
- ## [如何评价咪蒙的《田朴珺重新发明了一种女人：独立婊》？](https://www.zhihu.com/question/48226901)
- > 语言腐败是中产阶级文化的核心，是女拳社会的常态资深女拳媒体人咪蒙（马凌）不是什么好鸟，然而她对田朴珺的抨击非常到位。田朴珺的的确确是“独立婊”，但咪蒙自身又何尝不是呢？其实绝大多数现代中国妇女都是“独...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [数据分析中，你认为用户行为分析最重要的3个点是什么？](https://www.zhihu.com/question/19686197)
- > 严正声明，用户行为分析的点太多，这里只是分析思路，请按照自己的情况进行选择首先需要看数据分析目的，这个毋庸置疑。不过整体不外乎以下几个目的：对内：产品迭代，对外：精准营销1：产品迭代分析用户行为就是诸如...
- ## [IXDC 的胡晓是个怎样的人？](https://www.zhihu.com/question/48146387)
- > 百度UED和各大公司设计团队每年给了IXDC多少会务费，你们知道吗？他能道歉吗？敢道歉吗？只不过是花了大价钱请了些人过来演讲而已，连三流的论坛都赶不上。好好看看国际专业的学术论坛怎么开。国内设计学术界...
- ## [在饥人谷学习前端是一种怎样的体验？](https://www.zhihu.com/question/41845934)
- > 我也是一个转行的案例虽然计算机专业毕业，但是毕竟大学荒废了4年。毕业后就从事行政方面的工作了，一干干了五年17年时，偶遇饥人谷。一边跟着直播班，一边上班。也不是直播班里特别拔尖的。大概课程2/3时，学到面向...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
- ## [照片保存的最佳方案是什么？](https://www.zhihu.com/question/21277301)
- > 打印出来！摸在手里的照片比屏幕上的照片好看100倍！
- ## [章泽天喜欢/欣赏刘强东的什么？](https://www.zhihu.com/question/38780814)
- > 史记 刘强东章泽天列传刘强东，彭城下相人也。少时家贫，祖无显业，二老以渡泊为生，乃迁子于祖母所，以故强东曰:“吾幼惟祖母是依，向自独立，用事由己，无顾他人言语。”强东为人，和颜而悦色，无须发之白，鲜衰老...
- ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
- > 就是一个做SEO的，靠在大陆一抓一大把！在消费马云和百度，无视就可以，不必讨论，赶紧删了吧！
- ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
- > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
+ ## [改革40年，倾听中国故事，谁能为时代代言?](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=qzQTgumj0Mu3Igz1goIb7o6P0pM2xGPXatd*fgHQ0bLnz3BhWk*M0sTaJE8NGuXt82Q1HUKLvBuCy9c8whbx6IXti1p0PlDtZ5RS24CN1jwo3dXpA4EqpWhiZBWUlRO8&new=1)
+ > 今年是改革开放四十年，是一个非常有意义的时间节点，对于中国经济，中国制造，中国科技等诸多领域，都是一个非常重要的时代节点。中国新闻周刊日前推出“致敬时代-改革启示录”系列报道，站在40年的重要节点上...
+ ## [微软小冰入驻网易、华为等 高管谈如何做语音新入口](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=jIkdmpiqOXI5Nptsrt7s2mkvqczzssuwa-V5vd9ZqWJ*lXJMNlouSRdGxEig8ns1Ffk*-lHgsaMtNXRhBrnMEMqvNgaCSyGvHoV056WvlAyQRQOCO8NPfVsCa6vme4Fb&new=1)
+ > 微软全球执行副总裁沈向洋向财新记者称，对话式AI会成为操作系统、浏览器、手机应用之后的新入口；小冰启动在中国金融、大众文化、媒体和出版行业的商业化记者/叶展旗经历几年迭代，微软小冰从实验室走进商业市...
+ ## [广东电信技术培训班学员一行莅临云创参观调研](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=IYUBg*wjhVdK3lY2VWRG96t*xlI15E5vsLy6mbyaumsTzgs4tGYnfPg6uakGpwuSlP8lu4WJbYBLv7x3uWrVJXqWEkfePc7pMVEilge0n4sAxahORx7wFnLWo9TfCppV&new=1)
+ > 2018年7月27日，广东电信技术培训班学员一行莅临云创，云创大数据总裁刘鹏教授、平台总监沈大为等共同接待了来宾。在上午的交流时间，刘鹏教授为来宾揭示了近两年快递、物流、餐饮等各行各业的新变化，并在...
+ ## [物联网可应用于十大行业嘛?](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=eRzhRRIwgRjRvXjRAaA2ryLjJ-ZTSJKPbL8rx51aqzZHhnUDRjqO2jo39fYCYHqkE7TCfuJJo04IXHbs5LfGtphnAhH7jiWgUyu27cJlt-kb-fy*8kzDRc3hl7sR*JAX&new=1)
+ > 来源：亿欧智库摘要：近些年来，全球经济增长乏力，物联网已变成了各国经济发展的新动力。基于此，亿欧智库近日将发布一份新的报告《2018物联网行业应用研究报告》，报告总结出了物联网的十大应用行业，到底如何...
+ ## [历时21个月，440亿美元交易，半导体史上最大并购案黄了!没有赢家!|中国汽车报](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=GcWz7qrzjtdJjjNmQkRZx*txzMUSYfIVhS5y2II7gS6AGv23WZni-sXb-GQtvXAfypevA9voPPP3nEjUOR0SoFdE80trvLzIc0U100kdCV-ovwI9z-X*yL88DvdybtCJ&new=1)
+ > 高通收购恩智浦的交易，黄了！直到最后一刻，7月26日中午11点59分，也就是美国纽约时间7月25日23点59分，高通依旧没能等到中国国家市场监督管理总局（以下简称“市场监管总局”）对其收购恩智浦（NXP）的批准。...
+ ## [\[新品推介\]Inrico T320 IRN|火腿电台手机，国际无线电网络是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=1apeTFOvRZdd3g158u3gmhq2bgmUjG3fmc5HE3HinR3ubT7pRdPIL5*LFCRvPdOSsF2o8lFqcSpzgg1gvZC0wJdMt*GfyXC7lQyLNAjZPma61WpDrk04aSHSJzMLZo63&new=1)
+ > 什么是IRN？ 你听说过国际无线电网络吗？ 你见过这些设备吗？IRN（国际无线电网络）是一个使用Teamspeak 3（TS3）的VoIP / RoIP系统，允许用户免费使用不同设备（移动电话，平板电脑，计算机等）在世界各地使用R...
+ ## [蓝牙Mesh发布距今一年，采用数量超出预期](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=8-GgxOJyyeII191IXs7P3qqsZ9zH*kQxrLC1Tv*p302Cy*knqfjg0-uG3NnQusO34Sd88himp2Q3hVIi7hJfTkfCBsIJiMKVlkv2HAmvqcmSGCBZxfIonmp5RVGWqEwl&new=1)
+ > 蓝牙技术在过去二十年中彻底改变了物联网生态。功能的推陈出新不但实现了创新，同时也开创了从无线音频到互联设备的全新市场。延续这一趋势，如今，蓝牙mesh在智能楼宇、智能工业、智慧城市和智能家居等新兴市场...
+ ## [中远海运美国公司遭遇勒索软件攻击!](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=nasgzcXAZwOS-c8uUAbmvQA3q4HlzSa8pNvMLXMCfymC2aUz73xPosHU4jBnGDq5UdHEMJFvbkk-mVZ6gOYFZHQHWy8FYtQ3AnTYnuNlHMGzUnp26J6pZrgcegJBrZYQ&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.comE安全7月28日讯 据美国长滩当地媒体 Press-Telegram 2018年7月24日的报道，中国远洋海运集团（简称中远或COSCO，全球第四大海运公司）美国公司位于美国长滩
+ ## [2018年第二季度中国宽带速率状况报告出炉 手机4G下载速度最快是联通!移动最慢](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=Jx9BhUYO8bc8U1lY1ODmjQYyFnsFFnaANbOvGdwaO6R*1fAvl77vwrNAluxqv-lUjdlgLXCQY92LSZIrajSkdz9TTuNjHaEEMtMpey7*LB4RIxortDWgIi7t*rc9K9oA&new=1)
+ > 7月26日，宽带发展联盟发布了第20期《中国宽带速率状况报告》（2018年第二季度）。报告显示，继2018年第一季度我国固定宽带下载速率超越20Mbps以后，第二季度4G网络的下载速率也超越了20Mbps。从不同区域情况来...
+ ## [\[FB TV\]一周「BUF大事件」：“疫苗门”涉事公司官网被黑](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=jUqeA*dNbMBmRdyP4Zq5vXQTq8opLmpFx9Ocsybp6Tso6xiiVCNhTkw5MBMb3TyN64IS*7rsb-NQGJVde2s1xJ4ZlmN*Ub3DJHPf4R4bmm9cRE7ARTNzan0Wh5WV5ZbO&new=1)
+ > 本周梗概本周BUF大事件还是为大家带来了新鲜有趣的安全新闻，“疫苗门”涉事公司长春长生官网被黑：不搞你，对不起祖国的花朵；广东重庆多家三甲医院服务器遭暴力入侵，黑客赶走50余款挖矿木马独享挖矿资源；恶...
+ ## [精益自动化-智能制造的基石](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=cCnaFTp2EUnmRLotV45EZ4vDnH4lGj5LUUAcAmLdNUFsC42UCTVT7FP5Wj8orqS*b7YUkULgGpmTX4fPPjgZq8g7sAWXSDbhpZfPvvIfbA2iuse*jPgXEEMDsZp4AZhw&new=1)
+ > 导读随着机械与信息技术的发展，工业工程与精益生产知识的普及，智能制造的提出，精益自动化生产方式开始逐步在制造业渗透，并对产品的生产制造起到了明显的推动作用。文/天津富士达科技 那莹伴随社会的不断进步...
+ ## [独家专访“中本聪”：我是比特币之父，但我不想证明](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=mXFPtouEyeCSvP1zqkar3WGso8kKdF8BDwfq*umS972QAG6SgU6QPK8sFQHtjMDmOTJdyCLLfSJslqD43RIFIyzM8Qa*GmWnyhwRhQiVRVEKrh577DvwJ3Sedr8GU8PO&new=1)
+ > 来源：零壹财经 · 01Binary作者：孙爽-导语-2008年，“中本聪（Satoshi Nakamoto，缩写为SN）”发布比特币白皮书，掀开了加密货币世界的帷幕，其人却在2010年4月人间“蒸发”。他消失后，比特币仍继续运行，时...
+ ## [20万字现场速记，带你看清全球3D打印行业现状](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=acHXar*34aIvnv9zED4xSn4qJ53dztNXzv7QNbk2AdOyzIFQHFilU0hAk*sf5wK41K2Amzpl2GZT4K5ou0XFcYYfiea6YvaqtzR-yFJ3mt-iwhlLfK1ywHphaXL4sswZ&new=1)
+ > AMCC2018杭州大会的高峰论坛，几十位专家发表了演讲，深刻揭示了目前全球3D打印行业的现状。虽然座无虚席，但大多数人未能到现场聆听。南极熊希望这些超过20万字的演讲现场速记，可以带你身临其境，感受3D打印行...
+ ## [欧美主要半导体企业Q2财报亮点最新汇总](http://mp.weixin.qq.com/s?src=11&timestamp=1532827807&ver=1027&signature=IrCOTsWDbd1J7LDStBFXFR8PsYJJZ0YsmXiq7gI3X2tHXHyF63eVKCGHKIcRsyakZgHG7lPXuj2CHoKrdc9Gcfp3vrTanR6w0E8sUGkEMgEj6XDiptBW9M*fme7f7tWn&new=1)
+ > 2018年7月26日，高通收购恩智浦，这桩历时21个月、总金额440亿美元的全球最大半导体收购案，彻底凉了，同时 Qualcomm 和 NXP 也公布了最新一季度财报。近日，除了 Qualcomm 和 NXP ，Intel、AMD、TI、S
 # IT 技术 
  ## [Python 之父透露退位隐情，与核心开发团队产生隔阂](https://www.oschina.net/news/98455/guido-van-rossum-resigns)
  > Python 创始人 Guido van Rossum 前段时间宣布脱离 Python 决策层，辞去所谓的 BDFL (终生仁慈的独裁者) 身份曾引发热议，当时他以 PEP 572 改进提案的争吵事件为例，表明其退出缘由。近日 Guido van Rossum 在接受外媒 InfoWorld 采访时
@@ -159,6 +119,36 @@ categories: IT NEWS
  > 美国联邦调查局(FBI) 在其官网罗列了41名“头号黑客通缉犯”，涉及世界上技能最高超的黑客，他们涉嫌执行国
  ## [建设储能型数据中心必须要弄懂的十个问题](http://network.51cto.com/art/201807/579921.htm)
  > 《数据中心一年耗电超过三峡大坝发电量，是时候考虑储能型数据中心了》一文发表以后，一些行业专家给出了指
+ ## [为什么说 NLP 将是未来数据领域的珠峰？](https://blog.csdn.net/GitChat/article/details/81114152)
+ > 为什么说 NLP 将是未来数据领域的珠峰？
+ ## [提升：从枚举、进阶，到动态规划（Dynamic Programming）](https://blog.csdn.net/valada/article/details/80892716)
+ > 提升：从枚举、进阶，到动态规划（Dynamic Programming）
+ ## [我的架构感悟：从美国宪法学习架构设计原则](https://blog.csdn.net/valada/article/details/79909298)
+ > 我的架构感悟：从美国宪法学习架构设计原则
+ ## [移动 App 背后的一站式存储解决方案实践](https://blog.csdn.net/valada/article/details/79909306)
+ > 移动 App 背后的一站式存储解决方案实践
+ ## [如何利用 R 语言对游戏用户进行深度挖掘](https://blog.csdn.net/valada/article/details/79909304)
+ > 如何利用 R 语言对游戏用户进行深度挖掘
+ ## [深度学习AI美颜系列----AI美发算法(美妆相机/天天P图染发特效)](https://blog.csdn.net/Trent1985/article/details/80944942)
+ > 深度学习AI美颜系列----AI美发算法(美妆相机/天天P图染发特效)
+ ## [如何才能高效学习，99%的人不知道的高效学习法](https://blog.csdn.net/vqhgWJl9EUB/article/details/81199661)
+ > 如何才能高效学习，99%的人不知道的高效学习法
+ ## [一篇可能让你每年多赚5万的写简历技术贴！](https://blog.csdn.net/csdnnews/article/details/81187618)
+ > 一篇可能让你每年多赚5万的写简历技术贴！
+ ## [Java程序员如何进入BAT，技术水平需要达到什么程度？（文末福利）](https://blog.csdn.net/j3T9Z7H/article/details/81199631)
+ > Java程序员如何进入BAT，技术水平需要达到什么程度？（文末福利）
+ ## [Java程序员从阿里、京东面试回来，这些面试题你会吗？（文末福利）](https://blog.csdn.net/bntX2jSQfEHy7/article/details/81187626)
+ > Java程序员从阿里、京东面试回来，这些面试题你会吗？（文末福利）
+ ## [程序员做久了啊，不用开口就知道是老江湖了。我先秃为敬，你胖请随意](https://blog.csdn.net/GitChat/article/details/81230440)
+ > 程序员做久了啊，不用开口就知道是老江湖了。我先秃为敬，你胖请随意
+ ## [我不想做程序员了](https://blog.csdn.net/GsL9D1P04F6x2ts3C9/article/details/81187514)
+ > 我不想做程序员了
+ ## [程序员自学完一个新框架后](https://blog.csdn.net/tTU1EvLDeLFq5btqiK/article/details/81187669)
+ > 程序员自学完一个新框架后
+ ## [八点一氪 | 滴滴将推车载监控功能；Facebook盘后股价暴跌逾20%；苹果将采用非高通的调制解调器...](https://blog.csdn.net/bKMk01MZ3w/article/details/81213038)
+ > 八点一氪 | 滴滴将推车载监控功能；Facebook盘后股价暴跌逾20%；苹果将采用非高通的调制解调器...
+ ## [最适合 Python 入门的资源有哪些？](https://blog.csdn.net/zV3e189oS5c0tSknrBCL/article/details/81230593)
+ > 最适合 Python 入门的资源有哪些？
  ## [中兴成立出口合规委员会；2018互联网百强出炉；谷歌推量子开源 | 极客头条](https://blog.csdn.net/csdnnews/article/details/81267529)
  > 「CSDN 极客头条」，是从CSDN网站延伸至官方微信公众号的特别栏...
  ## [最近谷歌苹果亚马逊扎堆收购的公司，会不会下一个就是你？](https://blog.csdn.net/csdnnews/article/details/81267531)
