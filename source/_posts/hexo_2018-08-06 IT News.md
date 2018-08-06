@@ -1,92 +1,76 @@
 ---
 title: 2018-08-06 IT News
 copyright: true
-date: 2018-08-06 08:01:59
+date: 2018-08-06 09:00:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全球网速大比拼：美国第20，日本第12，中国排名让人感到意外](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=tjE6-RB9PydZienwuGGwP8VSOtX6Rg3UM6cfu6JOEOQTAIkYC4equ1tfiufnMPRd6YI5Z3ux7Rq3uM5iBGZtgrM4KYn3jxhSSoRfOuST**lR3MAxBwsYgxp-gin47uar&new=1)
- > 跨入到2018年，当5G网络再次被提起，毫无疑问，与我们息息相关的上网速度也将会再次升级，这次依旧是有国内的三大通讯运营商来提供网络服务，可以说大家都对中国移动、中国联通、中国电信这三巨头再熟悉不过了，...
- ## [中国电信强调固本培源“本”和“源”究竟指何意?](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=q6NPHfs*67euCypD-50LDaQJQt0Wa6Bu-yXfrCBW7CstTixBlMspuCe2hd8UXkqtuWzkZAAbmQKnU4k0EIx4clc2O2iVa4*gl29UegawS8spl6dB*TnOKDpZKyamfnaT&new=1)
- > 近日，据运营商世界网发现，中国电信提出了要坚持固本培源的理念，着重强调“本”和“源”，指出其中五大“本”和一大“源”，不过这让人不禁疑惑，五大“本”一大“源”究竟指什么？对于这个概念模糊的词，中国...
- ## [关于自主创新与开放合作的几点思考](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=734CNQSn4OBx1QrcyHB4FTHDk4JstFBTF3CnvWQSn56tm07r8g22vvAqzRIPNO2Nkp8dNT-xeANqExcZ49wrO4WC4tYxE8J8Gj1LBXsCy9J9tt3upWMeweJr0xKCEj2c&new=1)
- > 导读在越来越多的制造业把大数据放在云端进行处理的时候，在网络、存储和计算能力有效的情况下，采用对数据进行压缩和对数据特征进行选取的方法进行数据轻量化处理，以满足数据业务分析需求和处理效率的高效。文...
- ## [台积电三大工厂遭病毒感染，iPhone A12 芯片生产或受影响](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=NVW69DmGZnWi2*RHQaX3cinfCt1NQ5oSX30F-3nRJNWTtXQsVvRP2mnub-U4hsQYdUj*z*3AwA5Up9XP6PI8u*CX3B6csHnvsLGDMZNosprYPOEz7JmYdMt4B8aZvTIx&new=1)
- > 8月3日晚，台积电部分生产设备相继遭到病毒感染，导致台湾新竹科学园区的Fab 12厂区（12寸晶圆厂）、台中科学园区的Fab 15厂区（28nm和7nm生产基地）以及台南科学园区的Fab 14厂区（16nm生产基地）三大生产基地...
- ## [台积电遭“病毒入侵”!全产线芯片停摆](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=Trr6sa7O1A6*7VNsEv31RWxHAQx6pV26d9UE6bq*OwmoXUoTj8hpptEcRUIGXSAQbYmKX6PlmjyKNZsoD0spbAWZvSkATUUazhVWNpzeuSbV*RphNkePA6ktBqIBO*WK&new=1)
- > 近日，晶圆代工龙头台积电传出电脑系统遭到电脑病毒攻击，造成台积电北、中、南三大生产基地停摆。对此台积电方面做出回应证实遭到电脑病毒攻击，但并非外传遭骇客攻击。台积电表示，内部电脑系统遭到电脑病毒攻...
- ## [铲屎官、懒癌晚期必备神器，据说是扫地机器人的平价替代品](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=OkK*m61VAPiDa64oyl2gkDd5fokFHx6UdNBxgYdqwH5GWqauy*sjdAzUvF7cmFY9RSdnqiypNMkewn4HgleJqbv0mJpxdXwUw*Iuv*bV9JzQZa0elfr8799fQKfM2TRF&new=1)
- > 都说科技可以改变生活，近年来，智能电饭煲、智能扫地机器人频频进入人们的视线。前两年，所长也跟风入了一台扫地机器人，曾以为它能够像广告宣传所说般神奇。但实际体验下来却发现有些不尽人意，让所长慢慢道来...
- ## [微软按月收费桌面计划，Win 10 将变成 Win 365?](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=X8kAstosZXT7PXGyw*lPxHFi31j9ty2u1fC2g45L3cI61fwMI0sUvgzbqSAPeKIFljpFnxzEds70IzdWZdxoKpwX2WCIBwDoNE*5BIoAv2AGVBijtu3DrDDCtK7IxJ2w&new=1)
- > 据报道，微软目前正在启动一项桌面即服务计划“Microsoft Managed Desktop”，该项目将以按月付费的方式让用户使用 Windows 10 服务。早在 2005 年，微软就进行了一项试验，其通过该试验为 Energizer
- ## [\[每日科技速递\]风云二号H星顺利到达东经79度](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=*f7ZGUqghnoP4yprp5G3rE3PVG3FdpJcdWwScgqMw5v66hPz9oAuRXOaIfia8eXPKyiNppFHs1MqZwF7MLAxIDtXib-B8E7UgVhKRIroiyYS5n7ztVAPkr-VwFtyP2Mw&new=1)
- > 风云二号H星顺利到达东经79度　　国家卫星气象中心副主任魏彩英近日在中国气象局新闻发布会上说，我国风云二号H星在7月28日顺利到达东经79度，现已获得其漂星后监测到的地球全圆盘图，图像清晰、质量良好，卫星...
- ## [台积电被神秘恶意软件感染，多个产线停摆](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=WzQWfTvs0HB2gDNJWyi9ff3P-C7eCjX*Yr0dYP4qongQwZBgUtT0B3bTesQ90W2b7*Sw41ehQf6pZ1oj6Saj1yQccRzS9udwbYA6sk03tLtLQZZMhsqFlg91RWBLxIIe&new=1)
+ ## [繁华落尽之后的共享单车](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=WTycw5Y3hI-OAa7ZrY7TT3rz*CQfx04p1QxEjmpJeL4sG8vcFCy2OBL8LWzp9Mx8GpVgGxQUlMEjQMKIRWYVWuNMn*azoyN6NtWV06I7D7hpommpc1EDqx2rBRXjqrPz&new=1)
+ > 我已经不记得这是第几次ofo发表声明否认“被卖身”了。就在摩拜被美团全资收购后，似乎所有人都在等待着“ofo卖身滴滴”这样一个新闻的出现，然而等来等去，每次换来的都是否认的声明。还记得几年前，众多公司纷...
+ ## [台积电被神秘恶意软件感染，多个产线停摆](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=WzQWfTvs0HB2gDNJWyi9ff3P-C7eCjX*Yr0dYP4qongQwZBgUtT0B3bTesQ90W2byBsm9VbfUOML2qIdOZIdLrNz380XC9ZQ3hdbZq7eDfk-r6u6FYMwpv41gNbKwmlW&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com晶圆代工龙头——台湾积体电路制造股份有限公司（简称台积电)2018年8月3日晚传出电脑系统遭到电脑病毒攻击，并造成竹科晶圆12厂、中科晶圆15厂、南科晶圆14厂等...
- ## [第四次工业革命-机器人与人工智能](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=L52lui95DLdk4tey4R4pyF2mQi25Z*PbA1ar7JpfAuq7vGkMx9TwPR3NzS7aRZRtchLY2xx24JawHv2JsM2FEk*PPu2aXYGXWJw2C8goAkH9uAdcFaWe3vwiL6slRYiq&new=1)
- > 俺黑君够黑，慎关注！机器人技术和人工智能(AI)处于技术进步的前沿，代表着一种潜在的变革性“大趋势”，这是一场新的工业革命。这些技术已经迅速影响了许多行业和职业，而在某些行业，这种变化才刚刚开始。投资...
- ## [资讯丨图表展示Windows 10的每一次更新涉及到的组件](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=k5up0OGhFCwmndrfkDodEk1vvgahOrO7*wDExHmHUXLjilOjaPyewQf5cb54WpXHGsaPbvNp7Jre2nN2t42pn66N6hRxnP*tvFYQzJM2YrnHbHA-lRTYSBHYW0DdF7FX&new=1)
- > Windows 10发布至今已有数年，微软现代部署团队Windows＆Devices Group首席项目经理Michael Niehaus最近分享了一张图表，归纳总结了操作系统如何通过引入新的增强安全性和以消费者为中心的功能而变得更好。尽管
- ## [且慢!在ROOT和越狱面前请保持理智与慎重……](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=9lvzPqo2tt1-jpzt4xiZCMmz4ng2ut2xgB6rYlyDL1N2p*vebJLIAYMHKB7FHhPt9s*kDcRChA4Bi35ZwwOWLWLJL6JUt2x3QwRlySoNPcQBQcPrG-bIV5twTCHlUrqt&new=1)
- > 通过越狱和ROOT可以使普通手机用户从系统里获取更高权限，个性化定制自己的手机。但是，当我们决定这样做之前未必搞清楚此行为使我们的移动安全环境发生了怎样的变化。来源：中国联通
- ## [\[C114周报\]华为H1收入增15%；诺基亚赢最大5G订单；余承东：华为明年有望登顶](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=UReqJ5-H5xfrWZgwV-Dmav*smM4wXLKcga5sFiKmv7KEo06T6qGSmBBBi1E17SPjOXLIVH*1eqicNkOh-jNJcm9MGMfX-TuzBjsvaSRhikNhG0nZsQJ3qaITRs-OlsLz&new=1)
- > 周报WEEKLY本周热点有华为上半年收入3257亿同比增长15%；诺基亚赢全球最大5G订单； 余承东：华为明年有望登顶• 第012期 • 华为上半年收入3257亿增长15%7月31日华为发布了未经审计的2018年上半年度经营业绩。该...
- ## [重磅!自动驾驶系列课第三季开讲，8节课8位大牛解析限定场景自动驾驶商用车落地](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=s4bw3cAa7N2DNYqtlB2jtLpE0bb8vFJ3xl7skOvxn3sGBjLCrT7FPhRSx36Zshx1FnCnIjeb4bRau29cLJzXDloVCqFEMbYmKpAK40EBZwAaeZUR1RXEuy77fwChtVPf&new=1)
- > 自动驾驶系列课第三季来啦！ 8位大牛8场讲解7大场景720分钟讲解和互动 30天认真打磨 聚焦限定场景自动驾驶商用车剖析关键技术与核心传感器解决自动驾驶量产与落地难题一起见证自动驾驶商业化进程    背景介绍   ...
- ## [湖南第一个站了出来!“流量不限量”被判定为虚假广告](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=LwfLS85-GiPWrVmLzZ8KG7kPEt8Hee-LOjGthesD5*UFnKrm5RtuTHvtFdbRndJfAxB3HMK5jVmoXjMQ8i*E6jQDLYkz-MR7pHHK8Bdsa1q3yafeA9f0PX1-2P0wwQog&new=1)
+ ## [湖南第一个站了出来!“流量不限量”被判定为虚假广告](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=LwfLS85-GiPWrVmLzZ8KG7kPEt8Hee-LOjGthesD5*UFnKrm5RtuTHvtFdbRndJf2X5V5GbxbN4sUT2oKs3KKS9F9pyaEdpyUTWEgrlXabCifDTv-CmX6zQwLmNFTwex&new=1)
  > 针对社会上反映强烈的三大通信运营商“流量不限量”广告严重误导消费者行为8月2日，湖南省工商局召开通信运营商发布违法广告行政约谈会认定“流量不限量”广告为虚假广告长时间大范围高频次发布流量不限量套餐广...
- ## [6个月定点测试在即，Drive.ai披露无人驾驶汽车计划细节](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=8fVr6DDSbyKQi5BmZ50KjcIbv6PswPNGqvfKxX8DV2vnV53829AqsjPS9DiCCT95Fc0DPqEsYl*A*gNVExl2e9Cbfcjv4LPpbCLyNwn0ubMgQ1xa0akdAd-tW*WEQKcm&new=1)
- > 关键时刻，第一时间送达来源 / 腾讯科技编译组编译 / 金鹿欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻【腾讯科技编者按】谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo，成为首家在公共道路上...
- ## [无人配送机器人亮相雄安!视频来啦→](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=cfgILMm-e59L9fRkek-H6fnBWDFmRTyDELy7UludDjijkyKj1dW350xDSV0Qcr9LUZYMOkjCL*hluDjfzmNemS7PCsmjwBLZ-JKKa7FLrCUd6croo2CI9n4IqBj4ttCH&new=1)
+ ## [广东通管局收到某运营商举报 称竞争对手存在不正当竞争行为](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=rwF4XKhgw*CvthahkJMDo*kqXt2mhQCtHpUHtr3KmGBf1Alzuedhy6NtTGKBsvzqJAwlDD6ZQHTI2AZeON9IX7Q3K6VweGv8ypLrthpN7RvH59bmevDL6nirGTMd96H7&new=1)
+ > 近日，广东某通信运营商通过正式文件向广东省通管局举报，称广东xx在湛江、梅州地区进行不正当的竞争行为。据运营商世界网了解，广东xx在湛江和梅州地区开展了用户优惠活动，优惠内容涵盖了充值送话费、免费宽带...
+ ## [台积电三大工厂遭病毒感染，iPhone A12 芯片生产或受影响](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=NVW69DmGZnWi2*RHQaX3cinfCt1NQ5oSX30F-3nRJNWTtXQsVvRP2mnub-U4hsQY0NvsbP0DpDaLl7b*or5pr4ZxqRwPUdzF2GUbzXBCVRg-TYFoHdniYJfJdk6Nvmik&new=1)
+ > 8月3日晚，台积电部分生产设备相继遭到病毒感染，导致台湾新竹科学园区的Fab 12厂区（12寸晶圆厂）、台中科学园区的Fab 15厂区（28nm和7nm生产基地）以及台南科学园区的Fab 14厂区（16nm生产基地）三大生产基地...
+ ## [创e|VRCORE聚核力量系列沙龙——VR线下娱乐专场活动回顾，带动VR线下内容与技术领域新思考](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=MNhtdSxcC*os0PMQkVvHVt54yXZaaDCv0NMqK9nnwVlGs8QLEyqX5xPN8BinC3PGJPu0gSCTeRBGWJMwBfUCMqAr7K*BR*UAsUIj4hqWNn8Vi1YMDAhtH2933y*O0NZL&new=1)
+ > 躲过早起的疲倦和午后的炎热，8月4日的晚上我们在张江戏剧谷掀起了另一波热潮~VR线下娱乐近况怎样？最新的硬件设备和裸眼3D等新技术的前景又是如何？我们这就来回顾一下本次活动的精彩内容！领导致辞上海张江文...
+ ## [无人配送机器人亮相雄安!视频来啦→](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=cfgILMm-e59L9fRkek-H6fnBWDFmRTyDELy7UludDjijkyKj1dW350xDSV0Qcr9LvJcxRsyk4UPn9JY45njMRO4D4BJjuSRAy9AiGvP6XoblO2drr8Q2yjiFddnCvvkL&new=1)
  > 在河北雄安新区市民服务中心内工作的李女士，收到一条短信后走出房间，从无人配送机器人“手中”取走了自己的快递。“我刚才接到短信，说我的快递已经到了，我在无人配送机器人的显示屏上输入验证码，就把快递取...
- ## [英特尔10纳米处理器再度跳票，或收缩芯片代工业务](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=Zj-4AU5cf6nAO4p4vM5-pheCV7r4DKNQ8H8wB9Y1KmJU9Lhpntni3fD4ofVOAww8mphw1YBgSaIK1kW2d82sq4WreFy6ynv0jbDzhI1jdilLjztqad9WvF1wXG*fzPIm&new=1)
- > 来源：腾讯科技摘要：在全球半导体行业，线宽（N纳米）是制造厂商进行激烈竞争的指标。在全球半导体行业，线宽（N纳米）是制造厂商进行激烈竞争的指标。据报道，英特尔将延期到2019年四季度才能够推出10纳米处理...
- ## [苹果将联合国内运营商 加强治理垃圾短信](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=gkYUCDBUtduP2hZM5G8YVZli2Q-3LqFXSP8twO-u7p20H5V9tk4ddQXBzuZbwgZCfAfdPGkardilqZ0Mzdy*m3fVSQPofhiOpErX3iEYk7XzavpRfL5kTxOamZLgD8cs&new=1)
+ ## [GE、IBM，还会有多少大佬倒在数字化转型的路上\[宁宇专栏-265\]](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=kFXEx2xebYL4oIIH0r*HerAj0ezydLQtzGoD2tyaP2iOQWUG419y7WWlmxXQz0JYUV8KH2LLkQsWpuqiTrEZh74rjOpbrg07kuJdPgZfs6BQZbQYQf6HxGmltkGOPzC0&new=1)
+ > 【摘要】不是所有的参赛者都能看到终点，在路上跌倒的不只是毛头小伙子，也有久经沙场的悍将。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑系统部经理，现华为业务软件部专家愿意和大家...
+ ## [把工业机器人放出笼子!起底百亿美元协作机器人市场\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=b5aLrhM8fAwL1Y52mLUTtqE-3h0LNRlJw5LpH8W-ShY7vot5D9luGm02IVeSBWhxmeMjhcdtPueVh3ou8Yr*Fl7C7Q6rWhee20goAsfjAwPbfr3nY1cvR1BerFZBVP34&new=1)
+ > 看点：协作机器人市场正处于跑马圈地的时刻，下一个十年将迅猛增长成为100亿美元市场。时值全球自动化浪潮和中国制造2025的战略布局，制造业对工业机器人的需求高涨，而投资者也将在高投资回报、更新快速的庞大...
+ ## [中国电信强调固本培源“本”和“源”究竟指何意?](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=q6NPHfs*67euCypD-50LDaQJQt0Wa6Bu-yXfrCBW7CstTixBlMspuCe2hd8UXkqtiSYjvyQYUwxllvDb8k3KL-C2gn89Jf5oT6Uag9opUy6xN-EDT3Z6Ev2NqjfmZve9&new=1)
+ > 近日，据运营商世界网发现，中国电信提出了要坚持固本培源的理念，着重强调“本”和“源”，指出其中五大“本”和一大“源”，不过这让人不禁疑惑，五大“本”一大“源”究竟指什么？对于这个概念模糊的词，中国...
+ ## [苹果将联合国内运营商 加强治理垃圾短信](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=gkYUCDBUtduP2hZM5G8YVZli2Q-3LqFXSP8twO-u7p20H5V9tk4ddQXBzuZbwgZCN3XG57Qnf0gN9zjYrs7Z*BY4lF1mKeaMaNRpZ40PuSX2dyl8iILFSLk9LWJ*6TRq&new=1)
  > 苹果终于决定从源头出发治理垃圾短信了吗？ 过去一周里，苹果多次遭到来自国内的“点名批评”，包括 iMessage 上堆积成山的垃圾短信，App Store 国区被允许上架的赌博应用等等。中国市场对于这家刚刚突破一万亿...
- ## [本周大新闻|ChinaJoy来袭，Magic Leap视场角曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1533511807&ver=1043&signature=EKo0MfPheRdgpzDTetmjEAYLKV6wYtLFFMQX1Q7AYIV5fCq51yf2*SbHhD940XnhwoL3n0q5y6K1V0QwAu5GWEomuQqJDK4CIka3QBg7nQr9au-4LK4KodWvo0KUrQ2D&new=1)
+ ## [本周大新闻|ChinaJoy来袭，Magic Leap视场角曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=EKo0MfPheRdgpzDTetmjEAYLKV6wYtLFFMQX1Q7AYIV5fCq51yf2*SbHhD940Xnhd-b4vYeC2AruyXqKia*cM0gHyH0VX6hhWL*o0D81H6et4s1BEVkAlBPZLTGTAfyI&new=1)
  > hi188｜ 撰文本周ChinaJoy 2018来袭，一系列的游戏新作公布，引来玩家们欢呼。VR方面，HTC带来Vive Focus 3.0系统，并推出多款PC VR新作；同时索尼PS VR也推出一系列PS4游戏和VR新作。AR方面，Mag
- ## [产品经理提出不合理的需求时 作为UI设计师该怎么做？](https://www.zhihu.com/question/288105024)
- > 一般情况，设计师会思考解决方案的合理性和规范性。更好的情况，设计师会思考解决方案对问题本身解决的多与少。最理想的情况，设计师应该能结合产品的规划与布局。其实很多时候，需求本身也是一种解决方案。至少站在...
- ## [美国政府与大学为何能占用 .gov .edu 域名？是否应改为 .gov.us .edu.us？](https://www.zhihu.com/question/266924177)
- > 实际上最初不止美国的学校可以用 .edu ，比如国内的 ustc.edu ， www.tsinghua.edu ，现在都还是可以使用的。只不过后来“腐朽的资本主义”不让非美国的教育机构注册了而已。orz
- ## [前端是如何管理后端提供的API的？](https://www.zhihu.com/question/58274241)
- > 先贤们的MVC思想又要发扬光大了。只不过这次，后段api是M，前端画的网页是V，而谁来写C是撕逼的结果。前端的东西玩来玩去都是炒冷饭画皮。
- ## [哪款网站压力测试工具值得推荐？](https://www.zhihu.com/question/21861449)
- > 推荐下网易云社区中我厂廖跃华老师介绍TcpCopy的一篇文章，以下是详情。百度TcpCopy，得到的结果是：TCPCopy是一种请求复制（所有基于tcp的packets）工具，可以把在线流量导入到测试系统中去。曾经应用于网易...
- ## [微信直播，哪家的成本更好控制一些？](https://www.zhihu.com/question/41652866)
- > 看题主的问题，应该是对企业直播行业也有一定了解了，目睹也是企业直播活动直播做的比较不错的，和微吼差不多，但这两个目前来说广告铺的多，性价比这块不尽如人意， 微信直播这种小功能的线上直播对底层技术要求也不...
- ## [1、为什么我的电脑ping其他电脑的时候延迟会出现抖动？ 2、骨干网延迟如何计算？](https://www.zhihu.com/question/68128748)
- > 计算机网络，由终端设备 + 网络中继设备组成。网络中继设备，就是把用户IP包通过接力的方式，送到目的地的设备的泛称，可能是物理层设备（猫）、可能是二层设备（交换机）、也可能是三层设备（路由器/防火墙）。可...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [如何评价手机游戏《明日方舟》？](https://www.zhihu.com/question/65076755)
- > 因为FGO又双叒叕沉船了，再一次失去了希望变成了咸鱼。又刚好赶上明日方舟的删档测试，就和小圈子游戏扯皮群的友人 @Mr.芬奇 一起玩起来这款游戏。两个星期的游戏体验大体还是很愉快的，乃至邀请友人和我一起给这...
- ## [什么是物联网应用技术？](https://www.zhihu.com/question/286883587)
- > 谢邀虽然物联网近几年很火，但首先要明确的是，它并不是颠覆传统的技术革新，而是对现有多种技术的综合和运用。在最前沿物联网与人工智能联系紧密，人工智能的最新技术创新又与临床医学中神经学、心理学、遗传学等息...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [如何看待 Facebook 2018 年二季度财报公布后盘后竞价大跌 20%？FB 股价走势会如何？](https://www.zhihu.com/question/286992556)
- > 乱扯的答案不少，还是来说两句。很显然，Fb的财报有很多让投资人不安的事情，比如过去两年多的月活用户：可以看出虽然大盘还在增长，亚太也在增长，但图中最底层的北美用户却停在2.4亿的状态。欧洲甚至跌了几百万。...
- ## [2019 年校招，最值得加入的互联网公司有哪些？](https://www.zhihu.com/question/287589517)
- > 谢邀。「知乎」就是题主问题描述的那种给大学生就业利好最多的互联网公司。关于知乎作为中文互联网知名知识分享平台，知乎以「知识连接一切」为愿景，致力于构建一个人人都可以便捷接入的知识分享网络，让人们便捷地...
- ## [如何评价红花会的PG ONE？](https://www.zhihu.com/question/61932412)
- > PG陨落背后的圈内事「转载非原创」看这篇文章之前 请各位不要当键盘侠在说一次 不参与洗白这是一条长文，自己写的，但你一定会看完，这里面有太多不为人知的事情。 早在2017年初，国内最强音乐公司摩登天空跟只做中...
- ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
- > 李书福和李想两位行业大佬，说的观点都有道理。荣威君也来谈谈自己的看法。确实，互联网改变了这个世界。有很多行业被互联网颠覆了。比如手机：智能互联网手机迅速取代了传统功能手机，并且在这个过程中，诞生了小米...
- ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
- > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
- ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
- > 估计有不少人以为是创业这碗饭狼多肉少，故意劝退，或者是以为嫉妒提问的天纵奇才，不想让他成功。但是我是这么认为的，首先别的不说，如果你要创业的话，肯定是需要一往无前的态度和精神，结果创业前还要上知乎上去...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
- > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
- ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
- > 1、我认为 NAT 是加快了互联网的发展，一定程度上拖慢了 IPv6 的 发展，请仔细看这句话。也千万不要把 IPv6 等同于互联网发展。没懂的看下一条。2、从用户角度，其实绝大部分用户（可能除了有 P2P 需求 的那...
- ## [又一家装修公司倒闭，继苹果装饰连锁店关门外，这次一号家居网互联网+装修公司也连着关门究竟是什么原因？](https://www.zhihu.com/question/276583095)
- > 最近也有客户有这种担心，其实究其原因，不是互联网家装缺乏发展潜力，而是很多企业把互联网家装理解地过于简单，抛弃了互联网精神，只是把互联网作为工具，实际上做的还是商业本位的家装，忽视了线下交付管控和用户...
+ ## [VIPKID借力微软中国推进智能教育研发 惠及全球1亿少儿优质学习需求](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=JDf1IhuxMy4f-lY8O74Wv02BKZ8H2ETe2edp1l3lycqYiL78bcfQ5fJNLlMsvVa0*NW2a4gVKFabzRUCn2gnhPBuxY42TS0WzChAjGZQDqV7eKI-StKv5wljCtk69QRY&new=1)
+ > 8月2日，全球最大的在线教育科技品牌VIPKID宣布与微软中国达成战略合作，两大行业巨头拟在人工智能教育解决方案上，聚合各自领域优势，共同推进在产品、技术和市场相关合作，树立在线教育AI赋能的新标杆。在VIPK...
+ ## [\[C114周报\]华为H1收入增15%；诺基亚赢最大5G订单；余承东：华为明年有望登顶](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=UReqJ5-H5xfrWZgwV-Dmav*smM4wXLKcga5sFiKmv7KEo06T6qGSmBBBi1E17SPjPS5L5mq6x7cfcynW929Imm9lXFv1QN*sG2a4xF3qxfOM7xv8Pk2kFePoARxh7HYF&new=1)
+ > 周报WEEKLY本周热点有华为上半年收入3257亿同比增长15%；诺基亚赢全球最大5G订单； 余承东：华为明年有望登顶• 第012期 • 华为上半年收入3257亿增长15%7月31日华为发布了未经审计的2018年上半年度经营业绩。该...
+ ## [关于自主创新与开放合作的几点思考](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=734CNQSn4OBx1QrcyHB4FTHDk4JstFBTF3CnvWQSn56tm07r8g22vvAqzRIPNO2Nh23gZb6ZR-V6zjqyOVbeMD2Xueok09F2h9tXIvyygNuFsQsh6kcQKJNjoCz5IK72&new=1)
+ > 导读在越来越多的制造业把大数据放在云端进行处理的时候，在网络、存储和计算能力有效的情况下，采用对数据进行压缩和对数据特征进行选取的方法进行数据轻量化处理，以满足数据业务分析需求和处理效率的高效。文...
+ ## [不但蹭网还反客为主，百元网售“神器”是如何做到的?](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=qSLmIqNLAJ5WFKPgIYGxfMmCb5-NKCSMU2WaQ3iQ9AQ7r4-TpSr5yCgSIQjGc*-ix2EjpvTFNg6E7cM3BsVJbJzsv5E-fJthA2WUCvOWivOrVZ9VaEPUGpyQIreDIdiJ&new=1)
+ > 文丨木子 编辑 | 快刀 来源丨懂懂笔记（ID：dongdong_note）“蹭网”作为一个老生常谈的问题，让不少每年花了几千大洋装光纤宽带的用户觉得不胜其烦、苦不堪言。上网速度变慢不说，有时还影响正常的工作和生活娱...
+ ## [资讯丨图表展示Windows 10的每一次更新涉及到的组件](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=k5up0OGhFCwmndrfkDodEk1vvgahOrO7*wDExHmHUXLjilOjaPyewQf5cb54WpXHYS86GNHDVHWNMyVkGmt683SwLMeOw32IyNcnFd6DDlbwAC*oGIgYg8CDK-Cr1CYK&new=1)
+ > Windows 10发布至今已有数年，微软现代部署团队Windows＆Devices Group首席项目经理Michael Niehaus最近分享了一张图表，归纳总结了操作系统如何通过引入新的增强安全性和以消费者为中心的功能而变得更好。尽管
+ ## [重磅!自动驾驶系列课第三季开讲，8节课8位大牛解析限定场景自动驾驶商用车落地](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=s4bw3cAa7N2DNYqtlB2jtLpE0bb8vFJ3xl7skOvxn3sGBjLCrT7FPhRSx36Zshx1HTN6Szai4KkFez3E1oLW*pRH3YQqF4LsEgRumuQ6ejskbAhWFUTZIBXhREyCQW1c&new=1)
+ > 自动驾驶系列课第三季来啦！ 8位大牛8场讲解7大场景720分钟讲解和互动 30天认真打磨 聚焦限定场景自动驾驶商用车剖析关键技术与核心传感器解决自动驾驶量产与落地难题一起见证自动驾驶商业化进程    背景介绍   ...
+ ## [混合云到底是不是浮云?](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=HX9xcsK9-zWXSEkaVk3QKxte0GS99F*jQqNoKcMHyzdnc4l9jwiFdlXJ9bZUQ8rycS-t5AtZx6W5VLYklt5ngWjAbVxu6PZh6Kz6t6OfgjyLG4Fo8Jni6Y*VUzf4Ni3g&new=1)
+ > 关键时刻，第一时间送达！译者：Tocy, 凉凉_, 琪花亿草, 无若       来源：开源中国社区英文原文：What Is Hybrid Cloud? https://www.oschina.net/translate/what-is-h
+ ## [“流量不限量”被认定虚假广告!以后不准这样!](http://mp.weixin.qq.com/s?src=11&timestamp=1533515407&ver=1043&signature=BP1yplv4VMMcLOz1OBQfcObefktW4lNCE2nNdOoUNbdgRYfUFa8TP2N3FkVnpBx8buIE6Ef16UtXyor2z2lHWfEIy4OOYgcs7uO4pncRNr7uUrfQGe6raZlmwVmuX36w&new=1)
+ > 现如今，各种“不限”流量套餐满天飞，但其实这是“假”的，因为达到了XXGB就会限速了，视频看着看着就十分的卡顿，在线浏览个图片也加载不出...你说这气不气人？还有就是再达到XXGB后就会断网，下个月才能...
 # IT 技术 
+ ## [2008-2018，开源时光机 | 开源中国 10 周年故事征集](https://www.oschina.net/question/3799215_2284346)
+ > 2008年，他为开源中国写下了第一行代码。10年前，你在哪里？在做什么？你还记得是怎样的机遇结识了开源中国吗？还记得那些帮助过你，或你帮助过的一位位陌生网友吗？如今的你在做什么呢？
+ ## [参议员介入，谷歌或许不得不说明搜索业务是否重回中国](https://www.oschina.net/news/98702/google-censored-search-engine-china-senators-letter)
+ > 前几天我们报导过有消息指谷歌搜索将接受审查重新进入中国，目前谷歌还未对此事做出正面回应。然而，据外媒 engadget 报导，谷歌或许将不得不出来对该传闻做出说明。 报道中指出，由 Marco Rubio 领导的 6 名民主党和共和党参议员已经向谷歌首席官员 Sundar Pichai 写了一封信，
+ ## [【开源访谈】程序员，希望你不是狼，也不是小白兔](https://www.oschina.net/question/3820517_2284423)
+ > 国内狼性互联网公司确实不少，不用加班的程序员很少。身边的同行包括我自己经历过的公司，无论大小，大家基本都会被加班。有些程序员拼了命去干，而也有一些人就混口饭吃，随意应付。
+ ## [每日一博 | Spring 核心——资源数据管理](https://my.oschina.net/chkui/blog/1920637)
+ > 在Profile管理环境一文中介绍了环境的概念以及Spring Profile特性控制Bean的添加。本文将进一步介绍Spring管理和控制操作系统变量、JVM变量和Java标准资源（properties文件）的相关功能。
+ ## [码云推荐 | 云转码切片平台 express-ffmpeg](https://gitee.com/quazero/express-ffmpeg)
+ > express-ffmpeg 是一个云转码切片平台，主要实现功能：视频批量上传，视频分块上传，视频批量转码并且切片，切片完成删除原视频文件，视频批量添加水印，一键获取分享链接，防盗链设置，只允许指定域名ifream调用，token防盗链等。
+ ## [Zeu.js — 实时监控可视化组件库](https://www.oschina.net/p/zeu-js)
+ > Zeu.js 是一个 JavaScript 库，其中包含一系列预构建的可视化组件，用于构建实时 TV 仪表板，监控 UI 和物联网Web界面。
+ ## [高性能缓存服务器 NuSTER v2.0.1.18 发布](https://www.oschina.net/news/98697/nuster-2-0-1-18-released)
+ > NuSTER 是一个基于 HAProxy 的高性能 HTTP 缓存服务器和 RESTful NoSQL 缓存服务器，既可以用作类似 Varnish 或者 Nginx 那样的 HTTP 缓存服务器，来缓存动态或者静态的 HTTP 资源，也可以用作 RESTful NoSQL 缓存服务器, 用 HTTP
+ ## [全球 IP 地址分析报告公布：阿里云全球占比第二](https://www.oschina.net/news/98696/global-ip-share-report)
+ > 今年我国已经开始全面推动IPv6的部署。今年4月，工业和信息化部发布了关于贯彻落实《推进互联网协议第六版(IPv6)规模部署行动计划》的通知。据预测，中国IPv6用户数将在2018年末达到2亿，至2020年末达到5亿，2025年中国IPv6用户规模将达到世界第一。 国内云服务商也在加快IPv6的建设
+ ## [Opera 浏览器已添加到 Ubuntu Snap Store](https://www.oschina.net/news/98695/install-opera-snap-app-ubuntu)
+ > 近日，Canonical 宣布著名的网络浏览器 Opera 现在可以在 Ubuntu Snap 商店中作为 Snap 应用程序下载。 Opera 拥有全球超过 3.22 亿用户，拥有独特的功能，如内置 VPN 和独立的信使侧边栏，满足了一些要求严苛用户的需求。Opera 于 2016 年被中国投资者
+ ## [OSChina 周一乱弹 —— 妮儿还是把上衣穿上吧](https://my.oschina.net/xxiaobian/blog/1922967)
+ > 去年暑假，奶奶特意坐了两个多小时车去接9岁孙子团团，可团团却不肯来奶奶家，因奶奶家没有WiFi和智能手机，实在是”太无聊了”。何奶奶很郁闷。今年奶奶提前做好准备装好了WiFi买好了智能手机，到了七月份的时候特地给儿子打电话：“不用把团团送过来啦。”
+ ## [为什么服务器要选择 Linux，这里总结了 10 大理由](https://www.oschina.net/news/98693/top-10-reasons-use-linux-server)
+ > 从最近的统计数据可以看到，全球大量数据中心的服务器已经开始向基于 Linux Server 平台转移。相较 Windows Server 而言，Linux Server 提供了更多优势。包括 Google、Twitter、Facebook 和 Amazon 在内的诸多国际互联网巨头，都在基于 Lin
+ ## [ECharts 4.1.0 正式发布， 基于 JS 的开源可视化库](https://www.oschina.net/news/98692/echarts-4-1-0-released)
+ > ECharts 4.1.0 已发布，ECharts 是一个使用 JavaScript 实现的开源可视化库，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器（IE8/9/10/11，Chrome，Firefox，Safari等），底层依赖轻量级的矢量图形库 ZRender，提供直观，交互丰
  ## [Apache Traffic Server 6.2.3 发布，反向代理服务器](https://www.oschina.net/news/98691/apache-traffic-server-6-2-3)
  > Apache Traffic Server 6.2.3 发布了，这是 6.2 系列的最后一个维护版本。Traffic Server 是一套快速、模块化的兼容 HTTP/1.1 的反向代理服务器，与 Nginx 和 Squid 类似，目前该项目已经转到 Apache 基金会。 6.x 需无缝升级。从之
  ## [Smack 4.3.0 发布，开源 XMPP 客户端库](https://www.oschina.net/news/98690/smack-4-3-0-released)
@@ -131,10 +115,8 @@ categories: IT NEWS
  > 如何玩转微服务
  ## [一条挨踢老狗的 2017 年终总结](https://blog.csdn.net/valada/article/details/79909964)
  > 一条挨踢老狗的 2017 年终总结
- ## [分布式事务入门指南](https://blog.csdn.net/valada/article/details/79909963)
- > 分布式事务入门指南
- ## [程序员跳槽时，如何高效地准备面试？](https://blog.csdn.net/valada/article/details/79909962)
- > 程序员跳槽时，如何高效地准备面试？
+ ## [工作之余如何高效学习](https://blog.csdn.net/valada/article/details/79909961)
+ > 工作之余如何高效学习
  ## [最适合 Python 入门的资源有哪些？](https://blog.csdn.net/zV3e189oS5c0tSknrBCL/article/details/81230593)
  > 最适合 Python 入门的资源有哪些？
  ## [会泡妞的程序员都是怎么撩妹子的？](https://blog.csdn.net/h8y0bDJVUkwE1LboZlE/article/details/81267551)
@@ -147,16 +129,18 @@ categories: IT NEWS
  > 想入门平均月薪2.58w人工智能领域？看看BAT的工程师在学什么
  ## [15个变态的Google面试题以及答案](https://blog.csdn.net/mxw2552261/article/details/81278688)
  > 15个变态的Google面试题以及答案
- ## [程序员做久了啊，不用开口就知道是老江湖了。我先秃为敬，你胖请随意](https://blog.csdn.net/GitChat/article/details/81230440)
- > 程序员做久了啊，不用开口就知道是老江湖了。我先秃为敬，你胖请随意
- ## [在抖音做表情包生意，太早了？](https://blog.csdn.net/bKMk01MZ3w/article/details/81351259)
- > 在抖音做表情包生意，太早了？
- ## [程序员为什么一定要加班？](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/81351591)
- > 程序员为什么一定要加班？
- ## [这一次，吴恩达终于“接地气”了](https://blog.csdn.net/bKMk01MZ3w/article/details/81351258)
- > 这一次，吴恩达终于“接地气”了
+ ## [ajax同步异步](https://blog.csdn.net/xue2xue/article/details/81389273)
+ > ajax同步异步
  ## [毕业两年总结](https://blog.csdn.net/D29h1jQy3akVx/article/details/81278672)
  > 毕业两年总结
+ ## [一个小白的四次前端面试经历](https://blog.csdn.net/vM199zkg3Y7150u5/article/details/81267570)
+ > 一个小白的四次前端面试经历
+ ## [领导周末喊程序员修 bug，程序员：我是来上班的，不是卖身的](https://blog.csdn.net/P5dEyT322JACS/article/details/81267485)
+ > 领导周末喊程序员修 bug，程序员：我是来上班的，不是卖身的
+ ## [成不了数据分析师，都是这些套路搞的鬼！](https://blog.csdn.net/kMD8d5R/article/details/81267548)
+ > 成不了数据分析师，都是这些套路搞的鬼！
+ ## [程序员为什么一定要加班？](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/81351591)
+ > 程序员为什么一定要加班？
 # 人工智能 
  ## [HMM学习笔记_1(从一个实例中学习DTW算法)](https://blog.csdn.net/wcqlwyt/article/details/81429188)
  > HMM学习笔记_1(从一个实例中学习DTW算法)
@@ -188,5 +172,10 @@ categories: IT NEWS
  > 探讨基于深度学习的行人检测算法
  ## [python机器学习----模型选择2（绘制分类边界、验证曲线、学习曲线）](https://blog.csdn.net/u013344884/article/details/81429858)
  > python机器学习----模型选择2（绘制分类边界、验证曲线、学习曲线）
+# PM 
+ ## [学员故事 | 刚拿下产品offer的她，做了这份详细的入行全过程复盘](http://www.woshipm.com/it/1206198.html)
+ > 本文分享来自起点学院「PM就业特训营」JY1801期学员黄小凤，目前作为国内Top 3 OTA平台产品经理的她对自己的入行产品经历做了复盘，希望对渴望成为产品经理的你有所帮助...
+ ## [新零售生意经：如何开一家赚钱的奶茶店](http://www.woshipm.com/newretail/1191720.html)
+ > 出门逛街必买奶茶已经成为了很多年轻人的生活指南，奶茶也正以雄赳赳、气昂昂的姿态大步向前进，它的市场现在仍然庞大到无法想象，那在这样的大环境下，你要如何开一家...
 
     
