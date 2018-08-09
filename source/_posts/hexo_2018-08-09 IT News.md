@@ -1,55 +1,57 @@
 ---
 title: 2018-08-09 IT News
 copyright: true
-date: 2018-08-09 08:01:59
+date: 2018-08-09 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中美谈判进退两难?中国将研发用于外交的AI系统](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=87qgn2UWVqE*HalmSeucZE98dtRibZnILNgs-j7B6ik8zOfRsdq7ZDlmIVIieryNlW07VYl*IKeHQnbmgnN7D15Gcc1JhqTTUfzMNNCD-S3aoJAVXcg2HaP8V5XYOQML&new=1)
- > 俺黑君够黑，慎关注！最近大家的话题都聚焦在中美贸易摩擦与谈判进度，有媒体爆料中国将开发一个AI系统，用于辅助外交谈判。该计划利用大量数据，从鸡尾酒派对八卦到间谍卫星拍摄的图像，为中国外交战略做出贡献...
- ## [百易传媒亮相FMS，中国存储市场再度成为焦点](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=UMn8QYgzK3gkfS*v2fVIOwc22o3f4*s8RDdcLW32Cql2s5Vu-4I4PQK3BjdZl5S7xH1LeUhT6nUMZqu8bmMBt9sNHHEqMpiwBY8VQTZEDo9fwO4PHlRAbR4bg3nRwcPJ&new=1)
- > 北京时间2018年8月8日，全球闪存盛宴FMS2018在美国硅谷圣克拉拉会议中心盛大召开。作为中国存储界的领先媒体，以及积极推动闪存产业在中国加速发展的主流知识服务平台，百易传媒（DOIT）此次登陆FMS，DOIT创始人...
- ## [NEWS|新大陆加入OIDAA联盟 助力国家数字身份产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=HbCO-kN9nyYIb-JiMiza81XckJA0192etN0rEs6ksDY3Ud*y0e99KQwuXAKpDG7o2URtv*x4Msgp3VLyTQ-bheIdQmJD9JfkHmCXpibrg7Sup-BJM4Ow7rR7sn09g4Ja&new=1)
- > 本刊讯：近日，新大陆（福建）公共服务有限公司正式加入中关村安信网络身份认证产业联盟（OIDAA）。OIDAA联盟是由公安部第一研究所联合中国信息通信研究院、中国互联网络信息中心等共同发起成立,致力于成为推动...
- ## [真的发生了!机器人老婆问世，身材好、长相美!](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=wW3n8-Sc-3e5OeTmSitTWFPdFjf58KS5dgcrQMBPZFjfROnwxyCsiuMfnXG*MDEOkhpKqrJQJeSfMbztQmuU8zy4wkTdgQD0lT9IEItlSUlos4XDd9eAjyZeCfB6uOku&new=1)
- > 商业│智慧│管理│人际点击上方蓝字关注  亿万智慧智慧网随着科技的发展，机器人迟早要代替现在的人工，而且还有美女机器人为你服务，这些美女机器人在各种细节上都可以和真人相媲美，未来这些美女机器人还有可...
- ## [手机上网慢?别再错过这几招!](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=t-v5lgy-lCH8AOpARxj4iYmcpzDLqHPHrDDhqs*IMFwFtVpKtNcLcqTPZ5RCvcClNnheeQz38UPUotnV9b4HAQEB8AP4iVqLc*tONX1sjCxDihTaPkWVLmbwpT2nrobJ&new=1)
- > 很多小伙伴时常会遇到网络卡顿，明明是4G网络满格、WIFI满格，网速却忽快忽慢。卡成PPT的在线视频，无限加载转圈圈的APP，这...到底该如何解决啊？稍安勿躁，现在让小编来告诉你吧！A. 仅某个地点上网慢在人群密...
- ## [因势谋远 共赢未来——云创大数据公安行业各地总代理招募大会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=3hwGM7MeORZD2ygX2i*xGw5PYvHdZXWCADVeAkBPWgQHwE5IvLlk3BNY*NbxkMTBwskz9u1OJ1jJNCxbm*rTNprz7YD*tS0y9ZamTqi7bdARezHCnKCQZmxteR1H-aqc&new=1)
- > 2018年8月8日，云创大数据公安行业各地总代理招募大会在宁圆满落幕。来自全国各地的100多家公安行业的优秀集成商、服务商、代理商齐聚南京，共同就公安行业的重点产品应用、市场策略等进行分享与探讨，以期助推...
- ## [为什么我的眼里常含泪水，因为我对VR爱的深沉](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=AQCab8YKp5dGsk5-OeEYw4wouuJyylcBU7H4mB0mDpUonvMSKsIhMTON*1FJq*5-VMMltOCsyFULO7Ja6jJhL9fLjrWD4DSOTY08jG8AvxdL2o5TVlgY5SPYzsgOhsq1&new=1)
- > 谨此纪念VRPinea上线两周年一又是一年8月8日距VR垂直媒体平台“VRPinea”正式上线已有两周年整两年来的努力、坚守、开拓和深入VRPinea一直在做着我们认为正确的事一直在写我们认为有内容、有质量、有意义的文章...
- ## [揭秘：台积电“踩雷”内幕](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=N69qKTRuVCM-ueu5wrolwK0Tq-LmPlI-bdWCgw*Ot72ww1xLtvxJDmg2qGAPTeSVz8EnmCxEW*6z76eQp5Fk66StIzwkSeXK9jchD2cZEqmLRVMg995itd9QeBgXWhPo&new=1)
- > iPhone芯片生产商台积电感染病毒，苹果吓坏了三天亏了10多亿！台积电中毒“想哭”连累苹果发新品台积电中毒，苹果要哭……这几天台积电的事情闹得沸沸扬扬。事件主人公全球最大的半导体代工制造商台积电踩了一脚...
- ## [深思考人工智能蝉联SMP2018多轮语义对话冠军，报告解读多轮人机对话实现过程](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=wDJFiHDLDVR819OKwd4dIJNMLNHN1tkJGOz-JPYA9XEhbdnSaNDJWii0J2BfQ14oDo4zJwWPRav9NSgOa8k-InRPcygVH0oO*ESXa4k9OvzFseC28g2MllGpOk2AQUJI&new=1)
- > 人机对话技术近年来受到了学术界和产业界的广泛关注，其发展影响并推动着语音识别与合成、自然语言理解、对话管理以及自然语言生成等研究的进展。众多产业界巨头相继推出了人机对话技术相关产品，并将人机对话技...
- ## [震撼!五国军人石狮比武!铁血美图刷爆朋友圈!离不开幕后这些人……](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=u2yw6yGTgiQQOpN2Zha*RFqzk3Wr8jr1AwFo0GO0A1wyZZUeDR*vGA7iFpjfQW5oX1jizEysj3sjfdQpQxVfmBndi7OlHcVg-Hdy2L3KYdG-kD4TSNplo0jVSbj9By5R&new=1)
- > 铁血丹心，英雄本色由中国海军承办的国际军事比赛—2018海上登陆赛，于7月29日至8月11日在石狮举行。来自俄罗斯、伊朗、委内瑞拉、苏丹等参赛国的代表队，就“障碍赛”“求生赛”“接力赛”进行激烈角逐。比赛期...
- ## [你还在卖“需求”?智能家居“痛点”才是企业重点](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=HVH8WuB7qUrNyCWOYXVJ6881G2fKjjdyB2JtZwP-l5ZI0kTlzaUpIMrSiQmunk85DN1ZAbH9M7x2X4XhWzyZ0gpG2v1m9-fO3hhhK8tG3xWCXl48oSJD9ZDI8fEVi9Vk&new=1)
- > 痛点是指消费者在用产品或服务的过程中，更高、更挑剔的需求，在需求未被满足的情况下产生的心理落差或不满。营销过程中，消费者的“痛点”等于商机：消费者的“抱怨”、“不满”、“投诉”就是“痛点”所在，这...
- ## [关注|国务院关税税则委员会拟对600亿美元美产品加征关税 涵盖光通信相关产品](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=5L2hKEDo3BBB6f5BMmSyLBslYD1E6*zL-0MP3jihrri0z*UBF8haBoYq06rcsx6vwd4Zjh3EVQPGiz70x60vT3RwAYi4vS50h351d-OR1aRBUHVudNR-k5dKp2RKpaNB&new=1)
- > 导读中方决定对原产于美国5207个税目约600亿美元商品加征5%-25%不等的关税，涉及光纤光缆行业、光器件以及设备行业。ICCSZ讯（编辑：Joy &amp; Aiur）近日，国务院关税税则委员会发布公告称，决定对原产于美国的部分...
- ## [SaaS伙伴走进华为云后，中国公有云格局将改写吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=br0tKJz0EkJ-oPW3j3-ybDepi83D9noCEIAxruwM8JyKm0fKT2t3hxGa7hfbFYJZphLq9Oa4RLd1*tk6MhXlvkB4drgzyJn3wZcYXX5tzsdwFCQ9WydjWaZExNmsk0*S&new=1)
+ ## [SaaS伙伴走进华为云后，中国公有云格局将改写吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=br0tKJz0EkJ-oPW3j3-ybDepi83D9noCEIAxruwM8JyKm0fKT2t3hxGa7hfbFYJZSyAIjCKBMSSqiBkIDalpNzseGJLJ*32xRaTpOb7cGgRsJqdsv1g-VwXykxB85Kvt&new=1)
  > 2017年9月举办的全联接大会(HUAWEI CONNECT 2017)上，华为副董事长、轮值CEO郭平表示，华为已经战略投入了公有云，并承诺长期投入，“华为有决心也有能力和合作伙伴打造世界上的5朵云之一。”最近华为云开始发力...
- ## [深圳－从淳朴渔村到海纳智能硬件人才的拔地崛起 2018 亚洲智能硬件大赛分赛区火热招募中](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=zfo1NuWCzbAhOmPt66AtBsg*GHWHuIIfGDvhSpW90mHLC6LM537Vi*bbf7wrkwpFiVA2BwCUBg7yfEY-h6E7GBU8H1WbHkpHKAgLs1KMlUUeG55sjmNm-8tO1PaXtYLl&new=1)
- > 动点科技 | ID：technode深圳，1978年中国南海的一个小渔村，吹响了改革开放的号角。40年后，这个曾经的“科技荒漠”已成长为中国第一创新之都。秉承“敢为天下先”的改革探索，深圳以有质量的发展率先实现创新...
- ## [奥博会来啦!8月8号约吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=uhZS2DIM3BFrQtHWnopRF0EPyYIjfoTT*rsLCoQHKjHqziLCLAfBpd-xMdFz6QRYErORXNIesItd2h3qnhTUiEepUVqKcXJzmM5o59*yvTeBVi5PsrPa1LT-ssIp9FBf&new=1)
- > 炎热的7月终于过去了。北京迎来了更加炽热的8月。8月,有一个不得不提的特别日子，8月8日。十年前，这个日子，被一场盛会赋予了特殊的意义。北京夜空的大脚印礼花、别开生面的开幕式表演、还有那混合着汗水和泪水...
- ## [中电信去年收入增长第四的地市公司竟是它 总经理章晓钫功不可没](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=y1nKpxmtjDdILnkEQVOwMd7VuFMA1rU*p1LHf4HnHqTGxdX7kc2SA6zOwKSPnAbp61MKi0P-2OT4j8vakwcy8C-YqAz6RxLdV7z2bCWpZyKWhjX4pTrLeT4BiLCxKJ44&new=1)
- > 导语近日，运营商世界网独家获悉，杭州电信凭借着3.55亿元的增量收入，在中国电信地级市分公司增量收入排名中位居第四名，领先于南京、南宁、武汉等城市。据运营商世界网了解，杭州电信2016年收入为65.75亿元，2...
- ## [睡梦中钱不翼而飞?“短信验证码”早已不安全](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=jLFpi3iM2BvjwSRL1jALmg0JTpgB44Gyx9fknuYrsQgzLv5VVe0Q86jsfe3n7hb72ypVk6v3PHyT6jFQFNVI*bT3Hf8GvKVuEZXmFHkXdd3Rj2583VSubAhuoE08RhFn&new=1)
- > 来自 FreeBuf.COM*参考自：微博@江宁公安在线；腾讯“守护者计划”等，作者：AdlerI近日，国内各地都陆续发生了一些利用短信验证码冒用身份、窃取银行账户、金融类 APP 财产的案件，受害者甚至莫名其妙“被网贷...
- ## [腾讯网络安全与犯罪研究基地与德国马普刑法所、北大法学院在德共同举办“中德网络刑法研讨会”](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=QDjid-87uPj1LrY0wicsaRZXn-aeUrjVLy9FS6NuUQFvhisHc3l5Ur4jtEE*M14e5kQRAWh5A6eljic8YD6jSAILlPCSqEmX5sM0TO6v7ZtadclgAB6S2Z04JtcwZnE0&new=1)
- > 【会场照片】德国弗莱堡 当地时间2018年7月6日 当地时间2018年7月6日下午，腾讯公司安全管理部网络安全与犯罪研究基地（以下简称“研究基地”）与德国马普外国与国际刑法研究所（以下简称“马普刑法所”）、北京...
- ## [中国铁塔今日在港交所主板上市 为今年以来全球最大IPO](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=f06LqyZqa0DPi1wIQervLvzNVqS2xlnWQq49UGUB7FL*S12XcqxJglzHcJwkoTCLzdZQP09*SQVb-gvG6hCz2NwT97-pjaZuLGQ9NtaE2PTrwJeWMwOjIzjQZFM2Pq5u&new=1)
+ ## [因势谋远 共赢未来——云创大数据公安行业各地总代理招募大会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=3hwGM7MeORZD2ygX2i*xGw5PYvHdZXWCADVeAkBPWgQHwE5IvLlk3BNY*NbxkMTBRPTD-*3ExrPNeEatlLCrYaAb7DlJDIrtZLRZ8O2BKbjomCgSFnuGmPnZ9y8uKtbZ&new=1)
+ > 2018年8月8日，云创大数据公安行业各地总代理招募大会在宁圆满落幕。来自全国各地的100多家公安行业的优秀集成商、服务商、代理商齐聚南京，共同就公安行业的重点产品应用、市场策略等进行分享与探讨，以期助推...
+ ## [太低调了!年度全球最大IPO——铁塔公司上市了](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=z9o8vj2gUsVdqo11VeipjEZA9bSk3q-ef9f0KhDREz0WFRhJjRdr-kk-QGF72sDjLlAhZWVrpZEVhejbJ1FodyBaRyxo2mZ2M12jikWkXhSIAV4ztxNgFNnsBEWIZuDi&new=1)
+ > 今天上午9:30，中国铁塔股份有限公司正式在港交所主板挂牌交易，股份代号“0788”，IPO发行价1.26港元，发行431.14亿股, 是本年度全球最大的IPO，中国铁塔香港目前公开发售已超额认购1.36倍, 净筹资534亿港元。...
+ ## [华为智能音箱来了!大挖腾讯墙角 一度解散团队](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=ncwlS9uuXKyAoASanzGZhAcGd6W-qY6AIvLuRMg-H9HsAlyZCUwXbDsRY69bBZfZ7AQ5kG-OOPM26LAk4W7Yqjdz6lQL7MhTGgolT0hgk5z*zbXPU*K4j10N7XdUk9N5&new=1)
+ > 看点：华为2年前就有音箱团队，被内部数次否定，还从腾讯挖墙脚。上周，在华为消费者业务半年度业绩报告中，华为消费者业务CEO余承东告诉智东西，他们也正在做智能音箱，并且很快会发布。而在去年年底，华为对于...
+ ## [黑产拿“伪基站”强势转账，我是手机我现在慌得一批](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=b22UQvInCexYrUae87K03nk*wn7u6hJcDB27xbFEeGmLNkysghw*fmRyci5Cczmfmr-zAHoNHRLrxA7-q1EHqBjiBxH8PBBeQInUx4IJRW7kYlaI4smDpmM*W5vHL9YY&new=1)
+ > 豆瓣的一篇盗刷帖，整得人心惶惶。深夜手机里莫名发起转账，一觉醒来，发现被洗劫一空。“伪基站”再次刷屏，starry整理了这篇文章，希望能帮助大家了解这个黑产杀器……一、基站是个啥？最近，豆瓣有一个盗刷帖...
+ ## [VR广告还有未来么](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=pmZBFeEXoLu1mN33f8L881ibYshf3nw3jIEZJjtq-mqO829*a7preYQIx3VeEMAE9VLhlMJ2oFhyXZeqIz7*-gsv*rKZQtjcmappf2WAJSBg-KdQiaO7owSl6Fb7501O&new=1)
+ > 最近几年，VR大热并被各行各业广泛应用，自2014年谷歌cardboard的诞生，利用低廉的价格和便携的组装方式使得这一技术体验门槛大大降低，还有扎克伯格2015年年初就表示VR虚拟现实就是未来的科技趋势，都让我们看...
+ ## [中国铁塔今日在港交所主板上市 为今年以来全球最大IPO](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=f06LqyZqa0DPi1wIQervLvzNVqS2xlnWQq49UGUB7FL*S12XcqxJglzHcJwkoTCLY2Nd4mN2ockmieHfK3xuCRRtCg3CliQX3VLCDf9tx0bAfAHX0WUe-C5VdWbtvzyR&new=1)
  > 中国铁塔股份有限公司（股份代号：0788.HK）今日（2018年8月8日）正式登陆香港资本市场，在港交所主板挂牌交易。中国铁塔的H股股份定价为每股1.26港元，共计发行431.15亿股（行使超额配售选择权前），占发行后公...
- ## [越同意，越放肆。99.9的App正在窃取你的隐私。](http://mp.weixin.qq.com/s?src=11&timestamp=1533771006&ver=1049&signature=-DChbhNQBu16zsfRcWw6NzuSlxw-gQWja02N2bAzxkSPQAB0u-JhMfy9LpHxk6d0*YttQPudr2oMF8PpQvIs3IngXHC6xZHxICMpT8TcjhjZ2JM*LivUkbBpeMefHP*r&new=1)
- > 硬蛋，不止硬件。硬蛋（Ingdan）你的创新探索站！▼大家好我是蛋君。“我同意隐私政策”，打钩，点击确认，进入互联网花花世界中，有多少人只在乎在上面冲浪，而没有想到自己在裸泳？最近腾讯社会研究中心和DCCI...
+ ## [华为胡厚崑：给智能世界铺上云的跑道，装上智能发动机](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=et4S4DJ3mEGpMunYQd-QvlknCgwlo7adLRfqKsSNyz8SVCzJK8RwTzpXgklAmeYNoIB-PiN9d8hZNqDKC8tZ8bwoyP9POs4APr1zaIpb5z8HvALOHaC8vdGY6T3ORGuH&new=1)
+ > 2018中国管理·全球论坛暨金蝶用户大会于8月8日在深圳召开。华为公司轮值董事长胡厚崑应邀出席，并发表了《出于云，胜于智》的主题演讲。胡厚崑表示，华为要给智能世界铺上云的跑道，装上智能发动机，帮助每个人...
+ ## [腾讯云技术复盘「数据丢失事件」，为什么业务上云还要再做云备份?](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=EuXVwk6ss3sCVWrDywRy0SFQen3d97AGIsNQ-icEmhCXAFYW43SiJ*rUInj-dDMUcHo6I7XlCPFMqWxqjP3q6m3FV1Kods5bMB9gdR9wxI8mTax9ECp48VxSABgacq8G&new=1)
+ > 众多惨痛的云事故告诉了我们一个几乎无法规避的现实，那就是云也会宕机，也会丢失数据….【CSDN 编者按】近两日，因腾讯云损坏了北京一家创业公司的文件系统元数据，导致后者的业务经营、甚至融资进程，都受到影...
+ ## [中国铁塔董事长佟吉禄：股东的关注点就是我们的着力点](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=ibtkUqUnsHj659BQECx-hI0L9-XJQu5-vOJD0vbyIy1eUbVNuSkd7wHneQYUj3vQdk-c1uOpVDStxpYCS8xbYoSc78q0YXsMyXvm6TG9FXRqDMxjR6nIHbyH6iIph4j8&new=1)
+ > 中国铁塔股份有限公司（股份代号：0788.HK）今日（2018年8月8日）正式登陆香港资本市场，在港交所主板挂牌交易。中国铁塔董事长佟吉禄在联交所上市仪式上发表致辞，他表示，“20天前，中国铁塔刚刚度过了四周岁...
+ ## [中国铁塔今日在港交所主板上市!佟吉禄：感谢三大运营商的呵护](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=r54I6zOwofhqIvcAj9cE727HGKxb8mMdQL9b4p9wC2rNAoY2ymjFrJSZ5El2iKHa1NslzrwUwWbhJQIPwGvwUpZME1OqYrQrDkYHpn54ZpTL-cByFpWOPKi37w4E341L&new=1)
+ > 8月8日，中国铁塔股份有限公司（股份代号：0788.HK）正式登陆香港资本市场，在港交所主板挂牌交易。中国铁塔的H股股份定价为每股1.26港元，共计发行431.15亿股（行使超额配售选择权前），占发行后公司总股本的25...
+ ## [能WiFi调参，涵道、桨机、直机通用|飞盈佳乐 WinDragon 系列电调了解下](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=8st0L1tRfiHiJ1dNuQWm5Zm0geaAFGKLFXAOIWtv-7TBDndsy5Hm6ST5r59efVjV-b4lIoBUSydDb7YSdynQMTjZuseLS*s5qeaUn19CIwTUSwNvp9QYHeTbYKguC6P4&new=1)
+ > 电调是大多数采用电力驱动设备中不可或缺的一种电子设备，目前我们说到的电调主要是指微机电子调速器，其核心控制单元经历了单板机型、MCU(单片机)型、STD/IPC (工控机)型以及PLC/PCC(可编程序控制器)型等，其中...
+ ## [\[技术\]专为VR/AR而生!解析高通骁龙XR1的台前幕后](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=DTAK2pirewVdPXtIQN6rkP2g9OYPm91ESe5dMbzNmKOh-oVIh3u59v1dLyeLcNudv7UwhSjaYWHZJ5oOTFCkalvvX60rypTjQ5aa1ak4pzKRZ5ROGQSGF4gKdR1lNBwV&new=1)
+ > 前不久的增强现实世界博览会（Augmented World Expo, AWE）上，高通“不负众望”地发布VR/AR专用芯片：骁龙XR1。其实在AWE前夕，这款芯片就已经泄露了七七八八。有所区别的是，XR1并非大家想像的那种能模拟地球...
+ ## [NEWS|新大陆加入OIDAA联盟 助力国家数字身份产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=HbCO-kN9nyYIb-JiMiza81XckJA0192etN0rEs6ksDY3Ud*y0e99KQwuXAKpDG7oYrhSjgBPoB5lFEAEt1u5UkUnm1y9B0hzgjiqiExZOme6AKAbyL8IChrdGbImyT*p&new=1)
+ > 本刊讯：近日，新大陆（福建）公共服务有限公司正式加入中关村安信网络身份认证产业联盟（OIDAA）。OIDAA联盟是由公安部第一研究所联合中国信息通信研究院、中国互联网络信息中心等共同发起成立,致力于成为推动...
+ ## [从小度智能音箱的小身材看DuerOS的语音交互市场大谋局](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=GeK6OQSGzmYFlcUzAXmbpYEQ5cdJxHjvxo8PFt*DZ7SzPl4lANb8GJx07Kph8*tJwBA8vqqRQ6FZSg12AvUsLlthhcQuc*fnIfii0B6j4llmPCvDyBSdNpkAn5heaJz9&new=1)
+ > 公众号“向小田”（xiangxt1984）是财经专栏作家向小田的自媒体，关注产业金融、资本市场、互联网科技、VC/PE等领域。科技巨头大战智能语音市场，到底为了什么？文 | 向小田现在越来越多的人开始认识到，智能语...
+ ## [中电信去年收入增长第四的地市公司竟是它 总经理章晓钫功不可没](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=y1nKpxmtjDdILnkEQVOwMd7VuFMA1rU*p1LHf4HnHqTGxdX7kc2SA6zOwKSPnAbpq0GxmJw2C-hLJsiYGiq*oTg37VM9LpY-jAmS852k-XB1LyWGN*mq0W0S3n3NfxWp&new=1)
+ > 导语近日，运营商世界网独家获悉，杭州电信凭借着3.55亿元的增量收入，在中国电信地级市分公司增量收入排名中位居第四名，领先于南京、南宁、武汉等城市。据运营商世界网了解，杭州电信2016年收入为65.75亿元，2...
+ ## [成绩斐然!国家大数据(贵州)综合试验区建设完成七大系统性试验](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=E8q4PpDEqSG4HhTrsGklxNpw8iKrSRvXrjmKD0-MHGXn14FXVz3BKT0wlTiYekTWd4eZdHeX29ORfe5CQ9GomLpocNwDfvlZA876PtS14JspUd3mWuPj9Qfrmgh3pi8c&new=1)
+ > 导读记者从2018年8月7日贵州省政府新闻办召开的新闻发布会上获悉，自2016年2月25日，国家发改委、工信部、中央网信办批复贵州建设第一个国家大数据综合试验区两年多来，贵州省按照批复要求，把综合试验区建设与...
+ ## [中国铁塔上市：市值达2172亿港元 但仍有“心病”待解](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=5b9AZi5BqfBg0utTOJ27c7dSRFeK6YNtgVqWNVfortDfWROpIKE9WNrz2ixr1ergJnLx1iABjpqroh3IKCYGe5R-ghP3PlOSQwImAdN2jrCwbwGU1NqgTyMOb2cI2ilU&new=1)
+ > 新浪科技科技观潮，与浪前行关注 导读中国铁塔（00788.HK）今日正式登陆港交所，开盘价1.26港元，与发行价持平。公司市值约2172.98亿港元（约合276.84亿美元）。文 | 新浪科技 韩大鹏中国铁塔于今日正式在港交所...
+ ## [一夜之间财产尽失，而你什么都没有做，“短信嗅探”了解一下|专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=UIDA8*AwZ4P1PVIYnKM0jU4hBnAzuAb7ichuvsDGeHjl1wgrKEvNf1L-7DX5roKX6r8Ixtr2oKQMwLiid4Rwyz5WASK16699KcNoD78ggZkwCjeZrEHJYPEYJl98C-m2&new=1)
+ > 一、事件始末小白：大东东，近期各地陆续发生一些利用短信验证码冒用身份的案件，攻击者窃取银行账户、金融类app中的财产，被害者蒙受了极为严重的经济损失，这事儿你知道不？大东：知道知道，眼睛一闭一睁，发...
+ ## [IEEE一年一度的主席选举即将开始](http://mp.weixin.qq.com/s?src=11&timestamp=1533776407&ver=1049&signature=ICQhpONh1HWIMDlBPxl*pSITcWJIoU*AXwd0EQQ3qbIm77NdrcSaZVUpXtGe07Mpd7lyolbz7kyxbp70*GuxLFllmdtQsv1280qZ4RlWoB3bpG0jcxKfImjWT8S4Qd2D&new=1)
+ > IEEE年度选举即将于8月15日开始。参加IEEE主席竞选的的三位候选人分别是IEEE终身会士Toshio Fukuda、会士Vincenzo Piuri和终身会士Jacek M. Zurada。投票截止时间是美国东部时间10月1日下午1点
+ ## [dish hd和麦格iptv哪个更适合家庭？](https://www.zhihu.com/question/21552714)
+ > 要说这个或者我比较有经验回答。应该说麦格电视和dishhd是目前看外面世界的主流产品，其中dishhd是卫星电视的代表，这二年比较火爆，网上尤其以楼主所留地址中的那个高清时代论坛为主要论坛代表。麦格电视是近日年的...
+ ## [如何评价百度悄然上线的P2P CDN产品？](https://www.zhihu.com/question/68520917)
+ > 迅雷早先的水晶也有PC端挖矿，后来没有了（没有深入考察，反正我没看到了）。很简单，你的PC会7x24小时在线吗？大概率是不能，那么一大堆不稳定的节点也就意味着不稳定的服务，然并卵；再来，你PC在线挖矿，挣...
  ## [美国政府与大学为何能占用 .gov .edu 域名？是否应改为 .gov.us .edu.us？](https://www.zhihu.com/question/266924177)
  > 实际上最初不止美国的学校可以用 .edu ，比如国内的 ustc.edu ， www.tsinghua.edu ，现在都还是可以使用的。只不过后来“腐朽的资本主义”不让非美国的教育机构注册了而已。orz
- ## [1、为什么我的电脑ping其他电脑的时候延迟会出现抖动？ 2、骨干网延迟如何计算？](https://www.zhihu.com/question/68128748)
- > 计算机网络，由终端设备 + 网络中继设备组成。网络中继设备，就是把用户IP包通过接力的方式，送到目的地的设备的泛称，可能是物理层设备（猫）、可能是二层设备（交换机）、也可能是三层设备（路由器/防火墙）。可...
  ## [属于00后的互联网时代，有哪些新事物、新思想和新文化是大部分90后都已经跟不上，甚至无法理解的？](https://www.zhihu.com/question/288515224)
  > 谢邀，我的答案可能会得罪很多90后关注者，所以还是匿名了。说句不好听的话，你们90后说白就是废掉的一代！既没有80年代青年的深刻独立的思想性和行动力，也没有00后的眼界和自信，随着90年代国内文化氛围的收紧和日...
  ## [如果当年失败的红军西路军不是被马家军歼灭而是穿越到临高启明位面的西北地区，临高众能否成功消灭西路军？](https://www.zhihu.com/question/61572509)
@@ -63,29 +65,27 @@ categories: IT NEWS
  ## [前端学习中一直用框架是不是走偏了?](https://www.zhihu.com/question/38891890)
  > 框架都在JS的基础上，找工作一般要求框架开发，JS的基础好以后学什么框架都很容易。建议学习前端的都把JS的基础搞扎实。
  ## [你们看过网络小说中哪些情节让你觉得作者没生活常识?](https://www.zhihu.com/question/35751666)
- > 男主失忆了，女主是穿越的医生，女主找了把刀，在蜡烛上烤了烤，然后，给男主做开颅手术，开颅......凿开脑壳以后用水蛭还是什么玩意儿把男主脑子里的瘀血还是什么玩意儿的吸干净了，最后男主就恢复记忆了....emmm没...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ > 之前记得看过一个三国穿越小说，开篇一段大概情节是这样的！小说男主穿越后醒了过来，看见一个美丽女子正端着一碗汤，正准备喂给他喝。男主躺在床上使劲了全身的力气问：”敢问美丽的小姐现在是什么朝代？“美丽女子...
  ## [UI设计师都用什么工具？](https://www.zhihu.com/question/30367494)
  > UI设计师必备的五款界面设计工具 工具的重要性对于设计师来讲不言而喻。任何想法都需要借助工具来实现。想要成为一名出色的UI设计师，你需要多掌握一些技能，才能增强自身竞争力。同时也给那些想转行做UI设计师...
  ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
  > 李书福和李想两位行业大佬，说的观点都有道理。荣威君也来谈谈自己的看法。确实，互联网改变了这个世界。有很多行业被互联网颠覆了。比如手机：智能互联网手机迅速取代了传统功能手机，并且在这个过程中，诞生了小米...
+ ## [云钱袋投资是否安全？](https://www.zhihu.com/question/35903879)
+ > 1.上线时间：2014年6月份上线，平台安全运营4年多；2.注册资金：5000万元 （实缴资金：5000万元）；3.平台背景：民营；4.银行存管： 西安银行；5.有ICP经营许可证，未加入互联网金融监管协会；6.法人信息及股权：...
+ ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
+ > 本题目下面的答案可以说是乌烟瘴气。结论放前面，NAT技术没有拖慢“互联网产业”的发展，但今天无疑NAT对于“互联网（The Internet）”的进步还是有明显的阻碍的。答案下面无法区分互联网产业和互联网本身，...
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
  > 估计有不少人以为是创业这碗饭狼多肉少，故意劝退，或者是以为嫉妒提问的天纵奇才，不想让他成功。但是我是这么认为的，首先别的不说，如果你要创业的话，肯定是需要一往无前的态度和精神，结果创业前还要上知乎上去...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [如何防止多IP恶意刷短信验证码？](https://www.zhihu.com/question/35012702)
- > 这类情况的出现主要是由于无验证码识别人机导致的恶意行为，最直接有效的方法即增加验证码内容。相关阅读：验证码有什么作用？为什么有些验证码看起来很容易但是没人做自动识别的？滑动验证码的原理是什么？利益相关...
  ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
  > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
- ## [携程网的商业模式是什么样的？](https://www.zhihu.com/question/20357176)
- > 商业模式的创新跟优化是每一个企业都很看重的问题，携程能够发展到今天这种规模，商业模式起了决定性因素。商业模式决定了企业如何盈利、接下来的发展方向，讲的是赚钱的本质，所以分析携程的商业模式有一定的借鉴意...
+ ## [又一家装修公司倒闭，继苹果装饰连锁店关门外，这次一号家居网互联网+装修公司也连着关门究竟是什么原因？](https://www.zhihu.com/question/276583095)
+ > 最近也有客户有这种担心，其实究其原因，不是互联网家装缺乏发展潜力，而是很多企业把互联网家装理解地过于简单，抛弃了互联网精神，只是把互联网作为工具，实际上做的还是商业本位的家装，忽视了线下交付管控和用户...
  ## [数据分析中，你认为用户行为分析最重要的3个点是什么？](https://www.zhihu.com/question/19686197)
  > 严正声明，用户行为分析的点太多，这里只是分析思路，请按照自己的情况进行选择首先需要看数据分析目的，这个毋庸置疑。不过整体不外乎以下几个目的：对内：产品迭代，对外：精准营销1：产品迭代分析用户行为就是诸如...
- ## [25岁，如何职业规划？](https://www.zhihu.com/question/56701107)
- > 如何发现自己的天赋和能力，找到自己适合的职业？☀和我交流过的大部分人其实多多少少都有些清楚自己能够做的是什么，可是为什么我们总是做得没有别人那么好呢？ 原因有二：✨一方面，你没有别人那么努力，我们经常说...
+ ## [滴滴和快的打车比赛砸钱这种事，在美国互联网历史上是否发生过？](https://www.zhihu.com/question/22621645)
+ > 砸钱的案例，在很多国家的市场上都不停地上演着，而且成功的不少，著名的如下边两个：案例一：20世纪90年代和21世纪初美国在线AOL的“试用邀请”，让美国在线成为互联网接入提供商的巨无霸。AOL将他们的拨号上...
 # IT 技术 
  ## [如何利用DeepFM算法设计推荐系统](http://developer.51cto.com/art/201808/580817.htm)
  > 如何利用DeepFM算法设计推荐系统
@@ -119,10 +119,10 @@ categories: IT NEWS
  > 从零学习人工智能，开启职业规划之路！
  ## [50岁的程序员该何去何从](https://blog.csdn.net/oiio/article/details/81413825)
  > 50岁的程序员该何去何从
- ## [Java 线上问题排查思路与工具使用](https://blog.csdn.net/valada/article/details/79909861)
- > Java 线上问题排查思路与工具使用
  ## [手把手教你写一个中文聊天机器人](https://blog.csdn.net/valada/article/details/79909890)
  > 手把手教你写一个中文聊天机器人
+ ## [Java 线上问题排查思路与工具使用](https://blog.csdn.net/valada/article/details/79909861)
+ > Java 线上问题排查思路与工具使用
  ## [15个变态的Google面试题以及答案](https://blog.csdn.net/mxw2552261/article/details/81278688)
  > 15个变态的Google面试题以及答案
  ## [同宿舍的程序员毕业五年的现状：有人年薪百万，有人月薪一万](https://blog.csdn.net/csdnsevenn/article/details/81463930)
@@ -131,20 +131,20 @@ categories: IT NEWS
  > 我清华毕业，在龙泉寺写代码
  ## [攻略 | 教你拿下梦寐以求的Offer（多资源）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/81278734)
  > 攻略 | 教你拿下梦寐以求的Offer（多资源）
- ## [信心满满的去面算法工程师，竟然凉了...](https://blog.csdn.net/l7H9JA4/article/details/81463955)
- > 信心满满的去面算法工程师，竟然凉了...
- ## [人工智能帮助预测混合用药的副作用](https://blog.csdn.net/gS780J/article/details/81463932)
- > 人工智能帮助预测混合用药的副作用
- ## [知数堂全网通缉这个人](https://blog.csdn.net/n88Lpo/article/details/81295273)
- > 知数堂全网通缉这个人
  ## [程序员为什么一定要加班？](https://blog.csdn.net/xJ032w2j4cCjhOW8s8/article/details/81351591)
  > 程序员为什么一定要加班？
  ## [万亿美元苹果，以及它走过的42年（最全复盘）](https://blog.csdn.net/LrS62520kV/article/details/81463900)
  > 万亿美元苹果，以及它走过的42年（最全复盘）
- ## [笔试刷题-网易](https://blog.csdn.net/m0_37794421/article/details/81474334)
- > 笔试刷题-网易
+ ## [机器学习算法概览](https://blog.csdn.net/tkkzc3E6s4Ou4/article/details/81463974)
+ > 机器学习算法概览
  ## [大学老师：我第一次哭，是那年改了学生的期末试卷后……](https://blog.csdn.net/zw0Pi8G5C1x/article/details/81267578)
  > 大学老师：我第一次哭，是那年改了学生的期末试卷后……
+ ## [信心满满的去面算法工程师，竟然凉了...](https://blog.csdn.net/UFv59to8/article/details/81463874)
+ > 信心满满的去面算法工程师，竟然凉了...
+ ## [笔试刷题-网易](https://blog.csdn.net/m0_37794421/article/details/81474334)
+ > 笔试刷题-网易
+ ## [AI以假乱真怎么办？TequilaGAN教你轻松辨真伪](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/81463899)
+ > AI以假乱真怎么办？TequilaGAN教你轻松辨真伪
 # 人工智能 
  ## [从零学习人工智能，开启职业规划之路！](https://blog.csdn.net/HHTNAN/article/details/81182916)
  > 从零学习人工智能，开启职业规划之路！
@@ -152,8 +152,6 @@ categories: IT NEWS
  > 高斯判别分析（GDA）Python代码
  ## [Pytorch 自动求导: 自动微分 初体验](https://blog.csdn.net/duan_zhihua/article/details/81516071)
  > Pytorch 自动求导: 自动微分 初体验
- ## [最大似然估计的理解](https://blog.csdn.net/liuchenbaidu/article/details/81507850)
- > 最大似然估计的理解
  ## [【机器学习-学习笔记】单/多变量线性回归、多项式回归、逻辑回归、过拟合、正则化](https://blog.csdn.net/m511655654/article/details/81507857)
  > 【机器学习-学习笔记】单/多变量线性回归、多项式回归、逻辑回归、过拟合、正则化
  ## [老卫带你学---从编程实现角度学习 Faster R-CNN（附极简实现）](https://blog.csdn.net/yixieling4397/article/details/81507995)
@@ -176,8 +174,8 @@ categories: IT NEWS
  > 《TensorFlow技术解析与实战》PDF版
  ## [深度学习超分辨率重建（三）： TensorFlow—— ESPCN](https://blog.csdn.net/xjp_xujiping/article/details/81508667)
  > 深度学习超分辨率重建（三）： TensorFlow—— ESPCN
- ## [\[图像处理\] Python+OpenCV实现车牌区域识别及Sobel算子](http://blog.csdn.net/eastmount/article/details/81461679)
- > 由于最近太忙，这篇文章只给出相关代码供大家学习，过一段时间会详细的写一些列Python图像处理的文章，包括各种算法原理、图像识别、图像增强、图像分类、深度学习等。本篇文章主要调用OpenCV库（cv2...
+ ## [三类参数估计方法-最大似然估计MLE、最大后验概率估计MAP及贝叶斯估计。](https://blog.csdn.net/liuchenbaidu/article/details/81508708)
+ > 三类参数估计方法-最大似然估计MLE、最大后验概率估计MAP及贝叶斯估计。
 # PM 
  ## [万字长文详解手游类产品的数据驱动方法（下）](http://www.chanpin100.com/article/107337)
  > 【小百摘要】数据驱动的意识、方法、工具与案例全解析。
