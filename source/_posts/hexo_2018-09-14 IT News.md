@@ -1,51 +1,51 @@
 ---
 title: 2018-09-14 IT News
 copyright: true
-date: 2018-09-14 08:00:59
+date: 2018-09-14 09:01:23
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [AI智能锁是噱头还是行业新希望?](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=3hAaJlI4vTz1y9modCILP9SIHjL3lZItgqYgCuIrAQ8jLCOnoiDCdZ4SKEdq4WCO2nxeyEwGRViECqsG9wlYF56RCBlvaoqpe9y9XiHhQfIzOuO2*RAZfOfmC7daRYNb&new=1)
- > 近年来随着智能家居行业的爆发，其中受益最大的当属智能锁了。智能锁也被认为是智能家居行业的敲门砖，因而成为各行各业巨头的布局对象。除了传统的锁具厂商，安防、家电、互联网、电信等纷纷加入。据全国制锁信...
- ## [告别ATM黄金时代，这家公司如今要升级“人工智能+”，董事长称未来服务业收入将远超制造业](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=adCiNXX*vctVX4PX0lczCCoizHQ9vKZo5pT*n*oEcn4LJEkEVIl*Z8z2Bzk9r0NtuehPJHZ2SS5jqnnUJG5uJ*2s2q*0t3*nk5-ZmK5R9sYc-cMkCfN6ZYI7fOmwnyAZ&new=1)
- > 从银行ATM机起步，到攻坚钞票识别技术，打破国外垄断，广电运通已连续十年占据国内ATM市场头名。却不止步于此，2017年末，广电运通正式开启&quot;AI(人工智能）+&quot;战略升级，智能金融、智能交通、智能安全、智能便民等...
- ## [视觉盛宴!中国电信点亮猎德大桥，为第十届天翼智能生态博览会打call!](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=Whs5VxKhabjlO01P133-ykK8lmHt-0OrQJfVS62CRdsEL*n16BkeqftAWXMUFon-hl7xMbMz5QTwnSqUjL8agLip62eUogM4WXkZi60QdVQ5otSq-SBHSGxlxPBAjl3E&new=1)
- > 平时车水马龙的猎德大桥今夜格外灯火璀璨、熠熠生辉有咩大事发生？9月12日晚天翼点亮广州猎德大桥为第十届天翼智能博览会打Call闪烁着“天翼博览会，电信5G，华为麦芒”的猎德大桥宛如星辰 点缀着羊城的夜空寓意...
- ## [从郡县治到郡县智丨华为要做智慧城市的沃土、黑土地](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=8hNzOdYf2pNVjSAUJ8v0G0*oAUAlGi2avFAQm853FHeF5pyj4xRnr-3dBAwKzypxNZd9LnVp9IVnxA1fZ5sdF9B8x*Fv3mKwyw4BlizIifzMZhWNUh8e2FtbU*4V58KJ&new=1)
- > —— 本文作者 丁常彦古人讲“县集而郡，郡集而天下，郡县治，天下无不治。”但一直以来，通过加强“郡县治”实现“天下安”都是一个难题。如今，以云计算、大数据、人工智能等新技术应用为核心的智慧城市建设，...
- ## [中国联通亮相"2018世界电信展"推出5G创新业务](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=LZJTPPOI9FpqLwCq2B8uP-apszXIrRdxPxje5VUif70BEL3jQg7C1Ga7D5ucnMlil0y0Osjt-*33eqRtXpaDJsCehRchZZeLBq3DX2Mnry3RIsbD7lGJkSfUWarKXg2j&new=1)
+ ## [中国联通亮相"2018世界电信展"推出5G创新业务](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=LZJTPPOI9FpqLwCq2B8uP-apszXIrRdxPxje5VUif70BEL3jQg7C1Ga7D5ucnMlib56Kq5mRvrI5*HBx*2i5SsRAd7-8xQbrorrpR8pjFg9C5acJCgRO0*O2jMAhsSHE&new=1)
  > 9月10日至13日，由国际电信联盟ITU主办的&quot;2018世界电信展&quot;在南非德班国际展览中心举行，大会主题为&quot;利用创新实现更加智慧的数字化发展&quot;。中国联通作为本次展会&quot;中国国家展团&quot;重要成员，依托&quot;匠心网络&quot;、平台...
- ## [5G已来，通信工程师该如何应对变革?](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=FWLv-EDuyL1zBunUb43zbGoDD-Ht2R1MWjsfVaHtmnhXyHFJ6A99uE5K3ZBZz9K3O38NLQRYD8rleoubk0R1QLtcXLlksK6vePuWup3YX48KK4bDWwqVwNmrdTXuwWQr&new=1)
- > AT&amp;T 两年内将完成网络转型，大半员工恐遭淘汰；沃达丰对5G网络提出网络性能自动优化和故障预测要求；SoftBank部署端到端自动化运维战略，运维人员将减少一半；这不是骇人听闻，这就是真实的5G；这都是运营商针...
- ## [Bianews快评：让手机价格越来越高的苹果公司，对区块链却无从下手](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=0YPZ3UBEJdWd0BIz-zRqVE-oKUuH0DhaiAC4J6RyZMoIot9hcq-TRU4rdjr0M3EkcNfGRiakbL84zUse*7tP5ZUFZ3rKsTFKPub6442xoOLldngiY4O2jK0YS6whRNWm&new=1)
- > Bianews报道 今日凌晨，苹果举办秋季新品发布会，发布了三款iPhone新品，分别是：6.1英寸的iPhone XR、5.8英寸的iPhone XS、6.5英寸的iPhone XS Max。当苹果公布价格后，不少网友纷纷表示，苹果的手机
- ## [你应该了解的6个大数据区块链项目](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=ycC8rO1TRAicNmcpiFawT*1qJ-zlGDqvgdtQzx4NWr99WX9A6hELuatiJNksfKVhgRv9-4dgDaMfEUleII7v2SBI74fTLYlNe6aMYIvJlHyPSOVyft-G7jUWGg-jIohn&new=1)
- > 关键讯息，D1时间送达！如今，区块链已证明了它的价值存在，那么它将如何帮助大数据，以及大数据如何促进区块链技术的应用和发展?让我们了解一下将这两种技术结合起来的六个大数据区块链项目。如今，区块链已证...
- ## [天翼展十年大考：为什么中国电信和华为联手推云VR产品?](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=CvBZsmnP0vk0rEUSgz-rxeljZIt8QRW3DW22xOtgoWrwAHIYqj4bOzTCU3-MTT1VbB*mYFQdjipsAbmIeQ8oI1yMVvM1TU4Tnss8Iid2xUn7znNHhs48OR*1Wjc2JJiQ&new=1)
- > 9月13日，在第十届天翼智能生态博览会上，中国电信与华为公司联合推出了云VR产品。中国电信副总经理高同庆表示，云VR是中国电信和华为成立BJIC商业联合创新中心后在智慧家庭方向上的重点产品，也是与产业链各方...
- ## [权威解读：国家健康医疗大数据标准、安全和服务管理办法](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=fSCESEtnHMq6d1o08Tntr57a6vXQeNoNIkwYPvmLmVC3hyqkRb*cQmcocj0xLtaRHc6Ffoz1szVHOTHr00oX2MIsPv-ljBQS3P2qMVdQ3xQ8Q40Ay8ir2IkND0Ychdlh&new=1)
- > 一、《国家健康医疗大数据标准、安全和服务管理办法（试行）》的背景和意义是什么？ 　　党中央、国务院高度重视健康医疗大数据的创新发展。习近平总书记指出，要运用大数据促进保障和改善民生，推进“互联网+医...
- ## [创投|助力创新企业发展，共赢智能新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=g*ynJnGgVYP4lkqRtXv4Y1D9rGHXW4N9dc*d-Mvu3vi20W8zmnPRUFGe7l30f190lAe0Y5nXD3Q5Aa*OALEQud76FJpOSHHIPJ4DQ5EHag-HxBxQ2V7O4JKpw-F8wH6X&new=1)
- > “2018天翼智能生态博览会”今日在广州盛大开幕，作为展会主办方之一，Qualcomm 携AI、移动计算、C-V2X 等领域最新技术惊艳亮相。 聚焦前沿科技领域，Qualcomm 创投大胆为“未来”下注，通过技术创新和分享助力...
- ## [中国电信正式启动Hello 5G行动计划：将在17个城市进行规模试验](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=B-fpINAe1VGsd9x83TEGJcpCqVelfhqyXyqvfm*3ccJzfMO4WEpKF0nQFHDQgvfDij5k58gcYEKVXLO6ZK4Ujbuh6gFCMi5aCSimV4bZo8ZquojS71HJaMhtadZ0BGzk&new=1)
- > 在今日举行的第十届天翼智能生态产业高峰论坛上，中国电信董事长杨杰透露，中国电信将成立5G创新中心，全力做好5G研究创新；打造5G示范工程，开展17个城市规模试验；按照总体规划，加快各项准备，力争到2020年实...
- ## [仗剑江湖，安全同行|WitAwards 2018年度安全团队「报名进行中」](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=eIvbw84uaqmnQk4gNo-pI-Qkbyuqk09Lgtt4CRR1T7f*bdOjZn0qII2*DnNQ1AcGeMZo-ePhEvZnaZP6p4r8s8Mtivx65pidK548lt2r25413ROlfVmx2qhpLN9cbRy1&new=1)
- > 在安全攻防的战场，个人的力量总是渺小的，要在激烈的网络攻防中胜出，要靠团队的力量。有人在前线突击，有人在后方钻研，取长补短，果断迅速，才能创造出精彩的成果。我们将选出本年度在行业内最具影响力的安全...
- ## [实践多年，中国云CRM厂商真的跟上用户步伐了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=dvFttqFckSsqMKacVxjSurIumwUAIVM6drqCA4sVirvhPcSFNZwubg8Q*VRMce1Ir1EmIrG1*w6GPXwTX790klrpgUh0HV8hd0RAAXuPLu69j5rei1taq6dOa*9A-Oiw&new=1)
+ ## [OFweek 2018中国物联网大会暨展览会隆重开幕!](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=WN9KekHNnBv*SsXfd3Tr42EMwd0F9PRuC116f6xUM4zTlR*19bUwRzmYKdNy5urHT*Uhvbs8alryI6pgpaTQoYWd8YAWdM3-wjMMQqgQR5ZLkt54ssiUBIJkA37mfPvJ&new=1)
+ > 9月13日，由中国高科技行业门户OFweek维科网、高科会主办，OFweek物联网承办的“OFweek 2018中国物联网大会暨展览会”在深圳拉开帷幕。作为国内物联网行业最重量级的行业盛会之一，本次大会聚焦智能制造、智能家...
+ ## [从郡县治到郡县智丨华为要做智慧城市的沃土、黑土地](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=8hNzOdYf2pNVjSAUJ8v0G0*oAUAlGi2avFAQm853FHeF5pyj4xRnr-3dBAwKzypx*u7p1CNydrJtNdmCG1azDSY6AIzCGh3qk0w35FIABMLSHcnIPc4r5vyxbKDilSRp&new=1)
+ > —— 本文作者 丁常彦古人讲“县集而郡，郡集而天下，郡县治，天下无不治。”但一直以来，通过加强“郡县治”实现“天下安”都是一个难题。如今，以云计算、大数据、人工智能等新技术应用为核心的智慧城市建设，...
+ ## [百度云携手英特尔 业内首推Optane+QLC存储解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=o91ZZUSy2OwejA47mnEm2LHydPp-B69bcHHzwv1r1FEcQ*xPcHHbtLLc8LyxcdsN0v8SApPzib9g3ERIEA2dqMC4hkwM*CVt*kOSdBkTSRXEs1XRHSK1YUd7yTe8rlW3&new=1)
+ > 日前，在2018 ABC SUMMIT百度云智峰会上，百度云与战略合作伙伴英特尔再联手，发布新一代对象存储系统、于业内首次推出Optane+QLC存储设计方案，以及基于OpenVINO的视觉计算方案等解决方案。大会现场，合作双方...
+ ## [微软神操作：阻止用户安装谷歌和火狐等浏览器](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=qeqV10s-BgTXb*H-Vvg8WEacdkqvSas7GkxdH2V0hn7BeWa0NHebzygq5OLhUpQEBRorl0ylfbkXGg0sCDPyBMCO6kDvnToh9B3ic9TOSbzmQGsfqquTcDHo6UG-6hOH&new=1)
+ > 微软在Windows 10系统里预留许多建议或者广告模块方便调用，这些模块通常用来推荐与微软合作的应用。然而在需要的情况下微软也可以直接通过云端修改策略，在桌面或者任务栏弹出广告诱导用户使用自家产品。此前已...
+ ## [多人对讲-解锁骨传导耳机体验新姿势](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=fJ4JC76bx04CGVbe9vAj*feFesVcqcM5CYWlvW9OFHTT5b0kNjl6aayfjKP-HjKqhy7ZCWPZSCZ*EcMVKOFn5R*aKgv4IOXnGGbXGxo4FQv9HyOqRxxPoEndWe-d1Xnb&new=1)
+ > 对讲技术是一项伟大的发明20世纪40年代，世界上第一台手持对讲机由摩托罗拉研发出来，并被应用于第二次世纪大战当中，在战争中这种便携式的通信设备发挥了巨大的作用。如今70多年时间过去了，对讲技术仍然没有被...
+ ## [告别ATM黄金时代，这家公司如今要升级“人工智能+”，董事长称未来服务业收入将远超制造业](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=adCiNXX*vctVX4PX0lczCCoizHQ9vKZo5pT*n*oEcn4LJEkEVIl*Z8z2Bzk9r0NtoPGhqn0yAEW1BebdkKGDLvIaTT8zyrX8Oo7oUdqKrwni3dRMoHbZ1PDo84j8UdQD&new=1)
+ > 从银行ATM机起步，到攻坚钞票识别技术，打破国外垄断，广电运通已连续十年占据国内ATM市场头名。却不止步于此，2017年末，广电运通正式开启&quot;AI(人工智能）+&quot;战略升级，智能金融、智能交通、智能安全、智能便民等...
+ ## [实践多年，中国云CRM厂商真的跟上用户步伐了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=dvFttqFckSsqMKacVxjSurIumwUAIVM6drqCA4sVirvhPcSFNZwubg8Q*VRMce1IaVT99im8KOldZMmWFN1MQeiErUm9SpXvVSBOhqgxlj4AbuZBRs0q499IXZ5etl3b&new=1)
  > “客户为王”、“客户至上”这样的口号已让人听得耳朵生了茧子，许多年过去了，企业服务商真的兑现了自己的承诺了吗？客户的需求又真的得到了满足了吗？今日，T研究发布了最新的《2018年中国云CRM 市场及用户实...
- ## [中国智能家居技术与应用论坛今天举办](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=8VQ62AQhK5V6RLFmflzrbpgD106vm5Z8mImxYuolDGjbX6PuWhzg4aw6TnVh9X1Xl191mG3Fw8DVOCl6d-RKKOQCsX7Quh31Nxz2cOnVM6PqnlhxED*hiOB4sH8vhv6a&new=1)
- > 近年来，随着物联网大规模的普及，与各行业的交叉融合，逐步发展成为“互联网+”的高科技市场。作为物联网的标志，智能家居也随即成为各国物联网企业全力抢占的制高点。1984年世界上第一栋智慧建筑在美问世，而...
- ## [自如委托检测机构无资质，被立案调查|搜狗推出内容平台“搜狗号”\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=DyJTY-1UWxOWqck2n*d0ZpCurJSmiXHnyDk7LEWRhlSb9-OfSo6AIfPCnpN8WdC1TFB0DKJ728hAIMvCIuUidRjT59ORoaOfkzWqW44DTQv0VHs2C0tSiHJRXmzSHSTQ&new=1)
- > 编辑 | 陸迩苹果回应官网下架iPhoneX：给运营商和渠道商去卖，没停产苹果发布3款新手机后，有网友发现苹果官网上找不到购买iPhone X 页面，认为iPhone X已经下架，还有人以为iPhone X已停产。对此，苹果方面表示...
- ## [红芯造假：穿上创新的“马甲”危害更大!严惩伪创新才是尊重创新](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=FCY3AcNWjJDSUWwt0QKI63IZ8hCtxBzuhvgH70VdXC5oAV14RQ66mzZRBpCkqyDQu46PtuEMmwQIhrM0b7XmNP0mLkuzdim-uvWrilj7Djp6STQdwmIKc6Zt5Qom-y34&new=1)
- > 科技日报记者 张佳星 近期，红芯事件引发了计算机界的激辩。 8月15日，红芯国产浏览器被曝并非自主创新，网传视频解压其底层代码显示大量文件照搬谷歌浏览器旧版。事件发生后，红芯方面包括创始人陈本峰始终表示...
- ## [NEWS|新大陆自动识别公司成立“深圳分中心”](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=TT6A6s2C3LxTymPtIcilL2o5tlFBsBJZdOKOYbl*8n*ZUyU86kL3*-wQQnqe6grBN7UP2ORGwO3NcSFgkpkh1EdA1AvLTFHRASSFLiFRMDJMk2bDCrcpDvJjQQDNKhmT&new=1)
- > 本刊讯：新大陆自动识别公司产品与技术中心“深圳分中心”今天上午成立。公司将依托华南地区丰富的技术与方案资源优势，为客户提供更具竞争力的产品和解决方案，同时也能更好地服务华南地区的战略客户。该中心的...
- ## [能“跑”的沙发、“拐不走”的机器人，这些科技太酷炫了!](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=1EQLT-beljTWX0lOzIXnSDuAcW9lusIRiCnFomgOWsReh7IpOqPrwbvlGOE9uxktZkM7ZIn04McMiRzhrP0I2JbYml*ZehLGVHfk2mTq5k4mtGBiK6PhU958obS0Ik4T&new=1)
+ ## [能“跑”的沙发、“拐不走”的机器人，这些科技太酷炫了!](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=1EQLT-beljTWX0lOzIXnSDuAcW9lusIRiCnFomgOWsReh7IpOqPrwbvlGOE9uxkt7iTU1*qgbLmrXl4xxzuOC5oaBCYEFbi989RPoRiUcbc92peviXt-12-ePJ*zV-64&new=1)
  > 上周，三大科技产品纷纷“进军”酒店服务、医学、消防领域，为人类工作“减负”，这不就意味着人们将有更多时间“玩”起来？今晚22:00，由湖南卫视和唯众传媒联合出品、中国科学院科学传播局特别支持的青少年科...
- ## [图灵奖得主、微软AI大神、开发者大拿..2018年华为全联接大会热闹了!](http://mp.weixin.qq.com/s?src=11&timestamp=1536881406&ver=1121&signature=X*4imm-2F62Sd0axGdNXaW*KcIAUIneoBejd*4efwLy5rofJYqxYuVeyqFYiRvaKyU7AI1cL6rZBHkrcU*6q5g24NX4Z-gTTv8vUx*fi84Hw2KOpkVEsuCLV9-lXduwr&new=1)
+ ## [权威解读：国家健康医疗大数据标准、安全和服务管理办法](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=fSCESEtnHMq6d1o08Tntr57a6vXQeNoNIkwYPvmLmVC3hyqkRb*cQmcocj0xLtaR2YUhDp5zPn4KsAqGp2rpmFUWBZx0zc11HAZ5RuI5o34kBCEGAwj3quGXKKdGuYTs&new=1)
+ > 一、《国家健康医疗大数据标准、安全和服务管理办法（试行）》的背景和意义是什么？ 　　党中央、国务院高度重视健康医疗大数据的创新发展。习近平总书记指出，要运用大数据促进保障和改善民生，推进“互联网+医...
+ ## [5G已来，通信工程师该如何应对变革?](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=FWLv-EDuyL1zBunUb43zbGoDD-Ht2R1MWjsfVaHtmnhXyHFJ6A99uE5K3ZBZz9K3ajRBMJH1MBpcS8iLUIFa8tqcYR2WjCz83J8cxVhoo2WfiAjqiVSplp8y1VmOVXMm&new=1)
+ > AT&amp;T 两年内将完成网络转型，大半员工恐遭淘汰；沃达丰对5G网络提出网络性能自动优化和故障预测要求；SoftBank部署端到端自动化运维战略，运维人员将减少一半；这不是骇人听闻，这就是真实的5G；这都是运营商针...
+ ## [图灵奖得主、微软AI大神、开发者大拿..2018年华为全联接大会热闹了!](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=X*4imm-2F62Sd0axGdNXaW*KcIAUIneoBejd*4efwLy5rofJYqxYuVeyqFYiRvaKpziRoLxmR9LJHtL6NsEo8w3ccHEufdBbYOJTyvwKN1Luu4*-4HPs6J-jxwRSeAGF&new=1)
  > 去年华为全联接大会的盛况还历历在目转眼间，2018年华为全联接大会将于10月10-12日在上海世博展览馆和上海世博中心举办今年，又有哪些精彩值得期待？数字化升维，智能纪降临。华为预测，到2025年全球个人智能终...
+ ## [公布了!中国电信5G推进计划出炉，Hello 5G行动正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=pdLEjYEBcQZO15omzZ0V*EGOP4PU7n2qKlMB7fjwANjIJchW5EMovUa5oCp2WovHkRs6-miVii2cZ0p3lWXD7oexKGRcvYpGF-fy1m-W48mSPh6T3IhJwGlpKMy1qI1d&new=1)
+ > 9月13日，中国电信在第十届天翼智能生态博览会上正式对外公布了其5G推进计划，在5G标准研究、5G关键技术自主创新、5G产业整合和基于5G技术的“生态圈”建设等方面进行整体部署，并正式启动了Hello 5G行动计划。...
+ ## [第二届中国智能终端大家正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=EvceXDYB*TG*y9db*DQMEIjMZRz9xhvOHCsDABM-o03kHENV6tC5jAR2-LjYoiklvoSa3VMo1wuNvNlN-7n2WE1jMrFsz9EGRstzaRIb4*lFxFn07ih2aFhDsfc7p3KG&new=1)
+ > 一个公开宣布不向企业收取任何费用的全国智能科技领域权威活动——第二届中国智能终端大奖，于9月13日在中国智能硬件研发机构聚集地深圳举行新闻发布会，宣布正式启动。智能终端产业涵盖范围非常广泛，已经深入...
+ ## [AI智能锁是噱头还是行业新希望?](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=3hAaJlI4vTz1y9modCILP9SIHjL3lZItgqYgCuIrAQ8jLCOnoiDCdZ4SKEdq4WCOo1KEeqy6GIipzI*lnKt-*yTJ6WD5Ht3QOormWpC-Gtv1mjA7iH3dQUysk5P-Hy6c&new=1)
+ > 近年来随着智能家居行业的爆发，其中受益最大的当属智能锁了。智能锁也被认为是智能家居行业的敲门砖，因而成为各行各业巨头的布局对象。除了传统的锁具厂商，安防、家电、互联网、电信等纷纷加入。据全国制锁信...
+ ## [2018中国存储与数据峰会，洞见数据存储未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=SGgWTpSVflf5jnBdYWeA3GndZARAN55dT17kKSTBil21wtKqfwLiDvA2tbyp*tbPRlk363n3YQmBQSupSEuelVEiUvriENhPvstf1Aj4OQa-Gty2IvfWk7vjUdqO6LNB&new=1)
+ > 由百易传媒（DOIT）举办的“2018中国存储与数据峰会（DSS）”将于今年12月11日-12日再次在北京与广大朋友们见面！随着云计算、大数据、物联网、人工智能等信息技术的快速发展和传统产业数字化的转型，数据量呈现...
+ ## [NEWS|新大陆自动识别公司成立“深圳分中心”](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=TT6A6s2C3LxTymPtIcilL2o5tlFBsBJZdOKOYbl*8n*ZUyU86kL3*-wQQnqe6grBqd7Qy-*6WEEIL5n7dE0Ayke2YfTw0JGZDfTiS44Y6aGzOc4LzjiYGlnWvvtCZeJ3&new=1)
+ > 本刊讯：新大陆自动识别公司产品与技术中心“深圳分中心”今天上午成立。公司将依托华南地区丰富的技术与方案资源优势，为客户提供更具竞争力的产品和解决方案，同时也能更好地服务华南地区的战略客户。该中心的...
+ ## [\[CFMS2018 倒计时\]9月19日，你想见的存储产业大咖都在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=2oymLVJ0*PAbW8MFOc**M*v-XMTt6TyjZTNDfZ8mBlzy66GYvo6ZBiAg6YDXQb9p4r1s31SRhD8FpxuXeIGkCr-cu4utLDzzljWJCTX7EVGT9pFCywF1rxGxhp4XR1WM&new=1)
+ > 2018年中国闪存市场峰会（CFMS2018）将于9月19日在深圳华侨城洲际大酒店盛大举行，齐聚国际产业巨头和国内领袖企业，诚邀18位产业大咖，以存储为核心，从芯片制造到终端应用，涵盖NAND Flash芯片制造、IC主控设...
+ ## [外媒称对抗性机器学习存漏洞 黑客攻击轻而易举](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=0NSTNIoMIxoaEgV5YC1GylVEMu5vRqLlXYZ22DqDbchl95EgQDxqZ*4JXabR1kimrtd*IHkxMU4h-i3QQKaBWaWMfHnm2YmjgVuUIGU*HjAWEi9uTyWmV3aC4lnTCmp0&new=1)
+ > 来源：Wired,网易智能 据报道，数据为人工智能革命提供了动力。然而安全专家们发现，完全可以通过篡改数据集或现实环境来攻击人工智能，对抗性的机器学习研究表明人工智能可能会被黑客攻击，从而做出完全错误的...
+ ## [天翼展十年大考：为什么中国电信和华为联手推云VR产品?](http://mp.weixin.qq.com/s?src=11&timestamp=1536885007&ver=1121&signature=CvBZsmnP0vk0rEUSgz-rxeljZIt8QRW3DW22xOtgoWrwAHIYqj4bOzTCU3-MTT1VOvqNfUSFecYpRKOTRNm3tYkFqKAWCNy3ec2IB1japvy21pgZPD1bbpQrue6lbC2Z&new=1)
+ > 9月13日，在第十届天翼智能生态博览会上，中国电信与华为公司联合推出了云VR产品。中国电信副总经理高同庆表示，云VR是中国电信和华为成立BJIC商业联合创新中心后在智慧家庭方向上的重点产品，也是与产业链各方...
  ## [互联网公司都有哪些岗位？具体是什么职责？](https://www.zhihu.com/question/26755083)
  > 这个问题要想回答好难度不是一般的大，请来一位有8年HRD工作经验的职场老司机来帮忙回答。VV，暖石网负责职业规划教学模块的老师，海外某校劳力经济与人力资源管理专业硕士毕业，她将根据自己专业知识+工作经验...
  ## [小红书店铺最大的优势在哪？](https://www.zhihu.com/question/293962215)
@@ -54,10 +54,18 @@ categories: IT NEWS
  > 最近也有客户有这种担心，其实究其原因，不是互联网家装缺乏发展潜力，而是很多企业把互联网家装理解地过于简单，抛弃了互联网精神，只是把互联网作为工具，实际上做的还是商业本位的家装，忽视了线下交付管控和用户...
  ## [北京物联网APP开发公司哪家好?](https://www.zhihu.com/question/264886051)
  > 一定要找技术经验深厚的，10以上研发经验及BAT技术背景最靠谱。不要找不了解需求就定价格的：因为如果不了解需求就定价格，在途中因客户而产生的变化会增加工作量，谁都不愿意承担多出来的工作量和工时，这会增加...
+ ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
+ > 吴军老师的浪潮之巅，强力推荐。这本书很有兴趣的看完了，目前正在看无论老师的文明之光
+ ## [网络兼职究竟是真是假？](https://www.zhihu.com/question/27791069)
+ > 网络是一个利弊互存的地方，有人通过网络赚钱了，有人因为互联网赔了不少钱。如果要问我：“你想通过互联网赚钱吗？我会很诚恳的告诉你，我想，而且我非常愿意通过互联网来赚钱！如果再问我，你想通过哪种方式赚钱，...
+ ## [如何看待翟欣欣 5.21 日发长文透露苏享茂患乙肝病史，并称其对自己施暴？](https://www.zhihu.com/question/278156775)
+ > 2017年9月7日凌晨，WePhone创始人苏享茂跳楼身亡。他留下遗书，称自杀与前妻翟欣欣有关，并称翟曾向自己索要1000万元和房产赔偿，引发舆论关注。此后，节目组多次联系翟欣欣方，其律师表示翟暂不接受采访。关于苏享...
  ## [怎样做一份有效果的运营方案？](https://www.zhihu.com/question/293755873)
  > 谢邀，想了想，我还是得告诉你一个残酷的事实：在你的方案上线执行之前，没有人知道这个方案到底是不是会有效……如果你希望这个方案有效，你至少也要介绍一下大致的背景，包括公司和业务的情况，方案是哪一类，预算...
- ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
- > 先说结论，人肉搜索不是你想防止就能防止的，只要你在网上，我就能找到你。这是一个典型的安全攻防场景，攻击者的目的是获得信息，无论用什么方式；而防御者非常被动，就算被人攻击了也不会发现，你知道自己的信息是...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
+ > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
  ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
  > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
  ## [FinalSpeed为什么可以达到那么好的加速效果？](https://www.zhihu.com/question/40336042)
@@ -66,27 +74,21 @@ categories: IT NEWS
  > 1、我认为 NAT 是加快了互联网的发展，一定程度上拖慢了 IPv6 的 发展，请仔细看这句话。也千万不要把 IPv6 等同于互联网发展。没懂的看下一条。2、从用户角度，其实绝大部分用户（可能除了有 P2P 需求 的那...
  ## [适合 UI 设计师 看的心理学方面的书有哪些？](https://www.zhihu.com/question/19912275)
  > 诺曼的《设计心理学》已经够用了。其他的书不用再看了。经典心理学研究的东西离UI十万八千里，近些年发展出的认知心理学还靠点边，但是基本上都是学术派，对一般人来说，给你翻译成中文，每个字都认识，连一起就不...
- ## [李书福说互联网造车就是瞎忽悠老百姓，李想说造车新势力90%以上不靠谱。有没有比较靠谱的新造车公司？](https://www.zhihu.com/question/275719963)
- > 现在只看好蔚来，小鹏和威马。（这个回答建议同行认真看，因为至少泄露了两家企业的内部信息，绝对值一个赞）李书福和李想的话无论放在哪个行业从量变转质变的阶段，都是成立的。更直白点说，绝大部分品牌活不到行业...
+ ## [中国网民规模突破 8 亿，普及率 57.7 %，网络正以怎样的方式改变我们的生活？](https://www.zhihu.com/question/291100506)
+ > 各种事物的出现都有利、有弊。利 能通过网络 知道很多的信息。有些信息对人民的身心健康、对国家的安定、经济建设是有利的。有些信息对你的身心健康、国家的安定、是无利的、要分不清利弊，只看热闹，只是浪费了你的...
  ## [如何写一份易懂的交互文档？](https://www.zhihu.com/question/27600172)
  > 一份易懂的交互文档，从撰写到交付是什么样的？2018年，作为UI设计师的同时，还担任了交互设计师，所以这次我想写的是关于交互设计的工作分享。依旧声明：这里写的不是一种规范，只是一种工作方法，大家在具体工作...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [如何评价微博草根大V“辣笔小球”（仇子明）这个人？](https://www.zhihu.com/question/24606515)
  > 别把他当人看就好了，哦，还有他家人，也别看了，三观会毁的，一炮成名后h就拽的二五八万似的，窃取彩票足球概率什么的非得自吹，哎，不想评价他，他变的跟以前成名时那种伸张正义的不是一个级别，虚伪，是我形容他的...
  ## [蔡徐坤微博是否有大量水军？](https://www.zhihu.com/question/280582537)
  > 艾漫数据监测的是脱水数据，除去粉丝单日多次发帖的影响并且拨开水军疯狂抡博营造的数据假象（伪装成普通网民发布、回复和传播博文的网络枪手）最真实的数据现状。要说蔡徐坤微博是否有水军，答案是肯定的。但是从脱...
- ## [如何评价腾讯新推出的腾讯文档？](https://www.zhihu.com/question/273780521)
- > 1、从产品角度没有什么好说的，文档以及在线文档已经是非常成熟的产品形态。“在线笔记”是我们产品的功能之一，从我们实践经验来讲：做好一款在线文档是非常非常难的，无论是从技术角度还是从产品角度；2、腾讯文档...
  ## [2019 年校招，最值得加入的互联网公司有哪些？](https://www.zhihu.com/question/287589517)
  > 如果想进入人工智能领域，必须商汤科技！！！Pick me！Pick me！以下高能，将助你更加了解“商汤科技”以及“为什么要选商汤科技”！商汤科技SenseTime成立于2014年，短短四年时间，商汤已经成长为全球领先的人工...
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
- ## [如何看待 WePhone 开发者与其前妻之间的纠纷？](https://www.zhihu.com/question/65090447)
- > 苏享茂这个新闻，从我们团队关注到开始推送，花了整整八个月的时间。去年9月7号凌晨，苏享茂从自己北京居所楼上的天台纵身跳下，决然地离开人世，此时，距离他认识翟欣欣，只有五个月的时间。苏享茂出生于福建建瓯山...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
 # IT 技术 
+ ## [将应用软件移到云端？这3个步骤可确保良好的客户体验](http://cloud.51cto.com/art/201809/583173.htm)
+ > 将应用软件移到云端？这3个步骤可确保良好的客户体验
  ## [每天5万条告警，腾讯如何做到“咖啡运维”？](http://os.51cto.com/art/201809/583264.htm)
  > 每天5万条告警，腾讯如何做到“咖啡运维”？
  ## [边缘计算是云计算的终结者？No,云计算巨头们正在推动边云协同！](http://cloud.51cto.com/art/201809/583230.htm)
@@ -101,8 +103,14 @@ categories: IT NEWS
  > 在Linux上使用Netplan进行网络配置
  ## [美国500万个工作已被机器取代！超级AI会让人类永生还是灭亡？](http://ai.51cto.com/art/201809/583261.htm)
  > 美国500万个工作已被机器取代！超级AI会让人类永生还是灭亡？
- ## [Java性能优化的50个细节（珍藏版）](http://news.51cto.com/art/201809/583278.htm)
- > Java性能优化的50个细节（珍藏版）
+ ## [人工智能和大数据的开发过程中需要注意这12点](http://ai.51cto.com/art/201809/583384.htm)
+ > 人工智能是近年来科技发展的重要方向，在大数据时代，对数据采集、挖掘、应用的技术越来越受到瞩目。在人工
+ ## [人工智能和光纤技术，如何影响数据中心？](http://server.51cto.com/Datacenter-583383.htm)
+ > 随着数据中心的运营以及继续发展，专业人员的习惯和交流方式在不断变化，提高了网络速度，并增加了复杂性。
+ ## [遇到没？Windows 10中装Chrome/火狐时遭弹窗：Edge更好](http://os.51cto.com/art/201809/583382.htm)
+ > 随Win10同捆的Edge浏览器推出后，一代“老臣”IE退居二线，然而，操作系统免费升级、支持插件、可开PDF/ePu
+ ## [全球最热和最冷的数据中心到底在哪里？](http://server.51cto.com/Datacenter-583381.htm)
+ > 数据中心的建设和运营受到许多因素的影响。气候可以影响其位置的选择，但通常还有许多其他因素，例如当地经
  ## [关于5G你该知道的事儿](http://network.51cto.com/art/201809/583376.htm)
  > 提升网络吞吐量可以主要从三方面着手实现，即提升通信带宽，提高小区密度以及提高频谱效率。相应地，可以通
  ## [3种方法保护遗留基础设施安全](http://zhuanlan.51cto.com/art/201809/583379.htm)
@@ -113,34 +121,36 @@ categories: IT NEWS
  > 【观察】VMware：二十而冠，以梦为马不负韶华
  ## [今晚直播 | 一次性掌握机器学习基础知识脉络](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82393431)
  > 今晚直播 | 一次性掌握机器学习基础知识脉络
- ## [爬虫 - 可用于增加访问量](https://blog.csdn.net/qq_40147863/article/details/82531291)
- > 爬虫 - 可用于增加访问量
  ## [mysql的explain输出信息详解](https://blog.csdn.net/qq_34501154/article/details/82564347)
  > mysql的explain输出信息详解
+ ## [爬虫 - 可用于增加访问量](https://blog.csdn.net/qq_40147863/article/details/82531291)
+ > 爬虫 - 可用于增加访问量
  ## [用AI给黑白照片上色，复现记忆中的旧时光](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82393433)
  > 用AI给黑白照片上色，复现记忆中的旧时光
  ## [视频版ImageNet？快手搞了一场用户兴趣建模大赛  |  附前三名干货](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/82186260)
  > 视频版ImageNet？快手搞了一场用户兴趣建模大赛  |  附前三名干货
  ## [最新版产品经理的需求文档。拒绝word](https://blog.csdn.net/weixin_43170588/article/details/82586855)
  > 最新版产品经理的需求文档。拒绝word
- ## [Tomcat内存大小配置](https://blog.csdn.net/tanzongbiao/article/details/82528140)
- > Tomcat内存大小配置
+ ## [北京程序员年薪30w，想回老家开小吃店，阿里员工：这属于底层啊](https://blog.csdn.net/SpringJavaMyBatis/article/details/82468919)
+ > 北京程序员年薪30w，想回老家开小吃店，阿里员工：这属于底层啊
  ## [分布式锁实现原理](https://blog.csdn.net/D_Guco/article/details/82559099)
  > 分布式锁实现原理
- ## [在腾讯的八年，我的职业思考](https://blog.csdn.net/SpringJavaMyBatis/article/details/82588367)
- > 在腾讯的八年，我的职业思考
+ ## [Tomcat内存大小配置](https://blog.csdn.net/tanzongbiao/article/details/82528140)
+ > Tomcat内存大小配置
  ## [Java多线程学习（二）](https://blog.csdn.net/watsonliuwho/article/details/82587370)
  > Java多线程学习（二）
  ## [美女图片爬取](https://blog.csdn.net/j123__/article/details/82532914)
  > 美女图片爬取
- ## [北京程序员年薪30w，想回老家开小吃店，阿里员工：这属于底层啊](https://blog.csdn.net/SpringJavaMyBatis/article/details/82468919)
- > 北京程序员年薪30w，想回老家开小吃店，阿里员工：这属于底层啊
+ ## [在腾讯的八年，我的职业思考](https://blog.csdn.net/SpringJavaMyBatis/article/details/82588367)
+ > 在腾讯的八年，我的职业思考
  ## [C++获取GPU显卡信息](https://blog.csdn.net/u013288800/article/details/82529779)
  > C++获取GPU显卡信息
  ## [这位闯进程序员界的维密天使，她到底可以编出什么？！](https://blog.csdn.net/csdnnews/article/details/82693655)
  > 格子衫、大裤衩、人字拖、黑色双肩包以及 BlingBling 的头发放置在一个人身上时，你首先想到的是他代表了哪一种群体？ 想必很多身处 IT 届的从业者都已了然于心，这不就是程序员的经典造型嘛。所以说如果有一天这个特立独行、沉默寡言且绝大多数为清一色的群体中突然加入了一位仙女姐姐且还是其他...
  ## [史上最大最贵 iPhone 发布，支持双卡双待，附发布会完整视频！](https://blog.csdn.net/csdnnews/article/details/82684122)
  > 睡了一觉，世界已然变化！早上起来，有没有被苹果发布会刷屏？送你个开篇彩蛋，没熬夜撸直播的，下面就是中文同传翻译版本的完整发布会视频！苹果2018秋季新品发布会（中文同传声版）想省时间？就直接看下面的文字介绍吧！1.苹果发布iPhone XS、XS Max、XR三款手机和Appl...
+ ## [万顺叫车“崛起”再调查：刷单回报率超P2P，上市故事难圆](http://www.lanjingtmt.com/news/detail/37908.shtml)
+ > 此类刷单行为实质是建立了一个资金池，通过不断有新人投入资金来支撑老人的收益，但在实际运作中，平台存在一定的兑付风险。
 # 人工智能 
  ## [TensorFlow 卷积神经网络之使用训练好的模型识别猫狗图片](https://blog.csdn.net/u012373815/article/details/79222121)
  > TensorFlow 卷积神经网络之使用训练好的模型识别猫狗图片
@@ -173,6 +183,8 @@ categories: IT NEWS
  ## [Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理](https://blog.csdn.net/Teeyohuang/article/details/79210525)
  > Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理
 # PM 
+ ## [产品经理周报第36期｜滴滴安全培训计划升级；搜狗推出内容平台“搜狗号”；微信官方大黄脸 2.0 表情上线……](http://www.woshipm.com/it/1405948.html)
+ > （题图来自 Pexels，基于 CC0 协议 ）早吖各位小伙伴们周五的早晨适合来一份轻松的阅读~以下为本周的精选内容，欢迎各位尽情品味~☟☟☟ Step 1：好看 产品动态...
  ## [价格不断上涨的 iPhone，正在压榨用户的惯性购买力](http://www.pmtoo.com/article/53335.html)
  > 今年的发布会上没有“One More Thing”的传统惊喜，iPhone 已经不能够承担让用户尖叫的作用，它是苹果真正的现金奶牛。...
  ## [在路由器上搭乐高又是什么神操作？](http://www.pmtoo.com/article/53321.html)
