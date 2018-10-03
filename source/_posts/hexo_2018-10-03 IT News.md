@@ -1,51 +1,51 @@
 ---
 title: 2018-10-03 IT News
 copyright: true
-date: 2018-10-03 12:01:43
+date: 2018-10-03 17:01:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [值得关注的五大云原生技术](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=IVSBQGP9fkujk*KUK0KXfbvAqd1Q2QqUirS*K1rUOEvPUmMwYtBsHJoArSeVyV1do6u8sRm7kRO1VgkU-Dknh6hEdN93hm4BeEx193EgHCRRBxTE7eHmQ2ygDK*TwPxK&new=1)
- > 云原生（Cloud-Native）是一种文化，更是一种潮流，它是云计算的一个必然导向，是让云成为云化战略成功的基石。云计算时代，云原生技术注定将对现代化应用的建设、交付与运维产生颠覆性的影响。根据相关调查结果...
- ## [双开又隔离那些 xx 应用](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=TVSkVLCdL6foUbDZm7G15BlNRdoimq9BM4y6TsEH717hRq4UiCmYjF0Mx9cp8rA55736bnxB3gF5k8RMbKkLRym20S62FHK6cdtRq1HArAiqWOmlT-EODSLA7w2GSKUX&new=1)
- > Shelter 是一款基于 Android 原生 Work Profile 工作用户的双开应用、隔离本机数据的免费开源 Android 应用，还带有休眠功能。@Appinn来自发现频道。在之前此类应用，青小蛙推荐过绿色守护作者的应用 Isl
- ## [第一案：FBI强迫嫌疑人用Face ID解锁手机](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=mTtuPKSX7CKMeGxVahb8AipyWGB7xea7IaD*QmxE8xooscJp4DO6ymN3dYnPTm1MR8*CAqRnkYjqhju6dTQaNc-DuUx-*DMIcu6SgoXhaQ*iE29trJei3ZxujNLrWG3*&new=1)
- > 随着生物识别在智能手机上的普及，人们的指纹和面部数据是否应该得到法律保护仍然存在争议。《福布斯》发现了首起强制使用 Face ID 获取嫌疑人手机数据的执法案件。这起事件发生在 8 月份，当时联邦探员获得搜查...
- ## [小米黑科技，无卡上网，没有月租，只要一块钱](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=BPjrJ*P4u3dFBW1QmvqaW8tCyWytw3kxhow0uKr*bVib*hOTU*whEaw8d7LxOlJ2FnVZADfkohErvCXZaXEsGnn8WIqWoiiTd3fj9WkQiro990D8Yq4IW30BBnRhLXE5&new=1)
- > 流量什么的，机哥其实并不需要。爱我的机友都知道，机哥有张神卡，月流量九百多GB。八弟就不一样。自从八弟开始做生意，手机流量哗哗滴，静悄悄跑光了。所以八弟每天都要开流量包来加血，但现在的流量有多贵，大...
- ## [手机靓号争议：一棍打死运营商 难掩过度执法嫌疑](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=rpi*kh6uIycBENX*A7LYeWlldjMBJeL862PS4-1P6c3cP9P3hSvj2JUCY6He4tpZ58layIjIbqhUAJGMgSaLIid*r5WSCGH9tkN6oFTrZqEaFSjwjsnzFQOthDF51RFz&new=1)
- > 【摘要】安徽省工商部门真手机靓号的整改要求，对运营商来说，牵一发而动全身，或许与被“虎口夺食”有一拼。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：杜建民本文来源：C114通信网（C114-weixin）...
- ## [看到三大运营商员工节日出来摆摊，很是心酸……](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=ZRqYHK5297YGxdcapZF5MwczBF7LY9nagZTsi0cAbXRzMz4SN6t5qwFi4AHWNS*XXtFtUNe7GluyFplipa92FWeeaXmnYvMFDLPnQqwvQA9K-4Ix9ctTfmIZekUNzBPU&new=1)
- > 看到每到节假日，三大运营商的很多员工都不休息，还要卖力出来摆摊，就感到心酸。有这么多的行业，通信行业为啥不能像其他行业一样有序竞争，像石油、银行、航空等？ 如果中国通信行业不重复投资，也就是把重复...
- ## [联通3G设备替换搬迁揭秘：华为大规模挤占上海贝尔地盘](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=eCG9Zkxg8dTeqD3VpVO4jCy5xsHhnWMwi2bDJzrPTpbI2i-AexXZFhotu1CfIQ8KBZMGJz4HasdYyVQMpKPbLd-uWqdO-OyerAze1EEPRuDhSSYyjXEQ8kF*tblsL8Jp&new=1)
- > 近日，贵州联通成功解决更换3G设备时的不兼容问题引起了广泛关注。但运营商世界网发现了其中一个小细节，非常耐人寻味，那就是替换工作中华为设备正在大规模挤占上海贝尔的地盘。据运营商世界网了解，贵州联通在...
- ## [没想到这个省份这么强 竟然是全网通终端占比最高的!](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=D6WLZ30PhWYyg8BXL8pUxCC5PdOy-AgmuM7j-AInoNoqwDbT*mGho0jfoLFjHRnzdE7gwoNJWCVfYVOmonrdFpqUD5eK1EqUPcLH3lfeuLNvJxRavL2whB03pkjagQLo&new=1)
- > 日前，中国电信表示当前全网通终端销量突破10亿，全行业占比超过80%，然而就各省而言，全网通发展还很不平衡。不久前，有知情人士向运营商世界网独家爆料称，目前，河北省全网通终端销量占比在全国各省市中是最...
- ## [9月VR大数据：Windows MR占比7.22%持续走高，Vive与Rift差距拉大](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=g0PLGKqz0O8lOs*HBnBbdSC0UM3vWMUvJ3jNc1MNZBjtD*aXtf65zjAta44sXJ65XpZnWzBF9yPDvgsYUK1s3ioqRaP*mo4*YOoseYcWU3*AU78WiH7FcEAzjeRWfSCR&new=1)
- > hi188｜ 撰文Hello大家好，每月一期的VR内容/硬件大数据统计又和大家见面了。想了解VR软硬件行情么？关注这里就对了。我们会统计Steam平台的用户及内容等数据，每月初准时为你推送，不要错过喔！由于某种原因数...
- ## [咋回事?女子逛商场连了几分钟WiFi，卡里瞬间少了近3000元!](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=ZiCZD21pRKD48BxXFwpw1sqD1U9DMaGu3MYym5Xe6B4Ub*ERtEQkT1xiV6jEC76OHiVImQcQyCNx0Dx-kI9upesRuc4hAv5xQyJ5dbLviCI3VbiWBi1cSH3ygIK*vrVW&new=1)
- > 苏女士表示，这几次扣款十分蹊跷，没有收到任何短信验证码，银行卡里的钱就没了。她拨打了银行客服，被告知钱被用来购买某款游戏的装备。目前，民警已经对此立案调查。习惯“蹭”免费WiFi？这些安全风险你千万要...
- ## [Ovum观点：长远来看多数市场拥有3家电信运营商最合理](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=oSXgo5g9MhkuK8XYJIshWarB6h*QYI4nEcNDRvhC7YCsulOJ8SmF9ftALRbWzkc084OJc*xpH3sOcYwvq35sl2HrNHlR1rbTr5NgD6-*hc1YzYDbPwSIVug9vX5UMoMT&new=1)
- > 澳大利亚电信运营商Vodafone Hutchison Australia(VHA)与TPG已经就合并条款达成一致，合并后的新公司TPG Telecom将由沃达丰掌握50.1%的股权，TPG持有49.9%的股权。沃达丰的Inaki Berr
- ## [咋回事?女子逛商场连了几分钟WiFi，卡里瞬间少了近3000元……](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=ha54SdG6MIFFPu7fp9IQCKAd1eHozVo*kFveSHdVQruCpuXwypzyfCBKS8X1D99fMS429Pn-w8fcX3Q-dpIW5ET*5K4vDlSZvPo8BSMNwBkLsbkvXwHshkW7Ohri7srs&new=1)
- > 苏女士表示，这几次扣款十分蹊跷，没有收到任何短信验证码，银行卡里的钱就没了。她拨打了银行客服，被告知钱被用来购买某款游戏的装备。目前，民警已经对此立案调查。习惯“蹭”免费WiFi？这些安全风险你千万要...
- ## [欢呼!中国移动8元套餐回来啦](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=DFr3RzfwFJnV7jA73MIKcNlzmppisS-GdUbnghhRGbY19O5mHMeCyCmNF4M2wNOGGbiGeP1O8iKI9nIAEoMd*66tcWyDvdItaQIhyRFUFChr6JVsKM0m8EyeAVpf0785&new=1)
- > 现在手机号可以说是人的“第二张身份证”了，绑定了银行卡、微信、支付宝以及诸多其他互联网APP，想要换个号可以说是牵一发而动全身，麻烦得不行。但是有些时候不得不换号，比如说学习和工作换地方了，在这种情...
- ## [BAT or TMD?究竟谁制霸了整个互联网行业!](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=sYd6pyuqr6x2w*ZZKj6tubIYl8B8f9bY7niS1n6Wqekk8ufzkn8Z8ArKdgNUPpBNy*4FEF8rq44Txdkw9KiWQ1NtCdXR3X9LE3*Pdg4IeZ66aiL5v0SJYEOj*c-aPzhM&new=1)
- > 作者 | 徐麟责编 | 郭芮随着互联网行业的日益兴盛，吸引力越来越多的牛人加入其中，也有许多小伙伴跃跃欲试，想要在互联网的浪潮中大展身手。今天我们通过看准网的数据，帮助大家对各大互联网公司有一个比较概括...
- ## [国庆出门,公共免费WiFi到底能不能连?七招教你安全使用!](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=s0FJgIWmMuy7O0IP2BdNRL2YGt55OSRmJ6oZNK4MZBW4UyDAmFcnyrLv-m*Xo-16RjhTRWAuPUb9rCbM0UcphOlt8KugE3O-5kqo6rfCEKsjFraLhGIeKKpFlXJscQFV&new=1)
- > 在您开心的享受网络同时，您是否在意潜在的安全隐患？我们说几个真实案例！家庭WiFi：3小时可暴力破解PIN码和无线密码在北京市的一个WiFi安全测试志愿者家里，手机安全工程师对用WiFi密码进行了分析破解。测...
- ## [才连了几分钟商场WiFi，女子卡里瞬间少了近3000元!](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=1PWiknXTKJ3dJa2W21yggxwyYNaspAbGt0j5nuujHTq*ki7NNyBGY1RC438lQHmka-0Jr8vfpfbQxt1wy8m5WrtxdpS9JfuP8sn-SCjTV2Bj9p2wzqMdbc*V6PhEG3Xw&new=1)
- > 来源：江苏新闻出门在外，你习惯用手机连接附近的公共WiFi上网吗？前几天，南京的苏女士连了一个公共WiFi，结果银行卡里的钱瞬间没了！事情发生在9月23日，当时苏女士逛商场时想用手机上网，便连接了一个公共WiF...
- ## [小鹏汽车何涛：AI座舱来了!三大技术与四大机会|GTIC深度](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=j-g7gisivD3kZthajqmUbCphV4Rub7twBTaJ8ybxmtMWky53KAa7yGpaeywR28azpzcoMlRMTZl50OoyBvpTz-VOC-*H*0o65oi0WO42Cv8mXropnL7a-iP0j-3JDd5v&new=1)
+ ## [在张学友演唱会上抓逃犯的人脸识别技术，真的靠谱吗?|今日话题](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=FVdc8oyhBbzX54G1kp-noiKC9ntuCXG2sqRVTkO1RjdENSCT6QV8dzBn4OvhEbvifLfXzAt8tlDYwDEoh0cqjX4N2kZyKIySMDEf-JQt3ae2AfgglyzFVFbdEYlvwxLB&new=1)
+ > 今日话题·腾讯新闻出品  | 第4337期作者/王阳人脸识别发展到今天，仍然存在较大的提升空间。此外，人脸识别技术在其他领域的应用中也存在各种麻烦，可能会威胁信息安全，泄露个人隐私。相比国外，我国很多人对...
+ ## [小鹏汽车何涛：AI座舱来了!三大技术与四大机会|GTIC深度](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=j-g7gisivD3kZthajqmUbCphV4Rub7twBTaJ8ybxmtP0VZoavq-O*FsOAfkNrs8jwsMaci0StuzP5LbVwYarNFavdR0majcXFL6xw*fLxSaIdgP5MDEeMugCBAv9f6ec&new=1)
  > 看点：主机厂将深度参与开发，车内控制中心将出现，车规级芯片性能大升级。车东西 | Origin9月20日，由智东西联合CAPE、极果主办的GTIC 2018全球智能汽车供应链创新峰会在重庆召开，大会邀请到来自学术界、整车...
- ## [你家宽带可能已支持 IPv6!要不要试试看呢?](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=w3mW2ozNQGF3WZOP9hJstjpPBgC-MHhw-OoshzIIPTjZoJH7RE7fNNtB6OZTA0vaEmm8jG0zjIR3mDYF*GYJ5tNlUviVXARKVdLNBVlyzj5WX4keUHnpcsSfW7q6PWtI&new=1)
- > 如果你经常关注科技类资讯的话或许已经知道国内部分运营商早已在部分地区开启IPv6网络协议的部署测试。也就说不少地区其实早已支持IPv6但可能你不知道，比如经常看资讯的鸭子哥竟然还不知道自家宽带已支持。出于...
- ## [现在看还来得及，出国手机上网该怎么选?](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=vtpG8U05F0fFqfRwqL-dyuaLFdivUw9CrkRXcy5GNvWUyeDl0PqqKbuCnNq*AdiUTxBn82oH5teUFuf81O3bDezbRDaLzvKd6n*s39Yh2DBfcBXB3cizvmkLe*vN*TlF&new=1)
- > 现在看这篇有关出国手机上网的文章，对于十一出国游的网友还来得及。今天是十一国庆长假的第二天，估计很多人已经在游玩路上或者已到了异国他乡。如今，走到哪都机不离手，出国旅游更是如此。 “国际上网”主要...
- ## [爱打游戏也是一种出路!可以转行搞安全](http://mp.weixin.qq.com/s?src=11&timestamp=1538537406&ver=1159&signature=t0Cll0Nxo3Fkv5uMVBH5fJzS6I7d9bhs9o6OLvYUdm4kgu9E7DRnlhan8sLTPpD9F8uSdhWbGRnv-J5r7eXB0iNltKkEKip4yj2ydpe3tjjo-6pFHKVUTq1WmpwUrZ1k&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com迈克菲公司的某项调查报告显示，为共同努力增加职业满意度，安全运营中心（SOC）的自动化和工作环境游戏化是打败犯罪分子的关键。根据这份题为《赢得竞争》的调...
+ ## [欢呼!中国移动8元套餐回来啦](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=DFr3RzfwFJnV7jA73MIKcNlzmppisS-GdUbnghhRGbaglsVV1ljcGNKeZQ20V4eiGArSuYJtCYLxah*5U5QAQVixPgLhMDa-G9iPQMFkK0hRU8JP40RXVXHBhs72RAdf&new=1)
+ > 现在手机号可以说是人的“第二张身份证”了，绑定了银行卡、微信、支付宝以及诸多其他互联网APP，想要换个号可以说是牵一发而动全身，麻烦得不行。但是有些时候不得不换号，比如说学习和工作换地方了，在这种情...
+ ## [凯布斯路鑫：用创新电气连接方案应对工业互联网挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=Wuysr5cqpVO8rBWVE0ugMGwhMSpj5H*frKbqB2huOGsSdt-Nfqfh0RHHR9MioylcCjGfXCXc4KKiipfuJfCorciF7Pd2x3dIKOBRaiAxgioADMq9OTJB4q4Od5AHT6Qx&new=1)
+ > 随着“工业4.0”、“中国制造2025”等概念的提出，工业设备正在向集成化、自动化、精细化等方向发展，工业自动化对于连接的要求也随之提高。如何为客户提供优质、稳定、可靠的连接解决方案，一直是很多工业电气...
+ ## [美电网威胁预警工具都有哪些功能?](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=t0Cll0Nxo3Fkv5uMVBH5fJzS6I7d9bhs9o6OLvYUdm6aMCnHFS9berXnMlZyG9VKByZh6LLS-c*UnGe9p8bF3VKe6FxdsOGlQka9gg2dWBQiK6qddSf3BRGVXgeqor7F&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com2013年4月，美国加利福利亚硅谷附近的美国太平洋天然气和电力公司（PG&amp;E) Metcalf 变电站遭遇枪击事件。美国能源部因此计划开发一款新工具，该工具不仅可以帮助...
+ ## [BAT or TMD?究竟谁制霸了整个互联网行业!](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=sYd6pyuqr6x2w*ZZKj6tubIYl8B8f9bY7niS1n6WqelJquKkHnYdOE81ZBs9cidTWUqZPeYXbXXf3LuMNUvOnTikuCmgQwKz8*LFqQUhTRrA*7twQSgpdah0DNitpDgQ&new=1)
+ > 作者 | 徐麟责编 | 郭芮随着互联网行业的日益兴盛，吸引力越来越多的牛人加入其中，也有许多小伙伴跃跃欲试，想要在互联网的浪潮中大展身手。今天我们通过看准网的数据，帮助大家对各大互联网公司有一个比较概括...
+ ## [第一案：FBI强迫嫌疑人用Face ID解锁手机](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=mTtuPKSX7CKMeGxVahb8AipyWGB7xea7IaD*QmxE8xo2wgIJQWYAKpYJ-65d3gqHj-9xzwhNCR5uG2xc5OGA0YGwaZ4j9gZdpRjwx44qkRsBtrJyarOAsyKkiCLFB6Mf&new=1)
+ > 随着生物识别在智能手机上的普及，人们的指纹和面部数据是否应该得到法律保护仍然存在争议。《福布斯》发现了首起强制使用 Face ID 获取嫌疑人手机数据的执法案件。这起事件发生在 8 月份，当时联邦探员获得搜查...
+ ## [咋回事?女子逛商场连了几分钟WiFi，卡里瞬间少了近3000元!](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=AhT89Rx6GV9qejT7eqMQIFEs2IqrGvzaTLyO4t2CNWgPUnO6*TEgqOh3w2CutCxxOoiWhhIAn3dhQzF9*p4BYJ1q4KrI6-Kp35BZqu98lMx5AVe*B*T1MtTp2f4gZqNa&new=1)
+ > 联系我们&gt;&gt;&gt;本地资讯爆料、吃喝玩乐推荐个人微信：tzxb523出门在外，你习惯用手机连接附近的公共WiFi上网吗？前几天，南京的苏女士连了一个公共WiFi，结果银行卡里的钱瞬间没了！当天，苏女士逛商场时想用手机上...
+ ## [新知|未来已来，你将如何面对?](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=JOoL9iB*Tm6b1pRfd58m2z27*8i*wBEFS1TLIlLwl4x5j2bxbKkmSaOOSAPVCU4HT2C*BYl*XpGFY3DqCldvxVjvImEXMCcsQVFaKFxWW4yLfoqmujwdXAZ*kLyS3TK2&new=1)
+ > 国庆长假，在走亲访友、游山玩水之余，不妨抽空读几本书，让自己的心沉静下来，也来给大脑充充电。小编为大家准备了一份《新知》大餐，相信读完这些精神食粮，你将有新的收获。 “未来已来，只是尚未流行。”未...
+ ## [看到三大运营商员工节日出来摆摊，很是心酸……](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=ZRqYHK5297YGxdcapZF5MwczBF7LY9nagZTsi0cAbXRFxWGzVJT-W7h6i5zvC93Wv1QmI-IhxUt1zqTtiE8bYxZtdnHu0QBjjDSUtnWCOIGce1mSkQDG65dDZ5j9uqPf&new=1)
+ > 看到每到节假日，三大运营商的很多员工都不休息，还要卖力出来摆摊，就感到心酸。有这么多的行业，通信行业为啥不能像其他行业一样有序竞争，像石油、银行、航空等？ 如果中国通信行业不重复投资，也就是把重复...
+ ## [小米黑科技，无卡上网，没有月租，只要一块钱](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=BPjrJ*P4u3dFBW1QmvqaW8tCyWytw3kxhow0uKr*bVgoDOnzZOm2o4A6Sr1fB5y-F5RIjcuMY3*cWQUbi4Puzw1rR35o24b4-rnkeJmRLB52lyVb5iAEaY4kY9jJXOUF&new=1)
+ > 流量什么的，机哥其实并不需要。爱我的机友都知道，机哥有张神卡，月流量九百多GB。八弟就不一样。自从八弟开始做生意，手机流量哗哗滴，静悄悄跑光了。所以八弟每天都要开流量包来加血，但现在的流量有多贵，大...
+ ## [没想到这个省份这么强 竟然是全网通终端占比最高的!](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=D6WLZ30PhWYyg8BXL8pUxCC5PdOy-AgmuM7j-AInoNpD7rs-*5LZZJVYGBcthgpjwZ-W09ECn7j5ySGzn2hoawy6B0Jd0xw10c2JPJOgZ6hJI3HDo2ifnJyPT67TOAT9&new=1)
+ > 日前，中国电信表示当前全网通终端销量突破10亿，全行业占比超过80%，然而就各省而言，全网通发展还很不平衡。不久前，有知情人士向运营商世界网独家爆料称，目前，河北省全网通终端销量占比在全国各省市中是最...
+ ## [双开又隔离那些 xx 应用](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=TVSkVLCdL6foUbDZm7G15BlNRdoimq9BM4y6TsEH717enuCRJmQinLsm3nGGprOzjcqj3SG5nMyfj5eqZIND333do7PBHGnerSNpZzquLAvs2nZ9r2lU5GYZWkR5i6de&new=1)
+ > Shelter 是一款基于 Android 原生 Work Profile 工作用户的双开应用、隔离本机数据的免费开源 Android 应用，还带有休眠功能。@Appinn来自发现频道。在之前此类应用，青小蛙推荐过绿色守护作者的应用 Isl
+ ## [Ovum观点：长远来看多数市场拥有3家电信运营商最合理](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=oSXgo5g9MhkuK8XYJIshWarB6h*QYI4nEcNDRvhC7YB1il3e9dq29K5SFDKb7YrSFfPh97DD0cGRUemLRVtX82KNvl0Ayw8cVDEtc40CXsfQkJ22Keq8I0xMrfKzK-D7&new=1)
+ > 澳大利亚电信运营商Vodafone Hutchison Australia(VHA)与TPG已经就合并条款达成一致，合并后的新公司TPG Telecom将由沃达丰掌握50.1%的股权，TPG持有49.9%的股权。沃达丰的Inaki Berr
+ ## [手机靓号争议：一棍打死运营商 难掩过度执法嫌疑](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=rpi*kh6uIycBENX*A7LYeWlldjMBJeL862PS4-1P6c3VpZgvLDhI75*qMpr3ydS5GuHPQQoHYe*71IyRJZl2G6KBYPvg**AV6YjUUEhWy97ilLkeyUlqyQi3qdT*hcVK&new=1)
+ > 【摘要】安徽省工商部门真手机靓号的整改要求，对运营商来说，牵一发而动全身，或许与被“虎口夺食”有一拼。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：杜建民本文来源：C114通信网（C114-weixin）...
+ ## [值得关注的五大云原生技术](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=IVSBQGP9fkujk*KUK0KXfbvAqd1Q2QqUirS*K1rUOEuCvtXvkeJx*-flrDTvnXX1d8vnrowJo0-4J6YSxvfO6ykV7tIR6s6xU9uiLaKytdiKjpKuIvyqiAXy3*e0Ksle&new=1)
+ > 云原生（Cloud-Native）是一种文化，更是一种潮流，它是云计算的一个必然导向，是让云成为云化战略成功的基石。云计算时代，云原生技术注定将对现代化应用的建设、交付与运维产生颠覆性的影响。根据相关调查结果...
+ ## [才连了几分钟商场WiFi，女子卡里瞬间少了近3000元!](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=1PWiknXTKJ3dJa2W21yggxwyYNaspAbGt0j5nuujHToa4r9d5TDx4JVyOoJW824lRsDZaQSxizzrYnE4oD*eS2qpd-1SF5KqArCDKJTaDbGgbmGnA5mONA2D-6JFpOS8&new=1)
+ > 来源：江苏新闻出门在外，你习惯用手机连接附近的公共WiFi上网吗？前几天，南京的苏女士连了一个公共WiFi，结果银行卡里的钱瞬间没了！事情发生在9月23日，当时苏女士逛商场时想用手机上网，便连接了一个公共WiF...
+ ## [国庆出门,公共免费WiFi到底能不能连?七招教你安全使用!](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=s0FJgIWmMuy7O0IP2BdNRL2YGt55OSRmJ6oZNK4MZBUYTavXpUJlYftaHrReafwmHZ4hWeTLc0xRBkuG86LO1yfZAw4JegU*zd2-WymlTGDglytlSkwwveZl*QknFBSr&new=1)
+ > 在您开心的享受网络同时，您是否在意潜在的安全隐患？我们说几个真实案例！家庭WiFi：3小时可暴力破解PIN码和无线密码在北京市的一个WiFi安全测试志愿者家里，手机安全工程师对用WiFi密码进行了分析破解。测...
+ ## [联通3G设备替换搬迁揭秘：华为大规模挤占上海贝尔地盘](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=eCG9Zkxg8dTeqD3VpVO4jCy5xsHhnWMwi2bDJzrPTpamtYXs-BrqtQEnZ5gtI-womdXo7gW2FTiVij6PYioTBJpTPbaDfgcLXvGi1idfB6ycpay5u8g4*CzcEwk-cPzM&new=1)
+ > 近日，贵州联通成功解决更换3G设备时的不兼容问题引起了广泛关注。但运营商世界网发现了其中一个小细节，非常耐人寻味，那就是替换工作中华为设备正在大规模挤占上海贝尔的地盘。据运营商世界网了解，贵州联通在...
+ ## [咋回事?女子逛商场连了几分钟WiFi，卡里瞬间少了近3000元……](http://mp.weixin.qq.com/s?src=11&timestamp=1538557206&ver=1159&signature=ha54SdG6MIFFPu7fp9IQCKAd1eHozVo*kFveSHdVQrvnSfvqnvHZtSHjfJBGlD0PpJ1T5aVnYwkq3KYBah5aozi13a1hhMj5XSp25GeQKyCYPw-kIHGXbtPae9VdGojS&new=1)
+ > 苏女士表示，这几次扣款十分蹊跷，没有收到任何短信验证码，银行卡里的钱就没了。她拨打了银行客服，被告知钱被用来购买某款游戏的装备。目前，民警已经对此立案调查。习惯“蹭”免费WiFi？这些安全风险你千万要...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [交互是什么东西？如何评价交互好坏？怎样描述交互评价的核心？](https://www.zhihu.com/question/20941554)
@@ -62,30 +62,30 @@ categories: IT NEWS
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
  ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
  > 2016年，大众创新，万众创业。我入驻了在重庆3W创业孵化园, 在创业之前都知道成年人有过职场经验的创业成功率不到1%。但是我当时就认为自己是那1%，觉得自己不一样，但是后面其实我就是那失败的99%。100个团队，活到...
- ## [中国网民规模突破 8 亿，普及率 57.7 %，网络正以怎样的方式改变我们的生活？](https://www.zhihu.com/question/291100506)
- > 我要告诉你们几组更震惊的数据：1、未成年人首次触网年龄持续走低，总体普及率高达98.1%；10岁之前触网的比例高达到68.6%，7岁（学龄前）触网比例达到27.9%。2017年底的调查数据显示，被调查未成年人互联网运用的总体...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀。。。这问题问的是如此似曾相识，连语气都是。题主是特地换了小号来问的么？如果不是小号的话：看到你已经翻过知乎不少相关问题的答案了，也看到你手动点过几个赞，楼上庄哥哥也又这么nice地再解释了一遍（真是...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [前端学习中一直用框架是不是走偏了?](https://www.zhihu.com/question/38891890)
+ > 框架都在JS的基础上，找工作一般要求框架开发，JS的基础好以后学什么框架都很容易。建议学习前端的都把JS的基础搞扎实。
  ## [清华人对奶茶妹妹章泽天是什么评价？](https://www.zhihu.com/question/24310666)
  > 走后门进清华，挂科四门，作弊被老师发现，最后拿了个专科文凭，每次每次炒作之后都说期待着被大众遗忘的那天，顶着独立自强的学霸人设嫁二婚有娃的老男，随后澳洲投资奶粉被骗，投资Uber结果退出中国市场，投资因为...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [现实生活中有和科学超电磁炮里初春使用的手持设备一样的东西吗？哪里有卖？](https://www.zhihu.com/question/24294741)
+ > SHARP Zaurus SL-C3000/3100/1000我的那个送人了，手边好像也没留什么照片……下图网上找的。
+ ## [中国互联网里，有哪些你怀念的过气好网站？](https://www.zhihu.com/question/296657942)
+ > Apple4us.com 已经停止更新了。里面不光有很多值得收藏的好文看，而且还能看到一众影响了中文互联网（尤其是知乎）的人，早期写作的内容（比如张亮黄继新和 Lawrence Li）。他们现在已经不写或者很少写这么长和深...
  ## [有什么好的手游折扣平台啊！？](https://www.zhihu.com/question/41931190)
  > 你好！手游折扣选择很讲究的，不过别人推荐的都不靠谱的，建议还是自己去发现，百度搜索：手游折扣，基本上都会出现很多的，你选个排名好的大的平台下载玩就可以的，希望能帮助到你呢！
+ ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
+ > 本题目下面的答案可以说是乌烟瘴气。结论放前面，NAT技术没有拖慢“互联网产业”的发展，但今天无疑NAT对于“互联网（The Internet）”的进步还是有明显的阻碍的。答案下面无法区分互联网产业和互联网本身，...
  ## [想学习互联网运营、产品、营销等方面的知识，有什么入门级书籍可推荐？](https://www.zhihu.com/question/27513046)
  > 前方高能预警！！！以下推荐的两本书籍，全是本人转行时，几位在大型互联网公司做运营的朋友给我推荐的，并且都是我自己花时间看完，觉得收获很大的书。看书最怕什么？最怕浪费了大量时间，却看了一本完全没有任何帮...
  ## [宝宝租赁玩具应该关注什么问题？](https://www.zhihu.com/question/31159470)
  > 首先，在宝宝玩具的选择上，要尽量选择简单的玩具，减少发声发光玩具的数量。简单的玩具能提高宝宝的参与度，让宝宝学到更多的东西。第二，幼儿有个特性，喜欢咬玩具，喜欢摔打玩具，所以，对二手玩具并不是随便用消...
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
+ ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
+ > 浪潮之巅
  ## [中国互联网里，有哪些你怀念的过气好网站？](https://www.zhihu.com/question/296657942)
  > 知……知乎？
- ## [派出所接过哪些奇怪的报警？](https://www.zhihu.com/question/268167592)
- > 这个问题在我的关注里躺了快两个月，我写了几个真实的段子，又全部编辑掉了。因为我觉得事情是足够奇怪，但我一点都笑不出来。在派出所工作过两年，可以说这里的主责主业就是干最脏最累的活，处理最复杂最尖锐的矛盾...
- ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
- > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
- ## [交互是什么东西？如何评价交互好坏？怎样描述交互评价的核心？](https://www.zhihu.com/question/20941554)
- > 交互是什么，这是个好问题，但评价交互好坏却是有方法可依的。我们在评估一款产品的设计时，大多数情况会采用和AWWWARDS相似的方式，即在已知的纬度上给出相应评分： AWWWARDS是一个专门展示全球优秀...
 # IT 技术 
  ## [Facebook又被黑客耍了，这次有近1亿用户受影响](http://zhuanlan.51cto.com/art/201809/584470.htm)
  > Facebook又被黑客耍了，这次有近1亿用户受影响
@@ -105,30 +105,30 @@ categories: IT NEWS
  > 如何将OWASP Top 10应用到无服务器中以增加安全性
  ## [AI聚变：寻找 2018 优秀人工智能应用案例](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82667066)
  > AI聚变：寻找 2018 优秀人工智能应用案例
- ## [精选|2018年8月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/82881568)
- > 精选|2018年8月R新包推荐
  ## [阿里钉钉数亿元战略投资蓝凌，加速智慧办公落地](https://blog.csdn.net/jR2qkuHiR0G/article/details/82881278)
  > 阿里钉钉数亿元战略投资蓝凌，加速智慧办公落地
+ ## [精选|2018年8月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/82881568)
+ > 精选|2018年8月R新包推荐
  ## [大数据 - Hadoop初识、Hadoop伪分布式安装、Hadoop完全分布模式安装](https://blog.csdn.net/weixin_42526141/article/details/82892754)
  > 大数据 - Hadoop初识、Hadoop伪分布式安装、Hadoop完全分布模式安装
- ## [双非院校本科如何拿到年薪20W+的offer？](https://blog.csdn.net/qq_41866010/article/details/82918311)
- > 双非院校本科如何拿到年薪20W+的offer？
- ## [想了解推荐系统最新研究进展？请收好这16篇论文](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/82881839)
- > 想了解推荐系统最新研究进展？请收好这16篇论文
- ## [ICLR 2019论文投稿近1600篇，强化学习最热门](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82887113)
- > ICLR 2019论文投稿近1600篇，强化学习最热门
- ## [程序员休息时间不工作被领导威胁辞退，与领导对骂，怒刚正面！](https://blog.csdn.net/zwjweb/article/details/82902495)
- > 程序员休息时间不工作被领导威胁辞退，与领导对骂，怒刚正面！
- ## [Spark中的共享变量](https://blog.csdn.net/Fenggms/article/details/82911240)
- > Spark中的共享变量
- ## [java知识点汇总](https://blog.csdn.net/gs344937933/article/details/82906016)
- > java知识点汇总
- ## [扎心! 女生怀孕前后对比照流出 网友: 爱真的需要勇气](https://blog.csdn.net/qq_43274178/article/details/82900762)
- > 扎心! 女生怀孕前后对比照流出 网友: 爱真的需要勇气
  ## [Java程序员回国发展，却不知面试情况，网友：待着吧！争取移民](https://blog.csdn.net/SpringJavaMyBatis/article/details/82896409)
  > Java程序员回国发展，却不知面试情况，网友：待着吧！争取移民
+ ## [ICLR 2019论文投稿近1600篇，强化学习最热门](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82887113)
+ > ICLR 2019论文投稿近1600篇，强化学习最热门
+ ## [想了解推荐系统最新研究进展？请收好这16篇论文](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/82881839)
+ > 想了解推荐系统最新研究进展？请收好这16篇论文
+ ## [双非院校本科如何拿到年薪20W+的offer？](https://blog.csdn.net/qq_41866010/article/details/82918311)
+ > 双非院校本科如何拿到年薪20W+的offer？
+ ## [程序员休息时间不工作被领导威胁辞退，与领导对骂，怒刚正面！](https://blog.csdn.net/zwjweb/article/details/82902495)
+ > 程序员休息时间不工作被领导威胁辞退，与领导对骂，怒刚正面！
+ ## [扎心! 女生怀孕前后对比照流出 网友: 爱真的需要勇气](https://blog.csdn.net/qq_43274178/article/details/82900762)
+ > 扎心! 女生怀孕前后对比照流出 网友: 爱真的需要勇气
+ ## [Spark中的共享变量](https://blog.csdn.net/Fenggms/article/details/82911240)
+ > Spark中的共享变量
  ## [创建对象有几种方法](https://blog.csdn.net/xuehangongzi/article/details/82924104)
  > 创建对象有几种方法
+ ## [C++学习笔记（一）数据类型、数据处理、复合类型、循环、分支](https://blog.csdn.net/a568713197/article/details/82917819)
+ > C++学习笔记（一）数据类型、数据处理、复合类型、循环、分支
  ## [CSS学习——基础选择器](https://blog.csdn.net/chengxu_kuangrexintu/article/details/82916029)
  > CSS学习——基础选择器
  ## [为什么程序员写代码时喜欢戴耳机？](https://blog.csdn.net/Bs__Q/article/details/82892918)
@@ -152,6 +152,8 @@ categories: IT NEWS
 # 人工智能 
  ## [AI聚变：寻找 2018 优秀人工智能应用案例](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82667066)
  > AI聚变：寻找 2018 优秀人工智能应用案例
+ ## [机器学习 （十一） SVM系列-开头篇春夜喜雨](https://blog.csdn.net/lilongsheng1125/article/details/80010300)
+ > 机器学习 （十一） SVM系列-开头篇春夜喜雨
  ## [TensorFlow 卷积神经网络之猫狗识别（二）](https://blog.csdn.net/u012373815/article/details/79222121)
  > TensorFlow 卷积神经网络之猫狗识别（二）
  ## [SSD算法代码介绍（二）：训练算法整体架构](https://blog.csdn.net/u014380165/article/details/79332365)
@@ -162,6 +164,8 @@ categories: IT NEWS
  > 机器学习实战(用Scikit-learn和TensorFlow进行机器学习)(四)
  ## [基础 | batchnorm原理及代码详解](https://blog.csdn.net/qq_25737169/article/details/79048516)
  > 基础 | batchnorm原理及代码详解
+ ## [机器学习策略（2）--DeepLearning.ai 提炼笔记（3-2）](https://blog.csdn.net/Dby_freedom/article/details/79818844)
+ > 机器学习策略（2）--DeepLearning.ai 提炼笔记（3-2）
  ## [python下进行lda主题挖掘(一)——预处理(英文)](https://blog.csdn.net/qq_23926575/article/details/79091029)
  > python下进行lda主题挖掘(一)——预处理(英文)
  ## [《机器学习》周志华-CH1 绪论](https://blog.csdn.net/qq_34100655/article/details/79122523)
@@ -176,10 +180,6 @@ categories: IT NEWS
  > 无人驾驶汽车系统入门（十二）——卷积神经网络入门，基于深度学习的车辆实时检测
  ## [深度学习系列：win10 搭建caffe tensorflow keras(GPU全基础篇）](https://blog.csdn.net/hanzy88/article/details/79196846)
  > 深度学习系列：win10 搭建caffe tensorflow keras(GPU全基础篇）
- ## [Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理](https://blog.csdn.net/Teeyohuang/article/details/79210525)
- > Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理
- ## [决策树（decision tree）(二)——剪枝](https://blog.csdn.net/u012328159/article/details/79285214)
- > 决策树（decision tree）(二)——剪枝
 # PM 
  ## [电商进化论，怎么抓住风口和机会](http://www.woshipm.com/it/1475409.html)
  > 各大直播平台也纷纷涉足电商，似乎整个电商行业从来没有一个这么百家争鸣的时代。那在这么一个时代，我们要如何去抓住风口和机会？随着阿里新零售的提出，似乎整个电...
