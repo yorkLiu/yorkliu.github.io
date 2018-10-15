@@ -1,51 +1,51 @@
 ---
 title: 2018-10-15 IT News
 copyright: true
-date: 2018-10-15 08:01:17
+date: 2018-10-15 09:02:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [曾经最快的WiFi技术，如今却惨遭埋没?](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=PMbyvPWSHDm-Lg806fvc0Zl4MWFYPdvyGnNClWLbDo0g51lTJqwX6i6Vskw3SFx*n2BmkyhQPGdggLe9P9TwTmbRtQgtDq3SBs1buuUdqhsaEX25rx9L11MtZ-AKEhvk&new=1)
- > 尽管4G“提速降费”的口号喊了这么久、传说中（试验网）能跑到万兆的5G也似乎即将到来，但是笔者相信，对于绝大多数智能手机用户来说，WiFi才是真正的救命恩人。毕竟，流量再便宜、也没有WiFi不按流量计费便宜；...
- ## [价值2950亿美元的「量子霸权」，技术水平到了哪个阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=IOMn27-7aJyRK8UvoQevszGhNebEVEA2tZCLX6WilEYeBWTvDrgbKOQCZRtDNTyk2cfcUlJ8-j6Yitz3rxnJ1sF-Q7G8fT07-d13AroKvz6PJFFB0nlSlDJMpLLwVxBZ&new=1)
- > 来源：36Kr摘要：谁掌握了量子计算机，谁就可能引领下一次信息革命。当前经典计算体系，并不能解决所有问题。量子计算将给现有的计算理论带来深刻变革，将极大加深人类对物质与信息的理解；将是一种前所未有的计...
- ## [Magic Leap举行开发者大会，Snap或将打造AR眼镜|本周大新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=LlOJZWT43rdA*LEF2Qa3dxAEJeCuADRq*YlxfbFB3LHMic1yRCtgqn8UFqa05rsHx7*Sa*roDTMIfvhgian9GTzm8RPERjRiFCgmNCyRXkj6K3E9R*U*D7aNAd4btOCf&new=1)
- > hi188｜ 撰文本周，Magic Leap召开了首届开发者大会，会上宣布了众多关于Maigc Leap的更新，以及后续半年新功能的更新计划。其中最为值得关注的就是Magic Leap想要创造一个集成AI、跨平台、可持续体验的应用集：...
- ## [安卓手机搭建渗透环境(无需Root)](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=Onx-7*dTfeZg0fuYPYqhbS4EoZuKvHdVwQv512shDYojTz-ShO1ZkPpNvfQOa-rdR5PYACG02q*USegIZ0sjbF17nW2VxiCuR*14IV7BWkH1ksKkt3aGMaFl2ICmrXlD&new=1)
- > 前言大家熟知的渗透测试是笔记本上神秘滚动的linux命令！一台kali笔记本走天下，是渗透测试的基本素养。但笔记本还是太大，很多地方你用笔记本做渗透测试还是太招摇，而且你更多的时候是手痒，想搞一搞周围的设...
- ## [攀登量子计算的珠峰，华为迈出第一步，意义深远](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=FU5NMY92oFjITAXMdV4gYGae*zHc1KcepiUklieBYXK3AP42YOLlEf9uOeYmSDQhX*VxA8H-2CxigYns5Tp-pF-lWc4mune8NUNEyP0CDkaUVr5HBYoJSAlzao1NZtEk&new=1)
- > 10月12日，华为全联接大会的第三天，本来以为不会再有大的新闻，但是我发现自己错了，在这一天，华为在量子计算方面做了一个重要宣布：华为发布量子计算模拟器HiQ云服务平台，包括量子计算模拟器与基于模拟器开...
- ## [\[C114周报\]某运营商连开13张罚单背后；电信业成最不赚钱行业?；运营商停止宣传“不限量”](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=UMov01XWR*ZGaCXeR74Bz98mgtQSE3AxoPQM0wOARyBKbcFOuWOaKJfRSCO3xXs*OmSOWcVNhGL9geqwEo0BKJtjw7RUXudx-ixb8DZNSbWHTNnm5svcDIYQlrwlQpJf&new=1)
- > 周报WEEKLY本周热点有运营商连开13张罚单背后；电信业成最不赚钱行业？；三大运营商停止宣传“不限量”• 第020期 • 某运营商连开13张罚单背后10月12日近日，某运营商对13家光通信设备供应商进行处罚，除了罚没...
- ## [Rethink Robotics的消亡表明，让机器真正变得聪明是多么困难](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=MFItLguNfxu9PZ1AAP8OuxsNc0twYd*REAb*4Emok4WVm9arWVQCbuoMw48oFuTpr-E4KbgmpIRajXeI0X76ElLnRPXVlQrOcAMfOd9B3-ey5YktK9eABWUHJuotO8eo&new=1)
- > 硬蛋，不止硬件。硬蛋（Ingdan）你的创新探索站！▼据外媒报道，协作机器人先驱，美国知名机器人企业Rethink Robotics在10月4日宣布倒闭关门。Rethink的首席执行官斯科特埃克特通过电子邮件证实了此事。Baxter和...
- ## [这才叫流水线，我看了5遍还不过瘾!](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=tuZhi9WA0liLNCJ34R9WBEsO1DwWx6FrjQ4aPEsl65c7iUc7z5GbGk*ndK4zm0gkzIeqrH51NdT3dxk45ibta9cbbigP2kru7yTmTVQZ7j*JyG2loVL1X8-neXwRkIAU&new=1)
+ ## [这才叫流水线，我看了5遍还不过瘾!](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=tuZhi9WA0liLNCJ34R9WBEsO1DwWx6FrjQ4aPEsl65fILpIlW4U3rxWnKU5t33VunvaI*3cPaeXrRSqHg7XqubyHl*lzuqZTvJ5UlNk2fjv8lntOTsE2LV9kCFDEHJJH&new=1)
  > 传送带可以编程控制，传送路线可以私人订制，精确传导，还可以模块化拼接！今天我们就以德国 FESTO 公司的一款产品为例，给大家介绍一下——FESTO 2D MOVEFESTO是世界气动行业第一家通过ISO 9001认证的企业。是...
- ## [全球互联网即将发生大断网?呵呵这你也信](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=st7289rTre4QLM7X99XNa2MC0mvaLmj*bAVcwEE4jeMzJN1PkMr7sfnqOG*GoOyQFSNXUPqUioQS7dK3SoMlw3DOWG9ZQfR*jM5w2hS6XVQNSLeo0v2cT4vUoHGVpZbx&new=1)
- > 互联网名称与数字地址分配机构此前已经发布过预告将在日前对根区密钥签名密钥进行更换也就是轮转操作。轮转的出发点主要是考虑不少DNS存在安全性问题，这次轮转过后DNS根区已经换上新的密钥签名密钥KSK。轮转期...
- ## [电信VoLTE的意义与压力并存，破釜沉舟一把可好?](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=w1XDwJwXuucmZsC1AJe3w2rD2jopawaIUZdSmi76LKptu3vExQ*epy60lao*rz5ETeiLULvhh10UdGGCiAoGK4V2vuzleKjbExtY9l8pWXnwKlcji91Kuf4o8QIOJmqI&new=1)
+ ## [Magic Leap举行开发者大会，Snap或将打造AR眼镜|本周大新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=LlOJZWT43rdA*LEF2Qa3dxAEJeCuADRq*YlxfbFB3LEx*8xLPQ8yMSJYpU5XtB0ik*lgKQeWwFB4PJrCQN*fn8E4kqZIPH4O7re8-dyCC4IbBeh-5w4mPWXr8A-VgmuT&new=1)
+ > hi188｜ 撰文本周，Magic Leap召开了首届开发者大会，会上宣布了众多关于Maigc Leap的更新，以及后续半年新功能的更新计划。其中最为值得关注的就是Magic Leap想要创造一个集成AI、跨平台、可持续体验的应用集：...
+ ## [电信VoLTE的意义与压力并存，破釜沉舟一把可好?](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=w1XDwJwXuucmZsC1AJe3w2rD2jopawaIUZdSmi76LKplnqK-WSi*oaIKI661dFEUJyf8MzFdi09iqOBs19l3q7mtwT2esSDRPRokLBfvZdG76I3CgY0y2QoUJaRVTwtI&new=1)
  > 也来谈谈电信做VoLTE的意义：首先，电信做VOLTE的决心比移动要大得多，是直接不回落的方案，所以4G覆盖率是必须达到或超过1X。这也是电信VoLTE迟迟不商用的直接原因。第二、摆脱CDMA回归主流是最大的好处，KDDI...
- ## [抢滩400G时代 行业大佬争相布局](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=9FLdjuykCSXOAaDYn6C99hLWew7B0o3d*rgO07jKcia2LffV8hFOPSH*M-dLwFyFZFeD80To9U9IW0wzmjdBVwu-2pj409lANtms-Ob-fM5KaN*StG2a2vwgHNyaZCEL&new=1)
- > 从通信发展的角度而言，高速率是光传输网发展的永恒主题。目前，100G是光传输网络的主流技术，我国也已经建成世界上规模最大的100G WDM／OTN商用传输网络。随着5G时代的到来，网络带宽的需求呈现出激增的态势，1...
- ## [\[惊讶\]啥原因?整个小区手机没信号!三家运营商全部撤退…](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=PqOelJxV*FzVYEinjsF9Awzmp4zbXrL9t4oAlmM*MUpg7k7Aae6xe-EAREqIPsm7-*vj3xVbBQTB42wM0d3E*cCyLLjB46v7qFW-AK6LoetR0HDC3rkBI6u1FG8m1cSV&new=1)
- > 阳光一生yangguangyisheng“神经病” “简直要命了”“回深山老林去生活吧”“没网你试试这日子怎么过？”昨天，一张通告书在成都人的微信群广泛传播↓原来，四川省郫都区一小区由于部分业主质疑“有辐射”，强...
- ## [\[每日科技速递\]中国人基因组学研究成果发布](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=nXyXuoPbPVkTTZvKVYSiGg9mCCmnivkSlnkZtwcriZT75Ou-qmGNCCAXpEixnPQhC-tkwlsKoFuP9xVX9KuD9D1SlKDgpDs1o9arD5CcflziWOc66uh0zPZp*KTVQcpt&new=1)
- > 中国人基因组学研究成果发布　　近日，华大基因在国际顶级学术期刊《细胞》上发表了迄今为止最大规模的中国人基因组学大数据研究成果。这是由中国科学家主导，历时两年，对14余万中国人无创产前基因检测数据进行...
- ## [读懂5G切片，这篇文章不可错过!](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=3Qhm5DQoUN*i80ZvMoX4rynthqUHv0qwinYLIADdUxFnMJfdHZjFOshklWwnDuWy4ENALg8lAEjgZn470PtQPFEf-e7ooWUXrrrJRx7i5rBwShRe-1AWPOS0Vo6lbWZ9&new=1)
- > 转载一篇关于5G网络切片的好文，图文生动，内容干货，推荐一读！文中涉及的缩略语：NFV（Network Functions Virtualization，网络功能虚拟化）NF（Network Function，网络功能）NFS（Networ
- ## [华为云全面AI化!推EI城市智能体，砸10亿培养高校AI人才](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=cquP8gYk*BUFHImEjfKR2c0XYWIAH55xEv0CqJu2Rz6aLKeRIlTllV4uMHYd4Xt3T656n2YchUgCMI70NWHK3btYlFZrt4iIhw7X3WSOQzBbNkkm3vKj8t-LGfc*f01z&new=1)
- > 看点：华为云全线AI发力，一场云大战即将打响！在刚刚过去的一周里，科技圈最热新闻莫过于2018华为全联接大会（HUAWEI CONNECT 2018）了。作为华为一年一度规格最高、意义最重的大会，平日里不爱开发布会的华为...
- ## [AI再进步要看量子计算的脸色](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=5aHJgMw5l4TefC*ncvhBKfQ-bJhxCfFUrdRwKg3dV*a7xEpQQI2FdpguZ9dkNj*d8v0JP-itqxyX1iwYglDEteXwlNb3AC4PcwbHsgyHdLMmu6VAQu5XR1JBKVOaFrF4&new=1)
- > 科技日报记者 刘艳1981年，物理学家理查德.费曼提出一个问题：量子物理学可以被经典计算机有效模拟吗？这种疑问表达了科学家们的担心：量子物理指数级的计算需要，无法用现有的经典计算机来满足。理查德.费曼与...
- ## [HTTPS 如何保证数据传输的安全性?](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=qbCsHuRJeJWDfWCKCENWTe1VSCVdQO0CGXHOaRWBy49VpqGOOO-On-dig4yLi0ElVAN5s-wn6FVImYBWN0z8piqapWrtbnV0gUXzTdQfRxofF-4ja0WHms2kdQHJOtUN&new=1)
- > 作者 | 帅地责编 | 郭芮大家都知道，在客户端与服务器数据传输的过程中，HTTP协议的传输是不安全的，也就是一般情况下HTTP是明文传输的。但HTTPS协议的数据传输是安全的，也就是说HTTPS数据的传输是经过加密的。...
- ## [中国电信的网络覆盖与移动联通比怎么样?这几个数据给出了真相](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=e932kUcnywRTNsazvlP2A2Akn7J6uJ5kVWVOVT2hb1TQJ32rR5Bg9H8m9H4aJtcSdzjZZlC60N1QnvEPy8AvK*-M9nuqATpjsURNp5dANGfAa2jcmiw814nUpM9CJ6VK&new=1)
- > 运营商世界网独家获悉，目前中国电信在推动网络智能化上成果初显，尤其是在“五高一地”的4G网络覆盖中，某些特所场所普及率达到95%以上。不过与其他运营商相比会是怎样的情况呢？事实上，所谓的“五高一地”是...
- ## [评论|智能车时代临近 准备好迎接麦克风和摄像头了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=6un6JXdJYlm*ArOqgstimICGQUG56LlxOxAxP25vCfE*O54drOsMmTC6gLvskLfGPWzcS5g151f*Ck7TnqmPqX8uH8dwrYNWUXUupOXmZd-oTAadwnUJDZx8MgejEm2t&new=1)
- > 要想智能化配备更“懂你”，就需要允许它们不断收集个人信息。在智能和隐私之间划下界限是否现实？记者 郑丽纯初创汽车企业亮相的首辆量产车，功能都主打智能化。创始人们都清楚——传统企业强于制造，他们的优...
- ## [关于信息安全，欧盟又出招啦\[宁宇专栏-275\]](http://mp.weixin.qq.com/s?src=11&timestamp=1539559807&ver=1183&signature=E1pdTUO7f88sYzJNiRl6coGUtx51pTwxS6CGx8LSSP7dF8Q-UPiFrm9U-hL73NBfKGo2eXgp-9G3jPX7flz5FIWNHxQbZZb9skJJUTGpU0gQMK8PQpuNq1EULxWCWoJi&new=1)
+ ## [关于信息安全，欧盟又出招啦\[宁宇专栏-275\]](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=E1pdTUO7f88sYzJNiRl6coGUtx51pTwxS6CGx8LSSP6Ny2Mpb*TD6yEZf1xIZqDX6pzJuKxqsKYWaMDxtsawF4py*FKPHjoagpvqeuuW*wGiX2NSKRw7UZ4powg9CoNO&new=1)
  > 【摘要】这次的新规又说了什么？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑系统部经理，现华为业务软件部专家愿意和大家分享运营商的辉煌与没落，成功与失败，他用他的故事和分析诉说...
+ ## [评论|智能车时代临近 准备好迎接麦克风和摄像头了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=6un6JXdJYlm*ArOqgstimICGQUG56LlxOxAxP25vCfGDD7KzCrLcY4zwwaEpc1uGqSTpHYs9W04V-yJR6PBdOMCQlq02cglR-goH7G708qGoBR706W8m0iWDEJEhNeEs&new=1)
+ > 要想智能化配备更“懂你”，就需要允许它们不断收集个人信息。在智能和隐私之间划下界限是否现实？记者 郑丽纯初创汽车企业亮相的首辆量产车，功能都主打智能化。创始人们都清楚——传统企业强于制造，他们的优...
+ ## [Rethink Robotics的消亡表明，让机器真正变得聪明是多么困难](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=MFItLguNfxu9PZ1AAP8OuxsNc0twYd*REAb*4Emok4WSseEXsQcRbJs1QDrl3VJqnf30ZYhpuyqNdPhsFXXPcBY*5ttX1bVSMtsG1nXFwBciER8nzdWw5a833u73E2nc&new=1)
+ > 硬蛋，不止硬件。硬蛋（Ingdan）你的创新探索站！▼据外媒报道，协作机器人先驱，美国知名机器人企业Rethink Robotics在10月4日宣布倒闭关门。Rethink的首席执行官斯科特埃克特通过电子邮件证实了此事。Baxter和...
+ ## [中国电信的网络覆盖与移动联通比怎么样?这几个数据给出了真相](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=e932kUcnywRTNsazvlP2A2Akn7J6uJ5kVWVOVT2hb1T2hlrEZ-WNZ0mNKyAW4H0-OVBk*MsOwcD3UZzofNqfTX7M02dAoMjss7nQTj3AReqIqb4B5AEQ3*mBq4GBe7qv&new=1)
+ > 运营商世界网独家获悉，目前中国电信在推动网络智能化上成果初显，尤其是在“五高一地”的4G网络覆盖中，某些特所场所普及率达到95%以上。不过与其他运营商相比会是怎样的情况呢？事实上，所谓的“五高一地”是...
+ ## [华为云全面AI化!推EI城市智能体，砸10亿培养高校AI人才](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=cquP8gYk*BUFHImEjfKR2c0XYWIAH55xEv0CqJu2Rz6t9hYWqLljmhuGVhvA6pR7I3WFIF1DCYlyGs2T45FopMNCKv7xmWBTOLj5I84BSDI3D3BBqtHh4h7PHs9c93N1&new=1)
+ > 看点：华为云全线AI发力，一场云大战即将打响！在刚刚过去的一周里，科技圈最热新闻莫过于2018华为全联接大会（HUAWEI CONNECT 2018）了。作为华为一年一度规格最高、意义最重的大会，平日里不爱开发布会的华为...
+ ## [AI再进步要看量子计算的脸色](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=5aHJgMw5l4TefC*ncvhBKfQ-bJhxCfFUrdRwKg3dV*bm4y7PYheFJTtgVNTZ0ja3RkspPgu5WuMW7A3M6SghCJG-ktk23g82vHIs92z4oTBAz62T7hJhV2Hw1*fThSHp&new=1)
+ > 科技日报记者 刘艳1981年，物理学家理查德.费曼提出一个问题：量子物理学可以被经典计算机有效模拟吗？这种疑问表达了科学家们的担心：量子物理指数级的计算需要，无法用现有的经典计算机来满足。理查德.费曼与...
+ ## [读懂5G切片，这篇文章不可错过!](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=3Qhm5DQoUN*i80ZvMoX4rynthqUHv0qwinYLIADdUxGz-jYTR0ZHSjCy34yXZyJyCPd1wRab2SeFU8jH2wbNcRQ4wiBTnzEod*olKsIH*ATpkXKyXaV4nebhuRNk0kji&new=1)
+ > 转载一篇关于5G网络切片的好文，图文生动，内容干货，推荐一读！文中涉及的缩略语：NFV（Network Functions Virtualization，网络功能虚拟化）NF（Network Function，网络功能）NFS（Networ
+ ## [攀登量子计算的珠峰，华为迈出第一步，意义深远](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=FU5NMY92oFjITAXMdV4gYGae*zHc1KcepiUklieBYXJ9pd3ttQlO2aetKiROsdNeXgbXxHsGX89nGt8dOLT4ezuExQ09tq0IJ3cZY0g56GVvIYis6ZsvI3gA1vbIB7dc&new=1)
+ > 10月12日，华为全联接大会的第三天，本来以为不会再有大的新闻，但是我发现自己错了，在这一天，华为在量子计算方面做了一个重要宣布：华为发布量子计算模拟器HiQ云服务平台，包括量子计算模拟器与基于模拟器开...
+ ## [曾经最快的WiFi技术，如今却惨遭埋没?](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=PMbyvPWSHDm-Lg806fvc0Zl4MWFYPdvyGnNClWLbDo331KioUXYydPQAL1pjdVNcxM3LDLvVxIswuL8uoRJ8*ZCEkVuHBXkCnw0XpOu8Dw5Xz1YgWkSI97j25uUnGp6R&new=1)
+ > 尽管4G“提速降费”的口号喊了这么久、传说中（试验网）能跑到万兆的5G也似乎即将到来，但是笔者相信，对于绝大多数智能手机用户来说，WiFi才是真正的救命恩人。毕竟，流量再便宜、也没有WiFi不按流量计费便宜；...
+ ## [不怕辣眼睛!这个机器人用脸来摘辣椒](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=gk8kR4FRE3iaa52jx4VxbzA8UvB4vxmPf3TYiDdKEnuVf7AQCIYLL-GTrbmBS2H*sy8a2s-4ia9MrStdJnnKpGcUHeQiPtcoNybE27amkXyM5DluetRqraiqr7CRN8pT&new=1)
+ > 《塔木德》是全球精英成就家庭与事业的教育秘方，通灵的智慧境界，接地气的学习典范，与塔木德为伍，与财智同行:高手+高雅+高尚…如果你是被这个标题吸引进来的，一定要相信我，我不是一个标题党。因为这个机器...
+ ## [全球互联网即将发生大断网?呵呵这你也信](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=st7289rTre4QLM7X99XNa2MC0mvaLmj*bAVcwEE4jeN3znyt7pQejikA6M6ooMabM7AXX0pP5LXVo9XQrIec5erKaSCRXwwTZy24tF18xZjoQuIZ6YDpReR3jFrwFmBn&new=1)
+ > 互联网名称与数字地址分配机构此前已经发布过预告将在日前对根区密钥签名密钥进行更换也就是轮转操作。轮转的出发点主要是考虑不少DNS存在安全性问题，这次轮转过后DNS根区已经换上新的密钥签名密钥KSK。轮转期...
+ ## [安卓手机搭建渗透环境(无需Root)](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=Onx-7*dTfeZg0fuYPYqhbS4EoZuKvHdVwQv512shDYpJvSredEzpHeqPJiGgDA5wXUmaqUCSVSFU6Jm3DYCVTxP6Ekzj0ndW291QRGZCwdJIkhm9Q8DMS8DZD64XPJfb&new=1)
+ > 前言大家熟知的渗透测试是笔记本上神秘滚动的linux命令！一台kali笔记本走天下，是渗透测试的基本素养。但笔记本还是太大，很多地方你用笔记本做渗透测试还是太招摇，而且你更多的时候是手痒，想搞一搞周围的设...
+ ## [关注|光通讯低迷 众达统新瞄准5G商机](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=zDFvCCJea9AFwxQoscgX0ZSCZO8Xs86MD3Okh6ABR1nrzpYKrPHcMjX-KLskfVrqJwPC8p9Rqo*El1LPMCr0lu1kj4ZqmWnrV1GxAy4dpDTtE5knMyg0aNbHSjT9FHl7&new=1)
+ > 导读     众达科技前三季营收年减6.86%至14.2亿新台币，公司预计第四季度应有较佳表现;统新前三季营收3.26亿新台币，因第三季订单趋缓以及上下游客户库存调整，年降25.45%。　　ICCSZ讯   (编辑：Nina)据台媒报...
+ ## [抢滩400G时代 行业大佬争相布局](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=9FLdjuykCSXOAaDYn6C99hLWew7B0o3d*rgO07jKcibQld7FkV63N7qw6qfzOilyjuqIQN55MNln0B8Ww3Hp0lHTUTL8DZkxSGnlbm2-ZxravVXq9JxdlzwAExRcmCJw&new=1)
+ > 从通信发展的角度而言，高速率是光传输网发展的永恒主题。目前，100G是光传输网络的主流技术，我国也已经建成世界上规模最大的100G WDM／OTN商用传输网络。随着5G时代的到来，网络带宽的需求呈现出激增的态势，1...
+ ## [HTTPS 如何保证数据传输的安全性?](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=qbCsHuRJeJWDfWCKCENWTe1VSCVdQO0CGXHOaRWBy4*1xzgCeo3Xj8JKYvurHiJU7VChDuEDY2WKrC4yKfMdu1At8glTwnMRCRvY37dqhsEsV*JKYpkS8muAx5pImmQG&new=1)
+ > 作者 | 帅地责编 | 郭芮大家都知道，在客户端与服务器数据传输的过程中，HTTP协议的传输是不安全的，也就是一般情况下HTTP是明文传输的。但HTTPS协议的数据传输是安全的，也就是说HTTPS数据的传输是经过加密的。...
+ ## [\[C114周报\]某运营商连开13张罚单背后；电信业成最不赚钱行业?；运营商停止宣传“不限量”](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=UMov01XWR*ZGaCXeR74Bz98mgtQSE3AxoPQM0wOARyBClXlHDM*bAY3drYsuD0zAuoi3tYU8AVZIBGEz1lmRhVZOCeGhorin25uQ6pEnaNKqMQTfQRluyX150AGREKPu&new=1)
+ > 周报WEEKLY本周热点有运营商连开13张罚单背后；电信业成最不赚钱行业？；三大运营商停止宣传“不限量”• 第020期 • 某运营商连开13张罚单背后10月12日近日，某运营商对13家光通信设备供应商进行处罚，除了罚没...
+ ## [价值2950亿美元的「量子霸权」，技术水平到了哪个阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1539563406&ver=1183&signature=IOMn27-7aJyRK8UvoQevszGhNebEVEA2tZCLX6WilEa-8YfnP9XjKzYzfQ5GIdnTBwLlmK*yWGJK1bDMfriiafXjRQgUBm25NStGC7h9UyI4vD64*YaeZM5xjb1OHaoz&new=1)
+ > 来源：36Kr摘要：谁掌握了量子计算机，谁就可能引领下一次信息革命。当前经典计算体系，并不能解决所有问题。量子计算将给现有的计算理论带来深刻变革，将极大加深人类对物质与信息的理解；将是一种前所未有的计...
  ## [请问怎么学习画故事版？](https://www.zhihu.com/question/25543845)
  > 在具体讲解之前，康石石需要提醒大家的是，关于故事版的学习，其实应该分为两部分：为什么绘制，怎么绘制，只有找到了绘制的目的，才能更好的针对性训练。一味填充技法而不去探究更多，学习其实很难高效，下面具体讲...
  ## [Mac是如何做到快速待机快速唤醒的？](https://www.zhihu.com/question/23014590)
@@ -58,12 +58,18 @@ categories: IT NEWS
  > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [当家人用微信各种宣传反转基因言论时，我应该怎么做？](https://www.zhihu.com/question/39995148)
  > 按照某人这种恐吓式宣传转基因，只会让人觉得再不反对转基因，我们中国人也要被逼着所有人吃转基因了，支持转基因的人不打算给我们选择，必须得反对啊。支持转基因的这款脑壳……
+ ## [如何防止多IP恶意刷短信验证码？](https://www.zhihu.com/question/35012702)
+ > 这类情况的出现主要是由于无验证码识别人机导致的恶意行为，最直接有效的方法即增加验证码内容。相关阅读：验证码有什么作用？为什么有些验证码看起来很容易但是没人做自动识别的？滑动验证码的原理是什么？利益相关...
+ ## [为什么台湾念“和”字为han，而不是he？](https://www.zhihu.com/question/20476887)
+ > hàn是北京话。现在在北京已消失，但其他方言还有存在，包头话连词“和”就念成xæ̃去声（同“汗”）。它的本字很可能不是“和”。hé与古时更接近。是“和”字古音直接发展到现代的结果。
+ ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
+ > 先说结论，人肉搜索不是你想防止就能防止的，只要你在网上，我就能找到你。这是一个典型的安全攻防场景，攻击者的目的是获得信息，无论用什么方式；而防御者非常被动，就算被人攻击了也不会发现，你知道自己的信息是...
+ ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
+ > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
  ## [当家人用微信各种宣传反转基因言论时，我应该怎么做？](https://www.zhihu.com/question/39995148)
  > 按照某人这种恐吓式宣传转基因，只会让人觉得再不反对转基因，我们中国人也要被逼着所有人吃转基因了，支持转基因的人不打算给我们选择，必须得反对啊。支持转基因的这款脑壳……
  ## [1、为什么我的电脑ping其他电脑的时候延迟会出现抖动？ 2、骨干网延迟如何计算？](https://www.zhihu.com/question/68128748)
  > 计算机网络，由终端设备 + 网络中继设备组成。网络中继设备，就是把用户IP包通过接力的方式，送到目的地的设备的泛称，可能是物理层设备（猫）、可能是二层设备（交换机）、也可能是三层设备（路由器/防火墙）。可...
- ## [如果当年失败的红军西路军不是被马家军歼灭而是穿越到临高启明位面的西北地区，临高众能否成功消灭西路军？](https://www.zhihu.com/question/61572509)
- > “开快点，再快点啊！”“交通管制个x，我是元老！”“限速？在我的计速表上没有超速！何况你个马车，还能超速？”马车上的杜雯一脸焦虑，不停地催促着驾车的规划民。到达目的地后，杜雯二话不说，左手一只铳，右手一...
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
  > 暑假发的，我才看到，看到之后很惊讶，怀疑有鬼登录了我的QQ那种。事件就是腾讯自动代我向朋友讨要超级会员。我只想说，从小自尊自爱的我，真的不喜欢伸手和别人要，而且还是平时不怎么联系的人。真的要脸。 ️ ️
  ## [中国网民规模突破 8 亿，普及率 57.7 %，网络正以怎样的方式改变我们的生活？](https://www.zhihu.com/question/291100506)
@@ -80,13 +86,11 @@ categories: IT NEWS
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
- ## [如何评价老猫新书《大道朝天》？](https://www.zhihu.com/question/66671585)
- > 老猫的书是从将夜还在更新的时候读起的，前半段一口气读下来峰回路转荡气回肠，后半段追更磨磨蹭蹭扣扣索索，到了择天记三天两头请假更是影响阅读体验，好不容易熬到了完结，心想这什么狗屁玩意，觉得老猫真真江郎才...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [王者荣耀娜可露露怎么玩？](https://www.zhihu.com/question/56787825)
- > S13赛季最强刺客之一，娜可露露专题教学技能要点详解：被动技能：每次使用技能后，接一次普攻伤害会更高。常规3-1-3-A-2-A-1连招可以打瞬间爆发，也可以3-3-A-1-A-2-A-1连招多打一次被动技能的额外伤害。一技能...
 # IT 技术 
+ ## [如何从一名“普通码农”成长为技术Leader?](http://news.51cto.com/art/201810/584922.htm)
+ > 如何从一名“普通码农”成长为技术Leader?
+ ## [TCP三次握手原理，你到底知道多少？](http://network.51cto.com/art/201810/584921.htm)
+ > TCP三次握手原理，你到底知道多少？
  ## [什么是Supercookies，僵尸Cookies和Evercookies，它们是安全威胁吗?](http://netsecurity.51cto.com/art/201810/584888.htm)
  > 什么是Supercookies，僵尸Cookies和Evercookies，它们是安全威胁吗?
  ## [搞懂“分布式锁”，看这篇文章就对了](http://developer.51cto.com/art/201810/584847.htm)
@@ -99,10 +103,8 @@ categories: IT NEWS
  > 三项DevSecOps核心原则，保证交付的安全与速度
  ## [大数据生态圈到底是一个什么概念？](http://bigdata.51cto.com/art/201810/584830.htm)
  > 大数据生态圈到底是一个什么概念？
- ## [带你了解五种加速Go的特性和如何实现它们](http://developer.51cto.com/art/201810/584843.htm)
- > 带你了解五种加速Go的特性和如何实现它们
- ## [“刷脸”时代 你准备好了吗？](http://ai.51cto.com/art/201810/584822.htm)
- > “刷脸”时代 你准备好了吗？
+ ## [在Linux系统，文件系统和RPM的详细讲解，初学者可以收藏学习一下](http://os.51cto.com/art/201810/584926.htm)
+ > 我们知道在Linux之中一切皆文件，好像硬盘和分区的设备文件，各种串口并口以及USB在Linux之中都是一个文件
  ## [超参数搜索不够高效？这几大策略了解一下](http://zhuanlan.51cto.com/art/201810/584925.htm)
  > 本文讨论了高效搜索深度学习模型最佳超参数集的动机和策略。作者在 FloydHub 上演示了如何完成这项工作以及
  ## [物联网黑客造成的经济损失有多少？](http://iot.51cto.com/art/201810/584917.htm)
@@ -119,6 +121,8 @@ categories: IT NEWS
  > CPU在空闲的时候做什么
  ## [Web3.0来了！玩法变了](https://blog.csdn.net/Blockchain_lemon/article/details/83038023)
  > Web3.0来了！玩法变了
+ ## [算法学习——堆排序](https://blog.csdn.net/qq_39209361/article/details/83051282)
+ > 算法学习——堆排序
  ## [工具分享-Windows 的绿色软件工具集](https://blog.csdn.net/qian_meng/article/details/83041531)
  > 工具分享-Windows 的绿色软件工具集
  ## [学生信息管理系统 — 优化篇 （完成总结）](https://blog.csdn.net/M_hcCSDN/article/details/83022050)
@@ -129,18 +133,18 @@ categories: IT NEWS
  > 我失败的学习历程，重整行装再出发。
  ## [函数【C语言程序设计】](https://blog.csdn.net/YJG7D314/article/details/83042015)
  > 函数【C语言程序设计】
- ## [面试回忆录，希望自己不断努力进步，获得更多offer](https://blog.csdn.net/zpr5554321/article/details/83034847)
- > 面试回忆录，希望自己不断努力进步，获得更多offer
  ## [女博士被程序员嘲笑：代码能力太差，不知道怎么招进来的](https://blog.csdn.net/weixin_40876133/article/details/83036848)
  > 女博士被程序员嘲笑：代码能力太差，不知道怎么招进来的
+ ## [面试回忆录，希望自己不断努力进步，获得更多offer](https://blog.csdn.net/zpr5554321/article/details/83034847)
+ > 面试回忆录，希望自己不断努力进步，获得更多offer
  ## [大数据Hadoop学习笔记（六）](https://blog.csdn.net/yuanyi0501/article/details/83036901)
  > 大数据Hadoop学习笔记（六）
  ## [html css一些基础知识点的整理](https://blog.csdn.net/qq_43335204/article/details/83042030)
  > html css一些基础知识点的整理
- ## [C语言复习笔记](https://blog.csdn.net/ds19980228/article/details/83022520)
- > C语言复习笔记
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [产品设计存瑕疵、监管存空白，被diss是飞猪们的宿命](http://www.lanjingtmt.com/news/detail/38447.shtml)
+ > OTA平台要为用户提供的不仅仅是基础服务，更重要的是提供旅行的基础体验。
 # 人工智能 
  ## [月薪30k~50k，这个领域的人才正在被疯抢！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/83026899)
  > 月薪30k~50k，这个领域的人才正在被疯抢！
@@ -172,26 +176,5 @@ categories: IT NEWS
  > 无人驾驶汽车系统入门（十二）——卷积神经网络入门，基于深度学习的车辆实时检测
  ## [TensorFlow 卷积神经网络之猫狗识别（二）](https://blog.csdn.net/u012373815/article/details/79222121)
  > TensorFlow 卷积神经网络之猫狗识别（二）
-# PM 
- ## [三六级市场双十一将井喷？苏宁这样想的](http://www.pmtoo.com/article/55705.html)
- > 在10月11日苏宁易购双十一动员大会上，记者获悉，今年双十一，苏宁物流将发力即时配送和大件快递市场，备受关注的三到六级市...
- ## [“汉堡+奶昔”怎么就成了精致生活的热门标签？](http://www.pmtoo.com/article/55690.html)
- > 最近沪上刮起一阵打卡新风潮，汉堡竟然成了标记城市美好生活的一大利器。还在纠结晚餐去金拱门还是汉堡王的DT君，发现自...
- ## [看什么宫斗剧啊，不如去瞧瞧活着的历史](http://www.pmtoo.com/article/55673.html)
- > 普通观众在看到一件文物时下意识的反应是什么？大概两年多以前，我找马未都先生聊天，听了我的想法后，他问了我这个问...
- ## [决定人生的是思维方式，而不是你掌握的知识](http://www.pmtoo.com/article/55670.html)
- > 图片：Gerd Altmann/Pixabay已故历史学家Will Durant和Ariel Durant花了四十年的时间研究、编纂和撰写西方文明史。他们几...
- ## [困兽诺基亚重生之忧](http://www.pmtoo.com/article/55662.html)
- > 金九银十，手机圈开始热闹起来。不仅仅是苹果、三星、华为、小米等玩家密集亮相，昔日巨头诺基亚也开始频频出现在聚光灯...
- ## [在城市环境里，“捉老鼠”已经不再是猫的本性了](http://www.pmtoo.com/article/55656.html)
- > 喵星人，既是大家熟知的卖萌神兽，也是我们眼中的天生猎手。在各种故事中，猫和老鼠几乎总是以冤家的角色同时登台亮相，因而...
- ## [赶在双十一前，口碑和饿了么正式合并](http://www.pmtoo.com/article/55652.html)
- > 与美团点评的竞争升级收购半年后，饿了么和口碑终于合并了。10 月 12 日，阿里宣布饿了么和口碑合并成为本地生活...
- ## [如果给当代青年整本词汇表，游戏贡献的单词得占一多半 | 100 个生活大问题](http://www.pmtoo.com/article/55645.html)
- > 地图炮，拉仇恨，打怪升级，开挂暴击……用多了都快忘记它们都本是游戏术语了。《大明宫词》演到第四集，武后临朝，群...
- ## [戴上这个让设备「黑屏」的眼镜，你也许能好好感受一下真实生活](http://www.pmtoo.com/article/55634.html)
- > 面对信息过载我们的手段似乎越来越多，但这能让我们生活更好吗？不知从什么时候开始，信息过载变成人们焦虑的根源。...
- ## [不断效仿今日头条，趣头条距离库克造访还有多远？](http://www.pmtoo.com/article/55629.html)
- > 趣头条正在寻求改变。近日有媒体报道称，为改善过于单一的营收结构，趣头条正在尝试更多的变现渠道。有趣头条内部人士透...
 
     
