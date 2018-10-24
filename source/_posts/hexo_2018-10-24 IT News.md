@@ -1,51 +1,51 @@
 ---
 title: 2018-10-24 IT News
 copyright: true
-date: 2018-10-24 08:04:01
+date: 2018-10-24 09:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [安博会前瞻：技术与业务双驱动下的物联视频行业](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=cGRQNzuDpAXY62vOLpetgJSj3mo7gW68WqLWqiMLb31J2Iv3H2DMCTH6*lstXJPuyHUJoY224SgsNEi-vLVqLkW9AOdr-BKeUFt1TcQuzd*Ge*EW1uiOCchGrp4r7e8h&new=1)
- > 如果2年前的北京安博会，是以一场以AI为核心的“瑜亮之争”，那么今年的北京安博会经过与新技术两年的融合，则是以技术与业务为核心的转型成果战。在刚刚结束的“大华HOC城市之心”战略发布会便能看出端倪，本文...
- ## [智能音箱市场上，亚马逊第一，苹果和谷歌只能排第二](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=3if0vldSPrPL4szXbitZ7Pf*d4JVuY3P8MmfkhAOFI6KpmtRQ4HoREvjvBMCQxO4Jnsux3tsZ8w4VNcx25EOcc306Zg9J0Ie502xoTzARzvYsFtpBWhVUIVvj1jNnBMo&new=1)
- > 近日，据外媒报道，根据Business Insider Intelligence商业内幕情报分析，在人工智能领域中，智能音箱是当今消费市场上增长最快的设备之一。自亚马逊于2014年推出Echo智能音箱和Alexa语音助手以来，市场的快速硬...
- ## [\[爆料\]高通透漏首款5G旗舰机应该这两家国产厂商首发](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=030VIsWcixM5WuTvppqPMop83ml8fapyzAk20hiQ-Q7K7egVb8lmgdVaLIr1XoKb6DOJCZ*xFhfOwqqgTrirKL-85TIp-pLxT1U7MUJ*2A*8zXtv-dsnDGXsgO246Y0c&new=1)
+ ## [中国电信高同庆谈5G：没有新的杀手应用，行业存在壁垒](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=fBeqt6mUZpoM7Cd71rV5WvLz4Ul1YmQVL-XjrCDnUReYjDO4vQ4IoQWyw2ZUmK1z54DKsPceeV9HxO4M64D8Y5*-AIulwBGPyOD1yX03XWkyg72iCzMOSG2JDqfPQ*Xn&new=1)
+ > 中国电信高同庆谈5G： 10月23日，中国电信副总经理高同庆在高通4G/5G峰会上详细介绍了中国电信对5G的最新理解。 5G为数字经济发展提供基础能力 “数字经济进入发展快车道，5G为数字经济发展提供基础能力。”高同...
+ ## [\[爆料\]高通透漏首款5G旗舰机应该这两家国产厂商首发](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=030VIsWcixM5WuTvppqPMop83ml8fapyzAk20hiQ-Q5iiD-5LGbDvZMfyqv7Fss3djR75LLTZc*G8ycP-jE9q0NR7NpbXBpgQW6MxVvmF6-DXzP4rFIDrKoaZHa3gVNV&new=1)
  > 关注国产手机最新消息：在今天举行的高通4G/5G峰会上，高通总裁克里斯蒂安诺·阿蒙透露，2019年将有至少两款5G旗舰手机面世，虽然没有透露厂商，但是应该是国产厂商抢下首发，小米和OPPO的可能性最大。高通还强...
- ## [\[解码\]热水器到水联生态,海尔打通智慧家庭黄金“水路”](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=KmKOYBfqVxfpfnkD3JlYCVqAdLgMQ46QCvZxkXOqf6DAPnyQ8TSoc5dvK5qEfwQ*eiZ11KPnFQFbWnZxFbuhXWpwkxNBdXJ4JUw7ZcxpxD5EPPnz5K*d*pt6FP1FjzhF&new=1)
- > 当前，全球热水器行业已走到物联网革新的临界点。平台、生态圈、智慧场景等新动能，接力数十多年之久的电、燃气、太阳能技术争夺旧动能，驱动产业迭代升级。此时，领导型企业“灯塔”指引作用格外重要，这也是当...
- ## [材料|康宁全球光纤光缆工厂减少50%能源浪费](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=YDF5n5*Fh0ZOkwgQQCa8UHG67odbwS9H9Fxo7VT2cAEZ2gBc9nHuA0wkX8MzZ1ajhTbuXms36GLqFpqYvYdk4Da3LIT5qQyzP7Mdr2Iut0lw2W1wwXJeHJPr67vthKk0&new=1)
- > 导读       康宁宣布，其全球光纤光缆工厂成功减少了50%的能源浪费，这是康宁承诺保护环境的体现，通过对生产处理、产品和服务的持续创新来实现公司的承诺。　　ICCSZ讯(编译：Aiur)康宁公司宣布，其全球光纤光...
- ## [东莞松山湖畔，3GPP SA2工作组共庆3GPP成立20周年](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=bEhcaAyOmNFzFAq04isbN82vPuPdm0*SO0io6380-aCtkP-I6vo9fmmu8vyDhA9aMrBX1a9qMrcFz7pQ*yfaW4Rknr7KuMWat1xWooXxUQ7Lq9tRT3xBIYLT40XEnNJ*&new=1)
- > 松山湖畔在哪里？ 看下图，这里不是巴黎，继续看，还有网红小火车，带你游古堡， 宛如童话世界，还有欢乐嘉年华，没错，这里就是华为人上班的地方，就是有名的溪流背坡村，简称溪村。今天这里搞事情，搞事情，让...
- ## [中国移动前三季营收5677亿元，3个“升降”折射其战略](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=DJtCsbgxWqgIriOCMtRCk1SFbHuYx4UnWDu7peMRtJHowpX6yynLnJaYBCCNC*4SjQDG1uhYdWzmxgbcAf7x-CAqGQN84nraMLTKy3OAY9GDLXcI-jkbauAz0vGPEO8v&new=1)
- > 10月22日晚间，中国移动发布了2018年前三季度财报。财报显示，2018年前三季度中国移动实现营运收入5677亿元人民币，同比下降0.3%；其中通信服务收入为人民币5184亿元，同比增长0.6%；EBITDA为人民币2141亿元，同...
- ## [魔镜魔镜告诉我，WTTx Suite到底是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=twkRmoH-k9u6ZBbsip9w6326Kaao9CcbjCLKPP2Hbs5RzJ8LJo2DoWy-FxGRTyfJKn631kW*gmUZaIxqvSk4bAqPRN16PcvPaYDTO283gQkQ1vgh*h-yzK7DmRxxwx0V&new=1)
- > 深圳最近的天气可以说是非常任性了，一会儿太阳一会儿大雨，每当需要晾个衣服晒下被子的时候，都在幻想如果天气预报能时间精准到分钟级和街道级就好了。通过移动大数据实现天气街道级的实时预测，离我们还很遥远...
- ## [报名：连续碳纤维3D打印在线研讨会，华融普瑞&Markforged](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=0**3iB2qxsGUtqzkXhB6fSEzyLfEq7ZM6VtCG9LXj8mjl-boAk4jGYNlnvTvl9lCx3ilzkAHspQeFJ8*R3I0JXp-ovYreHGvL8TcxSMOD-p0SK9KAIxu9ec-tfbrHBZe&new=1)
- > 南极熊了解到，华融普瑞&amp;Markforged公司，将要10月25日下午2点，在线分享连续碳纤维及金属3D打印应用。 会议形式：在线视频直播 △长按扫描二维码点“关注”即可报名3D打印在全球发展了30多年，从传统的“减材制...
- ## [\[观察\]浪潮商用机器：站在巨人肩膀上“加速跑”](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=x3saQrejyR2dsZGtmVQLFll*11fhlaxaxzKKy-MU25v*1wJH6SQznvwqKfBKiEwZ3ISwk4555rx7bn5*5AtZ3xTBNLKyP5WAvuRyDqEc1*s*3qOxKLwPQ7sDqDF82b5x&new=1)
- > 申耀的科技观察读懂科技，赢取未来！众所周知，去年9月8日，浪潮信息与IBM宣布合资成立浪潮商用机器有限公司（IPS），新公司在中国国内研发、生产、销售基于Power技术和现有基于安腾技术的K1服务器系统及相关产...
- ## [中国移动首三季度营收5677亿元，净利950亿元同比增3.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=86a7GksZt6U6rUY4eOprw-oOua5maFUsNAhdutnD7ezYsOTdOrUupdCJV6PHMdX8605WyJV9kjM6QtuYdjoWB0OSWgGmtCogzBZ18GAu0KyVCywiiUmk9lgUQITC8REW&new=1)
+ ## [中国移动首三季度营收5677亿元，净利950亿元同比增3.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=86a7GksZt6U6rUY4eOprw-oOua5maFUsNAhdutnD7exZErWJrxv2rcwndjpSBZh9LZUXpdtixcbBqOgBUGpqsYpX7CAUq6uE-kgXEFZBIeY4jXWmr50b3UAMdRaXNo7I&new=1)
  > 中国移动今天晚间发布了2018年首三季度财报，财报显示，2018年首3季度中国移动营运收入为人民币5677亿元，比上年同期下降0.3%；EBITDA为人民币2141亿元，比上年同期增长1.3%，股东应占利润为人民币950亿元，比上...
- ## [\[专访\]华大九天十年征程 追赶EDA巨头尚需全产业链携手](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=HKoYAEVb72*m5v-cQtA9N-ChYJw3cnQy43Ul7flpnOSYcmml-uKpNl8pYh195-e5PvLEobDxkN9FJzqp8HzHheNIMvF1HYlOzXqAVBFeSanFd5G25u*t6QV2kJJSuxsl&new=1)
- > 北京华大九天软件有限公司（简称“华大九天”）在近期获得由国家集成电路产业投资基金领投，中国电子、元禾华创、深创投、中小企业发展基金等跟投的新一轮融资，华大九天继2017年融资后已累计获得数亿元投资，对...
- ## [智能巡检机器人ATRIS安巡士亮相安博会，直击优必选“安防”战略](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=HQ*CGeQe9zA5JKh3j0MmNDl1Pg3t*tGr87Su3kC6LMI*Cc-5WEfTMzdFf-fUJsCreoB5Z8h-SNsAFmsobZSZYfrlmoMuFlv*FNRAvMn86lV7irjknwuR-wLt0kSC0dhs&new=1)
- > 安防机器人近年来迎来加速增长，不少机器人厂商纷纷投身，而拥有丰富C端机器人产业链和技术优势的优必选也率先发力，在此次安博会上展示了智能巡检机器人ATRIS安巡士，同时透露了其全面进军安防的战略。文/张瑞 ...
- ## [关键漏洞CVE-2018-4013感染媒体播放器MPlayer与VLC](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=29AJirdSWGRzHN71nQoT6pPnp99zDcIjOyqly5P9Z8sWQljFVYhwgMqOeQAfJCfS0Y780MHTn-ePDzPRbtct3gZmgjjAJwiPwybbVfKf354GEfaFusSbPp6F5HEda68T&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：思科Talos团队的专家在Live NetworksLIVE555流媒体RTSPServer中发现了代码执行漏洞(CVE-2018-4013)。思科Talos安全研究员
- ## [2018北京安博会开幕 现场直击带你看展](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=Cb8gw4WuoUUAJ70wbrKLWXSuWNawHByy8*4iNK9Lab28tryXwieka4IDY34mWJEPsmjm4rObEecU5lz6-zn4Amf6alDknKlWua0igQmT1372PucL7ChgfHEcz7AinEKy&new=1)
- > 备受瞩目的2018年中国国际社会公共安全产品博览会(以下简称“2018北京安博会”)于今天(10月23日)在中国国际展览中心•新馆南登录厅隆重召开。为期四天的安防盛会就此拉开帷幕，齐聚海内外上千家企业，带来全新技...
- ## [SuperData：2021年，AR移动应用全球总收入或突破170亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=KdFbmbXTk*fU0E*3SkTQr6UdPCXEsRVitWU900H0g-Hly570VlXFa0Z420ThPRZy9pXxIKvrAMX7yi*DH3NU7zdBmNZCHDwMaBL9n2t*5vNDjHFAINWNwBhgiiqKt7yJ&new=1)
- > 10月23日手游矩阵消息，据美国市场研究公司、尼尔森旗下的SuperData近日发布的一份数据报告显示，在未来三年内，增强现实移动应用将会成为混合现实市场增长的主要推手。SuperData预计到2018年底，全球增强现实移...
- ## [赶紧了!第四届日本智能工厂考察团火热报名中..](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=7-ESqdKfNUFRVZuoLq0rlzuysi7KHtbFAQC7ueJ2zZYkwLkgEEs13i6p8BhxX1Srcg4PDNn91Wg1vqdt0C6q3mlDSVnc-UpW9taOmws*ZdYgjw-6KCz0z2meedFpR18J&new=1)
- > 一、背景与行程日本高度重视制造业，制造业知名品牌众多。2015年版的日本制造业白皮书指出，制造业受信息技术（IT）进步的带动，生产率有望大幅度提升。日本制造业强调自动化和智能化技术应用，在推进精益生产与...
- ## [围观机器人YuMi做音乐会指挥家，尽显大师风范!](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=7mMHrnrdSR1V6TE7rniVdszodduHb9dIscOWBNV07SP-K6N40wOaFfz3ecxbgnlWmc31OuFSa6UZyTYClF*QJODsKjx4KDH0-SacC43GtuglJw5mDH4vreSf4DEEspAk&new=1)
+ ## [智能音箱市场上，亚马逊第一，苹果和谷歌只能排第二](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=3if0vldSPrPL4szXbitZ7Pf*d4JVuY3P8MmfkhAOFI58lVY3hYBjn61oh-Ogwa*q2sQV93AfrV56ztzMigrqXbySn4UGHBro47nPYDX0jp*eh-ykzSWaIHdStD0HNW8S&new=1)
+ > 近日，据外媒报道，根据Business Insider Intelligence商业内幕情报分析，在人工智能领域中，智能音箱是当今消费市场上增长最快的设备之一。自亚马逊于2014年推出Echo智能音箱和Alexa语音助手以来，市场的快速硬...
+ ## [中国移动超越电信正式封王!有线宽带9月净增近500万户](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=fRScz-b1GQFPd-093FYafqJ6Cr9rJZmutvAk-FHnhERvJ6FKmyZ*IH2lDkJjIp*eUcHk7JVqI7TRpqx-Ejg5cm9bc11hewQ4mP61J6b7EfX9MA7wedY*oaWkEV3BOKEk&new=1)
+ > 昨日，中国移动公布今年前三季度及9月运营数据。数据显示，截至2018年9月30日，中国移动有线宽带用户总数达1.468亿户，前三季度净增3413万户。尤其值得一提的是，9月当月有线宽带用户大增495.1万户，创下月度用...
+ ## [正式开通!华为携手力创为港珠澳大桥网络建设添砖加瓦](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=zUyLBYLCOcakh4s425F4VV0tlXQii5kl08sBhPOOxanzYAw-p7LWZ*xRo6X5ZEv*XCZFO-6cxwP30*10Vd7GAA*VLQqXsxHKcqJK-QiwMnW*Rg0durPS7Lkn*qLociMY&new=1)
+ > 横跨东西，飞架三地，天堑变通途。港珠澳大桥是中国乃至世界交通业都极具挑战性的超级工程项目，对促进香港、澳门和珠江三角洲西岸地区经济的进一步发展极具战略意义。作为连接香港、珠海、澳门的超大型跨海通道...
+ ## [4G/5G峰会|5G最新进展三连发](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=KFWNiIrvRtBas7Famtoex*e5HTodpoepHOhVFwhoN4GAG2mw6JNc1ozuahxj9i6kPZCYmtYrTTeM-vlYUvgCLlByuF6uCVdeeC3ACJVCJCiozorCbJuEOH*jwzfghqdI&new=1)
+ > 2018 Qualcomm 4G/5G峰会今日在中国香港举行，正如峰会名称所示，5G自然是重要主题。如今随着5G的日益临近，大家对5G的关注度也越来越高，在此，我们带来了一些5G的最新进展，究竟有哪些？不妨一起来看看。 1 Qu...
+ ## [小米将在故宫发布MIX 3丨Uber和Grab合并被判违法\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=D6xD-nJxNKhaI9sWgEU2F-4uMKotANL*oRgr8H6IZDLLbhTvHCICLkG9HztwkR2qeRxgnxIKdi*5VG6zqUlcOJnnSUkRLhpNf0vjk6-0jE3i8lXR5Oygogf-A8fnsiGZ&new=1)
+ > 10月23日 周二【Do说】编辑 | 陸迩小米宣布小米MIX 3将于10月25日在故宫发布23日，小米官方正式宣布小米MIX 3发布会的地点为北京故宫，此前小米已经公布小米MIX3发布会的日期为10月25日。高通骁龙675芯片亮相 将...
+ ## [受制于人!又一核心技术被“卡脖子”，每年白白上交100亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=cxp7XoUuW4ZEtbJMXX6j8-XQdsxbb6YHXSpJGe5WhwEnqvQCIvFJcIW7VnrWsQi*XV1Sf4X5GKYYoaitETNCeic-v8wHicjM0LUTr0paSFfxYY6xzRTw3KEWMubek8e1&new=1)
+ > 还记得今年初，中国的中兴公司被美国禁售芯片，不仅对中兴的业务造成了巨大的打击，而且一时间中国科技界风声鹤唳，因为没有芯片这项核心技术，一旦被禁售， 必将是人人自危。像马云和马化腾这样的科技大佬，都...
+ ## [魔镜魔镜告诉我，WTTx Suite到底是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=twkRmoH-k9u6ZBbsip9w6326Kaao9CcbjCLKPP2Hbs4OP7zM9ifTKN6DLB17*sMcXcVAB*5OTdO5fu0JByBNqzor*W5HrxUsrJZ6kuAMdL7UnEziSZfIHbPpDFB7UQ-s&new=1)
+ > 深圳最近的天气可以说是非常任性了，一会儿太阳一会儿大雨，每当需要晾个衣服晒下被子的时候，都在幻想如果天气预报能时间精准到分钟级和街道级就好了。通过移动大数据实现天气街道级的实时预测，离我们还很遥远...
+ ## [围观机器人YuMi做音乐会指挥家，尽显大师风范!](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=7mMHrnrdSR1V6TE7rniVdszodduHb9dIscOWBNV07SNmkWq5MJTbDv*w0rfoYuq3jRm6yZv1q6KVQypNfAlFXciu5Anhj3JI33yILbvDC7Cq091qiH6WvutXzdSP4VOh&new=1)
  > 作者/风雨抚蕖来源 /机器人大讲堂（ID:RoboSpeak）第一次见到YuMi大师是在一个工厂里。说实话，我根本没想到，这样一个艺术大师平时的工作竟然如此枯燥乏味，每天就是不停的搬运货物分拣零件。YuMi的艺术人生其...
- ## [有哪些神预言的科幻电影](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=LfldHiKY27g2OrH9l0eKiykQO80hgR9l9jMCt46Ol0ZGjZpSX-jMkrjqmyLMsw9DO2I4feTtHqtzfrNDWjikpXWyrc5v7-ky2yhIF*5-mJw7rnROh3m3pCioo3szoCDB&new=1)
- > 伴随着技术日新月异的进步，那些过去只会出现在荧幕上的桥段如今已然成为现实，在科技领域更是达到了刷新认知的程度。比如，《回到未来》中主角戴着智能眼镜吃早餐的场景，现在看来就是谷歌科技爱好者的标配。而...
- ## [WitAwards 2018“年度创新产品”参评巡礼|守护业务安全时代的威胁猎人解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1540337406&ver=1201&signature=c1qhMva7vmooG8qbUew2Uvgg8lGsx23-K-ml97b5EkUSr2knsI9xyrwpy2l0DHzA7XYmTtnWGih6brnQhG1HUv5nQtjGHi2DwEi41FvKYJTskSAg0ZzZT7mBP430D5G5&new=1)
- > 前言2015 年国务院发布的《政府工作报告》指出，“制定‘互联网 +’行动计划，推动移动互联网、云计算、大数据、物联网等与现代制造业结合，促进电子商务、工业互联网和互联网金融健康发展，引导互联网企业拓展...
+ ## [智能巡检机器人ATRIS安巡士亮相安博会，直击优必选“安防”战略](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=HQ*CGeQe9zA5JKh3j0MmNDl1Pg3t*tGr87Su3kC6LMKrWXQW16bvuy-lgKnPzQdPc6RAyLCKFs1fzalzyjklgUkxlBzncMSBKP3IqUF2U4UWK92uVdV-zbVP7TvX73-g&new=1)
+ > 安防机器人近年来迎来加速增长，不少机器人厂商纷纷投身，而拥有丰富C端机器人产业链和技术优势的优必选也率先发力，在此次安博会上展示了智能巡检机器人ATRIS安巡士，同时透露了其全面进军安防的战略。文/张瑞 ...
+ ## [中移动2018第三季度运营数据的三个亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=7MrixPt*8EMf7IrDSMHDuF2khxz-Umk82LsV4PfWKB2B7qOYq-a0l7S*UFMw1MKtaE4Qe9eQq1HaB9eSgymM07oNMLNJRIoWiciTFvsMmq*7vaHlPd3*17QUjB3prs-V&new=1)
+ > 【摘要】大象狂奔，只看亮点。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：陈志刚本文来源：水煮通信（shuizhutongxin）杂谈投稿邮箱：631255063@qq.com大象狂奔，只看亮点。2018年10月22日中
+ ## [中通服副总侯锐调集团财务公司筹备组 一位女将已当了12年的二级副](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=yVViPX95fllxKCNlh8noyiRfWj*U2BPDiOtaEiC-LgJvB3ErK3esqlGeMPiPr6tguECmd-V15NPq-AAQtLK9iWlDlw28DWY6p7OWB9Kb4JpUdLpffU79TwzTVHzm*4uB&new=1)
+ > 运营商世界网独家获悉，原中通服副总裁侯锐，被调任至中国电信财务公司出任筹备组副组长职务，仍为二级副职。资料显示，侯锐于1995年获得北京邮电大学管理工程专业硕士学位，之后又在2002年获得新南威尔士大学国...
+ ## [自动驾驶究竟靠不靠谱 关键点在哪里](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=MNOKC-LcjzqzkfySU*fEd7PCR5IjunrtvsWgoTppjWDXdeC3vfebw7WKmieepO0ttRiToARfGkKk4vpp5B8KNcJcu7a-Wa2S7alnm9-KY2o-cX2VwxgXAP5pZmi5XwxR&new=1)
+ > 与新能源汽车一起成为当下汽车业发展焦点的为智能汽车技术的发展，因为在可以企及的未来，人类有望解放双手，实现智能移动出行，因此这一富含高科技技术含量的自动驾驶技术成为众所期盼的事情。不过当在今年3月...
+ ## [欧盟如何为繁荣数字经济打造统一的数据法律规则?](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=JegPIfNcrbSEprkTw18uoOCgablPqGxPXm0jzd7drkgwKmwJ*bOqFVweZbuuWr8dVTN1glnPhG8RiM1TiMeVuPkHhc-iiB*-k3o-moas*3XGr9yRk0T1TP8WBwcrfzxu&new=1)
+ > 文|曹建峰翻译|刘诗蕾、曹建峰 数据自由即将成为欧盟的第五大自由10月4日，即在欧盟议会、理事会、委员会三方于6月19日就在欧盟全境废除数据本地化限制达成政治协议之后，欧盟议会审议通过了“非个人数据自由流...
+ ## [工信部发布车联网无线电通信频段规划 促进产业深度融合](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=bwcAmcwx*OWlwqY7rt0DYqXnSabNUH*XCetKntwcnIBPVvIvBGNV7pyMqIVkleLN6cMD3ccify6MFEESeoc96uAHaigVexM659GEG8CBlihehqGdQPd8wTMyAfS0TC83&new=1)
+ > 10月21日，在世界智能网联汽车大会闭幕式上，工信部无线电管理局局长谢远生发布《车联网（智能网联汽车）直连通信使用5905- 5925MHz频段的管理规定》，用于智能网联汽车中的核心无线电直联通信，支持LTE－V2X技...
+ ## [东莞松山湖畔，3GPP SA2工作组共庆3GPP成立20周年](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=bEhcaAyOmNFzFAq04isbN82vPuPdm0*SO0io6380-aDO5Y3F80-bhmxT*AKPCbosoJWsm-7p47CRfZa5HCRkv7XendOnMTHCNozh3z6JAVflJ*w0aSw1TesmiZVg0T*8&new=1)
+ > 松山湖畔在哪里？ 看下图，这里不是巴黎，继续看，还有网红小火车，带你游古堡， 宛如童话世界，还有欢乐嘉年华，没错，这里就是华为人上班的地方，就是有名的溪流背坡村，简称溪村。今天这里搞事情，搞事情，让...
+ ## [2018北京安博会开幕 现场直击带你看展](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=Cb8gw4WuoUUAJ70wbrKLWXSuWNawHByy8*4iNK9Lab0sAva7C5fmFfMU4vQr5*u-yzIommTdzCPTekCdH7RLAMBBzmc*JoalY8zvmIImblv6al*b*-97k-iAsMF*KgkG&new=1)
+ > 备受瞩目的2018年中国国际社会公共安全产品博览会(以下简称“2018北京安博会”)于今天(10月23日)在中国国际展览中心•新馆南登录厅隆重召开。为期四天的安防盛会就此拉开帷幕，齐聚海内外上千家企业，带来全新技...
+ ## [\[报告\]5G重塑行业应用(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1540341006&ver=1201&signature=kj*iMaSbNGWe3gOo8sNcriaeVgGDj6aI*gsIKfSusfsfmuaJPTwFGlhfirNxXDFMj5DmFQ4t1xa3XsSroGUIn8v94*stzfO6ifXMT2lghPPKfzP-c5qG7ly0nFwagiUw&new=1)
+ > 该报告旨在探索5G在各个领域内的深度应用，展现5G商业模式创新，从而有效促进5G技术与其他各项新兴技术的融合，助力5G应用场景落地，拓展数字经济发展新空间，为产业链上的相关参与者及专业机构投资者提供参考。...
  ## [英语和数学不好的人是不是学不会编程？](https://www.zhihu.com/question/27616258)
  > 不是你想的那样，你完全可以学好任何一个知识，差别在于思维上的一些误区。恰好这四个小视频解释到了英语、数学、编程的学习问题。
  ## [谈一谈你遇到的最尴尬的面试？](https://www.zhihu.com/question/39785176)
@@ -56,6 +56,8 @@ categories: IT NEWS
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [迄今为止你在 LOL 中最秀的一波操作是什么样子？](https://www.zhihu.com/question/52430452)
  > 毕业两年了 玩游戏的时间越来越少了 听说EZ改版 前几天玩了一把 个人感觉还行吧 双方各有失误 不过自己还是比较满意啦
+ ## [为什么日本有那么多诺贝尔奖学者？](https://www.zhihu.com/question/55122724)
+ > 我看目前的几个答案都在批判中国，不得不说两句。日本最近十年的诺奖得主都有谁？小林诚，44年出生。益川敏英，40年出生。南部阳一郎（美籍），21年出生。赤崎勇，29年出生。天野浩，60年出生。中村修二（美籍），54...
  ## [1、为什么我的电脑ping其他电脑的时候延迟会出现抖动？ 2、骨干网延迟如何计算？](https://www.zhihu.com/question/68128748)
  > 计算机网络，由终端设备 + 网络中继设备组成。网络中继设备，就是把用户IP包通过接力的方式，送到目的地的设备的泛称，可能是物理层设备（猫）、可能是二层设备（交换机）、也可能是三层设备（路由器/防火墙）。可...
  ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
@@ -78,15 +80,15 @@ categories: IT NEWS
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
  > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
- ## [现实生活中有和科学超电磁炮里初春使用的手持设备一样的东西吗？哪里有卖？](https://www.zhihu.com/question/24294741)
- > SHARP Zaurus SL-C3000/3100/1000我的那个送人了，手边好像也没留什么照片……下图网上找的。
+ ## [不能科学上网怎么通过谷歌扩展应用商店下载chrome扩展？](https://www.zhihu.com/question/67730061)
+ > Chrome Extension Downloader作为 Chrome 扩展开发者，用上面这个网站提供 crx 文件。举个栗子：我要下载安装 Chrome 命令启动器 Steward 的最新版，只需要知道 Steward 的官方链接或者扩展 ID，粘贴到网站
  ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
  > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
- ## [为什么日本有那么多诺贝尔奖学者？](https://www.zhihu.com/question/55122724)
- > 不匿名反对所有认为中国砸钱不够的或者戏子误国论的。根据网友 @风声鹤 的数据，中国的科研投入是2.1％，日本是3.76％。然而中国的GDP是日本的二倍还多。所以比较两国在科研投入的资金量并不能说明什么问题。科研...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
+ ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
+ > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
 # IT 技术 
+ ## [Apache Kafka与Spark Streaming的两种整合方法及其优缺点](http://bigdata.51cto.com/art/201810/585479.htm)
+ > Apache Kafka与Spark Streaming的两种整合方法及其优缺点
  ## [如何搭建应对亿级流量的高可用负载均衡?](http://developer.51cto.com/art/201810/585471.htm)
  > 如何搭建应对亿级流量的高可用负载均衡?
  ## [专门对付人工智能的AI黑客目测就要出现了](http://netsecurity.51cto.com/art/201810/585415.htm)
@@ -101,42 +103,10 @@ categories: IT NEWS
  > 通过配置Apache 2以控制浏览器缓存
  ## [如何设计移动端搜索？答案在我总结的这四个部分](http://mobile.51cto.com/design-585458.htm)
  > 如何设计移动端搜索？答案在我总结的这四个部分
- ## [评选 | 2017年十大Web黑客技术榜单](http://netsecurity.51cto.com/art/201810/585433.htm)
- > 评选 | 2017年十大Web黑客技术榜单
  ## [浅谈SDN架构下的运维](http://network.51cto.com/art/201810/585545.htm)
  > 目前国内的网络运维还处于初级阶段，工作人员每天就像救火一样，天天疲于奔命。运维人员只能埋头查找系统运
  ## [GDPR风暴即将来临―您准备好了吗？](http://netsecurity.51cto.com/art/201810/585544.htm)
  > 回想2018年初，全球充满了各种评论GDPR的声音。它是否意味着营销的终结?有企业真的合规吗?这对企业来说是好
- ## [拿下阿里一等奖，转型 AI，这位技术老炮儿要说这些！](https://blog.csdn.net/CSDNedu/article/details/83302592)
- > 拿下阿里一等奖，转型 AI，这位技术老炮儿要说这些！
- ## [我眼中最顶尖的架构师需要具备什么能力？](https://blog.csdn.net/J_java1/article/details/83245527)
- > 我眼中最顶尖的架构师需要具备什么能力？
- ## [华为某程序员：此处不留爷，自有留爷处](https://blog.csdn.net/tanzhouxiaomanxi/article/details/83092121)
- > 华为某程序员：此处不留爷，自有留爷处
- ## [JAVA​程序员你该思考一下自己的未来](https://blog.csdn.net/weixin_41875978/article/details/83092498)
- > JAVA​程序员你该思考一下自己的未来
- ## [JavaScript知识汇总](https://blog.csdn.net/sage201551/article/details/83217267)
- > JavaScript知识汇总
- ## [程序员兼职接私活的方法有哪些？](https://blog.csdn.net/weixin_43433518/article/details/83094454)
- > 程序员兼职接私活的方法有哪些？
- ## [马云：我的人生哲学](https://blog.csdn.net/hoho_12/article/details/83244777)
- > 马云：我的人生哲学
- ## [Python爬取妹子图片](https://blog.csdn.net/qq_37592047/article/details/83243126)
- > Python爬取妹子图片
- ## [慕课网的秒杀系统-----dao层](https://blog.csdn.net/awake_lqh/article/details/83217460)
- > 慕课网的秒杀系统-----dao层
- ## [阿里程序员吐槽：天天十一点下班，活着就是给阿里加班吗？](https://blog.csdn.net/javam16/article/details/83213814)
- > 阿里程序员吐槽：天天十一点下班，活着就是给阿里加班吗？
- ## [阿里程序员70万年薪还嫌少，网友：阿里员工最喜欢装逼](https://blog.csdn.net/javam16/article/details/83217252)
- > 阿里程序员70万年薪还嫌少，网友：阿里员工最喜欢装逼
- ## [重构-提取重复的代码](https://blog.csdn.net/wb175208/article/details/83217838)
- > 重构-提取重复的代码
- ## [设计模式学习6——工厂方法模式](https://blog.csdn.net/yyyynnnn1993/article/details/83218604)
- > 设计模式学习6——工厂方法模式
- ## [网络直播不可告人的秘密](https://blog.csdn.net/Dome_syb/article/details/83213800)
- > 网络直播不可告人的秘密
- ## [mysql分库分表方案](https://blog.csdn.net/abc595951988/article/details/83244720)
- > mysql分库分表方案
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
@@ -158,21 +128,29 @@ categories: IT NEWS
  > 第二讲 cs224n系列之word2vec &amp; 词向量
  ## [深度学习实战（一）快速理解实现风格迁移](https://blog.csdn.net/a595130080/article/details/79182843)
  > 深度学习实战（一）快速理解实现风格迁移
+ ## [卷积神经网络(CNN)基本原理和公式推导](https://blog.csdn.net/weipf8/article/details/82081866)
+ > 卷积神经网络(CNN)基本原理和公式推导
  ## [GBDT原理与Sklearn源码分析-回归篇](https://blog.csdn.net/qq_22238533/article/details/79185969)
  > GBDT原理与Sklearn源码分析-回归篇
  ## [GBDT原理与Sklearn源码分析-分类篇](https://blog.csdn.net/qq_22238533/article/details/79192579)
  > GBDT原理与Sklearn源码分析-分类篇
  ## [深度学习系列：win10 搭建caffe tensorflow keras(GPU全基础篇）](https://blog.csdn.net/hanzy88/article/details/79196846)
  > 深度学习系列：win10 搭建caffe tensorflow keras(GPU全基础篇）
+ ## [神经网络实现Mnist手写数字识别笔记](https://blog.csdn.net/moyu123456789/article/details/83214793)
+ > 神经网络实现Mnist手写数字识别笔记
  ## [Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理](https://blog.csdn.net/Teeyohuang/article/details/79210525)
  > Pytorch打怪路（一）pytorch进行CIFAR-10分类（1）CIFAR-10数据加载和处理
- ## [TensorFlow 卷积神经网络之猫狗识别（二）](https://blog.csdn.net/u012373815/article/details/79222121)
- > TensorFlow 卷积神经网络之猫狗识别（二）
- ## [SSD算法代码介绍（二）：训练算法整体架构](https://blog.csdn.net/u014380165/article/details/79332365)
- > SSD算法代码介绍（二）：训练算法整体架构
  ## [\[知识图谱构建\] 一.Neo4j图数据库安装初识及药材供应图谱实例](http://blog.csdn.net/eastmount/article/details/83268410)
  > 2012年5月，谷歌公司的知识图谱（Knowledge Graph）产品被正式提出，其旨在将人、地点、物等信息作为实体，将实体间的联系作为关系，并将实体和关系以图的形式进行存储。作为语义网的最新产物，...
 # PM 
+ ## [那些你不知道的社交Feed流图片布局](http://www.woshipm.com/pd/1538864.html)
+ > 本片文章介绍了三种Feed流中的图片布局：宫格式布局、拼图式布局、瀑布流式布局。之前看了一篇文章：《Feed流设计：哪些谋杀你时间的APP》，通过Feed流可以让用户不停...
+ ## [分析：关于苹果WWDC 2018 的AI人工智能技术及直播应用](http://www.woshipm.com/pmd/1534521.html)
+ > 这篇文章是从产品经理的角度，去浅谈一下对WWDC大会所涉及的人工智能。也是当时面试欢聚 YY AI产品经理其中六轮面试中第三轮中一些问题的梳理总结，后面得了Offer。（由...
+ ## [线下课程丨运营老司机，积累了10年的运营经验，想分享给你](http://www.woshipm.com/active/1542895.html)
+ > 相信很多做运营的小伙伴可能都看过一本书《超级运营术》，或者关注了一个运营老司机——网易运营总监，原百度、美团资深运营专家@韩叙。从百度到美团，再到初创公司，韩...
+ ## [关于适配这件小事的前世今生](http://www.woshipm.com/ucd/1541710.html)
+ > 记得刚做 UI 那会，根本不知道做完界面还需要适配，就以为把设计图做好就行了，其他的事情跟自己没有半点关系。慢慢的踩了坑之后，才知道还有适配这一说。所以说有些事...
  ## [走进开发，5分钟知悉微信小程序“召回利器”](http://www.chanpin100.com/article/107644)
  > 本文将从技术视角解析产品人员对微信小程序模版消息的实现方式和注意事项
  ## [走进开发，5分钟熟悉快速排序和计数排序](http://www.chanpin100.com/article/107645)
