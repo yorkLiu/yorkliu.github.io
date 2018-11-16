@@ -1,51 +1,51 @@
 ---
 title: 2018-11-16 IT News
 copyright: true
-date: 2018-11-16 08:01:11
+date: 2018-11-16 09:01:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [张云勇：共享数字世界繁荣](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=k7QG8wBp5wdw4Q8OHft8tSoZMC3F5PcpC9bmjUETYG3sAds-QM0bXRclH0tQqQCuPiDTrRQ*y-ImEVp6Whe1oBYyLVJ3tgv5*Z1AcyVRgud0d7iyc-OfRl1ukOvFcVjB&new=1)
- > 文章作者：张云勇                 全国政协委员                中国联通研究院院长文章来源：人民政协报                2018-11-08期03版　　随着信息网络技术的快速发展，全球产业数字化、
- ## [新：惠普HP金属3D打印机要来了，Metal Jet金属喷射](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=536L5l4HjTs9KJbYVB*6MRaGk1POyAASPq9HkMQV*wO9Z6TrCwj2hmTACKkyYQgv0lpBGtJBsdsErINFEi*EeZCLKwjqj8C-X7yUk0VIwLKU1kLgr--BRnxQGWMX-9KR&new=1)
- > 南极熊导读：喷射金属3D打印技术，特别适合用于规模化生产。△HP 使用喷射技术3D打印的金属件，有个明显特点是：批量规模化惠普自进入3D打印行业以来，凭借强大的技术优势，不断推出新的产品，并在市场端持续发...
- ## [微软与河南职业技术学院再建深度合作——大数据“双创”平台丰富校园整体建设](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=zZMeYZ1QevbTbH5v2WPcYJvgPicD-JVKsD9QnQH3jg9BTgOUZbz7i*zcdRDyzI2-I-BepyaSOBos5wA5mjtty7SjXh-rj9vuImfLWmUNSqige8MMX2MDj8cffOuBwGbD&new=1)
- > 2018年11月9日，“河南省大数据双创基地”建设成果分享交流会在河南职业技术学院成功举办，会上微软与河南职业技术学院正式签约共建大数据双创基地揭牌，并签署了“微软技术实践中心”“微软创新学院”授权协议...
- ## [广电总局开展专项统计，详解全国有线电视用户情况](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=8CqslPPsZavdJqLWsFMgiRsKBcSJcNLzIaskUNvZa8quHuxKuDLtm8jznpo46j4XLEutq2FXxO2GJyBGseLCQKiiEAki8DSGKllwKF*rRAjDPU-PW1V0b9P3TM1KfIcb&new=1)
- > 国家广播电视总局近期开展了全国有线电视专项统计调查工作，对2015-2017年全国有线电视网络用户情况、投资与收入情况、省级有线网络业务情况等数据进行统计，完成了《全国有线电视发展情况专项统计调查分析报告...
- ## [Win10 1809虽重发 但这些问题都没有修复 尤其是网络中断问题](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=8aF3c6dgHjGUleDBVrkrSnXL7rikF5*JQBlLx3ASeRCafgv5-ve3--pyxUaZAo6BbAY9Q0TcWmwp3qZWAjGns37tK5qz-dQfZw2kM3b*h3QX7mNmq0cmQe8hX8EQnVUc&new=1)
- > 今日重点推荐：微软画了两年的大饼终于要完成 Win10迎来浅色高亮模式 详情请查看今天第三篇推送或点击阅读原文按钮进入蓝点网查看。---------人畜无害分割线---------昨天微软在撤回 Windows 10 Version 180
- ## [扎尔伯格禁止高管用iPhone 曾怼苹果：产品太贵不重视用户利益](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=NpfZsUYHfGGnIl*0ufjcPtYon7mE-nFVd0buTH9yXzG5GXdtO52flJfCl1M5CEaXScKcVmTc47MrtF-0pDGW6mHwK1dV6drhhs-iGz4fq7Sl4DjQz3n6aib3lAzQ2jy8&new=1)
- > 最近这一年多来，扎尔伯格和他的Facebook可不好过。由于这家社交网络巨头堪称一个全球化国家，积累了有史以来最庞大的个人数据库，然而这些，也成了它的隐患。Facebook创始人扎尔伯格　　据了解，越来越多的证据...
- ## [被 库克“怼”了之后!扎克伯格下令Facebook高管只能用 安卓 手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=iVNhp-dLgHXfauV9N7gPem05DXr2IKDaNKq5mfJpAivpxtsEgoc7PS4Et1mIzcLXASIazID*ZBsRyUuive7OWUm5cKQMu8s2eSwL0nQF53Gsw3eEsAQ0eMzseqBrB8Vj&new=1)
- > 11月14日，据The Verge报道，Facebook首席执行官马克·扎克伯格(MarkZuckerberg)下令其高管团队只能使用安卓手机，因为安卓操作系统在全球拥有更多用户。但据《纽约时报》报道，实际上这一决定是在苹果首席执行...
- ## [打造创新生态圈!安谋中国与天府新区签署正式投资合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=-RXcpcM-7I*iW*H*8X8kCBjOMxze8BqaHbdoHrSxyHQ3aAadjgcCLwxIyiQ3GPre1Nvfo6KCpYGs3az6cuXWb2-rsPZQ4R5n2Cn5Vrn1yQXr5VH7agfSkVuwhK6Q2S1O&new=1)
- > 今年5月18日安谋科技（中国）有限公司与四川天府新区成都管委会签署战略合作协议双方计划共同建设：Arm集成电路设计服务平台Arm中国西部研发中心Arm教育研发总部Arm智慧小镇等项目5月18日，安谋科技（中国）有限...
- ## [\[科技早报7点整\]人人网6000万美元卖了 ofo戴威开全员大会 三星在本国遇到麻烦了](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=O9oFCaY6GWoW80jUlBdKAIZoIa-j92vrR8SWeXkITn787dqLKsgu-qy0*RgYLnOqdUFMc1wfovKnDWBPgX2D57CJisGPqaNoGMbQqF203UKK2rS-PW52mJKEQcRaMslZ&new=1)
- > 早上好，科技圈【一度蜜科技早报】第309期1.中兴通讯完成5G呼叫上网，明年上半年推出5G手机中兴手机发文称声：“5G手机，不玩概念！这是一台能打电话、上网、发微信的5G手机”。这是继10月底，完成仿真系统的5G...
- ## [5G开启无拘无束的XR体验](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=jWVXdwCVjFM7w-bASFz16IszVgW4ub2VsZ-kvkMJ9HzkVAMo31tBy1Z75mFqZEEr28s9C8E72bDraaxueeyj--ZuawzWlQ7uis3Bs3rJ841kIIJIENQ3XngZ7-D3Qf5Q&new=1)
- > 想象一下，如果XR眼镜能够应用到工作和生活，那我们的工作会不会更加高效，生活更加丰富多彩？现在，扩展现实（XR）带来了革命性的体验，这个梦想触手可及。然而，如何在轻薄移动设备的功率和散热限制下，让XR沉...
- ## [科技|又一家实现5G上网手机厂商曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=IOuuLH1goHyN*aInYS1sgOoo5LhMSRitOWLNAFaqHbhxCdnTYLzaLup6ufv2n85i1N*bjv8CUcJbmn2UVwBNCAtlZk45TyCp7cdPzpusFQ*HO52-Fijxls0-BKeE3THu&new=1)
- > 关注国产手机最新消息：11月14日消息，中兴手机官方微博发声：“5G手机，不玩概念！这是一台能打电话、上网、发微信的5G手机”。如图所示，中兴手机实现了5G呼叫、5G上网、5G微信收发，这意味着5G网络顺利通过应...
- ## [Cloud MANO架构师/开发/系统集成工程师丨爱立信西安Digital Services Center](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=-LWmhI*jTqeWxjciNoe*B96THtmwPVigYgK9UjM3khOaG2Sp0I-pLCchYTkxaHZNps3uEz1GfxUb3P8k9iAN522EjCCZ-uV7wPgFyoJVmw7*VJfRYV75UF7n8n3GFnCI&new=1)
- > 爱立信西安Digital Services Center成立于2012年9月，包含云架构及开发，云管理及云编排和5G核心网等部门，主营业务是向亚太区乃至全球客户提供云计算，云编排和云管理及5G核心网网络设计、研发及集成一系列端到...
- ## [“智慧联通，遇见未来”中国联通亮相第20届深圳高交会，引领5G智慧新未来](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=YraSNXzISIjB30X2ngPBHoloHUQgybsY3P3g-KbiA9r3KoY2*AWDWt669oWw3mLbSC3eiIYiDql5Rhde9uWl2KvX2hhmEJLdPVCA-PzMB-f2IY4qwUwSRzzVsWGTluK4&new=1)
+ ## [易车CEO张序安：焕新2019“1234”战术赋能汽车经销商](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=wGXDJigdz2JzS3K7yyFHp87nMW1j1vtZqdJuEIRPGhjIowPLb5*eyC3GWxsE5LSluGzj*idpv5CMO8PV4efENbPKVWWxkea2BrarhxC6z80HfUR7C2WzBHffwn6qvR2r&new=1)
+ > 11月15日，由易车主办的2018中国汽车经销商高峰论坛在广州举行。经济学者、汽车专家，以及来自汽车行业协会、汽车厂商、汽车经销商、汽车媒体的约1500位嘉宾参加了大会。本届论坛以“焕志明势，拓局赋新”为主题...
+ ## [“智慧联通，遇见未来”中国联通亮相第20届深圳高交会，引领5G智慧新未来](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=YraSNXzISIjB30X2ngPBHoloHUQgybsY3P3g-KbiA9r3KoY2*AWDWt669oWw3mLb*Hxftv-gmEo3fP9qcApKYXyIBDRMneeaNGsoIlIIp1CdChxKsu6zX8yimyEqscyG&new=1)
  > 11月14日，第20届中国国际高新技术成果交易会（简称“高交会”）在广东深圳会展中心盛大举行。现场不仅有5G云轨、5G低时延冰球、5G虚拟现实在内的炫酷体验区，更有各种高科技设备亮相，吸引了许多观众前来互动，...
- ## [太突然了!刚刚，全球首个机器人主播在中国正式上岗!](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=vfc7lbo5oAvs-Whaiw-AAMH0l9Sz8Mi9eDPcgywne9VoLGDr0kL9xLtHcon*xXr7s5TFehJ4x4skoauqIOar5tZzEfsjbvlIZhYXZd2cecKi27SuKmiX9h1H-SG58yxI&new=1)
- > 来源：商界洞察（ID：idongcha）太快了！ 我们一直担心人工智能会不会取代人类，现在“狼”真的来了。 一、机器人主播横空出世 最近，在第五届世界互联网大会上，一向行事低调的搜狗突然引爆了一颗重磅炸弹，让...
- ## [讯石专访|腾天光通信：立志打造“高品质”代名词](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=N9KVRMCx2lnR0cF0mSdq6Ujc-HokzIdpnwTiHbKXmCu43qtvs3tngZSy*LnTkG2eWGyabi*kF9xd4pGV0oCmxzhanXrpyBx-MpRqhRotf5zdvjTIo60OgLSUikVSSre4&new=1)
- > 导读   本期讯石专访腾天光通信董事长刘继亮先生，解秘在风萧水寒之际依然转型成功的腾天光通信。腾天光通信成立于2000年，其下属子公司鹤壁腾天光通信技术股份有限公司专注于高端光无源器件的制造;深圳腾天昊宇...
- ## [华为助全球Top 50运营商中的42家建千兆网络](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=0Li8nmiMiZdXHbZubNUj4-awKy0kYw8jHcV6EK9sOFNYomz7soLoRcc0VJSze64tnW4cvNo-Ilayuo2-7g5OhP5YqJPuZZ2OzWim9gk5diBttJcMRNOOp54hTDJXVApf&new=1)
- > 近日，上海电信建成千兆宽带接入第一城，引起各方高度关注。据了解，在上海电信千兆建设中，华为提供了较多支撑。而且，当前国内乃至多个千兆网络的建设，华为均有参与。 目前，各方关注不同PON技术升级到10G PO...
- ## [广电构建IPv6大网就两步：先修好路 再修好车](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=ME7neOMa6S*Rvo7I*o**LD0UYlDBXV99odlR8koYBdKTnCsuRCKVtSUvdrHiuBXukWNt74gzgFmN3x-8zO3HOLQHzr6OUINmdJuolOPw0gXik8QZvv54UohprRw-mSLc&new=1)
- > 去年中共中央办公厅、国务院办公厅印发了《推进互联网协议第六版(IPv6)规模部署行动计划》，《行动计划》提出用5到10年时间建成全球最大规模的IPv6商业应用网络。其中要求2018年年底广电的骨干网全面支持IPv6，2...
- ## [中国电科38所发布全国首台“超级针”X射线成像系统](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=depehcqu00Iajil2Qkg0-dIt*gnDgvxKPKJAmpH68asm-eWkPT-pGjXNAMaYpcHJLpW4Vcu7xNit9u3eXi*paLAPTbkteQDF43lfmO9mL-pUL4PYSXDU0m5YfwLQZ3KI&new=1)
+ ## [打造创新生态圈!安谋中国与天府新区签署正式投资合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=-RXcpcM-7I*iW*H*8X8kCBjOMxze8BqaHbdoHrSxyHQ3aAadjgcCLwxIyiQ3GPreR8DFb7GJrR5iUPherQkv8NW1EvOpNNdhrJpIf5pjDKFUYTkkMrfQnbrdT039jYuY&new=1)
+ > 今年5月18日安谋科技（中国）有限公司与四川天府新区成都管委会签署战略合作协议双方计划共同建设：Arm集成电路设计服务平台Arm中国西部研发中心Arm教育研发总部Arm智慧小镇等项目5月18日，安谋科技（中国）有限...
+ ## [中国电科38所发布全国首台“超级针”X射线成像系统](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=depehcqu00Iajil2Qkg0-dIt*gnDgvxKPKJAmpH68asm-eWkPT-pGjXNAMaYpcHJoS1-g2SzJAxj3M-aV9Fx3GC9yd1Ob0sWns6MIUm1d7H6zcEWDuDr7GApYOyIC2xK&new=1)
  > 日前，中国电科38所发布自主研制的新一代无损检测设备——“超级针”X射线成像系统，这是全国首台“超级针”X射线成像系统。该系统拥有“火眼金睛”般的缺陷检测能力，成像分辨率小于1微米，相当于头发丝的百分...
- ## [像治未病一样重视网络安全问题!范渊委员的这堂课让人脑洞大开](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=ctkwlMHQoEBVkhNF-BtHRWPUZQLqoGiZ1rRYiqiS4Bk4oFz*Hh3kzwryVgXgpltVvBP-k3zfVJXySKiieUPpM1o6CQm-WqSGComztgGRxHg1ZYPdyvISD47wuo1FZYJq&new=1)
- > 在刚刚结束的第五届世界互联网大会上，5G、人工智能、大数据等各种先进技术的展示，让人们看到了未来以物联网为主的数字世界的基本雏形。当我们一面享受着互联网科技带来的智能与便捷，另一面却感受着互联网...
- ## [黑客慌了!一文全面解读网络安全中的机器学习](http://mp.weixin.qq.com/s?src=11&timestamp=1542324606&ver=1247&signature=iEMozsHnaYyi2u*yHNwLCIYNTy5ieHPRfpo2puKVeoyPfB5y8PcC3NK6X5bLSlMW7uQiZkO0p1DtiBhPodMWP2C-YBgYxGas*nKLYo19AGxZ5p754DBXIzpwomjpIKJW&new=1)
- > “ 在网络上，如今有关机器学习（ML）、人工智能（AI）、深度学习（DL）、以及网络安全防护的文章可谓是铺天盖地、纷繁复杂。我们该如何剔除各种炒作因素，潜心研究如何真正地将机器学习应用到网络安全之中呢？...
+ ## [共绘产业“新蓝海”!2018南通新一代信息技术博览会今日隆重召开!](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=IR0EVl2jrUmItNlfeWzYyBwowopOFzaFBG*4nBTDttBbcdJHprWHNQzuclLOw06-85p4bIv1wDAANEdRafgRJEP5hoK3uZPAMgLpj6q2HcnwL7jkNyPP5-Juxh6TfcI7&new=1)
+ > 11月15日上午，由中共南通市委、南通市人民政府主办的2018南通新一代信息技术博览会在滨江洲际酒店隆重召开。本次博览会以“瞄准核心技术、打造产业地标”为主题，南通市四套班子领导和各县（市）区相关领导，市...
+ ## [高交会聚焦人工智能 推动智慧城市向3.0进阶](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=wOexyGra7bizrNgCMeEPA-Pv8IFyUE3t-dhcykGiP2E4sMFivvsYJF8MVLRCamBhh0rVbgfG6UNODn6lnr2ymUKZBGqyWUExMK62nfkCumbSw9ngSTTIRinKgdaaruy5&new=1)
+ > 2018年11月14日-18日，第二十届高交会在深圳举办。其中，智慧城市展以展示未来“人工智能+智慧城市”建设概念和新一代人工智能的智慧城市领域应用技术获得广泛关注。来自世界各地的政府代表、重点科研机构人员、...
+ ## [中国AR/VR前沿科技峰会在澳门盛大召开](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=w5G2RNpSryNNUE-Xpq5umdFnvRiM89y9RlM1z5JuV73z0rKcy1qfA7wZG7TqsKcUJGSGPM1qXgOc85GnNV56n*uzFfni-Zv9Pz-i3VuQsdkOlcjswl-QsSl7XCt1U12w&new=1)
+ > 15以“创新、游戏、科技”为主题的2018全球数娱未来高峰论坛（GDES2018）于2018年11月13日-15日在中国澳门威尼斯人酒店隆重举行。在大会第三日上午举办的“中国AR/VR前沿科技峰会”中，邀请了众多ARVR行业资深人...
+ ## [华为助全球Top 50运营商中的42家建千兆网络](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=0Li8nmiMiZdXHbZubNUj4-awKy0kYw8jHcV6EK9sOFNYomz7soLoRcc0VJSze64t-NxXf*GMbgeYaMoAWjUAe5rLato3-byD5JNaB4OvYbnaMCnM2AMd7s*IBAS*csua&new=1)
+ > 近日，上海电信建成千兆宽带接入第一城，引起各方高度关注。据了解，在上海电信千兆建设中，华为提供了较多支撑。而且，当前国内乃至多个千兆网络的建设，华为均有参与。 目前，各方关注不同PON技术升级到10G PO...
+ ## [5G开启无拘无束的XR体验](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=jWVXdwCVjFM7w-bASFz16IszVgW4ub2VsZ-kvkMJ9HzkVAMo31tBy1Z75mFqZEErl75gVU3vSJivjfwGRDKkb0CtVhLL9FaSky46GH-jleeRPFihMfLDf1WoJYncUIcO&new=1)
+ > 想象一下，如果XR眼镜能够应用到工作和生活，那我们的工作会不会更加高效，生活更加丰富多彩？现在，扩展现实（XR）带来了革命性的体验，这个梦想触手可及。然而，如何在轻薄移动设备的功率和散热限制下，让XR沉...
+ ## [华为蔡英华：城市智能体，构筑数字中国基石](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=pResnqO1mPs*m4seiDoNd2zQA4j1pfRkkAYx4szRZEUDuYakdVb0OJuPGUXS3QDSx-UuyM61vf4STvBUw*tZAHrDTphsKDayGB1mxkE4Qr-MNIKTzwoWrY29OBb88WDR&new=1)
+ > 11月15日，在2018高交会期间举办的2018亚太智慧城市发展论坛上，华为EBG中国区总裁蔡英华发表了题为《城市智能体，构筑数字中国基石》的主题演讲，并正式发布华为“城市智能体”这一全新理念，旨在携手更多客户...
+ ## [改善通信质量和提升价值!商超数字对讲机新利器](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=uPKsVg4ESkFhIjpHLnNibnIx2-FQ84TfP7ALYUy7UaiUKhDDpTrZ-2zaB1EK9A7OxFa6Vxs6TBhJ91x8IkyK5YdDptPwbf93aydJJ0q4h6X6XqXpdx4pR6Mhyt8vSyOp&new=1)
+ > 对讲机作为一种高效的通信工具，广泛应用于酒店、宾馆、KTV、物业、会所、工地、商场、超市等各个工商业的场所。当今市场上的对讲机琳琅满目，令许多购买者无所适从，困扰不已。今天，为您奉上选购商场对讲机秘...
+ ## [科技|又一家实现5G上网手机厂商曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=IOuuLH1goHyN*aInYS1sgOoo5LhMSRitOWLNAFaqHbhxCdnTYLzaLup6ufv2n85i6iaxIugXRHZOlyhs8tbpCJH7NwVZpa7TWDLoFCfIicWBE-hkr835D2szCeTzWBTG&new=1)
+ > 关注国产手机最新消息：11月14日消息，中兴手机官方微博发声：“5G手机，不玩概念！这是一台能打电话、上网、发微信的5G手机”。如图所示，中兴手机实现了5G呼叫、5G上网、5G微信收发，这意味着5G网络顺利通过应...
+ ## [2018年VR/AR十大关键词(二)：赋能](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=OEMVt9JX542g4X1WjZLN46KzqJ178DPQ-2wbQwbwK3JlRJcJZJaJRornwmITyBfGEyrK2ZjsbLkGvTvjQ0VkRZnJIlbm*nKkYrjqZaI84ffciVyRE6f9*tseXrPGe4Rx&new=1)
+ > 2018年，你被VR赋能了吗？正文共 3464 字 9 图；预计阅读时间 9 分钟编者按：临近年底，VRPinea又开始了2018年VR/AR十大关键词的盘点。今年VRPinea选择的关键词为5G（详情可戳：2018年VR/AR十大关键词（
+ ## [联通“瘦身健体2.0”开始，电信移动会不会跟上?](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=lUo2AhMCZaytt1lV5*Hg1j38FT7c8kZegxXC*XO48TB99KY4kwJGJkDMvRi2NRLSias7fdGUDbknMnpVu1H1rWIYGJxddWAWqfHYJGRhJAeIL*gKdjxCm5h0o*B7YlzY&new=1)
+ > 自2017年9月，中国联通启动“瘦身健体 1.0”之后，“瘦身健体 2.0”开始了！据中国联通内部人士爆料，“联通瘦身健体2.0开始了，总部市场部、实体渠道部、电商、互联网等多个部门有所合并，机构继续缩减，估计省...
+ ## [“调戏”免越狱虚拟定位外挂全记录](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=I5Vvtfd3Onof6J-w*5NO0GEiQAQ4IHOR3-V7IjbO*v1IN4BMs68DUfTZgnrqB8VHbRVFZ1-jXCpxyS87YZIoWEERnH6v7aV32csQw21p-NBxq4B4A3Q7bU4gLZ6ffbv9&new=1)
+ > 最近宅客频道从好朋友掮客酒馆上看到一篇文章，于是在夜深人静的今天分享给各位夜猫白帽，作者冰粥先生@B1nGzL。前言因为工作关系最近需要分析一款windows上的虚拟定位外挂给出一个检测方案，有趣之处在于这款外...
+ ## [中国联通即将新一轮大规模精简机构 涉及集团和各省公司](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=k5uIyr*XGYrCrzJV2iJRzxM-ERKe2paMDKhQ592ajzP-7ISjVzOzDR*AqVRPihbOoF2nSjt5XQGD5RbZUw5B18O7wIFp3lGkEtizgK4acJpDmSPBouKLIfTqTE90IS2S&new=1)
+ > 运营商世界网了解到，中国联通瘦身健体2.0目前再次被提及。据中国联通某在职人员爆料：“联通瘦身健体2.0开始了，总部市场部、实体渠道部、电商、互联网等多个部门有所合并，机构继续缩减，估计省市公司也会跟进...
+ ## [传奇|计算机历史博物馆让经典大型机保持运行](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=DPbrSzPQDBDTjisGGMFVnQ-9tKGMgInIRSmu9PcVjB1v2baq1cuk0s5StfqjOZJM9q8y90l1As4ZqiklaOCXFEgVVDJUznaknjP1TOBoxonmnhWRebo-J5rIEKb04Zgb&new=1)
+ > 照片来源：Ken Shirriff将数十年前的大型机恢复到可工作的状态令人印象深刻，但让它保持运行更令人印象深刻。早在2004年，硅谷的计算机历史博物馆（Computer History Museum）收购了一台IBM 1401大型机。IB
+ ## [45公司争夺3072张“许可证”!美国居然这样拍卖5G牌照](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=FE2eAdTpjH5P3WZ7vjf7SBLVcx1rjIRJSKaZDYGnvNT9ZFeCRh5RHD8mVqyhemQGb5tvMcSlpL9JYt0JLM75eIBHDEFCPukDXFWodnbY2edCIoiR0-Bks0bAUQ*i3rZb&new=1)
+ > 【摘要】本周三，FCC启动了美国首次高频的5G频谱拍卖。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文整理自：腾讯科技，5G (angmobile)等杂谈投稿邮箱：631255063@qq.com据外媒报道，美国联邦通信委员会
+ ## [中国电信5万台天通手机集采，惊现0元中标!](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=XZBPDTPFYopQFgqncYmp16MkWnTAFwT7Lsi-*ShvNDI3pYAoLK9YGDBxtF8-m3yfxJHAbT-3sm2gI8OURLmcirvo1rArGJy*xf-BRUEl4oyzk8WRZTx5u82HSkpucde*&new=1)
+ > 今日，中国电信官网公示了天通手机集中采购项目（二次）标段(包)\[001\]标段1中标候选人，中标候选人为北京华力创通科技股份有限公司，投标报价为0.000000万元。5月30日，中国电信发布了天通手机集中采购项目招标...
+ ## [心脏能“打印”出来吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1542328207&ver=1247&signature=sJQjpR3lLyey838DtZPGDgUfAACnw4Pei1xGyx1fr4L77AJ7AXMdyi69r*MqnKiPFqDOqfWUjprV20eX4f3llEWAxH9riK1vMPi*mnWG29P0uFIbqXoHTrf0ebHMmHvP&new=1)
+ > 3D打印3D打印的飞机、枪支和化石骨骼已经变为现实，现在正越来越广泛地应用到医学领域当中，给疾病患者带来福音。随着3D打印技术的发展，它不仅可以用来打印假肢，还开始应用到更复杂的人体器官上，比如心脏。首...
  ## [有哪些好用的前端开发软件？](https://www.zhihu.com/question/26339902)
  > 你必须知道：所有的浏览器本身也同时是一个前端开发软件。 最好的前端开发软件分明就是Chrome浏览器！ 对，你没听错，用谷歌浏览器Chrome进行前端开发！ 答主之前一直用VScode，用的liveserver插件，感觉还挺好用...
  ## [在知乎上，哪种答案属于政治正确或不正确的答案？](https://www.zhihu.com/question/20586138)
@@ -58,67 +58,67 @@ categories: IT NEWS
  > 不要问我为什么一些网站不能访问。https://www.google.com/https://scholar.google.com.hk/https://scholar.google.com.hk/GDC VaultBuild software better, togetherShadertoy B
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
- ## [对于美国互联网企业来说，中国互联网企业有哪些值得学习之处？](https://www.zhihu.com/question/300779615)
- > 首先我们必须承认，中国互联网公司相比美国互联网公司，还是有其独特的优势和可取之处。但是，远远没有到可以骄傲的程度，人家自谦下，顺便恭维下你，但自己不能像喝了迷魂汤似的，沾沾自喜、洋洋得意。中国互联网企...
+ ## [2000年前后的时间段，当年作为网民是怎样一番体验呢？](https://www.zhihu.com/question/47177695)
+ > 199x年左右，那时我家里已经有电脑，但是，没有网络，只能去网吧上网。每次去上网，还得列个计划，我今天要浏览什么网站，这些网站，基本是从电脑杂志，比如电脑报这种书刊看到的。这些网址，写在本子上，然后到网吧...
+ ## [怎么评价马云？](https://www.zhihu.com/question/20333333)
+ > 说个本人亲身经历的马云，绝对真实：2008年马云出席博鳌亚洲论坛，本人作为路人，旁听了他参加的一个session。session结束以后，马云就被听众团团围住求合影。当时马总身边既没保镖也没助理（不知道现在有没有），对...
+ ## [dish hd和麦格iptv哪个更适合家庭？](https://www.zhihu.com/question/21552714)
+ > 要说这个或者我比较有经验回答。应该说麦格电视和dishhd是目前看外面世界的主流产品，其中dishhd是卫星电视的代表，这二年比较火爆，网上尤其以楼主所留地址中的那个高清时代论坛为主要论坛代表。麦格电视是近日年的...
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
+ ## [如何看待王思聪开始第二波抽奖，这轮抽奖结果的性别比是否会发生明显的变化？](https://www.zhihu.com/question/302410600)
+ > 马蓉为何连续发原创微博？又为何在如此短的时间内密集发布？真相只有一个，她主要目的可能是为了参加王思聪的抽奖！（手动狗头）
+ ## [王思聪(王健林之子)和潘瑞(潘石屹之子)，两种风格的富二代，大家更喜欢哪个？ ?](https://www.zhihu.com/question/31330195)
+ > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？
+ ## [中国互联网有哪些黑色产业链？](https://www.zhihu.com/question/21180320)
+ > 任何跟「欲望」有关的产业，都是暴利，经久不衰，屡禁不止。而在贩卖欲望的过程中，被物化的往往是女性。街拍抄底产业链就是这样。猥琐男们尾随女孩偷拍她们的裙底照，然后卖给各家色情网站。更过分的是，街拍CD行...
+ ## [黄景瑜和王雨馨，你们信吗？](https://www.zhihu.com/question/59558041)
+ > 大家看看这个……10月28号就有匿名的人说过……而且酒店……今天真的发的黄景瑜在酒店坐着的图，所以……我觉得那个小花是张艺上。
+ ## [互联网企业的「码农」加班现象有多严重？](https://www.zhihu.com/question/279393351)
+ > 给大家讲个故事：某盗贼潜入一互联网公司欲进行行窃，但没想到始终有人无从下手，就只好耐着性子等啊等啊等，结果总有那么一大帮子人在加班敲打着键盘。过了一个月，盗贼终于逮到个机会溜了出来，此刻他已精神萎靡。...
+ ## [适合中小团队协作和沟通的工具有哪些推荐？](https://www.zhihu.com/question/41900639)
+ > 日常团队协作过程中，沟通交流必不可少。市面上用于提高团队工作效率的协作工具有很多，关键还得看用户需求~题主在上面的问题中专门指出，让推荐适合中小团队协作和沟通的工具，那么亿方云会是个很好的选择。因为如果...
+ ## [在互联网公司工作有哪些有趣的体验？](https://www.zhihu.com/question/300586308)
+ > 看到这个问题，我想起了发小告诉我的一些挺有意思的故事。她虽然不在严格意义上的互联网公司上班，但之前因为业务的需要，曾接触过一家互联网公司。在没有走进这家公司之前，她说就对这家公司展开各种想象，因为这家...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
  > 关于这个问题我深有体会无论你在tx的游戏里花了多少钱，只要你不是心悦会员3，你就永远联系不到人工客服，并且心悦会员3这个东西，一年要充八万，否则他就会过期当然如果你没有心悦会员3，那你就没有专属客服通道这个...
- ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
- > 答案分为 学生版 与 非学生版 学生版哈工大本硕985，北京公司，收到去哪儿（13K*16），华为，vipkid（18*14）,茄子快传（20*16），创新工厂（12*13）,秒针（18*16）offer,目前最低的月薪12K*13，最高的华为优招20K...
- ## [当年盗了马化腾QQ的黑客，后来怎么样了？](https://www.zhihu.com/question/282310269)
- > 之后他干了大事业 赚了xxx 然后……他早就移民了 移民后又回来了 前几年见过面 送了几条烟 不好评价不说了 自己去体会
- ## [如何给传统行业的人讲清楚互联网产业的运行和思维？](https://www.zhihu.com/question/32153293)
- > 你只需要包装概念即可。 放高利贷改叫P2P， 乞讨的改叫众筹，算命的改叫分析师，八卦小报改叫自媒体，统计改叫大数据分析， 忽悠改叫互联网思维，做耳机的改为可穿戴设备，办公室出租改叫孵化器，圈地盖楼改叫科技...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀。。。这问题问的是如此似曾相识，连语气都是。题主是特地换了小号来问的么？如果不是小号的话：看到你已经翻过知乎不少相关问题的答案了，也看到你手动点过几个赞，楼上庄哥哥也又这么nice地再解释了一遍（真是...
- ## [对于美国互联网企业来说，中国互联网企业有哪些值得学习之处？](https://www.zhihu.com/question/300779615)
- > 首先我们必须承认，中国互联网公司相比美国互联网公司，还是有其独特的优势和可取之处。但是，远远没有到可以骄傲的程度，人家自谦下，顺便恭维下你，但自己不能像喝了迷魂汤似的，沾沾自喜、洋洋得意。中国互联网企...
- ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
- > 今天刚投诉了一名骑手。本人讨厌迟到，比较重视合同精神。我们这边外卖员经常超时，因此我会购买准时达plus服务。在快超时10分钟的时候，我就发现没有收到货的情况下订单被点击到达了。骑手没有提前打电话给我，我也...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
- > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 10月24日晚上23点47分，马化腾在PC上登录了知乎与PC版本的微信。突然一个头像闪现了出来，马化腾仔细一看，这个微信头像就是自己的微信，只不过头像上的自己却非常年轻，于是有了下面的谈话。
- ## [如何看待王思聪开始第二波抽奖，这轮抽奖结果的性别比是否会发生明显的变化？](https://www.zhihu.com/question/302410600)
- > 不过滤性别，难道不能用别的方式暗中把你过滤掉么，反正抽奖算法人家自己写的，又不公开
- ## [我给淘宝店铺差评他说他知道我信息要在网上黑我？](https://www.zhihu.com/question/43774423)
- > 我给淘宝店铺差评他说他知道我信息要在网上黑我？楼主你这是被卖家威胁了呀，赶紧，来不及了，先固定证据很多人在网络购物时多多少少会买到不称心的东西（与图片描述不符），这时候想退货退不了，给了差评不断受到卖...
 # IT 技术 
  ## [促进企业采用NVMe的四大趋势](http://stor.51cto.com/art/201811/587018.htm)
  > 促进企业采用NVMe的四大趋势
+ ## [比特币到底是什么:中俄韩为什么要封杀比特币](http://blockchain.51cto.com/art/201811/587001.htm)
+ > 比特币到底是什么:中俄韩为什么要封杀比特币
+ ## [没有读过的书，程序员就不要瞎推荐了](http://zhuanlan.51cto.com/art/201811/586996.htm)
+ > 没有读过的书，程序员就不要瞎推荐了
+ ## [支付宝App构建优化解析：Android包大小极致压缩](http://mobile.51cto.com/ahot-586990.htm)
+ > 支付宝App构建优化解析：Android包大小极致压缩
  ## [如何利用机器学习来管理数据中心电源？](http://ai.51cto.com/art/201811/586940.htm)
  > 如何利用机器学习来管理数据中心电源？
+ ## [智能可穿戴设备的主要测试步骤](http://mobile.51cto.com/app-show-586947.htm)
+ > 智能可穿戴设备的主要测试步骤
  ## [运维不迷茫:给1到10年运维人的“修仙”指南](http://developer.51cto.com/art/201811/586952.htm)
  > 运维不迷茫:给1到10年运维人的“修仙”指南
  ## [NB-IoT是未来的物联网脊梁，还是扶不起的阿斗？](http://iot.51cto.com/art/201811/586987.htm)
  > NB-IoT是未来的物联网脊梁，还是扶不起的阿斗？
- ## [微服务测试的思考与项目演进实践](http://zhuanlan.51cto.com/art/201811/586946.htm)
- > 微服务测试的思考与项目演进实践
- ## [百度云曲显平：AIOps时代下如何用运维数据系统性地解决运维问题？](http://os.51cto.com/art/201811/586969.htm)
- > 百度云曲显平：AIOps时代下如何用运维数据系统性地解决运维问题？
- ## [Kubernetes监控方面要避免的四个常见陷阱](http://developer.51cto.com/art/201811/586945.htm)
- > Kubernetes监控方面要避免的四个常见陷阱
- ## [使用Redis和Python构建一个共享单车的应用程序](http://developer.51cto.com/art/201811/586938.htm)
- > 使用Redis和Python构建一个共享单车的应用程序
  ## [最小化误报：智能网络安全工具助力事件响应](http://zhuanlan.51cto.com/art/201811/587017.htm)
  > 随着网络越来越复杂，恶意攻击越来越高端，达成事件响应任务目标的难度也越来越高了。不过，用对了网络安全
  ## [为什么检测网络攻击需耗时数个月](http://zhuanlan.51cto.com/art/201811/587015.htm)
  > 现有网络威胁解决方案通常是尝试解决特定问题或阻止特定攻击步骤的发生，其中包含了试图强固安全“边界”的
  ## [Python爬取抖音APP，竟然只需要十行代码](https://blog.csdn.net/qq_40925239/article/details/83786958)
  > Python爬取抖音APP，竟然只需要十行代码
- ## [千万别做老板最不能容忍的三种人 z](https://blog.csdn.net/hdfghh/article/details/83955147)
- > 千万别做老板最不能容忍的三种人 z
  ## [腾讯 阿里 华为的岗位薪资情况概述](https://blog.csdn.net/hdfyhf/article/details/83931804)
  > 腾讯 阿里 华为的岗位薪资情况概述
+ ## [有个程序员男友是什么感觉？女网友：连约个会都要处理BUG！](https://blog.csdn.net/weixin_43338842/article/details/83932502)
+ > 有个程序员男友是什么感觉？女网友：连约个会都要处理BUG！
  ## [程序员晒出小学儿子满分作文《我的爸爸》，真实的让人心疼](https://blog.csdn.net/taya_a/article/details/83958356)
  > 程序员晒出小学儿子满分作文《我的爸爸》，真实的让人心疼
  ## [震惊，20年开发经验的技术总监不会搭建Java开发环境](https://blog.csdn.net/yelvgou9995/article/details/83961061)
  > 震惊，20年开发经验的技术总监不会搭建Java开发环境
- ## [有个程序员男友是什么感觉？女网友：连约个会都要处理BUG！](https://blog.csdn.net/weixin_43338842/article/details/83932502)
- > 有个程序员男友是什么感觉？女网友：连约个会都要处理BUG！
+ ## [千万别做老板最不能容忍的三种人 z](https://blog.csdn.net/hdfghh/article/details/83955147)
+ > 千万别做老板最不能容忍的三种人 z
  ## [sql 存储过程](https://blog.csdn.net/hza419763578/article/details/83961826)
  > sql 存储过程
  ## [【软件设计师】——总结](https://blog.csdn.net/xml1996/article/details/83959290)
@@ -139,37 +139,39 @@ categories: IT NEWS
  > 刚写完排序算法，就被开除了…
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [趣头条净亏损10亿背后的内忧外患](http://www.lanjingtmt.com/news/detail/39143.shtml)
+ > 与巨亏相伴的是，趣头条的股价也陷入跌跌不休的尴尬境地。与最高市值45.9亿美元相比，如今其市值已缩水三分之二至15.27亿美元。
 # 人工智能 
+ ## [吴恩达《Machine Learning Yearning》中文版！](https://blog.csdn.net/Gamer_gyt/article/details/83472647)
+ > 吴恩达《Machine Learning Yearning》中文版！
  ## [无人驾驶汽车系统入门（二十六）——基于深度学习的实时激光雷达点云目标检测及ROS实现](https://blog.csdn.net/AdamShan/article/details/83544089)
  > 无人驾驶汽车系统入门（二十六）——基于深度学习的实时激光雷达点云目标检测及ROS实现
- ## [\[Toy\]自动生成Low Poly风格图像 —— 基于Edge Drawing算法](https://blog.csdn.net/Mahabharata_/article/details/83043331)
- > \[Toy\]自动生成Low Poly风格图像 —— 基于Edge Drawing算法
- ## [第十讲：贝叶斯学习与EM算法（上）](https://blog.csdn.net/zhangliaobet/article/details/83045671)
- > 第十讲：贝叶斯学习与EM算法（上）
- ## [tensorflow 笔记附注（全）](https://blog.csdn.net/qq_32023541/article/details/83054678)
- > tensorflow 笔记附注（全）
+ ## [人工智能教程 - 1.2.9 如何向量化人工智能算法](https://blog.csdn.net/jiangjunshow/article/details/81704335)
+ > 人工智能教程 - 1.2.9 如何向量化人工智能算法
+ ## [深度学习为什么需要那么多的数据？](https://blog.csdn.net/IAMoldpan/article/details/83244693)
+ > 深度学习为什么需要那么多的数据？
+ ## [【深度学习】Alexnet网络分析及代码实现](https://blog.csdn.net/zzc15806/article/details/83420899)
+ > 【深度学习】Alexnet网络分析及代码实现
+ ## [ACL 2018论文解读 | 基于排序思想的弱监督关系抽取选种与降噪算法](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/83542782)
+ > ACL 2018论文解读 | 基于排序思想的弱监督关系抽取选种与降噪算法
+ ## [实录分享 | 计算未来轻沙龙：揭秘AutoML技术（视频 + PPT）](https://blog.csdn.net/c9Yv2cf9I06K2A9E/article/details/83542784)
+ > 实录分享 | 计算未来轻沙龙：揭秘AutoML技术（视频 + PPT）
+ ## [大数据——个性化推荐系统](https://blog.csdn.net/qq_39530692/article/details/83093768)
+ > 大数据——个性化推荐系统
+ ## [词向量的表示学习方法：word2vec和fasttext详解和代码示例](https://blog.csdn.net/weixin_41481113/article/details/83177935)
+ > 词向量的表示学习方法：word2vec和fasttext详解和代码示例
  ## [OpenCV—python 图像增强](https://blog.csdn.net/wsp_1138886114/article/details/83184041)
  > OpenCV—python 图像增强
  ## [【AI数学】Group Normalization(何恺明ECCV2018最佳论文提名)](https://blog.csdn.net/leviopku/article/details/83213123)
  > 【AI数学】Group Normalization(何恺明ECCV2018最佳论文提名)
- ## [【李宏毅深度强化学习2018】P1 Policy Gradient（Review）](https://blog.csdn.net/qq_36829091/article/details/83213707)
- > 【李宏毅深度强化学习2018】P1 Policy Gradient（Review）
  ## [\[R时间序列\]ARMA模型如何分辨拖尾与截尾](https://blog.csdn.net/qq_39521554/article/details/83348245)
  > \[R时间序列\]ARMA模型如何分辨拖尾与截尾
- ## [谷歌AI的七个“不正经”玩法，个个能玩一整天](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/83543145)
- > 谷歌AI的七个“不正经”玩法，个个能玩一整天
- ## [清华AI画虾师，想当现代齐白石](https://blog.csdn.net/yH0VLDe8VG8ep9VGe/article/details/83543158)
- > 清华AI画虾师，想当现代齐白石
- ## [Peter教你谈情说AI | 07决策树(上)—既能回归又能分类的模型](https://blog.csdn.net/p23onzq/article/details/83572772)
- > Peter教你谈情说AI | 07决策树(上)—既能回归又能分类的模型
- ## [【halcon】双目视觉的实现](https://blog.csdn.net/Ketal_N/article/details/83933617)
- > 【halcon】双目视觉的实现
  ## [已知三维空间两条直线，如何计算两条直线距离最近的位置的中点](https://blog.csdn.net/itworld123/article/details/79091656)
  > 已知三维空间两条直线，如何计算两条直线距离最近的位置的中点
- ## [如何使用Prescan和Sketch up建立停车场自动泊车仿真模型](https://blog.csdn.net/weixin_40161232/article/details/83050042)
- > 如何使用Prescan和Sketch up建立停车场自动泊车仿真模型
- ## [深度文本匹配模型（二）：Conv-knrm模型复现](https://blog.csdn.net/Ding_xiaofei/article/details/81111656)
- > 深度文本匹配模型（二）：Conv-knrm模型复现
+ ## [tensorflow 笔记附注（全）](https://blog.csdn.net/qq_32023541/article/details/83054678)
+ > tensorflow 笔记附注（全）
+ ## [【李宏毅深度强化学习2018】P1 Policy Gradient（Review）](https://blog.csdn.net/qq_36829091/article/details/83213707)
+ > 【李宏毅深度强化学习2018】P1 Policy Gradient（Review）
 # PM 
  ## [产品经理周报第 44 期｜花呗将在12月1日上线延期还款功能；知乎推出首期脱口秀节目《知乎者耶》](http://www.woshipm.com/it/1631757.html)
  > 早上好呀~一周的时间过的很快今天又是周五啦~美好的双休在等着我们呐那我们先来了解一下本周发生的事情啦~☟☟☟ Step 1：好看 产品动态（1）腾讯发布人工智能辅...
