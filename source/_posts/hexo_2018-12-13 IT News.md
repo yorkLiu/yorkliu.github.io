@@ -1,69 +1,69 @@
 ---
 title: 2018-12-13 IT News
 copyright: true
-date: 2018-12-13 08:02:13
+date: 2018-12-13 09:01:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [黑客利用DNS劫持损坏Linux.org](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=BB7XiUM-8JKyvEb0CxiK9CGXoYcbkwFleKuuH8uVGIZzF9ImrVK41vTtM154P3iLKvE7MHo6bBB4J7qTbdiJXtWDdcwDoMYk4o-OJ3i3Uaqgmg6ZgE14qA56k93KNQwH&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：上周，Linux.org的网页因DNS劫持被篡改，攻击者入侵了相关的注册商账户并篡改了DNS设置。据报道，攻击者多次更改了被篡改页面，并通过种族辱骂、暴露...
- ## [日程抢先看|第九届中国物联网产业与智慧城市发展年会](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=dmOwif1V4pdZ3J5OMMliC2reYqk43VT5w2Op9xbn2e4xpo310tk72pmJJPofV8cCJAOnRUuom6A42ZoqOO0oJpcnIGF0PTGPuz1Xb8QuRYenv6nSVpcOvv51CpzpYkB1&new=1)
- > 投稿邮箱：iidc@iidc.org.cn中国通信工业协会、中国通信工业协会物联网应用分会主办，中国智慧城市规划与建设推进联盟协办的第九届中国物联网产业与智慧城市发展年会（以下简称：年会）将于2018年12月21日-23日...
- ## [7点见|锤子科技更换企业法人；“故宫口红”刷爆朋友圈](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=e6ZUXtZIoMp*jWkBNz5JGa4K4Z0BuDiND5iSegGamuvPLtG9b5Sj863kwLZugswYVd-GcBBDcjgkMo*eNERNFWJHVxyS1oUlxpMBYIBf*rQoBJi-C3NpqJtuzUqw5GZ1&new=1)
- > 关键时刻，第一时间送达各位小伙伴们，周三早上好呀！今天是双十二了，除了“买买买”，小米和格力的10亿赌局揭盘，你有为他们“打call”吗~接下来，一起看看小七为您准备的今日早报吧~（以上音频技术来自：讯飞...
- ## [官宣，贵阳率先尝鲜中国移动5G应用示范城市!](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=4zOJ*fKJU6EsrJNJ44n-qR6Yh4Na0C5*UhXvifwg-KLFrAYErn-IZ7BCo0oII7rmDQx2SyPYW*OTjkNJ2JYTjuC8wIC2lc*ntfb7-2zsN014tUqTt6IMvYs3mAmQELF8&new=1)
- > 来源：通信娱摆摆对于贵阳的小伙伴来说，有一个好消息在12月8日召开的中国移动全球合作伙伴大会上中国移动宣布，启动17城市5G规模试验和应用示范！　　杭州、上海、广州、苏州、武汉，这5座城市将率先开展规模试...
- ## [\[每日科技速递\]第五届中国工业大奖揭晓 创新水平提升 更凸显改革成果](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=anEKbUth1q91-8UBYKubhUZYg2jdHpV2ONafZWt-oum4FOUgSEbxI1BW6RhKwcse2shgo-Fq5mpQ7DZhdyfggwFLmDc0VddHJOsMueXBa3CoEQlYf*pRLXTn8L6VDLQ5&new=1)
- > 第五届中国工业大奖昨天揭晓创新水平提升 更凸显改革成果　　第五届中国工业大奖发布会在北京人民大会堂举行。本届中国工业大奖共产生企业奖12个、项目奖11个；提名奖企业14家、项目10个。本次入选的企业和项目...
- ## [这家被“遗忘”多年的科技巨头，如何在16年后重返全球市值之巅?](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=LNTRFqmXnyyTsftE4ZrA9AHPbina7ACVZN37ZfB0Li3rkgIV0Ry-GZINIViDO*CK-fRBRaljnseDWhsODFiv2WUOGAG2P79CA-qMVsD6MSE6kXA22FxDxw7i4uhoVpbB&new=1)
- > 导读：对于微软来说，16年后再次成为全球市值最高公司，其象征意义远大于市值的实际意义。图片来源：全景视觉作者 | 经济观察报 记者 李思 经历了乌龙和盘中短暂的超越后，11月 30日，微软（NASDAQ: MSFT）重登...
- ## [共享机遇 共创未来，中国移动要做5G产业“最容易合作”的伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=Ml9eHI*eEAuN3zlJoMjR2ADfmIuAbnsw3wUZ6C7fTzjwkufIS3HzxdLiOR04LTcMEr6Nwa7D5fgnWsY8JXRdGBYmmjsIURGn66tDoISs--fqPSAIPGXMTgK8HLR8VSEq&new=1)
- > “面对即将到来的5G时代，中国移动将继续保持创新、合作、开放的态度，面向各行各业做最容易合作的伙伴。技术创新是第一驱动力，但有创新没合作就走不远，2019年中国移动将以客户为中心，携手产业共同将5G蛋糕做...
- ## [“4G就够快够费钱的了，你还弄个5G干什么!”](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=QUJdUheTWZLoexuUereo26qTEi6l3BIBtB2ukJAAr1Jdrj0RPGsf6WAFUf*XpzIf0C6EY75EhW0J50N3LECrH3xajzdn8Mqt53l30sn7mdQaB5rixI1Yus5BbBXHYhDe&new=1)
- > 1.一阵急促的敲门声。2.我醒了过来。3.遥控手机打开了房门，万万没想到，居然是你。。。4.我努力掩饰住内心的狂喜，说了句“等我一下”便反手关上了房门。迅速拿起手机，遥控打开智能衣柜挑选了一套比较绅士的衣...
- ## [大妈跟银行AI机器人的"灵魂对话"，笑翻在场众人](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=Zdr*VMKqm2GGi7mghqDtrrveNE1PtcX9cxz6VDAxNEV9Mib1V8dzy2*2q3shIZxWeh11nyLuqHz0TFU8NbVZLKB5rKsp8zdNSRJgPhY5W10czD69ckUFkufDDU61vvjU&new=1)
- > 导 语随着智能语音技术的日益强大，以及社会对高效服务的需求，各种智能机器人应运而生，银行服务机器人就是其中之一。近日，一段大妈一本正经地与银行服务机器人理论的视频在网上热传，笑翻全场。  据了解，这...
- ## [D1net阅闻|工信部：2017年中国集成电路产业规模突破5400亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=fN*eNluu4AyuT1XZIqyEENpAYJoFfkwyVAJYy8VYLc*NpkxzKOUFLNt5dt8gIE6nA-6j4F92D2S7wSDw-pBUiyqAgmfOFJAyq-fy1n1FinHbTbihL0-YoCvG6pYr5SgR&new=1)
- > 关键讯息，D1时间送达！工信部：2017年中国集成电路产业规模突破5400亿元工信部副部长罗文介绍，2017年中国大陆集成电路销售收入突破5400亿元，其中外资企业的贡献达到30%的规模，已经建成的10条12英寸的生产线...
- ## [7000亿!华为突然宣布，轰动了世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=AOsSI2ZwMsXua4hi4K38neW9ben8HJOuI3B9YObmzNoAh8dvVM5QMTZPKODhSDdC8tDZFGHATzeBvRPMmIi4WqHEJE9ASWC4kgPn7H9AOD5wKofLQhm5pNU7gm1HpT7*&new=1)
- > 一7000亿元！不平静！正当苹果股价不断暴跌时，华为却用了一份超牛逼的成绩单，让世人为之震撼！刚刚，华为轮值董事长徐直军宣布：华为2018年营收将超过1000亿美元大关。同比增长17%左右！是的，你没有看错，今...
- ## [中国专利奖：海尔历届累计获奖数量居行业NO.1!](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=*zCl4agmaD*TnO6FQ93ssOUE8707rNddu2*IDZig07J2*sViwRqHROxtyNkAO7P*A7-3NBegAfaInfQkXxLbAYeCAwqRqFchpAFiuOhCNzEpTcKJmw1SbvcGl1kUY0AJ&new=1)
- > 11月30日，随着第20届中国专利奖公示结束，中国企业在最近一年的创新成绩单也浮出水面。从家电行业来看，目前海尔获金奖数量最多，包含专利金奖、外观设计金奖、专利优秀奖等在内，海尔共斩获29个奖项。而在最近...
- ## [2-3年内规模化量产3D打印汽车零件，大众汽车联手惠普，应用粘合剂喷射技术](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=PXOZuVA6Cde3iCLiXj7wVZ2R*-zWjmVbjf9JgCPd55EjABT1wGgRzvOzVUWIIwvyWgVmFFUKRRc79caZ-P0FLNtuTbyHBtiFGHVytc8e*VYnxkBLBDQ0QU0K-TLNuu-q&new=1)
- > 南极熊导读：3D打印规模化量产的时代已经要来了，我们做好准备了吗？2018年12月12日，南极熊从外媒获悉，德国汽车制造商大众汽车的工具制造部门刚刚宣布，该公司在沃尔夫斯堡的生产工厂开设了一个先进的3D打印中...
- ## [刁石京、楚庆联手掌舵展锐!紫光增资30亿重拳开启5G时代](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=fBw6RcW8GEGCuoPf3ASEsVuKrNsV4u1f5BMOslIOuQ0aHQdET815GMVsRNe6iK*Nm85QJi3ssHICSk*PP-TtkfJs2MDtq42CWDoOmO*Bqbt1utUT2*9txW3n19R71i69&new=1)
- > 【2018年12月11日，北京】紫光集团宣布由紫光集团联席总裁刁石京任紫光展锐副董事长及 CEO，与联席CEO楚庆一起开启紫光展锐“腾跃”战略的新篇章。紫光集团同时还宣布了调整后拥有“豪华”阵容的董事会，以及30...
- ## [人工智能和芯片领域竞争愈渐激烈](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=HwWHLJ8x0NXm9AuyLeYacFeiPgPV5km90D-Y6LjXL-Ny9ieXZ9l8K-fy4B6QlOVSYtLBjbllhiJVsHDF8BtckR8KTPkPqg9SDQI0sJcheTxk**Kr9oM0vPxE2LoxkxGd&new=1)
+ ## [人工智能和芯片领域竞争愈渐激烈](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=HwWHLJ8x0NXm9AuyLeYacFeiPgPV5km90D-Y6LjXL-OvJQQXaIbrmFWLbcCE78XH3MqnoruL97BEhzHKEjmrFaRWGrYxyCwriXheD5O9CyQ-k3jaNwn-qCA1wcOmxZUm&new=1)
  > 现在人工智能(AI)和半导体这两个行业基本上占据着中美竞争的两个重要制高点。AI到底对人类有什么影响？据调查报告显示，人工智能未来十年对GDP的推动是1.2%，人工智能将从方方面面影响我们的生活和行业。第一是...
- ## [联盟杯微课大赛人气作品投票开始啦!快来为你支持的中国联通作品疯狂打CALL!](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=N5HWMzkG2s1NMAFrcpLtzrxEZkn6HGQMhKeBt8C7HFadiH9titpzKxMgh6AEs-9Tjt1JOIsAVwe0txd46J-OqdAfa68ZI-fKUL3PEq1L1SyEC3ZyaX1Sh3T9asAPnLDf&new=1)
- > 关于第二届中央企业 “联盟杯”微课大赛　　为深入贯彻落实《2018-2022 年全国干部教育培训规划》及《干部教育培训工作条例》相关要求，在新时代用新思想、新媒体、新方法来强化干部教育培训资源建设，推进中央...
- ## [昨天，这位把孙杨当孙子疼爱的老人在杭州喊出了“难以置信”](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=tFxL5095u5w9-93BJpyAsxUk7hT0JxL7Undlbf7h*37qrYLqAUP-o1UMYX5YumkGM49vzmYky4qFrP9kyK1NaX04HFVrXHJi9j2n3plit03gAETFx*M*aB3-3D473I8n&new=1)
- > 钱塘江之畔，杭州用今冬的第一场雪，迎来奥体中心“小莲花”的绽放。昨天，2018年国际泳联短池游泳世锦赛在杭州开幕，来自158个国家和地区的近千名运动员参赛。徐嘉余、叶诗文、傅园慧、李朱濠、汪顺……一个个...
- ## [有奖调查：5G到来，你会如何追赶?](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=s3vWEcjjqaottP7GbggftupaNTk7JkAf*eTbnaHlAyz2*qI0dkWmRTro*mIM4ZvZ8kdtdtS*pc*t9MTZCzb2IZA7dYnsYvzwirmr0QjHdWNVuANfY6lXDZ86zqTL78K7&new=1)
+ ## [共享机遇 共创未来，中国移动要做5G产业“最容易合作”的伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=Ml9eHI*eEAuN3zlJoMjR2ADfmIuAbnsw3wUZ6C7fTzi7O1Y9VG9q1bjodlH4YPAWpfWiV2OAHqMezYi0hMAQuN53bmO8PcWhGvTMUAYs4NOxOg5Xmcc5Pp399CblU92J&new=1)
+ > “面对即将到来的5G时代，中国移动将继续保持创新、合作、开放的态度，面向各行各业做最容易合作的伙伴。技术创新是第一驱动力，但有创新没合作就走不远，2019年中国移动将以客户为中心，携手产业共同将5G蛋糕做...
+ ## [有奖调查：5G到来，你会如何追赶?](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=s3vWEcjjqaottP7GbggftupaNTk7JkAf*eTbnaHlAywp9xYGbBXSpvfef9*CCe0b54Wvj*C6Tcom9nflRwA51EycO8cs7XEMmWQAXBm3MwuYR5AQ5YxPYTU*GIkY4uF1&new=1)
  > 5G时代真的要来了。中国市场在电信基础设备行业经历了“1G空白、2G跟随、3G突破、4G并跑、5G引领”的漫长过程。网速越来越快，你会成为5G时代最早换手机的尝鲜一族吗？买与不买背后的影响因素有哪些？除了手机终...
- ## [华为，你终于活成了他们害怕的样子](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=R189M8Pg*MsW24J-monBEwnZldqmxJ3sH6vFnsmU5-imcyOYNSpCIqL8Y2BQSm4eZ3VnL3alHMC-5GF*VRUipn*QR76alNwKeyaaKUu1hF6U1acC*ODbrBTRV03r3EkA&new=1)
- > 想为中国一家企业一个品牌好好说几句话，这几天华为的事你们都知道了吧，华为公司的负责人（任正非的女儿）在国外被扣留，我们的态度是：不放人，必将造成严重后果！为什么要扣人，因为他们害怕了。12月5日，他...
- ## [《2019讯石深圳光通信发展论坛暨年度总结大会》将于深圳隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1544657406&ver=1283&signature=V2W5NjXRDKYeWnnJqZo53uAbXFM02aagHI*88RRXcc*Cs4lrj-QSA5N04XuYQXKmZQSB7Qs8g6iGFzWA58W4wWkw8wazB9DQJj62FihQtjmJZ8s3IC8yd-EF6LkXsPUU&new=1)
- > ICCSZ讯（编辑：Nicole）但见时光流似箭，岂知天道曲如弓。2018年，对于光通信行业来说注定是跌至起伏、险象环生的一年。前有芯片之殇，行业巨头并购，后有贸易战不断升级，5G建设博弈，种种情况让处于水深火热...
+ ## [刁石京、楚庆联手掌舵展锐!紫光增资30亿重拳开启5G时代](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=fBw6RcW8GEGCuoPf3ASEsVuKrNsV4u1f5BMOslIOuQ0vnKCVf1hlnBtzqXgs0Dbr89Gwz*8SuGHGs1luwT3RVRjsf8kLPASyHvwANhIKR6v4t3R38birq5NC0VKRPvbE&new=1)
+ > 【2018年12月11日，北京】紫光集团宣布由紫光集团联席总裁刁石京任紫光展锐副董事长及 CEO，与联席CEO楚庆一起开启紫光展锐“腾跃”战略的新篇章。紫光集团同时还宣布了调整后拥有“豪华”阵容的董事会，以及30...
+ ## [日程抢先看|第九届中国物联网产业与智慧城市发展年会](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=dmOwif1V4pdZ3J5OMMliC2reYqk43VT5w2Op9xbn2e62GbmQngzztz7kMugjjhCjHh14UKDOHBFV3JUyItiopX1u-u9xHJCsiKLR9wj2vJZRd019hxIF8fLVkHOo4Qin&new=1)
+ > 投稿邮箱：iidc@iidc.org.cn中国通信工业协会、中国通信工业协会物联网应用分会主办，中国智慧城市规划与建设推进联盟协办的第九届中国物联网产业与智慧城市发展年会（以下简称：年会）将于2018年12月21日-23日...
+ ## [“4G就够快够费钱的了，你还弄个5G干什么!”](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=QUJdUheTWZLoexuUereo26qTEi6l3BIBtB2ukJAAr1ItXEi51LvaKwiQxztayvpOXEv-y*niQ8Og*U5JopZ7LkP3sGVy1-AAV6ejnP5W5gy9zIv1BmMMNFsHGv5PaYZo&new=1)
+ > 1.一阵急促的敲门声。2.我醒了过来。3.遥控手机打开了房门，万万没想到，居然是你。。。4.我努力掩饰住内心的狂喜，说了句“等我一下”便反手关上了房门。迅速拿起手机，遥控打开智能衣柜挑选了一套比较绅士的衣...
+ ## [7000亿!华为突然宣布，轰动了世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=AOsSI2ZwMsXua4hi4K38neW9ben8HJOuI3B9YObmzNqPXRUHmM4WH44Rw7kaiVA6TcnqgMHl-D-N1t5KzPvULOOFlKDpiwVCryhX7Iqbw8kfbkW5lOgL4dKsnD1ExjBV&new=1)
+ > 一7000亿元！不平静！正当苹果股价不断暴跌时，华为却用了一份超牛逼的成绩单，让世人为之震撼！刚刚，华为轮值董事长徐直军宣布：华为2018年营收将超过1000亿美元大关。同比增长17%左右！是的，你没有看错，今...
+ ## [黑客利用DNS劫持损坏Linux.org](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=BB7XiUM-8JKyvEb0CxiK9CGXoYcbkwFleKuuH8uVGIaMoJRqGbRXGm4dLrvL9AYSvvowNghl-73sVfa9MzeEH6*JVnxo*Vrq2mmib4*dZG8rNzsVa1RLefjWKX90RNoD&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：上周，Linux.org的网页因DNS劫持被篡改，攻击者入侵了相关的注册商账户并篡改了DNS设置。据报道，攻击者多次更改了被篡改页面，并通过种族辱骂、暴露...
+ ## [官宣，贵阳率先尝鲜中国移动5G应用示范城市!](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=4zOJ*fKJU6EsrJNJ44n-qR6Yh4Na0C5*UhXvifwg-KKbR*0YTsaaqSpNraqrv-4EX-UxMNqCDsGNv-Hua7mFHNePNHyQ-SH3ozM2uVfyxNVkn46JASwpDxBGuXkL7PJP&new=1)
+ > 来源：通信娱摆摆对于贵阳的小伙伴来说，有一个好消息在12月8日召开的中国移动全球合作伙伴大会上中国移动宣布，启动17城市5G规模试验和应用示范！　　杭州、上海、广州、苏州、武汉，这5座城市将率先开展规模试...
+ ## [为何力挺华为?财报分析告诉你!](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=p*VbsDVHE0TnwaPDYNhPsutHYqRkb2jF*Fb7TVb**QiNgqKmG0wYPhCoNk-a5G-jFgXF8z4vDXyrhgyM17sJjgRBy8UAXd2b4CTEjCNAMjvYfVL2XfNIwfQFfouiY4Gz&new=1)
+ > 投资银行在线是一个资本与项目对接的互联网金融平台，围绕“早期投资、私募股权融资、项目并购退出”提供一站式金融服务。如果您有靠谱的项目，请将商业计划书发送到: bp@pelist.com。1987年，已经43岁的任正非...
+ ## [傲慢的苹果、玩命的高通与骑虎难下的iPhone禁售令|深网](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=e6ZUXtZIoMp*jWkBNz5JGa4K4Z0BuDiND5iSegGamutGzavHnqghpc9OeRRCgV*PvML4-tHujFOgIAFQIWRSoMFG3S9kvlrsvJJCJynSwMgL0LXRnXOhkOyGS6vqbNdX&new=1)
+ > 关键时刻，第一时间送达来源 / 腾讯深网（ID：qqshenwang）作者 / 安然 编辑 / 康晓欢迎下载腾讯新闻客户端，关注科技页卡，查看更多科技热点新闻划重点：1. 苹果透露已提出上诉，希望推翻iPhone销售禁令。媒体...
+ ## [联盟杯微课大赛人气作品投票开始啦!快来为你支持的中国联通作品疯狂打CALL!](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=N5HWMzkG2s1NMAFrcpLtzrxEZkn6HGQMhKeBt8C7HFbqzfYBO4wI66qtqsyyk3jUK25Go2I-3kJu4DY56M6yt9Cf86S*oYQxEQJjWMapTxUt9SQ-mbQ*BUcwQoWwXxCj&new=1)
+ > 关于第二届中央企业 “联盟杯”微课大赛　　为深入贯彻落实《2018-2022 年全国干部教育培训规划》及《干部教育培训工作条例》相关要求，在新时代用新思想、新媒体、新方法来强化干部教育培训资源建设，推进中央...
+ ## [D1net阅闻|工信部：2017年中国集成电路产业规模突破5400亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=fN*eNluu4AyuT1XZIqyEENpAYJoFfkwyVAJYy8VYLc91wpaQkz6TLbDPasNHVoAKn8JXGkO6hCgLbB0v7StL35yKBxDZ7JrXH8FfBs6Na2JdCj3Jz5cK9FhlnmZPB4-f&new=1)
+ > 关键讯息，D1时间送达！工信部：2017年中国集成电路产业规模突破5400亿元工信部副部长罗文介绍，2017年中国大陆集成电路销售收入突破5400亿元，其中外资企业的贡献达到30%的规模，已经建成的10条12英寸的生产线...
+ ## [Apple Watch S4 的六问六答|为什么国行版本不能使用 ECG 心电图?](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=tAzgYYoF-ePvA-*7pR6ycnUynOK*UROGuVHoU32jpj4oJJTpIYxHQ9vMnMgjZLHs2oZ4kE87yQpbJcqrJGFMibCnn0aoKCakt9Fx-r0lPirrgoF-KqWNbyPxpt-R-uL3&new=1)
+ > ● 什么版本的 Apple Watch Series 4 可以使用 ECG 心电图功能？目前确定的是由于 Apple Watch Series 4 只通过了美国 FDA（美国食品药品监督管理局）的批准，严格意义上成为了一种医疗器械，所以目前
+ ## [2-3年内规模化量产3D打印汽车零件，大众汽车联手惠普，应用粘合剂喷射技术](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=PXOZuVA6Cde3iCLiXj7wVZ2R*-zWjmVbjf9JgCPd55HkSK3bjo15Mt9LborB6vURz1qag2EtnLnX-mvBvJJVYrPwVaGlvvqMfgo74MmCLw4mJmZ0rfB2cC1TWjad*A6k&new=1)
+ > 南极熊导读：3D打印规模化量产的时代已经要来了，我们做好准备了吗？2018年12月12日，南极熊从外媒获悉，德国汽车制造商大众汽车的工具制造部门刚刚宣布，该公司在沃尔夫斯堡的生产工厂开设了一个先进的3D打印中...
+ ## [中国专利奖：海尔历届累计获奖数量居行业NO.1!](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=*zCl4agmaD*TnO6FQ93ssOUE8707rNddu2*IDZig07LrTqsTBMyE*3gtx6Bzqd4GAOT-OMutGx2JVUHN9hjWGy6XlCeANfhh4Oas9PSzSbW9oMCT8hgRNRGCDUsSEdCx&new=1)
+ > 11月30日，随着第20届中国专利奖公示结束，中国企业在最近一年的创新成绩单也浮出水面。从家电行业来看，目前海尔获金奖数量最多，包含专利金奖、外观设计金奖、专利优秀奖等在内，海尔共斩获29个奖项。而在最近...
+ ## [紫光宣布刁石京出任展锐CEO，同时展锐获30亿元增资](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=90sI6f8sg3Wma-t19uxyV0pJ-IY9wg8x-lLf5xamTTewl2x8On9g8ORZd9hKu4eIIjDhQ*NcZQrua*ToHFStXOk883khl67bCjVSPmpt89Rq-GTELOIznUcnSb18az02&new=1)
+ > 紫光集团宣布由紫光集团联席总裁刁石京任紫光展锐副董事长及CEO，与联席CEO楚庆一起开启紫光展锐“腾跃”战略的新篇章。紫光集团同时还宣布了调整后拥有“豪华”阵容的董事会，以及30亿增资展锐等重大举措。此次...
+ ## [华为，你终于活成了他们害怕的样子](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=yP4ZkN2-aor4HZVWPHDSArNNPYQUUzIzVozUj2B*Loi9VHCLIlSOzV*uyIc8aweOJ9WWliQjQ0rKYqlrpIg0XkJlBnDZ*wTalSP7z-Vl4d3jdaUFhVidT3SAz2-UcjZX&new=1)
+ > 图 片：视觉中国今天这篇文章是果姐想为中国一家企业一个品牌好好说几句话，这几天华为的事你们都知道了吧，华为公司的负责人（任正非的女儿）在国外被扣留，我们的态度是：不放人，必将造成严重后果！为什么要...
+ ## [7点见|锤子科技更换企业法人；“故宫口红”刷爆朋友圈](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=e6ZUXtZIoMp*jWkBNz5JGa4K4Z0BuDiND5iSegGamusgnZBE-sonKULXO6p9-Vta2JejyZcW7cU9GlWlYsxd5yCmRguQLlt3qsnEz6TkIevJFcJ5J05wCudQuJKd13E*&new=1)
+ > 关键时刻，第一时间送达各位小伙伴们，周三早上好呀！今天是双十二了，除了“买买买”，小米和格力的10亿赌局揭盘，你有为他们“打call”吗~接下来，一起看看小七为您准备的今日早报吧~（以上音频技术来自：讯飞...
+ ## [\[每日科技速递\]第五届中国工业大奖揭晓 创新水平提升 更凸显改革成果](http://mp.weixin.qq.com/s?src=11&timestamp=1544661006&ver=1283&signature=anEKbUth1q91-8UBYKubhUZYg2jdHpV2ONafZWt-oumPdBEuwIvYUG0Qx4JoAXO-RlXp6EBseGltqY-J4fGFZk4QSD3nJi5vAXAI3NTm7la1hsPbgJAyXULuli6iq2Jv&new=1)
+ > 第五届中国工业大奖昨天揭晓创新水平提升 更凸显改革成果　　第五届中国工业大奖发布会在北京人民大会堂举行。本届中国工业大奖共产生企业奖12个、项目奖11个；提名奖企业14家、项目10个。本次入选的企业和项目...
  ## [文学对你而言是什么？](https://www.zhihu.com/question/56124812)
  > 是一次一次孤独的闯入。多数时候，闯入者是个贬义词。就像打家劫舍的强盗，就像破坏规则的野蛮人，就像痴心妄想的精神病患者。何为“闯入”？前提是不在，或者说是遥远。只得远远观望，却不知从何门而入？这个闯入，...
  ## [有什么好的培训机构有淘宝培训的啊？讲些什么内容，价格多少！最好是官方的！](https://www.zhihu.com/question/21467231)
  > 有几个人邀请我回答这个问题了，这个话题很敏感啊，稍不注意就会动了大家的奶酪我只能尽量站在一个客观中立的角度来回答这个问题吧首先，对于淘宝小白来讲，培训还是有帮助的。这样可以帮助你快速的掌握和了解淘宝的...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
+ > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [王思聪（王健林之子）和潘瑞（潘石屹之子），两种风格的富二代，大家更喜欢哪个？](https://www.zhihu.com/question/31330195)
  > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
  > 先说说个人情况答主29岁，从事婴幼儿培训工作6年，正在学习新媒体运营，在知乎上手动盘点整合了多个关于转行新媒体运营问题的答案，也去上了部分新媒体运营课程，收集了以下转行新媒体运营的资料。右下角请给我点赞~...
  ## [有哪些值得所有人收藏的网站？](https://www.zhihu.com/question/305510456)
  > PPT素材类：1、优品PPT我们可以免费PPT模板下载网站！2、演界网也是PPT学习网站，有很多的PPT素材可以直接使用！思维导图工具类1、XMind这是一款非常实用的商业思维导图软件图片设计素材类：1、for...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
@@ -91,6 +91,8 @@ categories: IT NEWS
  > 边缘芯片可能使一些网络毫无用处
  ## [程序员的二十七八岁，真让人慌得一比](http://news.51cto.com/art/201812/588682.htm)
  > 程序员的二十七八岁，真让人慌得一比
+ ## [助你掌控微服务架构的20个Go语言项目](http://developer.51cto.com/art/201812/588620.htm)
+ > 助你掌控微服务架构的20个Go语言项目
  ## [微服务架构有毒，何时不使用微服务？](http://zhuanlan.51cto.com/art/201812/588622.htm)
  > 微服务架构有毒，何时不使用微服务？
  ## [互联网上半场的战争并没结束，还会更加惨烈](http://news.51cto.com/art/201812/588575.htm)
@@ -101,60 +103,68 @@ categories: IT NEWS
  > Julia vs Python：哪种编程语言会是2019年机器学习界的No 1？
  ## [用Python分析了1w场吃鸡数据，原来吃鸡要这么玩！](http://developer.51cto.com/art/201812/588544.htm)
  > 用Python分析了1w场吃鸡数据，原来吃鸡要这么玩！
- ## [闭源优于开源的七个缘由，是这样吗？](http://os.51cto.com/art/201812/588540.htm)
- > 闭源优于开源的七个缘由，是这样吗？
+ ## [物联网是物流4.0的开始吗？](http://iot.51cto.com/art/201812/588700.htm)
+ > 在一个利润微薄的行业中，物联网正在展示一系列实际应用案例，这些案例正在为早期采用者逐步带来成果。这就
  ## [卡巴斯基：2018年度安全大事件盘点](http://netsecurity.51cto.com/art/201812/588694.htm)
  > 互联网现在已经融入了生活的方方面面，网络已经成为了商业组织的生命线。而网络攻击的范围，从高度复杂的特
  ## [家庭物联网如何帮助塑造智慧城市](http://iot.51cto.com/art/201812/588697.htm)
  > 公司开始采用人工智能(AI)技术来创建新的物联网使用案例和服务。物联网已经存在于各个行业中，并且随着客户
  ## [2019年：为优化软件定义的数据中心网络，你需要关注啥](http://network.51cto.com/art/201812/588696.htm)
  > 为保障软件定义的数据中心网络(SDDCN)性能，组织需要先进的网络软件来管理和保护高速流量。为了优化SDDNC的
- ## [谈谈RedHat Forum 2018云转型技术亮点(附资料)](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/84680165)
- > 谈谈RedHat Forum 2018云转型技术亮点(附资料)
- ## [Docker最全教程——从理论到实战（四）](https://blog.csdn.net/sD7O95O/article/details/84694120)
- > Docker最全教程——从理论到实战（四）
- ## [边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)](https://blog.csdn.net/sD7O95O/article/details/84694027)
- > 边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)
- ## [边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)](https://blog.csdn.net/sD7O95O/article/details/84694016)
- > 边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)
- ## [【大数据技术视阈下】侦查工作的转型发展与完善进路](https://blog.csdn.net/xCnhYKoHj3eK/article/details/84680309)
- > 【大数据技术视阈下】侦查工作的转型发展与完善进路
+ ## [精选|2018年10月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/84669893)
+ > 精选|2018年10月R新包推荐
+ ## [PyTorch 1.0 正式版发布了！](https://blog.csdn.net/qq_28168421/article/details/84901188)
+ > PyTorch 1.0 正式版发布了！
+ ## [“深绿” 及 AlphaGo 对指挥与控制智能化的启示](https://blog.csdn.net/VucNdnrzk8iwX/article/details/84901106)
+ > “深绿” 及 AlphaGo 对指挥与控制智能化的启示
+ ## [独家 | 一文读懂随机森林的解释和实现（附python代码）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84693958)
+ > 独家 | 一文读懂随机森林的解释和实现（附python代码）
+ ## [下载 | 524页中文教程《动手学深度学习》](https://blog.csdn.net/qq_28168421/article/details/84669792)
+ > 下载 | 524页中文教程《动手学深度学习》
+ ## [资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84469679)
+ > 资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）
+ ## [DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）](https://blog.csdn.net/qq_28168421/article/details/84455341)
+ > DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [今日头条社交野心暴露，颠覆微信仅是故事](http://www.lanjingtmt.com/news/detail/39630.shtml)
+ > YY李学凌一句：“我赌张一鸣的飞聊能够成功，因为我看到太多成功的因素。”让今日头条布局社交的野心再一次暴露在大众面前，头腾大战的硝烟再次袅袅升起。
  ## [腾讯音乐上市首日大涨8.85%，总市值约231亿美元](http://www.lanjingtmt.com/news/detail/39629.shtml)
  > 腾讯音乐今日正式在纽约证券交易所挂牌上市，股票代码为“TME”，开盘价14.15美元，较13美元发行价上涨8.85%。
 # 人工智能 
+ ## [2018最新Web前端经典面试试题及答案](https://blog.csdn.net/wdlhao/article/details/79079660)
+ > 2018最新Web前端经典面试试题及答案
+ ## [Android 音视频任务2](https://blog.csdn.net/weixin_43752854/article/details/84672846)
+ > Android 音视频任务2
+ ## [人工智能学习笔记（）](https://blog.csdn.net/weixin_43719397/article/details/84575273)
+ > 人工智能学习笔记（）
+ ## [JAVA的新特性](https://blog.csdn.net/weixin_43694144/article/details/84099515)
+ > JAVA的新特性
+ ## [ElementUI分页组件+Vue](https://blog.csdn.net/qq_43652509/article/details/84063263)
+ > ElementUI分页组件+Vue
+ ## [web移动开发总结(五)](https://blog.csdn.net/xiaodi520520/article/details/84945851)
+ > web移动开发总结(五)
+ ## [大数据开发需要学习哪些编程语言](https://blog.csdn.net/lmseo5hy/article/details/84636183)
+ > 大数据开发需要学习哪些编程语言
+ ## [区块链应用层落地在即](https://blog.csdn.net/yb1314111/article/details/80487749)
+ > 区块链应用层落地在即
  ## [【安全开发】C/C++安全编码规范](https://blog.csdn.net/qq_23936389/article/details/84670174)
  > 【安全开发】C/C++安全编码规范
- ## [前端进阶-类和对象](https://blog.csdn.net/MoDuRooKie/article/details/84109708)
- > 前端进阶-类和对象
- ## [\[亲测\]Vue组件](https://blog.csdn.net/qq_43652509/article/details/84553668)
- > \[亲测\]Vue组件
- ## [区块链拯救法拉第？不存在的](https://blog.csdn.net/CSDN15750763620/article/details/84074066)
- > 区块链拯救法拉第？不存在的
- ## [微服务Springcloud超详细教程+实战（四）](https://blog.csdn.net/weixin_41838683/article/details/84961572)
- > 微服务Springcloud超详细教程+实战（四）
- ## [前端笔记 个人简历](https://blog.csdn.net/sinat_39070454/article/details/84032287)
- > 前端笔记 个人简历
- ## [java基础线程的安全-快速失败和安全失败](https://blog.csdn.net/qq_42920440/article/details/84338252)
- > java基础线程的安全-快速失败和安全失败
- ## [军事理论课答案（西安交大版）](https://blog.csdn.net/ling_wang/article/details/78821630)
- > 军事理论课答案（西安交大版）
- ## [众说区块链基础篇:区块链的起源与发展](https://blog.csdn.net/COMC1DU/article/details/84396319)
- > 众说区块链基础篇:区块链的起源与发展
- ## [人工智能的“虚假式繁荣”](https://blog.csdn.net/csdnnews/article/details/84312501)
- > 人工智能的“虚假式繁荣”
- ## [Java架构-到底什么才是业务架构？](https://blog.csdn.net/Coco_Wditm/article/details/84496902)
- > Java架构-到底什么才是业务架构？
- ## [前端与移动开发项目三](https://blog.csdn.net/czbkzmj/article/details/84344336)
- > 前端与移动开发项目三
- ## [函数默认值，内联函数和函数的重载](https://blog.csdn.net/Monster7559/article/details/84591502)
- > 函数默认值，内联函数和函数的重载
- ## [微服务Springcloud超详细教程+实战（六）](https://blog.csdn.net/weixin_41838683/article/details/84968970)
- > 微服务Springcloud超详细教程+实战（六）
- ## [tcp的java代码](https://blog.csdn.net/weixin_43694144/article/details/84312097)
- > tcp的java代码
+ ## [Postman  使用方法详解](https://blog.csdn.net/fxbin123/article/details/80428216)
+ > Postman  使用方法详解
+ ## [毕业后升级打怪程序人生](https://blog.csdn.net/qq_38822390/article/details/84530548)
+ > 毕业后升级打怪程序人生
+ ## [物联网卡不能运用于安防？智宇物联对此说“不”](https://blog.csdn.net/qq_40798435/article/details/84872392)
+ > 物联网卡不能运用于安防？智宇物联对此说“不”
+ ## [SpringCloud之Eureka注册中心](https://blog.csdn.net/weixin_43866856/article/details/84958938)
+ > SpringCloud之Eureka注册中心
+ ## [给人工智能打工的人](https://blog.csdn.net/belalds/article/details/84336185)
+ > 给人工智能打工的人
+ ## [\[Success\]CentOS7 64安装-jdk+tomcat+mysql+redis+elasticsearch](https://blog.csdn.net/qq_43652509/article/details/83903435)
+ > \[Success\]CentOS7 64安装-jdk+tomcat+mysql+redis+elasticsearch
 # PM 
+ ## [线上课程 | 那些想入行的产品新人，都逃不过这些困惑](http://www.woshipm.com/active/1727567.html)
+ > 在“人人都是产品经理”这句话的感召下，多少小白只身踏上产品经理的征途，可星辰大海虽美好，过程的困惑却不少。零零散散看了一些产品干货，听了一些线上课程，可是分...
  ## [产品经理认知升级之路：从热闹到门道](http://www.chanpin100.com/article/107707)
  > 以终为始，其实是在回归当初决定入行产品经理到成为优秀产品经理路径的问题。
  ## [产品经理如何做好团队搭建和管理？](http://www.chanpin100.com/article/107721)
