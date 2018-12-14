@@ -1,7 +1,7 @@
 ---
 title: 2018-12-14 IT News
 copyright: true
-date: 2018-12-14 08:01:33
+date: 2018-12-14 09:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -9,44 +9,84 @@ categories: IT NEWS
  ## [文学对你而言是什么？](https://www.zhihu.com/question/56124812)
  > 是一次一次孤独的闯入。多数时候，闯入者是个贬义词。就像打家劫舍的强盗，就像破坏规则的野蛮人，就像痴心妄想的精神病患者。何为“闯入”？前提是不在，或者说是遥远。只得远远观望，却不知从何门而入？这个闯入，...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
+ > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [王思聪（王健林之子）和潘瑞（潘石屹之子），两种风格的富二代，大家更喜欢哪个？](https://www.zhihu.com/question/31330195)
  > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
+ ## [黄景瑜和王雨馨，你们信吗？](https://www.zhihu.com/question/59558041)
+ > 大家看看这个……10月28号就有匿名的人说过……而且酒店……今天真的发的黄景瑜在酒店坐着的图，所以……我觉得那个小花是张艺上。
  ## [人人网为什么后来失败了？](https://www.zhihu.com/question/302431287)
  > 我2015年写过一个人人网的答案在这里：王亚晖：人人网究竟做错了什么？里面其实有80%我想说的内容了，然后我再补充两件事，这两件事对于整个人人网来说非常重要。一是2012年，当时人人网的流量还非常可观，而且陈一舟...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
  > 先说说个人情况答主29岁，从事婴幼儿培训工作6年，正在学习新媒体运营，在知乎上手动盘点整合了多个关于转行新媒体运营问题的答案，也去上了部分新媒体运营课程，收集了以下转行新媒体运营的资料。右下角请给我点赞~...
+ ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
+ > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
  ## [针对外卖商家的代运营公司靠谱吗？](https://www.zhihu.com/question/65892191)
  > 既然有外卖代运营这个行业的存在，肯定是有他存在的意义的。但是代运营不是神仙，不是什么店都能做得起来。找代运营其实就跟我们孩子读书学习一样，如果我们的孩子成绩不好，家长肯定会想办法让孩子去教育培训机构补...
+ ## [如何评价百度广告的技术水平？](https://www.zhihu.com/question/305537088)
+ > 当百度推广给我推荐二次元质谱分析仪的时候，我就发现它仅仅把你的搜索关键字做了个叠加。
  ## [如何评价阿里云IoT发布Link Develop 2.0，最快10分钟完成物联网全链路开发?](https://www.zhihu.com/question/295161123)
  > Link Develop 平台以物联网开发者为中心，覆盖设备端、数据上云、数据分析、Web应用、移动应用、服务开发等物联网开发的全部链路，实现一个平台解决全栈开发。新版 Link Develop 究竟有何亮点，且听极客小编一一...
- ## [如何评价百度广告的技术水平？](https://www.zhihu.com/question/305537088)
- > @vczh
+ ## [当年盗了马化腾QQ的黑客，后来怎么样了？](https://www.zhihu.com/question/282310269)
+ > 之后他干了大事业 赚了xxx 然后……他早就移民了 移民后又回来了 前几年见过面 送了几条烟 不好评价不说了 自己去体会
+ ## [如何看待B站up主いぬやしゃ_Inuyasha被封禁一事？](https://www.zhihu.com/question/305557284)
+ > 据核实，直播间29922（UID:3243092）实名认证信息为男性，该直播间曾多次违规被系统切断直播、警告。2018年11月10日该直播间再次违规，主动搜索并直播触及底线的违禁内容，我们将直播间永久封禁，并不存在UP主所...
+ ## [我想知道许魏洲和黄景瑜是不是真的在一起啦？虽然知道这个问题很脑残？](https://www.zhihu.com/question/270107792)
+ > 20180813大噶一起土拨鼠叫吧我的妈妈！！！说实话我很佛的 硬糖不磕的 731老大十五条微博我就觉得略硬也没这么激动但是我昨天！！！老关注了ta小姐姐我就爆哭了！！！这两人的互动合作似乎只有被禁的kb和去年的红毯了...
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
  ## [有哪些值得所有人收藏的网站？](https://www.zhihu.com/question/305510456)
  > PPT素材类：1、优品PPT我们可以免费PPT模板下载网站！2、演界网也是PPT学习网站，有很多的PPT素材可以直接使用！思维导图工具类1、XMind这是一款非常实用的商业思维导图软件图片设计素材类：1、for...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 这其实是两个问题，前一个问题（哪些基础学科的突破会带来巨大改变？）各位都答得蛮好的，我在这简单整理一下：1数据储存；2电池；3基础材料；4人工智能；5生物科学；以上，虽然有的不太符合“基础学科”的定义，但目...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [现实生活中有和科学超电磁炮里初春使用的手持设备一样的东西吗？哪里有卖？](https://www.zhihu.com/question/24294741)
- > SHARP Zaurus SL-C3000/3100/1000我的那个送人了，手边好像也没留什么照片……下图网上找的。
- ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
- > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
- ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
- > 半夜下班回来看腾讯的运动红包即将过期起来领取！点开腾讯运动，领取红包！点击QQ运动，XX记送你运动红包！！9分，很好。点击QQ运动-我的运动-运动红包-查看已获得的红包。我积攒这么长时间随机不同软件的红包...
- ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
- > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
- ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
- > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
- ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
- > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
+ ## [前端学习中一直用框架是不是走偏了?](https://www.zhihu.com/question/38891890)
+ > 框架都在JS的基础上，找工作一般要求框架开发，JS的基础好以后学什么框架都很容易。建议学习前端的都把JS的基础搞扎实。
 # IT 技术 
+ ## [谷歌是如何加强Kubernetes容器安全的?](http://netsecurity.51cto.com/art/201812/588760.htm)
+ > 谷歌是如何加强Kubernetes容器安全的?
+ ## [互联网行业寒冬，技术人该怎么熬？](http://news.51cto.com/art/201812/588758.htm)
+ > 互联网行业寒冬，技术人该怎么熬？
+ ## [助你掌控微服务架构的20个Go语言项目](http://developer.51cto.com/art/201812/588620.htm)
+ > 助你掌控微服务架构的20个Go语言项目
+ ## [49页PPT干货：微服务架构起源、简介及设计](http://developer.51cto.com/art/201812/588709.htm)
+ > 49页PPT干货：微服务架构起源、简介及设计
+ ## [边缘芯片可能使一些网络毫无用处](http://network.51cto.com/art/201812/588695.htm)
+ > 边缘芯片可能使一些网络毫无用处
+ ## [2019年为优化软件定义的数据中心网络，你需要关注啥](http://network.51cto.com/art/201812/588696.htm)
+ > 2019年为优化软件定义的数据中心网络，你需要关注啥
+ ## [必知 | 容器和微服务的五个关键真相](http://developer.51cto.com/art/201812/588664.htm)
+ > 必知 | 容器和微服务的五个关键真相
+ ## [怎样计算系统的可靠性和可用性是几个9?](http://zhuanlan.51cto.com/art/201812/588661.htm)
+ > 怎样计算系统的可靠性和可用性是几个9?
+ ## [风起云涌的工业物联网市场，该如何转变商业模式实现自身盈利？](http://iot.51cto.com/art/201812/588770.htm)
+ > 在谈论融入物联网技术后的工业具有的优势前，首先要知道工业物联网的基础以及该注意的哪些方面，最后再来探
+ ## [十大黑客工具之一――John the Ripper（密码破解）](http://netsecurity.51cto.com/art/201812/588768.htm)
+ > John the ripper是一款基于字典的免费的密码破解工具。简单来说就是进行暴力密码破解，这种密码破解方式，
+ ## [CPU-如何开始在新的CPU上编程](http://biz.51cto.com/art/201812/588769.htm)
+ > 新在哪里?从未接触过。比如之前一直在x86、ARM上写程序，C比较多，汇编也调过。MIPS可能零零星星也看过几
+ ## [四个问题，Yoshua等27位前沿研究者，这是一份NLP领域的请回答2018](http://zhuanlan.51cto.com/art/201812/588767.htm)
+ > 今年9月份，深度学习Indaba2018峰会在南非斯泰伦博斯举办，包括谷歌大脑Jeff Dean在内的一众研究者都到场进
+ ## [不使用先验知识与复杂训练策略，从头训练二值神经网络！](http://zhuanlan.51cto.com/art/201812/588766.htm)
+ > 来自德国哈索普拉特纳研究院 (Hasso Plattner Institute) 的研究者近日发布论文，介绍了他们提出的训练二值
+ ## [精选|2018年10月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/84669893)
+ > 精选|2018年10月R新包推荐
+ ## [PyTorch 1.0 正式版发布了！](https://blog.csdn.net/qq_28168421/article/details/84901188)
+ > PyTorch 1.0 正式版发布了！
+ ## [“深绿” 及 AlphaGo 对指挥与控制智能化的启示](https://blog.csdn.net/VucNdnrzk8iwX/article/details/84901106)
+ > “深绿” 及 AlphaGo 对指挥与控制智能化的启示
+ ## [下载 | 524页中文教程《动手学深度学习》](https://blog.csdn.net/qq_28168421/article/details/84669792)
+ > 下载 | 524页中文教程《动手学深度学习》
+ ## [独家 | 一文读懂随机森林的解释和实现（附python代码）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84693958)
+ > 独家 | 一文读懂随机森林的解释和实现（附python代码）
+ ## [资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84469679)
+ > 资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）
+ ## [DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）](https://blog.csdn.net/qq_28168421/article/details/84455341)
+ > DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [面试 AI 岗，期望 40K，为什么老板给我翻倍？](https://blog.csdn.net/csdnnews/article/details/84984708)
@@ -55,38 +95,42 @@ categories: IT NEWS
  > 作者 | 小谦责编 | 郭芮或许是因为生不逢时，锤子科技这次要彻底变...
  ## [王者荣耀女性机器人面世；深圳中院受理金立破产案；Firefox 64 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/84984768)
  > 「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特...
+ ## [盒马鲜生食品问题四连发，急速扩张后遗症凸显](http://www.lanjingtmt.com/news/detail/39647.shtml)
+ > 在急速扩张背后，盒马鲜生接连曝出招聘涉嫌地域歧视、餐厨垃圾混放、出售过期商品等问题。尤其是近一个月来，盒马鲜生线下门店集中出现四起食品安全问题，引发舆论高度关注，凸显盒马鲜生内部管
 # 人工智能 
- ## [B/S架构和C/S架构介绍](https://blog.csdn.net/qq_36515586/article/details/84679347)
- > B/S架构和C/S架构介绍
- ## [docker入门（四）](https://blog.csdn.net/weixin_41838683/article/details/84948061)
- > docker入门（四）
- ## [物联网在公共安全中的应用](https://blog.csdn.net/qq_43274753/article/details/84753727)
- > 物联网在公共安全中的应用
- ## [AI资讯--2018年年初预测](https://blog.csdn.net/wydbyxr/article/details/84314224)
- > AI资讯--2018年年初预测
- ## [ElementUI分页组件+Vue](https://blog.csdn.net/qq_43652509/article/details/84063263)
- > ElementUI分页组件+Vue
- ## [\[亲测\]SpringCloud之均衡Ribbon](https://blog.csdn.net/qq_43652509/article/details/84941333)
- > \[亲测\]SpringCloud之均衡Ribbon
- ## [Java 枚举(enum) 详解7种常见的用法](https://blog.csdn.net/qq_27093465/article/details/52180865)
- > Java 枚举(enum) 详解7种常见的用法
- ## [前端进阶-类和对象](https://blog.csdn.net/MoDuRooKie/article/details/84109708)
- > 前端进阶-类和对象
- ## [\[Success\]Elasticsearch介绍和安装+ik](https://blog.csdn.net/qq_43652509/article/details/83988993)
- > \[Success\]Elasticsearch介绍和安装+ik
- ## [Java Mail的使用](https://blog.csdn.net/qq_43652509/article/details/83926323)
- > Java Mail的使用
- ## [关于物联网卡 你了解多少呢？](https://blog.csdn.net/qq_40798435/article/details/84760806)
- > 关于物联网卡 你了解多少呢？
- ## [Python 爬取爱奇艺腾讯视频 250,000 条数据分析为什么李诞不值得了？](https://blog.csdn.net/csdnnews/article/details/84948868)
- > Python 爬取爱奇艺腾讯视频 250,000 条数据分析为什么李诞不值得了？
- ## [区块链系统定制开发](https://blog.csdn.net/qq_43462253/article/details/84940051)
- > 区块链系统定制开发
- ## [工业物联网：4 数据平台](https://blog.csdn.net/kimbo/article/details/84493687)
- > 工业物联网：4 数据平台
- ## [区块链主流共识算法](https://blog.csdn.net/yuanfangyuan_block/article/details/84593786)
- > 区块链主流共识算法
+ ## [前端与移动开发之vue-day1（4）](https://blog.csdn.net/czbkzmj/article/details/84066810)
+ > 前端与移动开发之vue-day1（4）
+ ## [前端内存泄露浅谈](https://blog.csdn.net/maindek/article/details/84549240)
+ > 前端内存泄露浅谈
+ ## [资讯--2018年11月](https://blog.csdn.net/wydbyxr/article/details/84616869)
+ > 资讯--2018年11月
+ ## [Python 抖音视频和评论爬虫](https://blog.csdn.net/AmazingUU/article/details/84947880)
+ > Python 抖音视频和评论爬虫
+ ## [FFmpeg音视频核心技术精讲与实战完整版](https://blog.csdn.net/weixin_43765322/article/details/84555259)
+ > FFmpeg音视频核心技术精讲与实战完整版
+ ## [微服务Springcloud超详细教程+实战（八）](https://blog.csdn.net/weixin_41838683/article/details/84981382)
+ > 微服务Springcloud超详细教程+实战（八）
+ ## [Linux高级运维命令（awk）](https://blog.csdn.net/lpw_cn/article/details/84643113)
+ > Linux高级运维命令（awk）
+ ## [【数据资讯】大数据应用正深入经济生活](https://blog.csdn.net/cryacq2798/article/details/84102058)
+ > 【数据资讯】大数据应用正深入经济生活
+ ## [户外羽绒服排行榜,它才是女人最好的嫁妆！](https://blog.csdn.net/john_dung/article/details/84883737)
+ > 户外羽绒服排行榜,它才是女人最好的嫁妆！
+ ## [物联网的四种计算模式](https://blog.csdn.net/wireless_com/article/details/84750446)
+ > 物联网的四种计算模式
+ ## [牛逼的C/C++程序员是如何练成的？](https://blog.csdn.net/weixin_42743471/article/details/84887579)
+ > 牛逼的C/C++程序员是如何练成的？
+ ## [数据库----库的操作(字符集、校验规则、修改数据库、删除数据库）](https://blog.csdn.net/sophia__yu/article/details/84719586)
+ > 数据库----库的操作(字符集、校验规则、修改数据库、删除数据库）
+ ## [记录一个融云音视频比较坑的问题](https://blog.csdn.net/u014476720/article/details/84788087)
+ > 记录一个融云音视频比较坑的问题
+ ## [Java架构-美团即时物流的分布式系统架构设计](https://blog.csdn.net/Coco_Wditm/article/details/84498918)
+ > Java架构-美团即时物流的分布式系统架构设计
+ ## [FFmpeg音视频核心技术精讲与实战(目前最全)](https://blog.csdn.net/weixin_43745537/article/details/84798662)
+ > FFmpeg音视频核心技术精讲与实战(目前最全)
 # PM 
+ ## [小七带你逛起点｜向优秀的产品人学习，究竟可以学什么？](http://www.woshipm.com/pmd/1736002.html)
+ > 向优秀的产品人学习，究竟可以学什么？经验吗？所谓经验其实是从多次实践中得到的知识或技能。想要获得经验并没有那么难，只要你愿意付出一定的时间。然而，进阶最核心...
  ## [产品经理周报第 48 期｜微信支付“收款有礼”即将上线；王者荣耀首款女性智能机器人正式面世](http://www.woshipm.com/it/1736750.html)
  > 嗨呀，各位小伙伴们~今天又是周五啦在经历这寒冷的一周后大家终于可以躺在家里烤火啦那我们先来了解一下本周发生的事情啦~☟☟☟ Step 1：好看 产品动态（1）支...
  ## [互联网时代，风水生意搭上了AI的列车](http://www.pmtoo.com/article/60475.html)
