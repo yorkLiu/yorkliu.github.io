@@ -1,7 +1,7 @@
 ---
 title: 2018-12-15 IT News
 copyright: true
-date: 2018-12-15 10:01:38
+date: 2018-12-15 12:01:32
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -11,41 +11,41 @@ categories: IT NEWS
  ## [证券公司的行业研究员的职业规划是怎样的？](https://www.zhihu.com/question/26769783)
  > 先看图：实际上，券商分析师是未来职业选择面非常广的工作。究其原因，券商分析师这个工作需要分析师上得了厅堂、下得了厨房，拥有十八般武艺。既能写（写报告）、又会说（路演）。逻辑思维、分析能力强（分析公司）...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
- ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
- > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
- ## [有没有一些融资租赁公司可以做二手车的售后回租呢？](https://www.zhihu.com/question/269074884)
- > 2018.3.23更新，多谢各位打脸，赞数居然过十了。。。鉴于题主补充了问题描述，在评论区也进行了提问，具体的回复请诸位移步评论区了解。以下为原答案：谢邀，最喜欢回答专业对口的问题。先说一下融资租赁公司“绕过”...
- ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
- > 很简单啊，周期只是一直在轮回而已。从朱格拉周期（所谓的逢八出事，因为朱格拉周期就是十年）来说，这是信用收缩带来的。由于资金回报率下降，资本要素开始退出，行业与市场从繁荣阶段向衰退和萧条阶段过渡。从康德...
+ > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [王思聪（王健林之子）和潘瑞（潘石屹之子），两种风格的富二代，大家更喜欢哪个？](https://www.zhihu.com/question/31330195)
  > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
+ ## [黄景瑜和王雨馨，你们信吗？](https://www.zhihu.com/question/59558041)
+ > 大家看看这个……10月28号就有匿名的人说过……而且酒店……今天真的发的黄景瑜在酒店坐着的图，所以……我觉得那个小花是张艺上。
  ## [人人网为什么后来失败了？](https://www.zhihu.com/question/302431287)
  > 我2015年写过一个人人网的答案在这里：王亚晖：人人网究竟做错了什么？里面其实有80%我想说的内容了，然后我再补充两件事，这两件事对于整个人人网来说非常重要。一是2012年，当时人人网的流量还非常可观，而且陈一舟...
+ ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
+ > 报个培训班学个iOS/Java/PHP等等，连算法都不会，张口就敢要两万的工资，天天在网上吹牛逼“程序员怎么怎么牛逼”，你是真的牛逼，还是只会写个增删改查，自己心里没数吗？当然有的人确实牛逼，但“互联网”这...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
  > 先说说个人情况答主29岁，从事婴幼儿培训工作6年，正在学习新媒体运营，在知乎上手动盘点整合了多个关于转行新媒体运营问题的答案，也去上了部分新媒体运营课程，收集了以下转行新媒体运营的资料。右下角请给我点赞~...
+ ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
+ > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
  ## [针对外卖商家的代运营公司靠谱吗？](https://www.zhihu.com/question/65892191)
  > 既然有外卖代运营这个行业的存在，肯定是有他存在的意义的。但是代运营不是神仙，不是什么店都能做得起来。找代运营其实就跟我们孩子读书学习一样，如果我们的孩子成绩不好，家长肯定会想办法让孩子去教育培训机构补...
+ ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
+ > 答案分为 学生版 与 非学生版（光收藏不点赞可耻，拒绝伸手党，从点赞做起！） 学生版哈工大本硕985，北京公司，收到去哪儿（13K*16），华为，vipkid（18*14）,茄子快传（20*16），创新工厂（12*13）,秒针（18*16）...
+ ## [当年盗了马化腾QQ的黑客，后来怎么样了？](https://www.zhihu.com/question/282310269)
+ > 之后他干了大事业 赚了xxx 然后……他早就移民了 移民后又回来了 前几年见过面 送了几条烟 不好评价不说了 自己去体会
+ ## [我想知道许魏洲和黄景瑜是不是真的在一起啦？虽然知道这个问题很脑残？](https://www.zhihu.com/question/270107792)
+ > 20180813大噶一起土拨鼠叫吧我的妈妈！！！说实话我很佛的 硬糖不磕的 731老大十五条微博我就觉得略硬也没这么激动但是我昨天！！！老关注了ta小姐姐我就爆哭了！！！这两人的互动合作似乎只有被禁的kb和去年的红毯了...
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
  > 各位大神，你们都是神，都是皇，都是王卡的忠实粉丝，铁粉。那么能否告诉我，腾讯王卡的正确打开姿势是什么？或许是我没正确使用王卡，或许有些事就是联通的锅，或许有些是我理解错了。那么我在此承认，我就是贪婪，...
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
  ## [有哪些值得所有人收藏的网站？](https://www.zhihu.com/question/305510456)
  > PPT素材类：1、优品PPT我们可以免费PPT模板下载网站！2、演界网也是PPT学习网站，有很多的PPT素材可以直接使用！思维导图工具类1、XMind这是一款非常实用的商业思维导图软件图片设计素材类：1、for...
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [现实生活中有和科学超电磁炮里初春使用的手持设备一样的东西吗？哪里有卖？](https://www.zhihu.com/question/24294741)
  > SHARP Zaurus SL-C3000/3100/1000我的那个送人了，手边好像也没留什么照片……下图网上找的。
- ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
- > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
- ## [如何评价Facebook最近新出的FBNet？](https://www.zhihu.com/question/305582172)
- > FBNetFBNeXTFBNet v2Fast FBNetFaster FBNetRethinking FBNetFBNet Is All You NeedYou May Not Need FBNetA Good Practice towards FBNetThe Best Practice tow
- ## [刚上网的那个年代遇到过什么趣事或囧事？](https://www.zhihu.com/question/20017924)
- > 听说要有猫，就养了一只。
- ## [如何看待现在计算机专业大学生翘掉许多专业课去做项目？](https://www.zhihu.com/question/65937075)
- > 我认为计算机的理论基础还是很重要的，最好的学习方法就是理论和应用同步。至于很多学生翘课去做项目，我觉得原因之一就是有些大学老师教课实在比较无聊，学生如果觉得听课还不如自己学效率高，当然翘课了。其实现在...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 谢 @叶竹 邀请……生物学基础研究的突破，还能影响互联网产业吗。呃，我觉得不太可能。生物基础研究所需的技术发展，倒是也许能够产生一些影响，我就答一个抛砖引玉。（多图警告）DNA存储替代磁性硬盘存储更新：评...
- ## [机械行业转行互联网行业是一种什么体验？](https://www.zhihu.com/question/280513210)
- > 91年，机械专业的汉子，转行后一个人在北京漂着，一万多的收入自然买不起房。但是觉得现在这样的生活状态对我来说很宝贵，依然愿意为了更好的生活去努力。大学学的机械，现在在一家互联网公司工作，是一枚电商运营。...
 # IT 技术 
  ## [45K！刚面完 AI 岗，这几点分享给你！](https://blog.csdn.net/CSDNedu/article/details/85002678)
  > 45K！刚面完 AI 岗，这几点分享给你！
@@ -76,36 +76,36 @@ categories: IT NEWS
  ## [被苹果“先捧后杀”的操作系统](https://blog.csdn.net/csdnnews/article/details/85002623)
  > 在计算机的发展过程中出现过许多不同的操作系统，比如DOS、Mac OS、Windows、Linux、Free BSD、Unix/Xenix、OS/2等等，其中90年代的很多操作系统至令仍风头强劲。但是同时期苹果公司力捧的Copland却折戟沉沙，悄然泯灭。其背后究竟为何？本文一探究...
 # 人工智能 
- ## [给人工智能打工的人](https://blog.csdn.net/belalds/article/details/84336185)
- > 给人工智能打工的人
- ## [python操作Redis（最新各种方法）](https://blog.csdn.net/ltf201834/article/details/84975724)
- > python操作Redis（最新各种方法）
- ## [网易云 MySQL实例迁移的技术实现](https://blog.csdn.net/jessicaiu/article/details/84563094)
- > 网易云 MySQL实例迁移的技术实现
- ## [物联网-大气质量检测系统](https://blog.csdn.net/wsh596823919/article/details/84980460)
- > 物联网-大气质量检测系统
- ## [程序人生：黑帽seo新手入门基础教程](https://blog.csdn.net/qq_42302805/article/details/84773584)
- > 程序人生：黑帽seo新手入门基础教程
- ## [【《Unity Shader入门精要》 提炼总结】(十一)第十一章·渐变纹理的应用&遮罩纹理的应用](https://blog.csdn.net/iceSony/article/details/84634170)
- > 【《Unity Shader入门精要》 提炼总结】(十一)第十一章·渐变纹理的应用&amp;遮罩纹理的应用
- ## [对 Kotlin 与 Java 编程语言的思考](https://blog.csdn.net/qianfeng_dashuju/article/details/84942396)
- > 对 Kotlin 与 Java 编程语言的思考
- ## [前端学习（三）javascript（*）](https://blog.csdn.net/stanwuc/article/details/84976224)
- > 前端学习（三）javascript（*）
- ## [JavaScript推箱子游戏开发笔记](https://blog.csdn.net/qq_42312930/article/details/84333767)
- > JavaScript推箱子游戏开发笔记
- ## [人工智能的图像识别过程阐述](https://blog.csdn.net/Peter_Changyb/article/details/84746850)
- > 人工智能的图像识别过程阐述
- ## [破解版百度云【亲测好用】完美解决限速](https://blog.csdn.net/weixin_43687357/article/details/84883941)
- > 破解版百度云【亲测好用】完美解决限速
- ## [Java游戏开发——拼图游戏经典版](https://blog.csdn.net/A1344714150/article/details/84888599)
- > Java游戏开发——拼图游戏经典版
- ## [大话functional编程语言](https://blog.csdn.net/weixin_43801661/article/details/84526885)
- > 大话functional编程语言
- ## [运维--linux相关](https://blog.csdn.net/weixin_43775723/article/details/84370536)
- > 运维--linux相关
- ## [门罗币 xmr 超级详细的CPU xmr挖矿教程](https://blog.csdn.net/qq_39863517/article/details/84455651)
- > 门罗币 xmr 超级详细的CPU xmr挖矿教程
+ ## [云计算存储之Ceph是什么？](https://blog.csdn.net/baidu_34122324/article/details/84530253)
+ > 云计算存储之Ceph是什么？
+ ## [CSDN博客第一期移动开发排行榜](https://blog.csdn.net/qq_43667070/article/details/84102340)
+ > CSDN博客第一期移动开发排行榜
+ ## [函数默认值，内联函数和函数的重载](https://blog.csdn.net/Monster7559/article/details/84591502)
+ > 函数默认值，内联函数和函数的重载
+ ## [编程语言的分类Dynamic、Statically](https://blog.csdn.net/shinetzh/article/details/84660429)
+ > 编程语言的分类Dynamic、Statically
+ ## [批处理添加字段和删除字段](https://blog.csdn.net/pyf_914406232/article/details/84455363)
+ > 批处理添加字段和删除字段
+ ## [基于CAS线程安全实现计数器](https://blog.csdn.net/wfy2695766757/article/details/84305366)
+ > 基于CAS线程安全实现计数器
+ ## [cocos2d-x3.0 物理引擎之详解](https://blog.csdn.net/pyf_914406232/article/details/80109588)
+ > cocos2d-x3.0 物理引擎之详解
+ ## [人工智能时代，所需要了解人工智能的基本常识](https://blog.csdn.net/duozhishidai/article/details/84947920)
+ > 人工智能时代，所需要了解人工智能的基本常识
+ ## [微服务Springcloud超详细教程+实战（六）](https://blog.csdn.net/weixin_41838683/article/details/84968970)
+ > 微服务Springcloud超详细教程+实战（六）
+ ## [【人工智能】人工智能课程复习笔记](https://blog.csdn.net/qq_35705332/article/details/84573971)
+ > 【人工智能】人工智能课程复习笔记
+ ## [使用JavaScript实现区块链](https://blog.csdn.net/weixin_42088434/article/details/84334524)
+ > 使用JavaScript实现区块链
+ ## [国内用户无法使用TikTok(国外版抖音)的解决方案](https://blog.csdn.net/xfhy_/article/details/82697609)
+ > 国内用户无法使用TikTok(国外版抖音)的解决方案
+ ## [编程语言总结](https://blog.csdn.net/zhanshen112/article/details/84979488)
+ > 编程语言总结
+ ## [C/C++，最经典的编程语言](https://blog.csdn.net/weixin_43770609/article/details/84945820)
+ > C/C++，最经典的编程语言
+ ## [Postman  使用方法详解](https://blog.csdn.net/fxbin123/article/details/80428216)
+ > Postman  使用方法详解
 # PM 
  ## [产品岗面试避坑指南—求职ing必备！](http://www.chanpin100.com/article/107353)
  > 产品新人面试必备
@@ -117,5 +117,11 @@ categories: IT NEWS
  > 使用栅格系统，让设计更规范更专业~
  ## [从0到1，如何竞品分析？|记我的一次互联网保险项目](http://www.chanpin100.com/article/107757)
  > 作为一个初创产品的产品负责人，或者你直接是CEO，真正的从零到一，又该怎么去做竞品分析呢？
+ ## [美图的寒冬](http://www.pmtoo.com/article/60489.html)
+ > 命运多舛。大裁员、架构调整、“抛售”盈利业务、持续亏损。它曾在美与丑之间让人们一直相信，任何事物总有美的那一面。...
+ ## [你以为自己在填验证码，其实你是在给Google义务劳动](http://www.pmtoo.com/article/60484.html)
+ > 最近，硅星人发现，上网遇见的验证码“越来越有内容”了。为了证明自己是个真人，除了要输入方框里的文字，还得做从下面图...
+ ## [大崩溃前的1990年，日本年轻人有多疯狂？](http://www.pmtoo.com/article/60478.html)
+ > 1980年，日本进入到经济的黄金期，也称为泡沫时代或繁荣时代，经济高度成长的时代。疯狂消费的日本人都觉得自己发财了，坚...
 
     
