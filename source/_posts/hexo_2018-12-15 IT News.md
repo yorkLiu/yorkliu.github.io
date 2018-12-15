@@ -1,23 +1,21 @@
 ---
 title: 2018-12-15 IT News
 copyright: true
-date: 2018-12-15 09:01:30
+date: 2018-12-15 10:01:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
  ## [文学对你而言是什么？](https://www.zhihu.com/question/56124812)
  > 是一次一次孤独的闯入。多数时候，闯入者是个贬义词。就像打家劫舍的强盗，就像破坏规则的野蛮人，就像痴心妄想的精神病患者。何为“闯入”？前提是不在，或者说是遥远。只得远远观望，却不知从何门而入？这个闯入，...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
- ## [如何看待翟欣欣 5.21 日发长文透露苏享茂患乙肝病史，并称其对自己施暴？](https://www.zhihu.com/question/278156775)
- > 记得以前看推理小说，里面有一个情节让我记忆犹新：一个菜鸟警察和老鸟警察抱怨自己手头案子的线索太多太杂乱，有的甚至互相矛盾，不知道从何着手去查，老鸟警察喷了口烟，教菜鸟警察说：“绝大部分案子就涉及两件事...
- ## [人人网为什么后来失败了？](https://www.zhihu.com/question/302431287)
- > 我2015年写过一个人人网的答案在这里：王亚晖：人人网究竟做错了什么？里面其实有80%我想说的内容了，然后我再补充两件事，这两件事对于整个人人网来说非常重要。一是2012年，当时人人网的流量还非常可观，而且陈一舟...
  ## [证券公司的行业研究员的职业规划是怎样的？](https://www.zhihu.com/question/26769783)
  > 先看图：实际上，券商分析师是未来职业选择面非常广的工作。究其原因，券商分析师这个工作需要分析师上得了厅堂、下得了厨房，拥有十八般武艺。既能写（写报告）、又会说（路演）。逻辑思维、分析能力强（分析公司）...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
+ ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
+ > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
+ ## [有没有一些融资租赁公司可以做二手车的售后回租呢？](https://www.zhihu.com/question/269074884)
+ > 2018.3.23更新，多谢各位打脸，赞数居然过十了。。。鉴于题主补充了问题描述，在评论区也进行了提问，具体的回复请诸位移步评论区了解。以下为原答案：谢邀，最喜欢回答专业对口的问题。先说一下融资租赁公司“绕过”...
  ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
  > 很简单啊，周期只是一直在轮回而已。从朱格拉周期（所谓的逢八出事，因为朱格拉周期就是十年）来说，这是信用收缩带来的。由于资金回报率下降，资本要素开始退出，行业与市场从繁荣阶段向衰退和萧条阶段过渡。从康德...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
@@ -30,16 +28,18 @@ categories: IT NEWS
  > 先说说个人情况答主29岁，从事婴幼儿培训工作6年，正在学习新媒体运营，在知乎上手动盘点整合了多个关于转行新媒体运营问题的答案，也去上了部分新媒体运营课程，收集了以下转行新媒体运营的资料。右下角请给我点赞~...
  ## [针对外卖商家的代运营公司靠谱吗？](https://www.zhihu.com/question/65892191)
  > 既然有外卖代运营这个行业的存在，肯定是有他存在的意义的。但是代运营不是神仙，不是什么店都能做得起来。找代运营其实就跟我们孩子读书学习一样，如果我们的孩子成绩不好，家长肯定会想办法让孩子去教育培训机构补...
+ ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
+ > 各位大神，你们都是神，都是皇，都是王卡的忠实粉丝，铁粉。那么能否告诉我，腾讯王卡的正确打开姿势是什么？或许是我没正确使用王卡，或许有些事就是联通的锅，或许有些是我理解错了。那么我在此承认，我就是贪婪，...
  ## [有哪些值得所有人收藏的网站？](https://www.zhihu.com/question/305510456)
  > PPT素材类：1、优品PPT我们可以免费PPT模板下载网站！2、演界网也是PPT学习网站，有很多的PPT素材可以直接使用！思维导图工具类1、XMind这是一款非常实用的商业思维导图软件图片设计素材类：1、for...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [现实生活中有和科学超电磁炮里初春使用的手持设备一样的东西吗？哪里有卖？](https://www.zhihu.com/question/24294741)
+ > SHARP Zaurus SL-C3000/3100/1000我的那个送人了，手边好像也没留什么照片……下图网上找的。
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [如何评价Facebook最近新出的FBNet？](https://www.zhihu.com/question/305582172)
  > FBNetFBNeXTFBNet v2Fast FBNetFaster FBNetRethinking FBNetFBNet Is All You NeedYou May Not Need FBNetA Good Practice towards FBNetThe Best Practice tow
+ ## [刚上网的那个年代遇到过什么趣事或囧事？](https://www.zhihu.com/question/20017924)
+ > 听说要有猫，就养了一只。
  ## [如何看待现在计算机专业大学生翘掉许多专业课去做项目？](https://www.zhihu.com/question/65937075)
  > 我认为计算机的理论基础还是很重要的，最好的学习方法就是理论和应用同步。至于很多学生翘课去做项目，我觉得原因之一就是有些大学老师教课实在比较无聊，学生如果觉得听课还不如自己学效率高，当然翘课了。其实现在...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
@@ -49,16 +49,20 @@ categories: IT NEWS
 # IT 技术 
  ## [45K！刚面完 AI 岗，这几点分享给你！](https://blog.csdn.net/CSDNedu/article/details/85002678)
  > 45K！刚面完 AI 岗，这几点分享给你！
- ## [谈谈RedHat Forum 2018云转型技术亮点(附资料)](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/84680165)
- > 谈谈RedHat Forum 2018云转型技术亮点(附资料)
- ## [边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)](https://blog.csdn.net/sD7O95O/article/details/84694016)
- > 边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)
- ## [Docker最全教程——从理论到实战（四）](https://blog.csdn.net/sD7O95O/article/details/84694120)
- > Docker最全教程——从理论到实战（四）
- ## [边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)](https://blog.csdn.net/sD7O95O/article/details/84694027)
- > 边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)
- ## [【大数据技术视阈下】侦查工作的转型发展与完善进路](https://blog.csdn.net/xCnhYKoHj3eK/article/details/84680309)
- > 【大数据技术视阈下】侦查工作的转型发展与完善进路
+ ## [精选|2018年10月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/84669893)
+ > 精选|2018年10月R新包推荐
+ ## [PyTorch 1.0 正式版发布了！](https://blog.csdn.net/qq_28168421/article/details/84901188)
+ > PyTorch 1.0 正式版发布了！
+ ## [独家 | 一文读懂随机森林的解释和实现（附python代码）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84693958)
+ > 独家 | 一文读懂随机森林的解释和实现（附python代码）
+ ## [下载 | 524页中文教程《动手学深度学习》](https://blog.csdn.net/qq_28168421/article/details/84669792)
+ > 下载 | 524页中文教程《动手学深度学习》
+ ## [“深绿” 及 AlphaGo 对指挥与控制智能化的启示](https://blog.csdn.net/VucNdnrzk8iwX/article/details/84901106)
+ > “深绿” 及 AlphaGo 对指挥与控制智能化的启示
+ ## [资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84469679)
+ > 资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）
+ ## [DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）](https://blog.csdn.net/qq_28168421/article/details/84455341)
+ > DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [谷歌搜索为重返中国都做了什么？](https://blog.csdn.net/csdnnews/article/details/85003196)
@@ -72,36 +76,36 @@ categories: IT NEWS
  ## [被苹果“先捧后杀”的操作系统](https://blog.csdn.net/csdnnews/article/details/85002623)
  > 在计算机的发展过程中出现过许多不同的操作系统，比如DOS、Mac OS、Windows、Linux、Free BSD、Unix/Xenix、OS/2等等，其中90年代的很多操作系统至令仍风头强劲。但是同时期苹果公司力捧的Copland却折戟沉沙，悄然泯灭。其背后究竟为何？本文一探究...
 # 人工智能 
+ ## [给人工智能打工的人](https://blog.csdn.net/belalds/article/details/84336185)
+ > 给人工智能打工的人
+ ## [python操作Redis（最新各种方法）](https://blog.csdn.net/ltf201834/article/details/84975724)
+ > python操作Redis（最新各种方法）
+ ## [网易云 MySQL实例迁移的技术实现](https://blog.csdn.net/jessicaiu/article/details/84563094)
+ > 网易云 MySQL实例迁移的技术实现
  ## [物联网-大气质量检测系统](https://blog.csdn.net/wsh596823919/article/details/84980460)
  > 物联网-大气质量检测系统
- ## [Web安全_weevely使用_](https://blog.csdn.net/BeatRex/article/details/84344692)
- > Web安全_weevely使用_
- ## [【云计算／大数据／人工智能】都这么火了，我居然还不知道他们是啥？看完全明白了！](https://blog.csdn.net/jiawoxuexiqq30294961/article/details/84668605)
- > 【云计算／大数据／人工智能】都这么火了，我居然还不知道他们是啥？看完全明白了！
- ## [PC傻瓜式安装黑苹果并打造成全能逆向工作站](https://blog.csdn.net/mier9042/article/details/80541368)
- > PC傻瓜式安装黑苹果并打造成全能逆向工作站
- ## [python编程语言介绍](https://blog.csdn.net/jingwen3699/article/details/84584166)
- > python编程语言介绍
- ## [SOA 架构和微服务Dubbo架构的区别及优缺点](https://blog.csdn.net/qq_38845362/article/details/84501985)
- > SOA 架构和微服务Dubbo架构的区别及优缺点
- ## [运维文件权限](https://blog.csdn.net/qq_40210942/article/details/84337412)
- > 运维文件权限
- ## [外星人大战----------------------游戏开发（四）](https://blog.csdn.net/shinhwa96/article/details/84338697)
- > 外星人大战----------------------游戏开发（四）
- ## [B/S架构和C/S架构介绍](https://blog.csdn.net/qq_36515586/article/details/84679347)
- > B/S架构和C/S架构介绍
- ## [前端与移动开发之vue-day6（4）](https://blog.csdn.net/czbkzmj/article/details/84318870)
- > 前端与移动开发之vue-day6（4）
- ## [Windows游戏开发学习一 —— WinMain函数](https://blog.csdn.net/qq_38265784/article/details/84782210)
- > Windows游戏开发学习一 —— WinMain函数
- ## [web移动开发总结(六)](https://blog.csdn.net/xiaodi520520/article/details/84945872)
- > web移动开发总结(六)
- ## [nginx负载均衡原理](https://blog.csdn.net/weixin_43694144/article/details/84098906)
- > nginx负载均衡原理
- ## [工具提取MP4中的音视频](https://blog.csdn.net/lhy090271/article/details/84304250)
- > 工具提取MP4中的音视频
- ## [如何qq轰炸别人手机  如何qq多次发送消息  教你如何用记事本创建一个微信 QQ轰炸器 通信软件通用！](https://blog.csdn.net/weixin_42859280/article/details/83501149)
- > 如何qq轰炸别人手机  如何qq多次发送消息  教你如何用记事本创建一个微信 QQ轰炸器 通信软件通用！
+ ## [程序人生：黑帽seo新手入门基础教程](https://blog.csdn.net/qq_42302805/article/details/84773584)
+ > 程序人生：黑帽seo新手入门基础教程
+ ## [【《Unity Shader入门精要》 提炼总结】(十一)第十一章·渐变纹理的应用&遮罩纹理的应用](https://blog.csdn.net/iceSony/article/details/84634170)
+ > 【《Unity Shader入门精要》 提炼总结】(十一)第十一章·渐变纹理的应用&amp;遮罩纹理的应用
+ ## [对 Kotlin 与 Java 编程语言的思考](https://blog.csdn.net/qianfeng_dashuju/article/details/84942396)
+ > 对 Kotlin 与 Java 编程语言的思考
+ ## [前端学习（三）javascript（*）](https://blog.csdn.net/stanwuc/article/details/84976224)
+ > 前端学习（三）javascript（*）
+ ## [JavaScript推箱子游戏开发笔记](https://blog.csdn.net/qq_42312930/article/details/84333767)
+ > JavaScript推箱子游戏开发笔记
+ ## [人工智能的图像识别过程阐述](https://blog.csdn.net/Peter_Changyb/article/details/84746850)
+ > 人工智能的图像识别过程阐述
+ ## [破解版百度云【亲测好用】完美解决限速](https://blog.csdn.net/weixin_43687357/article/details/84883941)
+ > 破解版百度云【亲测好用】完美解决限速
+ ## [Java游戏开发——拼图游戏经典版](https://blog.csdn.net/A1344714150/article/details/84888599)
+ > Java游戏开发——拼图游戏经典版
+ ## [大话functional编程语言](https://blog.csdn.net/weixin_43801661/article/details/84526885)
+ > 大话functional编程语言
+ ## [运维--linux相关](https://blog.csdn.net/weixin_43775723/article/details/84370536)
+ > 运维--linux相关
+ ## [门罗币 xmr 超级详细的CPU xmr挖矿教程](https://blog.csdn.net/qq_39863517/article/details/84455651)
+ > 门罗币 xmr 超级详细的CPU xmr挖矿教程
 # PM 
  ## [产品岗面试避坑指南—求职ing必备！](http://www.chanpin100.com/article/107353)
  > 产品新人面试必备
