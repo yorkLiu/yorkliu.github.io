@@ -1,7 +1,7 @@
 ---
 title: 2018-12-17 IT News
 copyright: true
-date: 2018-12-17 10:01:28
+date: 2018-12-17 12:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -72,11 +72,11 @@ ofo&#20844;&#20851;&#22238;&#24212;&#35013;&#22806;&#22269;&#20154;&#31186;&#368
  ## [如果这几年 罗永浩不做手机 搞脱口秀会怎样？](https://www.zhihu.com/question/305779019)
  > 脱口秀？脱口秀要的是口才 ，而我一直很纳闷，真有人觉得罗永浩口才好？凭什么？凭一句理解万岁？凭每句话后面稳定加一个“是吧？”“你懂我意思吧？”这样？我记得我们中国人说话通常是没有加后缀这种口癖的，一般就...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
+ > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 总结一下大佬们回答的概要：@郑晗 量子计算、量子通信、量子传感、自旋量子器件、柔性电子器件 &amp; 可穿戴设备、拓扑材料及其应用；@谢熊猫君 脑机接口、6万字长文、从生物到人类巨灵、脑的进化、脑的价值、脑的结构、...
+ > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
  ## [王思聪（王健林之子）和潘瑞（潘石屹之子），两种风格的富二代，大家更喜欢哪个？](https://www.zhihu.com/question/31330195)
  > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
  ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
@@ -93,39 +93,27 @@ ofo&#20844;&#20851;&#22238;&#24212;&#35013;&#22806;&#22269;&#20154;&#31186;&#368
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [如何评价Facebook最近新出的FBNet？](https://www.zhihu.com/question/305582172)
  > FBNetFBNeXTFBNet v2Fast FBNetFaster FBNetRethinking FBNetFBNet Is All You NeedYou May Not Need FBNetA Good Practice towards FBNetThe Best Practice tow
- ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
- > 半夜下班回来看腾讯的运动红包即将过期起来领取！点开腾讯运动，领取红包！点击QQ运动，XX记送你运动红包！！9分，很好。点击QQ运动-我的运动-运动红包-查看已获得的红包。我积攒这么长时间随机不同软件的红包...
+ ## [刚上网的那个年代遇到过什么趣事或囧事？](https://www.zhihu.com/question/20017924)
+ > 听说要有猫，就养了一只。
  ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
  > 本题目下面的答案可以说是乌烟瘴气。结论放前面，NAT技术没有拖慢“互联网产业”的发展，但今天无疑NAT对于“互联网（The Internet）”的进步还是有明显的阻碍的。答案下面无法区分互联网产业和互联网本身，...
- ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
- > 很简单啊，周期只是一直在轮回而已。从朱格拉周期（所谓的逢八出事，因为朱格拉周期就是十年）来说，这是信用收缩带来的。由于资金回报率下降，资本要素开始退出，行业与市场从繁荣阶段向衰退和萧条阶段过渡。从康德...
  ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
  > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
  ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
  > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
  ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
  > 报个培训班学个iOS/Java/PHP等等，连算法都不会，张口就敢要两万的工资，天天在网上吹牛逼“程序员怎么怎么牛逼”，你是真的牛逼，还是只会写个增删改查，自己心里没数吗？当然有的人确实牛逼，但“互联网”这...
+ ## [有哪些小众且非常实用的网站？](https://www.zhihu.com/question/305832642)
+ > 1、Gelbooru动漫资源搜索神器这个网站里面有很多动画图片资源，堪称动漫资源库，目前收录的动漫图片超过一百万张，可以帮助动漫迷们精确快速的查询到想要的图片资源。2、StyleShare这是一个教你穿衣搭配的分享平台...
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
 # IT 技术 
- ## [45K！刚面完 AI 岗，这几点分享给你！](https://blog.csdn.net/CSDNedu/article/details/85002678)
- > 45K！刚面完 AI 岗，这几点分享给你！
- ## [精选|2018年10月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/84669893)
- > 精选|2018年10月R新包推荐
- ## [PyTorch 1.0 正式版发布了！](https://blog.csdn.net/qq_28168421/article/details/84901188)
- > PyTorch 1.0 正式版发布了！
- ## [下载 | 524页中文教程《动手学深度学习》](https://blog.csdn.net/qq_28168421/article/details/84669792)
- > 下载 | 524页中文教程《动手学深度学习》
- ## [独家 | 一文读懂随机森林的解释和实现（附python代码）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84693958)
- > 独家 | 一文读懂随机森林的解释和实现（附python代码）
- ## [资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84469679)
- > 资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）
- ## [“深绿” 及 AlphaGo 对指挥与控制智能化的启示](https://blog.csdn.net/VucNdnrzk8iwX/article/details/84901106)
- > “深绿” 及 AlphaGo 对指挥与控制智能化的启示
- ## [用R语言实现对不平衡数据的四种处理方法](https://blog.csdn.net/qq_40875849/article/details/85013973)
- > 用R语言实现对不平衡数据的四种处理方法
- ## [DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）](https://blog.csdn.net/qq_28168421/article/details/84455341)
- > DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）
+ ## [如何使用Arduino开发板控制伺服电机](https://blog.csdn.net/woshi_ziyu/article/details/84072719)
+ > 如何使用Arduino开发板控制伺服电机
+ ## [s5pv210相关的硬件知识](https://blog.csdn.net/weixin_40647352/article/details/84072412)
+ > s5pv210相关的硬件知识
+ ## [VS2005打开wince项目提示：该项目所有的配置都需要系统提供对某些平台的支持](https://blog.csdn.net/zhouyingge1104/article/details/84072790)
+ > VS2005打开wince项目提示：该项目所有的配置都需要系统提供对某些平台的支持
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Facebook 为何还不认错？](https://blog.csdn.net/csdnnews/article/details/85043114)
@@ -144,51 +132,73 @@ ofo&#20844;&#20851;&#22238;&#24212;&#35013;&#22806;&#22269;&#20154;&#31186;&#368
  > 有人说，你应该关注时事、财经，甚至流行的电影、电视剧，才有可能趁着热...
  ## [身为程序员的唐僧说：只要我不死，就能取到真经！](https://blog.csdn.net/csdnnews/article/details/85043120)
  > 作者 | 倪升武责编 | 胡巍巍西游记这个经典的电视剧每年都会播出，...
- ## [人物专访：汇通智慧云党建平台为提升党务工作效率献策](http://www.lanjingtmt.com/news/detail/39674.shtml)
- > 云党建系统到底有哪些新特殊性？又能够带来怎样的工作改观？西安汇通阳光信息技术股份有限公司董事长苏杨先生，他或许能够站在一个科技前沿的角度，诠释“互联网+党建”会结出什么样的硕果。
- ## [虚拟社交成下个机遇？zepeto或步微视后尘](http://www.lanjingtmt.com/news/detail/39672.shtml)
- > 准确来说，腾讯实际早已试水虚拟社交，但试水产品并不成功。2017年12月底，腾讯上线了VR社交应用《Lucky Night VR》，同样是“换装+招呼”，却和zepeto的成绩大相
 # 人工智能 
- ## [毕业后升级打怪程序人生](https://blog.csdn.net/qq_38822390/article/details/84530548)
- > 毕业后升级打怪程序人生
- ## [区块链主流共识算法](https://blog.csdn.net/yuanfangyuan_block/article/details/84593786)
- > 区块链主流共识算法
- ## [SpringCloud之远程调用Feign](https://blog.csdn.net/qq_43652509/article/details/84941876)
- > SpringCloud之远程调用Feign
- ## [FFmpeg音视频核心技术精讲与实战(目前最全)](https://blog.csdn.net/weixin_43745537/article/details/84798662)
- > FFmpeg音视频核心技术精讲与实战(目前最全)
- ## [大数据、云计算和人工智能的深度剖析与相互关系，值得入行者典藏](https://blog.csdn.net/qq_40196321/article/details/85012842)
- > 大数据、云计算和人工智能的深度剖析与相互关系，值得入行者典藏
- ## [移动开发---CircleProgress带数字进度条](https://blog.csdn.net/zhanwei0102/article/details/84959449)
- > 移动开发---CircleProgress带数字进度条
- ## [国内用户无法使用TikTok(国外版抖音)的解决方案](https://blog.csdn.net/xfhy_/article/details/82697609)
- > 国内用户无法使用TikTok(国外版抖音)的解决方案
- ## [windows下使用Qt播放PCM音频文件（通过QAudioOutput和QIODevice）](https://blog.csdn.net/u014552102/article/details/84556096)
- > windows下使用Qt播放PCM音频文件（通过QAudioOutput和QIODevice）
- ## [\[亲测,Success\]Linux,VMware 安装+常用 命 令+网 络+进 程 管 理以及软件安装](https://blog.csdn.net/qq_43652509/article/details/83903029)
- > \[亲测,Success\]Linux,VMware 安装+常用 命 令+网 络+进 程 管 理以及软件安装
- ## [撩课-Mysql第2部分字符集](https://blog.csdn.net/lkitlike/article/details/84869436)
- > 撩课-Mysql第2部分字符集
- ## [程序人生：网站解决方案](https://blog.csdn.net/qq_42302805/article/details/84637358)
- > 程序人生：网站解决方案
- ## [终于有人把云计算、大数据和人工智能讲明白了！（1）](https://blog.csdn.net/wangyiyungw/article/details/84334958)
- > 终于有人把云计算、大数据和人工智能讲明白了！（1）
- ## [物联网安全综述报告](https://blog.csdn.net/m0_37888031/article/details/84537876)
- > 物联网安全综述报告
- ## [jsp 九大内置对象和其作用详解](https://blog.csdn.net/qq_43652509/article/details/84131373)
- > jsp 九大内置对象和其作用详解
- ## [关于区块链的一些思绪](https://blog.csdn.net/bnbjin/article/details/84999184)
- > 关于区块链的一些思绪
+ ## [数据库的性能优化以及数据库日志](https://blog.csdn.net/qq_42611547/article/details/84798744)
+ > 数据库的性能优化以及数据库日志
+ ## [如何学好面向对象？](https://blog.csdn.net/qq_42280739/article/details/85013998)
+ > 如何学好面向对象？
+ ## [音视频学习-h264裸流的解析](https://blog.csdn.net/qq_35703954/article/details/84603221)
+ > 音视频学习-h264裸流的解析
+ ## [【《Unity Shader入门精要》 提炼总结】(九)第九章·UV贴图&纹理概念介绍&单张纹理的应用&Shader常见函数总结](https://blog.csdn.net/iceSony/article/details/84587428)
+ > 【《Unity Shader入门精要》 提炼总结】(九)第九章·UV贴图&amp;纹理概念介绍&amp;单张纹理的应用&amp;Shader常见函数总结
+ ## [【安全开发】java安全编码规范](https://blog.csdn.net/qq_23936389/article/details/84670169)
+ > 【安全开发】java安全编码规范
+ ## [物联网卡不能运用于安防？智宇物联对此说“不”](https://blog.csdn.net/qq_40798435/article/details/84872392)
+ > 物联网卡不能运用于安防？智宇物联对此说“不”
+ ## [JavaSE基础【吐血整理汇总】](https://blog.csdn.net/flyingwzb/article/details/85002850)
+ > JavaSE基础【吐血整理汇总】
+ ## [人工智能百万年薪](https://blog.csdn.net/duozhishidai/article/details/84710484)
+ > 人工智能百万年薪
+ ## [前端脚手架BigFish](https://blog.csdn.net/QuinnNorris/article/details/84852231)
+ > 前端脚手架BigFish
+ ## [启航 —— 记 —— 第一次自考的启示：自考与自我改造](https://blog.csdn.net/Alexshi5/article/details/84076079)
+ > 启航 —— 记 —— 第一次自考的启示：自考与自我改造
+ ## [人工智能一些基础知识](https://blog.csdn.net/maple___leaves/article/details/84930763)
+ > 人工智能一些基础知识
+ ## [远程调用方式 ==> RPC与Http的比较](https://blog.csdn.net/qq_43652509/article/details/84651886)
+ > 远程调用方式 ==&gt; RPC与Http的比较
+ ## [Scala一种编程语言](https://blog.csdn.net/qq_42721694/article/details/85001525)
+ > Scala一种编程语言
+ ## [程序人生：网站关键词排名下滑排查方法](https://blog.csdn.net/qq_42302805/article/details/84883534)
+ > 程序人生：网站关键词排名下滑排查方法
+ ## [门罗币 xmr 超级详细的CPU xmr挖矿教程](https://blog.csdn.net/qq_39863517/article/details/84455651)
+ > 门罗币 xmr 超级详细的CPU xmr挖矿教程
 # PM 
+ ## [为原创发声丨2018年度专栏作家评选开启，为你喜爱的作家投票吧](http://www.woshipm.com/active/1727547.html)
+ > 写作是一个发现自我的过程，在分享观点的同时，对自己的思考也是一种深化。——空手趋势从来都是无可抵挡，且来得越来越快。求知若饥，虚心若愚。——木木老贼当我们在看...
+ ## [变现艰难、不如预期，现在小程序还能吃到微信的红利吗？](http://www.woshipm.com/it/1746023.html)
+ > 近来，小程序中获得融资的开发团队越来越少，是投资人对独立的小程序不看好了吗？小程序开发者变少了吗？近几个月来，因为一个出色的小程序而获得融资的开发团队越来...
+ ## [对话2018：9个关键词](http://www.woshipm.com/it/1739939.html)
+ > 2018比2008整整大了十轮，今年似乎有点特殊发生了很多事情，但又依稀上演着历史翻拍过的场景，接下来从：世界、产品、复盘娓娓道来。世界：我们走在历史中的转折点，...
+ ## [这31个心法，90%的文案老司机都不知道](http://www.woshipm.com/copy/1742179.html)
+ > 文案难以速成，只在于坚持；但是还是有帮助大家（尤其是初学者）更快掌握文案技巧的心法，一起来看下吧~文案有没有速成的诀窍？——有人这样问我。呵呵，这位同学，你...
+ ## [多品牌战略：宝洁为何有那么多的品牌？](http://www.woshipm.com/marketing/1742649.html)
+ > 潘婷，飘柔，海飞丝，碧浪，汰渍，舒肤佳这些我们耳熟能详的产品都是宝洁公司旗下的。它们分开进行广告营销，对于不少用户而言，熟悉它们胜过熟悉宝洁。我们都知道打广...
+ ## [电商O2O后台产品漫谈——后台产品的目标和作用](http://www.woshipm.com/pd/1741934.html)
+ > 本文以企业内部的后端支持系统为主要研究对象，分为六个部分，按后台产品设计过程的顺序，分别是后台产品有什么用、有哪些后台产品、业务需求怎么对接、产品本身怎么设...
+ ## [房产后台客源管理设计实例](http://www.woshipm.com/pd/1067566.html)
+ > 本篇文章以二手房的客源管理的角度，介绍了房产后台客源管理设计的相关流程。客源与盘源对于房产中介来说有着同等重要的地位。租房购房是可以重复的行为，虽然频率不...
+ ## [从一周10W赞到三周暴涨30W粉丝，这个抖音号究竟做了什么？](http://www.woshipm.com/operate/1741784.html)
+ > 想要把握行业的红利，需要有一定的行业积累经验和敏锐的嗅觉，假如你没积累、没沉淀，你是把握不了红利的。抖音还在红利期吗？抖音已经延伸出了电商的新玩法，这意味...
  ## [合格的需求分析师应具备的技能和素质](http://www.woshipm.com/pmd/1739315.html)
  > 本文探讨了作为一名合格的需求分析师需要具备的技能和素质，适合0-1岁的需求分析师/产品经理查看。一、 技能1.1 听听，指能听懂客户、开发、测试说的话。客户与需...
  ## [解析从0-1的产品创新](http://www.woshipm.com/it/1742142.html)
  > 上周原美团产品任刚和原有赞产品十见就产品从0-1做了一些分享；站在别人的肩膀上才能看得更远，今天解析一下两位的分享，在这里我们聊聊如何寻找0-1的机会以及实例化解...
  ## [文案人福利：专治“你想表达很多，而用户理解有限”](http://www.woshipm.com/marketing/1743939.html)
  > 本篇主要解决一个问题：如何在有限的文字和时间内，把信息深深植入用户的心智内？“在乘电梯的30秒内，你能准确地向客户解释你的方案么？”——这是麦肯锡公司检验咨询师...
- ## [线下课程丨她干了2年运营，说出这些心声，也许你能从中找到共鸣](http://www.woshipm.com/active/1727575.html)
- > 你后悔做运营吗？一次跟跟闺蜜聚餐时被这个问题，觉得突然被问倒。做运营2年了，吐槽是非常擅长的。但认真面对这个问题，我的答案是：不后悔做运营，但后悔没好好做...
- ## [【天天问每周精选】第59期：价格补贴，贴着贴着把自己贴进去了](http://www.woshipm.com/it/1739387.html)
- > 价格补贴确实能带来许多的用户，可补贴烧不出忠实的用户。那补贴结束后，产品该何去何从？下面我们来看看天天问小伙伴是怎么说的吧~enjoy~问题清单：趣头条、ofo们...
+ ## [产品经理将AI落地关键：渠道合作](http://www.chanpin100.com/article/107765)
+ > 渠道合作是与合作方持续自上至下共赢的过程。
+ ## [用户体验旅程图|概念&实操&模板](http://www.chanpin100.com/article/107720)
+ > 让产品(服务)团队了解用户使用过程中的看、想、听、做，让他们能够从用户角度去考虑产品、设计产品。
+ ## [项目复盘-产品设计阶段如何完善设计细节？](http://www.chanpin100.com/article/107750)
+ > 心心念念的项目复盘终于抽空有时间写了，作者目前负责所供职公司当中的一个大型0到1的项目，项目从启动到一期、二期、三期的更新迭代，都经历了不少苦难和波折，所以项目复盘很重要，那么在产品设计方面，尤其在应对大型项目当中，产品设计应该如何做？
+ ## [产品规划的汇报PPT怎么写--优化类产品](http://www.chanpin100.com/article/107717)
+ > 2个月前被PPT搞得焦头烂额，网上翻阅了很多资料，改稿了N次后，终于领导觉得过关了，今天来回顾和总结下优化类产品的产品规划的PPT应该怎么写，当然每个公司/每个产品特性/每个产品经理的习惯都不一样，仅供参考~
+ ## [如何玩转饭圈营销：得粉丝者得天下](http://www.chanpin100.com/article/107740)
+ > “无粉丝，不营销”的时代，各大品牌如何才能玩转饭圈营销呢？
+ ## [年度手游报告解读：王者荣耀遇冷仍居榜首，刺激战场居于次位](http://www.chanpin100.com/article/107745)
+ > 截至2018年10月最后一周，中国手游app市场渗透率为47.9%，用户规模为5.27亿，10月行业月均DAU为1.01亿
+ ## [关于跨行、转行、应届生入行产品经理的基础问题解答](http://www.chanpin100.com/article/107763)
+ > 基础问题
 
     
