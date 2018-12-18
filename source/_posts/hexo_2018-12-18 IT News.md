@@ -1,7 +1,7 @@
 ---
 title: 2018-12-18 IT News
 copyright: true
-date: 2018-12-18 08:01:27
+date: 2018-12-18 09:01:44
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -10,12 +10,6 @@ categories: IT NEWS
  > 是一次一次孤独的闯入。多数时候，闯入者是个贬义词。就像打家劫舍的强盗，就像破坏规则的野蛮人，就像痴心妄想的精神病患者。何为“闯入”？前提是不在，或者说是遥远。只得远远观望，却不知从何门而入？这个闯入，...
  ## [如果这几年 罗永浩不做手机 搞脱口秀会怎样？](https://www.zhihu.com/question/305779019)
  > 脱口秀？脱口秀要的是口才 ，而我一直很纳闷，真有人觉得罗永浩口才好？凭什么？凭一句理解万岁？凭每句话后面稳定加一个“是吧？”“你懂我意思吧？”这样？我记得我们中国人说话通常是没有加后缀这种口癖的，一般就...
- ## [想进入互联网行业，零经验怎么最快入行？](https://www.zhihu.com/question/28123508)
- > 写给打算零基础进入互联网的童鞋，这个回答会解决2个入行互联网最关键的问题：1、零基础转行互联网，哪个岗位能最快入行？2、怎样学习，才能比别人入行更快、薪资更高、发展更好？一、零基础转行互联网，哪个岗位能最...
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
- ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
- > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
  ## [王者荣耀如何玩好铠？](https://www.zhihu.com/question/61772638)
  > 近日官方对铠皇的增强：这次调整真的是大幅增强，现在半肉半输出装的铠皇会比全输出装的铠皇厉害得多。铠皇增强后的出装推荐：打野：铭文推荐狩猎、鹰眼、祸源。打野刀不用升级，最后换破军。边路：铭文推荐调和、鹰...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
@@ -28,31 +22,39 @@ categories: IT NEWS
  > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
  ## [微信公众账号的订阅号与服务号有什么区别？](https://www.zhihu.com/question/23504446)
  > 不请自来之前小三儿写过一篇文章，对微信公众号的订阅号和服务号之间的区别，做过比较详细的介绍▼▼▼微信的订阅号和服务号如何区分？ 今天，小三儿再跟大家简单说明一下：订阅号与服务号区别一：开发对象不同订阅号...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
- > 先说说个人情况答主29岁，从事婴幼儿培训工作6年，正在学习新媒体运营，在知乎上手动盘点整合了多个关于转行新媒体运营问题的答案，也去上了部分新媒体运营课程，收集了以下转行新媒体运营的资料。右下角请给我点赞~...
  ## [针对外卖商家的代运营公司靠谱吗？](https://www.zhihu.com/question/65892191)
  > 既然有外卖代运营这个行业的存在，肯定是有他存在的意义的。但是代运营不是神仙，不是什么店都能做得起来。找代运营其实就跟我们孩子读书学习一样，如果我们的孩子成绩不好，家长肯定会想办法让孩子去教育培训机构补...
- ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
- > 答案分为 学生版 与 非学生版（光收藏不点赞可耻，拒绝伸手党，从点赞做起！） 学生版哈工大本硕985，北京公司，收到去哪儿（13K*16），华为，vipkid（18*14）,茄子快传（20*16），创新工厂（12*13）,秒针（18*16）...
  ## [SEC 的「众筹」法规的通过会对科技互联网产业产生哪些影响？](https://www.zhihu.com/question/21876853)
  > 谢邀，为了这俩字儿我也正经回答一下。问题描述里给的英文链接是一篇Forbes的专栏文章，作者Chance Barnett，众投网站crowdfunder.com的创始人、CEO，也是JOBS Act的参与者之一。作为一线从业者、法案参与...
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
  > 各位大神，你们都是神，都是皇，都是王卡的忠实粉丝，铁粉。那么能否告诉我，腾讯王卡的正确打开姿势是什么？或许是我没正确使用王卡，或许有些事就是联通的锅，或许有些是我理解错了。那么我在此承认，我就是贪婪，...
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
+ > 当初工作1个月就辞职的我，答这个话题最有说服力了。17年毕业，做了1个月市场，辞职，迷茫2个月后，决定做运营，经过2个月的快速学习，成功入职新媒体运营岗位……这个套路咋这么熟悉呢？答应我，坚持，反转在后面啊...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [如何评价Facebook最近新出的FBNet？](https://www.zhihu.com/question/305582172)
  > FBNetFBNeXTFBNet v2Fast FBNetFaster FBNetRethinking FBNetFBNet Is All You NeedYou May Not Need FBNetA Good Practice towards FBNetThe Best Practice tow
+ ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
+ > 本题目下面的答案可以说是乌烟瘴气。结论放前面，NAT技术没有拖慢“互联网产业”的发展，但今天无疑NAT对于“互联网（The Internet）”的进步还是有明显的阻碍的。答案下面无法区分互联网产业和互联网本身，...
+ ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
+ > 很简单啊，周期只是一直在轮回而已。从朱格拉周期（所谓的逢八出事，因为朱格拉周期就是十年）来说，这是信用收缩带来的。由于资金回报率下降，资本要素开始退出，行业与市场从繁荣阶段向衰退和萧条阶段过渡。从康德...
  ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
  > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
+ ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
+ > 作为月薪2w的校招生来回答一下这个问题。前言学习路线图往往是学习一样技术的入门指南。网上搜到的Java学习路线图也是一抓一大把。今天我只选一张图，仅此一图，足以包罗Java后端技术的知识点。所谓不求最好，但求...
 # IT 技术 
  ## [调查 | 混合云将在2019年成为IT管理挑战](http://cloud.51cto.com/art/201812/588904.htm)
  > 调查 | 混合云将在2019年成为IT管理挑战
- ## [百亿大表任意维度查询，如何做到毫秒级返回？](http://developer.51cto.com/art/201812/588868.htm)
- > 百亿大表任意维度查询，如何做到毫秒级返回？
  ## [为什么说Kubernetes是新的应用服务器？](http://server.51cto.com/sOS-588889.htm)
  > 为什么说Kubernetes是新的应用服务器？
+ ## [如何优化生产环境下的Kubernetes资源分配](http://developer.51cto.com/art/201812/588884.htm)
+ > 如何优化生产环境下的Kubernetes资源分配
+ ## [百亿大表任意维度查询，如何做到毫秒级返回？](http://developer.51cto.com/art/201812/588868.htm)
+ > 百亿大表任意维度查询，如何做到毫秒级返回？
  ## [助你事半功倍的数据科学工具大集合](http://bigdata.51cto.com/art/201812/588833.htm)
  > 助你事半功倍的数据科学工具大集合
  ## [趋势 | 2019年五大网络威胁走势预测](http://netsecurity.51cto.com/art/201812/588858.htm)
@@ -61,56 +63,66 @@ categories: IT NEWS
  > 互联网大厂是如何360°无死角考察技术候选人的？
  ## [网络安全和物联网：生物识别技术的时代到了](http://iot.51cto.com/art/201812/588866.htm)
  > 网络安全和物联网：生物识别技术的时代到了
- ## [过于真实！《互联网公司迷信大全》](http://news.51cto.com/art/201812/588869.htm)
- > 过于真实！《互联网公司迷信大全》
+ ## [常见的WiFi攻击及检测](http://network.51cto.com/art/201812/588942.htm)
+ > 实际上，所有的WiFi流量都可以在监控模式下使用适配器进行嗅探。大多数Linux发行版都支持将某些WiFi芯片组
+ ## [云安全大变局：如何从中心走向边缘？](http://cloud.51cto.com/art/201812/588940.htm)
+ > 随着万物互联时代的到来，大量的IOT设备接入到公共网络中，来自于企业的应用负载更多地开始部署在云端，越
+ ## [MySQL PK MongoDB：多文档事务支持，谁更友好？](http://database.51cto.com/art/201812/588941.htm)
+ > MongoDB 4.0已经发布GA版本，并且有许多新功能和改进。在本文中，我们将重点关注主要功能，毫无疑问，这是
+ ## [5G手机要疯8000起步 先用WiFi体验5G网络](http://network.51cto.com/art/201812/588939.htm)
+ > 2019年支持5G的终端即将推出。据预测，第一批5G手机的价格为8000元左右。终端价格太贵了，还有别的办法体验
  ## [45K！刚面完 AI 岗，这几点分享给你！](https://blog.csdn.net/CSDNedu/article/details/85002678)
  > 45K！刚面完 AI 岗，这几点分享给你！
- ## [谈谈RedHat Forum 2018云转型技术亮点(附资料)](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/84680165)
- > 谈谈RedHat Forum 2018云转型技术亮点(附资料)
- ## [Docker最全教程——从理论到实战（四）](https://blog.csdn.net/sD7O95O/article/details/84694120)
- > Docker最全教程——从理论到实战（四）
- ## [边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)](https://blog.csdn.net/sD7O95O/article/details/84694016)
- > 边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)
- ## [边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)](https://blog.csdn.net/sD7O95O/article/details/84694027)
- > 边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)
- ## [【大数据技术视阈下】侦查工作的转型发展与完善进路](https://blog.csdn.net/xCnhYKoHj3eK/article/details/84680309)
- > 【大数据技术视阈下】侦查工作的转型发展与完善进路
+ ## [【stm32f407】硬件介绍](https://blog.csdn.net/qq_43680229/article/details/84072588)
+ > 【stm32f407】硬件介绍
+ ## [ARM的7种运行模式和37个寄存器](https://blog.csdn.net/weixin_42325069/article/details/84071975)
+ > ARM的7种运行模式和37个寄存器
+ ## [STM32CubeMX学习笔记——STM32H743通用定时器](https://blog.csdn.net/weixin_41738734/article/details/84072276)
+ > STM32CubeMX学习笔记——STM32H743通用定时器
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [六年来频遇接盘侠，锤子手机能否起死回生？](http://www.lanjingtmt.com/news/detail/39696.shtml)
  > 锤子科技成立6年多，多次被传倒闭，被传收购，不断被爆资金链危机。但每次锤子科技都“熬”过来了，6年来锤子科技已孵化了VR、TNT、子弹短信等项目，这次会不会再次遇到新的“接盘侠”？
 # 人工智能 
- ## [大量最新office2016激活密钥_office2016各版本激活码（附office2016激活方法）](https://blog.csdn.net/moshanghuakai_pang/article/details/81151866)
- > 大量最新office2016激活密钥_office2016各版本激活码（附office2016激活方法）
- ## [BugkuCTF之web题之成绩单](https://blog.csdn.net/qq_42967398/article/details/84887630)
- > BugkuCTF之web题之成绩单
- ## [破解版百度云【亲测好用】完美解决限速](https://blog.csdn.net/weixin_43687357/article/details/84883941)
- > 破解版百度云【亲测好用】完美解决限速
- ## [运维——linux运维](https://blog.csdn.net/weixin_43512918/article/details/84451228)
- > 运维——linux运维
- ## [Linux高级运维命令（awk）](https://blog.csdn.net/lpw_cn/article/details/84643113)
- > Linux高级运维命令（awk）
+ ## [聚焦机器人垂直领域，「机器人库」成为行业媒体领跑者](https://blog.csdn.net/weixin_43331605/article/details/84592277)
+ > 聚焦机器人垂直领域，「机器人库」成为行业媒体领跑者
+ ## [工具提取MP4中的音视频](https://blog.csdn.net/lhy090271/article/details/84304250)
+ > 工具提取MP4中的音视频
+ ## [数据挖掘的十大经典算法](https://blog.csdn.net/qq_40196321/article/details/85012977)
+ > 数据挖掘的十大经典算法
+ ## [【计算机组成原理】第一章 计算机系统概论](https://blog.csdn.net/qq_39582960/article/details/84862519)
+ > 【计算机组成原理】第一章 计算机系统概论
+ ## [纯前端导出excel](https://blog.csdn.net/csr_monkey/article/details/84557640)
+ > 纯前端导出excel
+ ## [45K！刚面完 AI 岗，这几点分享给你！](https://blog.csdn.net/CSDNedu/article/details/85002678)
+ > 45K！刚面完 AI 岗，这几点分享给你！
+ ## [一切为了解决隐私问题，绿洲实验室Ekiden协议介绍](https://blog.csdn.net/omnigeeker/article/details/84655935)
+ > 一切为了解决隐私问题，绿洲实验室Ekiden协议介绍
+ ## [\[SUCCESS\]前后端分离开发-入门案例  +VSCode安装](https://blog.csdn.net/qq_43652509/article/details/84063090)
+ > \[SUCCESS\]前后端分离开发-入门案例  +VSCode安装
+ ## [Android 音视频任务2](https://blog.csdn.net/weixin_43752854/article/details/84672846)
+ > Android 音视频任务2
+ ## [【安全开发】python安全编码规范](https://blog.csdn.net/qq_23936389/article/details/84670171)
+ > 【安全开发】python安全编码规范
+ ## [微服务Springcloud超详细教程+实战（十）](https://blog.csdn.net/weixin_41838683/article/details/84990689)
+ > 微服务Springcloud超详细教程+实战（十）
+ ## [游戏开发环境搭建](https://blog.csdn.net/osuckseed/article/details/85013686)
+ > 游戏开发环境搭建
  ## [区块链主流共识算法](https://blog.csdn.net/yuanfangyuan_block/article/details/84593786)
  > 区块链主流共识算法
- ## [数据库的性能优化以及数据库日志](https://blog.csdn.net/qq_42611547/article/details/84798744)
- > 数据库的性能优化以及数据库日志
- ## [移动端工程架构与后端工程架构的思想摩擦之旅（1）](https://blog.csdn.net/wangyiyungw/article/details/84856684)
- > 移动端工程架构与后端工程架构的思想摩擦之旅（1）
- ## [数据分析 PyDay02](https://blog.csdn.net/DanBo_C/article/details/84593931)
- > 数据分析 PyDay02
- ## [基础的基础（一）](https://blog.csdn.net/qq_42865713/article/details/84698117)
- > 基础的基础（一）
- ## [\[亲测,Success\]Linux,VMware 安装+常用 命 令+网 络+进 程 管 理以及软件安装](https://blog.csdn.net/qq_43652509/article/details/83903029)
- > \[亲测,Success\]Linux,VMware 安装+常用 命 令+网 络+进 程 管 理以及软件安装
- ## [程序人生：dedecms伪静态的实现方法](https://blog.csdn.net/qq_42302805/article/details/84663293)
- > 程序人生：dedecms伪静态的实现方法
- ## [人工智能（一）：技术发展史](https://blog.csdn.net/zhongguoxin12/article/details/84438527)
- > 人工智能（一）：技术发展史
- ## [区块链隐私保护研究（二）](https://blog.csdn.net/weixin_43783865/article/details/84615294)
- > 区块链隐私保护研究（二）
- ## [【亲测】RMI之Hassion](https://blog.csdn.net/qq_43652509/article/details/84654945)
- > 【亲测】RMI之Hassion
+ ## [关于运维（2）](https://blog.csdn.net/weixin_43796052/article/details/84500273)
+ > 关于运维（2）
+ ## [常见的十几种编程语言介绍](https://blog.csdn.net/Lvcz233/article/details/84944373)
+ > 常见的十几种编程语言介绍
 # PM 
+ ## [念念不忘，必有回响｜腾讯吐个槽产品测评大赛结果公布](http://www.woshipm.com/it/1740349.html)
+ > 每一份成功的作品不是靠力量，而是靠坚持来完成的。你的坚持，必有回响。一、大赛概况简述11月09日，由人人都是产品经理与腾讯吐个槽携手举办的腾讯吐个槽产品测评大...
+ ## [异常设计到底正不正常？](http://www.woshipm.com/pd/1447392.html)
+ > 异常无处不在，对异常的包容是产品人性与否的重要标志。库房三天的体验让我印象深刻的声音全是异常，也许正常情况太顺利到让你掉以轻心，感觉大家都忙于处理突发情况...
+ ## [线上课程 | 电商产品新人进阶难？3周掌握电商后台12个子系统设计要诀](http://www.woshipm.com/active/1739820.html)
+ > 电商类产品新人要进阶，最应该关注的是什么？我们与多位曾在淘宝、京东等一线电商产品团队工作的资深产品经理深入交流后，得出结论：电商产品新人的进阶之道，在于视...
+ ## [2018运营增长大会报名开启 | 14位运营专家齐聚魔都上海，开启一场运营的知识盛宴！](http://www.woshipm.com/it/1736998.html)
+ > 一日一变的互联网世界，今年竞争异常激烈从直播答题，人工智能，区块链，短视频，p2p无数产品诞生、火爆、变革和死亡多变的一年，流量红利期已过，微信公众号，头条...
  ## [干货+案例|如何通过习惯，提升用户粘性？](http://www.chanpin100.com/article/107733)
  > 今天讨论的话题是“现状偏见”。通俗讲就是人的习惯。当人们习惯一件事情了，让他改变，即便有利，也不会去改变。所以，通过构建现状偏见，可以用来提升用户粘性。
  ## [勒索病毒和96后白羊座黑客的背后故事](http://www.chanpin100.com/article/107755)
