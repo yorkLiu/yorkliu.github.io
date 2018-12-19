@@ -1,7 +1,7 @@
 ---
 title: 2018-12-19 IT News
 copyright: true
-date: 2018-12-19 08:01:12
+date: 2018-12-19 09:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,20 +12,20 @@ categories: IT NEWS
  > 脱口秀？脱口秀要的是口才 ，而我一直很纳闷，真有人觉得罗永浩口才好？凭什么？凭一句理解万岁？凭每句话后面稳定加一个“是吧？”“你懂我意思吧？”这样？我记得我们中国人说话通常是没有加后缀这种口癖的，一般就...
  ## [王者荣耀怎么玩好项羽？](https://www.zhihu.com/question/56289912)
  > 大家好，我是Kainy。如果说王者荣耀有哪些容易上手，强度高，还百搭的坦克边路，那么毫无疑问，就是项羽和白起了，我之前做边路梯队排行的文章时，都有提到这两名万金油边路。项羽比起白起，最大的优势在于他是一个...
- ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
- > 就在最近，我一朋友，在思科待了十几年，整个部门，直接干掉了。毕竟经验丰富又能干，他很快和阿里接上头，谈得差不多了，遇到了阿里headcount冻结，没招……只能再去找别的下家了。对很多公司而言，2018毕竟还有一些...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
+ > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
+ ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
+ > 因为业务少了啊！钱少了肯定要裁员的。我之前在别的回答里面就说过，当各种互联网模式都走到了差不多的尽头，直接面对的问题是整个行业的发展开始回归理性。早些年一些小公司搞个app，圈流量都能赚不少钱，现在你再试...
  ## [微信公众账号的订阅号与服务号有什么区别？](https://www.zhihu.com/question/23504446)
  > 不请自来之前小三儿写过一篇文章，对微信公众号的订阅号和服务号之间的区别，做过比较详细的介绍▼▼▼微信的订阅号和服务号如何区分？ 今天，小三儿再跟大家简单说明一下：订阅号与服务号区别一：开发对象不同订阅号...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀。。。这问题问的是如此似曾相识，连语气都是。题主是特地换了小号来问的么？如果不是小号的话：看到你已经翻过知乎不少相关问题的答案了，也看到你手动点过几个赞，楼上庄哥哥也又这么nice地再解释了一遍（真是...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [如何评价Facebook最近新出的FBNet？](https://www.zhihu.com/question/305582172)
@@ -49,36 +49,34 @@ categories: IT NEWS
 # IT 技术 
  ## [了解如何使用Terraform管理多云？](http://cloud.51cto.com/art/201812/588984.htm)
  > 了解如何使用Terraform管理多云？
+ ## [万字长文揭秘：阿里如何实现海量数据实时分析？](http://zhuanlan.51cto.com/art/201812/589004.htm)
+ > 万字长文揭秘：阿里如何实现海量数据实时分析？
+ ## [展望2019年移动应用开发的十二大趋势](http://mobile.51cto.com/news-588985.htm)
+ > 展望2019年移动应用开发的十二大趋势
  ## [关于私有云与存储风向的深度解读](http://cloud.51cto.com/art/201812/588983.htm)
  > 关于私有云与存储风向的深度解读
  ## [【WOT2018】AI门槛不断降低 AI工具人人可用](http://ai.51cto.com/art/201812/588981.htm)
  > 【WOT2018】AI门槛不断降低 AI工具人人可用
  ## [仅需一篇，搞定前端模块化](http://developer.51cto.com/art/201812/588979.htm)
  > 仅需一篇，搞定前端模块化
- ## [万字长文揭秘：阿里如何实现海量数据实时分析？](http://zhuanlan.51cto.com/art/201812/589004.htm)
- > 万字长文揭秘：阿里如何实现海量数据实时分析？
  ## [三位大咖亮相WOT AI峰会机器学习会场，揭秘AI如何赋能行业应用](http://network.51cto.com/art/201812/588976.htm)
  > 三位大咖亮相WOT AI峰会机器学习会场，揭秘AI如何赋能行业应用
  ## [用Python分析“女神大会”，码农最想娶的女星竟然是......](http://developer.51cto.com/art/201812/588955.htm)
  > 用Python分析“女神大会”，码农最想娶的女星竟然是......
- ## [如何优化生产环境下的Kubernetes资源分配](http://developer.51cto.com/art/201812/588884.htm)
- > 如何优化生产环境下的Kubernetes资源分配
+ ## [基于Docker的动态工具：通常被忽视的最佳实践](http://cloud.51cto.com/art/201812/589031.htm)
+ > 容器正在迅速成为大小企业的通用部署工具。Docker自然而然地被开发人员用于各种版本的轻松部署。
+ ## [运维可视化真有这么重要么？这篇文章与您聊聊](http://server.51cto.com/ManageDC-589029.htm)
+ > 没有比“可视化”更好的一个词能概括运维的本质，而“可视化”又应该分成两部分：可视化的服务交付和可视化
+ ## [产业互联网风口，BAT等能否继续笑傲群雄？](http://network.51cto.com/art/201812/589030.htm)
+ > 尽管以BAT为代表的互联网企业在消费互联网领域有长足发展，但在产业互联网时代，或许并非主角。互联网企业
+ ## [后门战争：端到端加密聊天如何成为安全逆鳞？](http://netsecurity.51cto.com/art/201812/589028.htm)
+ > 在这个月初，澳大利亚政府通过了“获取援助法案”。这一消息在国内虽然关注的人不多，但在澳大利亚当地以及
  ## [唯快不破！解读Wi-Fi 6的主要功能和优点](http://network.51cto.com/art/201812/589022.htm)
  > Wi-Fi 6（802.11ax）正在发挥关键作用，帮助Wi-Fi演变成无冲突的确定性无线技术，显著提高聚合网络吞吐量，
  ## [大众消费者容易对物联网产生的5个误解](http://iot.51cto.com/art/201812/589021.htm)
  > 万物互联是未来时代的发展趋势，物联网的应用正一步步改变着世界，也改变着我们的日常生活。在物联网遍及社
  ## [裁员 or 缩招，AI 四起，你的工作还好吗？](https://blog.csdn.net/valada/article/details/85061984)
  > 裁员 or 缩招，AI 四起，你的工作还好吗？
- ## [谈谈RedHat Forum 2018云转型技术亮点(附资料)](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/84680165)
- > 谈谈RedHat Forum 2018云转型技术亮点(附资料)
- ## [Docker最全教程——从理论到实战（四）](https://blog.csdn.net/sD7O95O/article/details/84694120)
- > Docker最全教程——从理论到实战（四）
- ## [边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)](https://blog.csdn.net/sD7O95O/article/details/84694016)
- > 边缘化搭建DotNet Core 2.1 自动化构建和部署环境(上)
- ## [边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)](https://blog.csdn.net/sD7O95O/article/details/84694027)
- > 边缘化搭建 DotNet Core 2.1 自动化发布和部署(下)
- ## [【大数据技术视阈下】侦查工作的转型发展与完善进路](https://blog.csdn.net/xCnhYKoHj3eK/article/details/84680309)
- > 【大数据技术视阈下】侦查工作的转型发展与完善进路
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Qualcomm 推出下一代物联网专用蜂窝技术芯片组！](https://blog.csdn.net/csdnnews/article/details/85076952)
@@ -96,58 +94,44 @@ categories: IT NEWS
 # 人工智能 
  ## [裁员 or 缩招，AI 四起，你的工作还好吗？](https://blog.csdn.net/valada/article/details/85061984)
  > 裁员 or 缩招，AI 四起，你的工作还好吗？
- ## [阿里云重磅发布RDS for SQL Server AlwaysOn集群版](https://blog.csdn.net/xstardust/article/details/84566320)
- > 阿里云重磅发布RDS for SQL Server AlwaysOn集群版
- ## [音视频技术开发周刊 76期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/84750618)
- > 音视频技术开发周刊 76期
- ## [安装和激活Office 2019](https://blog.csdn.net/u011054333/article/details/83448671)
- > 安装和激活Office 2019
- ## [微服务Springcloud超详细教程+实战（九）](https://blog.csdn.net/weixin_41838683/article/details/84981459)
- > 微服务Springcloud超详细教程+实战（九）
- ## [多文件上传前端](https://blog.csdn.net/qq_41471077/article/details/84336116)
- > 多文件上传前端
- ## [web移动开发总结(二)](https://blog.csdn.net/xiaodi520520/article/details/84775074)
- > web移动开发总结(二)
- ## [B/S架构和C/S架构介绍](https://blog.csdn.net/qq_36515586/article/details/84679347)
- > B/S架构和C/S架构介绍
- ## [数据库学习总结（三）——添加、更新与删除数据](https://blog.csdn.net/qq_43501509/article/details/84931931)
- > 数据库学习总结（三）——添加、更新与删除数据
- ## [人工智能 入学指南](https://blog.csdn.net/qingfengxiaosong/article/details/84329982)
- > 人工智能 入学指南
- ## [你了解人工智能吗？](https://blog.csdn.net/weixin_43721675/article/details/84984480)
- > 你了解人工智能吗？
+ ## [手把手教你如何安装Pycharm——靠谱的Pycharm安装详细教程](https://blog.csdn.net/pdcfighting/article/details/80297499)
+ > 手把手教你如何安装Pycharm——靠谱的Pycharm安装详细教程
+ ## [threeJS-Helper09-HemisphereLightHelper(半球光助手)](https://blog.csdn.net/weixin_39452320/article/details/84722725)
+ > threeJS-Helper09-HemisphereLightHelper(半球光助手)
  ## [大数据：spark集群搭建](https://blog.csdn.net/qq_35128600/article/details/84673655)
  > 大数据：spark集群搭建
- ## [你知道运维吗？（一）](https://blog.csdn.net/qq_43512844/article/details/84427089)
- > 你知道运维吗？（一）
- ## [终于有人把云计算、大数据和人工智能讲明白了！](https://blog.csdn.net/qq_40196321/article/details/84922907)
- > 终于有人把云计算、大数据和人工智能讲明白了！
- ## [智慧树走进故宫章节测试答案智慧树走进故宫刷课插件2018年智慧树走进故宫期末考试答案](https://blog.csdn.net/qq_22644927/article/details/80529208)
- > 智慧树走进故宫章节测试答案智慧树走进故宫刷课插件2018年智慧树走进故宫期末考试答案
+ ## [数据通信运维](https://blog.csdn.net/weixin_43824243/article/details/84575348)
+ > 数据通信运维
+ ## [《大型网站技术架构》——第一章 大型网站架构演化](https://blog.csdn.net/wsjtwmy/article/details/84504578)
+ > 《大型网站技术架构》——第一章 大型网站架构演化
+ ## [Matlab - Matlab 2016a 安装破解教程](https://blog.csdn.net/u012313335/article/details/73733651)
+ > Matlab - Matlab 2016a 安装破解教程
+ ## [linux 运维之小白入门](https://blog.csdn.net/qq_36630770/article/details/84350788)
+ > linux 运维之小白入门
+ ## [问道崂山 2018·中国（青岛）大数据应用与解决方案高峰论坛圆满落幕](https://blog.csdn.net/DKhadoop/article/details/85000917)
+ > 问道崂山 2018·中国（青岛）大数据应用与解决方案高峰论坛圆满落幕
+ ## [游戏开发环境搭建](https://blog.csdn.net/osuckseed/article/details/85013686)
+ > 游戏开发环境搭建
+ ## [运维——linux运维](https://blog.csdn.net/weixin_43512918/article/details/84451228)
+ > 运维——linux运维
+ ## [资讯--2018年5月之前](https://blog.csdn.net/wydbyxr/article/details/84314321)
+ > 资讯--2018年5月之前
+ ## [史上最全Java面试题（带全部答案）](https://blog.csdn.net/linzhiqiang0316/article/details/80473906)
+ > 史上最全Java面试题（带全部答案）
+ ## [VSCode设置中文语言显示](https://blog.csdn.net/qq_30068487/article/details/82589347)
+ > VSCode设置中文语言显示
+ ## [java异常处理总结](https://blog.csdn.net/qq_33699659/article/details/84593752)
+ > java异常处理总结
 # PM 
+ ## [透过 “这块屏幕”看BAT的教育帝国，真香！](http://www.woshipm.com/it/1747085.html)
+ > 最近被《这块屏幕可能改变命运》刷屏了，借此机会，作者为我们分析了BAT帝国在教育方面的发展情况。近日，一篇名为《这块屏幕可能改变命运》的文章席卷朋友圈。教育这...
+ ## [在求职过程中，要如何做好自己这款产品的运营？](http://www.woshipm.com/zhichang/1750553.html)
+ > 现在运营类的岗位很火，很多大学生求职者都很想从事产品运营工作。无论你是否有运营经验，你运营的第一款产品其实就是你“自己”。在这篇文章里，我会跟大家分享，大学生...
+ ## [线上课程｜0基础免费文案训练营，5天写出让用户忍不住下单的文案](http://www.woshipm.com/active/1750700.html)
+ > 报名成功后，还可以获得8G实用文案资料，资料内容见末尾问你两个问题：如果你想涨薪，你会用什么样的理由说服老板？如果你想辞职，你有什么样的底气勇敢付出行动？...
  ## [圣诞节！各大品牌如何借势才能抢占超级流量？](http://www.chanpin100.com/article/107769)
  > 圣诞节营销怎么做？这里有6个追热点小方法拿走不谢！
  ## [9款原型设计工具与Sketch的强强组合，轻松构建交互原型！](http://www.chanpin100.com/article/107770)
  > 9款原型设计工具与Sketch的强强组合，轻松构建交互原型！
- ## [一个真正的Uber](http://www.pmtoo.com/article/60872.html)
- > Uber是典型的双边市场，但其真正的业务机制和驱动力却鲜为人知。因此，CBinsight对Uber赚钱的地方，花钱的地方，以及盈利情况...
- ## [原来早有恩怨 刘强东曾批史玉柱卖保健品赚几百亿](http://www.pmtoo.com/article/60868.html)
- > 有人的地方就有江湖，有江湖的地方就有八卦。在互联网这个风云变幻、人潮拥挤的圈子里，从来都不缺八卦，关于大佬的八卦...
- ## [比同事更重要？ 调查者称智能手机成“数码伙伴”](http://www.pmtoo.com/article/60865.html)
- > 英国诺丁汉特伦特大学和德国维尔茨堡大学合作开展的一项在线调查显示，对现代人而言，智能手机的重要性日益提升，仅次于...
- ## [什么样的漏洞可以要你一条命](http://www.pmtoo.com/article/60860.html)
- > 以前编辑写过一篇《什么样的漏洞买得起北京二环一套房？》，给出了好几条因洞致富的途径，最近，我重新审视这个问题，引发了...
- ## [对话2018：9个关键词](http://www.pmtoo.com/article/60851.html)
- > 2018比2008整整大了十轮，今年似乎有点特殊发生了很多事情，但又依稀上演着历史翻拍过的场景，接下来从：世界、产品、复盘娓...
- ## [零售哪有新旧一说](http://www.pmtoo.com/article/60846.html)
- > 所谓新零售更多指更高效率的零售。一本不看就会过时的书《新零售》。深夜读完此书，大有一种在电商企业工作七年，对...
- ## [一个苦逼产品经理的周记（3）](http://www.pmtoo.com/article/60843.html)
- > 谈谈最近这段时间的感悟，主要谈三点：产品经理要有专家范、产品经理要学会用第一性原理去思考、产品经理要善于捕捉沟通中的...
- ## [“双尾海妖”星巴克的2018年](http://www.pmtoo.com/article/60833.html)
- > 星巴克的logo起源于希腊神话传说故事中的双尾海妖。星巴克也的确就像“双尾海妖”一样，抓住了两个可能会决定未来命运的尾鳍：...
- ## [10 条基本商业逻辑：反常识之前请先了解常识](http://www.pmtoo.com/article/60830.html)
- > 这十条商业的基本常识，作为产品经理的你有必要了解一下。在我们的创业或者实际工作中，随着获得的成就越来越多，慢...
- ## [微商的拉人头模式，为何会在知识付费和教育行业“开花”？](http://www.pmtoo.com/article/60819.html)
- > 教育在人心目中的形象往往是严肃的，但是出于对流量的渴望，将微商的拉人头模式引入教育这个行业后，未来会发展向何方呢？...
 
     
