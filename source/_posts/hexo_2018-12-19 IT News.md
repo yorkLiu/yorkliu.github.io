@@ -1,7 +1,7 @@
 ---
 title: 2018-12-19 IT News
 copyright: true
-date: 2018-12-19 10:01:10
+date: 2018-12-19 12:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,16 +65,18 @@ K12&#25945;&#32946;&#39033;&#30446;&#24179;&#21488;&#8220;&#24799;&#20048;&#2594
  > 是一次一次孤独的闯入。多数时候，闯入者是个贬义词。就像打家劫舍的强盗，就像破坏规则的野蛮人，就像痴心妄想的精神病患者。何为“闯入”？前提是不在，或者说是遥远。只得远远观望，却不知从何门而入？这个闯入，...
  ## [如果这几年 罗永浩不做手机 搞脱口秀会怎样？](https://www.zhihu.com/question/305779019)
  > 脱口秀？脱口秀要的是口才 ，而我一直很纳闷，真有人觉得罗永浩口才好？凭什么？凭一句理解万岁？凭每句话后面稳定加一个“是吧？”“你懂我意思吧？”这样？我记得我们中国人说话通常是没有加后缀这种口癖的，一般就...
- ## [王者荣耀怎么玩好项羽？](https://www.zhihu.com/question/56289912)
- > 大家好，我是Kainy。如果说王者荣耀有哪些容易上手，强度高，还百搭的坦克边路，那么毫无疑问，就是项羽和白起了，我之前做边路梯队排行的文章时，都有提到这两名万金油边路。项羽比起白起，最大的优势在于他是一个...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
- ## [2018年，作为产品经理的你有什么改变？](https://www.zhihu.com/question/305921872)
- > 很久没写知乎，把想到的一些点零散地记录一下，还是走一贯的意识流，没有实例，不喜勿喷。由电商到新零售此前从事的项目以电商为主，而且工作内容更加偏社区，对电商底层系统的涉猎较少。近几年来，目睹了太多电商项...
+ ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
+ > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
+ ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
+ > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
+ ## [王思聪（王健林之子）和潘瑞（潘石屹之子），两种风格的富二代，大家更喜欢哪个？](https://www.zhihu.com/question/31330195)
+ > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
  ## [如何解释2018年底的互联网公司裁员和缩招现象？](https://www.zhihu.com/question/299692817)
  > 因为业务少了啊！钱少了肯定要裁员的。我之前在别的回答里面就说过，当各种互联网模式都走到了差不多的尽头，直接面对的问题是整个行业的发展开始回归理性。早些年一些小公司搞个app，圈流量都能赚不少钱，现在你再试...
  ## [微信公众账号的订阅号与服务号有什么区别？](https://www.zhihu.com/question/23504446)
@@ -85,27 +87,27 @@ K12&#25945;&#32946;&#39033;&#30446;&#24179;&#21488;&#8220;&#24799;&#20048;&#2594
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
  > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
+ ## [18届工作三个月辞职，该如何0经验转行互联网运营？](https://www.zhihu.com/question/301971579)
+ > 除了学校没有985光环之外，其他跟楼主一样。零基础，从Android程序员转行到互联网运营，目前拿到3份offer。我有一次惨痛的转行经历，大家千万不要学我。今年毕业出来之后做了三个月的Android程序员，一直都是跟机器...
  ## [如何评价Facebook最近新出的FBNet？](https://www.zhihu.com/question/305582172)
  > FBNetFBNeXTFBNet v2Fast FBNetFaster FBNetRethinking FBNetFBNet Is All You NeedYou May Not Need FBNetA Good Practice towards FBNetThe Best Practice tow
+ ## [如何做好产品经理？](https://www.zhihu.com/question/19635915)
+ > 产品经理在工作几年以后遇到瓶颈，要怎么做才能突破，争取更大的发展呢？工作一两年，或者两三年的产品经理，容易出现这种情况：该掌握的技能都掌握了，原型画了不少，文档写到手抽筋，评审会开了无数次，产品也迭代...
  ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
  > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
  ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
  > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
  ## [2018下半年互联网工作很多公司都爆出裁员、减薪的消息。你所在的公司如何，你对未来有什么猜测吗？](https://www.zhihu.com/question/304046433)
  > 坐标深圳，说说发小所在的公司。年初的时候，那层写字楼，一共8家公司，还是满的，到现在为止，只剩下3家，剩下的，全部人去楼空。10月份以前，工资给避税，社保什么的按最低交。11月份开始，工资全额缴税，社保，公...
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
  ## [工业物联网是工业企业未来发展的必选项吗？](https://www.zhihu.com/question/305628008)
  > 算是从事相关领域，因为偶然因为另一个回答被加到了无人工厂的圆桌，看到了这个问题，抛砖引玉，提出一些自己的见解吧。工科背景的同学提问题的方式很典型，就是以技术为出发点，从技术本身来评判是不是具有可行性。...
- ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
- > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
- ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
- > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
 # IT 技术 
- ## [掌握Nginx监控运维，这一篇足矣！](http://developer.51cto.com/art/201812/589041.htm)
- > 掌握Nginx监控运维，这一篇足矣！
+ ## [深度 | 掌握Nginx监控运维，这一篇足矣！](http://developer.51cto.com/art/201812/589041.htm)
+ > 深度 | 掌握Nginx监控运维，这一篇足矣！
  ## [展望2019年移动应用开发的十二大趋势](http://mobile.51cto.com/news-588985.htm)
  > 展望2019年移动应用开发的十二大趋势
+ ## [后门战争：端到端加密聊天如何成为安全逆鳞？](http://netsecurity.51cto.com/art/201812/589028.htm)
+ > 后门战争：端到端加密聊天如何成为安全逆鳞？
  ## [了解如何使用Terraform管理多云？](http://cloud.51cto.com/art/201812/588984.htm)
  > 了解如何使用Terraform管理多云？
  ## [万字长文揭秘：阿里如何实现海量数据实时分析？](http://zhuanlan.51cto.com/art/201812/589004.htm)
@@ -116,46 +118,42 @@ K12&#25945;&#32946;&#39033;&#30446;&#24179;&#21488;&#8220;&#24799;&#20048;&#2594
  > 【WOT2018】AI门槛不断降低 AI工具人人可用
  ## [仅需一篇，搞定前端模块化](http://developer.51cto.com/art/201812/588979.htm)
  > 仅需一篇，搞定前端模块化
- ## [三位大咖亮相WOT AI峰会机器学习会场，揭秘AI如何赋能行业应用](http://network.51cto.com/art/201812/588976.htm)
- > 三位大咖亮相WOT AI峰会机器学习会场，揭秘AI如何赋能行业应用
+ ## [5G的到来越来越近了 “Wi-Fi将死”并非危言耸听](http://network.51cto.com/art/201812/589049.htm)
+ > 国外研究机构OpenSignal对全球各地Wi-Fi下载速度与移动网络下载速度进行研究对比后发现，澳大利亚、德国、
+ ## [Jenkins服务器允许匿名用户成为管理员](http://server.51cto.com/sOS-589047.htm)
+ > 今年夏天发现并修补了两个漏洞，将Jenkins服务器暴露在大规模开发之下。Jenkins的服务器数以千计，甚至更多
+ ## [嵌入式“老司机”：CPU就那点事儿……](http://biz.51cto.com/art/201812/589046.htm)
+ > CPU是数字处理系统中的一个重要环节。在我看来，单片机、微处理器、dsp都可以称作是CPU，只是它们的侧重点
+ ## [服务器如何获取真实客户端 IP](http://server.51cto.com/sOS-589045.htm)
+ > 测试环境微信支付通道提示网络环境未能通过安全验证，请稍后再试，出现这种情况一般首要 想到可能是双方网
+ ## [嵌入式主流处理器有哪些？这里简直“满汉全席”](http://biz.51cto.com/art/201812/589044.htm)
+ > 嵌入式处理器是什么，嵌入式主流的处理器有哪些呢?我想学过嵌入式的人应该是知道一些嵌入式处理器，以及一
+ ## [一文详解 LVS、Nginx 及 HAProxy 工作原理](http://server.51cto.com/sOS-589043.htm)
+ > 当前大多数的互联网系统都使用了服务器集群技术，集群是将相同服务部署在多台服务器上构成一个集群整体对外
  ## [迁移到Linux：网络和系统设置](http://os.51cto.com/art/201812/589042.htm)
  > 这个系列我们提供了基础知识的概述，以帮助您成功地从另一个操作系统过渡到 Linux；这篇中我们涉及到 Linux
- ## [释放NFV的潜力](http://network.51cto.com/art/201812/589040.htm)
- > NFV是下一代网络架构，它用运行在商品硬件上的虚拟设备取代了在专用硬件上运行的软件。NFV意味着能够随时
  ## [浅谈重点行业的数据中心特点](http://network.51cto.com/art/201812/589037.htm)
  > 虽然，从外表看数据中心几乎都是一个模子做出来的，但承载的业务会千差万别，数据中心服务于百行百业，逐渐
  ## [迁移到Linux：安装软件](http://os.51cto.com/art/201812/589039.htm)
  > 所有的 Linux 打包系统和工具都会让人迷惑，但是这篇面向初学者的教程可以帮助你搞明白。
  ## [SDN即将消亡？看大家都怎么说！](http://network.51cto.com/art/201812/589035.htm)
  > SDN作为一个网络行业的“热词”似乎已经幸福地消失了。但SDN仍以其他方式存在――在数据中心亦或是下一代广
- ## [物联网如何改变供应链：第一部分，物联网应用](http://iot.51cto.com/art/201812/589033.htm)
- > 对于大多数挑战和风险，物联网解决方案值得进一步讨论和探索。IDC和SAP的一份报告预测，物联网将导致交付和
- ## [裁员4.5万人，25年前IBM的转型故事，给所有想壮士断腕的人重新提了个醒](http://news.51cto.com/art/201812/589034.htm)
- > 改变自己，壮士断腕，是破釜沉舟的生死考验，也是血淋淋的切肤之痛。
- ## [技术分析 | 浅析无文件攻击](http://netsecurity.51cto.com/art/201812/589032.htm)
- > 在信息安全领域中，“无文件攻击”属于一种影响力非常大的安全威胁。攻击者在利用这种技术实施攻击时，不会
- ## [基于Docker的动态工具：通常被忽视的最佳实践](http://cloud.51cto.com/art/201812/589031.htm)
- > 容器正在迅速成为大小企业的通用部署工具。Docker自然而然地被开发人员用于各种版本的轻松部署。
- ## [运维可视化真有这么重要么？这篇文章与您聊聊](http://server.51cto.com/ManageDC-589029.htm)
- > 没有比“可视化”更好的一个词能概括运维的本质，而“可视化”又应该分成两部分：可视化的服务交付和可视化
- ## [裁员 or 缩招，AI 四起，你的工作还好吗？](https://blog.csdn.net/valada/article/details/85061984)
- > 裁员 or 缩招，AI 四起，你的工作还好吗？
- ## [独家 | 一文读懂随机森林的解释和实现（附python代码）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84693958)
- > 独家 | 一文读懂随机森林的解释和实现（附python代码）
- ## [PyTorch 1.0 正式版发布了！](https://blog.csdn.net/qq_28168421/article/details/84901188)
- > PyTorch 1.0 正式版发布了！
- ## [精选|2018年10月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/84669893)
- > 精选|2018年10月R新包推荐
- ## [资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84469679)
- > 资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）
- ## [下载 | 524页中文教程《动手学深度学习》](https://blog.csdn.net/qq_28168421/article/details/84669792)
- > 下载 | 524页中文教程《动手学深度学习》
- ## [用R语言实现对不平衡数据的四种处理方法](https://blog.csdn.net/qq_40875849/article/details/85013973)
- > 用R语言实现对不平衡数据的四种处理方法
- ## [“深绿” 及 AlphaGo 对指挥与控制智能化的启示](https://blog.csdn.net/VucNdnrzk8iwX/article/details/84901106)
- > “深绿” 及 AlphaGo 对指挥与控制智能化的启示
- ## [DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）](https://blog.csdn.net/qq_28168421/article/details/84455341)
- > DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）
+ ## [Java 工程师快速入门深度学习，就从 Deeplearning4j  开始](https://blog.csdn.net/valada/article/details/84991256)
+ > Java 工程师快速入门深度学习，就从 Deeplearning4j  开始
+ ## [Android传感器完全解析](https://blog.csdn.net/qq_43685243/article/details/84073602)
+ > Android传感器完全解析
+ ## [打造黑苹果（一）组装硬件的选择与组装](https://blog.csdn.net/qq_43685588/article/details/84074160)
+ > 打造黑苹果（一）组装硬件的选择与组装
+ ## [LinuxC学习第四天](https://blog.csdn.net/qq_37667464/article/details/84074385)
+ > LinuxC学习第四天
+ ## [ARM的异常处理过程](https://blog.csdn.net/weixin_42325069/article/details/84074379)
+ > ARM的异常处理过程
+ ## [FPGA nios通过驱动LCD12864实现菜单界面和uart串口通信](https://blog.csdn.net/kangkanglhb88008/article/details/84073780)
+ > FPGA nios通过驱动LCD12864实现菜单界面和uart串口通信
+ ## [MVP模式在车载系统中车身设置的运用](https://blog.csdn.net/yus201120/article/details/84073445)
+ > MVP模式在车载系统中车身设置的运用
+ ## [Linux：信号的底层实现机制](https://blog.csdn.net/wh_0727/article/details/84074266)
+ > Linux：信号的底层实现机制
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Qualcomm 推出下一代物联网专用蜂窝技术芯片组！](https://blog.csdn.net/csdnnews/article/details/85076952)
@@ -171,47 +169,55 @@ K12&#25945;&#32946;&#39033;&#30446;&#24179;&#21488;&#8220;&#24799;&#20048;&#2594
  ## [互联网企业的金融梦：流量优势与牌照困境](http://www.lanjingtmt.com/news/detail/39716.shtml)
  > 坐拥高流量的互联网企业在入局金融业务后，并不意味着就一本万利，毕竟平台流量与金融业务的流量吻合度有限。如何将平台流量转化为金融业务所需流量、提高转化率是关键点，也是攻克难点。
 # 人工智能 
- ## [裁员 or 缩招，AI 四起，你的工作还好吗？](https://blog.csdn.net/valada/article/details/85061984)
- > 裁员 or 缩招，AI 四起，你的工作还好吗？
- ## [Scrum团队应该如何选择Scrum工具？](https://blog.csdn.net/Agile_zhanglao/article/details/84401472)
- > Scrum团队应该如何选择Scrum工具？
- ## [从来没有任何一篇文章会把“程序员认知”讲得如此透彻](https://blog.csdn.net/weixin_42743471/article/details/84844596)
- > 从来没有任何一篇文章会把“程序员认知”讲得如此透彻
- ## [最简单打增量包的方法（已附上打包的java类）](https://blog.csdn.net/weixin_41961162/article/details/84984259)
- > 最简单打增量包的方法（已附上打包的java类）
- ## [音视频技术开发周刊 77期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/84949201)
- > 音视频技术开发周刊 77期
- ## [从RTS游戏看游戏开发](https://blog.csdn.net/ccanan/article/details/84455318)
- > 从RTS游戏看游戏开发
- ## [threeJS-Helper11-PointLightHelper(点光助手)](https://blog.csdn.net/weixin_39452320/article/details/84781047)
- > threeJS-Helper11-PointLightHelper(点光助手)
- ## [2018编程语言工作机会！](https://blog.csdn.net/weixin_43781249/article/details/84619019)
- > 2018编程语言工作机会！
+ ## [Java 工程师快速入门深度学习，就从 Deeplearning4j  开始](https://blog.csdn.net/valada/article/details/84991256)
+ > Java 工程师快速入门深度学习，就从 Deeplearning4j  开始
+ ## [什么是人工智能、大数据、云计算、物联网？](https://blog.csdn.net/juan188/article/details/84932405)
+ > 什么是人工智能、大数据、云计算、物联网？
  ## [给人工智能打工的人](https://blog.csdn.net/belalds/article/details/84336185)
  > 给人工智能打工的人
- ## [资讯列表上拉刷新](https://blog.csdn.net/qq_40999496/article/details/84372780)
- > 资讯列表上拉刷新
- ## [基础学习——python基础](https://blog.csdn.net/jijerry/article/details/84624462)
- > 基础学习——python基础
- ## [Java游戏开发——拼图游戏经典版](https://blog.csdn.net/A1344714150/article/details/84888599)
- > Java游戏开发——拼图游戏经典版
- ## [人工智能（四）：人工神经网络](https://blog.csdn.net/zhongguoxin12/article/details/84932563)
- > 人工智能（四）：人工神经网络
- ## [区块链笔记-转走收藏](https://blog.csdn.net/weixin_42239721/article/details/84986418)
- > 区块链笔记-转走收藏
- ## [前端学习第五天](https://blog.csdn.net/weixin_43805321/article/details/84674237)
- > 前端学习第五天
+ ## [threeJS-Helper11-PointLightHelper(点光助手)](https://blog.csdn.net/weixin_39452320/article/details/84781047)
+ > threeJS-Helper11-PointLightHelper(点光助手)
+ ## [微服务Springcloud超详细教程+实战（十）](https://blog.csdn.net/weixin_41838683/article/details/84990689)
+ > 微服务Springcloud超详细教程+实战（十）
+ ## [2018最新Web前端经典面试试题及答案](https://blog.csdn.net/wdlhao/article/details/79079660)
+ > 2018最新Web前端经典面试试题及答案
+ ## [项目部分展示-3D在线试衣系统解决方案](https://blog.csdn.net/weixin_39452320/article/details/81699290)
+ > 项目部分展示-3D在线试衣系统解决方案
+ ## [【中间件安全】Weblogic 安全加固规范](https://blog.csdn.net/qq_23936389/article/details/85013924)
+ > 【中间件安全】Weblogic 安全加固规范
+ ## [C/C++，最经典的编程语言.](https://blog.csdn.net/weixin_43772471/article/details/84558159)
+ > C/C++，最经典的编程语言.
+ ## [云计算、人工智能、大数据等当前火热的技术，都离不开它！](https://blog.csdn.net/csdnnews/article/details/84781954)
+ > 云计算、人工智能、大数据等当前火热的技术，都离不开它！
+ ## [JWT](https://blog.csdn.net/yishengsuoaiM/article/details/84889432)
+ > JWT
+ ## [Windows 公共组件的完整性](https://blog.csdn.net/Iron_Ye/article/details/84573826)
+ > Windows 公共组件的完整性
+ ## [SDL农场游戏开发 3.StaticData类](https://blog.csdn.net/bull521/article/details/84777877)
+ > SDL农场游戏开发 3.StaticData类
+ ## [配置 Redis](https://blog.csdn.net/weixin_43694144/article/details/84199852)
+ > 配置 Redis
+ ## [对前端语言的认识](https://blog.csdn.net/qq_43513245/article/details/84589178)
+ > 对前端语言的认识
 # PM 
+ ## [线上课程｜这样学Axure，交互高保真、规范低保真、原型注释一步到位](http://www.woshipm.com/active/1749849.html)
+ > “腾讯课堂&amp;起点学院”联合打造的Axure实战班，已经有3800多位同学报名学习。今年最后一期开启报名！来给大家介绍下这个实战班。根据往期通讯录显示，70%以上的同学...
+ ## [2019第五代互联网重启：覆巢之下，机遇与挑战？](http://www.woshipm.com/it/1750506.html)
+ > 2018年是动荡的一年，“大事件”频频出现，是否第四代互联网将在这里结束，2019年即将迎来第五代互联网？回顾中国互联网的发展历程，还不到30年，却已经撬动了这个有着...
+ ## [怎样让员工积极主动？去孙子兵法里找找答案](http://www.woshipm.com/zhichang/1752044.html)
+ > 如何人带出来，怎么把人用得尽心尽力，我想这是每一个主管、总裁都比较关心的事。就目前而言，全球都在讲自动化，作业自动化，销售自动化等等……什么都可以...
+ ## [一位微商奇女子教会我的故事营销心法](http://www.woshipm.com/copy/1750163.html)
+ > 听完一个“微商奇女子”的故事后，作者为大家总结了“讲故事”的这三个方法和一个公式。事情是这样的：前两天，朋友圈看到一张海报，标题是：3个月如何做到千万营业额？...
+ ## [如何为品牌打造一个值得分享的开箱体验？](http://www.woshipm.com/marketing/1754044.html)
+ > 品牌化包装体验，是一个经过深思熟虑的选择包装形式和运输材料来展示我们产品的创作过程。其目的是通过创造一种难忘的和可分享的消费体验，为我们的客户提升对企业认同...
+ ## [H5活动，有没有必要建一套Saas系统？](http://www.woshipm.com/pmd/1753354.html)
+ > 一个成功的H5包含：活动主题、产品设计开发、活动规则、社交传播、安全管控等方面，着手做H5活动前需要判断清楚公司是否真的有h5活动的需求。一、从网易《H5匠人手册...
+ ## [风控数据业务和风控产品介绍](http://www.woshipm.com/it/1631708.html)
+ > 最近将风控数据业务各家公司的风控产品资料整理出来分享给有需要的朋友，希望对从事风控数据业务公司的风控产品有个大致的认识，以后工作中在选择使用哪家公司的哪个产...
+ ## [亿级订单量下，美团外卖的风控设计是怎样的？](http://www.woshipm.com/pd/1747098.html)
+ > 试问：谁不想成为一个做出亿级体量的产品 or 研发呢？有目标才有前进的方向，有方向才有一步一个脚印的实现。亿级体量四个字，不仅意味着成就感与光环，更意味着压力与...
  ## [用户转化率低？4个案例教你设计用户CTA“行为召唤”](http://www.woshipm.com/pd/1745011.html)
  > CTA，即Call-to-Action，行为召唤，指在网站、App中用于引导用户自发完成某种特定行动。本篇文章为大家介绍了四个经典的CTA案例。“行为召唤（Call-to-Action）”有时也...
- ## [没有战略思想层面的文案都不值一提](http://www.woshipm.com/marketing/1743203.html)
- > 作者所看的都是战略层面的书籍；同时看过一些片段和分析写文案的文章，一大堆分析这个那个的技巧，在我看来，个个看起来都颇具道理，而个个又不得要点！文案短短的几句...
- ## [透过 “这块屏幕”看BAT的教育帝国，真香！](http://www.woshipm.com/it/1747085.html)
- > 最近被《这块屏幕可能改变命运》刷屏了，借此机会，作者为我们分析了BAT帝国在教育方面的发展情况。近日，一篇名为《这块屏幕可能改变命运》的文章席卷朋友圈。教育这...
- ## [在求职过程中，要如何做好自己这款产品的运营？](http://www.woshipm.com/zhichang/1750553.html)
- > 现在运营类的岗位很火，很多大学生求职者都很想从事产品运营工作。无论你是否有运营经验，你运营的第一款产品其实就是你“自己”。在这篇文章里，我会跟大家分享，大学生...
- ## [线上课程｜0基础免费文案训练营，5天写出让用户忍不住下单的文案](http://www.woshipm.com/active/1750700.html)
- > 报名成功后，还可以获得8G实用文案资料，资料内容见末尾问你两个问题：如果你想涨薪，你会用什么样的理由说服老板？如果你想辞职，你有什么样的底气勇敢付出行动？...
  ## [圣诞节！各大品牌如何借势才能抢占超级流量？](http://www.chanpin100.com/article/107769)
  > 圣诞节营销怎么做？这里有6个追热点小方法拿走不谢！
  ## [9款原型设计工具与Sketch的强强组合，轻松构建交互原型！](http://www.chanpin100.com/article/107770)
