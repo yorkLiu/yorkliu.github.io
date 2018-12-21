@@ -1,7 +1,7 @@
 ---
 title: 2018-12-21 IT News
 copyright: true
-date: 2018-12-21 08:01:32
+date: 2018-12-21 09:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,16 +12,18 @@ categories: IT NEWS
  > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
+ ## [在你做推荐系统的过程中都遇到过什么坑？](https://www.zhihu.com/question/32218407)
+ > 其实推荐系统是一个技术远远达不到需求的领域。今日头条已经算是国内推荐领域的相当不错的水平了，仍然颇受诟病。在我看来，规则啊什么的都不算坑，作为系统工程，规则是架构灵活性的一部分，规则保证了系统的人工把...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
+ ## [如何评价江南亲自监制的龙族手游《龙族世界》?](https://www.zhihu.com/question/50433134)
+ > 一个游戏的开发预算是固定的，用在IP上的钱越多，用在游戏开发上的钱就越少。如果开发商觉得靠IP能躺着赚钱，那就更不会去提升游戏的品质了。距离内测两年，这个龙族世界估计已经彻底凉了，因为江南又找上了完美...
  ## [王思聪（王健林之子）和潘瑞（潘石屹之子），两种风格的富二代，大家更喜欢哪个？](https://www.zhihu.com/question/31330195)
  > 我一个无产阶级干嘛要喜欢自己的阶级敌人？我脑残吗？居然过千赞了，就补充一句吧，作为一个无产阶级，千万要时刻提醒自己，这些人的美好形象是用来迷惑自己的工具。他们据有的巨额财富，享受的奢侈生活，甚至表现出...
- ## [数据分析方法论、流程和框架？](https://www.zhihu.com/question/64072628)
- > 谢 @王礼Leon 几百年前的邀请。首先，这个问题太大了，我没法回答的面面俱到，所以我选其中一个我比较了解的来回答。说说关于数据分析的流程。正常在工作中，一个数据分析的问题的分析流程我们可以把它拆解为三个步...
- ## [黄景瑜和王雨馨，你们信吗？](https://www.zhihu.com/question/59558041)
- > 大家看看这个……10月28号就有匿名的人说过……而且酒店……今天真的发的黄景瑜在酒店坐着的图，所以……我觉得那个小花是张艺上。
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀。。。这问题问的是如此似曾相识，连语气都是。题主是特地换了小号来问的么？如果不是小号的话：看到你已经翻过知乎不少相关问题的答案了，也看到你手动点过几个赞，楼上庄哥哥也又这么nice地再解释了一遍（真是...
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
  ## [如果这几年 罗永浩不做手机 搞脱口秀会怎样？](https://www.zhihu.com/question/305779019)
  > 说出来你们可能不信，罗老师真的做过脱口秀。之前听了个音频节目，里面说到本来《今晚80后脱口秀》第一集请的是罗老师，结果录到中途跑掉了……跑掉了……闹的和节目组关系非常僵。 联想罗老师和罗振宇的半途而废的创...
  ## [互联网运营岗实习，该去大公司还是小公司？](https://www.zhihu.com/question/293387600)
@@ -30,6 +32,8 @@ categories: IT NEWS
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [请问EOS的ico发展前景大吗？eos币可以长期持有吗？](https://www.zhihu.com/question/62034483)
  > 这是我12.16发表的文章。在文章中明确说了，柚子双底，十分强势。然而接下来的时间，柚子展开了一次大幅度的反弹。除了技术面的超跌，柚子还有那些值得投资者关注的数据呢？EOS的DAPP爆发1、从8月10日开始到1...
+ ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
+ > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [Word等文档编辑器为什么不使用文档树的形式来编辑处理？](https://www.zhihu.com/question/23371132)
  > Word的存在目的还是出版，你的想法应该用Onenote来解决
  ## [如何做好产品经理？](https://www.zhihu.com/question/19635915)
@@ -40,12 +44,8 @@ categories: IT NEWS
  > 浪潮之巅
  ## [新人在哪个小说网站发展比较好？](https://www.zhihu.com/question/56770716)
  > 各站印象，给萌新投稿指南。作者：深夜白首希望做一个综合性的帖子，给比我还萌新的萌新以投稿指导。如果有不对之处或者有补充的，大家可以留言。如果你不是萌新，欢迎补充。我的帖子是给纯纯萌新指导的。说下新人投...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
  ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
  > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
- ## [2018下半年互联网工作很多公司都爆出裁员、减薪的消息。你所在的公司如何，你对未来有什么猜测吗？](https://www.zhihu.com/question/304046433)
- > 坐标深圳，说说发小所在的公司。年初的时候，那层写字楼，一共8家公司，还是满的，到现在为止，只剩下3家，剩下的，全部人去楼空。10月份以前，工资给避税，社保什么的按最低交。11月份开始，工资全额缴税，社保，公...
 # IT 技术 
  ## [从JVM模型谈十种内存溢出及解决方法](http://stor.51cto.com/art/201812/589126.htm)
  > 从JVM模型谈十种内存溢出及解决方法
@@ -61,24 +61,26 @@ categories: IT NEWS
  > 京东到家订单中心 Elasticsearch 演进历程
  ## [十一月份恶意软件之“十恶不赦”排行榜](http://netsecurity.51cto.com/art/201812/589099.htm)
  > 十一月份恶意软件之“十恶不赦”排行榜
- ## [深度 | 掌握Nginx监控运维，这一篇足矣！](http://developer.51cto.com/art/201812/589041.htm)
- > 深度 | 掌握Nginx监控运维，这一篇足矣！
- ## [精选|2018年10月R新包推荐](https://blog.csdn.net/kMD8d5R/article/details/84669893)
- > 精选|2018年10月R新包推荐
- ## [PyTorch 1.0 正式版发布了！](https://blog.csdn.net/qq_28168421/article/details/84901188)
- > PyTorch 1.0 正式版发布了！
- ## [独家 | 一文读懂随机森林的解释和实现（附python代码）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84693958)
- > 独家 | 一文读懂随机森林的解释和实现（附python代码）
+ ## [万事达卡如何利用人工智能来阻止欺诈、减少错误拒付?](http://ai.51cto.com/art/201812/589097.htm)
+ > 万事达卡如何利用人工智能来阻止欺诈、减少错误拒付?
+ ## [2009-2018：中国互联网十年百大事件](http://news.51cto.com/art/201812/589162.htm)
+ > 今年以来，中国互联网公司掀起了一场声势浩大的上市浪潮。这是国内互联网企业的第四次「上市潮」，也是有史
+ ## [如何做好数据中心机房运维？](http://server.51cto.com/Datacenter-589161.htm)
+ > 如果说一本书可以改变一个人的思维模式，那么一个新的管理方式则可能会改变一个企业的发展轨迹。优质的数据
  ## [资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）](https://blog.csdn.net/eNohtZvQiJxo00aTz3y8/article/details/84469679)
  > 资源 | 英语不行？你可以试试TensorFlow官方中文版教程（附链接）
  ## [DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）](https://blog.csdn.net/qq_28168421/article/details/84455341)
  > DeepMind高赞课程：24小时看完深度强化学习最新进展（视频）
- ## [用R语言实现对不平衡数据的四种处理方法](https://blog.csdn.net/qq_40875849/article/details/85013973)
- > 用R语言实现对不平衡数据的四种处理方法
- ## [“深绿” 及 AlphaGo 对指挥与控制智能化的启示](https://blog.csdn.net/VucNdnrzk8iwX/article/details/84901106)
- > “深绿” 及 AlphaGo 对指挥与控制智能化的启示
+ ## [谈谈RedHat Forum 2018云转型技术亮点(附资料)](https://blog.csdn.net/BtB5e6Nsu1g511Eg5XEg/article/details/84680165)
+ > 谈谈RedHat Forum 2018云转型技术亮点(附资料)
  ## [下载 | 524页中文教程《动手学深度学习》](https://blog.csdn.net/qq_28168421/article/details/84669792)
  > 下载 | 524页中文教程《动手学深度学习》
+ ## [对传统应用进行容器化改造](https://blog.csdn.net/sD7O95O/article/details/84469897)
+ > 对传统应用进行容器化改造
+ ## [【大数据技术视阈下】侦查工作的转型发展与完善进路](https://blog.csdn.net/xCnhYKoHj3eK/article/details/84680309)
+ > 【大数据技术视阈下】侦查工作的转型发展与完善进路
+ ## [对传统应用进行容器化改造](https://blog.csdn.net/sD7O95O/article/details/84469886)
+ > 对传统应用进行容器化改造
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [凭什么说这门编程语言是下一代 Java？](https://blog.csdn.net/csdnnews/article/details/85129341)
@@ -88,38 +90,38 @@ categories: IT NEWS
  ## [程序员的大恩人永远地离开了](https://blog.csdn.net/csdnnews/article/details/85128746)
  > 这个晚上月光很亮，你泡好一保温杯枸杞养生茶，打开电脑，开始敲代码；茶水的温度刚刚好，你熟练地按下“Ctrl-C + Ctrl-V”……对于泡在代码里的程序员而言，复制粘贴无异于左右护法，很难想想没有了这一功能的世界将会变成何等玄幻的模样。可当我们频繁按下这些快捷键的同时，似乎从未探究过这项与程序..
  ## [马化腾评ofo溃败因一票否决权，漠视用户却无人提及](http://www.lanjingtmt.com/news/detail/39756.shtml)
- > 
+ > 马化腾认为，原因“是一个veto right(否决权)”。据知情人士透露，在ofo董事会中，戴威、滴滴、经纬都有一票否决权。事实上ofo的溃败果真是一票否决权吗？如此漠视用户竟然无
 # 人工智能 
- ## [对 Kotlin 与 Java 编程语言的思考](https://blog.csdn.net/qianfeng_dashuju/article/details/84942396)
- > 对 Kotlin 与 Java 编程语言的思考
- ## [大话functional编程语言](https://blog.csdn.net/weixin_43801661/article/details/84526885)
- > 大话functional编程语言
- ## [webgl第30课-用键盘来改变视点](https://blog.csdn.net/weixin_39452320/article/details/81606632)
- > webgl第30课-用键盘来改变视点
- ## [前端学习（四）--jQuery](https://blog.csdn.net/stanwuc/article/details/84614993)
- > 前端学习（四）--jQuery
- ## [服务器的运营与维护](https://blog.csdn.net/weixin_43817615/article/details/84570636)
- > 服务器的运营与维护
- ## [基础学习——python基础](https://blog.csdn.net/jijerry/article/details/84624462)
- > 基础学习——python基础
- ## [人工智能 人脸识别 eureka-client](https://blog.csdn.net/weixin_30947631/article/details/84995178)
- > 人工智能 人脸识别 eureka-client
- ## [windows下使用Qt播放PCM音频文件（通过QAudioOutput和QIODevice）](https://blog.csdn.net/u014552102/article/details/84556096)
- > windows下使用Qt播放PCM音频文件（通过QAudioOutput和QIODevice）
- ## [记录一个融云音视频比较坑的问题](https://blog.csdn.net/u014476720/article/details/84788087)
- > 记录一个融云音视频比较坑的问题
- ## [SDL农场游戏开发 3.StaticData类](https://blog.csdn.net/bull521/article/details/84777877)
- > SDL农场游戏开发 3.StaticData类
- ## [《大型网站技术架构》——第二章 大型网站架构模式](https://blog.csdn.net/wsjtwmy/article/details/84728605)
- > 《大型网站技术架构》——第二章 大型网站架构模式
- ## [人工智能—线性回归模型笔记](https://blog.csdn.net/evolution23/article/details/84964359)
- > 人工智能—线性回归模型笔记
- ## [数据通信运维](https://blog.csdn.net/weixin_43824243/article/details/84575348)
- > 数据通信运维
- ## [vs2017安装和使用教程（详细）](https://blog.csdn.net/qq_36556893/article/details/79430133)
- > vs2017安装和使用教程（详细）
- ## [移动端工程架构与后端工程架构的思想摩擦之旅（1）](https://blog.csdn.net/wangyiyungw/article/details/84856684)
- > 移动端工程架构与后端工程架构的思想摩擦之旅（1）
+ ## [程序人生：外链建设流程与细节都有哪些](https://blog.csdn.net/qq_42302805/article/details/84883440)
+ > 程序人生：外链建设流程与细节都有哪些
+ ## [Android 音视频任务2](https://blog.csdn.net/weixin_43752854/article/details/84672846)
+ > Android 音视频任务2
+ ## [Unity3D游戏开发成长路上的总结](https://blog.csdn.net/qq_34691688/article/details/84451545)
+ > Unity3D游戏开发成长路上的总结
+ ## [threeJS-Helper11-PointLightHelper(点光助手)](https://blog.csdn.net/weixin_39452320/article/details/84781047)
+ > threeJS-Helper11-PointLightHelper(点光助手)
+ ## [网络编程的开始，基础的基础](https://blog.csdn.net/Jinx_vt_Lin/article/details/85092205)
+ > 网络编程的开始，基础的基础
+ ## [JavaSE基础【吐血整理汇总】](https://blog.csdn.net/flyingwzb/article/details/85002850)
+ > JavaSE基础【吐血整理汇总】
+ ## [Proxyee-down的下载与安装教程](https://blog.csdn.net/shadandeajian/article/details/80349939)
+ > Proxyee-down的下载与安装教程
+ ## [python编程语言介绍](https://blog.csdn.net/jingwen3699/article/details/84584166)
+ > python编程语言介绍
+ ## [物联网的概念是什么？](https://blog.csdn.net/Lenzetech/article/details/84858000)
+ > 物联网的概念是什么？
+ ## [Python 抖音视频和评论爬虫](https://blog.csdn.net/AmazingUU/article/details/84947880)
+ > Python 抖音视频和评论爬虫
+ ## [git配置以及fatal: Authentication failed for错误](https://blog.csdn.net/qq_40513881/article/details/83749092)
+ > git配置以及fatal: Authentication failed for错误
+ ## [2018最新Web前端经典面试试题及答案](https://blog.csdn.net/wdlhao/article/details/79079660)
+ > 2018最新Web前端经典面试试题及答案
+ ## [【中间件安全】Apache 安全加固规范](https://blog.csdn.net/qq_23936389/article/details/85013919)
+ > 【中间件安全】Apache 安全加固规范
+ ## [【中间件安全】IIS7.0 安全加固规范](https://blog.csdn.net/qq_23936389/article/details/85013920)
+ > 【中间件安全】IIS7.0 安全加固规范
+ ## [干货！数据可视化解决方案](https://blog.csdn.net/qq_40388552/article/details/84839658)
+ > 干货！数据可视化解决方案
 # PM 
  ## [产品经理周报第 49 期｜ofo公司及戴威收“限制消费令”；爱奇艺上线知识频道，入局知识付费](http://www.woshipm.com/it/1763658.html)
  > 嗨呀，各位小伙伴们~今天又是周五啦辛苦工作一周后即将迎来双休呀那我们先来了解一下本周发生的事情啦~☟☟☟ Step 1：好看 产品动态（1）腾讯云发布新一代移动...
