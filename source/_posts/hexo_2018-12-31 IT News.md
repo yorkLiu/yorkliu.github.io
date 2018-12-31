@@ -1,51 +1,51 @@
 ---
 title: 2018-12-31 IT News
 copyright: true
-date: 2018-12-31 08:01:34
+date: 2018-12-31 09:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2019，区块链正在改变数字世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=-MbiENetuXcmrOBK2lyXj7DTffqd4QnB88lavheVaO9BXt8KkoedNjHCu*Mqwbovya63fyJPlFfH*ILuJqnDP-U-x9cJSc1zVsiSCA6MOQdS0ZMIx2SMITMw6tYswGSS&new=1)
- > 21CTO导读：区块链技术正在改变人们处理数字信息的方式。在讨论数字货币的交易时，我们就会想到区块链和比特币，现在区块链技术已经向不同行业的数字信息领域渗透。区块链变革其它行业的原因缘于技术本身。通过...
- ## [从开放到AI和万物互联：打破格局，低调的OPPO发出生态信号](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=Ua0MeAxRKdNE3vr8y9a3JgnLVy4dfd17LI4lxM*xM946rzHpU09O6mM6rYOyZafcWBu51ZCxQZYkrci5JQoq0Cf-4UP5VtgyfKo5yxq4R9-kDbW6Ha4YdiqC3rFANf6g&new=1)
+ ## [从开放到AI和万物互联：打破格局，低调的OPPO发出生态信号](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=Ua0MeAxRKdNE3vr8y9a3JgnLVy4dfd17LI4lxM*xM946rzHpU09O6mM6rYOyZafchalnq9pSKSOTC2ah5V2ESLY7acJ0Oz2YvHM15ynoUsQkSYHEW-R*7a0kcQPP138q&new=1)
  > 在一直稳健发展的智能手机企业中，2018年变化最大的，非OPPO莫属。 12月26日，在OPPO的开发者大会上，不仅有AI、AR、IoT等黑科技和新能力，更有快应用、ARunit平台等带来的丰富场景体验。当然此次大会上，OPPO还...
- ## [运营商AT&T首个5G网速测试曝光：并没有预想的快](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=Z*vuadILIYvGly*gHJbtvWkibNKooEOPEKSM1lwJ06Emb4Oy*wruuiqnz7mUyHD8CIU3fosZPq9*21WAkCS1BXKSo3F9q7d38XqaVQ46v92Jk5TnMgGz5UoptZvEuRC9&new=1)
- > 之前美国运营商AT&amp;T宣布了5G移动宽带，而不少人都很好奇，这个网络商用的网速是怎样的，现在已经有网友进行了测试。近日国外网友就在Reddit上送出了他实测的5G移动网速，这款5G设备的网速测试结果为194.88Mbps，...
- ## [我国3D视觉获突破 安防监控迎更多应用空间](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=oXTmVnaCMfB1WbujnClZhPJs6JfGVbJCEuzWuqFDq3FKFh5ku6Fp-yHKUhEOOtHq7KQOTE0p9ktDcMs5ylIyEBdFZLXuR3tYOkWZ4Gm5STUzRyV1WSdGI5YhqYovu2mL&new=1)
- > “刷脸解锁”“刷脸支付”等新业态逐步走进大众视野，“3D＋消费级智能终端”的组合将撬动巨大市场。但实现3D识别的结构光技术长期被国外垄断，特别是核心元件VCSEL激光器成本高昂。不过，我国自主3D视觉技术日...
- ## [刚刚，华为正式宣布与奥迪合作!全世界沸腾](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=uvA*mMV3Aol1HCuUCWRDMIEwEAQpnBJGw3SI7g*Mu4v78Tt1*Zi7ifY-U1-MpxRXESY6ea4FAypufjcWYMDg7J3a2ZBd2iC2v57gPnaBdVtU629rtv51npUeluGvCiif&new=1)
- > 刚刚，华为突然扔出一颗重磅炸弹：联手奥迪，改造汽车，推出全新的智能网联汽车！你没有看错，华为进军汽车了。但华为并不是自己造车，而是用大数据、人工智能改造马路上的传统汽车。华为的首个改造目标，就是我...
- ## [本周大新闻|京东AR平台提供版权登记，工信部下发VR产业指导意见](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=TqNXBgSbcGYoFbAECuknDPEyP5UHeVuHbzXdHdvJCohbj-PkltwHKjbAqNV46CJI-nGhJTIPJ7GwtejLq2PslqHaqmem4jycc8mkL73*zkO2fIHGQdf7XeLRFWyQZi5m&new=1)
- > Esther｜ 撰文本周大新闻，AR方面，HoloLens缺货或暗示第二代头显将推出；为保护创作者知识产权，京东AR开放平台接入DCI体系；继小米、华为后应用市场与ARCore合作；Magic Leap与AT&amp;T在线下推特殊版本的《神奇动...
- ## [银河航天CEO徐鸣：年内完成三次融资 最新估值超35亿](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=xIT1R0AZj6*iaaeAjWAgEsDj1WxjR6dRSSl8B*JS*QvBnjkxrC2WcWyQNBuzTgm1bHxI79*LpzyG7s1iU2Ej2hTaesSxXb4YvfrTuWm5I7tnc-Ns7Igqm3AKg24L27Ev&new=1)
- > 雷帝网 乐天 12月29日报道银河航天CEO徐鸣今日发布内部信，称这一年获得六大顶级投资机构的巨额资金支持，年内已完成A轮三次融资，公司最新估值超过35亿元。据银河航天官方透露，2018年一年，银河航天完成A轮三...
- ## [华为5G重压下，苹果终于放出底牌，任正非眼光长远令人钦佩](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=tTIaMxTLjNq0Zobp*jD852pLGl7ivR*tsZfV72YyxXyVpBYTCQtgTLl4Cu3QA0heW0ZBJPHGlnpzxUCPY*WFgr2UcyAXWdZUAn8ST5qInChcmlnW64vqeF*8a1WIk0ob&new=1)
- > 来源：今日头条          华为重压之下，苹果公司亮出“底牌”，但都不如任正非的眼光长远5G时代即将到来，而5G也是成为了每个国家必争的一个技术，当世界各国忙于5G建设时，中国也肯定不会落后，华为作为一家科...
- ## [引起 Edge 浏览器远程代码执行漏洞的 PoC 已发布](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=ksmjzCNHMsK9ZKOKrlzEL4QNaACC6OEEmUv8z9iH1RSSJcu7OTyLFQNSWYj1JhlxKbPzP7gONQanOzZgq0Dt7YYnAGElfKWvkZQVl8ZSlEGzIiMTKQyhOcU*-8L-UVZD&new=1)
- > 脚本之家你与百万开发者在一起此前微软的 Edge 浏览器被曝光存在一个严重的漏洞，可使得黑客通过该漏洞获取用户的电脑权限，进而掌控系统。漏洞的编号被标记为 CVE-2018-8629，微软也在漏洞曝光不久后发布了紧急...
- ## [2018科技江湖之金庸群侠传](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=7CqaEaJ-CQXtMnpQkMvMmbD1EgdFud32z6kxaPd657ESoC4Kbky9f-iZP3GXNodqWFdlvJJwXHI7RJK1fWKRygkYDvm-i*GrGfF*1vrvQrmxesapbFnJQwJnzUqgeFUe&new=1)
+ ## [2018科技江湖之金庸群侠传](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=7CqaEaJ-CQXtMnpQkMvMmbD1EgdFud32z6kxaPd657ESoC4Kbky9f-iZP3GXNodqdpVefSHqTNGJN*DerbuFGPpPOzL9Gbs-Qwd6c*w16FBoTcvmIehxP6yPb3qRZ4pS&new=1)
  > 天下风云出我辈，一入江湖岁月催。无侠，不江湖。江湖是什么？赵客缦胡缨，吴钩霜雪明。快意恩仇、刀光剑影、藏宝秘籍，还有英雄美人。每一段江湖风云的兴起，都是一个英雄的出世。人工智能、5G、千兆宽带、付费...
- ## [全年收入246亿美元，仅次于华为：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=R71m2LBVa9i2usyiucRfveWu6*znEJpJ6a0zXVQrWYQ**2teaiEXarKN3DqrRI0IoK7*m0OqqAJ21xFfFauaUchSGozkZCj*00LWMUiWvwOEwGdRpowSKOkfri6px3sv&new=1)
- > 明行大学问国内最具创新性的管理平台关注2015年，诺基亚宣布并购阿尔卡特朗讯。2016年，诺基亚完成并购并且全年营收超越爱立信，成为全球第2大通信设备制造商。诺基亚是一家伟大的企业，他的历史就是一个典型企...
- ## [赞!龙虎网又获5个国家级软件著作权证书](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=x1ZPRmizHfZvV3WdjdRTcX07yKV1FEqzbP*Wq5-SJLtG0XO8CsG9HaNv3a51h2yd-Lp64rRq4HLhKzEqfWq6MvLpUorNRsCNwLlKOzm*EwxGFYB1tUJ37n4WB4AJKGId&new=1)
- > 近日，龙虎网再次获得国家版权局颁发的5个软件著作权证书。这5个软件著作权证书分别是《龙虎智云办公系统软件V1.0》《龙虎智云报名系统软件V1.0》《龙虎智云发布系统软件V1.0》《龙虎智云客户关系管理系统软件V1...
- ## [引起 Edge 浏览器远程代码漏洞的幕后黑手已出现!](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=erwFW2T0muJX-ZaM0-qdckL4ILVk8Cp0IIGgzccNabKQcn1QWySVzmLdBeJi*wSTt-mgQGGU-3Rhy5PqSOmXXtTTJbozqbQz-znAQEyqkqjXRyYw*ATqx9yblNLm0gsf&new=1)
- > 此前微软的 Edge 浏览器被曝光存在一个严重的漏洞，可使得黑客通过该漏洞获取用户的电脑权限，进而掌控系统。漏洞的编号被标记为 CVE-2018-8629，微软也在漏洞曝光不久后发布了紧急修复补丁。按照微软的说法，当...
- ## [a&s 安防周看点](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=7w5UD44FWfrTLusY7f*tIrnMzEwGlVBueEn0vJGcf6BALDnaHSoCP2vFJ20WUaG6Mvd7JDeb3mY9HdiMtVkLWyMfVNx2KOuUSqUkqS7zQFRb6PfoT64Vo7yyEYspAny0&new=1)
- > 本周看点1、欧盟正式发布人工智能道德准则草案；2、华为打造AIoT 生态方舟实验室；3、我国自研NVMe固态硬盘主控重大突破；4、英国警方启用人脸识别技术搜查罪犯；5、高新兴7500万元收购神盾信息......欧盟正式发...
- ## [明年话费更便宜!工信部将继续推动提速降费](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=O-2rCxGlI8hfvbjXffXRaszqAJT-0vBfE2riYQeVMJR5pbTY0rbHatpZbpIvTSzbi6aAenA16kMoFrd0knRfCFlHdKlxWhjEEblEC29XiiWBBFNPH9UGD9PfTTXtbzEu&new=1)
- > 从去年开始，工信部就向三大运营商提出了网络提速降费的任务，那么今年的任务完成情况如何呢？近日，新华网对此发布了一则报道，其中介绍了今年网络提速降费的成果。数据显示，截至到11月中国移动手机上网流量平...
- ## [从地标到行标 华为生活馆成为新零售标杆](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=XUTBV4zt8c2E7DxeEDJTk7rXeeRxlWMF4xhs86xsrN*hsgIAViKiDO-tzTklq6*BjosSlYuIgds1AH8uTqZGtUr4q30MuCeZKI2oCGWL89aeiH44f1cnX-5FD61eRURy&new=1)
- > 元旦到来前几天，华为智能生活馆（杭州黄龙万科）开始试营业，在这个新年里给了杭州消费者一个新的去处——可以玩一天的智能生活体验。文 | 懂懂    编辑 | 秦言来源：懂懂笔记这是华为继太原、上海之后的第三家...
- ## [尹继辉：天津“真金白银”支持机器人产业 活跃供需两端](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=QRBANPkhBqTwJOi2iuUqLAuxL-4fLoJSVsPGlqwv3v2t*S1oHr18dN1OgJKcnciAnsE8fKFCf7vvsQ8xkB0-EzYigFiPhrzeyShV3V0q2whY26VFxm2kKGB88sMYX6-e&new=1)
- > 在中共天津市委十一届五次全体会议暨经济工作会议召开期间，天津市工业和信息化局局长尹继辉表示，天津将从供需两侧促进机器人产业发展。“机器人产业无论是在发展智能科技还是智能制造方面都是关键环节和核心装...
- ## [网络改变人生，那么千兆能改变什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=Nq2mhlJKk3IsU*vhSrQVlvqb4hgasJuhRYoL15pfMshTlZQL61ZeTNX2szAkiZPDd6b1YLy6fRv3PH0U3OcEIQ3hu1LRoyJTX0XXfGMZmUxjrNoAGivr3SDWhDOMnHI3&new=1)
- > 都说网络改变生活但具体改变了我们什么呢以前：一家人围坐在电视机前，准时收看19:30分的天气预报现在：随时打开网页查看天气，不出门便知半个月的阴晴，根据温度搭配自己衣着以前：坐公交车要提前准备零钱，买...
- ## [\[C114周报\]华为2018年收入1085亿美元；美国最快下月发布华为中兴禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=df18I-elyCSUbWiJNz79aktnjs72z*bE2xDdvdWjOPsUCyxXl5ggqfORCctIZV-WrbqX1x1EYqRV4mFBOh4cfhM9X1QSKopeqU5m3UF7HNMhSf8im-dAet6hF4IsPRL6&new=1)
- > 周报WEEKLY本周热点有华为2018年收入1085亿美元；美国最快下月发布华为中兴禁令；运营商2019年工作目标公布• 第030期 •华为2018年收入1085亿美元12月25-29日华为董事长梁华：5G成熟度领先同行12-18个月 针对
- ## [\[年终盘点\]2018年十大新型机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1546212606&ver=1317&signature=SDaBmR1LMpv4nP*cgtk9SdXspQxJnLCk*fCeCKu6LFjoXkY*FfDvJVEmUaWuV2DOw6Yhqro*Va5TC*4YNubzD8PQ9Jp7GO7Y5p9T5jpct57LFSTwH*9K2M7Qi2XRQLdh&new=1)
+ ## [华为加速新零售升级：杭州首家华为智能生活馆落地](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=DasB6o-TcSkw0ZHAhXZhnAY4-hK9Njt85VZZFMheqf4V94ObWELuEhfRSJsVHw-n6lWI2x4KneVXG0YNqoQe8LJbSX54CEeKU08vGDrcvIIQikz4tmhFe*eRksLTOEfc&new=1)
+ > 文丨壹观察 宿艺杭州被誉为中国电商之都，也是新零售概念的发源之地。2018年12月28日，华为智能生活馆正式进驻杭州，再次引发了行业的跨界热点关注。一方面，华为是全球第二大智能手机品牌，中国市场份额更是超...
+ ## [我国3D视觉获突破 安防监控迎更多应用空间](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=oXTmVnaCMfB1WbujnClZhPJs6JfGVbJCEuzWuqFDq3FKFh5ku6Fp-yHKUhEOOtHqNiLJ8UWDpkRTN86hVt5TkuCVI9D0g5I*Uu7H5X6QBx5Hq*-hIKZonHcPJwp4c6vB&new=1)
+ > “刷脸解锁”“刷脸支付”等新业态逐步走进大众视野，“3D＋消费级智能终端”的组合将撬动巨大市场。但实现3D识别的结构光技术长期被国外垄断，特别是核心元件VCSEL激光器成本高昂。不过，我国自主3D视觉技术日...
+ ## [\[年终盘点\]2018年十大新型机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=SDaBmR1LMpv4nP*cgtk9SdXspQxJnLCk*fCeCKu6LFjoXkY*FfDvJVEmUaWuV2DO1p6lp635kUNIB6Zb22qXjgh5lxoqp6dJpeOMSU3OHR47zRnpIvU3a2tvuhUHYLre&new=1)
  > 来源：网易智能摘要：2018年，机器人行业迎来了丰收——随着新型机器和高级人工智能的出现，各类机器人都在各自的领域都取得了重大的进步，例如家用机器人、工业机器人、医疗机器人、生物机器人和玩具机器人。 ...
+ ## [网络改变人生，那么千兆能改变什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=Nq2mhlJKk3IsU*vhSrQVlvqb4hgasJuhRYoL15pfMshTlZQL61ZeTNX2szAkiZPDnySJyca8p-y*ITFR5z4AlyxNFg0L0YSRFv-iynWtl5ENADyE4VFiDBpWde4Rezc-&new=1)
+ > 都说网络改变生活但具体改变了我们什么呢以前：一家人围坐在电视机前，准时收看19:30分的天气预报现在：随时打开网页查看天气，不出门便知半个月的阴晴，根据温度搭配自己衣着以前：坐公交车要提前准备零钱，买...
+ ## [官方解读：破解“多卡互不通用”就医堵点的电子健康卡](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=c6o9b7**33oLhdldN89PqHUZFYAYvDhi*CDdX*xGVUXPfXPnnOnPTicZtCVfw4R83qg1bVXjfcvN42QjJi8SaAXKsD8Hu54R0XC9PO74hTfVN*3gugFvN-5WS6-sAl*a&new=1)
+ > 为贯彻落实党中央、国务院工作部署，有力破解“一院一卡、重复发卡、互不通用”就医堵点问题，有效建立互联网时代居民健康统一身份凭证，完善居民享受“互联网+医疗健康”线上线下便民惠民服务统一入口，实现跨...
+ ## [刚刚，华为正式宣布与奥迪合作!全世界沸腾…](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=CsM4Du1Npdlp5ouoqSRN4EroKo9qtZGnWSwhPTiLfeh0N0XXpUtKA08JWUmq85zWf3R*tXJwlxY1xvKPSMjU1t9bbEzEwv5aJFez9x1n-Az*HygtnzsWL1PQHqjf0fhV&new=1)
+ > ■ 编辑 | 内参君 | CEO商业内参（CEO-888888）传统汽车，从未像今天这般惶恐不安！一刚刚，华为突然扔出一颗重磅炸弹：联手奥迪，改造汽车，推出全新的智能网联汽车！你没有看错，华为进军汽车了。但华为并不是...
+ ## [刚刚，华为正式宣布与奥迪合作!全世界沸腾](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=uvA*mMV3Aol1HCuUCWRDMIEwEAQpnBJGw3SI7g*Mu4v78Tt1*Zi7ifY-U1-MpxRXnBEzGkBJRJunKXk5YYVbrzwnxB-MJ8mYr98H2L5kefVZrNAMYKM7FDv*ZTsn2iUW&new=1)
+ > 刚刚，华为突然扔出一颗重磅炸弹：联手奥迪，改造汽车，推出全新的智能网联汽车！你没有看错，华为进军汽车了。但华为并不是自己造车，而是用大数据、人工智能改造马路上的传统汽车。华为的首个改造目标，就是我...
+ ## [微软又投50亿美元，物联网市场咋就那么香?](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=tZ-ZpOJ6TBCX97IB2uAS3phLryqF5kg7vfu8K9nSx7Ah*tkOV4T4AS6puXRpn9a3jQfpynHpcaDOyYgkFWIsNIHzXHjXRinkkk1ugjbLESQbKvtS8fqYXEbuAm1G2mZl&new=1)
+ > 有人说，微软的一举一动之所以被高度关注，因为微软是规模市场启动的“发令枪”，一旦微软有大动作，就意味着该市场规模启动的大幕将正式拉开。今年早些时候，微软宣布将在物联网领域投入50亿美元，就在2018年即...
+ ## [本周大新闻|京东AR平台提供版权登记，工信部下发VR产业指导意见](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=TqNXBgSbcGYoFbAECuknDPEyP5UHeVuHbzXdHdvJCohbj-PkltwHKjbAqNV46CJIuE1Nwm85nHVzqH7VU8xeqpnCXLCNsNlw*pXe3sflko-I-JByHwKLOff*ZWXB8KJ-&new=1)
+ > Esther｜ 撰文本周大新闻，AR方面，HoloLens缺货或暗示第二代头显将推出；为保护创作者知识产权，京东AR开放平台接入DCI体系；继小米、华为后应用市场与ARCore合作；Magic Leap与AT&amp;T在线下推特殊版本的《神奇动...
+ ## [女神汤唯代言 俘获上亿用户 解密百度地图AI技术家底](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=R4HoT3W2iSdj9MB6TxjaG4jRKgqrr5tHVNJ8jQbUUizpbrQ5ydNGzZO2hF0tpi9wsBjRFZ8W2KeY*SnWTn53qP64eoHqA-4NAvjNnNTBeXdImFFxz3fwJogiJBxtpMDg&new=1)
+ > 看点：四项AI绝招加持，百度地图让出行更简单。车东西 | 诺亚马上就到新年了，大家假期怎么过？不少人肯定会去看场电影。明天，女神汤唯主演的电影《地球最后的夜晚》就要上映了。这部片子，仅仅在预售环节，票...
+ ## [\[C114周报\]华为2018年收入1085亿美元；美国最快下月发布华为中兴禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=df18I-elyCSUbWiJNz79aktnjs72z*bE2xDdvdWjOPsUCyxXl5ggqfORCctIZV-WZxOtcTX52FmjfF0y5KRb*uG-jLYHHV7hQGKygNkiBdL7usc9cw8ZR208Z0CflSk5&new=1)
+ > 周报WEEKLY本周热点有华为2018年收入1085亿美元；美国最快下月发布华为中兴禁令；运营商2019年工作目标公布• 第030期 •华为2018年收入1085亿美元12月25-29日华为董事长梁华：5G成熟度领先同行12-18个月 针对
+ ## [谷歌董事长：我可以非常直接地说，互联网将消失!一个比它更大的产业将出现](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=qTWqQYB*a1ddh7zfJznmUhzHRdk071ca5aPbHSOZtGoXVNK*CazKF4dZ9jK4eUjSX6ppuvQNDC96VMbIF2dzhfe8DD92l*sFUMRSa97DxT-xmhJ2mNfgOypuyXvQEj4x&new=1)
+ > 来源：澎湃新闻网、财经上下游、《领科》，云蛋（ID：ittstore）等，转载注明来源！当互联网概念在中国资本市场上方兴未艾之时，互联网巨头谷歌公司的执行董事长埃里克•施密特在前段时间举行的座谈会上大胆预言...
+ ## [iPhone XS Max 在口袋自燃 QQ音乐、快手等 14 款 APP 存在过度收集用户信息的问题|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=Cy8WuW17mVb0ieCl9UxXJb3agpjr4X6c6nqY7f3kOYth2LNEm*Y-dtPuunzLic15Y*UxDR2XC-IoUlQSvBVHZcuBNlZ0JzMIQ1raFlLIRTGIwJrrCF4BbpJiEvyKyeJp&new=1)
+ > 动点科技 | ID：technode精选新闻iPhone XS Max 在口袋自燃 客服: 只负责更换新机据新浪数码援引外媒的报道称，一名美国男子称其 iPhone XS Max 在自己的裤子口袋中自燃。客服只愿意为其更换新机，却无其它赔偿
+ ## [江苏电信智能宽带上市，让生活更智能、更美好](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=I*fZXwQyigq-rmjQHjZgQwl8CE6UJ*OpCBNkp7GM-ugom58vxEPStbNv*lRHLuNAlCeQAuLQ33rDjyrhiX7dfL3t*6K0E288gtxXUamp4FZJoPdqQB8UsOfIkSVurkse&new=1)
+ > 12月29日，中国电信江苏公司“电信智能宽带 尽享智慧生活”智能宽带上市发布会在南京仁恒江湾城小区举行。中国电信江苏公司副总经理陈志强、新老用户代表、厂家代表、智能终端厂商、各大渠道经销商、家电等智能...
+ ## [案例：3DXpert 金属增材制造软件，优化下一代医疗零部件](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=UDxBQJU*AAuGwLvog*Ofh6bwTqyzQuFejdTaOe5bQiwnJFk9da6nDejNWnGafmFpqlbHz5wA4Hg2HFCmBhq5scWbqRTAsdysQzP-BfjsI8zTc6Y29MY5WYZjapKEdJiD&new=1)
+ > 3D Systems的3DXpert一体化集成增材制造软件和ProXDMP200金属打印机是可帮助3D ProMetal公司更高效地生产强大的产品。3D ProMetal公司专门制造用于医疗植入物生产的外科手术设备及组件。联合创始人Boaz
+ ## [a&s 安防周看点](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=7w5UD44FWfrTLusY7f*tIrnMzEwGlVBueEn0vJGcf6BALDnaHSoCP2vFJ20WUaG68d-g2t9jOIIJt9KOge44vXPB6Hq5PQbNqVFw4Cg1-nb6rXuEVV7TCH4gBi2JQgfL&new=1)
+ > 本周看点1、欧盟正式发布人工智能道德准则草案；2、华为打造AIoT 生态方舟实验室；3、我国自研NVMe固态硬盘主控重大突破；4、英国警方启用人脸识别技术搜查罪犯；5、高新兴7500万元收购神盾信息......欧盟正式发...
+ ## [今天，华为事件再次反转，四个大国终于低头!](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=UpfuHv*Vrn4itT6iTcnwi*Bt8HP2DHC7jK7md8dOEQCDaCKkmucvPzSBmohCExWyH171ebfAnuP6k5M9Sio8mjTn67tdSpheIXQSZKzMoJf*S84UwxI1J9wbhb3pnnQp&new=1)
+ > 一一场围剿与反围剿的斗争，已经打响！从无端拘扣孟女士开始，美国就在围剿华为这场行动中图穷匕现；也正是从那一刻开始，华为的突围加速了脚步！华为用自己的行动向世界说明，世界还是之前的世界，但中国不是之...
+ ## [2019，区块链正在改变数字世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1546216206&ver=1317&signature=-MbiENetuXcmrOBK2lyXj7DTffqd4QnB88lavheVaO9BXt8KkoedNjHCu*Mqwbovu6WAAnbmwLWk64A3zIZ78R7AbLMXK28i2XVW9BV4tLVqfhBnWT2rAjjjNQ7cvkve&new=1)
+ > 21CTO导读：区块链技术正在改变人们处理数字信息的方式。在讨论数字货币的交易时，我们就会想到区块链和比特币，现在区块链技术已经向不同行业的数字信息领域渗透。区块链变革其它行业的原因缘于技术本身。通过...
  ## [学习心理学对互联网用户运营有哪些帮助？](https://www.zhihu.com/question/307039494)
  > 谢邀。因为互联网的运营（对，不仅仅是用户运营这一项工作内容）需要你对用户的心理有一定的了解，所以，学习心理学，对运营工作这件事儿是有帮助的。但是并不代表，你看了心理学的书就能把其中的知识运用在其中。先...
  ## [国外有哪些优秀的交互设计网站？](https://www.zhihu.com/question/19683367)
@@ -82,10 +82,10 @@ categories: IT NEWS
  > 屏幕那头，曾经的斗鱼最火女主播冯提莫以歌手身份在一档电音综艺里获得了晋级资格。热搜榜上她的名字与导师张艺兴并列悬挂，激发起层层讨论。屏幕这头，和冯提莫同一年进入直播行业的子越叹了口气。这才是他想要的人...
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
  > 没人邀请，强答一个。知乎首秀，还望各位多多捧场。如果你给了QQ修改联系人的权限，这个流氓会在你的通讯录中生成很多同名空联系人，越来越多越来越多，直到拖垮你的通讯录。下面我来详细说一下我与该流氓的斗争过...
+ ## [2019 年的中国互联网，谁会发力入局，谁会黯然出局？](https://www.zhihu.com/question/306136279)
+ > 2019年的中国互联网，谁会发力入局，谁会黯然出局？这个还真有点说不准。因为回顾2018年的中国互联网来看，就已经够惊心动魄、颠覆常理了。在这里好像能做的也就是先盘点一下，2018年有哪些创始人黯然出局，&quot;被迫”离...
  ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
  > 不是反对创业，而是反对盲目的创业，反对不合时代潮流的创业。当然，大多创业公司肯定是不会承认自己盲目 or 不合时代地在创业，直到倒闭的时候才幡然大悟。何为不盲目？最简单的例子，当有农夫头一回通过养殖螃蟹发...
- ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
- > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
 # IT 技术 
  ## [舍弃Python，为何知乎选用Go重构推荐系统？](http://developer.51cto.com/art/201812/589529.htm)
  > 舍弃Python，为何知乎选用Go重构推荐系统？
@@ -105,95 +105,53 @@ categories: IT NEWS
  > 面向人工智能和机器学习模型的五大开源框架
  ## [家属感言：选择程序员，就是选择一种生活](https://blog.csdn.net/CSDNedu/article/details/85318508)
  > 家属感言：选择程序员，就是选择一种生活
- ## [一家公司要了你后，凭什么给你开高工资？](https://blog.csdn.net/zhuguanghalo/article/details/85342945)
- > 一家公司要了你后，凭什么给你开高工资？
- ## [2018，一个前端小白的实习生涯。](https://blog.csdn.net/qq_36828433/article/details/85342240)
- > 2018，一个前端小白的实习生涯。
- ## [李宏毅深度学习笔记（全连接、CNN、RNN）一](https://blog.csdn.net/u014163559/article/details/85408696)
- > 李宏毅深度学习笔记（全连接、CNN、RNN）一
- ## [推荐5个机器学习Python 库，国内外评价超高](https://blog.csdn.net/qq_40925239/article/details/85408630)
- > 推荐5个机器学习Python 库，国内外评价超高
- ## [程序员在电梯内没跟总监打招呼，被领导批评并要求写检讨书](https://blog.csdn.net/weixin_43338842/article/details/85408924)
- > 程序员在电梯内没跟总监打招呼，被领导批评并要求写检讨书
- ## [国企程序员每天七小时年入40万，却愿意降薪进阿里钻研技术](https://blog.csdn.net/weixin_43338842/article/details/85408955)
- > 国企程序员每天七小时年入40万，却愿意降薪进阿里钻研技术
- ## [stata进行空间计量分析](https://blog.csdn.net/weixin_43196531/article/details/85407931)
- > stata进行空间计量分析
- ## [利用opencv3.4.1进行随机森林的分类](https://blog.csdn.net/meilikafei/article/details/85407578)
- > 利用opencv3.4.1进行随机森林的分类
- ## [一家公司要了你后，凭什么给你开高工资？](https://blog.csdn.net/zhuguanghalo/article/details/85342650)
- > 一家公司要了你后，凭什么给你开高工资？
- ## [程序员被吐槽加个班就喊苦喊累，不愿意996，真不要脸](https://blog.csdn.net/weixin_43030648/article/details/85407108)
- > 程序员被吐槽加个班就喊苦喊累，不愿意996，真不要脸
- ## [TensorFlow实战Chp4--基于MNIST实现简单的卷积神经网络](https://blog.csdn.net/mr_muli/article/details/85406571)
- > TensorFlow实战Chp4--基于MNIST实现简单的卷积神经网络
- ## [GAN学习总结二-理论推导](https://blog.csdn.net/happyday_d/article/details/85406361)
- > GAN学习总结二-理论推导
- ## [华为程序员：来了三年多不被认可，决定离职，年轻就要勇往直前！](https://blog.csdn.net/weixin_43245088/article/details/85344585)
- > 华为程序员：来了三年多不被认可，决定离职，年轻就要勇往直前！
- ## [图形学笔记（二）——线画图元](https://blog.csdn.net/lengjiayi/article/details/85344393)
- > 图形学笔记（二）——线画图元
+ ## [想做自媒体？利用Python写的机器人吸粉是真的快！百万粉丝不是梦](https://blog.csdn.net/qq_42156420/article/details/85157941)
+ > 想做自媒体？利用Python写的机器人吸粉是真的快！百万粉丝不是梦
+ ## [CSS 实现隐藏滚动条同时又可以滚动--也可以做自定义的滚动条（3）-- 实现（普通版）](https://blog.csdn.net/zhangshab/article/details/85157932)
+ > CSS 实现隐藏滚动条同时又可以滚动--也可以做自定义的滚动条（3）-- 实现（普通版）
+ ## [手机必备四款提高工作效率APP，每一个都是黑科技！](https://blog.csdn.net/office666/article/details/85157924)
+ > 手机必备四款提高工作效率APP，每一个都是黑科技！
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [12 月 Web 服务器调查：“王者” nginx 增长最快！](https://blog.csdn.net/csdnnews/article/details/85347037)
  > NetCraft 公布了最新的2018年12月 Web 服务器调查报告。毫无意外，就全部网站的市场占有率来看，排名前三的依然是 Microsoft、ngnix 和 Apache。在2018年12月的调查中，NetCraft 收到了来自 1,656,556,205 个站点，227,839,033...
- ## [力压今日头条成 App Store 榜第一，个税 App 惊爆 62 例木马病毒！](https://blog.csdn.net/csdnnews/article/details/85347012)
- > 嗅着钱串子的味道，「造马者」们赶着新旧年之交又骚动起来了……近日，国务院正式发布《个人所得税专项附加扣除暂行办法》，自 2019 年 1 月 1 日起，个人所得税增加 6 项专项附加扣除费用。与此同时，“个人所得税”APP 也已悄然上线，12 月 31 日就可在该 APP 上进行相关信...
  ## [程序员的成长焦虑](https://blog.csdn.net/csdnnews/article/details/85346947)
  > 作者 | 黄峰达 技术在进步，人也得成长。打开社交媒体，无处都不在贩卖焦虑：震惊！90 后的程序员，至今都没有一个活过 30 岁？	为什么 35 岁的 85 后程序员，都找不到工作了？	……那些写稿的人，有一天突然自己焦虑了——是不是这真的就是一种趋势？年底了，也得按照惯例 ...
  ## [为什么 ofo 彻底凉了？| 畅言](https://blog.csdn.net/csdnnews/article/details/85346886)
  > 从独角兽到千万用户追着退押金，为什么说ofo彻底败了？作者 | 小谦责编 | 郭芮与此前共享单车的狂欢相比，今年的共享单车似乎都不好过，尤其是近日陷入了押金风波的ofo。从迅速崛起到走向衰落，ofo在这三年半的时间里可谓是度过了共享单车的春夏秋冬四季。如今据报道显示，已经有超...
 # 人工智能 
- ## [【本人秃顶程序员】只会增删改查，当你有一定的开发经验时，应该如何提升自己？](https://blog.csdn.net/weixin_44175121/article/details/85102639)
- > 【本人秃顶程序员】只会增删改查，当你有一定的开发经验时，应该如何提升自己？
- ## [CSRF安全测试流程](https://blog.csdn.net/Breeze_CAT/article/details/84955701)
- > CSRF安全测试流程
+ ## [100个小学生猜字谜大全及答案](https://blog.csdn.net/linbaoguo1314520/article/details/78715483)
+ > 100个小学生猜字谜大全及答案
+ ## [移动开发之设计模式-适配器模式(IOS&Android)](https://blog.csdn.net/AdrianAndroid/article/details/84850839)
+ > 移动开发之设计模式-适配器模式(IOS&amp;Android)
+ ## [人工智能与医疗如何结合](https://blog.csdn.net/weixin_43651758/article/details/84789955)
+ > 人工智能与医疗如何结合
  ## [读书笔记之人工智能](https://blog.csdn.net/huawangxin/article/details/84845776)
  > 读书笔记之人工智能
- ## [人工智能的图像识别过程阐述](https://blog.csdn.net/Peter_Changyb/article/details/84746850)
- > 人工智能的图像识别过程阐述
+ ## [用c语言实现求数值的最大值。](https://blog.csdn.net/qq_43857558/article/details/84675875)
+ > 用c语言实现求数值的最大值。
+ ## [Java游戏开发——开心农场](https://blog.csdn.net/A1344714150/article/details/84993946)
+ > Java游戏开发——开心农场
+ ## [数据库学习--DDL（数据库定义语言）](https://blog.csdn.net/qq_43320162/article/details/84768933)
+ > 数据库学习--DDL（数据库定义语言）
+ ## [颈椎病怎么能治好，看我用Python对接](https://blog.csdn.net/john_dung/article/details/84838451)
+ > 颈椎病怎么能治好，看我用Python对接
+ ## [Json解析-和风天气](https://blog.csdn.net/qq_41816123/article/details/84873672)
+ > Json解析-和风天气
+ ## [MyBatis的基本概念与程序实例](https://blog.csdn.net/TomLoveJerry1/article/details/84863067)
+ > MyBatis的基本概念与程序实例
+ ## [日志框架NLog简单配置使用](https://blog.csdn.net/Maybe_ch/article/details/82993833)
+ > 日志框架NLog简单配置使用
+ ## [一、微服务架构概述](https://blog.csdn.net/sky_helloword/article/details/85064810)
+ > 一、微服务架构概述
  ## [什么是人工智能、大数据、云计算、物联网？](https://blog.csdn.net/juan188/article/details/84932405)
  > 什么是人工智能、大数据、云计算、物联网？
- ## [《大型网站技术架构》——第三章 大型网站核心架构要素](https://blog.csdn.net/wsjtwmy/article/details/84729204)
- > 《大型网站技术架构》——第三章 大型网站核心架构要素
- ## [【中间件安全】Apache 安全加固规范](https://blog.csdn.net/qq_23936389/article/details/85013919)
- > 【中间件安全】Apache 安全加固规范
- ## [MySQL | 05 如何设计高性能的索引？](https://blog.csdn.net/bruce_6/article/details/84997708)
- > MySQL | 05 如何设计高性能的索引？
- ## [oracle给表和字段添加注释](https://blog.csdn.net/qq_38871503/article/details/85318695)
- > oracle给表和字段添加注释
- ## [教你用pytbon批量采集亚马逊商品数据](https://blog.csdn.net/weixin_43777427/article/details/85004706)
- > 教你用pytbon批量采集亚马逊商品数据
- ## [简单的二层安全](https://blog.csdn.net/qq_42395917/article/details/84865832)
- > 简单的二层安全
- ## [前端学习（三）javascript（*）](https://blog.csdn.net/stanwuc/article/details/84976224)
- > 前端学习（三）javascript（*）
- ## [EOS区块链的通信模型](https://blog.csdn.net/mongo_node/article/details/84744699)
- > EOS区块链的通信模型
- ## [FFmpeg音视频核心技术精讲与实战分享](https://blog.csdn.net/weixin_43747141/article/details/84719716)
- > FFmpeg音视频核心技术精讲与实战分享
- ## [程序员，知道你为什么面试90%不通过的原因吗？](https://blog.csdn.net/weixin_42743471/article/details/85101878)
- > 程序员，知道你为什么面试90%不通过的原因吗？
+ ## [SDL农场游戏开发 1.环境搭建](https://blog.csdn.net/bull521/article/details/84638511)
+ > SDL农场游戏开发 1.环境搭建
+ ## [微信小程序之二次封装request网络请求](https://blog.csdn.net/m0_37938910/article/details/81125430)
+ > 微信小程序之二次封装request网络请求
 # PM 
- ## [微信7.0大改版，那些你不曾注意的小细节](http://www.pmtoo.com/article/62454.html)
- > 这一次微信发布了最新的7.0版本后，有哪些你还没发现的改版后的小细节呢？12月21号晚间，微信发布了最新的7.0版本，上一...
- ## [不谋而合的“云计划”，但时代的主题已不再是BAT的“三国杀”](http://www.pmtoo.com/article/62450.html)
- > 无论是互联网系还是IT系，都有自己的优势也都有很大的不足，这也是为什么而截至到目前为止，没有一家公有云厂商能够通吃的...
- ## [马拉松的2018：品牌营销的新战场](http://www.pmtoo.com/article/62440.html)
- > 马拉松作为线下流量入口，是品牌方进行产品展示和露出的天然营销场景。随着赛事的火热，五花八门的品牌开始络绎不绝“围攻”...
- ## [短视频“闪电战”：难克社交的“斯大林格勒”](http://www.pmtoo.com/article/62434.html)
- > 社交类产品终究还是有自己的“斯大林格勒”，社交链路、社交关系就是微博、微信最好的护城河。图片来源@视觉中国...
- ## [关于“流言蜚语”：或许并不都是坏事](http://www.pmtoo.com/article/62431.html)
- > 据英国广播公司（BBC）网站报道，尤利西斯·卡巴班（Ulysis Cababan）感到很好奇。他在菲律宾宿雾市的一位邻居警告他说，...
- ## [谁逼腾讯自我革命？](http://www.pmtoo.com/article/62426.html)
- > 走过初创期，步入成熟期，是四平八稳原地躺卧着，还是保持战斗姿势？20岁的腾讯选择后者，在这次架构调整中，上自马化腾，...
- ## [如何看待和评价杨超越现象？](http://www.pmtoo.com/article/62422.html)
- > 自从崭露头角开始，杨超越就长期处于人们的讨论中心。支持的说她是拥有“有趣而正面积极的灵魂”。反对她的说她会是“负面存...
- ## [老年人、色弱者和爱操心的妈妈：视频平台技术升级的新战场](http://www.pmtoo.com/article/62416.html)
- > 视频平台的技术升级，一般而言都是：节省自己时间的——大数据选角、AI剪辑、AI后期；拖住用户时间的——一系列智能推荐算法。而...
- ## [甲方必读：乙方使用手册](http://www.pmtoo.com/article/62413.html)
- > 切记：甲方在不清楚自己要干什么的时候，不要把交易转化KPI交给乙方，这样才能使乙方精准地为你提供服务。一、看清自...
- ## [我为什么不喜欢用微信](http://www.pmtoo.com/article/62404.html)
- > 微信改版，成为最近大热的热点；我也迫不及待地体验了一下，但是我个人并不看好这次微信更新，下面给出我的分析理由。微...
+ ## [产业互联网产品设计五要素](http://www.woshipm.com/pd/1081212.html)
+ > 产业互联网产品设计的要素，可以归结为这五个，分别是战略承载力、生态扩展性、金融融合度、业务体验、产品体验。前言这篇文章是产业互联网产品系列的最后一篇，前面...
 
     
