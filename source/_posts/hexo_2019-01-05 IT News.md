@@ -1,91 +1,91 @@
 ---
 title: 2019-01-05 IT News
 copyright: true
-date: 2019-01-05 10:02:58
+date: 2019-01-05 12:01:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2018年全球十大APT攻击事件盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=3w4hneoFwIncgHEwN79MtvKJY-mQ3DuzFEIPLs1-P9nTrC5YK0jW8F6udUI4PompsUc1QBJfP*P8jVXXrPuegxlK7BPBXb1PdMyeCzyoAB2-L8csMuqrybncBcsc-joe&new=1)
- > 前言APT攻击（Advanced Persistent Threat，高级持续性威胁）是利用先进的攻击手段对特定目标进行长期持续性网络攻击的攻击形式。360威胁情报中心结合2018年全年国内外各个安全研究机构、安全厂商披露的重大APT...
- ## [第一台3D打印的摩托车诞生，科技重塑我们对车辆的幻想!](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=xT0*R4pO9lvotkb4FalfjKJnYfinUvVNRoA8Yq*YwhGw1sapuoMaScL1mRIaVLlQfZ7u*kyYDG6XI*z6ZqdXFCuHQZAfdlhA4dLbpW*QbntYmNviU9nUCMxng4dpkA3z&new=1)
- > 几年前，3D打印对大众来说还是比较新鲜的技术，而如今，普通人花费几百上千元就可以购置一套简易的家用3D打印机来制作设计好的模型。这一行业的飞速发展也伴随着激烈的竞争，我们也时不时会看到各个公司通过3D打...
- ## [NEWS|“与数同行 赋能行业 发现新大陆”—新大陆软件公司举办大数据应用研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=*CPtihPkjKgIl3az51jFmiJgLCr89RxhfoIzJLq8m*Mmf9KMs-ItwykGA8xAetD7Zw1eAj0oQRKWW99qdZGCQCicV0cRn93VSxw9v5bNNkQiz8yRlDhwK8G62Xpi5bvr&new=1)
- > 本刊讯：以“与数同行，发现新大陆”为主题的新大陆软件公司大数据应用研讨会1月3日在新大陆科技园举行。活动旨在贯彻新大陆科技集团数字化发展战略，协同兄弟公司资源与优势，共同探讨大数据应用市场。吸引了含...
- ## [苹果一夜暴跌，华为却早已拿下26国5g订单!国产崛起的样子真让他们害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=I8x4BqAlll60kEc4FKw4FUlyX11IyuSmowdc4RzH-8A7HrEkqcYeWcwoegt0l8v0Y3WzyDJunb0bxBAqJFe4N4ZXNq**xckyz87m9OtoHAZPk3Qtj*dBZDyRwf1JoFhF&new=1)
- > 这两天最受关注的新闻之一就是苹果在2019年的第一个交易日股价便暴跌10%一夜之间，市值蒸发了746.45亿美元相当于1.5个特斯拉象君真是着实替苹果捏了把汗不知昔日独领风骚的苹果将来会如何象君不禁想起了财经作家...
- ## [2018年物联网技术回顾：十项最重要技术之发展](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=-MbiENetuXcmrOBK2lyXj7DTffqd4QnB88lavheVaO9S7olri8TuQfvVsv4oxfKmekuUlW8PhkvaCroqFgKBlnFIcSznaFk3wuRrXsOgUFg93kKf2z55Z29gM-oILSuJ&new=1)
- > 21CTO导读：各位，本篇文章我们来看看2018年在物联网领域有哪些好东西，这也许这是2019年有意思的好开端，值得开发者与技术创业者密切关注。2108年物联网之现状180亿设备已经彼此互联，整体增长异常强劲。Iot An...
- ## [科技年轮|逐渐淡出视野?你还在用邮箱吗](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=zvIRTYxadsH8satq0t-FBI0er68RBxR-y-4s6ho7B4eFfHD73ZkLwkO22d0nt4GDOpGPikZ3O3TSL*7FOwG-uWhVhs8JqF3F0tltdRZNca3HpDB3zPghurFBEAJ*2*-M&new=1)
- > 众所周知，人们自古就有书信往来的传统，邮件是那个通信不便的时代里，和远地朋友沟通最好的方式。早在公元前约1991～前1786年，“邮政”这个概念就已经诞生，从古代邮驿到近代邮政，足足经历了数千年之久。在早...
- ## [任正非签发华为“一号文件”：网络安全和隐私保护是最高纲领](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=I0APfVQKpD8MOx1gk5t78WZGESHrYki8JCb9mtjqIZu38uz4SulP1Tg0kxfZo9irhiCbxTvAUkAiBtIUimdrpWyBaABeVABdZ2nXUFM8tmZNRgxJKT6CmFk*we-w5Wjk&new=1)
- > 【摘要】“公司已经明确，把网络安全和隐私保护作为公司的最高纲领。”| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：李明本文来源：C114中国通信网（C114-weixin）杂谈投稿邮箱：631255063@qq.com华为
- ## [这个原中国电信副总退休后又有了新职务 而且在两个央企任职](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=GmTZe-0xrJeQ4KhksoXzRIb09yNxzgbgGucI87Zu4b06mXyvEwVyHj5MHKyPsdyHZUf2R2ozXMbJCOVN9LN3T2meoawS5fea4bt6wvdMPg6NLcU0xeVnR0kfpmkUAvEr&new=1)
- > 运营商世界网  关砾/文运营商世界网获悉，近期原中国电信副总李平被聘任为中国航天科技集团有限公司外部董事。与此同时，他也是中国国新控股有限责任公司的外部董事。退休之后还能在两大央企任职，不得不让人对...
- ## [开年重磅：1月16日通信圈趋势ICT年会大幕拉开](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=oVP8MOumvNytMqs-M4aLtvLg08OFlMLB9wqmACari73Y7SuvfweBvqBRzyGSV9rDLGkg-Shh-csHH9H4ryZ*uGBSYAGqWSY6MKHatXe0z2OADGGeitUe8EI1KkuN1Nqb&new=1)
- > 众咖云集 碰撞智慧总结过去 预见未来ICT趋势年会为您拨云见日 如果说2018是5G的前奏曲，是IoT和千兆宽带的开篇，那么2019年，毫无疑问将是5G开启试商用的关键时间，更是万物互联和千兆接入加快各行各业数字化转...
- ## [骇人的无人机!国外这段视频背后，揭露了未来真正的威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=yTfJSkE5ZNxY*QoVnfzLfLjtC3NXqoLn92RHO1VTEBggcwvR8D9JJEyrvQGNAFAwCnE35nhN3z*A8tLi8Hm8nRcCHmwetZdM4WQwMJc5QV3IOLvu8jyuaETBw3-fEW2x&new=1)
- > 现在天上飞的除了鸟儿、雾霾、飞机，无人机越来越多了。于是物流公司就开辟了无人机物流与之而来的就有了无人机被打劫咱们也曾经分享过无人机被捕杀的工具工具再先进也没有人聪明然而无人机这次也玩了一次反转打...
- ## [盘点通信人家园2018：百万坛友的十大选择](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=df18I-elyCSUbWiJNz79aktnjs72z*bE2xDdvdWjOPt6J9e9pxcqwBbgcOetrU7BI4MFyiM2oXKY9ZYs2IUnZU7YVAbd83UjscCRuy1PTgSvBJGiDQKisDPaUleGGmy5&new=1)
- > 窗外微风不燥，阳光正好，辛苦一整年的通信人终于能放下工作的重担，趁着元旦佳节小憩片刻。可即便以最放松的姿势半躺半坐，身为时代洪流中的一滴水，感受着变革浪潮的汹涌澎湃，又有谁能真正静得下心呢？2019年...
- ## [2019年，我依然在电信工作!请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=o6rY8KDLrPFBWtevZgndq6dssbRaayTBr1-fRqsdkkHFfnOLBPUG4PPbUDa-VEbflbyPqkFNmoicCDHgZq1EKboaSPdQga*Mltd2puNB2JMrGCKPgOhBYsvoSUIW0f35&new=1)
- > 感谢2018年老用户的信任和托付。感谢2019年新客户的青睐和支持。满怀期待，每一位电信客户都值得尊重！2019年，我依然在中国电信工作！请放心找我！从事通信行业多年，只为更多朋友体验中国电信的高品质网络服务...
- ## [谷歌为避税，转移227亿美元至百慕大丨苹果在德国将面临禁售\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=we7feXvrzyHrU2MO6X1A3KcS4TIWYoihYwrzSYqvTcH5iMBxlBQGECsvqHD*9RvZuEnQ1Yc4-89e7FSzCoT6aXaEz3UnoPVQSU0NyY-NfyCh2BkpCXyMlz9SN*pol2in&new=1)
- > 1月4日 周五【Do说】编辑 | 李尧谷歌将227亿美元转移至避税天堂百慕大根据谷歌提交给荷兰商会的文件，该公司通过一家荷兰壳公司将199亿欧元(227亿美元)转移到百慕大，这也是其为减少税负而采取的措施之一。文件...
- ## [4G公网&模拟双模 融麒RP2868对讲荣耀面市!](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=-JaZy2hOhBF2PQaxDr6TYqNOy75N1YVbezKWrxjGf7idvZAcScuWmMzdNaG0F5mbHUR7mjyLepqY1PHe00lE1M352*8mj5W74-qYUlGGsxSTFWorQW0TVdUAJ7Uw6v8J&new=1)
+ ## [4G公网&模拟双模 融麒RP2868对讲荣耀面市!](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=-JaZy2hOhBF2PQaxDr6TYqNOy75N1YVbezKWrxjGf7idvZAcScuWmMzdNaG0F5mbmqN49*Se-M0ZiPVdAsBrWKrFJZeHPCVcdulruaEVj4p8SAnxr-CXWONAnjcP6NxJ&new=1)
  > 多如牛毛的对讲机市场，产品丰富多彩，从模拟对讲机到数字对讲机；从天翼对讲到和对讲到沃对讲；从DPMR制式到DMR到PDT；从普通的公网对讲机到POC；新年新气象，对讲机行业又迎来一款爆款畅销机，4G公网&amp;模拟双模...
- ## [学用树莓派-与摄像头相关的项目](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=7U2S9JYQ0jb4VSIL8ZBwO5kZXsg7SjiJlQhcQRXAw*LGklWdrhjKq1aXODbCQLWskNGx3e70k*FriTWmR08nb0v4rSPpgxjRVnY2R4J5ct3XZ62EkAgxa3baQDoo*huu&new=1)
- > 今天我们通过几个案例来看看如何利用树莓派上的CSI接口连接摄像头做出一些有创意的项目来。1 交互式LED镜子它是用树莓派开发的一款可以交互的LED镜子（有很多LED点阵显示构成），通过一个小的摄像头捕捉人的动作...
- ## [运营商基层员工“民不聊生”?还被网友狂怼：你们运营商哭穷，为啥不辞职!](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=5Mm06viOlIl*fwkYga2kSHLHVq3c*zT6ytVxMRGXGUlBW67asdqHqRMXCbs-MErUkNBW5DT5ENmg718EoEdwfN0MeonrDfxjWXzkMMP*61XZ8vb6nvy6brjehbKMZS7d&new=1)
- > 看多个段子，能否看懂运营商的现状？读起来可笑，细品起来别有一番滋味……全文如下：“世界那么大，我想去看看。流量那么少，啥都晒不了。说免就免，让小心脏受不了！”这是网友针对高额流量费以及运营商的免单...
- ## [聚焦|湖南移动携手华为，打造全国首条5G连续覆盖开放道路智慧公交示范线](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=O-INLNd29RyyiTUsOUxldISLzTCux24QvVneElqaR7s*7upIvOX2tgqozGFQ5b7w0zoBcPE7xJcQhBegsX6gI1MN-XPx03jAY8IFHeS7cz3xtrt4NaH5HHkzsqMFS9PF&new=1)
- > 近日，湖南移动携手华为部署的5G网络，支撑了全国首条开放道路智慧公交线投入试运营，省市直相关部门、重点高校及新区相关部门领导、各界嘉宾出席首发仪式。现场，湖南移动与华为策划搭建了主题为“5G已至 移动...
- ## [2019年德国半导体市场增长的机遇在哪?](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=7t49IkHSs0JDicIlJYheoah3l15*mstAyEPxkuRxvD7Xr4zxhgpapfePHD4Kex0Q8YxbFoq5JnWGpvidIDdOGCiSVB50nPdutQ4W0Cz0pwFlmWxMLHOYyShAjrT1mmkH&new=1)
- > 提到德国，我们就能想到它发达的汽车和工业体系，德国是“工业4.0”的主要发起者。得益于强大的工业应用，德国的半导体产业同样很厉害，据相关数据统计，2018年德国半导体市场增长迅猛，增长率为8%，达160亿美元...
- ## [360百万年薪保安上岗，五大超人彰显安全黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=TH9wQH4U4pAimly9qj0nyRfT-HlnNK9mVmH06qU9L-FxA54aXcMv2AJ2RfbZ7PO3HygpA4JAjMllP6-tl2bJelOEs0fOIlkXNcdDc3M5oWYikRlmz3qMARorI92QQDpU&new=1)
+ ## [12月VR/AR行业融资报：全球完成10笔，总金额超27亿人民币](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=t1x9eVhkDjYFHv9IJU-8S0EKJmsbIDtC-lnE*LRdjhYfyEK5ytefw0uQhkaPQV*loTyV2sWMdIg4V1dwB7pf92LJPInICKYcQ8ZTpbS-v*xwX2EKb0*hMPedzPMHDcuK&new=1)
+ > 此前，小编在文章《2018年VR/AR十大关键词（八）：TO VC-TO B/TO G》中整体介绍过2018年的投融资情况：自3月投融资情况有所复苏后，2018年VR/AR行业后期的投融资，一直呈较为稳定的增长趋势，仍然由中大厂瓜分大...
+ ## [李彦宏再立 Flag：人工智能将让人类不再需要手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=erwFW2T0muJX-ZaM0-qdckL4ILVk8Cp0IIGgzccNabLaj7lZpi9wMEIirnOJPsAhwghOMCEjK4FU*CWe4gdm0FQVikQSXgRl6uGS*uemioWgC3uNmN3PFXV2sSMz0qaZ&new=1)
+ > 2019年的第一天，李彦宏以人工智能领域嘉宾的身份做客央视元旦特别节目《放歌新时代》，与主持人康辉一起展开了一场关于人工智能的对话：对话中李彦宏提到，2019年是人工智能全面进入家庭的一年，它也会帮助更多...
+ ## [麦卡锡问答：什么是人工智能?](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=SDaBmR1LMpv4nP*cgtk9SdXspQxJnLCk*fCeCKu6LFgoWqccWgNM5cb4wjNwJz1J9Yu82KJFGhG0fVZL5a7E2StZclC*Vef7MQ3aKxUfNGu01QoqEZcU82K1euoQQe1w&new=1)
+ > 来源：科学网一、基本问题问：什么是人工智能？答：人工智能是研制智能机器尤其是智能计算机程序的科学与工程。它与使用计算机理解人类智能类似，但人工智能并不将它自己局限于生物意义上的方法。问：是的，那么...
+ ## [骇人的无人机!国外这段视频背后，揭露了未来真正的威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=yTfJSkE5ZNxY*QoVnfzLfLjtC3NXqoLn92RHO1VTEBggcwvR8D9JJEyrvQGNAFAwkaVRM*Qy37kuOrKraS7SVLEqIe4XyVG5VhqIOhh5CVFdIGvmzvRNe6l95IM6H8zN&new=1)
+ > 现在天上飞的除了鸟儿、雾霾、飞机，无人机越来越多了。于是物流公司就开辟了无人机物流与之而来的就有了无人机被打劫咱们也曾经分享过无人机被捕杀的工具工具再先进也没有人聪明然而无人机这次也玩了一次反转打...
+ ## [\[今日头条\]未来世界如何供电：无线传输或成主流](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=wQis*5B8Le6Ye0Ti6Gxi-n6qTCmSBFbXI26z7esDIlkwrAD9jrB*sRJKHKW2bU6ns3fAPYTqcZ330pf1W18BNflHwtEbJbmr*bm5bizP3QB1NIAIYFUhit1YFA1Kwt5b&new=1)
+ > 摆脱电线并不仅仅意味着不再需要电缆供应商。由于无线高功率传输技术的发展，曾经受限于电源插座的机器人和工业机器开始真正体验到自由。　　在一个更广阔的市场开始出现一些迹象预示着未来将不受电缆限制，这些...
+ ## [\[限时领取\]永久免费的人力资源管理软件，无任何限制，绿色环保，无任何广告插件，免安装](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=tHnNggCLOQ6yPXcrRH6Ss6W3*zmI8pwVgnRzIV8TmEPkOFgxKtHiHvHPbZDxGboYFsO7kWXZWISoZOlm5l*Y-*C39RgZGqy6lSKpSCPC8kqGUKfxVahNqVvkpZ95XY8c&new=1)
+ > 单机使用永久免费，无任何限制，绿色环保，无任何广告插件，免安装，无其他依赖性，解开直接执行。适用于没有自己OA系统100人左右的中小企业。人力资源管理软件功能介绍本人力资源软件包含人事档案管理本人力资...
+ ## [360百万年薪保安上岗，五大超人彰显安全黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=TH9wQH4U4pAimly9qj0nyRfT-HlnNK9mVmH06qU9L-FxA54aXcMv2AJ2RfbZ7PO39BdTVNhsKqOuVR37W*wAjXgzqYw*Zrfv2sGd4ZrfbqCiW0jorgj8VzOqMguEXjHl&new=1)
  > 最近经济有点冷，很多企业开始精简人员，360却反其道行之，在2018年底放出了百万年薪招聘保安的消息，看招聘启事对保安的要求还是非常高的，围观群众也一直担心最后能不能招到合适的保安。1月3日，360招聘的保安...
- ## [中国金融信息网发布2018智能家居行业十大“开挂”单品](http://mp.weixin.qq.com/s?src=11&timestamp=1546651807&ver=1317&signature=JO1lqiXyBh5zM5rALd7oG20X8qFsdNtz4jFUd9NctP83NpKnnpNNzLXczgi-dt1HOFzSBzKG79iNWo9AUbUhUZQlELIWVi5f*2g*6Vx4*-GW9RhnMtZy-TV9ERWe6uqE&new=1)
+ ## [5G商用爆发就在眼前!一文看懂万亿市场五大机会](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=v6ajJC6lbsBbM37aEpym9ezQ5k5WjIVU1pFY10nERihlgpAkqtRCG-pbU1nU-x6-SltZ2rJaehUzsR-8Ssv*tjkNV8q7xo3BINHxYdMdX6bhpoS*umliEJhZzN6YCq65&new=1)
+ > 刚发完工资，不知不觉又花光如果在人世间千千万万的困扰中非要选出一个最困扰大家的问题“穷”应该会冲出重围高票夺冠吧不行，从明天开始我！要！存！钱！可是空有满腔热血商机……在哪儿呢？眼下最藏商机的当然...
+ ## [中国金融信息网发布2018智能家居行业十大“开挂”单品](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=JO1lqiXyBh5zM5rALd7oG20X8qFsdNtz4jFUd9NctP83NpKnnpNNzLXczgi-dt1HccWq0XvpWRMgevITrJymf9SKOc3wNSh-ci9RWMtzWaLhjWZYsx2*2JJ4GM603wjS&new=1)
  > 首发：1月4日中国金融信息网作者：中国金融信息网记者邹晨洁2018年，没有人能忘记人工智能的搅局，AI已经快速涉入智能家居各大子系统的方方面面，智能家居的“生态圈”正在构成。相比区块链等无法触摸到的技术，...
- ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
- > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
- ## [短期的培训班能培养出一位合格的产品经理吗？产品经理是否需要技术？](https://www.zhihu.com/question/65396706)
- > 产品经理必须要懂技术，起码要能看懂SOL语句吧，不然技术和你沟通的时候，往往需要把一些话特地翻译给你听，题主可以考虑商业产品经理的方向。通过短期的培训顶多只是帮你转行入门而已。自15年开始产品经理培训机...
- ## [创业寒冬如何安全过冬？](https://www.zhihu.com/question/36458906)
- > 面对寒冬：“初创企业必须把现金流当做心脏，没现金就没命。”最坏的时期，也是最好的时期。“资本寒冬”大概是过去几个月，创投圈被频繁提及的词汇。有投资人曾经表示，2019年，那些烧钱太厉害、找不到好的商业模式...
- ## [如何看待翟欣欣 5.21 日发长文透露苏享茂患乙肝病史，并称其对自己施暴？](https://www.zhihu.com/question/278156775)
- > 翟欣欣就是一个拆白党，通过不断的和人傻钱多的男人结婚来获得对方的巨额财产，再迅速离婚变现。翟欣欣至少结过五次婚，她都从中获益不菲。翟欣欣没有正式工作，她去做模特之类的兼职也是为了寻找猎物，而不是根本不...
- ## [如何理解马化腾说「黑公关近两个月突然爆发，是时候挖根源了」？](https://www.zhihu.com/question/281753006)
- > 让咱们先来了解一下马化腾所说的“黑公关”：“黑公关”实际上是网络营销公关公司的一种，这种公司，本着“拿人钱财替人消灾”的理念，在网站和当事企业、个人之间充当着“掮客”角色。而隐藏在其后的，则是一条由推...
- ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
- > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
+ ## [2019年德国半导体市场增长的机遇在哪?](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=7t49IkHSs0JDicIlJYheoah3l15*mstAyEPxkuRxvD7Xr4zxhgpapfePHD4Kex0QSQBVY5DzoubPlQyFZPcRAC-CkRZSbPunr5OZ2ly3YKfvbe4JXvrqOOTrIgO8rZgN&new=1)
+ > 提到德国，我们就能想到它发达的汽车和工业体系，德国是“工业4.0”的主要发起者。得益于强大的工业应用，德国的半导体产业同样很厉害，据相关数据统计，2018年德国半导体市场增长迅猛，增长率为8%，达160亿美元...
+ ## [2018年全球十大APT攻击事件盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=3w4hneoFwIncgHEwN79MtvKJY-mQ3DuzFEIPLs1-P9nTrC5YK0jW8F6udUI4PompgTxU0vKMeH9IM*ddO17UAt7URF4rMyrHh*56tdci0q6E0iMb*u6TFDF0E1MgpU1x&new=1)
+ > 前言APT攻击（Advanced Persistent Threat，高级持续性威胁）是利用先进的攻击手段对特定目标进行长期持续性网络攻击的攻击形式。360威胁情报中心结合2018年全年国内外各个安全研究机构、安全厂商披露的重大APT...
+ ## [苹果一夜暴跌，华为却早已拿下26国5g订单!国产崛起的样子真让他们害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=I8x4BqAlll60kEc4FKw4FUlyX11IyuSmowdc4RzH-8A7HrEkqcYeWcwoegt0l8v0lzqFDbozfCRf3*P7NHY8cJSUhMx7KIekgumK4wlfo6zvL8PravFr1r8zz9KWRcL6&new=1)
+ > 这两天最受关注的新闻之一就是苹果在2019年的第一个交易日股价便暴跌10%一夜之间，市值蒸发了746.45亿美元相当于1.5个特斯拉象君真是着实替苹果捏了把汗不知昔日独领风骚的苹果将来会如何象君不禁想起了财经作家...
+ ## [聚焦|湖南移动携手华为，打造全国首条5G连续覆盖开放道路智慧公交示范线](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=O-INLNd29RyyiTUsOUxldISLzTCux24QvVneElqaR7s*7upIvOX2tgqozGFQ5b7wi2OS1iW1bm4s2eeUgoRgnnzn9PYobcdOXn59DtzR9uHiRukjxAejooXIKekAJsWs&new=1)
+ > 近日，湖南移动携手华为部署的5G网络，支撑了全国首条开放道路智慧公交线投入试运营，省市直相关部门、重点高校及新区相关部门领导、各界嘉宾出席首发仪式。现场，湖南移动与华为策划搭建了主题为“5G已至 移动...
+ ## [NEWS|“与数同行 赋能行业 发现新大陆”—新大陆软件公司举办大数据应用研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=*CPtihPkjKgIl3az51jFmiJgLCr89RxhfoIzJLq8m*Mmf9KMs-ItwykGA8xAetD7pAAu2nluEdu9yQ8KfNeI*Rop4gWjykSlaklneDU7LcqTCeY3pcETs4m8sBThYsks&new=1)
+ > 本刊讯：以“与数同行，发现新大陆”为主题的新大陆软件公司大数据应用研讨会1月3日在新大陆科技园举行。活动旨在贯彻新大陆科技集团数字化发展战略，协同兄弟公司资源与优势，共同探讨大数据应用市场。吸引了含...
+ ## [快速等离子沉积(RPD)金属3D打印机，生产力比SLM快50-100倍](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=UDxBQJU*AAuGwLvog*Ofh6bwTqyzQuFejdTaOe5bQiyfBR1MqDKVONzBWGZ5VcDFDBIeoluiNBmXeTda0r0FHP2EtvXvaUwTCAhLLP27IBYRbmS5gDT2W5M3*mvEIA7D&new=1)
+ > 2019年1月4日，南极熊从外媒获悉，美国航空结构制造商Spirit AeroSystems已确认收到其首个3D打印结构组件。这是该公司与挪威钛（美国快速等离子沉积（RPD）开发商Norsk Titanium）建立合作伙伴关系的第一个产品...
+ ## [科技年轮|逐渐淡出视野?你还在用邮箱吗](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=zvIRTYxadsH8satq0t-FBI0er68RBxR-y-4s6ho7B4eFfHD73ZkLwkO22d0nt4GDC51OToICs1Ct7c2txRJUKHjj-BAgKHRYovTL8CnHRSX3qvAQRvl8nkvFzY2LTAhL&new=1)
+ > 众所周知，人们自古就有书信往来的传统，邮件是那个通信不便的时代里，和远地朋友沟通最好的方式。早在公元前约1991～前1786年，“邮政”这个概念就已经诞生，从古代邮驿到近代邮政，足足经历了数千年之久。在早...
+ ## [盘点通信人家园2018：百万坛友的十大选择](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=df18I-elyCSUbWiJNz79aktnjs72z*bE2xDdvdWjOPt6J9e9pxcqwBbgcOetrU7BEksLBikJ2xmYwAIeipTbTScJmVdy0I1i0ZEenWrD2*01v7RMgZUI*Tnyj99tNT6Y&new=1)
+ > 窗外微风不燥，阳光正好，辛苦一整年的通信人终于能放下工作的重担，趁着元旦佳节小憩片刻。可即便以最放松的姿势半躺半坐，身为时代洪流中的一滴水，感受着变革浪潮的汹涌澎湃，又有谁能真正静得下心呢？2019年...
+ ## [新数据时代，不选软件定义存储，选什么?!](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=zsLJh6BTikIbFF8peO5usYmc6XTjeUUAy8LwsN8gmURuriXBA5Bj4trHg5v5**uRrSO8NBOBcEsSSOVyl46Zc6IeO7NEDhGQaxhxmGLZOjK4LuyPDE-9YQBNx0XQWEqp&new=1)
+ > 新年伊始，各种预测展望如期而至，但真正精彩的并不多！恰如《连线》（Wired）杂志创始主编凯文·凯利说的 “即将消灭你的人，今天还没有出现在你的敌人名单上。”可见预测是一件非常困难的事情。如果是预测不过...
+ ## [这个原中国电信副总退休后又有了新职务 而且在两个央企任职](http://mp.weixin.qq.com/s?src=11&timestamp=1546659007&ver=1317&signature=GmTZe-0xrJeQ4KhksoXzRIb09yNxzgbgGucI87Zu4b06mXyvEwVyHj5MHKyPsdyHlKSGhhV3TidebNXgHSv7-NNG6YbnvyHaF7b1LEXbbGSBmyXDBDZ7vyxeBFng21v5&new=1)
+ > 运营商世界网  关砾/文运营商世界网获悉，近期原中国电信副总李平被聘任为中国航天科技集团有限公司外部董事。与此同时，他也是中国国新控股有限责任公司的外部董事。退休之后还能在两大央企任职，不得不让人对...
+ ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
+ > 并不是所有的操作系统都用扩展名来标识文件类型……同时扩展名事实上也非常混乱，htm和html表示的都是HTML文档，jpeg和jpg都是JPEG图片格式，等等……最后，浏览器所使用的URL（统一资源定位符），根本就...
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
+ ## [为什么台湾的Facebook用户远远多于Twitter用户？](https://www.zhihu.com/question/35337014)
+ > 台湾由Facebook一统天下，上到资讯传播，下到即时通讯，中间是本职的关系型社交，全吃掉了（即时通讯line分了一大部分去），这本身就是一种不正常的现象，美国市场早就分化了，大陆也分化了（微博/朋友圈/微信），社...
  ## [如何看待5G通信和物联网?](https://www.zhihu.com/question/307927808)
  > 两者相辅相成。即将到来的5G，通过提升连接速率，提升了“人联网”的感知，也促进了人类主动创造数据。另一方面，它更多是为“物联网”服务的。包括低延时、海量终端连接等，都是物联网场景的需求。5G刺激物联网的...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
- ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
- > 这个世道，出名就要博头条。富豪有儿子也一样。怎么样获得头条，就得和不同的女人或男人睡觉，或者在微博上骂人。跟王思聪一样。可是有些人不喜欢出名。毕竟出名了就没有私生活了。就像在前不久去年的陈毅元帅的儿子...
  ## [如何评价一名 17 岁南苏丹女孩在 Facebook 上被以五百头奶牛的价格公开拍卖？](https://www.zhihu.com/question/303363357)
  > 不好了，五百头奶牛，三辆车，那多值钱啊，少说百万应该有了吧。可以想象，中国女权又要开始说中国女性地位低，还远不如苏丹女性值钱，说中国女性地位不如非洲国家，然后再开始算账，如此：
- ## [如何防止多IP恶意刷短信验证码？](https://www.zhihu.com/question/35012702)
- > 这类情况的出现主要是由于无验证码识别人机导致的恶意行为，最直接有效的方法即增加验证码内容。相关阅读：验证码有什么作用？为什么有些验证码看起来很容易但是没人做自动识别的？滑动验证码的原理是什么？利益相关...
- ## [某人意外去世后，家人如何知道他做了哪些互联网投资并拿回钱？](https://www.zhihu.com/question/25817086)
- > 写一份文档，里面写好所有信息，压缩加密。然后把加密的密码告诉家人。然后找个邮箱写一封邮件，附件是这个压缩文件，然后选择定时发送。如果十天不去取消一次的话就直接发到家人邮箱。这样你死后十天你家人就会收到...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 吴军老师的浪潮之巅，强力推荐。这本书很有兴趣的看完了，目前正在看无论老师的文明之光
- ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
- > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
  ## [黄景瑜和王雨馨，你们信吗？](https://www.zhihu.com/question/59558041)
  > 大家看看这个……10月28号就有匿名的人说过……而且酒店……今天真的发的黄景瑜在酒店坐着的图，所以……我觉得那个小花是张艺上。
  ## [fgo中哪些材料获取难度大？](https://www.zhihu.com/question/59690387)
  > 总结了一下玩了一年多的对一些蛇皮材料获取的看法凤凰羽毛：free本及其难刷，基本是靠活动获得。最重要的是这东西用量还很大，而且是老材料所需要用的英灵也很多（练过孔明的同学们一定有体会），看着需要的羽毛就头...
  ## [ETH现在还会继续下跌吗？](https://www.zhihu.com/question/304482284)
  > 在这个市场，我们只谈这个故事如何配合消息来炒作。其他的诸如信仰，前景，未来之类的太遥远，不提也罢~首先从基本面的两个维度来分析这次分叉。1、从以太坊本身以太坊分叉并非第一次，实际上在2017年10月16日就已经...
- ## [为什么有人说「百度全面降低了中国的互联网体验」？](https://www.zhihu.com/question/29740126)
- > 呵呵，在百度网盘下载个东西，朋友分享过来的。普通下载速度是60kb/s，超级会员体验下载速度是10m/s，我的带宽也是10m的。平时在别的网站上下载个东西，都是几百kb起步，几个m正常的。这不是明显的主动卡流量，然后要...
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [我想当一名产品经理，应该如何入行？](https://www.zhihu.com/question/26015692)
+ > 做产品需要学的东西，真的太多太多了，学了之后，就去面试，实战就好了，优秀的产品经理，都是一步一步踩坑踩出来的。选择自学：理论知识：做产品需要补充的知识太多，整理推荐一些自己的书单，一定会对小白的思维有...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [没有网络人们的生活会怎样？](https://www.zhihu.com/question/306495057)
+ > 局长认为网络对人们的生活方式和人际交往方式产生了巨大的影响，如果我们没有网络，生活习惯和人际交往习惯都会改变。前段时间屡屡出现逃离现代社会的新闻，大家都在声讨网络带来的负面影响，网络信息嘈杂，网络交际...
+ ## [外行如何成为一名互联网产品经理？](https://www.zhihu.com/question/35156959)
+ > 知乎大神的答案，是有时效性的，我不同意楼上大神的答案，2015年的时候，他说的完全没错，现在马上2019了，产品经理不仅要求学历（起码大专），还要求资历（工作经验，助理都半年起步一般），部分企业对专业也有限制...
+ ## [现实生活中有和科学超电磁炮里初春使用的手持设备一样的东西吗？哪里有卖？](https://www.zhihu.com/question/24294741)
+ > SHARP Zaurus SL-C3000/3100/1000我的那个送人了，手边好像也没留什么照片……下图网上找的。
+ ## [为什么知乎上很多人都反对创业？](https://www.zhihu.com/question/37559307)
+ > 2015年没创业时：2016准备创业时：创业半年时：创业一年多时：接近三年时：发际线就是力量：
+ ## [你用过的最让你震惊的网站有哪些？为什么？](https://www.zhihu.com/question/20030360)
+ > 因为工作关系，测试过很多网站。有一些答主推荐的真心不错。有些很有趣但是实用性不是很强。以下推荐8款亲测，适合大学生、职场人士提高效率的实用性网站。虽说没有到震惊的程度，但是用过的都说好。1、导航湾网站链...
+ ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
+ > 浪潮之巅
 # IT 技术 
  ## [消息中间件Kafka与RabbitMQ谁更胜一筹？](http://os.51cto.com/art/201901/589744.htm)
  > 消息中间件Kafka与RabbitMQ谁更胜一筹？
@@ -109,70 +109,80 @@ categories: IT NEWS
  > VGG全称是Visual Geometry Group属于牛津大学科学工程系，其发布了一些列以VGG开头的卷积网络模型，可以应
  ## [BAT缩招，AI跻身2019年最赚钱职业榜首！（附薪酬表）](https://blog.csdn.net/CSDNedu/article/details/85758254)
  > BAT缩招，AI跻身2019年最赚钱职业榜首！（附薪酬表）
- ## [待入职的技术总监学历造假被发现还不承认，网友：脑子无用！](https://blog.csdn.net/weixin_43338842/article/details/85632590)
- > 待入职的技术总监学历造假被发现还不承认，网友：脑子无用！
- ## [码农：2个月跑了4座城市，投了几百封简历还没结果，钱都花完了！](https://blog.csdn.net/sssdhua/article/details/85562931)
- > 码农：2个月跑了4座城市，投了几百封简历还没结果，钱都花完了！
- ## [笔迹识别（一 笔迹特征）](https://blog.csdn.net/iloveyou418/article/details/85636098)
- > 笔迹识别（一 笔迹特征）
- ## [程序员不仅要会修电脑，还要给老板修U盘？](https://blog.csdn.net/mm782642353/article/details/85635079)
- > 程序员不仅要会修电脑，还要给老板修U盘？
- ## [程序员上班刷简历！领导看见表示寒心竟还想挽留：别耽误人家](https://blog.csdn.net/weixin_43338842/article/details/85632702)
- > 程序员上班刷简历！领导看见表示寒心竟还想挽留：别耽误人家
- ## [深度学习（5）——多线程输入数据处理框架](https://blog.csdn.net/qq_22764567/article/details/85633880)
- > 深度学习（5）——多线程输入数据处理框架
- ## [Python数据处理实例](https://blog.csdn.net/weixin_39667003/article/details/85632885)
- > Python数据处理实例
- ## [程序员因工资少发2k在工作群怒骂被辞退，网友：没脑子说啥都没用](https://blog.csdn.net/weixin_43338842/article/details/85632733)
- > 程序员因工资少发2k在工作群怒骂被辞退，网友：没脑子说啥都没用
- ## [程序员又被黑了！这次怕是最惨的一次！这是25岁还是52岁？](https://blog.csdn.net/qq_43202482/article/details/85633318)
- > 程序员又被黑了！这次怕是最惨的一次！这是25岁还是52岁？
- ## [机器学习路程——k近邻（KNN）算法(python实现)](https://blog.csdn.net/weixin_42201701/article/details/85634234)
- > 机器学习路程——k近邻（KNN）算法(python实现)
- ## [“小笔记系列”之《算法导论》----不以晦涩难懂的数学公式为主，文章主要记录我看这本书的感受，我每看完一章就在这篇文章的基础上修改一下，就不另起炉灶了。](https://blog.csdn.net/qq_34754836/article/details/85631950)
- > “小笔记系列”之《算法导论》----不以晦涩难懂的数学公式为主，文章主要记录我看这本书的感受，我每看完一章就在这篇文章的基础上修改一下，就不另起炉灶了。
- ## [高德某员工吐槽：入职一年天天加班，身体垮了，一周去医院三次](https://blog.csdn.net/weixin_43338842/article/details/85633089)
- > 高德某员工吐槽：入职一年天天加班，身体垮了，一周去医院三次
- ## [美团程序员吐槽：刚入职美团两个月，就想离职了，每天加班到吐](https://blog.csdn.net/weixin_43245088/article/details/85635423)
- > 美团程序员吐槽：刚入职美团两个月，就想离职了，每天加班到吐
- ## [计算机视觉当中的几个基本概念](https://blog.csdn.net/yeler082/article/details/85562797)
- > 计算机视觉当中的几个基本概念
+ ## [理解贝叶斯分类器原理及关系](https://blog.csdn.net/weixin_43742744/article/details/85492334)
+ > 理解贝叶斯分类器原理及关系
+ ## [Opencv图像处理之仿射变换](https://blog.csdn.net/qq_42167528/article/details/85559926)
+ > Opencv图像处理之仿射变换
+ ## [【手撕】神经网络反向传播](https://blog.csdn.net/qq_33414271/article/details/85490209)
+ > 【手撕】神经网络反向传播
+ ## [89c52串口通信+LCD1602显示](https://blog.csdn.net/qq_18893055/article/details/85406633)
+ > 89c52串口通信+LCD1602显示
+ ## [Esp8266 新手学习串口发送at命令](https://blog.csdn.net/qq_18893055/article/details/85343847)
+ > Esp8266 新手学习串口发送at命令
+ ## [关于Kubernetes Dashboard的实践学习](https://blog.csdn.net/zhaofen_7/article/details/85411922)
+ > 关于Kubernetes Dashboard的实践学习
+ ## [oracle常用分析函数与聚合函数的用法](https://blog.csdn.net/qq_39135609/article/details/85560285)
+ > oracle常用分析函数与聚合函数的用法
+ ## [机器学习降维之奇异值分解(SVD)](https://blog.csdn.net/XiaoYi_Eric/article/details/85559389)
+ > 机器学习降维之奇异值分解(SVD)
+ ## [JAVA基础13-JDBC（五）预编译、SQL注入、事务](https://blog.csdn.net/qq_36675851/article/details/85559907)
+ > JAVA基础13-JDBC（五）预编译、SQL注入、事务
+ ## [SSH：hiberate实现数据的查询（单查询和全查询）](https://blog.csdn.net/qq_42192693/article/details/85560166)
+ > SSH：hiberate实现数据的查询（单查询和全查询）
+ ## [Linux——文件的权限管理、acl列表、特殊权限位](https://blog.csdn.net/weixin_44233369/article/details/85562795)
+ > Linux——文件的权限管理、acl列表、特殊权限位
+ ## [Linux---基本的bash shell命令（二）](https://blog.csdn.net/smart9527_zc/article/details/85561222)
+ > Linux---基本的bash shell命令（二）
+ ## [css中的transiton动画](https://blog.csdn.net/rt5476238/article/details/85635222)
+ > css中的transiton动画
+ ## [NoSql之Redis系列四: Redis为什么这么快之服务器事件驱动](https://blog.csdn.net/wau_hua/article/details/85559856)
+ > NoSql之Redis系列四: Redis为什么这么快之服务器事件驱动
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [写给社区的回顾和展望：TiDB 2019, Level Up !](https://blog.csdn.net/csdnnews/article/details/85787079)
  > 2018 年对于 TiDB 和 PingCAP 来说是一个由少年向成年的转换的一年，如果用一个关键字来概括就是「蜕变」。在这一年很欣喜的看到 TiDB 和 TiKV 在越来越多的用户使用在了越来越广泛的场景中，作为一个刚刚 3 岁多的开源项目，没有背后强大的社区的话，是没有办法取得这样的进展的。..
 # 人工智能 
- ## [webgl第九课-绘制多个顶点](https://blog.csdn.net/weixin_39452320/article/details/81176080)
- > webgl第九课-绘制多个顶点
- ## [读书笔记之人工智能](https://blog.csdn.net/huawangxin/article/details/84845776)
- > 读书笔记之人工智能
- ## [深入理解switch case](https://blog.csdn.net/weixin_43862101/article/details/84855301)
- > 深入理解switch case
- ## [Android 热修复BugIy（从官网项目开始，初步学习并了解它）](https://blog.csdn.net/qq_41816123/article/details/85054949)
- > Android 热修复BugIy（从官网项目开始，初步学习并了解它）
- ## [仓储物联网项目](https://blog.csdn.net/feit2417/article/details/84936557)
- > 仓储物联网项目
- ## [2018FFmpeg音视频核心技术精讲与实战（已完结）](https://blog.csdn.net/weixin_43905817/article/details/85004408)
- > 2018FFmpeg音视频核心技术精讲与实战（已完结）
- ## [移动端工程架构与后端工程架构的思想摩擦之旅（1）](https://blog.csdn.net/wangyiyungw/article/details/84856684)
- > 移动端工程架构与后端工程架构的思想摩擦之旅（1）
+ ## [Python安全笔记（一）](https://blog.csdn.net/ZHOUYAO_NJUST/article/details/84953109)
+ > Python安全笔记（一）
+ ## [可视化FreeBasic集成开发环境](https://blog.csdn.net/yfvb2010/article/details/79369125)
+ > 可视化FreeBasic集成开发环境
+ ## [中国首个区块链标准《区块链参考架构》](https://blog.csdn.net/q602968956/article/details/85092796)
+ > 中国首个区块链标准《区块链参考架构》
+ ## [Android天气预报详解](https://blog.csdn.net/q376794191/article/details/84972136)
+ > Android天气预报详解
+ ## [Unity 运行时动态编辑Terrain（一）介绍](https://blog.csdn.net/xdedzl/article/details/85141762)
+ > Unity 运行时动态编辑Terrain（一）介绍
+ ## [Elasticsearch运维经验总结](https://blog.csdn.net/weixin_43947499/article/details/84942329)
+ > Elasticsearch运维经验总结
  ## [2018-12-18全球区块链今日热点](https://blog.csdn.net/withjeffrey/article/details/85082900)
  > 2018-12-18全球区块链今日热点
- ## [webgl第六课-通过鼠标点击绘点](https://blog.csdn.net/weixin_39452320/article/details/81124393)
- > webgl第六课-通过鼠标点击绘点
- ## [华为IP基础快速入门-P8-OSPF原理](https://blog.csdn.net/weixin_42082138/article/details/85546374)
- > 华为IP基础快速入门-P8-OSPF原理
- ## [【中间件安全】Tomcat 安全加固规范](https://blog.csdn.net/qq_23936389/article/details/85013922)
- > 【中间件安全】Tomcat 安全加固规范
- ## [《俗人笔记》之《Java基础语法下》](https://blog.csdn.net/qq_33368151/article/details/84934239)
- > 《俗人笔记》之《Java基础语法下》
- ## [webgl第五课-绘制一个点的另外一种写法](https://blog.csdn.net/weixin_39452320/article/details/81106608)
- > webgl第五课-绘制一个点的另外一种写法
- ## [Android Things APP版本更新解决方案](https://blog.csdn.net/cc_want/article/details/80917064)
- > Android Things APP版本更新解决方案
- ## [用声音在一起，听荔枝CTO丁宁聊UGC声音互动平台的技术世界](https://blog.csdn.net/ones_ai/article/details/84881142)
- > 用声音在一起，听荔枝CTO丁宁聊UGC声音互动平台的技术世界
+ ## [揭秘：技术人突破瓶颈期，离不开这几个关键点](https://blog.csdn.net/yexunce3159/article/details/84869724)
+ > 揭秘：技术人突破瓶颈期，离不开这几个关键点
+ ## [一天超2000次，阿里如何打响音视频超时空战役？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/85003935)
+ > 一天超2000次，阿里如何打响音视频超时空战役？
+ ## [常见运维面试题](https://blog.csdn.net/qq_40907977/article/details/85019627)
+ > 常见运维面试题
+ ## [【中间件安全】Apache 安全加固规范](https://blog.csdn.net/qq_23936389/article/details/85013919)
+ > 【中间件安全】Apache 安全加固规范
+ ## [大数据和云计算技术周报（第83期)](https://blog.csdn.net/zNZQhb07Nr/article/details/85499839)
+ > 大数据和云计算技术周报（第83期)
+ ## [学习云计算与大数据就业前景好吗?](https://blog.csdn.net/juan189/article/details/85331410)
+ > 学习云计算与大数据就业前景好吗?
+ ## [研发管理 - 流程篇](https://blog.csdn.net/joynet007/article/details/85071807)
+ > 研发管理 - 流程篇
+ ## [python 列表，元组。](https://blog.csdn.net/weixin_44239431/article/details/85331076)
+ > python 列表，元组。
 # PM 
+ ## [我是如何完成一年连续2次晋升的 | 360产品经理2018年终总结](http://www.woshipm.com/pmd/1808733.html)
+ > 光阴荏苒，日月如梭，一元复始，万象更新。我们还未觉察到2018年从指尖悄悄溜走，2019年就已纷至沓来。回顾总结，反思不足。下面我用真实的工作案例，与你探讨产品工作...
+ ## [跨年演唱会赞助哪家强？一场来自拼多多和抖音的增长示范](http://www.woshipm.com/operate/1810903.html)
+ > 2019的跨年演唱会刚刚落下帷幕，每年的最后一天晚上都成了各大卫视的兵家必争之地。今年，作为“欢乐宅”的我，照例打开了电视。但令我关注的，是今年各大赞助商的新玩法...
+ ## [线上课程｜HR也能转岗产品经理，只因具备了这项能力](http://www.woshipm.com/active/1807325.html)
+ > 丽瑜是90天产品经理实战班第21期学员，之前在北京某知名互联网公司任职HR。前段时间她成功内部转岗到产品经理助理的岗位。通过90天产品经理实战班的学习，她掌握了系...
+ ## [用户留存 | 你需要搭建的消息PUSH系统](http://www.woshipm.com/pd/1809505.html)
+ > 消息推送（PUSH）是产品提高用户留存和运营达到目标的有效手段，推送的好便于提升产品活跃，推送的不好用户轻则关闭推送 重则卸载产品，所以搭建是一个好的推送策略是十...
+ ## [视频 | 重构机器人的人机交互体验](http://www.woshipm.com/video/1809398.html)
+ > 从交互设计角度，机器人的交互分为机器人与世界的交互和机器人与人的交互。机器人与世界的交互由科学和技术主导，目前已经取得了长足的进步。而机器人与人的交互要由设...
  ## [2019年小人物创业指南之「事」](http://www.woshipm.com/chuangye/1807966.html)
  > 创业首先是去做，想多了没用，光想不做那是乌托邦。很多时候创业者因为自己搞不清楚而不去创业，实际上等你搞清楚以后就更不会去创业了。书读的不多没有关系，就怕不在...
  ## [一文教你学会如何做销售分析](http://www.woshipm.com/data-analysis/1806245.html)
