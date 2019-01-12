@@ -1,51 +1,51 @@
 ---
 title: 2019-01-12 IT News
 copyright: true
-date: 2019-01-12 08:01:38
+date: 2019-01-12 09:01:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国联通获批发行500亿公司债券：为5G建设注入“强心剂”](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=df18I-elyCSUbWiJNz79aktnjs72z*bE2xDdvdWjOPtmv3SNJnF1pTFgj0qyZDuvFCoGKgbahaV23SeiAhnJLUs71bjJ1HcYk1pGrzSYrkOZcW2-nkIGcQeJ-AkmJFcH&new=1)
- > 5G商用脚步已日益临近，对于运营商来说，挑战与机遇并存。按照机构测算，三大运营商未来在5G方面的投资在15000亿的规模。近期，中国联通获得重大利好，获批500亿“天量”债券，为其5G的快速发展注入一针“强心剂...
- ## [为树莓派3b部署手写数字识别卷积神经网络](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=7U2S9JYQ0jb4VSIL8ZBwO5kZXsg7SjiJlQhcQRXAw*KWpJdcyrvbWSicU6trSwhmBEoJaRyfSCA-oEENifmKguVzMvn0uUiSl-kQuyfOWxSeZfcBYQQcdLFa0K3n*wIh&new=1)
- > 《e络盟杯树莓派创意设计大赛》三等奖 作品简介在2012年的ImageNet竞赛上，基于卷积神经网络的AlexNet横空出世，以绝对优势拿下冠军。从那以后，人们开始认识到神经网络在图像识别领域具有巨大的潜力。其实早在1...
- ## [视野丨可靠的无线数据传输——ZigBee](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=dgnYf1q6InFtyZsJR-44IU6w1UvnuVpen2ngN4F4C-SUU898zX3wULONaz7646sPwdqpYvs7VT*2Fku37xc7ESB3Cklu-uJtPvZzrZGr0NBSZT-DJ*GDWuczTmm0r0x2&new=1)
- > ZigBee因何而来在蓝牙技术的使用过程中，人们发现蓝牙技术尽管有许多优点，但仍存在许多缺陷。对工业，家庭自动化控制和工业遥测遥控领域而言，蓝牙技术显得太复杂，功耗大，距离近，组网规模太小等，而工业自动...
- ## [2019年5G建设加速，投资规模将超过350亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=CcRB2BbFdMZmcGppSouKieRpr0wcafe5QTPVZ2R-6gywRC*-OGEmVOluoS3HxkRIU*2x9qRCT6QonqA63hcBzqEgScCB7oA1d2dcPkPNcMd5PPmjFJnBABhyT471ld*r&new=1)
- > 全文字数：523    阅读时间：4分钟财通证券发文称，2019年5G的建设强度将大于预期，预计运营商的技术路线和设备确定进度将会加快。铁塔的规模、无线侧建设和运营商的资本支出将会扩大。文｜科技瞄校对｜AKI图源...
- ## [国际消费电子展|CES上传递了哪些电子消费新风向?](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=JO1lqiXyBh5zM5rALd7oG20X8qFsdNtz4jFUd9NctP-nnjyJOQNvZB4Q4v868OTcaEpJftdITco*5XhD2nMQgV1pK317OzcqWh69RfmXpvUcXQwghfrf7r6UNN0XdzDf&new=1)
- > 国际消费电子展(CES2019)于1月8日在美国拉斯维加斯拉开帷幕。为期四天的展会将是专业展商一展新品的阵地，也是消费者提前捕捉国际电子消费品新趋势的窗口。中国企业展示实力据主办方称，中国参展商的数量达到121...
- ## [追梦5G时代 引领智慧生活丨中国联通5G创新应用峰会扫描](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=awiOqtcMP-RhRQ6ofvkHzYwrKNdtt7hqf56XByYhHpGDaQv0SMzsKuUCAkBfa0an3E7UVSpsBtb9QkryYgb7VewUQFKIlk6RmWaJoeUQSOuTrMnCGjCxqZMSKSK-dZXY&new=1)
- > 点击观看峰会现场视频数字潮起千帆竞，5G潮头踏浪行。5G商用即将开启万物互联、万物智能的大时代。布局5G，放眼未来，中国联通厉兵秣马、只争朝夕，提早布局，创新应用，精彩纷呈。1月10日，由福州市人民政府、...
- ## [CES2019第三天AR/VR汇总：动感VR过山车来袭，LG U+与谷歌成立VR分发平台](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=TqNXBgSbcGYoFbAECuknDPEyP5UHeVuHbzXdHdvJCoiiLdcwQ17fw2N*wlfJRMeJu646bNUzWV32wxbDQu2vZ6OUJNybeV4V1wgVMg2YOp75jxg9kXLKKFvZu4o*RVu6&new=1)
- > hi188｜ 撰文CES进入第三天，今天我们来介绍一些VR/AR周边，例如这两天大火的VR过山车HURRICANE 360；Cupixel展示了一款AR绘画辅助工具；Teslasuit全身VR体感服，可模拟多种触感；感悟科技展示一台AR机器
- ## [2019请别开枪!我还在电信工作!](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=o6rY8KDLrPFBWtevZgndq6dssbRaayTBr1-fRqsdkkE49jE0Yi-TcY-YZMnYoCBE50ZjNmJDO*6IuvMYtjSGe4HlUpPz6BuuB9KMuiMZkeeG*t1X1Se-jZ9TmmbXNut1&new=1)
- > 某调研组新年采访了某地电信员工2019请不要开枪！我还在电信！为通信事业奋斗终身！来源：运营商情报 监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [CES所有干货都在这里了](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=McJUWhxYlgz*7Do8NtVlnt0U8ht*UU7g-1FqMIQg2ErxNBp5foHfI10RPdBDgQM1CWbYqC24zhcY9RNpS0sCxpo4eL3KPSFvKAor2ojn1UbSnCM92A*IGca8Y-8ZcZAp&new=1)
- > 本周，科技行业齐聚拉斯维加斯，参加年度创新盛会——CES。 CES总让我们觉得处于技术变革的前夜，这种感觉在今年尤为真实，因为2019年是5G正式商用的元年。 从消费电子、汽车到引领5G的移动设备，Qualcomm的这些...
- ## [直击CES丨AI：难以置信，4500家参展商一半以上秀AI产品](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=tZ-ZpOJ6TBCX97IB2uAS3phLryqF5kg7vfu8K9nSx7AvfnEJu0*unhoj1kirj4zCS95v8BLlhuxZCJ8voZczxblVRbIsdh2Z*m1t5TtgHN4UR8OxXqR1tApzKgCetFRF&new=1)
- > 人工智能是CES2019的“灵魂”科技，在4500家参展企业中，一半以上都展出了人工智能相关的科技产品。作为“撑场子”的角色，AI技术公司在CES明争暗斗、“刀枪相见”也就不足为怪。厂商的激烈博弈，展示出人工智能...
- ## [什么是机器学习?](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=MxgzR-ao2fOcDgsmBdlS0YT9bxPernxADH1E95AK6njRPkBudFyFBeZfUvrzvGGLntCbDiBFdtwJ5sFzaHf93OzDE1MBlowVynKsV6ILucb*da1Eu-KvlyoyQmOzR1Y2&new=1)
- > 机器学习是人工智能在近期最重要的发展之一。机器学习的理念是，不将智能看作是给机器传授东西，而是机器会自己学习东西。这样一来，机器就可以直接从经验（或数据）中学习如何处理复杂的任务。即使是相对简单的...
- ## [2019年及以后数据中心设计和建设的发展前景](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=mJ5hDQ4zf*cpFh4f9ek6nFuodw598VsqhP3LJ9c4J-Lx1y4A6A4arAUXtz3ThScQ1HGi6qReXWzpK*1Af6ljFb5cBtXI*8MhWDO9PNwFeqIuvcpxu5jFXUkjUb0eAsPw&new=1)
- > 关键讯息，D1时间送达！过去20多年来，企业数据处理和存储的方式发生了巨大变化。最初是运营高度冗余和完全建成的数据中心设施。如今，已经发展成为现在所看到的大规模、时尚、灵活和节能的数据中心设施。过去20...
- ## [无数BUG：Win10最新累积更新又又挂了](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=hzsQM9SFf36gPssLn1lK3pN19K9eAJZdkadcc7n13NBcz4BidHoGswaNYHkUnuuF4HxBCRQXGgfxP963lcWTLHX0RS6kZEv*kcV9sJMJikEb1RcJk5Pqgrpr9GOedR6Q&new=1)
- > 按惯例Windows 10每月例行更新总是修复旧问题带来新问题，很遗憾本月份的例行累积更新也是毫无惊喜。在本月份例行累积更新发布两天后目前越来越多的用户报告问题，并且这些问题涉及到Windows 10各版本。又掉激活...
- ## [2018年世界科技发展回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=SDaBmR1LMpv4nP*cgtk9SdXspQxJnLCk*fCeCKu6LFhBRze*mhwi4bkBbQIWF65dtizAAK2oXL40lmsvgLX*9fzOvzaAetr4VVIv9rGvjRdWx6wbEKz6oxavwKlSNcnx&new=1)
- > 来源：科技日报摘要：本文从科技政策、基础研究、信息技术、人工智能与先进制造、空间技术、能源环保等六个领域，回顾了2018年世界主要国家的科技发展。2019年或许会很不平常，只因2018年世界主要国家之间关系风...
- ## [海底捞不雅视频事件真相，公共场所WI-FI安全问题严重](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=aUy8qYWLLzqFTTM9xqAexgKe2u2YwkDcONAi9CZN7ngiu9Kxa*APJFktvbaB19GXKdWprpoK38U-vNH6dx48etzXA-UVR26cE9T2YA4JQXrIla8jjF6GU-FK6-GnwxYy&new=1)
- > 前几天热议的海底捞不雅视频事件终于水落石出，江汉区公安分局发布通报称，系一名28岁男子破解了WI-FI密码后投屏到海底捞大屏播放淫秽视频所致，目前该男子已经被依法刑事拘留。海底捞不雅视频相关新闻至于究竟...
- ## [5G开工，我们真的准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=I0APfVQKpD8MOx1gk5t78WZGESHrYki8JCb9mtjqIZuy*3EXJl9iLW2-H-DeX4YHS4-18aLecLzYmKuI3vmVggHTcma6KFTYrDTzWKKdPFvt73*MMpCKOXz8-gTjYNlq&new=1)
+ ## [5G开工，我们真的准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=I0APfVQKpD8MOx1gk5t78WZGESHrYki8JCb9mtjqIZueJ5lbi8G6aCeYRFdkY1dtUWSJxcCmSCxXpeE-JzWHiEHz8K5gSjgjnq3A4xYotimFwpM-mXo4x3Z1PY9G0IXw&new=1)
  > 【摘要】正如有首歌唱的，没那么简单。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：网优雇佣军本文来源：网优雇佣军（hr_opt）杂谈投稿邮箱：631255063@qq.com不久前，一位来自欧洲某运营商的高管在...
- ## [误入暗网知识大全，这波数据交易让我瑟瑟发抖](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=BLFyJ4XwGBecopxjdlfZTxBeGwA9J6FxVc8flYPyhDd-anf91ZD04DHJAMuy8tGo8OoiMKKAw1od4vjeo9N1myE7REboX8PIauzfLz4owwM9pq3LoKLovqz4DEYFJidU&new=1)
+ ## [追梦5G时代 引领智慧生活丨中国联通5G创新应用峰会扫描](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=awiOqtcMP-RhRQ6ofvkHzYwrKNdtt7hqf56XByYhHpHGOjGwp1qD9NAmmT9W770SyZ7aUUvWa9rJRCRc*8H9gt9lR90MH*zuCRqGIHiLSZVjTyIZm9E-AoOgQR7gjhJe&new=1)
+ > 点击观看峰会现场视频数字潮起千帆竞，5G潮头踏浪行。5G商用即将开启万物互联、万物智能的大时代。布局5G，放眼未来，中国联通厉兵秣马、只争朝夕，提早布局，创新应用，精彩纷呈。1月10日，由福州市人民政府、...
+ ## [高通的第二战场!四大阵地军备亮相CES](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=Cg7FkLJHxgFzP1NlAHhzWBXQwu9C*zkzULqOyu7rWrrk9TJ3Mz-W8AaAaJROlmq5EMAoyF1c9K-0fiAoVkUsutLfA9fxcTJM2oHwZ88aAEWY1UXoJ03mmaSB5-t9eaF5&new=1)
+ > 看点：预定物联网龙头，押注XR市场，以高通CES2019四大阵地装备看未来。在全球智能手机市场增长停滞、竞争加剧的当下，高通——以及其他手机芯片巨头们——纷纷开始寻找其他增量市场。幸运的是，这些新市场并不...
+ ## [河南人快看!啥时候能用上5G手机?权威说法来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=MjXEaxHbdNoScl7rRbtapqiVklkXsSRFduMcGoitXjOTltVUlnWrBNKY0hLzBucIo-OtuIuaccEPGQx2il4H408dawlAC-AOrt9mYFlx1Y6bhvhhnhXAO8PB5tFDcv8S&new=1)
+ > 今年，国家将在若干个城市发放5G临时牌照，5G产品下半年有望上市。拿了一波年终奖是不是正摩拳擦掌换手机？慢着！如果告诉你5G手机真的要来了你是否愿意等一等？对于大家关心的5G，工业和信息化部部长苗圩10日在...
+ ## [误入暗网知识大全，这波数据交易让我瑟瑟发抖](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=BLFyJ4XwGBecopxjdlfZTxBeGwA9J6FxVc8flYPyhDcJt6*YRUWKiEM68jTL1y6K6RezSC90wC8IhCC61kbdGZiJa3EwCq8B4-S-Zwe06PFUwI7EJgzNY3ztKdTUGGvS&new=1)
  > 马迪亚斯是个平凡的男青年，他有一个正在闹矛盾的聋哑人女友和一帮朋友，为了与聋哑女友沟通他正尝试着自己编程做一个实时翻译手语的软件。无意中马迪从咖啡厅拾来一台笔记本，这台容量高达1T的电脑却时常报错，...
- ## [2018年安防行业白皮书回顾 观时代发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=9mDj6SOm6-EyrDutRvSLKcPB7aShhGOugDT3Au3dQK5dJEh9pPRuw-gYOkIP6SgtHQiouPiTeA-4Fl5KSHsespCcOxHlNrc8MkGpkRY4iN2OMTI2LyEZSH*ccUERBr25&new=1)
+ ## [无数BUG：Win10最新累积更新又又挂了](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=hzsQM9SFf36gPssLn1lK3pN19K9eAJZdkadcc7n13NCLgrC773L1HTJWU-kx1wHqx5UJTPTnO0n6DNqGmMt*U2yAiWnygOYxD7VgiTbOLS*IgdE5Skjngf4AW9iaOVTg&new=1)
+ > 按惯例Windows 10每月例行更新总是修复旧问题带来新问题，很遗憾本月份的例行累积更新也是毫无惊喜。在本月份例行累积更新发布两天后目前越来越多的用户报告问题，并且这些问题涉及到Windows 10各版本。又掉激活...
+ ## [手机连WiFi时要关闭移动数据吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=SNwLbL1zGbKJOW7fmaIqT5lCCZ9khfdBFVJp7aUBGTFDFT7Kfd50xrPTWUwQ2JzN2xSgNJexTnlMDZJ-LxQEmrkxkfYCEcwPM81Irclm99NpDIVbt*npJRrSqlu16auN&new=1)
+ > 之前有用户问小O连着WiFi手机也会消耗流量，这是真的吗？经小O了解，是不会的！究竟为什么呢？赶快来了解一下！连WiFi后需要关闭移动数据吗？一般来说是不会的。因为WiFi和移动数据是不同的频段数据，不会相互冲...
+ ## [山东联通与山东省农业农村厅签约 共同推进信息进村入户](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=GmTZe-0xrJeQ4KhksoXzRIb09yNxzgbgGucI87Zu4b3CQ7G3xngiP7X2v4ku6kMAH9n6EMHYmgm4RJUlZF2kgusfQI8-PILFXZOpjTJRq-rsP7jbfVLw*PcD83543Dxp&new=1)
+ > 1月11日，山东联通与山东省农业农村厅在济南丽天大酒店签署了山东省信息进村入户工程省级运营商合作协议。省委农办主任、省农业农村厅厅长李希信，山东联通总经理彭胜军，副总经理王学成以及省有关部门、各市农...
+ ## [直击CES丨AI：难以置信，4500家参展商一半以上秀AI产品](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=tZ-ZpOJ6TBCX97IB2uAS3phLryqF5kg7vfu8K9nSx7DGjrTSQ5rTciuKgb-GioWW4IgQ8WswUUvUqUhL-vSRnSEfVKqIG31fldVWpwYpE4NcLvrJ5rIgVku4BEDmTktH&new=1)
+ > 人工智能是CES2019的“灵魂”科技，在4500家参展企业中，一半以上都展出了人工智能相关的科技产品。作为“撑场子”的角色，AI技术公司在CES明争暗斗、“刀枪相见”也就不足为怪。厂商的激烈博弈，展示出人工智能...
+ ## [CES所有干货都在这里了](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=McJUWhxYlgz*7Do8NtVlnt0U8ht*UU7g-1FqMIQg2EoHu2SkncCcXelsIpZyLg*tn8SQpGCcg2VaWrPKNdZA6N1XAEE3yJgEFbxR6TPKPL5amZRCvVy4VwFXTir7XXzg&new=1)
+ > 本周，科技行业齐聚拉斯维加斯，参加年度创新盛会——CES。 CES总让我们觉得处于技术变革的前夜，这种感觉在今年尤为真实，因为2019年是5G正式商用的元年。 从消费电子、汽车到引领5G的移动设备，Qualcomm的这些...
+ ## [突发!华为美国子公司技术出口被限制](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=Vsght694bO8SFQs9lxZd5Up-zBOjVsqBbW8g-1c1o0UPjzohxuSc1Ps9UxjtGIkyTA9Iv7XoxP-FL83YLp9g1W408uNa35zy3p-RsQAIhmyiGysOIZQF4e6jX1k-iWmb&new=1)
+ > 据美国《华尔街日报》援引知情人士的消息以及文件称，在美国商务部暗示不会给华为美国分公司“Futurewei Technologies Inc.” 续发出口许可后，这也意味着华为未来无法将旗下这家位于硅谷的研发分公司的某些技术...
+ ## [国际消费电子展|CES上传递了哪些电子消费新风向?](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=JO1lqiXyBh5zM5rALd7oG20X8qFsdNtz4jFUd9NctP-nSD0RRWpPFwykdhMz35Ntnl9nttuGnFdp89hTH*WkPU53Cc7pnI*ggrpVFA7zdYZttkNz2JRjQyuqQ3AXq6Fg&new=1)
+ > 国际消费电子展(CES2019)于1月8日在美国拉斯维加斯拉开帷幕。为期四天的展会将是专业展商一展新品的阵地，也是消费者提前捕捉国际电子消费品新趋势的窗口。中国企业展示实力据主办方称，中国参展商的数量达到121...
+ ## [2018年安防行业白皮书回顾 观时代发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=9mDj6SOm6-EyrDutRvSLKcPB7aShhGOugDT3Au3dQK53kj0uqwXOLjz1tF48eSrMQBbf9AAgkbcrsUut4ekijMj6YeV3zYcdS-Oj7LL**x8dCd7nEgvfUha5jCRV6WN5&new=1)
  > 白皮书通常指具有权威性的报告书或指导性文本，用以阐述、解决或决策，讲究实事求是，在政府和B2G市场中都有应用。在各方力量的推动下，2018年发布了多项具有指导意义的白皮书，这些白皮书针对时下的一些热点话...
- ## [2018年度虚拟运营商颁奖盛典：他们撑起了虚拟运营商的2018](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=oVP8MOumvNytMqs-M4aLtvLg08OFlMLB9wqmACari711NuITFdnPd-gCDjt9IyIAcORJp1dbMwbOCz9VqbBvKpRcKqKOzdd7yMSfa4k8Bveo9IGmc9MViNADcPMqQb6L&new=1)
+ ## [\[今日头条\]北斗新进展!紫光展锐推出支持北斗三代的四合一芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=wQis*5B8Le6Ye0Ti6Gxi-n6qTCmSBFbXI26z7esDIlkw0sMTmpYkKplZzm60iR5TQ2n1o9vdqffiLCnJnVsDhiK7MamJjAoJ0RSdGgYRbVdRA7oEY1KSEKPPz2te8emM&new=1)
+ > 紫光集团旗下紫光展锐，全球领先的移动通信及物联网核心芯片供应商之一，近日推出春藤 2651四合一芯片，这是目前国内公开市场唯一一款同时支持WiFi 2X2 802.11ac、蓝牙5、GNSS五模（GPS/GLONASS/Galileo/
+ ## [2018年度虚拟运营商颁奖盛典：他们撑起了虚拟运营商的2018](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=oVP8MOumvNytMqs-M4aLtvLg08OFlMLB9wqmACari71leka-i2ted9CxNGsifk8dy*-Ddjc5LYyBwqq7jQmtGolXM*prR8bUjlAFEz3zTBfEh*aFCLO-0dH8qr2nIGXI&new=1)
  > 2019年1月10日，由人民邮电出版社主办、通信世界全媒体承办的“2019移动转售业务全球发展峰会暨虚拟运营商甬江潮起”在浙江宁波隆重召开。来自移动转售产业链上下游的300多位精英齐聚甬江河畔，围绕“迎接新时代...
- ## [5G临时牌照即将发放，商用步伐进一步提速](http://mp.weixin.qq.com/s?src=11&timestamp=1547249406&ver=1317&signature=vzuJrJ8IYM*ykQ7garlJwUA5tPCnhPWCYoK3GduxyR-BFCaOiGhUdufjyjbCc4nFR8badNh1ufLvrzMY8FV2b1zh4WC-VJBaOd3Yt3W1eco1Tawojjd3xgE0*lJaXVVU&new=1)
- > 临时牌照发放，彰显发展5G决心 2018年年末的中央经济工作会议中提出“我国发展现阶段投资需求潜力仍然巨大，要发挥投资关键作用，加大制造业技术改造和设备更新，加快5G商用步伐，加强人工智能、工业互联网、物...
+ ## [海底捞不雅视频事件真相，公共场所WI-FI安全问题严重](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=aUy8qYWLLzqFTTM9xqAexgKe2u2YwkDcONAi9CZN7njSnmbE7ycyiUJUWlpoXB7UWvB4V5MkfifvA1bHsTbXVv2uxlP2ykZeyy1sNKP-UFy7IsGRbEPXjMouuznoNGP-&new=1)
+ > 前几天热议的海底捞不雅视频事件终于水落石出，江汉区公安分局发布通报称，系一名28岁男子破解了WI-FI密码后投屏到海底捞大屏播放淫秽视频所致，目前该男子已经被依法刑事拘留。海底捞不雅视频相关新闻至于究竟...
+ ## [科学家辟谣外星人联系地球；韩国"的哥"自杀抗议拼车软件抢生意；抖音不能随便"抖"了!短视频审核"红线"来了](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=gB1MAKJvlU61mD7BmBfPqt2U3xnLF-37btIj3k8E8VTzPr9PlkJNgo7vs77BOH5*ihGobGMPvbEA9uhQ9KBwDK-bJ5cR4CUbyyZ94kXiorlJHdBA7aSw5I447g-L5ov3&new=1)
+ >  科学家辟谣外星人联系地球  外媒报道称，加拿大天文学家发现了来自15亿光年外太空深处的讯号，科研人员在3周内发现了13次电讯爆发。不少网友相信，这些讯号可能来自外星人。中国科学院国家天文台研究员苟利军...
+ ## [5G年终盘点：2018，意难平](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=q-B1EK08RxBQDE6D5y4ubTUwgHfhi8ZdYG4fhNCuranEvVwq0FJyk4o4Cklg-M41a9qRmBgfrfECq-RD2bSr*jfhkGQa2Al-v8D9ojTCCo*Gp3UlVAwjtw9JAeQxnZHn&new=1)
+ > ABOUTBEAUTY关于研究君每天精选深度互联网业内文章、收集最新互联网业界资讯、移动互联网报道、研究、服务为己任的第三方行业研究机构。2018，对于5G来说是动荡的一年。2017年底，在国际电信标准组织3GPP RAN第7...
+ ## [2019安全科技5大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=7w5UD44FWfrTLusY7f*tIrnMzEwGlVBueEn0vJGcf6C5M4r4tnKGBf9rUnEbyn6ZEs8IGcXr15xvntGQy1yTW7chZjpkAHH*t49uNSqOFuXzmCsv9*NJdP-3jFqJcb2F&new=1)
+ > 回顾2018年全球市场，经常被用来改善效率或是感测环境的先进分析技术以及其他智能化方案，被视为是未来最重要的发展趋势，更有不少厂商已经将AI人工智能融入成为产品营销重点，并持续强化这块领域的技术。编辑部...
+ ## [CES2019第三天AR/VR汇总：动感VR过山车来袭，LG U+与谷歌成立VR分发平台](http://mp.weixin.qq.com/s?src=11&timestamp=1547253006&ver=1317&signature=TqNXBgSbcGYoFbAECuknDPEyP5UHeVuHbzXdHdvJCojIEAD0UDlogssRngAhxB8VWEHM-dOlcMa1APTiEqnnvNEf9lct9eSGBSfAE8w8NGRqMrkLSAwWHlIU8G8tOah4&new=1)
+ > hi188｜ 撰文CES进入第三天，今天我们来介绍一些VR/AR周边，例如这两天大火的VR过山车HURRICANE 360；Cupixel展示了一款AR绘画辅助工具；Teslasuit全身VR体感服，可模拟多种触感；感悟科技展示一台AR机器
  ## [微商怎么精准引流，一天加1000人？](https://www.zhihu.com/question/62135179)
  > 首先提个反对意见，微商一天加1000人，好还是不好。可能大多数人觉得是好的，但我觉得是弊远远大于利的。为什么？个人微商，每天的时间都用来做什么，我给这样的分配比例。当你日收入低于500元的时候，50%时间用来引...
  ## [创业寒冬如何安全过冬？](https://www.zhihu.com/question/36458906)
@@ -54,20 +54,22 @@ categories: IT NEWS
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
+ ## [怎么评价马云？](https://www.zhihu.com/question/20333333)
+ > 说个本人亲身经历的马云，绝对真实：2008年马云出席博鳌亚洲论坛，本人作为路人，旁听了他参加的一个session。session结束以后，马云就被听众团团围住求合影。当时马总身边既没保镖也没助理（不知道现在有没有），对...
+ ## [像 Google、Facebook、微软这样的超级大公司招聘，会很看重学历吗？](https://www.zhihu.com/question/19971432)
+ > 说出来你可能不信，越大的公司越不看学历。因为招聘需求实在太多了，就比如Google 2018年在全球范围内招了两万人，据说2019继续这样规模的招聘。能有人面试就不错了，哪还能挑三拣四。我身边认识的人，但凡找软件工...
+ ## [怎么评价高晓松演讲关于5G以及区块链的内容？](https://www.zhihu.com/question/307976675)
+ > 实名反对那个舔高晓松的屁精，什么出身高贵？什么清华肄业？什么狗屁哈佛大学研究员？什么阿里大文娱主席？这么好的出身，清华都没毕业很了不起吗？自己吹牛逼说什么哈佛大学研究员，不过就是个可以到哈佛图书馆翻书...
  ## [为什么刺激战场那么多机器人？](https://www.zhihu.com/question/267069389)
  > 这就是你们碰到的机器人
+ ## [黄景瑜和王雨馨，你们信吗？](https://www.zhihu.com/question/59558041)
+ > 大家看看这个……10月28号就有匿名的人说过……而且酒店……今天真的发的黄景瑜在酒店坐着的图，所以……我觉得那个小花是张艺上。
  ## [《守望先锋》里你见过什么尴尬的的最佳镜头？](https://www.zhihu.com/question/48622593)
  > 都是我本人在美服打的。。。打阿三的时候。？？？给我激素？？？？？？为什么不排掉我的摄像头？？？？？？为什么DVA突然把自己的矩阵给取消了？？？？？？为什么头铁天使还在我摄像头下面复活人？？？然后更尴尬...
- ## [虚拟化与云计算有什么区别？](https://www.zhihu.com/question/22793847)
- > 来分享一下菊厂童鞋的见解：随着云计算技术的兴起与应用，在一些中小型企业也开始随大流往这些方向对自身系统架构进行调整，今天一起来区分一下两者区别。个人理解云计算能多注重于服务化，而虚拟化则是资源整合。发...
- ## [Microsoft、Google、Facebook、Apple inc等公司员工头发质量各有什么不同？](https://www.zhihu.com/question/308763166)
- > 微软多光头
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
- > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
  ## [网站能否查找到真实IP地址（比如我们通过代理方式登录脸书，请问脸书能否查找到我们在国内的IP地址）？](https://www.zhihu.com/question/308402207)
  > 会。HTTP包头的X-Forwarded-For和X-Client-IP就是用来暴露原始IP地址的，当然，如果Proxy不提供这两个header，至少目标网站就没办法从HTTP报文中获取相关信息。话说回来，你担心脸书知道你原始IP
  ## [产品经理该不该画原型？原型设计上谁负责？](https://www.zhihu.com/question/20177508)
@@ -84,8 +86,6 @@ categories: IT NEWS
  > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
  ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
  > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
- ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
- > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
 # IT 技术 
  ## [一个近乎完美基于Dubbo的微服务改造实践](http://developer.51cto.com/art/201901/590455.htm)
  > 一个近乎完美基于Dubbo的微服务改造实践
@@ -136,36 +136,36 @@ categories: IT NEWS
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [Linux企业运维实战](https://blog.csdn.net/weixin_40050195/article/details/84984060)
- > Linux企业运维实战
- ## [快速掌握linux的vim用法](https://blog.csdn.net/weixin_44317199/article/details/86140650)
- > 快速掌握linux的vim用法
- ## [人工智能--符号计算--笔记](https://blog.csdn.net/weixin_35723439/article/details/85072684)
- > 人工智能--符号计算--笔记
- ## [人工智能之自动驾驶](https://blog.csdn.net/weixin_44046073/article/details/85113934)
- > 人工智能之自动驾驶
+ ## [在Linux中使用Python模拟键盘按键](https://blog.csdn.net/zhouy1989/article/details/13997507)
+ > 在Linux中使用Python模拟键盘按键
+ ## [【电商】登录安全](https://blog.csdn.net/weixin_42343424/article/details/85692378)
+ > 【电商】登录安全
  ## [vs2010开发activex（MFC）控件/ie插件(二)](https://blog.csdn.net/yhhyhhyhhyhh/article/details/50802075)
  > vs2010开发activex（MFC）控件/ie插件(二)
- ## [android进阶4step2：Android音视频处理——音视频录制与播放](https://blog.csdn.net/qq_17846019/article/details/85046076)
- > android进阶4step2：Android音视频处理——音视频录制与播放
- ## [2018年最新FFmpeg音视频核心技术精讲与实战（已完结）](https://blog.csdn.net/weixin_43904729/article/details/85038640)
- > 2018年最新FFmpeg音视频核心技术精讲与实战（已完结）
+ ## [快速掌握linux的vim用法](https://blog.csdn.net/weixin_44317199/article/details/86140650)
+ > 快速掌握linux的vim用法
+ ## [至自己的选择的运维之路](https://blog.csdn.net/qq1373577937/article/details/85069508)
+ > 至自己的选择的运维之路
+ ## [物联网如何在企业中发挥优势？](https://blog.csdn.net/qq_40798435/article/details/85126734)
+ > 物联网如何在企业中发挥优势？
+ ## [jqm视频播放器,html5视频播放器,html5音乐播放器,html5播放器,video开发demo,html5视频播放示例,html5手机视频播放器](https://blog.csdn.net/xmt1139057136/article/details/32957663)
+ > jqm视频播放器,html5视频播放器,html5音乐播放器,html5播放器,video开发demo,html5视频播放示例,html5手机视频播放器
+ ## [随想录（功能安全和软件开发）](https://blog.csdn.net/feixiaoxing/article/details/85041750)
+ > 随想录（功能安全和软件开发）
  ## [最简单打增量包的方法（已附上打包的java类）](https://blog.csdn.net/weixin_41961162/article/details/84984259)
  > 最简单打增量包的方法（已附上打包的java类）
+ ## [【中间件安全】WebSphere安全加固规范](https://blog.csdn.net/qq_23936389/article/details/86150485)
+ > 【中间件安全】WebSphere安全加固规范
+ ## [ubuntu MQTT 物联网协议](https://blog.csdn.net/weixin_42627035/article/details/84995862)
+ > ubuntu MQTT 物联网协议
+ ## [DANDELION 病毒](https://blog.csdn.net/yeshennet/article/details/50859415)
+ > DANDELION 病毒
+ ## [搭建图片服务器《二》-linux安装nginx](https://blog.csdn.net/maoyuanming0806/article/details/78067446)
+ > 搭建图片服务器《二》-linux安装nginx
+ ## [图形验证码安全](https://blog.csdn.net/qq_36119192/article/details/85755880)
+ > 图形验证码安全
  ## [ThreadLocal的设计理念与作用](https://blog.csdn.net/u011860731/article/details/48733073)
  > ThreadLocal的设计理念与作用
- ## [最新FFmpeg音视频核心技术精讲与实战(完整版)](https://blog.csdn.net/L272339/article/details/85941375)
- > 最新FFmpeg音视频核心技术精讲与实战(完整版)
- ## [关于：INSTALL_FAILED_DUPLICATE_PERMISSION perm=android.permission.BAIDU_LOCATION_SERVICE pkg=com.exampl](https://blog.csdn.net/gjy211/article/details/51619422)
- > 关于：INSTALL_FAILED_DUPLICATE_PERMISSION perm=android.permission.BAIDU_LOCATION_SERVICE pkg=com.exampl
- ## [人工智能 之 机器学习 常用算法总结](https://blog.csdn.net/u014597198/article/details/85309295)
- > 人工智能 之 机器学习 常用算法总结
- ## [vs2012 MFC连接及操作access（2007）数据库（ADO）](https://blog.csdn.net/u012784288/article/details/51837826)
- > vs2012 MFC连接及操作access（2007）数据库（ADO）
- ## [人工智能 人脸识别 eureka-client](https://blog.csdn.net/weixin_30947631/article/details/84995178)
- > 人工智能 人脸识别 eureka-client
- ## [人工智能 = 物联网，大数据 + 云计算](https://blog.csdn.net/weixin_44401335/article/details/85785135)
- > 人工智能 = 物联网，大数据 + 云计算
 # PM 
  ## [极光大数据：荣耀市场保有率超小米，超六成用户年龄低于30岁](http://www.chanpin100.com/article/107027)
  > 工作游戏两不误，抖音快手买买买。将目光瞄准年轻用户的荣耀，已经超越小米成为了国内手机第五大品牌。
