@@ -1,91 +1,91 @@
 ---
 title: 2019-01-19 IT News
 copyright: true
-date: 2019-01-19 09:01:35
+date: 2019-01-19 10:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[今日头条\]移动芯片行业排名世界第二的联发科技,启动武汉研发中心二期建设](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=wQis*5B8Le6Ye0Ti6Gxi-n6qTCmSBFbXI26z7esDIlnzE6VtP8LojeU9hv*rEQj-yxkpb2UiRVLM0zKSXlAnVwJOBhC6OAxcEEwBXToMj*QLrZylJiP1nR2Yx8Kjymm0&new=1)
- > 联发科武汉研发中心二期项目效果图　　近期，联发科技已启动武汉研发中心二期项目（金融港二路以北、金融港中路以东）的建设工作。据悉，该项目地块已于2018年12月20日成功摘牌，并于2019年1月11日取得建设用地...
- ## [深兰科技多功能AI公交车助力智能出行](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=0g6fxyZri3VQM5cHw9VNpTQXFV3MZQY2NmNubRaXBdXfvP7S9a2xPiYKfFZ13rtPbW9tB5wRUMU2n-9adIcl9oabxog9PiVgwXeWf974EgtiYq*JoupwC8Wo71jzYSTI&new=1)
- > 本文共1366字，阅读全文约需2.5分钟。1月18日，中国新一代人工智能未来发展峰会在上海国家会展中心举行，此次峰会由上海市经信委指导，召开关于人工智能行业发展的国际交流会议，多城政要与一带一路各国嘉宾共聚...
- ## [AI视觉时代 生物识别技术赋能智慧金融](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=9mDj6SOm6-EyrDutRvSLKcPB7aShhGOugDT3Au3dQK4kDs37nieiiQpS9h0lefHbUQgnQ-*TEzYZo2aYe1q7pICNC80xkWXppoADtwhIsxF-zJMkeTzlBqj*SYXRFyDB&new=1)
- > 近日，在大型科技综艺节目《智造将来》中，支付宝研发的刷脸神器首次亮相，在500位蒙面观众中成功找出目标任务。据悉，该神器在人脸识别的基础上，结合多模态识别，可以分辨同卵双胞胎等普通生物识别技术很难分...
- ## [\[观察\]稳中求进，瞰筹未来，浪潮网络的三重跨越](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=UKL8W15OdpXKpe*1j23GXMzMG8JioLvyvQ7gAgODCobdpUoLjLnKX6qbHtKXYiRHlDlCjGScAIuIbvfuJdTrNz56B1rw44ozKk0s1nPf*fqNp-mdjXBzQtlJu-oA*FNo&new=1)
- > 申耀的科技观察读懂科技，赢取未来！毫无疑问，在不断演进而且越来越复杂的数据中心构建和管理方面，我们都希望在网络层能够“抽丝剥茧”解决相应的问题，让数据中心网络真正实现敏捷、智能及安全，并能配合软件...
- ## [IDC：数据科学家将是2019年实现物联网价值的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=mJ5hDQ4zf*cpFh4f9ek6nFuodw598VsqhP3LJ9c4J-KeqsC0O7rH2TEYK1jRxhjhHMVVwbYBmAMph5-d-54kfSv6rQmYYA9D1H1GT5fRy57r9uZxZiwkVhh3x5uxJXoY&new=1)
- > 关键讯息，D1时间送达！IDC集团物联网和移动业务副总裁Carrie MacGillivray在一个网络研讨会上说，物联网的数据处理方面将成为物联网给企业带来价值的核心支柱，而想要以一种有意义的方式处理这些数据则需要使用...
- ## [任正非打破沉默接受采访：华为不会出现大问题，经常和女儿孟晚舟打电话讲笑话(附问答实录)](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=K9EK-gDqaKDuDyHIbVHP0ge29Ib*jAlacRRDo2VlkQT4K6E*fLYlCK8csNLkQtBXVOTTqscdpNDi0*-ie1*3-FpAkBEhPaE8p*5TSZEFWszIeLrUSgetVnnZNClyu5Qr&new=1)
- > 1月17日下午，任正非总裁在深圳总部接受了部分国内媒体的采访。这是继1月15日接受华尔街日报等6家海外媒体采访后，任正非近期第二次接受媒体公开采访。图片来源：图虫创意在此之前，任正非最近一次接受媒体采访...
- ## [任正非回应一切：今天局面华为已经准备了十几年 预计五年后收入翻番](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=I0APfVQKpD8MOx1gk5t78WZGESHrYki8JCb9mtjqIZsHkrn4Bh9UL5GM6eRJhbs5mMmsLX-iZS6egKFjs7y5ci*BUeSrw6QzN3s3e0tOFw*LViJZ09DibMDOTqmaFVXl&new=1)
- > 【摘要】精读之后，我们选出任正非万字采访中20句最霸气外露的话，看任正非是怎样让全世界振聋发聩的。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文来源：C114通信网(C114-weixin），智东西（zhidxcom）杂...
- ## [5倍速快速成长，浪潮存储是怎么做到的?](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=zsLJh6BTikIbFF8peO5usYmc6XTjeUUAy8LwsN8gmUSQF9rybeMRT7i07R6CE111sY5jzhdSZBDe55kTJSuWiN0vaw-xePTXu8jrEipFATSvNLJAq340*FgSmOKK1Sb8&new=1)
- > 岁末年初，企业都要交出一年的成绩单，都说如今的经济形式不乐观，传统IT厂商被互联网企业无情碾压，按在地上摩擦，但是浪潮存储还是交出了一份让人满意的成绩单。浪潮存储“成绩单”从浪潮存储提交的这份成绩单...
- ## [\[重磅\]“两面任正非”理性与感性：谈5G技术底气十足 企业不倒要“祛除惰怠”](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=SAC6GMLxWN3JufYN3PHaY05f4oz5qUOZqVq9yYqQz-T1b0bJNSbmELfG11gbd4Qk7AuNjkymD8aff*BiQOicLWruW9kUYBONGhtuXpqVAymD9Sy8fuK6rePmBX7ZGDaw&new=1)
- > 就像自带流量的明星，近来的华为一举一动皆成业内业外瞩目焦点。一改往日低调的作风，继1月15日华为领袖任正非罕见地在深圳总部接受了包括CNBC、彭博社、《金融时报》、《华尔街日报》在内的多家外媒采访后，17...
- ## [重磅!中国电信市场部总经理王国权升任集团副总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=GmTZe-0xrJeQ4KhksoXzRIb09yNxzgbgGucI87Zu4b0p29HR5WxeVP6yz6GnS1Ia2zs63avw7JW7xJY3Gm*n6EAA8w-pFrDRwHp5yDjEip5Du3lIDLiGbJF6Nj5STABm&new=1)
- > 日前，运营商世界网获悉，王国权在2018年底升任为中国电信集团副总经理，而他之前的职务是市场部总经理。王国权履历：1972年6月出生，1991年12月参加工作，中共党员，大学学历，硕士学位。2008年6月获得中国人民...
- ## [不可想象的未来，机器狗将成为快递员](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=7t49IkHSs0JDicIlJYheoah3l15*mstAyEPxkuRxvD6BwdGKqtGiTH8U2MjRedA4THHpxFQ58qRC6oJM56v-QyYVgXEVYtwJqICtdaW*oCRYCJYrR7B31rfMG77eBu*p&new=1)
- > 科技创新推动了社会的飞跃发展，如今，机器人已经从科幻电影走进现实，从工业生产线走到日常生活场景。随着机械技术的进步，为人类研发出各种机器人产品提供了可能，而人工智能、传感器、无线通讯等技术的发展，...
- ## [学会动态丨中国人工智能学会重磅发布《2018人工智能产业创新评估白皮书》](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=SDaBmR1LMpv4nP*cgtk9SdXspQxJnLCk*fCeCKu6LFgVFJoXXQwsloqEHxxQEXSQ6sGN-PpLm4pIwiBbuiNmRI*k5L0gXok1KUFFJGtllIZ9zT5QcdGCtsy0xWvXDy2J&new=1)
- > 来源：中国人工智能学会摘要：《2018人工智能产业创新评估白皮书》由中国人工智能学会、国家工信安全中心、华夏幸福产业研究院、思保环球联合发布。白皮书聚焦人工智能的使能技术与应用场景两个层面，基于论文、...
- ## [下一个倒下的会不会是华为?任正非：一定](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=G6bwdLajaD9YMvUilMbYHHyIEznxAuKzUhVWWyxNu30m56POwx-Zw29yPFALiuVD3oyPTy8gHKKzWJRbrSlK3MQ29ZdwwwiwOdkOxzxucakFrfTLptdGSud2wL1KFyrS&new=1)
- > 文/锌刻度记者 许伟1月17日，任正非在答记者问时总结华为说它前20年是积极进步的，这10年是退步的，并直言华为下一步一定会倒下。为什么？他认为，支撑企业健康蓬勃发展下去的关键就在于通过自我批判来逐渐祛除...
- ## [英特尔及合作伙伴技术团队访问云创大数据](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=rYZ8Nw7LAk2kvWOhcEczmtK09jY9UAWB4Ccgil9gi1Ds76FYWqgZbQyYp8RFFHsASoIHY6dKkp19U5LUAHegO*ORlTR9oRoHoi*AbSFWXz4D3N6KVU-MPUM82n2JjOBI&new=1)
- > 2019年1月17日，Intel（美商英特尔亚太科技有限公司）技术应用经理陈世旻、业务经理赖宜洵以及QNAP\[威联通科技（北京）有限公司\]总经理叶国盛等一行莅临云创，云创大数据总裁刘鹏教授、人工智能总监曹骝、项目总...
- ## [电子电路打印!Aerosol Jet气雾喷射3D打印技术](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=UDxBQJU*AAuGwLvog*Ofh6bwTqyzQuFejdTaOe5bQizgmPSM7Qlj8UlHGo7PEqYFo*iuRwGDpaJWGdx3rT7UFc00U4sedY7JEUT1miy*gnW9qMJVqYKKlDuJE2XLLIS1&new=1)
+ ## [想知道自己订了哪些增值业务?移动“0000”查询退订一目了然!](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=ezPcw09wRNHxPNdP7Bzg*13cFIytSI7XvbinjDmvTHS766mpVEMEB9540hjckq6CQlVWN9oiM-w8CfGtKjufeJzQMJq-5PLe0WS3-dkp*WEGYQfMV2hr8lSikQunsmo6&new=1)
+ > 年底了，看了支付宝、京东年度账单的你们还好嘛？被账单吓一跳的小伙伴，最终发现钱还是自己花了？！本来嘛，支付宝、京东每年推出账单，就是让大家知晓好不容易熬夜加班挣来钱花在哪了。虽然网络购物花出去的钱...
+ ## [电子电路打印!Aerosol Jet气雾喷射3D打印技术](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=UDxBQJU*AAuGwLvog*Ofh6bwTqyzQuFejdTaOe5bQiwlxsRu8KCnlRR1kwdyjak5MmcWBL2f6dEjlOul8hk6pQSprV1cIQipPflvHBmNRabf7Y4jNPNQSspnAaT6Zvvb&new=1)
  > △粉末冶金、陶瓷制造融合3D打印的展会美国Optomec的气雾喷射打印技术能够有效地制作3D打印的电子产品。它属于一种增材制造工艺技术(也称为3D打印或直接写印), 可将各种商购的市售导电、绝缘或半导体材料以及生...
- ## [致3D打印服务商：您入驻开店，我们来接单](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=GeZ1G8O--BwB60UoAJ0trkPr2InIOxyM40XkJ95qR-Igbgyh*L3q3n2ZF8uV8wVYjJIuKS6XwiYVJJIrHkckOh*vTmW0Gu3FtLDem3SBU7A46X1lUuqZeu2uu8zX7RMt&new=1)
- > 未知大陆(UNLANDS)是基于3D打印技术的数字制造云平台，我们为3D打印服务商、用户及其他生态企业，提供互联网基础设施、技术支持以及营销平台，让其可借助互联网的力量与用户和客户互动，核心业务包括三维智造、...
- ## [任正非最新万字访谈，回应华为热点](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=DMxerOdPZCpIkPCHE-LSI3jhNtv1CW75Psut*jdAqQMTsrdQRGw4dD7MaBSUVbc3-vd9EfcEyOXoRkSUJjrZRuEBx4tzx9FQ22vOaPgI2nh1jnjDBg77XnUQ8DqSDtAe&new=1)
- > ◆ 对长期以来西方对包括华为在内的中国企业“盗窃知识产权”的指责，任正非明确地回应，华为绝对尊重他人的知识产权▲ 1月17日，任正非在深圳华为总部接受多家中国媒体联合采访◆ 下文问答文字，供阅读参考来源...
- ## [仅仅10年让世界瞩目，究竟是什么技术让同行自愧不如!](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=oIV5bW36uDuKB87pqSeAPlgfAhOYxyEQisI1BN0mGDBGHSMbT-erBIZPoXNHRaQUVzTv6F6YOnzAk9Iur9aC3hJ*8WpxwhhS7SwJmAc7kWRQH7ew63Eq9uF*1nOR2E0n&new=1)
- > 它开创了消费级无人机市场；它为我们提供了专业级的航拍镜头；它曾经只是一个仅有三、四人的创客小团队，如今发展为超8000人的全球性科技企业。它就是无人机行业毫无争议的世界领导者——大疆创新。◎文丨e-work...
- ## [「定制家具」如何生产?王自如带你一探究竟](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=B32sUE-Q5MLyRx17BMDV*Id7-Lvj9*PyD78VtM9-4L6wEp93jz4OcrvbtV-nDokxeIC869wwrFMF0bdTopGSLDLTAioHO9qdHZtEkOMLaEHBJcTWWuq4cwfp4BeEyqbj&new=1)
- > 就在一个多月前，ZEALER 正式发布了智能家居科技第一家「NEXT NEST」。通过打造一体化的智能家居场景，共同构建未来家居生活的蓝图，同时也表达 ZEALER 对于未来生活的畅想和期待。而作为此次共同打造「NEXT NES...
- ## [商务部：中方希望科技发展成果可以全球共享](http://mp.weixin.qq.com/s?src=11&timestamp=1547857806&ver=1317&signature=ttxf-moW6j8J8c2lImy2BFtGEG6LP-CYQksXE1OONKaBnPsOnCCnN5WERJcg7TKzBKiXTbiyYO1YDhOpsT6cvOtVHmHWbN61w4vhJU*acyczOn*J3Jj5Au*fCxViY4xd&new=1)
+ ## [华为研发开销超苹果微软!又投1000亿美金，一盘大棋已开始](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=85WIVenh-CTeAhdFcPw9zphBbeNVSrsZpWi5FKhpdmtc8JBU-ZiZHQR3-xq4qi2VU00Lwf0ckBWNsE2hYxXw*cE3Es1f1k4LGrZoxFN5OT1YoFePMQfsaJha2YchYMz6&new=1)
+ > 来源：Wind金融终端 移动APP1月17日下午，任正非总裁在深圳总部接受了部分国内媒体的采访。这是继1月15日接受华尔街日报等6家海外媒体采访后，任正非近期第二次接受媒体公开采访。其围绕近期受外界关注的加拿大...
+ ## [重磅!中国电信市场部总经理王国权升任集团副总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=GmTZe-0xrJeQ4KhksoXzRIb09yNxzgbgGucI87Zu4b2utqZ5iH3lI1sLlvutSgW2ayJipfdCfXPTxWlh3u93KakjVyyCHyjWDisvjiXAya342TGkyQl4qQEB42vxTqzW&new=1)
+ > 日前，运营商世界网获悉，王国权在2018年底升任为中国电信集团副总经理，而他之前的职务是市场部总经理。王国权履历：1972年6月出生，1991年12月参加工作，中共党员，大学学历，硕士学位。2008年6月获得中国人民...
+ ## [AI泡沫已现?生物识别将迎来穿越周期的成长!](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=Vsght694bO8SFQs9lxZd5Up-zBOjVsqBbW8g-1c1o0U16qp1VyObkcf-bjxCX0lvE9PMJpK-Fw9qtvQB5Stbw6DNMgBPlr*GnLVL*Uas3rPSKT1C8pXrmJiYYK90Mmd5&new=1)
+ > 目前AI（人工智能）非常的火爆，除了一堆的“独角兽”，还有成百上千家中小型的AI初创企业，但是目前AI实际的应用和落地却并没有想象中那么的火热。目前AI可能是存在“泡沫”的，昨日华为创始人任正非在接受媒体...
+ ## [5倍速快速成长，浪潮存储是怎么做到的?](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=zsLJh6BTikIbFF8peO5usYmc6XTjeUUAy8LwsN8gmUQzn546uUe10T01xow7eMSNbJ-hZyQ2wD8Q5z0-Z0EYHlv1VkK14*ltGj1Ppoo938eFvNjQkpvx-QNnD4B6UAC3&new=1)
+ > 岁末年初，企业都要交出一年的成绩单，都说如今的经济形式不乐观，传统IT厂商被互联网企业无情碾压，按在地上摩擦，但是浪潮存储还是交出了一份让人满意的成绩单。浪潮存储“成绩单”从浪潮存储提交的这份成绩单...
+ ## [任正非回应一切：今天局面华为已经准备了十几年 预计五年后收入翻番](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=I0APfVQKpD8MOx1gk5t78WZGESHrYki8JCb9mtjqIZv*wKNo*GzWuVap3ClX8kJ6bh8KqrQPzHiYtonONwetdqsrn5OkPXXw27qR3COafI26Yqk-4w5krBtIz9XPWSg4&new=1)
+ > 【摘要】精读之后，我们选出任正非万字采访中20句最霸气外露的话，看任正非是怎样让全世界振聋发聩的。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文来源：C114通信网(C114-weixin），智东西（zhidxcom）杂...
+ ## [\[观察\]稳中求进，瞰筹未来，浪潮网络的三重跨越](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=UKL8W15OdpXKpe*1j23GXMzMG8JioLvyvQ7gAgODCoYsjbMaviNsmOJDGaA5GbC19lincChGE8kI8EpMZON7UOUQBBzTIzy-pHN5B-z8i0FknImMoWfq3x8aMXfarjR4&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！毫无疑问，在不断演进而且越来越复杂的数据中心构建和管理方面，我们都希望在网络层能够“抽丝剥茧”解决相应的问题，让数据中心网络真正实现敏捷、智能及安全，并能配合软件...
+ ## [商务部：中方希望科技发展成果可以全球共享](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=ttxf-moW6j8J8c2lImy2BFtGEG6LP-CYQksXE1OONKYSAh76veLfKrWTe*lMcyMphi43Vau1esNUNhtjRtwn4lxwj5XTSJ-IJhbuuVhf-eUkQiOM7HsqcPYTMiciJeOP&new=1)
  > 针对近期一些西方国家采取的一系列拒绝或限制购买中国高科技商品的行为，商务部新闻发言人高峰表示，中国科技的创新和发展，不是对世界的威胁，希望科技发展的成果可以全球共享。　　高峰在商务部当日召开的...
+ ## [致3D打印服务商：您入驻开店，我们来接单](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=GeZ1G8O--BwB60UoAJ0trkPr2InIOxyM40XkJ95qR-IVokU*aEhrJwhnbmO8jy8j-yh4VQEe2nTb5FEdBnW8-b1PAVo319qKy-jib*QVE1p0lTYq0Tu2zlkt7AtZUMbJ&new=1)
+ > 未知大陆(UNLANDS)是基于3D打印技术的数字制造云平台，我们为3D打印服务商、用户及其他生态企业，提供互联网基础设施、技术支持以及营销平台，让其可借助互联网的力量与用户和客户互动，核心业务包括三维智造、...
+ ## [任正非袒露华为“家底”，还原“孟晚舟事件”经过，同时这样评价特朗普…](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=ynd2y0Qv9BWCSV9mi5S-L88tn5wSfEj1JZgjyAH-DOn*rtQJzPWu843M28d8CyO*P6TjiDWxdzrs2h4bjALq4ol7ImFzBmrX0oCA1fbNsPddGi7QDHkW3t7b1TNg5SHr&new=1)
+ > （图/视觉中国）企业半径越大，越看不清，质疑越多。但质疑不等于有多大问题，质疑是前进过程中必然伴随的副产品《财经》记者 谢丽容/文  马克/编辑核心观点：1. 外部环境的变化对华为的实际影响不如外界判断的...
+ ## [不可想象的未来，机器狗将成为快递员](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=7t49IkHSs0JDicIlJYheoah3l15*mstAyEPxkuRxvD5Hk8mPCfKj8O5U9FvocrOJnQyyJhQEieXHqfj2okyQpJyXA4*DyYi0maCvo0tc7MfTpyzhR-xgxmsy7178uNZ8&new=1)
+ > 科技创新推动了社会的飞跃发展，如今，机器人已经从科幻电影走进现实，从工业生产线走到日常生活场景。随着机械技术的进步，为人类研发出各种机器人产品提供了可能，而人工智能、传感器、无线通讯等技术的发展，...
+ ## [旷视科技机器人战略解读：打造AIoT时代操作系统](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=DasB6o-TcSkw0ZHAhXZhnAY4-hK9Njt85VZZFMheqf6ZjVp-tBUJq0cDbSFF2bMeY-e6vTPR9vhOOJhxaWQJlFRGRtrlaeAcqcq96nT9K-sGTYxxONSmjZd5kHs7Qyuc&new=1)
+ > 文丨壹观察 宿艺旷视科技一直被外界与Face++划上等号，成立七年之后，这家以机器视觉而全球知名的AI“独角兽”企业决定“重新定义自己”。1月16日，旷视科技宣布了其机器人战略，其中两个关键信息成为业界关注重...
+ ## [英特尔及合作伙伴技术团队访问云创大数据](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=rYZ8Nw7LAk2kvWOhcEczmtK09jY9UAWB4Ccgil9gi1BwPR9OlQaDJotuUQzWnIL6eKaxoCHheHMSG8nOU7uU5sypfWugw5Pyk8sKamCiepBAagh2xBX-tCEFrRoWQNKN&new=1)
+ > 2019年1月17日，Intel（美商英特尔亚太科技有限公司）技术应用经理陈世旻、业务经理赖宜洵以及QNAP\[威联通科技（北京）有限公司\]总经理叶国盛等一行莅临云创，云创大数据总裁刘鹏教授、人工智能总监曹骝、项目总...
+ ## [「定制家具」如何生产?王自如带你一探究竟](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=B32sUE-Q5MLyRx17BMDV*Id7-Lvj9*PyD78VtM9-4L7t3wGuAhZSF8oMyZ2MTRp4AycWRUsS48tL56ttfVsiFnfe64SKq6KqUCNZGGBIrKSKIv-2Ojuvi0OHUk*FpIA1&new=1)
+ > 就在一个多月前，ZEALER 正式发布了智能家居科技第一家「NEXT NEST」。通过打造一体化的智能家居场景，共同构建未来家居生活的蓝图，同时也表达 ZEALER 对于未来生活的畅想和期待。而作为此次共同打造「NEXT NES...
+ ## [Facebook成立AR业务部门，巨头加速AR竞争](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=TqNXBgSbcGYoFbAECuknDPEyP5UHeVuHbzXdHdvJCoh9KpUTBnUSwTZB7atAvwgNmN4Cf0k8A-6kma2L1qSxNV5hPUiLNXi5z27yBqk5UpnPDjcXO5o6iI2smV29sTjl&new=1)
+ > hi188｜ 撰文1月18日消息，昨天我们刚刚了解到Facebook挖角了谷歌AR/VR团队的负责人Ryan Cairns，负责Portal部门，今天来看此消息后背还有更猛的料。根据Business Insider报道，Facebook内部
+ ## [深兰科技多功能AI公交车助力智能出行](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=0g6fxyZri3VQM5cHw9VNpTQXFV3MZQY2NmNubRaXBdVtpv*ZC9yu4YJXBbEN8-V5SXZVaiurUcUpLlv1NzOBnNagLdPeldYt9yxu1y0yY4-E6le0YoMInIp*HQ37X-94&new=1)
+ > 本文共1366字，阅读全文约需2.5分钟。1月18日，中国新一代人工智能未来发展峰会在上海国家会展中心举行，此次峰会由上海市经信委指导，召开关于人工智能行业发展的国际交流会议，多城政要与一带一路各国嘉宾共聚...
+ ## [刚刚，华为又被盯上了!被指窃取机器人技术，芯片或被禁售!](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=yTfJSkE5ZNxY*QoVnfzLfLjtC3NXqoLn92RHO1VTEBh0EY-vEkfAhdZ9wNUct2bvhao1kTTnJF4ySGFPeZXVZOX*-uxzX1dT719bLytDiDIceIouymOqtlTvLK5esbYP&new=1)
+ > 【导读】五年前华为与T-Mobile的一起诉讼案最近被美国联邦检查机构重新提起：华为被指窃取T-Mobile美国公司用于测试智能手机的技术。更严重的是，也有提案要求禁止向华为、中兴出口芯片等关键部件。华为又被盯上...
+ ## [任正非打破沉默接受采访：华为不会出现大问题，经常和女儿孟晚舟打电话讲笑话(附问答实录)](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=K9EK-gDqaKDuDyHIbVHP0ge29Ib*jAlacRRDo2VlkQRrycqMeQRgdwxbgrmPvTdhLLnOVH5uHPlJNjUKPmoLqMUuTYY-Ylvk3P5Z****ERSpZZmVEOIJILl4iSK6kn9g&new=1)
+ > 1月17日下午，任正非总裁在深圳总部接受了部分国内媒体的采访。这是继1月15日接受华尔街日报等6家海外媒体采访后，任正非近期第二次接受媒体公开采访。图片来源：图虫创意在此之前，任正非最近一次接受媒体采访...
+ ## [AI视觉时代 生物识别技术赋能智慧金融](http://mp.weixin.qq.com/s?src=11&timestamp=1547861406&ver=1317&signature=9mDj6SOm6-EyrDutRvSLKcPB7aShhGOugDT3Au3dQK4GAcJ0Q-CoY1KOHQj6Y7Hcl90BBF4TyK2LfteJDasVHGU98*8Bq7NT2mU70Gv4FMVf73nwJfUzUFGhEE3zmzFk&new=1)
+ > 近日，在大型科技综艺节目《智造将来》中，支付宝研发的刷脸神器首次亮相，在500位蒙面观众中成功找出目标任务。据悉，该神器在人脸识别的基础上，结合多模态识别，可以分辨同卵双胞胎等普通生物识别技术很难分...
  ## [做一名网红是怎样一种人生体验？](https://www.zhihu.com/question/38470736)
  > 网红在很多人看来，可能是一个标签但对于我们来说，它只是一份工作同样需要熬夜加班同样需要努力奋斗而且它需要我们变得更加强大去接纳别人的眼光去接受自己的“不一样”但还是很感谢这份工作，让我们去到了很多想去...
  ## [如何评价 Facebook 的 Jest 准备弃用 Flow？](https://www.zhihu.com/question/309395129)
  > DevDiv 又一个伟大胜利（说起 DevDiv 现在热门产品超级多啊，TS 和 VSCode 不说了，.NET Core 进展也不错
  ## [怎么看待知乎上很多回答都不看好创业？](https://www.zhihu.com/question/37559307)
  > 之前看过战国时代名将李牧的故事，在对付匈奴时候，他总是几年不出兵，赵王急，士兵也急。后来赵王觉得他胆小，干脆把他换了。接替这个位置的人一上来就打，结果一败涂地。赵王不得不重新启用杜牧，于是又是几年不出...
- ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
+ ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
+ > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [在校大学生 没有经验 相当网拍模特该怎么办？](https://www.zhihu.com/question/46638637)
  > 做网拍做了一年的老司机来强答一发 没做网拍时，我对于网络上的兼职全都是不相信的，尤其让你交钱的一律拉黑，但是我刚做时是室友带着做的网拍，也是交了299的会费，没有考虑会不会被骗什么的，因为我完全信任我室友...
  ## [你为什么从后端开发（JAVA/golang）转到大数据开发（Hadoop/Spark）？](https://www.zhihu.com/question/297875175)
  > 从语言的角度，spark hadoop 只是java/scala 的子集，就像docker 之于golang，我很少听说从k8s转到go。从市场的角度，大数据的概念已经不火，很多大厂的岗位叫算法工程师，更偏向算法，而不是工具的使用。我有个朋友...
- ## [某人意外去世后，家人如何知道他做了哪些互联网投资并拿回钱？](https://www.zhihu.com/question/25817086)
- > 写一份文档，里面写好所有信息，压缩加密。然后把加密的密码告诉家人。然后找个邮箱写一封邮件，附件是这个压缩文件，然后选择定时发送。如果十天不去取消一次的话就直接发到家人邮箱。这样你死后十天你家人就会收到...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 吴军老师的浪潮之巅，强力推荐。这本书很有兴趣的看完了，目前正在看无论老师的文明之光
  ## [如何评价晋江作者我想吃肉？](https://www.zhihu.com/question/53374588)
  > 物竞天择，蠢货该死。她借祁夬之口评谢麟的话“你聪明是有的，美貌也是有的，没有的是笼头。别人仗势欺人，你呢，好恃智逞凶。脸上写着‘蠢货该死’四个字的，就是你了。你该有个人，拿着鞭子天天抽着你，你才会老实...
- ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
- > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [2019年，国内互联网用户数趋于饱和。那么，新的增长机会将出现在哪里？](https://www.zhihu.com/question/308948067)
  > 概括：下半场的互联网，已经进入深挖用户和服务实体的阶段，未来，那些能够彻底掌控实体供应链的互联网企业，那些可以提升实体运营效率的互联网企业，以及那些可以促进实体之间协作效率的企业，一定是吃香的，一定会...
- ## [传智播客前端培训怎么样？](https://www.zhihu.com/question/40290522)
- > 企业做大以后没法规避的几个问题：1. 从一个民营企业到上市公司的跨进，不可避免的以追求利润为主导，这直接导致什么东西都是标准化，标准化的讲师和课件和标准化的学生管理方式，带来的直接后果就是讲师只会把另外一...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
- > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
- ## [2019年，国内互联网用户数趋于饱和。那么，新的增长机会将出现在哪里？](https://www.zhihu.com/question/308948067)
- > 概括：下半场的互联网，已经进入深挖用户和服务实体的阶段，未来，那些能够彻底掌控实体供应链的互联网企业，那些可以提升实体运营效率的互联网企业，以及那些可以促进实体之间协作效率的企业，一定是吃香的，一定会...
- ## [为什么刺激战场那么多机器人？](https://www.zhihu.com/question/267069389)
- > 正在和另一队对枪，你悄悄绕过去想偷袭，结果突然刷出来一个人机在附近一枪一枪打你。
+ ## [《守望先锋》里你见过什么尴尬的的最佳镜头？](https://www.zhihu.com/question/48622593)
+ > 都是我本人在美服打的。。。打阿三的时候。？？？给我激素？？？？？？为什么不排掉我的摄像头？？？？？？为什么DVA突然把自己的矩阵给取消了？？？？？？为什么头铁天使还在我摄像头下面复活人？？？然后更尴尬...
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
- ## [如何对付那些装逼的人？](https://www.zhihu.com/question/20210636)
- > 来吧
- ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
- > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
+ ## [传智播客前端培训怎么样？](https://www.zhihu.com/question/40290522)
+ > 企业做大以后没法规避的几个问题：1. 从一个民营企业到上市公司的跨进，不可避免的以追求利润为主导，这直接导致什么东西都是标准化，标准化的讲师和课件和标准化的学生管理方式，带来的直接后果就是讲师只会把另外一...
+ ## [如何评价B站UP主泽野螳螂？](https://www.zhihu.com/question/37369765)
+ > 2019.01.18 22:55~23:03 第一次修改增加了未上传部分。给原评论打了个码。原评论可去下面链接看。再次声明。转载恶俗百科!转载恶俗百科!转载恶俗百科!本人只是搬运工!!!!不是原作者。==============================...
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [谯鉴死了没有？](https://www.zhihu.com/question/47217358)
+ > 谯老板在去年这个时候应该还活着：我的黑客已经定位到你（名人名言）
+ ## [网络地址转换（NAT）技术是否拖慢了互联网发展？](https://www.zhihu.com/question/282820357)
+ > 本题目下面的答案可以说是乌烟瘴气。结论放前面，NAT技术没有拖慢“互联网产业”的发展，但今天无疑NAT对于“互联网（The Internet）”的进步还是有明显的阻碍的。答案下面无法区分互联网产业和互联网本身，...
+ ## [2019年，国内互联网用户数趋于饱和。那么，新的增长机会将出现在哪里？](https://www.zhihu.com/question/308948067)
+ > 概括：下半场的互联网，已经进入深挖用户和服务实体的阶段，未来，那些能够彻底掌控实体供应链的互联网企业，那些可以提升实体运营效率的互联网企业，以及那些可以促进实体之间协作效率的企业，一定是吃香的，一定会...
+ ## [长期泡在网吧的人生活是什么样子的？](https://www.zhihu.com/question/36720784)
+ > 大学同宿舍有个昼伏夜出的，爱玩传奇私服。我痛恨那种画面，觉得像一滩酒鬼呕吐物，所以不玩。这个人因长期作息不规律，内分泌紊乱，脸黝黑，颧骨突出，皮肤粗糙，长满痘子。他曾经拿出高中照片给我们看，看上去完全...
+ ## [为什么刺激战场那么多机器人？](https://www.zhihu.com/question/267069389)
+ > 正在和另一队对枪，你悄悄绕过去想偷袭，结果突然刷出来一个人机在附近一枪一枪打你。
 # IT 技术 
  ## [热点 | 我用Python告诉老大爷“啥是佩奇”](http://developer.51cto.com/art/201901/590791.htm)
  > 热点 | 我用Python告诉老大爷“啥是佩奇”
@@ -107,32 +107,32 @@ categories: IT NEWS
  > 吴恩达：创造 2030 万亿，这类程序员2019彻底崛起！BAT 大厂确认！
  ## [机器学习：完整机器学习项目流程，数据清洗](https://blog.csdn.net/weixin_41108334/article/details/86499638)
  > 机器学习：完整机器学习项目流程，数据清洗
- ## [网易Java程序员两轮面试，这些问题你能答对几个？](https://blog.csdn.net/pangziaichi/article/details/86499480)
- > 网易Java程序员两轮面试，这些问题你能答对几个？
- ## [一个五年 Android 开发者百度、阿里、聚美、映客的面试心经](https://blog.csdn.net/weixin_43901866/article/details/86499336)
- > 一个五年 Android 开发者百度、阿里、聚美、映客的面试心经
- ## [人工智能、机器学习、数据挖掘的区别](https://blog.csdn.net/QXAR123/article/details/86499533)
- > 人工智能、机器学习、数据挖掘的区别
- ## [机房收费系统之学生查看上机状态](https://blog.csdn.net/weixin_42957931/article/details/86528146)
- > 机房收费系统之学生查看上机状态
- ## [零基础学习C语言如何入门（内附工具书推荐+视频教程）](https://blog.csdn.net/wenpeng231/article/details/86528313)
- > 零基础学习C语言如何入门（内附工具书推荐+视频教程）
- ## [如何使用高程DEM建立三维地图模型（Arcgis ArcScene）](https://blog.csdn.net/www2111/article/details/86527994)
- > 如何使用高程DEM建立三维地图模型（Arcgis ArcScene）
- ## [iOS 抽奖轮盘效果实现思路](https://blog.csdn.net/qq_27501365/article/details/86528422)
- > iOS 抽奖轮盘效果实现思路
- ## [记录自己的一次thoughtworks的面试经历](https://blog.csdn.net/weixin_42537413/article/details/86528337)
- > 记录自己的一次thoughtworks的面试经历
- ## [Java互联网四大项目开发案例教学，阿里天猫核心技术首次公布！](https://blog.csdn.net/weixin_42784331/article/details/86499337)
- > Java互联网四大项目开发案例教学，阿里天猫核心技术首次公布！
- ## [特征点（角）检测与匹配，forstner corner detection](https://blog.csdn.net/weixin_44558898/article/details/86528428)
- > 特征点（角）检测与匹配，forstner corner detection
- ## [使用部分异常观测数据进行异常检测（翻译自 Anomaly Detection with Partially Observed Anomalies）](https://blog.csdn.net/wang_306/article/details/86528255)
- > 使用部分异常观测数据进行异常检测（翻译自 Anomaly Detection with Partially Observed Anomalies）
- ## [2018年个人总结](https://blog.csdn.net/weixin_41133233/article/details/86528168)
- > 2018年个人总结
- ## [TensorFlow object_detect 修改配置文件进行数据增强处理](https://blog.csdn.net/qq_26535271/article/details/86528115)
- > TensorFlow object_detect 修改配置文件进行数据增强处理
+ ## [mysql数据库三-----字符编码问题，](https://blog.csdn.net/qq_33322074/article/details/86499691)
+ > mysql数据库三-----字符编码问题，
+ ## [Linux系统中虚拟机安装教程（图形界面）](https://blog.csdn.net/qq_43298772/article/details/86499457)
+ > Linux系统中虚拟机安装教程（图形界面）
+ ## [kafka集群设置shell脚本一键启动和关闭](https://blog.csdn.net/OYziqing/article/details/86499561)
+ > kafka集群设置shell脚本一键启动和关闭
+ ## [Redis 集群相关问题](https://blog.csdn.net/weixin_41684022/article/details/86527918)
+ > Redis 集群相关问题
+ ## [【深度学习基础-17】非监督学习-Hierarchical clustering 层次聚类-python实现](https://blog.csdn.net/qq_15698613/article/details/86528227)
+ > 【深度学习基础-17】非监督学习-Hierarchical clustering 层次聚类-python实现
+ ## [python教程系列（三.8.2、ftp）](https://blog.csdn.net/cui130/article/details/86499597)
+ > python教程系列（三.8.2、ftp）
+ ## [微信小程序搜索分页功能实现](https://blog.csdn.net/mo3408/article/details/86527757)
+ > 微信小程序搜索分页功能实现
+ ## [DIY自己的bluerov（3）](https://blog.csdn.net/weixin_43072149/article/details/86499174)
+ > DIY自己的bluerov（3）
+ ## [一份不知道抄了多少个地方的spring log配置文件](https://blog.csdn.net/qq_32768743/article/details/86499534)
+ > 一份不知道抄了多少个地方的spring log配置文件
+ ## [SpringBoot学习之路（X5）- 整合JPA](https://blog.csdn.net/qq_36698956/article/details/86527286)
+ > SpringBoot学习之路（X5）- 整合JPA
+ ## [R语言统计入门第二章R语言环境——2.3R编程](https://blog.csdn.net/qq_38742877/article/details/86527724)
+ > R语言统计入门第二章R语言环境——2.3R编程
+ ## [web后端开发--PHP第一站：熟悉PHP及Apache的安装](https://blog.csdn.net/su_yi_song/article/details/86499560)
+ > web后端开发--PHP第一站：熟悉PHP及Apache的安装
+ ## [Android快速开发框架，基础库，样式库，组件化，组件集成](https://blog.csdn.net/weixin_44109213/article/details/86527417)
+ > Android快速开发框架，基础库，样式库，组件化，组件集成
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [CTO 职场解惑指南系列（一）](https://blog.csdn.net/csdnnews/article/details/86542174)
@@ -148,35 +148,37 @@ categories: IT NEWS
 # 人工智能 
  ## [吴恩达：创造 2030 万亿，这类程序员2019彻底崛起！BAT 大厂确认！](https://blog.csdn.net/CSDNedu/article/details/86523688)
  > 吴恩达：创造 2030 万亿，这类程序员2019彻底崛起！BAT 大厂确认！
- ## [论事务的特性与隔离级别](https://blog.csdn.net/weixin_41328649/article/details/85720052)
- > 论事务的特性与隔离级别
- ## [浅析安全测试](https://blog.csdn.net/gao2175/article/details/85682023)
- > 浅析安全测试
- ## [Spring Boot MyBatis 动态数据源切换、多数据源，读写分离](https://blog.csdn.net/u013360850/article/details/78861442)
- > Spring Boot MyBatis 动态数据源切换、多数据源，读写分离
- ## [人工智能 7.专家系统](https://blog.csdn.net/lagoon_lala/article/details/85137759)
- > 人工智能 7.专家系统
- ## [Consistent Hashing 一致性hash算法](https://blog.csdn.net/swpihchj/article/details/8567288)
- > Consistent Hashing 一致性hash算法
- ## [数据库学习总结（六）——查询练习题（1）](https://blog.csdn.net/qq_43501509/article/details/85957778)
- > 数据库学习总结（六）——查询练习题（1）
- ## [安全牛学习10](https://blog.csdn.net/c2289206/article/details/86498132)
- > 安全牛学习10
- ## [MySQL两种引擎MyIsam与InnoDB对比](https://blog.csdn.net/asleepysheep/article/details/86185275)
- > MySQL两种引擎MyIsam与InnoDB对比
- ## [为什么都说比特币很安全，安全在哪](https://blog.csdn.net/weixin_43838346/article/details/85701172)
- > 为什么都说比特币很安全，安全在哪
- ## [Qt：可扩展对话框的实现](https://blog.csdn.net/rl529014/article/details/51590317)
- > Qt：可扩展对话框的实现
- ## [1人工智能基础知识](https://blog.csdn.net/bingdianone/article/details/85991406)
- > 1人工智能基础知识
- ## [人工智能导论](https://blog.csdn.net/pfl_327/article/details/86221280)
- > 人工智能导论
- ## [史上最好的LDA(线性判别分析)教程](https://blog.csdn.net/jnulzl/article/details/49894041)
- > 史上最好的LDA(线性判别分析)教程
- ## [ArcGIS VS QGIS——两者之间的27点比较上篇（译）](https://blog.csdn.net/hanminaaa/article/details/52534666)
- > ArcGIS VS QGIS——两者之间的27点比较上篇（译）
+ ## [网络环境和项目环境](https://blog.csdn.net/PyTtCcMm/article/details/85706524)
+ > 网络环境和项目环境
+ ## [Linux 运维常用记录](https://blog.csdn.net/qq_35331140/article/details/86478368)
+ > Linux 运维常用记录
+ ## [JAVA和Tomcat运维整理](https://blog.csdn.net/weixin_36171533/article/details/86496038)
+ > JAVA和Tomcat运维整理
+ ## [运维基础知识总结（文件管理、权限）](https://blog.csdn.net/weixin_44304424/article/details/85397924)
+ > 运维基础知识总结（文件管理、权限）
+ ## [kubernetes运维笔记](https://blog.csdn.net/qq_38663077/article/details/86480305)
+ > kubernetes运维笔记
+ ## [物联网知识点](https://blog.csdn.net/qq_40526911/article/details/86137397)
+ > 物联网知识点
+ ## [支付宝支付-扫码支付详解](https://blog.csdn.net/zyw_java/article/details/71437269)
+ > 支付宝支付-扫码支付详解
+ ## [php7 mongoDB 封装 支持多库链接配置 简单易用](https://blog.csdn.net/color_wind/article/details/52008674)
+ > php7 mongoDB 封装 支持多库链接配置 简单易用
+ ## [jquery/js实现一个网页同时调用多个倒计时(最新的)](https://blog.csdn.net/wuchengzeng/article/details/50037611)
+ > jquery/js实现一个网页同时调用多个倒计时(最新的)
+ ## [Wireshark抓取网易音乐的下载地址](https://blog.csdn.net/leekwen/article/details/78870526)
+ > Wireshark抓取网易音乐的下载地址
+ ## [区块链参考资源, 雷达 & 信号处理](https://blog.csdn.net/antkillerfarm/article/details/85987183)
+ > 区块链参考资源, 雷达 &amp; 信号处理
+ ## [ubuntu MQTT 物联网协议](https://blog.csdn.net/weixin_42627035/article/details/84995862)
+ > ubuntu MQTT 物联网协议
+ ## [Java设计模式14——中介者(Mediator)模式](https://blog.csdn.net/xu__cg/article/details/53133134)
+ > Java设计模式14——中介者(Mediator)模式
+ ## [区块链的什么和DAG的由来](https://blog.csdn.net/weixin_44172023/article/details/85774331)
+ > 区块链的什么和DAG的由来
 # PM 
+ ## [王欣像一只鸵鸟：奔跑，跌倒，奔跑](http://www.woshipm.com/it/1855939.html)
+ > 王欣回归了，从成立新公司，再到开发布会，发布新产品马桶MT，前后不到一年时间，这重头起步的第一枪为何打得如此仓促？2015年春末，王欣在给妻子的信中写道：五月份...
  ## [线上课程｜为什么很多公司年底轻易不招人？](http://www.woshipm.com/active/1855501.html)
  > 1月到年前的这段时间，很多公司都不会轻易招人。年底招人企业有什么顾虑？企业年底招人，有以下几种顾虑：1月、2月都沉浸在过年的氛围中，虽然只有7天的法定假日，但...
  ## [产品是越做越慢的](http://www.chanpin100.com/article/106313)
