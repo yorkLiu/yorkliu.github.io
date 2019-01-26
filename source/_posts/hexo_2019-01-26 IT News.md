@@ -1,51 +1,51 @@
 ---
 title: 2019-01-26 IT News
 copyright: true
-date: 2019-01-26 08:01:30
+date: 2019-01-26 09:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [直播课消灭教育鸿沟?戴尔黑科技想做更多改变](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=fKR5SdXxe*LGNiSimp42SzCGYGtuCUWMLWyQfH3b6ahgPf5sLd5M*1CVhIXOIGrekR7JNOtmcrMH*3xfHOGqMVaOPttDbWjy6LLThs18csB4rmnpeu-3lwCdnb7dOJRt&new=1)
- > 教育，是中国人异常关心的永恒话题。随着社会的发展和科技的进步，如今的教育产业诞生了很多问题和机遇。一方面，教育资源不公的矛盾凸显；另一方面，数字化技术已经开始悄然改变千千万万个学生的命运。课程枯燥...
- ## [全面了解产业现状和技术趋势，中国信通院发布VR/AR白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=JzY4jro1TCmGsV2eaZ9HhPo9hOjHQZQ6EckFsxAsSxJi2PzU13-dqec0Y7fdPd-9uvcPRnx3x3t1VxtGL-0QucZmAxA6uD3P0e8A6Jo6aCgUHqmJMOzB7aADSpRY*2Jz&new=1)
- > 小青｜ 撰文近日，中国信通院联合华为、BOE一同发布了《虚拟（增强）现实白皮书（2018）》，我们从中来看看值得关注的点进行汇总。本文信息来自：中国信息通信研究院这份白皮书从发展背景、关键技术趋势、产业发...
- ## [引渡孟晚舟才3天，华为反击震撼世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=YEwXnBUYdsMC7k3D2YhnGMVo2U6vbZSGguBOQA*In67pTVGxu*mqyoIJqbVUMYvJ9KC-RIwT9zWlmrtmM*eESq0Nnfk1HqgE3vZxHrFGVEC8lNda6OTX6epyi3NpuUzE&new=1)
+ ## [南京市六合区原副区长焦晓英一行莅临云创](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=b8FEsA*A5qDunRORmfnJA6buSnXbiwv6ZMbrb7T1HeJYOkFUuPk2uaQ-Ab9-Gy2An2NnvTVU1nmfZLhjidkWMhIDHR1AmAR2PV10anvOpTasNRCbLWn*YzVcl7soz10Q&new=1)
+ > 2019年1月25日上午，南京市六合区原副区长焦晓英一行莅临云创参观交流，云创大数据总裁刘鹏教授、市场经理张伟以及市场经理程沛沛共同接待了来宾，白下高新园区管委会产业处副处长陶蓉随同莅临。在双方交流座谈...
+ ## [安防机器人的研究意义重大](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=3I9Cfy6Gqp5sxnHQS5-1o2fQlxf*plyBZlwqvWZVOrsdM7jycQnFT3Gv1EFE*bhb0p-IXf2CL*2dcDvOsvd52rEZKyQlfT6BJ0ASbDre6r2wERTeEiOTuSnBklgJSPUJ&new=1)
+ > 机器人技术一直以来都是人类高度重视的研究领域，它作为将来最具有研究和发展价值的技术将被广泛应用于各种高新产业。最近几年，机器人越来越智能化，究其原因还是由于一系列新兴技术的发展，主要包括云计算、人...
+ ## [引渡孟晚舟才3天，华为反击震撼世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=YEwXnBUYdsMC7k3D2YhnGMVo2U6vbZSGguBOQA*In67Oo9eG7PvlG2h-BVxVIxlj0P0GDsAkS191X5e7FQp5ocCIA3P7U*NiAJUn0Uc4zUICuYW2aJfDwF2ehPnBn5xJ&new=1)
  > 前瞻网公众号ID：qianzhanw关注来源：财经要参作者：要参君1行到水穷处，坐看云起时！三天之前，华为孟晚舟迎来了她最艰难的时刻：加拿大媒体爆出，美国已向加拿大提出引渡申请，美国司法部也予以了证实。三天之...
- ## [Imperva：2019年网络安全趋势展望](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=OMM2N0iUpX4Yupl4M1slcM-abanbu*2fjB-Gt4LIGdeykp1rv7W*hwbRWlp7PtgjcnJkE2S4LtLJpVUflbBD1lRFA3KB0cmduaN3vToTiMpR5E-WavhDBvHXUlyGdZly&new=1)
- > 关键讯息，D1时间送达！基于详实数据的网络安全趋势分析即将过去的2018年是令人兴奋的一年，我们对这一年里的成果进行了盘点，并对即将到来的2019年进行了展望。充分利用我司团队在数据与应用安全领域的专业技术...
- ## [1.25 VR扫描：GDC 2019调查报告公布；《Titanic VR》开发商宣布去年营收达70万欧元](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=1Yx7a6kx6lziHS69Ia18jb3r0a998Mszz18P0W-cGoY-ixQUBVKk6l1CH2M*Dl0Ng5QT*MHyMp1P23fUbjDYnECuRu4mOAfg-bsFifgmjSQj4JnpmoSh*GsJm0*0dHLH&new=1)
- > GDC 2019调查报告：仅有17%开发者正在研发VR游戏  GDC 2019大会将在3月举行，举办方UBM于近日公布了其最新版《游戏行业调查报告》。在被调查的4000多名游戏开发者中，17%的开发者表示其正在为VR头显开发游戏，7%...
- ## [5G再创新举!全球首次“5G+VR”冰球全景直播来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=dnr0Pxh4kp6*dpD9ip0MeTDwP-hxzlWiUDVwQEJKzJEznmu0YM5wOJdNCxbvuT5suavTVBQmDYJPAGZ6zTltogLm4W-1IOEczMKVkXzOcTnn432YUYH-rF2Rx9UrYy4H&new=1)
- > 近日，在首钢园区举行的“2019中芬冬季运动年”开幕式上，北京联通联合中国联通网络技术研究院、星云环影等多方合作伙伴，基于5G网络，在冬奥组委展示厅实现“5G+8K”视频回传国家速滑馆建设实况后，又在冰...
- ## [5G快来吧，我受不了4G了](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=4JJ2Zch8FXSaIQwD89YQ9WPATpoFAZS*88WTy4pTY9A8wFOjLHIXHP3CsImUVbJ5TgUdFTJ1q0rE2R56krSJOO4au3-YCz28Q9aUAA1vLG*CNAzNz5AuWaitz4zzrVfR&new=1)
- > 在通讯技术高度发达的时代，即便置身于凌乱的密闭空间，却可以触摸到虚拟世界。“这就是绿洲，在这个地方只有想不到的，没有做不到的。你可以做任何事，去任何地方，比如度假星球，在50英尺高的浪尖上冲浪、从金...
- ## [苹果三星被逼上绝路!刚刚，华为宣布：全球首款5G手机下月上市!](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=kaSTMz4Ycvm56gEdVFlXqcK4fNAFlBdCPlT1BCj8scczwYojm5IkmADCUUUbv1xdgQDU8KQQctSxdNgYapCkpVvOXpgEYQG34dHchCzpDZjdpbktuXBDcZToBOiq1DxD&new=1)
- > 来源：电商头条（️️ ID：ecxinwen）中华有为，在新的赛道打败苹果，华为做到了！ 01重磅发布，华为正式打响5G之战 言必信行必果的华为，让所有对手不寒而栗。 前脚，任正非刚在央视采访中宣布：“全世界能做5G...
- ## [对100个中国政府网站发起攻击的到底是不是个野鸡组织?](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=fGZZeQqG5WrbKmsQfEoJ9yZz-foP04p82RdAnc8v*ayNg2MG8JhbbTcc8bXqQ2e8EuamxeJtqKiofM9-eoFkF8GPcS2kCLURNDHzY0gIAmWqT1GAcRqpK2-4DymF2vcq&new=1)
- > 1 月 24 日，某安全公司在其公众号上表示，发现“匿名者”组织通过 YouTube 发布视频，称将于 2 月 13 日针对中国政府网站采取行动，还嚣张地留下了 100 个中国政府网站的网址。YouTube视频地址：https://www.
- ## [Windows平台漏洞数创历史之最 Win10受影响最大](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=rahs*SeZVp4dizyRKvIHKaL368Es6iwmpPbaqSJwA2k8DgdIXRmi0XzKvBNNuUFjIvg80JpJr8Pl99JsJ6sL7cfxj9mjs*ANsTHUytHqtMm3dbUq*WuHImj2MQj*wR2l&new=1)
- > 整个2018年，国内先后爆发多起Windows平台漏洞安全事件，无论是因特尔芯片被爆出存在“熔断”和“幽灵”两大漏洞危机，还是“震网三代”漏洞被利用对政企单位进行网络攻击，抑或利用安全漏洞引发前所未有的“412...
- ## [2019年之物联网科技预测](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=nzmeCu9gdCDVd2AJutaZCllOZkFd2PGgJ-kj3Qmn4XOoNPO3-rt3pp1wLIua-*R*aWH6SJ4PveRp9ZoY*PU2gCEqs4dsgCaM70zvSZavgIkCjNi13dnLpBtv4ggySoxf&new=1)
- > 21CTO导读：2018年年底有不少关于物联网(IoT)的预测报告，Arm跟上这波风潮，发布了2019年的物联网产业预测。不仅如此，该公司还透过消费者调查，以了解终端使用者对于物联网、机器学习、人工智慧(AI)和5G的看法...
- ## [讨论：我想找个软件，能在 Win 和 iOS 间互传照片、链接、文件(微信QQ除外)](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=RA9mu0dK1bdpkM1SQtzbIyoWHFRnQNS3tBh8BpxpznvkONj0YLa4RD9Jnvv9auELalyYfvH*7CrhPtrW2thVKm7By4chENRDz34klxlq93HXaNQbZW2IfxHVMpQx-IWP&new=1)
- > 来自微博的问题：我想找个软件，能在 Win 和 iOS 间互传照片、链接、文件。（微信 QQ 除外）这是一个非常常见的问题，相信很多人都遇到过这个困扰，而最简单的解决方案就是使用手上已有的工具，比如微信、QQ… ...
- ## [新东方年会版《沙漠骆驼》爆红；小米回应关于折叠手机造假质疑；苹果自动驾驶汽车项目再次裁员；微软必应搜索完全恢复正常](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=U7nxMN6NWmrLDWtjnH6OGMqhZkfXfleFaDwOlPvk3MYFg*hL-TTSRsnPCohT60zajY4wmdxMi8OqoKZOTmew-oEfSm1jPhMU5Qs3ewgbQ0E5bnyDjloSpdtEX*7ugjs-&new=1)
- >  新东方年会版《沙漠骆驼》爆红 近日，新东方教育集团年会上的一曲改编版《沙漠骆驼》在网络爆红，因为生动表现大企业弊病得到了众多大V转发、点赞，并引发热烈讨论。这曲名为《释放自我（东方有戏精2.0）》，...
- ## [金属3D打印系统制造商Desktop Metal再获1.6亿美元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=sP39VR1l8LXeUc5J7E33ftdTPxmjr2HTV-oaUpazurUcn-3cDJJZw75fPlB3KBcGfY4bC6W8m4U*bcrO6z6eV3gqEeGrNK33jMHo01TH8imuUcFYguqN42n10cBp5XzA&new=1)
- > Desktop Metal是一家商业和工业用3D金属打印系统制造商，已经筹集了由Koch Disruptive Technologies（KDT）领导的1.6亿美元新资金，以推动其金属3D打印技术的全球商业化。自2015年成立以来的融资现已
- ## [千姿百态，风味映泰，以坚持，赢未来!——映泰2018年年终总结片](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=F5TyYO1jcepSjHc34uFMuGBKwY79WuTUwLU4wWK3D9oR3lVdldLnZUDBQi3dVGFWhgvlUbSEr*43-01TAzinbrSrb97dFt5gFo6U-IUPeI513CHgRGEarkZIOutPpMGv&new=1)
- > 2018年，映泰坚持初心，不断为用户提供更为专业的服务，更符合用户需求的产品，更具性价比的电竞装备矩阵。同时，继续支持电竞事业发展，用实际行动赞助多项电竞赛事。千姿百态，风味映泰 ，不变的是映泰数十年...
- ## [NEWS|2018年新大陆集团大事回顾(六)荣誉资质篇](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=qBatK12gyOVcUGnvKklMEofQ*2u0G*saB2htv9tFIN6NGi2RH36trdxWp5fGUukKKLuzlOuYpcyGjKpUTYoHUGILm8gwQszL2WBoHDuO4-YiRFRkfxBGlmAxHsb8AoWu&new=1)
- > 新大陆科技集团第16次荣登中国软件业务收入百强，较去年上升8位新大陆科技集团首次参评《中国500最具价值品牌》成功登榜新大陆科技集团首次参评2018中国软件百强榜，荣登第40位新大陆科技集团首次参评“中国电子...
- ## [关于5G与AI，华为常务董事丁耘都聊了哪些干货?](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=PZUGyaI89LcWxuA1BekhLZg18Hj3BC6olRumB2AbYZiYaIVIJRQd*15s3O4LR0SuFwuB1Fw-xh0-iGN*6PrZIQv37rELD5cvSw*WOMojRdJ-t6LDD2eq*jvd0wbKGwm-&new=1)
+ ## [商汤科技：AR生态繁荣的新引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=fi80J84nqLz4fHfKmQE6dbCpZGLVBvvZqc*5ND7UtLXo9xkf5Z7sUoa6aEC7vrtEMkmtZXC8XNFz4fD6mp*Rz4i7BedDrJgC*oGoJCfWGiuSenFEHV4I2q3stNaqnJ9h&new=1)
+ > 2018年年初，虚拟现实风投联盟（VRVCA）发布了《VR/AR全球投资回顾与2018年展望报告》，其预测2018年移动AR或将兴起，并于社交、游戏等领域率先起航，3D建模等前沿技术也将迎来新的发展阶段。 2018年已过，移动A...
+ ## [三大运营商12月运营数据大比拼 它竟然成为去年最大赢家?](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=5TMjHav-IcQN5mfaYs13QQHnO4qOXQmo6dxdytFZ3KU-34YX9cXp-nv9LSs6BCZR8ENZss7SFjFKkby71FEne9hQDpm6kgXfc4y2GRU0WYJMzq89AAfGHfeT3k*teeKT&new=1)
+ > 运营商财经网 廖有利/文近日，三大运营商2018年成绩单出炉。从数据可以看出，中国移动总用户和宽带用户人数均超过中国电信级中国联通，呈现一家独大的局面，但其他两家的表现也不差。中国移动稳坐老大位置 总用...
+ ## [从0做到1，深入解读华为如何将5G放进手机](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=ILwXHXZUrpHds6ZtI1IaNVfLElUltuwG6Clk52dvC33L7XE6LN3d6iLAu2BhUMytTpLkxtGLBkLAL3UEvFk536UuxAh80ICK9p*MKnn7M0DkjVKm-zGvOEYMP1oZlnql&new=1)
+ > 5G终于要落地生活了，从5G网络到5G手机，这其实是挑战更为艰巨的一步。1月24日，华为不仅正式面向全球发布了5G多模终端芯片——Balong 5000（巴龙5000）和基于该芯片的首款5G商用终端——华为5G CPE Pro，而且发...
+ ## [关于5G与AI，华为常务董事丁耘都聊了哪些干货?](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=PZUGyaI89LcWxuA1BekhLZg18Hj3BC6olRumB2AbYZjwldkb65dEyVbgpJ382*vjdZKayrqrJ16L1SG-L0hl9CybL3CbH3sYeaQXkUQJ-FsmKrUlX88fKfG5Wp1Bhc*F&new=1)
  > 丁 耘华为常务董事运营商BG总裁如果说4G改变了生活，那么5G将会让生活更美好。1月24日，在华为5G发布会暨2019MWC预沟通会上，华为常务董事、运营商BG总裁丁耘发布了全球首款5G基站核心芯片——华为天罡。丁耘还...
- ## [今日头条接盘锤子科技，张一鸣圈地教育野心不小](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=sQYpdusxAmsX32s*UABqaT8XB3T6gIsblSZ*KprmDcFUHH7pcJWanCX2HXgqiSVtngowyfik2z1GCtZHA7vVTETsXXaJnBaKjMeWsAKCA4Gzpz9F571F*c5RZ3Jwit9o&new=1)
- > ABOUTBEAUTY关于研究君每天精选深度互联网业内文章、收集最新互联网业界资讯、移动互联网报道、研究、服务为己任的第三方行业研究机构。1月22日消息，锤子科技的“接盘侠”终于出现了。据锤子科技内部人士透露，...
- ## [闻泰科技发布业绩预告：全年营收创历史最高!](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=Ym6U9tyoFKJ5EZwj8AM1KmYpdGxSJdR*qWZyWK5aQ9m5mJnMl8hpliLgwJYC6gPOGNt4L1dM-yUbVpBKJHPvWEgC9ZCqqHq6Qbf0IDKHkxVLRlxb*Mb41*Zclf4VhD3j&new=1)
- > 1月25日，闻泰科技发布了2018年的业绩预告。根据公告显示，闻泰科技对于2018年的业绩预计为0.55亿元到0.80亿元，同比大幅减少75.68%到83.28%。不过值得注意的是，在营收方面，闻泰科技第三季度营收超过55.8亿元...
- ## [一文教会你快速选型FPGA芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1548459006&ver=1389&signature=50TeasjAmRx7llIX6z8x2uGrJSzUMOXEOqsJWRPWBX2uJEHTJKM3*lVRYKASVumVYnAFEStjOfMHowSLwdnDJE8dtoduUgxp4fml3kSw5K8WRGgLShOSoHcfUuETMw2J&new=1)
- > 如果你在采用FPGA的电路板设计方面的经验很有限或根本没有，那么在新的项目中使用FPGA的前景就十分堪忧——特别是如果FPGA是一个有1000个引脚的大块头。阅读本文将有助于你的FPGA选型和设计过程，并且有助于你规...
+ ## [拼多多市值超越京东丨西瓜视频被App Store下架\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=zYTJwrDE3w*ANXz3u4DdNR5Bw9n*cXYLyw8DEnqlvc2utth9l10Ts204nowoA-xe3SdpgdmW2BDhA*IGU17GESssiDbA8phNMiWbywppmXuZb5VUwy1h-bsBgRGLxkKy&new=1)
+ > 1月25日周五【Do说】编辑 | 李尧拼多多市值报318.38亿美元，超越京东拼多多市值报318.38亿美元，超过京东313.51亿的市值。此前拼多多股价大涨。截至收盘时，拼多多股价收于28.74美元，上涨2.07美元，涨幅达7.76%...
+ ## [全面了解产业现状和技术趋势，中国信通院发布VR/AR白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=JzY4jro1TCmGsV2eaZ9HhPo9hOjHQZQ6EckFsxAsSxIlgm4mMXYVzxCu2lMGjaLo7BynV7uuWyy1AgnOvEU0bws9VdccJfSBtcKpKQ082w8i6BTpCZJFGcMaIxyIwQve&new=1)
+ > 小青｜ 撰文近日，中国信通院联合华为、BOE一同发布了《虚拟（增强）现实白皮书（2018）》，我们从中来看看值得关注的点进行汇总。本文信息来自：中国信息通信研究院这份白皮书从发展背景、关键技术趋势、产业发...
+ ## [新东方年会版《沙漠骆驼》爆红；小米回应关于折叠手机造假质疑；苹果自动驾驶汽车项目再次裁员；微软必应搜索完全恢复正常](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=U7nxMN6NWmrLDWtjnH6OGMqhZkfXfleFaDwOlPvk3MbJqWn-zCkbseoKWchQxIOJQLuEdir0ylY9Hk2eES-qYm4y9qwrUr99UvuLNcCGrMMVzyZ0DkHwbtJkkMnr6WTc&new=1)
+ >  新东方年会版《沙漠骆驼》爆红 近日，新东方教育集团年会上的一曲改编版《沙漠骆驼》在网络爆红，因为生动表现大企业弊病得到了众多大V转发、点赞，并引发热烈讨论。这曲名为《释放自我（东方有戏精2.0）》，...
+ ## [电信5G信号覆盖上海两会 代表委员“首尝”双千兆上网](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=MVGUfyjzmwjEdrfDVv3mKp4sI7cTAW5Ob4XVHXKKiP4YIawJ1EE5*Cs2PVUJO7VXQZgsf7Nad0*x6uO*hZ7xDbtpauznW-juZXF1FoOgcOK*WWDnZ38SY-fm2G2N6uOr&new=1)
+ > 近了，近了，更近了！时针进入2019年，5G的脚步声已清晰可闻。1月10日，工业和信息化部党组书记、部长苗圩发出明确信号：今年将在若干城市发放5G临时牌照。上海，无疑是最有可能拿牌的城市之一。1月25日，中国电...
+ ## [扫码免费试学 厦门游仁VR学车训练系统登陆福州软件园](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=VbZwKFG-V5MhG0a*EIn*HqZHjNeqadcbFC*JejsTbkkyYQpoOJBYWnGXNFTXybFI3UcjmJIW01iozF54Ddxdlx0iQhMnqx*66bZ7viiQjJiHO6CCubJt4-Na9o*UAB-f&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱（原创）当前会开车已经成了一项必备的社会技能，学车考驾照的人是越来越多，每到寒暑假便掀起了一股股的“学车热”。...
+ ## [专访 Vincent：ADI 在汽车领域布局是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=rQtjlZ7M*VPGhpX8EKJv3KEDrAe5opqjinRZRujY8MceU1pZJV5wJkoJDPWKky7zb0--dFLc-21bCSFTzcxWagZvKK4ECjthstIFpGAb9it26wkzpxuVfK*jX5n*BGL9&new=1)
+ > 汽车电气化为半导体厂商带来了新的机会。近几年全球模拟 IC 市场保持一种增长趋势，汽车电气化更是带来了新的机会，ADAS、车载信息、通信模块等方面对电子技术需求越来越多。抓住这波机会就显得很重要，于是众多...
+ ## [Windows平台漏洞数创历史之最 Win10受影响最大](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=rahs*SeZVp4dizyRKvIHKaL368Es6iwmpPbaqSJwA2kdMh*hdqHLitw-yZqi5Kj45dhgbH2jQAuxPhqARcjC5LmZ6AEYXH0vqEMC0APenpnbcrtg3avEJHk-BVa3YuK9&new=1)
+ > 整个2018年，国内先后爆发多起Windows平台漏洞安全事件，无论是因特尔芯片被爆出存在“熔断”和“幽灵”两大漏洞危机，还是“震网三代”漏洞被利用对政企单位进行网络攻击，抑或利用安全漏洞引发前所未有的“412...
+ ## [讨论：我想找个软件，能在 Win 和 iOS 间互传照片、链接、文件(微信QQ除外)](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=RA9mu0dK1bdpkM1SQtzbIyoWHFRnQNS3tBh8Bpxpznt1g*wODaSf6sm9CVz2Lx9hMo1swqNYPEvIgDrQegGK6pPydNGEA26a075OMPWBb5USGBqcNKAQ*RwgVjODKyUo&new=1)
+ > 来自微博的问题：我想找个软件，能在 Win 和 iOS 间互传照片、链接、文件。（微信 QQ 除外）这是一个非常常见的问题，相信很多人都遇到过这个困扰，而最简单的解决方案就是使用手上已有的工具，比如微信、QQ… ...
+ ## [真5G折叠屏手机，华为下个月要在MWC搞个大事情](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=IHwnAKbfkhAyXf3B4GWT52ApvNpSVHjj6nuvEqt9i3XFridk-HXfrMSOa0VsF0A6aiavYClXUeu31RuWLK0S5d*3XRlumM1SZ9ZK4c9*xSsRcc5SVdGlyxppuBI*Qbd-&new=1)
+ > 华为要搞事了！是这样的，昨天早上华为非常低调地开了一场发布会，低调到……微博上基本没有看到谁讨论。机哥闲着没事，搬了小板凳认真看了全程。你猜怎么着……虽然没有发布手机，但这场发布会的分量可能比旗舰...
+ ## [对100个中国政府网站发起攻击的到底是不是个野鸡组织?](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=fGZZeQqG5WrbKmsQfEoJ9yZz-foP04p82RdAnc8v*axuOXncsxrmPYzGpY5oD0cg7TmR9IRr-cizTOTgdHGWWLpxNP69M6imHCktnHp0vV2aK7uHglP6IgH2sun74q*J&new=1)
+ > 1 月 24 日，某安全公司在其公众号上表示，发现“匿名者”组织通过 YouTube 发布视频，称将于 2 月 13 日针对中国政府网站采取行动，还嚣张地留下了 100 个中国政府网站的网址。YouTube视频地址：https://www.
+ ## [AI语音助手的正确打开方式](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=o*Xcjx*AfpVeT8MKEW-qtl8IsaaPneGNxpqRvJFq9AipBl3GTtFKGzFz6vh*lH0ai4sg*oBTl8wsBn0JOh2kR-KtB3tVsQPf9g5tyK7wgZVbHZkTqxNBFzpXxzqBTkte&new=1)
+ > 还在用语音助手接打电话、播放音乐、回答问题吗？由语音助手演变而来的智能显示器已经悄悄地进入了我们的生活，并为我们带来了更加方便快捷的生活体验！接下来，让我们一起来看看，智能显示器到底带来了哪些新奇...
+ ## [美国将引渡孟晚舟之后，刚刚传来一个大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=To7chEPoAbhSwoupg0CgDQEeAwIUdKLdBQsIPqzR38MZY0XNJBnpSQ6SjoNTGDeYcOpCzU-5FTHvMLvrcfoh1mA2ztm*c1Hjze6MW0yQboBFwstOvaMivDePydqIWiPJ&new=1)
+ > 1昨天传来一个消息：美国将向加拿大正式提出引渡孟晚舟！华为当天做出回应：1：华为遵守业务所在国的所有适用法律法规，包括联合国、美国和欧盟适用的出口管制和制裁法律法规。2：华为希望美国和加拿大政府能早...
+ ## [金属3D打印系统制造商Desktop Metal再获1.6亿美元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1548462606&ver=1389&signature=sP39VR1l8LXeUc5J7E33ftdTPxmjr2HTV-oaUpazurUKcXeXLkl1oxydekIK61ze1rON1EodfmBevoJrZnw-Gxp5VE*WkB8DHNofj5a-UR-Iz7LVLQ*aYKPTugInyoVa&new=1)
+ > Desktop Metal是一家商业和工业用3D金属打印系统制造商，已经筹集了由Koch Disruptive Technologies（KDT）领导的1.6亿美元新资金，以推动其金属3D打印技术的全球商业化。自2015年成立以来的融资现已
  ## [外国人如何评价杨超越？](https://www.zhihu.com/question/310151646)
  > 知道国外有各种动物保护协会吗？杨超越有迫害可爱野生动物的黑料，只要村民把杨超越欺压可爱的老鼠的视频扔到推特和脸书上去，一定会遭到外国动物保护者的谴责。什么？你说老鼠不算？不知道在国外，老鼠是正面人物吗...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
@@ -62,8 +62,14 @@ categories: IT NEWS
  > 分享一些我经常找数据的网站。有些网站有现成的数据，有些还是需要自己爬，文末附上爬取数据的方法。既然是数据，那就是最好能拿到一手的数据，而不是看别人做好的图（前面有回答推荐的一些搜索引擎、直接发布分析结...
  ## [传智播客前端培训怎么样？](https://www.zhihu.com/question/40290522)
  > 企业做大以后没法规避的几个问题：1. 从一个民营企业到上市公司的跨进，不可避免的以追求利润为主导，这直接导致什么东西都是标准化，标准化的讲师和课件和标准化的学生管理方式，带来的直接后果就是讲师只会把另外一...
+ ## [当年盗了马化腾QQ的黑客，后来怎么样了？](https://www.zhihu.com/question/282310269)
+ > 之后他干了大事业 赚了xxx 然后……他早就移民了 移民后又回来了 前几年见过面 送了几条烟 不好评价不说了 自己去体会
+ ## [后端同学是不是比前端同学理解业务更快？](https://www.zhihu.com/question/309488771)
+ > 不是的。有这么一个段子，某人为了加快自己工作效率，花了1晚上写了个shell小脚本。PM过来一看，说，不错啊，搞个界面让其他同事也方便一下。于是乎，某人又花了3晚上写了个简易界面。又过了一段时间，隔壁的PM也...
  ## [如何看待软件修改大神zd423诈骗网民钱财、卖网站双重跑路？](https://www.zhihu.com/question/57477393)
  > 先提供我知道的事情，大家自行判断吧。2013年的时候，那个时候大家都用某良心KB软件看片，这个软件首屏幕有个叫风向标的搜索，某人找到我让将这个风向标改掉里面的链接，由于我不会SWF的反汇编，并且之前听zd42...
+ ## [如果百度死了，谁当立？](https://www.zhihu.com/question/309998298)
+ > 幸亏之前有保存 果然被知乎删除掉了，被一些别有用心之人举报了，可能我言语中存在一些过激行为，但是这个不能否认那些恶意举报掉我的人她们心中的肮脏的想法（国内没有当地的搜索引擎 没有 一个都没有 谷歌回不来的...
  ## [我想知道许魏洲和黄景瑜是不是真的在一起啦？虽然知道这个问题很脑残？](https://www.zhihu.com/question/270107792)
  > 20180813大噶一起土拨鼠叫吧我的妈妈！！！说实话我很佛的 硬糖不磕的 731老大十五条微博我就觉得略硬也没这么激动但是我昨天！！！老关注了ta小姐姐我就爆哭了！！！这两人的互动合作似乎只有被禁的kb和去年的红毯了...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
@@ -80,12 +86,6 @@ categories: IT NEWS
  > 网红在很多人看来，可能是一个标签但对于我们来说，它只是一份工作同样需要熬夜加班同样需要努力奋斗而且它需要我们变得更加强大去接纳别人的眼光去接受自己的“不一样”但还是很感谢这份工作，让我们去到了很多想去...
  ## [未来 3-5 年，互联网从业者的能力结构需要有哪些更新？](https://www.zhihu.com/question/308547945)
  > 我觉得在当前的时代背景下，各行各业的人都应该致力于培养正确的「数据观」。现阶段的数据、数据科学、机器学习、人工智能很像是大家开玩笑所说的teenage sex：即每个人都在谈论且声称自己的团队是数据驱动的，但真正...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [有哪些值得每天一看的网站？](https://www.zhihu.com/question/26440561)
- > 当然是知乎啦，相信关注此问题的都每天一看，不过我每天必看的就是下面这个网站，搜集免费软件必备。1、强烈推荐，国外网站有时候访问慢https://alternativeto.net/平时寻找一些软件，比如PS、MATLAB、AE这...
- ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
- > 北京公司收到华为/茄子快传/百度等公司月薪2W的offer，来答一发。（累积获得了7000+赞，但由于违规了被删除了，这里重发一下，看过的朋友也麻烦点个赞吧，谢谢啦！）已获全站热门回答。答案分类学生版与非学生版。学...
 # IT 技术 
  ## [细说七大邮件安全协议的实现原理](http://netsecurity.51cto.com/art/201901/591123.htm)
  > 细说七大邮件安全协议的实现原理
@@ -103,10 +103,10 @@ categories: IT NEWS
  > 频见“封杀”背后 到底是谁在焦虑？
  ## [13款优秀的Android安全应用](http://mobile.51cto.com/design-591037.htm)
  > 13款优秀的Android安全应用
+ ## [十二个不可忽略的安全小提示](http://netsecurity.51cto.com/art/201901/591159.htm)
+ > 春节即将到来，每年的这个时候，世界各地的人们都要入手新的电子设备。下面十二条基本却关键的安全建议，以
  ## [让物联网医疗患者安心的5个事实](http://iot.51cto.com/art/201901/591158.htm)
  > 事实上，将物联网(IOT)引入医疗行业，不但不会降低服务质量，反而可以指数级提高服务质量。想要让患者相信
- ## [BAT缩招，AI跻身2019年最赚钱职业榜首！（附薪酬表）](https://blog.csdn.net/CSDNedu/article/details/85758254)
- > BAT缩招，AI跻身2019年最赚钱职业榜首！（附薪酬表）
  ## [如何使用高程DEM建立三维地图模型（Arcgis ArcScene）](https://blog.csdn.net/www2111/article/details/86527994)
  > 如何使用高程DEM建立三维地图模型（Arcgis ArcScene）
  ## [网易Java程序员两轮面试，这些问题你能答对几个？](https://blog.csdn.net/pangziaichi/article/details/86499480)
@@ -135,39 +135,41 @@ categories: IT NEWS
  > BAT面试总结——iOS开发高级工程师
  ## [Python入门学习指南--内附学习框架](https://blog.csdn.net/weixin_44558127/article/details/86527360)
  > Python入门学习指南--内附学习框架
+ ## [反馈神经网络算法](https://blog.csdn.net/qq_34725005/article/details/86528209)
+ > 反馈神经网络算法
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [论事务的特性与隔离级别](https://blog.csdn.net/weixin_41328649/article/details/85720052)
- > 论事务的特性与隔离级别
- ## [Restful 应用分析](https://blog.csdn.net/liuwenbiao1203/article/details/52351129)
- > Restful 应用分析
- ## [【区块链】分布式共识协议](https://blog.csdn.net/loy_184548/article/details/86178052)
- > 【区块链】分布式共识协议
- ## [数据库——数据库附加出错](https://blog.csdn.net/weixin_44540181/article/details/86519513)
- > 数据库——数据库附加出错
- ## [高可用的接口安全规范](https://blog.csdn.net/larger5/article/details/85939068)
- > 高可用的接口安全规范
- ## [使用NASM和CL(或LINK)写HelloWorld](https://blog.csdn.net/duweix/article/details/19911967)
- > 使用NASM和CL(或LINK)写HelloWorld
- ## [强连通分量及缩点tarjan算法解析](https://blog.csdn.net/qq574857122/article/details/16361033)
- > 强连通分量及缩点tarjan算法解析
- ## [安全牛学习10](https://blog.csdn.net/c2289206/article/details/86498132)
- > 安全牛学习10
- ## [a标签的四个伪类使用顺序](https://blog.csdn.net/HTML5_styy/article/details/53317280)
- > a标签的四个伪类使用顺序
- ## [mysql数据库初学 三](https://blog.csdn.net/qq_16555103/article/details/86483083)
- > mysql数据库初学 三
- ## [区块链中的去中心化](https://blog.csdn.net/weixin_44172023/article/details/86590604)
- > 区块链中的去中心化
- ## [区块链，会越来越无聊！](https://blog.csdn.net/Blockchain_lemon/article/details/86582029)
- > 区块链，会越来越无聊！
- ## [图片上传的安全校验](https://blog.csdn.net/qq_42806764/article/details/86494199)
- > 图片上传的安全校验
- ## [区块链基础--工作量证明](https://blog.csdn.net/weixin_44172023/article/details/86576559)
- > 区块链基础--工作量证明
- ## [数据库-第一视角day1](https://blog.csdn.net/ch806632096/article/details/85935371)
- > 数据库-第一视角day1
+ ## [小程序开发之组件live-pusher（实时音视频录制）](https://blog.csdn.net/JackJia2015/article/details/86506733)
+ > 小程序开发之组件live-pusher（实时音视频录制）
+ ## [用Python全自动下载抖音视频！](https://blog.csdn.net/weixin_44369414/article/details/86564603)
+ > 用Python全自动下载抖音视频！
+ ## [x264编码----码率控制](https://blog.csdn.net/dancing_night/article/details/44852633)
+ > x264编码----码率控制
+ ## [Android音视频编码基础一](https://blog.csdn.net/u010126792/article/details/86529743)
+ > Android音视频编码基础一
+ ## [“石头汤与煮青蛙”中的催化剂](https://blog.csdn.net/qq_31176861/article/details/86525541)
+ > “石头汤与煮青蛙”中的催化剂
+ ## [运维二三事儿](https://blog.csdn.net/TM6zNf87MDG7Bo/article/details/86486062)
+ > 运维二三事儿
+ ## [一小时爬千万数据的新浪微博爬虫](https://blog.csdn.net/sfM06sqVW55DFt1/article/details/79124794)
+ > 一小时爬千万数据的新浪微博爬虫
+ ## [JAVA JNDI简介](https://blog.csdn.net/xiancaieeee/article/details/7881284)
+ > JAVA JNDI简介
+ ## [此岸？彼岸？](https://blog.csdn.net/qq_43093708/article/details/85731057)
+ > 此岸？彼岸？
+ ## [企业linux平台中用户权限管理机制](https://blog.csdn.net/weixin_44317199/article/details/85650263)
+ > 企业linux平台中用户权限管理机制
+ ## [etcd 集群运维实践](https://blog.csdn.net/alauda_andy/article/details/85991538)
+ > etcd 集群运维实践
+ ## [\[CSAPP大作业\] 程序人生-Hello's P2P](https://blog.csdn.net/FZHvampire/article/details/85810811)
+ > \[CSAPP大作业\] 程序人生-Hello&x27;s P2P
+ ## [2018CS大作业——程序人生-Hello’s P2P](https://blog.csdn.net/weixin_42867636/article/details/85497861)
+ > 2018CS大作业——程序人生-Hello’s P2P
+ ## [HIT计算机系统大作业------程序人生-Hello’s P2P](https://blog.csdn.net/weixin_42017042/article/details/85468924)
+ > HIT计算机系统大作业------程序人生-Hello’s P2P
+ ## [程序人生 HELLO P2P](https://blog.csdn.net/qq_41986714/article/details/85498825)
+ > 程序人生 HELLO P2P
 # PM 
  ## [你避开这些「用户体验要素」常见误区了吗？](http://www.chanpin100.com/article/107897)
  > 这些要避开哦
