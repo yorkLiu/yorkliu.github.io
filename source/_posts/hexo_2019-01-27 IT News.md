@@ -1,51 +1,51 @@
 ---
 title: 2019-01-27 IT News
 copyright: true
-date: 2019-01-27 09:01:35
+date: 2019-01-27 10:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G将为医疗领域带来一场颠覆性革命](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=prDwHsjUhvnjOhApT4gB7mzg-zUZFMLEKMHIG54QVVl6z41mYK1RxwT8pOdRlbds97E8IARnnxgl5ruUVZM4Fz60QVxs0AU1PCcxqDTvZd*mPdKxMWca17M2OwfAOxPH&new=1)
- > 前言：目前，5G商业化进程正不断加快，其高速率、低延迟和高容量等特点，将有力推动远程医疗、自动驾驶、智慧城市等进入到我们的生活。近日，全球首例5G远程外科手术测试在福建成功完成，医生通过5G技术实时传输...
- ## [最新|人社部拟发布15个新职业](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=g7WBouaYg7AwnzVTjohZ9rtfWk6*eJMX7Ny9XoXJLAbrkuhnkaDynJNE4PzdyAG8UUWbdBQpsmFF3DghZ4gDGaFLz4ToomkfxhvzbwfU5KNo-sKGdiVu2cp6jBq8MxXZ&new=1)
- > 来源：工人日报ID:grrbwx记者25日从人社部职业技能鉴定中心获悉，人社部近日组织专家按照新职业评审标准对征集的新职业有关材料进行了评审论证，初步确定人工智能工程技术人员等15个拟发布新职业。目前，这项工...
- ## [海能达数字中继台IP互联实现原理](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=WC6zfBKK80lviq-iEqBgMdxl*Wud**kfKOg0qiqkr5wigQKtQaYXW*ONcgHBmp94pmCYqn9lk1VDDv8cTsyTiC9ZkSs-1iNZEy6Dt-7N7sTLam5wLQc1i-hD5vSOPIiB&new=1)
+ ## [5G正在“革”传统物流的命](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=NqSqUzAaIG403imjOZ3ZlkeWLJY-FxKIbfFbx3vhBm5gSuyDMKDp4O0XM-9TeHWoWqUR5thvqniLBI7GE5GBQi2jbgvA4ftXjBmkUodhBAVOr3x5wBvWP5pEANvSxuRS&new=1)
+ > 5G时代来临，物流行业将迎来物联网＋AI+物流的新模式，而这一新模式将横切整个物流产业。文/珍珍 亿欧专栏作者物流行业将迎来一场5G“狙击战”！“把亚马逊、沃尔玛、ZARA等公司称作披着零售外衣的物流公司。董...
+ ## [海能达数字中继台IP互联实现原理](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=WC6zfBKK80lviq-iEqBgMdxl*Wud**kfKOg0qiqkr5yJrP2JKE*Zk1EbVgRUliJm0GTK1*qNJuOBtpMOC8RD1CUplmq53BzjN9PwZGI5vjTQb9YUDpN6x27U7apfup2B&new=1)
  > IP互联的基本原理是通过基于TCP/IP协议的以太网将分散的多个中转台连接起来，从而实现更广的通信覆盖范围。IP互联模式在基于TCP/IP传输的过程中，DMR协议是由TCP/IP协议和处于应用层的海能达通信股份有限公司自...
- ## [华为拿下两个5G“首发权”，5G折叠屏手机真的来了](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=r0pwDGXdpn4GOvz4J-8AKe09uT2jwC3DPalifw2KgBZBfvN5x49ljsfVuw*JqWo6y*mmKdOh3o4rBEqgC8kLlhGCL3VKd1YjYIgLdcn1eAhdCmNQoBFlzdvqjenTq9yk&new=1)
- > 华为对5G的部署，很早以前就开始了，不过在行进的过程中，遭遇了很多难题。近月来，不断传出华为5G被禁的消息，外媒不断曝出美国、澳大利亚、新西兰、英国等先后禁用华为5G设备、技术的消息，中兴芯片事件的余波...
- ## [通信风口下，App 即将消亡?](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=TtPfthXpN0VswNrPEpYi2dzO8jfqNT*cBbO-ItiPNYKoO645e8rJY2sN0VI9UPIrlRr-my1vus1y7*oNcthi*FYOOTcW8DVX9d*wLO0dQApEMOtmkEHqfbKw1S2g11ED&new=1)
- > 【CSDN 编者按】随着移动互联网市场的日益饱和，用户增长越来越慢，通信社交App和OTT消息的发展似乎到达了瓶颈，曾经遭遇它们的挑战而被削弱的短信如今却找到了新的发展机遇，RCS发展迅猛，最新国际标准MaaP异军...
- ## [支付宝集五福也没它强，用这黑科技抢红包稳赢](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=Syl0e0SHiY3WxMJajzRF4L8g5xcDf2m-6dLCnLgmVYCmXaUuGmb6MLyaFgGvn4K*O8oKrLy62dfnVnXEf8DVBiCNh3MIn8gKe9nGzEAFlcSKw7cMETX6zi1oFsoYi0Pm&new=1)
- > 还有几天，那个满城鞭炮，红包连连的春节就要来了。每逢春节，一些互联网公司都会出来搞大事情。首屈一指的绝对是支付宝的「集五福」活动。但是，机哥说但是嚯。今年貌似有些不同，才刚开始没几天，不少人已经集...
- ## [巴龙5000一出，华为5G如何重构全场景智能生活体验?](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=RxxYjAJgx08s06wN-gbwS2-vB-NBG*gYswolzPH-7Gr2fUligIbt0Q2HZViHci*402NEqFc4RsV3v8jY09ayznGl7FzLvtYlXF319NqhJ-TJav1IiZ37PEteIgCqrS8s&new=1)
- > 1月24日，在华为北京研究所，华为运营商BG和华为消费者BG第一次联手，重磅发布5G端到端解决方案。值得关注的是，华为的5G是芯片级的底层创新，网络侧的5G基站核心芯片天罡与终端侧的5G modem芯片巴龙5000，让全...
- ## [国际首家!英国电信获工信部颁发中国电信服务许可证](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=qsb9JjtRbxlOceGx5uZRkC2hr8CsIkbxa0ymw0LB-l-u4NJCN9hj7qvQ7pIBW2DE0Iv71fWwkk0HbTJ84xygjq1kLnltVqIKBBtcGICsTaVCfAbWA7K4a8ryX32lLfPi&new=1)
- > 据外媒报道，英国电信（BT）宣布，该公司已成为第一家获得中国工业和信息化部颁发的全国电信服务许可证的国际电信公司。英国电信获得的两张“增值许可证”——中国国内IP-VPN许可证和中国全国互联网服务提供商（...
- ## [云创大数据获评南京公安研究院2019年生态合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=6x*CadCTalWquV9LkAqyJWFfNC-P4uKX7tnhBVkHwg-inYSWnY9UghMZGCe5wEt1QSeBKVf4rpufVTGDA85oR81Pqyd7uxd0yj7Q2-Ee7iHkMqAIoQ80tdwzk-Z9iTrz&new=1)
- > 1月25日，在2019农历新年临近之际，南京公安研究院力邀行业合作伙伴，包括烽火通信、科达、中科曙光、海康威视等多家企业代表，共同见证南京公安研究院2018年的发展历程，展望未来发展，云创大数据袁高峰总监与...
- ## [3D打印磁网机器人可以在水面上重塑和抓取物体](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=5wkuXQx6dYls42XIxNvZJJ7TM-OYk8rLeBwMmPEtn7ieQO195ua-ClMIk5f30speoS1PjM3xSE9czRx5zzLpyqpm0PSqNGFgBigYouqPsqt04L8Y1mrIlgA8vjH8IYj4&new=1)
- > 北卡罗来纳州立大学的一项研究调查了可以用磁场控制的3D打印软机器人的过程。软机器人是一个子领域，机器人物体由模仿生物体组织的材料构成，它们通常在不使用电机或伺服电机的情况下实现运动。 3D打印机是软机...
- ## [在线销户，坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=J5SMVVCa3RST6XxXQMi8mxLy*RWzZETyCF8J1H8xQxdemNWcnzg78xj5Y8tg8-vAWIJPj9ZeMLFd8kBO3ygbxFvqk0uNwy09PeqnLTErix*kQVZ02mB0XbX1aHQzgB2b&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容小雷之前就一直在疯狂吐槽手机卡的销户问题。开卡的时候，营业厅的小姐姐都笑容满面。要销户的时候，就冷若冰霜了。“这里没有销户权限，你要去 XX 那里的营...
- ## [美国《科学》杂志发布年度10大机器人!](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=qtM2VM-pxOlWYFRb2zJNwvtoZ5nsIVdHT9jACVYH1vqgTasgPLWsQQv4BGVNRgejYrwCK9UuyjJRuL0gfLkVkJBDBUJUbYN0Mghy*crBrh2Ouf6535cPchpuBGQCaBRR&new=1)
- > 近年来机器人技术发展迅猛，已经在多个领域得到了落地应用，并且出现了很多具有前瞻性的设计。本文通过Science杂志评选的10项激动人心的机器人开发和技术，为读者梳理出目前机器人领域的发展情况。◎文丨新智元...
- ## [联泰TCT亚洲展举办SLS及SLA技术应用研讨会，并将发布新品](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=VJ5qayDf7RDbvG8Df51abemR40fhZJzSKiuLyKRt6adnMWucXVxE87t1C4GyKuABbXyjE0wTT5LwlxGCUa7CSh5j-lpxsggXgD10chehWRO9hYdGjFV1a-l6cdT4TGVv&new=1)
- > 展会：2019 TCT Asia时间：2019年2月21日-23日地点：上海新国际博览中心盈普展台：W4馆 K40联泰展台：W4馆 C10新春伊始，2019年TCT亚洲展—亚洲3D打印、增材制造展览会即将在2019年2月21日-23日登陆上
- ## [免费路由器为什么倒了?](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=AfyP-l-rm8ryQg6yTrwXmqNXmI7jK6mZH4UTIYQjFcaSngvmOkxy7f6*bys5LC7kW9yoBroZs4LcWaoFZ88xOlU3Uwc-CjQEw*aJPOPhV3CJN8T44gvu*My26dYGZq8*&new=1)
- > iFeng科技凤凰网科技官方账号，带你直击真相     这世上没有什么人是一台免费路由器骗不了的，如果有，那就在免费后面再加上能赚大钱。文| 懂懂笔记（ID：dongdong_note）“号称免费还能赚钱的的路由器，我感觉...
- ## [数据湖与数据仓库之区别](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=YbGluQ1X6xNI98k2VYnl2pP4GAq39duaQWaZUn7KVeUgL-XglEpCD-Fslx3JBKWO1aCbX2Lga2aSXq0T1r7rDY5-l6QdmlXHjNTK2VWLGcMaw2zkFtmUVTUwa4PIX-r9&new=1)
- > 21CTO导读：虽然我们说数据湖与数据仓库，但这两种技术实际上是互补的。 请继续阅读以了解原因。数据湖和数据仓库是业务分析的关键技术，但两者之间的差异和区别，可能会让人困惑。 它们之前有什么不同？ 其中哪...
- ## [机器人医疗时代：未来能消灭癌症?](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=GSUGU8rwMle4dkkK2-jqM1SYomZT30bu9LnPmNrgzoQP1lfukm39mWf3ZEKTfJB6EsqONY4DTqC0VQ-SI-EoAwfFpr16G9j-UTsbnjJd2TCsMpwh3KvLQxqRBxx6PwkE&new=1)
- > 机器人手术，机器人诊断疾病、机器人分发药物......近年来机器人在医疗领域真是如火如荼。近日，根据英国《每日邮报》报道，德国汉堡飞利浦研究院的科学家已经设计了一组磁控机器人，可以帮助人类击退癌症，这组...
- ## [“健美教练”华为](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=q-kjTWmdFin278DY7-VOPIftupst*PzouDB-L-h--N5UMsD1QsFdcM6fnw9C*qfaDgomQTm432xU4T-4EtRdSi3qdkWtt82*SGC0gZnXulwcYicPprAi4WbhfXKPtp*Z&new=1)
- > 如果说秀肌肉，我更愿意把 2018 年华为的业绩看作秀肌肉的动作，5G 是华为的基本操作。“健美”的风潮吹到了手机行业。 2019 年第一个月，折叠屏、无孔手机、5G 等关键性技术被直勾勾地展现在消费者面前。可惜的...
- ## [新的勒索软件来袭，居然还有两幅面孔?](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=-W4F8d4IG-Fn-HzyVQb6qUySLYWindabVo0PoA9arwX4RIR6StHBILeUmmrQCpOC4Tmp1TBbgf9IUNBpavhukLnxzOBGpSIjprtnGNKj6O-OCcpawVoo0Ln6Q2T7i4y*&new=1)
+ ## [新的勒索软件来袭，居然还有两幅面孔?](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=-W4F8d4IG-Fn-HzyVQb6qUySLYWindabVo0PoA9arwXwPW25E1nZS77VXCi1*3Fu7llIMzlnSQTNNsrljwpYvMrGGyc--6WjZMWe3E80xG0V*wik2R7XO*ucXSKu192H&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：新型勒索软件Anatova正在全球“选择性”肆虐。据外媒报道，一种新型勒索软件正在感染全球各地的用户，它伪装成应用程序或游戏，诱骗用户下载并启动。...
- ## [十二个大动作，中央广播电视总台为电视台发展探明新方向](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=A7rpbSmn0XSabkrbQ-Yn6MEAlplaOOmqsuGRBTAmnTxqjiBvkCiGqles1qwnriI*1QC4C92jkUNClPMmf0fRzECCJEj9D*B3I9Z9zimG2VQgbKKc2tPg7xHkt*HiVcAv&new=1)
- > 导读在2018年，中央广播电视总台展开了十二个大动作：充分整合三台力量，资源共享、同步发声、集体发力；发布2018年俄罗斯世界杯版权声明；拿出10亿以上广告扶贫资源；与中国移动强强联手布局5G时代；下设25个中...
- ## [苹果三星被逼上绝路!刚刚，华为宣布：全球首款5G手机下月上市!](http://mp.weixin.qq.com/s?src=11&timestamp=1548549006&ver=1391&signature=bSBaV-zRb-EG5xpX52C9Ospod20MVx*ExHq9T8uliJYecBzUYh7zf0SiIc4C*gyO9veOCc5PXZNxxufyK6HtWpZplQorWNgNc28ThytK2g50e45*CHsv0afFTZwn*njG&new=1)
+ ## [美国《科学》杂志发布年度10大机器人!](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=qtM2VM-pxOlWYFRb2zJNwvtoZ5nsIVdHT9jACVYH1vpbOKTq4Wu5NKN631806SWHYa9v882e4EPN3juoZmRW-5wTnHd9OyZ5LBqUPPHHCYE-sMhsq8YymSRbwC6QEEuS&new=1)
+ > 近年来机器人技术发展迅猛，已经在多个领域得到了落地应用，并且出现了很多具有前瞻性的设计。本文通过Science杂志评选的10项激动人心的机器人开发和技术，为读者梳理出目前机器人领域的发展情况。◎文丨新智元...
+ ## [苹果三星被逼上绝路!刚刚，华为宣布：全球首款5G手机下月上市!](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=bSBaV-zRb-EG5xpX52C9Ospod20MVx*ExHq9T8uliJbiPfrC5ewZescc6PxFQ3DQZ3JF8ep7-txI3Yn4Q9AO-OFdI8sqY73lbndWn5f4wg37jb2xsB2J9k7rcOzrjt9u&new=1)
  > 作者：风清来源：电商头条（ID：ecxinwen） 编辑：小山中华有为，在新的赛道打败苹果，华为做到了！ 01重磅发布，华为正式打响5G之战 言必信行必果的华为，让所有对手不寒而栗。 前脚，任正非刚在央视采访中宣布...
+ ## [Ovum：地缘政治将迫使华为比以往更加依赖新兴市场](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=qaX*wKGRylCXOI*cI1wjUExtxfVxSUJUpTb*8WWiDeHQPoLluLMj3BRlMI2Zm4XLpfwuFqKPQ6Mpd2wKupTIUQKe*zujv7L6UlTfJORORwx*4*MWUWRhoaA36hrr0DZe&new=1)
+ > 【摘要】丁美洲以及亚洲和非洲的部分地区，将对华为变得更加重要。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：艾斯本文来源：C114通信网（C114-weixin）杂谈投稿邮箱：631255063@qq.comOvum拉丁
+ ## [最新|人社部拟发布15个新职业](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=g7WBouaYg7AwnzVTjohZ9rtfWk6*eJMX7Ny9XoXJLAaaMZOksaYsf-aGPEfCFVRwJD0p9AckIS48MypEiVPDBrkLG2Ljk4NtEye4QKhp2DBbWgNl*vi3Er-bLZ0SYAI0&new=1)
+ > 来源：工人日报ID:grrbwx记者25日从人社部职业技能鉴定中心获悉，人社部近日组织专家按照新职业评审标准对征集的新职业有关材料进行了评审论证，初步确定人工智能工程技术人员等15个拟发布新职业。目前，这项工...
+ ## [华为拿下两个5G“首发权”，5G折叠屏手机真的来了](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=r0pwDGXdpn4GOvz4J-8AKe09uT2jwC3DPalifw2KgBYEgbiUzMTyi4sVWqDf4m6qU8*y3UcdDqo79d1QIqjWt9Tgt2OqsRrmpGrs2jfzlKea9PrRahiiZsGL-2rCwL1p&new=1)
+ > 华为对5G的部署，很早以前就开始了，不过在行进的过程中，遭遇了很多难题。近月来，不断传出华为5G被禁的消息，外媒不断曝出美国、澳大利亚、新西兰、英国等先后禁用华为5G设备、技术的消息，中兴芯片事件的余波...
+ ## [5G将为医疗领域带来一场颠覆性革命](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=prDwHsjUhvnjOhApT4gB7mzg-zUZFMLEKMHIG54QVVlpNBo*hMkDx*u3dBL69clGAhgStYdrYBr6cW4W7FUU2y17cqzxPZfLdlK-G6yWrke897LktXCU8yik5FoTiY6l&new=1)
+ > 前言：目前，5G商业化进程正不断加快，其高速率、低延迟和高容量等特点，将有力推动远程医疗、自动驾驶、智慧城市等进入到我们的生活。近日，全球首例5G远程外科手术测试在福建成功完成，医生通过5G技术实时传输...
+ ## [3D打印磁网机器人可以在水面上重塑和抓取物体](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=5wkuXQx6dYls42XIxNvZJJ7TM-OYk8rLeBwMmPEtn7gG3eGx0EkslgPWkWYizW6oP47DZVeD0z6MJhFkmZZi2wFg8wUVrUU0Gu3t1ee7HaHtK3yPOr9IF6A9cqSoahly&new=1)
+ > 北卡罗来纳州立大学的一项研究调查了可以用磁场控制的3D打印软机器人的过程。软机器人是一个子领域，机器人物体由模仿生物体组织的材料构成，它们通常在不使用电机或伺服电机的情况下实现运动。 3D打印机是软机...
+ ## [联泰TCT亚洲展举办SLS及SLA技术应用研讨会，并将发布新品](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=VJ5qayDf7RDbvG8Df51abemR40fhZJzSKiuLyKRt6adn4UE*nzsxBefDikUn0GIyFTlKmJTSSdGQM6xRElFetDvV6NrhiNqzwFEgD9M4S5VksVNqff1aZ5CL4rKtrTuO&new=1)
+ > 展会：2019 TCT Asia时间：2019年2月21日-23日地点：上海新国际博览中心盈普展台：W4馆 K40联泰展台：W4馆 C10新春伊始，2019年TCT亚洲展—亚洲3D打印、增材制造展览会即将在2019年2月21日-23日登陆上
+ ## [巴龙5000一出，华为5G如何重构全场景智能生活体验?](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=RxxYjAJgx08s06wN-gbwS2-vB-NBG*gYswolzPH-7GpmbYaPWpXi42EuULbUOWxFkordWfpSATywWl8ZrIbSuxuSHpS2vPcZtYZB4Q8o3SZARyUmTtE5NEvs21vSB*wl&new=1)
+ > 1月24日，在华为北京研究所，华为运营商BG和华为消费者BG第一次联手，重磅发布5G端到端解决方案。值得关注的是，华为的5G是芯片级的底层创新，网络侧的5G基站核心芯片天罡与终端侧的5G modem芯片巴龙5000，让全...
+ ## [云创大数据获评南京公安研究院2019年生态合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=6x*CadCTalWquV9LkAqyJWFfNC-P4uKX7tnhBVkHwg*PJszstZo10ukHS456c1x*BshiQLbETDdfci9wNKOMKT2kEJBg7-SLjtaEpTyldo-7RFL0q61HeNpJ*IFK1wHj&new=1)
+ > 1月25日，在2019农历新年临近之际，南京公安研究院力邀行业合作伙伴，包括烽火通信、科达、中科曙光、海康威视等多家企业代表，共同见证南京公安研究院2018年的发展历程，展望未来发展，云创大数据袁高峰总监与...
+ ## [你完全可借鉴的微软成功之道](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=2BSBZm8TE-Vt9L0-eR7DV3lvkVwwOEaMLbEzshJxk-e9M-jtvQn7*NnZDMPtQ*JQN-s3gggldBVv6Yihi2p7kkeDjtMXT*R9k*awGVBJ92ywAStO82JMkABiOUBWEylm&new=1)
+ > 2018年11月23日，下行十六年后，PC时代的王者微软一路超越移动时代的王者谷歌、亚马逊、苹果，逆势重回全球市值第一！这出乎绝大多数人的意料，因为时代大潮滚滚，一旦错过，王者也会没落，柯达错过数码相机、诺...
+ ## [机器人医疗时代：未来能消灭癌症?](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=GSUGU8rwMle4dkkK2-jqM1SYomZT30bu9LnPmNrgzoQHItWStsotnMCwIX0sfWfH9OEOkanXKz0fPLA1zXEsEavfSjCmTrfoHDBVwnIxrlSaDCi1klNBK-tCx7RMzRBW&new=1)
+ > 机器人手术，机器人诊断疾病、机器人分发药物......近年来机器人在医疗领域真是如火如荼。近日，根据英国《每日邮报》报道，德国汉堡飞利浦研究院的科学家已经设计了一组磁控机器人，可以帮助人类击退癌症，这组...
+ ## [“健美教练”华为](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=q-kjTWmdFin278DY7-VOPIftupst*PzouDB-L-h--N6numCpwUDI9gk3aclK1Rcvzk-WG06QGMLSPnW8V0q93rQgpKB134BR2P4FR9kA**mMAKHHR*2CRVjmESZ8pvkF&new=1)
+ > 如果说秀肌肉，我更愿意把 2018 年华为的业绩看作秀肌肉的动作，5G 是华为的基本操作。“健美”的风潮吹到了手机行业。 2019 年第一个月，折叠屏、无孔手机、5G 等关键性技术被直勾勾地展现在消费者面前。可惜的...
+ ## [数据湖与数据仓库之区别](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=YbGluQ1X6xNI98k2VYnl2pP4GAq39duaQWaZUn7KVeXXwVYMmultc-pEKvDnV*xE8KDsdRcMUqActNtR6tg5McxjsAhdNa442Yd2tZNHAcmAnize5SflTIZK4puKBSFQ&new=1)
+ > 21CTO导读：虽然我们说数据湖与数据仓库，但这两种技术实际上是互补的。 请继续阅读以了解原因。数据湖和数据仓库是业务分析的关键技术，但两者之间的差异和区别，可能会让人困惑。 它们之前有什么不同？ 其中哪...
+ ## [免费路由器为什么倒了?](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=AfyP-l-rm8ryQg6yTrwXmqNXmI7jK6mZH4UTIYQjFca2xsBQYlMPiAj8B5jIyzTaWKM0mifSObCsth8ycTc2x9ZWd3OJfsjnzXbWdA27JKj2oJU2B-gGoqACbq8ZsPPD&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相     这世上没有什么人是一台免费路由器骗不了的，如果有，那就在免费后面再加上能赚大钱。文| 懂懂笔记（ID：dongdong_note）“号称免费还能赚钱的的路由器，我感觉...
+ ## [国际首家!英国电信获工信部颁发中国电信服务许可证](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=qsb9JjtRbxlOceGx5uZRkC2hr8CsIkbxa0ymw0LB-l-1m0u6GfT*Sb8QOqRArQRs7AvpLf1HyEuXxlZnns-f1hs4MIwHVqJbBFTPIbNCC7mMGIkQDQG8l8GLbKk*vK1S&new=1)
+ > 据外媒报道，英国电信（BT）宣布，该公司已成为第一家获得中国工业和信息化部颁发的全国电信服务许可证的国际电信公司。英国电信获得的两张“增值许可证”——中国国内IP-VPN许可证和中国全国互联网服务提供商（...
+ ## [通信风口下，App 即将消亡?](http://mp.weixin.qq.com/s?src=11&timestamp=1548552605&ver=1391&signature=TtPfthXpN0VswNrPEpYi2dzO8jfqNT*cBbO-ItiPNYI1SJlx31V6It82KN3Stqe-0r82SaeyGe1x9gcM8eGm4LwYijbhiBcTuc4YIH15EGsuFG-DKNXbVOKDTrVPG0cN&new=1)
+ > 【CSDN 编者按】随着移动互联网市场的日益饱和，用户增长越来越慢，通信社交App和OTT消息的发展似乎到达了瓶颈，曾经遭遇它们的挑战而被削弱的短信如今却找到了新的发展机遇，RCS发展迅猛，最新国际标准MaaP异军...
  ## [如何看待华为将发布智能家居独立品牌“华为智选”？](https://www.zhihu.com/question/281971817)
  > 这趟去深圳见了两位华为IOT的产品经理，面对面地了解了华为智选，也去方舟实验室参观了一圈。接下来我给大家讲一下我现在对于华为智选的了解和认识。华为智选是在华为各种内部需求的推动下产生的，首先华为的供应...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
@@ -70,22 +70,22 @@ categories: IT NEWS
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [王者荣耀如何玩好女娲？](https://www.zhihu.com/question/63598471)
  > 女娲算上被动技能共有五个技能，看似复杂，但只要做一下拆解，上手并不算难。被动：女娲的视野范围和技能释放距离都会随着等级的提升而提升。一级视野范围：满级视野范围：2、技能伤害命中敌方英雄后会产生标记，自己...
- ## [做一名网红是怎样一种人生体验？](https://www.zhihu.com/question/38470736)
- > 网红在很多人看来，可能是一个标签但对于我们来说，它只是一份工作同样需要熬夜加班同样需要努力奋斗而且它需要我们变得更加强大去接纳别人的眼光去接受自己的“不一样”但还是很感谢这份工作，让我们去到了很多想去...
- ## [后端同学是不是比前端同学理解业务更快？](https://www.zhihu.com/question/309488771)
- > 为什么比起小孩子来说，成年人更少挑食？ —— 因为他们都只买自己喜欢吃的菜。对于广义上的前端来说，上游是接口，下游是界面。对于后端来说，上游是数据库，下游是接口。前端的工作的核心是交互，消费接口的数据，...
- ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
- > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
  ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
  > 浪潮之巅
- ## [《王者荣耀》怎么玩好兰陵王？](https://www.zhihu.com/question/52088218)
- > 本文分两部分，打野兰陵王和辅助兰陵王。第一部分：打野兰陵王：S13赛季兰陵王改动：二技能：耗蓝：80 → 60大招：第一段：独立作为四技能，开局即可使用，不可升级，不耗蓝，CD固定24秒。大招：第二段：独立作为...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
  ## [VR/AR + 办公，颠覆白领们每天通勤到写字楼的办公的方式？？？ 探讨下](https://www.zhihu.com/question/46405848)
  > 理论上，VR可以做到。但AR不行，因为你仍然得去上班才能A得起来。
  ## [有哪些值得每天一看的网站？](https://www.zhihu.com/question/26440561)
  > 当然是知乎啦，相信关注此问题的都每天一看，不过我每天必看的就是下面这个网站，搜集免费软件必备。1、强烈推荐，国外网站有时候访问慢https://alternativeto.net/平时寻找一些软件，比如PS、MATLAB、AE这...
+ ## [为什么根据 IP 地址查询物理所在地，而不是 mac 地址？](https://www.zhihu.com/question/281516341)
+ > mac地址无法直接对应物理地点当然是这个问题的答案之一，但更重要的原因，我看是因为，mac地址是自己上报的，而ip地址则是上级分配的。所以，简单的说：作为设备，想对外呈现什么mac地址就可以呈现什么mac地址，你甚...
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
+ ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
+ > 直接导致我的早恋对象被我妈发现了 我和我男朋友从初三开始，现在大一。其实大学了我妈也允许谈恋爱，但是我并不想暴露我高中三年都沉浸在恋爱里的事实。每天用QQ聊天，我的QQ也加了我妈妈，但是空间对她屏蔽，平...
+ ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
+ > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
 # IT 技术 
  ## [一天跟踪你340次，欢迎来到零隐私时代](http://news.51cto.com/art/201901/591079.htm)
  > 一天跟踪你340次，欢迎来到零隐私时代
@@ -136,37 +136,39 @@ categories: IT NEWS
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [物联网-物联网智能设备与嵌入式技术](https://blog.csdn.net/weixin_37079656/article/details/86551678)
- > 物联网-物联网智能设备与嵌入式技术
- ## [物联网-物联网智能数据处理技术](https://blog.csdn.net/weixin_37079656/article/details/86560526)
- > 物联网-物联网智能数据处理技术
- ## [高效研发管理五点经验分享](https://blog.csdn.net/hereyouare/article/details/86507349)
- > 高效研发管理五点经验分享
- ## [物联网时代，智能家居的发展方向](https://blog.csdn.net/duozhishidai/article/details/86485373)
- > 物联网时代，智能家居的发展方向
- ## [centos 查看命令源码](https://blog.csdn.net/silentpebble/article/details/41279285)
- > centos 查看命令源码
- ## [关于SpringBoot bean无法注入的问题（与文件包位置有关）](https://blog.csdn.net/gefangshuai/article/details/50328451)
- > 关于SpringBoot bean无法注入的问题（与文件包位置有关）
- ## [安全牛学习10](https://blog.csdn.net/c2289206/article/details/86498132)
- > 安全牛学习10
- ## [树莓派下DHT11温湿度传感器控制程序（python）](https://blog.csdn.net/come_from_pluto/article/details/86536893)
- > 树莓派下DHT11温湿度传感器控制程序（python）
+ ## [【运维笔记】Git](https://blog.csdn.net/wuguifa/article/details/85775825)
+ > 【运维笔记】Git
+ ## [企业linux平台中用户权限管理机制](https://blog.csdn.net/weixin_44317199/article/details/85650263)
+ > 企业linux平台中用户权限管理机制
+ ## [纯C语言学生管理系统（学生期末作业）](https://blog.csdn.net/wumingxiaozuzha/article/details/85812115)
+ > 纯C语言学生管理系统（学生期末作业）
  ## [凯撒加密+Base64--打造安全又高效的加密算法](https://blog.csdn.net/zhiqiangzhan/article/details/4658106)
  > 凯撒加密+Base64--打造安全又高效的加密算法
- ## [https到底安全在哪里？](https://blog.csdn.net/shanghx_123/article/details/86505726)
- > https到底安全在哪里？
- ## [物联网是什么，和互联网之间主要有什么区别](https://blog.csdn.net/duozhishidai/article/details/86488241)
- > 物联网是什么，和互联网之间主要有什么区别
- ## [《物联网设备安全》读后感](https://blog.csdn.net/hello3389/article/details/85843780)
- > 《物联网设备安全》读后感
- ## [Android应用安全防护实践一辣敌方眼睛之代码混淆-Activity混淆(五)](https://blog.csdn.net/weixin_44515491/article/details/86562277)
- > Android应用安全防护实践一辣敌方眼睛之代码混淆-Activity混淆(五)
- ## [企业服务器与物联网平台通信——服务端订阅](https://blog.csdn.net/weixin_44101331/article/details/86504614)
- > 企业服务器与物联网平台通信——服务端订阅
- ## [eclipse编译源码慢的解决方法](https://blog.csdn.net/bitree1/article/details/54950192)
- > eclipse编译源码慢的解决方法
+ ## [DBA的日常运维--Part1](https://blog.csdn.net/yingdovezuo/article/details/86085274)
+ > DBA的日常运维--Part1
+ ## [【运维笔记】zabbix](https://blog.csdn.net/wuguifa/article/details/86575370)
+ > 【运维笔记】zabbix
+ ## [通用型的中文编程语言探讨之一: 高考](https://blog.csdn.net/wuxuanecios/article/details/85922331)
+ > 通用型的中文编程语言探讨之一: 高考
+ ## [javaWEB安全开发基本原则](https://blog.csdn.net/u013039395/article/details/86482895)
+ > javaWEB安全开发基本原则
+ ## [Redis开发与运维之第五章持久化](https://blog.csdn.net/cuiwei1026522829/article/details/85935246)
+ > Redis开发与运维之第五章持久化
+ ## [编程语言-go：变量声明，数据类型，流程控制，循环语句](https://blog.csdn.net/eyeofeagle/article/details/86559487)
+ > 编程语言-go：变量声明，数据类型，流程控制，循环语句
+ ## [微软基于F的 Liqui|> 量子编程语言](https://blog.csdn.net/longji/article/details/85530666)
+ > 微软基于F的 Liqui|&gt; 量子编程语言
+ ## [为什么都说比特币很安全，安全在哪](https://blog.csdn.net/weixin_43838346/article/details/85701172)
+ > 为什么都说比特币很安全，安全在哪
+ ## [关于计算时间复杂度和空间复杂度](https://blog.csdn.net/yangwei282367751/article/details/52426911)
+ > 关于计算时间复杂度和空间复杂度
+ ## [国人创造中文编程语言的优势](https://blog.csdn.net/wuxuanecios/article/details/85664255)
+ > 国人创造中文编程语言的优势
+ ## [严守红线，共筑安全，内容安全沙龙在京召开](https://blog.csdn.net/weixin_43634380/article/details/86534382)
+ > 严守红线，共筑安全，内容安全沙龙在京召开
 # PM 
+ ## [不靠谱的人怎样做才能变得靠谱？](http://www.woshipm.com/zhichang/1880643.html)
+ > 靠谱是指一个人对结果的高度负责，对未来能影响结果的风险是否能充分考虑，以及能否做到善于用严密谨慎的思维去对待人和物。一个人靠不靠谱源于先天的本心和后天的责...
  ## [金融云进入加速期，三方争霸格局将变](http://www.pmtoo.com/article/64671.html)
  > AI金融评论注意到，近期在金融云领域探索多年的海通证券推出了一款混合金融云方案。据了解，这是中国证券行业首个自主可...
  ## [多次“刷屏”，朋友圈价值比你想象中的要大](http://www.pmtoo.com/article/64666.html)
