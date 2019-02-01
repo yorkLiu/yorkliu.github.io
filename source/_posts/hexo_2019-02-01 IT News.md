@@ -1,61 +1,55 @@
 ---
 title: 2019-02-01 IT News
 copyright: true
-date: 2019-02-01 10:01:38
+date: 2019-02-01 12:01:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果被曝严重漏洞，FaceTime可被窃听!现仍未修复](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=UVkD5zNCFqYYfz1Wj3LtBjW8Y9B9DIg8MauzIezAi5EgK0d5V5G1qksXbJ-X4bYHZAwh*G3AYGsVCLu6TSWOg-2esImYT9XnAEtp1jXHg1utW8bBR4HHuVLs6H3uuNvq&new=1)
- > 实习生 洪永 科技日报记者 何星辉 苹果FaceTime存在重大缺陷，当用户使用这个功能通话时，可能会被窃听。针对媒体曝出的隐私安全问题，苹果公司表示将在本周晚些时候修复FaceTime的这一漏洞。向来以注重保护用户...
- ## [QNAP(威联通)联合创始人郭博达先生一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=oUQVJomFNcdTQDHskpzxGcrSVMssj*Eef-pqcHAb9ndKjZ2UhW21IE3aCEvhS0d*VwOLSYdRSnXrGCV0aBnGNsNLIouvrF-uPmjcYzel9wq5z3*IEU-tU2vRUn6DGmfz&new=1)
- > 2019年1月31日，QNAP（威联通）联合创始人郭博达、威联通科技（北京）有限公司李崟总监一行到访，云创大数据总裁刘鹏教授、沈大为总监、曹骝总监、袁在康总监、袁高峰总监、高秀斌经理以及程沛沛经理等共同接待...
- ## [1月VR/AR行业融资报：全球完成9笔，总金额超69亿人民币](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=MhyWFYASpn*C1q58Cyvnfzcab1S3oQuu4bLYVXpYXX4aKXP7DdjfC-3qCWO9OL2odPGuEppXLbN*dzkZkinn86tDhol6XryB3sTa-wGcuLsYT7XmA*yLBCINcmZw1iig&new=1)
- > 1月国内外VR/AR圈总共完成9笔融资。国内4笔，总融资额28.9亿元人民币；国外5笔，总融资额6.07亿美元。正文共 3048 字 11 图；预计阅读时间 8 分钟时间进入到2019年，1月也已步入尾声，本月的VR/AR投融资情况如何...
- ## [\[供应链\]华为高通达成4.5亿美元的“短期和解费”搅动手机市场一方风云](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=oA7RXhhSTNJXgu3Ddz7KVVfKqul8*tyK1*H65tJdVHyWJMCSgu5ErxFLUVMcndAFa-ETSmE2JO5AotVl9xyfmjjsppx*kDerv0qiMPem0Or9jt64Xpzzkohg*o05xm-j&new=1)
- > 在新年来临之际全球手机市场都在喊“变天了”的时候，华为的一场握手言谈，牵动着各方的神经。1月31日，高通（Qualcomm）首席财务官乔治·戴维斯(George Davis)在与分析师就公司财务业绩举行的电话会议上称，华...
- ## [\[今日头条\]特斯拉新专利干掉英伟达，车企首款自动驾驶芯片这样放弃CPU和GPU](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=6yBUgbwGKO6RJumRwHwtAx6Y2ugxBA*QEkwbQt1Zftul0XzNSKjIVyzBJlJWevsoO7lJyMS54BQdDg2FN4819EgxcnqyQ0yL0ERX2tgNHn0KDuM2EvWBc5EKofi1*T6W&new=1)
- > 在自动驾驶领域，GPU强大的算力是自动驾驶芯片的一种选择，也造就了拥有着最强大性能GPU的英伟达在这个领域的地位，英伟达Xavier也可能成为全球首个通过ISO26262标准的自动驾驶芯片。但是，特斯拉正在研发的这款...
- ## [展望2019丨5G+VR的春晚都要来了，VR的春天还会远吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=wsEyz6HRlnhbKMhyAuLC2BQdMzmhM3y4NqSOvbDQxcSscxrzJ2e8WGt2C9GVS0vXqfkeVS-NjU6edhPR6zC8cpkQosl0TXGvo14JZCdw4HnDx1168zYwtW7NGE-6hGUP&new=1)
- > 2018年，虚拟现实产业迎来了Oculus Go、Magic Leap One等明星消费级产品，AR/VR 设备专用芯片骁龙 XR1，为付费VR内容注入强心针的现象级爆款《Beat Saber》，产业生态持续升级。IDC在最新的报告中指出，
- ## [新突破!联通5G助力智慧码头方案验证](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=jj9hvnCvMQOky-d2uyCkn16f2yds-1qGMo061yPE1ttv1tkxUi-Mf9uZtq8lSvzLMadKjyN5FRAHSNYdoL2-VCRiggVnpwcbxVuD8C74Qh4sSrA6rc-fJ0NGm9rk*Jsx&new=1)
- > 近日，中国联通携手爱立信、青岛港和振华重工于青岛港新前湾自动化码头成功实现了基于5G连接的自动岸桥吊车控制操作、抓取和运输集装箱。这也是全球首例基于5G网络覆盖、在实际生产环境下操作远程吊车的实践。基...
- ## [II－VI推出80W泵浦激光模块：功率稳定、波长可调](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=YRcGhDPwDMsn8Y7aFrlIMFTwKtTcyPzAsuEsEqiuNWZthP3aMvm0zdDMxaOUplCLKcP4Ln60BlAr-NW75EYwIjRgY*njo5lKPjwwRm3ozX6eob9SVnkDqpPitPvv8xqG&new=1)
- > 1月25日，大功率激光模块的领军企业II‐VI股份有限公司宣布推出了波长为976纳米、稳定输出功率高达80W的泵浦激光模块。这款新型泵浦激光模块的输出功率为80w，是现有产品的4倍，可使光纤激光器用更少的模块来输...
- ## [再见联通!刚刚，中国打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=nlDimxBP20pYUIMQUWSle8tDcALA5E10J*YoUVwZLmC2eWdRI5g4TPkN*Vr6qxIw1ulXWnjQTHV98IyGK*ZUzktvjNiBiajuxYbv*WMnFA6DLbcRmievbfjS6CNPJgnk&new=1)
- > 来源 | 财经要参（ID：mofzpy）作者 | 要参君01尘埃落定！狼，终究来了！刚刚传来大消息，中国工信部正式宣布：英国电信（BT）获得了在中国全国性经营通信的牌照。随后，英国电信也在第一时间证实这一消息！他们...
- ## [5G首单落地：中国移动将租赁五大设备商500个基站](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=euU6qghi9JSbyn906-Drqv0esqwVg8aKWJSAhWSRCC1NXFSsiZef6aF5vA4CQc9OHGi9M8cc7dh7JDU20V7lsSsQT07NADZehZCwh3CynOuoIMU-Y8g7vzKwhNGHQFNU&new=1)
- > 昨日，中国移动公布中国移动2019年5G规模组网建设及应用示范工程无线主设备租赁单一来源采购结果，华为、中兴、爱立信、诺基亚、大唐中标。据悉，本次需租赁5G试验网络无线主设备，以及配套的天线、相关软件、OM...
- ## [微软：Mozilla，我劝你拥抱 Chromium!](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=6e5wN7XV1J-8040gG3mU9uCP5ccCiVA5Zjifda9TktNpmrDgESN7srPuOmcKZ5npRBwoaTLC9d6bNb2ZMHWWxq8RZ-SX9YjFcsqJ2XH7q3xTjflbksoiu2vlJcF1Uyp4&new=1)
- > 想天下合久必分分久必合，时 Google 一方割据，气焰日炽，余之各方欲合围定局，然微软“临危变节”，投诚 Chromium。今不过月余，似意欲劝降 Mozilla，议之者众……图片来源：The Next Web近日，微软项目经理 Ke...
- ## [程序员春节出游的正确姿势](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=pCADI8MwOa1ERgEWafHFc0vH18WEINcw0NRd8XWyf*msw9dxBXPe1K5fo5ksZ8j3tvEdhIvOcoH4PRAnhuHmX1JColpjQK2tLi45XMt0N1WjtRHIk0hE0mpmjyiE1lNz&new=1)
- > 春节长假正式进入倒计时，各位小伙伴是不是已经盘算好了去哪里一游？你是回到青山绿水的家乡被“催”，还是在灯红酒绿的都市里找“堵”？但要说外出旅行，最尴尬的事情，“不认字”绝对是其中之一。这个“不认字...
- ## [高通发布第一财季财报 与苹果的纠纷有望在今年和解](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=YUMQIOdFIrlgumCV101U6O9dkspuH1*YGPaTzOTa0VxXEHuR4SwB3aWVHxV5C2z13eNZZ2Fws3TaJkgDeNh-DurOQqwXQ-y1I9gAgl4HdB6y6mlweXfRFyhTDpq0AC-Y&new=1)
- > 高通1月31日发布了截至2018年12月30日的2019财年第一财季财报。按照GAAP规则，高通2019年的第一财季营收为48亿美元，较去年同期的60亿美元下降20%；营业利润为7亿美元；净利润为11亿美元。在财报后的分析师电话...
- ## [快讯|移动支付便民示范工程建设突出，国通星驿公司获中国银联点赞](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=WZOzcw*VOLsjT*d9whVZ7Sh2OK*YIo91kDNVecQTMlw7U6x1z2wbCFZF83tySbq5dFZWdMDeyReW61Ttv5eDJ7Iqos7RYB7PKye6iketFrUmdyXD9lymzqFRX-c0l-EG&new=1)
- > 本刊讯：国通星驿公司日前收到中国银联福建分公司发出的感谢信。感谢信说，国通星驿公司在与中国银联福建分公司的合作过程中，积极应对银联业务需求，主动出击，大力推动移动支付受理市场建设，成为福建省移动支...
- ## [\[热点\]长安街上黑屏被迫停车近两小时 李斌转让5000万股能否拯救Bug不断的蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=LngsDuNRKzm81WwACImQPXMqcJvZCQ578PJt6eygok4YdcsPSXeASJNkjout7f1zDnM7zysbaQz3ldnqJZBqRFaFIZRSf4ynnleodSIyiaATHJlo2r4iA2X593aRq6rD&new=1)
- > 近日，作为造车新势力的头部企业，蔚来汽车又有新举动。公司创始人、董事长、CEO李斌转让了其名下5,000万股股份（含189,253股A类股票和49,810,747股C类股票）用于成立蔚来用户信托。按照转让当日蔚来的股价，这...
- ## [狼来了么?英电通讯在华获牌照，缘何引舆论过度解读](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=-hXgHGbJK7F9nnnA-zGCU1Dppwy9wekHItg2N-8B3A0SKGhNwjKZ02TjnVrejdQ4TURLKhC54*Wzrvr*QAnqKbcERpRwRJqnHbYK4lU39uRtJ8ICvY-eP*xz5lDzdB0F&new=1)
- > 近日，一则关于英国电信（BT）成为首家获得工信部颁发全国牌照国际电信公司的消息在业内传出并引起轩然大波，一时间《撕开了口子，首家海外运营商获得在华电信业务经营许可》《再见联通！今天，中国打响第一枪！...
- ## [又一个铁饭碗或被砸，这次是中国移动!](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=h-7NdtUtKUUsLOeP3JkDAf*jHrs*mbR4jpIk6jeAWP7GONgimKYvPTyOHm499*C8BJ5E1RERP*232gwaw5zLhBFmKwTaOPHGPGB9yM2DaeAAP-RYsrZk21bo*FNdeZyq&new=1)
- > 经典回顾：① 朗诵：倾听，漫过红尘的故事（原创）② 朗诵：有你的冬，很暖（原创）③ 朗诵：染一缕雪魂，静待春天（原创）来源：互联网热点ID：web-news该来的终究来了！三大运营商从未像今天这般惶恐不安！一...
- ## [用德国匠心演奏出开源“乐章”](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=pWetZglrHU4LHXRTYXwlmucHAyCO1bqEzC-4acVFxnVCST020WNuXdVqlNGDJ9N3zvSucrniKlQgLsGBwNuIDvzMhyD69peFuIytv45H-ibp0TXfBrRf1Ybe2lE*d2s3&new=1)
- > 关键讯息，D1时间送达！江永清，一位三个孩子的父亲， 10年国外工作生活经历，25年国内以及亚太地区IT管理经历，面对着 IT行业里“不变的是变化”这一常态，会经常用很生活化的语言来阐述IT专业术语，幽默中透出...
- ## [数据科学家需要认证吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=wVycBU9bU5Yl-MEswGk6dGTSsbboH8ERDM3OMxUuYOfW2hKbI-Epg*QAguEZcjI0qeBiv0Cj9DOi0cxNIVxvmQZxpoqe62OYXPO3rXrNGT1aGl9Cmoywdxv0rwbuOf3O&new=1)
+ ## [Google+服务提前关闭，4月2日后不再对消费者开放](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=pZCyY7SMRLcZybFmD3jH8eXmgMb*S48kK5j4iVafjlOTXMwz3-PAG1M8CFsF9cUS5Wlwu2hCd7OpfJZSZu32sK2QtR9KSZET1KCgMO50UNZU3x7mK3FkNzlnWBMmsxFP&new=1)
+ > 去年10月谷歌宣布，Google+服务消费者版将于2019年8月正式下线，用户需在未来的8个月内备份数据、做“撤离”准备等。但是受“人脉API”bug影响，如今谷歌表示将提前关闭Google+服务。　　具体而言，2月4日起，Go...
+ ## [杭州萧山牵手清华紫光，投资50亿发力数字经济](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=kfj56mBSirpnt8B-jAFM54pm3RIBTLFy*LzZbUKwt2XVq97ri*P4eG7oy5BxSisrXhCdxGcDmln6W5P4vW5bJe4fCXnPGWDTppsICrJ0Nus8MS4U7pf04R36zAEES1Dj&new=1)
+ > 日前，杭州市萧山区政府与紫光集团在萧山正式签署战略合作协议，以深入落实萧山区数字经济发展战略，培育经济发展新动能，促进区域经济转型升级。萧山区副区长魏大庆和紫光集团高级副总裁、新华三集团联席总裁易...
+ ## [数据科学家需要认证吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=wVycBU9bU5Yl-MEswGk6dGTSsbboH8ERDM3OMxUuYOdpknInp72vRvYzTipS646OkXJCxkQXDs40XjX2MzYW0n9zYTCjuuUyBwk20AlZVl7yO4n81reFU9zjjMz6pfis&new=1)
  > 插图来源： iStockphoto 什么是数据科学家？最近，招聘求职公司Indeed勾勒出了这样一幅图：一位数据科学家是一位拥有“计算机科学、统计学或定量社会科学”学位，同时还在统计建模、机器学习和编程方面接受过一...
- ## [产业互联网揭开新篇章 安防构建智能经济生态圈](http://mp.weixin.qq.com/s?src=11&timestamp=1548984606&ver=1401&signature=oILPEn3233acT3XJbwBpbx81b0SPtzJLIqkPLUZqEXoT3xkxemruo6PA-YimRDZXKHgGucbvoRcHq3o4CVlTpG1woF02VpMX4HAXk5M0Z*gX0rsQ4xZda23Zosd5vWvl&new=1)
+ ## [微软：Mozilla，我劝你拥抱 Chromium!](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=6e5wN7XV1J-8040gG3mU9uCP5ccCiVA5Zjifda9TktN9JdJajvngTQQQQDxEqFHj713ALfgG8ZHB8mTJCWGUBYV-TQtkqkvsEAfR*hNXDD1MewAIrP72t3AxGP1REbmc&new=1)
+ > 想天下合久必分分久必合，时 Google 一方割据，气焰日炽，余之各方欲合围定局，然微软“临危变节”，投诚 Chromium。今不过月余，似意欲劝降 Mozilla，议之者众……图片来源：The Next Web近日，微软项目经理 Ke...
+ ## [程序员春节出游的正确姿势](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=pCADI8MwOa1ERgEWafHFc0vH18WEINcw0NRd8XWyf*m6b*bG-wxjmkEmgSLdmtJKtHzuNXL5bpsHqfgxy9SKLMhpuMMZU8yQd*R-PWo-IggaS6l4K73u*4ona0gMrEG9&new=1)
+ > 春节长假正式进入倒计时，各位小伙伴是不是已经盘算好了去哪里一游？你是回到青山绿水的家乡被“催”，还是在灯红酒绿的都市里找“堵”？但要说外出旅行，最尴尬的事情，“不认字”绝对是其中之一。这个“不认字...
+ ## [再见联通!刚刚，中国打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=nlDimxBP20pYUIMQUWSle8tDcALA5E10J*YoUVwZLmA17JRZpIfnHl2PTI4yc9myt0evCQeW76hNfhi5p0erz-UYN6D77ok13*aY3fy7FELn2O0n6fp6dT1OOUz7PGRz&new=1)
+ > 来源 | 财经要参（ID：mofzpy）作者 | 要参君01尘埃落定！狼，终究来了！刚刚传来大消息，中国工信部正式宣布：英国电信（BT）获得了在中国全国性经营通信的牌照。随后，英国电信也在第一时间证实这一消息！他们...
+ ## [\[热点\]长安街上黑屏被迫停车近两小时 李斌转让5000万股能否拯救Bug不断的蔚来](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=LngsDuNRKzm81WwACImQPXMqcJvZCQ578PJt6eygok6zZRoObV2BcbDnruFcuTPJPB-x8tqInrJTosO7hw*gAJGPnUZL8OSkl0RmEqBeB4czlzu*mRvbOAKsYi-y0eFX&new=1)
+ > 近日，作为造车新势力的头部企业，蔚来汽车又有新举动。公司创始人、董事长、CEO李斌转让了其名下5,000万股股份（含189,253股A类股票和49,810,747股C类股票）用于成立蔚来用户信托。按照转让当日蔚来的股价，这...
+ ## [狼来了么?英电通讯在华获牌照，缘何引舆论过度解读](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=-hXgHGbJK7F9nnnA-zGCU1Dppwy9wekHItg2N-8B3A3TsbBTnSqUtu7co4mFhibqYc4u12HlqL1es3-RFpVLfytbNqmgwIu0KVTAWStqocIt0D5QZIkDxXLatbRGWSmh&new=1)
+ > 近日，一则关于英国电信（BT）成为首家获得工信部颁发全国牌照国际电信公司的消息在业内传出并引起轩然大波，一时间《撕开了口子，首家海外运营商获得在华电信业务经营许可》《再见联通！今天，中国打响第一枪！...
+ ## [\[今日头条\]特斯拉新专利干掉英伟达，车企首款自动驾驶芯片这样放弃CPU和GPU](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=6yBUgbwGKO6RJumRwHwtAx6Y2ugxBA*QEkwbQt1ZftuHjdqIcgqh8WpWRbnRk9NCNpEIxjjjc3RJXj82pCJahTKy-f5qzB-2kClXhJxGUkdQ2I26yGd33NnbStXranSd&new=1)
+ > 在自动驾驶领域，GPU强大的算力是自动驾驶芯片的一种选择，也造就了拥有着最强大性能GPU的英伟达在这个领域的地位，英伟达Xavier也可能成为全球首个通过ISO26262标准的自动驾驶芯片。但是，特斯拉正在研发的这款...
+ ## [5G首单落地：中国移动将租赁五大设备商500个基站](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=euU6qghi9JSbyn906-Drqv0esqwVg8aKWJSAhWSRCC27bZomtBlFOoQOxU9ki-L4jFige3n5bJbX13ay-n0iFiSMOE4uxm4Hq9R5N-tE8FPKRqa0rs7sIzyPtO*eJoj4&new=1)
+ > 昨日，中国移动公布中国移动2019年5G规模组网建设及应用示范工程无线主设备租赁单一来源采购结果，华为、中兴、爱立信、诺基亚、大唐中标。据悉，本次需租赁5G试验网络无线主设备，以及配套的天线、相关软件、OM...
+ ## [平安集团李洋：用19年建座连接科技与安全的“桥”](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=qZ0UHNxasUl4kyWbGPjm78yDEJWNSml0DmJpXO9su5E0app06Nfc3yHq*j7GmICR6ZeWUf5nwdSbomup5j6lTjJGhv2VoQc1AzxMIqwYPuqU*n0F6PwSmnQn62w5gaEH&new=1)
+ > 诗作《在黑夜中前行》中有这样一句话：在黑夜中前行，眼前看不到一丝光明，脚下的路荆棘丛生，依然要有走下去的勇气。经历了各种曲折坎坷，心智也变得越发成熟，面对前进行中的黑暗我始终没有选择去逃避。如果将...
+ ## [从专利数量看全球最具创新力的50家公司](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=LgUzOEy6REkbk6uk2JdKp6gmxFGu1cdMzEhLhP3iOiYtOXbZG85eNfC4XP7q8Iic5bQd-6Y63Kq57NZfMkY2vBkPrLxYGW4-lS78GG1ckBSBYRcMAb8cTnjJNy4k7*C2&new=1)
+ > 来源：资本实验室专利，在很大程度上不仅代表着一家企业的技术实力，也代表着一个国家的长期发展潜力。很多机构也习惯用专利数量来衡量企业或国家的创新能力。为保护自身的技术发明，全球大型公司都会在很多国家...
+ ## [\[供应链\]华为高通达成4.5亿美元的“短期和解费”搅动手机市场一方风云](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=oA7RXhhSTNJXgu3Ddz7KVVfKqul8*tyK1*H65tJdVHyASQsfJnl3RNMtlKzYZJqbaW937km3ptKidULfDqe0uKrwCKRtRbAFpLphJuKAeb7-RARdYFsWZeTtRQFjZ3iD&new=1)
+ > 在新年来临之际全球手机市场都在喊“变天了”的时候，华为的一场握手言谈，牵动着各方的神经。1月31日，高通（Qualcomm）首席财务官乔治·戴维斯(George Davis)在与分析师就公司财务业绩举行的电话会议上称，华...
+ ## [产业互联网揭开新篇章 安防构建智能经济生态圈](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=oILPEn3233acT3XJbwBpbx81b0SPtzJLIqkPLUZqEXpUzIyaFRAWDw8mGVtuAZ0rsnb1-SDXTi3TJ1psETj-AtqjpOGthqrk7h*6MxTpGo7TCLe2mOnQSDnPlvADk6Ve&new=1)
  > 互联网日益深刻地影响着人们的生活方式，其科技创新成果惠及各行各业，驱动经济不断增长。2019年1月11日，波士顿咨询公司(BCG)携手阿里研究院和百度发展研究中心发布报告《中国互联网经济白皮书 2.0——解读中国...
- ## [某人意外去世后，家人如何知道他做了哪些互联网投资并拿回钱？](https://www.zhihu.com/question/25817086)
- > 这个问题我很早就考虑过了。1、我有一个加密文件，保存着我的一些账户密码的详细说明。2、密码有两部分，一部分给我父母拿着。另外一部分在网上保存着。3、有一个PHP程序挂在我的vps上，vps每年自动从我信用卡上扣...
- ## [王者荣耀中现在还有哪些bug，或者你认为不合理的地方?](https://www.zhihu.com/question/60258106)
- > 刚刚打了一把赏金从开局到完一直都是这样:-)
- ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
- > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
- ## [国外有哪些优秀的交互设计网站？](https://www.zhihu.com/question/19683367)
- > 你不容错过的国外优秀交互设计网站2019年已经到来，网页设计涌现了一些新的设计趋势，例如破碎网格设计，动态或不规则文字排版设计，流体特效应用等。也同时延续着2017和2016，甚至更早的网页设计趋势，例如简约风设...
- ## [有什么高效的学习方法推荐吗？](https://www.zhihu.com/question/307277057)
- > 推荐3个方法。才3个方法？如果你希望的是“提升效率的10大方法”，“XXX必看的20个学习法”......很抱歉，本答案不适合你。在精而不在多，一个人若能够学会，并且长期践行这其中一种方法，便已经能够走在很多人前...
+ ## [高通发布第一财季财报 与苹果的纠纷有望在今年和解](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=YUMQIOdFIrlgumCV101U6O9dkspuH1*YGPaTzOTa0VzlkPaYpP5*qF6Gvsdr4xKmzbIXNbD5z3ncq4Sc-JQazmD5Bzly30XceMQoMdMHOxSI67eBoim1h-C5I5JYtKwF&new=1)
+ > 高通1月31日发布了截至2018年12月30日的2019财年第一财季财报。按照GAAP规则，高通2019年的第一财季营收为48亿美元，较去年同期的60亿美元下降20%；营业利润为7亿美元；净利润为11亿美元。在财报后的分析师电话...
+ ## [新突破!联通5G助力智慧码头方案验证](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=jj9hvnCvMQOky-d2uyCkn16f2yds-1qGMo061yPE1tstIuLQiFKNRYT*5B*AE2j5rHuiVVaixLJmzEEWG0R7A98daMBcVRoz3*eev1WMAiHvYS197a5AGEfqFv5P-VZU&new=1)
+ > 近日，中国联通携手爱立信、青岛港和振华重工于青岛港新前湾自动化码头成功实现了基于5G连接的自动岸桥吊车控制操作、抓取和运输集装箱。这也是全球首例基于5G网络覆盖、在实际生产环境下操作远程吊车的实践。基...
+ ## [苹果被曝严重漏洞，FaceTime可被窃听!现仍未修复](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=UVkD5zNCFqYYfz1Wj3LtBjW8Y9B9DIg8MauzIezAi5G73Kj8Sgob45rwiXoDnX0kQiCBFloONXBMBHA68cEQmFzt8rLj9XoztqVK636aEAP-sQ5MBAqS8uI97vTycHHv&new=1)
+ > 实习生 洪永 科技日报记者 何星辉 苹果FaceTime存在重大缺陷，当用户使用这个功能通话时，可能会被窃听。针对媒体曝出的隐私安全问题，苹果公司表示将在本周晚些时候修复FaceTime的这一漏洞。向来以注重保护用户...
+ ## [快讯|移动支付便民示范工程建设突出，国通星驿公司获中国银联点赞](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=WZOzcw*VOLsjT*d9whVZ7Sh2OK*YIo91kDNVecQTMlwqD6B7vsRePBva8Kqd3CJS501n2CPv*7gvV5CI5YGaiskiQqcGN6iJVQRra1Dxp88uhBrDjmmZERebaYa5y9mq&new=1)
+ > 本刊讯：国通星驿公司日前收到中国银联福建分公司发出的感谢信。感谢信说，国通星驿公司在与中国银联福建分公司的合作过程中，积极应对银联业务需求，主动出击，大力推动移动支付受理市场建设，成为福建省移动支...
+ ## [微软多“云”转阴](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=szjLKpCPTJ8r1JljV2NVHZIyYr4uI0aOKn*HYQnm5lgLrGXsMNGccTTIxE1xAjo12B8V7VHtTvlXGA2fhjxFMVPyVb-KZNfzGmOa7Ac7IjKFgkPzObMiXkDbNtc3svLl&new=1)
+ > 如果整个行业入冬，可能哪一片云都躲不过。过去至少半年以来，美国科技公司们遇到各种各样的问题，但微软却成为资本市场看好的“安全岛”，理由就是人们看好整个云行业的发展，并相信微软 Azure 云业务会继续稳...
+ ## [展望2019丨5G+VR的春晚都要来了，VR的春天还会远吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1548991805&ver=1401&signature=wsEyz6HRlnhbKMhyAuLC2BQdMzmhM3y4NqSOvbDQxcQ6*j3HtIquq8EVbY1kecV3-YH4L*6VoLpLDDCrNCVHjjc*RNUXZ2-Gw3Gh2LwBmbxVRBPSUcCX*-kK7Di0cfLm&new=1)
+ > 2018年，虚拟现实产业迎来了Oculus Go、Magic Leap One等明星消费级产品，AR/VR 设备专用芯片骁龙 XR1，为付费VR内容注入强心针的现象级爆款《Beat Saber》，产业生态持续升级。IDC在最新的报告中指出，
+ ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
+ > 她吐不吐的，我不知道。但是我却可以确定。她的素质超级低！太能装。本来我也是挺喜欢她的视频的。但是最近看了几个视频。一下子把我对她的印象推翻了。第一个就是。12月29号的视频。去挑战吃超大碗拉面赢888奖金。她...
+ ## [UI、UE、交互设计三种职能的区别和侧重分别有哪些？](https://www.zhihu.com/question/19908889)
+ > UI从来就是以交互为主的，甚至要以技术部署实施为主。国内只不过很多人别有用心的把它扭曲成了“视觉设计”，这样可以更好地诱骗大量艺术生和平面设计转岗交学费。交互设计师这个名头，从来就不该存在。
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
@@ -66,60 +60,88 @@ categories: IT NEWS
  > 没有人天生就适合做运营。当你一只脚还没有踏进运营的大门，还没有真正体验过运营工作的时候，唯一能做的，就是快速积累一些运营相关的经验，通过面试，在学习和实际的工作中来判断自己到底适不适合。首先我要纠正题...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
- ## [现在小红书好像不能开店了，怎么才能进去呀？](https://www.zhihu.com/question/293311712)
- > 入驻比较困难，建议楼主可以买一个‘现成’的
  ## [如何防止多IP恶意刷短信验证码？](https://www.zhihu.com/question/35012702)
  > 这类情况的出现主要是由于无验证码识别人机导致的恶意行为，最直接有效的方法即增加验证码内容。相关阅读：验证码有什么作用？为什么有些验证码看起来很容易但是没人做自动识别的？滑动验证码的原理是什么？利益相关...
+ ## [后端同学是不是比前端同学理解业务更快？](https://www.zhihu.com/question/309488771)
+ > 1.如果题主说的是数据库模型，前后端分离的情况下，前端本来就不需要知道原始数据的结构。如果什么需求需要前端知道原始数据的结构，那就说明这个后端架构设计有问题。2.对于业务需求，前后端都懂的人会比单纯的前后...
+ ## [某人意外去世后，家人如何知道他做了哪些互联网投资并拿回钱？](https://www.zhihu.com/question/25817086)
+ > 写一份文档，里面写好所有信息，压缩加密。然后把加密的密码告诉家人。然后找个邮箱写一封邮件，附件是这个压缩文件，然后选择定时发送。如果十天不去取消一次的话就直接发到家人邮箱。这样你死后十天你家人就会收到...
+ ## [如果FGO玩家能够在现实中召唤游戏中抽到的从者会怎样？](https://www.zhihu.com/question/63178873)
+ > 拿我现在的说说吧，感觉这个问题挺有意思的。“阿尔托莉雅小姐，请注意不要过度饮食，饭钱实在太多了”“土方先生，练刀请不要在室内练”“玉藻猫，表藤太，三餐交给你们了”“阿尔托莉雅小姐和阿尔托莉雅小姐，请不...
  ## [如何评价「花瓣网」突然关闭一个月？设计师们有什么好的替代网站？](https://www.zhihu.com/question/309276788)
  > 最近花瓣网，暂时停顿，很多设计师都原地失业，想到这些，半仙也是彻夜难眠。为了让大家不那么束手无策。半仙为大家分享一些找图片素材的方法及网站。本次推荐分为第一找图梯队、第二找图梯队、精准找图、分门别类找...
  ## [请虎扑的网友评价一下，知乎与虎扑的差异在哪里？](https://www.zhihu.com/question/21824189)
  > 虎扑现在实在是太搞笑了一天到晚看不起微博看不起知乎看不起快手抖音结果天天从这几个网站偷东西天天批判小鲜肉skr 然后猛舔杨超越天天瞧不起舔狗绿茶转头就在爆照区疯狂“我好了”鄙视人家花钱的脑残粉然后自己看N...
- ## [马云为何可以预见未来？](https://www.zhihu.com/question/306170053)
- > 以前对马云的理解是：就是一个大忽悠，整天夸夸其谈，灌心灵鸡汤，做出来的淘宝假货横行。当真正从事了电商行业，马云确实很厉害，平台性思维体验在商业实践中的方方面面，四两拨千斤。马云真的是天生的战略家，能够...
- ## [大家怎么看《鬼刀》这部作品？](https://www.zhihu.com/question/40829502)
- > 1.《鬼刀》不是一部合格的漫画，甚至可以说不是严格意义上的漫画，它是一部模仿影视分镜，画面气质更接近游戏概念气氛图的插画合集。作者想要以一个世界观将其串联起来，这是一部练习和试验向的作品，是先有画面再凑...
- ## [最近流行的「我倒，你也网上冲浪啊」到底是什么梗？](https://www.zhihu.com/question/63563293)
- > 这么多年了，从56.6K猫到ADSL到光纤，从麻麻叉到奔二到i7，硬盘从1G到1T，老师从武藤兰老师到不知道谁谁谁，历史在前进，网络在变革，有且只有一句网络流行语从诞生开始一直都没有任何改变，今后还会一直流传...
- ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
- > 今天刚投诉了一名骑手。本人讨厌迟到，比较重视合同精神。我们这边外卖员经常超时，因此我会购买准时达plus服务。在快超时10分钟的时候，我就发现没有收到货的情况下订单被点击到达了。骑手没有提前打电话给我，我也...
- ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
- > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
- ## [如何评价多益网络不但不发年终奖，而且向员工索取红包？](https://www.zhihu.com/question/309696698)
- > 还有后续。。。没发红包的要写检讨，不然就会被标记，标记的话没有升职加薪的机会。。。话说：训狗都不这么训
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [产品经理有什么好的项目跟进方法？](https://www.zhihu.com/question/19608318)
+ > 可以借瀑布模式和敏捷开发模式1.站立会：每天15分钟左右的站立会，能够帮助你和团队了解项目进展状况以及每个人的工作情况，保证及时团队的项目问题2.周报：有效的周报能够帮助PM了解项目开发情况3.定期的反思会：...
+ ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
+ > 这个问题，我应该是最有发言权的吧！首先，让我们回顾几个有意思的经典互联网公司的面试题目，热热身。1. 给你一个长度为 n 的数组，其中只有一个数字出现了奇数次，其他均出现偶数次，问如何使用优秀的时空复杂度快...
+ ## [男程序员需要去整容吗？](https://www.zhihu.com/question/35584620)
+ > 作为拥有 2 年多经验的帅哥，我给勃勃你真诚的整容建议。1 首先脸型太大了，一胖毁所有，基本和帅哥无缘。需要节制饮食，断掉一切含糖的饮料和湖南米粉之类的精制的碳水食物。减肥一分靠运动，九分靠吃，如果能把左右...
+ ## [为什么那么多人喜欢去网吧？](https://www.zhihu.com/question/20911154)
+ > 在外漂泊多年，多年前的一个冬夜我蜷缩在躺椅上。旁边的兄弟一边抽烟一边跟屏幕那端的姑娘视频，角落里睡着了几个打lol的哥们，有中年男人请所有人喝水，还有小太妹专心做着直播。网管幸福地跟我们讲他年后即将奔赴的...
+ ## [2019 年的中国互联网，谁会发力入局，谁会黯然出局？](https://www.zhihu.com/question/306136279)
+ > 2019年的中国互联网，谁会发力入局，谁会黯然出局？这个还真有点说不准。因为回顾2018年的中国互联网来看，就已经够惊心动魄、颠覆常理了。在这里好像能做的也就是先盘点一下，2018年有哪些创始人黯然出局，&quot;被迫”离...
+ ## [商标和域名的关系是怎么样的呢？](https://www.zhihu.com/question/302469574)
+ > （图片为客户收到邮件）近日又一客户咨询商标被人注册为域名的事宜该如何解决。这封邮件让客户感到紧张的同时也产生了疑虑。近一年来，已经有多位客户对这类事进行了咨询，为了让更多的客户明白两者之前的区别，借此...
 # IT 技术 
  ## [TCP三次握手，四次挥手，你真的懂吗？](http://network.51cto.com/art/201902/591619.htm)
  > TCP三次握手，四次挥手，你真的懂吗？
- ## [对AR应用开发项目有帮助的12款优秀的增强现实类SDK](http://mobile.51cto.com/-591610.htm)
- > 对AR应用开发项目有帮助的12款优秀的增强现实类SDK
  ## [谷歌程序员辞职创业，赚钱还没原来多，码农工资有泡沫吗？](http://news.51cto.com/art/201902/591617.htm)
  > 谷歌程序员辞职创业，赚钱还没原来多，码农工资有泡沫吗？
+ ## [对AR应用开发项目有帮助的12款优秀的增强现实类SDK](http://mobile.51cto.com/vrar-591610.htm)
+ > 对AR应用开发项目有帮助的12款优秀的增强现实类SDK
+ ## [裁员、招聘、年终奖？看阿里、华为、格力等8大门派谁最走心？](http://news.51cto.com/art/201902/591627.htm)
+ > 裁员、招聘、年终奖？看阿里、华为、格力等8大门派谁最走心？
  ## [热点 | 猪年春晚红包难逃“幸福烦恼”](http://news.51cto.com/art/201902/591613.htm)
  > 热点 | 猪年春晚红包难逃“幸福烦恼”
+ ## [微信、支付宝、百度、今日头条：小程序“F4”的未来之战](http://news.51cto.com/art/201901/591503.htm)
+ > 微信、支付宝、百度、今日头条：小程序“F4”的未来之战
  ## [分布式容错架构很难？一篇给你讲清楚](http://developer.51cto.com/art/201901/591509.htm)
  > 分布式容错架构很难？一篇给你讲清楚
  ## [强化学习的框架化，会引爆AI开发的新脑洞吗？](http://news.51cto.com/art/201901/591519.htm)
  > 强化学习的框架化，会引爆AI开发的新脑洞吗？
- ## [10款优秀的免费开源实验室管理系统](http://os.51cto.com/art/201901/591483.htm)
- > 10款优秀的免费开源实验室管理系统
- ## [也谈Devops与微服务，有分亦有合](http://cloud.51cto.com/art/201901/591522.htm)
- > 也谈Devops与微服务，有分亦有合
- ## [开始使用Isotope吧，一款开源的Web邮件客户端](http://os.51cto.com/art/201902/591618.htm)
- > 使用轻量级的电子邮件客户端 Isotope 阅读富文本电子邮件，这个开源工具系列的第十一个工具将使你在 2019
- ## [什么是DNS缓存中毒？如何防止DNS缓存中毒攻击](http://netsecurity.51cto.com/art/201902/591616.htm)
- > 网络上出现互联网漏洞――DNS缓存漏洞，此漏洞直指我们应用中互联网脆弱的安全系统，而安全性差的根源在于
- ## [传统存储升级全闪存或混闪需要明确哪些问题？](http://stor.51cto.com/art/201902/591615.htm)
- > 传统的存储主要是基于SAS或者SATA等类型的传统硬盘，随着互联网的发展和企业业务的转型，SAS/SATA的性能已
- ## [运维成长日记：我是如何走上IT运维这条不归路的](http://news.51cto.com/art/201902/591614.htm)
- > 出来工作好些年了，从最初的小白，慢慢变成了老练的守城狮。
- ## [果粉去哪儿了？ 还会回来吗？](http://news.51cto.com/art/201902/591612.htm)
- > “果粉都去哪儿了?”这个问题不用回答。其实苹果销量滞涨已经长达三年，在价格策略无法继续加药效的情况下
- ## [史上首张中国面孔！阿里90后李响成为CNCF全球9位TOC 之一](http://zhuanlan.51cto.com/art/201902/591611.htm)
- > 美国当地时间2019年1月29日，全球顶级开源社区云原生计算基金会正式宣布其技术监督委员会席位改选结果。阿
+ ## [2018年阿里巴巴关于Java重要开源项目汇总](http://developer.51cto.com/art/201902/591635.htm)
+ > Spring Cloud Alibaba 致力于提供分布式应用服务开发的一站式解决方案。此项目包含开发分布式应用服务的必
+ ## [Yann LeCun等大咖对2019 AI发展趋势预测](http://news.51cto.com/art/201902/591633.htm)
+ > 人工智能被认为是一种拯救世界、终结世界的技术。为了消除噪音和炒作，VentureBeat与杰出人士交谈，他们通
+ ## [中国科大实现室温固态可编程量子处理器](http://news.51cto.com/art/201902/591632.htm)
+ > 从中国科学技术大学官网获悉，该校杜江峰院士领导的中科院微观磁共振重点实验室，首次在室温大气条件下实现
+ ## [Java能抵挡住JavaScript的进攻吗？](http://zhuanlan.51cto.com/art/201902/591634.htm)
+ > 公元2014年，Java 第八代国王终于登上了王位。第一次早朝，国王坐在高高的宝座上，看着毕恭毕敬的大臣，第
+ ## [程序员是如何神不知鬼不觉的弄丢银行1分钱的？](http://zhuanlan.51cto.com/art/201902/591630.htm)
+ > 前段时间和某银行合作共同开发了适合我们的一套支付系统。最近，我们对账发现某些订单始终都对不齐。银行
+ ## [Google Chrome 72的重要改进：禁止代码注入功能](http://news.51cto.com/art/201902/591629.htm)
+ > Chrome 72 的重要改进是优化浏览器应用的稳定性。尽可能减少浏览器崩溃的可能性。
+ ## [再见，Python！你好，Go语言](http://developer.51cto.com/art/201902/591628.htm)
+ > Go 语言诞生于谷歌，由计算机领域的三位宗师级大牛 Rob Pike、Ken Thompson 和 Robert Griesemer 写成。由
+ ## [国外最火的深度学习实践课新版发布，100%全新前沿内容](http://news.51cto.com/art/201902/591626.htm)
+ > 国外最受好评、理论+实践相结合、完全免费的 AI 课程――“给程序员的实践深度学习课”，刚刚上线了全新的
+ ## [谷歌承认违反iOS开发政策 苹果或将吊销其企业开发证书](http://news.51cto.com/art/201902/591625.htm)
+ > 谷歌当地时间周三承认，该公司旗下一款应用与 Facebook 一样违反了苹果的 iOS 开发政策。
+ ## [面试Linux运维工作至少需要知道哪些知识？](http://os.51cto.com/art/201902/591624.htm)
+ > 我们已经发过不少 Linux 面试题，但是单独的面试题总感觉会过于零碎，没有体系化内容给人的帮助大。
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [猫眼全球发售结果出炉，香港国际均获超额认购](http://www.lanjingtmt.com/news/detail/40424.shtml)
+ > 公告显示，猫眼此次IPO全球发行共计1.32亿股，其中面向机构投资者的国际配售部分获得适度超额认购，面向普通投资者的香港公开发售获得约2.32倍适度超额认购。
+ ## [阿里Q4财报看2019：唯有加快改革一条路](http://www.lanjingtmt.com/news/detail/40413.shtml)
+ > 由于外部环境因素，线上零售巨头阿里的财报格外引人注意，在发布2018年Q4财报之后，自然呈看衰和看涨两大极端。
+ ## [微信再推微信支付分  微信挑战支付宝能成功吗](http://www.lanjingtmt.com/news/detail/40420.shtml)
+ > 从红包大战到共享大战，微信与支付宝的支付大战已经持续了多年。因为用户属性的限制，微信在支付大战中一直打得很艰难，但最终还是在整个支付体系中占领了一席之地。
+ ## [2018年全国互联网业务收入9562亿元 同比增长20.3%](http://www.lanjingtmt.com/news/detail/40423.shtml)
+ > 2018年，我国互联网和相关服务业保持平稳较快增长。在物联网、大数据、云计算等信息技术和资本力量共同催化作用下，互联网行业业务不断创新拓展。
  ## [春运观察：反向春运、分期购票等成潮流，网约车更注重安全出行](http://www.lanjingtmt.com/news/detail/40419.shtml)
  > 如今，春运返乡方式变得越来越多元，返乡人群能够更加综合考虑并选择合适的交通方式返乡，网约车更注重安全出行，反向春运、分期购票等成为新的潮流。
 # PM 
+ ## [Invoice设计实例与最佳实践](http://www.woshipm.com/pd/1898489.html)
+ > Kat是居住在英国的加拿大人，作为网页设计师在网站设计中有很多新奇的想法。本文基于Kat Neville所写的文章进行翻译，并结合公司项目实战做的一些经验总结。因为涉及...
+ ## [碎片数据收集利器：结构化动态表单设计思路](http://www.woshipm.com/pd/1897363.html)
+ > 本文基于面向基本公共卫生的业务系统设计经验，抽象出一套适合大型ERP系统的表单业务数据模型，目标是最大限度保留系统弹性的同时，尽可能降低系统复杂度和开发成本。en...
+ ## [AI正在疯狂寻找Know-How](http://www.woshipm.com/ai/1897868.html)
+ > Know-How，指的是工匠时代师傅对徒弟口传心授的“行业秘诀”，之于AI行业来说，Know-How也是至关重要的。行业AI、产业AI、产业互联网，这些词在今天都已经变成了热门词...
  ## [ICON设计使用手册：如何设计一个优秀的图标？](http://www.woshipm.com/pd/1899538.html)
  > 图标设计，即icon设计，在界面设计中占有很重要的位置，一个好的图标，可以让用户“一秒即懂”，如何设计出优秀的图标，这篇文章给你解答。在图形交互界面（GUI）中，图...
  ## [道术法解读：一个优秀产品人的诞生](http://www.woshipm.com/pmd/1897724.html)
