@@ -1,51 +1,51 @@
 ---
 title: 2019-02-08 IT News
 copyright: true
-date: 2019-02-08 09:01:51
+date: 2019-02-08 10:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [断舍离：我彻底戒掉苹果、微软、Google、Facebook 和亚马逊之后?](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=XdgDIQvYPZtgd20ZJKrCsH7LdcfOXJI4eH5zUBZvHNlLrIS-Pbb2k83cQ4TJTo0P*TFQxZPB58fFqmUjIPESYBre0sC6zHXAcy5*iPDZ0cLo42SZLdk5sg4o0iWjcnCL&new=1)
- > 如今，纵使各大科技巨头桩桩劣迹在案，但我们最难放弃的大抵仍是它们带来的各种便捷的“免费”服务。本文则记述了告别苹果、微软、Google、Facebook 和亚马逊后一个月的真实生活。如果你也有意摆脱科技巨头，那...
- ## [特斯拉将以2.18亿美元收购储能公司Maxwell 苹果有意推出新款iPhone7/8|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=reF9SeSHhOWTX4jcGRgsjWi8NZ30Fxm3Vg7PiRiAb9wjo3dzg1JQsrA2TcPRhGBuLegu3yk6ye2H40Cp4-AobTVXB2doH7U58mKGuOOtViCpLXgfDgegPFFcPiKsonPc&new=1)
- > 动点科技 | ID：technode精选新闻特斯拉将以2.18亿美元收购储能公司Maxwell据路透社报道，特斯拉与储能公司麦克斯韦技术公司（Maxwell Technologies， Inc．）日前达成收购协议，前者将以估值2.18亿美元
- ## [新版Firefox 63浏览器两大新功能来袭：指纹识别和加密货币保护](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=iBRgskGWNAqo4nXDj9dvGc8G6ZKHY6eBto-XdEdcBQukaWN*xBNcFWniV3T2jBe2rlHgaon*lCTVCCnxA6KV4GWJ5-llSYrt5XoUReTJzHbacpgwI4fo-ZY7o93lotcj&new=1)
+ ## [新版Firefox 63浏览器两大新功能来袭：指纹识别和加密货币保护](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=iBRgskGWNAqo4nXDj9dvGc8G6ZKHY6eBto-XdEdcBQukaWN*xBNcFWniV3T2jBe2r-606xypKQTMulGr1n5ZxZGDSZ30SPBqayMGWWjHOtAHid-D6IgG-9ZBhZQ3hPvn&new=1)
  > Mozilla Firefox在即将升级的Firefox 63“追踪保护”功能中提供了内容拦截等功能，改善了用户体验的安全性。新版本预计在2019年5月发布，除了具备静音自动播放视频的功能外，Mozilla将在Firefox 67中推出指纹
- ## [用不用华为 欧洲进退维谷](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=AzzG1oconCH3h8KKrpgj34rScpvR5Rl-YNBAOdtdk6-SdHOgbWxCxmpnMRzwJA*f2fK-bsLGEkQYRuXuY8T1SDBO4Moct5*iK0jmL51jJllCxuldryz-jMxfM*H7USzR&new=1)
- > （柏林讯）5G通讯网络是未来人工智能技术普及的设施，这一基础建设是每个国家都须重视的要务。德国之声指出，欧洲业内人士也承认，在5G技术领域，华为已经走在前面。用与不用，是两难的选择。法新社报道，与亚洲...
- ## [北汽燃油乘用车即将退出北京!明年在京停产停销](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=CdreePbwi775R4d-kY--0UCy6O5HLWaYJoyvvDSvF7mCsVS9sw9N9lOy809WUi76jtMGLC2vuR85VzpVwUBPdQ9rZZdh-tRRNv13CZM6hfRORprDhPHkkgZE0j9n03tx&new=1)
- > 重磅推荐需要批量下载和及时更新最新汽车行业分析报告的朋友，可以加入我们的《车友圈》分享会，大量的中外文精品汽车行业分析报告及各类专题资料将会优先分享到车友圈中，加入即可下载全部报告（长按识别下方二...
- ## [ICT故事会丨新的一年，小编向你安利一发“私藏”流量套餐，直播视频随便刷~](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=ky7zd38S4UOilWh22rtotB*rK16dqc3KyQRRgEGYNByWUN3ihcIAtJV2MRM64ock8NNNRz-dal0VPMiukYsbJWeL1I918*ba0FQ0tv5dPpNbq2kftgCZeyB6rSjKPvgO&new=1)
- > 每年春节都被总编布置作业写故乡的通信业发展情况，我看别的老编小编都在各种抒情，决定还是给大家通报个实惠的流量套餐，通信业发展的越好，不就是体现在每个老百姓都能用到越来越便宜实惠的套餐嘛。虽然流量已...
- ## [微软巨败](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=GZDgqV8f6Bk624PVm-bqTbcIwjNkjAYJa9LpSWxIjVmjhRHBW6Q0zZM8UsGQ4qKC9NboY-ypLXrI0nKsMjBUHM2MxD-J5gr4LschP7YBK2cr5GX5I6BV9QlSH3SU-xB9&new=1)
+ ## [微软巨败](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=GZDgqV8f6Bk624PVm-bqTbcIwjNkjAYJa9LpSWxIjVmjhRHBW6Q0zZM8UsGQ4qKClbzKdMi9P0u685p8NFKfFzpYyktQF0EewgXTuVPEF7qSE7ResuII3LmxdCZMu3ra&new=1)
  > 作者：正解局本文授权转载自：正解局（微信ID：zhengjieclub）◆重返第一的微软，赢了现在，输了未来。1975年，比尔·盖茨创业时发下宏愿，要让“全世界每个人都有一台电脑”。鉴于微软对电脑普及的贡献，他确实...
- ## [有人偷看?](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=HXNfJ8IHt6sTM494OixU9YxZhQ2HvZ7kjooZZo36EQz4aVbb7tewZpavqNy1ZqrxED3sCXh-b2b6A5WIr1346kWPkZax7ICagKY*BgjJr*UfTyOSRPt5qji8SAUpllLO&new=1)
- > OverSight 是一款 macOS 应用，帮你查出来哪些软件在偷偷调用你的摄像头和话筒。@Dalieba.发现Photo by Matthew Henry on Unsplash安装 OverSight 以后，如果有应用调用话筒或者摄像
- ## [韩国手机保有率达95%，世界排名第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=Botx33cKWfH1rxclRF5cnOSBwHRXtVUmAWAU1hVFQC8Dx5qHs5UzlA3Hb7uGC0THh4yUQR2*NQehHBvFWkBJYiq98UhtjvRb5WbJjbGs5yrbwo9Qnw9i6j3o2aSWvS0R&new=1)
- > \[亚洲经济记者\]调查，韩国的智能手机保有率在全世界最高。（保有率=持有率或拥有率）2019年2月5日(当地时间)，美国舆论调查机关Fefe research表示，韩国智能手机拥有率为95%，在被调查的27个国家中最高。没有智...
- ## [移动用户如何查询所在地区是否支持eSIM服务?](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=riQEab2usxpBi6eknN-IpMLI50xI7BWq69Ib5TAbLHjMh4I11Ce95PWnnKVIbxHzlttctJph0Moq4oOxRXmhUkzT8pqKI863th1ZrqEVmMtyq0j2vv5rJCdFZon6qDJI&new=1)
- > 之前中国移动开启了eSIM服务的体验阶段，支持城市：天津、上海、南京、杭州、广州、深圳、成都7 个城市率先体验。如果你有Apple Watch 3、4 并且还是中国移动的用户，你可以尝试开通eSIM服务。最近有用户反映中...
- ## [中国联通董事长王晓初新年致辞全文 用3个词描述2019目标](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=uqT6uMt-*mOMgp81zpRU2*aUxr3xsyyHqWYsTv2ReHOEyQ--LD*bYy-785MVNxVLmT34lRM8hdqbg8ZNiK1Kk*ioIZJEwm0xErEPjutmxqCLiGPdVBP6-mW7mE6gZaJi&new=1)
- > 运营商财经网 廖有利/文2月3日，中国联通董事长王晓初代表中国联通发来新春致辞。运营商财经网了解到，王晓初在致辞中用“面貌发生显著改变”来形容联通的2018；对于即将来临的农历2019，王晓初却用“大庆之年“...
- ## [苹果 AR 头戴产品牛人离职，曾发明 HoloLens](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=rc3BNcSYZie8KJiMGs58iSfh0Q8waEulIFVfrOVIXc3XDRr6XxBVJ3w9bcFVjM*KYRzJfTGsfP395znD2-woFiPeIP3IRfpguxc4q8PaJkQRuPZnEdfQdsgzI7gUJ8RM&new=1)
- > 据 Variety 报道，HoloLens 头盔联合发明人 Avi Bar-Zeev 已经离开苹果。此前有报道称 Bar-Zeev 一直在苹果负责增强现实头戴式产品的研发，他已在今年一月份离开苹果并通过 Variety 网站发布声明称：「我
- ## [从Linux到Windows的PowerShell远程处理](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=GoP2co6K8u9rPQH4tg5L9puTD73tD37inKBlsr4O9OcNNJYN5OamQeSVSgDMc1l2aWA4Z33e1fTdLa2M3GE4wK4-B6w5marDLazIxbpgvf2hDXtiBcf*UUr1tBx2tqdH&new=1)
- > 前提条件1）后期利用期间可以通过目标NTLM身份验证2）重启WinRM服务3）使用此NTLM支持PowerShell Docker镜像到Linux的PS-Remote，您可以从Linux到Windows进行PS远程到Windows。背景资料
- ## [机器人只知道工作?玩起游戏甩你两条街!](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=Q6jGb35aLrmXzd2ZjqUlNYA2VoE15X7QO*G1XJii9--uwbR7cxoZ4yBAkqMijxwzdGD6V-V5pbphFRUupC21rGaz32Xvsj3FvaA50G47EItphAUPiAOClmaOAGgzGCvI&new=1)
- > 在很多人的印象中，机器人带给我们的感觉是刻板的、呆笨的，只知道按照程序设定，中间无论遇上什么，只知道横冲直撞，一点也不精巧或聪明。但自从阿尔法狗连续打败了多位世界级围棋大师后，我们对机器人的印象开...
- ## [Facebook公关主管Caryn Marooney离职](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=9sfqtzgKWMBOZBvs0kG8you8Bocwi9AsqyG*Wb2GTQwkLrUXAallwrYxkDHxmaKVWYqD0ZDQJ8kgsA23C7wrxubN0iq2TRUY7EbOanRrtmywbIOAqX4*HQISQszrV8P1&new=1)
+ ## [Facebook公关主管Caryn Marooney离职](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=9sfqtzgKWMBOZBvs0kG8you8Bocwi9AsqyG*Wb2GTQwkLrUXAallwrYxkDHxmaKVPEbuMXU8rhlWBEBDNDTFa*TOvgITIoYahDowWTjxOV1u3IToHYfzCS3PnRp3U8mq&new=1)
  > Facebook首席公关主管Caryn Marooney 在Facebook上宣布即将离职，已在Facebook供职8年，目前，Marooney的离职日期仍不确定，但Facebook发言人表示她将继续留任，直到接替者上任。据公开资料显示，1
- ## [机器人VS人谁更牛? 挨踢妹带你去机器人餐厅、酒店、银行……(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=LdcUdU7c2etvMXioLbTmskpZnQCg3AsdkhxbBVlf2pH1-pCGpb4fg50BsoB7R6ooo1wXUMtX3Q-ikENSfrMnxF5c6w4Vov8p8irK56zhtHWrJBQW3J*YOLb3ZGIk6u3G&new=1)
- > Robot，在1920年捷克斯洛伐克作家卡雷尔·恰佩克的科幻小说中，这种被大量制造充当劳动力的“人形人造人”，有了自我思考能力后，开始暗中策划一场替代人类的计划，最后，Robot接管了地球，并毁灭了它们的创造者...
- ## [京东方肖爽：2018年出货100万片VR屏幕，今年计划翻倍](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=CAFexPu-ihKAwtfLFacv5hRlBorsRKvXLcXBpsRXcKOfAhW14pVqj6p1HW6brMjjJ3T-973gtacWRaxgkFv2vcr44Yq2-iwPxZStGQfajlmcNIvk2Dib14FrPs-LhYpc&new=1)
+ ## [北汽燃油乘用车即将退出北京!明年在京停产停销](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=CdreePbwi775R4d-kY--0UCy6O5HLWaYJoyvvDSvF7mCsVS9sw9N9lOy809WUi76DcFbGS25QdgmhL4HtxfY1fIHj6OcRy8UrYtMgXQxNYFKVAKmx1Ini025Rs0mFmUq&new=1)
+ > 重磅推荐需要批量下载和及时更新最新汽车行业分析报告的朋友，可以加入我们的《车友圈》分享会，大量的中外文精品汽车行业分析报告及各类专题资料将会优先分享到车友圈中，加入即可下载全部报告（长按识别下方二...
+ ## [京东方肖爽：2018年出货100万片VR屏幕，今年计划翻倍](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=CAFexPu-ihKAwtfLFacv5hRlBorsRKvXLcXBpsRXcKOfAhW14pVqj6p1HW6brMjjUpsAabh8AWeTye6cBxooymvACk0WEbjL*HATGe83hFcGw1opG-uIlHf0m-qjdM1E&new=1)
  > hi188｜ 撰文“2018年市场上没有大的爆发，更像是技术上练兵的一年。”京东方VR/AR业务负责人 肖爽向青亭网表示，在大潮中沉淀下来的基本上都是有技术、有信心的企业。与前两年相比，2018年的VR产品从零部件的角...
- ## [支付宝有多安全?蒋昌建现场体验“黑客”攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=3ivkn9*O5zxlzK36MotBhSVsr4STWCpltrC87ReOHogomPriZ3Fq8sqWK0m2izJhi8ZmlXyozIB9gRdemwsyjESMKnc9ZCfEwA7NVPgtyOkw-r2a9CjyU7jHL0IcpI6q&new=1)
- > 在以前经常听说谁家自行车停路边被偷了，谁家又遭贼了，在那个安全设施匮乏的年代，小偷明显有了更多的机会。但进入互联网时代之后，那些传统的小偷们似乎一夜之间就“失业了”。有“失”就必有得，近年来网络金...
- ## [人工智能在通信网络故障溯源的应用研究](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=so4B-k2O8a8N1gHjjI6zDLI-YPnuxKOH4n5YuTtic65LFll8SgGQqpph0h8cZmCQhFZs510cmJACPZ*uxPONr6mXn8H2RLuhECutfd4fKi8EBpmJhfgFeTTZkHSF1CO0&new=1)
+ ## [有人偷看?](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=HXNfJ8IHt6sTM494OixU9YxZhQ2HvZ7kjooZZo36EQz4aVbb7tewZpavqNy1ZqrxOBMJI1OAzO8cPBEK6nxP-c3kxtaefxwCLv-xWtgrRyuYM*j9RZY8hWvQLxgqIVrg&new=1)
+ > OverSight 是一款 macOS 应用，帮你查出来哪些软件在偷偷调用你的摄像头和话筒。@Dalieba.发现Photo by Matthew Henry on Unsplash安装 OverSight 以后，如果有应用调用话筒或者摄像
+ ## [人工智能在通信网络故障溯源的应用研究](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=so4B-k2O8a8N1gHjjI6zDLI-YPnuxKOH4n5YuTtic65LFll8SgGQqpph0h8cZmCQQHl18Y9CMFcYS*2E5E2RmxVK7t3MgnEUjeZ1jV872lXHJEFb3YxpcA0pSNShs7Im&new=1)
  > 本文经《邮电设计技术》授权发布如需要转载，请联系《邮电设计技术》获取授权邮电设计技术公众号：ydsjjs，欢迎关注！摘要：重点探讨了人工智能在通信网络故障溯源方面的应用研究和相关案例。首先介绍了目前网络...
- ## [新的Linux后门开始肆虐 主要攻击中国服务器](http://mp.weixin.qq.com/s?src=11&timestamp=1549585806&ver=1415&signature=pN2iLLnrXGJlVUS6aqJAILP9X2qDLqWLESRPzApAAykKyunfS7NQSeAQzo0hYV0Mo763pReIwMhm0Sf2Ww7rLLoGq0I0ScaZTdXbWwh0r4P7PZraFuKu3-pox-Ey03vp&new=1)
- > 一种新的 Linux 系统后门已经开始肆虐，并主要运行在位于中国的 Linux 服务器上。据ZDNet 报导，该恶意软件名为SpeakUp，三周前由 Check Point 安全研究人员发现。研究人员表示黑客利用 PHP 框架 ThinkP
+ ## [机器换人一触即发，印度市场飙升三成](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=OpD9dwtjEVxlDY31U65UPmW1bKskfpkKAZ4wbm2fLWtDkJHjWIXzn82VzbsLG2eHSU8PrpbVVTby6qzVIp2gw0l-fyQWJfhy3whxM7xynsNE8uQMt4gSXbJPcuS51O8h&new=1)
+ > 人力成本上涨已经成为全球化的趋势，生产线“机器换人”一触即发。近年来，工业机器人零部件和传感器、控制技术不断突破，使得产品的成本进一步下降，并逐步应用到各个行业的生产线上，代替一些低价值的重复性劳...
+ ## [支付宝有多安全?蒋昌建现场体验“黑客”攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=3ivkn9*O5zxlzK36MotBhSVsr4STWCpltrC87ReOHogomPriZ3Fq8sqWK0m2izJhkHuKbCH3Ie3jQLVQQrGlVswvFCgdTm6z*cqsqjZ6T8hH5qAbu8FyL5QbfYaioqmD&new=1)
+ > 在以前经常听说谁家自行车停路边被偷了，谁家又遭贼了，在那个安全设施匮乏的年代，小偷明显有了更多的机会。但进入互联网时代之后，那些传统的小偷们似乎一夜之间就“失业了”。有“失”就必有得，近年来网络金...
+ ## [用不用华为 欧洲进退维谷](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=AzzG1oconCH3h8KKrpgj34rScpvR5Rl-YNBAOdtdk6-SdHOgbWxCxmpnMRzwJA*feiWUw6-HqKs1HUyS5FyG0HIKdpXU1hG4vbf-qgN90*4*e4dDPbCCwjf*xHnfEcey&new=1)
+ > （柏林讯）5G通讯网络是未来人工智能技术普及的设施，这一基础建设是每个国家都须重视的要务。德国之声指出，欧洲业内人士也承认，在5G技术领域，华为已经走在前面。用与不用，是两难的选择。法新社报道，与亚洲...
+ ## [特斯拉将以2.18亿美元收购储能公司Maxwell 苹果有意推出新款iPhone7/8|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=reF9SeSHhOWTX4jcGRgsjWi8NZ30Fxm3Vg7PiRiAb9wjo3dzg1JQsrA2TcPRhGBuHzon1qoIZBI0w1d5tnCb4aOnwFd0L0-6634Z6e9uCReJ9e3KIRU9Ev7QW2krr*KT&new=1)
+ > 动点科技 | ID：technode精选新闻特斯拉将以2.18亿美元收购储能公司Maxwell据路透社报道，特斯拉与储能公司麦克斯韦技术公司（Maxwell Technologies， Inc．）日前达成收购协议，前者将以估值2.18亿美元
+ ## [机器人VS人谁更牛? 挨踢妹带你去机器人餐厅、酒店、银行……(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=LdcUdU7c2etvMXioLbTmskpZnQCg3AsdkhxbBVlf2pH1-pCGpb4fg50BsoB7R6ooR0YaXzHGgwSNCsftHRkSPM**iueYv37Rdr-ET7aYGj10Sx1SQFzEE5U9-9iLl8cy&new=1)
+ > Robot，在1920年捷克斯洛伐克作家卡雷尔·恰佩克的科幻小说中，这种被大量制造充当劳动力的“人形人造人”，有了自我思考能力后，开始暗中策划一场替代人类的计划，最后，Robot接管了地球，并毁灭了它们的创造者...
+ ## [ICT故事会丨新的一年，小编向你安利一发“私藏”流量套餐，直播视频随便刷~](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=ky7zd38S4UOilWh22rtotB*rK16dqc3KyQRRgEGYNByWUN3ihcIAtJV2MRM64ock2uCvglRE8ogiIDCmBB906CecH0EXpbTi0HgockZWn9QGwnxV7tTOipijcHn-uzsj&new=1)
+ > 每年春节都被总编布置作业写故乡的通信业发展情况，我看别的老编小编都在各种抒情，决定还是给大家通报个实惠的流量套餐，通信业发展的越好，不就是体现在每个老百姓都能用到越来越便宜实惠的套餐嘛。虽然流量已...
+ ## [韩国手机保有率达95%，世界排名第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=Botx33cKWfH1rxclRF5cnOSBwHRXtVUmAWAU1hVFQC8Dx5qHs5UzlA3Hb7uGC0THiBzlB*xNYWT*Jg9ubG2q7E7c8iiVdufJ5JC77Pk3IvP-DcMkMwRxSskTnEA4HN0d&new=1)
+ > \[亚洲经济记者\]调查，韩国的智能手机保有率在全世界最高。（保有率=持有率或拥有率）2019年2月5日(当地时间)，美国舆论调查机关Fefe research表示，韩国智能手机拥有率为95%，在被调查的27个国家中最高。没有智...
+ ## [苹果 AR 头戴产品牛人离职，曾发明 HoloLens](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=rc3BNcSYZie8KJiMGs58iSfh0Q8waEulIFVfrOVIXc3XDRr6XxBVJ3w9bcFVjM*KKObY5sflfJnK7IWDEp7Y7wtxz*5vD3PP9FPd5ZjSCHL75AwWPjcfxsPLkc5hbQOS&new=1)
+ > 据 Variety 报道，HoloLens 头盔联合发明人 Avi Bar-Zeev 已经离开苹果。此前有报道称 Bar-Zeev 一直在苹果负责增强现实头戴式产品的研发，他已在今年一月份离开苹果并通过 Variety 网站发布声明称：「我
+ ## [机器人只知道工作?玩起游戏甩你两条街!](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=Q6jGb35aLrmXzd2ZjqUlNYA2VoE15X7QO*G1XJii9--uwbR7cxoZ4yBAkqMijxwz-pywHc4UpNtXZOKrQxBITMuLkYr3KLgkYS5yLt7QaCGZjNDIvcmIecRRYxGHOZZs&new=1)
+ > 在很多人的印象中，机器人带给我们的感觉是刻板的、呆笨的，只知道按照程序设定，中间无论遇上什么，只知道横冲直撞，一点也不精巧或聪明。但自从阿尔法狗连续打败了多位世界级围棋大师后，我们对机器人的印象开...
+ ## [断舍离：我彻底戒掉苹果、微软、Google、Facebook 和亚马逊之后?](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=XdgDIQvYPZtgd20ZJKrCsH7LdcfOXJI4eH5zUBZvHNlLrIS-Pbb2k83cQ4TJTo0PXyd1bIhSPQ*ckf60fRuwMYs3vd7PtQPr5F6H-aEzjioipKInxPcHRHeoI82aMv4D&new=1)
+ > 如今，纵使各大科技巨头桩桩劣迹在案，但我们最难放弃的大抵仍是它们带来的各种便捷的“免费”服务。本文则记述了告别苹果、微软、Google、Facebook 和亚马逊后一个月的真实生活。如果你也有意摆脱科技巨头，那...
+ ## [中国联通董事长王晓初新年致辞全文 用3个词描述2019目标](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=uqT6uMt-*mOMgp81zpRU2*aUxr3xsyyHqWYsTv2ReHOEyQ--LD*bYy-785MVNxVL05QTZjIfEvcApPNavxpgVVU8FawZ3oUPLoDkS5jY3CC-rXQbsLg8FFpAc4PGojGx&new=1)
+ > 运营商财经网 廖有利/文2月3日，中国联通董事长王晓初代表中国联通发来新春致辞。运营商财经网了解到，王晓初在致辞中用“面貌发生显著改变”来形容联通的2018；对于即将来临的农历2019，王晓初却用“大庆之年“...
+ ## [从Linux到Windows的PowerShell远程处理](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=GoP2co6K8u9rPQH4tg5L9puTD73tD37inKBlsr4O9OcNNJYN5OamQeSVSgDMc1l2ZJ9cb1jUOCbjK4pGBpCw4mizNAWpeupV1BastPGiU4euejXw5WiYBddxYvLHvhxB&new=1)
+ > 前提条件1）后期利用期间可以通过目标NTLM身份验证2）重启WinRM服务3）使用此NTLM支持PowerShell Docker镜像到Linux的PS-Remote，您可以从Linux到Windows进行PS远程到Windows。背景资料
+ ## [移动用户如何查询所在地区是否支持eSIM服务?](http://mp.weixin.qq.com/s?src=11&timestamp=1549589406&ver=1415&signature=riQEab2usxpBi6eknN-IpMLI50xI7BWq69Ib5TAbLHjMh4I11Ce95PWnnKVIbxHzApQa5SKCFwgcDiGPPkHUBASrtoDxusxTaVU4VYMWuTB-875HSXRXQGam9LWCYfda&new=1)
+ > 之前中国移动开启了eSIM服务的体验阶段，支持城市：天津、上海、南京、杭州、广州、深圳、成都7 个城市率先体验。如果你有Apple Watch 3、4 并且还是中国移动的用户，你可以尝试开通eSIM服务。最近有用户反映中...
  ## [IT圈里的人想要创业，一定要选择与互联网相关吗？](https://www.zhihu.com/question/311080821)
  > 我有以前的同事去干医药行业了，有关系，利润超大，爽得不要不要的。我也有同事去干奥数家教的，自己当自己的老板，不用朝九晚五，也不用像程序员一样不停学习新东西，奥数那一套反复用就OK，好爽。我还有同事直接...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
@@ -60,18 +60,16 @@ categories: IT NEWS
  > 入驻比较困难，建议楼主可以买一个‘现成’的
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
  ## [如何评价知乎 2017 年 1 月 的改版？](https://www.zhihu.com/question/54527018)
  > 闲来无事，用的不舒服的地方吐几个槽一、兼容性不完善去年换的Surface Pro，系统win10自带的Edge浏览器。图标全空，知乎logo都没了，功能也没法正常使用，例如在Edge里回复评论总是失败的。以前旧版知乎玩的挺好...
  ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
  > 不匿。原来真的很喜欢她 所有大胃王里最喜欢看的就是她 原来是甄甄 现在是mini了 但后面有一期 是给哪个零食做广告把。一直balabala的在说卡路里低 健康 不会发胖。？？？那个就是类似麦片的零食。我自己买来了 很甜...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [程序员如何看待产品经理这个职位？](https://www.zhihu.com/question/310998371)
- > 微软的pm在申请签证和绿卡的时候曾经可以当manager申，拿到工作签证后秒拿绿卡。但是我们都知道，pm并不是people manager，只是移民局被忽悠傻了。pm在微软不管dev，pm得老板也不会是dev的老板，我们还有人做pm lead...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 没想到大半夜居然看到马化腾本人的提问。我提一个点，斯格明子霍尔效应与互联网数据存储。我们在互联网上所接触到的一切信息，从文字，到图片再到视频，都是被分解为一个个字符编码，存储在一个个硬盘中的，就是我们...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [如何看待有赞“996”工作制遭劳动监察部调查，是否能改善互联网公司普遍超时加班的违法现象？](https://www.zhihu.com/question/310798836)
  > 有赞公司的行为，除了违反劳动法之外，还给所有对互联网公司怀有不切实际幻想的年轻人敲响了警钟：有些公司想让你卖力挣钱，有些公司想让你卖命换钱。虽说已经被劳动监察局调查了，但是想改善互联网公司普遍加班的现...
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
@@ -80,8 +78,10 @@ categories: IT NEWS
  > Mathpix(Mathpix Snip) 疯狂安利了，一键截图把图片转成TeX公式。是我目前用过的最方便、准确率最高的公式转换工具。可以是截图：还能是手写：识别率还是蛮高的，省了很多手撸公式的时间。
  ## [如何评价老猫新书《大道朝天》？](https://www.zhihu.com/question/66671585)
  > 老猫的书是从将夜还在更新的时候读起的，前半段一口气读下来峰回路转荡气回肠，后半段追更磨磨蹭蹭扣扣索索，到了择天记三天两头请假更是影响阅读体验，好不容易熬到了完结，心想这什么狗屁玩意，觉得老猫真真江郎才...
- ## [请问一下这种数据动图是如何做出来的？](https://www.zhihu.com/question/302105116)
- > 用 Python 可以做这种数据动图，先上成果！一般来说，这种视频都是用专业的动画软件做的特效，比如说 AE，普通人很难快速学会。但如果用 Python 程序来实现的话，只要你有一个 Excel 文件，程序就可以根据里面的...
+ ## [如何评价微软收购 Revolution Analytics？](https://www.zhihu.com/question/27754702)
+ > 微软收购Revolution Analytics可以看到传统数据库企业面对大数据爆发式发展时的窘境和应对。我们也窥到，数据库和复杂计算尤其是分布式计算的融合将成为一个趋势。传统数据库通常只需解决数据的存储和简单的查询问...
+ ## [你有哪些提升做事效率的方法或思维？](https://www.zhihu.com/question/25039870)
+ > 我有攒资料的习惯。在论坛或者公众号上看到好文章，会习惯性收藏起来，留待过一阵子闲余时间多的时候细读。可结果往往是，这些资料大部分我其实都不会再看的。天知道所谓的「闲余时间」哪一天会真正到来。我有个朋友...
  ## [2019 年的中国互联网，谁会发力入局，谁会黯然出局？](https://www.zhihu.com/question/306136279)
  > 2019年的中国互联网，谁会发力入局，谁会黯然出局？这个还真有点说不准。因为回顾2018年的中国互联网来看，就已经够惊心动魄、颠覆常理了。在这里好像能做的也就是先盘点一下，2018年有哪些创始人黯然出局，&quot;被迫”离...
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
@@ -105,6 +105,10 @@ categories: IT NEWS
  > 微信、支付宝、百度、今日头条：小程序“F4”的未来之战
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [春节红包的新流量套路：互联网生态化时代已然来到](http://www.lanjingtmt.com/news/detail/40465.shtml)
+ > 相对于往年的红包营销策略，今年的红包营销方式与往年有很大的不同。除夕之夜，火爆的除了春节联欢晚会之外，还有各大平台的抢红包活动。
+ ## [春节透视消费新风口：独特视角下新零售的新未来](http://www.lanjingtmt.com/news/detail/40467.shtml)
+ > 传统电商专注于建构一个以线上为主的销售网络，新零售则更加关注线下场景的打造，以实体店的方式来弥补线上的空白。
 # PM 
  ## [比茑屋书店更牛逼的，是它背后的母公司](http://www.woshipm.com/chuangye/1904283.html)
  > 在日本代官山，一家被称为“全球最美书店”的茑屋书店（TSUTAYA BOOKS）最近很火，网上也有很多文章都跟进分析了茑屋书店的运营方法，怎么用设计感吸引用户。今天这篇文...
