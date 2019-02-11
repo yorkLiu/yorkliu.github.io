@@ -1,61 +1,53 @@
 ---
 title: 2019-02-11 IT News
 copyright: true
-date: 2019-02-11 12:03:14
+date: 2019-02-11 17:05:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为什么春节假期快结束 要上班了却开始下雪降温了?](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=oiqsNuZqSlMQEKcyuGI1vdXiXy18rf*D7Q7LQnJGCQqAzq2XHtNLEJU2PAUezZo0XvhGrVUpB2Vfaea*M77N*-vRYjuP592Zr2tXzk1-FbwW4n2sus6v40wzgXHOWpQn&new=1)
- > 其它原因 请在留言区补充来源：运营商情报 监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
- ## [\[项目分享\]一款与众不同的智能家庭音乐系统](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=KlGzaeXOugTuF5gJkEI1QgAUkOBDu5QFmjxBRnzMAXG29jUpekJTnalS*9PW5KRiGqUrEqhm2QP8v-PGaQ0muym6sj*Y8-fWWOM3l2IqjpkotnT8mdJO8HZlctcJkmqk&new=1)
- > 《贸泽电子智造创新大赛》优胜奖 作品▌项目概述本系统基于NXP的LPC54608和SiliconLab的Thunderboard开发板，实现了一个智能家庭音乐系统，可以使用Android手机APP搜索网易音乐，并将控制音箱播放网易音乐的流媒
- ## [美国公布未来新兴科技趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=-M78*yBc42bQkcz0lipMoKvZd5gtWZ7HBCrNN-3FsLDgCa*kiOsXs*D5VztrXceo6ifhKH07ypw-ek0POzuyTLLZrx0JxZyguwAfcSAa*RSLVfjrAEmmGG398BF7dTeo&new=1)
- > 投资银行在线是一个资本与项目对接的互联网金融平台，围绕“早期投资、私募股权融资、项目并购退出”提供一站式金融服务。如果您有靠谱的项目，请将商业计划书发送到: bp@pelist.com。美国公布了一份长达35页的...
- ## [官宣丨vivo 极有可能成为国产手机的「5G先驱者」!](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=*cYaZyZPshr8sGJijxvWjoV6PiH-EpuPQVGXbyMLYdfHZiHtNOaUoz6WbDJxnuHyRGdGwYaMuKT2Dg8KiKnUWKQ1HQ*7l0UCViui5qA-4foYeQfVBuvrYmfCJwnxkhGm&new=1)
- > 全球首款支持5G速率传播的手机—2019 vivo APEX手机正式在&quot;未来信息通信技术国际研讨会&quot;上完美亮相，这也标志着vivo在&quot;5G时代&quot;智慧化手机的研发和创新方面取得了里程碑式的成就。人工智能、AI技术、大数据演算，...
- ## [本周大新闻|美海军用HoloLens模拟作战，惠普展示单眼2K VR头显](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=Ch1fKIi8pvuaN6mtdswrpIkvvnzQY2JyjBFS2LdgD2KAcXii3HFiIZfyVaBNHxjNXIMWRLX6pd5loBuNm0eDiqqCQeas*g*gbLmX3s6yzPjXUKIKcPrpdoLqN1gkKCFk&new=1)
- > hi188｜ 撰文本周恰逢农历新年，祝大家新年快乐。VR方面，疑似第二代PS VR官宣图曝光，爆料显示支持无线传输和大空间多人体验；惠普展示第二代WMR头显原型，单眼分辨率达2160x2160；Oculus软件代码疑似曝光Rift ...
- ## [想用 5G，太难!](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=r0aSY-6Mh1LnE*8EE-xMarkAFEHdxqqdOH8RiAlChlWc9zDAFKMnzF0boTiuBhui62lUvkfuAt-7FA4niwogydOG2zYLNtkYHZpOOAPoEuViwReLRc3kYU1jkteiPHdn&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容如果要问 2019 年手机和通信行业最为热门的词是什么，5G 一定是最有可能的候选词，过去的一年间 5G 标准进一步完善、网络设备正在紧锣密鼓地调试、运营商也...
- ## [配送机器人将让快递人员失业?](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=d1z0-wrLSlKc0F3vK6tEvnHkzJjblgvQnjnOmZ15oHHzjqKuKkD3vNKU5TsechjBpxKWByTRBdhbDxqlNEMDU6CIAzibchULFg2GabMhZJiDjLcfSA2424QQ6ab-45kP&new=1)
- > 物流行业已经成为机器人应用的重要场景之一，随着电商行业的快速扩张，对物流配送需求不断增长，传统人力开始显出许多不足，而机器人将成为物流行业的新角色。目前物流厂商正地尝试采用机器人管理仓库，对货物进...
- ## [大年才初三，吉林移动怎么就“移不动”了?](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=2ieHd9a1pagUavxtUIPYgGZ7gGzXCk5xAIYbIWimvIff4H8KwuJj7ww7wDWvi41RQyYFW6woTItsgzUbBLApKYLKc6O52SB7aAzku7ndb37oQIiBR7YKxGDXp8YbsDTh&new=1)
- > 大年初三正值走亲访友的高峰期吉林的小伙伴除了拜年祝福以外还告知通信世界全媒体记者从上午9时起吉林移动竟出现了全线瘫痪的情况一家人整整齐齐的……全部查无此人据通信世界全媒体记者了解吉林省内的多数中国...
- ## [国际特稿：5G开战打乱日本脚步](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=klqoXSZFrB4hSsCOxfy996GJLobVbNSV-L1ftBJj2aV88YE8ETqFyjELEUmS6jcwJ0PfcYMvAZ-HTa1Jfw37dVtlNBif-yJSWolhgOloDSaDE6PWAUcvPK5rPtSzn8Lu&new=1)
- > 作者：符祝慧日本东京明年7月主办奥运，打算以第五代移动通信系统（5G）传播精彩赛事，希望通过这个国际体坛盛会，让世界看到日本通信与广播业的飞跃，各大通信公司和器材商也早已磨刀霍霍，准备大显身手。然而...
- ## [互联网公司正在走运营商的衰退老路\[宁宇专栏-291\]](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=NzUfa64LXQHjC4a5RP9Em*Mz7BXIGXPUwx5BMrawJBLkY5RGAhpf8AzA5mBpFBU2gnUTyZSB*YkmZrRUxtFo2BdCDGXb2*uAq53u-rsX4q7O2FLTqHrndT*QHwipopmM&new=1)
+ ## [互联网公司正在走运营商的衰退老路\[宁宇专栏-291\]](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=NzUfa64LXQHjC4a5RP9Em*Mz7BXIGXPUwx5BMrawJBK7iYWdpkUToyomax9UR-ooSXVPCcoXcn1kr4esO9QG7tcMZyADWqroe8QESmdbO-Z6j*YIrmu8EN40vMa7KIej&new=1)
  > 【摘要】世人眼中的电信运营商也曾经不可一世，那个时候到现在，也不过十年而已。如今，经历了高速发展的十年，互联网公司是否能逃脱日渐衰退的命运？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移...
- ## [微软恳求用户：IE曾经是浏览器，不太正经，别用了](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=RCzq09HzLkDCctDOXsWaiHcMskocxTuQrpe2JjL5xL0RqwHZDvfN*BChQ4AjGtnaPcfNqmE1zKPqYEwGSQOm48fKFp8GkRsJ*-FKDGtMZ0dSkQYzG2N1nJ8byeJZLO0H&new=1)
- > 微软推出的IE（Internet Explorer）曾经是全球占据垄断地位的网络浏览器，但是时至今日，IE还算是网页浏览器吗？ 据外媒最新消息，根据微软公司最新的说法，已经不再是。微软最新发文解释说，如今对于企业客户来...
- ## [\[报告\]2019年中国氢能源产业研究(附110页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=t3dKKhX-*y0ucwj02N-5qw8h6PuPJtVZ-HfJFlCvEW37s1B2z6mccR97myEU5LoiSqnHcomhpbJ9zOIKyqu2*qXptAK3ZPc4EchkChm*tjxjBVjTFbjq*0ATviXLzJxk&new=1)
- > 氢是一种化学元素，在元素周期表中位于第一位。氢通常的单质形态是氢气。它是无色无味无臭，极易燃烧的由双原子分子组成的气体，氢气是最轻的气体。人们越来越重视能源和环境问题，清洁能源的开发和利用已经成为...
- ## [安卓福音：谷歌推出铁线蕨加密算法保护低端安卓设备、支持全盘加密](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=Qs2rf-wj4UpJJ-k7HXjPq*kM2P0UdbTKRSqwEL4PnfK7hSPPvA2XnCjVV7v7ziAHCNjTE3lLwIQPLbByy2wb72sR1aQJtCty8eJhfTAkPSHE8yY8bF*WJBeTz3*WpBZf&new=1)
- > 智能手机对我们来说已经成为日常生活不可或缺的东西，同时手机中可能也存储着我们个人大量的私密内容。如果手机不慎丢失或者落入不法者手里那么可能带来安全风险，因此将智能手机进行安全加密也是有必要的。现在...
- ## [施乐公司通过收购Vader Systems进入金属3D打印领域](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=RW8kCSKLT3GFczr7gexF6OJCz8eAuaDNx9JT7FKVAJsTBxdSEMlRtkwIgSQNk2sH1KH9V6VAjemTd04sCZSkQyUo7GiM*cxBG--6ARQkbuV0wyBWo5tWSui81WF0JHD2&new=1)
- > 标志性的打印机和复印机制造商施乐(Xerox)在2019年的投资者日宣布，它收购了纽约格茨维尔(Getzville)的金属3D打印公司Vader Systems。该公司表示，这次收购将使其能够为客户提供低成本的金属增材制造。收购的细...
- ## [弃 Windows 而拥抱 Linux 之后，我有这些新发现!](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=Czmvei2cH4SURKIXGLSTB28GPYVkByDe4poK3u5NQSt2tCqFCEDWc*BMs5MDFAZtD56CcgIZYiWtCpI31SxJUmmJfMTV3Y7TpTWsyl1ZVJx*os7VAfo7vvIrBvnwY8wf&new=1)
- > 脚本之家你与百万开发者在一起你用的是 Windows 系统还是 Linux？作者 | Simon Frey译者 | 苏本如责编 | 屠敏出品 | CSDN（ID：CSDNNews）2017年圣诞节，我回家和父母一起欢庆假期，像通常从事IT工
- ## [运营商如何兼顾提速降费和利润增长](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=u9NZ2y2JsDzSrm*ePMHbkMNBdlxbdOFkfbZ5GmFxPR3jiCcvkguz2EFDd3J-5u6E4nj-fMaHqJdfJ0UjaygcvfcihjyW3WfFWyOz5RaNZrn7oU4CKsXd4yoK7Xe0UIsE&new=1)
+ ## [运营商如何兼顾提速降费和利润增长](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=u9NZ2y2JsDzSrm*ePMHbkMNBdlxbdOFkfbZ5GmFxPR1k9Pxq66CtBEdBSb5y6W0kwEsXzovo7oqyVRb-Q3ySwY0P2hxzPZ*ge3kplkUlW0D0vLWleZt9*CsXnjsHSN2C&new=1)
  > 2019年，我国网络提速降费还将全面推进。全国工业和信息化工作会议日前对2019年的重点任务进行了部署。工信部部长苗圩表示，2019年继续开展网络提速降费，并加快5G商用部署。“提速降费”是政府对公众的承诺和给...
- ## [270名“煤油”抽中了魅族16th 中奖名单里有你吗](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=2ylkPnhkwJQV43Sxuo2vvyxdQi5J3x9TwifBF0qp39T8mHXP970yJ7jknOuaIgpHwNeCwg6GmYWvrHvWWkKAGX0mNVFJJiIQBs98NJJRmuV5FDD-318-m-lO-fq9SPCK&new=1)
- > 魅族春节后第一项福利今天正式揭晓：官方微博抽奖送270台魅族16th中奖名单公布。有网友评论道：“怎么抽的，为什么没我啊取关了”、“每次没有我，每次都默默删转发”、“有谁跟我一样，一直在等结果，可是每次...
- ## [DDoS攻击团伙图鉴](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=ocC1jLQr3*M2zpb9phbJNUVwy5WvUwNrvpoMJ36GsgTlqxymPVt59Yy0bUM*F86oB3Sf-oO1iOUyfifXy5O8JREEdIBw9oiL7J9EJXZ0gRCUYy2cTa6zpipo-3eg8lpK&new=1)
- > 人们对于一般黑客的刻板印象是：单打独斗，神出鬼没。事实上，还有一群黑客团伙作战。僵尸网络近年来已经成为企业的大敌，宅客频道从绿盟科技发布的《IP团伙行为分析报告》中发现，有这样一群僵尸机“捆绑销售”...
- ## [独家：中国电信将设立5G创新中心 编制多达50人](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=fj2XDYiPcquKHJSJxSUjVYhZ4-9NF6iYKsfN5tptAJrdVBHSUlstwzhN8BveFZBQIip*6K60G7CbR9GFTI5QMuOh7hlWNBI65GzHegW8shHlA7LqBdzbQ2Fu3s7mbXFD&new=1)
- > 运营商财经网  汪莹/文日前，运营商财经网独家获悉，中国电信将设立5G创新中心，作为承担5G推进过程中的阶段性实体机构，开展5G工作。据了解，中国电信5G创新中心重点负责从5G基础能力、网络架构和运营变革、业...
- ## [谷歌董事长：互联网将消失](http://mp.weixin.qq.com/s?src=11&timestamp=1549855805&ver=1421&signature=9GhSP8MEtvS4tlbjryhf0g934G*ENXjittKFpqvFloLrFaUkVe*PAkdm8hKMnEnxhUomcXbrDZichs1vkI1mrR3LRl*0gvsigJW3fpV7cV6sKAv2*JNMpYuivle4w5ci&new=1)
+ ## [谷歌董事长：互联网将消失](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=9GhSP8MEtvS4tlbjryhf0g934G*ENXjittKFpqvFloL00u38TDp9QuOKZKFNDvTuPknyS9sdqjH*gF-COv-z65LFF3xFSIP2qtRP86TSYT-oCYrRZqXlVbPJnXAre9Q*&new=1)
  > iFeng科技凤凰网科技官方账号，带你直击真相     文丨科技最前线（ID:kejizqx）当互联网概念在中国资本市场上方兴未艾之时，互联网巨头谷歌公司的执行董事长埃里克·施密特在前段时间举行的座谈会上大胆预言：互...
- ## [www.（）.com应该填什么？](https://www.zhihu.com/question/288106396)
- > emmm，这个不是填那些的吗？www.12ffff.com匿名了，要脸
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 我想，既然你们是做软件工程开发相关的工作，那么选择drupal比较好。drupal的扩展性比较好，又稳定，权限管理功能很强大，用户管理也很好用。module很多，基本上可以做成任何类型的网站。views可以做出任何你想要的页...
+ ## [\[报告\]2019年中国氢能源产业研究(附110页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=t3dKKhX-*y0ucwj02N-5qw8h6PuPJtVZ-HfJFlCvEW1ffI1dj-hJ04ze6JcLQJqpCeuYtGt2bL8rsUqHL2bgdjUhlEzR0Aud1RO*4SqkMw2yu4usosyMVPDCTtfNEJJk&new=1)
+ > 氢是一种化学元素，在元素周期表中位于第一位。氢通常的单质形态是氢气。它是无色无味无臭，极易燃烧的由双原子分子组成的气体，氢气是最轻的气体。人们越来越重视能源和环境问题，清洁能源的开发和利用已经成为...
+ ## [暗云III v3.0等多个病毒家族结伴来袭实战分析](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=PlgVIbB3DmuUCEvYacwhtgreAJsq1YfsjJtRVJkBuEz1QfK7*cm5FhVQsaeJQvpW9bsvi8*PzoHkU*YVUmkfx9bz65BtlnnsBr5J2kdZMGda*Bl-DisV-NYzBl2CL4*R&new=1)
+ > 知识点MyKingsMyKings是一个大规模多重僵尸网络，并安装门罗币挖矿机，利用服务器资源挖矿。概述挖矿攻击名称MyKings涉及平台Windows平台相关恶意代码家族DDoS、Proxy、RAT、Mirai攻击入口通过扫描开放端口，利
+ ## [太突然!刚刚央视宣布重大喜讯，太令国人兴奋了!](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=N08mKBPJBOaep89Mv5k-JpWcdWgFbgSs4bgotGV249*lFu0j1ek6TQDHw8zZjUr0PCu9WW6iL7AcSrC45qw5nFZu6Sz02HznLLpqfoyyHSGm-971V0MYNjuD-iPiqFyH&new=1)
+ > 问题：怎么才能每天都收到这种文章呢？？答案：点击手指上方的蓝色字体，再点击关注即可！  就在特朗普还在为围堵华为劳心费力的时候，就在加拿大还在为孟晚舟的引渡讨价还价的时候，就在今天，在中国的东北长春...
+ ## [微软：别再使用 IE 浏览器了!](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=WUvWrfOjkbr5VDwC-QMfIx*ncMX5SG9b0ora*DGeiDjMR1kkcpGur4twfq2wwDux2QCNjyRq0tT9MYQ7ijlwKw4aWA-sP1Yer7mTMxTC21MMBpokNCeWvXYhSfw82dat&new=1)
+ > 作者 | 局长本文经授权转自开源中国IE 浏览器不再是任何人都应该依赖的浏览器。IE 浏览器(Internet Explorer)还是浏览器吗？按照微软网络安全领域主要负责人 Chris Jackson 的说法，如今对于企业用户来说，IE
+ ## [运营商第三季度试商用5G网络 5G时代人们生活将有何改变?](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=rHGZTdRYN96huzasNQO02aotqt6-ofNJvCB1kKD0yeuiEJeRZNtX0AZ*ICI4513b0AWmOZm24JDSw4FEqSQkPLfTOaj*08*b9cTtFeXW-33rZmLyozGJMt6aL-Q70CaR&new=1)
+ > 关键时刻，第一时间送达按照之前工信部给出的预告看，2019年三大运营商预计开始试商用5G网络，2020年可能正式在全国商用5G网络，而目前运营商都在积极准备5G网络的搭建工作。即将到来的5G时代，在未来10年这个网...
+ ## [华曙高科携手Autodesk推出3D打印定制化眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=8c4hvKQY0YofykYkohKGPMiGmnodJCXz2fwco4uIyKtVGQCXgcbTj1rPYSQAtOR0-scsPeiH0GranT6mxdeFIoIP*fKnX-*obGAZVBbuNsisU4Um9PEVV9zRZ2UD3P*s&new=1)
+ > 据悉，2019年1月15日，华曙高科美国分公司携手Autodesk采用Fusion 360和NETFABB软件成功打印定制化眼镜。Autodesk软件与华曙增材制造系统可完美兼容，为用户提供便捷友好的应用体验。 图为采用Autodesk F
+ ## [2019年大数据的10大发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=eY3F0A-I9oxEZG9VjjshsYpKDHLOQIoZOAwlrcbST6Kv6ZyjNnjjvbf2FPOYHtpiJCk5AwRQ-qvydh9m*qJ20tbARflOwsq*EWi*kWq8YumqxtmPcavG4lz35OLzu8Lo&new=1)
+ > 关键讯息，D1时间送达！如今，人们寻求获得更多的数据有着充分的理由，因为数据分析推动了数字创新。然而，将这些庞大的数据集转化为可操作的洞察力仍然是一个难题。而那些获得应对强大数据挑战的解决方案的组织...
+ ## [配送机器人将让快递人员失业?](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=d1z0-wrLSlKc0F3vK6tEvnHkzJjblgvQnjnOmZ15oHEODz5BoNbhN4TEhp2Rc6sCDFPbWcf2nIkHyvGpnhXfOwL5H1tJ3gFOC153NlGaaCO*k31WJpPR8qlgx-n0ZL1S&new=1)
+ > 物流行业已经成为机器人应用的重要场景之一，随着电商行业的快速扩张，对物流配送需求不断增长，传统人力开始显出许多不足，而机器人将成为物流行业的新角色。目前物流厂商正地尝试采用机器人管理仓库，对货物进...
+ ## [DDoS攻击团伙图鉴](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=ocC1jLQr3*M2zpb9phbJNUVwy5WvUwNrvpoMJ36GsgQmlPUAbuBbyyXpKx44IGJ5mUoNtPUTKNk5ddRTBwcixcYZpkLdo-Jd9DxxI*IqhMj4XK4QBVJWkcbhy4zv4YqH&new=1)
+ > 人们对于一般黑客的刻板印象是：单打独斗，神出鬼没。事实上，还有一群黑客团伙作战。僵尸网络近年来已经成为企业的大敌，宅客频道从绿盟科技发布的《IP团伙行为分析报告》中发现，有这样一群僵尸机“捆绑销售”...
+ ## [为什么春节假期快结束 要上班了却开始下雪降温了?](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=oiqsNuZqSlMQEKcyuGI1vdXiXy18rf*D7Q7LQnJGCQqn7UYoSLJYHdk-r01z7obX6IclQssRFeINlglqLOq7JjdIvcQ8jNosVxXIA*Psdiv8WBbQYK80hoT8YaZHJmkk&new=1)
+ > 其它原因 请在留言区补充来源：运营商情报 监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
+ ## [本周大新闻|美海军用HoloLens模拟作战，惠普展示单眼2K VR头显](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=Ch1fKIi8pvuaN6mtdswrpIkvvnzQY2JyjBFS2LdgD2J5QyCq1MIfN-g*0*mfswnuCgCn3EYHreD8dh0Eti-FeDvNZ0mUVvhc2CyvQVXYM69zvk156WjAN0AULPtPUG1r&new=1)
+ > hi188｜ 撰文本周恰逢农历新年，祝大家新年快乐。VR方面，疑似第二代PS VR官宣图曝光，爆料显示支持无线传输和大空间多人体验；惠普展示第二代WMR头显原型，单眼分辨率达2160x2160；Oculus软件代码疑似曝光Rift ...
+ ## [你知道你看了多久的在线视频么?](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=Qh5u1WdcOcEMBwgmEuH*ktRwF137-XhEGd8jJ-08*nAVU1bb-eYFjwxzpos2H-lAMAtaRXqQxsVcxMXQ8e69MLyWN7d7GnW9QOlnF90fqJ0t1GjPNykjUAZYa8feO03o&new=1)
+ > 青小蛙常常在各种视频网站观看视频，时间久了就有个想法，我到底看了多长时间的在线视频呢？之前，@yfzhe 发现了一款名为 YouTube Time Tracker 的 Chrome 扩展，它可以统计你在 YouTube 上的视频观看时间，精
+ ## [想用 5G，太难!](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=r0aSY-6Mh1LnE*8EE-xMarkAFEHdxqqdOH8RiAlChlX6f7R1sjIFnUMzhvS5iWhkCiqvH9vlTEa8hAG6pkajEPwAt31PM9t7Gq17HMQxfWkBtjiGUB22lr84gUkA2shD&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容如果要问 2019 年手机和通信行业最为热门的词是什么，5G 一定是最有可能的候选词，过去的一年间 5G 标准进一步完善、网络设备正在紧锣密鼓地调试、运营商也...
+ ## [2019年中国3D打印服务商转型升级趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=RW8kCSKLT3GFczr7gexF6OJCz8eAuaDNx9JT7FKVAJulZIQSgJWE6jRGNGLN1GmCg*pi0TBra47YfcGl7r27EIrA2wAiTwaSu38nzDvwhzThkO8ZQqMbiYdW7wUo7SRT&new=1)
+ > 2019年对3D打印服务商来说，既有机遇，又充满挑战，大家都意识到应该优化升级，但是怎么做好又普遍比较迷茫，未知大陆的大数据结合行业发展趋势给大家带来了几点分享，仅供参考：1、销售互联网化。人海战术或关...
+ ## [智能照明公司LIFX被物联网供应商Buddy Platform收购](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=qX10k0oob2pCyTV5cMKuLUDlSN1vWQj2DPC*DC72IIHsdXVrG7uINwimisDzqM*-TNmOCK0oKxzyALnERiSVI5kDJZVxvt5JxiZTX*OXdsvKm8zhaTJm7w3dsLCyjOvr&new=1)
+ > 澳大利亚物联网（IoT）供应商 Buddy Platform 近日宣布已签订具有约束力的协议，以现金和股票交易方式以约 5100 万美元的价格全面收购总部位于旧金山的智能照明供应商 LIFX。作为交易的一部分，Buddy 将在墨尔本...
+ ## [独家：中国电信将设立5G创新中心 编制多达50人](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=fj2XDYiPcquKHJSJxSUjVYhZ4-9NF6iYKsfN5tptAJoE7Sjy0KPKLgUm2Egt7FXfQlrCb1zw7m2t7J9On-8RBJMO-fyZWdCQftUutXChRfDrAKyCwdZT4XFTbRn6rZUo&new=1)
+ > 运营商财经网  汪莹/文日前，运营商财经网独家获悉，中国电信将设立5G创新中心，作为承担5G推进过程中的阶段性实体机构，开展5G工作。据了解，中国电信5G创新中心重点负责从5G基础能力、网络架构和运营变革、业...
+ ## [安卓福音：谷歌推出铁线蕨加密算法保护低端安卓设备、支持全盘加密](http://mp.weixin.qq.com/s?src=11&timestamp=1549875606&ver=1421&signature=Qs2rf-wj4UpJJ-k7HXjPq*kM2P0UdbTKRSqwEL4PnfLC6OrGkKogedWK1EPrQsEHMRucjSRzTl5HXyvNwFi*ZFieFIljDJZpnibSHoid3tMP0*m4X3pc32yFZBmTc6z5&new=1)
+ > 智能手机对我们来说已经成为日常生活不可或缺的东西，同时手机中可能也存储着我们个人大量的私密内容。如果手机不慎丢失或者落入不法者手里那么可能带来安全风险，因此将智能手机进行安全加密也是有必要的。现在...
  ## [最近流行的「我倒，你也网上冲浪啊」到底是什么梗？](https://www.zhihu.com/question/63563293)
  > 偶擅自猜测一下，题主MS是个小盆宇，是个新新人类吧，hoho。布吉岛偶们说的都素虾米东东，木有4啦，实际上这些都是上个世纪的网络流行语。在那遥远的二十世纪，在中国上网并不是一件普遍的事，当时也没有wifi这种很...
- ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
- > 她吐不吐的，我不知道。但是我却可以确定。她的素质超级低！太能装。本来我也是挺喜欢她的视频的。但是最近看了几个视频。一下子把我对她的印象推翻了。第一个就是。12月29号的视频。去挑战吃超大碗拉面赢888奖金。她...
- ## [公众号互粉有用吗？](https://www.zhihu.com/question/25699024)
- > 有用，但现有的互粉模式不好用。互粉效率很低，浪费时间。我也曾深受其害，后来针对传统互粉群的一些痛点，个人创建了一个名为【壹周】的互粉群。不妨带大家了解下传统互粉模式的缺陷，以及如何利用互粉群简单、快速...
  ## [腾讯抄袭了那么多产品，为什么没人告它？](https://www.zhihu.com/question/23063492)
  > 不要打官腔，以腾讯这种作为，放其他国家，腾讯早就该倒闭了，性质是跟google,和yahoo他们之间是不一样的。腾讯是明着抄，而且不仅抄，还用钱从对方行业里去把核心人员甚至整个班底都挖过来。这就是腾讯的本质。腾讯...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
@@ -63,29 +55,37 @@ categories: IT NEWS
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [2019 年人工智能行业又进入冬天了吗？](https://www.zhihu.com/question/308512268)
- > 本人目前在美国念数据跟AI方向的硕士，打算在AI领域发展。其他各位答主，大多都是业内人士跟相关机构。我作为一名学生有幸能够亲身经历这波AI的浪潮。因此也想以一个普通学生的视角，给各位分享下一些我粗浅的...
+ > 今天早上看了一篇文章，觉得很有意思，摩尔精英半导体的一篇《英伟达市值惨遭腰斩，半导体企业寒冬来袭》，通篇看了一下，作者分析半导体进入寒冬有几个原因：1）英伟达19日开盘跌18%，遭遇滑铁卢。 2）以股市角度推...
  ## [现在小红书好像不能开店了，怎么才能进去呀？](https://www.zhihu.com/question/293311712)
  > 入驻比较困难，建议楼主可以买一个‘现成’的
- ## [有哪些好玩有趣的网站？](https://www.zhihu.com/question/31127495)
- > 说一个：Museumofbadart.org 全球唯一一个糟糕艺术博物馆，这是个私人博物馆，在美国马萨诸塞州，萨默维尔市（我查了一下，博物馆现在正在维修），同时有这个线上博物馆，网站的口号是—art too bad to be ignored ...
- ## [如何看待画漫画很好的人却只画同人？](https://www.zhihu.com/question/36869088)
- > 我倒是经常觉得画工好的漫画家不画小黄本更可惜。尤其是黄本画手出身、上岸开了杂志连载就没时间回去干老本行那种，真的堕落。
+ ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
+ > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
+ ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
+ > 不匿。原来真的很喜欢她 所有大胃王里最喜欢看的就是她 原来是甄甄 现在是mini了 但后面有一期 是给哪个零食做广告把。一直balabala的在说卡路里低 健康 不会发胖。？？？那个就是类似麦片的零食。我自己买来了 很甜...
  ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
  > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
- ## [程序员如何看待产品经理这个职位？](https://www.zhihu.com/question/310998371)
- > 微软的pm在申请签证和绿卡的时候曾经可以当manager申，拿到工作签证后秒拿绿卡。但是我们都知道，pm并不是people manager，只是移民局被忽悠傻了。pm在微软不管dev，pm得老板也不会是dev的老板，我们还有人做pm lead...
- ## [前端学习中一直用框架是不是走偏了?](https://www.zhihu.com/question/38891890)
- > 框架都在JS的基础上，找工作一般要求框架开发，JS的基础好以后学什么框架都很容易。建议学习前端的都把JS的基础搞扎实。
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [如何看待有赞“996”工作制遭劳动监察部调查，是否能改善互联网公司普遍超时加班的违法现象？](https://www.zhihu.com/question/310798836)
  > 有赞公司的行为，除了违反劳动法之外，还给所有对互联网公司怀有不切实际幻想的年轻人敲响了警钟：有些公司想让你卖力挣钱，有些公司想让你卖命换钱。虽说已经被劳动监察局调查了，但是想改善互联网公司普遍加班的现...
+ ## [大家怎么看《鬼刀》这部作品？](https://www.zhihu.com/question/40829502)
+ > 1.《鬼刀》不是一部合格的漫画，甚至可以说不是严格意义上的漫画，它是一部模仿影视分镜，画面气质更接近游戏概念气氛图的插画合集。作者想要以一个世界观将其串联起来，这是一部练习和试验向的作品，是先有画面再凑...
  ## [腾讯都作了哪些恶？](https://www.zhihu.com/question/32012886)
  > 同一部手机，给你们看看手机型号写成华为和写成oppo的差距荣耀10oppo r11 plus 我只用分身助手伪装的手机型号你们看看差距多大？？难道就因为华为没交保护费？？
  ## [如何评价老猫新书《大道朝天》？](https://www.zhihu.com/question/66671585)
  > 老猫的书是从将夜还在更新的时候读起的，前半段一口气读下来峰回路转荡气回肠，后半段追更磨磨蹭蹭扣扣索索，到了择天记三天两头请假更是影响阅读体验，好不容易熬到了完结，心想这什么狗屁玩意，觉得老猫真真江郎才...
- ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
- > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
+ ## [后端同学是不是比前端同学理解业务更快？](https://www.zhihu.com/question/309488771)
+ > 为什么比起小孩子来说，成年人更少挑食？ —— 因为他们都只买自己喜欢吃的菜。对于广义上的前端来说，上游是接口，下游是界面。对于后端来说，上游是数据库，下游是接口。前端的工作的核心是交互，消费接口的数据，...
  ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
  > 浪潮之巅
+ ## [请问一下这种数据动图是如何做出来的？](https://www.zhihu.com/question/302105116)
+ > 用 Python 可以做这种数据动图，先上成果！一般来说，这种视频都是用专业的动画软件做的特效，比如说 AE，普通人很难快速学会。但如果用 Python 程序来实现的话，只要你有一个 Excel 文件，程序就可以根据里面的...
+ ## [腾讯抄袭了那么多产品，为什么没人告它？](https://www.zhihu.com/question/23063492)
+ > 不要打官腔，以腾讯这种作为，放其他国家，腾讯早就该倒闭了，性质是跟google,和yahoo他们之间是不一样的。腾讯是明着抄，而且不仅抄，还用钱从对方行业里去把核心人员甚至整个班底都挖过来。这就是腾讯的本质。腾讯...
+ ## [今天看到lo圈一个因为网名引发的争端。这种行为是否正确？](https://www.zhihu.com/question/310186689)
+ > 完蛋，我 id 涉嫌危化品，头像涉嫌虚无主义毒害青少年，签名说“黑”不友善，qq 头像涉嫌病娇会吓到人。好害怕，是不是要被抓起来了
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 没想到大半夜居然看到马化腾本人的提问。我提一个点，斯格明子霍尔效应与互联网数据存储。我们在互联网上所接触到的一切信息，从文字，到图片再到视频，都是被分解为一个个字符编码，存储在一个个硬盘中的，就是我们...
 # IT 技术 
  ## [18年IT老兵：从技术走向管理的“九九八十一难”](http://news.51cto.com/art/201902/591845.htm)
  > 18年IT老兵：从技术走向管理的“九九八十一难”
@@ -103,28 +103,32 @@ categories: IT NEWS
  > 裁员、招聘、年终奖？看阿里、华为、格力等8大门派谁最走心？
  ## [热点 | 猪年春晚红包难逃“幸福烦恼”](http://news.51cto.com/art/201902/591613.htm)
  > 热点 | 猪年春晚红包难逃“幸福烦恼”
- ## [前路几何？谷歌云平台依然是个谜](http://cloud.51cto.com/art/201902/591854.htm)
- > 谷歌云平台(GCP)仍将是一个巨大的谜，尽管高管们在大谈特谈取得的关键胜利，但他们拒绝透露年度营收运营率(
- ## [混合、私有还是共有？好用才是硬道理](http://cloud.51cto.com/art/201902/591853.htm)
- > 如今，谈云不谈混合云就是耍流氓的时代来了。相比国外私有云、公有云泾渭分明，中国的大型政企、泛互联网企
- ## [1998-2018，Erlang编程语言开源20周年](http://developer.51cto.com/art/201902/591852.htm)
- > Erlang 编程语言在 1998 年 12 月 8 号星期二开源发布。你还记得那一周你在哪里吗?那时候我在达拉斯(德克萨
- ## [恶意软件太难懂？这份教程送给你](http://netsecurity.51cto.com/art/201902/591851.htm)
- > 网络安全发展迅速，每天都有新的威胁和攻击方法出现。高调的网络入侵时有发生，更不用说还有些事件根本没有
- ## [5种简单的方法可以保护自己免受网络钓鱼攻击](http://netsecurity.51cto.com/art/201902/591849.htm)
- > 根据反网络钓鱼工作组(APWG)今年早些时候发布的报告，网络钓鱼攻击的数量显着增加。这是一个普遍存在的问题
- ## [监控Linux服务器活动的几个命令](http://os.51cto.com/art/201902/591848.htm)
- > 为了在获取系统活动时更加轻松，Linux 系统提供了一系列相关的命令。在这篇文章中，我们就一起来看看这些对
- ## [如何避免多云网络管理的陷阱](http://cloud.51cto.com/art/201902/591846.htm)
- > 将业务迁移到云端的过程很容易使组织不堪重负，并且会在没有考虑可能出现问题的情况下继续推进。组织需要考
- ## [开源数据库：PostgreSQL、MariaDB和SQLite的对比](http://database.51cto.com/art/201902/591844.htm)
- > 和其它类型的应用软件一样，不同的开源数据库管理系统之间在功能和特性上可能会存在着比较大的差异。换言之
- ## [Python Web应用程序Tornado框架简介](http://developer.51cto.com/art/201902/591842.htm)
- > 在这个由四部分组成的系列文章的前两篇中，我们介绍了 Pyramid 和 Flask Web 框架。我们已经构建了两次相同
- ## [程序员热议996工作制度：我生来不是为了工作的，我还要有生活](http://news.51cto.com/art/201902/591843.htm)
- > 996，顾名思义，早上9点，晚上9点，一周工作六天，这也是目前众多互联网公司所奉行的工作制度，但一般不会
+ ## [如何为老年人设置Windows 10 PC](http://os.51cto.com/art/201902/591865.htm)
+ > 如果您正在研究如何为老年家庭成员配置windows 10以执行基本操作，例如在计算机上查看电子邮件，浏览和观看
+ ## [Windows 10份额突破40％ Windows 7反弹又追上来了](http://os.51cto.com/art/201902/591864.htm)
+ > 根据市调机构NetMarketShare的统计数据，Windows 10市场份额在2018年12月份达到39.22%，领先Windows 7 2.32
+ ## [fdisk：Linux下管理磁盘分区的利器](http://os.51cto.com/art/201902/591863.htm)
+ > 一块硬盘可以被划分成一个或多个逻辑磁盘，我们将其称作分区。我们对硬盘进行的划分信息被储存于建立在扇区
+ ## [Hegemon：一个Linux的模块化系统和硬件监控工具](http://os.51cto.com/art/201902/591862.htm)
+ > 我知道每个人都更喜欢使用 top 命令来监控系统利用率。这是被 Linux 系统管理员大量使用的原生命令之一。
+ ## [如何把Google云端硬盘当做虚拟磁盘一样挂载到Linux](http://os.51cto.com/art/201902/591861.htm)
+ > Google 云端硬盘 是全球比较受欢迎的云存储平台. 直到 2017 年, 全球有超过 8 亿的活跃用户在使用它。即使
+ ## [比特币交易不再需要联网，这会是未来的常态吗？](http://blockchain.51cto.com/art/201902/591859.htm)
+ > 和任何新技术一样，比特币和加密货币需要不断的发展才能实现全面普及。现阶段，对于一个完全不具备技术知识
+ ## [Linux下如何避免重复性压迫损伤（RSI）](http://os.51cto.com/art/201902/591860.htm)
+ > 重复性压迫损伤（RSI）是职业性损伤综合症，非特异性手臂疼痛或工作引起的上肢障碍。RSI 是由于过度使用双
+ ## [2018互联网江湖之“三大战役”](http://news.51cto.com/art/201902/591858.htm)
+ > 2018年，是波澜不惊的一年，也是跌宕起伏的一年。这一年，除去BAT阵营里的百度，AT之间的“玩味”依然十足
+ ## [2019年大数据的10大发展趋势](http://bigdata.51cto.com/art/201902/591856.htm)
+ > 2019年，大数据将在多个方面取得进展。虽然大数据和人工智能的发展仍然存在大量的技术、法律和道德障碍，但
+ ## [Nginx 不受 CDN 服务影响获取访客真实 IP](http://server.51cto.com/sOS-591857.htm)
+ > 获取和记录站点访客的真实 IP 对于站点日志的分析和安全策略的指定很有帮助，Nginx 默认的日志记录获取到的
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [京东尚科27亿收购北京翠宫饭店，刘强东为法定代表](http://www.lanjingtmt.com/news/detail/40486.shtml)
+ > 北京京东尚科信息技术有限公司27亿受让了北京翠宫饭店有限公司100%股权，京东尚科已成为北京翠宫饭店的唯一股东。
+ ## [新零售不过是电商平台们的续命丹](http://www.lanjingtmt.com/news/detail/40484.shtml)
+ > 革变不可怕，可怕的是颠覆。目前，以“线上+线下”深度结合的新零售时代正式向纯线上的电商发出了战帖，以目前新零售的火爆程度，风头上确实有超电商的意思。
  ## [互联网巨头的下半场新共识](http://www.lanjingtmt.com/news/detail/40480.shtml)
  > 2018年注定是中国互联网的转折年，人口红利消失，C端市场增长放缓，互联网进入下半场已成定论。即便在上半场风光无二的巨头们，也以更谨慎的态度思索未来增长的新引擎。
  ## [四线城市车厘子“泛滥”的背后](http://www.lanjingtmt.com/news/detail/40477.shtml)
@@ -132,6 +136,16 @@ categories: IT NEWS
  ## [春节特别观察：四线小城深度“触网”，开启无现金生活](http://www.lanjingtmt.com/news/detail/40479.shtml)
  > 今年春节期间，记者随家人回到江西老家，深深感受到家乡在深度“触网”后方方面面的变化。
 # PM 
+ ## [除了团圆，春节广告还有什么故事可讲？](http://www.woshipm.com/marketing/1912438.html)
+ > 在如今流量成本高企、媒介碎片化的背景下，好创意和好内容也许才是最具性价比的流量来源。当1月份《啥是佩奇》在朋友圈中刷屏的时候，春节档各品牌的营销竞赛结果就已...
+ ## [奖励和积分的正确用法](http://www.woshipm.com/pd/1909293.html)
+ > 本文主要跟大家说说奖励和积分的正确用法，一起来看看~魔兽世界这样的游戏能风靡全球，很重要的一个原因就是它们具有清晰直观的实时反馈系统。玩家所有的操作都会影响...
+ ## [互联网巨头的下半场新共识](http://www.woshipm.com/it/1912670.html)
+ > 面对下半场，对外如何寻找新的增长点，对内如何提升企业组织能力，成为巨头们两个重要思考方向。2018年注定是中国互联网的转折年，人口红利消失，C端市场增长放缓，互...
+ ## [产品经理核心技能修炼：如何做好产品需求管理？](http://www.woshipm.com/pmd/1908545.html)
+ > 管理产品需求是一项重要的产品经理基本功，如何管理产品需求清单，让产品开发变得仅仅有条？本着“拒绝纸上谈兵”的初衷，我想总结一下我的答案，以下6招优化产品需求清单...
+ ## [互联网红利只剩春节](http://www.woshipm.com/it/1909423.html)
+ > 春节营销是每一个互联网企业都必须应对的问题。中国互联网的红利已经吃尽了，如果说还有，那就只剩春节这短短一个月的时间档口。鲍德里亚在消费社会中提到，文化认同...
  ## [想成为职场高手？从培养解决问题的能力开始](http://www.pmtoo.com/article/65002.html)
  > 在职场中，解决问题的能力是个人核心能力要求之一，本文将从问题是什么、问题的分类和问题的解决方法三个方面出发，介绍职场...
  ## [2019短视频的增量，可能会出现在Vlog身上](http://www.pmtoo.com/article/64995.html)
