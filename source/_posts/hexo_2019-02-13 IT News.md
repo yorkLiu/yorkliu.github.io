@@ -1,57 +1,86 @@
 ---
 title: 2019-02-13 IT News
 copyright: true
-date: 2019-02-13 09:02:13
+date: 2019-02-13 10:02:13
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】2019年2月13日 星期三</b></summary><div class="news-list-content"><p>1. &#22235;&#24029;&#26032;&#35268;&#65306;APP&#36827;&#26657;&#22253;&#8220;&#20961;&#36827;&#24517;&#23457;&#8221;&#65292;&#21547;&#24191;&#21578;&#30340;&#31435;&#21363;&#21483;&#20572;</p>
+<p>2. &#25104;&#37117;&#24066;&#31246;&#21153;&#23616;&#65306;&#23558;&#21306;&#22359;&#38142;&#25216;&#26415;&#26377;&#25928;&#26893;&#20837;&#20256;&#32479;&#31246;&#25511;&#30005;&#23376;&#21457;&#31080;</p>
+<p>3. &#22269;&#23478;&#37038;&#25919;&#23616;&#20844;&#24067;&#24555;&#36882;&#8220;&#26149;&#36816;&#8221;&#24773;&#20917;&#65306;&#20140;&#19996;&#29289;&#27969;&#19994;&#21153;&#37327;&#26368;&#22823;</p>
+<p>4. &#35910;&#29923;&#22238;&#24212;&#27969;&#28010;&#22320;&#29699;&#35780;&#20998;&#24322;&#24120;&#65306;&#19981;&#23384;&#22312;&#39640;&#36190;&#22909;&#35780;&#34987;&#20080;&#25913;&#24046;&#35780;</p>
+<p>5. &#20140;&#19996;27&#20159;&#25910;&#36141;&#21271;&#20140;&#32736;&#23467;&#39277;&#24215;100%&#32929;&#26435;&#65292;&#20140;&#19996;&#22238;&#24212;&#65306;&#31185;&#30740;&#21150;&#20844;&#20026;&#20027;&#65292;&#20026;&#28023;&#28096;&#36733;&#20307;&#31354;&#38388;</p>
+<p>6. vivo&#23448;&#26041;&#24494;&#20449;&#21644;&#24494;&#21338;&#21516;&#26102;&#21457;&#24067;&#26032;&#28040;&#24687;&#65292;&#25512;&#20986;&#23376;&#21697;&#29260;iQOO&#65292;&#25299;&#23637;5&#21315;&#20803;+&#26071;&#33328;&#25163;&#26426;&#26723;</p>
+<p>7. &#20256;&#26007;&#40060;&#24050;&#31192;&#23494;&#25552;&#20132;&#36212;&#32654;IPO&#25991;&#20214;&#65306;&#34701;&#36164;&#32422;5&#20159;&#32654;&#20803;</p>
+<p>8. &#22269;&#23478;&#21355;&#20581;&#22996;&#65306;&#21457;&#24067;&#20851;&#20110;&#24320;&#23637;&#8220;&#20114;&#32852;&#32593;&#65291;&#25252;&#29702;&#26381;&#21153;&#8221;&#35797;&#28857;&#24037;&#20316;&#30340;&#36890;&#30693;</p>
+<p>9. &#21019;&#26032;&#33647;&#29289;&#30740;&#21457;&#21830;&#12300;&#21916;&#40522;&#21307;&#33647;&#12301;&#33719;B&#36718;1&#20159;&#20803;&#34701;&#36164;</p>
+<p>10. &#33455;&#29255;&#25935;&#25463;&#35774;&#35745;&#20844;&#21496;&#12300;&#26680;&#33455;&#20114;&#32852;&#12301;&#33719;&#31181;&#23376;&#36718;5000&#19975;&#20803;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】2019年1月31日 星期四</b></summary><div class="news-list-content"><p>1. &#20248;&#20449;&#20108;&#25163;&#36710;&#21457;&#24067;&#12298;&#20851;&#20110;&#21453;&#23545;&#29916;&#23376;&#20108;&#25163;&#36710;&#20132;&#26131;&#25968;&#25454;&#36896;&#20551;&#12289;&#30772;&#22351;&#34892;&#19994;&#31454;&#20105;&#31209;&#24207;&#30340;&#22768;&#26126;&#12299;&#65292;&#24182;&#25351;&#20986;&#23384;&#22312;&#26377;&#25439;&#21830;&#35465;&#30340;&#34892;&#20026;</p>
+<p>2. &#26377;&#36190;&#20844;&#21496;&#20844;&#24320;&#23459;&#31216;&#25191;&#34892;&#8220;996&#8221;&#24037;&#20316;&#21046; &#26477;&#24030;&#21171;&#21160;&#30417;&#23519;&#37096;&#38376;&#24050;&#20171;&#20837;</p>
+<p>3. &#20113;&#38598;&#24494;&#24215;&#24050;&#35774;&#31435;&#37329;&#34701;&#37096;&#38376;&#65292;&#27442;&#30003;&#35831;&#28040;&#37329;&#29260;&#29031;</p>
+<p>4. &#28404;&#28404;&#27491;&#22312;&#21551;&#21160;&#19968;&#36718;&#35009;&#21592;&#65292;&#27492;&#36718;&#35009;&#21592;&#27604;&#20363;&#36798;&#21040;25%&#65292;&#20135;&#21697;&#25216;&#26415;&#12289;&#32593;&#32422;&#36710;&#22242;&#38431;&#20026;&#27492;&#27425;&#35009;&#21592;&#30340;&#37325;&#28798;&#21306;</p>
+<p>5. 12306&#26032;&#19978;&#32447;&#8220;&#20505;&#34917;&#36141;&#31080;&#8221;&#21151;&#33021;&#65292;&#20505;&#34917;&#36141;&#31080;&#20817;&#29616;&#25104;&#21151;&#29575;&#25509;&#36817;80%</p>
+<p>6. &#33150;&#35759;&#65306;&#8220;&#23506;&#38376;&#29366;&#20803;&#20043;&#27515;&#8221;&#20869;&#23481;&#36829;&#35268;&#34987;&#21024;&#65292;&#36134;&#21495;&#34987;&#31105;&#35328;60&#22825;</p>
+<p>7. &#25903;&#20184;&#23453;&#23567;&#31243;&#24207;&#8220;&#31572;&#31572;&#26143;&#29699;&#8221;&#19978;&#32447;20&#22825;&#65292;&#32047;&#35745;&#29992;&#25143;&#36798;2.12&#20159;</p>
+<p>8. &#36158;&#36291;&#20141;&#21457;&#22768;&#65306;&#23558;&#32487;&#32493;&#25171;&#36896;&#26234;&#33021;&#20986;&#34892;&#29983;&#24577;&#31995;&#32479;</p>
+<p>9. &#36710;&#20113;&#25968;&#31185;&#33719;Pre-A&#36718;4500&#19975;&#20803;&#34701;&#36164;</p>
+<p>10. &#20581;&#36523;&#25151;&#21697;&#29260;&#8220;&#36870;&#29983;&#38271;&#20581;&#36523;&#8221;&#33719;&#22825;&#20351;&#36718;1000&#19975;&#20803;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [程序员如何用“撞针“拯救 35 亿地球人?](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=Y3fibRxmCeLhSjLyf158PbjRcpUIU4nZie2rEW8k7mm-pWjBZ9Au1hvt8YcfOp0-1m52mUelQRAXO6jWDAGwFEy7DYshuHljk5P1yGsPxzvLhiPaYkFmj9aLyJqPSaAf&new=1)
- > 【CSDN 编者按】春节假期即将结束，有多少程序员朋友已经离开家乡在返回北上广深等工作所在城市的路上？有多少程序员已经开工大吉开始了新一年的代码征程？回首这一个春节，8 部电影在大年初一齐上线，《流浪地...
- ## [2019年SaaS应用的专家预测](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=ruzVolnmrE2z4pnEjx*TfzQ**njpBh6fXvCWI3bVF*mtr8MIgjDGMvdMzRex-k5Cccpisl8uyCG5lpI8tvA*45mQnAulUBoIFw179IBe8bGn-761uWXVhk9kcWiNvOl*&new=1)
- > 关键讯息，D1时间送达！调研机构Gartner公司分析师的调查结果预测，2019年将成为SaaS繁荣发展的一年，增长率为17.8%，市场规模为851亿美元。Gartner公司研究副总裁Craig Roth表示，SaaS是云计算市场的最大细分
- ## [Google Play中发现“clipper”恶意软件，货币交易中随意替换钱包地址](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=17fSXdHU8kQM-hTzFCF2dZju6sgqfJyAj1D1DfBvHEe8p-Bhecg2P8oRlZ64y41RLSDrka8TAiZU1*hVux7hdBxZOtrKeMgvo97miCqbLxes8ypdKkF3CxJzQ00tsTUx&new=1)
- > 研究人员在谷歌官方应用Google Play中发现了一种名为“clipper”的恶意软件。该恶意软件会自动拦截剪贴板的内容，并使用攻击性内容将其替换掉。在加密货币交易的情况下，受影响的用户最终可能会将复制的钱包地址...
- ## [过个年钱没了?浅析防不胜防的GSM短信劫持](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=TSjC9fQMpqqOxCfJLTaTtQqH3W*rgF8HSCc-k5BViMrx48bflIwsEqVY9Urj1nBWIlQhExBcFp4vs37eLKvQ2fSFx8jgMfLxC4F8jGzQjZ2WnlnscF1Nk34S*x*AutRN&new=1)
- > 手机号注册的隐忧如今我们不管办理什么业务，又或是在任何网站和APP注册账号，首先想到的就是通过手机号码一键登录。这意味着，你的手机号就等同于你的微信、支付宝、银行和各种现金贷客户端的账号。如果你安全...
- ## [iOS 12.1大调整，避开苹果禁售令；京东27亿买下翠宫饭店..](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=XMZrDB-y0FI5Y6kFeXTnCtTTQoM2ds75rSC5VnWWYe10XMY-e5lCp19ksSHgmPjTpAvLy-ZjhRxKqzhUQP9SSK6QvWyvSMzxPGpcwm*Pvz0cxZ0Z-cxe7SW73Ll2AdK-&new=1)
- > 今日快讯iOS 12.1大调整立功了：苹果躲过高通禁售？！@快科技：苹果在最近升级的iOS 12.1中，对iOS系统侵权高通的地方进行了调整，以确保被指控的iPhone侵犯了高通六项专利都无效。目前，涉及“高通要求禁售苹果...
- ## [Waymo十周年：多尔戈夫讲述从被嘲笑到硕果累累](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=fh9aAYj6ImaSqrA9OvqtYuQ66pZ4WiyC8JFKmqJUNzr5dmhqeOqmkXBAMvQBRvoYaQ5qu6i1xaFKYpzMCsUBJFp3krSWJAQ8cLD1rS3TkqPBTTuzWexWPfFzDLR0B7IR&new=1)
- > 来源：TechCrunch 编译：网易智能十年前，大约十几名工程师聚集在谷歌位于查尔斯顿路上的山景城，为&quot;司机项目&quot;献力，这是该科技巨头的“X工厂”旗下的一个秘密项目。这个司机项目俗称“谷歌自动驾驶汽车项目”，...
- ## [生态为王!华为企业服务迈入新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=vgXlfA3EJVNZ0zhmiuoShHxfztdC2nmRkEH0KJjlIH3TeDdyzxOYEu4pab*Zp*sfJf0OSTIJh9abqd9Q8kPtQH465sEY9z5Y5PWi77-uv2oF7WV2BlK7q9VnxHANBXrj&new=1)
- > ——本文作者 康翔对于企业而言，数字化转型不再是可有可无，而是势在必行。数字化转型，已经成为企业信息化的最新指向。与此前相比，企业的需求也发生了翻天覆地的变化——他们需要的不再只是产品的安装部署，...
- ## [厉害了俄罗斯：俄罗斯实验脱离国际互联网，所有浏览由监管机构审查，呵呵](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=fL5GeagiLVaeQdKdUV7WvVi9h-yggXJo4Qwt1bDzydl-pWpTyz5ANEgIrbD5pLBbFnOvcj2bCU-Hmu62EOvSIfNimJeRKfYnQCba1tdleZFx-twnZ9Blec7ytBcc3MJb&new=1)
+ ## [厉害了俄罗斯：俄罗斯实验脱离国际互联网，所有浏览由监管机构审查，呵呵](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=fL5GeagiLVaeQdKdUV7WvVi9h-yggXJo4Qwt1bDzydmCAexQudj8GotPsLYo70mevUd*qINhsI*NwgjCxgBHSjIbX3FnSWhwk8UvpWSGLSA6VlzU4tCFAYwWJY-HvVXW&new=1)
  > 俄罗斯新闻监管机构称将进行实验以便俄罗斯当局和大型互联网提供商们在必要的时候与国际互联网脱离开。这项实验的目的是针对俄罗斯议会在 2018年12月份 提出的拟议法律提出潜在的反馈措施以及修改意见等等。法案...
- ## [河北印发实施方案!雄安新区将有这些大动作](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=ri8mknRfhn11UxW974tbD8*pXt6wyvaO8E91VjM8v4cq85H*WRGiXJ8h921*T9SKI-jfocIEgHHDs75FNHqo2giyLVtquFATjuHo52MA6uApSPOfzOAH1rh6pxvtlcfZ&new=1)
- > 日前，河北省人民政府办公厅印发《河北省推动科技服务业高质量发展实施方案（2019-2022年）》。其中明确提出，以雄安新区引领发展、建设雄安高端科技服务集聚区等内容，一起来看↓↓发展目标到2022年，初步建成...
- ## [来，让我们认真谈一谈5G](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=-gbebxyCsGo6Vcc3z6IRZjWL2dDUdv9LijI1O5k28b7pADcwnAuQXyY3p9AWPiK8k-EV4Qfd0mEQJ-JJ6WPjxELDc86784wyFmRsgzQlU0RjM7ebA8F*qNWjD-j3N9A4&new=1)
- > 【摘要】几千亿的投资砸进去，能听到多少回响，会不会是一场世纪大泡沫？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：Jonson Zhong本文来源：钟楼漫谈杂谈投稿邮箱：631255063@qq.com5G在今年进入预...
- ## [解读制造业数字化转型的6大关键问题!](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=X0L75fTbROU9OhGCSfy*KQL7e9jtut59iwd2O8UFNYKY-yydiXB7vXs8i6TUKPO6o5V-fVCRLylk0-qJDw*ARu2qsY-l00kg8rIXAI4JLDE6gK*xD9XFid958705H4vH&new=1)
- > 何谓数字化转型？制造业数字化转型究竟有哪些可以借鉴的模式？制造企业如何进行数字化转型？文/ e-works总编 黄培博士在当今的数字化时代，“云大物移”正在深刻地影响每个人的生活方式和每个企业的运营方式。在...
- ## [16家国外网站近6.2亿用户信息被挂暗网出售](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=BAXk8yOgkaOK6Y8uyTrKKYpccjqnUCcu9Zoogb8-rbsVZ19gKsUAYG68ftqF1sNw663*srZGeyFI1wvIAq-UsOfUvsOSqyMdnfI13Yo5BHB10gqTOivXit7YlCV4LR4Y&new=1)
- > 前言近日，一个名为Dream Market暗网市场上挂出了6.2亿用户信息，交易通过比特币转账进行，打包售价不高于2万美元，该卖家宣称这些数据来自16个被攻击的网站：Dubsmash（1.62亿）、MyFitnessPal（1.51亿）、M
- ## [智能门锁势头凶猛 指纹、虹膜和人脸识别商争相入局](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=U5sCmpoGN68E6*Y2iZcw6MGfhZVGNzU*q0oM5Kkqj1hmB0D2b9MmQVele1AOjcdIniPukeKwvoBsVweYvTaCzzH5I9zkKZZ1ZH6fV9BjMSJZWFwc4DgFCLFRBQ8OFwhX&new=1)
- > 前几天看到这么一个段子，有位住户回到家傻眼了，智能门锁没电，住户只能用移动电源给门锁充电等待着门打开。 从初代的单机锁到管家锁再到联网锁，从简单的单机报警、语音显示到声控开门及可视化平台使用，智能...
- ## [看了那么多好莱坞大片特效，国内外动捕解决方案&外设&模组，了解一下?](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=ig9ZqR13qBeiZpjOeAqjYGcnVx5p*Emq4W7HNKn1ffcln8NIt3GlhwGWBs35FhVFNztUhWYH24O7k5ofAHG3God4rWuN4iITYxCGE90OOzVD9IhSvuFOp2IkIrSS5bnH&new=1)
- > 概览过去一年，动捕技术及产品的创新与突破。正文共 5782 字 16 图；预计阅读时间 14 分钟在2019年央视春晚上，高科技“技能加满”，5G+4K+VR齐上阵，赚足眼球。当然，主角还得属5G。不过，本篇文章的主角不是5G...
- ## [预习：数百家3D打印厂商新品抢先看，2019TCT看点汇总](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=RvDnglJTWof0lDksGgft47IBGsyO-ass9pWpt4jB3XcGBsLagkedAfPzBIR2L6bY65cEZrToeTTVmYQrEiXqmduCkrourfAO5hBtyFaWbG0j8JLvS5tuB-k-Prc8cdPM&new=1)
+ ## [预习：数百家3D打印厂商新品抢先看，2019TCT看点汇总](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=RvDnglJTWof0lDksGgft47IBGsyO-ass9pWpt4jB3Xek-lNmFfsY475uY7oA55P9NfsMip-GJY88Mc6u3PbbV9mgqU-8ZyalBj1bR*2DMrGCN4TiDRcWh8C6AZ1PvqME&new=1)
  > 2019年2月21日-23日，在上海新国际博览中心，有一场国内最大的3D打印行业展会TCT，将要隆重举行。来自全球的数百家厂商，将要亮出自己的亮点拳头产品。为了方便观众到场后有目的性地参观，南极熊特别汇总了2019...
- ## [Gartner发布对象存储的关键功能报告](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=WN*EhuB*0nX5RzITF-E87VqrVko3ljXamDQA3LTA5D*0dtUIY836JU3A3aWOq-w4ks392XDfqbAstuEc*MvbCMsSBFdr6N9Bsq*j4V1C4phbSgQiHgotNH9KXRYWqXbB&new=1)
- > 企业纷纷转向本地对象存储，除了为降低成本，混合云存储功能也是相当瞩目地。近期，Gartner针对基础设施和运营商相关的案例中的8个关键功能评估了13款对象存储产品——华为FusionStorage，Dell EMC ECS，IBM COS...
- ## [全球最大芯片代工厂遭遇重大挫折!中国芯片产业赢来绝佳机会](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=QWr*ax2zPFyBGn*omWre0CDajnm79fc0wv1ST*vr4ThWzyJkNJlx54dYn4VLP1VpCUvY31jJpw2gQJq*rgX46o8vwEL1Siex-qvv-9A0xnFdaBoco6iK*R1QEHO3TOR-&new=1)
- > 从简单的高纯度单晶硅切片&quot;晶圆&quot;到能够每秒进行上亿万次计算的芯片，被业内人士称为&quot;Foundry&quot;的晶圆代工厂向来必不可少。而在这个行业中，台积电更长期拥有超过60%的市场份额，是当之无愧的市场霸主。但就是这个...
- ## [美国这5G，尴尬了!](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=N0xos*SymaaPBNmZhPcIbn9*OOJF1PMZrEQu3DnwPGOKEczoqGAC5CLBaw08zD-giJlFI7pRni4--cxRhLQ*sYxDus4aNc4Zl1oyaThjcB0KVhOEgSBP7M9M9liijk1G&new=1)
- > 话说美国一直不爽中国5G技术，横眉冷眼，说三道四。 然而，美国自己的5G，却传来了一大波尴尬。 第一件事情，就是美国内部自己干起来了。可能很多人已经知道了，美国电信商老四Sprint把老二AT&amp;T给告了，原因是老...
- ## [首批白盒化4G基站开通，这一天终究还是来了](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=JMNUzdPuvNKF-CQd*Hf51011JwG0fPqAV3Vm5ki59sGT0geH07u-RQuemyarBSrZUVFO-bHmmCyXpup8uP7jTNtbFPD8r7zcmJ975QHaVRIgTP2ZmtMiaQvW*G7YoxEs&new=1)
+ ## [Google Play中发现“clipper”恶意软件，货币交易中随意替换钱包地址](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=17fSXdHU8kQM-hTzFCF2dZju6sgqfJyAj1D1DfBvHEchNtyj9G-impbjR4UP9hAFPpQjrr1Rqcb*zQax*P4mY6*mm7HkC7zuBzOFYh3XEfEKCvVi2Zeq8F7mx7rkqyHf&new=1)
+ > 研究人员在谷歌官方应用Google Play中发现了一种名为“clipper”的恶意软件。该恶意软件会自动拦截剪贴板的内容，并使用攻击性内容将其替换掉。在加密货币交易的情况下，受影响的用户最终可能会将复制的钱包地址...
+ ## [首批白盒化4G基站开通，这一天终究还是来了](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=JMNUzdPuvNKF-CQd*Hf51011JwG0fPqAV3Vm5ki59sEtPG5RSwsjxfQUBMHUWqFiEpMaTK6CgnFcmzcbHbyzanG8RfbuvkCTG*QZUV0coNK1XUfoaIVCb4aOe2FraoM2&new=1)
  > 这一天终究还是来了。日本乐天移动，这家新晋运营商，计划以全IT化的方式建设4G/5G网络，在无线侧将基站虚拟化、白盒化，以建成一张端到端的云原生移动网络。牛B吹了近一年，2019年伊始，乐天的首批4G基站总算开...
- ## [是否和华为合作，欧洲电信公司会怎样选择?](http://mp.weixin.qq.com/s?src=11&timestamp=1550017806&ver=1425&signature=mYV6RUlcGyyGO3QdDv096RtE0IO1KQEcil3QQ19cz8Pe6N070HA2oeefW1jmCQDOh18eFKRmW0bzF13yUfa*gQwNPUd2S*K0tpOM*0dNwUy3YeimIU1d6UNKHhhpfuLe&new=1)
+ ## [曹强离世，一个时代结束了](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=Xt7mqXfTavCOK2*eClcFOfVkpWLczaO1avqwrqsbhtUClysXKfYFbKwgLWrZZm11zLabwo2cLF7s6S3J96DeDOTTRaUEpI8mnZgRcb4Wamt-5nM22DG0mnh690lgcNnT&new=1)
+ > 导读曹强的离世，仿佛一座明亮的灯塔熄灭了，朋友圈都沉浸在悼念与缅怀的气氛中，所有人都在敬佩他在广电改革中的成就，所有人的心情都很悲痛。来源：众视DVBCN2019年2月10日，这位曾一度被认定为广电变革之星的...
+ ## [Gartner发布对象存储的关键功能报告](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=WN*EhuB*0nX5RzITF-E87VqrVko3ljXamDQA3LTA5D*9CQH5qrmulwOrIce6QTb0FQnHFUR*wHElopejngHdPhPs6r4oEizucXgvR1pVKUKu4Srf58RnLBDOoWdE-uGp&new=1)
+ > 企业纷纷转向本地对象存储，除了为降低成本，混合云存储功能也是相当瞩目地。近期，Gartner针对基础设施和运营商相关的案例中的8个关键功能评估了13款对象存储产品——华为FusionStorage，Dell EMC ECS，IBM COS...
+ ## [iOS 12.1大调整，避开苹果禁售令；京东27亿买下翠宫饭店..](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=XMZrDB-y0FI5Y6kFeXTnCtTTQoM2ds75rSC5VnWWYe1vDVzYBZyjbR5I2Uw-9*qXGhuJ6grSGXQMlqsMBSzzd2AL5sjrnk5qw6uLdF8E-Y3En3igYxHkVcj2L86E7FOa&new=1)
+ > 今日快讯iOS 12.1大调整立功了：苹果躲过高通禁售？！@快科技：苹果在最近升级的iOS 12.1中，对iOS系统侵权高通的地方进行了调整，以确保被指控的iPhone侵犯了高通六项专利都无效。目前，涉及“高通要求禁售苹果...
+ ## [全球最大芯片代工厂遭遇重大挫折!中国芯片产业赢来绝佳机会](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=QWr*ax2zPFyBGn*omWre0CDajnm79fc0wv1ST*vr4ThWHO8nSIPX7D2gvEwhO-rx3Mek0t9wSpV71GR5WhG9jtrlGeUGlNcEI4JzfKPbC-DMI0N1QeuF*iHQZdzigNTT&new=1)
+ > 从简单的高纯度单晶硅切片&quot;晶圆&quot;到能够每秒进行上亿万次计算的芯片，被业内人士称为&quot;Foundry&quot;的晶圆代工厂向来必不可少。而在这个行业中，台积电更长期拥有超过60%的市场份额，是当之无愧的市场霸主。但就是这个...
+ ## [看了那么多好莱坞大片特效，国内外动捕解决方案&外设&模组，了解一下?](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=ig9ZqR13qBeiZpjOeAqjYGcnVx5p*Emq4W7HNKn1ffd0Vxfi73vB2Bblcn*Nl6OIAx6sFNSHP8ZdpsaanFJD4-zrq7HfCy77WinXymNxpIOl19TD7eAxWRL3Oy7-h*Gv&new=1)
+ > 概览过去一年，动捕技术及产品的创新与突破。正文共 5782 字 16 图；预计阅读时间 14 分钟在2019年央视春晚上，高科技“技能加满”，5G+4K+VR齐上阵，赚足眼球。当然，主角还得属5G。不过，本篇文章的主角不是5G...
+ ## [来，让我们认真谈一谈5G](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=-gbebxyCsGo6Vcc3z6IRZjWL2dDUdv9LijI1O5k28b7OTwNTEayiUDGe67EGcERoERsOzh8oONZHllywiOFq8rvi3CF4BuT8OhgBsS2Johw1DO*lTMknGHbUoDJ62C6o&new=1)
+ > 【摘要】几千亿的投资砸进去，能听到多少回响，会不会是一场世纪大泡沫？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：Jonson Zhong本文来源：钟楼漫谈杂谈投稿邮箱：631255063@qq.com5G在今年进入预...
+ ## [智能门锁势头凶猛 指纹、虹膜和人脸识别商争相入局](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=U5sCmpoGN68E6*Y2iZcw6MGfhZVGNzU*q0oM5Kkqj1gKOclOhjs*PtO-Tc3cTA1*59WC4QFF2YVs11s7y5q1eYCSvLDQ-tYIiqsNHrz6S9YaQUN-abEhKWk7-jSy0q9O&new=1)
+ > 前几天看到这么一个段子，有位住户回到家傻眼了，智能门锁没电，住户只能用移动电源给门锁充电等待着门打开。 从初代的单机锁到管家锁再到联网锁，从简单的单机报警、语音显示到声控开门及可视化平台使用，智能...
+ ## [7点见|往返火星将低于50万美元；首批特斯拉Model 3抵天津港；人类辩手击败AI](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=0t6ofqVSFpAy5xw5nHCO06fkGsLI34OsC5U0d0oMcAVb1nCNKZ5DciqPzXaTx5J4bq8CPGlaYBwx-m-NIB5esXY5541b8rfmE*7XtMr04qij9-l91h9E6lojAkZdrY3Y&new=1)
+ > 关键时刻，第一时间送达各位小伙伴们，早上好呀！轻轻的问候，希望您今天也收获满满~接下来，一起来看看小七为您准备的今日早报吧~（以上音频技术来自：讯飞有声）马斯克：人类前往火星票价将低于50万美元 回程...
+ ## [解读制造业数字化转型的6大关键问题!](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=X0L75fTbROU9OhGCSfy*KQL7e9jtut59iwd2O8UFNYJV48rheBHlr9lr3FRLBjKP4kXH4uOSMtJ6BCYVAyPC*1bnD89Ye1eF9mXl0ymWe*h*y7U9UfcXQFyuTNyTq3uq&new=1)
+ > 何谓数字化转型？制造业数字化转型究竟有哪些可以借鉴的模式？制造企业如何进行数字化转型？文/ e-works总编 黄培博士在当今的数字化时代，“云大物移”正在深刻地影响每个人的生活方式和每个企业的运营方式。在...
+ ## [2018年世界前沿科技发展态势及2019年趋势展望——新材料篇](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=f*K1-VNz0oUeRVnDtbVV4JEaor27uFESWdfab5NptNP*QXdEOV1hQ5gLB-uAjc8wvYHCw-7vgsIQfZABkADZKG1C4p7u6s*BDhkAvhYc1U36ZI0yrTKkGue3HsPyXcCe&new=1)
+ > 本文为春节专题文章——“年度科技发展态势总结与展望”的第九篇新材料篇。世界新材料领域2018年发展态势科技强国纷纷将新材料作为未来研发优先事项。美国白宫发布《2020财年行政机构研发预算优先事项》备忘录，...
+ ## [过个年钱没了?浅析防不胜防的GSM短信劫持](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=TSjC9fQMpqqOxCfJLTaTtQqH3W*rgF8HSCc-k5BViMqNcBcR4kBMd*QnP0aBu4HgczWQuNbwUVaUeOTnIQ*Al5swQY5IZk3XG5gwsG0z1Qu7n-LWjHSF47GqSTKW5QBC&new=1)
+ > 手机号注册的隐忧如今我们不管办理什么业务，又或是在任何网站和APP注册账号，首先想到的就是通过手机号码一键登录。这意味着，你的手机号就等同于你的微信、支付宝、银行和各种现金贷客户端的账号。如果你安全...
+ ## [60万亿大产业即将爆发：一个足以颠覆微信、超越阿里的超级风口!](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=KaTmFWYQvr2V42jTAiVIWWeCCAsdSclZqCUIu0IYP8iEvQmW4Y5YUoMJcCSuK2SUNWICBbOZxY5ey25ZnryNWzeFiztwbu*JkfjpNsq-aLxaR3iaADGcDwDVkZxW1dqD&new=1)
+ > 李彦宏说，移动互联网的时代结束了。周鸿祎说，互联网下半场就要开启。谷歌公司董事长埃里克·施密特预言：互联网即将消失，一个高度个性化、互动化的有趣世界即将诞生。下一个足以颠覆微信、超越阿里的超级风口...
+ ## [生态为王!华为企业服务迈入新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=vgXlfA3EJVNZ0zhmiuoShHxfztdC2nmRkEH0KJjlIH0Gzm5Kz8p-47dq6cn04xWjsy8thhQy9wf8afbhOB9mvyfZktqaC7fpqsnst-Xnklb9vjrSf0beF3Cr3x37-gs8&new=1)
+ > ——本文作者 康翔对于企业而言，数字化转型不再是可有可无，而是势在必行。数字化转型，已经成为企业信息化的最新指向。与此前相比，企业的需求也发生了翻天覆地的变化——他们需要的不再只是产品的安装部署，...
+ ## [是否和华为合作，欧洲电信公司会怎样选择?](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=mYV6RUlcGyyGO3QdDv096RtE0IO1KQEcil3QQ19cz8Pxk9PvFO38URvfJuuoiqwTrz0hDE4npiF859vzQush28qDUU3JZES3nxYFqxS2QH21Fp*NNG8lLPj0-AW3ciGS&new=1)
  > 所有的选择都要付出代价。据法新社报道，欧洲电信公司正在陷入一个两难境地：究竟是采用顶级供应商华为的设备迅速推出5G移动网络，以获取竞争优势？还是听从美国方面的安全威胁警告，放弃与华为的合作，同时在5G...
+ ## [美国这5G，尴尬了!](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=N0xos*SymaaPBNmZhPcIbn9*OOJF1PMZrEQu3DnwPGM-jtRLirK8PpZrXjThvvuVoP0IfvyLGrSSyVsp4dRIYdhHQSoXycARb9a3lhx6NFiAtSFBvCQ-cjiNKilf25Ri&new=1)
+ > 话说美国一直不爽中国5G技术，横眉冷眼，说三道四。 然而，美国自己的5G，却传来了一大波尴尬。 第一件事情，就是美国内部自己干起来了。可能很多人已经知道了，美国电信商老四Sprint把老二AT&amp;T给告了，原因是老...
+ ## [\[科技早报7点整\]美总统要求优先发展AI 苹果明年或推AR摄像头手机 vivo推出子品牌……](http://mp.weixin.qq.com/s?src=11&timestamp=1550021406&ver=1425&signature=qo*gaGSBDBvsusqFbW1m4SUBxCkUaXynxXC0zcESnZxwux7hIO8TAXmvDqoh3-zXw73LZ1VZxxpBmYC9a6isV1YQwOKms8qMZtdGCjPktiesXSHLJ3FyMyKWeF5ef4V6&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第389期1.北京商报：苏宁张近东“剧透”有信披违规之嫌《北京商报》发布评论文章称，苏宁易购董事长张近东在新春团拜会上宣布苏宁易购收购万达百货下属全部37家百货门店，此后...
  ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
  > 她吐不吐的，我不知道。但是我却可以确定。她的素质超级低！太能装。本来我也是挺喜欢她的视频的。但是最近看了几个视频。一下子把我对她的印象推翻了。第一个就是。12月29号的视频。去挑战吃超大碗拉面赢888奖金。她...
  ## [小米万能遥控器的使用体验如何？](https://www.zhihu.com/question/38448814)
  > 再也不用找遥控器了~~科技改变生活！小米万能遥控器开箱 。看看什么值得买生活家赵森森的具体使用感受吧，看完就知道值不值得买了。大家好哟❤❤❤~~我是赵森森❤❤❤~~~ 不知道你们会不会和我一样，因为家里不常看电...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
+ > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [现在小红书好像不能开店了，怎么才能进去呀？](https://www.zhihu.com/question/293311712)
@@ -60,6 +89,8 @@ categories: IT NEWS
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [4G时代的物联网技术瓶颈在哪里，为什么5G时代将是物联网时代？](https://www.zhihu.com/question/311420840)
  > 5G啥的就是纯炒概念，意义不大。有那个功夫不如普及IPV6，那才真是能实现很多功能。5G然后6G，7G，其实说到底还是在IPV4下解决最后几百米而已。5G最理性的状态也比现在的WIFI差很远的。(这里只数据传...
+ ## [作为数据新人，如何想出数据驱动增长方案？](https://www.zhihu.com/question/298452043)
+ > 谢邀，增长方案不是想出来的，是分析出来的。1、先来一刀这个增长方案说的很笼统，也没具体说到什么业务，所以第一刀咱们先把公司的业务切开了分成几个主要大块。比方说对于很多企业来说比较重要的业务是收入和日活用...
  ## [如何看待B站up主いぬやしゃ_Inuyasha被封禁一事？](https://www.zhihu.com/question/305557284)
  > 据核实，直播间29922（UID:3243092）实名认证信息为男性，该直播间曾多次违规被系统切断直播、警告。2018年11月10日该直播间再次违规，主动搜索并直播触及底线的违禁内容，我们将直播间永久封禁，并不存在UP主所...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
@@ -84,13 +115,11 @@ categories: IT NEWS
  > 可参考王三表的这篇文章——《关掉你那个破浏览器》 http://www.wangxiaofeng.me/?p=2407
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
  > 送餐迟到，你允许骑手提前点送达的话，等于是纵容了迟到的行为。下次就会有更多消费者遇到外卖不能按时送到的困境，而你就成了制造这种恶果的幕后推手之一。所以不同意不纵容才是为了多数人公共利益着想，才是有道德...
- ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
- > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
 # IT 技术 
+ ## [备受区块链开发者欢迎的十种工具](http://blockchain.51cto.com/art/201902/591918.htm)
+ > 备受区块链开发者欢迎的十种工具
  ## [盘它！程序员大幅加薪不能错过1月的这十篇热门文章](http://news.51cto.com/art/201902/591921.htm)
  > 盘它！程序员大幅加薪不能错过1月的这十篇热门文章
- ## [区块链开发常用的十种工具](http://blockchain.51cto.com/art/201902/591918.htm)
- > 区块链开发常用的十种工具
  ## [提高网络实用性与性能的四款开源管理工具](http://os.51cto.com/art/201902/591896.htm)
  > 提高网络实用性与性能的四款开源管理工具
  ## [10分钟带你读完人工智能的三生三世](http://ai.51cto.com/art/201902/591889.htm)
@@ -103,17 +132,35 @@ categories: IT NEWS
  > 2019年，区块链的分片技术仍只是纸上谈兵吗？
  ## [数据中心停机事故的教训：关注基础设施](http://network.51cto.com/art/201902/591867.htm)
  > 数据中心停机事故的教训：关注基础设施
+ ## [区块链正在应用于正在兴起的网络安全运动中](http://blockchain.51cto.com/art/201902/591923.htm)
+ > 尽管有关加密货币和交易所的黑客和欺骗的新闻铺天盖地，但事实仍然是，真正的区块链在其不可改变和无法破解
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [腾讯QQ：因淫秽色情视频肆意传播处罚高管的消息系谣言](http://www.lanjingtmt.com/news/detail/40515.shtml)
+ > 手机QQ官方微博辟谣，称网传的《腾讯总办关于“212事件”处罚的通知》系谣言。
  ## [春节特别观察二：河北城乡出现免费公交，网约车更活跃](http://www.lanjingtmt.com/news/detail/40510.shtml)
  > 今年笔者回到家乡河北省沧州市肃宁县，笔者观察到，今年春节相较于往年，家乡的出行又有了新的变化。
 # PM 
+ ## [年销10亿+，这个创立4年的国产品牌，内容+渠道做对了什么？](http://www.woshipm.com/operate/1916005.html)
+ > HomeFacialPro这个国产品牌，创立才四年，却已经年销量达到了10亿+，而在达到这种效果的背后，HomeFacialPro做了些什么呢？前一段时间，和一个朋友在聊天，他是一家公...
+ ## [5种不同视角下的“积分激励体系”](http://www.woshipm.com/pd/1915875.html)
+ > 奖励消费还是奖励行为？清零还是不清零？中心化还是去中心化？不同积分激励体系大碰撞！积分体系一直都出现在我们的生活中，作为激励用户的手段，它也在不断变迁和发...
  ## [从海南全域旅游建设角度出发，谈谈旅游大数据产品规划及设计](http://www.woshipm.com/pd/1915187.html)
  > 旅游大数据是产业互联网发展的基础设施，本文从全域旅游角度谈谈旅游大数据的产品建设。在去年马小哥宣布鹅厂作为连接助力产业互联网发展后，朋友圈一下关于To B产品...
  ## [我有三杯酒，解你文案忧](http://www.woshipm.com/copy/1916106.html)
  > 我们在说文案时，究竟在讨论什么？什么可以作为好文案的标准？你也许可以试试文章中所说的这三个标准。文案贯穿着整个产品的生命周期，每个地方都有文案的身影。每个...
  ## [一文汇总2018年春节活动案例：红包抢得欢，案例知多少](http://www.woshipm.com/operate/1908658.html)
  > 春节期间，各大互联网平台依旧在这个节日开启了红包大战，目前所有平台加起来，公布的活动红包总金额已超过了40亿元，就冲着几十个亿的红包，也不能闲着，看看这几十个...
+ ## [一对一直播为什么可以使得主播常驻，直播的未来发展又是什么方向？](http://www.chanpin100.com/article/107936)
+ > 优质的内容，最后是收益，一对多的直播并不是所有的观众都会进行打赏，但是一对一采用的是计时收费，同样可以打赏主播，有的功能则需要充值VIP才能使用，间接就增加了主播和观众的收益，而一对一直播的带宽、流量费用，相对一对多直播也便宜了很多，所以一对一直播现在能够收到欢迎。
+ ## [一对一+短视频社交app用户：春节档背后的娱乐狂欢](http://www.chanpin100.com/article/107938)
+ > 018年，伴随一对一直播社交短视频app的迅速崛起，一些公司抓住风口，快速布局，不过入场大半年光景就快速抢占了头部领域，也有一些公司反应延迟在这一波趋势中拉下了阵地。去年社交市场，较之以往，承受了更多的动荡。人们对于社交的需要，在这一年被放大，而这一波趋势也持续到了2019年。
+ ## [2018年苹果ASM竞价广告总结报告](http://www.chanpin100.com/article/107939)
+ > 苹果ASM目前在美日韩等13国开放，并即将在中国开放。
+ ## [盘它！让人记忆深刻的2019春节营销案例](http://www.chanpin100.com/article/107940)
+ > 2019年春节有哪些不错的品牌营销案例？又有哪些品牌展现出不一样的“年味儿”呢？
+ ## [产品经理知识体系——商业化变现](http://www.chanpin100.com/article/107941)
+ > 互联网广告介绍
  ## [春节情感营销泛滥，品牌如何另辟蹊径](http://www.chanpin100.com/article/107911)
  > 春节营销活动怎样才能不落俗套，这里有6种方法可参考
  ## [除了诗和远方，还有近在咫尺的一对一社交~](http://www.chanpin100.com/article/107913)
@@ -134,24 +181,10 @@ categories: IT NEWS
  > 随着科学技术的发展、网民数量的激增，网络在人们的日常生活中扮演着越来越重要的角色，网络营销逐渐成为重要、有效的营销方式。如何做好网络营销，一直是大家探讨的话题，本文今天跟大家分享企业如何更有效地做好网络营销。
  ## [读书笔记--OKR工作法](http://www.chanpin100.com/article/107921)
  > 易读性：5颗星；阅读时长：约5-6小时；推荐指数：3颗星；比较适合的阅读对象：产品经理、初级管理者、创业者；
+ ## [小说阅读正确的付费方式思考](http://www.chanpin100.com/article/107935)
+ > 小说付费阅读兴起，但是现在的付费模式还是原来最开始的付费模式延续，而虽然付费用户一直在增长，但是相对于广大的阅读群体未付费用户依然是有很大的比例
  ## [一个叫小北的产品经理决定去“死”](http://www.chanpin100.com/article/107916)
  > 人生如果可以重新来过的话，你会不会坚持当时的选择
- ## [技术对产品的驱动力](http://www.chanpin100.com/article/107922)
- > 下一个互联网的十年，技术的不断变革对产品经理的工作带来了巨大挑战，怎么迎接挑战，怎么赋能于产品，产品经理将具备什么技能，技术对于产品的驱动力到底在哪？
- ## [华红兵：2019要想内容传播，务必掌握这四大策略](http://www.chanpin100.com/article/107923)
- > 无内容，不营销。内容营销成为被营销人员提及最多的词汇之一。广告主对内容营销，可谓宠爱有加，甚至这个词的流行度，已经超越了“广告”一词。
- ## [开启降价模式的苹果，过完猪年春节将变得更糟糕？](http://www.chanpin100.com/article/107924)
- > 虽然短期内苹果的降价策略会收效甚好，可长期来看，在降价这个自损品牌含量的举措之后，春节以后的苹果只会变得更糟糕。
- ## [从支付宝集福到头条百度集卡，盘点春节让人上瘾的三个营销套路！](http://www.chanpin100.com/article/107925)
- > 春节营销套路多，莫要捡了芝麻丢了西瓜
- ## [你所厌恶的百度，获得春晚流量加持后，还能重返BAT第一梯队吗？](http://www.chanpin100.com/article/107928)
- > 为什么百度要花10亿搞一场”人人都厌恶“的公关活动呢？我们来逆向拆解一下这次活动要达成了什么KPI，一直错失机会的百度是否能借助春晚流量赶超阿里腾讯？
- ## [新中产新经济，品质零售才是终极形态？](http://www.chanpin100.com/article/107929)
- > 我们可以断言，新中产崛起之后，零售还将有新的形态。
- ## [用户反馈说两句](http://www.chanpin100.com/article/107930)
- > 对于之前大家对用户反馈的一些讨论，我觉得现在的反馈从最开始的抱怨到收集采集，而现在其实应该形成一种生态
- ## [直播的几种模式不同的盈利方式](http://www.chanpin100.com/article/107931)
- > 随着大数据时代的到来，人人常常感叹自己毫无隐私。的确如此，现在人们的隐私开始变得透明化，也越来越注重保护自己的隐私，面对竞争日益激烈的直播行业和对于隐私保护的迫切需要，一对一直播顺势而起。为了满足不同用户的需求，同时兼顾流量和收益，直播平台纷纷开启不同种类的房间面向不同用户，一般有这几种：
  ## [助贷会被杀死吗？](http://www.pmtoo.com/article/65040.html)
  > 当一家家互联网非持牌机构，以助贷的方式，成为一家家中小银行最核心的客户、风控和科技供应商时，非持牌机构不持牌却胜似...
  ## [大佬阿里，能收割社区团购小弟吗？](http://www.pmtoo.com/article/65036.html)
