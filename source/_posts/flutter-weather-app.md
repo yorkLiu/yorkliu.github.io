@@ -12,7 +12,7 @@ copyright: true
 ---
 
 # 先上效果图
-<a target="_blank" rel="noopener noreferrer" href="/uploads/creenshots/flutter_weather_demo.gif"><img src="/uploads/creenshots/flutter_weather_demo.gif" alt="" width="210px" style="width:210px"></a>
+<a target="_blank" rel="noopener noreferrer" href="/uploads/screenshots/flutter_weather_demo.gif"><img src="/uploads/screenshots/flutter_weather_demo.gif" alt="" width="210px" style="width:210px"></a>
 
 # 主要功能
 - 天气数据来自 "中国天气网"
@@ -26,7 +26,7 @@ copyright: true
 - 支持 未来40天超长天气预报
 
 # 下载
-- ![Android Release V_1.0.0](/uploads/downloads/weather_release_1.0.0.apk)
+- [Android Release V_1.0.0](/uploads/downloads/weather_release_1.0.0.apk)
 - IOS 暂不支持
 
 # 项目地址
