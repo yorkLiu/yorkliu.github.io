@@ -26,7 +26,7 @@ copyright: true
 - 支持 未来40天超长天气预报
 
 # 下载
-- [Android Release V_1.0.0](/uploads/downloads/weather_release_1.0.0.apk)
+- [Android Release V_1.0.1](/uploads/downloads/weather_release_1.0.1.apk)
 - IOS 暂不支持
 
 # 项目地址
