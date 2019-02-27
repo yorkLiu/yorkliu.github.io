@@ -24,6 +24,8 @@ copyright: true
 - 支持 查看未来5天内的空气质量
 - 支持 未来15天天气预报
 - 支持 未来40天超长天气预报
+- 添加 "网络状态"检测
+- 如果手机没有打开 WIFI 或者 数据流量，则会弹出提示框
 
 # 下载
 - [Android Release V_1.0.1](/uploads/downloads/weather_release_1.0.1.apk)
