@@ -28,7 +28,7 @@ copyright: true
 - 如果手机没有打开 WIFI 或者 数据流量，则会弹出提示框
 
 # 下载
-- [Android Release V_1.0.1](/uploads/downloads/weather_release_1.0.1.apk)
+- [Android Release V_1.0.2](/uploads/downloads/weather_release_1.0.2.apk)
 - IOS 暂不支持
 
 # 项目地址
