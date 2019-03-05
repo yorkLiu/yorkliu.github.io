@@ -1,51 +1,51 @@
 ---
 title: 2019-03-05 IT News
 copyright: true
-date: 2019-03-05 08:01:15
+date: 2019-03-05 09:01:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [特辑|中医药信息化十年变迁：古典外表下的现代化](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=wOCmePi8MyBgzNsq0FwH5mSGYys8Ok7J3pOw0JsVV-T0-BMegoYUIOUVMq0fh2aPf0MVVYz9obWE073e9zxH7EEA0gEdsiIuPrTNVuhhXOEGooOfc67APtdo*UgyYah*&new=1)
- > &quot;医疗信息化十周年”专题第8篇文章全文字数：2600余字中医药信息化,是中医药现代化的动力引擎和技术支撑，在过去的十年里， 中医药信息化高速发展，正在进一步落实和完善已有的发展战略规划，加速发展人工智能在...
- ## [杨杰转任中国移动董事长，看点不在5G](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=pmM8DJXRAHyEFbY*2C16mKyLUVb8J3M0N9SprpQRsjFeAiSyvz*G1QNYemjq5FIyjU9ymsBBbXtp6c5VMJgYHZFzuKVMLfXSK7IBlyYFfJNdu3tJy8rTwaPeEOwXmMSX&new=1)
- > 【摘要】靴子终于落地了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：付亮本文来源：竞争情报应用（fuliang_ci）杂谈投稿邮箱：631255063@qq.com今天上午，中国电信集团董事长杨杰转任中国移动集团...
- ## [重磅!今天上午，中国电信集团公司董事长杨杰调任!](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=WBaavr2lPw3RuUDN9y-wjFguvdOIQiFY3XK*72mDCrTV0lgM0YSPVkzbs2d8V5JmTljyGxNzGfpAVC2EyCQhAsB6hiZcuFVYtZ9lZIv2AXax*6C9wwQ86Ie*DL7uKpxE&new=1)
- > 人物经历1984年毕业于北京邮电大学无线电工程专业，其后获得挪威管理学院通信信息管理硕士学位。曾任山西省邮电管理局副局长，山西省电信公司总经理，中国电信集团公司北京研究院副院长，中国电信北方电信事业部...
- ## [半导体激光器的未来在哪里?](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=NXF913-StHPxU8ezwuhACpB*P*h1pStL0RiOzFEw-bZgTal*HpaLN9e*yL9jqsJMkeErs7swMai3uIwUI8Gc1DvzJPx76Ziwb6WJAUoiwBqPpW9mNx5p6lUbB1AVSGUc&new=1)
- > 中国激光产业在地域分布上呈现出很强的聚集性，以深圳为代表的珠三角区域主要以中、小功率激光加工设备为主，而以武汉光谷为代表的华中区域则在产品线上更为全面，覆盖了大、中、小功率设备。除去这两个最为大型...
- ## [英特尔5G模块已经面世，iPhone 5G版或将发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=SkbCE6D9rAljD7uFFIM51C7CVeDdC29ZvsIXjC*vo6FM1ZtRXxxEp2VogNPXdwP8cKDcUMTECwFkJbPx-zd1K9ACmDv8cF3jnuc7c4e4Nvo8oHwBVAEUU2*h-xpQJ1iQ&new=1)
- > 近日，在MWC（世界移动通信大会）上，广和通联合英特尔面向全球市场发布其首款5G通信模组：Fibocom FG100。该芯片内置Intel XMM 8160 5G基带芯片，采用M．2封装，实现“One World One SKU”的全球统一
- ## [特斯拉即将Model Y丨滴滴试行“选择路线”功能\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=0kYhqYfHI2m5-XlCQ1Q8aqpwKvUONzX*cfhg3dOKH3VYIT1vRr0zOTOqiFT8bSOcbLK8I0BG1YTv3EBBxKNUabF*Xe0OFpThoPkADE2-nkH0xcFv3McB*9WGSwr5Ba12&new=1)
- > 3月4日 周一【Do说】编辑 | 李尧特斯拉Model Y于3月14日发布 售价比Model 3贵10%据Engadget消息，马斯克宣布将于3月14日在洛杉矶设计工作室揭开ModelY的面纱，届时将提供Model Y具体的里程、定价和试驾
- ## [华为员工获数十亿现金重奖；苹果3月将发布"震撼"新品..](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=z*2KpKe8AZcFlGLgkD6m5BWc1j*A1tOVmBDnbcKug6TXkaxSSHkHXfFVtkEFm*gUo*-nwAlK-oVbDiOuckFzOZbn-74zs*nwDikC36ZbDMd45Pqt7rSh3*9dHNERZHEw&new=1)
- > 今日快讯库克放话，苹果将带来令人震撼的新产品!@快科技：美国当地时间周五，苹果公司在其Apple Park总部的乔布斯剧院举行了2019年度股东大会。在这场大会上，包括库克在内的众多高管都悉数登场，他们透露了一些...
- ## [高速螺杆挤出AM系统是传统3D打印塑料速度的八倍](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=5QhLrEHieCihVyJQCLW5M58AA7UzkSV1JZy93jdbUIDx6TRGPrWmgf5JYBMjQH5p9jnb5alH*-OnlOPVEKV0jh1PxKbGjUN4I4oBc0IRpRzX*vFqm54LBs2RqALVo7g*&new=1)
- > 位于德国开姆尼茨的弗劳恩霍夫机床和成形技术研究所IWU的研究人员开发了螺杆挤出增材制造系统（SEAM），该系统的速度是传统3D打印的八倍。据研究人员称，SEAM系统只需要18分钟就可以生产出30厘米高的塑料部件，...
- ## [直击2019全国两会：互联网大佬都带来了哪些提案?](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=yboHlFAgd3EBqHtnF*28G57n00*xSGJQs9G74QX7fL9suojdL2WFK0VwMuYwMr90uXUl*bBIsIZek*Jo0lymrNpF4VYGLJytps4lZF5jDZHZAgMO-6gi*ZY1LhvcC9z5&new=1)
- > 2019全国两会已经正式拉开帷幕，除了发展宏观经济，推进法治中国建设、保障改善民生等议题外，互联网企业家对于中国社会经济未来发展的判断，也成为了近年来两会的一大看点。 诸如马化腾、周鸿祎、李彦宏等企业...
- ## [看完这篇文章，你想象不到欧美航空机器人发展到什么程度了!](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=4vPluoG2y75X-HVgpYOSZV6gUSkj52DDFgq-YzStarP*orcx6P*3Ph6zwsqWa*reBpKvU8jRyDTUIZL-acEmlxTtIzhtBXcELd9eCb-k2eQr9nxLaSUE0H2BJVn33Xm3&new=1)
- > 目前，航空制造商正在越来越多地采用机器人来替代以往由人类和笨重设备来承担的单调工作和复杂任务，绝大部分机器人本质上与汽车装配流水线上的工业机器人一样。然而近年来，空客、波音、洛马等制造商正在研究将...
- ## [央企换帅!中国电信集团公司董事长杨杰出任中国移动董事长](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=9uZfZRTTiyDrCqFnKP6ACAynC6a7UEA10Ix8ADs*L4SItCDi9F3DdV0brmxvEb9zcQbwuulaFFqLlgkauuJsWdp6s0tYRc8TBPBsIhmTviv5*lj7Tscpyb4Kf4QUfpYw&new=1)
+ ## [央企换帅!中国电信集团公司董事长杨杰出任中国移动董事长](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=9uZfZRTTiyDrCqFnKP6ACAynC6a7UEA10Ix8ADs*L4SItCDi9F3DdV0brmxvEb9zB48d4wrtIRHAXSTWPX*A2OontvuAOjQ-B*be20OamR*iXoK7FSGC80mZI4nA0unk&new=1)
  > 运营商观察获悉，中国电信董事长杨杰今日调任中国移动董事长，与此同时，有运营商人士也在微信朋友圈分享了，今早在中国电信集团总部杨杰的欢送仪式。在目前5G商用竞争即将展开的情况下，出现这种人事调整，无疑...
- ## [中国互联网协会电子竞技工作委员会筹备组成立会议召开](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=E4cVznCqZ2lsD7PArMZmJi1TXD5fDpCCyggNjS4Du1iUW24jhMB5leaKMrH1GYYVH6pNs-mAajdogcZz98HerwMx82fUf1u7DPlQwoiLk9klComv9rfT00GfYCWQ0KFt&new=1)
- > 3月2日下午，中国互联网协会电子竞技工作委员会筹备组成立会议暨“数字电竞与智能经济”电子竞技行业峰会在清华大学伟伦楼召开。工信部工业文化发展中心副主任孙星、中国互联网协会副秘书长宋茂恩、国家体育总局...
- ## [把数字世界带入非洲腹地的更偏远农村](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=Georw3UG0oL4jhi6-Yi9lI5GKbcDADxQNLzmcBXwBZeQxTGNg8cHQng1v5CivOqZlafvVIwd73qXt6ba5GtVVG73Hk03DspBBDXF4vpsMBO32fc0L5tNp3iNII2nnQ28&new=1)
- > 近日，华为在赞比亚开通了全球首个RuralStar Lite基站，为赞比亚偏远农村提供无线网络服务，把数字世界带入非洲大陆腹地。RuralStar Lite在赞比亚完成部署数字包容，联所未联华为推出RuralStar Lite创新农网解决...
- ## [AOC商用丨AOC入驻宁波旭升股份，提供整合化视讯解决方案!](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=SxOy*yqCAKj709UP4ArtCN804e8NdTbkqT88G4uu9ZFx52xVqre*vFAqd0ZGvh*ALprRM1d5wRya5*U1rG8q*WIyL9W1SIUcaNbEkvPfOG0TabapfBXJnx-3YkfFuf4k&new=1)
- > 汽车零部件作为汽车工业的基础，是工业发展中必不可少的一环，更是汽车行业的强大“支撑”。日前，秉承专业、专精的态度，在了解主打研发、生产、销售汽车零部件的宁波旭升汽车技术股份有限公司（简称：旭升股份...
- ## [\[观察\]华为数字平台，为何是开启多行业数字化转型大门的金钥匙?](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=AatqKp45m9JO7rJJ-dng-2puycpwQiktTKbjqoBB702-QG53BYYvcyKAATiX6p2woFgF*8-XbsjO5AC2AWDzmr-1obq*hTMQoKCXE-XxDSs600UFOSH1hic01TsRv7Pq&new=1)
- > 申耀的科技观察读懂科技，赢取未来！众所周知，过去几年数字化转型已经席卷全球，随着新技术的广泛应用，新的机会和价值正在不断被发现和创造。数字化转型已不是一种选择，而是通向未来的唯一出路。然而大部分企...
- ## [中国开发者真实现状：40 岁不做开发，算法工程师最稀缺!](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=*fYP114N46lRf*EghKo2KYMPBbeXpu2XpLA1I-R2YZQZ9OGDko9CfShcyASBT197uIFlyREp43k5HPhJ617rMUHxFAQ1bJCMKjCetLLfNE*xlBB85jRnHcg3ncBc5Pdx&new=1)
- > 互联网的 2018 年，注定是不平凡的一年。浩浩荡荡的美国制裁中兴事件唤醒了科技界对芯片产业的重视，倒逼了一系列芯片方面的布局和投资；互联网人口红利不断消耗，推动百度、腾讯、阿里巴巴等科技巨头先后实施战...
- ## [华为差点75亿美元“卖身”摩托罗拉背后的故事!](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=AbDKYy5YDTQwMdINVuGidG9OfGd1Z6N38rzvqZTiXcmFMZ2r6Pz0hxIJtVm*AiGGaq*5tlVA-Vx5Wrm4mCKzJnoEWOl7ZT7yEuEaozxTt0N6biX0PpQ5YJeXGjwF9uUY&new=1)
- > 坊间曾流传一段有关华为差点百亿美元“卖身”昔日手机巨头摩托罗拉的陈年往事。传闻，在2003年，华为和美国电信公司摩托罗拉曾达成协议，后者计划以75亿美元收购华为。近日，英国《金融时报》一份报道披露了有关...
- ## [管理客户数据的四个小技巧](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=GCA0dF7IszvjBEZ5FXF6c0YNmb4JDX0jVlSsaJ7eKpKVV*fWSlnFH4fx7TCl8NFbDnpcRubBkk1XNML3UGmSuPGlPRGw9y1uSeypB*i*-V*a9Qz8U1s7nPuZBcNXRFDL&new=1)
- > 关键讯息，D1时间送达！无论您的企业主营业务是什么，您都在收集关于用户的某种数据。您知道您的用户应该在公司如何保护、管理和保护数据方面具有透明度。去年，Verizon的一份数据泄露调查报告显示，61%的网络攻...
- ## [用互联网大脑模型分析5G重点影响的6个科技产业](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=Er8*l5Yyar7leIWmg900HHOcqvHnXBcx-hmS3rsW1gh1MM6*pmxXZb-wH92hC-xCWfE0x6OHtnAqWeJw7HTYscTJeplcXcNkWtPMzBa4InMGN7g53AjaqIkPBzyB4RAP&new=1)
- > 作者：刘锋 计算机博士，《互联网进化论》作者5G是指第五代移动电话行动近信标准，也称第五代移动通信技术，是4G之后的延伸，其峰值理论传输速度可达每秒数十Gb。对比4G的主要提高如下：5G的速度将达到4G的100倍...
- ## [项立刚：5G的往事今生——还好当年中国政府顶住骂名，支持了一批科学家|观学院2019](http://mp.weixin.qq.com/s?src=11&timestamp=1551742206&ver=1465&signature=xsXZPeKhWcjliAR0N0*dLUqzXrnDkzaMykXnAOdc-65P1qdl5JiloDDW-FEbPEwg5yrFwYUNiLhZ8fKX*nVgzSbV9KlN5w9U43zbmXG7pCxBeS2Sqe6Il0FVL9*arPyN&new=1)
+ ## [华为服务伙伴生态的四大变化与三大行动](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=TvreAAVWLvJ8MXUzYsZacvEmmvIPe98pAxeU6Ek5apvk1d-83w5ZCkP94tx-SXePN5GW52x15-1y*-yfGgpcMmT5lX6Mxb340LpjTowqglooOKUwzojXQeG2vsI*KZQL&new=1)
+ > ——本文作者 赛迪网徐培炎2013年华为中国企业服务提出“大服务”理念。2018年，面向行业数字化转型的不断深入以及客户需求的新变化，企业服务重新定位，开启新的篇章。华为EBG中国区副总裁李同广接受赛迪网采访...
+ ## [华为巴展创新之见：5G端到端的开荒者，折叠屏手机的高等生](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=cBBcv0bIEPcNXKNlXOh0LFUJVq01KHQDFOW2Fi2MDtxWGXOz5PAshrfrAqxNccwzOD5Ppq37T8yNgX8PYauypl59rCSN5sAn-Rp7P8gvQ7d0vinWptJLubPyO9ISFZEg&new=1)
+ > 2019年的巴展属于华为，这样说或许并不为过，因为在巴展这个全球各大手机厂商大秀技术创新的舞台上，华为带来了世界首款5G折叠屏手机华为Mate X，吸睛无数。甚至连长期跟踪智能手机创新的海外业内人士都被华为的...
+ ## [项立刚：5G的往事今生——还好当年中国政府顶住骂名，支持了一批科学家|观学院2019](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=xsXZPeKhWcjliAR0N0*dLUqzXrnDkzaMykXnAOdc-65P1qdl5JiloDDW-FEbPEwgJsIBe2h0zHxzOmNA-qO0qVgvSmXzZwq8K-cWDUBrXeG0XuveR0DXjsea4auWya1j&new=1)
  > 项立刚  中国通信业知名观察家当年中国搞TD-SCDMA，你们是不是都骂过？觉得中国政府为什么要搞自己的一套呢？为什么我们不能跟国际接轨？为什么不跟着欧美标准走？在这个过程中有一批中国科学家，他们是顶着骂名...
+ ## [看完这篇文章，你想象不到欧美航空机器人发展到什么程度了!](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=4vPluoG2y75X-HVgpYOSZV6gUSkj52DDFgq-YzStarP*orcx6P*3Ph6zwsqWa*reFKpcpz*LtSWkeohRLiOkTfk-WNNe62jfTBM8h4sVDcmULh1k3k*kvX*0-atlJzZf&new=1)
+ > 目前，航空制造商正在越来越多地采用机器人来替代以往由人类和笨重设备来承担的单调工作和复杂任务，绝大部分机器人本质上与汽车装配流水线上的工业机器人一样。然而近年来，空客、波音、洛马等制造商正在研究将...
+ ## [\[从巴展看华为\]光而不耀，华为正在“变阵”](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=Q50JVLXLBoplCAHtwrbRlh*CON8flFJ*z0TvOm8geSraZrVtHO3lMKhs0Ck4NjE3dytDc7DgLUjSEV3tqFrhJjvn-CwN3zRFmBUAEO74KymD07RSmAL74I81KdVX7eAf&new=1)
+ > 公元5世纪，宋武帝刘裕发明却月阵，以水陆联军力克北魏铁骑；公元前三百年，亚历山大大帝依靠马其顿方阵的战斗力统一了希腊。曾经冷兵器时代的创新阵法，能够攻城掠地，而今天企业的阵法之变，却能深入人心，更...
+ ## [直击2019全国两会：互联网大佬都带来了哪些提案?](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=yboHlFAgd3EBqHtnF*28G57n00*xSGJQs9G74QX7fL9suojdL2WFK0VwMuYwMr90YMdsiNQZmDloEpDzrNxHh4xZM2SLC651GJCsRWDOKaDJEkojNaaeppOo4chS3Sdg&new=1)
+ > 2019全国两会已经正式拉开帷幕，除了发展宏观经济，推进法治中国建设、保障改善民生等议题外，互联网企业家对于中国社会经济未来发展的判断，也成为了近年来两会的一大看点。 诸如马化腾、周鸿祎、李彦宏等企业...
+ ## [规模超过4万亿元!中国超高清产业春天来了](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=mwMQxE3Yv5qu7MIJcE5UwYnLowChIPufsxhjFPx6BCveVDfWHWfif1PJ64rhajx5Jj-dvwtvjwxSLW6DxMX-CKgKLHb4olNP6LsZXU2wIwVtsvSCzJ7-f7VmxwrXRLpp&new=1)
+ > 工信部近日发布了《超高清视频产业发展行动计划（2019-2022年）》，指出2020年国内4K产业生态体系基本完善，8K关键技术产品研发和产业化取得突破，而2022年4K电视终端全面普及，8K电视占比要达到5%。工信部在《...
+ ## [华为差点75亿美元“卖身”摩托罗拉背后的故事!](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=AbDKYy5YDTQwMdINVuGidG9OfGd1Z6N38rzvqZTiXcmFMZ2r6Pz0hxIJtVm*AiGGAb7aLMP18LbFSU3HIj5TjXFJpEjBMHkzN7U7Y9tjvbQdZ-sIJDi-GykSvuT3xxqG&new=1)
+ > 坊间曾流传一段有关华为差点百亿美元“卖身”昔日手机巨头摩托罗拉的陈年往事。传闻，在2003年，华为和美国电信公司摩托罗拉曾达成协议，后者计划以75亿美元收购华为。近日，英国《金融时报》一份报道披露了有关...
+ ## [特斯拉即将Model Y丨滴滴试行“选择路线”功能\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=0kYhqYfHI2m5-XlCQ1Q8aqpwKvUONzX*cfhg3dOKH3VYIT1vRr0zOTOqiFT8bSOcvA1e6DKzZVKdgGEeakFAuPo2AW6Z1E5SnVcFpk3EHsuWsMGNfxgOHKMS71nGS04r&new=1)
+ > 3月4日 周一【Do说】编辑 | 李尧特斯拉Model Y于3月14日发布 售价比Model 3贵10%据Engadget消息，马斯克宣布将于3月14日在洛杉矶设计工作室揭开ModelY的面纱，届时将提供Model Y具体的里程、定价和试驾
+ ## [两会微观察|5G、VR、AI……“科技潮头”看两会!](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=L*Fccav0lcc0SdXC5-9tkM*EmV9zfHm2kn2iFn81FhraAu3dTBDH2tksk57LB1CBJssGzL3DPpe0mevEgURuZipPrwQZuoxc5lLCgOCXW6O8heDJv4In*Ql4eFXjqlbC&new=1)
+ > 全国政协十三届二次会议昨天（3日）下午在人民大会堂开幕首场 “委员通道” 如约而至多位全国政协委员在 “委员通道”接受中外媒体记者集体采访其中5G、VR、AI等 “黑科技”受到广泛关注2019，5G的脚步近了5G第...
+ ## [2019 黑客报告：白帽收入最高竟是普通程序员的40倍](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=3oF20BDlPr9vzriNLZ1vCv1zhWcIyJqa*ZJDvYmwF0nysqaGh30gaORZu7nob7PBfnkeSABhKIMNWMaoKPl2934OKmGe3n3z9ASKVZO5UtCCPSxLb3Pk8o3mqXWTg9vF&new=1)
+ > HackerOne 平台发布年报，内容主要包括：黑客从哪里来？为何挖漏洞？最喜欢的黑客目标和工具是什么？从哪里学习？为何要和他人协作等等。另外，还公布了首位获得百万赏金的黑客年仅19岁且自学成才。报告数据来自...
+ ## [RSA创新沙盒top10，最终赢家是?](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=L9fVengzV9o7gmIyN6KWmiXkp9B-xsKQYt14y4kE8KsBM2em27HVoZOvTohJb9nczlcJn2amj0AVb3ajfHbUylV-*UVsCT2mey1JMV-YZk-7m*D3cgZH1RWe*k8sVH1J&new=1)
+ > 掐指一算，RSA 2019 信息安全大会要来了。今年的 RSA 大会于北京时间3月5日凌晨，在美国旧金山拉开帷幕（编辑朋友圈已经出现了不少旧金山打卡）。经过十余年的发展，RSA会议已经成为全世界安全行业的一个重要风...
+ ## [英特尔5G模块已经面世，iPhone 5G版或将发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=SkbCE6D9rAljD7uFFIM51C7CVeDdC29ZvsIXjC*vo6FM1ZtRXxxEp2VogNPXdwP8E*RbeKdguYW64s*8aU0PnLuBiDm3qHNRNkdbBYxLz1VAw2dppUayPkoOyNGRTTmn&new=1)
+ > 近日，在MWC（世界移动通信大会）上，广和通联合英特尔面向全球市场发布其首款5G通信模组：Fibocom FG100。该芯片内置Intel XMM 8160 5G基带芯片，采用M．2封装，实现“One World One SKU”的全球统一
+ ## [\[观察\]华为数字平台，为何是开启多行业数字化转型大门的金钥匙?](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=AatqKp45m9JO7rJJ-dng-2puycpwQiktTKbjqoBB702-QG53BYYvcyKAATiX6p2wEVPpo8TiAgSyLhk6HWqDOOKnWh-x572egvV6X4wf1P1Cm9AevXGaEb*g70ET0NwO&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！众所周知，过去几年数字化转型已经席卷全球，随着新技术的广泛应用，新的机会和价值正在不断被发现和创造。数字化转型已不是一种选择，而是通向未来的唯一出路。然而大部分企...
+ ## [售价23万的特斯拉Model 3 工厂揭秘+供应商名录!](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=MLY9KZkg21YUm1-vFLtxe0K3ggftNCCrH7ZnYcb1BAx6Lc-Yz*G5OayjqZvP9DQ6smS*FlP*pKfY10FCpP50P0aYZwQHhCPyLIjWbBeJXClf7kRpg0drytR2Gu9bJNs2&new=1)
+ > 一条重磅消息轰动了国产汽车业！特斯拉发布了最便宜的特斯拉——“售价35,000美元（约合人民币23.4万元）起的标准版Model 3”。此外，特斯拉的所有车型均降低了售价。3月1日，特斯拉标准续航版本美国上市，有标...
+ ## [自动驾驶领域重大利好!人大常委会将人工智能立法纳入五年规划](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=cCozcLUY51ecbEgcgcRf0Tr*eNxVAIhlsZ78q0AWlq7m4JiHYGhHOyAx8KqXLT6YhFUEvgp10VxsmsR8y075euA8APP352hA20O5FoIDLci0rMDx7aR0Y5GnXbvwlmOg&new=1)
+ > “全国人大常委会已将一些与人工智能密切相关的立法项目，如数字安全法、个人信息保护法和修改科学技术进步法等，列入本届五年的立法规划。同时把人工智能方面立法列入抓紧研究项目，围绕相关法律问题进行深入的...
+ ## [特辑|中医药信息化十年变迁：古典外表下的现代化](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=wOCmePi8MyBgzNsq0FwH5mSGYys8Ok7J3pOw0JsVV-T0-BMegoYUIOUVMq0fh2aP9evycazs2xb4bEJ1a9jkvQOZjf0WclaRLss-u8So*iNURMtQ1msnYQcl8ZA6SwGt&new=1)
+ > &quot;医疗信息化十周年”专题第8篇文章全文字数：2600余字中医药信息化,是中医药现代化的动力引擎和技术支撑，在过去的十年里， 中医药信息化高速发展，正在进一步落实和完善已有的发展战略规划，加速发展人工智能在...
+ ## [杨杰转任中国移动董事长，看点不在5G](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=pmM8DJXRAHyEFbY*2C16mKyLUVb8J3M0N9SprpQRsjFeAiSyvz*G1QNYemjq5FIyXzDzZOHPptTH5OR9OJSCHAEzt0uhX9LlGf0EQn7WR8ViGiOI*frnF6RcQU*84aQ-&new=1)
+ > 【摘要】靴子终于落地了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：付亮本文来源：竞争情报应用（fuliang_ci）杂谈投稿邮箱：631255063@qq.com今天上午，中国电信集团董事长杨杰转任中国移动集团...
+ ## [半导体激光器的未来在哪里?](http://mp.weixin.qq.com/s?src=11&timestamp=1551745806&ver=1465&signature=NXF913-StHPxU8ezwuhACpB*P*h1pStL0RiOzFEw-bZgTal*HpaLN9e*yL9jqsJMdhQ4wnJEPLlg1T1ocYU3d8JEEm9aN3GxkoqKNXs3KxNghAMdkrdPtfvIbYZ6VDLN&new=1)
+ > 中国激光产业在地域分布上呈现出很强的聚集性，以深圳为代表的珠三角区域主要以中、小功率激光加工设备为主，而以武汉光谷为代表的华中区域则在产品线上更为全面，覆盖了大、中、小功率设备。除去这两个最为大型...
  ## [在小鹏汽车工作是一种怎样的体验？](https://www.zhihu.com/question/61676066)
  > 谢 @小鹏汽车 @戴少鹤 邀。今天中午发的时候忘记了之前的账号密码，但又很心痒来回答这个问题，所以临时注册了账号来答。结果答案发出后好多人来问是不是我本人，为知友们的认真点赞！为了解答大家的谜之困惑，于是就...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
@@ -54,10 +54,6 @@ categories: IT NEWS
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [在校大学生 没有经验 相当网拍模特该怎么办？](https://www.zhihu.com/question/46638637)
  > 做网拍做了两年的老司机来强答一发 没做网拍时，我对于网络上的兼职全都是不相信的，尤其让你交钱的一律拉黑，但是我刚做时是室友带着做的网拍，也是交了299的会费，没有考虑会不会被骗什么的，因为我完全信任我室友...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 人很容易死。
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [如何从零开始学做互联网运营？](https://www.zhihu.com/question/22131241)
  > 谢邀，从原来的旅游业离开，到互联网行业的转行者，我来分享一下我的经历。坦白说，现在回过头看我当初的行为、跟做法，做的其实不够好，如果从现在的眼光来看，我会觉得我做的好很多。所以这次分享就相当于对我过往...
  ## [如何评价贾扬清离职 Facebook？](https://www.zhihu.com/question/314292977)
@@ -82,10 +78,14 @@ categories: IT NEWS
  > 我推荐几个互联网行业用的多的，不同场景会有不同的选择。关系型就是MySQL，不多说了。也可以关注一些new SQL的实现，比如说tidb，基本和MySQL兼容，但是scale能力更强。NoSQL比较好的还挺多的，我推...
  ## [如何评价老猫新书《大道朝天》？](https://www.zhihu.com/question/66671585)
  > 老猫的书是从将夜还在更新的时候读起的，前半段一口气读下来峰回路转荡气回肠，后半段追更磨磨蹭蹭扣扣索索，到了择天记三天两头请假更是影响阅读体验，好不容易熬到了完结，心想这什么狗屁玩意，觉得老猫真真江郎才...
+ ## [如何看待支付宝锦鲤信小呆域名？](https://www.zhihu.com/question/297827371)
+ > 用万网注册的域名都会显示注册商阿里巴巴，域名转到万网的也是一样，我的几个域名转过去也显示阿里巴巴，万网是中国最大的域名注册商之一，做域名生意的用其抢注域名也不新鲜，至于为什么不显示注册人信息，因为今年...
  ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
  > 浪潮之巅
  ## [今天看到lo圈一个因为网名引发的争端。这种行为是否正确？](https://www.zhihu.com/question/310186689)
  > 客服本身戏也比较多ˊ_&gt;ˋ那妹子应该不会真的去干挖坟奸尸这种可怕的事情。再说了…我看叫“变态”的，“电车痴汉”…还有什么“我要舔学姐的脚”“我爱吃屎”（这个也可以理解为一种类似冰恋的癖好吧）“萝莉控”的...
+ ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
+ > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
 # IT 技术 
  ## [做好基础设施监控，防范意外停机](http://news.51cto.com/art/201903/592781.htm)
  > 做好基础设施监控，防范意外停机
@@ -123,50 +123,54 @@ categories: IT NEWS
  > 20180730-为什么迟到的总是你
  ## [考研长难句-1-20](https://blog.csdn.net/weixin_33676492/article/details/88124027)
  > 考研长难句-1-20
+ ## [20181217-时间都去哪了](https://blog.csdn.net/weixin_34223655/article/details/88124022)
+ > 20181217-时间都去哪了
+ ## [最全中国科学技术大学计算机学院课程资源！](https://blog.csdn.net/jews_NLP/article/details/88123822)
+ > 最全中国科学技术大学计算机学院课程资源！
  ## [老码农：我为什么建议程序员尽早进入大厂？](https://blog.csdn.net/weixin_43884642/article/details/88123449)
  > 老码农：我为什么建议程序员尽早进入大厂？
  ## [Java面试问题总结（Java工程师 20190304）](https://blog.csdn.net/JavaWDB/article/details/88123392)
  > Java面试问题总结（Java工程师 20190304）
  ## [iOS程序员年薪40W,需要必备哪些技术?](https://blog.csdn.net/weixin_44557309/article/details/88123376)
  > iOS程序员年薪40W,需要必备哪些技术?
- ## [pytorch学习笔记 在pycharm里使用没有智能提示的解决方法](https://blog.csdn.net/weixin_43737862/article/details/88123063)
- > pytorch学习笔记 在pycharm里使用没有智能提示的解决方法
- ## [LargeVis安装与使用](https://blog.csdn.net/u011426236/article/details/88123042)
- > LargeVis安装与使用
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [中移动迎来隔壁大楼的帅，5G和混改跟着电信联通跑](http://www.lanjingtmt.com/news/detail/40911.shtml)
+ > 多情自古伤离别，中国移动又到了换帅的季节。今天，中国移动已成为全球一个巨无霸，为何不追求稳步前进，而是高层更换频仍呢？
 # 人工智能 
- ## [HDOJ 2053 Switch Game【规律题】](https://blog.csdn.net/liu6886/article/details/46970339)
- > HDOJ 2053 Switch Game【规律题】
- ## [物联网的原理、应用和技能](https://blog.csdn.net/zhinengxuexi/article/details/86795376)
- > 物联网的原理、应用和技能
- ## [Cocos2d-x 3 x游戏开发之旅](https://blog.csdn.net/akdjhf/article/details/87366586)
- > Cocos2d-x 3 x游戏开发之旅
- ## [WebView内存泄漏解决方法](https://blog.csdn.net/xygy8860/article/details/53334476)
- > WebView内存泄漏解决方法
+ ## [关于SpringBoot bean无法注入的问题（与文件包位置有关）](https://blog.csdn.net/gefangshuai/article/details/50328451)
+ > 关于SpringBoot bean无法注入的问题（与文件包位置有关）
+ ## [初级音视频开发（断续更新中还不完整。。。）](https://blog.csdn.net/qq_32216895/article/details/87515113)
+ > 初级音视频开发（断续更新中还不完整。。。）
+ ## [免费在线解析去水印下载抖音视频](https://blog.csdn.net/weixin_42469142/article/details/87450613)
+ > 免费在线解析去水印下载抖音视频
+ ## [vue 仿抖音视频列表（兼容微信内置X5浏览器）](https://blog.csdn.net/superKM/article/details/87603255)
+ > vue 仿抖音视频列表（兼容微信内置X5浏览器）
+ ## [Android多媒体框架（4）—— AMessage，AHandler和ALooper源码分析](https://blog.csdn.net/foolish0421/article/details/86763119)
+ > Android多媒体框架（4）—— AMessage，AHandler和ALooper源码分析
  ## [Jenkins常用插件之Deploy Plugin](https://blog.csdn.net/jiang1986829/article/details/51173251)
  > Jenkins常用插件之Deploy Plugin
- ## [\[UE4初级游戏开发\]笔记一](https://blog.csdn.net/weixin_39116058/article/details/87621580)
- > \[UE4初级游戏开发\]笔记一
- ## [物联网IOT-mqtt协议](https://blog.csdn.net/MyLovelyJay/article/details/87880383)
- > 物联网IOT-mqtt协议
- ## [(程序人生)第一篇：我们因何而战？](https://blog.csdn.net/qq_35837578/article/details/88017320)
- > (程序人生)第一篇：我们因何而战？
- ## [EasyUI - 一个简单的后台管理系统入门实例](https://blog.csdn.net/hwhsong/article/details/78294965)
- > EasyUI - 一个简单的后台管理系统入门实例
- ## [树莓派与Arduino的区别](https://blog.csdn.net/weixin_43954533/article/details/88046344)
- > 树莓派与Arduino的区别
- ## [Webrtc服务器搭建](https://blog.csdn.net/bamboolsu/article/details/48446787)
- > Webrtc服务器搭建
- ## [git上传本地Intellij idea 项目到github](https://blog.csdn.net/u010237107/article/details/50910879)
- > git上传本地Intellij idea 项目到github
- ## [Cocos2d-x 2.2.3 使用NDK配置编译环境](https://blog.csdn.net/wwj_748/article/details/30072379)
- > Cocos2d-x 2.2.3 使用NDK配置编译环境
- ## [物联网时代，物联网卡推动无线城市新格局](https://blog.csdn.net/qq_40798435/article/details/88060801)
- > 物联网时代，物联网卡推动无线城市新格局
+ ## [基于Linux的智能家居的设计(5)](https://blog.csdn.net/u011046042/article/details/47067037)
+ > 基于Linux的智能家居的设计(5)
  ## [jquery/js实现一个网页同时调用多个倒计时(最新的)](https://blog.csdn.net/wuchengzeng/article/details/50037611)
  > jquery/js实现一个网页同时调用多个倒计时(最新的)
+ ## [构建你的第一个Flutter视频通话应用](https://blog.csdn.net/agora_cloud/article/details/87872959)
+ > 构建你的第一个Flutter视频通话应用
+ ## [如何在Android Studio中添加RecyclerView-v7支持包](https://blog.csdn.net/a10615/article/details/51268022)
+ > 如何在Android Studio中添加RecyclerView-v7支持包
+ ## [什么人工智能](https://blog.csdn.net/haoxin963/article/details/87873511)
+ > 什么人工智能
+ ## [Spark2学习1之基本环境搭建（win）问题](https://blog.csdn.net/bob601450868/article/details/52073805)
+ > Spark2学习1之基本环境搭建（win）问题
+ ## [EasyUI - 一个简单的后台管理系统入门实例](https://blog.csdn.net/hwhsong/article/details/78294965)
+ > EasyUI - 一个简单的后台管理系统入门实例
+ ## [FFmpeg简易播放器的实现-音视频播放](https://blog.csdn.net/leisure_chn/article/details/87643584)
+ > FFmpeg简易播放器的实现-音视频播放
+ ## [数据库相关的知识点](https://blog.csdn.net/wjxhhh123/article/details/87372586)
+ > 数据库相关的知识点
 # PM 
+ ## [什么叫目标？什么叫协作？答案都在这里！](http://www.woshipm.com/it/2020436.html)
+ > 你是否也曾好奇：淘宝是如何做项目管理的？如何实现跨部门联动一群人共同做一个项目？看完本文作者的分享，相信你定能找到答案。今天要分享一下，为什么用户增长对于...
  ## [为什么苹果ASM下载量变少了？这5个原因导致……](http://www.chanpin100.com/article/108021)
  > 为什么后台与工具的下载量数据误差这么大？
  ## [用解九连环的思路来修炼产品力](http://www.chanpin100.com/article/108043)
