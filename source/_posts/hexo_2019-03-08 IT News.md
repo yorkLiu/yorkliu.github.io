@@ -1,51 +1,51 @@
 ---
 title: 2019-03-08 IT News
 copyright: true
-date: 2019-03-08 08:01:26
+date: 2019-03-08 09:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为不再沉默，正式起诉美国政府](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=hK86wxY7WAIGjxrE7CVYvMFyX3ATzwPdTFpTWmcceJ-0Ep8AAWlO4aiuRz4Ye7CvhzlaoaKc56S5zkR9-o*lrQJtTBTSYddqHWFMjNS8EH6MC8X6mgrgWCVO*uP2n4IZ&new=1)
- > 综合 /网络编辑 /联商君3月7日，据环球时报微博消息，华为在深圳总部发布重要声明：决定起诉美国政府。环球时报称，华为在深圳总部发布会上向外界透露，华为有证据表明美国政府涉嫌入侵华为服务器。而华为在今天...
- ## [警惕!如果你想「携号转网」千万不要做这些!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=qRQVbs8abgvvU88z2qC-bTbYsZ-pi46M-tqZaYJ1Z1BAkcCrystTfLRm*5QfrYpn-t8eY1JHgVKui277wC*bADNIIPpYkDVv2yN7tt9m16rzWnotX*ntc1Ix0QdM8gFg&new=1)
- > 十三届全国人大二次会议3月5日上午在人民大会堂开幕，总理工作报告表示，将持续推动网络提速降费。“今年中小企业宽带平均资费再降低15%，移动网络流量平均资费再降低 20%以上，在全国实行‘携号转网’，规范套...
- ## [独家：何志强调任中国电信研究总院院长 正式任命书已下达](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=4zLZhXJO1mjof-dKdgkRMsPfYlYovdx90lxweZseUxSdh*DL0rY9*Mn2v7IIWWTkP6EXuszSHSXaJF-C2ytYOy7nuELqFy7xMndFlAo3fCa2A4LNzfSJpsmJxZREemFf&new=1)
- > 运营商财经网 秦佰铃/文近日，运营商财经网获悉中国电信技术部总经理何志强调任研究总院院长任命书已正式下达。实际上，去年中国电信整合北京、上海、广州三大研究院，业内对谁会接任总院一把手职位猜测了很久，...
- ## [SSD是一个标准化产品吗](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=*gRKwRIUIHjSdbOYMvPEuJNQppl3UHP0D9gzi7*Rd68upZz1boMTu8Y0jJT*p0nshAFITBi2wXO6G-vZicXqxYUmPS*bAZu0WSy0hQEoolNFIt6ZznsOJE3gotsR6L01&new=1)
- > 能够想象吗？面对Intel、三星、东芝、西部数据、希捷这样强大的对手，Memblaze生存了下来了，发展壮大了。成名PCIe闪存卡作为一家创新企业，Memblaze独辟蹊径，原本与这些巨头谈不上竞争。按照Memblaze的话说，...
- ## [中美5G竞争的未来路线图](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=H2txNHIb3oamiUhwtZ75kDRab7tWWBTXF*FMgpHpOh6rRs2R2k5cyVdpovPqC--Kmk8iMhHqk0Y1sbjdlAhuk5wxkufo2iSry2eHhudqbJip43k2QRo3TejV*l9hNANv&new=1)
- > &quot; 中美在5G竞争若是公开透明，无疑可形成交替领跑式的“螺旋式簇拥”上升，但若竞争演变为恶意围堵，那就是对整个产业的破坏和打击。                 作者：张彧通，京东数字科技研究院研究员        张洪海，...
- ## [华为不谈里程碑 看重“协同”的智能进化](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=nDVHUXupSPSSsCdXIJTKkUF8JZF1sofs0-D9wGi-j9WDMlBD966kJsWB5f9A62TvdD*7UnwlQ40lGnI4ers4UKRhsfX7wpdkoq6rAOhXT3xQ31o5t9Vb-WpoDzfo9lQ1&new=1)
- > ——TechECR记者 张戈有些变化，确有必要关注。例如从100亿元，到500亿元，营销收入的两个“里程碑”数字，背后则“巧合”了华为不同生态阶段的时间节点；再例如从“平台+生态”，到“平台+AI+生态”，看似是将A...
- ## [手机号码用了5年以上的沈阳人快看!喜讯来了!现在知道还不晚!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=IGQVzTyoxmS8cTt2w80BsPgWoijyq*0veqrGLWhsGeg7oYcN2ln37T4jxrN0e*VLHbVme6quDfjnnXgUGGErQxZhRtklrrZ87cLmmb7jTUguuT6IwMclzDPANgCfsAcq&new=1)
- > 同一个手机号用了很多年的小伙伴是不是都面临过这样的困惑：有时想换一家网络质量更优或有更优惠的套餐的运营商但是，太麻烦！如果你是移动的用户想转成联通的就意味着原来的手机号不能用了必须换个新号码！然而...
- ## [华为起诉美国政府结果会如何?我们采访了相关专家。|观学院·访谈](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=v2e37dOhj0Ve6rgqacAo*F9z4wUCvsXDXqQorKaHxcRU5zRay1VoEKUZ9Tnm9MSe0ntZdXf3HmsWz*AGIJQ8i9BEw0f9oA9TCP-A3nCkgtMncc4CPgPLa3C0ThEhuqkV&new=1)
- > 今天上午，华为公司正式决定起诉美国政府。华为针对的是美国《2019年国防授权法案》第889条条款。该条款明令禁止任何获得政府贷款或拨款的执行机构、政府承包商或公司华为和中兴购买设备和服务，禁止美国政府机...
- ## [行话|5G时代到来，传统电影要变天?](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=-cnpmIndxR7W8JQOUIG0h9dStEYCm7CyRixsNZ*PvhCc0RxPTFrj-yOOx3aWKzzaruQNJ607VNkmbaau81nAzJ9s6dv98GOEMdQp0xUscj*QKQapNS27qVx6GR1lcUQH&new=1)
- > 今年两会期间，5G成为各方提及度最高的热词之一。多家运营商为新闻中心提供5G网络信号全覆盖，中央广播电视总台首次实现5G+4K+VR直播，社交平台上，5G话题阅读量超过一亿，正在使用4G流量浏览信息的我们，已经...
- ## [用iPhone搭建独家私有云盘，不仅安全简单还免费!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=-yqHDn1PKqOkc9ZFaoslmUuHog1iqU5Auyaw2qx5NudaM7nxt2u5Pkt7R6XFLPrpQh94MBmDwr1J0PguW*CO661ssz5jagsQJua1PoUFfnGwwL9CTERAqA*viFsCM5ox&new=1)
+ ## [手机号码用了5年以上的人赶紧看!大好消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=-LjyZbE9SCFqagLvsjM0-mRWoksnnNF-EdE-bKp-OArxfCYgLCOf-5gIxgy*iv15v-MmGxkFfemhhdQRmW1m*18*dJGkQiw-n*DEfmQ0bUTBcfmSMhJ5WaNmqpHdjtv7&new=1)
+ > 来源：都市现场、央视新闻、大渝网、南方都市报版权归原作者所有，如有侵权请联系我们可能有些人，希望能实现自己的想法，在不换手机号的情况下，随意转换三大运营商！哪家套餐便宜就转哪家！手机资费、销号等等...
+ ## [今日热点|王思聪的熊猫直播破产倒计时：安卓、iOS应用均已下架；联想：“宁放弃5G也不选华为”纯属造谣；](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=3ZHYvG8lqfXYq0hAA-eUs66jiWb-*MRoghpMi5n2RYm9HY*55LB65WARpgafy39yNtEOJLobzb98AIq4w0BtuFVXfgMjmwVyfp1ukW1-3IGwKovLNzSBGOD*L3CLuHY-&new=1)
+ > 全国政协委员成龙在文艺界别联组会议上发言称：看到热情真诚的农民朋友们，脑海里有一种强烈的想法，只要是好的农产品，能够帮助农民朋友，他都会代言。  热 点 新 闻 华为宣布起诉美国政府3月7日消息 华为举行...
+ ## [华为正式宣布起诉美国政府，指责美国政府违宪](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=1d5rwjpEhISNPmXend5y*8b8I6LhCLSHxcCn5XrzNNO*okpmtPUNi7Bz*BElifClX6tK35pe6rnekGhAb*lEwHmhhOzQIuAwFxN3yyALfomSoLagdxRarX5ip8YCFV8O&new=1)
+ > 3月7日上午，华为在深圳总部正式宣布针对美国《2019财年国防授权法》第889条的合宪性向美国联邦法院提起诉讼，请求法院判定这一针对华为的销售限制条款违宪，并判令永久禁止该限制条款的实施府。华为声明称，将...
+ ## [用iPhone搭建独家私有云盘，不仅安全简单还免费!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=-yqHDn1PKqOkc9ZFaoslmUuHog1iqU5Auyaw2qx5NudaM7nxt2u5Pkt7R6XFLPrp*EHL1ME8I-nc6WMCh2bNsNY1SOnBpJu0EBr-TdTQJP-EZXDW6bNby6*OKefzm23k&new=1)
  > 在如今这个互联网越来越发达的社会，想保护好自己个人隐私还真不是那么容易的，特别是一些重要的生活和工作资料，我们都会想方设法保护好不让别人发现，所以很多人都会将一些资料文件上传到网盘，可问题是如今的...
- ## [AOC商用丨X23E1H商用显示器，16:10呈现全新视野!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=8xRvR6WohFMZEXA71zF2Pqou8skmWPkgUAtNPuSSTrYvrOBxU5*amvkp3oFxEPvkqUDMxmOP3ipVaK9DftTxycI3vYpcBf0ZLtDHKK-plCx6CszqcCbGipZFgEnfmopn&new=1)
- > 作为传统行业之一，制造业可以直接体现一个国家的生产力水平，它是基础却不容忽视的重要支柱。如何提高员工效率，缩减企业成本，提高效益是每个制造企业所关心的问题。在不改变大方向的前提下，AOC X23E1H商用显...
- ## [第四季利润下滑两成，ABB将面临架构重组?](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=0tjFZZET*KyWnHuNiUf5kOwbHz94kg0OiweKX5Mz6Qc8CR8MCSZjnszVwW*Z27IWQhJgcGAo-GxWIhJ3GqO6nNHG35qZkzHUB0*FPZsXFx5LXgasRATGUg1UoX8z09qL&new=1)
- > 近日，世界500强企业ABB公布了公司的第四季度业绩，在2018年最后的三个月里，ABB总营收达到74亿美元，同比2017年的第四季增长了9%。不过，该季度利润只有3.17亿美元，相比2017年的3.93亿美元，利润下降了19%。虽...
- ## [重磅!刚刚，华为宣布起诉美国政府!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=9kokfKU68fcuD9D-k477ICyb7BMh9VgfiAFuwEU3ZJ85qhmJRpp6B60*oixhUPM7M1Yqorw*9nWCdeQK8C8Hel0L0kXSCLQyN3y5tM*Rx3uEb2pypAApZFTAQ1ymxPWB&new=1)
- > 刚刚，华为在深圳总部发布重要声明：决定起诉美国政府。 华为反击：起诉美国政府销售限制法案违宪来源：21世纪经济报道 作者：倪雨晴3月7日上午，华为在深圳总部宣布，针对美国《2019财年国防授权法》第889条的...
- ## [\[报告\]2019年中国重卡发展趋势分析(附47页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=LuzY0ft3cexewWPGytvejN22SwpxrULieHSeepvx1P-KwhAp-AdTR0tMCKfg32jzIxlgYosmGjK9D3RcWSl6sLJ4zzMVsth*kkYkJskFHgby-u2IncLgYh8BPHhShKO9&new=1)
- > 报告指出，2005年~2018年，全球重卡市场经历了两次高峰：2009年销量触底，随即在2011年受全球主要经济体刺激，销量达到第一次高峰，2017年第二次销量高峰则主要由中国地区推动；在全球市场销量剧烈波动的2009、2...
- ## [汇顶科技CTO皮波：IoT战略已制定10年计划，有信心做到世界级领先水平](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=Lg*mM*oZIBSaD6LrRyFPFYrRSl-jIYG8ifLwuSdb0HhUAA4vnh4bmV1llCQmJLmNlOZxy8rysJcIr6dvPPRCpS57NUnThJm8GkHpVKiuMkiEFbrAsBG38DxFy3PxVxsQ&new=1)
- > 全文字数：2328    阅读时间：17分钟从触控芯片到如今的指纹芯片，汇顶科技总能做到“不断突破、遥遥领先”。他们的发展史已经证明了这是一家有韧性、有决心、有信心、有能力持续创新，保持领先的企业。文｜徐伦...
- ## [手机号码用了5年以上的浙江人快看!喜讯来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=mLtW5oNDgc5xYdoR*Pkv5Oh9dAlJPLrK-8sAcWD0Xhnf*V5XZhtnHp0i6V2RkB2bj*VfHxxdZrqLmOOEty0bUpXTrIdRrhmJpMvGEcs8s0a3aeDZrxS32ccmH50QlU9K&new=1)
- > 把“浙江之声”设为星标，更容易找到我们哦如果你号码用了5年以上但每个月依然花最贵的钱用最少的流量而且微信、支付宝、银行卡、游戏账号……基本上啥都和它绑定了以前就算隔壁的套餐再优惠你也只能满眼羡慕工...
- ## [华为为什么起诉美国政府?](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=9d*wYhbBL*GdJ0rAyqhFj7ZpTcJUbCr-nGVbT4JAVb4IJroUJilrUYmG1hlOrIUmL7XP2f8R15xoMmwlMA6CWRpa5LzOtRslDMMJjVX3SHVax1V30WpSk9qzONMmWtA4&new=1)
+ ## [\[今日头条\]华为实力反击美国，将正式提起诉讼!称有证据表明美国政府涉嫌入侵华为服务器!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=2V*P594MW3BM1Qo2JnjTAtWfZPiT9OrDdzeuSyVlDw9v7pavfJfY0WUMB0GYMVjqfl0AImGrA1hANjhjtExa27rbabRyKydz0BLT6*YBorIXXpu5A7iYCfas7wRfwQj8&new=1)
+ > 3月7日上午消息，华为在深圳总部发布会上发布重要声明：决定起诉美国政府。华为有证据表明美国政府涉嫌入侵华为服务器。　　此外，华为华为轮值董事长郭平表示，华为已向美国联邦法院提起诉讼，指控美国2019...
+ ## [独家：何志强调任中国电信研究总院院长 正式任命书已下达](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=4zLZhXJO1mjof-dKdgkRMsPfYlYovdx90lxweZseUxSdh*DL0rY9*Mn2v7IIWWTk5VJGfSdm*P23rSExaA3ONCdoJVYAMfRmzmyrqwOq1Mw9Frr-zKCHc6OQyl4w*Zto&new=1)
+ > 运营商财经网 秦佰铃/文近日，运营商财经网获悉中国电信技术部总经理何志强调任研究总院院长任命书已正式下达。实际上，去年中国电信整合北京、上海、广州三大研究院，业内对谁会接任总院一把手职位猜测了很久，...
+ ## [华为为什么起诉美国政府?](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=9d*wYhbBL*GdJ0rAyqhFj7ZpTcJUbCr-nGVbT4JAVb4IJroUJilrUYmG1hlOrIUmOe-020ZipWY9fsicGlzgW-Quj-APsmZy0x3Ex3G3bvshDDYcW74QYEmk2JAd95Vq&new=1)
  > 【摘要】华为，加油！| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：王胖子本文发言实录来自：心声社区杂谈投稿邮箱：631255063@qq.com今天，华为宣布针对美国《2019财年国防授权法》第889条的合宪性向...
- ## [手机号码用了5年以上的宁波人快看!喜讯来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=QdwaBzAkhZbCarIEZgZmfG2X5zavaC7XVOLIvI0z2hN15k26Jw5LLB6AgtQjI7MgrFC61wZG0vj*tvC-P4zOQM8iOjjAxain-AEHdpTj6laWjmp69vAMcr8be8Uq*8wd&new=1)
- > 手机用了几年了，你对运营商的评价如何呢？信号好不好？资费套餐是不是称心如意？你有没有携号转网的想法呢？可能有些人希望能实现在不换手机号的情况下，随意转换三大运营商！哪家套餐便宜就转哪家！手机资费、...
- ## [升级自研技术，华为路由Q2 Pro或将继续占据路由市场C位](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=ML-9uABnrkSrs15XRkVj6nSQDTf1RirK23nvhumgRI4Hh9P1NwR0CaNTXlRB*NjP3td9dVpsVIAid53An3TcCPLqx9JPnRqVlqHLtTU*4ZZgob7xelgp8ZIvXj4aUUEO&new=1)
- > 上网只能在客厅，回到卧室完全没信号，睡前只能用流量上网，抓狂！家里都升级了200M宽带了，为何房间上网速度没提升，测速低、看视频卡？爱玩手游，可是只能守着路由玩，或者用流量，回到卧室就卡卡卡…… 这是...
- ## [瞭望|科技部副部长李萌：未来已来，智能化社会门槛如何迈](http://mp.weixin.qq.com/s?src=11&timestamp=1552001406&ver=1471&signature=eCpJ-8tlOs9kPc5FApJbGvsOy6zuFtodDqN5vZMYpY-tOcAtlCF7CYbQ72htgBlbXAuFAC78xhUK5CltFBteD10z2YLFaf-UqZMJhEK2He1GfGPssVKFsOxGfQxrzmcI&new=1)
- > ◆ 科技部副部长李萌日前接受《瞭望》新闻周刊记者专访◆ 高速移动互联+人工智能将成为未来社会主流图景，要准确判断全球科技和产业发展的大趋势，避免因判断失误而犯颠覆性错误◆ 中国有着丰富的应用场景，有着...
+ ## [为VR培训打个样，福岛核电站用巨幕打造沉浸式模拟作业](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=b9ZcfdK2E91jodMpZ2U8PaVuBa*24l9J5lcJBM5R6v62Yk4t9SDDRlyS6S0lPgVG7g3RZPP4w*1LZyB*ufGJwZ49XR8ORo0yXvNLp6N1y5Suh7y8avxJ1txBvuX18PyB&new=1)
+ > Esther｜ 编辑在今年3月11日，日本福岛第一核电站事故将满8周年，但灾害过去多年，清理工作一直延续到现在。然而，核反应堆附近的辐射水平相当高，人在里面待几分钟就有可能会有致命危险。因此，东京电力公司派...
+ ## [华为“反击”背后：他们都告赢过美国政府!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=I0Pvz1wSjLOLOTyzPkGftLLvLZ4cnLFixQaB6U*j81wM-Kwbp3JePAvnC0Plx-KgpAUvWZ4Xyq7HYd9mJ3A8kTwrNFnYkwvZ1Wp7*LTaRgXEkxOh9qQzNnJc1r45XtVd&new=1)
+ > 一段时间以来，美国政府在国际上四处渲染所谓“华为威胁”，甚至强迫其他国家“站队”。但围堵华为的“联盟”，正日益显现裂痕。华为起诉美国政府，针对的是美国“2019年度国防授权法”（NDAA）第889条。该条款...
+ ## [\[报告\]2019年中国重卡发展趋势分析(附47页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=LuzY0ft3cexewWPGytvejN22SwpxrULieHSeepvx1P-KwhAp-AdTR0tMCKfg32jz4HCNdapNyZPEWXjLuJ6AJ6bCA3Crh-KN5Gm5IB5ZGLW4Gdg*APU90N1453B0uJj9&new=1)
+ > 报告指出，2005年~2018年，全球重卡市场经历了两次高峰：2009年销量触底，随即在2011年受全球主要经济体刺激，销量达到第一次高峰，2017年第二次销量高峰则主要由中国地区推动；在全球市场销量剧烈波动的2009、2...
+ ## [缝纫机器人自动化生产线，一端进布料一端出T恤，全程无人参与!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=h-*c*J1olBj8Y5Rr*vctAlIatIrew*PYuNNBWJGF0h3b79ZdP50*2kEQ-w29PLGmtRJi9JMK1RcwKyVpLWQCD-92gsQt9qpDEcgXTpxttJKO60F9dt*eNS-OYw5kZDT*&new=1)
+ > 这款机器人不需要人力干预，全程自动化便能生产出T恤，而且生产机器人的效率高达22秒一件，简直让人类望尘莫及啊！文/ 服装帮等几十年来，机器人尽管看上去也一直被用于成衣的大规模生产，但主要涉及激光切割织...
+ ## [华为起诉美国政府结果会如何?我们采访了相关专家。|观学院·访谈](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=v2e37dOhj0Ve6rgqacAo*F9z4wUCvsXDXqQorKaHxcRU5zRay1VoEKUZ9Tnm9MSeeBPc-tUxQSF70VFDLcLada6IAOj2z6F9uEDpejuVKiZWHRw8Pv91TL*FGzIr2G6E&new=1)
+ > 今天上午，华为公司正式决定起诉美国政府。华为针对的是美国《2019年国防授权法案》第889条条款。该条款明令禁止任何获得政府贷款或拨款的执行机构、政府承包商或公司华为和中兴购买设备和服务，禁止美国政府机...
+ ## [SSD是一个标准化产品吗](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=*gRKwRIUIHjSdbOYMvPEuJNQppl3UHP0D9gzi7*Rd68upZz1boMTu8Y0jJT*p0nsExLsS77l7LzcFqhmCm6yrvLh4nCu7r8YiUE2GbwtkcZemNdj2AoGzhHzighPwRlC&new=1)
+ > 能够想象吗？面对Intel、三星、东芝、西部数据、希捷这样强大的对手，Memblaze生存了下来了，发展壮大了。成名PCIe闪存卡作为一家创新企业，Memblaze独辟蹊径，原本与这些巨头谈不上竞争。按照Memblaze的话说，...
+ ## [第四季利润下滑两成，ABB将面临架构重组?](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=0tjFZZET*KyWnHuNiUf5kOwbHz94kg0OiweKX5Mz6Qc8CR8MCSZjnszVwW*Z27IWpFr27SqKmivl7yKre9Dwwl3fq2T4kPLva6KklV08dG0RAlOjZhKLCvwlfJQ*qAte&new=1)
+ > 近日，世界500强企业ABB公布了公司的第四季度业绩，在2018年最后的三个月里，ABB总营收达到74亿美元，同比2017年的第四季增长了9%。不过，该季度利润只有3.17亿美元，相比2017年的3.93亿美元，利润下降了19%。虽...
+ ## [重磅!华为宣布起诉美国政府](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=YMM-XGknFBlsUsE2AR52u74XQ0nKRI8l-KFgWT2V4wdqn1XLk4B885C6KVl1F*V74TYPOkLhLgQm2uTWJBN0wTsgnZ4f2L300CW4yQDQKhCscJiEtzS921-*TPSkE3et&new=1)
+ > 导读：华为正式发起反击！作者：丁广胜 | 文章来源：网易智能（smartman163）今天，华为在深圳总部召开发布会，宣布决定起诉美国政府。 1指责美国政府窃取华为服务器 华为宣布针对美国《2019财年国防授权法》第8...
+ ## [手机号码用了5年以上的沈阳人快看!喜讯来了!现在知道还不晚!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=IGQVzTyoxmS8cTt2w80BsPgWoijyq*0veqrGLWhsGeg7oYcN2ln37T4jxrN0e*VLhsvE-P2ybHQvNDXTZ9x76iU-7n1P7YnfatWSri4vm06zDeRSv0V32JryfuhVmnux&new=1)
+ > 同一个手机号用了很多年的小伙伴是不是都面临过这样的困惑：有时想换一家网络质量更优或有更优惠的套餐的运营商但是，太麻烦！如果你是移动的用户想转成联通的就意味着原来的手机号不能用了必须换个新号码！然而...
+ ## [华为不谈里程碑 看重“协同”的智能进化](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=nDVHUXupSPSSsCdXIJTKkUF8JZF1sofs0-D9wGi-j9WDMlBD966kJsWB5f9A62Tv6dLx9MQIV0afeP6H7wAizvqn*jwfHX*bejerWX4dG*FAv64gYwbHvjvvNae5eD4I&new=1)
+ > ——TechECR记者 张戈有些变化，确有必要关注。例如从100亿元，到500亿元，营销收入的两个“里程碑”数字，背后则“巧合”了华为不同生态阶段的时间节点；再例如从“平台+生态”，到“平台+AI+生态”，看似是将A...
+ ## [三大通信运营商的员工心声 说出来真是让人忍俊不禁啊!](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=zLuDw0a4hoY3XTqzwMqrTZIZlklkab-iwFpex3ewUHYaQR8fkUglOlLHGyVKHDYoExXHeYW7NxYQ8v6fHybWjaxDYiw1fftYLhecOLfmLD8lswQNOhKwh774nwylpfbx&new=1)
+ > 近期运营商发布的最新消息中，原中国电信董事长杨杰调任中国移动董事长后，引发了不少讨论，有网友对其进行了总结，其以各大运营商员工的名义说出来，让明白真相的大众忍俊不禁。其称：移动员工：中国电信的董事...
+ ## [苹果做安防，有戏吗](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=G1m0yy3llk*qGl48eudFux39X4CM*5MmTsNpgFm2YAITb1LgiABnCdMxdmQR32Pm9-35jfQAMGUcVip4sBKG*LrTRqEFuysEalNZyYwST7kRa*VaSz1FHqeONZ6t5t*L&new=1)
+ > 据外媒报道，苹果最近从一家倒闭的家庭安防摄像头厂商手里，收购了一些涉及基于计算机视觉的安防、视觉认证等技术专利，据IAM的报道，8项专利和专利申请具体如下：1美国专利号 9396400：“基于深度学习与机器视...
+ ## [中美5G竞争的未来路线图](http://mp.weixin.qq.com/s?src=11&timestamp=1552005006&ver=1471&signature=H2txNHIb3oamiUhwtZ75kDRab7tWWBTXF*FMgpHpOh6rRs2R2k5cyVdpovPqC--KTg4EbazAwmJk8Et2-CwC5Y*IITkyooDVJCP-g7HXHqQnIoGQ*9Wl58wRvazFEKVN&new=1)
+ > &quot; 中美在5G竞争若是公开透明，无疑可形成交替领跑式的“螺旋式簇拥”上升，但若竞争演变为恶意围堵，那就是对整个产业的破坏和打击。                 作者：张彧通，京东数字科技研究院研究员        张洪海，...
  ## [作为一个创业者该怎么做？](https://www.zhihu.com/question/313168615)
  > 这个问题真是让我眼前一亮，作为一名咨询管理从业者，见过无数或“奇葩”或“鸡贼”的创业成功史（开个玩笑，对这些创业者没有任何贬低），早就想找个地方吐吐槽，正好看见了题主的问题，这可让我找着地方了。我会通...
  ## [腾讯互娱的 NEXT Studios 是做什么的？](https://www.zhihu.com/question/58348839)
@@ -54,14 +54,14 @@ categories: IT NEWS
  > 并不是所有的操作系统都用扩展名来标识文件类型……同时扩展名事实上也非常混乱，htm和html表示的都是HTML文档，jpeg和jpg都是JPEG图片格式，等等……最后，浏览器所使用的URL（统一资源定位符），根本就...
  ## [如何理解马云「未来 30 年，计划经济会越来越大」的言论？](https://www.zhihu.com/question/52814006)
  > 很多人认为，市场机制下，生产效率更高，其实这是大错特错谬论。我们来看看撒切尔夫人是怎么评价苏联的经济模式的。实际上，公有制经济的效率，远远高于私有制市场化。这一点连新自由主义的鼻祖之一撒切尔也是承认的...
+ ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
+ > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
  > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 本答案将以两种方式讲解如何从零开始使用 Semantic-UI，其中第一种方式仅要求读者理解最基本的 HTML 语法。方式一：不用 npm对于初学者来说，node, npm, gulp 等工具会造成不少麻烦，即陷入所谓的“依赖地狱”...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
- ## [在校大学生 没有经验 相当网拍模特该怎么办？](https://www.zhihu.com/question/46638637)
- > 做网拍做了两年的老司机来强答一发 没做网拍时，我对于网络上的兼职全都是不相信的，尤其让你交钱的一律拉黑，但是我刚做时是室友带着做的网拍，也是交了299的会费，没有考虑会不会被骗什么的，因为我完全信任我室友...
  ## [感觉知乎上的人越来越刻薄，为什么？](https://www.zhihu.com/question/51026039)
  > 因为这个平台男人多，吹毛求疵的男人总是想依靠所谓理性去找漏洞，实际是个别人眼里的蠢才自己不自知。男人互相的攀比是沉默的，但是一点也不会少。尤其失败的男人更是凡事都想去比，想证明自己，男人不认输的。因为...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
@@ -87,6 +87,8 @@ categories: IT NEWS
  ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
  > 浪潮之巅
 # IT 技术 
+ ## [用开放的AI语音助理Mycroft确保隐私](http://ai.51cto.com/art/201903/592897.htm)
+ > 用开放的AI语音助理Mycroft确保隐私
  ## [这可能是讲分布式系统最到位的一篇文章](http://os.51cto.com/art/201903/592976.htm)
  > 这可能是讲分布式系统最到位的一篇文章
  ## [细说文本挖掘：工具、任务、问题和解决方案](http://ai.51cto.com/art/201903/592896.htm)
@@ -101,18 +103,28 @@ categories: IT NEWS
  > Kafka如何实现每秒上百万的超高并发写入？
  ## [漫话：如何给女朋友解释为什么200M宽带，打王者荣耀还是会有460的延迟？](http://network.51cto.com/art/201903/592927.htm)
  > 漫话：如何给女朋友解释为什么200M宽带，打王者荣耀还是会有460的延迟？
- ## [畅谈机器学习和人工智能的未来](http://ai.51cto.com/art/201903/592818.htm)
- > 畅谈机器学习和人工智能的未来
+ ## [物联网和医疗保健：改善生活的有效处方](http://iot.51cto.com/art/201903/593017.htm)
+ > 物联网正在为各行各业带来革命性的变化，但或许没有哪个行业比医疗保健更有潜力被物联网所改变。
+ ## [2019年最常见的7种物联网安全威胁](http://iot.51cto.com/art/201903/593016.htm)
+ > 物联网安全问题与连接到网络的智能家居自动化设备的快速发展有关。截至2019年，物联网的成长面临的难题已经
+ ## [物联网设备需要什么才能变得更加强大？想想瘦身](http://iot.51cto.com/art/201903/593015.htm)
+ > 虽然我认为物联网设备应该配备强大的处理能力和内存，但这可能会适得其反。使物联网举措如此成功的原因之一
  ## [程序员连拿 3 份 Offer，每份高达 45K？他说做对了这些！](https://blog.csdn.net/CSDNedu/article/details/88039685)
  > 程序员连拿 3 份 Offer，每份高达 45K？他说做对了这些！
  ## [Python中pandas dataframe删除一行或一列：drop函数](https://blog.csdn.net/songyunli1111/article/details/79306639)
  > Python中pandas dataframe删除一行或一列：drop函数
+ ## [《如何学习》刷新认知，科学学习法](https://blog.csdn.net/weixin_34310127/article/details/88253771)
+ > 《如何学习》刷新认知，科学学习法
  ## [AI公开课：19.03.07雷鸣教授《人工智能革命与趋势》课堂笔记以及个人感悟](https://blog.csdn.net/qq_41185868/article/details/88317488)
  > AI公开课：19.03.07雷鸣教授《人工智能革命与趋势》课堂笔记以及个人感悟
+ ## [第五家面试（东航电商  ）](https://blog.csdn.net/shaoyedeboke/article/details/88317487)
+ > 第五家面试（东航电商  ）
  ## [50个数据可视化最有价值的图表（附完整Python代码，建议收藏）](https://blog.csdn.net/haotian1685/article/details/88317475)
  > 50个数据可视化最有价值的图表（附完整Python代码，建议收藏）
  ## [halcon特征提取小结](https://blog.csdn.net/wangshi03/article/details/88317061)
  > halcon特征提取小结
+ ## [KNN 手写数字识别](https://blog.csdn.net/lvcuncc/article/details/88316851)
+ > KNN 手写数字识别
  ## [P1068 分数线划定](https://blog.csdn.net/weixin_43411988/article/details/88316463)
  > P1068 分数线划定
  ## [LTspice创建模型](https://blog.csdn.net/weixin_42617385/article/details/88316404)
@@ -127,46 +139,46 @@ categories: IT NEWS
  > 迷雾探险7 | DQN笔记
  ## [idea怎么样快速取消自己打过的所有断点](https://blog.csdn.net/qq_38007715/article/details/88255495)
  > idea怎么样快速取消自己打过的所有断点
- ## [北京一名程序员辞掉30W年薪的工作去接私活：6个月时间就能赚回30W，庆幸自己当初辞职！](https://blog.csdn.net/weixin_42784331/article/details/88255399)
- > 北京一名程序员辞掉30W年薪的工作去接私活：6个月时间就能赚回30W，庆幸自己当初辞职！
- ## [文本分析主要包含哪些技术，文本分析技术的发展方向是什么？](https://blog.csdn.net/weixin_43346716/article/details/88255326)
- > 文本分析主要包含哪些技术，文本分析技术的发展方向是什么？
- ## [2019前端面试社招经验分享（网易，酷狗）](https://blog.csdn.net/hu_baobao/article/details/88255128)
- > 2019前端面试社招经验分享（网易，酷狗）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [熊猫直播遣散员工，COO称因资金缺口太大](http://www.lanjingtmt.com/news/detail/41028.shtml)
+ > 熊猫直播创始团队成员兼首席运营官COO张菊元于公司内部工作群中发出长消息称，在资金缺口无法解决情况下，熊猫直播做出了遣散员工的决定。
 # 人工智能 
  ## [程序员连拿 3 份 Offer，每份高达 45K？他说做对了这些！](https://blog.csdn.net/CSDNedu/article/details/88039685)
  > 程序员连拿 3 份 Offer，每份高达 45K？他说做对了这些！
- ## [国产软件产品的一点看法](https://blog.csdn.net/lucky_fly/article/details/87872713)
- > 国产软件产品的一点看法
- ## [深度学习与计算机视觉系列(7)_神经网络数据预处理，正则化与损失函数](https://blog.csdn.net/qq_26898461/article/details/50463052)
- > 深度学习与计算机视觉系列(7)_神经网络数据预处理，正则化与损失函数
- ## [python图片处理类之~PIL.Image模块(ios android icon图标自动生成处理)](https://blog.csdn.net/themagickeyjianan/article/details/52386981)
- > python图片处理类之~PIL.Image模块(ios android icon图标自动生成处理)
- ## [75道腾讯高级 Java 面试题，你能答上几道？答对这些面试题，PASS 掉 80 % 的竞争者](https://blog.csdn.net/weixin_42784331/article/details/88069673)
- > 75道腾讯高级 Java 面试题，你能答上几道？答对这些面试题，PASS 掉 80 % 的竞争者
- ## [python中os.mkdir()函数](https://blog.csdn.net/ziyuzhao123/article/details/8811384)
- > python中os.mkdir()函数
- ## [ArcGIS VS QGIS——两者之间的27点比较上篇（译）](https://blog.csdn.net/hanminaaa/article/details/52534666)
- > ArcGIS VS QGIS——两者之间的27点比较上篇（译）
- ## [你会经常遇见的android性能优化方面知识总结](https://blog.csdn.net/Coo123_/article/details/87367131)
- > 你会经常遇见的android性能优化方面知识总结
- ## [区块链---论文阅读](https://blog.csdn.net/qq_36347365/article/details/87014211)
- > 区块链---论文阅读
- ## [centos 查看命令源码](https://blog.csdn.net/silentpebble/article/details/41279285)
- > centos 查看命令源码
- ## [2018年从学生到程序员的总结](https://blog.csdn.net/Caeser110/article/details/87896811)
- > 2018年从学生到程序员的总结
- ## [SNMP协议详解<二>](https://blog.csdn.net/yu_xiaofei/article/details/13287899)
- > SNMP协议详解&lt;二&gt;
- ## [Unity中内嵌网页插件 UniWebView 2.8使用](https://blog.csdn.net/u010019717/article/details/52890644)
- > Unity中内嵌网页插件 UniWebView 2.8使用
- ## [过招多家大厂提炼的iOS面试心经](https://blog.csdn.net/John_5555/article/details/87076186)
- > 过招多家大厂提炼的iOS面试心经
- ## [炫酷的空调调节器控件 - AirConditionerView](https://blog.csdn.net/u012401802/article/details/78543322)
- > 炫酷的空调调节器控件 - AirConditionerView
+ ## [Linux下libpcap的安装](https://blog.csdn.net/qinggebuyao/article/details/7715843)
+ > Linux下libpcap的安装
+ ## [高级运维工程师打怪升级之路](https://blog.csdn.net/zhenliang8/article/details/87971582)
+ > 高级运维工程师打怪升级之路
+ ## [无线充电技术对电动车市场的影响巨大](https://blog.csdn.net/weixin_44556860/article/details/88241642)
+ > 无线充电技术对电动车市场的影响巨大
+ ## [RestTemplate使用](https://blog.csdn.net/clj198606061111/article/details/70227571)
+ > RestTemplate使用
+ ## [linux上安装Docker(非常简单的安装方法)](https://blog.csdn.net/qq_36892341/article/details/73918672)
+ > linux上安装Docker(非常简单的安装方法)
+ ## [使用NASM和CL(或LINK)写HelloWorld](https://blog.csdn.net/duweix/article/details/19911967)
+ > 使用NASM和CL(或LINK)写HelloWorld
+ ## [mongodb日常运维](https://blog.csdn.net/jing_flower/article/details/78959927)
+ > mongodb日常运维
+ ## [ArcGIS JavaScript 代理设置](https://blog.csdn.net/qingyimengwu/article/details/42982057)
+ > ArcGIS JavaScript 代理设置
+ ## [【青松资讯】2018年第四季度DDoS攻击报告](https://blog.csdn.net/qssec__com/article/details/87102243)
+ > 【青松资讯】2018年第四季度DDoS攻击报告
+ ## [弹窗广告不再显示的办法，包括360的新闻](https://blog.csdn.net/suoxd123/article/details/88116287)
+ > 弹窗广告不再显示的办法，包括360的新闻
+ ## [【运维笔记】keeplived](https://blog.csdn.net/wuguifa/article/details/87166875)
+ > 【运维笔记】keeplived
+ ## [程序员相亲被误认为是工厂流水线的？网友：没毛病啊！](https://blog.csdn.net/mm782642353/article/details/88188240)
+ > 程序员相亲被误认为是工厂流水线的？网友：没毛病啊！
+ ## [应用场景:征信和权属管理](https://blog.csdn.net/weixin_44172023/article/details/87856383)
+ > 应用场景:征信和权属管理
+ ## [人工智能---遗传算法](https://blog.csdn.net/qq_36347365/article/details/87009472)
+ > 人工智能---遗传算法
 # PM 
+ ## [知识类红人快速崛起，“有趣的灵魂”更易脱颖而出](http://www.woshipm.com/it/2037022.html)
+ > 如今，除了娱乐性较强的高颜值、搞笑段子等红人外，泛文化领域也开始出现了一些现象级的红人代表。这些看起来与短视频气质不符的知识分子，在技术的推动下，凭借自身才...
+ ## [新公众号想要快速吸粉10000？拿好这个涨粉公式](http://www.woshipm.com/operate/2036196.html)
+ > 作为运营人员，特别是在微信公众号冷启动阶段，一定要力争最大化地利用一切可以利用的资源。在工作中，运营新人可能会遇到这么个情况：“刚接手一个新的公众号，老板说...
  ## [产品经理周报第 58 期｜网易相册将停止运营；腾讯QQ注销功能预计下周正式发布](http://www.woshipm.com/it/2039570.html)
  > 周五好呀，各位小伙伴们新的一周就要结束了又可以度过愉快的周末时光啦周末的你，打算去哪儿玩呢？现在，我们来了解一下本周发生的事情吧☟☟☟ Step 1：好看 产...
  ## [2019年，做新媒体还有前途吗？](http://www.pmtoo.com/article/67254.html)
