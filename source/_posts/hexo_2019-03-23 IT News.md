@@ -1,51 +1,51 @@
 ---
 title: 2019-03-23 IT News
 copyright: true
-date: 2019-03-23 08:01:21
+date: 2019-03-23 09:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G或将颠覆20个行业的未来：制造、金融、零售、餐饮、旅游……](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=G7Rjw2t385KBjta*IFmJBbNeI6gToaIrjnGtZpTM9L6KPkuCRO2zXalk39hpYPgGJPpv6Ckp0WO36nE1--7srVR4w5fE0Uaa7MlLwHr*2U2qQle91qkgvQOO8ryJ*w1m&new=1)
- > 前瞻网公众号ID：qianzhanw关注来源：前瞻经济学人APP作者：Carly Feng下一代无线技术5G时代即将到来，除了玩手机更快，这项技术还可能会影响更多行业。外媒CB Insight预测了5G将会影响的20大行业，包括制造业、...
- ## [AOC商用丨AOC入驻中国联通北京通信电信博物馆!](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=-JawyIOkKYBIVUTbyJGIPocKnfzjQwLaTFohjbtpXrHWFJRgzsbfhwTnbUBqb5Q-hafF8RBt9dIrO9eJ0T7yuKMp3ghh95uJ5vUdQVc6-s*zXL0dw15WSnsPgdavRT5F&new=1)
- > 一直以来展厅都是展现企业乃至行业领域的发展历程，彰显企业文化的重要场所，对企业有着独特意义。在整合中国联通旗下的北京通信电信博物馆视讯需求后，AOC以“智能会议平板”为其提供智慧展厅解决方案，助博物...
- ## [强强合作，G2 4K眼球追踪行业解决方案亮相GDC 2019](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=puEk52eZtLFK29xdYDUuMegvr7gAdxAI5Ltqz6OWtUe1LUH0hv5toqN0CTBJAEk2W8z94O1C8uFO19FYxJ-yyMgDR4Nx8Qvwcw6ZWNxYqUEgqbfrX4EkoUS*yCWYu07W&new=1)
+ ## [解读中国移动2018年财报](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=RsXLR56fA5oFMP8TYBD*I-3Aa1LFU2FsEVOnfKtrXNmQGndJ8KPszMljsyDL-4An16eDzW-BPzmKCL2jeWvZOTj4KFdRCfaezdTODbdlc69x*FgqoxU41NnZvGRrpPTw&new=1)
+ > 2019/3/22  周五恰逢周末，恰巧是公司们的财报季～三月了，春暖花也开了，是时候晒晒2018年的收成，展望展望2019了。这不，3月21日，中国移动发布了2018年全年业绩报告。财报显示2018年，中国移动全年营运收入为...
+ ## [江苏移动全力做好响水“3.21”爆炸事故通信保障](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=M4TzC0k8E3dNHvuVBllRndM8ZnDFLKW3KL04BsSUyx1YP*YurKnM*CbDsim0rMKkd0v*VzSCAhVP56M6S4zyZuUACwVwosBBWIy92CuemSrQ4IY2ajmjsqr1NP*8YXw9&new=1)
+ > 响水“3.21”爆炸事故发生后，中国移动江苏公司（以下简称江苏移动）第一时间组织开展应急通信保障工作。目前，事故周边区域的移动网络通信基本正常，网络接通率保持在99%以上。现场救援工作的通信保障、志愿者...
+ ## [强强合作，G2 4K眼球追踪行业解决方案亮相GDC 2019](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=puEk52eZtLFK29xdYDUuMegvr7gAdxAI5Ltqz6OWtUeFLTB-i*tyl7bb*zDSwrp3kCIin4fSJ5gMlNemr3vKZzEByR9SZT-FpeTk8zr7-UafK77EF5u6G2ZkEv-CDgNh&new=1)
  > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱2019年3月18日至22日，与GTC 2019几乎同期举行的GDC（Game Development Conference）在美国旧金山
- ## [科创板IPO首批受理名单出炉!001受理批文花落浦东企业→](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=1UoPmEN1OIxdZtgykGZgihMztUKHnrAfQwuyDhC5uqysh7IJIJLB1tJXbEXCOMTU7gWGpD59EiJQKOjq6pFpPLWoMvQEAqGceIOEjWanu9ulJ3MFVyyB9wkm5mmOgYcM&new=1)
- > 今天傍晚，上海证券交易所发布消息称：9家科创板企业IPO申请已获得受理，合计融资金额109.88亿元！来看详细名单️小布获悉，浦东企业——晶晨半导体获得的正是科创板001号受理批文，巧的是，该公司的保荐人国泰...
- ## [无人机推动“智慧农业”](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=aAbuxXqNQ7hnxTiKptjaogb01e8-SFmKZXcgPV511v5hwjM7YXj2vs5uR3bcsM8V-SsuRU7Y3k2mCdQNdniZbVxHpAx3aLBfdFEYZ9PjLgW7mEu-i3aiP5QkySDZOtzM&new=1)
- > 基因农业网传播科学，终结谣言关注【现象】无人机，这一“酷炫”的前沿科技正在和农业牵手，使用无人机的农民数量正在稳步增加。在土壤分析、肥料农业的靶向施用、风暴追踪、安全监测、污染控制以及空气监测等领...
- ## [迈向生态协同，拥抱智能时代丨华为中国生态伙伴大会2019圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=twdOmNcO58xJrmerm*IAVPUzq8vgRYqrugqZp-*hvS7l7kcGLzTq8C8WQxmXGoOMPg7KL4RzUVcX*L9*i-uzXguFi*ZFmf2xrcDILyR-NelJsKk3-mKn7e*750E3kynr&new=1)
- > 3月22日，在以“因聚而生 智能进化”为主题的华为中国生态伙伴大会2019上，华为提出，智能时代下，面对快速迭代的产业技术和客户需求，生态发展模式需要从生态合作演进到生态协同。“站在未来看现在”，在会上，...
- ## [携号换网后还有大麻烦：你可能得换手机..](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=tU9F2K5loDsTS0EnqEsHN9bCH0KDscm*ZNbMSbn30zy1lOAFOrfsjZQVHCx90Ch8Z8pTGdCIqL*yrY6Vayw7fotdzGQGBR7-hQwGJu5bL0IP3NdTs*6wZqzEuiqgLopX&new=1)
- > 此前，工信部部长苗圩在 &quot; 部长通道 &quot; 上透露，今年年底前将在全国实行携号转网。这意味着这意味着，携号转网在试行9年之后，今年内终于有望在全国范围内“转正”，消费者将“想转就转”。用户对携号转网的需求...
- ## [电力线网速新突破丨华为路由Q2 Pro完美应对中国家庭“Q2房型”](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=ESVgQAGwezq1GS9xcs*zAWRYjgzsVdl0K0HdgGsocQvNNjCU2PaN9*duF4BNNLayVPOTcoMGnb4xr4CL*BTrT4cWowQqYnsC-iSof9TWePGesm3gwyKT2Vf9qj1E6BH-&new=1)
- > 文丨壹观察 宿艺近期结束的2019AWE大展上，华为消费者BG IoT产品线智能家庭总经理闪罡提出的“Q2房型”成为热点关键词。中国是全球增长最快、潜力最大的IoT市场，但很多厂商推出的新品仍旧延用Copy美国产品的思...
- ## [地主家也没有余粮了!2018运营商“成绩单”承压前行](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=qTldjKKmIky-WsNi5Q-lLl6uvbjc6zkJ-tFETu2ul4-z8EBTl1f33VU18dsKXnDRmA5Njgo78RWWBs6OTeUh15zUSMlESLVYaQ6I*966kGdCMPhjBZfdlHZYWHvaSVYQ&new=1)
- > 2018年三大运营商交出一份亮丽的财务报表，然而看似光鲜的营收利润背后，却隐藏着运营商难以言明的苦楚。2019年，在5G的主战场真正到来之前，运营商仍然将承压前行。近日，三大运营商财报悉数亮相，无论是营收还...
- ## [5G将如何改变传媒业?](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=JlgTqfjlRNGaLkkTcBIYb1drSxkWobzIMXtlcw3ggrJ1cdlHwgFGFTuBwNinH9ridH8qo-PHjvf3-fahqXYTNrpKDMe0Hipnqe1zvm2D40sU-3gMBB6emIuFctAl4KA0&new=1)
- > 4G改变生活，5G改变社会作者 | 李媛来源 | 传媒1号ID | zcfhxy 5G是信息时代的一个重要的里程碑，5G将提升移动网络的作用，不仅让人与人之间互联，更让机器、物体和终端之间互联互控。5G时代视频流将成为主要信...
- ## [华为2018年国际专利申请量全球第一!中兴则大幅度减少!](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=*0gZ-NgKrCFrCmR4ZG*KUOYBepHnFizaNHDGbcbMtyqnXYwFHe43d1v1bmY*kau2Bn-UFF9b5KabpDAoVUbxxpDTC-xYRKBobSRB57716XMusqeKLpIwk2LVDyfVekcf&new=1)
- > 2019年3月19日，联合国世界知识产权组织表示，亚洲的创新者在2018年首次通过WIPO提交了超过一半的国际专利申请，其中包括来自中国，印度和韩国的显着增长，这为WIPO的全球知识产权（IP）服务创造了另一个创纪录...
- ## [在AWE除了关注新品，还应该关注什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=r4wHC7m7CD26q0gCq3ARVbYfcs7QEhCKX6QIhdw9bZBLhfD-yO88l5ZwZp7nhVl8dOOrW8Q64z-arMtGcV8Hum54Q9IdynIPy9Kq28-Lx-YH89NKiqnHEOBQdMA6HDJ2&new=1)
- > AWE2019已然闭幕，关于AWE的讨论在业内依然会持续一段时间，在本届AWE上没有往日众多的娱乐圈明星，让众多的家电及科技新品成为真正的主角未尝不是回归“主旋律”。在AWE，我们看到了卡萨帝的C7套系、、美的的多...
- ## [实地探访实地：智享空间呈现AIoT时代的智能家居](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=FA4R8kXuKwMVVwOaU-ijkJkLlex*gg7R*t-cS3-HP1Mfe2jqdp*E9r4zz9LzFXYzgHuivBxLiEebmfQail4BGntUeddVM7LJcHDEZYvcdbf*9f7DI2pdUMoxCmSHkV90&new=1)
- > 2019年以来AIoT成为科技行业炙手可热的新概念，小米、TCL和华为纷纷提出AIoT战略，BAT在AI和IoT上双线布局，MWC等科技展会上也处处能看到AIoT的趋势。不论是AI还是IoT，都已有多年发展历史，在5G时代则将更加紧...
- ## [千万家庭的安全如何守护?FreeBuf即将发布「智能门锁安全分析报告」](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=mI3N4Nea7zaSbTAJ3IszyPUI91UxGSZ4s27uohaoycUu-L63QLP*vjvgT1KIjkkEFf-1KpnRoZrx3wnaouBcj*D3Ok7tXapQYjg7iorZZAyYWiaQBMD*nFmqmo8Hnlf2&new=1)
- > 人对于工具的情感具有一定倾向性。我对一把键盘珍爱有加，或许你对一款耳机爱不释手，但是似乎从来没有人对一把家用门锁厚加情怀它就在那里，仅仅是在那里。就在2017年初，传统锁具的命运陡然驶入了快车道，以指...
- ## [华为企业BG中国如何与伙伴智能进化?靠“几个小事”和“一个大事”](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=G5SOh2SoHcy*5W49*awRSSJpnygi75i6RKgErGP3DWUgAo5EzB6wAio*ik0JrOMnJsR0IzckDQ6CCk6hiBLIfmtA1p0X9nyCawJOGoB-0MvaEisFMa*bTaVbRgH5Ihat&new=1)
+ ## [5G或将颠覆20个行业的未来：制造、金融、零售、餐饮、旅游……](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=G7Rjw2t385KBjta*IFmJBbNeI6gToaIrjnGtZpTM9L5-YlqgRXsww4esftqS3W6oRrhMqKfXqg2UFNtkMMjANQRIdfGysc6Q5Oa9bpuAFjsrcE9rUMj4VYXZquRd1jgm&new=1)
+ > 前瞻网公众号ID：qianzhanw关注来源：前瞻经济学人APP作者：Carly Feng下一代无线技术5G时代即将到来，除了玩手机更快，这项技术还可能会影响更多行业。外媒CB Insight预测了5G将会影响的20大行业，包括制造业、...
+ ## [倒计时8天|云智天山·第二届中国安防大数据发展高峰论坛宣传片震撼发布](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=1ov*irfHSpqAdacFGk1*E4TeK*1FBY0Cx6bHko8k*3LevnvdtD3qg*yLqgflX3yVQgWY4VyBjowIFPafglLBiP0z0YRfh7rG1Cj0fdSavbuxP8k*yYyA8DfTfLeKNJzP&new=1)
+ > 云智天山·第二届中国安防大数据发展高峰论坛暨 2018 年度安防行业颁奖盛典将于2019年3月29日在新疆·乌鲁木齐市希尔顿酒店举行。【详情】今天距离盛会召开还有8天时间，云智天山·第二届中国安防大数据发展高峰...
+ ## [更快更可靠，Wi-Fi 6已就绪](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=JfHcCmY78ie27gbfc5E-EmK9HA9Ao5Wk6K3FoeqWNIx*sjjtiq7yE24tXM3cALef2*nrkaoQU428r6GZYS9OVKkzQvOj4NAU9qgdN1qgVy47TXWfDWS05l4TZ4TWqHVP&new=1)
+ > Wi-Fi 6是基于802.11ax规范的第六代Wi-Fi，可以认为是5G的表兄弟。它不仅能满足用户“超高速、低时延”的移动体验需求，还能扩宽覆盖区域，让用户可以在更多终端上体验到可靠和高速的强大性能。并且，Wi-Fi 6为...
+ ## [重庆华港服务案例：长安汽车研究院新车门板产品](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=4e4gbxXVVBudevxpNflAaFPN605f10WfLNTRN6KOLKaj0eFVX9tgjyXLm6zh5jssWWC3u92p7woRKY8bcp1K80ScbUT24BM39gQBrcP8QSDldVRYe8udjbM0dDoCMuwI&new=1)
+ > 产品名称：汽车门板制作材质：尼龙制作工艺：华港科技金属3D打印（SLS）客户单位：长安汽车研究院制作时间：2017.7产品说明：由于3D打印技术在工业制造领域所具备得天独厚的优势，近几年来愈加受到各汽车制造企...
+ ## [华为企业BG中国如何与伙伴智能进化?靠“几个小事”和“一个大事”](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=G5SOh2SoHcy*5W49*awRSSJpnygi75i6RKgErGP3DWXvw4Uqp958-fNFcm2WIKCCxe8SMC9EIlTeW73rm5hbrb-hzfIMBx2OR6RxgCBk-YJPtgIgXqSPX1-FHg0VubKk&new=1)
  > 3月21日，主题为“因聚而生，智能进化”的华为中国生态伙伴大会在福州召开。该会议是中国ICT市场上半年最大的盛会，展示了最前沿的ICT技术，汇聚各方智能生态合作成果，今年迎来超2万ICT生态伙伴参加。在2019年...
- ## [「天佑响水」中国电信在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=TNOx3w-xlzlMc1sv3qZuD3nXiQHzW5jAhEzCGJs2WxPCMb*HQpHHqiynSc-gBbn4RKGeqlO-WOH29O7USzgEwYtVXirnfiym8Ot*mdy6zGWg4xbGuAfOhvWZzEf93P-R&new=1)
+ ## [新3D打印材料：科莱恩玻纤增强、增韧型PLA+GF10，高强度、高韧性、易打印](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=LmBNu0Chn8NjNqD3q7Ov07ha*SCAXxnLyHpk*hMfz84u1P*rXG39fGgHA9X4zQdLK9DFkAHePCi8*hjDI0oAnUA*aWdxcEGrdgaHP3Ghl9tRgQRzxU6T75-YL3wZQRJH&new=1)
+ > 南极熊·中国3D打印垂直媒体·欢迎关注作为全球领先的特种化学品公司之一，科莱恩致力于为各行业的客户提供创新及可持续的解决方案。科莱恩3D打印业务最新推出一个创新的解决方案，为客户通过3D打印生产辅助工具...
+ ## [地主家也没有余粮了!2018运营商“成绩单”承压前行](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=qTldjKKmIky-WsNi5Q-lLl6uvbjc6zkJ-tFETu2ul48ruohGBe4jc-SgSsoPpy34SMxRVWaBoBqfLJz9pBKkNCn6m*kgmtpDm0MH7MwcKl6mxJI-fnLL*Qw*W7Z2SWAX&new=1)
+ > 2018年三大运营商交出一份亮丽的财务报表，然而看似光鲜的营收利润背后，却隐藏着运营商难以言明的苦楚。2019年，在5G的主战场真正到来之前，运营商仍然将承压前行。近日，三大运营商财报悉数亮相，无论是营收还...
+ ## [微软HoloLens脑洞设计：用LED风扇当眼镜解决视场角问题](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=3D0X3OsQCByww8q21I7TvQ*ooHsWINSlKuhVnbhsh*5JzvcQNP3nkKbesg3yEXx0ofnNPsTv-tJe*q47Sjno3ITf3PM*zCn03gHHmzqxVqDzgMJFlqICeNzqaQW5Mo1n&new=1)
+ > 近日，在接受澳大利亚金融评论媒体采访的时候，HoloLens创始人Alex Kipman承认虽然HoloLens 2的视场角（FoV）是初代的两倍，但依然是大规模商业化该设备的难题之一。他坦言HoloLens 3可以带来“无限的视觉”，但...
+ ## [5G将如何改变传媒业?](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=JlgTqfjlRNGaLkkTcBIYb1drSxkWobzIMXtlcw3ggrKov2EJZKujhZOEbwxI2tfsOtViFClZzoSynMRGZHDyExYHjzGtw3fCKP2XyIn2Cw5uyaCg6MmnvbAJ*vtx7KAE&new=1)
+ > 4G改变生活，5G改变社会作者 | 李媛来源 | 传媒1号ID | zcfhxy 5G是信息时代的一个重要的里程碑，5G将提升移动网络的作用，不仅让人与人之间互联，更让机器、物体和终端之间互联互控。5G时代视频流将成为主要信...
+ ## [在AWE除了关注新品，还应该关注什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=r4wHC7m7CD26q0gCq3ARVbYfcs7QEhCKX6QIhdw9bZDY9S1v7HjEHCDmRr21PMAYFb*GNpoTsrXcOz-oPaUvaUl*S*ljGuYbxMmtuAOItT5dMOLFgD8cbortXt9cHZcv&new=1)
+ > AWE2019已然闭幕，关于AWE的讨论在业内依然会持续一段时间，在本届AWE上没有往日众多的娱乐圈明星，让众多的家电及科技新品成为真正的主角未尝不是回归“主旋律”。在AWE，我们看到了卡萨帝的C7套系、、美的的多...
+ ## [无人机推动“智慧农业”](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=aAbuxXqNQ7hnxTiKptjaogb01e8-SFmKZXcgPV511v6qPYjs-u9nYY9hRD*Y1aXxnQAm2HYLcNklDopK3Ugm9dGoUrNihiAzam29nz0Drrde74JUiQzpf9glBnNlhk6L&new=1)
+ > 基因农业网传播科学，终结谣言关注【现象】无人机，这一“酷炫”的前沿科技正在和农业牵手，使用无人机的农民数量正在稳步增加。在土壤分析、肥料农业的靶向施用、风暴追踪、安全监测、污染控制以及空气监测等领...
+ ## [科创板IPO首批受理名单出炉!001受理批文花落浦东企业→](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=1UoPmEN1OIxdZtgykGZgihMztUKHnrAfQwuyDhC5uqzwFAbyvIYE343ByvZ42UmPSQunnuBSktlOjoga8ieIN4TqwvLS3O31OSirCVTGcCTJHzys6iGqPMYo34S73ZaF&new=1)
+ > 今天傍晚，上海证券交易所发布消息称：9家科创板企业IPO申请已获得受理，合计融资金额109.88亿元！来看详细名单️小布获悉，浦东企业——晶晨半导体获得的正是科创板001号受理批文，巧的是，该公司的保荐人国泰...
+ ## [开启北部非洲5G篇章!华为与摩洛哥INWI签署5G战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=a9kUkfF-4-LDIZXPfW*JbWQ47bWne*Zpo6kIhUePRJQAbv8P0aR*3P7yMZMHyFXznXyKdu87EJnYbFAxErd-VBDAWd60U-FxG6dWg8GiVEzGODqjUxBMQzuKmTFe21*b&new=1)
+ > 当地时间3月15日，华为公司与摩洛哥移动运营商INWI签署了北部非洲首个5G战略合作协议，开启北部非洲5G篇章。摩洛哥INWI作为摩洛哥首家发布千兆4G网络体验的移动运营商，在2018年大规模商用4.5G，先进技术为运营...
+ ## [“偷听”无需太高技术门槛，网友质疑：为何阿里系APP最懂我?](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=huSH2Dp9Fh5bWFyWPu6Rq1HhLPdi4acG6cx8rBH1zPXkTXipKJuc05zHkRJTT4l7omz3bVTpXbQwr*yoKU7ZI*sezTq5C0pLq2YoysmAYvcQdqsd25AI6Wisq2rIQwgQ&new=1)
+ > 更多IT时报内容请访问  http://www.it-times.com.cn“外卖App到底有没有在偷听？”3月18日，我们发布的《隔屏有耳，记者耗时3个月测试，美团饿了么是否在“偷听”？》引发热议。更多人提到，除了外卖App，电商类...
+ ## [2018年世界国防科技发展综述](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=Pcq6r2y31kAjt2X5lW-89rON2FBY4qwZYAbjKQ*u*gBoR5*D6rHmHCg2PiZTPfKClDy1WaTHWAuI7gB17ZDlLQgnrU*KuWw1weqTfm7py8O3pxskLRvf*hNuo6Ek7TKb&new=1)
+ > 2018年，世界主要国家高度重视前沿技术的探索和应用，与国防和军队建设紧密相关的前瞻性、先导性、探索性、颠覆性重大技术取得一系列新突破，将对未来武器装备、战争形态和军事理论等产生革命性影响。一、持续布...
+ ## [「天佑响水」中国电信在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=TNOx3w-xlzlMc1sv3qZuD3nXiQHzW5jAhEzCGJs2WxNjcpYwmyKICmkJogPhG7Mn49nGu9*tSEyJqs74jugpSCmX9VuSAPfvkS8Lp-NNsFr4UqyKA8dMzz9N8vz*YnXF&new=1)
  > 3月21日14时48分左右，位于响水县生态化工园区的天嘉宜化工有限公司发生爆炸事故，电信多条光缆杆路受到损伤，波分、SDH以及基站均发生告警，园区接入网机房损坏，6个L网基站和1个C网基站退服、26条专线中断。险...
- ## [智能电网建设对安防技术应用有哪些新要求?](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=rI2HC4*E2wWE4kWWRl9Vq7oSE-k35FP1ts8Y5OWl7k6CBdNpTJ0YcdIJPd1dvhhxSs29k3y1Z3kGCXqxT2YnvQKcfeAt7ZhlXOQYYEc1W4mbJ7ZWYXna*3gz2b1IY4vl&new=1)
- > 电力行业的建设和发展是国家经济发展的重要支撑，而智能电网作为电力系统的重要组成部分，它的安全高效运行关乎到整个电力系统乃至民生的稳定和安全。为了加快国家经济的发展以及满足人们对电力的需求和用电可靠...
- ## [直击慕尼黑上海光博会 细数锐科激光三大看点](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=2AtRUgWwUz60W40jbu-md6iJSsgjYAOPWzx6mE7vguuN2JepvfpJZ0oh4a2vNNN7UeVqOlDIiR1u9PiBhIbMAn14oeOfTgBuLvtJ20I0EYsiltwHn5M41BKyICA2lEUq&new=1)
- > 2019年3月20日至3月22日，一年一度的慕尼黑上海光博会再次开启。相较2018年的展会，今年的开展时间往后调整了数日。来自国内外激光、光学、光电众多企业悉数参展，各类新产品、黑科技让人眼花缭乱。作为国内领军...
- ## [应用归档时，如何搞定磁盘分层存储和全闪存存储取舍的问题?](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=IVwnRwyCgW-T3hryTVp-GiXZ4L3WDEB5NyL4uAph2N4AxF1Y3w2eneMOjtbAEW6VbsZGejf-M0ZS9DeNcYawauIUwn8zIGHXy7bv-L*7PnmwzxsCDw883Y1QircPhrfG&new=1)
- > VAST Data公司于2016年成立于纽约，VAST Data已获得8000万美元融资。日前，这家公司宣布推出通用存储平台 (Universal Storage Platform)的存储，并表示已出货数PB的存储容量，用户包括信息技术公司
- ## [开源告急?!](http://mp.weixin.qq.com/s?src=11&timestamp=1553299206&ver=1501&signature=GxHZoZnIXv4IWXa4tfkxzEDOvupzHlefYLKEb3qAL272svBzVGAJ*vOtJyX3ccd2g8l*7HjeARi2n0wFANfLgG*JSmVBGEF*-Qac8b07HKZ6gdB5qfpsQnj8Lv0-yQ1i&new=1)
- > 作者 | 阿木责编 | 仲培艺开源，还能走多远？现如今开源软件几乎可以说是软件开发过程中必不可少的一部分，且是比较特殊的一部分，实际工作中几乎每个项目都有开源软件的身影。开源社区的存在使我们每个人都可以...
+ ## [迈向生态协同，拥抱智能时代丨华为中国生态伙伴大会2019圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1553301006&ver=1501&signature=twdOmNcO58xJrmerm*IAVPUzq8vgRYqrugqZp-*hvS6XOXnaDiXKB8VG55N6slQ6N-mLK1iFjDJZ*mwrk2VpKoBIVzKqxcLmV9lta2tX5dQkyj4Sp53KJT6ydVWmeHYu&new=1)
+ > 3月22日，在以“因聚而生 智能进化”为主题的华为中国生态伙伴大会2019上，华为提出，智能时代下，面对快速迭代的产业技术和客户需求，生态发展模式需要从生态合作演进到生态协同。“站在未来看现在”，在会上，...
  ## [互联网运营如何规划自己的职业生涯？](https://www.zhihu.com/question/21092884)
  > 我们来聊聊运营的职业规划，首先来了解运营人的级别。一.运营人的级别就级别而言，大体可以分成：初级、中级、高级、资深、专家这5个级别，是有对应的要求的。初级：可以执行领导交付的运营任务，严重需要培训和实操...
  ## [在校大学生 没有经验 相当网拍模特该怎么办？](https://www.zhihu.com/question/46638637)
@@ -56,6 +56,8 @@ categories: IT NEWS
  > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
  ## [王者荣耀小乔怎么怎么玩比较厉害？](https://www.zhihu.com/question/58687307)
  > 3月19号小乔喜提加强：二技能的冷却时间大幅降低，大招加强后有3个效果：1、增加瞬间爆发伤害：如先开大招再闪现2-1，比原本闪现2-3-1多打了1-2段大招伤害。2、增强追击和逃生能力：差一点追上敌人的时候，可以先开大...
+ ## [互联网时代，消费者的品牌忠诚度会下降吗？会转向渠道忠诚吗？](https://www.zhihu.com/question/47972819)
+ > 来，我再交个公粮，哦不，作业。互联网时代，消费者的品牌忠诚度会下降吗？答：不一定。关于这个问题的一个基本事实是，在原有的线下品牌中，按照每个品牌原有market share的大小，能够画出一条红线。对这条红线以上...
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
  > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
  ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
@@ -64,8 +66,6 @@ categories: IT NEWS
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [虎扑怎么样？](https://www.zhihu.com/question/22874063)
  > 越来越垃圾了。詹姆斯已经变成了政治正确，在虎扑只能吹，别说黑了，说事实都要给你封禁。干脆改成詹扑算了。版主权力太大，动不动就封禁。几个傻逼网友，当了版主以为自己上天了，在一些人少的版区还好些，在一些大...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
  > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
  ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
@@ -103,71 +103,67 @@ categories: IT NEWS
  > 5G、AI和物联网如何实现“智能互联”
  ## [自己动手撸一个分布式IM(即时通讯) 系统](http://network.51cto.com/art/201903/593676.htm)
  > 自己动手撸一个分布式IM(即时通讯) 系统
- ## [扎心！Boss 直聘：AI 薪酬飙升，Java 狂降？80% 程序员已哭晕！](https://blog.csdn.net/CSDNedu/article/details/88687451)
- > 扎心！Boss 直聘：AI 薪酬飙升，Java 狂降？80% 程序员已哭晕！
- ## [大智能时代，云计算、大数据领域概念的理解](https://blog.csdn.net/duozhishidai/article/details/88217369)
- > 大智能时代，云计算、大数据领域概念的理解
- ## [VS2015+Qt5+OpenCV3开发环境配置](https://blog.csdn.net/zhhp1001/article/details/79004559)
- > VS2015+Qt5+OpenCV3开发环境配置
- ## [创造属于自己的双11指挥大屏！](https://blog.csdn.net/weixin_40871246/article/details/88593701)
- > 创造属于自己的双11指挥大屏！
- ## [Cocos2d-x 每一帧执行事件之 scheduleUpdate()与Update()以及](https://blog.csdn.net/xgw001000/article/details/54964283)
- > Cocos2d-x 每一帧执行事件之 scheduleUpdate()与Update()以及
- ## [android bluetooth蓝牙移植](https://blog.csdn.net/zhengmeifu/article/details/7705172)
- > android bluetooth蓝牙移植
- ## [华为网络技术学习打卡8（云计算&大数据）](https://blog.csdn.net/qq_39789226/article/details/87910356)
- > 华为网络技术学习打卡8（云计算&amp;大数据）
- ## [FFMpeg音视频操作命令](https://blog.csdn.net/wangjiang_qianmo/article/details/88431476)
- > FFMpeg音视频操作命令
- ## [JavaScript之内存溢出和内存泄漏](https://blog.csdn.net/wade3po/article/details/88565839)
- > JavaScript之内存溢出和内存泄漏
- ## [前端图片处理](https://blog.csdn.net/qq_20343517/article/details/87919374)
- > 前端图片处理
- ## [FFmpeg 示例音视频封装-muxing](https://blog.csdn.net/weixin_34245749/article/details/88229723)
- > FFmpeg 示例音视频封装-muxing
+ ## [Unity TransformPoint、InverseTransformPoint、TransformDirection](https://blog.csdn.net/chy555chy/article/details/79556346)
+ > Unity TransformPoint、InverseTransformPoint、TransformDirection
+ ## [音视频技术开发周刊 89期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/88414983)
+ > 音视频技术开发周刊 89期
+ ## [0. SDL游戏开发](https://blog.csdn.net/creambean/article/details/88563374)
+ > 0. SDL游戏开发
+ ## [强连通分量及缩点tarjan算法解析](https://blog.csdn.net/qq574857122/article/details/16361033)
+ > 强连通分量及缩点tarjan算法解析
+ ## [游戏开发之——对话系统（CocosCreator）](https://blog.csdn.net/Continue__/article/details/88247919)
+ > 游戏开发之——对话系统（CocosCreator）
+ ## [音视频之opengl渲染图片](https://blog.csdn.net/u010339039/article/details/88595059)
+ > 音视频之opengl渲染图片
+ ## [【融云分析】从过剩存储资源到分布式时序数据库的长存储](https://blog.csdn.net/yangtongchao187/article/details/88576139)
+ > 【融云分析】从过剩存储资源到分布式时序数据库的长存储
+ ## [数据库的索引和试图](https://blog.csdn.net/weixin_44303465/article/details/88651475)
+ > 数据库的索引和试图
+ ## [数据库学习笔记（一）数据库的基本概念](https://blog.csdn.net/weixin_41637618/article/details/88395014)
+ > 数据库学习笔记（一）数据库的基本概念
+ ## [史上最好的LDA(线性判别分析)教程](https://blog.csdn.net/jnulzl/article/details/49894041)
+ > 史上最好的LDA(线性判别分析)教程
+ ## [jquery/js实现一个网页同时调用多个倒计时(最新的)](https://blog.csdn.net/wuchengzeng/article/details/50037611)
+ > jquery/js实现一个网页同时调用多个倒计时(最新的)
+ ## [音视频入门/音视频基础](https://blog.csdn.net/u013862108/article/details/87866471)
+ > 音视频入门/音视频基础
+ ## [Xcode与C++之游戏开发: 游戏对象](https://blog.csdn.net/guyu2019/article/details/88268502)
+ > Xcode与C++之游戏开发: 游戏对象
  ## [android repo/git server 建立过程(2)](https://blog.csdn.net/tjd0227/article/details/5640480)
  > android repo/git server 建立过程(2)
- ## [国内云计算市场的纷争](https://blog.csdn.net/yunfuwu/article/details/88396777)
- > 国内云计算市场的纷争
- ## [前端面试查漏补缺--(八) 前端加密](https://blog.csdn.net/cpongo2/article/details/87940100)
- > 前端面试查漏补缺--(八) 前端加密
- ## [人脸检测工具face_recognition的安装与应用](https://blog.csdn.net/roguesir/article/details/77104246)
- > 人脸检测工具face_recognition的安装与应用
- ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
- > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
- ## [“不做信奥比赛，不做等级考试”的童心制物，是如何在 STEAM 教育突出重围？](https://blog.csdn.net/csdnnews/article/details/88750700)
- > 北京时间 3月19日，专注于STEAM教育的教育解决方案商的童心制物(Makeblock)在北京举行2019春季媒体沟通会。会上，童心制物的创始人兼CEO王建军先是阐述了自己对STEAM教育的理解，基于该理念发布了三款用于课堂教学及家庭教育场景的产品：光环板、灵跃模组机器人和激光宝盒。最后王建...
+ ## [Android 抽奖转盘的实现](https://blog.csdn.net/YanghuiNipurean/article/details/52251107)
+ > Android 抽奖转盘的实现
 # 人工智能 
- ## [三维图形数据格式 STL的 读取](https://blog.csdn.net/viewcode/article/details/8435620)
- > 三维图形数据格式 STL的 读取
- ## [常用编程语言及简介](https://blog.csdn.net/weixin_44465729/article/details/88652131)
- > 常用编程语言及简介
- ## [人工智能 —— 语义网络表示法](https://blog.csdn.net/starter_____/article/details/88645086)
- > 人工智能 —— 语义网络表示法
  ## [人脸检测工具face_recognition的安装与应用](https://blog.csdn.net/roguesir/article/details/77104246)
  > 人脸检测工具face_recognition的安装与应用
- ## [thymeleaf模板实现html5标签的非严格检查](https://blog.csdn.net/Luck_ZZ/article/details/79361497)
- > thymeleaf模板实现html5标签的非严格检查
- ## [人工智能（AI）](https://blog.csdn.net/hqs2212586/article/details/87910385)
- > 人工智能（AI）
- ## [人工智能数学基础](https://blog.csdn.net/fuge92/article/details/87917317)
- > 人工智能数学基础
- ## [人工智能的“圣经”](https://blog.csdn.net/valada/article/details/88396476)
- > 人工智能的“圣经”
- ## [编程语言C/C++（二）](https://blog.csdn.net/weixin_38337616/article/details/88294605)
- > 编程语言C/C++（二）
- ## [区块链小白入门016——区块链分叉是什么？](https://blog.csdn.net/weixin_34025051/article/details/88284049)
- > 区块链小白入门016——区块链分叉是什么？
- ## [模式分类中的特征融合方法](https://blog.csdn.net/wuye999/article/details/79152049)
- > 模式分类中的特征融合方法
- ## [人工智能　Python基础（一）](https://blog.csdn.net/wcc_542106496/article/details/88134792)
- > 人工智能　Python基础（一）
- ## [微信支付V3微信公众号支付PHP教程(thinkPHP5公众号支付)/JSSDK的使用](https://blog.csdn.net/hayixia606/article/details/79237220)
- > 微信支付V3微信公众号支付PHP教程(thinkPHP5公众号支付)/JSSDK的使用
- ## [编程语言我也有话要说](https://blog.csdn.net/u011078141/article/details/87882018)
- > 编程语言我也有话要说
- ## [DirectX修复工具增强版](https://blog.csdn.net/VBcom/article/details/7245186)
- > DirectX修复工具增强版
+ ## [音视频学习笔记----4，音视频编码基础学习之-webrtc基础到架构(音频处理)](https://blog.csdn.net/xiaomucgwlmx/article/details/88552090)
+ > 音视频学习笔记----4，音视频编码基础学习之-webrtc基础到架构(音频处理)
+ ## [音视频入门/音视频基础](https://blog.csdn.net/u013862108/article/details/87866471)
+ > 音视频入门/音视频基础
+ ## [可视化编程的一些资料](https://blog.csdn.net/dizuo/article/details/5784276)
+ > 可视化编程的一些资料
+ ## [音视频之渲染yuv图片](https://blog.csdn.net/u010339039/article/details/88628687)
+ > 音视频之渲染yuv图片
+ ## [树莓派与Arduino的区别](https://blog.csdn.net/weixin_43954533/article/details/88046344)
+ > 树莓派与Arduino的区别
+ ## [音视频技术开发周刊 88期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/88266136)
+ > 音视频技术开发周刊 88期
+ ## [《Qt 实战一二三》](https://blog.csdn.net/u011012932/article/details/50277095)
+ > 《Qt 实战一二三》
+ ## [抖音视频怎么去水印](https://blog.csdn.net/kakaxiss/article/details/88245283)
+ > 抖音视频怎么去水印
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
+ ## [iOS开发—音视频入门学习必看](https://blog.csdn.net/qq_42792413/article/details/88321110)
+ > iOS开发—音视频入门学习必看
+ ## [\[CTF\]利用CRC32绕过RAR密码（适合于小文本文件）](https://blog.csdn.net/kajweb/article/details/76474376)
+ > \[CTF\]利用CRC32绕过RAR密码（适合于小文本文件）
+ ## [简单、便捷、节能是物联网应用普及的基本要求，物联网的发展趋势是不断完善](https://blog.csdn.net/duozhishidai/article/details/88662592)
+ > 简单、便捷、节能是物联网应用普及的基本要求，物联网的发展趋势是不断完善
+ ## [android repo/git server 建立过程(2)](https://blog.csdn.net/tjd0227/article/details/5640480)
+ > android repo/git server 建立过程(2)
+ ## [\[总结\]FFMPEG命令行工具之ffmpeg详解](https://blog.csdn.net/ice_ly000/article/details/88032056)
+ > \[总结\]FFMPEG命令行工具之ffmpeg详解
 # PM 
  ## [产品人想要出人头地怎么做？](http://www.pmtoo.com/article/68977.html)
  > 身在职场，需要有能够自我沉淀的能力，让自己能够随着时间推移慢慢成长起来，别让增长的只有年龄。本人从2017开始从...
