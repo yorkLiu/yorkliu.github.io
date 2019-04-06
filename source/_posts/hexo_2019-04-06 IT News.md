@@ -1,13 +1,15 @@
 ---
 title: 2019-04-06 IT News
 copyright: true
-date: 2019-04-06 10:01:48
+date: 2019-04-06 12:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
  ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
  > 她吐不吐的，我不知道。但是我却可以确定。她的素质超级低！太能装。本来我也是挺喜欢她的视频的。但是最近看了几个视频。一下子把我对她的印象推翻了。第一个就是。12月29号的视频。去挑战吃超大碗拉面赢888奖金。她...
+ ## [如何评价经纬张颖的那句「跟中国的创始人厮杀，你们会被杀得片甲不留」？](https://www.zhihu.com/question/317831774)
+ > 一只刚长出獠牙没多久的小狼，对一只刚收起獠牙没多久的老狼说：“跟我厮杀，你会被杀得片甲不留”有句话叫“光脚的不怕穿鞋的”但也有句话叫“关公面前耍大刀”
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [转行互联网运营工作，该从那个运营岗位开始比较好？](https://www.zhihu.com/question/278470930)
@@ -26,26 +28,24 @@ categories: IT NEWS
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [如何评价知乎的米粉？](https://www.zhihu.com/question/47719849)
  > 说实话一开始对小米手机还是很喜欢的，高考完了本来打算买米五的，而且渴求了很久，最后因为种种原因。。。买了荣耀千元机，即使是大一的时候我依然觉得小米是一家很良心的企业，不过后来越来越佩服华为的精神和任老...
- ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
- > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
  > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
  ## [怎样成为牛逼哄哄的前端工程师？](https://www.zhihu.com/question/38854428)
  > 牛逼哄哄，这个词戾气有点重，显得有些浮躁。不妨换成“怎样成为一名优秀的前端工程师”，这样更妥帖一点。优秀这词儿，其实也太过笼统。殊不知，前端工程师分为入门级、初级、中级、高级、资深，乃至专家。你可以先...
+ ## [为什么996工作制只提互联网公司，其他行业没有吗？](https://www.zhihu.com/question/318332330)
+ > 搞笑，互联网不提，没有一个行业发声；现在互联网从业人员提了就开始不平衡，当资本的奴隶当久了就不愿意看到同伴站起来吗？？？
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
+ ## [最近流行的「我倒，你也网上冲浪啊」到底是什么梗？](https://www.zhihu.com/question/63563293)
+ > 就是你二十年后听到老铁双击666的感觉。
  ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
  > 浪潮之巅
- ## [如何看待国内最近频发的火灾与爆炸事故？](https://www.zhihu.com/question/318695936)
- > 一句话可以解释：天象如此！未能及时观察天象，做到未雨绸缪但多了几个失去孩子的可怜父母“天时、地利、人和”这句话，现代人只能理解字面意思，忽略了其实质内涵这句话是在明白“易理”、懂得“道”的基础上进行的...
- ## [为什么996工作制只提互联网公司，其他行业没有吗？](https://www.zhihu.com/question/318332330)
- > 没有任何一个行业，可以像互联网行业一样集体式发声，可以造这么大声浪。再说互联网行业本身在互联网，难道不是一种主场吗？同时，包括互联网其他职位，也没办法和程序员这个群体比，他们是对加班最有共鸣的群体，而...
- ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
- > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
- ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
- > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
+ ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
+ > 跳入话题 非法医 普通交警一名 以前在事故科 经常会出各种现场 车辆剐蹭阿之类的都是家常饭 最怕的就是人命现场 我的天 各种活蹦乱跳的人在一瞬间变成一滩烂肉 见过齐腰轧断的人 各种黄白之物 见过脑袋被车夹爆的 印...
 # IT 技术 
  ## [一个可供小团队参考的微服务落地实践](http://developer.51cto.com/art/201904/594513.htm)
  > 一个可供小团队参考的微服务落地实践
@@ -63,72 +63,74 @@ categories: IT NEWS
  > 从A到Z，人工智能改变世界的26个关键词
  ## [一文快速搞懂MySQL InnoDB事务ACID实现原理](http://database.51cto.com/art/201904/594446.htm)
  > 一文快速搞懂MySQL InnoDB事务ACID实现原理
- ## [启航 —— 记：一名Java程序员的自考本科之路](https://blog.csdn.net/Alexshi5/article/details/79859838)
- > 启航 —— 记：一名Java程序员的自考本科之路
- ## [13.开发运维的陷阱](https://blog.csdn.net/zhangzhaoyuan30/article/details/88887910)
- > 13.开发运维的陷阱
- ## [开通了CSDN年卡VIP，真的是知识付费，希望我从现在起到一年以后，我能学有所成，对的起自己的年卡](https://blog.csdn.net/qq_43547093/article/details/88300975)
- > 开通了CSDN年卡VIP，真的是知识付费，希望我从现在起到一年以后，我能学有所成，对的起自己的年卡
- ## [Linux 运维之路001](https://blog.csdn.net/qq_39760343/article/details/88372202)
- > Linux 运维之路001
- ## [AI在运维中的应用](https://blog.csdn.net/fudaliang1999/article/details/88862330)
- > AI在运维中的应用
- ## [程序员35岁是一道坎，你选择鱼跃龙门or折戟沉沙？](https://blog.csdn.net/weixin_43902172/article/details/88807848)
- > 程序员35岁是一道坎，你选择鱼跃龙门or折戟沉沙？
- ## [Nginx服务反向代理架构](https://blog.csdn.net/qq_37684859/article/details/88764022)
- > Nginx服务反向代理架构
- ## [【程序人生】程序员真会玩，工作996，生病ICU](https://blog.csdn.net/woniu211111/article/details/88864992)
- > 【程序人生】程序员真会玩，工作996，生病ICU
- ## [Sers微服务架构 初探](https://blog.csdn.net/sersms/article/details/88283778)
- > Sers微服务架构 初探
- ## [扎心的运维告警](https://blog.csdn.net/ifusionskye/article/details/88873789)
- > 扎心的运维告警
- ## [运维学习-Centos安装](https://blog.csdn.net/qq_38733987/article/details/88889742)
- > 运维学习-Centos安装
- ## [运维入门之git服务器](https://blog.csdn.net/weixin_42867549/article/details/88563928)
- > 运维入门之git服务器
- ## [分布式架构的概述](https://blog.csdn.net/weixin_43746366/article/details/88550060)
- > 分布式架构的概述
- ## [单体架构、SOA、微服务架构](https://blog.csdn.net/chenbetter1996/article/details/88652590)
- > 单体架构、SOA、微服务架构
- ## [大前端完整学习路线（完整版）](https://blog.csdn.net/qq_43627798/article/details/88658429)
- > 大前端完整学习路线（完整版）
+ ## [10年程序员被裁员后的真实生活，痛心：没有这样放松过！](https://blog.csdn.net/qun784783012/article/details/88313061)
+ > 10年程序员被裁员后的真实生活，痛心：没有这样放松过！
+ ## [程序员被狂虐的17种姿势，简直不要太过分！](https://blog.csdn.net/qun784783012/article/details/88694544)
+ > 程序员被狂虐的17种姿势，简直不要太过分！
+ ## [【软件工程】第六章 面向对象方法](https://blog.csdn.net/qq_39582960/article/details/88597279)
+ > 【软件工程】第六章 面向对象方法
+ ## [亚马逊有关UL588认证的资讯](https://blog.csdn.net/LCS_15271284547/article/details/88871806)
+ > 亚马逊有关UL588认证的资讯
+ ## [iOS-音视频小结](https://blog.csdn.net/samuelandkevin/article/details/88946046)
+ > iOS-音视频小结
+ ## [Haproxy原理与配置讲解](https://blog.csdn.net/yaya_12345678/article/details/88790235)
+ > Haproxy原理与配置讲解
+ ## [FFMpeg音视频操作命令](https://blog.csdn.net/wangjiang_qianmo/article/details/88431476)
+ > FFMpeg音视频操作命令
+ ## [MySQL数据库安装教程](https://blog.csdn.net/qq_36968596/article/details/88717025)
+ > MySQL数据库安装教程
+ ## [菜鸟（python 测验-函数）（￥35）](https://blog.csdn.net/weixin_43721133/article/details/88762857)
+ > 菜鸟（python 测验-函数）（￥35）
+ ## [趣头条抖音视频消重软件](https://blog.csdn.net/qq_38433383/article/details/88638392)
+ > 趣头条抖音视频消重软件
+ ## [唯一一种能走路的：“黑科技”。，曝诈网](https://blog.csdn.net/weixin_44583479/article/details/88640799)
+ > 唯一一种能走路的：“黑科技”。，曝诈网
+ ## [音视频之ffmpeg时间基](https://blog.csdn.net/u010339039/article/details/88814751)
+ > 音视频之ffmpeg时间基
+ ## [小菜鸡的html初步教程（六--十章）](https://blog.csdn.net/qq_41319331/article/details/88621113)
+ > 小菜鸡的html初步教程（六--十章）
+ ## [python基础梳理（一）](https://blog.csdn.net/KingOfMyHeart/article/details/88641695)
+ > python基础梳理（一）
+ ## [EOS私钥的重要性以及如何管理它](https://blog.csdn.net/weixin_44172023/article/details/88786385)
+ > EOS私钥的重要性以及如何管理它
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [iSPRINT：Google 最高能的创新加速课程，产品一次就成的助推器！](https://blog.csdn.net/csdnnews/article/details/89049041)
  > 创新冲刺最初起源于谷歌，它几乎被用于谷歌的任何项目：从搜索引擎到电子邮箱，再到无人驾驶汽车。传入谷歌风投之后，这套方法已经帮助100余家初创公司成功起步，它们中的许多公司，如今已是人尽皆知的业界标杆。为了让中国的创业者们少走弯路，Google Sprint Master李卓桓和iSPRINT创始..
 # 人工智能 
- ## [【融云分析】从过剩存储资源到分布式时序数据库的长存储](https://blog.csdn.net/yangtongchao187/article/details/88576139)
- > 【融云分析】从过剩存储资源到分布式时序数据库的长存储
- ## [音视频之解码相关](https://blog.csdn.net/u010339039/article/details/88797731)
- > 音视频之解码相关
- ## [关于最新Android Studio无法连接Genymotion的问题(有别于任何同类型问题！！！！)](https://blog.csdn.net/qq_41177135/article/details/88817274)
- > 关于最新Android Studio无法连接Genymotion的问题(有别于任何同类型问题！！！！)
- ## [音视频之渲染yuv图片](https://blog.csdn.net/u010339039/article/details/88628687)
- > 音视频之渲染yuv图片
- ## [MyFFmpeg-我的音视频练习app](https://blog.csdn.net/u010339039/article/details/88719382)
- > MyFFmpeg-我的音视频练习app
- ## [数据库学习(一)：数据库系统概述](https://blog.csdn.net/wangqianqianya/article/details/88791682)
- > 数据库学习(一)：数据库系统概述
- ## [教你如何下载无水印抖音视频](https://blog.csdn.net/anhmzj/article/details/88717364)
- > 教你如何下载无水印抖音视频
- ## [vlc(window)分离mp4文件中的音视频](https://blog.csdn.net/u012459903/article/details/88951498)
- > vlc(window)分离mp4文件中的音视频
- ## [关于mysql中一些方法语句的分享](https://blog.csdn.net/weixin_44303465/article/details/88560094)
- > 关于mysql中一些方法语句的分享
- ## [Flutter实现网络请求](https://blog.csdn.net/u010221508/article/details/88834127)
- > Flutter实现网络请求
+ ## [如何用Leangoo看板+脑图高效创新](https://blog.csdn.net/leangoo/article/details/88865226)
+ > 如何用Leangoo看板+脑图高效创新
+ ## [day02：云计算解决方案学习笔记](https://blog.csdn.net/weixin_37411471/article/details/88956250)
+ > day02：云计算解决方案学习笔记
+ ## [MYSQL学习之路——数据处理之查询](https://blog.csdn.net/CSDN_XUWENHAO/article/details/88616508)
+ > MYSQL学习之路——数据处理之查询
+ ## [数据库知识个人总结](https://blog.csdn.net/zyf2695421695/article/details/88659521)
+ > 数据库知识个人总结
+ ## [国内云计算市场的纷争](https://blog.csdn.net/yunfuwu/article/details/88396777)
+ > 国内云计算市场的纷争
+ ## [数据中心资源向AWS迁移的四大挑战](https://blog.csdn.net/weixin_44233163/article/details/88317866)
+ > 数据中心资源向AWS迁移的四大挑战
+ ## [数据库复习—数据库简介](https://blog.csdn.net/qq_37590544/article/details/88074427)
+ > 数据库复习—数据库简介
+ ## [云计算、机器学习、深度学习、人工智能和大数据，主要有什么关系？](https://blog.csdn.net/zhinengxuexi/article/details/88717769)
+ > 云计算、机器学习、深度学习、人工智能和大数据，主要有什么关系？
  ## [数据库学习笔记（一）数据库的基本概念](https://blog.csdn.net/weixin_41637618/article/details/88395014)
  > 数据库学习笔记（一）数据库的基本概念
  ## [第七章 数据库及数据库对象](https://blog.csdn.net/qq_41785581/article/details/88894327)
  > 第七章 数据库及数据库对象
- ## [音视频之opengl绘制三角形](https://blog.csdn.net/u010339039/article/details/88563167)
- > 音视频之opengl绘制三角形
- ## [MYSQL学习之路——数据处理之查询](https://blog.csdn.net/CSDN_XUWENHAO/article/details/88616508)
- > MYSQL学习之路——数据处理之查询
- ## [移动开发的罗曼蒂克消亡史？不存在的。](https://blog.csdn.net/lanxian837820149/article/details/88992114)
- > 移动开发的罗曼蒂克消亡史？不存在的。
+ ## [主数据的前世、今生，未来预见！](https://blog.csdn.net/kuangfeng88588/article/details/88775780)
+ > 主数据的前世、今生，未来预见！
+ ## [用Leangoo泳道完美实现Scrum任务看板](https://blog.csdn.net/leangoo/article/details/88408936)
+ > 用Leangoo泳道完美实现Scrum任务看板
+ ## [【19】数据库范式、E-R图](https://blog.csdn.net/Spectre_win/article/details/88571922)
+ > 【19】数据库范式、E-R图
+ ## [CODING 如何使用 CODING 研发管理系统来敏捷开发](https://blog.csdn.net/CODING_devops/article/details/88819597)
+ > CODING 如何使用 CODING 研发管理系统来敏捷开发
+ ## [mysql 存储引擎简介     --小丑](https://blog.csdn.net/weixin_44535476/article/details/88835501)
+ > mysql 存储引擎简介     --小丑
 # PM 
+ ## [干货 | 营销人必备的数据分析思维](http://www.woshipm.com/marketing/2175818.html)
+ > 数据分析思维可以有效地帮助我们优化账户，同时也能提高我们的工作效率。在这个互联网时代，我们把大部分的营销场景都设置在了互联网上。在互联网上做营销，我们需要...
  ## [为什么说作为CEO，你一定要警惕“拜产品教”？](http://www.woshipm.com/zhichang/2174920.html)
  > 每个好的 CEO 都应该是好的产品经理；但是每个好的产品经理，都不一定是好的 CEO每个好的 CEO 都应该是好的产品经理，但是后面的话更重要——每个好的产品经理，都不一...
  ## [40家互联网公司陷“996”工作制风波](http://www.pmtoo.com/article/70465.html)
