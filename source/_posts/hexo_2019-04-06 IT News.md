@@ -1,7 +1,7 @@
 ---
 title: 2019-04-06 IT News
 copyright: true
-date: 2019-04-06 09:01:49
+date: 2019-04-06 10:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,38 +14,38 @@ categories: IT NEWS
  > 谢邀。暖石就不要出来挨打了好吗，我来知乎也是知道您这个机构才来的，学完了一堆没用的理论让人干销售的？是在搞笑吗……简单的分类说几点吧一 运营的分类二 运营的工作三 互联网公司运营的流程四 从事运营工作你要...
  ## [好的娱乐圈文？](https://www.zhihu.com/question/38049823)
  > 1.《男主总是在装逼》自从来了个帅炸天的顾教授，H大考试通过率最低的物理课选修人数激增，堂堂爆满。顾教授每次下课都被女同学堵住请教问题，根本走不动道。直到有一天，临下课时，顾教授点了后排一个女生，让她来...
- ## [dish hd和麦格iptv哪个更适合家庭？](https://www.zhihu.com/question/21552714)
- > 要说这个或者我比较有经验回答。应该说麦格电视和dishhd是目前看外面世界的主流产品，其中dishhd是卫星电视的代表，这二年比较火爆，网上尤其以楼主所留地址中的那个高清时代论坛为主要论坛代表。麦格电视是近日年的...
- ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
- > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [好的娱乐圈文？](https://www.zhihu.com/question/38049823)
  > 1.《男主总是在装逼》自从来了个帅炸天的顾教授，H大考试通过率最低的物理课选修人数激增，堂堂爆满。顾教授每次下课都被女同学堵住请教问题，根本走不动道。直到有一天，临下课时，顾教授点了后排一个女生，让她来...
- ## [如何看待翟欣欣 5.21 日发长文透露苏享茂患乙肝病史，并称其对自己施暴？](https://www.zhihu.com/question/278156775)
- > 翟欣欣就是一个拆白党，通过不断的和人傻钱多的男人结婚来获得对方的巨额财产，再迅速离婚变现。翟欣欣至少结过五次婚，她都从中获益不菲。翟欣欣没有正式工作，她去做模特之类的兼职也是为了寻找猎物，而不是根本不...
- ## [你写论文时发现了哪些神网站？](https://www.zhihu.com/question/35931336)
- > 忙里偷闲，利用外出旅途时光分享几个公式编辑工具。无论你用LaTeX还是MS Word编排论文，公式的编辑总是一大痛点。或许你使用LaTeX编辑公式，每次都需要编译方能检查公式的正确性；也许你使用MS Word+Ma...
- ## [如何理解马化腾说「黑公关近两个月突然爆发，是时候挖根源了」？](https://www.zhihu.com/question/281753006)
- > 让咱们先来了解一下马化腾所说的“黑公关”：“黑公关”实际上是网络营销公关公司的一种，这种公司，本着“拿人钱财替人消灾”的理念，在网站和当事企业、个人之间充当着“掮客”角色。而隐藏在其后的，则是一条由推...
- ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
- > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
- ## [如何评价马云？](https://www.zhihu.com/question/20333333)
- > 说个本人亲身经历的马云，绝对真实：2008年马云出席博鳌亚洲论坛，本人作为路人，旁听了他参加的一个session。session结束以后，马云就被听众团团围住求合影。当时马总身边既没保镖也没助理（不知道现在有没有），对...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 人很容易死。
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [如何评价知乎的米粉？](https://www.zhihu.com/question/47719849)
  > 说实话一开始对小米手机还是很喜欢的，高考完了本来打算买米五的，而且渴求了很久，最后因为种种原因。。。买了荣耀千元机，即使是大一的时候我依然觉得小米是一家很良心的企业，不过后来越来越佩服华为的精神和任老...
- ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
- > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
+ ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
+ > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
+ ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
+ > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
+ ## [怎样成为牛逼哄哄的前端工程师？](https://www.zhihu.com/question/38854428)
+ > 牛逼哄哄，这个词戾气有点重，显得有些浮躁。不妨换成“怎样成为一名优秀的前端工程师”，这样更妥帖一点。优秀这词儿，其实也太过笼统。殊不知，前端工程师分为入门级、初级、中级、高级、资深，乃至专家。你可以先...
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
+ ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
+ > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
+ > 浪潮之巅
+ ## [如何看待国内最近频发的火灾与爆炸事故？](https://www.zhihu.com/question/318695936)
+ > 一句话可以解释：天象如此！未能及时观察天象，做到未雨绸缪但多了几个失去孩子的可怜父母“天时、地利、人和”这句话，现代人只能理解字面意思，忽略了其实质内涵这句话是在明白“易理”、懂得“道”的基础上进行的...
+ ## [为什么996工作制只提互联网公司，其他行业没有吗？](https://www.zhihu.com/question/318332330)
+ > 没有任何一个行业，可以像互联网行业一样集体式发声，可以造这么大声浪。再说互联网行业本身在互联网，难道不是一种主场吗？同时，包括互联网其他职位，也没办法和程序员这个群体比，他们是对加班最有共鸣的群体，而...
+ ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
+ > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
 # IT 技术 
  ## [一个可供小团队参考的微服务落地实践](http://developer.51cto.com/art/201904/594513.htm)
  > 一个可供小团队参考的微服务落地实践
@@ -63,72 +63,74 @@ categories: IT NEWS
  > 从A到Z，人工智能改变世界的26个关键词
  ## [一文快速搞懂MySQL InnoDB事务ACID实现原理](http://database.51cto.com/art/201904/594446.htm)
  > 一文快速搞懂MySQL InnoDB事务ACID实现原理
- ## [EOS私钥的重要性以及如何管理它](https://blog.csdn.net/weixin_44172023/article/details/88786385)
- > EOS私钥的重要性以及如何管理它
- ## [开发规范-安全规约](https://blog.csdn.net/maoer95209520/article/details/88671367)
- > 开发规范-安全规约
- ## [说说浏览器的沙箱机制](https://blog.csdn.net/deniro_li/article/details/88767604)
- > 说说浏览器的沙箱机制
- ## [sshd及其安全应用](https://blog.csdn.net/baidu_39076057/article/details/88953137)
- > sshd及其安全应用
- ## [游戏开发面试题](https://blog.csdn.net/weixin_42347861/article/details/88806193)
- > 游戏开发面试题
- ## [网页游戏开发概念](https://blog.csdn.net/qq_28931121/article/details/88950530)
- > 网页游戏开发概念
- ## [游戏开发中的复杂度与银弹](https://blog.csdn.net/ccanan/article/details/88774873)
- > 游戏开发中的复杂度与银弹
- ## [SQL注入--安全（二）](https://blog.csdn.net/qq_43371350/article/details/88607787)
- > SQL注入--安全（二）
- ## [约局模式棋牌游戏开发成2019风向标 力图精细化可持续发展](https://blog.csdn.net/motianyoukeji/article/details/88891988)
- > 约局模式棋牌游戏开发成2019风向标 力图精细化可持续发展
- ## [每周资讯1Min快速浏览](https://blog.csdn.net/lizhidefengzi/article/details/88758649)
- > 每周资讯1Min快速浏览
- ## [Xcode与C++之游戏开发: 游戏对象](https://blog.csdn.net/guyu2019/article/details/88268502)
- > Xcode与C++之游戏开发: 游戏对象
- ## [程序员的电脑是怎样的？网友：没图标的桌面](https://blog.csdn.net/qun784783012/article/details/88672871)
- > 程序员的电脑是怎样的？网友：没图标的桌面
- ## [10年程序员被裁员后的真实生活，痛心：没有这样放松过！](https://blog.csdn.net/qun784783012/article/details/88313061)
- > 10年程序员被裁员后的真实生活，痛心：没有这样放松过！
- ## [unity3d制作背包系统(2)--存储部分](https://blog.csdn.net/ardepomy/article/details/88190099)
- > unity3d制作背包系统(2)--存储部分
- ## [说说浏览器的恶意网址拦截机制](https://blog.csdn.net/deniro_li/article/details/88773761)
- > 说说浏览器的恶意网址拦截机制
+ ## [启航 —— 记：一名Java程序员的自考本科之路](https://blog.csdn.net/Alexshi5/article/details/79859838)
+ > 启航 —— 记：一名Java程序员的自考本科之路
+ ## [13.开发运维的陷阱](https://blog.csdn.net/zhangzhaoyuan30/article/details/88887910)
+ > 13.开发运维的陷阱
+ ## [开通了CSDN年卡VIP，真的是知识付费，希望我从现在起到一年以后，我能学有所成，对的起自己的年卡](https://blog.csdn.net/qq_43547093/article/details/88300975)
+ > 开通了CSDN年卡VIP，真的是知识付费，希望我从现在起到一年以后，我能学有所成，对的起自己的年卡
+ ## [Linux 运维之路001](https://blog.csdn.net/qq_39760343/article/details/88372202)
+ > Linux 运维之路001
+ ## [AI在运维中的应用](https://blog.csdn.net/fudaliang1999/article/details/88862330)
+ > AI在运维中的应用
+ ## [程序员35岁是一道坎，你选择鱼跃龙门or折戟沉沙？](https://blog.csdn.net/weixin_43902172/article/details/88807848)
+ > 程序员35岁是一道坎，你选择鱼跃龙门or折戟沉沙？
+ ## [Nginx服务反向代理架构](https://blog.csdn.net/qq_37684859/article/details/88764022)
+ > Nginx服务反向代理架构
+ ## [【程序人生】程序员真会玩，工作996，生病ICU](https://blog.csdn.net/woniu211111/article/details/88864992)
+ > 【程序人生】程序员真会玩，工作996，生病ICU
+ ## [Sers微服务架构 初探](https://blog.csdn.net/sersms/article/details/88283778)
+ > Sers微服务架构 初探
+ ## [扎心的运维告警](https://blog.csdn.net/ifusionskye/article/details/88873789)
+ > 扎心的运维告警
+ ## [运维学习-Centos安装](https://blog.csdn.net/qq_38733987/article/details/88889742)
+ > 运维学习-Centos安装
+ ## [运维入门之git服务器](https://blog.csdn.net/weixin_42867549/article/details/88563928)
+ > 运维入门之git服务器
+ ## [分布式架构的概述](https://blog.csdn.net/weixin_43746366/article/details/88550060)
+ > 分布式架构的概述
+ ## [单体架构、SOA、微服务架构](https://blog.csdn.net/chenbetter1996/article/details/88652590)
+ > 单体架构、SOA、微服务架构
+ ## [大前端完整学习路线（完整版）](https://blog.csdn.net/qq_43627798/article/details/88658429)
+ > 大前端完整学习路线（完整版）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [iSPRINT：Google 最高能的创新加速课程，产品一次就成的助推器！](https://blog.csdn.net/csdnnews/article/details/89049041)
  > 创新冲刺最初起源于谷歌，它几乎被用于谷歌的任何项目：从搜索引擎到电子邮箱，再到无人驾驶汽车。传入谷歌风投之后，这套方法已经帮助100余家初创公司成功起步，它们中的许多公司，如今已是人尽皆知的业界标杆。为了让中国的创业者们少走弯路，Google Sprint Master李卓桓和iSPRINT创始..
 # 人工智能 
- ## [趣头条抖音视频消重软件](https://blog.csdn.net/qq_38433383/article/details/88638392)
- > 趣头条抖音视频消重软件
- ## [常用编程语言](https://blog.csdn.net/Woodxin/article/details/88806840)
- > 常用编程语言
- ## [资讯--2019年3月](https://blog.csdn.net/wydbyxr/article/details/88946196)
- > 资讯--2019年3月
- ## [D2 日报 2019年3月7日](https://blog.csdn.net/FairyEver/article/details/88292031)
- > D2 日报 2019年3月7日
- ## [资讯--2019年2月](https://blog.csdn.net/wydbyxr/article/details/88311683)
- > 资讯--2019年2月
- ## [常见编程语言](https://blog.csdn.net/zhiyuan411/article/details/88599844)
- > 常见编程语言
- ## [从编程语言到微指令](https://blog.csdn.net/xie__jin__cheng/article/details/88658122)
- > 从编程语言到微指令
- ## [10年程序员被裁员后的真实生活，痛心：没有这样放松过！](https://blog.csdn.net/qun784783012/article/details/88313061)
- > 10年程序员被裁员后的真实生活，痛心：没有这样放松过！
- ## [简单谈谈编程语言（二）](https://blog.csdn.net/qq_19257541/article/details/88371864)
- > 简单谈谈编程语言（二）
- ## [音视频技术开发周刊 89期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/88414983)
- > 音视频技术开发周刊 89期
- ## [编程语言和javascript](https://blog.csdn.net/weixin_44707104/article/details/88601103)
- > 编程语言和javascript
- ## [50、流式音视频之一（应用层）](https://blog.csdn.net/ao__ao/article/details/88675368)
- > 50、流式音视频之一（应用层）
- ## [音视频之opengl渲染图片](https://blog.csdn.net/u010339039/article/details/88595059)
- > 音视频之opengl渲染图片
- ## [python之编程语言（简介）02](https://blog.csdn.net/qlyw3721/article/details/88629734)
- > python之编程语言（简介）02
- ## [清华斯坦福双学历程序员，十年经验找不到工作，这是在开玩笑嘛？](https://blog.csdn.net/qun784783012/article/details/88557465)
- > 清华斯坦福双学历程序员，十年经验找不到工作，这是在开玩笑嘛？
+ ## [【融云分析】从过剩存储资源到分布式时序数据库的长存储](https://blog.csdn.net/yangtongchao187/article/details/88576139)
+ > 【融云分析】从过剩存储资源到分布式时序数据库的长存储
+ ## [音视频之解码相关](https://blog.csdn.net/u010339039/article/details/88797731)
+ > 音视频之解码相关
+ ## [关于最新Android Studio无法连接Genymotion的问题(有别于任何同类型问题！！！！)](https://blog.csdn.net/qq_41177135/article/details/88817274)
+ > 关于最新Android Studio无法连接Genymotion的问题(有别于任何同类型问题！！！！)
+ ## [音视频之渲染yuv图片](https://blog.csdn.net/u010339039/article/details/88628687)
+ > 音视频之渲染yuv图片
+ ## [MyFFmpeg-我的音视频练习app](https://blog.csdn.net/u010339039/article/details/88719382)
+ > MyFFmpeg-我的音视频练习app
+ ## [数据库学习(一)：数据库系统概述](https://blog.csdn.net/wangqianqianya/article/details/88791682)
+ > 数据库学习(一)：数据库系统概述
+ ## [教你如何下载无水印抖音视频](https://blog.csdn.net/anhmzj/article/details/88717364)
+ > 教你如何下载无水印抖音视频
+ ## [vlc(window)分离mp4文件中的音视频](https://blog.csdn.net/u012459903/article/details/88951498)
+ > vlc(window)分离mp4文件中的音视频
+ ## [关于mysql中一些方法语句的分享](https://blog.csdn.net/weixin_44303465/article/details/88560094)
+ > 关于mysql中一些方法语句的分享
+ ## [Flutter实现网络请求](https://blog.csdn.net/u010221508/article/details/88834127)
+ > Flutter实现网络请求
+ ## [数据库学习笔记（一）数据库的基本概念](https://blog.csdn.net/weixin_41637618/article/details/88395014)
+ > 数据库学习笔记（一）数据库的基本概念
+ ## [第七章 数据库及数据库对象](https://blog.csdn.net/qq_41785581/article/details/88894327)
+ > 第七章 数据库及数据库对象
+ ## [音视频之opengl绘制三角形](https://blog.csdn.net/u010339039/article/details/88563167)
+ > 音视频之opengl绘制三角形
+ ## [MYSQL学习之路——数据处理之查询](https://blog.csdn.net/CSDN_XUWENHAO/article/details/88616508)
+ > MYSQL学习之路——数据处理之查询
+ ## [移动开发的罗曼蒂克消亡史？不存在的。](https://blog.csdn.net/lanxian837820149/article/details/88992114)
+ > 移动开发的罗曼蒂克消亡史？不存在的。
 # PM 
+ ## [为什么说作为CEO，你一定要警惕“拜产品教”？](http://www.woshipm.com/zhichang/2174920.html)
+ > 每个好的 CEO 都应该是好的产品经理；但是每个好的产品经理，都不一定是好的 CEO每个好的 CEO 都应该是好的产品经理，但是后面的话更重要——每个好的产品经理，都不一...
  ## [40家互联网公司陷“996”工作制风波](http://www.pmtoo.com/article/70465.html)
  > 这场围绕着互联网公司“996”工作制的风波来得突然而迅速。此前，搜狗的一名员工在脉脉上称，搜狗公司开始统计每位员工的加...
  ## [深度学习三巨头，如今在忙什么？](http://www.pmtoo.com/article/70457.html)
