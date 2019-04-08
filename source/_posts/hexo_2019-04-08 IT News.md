@@ -1,13 +1,15 @@
 ---
 title: 2019-04-08 IT News
 copyright: true
-date: 2019-04-08 08:01:24
+date: 2019-04-08 09:01:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
  ## [好的娱乐圈文？](https://www.zhihu.com/question/38049823)
  > 1.《男主总是在装逼》自从来了个帅炸天的顾教授，H大考试通过率最低的物理课选修人数激增，堂堂爆满。顾教授每次下课都被女同学堵住请教问题，根本走不动道。直到有一天，临下课时，顾教授点了后排一个女生，让她来...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 这个世道，出名就要博头条。富豪有儿子也一样。怎么样获得头条，就得和不同的女人或男人睡觉，或者在微博上骂人。跟王思聪一样。可是有些人不喜欢出名。毕竟出名了就没有私生活了。就像在前不久去年的陈毅元帅的儿子...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
@@ -28,8 +30,6 @@ categories: IT NEWS
  > 冰恋这个名加上姓可以直接去登记的你们知道吗？？错在冰恋爱好者容易让人误会，但是妹子解释是中二时期取的，她朋友和她还有个cp名呢，我中二时期有个名叫聆听天堂歌，我姨问我是不是想死，这到底什么意思？？？我也...
  ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
  > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
- ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
- > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
  ## [为什么有人说「百度全面降低了中国的互联网体验」？](https://www.zhihu.com/question/29740126)
  > 百度真的是一家非常可怕的公司！！！2016年我在上一家公司负责网站，网站做好了领导让我咨询下百度推广怎么收费，我打电话联系了百度的客户经理——简直是噩梦的开始！！！以后每个月会收到一次他们的电话，开始一两...
  ## [好的娱乐圈文？](https://www.zhihu.com/question/38049823)
@@ -38,15 +38,17 @@ categories: IT NEWS
  > 印象最深的一次，是在大学参加全校篮球联赛的时候。当时我们系的实力较弱，但是以敢打敢拼，防守顽强著称。一路苦战，终于杀到半决赛。对手是全校实力最强的物理系。没办法，男生多，他们随便组一个寝室队，就能跟弱...
  ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
  > 据我所知截至2018年8月（最后一次聊到这个事），只要入职超过3个月的辅警，都是可以查的，而且住宿信息是全国联网的。如果被当事人投诉，100%能查到是谁查的这个信息，处分会很重，辅警直接走人。但目测你这个情况被...
+ ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
+ > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
+ ## [你写论文时发现了哪些神网站？](https://www.zhihu.com/question/35931336)
+ > 忙里偷闲，利用外出旅途时光分享几个公式编辑工具。无论你用LaTeX还是MS Word编排论文，公式的编辑总是一大痛点。或许你使用LaTeX编辑公式，每次都需要编译方能检查公式的正确性；也许你使用MS Word+Ma...
  ## [如何评价大胃王甄能吃？](https://www.zhihu.com/question/58285339)
  > 她吐不吐的，我不知道。但是我却可以确定。她的素质超级低！太能装。本来我也是挺喜欢她的视频的。但是最近看了几个视频。一下子把我对她的印象推翻了。第一个就是。12月29号的视频。去挑战吃超大碗拉面赢888奖金。她...
  ## [有什么高效的学习方法推荐吗？](https://www.zhihu.com/question/307277057)
  > 对于数学，当然是刷呆哥的《每日一题》呀，（文末有干货资料，可下载打印）另外，高效的学习方法对于各科都是通用的，作为数学老师的我先来分析一下巨拉分的数学应该怎么学习，再来推荐一下我高中学习的用过的高效学...
- ## [如何看待欧阳娜娜发了ins和fb还是被群嘲的这件事？](https://www.zhihu.com/question/316942361)
- > 台湾人唯一可信的，我大概观察的，十几年如一日，高呼中国一统，我是中国人，台湾人就是中国人的，只有黄智贤了。他从0几年开始，还经常做客海峡两岸，就支持两岸统一了，可能是在北爱尔兰的经历给她很大影响。但是她...
- ## [如何看待今日头条起诉腾讯并索赔9000w?](https://www.zhihu.com/question/279545283)
- > 上述新闻未经证实，如果事实存在，也只是彼此互怼的公关传播手段，来而不往非礼也：公关角度：赔偿只是形式，商业竞争上，如果对方败诉并道歉才是真正的有效打击。腾讯要求头条赔偿1元在前；头条要求腾讯在后，气势上...
 # IT 技术 
+ ## [如何将Elasticsearch安装到CentOS 7上？](http://os.51cto.com/art/201904/594572.htm)
+ > 如何将Elasticsearch安装到CentOS 7上？
  ## [一个可供小团队参考的微服务落地实践](http://developer.51cto.com/art/201904/594513.htm)
  > 一个可供小团队参考的微服务落地实践
  ## [八大神奇的网络爬取库与工具](http://developer.51cto.com/art/201904/594482.htm)
@@ -61,76 +63,94 @@ categories: IT NEWS
  > 网络 | 一文读懂5G首版标准R15
  ## [从A到Z，人工智能改变世界的26个关键词](http://ai.51cto.com/art/201904/594478.htm)
  > 从A到Z，人工智能改变世界的26个关键词
- ## [一文快速搞懂MySQL InnoDB事务ACID实现原理](http://database.51cto.com/art/201904/594446.htm)
- > 一文快速搞懂MySQL InnoDB事务ACID实现原理
- ## [警方调查人员需要知道物联网的8件事](http://iot.51cto.com/art/201904/594592.htm)
- > 利用物联网帮助警方抓住罪犯这项技术非常复杂，并且还在不断发展。由于很难知道从哪里入手，我总结了8个技
- ## [SSH比SSL更高层，更安全？请看两者4大区别―基于原理和协议](http://network.51cto.com/art/201904/594591.htm)
- > SSH和SSL表面差别很大，但仔细想想，他们功能相似，加密方式相似，这是上天的安排，还是冥冥中的巧合？
- ## [mysql 存储引擎简介     --小丑](https://blog.csdn.net/weixin_44535476/article/details/88835501)
- > mysql 存储引擎简介     --小丑
- ## [物联网卡广告机相比传统的广告机有哪些优势？](https://blog.csdn.net/qq_40798435/article/details/88796504)
- > 物联网卡广告机相比传统的广告机有哪些优势？
- ## [人工智能与数据挖掘](https://blog.csdn.net/X_dmword/article/details/83614746)
- > 人工智能与数据挖掘
- ## [备份数据库、恢复数据库](https://blog.csdn.net/qq_42445333/article/details/89032389)
- > 备份数据库、恢复数据库
- ## [【19】数据库范式、E-R图](https://blog.csdn.net/Spectre_win/article/details/88571922)
- > 【19】数据库范式、E-R图
- ## [物联网组成，主要包含哪些基本要素，物联网市场需求的特征是什么？](https://blog.csdn.net/weixin_43346716/article/details/89028773)
- > 物联网组成，主要包含哪些基本要素，物联网市场需求的特征是什么？
- ## [人工智能(机器学习)学习之路](https://blog.csdn.net/qq_41699376/article/details/88865609)
- > 人工智能(机器学习)学习之路
- ## [【人工智能】我的人工智能之旅——线性回归 研读](https://blog.csdn.net/bandaoyu/article/details/88544823)
- > 【人工智能】我的人工智能之旅——线性回归 研读
- ## [\[人工智能\]五子棋](https://blog.csdn.net/Pecony/article/details/83041370)
- > \[人工智能\]五子棋
- ## [学习笔记之数据库（一）——操作数据库](https://blog.csdn.net/weixin_37938228/article/details/88983097)
- > 学习笔记之数据库（一）——操作数据库
- ## [数据库的相关知识，以及oracle的认识](https://blog.csdn.net/enbaoIT/article/details/88698531)
- > 数据库的相关知识，以及oracle的认识
- ## [神经网络与人工智能](https://blog.csdn.net/qq_41860637/article/details/88781740)
- > 神经网络与人工智能
- ## [5G如何与物联网结合？](https://blog.csdn.net/fadsf15/article/details/88790253)
- > 5G如何与物联网结合？
- ## [OpenCV+TensorFlow 入门人工智能图像处理](https://blog.csdn.net/jinlis351/article/details/88579426)
- > OpenCV+TensorFlow 入门人工智能图像处理
- ## [物联网来临，机器视觉迅猛发展](https://blog.csdn.net/rvsto01/article/details/88977159)
- > 物联网来临，机器视觉迅猛发展
+ ## [Chrome for Windows 10 ARM已经被独立开发人员成功编译出来](http://news.51cto.com/art/201904/594604.htm)
+ > 当微软的浏览器团队把开发力量投入谷歌的Chromium浏览器引擎时，其中一项预期成果就是开发适用于Windows 1
+ ## [物联网的未来](http://iot.51cto.com/art/201904/594605.htm)
+ > 随着连接、存储和计算变得越来越普遍，我们看到物联网解决方案从医疗保健到公共安全的爆炸式增长，而所有这
+ ## [程序员发量越多说明薪资越低？今天你脱发了吗？](http://news.51cto.com/art/201904/594601.htm)
+ > 前几天一个《临秃关怀计划》刷了屏，这引发朋友圈众多程序员们的羡慕嫉妒恨。不过话说回来，难道程序员真的
+ ## [TCP/IP网络模型入门](http://network.51cto.com/art/201904/594603.htm)
+ > TCP/IP模型是互联网的基础，它是一系列网络协议的总称。这些协议可以划分为四层，分别为链路层、网络层、传
+ ## [借助Nginx搭建反向代理服务器](http://server.51cto.com/sOS-594600.htm)
+ > 反向代理(Reverse Proxy)方式是指以代理服务器来接受internet上的连接请求，然后将请求转发给内部网络上的
+ ## [5G大规模商用前夜，私有LTE网络来为物联网应用“打头阵”](http://network.51cto.com/art/201904/594598.htm)
+ > 当前，业界已探索出大量面对5G的应用示范，不过这些示范能够成为商用的现实并不是只剩临门一脚，因为商业模
+ ## [最后的Windows XP，也将在4月9日退役](http://news.51cto.com/art/201904/594597.htm)
+ > 微软已经在2014年4月8日终止了对 Windows XP 的支持服务，我们熟悉的那个 Windows XP 也由此正式宣告退役。
+ ## [4月编程语言排行榜：C++ 重回前三，PHP 呈下降势头](http://developer.51cto.com/art/201904/594596.htm)
+ > TIOBE 公布了2019年4月编程语言排行榜，总体排名变化不大，排名前十的分别是：Java, C, C++, Python, Visua
+ ## [免费数学神器！再复杂的公式，只要有照片就能转成LaTeX](http://news.51cto.com/art/201904/594595.htm)
+ > 这是一个帮你快速把数学公式图片转成 LaTeX 代码的工具，名为Snip，可以免费下载使用。
+ ## [奇思妙想之用JS给图片加口令](http://netsecurity.51cto.com/art/201904/594594.htm)
+ > 本文展示一种用JS给图片加口令的方法，可以将任意图片转化为html，输入正确的口令才能打开查看图片。
+ ## [扎心的运维告警](https://blog.csdn.net/ifusionskye/article/details/88873789)
+ > 扎心的运维告警
+ ## [【前端安全】xss](https://blog.csdn.net/qq_37021554/article/details/88956235)
+ > 【前端安全】xss
+ ## [说说什么是 XSS](https://blog.csdn.net/deniro_li/article/details/89054229)
+ > 说说什么是 XSS
+ ## [阿里云内容安全](https://blog.csdn.net/weixin_44487968/article/details/88889858)
+ > 阿里云内容安全
+ ## [SQL注入--安全（二）](https://blog.csdn.net/qq_43371350/article/details/88607787)
+ > SQL注入--安全（二）
+ ## [FFmpeg音视频播放器系列（开篇）](https://blog.csdn.net/zhaoyun_zzz/article/details/89003500)
+ > FFmpeg音视频播放器系列（开篇）
+ ## [ffmpeg学习笔记-多线程音视频解码](https://blog.csdn.net/cj5785/article/details/89049120)
+ > ffmpeg学习笔记-多线程音视频解码
+ ## [iOS-音视频小结](https://blog.csdn.net/samuelandkevin/article/details/88946046)
+ > iOS-音视频小结
+ ## [音视频学习笔记----1，音视频编码技术基础](https://blog.csdn.net/xiaomucgwlmx/article/details/88016657)
+ > 音视频学习笔记----1，音视频编码技术基础
+ ## [df refresh磁盘没同步](https://blog.csdn.net/weixin_41088891/article/details/88685640)
+ > df refresh磁盘没同步
+ ## [运维学习-docker安装](https://blog.csdn.net/qq_38733987/article/details/88890602)
+ > 运维学习-docker安装
+ ## [php命令注入攻击](https://blog.csdn.net/weixin_42751456/article/details/88955225)
+ > php命令注入攻击
+ ## [安全关闭 Linux 的方式](https://blog.csdn.net/chenxizhan1995/article/details/88780621)
+ > 安全关闭 Linux 的方式
+ ## [音视频之opengl绘制三角形](https://blog.csdn.net/u010339039/article/details/88563167)
+ > 音视频之opengl绘制三角形
+ ## [运维第二天笔记](https://blog.csdn.net/lichong2259/article/details/88919837)
+ > 运维第二天笔记
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [第一届科创板上市委、咨询委、自律委委员名单公布](http://www.lanjingtmt.com/news/detail/41794.shtml)
+ > 近期，按照设立科创板并试点注册制总体工作部署，上交所组建科创板股票上市委员会、科技创新咨询委员会、公开发行自律委员会。
+ ## [和舰芯片赴科创板上市，除了三年连续亏损还有哪些风险？](http://www.lanjingtmt.com/news/detail/41793.shtml)
+ > 这家通过科创板审核的芯片企业不仅创造了三年连续亏损的记录，而且亏损数目仍在不断扩大。
  ## [冲击A股再次失败，英雄互娱的后明星故事该如何讲](http://www.lanjingtmt.com/news/detail/41788.shtml)
  > 早在2018年2月，英雄互娱曾发布签署IPO服务协议公告，聘请国泰君安作为其A股上市的财务顾问、辅导机构、保荐机构及主承销商等，但上市辅导迟迟未有下文。对英雄互娱来说，这是其14个
 # 人工智能 
- ## [python——人工智能的开端](https://blog.csdn.net/ggory/article/details/88538119)
- > python——人工智能的开端
- ## [云计算，大数据，人工智能](https://blog.csdn.net/qq_31807385/article/details/84869135)
- > 云计算，大数据，人工智能
- ## [国内云计算市场的纷争](https://blog.csdn.net/yunfuwu/article/details/88396777)
- > 国内云计算市场的纷争
+ ## [唯一一种能走路的：“黑科技”。，曝诈网](https://blog.csdn.net/weixin_44583479/article/details/88640799)
+ > 唯一一种能走路的：“黑科技”。，曝诈网
+ ## [人工智能的“圣经”](https://blog.csdn.net/valada/article/details/88396476)
+ > 人工智能的“圣经”
  ## [人工智能，机器学习](https://blog.csdn.net/a133900029/article/details/89049173)
  > 人工智能，机器学习
- ## [CODING 如何使用 CODING 研发管理系统来敏捷开发](https://blog.csdn.net/CODING_devops/article/details/88819597)
- > CODING 如何使用 CODING 研发管理系统来敏捷开发
- ## [人工智能数学基础](https://blog.csdn.net/fuge92/article/details/87917317)
- > 人工智能数学基础
- ## [人工智能的应用实例介绍，人工智能有哪些应用领域？](https://blog.csdn.net/duozhishidai/article/details/88926498)
- > 人工智能的应用实例介绍，人工智能有哪些应用领域？
- ## [云计算的大势所趋](https://blog.csdn.net/hephsouidc/article/details/88572601)
- > 云计算的大势所趋
- ## [大数据、云计算和人工智能知识点学习（一）](https://blog.csdn.net/CSDNTianJi/article/details/88889023)
- > 大数据、云计算和人工智能知识点学习（一）
- ## [人工智能名词表 持续更新](https://blog.csdn.net/jcfszxc/article/details/88882236)
- > 人工智能名词表 持续更新
- ## [云计算“军备竞赛”升级，智能技术决胜云计算](https://blog.csdn.net/sinat_32970179/article/details/88806758)
- > 云计算“军备竞赛”升级，智能技术决胜云计算
- ## [主数据的前世、今生，未来预见！](https://blog.csdn.net/kuangfeng88588/article/details/88775780)
- > 主数据的前世、今生，未来预见！
- ## [AI产业化需结合云计算、大数据](https://blog.csdn.net/adsd165/article/details/88886221)
- > AI产业化需结合云计算、大数据
- ## [云计算笔记之engineer-day-01-云计算应用管理](https://blog.csdn.net/qq_26707177/article/details/88803715)
- > 云计算笔记之engineer-day-01-云计算应用管理
- ## [人工智能--框架表示法](https://blog.csdn.net/hjc256/article/details/88858261)
- > 人工智能--框架表示法
+ ## [阿里P7程序员抱怨不想带人，只想写代码，网友：胸无大志](https://blog.csdn.net/qun784783012/article/details/88669597)
+ > 阿里P7程序员抱怨不想带人，只想写代码，网友：胸无大志
+ ## [EOS私钥的重要性以及如何管理它](https://blog.csdn.net/weixin_44172023/article/details/88786385)
+ > EOS私钥的重要性以及如何管理它
+ ## [【人工智能】我的人工智能之旅——线性回归 研读](https://blog.csdn.net/bandaoyu/article/details/88544823)
+ > 【人工智能】我的人工智能之旅——线性回归 研读
+ ## [某互联网公司领导炫耀：男程序员就该当牲口用，狠狠压榨！](https://blog.csdn.net/qun784783012/article/details/88716469)
+ > 某互联网公司领导炫耀：男程序员就该当牲口用，狠狠压榨！
+ ## [\[人工智能\]五子棋](https://blog.csdn.net/Pecony/article/details/83041370)
+ > \[人工智能\]五子棋
+ ## [程序员被狂虐的17种姿势，简直不要太过分！](https://blog.csdn.net/qun784783012/article/details/88694544)
+ > 程序员被狂虐的17种姿势，简直不要太过分！
+ ## [某某最新《Java实战开发今日头条资讯网站》](https://blog.csdn.net/Joey1ee/article/details/88639065)
+ > 某某最新《Java实战开发今日头条资讯网站》
+ ## [程序员都遇见过什么奇葩? 客户: 你代码加这么多注释有病啊](https://blog.csdn.net/qun784783012/article/details/88693938)
+ > 程序员都遇见过什么奇葩? 客户: 你代码加这么多注释有病啊
+ ## [Python爬虫爬取腾讯视频动漫专区的动漫及其描述](https://blog.csdn.net/sqisydream/article/details/88808237)
+ > Python爬虫爬取腾讯视频动漫专区的动漫及其描述
+ ## [OpenCV+TensorFlow 入门人工智能图像处理](https://blog.csdn.net/jinlis351/article/details/88579426)
+ > OpenCV+TensorFlow 入门人工智能图像处理
+ ## [资讯--2019年3月](https://blog.csdn.net/wydbyxr/article/details/88946196)
+ > 资讯--2019年3月
+ ## [让区块链技术为“勤政爱民”的领导干部保驾护航](https://blog.csdn.net/DJSDFHMKF/article/details/88886098)
+ > 让区块链技术为“勤政爱民”的领导干部保驾护航
 
     
