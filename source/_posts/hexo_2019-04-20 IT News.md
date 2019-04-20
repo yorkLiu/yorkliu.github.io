@@ -1,57 +1,55 @@
 ---
 title: 2019-04-20 IT News
 copyright: true
-date: 2019-04-20 09:01:15
+date: 2019-04-20 10:01:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [LT瘦身2.0实锤](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=t-ppe52aRtwqdp9MWSz*dZcpzLvn9cGTtYejcKG7gK8GUA6Pi9dZICU4wojw8YTsRt7Pgk2pSiOimafG3UD-r538ugoemQL16XaiwcGVYTgfeZjcmqMJuiAVsjtK9wR-&new=1)
- > 网传，中国联通已经启动瘦身2.0版本，如下图：前一段时间，互联网业内知名人士，著名IT评论家贾敬华再其微博中表示，中国联通正启动一轮大裁员，年龄在45岁以上，且工龄20年以上的人被内部强制提前退休。提前退...
- ## [论智能语音技术在安防行业的应用前景](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=VzS54iAzTXZdM-3ASJzWDHjw4L7f7fH-IPhCa*cABaLBNFbpuQCvt*uUFgyl*2Gvks8KwZEnsDy7KURt7uBvAwXYrL2aFlNveZWV3JOeYXPLlmD-ztLWbwuIEcaykpA2&new=1)
- > 从文字时代到图像时代，再到如今无处不在的语音时代，智能语音技术的流行和爆发不断刷新着人们的生活方式。亚马逊Echo的出现就是最鲜明的里程碑。大环境表明，智能语音技术最广泛的应用还是智能单品（智能音箱、...
- ## [APT34组织成员信息和工具被挖出，黑客扬言还有后招](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=51HzJX39-mnMiPkNsDn8kZoVocznFmSqn*k6GSO7rk7E2lJ08IM4hn6KyS-trpmg7bbplkoE9kAJe*fb8k67pG*aLP5ed4b5yHFPAWmgu5E2kZ-MPD8d2r*XupzyEoqh&new=1)
- > 网络安全世界，黑吃黑的情况并不少见。2017年，Shadow Brokers入侵了美国NSA下属黑客组织Equation Group，下载了大量工具在网上售卖，永恒之蓝工具包就是其中之一，这也直接导致了后来的 WannaCry 事件。近期，
- ## [美国防部发布《5G风险和机遇报告》](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=u41zeadtFD-FduNxanR4xT4maEyj2vaX8hfftEothIvW2bXPkvmQCmqoNRRWp0jay*Df3v2nARtJ1MHDNpBcvD5AShqqUl0Ytc27ckc32EU3vwc1GQAYt6SMF23keXZP&new=1)
- > 2019年4月3日，美国国防部发布了《5G风险和机遇报告》的报告，报告中介绍了5G发展历程和现状，中国、韩国、日本、美国和世界其他国家5G发展的状况。本文重点就报告中5G对美国国防部的影响与安全挑战方面进行详细...
- ## [5G马上就来，但最好别凑热闹!](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=H2Odu69BZlawq8nGp1nXOg-NuRw6GjBucMMfMG1KvpN4DacXJewMKGZ3SoLTENnhGZ*8aOkGXLokmY0*L4PnBVDjr0VhQCFSV5fp*9W47xXG7pGSduq7sMUmg3LGdv6n&new=1)
- > 5G到底有多么重要，就冲着苹果急于和高通和解这点上我们就能看出来，今年推出5G iPhone可能是来不及了，那2020年苹果推出相关产品应该就没有什么大问题，也就是说苹果5G手机至少会落后安卓一年，之前三星 S10 5G...
- ## [信软司王建伟：决胜安全 ——构筑工业互联网平台之盾](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=PN4O93eR9p0rj20g4-D1MUUgzHaycMACotC3s0ZveffqkN3NTtIf8yrpKf1hW35v5V6YNDTYQVIuM-KxL8JPXRjQKAkCNaysfff8h*WZj9sxCefKOac2I-m6JYa5ooSa&new=1)
- > 李克强总理在2019年政府工作报告中强调“打造工业互联网平台，拓展‘智能+’，为制造业转型升级赋能”。工业互联网平台向上承载应用生态，向下接入海量设备，是工业互联网的核心载体。举一纲而万目张，平台安全...
- ## [滴!您的新短消息，请查收!运营商群发短信呼吁抵制骚扰电话](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=O-*6SMkHRmt*7oMc7bRK*b56O8R2AX7D*mNkmSPSpZ0kADwZjqznv60lmZLtpjcGTM8L3BxzpIyYJ4Ud-9VucFjSdpXdrRMNTKfj7xvwi0Q7*i9cWZXV8GFIJfOmb-SI&new=1)
- > 近日，部分用户收到了中国移动的群发短信，该短信称：“根据国家有关规定，未经用户同意，任何组织和个人不得擅自向用户拨打商业营销电话。为维护用户的合法权益，中国移动将对涉嫌营销扰民的电话号码进行依法处...
- ## [放弃5G?英特尔可真没这么想](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=HWyhZXVDvXbJ3Lv9uLXau0UjTBawoNM1m-SqKnIu*LHXUaKa7xfxY-Y-XbvG17Dd4Hocb5exXfV44kXbKgEmfaiUlfqyHbl9O3imErYgYQ*fKKkFcUu9hlQa0EApbqNR&new=1)
- > 2019年4月16日，苹果和高通双方共同宣布同意在全球放弃此前所有诉讼，并签订了为期六年的专利许可协议。在该消息对外发布后，双方发酵许久的矛盾终于尘埃落定。而就在该事件发布后一天的4月17日，英特尔对外宣布...
- ## [和解细节：一次性支付 60 亿美元，每卖一台 iPhone 给高通 9 美元](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=LW7k0rk8ZRMmoIxJFuF-lN0NrPFvRxb4buTdK97gx8ybrXMzZyZ25KBIn7Xm3AIBcdGRzYdCEnMfOweeUvuvdauag9lfRUIvIaJNMkO9iHqQ1zxt8OAb8z9oJ8xAFZzW&new=1)
- > 几天之前，苹果和高通突然宣布，同意撤销双方之间的所有诉讼。这也算意料之外，情理之中的事情。和解协议包括苹果公司向高通公司支付一笔款项，但两家公司都不愿意披露款项的具体金额。瑞银（UBS）分析师 Timoth...
- ## [突发!华芯通4月30日关门，高通合资，国产ARM服务器芯片3年梦断](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=wPf*v9jLjfMyQNWZT7k-ZAuhgSiRNHKdqkyW15Vi-*AfY-eVw83Aped6UQ45z5p1P1EqIJQi3jowYy9rI5sYppZCvdufKOraj4tvbZDlvcHziqb7a5jQlluh0mBSjhkA&new=1)
- > 看点：合资企业或遇水土不服，国产ARM服务器芯片将走向何方？智东西4月19日消息，今日，据路透社报道，高通公司与中国贵州省的合资企业华芯通将于本月底4月30日关门。这一由半导体巨头和我国地方政府合资的企业...
- ## [“石”力突破“智”变开启丨华为中国生态之行2019走进河北](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=T3yrmzGdXTv7MUTdTf*C1DCx4gHrRlQpJnjj76MrSJITateri3Vv71Qs4LokQCi282eBTSZ6FMNpoK7hjHdEgX7HtDn3jLvXLCtEMs2l02OHL2u8thMC96SD1ihcQgze&new=1)
- > 4月19日，以“智能进化·平台应变”为主题的“华为中国生态之行2019”石家庄峰会成功举办。来自各领域的1000多名行业专家和生态伙伴齐聚石家庄，与华为共同探讨智能时代下，行业数字化转型的机遇与挑战。华为希...
- ## [这是AI触手可及的时代|AI Open Day](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=IuUuGbhSO7zTib6X1-W3S0f-AowS6vpiJeXwZ5zNaKiiRm0ddvc1JnaaZA6skpbGkLMbNtKT1vldr8slGTXtTwjI2qX6P0LZL8yV7wbCpDke7c4Dq1Vlu0WayOjJbWNk&new=1)
- > 2019年，5G实现商用，万物智能互连的时代之门已经开启。在未来10年中，与5G部署并行发展的关键技术趋势，是对海量数据的分析和运用，其核心技术就是人工智能。 4月19日，以“让AI触手可及”为主题的Qualcomm人工...
- ## [权威预测：关于5G的成本、收入、连接数，咨询机构们如是说!](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=QInFRisiTeGfZQ2Bey9NcvkpOaRvvNuWgCNtV*cgyP7mMNtp*DQ3TE8BNTATdNxCVPOneXhNbrQtN5VX3bFojIbj6416VPACSRwXMngWNh6iRAo4Bfjy7d-fLHUCiaxH&new=1)
- > 【摘要】以下为最近一周以来各大研究机构发布的预测信息。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：陈志刚本文来源：水煮通信（shuizhutongxin）杂谈投稿邮箱：631255063@qq.com以下为各机构关于5
- ## [中国移动新出50G大流量套餐，宽带免费享，流量越用越便宜](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=JMYBNGPDBQ4ze-GA11yOR6AYKu2n7zRxHQzQ9O0lG4sOQmxMgwq6fZISl5GyvKvwX6VDXP1k0IelJfF1-FXTNchcT4nqLo6i0Bs4raTn7F1nAWseO71heYCU*hx8crsz&new=1)
- > 近日，北京移动上线了一款新套餐，拥有多达50G的超大流量产品，而且还能免费获得200M智能宽带，家人之间互打电话免费、流量还可3人共享使用，最重要是达量不限速，流量还能越用越便宜，除此之外，每年还将赠送7...
- ## [欧盟车联网技术标准，到底是选5G还是选Wi-Fi?](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=ZGWRXzd5z5X5mZ7G*5*HHCZHMiRk8kDg*I8Z9eWvWpwJ*GhF*JwYG1KWrH8PDLEXkIy4afCYfLedKLfbVzAcNaeU9LDzMrEqG*oHYmiRm5sC0mrYWdFYMPclhl4g28ak&new=1)
- > 雅斯顿原创文章 | 哈尔上周，据《欧洲汽车新闻》报道，日前欧盟立法官员们拒绝了一委员会关于将Wi-Fi技术作为车载互联网技术标准的提议，许多人认为这无疑是在某种程度上支持了5G车载技术标准。因为一直以来，欧...
- ## [解析互联网登录方式之运营商免密认证](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=U8VV1mL*b16XwVNQ5N1eG1Z3NGOCl49C5-0Od-QMYw9hi5jynQcnP2gN9VZ3AHLTSyBjF6wsZ33ld2fwpfw0kylR4QUcV9pYobWYZnJme5brnrn0jQUQE5hRCVynS-zX&new=1)
- > 运营商免密认证，是基于运营商移动4G网，直接认证用户手机号码，实现用户不要输入账号密码即可登录到应用的登录认证方式，为运营商独有的登录认证技术。移动端产品使用流程为：点击免密登录-识别用户手机号码-登...
- ## [破解5G网络新挑战，华为使出智能IP网络“三板斧”!](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=zFtl4QsWTQeAKJqHBNftgxT4Wb9fSKeDKdR*mx2DdgraTLhh0Bnb4PTxyBB3nS9fQJ*YnHawsbupkCVGw-W3Qgdb9gBf3Ukt9BTig90tUR-tVRBLIsRNTD7T5r999JBu&new=1)
- > 2019年5G建设大幕开启。就在4月3日，韩美运营商的5G商用首发竞争很惹眼。所以在4月16-17日举行的华为2019全球分析师大会上，笔者听到分析师最关心的话题就是5G。目前看5G终端芯片、承载网、接入网等方案，都已经...
- ## [手机来电显示“变味”用户号码被恶意标注咋办?](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=HIWhmpEFOhzGAzChkipV1MTy0yafIdFHiMAwILV4Jdw0VuEQg57XvL0uQXARbgn3NzoCtAO9Y9Z-vqPGTZuTmAL8a8CT3FMAuEL58HVMNOyRqE5usePSMzZs51HJOxsK&new=1)
- > 手机“来电显示”对于消费者来说是一个很熟悉的内容，它是一种基础的通讯服务功能，智能手机还会显示特殊的“标注”信息，比如有的号码被标注为“广告”“骚扰”“诈骗电话”，这在一定程度上方便了用户是否选择...
- ## [聚焦·要闻|新大陆支付技术公司2019海外首秀惊艳全场](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=ACZNMh4n7ttqQt4AoaESwbMIW3U3fKd7x5G7ZQ3QYWLzVrK0xUxyeirW6QaMEAKybWDVeiE26ObNGozQkhqntECoSIpDp3M*EYCFL6rJLjvkBcmndRRvuKNLFPIhRU6V&new=1)
+ ## [聚焦·要闻|新大陆支付技术公司2019海外首秀惊艳全场](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=ACZNMh4n7ttqQt4AoaESwbMIW3U3fKd7x5G7ZQ3QYWLzVrK0xUxyeirW6QaMEAKyp*ac423Fz9wQ3za4mQJGWDV06OdG6RRP3cfqwmgKIa8M-AldASTHr9HgG-JeUajv&new=1)
  > 点击图片查看详情新大陆支付技术公司2019海外首秀惊艳全场“共谋发展大计”——新大陆自动识别公司举办第二届“Newland Day”韩国区域合作伙伴大会“团结筑梦想·变革赢未来”——2019新大陆自动识别公司华南区...
- ## [浅析VR/AR头部公司的专利布局](http://mp.weixin.qq.com/s?src=11&timestamp=1555722006&ver=1557&signature=VXISsMDM42geW5y-jUFBE2k3En7VZONy5phOpxwSzErk*kVDHc2XqLlysW55iBUnatTspaB708b2ASINa-8srkiDOp7EhHgytvsruYtZryZWwqcreyh77pwnmnPwqgNj&new=1)
+ ## [浅析VR/AR头部公司的专利布局](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=VXISsMDM42geW5y-jUFBE2k3En7VZONy5phOpxwSzErk*kVDHc2XqLlysW55iBUn8-gEje9bppYQNrRkZ-yulQOOlRjT4bZVaFv14AvD1abIrG1TYojtYIeV5iu*Rza2&new=1)
  > Esther｜ 撰文在去年OC5大会上，Facebook CEO Mark Zuckerberg发布高端VR一体机Oculus Quest，并表示Quest、Go和Rift组成了Oculus第一代VR产品阵容。尽管后来Facebook又发布
+ ## [美国防部发布《5G风险和机遇报告》](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=u41zeadtFD-FduNxanR4xT4maEyj2vaX8hfftEothIvW2bXPkvmQCmqoNRRWp0ja2cv1N1sZRDJduqRy-V6kXtUuh3GQ0wBSOvCVKdUcRol2h1fkmv3WK3EFqvtVrXcH&new=1)
+ > 2019年4月3日，美国国防部发布了《5G风险和机遇报告》的报告，报告中介绍了5G发展历程和现状，中国、韩国、日本、美国和世界其他国家5G发展的状况。本文重点就报告中5G对美国国防部的影响与安全挑战方面进行详细...
+ ## [\[今日头条\]华芯通公司将于4月30日关闭](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=hwuQJhgAjtXh8uiV0HoY97oBqmim43idPS5ALsPp9WDFIx0mC4JW5eQYzBNGVjnBTNFBdB5iZFhI22YkJUKL32YB95DM-iXvxy3XxZySXOOQa-AyuBHiEChIdQcizgG4&new=1)
+ > 从今年年初开始，就有相关人士陆续告诉笔者，国产Arm服务器芯片项目贵州华芯通正在面临经营困境。而据笔者多方获悉，现在华芯通也的确前景不妙。有知情人士告诉笔者，华芯通CEO汪凯博士在今年已经悄然离职。...
+ ## [\[观察\]一周之后，浪潮云ERP将直面数字化转型2.0四大攻坚战](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=NnYzlgY8j8MMj1qPJCm27bm0JV6zPefAtiaidy77N82Fq0ZXhKqWRgOkCvJHDaDua66vqs55GLYCEnY-W1OOQbflByF2in3vp7SVvj1AVqMXpk1QoTjsuZgI4i5Tq*W*&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！毫无疑问，刚刚过去的2018年，是中国企业服务市场的转折之年。在新一代数字技术的驱动和管理软件服务商的共同努力下，大型企业建平台，小微企业“上云上平台”成为整个业界的...
+ ## [破解5G网络新挑战，华为使出智能IP网络“三板斧”!](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=zFtl4QsWTQeAKJqHBNftgxT4Wb9fSKeDKdR*mx2DdgraTLhh0Bnb4PTxyBB3nS9fOyuGrhMsA7h5*YLIlI3PO8rmYOBj1pYJnOLxKPael-MroHXzGyPDXmnGCVhIKLnI&new=1)
+ > 2019年5G建设大幕开启。就在4月3日，韩美运营商的5G商用首发竞争很惹眼。所以在4月16-17日举行的华为2019全球分析师大会上，笔者听到分析师最关心的话题就是5G。目前看5G终端芯片、承载网、接入网等方案，都已经...
+ ## [放弃5G?英特尔可真没这么想](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=HWyhZXVDvXbJ3Lv9uLXau0UjTBawoNM1m-SqKnIu*LHXUaKa7xfxY-Y-XbvG17Dd1ddXQLiRw6CyKgVAnHP6t*YjOgajgBVFdWbMpfbXfVHb83ZM-3GlnTLw2L**XaSi&new=1)
+ > 2019年4月16日，苹果和高通双方共同宣布同意在全球放弃此前所有诉讼，并签订了为期六年的专利许可协议。在该消息对外发布后，双方发酵许久的矛盾终于尘埃落定。而就在该事件发布后一天的4月17日，英特尔对外宣布...
+ ## [论智能语音技术在安防行业的应用前景](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=VzS54iAzTXZdM-3ASJzWDHjw4L7f7fH-IPhCa*cABaLBNFbpuQCvt*uUFgyl*2GvwngJvadFl1zEwkQBEyhBS98Ee8skcl7bZcslrFAklC6i7-stC6DtCnXpai-cwBKS&new=1)
+ > 从文字时代到图像时代，再到如今无处不在的语音时代，智能语音技术的流行和爆发不断刷新着人们的生活方式。亚马逊Echo的出现就是最鲜明的里程碑。大环境表明，智能语音技术最广泛的应用还是智能单品（智能音箱、...
+ ## [2019联通合作伙伴大会猜想：除了黑科技，联通5G还有什么值得期待?](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=7pdJx2sWt9-gTjR85eUYQAZ5skEbGCfuvEbudjkA2gHxZdx4l9QE-iTXt5xpEdMTIYyudQUyGD6F7x0KylilMd9464gE2d1L1VpuSJn1mfHPHnRR*-r37Sf-FDq7HCD7&new=1)
+ > 2019年4月23日-25日，2019上海5G创新发展峰会暨中国联通全球产业链合作伙伴大会即将盛大召开。此次大会中国联通将邀请行业领军企业、领军人物和产业链上下游合作伙伴，共同布局5G，共商合作发展新机遇。据刚刚出...
+ ## [引领智能IP网络!华为新推“四大引擎”品牌战略](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=b2BO5N*G47D7VBr-LJJMoyg-TbcbDzJGlyqhaeAdgn0rl0dLUJ3qYC7WtJ-5R69MCmSIaoRZUJivNLhtwKlyrbcAFcy8gyj*Lx0Gom6YQFfWN2fujpi0*svvLiYZXyBx&new=1)
+ > 随着5G、云和AI时代的来临，千亿级生产办公终端的协同，100%的企业业务上云需求，86%的AI的采用率以及未来可能面临的各种安全问题，都使得企业数字化转型面临更大的挑战。网络作为企业数字化转型的最重要组成部...
+ ## [5G马上就来，但最好别凑热闹!](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=H2Odu69BZlawq8nGp1nXOg-NuRw6GjBucMMfMG1KvpN4DacXJewMKGZ3SoLTENnh0CWKzjyAuotXgx3LKac8E5xZsNOFvRM3FLCjCF2u9xQPsyyDbK*4C7TooPFUqlz7&new=1)
+ > 5G到底有多么重要，就冲着苹果急于和高通和解这点上我们就能看出来，今年推出5G iPhone可能是来不及了，那2020年苹果推出相关产品应该就没有什么大问题，也就是说苹果5G手机至少会落后安卓一年，之前三星 S10 5G...
+ ## [权威预测：关于5G的成本、收入、连接数，咨询机构们如是说!](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=QInFRisiTeGfZQ2Bey9NcvkpOaRvvNuWgCNtV*cgyP7mMNtp*DQ3TE8BNTATdNxCsmiWkBvcU4K0Kn0Kn-N7xTkXlf6tqKsrJWHyFwwxVq981YqI3bBgDTO6eb-wXRwU&new=1)
+ > 【摘要】以下为最近一周以来各大研究机构发布的预测信息。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：陈志刚本文来源：水煮通信（shuizhutongxin）杂谈投稿邮箱：631255063@qq.com以下为各机构关于5
+ ## [欧盟车联网技术标准，到底是选5G还是选Wi-Fi?](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=ZGWRXzd5z5X5mZ7G*5*HHCZHMiRk8kDg*I8Z9eWvWpwJ*GhF*JwYG1KWrH8PDLEXoLyJsvCX2PTkMBji2XVc7SVs4QjwVotoupUax1eejuWE0o-BO2uXz-9rIKjoYjgZ&new=1)
+ > 雅斯顿原创文章 | 哈尔上周，据《欧洲汽车新闻》报道，日前欧盟立法官员们拒绝了一委员会关于将Wi-Fi技术作为车载互联网技术标准的提议，许多人认为这无疑是在某种程度上支持了5G车载技术标准。因为一直以来，欧...
+ ## [“石”力突破“智”变开启丨华为中国生态之行2019走进河北](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=T3yrmzGdXTv7MUTdTf*C1DCx4gHrRlQpJnjj76MrSJITateri3Vv71Qs4LokQCi28X0In8PZsMVOdpobgrHt5I9k42CHFeVxdAtvf2gczwVyDsa2fHksGCtsTA7xWdRW&new=1)
+ > 4月19日，以“智能进化·平台应变”为主题的“华为中国生态之行2019”石家庄峰会成功举办。来自各领域的1000多名行业专家和生态伙伴齐聚石家庄，与华为共同探讨智能时代下，行业数字化转型的机遇与挑战。华为希...
+ ## [APT34组织成员信息和工具被挖出，黑客扬言还有后招](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=51HzJX39-mnMiPkNsDn8kZoVocznFmSqn*k6GSO7rk7E2lJ08IM4hn6KyS-trpmgfI5mY6cHTmOD79dUN4iP*3iy*tmdZGnwoPYldn0xiCi02CzFCROreEM5CBtzYjwR&new=1)
+ > 网络安全世界，黑吃黑的情况并不少见。2017年，Shadow Brokers入侵了美国NSA下属黑客组织Equation Group，下载了大量工具在网上售卖，永恒之蓝工具包就是其中之一，这也直接导致了后来的 WannaCry 事件。近期，
+ ## [顺丰进军越南市场丨抖音和六大影视公司战略合作\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=FS-rgDW5CbIRN15qoOdQ-M-ypEId*i76FwXGFPC9v2W2kiq8tkYfbUai6LeLvGF-fOcI0PpSIRLc1rEoFw-UzCjpyIMuEvn*awWkm8oBq8C6wHoyMI11sV*m15rVJN3L&new=1)
+ > 4月19日 周五【Do说】编辑 | 李尧顺丰进军越南市场昨日，顺丰发布信息显示，香港米业供应商之一金源米业与顺丰共同成立合资子公司GS EXPRESS，将共同开拓越南快递物流市场。据了解，未来双方将建立越南市场的物...
+ ## [\[科技早报7点整\]高通vivo腾讯将打造《王者荣耀》AI战队 蔚来移动充电车每次收费380元 ……](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=YuZwsHF2PR0OzZExWVNeTUz0iOzH-kXnorE9j0RMxRT7mhYfXE2Kq6iG1rLJ3aBWPihiKKWU8e7AvqtsIIXBIwxvZUng1OkFl17C8Oo7nB7S0pO82CrwI7S-xnYBhiZ-&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第451期1.福州市首批5G公交车发布在福州市5G产业促进大会上，福州市首批5G公交车（51路）在大会上首发。5G公交车是福州市首个5G试商用项目，该项目在5G试验网环境下运行，目前...
+ ## [高通面前，人人平等](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=qcuywhp6lUOpUMUvVdkrGAFy3quiZZsRtpIjGk*J2u5verGotuA6wn1D24nsRTzVXQAAMvbUAaVOKWDqicKUmDy*9yWRpRSPcp4Obs8TqUBs7cJ80l7MEm4T2pmq4j8x&new=1)
+ > 苹果不是第一家反抗高通的手机厂商，但一定算是走得最深入的一家，从 2016 年在 iPhone 7 系列机型上混用高通、英特尔基带，到 2018 年的 iPhone Xs 系列机型全面去高通化，似乎苹果取得了一个阶段性的胜利，没...
+ ## [手机来电显示“变味”用户号码被恶意标注咋办?](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=HIWhmpEFOhzGAzChkipV1MTy0yafIdFHiMAwILV4Jdw0VuEQg57XvL0uQXARbgn3QK-qWaPmp0Ywk8huLa4wCrU8vCkkyLZZMv6dmFF1HjQgsyOc8RV37GzBI6URrX1g&new=1)
+ > 手机“来电显示”对于消费者来说是一个很熟悉的内容，它是一种基础的通讯服务功能，智能手机还会显示特殊的“标注”信息，比如有的号码被标注为“广告”“骚扰”“诈骗电话”，这在一定程度上方便了用户是否选择...
+ ## [假把式?中国移动下命令：不得擅自向用户拨打推销电话!](http://mp.weixin.qq.com/s?src=11&timestamp=1555725606&ver=1557&signature=G11ATTGEVvE9uiIpooeEKVXsUKC4VxAy565UThyVjq2yW9r6W4OGh4cB6IPMC*eNcTzMR6iiqJICID8PAgdYSBoJV7IYINFkt384vE2r0I8UwUoHPuPAh3lnwH7ecyH-&new=1)
+ > 活动招募不撕裂不卡顿尽情游戏 武汉的童鞋们，我们又来了！4月27日，武汉汉阳造文创园46号，召集大家一起玩3A大作，亲身体验AMD FreeSync解决方案，还有丰厚的电竞大奖等你拿！并且，来就有丰厚伴手礼相送！赶...
  ## [饿了么骑手违规提前点确认送达订单，投诉会罚款1000元，为什么不能撤销投诉？](https://www.zhihu.com/question/48627711)
  > 高校里面的学生，时不时会点外卖，平时只要骑手打电话跟我说快到了，能不能先点送达，我都会同意，超时赔付的红包要不要无所谓，总觉得让骑手罚款不太好，生活不容易但是前几天还跟室友讨论到了这个问题，现在的现状...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 基础科学的突破往往会带来应用技术的飞速进步，进而全面影响产业，对于互联网行业尤为如此。但在可预见的未来，也许没有什么基础突破会如5G那么广泛而深刻地去影响整个互联网产业。自从互联网由桌面端走向移动终端，...
- ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
- > 并不是所有的操作系统都用扩展名来标识文件类型……同时扩展名事实上也非常混乱，htm和html表示的都是HTML文档，jpeg和jpg都是JPEG图片格式，等等……最后，浏览器所使用的URL（统一资源定位符），根本就...
  ## [大家怎么看《鬼刀》这部作品？](https://www.zhihu.com/question/40829502)
  > 1.《鬼刀》不是一部合格的漫画，甚至可以说不是严格意义上的漫画，它是一部模仿影视分镜，画面气质更接近游戏概念气氛图的插画合集。作者想要以一个世界观将其串联起来，这是一部练习和试验向的作品，是先有画面再凑...
  ## [为什么华为在售后服务方面没有超越苹果？](https://www.zhihu.com/question/50499921)
@@ -60,6 +58,8 @@ categories: IT NEWS
  > 这个问题，肯定是要具体问题具体分析的！真的没办法简简单单几千字，就把所有所有人的疑惑都解决了！！！所以，我就和大家聊一聊目前小红书推广最主流的几种方式的利弊，希望能对大家有帮助！！！文章开头再次强调一...
  ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
  > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
+ ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
+ > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [机器学习在理论经济学研究中有哪些可能的应用前景？](https://www.zhihu.com/question/320514976)
  > 提一个和 Bayesian Persuasion有关的。楼上有人提到multi-armed bandit问题，bandit问题抓住了机器学习中一个经典的exploration vs exploitation trade-off。但是传统的bandit问题有一个很强的action commitment
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
@@ -105,69 +105,69 @@ categories: IT NEWS
  > 更好地构建区块链用例的简单指南
  ## [“Python太逆天！请救救Java！”今早9万程序员刷爆朋友圈……](https://blog.csdn.net/CSDNedu/article/details/89331714)
  > “Python太逆天！请救救Java！”今早9万程序员刷爆朋友圈……
- ## [程序员这段注释差点把领导气吐血，网友：双击溜溜溜](https://blog.csdn.net/qun784783012/article/details/88311786)
- > 程序员这段注释差点把领导气吐血，网友：双击溜溜溜
- ## [Android开发---任务和返回栈（Task栈）](https://blog.csdn.net/weixin_39071173/article/details/89335433)
- > Android开发---任务和返回栈（Task栈）
- ## [移动开发---AES加密解密](https://blog.csdn.net/zhanwei0102/article/details/88963699)
- > 移动开发---AES加密解密
- ## [资讯信息流场景的学习排序实践探讨](https://blog.csdn.net/wh_springer/article/details/88824375)
- > 资讯信息流场景的学习排序实践探讨
- ## [腾讯阿里要求哪些技术面？不会NDK和Flutter直接淘汰？](https://blog.csdn.net/feiyu1947/article/details/88754430)
- > 腾讯阿里要求哪些技术面？不会NDK和Flutter直接淘汰？
- ## [某互联网公司领导炫耀：男程序员就该当牲口用，狠狠压榨！](https://blog.csdn.net/qun784783012/article/details/88716469)
- > 某互联网公司领导炫耀：男程序员就该当牲口用，狠狠压榨！
- ## [抖音视频怎么制作](https://blog.csdn.net/kakaxiss/article/details/89308759)
- > 抖音视频怎么制作
- ## [音视频技术开发周刊 93期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/89089783)
- > 音视频技术开发周刊 93期
- ## [四月大事件 | 创想三维四月展会资讯集锦](https://blog.csdn.net/weixin_44242679/article/details/89068868)
- > 四月大事件 | 创想三维四月展会资讯集锦
- ## [进退博弈：4.15号恒指资讯及早盘操作建议](https://blog.csdn.net/LK999588/article/details/89306176)
- > 进退博弈：4.15号恒指资讯及早盘操作建议
- ## [移动开发---DES加密解密](https://blog.csdn.net/zhanwei0102/article/details/88966497)
- > 移动开发---DES加密解密
- ## [EOSIO生态一周资讯 | BM：EOSIO速度快 而且只会更快](https://blog.csdn.net/weixin_43458313/article/details/89137522)
- > EOSIO生态一周资讯 | BM：EOSIO速度快 而且只会更快
- ## [css样式如何设置边框，阴影，渐变等特效以及通过box-sizing属性设置盒子模型，背景区域设置等](https://blog.csdn.net/tangjing556/article/details/88869303)
- > css样式如何设置边框，阴影，渐变等特效以及通过box-sizing属性设置盒子模型，背景区域设置等
- ## [开发那点事（四）vue实现一个日历插件](https://blog.csdn.net/zw21544182/article/details/89154135)
- > 开发那点事（四）vue实现一个日历插件
+ ## [Vue基本语法day02](https://blog.csdn.net/qiang510939237/article/details/89321103)
+ > Vue基本语法day02
+ ## [说说浏览器的恶意网址拦截机制](https://blog.csdn.net/deniro_li/article/details/88773761)
+ > 说说浏览器的恶意网址拦截机制
+ ## [确保 Web 安全的 HTTPS](https://blog.csdn.net/weixin_42662955/article/details/89053667)
+ > 确保 Web 安全的 HTTPS
+ ## [CODING 研发管理系统上线全球加速，助力企业跨区域协作](https://blog.csdn.net/CODING_devops/article/details/89145673)
+ > CODING 研发管理系统上线全球加速，助力企业跨区域协作
+ ## [上帝的归上帝，凯撒的归凯撒—— CODING 权限管理更新](https://blog.csdn.net/CODING_devops/article/details/89139584)
+ > 上帝的归上帝，凯撒的归凯撒—— CODING 权限管理更新
+ ## [【前端安全】xss](https://blog.csdn.net/qq_37021554/article/details/88956235)
+ > 【前端安全】xss
+ ## [前端面试杂技    --- 攻克前端面试 (html&css)](https://blog.csdn.net/qq_36818627/article/details/88995019)
+ > 前端面试杂技    --- 攻克前端面试 (html&amp;css)
+ ## [信息流与信息流安全](https://blog.csdn.net/dwj_daiwenjie/article/details/88864470)
+ > 信息流与信息流安全
+ ## [初写-简单页面设计](https://blog.csdn.net/qq_38233172/article/details/89077375)
+ > 初写-简单页面设计
+ ## [预科四---雀雀老师](https://blog.csdn.net/liliming86575513/article/details/88956103)
+ > 预科四---雀雀老师
+ ## [SSH协议弱加密算法漏洞的利用及复现（中间人攻击）](https://blog.csdn.net/qq_32006199/article/details/89166079)
+ > SSH协议弱加密算法漏洞的利用及复现（中间人攻击）
+ ## [安全关闭 Linux 的方式](https://blog.csdn.net/chenxizhan1995/article/details/88780621)
+ > 安全关闭 Linux 的方式
+ ## [选择scrum任务看板管理工具的要点](https://blog.csdn.net/guowanwanwan/article/details/89377353)
+ > 选择scrum任务看板管理工具的要点
+ ## [前端常用标签](https://blog.csdn.net/yzyggu/article/details/89335882)
+ > 前端常用标签
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [游戏巨头齐聚 Unite Shanghai 2019，揭秘爆款游戏制作精彩亮点！](https://blog.csdn.net/csdnnews/article/details/89397837)
  > 从三人行的公寓创业到全球知名游戏引擎的发展、从局限的 macOS 到高达 25 多个平台的覆盖、从单一的手游到建筑可视化和实时三维动画等类型互动内容的综合型创作工具的演进，Unity 正以“革命性因子”占据各个行业技术解决方案的主导权。且近日，最新发布的 Unity 2019.1 正式版更是加入了.
 # 人工智能 
- ## [什么是云计算？云计算学习基础](https://blog.csdn.net/qfxulei/article/details/89155545)
- > 什么是云计算？云计算学习基础
- ## [MGCToken安全吗](https://blog.csdn.net/cbfeihui/article/details/89145423)
- > MGCToken安全吗
- ## [云计算是什么？云计算基础概念讲解](https://blog.csdn.net/qq_43311315/article/details/89157339)
- > 云计算是什么？云计算基础概念讲解
- ## [前端——Form表单](https://blog.csdn.net/Jonsnow1457/article/details/88781945)
- > 前端——Form表单
- ## [说说浏览器的沙箱机制](https://blog.csdn.net/deniro_li/article/details/88767604)
- > 说说浏览器的沙箱机制
+ ## [Vue基本语法day02](https://blog.csdn.net/qiang510939237/article/details/89321103)
+ > Vue基本语法day02
+ ## [Linux下的网络配置方法](https://blog.csdn.net/qq_36016375/article/details/88990296)
+ > Linux下的网络配置方法
+ ## [前端开发技巧](https://blog.csdn.net/h1025372645/article/details/89319551)
+ > 前端开发技巧
+ ## [Linux下的dhcp服务配置](https://blog.csdn.net/qq_36016375/article/details/89011426)
+ > Linux下的dhcp服务配置
+ ## [Linux下的定时任务和延时任务](https://blog.csdn.net/qq_36016375/article/details/89320898)
+ > Linux下的定时任务和延时任务
+ ## [程序人生 | (1) CCF推荐国际学术会议和期刊目录](https://blog.csdn.net/sdu_hao/article/details/88979766)
+ > 程序人生 | (1) CCF推荐国际学术会议和期刊目录
+ ## [预科四---雀雀老师](https://blog.csdn.net/liliming86575513/article/details/88956103)
+ > 预科四---雀雀老师
+ ## [花马云10亿无作为，被同事骂的当众落泪，后为阿里创造4500亿价值](https://blog.csdn.net/qq_36860032/article/details/89196705)
+ > 花马云10亿无作为，被同事骂的当众落泪，后为阿里创造4500亿价值
  ## [web前端的薪资前景话题，为你一一解答!](https://blog.csdn.net/a1990qd/article/details/88795169)
  > web前端的薪资前景话题，为你一一解答!
- ## [云计算、机器学习、深度学习、人工智能和大数据，主要有什么关系？](https://blog.csdn.net/zhinengxuexi/article/details/88717769)
- > 云计算、机器学习、深度学习、人工智能和大数据，主要有什么关系？
- ## [【前端学习笔记】前端安全详解](https://blog.csdn.net/weixin_41835977/article/details/88951167)
- > 【前端学习笔记】前端安全详解
- ## [云计算，大数据，人工智能](https://blog.csdn.net/qq_31807385/article/details/84869135)
- > 云计算，大数据，人工智能
- ## [网络安全攻防的环境配置（owaspbwa）](https://blog.csdn.net/weixin_42751456/article/details/89103830)
- > 网络安全攻防的环境配置（owaspbwa）
- ## [什么邮箱最安全？安全邮箱推荐](https://blog.csdn.net/weixin_44381765/article/details/88970809)
- > 什么邮箱最安全？安全邮箱推荐
- ## [确保 Web 安全的 HTTPS](https://blog.csdn.net/weixin_42662955/article/details/89053667)
- > 确保 Web 安全的 HTTPS
- ## [大数据，云计算，物联网和移动互联网与传统互联网，主要有什么关系？](https://blog.csdn.net/duozhishidai/article/details/88808839)
- > 大数据，云计算，物联网和移动互联网与传统互联网，主要有什么关系？
- ## [究竟什么是云计算，云计算的特性的介绍？](https://blog.csdn.net/zhinengxuexi/article/details/89089530)
- > 究竟什么是云计算，云计算的特性的介绍？
- ## [toString()和valueOf()函数调用和优先级](https://blog.csdn.net/wade3po/article/details/88988287)
- > toString()和valueOf()函数调用和优先级
+ ## [如果有一天不做程序员了，你想做什么？能做什么？](https://blog.csdn.net/kukelook/article/details/88849173)
+ > 如果有一天不做程序员了，你想做什么？能做什么？
+ ## [浅谈动态追踪技术](https://blog.csdn.net/pengzhouzhou/article/details/89378074)
+ > 浅谈动态追踪技术
+ ## [把女朋友当代码，程序员相亲这样介绍自己，网友：情商高又幽默](https://blog.csdn.net/kukelook/article/details/88800206)
+ > 把女朋友当代码，程序员相亲这样介绍自己，网友：情商高又幽默
+ ## [yum软件仓库的指向设定解决yum不可用的问题](https://blog.csdn.net/qq_36016375/article/details/89179072)
+ > yum软件仓库的指向设定解决yum不可用的问题
+ ## [虚拟机上连接无线网络的配置](https://blog.csdn.net/qq_36016375/article/details/89036848)
+ > 虚拟机上连接无线网络的配置
+ ## [移动端开发基础知识](https://blog.csdn.net/qiang510939237/article/details/89166195)
+ > 移动端开发基础知识
 # PM 
  ## [报名开启 | 5月18日，成都互联网人可以过一个有料的周末](http://www.woshipm.com/active/2184563.html)
  > 近年来，因腾讯、蚂蚁金服、新浪、今日头条、京东等大公司在成都建立研发中心让成都成为了继北京、深圳、上海、杭州后，中国IT的第五城变化、革新是这个时代的主旋律...
