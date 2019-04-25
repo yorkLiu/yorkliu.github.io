@@ -1,7 +1,7 @@
 ---
 title: 2019-04-25 IT News
 copyright: true
-date: 2019-04-25 12:02:04
+date: 2019-04-25 17:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -72,86 +72,86 @@ SpaceX&#40857;&#39134;&#33337;&#30097;&#20284;&#22312;&#24341;&#25806;&#27979;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [十年后，AI将彻底改变这些行业](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=AUFLOqDHSwNgrHZUvMsmEehAvGd5qx1W2xr-*mCbxcVHS6sm0-H*apqANLk2fSuL1TQd*55vHC0NZqLqn3jTHrWZeN83EcGfngKZvlmbWKD2DgXXyCVFgVejjnvKo*Xj&new=1)
- > &quot; 中金公司（CICC）发布了一份长达 71 页的人工智能的证券研究报告《人工智能时代，10 年之后我们还能干什么？》。对全球特别是中国企业当下的人工智能态势作了全面的介绍：包括 BAT、华为、科大讯飞、海康威视...
- ## [华为运营商业务已成内部改革重点 被传2万员工将转岗至消费者业务](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=G2cFAwaWP3mmL0zuIaVVyVl0Zz6ic0FL4y0-NjS*c4u2eJVd3yImJQG5PMcbUvXtODwEEHeeEchBkz2agv-wsEjbmR5W3hIfDsmGMF7o-RZs3zqQiSEueDqxsU0i42YZ&new=1)
- > 据媒体报道，华为运营商业务（CNBG）启动改革后的第一波计划已经出炉，预计将有2万名员工被转岗至消费者业务（CBG）。运营商业务收入的下滑也是这波改革的一大因素。根据华为3月29日发布的2018年年报，华为2018...
- ## [业界知名大佬炒比特币都被收割：软银创始人孙正义投资比特币亏损高达1.3亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=4EdizcxAhTowdSZnImDTjyVmGrW-GsToCRuWo6P67GttgbrNFss91GI0nqEOI6YskV*ENzRv6SLn46DpzLSpwHBqZakNkyXrb226LZGP4EDbJI118WMlwV0XEvLucOJm&new=1)
- > 点赞是一种动力 分享是一种美德软银创始人孙正义早期投资雅虎和阿里巴巴均获得巨大成功，可以说孙正义在业界也算是个大庄级别的人物。然而日前有媒体披露孙正义个人投资比特币亏损高达1.3 亿美元，按当前汇率计...
- ## [中国移动首季净利同比下滑8.3%：5G热浪中的丝丝凉意](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=*Aqrv4nJlbjvc*PPoJf6odRRqku42ZMDOljwImSr7tvIBt-BiYvitHZtLMtqfK8BTo844bhE8eJSNdnwtqvGp0yNtUNitPU203KFBC7wtwk*6wA-0JcFbVjsq0rX8z8l&new=1)
- > 在5G商用在即，全社会、各行业对5G商用热情高涨的时候，本应该是5G建设主力中的主力的中国移动发布了给行业带来十足凉意的2019年一季度财报。财报显示，一季度，中国移动营运收入1850亿元，同比下降0.3%；利润23...
- ## [盛泰科技：3D打印快速成型玩具模型](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=nhIVRrTv5eW-4qnCx6GtPT-brB3CUU06k1Tm3UG24AOLRhyUmfCKpTOtKpL8AAr327SIgBfhiAeAuiRJH1JfEiPO9WwPsldWVnoyANnrvo9qjFixzJMFJn0jjq4DXL5Z&new=1)
+ ## [盛泰科技：3D打印快速成型玩具模型](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=nhIVRrTv5eW-4qnCx6GtPT-brB3CUU06k1Tm3UG24AM8QdDdW25OSZ0mW6tFD2IIOpkdQuQKM14CvUDIsj*IK-va*zZ6CADbGpnCD44ZbnqMg3uGQRmsTHwrC27StP65&new=1)
  > 3D打印的快速发展，能够在快速且准确表达设计思想和产品功能的同时，让设计师拥有无限的设计空间。一体成型，让很多复杂的设计展品能够更整体化，避免了衔接、镶嵌等传统工艺的弊端。在精确实体复制方面，更多的...
- ## [重磅|FreeBuf《2019企业安全威胁统一应对指南》即将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=3N5W4IJlzcXom00FN*1r5th-9y*JZRLC8-1ajTcbzuV-59otagf5k-c*Pzo915707ixCQcl*i2hzFXngNPWKwIZ-SFgyk37v2NrgCXWw1rFw4mG8GC-WP*kPMfn8JxRH&new=1)
- > 把握行业动态，展望行业发展，了解企业安全体系架构与威胁应对流程，是企业保障业务安全、应对威胁、确保稳定发展的关键。近一年，网络安全相关的政策法律陆续出台落实、技术投入应用、网络安全事件频发，带动网...
- ## [移动终端产业评析&5G终端测试新态势|PPT](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=15T3i-nUcH2qiaznVfcZAEWzhNwP64TUYXY7QAT8A2vCQ4Kc3z-svz6d5oLel8bI91HyE*1dGA0Usjh41vJmEQ6RuOp4EHx-nsgc4DLI3shJyasKhLzKs1QUWuphDanL&new=1)
- > 2019年4月12日，中国信息通信研究院泰尔终端实验室和是德科技联合主办的“2019泰尔论坛——5G终端测试技术研讨会”在京成功举办。论坛邀请到国际认证机构、国际标准化组织、行业领先企业的多位权威技术专家，共...
- ## [工信部喊话三大运营商，把通信这件事情给老百姓做好!](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=SazFYmtEr4SSwp3fdQOhuKj0YoNnMHDJqgiqs1wewe-b1vK5QuXNuUKlm6ABuRzO9jJZeITbzwJifGA9qVPK4mucreUmZ4RRf5cQ75-jLyWsr4yRrQDAResmhtVPhHKJ&new=1)
- > 近年来，三大运营商不断的实施提速降费政策：在2016年工信部就要求三大运营商提速降费，主要是对宽带进行提速，对手机套餐、流量进行降价。在2017年，工信部再次要求三大运营商提速降费，各种低价互联网套餐开始...
- ## [22页PPT告诉你5G产业最新投资机会!](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=1Jbc*4F7uybOwTj4WDY1mZP1HHDx4J3TRUTx-QguYFaKpeAw*JWy3N8KEyNQ9v8aR96JJHcrztjqzkv-jNyr6Uj1YIAp5mR-MF039ugj6CHGhxSUHBkJajdkhtpGuQnr&new=1)
- > 来源：全球物联网观察随着5G与下游产业联动和协作相继深入，十万亿级规模5G大生态终将形成。5G产业链将推动四大变革：软件化、超高频大宽带、物联网化、高集成度。同时，5G也将成就边缘计算，进而推动云计算市场...
- ## [\[今日头条\]英国允许华为进入5G基础设施](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=MgdIMb03de9scfodiJgNe2IOYW*o7PcVgl6NXHtSa-Orz04Dkzpwf7UM8ZgaTBWMggnc40ZlLt6Iil9OZKlE5xFoyNbIi6LUGLmgpxFzah2COf578VQfywq9HmV6mRu4&new=1)
- > 4月24日消息，据英媒报道，英国将允许华为在有限的范围内进入英国5G市场。　　据悉，英国国家安全委员会同意允许华为接入像天线这样的5G移动基础设施的“非核心”部分，尽管内阁部长依然有所担心，但此事经...
- ## [5G基站出问题，供货延迟3个月，诺基亚设备怎么了?](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=ljgdpYJl9i-UkPUIyflWzZZ6opiwukVVOwGFglU*97OxMjFKn9G9BEQGKa3qM6xLCKGOwWks3EDktJHqy-a37yuwXPxuCiX5HHesM3pq63Y6OwRH7LXwgbNRoISooWj6&new=1)
- > 【摘要】媒体：由于诺基亚5G设备在互操作性测试和大规模流量处理方面出现问题，导致供货推迟3个月，拖累了韩国5G建设进度。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文来源：网优雇佣军（hr_opt）杂谈投稿...
- ## [器件|中际旭创2018年度营收51.56亿 位居全球光模块领先地位](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=ltNuYrtBTgK6i8M2ZZnf5Tk66Mjno894rGG82J1C7kqakSAiKdWacypDxAiRRjDoXJPhKgqsYfcdNLGUXJ*Lz90SxG2Do3L3DLW3-uxzaQc2zPgANl*ISQYdjBEcdMpb&new=1)
- > 导读     中际旭创2018年总营收51.56亿元，同比增长118.76%，净利润6.23亿元，同比增长285.82%。受数据中心领域及无线通信领域建设两大驱动因素影响，光模块业务子公司苏州旭创进一步巩固了市场份额，继续保持在...
- ## [猎户星空王兵：可靠又便宜?什么样的服务机器人“真有用”](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=LZRI**WWM4911o0s8I0oCPLS4*qzsKqWMoGNfXhkZ7gbypOjXGpLoIP9FQHzcvhxEVKCWbYoVTU85Xw8yaeVV*KvEtijFKaPeCqKMie7CwbffOHlyaWLBC6QjcmdX1ql&new=1)
- > 动点科技 | ID：technode以后人人都可以有一个机器人?“本质上是没问题的，以后女孩子逛街完全可以让一个机器人帮忙拎东西。”猎户星空首席战略官王兵（Bruce Wang）笑笑说。“技术已经可实现，只要成本降下来就...
- ## [美国掀起第一波5G部署浪潮](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=3CJSFo93zcAo3yoBGkQKk59N8JTh7m2BVDJkw-HB3UNjzFrMRzFyy0uef3rwDq970X66bN0-4HkCQRmpZu1QNbkGuIOQNBdg*zFh21QZHV0NyDl3XMg3gqabOtk*4vCD&new=1)
- > 美国5G冲刺已经开始，但目前只有一小部分人能够使用该技术，同时能使用5G技术的设备更是少之又少。从这些方面以及实现大众市场的目标来看，这仅是一场马拉松，而非冲刺。美国最大的两家网络运营商（AT&amp;T和Verizo...
- ## [海外同行首次大规模声援996.ICU，微软和GitHub员工签署联名信，一夜4700星](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=7Edx2bf7tN077KkiUcESR9lMC6AlNI1UyL*Q-aUXezy-l6Skh1lglF0E-TtKMvDUXBuSeuYuQEDSobvtFKNaXvmmoujWHQqPL629G*yn2misSZsg71iYIaGc*eMc1pzk&new=1)
- > 乾明 发自 凹非寺 转自量子位 | 公众号 QbitAI一夜之间，又一个关于996的项目登顶GitHub趋势榜。这次，是来自150名微软和GitHub员工的力量，也是海外公司的员工首次规模化声援996.ICU。他们发布联名信表示，决定...
- ## [3D sensing市场加速爆发，TOF和结构光谁将更胜一筹?](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=neY97BRxX64zce0YKP-GLjsgAQ8CjWVauzVIrJlU7iBW1HxkOzZZ0c-*ptB*SHAGfnG5DpLytYh9Rg4i7JGf7a2QySl1ShnQTF6BpqjNrsnkr4YnznCqC-4k1v2FrznD&new=1)
- > 2017年9月，苹果推出了全球首款搭载3D结构光技术的智能手机——iPhone X，并且以实现了3D人脸识别Face ID彻底取代了Touch ID指纹识别，随后众多手机大厂开始跟进，3D sensing市场被彻底引爆。根据第三方权威市调...
- ## [桌面上云好处多，安全无忧听我说!](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=r19EpRO9f20f1n2aYZnXnCi8EiwQ0BZtxwOrNRCKIIvcVTpBqchxoXnN7*aMnIYJdlBsZVUaZMQkis2FFFncccWJueRF5*41*4Qa2uEQS1YEMtfZiHevy6sQGyQDJeE5&new=1)
- > 销售部门是企业的龙头，是企业最直接的效益实现者，在企业中具有举足轻重的地位。而销售部门内部有着大量的客户资料、供应商信息等企业的核心机密，该数据的重要性对企业来说不言而喻，如何保证数据不丢失、不泄...
- ## [7点见|史玉柱被警方带走?巨人网络辟谣；华为否认2万人内部转岗；贾跃亭又有7.9亿被冻结](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=z3ibJaiiqz11M6XE56tBjPaU2weQUD5swVml9*M9jNNHt4utJBvkqNliu5k-tZu4e0DZ6OXPrekQK218R8W8BEunbk5rYHAZ-BFcnxSsGjbKkZrHgJeOLRln1SXl6Ehz&new=1)
+ ## [7点见|史玉柱被警方带走?巨人网络辟谣；华为否认2万人内部转岗；贾跃亭又有7.9亿被冻结](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=z3ibJaiiqz11M6XE56tBjPaU2weQUD5swVml9*M9jNPwsLd7JJcUgs3xevoSdsTMgmdjajFQhuHH2hWPjMlqh1IBpFR6693W5Qy02hxdkn4wyMdqnIFVIxBDVo50mA--&new=1)
  > 关键时刻，第一时间送达各位小伙伴们，星期四早上好呀！早起上班辛苦啦！今天也要努力加油哦~接下来，一起来看看小七为您准备的今日早报吧~（腾讯科技与海豚智音APP联合出品）巨人网络官方声明：“史玉柱被警察...
- ## [穿越未来的王煜全，在前哨大会分享了哪些硬核科技趋势?](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=nf0lSgiUhCw8EQz2h-D6lseBhD8qi9JRS2r4ukI7900Scs-xpUSDAQnpyufKAaBscen2IQMD5XobpeB1NqGa10o10U-viMUld8weSVkoLq4wIT8NNkIV*My*kMPHD25H&new=1)
+ ## [华为“方舟编译器”到底是啥?一文看懂TA如何让手机性能再突破](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=CtwBBmtU*9W-KF5ZRS4PtbCduz5hnhCvHhbmD9ALzc5XJ9HrBtLn0uPbv0zZpLXHSa-DQy2zdESeNXW4qaoNQjA1**UDRbOzQyu0jIZTNoOGFQq0576*ivokRu-t-S-G&new=1)
+ > 在华为春季发布盛典上，除了“HUAWEI P30”还有一个词也火了一把，那就是全新黑科技——“华为方舟编译器”！先花一分钟，戳视频简单了解下方舟编译器虽然是在4月11日首次与大家见面的应用编译技术，但其实华为...
+ ## [工信部喊话三大运营商，把通信这件事情给老百姓做好!](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=SazFYmtEr4SSwp3fdQOhuKj0YoNnMHDJqgiqs1wewe*zo2v2V8quWZyr5kQFauSllb9WbU3KLLOXp6CroHh7qZCHJpUGcpDr-d-rbBRFSy*ENaufe19L*Z8luXXWgkmY&new=1)
+ > 近年来，三大运营商不断的实施提速降费政策：在2016年工信部就要求三大运营商提速降费，主要是对宽带进行提速，对手机套餐、流量进行降价。在2017年，工信部再次要求三大运营商提速降费，各种低价互联网套餐开始...
+ ## [穿越未来的王煜全，在前哨大会分享了哪些硬核科技趋势?](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=nf0lSgiUhCw8EQz2h-D6lseBhD8qi9JRS2r4ukI7903wlNTIdFC12ZgScmvERARoGfYXNKKw-tNI*kqLBRREtFjG1397cBM2-0eHMMSwVDLuvUW0DLgsMYdw*fuN9nYz&new=1)
  > “我走过我们人生的一半旅程，却又步入一片黑暗的森林，这是因为我迷失了正确的路径。”——这是英国诗人但丁《神曲》里的诗句，黑暗森林是黑暗欧洲中世纪的写照，也是理性时代到来前的迷茫。刘慈欣在《三体》引...
- ## [微软公有云入华五年：稳步增长靠的是创新之耐力](http://mp.weixin.qq.com/s?src=11&timestamp=1556164807&ver=1567&signature=DwWqQMbDQ-j2X*6--BbNLPwGTBDzLNJxxYrYQsiyXJY2mLn7gNYUdbPfQmEauvmzG5vWD-QWp76H9KVjg4P-4xvvlGAwdrrk9f6W*NS1pRi6jSf6syZQTaJp*dVZhltn&new=1)
+ ## [美国掀起第一波5G部署浪潮](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=3CJSFo93zcAo3yoBGkQKk59N8JTh7m2BVDJkw-HB3UMGNvhubwZEwgKVQI1xvBUktPSVEbIIECcQvwV2VTsMEw5s0mKvO*CXf7HOegitBqCFk6XRfu-bj9FC7OP7AeET&new=1)
+ > 美国5G冲刺已经开始，但目前只有一小部分人能够使用该技术，同时能使用5G技术的设备更是少之又少。从这些方面以及实现大众市场的目标来看，这仅是一场马拉松，而非冲刺。美国最大的两家网络运营商（AT&amp;T和Verizo...
+ ## [\[报告\]2019中国移动出行市场现状及发展(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=V4u0MmBbqxmIP1sstzY6fKCD4jqTGPolNOncxwOcOU0WsKbvBpu-jlo8MgjXuIML*WgjN1eM0rEDKLO*yvlpg2TAn91R1HperRO0QM61W71zyIGLOMiEmlaWRdPRnaYw&new=1)
+ > 近年来，国内的移动出行方式发生了很多变化。在互联网普及、共享经济的盛行下，移动出行从公交车、地铁等大众交通工具发展至如今的网联车、汽车租赁、拼车等方式。整体来看，目前移动出行新业态下主要有营运租赁...
+ ## [2019 Nibiru XR与5G行业方案研讨会近日于南京圆满举行](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=Y1gkFY4-pf77-rkrkX**yK20Cn7nAoYybdIGgEPnhB7uutNnrVmD7Dp-SYWReeArXe9d0efh2rszENVZdGHitaC*IxmIB1DBIsfABklhk-SitT9j*b-epzh4IjALmPdU&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱南京软件谷·Qualcomm 中国联合创新中心举办的 2019 XR 与 5G 行业方案研讨会于近日在南京圆满举行。本次研讨会围绕“...
+ ## [猎户星空王兵：可靠又便宜?什么样的服务机器人“真有用”](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=LZRI**WWM4911o0s8I0oCPLS4*qzsKqWMoGNfXhkZ7hQOFvetCQ0xEJWMsqofniPAMmTn8gBT1xYnbQkGUywUZxSAW-KvIOsYsA0wYO8IVqdeTPSL2MWfAB5-4tgXdMz&new=1)
+ > 动点科技 | ID：technode以后人人都可以有一个机器人?“本质上是没问题的，以后女孩子逛街完全可以让一个机器人帮忙拎东西。”猎户星空首席战略官王兵（Bruce Wang）笑笑说。“技术已经可实现，只要成本降下来就...
+ ## [微软公有云入华五年：稳步增长靠的是创新之耐力](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=DwWqQMbDQ-j2X*6--BbNLPwGTBDzLNJxxYrYQsiyXJaub8gp44jMXk3mB*0vbLBNIIu0M-ktVsfYf2LFP6d2bqbt3kNnNiZQ0CoJP8hs1D-nUmyzQcJh9NmpkOvgptqa&new=1)
  > 独行快，众行远。微软每赚到1元钱，生态上的合作伙伴可以赚到9元钱。同时，生态链条还在快速发展中，1:9的比例还将不断被扩大——这就是生态的价值。文 | 懂懂  编辑 | 秦言来源：懂懂笔记对于很多企业来说，仔...
+ ## [重磅!5G来了!中国联通发布全新5G品牌标识!](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=srZH9oYZmqQ*F8OGkUv0fo5MmtCJRL3eyLZOvO59dDZhy4P-RxEq*0eGckV-txWtV*F8ekK-MX4TfhNIbC5ojzsDctfNVjzopAFbF0bo*UfxwjxSvcEUWcCE1Bpor76r&new=1)
+ > 万众瞩目的2019上海5G创新发展峰会暨中国联通全球产业链合作伙伴大会于4月23日在上海世博中心拉开帷幕！联通5G，共见未来5Gⁿ，让未来生长！本次大会以“联通5G，共见未来”为主题，逾三千名来自全球知名电信运...
+ ## [联通eSIM再加速!与安全芯片巨头紫光国微达成战略合作](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=CUEAt5UzNoGEViho9w-Qi6uknFmj0nIMsjtuMgau9ym-xJJ9dDgdxHvGn-pn6EI*Xp8o*S9F-ODYmfd58FOyBahdVlKchlUaA8arObIf6zgXs-m7iCVypeyiq5XH7rvt&new=1)
+ > 4月24日，中国联通合作伙伴大会期间，紫光国微与中国联通就共同探索eSIM发展新模式进行了友好协商，并同意建立长期的战略合作关系，互为重要合作伙伴。 在战略合作框架下，紫光国微和联通华盛将在互惠互利的基础...
+ ## [移动终端产业评析&5G终端测试新态势|PPT](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=15T3i-nUcH2qiaznVfcZAEWzhNwP64TUYXY7QAT8A2vIncPe8-Yn3kpYtJ3YRqscrg-LDgAu6N5BSfzmuDva5eaIzwtZTVaVXvQy7V6IwE9Sq-WgDXlW15b9YMkI4uvs&new=1)
+ > 2019年4月12日，中国信息通信研究院泰尔终端实验室和是德科技联合主办的“2019泰尔论坛——5G终端测试技术研讨会”在京成功举办。论坛邀请到国际认证机构、国际标准化组织、行业领先企业的多位权威技术专家，共...
+ ## [闻泰科技与宝信软件深化5G合作，5G制造落户中国宝武](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=neY97BRxX64zce0YKP-GLjsgAQ8CjWVauzVIrJlU7iAyz0r10oxYggOqJX6vpLwlPyTyoGcXDaWZ83SfONUF1kBiPGRJQfhEGbaMrFPs2edW4G8QPAepvHDTT0DejDET&new=1)
+ > 4月24日，闻泰科技（股票代码：600745）与宝信软件（股票代码：600845）在中国宝武大厦签署战略合作协议，计划在全球率先将基于5G的产业物联网部署于中国最大钢铁企业中国宝武钢铁集团有限公司，用5G制造推动传...
+ ## [BF-9300 BTX创建型警用(PDT)集群系统](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=J0HvD60xVMpwq5VbRkY9j6wPshFYvJYzrJjXQV2ivTemgH2ixrhQRr2WEXap4QMk-Ng8jPhBtIlvQXO4-uBkEiThcinazhxFDRINH2mB7hBiSN0D9Cn1qsIhjU2zAHLA&new=1)
+ > 一、背景概述随着经济的发展、城镇建设速度加快，新型城市化、新型工业化快速发展，生产安全事件、社会安全事件也呈现上升的趋势。为减少突发事件及其所造成的伤亡和损失，保障人民的生命财产安全，需要对突发事...
+ ## [桌面上云好处多，安全无忧听我说!](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=r19EpRO9f20f1n2aYZnXnCi8EiwQ0BZtxwOrNRCKIIuNpNhPDrnacoBeD2J4veFno1Pf-7D1MZBH1ToWxyQoe7v9LcUkD7f1mAxeqSEQ50UOrOrers6zi8qm8*RTIo0d&new=1)
+ > 销售部门是企业的龙头，是企业最直接的效益实现者，在企业中具有举足轻重的地位。而销售部门内部有着大量的客户资料、供应商信息等企业的核心机密，该数据的重要性对企业来说不言而喻，如何保证数据不丢失、不泄...
+ ## [官宣，第一批5G实验网来了，抢先体验!](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=hQqj3emNIE9Ygr4YBDboU5XUwT8oeUIAwqUqlVDyLFmi0fCGVXWiD0Ot6yq5eYIKnhYvtjiv4JXihDXS4atOT4hJYoBhGLS7gZextyXe6AeDkhoItNnNMbswnhTVs*9d&new=1)
+ > 大家晚上好，这里是玩机课堂。在昨天联通董事长宣布，将在7个城市正式开通5G实验网，终于可以体验5G了。这7个城市分别为北京、上海、广州、深圳、南京、杭州、雄安7个城市。要想用上5G，需要5G终端和5G网络的支...
+ ## [当知识产权案件遭遇更多新科技，不怕，他们强强联手了!](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=gHjyhmiqlbIw*ML33tKj2dwiea4Eb8wutpqUKO97C*bqtbKSZ468EtSeoQ*6k-4NvtLu1UE962bxWrSEkH4-BoQg8BXddgUUmK7kjCb7V8OiWKB8RlSxOTe9j18G5hg9&new=1)
+ > 在“世界知识产权日”即将到来之际，上海知识产权法院和上海市科协4月24日在上海科学会堂联合举办“涉科技创新知识产权案件审判情况通报暨科创企业和科技工作者知识产权保护座谈会”，不仅有2017-2018年专利...
+ ## [多国政府网络受恶意TeamViewer攻击，黑客疑为俄罗斯人](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=kOx7Z2ZRYwtK1gUraaNv2PZGthHwh7ztn-Si4qzHwHK9C1K1rI5yiWXrfmvnfpm5uSP8eFCcC93QA8f7o8x6wk7iZ1w6vmP-F3UybtEg1DY7YeFGRafkAmSZSiWfvqS2&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：TeamViewer最近成为了黑客攻击的利器。近日，俄罗斯黑客出于经济动机，对多国公共财政部门和政府官员发起了网络攻击。据外媒报道，研究人员发现，俄...
+ ## [深圳升华三维：间接金属3D打印最早探索者，性能已赶超国外](http://mp.weixin.qq.com/s?src=11&timestamp=1556182805&ver=1567&signature=4voLBRMOAYUVtfUuVpPlI4fn75sZqUqdv9N9zMdM60AwQWld6BWDQ5Mh7HLa1-TyJVvow1PHM35wD6LTJWd5WvLZT*VY5l955v53OAeTfQggUZsZiFgFRfHUAjWWxjJj&new=1)
+ > 近年来，金属3D打印行业高速增长，迎来百花齐放的时代，同时也诞生出两大技术流派：“直接金属3D打印” 和 “间接金属3D打印”。美国估值15亿美金的独角兽Desktop Metal无疑是间接金属3D打印的代表企业。国内最...
+ ## [在工业界和学术界中数据库的研究热点是什么？](https://www.zhihu.com/question/318554064)
+ > 数据库的研究热点在工业界和学术界的步伐并没有多大差距。OLTP这一块大的方向基本上都在思考和实践怎么从单机转到分布式(也就是现在所谓的NewSQL)，一些子方向无非是分布式事务、各种Paxos/Raft协议的变种...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 并不是所有的操作系统都用扩展名来标识文件类型……同时扩展名事实上也非常混乱，htm和html表示的都是HTML文档，jpeg和jpg都是JPEG图片格式，等等……最后，浏览器所使用的URL（统一资源定位符），根本就...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
- ## [某人意外去世后，家人如何知道他做了哪些互联网投资并拿回钱？](https://www.zhihu.com/question/25817086)
- > 一、我们先来看银行存款首先，他们是不会主动告诉当事人亲属：你家谁谁在我家银行账户还有钱。当事人出现意外，如果家属知道有钱存银行的情况下：家属可以去公证处，开一个查询银行存款函，查处死者在银行的存款。然...
- ## [在小红书要怎么推广，才能使效果收益最大化？](https://www.zhihu.com/question/286848225)
- > 收益最大化即为性价比最高！其实说白了也就是怎样把钱都花在刀刃上。接下来我会以一个面膜产品商家的身份去解决问题！我的面膜产品特点：补水，祛皱，保湿，燕窝！价格中等，但是是一个新研发的一个品牌，正打算打入...
- ## [互联网产品经理分析产品的思路是什么？](https://www.zhihu.com/question/19638354)
- > 产品分析包含对产品需求定位的分析、对产品的拆解、对分析产品数据表现的分析、跟竞品的对比，最后一定一定要得出你的结论。我之前写过一篇产品分析，希望我的产品分析思路对你有帮助。原文如下：2016年被称为知识付...
  ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
  > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
  > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
- ## [如何看待物联网工程这个专业？](https://www.zhihu.com/question/311966992)
- > 可以学，毕竟大部分学校都属于计算机大类，但需要注意很多问题。物联网不应该，也没办法成为一个具体的专业很多院校在专业设置方面存在盲目、浮躁，喜欢抓热点的误区，经常性的把一些热门行业，热门方向，甚至没有明...
  ## [关于javascript的原型链问题？](https://www.zhihu.com/question/26881145)
  > 知乎只能上传15分钟，完整版在我的《每日一题》第 12 课。每日一题重制版（持续更新中） - 写代码啦！
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
  ## [转行互联网运营工作，该从那个运营岗位开始比较好？](https://www.zhihu.com/question/278470930)
  > 首先你要知道什么叫运营，比如说产品运营，从产品生产的技术，成品，宣传，推广，销售，售后等环节，是一环扣一环，少了任何一环都不可以。简单理解是你如何将产品卖给更多消费者。其次你需要了解运营者具备哪些能力...
+ ## [最近流行的「我倒，你也网上冲浪啊」到底是什么梗？](https://www.zhihu.com/question/63563293)
+ > 都没答到点上，其实这些过时流行语重新被使用的真正的含义是嘲讽一个人的后知后觉。你以为你得到了第一手消息，迫不及待分享给大家，结果发现大家早就知道了，这时候我们就可以用来嘲讽你：你也上网冲浪啊！评论最欢...
  ## [你的佳能eos R 使用体验如何？](https://www.zhihu.com/question/320427109)
  > 长时间用过EOS 5D Mark II/III，现在还有一台EOS 5D Mark IV在使用中。EOS 7D和EOS 7D Mark II在写完书之后就没再碰过，所有的细节都太熟了，腻了。EOS-1DX和EOS-1DX Mark I...
  ## [《最好的我们》里，韩叙从来没喜欢过简单吗？](https://www.zhihu.com/question/68222189)
  > 我觉得韩叙什么都可以做，唯独不能那么理直气壮的一直接受简单对他的好，他一点都不回报，每天简单对他一切生活的照顾，都是用自己的生活资源给他的，少年时代就是分给你多点，我就少一点，宁愿我委屈点，你一定要开...
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
- ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
- > 据我所知截至2018年8月（最后一次聊到这个事），只要入职超过3个月的辅警，都是可以查的，而且住宿信息是全国联网的。如果被当事人投诉，100%能查到是谁查的这个信息，处分会很重，辅警直接走人。但目测你这个情况被...
+ ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
+ > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 社交开源的程序可以参考目前市场上比较稳定的thinksns，这个程序有8年了，ThinkSNS采用PHP+MySQL技术平台，社交核心+多应用+多插件机制。通过应用、插件、风格包等机制扩展功能，支持全平台。拥有IOS、...
  ## [产品经理这个职位，美国和中国有哪些差别？](https://www.zhihu.com/question/19762650)
  > 中国的产品经理：当我开始找工作的时候，运营？太累了设计？太复杂程序员？要加班客服？我这暴脾气于是我辗转反侧，刷着几家招聘启事，恩？产品经理这个职业不错。不用会开发、不用会设计、不用任何硬性技能还能叫经...
  ## [互联网时代，消费者的品牌忠诚度会下降吗？会转向渠道忠诚吗？](https://www.zhihu.com/question/47972819)
  > 来，我再交个公粮，哦不，作业。互联网时代，消费者的品牌忠诚度会下降吗？答：不一定。关于这个问题的一个基本事实是，在原有的线下品牌中，按照每个品牌原有market share的大小，能够画出一条红线。对这条红线以上...
+ ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
+ > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
+ ## [如何理解马化腾说「黑公关近两个月突然爆发，是时候挖根源了」？](https://www.zhihu.com/question/281753006)
+ > 甲方这样改稿子真是够了，修订模式会不会用 …
 # IT 技术 
  ## [Kafka是靠什么机制保持高可靠，高可用的？](http://developer.51cto.com/art/201904/595538.htm)
  > Kafka是靠什么机制保持高可靠，高可用的？
@@ -159,70 +159,98 @@ SpaceX&#40857;&#39134;&#33337;&#30097;&#20284;&#22312;&#24341;&#25806;&#27979;&#
  > 案例分享：一封邮件如何影响整个邮件服务的解析
  ## [OpenAI新研究补齐Transformer短板，将可预测序列长度提高30倍](http://zhuanlan.51cto.com/art/201904/595547.htm)
  > OpenAI新研究补齐Transformer短板，将可预测序列长度提高30倍
+ ## [Facebook F4架构解读：千亿级图片存储Haystack的演进](http://stor.51cto.com/art/201904/595479.htm)
+ > Facebook F4架构解读：千亿级图片存储Haystack的演进
  ## [如何删除每次关机时生成的Windows 10分页文件？](http://os.51cto.com/art/201904/595459.htm)
  > 如何删除每次关机时生成的Windows 10分页文件？
+ ## [如何同时ping 1000个IP ？一个小技巧节约N小时！](http://network.51cto.com/art/201904/595517.htm)
+ > 如何同时ping 1000个IP ？一个小技巧节约N小时！
  ## [宜人贷蜂巢API网关技术解密之Netty使用实践](http://zhuanlan.51cto.com/art/201904/595520.htm)
  > 宜人贷蜂巢API网关技术解密之Netty使用实践
  ## [值得关注！这十款革命性的AR应用](http://mobile.51cto.com/vrar-595468.htm)
  > 值得关注！这十款革命性的AR应用
- ## [开个脑洞：如果让复联来响应安全事故](http://netsecurity.51cto.com/art/201904/595473.htm)
- > 开个脑洞：如果让复联来响应安全事故
- ## [三星Galaxy Fold因何悲剧？知名拆解机构iFixit给出了他们的看法](http://mobile.51cto.com/news-595504.htm)
- > 三星Galaxy Fold因何悲剧？知名拆解机构iFixit给出了他们的看法
- ## [JavaScript已经从浏览器中脱颖而出，成为一种通用的编程语言](http://developer.51cto.com/art/201904/595553.htm)
- > 传统上，JavaScript都是关于Web开发的，但一项新的调查显示，它正在打破这种束缚，成为移动应用程序开发中
- ## [Chrome 74浏览器正式版发布：支持Windows 10原生暗色模式](http://os.51cto.com/art/201904/595552.htm)
- > 谷歌面向全平台发布了Chrome 74正式版，涵盖Windows, Mac, Linux, Android和iOS。对于Windows 10用户来说，
- ## [各种实用的PHP开源库，哪一款是你需要的？](http://os.51cto.com/art/201904/595551.htm)
- > 在过去的十年，云计算代表了企业IT中最具颠覆性的一种趋势，安全团队在转型过程中并没有摆脱“混乱”。对于
- ## [分库分表？如何做到永不迁移数据和避免热点？](http://database.51cto.com/art/201904/595550.htm)
- > 中大型项目中，一旦遇到数据量比较大，小伙伴应该都知道就应该对数据进行拆分了。有垂直和水平两种。垂直拆
- ## [Rancher推出k3OS：业界首个Kubernetes操作系统，领跑边缘计算生态](http://cloud.51cto.com/art/201904/595546.htm)
- > 业界领先的容器软件提供商Rancher Labs（以下简称Rancher）正式发布k3OS，这是业界首个专为Kubernetes而生
- ## [一款Android热点APP 竟出卖200多万WiFi密码？](http://network.51cto.com/art/201904/595545.htm)
- > 近日获悉，一款名为“WiFi Finder”的Android热点搜寻APP，暴露了200多万个网络的Wi-Fi密码。
- ## [可能这些是你想要的H5软键盘兼容方案](http://developer.51cto.com/art/201904/595548.htm)
- > 最近一段时间在做 H5 聊天项目，踩过其中一大坑：输入框获取焦点，软键盘弹起，要求输入框吸附（或顶）在输
- ## [边缘计算已达到高潮！看三大运营商如何打好边缘战](http://network.51cto.com/art/201904/595544.htm)
- > 边缘计算是指在网络边缘节点来处理、分析数据。那么，为什么边缘计算在最近几年的时间内登上了“快车道”，
- ## [打造人工智能领域的嘉年华！WOT2019全球技术峰会即将重磅登场](http://news.51cto.com/art/201904/595542.htm)
- > 2019年6月21日-22日，WOT2019全球技术峰会暨全球人工智能技术峰会将在北京粤财JW万豪酒店隆重举行，作为201
- ## [如何 SSH 到 Linux 服务器里的特定目录及执行命令？](http://server.51cto.com/sOS-595541.htm)
- > 你是不是有遇到过这样的场景?使用 SSH 命令进入到服务器，然后再用 cd 命令进入到对应目录，再继续进行你的
+ ## [Windows 10 大更新要来了，这 16 个新功能告诉你要不要升级](http://news.51cto.com/art/201904/595578.htm)
+ > 经历了漫长的 Insider 测试后，原定于四月推送的 Windows 10 第七个大版本更新终于进入了发布通道。
+ ## [具有前景的深度学习工具一览](http://news.51cto.com/art/201904/595577.htm)
+ > 解决问题往往需要大量工具的支持，深度学习也不例外。要说真有什么区别的话，那就是在不远的将来，用好这一
+ ## [数据库运维技能篇：MySQL常用必备命令详解，整理分享](http://database.51cto.com/art/201904/595574.htm)
+ > 这篇文章主要介绍了MySQL的常用命令集锦,堪称初学者需要掌握的MySQL命令大全,其中系统命令行环境是基于类Un
+ ## [首届云原生产业大会开幕，告诉你真正的云原生机遇与实践](http://cloud.51cto.com/art/201904/595573.htm)
+ > 2019年云原生产业大会(CNIC2019)是由中国信息通信研究院主办，云计算标准和开源推进委员会承办，云计算开源
+ ## [如何让计算机工作环境更便捷？几行简单的命令即可](http://news.51cto.com/art/201904/595579.htm)
+ > 作为一个喜欢便捷环境的人，我总是喜欢改进我的工作方式，将日常的枯燥过程变得「自动化」。在这篇文章中，
+ ## [Kafka竟然不支持读写分离！今天才知道！](http://developer.51cto.com/art/201904/595572.htm)
+ > Kafka竟然不支持读写分离！今天才知道！在 Kafka 中，生产者写入消息、消费者读取消息的操作都是与 lea
+ ## [5G概念被热炒，运营商吃相不要太难看](http://network.51cto.com/art/201904/595568.htm)
+ > 5G自提出以来就受到了极大的关注，各大厂商也争先恐后入场展开角逐。最近随着商用降临，这一概念被媒体炒得
+ ## [AIoT=AI+IoT，背后究竟是谁更需要谁？](http://iot.51cto.com/art/201904/595569.htm)
+ > AIoT是什么?想必“AI+IoT”会是很多人的答案。自去年年初，伴随着BAT、小米、华为、京东、旷视等相继喊出AI
+ ## [5G时代，电信运营商更需加大自主研发队伍建设](http://network.51cto.com/art/201904/595567.htm)
+ > 不论是哪个世纪，人才始终是最珍贵的。企业经营管理最根本的还是人力资源，企业经营管理最难也是最有效的还
+ ## [Spring Boot中如何干掉过多的if else！](http://developer.51cto.com/art/201904/595566.htm)
+ > 这里虚拟一个业务需求，让大家容易理解。假设有一个订单系统，里面的一个功能是根据订单的不同类型作出不同
  ## [Java 跌落神坛！Python 正式登顶世界第一编程语言](https://blog.csdn.net/CSDNedu/article/details/89448051)
  > Java 跌落神坛！Python 正式登顶世界第一编程语言
- ## [虚拟机上连接无线网络的配置](https://blog.csdn.net/qq_36016375/article/details/89036848)
- > 虚拟机上连接无线网络的配置
- ## [Linux下sshd服务及服务管理命令](https://blog.csdn.net/qq_36016375/article/details/88957134)
- > Linux下sshd服务及服务管理命令
- ## [浅谈动态追踪技术](https://blog.csdn.net/pengzhouzhou/article/details/89378074)
- > 浅谈动态追踪技术
- ## [白话运维01：业务，应用，集群，主机](https://blog.csdn.net/weixin_41931602/article/details/89461954)
- > 白话运维01：业务，应用，集群，主机
- ## [从零开始的运维之路](https://blog.csdn.net/host0808/article/details/89334474)
- > 从零开始的运维之路
- ## [设计模式与架构](https://blog.csdn.net/weixin_39487291/article/details/88890336)
- > 设计模式与架构
- ## [微服务架构理解及微服务架构局限性](https://blog.csdn.net/hqs2212586/article/details/89464591)
- > 微服务架构理解及微服务架构局限性
- ## [大数据技术路线-需要掌握的技术](https://blog.csdn.net/zyfdoudou110/article/details/89310975)
- > 大数据技术路线-需要掌握的技术
- ## [Java工程师架构学习—互联网公司分布式集群架构](https://blog.csdn.net/qq_36860032/article/details/89405361)
- > Java工程师架构学习—互联网公司分布式集群架构
- ## [云计算，大数据，人工智能](https://blog.csdn.net/qq_31807385/article/details/84869135)
- > 云计算，大数据，人工智能
- ## [大数据技术有哪些，为什么说云计算能力是大数据的根本！](https://blog.csdn.net/weixin_44386969/article/details/89321627)
- > 大数据技术有哪些，为什么说云计算能力是大数据的根本！
- ## [什么是云计算？云计算学习基础](https://blog.csdn.net/qfxulei/article/details/89155545)
- > 什么是云计算？云计算学习基础
- ## [大数据时代，主要需要什么类型的人才？](https://blog.csdn.net/weixin_44386638/article/details/89321448)
- > 大数据时代，主要需要什么类型的人才？
- ## [Linux下的定时任务和延时任务](https://blog.csdn.net/qq_36016375/article/details/89320898)
- > Linux下的定时任务和延时任务
+ ## [编程语言C/C++（五）](https://blog.csdn.net/weixin_38337616/article/details/88826746)
+ > 编程语言C/C++（五）
+ ## [六西格玛设计DFSS在研发管理中是怎么应用的](https://blog.csdn.net/u011078141/article/details/89397172)
+ > 六西格玛设计DFSS在研发管理中是怎么应用的
+ ## [物联网来临，机器视觉迅猛发展](https://blog.csdn.net/rvsto01/article/details/88977159)
+ > 物联网来临，机器视觉迅猛发展
+ ## [根据物联网提纲提炼的知识点（7）——第八章：物联网的接入和承载](https://blog.csdn.net/weixin_43830248/article/details/89335180)
+ > 根据物联网提纲提炼的知识点（7）——第八章：物联网的接入和承载
+ ## [（三）编程语言和计算机系统的层次](https://blog.csdn.net/CarmenIsOK/article/details/89407878)
+ > （三）编程语言和计算机系统的层次
+ ## [Python由来及编程语言](https://blog.csdn.net/qq_35976427/article/details/88819704)
+ > Python由来及编程语言
+ ## [物联网平台是什么，怎么选择合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/88947341)
+ > 物联网平台是什么，怎么选择合适的物联网平台？
+ ## [云平台 物联网 概念 数据挖掘技术](https://blog.csdn.net/qq_36958104/article/details/89154147)
+ > 云平台 物联网 概念 数据挖掘技术
+ ## [物联网这么火！物联网之下的物联网卡到底是什么样子？](https://blog.csdn.net/qq_40798435/article/details/88974066)
+ > 物联网这么火！物联网之下的物联网卡到底是什么样子？
+ ## [CODING 如何使用 CODING 研发管理系统来敏捷开发](https://blog.csdn.net/CODING_devops/article/details/88819597)
+ > CODING 如何使用 CODING 研发管理系统来敏捷开发
+ ## [如何理解一门编程语言？](https://blog.csdn.net/c710473510/article/details/89181463)
+ > 如何理解一门编程语言？
+ ## [复试 -- 编程语言篇](https://blog.csdn.net/Ronnyz/article/details/89468160)
+ > 复试 -- 编程语言篇
+ ## [浅谈编程语言](https://blog.csdn.net/f2764052703/article/details/88819284)
+ > 浅谈编程语言
+ ## [物联网专业名词](https://blog.csdn.net/xiaoxie920226/article/details/88947275)
+ > 物联网专业名词
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [程序员如何掌握 React 开发的黄金法则？ | 技术头条](https://blog.csdn.net/csdnnews/article/details/89464625)
+ > 本文有关 React 的“黄金法则”只是以一个新的角度，对展示组件和容器组件的现有概念的重新阐述。作者 |Rico Kahler译者 | 苏本如责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：最近，我在开发组件时采用了一种新的思路。这不一定是一种全...
+ ## [互联网并未凉凉，北上广平均年薪超 23 万](https://blog.csdn.net/csdnnews/article/details/89507024)
+ > 作者 | 猎聘大数据研究院本文经授权转载自猎聘网（ID：liepinwang）因“996”而备受争议的互联网行业并没有衰败凋零，反而生命力更加旺盛；千万人想要逃离的一线城市吸金能力势不可挡，薪资领跑全国。金三银四的招聘旺季仍在进行中，就业行情究竟怎么样？猎聘一季度中高端人才报告为您送来...
+ ## [周鸿祎，会是下一个“贾跃亭”吗？](https://blog.csdn.net/csdnnews/article/details/89507026)
+ > 齐向东的自立门户，在外界看来像是兄弟决裂，在周鸿祎口中，这更像是他与这个世界和自己和解的一部分。作者 | 马钺本文经授权转载自创业邦（ID：ichuangyebang）如果是在一年前，你说周鸿祎像贾跃亭，试试看？结果有可能是上演全武行，就像当年他和李彦宏在法院外狭路相...
+ ## [5G 商用时，我们所处的智能城市会是什么样？](https://blog.csdn.net/csdnnews/article/details/89507027)
+ > 智慧城市下的新面貌会是什么样？作者 |Connor Krist译者 | 弯月责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：两周前，我有幸与威瑞森5G实验室的主任Christian Guirnalda讨论了即将到来的超快速5G的一些创新应用。其中有...
+ ## [@996 程序员，ICU 你真的去不起！](https://blog.csdn.net/csdnnews/article/details/89507021)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）来！做个模拟体验。想象你的身体正在冒冷汗，然后出现轻微痉挛，接着眼前一片白，你的眼睛开始暂时性失明；最后开始四肢无力，你无法控制身体，“扑通”一声倒在地板上......是不是想想都觉得晕倒很可怕？然而，中软国际的一...
+ ## [程序员的代码为什么永远写不完？](https://blog.csdn.net/csdnnews/article/details/89507022)
+ > 程序员和常人有着什么样的区别？是否所有的程序员都是天然呆？为何女性程序员的人数要远远少于男性？在本文中，我们将带着种种疑问深入探讨计算机程序员中的文化。作者 |Jennifer Ouellette译者 | 弯月责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为...
  ## [漫画：如何给女朋友解释什么是单例模式？| 技术头条](https://blog.csdn.net/csdnnews/article/details/89507023)
  > 责编| 伍杏玲本文经授权转载自漫话编程（ID：mhcoding）周末了，临近五一劳动节，女朋友还没有想好要去哪里玩，还在看着各种攻略。我则在旁边一边看书默默的心疼着我的钱包。突然女朋友开始发问：什么是单例单例模式，也叫单子模式，是一种常用的软...
+ ## [被“遗弃”的互联网老年人 | 畅言](https://blog.csdn.net/csdnnews/article/details/89477506)
+ > 你有想过，如今熟练使用互联网的成年人将来有一天也可能变成苦苦挣扎的老年人？调查显示，在不久的将来，美国65岁以上的老年人就会成为年龄分组中人数最多的一个组群，而且未来数十年中这种状况将继续保持下去。错过了数字扫盲黄金时代的他们，将面临适应数字文化的困难，同时也会成为网络上各种不法分子的攻击对象...
+ ## [马云：腾讯是阿里的成长伴侣；华为 2 万 CNBG 员工“投奔”余承东；18 岁学生索赔苹果 10 亿美元 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/89507015)
+ > 「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻资讯，让所有技术人，时刻紧跟业界潮流。快讯速知	马云谈与腾讯竞争：只是一个伴侣，不是要打败的对手			华为大改革：2万CNBG员工“投...
+ ## [流量为王，程序员如何打破 8 秒原则？| 技术头条](https://blog.csdn.net/csdnnews/article/details/89507017)
+ > 作者 | 阿文责编| 郭芮对于一个 Web 站点或是一个 APP 应用来说，当用户打开你的站点时，最在乎的并不是你提供的内容有多么的吸引人、内容质量有多么高，因为此时用户还没看见你的提供的内容，那么用户最在乎的是什么呢？是你站点加载速度和访问速度。有研究表明，大多数用户期望的网...
+ ## [取代 JavaScript！Python 成 Stack Overflow 最受质疑编程语言](https://blog.csdn.net/csdnnews/article/details/89507018)
+ > 对于开发人员来说，哪些编程语言最受欢迎？哪些框架、包、函数和方法被提问的次数最多？哪种数据类型使用起来最痛苦？各个编程语言之间的问题有何不同？——本文中汇总了数百万个各个开发领域内的不同问题，挑选了11种最流行的编程语言，进行了最为全面的解读。作者 |Nick Roberts译者 |...
+ ## [Mozilla 重磅推出物联网平台 WebThings！| 极客头条](https://blog.csdn.net/csdnnews/article/details/89507019)
+ > 近几年，物联网成为各行各业和资本争相追逐的风口，而作为物联网产业生态中的关键组成部分，物联网平台也成为科技巨头们战略布局中重要的一环。就国内而言，百度有“天工”智能物联网平台、阿里推出了 Link 物联网平台、腾讯发布了 QQ 物联智能硬件开放平台......从国外市场来看，亚马逊有 AWS ...
+ ## [蒋凡发布2019年天猫战略及目标：未来三年交易规模翻倍](http://www.lanjingtmt.com/news/detail/42221.shtml)
+ > 天猫总裁蒋凡今日宣布，2019年天猫的核心战略包括新客战略、新品战略和旗舰店升级战略。同时，在此基础上，蒋凡提出未来三年天猫线上交易额翻倍的目标。
+ ## [瑞幸没有被冤枉](http://www.lanjingtmt.com/news/detail/42200.shtml)
+ > 颠覆或者打败星巴克做为口号固然可以，但做为一项商业行为，还是要在纳斯达克上市的零售企业，对其判断要加以理性。
+ ## [玩家们各怀鬼胎，乱局之下的新零售如何破冰？](http://www.lanjingtmt.com/news/detail/42219.shtml)
+ > 尽管它能够带给我们丰富的想象，但是，如果我们仅仅只是把新零售看成是一个概念的话，当这股风已过，新零售的发展又将回到原点。
  ## [搜狗诉百度私自篡改浏览器主页损害其权益，索赔100万](http://www.lanjingtmt.com/news/detail/42217.shtml)
  > 据海淀法院网公告称，因浏览器页面跳转篡改问题，搜狗将百度诉至法院索赔100万元。
  ## [Keep 发布多款智能新品，王宁表示工具应服务于社交](http://www.lanjingtmt.com/news/detail/42216.shtml)
@@ -242,57 +270,63 @@ SpaceX&#40857;&#39134;&#33337;&#30097;&#20284;&#22312;&#24341;&#25806;&#27979;&#
  ## [高德、百度等角力高精地图，测绘成本与资质是关键](http://www.lanjingtmt.com/news/detail/42202.shtml)
  > 随着自动驾驶商业化提速，与之配套的导航产业也迎来关键期，其中，高精地图作为导航产业的核心，正迎来一波爆发，一场关于高精地图的争夺战在高德、百度等企业间展开。
 # 人工智能 
- ## [mariadb集群架构](https://blog.csdn.net/PpikachuP/article/details/88852584)
- > mariadb集群架构
- ## [Android开发----实现音乐播放界面（模仿网易云）](https://blog.csdn.net/weixin_39071173/article/details/89400190)
- > Android开发----实现音乐播放界面（模仿网易云）
- ## [Android开发-----RecyclerView线性布局定义高度](https://blog.csdn.net/weixin_39071173/article/details/89379999)
- > Android开发-----RecyclerView线性布局定义高度
- ## [【微服务架构】微服务的简介](https://blog.csdn.net/qq_36525300/article/details/89140915)
- > 【微服务架构】微服务的简介
- ## [微服务架构的挑战](https://blog.csdn.net/shenzhen_zsw/article/details/89399212)
- > 微服务架构的挑战
- ## [移动开发---DES加密解密](https://blog.csdn.net/zhanwei0102/article/details/88966497)
- > 移动开发---DES加密解密
- ## [微服务架构理解及微服务架构局限性](https://blog.csdn.net/hqs2212586/article/details/89464591)
- > 微服务架构理解及微服务架构局限性
- ## [移动开发---AES加密解密](https://blog.csdn.net/zhanwei0102/article/details/88963699)
- > 移动开发---AES加密解密
- ## [分布式服务架构原理、设计](https://blog.csdn.net/qq_38105384/article/details/89326579)
- > 分布式服务架构原理、设计
- ## [轻松搞定表白女朋友：Android版软件 （零基础也可直接下载软件）](https://blog.csdn.net/Geeksongs/article/details/89368852)
- > 轻松搞定表白女朋友：Android版软件 （零基础也可直接下载软件）
- ## [Flutter实现网络请求](https://blog.csdn.net/u010221508/article/details/88834127)
- > Flutter实现网络请求
- ## [App Inventor学习环境搭建](https://blog.csdn.net/binbinqin/article/details/88675958)
- > App Inventor学习环境搭建
- ## [20190408每周精品之淘宝](https://blog.csdn.net/huawangxin/article/details/89418168)
- > 20190408每周精品之淘宝
- ## [linux基本指令的使用。cd、ls、文件查看、wc、历史命令调、命令用法查询、通配符](https://blog.csdn.net/qq_36016375/article/details/88805791)
- > linux基本指令的使用。cd、ls、文件查看、wc、历史命令调、命令用法查询、通配符
- ## [移动开发还有未来吗？](https://blog.csdn.net/weixin_43902172/article/details/88878294)
- > 移动开发还有未来吗？
+ ## [编程语言C/C++（五）](https://blog.csdn.net/weixin_38337616/article/details/88826746)
+ > 编程语言C/C++（五）
+ ## [什么是人工智能，人工智能的求职条件是什么？](https://blog.csdn.net/zhinengxuexi/article/details/88893136)
+ > 什么是人工智能，人工智能的求职条件是什么？
+ ## [当人工智能走进工厂](https://blog.csdn.net/adsd165/article/details/89177312)
+ > 当人工智能走进工厂
+ ## [（三）编程语言和计算机系统的层次](https://blog.csdn.net/CarmenIsOK/article/details/89407878)
+ > （三）编程语言和计算机系统的层次
+ ## [人工智能--框架表示法](https://blog.csdn.net/hjc256/article/details/88858261)
+ > 人工智能--框架表示法
+ ## [人工智能与大数据·](https://blog.csdn.net/qq_41183113/article/details/89385777)
+ > 人工智能与大数据·
+ ## [java游戏开发杂谈 - 事件处理](https://blog.csdn.net/chaohi/article/details/89148526)
+ > java游戏开发杂谈 - 事件处理
+ ## [浅谈编程语言](https://blog.csdn.net/f2764052703/article/details/88819284)
+ > 浅谈编程语言
+ ## [人工智能 | 自动驾驶与人工智能前沿研究报告（人才篇）](https://blog.csdn.net/u011344545/article/details/89432856)
+ > 人工智能 | 自动驾驶与人工智能前沿研究报告（人才篇）
+ ## [html不是编程语言？](https://blog.csdn.net/ZIYUSHUO/article/details/89033035)
+ > html不是编程语言？
+ ## [人工智能 —— 归结演绎推理](https://blog.csdn.net/starter_____/article/details/88797385)
+ > 人工智能 —— 归结演绎推理
+ ## [约局模式棋牌游戏开发成2019风向标 力图精细化可持续发展](https://blog.csdn.net/motianyoukeji/article/details/88891988)
+ > 约局模式棋牌游戏开发成2019风向标 力图精细化可持续发展
+ ## [常用编程语言 类型转换函数](https://blog.csdn.net/qq_35543858/article/details/88827603)
+ > 常用编程语言 类型转换函数
+ ## [编程语言大战三百回合](https://blog.csdn.net/weixin_37925949/article/details/89461645)
+ > 编程语言大战三百回合
+ ## [为什么手机棋牌游戏开发比PC端开发要复杂？](https://blog.csdn.net/motianyougame/article/details/88973775)
+ > 为什么手机棋牌游戏开发比PC端开发要复杂？
 # PM 
+ ## [中国创投行业烧钱血泪史：始于团购，成于滴滴，终于ofo](http://www.woshipm.com/chuangye/2271189.html)
+ > “没人会为2VC模式接盘了，BAT也不傻。”上周，一位投资人告诉《财经故事荟》“ofo把大家都烧怕了，不会再有了。”移动互联网的烧钱模式，始于百团厮杀，成于出行混战，...
+ ## [4个方面，分析全球商业化CRM产品体系](http://www.woshipm.com/it/2269560.html)
+ > CRM商业化产品领域发展多年，从理论体系到软件架构，再到功能设计，方方面面都值得大家参考借鉴。本文将简单介绍国内外的CRM商业软件体系和产品形态，意图抛砖引玉，让...
+ ## [关于社交产品，我眼中最理想的样子（四）](http://www.woshipm.com/operate/2271179.html)
+ > 承接前文，本文主要讲获取用户量，打通关系链，调动用户活跃性，防止作恶。产品设计不再详细介绍，本文侧重运营。本文以“运营商系”来做例子，“阿里系+蚂蚁系”第五篇再...
+ ## [产品分析 | 哔哩哔哩，从垂直平台到综合社区平台](http://www.woshipm.com/evaluating/2269670.html)
+ > 经过10年光阴，哔哩哔哩从最初ACG弹幕网成长到现在的垂直视频巨头，凭借平台的PUGC内容和Z世代的认同感，并以“视频弹幕网站”为产品口号，朝着综合视频社区平台发展。笔...
+ ## [咳血的独角兽 | 互联网幕后攻防（2）](http://www.woshipm.com/it/2272914.html)
+ > 独角兽咳血系列，主打的是黑产与公司间的攻防，也会涉及很多日常生活中的黑产与漏洞，本文为系列文章第二篇。这个系列会出现很多篇，毕竟这些年的投资泡沫，造就了大...
+ ## [知乎内容策略：如何更好的运营自己的账号？](http://www.woshipm.com/operate/2271855.html)
+ > 如何成为点赞百万的知乎大腕！你应该要了解一下这些知识。24 号凌晨，《复仇者联盟4》上映，朋友圈瞬间被“剧透与否”占领，电影院秒变春运火车站。没抢到电影票的你无...
+ ## [限时福利｜40份最新行业报告免费领！带你洞察用户新需求、行业新风向](http://www.woshipm.com/it/2271416.html)
+ > 埋头工作的你，有多久没抬头看看你所处的行业环境了？如今的行业节奏发展迅猛，稍微松懈几天，都有可能被甩出几条街。无论是产品还是运营，对行业、市场、用户的了解...
+ ## [全世界白领社畜，摸鱼起来！](http://www.woshipm.com/zhichang/2272649.html)
+ > 摸鱼一时爽，一直摸鱼一直爽。在马克思的时代，工人们对抗长工时的做法是，砸碎机器。然而，在今天这个单向度的时代，反抗已经毫无空间。白领社畜对抗996的做法是——...
+ ## [如何给一个品牌命名？当前市面上品牌命名的6个套路](http://www.woshipm.com/marketing/2272370.html)
+ > 大品牌的成功会掩盖很多假象，对于品牌名亦是如此。并不是大品牌的品牌名就是好的命名方法。01在上一篇文章，我只解决了一个问题，即品牌到底是什么。花了很大篇幅从...
+ ## [线上课程丨最近转岗运营这么难，是因为岗位门槛变高了？](http://www.woshipm.com/active/2269517.html)
+ > 年后，很多小伙伴都在关心的一个问题：互联网运营的入门门槛，是不是越来越高了早些年，甭管你之前是干什么的，只要看上几本书，读几篇公众号文章，面试的时候 PV、UV...
+ ## [当po自拍也成了焦虑：社交媒体上的照片如何影响你的个人形象？](http://www.woshipm.com/it/2266998.html)
+ > 无论是刷微博，还是逛朋友圈，你会发现总有人在po自拍，A4腰、iPhone腿、纸片人……无瑕的皮肤，精致的五官，完美的身材……看到这些你的心情会受到影响吗？刷微博，逛朋...
  ## [漫威创造“漫威”](http://www.woshipm.com/it/2271953.html)
  > 与其说，漫威创造了“漫威”，不如更确切地说是漫威的角色和流行的规律创造了“漫威”。08年《钢铁侠》的成功被视为漫威的发轫。与之相比，同年上映的《蝙蝠侠：黑暗骑士...
- ## [滴滴返场，战略“摇摆”？](http://www.woshipm.com/it/2271558.html)
- > 顺风车上线，或许只是时间上的事，但战略“摇摆”，却可能是长期的隐患。滴滴已经跳过一次共享单车的坑，但愿不会有第二次。前段时间，滴滴顺风车负责人张瑞通过顺风车...
- ## [产品“三观”：解读产品经理的三个思考维度](http://www.woshipm.com/pmd/2270145.html)
- > 用户对一个产品的评价可能只有好与坏，而作为产品工作者的我们必须有自己思考产品的视角，透过表现洞察本质。作为产品经理，我们既不是产品的业务员更不是原型画师，...
- ## [为什么越像人的自然语言交互工具，越容易让人失望？](http://www.woshipm.com/ai/2271345.html)
- > 你以为自然交互工具越拟人化越能让用户感觉亲近，越受用户欢迎？其实不然。从有了Siri作为先例，拟人化已经成为了自然语言交互工具的必备能力。不论是服务于个人用户...
- ## [实例分析：增长黑客，不过是日常工作而已](http://www.woshipm.com/operate/2271511.html)
- > 增长无需神话，从手头工作开始，记录自己的增长之道。当增长黑客概念被引入国内后，经过大家的共同努力，现在互联网行业尽人皆知；我因写过几篇文章，有幸参与几笔。...
- ## [这个文案矩阵模型，能帮你驱动用户购买力](http://www.woshipm.com/marketing/2270893.html)
- > 要想写好文案就要思考：如何根据产品本身在用户心智中的重要程度，让用户产生相应的动机？本文笔者将借助一个矩阵来分析用户的动机和界定产品的重要性，以此来讲述如何...
- ## [小众圈层用户研究：你可以不懂我，但不要冒犯我](http://www.woshipm.com/user-research/2272008.html)
- > 在今天社交媒体和移动互联网覆盖面、渗透率迅猛发展的时候，如何让自己的创意打动95、00后，反而成了不少品牌最头痛的问题。头痛的焦点，大多聚焦在两类人群——二次元和...
- ## [关于银行授信，了解流程/额度/审批](http://www.woshipm.com/it/2258669.html)
- > 笔者之前讲了很多金融知识以及金融软件产品的设计要点，今天接着来聊一聊“银行授信”，笔者将通过银行授信流程的剖析、额度申请、审批流程这几点进行介绍，让我们来看看...
- ## [移动营销下半场，依旧是算法为王？](http://www.woshipm.com/marketing/2269712.html)
- > 技术与营销，从未像今天这样关系紧密。营销不外乎争夺用户注意力，转化用户注意力，而技术于营销中的应用也在不断地满足这个需求。对用户注意力的争夺，正在进入白热...
- ## [如何让你的广告文案，在1秒内吸引用户注意？](http://www.woshipm.com/copy/2271904.html)
- > 没有获取到用户注意力，你做的广告写的文案基本就变得毫无意义。而且不能1秒内吸引他，你就被Pass了！在这样一个注意力稀缺的时代，每个用户都是很忙的，千万别指望他...
+ ## [在Airbnb做产品经理 7年收获的7件事](http://www.chanpin100.com/article/108326)
+ > 本文作者Lenny Rachitsky原供职公司被Airbnb收购后，成为Airbnb的一员。最初，作为一名工程师加入Airbnb，到后来成为产品经理团队的首批成员之一。在Airbnb的7年时间里，他见证了Airbnb的壮大，也经历了多次转岗，获得了许多经验教训。他回顾了自己在Airbnb的所见所闻
  ## [说起传播，你不得不服“厕所小广告”](http://www.chanpin100.com/article/108321)
  > 本文以“厕所广告”传播为切入点，深度分析企业在做运营传播时需要考虑的几个维度，从而达到有效传播、精准传播的目标。
 
