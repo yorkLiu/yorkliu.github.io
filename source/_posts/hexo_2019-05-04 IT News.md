@@ -1,51 +1,51 @@
 ---
 title: 2019-05-04 IT News
 copyright: true
-date: 2019-05-04 10:01:04
+date: 2019-05-04 12:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[深度\]从GE工业互联网到中国工业互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=29ZnH1dz7UrQnEqdKJPTj9ACElTLbQBYwXm-0Ld9LaW8mGAqC-z0yOy-B1VASqAaBm3IJXyQiC1jczcx3fQEV-jx6qw-73N5Y3ODHGM6I8Lba1j6FyC0rF0uM3ZOnKl6&new=1)
- > &quot; 单纯依靠技术手段建立的思想体系，必定不会具有长久的生命力。问题导向的思想体系，更具有生命力。                 作者：彭慧来源：数字化企业工业互联网自2017年起已成为国内科技界最为火爆的词汇之一。学...
- ## [中信建投|TMT科创板研究](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=7Tatz2OqCXW6FsteB9WeNMo0G1KpdBqLASBqS7f*PNYWm05gX6oorrCTQmvtJAvbalmFov1vOD3gjPBO8suDuWoLLwHsX0DPJKe7kkAM77Axd1p5TTQBAAXHdFUDgAbI&new=1)
- > 自科创板正式接受申请以来，TMT板块公司申报情况持续火热，是科创板重点行业板块之一。中信建投TMT团队对进行申请和已受理的TMT企业进行了持续跟踪。通信篇（点击标题获取全文）1安博通（一）公司为国内优质的网...
- ## [三大运营商都发了这条短信，你收到了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=LL0XkOkumOuWDiemV75pjJAbj6BJkiDYh6xrdx*tGjA6DR9mRDtzljA-s-c4*uCgC-U9Zzl37NqSb-Zh4HMI3k0jbCHYKK8oF1Ds4XuuhV1G40tIJshgYyCPDkzRYwP2&new=1)
- > 三大运营商推送的短信内容。“根据国家有关规定，未经用户同意，任何组织和个人不得擅自向用户拨打商业营销电话。为维护用户合法权益，我们将对涉嫌营销扰民的电话号码进行依法处置。”近日，不少手机用户先后都...
- ## [因为这个行为,中移动被调查!定制机惹的祸?网友吐槽无奈多..](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=cH7W3EWlXKaESEpcrWuJdVsvAEa6Fmc*xSD27vzOMuK-8IDsFl1slvgR2GS96D0u1vilzlpa9IvuDDFNIRBKXcgXNgzEMCcFgOxFS7wLs2BE-xSUHgSfOUa1jTKTtXo*&new=1)
- > 中移动被调查都是定制机惹的祸？4G+手机双卡槽却只有移动电话卡能上网，中国移动已暂停相关销售行为。中国移动4G+手机用户大概会有这种经历。中国移动主号之外，想再买个电信、联通的号码作为流量卡使用，却发现...
- ## [5G网络这样收费如何：速度越快价格越贵](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=6lXWt01SlgOVqdpeA-xPssulpEPaNz4R7SaAFQz97-thMk5pk7fiOHfFDuaUBbisSZ6aaOlUrhwKRfgEP50x7gHTqpSH2eXT0JpIAmnDJFy52EC7jEK28qvJ96aZmLq9&new=1)
- > 今年5G可能是最火热的话题了，在标准完成、网络设备逐渐成形后，一些国家已经开始投入5G网络的建设中。不过现在依旧处于最初期的建设阶段，中国目前还没有正式发放5G牌照，而大洋彼岸的美国现在虽然也投入建设中...
- ## [神秘黑客三年来一直向APT组织提供Windows 零日漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=BX-dlqBFMrHYa1nfwnzUe0VeytUVFL*diukfOrk0xL1rCE5qRrXrHkZguGR5V6YVybmC23lWR6noUPpJ28GsAVemfQWZ21xfvzuQg2SYm122mx9XjcSrnbrzXoNAw5Y1&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：一位身份不明的黑客以出售Windows 零日漏洞为业，三年来不断向APT组织出售漏洞。卡巴斯基实验室的研究人员称，在过去的三年里，一位神秘黑客一直在向...
- ## [世界500强的PPT，到底长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=U*aMze5YrXcWtjrXde7EhDAfcqRFqK9IiqoZmESmHQ6tG4tju8XHbWKmQLRxAezxWGjd-VPkx6MEp2HqLImbdpF-BqUgvgxsMITi4URFMi*T*Uuo-RVXMCcBEhFjvoWw&new=1)
- > 今天为大家分享一些500强知名企业在内部管理、工作汇报、投资报告等方面的演示。帮助你了解世界顶级商业组织的审美取向，重新构建PPT设计美学观念。 文/ 培哥学堂这些500强名企演示幻灯片案例，相信对于大家学习...
- ## [你正关注的这个可能是个套路?!然而网友却在问：联通、电信的套路啥时候到位!](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=dYvncwpvr3vLit1cZ8Z4t8fGBAUU5FEZPJVElzk40nXlD7sUkFyr6yyyxQxzmV8RKbY952HxvY*hB9Vg8dX-TdrJlyPeB37eIFrCNnBger8kqvUDjn*vvzGAUYwd*HXK&new=1)
+ ## [你正关注的这个可能是个套路?!然而网友却在问：联通、电信的套路啥时候到位!](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=dYvncwpvr3vLit1cZ8Z4t8fGBAUU5FEZPJVElzk40nU41E4nuo7XC1OBLIGNGN7bfKtYAG6LL8NanKRzs6ZpynDFSfSkl4l3hfh-FHJEsucSdhfTGmBypekhtXua0CBz&new=1)
  > 违法查询路况上报航班信息新闻爆料这两天，移动用户向10086发送“2019”可以参加查“网龄”送流量活动，刷爆网络根据众多网友的反馈，入网10年以上可以获得三个月每月10GB的流量，5年以上为5GB，5年以下为3GB、2...
- ## [人民日报:\[关注\]中国移动被调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=9EfF1tFcqdHlRQTaUb7i9340mQ5Xjl8e6G6Lar29M-3BGgWSwVkfID2KDMBhqzbPiB1FlGZmqWQ*cfzqIrXpvSVGNOc5PWzB1s41d*5*SQaz1KAAsfl364c1kx7aXACw&new=1)
- > 买了双卡双待手机，居然不能用上双4G？中国移动4G+手机用户大概会有这种经历。中国移动主号之外，想再买个电信、联通的号码作为流量卡使用，却发现只有2G网速，限制用户使用电信和联通的4G网络。因为4G+手机特定...
- ## [网友都在给10086发送2019!有人质疑是套路!真相如何?中国移动回复了](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=w5UXrpMl5gQO9jkY7u1ZB1lMAo5pSTKPaPBiNgVah-AFNwVC6A0OonTslR*z9Szmi9GsOFHFSVDVGa3CmBpFNKmzSy0hRFj8OZvURGzzCvfvN6TPCl1QQj1AyGntaLdw&new=1)
- > 这几天除了高速车车车景区人人人刷屏中国移动“查网龄送流量”活动也备受关注5月1日起移动用户向10086发送“2019”可以参加查“网龄”送流量活动中国移动也在官微作出了活动官宣很快大批网友晒出申请成功的截图...
- ## [\[报告\]2019中国乘用车市场洞察(附19页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=2a7ggNds4RPCCrTy9AXbdsewtE6b2nHRJabF5o0MotGXeNwI64t1TD*iFF-dJXjJbCeIS6rriOwSD0pyDpAEgqTCGj6SGTosMgymVhd*IwhbcxXKf50gmktPFhb*04Rb&new=1)
- > 以下为报告节选：文│易车研究院本报告共计：19页。如欲获取完整版PPT文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业分析报告的朋友，可以加入我们的《车友圈》分享...
- ## [米家智能插座背后的两种无线协议——Wi-Fi与ZigBee](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=bwginETk2SqoQGU8NidXY9mbR2AGA5oRnBjpFhVNLrHYwW2gJFtXRQBdKp1u--P5g*L0Nplu8v4VlRU-SsdkeRFH2oMR4tl5tphPeIT2UKgB0IgtPQ41Nn7901PFUj0B&new=1)
- > 随着科技的发展，智能家居的概念深入人心，人们利用智慧不断开创新的生活。比尔盖茨是第一个智能家居的使用者，也许很多人会认为智能家居的高端性符合像比尔盖茨那样有“钱”的人，其实不然，随着Wi－Fi的普及和...
- ## [五四特刊|回看新文化运动，我们是否应该反对VR技术的发展?](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=i4AQg6IGEempGFuYkvHPIXvEFNxc3UUbGtL5r5qgHUR-kvkQqwzxZ1VnTWsp4x4xONFRfgqjiTdiOtYvF7fwscE7X-BOXJ4Zci5UKV06xvXUtaz3mgdH8-6Uk1s5uBAm&new=1)
- > 五四运动的爆发，与之前主张民主与科学的新文化运动密不可分。运动中激进派与守旧派激烈的争辩，为后来中国引进新技术新思想打下了基础。而如今正在迅速发展的VR技术也引发了人们激烈的讨论。正文共 1979字 7 图...
- ## [5G长跑中，欧洲真的落后了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=oc9GnBISDFgcw9tAQdS747p4-73YwkCm6c7*qohwjiny8cAYBAsyE604j-x2YejBkxH-d8mzHBPorI0fvLQvyXg7HUrslSH4gxgcaAyIW6MEPDf4uys2nRzafJN4IMj4&new=1)
- > iFeng科技凤凰网科技官方账号，带你直击真相欧洲电信行业的发展问题积重难返。文 | 深响（ID:deep-echo）作者 | 彭方婷在我们迈向5G的进程中，各个国家都做出了不少努力，但目前也都各自面临着一些区域性的困境...
- ## [小米成立技术委员会，雷军设百万激励资金](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=Hm-iaRGd5wv732g343Wph4KX2MSQHREvc7quCczBTo730G1shfIx95oy7fPk0DNxr1sH6zaVnKupwU77F*TBzK79qTh0dZbvvpUAbRROUL43e-bVPLA3tmVF5AeFBMlo&new=1)
- > 5月1日前夕，雷军公开了小米技术委员会架构，并任命了19位集团技术委员会委员。雷军还特别强调，技术立业是小米血液里最重要的东西。与设立之初相比，技术委员会的这次再调整发生了哪些变化？这与IPO后的一系列...
- ## [\[安卓\]百度网盘不限速下载器PanDownload推出安卓版](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=wHUbA9v7iCQR1ClJ70EJDebekgEwDSQbZB8kTH2oRIYRGQMs9BKQxLEPlqTNXvYnGfoBAiAj7iG6QQjwj6u58Wi4pr0oBFVhAtsSjKDUy*jIvI1Uu-YcqluGvZM4s-83&new=1)
- > 点赞是一种动力 分享是一种美德百度网盘不限速下载神器Pan Download上月开始推出安卓版，安卓版目前其实主要还是在测试不算太稳定。不过对于需要在安卓设备上经常下载文件的用户来说，现在下载Pan Download就可...
- ## [人工智能第三定律：计算的未来是模拟](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=T7JblwEkMACm6Htt3g3naNg7zhiLlB458oCov-4rB8UOrQ5ysehTXRR1wa6fjgA6ukFJbI14dHnCbQ2r*D2Gh4NM5I8xKk2MHQ*ZRNGzkeAYZHX0i3WdtAsB67z4pkZV&new=1)
- > 计算机领域的下一次革命的标志将是模拟系统的崛起，而数字化编程不再具有统治地位。在人工智能研究如火如荼的今天，似乎也是时候回过头来思考一下模拟计算在未来所具有的意义。当人类已经习惯于通过数字化编程控...
- ## [查网龄送流量暗藏限制携号转网小心思?移动回应：我不是，我没有!](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=L1JcM2wQ1Uh5ZULSq1HEa2lmm5LI8mo7ddpV2JzsKVaEeeJyPesmN1aZBTKYDBK3LsH9rVHTWZ8ztZaW2rOvN5b4S9rq1*sr020y54yUOp3CHi2sWrIFd3*5dyBHDm3f&new=1)
- > 【TechWeb】中国移动5月1日起推出“查网龄送流量”活动持续受到用户关注。只要向10086发送“2019”即可查询网龄，并获得赠送流量，不少网友在社交媒体上贴出申请成功的短信截图。与此同时，也有部分网友质疑，中...
- ## [“给10086发2019免费得流量”刷屏!现在压力都在…](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=pS88atbDa14mTyPy3k3kpiXglYhgLjF7yeTzKgVfPlhPBBPRH3GcsOt56yxYn9bK*jigwvsc*kcKMJpYJQe7JrsZ*-tp0uFrHY58jSvm8WyZ1OGp3rbNnTeWzjW9Up9k&new=1)
- > 这两天，移动用户向10086发送“2019”可以参加查“网龄”送流量活动，刷爆网络根据众多网友的反馈，入网10年以上可以获得三个月每月10GB的流量，5年以上为5GB，5年以下为3GB、2GB不等。昨天一早中国移动官方微博...
- ## [透视光纤五巨头的2018:“心照不宣”向光通信全产业链迈进](http://mp.weixin.qq.com/s?src=11&timestamp=1556935206&ver=1585&signature=*aGNiRMgYcBaH2qgBjFkr1u*4RCMuW73ohGoas*j7hFCXLrYqFn3lixSQj3Exv5jVKX*XwmEAXJCbXlQNdxbju*ErR2*iWVo8xdQiETQrUl7gd8bWPIr*csoX*XrBuNF&new=1)
+ ## [透视光纤五巨头的2018:“心照不宣”向光通信全产业链迈进](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=*aGNiRMgYcBaH2qgBjFkr1u*4RCMuW73ohGoas*j7hEZJJOxutQSaXoXFoqLdC0BoB59mQxTexAWWxjB-dt19Q0wQo4nhnC-VRj-dK*huLWJ5lFLgrsPduWXl-atIvoE&new=1)
  > 本文来自：光通信观察C114旗下光通信新媒体，全方位报道光通信动向关注又到年终财报时，最近一段时间，长飞、亨通光电、中天科技、烽火通信、富通集团（未上市，注：富通财报查于上海清算所）五大光纤光缆巨头相...
+ ## [世界500强的PPT，到底长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=U*aMze5YrXcWtjrXde7EhDAfcqRFqK9IiqoZmESmHQ6WESLTUPG6In6ssF9e9SpPxGX*RbsotTGJLa*vmjXMEDLpUp3ju4EMb7fEeJBPEPuG*l2NfRjHzLgPgtuVS*Q*&new=1)
+ > 今天为大家分享一些500强知名企业在内部管理、工作汇报、投资报告等方面的演示。帮助你了解世界顶级商业组织的审美取向，重新构建PPT设计美学观念。 文/ 培哥学堂这些500强名企演示幻灯片案例，相信对于大家学习...
+ ## [5G长跑中，欧洲真的落后了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=oc9GnBISDFgcw9tAQdS747p4-73YwkCm6c7*qohwjilCGcEiHH5dlMdVJ0ofPAjR*PWCOkBYVVlYfAMgdXSVZ0wIDRZEWXOoYGbzSi2in3W3hdSL2IHjPbDpHFlabgNO&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相欧洲电信行业的发展问题积重难返。文 | 深响（ID:deep-echo）作者 | 彭方婷在我们迈向5G的进程中，各个国家都做出了不少努力，但目前也都各自面临着一些区域性的困境...
+ ## [\[报告\]2019中国乘用车市场洞察(附19页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=2a7ggNds4RPCCrTy9AXbdsewtE6b2nHRJabF5o0MotGXgrXc*wlWNU3osxEhMh8lOIyRd7WrYRPu*VVZF5JKeAk7hcFBZpARTaUBvi1RJ2MXENWi1WyJpIfOaJGJquHN&new=1)
+ > 以下为报告节选：文│易车研究院本报告共计：19页。如欲获取完整版PPT文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业分析报告的朋友，可以加入我们的《车友圈》分享...
+ ## [5G时代联通到底怎么做 买彦州透露详情](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=GWyRgimXZpY5gWjqFf8T1C6u3K27a-m4dQyqcKwKmhLhx9rqXAvIo0ULSdUGKg5JzMYP5-4BRDxL8do6jsgu0HYCQSyXGfaas3zHiKu2Zz62lBc4k6gFpCTSBE4qcjkc&new=1)
+ > 近日在中国联通全球产业链合作伙伴大会上，中国联通副总经理买彦州首次面向公众发布了5G先锋计划暨5G友好体验招募活动，引起行业注意，这究竟是怎样一个体验活动？5G要走进普通大众生活了吗？中国联通副总经理买...
+ ## [“给10086发2019免费得流量”刷屏!现在压力都在…](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=pS88atbDa14mTyPy3k3kpiXglYhgLjF7yeTzKgVfPljTnGa3Wvm2JocDpE1SyZYSCTpakP4dvAZNCi11mHnReLAQGYiKE7VzsKEbDjHRWZnoi5PXBjiZ7G-7bjdQ7jl9&new=1)
+ > 这两天，移动用户向10086发送“2019”可以参加查“网龄”送流量活动，刷爆网络根据众多网友的反馈，入网10年以上可以获得三个月每月10GB的流量，5年以上为5GB，5年以下为3GB、2GB不等。昨天一早中国移动官方微博...
+ ## [\[安卓\]百度网盘不限速下载器PanDownload推出安卓版](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=wHUbA9v7iCQR1ClJ70EJDebekgEwDSQbZB8kTH2oRIbGgW67UlbosIOSBv36cs8a3vvY2k9L3RMAUTSZ3Sk*Tf2taY3ulBX3m5Gaqvnx9ryKZ1VZUW29be3qx-GjU4Oj&new=1)
+ > 点赞是一种动力 分享是一种美德百度网盘不限速下载神器Pan Download上月开始推出安卓版，安卓版目前其实主要还是在测试不算太稳定。不过对于需要在安卓设备上经常下载文件的用户来说，现在下载Pan Download就可...
+ ## [因为这个行为,中移动被调查!定制机惹的祸?网友吐槽无奈多..](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=cH7W3EWlXKaESEpcrWuJdVsvAEa6Fmc*xSD27vzOMuJhG4yrFBwDIaedL9jsbvShMukvf3kzFKFACwLV5borqo8FfFDwJdkJZvmaCt1NtV1PITXTuzY8tt-YDJJXDThp&new=1)
+ > 中移动被调查都是定制机惹的祸？4G+手机双卡槽却只有移动电话卡能上网，中国移动已暂停相关销售行为。中国移动4G+手机用户大概会有这种经历。中国移动主号之外，想再买个电信、联通的号码作为流量卡使用，却发现...
+ ## [\[深度\]从GE工业互联网到中国工业互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=29ZnH1dz7UrQnEqdKJPTj9ACElTLbQBYwXm-0Ld9LaUn0Rqiqz9qjTtfUBFe5VIhg7rZbnqDMv6py27XE83iiVT2Zaqv2jUiBYpY7nYjKHm3-ShRFrZnsoYhWyqEDvnF&new=1)
+ > &quot; 单纯依靠技术手段建立的思想体系，必定不会具有长久的生命力。问题导向的思想体系，更具有生命力。                 作者：彭慧来源：数字化企业工业互联网自2017年起已成为国内科技界最为火爆的词汇之一。学...
+ ## [中信建投|TMT科创板研究](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=7Tatz2OqCXW6FsteB9WeNMo0G1KpdBqLASBqS7f*PNYu-rKaUxcqXLcxlBqxJ*Ctzz6kscDe35SCyRVol7Xm5BY*wpqH6NMd3xbo3tyDnhX-AoB2QYje2mnCPYJ2oUR8&new=1)
+ > 自科创板正式接受申请以来，TMT板块公司申报情况持续火热，是科创板重点行业板块之一。中信建投TMT团队对进行申请和已受理的TMT企业进行了持续跟踪。通信篇（点击标题获取全文）1安博通（一）公司为国内优质的网...
+ ## ["给10086发2019免费得流量"刷屏!现在压力都在…](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=RQAaz06VBCgSRwH0spYxFeB3EwdXYA8SBlvDqZ*X8LLJ2JeNCBvek0fze3Eqs96WH*vTC3fshTNs*GACMUKJNai91CN6A1oCCffNXqnACSvHh3KNOO6pVt37URvaARML&new=1)
+ > 这两天，移动用户向10086发送“2019”可以参加查“网龄”送流量活动，刷爆网络根据众多网友的反馈，入网10年以上可以获得三个月每月10GB的流量，5年以上为5GB，5年以下为3GB、2GB不等。2日一早中国移动官方微博...
+ ## [人民日报:\[关注\]中国移动被调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=9EfF1tFcqdHlRQTaUb7i9340mQ5Xjl8e6G6Lar29M-33cP7w77MleNMWR3Hu-nkMQJ6RuA*1kIpqNJYM542HEme5RmN3n05-8ncikbopguWW6ZZddzgp*RGlK-UE-rTw&new=1)
+ > 买了双卡双待手机，居然不能用上双4G？中国移动4G+手机用户大概会有这种经历。中国移动主号之外，想再买个电信、联通的号码作为流量卡使用，却发现只有2G网速，限制用户使用电信和联通的4G网络。因为4G+手机特定...
+ ## [米家智能插座背后的两种无线协议——Wi-Fi与ZigBee](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=bwginETk2SqoQGU8NidXY9mbR2AGA5oRnBjpFhVNLrFzZlHbZVffcAEuOzYQhGetw52k-Iq335dkpW14SmKXiSK0Hn9*9qtd91yRkQ7vzPdtK4HXuldOeTdDlc*03WK3&new=1)
+ > 随着科技的发展，智能家居的概念深入人心，人们利用智慧不断开创新的生活。比尔盖茨是第一个智能家居的使用者，也许很多人会认为智能家居的高端性符合像比尔盖茨那样有“钱”的人，其实不然，随着Wi－Fi的普及和...
+ ## [小米成立技术委员会，雷军设百万激励资金](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=Hm-iaRGd5wv732g343Wph4KX2MSQHREvc7quCczBTo6GUN3SHr2Te2bR30fyJSDL3f8TsJQColASQzyGqpl*Feq6poBtrTAVsSmC0V1EMH8HJwdXuHr*M4vmWSyYyGFq&new=1)
+ > 5月1日前夕，雷军公开了小米技术委员会架构，并任命了19位集团技术委员会委员。雷军还特别强调，技术立业是小米血液里最重要的东西。与设立之初相比，技术委员会的这次再调整发生了哪些变化？这与IPO后的一系列...
+ ## [刚刚，移动正式回应!“发短信2019到10086”领流量，竟然藏着一个惊天“大坑”?](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=iaUT7W4GqkXL96O7PGwAE9CXMzM11CTdnCgucxeY-KgdU8wcR3jJ8VqE4qoe71UfxJTRIbSVISr-J92WOw1l-gTadkH*wrW3ZCO7Tux4yBz8FrttNGG4T0c4k5snoPfL&new=1)
+ > 就在五一当天，中国移动重磅宣布：推出“2019年查网龄送流量活动”，用户只要发送短信“2019”至“10086”即可获赠流量，活动日期即日起持续至12月31日。活动发布后迅速刷爆了朋友圈网上已有不少网友晒出成功领...
+ ## [网友都在给10086发送2019!有人质疑是套路!真相如何?中国移动回复了](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=w5UXrpMl5gQO9jkY7u1ZB1lMAo5pSTKPaPBiNgVah-DelGKnJ-2aZuBG8sNhqJJQS3dvst5Dn9SgaJ9CBi6*x1iw8HAGWho*mpwmu21B5cXO4Pbz6FykzKMOHnDKFnZ7&new=1)
+ > 这几天除了高速车车车景区人人人刷屏中国移动“查网龄送流量”活动也备受关注5月1日起移动用户向10086发送“2019”可以参加查“网龄”送流量活动中国移动也在官微作出了活动官宣很快大批网友晒出申请成功的截图...
+ ## [人工智能第三定律：计算的未来是模拟](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=T7JblwEkMACm6Htt3g3naNg7zhiLlB458oCov-4rB8XF-qyBz17HGDbEh4D*VWxQxlAw-TIqSbEXQA1Cr2LGBt-aJvxhbq79--NsiOzSRZdrc0fxMReT1vKikbQaUOhi&new=1)
+ > 计算机领域的下一次革命的标志将是模拟系统的崛起，而数字化编程不再具有统治地位。在人工智能研究如火如荼的今天，似乎也是时候回过头来思考一下模拟计算在未来所具有的意义。当人类已经习惯于通过数字化编程控...
+ ## [关于5G和5G手机 你想知道的都在这里](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=RNCo8reskbjL80Q9hQqvvbpjiV1wv6KU3PtCQ-qch3gPuUwFwK0-O2Vff8FO63gr3e6Po4Co6DJ*mL7JZaFt*onmddxrPy8h-kSOHf8vnYpvE11N7n08Y7XLRoBQjNTd&new=1)
+ > 如果说最近一年手机行业最热门的一个词是什么，相信很多朋友第一个想到的就是5G了。随着相关技术的不断成熟，5G确实已经我们越来越近了。最近有很多朋友在留言向我们询问5G相关的问题，今天小编就把这些问题简单...
+ ## [Digi-Capital报告：论B端AR/VR市场投资回报率与未来](http://mp.weixin.qq.com/s?src=11&timestamp=1556942405&ver=1585&signature=IbtbaJ*iShrRbT1MXNPZ7rLz9SSeHB5tvLhI0sabwKlxGWRZdU72A1hjCZMZ2NKc9gZRMPI8-KfLD90glCE0brVut-hQURy4LbvORz1vHk0OyFFXmpVb6lTQVm*fAEw7&new=1)
+ > Esther ｜ 撰文相较于C端市场，AR/VR在B端已经落地许多应用场景，包括：教育、医疗、安防、培训、地产、文旅、体育等。因为看到了VR/AR的高回报率，各大企业和政府已经开始关注这种技术。沃尔玛用Oculus Go培训...
  ## [26岁准备转行做产品经理来得及吗？](https://www.zhihu.com/question/56833913)
  > 和想转行产品经理的同学聊的越多，愈发觉得在没有经验情况下，与其投入大量的时间和精力上一些产品书籍，掌握些空洞的方法论、产品框架，可能还远不如将时间投入到大量体验各个方向的产品，混脸熟，达到人家问方向—...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
@@ -54,10 +54,10 @@ categories: IT NEWS
  > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
  ## [国家真的有对普通人民的扶贫计划么?](https://www.zhihu.com/question/322453822)
  > 请联系当地乡镇政府或街道办事处，也可以直接报警，并劝说身边的人不要上当。
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
  > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [如何从零开始学做互联网运营？](https://www.zhihu.com/question/22131241)
  > 谢邀。首先这个问题就有点问题。如何从0基础学做互联网运营。互联网运营大致分为（我做过、接触、了解的）：内容、活动、产品、用户、新媒体、社区/群、BD、网络、游戏、APP（可归产品）、数据、策略、安全、电...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
@@ -74,18 +74,18 @@ categories: IT NEWS
  > 你好小红书是一个内容电商属性特别强的社区，如今不仅仅是小红书上的商家，也有很多淘宝商家，微商，开始利用小红书引流，很多店铺商家也因此尝到了站外引流的甜头。想要在小红书推广，首先你的学会分辨达人的质量，...
  ## [我就问问晋江签约作者的收入？](https://www.zhihu.com/question/49600996)
  > 【再更新】很多人说赚得是出版和影视，首先，出版真的没有多少钱，并且在一些情况下要反复修改才能过稿，很浪费时间，很多作者出版的钱连一万块钱都不到。至于影视的钱、游戏的钱还有衍生的其他版权的钱基本只有大神...
- ## [除「tan90°」外还有哪些表达「不存在的」的有趣方式？](https://www.zhihu.com/question/60659539)
- > 用存在量化（existential quantification）表示集合 D 中不存在符合断言 P 的元素：eg exists x in D, P(x)\ 等价于全称量化：forall x in D, eg P(x)\ 如咪蒙体：eg exists x in ext{Female}capext{E
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
- ## [维基百科的日常资金来源途径主要包括哪些？](https://www.zhihu.com/question/20835615)
- > 占绝大多数。引自 Summary of the Wikimedia Foundation 2010-11 annual report（2010-2011年度维基媒体基金会年度概要）收益一栏中，捐款占到了基金会年度收益的95%左右，这几乎基金会收益的全部。而捐献者中，大...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 浪潮之巅
- ## [如何快速成为数据分析师？](https://www.zhihu.com/question/29265587)
- > 五一期间没有去哪里玩，也是希望能好好梳理一下之前学习的东西，节后就要入职新的公司了，在为新工作做一些准备，说来也可以分享下自己转行学习数据分析一路过来的历程与求职工作的过程。我是从去年10月份那会决定要...
+ ## [互联网高速发展的今天，盲人的生活有什么样的改变？](https://www.zhihu.com/question/32288332)
+ > 我们曾发表过一篇描写盲人手机用户的文章。他们的职业各不相同，虽然身处在黑暗中，但他们对科技照样有着狂热的爱好。研究读屏软件、联系开发者、开发手机游戏……他们的要求其实很简单：和正常人使用一样的东西，获...
+ ## [相比AI算法研究，计算机系统研究没落了吗？](https://www.zhihu.com/question/322296599)
+ > 并没有，据我所知本来做系统的现在基本上仍然还在做系统，没听说有逃离四大天坑那种跳槽去AI的。只要新的硬件和平台还在出现，计算机系统研究对于工业界就是个硬需求。 AI只不过是普及程度和门槛都太低了而已，导...
+ ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
+ > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
+ ## [如何理解马化腾说「黑公关近两个月突然爆发，是时候挖根源了」？](https://www.zhihu.com/question/281753006)
+ > 甲方这样改稿子真是够了，修订模式会不会用 …
 # IT 技术 
  ## [是时候理解下HTTPS及背后的加密原理了](http://network.51cto.com/art/201904/595805.htm)
  > 是时候理解下HTTPS及背后的加密原理了
@@ -103,69 +103,71 @@ categories: IT NEWS
  > 管理 | 在阿里，我如何做好一个项目的启动？
  ## [推荐！数据可视化的十种优秀JavaScript图表库](http://developer.51cto.com/art/201904/595652.htm)
  > 推荐！数据可视化的十种优秀JavaScript图表库
- ## [Gerrit（2）图形介绍](https://blog.csdn.net/wxt15708432837/article/details/89678862)
- > Gerrit（2）图形介绍
- ## [计算机理论/进程间通信](https://blog.csdn.net/qq_39591494/article/details/89067251)
- > 计算机理论/进程间通信
  ## [爬虫基础-网页基础](https://blog.csdn.net/qq_40258748/article/details/89154732)
  > 爬虫基础-网页基础
- ## [高手把编程语言替换成中文！程序员看了表示头疼](https://blog.csdn.net/ajian6/article/details/89708586)
- > 高手把编程语言替换成中文！程序员看了表示头疼
- ## [能用HTML/CSS解决的问题就不要使用JS](https://blog.csdn.net/qianduan6666666/article/details/89683263)
- > 能用HTML/CSS解决的问题就不要使用JS
- ## [linux端口大全及协议](https://blog.csdn.net/qq_44945889/article/details/89457379)
- > linux端口大全及协议
- ## [微信明明可以语音输入，为什么大家还会发语音消息？](https://blog.csdn.net/wdy19980121/article/details/89328847)
- > 微信明明可以语音输入，为什么大家还会发语音消息？
- ## [CODING 研发管理系统上线全球加速，助力企业跨区域协作](https://blog.csdn.net/CODING_devops/article/details/89145673)
- > CODING 研发管理系统上线全球加速，助力企业跨区域协作
- ## [python的深浅拷贝，以及实现方法和应用场景+其他拷贝（￥71）](https://blog.csdn.net/weixin_43721133/article/details/89203479)
- > python的深浅拷贝，以及实现方法和应用场景+其他拷贝（￥71）
- ## [如何优雅处理前端的异常？](https://blog.csdn.net/ZIYUSHUO/article/details/89683703)
- > 如何优雅处理前端的异常？
- ## [头条资讯项目](https://blog.csdn.net/qq_35508033/article/details/89380838)
- > 头条资讯项目
- ## [令人羡慕的外国程序员，没有996， 40岁的时候最值钱！](https://blog.csdn.net/qun784783012/article/details/89035287)
- > 令人羡慕的外国程序员，没有996， 40岁的时候最值钱！
- ## [书写高质量代码之状态维护](https://blog.csdn.net/qianduan6666666/article/details/89712747)
- > 书写高质量代码之状态维护
- ## [关于电脑网速网占用问题（svchost.exe）（￥72）](https://blog.csdn.net/weixin_43721133/article/details/89394876)
- > 关于电脑网速网占用问题（svchost.exe）（￥72）
- ## [论空格符的重要性](https://blog.csdn.net/weixin_44541224/article/details/89080411)
- > 论空格符的重要性
+ ## [六何分析法全景洞察大数据](https://blog.csdn.net/arry001/article/details/89384172)
+ > 六何分析法全景洞察大数据
+ ## [Linq语句查询](https://blog.csdn.net/weixin_44541224/article/details/89080389)
+ > Linq语句查询
+ ## [大数据技术有哪些，为什么说云计算能力是大数据的根本！](https://blog.csdn.net/weixin_44386969/article/details/89321627)
+ > 大数据技术有哪些，为什么说云计算能力是大数据的根本！
+ ## [区块链钱包是什么？](https://blog.csdn.net/kaihuiguoji/article/details/89710866)
+ > 区块链钱包是什么？
+ ## [区块链：最小可行区块链原理解析2](https://blog.csdn.net/shangsongwww/article/details/89063463)
+ > 区块链：最小可行区块链原理解析2
+ ## [Python基础提高](https://blog.csdn.net/gxz987/article/details/89406823)
+ > Python基础提高
+ ## [【云计算】企业云计算成熟度 发展四部曲](https://blog.csdn.net/kinglapland/article/details/89059595)
+ > 【云计算】企业云计算成熟度 发展四部曲
+ ## [学习区块链的技术笔记](https://blog.csdn.net/weixin_44172023/article/details/89467244)
+ > 学习区块链的技术笔记
+ ## [挖矿赚钱还能邀请好友？超级公链plusFo才是主导](https://blog.csdn.net/PlusFo_/article/details/89184164)
+ > 挖矿赚钱还能邀请好友？超级公链plusFo才是主导
+ ## [大数据和云计算到底是何关系？](https://blog.csdn.net/haboop/article/details/89743468)
+ > 大数据和云计算到底是何关系？
+ ## [从万会之王到比特币中国CEO,赵昌宇和他的区块链收割之旅](https://blog.csdn.net/blockeye/article/details/89398614)
+ > 从万会之王到比特币中国CEO,赵昌宇和他的区块链收割之旅
+ ## [MySQL基础学习（1）](https://blog.csdn.net/b509_ying/article/details/89032099)
+ > MySQL基础学习（1）
+ ## [为什么不能在foreach循环进行remove/add操作？](https://blog.csdn.net/QWQWQQQQQQQQQQ/article/details/89328514)
+ > 为什么不能在foreach循环进行remove/add操作？
+ ## [C 实现区块链（附c完整源码即运行截图）](https://blog.csdn.net/charlottehe/article/details/89708138)
+ > C 实现区块链（附c完整源码即运行截图）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [360董事长周鸿祎卸任奇安信董事](http://www.lanjingtmt.com/news/detail/42353.shtml)
+ > 天眼查数据显示，近日，360公司董事长兼CEO周鸿祎退出北京奇安信科技有限公司董事职位，新增刘红锦为董事。
 # 人工智能 
- ## [【微服务架构】微服务架构与传统单体架构的区别](https://blog.csdn.net/qq_36525300/article/details/89143941)
- > 【微服务架构】微服务架构与传统单体架构的区别
- ## [C. 高可扩展架构 --- 微服务架构](https://blog.csdn.net/micklongen/article/details/89745811)
- > C. 高可扩展架构 --- 微服务架构
- ## [物联网组成，主要包含哪些基本要素，物联网市场需求的特征是什么？](https://blog.csdn.net/weixin_43346716/article/details/89028773)
- > 物联网组成，主要包含哪些基本要素，物联网市场需求的特征是什么？
- ## [物联网知识体系构建中](https://blog.csdn.net/xiaotabit/article/details/86380756)
- > 物联网知识体系构建中
- ## [根据物联网提纲提炼的知识点（7）——第八章：物联网的接入和承载](https://blog.csdn.net/weixin_43830248/article/details/89335180)
- > 根据物联网提纲提炼的知识点（7）——第八章：物联网的接入和承载
- ## [HDFS架构简述](https://blog.csdn.net/weixin_43462670/article/details/89172545)
- > HDFS架构简述
- ## [物联网供应商，主要面临哪些安全挑战？](https://blog.csdn.net/weixin_43346716/article/details/89075128)
- > 物联网供应商，主要面临哪些安全挑战？
- ## [【微服务架构】微服务的简介](https://blog.csdn.net/qq_36525300/article/details/89140915)
- > 【微服务架构】微服务的简介
- ## [IOT物联网安全概述](https://blog.csdn.net/xu_xy1/article/details/89704452)
- > IOT物联网安全概述
- ## [选择scrum任务看板管理工具的要点](https://blog.csdn.net/guowanwanwan/article/details/89377353)
- > 选择scrum任务看板管理工具的要点
- ## [物联网大数据的信息安全](https://blog.csdn.net/douge1hao/article/details/89432678)
- > 物联网大数据的信息安全
- ## [物联网信息安全作业](https://blog.csdn.net/weixin_43666099/article/details/89337695)
- > 物联网信息安全作业
- ## [研发团队管理经验总结（持续更新... ...）](https://blog.csdn.net/kaka1121/article/details/89024256)
- > 研发团队管理经验总结（持续更新... ...）
- ## [金三银四跳槽季，掌握这阿里最全面试130题，进阿里还是问题吗？（阿里天猫、蚂蚁金服、阿里巴巴面试题含答案）](https://blog.csdn.net/weixin_44665482/article/details/88202441)
- > 金三银四跳槽季，掌握这阿里最全面试130题，进阿里还是问题吗？（阿里天猫、蚂蚁金服、阿里巴巴面试题含答案）
+ ## [物联网安全体系结构](https://blog.csdn.net/weixin_44955413/article/details/89440187)
+ > 物联网安全体系结构
+ ## [web安全文件包含渗透攻击](https://blog.csdn.net/qq_42094992/article/details/89763655)
+ > web安全文件包含渗透攻击
+ ## [浅谈物联网中的信息安全](https://blog.csdn.net/Arropyon/article/details/89401385)
+ > 浅谈物联网中的信息安全
+ ## [物联网信息安全心得](https://blog.csdn.net/cnjdskclndklcnjd/article/details/89401513)
+ > 物联网信息安全心得
+ ## [云计算linux运维课程学习，云计算面试题库](https://blog.csdn.net/qq_43311315/article/details/89316591)
+ > 云计算linux运维课程学习，云计算面试题库
+ ## [简单的SSM-Shiro安全框架搭建](https://blog.csdn.net/qq_29349143/article/details/89187104)
+ > 简单的SSM-Shiro安全框架搭建
+ ## [大数据和云计算到底是何关系？](https://blog.csdn.net/haboop/article/details/89743468)
+ > 大数据和云计算到底是何关系？
+ ## [物联网_云计算_互联网+_大数据_移动互联网_智慧城市_2025_工业4_AI_区块链](https://blog.csdn.net/u010209842/article/details/89313293)
+ > 物联网_云计算_互联网+_大数据_移动互联网_智慧城市_2025_工业4_AI_区块链
+ ## [大数据时代，主要需要什么类型的人才？](https://blog.csdn.net/weixin_44386638/article/details/89321448)
+ > 大数据时代，主要需要什么类型的人才？
+ ## [最通俗的解释下云计算，云计算的核心是什么？](https://blog.csdn.net/weixin_43346716/article/details/89028587)
+ > 最通俗的解释下云计算，云计算的核心是什么？
+ ## [确保 Web 安全的 HTTPS](https://blog.csdn.net/weixin_42662955/article/details/89053667)
+ > 确保 Web 安全的 HTTPS
+ ## [根据物联网提纲提炼的知识点（1）——第一章：物联网体系结构](https://blog.csdn.net/weixin_43830248/article/details/89186186)
+ > 根据物联网提纲提炼的知识点（1）——第一章：物联网体系结构
  ## [物联网智能停车解决方案](https://blog.csdn.net/qq_43359864/article/details/89457652)
  > 物联网智能停车解决方案
+ ## [物联网信息安全概述](https://blog.csdn.net/weixin_43630312/article/details/89337827)
+ > 物联网信息安全概述
+ ## [究竟什么是云计算，云计算的特性的介绍？](https://blog.csdn.net/zhinengxuexi/article/details/89089530)
+ > 究竟什么是云计算，云计算的特性的介绍？
 # PM 
  ## [家装进入存量房时代：是生门，也是死门](http://www.pmtoo.com/article/72641.html)
  > 对于不愿意自我革新、自我革命的从业者来讲，未来一定是一个最坏的时代；而对于那些勇于按照新的规律来进行自我革命和自我...
