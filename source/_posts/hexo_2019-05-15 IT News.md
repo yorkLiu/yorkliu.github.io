@@ -1,33 +1,29 @@
 ---
 title: 2019-05-15 IT News
 copyright: true
-date: 2019-05-15 08:01:11
+date: 2019-05-15 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [微信电话卡来了：9 元/月，还能免提现手续费](http://mp.weixin.qq.com/s?src=11&timestamp=1557878405&ver=1607&signature=nQB7I09COmxBP0Fi4Wqy6nNOYuuy9v75k*t7Nlqxk1H5OlxtRJkeP6Yy-yMciayIpftLfI8AqwA9EFKA6mdXIz3fjjBvqaS2mtfPX5VEPg8ahzfLWQJJ5tZGaymdHUuk&new=1)
- > 大家晚上好，这里是玩机课堂。说到流量王卡，大家应该都不陌生，在各大APP里面经常能看到，而且偶尔还会给我们推荐。各式各样的流量王卡，他们基本上都会免自家产品的流量，有些确实能给我们带来一些优惠。。。...
- ## [快看!517电信日大会近100位5G演讲嘉宾，全曝光!](http://mp.weixin.qq.com/s?src=11&timestamp=1557878405&ver=1607&signature=QuORlBwoGUGugX2pg9FviQN0*nLaIqR*6-QCkxaHlKFP4Mf5NbWuyLMou0bL8eeGqoYdJ1NBEltpyW7VUQN5fuVPAvjvnJdve47uKLfHYo1H5qdqtI7nFoE4kJ2VWrri&new=1)
- > 517电信日大会的嘉宾名单出炉啦！关于电信日、关于5G、你所憧憬的5G时代即将到来来源：通信世界黄海峰：资深科技媒体人，关注通信、终端、互联网、IT的融合发展。内容聚焦现场、干货、观察、爆料。格物致知。本...
- ## [苹果称有信心打赢反垄断诉讼案丨开心汽车登陆纳斯达克\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1557878405&ver=1607&signature=Q6GAnL2pJ5LZT7Fq13oAp4fHp8HsaeGStDVyqtiAnp37JPjjHfzNP-T1eXvyQYsbKU0RgghPqg06UgQHhiAUjK-XBJm6fbY4YIY4z7sRnrda0oZk*lfL4eLb1jYITwXx&new=1)
+ ## [苹果称有信心打赢反垄断诉讼案丨开心汽车登陆纳斯达克\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1557882005&ver=1607&signature=Q6GAnL2pJ5LZT7Fq13oAp4fHp8HsaeGStDVyqtiAnp2geUE9qFOKfvbrSkp7NTFHg89NMKhMkwgtCpmp62885EVUiGE86YrnDiIvoa*T2zY-sUAtPOrY-76fekre4sEX&new=1)
  > 5月14日 周二【Do说】编辑 | 李尧苹果回应美高院裁决：有信心赢得软件商店垄断诉讼据国外媒体报道，周一早些时候，美国最高法院裁定，一项针对苹果和其软件商店的重大反垄断诉讼将被允许向前推进。随后，苹果对...
- ## [今天Whatsapp又曝新漏洞，再不升级就晚了!玩手机如何保护隐私?](http://mp.weixin.qq.com/s?src=11&timestamp=1557878405&ver=1607&signature=UN7sTztU2PUb7RFh1fbRgtTRBQLM*tAWe20AVdAdpmnJYCmJ2kIlrIisWsVjWHCF4BB2z5ve-nYEaxUqA-pyX6ncgRJVfJ4WITDx9gy1wj8MXSFUJ9q1SEBx3NJlL8qW&new=1)
+ ## [今天Whatsapp又曝新漏洞，再不升级就晚了!玩手机如何保护隐私?](http://mp.weixin.qq.com/s?src=11&timestamp=1557882005&ver=1607&signature=UN7sTztU2PUb7RFh1fbRgtTRBQLM*tAWe20AVdAdpmn94wErz53S8ECDwd7iw6ukOcNucdK3o7sGe4waWNWdT3YiSS8f0rIzSnasuEuKcPEqT9z04pJrwgyMSr9XOTi4&new=1)
  > 今天，WhatsApp要求用户立即更新他们的应用程序，因为它遭遇了有史以来最严重的漏洞问题。在英国留学或者工作的小伙伴都知道，WhatsApp是Facebook旗下的一个即时通信类APP，因为功能上和大家常用的微信类似，所...
- ## [首期全国VR影像人才培训班今日开班，100余VR影像人齐聚长沙](http://mp.weixin.qq.com/s?src=11&timestamp=1557878405&ver=1607&signature=AcK3m3KEMSWowmYfV5if*xWE5Nwg0VpH4KxKXf4vluTqca99IcaWERwMF5ZBuATnyqRjM9ERpQy97GPHnsslCSn8F*HyAAgZbp-0TcgqfuvM6ja3eYatDwNjCXhEG2jD&new=1)
+ ## [快看!517电信日大会近100位5G演讲嘉宾，全曝光!](http://mp.weixin.qq.com/s?src=11&timestamp=1557882005&ver=1607&signature=QuORlBwoGUGugX2pg9FviQN0*nLaIqR*6-QCkxaHlKEEQqa5Elzuznje*qnZf-lMjbq93YEy5vZ5QCsM40Lr0BmNMlNTH5J6gCUnIdmWC96pMp88lVl9p1B-tLk5574b&new=1)
+ > 517电信日大会的嘉宾名单出炉啦！关于电信日、关于5G、你所憧憬的5G时代即将到来来源：通信世界黄海峰：资深科技媒体人，关注通信、终端、互联网、IT的融合发展。内容聚焦现场、干货、观察、爆料。格物致知。本...
+ ## [微信电话卡来了：9 元/月，还能免提现手续费](http://mp.weixin.qq.com/s?src=11&timestamp=1557882005&ver=1607&signature=nQB7I09COmxBP0Fi4Wqy6nNOYuuy9v75k*t7Nlqxk1H6Deamsy8eDRspHn2rHA5dKkhGr-T8yrwyEe3s5laBeDrEWFIDvRhcHoK9oRNmns5nVDPB6fzYWmR5VavYjBOG&new=1)
+ > 大家晚上好，这里是玩机课堂。说到流量王卡，大家应该都不陌生，在各大APP里面经常能看到，而且偶尔还会给我们推荐。各式各样的流量王卡，他们基本上都会免自家产品的流量，有些确实能给我们带来一些优惠。。。...
+ ## [首期全国VR影像人才培训班今日开班，100余VR影像人齐聚长沙](http://mp.weixin.qq.com/s?src=11&timestamp=1557882005&ver=1607&signature=AcK3m3KEMSWowmYfV5if*xWE5Nwg0VpH4KxKXf4vluTOfmW4tDC1MDkmz*wojvoTkjytDVQEtKZBwcEoE3bJJR9tYaUEEXznoPrcUf*aTVgvP37TScLXqceC45pjPRMC&new=1)
  > 开班式现场精彩视频  （摄像：阿诺、陈钢、蔡佳豪；视频编辑：阿诺）HPA5月14日，首期全国中青年网络文艺人才（VR）培训班在长沙开班，这是全国文联VR全景行业培训的“黄埔一期”。在6天的培训中，百余位VR艺术...
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [为什么从来不见微软话题下面有苹果员工来开黑？](https://www.zhihu.com/question/24711868)
  > 有合同问题，微软一向的政策是别给公司招黑闯祸，别泄露机密，其他的use best judgement，基本上是比较开放信任的，只要你大方得体就好。然而苹果整个公司的保密文化都非常严，原则上是不允许乱说话的，为了不被外人...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
- ## [如何看待爱情银行下架停服通知?](https://www.zhihu.com/question/317389465)
- > 像我和我女朋友这种上班的，一千块奖励就当随随便便签着玩。可是里面这么多学生情侣，他们是不是心心念念着这一千块，吃顿大餐买些有纪念意义的东西？如果我的学生年代，有人告诉我，坚持某件事一年就会给我1000块，...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
- ## [互联网高速发展的今天，盲人的生活有什么样的改变？](https://www.zhihu.com/question/32288332)
- > 我们曾发表过一篇描写盲人手机用户的文章。他们的职业各不相同，虽然身处在黑暗中，但他们对科技照样有着狂热的爱好。研究读屏软件、联系开发者、开发手机游戏……他们的要求其实很简单：和正常人使用一样的东西，获...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
  ## [小红书的流量是真的吗？普通用户如何利用小红书赚钱呢？](https://www.zhihu.com/question/320412355)
  > 是真的！！这个跟小红书的推荐内容运营机制有关系。之前在做小红书的分析，给你看个图：从受众上来看、小红书的受众主要来自一二线发达城市，以爱美、追求精致生活的90后年轻女孩为主；从内容定位上看，小红书主要是...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
@@ -38,10 +34,14 @@ categories: IT NEWS
  > 既然受欢迎，那就是有市场需求。我在天真蓝和猫头鹰都拍过形象照，尝试回答一下这个问题。我认为这些照相馆不能简单称为「网红店」，叫更专业或高端证件照的工作室还可以。因为他们的定位和服务的人群还是比较精准的...
  ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
  > 谢邀首先java基本功需要具备，所谓的基本功，不是简单的能写出代码，除了能写出来之外还要，在代码质量上面需要具体一定体现，比如对一些简单的多线程，以及常见的java框架有一定的修改，或者定制功能。那么java工程...
+ ## [2019为什么大家转行都去互联网运营？](https://www.zhihu.com/question/323056715)
+ > 因为门槛低，好入门啊，而且熟悉业务的转运营的非常简单；接下来我来详细讲解运营。。。运营分很多那么，我们要说运营做什么？运营应该说，做的是三块工作，人、物、场；所谓人：用户，没有用户一切都是白搭，如何获...
  ## [王者荣耀有什么鲜为人知的操作技巧？](https://www.zhihu.com/question/54500976)
  > 高段位真正拿出露娜、元歌、玄策、公孙离、不知火舞等这些超秀的英雄，并且能秀起来的人不超过5%。多数靠的是极其稳的心态以及大局观超级优秀的人，宁可错失人头绝不越塔，非优势绝不人数上以少打多等等。1.线的重要...
- ## [作为设计行业的过来人，你有什么话想对后辈说的？](https://www.zhihu.com/question/313840033)
- > 当你变秃了，你也就变强了。当你得了肩周炎，你也就具备了成功设计师的标配了。这是我经常跟学生讲的一句玩笑话，看似玩笑，其实也不是。从业这么多年，在设计这条路上，每个时期都有着不同的困惑，这些困惑大都是自...
+ ## [你遇到过什么样的探探骗局？](https://www.zhihu.com/question/285477061)
+ > 各位妹子真的真的要注意探探上面所谓的高学历洋垃圾了！！刚刚居然匹配到一个MIT的小哥（呵呵简直侮辱MIT）老娘在这破旮旯村地儿还能刷着MIT? 哦哟这个大哥装逼装的可谓清流。好吧，抱着90％的好奇和10％的...
+ ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
+ > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [「共享经济」的时代真的在到来吗？](https://www.zhihu.com/question/28643996)
  > 如今再来看这个知乎问题，竟然是极为讽刺。一个个人的感受是，目前街道上曾经随处可见的共享单车已经逐渐偃旗息鼓。在深圳，除了偶尔出现商场的共享充电宝以外，共享经济似乎竟然连仅存的硕果都没有剩下。2019年1月，...
  ## [你的佳能eos R 使用体验如何？](https://www.zhihu.com/question/320427109)
@@ -59,8 +59,6 @@ categories: IT NEWS
 # IT 技术 
  ## [vue组件间通信六种方式（完整版）](http://developer.51cto.com/art/201905/596394.htm)
  > vue组件间通信六种方式（完整版）
- ## [看看NASA喷气推进实验室是怎么搞人工智能的](http://ai.51cto.com/art/201905/596395.htm)
- > 看看NASA喷气推进实验室是怎么搞人工智能的
  ## [彻底吃透Web服务器，Web容器，Web应用程序服务器与反向代理](http://zhuanlan.51cto.com/art/201905/596342.htm)
  > 彻底吃透Web服务器，Web容器，Web应用程序服务器与反向代理
  ## [架构整洁之道，看这一篇就够了！](http://developer.51cto.com/art/201905/596339.htm)
@@ -73,72 +71,96 @@ categories: IT NEWS
  > 欲提升计算性能，就要将CPU从垃圾回收机制中解放出来！
  ## [你比个手势，AI就识别出Emoji，浏览器上跑：已开源](http://news.51cto.com/art/201905/596345.htm)
  > 你比个手势，AI就识别出Emoji，浏览器上跑：已开源
- ## [音视频篇 - Android 音视频涉及到的技术](https://blog.csdn.net/u014294681/article/details/89314114)
- > 音视频篇 - Android 音视频涉及到的技术
- ## [游戏开发一些小总结](https://blog.csdn.net/weixin_44166320/article/details/89451725)
- > 游戏开发一些小总结
- ## [99%的程序员都不明白：弱者和强者的唯一区别](https://blog.csdn.net/qun784783012/article/details/89334091)
- > 99%的程序员都不明白：弱者和强者的唯一区别
- ## [android音视频介绍（一）](https://blog.csdn.net/weixin_40769019/article/details/89337688)
- > android音视频介绍（一）
- ## [音视频基础知识---像素格式RGB](https://blog.csdn.net/adolph_lu/article/details/89706136)
- > 音视频基础知识---像素格式RGB
- ## [棋牌游戏开发运营必须走过的九个方面 不得不知](https://blog.csdn.net/motianyougame/article/details/89335115)
- > 棋牌游戏开发运营必须走过的九个方面 不得不知
- ## [观察者模式在游戏开发中的应用](https://blog.csdn.net/JianZuoGuang/article/details/89922067)
- > 观察者模式在游戏开发中的应用
- ## [B 站在 Github 上公开了自己的后端源代码?](https://blog.csdn.net/huaairen/article/details/89461637)
- > B 站在 Github 上公开了自己的后端源代码?
- ## [抖音视频怎么制作](https://blog.csdn.net/kakaxiss/article/details/89308759)
- > 抖音视频怎么制作
- ## [creator-游戏开发基本语法](https://blog.csdn.net/Mihongzhong/article/details/89335430)
- > creator-游戏开发基本语法
- ## [Day10 - 图形用户界面和游戏开发](https://blog.csdn.net/qq_44621510/article/details/89786049)
- > Day10 - 图形用户界面和游戏开发
+ ## [如何创建完美的决策树](http://ai.51cto.com/art/201905/596327.htm)
+ > 如何创建完美的决策树
+ ## [什么是网络VRRP协议，它真的能解决网络稳定性问题吗？](http://network.51cto.com/art/201905/596403.htm)
+ > 随着互联网的快速发展，对于企业用户而言，网络传输的不中断尤为重要。为了更好地解决由于网关故障引起的网
+ ## [工业物联网核心技术――MQTT（二）](http://iot.51cto.com/art/201905/596402.htm)
+ > MQTT最大的优点在于可以以极少的代码和有限的带宽，为远程设备提供实时可靠的消息服务。做为一种低开销、低
+ ## [啤酒公司如何利用物联网和人工智能](http://iot.51cto.com/art/201905/596400.htm)
+ > 每个行业都可以利用物联网（IOT）和人工智能（AI），包括葡萄酒、白酒和啤酒公司。
+ ## [区块链和人工智能：完美匹配](http://blockchain.51cto.com/art/201905/596399.htm)
+ > 区块链和人工智能是目前最热门的两种技术趋势。尽管这两种技术有着高度不同的开发方和应用，但研究人员一直
+ ## [运维我为什么不用 Web 面板？](http://os.51cto.com/art/201905/596401.htm)
+ > 各种服务器面板我试用过几个主流的，但我都没有在自己的 VPS 上使用过，自己的服务器我还是偏向于控制台终
+ ## [工业物联网核心技术――MQTT（一）](http://iot.51cto.com/art/201905/596398.htm)
+ > MQTT最大的优点在于可以以极少的代码和有限的带宽，为远程设备提供实时可靠的消息服务。做为一种低开销、低
+ ## [5G终端过万元你能承受吗](http://network.51cto.com/art/201905/596396.htm)
+ > 中国联通近日公布了5G先锋计划，推出了6款5G手机和一款5G CPE产品。5G手机售价全部超过1万元，CPE价格为980
+ ## [头条资讯项目](https://blog.csdn.net/qq_35508033/article/details/89380838)
+ > 头条资讯项目
+ ## [棋牌游戏开发各关卡难度如何维持生态平衡](https://blog.csdn.net/motianyougame/article/details/89710702)
+ > 棋牌游戏开发各关卡难度如何维持生态平衡
+ ## [CocosCreator之KUOKUO演示容易被忽略的API](https://blog.csdn.net/kuokuo666/article/details/89646393)
+ > CocosCreator之KUOKUO演示容易被忽略的API
+ ## [区块链：让回报远远大于风险](https://blog.csdn.net/weixin_44172023/article/details/89306455)
+ > 区块链：让回报远远大于风险
+ ## [深入 GalCon Python 游戏开发和人工智能](https://blog.csdn.net/qq_44925249/article/details/89814967)
+ > 深入 GalCon Python 游戏开发和人工智能
+ ## [一点资讯js解密](https://blog.csdn.net/weixin_41074255/article/details/90089160)
+ > 一点资讯js解密
  ## [游戏开发——游戏AI的简述](https://blog.csdn.net/Jekin_KE/article/details/89670410)
  > 游戏开发——游戏AI的简述
- ## [音视频篇 - 初识 OpenGL ES 2.0](https://blog.csdn.net/u014294681/article/details/89375311)
- > 音视频篇 - 初识 OpenGL ES 2.0
- ## [CocosCreator之KUOKUO趣味文章：小怪会勘探 4](https://blog.csdn.net/kuokuo666/article/details/89398563)
- > CocosCreator之KUOKUO趣味文章：小怪会勘探 4
- ## [音视频质量分析解析](https://blog.csdn.net/mazhitong1020/article/details/89887605)
- > 音视频质量分析解析
- ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
- > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [区块链安全解释](https://blog.csdn.net/weixin_44172023/article/details/89306440)
+ > 区块链安全解释
+ ## [棋牌游戏开发如何防御恶意攻击 给予玩家公平氛围](https://blog.csdn.net/motianyougame/article/details/89380630)
+ > 棋牌游戏开发如何防御恶意攻击 给予玩家公平氛围
+ ## [游戏开发一些小总结](https://blog.csdn.net/weixin_44166320/article/details/89451725)
+ > 游戏开发一些小总结
+ ## [前端安全传输安全](https://blog.csdn.net/u011078141/article/details/89397184)
+ > 前端安全传输安全
+ ## [有什么好用的会议记录APP或语音转文字的软件？](https://blog.csdn.net/wdy19980121/article/details/89403562)
+ > 有什么好用的会议记录APP或语音转文字的软件？
+ ## [线程安全与非安全基本概念](https://blog.csdn.net/JY_He/article/details/89308290)
+ > 线程安全与非安全基本概念
+ ## [高手把编程语言替换成中文！程序员看了表示头疼](https://blog.csdn.net/ajian6/article/details/89708586)
+ > 高手把编程语言替换成中文！程序员看了表示头疼
+ ## [Python入门教程：Day10-图形用户界面和游戏开发](https://blog.csdn.net/w17688977481/article/details/89332128)
+ > Python入门教程：Day10-图形用户界面和游戏开发
  ## [大疆下乡记：植保无人机推广背后的产业难题](http://www.lanjingtmt.com/news/detail/42533.shtml)
  > 作为国内无人机独角兽企业，大疆近期因内部贪腐和员工泄密事件站上舆论风口。一位接近大疆的知情人士表示，“在经历了这些事之后，大疆内部正发生一些积极而明显的改变。”
 # 人工智能 
- ## [微服务架构和SOA架构](https://blog.csdn.net/lizhiqiang1217/article/details/89879950)
- > 微服务架构和SOA架构
- ## [C. 高可扩展架构 --- 微服务架构](https://blog.csdn.net/micklongen/article/details/89745811)
- > C. 高可扩展架构 --- 微服务架构
- ## [数据库系列（一）:数据库基础01](https://blog.csdn.net/Ithao2/article/details/89530956)
- > 数据库系列（一）:数据库基础01
- ## [lnmp架构 -- 部署论坛](https://blog.csdn.net/weixin_43273168/article/details/89706299)
- > lnmp架构 -- 部署论坛
- ## [学习笔记之数据库（一）操作数据库](https://blog.csdn.net/u011078141/article/details/89397201)
- > 学习笔记之数据库（一）操作数据库
- ## [数据库学习——针对测试需要掌握的知识](https://blog.csdn.net/Pluto__lxh/article/details/89393585)
- > 数据库学习——针对测试需要掌握的知识
- ## [微服务架构理解及微服务架构局限性](https://blog.csdn.net/hqs2212586/article/details/89464591)
- > 微服务架构理解及微服务架构局限性
- ## [六西格玛设计DFSS在研发管理中是怎么应用的](https://blog.csdn.net/u011078141/article/details/89397172)
- > 六西格玛设计DFSS在研发管理中是怎么应用的
- ## [大数据架构中的流式架构和Kappa架构](https://blog.csdn.net/yoggieCDA/article/details/89711651)
- > 大数据架构中的流式架构和Kappa架构
- ## [如何对项目中大量批量操作进行优化提升项目性能（mybitis中sql优化）。](https://blog.csdn.net/u010740917/article/details/89330751)
- > 如何对项目中大量批量操作进行优化提升项目性能（mybitis中sql优化）。
- ## [CODING如何使用CODING研发管理统来敏捷开发](https://blog.csdn.net/u011078141/article/details/89397121)
- > CODING如何使用CODING研发管理统来敏捷开发
- ## [【架构】分布式事务](https://blog.csdn.net/m18633778874/article/details/90110788)
- > 【架构】分布式事务
- ## [选择scrum任务看板管理工具的要点](https://blog.csdn.net/guowanwanwan/article/details/89377353)
- > 选择scrum任务看板管理工具的要点
- ## [nginx架构模型分析](https://blog.csdn.net/qq_29677867/article/details/89888809)
- > nginx架构模型分析
- ## [项目经理面试的一些经验分享](https://blog.csdn.net/lp1052843207/article/details/89562226)
- > 项目经理面试的一些经验分享
+ ## [安全基础——安全术语](https://blog.csdn.net/CN_SHzhaoyujie/article/details/89857131)
+ > 安全基础——安全术语
+ ## [20190408每周精品之淘宝](https://blog.csdn.net/huawangxin/article/details/89418168)
+ > 20190408每周精品之淘宝
+ ## [Linux下数据库的管理及基本操作](https://blog.csdn.net/qq_36016375/article/details/89474092)
+ > Linux下数据库的管理及基本操作
+ ## [大数据与云计算：进入技术爆发期](https://blog.csdn.net/qq_38459998/article/details/90168067)
+ > 大数据与云计算：进入技术爆发期
+ ## [Windows 安全系列05-U盘安全](https://blog.csdn.net/qq_29277155/article/details/89668032)
+ > Windows 安全系列05-U盘安全
+ ## [区块链安全解释](https://blog.csdn.net/weixin_44172023/article/details/89306440)
+ > 区块链安全解释
+ ## [接口安全验证](https://blog.csdn.net/weixin_41119539/article/details/89711803)
+ > 接口安全验证
+ ## [\[超详细\]通过实例讲解栈溢出漏洞](https://blog.csdn.net/Breeze_CAT/article/details/89788864)
+ > \[超详细\]通过实例讲解栈溢出漏洞
+ ## [大数据与云计算、物联网有什么关系？大数据的几种应用前景分析](https://blog.csdn.net/dashujvyu/article/details/89765536)
+ > 大数据与云计算、物联网有什么关系？大数据的几种应用前景分析
+ ## [TP5学习（十二）：安全](https://blog.csdn.net/weixin_41423450/article/details/89792233)
+ > TP5学习（十二）：安全
+ ## [web安全文件包含渗透攻击](https://blog.csdn.net/qq_42094992/article/details/89763655)
+ > web安全文件包含渗透攻击
+ ## [空间大数据是什么，与云计算和大数据之间有什么关系？](https://blog.csdn.net/weixin_43346716/article/details/89405803)
+ > 空间大数据是什么，与云计算和大数据之间有什么关系？
+ ## [大数据和云计算是如何结合](https://blog.csdn.net/qq_38459998/article/details/90167797)
+ > 大数据和云计算是如何结合
+ ## [URL编码 - Java加密与安全](https://blog.csdn.net/Leon_Jinhai_Sun/article/details/89885719)
+ > URL编码 - Java加密与安全
+ ## [Linux下web服务器Apache的常规部署](https://blog.csdn.net/qq_36016375/article/details/89554812)
+ > Linux下web服务器Apache的常规部署
 # PM 
+ ## [机器学习算法生成的界面，真的能被用户理解吗？](http://www.woshipm.com/ai/2339700.html)
+ > 机器学习算法可以基于用户信息和行为数据，为用户推荐感兴趣的内容，但是当这些内容被展示到界面上时，用户真的能够理解吗？一个基于机器学习的人机交互研究表明：在...
+ ## [产品人的自我修养：从入门到优秀，再到卓越](http://www.woshipm.com/pmd/2271186.html)
+ > 产品经理的三项职责：产品策略、优先级及执行力。成为一个优秀的产品经理，从这三点开始！我深深地热爱着产品经理这个岗位，我坚信人人都是产品经理。虽然他们不在产...
+ ## [如何进行流程创新，以最经济的方式提升产品体验？](http://www.woshipm.com/operate/2338344.html)
+ > 设计产品流程，不应当只是简单的把线下业务复制到线上，而是强调以最经济的方式，改善业务过程，提升用户的整体体验。产品经理谈到“怎么画业务流程图”，往往有两个问...
+ ## [前湖畔大学梁宁：一个产品经理的奥德赛之旅](http://www.woshipm.com/kol/2330798.html)
+ > 上周末，人人都是产品经理举办的【 2019产品创新大会·北京站】完美落幕。君曜FOF创始合伙人/前湖畔大学产品模块主任梁宁，给大家分享了《一个产品经理的奥德赛之旅》，...
+ ## [线下课程 | 12年数据行业经历，有这些经验想分享给你…](http://www.woshipm.com/active/2335564.html)
+ > 很多做运营五六年的同学经常会问：当业务增长缓慢，原来的推广效果越来越弱时，为什么有的团队能够增长，有的却停滞不前？对公司来说，那些能适应变化，定位并解决问题...
  ## [用户资本主义下新零售迎来新革命](http://www.chanpin100.com/article/108424)
  > 用户资本主义即将用户作为一种战略资源进行储备，在新零售时代尤为重要。
  ## [2019设计之旅16-设计清单分享](http://www.chanpin100.com/article/108425)
