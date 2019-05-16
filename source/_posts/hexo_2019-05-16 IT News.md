@@ -1,20 +1,20 @@
 ---
 title: 2019-05-16 IT News
 copyright: true
-date: 2019-05-16 08:01:23
+date: 2019-05-16 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [对讲电台万能无线电网关，应急指挥现场的通讯利器](http://mp.weixin.qq.com/s?src=11&timestamp=1557964805&ver=1609&signature=Dg1cRWp9E3FYOU*lPpbmRf*MBJTr2iv6bY5GgWo54yYRHP7a1fo8Bo0cI1ME074JgTkFfSVyNABP*ng1RcgvmhWwNKPnaTnySHS0zV9gvSItCVyqjVbWg1wbqXn3gv5V&new=1)
- > 当面对突发的自然灾害，森林火灾、地震、泥石流等。险情就是命令，各路救援力量在第一时间内，都会奔赴抢险救灾现场，这时候往往各自为战。比如前不久的森林大火，当时参与灭火及救援的队伍和组织多达上百个。有...
- ## [5G临时牌照或将发放，商用大幕已经开启](http://mp.weixin.qq.com/s?src=11&timestamp=1557964805&ver=1609&signature=E0guA3Iyb94BaNKU-cyCcJjxDXyUxDtGoPzsTGOkG7DF0fDFN5wlym9Gg-s4zUocKpUTZ7RstjJJQztsqdhpGomgbf0-UkHifqmO9yZK55bT5Z51zrcEbcTKu2Aefwx-&new=1)
- > 报告来源：广发证券、华泰证券、网络资料前 言：5月17日是世界电信日，业内认为这是5G临时牌照发放的重要时间点。日前中国联通在活动上表示，北京联通已率先开展面向商用的5G规模试验，近期北京将开始5G的试商用...
- ## [20余款被下架!这些教育类APP涉黄，你中招了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1557964805&ver=1609&signature=bXNw3F7gmRN51ZLmlArKxul7GcvaaBDixFEyzjNCdPL1awjw3ufQTvheADP8Pn-F7w*YPKIrJDS-7d7cviyzZ8bAqZzWgLpJIGvILz5mVwgSSW4BiO8BhFkIOSLR6hg2&new=1)
- > 2019年1月至4月，国家网信办会同教育部、全国扫黄打非办等有关部门开展教育类移动应用程序专项整治。根据网民举报线索，对国内教育类移动应用程序信息服务组织巡查，查实“作业狗”“口袋老师”“初中知识...
- ## [\[报告\]2018物流行业投融资研究(附38页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1557964805&ver=1609&signature=VJB6r3hO1dnF2hErOewdgoKUA0qM6Mbdx0XZ6-jlRW4JLFM03kuTrP2yB4TWCW-MIyybNnp2tSCv5HMIfkiNxNzUPodtdIXTWD9KwGK8f8HIznu714QddEPGkbhlZai*&new=1)
+ ## [\[报告\]2018物流行业投融资研究(附38页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1557968405&ver=1609&signature=VJB6r3hO1dnF2hErOewdgoKUA0qM6Mbdx0XZ6-jlRW4JLFM03kuTrP2yB4TWCW-MhnMpBgapX3GSLskmuh-kMYMip7jblNi-LN7UxwvIZvZ5Xrcif9GQRFEjplRFGZ94&new=1)
  > 与其相忘江湖，不如点击“蓝字”关注过去一年，物流行业平均每2.4天有一起融资事件发生2018年，物流行业共发生融资事件约150起，公开部分融资金额累计约862.02亿人民币。纵观2007-2018历年投融资数据，物流行业...
- ## [按需制造平台Xometry获5000万美元最新一轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1557964805&ver=1609&signature=k3rDNIc4acI4cweSSuHRIGlXwy3a2doAhlxOeCGnJaXBtFtXNQRzxw9C4iVxUZGWTylVh9C5xAtL2kw3bypfSDXag07s0NnasseXUAOVVM43KQDuqb10Ln2eeaUx5HjK&new=1)
+ ## [5G临时牌照或将发放，商用大幕已经开启](http://mp.weixin.qq.com/s?src=11&timestamp=1557968405&ver=1609&signature=E0guA3Iyb94BaNKU-cyCcJjxDXyUxDtGoPzsTGOkG7DF0fDFN5wlym9Gg-s4zUoc3ag3dDMInsk2788CbMCiQNj7n9js3PG-B40i-GneODk1zM4H264CowCaxg6hHPUf&new=1)
+ > 报告来源：广发证券、华泰证券、网络资料前 言：5月17日是世界电信日，业内认为这是5G临时牌照发放的重要时间点。日前中国联通在活动上表示，北京联通已率先开展面向商用的5G规模试验，近期北京将开始5G的试商用...
+ ## [20余款被下架!这些教育类APP涉黄，你中招了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1557968405&ver=1609&signature=bXNw3F7gmRN51ZLmlArKxul7GcvaaBDixFEyzjNCdPL1awjw3ufQTvheADP8Pn-F-xOQ6hiIIjKcFplXcj5UhhhzJUIftRdU0uWd0vEH98EuzKkOumLLqdgWjnTbY9BZ&new=1)
+ > 2019年1月至4月，国家网信办会同教育部、全国扫黄打非办等有关部门开展教育类移动应用程序专项整治。根据网民举报线索，对国内教育类移动应用程序信息服务组织巡查，查实“作业狗”“口袋老师”“初中知识...
+ ## [对讲电台万能无线电网关，应急指挥现场的通讯利器](http://mp.weixin.qq.com/s?src=11&timestamp=1557968405&ver=1609&signature=Dg1cRWp9E3FYOU*lPpbmRf*MBJTr2iv6bY5GgWo54yYRHP7a1fo8Bo0cI1ME074J3cQBvFF967nHpHwZ4w4vFWlDaN83aJwcGwUNF3wo0K0mV1lRIJ47w8F9H2kijT4U&new=1)
+ > 当面对突发的自然灾害，森林火灾、地震、泥石流等。险情就是命令，各路救援力量在第一时间内，都会奔赴抢险救灾现场，这时候往往各自为战。比如前不久的森林大火，当时参与灭火及救援的队伍和组织多达上百个。有...
+ ## [按需制造平台Xometry获5000万美元最新一轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1557968405&ver=1609&signature=k3rDNIc4acI4cweSSuHRIGlXwy3a2doAhlxOeCGnJaXBtFtXNQRzxw9C4iVxUZGWFtvT1njkH0-WdnFweUnxNZYLFC*9stq8GEhHLHC8Vv23YgJrk69r57fRrDtUWtwN&new=1)
  > 导读：按需制造平台Xometry宣布，它最新筹集了5000万美元的股权融资，使总融资额达到1.13亿美元。总部位于马里兰州的按需制造平台Xometry在由Greenspring Associates牵头的新一轮融资中筹集了5000万美元。X
  ## [2019为什么大家转行都去互联网运营？](https://www.zhihu.com/question/323056715)
  > 这种问题……难道不是应该先问「是不是」，再问「为什么」吗？我在百度指数上拉一个很长的时间跨度（对，8年多），我没有发现「运营」这个关键词的热度超过了「产品经理」如果看微信指数（对不起，跨度不够了，只有9...
@@ -42,67 +42,63 @@ categories: IT NEWS
  > 现在不论是大数据培训还是其他的培训，我们都称之为职业技能培训，是以就业为导向的，然而就业这把尺子却是无形的，他没办法量化标准，所以就有培训这个行业实力参差不齐的情况，这个时候就需要大家擦亮眼睛了。既然...
  ## [「共享经济」的时代真的在到来吗？](https://www.zhihu.com/question/28643996)
  > 如今再来看这个知乎问题，竟然是极为讽刺。一个个人的感受是，目前街道上曾经随处可见的共享单车已经逐渐偃旗息鼓。在深圳，除了偶尔出现商场的共享充电宝以外，共享经济似乎竟然连仅存的硕果都没有剩下。2019年1月，...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [某人意外去世后，家人如何知道他做了哪些互联网投资并拿回钱？](https://www.zhihu.com/question/25817086)
+ > 一、我们先来看银行存款首先，他们是不会主动告诉当事人亲属：你家谁谁在我家银行账户还有钱。当事人出现意外，如果家属知道有钱存银行的情况下：家属可以去公证处，开一个查询银行存款函，查处死者在银行的存款。然...
+ ## [产品设计是不是外观设计？](https://www.zhihu.com/question/280311011)
+ > 河豚曾经回答过一个问题，设计师最悲哀的时刻是什么。设计师最悲哀的事-放弃了想法输出，成为了被动接受输入的乙方，沦为美工，只进行造型设计。由于设计教育的问题，很多老师、学生，甚至是在职设计师对于自己的定位...
  ## [小程序开发制作哪家好？](https://www.zhihu.com/question/68541065)
  > 不要找不了解需求就定价格的：因为如果不了解需求就定价格，在途中因客户而产生的变化会增加工作量，谁都不愿意承担多出来的工作量和工时，这会增加项目风险。所以要找前期经过充分沟通之后靠功能列表来定价的。找有...
- ## [请问有哪些好的产品经理培训呢？](https://www.zhihu.com/question/51538839)
- > 产品经理培训互联网发展多年5G时代到来，产品知识逐步形成体系化，产品经理需求很大，但是，公司要求越来越高，通过自学直接胜任产品经理难度很大，对产品岗感兴趣的朋友，零基础的可以选择参加零基础转行培训班来平...
+ ## [如何看待今日头条起诉腾讯并索赔9000w?](https://www.zhihu.com/question/279545283)
+ > 上述新闻未经证实，如果事实存在，也只是彼此互怼的公关传播手段，来而不往非礼也：公关角度：赔偿只是形式，商业竞争上，如果对方败诉并道歉才是真正的有效打击。腾讯要求头条赔偿1元在前；头条要求腾讯在后，气势上...
+ ## [知乎的问答氛围是什么？](https://www.zhihu.com/question/19761706)
+ > 我发现除了色情网站，氛围最好的社交平台就是类似全民k歌，唱吧了。里面各个年龄段的人都有，每个人都能找到属于自己的群体。无论你多大年纪，喜欢什么歌，只要你敢唱，就有人夸你好听，就送你花花。玩了两天猜歌游戏...
+ ## [我就问问晋江签约作者的收入？](https://www.zhihu.com/question/49600996)
+ > 晋江作者，当过小网站枪手，这里就匿名了。我其实挺好奇你们一个月只有几百的怎么赚钱的……我当初当枪手的时候，刚开始起步，每天6000字，一个月还两千呢。我朋友当枪手，一天8000，一个月5000。我另一个朋友在网易...
  ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
  > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
- ## [互联网运营小白想要系统学习，该如何入手？](https://www.zhihu.com/question/320669618)
- > 如果是小白想学习互联网运营，依个人愚见觉得最重要的两点就是先去了解产品和他的用户，然后再了解岗位。为什么这么说，运营本来就是一个催生的行业，因为前几年运营就是我们所说的网站编辑，新闻编务等等，大家上网...
- ## [长期泡在网吧的人生活是什么样子的？](https://www.zhihu.com/question/36720784)
- > 大学同宿舍有个昼伏夜出的，爱玩传奇私服。我痛恨那种画面，觉得像一滩酒鬼呕吐物，所以不玩。这个人因长期作息不规律，内分泌紊乱，脸黝黑，颧骨突出，皮肤粗糙，长满痘子。他曾经拿出高中照片给我们看，看上去完全...
- ## [如何评价《宰执天下》?](https://www.zhihu.com/question/33823835)
- > 最近看《宰执天下》，想写一写和多年前看的《新宋》的比较。首先二者是有一些共同点的：都是穿越文，都是从宋神宗熙宁朝开始。大背景都是王安石变法主角最后都大权在握。虽然，《新》还是很强的儒家背景，作者虽然是...
 # IT 技术 
- ## [看看NASA喷气推进实验室是怎么搞人工智能的](http://ai.51cto.com/art/201905/596395.htm)
- > 看看NASA喷气推进实验室是怎么搞人工智能的
- ## [英特尔再曝漏洞，影响2011年以来几乎所有的产品](http://netsecurity.51cto.com/art/201905/596464.htm)
- > 英特尔再曝漏洞，影响2011年以来几乎所有的产品
- ## [一个牛逼的创业公司后台技术栈搭建方案](http://developer.51cto.com/art/201905/596409.htm)
- > 一个牛逼的创业公司后台技术栈搭建方案
- ## [如何创建完美的决策树](http://ai.51cto.com/art/201905/596327.htm)
- > 如何创建完美的决策树
- ## [国产手机十年厮杀过后，为何只剩下华为带着米OV?](http://news.51cto.com/art/201905/596453.htm)
- > 国产手机十年厮杀过后，为何只剩下华为带着米OV?
- ## [vue组件间通信六种方式（完整版）](http://developer.51cto.com/art/201905/596394.htm)
- > vue组件间通信六种方式（完整版）
- ## [啤酒公司如何利用物联网和人工智能](http://iot.51cto.com/art/201905/596400.htm)
- > 啤酒公司如何利用物联网和人工智能
- ## [不了解这12个语法糖，别说你会Java！](http://zhuanlan.51cto.com/art/201905/596386.htm)
- > 不了解这12个语法糖，别说你会Java！
+ ## [程序员笔记|详解Eureka缓存机制](http://zhuanlan.51cto.com/art/201905/596480.htm)
+ > Eureka是Netflix开源的、用于实现服务注册和发现的服务。Spring Cloud Eureka基于Eureka进行二次封装，增加
+ ## [想了解物联网的未来？询问开发者！](http://iot.51cto.com/art/201905/596479.htm)
+ > 一项对物联网开发商的新调查显示，随着物联网项目投入生产，连接性、性能和标准正日益受到关注。
+ ## [为你的数据中心制定全面的预算计划](http://network.51cto.com/art/201905/596478.htm)
+ > 数据中心预算规划是一项艰巨的任务，这通常需要IT管理层与高管、供应商、服务提供商和数据中心管理员协作完
+ ## [物联网的商业史](http://iot.51cto.com/art/201905/596477.htm)
+ > 物联网技术可以极大地造福您的公司。要了解这项技术如何帮助您的公司，了解该技术背后的历史非常重要。从过
+ ## [企业上云之多云存储管理需要避免的5个错误](http://cloud.51cto.com/art/201905/596476.htm)
+ > 多云存储能够降低成本、确保可靠性、提高存储性能。但是，当一个简单的管理错误或疏忽导致方法不可靠或不安
+ ## [无线路由器为什么需要重启 看完你就知道](http://network.51cto.com/art/201905/596475.htm)
+ > 使用WiFi网络，无论是上网刷微博，还是在线追剧，亦或是进行在线游戏，经常卡顿的现象是最让人受不了的。有
  ## [60K！刚面完Python！这个被Oracle裁掉的程序员求职刷爆全网！](https://blog.csdn.net/CSDNedu/article/details/90231106)
  > 60K！刚面完Python！这个被Oracle裁掉的程序员求职刷爆全网！
- ## [音视频篇 - 初识 OpenGL ES 2.0](https://blog.csdn.net/u014294681/article/details/89375311)
- > 音视频篇 - 初识 OpenGL ES 2.0
- ## [（三）编程语言和计算机系统的层次](https://blog.csdn.net/CarmenIsOK/article/details/89407878)
- > （三）编程语言和计算机系统的层次
- ## [学习前端基础之第一天](https://blog.csdn.net/qq_39625091/article/details/89457511)
- > 学习前端基础之第一天
- ## [通俗的理解：什么是编程语言？](https://blog.csdn.net/weixin_44015669/article/details/89818608)
- > 通俗的理解：什么是编程语言？
- ## [Permute for Mac(万能音视频格式转换软件) v3.2.1汉化激活版](https://blog.csdn.net/anfeng_123/article/details/89735684)
- > Permute for Mac(万能音视频格式转换软件) v3.2.1汉化激活版
- ## [\[语言思考\]编程语言自举的意义](https://blog.csdn.net/BaiHuaXiu123/article/details/89377250)
- > \[语言思考\]编程语言自举的意义
- ## [自学计算机编程语言经历！](https://blog.csdn.net/weixin_42588847/article/details/89763825)
- > 自学计算机编程语言经历！
+ ## [【HTML5移动开发学习笔记】01-CH1-CH3-HTML5新元素](https://blog.csdn.net/weixin_41835977/article/details/89433685)
+ > 【HTML5移动开发学习笔记】01-CH1-CH3-HTML5新元素
+ ## [HashMap的带函数参数方法](https://blog.csdn.net/tangzekk/article/details/89739255)
+ > HashMap的带函数参数方法
+ ## [js 实现 前端国际化](https://blog.csdn.net/qq_37802298/article/details/90081222)
+ > js 实现 前端国际化
+ ## [克服“水土不服”，融云助攻小象直播杀破“出海重围”](https://blog.csdn.net/yangtongchao187/article/details/89382773)
+ > 克服“水土不服”，融云助攻小象直播杀破“出海重围”
+ ## [前端面试题第一章](https://blog.csdn.net/weixin_43073223/article/details/89373742)
+ > 前端面试题第一章
+ ## [前端要怎么学，前端学习路线图](https://blog.csdn.net/aliyunc/article/details/89418661)
+ > 前端要怎么学，前端学习路线图
+ ## [Android内存优化————虚引用与弱引用的使用及内存分析工具](https://blog.csdn.net/qq_32019367/article/details/89814545)
+ > Android内存优化————虚引用与弱引用的使用及内存分析工具
+ ## [web前端开发入门视频教程 前端架构师课程](https://blog.csdn.net/fengliaoai/article/details/89785388)
+ > web前端开发入门视频教程 前端架构师课程
+ ## [Python基础提高](https://blog.csdn.net/gxz987/article/details/89406823)
+ > Python基础提高
+ ## [操作系统 - 基础、硬件基础](https://blog.csdn.net/qq_37873426/article/details/89328904)
+ > 操作系统 - 基础、硬件基础
+ ## [Android开发-Android应用中启动时引导页的实现](https://blog.csdn.net/fukaimei/article/details/89667584)
+ > Android开发-Android应用中启动时引导页的实现
  ## [前端常用标签](https://blog.csdn.net/yzyggu/article/details/89335882)
  > 前端常用标签
- ## [前端---XML基础](https://blog.csdn.net/weixin_42962924/article/details/89296196)
- > 前端---XML基础
- ## [使用MediaCodeC将图片集编码为视频](https://blog.csdn.net/JadynAi/article/details/89847026)
- > 使用MediaCodeC将图片集编码为视频
- ## [前端安全传输安全](https://blog.csdn.net/u011078141/article/details/89397184)
- > 前端安全传输安全
- ## [java012：final关键字和抽象类](https://blog.csdn.net/weixin_44699728/article/details/89407727)
- > java012：final关键字和抽象类
- ## [前端基础之css动画](https://blog.csdn.net/qianduanshuo/article/details/90114809)
- > 前端基础之css动画
- ## [Bash 和 Python 编程语言优缺点分析](https://blog.csdn.net/Listen2You/article/details/89891696)
- > Bash 和 Python 编程语言优缺点分析
+ ## [Android开发---任务和返回栈（Task栈）](https://blog.csdn.net/weixin_39071173/article/details/89335433)
+ > Android开发---任务和返回栈（Task栈）
+ ## [Flutter基础（一）移动开发跨平台技术的百家争鸣](https://blog.csdn.net/itachi85/article/details/89469703)
+ > Flutter基础（一）移动开发跨平台技术的百家争鸣
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [焦虑的 BAT、不安的编程语言，揭秘程序员技术圈生存现状！](https://blog.csdn.net/csdnnews/article/details/90233279)
@@ -116,37 +112,41 @@ categories: IT NEWS
  ## [网易2019年Q1净收入183亿元，同比增长29.5%](http://www.lanjingtmt.com/news/detail/42552.shtml)
  > 在今年第一季度，网易进行了一系列结构优化，来磨砺这些核心增长点。网易仍将专注于提高效率和这些主要业务线的投资回报率。
 # 人工智能 
- ## [微服务架构理解及微服务架构局限性](https://blog.csdn.net/hqs2212586/article/details/89464591)
- > 微服务架构理解及微服务架构局限性
- ## [微服务架构的挑战](https://blog.csdn.net/shenzhen_zsw/article/details/89399212)
- > 微服务架构的挑战
- ## [花马云10亿无作为，被同事骂的当众落泪，后为阿里创造4500亿价值](https://blog.csdn.net/qq_36860032/article/details/89196705)
- > 花马云10亿无作为，被同事骂的当众落泪，后为阿里创造4500亿价值
- ## [我与软件工程相约](https://blog.csdn.net/Liymanman/article/details/89705843)
- > 我与软件工程相约
- ## [程序人生思考 （一）-- 还需要再学一门语言吗](https://blog.csdn.net/u011033906/article/details/89396011)
- > 程序人生思考 （一）-- 还需要再学一门语言吗
- ## [忆旧路：雄关漫道真如铁，而今迈步从头越](https://blog.csdn.net/sun_DongLiang/article/details/89820615)
- > 忆旧路：雄关漫道真如铁，而今迈步从头越
- ## [秒懂Hive架构!!!](https://blog.csdn.net/weixin_42312342/article/details/89481526)
- > 秒懂Hive架构!!!
- ## [如何用一句话通过面试？美国科技名企版](https://blog.csdn.net/kukelook/article/details/88876516)
- > 如何用一句话通过面试？美国科技名企版
- ## [LNMP架构详解（1）——了解架构的基本信息](https://blog.csdn.net/meltsnow/article/details/89849447)
- > LNMP架构详解（1）——了解架构的基本信息
- ## [项目经理面试的一些经验分享](https://blog.csdn.net/lp1052843207/article/details/89562226)
- > 项目经理面试的一些经验分享
- ## [六西格玛设计DFSS在研发管理中是怎么应用的？](https://blog.csdn.net/tainxingjian/article/details/89227354)
- > 六西格玛设计DFSS在研发管理中是怎么应用的？
- ## [CODING如何使用CODING研发管理统来敏捷开发](https://blog.csdn.net/u011078141/article/details/89397121)
- > CODING如何使用CODING研发管理统来敏捷开发
- ## [RChain架构详细介绍](https://blog.csdn.net/shangsongwww/article/details/89311679)
- > RChain架构详细介绍
- ## [为什么上班只是坐着，还是会觉得累](https://blog.csdn.net/Java_15707951907/article/details/89713307)
- > 为什么上班只是坐着，还是会觉得累
- ## [程序人生思考 （二）-- 如何快速上手一门语言](https://blog.csdn.net/u011033906/article/details/89398197)
- > 程序人生思考 （二）-- 如何快速上手一门语言
+ ## [C. 人工智能 --- 监督算法](https://blog.csdn.net/micklongen/article/details/89796699)
+ > C. 人工智能 --- 监督算法
+ ## [游戏开发——游戏AI的简述](https://blog.csdn.net/Jekin_KE/article/details/89670410)
+ > 游戏开发——游戏AI的简述
+ ## [C. 人工智能 --- 聚类算法](https://blog.csdn.net/micklongen/article/details/89799600)
+ > C. 人工智能 --- 聚类算法
+ ## [人工智能机器学习](https://blog.csdn.net/qq_30505673/article/details/89816507)
+ > 人工智能机器学习
+ ## [Day10 - 图形用户界面和游戏开发](https://blog.csdn.net/qq_44621510/article/details/89786049)
+ > Day10 - 图形用户界面和游戏开发
+ ## [【Android】View类详解 （游戏开发必备）](https://blog.csdn.net/qq_44912644/article/details/89451031)
+ > 【Android】View类详解 （游戏开发必备）
+ ## [人工智能实践:Tensorflow笔记(一)：人工智能概述](https://blog.csdn.net/hxxjxw/article/details/89648427)
+ > 人工智能实践:Tensorflow笔记(一)：人工智能概述
+ ## [人工智能---BP神经网络（数字识别）](https://blog.csdn.net/qq_36347365/article/details/87010365)
+ > 人工智能---BP神经网络（数字识别）
+ ## [深入 GalCon Python 游戏开发和人工智能](https://blog.csdn.net/qq_44925249/article/details/89814967)
+ > 深入 GalCon Python 游戏开发和人工智能
+ ## [Python入门教程：Day10-图形用户界面和游戏开发](https://blog.csdn.net/w17688977481/article/details/89332128)
+ > Python入门教程：Day10-图形用户界面和游戏开发
+ ## [《人工智能》 第八章](https://blog.csdn.net/yinxian9019/article/details/89930393)
+ > 《人工智能》 第八章
+ ## [观察者模式在游戏开发中的应用](https://blog.csdn.net/JianZuoGuang/article/details/89922067)
+ > 观察者模式在游戏开发中的应用
+ ## [【Android】 Canvas Path 和 Paint 实例  游戏开发必备](https://blog.csdn.net/qq_44912644/article/details/89405255)
+ > 【Android】 Canvas Path 和 Paint 实例  游戏开发必备
+ ## [《C++图形与游戏编程基础》笔记 第一章 计算机和编程概论](https://blog.csdn.net/jsn794177840/article/details/89380802)
+ > 《C++图形与游戏编程基础》笔记 第一章 计算机和编程概论
+ ## [人工智能名词表 持续更新](https://blog.csdn.net/jcfszxc/article/details/88882236)
+ > 人工智能名词表 持续更新
 # PM 
+ ## [互联网3.0时代，时间、注意力、营销都已“碎片化”](http://www.woshipm.com/marketing/2346960.html)
+ > 信息化时代，你是否也感觉到时间被偷走了，好像越来越少？其实，时间的长度并没有变，而是时间被碎片化了。你的时间被谁偷走了？地铁又转公交，经过一个半小时的通勤...
+ ## [如何设计产品的roadmap？](http://www.woshipm.com/pd/2338366.html)
+ > 合适的从路线图可以从两个角度实现：它实现了大目标（公司的愿景），但它同时可以足够灵活，能适应市场的变化。更关键的是，它被整个团队所理解和支持。《从点子到产...
  ## [产品新人第一次负责项目应该怎么做？](http://www.chanpin100.com/article/108448)
  > 其实对于每一个产品新人来说，最渴望的事就是自己独立负责项目。但第一次独立负责项目也会遇到很多问题，任何一个细节没有关注到，都会容易使项目发生意外。那产品新人应该怎么做才能最大程度的hold住整个项目呢？
  ## [如何写出详细且易于阅读的PRD？](http://www.chanpin100.com/article/108447)
