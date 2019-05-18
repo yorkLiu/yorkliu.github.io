@@ -1,21 +1,23 @@
 ---
 title: 2019-05-18 IT News
 copyright: true
-date: 2019-05-18 08:01:06
+date: 2019-05-18 09:01:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]汽车行业深度研究-TESLA,T-S.E.X.Y(附115页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1558137604&ver=1613&signature=oI9PQSjpidpD-WjEu7-tgwNdSaK6MAEMKTGPDkAK3nRriLTSOvDSlgX88EbPmBUUkfOps3I8JAzEg-B*iN6eAk*wfUErXvL7B3zWwtEHtLX9wI2M2BWyUwEdgHmpQ6cK&new=1)
- > 2003年，一群工程师创立了 Tesla。今天，特斯拉不仅制造纯电劢汽车，还可以生产能够无限扩容的清洁能源收集及储存产品。特斯拉在先迚电池技术和电劢劢力总成处于全球绛对领先地位。马斯克集齐S.E.X.Y。2008年，...
- ## [独家对话小米组织部长刘德：解读这次组织架构调整](http://mp.weixin.qq.com/s?src=11&timestamp=1558137604&ver=1613&signature=nslpSNKR**K0qOSDK3EOC5z-02m7DKAke4E3F62nKO14n8oUFxceQD9OMe4eSygevZ5tYszNhAKISzBLgdqNWc3j5KSGwP1ykcncPnFnBnWxBc7wKbkqwDND-F*vJm5e&new=1)
+ ## [独家对话小米组织部长刘德：解读这次组织架构调整](http://mp.weixin.qq.com/s?src=11&timestamp=1558141205&ver=1613&signature=nslpSNKR**K0qOSDK3EOC5z-02m7DKAke4E3F62nKO2ns7z2aM6Vcmr352nJa-Eoaih0v-ODQIrCEBduZqd81ig3QmDvQh5d74kNkYpW5HQOmkd6VWQbgOtHNSQbqBeI&new=1)
  > iFeng科技凤凰网科技官方账号，带你直击真相对于王川的调整，刘德表示，大家电业务是小米AIoT战略重要组成部分和未来10年持续发展蓝图的核心拼图之一。所以，小米决定把除电视之外的大家电业务单独组成一个大业...
- ## [世界智能大会上那些呆萌机器人，圈粉了!这个机器人，你有女朋友吗](http://mp.weixin.qq.com/s?src=11&timestamp=1558137604&ver=1613&signature=u2k0oDuNhAZiDgBUlapMgdLMBc9oTe8EjKPalrbsHvKIcGAb9J0zP9XYGFilveHO5IwSrOQ8lKdjvX*zacSXnvNoUpWRWoLt8Pcy*4wIfcavNx2FcfvtH4CQWZfpiM9A&new=1)
+ ## [世界智能大会上那些呆萌机器人，圈粉了!这个机器人，你有女朋友吗](http://mp.weixin.qq.com/s?src=11&timestamp=1558141205&ver=1613&signature=u2k0oDuNhAZiDgBUlapMgdLMBc9oTe8EjKPalrbsHvJS7c6TYSGwz-vtfqgWw82o77d02*y5MDlIuPF3QVCsp0ydc1dhGzYyeKzNcWqCoteOVy2XyVkjtibeghCI-SZU&new=1)
  > 第三届世界智能大会正在如火如荼地举行。会上各种各样的智能机器人都出来露脸！会游泳的！▼会调酒的！▼当客服的！！！还有这个会跳舞的！！！▼看跳舞一定要看舞步是不是优美哦！！▼有没有被这些呆萌可爱又动...
- ## [\[BBC\]华为之战：中国科技企业的滑铁卢还是世界秩序的新起点](http://mp.weixin.qq.com/s?src=11&timestamp=1558137604&ver=1613&signature=bqa2WruuFDLGE-oq*XQir1XqLtOUO7vHJOUyHZiOhBU6RKPFV*EtwCYaFTqK2eibr8KKZhKu8PH4dWzf4VlGY8KbloCcDQvrgNSodjCOXdMxFfORxlUM6yRuINm31fzL&new=1)
- > “@华为5G，安息吧，谢谢参与游戏。”美国参议员汤姆·科顿（Tom Cotton）在特朗普针对通讯行业发布行政禁令后发出这样一条推特。美国商务部随后透露，将把华为及70家关联企业列入“实体清单”（Entity List）。...
- ## [3 纳米芯片即将来袭?细数制程工艺不断变小的芯片史](http://mp.weixin.qq.com/s?src=11&timestamp=1558137604&ver=1613&signature=*sSYK9RcYIBwNURZjfLr2m8NF8Xu248wq9tUL9lSWOVpmlQSMS1KpB7*OrFbSRK4IIWIvsTnk1pfWAZlPNqzAseK*FQeRe5RuUmpqjGUeMg-ajC5uaVXxu*6BMySLe64&new=1)
+ ## [3 纳米芯片即将来袭?细数制程工艺不断变小的芯片史](http://mp.weixin.qq.com/s?src=11&timestamp=1558141205&ver=1613&signature=*sSYK9RcYIBwNURZjfLr2m8NF8Xu248wq9tUL9lSWOWYrMZDQuUTdBbh1Cahs*PyBMf5P9rKwfezM4GwKDqCNjEJudCtQLQmI8I3EXN161MNm12DpUPOJZZVNzroGMHD&new=1)
  > 本文转载于公众号 NEXTTECH近日，三星在其晶圆制造论坛上公布了一个重磅消息，三星正在开发一个名为 Gate All Around 的技术，它将把三星的制程工艺推向 3nm ，并在 2022 年实现量产。三星宣布的 GAA 技术值得一...
+ ## [\[BBC\]华为之战：中国科技企业的滑铁卢还是世界秩序的新起点](http://mp.weixin.qq.com/s?src=11&timestamp=1558141205&ver=1613&signature=bqa2WruuFDLGE-oq*XQir1XqLtOUO7vHJOUyHZiOhBUa5h7ZrY557x*Y0DG1qiTJqzP5e7xRCGLQLILYB97afiwKx0jeXh262-QlY1Hsp7ggz0tpL1pTfevV3WANcau8&new=1)
+ > “@华为5G，安息吧，谢谢参与游戏。”美国参议员汤姆·科顿（Tom Cotton）在特朗普针对通讯行业发布行政禁令后发出这样一条推特。美国商务部随后透露，将把华为及70家关联企业列入“实体清单”（Entity List）。...
+ ## [聚焦|打败阿里巴巴、腾讯的机会来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1558141205&ver=1613&signature=OPOyhKIw1YZEzPyNNAsBetX2NWKg4siVIbTSPInryLD4RBJw5F6l6i7Cm955cz9JWB9ioRuokCUSUdzhkOobACHJGDMGypaI*W-7LY41XA2*XSJwIbUxpMwLOdaxhAi7&new=1)
+ > 5月17日第三届世界智能大会国际智慧城市创新发展论坛在天津梅江会展中心举办来自人工智能和智慧城市建设的产业界、学术界顶级专家纷纷为智慧城市建设献计献策中国科学院院士姚建铨表示：新一轮科技革命已经到来...
+ ## [\[报告\]汽车行业深度研究-TESLA,T-S.E.X.Y(附115页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1558141205&ver=1613&signature=oI9PQSjpidpD-WjEu7-tgwNdSaK6MAEMKTGPDkAK3nR6pOuWwf0JZGY4VnfMkznJoRP1Jt5Qsdp5cVFLwvVidn8CwSbBR2yl026aBcgAxTkTg3S3gwYfyGCm997woBT9&new=1)
+ > 2003年，一群工程师创立了 Tesla。今天，特斯拉不仅制造纯电劢汽车，还可以生产能够无限扩容的清洁能源收集及储存产品。特斯拉在先迚电池技术和电劢劢力总成处于全球绛对领先地位。马斯克集齐S.E.X.Y。2008年，...
  ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
  > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
  ## [《盛势》和《上瘾》多方面比较，哪个更胜一筹？](https://www.zhihu.com/question/55701279)
@@ -32,30 +34,30 @@ categories: IT NEWS
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [如何评价小红书？](https://www.zhihu.com/question/305033283)
  > 小红书简直魔幻极了。有人大三做编剧一部网剧赚10万，编剧们看了大概要哭了。这还不是她人生的巅峰，她随后又去金融公司做了总经理助理，月入2万，看到这里学金融的朋友也开始哭了。有人洗个澡就变白，敷个面膜就变白...
+ ## [为什么很多网站或者App明知道改版以后用户会流失，他们却还要坚持改版？](https://www.zhihu.com/question/324726152)
+ > 谢 @张二二 二二爷邀，非常同意明殊的观点，但这个矛盾，可能根本就是一件特简单的事儿。手机不会用引用格式，以下引用自黄子华栋笃笑:“铁达尼极限这个浪漫是一个极限，就叫做“铁达尼极限”。男性跟女性对爱情最大...
  ## [如何评价《宰执天下》?](https://www.zhihu.com/question/33823835)
  > 最近看《宰执天下》，想写一写和多年前看的《新宋》的比较。首先二者是有一些共同点的：都是穿越文，都是从宋神宗熙宁朝开始。大背景都是王安石变法主角最后都大权在握。虽然，《新》还是很强的儒家背景，作者虽然是...
  ## [有没有人了解熊猫主播药水哥现实中是什么样的人？](https://www.zhihu.com/question/265546221)
  > 在另一个问题中看到的回答，搬运一哈，仅供参考
  ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
  > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
- ## [有哪些值得推荐的下载软件的网站？](https://www.zhihu.com/question/26891149)
- > 首先需要说明，官网才是最可靠的，所以，如果要找的软件有官方网站，且访问速度可以的话，我建议尽量到官网下载，至少可以保障无病毒、无插件。当然，这是建立在一定的前提下：有对应官网访问速度不受限那如果没有官...
  ## [小白想问问亚马逊在国内发fba怎么处理出口税务的问题？](https://www.zhihu.com/question/324020110)
  > 撇开楼主自身的资质，从这个问题的本质来讲，应该问的是新手发亚马逊FBA怎么交税？其实分为两种情况:第一种就是楼主这种，完完全全的新手卖家，而且公司也没有进出口权限，这种情况下前面有很多人提到过了可以直接...
  ## [微软当年是不是用并不比苹果好的技术战胜了苹果，为什么？](https://www.zhihu.com/question/26227726)
  > 以 1992 年左右 System 7 和 Windows 3.1 的水平，在生产力领域，前者是资金丰富的专业人士的选择，后者是资金紧张用户的廉价替代品。而且 Windows 3.1 的硬件要求在当时来说也不是那么低的。能用的起 Windows 3...
- ## [个人使用github page建了博客，购买了腾讯云的.cn域名，需要备案吗？如何备案？](https://www.zhihu.com/question/321586835)
- > github page属于境外空间，无需备案。cn域名需要实名认证才能解析，实名认证需要提交身份证和信息。通过这种方式建立的网站，如果被发现存在“有害信息”，域名注册商会通过clientHold的方式停止域名解析，建议立刻...
  ## [小米真的重视知乎吗？](https://www.zhihu.com/question/57290984)
  > 我来了。
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
- ## [你为什么卸载了FGO？](https://www.zhihu.com/question/54830645)
- > 弃坑fgo，决定来得貌似好像很突然，长按图标并卸载的那一刻也没有想象中的忧郁或是怀念。我知道，fgo再也吸引不了我了。当初接触fgo也很凑巧。这游戏我早有耳闻，日服上线的时候就看到过消息，作为半个月厨自然激动了...
- ## [如何理解马化腾说「黑公关近两个月突然爆发，是时候挖根源了」？](https://www.zhihu.com/question/281753006)
- > 让咱们先来了解一下马化腾所说的“黑公关”：“黑公关”实际上是网络营销公关公司的一种，这种公司，本着“拿人钱财替人消灾”的理念，在网站和当事企业、个人之间充当着“掮客”角色。而隐藏在其后的，则是一条由推...
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
+ ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
+ > 谢邀首先java基本功需要具备，所谓的基本功，不是简单的能写出代码，除了能写出来之外还要，在代码质量上面需要具体一定体现，比如对一些简单的多线程，以及常见的java框架有一定的修改，或者定制功能。那么java工程...
+ ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
+ > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
+ ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
+ > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
 # IT 技术 
  ## [图像识别没你想的那么难！看完这篇你也能成专家](http://ai.51cto.com/art/201905/596548.htm)
  > 图像识别没你想的那么难！看完这篇你也能成专家
@@ -75,34 +77,34 @@ categories: IT NEWS
  > HTTP中GET与POST的区别，99 %的人都理解错了
  ## [60K！刚面完Python！这个被Oracle裁掉的程序员求职刷爆全网！](https://blog.csdn.net/CSDNedu/article/details/90231106)
  > 60K！刚面完Python！这个被Oracle裁掉的程序员求职刷爆全网！
- ## [区块链必修课：DAG区块链](https://blog.csdn.net/Intervalue/article/details/89377343)
- > 区块链必修课：DAG区块链
- ## [SQLServer数据库第一课2：数据库的备份和还收缩数据库删除数据库](https://blog.csdn.net/u011078141/article/details/89397147)
- > SQLServer数据库第一课2：数据库的备份和还收缩数据库删除数据库
- ## [数据库实验整理——视图相关](https://blog.csdn.net/shadothew/article/details/89878354)
- > 数据库实验整理——视图相关
- ## [【区块链2.0实战学习笔记】————2、区块链技术原理](https://blog.csdn.net/Fly_hps/article/details/89920016)
- > 【区块链2.0实战学习笔记】————2、区块链技术原理
- ## [数据库系列（一）:数据库基础01](https://blog.csdn.net/Ithao2/article/details/89530956)
- > 数据库系列（一）:数据库基础01
- ## [数据库概述数据库入门](https://blog.csdn.net/u011078141/article/details/89397209)
- > 数据库概述数据库入门
- ## [C 实现区块链（附c完整源码即运行截图）](https://blog.csdn.net/charlottehe/article/details/89708138)
- > C 实现区块链（附c完整源码即运行截图）
- ## [区块链-区块链的概念](https://blog.csdn.net/qq_40452317/article/details/89788056)
- > 区块链-区块链的概念
+ ## [数据中心，云计算，大数据之间有什么区别和联系?](https://blog.csdn.net/Myhoooyo/article/details/89812625)
+ > 数据中心，云计算，大数据之间有什么区别和联系?
+ ## [大数据和云计算技术周报（第99期)](https://blog.csdn.net/zNZQhb07Nr/article/details/89464819)
+ > 大数据和云计算技术周报（第99期)
+ ## [自学计算机编程语言经历！](https://blog.csdn.net/weixin_42588847/article/details/89763825)
+ > 自学计算机编程语言经历！
+ ## [java012：final关键字和抽象类](https://blog.csdn.net/weixin_44699728/article/details/89407727)
+ > java012：final关键字和抽象类
+ ## [虚拟化技术与云计算基础 大数据视频教程](https://blog.csdn.net/fengliaoai/article/details/89465490)
+ > 虚拟化技术与云计算基础 大数据视频教程
+ ## [什么是云计算，云计算的基本原理是什么？](https://blog.csdn.net/zhinengxuexi/article/details/89816632)
+ > 什么是云计算，云计算的基本原理是什么？
+ ## [大数据拥抱云计算：让数据升华为智慧](https://blog.csdn.net/fxj2019/article/details/89399815)
+ > 大数据拥抱云计算：让数据升华为智慧
+ ## [多面编程语言Scala](https://blog.csdn.net/ShuYunBIGDATA/article/details/89843535)
+ > 多面编程语言Scala
+ ## [编程语言大战三百回合](https://blog.csdn.net/weixin_37925949/article/details/89461645)
+ > 编程语言大战三百回合
  ## [Gerrit（2）图形介绍](https://blog.csdn.net/wxt15708432837/article/details/89678862)
  > Gerrit（2）图形介绍
- ## [【区块链2.0实战学习笔记】————1、区块链基础](https://blog.csdn.net/Fly_hps/article/details/89919267)
- > 【区块链2.0实战学习笔记】————1、区块链基础
- ## [区块链与数字货币](https://blog.csdn.net/xiaohuanglv/article/details/89035188)
- > 区块链与数字货币
- ## [分布式事务数据库 —-MySQL 数据库开发规范](https://blog.csdn.net/weixin_44994688/article/details/89681731)
- > 分布式事务数据库 —-MySQL 数据库开发规范
- ## [六西格玛设计DFSS在研发管理中是怎么应用的](https://blog.csdn.net/u011078141/article/details/89397172)
- > 六西格玛设计DFSS在研发管理中是怎么应用的
- ## [区块链-区块链分类](https://blog.csdn.net/qq_40452317/article/details/89874505)
- > 区块链-区块链分类
+ ## [六何分析法全景洞察大数据](https://blog.csdn.net/arry001/article/details/89384172)
+ > 六何分析法全景洞察大数据
+ ## [四大编程语言之父聚首，编程语言要变天？](https://blog.csdn.net/xiaoze_JAVA/article/details/89847266)
+ > 四大编程语言之父聚首，编程语言要变天？
+ ## [【干货分享】大话团队的GIT分支策略进化史](https://blog.csdn.net/crazy_joe/article/details/89509684)
+ > 【干货分享】大话团队的GIT分支策略进化史
+ ## [大数据拥抱云计算](https://blog.csdn.net/weixin_44386969/article/details/89930328)
+ > 大数据拥抱云计算
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [千亿级照片，毫秒间匹配最佳结果，微软开源 Bing 搜索背后的关键算法！](https://blog.csdn.net/csdnnews/article/details/90308142)
@@ -114,36 +116,36 @@ categories: IT NEWS
  ## [Unity高管：深耕游戏、VR/AR，致力为开发者提供极致体验](https://blog.csdn.net/csdnnews/article/details/90287357)
  > 近些年，在全球 PC 产业发展逐步放缓的趋势之下，由智能手机为主导的移动设备为传统领域迸发了新的活力，而其中游戏就是极具代表性的创新应用场景之一。曾几何时，游戏领域还仅是端游的天下，不过随着移动互联网的崛起，我们见证了以 RPG、FPS、SLG、MOBA 等多种类型手游的全面爆发，在此过程中，作为.
 # 人工智能 
- ## [接口安全验证](https://blog.csdn.net/weixin_41119539/article/details/89711803)
- > 接口安全验证
- ## [用隐私保护账户安全？NO！](https://blog.csdn.net/adwen2009/article/details/89815270)
- > 用隐私保护账户安全？NO！
- ## [安全基础——安全术语](https://blog.csdn.net/CN_SHzhaoyujie/article/details/89857131)
- > 安全基础——安全术语
- ## [nginx源码安装与安全](https://blog.csdn.net/chang_an_che/article/details/89404117)
- > nginx源码安装与安全
- ## [CODING如何使用CODING研发管理统来敏捷开发](https://blog.csdn.net/u011078141/article/details/89397121)
- > CODING如何使用CODING研发管理统来敏捷开发
- ## [网络安全术语总结及解释说明](https://blog.csdn.net/qq_34672033/article/details/89715343)
- > 网络安全术语总结及解释说明
- ## [Gerrit（2）图形介绍](https://blog.csdn.net/wxt15708432837/article/details/89678862)
- > Gerrit（2）图形介绍
- ## [【干货分享】大话团队的GIT分支策略进化史](https://blog.csdn.net/crazy_joe/article/details/89509684)
- > 【干货分享】大话团队的GIT分支策略进化史
- ## [Web安全及XSS(一)](https://blog.csdn.net/u011141492/article/details/89164637)
- > Web安全及XSS(一)
- ## [神奇的图像处理算法](https://blog.csdn.net/qq_43173244/article/details/89840992)
- > 神奇的图像处理算法
- ## [IOT物联网安全概述](https://blog.csdn.net/xu_xy1/article/details/89704452)
- > IOT物联网安全概述
  ## [B 站在 Github 上公开了自己的后端源代码?](https://blog.csdn.net/huaairen/article/details/89461637)
  > B 站在 Github 上公开了自己的后端源代码?
- ## [URL编码 - Java加密与安全](https://blog.csdn.net/Leon_Jinhai_Sun/article/details/89885719)
- > URL编码 - Java加密与安全
- ## [微信明明可以语音输入，为什么大家还会发语音消息？](https://blog.csdn.net/wdy19980121/article/details/89328847)
- > 微信明明可以语音输入，为什么大家还会发语音消息？
- ## [有什么好用的会议记录APP或语音转文字的软件？](https://blog.csdn.net/wdy19980121/article/details/89403562)
- > 有什么好用的会议记录APP或语音转文字的软件？
+ ## [分布式事务数据库 —-MySQL 数据库开发规范](https://blog.csdn.net/weixin_44994688/article/details/89681731)
+ > 分布式事务数据库 —-MySQL 数据库开发规范
+ ## [运维错题总结](https://blog.csdn.net/yangxiaoyan12/article/details/89458402)
+ > 运维错题总结
+ ## [99%的程序员都不明白：弱者和强者的唯一区别](https://blog.csdn.net/qun784783012/article/details/89334091)
+ > 99%的程序员都不明白：弱者和强者的唯一区别
+ ## [Linux下的DNS服务](https://blog.csdn.net/qq_36016375/article/details/89510576)
+ > Linux下的DNS服务
+ ## [数据库学习——针对测试需要掌握的知识](https://blog.csdn.net/Pluto__lxh/article/details/89393585)
+ > 数据库学习——针对测试需要掌握的知识
+ ## [神奇的图像处理算法](https://blog.csdn.net/qq_43173244/article/details/89840992)
+ > 神奇的图像处理算法
+ ## [数据库笔记(3)数据库三大范式](https://blog.csdn.net/weixin_44282382/article/details/90139685)
+ > 数据库笔记(3)数据库三大范式
+ ## [Linux下web服务器Apache的常规部署](https://blog.csdn.net/qq_36016375/article/details/89554812)
+ > Linux下web服务器Apache的常规部署
+ ## [20190408每周精品之淘宝](https://blog.csdn.net/huawangxin/article/details/89418168)
+ > 20190408每周精品之淘宝
+ ## [数据库MYSQL学习总结26—子查询的使用](https://blog.csdn.net/WildestDeram/article/details/89455049)
+ > 数据库MYSQL学习总结26—子查询的使用
+ ## [数据库的分组查询](https://blog.csdn.net/qwertyuiopasdfgg/article/details/89683989)
+ > 数据库的分组查询
+ ## [浅谈动态追踪技术](https://blog.csdn.net/pengzhouzhou/article/details/89378074)
+ > 浅谈动态追踪技术
+ ## [资讯--2019年4月](https://blog.csdn.net/wydbyxr/article/details/90173572)
+ > 资讯--2019年4月
+ ## [\[数据库\]-事务](https://blog.csdn.net/weixin_41754415/article/details/89930115)
+ > \[数据库\]-事务
 # PM 
  ## [一顿操作猛如虎，未来的瑞幸将何去何从](http://www.chanpin100.com/article/108439)
  > 在众多不看好中，流血上市的瑞幸，最后是会被一些人套现离场落得个一地鸡毛，还是成为最后的赢家？
