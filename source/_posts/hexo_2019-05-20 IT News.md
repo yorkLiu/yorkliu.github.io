@@ -1,21 +1,23 @@
 ---
 title: 2019-05-20 IT News
 copyright: true
-date: 2019-05-20 08:01:24
+date: 2019-05-20 09:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联想官方声明未向华为断供丨趣头条疑遭苹果下架\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1558310404&ver=1617&signature=mJ3jZr730ucQ2aDY3DNQa07RsAVla4miC0x5rZNKtHilSal3DIVNIRhmOgUlZS14FvIxAjIh0r9Sg49zzzbc87lDswc8fPvJGl5kDzgWLLHkbVveas5cCEkM5AxE1NSk&new=1)
+ ## [联想官方声明未向华为断供丨趣头条疑遭苹果下架\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1558314005&ver=1617&signature=mJ3jZr730ucQ2aDY3DNQa07RsAVla4miC0x5rZNKtHilSal3DIVNIRhmOgUlZS14kdrilmCDm2636j0OhxPncgSchn3EKHYTsTWPH46-c0ztNgYouOth5GtcJCY8fknj&new=1)
  > 5月19日 周日【Do说】编辑 | 李尧联想发布官方声明：向华为供货正常 将追究造谣者法律责任5月19日凌晨，联想集团发出官方声明，称向华为公司供货正常，并表示对于网上的“断供”等不实之词，公司已经对谣言传播...
- ## [本周大新闻|第三届青亭峰会闭幕，周融资超2.7亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1558310404&ver=1617&signature=bw6YqzKv-nSFkaI-ibxwtz88KE2uMX6nY4gV0gfU2H9NE7NWNqkVQjrY3fG23xI1tSbgKrYEtMNUtlj51aKDMtVw-h4xmeUeUFCjHX0sC2yJFJC*IL8q1vnCwJWi*Aim&new=1)
- > Esther｜ 撰文本周AR/VR新闻集中看，本周由青亭网主办的第三届虚拟现实产业创新者峰会完美闭幕，并公布十三项优秀AR/VR商业应用案例奖项。AR方面，联想发布分体式AR眼镜：ThinkReality A6；Magic Leap收购3D
- ## [就在今天!2019年全国科技活动周暨北京科技周活动主场开幕啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1558310404&ver=1617&signature=PEWCs-9hfVJml5T5RsJw4H*j322vdy8XKF6Q2MwKVmyNrsSTkP-t8vFUp-*TRcfJ4rNAje73KXpMfmNd9*mke18fV4ahLpkXM08CwbznkbSA751AZzym7*wvA5wON7l3&new=1)
- > 就在今天！2019年全国科技活动周暨北京科技周活动主场在中国人民革命军事博物馆正式拉开帷幕！ 在这里您能体验众多科技项目参与丰富多彩的科普体验享受一场深度的科技旅行！在现场有许多小科的身影为您导引和介...
- ## [直播预告|智加科技高级主任科学家崔迪潇主讲《干线物流的仓到仓自动驾驶方案解析》](http://mp.weixin.qq.com/s?src=11&timestamp=1558310404&ver=1617&signature=Z5DbtbKQ*o9ZedCGxYo5oxscHqT3YiTsfm-u7SUWxMCEdANb1Z9kU-nbet9w9UxyPyNjm5OXz-7XTwzzKRtIXHb-PJ49jcklC0GiJcnPX9vs0IMx9mk5QCbKIc0t3lYl&new=1)
- > (▭-▭)✧说起自动驾驶你会想到什么？说起科学家、专委会委员呢？再加一勺摇滚呢
- ## [突然宣布!华为57家工厂全部撤离..](http://mp.weixin.qq.com/s?src=11&timestamp=1558310404&ver=1617&signature=Ie4rk6x1XDiAdSE7jWLUlbriaAoeyWOfdN42yrDqjGzr5nV5Ru4oei8bv9FdVSww4PXpSx6-5VnZDYclXCqW9qpVgJOslMKXLhTQg204s8ilnFLQhM33mxHJ5BeCTECJ&new=1)
+ ## [突然宣布!华为57家工厂全部撤离..](http://mp.weixin.qq.com/s?src=11&timestamp=1558314005&ver=1617&signature=Ie4rk6x1XDiAdSE7jWLUlbriaAoeyWOfdN42yrDqjGzr5nV5Ru4oei8bv9FdVSwwLxVTXDNj1SCq-i0K34O*onsyAHflsqO*WmJETLY3M6OxO23LvS5U6qybQHUxJOFz&new=1)
  > “再见了  美国”！华为“慷慨”再见美国！刚撤离57家工厂，就迎来了民众的抗议游行！这个至暗的日子，是每一位华为海思的平凡儿女成为时代英雄的日子。在华为被列入美国商务部工业和安全局（BIS) 的实体名单（e...
+ ## [直播预告|智加科技高级主任科学家崔迪潇主讲《干线物流的仓到仓自动驾驶方案解析》](http://mp.weixin.qq.com/s?src=11&timestamp=1558314005&ver=1617&signature=Z5DbtbKQ*o9ZedCGxYo5oxscHqT3YiTsfm-u7SUWxMCEdANb1Z9kU-nbet9w9UxyuzLY4ENJLvRBkvFE2p1yEsQ*tKU26g*g3*-IwtD2d1BYhVsdPFiZByMldHqFqDBZ&new=1)
+ > (▭-▭)✧说起自动驾驶你会想到什么？说起科学家、专委会委员呢？再加一勺摇滚呢
+ ## [就在今天!2019年全国科技活动周暨北京科技周活动主场开幕啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1558314005&ver=1617&signature=PEWCs-9hfVJml5T5RsJw4H*j322vdy8XKF6Q2MwKVmyNrsSTkP-t8vFUp-*TRcfJfT9GOG-tNjNiKumPjJ71bgiImBlbxrpcc*DAbuxLS5XCvUTXuXVPrvYLT180b16F&new=1)
+ > 就在今天！2019年全国科技活动周暨北京科技周活动主场在中国人民革命军事博物馆正式拉开帷幕！ 在这里您能体验众多科技项目参与丰富多彩的科普体验享受一场深度的科技旅行！在现场有许多小科的身影为您导引和介...
+ ## [本周大新闻|第三届青亭峰会闭幕，周融资超2.7亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1558314005&ver=1617&signature=bw6YqzKv-nSFkaI-ibxwtz88KE2uMX6nY4gV0gfU2H9NE7NWNqkVQjrY3fG23xI1OF7pbwKYCZnhNbeyr96YJ2oz-8S6FRenFCKzMGhmIQljvXWl41ep2FB73CZGkxS8&new=1)
+ > Esther｜ 撰文本周AR/VR新闻集中看，本周由青亭网主办的第三届虚拟现实产业创新者峰会完美闭幕，并公布十三项优秀AR/VR商业应用案例奖项。AR方面，联想发布分体式AR眼镜：ThinkReality A6；Magic Leap收购3D
+ ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
+ > 并不是所有的操作系统都用扩展名来标识文件类型……同时扩展名事实上也非常混乱，htm和html表示的都是HTML文档，jpeg和jpg都是JPEG图片格式，等等……最后，浏览器所使用的URL（统一资源定位符），根本就...
  ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
  > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
  ## [脱粉pg one是怎样一种体验？](https://www.zhihu.com/question/66758494)
@@ -30,35 +32,37 @@ categories: IT NEWS
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
  > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
- ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
- > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
+ ## [你写论文时发现了哪些神网站？](https://www.zhihu.com/question/35931336)
+ > 分享几个网站，希望对大家有帮助~电子资源平台http://wap.gxlib.org/ermsClient/browse.do超全、超强的图书、期刊、论文等资源聚合网站，足足有103个之多。包含了百度学术、知网、万方、维普、博看期刊、超星数字图...
+ ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
+ > 这个系统是全国的，可以轻松跨省。大学那会谈的女朋友，老爹公安局的副局长，年轻时候是缉毒警察，出生入死立了大功。有一次去她家玩，家里就住在公安局里面的家属楼。无聊去局里参观，她说给我看个好玩的，把我身份...
  ## [小米真的重视知乎吗？](https://www.zhihu.com/question/57290984)
  > 我来了。
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
  ## [如果在亚马逊平台 有很多FBA货卖不出 大滞銷... 有没有方法及高手救忙？](https://www.zhihu.com/question/322090062)
  > 如果有大量FBA货卖不出去，滞销。可以快速解决的办法有1、优化产品listing、刷一些好的评价，广告推广产品，进而让产品有转化，出单销售。2、通过降价，具备价格优势，刺激销售。3、通过折扣活动，具备价格优势，...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
  ## [在北京做Java开发如何月薪达到两万，需要技术水平达到什么程度？](https://www.zhihu.com/question/39890405)
  > 谢邀首先java基本功需要具备，所谓的基本功，不是简单的能写出代码，除了能写出来之外还要，在代码质量上面需要具体一定体现，比如对一些简单的多线程，以及常见的java框架有一定的修改，或者定制功能。那么java工程...
+ ## [做为一个程序员，产品经理提了一个很无理取闹的需求，但她是我女朋友怎么办？](https://www.zhihu.com/question/324867714)
+ > 工作和生活一定要坚决分开。或者你换工作，或者她换工作，别聚在一起。
+ ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
+ > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
+ ## [你是怎么利用互联网赚第一桶金的？](https://www.zhihu.com/question/277708624)
+ > 题主可以借鉴一下，这个项目价值5万，空手套白狼。这个是我在创业初期实际操作的项目，有钱人最值钱的是市场眼光和配置资源的能力。当时我一个人做，一个礼拜赚了差不多近万元左右，虽然现在市场不同了，外卖网返利盛...
  ## [如何评价花呗、天猫分期、京东白条、苏宁易购零钱贷这几款互联网消费金融产品？这类产品的发展趋势如何？](https://www.zhihu.com/question/27968678)
  > 此题可答几句。我本科毕业论文是《电商供应链金融设计研究》。且曾在国内某领先P2P金融公司实习过。乍看上去和题目没什么关系，而且我对题主问的这几款（花呗、天猫分期、京东白条、苏宁易购零钱贷）电商平台推出的...
  ## [互联网行业所谓的青春饭为什么一般指的是程序员？](https://www.zhihu.com/question/320388757)
  > 起初，这真的是一个圈内人自嘲，以及用来回避圈外人的嫉妒心的说辞，否则你月薪两万，别人和你一样，都是XX毕业的，才月薪五千，别人说，“哇，你月薪好高啊“，你回复啥呢，难道说，“是啊，我月薪高，我好成功啊...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [小程序开发制作哪家好？](https://www.zhihu.com/question/68541065)
- > 不要找不了解需求就定价格的：因为如果不了解需求就定价格，在途中因客户而产生的变化会增加工作量，谁都不愿意承担多出来的工作量和工时，这会增加项目风险。所以要找前期经过充分沟通之后靠功能列表来定价的。找有...
- ## [我就问问晋江签约作者的收入？](https://www.zhihu.com/question/49600996)
- > 晋江作者，当过小网站枪手，这里就匿名了。我其实挺好奇你们一个月只有几百的怎么赚钱的……我当初当枪手的时候，刚开始起步，每天6000字，一个月还两千呢。我朋友当枪手，一天8000，一个月5000。我另一个朋友在网易...
- ## [有哪些适合大学生浏览的网站？](https://www.zhihu.com/question/20136746)
- > 大学生数字生活指北在人人都谈 App 的时代，你需要这 41 个好网站充实你的收藏夹了解这些冷知识，随时随地和别人谈笑风生1.List 25List 25 可以说是《25 件 XX 的事情》这类视频的文字版。网站上可以找到覆盖历...
- ## [做为一个程序员，产品经理提了一个很无理取闹的需求，但她是我女朋友怎么办？](https://www.zhihu.com/question/324867714)
- > 1、那就解决提出问题的人2、停止你的性幻想.jpg
- ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
- > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
 # IT 技术 
+ ## [对！嫁人就嫁程序员！](http://news.51cto.com/art/201905/596607.htm)
+ > 对！嫁人就嫁程序员！
  ## [阿里专家：工程师快速成长的10个简单技巧](http://news.51cto.com/art/201905/596606.htm)
  > 阿里专家：工程师快速成长的10个简单技巧
+ ## [天天淘宝，你却不知道个性化推荐技术...](http://developer.51cto.com/art/201905/596605.htm)
+ > 天天淘宝，你却不知道个性化推荐技术...
  ## [图像识别没你想的那么难！看完这篇你也能成专家](http://ai.51cto.com/art/201905/596548.htm)
  > 图像识别没你想的那么难！看完这篇你也能成专家
  ## [如何利用网络取证之流量分析的方式，还原恶意攻击入侵的全过程？](http://netsecurity.51cto.com/art/201905/596550.htm)
@@ -69,10 +73,12 @@ categories: IT NEWS
  > 人工智能正在向具有“高情商”发展
  ## [5G能帮VR破局?卖得了货改不了命](http://mobile.51cto.com/vrar-596560.htm)
  > 5G能帮VR破局?卖得了货改不了命
- ## [Redis高可用原理，这下能看懂了吧！](http://stor.51cto.com/art/201905/596489.htm)
- > Redis高可用原理，这下能看懂了吧！
- ## [高效日志管理与监控的优秀实践](http://cloud.51cto.com/art/201905/596397.htm)
- > 高效日志管理与监控的优秀实践
+ ## [除了负载均衡，Nginx还可以做很多，限流、缓存、黑白名单等](http://developer.51cto.com/art/201905/596614.htm)
+ > Nginx应该是现在最火的web和反向代理服务器，没有之一。她是一款诞生于俄罗斯的高性能web服务器，尤其在高
+ ## [你的青春，值得献给小型创业公司吗？](http://news.51cto.com/art/201905/596613.htm)
+ > 2014 年的时候，我从“上有天堂下有苏杭”的苏州回到了九朝古都洛阳。之所以用“回”这个字，我想你也猜到
+ ## [以FIFA球员数据集为例，详解3大酷炫可视化技巧](http://bigdata.51cto.com/art/201905/596612.htm)
+ > 本文讨论了计算和读取不同变量类型之间的相关性、绘制数值数据之间的相关性、以及使用分类散点图绘制分类数
  ## [抢人大战中，那些选择留在高校的AI研究员们](http://zhuanlan.51cto.com/art/201905/596611.htm)
  > AI人才需求的不断增长， 为科研人员在学术机构和商业公司间跨界工作创造机会。越来越多的人工智能研究员决
  ## [全球多国竞相采用NSA方式部署5G，怎么就成了“假5G”？](http://network.51cto.com/art/201905/596610.htm)
@@ -81,74 +87,76 @@ categories: IT NEWS
  > 近期工作，跟网络协议相关，这让我有机会更深入学习网络协议。本文讲了TCP/IP地址、域名、端口、TCP/IP分层
  ## [物联网使重型设备更安全、更高效](http://iot.51cto.com/art/201905/596608.htm)
  > 随着物联网的发展，可以减少设备的停机时间，同时提高输出效率。供应工业机械和部件的公司对连网机械和部件
- ## [什么是物联网平台](https://blog.csdn.net/lsj960922/article/details/89675082)
- > 什么是物联网平台
- ## [物联网传输技术---LoRa](https://blog.csdn.net/XieWinter/article/details/89918641)
- > 物联网传输技术---LoRa
- ## [物联网第二步： Tornado-基础](https://blog.csdn.net/sinat_26940175/article/details/90051623)
- > 物联网第二步： Tornado-基础
- ## [游戏开发中，客户端与策划同学的设计需求约定](https://blog.csdn.net/NRatel/article/details/89000835)
- > 游戏开发中，客户端与策划同学的设计需求约定
- ## [AI语音唤醒方案的设计与实现](https://blog.csdn.net/u013470102/article/details/89854293)
- > AI语音唤醒方案的设计与实现
- ## [Android移植FFmpeg开源库--编译Android平台下所使用的.SO库文件（最新版FFmpeg 4.1.3.tar.bz2）](https://blog.csdn.net/u011046184/article/details/89509643)
- > Android移植FFmpeg开源库--编译Android平台下所使用的.SO库文件（最新版FFmpeg 4.1.3.tar.bz2）
- ## [物联网—期中复习](https://blog.csdn.net/weixin_42274244/article/details/89813330)
- > 物联网—期中复习
- ## [iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出](https://blog.csdn.net/weixin_42433480/article/details/90109873)
- > iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出
- ## [directx游戏开发终极指南 directx游戏编程教程](https://blog.csdn.net/fengliaoai/article/details/89785408)
- > directx游戏开发终极指南 directx游戏编程教程
- ## [物联网与人工智能2019.05.05第一天](https://blog.csdn.net/weixin_45059530/article/details/90173770)
- > 物联网与人工智能2019.05.05第一天
- ## [棋牌游戏开发界面设计越复杂越好吗？](https://blog.csdn.net/motianyougame/article/details/89846648)
- > 棋牌游戏开发界面设计越复杂越好吗？
- ## [ZEGO教程：如何通过electron构建桌面跨平台音视频应用](https://blog.csdn.net/zego_0616/article/details/89671045)
- > ZEGO教程：如何通过electron构建桌面跨平台音视频应用
- ## [物联网卡到底是不是“坑”](https://blog.csdn.net/qq_40798435/article/details/89845792)
- > 物联网卡到底是不是“坑”
- ## [CocosCreator之KUOKUO演示容易被忽略的API](https://blog.csdn.net/kuokuo666/article/details/89646393)
- > CocosCreator之KUOKUO演示容易被忽略的API
- ## [岁岁年年人不同——LVS2019多媒体会议见闻（一）](https://blog.csdn.net/nonmarking/article/details/89407495)
- > 岁岁年年人不同——LVS2019多媒体会议见闻（一）
+ ## [explain的参数及使用？](https://blog.csdn.net/weixin_42416543/article/details/89789800)
+ > explain的参数及使用？
+ ## [数据库MYSQL学习总结26—子查询的使用](https://blog.csdn.net/WildestDeram/article/details/89455049)
+ > 数据库MYSQL学习总结26—子查询的使用
+ ## [linux端口大全及协议](https://blog.csdn.net/qq_44945889/article/details/89457379)
+ > linux端口大全及协议
+ ## [C. 高可扩展架构 --- 微服务架构](https://blog.csdn.net/micklongen/article/details/89745811)
+ > C. 高可扩展架构 --- 微服务架构
+ ## [数据库 -- 事务管理](https://blog.csdn.net/qq_28376741/article/details/89477459)
+ > 数据库 -- 事务管理
+ ## [SQLServer数据库第一课2：数据库的备份和还收缩数据库删除数据库](https://blog.csdn.net/u011078141/article/details/89397147)
+ > SQLServer数据库第一课2：数据库的备份和还收缩数据库删除数据库
+ ## [SOA架构、ESB和微服务架构](https://blog.csdn.net/j15533415886/article/details/89818019)
+ > SOA架构、ESB和微服务架构
+ ## [lnmp架构 -- 部署论坛](https://blog.csdn.net/weixin_43273168/article/details/89706299)
+ > lnmp架构 -- 部署论坛
+ ## [【架构】分布式事务](https://blog.csdn.net/m18633778874/article/details/90110788)
+ > 【架构】分布式事务
+ ## [秒懂Hive架构!!!](https://blog.csdn.net/weixin_42312342/article/details/89481526)
+ > 秒懂Hive架构!!!
+ ## [计算机理论/进程间通信](https://blog.csdn.net/qq_39591494/article/details/89067251)
+ > 计算机理论/进程间通信
+ ## [学习数据库（1）——初始数据库](https://blog.csdn.net/weixin_36904568/article/details/89430615)
+ > 学习数据库（1）——初始数据库
+ ## [关键字总结之（final、finally、finalize）](https://blog.csdn.net/bailerong123/article/details/89435115)
+ > 关键字总结之（final、finally、finalize）
+ ## [25 struct定制报头以及ftp实践](https://blog.csdn.net/weixin_43265998/article/details/89761162)
+ > 25 struct定制报头以及ftp实践
+ ## [大数据架构中的lambda架构以及unifield架构](https://blog.csdn.net/yoggieCDA/article/details/89711402)
+ > 大数据架构中的lambda架构以及unifield架构
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [程序员敲代码时，戴着耳机究竟在听什么？](https://blog.csdn.net/csdnnews/article/details/90358144)
  > 今天，某妹子突然凑到我的耳边轻声说说：“我们公司的程序员，清一色的戴着耳机，你说他们是不是故意不想听我们提的需求？”我很方，因为我也喜欢戴耳机。（思考ing）思考了一秒钟...
+ ## [字节跳动兴趣社交“飞聊”上线，曾挖走微信前几号员工](http://www.lanjingtmt.com/news/detail/42617.shtml)
+ > 字节跳动全新社交产品“飞聊”正式上线，主打兴趣社交，涵盖兴趣小组等多个功能，目前已在App Store上线。
  ## [头部玩家竞争加剧、二线品牌掉队，快递业马太效应凸显](http://www.lanjingtmt.com/news/detail/42616.shtml)
  > 业内人士表示，随着快递资源逐渐向头部企业集中，二线快递品牌早已举步维艰，生存空间或日益收窄，未来快递市场的“马太效应”将愈发显著。
  ## [机器人石头科技冲击科创板，小米生态链是蜜糖还是砒霜？](http://www.lanjingtmt.com/news/detail/42615.shtml)
  > 搭乘小米生态链起家，高度依赖小米的销售渠道，加上单一的产品，都为石头科技的上市带来重重困难。
 # 人工智能 
- ## [程序员：一年被裁2次，光拿赔偿就拿十几万，真不知该哭还是该笑](https://blog.csdn.net/xiaoze_JAVA/article/details/89680113)
- > 程序员：一年被裁2次，光拿赔偿就拿十几万，真不知该哭还是该笑
  ## [区块链参考资源](https://blog.csdn.net/shangsongwww/article/details/90298740)
  > 区块链参考资源
- ## [A. 智能运维纲要](https://blog.csdn.net/micklongen/article/details/89441598)
- > A. 智能运维纲要
- ## [轻松学习区块链2 -  简单区块链的实现](https://blog.csdn.net/wanghao72214/article/details/90291186)
- > 轻松学习区块链2 -  简单区块链的实现
- ## [运维安全管理](https://blog.csdn.net/q947448283/article/details/90292450)
- > 运维安全管理
- ## [20190408每周精品之淘宝](https://blog.csdn.net/huawangxin/article/details/89418168)
- > 20190408每周精品之淘宝
- ## [区块链-区块链特点](https://blog.csdn.net/qq_40452317/article/details/89850607)
- > 区块链-区块链特点
  ## [轻松学习区块链1 - 初识MiniBC区块链](https://blog.csdn.net/wanghao72214/article/details/90291166)
  > 轻松学习区块链1 - 初识MiniBC区块链
- ## [为什么上班只是坐着，还是会觉得累](https://blog.csdn.net/Java_15707951907/article/details/89713307)
- > 为什么上班只是坐着，还是会觉得累
- ## [记录程序人生](https://blog.csdn.net/qq_34137397/article/details/89740966)
- > 记录程序人生
- ## [区块链学习（三）区块链实例](https://blog.csdn.net/qq_34874784/article/details/89811660)
- > 区块链学习（三）区块链实例
- ## [我与软件工程相约](https://blog.csdn.net/Liymanman/article/details/89705843)
- > 我与软件工程相约
- ## [区块链产品经理](https://blog.csdn.net/weixin_40057354/article/details/89706568)
- > 区块链产品经理
- ## [【区块链2.0实战学习笔记】————1、区块链基础](https://blog.csdn.net/Fly_hps/article/details/89919267)
- > 【区块链2.0实战学习笔记】————1、区块链基础
- ## [在萧山公安的5年运维](https://blog.csdn.net/sxper/article/details/89736662)
- > 在萧山公安的5年运维
+ ## [我们能不能相信人工智能？](https://blog.csdn.net/fadsf15/article/details/89922678)
+ > 我们能不能相信人工智能？
+ ## [区块链-区块链的概念](https://blog.csdn.net/qq_40452317/article/details/89788056)
+ > 区块链-区块链的概念
+ ## [Bash 和 Python 编程语言优缺点分析](https://blog.csdn.net/Listen2You/article/details/89891696)
+ > Bash 和 Python 编程语言优缺点分析
+ ## [【编程语言】Java 迭代器](https://blog.csdn.net/qq83833224/article/details/89922524)
+ > 【编程语言】Java 迭代器
+ ## [复试 -- 编程语言篇](https://blog.csdn.net/Ronnyz/article/details/89468160)
+ > 复试 -- 编程语言篇
+ ## [【区块链2.0实战学习笔记】————4、区块链数据结构](https://blog.csdn.net/Fly_hps/article/details/89925233)
+ > 【区块链2.0实战学习笔记】————4、区块链数据结构
+ ## [人工智能 | 自动驾驶与人工智能前沿研究报告（技术篇）](https://blog.csdn.net/u011344545/article/details/89432433)
+ > 人工智能 | 自动驾驶与人工智能前沿研究报告（技术篇）
+ ## [大数据开发需要学习哪些编程语言?](https://blog.csdn.net/qq_41842569/article/details/89812341)
+ > 大数据开发需要学习哪些编程语言?
+ ## [关于 人工智能 的思考](https://blog.csdn.net/qq_44943626/article/details/89710912)
+ > 关于 人工智能 的思考
+ ## [轻松学习区块链2 -  简单区块链的实现](https://blog.csdn.net/wanghao72214/article/details/90291186)
+ > 轻松学习区块链2 -  简单区块链的实现
+ ## [人工智能 | 自动驾驶与人工智能前沿研究报告（应用篇）](https://blog.csdn.net/u011344545/article/details/89433021)
+ > 人工智能 | 自动驾驶与人工智能前沿研究报告（应用篇）
+ ## [JAVA语言----GUI界面设计与事件响应](https://blog.csdn.net/qq_43715620/article/details/89817070)
+ > JAVA语言----GUI界面设计与事件响应
+ ## [区块链-区块链特点](https://blog.csdn.net/qq_40452317/article/details/89850607)
+ > 区块链-区块链特点
 
     
