@@ -1,7 +1,7 @@
 ---
 title: 2019-05-23 IT News
 copyright: true
-date: 2019-05-23 12:01:21
+date: 2019-05-23 17:01:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -63,85 +63,95 @@ ARM&#23459;&#24067;&#19982;&#21326;&#20026;&#26242;&#20572;&#21512;&#20316;<br/>
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [何观舒：税务犯罪案件辩护律师、广强律师事务所税务犯罪辩护与研究中心秘书长](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=cOEX00B*C2-QrH2YKqEYDmoXCdweLl25EKs5q13kV2dkrtbr6O4sOslW-6euZYXKY5kUR5336ShN3m3Rl4JCD2rC0PkeyAquJkt1L8BEs2TkiXFDpgmbK-8kKsGHlFkZ&new=1)
- > 作者：车冲，广强律师事务所刑事律师暨经济犯罪辩护与研究中心秘书长提起流量劫持往往第一个想起的就是运营商劫持，可能每一个上网的用户都曾经遇到过原本想访问A网站，但实际上打开的是B网站或者出现弹窗、嵌入...
- ## [华为自研操作系统曝光；海康威视回应芯片“断供”；微软下架华为笔记本电脑|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=lS22RcVSZac0ss7hIu*77-eakJXrDVol4TXegMa8YjoAiTiqw-MWXi2U0*jQWhDwzhlrHNRsiMRsMJ*-qT5YJPw5VPb4T*4*afDsUa*TwAxQy4ivNWyr0h3DqVq5JPwS&new=1)
- > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
- ## [茅台原董事长被双开；美国或将5家中国企业列入黑名单；四大航向波音索赔](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=tGb6rqJDZznSu5FtVeZp0LIfOKq4cwZS6XsTrjQhaCX3IRu-rqVu9aPBQJsKMgKCtpKMhJK7bYTdub0anPrkXBYbtkzH9LgQBipjB5AFTSL3c8*E6GfrWU78ipUR4dVt&new=1)
- > 时间如风，倏忽而过，转眼已周四，火速送上来自生命滙国际抗衰防癌医疗中心的叮咛～首先，是一个利好消息，集成电路设计等企业所得税将有优惠政策。硬科技才是实力的基础。【财政部、税务总局：集成电路设计企业...
- ## [3D打印金属模具风正起时，模具钢粉末用量直线飙升](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=r-LWaoePGFiJE34WQN9kQ3-bwx6yPXa8**4lFbPQ3ppfkwLOFG32RmP3BNTA602EMeymCvqbPztz2Tb2GlWKdTeZTBh*ui*cBEs7FXZPHzIlOIT1R6y898Vn2ln*272H&new=1)
+ ## [中国联通与腾讯联合发布《2019中国智慧文旅5G应用白皮书》!](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=JYVabYWCfXxC2ln9xXYvJ87PXwOQGXaqoby*v6sStghUk-SJtIcS22ldYT71UsL4mkpIX3r2o7a*Gnds-ruIAWrvKrgCPtojS3L8uZmCUDCuWxSkNTi5-q4f2AgjL9eq&new=1)
+ > 5月22日，中国联通和腾讯公司在云南昆明腾讯全球数字生态大会文旅分论坛现场联合发布了《2019中国智慧文旅5G应用白皮书》。白皮书以中国联通和腾讯在5G文旅领域的前沿探索为基础，给出了5G+文化旅游的应用场景和...
+ ## [华为被美国封杀第5天，任正非遭死亡威胁：华为的反击燃爆了!](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=fQd4pHrtvzYop-T3U7rZzrVK7xO-yHDjzfm474MOGTF9qz0aD28z-FY8Y1gZO-yxC1k7CijfBfJV*mbpBEXhTZcA1z*jCW-tQTtW*fDcIhPU7ptgBIpuoElMkB*oceyx&new=1)
+ > 我 明 白 你 会 来，所 以 我 等◆ ◆ ◆本文授权转载自悉尼印象公众号ID: xiniyx2019年5月20日，就当所有天下有情人相拥一起，庆祝节日的时候。没有人能知道，今天，此时此刻，无疑是颠覆时代的一天。路透社19...
+ ## [科技会客厅，邀您来坐坐 ——为科创中心建设增添“科协力量”的探索之路](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=Mps0u3VF-qfXAaYoFT2WBLVA0XDEz8be5GSa08NBNSOb0MDx1RVhy1DKe1zzsvTo0xzwrZObC4pL21WGBSw3M7v54WQlEvtBVfHlpQAYqn99Cc26zPJUuN5eDt5icOO4&new=1)
+ > 记者：姜晓凌“亮五年成绩单看实物模型展”　　就在明天，“领航科创时代，潮头再写新篇”——上海“加快向具有全球影响力的科技创新中心进军”科创成果展将在科学会堂精彩亮相。　　这是继上周末成功举办市科协...
+ ## [新西兰通讯商“温馨提示”：民众谨慎购买华为手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=-IBbrVdHle*Ik91xIhgIVwjjhFmX9f*7ZAvhfieK9eqg*8MOmZZjD2MF-ebyYjCFqC*hQ37OV3nImUwHKGw9Qhrv6fw8hNZ4m4TZVl4Z8LNnoXueOZXmMhh2EWXL4ndJ&new=1)
+ > ///日前，新西兰某通讯商表示，在美国政府出台新的限制措施后，买家应谨慎购买华为手机。美国政府上周宣布了一项禁令，阻止了谷歌向华为提供其产品。这意味着今后华为新版手机将不能使用安卓（Android）操作系统...
+ ## [远程开个户，我怎么隔空被黑产偷走了银行卡](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=ZJLkZwK1*OM7fXloPvr0jlFLa3cMEo0mphBMVV2mjOYI3KM5981SYv6lrRsAnzx3N9f8K0Jyyt0JdeTK1cEusXRgElxdGLfbt-y8QxijdelUg3l9-hXSIaxA2ME9TYMe&new=1)
+ > 世界上最远的距离不是 520 我站在你面前，你没有发红包给我，而是你拿着一张百夫长黑金卡，而我，拿着一张每月余额艰难在正负间挣扎的银行卡。银行卡怎么了？谁还没有么？有，现在远程开户就能办理。不仅是银行...
+ ## [你脚下20米，有一条人工智能隧道!看，机器人!](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=IqfFt0AFyFBx-dFms6PmTlGlayELIipPehP3fB53IdOn4ebyyqDibbgvfYzYhIQbTdWzB1Nhup5wCiPYHz3I896n2HMdc7JVyFh0rSKZ2MPmEuf3ECOiVyC*4-He6F6I&new=1)
+ > 这不是科幻片里的场景，这正是咱南京脚下的一条电缆隧道，机器人正在“Zi Zi Zi”得为你工作！ 5月22日，全国首个基于泛在电力物联网理念的人工智能高压电缆隧道——220千伏宁莫线电缆隧道，完成升级改造投入运...
+ ## [最神秘女总裁长沙妹子何庭波现身!华为：我就喜欢你看不惯我又干不掉我的样子…](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=FTi7FzjVHWdsMLoEd1p89vJQ2ZzMOfv4yiyGeyPUdNFDRKUJxvFt09-QDzbLiC8I8ru9gAh89*z1n7*RZN5wirvGaDUgyvfzgE8sxJ9Qg4Jd6uDplnLNJ9yMWqzNbXgl&new=1)
+ > 文/北洋君  来源：北洋之家（部分文字来自今日女报2019年5月23日11版）5月20日，在谷歌宣布对华为“断供”后，华为相关负责人宣布：不必完全依赖美国，华为的服务器芯片鲲鹏920，已经可以完全实现自主生产！5月2...
+ ## [华为又遭突发挑战 英国芯片巨头ARM将暂停与其合作](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=kKsbgM1pjxyT5EBYXTMArFAmFXiwW77Vk-qNJ*69pNf*927NYs2I9wvMqRFIExkOgRfPj-Ql6U3tA1pF0tQfn2*7D4IR59zkkNUwhq*JWIfk3Mpfs5pEct451oRz9Zbg&new=1)
+ > BBC英国时间5月22日发布消息称，据其获得的内部文件显示，英国芯片设计商ARM，已经告知员工，公司必须暂停与华为及其子公司的“所有在履行合同、授权许可以及任何待定合约”，以遵守最近的美国贸易禁令。这是继...
+ ## [华为“备胎”受威胁?芯片源头ARM和日本4企预中止与华为合作!一文看懂华为的芯片家族](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=boQcqcssTw*hU3TFQMADoBmqLn74pgbo1yhXZXjQr1dHb5ccpscDHYM65On94Fdw-9Y6hAMM8R9JfCCo84TARMEGP3IpR1G2XpdN13ATXq0wpXkkX6ZwPXsPgROcxU34&new=1)
+ > 点击上方↑↑↑“经济参考报”关注我5月22日，环球时报消息，英国芯片设计商ARM将暂停与华为的全部业务。目前，华为对此不予置评。ARM公司在一份声明中表示，正在“遵守美国政府制定的所有最新规定”，ARM发言人...
+ ## [萌一脸!UC伯克利造出会「轻功」的机器人，一条腿跳遍天下](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=WuYTnBAblWAkQIZ4-*CUu9WwzsTkhrZbZbnKRI5rdpO2-xqKO5uHBjCGTkxAKU9EsgZrhW9nb8TH*41q4WhtaDc8*8LMKGmCSoJ0eQ7bj2e1E2OppjsSILiFuWSjD3KJ&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相本文经机器之心（微信公众号：almosthuman2014）授权转载，禁止二次转载文 | 机器之心（ID:almosthuman2014）作者 | Kara Manke机器之心编译参与：路、sh
+ ## [ARM也“断供”?会对华为有实质影响吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=pyCfAcKihnY55fy2Br7RLoXvJ4GWISO2dq-FvCyNejuOQqB8ryRDLknR1Zmel46*5*lzAjGBDWlgsvWTJrbHFadxcFXaxUFBiCxIYfJMnfPGMGBK3Om7eWMQCKOdGoeD&new=1)
+ > ◆ BBC 22日报道称，芯片设计商ARM告诉员工，它必须暂停与华为的业务◆ ARM回应：不便对BBC报道做出评价，但公司一直遵守美国相关法律和法规◆ 华为声明：相信这一令人遗憾的局面能够得到解决，首要任务仍然是继...
+ ## [关键时刻，这所高校与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=HT9CDPve2vlmRP3A0pio-t67RS0HMO2561qGUXQBFgZ9jC9DJ01fpM03NOqkUnVHSqN0x8exZmPQWbRfrlBzkuDpVXxpRdqm1NfXwKF2gmsk0YmwA927qP-C4nniVC3l&new=1)
+ > 而在一天前，5月21日上午，华为创始人、CEO任正非在深圳华为总部接受了国内媒体采访，在两个多小时的时间里，他回答了近期一切关于华为的热点问题。熟悉华中科大的人看到这条新闻一定忍不住会心一笑，因为搞技术...
+ ## [突发!芯片设计公司ARM“断供”华为：恐危及“备胎计划”](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=MRpPX6FZjrLE7JrtWZJWxPHo4sR8Tur3qLBAnko3pDGwD2HDBuvyaJjqkfQg-dMynAn5aATYSQpCR3iIMFezBvEQL8dUCON2t0tNyUweeSGlCgCnnKAowwPy6xcZl6ci&new=1)
+ > 5月23日，根据BBC获得的内部文件，英国芯片设计公司ARM已告知员工，必须暂停和华为的业务往来。ARM要员工停止和华为及其子公司的“所有积极的合同、支持福利及任何悬而未决的约定”。对此ARM作出回应，不便对BBC...
+ ## [如何为混合云配备人才](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=yJ9QVQOPuSK8EaT*xA4yzFectgCcpMECqNoZ6JVTQ84VgtZZV52A6UsMA*yn632Q9cZfTy*UDsNs-hAYx0lb*WcajDlapnTxydX-oiNJfS0dMlXjoBon61aGqnUxxvUu&new=1)
+ > 关键讯息，D1时间送达！要想在混合云上取得成功，公司需要知道混合云是自己的一个站点还是目的地。Selvaraj认为混合云只是全面云转型的一个中途站，而Terrell则认为，医疗等监管严格的行业目前必须将混合云视为...
+ ## [产业观察：坚持专业与质量的工业存储](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=wAt94s5R-41A2fwXGCxU*o235YiFngrWdlJa2sViUu2VERETCp*NyUM-Oor8aAMiyfPQ*P2ATcLOH34BumEr*jIPY3oNxt7IV9coDCK4kqu5nCEYem91rfITAk4Xzo-u&new=1)
+ > 存储市场经历2年涨价的繁荣后，2018年NAND Flash和DRAM需求和价格齐跌，2019年依然持续颓废之势，存储产业迎来了周期性拐点。与消费性存储市场相比，工控产业相对稳定的市场需求，让原本许多专注消费市场的制造...
+ ## [3D打印金属模具风正起时，模具钢粉末用量直线飙升](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=r-LWaoePGFiJE34WQN9kQ3-bwx6yPXa8**4lFbPQ3pq2qEU5ALBNsR5k0KgJinpm3aaClMTS9qbIgasE3tLRnvCG9Vb49m98EFHxe0iRnEiEuPV9Jj8mVomopAAvhbTX&new=1)
  > 3D打印的随形冷却金属模具已经出现多年，从刚刚开始的充满质疑到后来的逐步尝试，如今3D打印金属模具受到越来越多客户的认可。2017年的时候，南极熊曾经做过一个调研报告，其中对3D打印金属模具市场做了很高的预...
- ## [为什么Arm对华为禁令不会起到实质效果?](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=3*iAV9NoKiPffR1LpetNrKrhylMg6Awxm0CH3uGq7KKsbYtdFHRluoFgXaqKB2djSbDSyVsgYaek4fkSh4x1HCUztUMEmHo1O-62SOyvUpQ9WD*C8hK3GAE989npl0y3&new=1)
+ ## [何观舒：税务犯罪案件辩护律师、广强律师事务所税务犯罪辩护与研究中心秘书长](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=cOEX00B*C2-QrH2YKqEYDmoXCdweLl25EKs5q13kV2ciibydjqIVuDWlcKrUUNTlLuRTlvTJ6hW-D1RbS7cFCcsiwk4clnH9qoxQjKublWJl6NjeY8B5FS7mrvVYO3iH&new=1)
+ > 作者：车冲，广强律师事务所刑事律师暨经济犯罪辩护与研究中心秘书长提起流量劫持往往第一个想起的就是运营商劫持，可能每一个上网的用户都曾经遇到过原本想访问A网站，但实际上打开的是B网站或者出现弹窗、嵌入...
+ ## [华为自研操作系统曝光；海康威视回应芯片“断供”；微软下架华为笔记本电脑|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=lS22RcVSZac0ss7hIu*77-eakJXrDVol4TXegMa8YjpCWYGHlQDXS5a5TgMmrz8OTz3Kzg5zmqGFpASmj9nnkGX89Klxx2mNnPA8q3rY0dD475A83*Sys5wOj1Ylpp8U&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [茅台原董事长被双开；美国或将5家中国企业列入黑名单；四大航向波音索赔](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=tGb6rqJDZznSu5FtVeZp0LIfOKq4cwZS6XsTrjQhaCX5dXh8uE13IG-tsDbNyxYEJ6V9rUuTSgyY0Rfcyuv2pfHOX5CRzklPasyRCtbDw3zwwlDqOVa47i0YGUw-9Gs2&new=1)
+ > 时间如风，倏忽而过，转眼已周四，火速送上来自生命滙国际抗衰防癌医疗中心的叮咛～首先，是一个利好消息，集成电路设计等企业所得税将有优惠政策。硬科技才是实力的基础。【财政部、税务总局：集成电路设计企业...
+ ## [为什么Arm对华为禁令不会起到实质效果?](http://mp.weixin.qq.com/s?src=11&timestamp=1558602005&ver=1623&signature=3*iAV9NoKiPffR1LpetNrKrhylMg6Awxm0CH3uGq7KL0B155qouIodn-ZPqUjiEx7rT*ccr0BPnmT*MWz4nj3TMh0exXAb9dJG0H8BlWwvqPMCb7kwL1YaILAVN1GZ63&new=1)
  > 华为可以靠着现有的 ARMv8 授权坚持很长一段时间，足以等到这波科技禁运结束。今天，华为在美国遭遇的科技禁运上升到了全球新高度。据 BBC 报道，由软银全资拥有的英国技术公司 Arm 向员工发出内部信，要求员工...
- ## [华为被美国封杀，任正非遭死亡威胁：华为，你终于让他们害怕了!](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=ciRMyiME3e-3iQ7vBURhUfhz66ZBSQp67CTKlwyjNTRRLypG3ry9gFxcQeWeqDXeCajGnU2n6szX0qxBy9mOT8lwy0-bzpAexWRWX6tAiG8PS8x301llNZ995RKPSrbM&new=1)
- > 作者 | 斜杠先生 来源 | 斜杠先生（ID：isslash） 01 就在前天，美国再一次用行动刷新了其作为一个国家的下线： 特朗普动用政府力量，强迫谷歌暂停与华为的商业往来！ 这意味着什么？谷歌从此加入封杀华为的队伍...
- ## [突发!ARM断供华为 影响有3点](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=jRpw8CB9Wx5YI*Ar8L6GOeIeaO5rUlhHrWHdGbU-Dht8gBgC-F-4UvyXb702D3YhW-Z2HCBMhwwWusVngKrSL6V0kNzBGxas*RkEjPx-711thVEPa6JF9msvsmqiR89b&new=1)
- > 据国内多家媒体援引BBC的报道，英国芯片设计公司ARM已告知员工，必须暂停和华为的业务往来。ARM要员工停止和华为及其子公司的“所有积极的合同、支持福利及任何悬而未决的约定”，以遵守最近的美国贸易禁令。在...
- ## [自2005年起，谷歌以纯文本形式存储G Suite用户密码](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=kdNoQvt-PiL6ndGu7rHqADqJY7ZTMJPN-bjVGHjh1UuGVG9PMY4RawHUFGlXq1PRExgc15LDYWXxB50rOgbOT82HcPfuGM*jFPz9L4JJO3danMMsm0P6wro02EGGuLMW&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：谷歌最近公布，自2005年开始，一个错误导致G Suite企业客户的登录密码以纯文本形式存储。据外媒报道，谷歌最近公布了一个大消息，G Suite企业客户的...
- ## [7点见|BBC：英国ARM中止与华为合作；中移动否认推5G套餐；微软线上下架华为笔记本电脑](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=YnF5fUHLXo1DvLxm4AjAXS2zDWAvhA9sXO38x0UoPjJFVigMCgDuAVCLo5DMk0QG-xral3ARR88o80UD-44hCpHZAcozzvfaw6ct0o0AxNO1kRLQkrWOic*r-a0l5Xy4&new=1)
- > 关键时刻，第一时间送达各位小伙伴们，早上好呀！今天已经是星期四啦，小七不由得感叹一周的时间过得好快。那就让我们抓住本周的小尾巴，一起元气满满地努力生活吧！接下来，一起来看看小七为您准备的今日早报吧...
- ## [\[科技早报7点整\]游戏成瘾或成为一种疾病 腾讯应用宝即将发布8.0版本 ARM中止与华为合作……](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=Wl9Pil2A8CYPmy2KunhuM0qKQ8PQm7QBs8WARQ59vAuq5xz7WFabColZC60h8kprbMGnA4vKB-7b1EMs8LFJXJYfwZ2NkskPNMXvIejm7MZllwu2vXjssiqaSBYqqdzc&new=1)
- > 早上好，科技圈【一度蜜科技早报】第481期1.花椒直播被判赔偿坠亡吴永宁母亲3万因认为花椒直播，对于用户发布的高危视频没有尽到合理的审查和监管义务，致其子吴永宁攀爬高楼坠亡，何某将花椒直播诉至法院。北京...
- ## [华为，挺住!谷歌安卓宣布封杀华为，这些APP以后都不能用了!](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=Lxh0ITRT6V-alwG7Vx02QPgLYsq*pHyX0cxxL43wgo6TVum*mwM3MqoSuLAnpKwoe2KhSRFay4Akh6TL*Gx*kWzSObLfk2nBql5URUgETJpuhdwe5mM-W-5Q*DZfIzGY&new=1)
- > 作者：悉尼印象来源：悉尼印象（ID：xiniyx）世界还是那个世界，可是中国，已经不是原本的中国！2019年5月20日，当所有天下有情人相拥一起，庆祝节日的时候。没有人能知道，这一天，是颠覆时代的一天。路透社19...
- ## [芯片|BBC：英国ARM公司中止与华为合作，恐影响未来华为手机发展](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=-PNjiypzs2BThcszxCF3l43FOTwj3R6qXBjTi66Z2erDtgHZRtMiTGzlaic9sz3hLke3cAzNmqkif7R-704P5gP4Fn*Yuzb7*QUNcSZJIfV7uoydN0KWL2cS51Ry9wOf&new=1)
- > 导读     BBC称，英国芯片设计商ARM将暂停与华为的全部业务。目前的主流的手机芯片大都是ARM技术。分析人士称，如果与ARM分道扬镳，华为将难以开发下一代麒麟处理器。华为公司的发言人表示，该公司“目前不会发...
- ## [暴风TV职工否认解散丨诺基亚宣布获得37个5G合同\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=kKsbgM1pjxyT5EBYXTMArFAmFXiwW77Vk-qNJ*69pNeTPSyfW84QItUr83tMu12etyy2tEDKt2WtnxAKhAC4ZJK30h4mja*4sPa1DoQshHruqzpOKU5nCzPjDZdJ-CJt&new=1)
- > 5月22日 周三【Do说】编辑 | 李尧暴风TV职工否认解散，运营主体迁至深圳高科大厦近日，有媒体报道称，多地暴风TV员工收到通知称，由于融资进度问题，公司所有人员遣散。其中一个原暴风TV办公室留下的联络号码的...
- ## [突发!Arm停止与华为合作!对华为影响究竟有多大?](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=He05LZnBN18xVBSS-SMtohA2Gu*kHZw2-0a9mPpaajuMQFUwQyrQ7Ne5BzuvXpMcsMEiUFUX9OkbSWIFzGYA0YlAcEC-py4AbJL4cdztOKgQtuYFbvnecH6V3Rm-6XxX&new=1)
- > 继此前谷歌、英特尔、Qorvo等美系厂商都被曝停止了与华为的合作之后，今天外媒再次爆出，全球最大的移动处理器IP提供商——Arm也已暂停了与华为的业务，而这将威胁到华为后续新的移动处理器的研发，甚至是芯片制...
- ## [美国霸凌华为行径升级!拉多家日本英国企业下手，ARM中国新品发布改期](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=HohiD8C8hPHYSEreZB9PkE6Zgx2RIYKe00SPjuhgQSZ5I9YEkd68I4bCjUEwrpzFo4ZjGWRLJLzCeOtaM75394rZaL7I0C7Rpc0fXg6YY6GvfzbsVbx*C7jOU8BNntOk&new=1)
- > 看点：英国ARM停止与华为合作，华为芯能不能扛住禁供核心IP？华为芯片再遇新难关。这一次举起铡刀的，是掌控了全球绝大多数移动设备芯片的英国公司ARM。华为手机的大脑麒麟芯片、云端大脑服务器芯片均集成了ARM...
- ## [继华为、大疆之后，美国又“盯上”了这两家中国企业](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=02jnr*9yUJc-e9C9PA7eHyPr6mMHtdegGLFR-7kExlPdHJCQwadTUHAKr1bPLw377pfEllAxdOv7LzbwN5KJb0Ge-1odknhLOC8BRN4*14cbrACUSq-ONypWRAPMhtYb&new=1)
- > 美国提防的是“安全风险”，还是产业冲击？来源:21世纪经济报道（ID：jjbd21）、 21Tech（ID：News-21）作者:林修修 奉仙 施诗 张涵 继去年的中兴，近期的华为之后，大疆也被美国政府部门提上防范名单。今天，据...
- ## [华为究竟是一个什么模式?——从微信群里的九个问题说起](http://mp.weixin.qq.com/s?src=11&timestamp=1558584004&ver=1623&signature=1nEYZujT8pYo1MBmAFTHMb0ZznfkdP1fef1BI4Wb3sANFjqeR1OTMubQdMw7AS76*CGNY7RQ5nHgAltzd2jBqCS5It4WxNNcgP1ZVkNobLN8XKEFW0iITBEJMN9-hh0u&new=1)
- > 最近华为被推到风口浪尖，各个微信群里的激烈讨论反映出很多问题，从中可以窥见改革开放四十多年的趋势、变化、心态。笔者先针对群友常提到的问题进行解答，然后来分析为什么群友会有这样的问题、感受、印象。华...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 总结一下大佬们回答的概要：@郑晗 量子计算、量子通信、量子传感、自旋量子器件、柔性电子器件 &amp; 可穿戴设备、拓扑材料及其应用；@谢熊猫君 脑机接口、6万字长文、从生物到人类巨灵、脑的进化、脑的价值、脑的结构、...
- ## [你是如何转行到产品经理的？](https://www.zhihu.com/question/268102562)
- > 转行产品经理一、什么是产品思维？产品思维的本质是洞察人性。产品的设计过程就是产品经理洞悉用户的需求，然后以良好的设计来满足用户需求的过程。这个过程对用户需求的洞悉非常关键，如果用户的需求把握不准，那你...
+ ## [为什么创业公司、互联网公司那么喜欢融资？他们不会自己养活自己吗？](https://www.zhihu.com/question/313642548)
+ > 原因有三：创业公司，尤其是互联网创业公司，成本巨大，不要只看他们有多少客户，为了吸引这些客户很多时候是在倒贴，计算开始找客户收钱，收的钱也未必能弥补成本；创始人都懂，能花投资人的钱，就不要花自己的钱，...
+ ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
+ > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
+ ## [小程序开发制作哪家好？](https://www.zhihu.com/question/68541065)
+ > 不要找不了解需求就定价格的：因为如果不了解需求就定价格，在途中因客户而产生的变化会增加工作量，谁都不愿意承担多出来的工作量和工时，这会增加项目风险。所以要找前期经过充分沟通之后靠功能列表来定价的。找有...
+ ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
+ > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
+ ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
+ > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [脱粉pg one是怎样一种体验？](https://www.zhihu.com/question/66758494)
  > 今天彻底say拜拜了，有嘻哈开始喜欢的，舞台真炫酷，台风真好，关注之后觉得私下还挺可爱的，后面一系列的事情都有关注，始终没说过谁对谁错，毕竟我也不了解真相，凉了之后背着我那些讨厌他的朋友们也在偷偷关注，一...
  ## [简媒平台有哪些槽点？](https://www.zhihu.com/question/263324986)
  > 简媒平台有哪些槽点？简媒十级用户也有话要说！简媒最近的风头真的很盛哇，我也来蹭一波热度，从一开始用简媒到现在最大的感受就是快而且方便！当然了，槽点嘛肯定是有的，比如说，不能直接进入第三方平台，编辑页面...
- ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
- > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
- ## [如何看待爱情银行下架停服通知?](https://www.zhihu.com/question/317389465)
- > 像我和我女朋友这种上班的，一千块奖励就当随随便便签着玩。可是里面这么多学生情侣，他们是不是心心念念着这一千块，吃顿大餐买些有纪念意义的东西？如果我的学生年代，有人告诉我，坚持某件事一年就会给我1000块，...
- ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
- > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
- ## [小红书的流量是真的吗？普通用户如何利用小红书赚钱呢？](https://www.zhihu.com/question/320412355)
- > 是真的！！这个跟小红书的推荐内容运营机制有关系。之前在做小红书的分析，给你看个图：从受众上来看、小红书的受众主要来自一二线发达城市，以爱美、追求精致生活的90后年轻女孩为主；从内容定位上看，小红书主要是...
- ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
- > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 上学时有个朋友是法医学院的。有一次我去他们实验室找他玩，闻到一股很香的煮排骨的味道。我说，你们今天吃排骨啊？他们的实验台子上放着一个电饭锅，我闻到的香味就是那个锅里飘出来的。他们实验室的几个男生不说话...
- ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
- > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
+ ## [你是从什么时候开始厌倦知乎，对知乎感到失望的？](https://www.zhihu.com/question/55072539)
+ > 我在知乎有7000多粉，超过三万点赞。不是大V，我也从不刻意去写热门话题。我写的东西大部分都涉及女性情感，研究生生活，男女平等，育儿，考学等，所有在知乎里写的，几乎都是真实的事情，因为我想，唯有真实才可以...
  ## [如何评价《宰执天下》?](https://www.zhihu.com/question/33823835)
  > 最近看《宰执天下》，想写一写和多年前看的《新宋》的比较。首先二者是有一些共同点的：都是穿越文，都是从宋神宗熙宁朝开始。大背景都是王安石变法主角最后都大权在握。虽然，《新》还是很强的儒家背景，作者虽然是...
- ## [如何评价马云？](https://www.zhihu.com/question/20333333)
- > 说个本人亲身经历的马云，绝对真实：2008年马云出席博鳌亚洲论坛，本人作为路人，旁听了他参加的一个session。session结束以后，马云就被听众团团围住求合影。当时马总身边既没保镖也没助理（不知道现在有没有），对...
+ ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
+ > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
+ ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
+ > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
+ ## [30岁左右转行做产品经理还来得及么，大家都是多少岁开始的？](https://www.zhihu.com/question/19819888)
+ > 我是从大学毕业以后，开始想转行做产品的，因为我是一个标准的985，211毕业的理工男，生活在没有了什么乐趣的，为什么会喜欢做产品经理，因为总觉得做产品经理，喜欢画原型图逻辑性很强，所以我算是从21岁，开始进入...
  ## [小米真的重视知乎吗？](https://www.zhihu.com/question/57290984)
  > 我来了。
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
- ## [有哪些网上自学课程的好网站？](https://www.zhihu.com/question/31044894)
- > 学如才识，不日进，则日退。 ——左宗棠学习有什么用呢？有中途辍学的人觉得无用，有年纪轻轻进入社会获得不小成就的人觉得无用，有出身非凡的人觉得无用。我来自一个小山村，家里条件不好，收入也不高。我坚信着学习...
+ ## [平面设计师经常去哪些网站？](https://www.zhihu.com/question/20238525)
+ > 重磅硬货！！本文整理了6大类别，36个设计师常去的素材网站！！内容涵盖范围广：图片（样机、PNG、GIF等）、图标、字体、视频、音频、灵感网站之类的都包含在内！！一文在手，素材全有~ 类别一：图片类好图胜千...
+ ## [互联网行业所谓的青春饭为什么一般指的是程序员？](https://www.zhihu.com/question/320388757)
+ > 谢邀。谈一谈我粗浅的看法，欢迎不同看法的大佬来交流~先说一下文中会用到的“个人能力”这个词这个词包含：个人眼界、个人为人处世、领导力、大局观、解决问题的能力等。产品经理，策划，运营，市场，设计岗位，这些...
+ ## [我就问问晋江签约作者的收入？](https://www.zhihu.com/question/49600996)
+ > 晋江作者，当过小网站枪手，这里就匿名了。我其实挺好奇你们一个月只有几百的怎么赚钱的……我当初当枪手的时候，刚开始起步，每天6000字，一个月还两千呢。我朋友当枪手，一天8000，一个月5000。我另一个朋友在网易...
  ## [广州的黑人到底对社会造成了什么危害或者对社会造成了什么影响呢？](https://www.zhihu.com/question/31594516)
- > （有查阅、搬运相关资料。侵删！侵删！侵删！）以下为原答案这个问题不是2006年就有了吗？艾滋率增长、社会治安问题加重、广州那边学校里越来越多的黑杂……我国以前有过遣返黑人的事例（还是安排的飞机遣返，真是不...
- ## [2019为什么大家转行都去互联网运营？](https://www.zhihu.com/question/323056715)
- > 作为一个传统行业出身，无任何工作经验，死也要死在互联网的转行er（17年底的时候成功转了用户运营，现在是一名运营部的主管）告诉你，为什么要转行做互联网运营，简单粗暴就俩理由：1.因为互联网行业有前景，过得相...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ > 听听当地人的看法吧。广州黑人问题对于广州市民真的严重吗？看看本地人怎么说Sina Visitor System
+ ## [广州的黑人到底对社会造成了什么危害或者对社会造成了什么影响呢？](https://www.zhihu.com/question/31594516)
+ > 我曾经看过一个来广州打工黑人的报道，勤劳肯干，做摩托车车行的生意，勤勤恳恳干了五年，最后娶了车行老板的女儿，接手了岳父的生意，一家人也算幸福美满，只是一直感叹现在摩托车生意已经做不下去了，为未来生活迷...
 # IT 技术 
+ ## [100个颇具价值的GitHub代码存储库](http://os.51cto.com/art/201905/596887.htm)
+ > 100个颇具价值的GitHub代码存储库
  ## [懵逼了！一个历时五天的Bug......](http://news.51cto.com/art/201905/596861.htm)
  > 懵逼了！一个历时五天的Bug......
  ## [突发！华为遭最严峻挑战，孙正义旗下ARM暂停芯片架构合作，危及备胎计划](http://server.51cto.com/CPU-596850.htm)
  > 突发！华为遭最严峻挑战，孙正义旗下ARM暂停芯片架构合作，危及备胎计划
+ ## [如何使用Python玩转PDF各种骚操作？](http://developer.51cto.com/art/201905/596890.htm)
+ > 如何使用Python玩转PDF各种骚操作？
  ## [使用Webalizer查看网站统计信息](http://os.51cto.com/art/201905/596761.htm)
  > 使用Webalizer查看网站统计信息
  ## [面试陷阱：数十亿级别数据下，如何提高ES查询效率？](http://news.51cto.com/art/201905/596832.htm)
@@ -150,64 +160,66 @@ ARM&#23459;&#24067;&#19982;&#21326;&#20026;&#26242;&#20572;&#21512;&#20316;<br/>
  > 一文读懂自动编码器的前世今生
  ## [安全 | 关于挖矿，你需要知道的一切](http://blockchain.51cto.com/art/201905/596825.htm)
  > 安全 | 关于挖矿，你需要知道的一切
- ## [日均7亿交易量，如何设计高可用的MySQL架构？](http://developer.51cto.com/art/201905/596781.htm)
- > 日均7亿交易量，如何设计高可用的MySQL架构？
- ## [未来物联网移动应用发展的14个趋势](http://iot.51cto.com/art/201905/596769.htm)
- > 未来物联网移动应用发展的14个趋势
- ## [腾讯蓝军：捍卫网络安全之军](http://cloud.51cto.com/art/201905/596886.htm)
- > 一直以来蓝军和红军的对抗都非常激烈，有某一段时间可以说是天天都在进行高强度的对抗，比如说上午蓝军成功
- ## [在Java中12个常见的语法糖](http://developer.51cto.com/art/201905/596884.htm)
- > 本文从 Java 编译原理角度，深入字节码及 class 文件，抽丝剥茧，了解 Java 中的语法糖原理及用法，帮助大
- ## [安全漏洞潜伏十四年，你的 Google 账号还好吗？](http://netsecurity.51cto.com/art/201905/596875.htm)
- > 日前，Google 在博客中透露，公司最近发现了自 2005 年起就存在的安全漏洞，漏洞导致部分 G Suite 企业用户
- ## [撞库、API攻击日益猖獗，我们如何从边缘保护企业的网络安全？](http://netsecurity.51cto.com/art/201905/596883.htm)
- > Akamai发布的《2018年互联网安全状况报告：撞库攻击》显示，2017年11月初到2018年6月末，由撞库攻击造成的
- ## [边缘需要分层安全](http://zhuanlan.51cto.com/art/201905/596882.htm)
- > 随着需要访问不断扩展和日益互连的网络的设备数量不断增加，该如何确保每个新的边缘连接的安全性?这需要围
- ## [纳尼，Java 存在内存泄泄泄泄泄泄漏吗？](http://zhuanlan.51cto.com/art/201905/596885.htm)
- > 纳尼，Java 不是自动管理内存吗?怎么可能会出现内存泄泄泄泄泄泄漏!
- ## [Istio，灰度发布从未如此轻松！！！](http://zhuanlan.51cto.com/art/201905/596880.htm)
- > ServiceMesh本质是业务服务与底层技术体系的解耦，而Istio是ServiceMesh的产品化落地。今天我们聊聊Istio的
- ## [那些学了Python的程序员，编程能力都“退化”成什么样了？](http://developer.51cto.com/art/201905/596881.htm)
- > 在大家群嘲的背后，我们来分析一下，为什么在大家印象里，Python这么容易学，甚至简单到被某些人鄙视呢?学P
- ## [2019年过去一小半了，这些深度学习研究值得一看！](http://zhuanlan.51cto.com/art/201905/596879.htm)
- > Open Data Science在Medium上整理了2019年到现在为止深度学习技术发布的精华成果，选择的论文都是在GitHub
- ## [物联网的真正投资回报率](http://iot.51cto.com/art/201905/596877.htm)
- > 物联网正在快速发展，尤其是在企业领域。鉴于很多价值数十亿美元的投资岌岌可危，企业领导人必须停下来思考
- ## [自学计算机编程语言经历！](https://blog.csdn.net/weixin_42588847/article/details/89763825)
- > 自学计算机编程语言经历！
- ## [关于NOI系列赛编程语言使用限制的规定](https://blog.csdn.net/noipnoi/article/details/89917633)
- > 关于NOI系列赛编程语言使用限制的规定
- ## [【科普】7大含金量最高的编程语言](https://blog.csdn.net/weixin_40897235/article/details/90399967)
- > 【科普】7大含金量最高的编程语言
- ## [大数据、云计算将催生IT产业大革命](https://blog.csdn.net/bigagag/article/details/90139536)
- > 大数据、云计算将催生IT产业大革命
- ## [口令加密算法 - Java加密与安全](https://blog.csdn.net/Leon_Jinhai_Sun/article/details/89919308)
- > 口令加密算法 - Java加密与安全
- ## [大数据究竟是什么？云计算跟大数据的关系如何？一篇文章让你认识并读懂大数据](https://blog.csdn.net/qq_38459404/article/details/89766019)
- > 大数据究竟是什么？云计算跟大数据的关系如何？一篇文章让你认识并读懂大数据
- ## [Bash 和 Python 编程语言优缺点分析](https://blog.csdn.net/Listen2You/article/details/89891696)
- > Bash 和 Python 编程语言优缺点分析
- ## [比编程语言更重要的是什么？](https://blog.csdn.net/cq20110310/article/details/90372173)
- > 比编程语言更重要的是什么？
- ## [大数据拥抱云计算](https://blog.csdn.net/weixin_44386969/article/details/89930328)
- > 大数据拥抱云计算
- ## [web安全文件包含渗透攻击](https://blog.csdn.net/qq_42094992/article/details/89763655)
- > web安全文件包含渗透攻击
- ## [JAVA语言----GUI界面设计与事件响应](https://blog.csdn.net/qq_43715620/article/details/89817070)
- > JAVA语言----GUI界面设计与事件响应
- ## [【web安全】深入浅出XSS攻击](https://blog.csdn.net/colinandroid/article/details/89757446)
- > 【web安全】深入浅出XSS攻击
- ## [数据中心，云计算，大数据之间有什么区别和联系?](https://blog.csdn.net/Myhoooyo/article/details/89812625)
- > 数据中心，云计算，大数据之间有什么区别和联系?
- ## [四大编程语言之父聚首，编程语言要变天？](https://blog.csdn.net/xiaoze_JAVA/article/details/89847266)
- > 四大编程语言之父聚首，编程语言要变天？
- ## [安全基础——安全术语](https://blog.csdn.net/CN_SHzhaoyujie/article/details/89857131)
- > 安全基础——安全术语
+ ## [为什么Flink会成为下一代大数据处理框架的标准？](http://bigdata.51cto.com/art/201905/596898.htm)
+ > 相对于传统的数据处理模式，流式数据处理则有着更高的处理效率和成本控制。Apache Flink就是近年来在开源社
+ ## [Android Q名单中移除华为Mate 20 Pro 更新无望？](http://mobile.51cto.com/anews-596896.htm)
+ > 据Phone Arena报道，谷歌将华为Mate 20 Pro从Android Q名单中悄然移除。值得一提的是，华为消费者业务CEO余
+ ## [为什么Arm对华为禁令不会起到实质效果？](http://news.51cto.com/art/201905/596897.htm)
+ > 今天，华为在美国遭遇的科技禁运上升到了全球新高度。据 BBC 报道，由软银全资拥有的英国技术公司 Arm 向员
+ ## [互联网人的“中年危机”：收入骤降、压力骤增](http://news.51cto.com/art/201905/596895.htm)
+ > 前段时间，互联网圈陆续发生了几个轰动事件，比如程序员集体抗议996，比如甲骨文大裁员。加之中年中层管理
+ ## [线下零售的刷脸暗战](http://www.cioage.com/art/201905/596894.htm)
+ > 腾讯或者阿里，如果让你任选一家，你会选择谁?当线下零售的争夺战愈演愈烈，这样的问题也逐渐由幕后转到台
+ ## [任正非：华为有三大突破点，要做就做世界第一](http://news.51cto.com/art/201905/596893.htm)
+ > 华为心声社区在5月22日发布了一篇此前不久的任正非内部讲话邮件。在这封邮件里，任正非表示，不懂战略退却
+ ## [小米手机遇重压 雷军重回国内第一目标能否如愿](http://news.51cto.com/art/201905/596892.htm)
+ > 2018年初，雷军提出的手机业务十个季度内重返国内第一的目标言犹在耳。但目前时间过半，小米在国内市场份额
+ ## [码农不仅翻身，还要翻出去！日本篇 ―― 好的、坏的和丑陋的](http://zhuanlan.51cto.com/art/201905/596891.htm)
+ > 肉酱不是留学党，更非大佬，希望通过分享自己平凡的经历，能够让大家看到另一种可能。为了尽可能的夹带更多
+ ## [xsos：一个在Linux上阅读SOSReport的工具](http://os.51cto.com/art/201905/596889.htm)
+ > 我们都已经知道 SOSReport。它用来收集可用于诊断的系统信息。Redhat 的支持服务建议我们在提交案例时提供
+ ## [新手教程：如何通过SSH进入树莓派](http://os.51cto.com/art/201905/596888.htm)
+ > 在这篇树莓派文章中，你将学到如何在树莓派中启用 SSH 以及之后如何通过 SSH 进入树莓派。
+ ## [大神！这段代码让程序员躺赚200万，源码简单，你怎么看？](https://blog.csdn.net/CSDNedu/article/details/90373533)
+ > 大神！这段代码让程序员躺赚200万，源码简单，你怎么看？
+ ## [《人工智能》 第八章](https://blog.csdn.net/yinxian9019/article/details/89930393)
+ > 《人工智能》 第八章
+ ## [Day3 CSS 引入及基本选择器](https://blog.csdn.net/weixin_43560839/article/details/89858706)
+ > Day3 CSS 引入及基本选择器
+ ## [人工智能解决方案 --- 智能运维](https://blog.csdn.net/micklongen/article/details/90311395)
+ > 人工智能解决方案 --- 智能运维
+ ## [Java基础——面向对象基础（一）](https://blog.csdn.net/wszhbl/article/details/90081202)
+ > Java基础——面向对象基础（一）
+ ## [高阶人工智能时代的畅想](https://blog.csdn.net/fxj2019/article/details/90080702)
+ > 高阶人工智能时代的畅想
+ ## [人工智能与大数据的应用和指引方向](https://blog.csdn.net/qq_38459998/article/details/90403381)
+ > 人工智能与大数据的应用和指引方向
+ ## [HashMap的带函数参数方法](https://blog.csdn.net/tangzekk/article/details/89739255)
+ > HashMap的带函数参数方法
+ ## [C. 人工智能 --- 监督算法](https://blog.csdn.net/micklongen/article/details/89796699)
+ > C. 人工智能 --- 监督算法
+ ## [web测试基础-HTML基础标签](https://blog.csdn.net/IT_studied/article/details/90412981)
+ > web测试基础-HTML基础标签
+ ## [C. 人工智能 --- 聚类算法](https://blog.csdn.net/micklongen/article/details/89799600)
+ > C. 人工智能 --- 聚类算法
+ ## [CODING如何使用CODING研发管理统来敏捷开发](https://blog.csdn.net/u011078141/article/details/89397121)
+ > CODING如何使用CODING研发管理统来敏捷开发
+ ## [人工智能实践:Tensorflow笔记(一)：人工智能概述](https://blog.csdn.net/hxxjxw/article/details/89648427)
+ > 人工智能实践:Tensorflow笔记(一)：人工智能概述
+ ## [Python3基础：00_基础知识](https://blog.csdn.net/qq_44713454/article/details/89681322)
+ > Python3基础：00_基础知识
+ ## [Day1 前端概述](https://blog.csdn.net/weixin_43560839/article/details/89685028)
+ > Day1 前端概述
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [权威解读 GitHub、Apache 疑云：主流开源软件究竟是否会被闭源？| CSDN 独家](https://blog.csdn.net/csdnnews/article/details/90444719)
  > 作者 | 伍杏玲责编 | 唐小引出品 | CSDN（ID：CSDNnews）近几日来，因基于美国 BIS 将华为列入管制“实体名单”，Google 将向华为停止软硬件及技术方面的合作，尽管本身已“开源”的 Android 系统部分依然可以使用，但Google 本身闭源的移动服务 (Googl...
+ ## [开源应自由！Apache、OpenStack 基金会权威回应美国出口管制](https://blog.csdn.net/csdnnews/article/details/90482173)
+ > 作者 | 郭芮出品 | CSDN（ID：CSDNnews）受到美国 BIS 将华为列入管制“实体名单”事件的波及，业界关于开源及Apache 基金会的质疑声也越来越大：已“开源”的技术是否依然可以安心使用？强制“闭源”的背后又是否会让中国企业陷入覆灭的境地？——对此，Apache 基金会最新...
+ ## [别怀疑，孩子在家里也能学编程！](https://blog.csdn.net/csdnnews/article/details/90480573)
+ > 作者 | 伍杏玲出品 | 极客宝宝（ID：geek_baby）在今年三月，教育部公布的《2019年教育信息化和网络安全工作要点》中指出，推广编程教育，推动中小学阶段设置人工智能相关的课程，推动大数据、虚拟现实、人工智能等新技术在教育教学中的深入应用。今年要对2万名中小学生信息素养评测，推动在...
+ ## [任正非 150 分钟采访完整实录](https://blog.csdn.net/csdnnews/article/details/90479290)
+ > 1、中央电视台：首先，我是一个做直播的记者，您是军人出身，严把时间关，我也是严把时间关。时间过得真快，四个月前同样是这个地方，我们做过一次访问，那时我采访您的时候，大家普遍认为华为已经进入了一个低点，大家异常关注，才有了您面对一系列国内外记者的采访。没想到四个月之后，华为今天面对的局势比四个月前更.
  ## [从科技到“科技亲”，2019 IBM 中国论坛干货分享](https://blog.csdn.net/csdnnews/article/details/90447900)
  > 未来虽充满未知，但善用科技，下一站未来并不遥远。
  ## [蘑菇车联召开战略发布会 为用户提供无缝衔接的“人车生活”](https://blog.csdn.net/csdnnews/article/details/90447558)
@@ -222,6 +234,22 @@ ARM&#23459;&#24067;&#19982;&#21326;&#20026;&#26242;&#20572;&#21512;&#20316;<br/>
  > 作者 |李小明责编 | 屠敏认识 ElectronElectron是由GitHub开发，用HTML、CSS 和 JavaScript来构建跨平台桌面应用程序的一个开源库。Electron通过将Chromium和Node.js合并到同一个运行时环境中，并将其打包为Mac、Wi...
  ## [PWA 即将终结应用程序商店！](https://blog.csdn.net/csdnnews/article/details/90440686)
  > 渐进式Web应用很快就会将用户从Google Play和iOS应用商店中解放出来。作者 |Owen Williams译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）苹果和Google将产品统统锁在了他们的应用商店，现在就让我们来摧毁这些围墙花园吧。如今...
+ ## [TCL 集团副董事长贺锦雷辞职，未持有公司股份](http://www.lanjingtmt.com/news/detail/42725.shtml)
+ > TCL集团发布公告称，公司董事会于2019年5月21日收到贺锦雷先生的书面辞职报告：因个人工作变动原因，贺锦雷先生申请辞去公司第六届董事会董事、副董事长及在公司的相关职务。
+ ## [骚扰电话管控不力，工信部约谈中电信](http://www.lanjingtmt.com/news/detail/42724.shtml)
+ > 工信部网站显示，昨日，工信部就骚扰电话管控不力问题约谈了中国电信集团公司和广东、江苏、浙江、四川等问题突出的四省电信公司。
+ ## [快手孵化“快看点”资讯类产品，商业模式复制趣头条](http://www.lanjingtmt.com/news/detail/42723.shtml)
+ > 此前，快手已经孵化过数十款新产品——聚焦游戏领域的快手电丸、快手直播、电喵直播；尝试新的短视频或图文内容形态的快手概念版、宇宙视频、Uget、豆田、蹦迪等；工具属性的快影、光音Mu
+ ## [中国移动云计算与大数据和创空间启动，将为创业团队提供孵化](http://www.lanjingtmt.com/news/detail/42721.shtml)
+ > 今日，中国移动举行了云计算与大数据和创空间启动仪式、导师授牌及项目入驻仪式，未来将从物理空间、技术平台、创孵服务、专家指导、活动培训、市场促进等6个方面提供孵化功能。
+ ## [格力董明珠：绝不接受“野蛮人”参与股权转让](http://www.lanjingtmt.com/news/detail/42720.shtml)
+ > 有消息称，多名接近格力电器的知情人士透露，格力电器董事长兼总裁董明珠在意向投资者见面会上明确表态，她绝不接受“野蛮人”参与此次交易。
+ ## [科大讯飞回应：所有核心技术都是自主研发，拥有知识产权](http://www.lanjingtmt.com/news/detail/42719.shtml)
+ > 彭博社援引一位人士的说法称，正在考虑的另外两家公司是美亚柏科和科大讯飞，但还有其他公司可能会与上述五家公司一起被列入“实体名单”。
+ ## [联想2018年净利润40亿同比扭亏，年比年提升52.7亿](http://www.lanjingtmt.com/news/detail/42717.shtml)
+ > 联想集团今日公布了截至2019年3月31日的第四财季业绩和全年业绩。其中第四季度营业额为790亿人民币，同比增长10.1%，净利润7.97亿人民币，年比年增长261%。
+ ## [QQ回归社交探索新机会，小程序将成为基础设施](http://www.lanjingtmt.com/news/detail/42716.shtml)
+ > 对于未来QQ的新品规划，张浩称，除了重新梳理和打磨QQ本身核心的通讯能力外，探索新的社交机会也将是团队聚焦的重点。
  ## [松下“严重声明”：正常供货，华为一直是重要合作伙伴](http://www.lanjingtmt.com/news/detail/42715.shtml)
  > 此前，华为创始人、CEO任正非在接受媒体采访时表示，“我们不会轻易狭隘地排除美国芯片，尽管我们自己的芯片成本低，但我们还是要购买美国的芯片，不能孤立于世界，而是要同步成长。”
  ## [快手张帆：更重视长尾视频分发，头部视频播放量仅占30%](http://www.lanjingtmt.com/news/detail/42714.shtml)
@@ -245,57 +273,67 @@ ARM&#23459;&#24067;&#19982;&#21326;&#20026;&#26242;&#20572;&#21512;&#20316;<br/>
  ## [高层变动业绩亏损，康佳欲借AI转型难回彩电第一梯队](http://www.lanjingtmt.com/news/detail/42705.shtml)
  > 业内人士表示：“康佳想重回中国彩电三甲，难度非常大，毕竟TCL、创维、海信，哪一个都不容小觑，再加上小米，可谓四雄并举，康佳想取代哪一家都有很大难度。”
 # 人工智能 
- ## [【数据库系统原理】第四章 SQL语言之数据查询与操作](https://blog.csdn.net/qq_39582960/article/details/89788103)
- > 【数据库系统原理】第四章 SQL语言之数据查询与操作
- ## [区块链系列教程——创建属于自己的区块链](https://blog.csdn.net/m0_37595562/article/details/89763685)
- > 区块链系列教程——创建属于自己的区块链
- ## [区块链与数字货币](https://blog.csdn.net/xiaohuanglv/article/details/89035188)
- > 区块链与数字货币
- ## [fidder4使用教程](https://blog.csdn.net/qq_36968596/article/details/89466785)
- > fidder4使用教程
- ## [区块链之我见](https://blog.csdn.net/u013755520/article/details/90373262)
- > 区块链之我见
- ## [IOT物联网安全概述](https://blog.csdn.net/xu_xy1/article/details/89704452)
- > IOT物联网安全概述
- ## [【数据库系统原理】第六章 SQL语言之数据完整性、安全性、事务](https://blog.csdn.net/qq_39582960/article/details/88086525)
- > 【数据库系统原理】第六章 SQL语言之数据完整性、安全性、事务
- ## [【区块链2.0实战学习笔记】————1、区块链基础](https://blog.csdn.net/Fly_hps/article/details/89919267)
- > 【区块链2.0实战学习笔记】————1、区块链基础
- ## [Python3基础：00_基础知识](https://blog.csdn.net/qq_44713454/article/details/89681322)
- > Python3基础：00_基础知识
- ## [【数据库系统原理】第三章 SQL语言之表定义](https://blog.csdn.net/qq_39582960/article/details/89788047)
- > 【数据库系统原理】第三章 SQL语言之表定义
- ## [25 struct定制报头以及ftp实践](https://blog.csdn.net/weixin_43265998/article/details/89761162)
- > 25 struct定制报头以及ftp实践
- ## [区块链应用开发](https://blog.csdn.net/shangsongwww/article/details/90298614)
- > 区块链应用开发
- ## [shell脚本的基础](https://blog.csdn.net/weixin_41843699/article/details/89736572)
- > shell脚本的基础
- ## [区块链参考资源](https://blog.csdn.net/shangsongwww/article/details/90298740)
- > 区块链参考资源
- ## [物联网改变未业业务方式，主要有哪几种方法](https://blog.csdn.net/duozhishidai/article/details/89811923)
- > 物联网改变未业业务方式，主要有哪几种方法
+ ## [Zabbix运维监控工具](https://blog.csdn.net/Micky_Yang/article/details/90143186)
+ > Zabbix运维监控工具
+ ## [手机语音转文字功能怎么样？掌握后效率翻几倍](https://blog.csdn.net/wdy19980121/article/details/89680767)
+ > 手机语音转文字功能怎么样？掌握后效率翻几倍
+ ## [区块链产品经理](https://blog.csdn.net/weixin_40057354/article/details/89706568)
+ > 区块链产品经理
+ ## [长时间看文件，眼睛难免会有所不适，这个方法帮助你缓解眼睛的疲劳！](https://blog.csdn.net/wdy19980121/article/details/89467269)
+ > 长时间看文件，眼睛难免会有所不适，这个方法帮助你缓解眼睛的疲劳！
+ ## [在萧山公安的5年运维](https://blog.csdn.net/sxper/article/details/89736662)
+ > 在萧山公安的5年运维
+ ## [MySql安装运维](https://blog.csdn.net/zzhuan_1/article/details/90404378)
+ > MySql安装运维
+ ## [linux企业运维面试题](https://blog.csdn.net/a838921430/article/details/89704424)
+ > linux企业运维面试题
+ ## [Linux下的DNS服务](https://blog.csdn.net/qq_36016375/article/details/89510576)
+ > Linux下的DNS服务
+ ## [区块链-对区块链认识的误区](https://blog.csdn.net/qq_40452317/article/details/89850431)
+ > 区块链-对区块链认识的误区
+ ## [区块链-区块链特点](https://blog.csdn.net/qq_40452317/article/details/89850607)
+ > 区块链-区块链特点
+ ## [一点资讯js解密](https://blog.csdn.net/weixin_41074255/article/details/90089160)
+ > 一点资讯js解密
+ ## [Linux下web服务器Apache的常规部署](https://blog.csdn.net/qq_36016375/article/details/89554812)
+ > Linux下web服务器Apache的常规部署
+ ## [区块链：术语](https://blog.csdn.net/shangsongwww/article/details/89945766)
+ > 区块链：术语
+ ## [文字转语音怎么做？这种方法，只需几秒就能学会文字转语音](https://blog.csdn.net/wdy19980121/article/details/89680779)
+ > 文字转语音怎么做？这种方法，只需几秒就能学会文字转语音
+ ## [Linux下https加密认证之系统生成证书&自己生成证书及网页重写实现自动加密](https://blog.csdn.net/qq_36016375/article/details/89632520)
+ > Linux下https加密认证之系统生成证书&amp;自己生成证书及网页重写实现自动加密
 # PM 
+ ## [产业互联网创业的三境界：立、守、得](http://www.woshipm.com/chuangye/2378213.html)
+ > 2018年，互联网巨头纷纷加码产业互联网，布局移动互联网下半场，使产业互联网再次成为创业投资的焦点。这里我们借用王国维先生“立、守、得”的“人生三境界”，尝试概括我...
+ ## [做产品这些年，我的心得体会](http://www.woshipm.com/pmd/2378133.html)
+ > 本文笔者结合自己多年的产品经理一职的经验，分享了自己对这一职位的理解，以及在这个职位上获得的一些心得体会。之前一直在一家公司范围内工作，所以一直觉得产品经...
+ ## [新手引导设计研究与反思](http://www.woshipm.com/pd/2377644.html)
+ > 好的新手引导设计可以有效地降低用户的使用门槛，并提升用户体验。笔者通过分析现有新手引导研究以及展开新手引导设计的反思，提炼了非常实用的价值点。一、现有新手...
+ ## [陌生人社交，没有终局](http://www.woshipm.com/it/2378091.html)
+ > 随着技术的进化（比如AI），仍然会不断出现更有效的匹配方式，和更好玩的社区模式。再加上社交产品的自然老化，和相对碎片化，这一切造成了，陌生人社交没有终局。社...
+ ## [基于显著性的图像分割](http://www.woshipm.com/ai/2378097.html)
+ > 本篇文章介绍了显著性图像的分割，这个方法最初来源于对于发掘一个自动生成图像三分图方法的兴趣，这个抠图算法用于关注前景和背景细节的图像分割。通常我们看到一幅...
+ ## [餐饮行业发展趋势：数字化](http://www.woshipm.com/it/2376214.html)
+ > 笔者结合工作中积累的餐饮行业的数据分析结果，告诉我们餐厅实现数字化的重要性以及如何做到精细化运营。这篇文章主要跟大家分享一下，我在过去几年工作中积累的关于...
+ ## [宠物经济：一门千亿级的孤独生意](http://www.woshipm.com/it/2378006.html)
+ > 本文通过梳理国内宠物市场的现状，来探讨关于火热的“宠物经济”正呈现出5个新特点，希望能给大家一些思考和启发~“撸猫”、“吸狗”在近两年成为一种风潮，养宠群体加速扩...
+ ## [交互设计师的知识管理：知识体系篇](http://www.woshipm.com/zhichang/2376760.html)
+ > 设计师是既然知识工作者，那么身为设计师的个人应当如何鉴别知识、并对知识有效地进行管理呢？有人说设计师是创意工作者，然而我觉得设计师是知识工作者，设计师的创...
+ ## [如何在产品迭代中寻求美学，体验创新？](http://www.woshipm.com/pd/2377469.html)
+ > 如何在产品迭代中寻求突破？是该保持稳扎稳打，还是挑战风险？变与不变如何取舍？怎样才能扫除阻碍创新的三毒？产品从无到有难，从初级阶段到中级阶段更难，那么从中...
+ ## [初创公司20问：问初心、问实力，也问未来](http://www.woshipm.com/chuangye/2377801.html)
+ > 创业永远是一件在投资未来的事，哪怕当下很难，也总是需要心怀相信。对，创业是一件九死一生的事，这点我们一直很赞同：一家伟大企业的诞生，方向、能力、运气……所有...
  ## [产品观察：电商平台搞社交圈成趋势？拼多多已落伍](http://www.woshipm.com/it/2377192.html)
  > 社交电商，基于人与人之间社交关系链的货品买卖活动，留心观察不难发现，抖音、快手、小红书这类内容社交平台正在尝试“电商化”，而淘宝、京东这类电声平台也在不断尝试“...
  ## [拼团玩法分析：社交电商爆红背后的获客思路](http://www.woshipm.com/operate/2376968.html)
  > 拼团这个玩法为什么有这么大的魔力，可以吸引这么多企业投入巨大的人力物力发展？社交拼团模式真的这么神奇吗？近期关注电商行业的朋友们一定经常看到这种新闻：苏...
- ## [同是初创产品，为什么网贷产品很少创业失败？](http://www.woshipm.com/it/2375970.html)
- > 仅从产品的角度来说，P2P是一件好产品，甚至是优秀的产品，它商业模式清晰、用户LTV高、使用频次适中、使用场景延展性高。这次我们从学习的角度，还原P2P关于产品设计六...
- ## [AI芯片简识](http://www.woshipm.com/ai/2269890.html)
- > 本篇重点讲述何为AI芯片，AI芯片的分类，不同AI芯片的对比，AI芯片的主流技术路线，AI芯片产业概况，国外国内AI芯片和企业发展情况，最后小结AI芯片发展的预期。世间...
- ## [产品经理进阶必备软技能（1）：时间管理](http://www.woshipm.com/pmd/2370742.html)
- > 产品经理技能树告诉我们一个合格PM所具备的硬技能和软技能。硬技能中重要的为用户调研、需求分析与管理、数据分析；软技能中重要的为沟通能力、逻辑能力和时间管理能力...
- ## [每个人都应该思考的一个问题：你是产品投机者吗？](http://www.woshipm.com/chuangye/2376558.html)
- > 阅读前先思考这样几个问题：自己是不是产品投机者？产品能不能投机？不投机能做成产品吗？以投机心态做产品的人最后都怎么样了？面对浩瀚无垠的产品世界，每家企业都...
- ## [利诱分享被封，微信生态裂变出路在哪？](http://www.woshipm.com/operate/2373780.html)
- > 人之所以会恐惧和焦虑，是因为你还不够了解你自己。你只有足够了解自己，才能控制自己的欲望，克制自己，不要什么都想要，把握单一路径，引导你的用户。简单介绍下零...
- ## [从BAT到TMD的演化，看大健康生态的时代逻辑](http://www.woshipm.com/it/2375385.html)
- > 每个阶段的生态都有时代的逻辑，我们这一代人，的确要有一些不一样的想法去做大健康生态！这是解构大健康生态第三篇文章：大健康生态的时代逻辑。大健康生态总共规划...
- ## [从按部就班的银行到强节奏的阿里，我的成长是惊人的！](http://www.woshipm.com/zhichang/2374262.html)
- > 本文笔者讲述了自己放弃了自己工作七年的很稳定的银行工作，转型到阿里当产品经理的经历。这个过程中，由于互联网公司的强节奏、家庭的兼顾压力、新工作新环境的适应压...
- ## [社交没有终局](http://www.woshipm.com/it/2375382.html)
- > 微信的成功，形成了一股盲流，张小龙式社交几乎成了创业者不约而同的思路。一款又一款的社交产品尸骨无存，但还是依旧有无数野心勃勃的创业者前仆后继。这一切的声音，...
+ ## [知道再多的引流渠道不如懂得这3个引流原理！](http://www.chanpin100.com/article/106547)
+ > 知道再多的引流渠道不如懂得这3个引流原理！
+ ## [职场上,要学会这样和领导提的需求说不!](http://www.chanpin100.com/article/106551)
+ > 由于这些人和领导走的比较近，所以他们给的建议就会更加的具有参考价值。当然了，遇上机会好的时候，这些和领导关系比较好的人将你的苦衷告诉你的领导后，说不定你的领导在私下就把这种事情给处理好了。
+ ## [智能化运营让每一次消息推送更有价值](http://www.chanpin100.com/article/108503)
+ > 如何避免APP一推送用户就卸载？怎样获取更多“粘性用户”，延缓与用户分离的时间？
  ## [全是宝！20款优质高效的在线协作工具任你挑，就是这么强大！](http://www.chanpin100.com/article/108510)
  > 小编将从下面5个工具类别分别为大家推荐20款优质高效的在线协作工具，希望以下介绍的工具能够对你有所帮助。
  ## [微信月活艰难再涨1亿，为何没能提振腾讯股价？](http://www.chanpin100.com/article/108516)
@@ -304,15 +342,7 @@ ARM&#23459;&#24067;&#19982;&#21326;&#20026;&#26242;&#20572;&#21512;&#20316;<br/>
  > 接上篇，继续说这次的直播内容，因信息量较大，需要消化理解，有种短时间被优质信息轰炸的感觉。每个人所处的环境导致吸收信息程度有所不同，以下是内容搬运+个人理解。
  ## [原来在App开发上每年可以省去那么多钱！](http://www.chanpin100.com/article/108509)
  > 随着沟通方式的增多，安全性要求的提高，对于短信验证码平台的到达率、下发速度、通道稳定性等的要求也越来越高。
- ## [极光大数据：4600万家长通过电话手表守护萌宝](http://www.chanpin100.com/article/108505)
- > 孩童手腕上的硬件风口
- ## [资本寒冬下，产品人该如何思考？](http://www.chanpin100.com/article/108488)
- > 当一个产品人能够像生意人一样去思考的时候，才是这个产品人真正蜕变的时候。
- ## [一文带你入门权限管理系统设计](http://www.chanpin100.com/article/108487)
- > 一篇带你入门权限管理系统设计的文章。
- ## [企业如何进行有效的项目管理](http://www.chanpin100.com/article/108479)
- > 在当今竞争激烈的环境里，企业想要获得成功，最重要的一点是要开展尽可能有效的项目管理。公司经常会面临一些关乎到项目成败的严峻挑战。
- ## [防晒霜或含有害成分？网友：涂、还是不涂，这是个问题](http://www.chanpin100.com/article/108467)
- > 没有一丝丝防备，天气就热起来了，爱美的小哥哥小姐姐刚把防晒纳入日常个人护理流程，突然被防晒霜或含有害成分刷屏了!这一研究称：防晒霜或含有害成分，可能导致内分泌问题和过敏。因此，炎炎夏日近在眼前，涂、还是不涂，成了令广大网友纠结的问题。
+ ## [MobTech助力PMTalk北京产品经理大会，改变世界从点滴开始](http://www.chanpin100.com/article/108508)
+ > 产品经理0到1都经历了些什么？寒冬时期该怎么办？
 
     
