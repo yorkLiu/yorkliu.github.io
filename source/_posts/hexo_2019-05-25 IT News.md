@@ -1,61 +1,61 @@
 ---
 title: 2019-05-25 IT News
 copyright: true
-date: 2019-05-25 09:01:03
+date: 2019-05-25 10:01:35
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [视频会议传输延时应该如何“低”?](http://mp.weixin.qq.com/s?src=11&timestamp=1558746004&ver=1627&signature=xJWa-p10BqaJlMdIJ3HDhLLb7Yx6HW-98XO-Io3vpjKgS5YfdbXtofPRxH177UMkFIwtWL1zmZ9z1z6vBlY1H9b-zGg3nkylTNjGpcMxKq9P9QswK0iPfgmoR786phRc&new=1)
+ ## [视频会议传输延时应该如何“低”?](http://mp.weixin.qq.com/s?src=11&timestamp=1558749604&ver=1627&signature=xJWa-p10BqaJlMdIJ3HDhLLb7Yx6HW-98XO-Io3vpjKgS5YfdbXtofPRxH177UMk*T*WMiITWLgwNPynZ4fNtKNUsaydwoxoz7ih4xc*ijNbaJ2EcMHuWEmNFNZ8D0E0&new=1)
  > 万物互联的时代，音视频实时通讯的应用场景已随处可见，从“吃鸡”的语音对讲、直播连麦，到企业日常远程视频会议、与合作伙伴的远程会商，再到医院的远程会诊、智能银行VTM的远程视频开户等。对于解决方案服务...
- ## [中国操作系统往事](http://mp.weixin.qq.com/s?src=11&timestamp=1558746004&ver=1627&signature=UaNH5Cj8iILJVzyDMuguiTvBqR77-OwwitjbXM2AJ1*6eQenNRMQGnjJvmqxlXXKXeLx41uhTCsWn8R-zrwV2NvEYe3qOzyi8x4UZgSKJqB-gGwkAG*-nYve7GNq6vNS&new=1)
- > 21CTO导读：20年沉浮过后，操作系统走到新的十字路口，中国国产操作系统会迎来突围机会吗？“如果他们突然断了我们的粮食，Android 系统不给我用了，Windows Phone 8系统也不给我用了，我们是不是就傻了？”2012...
- ## [一文读懂产业互联网的前世今生!](http://mp.weixin.qq.com/s?src=11&timestamp=1558746004&ver=1627&signature=vuFKWFv2SOzxWeqpahaNbIyivONN96AncLy-rSkRv2s-bejVtzGT8uEY9T4hoEWNZIy1PSSA9y4H-cgEg1vlnV0kixRtcJq1pdSt5jA1IvgVse2hr4EQi1hj0La-3vB4&new=1)
+ ## [一文读懂产业互联网的前世今生!](http://mp.weixin.qq.com/s?src=11&timestamp=1558749604&ver=1627&signature=vuFKWFv2SOzxWeqpahaNbIyivONN96AncLy-rSkRv2s-bejVtzGT8uEY9T4hoEWNsWMxKzdUziMqVFLBZoeS8kdVj3-MCnRUtGL4PEIp9nKCQiZY6OLQpw5IDXjris1f&new=1)
  > 来源：全球物联网观察摘要：随着云计算等企业级技术应用的发展普及， 产业互联网实际已经在各行各业展开实践。广度上不仅覆盖服务业、工业和农业，还从商业扩展到公益和政府，整个社会走向全面互联；深度上从营...
- ## [封杀升级!华为被JEDEC、SDA、PCI-SIG三大标准组织集体封杀。](http://mp.weixin.qq.com/s?src=11&timestamp=1558746004&ver=1627&signature=O-djpiSW5LXO2w-aN2wh8AsDAUMC5DzLj8N2GtmS-TSIkdl8IO5ElujTpElXPttwXT9lEJqdRDbIj-zLPGd*Iv*4Z2M6x0XNyG7OLeLHeALNxGm9ZZ2gSg*EPnsFLd55&new=1)
+ ## [封杀升级!华为被JEDEC、SDA、PCI-SIG三大标准组织集体封杀。](http://mp.weixin.qq.com/s?src=11&timestamp=1558749604&ver=1627&signature=O-djpiSW5LXO2w-aN2wh8AsDAUMC5DzLj8N2GtmS-TSIkdl8IO5ElujTpElXPttw6Z1GXhaPDwHRZOyainCG7nfzogDWAykOYdE7YT-1ChaG*6MDI0herme7HsjlfexA&new=1)
  > 美国对于华为的“封杀”程度可能远远超出了所有人的预期，不仅是美国企业，与美国技术关联的企业，AMD、ARM、Google、Intel、高通等等都暂停与华为合作，乃至是举足轻重的行业标准组织，也对华为下手了。根据最...
- ## [华为，挺住!谷歌安卓宣布封杀华为，这些APP以后都不能用了!史上最强“备胎”一夜转正](http://mp.weixin.qq.com/s?src=11&timestamp=1558746004&ver=1627&signature=3wAQlCHQEsc3HGnWS6-2y3Y-2z7dCzY0-ddbrH7zgal43Z1p2DCJidVDXOTcH02FsEB*jjMdYy1UG*VqNWuSEe47F6*LlZQ7OxF6fon-PR726X2BcWYA8r9pxZUYema-&new=1)
+ ## [华为，挺住!谷歌安卓宣布封杀华为，这些APP以后都不能用了!史上最强“备胎”一夜转正](http://mp.weixin.qq.com/s?src=11&timestamp=1558749604&ver=1627&signature=3wAQlCHQEsc3HGnWS6-2y3Y-2z7dCzY0-ddbrH7zgal43Z1p2DCJidVDXOTcH02FG4PBTyAdMOki9xreECZpkyfte5PjSG-4BuR3LULj5LRVkGrn12mDVBpnPqXgs8Pl&new=1)
  > 来源/悉尼印象ID: xiniyx今天，此时此刻，无疑是颠覆时代的一天。路透社19日，爆出了全世界轰动的一则新闻：谷歌迫于美国政府压力，已暂停与华为的商业往来。路透社报道截图而刚刚在印象君写文两个小时之前，得...
+ ## [中国操作系统往事](http://mp.weixin.qq.com/s?src=11&timestamp=1558749604&ver=1627&signature=UaNH5Cj8iILJVzyDMuguiTvBqR77-OwwitjbXM2AJ1*6eQenNRMQGnjJvmqxlXXK3OwKZp8Pmpzru0TW2mXwPywdDj8T4teBx724pG-0uIEegh--F2vPHp6q2LszyBn6&new=1)
+ > 21CTO导读：20年沉浮过后，操作系统走到新的十字路口，中国国产操作系统会迎来突围机会吗？“如果他们突然断了我们的粮食，Android 系统不给我用了，Windows Phone 8系统也不给我用了，我们是不是就傻了？”2012...
  ## [网络诈骗被骗走的钱真的没办法回来了吗？](https://www.zhihu.com/question/28040813)
  > 大学生，昨天被骗9000，已经报警，一晚上没合眼，感觉特别对不起爸妈。说下事情经过，开始是中午在食堂吃饭，骗子电话进来说是网贷平台的，说我注册过他们的账号，我说我没注册过他说那就是信息泄露被别人注册了，他...
+ ## [如何评价小红书？](https://www.zhihu.com/question/305033283)
+ > 小红书简直魔幻极了。有人大三做编剧一部网剧赚10万，编剧们看了大概要哭了。这还不是她人生的巅峰，她随后又去金融公司做了总经理助理，月入2万，看到这里学金融的朋友也开始哭了。有人洗个澡就变白，敷个面膜就变白...
+ ## [有哪些网上自学课程的好网站？](https://www.zhihu.com/question/31044894)
+ > 互联网的发展使我们有很多学习的机会，比如网上自学课程就是一个例子而这类的网站也很多。作为一个学习党来说，以下这个网站强烈推荐（建议收藏）上面是它的网站首页可以看见有很多类型，这些类型下面又有很多学习网...
+ ## [小米网络电视怎么看中央电视台直播？](https://www.zhihu.com/question/313454880)
+ > 智能电视如何看电视台直播节目，之前已经出现了多个类似回答，我也已经详细写过，直接贴链接https://www.zhihu.com/question/267184535/answer/589820294
  ## [你为什么从阿里巴巴集团离职？](https://www.zhihu.com/question/22032540)
  > 18年元旦入职蚂蚁，到现在正好一年半，用马爸爸的话说，在阿里工作三年以下，我都不认为他是阿里人，所以也不敢妄称自己是一个合格的阿里人。离职的这个决定下的很艰难，确实在阿里工作，你能想到工作带给你的，基本...
  ## [广州的黑人到底对社会造成了什么危害或者对社会造成了什么影响呢？](https://www.zhihu.com/question/31594516)
  > （有查阅、搬运相关资料。侵删！侵删！侵删！）以下为原答案这个问题不是2006年就有了吗？艾滋率增长、社会治安问题加重、广州那边学校里越来越多的黑杂……我国以前有过遣返黑人的事例（还是安排的飞机遣返，真是不...
- ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
- > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
+ ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
+ > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
+ ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
+ > 我前女友她爸是公安的刑侦的参与过和禁毒有关的很多工作 职权不低和她在一起的一段时间，我和前女友一起外地出去玩了几个城市她给我说 不用骗我们互相的父母说住两个房间了 因为她爸直接知道我们住的民宿外加提前给每...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
+ ## [章泽天喜欢/欣赏刘强东的什么？](https://www.zhihu.com/question/38780814)
+ > 史记 刘强东章泽天列传刘强东，彭城下相人也。少时家贫，祖无显业，二老以渡泊为生，乃迁子于祖母所，以故强东曰:“吾幼惟祖母是依，向自独立，用事由己，无顾他人言语。”强东为人，和颜而悦色，无须发之白，鲜衰老...
  ## [如何评价《宰执天下》?](https://www.zhihu.com/question/33823835)
  > 最近看《宰执天下》，想写一写和多年前看的《新宋》的比较。首先二者是有一些共同点的：都是穿越文，都是从宋神宗熙宁朝开始。大背景都是王安石变法主角最后都大权在握。虽然，《新》还是很强的儒家背景，作者虽然是...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
- ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
- > 因为老王需要小王去立这种“平易近人富二代”“娱乐圈纪检委”的人设。刘强东需要奶茶妹也是一样的道理。其他几家似乎没有这个必要。
  ## [王者荣耀有什么鲜为人知的操作技巧？](https://www.zhihu.com/question/54500976)
  > 我是个菜鸡 我随便答一下我的理解1.多看小地图 如果你是一分钟看一次请改为半分钟看一次 半分钟看一次请改成15秒看一次 15秒看一次请改成6秒一次.. 改过来的话你会发现这是个新的游戏2.很多英雄可以1闪2闪3闪 比如我...
  ## [如何评价何恺明的论文《探索弱监督预训练的极限》？](https://www.zhihu.com/question/275845020)
  > 简单来说，Instagram上有大量的图片都有tag，这篇论文把tag当做label, 把一个 ResNeXt 模型先在海量的Instagram图片上pretrain，然后删掉最后一个FC层，换成ImageNet的1000个类的FC层，然后再重新训练。论...
  ## [互联网上，能赚钱吗?](https://www.zhihu.com/question/324568801)
  > 首先，要把卖货赚钱转变到卖思维和模式上面来，靠产品盈利的时代已经过去传统实体店要想实现裂变引流，必须借助互联网这个大平台。传统的经营方式已经不能适应今天的消费方式。所以传统实体店面临转型，连接线上线下...
- ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
- > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
  ## [好吃的紫米面包有哪些？](https://www.zhihu.com/question/51152806)
  > 紫米面包，我们这里有配方「Story of bread一般认为，秋天的颜色，是秋叶的红艳金黄。红与黄，是植物攒了一年的储蓄，在秋日最华丽地爆发。文艺点的，说秋天是五颜六色，上帝或者玉帝打翻了染色盘，在人世间绘画出层...
  ## [天猫超市如何维权？](https://www.zhihu.com/question/46656769)
  > 第一次发现天猫这么恶心。前几天在天猫上买了两瓶红酒，页面上有打折的信息，可是付款的时候没有减，于是就问客服能不能退差价，客服说可以。第二天申请退，退款给我直接拒绝了。后来三四天一直在和客服沟通各种敷衍...
- ## [小红书推广有做过人吗，分享一下经验？](https://www.zhihu.com/question/281464860)
- > 分享一下去年四月份时负责运营推广的一款脱毛仪产品！有时想法这东西一旦打破规则，会带来的收益也是不得了的！这人是我客户的客户，为啥是客户的客户呢？大概就是厂家、一级经销商、二级经销商的关系了！ 后来我的那...
- ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
- > 这个系统是全国的，可以轻松跨省。大学那会谈的女朋友，老爹公安局的副局长，年轻时候是缉毒警察，出生入死立了大功。有一次去她家玩，家里就住在公安局里面的家属楼。无聊去局里参观，她说给我看个好玩的，把我身份...
- ## [有什么推荐的专业性强一点的历史学习方法吗？大家？书籍？各种网站？](https://www.zhihu.com/question/325834776)
- > 念大学。
- ## [如何通过面试判断产品经理 PM 的实力？](https://www.zhihu.com/question/24443456)
- > 我：您在面试的产品经理的时候，最看中什么？产品大佬：聪明上周跟一个我非常认可的产品大佬请教，她做产品经理有十年多了，从最早的产品策划到后来独立带上百人线上产品技术运营团队，再到自己做CEO创业拿到经纬...
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
- ## [如何理解马化腾说「黑公关近两个月突然爆发，是时候挖根源了」？](https://www.zhihu.com/question/281753006)
- > 让咱们先来了解一下马化腾所说的“黑公关”：“黑公关”实际上是网络营销公关公司的一种，这种公司，本着“拿人钱财替人消灾”的理念，在网站和当事企业、个人之间充当着“掮客”角色。而隐藏在其后的，则是一条由推...
+ ## [你知道的网络骗局有哪些？](https://www.zhihu.com/question/319389079)
+ > 马克思说：如果有10％的利润，资本就保证到处被使用；有20％的利润，资本就活跃起来；有50％的利润，资本就铤而走险；为了100％的利润，资本就敢践踏一切人间法律；有300％的利润，资本就敢犯任何罪行，甚至去冒绞首...
+ ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
+ > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
 # IT 技术 
  ## [意外！谷歌通过图灵测试的AI实测：4次成功完成任务，3次靠的是人工](http://news.51cto.com/art/201905/596960.htm)
  > 意外！谷歌通过图灵测试的AI实测：4次成功完成任务，3次靠的是人工
@@ -73,70 +73,44 @@ categories: IT NEWS
  > 100个颇具价值的GitHub代码存储库
  ## [懵逼了！一个历时五天的Bug......](http://news.51cto.com/art/201905/596861.htm)
  > 懵逼了！一个历时五天的Bug......
- ## [25 struct定制报头以及ftp实践](https://blog.csdn.net/weixin_43265998/article/details/89761162)
- > 25 struct定制报头以及ftp实践
- ## [人工智能实践:Tensorflow笔记(一)：人工智能概述](https://blog.csdn.net/hxxjxw/article/details/89648427)
- > 人工智能实践:Tensorflow笔记(一)：人工智能概述
- ## [威盛人工智能研究院，聚焦人工智能人才培养新时代](https://blog.csdn.net/fadsf15/article/details/90481528)
- > 威盛人工智能研究院，聚焦人工智能人才培养新时代
- ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
- > 人工智能教程 - 目录
- ## [HashMap的带函数参数方法](https://blog.csdn.net/tangzekk/article/details/89739255)
- > HashMap的带函数参数方法
- ## [人工智能 - NBA球星产生式系统](https://blog.csdn.net/weixin_42776111/article/details/89850323)
- > 人工智能 - NBA球星产生式系统
- ## [人工智能改变教学方式](https://blog.csdn.net/zxj81311/article/details/90315327)
- > 人工智能改变教学方式
- ## [人工智能---BP神经网络（数字识别）](https://blog.csdn.net/qq_36347365/article/details/87010365)
- > 人工智能---BP神经网络（数字识别）
- ## [浅谈人工智能与游戏思维](https://blog.csdn.net/VucNdnrzk8iwX/article/details/90390813)
- > 浅谈人工智能与游戏思维
- ## [C. 人工智能 --- 聚类算法](https://blog.csdn.net/micklongen/article/details/89799600)
- > C. 人工智能 --- 聚类算法
- ## [【数据库系统原理】第六章 SQL语言之数据完整性、安全性、事务](https://blog.csdn.net/qq_39582960/article/details/88086525)
- > 【数据库系统原理】第六章 SQL语言之数据完整性、安全性、事务
- ## [大数据如何帮助人工智能？](https://blog.csdn.net/yoggieCDA/article/details/89924736)
- > 大数据如何帮助人工智能？
- ## [人工智能 机器学习 数据挖掘的区别](https://blog.csdn.net/qq_44992163/article/details/89888598)
- > 人工智能 机器学习 数据挖掘的区别
- ## [【数据库系统原理】第五章 SQL语言之视图与索引](https://blog.csdn.net/qq_39582960/article/details/89788126)
- > 【数据库系统原理】第五章 SQL语言之视图与索引
- ## [高级图像处理基础实验与图像处理基础理论知识](https://blog.csdn.net/zgcr654321/article/details/89790535)
- > 高级图像处理基础实验与图像处理基础理论知识
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [联想CFO黄伟明道歉：表述不准确造成媒体和公众误读](http://www.lanjingtmt.com/news/detail/42750.shtml)
+ > 近日，黄伟明表示，联想已经做好了充分准备，绝对有能力将一些生产从受影响的国家转移到不受关税影响的国家，联想在世界各地都设有制造基地。
 # 人工智能 
- ## [游戏开发选Cocos2d-x还是Unity3D？](https://blog.csdn.net/qq_38456196/article/details/90409081)
- > 游戏开发选Cocos2d-x还是Unity3D？
- ## [运维之路（2）](https://blog.csdn.net/weixin_43546282/article/details/90301690)
- > 运维之路（2）
- ## [【Android游戏开发】登录以及支付SDK总结](https://blog.csdn.net/qq_30054199/article/details/90401081)
- > 【Android游戏开发】登录以及支付SDK总结
- ## [python游戏开发：pygame中的IO、数据](https://blog.csdn.net/qq_40925239/article/details/90381683)
- > python游戏开发：pygame中的IO、数据
- ## [Linux下数据库的管理及基本操作](https://blog.csdn.net/qq_36016375/article/details/89474092)
- > Linux下数据库的管理及基本操作
- ## [Zabbix运维监控工具](https://blog.csdn.net/Micky_Yang/article/details/90143186)
- > Zabbix运维监控工具
- ## [人工智能解决方案 --- 智能运维](https://blog.csdn.net/micklongen/article/details/90311395)
- > 人工智能解决方案 --- 智能运维
- ## [游戏开发——游戏AI的简述](https://blog.csdn.net/Jekin_KE/article/details/89670410)
- > 游戏开发——游戏AI的简述
- ## [Linux下高级网络配置](https://blog.csdn.net/qq_36016375/article/details/89467007)
- > Linux下高级网络配置
- ## [游戏开发入门系列（目录）第二章第一节](https://blog.csdn.net/BoyInC0de/article/details/90083323)
- > 游戏开发入门系列（目录）第二章第一节
- ## [【本人秃顶程序员】只会增删改查，当你有一定的开发经验时，应该如何提升自己？](https://blog.csdn.net/weixin_44175121/article/details/85102639)
- > 【本人秃顶程序员】只会增删改查，当你有一定的开发经验时，应该如何提升自己？
- ## [python游戏开发：pygame事件与设备轮询](https://blog.csdn.net/qq_40925239/article/details/90382078)
- > python游戏开发：pygame事件与设备轮询
- ## [程序人生第三年](https://blog.csdn.net/dring321/article/details/90345866)
- > 程序人生第三年
- ## [2019CSF程序人生](https://blog.csdn.net/qq_43365658/article/details/90110499)
- > 2019CSF程序人生
- ## [apache的虚拟主机和apache支持的语言html、php、cgi、wsgi的简单使用](https://blog.csdn.net/qq_36016375/article/details/89861184)
- > apache的虚拟主机和apache支持的语言html、php、cgi、wsgi的简单使用
+ ## [数据库——安全性](https://blog.csdn.net/zjuwxx/article/details/90313122)
+ > 数据库——安全性
+ ## [【数据库系统原理】第六章 SQL语言之数据完整性、安全性、事务](https://blog.csdn.net/qq_39582960/article/details/88086525)
+ > 【数据库系统原理】第六章 SQL语言之数据完整性、安全性、事务
+ ## [为什么上班只是坐着，还是会觉得累](https://blog.csdn.net/Java_15707951907/article/details/89713307)
+ > 为什么上班只是坐着，还是会觉得累
+ ## [数据库系统工程师——数据库技术基础相关笔记](https://blog.csdn.net/weixin_40459548/article/details/90409825)
+ > 数据库系统工程师——数据库技术基础相关笔记
+ ## [数据库学习之 greenDAO 源码分析](https://blog.csdn.net/u011371324/article/details/89684408)
+ > 数据库学习之 greenDAO 源码分析
+ ## [数据库的三范式？](https://blog.csdn.net/weixin_42416543/article/details/89791353)
+ > 数据库的三范式？
+ ## [Java基础——面向对象基础（一）](https://blog.csdn.net/wszhbl/article/details/90081202)
+ > Java基础——面向对象基础（一）
+ ## [【数据库系统原理】第五章 SQL语言之视图与索引](https://blog.csdn.net/qq_39582960/article/details/89788126)
+ > 【数据库系统原理】第五章 SQL语言之视图与索引
+ ## [数据库 -- 事务管理](https://blog.csdn.net/qq_28376741/article/details/89477459)
+ > 数据库 -- 事务管理
+ ## [数据库|数据类型](https://blog.csdn.net/Geekst/article/details/90143810)
+ > 数据库|数据类型
+ ## [数据库——完整性](https://blog.csdn.net/zjuwxx/article/details/90340595)
+ > 数据库——完整性
+ ## [【数据库系统原理】第四章 SQL语言之数据查询与操作](https://blog.csdn.net/qq_39582960/article/details/89788103)
+ > 【数据库系统原理】第四章 SQL语言之数据查询与操作
+ ## [我爱Java系列之《JavaEE学习笔记day12》---【缓冲流、转换流、序列/反序列化流、打印流】](https://blog.csdn.net/weixin_44988127/article/details/89682383)
+ > 我爱Java系列之《JavaEE学习笔记day12》---【缓冲流、转换流、序列/反序列化流、打印流】
+ ## [数据库篇——代码操作数据库](https://blog.csdn.net/weixin_43733988/article/details/90345230)
+ > 数据库篇——代码操作数据库
+ ## [分布式事务基础](https://blog.csdn.net/zhaohong_bo/article/details/90445307)
+ > 分布式事务基础
 # PM 
+ ## [绕不过去的“用户访谈”](http://www.woshipm.com/user-research/2380929.html)
+ > 在用户研究中，我们经常提到用户访谈，用户访谈是指围绕特定目的，向受访者进行问答交谈，从而获取受访者生活、经验或情境的观点的过程，在这个过程中提问者需要通过巧...
  ## [UX设计案例研究：建立更好的用户体验（重新设计AirPeaceAirline网站）](http://www.chanpin100.com/article/108521)
  > 小编本次为大家带来一篇关于航空公司用户体验（UX）设计研究案例分析的翻译文章，作者以自己的观点提出了改善他们预订系统的方法，内容干货满满哦！
  ## [深入业务，打造行业背景下的BI系统](http://www.chanpin100.com/article/108520)
