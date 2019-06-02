@@ -1,37 +1,37 @@
 ---
 title: 2019-06-02 IT News
 copyright: true
-date: 2019-06-02 08:01:09
+date: 2019-06-02 09:02:41
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]2018中国5G应用市场数字化研究(附40页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1559433605&ver=1643&signature=kAIFYFGn*rC40dfyJu3r2xp4kO64H50i3tS1UX-jCAqasehu16QiXn8dINp5vqLWYDHmlV6GfJ36WXY6emWgsC3g7RnOzvXT-OGtCxAeMZMme2PgQEUYKPtfMN2EE4Ck&new=1)
- > 据CITA和Analysys Mason的数据显示，中国在全球主要国家的5G竞备中处于领先地位，与中国同处第一梯队位置的还有韩国、美国和日本。通过分析对第一梯队国家主要运营商公布的5G商用时间来看，2019-2020年无疑将成...
- ## [华为被封杀的第十天，让人热血沸腾的事情发生了](http://mp.weixin.qq.com/s?src=11&timestamp=1559433605&ver=1643&signature=Fzv4VGmxtXsXEy8r9hdc82NpkLgGDRk9vG-l1JCd26kxq54d44JoNP2hGYByM09BoV5XgxPSiqivWObtItXSZSeEOx*fbOqTRKfky3uqcjek0xuxIOWUSiWXeaEh-faG&new=1)
- > 昨天，美国总统特朗普的一段2分钟视频刷爆了朋友圈。如果说之前还只是以安全为由，暗搓搓地来调查和限制华为，那么这次就是赤裸裸地公开丑陋嘴脸。 视频中，特朗普的无耻跃然纸上：我们不允许其他国家在5G领域超...
- ## [报告|2019年全球数字化转型现状研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1559433605&ver=1643&signature=I1GZDbqlnkY8gJL7j2YDn-jW8gmuSwzwV8WvW-OJu7P2mjwE6M277zmEga*NTi1oS-TN7oMUnN2IkCLcbotR5O*uUnZKbEBNVV0kkJKiVwGDQpgSPqnsJPD-Mq5g1rur&new=1)
- > 来源：Prophet2019年，战略数字化转型的重要性已经不止于IT领域，而影响着全公司的竞争力。企业的相关预算直线攀升，利益相关方所关注的颠覆性技术数量急剧增加。数字化项目开始由首席高管主导，并由相互协作的...
- ## [华为助英国首次5G电视直播；中美主播“激辩”贸易战|e-works舆情室](http://mp.weixin.qq.com/s?src=11&timestamp=1559433605&ver=1643&signature=j7m-W8PcY7aSzv44etFFHaniz9O6C0zvO*JXdVAbzDokv0dlaYMWPsrh0SOMduRkBXy-gsBa1oSUAjU*4EAruLpSz74aAavo2XUiD6czUYbrT8rqZ6vg5RwaWXtgcFGL&new=1)
+ ## [华为助英国首次5G电视直播；中美主播“激辩”贸易战|e-works舆情室](http://mp.weixin.qq.com/s?src=11&timestamp=1559437204&ver=1643&signature=j7m-W8PcY7aSzv44etFFHaniz9O6C0zvO*JXdVAbzDokv0dlaYMWPsrh0SOMduRkBzcDj0aM8QcdCBoc-WQgoQsIW51883S1hYPkYSqTwO5xuttarp073ghnPNjfhp0M&new=1)
  > 智造热点每周看看智能制造、工业互联网、数字化转型一手行业新闻，尽在e-works舆情观察室！ 头条动态 Headline 5月30日，英国主要电信运营商之一EE公司在英国六个城市开通5G服务，这也是英国首个正式启用的5G服...
- ## [AWE完美收官：三星将推AR/VR新品，世界最小RGB激光投影亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1559433605&ver=1643&signature=lz0egBf6fM*exsPrWrUL*Z55uig2oSu5IH2ZLnmCPbOPGefsfboYRHlf5OTAZgVUcW9YPRfPL6zwWWCixrEYXcSj24JDalIk-fEW3qY3LZmqSHDPZ6a9usAMXMBUsGy-&new=1)
+ ## [报告|2019年全球数字化转型现状研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1559437204&ver=1643&signature=I1GZDbqlnkY8gJL7j2YDn-jW8gmuSwzwV8WvW-OJu7P2mjwE6M277zmEga*NTi1oUANIAPOgEDEDNgbFMQW8y-fD9e4rE0y5SWrQIzYnvmNQHeD7A4yFhw0fwnLenYw2&new=1)
+ > 来源：Prophet2019年，战略数字化转型的重要性已经不止于IT领域，而影响着全公司的竞争力。企业的相关预算直线攀升，利益相关方所关注的颠覆性技术数量急剧增加。数字化项目开始由首席高管主导，并由相互协作的...
+ ## [\[报告\]2018中国5G应用市场数字化研究(附40页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1559437204&ver=1643&signature=kAIFYFGn*rC40dfyJu3r2xp4kO64H50i3tS1UX-jCAqasehu16QiXn8dINp5vqLWeBAb6LDMTcGkNv7O4I*20LHZpeXmpBZPFKfjfUcDOS8PRJR2D4hu2hNb03JxAD9m&new=1)
+ > 据CITA和Analysys Mason的数据显示，中国在全球主要国家的5G竞备中处于领先地位，与中国同处第一梯队位置的还有韩国、美国和日本。通过分析对第一梯队国家主要运营商公布的5G商用时间来看，2019-2020年无疑将成...
+ ## [华为被封杀的第十天，让人热血沸腾的事情发生了](http://mp.weixin.qq.com/s?src=11&timestamp=1559437204&ver=1643&signature=Fzv4VGmxtXsXEy8r9hdc82NpkLgGDRk9vG-l1JCd26kxq54d44JoNP2hGYByM09BTecl*l0iGTfkfenBd0ETVZFsrtArt1niSVG*RbZzlqC3it-lIBZbcdXeQjWFQQru&new=1)
+ > 昨天，美国总统特朗普的一段2分钟视频刷爆了朋友圈。如果说之前还只是以安全为由，暗搓搓地来调查和限制华为，那么这次就是赤裸裸地公开丑陋嘴脸。 视频中，特朗普的无耻跃然纸上：我们不允许其他国家在5G领域超...
+ ## [AWE完美收官：三星将推AR/VR新品，世界最小RGB激光投影亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1559437204&ver=1643&signature=lz0egBf6fM*exsPrWrUL*Z55uig2oSu5IH2ZLnmCPbOPGefsfboYRHlf5OTAZgVURF7MQQNXNqVwd9TBNpUZUTzZEGl*5mGN2-nmKFlw1plQwrovB2aRYVEs7oSAjieo&new=1)
  > Esther、hi188｜ 撰文时间进入AWE 2019展第三天，也是大会的最后一天，今天比较多的是AR/VR相关的颁奖典礼，以及分论坛，而今天将报道的依然以新产品、软件、服务为主，还有一个新融资消息。在第一天的总结中，...
  ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
  > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
- ## [新媒体运营小白，怎样快速入门？](https://www.zhihu.com/question/319644715)
- > 每一个行业，不可能一进来就很精通，从0到1的跨越需要一定时间的积累（实践）——因为我们都是从小白过来的对于新媒体这个行业来说，我也算是过来人。回想起小白的那些日子内心感触很深，以下是我总结的几个方面，希...
+ ## [转行互联网运营工作，该从那个运营岗位开始比较好？](https://www.zhihu.com/question/278470930)
+ > 1、2019年运营行业的挑战你说你想做新媒体，速度能不能比的上Xiaomingbot，一天可以出10万篇内容……你说你想做文案，文案能不能有Picasso写的又好又快，而且可以针对每个不同年龄层不同的细分人群写一套你说你想做...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 并不是所有的操作系统都用扩展名来标识文件类型……同时扩展名事实上也非常混乱，htm和html表示的都是HTML文档，jpeg和jpg都是JPEG图片格式，等等……最后，浏览器所使用的URL（统一资源定位符），根本就...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [你为什么从阿里巴巴集团离职？](https://www.zhihu.com/question/22032540)
  > 已离职，上周五last day。离职的原因比较多，内外都有，都说说吧。内在最主要离职的原因还是寻梦，这个词对于工作党来说其实有些违和。很多人过着两点一线的生活，除了工作就是睡觉，日子一眼望得到边，哪里还有什么...
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
  ## [《盛势》和《上瘾》多方面比较，哪个更胜一筹？](https://www.zhihu.com/question/55701279)
  > 上瘾结束之后，黄景瑜许魏洲空降娱乐圈黄景瑜当时人气压过帝国三子和四大流量许魏洲比黄景瑜差点但是也没差多少接着两人被封杀但是， 即使如此 ，黄景瑜许魏洲依旧是杀出一条血路来， 黄景瑜靠红海行动， 许魏洲靠专...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
- ## [哪里可以下载 PPT 中常用的透明背景 PNG 图片？](https://www.zhihu.com/question/309786320)
- > 找PPT素材是一项技能，大部分初学者在制作PPT的时候，非常喜欢在“百度搜索”上找图片，这样有时候虽然能快速找到相应的图片，但是却存在着挺多问题，例如：图片存在水印/logo、图片无使用版权、图片清晰度不够...
+ ## [没有开通一个网站或者app会员的时候觉得贼有用，开通后反而往往觉得并没有什么用是什么心态？](https://www.zhihu.com/question/326622695)
+ > 知乎会员没跑了......买完之后也不咋想刷了，之前想听的live也一拖再拖附赠的京东会员也没怎么用过附赠的爱奇艺用了一段时间之后也就放到一边了，可能没什么想看的音乐软件会员，想着过期前多下点歌，结果貌似也只在...
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
  ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
@@ -73,69 +73,69 @@ categories: IT NEWS
  > 全球超50000台服务器遭攻击，它说是中国黑客干的
  ## [IEEE最新声明：华为员工不能参与审稿，但是还能继续提供赞助](http://news.51cto.com/art/201905/597221.htm)
  > IEEE最新声明：华为员工不能参与审稿，但是还能继续提供赞助
- ## [人工智能之问](https://blog.csdn.net/hcgx2018/article/details/90633429)
- > 人工智能之问
- ## [浅谈人工智能与游戏思维](https://blog.csdn.net/VucNdnrzk8iwX/article/details/90390813)
- > 浅谈人工智能与游戏思维
- ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
- > 程序人生：“自学Python，如何拿下了月薪15k的工作
- ## [详解并发编程的优缺点](https://blog.csdn.net/weixin_44175121/article/details/89855662)
- > 详解并发编程的优缺点
- ## [云计算和大数据未来发展趋势分析](https://blog.csdn.net/Yukioog/article/details/90313676)
- > 云计算和大数据未来发展趋势分析
- ## [人工智能 - NBA球星产生式系统](https://blog.csdn.net/weixin_42776111/article/details/89850323)
- > 人工智能 - NBA球星产生式系统
- ## [大数据和云计算区别和认知](https://blog.csdn.net/qq_38459998/article/details/90341433)
- > 大数据和云计算区别和认知
- ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
- > 人工智能教程 - 目录
- ## [人工智能杂记 人工智能简史](https://blog.csdn.net/qq_44995253/article/details/89847810)
- > 人工智能杂记 人工智能简史
- ## [程序人生思考之协同](https://blog.csdn.net/soliy/article/details/90550301)
- > 程序人生思考之协同
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [忆旧路：雄关漫道真如铁，而今迈步从头越](https://blog.csdn.net/sun_DongLiang/article/details/89820615)
- > 忆旧路：雄关漫道真如铁，而今迈步从头越
- ## [高阶人工智能时代的畅想](https://blog.csdn.net/fxj2019/article/details/90080702)
- > 高阶人工智能时代的畅想
- ## [大数据和云计算是如何结合](https://blog.csdn.net/qq_38459998/article/details/90167797)
- > 大数据和云计算是如何结合
- ## [程序人生第三年](https://blog.csdn.net/dring321/article/details/90345866)
- > 程序人生第三年
+ ## [linux下ffmpeg采集音视频设备](https://blog.csdn.net/hkSDK/article/details/90513691)
+ > linux下ffmpeg采集音视频设备
+ ## [物联网改变未业业务方式，主要有哪几种方法](https://blog.csdn.net/duozhishidai/article/details/89811923)
+ > 物联网改变未业业务方式，主要有哪几种方法
+ ## [麻将游戏开发如何适应市场 可持续发展](https://blog.csdn.net/motianyougame/article/details/90445631)
+ > 麻将游戏开发如何适应市场 可持续发展
+ ## [物联网的末端数据通信](https://blog.csdn.net/py8105/article/details/89916268)
+ > 物联网的末端数据通信
+ ## [音视频质量分析解析](https://blog.csdn.net/mazhitong1020/article/details/89887605)
+ > 音视频质量分析解析
+ ## [FFMPEG音视频同步-音视频实时采集编码封装](https://blog.csdn.net/quange_style/article/details/90105795)
+ > FFMPEG音视频同步-音视频实时采集编码封装
+ ## [2D游戏开发 - SkyGameEngine2d坐标系](https://blog.csdn.net/qq_33775402/article/details/90643490)
+ > 2D游戏开发 - SkyGameEngine2d坐标系
+ ## [物联网卡到底是不是“坑”](https://blog.csdn.net/qq_40798435/article/details/89845792)
+ > 物联网卡到底是不是“坑”
+ ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
+ > 【音视频】1.音视频基本概念
+ ## [【物联网】物联网安全---编辑中](https://blog.csdn.net/bandaoyu/article/details/90405912)
+ > 【物联网】物联网安全---编辑中
+ ## [游戏开发核心技术之-存档与读档(1)](https://blog.csdn.net/Think88666/article/details/90437911)
+ > 游戏开发核心技术之-存档与读档(1)
+ ## [python游戏开发：pygame中的IO、数据](https://blog.csdn.net/qq_40925239/article/details/90381683)
+ > python游戏开发：pygame中的IO、数据
+ ## [iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出](https://blog.csdn.net/weixin_42433480/article/details/90109873)
+ > iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出
+ ## [音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90617448)
+ > 音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会
+ ## [物联网卡在物联网中，主要有哪些作用？](https://blog.csdn.net/duozhishidai/article/details/90454104)
+ > 物联网卡在物联网中，主要有哪些作用？
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [Java 永远都是最受欢迎的编程语言](https://blog.csdn.net/qq_42965754/article/details/90441266)
- > Java 永远都是最受欢迎的编程语言
- ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
- > 关于架构的思考之一：架构的定义及目的
- ## [架构优化方案](https://blog.csdn.net/baidu_26954625/article/details/90511565)
- > 架构优化方案
+ ## [Web安全工程师入门](https://blog.csdn.net/weixin_40951514/article/details/90074818)
+ > Web安全工程师入门
+ ## [人工智能杂记 人工智能简史](https://blog.csdn.net/qq_44995253/article/details/89847810)
+ > 人工智能杂记 人工智能简史
+ ## [如何看待人工智能的现状](https://blog.csdn.net/yoggieCDA/article/details/90606652)
+ > 如何看待人工智能的现状
+ ## [STM32总线架构笔记](https://blog.csdn.net/Mamba_1024/article/details/90671661)
+ > STM32总线架构笔记
+ ## [【架构】分布式事务](https://blog.csdn.net/m18633778874/article/details/90110788)
+ > 【架构】分布式事务
+ ## [微服务架构、分布式架构、传统架构演化过程洞悉！](https://blog.csdn.net/weixin_44106134/article/details/90676521)
+ > 微服务架构、分布式架构、传统架构演化过程洞悉！
  ## [Tomact原理与架构](https://blog.csdn.net/Sophisticated_/article/details/90665879)
  > Tomact原理与架构
- ## [编程语言 IDE 对比](https://blog.csdn.net/zhongqi2513/article/details/90143582)
- > 编程语言 IDE 对比
- ## [那些编程语言中对应的超级英雄们](https://blog.csdn.net/weixin_45074358/article/details/90551452)
- > 那些编程语言中对应的超级英雄们
- ## [不懂技术也能看懂的云计算／大数据／人工智能](https://blog.csdn.net/mmooyyyy/article/details/90551577)
- > 不懂技术也能看懂的云计算／大数据／人工智能
- ## [概念普及-云计算 大数据 Hadoop BI](https://blog.csdn.net/lijing742180/article/details/90410886)
- > 概念普及-云计算 大数据 Hadoop BI
  ## [Android架构——MVP架构一点理解](https://blog.csdn.net/weixin_43499030/article/details/90300070)
  > Android架构——MVP架构一点理解
- ## [【科普】7大含金量最高的编程语言](https://blog.csdn.net/weixin_40897235/article/details/90399967)
- > 【科普】7大含金量最高的编程语言
- ## [一门编程语言如何理解？](https://blog.csdn.net/xuexijiaqq3533076323/article/details/90441427)
- > 一门编程语言如何理解？
- ## [云计算，大数据，人工智能本质和概念](https://blog.csdn.net/qq_38459998/article/details/90372546)
- > 云计算，大数据，人工智能本质和概念
- ## [8个最有含金量的云计算和大数据认证](https://blog.csdn.net/Yukioog/article/details/90313686)
- > 8个最有含金量的云计算和大数据认证
- ## [大数据与云计算：进入技术爆发期](https://blog.csdn.net/qq_38459998/article/details/90168067)
- > 大数据与云计算：进入技术爆发期
- ## [大数据学习如何选择合适的编程语言](https://blog.csdn.net/yudsh001/article/details/90520107)
- > 大数据学习如何选择合适的编程语言
+ ## [高阶人工智能时代的畅想](https://blog.csdn.net/fxj2019/article/details/90080702)
+ > 高阶人工智能时代的畅想
+ ## [LANMP安全配置之MySQL安全配置](https://blog.csdn.net/syy0201/article/details/90644695)
+ > LANMP安全配置之MySQL安全配置
+ ## [浅谈人工智能与游戏思维](https://blog.csdn.net/VucNdnrzk8iwX/article/details/90390813)
+ > 浅谈人工智能与游戏思维
+ ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
+ > 人工智能教程 - 目录
+ ## [tomcat安全加固手册](https://blog.csdn.net/ssxueyi/article/details/90438704)
+ > tomcat安全加固手册
+ ## [人工智能机器学习](https://blog.csdn.net/qq_30505673/article/details/89816507)
+ > 人工智能机器学习
+ ## [前端性能优化与安全](https://blog.csdn.net/weixin_41105030/article/details/90311515)
+ > 前端性能优化与安全
 # PM 
  ## [数据分析驱动增长方法论](http://www.chanpin100.com/article/108598)
  > 我们有幸邀请来了前爱奇艺首任产品总监、前豆果网副总裁、某创业公司创始人兼CEO高玮作为开课吧讲师，精心梳理数据分析驱动增长方法论，为大家上一堂免费公开课！
