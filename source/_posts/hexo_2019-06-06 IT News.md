@@ -1,7 +1,7 @@
 ---
 title: 2019-06-06 IT News
 copyright: true
-date: 2019-06-06 10:01:09
+date: 2019-06-06 12:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,15 +65,35 @@ AR&#20809;&#23398;&#27169;&#32452;&#30740;&#21457;&#21830;&#8220;&#29649;&#29855
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [传明天要发5G商用牌照 电信移动联通亟需冷静思考三大尴尬](http://mp.weixin.qq.com/s?src=11&timestamp=1559786404&ver=1651&signature=rRCalgA0XGqxX8SyuXUyfCRCS8zpZHvtBGaF3DkNNihWn0rv4Cf1nyNT4kHWMX5-u-iYUNpo2y-F8*J6OBcMf04lInlDNNOIZgw1yAHpToYzbmuHdlBKeu9u7525IFYt&new=1)
+ ## [我国政务云的探索与实践](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=mOSldtSMVGxu0gSqHCV70HGMI2w91zP8mqtTr7l1r51WI*dss-1-HFEyv1-1r1dhMlJwgP9FqLI1AnbHM5TPDV6Zimt7*vjrX3yDwNFfejjpi7Wa4tIFV3h6HDY4GqW*&new=1)
+ > 作者| 闫德利 腾讯研究院高级研究员          殷利梅 国家工业信息安全发展研究中心我国政府高度重视云计算的发展，从2015年到现在，云计算已经四次写入政府工作报告。随着云计算技术的不断普及，政务云以其灵活...
+ ## [5G牌照发放，智能互连时代开启](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=0wUreqIxwjFGqidmiX*RHCL2dWCf8yrhzdVKkVb1Qw2Ir70b0jGIQ3ee20CyHnA2VF1ad*S5AqIi1QdXF2Xj-QtB0wJjkG7ZRYAWPKMUA7TtQQT6fT9kP*f52t9Mw0lV&new=1)
+ > Qualcomm要闻—5G牌照发放，智能互连时代开启— 6月6日 —今天，工信部向中国电信、中国移动、中国联通、中国广电正式发放5G商用牌照。这是全球5G发展的标志性事件——中国5G时代正式开启。未来中国的5G发展会多...
+ ## [5G真的来了!华为：中国5G将引领全球](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=jOsG05actpPhJTxJcnSAmsS78vIPrLjnWlC7a5Vaj44KH2cz7hlAjjJXTPHmMOUSlvxXyCTsqTuILm-VonKmooBsZCsv*l-XSLtfxpwv7KZp5dLbTcshCXZqlwYfbWCb&new=1)
+ > 中国基金报 天逸综合：e公司官微中国5G时代来了。6月6日上午，工信部向中国电信、中国移动、中国联通以及中国广电发放了5G商用牌照。华为公司第一时间回应：相信不久的将来，中国5G将引领全球。图片源于网络华为...
+ ## [刚刚!工信部正式发放4张5G牌照](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=xnk8pJ4U4wwAfS523p8prBHNQ1rrQV0lfLVz0CIQA1Tu36TRH7YZ3-28JAQmMsuMtAlKV9QYN083zZkqL8oGEZqg8bcGfJFLpzvnDj6NbE5ee-K0JqHl58jBWCAg058J&new=1)
+ > 8点40分，工信部将举行发牌仪式，持续半个小时，三大运营商+广电+铁塔董事长参会。中国正式宣布从今日开始进入5G元年！！！2019年是全球5G元年，不少国家都希望拿到5G商用的第一批“船票”。截至目前，韩国、美...
+ ## [5G来了!中国5G商用牌照正式发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=ONI*2jNZHemW9rUrD0zmXP1pRBzyGJaNvyPKaNXQNLH3dS8aNn0Z8DhepBu5zRVjkL*7HIMwBW1tchkvCsgFOzC1zx3a3nwBUvp1a-rgl*GByyA7-1UpmcPLPVw6oabR&new=1)
+ > 今日上午8时，工信部正式发布5G商用牌照，共计4张，三大运营商中国电信、中国移动、中国联通以及中国广电各获得一张。这意味着中国5G商用提前了一年。电信运营商获得牌照后，将可以实现5G业务的正式商用，部署相...
+ ## [刚刚!工信部发放首批5G商用牌照](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=vT4miN3*XqX8qtSiv3ULoGQwdWJ*PZPjoU7oMUdPialgLGXEeXY3REEvL2VNFmY9l0wDJ4t7HNn7FESWaxrrmlxiUDUwQgklcqLwu21tP0FddMIqbjW6vtcoEaiuldPm&new=1)
+ > 关键时刻，第一时间送达来源 / 腾讯科技（ID：qqtech）欢迎下载腾讯新闻APP，查看更多科技热点新闻据央视新闻官方微博消息，工信部今日向中国电信、中国移动、中国联通、中国广电发放5G商用牌照。近期精选一文读...
+ ## [注意!Windows用户请尽快修补BlueKeep漏洞，避免WannaCry之类的事件再次发生!](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=UzK7ZDgtsqqGWLLG6Z4d0ytMDNzmAqa*GffpURa15Hu1kuND27rrv74x1HUHPBkZO9-Zs6UByjKni5IhWtAUXep9LhQju4ssVR4rd5W78sRIjf1zDGO2kd3RKHNbemkm&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：再不打补丁，第二个WannaCry事件就要来了！美国国家安全局也对BlueKeep漏洞发出了警告！据外媒报道，在微软两次警告Windows用户修补严重安全漏洞Blue...
+ ## [工信部今日发放5G商用牌照](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=nng2whMrGHfvlo0VsG8qETIyGVGa3wyPUaRz-NgTZxIXGFev5Yg59kAHkzdVjPUw5NK7fy-hOEVlYYZnuFmDIXpZOflzpEeI3xr19zYGgZsLJXC6XJcxDmCMOjCUwxBE&new=1)
+ > 央视快讯：工信部向中国电信、中国移动、中国联通、中国广电发放5G商用牌照。来源：中央广播电视总台央视新闻
+ ## [刚刚!中国发放5G商用牌照!](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=nOPt731HwF85FiHNG3zPb7fI1TIbZykS6VnmSsJEWudhVjfhhQz1lMGazdnj-3UTjTJZZNAMhkvERQBKVpSgtqmEnk2xuwY6yaoOggyWDoMYhLBJ9EbC1O3cLOtfZ6Fd&new=1)
+ > 刚刚，工信部向中国电信、中国移动、中国联通、中国广电发放5G商用牌照。责编/版式：刘江校对/审核：申晴
+ ## [工信部今日发放5G商用牌照!](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=rkb1bweyKzmoaB6oYxjZ2JJ2E8EtseDlsbOtQrrhS9zOhAgfoDn3hW3xZyFnkn3r*yhMdy-wZkunbgoiYUWKHxFrUxotBdMuna8Pew8fLn9tHWGF0kLO*7uWTjW5rcYV&new=1)
+ > 工信部今日发放5G商用牌照。内容来源：央视新闻
+ ## [传明天要发5G商用牌照 电信移动联通亟需冷静思考三大尴尬](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=rRCalgA0XGqxX8SyuXUyfCRCS8zpZHvtBGaF3DkNNiiVI7XyuJ5oTFTCV3rDRAL4p5O-h48ts4sSOoPCFOJQAWIXgjrMO9Rv6eosOw00HLtC44pWhzT1uMHglE9Mjk9-&new=1)
  > 运营商财经网  康钊 /文有关“中国将发放5G商用牌照”的说法已尘嚣日上，甚至传言端午节前最后一天发放，但奇怪的是，此次5G牌照发放并没有在三大运营商系统内形成强烈话题，甚至在运营商内部还不如端午节促销令...
- ## [5G 中国速度!](http://mp.weixin.qq.com/s?src=11&timestamp=1559786404&ver=1651&signature=t5UqVDSGM2u6mIszwR9oYb-8K1JQIXz9XbPijrJ52bN*vPIyQDZK1VLotyeCu3XmKbmfVyauAhtMvIofNlULUa8PS*HgkiNozb3wKmMxUkD4lAAYI-hFMzfjuFb8htD8&new=1)
+ ## [5G 中国速度!](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=t5UqVDSGM2u6mIszwR9oYb-8K1JQIXz9XbPijrJ52bNjJ78JwqzQVMvni4d976CtzqdXzxrNVF0BJHWd2t-E*wIjRuP9Uw8L3gx1JUQ4hGC2b-4xFVV91bbPuCPrn0Hi&new=1)
  > 5G速率有多快？伴随全球各地5G商用一波网友测速行动也来了4G和5G对比测试但要说最火的可能是最近在网络爆红的一段《5G 中国速度！》测速视频...该5G试验网测速达到了1.3Gbps可以秒下一部高清电影网友们直呼中国5...
- ## [会议报名|6月12-13日，2019中国光网络研讨会/器件专题论坛将于北京举行!欢迎报名参会(附会议议程)](http://mp.weixin.qq.com/s?src=11&timestamp=1559786404&ver=1651&signature=p0mCSr1SPrWy9fobVBFBYuRVZXDF6zWbUkTv7Y*WZuyS9VXJ*DLN43sVrJOPA237ERVEf3*4ELr8ZunSw2A8uKQU6Y5rNV-3qpZowkxHbpDiUs*ZfztNawBfgWbhPTfz&new=1)
+ ## [会议报名|6月12-13日，2019中国光网络研讨会/器件专题论坛将于北京举行!欢迎报名参会(附会议议程)](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=p0mCSr1SPrWy9fobVBFBYuRVZXDF6zWbUkTv7Y*WZuyO9Ld9ol*4yt9ol5Pi-r89mbga4MaueNxFqxP9DTnZLED-cq2t7wQ2CobnRzDya9ApZkGtKXRFhPid2WBQe3S0&new=1)
  > 导读     6月12-13日，第19届中国光网络研讨会将于北京举行，本届研讨会话题包括数据中心互连、下一代光传输网络、宽带接入以及5G等。其中，由讯石承办的光器件专题会议将在6月13日上午举行，欢迎联系讯石工作人...
- ## [京东开启全国23座“亚洲一号”智能物流园区](http://mp.weixin.qq.com/s?src=11&timestamp=1559786404&ver=1651&signature=TGQ*qDMpQI-2Tmlu77Yo1V*qLFAC2SY4sykzgPVdSgkqSlMJrp9LRkgnIP*AqovKqfpoQwjm9ynoIHdf4FUYj5n7octRc2UvtwMiSfXq6ekkF*ablNkTXDT-3YakDXJW&new=1)
+ ## [京东开启全国23座“亚洲一号”智能物流园区](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=TGQ*qDMpQI-2Tmlu77Yo1V*qLFAC2SY4sykzgPVdSgnzTeyckuJ-nJK6OQYN9N585wnN4Dx4AVtEozobdpEUT*tugGFcGfmuXRF4PR0umhCeoFWeAd1EwLkwIp-mF3pj&new=1)
  > 今年618全球购物节期间，京东物流启用亚洲电商物流领域规模最大的智能物流仓群，全国23座“亚洲一号”智能物流园区已投入运营。至此，京东物流智能物流园区建设已经形成了以北京、上海、广州、成都、武汉、沈阳...
- ## [智能制造大趋所势，工厂企业该如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1559786404&ver=1651&signature=nvIXCFCDSE07jFkZhivxJ5faMuMkGnYugq2PPpu-280qVEYzk5m7FmMOZn57SZ7kh1JgjoKTecuKKXSlAJjJ2lmAXWC3p4QS4oJCFoIqk3CjVY-b2qYr*IdCu8aC84Mk&new=1)
+ ## [智能制造大趋所势，工厂企业该如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1559793604&ver=1651&signature=nvIXCFCDSE07jFkZhivxJ5faMuMkGnYugq2PPpu-280hEHFlCUGvUWlAj1xZt9zMj1zH*-uWFqLy4iC9zNIXRQaI6KInQULzaC1KKKaivZXUiI*uFqegx7o97RMG5C9H&new=1)
  > 未来，物联网将给制造业带来巨大的价值，潜在价值可能会达数十万亿美元。据估计，在未来五年内以每年6％的速度增长，市场到2020年将接近700亿美元。巨大的应用场景包括汽车和运输、采矿、电子、化工、制药、石油...
  ## [《盛势》和《上瘾》多方面比较，哪个更胜一筹？](https://www.zhihu.com/question/55701279)
  > 上瘾结束之后，黄景瑜许魏洲空降娱乐圈黄景瑜当时人气压过帝国三子和四大流量许魏洲比黄景瑜差点但是也没差多少接着两人被封杀但是， 即使如此 ，黄景瑜许魏洲依旧是杀出一条血路来， 黄景瑜靠红海行动， 许魏洲靠专...
@@ -85,10 +105,10 @@ AR&#20809;&#23398;&#27169;&#32452;&#30740;&#21457;&#21830;&#8220;&#29649;&#29855
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
  ## [5G 网络能带动物联网的发展么？](https://www.zhihu.com/question/308778542)
  > 物联网设备分为很多种。从标准制定和现存消息来看，预计2019年底冻结的3GPP Release16（第一个完全达到ITU指标的5G标准，现在可能会延期）不会对现存的低功耗广域IoT（Internet of Things，物联网）带来...
- ## [民宿如何推广，或者找到服务供应商。？](https://www.zhihu.com/question/52990939)
- > 民宿不如连锁酒店品牌，能够有品牌效应，客户自主选择，所以获客成本很重要。除了入驻OTA等销售平台，靠社媒平台带量也是重要的推广方式。小红书，抖音，马蜂窝都是民宿适合的平台，如果内容做的好，能达到以很小...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
+ ## [2019年有什么新的创业机会？](https://www.zhihu.com/question/312702679)
+ > 2019，是一个值得纪念的一年。即将迈入5G移动互联网时代，恰恰给草根们提供了无数的创业机会，即使宅在家里也能致富。下面整理了14类，69个赚钱套路！！！每一个都和网络紧紧挂钩，而且很多项目的成本就是一部手机或...
  ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
  > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
@@ -105,19 +125,23 @@ AR&#20809;&#23398;&#27169;&#32452;&#30740;&#21457;&#21830;&#8220;&#29649;&#29855
  > 91年机械工程专科毕业的汉子，曾短暂地在机械行业干过，狠狠地被这个社会历练了一段时间后转行互联网，现在的公司做的是零食电商业务，岗位范畴属于互联网运营。放弃机械的时候超级纠结，因为放弃了也不知道能做什么...
  ## [美国科技公司是如何处理“不能拼搏、不努力、性价比低的”员工的？](https://www.zhihu.com/question/319489533)
  > 在谷歌经历了几次“绩效考核”后来强答下。首先，和很多公司一样，有绩效考核，从低到高有5个级别。由一个委员会给评分，根据员工等级不同，自己直属老板的话语权在评分中会有所不同。我最喜欢的一个点是，因为老板对...
- ## [为什么很多产品经理都不愿意做后台？](https://www.zhihu.com/question/39362334)
- > 后台产品经理以我自己经历的项目和身边同行朋友的经验，项目的产品leader都是在全部或部分职业生涯中做过后台产品的；直白的来说，同样的工作经验，后台pm的工资是同样优秀的前台pm的1.5倍以上。自己刚毕业时做过一年...
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 这个世道，出名就要博头条。富豪有儿子也一样。怎么样获得头条，就得和不同的女人或男人睡觉，或者在微博上骂人。跟王思聪一样。可是有些人不喜欢出名。毕竟出名了就没有私生活了。就像在前不久去年的陈毅元帅的儿子...
  ## [请虎扑的网友评价一下，知乎与虎扑的差异在哪里？](https://www.zhihu.com/question/21824189)
  > 虎扑只是一个体育论坛，跟综合社区知乎没有什么可比性，我用虎扑十年多，知乎刚运营的时候我就应朋友邀请注册了，所以两个社区都挺熟的。说这些不是摆资历和讲废话，只是很多骄傲的虎扑用户总是在我说虎扑不好的地方...
  ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
  > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
+ ## [Medium 上有哪些优秀的 UI/UX 设计师？](https://www.zhihu.com/question/24466160)
+ > “Medium 是一个全新的轻量级内容发行平台，允许单一用户或多人协作，将自己创作的内容以主题的形式结集为专辑（Collection），分享给用户进行消费和阅读。”百度百科上的这个解释总觉得有点刻板。对于我来说，Me...
  ## [毕业一年，裸辞已经两个月了，到底继续找喜欢/合适的工作，还是随便找个工作过度下？](https://www.zhihu.com/question/324318124)
  > 先说说随便找一份工作，你可能会面临的几个后果：不喜欢这份工作，无法投入激情，就此混日子；对工作不满意，干了几个月又换，恶性循环；钱没赚到，年龄越来越大，换行越来越难，然后开始承认自己的平庸......事实上...
 # IT 技术 
  ## [影响数据中心正常运行时间的四种网络攻击](http://netsecurity.51cto.com/art/201906/597544.htm)
  > 影响数据中心正常运行时间的四种网络攻击
+ ## [吃透这篇，你也能搭建出一个高并发和高性能的系统](http://os.51cto.com/art/201906/597550.htm)
+ > 吃透这篇，你也能搭建出一个高并发和高性能的系统
+ ## [码妞：领导让我重构代码，怎么办？](http://developer.51cto.com/art/201906/597560.htm)
+ > 码妞：领导让我重构代码，怎么办？
  ## [机器学习算法在IDS中的应用](http://ai.51cto.com/art/201906/597463.htm)
  > 机器学习算法在IDS中的应用
  ## [刚刚，微信出现大面积Bug！网友吓出一身汗](http://news.51cto.com/art/201906/597533.htm)
@@ -128,60 +152,56 @@ AR&#20809;&#23398;&#27169;&#32452;&#30740;&#21457;&#21830;&#8220;&#29649;&#29855
  > 五大区块链快速原型工具帮你加速概念验证的时间
  ## [网络排查只会Ping？3个实用命令帮你详细定位问题点](http://network.51cto.com/art/201906/597465.htm)
  > 网络排查只会Ping？3个实用命令帮你详细定位问题点
- ## [日本操作系统，如何被美国超级301法案架空三十年？](http://news.51cto.com/art/201906/597485.htm)
- > 日本操作系统，如何被美国超级301法案架空三十年？
- ## [英特尔的NUC计算元件与Raspberry Pi计算模块：孰优孰劣？](http://stor.51cto.com/art/201906/597483.htm)
- > 英特尔的NUC计算元件与Raspberry Pi计算模块：孰优孰劣？
+ ## [你知道HTML、CSS、JS、Services、PHP、ASP.NET 是什么来头么？](http://developer.51cto.com/art/201906/597573.htm)
+ > 至于 XHTML，就是 HTML 的表亲，XML 和 HTML 自己的杂交系列，对语法要求十分的严格，为了兼容 XML，在语法
+ ## [华为全力支持中国运营商建好中国5G](http://network.51cto.com/art/201906/597559.htm)
+ > 面向“5G引领”的关键历史机遇，华为将持续支持中国运营商，并与各界产业伙伴通力合作，共同为5G产业创新贡
+ ## [IDC：物联网的下一章刚刚开始，数字化转型&消费物联网齐头并进，“钱”途无限！](http://iot.51cto.com/art/201906/597565.htm)
+ > 物联网的下一章刚刚开始，各行业的物联网支出持续升温。2019年，无论是企业数字化转型，还是消费物联网蓝海
+ ## [华为麦芒8发布会现场，华为何刚表示挑战越大，成就越大](http://network.51cto.com/art/201906/597557.htm)
+ > 面对新的挑战，华为微笑面对，团结一致、众志成城，用更好的产品与服务、科技与创新，与世界沟通，与消费者
+ ## [实现100倍加速！谷歌开源超强张量计算库TensorNetwork](http://news.51cto.com/art/201906/597554.htm)
+ > 量子系统复杂，暴力计算无效，原有张量网络（Tensor Network）难以广泛规模使用，让开发高温超导体等复杂问
+ ## [四万字歌词分析：那些年，我们一起追的五月天到底在唱什么？](http://zhuanlan.51cto.com/art/201906/597555.htm)
+ > 在五月天最新电影发布的这个契机，文摘菌想用数据试着去分析一下这个不老的乐队，看看这些年陪伴我们的这五
+ ## [华为发布智能数据解决方案FusionData，释放数据价值](http://network.51cto.com/art/201906/597553.htm)
+ > 截至目前，华为智能数据解决方案FusionData已经应用于全球60多个国家及地区，服务于1500多个客户，拥有500
+ ## [中美贸易战白热化，5G技术将“鹿死谁手”？](http://news.51cto.com/art/201906/597552.htm)
+ > 6月2日，国务院新闻办公室发布《关于中美经贸磋商的中方立场》白皮书。近日，中美贸易战愈演愈烈，这场没有
  ## [知名游戏设计师 Jason Rohrer 的 GitHub 仓库被删，CEO 亲自道歉](http://news.51cto.com/art/201906/597549.htm)
  > 在没有任何警告或通知的情况下被 GitHub 删除仓库是什么体验？知名游戏设计师兼程序员 Jason Rohrer 昨天正
- ## [吃透这篇，你也能搭建出一个高并发和高性能的系统](http://os.51cto.com/art/201906/597550.htm)
- > 什么是高并发?高并发是互联网分布式系统架构的性能指标之一，它通常是指单位时间内系统能够同时处理的请求
  ## [你好，亲爱的科技！](http://server.51cto.com/Prod-597548.htm)
  > 作为认知计算领域的代表，IBM Watson已经成为各行业数字化重塑的核心，已在电子制造、交通运输、能源水利等
- ## [开源，能否成为芯片困境破局之道](http://news.51cto.com/art/201906/597546.htm)
- > 在华为被列入美国商务部“实体名单”后，RISC-V 这一开源指令集架构获得了更高的关注。包云岗认为，RISC-V
- ## [刚刚！工信部今日发放5G商用牌照，5G牌照到底有什么用处？](http://network.51cto.com/art/201906/597545.htm)
- > 早上，据央视快讯，工信部将在今日发放5G商用牌照。目前我国已经在5G中频段(2.6Ghz和3.5Ghz)具备商用基础，
- ## [如何入手卷积神经网络](http://zhuanlan.51cto.com/art/201906/597542.htm)
- > 卷积神经网络可以算是深度神经网络中很流行的网络了。本文从基础入手，介绍了卷积网络的基本原理以及相关的
- ## [ARM创始人谈华为被禁：长期将伤害ARM、谷歌及美国工业](http://news.51cto.com/art/201906/597547.htm)
- > 在美国商务部将华为列入实体清单之后，不只是美国公司不能向华为出口芯片及软件等产品，美国之外的公司也要
- ## [使用Testinfra和Ansible验证服务器状态](http://os.51cto.com/art/201906/597541.htm)
- > Testinfra 是一个功能强大的库，可用于编写测试来验证基础设施的状态。另外它与 Ansible 和 Nagios 相结合
- ## [详解十三款运维监控工具](http://os.51cto.com/art/201906/597543.htm)
- > 纵观我们部署在基础设施当中并始终保持运作的全部测量机制，监控系统无疑是重要性最高的机制之一，但它却
- ## [这三个技巧，让你的代码可读性提高300%](http://developer.51cto.com/art/201906/597540.htm)
- > 注意!注意!想要作为优秀的程序员必须遵守一些不成文的规定。本文不是在讨论算法、数据结构、软件架构和程序
- ## [运维之路（2）](https://blog.csdn.net/weixin_43546282/article/details/90301690)
- > 运维之路（2）
- ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
- > \[Linux\]运维面试(一)
- ## [某公司运维岗位笔试题7](https://blog.csdn.net/xzm5708796/article/details/90116522)
- > 某公司运维岗位笔试题7
+ ## [刚刚！6月榜单：JS跌惨，Python又霸榜，C++再无翻身可能！](https://blog.csdn.net/CSDNedu/article/details/90898561)
+ > 刚刚！6月榜单：JS跌惨，Python又霸榜，C++再无翻身可能！
+ ## [【物联网】物联网平台开发全栈教程](https://blog.csdn.net/lsj960922/article/details/90295100)
+ > 【物联网】物联网平台开发全栈教程
+ ## [MySQL-MMM架构使用](https://blog.csdn.net/weixin_44792728/article/details/90677862)
+ > MySQL-MMM架构使用
+ ## [【编程语言】Java 迭代器](https://blog.csdn.net/qq83833224/article/details/89922524)
+ > 【编程语言】Java 迭代器
+ ## [微服务架构之「 配置中心 」](https://blog.csdn.net/jsjwk/article/details/90291822)
+ > 微服务架构之「 配置中心 」
+ ## [pl/sql编程语言](https://blog.csdn.net/qq_34721292/article/details/90579498)
+ > pl/sql编程语言
+ ## [【区块链】谷歌第二款开源编程语言-GO语言](https://blog.csdn.net/PLhma/article/details/90518894)
+ > 【区块链】谷歌第二款开源编程语言-GO语言
  ## [物联网卡在物联网中，主要有哪些作用？](https://blog.csdn.net/duozhishidai/article/details/90454104)
  > 物联网卡在物联网中，主要有哪些作用？
- ## [Zabbix运维监控工具](https://blog.csdn.net/Micky_Yang/article/details/90143186)
- > Zabbix运维监控工具
- ## [程序人生：初学者最常问的几个问题](https://blog.csdn.net/weixin_44015669/article/details/90346978)
- > 程序人生：初学者最常问的几个问题
- ## [物联网安全体系架构分析图](https://blog.csdn.net/dreamstone_xiaoqw/article/details/90750649)
- > 物联网安全体系架构分析图
- ## [运维之路（5）_系统监控](https://blog.csdn.net/weixin_43546282/article/details/90578869)
- > 运维之路（5）_系统监控
- ## [MySql window安装运维](https://blog.csdn.net/zzhuan_1/article/details/90404378)
- > MySql window安装运维
- ## [华为物联网操作系统 LiteOS](https://blog.csdn.net/horses/article/details/90439142)
- > 华为物联网操作系统 LiteOS
- ## [人工智能解决方案 --- 智能运维](https://blog.csdn.net/micklongen/article/details/90311395)
- > 人工智能解决方案 --- 智能运维
- ## [运维之路（4）](https://blog.csdn.net/weixin_43546282/article/details/90316064)
- > 运维之路（4）
- ## [云计算与物联网有什么关系，云计算和物联网主要有哪些优势？](https://blog.csdn.net/duozhishidai/article/details/90349804)
- > 云计算与物联网有什么关系，云计算和物联网主要有哪些优势？
- ## [运维资料之反向代理](https://blog.csdn.net/sky6even/article/details/90511597)
- > 运维资料之反向代理
- ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
- > 程序人生：“自学Python，如何拿下了月薪15k的工作
+ ## [亚马逊工程师论各种编程语言的优缺点](https://blog.csdn.net/qq_33840251/article/details/90548578)
+ > 亚马逊工程师论各种编程语言的优缺点
+ ## [认识阿里云物联网与物联网项目的开发流程](https://blog.csdn.net/pengpengjy/article/details/90412011)
+ > 认识阿里云物联网与物联网项目的开发流程
+ ## [小猿圈python学习之编程语言排名](https://blog.csdn.net/weixin_44867000/article/details/90598077)
+ > 小猿圈python学习之编程语言排名
+ ## [【物联网】物联网数据分析与可视化](https://blog.csdn.net/lsj960922/article/details/90638536)
+ > 【物联网】物联网数据分析与可视化
+ ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
+ > 关于架构的思考之一：架构的定义及目的
+ ## [atitit 编程语言课程 v1 t55.docx   1. 编程语言概念（what	5 1.1. 自然语言与编程语言的关系	5 1.2. 开发中常用的编程语言	5 1.3. 编程语言代际	5 1.4](https://blog.csdn.net/attilax/article/details/90416843)
+ > atitit 编程语言课程 v1 t55.docx   1. 编程语言概念（what	5 1.1. 自然语言与编程语言的关系	5 1.2. 开发中常用的编程语言	5 1.3. 编程语言代际	5 1.4
+ ## [【物联网】阿里云物联网应用托管](https://blog.csdn.net/lsj960922/article/details/90639366)
+ > 【物联网】阿里云物联网应用托管
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [华为否认削减手机产量；百度副总裁郑子斌将离职；开发者对苹果发集体诉讼 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/90898471)
@@ -190,6 +210,22 @@ AR&#20809;&#23398;&#27169;&#32452;&#30740;&#21457;&#21830;&#8220;&#29649;&#29855
  > 作者 | 小谦编辑 | 郭芮上月底，印度短视频社区产品VMate获得阿里巴巴1亿美元投资，与钉钉、天猫精灵、阿里人工智能等项目一同归入阿里巴巴创新业务事业群。在国内短视频市场被抖音、快手瓜分殆尽的情况下，各巨头纷纷将目光投向印度，期待着印度能成为下一个中国，为提前入场的企业提供丰厚的营...
  ## [百面机器学习！算法工程师面试宝典！](https://blog.csdn.net/csdnnews/article/details/90898629)
  > 本文部分内容经授权节选自《百面机器学习》责编 | 胡巍巍去年年底到今年年初，整个互联网圈，都笼罩着裁员的阴霾。以至于很多程序员，都不敢看新闻了。前段时间，SOHO中国董事长潘石屹，在出席活动时，被问到怎么看待当前的这个裁员潮时表示，“未来最需要创造性的人才，能够为社会、为城市创...
+ ## [第二批科创主题基金5日发售，“一日售罄”局面未再现](http://www.lanjingtmt.com/news/detail/42989.shtml)
+ > 6月5日，华安、富国、广发、鹏华和万家旗下5只封闭3年的科创主题基金同日发售，并设定了10亿元募集规模上限，但认购金额较首批产品大幅缩水，“一日售罄”局面未再现。
+ ## [阿里与俄企业成立合资公司，开发社交电商产品](http://www.lanjingtmt.com/news/detail/42988.shtml)
+ > 阿里巴巴集团日前宣布，公司与俄罗斯主权财富基金直接投资基金、俄罗斯社交和IT集团Mail.ru、俄罗斯综合电信运营商MegaFon共同成立一家合资公司，拟整合各方资源推出一个社交电
+ ## [暴风集团第三次列为失信被执行人](http://www.lanjingtmt.com/news/detail/42987.shtml)
+ > 昨日，暴风集团股份有限公司新增一条失信被执行人信息，因有能力履行而拒不履行生效法律文书确定义务，该关联案件的执行标的为189万。今年以来，暴风集团共有3条失信被执行人信息。
+ ## [高德时隔近1年重新上线顺风车，曾称在阿里内无商业化压力](http://www.lanjingtmt.com/news/detail/42984.shtml)
+ > 有广东用户日前发现高德地图产品页面出现高德顺风车车主招募页面。对此，高德地图回应蓝鲸TMT称，高德顺风车现已开始在广东省和武汉市开始招募车主，尚未明确表示具体上线时间。
+ ## [首家科创板中止审核企业利元亨重回“已问询”状态](http://www.lanjingtmt.com/news/detail/42983.shtml)
+ > 此前中止审核的科创板申报企业利元亨重回“已问询”。这也是首家经历中止审核后实现回归的科创板申报企业。
+ ## [阿里最新股权结构调整：马云持股降至6.2%](http://www.lanjingtmt.com/news/detail/42982.shtml)
+ > 阿里最新的股权结构显示，阿里董事局主席马云持股从2018年的6.4%降至6.2%，不过仍是阿里巴巴的第一大个人股东；阿里巴巴董事局副主席蔡崇信的持股比例也由2018年的2.3%下降
+ ## [第四批科创板上会企业公布，交控科技、南微医学入围](http://www.lanjingtmt.com/news/detail/42981.shtml)
+ > 昨日晚间，上交所发布了第4次审议会议公告，将于6月17日审议南京微创医学科技股份有限公司、交控科技股份有限公司。
+ ## [中移动、华为等企业回应5G牌照发放，已做好全面商用准备](http://www.lanjingtmt.com/news/detail/42979.shtml)
+ > 今日上午，工信部正式向中国电信、中国移动、中国联通、中国广电发放5G商用牌照。对此，多家手机厂商、运营商及国外企业做出回应。
  ## [华为：全力支持中国运营商建好中国5G](http://www.lanjingtmt.com/news/detail/42978.shtml)
  > 今日，工业和信息化部正式发放5G商用牌照，华为公司对此回应：将凭借全面领先的5G能力全力支持中国运营商建好中国5G。
  ## [工信部正式向运营商发放4张5G牌照](http://www.lanjingtmt.com/news/detail/42977.shtml)
@@ -199,65 +235,45 @@ AR&#20809;&#23398;&#27169;&#32452;&#30740;&#21457;&#21830;&#8220;&#29649;&#29855
  ## [优信求助昔日抨击对象58同城，抱团突围或难如愿](http://www.lanjingtmt.com/news/detail/42975.shtml)
  > 58同城日前对外宣布，将通过购买1亿美元可转债的方式战略投资二手车电商优信。而就在半年前，两者还因为“流量劫持”一事对薄公堂。
 # 人工智能 
- ## [区块链-构造区块链头](https://blog.csdn.net/qq_40452317/article/details/90510984)
- > 区块链-构造区块链头
- ## [小猿圈python学习之编程语言排名](https://blog.csdn.net/weixin_44867000/article/details/90598077)
- > 小猿圈python学习之编程语言排名
- ## [区块链游戏开发-僵尸大战](https://blog.csdn.net/runner668/article/details/90406974)
- > 区块链游戏开发-僵尸大战
- ## [棋牌游戏开发的流程](https://blog.csdn.net/qq_43452152/article/details/90672974)
- > 棋牌游戏开发的流程
- ## [【科普】7大含金量最高的编程语言](https://blog.csdn.net/weixin_40897235/article/details/90399967)
- > 【科普】7大含金量最高的编程语言
- ## [区块链-为什么区块链是不可篡改的](https://blog.csdn.net/qq_40452317/article/details/90481350)
- > 区块链-为什么区块链是不可篡改的
- ## [【游戏开发】天龙八部小demo](https://blog.csdn.net/qq_23996157/article/details/90109265)
- > 【游戏开发】天龙八部小demo
- ## [《小岛区块链》之区块链起源](https://blog.csdn.net/weixin_44693781/article/details/90375396)
- > 《小岛区块链》之区块链起源
- ## [区块链学习笔记（1）--区块链的工作原理part1](https://blog.csdn.net/weixin_44826484/article/details/90415284)
- > 区块链学习笔记（1）--区块链的工作原理part1
- ## [Python游戏开发：pygame游戏开发常用数据结构](https://blog.csdn.net/qq_40925239/article/details/90382463)
- > Python游戏开发：pygame游戏开发常用数据结构
- ## [游戏开发入门系列（目录）第二章第一节](https://blog.csdn.net/BoyInC0de/article/details/90083323)
- > 游戏开发入门系列（目录）第二章第一节
- ## [【编程语言】Java 迭代器](https://blog.csdn.net/qq83833224/article/details/89922524)
- > 【编程语言】Java 迭代器
- ## [区块链之我见](https://blog.csdn.net/u013755520/article/details/90373262)
- > 区块链之我见
- ## [金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点](https://blog.csdn.net/IFTNews/article/details/90767019)
- > 金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点
- ## [轻松学习区块链4 - 区块链浏览器与人机交互](https://blog.csdn.net/wanghao72214/article/details/90349561)
- > 轻松学习区块链4 - 区块链浏览器与人机交互
+ ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
+ > 运维进阶-----NFS网络文件系统
+ ## [运维资料之反向代理](https://blog.csdn.net/sky6even/article/details/90511597)
+ > 运维资料之反向代理
+ ## [运维无小事，小事不运维](https://blog.csdn.net/TM6zNf87MDG7Bo/article/details/90359748)
+ > 运维无小事，小事不运维
+ ## [运维葵花宝典](https://blog.csdn.net/kehana/article/details/90765448)
+ > 运维葵花宝典
+ ## [2019CSF程序人生](https://blog.csdn.net/qq_43365658/article/details/90110499)
+ > 2019CSF程序人生
+ ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
+ > \[Linux\]运维面试(一)
+ ## [前端技术选型](https://blog.csdn.net/wangjunqiang06/article/details/90444708)
+ > 前端技术选型
+ ## [前端基础之css动画](https://blog.csdn.net/qianduanshuo/article/details/90114809)
+ > 前端基础之css动画
+ ## [ajax接口返回图片类型数据，转为base64赋值给img](https://blog.csdn.net/u012193330/article/details/89331398)
+ > ajax接口返回图片类型数据，转为base64赋值给img
+ ## [MySql window安装运维](https://blog.csdn.net/zzhuan_1/article/details/90404378)
+ > MySql window安装运维
+ ## [程序人生思考之协同](https://blog.csdn.net/soliy/article/details/90550301)
+ > 程序人生思考之协同
+ ## [前端零基础快速入门JavaScript](https://blog.csdn.net/ITFENGHUOLUN/article/details/90347756)
+ > 前端零基础快速入门JavaScript
+ ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
+ > 程序人生：“自学Python，如何拿下了月薪15k的工作
+ ## [前端监控系统](https://blog.csdn.net/wanshaobo888/article/details/89966957)
+ > 前端监控系统
+ ## [技术之前端 一](https://blog.csdn.net/King1314java/article/details/90746989)
+ > 技术之前端 一
 # PM 
- ## [社交网络的二次编织](http://www.woshipm.com/it/2429928.html)
- > 本文想讨论的是，如果关系链已经无可动摇，那么社交网络是否还有被重构的可能？在暗中觊觎这块蛋糕、有潜力突出重围的，是否真的只有其他同类竞品？19 年初 Twitter ...
- ## [互联网运营终极三问](http://www.woshipm.com/operate/2428716.html)
- > 互联网运营的“终极三问”：互联网运营是什么？从哪里来？往何处去？如果身为运营，相信你也一定疑惑过这三个问题。哲学上有经典的人生终极三问：我是谁？我从哪里来？...
- ## [调研了100多家公司后，我发现大多数公司存在这4大误区](http://www.woshipm.com/it/2428330.html)
- > 要想运作出一个高绩效的团队，就一定要做好团队管理。笔者认为，可以以员工管理和管理者的能力要求为切入点展开分析。马云说：我宁愿选择一流的团队和三流的方案，也...
- ## [Hi，你的产品经得起推敲吗？](http://www.woshipm.com/pd/2421063.html)
- > 如何打造经得起推敲的好产品，可以围绕但不限于以下几个问题去剖析：产品立项时期如何去规划好一款产品？对于一款产品优与劣又如何去客观地评判？瓶颈期，产品的突破点...
- ## [增长之前，请先做好业务底线](http://www.woshipm.com/operate/2423809.html)
- > 拥有了成长底线，就意味着一家公司拥有了别的公司没有的优势。这些优势包括： 拥有稳健成长的业务基础，具备一定的定价权，有多业务扩张的选择。一、成长底线：你的增...
- ## [案例分析：新氧App的增长之路](http://www.woshipm.com/operate/2425914.html)
- > 从「谈整容色变」到「医美潮流」，「颜值经济」带动了整个医美行业的发展。本文就来一层一层拆解了新氧的用户增长模式，分析新氧 APP 的增长之路。在这个「颜值经济」...
- ## [“野路子”运营那些事](http://www.woshipm.com/operate/2428069.html)
- > 随着流量平台的越来越集中，呈现寡头化的趋势；而大部分从业者所在的公司都属于中小公司，获取流量变得越来越难，此次与大家一起分享一些野路子运营的方式方法，旨在一...
- ## [面试题，你期望的薪资是多少？](http://www.chanpin100.com/article/108622)
- > 如何知道自己的合适薪资是多少？
- ## [短视频迎来明星“霸榜”时代，好事还是坏事？](http://www.chanpin100.com/article/108621)
- > 一时间曾与短视频不怎么搭调的明星们，成为了各大平台争抢的“宝贝”。
- ## [未来三十年新的商业逻辑是什么？](http://www.chanpin100.com/article/108620)
- > 移动互联网时代，判断一项创新成果能否转化成企业收益的标准有四项：痛点、刚需、高频、利基。是否能满足用户需求的痛点之处？
- ## [苹果WWDC19：这次真的一点也不水！](http://www.chanpin100.com/article/108619)
- > 此次苹果开发者大会全称长达两个半小时，其带来的内容大大超出预期。
- ## [APP渠道推广:如何高效地做渠道评估?](http://www.chanpin100.com/article/108615)
- > 互联网下半场，App拉新获客的表现是：显性成本持续走高、异常渠道和虚假流量拉高了隐形成本。喜马拉雅构建了实时的渠道投放监控体系：识别异常渠道、虚假流量，并自动监测报警直观展示详情，为管理层和运营团队提供了及时的决策支持，同时形成投放策略迭代优化的闭环。在实践中累计节约数百万元的渠道投放成本，促进渠道
- ## [定位很重要，但是没东西做怎么办？](http://www.chanpin100.com/article/108614)
- > 这是一篇关于运营小白实操公众号定位的内容分享
- ## [618在即，电商平台如何利用大数据的力量赋能营销转化](http://www.chanpin100.com/article/108613)
- > 电商+大数据，赋能618营销转化，这是什么神仙操作！
+ ## [Mob研究院|2019汽车分时租赁行业洞察](http://www.chanpin100.com/article/108628)
+ > 大数据告诉你，重庆才是真正的“共享汽车之都”
+ ## [极光大数据：脚踏AJ和Yeezy的，是一帮怎样的潮人？](http://www.chanpin100.com/article/108625)
+ > 优衣库KAWS联名款被疯抢，AJ中签率低得可怜。潮牌翻涌，谁在逐浪？
+ ## [2019年必看最新创意手机聊天界面设计](http://www.chanpin100.com/article/108624)
+ > 如何怎样才能设计出美观，炫酷又实用的聊天界面或板块呢？下面小编为大家展示并解析12款最新且极具创意的手机端聊天界面设计，希望能够对朋友们有所帮助。
+ ## [上架3.4W+！苹果算法大调整、全面封杀P2P小额贷产品|5月数据报告](http://www.chanpin100.com/article/108623)
+ > 5月审核下架力度减轻，上架应用量达2019至今最高。
  ## [营销观察 | 卖奶茶的大白兔，和买回忆的年轻人们](http://www.pmtoo.com/article/74721.html)
  > 如果要问有哪家奶茶店比喜茶还要火，答案只可能是大白兔奶茶店，尤其是在六一儿童节这一天——起码这是黄牛心中的答案。奶...
 
