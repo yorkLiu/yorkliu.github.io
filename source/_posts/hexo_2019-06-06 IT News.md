@@ -1,60 +1,62 @@
 ---
 title: 2019-06-06 IT News
 copyright: true
-date: 2019-06-06 08:01:12
+date: 2019-06-06 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智能制造大趋所势，工厂企业该如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1559779204&ver=1651&signature=nvIXCFCDSE07jFkZhivxJ5faMuMkGnYugq2PPpu-2810FMK24cNSAs2hCGQUEV29FVdY5HPG93c2wUh1G3NVht0hN0*xGfpA54dDHxHM0bBd0m8I04RRuNmQfFHRGF7e&new=1)
- > 未来，物联网将给制造业带来巨大的价值，潜在价值可能会达数十万亿美元。据估计，在未来五年内以每年6％的速度增长，市场到2020年将接近700亿美元。巨大的应用场景包括汽车和运输、采矿、电子、化工、制药、石油...
- ## [传明天要发5G商用牌照 电信移动联通亟需冷静思考三大尴尬](http://mp.weixin.qq.com/s?src=11&timestamp=1559779204&ver=1651&signature=rRCalgA0XGqxX8SyuXUyfCRCS8zpZHvtBGaF3DkNNijbjIT6ZC-NwbHG1cilb0T0lMyXMsNXuXGpvlfPtvXSqnYAbYz0f61JDinLwB-ljkOGS-EvE0QfOUXRdTV6HOIr&new=1)
+ ## [传明天要发5G商用牌照 电信移动联通亟需冷静思考三大尴尬](http://mp.weixin.qq.com/s?src=11&timestamp=1559782805&ver=1651&signature=rRCalgA0XGqxX8SyuXUyfCRCS8zpZHvtBGaF3DkNNihWn0rv4Cf1nyNT4kHWMX5-oKYI0tXfyoONH6kE*hjkyMGLKiaEcMdAYkzsr-pjbfh-uDdnbwf537JyzVlUdrPC&new=1)
  > 运营商财经网  康钊 /文有关“中国将发放5G商用牌照”的说法已尘嚣日上，甚至传言端午节前最后一天发放，但奇怪的是，此次5G牌照发放并没有在三大运营商系统内形成强烈话题，甚至在运营商内部还不如端午节促销令...
- ## [京东开启全国23座“亚洲一号”智能物流园区](http://mp.weixin.qq.com/s?src=11&timestamp=1559779204&ver=1651&signature=TGQ*qDMpQI-2Tmlu77Yo1V*qLFAC2SY4sykzgPVdSgnyAiQB5*t5CagZxf4kf4B31xiImwSqTmdzYHGdlmRx*HapE-Qi4es2Xj9sNU77rPMSpa3esNzVcFKjhv9uRaqU&new=1)
- > 今年618全球购物节期间，京东物流启用亚洲电商物流领域规模最大的智能物流仓群，全国23座“亚洲一号”智能物流园区已投入运营。至此，京东物流智能物流园区建设已经形成了以北京、上海、广州、成都、武汉、沈阳...
- ## [5G 中国速度!](http://mp.weixin.qq.com/s?src=11&timestamp=1559779204&ver=1651&signature=t5UqVDSGM2u6mIszwR9oYb-8K1JQIXz9XbPijrJ52bOB6WpewG57CRSiGjgarN3tKqHY8LUSKk3KwgfhlFzCYlH8zEdkG*lh8EGGHBdb2kCLrL4GlfQcgdcJABbJJ6RH&new=1)
+ ## [5G 中国速度!](http://mp.weixin.qq.com/s?src=11&timestamp=1559782805&ver=1651&signature=t5UqVDSGM2u6mIszwR9oYb-8K1JQIXz9XbPijrJ52bN*vPIyQDZK1VLotyeCu3XmAYU7cBCE2oQLOmSNVd-sDthydwc1u*R9EuRp-KpANDGTSaxLOTPqu6NY5zXrS1Nl&new=1)
  > 5G速率有多快？伴随全球各地5G商用一波网友测速行动也来了4G和5G对比测试但要说最火的可能是最近在网络爆红的一段《5G 中国速度！》测速视频...该5G试验网测速达到了1.3Gbps可以秒下一部高清电影网友们直呼中国5...
+ ## [京东开启全国23座“亚洲一号”智能物流园区](http://mp.weixin.qq.com/s?src=11&timestamp=1559782805&ver=1651&signature=TGQ*qDMpQI-2Tmlu77Yo1V*qLFAC2SY4sykzgPVdSgkqSlMJrp9LRkgnIP*AqovKGL3c*K*5S24YVLMcaWRzlGC5tZ1ux26yzyJQ8ostUEqh8Axaft53GgTGsdvfEKio&new=1)
+ > 今年618全球购物节期间，京东物流启用亚洲电商物流领域规模最大的智能物流仓群，全国23座“亚洲一号”智能物流园区已投入运营。至此，京东物流智能物流园区建设已经形成了以北京、上海、广州、成都、武汉、沈阳...
+ ## [智能制造大趋所势，工厂企业该如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1559782805&ver=1651&signature=nvIXCFCDSE07jFkZhivxJ5faMuMkGnYugq2PPpu-280qVEYzk5m7FmMOZn57SZ7kg2dYk0RhvWm9QB10lseRXXILC9V*xPnkYTf*cbarGQcZD9ube627FC6wh1WZtm9q&new=1)
+ > 未来，物联网将给制造业带来巨大的价值，潜在价值可能会达数十万亿美元。据估计，在未来五年内以每年6％的速度增长，市场到2020年将接近700亿美元。巨大的应用场景包括汽车和运输、采矿、电子、化工、制药、石油...
  ## [《盛势》和《上瘾》多方面比较，哪个更胜一筹？](https://www.zhihu.com/question/55701279)
  > 上瘾结束之后，黄景瑜许魏洲空降娱乐圈黄景瑜当时人气压过帝国三子和四大流量许魏洲比黄景瑜差点但是也没差多少接着两人被封杀但是， 即使如此 ，黄景瑜许魏洲依旧是杀出一条血路来， 黄景瑜靠红海行动， 许魏洲靠专...
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 我想，既然你们是做软件工程开发相关的工作，那么选择drupal比较好。drupal的扩展性比较好，又稳定，权限管理功能很强大，用户管理也很好用。module很多，基本上可以做成任何类型的网站。views可以做出任何你想要的页...
+ ## [脱粉pg one是怎样一种体验？](https://www.zhihu.com/question/66758494)
+ > 今天彻底say拜拜了，有嘻哈开始喜欢的，舞台真炫酷，台风真好，关注之后觉得私下还挺可爱的，后面一系列的事情都有关注，始终没说过谁对谁错，毕竟我也不了解真相，凉了之后背着我那些讨厌他的朋友们也在偷偷关注，一...
  ## [如何评价米兔指尖积木？](https://www.zhihu.com/question/68272173)
  > 手里有若干米兔积木，机器人的，非智能的，磁力的，不算全，但也够多了。可以聊聊。这两款我手里都有，履带机甲相当好玩，感兴趣的可以看我的视频+长篇图文评测，里面讲的很详细。大部分米兔玩家是被米兔第一代积木机...
+ ## [“互联网+公益”如何监管？网络众筹如何取得大众的信任？](https://www.zhihu.com/question/33695301)
+ > 人人优益，是一家公益捐建+互联网+商业联盟的一体化平台。 我们通过商业联盟+互联网，和消费者一起捐赠爱心，将积极地为中国公益事业建设发展，公益事业全民参与、全民受益的长久目标，贡献智慧并持续努力、不断付出...
+ ## [今年（2019）各大互联网公司的粽子礼盒都是啥样的（员工福利）?](https://www.zhihu.com/question/327711354)
+ > 来了来了。今年看山粽子的介绍在这里刘看山福利社：舌尖上的江湖 | 端午粽子礼盒白米、蜜枣、豆沙、蛋黄鲜肉、栗子肉、五谷杂粮。六种口味，可甜可盐。从这里买【5月31日发货】知乎刘看山 端午节粽子礼盒长这样（出处...
  ## [如何防止自己被人肉搜索到？](https://www.zhihu.com/question/48691691)
  > 国内人肉搜索的先河，应当属2006年初天涯社区对网红鼻祖“毒药”的调查，“神秘的红色背景、大手笔的开销、独特的品位、艺术化的生活方式、才貌兼具等”是当年网络对“毒药”的综合评价。“毒药”在网络上爆红之后，...
  ## [Semantic UI 怎么开始？](https://www.zhihu.com/question/34698183)
  > 如果不是深入学习，这个不建议用，虽然拷贝例子拷贝即可上，但是相对于传统前端编程，差别蛮多的。
+ ## [有没有一些融资租赁公司可以做二手车的售后回租呢？](https://www.zhihu.com/question/269074884)
+ > 2018.3.23更新，多谢各位打脸，赞数居然过十了。。。鉴于题主补充了问题描述，在评论区也进行了提问，具体的回复请诸位移步评论区了解。以下为原答案：谢邀，最喜欢回答专业对口的问题。先说一下融资租赁公司“绕过”...
  ## [5G 网络能带动物联网的发展么？](https://www.zhihu.com/question/308778542)
  > 物联网设备分为很多种。从标准制定和现存消息来看，预计2019年底冻结的3GPP Release16（第一个完全达到ITU指标的5G标准，现在可能会延期）不会对现存的低功耗广域IoT（Internet of Things，物联网）带来...
+ ## [民宿如何推广，或者找到服务供应商。？](https://www.zhihu.com/question/52990939)
+ > 民宿不如连锁酒店品牌，能够有品牌效应，客户自主选择，所以获客成本很重要。除了入驻OTA等销售平台，靠社媒平台带量也是重要的推广方式。小红书，抖音，马蜂窝都是民宿适合的平台，如果内容做的好，能达到以很小...
  ## [Twitter 推出的 DNT 功能是否是形同虚设？](https://www.zhihu.com/question/21310723)
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
- ## [2019年有什么新的创业机会？](https://www.zhihu.com/question/312702679)
- > 2019，是一个值得纪念的一年。即将迈入5G移动互联网时代，恰恰给草根们提供了无数的创业机会，即使宅在家里也能致富。下面整理了14类，69个赚钱套路！！！每一个都和网络紧紧挂钩，而且很多项目的成本就是一部手机或...
  ## [既然有文件后缀名,为何还需要MIME类型?](https://www.zhihu.com/question/60495696)
  > 问题来了：.ts 既可以是 TypeScript 源码也可以是 MPEG-TS 视频，那浏览器看到这个之后该怎么反应呢？
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
  ## [如何看待林思吾“台湾是人，中国是狼”的言论？](https://www.zhihu.com/question/38761696)
  > 笑死了台灣一堆草莓兵，民進黨還天天攻擊國軍，令國軍有更多的&quot;人權&quot;居然說他們是想讓台灣成為好而獨立的國家台灣人民的邏輯我果然不懂!!!
- ## [有没有人了解熊猫主播药水哥现实中是什么样的人？](https://www.zhihu.com/question/265546221)
- > 药水哥私下里应该是个正常人，我看过几次他以往的录像，私下应该是个挺老实的人。也很有礼貌，可能内在性格是个有点不正经的人个人经常看药水的直播，因为我的内在性格算是没那么正经，但是我三观非常正，看药水是因...
- ## [美国科技公司是如何处理“不能拼搏、不努力、性价比低的”员工的？](https://www.zhihu.com/question/319489533)
- > 在谷歌经历了几次“绩效考核”后来强答下。首先，和很多公司一样，有绩效考核，从低到高有5个级别。由一个委员会给评分，根据员工等级不同，自己直属老板的话语权在评分中会有所不同。我最喜欢的一个点是，因为老板对...
+ ## [机械行业想转行IT互联网行业，大家有什么好的建议？](https://www.zhihu.com/question/25742003)
+ > 91年机械工程专科毕业的汉子，曾短暂地在机械行业干过，狠狠地被这个社会历练了一段时间后转行互联网，现在的公司做的是零食电商业务，岗位范畴属于互联网运营。放弃机械的时候超级纠结，因为放弃了也不知道能做什么...
  ## [为什么很多产品经理都不愿意做后台？](https://www.zhihu.com/question/39362334)
  > 后台产品经理以我自己经历的项目和身边同行朋友的经验，项目的产品leader都是在全部或部分职业生涯中做过后台产品的；直白的来说，同样的工作经验，后台pm的工资是同样优秀的前台pm的1.5倍以上。自己刚毕业时做过一年...
  ## [请虎扑的网友评价一下，知乎与虎扑的差异在哪里？](https://www.zhihu.com/question/21824189)
  > 虎扑只是一个体育论坛，跟综合社区知乎没有什么可比性，我用虎扑十年多，知乎刚运营的时候我就应朋友邀请注册了，所以两个社区都挺熟的。说这些不是摆资历和讲废话，只是很多骄傲的虎扑用户总是在我说虎扑不好的地方...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [什么叫用户的痛点？具体例子有哪些？](https://www.zhihu.com/question/21155472)
  > 痛点是什么？痛点就是用户的恐惧。是用户害怕的，想主动寻求解决方法的地方。很多人理解错了痛点，以为痛点就是不舒服，不满意。那还要看这个不满意有多大，会不会让他恐惧。能构成恐惧的，才是痛点。我讲一个反面例...
  ## [毕业一年，裸辞已经两个月了，到底继续找喜欢/合适的工作，还是随便找个工作过度下？](https://www.zhihu.com/question/324318124)
  > 先说说随便找一份工作，你可能会面临的几个后果：不喜欢这份工作，无法投入激情，就此混日子；对工作不满意，干了几个月又换，恶性循环；钱没赚到，年龄越来越大，换行越来越难，然后开始承认自己的平庸......事实上...
  ## [如何评价小红书？](https://www.zhihu.com/question/305033283)
  > 小红书简直魔幻极了。有人大三做编剧一部网剧赚10万，编剧们看了大概要哭了。这还不是她人生的巅峰，她随后又去金融公司做了总经理助理，月入2万，看到这里学金融的朋友也开始哭了。有人洗个澡就变白，敷个面膜就变白...
- ## [佳能的EOS-1D X Mark II 算是什么价格得单反相机呐？](https://www.zhihu.com/question/327610626)
- > 顶级的135单反相机。这台顶级单反，重量是6D II等入门全幅相机的两倍，价格最贵。连拍视频在这里：佳能网站的介绍是：记录被刷新的瞬间，胜败在此一举之时，体育赛事中精彩的铭刻只在刹那。严酷的自然环境中繁衍生...
 # IT 技术 
+ ## [机器学习算法在IDS中的应用](http://ai.51cto.com/art/201906/597463.htm)
+ > 机器学习算法在IDS中的应用
  ## [刚刚，微信出现大面积Bug！网友吓出一身汗](http://news.51cto.com/art/201906/597533.htm)
  > 刚刚，微信出现大面积Bug！网友吓出一身汗
  ## [仅需3分钟，你就能明白Kafka的工作原理](http://os.51cto.com/art/201906/597480.htm)
@@ -69,38 +71,52 @@ categories: IT NEWS
  > 英特尔的NUC计算元件与Raspberry Pi计算模块：孰优孰劣？
  ## [一文了解苹果WWDC 2019发布的开发者工具有哪些亮点](http://news.51cto.com/art/201906/597481.htm)
  > 一文了解苹果WWDC 2019发布的开发者工具有哪些亮点
- ## [打击网络犯罪在行动：近期7起大获全胜的网络犯罪取缔活动](http://netsecurity.51cto.com/art/201906/597438.htm)
- > 打击网络犯罪在行动：近期7起大获全胜的网络犯罪取缔活动
- ## [增量编码器资讯大全](https://blog.csdn.net/kindele/article/details/90604826)
- > 增量编码器资讯大全
- ## [三大金融文本语料(工商,新闻,资讯) - NLP语料](https://blog.csdn.net/weixin_40473141/article/details/90673105)
- > 三大金融文本语料(工商,新闻,资讯) - NLP语料
- ## [2D游戏开发 - SkyGameEngine2d坐标系](https://blog.csdn.net/qq_33775402/article/details/90643490)
- > 2D游戏开发 - SkyGameEngine2d坐标系
- ## [c winform 音视频 文件传输](https://blog.csdn.net/zhengzujoe/article/details/90446556)
- > c winform 音视频 文件传输
- ## [音视频学习笔记-OpenGL概念理解](https://blog.csdn.net/shengpeng3344/article/details/90664940)
- > 音视频学习笔记-OpenGL概念理解
- ## [社区资讯 | Apache Flink 中文社区网站 Ververica 正式发布](https://blog.csdn.net/weixin_44904816/article/details/90298290)
- > 社区资讯 | Apache Flink 中文社区网站 Ververica 正式发布
- ## [进退博弈：恒指6.4号早盘资讯及建议](https://blog.csdn.net/L659292998/article/details/90762939)
- > 进退博弈：恒指6.4号早盘资讯及建议
- ## [串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出](https://blog.csdn.net/One_Month/article/details/90765636)
- > 串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出
- ## [Python100天打卡-Day10-图形用户界面和游戏开发](https://blog.csdn.net/wxl1999/article/details/90300899)
- > Python100天打卡-Day10-图形用户界面和游戏开发
- ## [麻将游戏开发如何适应市场 可持续发展](https://blog.csdn.net/motianyougame/article/details/90445631)
- > 麻将游戏开发如何适应市场 可持续发展
- ## [iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出](https://blog.csdn.net/weixin_42433480/article/details/90109873)
- > iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出
- ## [【音视频】3.视频编码格式对比](https://blog.csdn.net/qq_30124547/article/details/90613472)
- > 【音视频】3.视频编码格式对比
- ## [手机语音转文字功能怎么样？掌握后效率翻几倍](https://blog.csdn.net/wdy19980121/article/details/89680767)
- > 手机语音转文字功能怎么样？掌握后效率翻几倍
- ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
- > 【音视频】1.音视频基本概念
- ## [前端JavaScript入门——JavaScript变量和操作元素](https://blog.csdn.net/ITFENGHUOLUN/article/details/90759630)
- > 前端JavaScript入门——JavaScript变量和操作元素
+ ## [使用Testinfra和Ansible验证服务器状态](http://os.51cto.com/art/201906/597541.htm)
+ > Testinfra 是一个功能强大的库，可用于编写测试来验证基础设施的状态。另外它与 Ansible 和 Nagios 相结合
+ ## [这三个技巧，让你的代码可读性提高300%](http://developer.51cto.com/art/201906/597540.htm)
+ > 注意!注意!想要作为优秀的程序员必须遵守一些不成文的规定。本文不是在讨论算法、数据结构、软件架构和程序
+ ## [安全杂谈丨5G离我们还有多远？](http://network.51cto.com/art/201906/597537.htm)
+ > 不久前，来自全球多国政府的安全官员就未来5G网络的一系列提议达成一致，强调了对供应商提供的设备可能受
+ ## [谁来保护共享的物联网数据？](http://iot.51cto.com/art/201906/597538.htm)
+ > 当公司决定如何更好地应对物联网数据带来的安全风险这一挑战时，他们不得不面临这样一个问题：谁负责保护越
+ ## [区块链到底是不是骗局？](http://blockchain.51cto.com/art/201906/597539.htm)
+ > 这个问题从我刚接触区块链行业开始到现在，一直存在。受制于区块链本身是个不太好懂的东西，所以即使你看过
+ ## [那些陷入数据泄露门的公司，最后怎么样了？](http://netsecurity.51cto.com/art/201906/597536.htm)
+ > 无论哪个行业大部分企业、机构在运营过程中都涉及到一些敏感数据比如PII个人身份信息。这些信息如果未得到
+ ## [物联网将创造社区，而不是国王](http://iot.51cto.com/art/201906/597535.htm)
+ > 品牌忠诚度是否足以决定市场的方向呢?出于对安全性和互操作性的担忧，物联网面临着一个不确定的未来，一个
+ ## [毫米波之殇 让5G陷入尴尬](http://network.51cto.com/art/201906/597534.htm)
+ > 为什么在4G时代全面领先的美国，在5G时代如此焦虑，其实源自于5G频段选用。美国主要专注毫米波的部署，但毫
+ ## [AR、VR、云计算、大数据、区块链、AI编程技术选择和区分](https://blog.csdn.net/aa541505/article/details/90348567)
+ > AR、VR、云计算、大数据、区块链、AI编程技术选择和区分
+ ## [\[Cmake-Android音视频\]创建支持ffmpeg3.4的项目](https://blog.csdn.net/adolph_lu/article/details/90477243)
+ > \[Cmake-Android音视频\]创建支持ffmpeg3.4的项目
+ ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
+ > 【云计算】云计算的前世今生
+ ## [\[Cmake-Android音视频\]ffmpeg3.4实现解封装](https://blog.csdn.net/adolph_lu/article/details/90708620)
+ > \[Cmake-Android音视频\]ffmpeg3.4实现解封装
+ ## [ajax接口返回图片类型数据，转为base64赋值给img](https://blog.csdn.net/u012193330/article/details/89331398)
+ > ajax接口返回图片类型数据，转为base64赋值给img
+ ## [云计算，大数据，人工智能本质和概念](https://blog.csdn.net/qq_38459998/article/details/90372546)
+ > 云计算，大数据，人工智能本质和概念
+ ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
+ > 前端 之 HTML
+ ## [云计算、大数据和物联网未来三者之间区别和联系？](https://blog.csdn.net/yyu000001/article/details/90547938)
+ > 云计算、大数据和物联网未来三者之间区别和联系？
+ ## [前端有关面试题](https://blog.csdn.net/dtbk123/article/details/89928170)
+ > 前端有关面试题
+ ## [前端技术选型](https://blog.csdn.net/wangjunqiang06/article/details/90444708)
+ > 前端技术选型
+ ## [前端Vue基础学习](https://blog.csdn.net/marendu/article/details/90400553)
+ > 前端Vue基础学习
+ ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
+ > python3下载抖音视频
+ ## [概念普及-云计算 大数据 Hadoop BI](https://blog.csdn.net/lijing742180/article/details/90410886)
+ > 概念普及-云计算 大数据 Hadoop BI
+ ## [云计算开发教程，云计算能干什么？](https://blog.csdn.net/qfxulei/article/details/90485168)
+ > 云计算开发教程，云计算能干什么？
+ ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
+ > 音视频技术开发周刊 94期
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [华为否认削减手机产量；百度副总裁郑子斌将离职；开发者对苹果发集体诉讼 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/90898471)
@@ -109,39 +125,43 @@ categories: IT NEWS
  > 作者 | 小谦编辑 | 郭芮上月底，印度短视频社区产品VMate获得阿里巴巴1亿美元投资，与钉钉、天猫精灵、阿里人工智能等项目一同归入阿里巴巴创新业务事业群。在国内短视频市场被抖音、快手瓜分殆尽的情况下，各巨头纷纷将目光投向印度，期待着印度能成为下一个中国，为提前入场的企业提供丰厚的营...
  ## [百面机器学习！算法工程师面试宝典！](https://blog.csdn.net/csdnnews/article/details/90898629)
  > 本文部分内容经授权节选自《百面机器学习》责编 | 胡巍巍去年年底到今年年初，整个互联网圈，都笼罩着裁员的阴霾。以至于很多程序员，都不敢看新闻了。前段时间，SOHO中国董事长潘石屹，在出席活动时，被问到怎么看待当前的这个裁员潮时表示，“未来最需要创造性的人才，能够为社会、为城市创...
- ## [​优信求助昔日抨击对象58同城，抱团突围或难如愿](http://www.lanjingtmt.com/news/detail/42973.shtml)
- > 5月29日，58同城对外宣布，将通过购买1亿美元可转债的方式战略投资二手车电商优信。除了58同城外，华平投资、TPG等优信的老投资方也继续参投，优信合计融资2.3亿美元。
+ ## [工信部正式向运营商发放5G牌照](http://www.lanjingtmt.com/news/detail/42977.shtml)
+ > 今日上午，工信部正式向中国电信、中国移动、中国联通、中国广电发放了5G商用牌照。这意味着，我国正式进入5G商用元年。
+ ## [5G牌照或将于今日发放，我国正式进入5G元年](http://www.lanjingtmt.com/news/detail/42976.shtml)
+ > 6月5日晚，人民日报发布推特称“中国将在明天6月6日授予其首批商用5G许可证”。
+ ## [优信求助昔日抨击对象58同城，抱团突围或难如愿](http://www.lanjingtmt.com/news/detail/42975.shtml)
+ > 58同城日前对外宣布，将通过购买1亿美元可转债的方式战略投资二手车电商优信。而就在半年前，两者还因为“流量劫持”一事对薄公堂。
 # 人工智能 
- ## [oracle日常运维11g](https://blog.csdn.net/weixin_43813742/article/details/90402235)
- > oracle日常运维11g
- ## [运维资料之反向代理](https://blog.csdn.net/sky6even/article/details/90511597)
- > 运维资料之反向代理
- ## [运维无小事，小事不运维](https://blog.csdn.net/TM6zNf87MDG7Bo/article/details/90359748)
- > 运维无小事，小事不运维
- ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
- > 运维进阶-----NFS网络文件系统
- ## [手机语音转文字功能怎么样？掌握后效率翻几倍](https://blog.csdn.net/wdy19980121/article/details/89680767)
- > 手机语音转文字功能怎么样？掌握后效率翻几倍
- ## [Zabbix运维监控工具](https://blog.csdn.net/Micky_Yang/article/details/90143186)
- > Zabbix运维监控工具
- ## [小白如何选择优秀的Web开发工具/IDE？](https://blog.csdn.net/ITFENGHUOLUN/article/details/90759462)
- > 小白如何选择优秀的Web开发工具/IDE？
- ## [【物联网】物联网安全---编辑中](https://blog.csdn.net/bandaoyu/article/details/90405912)
- > 【物联网】物联网安全---编辑中
- ## [【物联网】物联网数据分析与可视化](https://blog.csdn.net/lsj960922/article/details/90638536)
- > 【物联网】物联网数据分析与可视化
- ## [\[Linux\]运维面试(二)](https://blog.csdn.net/qq_44839276/article/details/90763352)
- > \[Linux\]运维面试(二)
- ## [进退博弈：恒指6.4号早盘资讯及建议](https://blog.csdn.net/L659292998/article/details/90762939)
- > 进退博弈：恒指6.4号早盘资讯及建议
- ## [物联网的4层模型](https://blog.csdn.net/wweiru/article/details/90613617)
- > 物联网的4层模型
- ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
- > \[Linux\]运维面试(一)
- ## [某公司运维岗位笔试题7](https://blog.csdn.net/xzm5708796/article/details/90116522)
- > 某公司运维岗位笔试题7
- ## [2018秋东海大学资讯工程系交换回忆](https://blog.csdn.net/qq_37486501/article/details/90520181)
- > 2018秋东海大学资讯工程系交换回忆
+ ## [FFMPEG音视频同步-音视频实时采集编码封装](https://blog.csdn.net/quange_style/article/details/90105795)
+ > FFMPEG音视频同步-音视频实时采集编码封装
+ ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
+ > 音视频技术开发周刊 94期
+ ## [java中的各种架构](https://blog.csdn.net/weixin_38911591/article/details/90298289)
+ > java中的各种架构
+ ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
+ > 关于架构的思考之一：架构的定义及目的
+ ## [iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出](https://blog.csdn.net/weixin_42433480/article/details/90109873)
+ > iOS短视频篇：音视频编辑之音视频合成，添加水印及音视频导出
+ ## [关于java架构心得](https://blog.csdn.net/rongshisuo/article/details/90757849)
+ > 关于java架构心得
+ ## [Android开发-Android应用中启动时引导页的实现](https://blog.csdn.net/fukaimei/article/details/89667584)
+ > Android开发-Android应用中启动时引导页的实现
+ ## [Android音视频 - 用OpenGL ES绘制图片](https://blog.csdn.net/weixin_43351655/article/details/90488017)
+ > Android音视频 - 用OpenGL ES绘制图片
+ ## [linux驱动开发架构](https://blog.csdn.net/mcsbary/article/details/90696849)
+ > linux驱动开发架构
+ ## [音视频基础知识（二）](https://blog.csdn.net/Viiou/article/details/90678819)
+ > 音视频基础知识（二）
+ ## [smobiler介绍（一）](https://blog.csdn.net/Smobiler/article/details/90765033)
+ > smobiler介绍（一）
+ ## [【音视频】3.视频编码格式对比](https://blog.csdn.net/qq_30124547/article/details/90613472)
+ > 【音视频】3.视频编码格式对比
+ ## [Mysql分层逻辑架构](https://blog.csdn.net/weixin_44970764/article/details/90373922)
+ > Mysql分层逻辑架构
+ ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
+ > 【音视频】1.音视频基本概念
+ ## [「其他都是抄袭」移动开发还有未来吗？](https://blog.csdn.net/DevolperFront/article/details/90679622)
+ > 「其他都是抄袭」移动开发还有未来吗？
 # PM 
  ## [面试题，你期望的薪资是多少？](http://www.chanpin100.com/article/108622)
  > 如何知道自己的合适薪资是多少？
