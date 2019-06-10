@@ -1,21 +1,23 @@
 ---
 title: 2019-06-10 IT News
 copyright: true
-date: 2019-06-10 08:01:12
+date: 2019-06-10 09:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [百度网盘为何限速?官方回复了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560124804&ver=1659&signature=n9y5Y57SqEv4d5kqbMyz1SZ16ZhBtxWaH8tmntb*h7epCzVco2j7kk2rDNjH5ZBLT3w2YGEZo8qW7Hx9V70UUguxm3HtNueDr2i2Ysr9k5UmLNcSgGdP1muUBVy4*XPb&new=1)
- > 大家晚上好，这里是玩机课堂说到百度网盘都不陌生吧，我们经常用了存储和观看学习资料，你想下载一个大文件，如果不是会员的话，速度就会被限制。。不过好在，如果文件不是很大，可以使用免费体验提速，对偶尔下...
- ## [5G有多快?这位北邮何同学的5G测试视频火了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560124804&ver=1659&signature=2Y0HKwCFx1qz64KNGxPOjNWByg285crqvIhglS4ro5ju6Bhx1dMqBemZbETAM2q7FPqFHymfl6jjdpGKVTM3ZCKPhcIRaMOWyclA*w53c4Eny5vfzDP2C7TYS0t9pNZ8&new=1)
+ ## [5G有多快?这位北邮何同学的5G测试视频火了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560128404&ver=1659&signature=2Y0HKwCFx1qz64KNGxPOjNWByg285crqvIhglS4ro5ju6Bhx1dMqBemZbETAM2q7eT*wiZXJBJcBanF1zfLwXGjENlEtqjj9NKy7IbYK51LYI0geXGyhbgecsgTOR4sd&new=1)
  > 6月6日，北京邮电大学的学生@老师好我叫何同学 发布了自己测试学校5G网络的真实体验视频火了，尤其是后面作者回顾4G时代到来前人们对4G的展望与如今4G带来的实实在在的变化的对比，展开了对5G，对未来的思考。一...
- ## [三大运营商5G进展三大对比 含终端、网络和商用放号计划](http://mp.weixin.qq.com/s?src=11&timestamp=1560124804&ver=1659&signature=B4Xl3cX3E55eTb8Zy3zstANzWE-jmV1oEUbxV6enrqogG0fRMMoXLPnOeTff42t2aJvGa28dVbjDfjM2WQkOQ9icAD5LBKt8zSkoyhhZwGt7bCshaTydOekQTyYQDMAx&new=1)
- > 运营商财经网 康钊 /文5G牌照发放后，几乎所有媒体都在报道“5G牌照已经发放,消费者能得到什么?”。运营商财经网认为这是非常荒唐的事情，表明很多媒体和消费者长期以来单纯从用户、消费者的角度考虑，长期漠视...
- ## [多家巨头实测鸿蒙系统：比安卓快60%](http://mp.weixin.qq.com/s?src=11&timestamp=1560124804&ver=1659&signature=DWJ*R6p*l*JojRWQwRLX*TYARJzoGT1On*6xBXt1Ham4ADMxDHBaq8aW*OglYyHU-Ce-sn1O-ccjwuPnBsxzui8SKip859Z*L2FVjRbIVUIx0voofr9Nde5RCMDTHPWT&new=1)
+ ## [多家巨头实测鸿蒙系统：比安卓快60%](http://mp.weixin.qq.com/s?src=11&timestamp=1560128404&ver=1659&signature=DWJ*R6p*l*JojRWQwRLX*TYARJzoGT1On*6xBXt1Ham4ADMxDHBaq8aW*OglYyHUWe2L3cW-*jfDDOtx9JV4R0o3HVTjn3PaF90s1SQW09Znt-P*YsGP8d5siBbfXuCF&new=1)
  > 来源：腾讯新闻，数码科技大爆炸众所周知，近期，华为被打压和打击的事件一直没有停止，但华为并没有坐以待毙，很快就启动了“备胎计划”给予积极的回击和反击，像保险柜里的海思“备胎芯片”、华为自研系统等也...
- ## [库克：中国封杀苹果事件不会发生丨虎牙发布全新公司级Logo\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560124804&ver=1659&signature=ygcpoOVSbcbwvoMrQNGK6Q-Uzr8h5i13mDmDrB4sY9kZ97Aehk5rhK24xRIBLqLjAMza1O*w3MMTQqBI60RPmGVKjMI2pnR0IeBeLS4Wq78Rjd8B9-3jDgnTvfHFkslA&new=1)
+ ## [三大运营商5G进展三大对比 含终端、网络和商用放号计划](http://mp.weixin.qq.com/s?src=11&timestamp=1560128404&ver=1659&signature=B4Xl3cX3E55eTb8Zy3zstANzWE-jmV1oEUbxV6enrqogG0fRMMoXLPnOeTff42t28SZ*A*NtvqHOgFkB-E0zMik4gjO7xDtVLCp9V--LJtG9yYP9gApZpwL837qcGFBz&new=1)
+ > 运营商财经网 康钊 /文5G牌照发放后，几乎所有媒体都在报道“5G牌照已经发放,消费者能得到什么?”。运营商财经网认为这是非常荒唐的事情，表明很多媒体和消费者长期以来单纯从用户、消费者的角度考虑，长期漠视...
+ ## [中国联通员工生存现状专访(这也太真实了吧!)](http://mp.weixin.qq.com/s?src=11&timestamp=1560128404&ver=1659&signature=JuGgEtxsPJmvEFkhnR5c4t*-qrNAHDlLMjjUSVWrb*unEgPMYaP8eksmT*711JtWNSWuScdLObS6IeT7UomL5-*5Jml2MeNa2UgzRwhGOJhfvXJVUwguTNWZ5TVJvrJH&new=1)
+ > 来源：乔小通、运营商段子手通信路上，一路相伴！一个有态度的圈子！官方微信号：tongxinquan_168，免费订阅中！投稿：tongxinquan168@163.com，获高额回报！
+ ## [库克：中国封杀苹果事件不会发生丨虎牙发布全新公司级Logo\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560128404&ver=1659&signature=ygcpoOVSbcbwvoMrQNGK6Q-Uzr8h5i13mDmDrB4sY9kZ97Aehk5rhK24xRIBLqLjinAX-UycVIIMMwh6PcNt3k-2LHtzfspJ58SzSkiVB*5hv*PaaFiuZT*o5YGcRDqY&new=1)
  > 6月9日 周日【Do说】编辑 | 李尧库克：中国封杀苹果事件不会发生关于近期的中美贸易摩擦，部分国外媒体担忧苹果或将在中国被封杀。对此，苹果公司CEO库克在接受媒体采访时回应此类担忧称：中方没有针对过苹果公...
+ ## [百度网盘为何限速?官方回复了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560128404&ver=1659&signature=n9y5Y57SqEv4d5kqbMyz1SZ16ZhBtxWaH8tmntb*h7epCzVco2j7kk2rDNjH5ZBLeSbr0E9NZzjDJgud127HRCsQPY6gBoD0yUouOjetHD2cTNI3jxzPfEZCZgtVn5pl&new=1)
+ > 大家晚上好，这里是玩机课堂说到百度网盘都不陌生吧，我们经常用了存储和观看学习资料，你想下载一个大文件，如果不是会员的话，速度就会被限制。。不过好在，如果文件不是很大，可以使用免费体验提速，对偶尔下...
  ## [《盛势》和《上瘾》多方面比较，哪个更胜一筹？](https://www.zhihu.com/question/55701279)
  > 上瘾结束之后，黄景瑜许魏洲空降娱乐圈黄景瑜当时人气压过帝国三子和四大流量许魏洲比黄景瑜差点但是也没差多少接着两人被封杀但是， 即使如此 ，黄景瑜许魏洲依旧是杀出一条血路来， 黄景瑜靠红海行动， 许魏洲靠专...
  ## [你遇到过什么样的探探骗局？](https://www.zhihu.com/question/285477061)
@@ -36,29 +38,33 @@ categories: IT NEWS
  > “DNT”其实是浏览器厂商推出的隐私设置，有点像宾馆房间的“请勿打扰”牌。你能说“请勿打扰”牌没用吗？当然不能。但是“请勿打扰”的确防不住贼。——————————补充——————这次twitter算是主动配合...
  ## [自媒体盈利方式？](https://www.zhihu.com/question/68694703)
  > 自煤体的盈利方式有很哪些 模式1：赚广告费在自媒体平台赚钱最简单粗暴的方法就是：通过帮助企业或个人打写文章或者做视频收取广告费。目前是大数据时代，很多大型互联网公司（百度，阿里，头条，腾讯）都在打造自己...
+ ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
+ > 总结一下大佬们回答的概要：@郑晗 量子计算、量子通信、量子传感、自旋量子器件、柔性电子器件 &amp; 可穿戴设备、拓扑材料及其应用；@谢熊猫君 脑机接口、6万字长文、从生物到人类巨灵、脑的进化、脑的价值、脑的结构、...
+ ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
+ > 吴军老师的浪潮之巅，强力推荐。这本书很有兴趣的看完了，目前正在看无论老师的文明之光
  ## [为什么传统行业几乎都用Oracle，而互联网行业几乎都不用Oracle呢?](https://www.zhihu.com/question/327831901)
  > 因为以前传统行业的企业的业务增长主要靠空白市场和低成本的人力，不以技术的进步作为业务的增长点，所以it系统只要求稳，求个能用。而互联网行业的内在逻辑则是以技术的高效率来作为支持业务增长的核心因素，想想淘...
+ ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
+ > 人很容易死。
  ## [为什么传统行业几乎都用Oracle，而互联网行业几乎都不用Oracle呢?](https://www.zhihu.com/question/327831901)
  > 因为以前传统行业的企业的业务增长主要靠空白市场和低成本的人力，不以技术的进步作为业务的增长点，所以it系统只要求稳，求个能用。而互联网行业的内在逻辑则是以技术的高效率来作为支持业务增长的核心因素，想想淘...
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
  ## [淘宝一个月赚5000有多难？](https://www.zhihu.com/question/281142654)
  > 还是很简单的，本文手把手教你7天出单月赚5000—20000的方法！赚钱一定要专注，专注应该是集中精力做一个产品，就像开淘宝只卖一个产品；集中精力做一个事情，就像做自媒体，先只做一个平台，每天只研究文章结构，只...
- ## [如何评价花呗、天猫分期、京东白条、苏宁易购零钱贷这几款互联网消费金融产品？这类产品的发展趋势如何？](https://www.zhihu.com/question/27968678)
- > 此题可答几句。我本科毕业论文是《电商供应链金融设计研究》。且曾在国内某领先P2P金融公司实习过。乍看上去和题目没什么关系，而且我对题主问的这几款（花呗、天猫分期、京东白条、苏宁易购零钱贷）电商平台推出的...
+ ## [阿里投资饿了么后，未来外卖市场是否有可能进一步合并，最终形成一家独大？](https://www.zhihu.com/question/42329432)
+ > 如果阿里真的给饿了么投资 10 亿美元，会发生什么？最近一段时间，整个 O2O 外卖市场有些「不平静」，先是百度外卖「卖身」，然后美团点评的「招黑体质」又引来了接二连三的负面，现在阿里投资饿了么的传闻更是满天...
+ ## [2019年6月6日，百度的中文网址开始显示为丰臣秀吉，作为一个中国公司为什么会注册这样一个中文域名？](https://www.zhihu.com/question/328231481)
+ > 这个问题提得连百度知道的水平都不如，一瞬间让我觉得有人搞了个假的知乎。丰臣秀吉.网址whois信息-丰臣秀吉.网址域名信息-新网域名：丰臣秀吉.网址注册商：Knet Registrar Co.,Ltd首先，通过域名信息查询可知，...
  ## [作为产品经理，有必要考各种证书吗？比如：pmp，npdp。证书对薪资有影响吗？](https://www.zhihu.com/question/64549065)
  > 对薪资有没有影响具体看公司了，说实在的，公司更重视你具体都做过哪些项目，有没有实战经验，证书的意义是为了证明能力，但不管什么证书，都是有胜于无的。但是对面试的的确确是有一定影响的，不管是去面试产品经理...
- ## [相比美帝的亚当警报、安珀警戒，国内有没有类似的儿童走失警报及寻找机制？](https://www.zhihu.com/question/26019791)
- > 据我所知，国内的儿童防侵害专家张永将发起的CCSER团队正在做这个工作，上次听了他的讲座，很受益。微信与中社儿童安全科技基金、腾讯公益联合发布“中国儿童失踪预警平台（CCSER）”，本质上这是一个微信...
- ## [请虎扑的网友评价一下，知乎与虎扑的差异在哪里？](https://www.zhihu.com/question/21824189)
- > 虎扑只是一个体育论坛，跟综合社区知乎没有什么可比性，我用虎扑十年多，知乎刚运营的时候我就应朋友邀请注册了，所以两个社区都挺熟的。说这些不是摆资历和讲废话，只是很多骄傲的虎扑用户总是在我说虎扑不好的地方...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
- ## [天猫超市的东西那么贵，为什么大家会说便宜？](https://www.zhihu.com/question/51189748)
- > 必看！打开新世界的大门，满满干货，全面剖析天猫超市正确玩法！！为什么要说我的猫超贵！明明一点都不贵好吗！！便宜到哭啦先放几张我家的实拍图⑧，再来给大家慢慢解析下猫超，让你从此以后购物不在被坑。篇幅有限...
 # IT 技术 
+ ## [看一眼就能懂的“分布式锁”原理](http://developer.51cto.com/art/201906/597620.htm)
+ > 看一眼就能懂的“分布式锁”原理
  ## [屏幕里凛冬将至，现实中遗迹失火，潜藏的黑产闻声而动](http://zhuanlan.51cto.com/art/201906/597613.htm)
  > 屏幕里凛冬将至，现实中遗迹失火，潜藏的黑产闻声而动
+ ## [拖慢移动应用的三大原因](http://mobile.51cto.com/design-597606.htm)
+ > 拖慢移动应用的三大原因
  ## [医生正在利用深度学习算法帮助患者治疗癌症](http://ai.51cto.com/art/201906/597600.htm)
  > 医生正在利用深度学习算法帮助患者治疗癌症
  ## [影响数据中心正常运行时间的四种网络攻击](http://netsecurity.51cto.com/art/201906/597544.htm)
@@ -69,10 +75,12 @@ categories: IT NEWS
  > 吃透这篇，你也能搭建出一个高并发和高性能的系统
  ## [新手必读！如何入手卷积神经网络](http://zhuanlan.51cto.com/art/201906/597542.htm)
  > 新手必读！如何入手卷积神经网络
- ## [码妞：领导让我重构代码，怎么办？](http://developer.51cto.com/art/201906/597560.htm)
- > 码妞：领导让我重构代码，怎么办？
- ## [机器学习算法在IDS中的应用](http://ai.51cto.com/art/201906/597463.htm)
- > 机器学习算法在IDS中的应用
+ ## [5 个 Linux 新手会犯的失误](http://os.51cto.com/art/201906/597633.htm)
+ > 终身学习是明智的 ―― 它可以让你的思维敏捷，让你在就业市场上更具竞争力。但是有些技能比其他技能更难学
+ ## [5G牌照发了，然后咋办？](http://network.51cto.com/art/201906/597632.htm)
+ > 熟悉通信行业的人都知道，牌照的发放，往往都会选择在一个重要的有意义的日子。例如，上半年发牌照的最佳节
+ ## [如何在Linux上识别同样内容的文件](http://os.51cto.com/art/201906/597631.htm)
+ > 有时文件副本相当于对硬盘空间的巨大浪费，并会在你想要更新文件时造成困扰。以下是用来识别这些文件的六个
  ## [Python中的十大图像处理工具](http://zhuanlan.51cto.com/art/201906/597624.htm)
  > Python之成为图像处理任务的最佳选择，是因为这一科学编程语言日益普及，并且其自身免费提供许多最先进的图
  ## [物联网企业挑战和最佳实践](http://iot.51cto.com/art/201906/597625.htm)
@@ -89,34 +97,34 @@ categories: IT NEWS
  > 自古英雄出少年！15 岁 00 后开发者获 WWDC 2019 奖学金并受邀参会。WWDC 奖学金用于奖励有才华的学生和 ST
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [前端图片压缩和角度修正](https://blog.csdn.net/Deng_gene/article/details/90699645)
- > 前端图片压缩和角度修正
- ## [20年研发管理经验谈（三）](https://blog.csdn.net/weixin_39759846/article/details/90711460)
- > 20年研发管理经验谈（三）
- ## [ios逆向学习过程——App砸壳、导出头文件](https://blog.csdn.net/ruozhixiaohaia/article/details/91346195)
- > ios逆向学习过程——App砸壳、导出头文件
- ## [前端   html+css  ++思维导图](https://blog.csdn.net/weixin_44649841/article/details/90440643)
- > 前端   html+css  ++思维导图
- ## [前端算法（更新中）](https://blog.csdn.net/qq_33332184/article/details/90408185)
- > 前端算法（更新中）
- ## [前端开发常用片段](https://blog.csdn.net/yanyihan16/article/details/90670253)
- > 前端开发常用片段
- ## [linux中文件与文件系统的压缩与解压缩命令](https://blog.csdn.net/weixin_44596822/article/details/91045130)
- > linux中文件与文件系统的压缩与解压缩命令
- ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
- > 前端 之 HTML
- ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
- > 项目研发管理经验交流
  ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
  > 20年研发管理经验谈（二）
- ## [20年研发管理经验谈（一）](https://blog.csdn.net/weixin_39759846/article/details/90410145)
- > 20年研发管理经验谈（一）
- ## [前端脚手架(cli)实现](https://blog.csdn.net/luchuanqi67/article/details/91283513)
- > 前端脚手架(cli)实现
- ## [前端开发规范文档（持续更新...）](https://blog.csdn.net/xiaofanguan/article/details/90600397)
- > 前端开发规范文档（持续更新...）
- ## [五月前端细节总结](https://blog.csdn.net/weixin_41697143/article/details/90401806)
- > 五月前端细节总结
+ ## [人工智能--不确定性推理概述](https://blog.csdn.net/hjc256/article/details/91128640)
+ > 人工智能--不确定性推理概述
+ ## [人工智能改变教学方式](https://blog.csdn.net/zxj81311/article/details/90315327)
+ > 人工智能改变教学方式
+ ## [人工智能之产生式系统（c++实现）](https://blog.csdn.net/yangmolulu/article/details/90576973)
+ > 人工智能之产生式系统（c++实现）
+ ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
+ > 20年研发管理经验谈（五）
+ ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
+ > 关于架构的思考之一：架构的定义及目的
+ ## [人工智能发展史（读书笔记）](https://blog.csdn.net/Void_worker/article/details/90669308)
+ > 人工智能发展史（读书笔记）
+ ## [人工智能之问](https://blog.csdn.net/hcgx2018/article/details/90633429)
+ > 人工智能之问
+ ## [人工智能发展的新路径](https://blog.csdn.net/fxj2019/article/details/90110434)
+ > 人工智能发展的新路径
+ ## [linux驱动开发架构](https://blog.csdn.net/mcsbary/article/details/90696849)
+ > linux驱动开发架构
+ ## [【架构】分布式事务](https://blog.csdn.net/m18633778874/article/details/90110788)
+ > 【架构】分布式事务
+ ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
+ > 人工智能教程 - 目录
+ ## [20年研发管理经验谈（四）](https://blog.csdn.net/weixin_39759846/article/details/90750766)
+ > 20年研发管理经验谈（四）
+ ## [Docker容器架构与理解](https://blog.csdn.net/weixin_43232423/article/details/90291222)
+ > Docker容器架构与理解
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [芒果超媒获中移动16亿元投资，外围突破成败几何？](http://www.lanjingtmt.com/news/detail/43005.shtml)
@@ -124,36 +132,36 @@ categories: IT NEWS
  ## [微信“好物圈”悄然升级，能否助力腾讯圆电商梦？](http://www.lanjingtmt.com/news/detail/43003.shtml)
  > 小程序+电商，跑出了一个成立三年就上市的拼多多。好物圈作为电商小程序宣传口碑的展示平台，如果达到一定量级，势必将成为下一个资本争抢的流量入口。
 # 人工智能 
- ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
- > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
- ## [2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）](https://blog.csdn.net/weixin_45136579/article/details/90767614)
- > 2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）
- ## [20年研发管理经验谈（三）](https://blog.csdn.net/weixin_39759846/article/details/90711460)
- > 20年研发管理经验谈（三）
- ## [【物联网】阿里云物联网应用托管](https://blog.csdn.net/lsj960922/article/details/90639366)
- > 【物联网】阿里云物联网应用托管
- ## [程序人生第三年](https://blog.csdn.net/dring321/article/details/90345866)
- > 程序人生第三年
- ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
- > 要转行Python又不清楚行业现状和前景，这样怎么能行？
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
- > 20年研发管理经验谈（二）
- ## [认识阿里云物联网与物联网项目的开发流程](https://blog.csdn.net/pengpengjy/article/details/90412011)
- > 认识阿里云物联网与物联网项目的开发流程
- ## [20年研发管理经验谈（一）](https://blog.csdn.net/weixin_39759846/article/details/90410145)
- > 20年研发管理经验谈（一）
+ ## [物联网安全体系架构分析图](https://blog.csdn.net/dreamstone_xiaoqw/article/details/90750649)
+ > 物联网安全体系架构分析图
  ## [华为物联网操作系统 LiteOS](https://blog.csdn.net/horses/article/details/90439142)
  > 华为物联网操作系统 LiteOS
- ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”...](https://blog.csdn.net/javaMare/article/details/90495440)
- > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”...
- ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
- > 大专简单的2年程序人生
+ ## [数据库篇——代码操作数据库](https://blog.csdn.net/weixin_43733988/article/details/90345230)
+ > 数据库篇——代码操作数据库
+ ## [atitit 编程语言课程 v1 t55.docx   1. 编程语言概念（what	5 1.1. 自然语言与编程语言的关系	5 1.2. 开发中常用的编程语言	5 1.3. 编程语言代际	5 1.4](https://blog.csdn.net/attilax/article/details/90416843)
+ > atitit 编程语言课程 v1 t55.docx   1. 编程语言概念（what	5 1.1. 自然语言与编程语言的关系	5 1.2. 开发中常用的编程语言	5 1.3. 编程语言代际	5 1.4
+ ## [【数据库】数据库查询语言SQL](https://blog.csdn.net/C2681595858/article/details/80196989)
+ > 【数据库】数据库查询语言SQL
+ ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
+ > 数据库提升知识点汇总
+ ## [【物联网】物联网安全---编辑中](https://blog.csdn.net/bandaoyu/article/details/90405912)
+ > 【物联网】物联网安全---编辑中
+ ## [数据库design](https://blog.csdn.net/kalinux/article/details/91347018)
+ > 数据库design
+ ## [Python爬虫从入门到上瘾（包含如何观察ajax数据源的详细图解）](https://blog.csdn.net/weixin_44995023/article/details/91346438)
+ > Python爬虫从入门到上瘾（包含如何观察ajax数据源的详细图解）
+ ## [认识阿里云物联网与物联网项目的开发流程](https://blog.csdn.net/pengpengjy/article/details/90412011)
+ > 认识阿里云物联网与物联网项目的开发流程
+ ## [【数据库】视图](https://blog.csdn.net/zhao_miao/article/details/90605768)
+ > 【数据库】视图
+ ## [【科普】7大含金量最高的编程语言](https://blog.csdn.net/weixin_40897235/article/details/90399967)
+ > 【科普】7大含金量最高的编程语言
  ## [张蕾：物联网与三魂七魄](https://blog.csdn.net/uP1aXoY0D7Uq6wH/article/details/90420892)
  > 张蕾：物联网与三魂七魄
- ## [物联网的4层模型](https://blog.csdn.net/wweiru/article/details/90613617)
- > 物联网的4层模型
+ ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
+ > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
+ ## [物联网概论知识点](https://blog.csdn.net/Wjwstruggle/article/details/91051348)
+ > 物联网概论知识点
 # PM 
  ## [AI“辩味”意义何在？](http://www.pmtoo.com/article/75249.html)
  > 困难重重的AI“辩味”。图片来源@视觉中国听说读写，在如今的AI身上早已不是什么新鲜事了。智能...
