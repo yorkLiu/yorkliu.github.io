@@ -1,21 +1,23 @@
 ---
 title: 2019-06-15 IT News
 copyright: true
-date: 2019-06-15 08:01:10
+date: 2019-06-15 09:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [物联网可使建筑不那么令人头痛](http://mp.weixin.qq.com/s?src=11&timestamp=1560556804&ver=1669&signature=T9bs3b8zeg8T-imNUe2v7EzyMZsdZCkcLPmobHyAWmbHVl2PlgUmLpMMvaTbNlEIIlmCcLg9WOCRf6NRnsm-SexMxaKR-c12irSW5nGo47MOiK2QBwLk81KAzvOGyY4w&new=1)
- > 建筑业可能是一个非常杂乱的产业。当建造任何一座大楼时，你都需要按照特定的顺序进行，以防止滚雪球一样发生更多的问题。比如说，你不能从干燥的墙面开始建造，除非电工已经安装好了插头完成了他们的工作，如果...
- ## [中兴通讯与金智科技战略合作丨爱彼迎推出多天探险体验\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560556804&ver=1669&signature=UIz-44rUvisyzsADG4DOxFY-DVegCqWsj0UB5XSQWDZSiUyuDJh1oK6x7vPv*uQwnVRCn-DngfW90p7v0CgB2m7-ZJ*kIq3Ob0AT9BeTVwytIivWDPpBB4zH*EtUxBfx&new=1)
+ ## [中兴通讯与金智科技战略合作丨爱彼迎推出多天探险体验\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560560404&ver=1669&signature=UIz-44rUvisyzsADG4DOxFY-DVegCqWsj0UB5XSQWDbMUiqrVJ007cVxCt-0jusyjJe7x124aqmAVG0utDhQIWYK7wNPM30iIocOKQr4yCQoZxc0fsZyyU5e3YUfNJ4D&new=1)
  > 6月14日 周五【Do说】编辑 | 李尧中兴通讯与金智科技战略合作，共推5G智能电网发展11日，中兴通讯与金智科技达成5G战略合作，双方计划就5G助力智能电网建设进行深度合作。后续双方将进一步深化合作、携手创新，...
- ## [OFweek 2019(第十五届)中国激光技术及工业应用论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1560556804&ver=1669&signature=-SHfiMKq0ZacZJ4aoK21opzhgTsAMZ*wzEZM-0p5ZI6a*kuO1jWBwm*moW5eT*h3dBCPRc6cRryUnXx2XJMWb4gKpumYNAkZ4V6IGAYsxQHCI9tMB*ge8xyFNRO4wVKN&new=1)
+ ## [物联网可使建筑不那么令人头痛](http://mp.weixin.qq.com/s?src=11&timestamp=1560560404&ver=1669&signature=T9bs3b8zeg8T-imNUe2v7EzyMZsdZCkcLPmobHyAWma9sNsoavFUvIQRKSowiOGtm2HGy-QOhAGx-U0YdifY5oV1-Av1GRn80DiZQC5JhWv4v4UZB6*A2P*r6k4pFMpY&new=1)
+ > 建筑业可能是一个非常杂乱的产业。当建造任何一座大楼时，你都需要按照特定的顺序进行，以防止滚雪球一样发生更多的问题。比如说，你不能从干燥的墙面开始建造，除非电工已经安装好了插头完成了他们的工作，如果...
+ ## [OFweek 2019(第十五届)中国激光技术及工业应用论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1560560404&ver=1669&signature=-SHfiMKq0ZacZJ4aoK21opzhgTsAMZ*wzEZM-0p5ZI5YywSAm1Wt4kNEOANGKxoVVryrpufhfEt8G3r*Tc2X6QTabPWe8qrpTazxDT*kwHCA*cCc-68YlIVIFvciP-BI&new=1)
  > 6月14日，由中国高科技门户OFweek维科网及高科会主办，OFweek激光网承办的“OFweek 2019（第十五届）中国激光技术及工业应用论坛”在深圳成功举办。本次研讨会聚焦激光领域最新技术及应用，并邀请了行业内知名专...
- ## [从0到500亿：华为28年造芯史](http://mp.weixin.qq.com/s?src=11&timestamp=1560556804&ver=1669&signature=g-RMpkzdfl6G*isd4JgNbW1UOG1Zfe61L*NSXtznmtqVGV6KhToW3s96wqSgKNypg5URsVeTXEdKOqR1kB9FLRCEOidimbjYnoDKeJVg884EOkL*jlrtoNd58S3s2ci7&new=1)
+ ## [从0到500亿：华为28年造芯史](http://mp.weixin.qq.com/s?src=11&timestamp=1560560404&ver=1669&signature=g-RMpkzdfl6G*isd4JgNbW1UOG1Zfe61L*NSXtznmtrfwRgV5ubzLvoGF4mDzNvKz-8ZKrcNzj30tQDF*d79ME6spcOano2do8w9cwfa7W3u70*9DOoI7ZSXi1BuP*OU&new=1)
  > 看点：华为的造芯英雄们负重二十八年，征途漫漫，为中国半导体产业敲出一扇窗。此刻，我们将时钟拨回到五年前。2014年7月26日凌晨，42岁的华为海思无线芯片开发部部长王劲突然离世，这一消息引发华为上下一片震...
- ## [\[报告\]2019同城货运行业分析(附45页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560556804&ver=1669&signature=nj5L82Fzbg6pmmpC0Wu7YCZPvtdzDWj10z3IVNfNo4yoEIr7lzSRQ5Z4CsewL6SqgeI4i*WY9YRRsjOkLDtV0evVxBjGdaGtv3ltiiG3WWdQQHAe2UWzsE68jXDlkDSo&new=1)
+ ## [\[报告\]2019同城货运行业分析(附45页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560560404&ver=1669&signature=nj5L82Fzbg6pmmpC0Wu7YCZPvtdzDWj10z3IVNfNo4z7yh*w1jBvuGvNgGcmSpDxs2qfFLpk-qjGlzougcJq7tTdtZneQz*hEub*PmBqq34698A4FzU4xR3Ddb6I*5Dp&new=1)
  > 行业进入下半场，货源成为核心话语权！以下为报告节选：文│MobData研究院本报告共计：45页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业分析报...
+ ## [如何看待软件修改大神zd423诈骗网民钱财、卖网站双重跑路？](https://www.zhihu.com/question/57477393)
+ > 先提供我知道的事情，大家自行判断吧。2013年的时候，那个时候大家都用某良心KB软件看片，这个软件首屏幕有个叫风向标的搜索，某人找到我让将这个风向标改掉里面的链接，由于我不会SWF的反汇编，并且之前听zd42...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -25,7 +27,7 @@ categories: IT NEWS
  ## [深度学习的研究领域是否有被过度夸大？](https://www.zhihu.com/question/27434103)
  > 是的深度学习方向目前阶段依然存在着制约这项技术创造更多商业价值的弊端，虽然每年顶会、期刊上面关于深度学习的文章依然很多，但是绝大多数都是拼拼凑凑，很多模块和思想并不新颖，在关键问题方面并没有太大起色。...
  ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 作为一个量子计算/凝聚态拓扑领域的物理硕士说下自己的想法。提问说好的基础科学，回答里cover到“基础科学”的实在太少了.......全文原创，字数已接近1.5w，总结了自己课上学的和做研究中接触的领域。输出干货不易，...
+ > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [为什么感觉qq很low，不如微信？](https://www.zhihu.com/question/41701910)
@@ -46,8 +48,6 @@ categories: IT NEWS
  > 我推荐几个互联网行业用的多的，不同场景会有不同的选择。关系型就是MySQL，不多说了。也可以关注一些new SQL的实现，比如说tidb，基本和MySQL兼容，但是scale能力更强。NoSQL比较好的还挺多的，我推...
  ## [天猫超市的东西那么贵，为什么大家会说便宜？](https://www.zhihu.com/question/51189748)
  > 评论里说我虾图是盗的，呵呵哒，谁才是盗图者？自己看看吧，不客气的说，我才是这个订单的创始者。那些个拿来主义我都不想多说了。截个别人的图就是自己的，有本事放更多订单信息出来啊。我这暴脾气。。。我再贴为防...
- ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
- > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
  ## [如何对比有线电视、IPTV、电信电视？](https://www.zhihu.com/question/37379455)
@@ -73,36 +73,36 @@ categories: IT NEWS
  > Android Q Beta 4体验：让我们来瞧瞧未来Andriod 10的模样
  ## [如何构建和设计以确保 API 的安全性](http://netsecurity.51cto.com/art/201906/597836.htm)
  > 如何构建和设计以确保 API 的安全性
- ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
- > 如何进行软件技术管理？
- ## [linux驱动开发架构](https://blog.csdn.net/mcsbary/article/details/90696849)
- > linux驱动开发架构
- ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”...](https://blog.csdn.net/javaMare/article/details/90495440)
- > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”...
- ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
- > 关于架构的思考之一：架构的定义及目的
- ## [20年研发管理经验谈（七）](https://blog.csdn.net/weixin_39759846/article/details/91512110)
- > 20年研发管理经验谈（七）
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [浅谈支撑百万级的架构设计](https://blog.csdn.net/change_on/article/details/91041888)
- > 浅谈支撑百万级的架构设计
- ## [20年研发管理经验谈（一）](https://blog.csdn.net/weixin_39759846/article/details/90410145)
- > 20年研发管理经验谈（一）
- ## [Web3.0 的宏观架构](https://blog.csdn.net/Yikuailianxi/article/details/90667520)
- > Web3.0 的宏观架构
- ## [x86架构——CPUID](https://blog.csdn.net/jiangwei0512/article/details/90677659)
- > x86架构——CPUID
- ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
- > 20年研发管理经验谈（二）
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
- > 项目研发管理经验交流
- ## [程序人生：“自学Python，如何拿下了月薪15k的工作”](https://blog.csdn.net/haoyongxin781/article/details/90521928)
- > 程序人生：“自学Python，如何拿下了月薪15k的工作”
- ## [Intel-80386微处理器（IA-32架构）](https://blog.csdn.net/qq_42856154/article/details/90523969)
- > Intel-80386微处理器（IA-32架构）
+ ## [三大金融文本语料(工商,新闻,资讯) - NLP语料](https://blog.csdn.net/weixin_40473141/article/details/90673105)
+ > 三大金融文本语料(工商,新闻,资讯) - NLP语料
+ ## [三款大气资讯类wordpress主题](https://blog.csdn.net/qiyuwg/article/details/90645064)
+ > 三款大气资讯类wordpress主题
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
+ > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
+ ## [【物联网】物联网平台开发全栈教程](https://blog.csdn.net/lsj960922/article/details/90295100)
+ > 【物联网】物联网平台开发全栈教程
+ ## [2018秋东海大学资讯工程系交换回忆](https://blog.csdn.net/qq_37486501/article/details/90520181)
+ > 2018秋东海大学资讯工程系交换回忆
+ ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
+ > 云计算、大数据、人工智能之间的关系，总章
+ ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
+ > 前端基础入门（13）contenteditable 属性
+ ## [不懂技术也能看懂的云计算／大数据／人工智能](https://blog.csdn.net/mmooyyyy/article/details/90551577)
+ > 不懂技术也能看懂的云计算／大数据／人工智能
+ ## [【物联网】阿里云物联网应用托管](https://blog.csdn.net/lsj960922/article/details/90639366)
+ > 【物联网】阿里云物联网应用托管
+ ## [项目经验：scrapy搭建定制化资讯服务](https://blog.csdn.net/xiaxianba/article/details/90440647)
+ > 项目经验：scrapy搭建定制化资讯服务
+ ## [物联网安全体系架构分析图](https://blog.csdn.net/dreamstone_xiaoqw/article/details/90750649)
+ > 物联网安全体系架构分析图
+ ## [认识阿里云物联网与物联网项目的开发流程](https://blog.csdn.net/pengpengjy/article/details/90412011)
+ > 认识阿里云物联网与物联网项目的开发流程
+ ## [华为物联网操作系统 LiteOS](https://blog.csdn.net/horses/article/details/90439142)
+ > 华为物联网操作系统 LiteOS
+ ## [概念普及-云计算 大数据 Hadoop BI](https://blog.csdn.net/lijing742180/article/details/90410886)
+ > 概念普及-云计算 大数据 Hadoop BI
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [霸气！Power 支持混合云、多云，性能完胜 x86！](https://blog.csdn.net/csdnnews/article/details/91981233)
@@ -112,37 +112,41 @@ categories: IT NEWS
  ## [小米成立“线下业务委员会”；暴风 TV 回应员工讨薪；超 98% 安卓应用不安全 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/91951202)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
 # 人工智能 
- ## [2019中级Android开发社招面试解答之性能优化篇](https://blog.csdn.net/Android_SE/article/details/91445544)
- > 2019中级Android开发社招面试解答之性能优化篇
- ## [音视频开发——（四）编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
- > 音视频开发——（四）编码音频
+ ## [认识阿里云物联网与物联网项目的开发流程](https://blog.csdn.net/pengpengjy/article/details/90412011)
+ > 认识阿里云物联网与物联网项目的开发流程
+ ## [数据库篇——代码操作数据库](https://blog.csdn.net/weixin_43733988/article/details/90345230)
+ > 数据库篇——代码操作数据库
+ ## [音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90617448)
+ > 音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会
+ ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
+ > python3下载抖音视频
  ## [【音视频】5.ffmpeg命令分类与使用](https://blog.csdn.net/qq_30124547/article/details/90708441)
  > 【音视频】5.ffmpeg命令分类与使用
- ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
- > 阿里云DataV专业版发布，为可视化创造更多可能！
- ## [Android开发-Android应用中启动时引导页的实现](https://blog.csdn.net/fukaimei/article/details/89667584)
- > Android开发-Android应用中启动时引导页的实现
+ ## [解压版mysql-5.7.17-winx64的配置安装](https://blog.csdn.net/shine_my/article/details/91788921)
+ > 解压版mysql-5.7.17-winx64的配置安装
+ ## [决战数据库-spring batch(4)数据库到数据库](https://blog.csdn.net/masson32/article/details/91351279)
+ > 决战数据库-spring batch(4)数据库到数据库
+ ## [构建MySQL服务器以及基本应用](https://blog.csdn.net/xiaozhedeitzhilu/article/details/91356538)
+ > 构建MySQL服务器以及基本应用
+ ## [FineReport的数据库](https://blog.csdn.net/Artemis1220/article/details/90597033)
+ > FineReport的数据库
+ ## [音视频直播总结](https://blog.csdn.net/SunFlowerInRain/article/details/91528427)
+ > 音视频直播总结
+ ## [云计算与物联网有什么关系，云计算和物联网主要有哪些优势？](https://blog.csdn.net/duozhishidai/article/details/90349804)
+ > 云计算与物联网有什么关系，云计算和物联网主要有哪些优势？
+ ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
+ > 关系数据库系统（数据库原理）
  ## [基于electron的音视频播放器](https://blog.csdn.net/vgub158/article/details/91490185)
  > 基于electron的音视频播放器
- ## [大数据、人工智能与云计算的融合与应用](https://blog.csdn.net/ShuYunBIGDATA/article/details/90400734)
- > 大数据、人工智能与云计算的融合与应用
- ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
- > 【音视频】1.音视频基本概念
- ## [「其他都是抄袭」移动开发还有未来吗？](https://blog.csdn.net/DevolperFront/article/details/90679622)
- > 「其他都是抄袭」移动开发还有未来吗？
- ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
- > 大数据与云计算概念的解析
- ## [蚂蚁金服终端实验室演进之路](https://blog.csdn.net/yunqiinsight/article/details/90899631)
- > 蚂蚁金服终端实验室演进之路
- ## [【重磅】微软正式宣布 .NET5支持跨平台、移动开发](https://blog.csdn.net/zhenghhgz/article/details/90477001)
- > 【重磅】微软正式宣布 .NET5支持跨平台、移动开发
- ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
- > 云计算介绍之云计算服务器
- ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
- > 大数据与云计算知识点
- ## [云计算、大数据、人工智能本质的区别和关系](https://blog.csdn.net/qq_38459998/article/details/90513355)
- > 云计算、大数据、人工智能本质的区别和关系
+ ## [【音视频】3.视频编码格式对比](https://blog.csdn.net/qq_30124547/article/details/90613472)
+ > 【音视频】3.视频编码格式对比
+ ## [音视频开发——（四）编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
+ > 音视频开发——（四）编码音频
 # PM 
+ ## [Airbnb | 解锁系统思维，构建包容性设计语言系统](http://www.woshipm.com/pd/2452142.html)
+ > 设计语言系统服务于设计师和工程师，是他们工作的中心，并且可以在使用的过程中不断迭代，以期达到更好的功能和效果。构建包容性设计语言系统设计语言系统是独一无二...
+ ## [CRM用户运营：积分体系的1个中心、2个基本点](http://www.woshipm.com/operate/2461826.html)
+ > 做会员的商家基本都会做积分，为什么要做积分体系呢？积分体系的本质是什么呢？一个能带动会员活性体现会员权益感的积分体系应该具备哪些特征呢？积分实质上是商家回...
  ## [【本周热文精选】精彩内容，一键直达！](http://www.chanpin100.com/article/108674)
  > 这是一个信息过载的时代。所有人接触到的信息远多于他们能够或愿意加工的信息，我们时刻处于一种信息接收超负荷的状态，为了减轻大家的负担，小编经过深度阅读和筛选后，为大家带来本周热文盘点。
  ## [极光大数据：四成父亲牺牲陪孩子的时间只为了做这样一件事](http://www.chanpin100.com/article/108673)
