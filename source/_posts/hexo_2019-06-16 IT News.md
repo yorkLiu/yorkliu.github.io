@@ -1,22 +1,30 @@
 ---
 title: 2019-06-16 IT News
 copyright: true
-date: 2019-06-16 10:03:10
+date: 2019-06-16 12:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [让美国惧怕的华为5G，到底有多牛?网友：科幻世界也不过如此了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560650404&ver=1671&signature=JbGU*e1Yal4XfpZ0KxisMfVgNGqaTO0hrs*7QZDHATsQYcuQ5f2AXg2uS7eObv54yeXmigXK-sd0SFuwSjb*B0RFtFmHXLEcshXzd-wp8cZ93uJ93tZYEGF31CyRVzYk&new=1)
+ ## [黑客利用XSS漏洞，可访问谷歌的内部网络](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=YyHD3u8eAiQZfiCxwKOgWAKk*AToHRJ7RrJSNRIFiwSli3YfyvlhkJrPxySDcBx6arGdT4HzILOhR2xssggk6QItSbkQZPtBWwuucfDlj-ncB7ec-c8RIMQJqIy1Ux7*&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：安全研究人员在谷歌的发票提交门户中发现了危险的XSS漏洞。据外媒报道，一位年轻的安全研究员在谷歌的一个后端应用程序中发现了一个安全漏洞。如果被...
+ ## [让美国惧怕的华为5G，到底有多牛?网友：科幻世界也不过如此了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=JbGU*e1Yal4XfpZ0KxisMfVgNGqaTO0hrs*7QZDHATsQYcuQ5f2AXg2uS7eObv54Eh3i-VPk666pkKf42yUVZxijgaQU7Vb3vNpuSVhC6Ij7BwrS6ZONE4MIklczuSzR&new=1)
  > 最近美国对华为5G的压制可谓是闹得满城风雨一言不合就找各种理由禁止华为5G软的不行，就来硬的，并且要拉帮结派但闹了半天华为5G到底为何让美国如此惧怕？说到5G，大部分人都知道很牛但是到底牛在哪？对你的生活...
- ## [拿下46个5G合同，中标中移动5G大单!华为将成中国5G建设最大受益者!](http://mp.weixin.qq.com/s?src=11&timestamp=1560650404&ver=1671&signature=yFMffQ7EJpvJHiqEEQHJE0J0LmqFPn4s-h9YaRzkhBhzKDs4J*M3atnwZAkVYYB87mMkCXJSNNP4ueBcxdlb5H9gexEq3HInFY197oJ2xXFHcnnJLHggHTiZ0WS7-z3t&new=1)
- > 自去年以来，由于受美国及其盟国的打压，以及近期的美国“禁令”的影响，华为5G业务在海外市场的拓展确实受到了不小的影响。这也使得华为的竞争对手直接受益。6月3日，诺基亚就宣布其已拿下42份5G订单，超过了华...
- ## [受虐机器人终于受不了了，开始反击人类!?](http://mp.weixin.qq.com/s?src=11&timestamp=1560650404&ver=1671&signature=UlchRRU2Awnf6SuxxJio2s1xfQL1eICRMp-RKRr3hewBd9teh7QtGPEzrSnoi-vmSderYuI15XazgnNmWLcBn3tKcBl28Mw7AWERJOxv4eztv9Gr3lNVaAl464v8LKns&new=1)
- > 这是过去波士顿动力的科学家欺负机器人的画面 ，据说听说今天机器人终于反击了。。。请看下面视频↓↓↓↓真相如何？？在科学解码首页输入“真相”给你真相。咱们也可以在下面评论里共同探讨。波士顿动力是一家...
- ## [不排除华为参与5G建设?法国这些“优先发展”领域翘首盼5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1560650404&ver=1671&signature=Jsj-QFMq-7EcOYCatz-fOqQ-ZpxNbds5G7kQozP0OHYWo5fO4Zoj3AkTcwz*woJZNFNwanrdyyYpuo2eabyEHnTpY69EQfiCBtn3ahZbti22fhCNOtccgCPPrw0c2bRw&new=1)
+ ## [雪城大学新闻创新主席：虚拟现实设备在新闻业中的前景与局限](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=su3xzmwEPZJKRd-b-kGa-fT0sGjtZMGFJHwPe1sRdiXuvn0EArRtWTSYdM2YK6yV8lR2ZmRlIbzFYUHWD0*lo-8NLbKLWRyziJWvjyQhn*vqpoYC8XYvqHdKHblI5p86&new=1)
+ > 新闻业的未来将属于3D。 这并非耸人听闻，而是大势所趋。无论是微软开发的全息虚拟现实眼镜HoloLens，抑或是Magic Leap构想的虚实交融的未来世界Magicverse，都在悄然预示着“3D时代”的来临。 雪城大学新闻创新...
+ ## [多光子3D打印纳米级航母辽宁舰，魔技纳米](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=vE6cfGSNOOGP9pgvz71Qzga8Jze*crVtLN6zlK7TcC25WWQOYCCrsnUtzXlIfmTmIsR87pPb*95ozBUU8I1CNqrkBoUAIKi6GnsP8dgtcILsJje9TZ1Y2e4dsnWT7G9J&new=1)
+ > 关注南极熊3D打印2019年6月14日，南极熊参观了2019年全国大众创业万众创新活动周北京会场主题展，发现一家名为魔技纳米的公司展示了其纳米级三维光刻制造系统技术，其使用三维激光直写设备产品制造了纳米级的航...
+ ## [政策助推5G商业进程加快 未来5年有望拉动GDP超万亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=-bAniA6JX73jcsFcbwHzE6LBhsVOX2yvFV3fElD8FcBbbI1N9epSqHvsvF-NOsWT7drIZeBmJsZm5IRe58Fx7DErnEEb5j-JqlUcdEYQxLjAydM96BRD95j9PxzRFSPK&new=1)
+ > 2019-0616文 | 郭晓蓓工信部已于近期发放了5G商用牌照。商用牌照发放，意味着5G产业链公司有望收回投资资金。放眼全球，全面部署5G产业已是大势所趋，过去由美国和欧洲主导全球通信规格标准化的格局已经改变。作...
+ ## [不排除华为参与5G建设?法国这些“优先发展”领域翘首盼5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=Jsj-QFMq-7EcOYCatz-fOqQ-ZpxNbds5G7kQozP0OHYWo5fO4Zoj3AkTcwz*woJZw2TSA4jltHL*6xsuPZWIsSjAkWzhf8S2EfvaAVdmPtAb1t3vci-b*RRmkcMg0jfL&new=1)
  > 近日，法国经济和财政部长属下电信事务国务秘书帕尼埃-鲁纳歇女士（Agnès Pannier-Runacher）再次强调，不排除华为作为法国5G设备的供应商。此前，在5月16日和22日，法国总统马克龙和财政部长勒梅尔已经分别表...
- ## [华为鸿蒙OS系统新机，10月上市售价千元起!](http://mp.weixin.qq.com/s?src=11&timestamp=1560650404&ver=1671&signature=1cO2gvbpyagJAj*KeqoqLAgr-iLMpHAeVczLgdaEcqyV*venTKhqeC2swdiMJBYMZwerwiJ-1nYRcE*pw*seob0Xwwt-mpbAL9Vypr*VzkQryWIT9uKBKRtxTwyZ*F4R&new=1)
+ ## [拿下46个5G合同，中标中移动5G大单!华为将成中国5G建设最大受益者!](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=yFMffQ7EJpvJHiqEEQHJE0J0LmqFPn4s-h9YaRzkhBhzKDs4J*M3atnwZAkVYYB8sj3Ssvfmt8h9l0-RnmP6agan*WEM*DnPwgxYT3iXLg1RA2aA*f2x-no35qHXikpG&new=1)
+ > 自去年以来，由于受美国及其盟国的打压，以及近期的美国“禁令”的影响，华为5G业务在海外市场的拓展确实受到了不小的影响。这也使得华为的竞争对手直接受益。6月3日，诺基亚就宣布其已拿下42份5G订单，超过了华...
+ ## [受虐机器人终于受不了了，开始反击人类!?](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=UlchRRU2Awnf6SuxxJio2s1xfQL1eICRMp-RKRr3hewBd9teh7QtGPEzrSnoi-vmcYIcdXvFUT9DWf-EbvSozDH8hz74wkG5uT17ARzwQZVqB4ilYU*8A42LYeqRdihh&new=1)
+ > 这是过去波士顿动力的科学家欺负机器人的画面 ，据说听说今天机器人终于反击了。。。请看下面视频↓↓↓↓真相如何？？在科学解码首页输入“真相”给你真相。咱们也可以在下面评论里共同探讨。波士顿动力是一家...
+ ## [华为鸿蒙OS系统新机，10月上市售价千元起!](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=1cO2gvbpyagJAj*KeqoqLAgr-iLMpHAeVczLgdaEcqyV*venTKhqeC2swdiMJBYMEXjCYClc8lpkh55vQnbp6EcrYxyZUbAGPtlNC0zHMWJ8Sh0TDRFgpgorqhbLC6cV&new=1)
  > 大家晚上好，我是机哥华为被美国加入“实体名单”，某些企业顶着巨大亏损也要停止合作，从软件硬件上加以限制，华为正准备推出自主的鸿蒙OS系统，以取代美国的安卓系统，下面给大家说一下近期的消息。网上关于华...
- ## [苹果获得悬停手势专利丨华为手机对欧出货量一季度增长66%\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560650404&ver=1671&signature=mU*9NDlzZyep9A*srPu1izORNNVsHjzUrXduph*hC6bXqUz5wPNHOGkSqhCULWB6ApqwIVVnFC0xr9S7pkv4Egw1bYaWCcDdIBOdhkcVtovaLpMN5PIbGKQt6oUfh8Dg&new=1)
+ ## [苹果获得悬停手势专利丨华为手机对欧出货量一季度增长66%\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560657604&ver=1671&signature=mU*9NDlzZyep9A*srPu1izORNNVsHjzUrXduph*hC6bXqUz5wPNHOGkSqhCULWB6TZOip-8i6NKbzq7zPMZdalClVI6d*VTsEnwUIFpqU-Gda25L2yEnZmnsEBY3x-sZ&new=1)
  > 6月15日 周六【Do说】编辑 | 李尧苹果获得悬停手势专利，可隔空操控iPhone据PatentlyApple网站报道，美国专利与商标局(PTO)近日授予苹果公司一项悬停技术专利，允许用户通过手指或Apple Pencil隔空操控设备。这
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,36 +83,36 @@ categories: IT NEWS
  > Android Q Beta 4体验：让我们来瞧瞧未来Andriod 10的模样
  ## [如何构建和设计以确保 API 的安全性](http://netsecurity.51cto.com/art/201906/597836.htm)
  > 如何构建和设计以确保 API 的安全性
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [MySql window安装运维](https://blog.csdn.net/zzhuan_1/article/details/90404378)
- > MySql window安装运维
- ## [哪些程序员容易走上管理岗位，看看有没有你](https://blog.csdn.net/epubit17/article/details/90898525)
- > 哪些程序员容易走上管理岗位，看看有没有你
- ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
- > 程序人生：“自学Python，如何拿下了月薪15k的工作
- ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
- > 区块链如何改变人工智能
- ## [人工智能之问](https://blog.csdn.net/hcgx2018/article/details/90633429)
- > 人工智能之问
- ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
- > \[Linux\]运维面试(一)
- ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
- > 大专简单的2年程序人生
- ## [人工智能与大数据的应用和指引方向](https://blog.csdn.net/qq_38459998/article/details/90403381)
- > 人工智能与大数据的应用和指引方向
- ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
- > 运维进阶-----NFS网络文件系统
- ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
- > 运维进阶——firewall详解
- ## [Hadoop集群运维](https://blog.csdn.net/qq_35488412/article/details/91042033)
- > Hadoop集群运维
- ## [运维安全管理](https://blog.csdn.net/q947448283/article/details/90292450)
- > 运维安全管理
- ## [威盛人工智能研究院，聚焦人工智能人才培养新时代](https://blog.csdn.net/fadsf15/article/details/90481528)
- > 威盛人工智能研究院，聚焦人工智能人才培养新时代
- ## [【程序人生】已经工作的人，先提升学历，还是先提升技术](https://blog.csdn.net/u013718730/article/details/90341730)
- > 【程序人生】已经工作的人，先提升学历，还是先提升技术
+ ## [H5学习感悟01](https://blog.csdn.net/Coder_Hcy/article/details/91041627)
+ > H5学习感悟01
+ ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
+ > 项目开始阶段（二）
+ ## [python外星人入侵（游戏开发）](https://blog.csdn.net/h471507602/article/details/91042425)
+ > python外星人入侵（游戏开发）
+ ## [人工智能 —— 代价树的盲目搜索](https://blog.csdn.net/starter_____/article/details/91647905)
+ > 人工智能 —— 代价树的盲目搜索
+ ## [Visual C++游戏编程基础之动画显示问题](https://blog.csdn.net/Sruggle/article/details/90952187)
+ > Visual C++游戏编程基础之动画显示问题
+ ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
+ > 关于“人工智能”的一点思考
+ ## [Java基础-class 类的基础方法](https://blog.csdn.net/guo_xl/article/details/90753959)
+ > Java基础-class 类的基础方法
+ ## [游戏开发选Cocos2d-x还是Unity3D？](https://blog.csdn.net/qq_38456196/article/details/90409081)
+ > 游戏开发选Cocos2d-x还是Unity3D？
+ ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
+ > 项目开始阶段（一）
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [Javascript漂流记（下）__深入数组扩展方法（二）](https://blog.csdn.net/AquamanTrident/article/details/91355223)
+ > Javascript漂流记（下）__深入数组扩展方法（二）
+ ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
+ > 人工智能--状态空间的盲目搜索
+ ## [JAVA对象创建过程内存图解](https://blog.csdn.net/lwfr_jqw/article/details/91351357)
+ > JAVA对象创建过程内存图解
+ ## [浅谈人工智能与游戏思维](https://blog.csdn.net/VucNdnrzk8iwX/article/details/90390813)
+ > 浅谈人工智能与游戏思维
+ ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
+ > 人工智能会取代艺术家？
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [为什么说 5G 是物联网的时代？](https://blog.csdn.net/csdnnews/article/details/92211888)
@@ -130,37 +138,39 @@ categories: IT NEWS
  ## [大数据的搜索引擎——Elasticsearch](https://blog.csdn.net/csdnnews/article/details/92065376)
  > 01先看两个故障，带着问题去思考【故障诊断 - 案例 A】首先大致看一下分片未分配原因：结果显示分片大都是因为 node_left 导致未分配，然后通过 explain ...
 # 人工智能 
- ## [区块链游戏开发-僵尸大战](https://blog.csdn.net/runner668/article/details/90406974)
- > 区块链游戏开发-僵尸大战
- ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
- > 云计算介绍之云计算存储(1)
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [人工智能之问](https://blog.csdn.net/hcgx2018/article/details/90633429)
- > 人工智能之问
- ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
- > 人工智能教程 - 目录
- ## [云计算、大数据、人工智能本质的区别和关系](https://blog.csdn.net/qq_38459998/article/details/90513355)
- > 云计算、大数据、人工智能本质的区别和关系
- ## [没有核心技术的麻将游戏开发 必将淘汰](https://blog.csdn.net/motianyougame/article/details/90699367)
- > 没有核心技术的麻将游戏开发 必将淘汰
- ## [随笔——人工智能](https://blog.csdn.net/newbie_Blogger/article/details/90759117)
- > 随笔——人工智能
- ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
- > 看了这篇帖子，终于对大数据和云计算有点认识了
- ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
- > 大家的人工智能——正规方程
- ## [大数据与云计算、物联网三者的区别和关联](https://blog.csdn.net/yyu000001/article/details/90521767)
- > 大数据与云计算、物联网三者的区别和关联
- ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
- > Visual C++游戏编程基础之利用鼠标消息实现贴图
- ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
- > 大数据与云计算知识点
- ## [2D游戏开发 - 配置SkyGameEngine2d环境](https://blog.csdn.net/qq_33775402/article/details/90350078)
- > 2D游戏开发 - 配置SkyGameEngine2d环境
- ## [人工智能的应用与发展历程](https://blog.csdn.net/fadsf15/article/details/90750667)
- > 人工智能的应用与发展历程
+ ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
+ > 项目研发管理经验交流
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
+ > 项目开始阶段（二）
+ ## [20年研发管理经验谈（一）](https://blog.csdn.net/weixin_39759846/article/details/90410145)
+ > 20年研发管理经验谈（一）
+ ## [JAVA对象创建过程内存图解](https://blog.csdn.net/lwfr_jqw/article/details/91351357)
+ > JAVA对象创建过程内存图解
+ ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
+ > 【编程语言】Swift完全自学手册
+ ## [\[业务知识\]研发管理 开发过程管理](https://blog.csdn.net/ZYD45/article/details/90898548)
+ > \[业务知识\]研发管理 开发过程管理
+ ## [实战朴素贝叶斯文本分类：从 导入数据文件 到 得到84%准确率](https://blog.csdn.net/weixin_44995023/article/details/91804297)
+ > 实战朴素贝叶斯文本分类：从 导入数据文件 到 得到84%准确率
+ ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
+ > 20年研发管理经验谈（二）
+ ## [20年研发管理经验谈（三）](https://blog.csdn.net/weixin_39759846/article/details/90711460)
+ > 20年研发管理经验谈（三）
+ ## [20年研发管理经验谈（四）](https://blog.csdn.net/weixin_39759846/article/details/90750766)
+ > 20年研发管理经验谈（四）
+ ## [聊聊面向对象（心里明白嘴上说不出来的滋味）](https://blog.csdn.net/weixin_45118251/article/details/91472818)
+ > 聊聊面向对象（心里明白嘴上说不出来的滋味）
+ ## [java知识小结一](https://blog.csdn.net/weixin_39296576/article/details/90761582)
+ > java知识小结一
+ ## [Linux基础_SHELL脚本编程基础](https://blog.csdn.net/weixin_42758707/article/details/90315160)
+ > Linux基础_SHELL脚本编程基础
+ ## [Java基础-class 类的基础方法](https://blog.csdn.net/guo_xl/article/details/90753959)
+ > Java基础-class 类的基础方法
 # PM 
+ ## [如何应对工作中，那些没完没了的开会？](http://www.woshipm.com/zhichang/2465157.html)
+ > 80%的会议都是浪费时间，如何正确地开会才能不浪费？怎么样才能解决提高会议效率？本文梳理了一些开会的原则与方法，供你参考！我们公司前段时间有一个新的课程项目要...
  ## [金融小程序市场调研概述](http://www.woshipm.com/it/2464167.html)
  > 用完即走是小程序的目标，不管小程序满足了用户的何种需求，如果不能促使用户高频使用，并且促进用户的裂变，则这款小程序本身就不具备成功的因素。一、 分析目的小...
  ## [趋势 | 声音的未来：即将永远改变的行业](http://www.woshipm.com/ai/2452525.html)
