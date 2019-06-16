@@ -1,20 +1,22 @@
 ---
 title: 2019-06-16 IT News
 copyright: true
-date: 2019-06-16 08:01:06
+date: 2019-06-16 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为鸿蒙OS系统新机，10月上市售价千元起!](http://mp.weixin.qq.com/s?src=11&timestamp=1560643205&ver=1671&signature=1cO2gvbpyagJAj*KeqoqLAgr-iLMpHAeVczLgdaEcqx5epNyXNcUrCvFi*wOv9Sgs8yXd5uH*3wZB3KVBrhInnhsXC9*FtlGDZtnCjkPGwjk9qJHEvSYW2IozPtSJI2R&new=1)
+ ## [华为鸿蒙OS系统新机，10月上市售价千元起!](http://mp.weixin.qq.com/s?src=11&timestamp=1560646804&ver=1671&signature=1cO2gvbpyagJAj*KeqoqLAgr-iLMpHAeVczLgdaEcqx5epNyXNcUrCvFi*wOv9Sg3qKVNpnxMvr1LzrEmrSfH08Yu8l325sZ0CfcX5k*7iQanVtPthsZAd7NY0P7NkD6&new=1)
  > 大家晚上好，我是机哥华为被美国加入“实体名单”，某些企业顶着巨大亏损也要停止合作，从软件硬件上加以限制，华为正准备推出自主的鸿蒙OS系统，以取代美国的安卓系统，下面给大家说一下近期的消息。网上关于华...
- ## [受虐机器人终于受不了了，开始反击人类!?](http://mp.weixin.qq.com/s?src=11&timestamp=1560643205&ver=1671&signature=UlchRRU2Awnf6SuxxJio2s1xfQL1eICRMp-RKRr3hex3vm8GI2**2T0I01gLuZqjDhN9TosVJXBnoV2wFBRqlkoTxxpoMpOi*hAKUbiF8OLJIqL6ejV4xnaWsEiD*VsD&new=1)
- > 这是过去波士顿动力的科学家欺负机器人的画面 ，据说听说今天机器人终于反击了。。。请看下面视频↓↓↓↓真相如何？？在科学解码首页输入“真相”给你真相。咱们也可以在下面评论里共同探讨。波士顿动力是一家...
- ## [拿下46个5G合同，中标中移动5G大单!华为将成中国5G建设最大受益者!](http://mp.weixin.qq.com/s?src=11&timestamp=1560643205&ver=1671&signature=yFMffQ7EJpvJHiqEEQHJE0J0LmqFPn4s-h9YaRzkhBg9Xe333eDG6RHcCVlgbidydxg6YdLJcA0CcYlAN1TcwQckoX*mLN5nbT2Mkt9XNy7VR8gd2pQ5rAPfK*FYX9Hp&new=1)
- > 自去年以来，由于受美国及其盟国的打压，以及近期的美国“禁令”的影响，华为5G业务在海外市场的拓展确实受到了不小的影响。这也使得华为的竞争对手直接受益。6月3日，诺基亚就宣布其已拿下42份5G订单，超过了华...
- ## [不排除华为参与5G建设?法国这些“优先发展”领域翘首盼5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1560643205&ver=1671&signature=Jsj-QFMq-7EcOYCatz-fOqQ-ZpxNbds5G7kQozP0OHYyz5rRVdKgOCbs*KhlzdBYnKlLAGiF6QSB9ZZJID3VaMnDNiSo2PmEUMnOZSapHKjiMofddH9mQ8gqBqF5tu26&new=1)
+ ## [让美国惧怕的华为5G，到底有多牛?网友：科幻世界也不过如此了!](http://mp.weixin.qq.com/s?src=11&timestamp=1560646804&ver=1671&signature=JbGU*e1Yal4XfpZ0KxisMfVgNGqaTO0hrs*7QZDHATt0wVwYkOJ06CFsj0nglfQ3baL*fR-xVGhb0jDNoh4-GbDE5xlMABHDWB-9hN8VO622F4CcvGvfXc8TA*FTD9v3&new=1)
+ > 最近美国对华为5G的压制可谓是闹得满城风雨一言不合就找各种理由禁止华为5G软的不行，就来硬的，并且要拉帮结派但闹了半天华为5G到底为何让美国如此惧怕？说到5G，大部分人都知道很牛但是到底牛在哪？对你的生活...
+ ## [不排除华为参与5G建设?法国这些“优先发展”领域翘首盼5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1560646804&ver=1671&signature=Jsj-QFMq-7EcOYCatz-fOqQ-ZpxNbds5G7kQozP0OHYyz5rRVdKgOCbs*KhlzdBY*UYzlJqAHSbCcuiWzPRwsyFmyisVRKJObNIXg-ruQfWEJEbxniB-J57HfzkL60a3&new=1)
  > 近日，法国经济和财政部长属下电信事务国务秘书帕尼埃-鲁纳歇女士（Agnès Pannier-Runacher）再次强调，不排除华为作为法国5G设备的供应商。此前，在5月16日和22日，法国总统马克龙和财政部长勒梅尔已经分别表...
- ## [苹果获得悬停手势专利丨华为手机对欧出货量一季度增长66%\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560643205&ver=1671&signature=mU*9NDlzZyep9A*srPu1izORNNVsHjzUrXduph*hC6bF1pOBSTLlMzhm57KyAMMneXl6bSmh8F-kiDQQn1avk1*9urtWCo51Ind5HrDcWsdEh5FVDPhM9s0XZWPqTGKA&new=1)
+ ## [受虐机器人终于受不了了，开始反击人类!?](http://mp.weixin.qq.com/s?src=11&timestamp=1560646804&ver=1671&signature=UlchRRU2Awnf6SuxxJio2s1xfQL1eICRMp-RKRr3hex3vm8GI2**2T0I01gLuZqjsrZLmTlRUuJKTqADvHYBU329VKRgijUs9Qh0i9mZrUxokng7a*1xPydAlpqbjrX-&new=1)
+ > 这是过去波士顿动力的科学家欺负机器人的画面 ，据说听说今天机器人终于反击了。。。请看下面视频↓↓↓↓真相如何？？在科学解码首页输入“真相”给你真相。咱们也可以在下面评论里共同探讨。波士顿动力是一家...
+ ## [拿下46个5G合同，中标中移动5G大单!华为将成中国5G建设最大受益者!](http://mp.weixin.qq.com/s?src=11&timestamp=1560646804&ver=1671&signature=yFMffQ7EJpvJHiqEEQHJE0J0LmqFPn4s-h9YaRzkhBg9Xe333eDG6RHcCVlgbidyIN8JKREQa0ERhvqrYgGndn*SKhQ55PgCEnY9T-d0uar6XA1MrnaBqzFt2JaZCS16&new=1)
+ > 自去年以来，由于受美国及其盟国的打压，以及近期的美国“禁令”的影响，华为5G业务在海外市场的拓展确实受到了不小的影响。这也使得华为的竞争对手直接受益。6月3日，诺基亚就宣布其已拿下42份5G订单，超过了华...
+ ## [苹果获得悬停手势专利丨华为手机对欧出货量一季度增长66%\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560646804&ver=1671&signature=mU*9NDlzZyep9A*srPu1izORNNVsHjzUrXduph*hC6bF1pOBSTLlMzhm57KyAMMnCknOgNaxpDXRxySdmKkgDV3bn0ax8TIyjb*uUhoYLYo8Ma5N2eVQF2UNjFruwQQ4&new=1)
  > 6月15日 周六【Do说】编辑 | 李尧苹果获得悬停手势专利，可隔空操控iPhone据PatentlyApple网站报道，美国专利与商标局(PTO)近日授予苹果公司一项悬停技术专利，允许用户通过手指或Apple Pencil隔空操控设备。这
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,40 +75,44 @@ categories: IT NEWS
  > Android Q Beta 4体验：让我们来瞧瞧未来Andriod 10的模样
  ## [如何构建和设计以确保 API 的安全性](http://netsecurity.51cto.com/art/201906/597836.htm)
  > 如何构建和设计以确保 API 的安全性
- ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
- > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [关于java架构心得](https://blog.csdn.net/rongshisuo/article/details/90757849)
- > 关于java架构心得
- ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
- > 云计算介绍之云计算服务器
- ## [STM32总线架构笔记](https://blog.csdn.net/Mamba_1024/article/details/90671661)
- > STM32总线架构笔记
- ## [java中的各种架构](https://blog.csdn.net/weixin_38911591/article/details/90298289)
- > java中的各种架构
- ## [Spark之内核架构剖析](https://blog.csdn.net/dec_sun/article/details/90693096)
- > Spark之内核架构剖析
- ## [区块链学习笔记（1）--区块链的工作原理part1](https://blog.csdn.net/weixin_44826484/article/details/90415284)
- > 区块链学习笔记（1）--区块链的工作原理part1
- ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
- > 【云计算】云计算的前世今生
- ## [浅谈支撑百万级的架构设计](https://blog.csdn.net/change_on/article/details/91041888)
- > 浅谈支撑百万级的架构设计
- ## [轻松学习区块链4 - 区块链浏览器与人机交互](https://blog.csdn.net/wanghao72214/article/details/90349561)
- > 轻松学习区块链4 - 区块链浏览器与人机交互
- ## [架构优化方案](https://blog.csdn.net/baidu_26954625/article/details/90511565)
- > 架构优化方案
- ## [区块链之我见](https://blog.csdn.net/u013755520/article/details/90373262)
- > 区块链之我见
- ## [区块链参考资源](https://blog.csdn.net/shangsongwww/article/details/90298740)
- > 区块链参考资源
- ## [微服务架构、分布式架构、传统架构演化过程洞悉！](https://blog.csdn.net/weixin_44106134/article/details/90676521)
- > 微服务架构、分布式架构、传统架构演化过程洞悉！
- ## [Intel-80386微处理器（IA-32架构）](https://blog.csdn.net/qq_42856154/article/details/90523969)
- > Intel-80386微处理器（IA-32架构）
+ ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
+ > 【前端】slot
+ ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
+ > angular2表单异步验证
+ ## [前端脚手架(cli)实现](https://blog.csdn.net/luchuanqi67/article/details/91283513)
+ > 前端脚手架(cli)实现
+ ## [Cocos Creator游戏开发工具使用教程](https://blog.csdn.net/ankychan/article/details/91447351)
+ > Cocos Creator游戏开发工具使用教程
+ ## [Python-Day07-图形用户界面和游戏开发](https://blog.csdn.net/KEEP_GIONG/article/details/90417805)
+ > Python-Day07-图形用户界面和游戏开发
+ ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
+ > 与操作系统导论对话
+ ## [ajax接口返回图片类型数据，转为base64赋值给img](https://blog.csdn.net/u012193330/article/details/89331398)
+ > ajax接口返回图片类型数据，转为base64赋值给img
+ ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
+ > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
+ ## [区块链游戏开发-僵尸大战](https://blog.csdn.net/runner668/article/details/90406974)
+ > 区块链游戏开发-僵尸大战
+ ## [游戏开发选Cocos2d-x还是Unity3D？](https://blog.csdn.net/qq_38456196/article/details/90409081)
+ > 游戏开发选Cocos2d-x还是Unity3D？
+ ## [Unity 协程的原理](https://blog.csdn.net/qq_38721111/article/details/89394078)
+ > Unity 协程的原理
+ ## [前端常见的优化问题](https://blog.csdn.net/weixin_43595461/article/details/90322399)
+ > 前端常见的优化问题
+ ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
+ > 大专简单的2年程序人生
+ ## [前端学习记录 Day1（Html）](https://blog.csdn.net/qq_41151659/article/details/91355681)
+ > 前端学习记录 Day1（Html）
+ ## [前端图片压缩和角度修正](https://blog.csdn.net/Deng_gene/article/details/90699645)
+ > 前端图片压缩和角度修正
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [为什么说 5G 是物联网的时代？](https://blog.csdn.net/csdnnews/article/details/92211888)
  > 受 5G 冲击最大的领域终将会是谁？
+ ## [著名程序员 Eric S. Raymond ：用 SaaS 是一种危险的愚蠢行为](https://blog.csdn.net/csdnnews/article/details/92152079)
+ > SaaS（Software as a Service）全称为软件即服务，是 21世纪开始兴起的一种完全创新的软件应用模式。对于供应商而言，其将应用软件统一部署在自己的服务...
+ ## [教你用OpenCV实现机器学习最简单的k-NN算法](https://blog.csdn.net/csdnnews/article/details/92152226)
+ > 前言：OpenCV 的构建是为了提供计算机视觉的通用基础接口，现在已经成为经典和最优秀的计算机视觉和机器学习的综合算法工具集。作为一个开源项目，研究者、商业用户和政府部门...
  ## [互联网公司没有中年人](https://blog.csdn.net/csdnnews/article/details/92152026)
  > 作者 |婷婷的勇敢世界本文经授权转载自几何小姐姐（ID：jihexj）其实企业，只要上了规模，人在里头就容易被螺丝钉化，随着系统，制度的完善，你看起来操盘很大的一个生意...
  ## [她说：程序员离开电脑就是 “废物” ！](https://blog.csdn.net/csdnnews/article/details/92082695)
@@ -124,35 +130,38 @@ categories: IT NEWS
  ## [大数据的搜索引擎——Elasticsearch](https://blog.csdn.net/csdnnews/article/details/92065376)
  > 01先看两个故障，带着问题去思考【故障诊断 - 案例 A】首先大致看一下分片未分配原因：结果显示分片大都是因为 node_left 导致未分配，然后通过 explain ...
 # 人工智能 
- ## [物联网卡可帮助解决物联网数据安全问题](https://blog.csdn.net/qq_40798435/article/details/91871290)
- > 物联网卡可帮助解决物联网数据安全问题
- ## [【物联网】物联网数据分析与可视化](https://blog.csdn.net/lsj960922/article/details/90638536)
- > 【物联网】物联网数据分析与可视化
- ## [python游戏开发：pygame中的IO、数据](https://blog.csdn.net/qq_40925239/article/details/90381683)
- > python游戏开发：pygame中的IO、数据
- ## [麻将游戏开发如何适应市场 可持续发展](https://blog.csdn.net/motianyougame/article/details/90445631)
- > 麻将游戏开发如何适应市场 可持续发展
- ## [运维之路（2）](https://blog.csdn.net/weixin_43546282/article/details/90301690)
- > 运维之路（2）
- ## [运维无小事，小事不运维](https://blog.csdn.net/TM6zNf87MDG7Bo/article/details/90359748)
- > 运维无小事，小事不运维
- ## [【物联网】物联网平台开发全栈教程](https://blog.csdn.net/lsj960922/article/details/90295100)
- > 【物联网】物联网平台开发全栈教程
- ## [【物联网】物联网安全---编辑中](https://blog.csdn.net/bandaoyu/article/details/90405912)
- > 【物联网】物联网安全---编辑中
- ## [游戏开发选Cocos2d-x还是Unity3D？](https://blog.csdn.net/qq_38456196/article/details/90409081)
- > 游戏开发选Cocos2d-x还是Unity3D？
- ## [两台服务器ssh免密对端服务器及本机f](https://blog.csdn.net/weixin_42691754/article/details/91881025)
- > 两台服务器ssh免密对端服务器及本机f
- ## [物联网第六步： Tornado的部署](https://blog.csdn.net/sinat_26940175/article/details/91038186)
- > 物联网第六步： Tornado的部署
- ## [物联网卡在物联网中，主要有哪些作用？](https://blog.csdn.net/duozhishidai/article/details/90454104)
- > 物联网卡在物联网中，主要有哪些作用？
- ## [人工智能解决方案 --- 智能运维](https://blog.csdn.net/micklongen/article/details/90311395)
- > 人工智能解决方案 --- 智能运维
- ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
- > 物联网卡还可以用在农业自动化的哪些方面
- ## [Python-Day07-图形用户界面和游戏开发](https://blog.csdn.net/KEEP_GIONG/article/details/90417805)
- > Python-Day07-图形用户界面和游戏开发
+ ## [运维同步rsync](https://blog.csdn.net/woshaguayi/article/details/90680157)
+ > 运维同步rsync
+ ## [20年研发管理经验谈（一）](https://blog.csdn.net/weixin_39759846/article/details/90410145)
+ > 20年研发管理经验谈（一）
+ ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
+ > 前端——JQuery基础
+ ## [前端代码书写规范](https://blog.csdn.net/qq_35715972/article/details/90515670)
+ > 前端代码书写规范
+ ## [Hadoop集群运维](https://blog.csdn.net/qq_35488412/article/details/91042033)
+ > Hadoop集群运维
+ ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
+ > 20年研发管理经验谈（五）
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [前端 之 JavaScript基础](https://blog.csdn.net/linwow/article/details/90723209)
+ > 前端 之 JavaScript基础
+ ## [ajax接口返回图片类型数据，转为base64赋值给img](https://blog.csdn.net/u012193330/article/details/89331398)
+ > ajax接口返回图片类型数据，转为base64赋值给img
+ ## [oracle日常运维11g](https://blog.csdn.net/weixin_43813742/article/details/90402235)
+ > oracle日常运维11g
+ ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
+ > 爱的故事，用Jira策划的浪漫婚礼
+ ## [ONES 沙龙深圳站 | 6月15日，邀您一起畅谈「敏捷实践」](https://blog.csdn.net/ones_ai/article/details/91044624)
+ > ONES 沙龙深圳站 | 6月15日，邀您一起畅谈「敏捷实践」
+ ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
+ > \[Linux\]运维面试(一)
+ ## [前端常见的优化问题](https://blog.csdn.net/weixin_43595461/article/details/90322399)
+ > 前端常见的优化问题
+ ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
+ > 运维常用操作(持续更新)
+# PM 
+ ## [趋势 | 声音的未来：即将永远改变的行业](http://www.woshipm.com/ai/2452525.html)
+ > 语音技术的发展越来越迅速，并且越来越智能，亚马逊的 Alexa、谷歌的智能助手、微软的 Cortana 等语音服务，这些都正在影响着我们的生活……语音用户界面技术变得越来越...
 
     
