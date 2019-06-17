@@ -1,41 +1,25 @@
 ---
 title: 2019-06-17 IT News
 copyright: true
-date: 2019-06-17 08:01:04
+date: 2019-06-17 09:02:39
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [你说那是幽暗之谷，我却看到了世界之巅||大视野](http://mp.weixin.qq.com/s?src=11&timestamp=1560729604&ver=1673&signature=o5FQb293tfL-aDn3iUvKJMCCHWvgjiNtfpTIyEqGIn7xD*xHiTZrJEPMa2XZjsG7KraDj-p6dDuhOjy3b50tg3s6VE5ztl*Va29-ZDfmbXHyH91u1h8ha-BQUKTZ6DCh&new=1)
- > 这篇文章从一个问题开始：假设谷歌不再和华为有任何联系，华为手机会发生什么？文末有华为消费者业务领导人余承东的回答，但请不要直接跳到最后，重要的是中间的分析过程。提出这个问题的背景是，5月15日美国商...
- ## [恒大建沈阳新能源车基地丨三星在华最后手机厂继续裁员\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560729604&ver=1673&signature=uDDMVnUafZGRKcq4sPouckHbKpbhFQIzCkuQv-ouvvD78k3wfVaJGaVXKv0Kvnxv4SZs1odv6cPweUSEi4VYSzBjvAJIHsujHq7BHUHOhyDKYM-x0ZOnAVVrVM2Pbme9&new=1)
- > 6月14日 周五【Do说】编辑 | 李尧恒大投逾千亿建沈阳新能源车基地，一周内连连出手继6月11日于广州宣布将投资1600亿在广州南沙区建设新能源汽车三大基地之后，恒大集团很快又有新动作。6月15日，沈阳市人民政府...
- ## [\[C114周报\]顾晓敏升任中国铁塔总经理；中国移动拉开5G规模集采序幕；联通G.654.E光缆首次集采废标](http://mp.weixin.qq.com/s?src=11&timestamp=1560729604&ver=1673&signature=ZEXkteuJfHuEI*GYj8DDa9h5P7wDSVpm4F-sJTQ7*4A8n1ZdAJj7KbZfIipzUDIlbO8A9BOCbQOUHWcJWluPV6CaEYW4MIbbqrS7W-ZPyqXeyDuYZzdRRFyRJQDUzCfz&new=1)
- > 周报WEEKLY本周热点有顾晓敏升任中国铁塔总经理；中国移动拉开5G规模集采序幕；联通G.654.E光缆首次集采废标• 第048期 •顾晓敏升任中国铁塔总经理6月10日中国铁塔公告称，董事会宣布，顾晓敏获委任为公司总经...
- ## [河工大副校长李铁军：冰雪3D打印机器人今冬亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1560729604&ver=1673&signature=ifDL5ZS*f-7KhFrkKiPzXls5jInIRR31HT9PXYbGiqlmv0Z6TMZx2254zWTfsebhUW1AwcxYSC9pzueso8X27bGNbwYRyiok-F8k6lUDu5fOp-k3EYKq8lx9DASWjSiK&new=1)
- > “机器人经历了‘看得见、听得着’的时代之后，怎样拥有感知能力？提升触觉方面的能力将成为下一个‘风口’。”6月13日，河北“双创”周期间，河北工业大学副校长李铁军接受记者专访时表示。李铁军从上世纪90年...
- ## [\[CES回顾\]工匠社 GANKER EX 首登上海CES展“人机一体”带来非凡体验](http://mp.weixin.qq.com/s?src=11&timestamp=1560729604&ver=1673&signature=VcolJlT-O2f8lQFBJyKcwfvjLpzVR2kIE0dEsev5zZX-J6kxaMzXBYfChiLCfszL3zobpnfvTzTzUEe8qD*R9Xt3oziTy4MWK3adbCekYiitAZTbFGVT1iDApi-rJnbA&new=1)
+ ## [\[CES回顾\]工匠社 GANKER EX 首登上海CES展“人机一体”带来非凡体验](http://mp.weixin.qq.com/s?src=11&timestamp=1560733205&ver=1673&signature=VcolJlT-O2f8lQFBJyKcwfvjLpzVR2kIE0dEsev5zZUXjmwZRJXk7ovuDG3-0LfY8j9Dp*4-Efg*Co5ahsDTeJQx3wjGUYhT5*gA1FZIKHXR7nd7QfnqUlRdWhBr7gwq&new=1)
  > 导读：工匠社新一代格斗机器人GANKER EX，利用控制器同步姿态，真正做到了人机一体，为广大的机甲游戏爱好者获得更多乐趣提供了可能。在前几天的2019上海亚洲消费电子展（简称CES）上，两款来自深圳工匠社科技有...
- ## [如何看待软件修改大神zd423诈骗网民钱财、卖网站双重跑路？](https://www.zhihu.com/question/57477393)
- > 先提供我知道的事情，大家自行判断吧。2013年的时候，那个时候大家都用某良心KB软件看片，这个软件首屏幕有个叫风向标的搜索，某人找到我让将这个风向标改掉里面的链接，由于我不会SWF的反汇编，并且之前听zd42...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 人很容易死。
+ ## [\[C114周报\]顾晓敏升任中国铁塔总经理；中国移动拉开5G规模集采序幕；联通G.654.E光缆首次集采废标](http://mp.weixin.qq.com/s?src=11&timestamp=1560733205&ver=1673&signature=ZEXkteuJfHuEI*GYj8DDa9h5P7wDSVpm4F-sJTQ7*4CSM*0OgCC2qvE6d3dq6A76ZXFiKXSH7jiM28UpfdrJT27rEVTRDw1CRly0tRAJuEgaZfpsAapPZjspHKoqZoHi&new=1)
+ > 周报WEEKLY本周热点有顾晓敏升任中国铁塔总经理；中国移动拉开5G规模集采序幕；联通G.654.E光缆首次集采废标• 第048期 •顾晓敏升任中国铁塔总经理6月10日中国铁塔公告称，董事会宣布，顾晓敏获委任为公司总经...
+ ## [恒大建沈阳新能源车基地丨三星在华最后手机厂继续裁员\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1560733205&ver=1673&signature=uDDMVnUafZGRKcq4sPouckHbKpbhFQIzCkuQv-ouvvDuj3kzbhhOzBkOboTvqbR2UtCpR6IVMJd1xLvJ-h0C4vQHC--QfZVMhOq6FOaKn5j6j6Y9u-9JrAVd0kLtprLt&new=1)
+ > 6月14日 周五【Do说】编辑 | 李尧恒大投逾千亿建沈阳新能源车基地，一周内连连出手继6月11日于广州宣布将投资1600亿在广州南沙区建设新能源汽车三大基地之后，恒大集团很快又有新动作。6月15日，沈阳市人民政府...
+ ## [你说那是幽暗之谷，我却看到了世界之巅||大视野](http://mp.weixin.qq.com/s?src=11&timestamp=1560733205&ver=1673&signature=o5FQb293tfL-aDn3iUvKJMCCHWvgjiNtfpTIyEqGIn5*R30asd1oHr0-Qn6qNUWDkt7VQws5x8uCBTIQ8*6t-5rDzjz5AuOM5qO0bG0r8X0w-hfzkO691WZy6qojf7S4&new=1)
+ > 这篇文章从一个问题开始：假设谷歌不再和华为有任何联系，华为手机会发生什么？文末有华为消费者业务领导人余承东的回答，但请不要直接跳到最后，重要的是中间的分析过程。提出这个问题的背景是，5月15日美国商...
+ ## [河工大副校长李铁军：冰雪3D打印机器人今冬亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1560733205&ver=1673&signature=ifDL5ZS*f-7KhFrkKiPzXls5jInIRR31HT9PXYbGiqn1VdP9ZcYUNFa8j6kNhrCFKY4yy0a98LP1IDuEar-1H401B5JwqM8QE-3Nov05GJYc3aR9o8z7qkSmwxZGAnKo&new=1)
+ > “机器人经历了‘看得见、听得着’的时代之后，怎样拥有感知能力？提升触觉方面的能力将成为下一个‘风口’。”6月13日，河北“双创”周期间，河北工业大学副校长李铁军接受记者专访时表示。李铁军从上世纪90年...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
- ## [如何看待最新版本QQ开启小视频时代？头腾大战升级？](https://www.zhihu.com/question/280732426)
- > 腾讯其实早有这方面的打算了，2017年初腾讯就开发了主要用于短视频的qq另版本，Qim。其实QIM和TIM起初是为了不同用户需求而定制的qq版本，但是到后面，腾讯可能觉得没必要精细化业务，决定流产QIM。除了那...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
  > 想想你为什么做自媒体，你就明白了。一、根据兴趣我们在选择领域时，可以根据自己的兴趣来，你喜欢化妆就做美妆领域，你喜欢美食就做美食领域，热爱写作就专注于写作领域，做自己喜欢做的事你会更有动力，哪怕从零开...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 脑机接口，电池，量子计算都有人提到了，但是竟然没有人提到Gartner Hype Cycle！而且不少答案谈了畅想，却没扣住基础科学的题，实在是有点粗糙。 下面我作为一个一线科研人员+技术观察爱好者，就借助2018年的技术...
- ## [天猫超市的东西那么贵，为什么大家会说便宜？](https://www.zhihu.com/question/51189748)
- > 简木要说句话，猫超是真便宜！关键看你会不会买，先跟大家说一下我自身的情况：秒杀从来秒不到的,领优惠券从来都是大家都能看到无限领的，免费试用从来抽不中的，活动通常结束才发现的！没错，就是我这样的倒霉体质也...
- ## [章泽天喜欢/欣赏刘强东的什么？](https://www.zhihu.com/question/38780814)
- > 史记 刘强东章泽天列传刘强东，彭城下相人也。少时家贫，祖无显业，二老以渡泊为生，乃迁子于祖母所，以故强东曰:“吾幼惟祖母是依，向自独立，用事由己，无顾他人言语。”强东为人，和颜而悦色，无须发之白，鲜衰老...
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 我想，既然你们是做软件工程开发相关的工作，那么选择drupal比较好。drupal的扩展性比较好，又稳定，权限管理功能很强大，用户管理也很好用。module很多，基本上可以做成任何类型的网站。views可以做出任何你想要的页...
- ## [作为产品经理，有必要考各种证书吗？比如：pmp，npdp。证书对薪资有影响吗？](https://www.zhihu.com/question/64549065)
- > 对薪资有没有影响具体看公司了，说实在的，公司更重视你具体都做过哪些项目，有没有实战经验，证书的意义是为了证明能力，但不管什么证书，都是有胜于无的。但是对面试的的确确是有一定影响的，不管是去面试产品经理...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [机械行业想转行IT互联网行业，大家有什么好的建议？](https://www.zhihu.com/question/25742003)
@@ -56,7 +40,25 @@ categories: IT NEWS
  > 上瘾结束之后，黄景瑜许魏洲空降娱乐圈黄景瑜当时人气压过帝国三子和四大流量许魏洲比黄景瑜差点但是也没差多少接着两人被封杀但是， 即使如此 ，黄景瑜许魏洲依旧是杀出一条血路来， 黄景瑜靠红海行动， 许魏洲靠专...
  ## [怎么在小红书平台做推广？](https://www.zhihu.com/question/327685649)
  > 首先小红书推广对于美妆、母婴、健身等主流电商产品来讲，其用户口碑分享的特点具有产品引流、口碑营销、引爆话题的先天优势。在小红书推广过程中利用小红书KOL生产原创内容来吸引用户主动搜索，提升产品曝光，可...
+ ## [目前主流的数据库是哪种？](https://www.zhihu.com/question/311463854)
+ > 我推荐几个互联网行业用的多的，不同场景会有不同的选择。关系型就是MySQL，不多说了。也可以关注一些new SQL的实现，比如说tidb，基本和MySQL兼容，但是scale能力更强。NoSQL比较好的还挺多的，我推...
+ ## [天猫超市的东西那么贵，为什么大家会说便宜？](https://www.zhihu.com/question/51189748)
+ > 评论里说我虾图是盗的，呵呵哒，谁才是盗图者？自己看看吧，不客气的说，我才是这个订单的创始者。那些个拿来主义我都不想多说了。截个别人的图就是自己的，有本事放更多订单信息出来啊。我这暴脾气。。。我再贴为防...
+ ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
+ > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
+ ## [如何对比有线电视、IPTV、电信电视？](https://www.zhihu.com/question/37379455)
+ > 客厅争霸赛愈演愈烈，广电的有线电视、互联网公司的网络电视盒子、运营商的IPTV机顶盒，这三方瞄准百姓家中的电视业务展开了厮杀。这场三国演义，虽然热闹好看，但是内行还是要看门道的，所以月光坦克针对三方角...
+ ## [如果最衰弱的清朝穿越到秦朝能吊打秦军吗？如果能，需要多少军队?](https://www.zhihu.com/question/51975514)
+ > 秦人：卧槽对面是什么玩意！卧槽这些都是传说中的神术吗要死要死！卧槽怎么对面自己乱了？卧槽神仙互杀啊这辈子值了！卧槽瓜子原来这么好吃。===============大约是分割线============不要神化致病原的作用，这玩意如...
+ ## [你用过的最让你震惊的网站有哪些？为什么？](https://www.zhihu.com/question/20030360)
+ > 有一个让人震惊的网站，想必大家都用过！百度啊，每次用百度搜出来的结果都是什么鬼，还不如知乎好使。：）假装以上是知乎的硬广，好了，下面进入正题，睁大双眼，千万不要错过这些震惊又好用的网站！哈哩哈哩H站 -...
+ ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
+ > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [花了一个星期，我终于把RPC框架整明白了！](http://developer.51cto.com/art/201906/597963.htm)
+ > 花了一个星期，我终于把RPC框架整明白了！
  ## [如何用multipass安全地测试bash脚本？](http://server.51cto.com/sOS-597938.htm)
  > 如何用multipass安全地测试bash脚本？
  ## [在敏捷转型中，企业应该避免的6种错误](http://developer.51cto.com/art/201906/597876.htm)
@@ -71,60 +73,64 @@ categories: IT NEWS
  > 看完这篇，妈妈还会担心你Docker入不了门？
  ## [私域流量新战役：圈用户、画地盘，挣脱巨头控制](http://news.51cto.com/art/201906/597858.htm)
  > 私域流量新战役：圈用户、画地盘，挣脱巨头控制
- ## [Android Q Beta 4体验：让我们来瞧瞧未来Andriod 10的模样](http://mobile.51cto.com/android-597855.htm)
- > Android Q Beta 4体验：让我们来瞧瞧未来Andriod 10的模样
+ ## [你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo](http://news.51cto.com/art/201906/597953.htm)
+ > 正在CMU就读的中国小哥Lingdong Huang同学创造的涂鸦世界，在这个世界里，任何人都能像神笔马良一样，随便
+ ## [400G OTN网络技术探讨](http://network.51cto.com/art/201906/597964.htm)
+ > 相比于当前部署的100G系统，400G技术具备大带宽、低时延、低功耗等优势，部署400G系统来满足带宽需求已是大
+ ## [洞见：并非作弊 开放测试标准可提高安全性](http://zhuanlan.51cto.com/art/201906/597962.htm)
+ > 网络由很多定义标准不同的部分组成。这些标准有助于解决从安全性到性能和可用性相关的网络问题。
+ ## [破坏攻击者利用域凭据](http://netsecurity.51cto.com/art/201906/597960.htm)
+ > 攻击者如何在组织的网络中从一台机器移动到另一台机器。许多人认为攻击者利用零日攻击但事实并非如此。攻击
+ ## [太厉害了，终于有人能把TCP/IP协议讲的明明白白了！](http://developer.51cto.com/art/201906/597961.htm)
+ > 从字面意义上讲，有人可能会认为 TCP/IP 是指 TCP 和 IP 两种协议。实际生活当中有时也确实就是指这两种协
+ ## [Teradata CTO宝立明：运用分析引擎实现机器学习和深度学习](http://bigdata.51cto.com/art/201906/597958.htm)
+ > Teradata天睿公司首席技术官宝立明(Stephen Brobst)认为，高级分析的发展可以分为三个阶段：第一阶段是描述
+ ## [当监狱遇到物联网，肖申克还能完成他的“救赎”吗？](http://iot.51cto.com/art/201906/597959.htm)
+ > 数字化转型正在彻底改变我们的工作方式，包括监控和管理日常事务的方式。它重塑了一个又一个行业，在不同方
  ## [有效预防黑客DDoS攻击的技巧](http://netsecurity.51cto.com/art/201906/597952.htm)
  > 如果说以前网络管理员对抗Dos可以采取过滤IP地址方法的话，那么面对当前DDoS众多伪造出来的地址则显得没有
  ## [物联网――隐私、网络安全和责任](http://iot.51cto.com/art/201906/597954.htm)
  > 日益互联的世界带来了新的挑战，我们都被连接到互联网的设备包围着。这个相互连接的设备网络就是物联网(IOT
  ## [关于边缘计算，你可以了解的更多一点](http://iot.51cto.com/art/201906/597949.htm)
  > 边缘计算和物联网几乎是完美匹配的。在最近两年，所有关于物联网技术趋势报告中都有边缘计算。IDC预测，到2
- ## [十二大主流云安全威胁](http://zhuanlan.51cto.com/art/201906/597948.htm)
- > 越来越多的数据和应用程序正在转移到云上，这一趋势带来了独特的信息安全挑战。以下是企业在使用云服务时所
- ## [2019年5月GitHub上最热门的Python项目](http://developer.51cto.com/art/201906/597946.htm)
- > 5月份GitHub上最热门的Python项目出炉了，下面我们一起盘点一下。
- ## [互联网女皇报告中忽视了的5G基础设施红利](http://network.51cto.com/art/201906/597945.htm)
- > 全球互联网渗透率超过50%，人口红利持续衰减，互联网女皇强调，新的增长点依然难觅。不过，基础设施红利正
- ## [memcache内核，一文搞定！面试再也不怕了！！！（值得收藏）](http://zhuanlan.51cto.com/art/201906/597947.htm)
- > memcache是互联网分层架构中，使用最多的的KV缓存。面试的过程中，memcache相关的问题几乎是必问的，关于me
- ## [寻找物联网预测性维护软件？首先，看一下这个...](http://iot.51cto.com/art/201906/597944.htm)
- > 毫无疑问，预测性维护预测计划外停机事件和质量偏差的能力被证明是游戏规则的改变者，预测性维护可能是最吸
- ## [Adobe研发AI工具 可以自动发现被PS的人类面部](http://news.51cto.com/art/201906/597957.htm)
- > 今天，Adobe 与加州大学伯克利分校的科学家合作分享了新的研究成果，这些科学家使用机器学习来自动检测面部
- ## [在东京生活的中国IT程序员](http://news.51cto.com/art/201906/597955.htm)
- > 应之前文章的博友邀请，我来开一篇在日本东京生活的中国 IT 程序员自谈，文中的讨论对象多为我自己或者是
- ## [音视频学习笔记-OpenGL概念理解](https://blog.csdn.net/shengpeng3344/article/details/90664940)
- > 音视频学习笔记-OpenGL概念理解
- ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
- > 要转行Python又不清楚行业现状和前景，这样怎么能行？
- ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
- > 项目研发管理经验交流
- ## [20年研发管理经验谈（四）](https://blog.csdn.net/weixin_39759846/article/details/90750766)
- > 20年研发管理经验谈（四）
- ## [AwesomePlayer实现过程分析](https://blog.csdn.net/shanshenyuyou/article/details/91431674)
- > AwesomePlayer实现过程分析
+ ## [音视频直播总结](https://blog.csdn.net/SunFlowerInRain/article/details/91528427)
+ > 音视频直播总结
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [36 守护进程、守护线程、锁](https://blog.csdn.net/weixin_43265998/article/details/91549552)
+ > 36 守护进程、守护线程、锁
+ ## [基于electron的音视频播放器](https://blog.csdn.net/vgub158/article/details/91490185)
+ > 基于electron的音视频播放器
+ ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
+ > 项目开始阶段（一）
+ ## [Java新特性之方法引用](https://blog.csdn.net/mi_zhi_lu/article/details/91367021)
+ > Java新特性之方法引用
+ ## [java面试基础复习----基础的基础（1）](https://blog.csdn.net/weixin_44791262/article/details/90611127)
+ > java面试基础复习----基础的基础（1）
+ ## [音视频学习笔记-向量理解](https://blog.csdn.net/shengpeng3344/article/details/91450197)
+ > 音视频学习笔记-向量理解
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
+ ## [音视频基础知识（二）](https://blog.csdn.net/Viiou/article/details/90678819)
+ > 音视频基础知识（二）
+ ## [练习1-13 垂直方向直方图](https://blog.csdn.net/smilezyf/article/details/91047119)
+ > 练习1-13 垂直方向直方图
+ ## [ios逆向学习过程——使用theos创建第一个tweak](https://blog.csdn.net/ruozhixiaohaia/article/details/91345792)
+ > ios逆向学习过程——使用theos创建第一个tweak
  ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
  > python3下载抖音视频
- ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
- > 最简单的深度学习入门书《动手学深度学习》
- ## [20年研发管理经验谈（一）](https://blog.csdn.net/weixin_39759846/article/details/90410145)
- > 20年研发管理经验谈（一）
- ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
- > 音视频技术开发周刊 94期
- ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
- > IBM-IPD研发管理职能
- ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
- > 京东技术架构师总结：深入理解Spring中的各种注解
- ## [程序人生思考之协同](https://blog.csdn.net/soliy/article/details/90550301)
- > 程序人生思考之协同
- ## [音视频开发——（四）编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
- > 音视频开发——（四）编码音频
- ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”](https://blog.csdn.net/Java__world/article/details/90514397)
- > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”
- ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
- > 【音视频】1.音视频基本概念
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [JAVA对象创建过程内存图解](https://blog.csdn.net/lwfr_jqw/article/details/91351357)
+ > JAVA对象创建过程内存图解
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [维基解密创始人阿桑奇或将面临最高 175 年监禁](https://blog.csdn.net/csdnnews/article/details/92423689)
+ > 作者 | 素年清时责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）6月13日，据每日电讯报报道，英国已批准美国引渡阿桑奇的请求。美国称维基解密创始人阿桑奇违...
+ ## [在不确定的世界，如何应对风险](https://blog.csdn.net/csdnnews/article/details/92423720)
+ > 现在这个社会，不确定每天都在发生，身处其中的我们，要如何应对才能规避风险呢？很多人都听过这个段子：俞敏洪被抢劫，劫匪给他注射了大象用的麻醉剂，他居然抢救成功，活了下来。醒...
+ ## [张江芯路二十年](https://blog.csdn.net/csdnnews/article/details/92423746)
+ > 从芯片制造起步，上海张江已经成为中国规模最大、产业链相对最完整的集成电路产业园之一。作者 |姚心璐编辑| 安心本文经授权转载自全天候科技（ID：iawtmt）田野相连...
  ## [Python 分析在德的中国程序员，告别 996 ？](https://blog.csdn.net/csdnnews/article/details/92423611)
  > 作者 | 李辉责编 | 胡巍巍出品 | 程序人生（ID:coder_life）今年5月27日， 一位据说在德国的中国程序员@将记忆深埋在微博公布：“半年时间，100多TB...
  ## [鸿蒙将至，安卓安否？](https://blog.csdn.net/csdnnews/article/details/92408602)
@@ -146,36 +152,36 @@ categories: IT NEWS
  ## [昔日龙头企业天合光能，美股退市后重登科创板意欲几何](http://www.lanjingtmt.com/news/detail/43135.shtml)
  > 全球最大光伏组件供应商天合光能在纽交所上市十年后，宣布退市，并表示要回归A股，随着科创板不断升温，天合光能决定登陆科创板。作为光伏行业的龙头企业，天合光能是否能如愿以偿呢？
 # 人工智能 
- ## [麻将游戏开发如何适应市场 可持续发展](https://blog.csdn.net/motianyougame/article/details/90445631)
- > 麻将游戏开发如何适应市场 可持续发展
- ## [实战用pylucene为搜素引擎增添检索功能](https://blog.csdn.net/weixin_44995023/article/details/91357733)
- > 实战用pylucene为搜素引擎增添检索功能
- ## [python游戏开发：初识pygame](https://blog.csdn.net/qq_40925239/article/details/90381582)
- > python游戏开发：初识pygame
- ## [BSL编程语言 —— 系统化程序设计](https://blog.csdn.net/CSDoneRight/article/details/90720786)
- > BSL编程语言 —— 系统化程序设计
- ## [从零开始学习神经网络：一个快速入门Python机器学习的经典实战项目](https://blog.csdn.net/weixin_44995023/article/details/91356470)
- > 从零开始学习神经网络：一个快速入门Python机器学习的经典实战项目
- ## [Unity 协程的原理](https://blog.csdn.net/qq_38721111/article/details/89394078)
- > Unity 协程的原理
- ## [NLP实现文本情感分析的两大方法优劣对比以及实例解析](https://blog.csdn.net/weixin_44995023/article/details/91546092)
- > NLP实现文本情感分析的两大方法优劣对比以及实例解析
- ## [实战朴素贝叶斯文本分类：从 导入数据文件 到 得到84%准确率](https://blog.csdn.net/weixin_44995023/article/details/91804297)
- > 实战朴素贝叶斯文本分类：从 导入数据文件 到 得到84%准确率
- ## [蚂蚁金服终端实验室演进之路](https://blog.csdn.net/yunqiinsight/article/details/90899631)
- > 蚂蚁金服终端实验室演进之路
- ## [Visual C++游戏编程基础之多背景循环动画](https://blog.csdn.net/Sruggle/article/details/91356639)
- > Visual C++游戏编程基础之多背景循环动画
- ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
- > Visual C++游戏编程基础之利用鼠标消息实现贴图
- ## [【科普】7大含金量最高的编程语言](https://blog.csdn.net/weixin_40897235/article/details/90399967)
- > 【科普】7大含金量最高的编程语言
- ## [Python爬虫从入门到上瘾（包含如何观察ajax数据源的详细图解）](https://blog.csdn.net/weixin_44995023/article/details/91346438)
- > Python爬虫从入门到上瘾（包含如何观察ajax数据源的详细图解）
- ## [Visual C++游戏编程基础之动画显示问题](https://blog.csdn.net/Sruggle/article/details/90952187)
- > Visual C++游戏编程基础之动画显示问题
- ## [游戏开发选Cocos2d-x还是Unity3D？](https://blog.csdn.net/qq_38456196/article/details/90409081)
- > 游戏开发选Cocos2d-x还是Unity3D？
+ ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
+ > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
+ ## [探索Flutter配置过程中的坑](https://blog.csdn.net/HflyDragon/article/details/91450225)
+ > 探索Flutter配置过程中的坑
+ ## [LANMP安全配置之Apache安全配置](https://blog.csdn.net/syy0201/article/details/90050043)
+ > LANMP安全配置之Apache安全配置
+ ## [Android开发-Android应用中启动时引导页的实现](https://blog.csdn.net/fukaimei/article/details/89667584)
+ > Android开发-Android应用中启动时引导页的实现
+ ## [构建HTTPS安全网站](https://blog.csdn.net/S_XYY/article/details/90415185)
+ > 构建HTTPS安全网站
+ ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
+ > iOS开发安全 防反编译
+ ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
+ > LANMP安全配置之Nginx安全配置
+ ## [汽车化身智能车联网全靠物联网卡](https://blog.csdn.net/qq_40798435/article/details/91444684)
+ > 汽车化身智能车联网全靠物联网卡
+ ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
+ > 阿里云DataV专业版发布，为可视化创造更多可能！
+ ## [【物联网】阿里云物联网应用托管](https://blog.csdn.net/lsj960922/article/details/90639366)
+ > 【物联网】阿里云物联网应用托管
+ ## [安全的路由交换--端口安全](https://blog.csdn.net/zhaotiannuo_1998/article/details/90705186)
+ > 安全的路由交换--端口安全
+ ## [【物联网】物联网安全---编辑中](https://blog.csdn.net/bandaoyu/article/details/90405912)
+ > 【物联网】物联网安全---编辑中
+ ## [smobiler介绍（一）](https://blog.csdn.net/Smobiler/article/details/90765033)
+ > smobiler介绍（一）
+ ## [物联网卡在物联网中，主要有哪些作用？](https://blog.csdn.net/duozhishidai/article/details/90454104)
+ > 物联网卡在物联网中，主要有哪些作用？
+ ## [前端性能优化与安全](https://blog.csdn.net/weixin_41105030/article/details/90311515)
+ > 前端性能优化与安全
 # PM 
  ## [互联网公司没有中年人](http://www.pmtoo.com/article/75941.html)
  > 互联网只一个符号，变化也只是一个状态。在这个复杂多变的社会下，不断提升认知，不断充实自己的专业技能将永远重要。...
