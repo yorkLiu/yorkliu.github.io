@@ -1,29 +1,43 @@
 ---
 title: 2019-06-18 IT News
 copyright: true
-date: 2019-06-18 09:01:03
+date: 2019-06-18 10:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2019年6月17日 星期一</b></summary><div class="news-list-content"><p>1. &#24191;&#19996;&#65306;&#20013;&#22269;&#31532;&#19968;&#37096;&#21270;&#22918;&#21697;&#23433;&#20840;&#30417;&#31649;&#22320;&#26041;&#27861;&#35268;&#23558;&#20110;&#20170;&#24180;7&#26376;1&#26085;&#27491;&#24335;&#23454;&#26045;</p>
+<p>2. &#25171;&#36896;&#31908;&#28207;&#28595;&#22823;&#28286;&#21306;&#27426;&#20048;&#26032;&#22320;&#26631;&#65292;&#24191;&#24030;&#34701;&#21019;&#25991;&#26053;&#22478;&#30427;&#22823;&#24320;&#24149;</p>
+<p>3. &#30334;&#24230;&#32593;&#30424;Linux&#29256;&#21457;&#24067;&#65306;&#19987;&#20026;&#20013;&#26631;&#40594;&#40607;&#25805;&#20316;&#31995;&#32479;&#25171;&#36896;</p>
+<p>4. &#8220;&#36710;&#32852;&#32593;+&#22320;&#29702;&#20449;&#24687;&#8221;&#65292;&#27993;&#27743;&#24503;&#28165;&#25171;&#36896;&#33258;&#21160;&#39550;&#39542;&#19982;&#26234;&#24935;&#20986;&#34892;&#31034;&#33539;&#21306;</p>
+<p>5. &#21271;&#20140;&#22810;&#37096;&#38376;&#65306;&#30005;&#21830;&#8220;6.18&#8221;&#19981;&#24471;&#29992;&#8220;&#20165;&#38480;&#20170;&#26085;&#8221;&#8220;&#20170;&#26085;&#29305;&#24800;&#8221;&#31561;&#24418;&#24335;&#20419;&#38144;</p>
+<p>6. &#20013;&#22269;&#31227;&#21160;&#20844;&#24067;&#26680;&#24515;&#32593;5G&#22823;&#21333;&#65292;&#21326;&#20026;&#20013;&#20852;&#29233;&#31435;&#20449;&#35834;&#22522;&#20122;&#20013;&#26631;</p>
+<p>7. &#21326;&#20026;&#25366;&#26469;&#25805;&#20316;&#31995;&#32479;&#39030;&#32423;&#19987;&#23478;&#33258;&#30740;&#8220;&#40511;&#33945;&#8221; &#26032;&#26426;&#22791;&#36135;&#25110;&#36229;&#30334;&#19975;</p>
+<p>8. &#19978;&#28023;&#20132;&#36890;&#25191;&#27861;&#37096;&#38376;&#32422;&#35848;&#28404;&#28404;&#65306;6&#26376;&#24213;&#21069;&#20840;&#38754;&#33258;&#26597;&#28165;&#36864;&#26080;&#36164;&#36136;&#36710;&#36742;</p>
+<p>9. &#22312;&#32447;&#22270;&#29255;&#32534;&#36753;&#21644;&#24179;&#38754;&#35774;&#35745;&#24037;&#20855;&#12300;&#21019;&#23458;&#36148;&#12301;&#23436;&#25104;3000&#19975;&#20803;A+&#36718;&#34701;&#36164;</p>
+<p>10. &#20114;&#32852;&#32593;&#31199;&#25151;&#26381;&#21153;&#24179;&#21488;&#12300;&#33258;&#22914;&#32593;&#12301;&#33719;B&#36718;5&#20159;&#32654;&#20803;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [\[报告\]叩击2025—新能源车企“中局之战”(附34页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560819605&ver=1675&signature=sI424z5UT8tnG4IavcVIlofsSvByRKJ08wZuSNO*ru2BPdwzX38l-TSikbRAcat*OwCyjyG5rQ-gahxaBwzCe0abbBQZURFHwlk1Ru9ZTFH6yoKVVMdd3wJhPrQ155QW&new=1)
- > 新能源汽车成为了一个 “现象级 ”产业。随着世界范围内对节能减排、发展可再生能源的诉求日益强烈，各国政府都在积极推动新能源汽车产业的发展。无论是一向理念创新的欧洲，还是经济高速腾飞的亚太地区，都纷纷...
- ## [德国新闻|人工智能哪家强?我们的机器人都会跑堂了，欧洲醒醒吧!](http://mp.weixin.qq.com/s?src=11&timestamp=1560819605&ver=1675&signature=FNhEyDfFytpOiqEokXTOrXObXaD5-k20zyjPBfInyTKzx1e-Pv2oKI2VN6HOHeKxvBnvyv5Y5IhlweVlgBxVhlLDV3s1Pm69xUcNwVYNL6z7R-O3pmiXPtYFJV-2L-kn&new=1)
- > 在2019年的当下，人工智能毫无疑问是全世界最大的热点，也是美国、中国等强国必争的科技高地。2019年国际人工智能大会将于明日（6月18日）在北京召开，届时，Facebook、微软、阿里巴巴和IBM等全球科技领域巨头也...
- ## [85分钟视频|任正非与美国学者重磅对话：华为是打不死的鸟](http://mp.weixin.qq.com/s?src=11&timestamp=1560819605&ver=1675&signature=gfgpN1Iwrq--swE12LBsQnF2Y2lVBMTe8-j7Jd7wvd-2K7P4S4-AAY2qtMZsH6xkQ5*bM*4F0vhby-*kR0canw-QVZpLZN*UkvCLkmbLwLGsfNFBiYhQS*Lx5A4NBU6n&new=1)
+ ## [85分钟视频|任正非与美国学者重磅对话：华为是打不死的鸟](http://mp.weixin.qq.com/s?src=11&timestamp=1560823204&ver=1675&signature=gfgpN1Iwrq--swE12LBsQnF2Y2lVBMTe8-j7Jd7wvd8xTJdzLs7UKohljUrXCiBX--oImW9OxuPaj1WaBNy0BbaisQMygu2kRqmI82QFf2Wlui-ldu1*4HFEWxfMv23L&new=1)
  > 近一个月前，在没有任何证据的情况下，美国将华为拉黑名单。之后各种消息和谣言不断。即使面临如此巨大挑战，华为依然坚韧，并在近期与美国知名人士“喝咖啡”。 6月17日下午，华为创始人任正非在深圳与数字时代...
- ## [卡车司机更早解放双手?商用车成自动驾驶落地第一战场](http://mp.weixin.qq.com/s?src=11&timestamp=1560819605&ver=1675&signature=zRq*5Zcqlb3ikEtK7k5Xck8weNVCZloFIOXEjM33p9hM*D6AaiSBkLtIlhYFc1NATyUvuNqG3M7f7JtKEDjXxbknjM9hdP17u3R5ddLz3brh4fdMCuftDSrqEbCoYjWH&new=1)
+ ## [5G来了，6G还会远吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1560823204&ver=1675&signature=PowR29apsGGpQqfuPW6ukRZqZV*YAy9K5xiUHRn5*jlkSvOyczj5qzJQ4uTnP6jkhbNigjE-ygQs2rYwHkjI8W-jqDlueyFP76EJBgRuID0TF2taaW8MwYrX9himse8I&new=1)
+ > 5G商用的启动，意味着6G研发的开始。对各国而言，移动通信技术早已不仅是便利人们沟通的桥梁，更是国家科技竞争力乃至国家实力的体现5G来了，6G还会远吗？本刊记者/杜玮发于2019.6.17总第903期《中国新闻周刊》...
+ ## [德国新闻|人工智能哪家强?我们的机器人都会跑堂了，欧洲醒醒吧!](http://mp.weixin.qq.com/s?src=11&timestamp=1560823204&ver=1675&signature=FNhEyDfFytpOiqEokXTOrXObXaD5-k20zyjPBfInyTKedU5QKBNtpx5CFoaqH5--Gb86zIb8w5YOvgeWnD*UykYOkAR0rapMk535ioSPREBmsIkxVpBFBnXH5*DTrck6&new=1)
+ > 在2019年的当下，人工智能毫无疑问是全世界最大的热点，也是美国、中国等强国必争的科技高地。2019年国际人工智能大会将于明日（6月18日）在北京召开，届时，Facebook、微软、阿里巴巴和IBM等全球科技领域巨头也...
+ ## [\[报告\]叩击2025—新能源车企“中局之战”(附34页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560823204&ver=1675&signature=sI424z5UT8tnG4IavcVIlofsSvByRKJ08wZuSNO*ru3ytNSRt0i9QHGihrXSiY0znGzchwIhmlSpZFKnZdwek9-vY-MxHSPx*-Yjp2JkOWBfwu98iheugNnwcBYBSfQF&new=1)
+ > 新能源汽车成为了一个 “现象级 ”产业。随着世界范围内对节能减排、发展可再生能源的诉求日益强烈，各国政府都在积极推动新能源汽车产业的发展。无论是一向理念创新的欧洲，还是经济高速腾飞的亚太地区，都纷纷...
+ ## [卡车司机更早解放双手?商用车成自动驾驶落地第一战场](http://mp.weixin.qq.com/s?src=11&timestamp=1560823204&ver=1675&signature=zRq*5Zcqlb3ikEtK7k5Xck8weNVCZloFIOXEjM33p9juHxv5BxuwrzIAST1eFuZQR8bo0XFtYBPrrPrOqP8oysAP6035RCY7uYioECsQywRIyFBNl6HWr9eUUbiI*hgM&new=1)
  > 根据业内的判断，自动驾驶卡车预计会在2020年前后量产，而2019年也被定义为自动驾驶卡车商业化元年，这一节奏远比乘用车领先。文丨干群芳商用车自动驾驶的商业化应用正在以远超乘用车的速度落地。在2019 CES Asi...
- ## [IEEE加速推进区块链标准体系，10项新标准获批立项](http://mp.weixin.qq.com/s?src=11&timestamp=1560819605&ver=1675&signature=iZyWDT1L3c2-gOZ1HyeP*PN4IfEoJwFsfMe*Ffb*VpdZjYC2Bf5cnMNPrhIxDtv2BOe-4xOAuVrGcoOWSG-tERgPylX8h*cEypfo6vK6yfTlY9b0iOJyZjnZ7Ik-LcAv&new=1)
+ ## [IEEE加速推进区块链标准体系，10项新标准获批立项](http://mp.weixin.qq.com/s?src=11&timestamp=1560823204&ver=1675&signature=iZyWDT1L3c2-gOZ1HyeP*PN4IfEoJwFsfMe*Ffb*VpcWFVAfMjMFC6PBmxP*EgG3GrixcT094Xn*xiN311yNoUd8smWsjJWod1AxJ7O68M21SN2xGRC3nnLBJWdq486L&new=1)
  > 2019年6月13日，在巴拿马首都巴拿马城举行的IEEE标准协会本年度第二次理事会议上，全票通过了10项区块链标准的正式立项，从而使得IEEE的区块链标准体系中正在制定的标准达到了24项。由IEEE消费电子协会区块链标...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
  > 想想你为什么做自媒体，你就明白了。一、根据兴趣我们在选择领域时，可以根据自己的兴趣来，你喜欢化妆就做美妆领域，你喜欢美食就做美食领域，热爱写作就专注于写作领域，做自己喜欢做的事你会更有动力，哪怕从零开...
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 我想，既然你们是做软件工程开发相关的工作，那么选择drupal比较好。drupal的扩展性比较好，又稳定，权限管理功能很强大，用户管理也很好用。module很多，基本上可以做成任何类型的网站。views可以做出任何你想要的页...
- ## [作为产品经理，有必要考各种证书吗？比如：pmp，npdp。证书对薪资有影响吗？](https://www.zhihu.com/question/64549065)
- > 对薪资有没有影响具体看公司了，说实在的，公司更重视你具体都做过哪些项目，有没有实战经验，证书的意义是为了证明能力，但不管什么证书，都是有胜于无的。但是对面试的的确确是有一定影响的，不管是去面试产品经理...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [机械行业想转行IT互联网行业，大家有什么好的建议？](https://www.zhihu.com/question/25742003)
@@ -52,47 +66,81 @@ categories: IT NEWS
  > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
  ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
  > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
- ## [如何对比有线电视、IPTV、电信电视？](https://www.zhihu.com/question/37379455)
- > 客厅争霸赛愈演愈烈，广电的有线电视、互联网公司的网络电视盒子、运营商的IPTV机顶盒，这三方瞄准百姓家中的电视业务展开了厮杀。这场三国演义，虽然热闹好看，但是内行还是要看门道的，所以月光坦克针对三方角...
+ ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
+ > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
+ ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
+ > 这个系统是全国的，可以轻松跨省。大学那会谈的女朋友，老爹公安局的副局长，年轻时候是缉毒警察，出生入死立了大功。有一次去她家玩（2010年左右），家里就住在公安局里面的家属楼。无聊去局里参观，她说给我看个好...
  ## [如果最衰弱的清朝穿越到秦朝能吊打秦军吗？如果能，需要多少军队?](https://www.zhihu.com/question/51975514)
  > 秦人：卧槽对面是什么玩意！卧槽这些都是传说中的神术吗要死要死！卧槽怎么对面自己乱了？卧槽神仙互杀啊这辈子值了！卧槽瓜子原来这么好吃。===============大约是分割线============不要神化致病原的作用，这玩意如...
+ ## [你用过的最让你震惊的网站有哪些？为什么？](https://www.zhihu.com/question/20030360)
+ > 有一个让人震惊的网站，想必大家都用过！百度啊，每次用百度搜出来的结果都是什么鬼，还不如知乎好使。：）假装以上是知乎的硬广，好了，下面进入正题，睁大双眼，千万不要错过这些震惊又好用的网站！哈哩哈哩H站 -...
 # IT 技术 
  ## [AI为什么不依赖云：未来AI将边缘化](http://ai.51cto.com/art/201906/598004.htm)
  > AI为什么不依赖云：未来AI将边缘化
+ ## [都知道区块链，但它真正的应用场景你知道吗？](http://blockchain.51cto.com/art/201906/598014.htm)
+ > 都知道区块链，但它真正的应用场景你知道吗？
+ ## [你在iOS 13看到的「深色模式」，其实并不能护眼](http://mobile.51cto.com/iphone-598027.htm)
+ > 你在iOS 13看到的「深色模式」，其实并不能护眼
  ## [适合电子商务公司的15款优秀开源解决方案](http://os.51cto.com/art/201906/597967.htm)
  > 适合电子商务公司的15款优秀开源解决方案
+ ## [世界操作系统发展简史：华为鸿蒙能成功么？](http://os.51cto.com/art/201906/598029.htm)
+ > 世界操作系统发展简史：华为鸿蒙能成功么？
+ ## [黑客利用机器学习发动网络攻击的6种途径](http://ai.51cto.com/art/201906/598017.htm)
+ > 黑客利用机器学习发动网络攻击的6种途径
  ## [花了一个星期，我终于把RPC框架整明白了！](http://developer.51cto.com/art/201906/597963.htm)
  > 花了一个星期，我终于把RPC框架整明白了！
  ## [互联网江湖血雨腥风，从此再无BAT！](http://news.51cto.com/art/201906/597970.htm)
  > 互联网江湖血雨腥风，从此再无BAT！
- ## [阿里技术专家：优秀工程师是怎样炼成的？](http://news.51cto.com/art/201906/597966.htm)
- > 阿里技术专家：优秀工程师是怎样炼成的？
- ## [如何用multipass安全地测试bash脚本？](http://server.51cto.com/sOS-597938.htm)
- > 如何用multipass安全地测试bash脚本？
- ## [当监狱遇到物联网，肖申克还能完成他的“救赎”吗？](http://iot.51cto.com/art/201906/597959.htm)
- > 当监狱遇到物联网，肖申克还能完成他的“救赎”吗？
- ## [你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo](http://news.51cto.com/art/201906/597953.htm)
- > 你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo
+ ## [环球时报：中国半导体产业要做“打不死的鸟”](http://news.51cto.com/art/201906/598032.htm)
+ > 中国半导体产业，包括其他高科技产业要走向强大，绕不过去和美国的这场遭遇战。一些国人对美国抱有幻想，对
+ ## [超级计算机500强史上首次全部千万亿次！中国神威太湖之光第三](http://news.51cto.com/art/201906/598026.htm)
+ > 在德国法兰克福的国际超级计算机大会上，有着 26 年历史的超算 500 强榜单公布了第 53 届排行，入围 500 套
+ ## [云计算下半场主要是非互联网企业“上云”](http://cloud.51cto.com/art/201906/598021.htm)
+ > 在云计算的下半场，云计算和大数据、AI的一体化融合发展成为必然趋势。阿里腾讯等纷纷提出智能云，基于云上
+ ## [Docker 将会推出 Docker Desktop for WSL 2](http://news.51cto.com/art/201906/598023.htm)
+ > 微软最新推出的 WSL 2 在架构方面发生了重大的变化：它们提供了一个在轻量级 VM 中运行的真正 Linux 内核。
+ ## [如何设计一个优秀的分布式系统？重要因素、工具、策略都在这里](http://os.51cto.com/art/201906/598025.htm)
+ > 今天的应用程序可以说是分布式系统开发中的一项奇迹。基于不同的系统架构，构成应用程序的每个功能或服务可
+ ## [从C端到B端，我的产品设计之路](http://mobile.51cto.com/design-598024.htm)
+ > 记得当年我面试Lenovo的UX设计岗时，面试官问我C端和B端的区别是什么、有什么设计差异，这个问题对于当时只
+ ## [谷歌研究人员成功开发了用于自拍摄像头的防脸部失真算法](http://news.51cto.com/art/201906/598033.htm)
+ > 最近的一项研究指出，每天发布在社交媒体上的自拍照达到了9300万张，每10秒就有10张自拍照被发布到Instagra
+ ## [解决大型企业项目规划难题，「ONES Plan 项目集管理」重磅发布](http://www.51cto.com/art/201906/597986.htm)
+ > 日前，企业级研发管理解决方案公司 ONES 发布了面向大型企业的项目集管理工具“ ONES Plan ” 。
+ ## [从Windows 7升至Windows 10，你最看重哪项功能和改进?](http://news.51cto.com/art/201906/598030.htm)
+ > Windows 10发布至今已将近5年时间了，但Windows 7系统依然有不少忠实拥趸。
  ## [无服务器架构成新一代计算方式？](http://cloud.51cto.com/art/201906/598019.htm)
  > 目前业界对无服务器架构尚没有统一的明确定义。中国信通院指出，无服务架构的核心思想是将提供服务资源的基
- ## [Garnter：云计算增速最快 为整体IT市场的25倍](http://cloud.51cto.com/art/201906/598018.htm)
- > 据Gartner研究，虽然仍有大量资金花在服务器、基础设施和网络设备等IT硬件上，但所有这些支出最终都会转移
- ## [黑客利用机器学习发动网络攻击的6种途径](http://ai.51cto.com/art/201906/598017.htm)
- > 机器学习算法在改进安全解决方案，帮助人类分析师更快地分类威胁和阻断漏洞的同时，也将成为威胁行为者发
- ## [微软Oracle联盟：蜜月虽甜 警惕分手之患](http://cloud.51cto.com/art/201906/598016.htm)
- > 曾经不共戴天的微软和Oracle在2013年就云服务合作达成协议，这令外界着实吃了一惊。当时间继续推进到6年后
- ## [Squid代理服务器搭建亿级爬虫IP代理池](http://server.51cto.com/sOS-598015.htm)
- > 做爬虫抓取时，我们经常会碰到网站针对IP地址封锁的反爬虫策略。但只要有大量可用的IP资源，问题自然迎刃
- ## [都知道区块链，但它真正的应用场景你知道吗？](http://blockchain.51cto.com/art/201906/598014.htm)
- > 区块链的技术已经在诸多领域展现了应用前景，许多机构和组织都对区块链技术产生了浓厚的兴趣，正在为区块链
- ## [何时使用5G和Wi-Fi 6？](http://network.51cto.com/art/201906/598008.htm)
- > 我们已经看到，有关5G蜂窝网络和Wi-Fi 6的热度高涨。但实际情况，这两者在很大程度上是互补的，在一些应用
- ## [你没玩过的全新版本 Windows 10这些操作你知多少](http://os.51cto.com/art/201906/598013.htm)
- > 不知不觉，Win10与我们相伴已经整整四个年头了，从最开始的组团抗拒到现在的默默接受，个中滋味相信谁心里
- ## [MacOS比Windows更安全？安全专家说出真相](http://os.51cto.com/art/201906/598012.htm)
- > 如今的MacOS还像我们想象的那样安全吗?其如今又面临着哪些安全威胁呢?在6月11日举办的TenSec 2019峰会上，
- ## [如何用Linux帮助你拼写？](http://os.51cto.com/art/201906/598010.htm)
- > 无论你是纠结一个难以理解的单词，还是在将报告发给老板之前再检查一遍，Linux 都可以帮助你解决拼写问题。
+ ## [关系数据库、数据库的设计（数据库学习）](https://blog.csdn.net/weixin_43126117/article/details/90758118)
+ > 关系数据库、数据库的设计（数据库学习）
+ ## [2D游戏开发 - 配置SkyGameEngine2d环境](https://blog.csdn.net/qq_33775402/article/details/90350078)
+ > 2D游戏开发 - 配置SkyGameEngine2d环境
+ ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
+ > 信息系统安全运维
+ ## [数据库系统工程师——数据库技术基础相关笔记](https://blog.csdn.net/weixin_40459548/article/details/90409825)
+ > 数据库系统工程师——数据库技术基础相关笔记
+ ## [python外星人入侵（游戏开发）](https://blog.csdn.net/h471507602/article/details/91042425)
+ > python外星人入侵（游戏开发）
+ ## [区块链游戏开发-僵尸大战](https://blog.csdn.net/runner668/article/details/90406974)
+ > 区块链游戏开发-僵尸大战
+ ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
+ > Visual C++游戏编程基础之键盘消息
+ ## [数据库——安全性](https://blog.csdn.net/zjuwxx/article/details/90313122)
+ > 数据库——安全性
+ ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
+ > 数据库提升知识点汇总
+ ## [两台服务器ssh免密对端服务器及本机f](https://blog.csdn.net/weixin_42691754/article/details/91881025)
+ > 两台服务器ssh免密对端服务器及本机f
+ ## [2D游戏开发 - SkyGameEngine2d坐标系](https://blog.csdn.net/qq_33775402/article/details/90643490)
+ > 2D游戏开发 - SkyGameEngine2d坐标系
+ ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
+ > 运维进阶-----NFS网络文件系统
+ ## [数据库 完整性约束](https://blog.csdn.net/L20902/article/details/90516447)
+ > 数据库 完整性约束
+ ## [Python游戏开发平台、脚本系统架构设计](https://blog.csdn.net/ancientear/article/details/91141297)
+ > Python游戏开发平台、脚本系统架构设计
+ ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
+ > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [任正非：华为 100% 没有后门](https://blog.csdn.net/csdnnews/article/details/92694609)
@@ -115,50 +163,68 @@ categories: IT NEWS
  > 随着人工智能科技逐渐的融入到我们的生活里，AI也成为现在最热门的话题之一。人工智能领域的高薪水也频频吸引着我们的眼球，人工智能工程师真的有百万年薪吗？数据来源于《中国准独...
  ## [华为准备替代安卓？小米停止MIUI全球Beta计划；首台类脑超级计算机2022有望诞生 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/92582883)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [滴滴发内部员工信：宣布整合升级成立两轮车事业部](http://www.lanjingtmt.com/news/detail/43168.shtml)
+ > 滴滴昨晚发布关于两轮车组织架构调整的内部邮件，邮件称，滴滴出行单车事业部（内部代号“海棠湾”）、电单车事业部（内部代号“黑马”）正式整合升级为两轮车事业部（内部代号为“海马”）。
  ## [寺库利润下滑股价低迷，金融、智能等多元发展失焦](http://www.lanjingtmt.com/news/detail/43166.shtml)
  > 业内人士表示，近两年寺库线上及线下规模不断扩张，营业成本居高难下，盈利能力有待市场观察。而在奢侈品销售之外，寺库还将业务拓展至金融等领域，多元化发展略显失焦。
  ## [即将科创板上会的安恒信息能做好网络安全吗？](http://www.lanjingtmt.com/news/detail/43165.shtml)
  > 明日下午，科创板上市委将举行第6次审议会议，审议安恒信息等三家企业的发行上市申请。背靠阿里生态，此次安恒信息科创板上市能否迎来高速发展？
 # 人工智能 
- ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
- > 前端 之 HTML
- ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
- > Visual C++游戏编程基础之键盘消息
- ## [Cocos Creator游戏开发工具使用教程](https://blog.csdn.net/ankychan/article/details/91447351)
- > Cocos Creator游戏开发工具使用教程
- ## [程序人生思考之协同](https://blog.csdn.net/soliy/article/details/90550301)
- > 程序人生思考之协同
- ## [前端之js基础](https://blog.csdn.net/qq_36251118/article/details/90737882)
- > 前端之js基础
+ ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
+ > 前端异步流程
  ## [前端学习记录 Day1（Html）](https://blog.csdn.net/qq_41151659/article/details/91355681)
  > 前端学习记录 Day1（Html）
- ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”](https://blog.csdn.net/Java__world/article/details/90514397)
- > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”
- ## [学习react (首次入坑记录)](https://blog.csdn.net/weixin_43462746/article/details/91588668)
- > 学习react (首次入坑记录)
- ## [2D游戏开发 - 配置SkyGameEngine2d环境](https://blog.csdn.net/qq_33775402/article/details/90350078)
- > 2D游戏开发 - 配置SkyGameEngine2d环境
- ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
- > 要转行Python又不清楚行业现状和前景，这样怎么能行？
- ## [程序人生第三年](https://blog.csdn.net/dring321/article/details/90345866)
- > 程序人生第三年
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
- > 京东技术架构师总结：深入理解Spring中的各种注解
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [游戏开发选Cocos2d-x还是Unity3D？](https://blog.csdn.net/qq_38456196/article/details/90409081)
- > 游戏开发选Cocos2d-x还是Unity3D？
+ ## [SparkCore之运行架构](https://blog.csdn.net/liweihope/article/details/91293267)
+ > SparkCore之运行架构
+ ## [微服务架构之「 监控系统 」](https://blog.csdn.net/jsjwk/article/details/90406167)
+ > 微服务架构之「 监控系统 」
+ ## [前端(1)js对象克隆](https://blog.csdn.net/cowbin2012/article/details/90343749)
+ > 前端(1)js对象克隆
+ ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
+ > angular2表单异步验证
+ ## [前端   面试题  css](https://blog.csdn.net/quxiaojiao_39/article/details/90739104)
+ > 前端   面试题  css
+ ## [初级前端面试题总结](https://blog.csdn.net/Daisy_1/article/details/91614974)
+ > 初级前端面试题总结
+ ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
+ > 数据库提升知识点汇总
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [前端 之 CSS页面布局](https://blog.csdn.net/linwow/article/details/90705915)
+ > 前端 之 CSS页面布局
+ ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
+ > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
+ ## [Spark之内核架构剖析](https://blog.csdn.net/dec_sun/article/details/90693096)
+ > Spark之内核架构剖析
+ ## [MySQL-MMM架构使用](https://blog.csdn.net/weixin_44792728/article/details/90677862)
+ > MySQL-MMM架构使用
+ ## [【数据库】数据库查询语言SQL](https://blog.csdn.net/C2681595858/article/details/80196989)
+ > 【数据库】数据库查询语言SQL
 # PM 
+ ## [业务产品的设计方法论与思考](http://www.woshipm.com/pd/2472698.html)
+ > 业务型产品就是由具体的业务实现主要盈利，不只是互联网+，更重要的是业务的发展。笔者以电商产品为例，为我们分析了业务产品是什么、如何设计以及业务产品经理应该如何...
+ ## [拿来即用的五个方法，重新撰写健身房标语！](http://www.woshipm.com/copy/2473365.html)
+ > 如何给健身房内“简单粗暴”的标语换个表达形式，本文介绍了五种拿来即用的方法：打击动机、提供利益、呈现相反预期、绑定另外一个场景、利用群体规范。健身房内有很多...
+ ## [跨部门沟通方法论](http://www.woshipm.com/zhichang/2472258.html)
+ > 作为一个产品经理，沟通是必备的核心技能之一。拥有好的沟通能力，推进事情往往可以事半功倍，反之则容易事倍功半。而一套有效沟通方法论则是产品经理的必备法宝。在...
+ ## [产品设计：请拒绝引导页](http://www.woshipm.com/pd/2467734.html)
+ > 我们在设计产品时，习惯性按照市场上常规的模式进行设计。随着技术展现能力的提高，引导页的形式和内容都变得越来越多样化。本文颠覆习惯性模式并思考一下引导页的来源...
+ ## [人生三张表，用经营上市公司的方式去经营自己](http://www.woshipm.com/zhichang/2473710.html)
+ > 每个人都需要根据自己的自身优势制定目标（产品定位），去营造一个适合你生存的社会环境（细分市场），再加上核心能力的刻意训练（产品迭代），最后在市场上彰显价值。...
+ ## [线下终端屏幕价值拆解：商业价值 = 视觉价值 X 操作价值（转化率）](http://www.woshipm.com/pd/2472427.html)
+ > 本文跟大家聊聊线下终端屏幕的交互体验。关注这块，是因为最近在思考一个问题：线下屏幕空间有限，如何最大化屏幕的商业价值？线下终端设备，并不像手机，像 Android...
+ ## [已经是付费会员了，为啥还得再掏钱买东西](http://www.woshipm.com/operate/2473355.html)
+ > 相比传统全包式会员，购买会员后在每次购物前都要额外在付出的会员制更为苛刻，这种“优惠券”形式的会员制度需要商家对自身产品的“刚需”力有足够的自信。中国人每年至...
+ ## [2招，让文案拥有“化虚为实”的魔力](http://www.woshipm.com/copy/2472527.html)
+ > 好的文案，能够先入人脑再进人心，最终为结果负责。当然，前提在于，用户看懂并get到了你文案的意图，才会有所触动，不管是认可还是反驳。文案是写给人看的，往往带有...
+ ## [弹窗提示太强，Toast又太弱？不妨来试试Banner吧！](http://www.woshipm.com/pd/2471458.html)
+ > 当你需要展示一段持续提示却又不想打断用户操作时，用Dialog弹窗会打断用户操作，Toast又不够明显，Snackbar会自动消失，显然这些都不符合要求。那么不妨就来跟我一起认...
+ ## [产品经理跨行找工作可操作性有多少？](http://www.woshipm.com/pmd/2472182.html)
+ > 关于“产品经理跨行”这个问题，想必很多小伙伴们都或多或少有些疑惑，以下本文作者将结合当前市场以及企业的实际状况，从多方利益点出发，对这个问题进行详细分析。某...
  ## [如何用写情书的思路写PRD？](http://www.woshipm.com/pmd/2465254.html)
  > 在产研的世界里，情书（PRD）一定是写给RD的。还是在五彩城工作的时候，一个炎热的下午，PM小潘来找我吐苦。大致就是PRD被研发喷了，上我这儿讨几颗“灵丹妙药”。因为...
  ## [当接手新项目后，如何制定一份可执行的项目运营统筹规划？](http://www.woshipm.com/operate/2471849.html)
  > 一个新项目上线，该如何去做运营统筹规划？以下，笔者将通过全局规划、维度分析、粒度执行这三个步骤来分析这个问题。在运营群里经常有人讨论，当接手一个新项目，如...
- ## [如何制定完美的产品策略？](http://www.woshipm.com/pmd/2469955.html)
- > 策略随处可见，如电商类的个性化推荐策略，短视频的流量分配策略，资讯类的内容分发策略，打车类的抢单派单策略等等。任何存在双边关系以上的产品，都需要策略来平衡，...
- ## [如果纳博科夫是你的文案老师……](http://www.woshipm.com/copy/2395542.html)
- > 在本文中，大家不妨跟随纳博科夫的《文学讲稿》，欣赏、琢磨大师们驾驭文字的方式，借此精进我们的文案写作功底。纳博科夫，一个以《洛丽塔》一书闻名于世的作家。洛...
  ## [6月10-16日热文盘点|不点开看看，你都不知道自己错过了什么！！](http://www.chanpin100.com/article/108687)
  > 这是一个信息过载的时代。所有人接触到的信息远多于他们能够或愿意加工的信息，我们时刻处于一种信息接收超负荷的状态，为了减轻大家的负担，小编经深度阅读后，为大家带来上周热文盘点。
  ## [品牌新媒体的人格化运营，是否需要“人格”+“公关”组合技？](http://www.chanpin100.com/article/108676)
@@ -175,5 +241,11 @@ categories: IT NEWS
  > 如何知道你的产品团队是不是靠谱？
  ## [看透身边事，你必须具备的1个底层思维](http://www.chanpin100.com/article/108685)
  > 读完此文，让你以效率思维重新看待这个世界。
+ ## [格兰仕控诉天猫，但错不在“二选一”](http://www.pmtoo.com/article/75958.html)
+ > 格兰仕的一纸声明，终于引爆了今年618的火药。拜访拼多多、天猫搜索异常、沟通无果、严重影响销售……格兰仕的声明不可...
+ ## [中国半导体产业要做“打不死的鸟”](http://www.pmtoo.com/article/75955.html)
+ > 华为公司创始人、CEO任正非17日与两位美国学者对话时透露，“未来两年公司会减产，(营收)估计会下降300亿美金”，但现在的...
+ ## [网络视频：焦虑与破局](http://www.pmtoo.com/article/75944.html)
+ > 在此前的网络视听大会上，爱奇艺创始人兼CEO龚宇也提到，宏观经济增长放缓造成以广告为主的收入遭遇瓶颈，这对习惯了高速增长...
 
     
