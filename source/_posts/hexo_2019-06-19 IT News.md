@@ -1,62 +1,66 @@
 ---
 title: 2019-06-19 IT News
 copyright: true
-date: 2019-06-19 08:02:53
+date: 2019-06-19 09:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G辐射不会增大，与4G、WiFi是一样的](http://mp.weixin.qq.com/s?src=11&timestamp=1560902405&ver=1677&signature=QmEwclC9Y4qkaCFEi6XB5tAEmFZEBT6yOttBiH4bq78dR4YkVAA*73s925knptWFR6qPn3JdVIjFu9f9TvCNtT*WPKFzc2dvUrd75jZ5QONWbv7DNI-ggQ2RcYOeKvX1&new=1)
- > 针对“5G辐射大”传言，在最近一次行业论坛上，有运营商拿出了测试数据：通过对3G、4G、WiFi和5G信号的电磁辐射（EMF）测试比较，发现包括5G在内的所有的移动通信技术的电磁辐射水平是相近的，且均远远低于安全...
- ## [\[报告\]从中长期看电动车平价和动力电池行业格局(附47页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560902405&ver=1677&signature=PddzrJf5Gtwiq7dh29ROuis2DwhQNsnFqIi2t3lnnI3ucIu2NuIy-NKPHqmFdtGF4RC4MB4yi9oUS8NvSs*j5PQ*Jdf1-pccRhQHR61KlItndVA4e5dgkDKUncj9ZhRX&new=1)
- > 动力电池行业短期驱动因素为政策补贴，但是中长期来看根本驱动因素为下游电动车的经济性与产品竞争力，即考虑下游电动车何时能够平价，以及电动车何时相较于燃油车有产品力的优势。我们认为经济性方面，2023年有...
- ## [工信部|《网络安全漏洞管理规定(征求意见稿)》(全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1560902405&ver=1677&signature=3dqe50JSl1mDXFpS1cbfd4BdTcfSV4JOE*rTsXYfaAyEnZxB-P941IyVXMDZlfNC-kGKVkwEGqmQ2jYK49DHZLg2Qhy-JwZ5YVAOHUzjAWNqaNS6RNnx0-Flp*Xf8Xwe&new=1)
+ ## [工信部|《网络安全漏洞管理规定(征求意见稿)》(全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1560906004&ver=1677&signature=3dqe50JSl1mDXFpS1cbfd4BdTcfSV4JOE*rTsXYfaAyEnZxB-P941IyVXMDZlfNCS4NJSluI-M7HYh1kGV5Q7ZN1SN72OW0syZRmKG0HwWKsfKHhHUJuIdL1oVJUUbVb&new=1)
  > 为贯彻落实《中华人民共和国网络安全法》，加强网络安全漏洞管理，工业和信息化部会同有关部门起草了《网络安全漏洞管理规定（征求意见稿）》（见附件），拟以规范性文件形式印发，现面向社会公开征求意见。如有...
- ## [华为突然发布!谁也没想到，一切来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1560902405&ver=1677&signature=YnWtxJXl562NuBvZcho9QMIfp-ENrfD4MaNzNQuYeJ8W5E1lU93Qtjx-ne1DD1lQzlisRhoTx5bQMWkJxLiAGDY-yj67vrtPDt*ljaGv0yGa8q7-WAJGjZbeFPdDjqOy&new=1)
+ ## [5G辐射不会增大，与4G、WiFi是一样的](http://mp.weixin.qq.com/s?src=11&timestamp=1560906004&ver=1677&signature=QmEwclC9Y4qkaCFEi6XB5tAEmFZEBT6yOttBiH4bq78dR4YkVAA*73s925knptWFhtfvMX4l1GnIof9s4Z9Y86yNt*UydpVRqNkTUYSx-IVH-Q8eJZPCKwgPWzPW4Rjd&new=1)
+ > 针对“5G辐射大”传言，在最近一次行业论坛上，有运营商拿出了测试数据：通过对3G、4G、WiFi和5G信号的电磁辐射（EMF）测试比较，发现包括5G在内的所有的移动通信技术的电磁辐射水平是相近的，且均远远低于安全...
+ ## [华为突然发布!谁也没想到，一切来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1560906004&ver=1677&signature=YnWtxJXl562NuBvZcho9QMIfp-ENrfD4MaNzNQuYeJ8W5E1lU93Qtjx-ne1DD1lQtRPOsTSumq6CppbwQhUh6yys7YqJ3NJ8Sg6fNwsHJIbgvOAmBiRa4v6L2p2lAMgo&new=1)
  > 华为突然发布！谁也没想到，一切来得这么快！一太快了！所有人都知道要来，却没想到来得那么快。工业和信息化部向中国电信、中国移动、中国联通中国广电发放5G商用牌照，标志着中国正式进入5G时代。随后，华为官...
- ## [Hyqreal机器狗可拉动一架3吨重的飞机](http://mp.weixin.qq.com/s?src=11&timestamp=1560902405&ver=1677&signature=1jlqF2rqiGGWn*0aoSEDwFIPFz7SogLXbBxZJUWqokuHQqpm*uLfWf8d6OTqrVeCueawP-vg1bvIpicPz-HWnsihbKGWnZZ4T2c8WYlDCeYqIQErM3njBTqKJufXvK-V&new=1)
+ ## [Hyqreal机器狗可拉动一架3吨重的飞机](http://mp.weixin.qq.com/s?src=11&timestamp=1560906004&ver=1677&signature=1jlqF2rqiGGWn*0aoSEDwFIPFz7SogLXbBxZJUWqokuHQqpm*uLfWf8d6OTqrVeCBBTXfTrD89PW7ve2eyErNiiX*lfTmfyRWu0bSNOVZaKulCRDD9pkRRFuMwhJDobb&new=1)
  > 大约从 2010 年开始，意大利技术研究所（IIT）的 Dynamic Legged Systems Lab（DLS）就一直致力于研究液压驱动四足机器人，并在 2011 年的 IROS 大会上首次展示了他们的 HyQ 研究平台，自此他们一直
- ## [如何看待软件修改大神zd423诈骗网民钱财、卖网站双重跑路？](https://www.zhihu.com/question/57477393)
- > 先提供我知道的事情，大家自行判断吧。2013年的时候，那个时候大家都用某良心KB软件看片，这个软件首屏幕有个叫风向标的搜索，某人找到我让将这个风向标改掉里面的链接，由于我不会SWF的反汇编，并且之前听zd42...
- ## [有哪些是你当上法医才知道的事？](https://www.zhihu.com/question/279886796)
- > 人很容易死。
+ ## [\[报告\]从中长期看电动车平价和动力电池行业格局(附47页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560906004&ver=1677&signature=PddzrJf5Gtwiq7dh29ROuis2DwhQNsnFqIi2t3lnnI3ucIu2NuIy-NKPHqmFdtGFY3FoICaAhMMKMY2QYnAaxnGtrhWBkq5nXSh*Zp4O1iEUYvuxoKhR3iyH5ZaAHf0I&new=1)
+ > 动力电池行业短期驱动因素为政策补贴，但是中长期来看根本驱动因素为下游电动车的经济性与产品竞争力，即考虑下游电动车何时能够平价，以及电动车何时相较于燃油车有产品力的优势。我们认为经济性方面，2023年有...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
- ## [如何看待最新版本QQ开启小视频时代？头腾大战升级？](https://www.zhihu.com/question/280732426)
- > 腾讯其实早有这方面的打算了，2017年初腾讯就开发了主要用于短视频的qq另版本，Qim。其实QIM和TIM起初是为了不同用户需求而定制的qq版本，但是到后面，腾讯可能觉得没必要精细化业务，决定流产QIM。除了那...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
  > 想想你为什么做自媒体，你就明白了。一、根据兴趣我们在选择领域时，可以根据自己的兴趣来，你喜欢化妆就做美妆领域，你喜欢美食就做美食领域，热爱写作就专注于写作领域，做自己喜欢做的事你会更有动力，哪怕从零开...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 脑机接口，电池，量子计算都有人提到了，但是竟然没有人提到Gartner Hype Cycle！而且不少答案谈了畅想，却没扣住基础科学的题，实在是有点粗糙。 下面我作为一个一线科研人员+技术观察爱好者，就借助2018年的技术...
- ## [天猫超市的东西那么贵，为什么大家会说便宜？](https://www.zhihu.com/question/51189748)
- > 简木要说句话，猫超是真便宜！关键看你会不会买，先跟大家说一下我自身的情况：秒杀从来秒不到的,领优惠券从来都是大家都能看到无限领的，免费试用从来抽不中的，活动通常结束才发现的！没错，就是我这样的倒霉体质也...
- ## [章泽天喜欢/欣赏刘强东的什么？](https://www.zhihu.com/question/38780814)
- > 史记 刘强东章泽天列传刘强东，彭城下相人也。少时家贫，祖无显业，二老以渡泊为生，乃迁子于祖母所，以故强东曰:“吾幼惟祖母是依，向自独立，用事由己，无顾他人言语。”强东为人，和颜而悦色，无须发之白，鲜衰老...
- ## [社交网站适合用什么开源框架？](https://www.zhihu.com/question/19719125)
- > 我想，既然你们是做软件工程开发相关的工作，那么选择drupal比较好。drupal的扩展性比较好，又稳定，权限管理功能很强大，用户管理也很好用。module很多，基本上可以做成任何类型的网站。views可以做出任何你想要的页...
- ## [作为产品经理，有必要考各种证书吗？比如：pmp，npdp。证书对薪资有影响吗？](https://www.zhihu.com/question/64549065)
- > 对薪资有没有影响具体看公司了，说实在的，公司更重视你具体都做过哪些项目，有没有实战经验，证书的意义是为了证明能力，但不管什么证书，都是有胜于无的。但是对面试的的确确是有一定影响的，不管是去面试产品经理...
- ## [未来十年哪些基础科学突破会影响互联网科技产业？产业互联网和消费互联网融合创新，会带来哪些改变？](https://www.zhihu.com/question/299741613)
- > 11月9日更新：哈哈哈哈，昨天看了李彦宏和马化腾在乌镇物联网大会上的企业家高峰对话的对话稿，发现马化腾绝对是看了这篇回答的。发言中提到的10年内、脑机接口、脑直接谈话等等关键词，都是来自本回答的想法。看来我...
  ## [常见的网络洗钱方法有哪些？如何更好地防范？](https://www.zhihu.com/question/19689062)
  > 首先要说的是我等下要说的方法无论你是钱还是虚拟币均可用，有些没有接触过虚拟币的朋友可能很奇怪，虚拟币不就是匿名的吗？nonono，虚拟币并非匿名币，这个是个大大的噱头，不过虚拟币世界里面还是有匿名币的，但是...
  ## [机械行业想转行IT互联网行业，大家有什么好的建议？](https://www.zhihu.com/question/25742003)
  > 91年机械工程专科毕业的汉子，曾短暂地在机械行业干过，狠狠地被这个社会历练了一段时间后转行互联网，现在的公司做的是零食电商业务，岗位范畴属于互联网运营。放弃机械的时候超级纠结，因为放弃了也不知道能做什么...
  ## [为什么感觉qq很low，不如微信？](https://www.zhihu.com/question/41701910)
  > 恕我直言，辣鸡QQ。聊天记录居然可以漫游，女朋友查岗很难解释的。传文件居然不限制大小，影响我邮箱和网盘的使用频率。pc端居然还可以账号密码登录？这不是让我的iPhone xs max 1024G扫码毫无用武之地？QQ群居...
- ## [有没有一本系统地记述计算机和互联网历史的书？](https://www.zhihu.com/question/35963033)
- > 吴军老师的浪潮之巅，强力推荐。这本书很有兴趣的看完了，目前正在看无论老师的文明之光
  ## [请虎扑的网友评价一下，知乎与虎扑的差异在哪里？](https://www.zhihu.com/question/21824189)
  > 虎扑只是一个体育论坛，跟综合社区知乎没有什么可比性，我用虎扑十年多，知乎刚运营的时候我就应朋友邀请注册了，所以两个社区都挺熟的。说这些不是摆资历和讲废话，只是很多骄傲的虎扑用户总是在我说虎扑不好的地方...
- ## [我爸是公安系统的，他能查到我在省内的上网记录，想问一下能查到我在省外的上网住宿记录吗？](https://www.zhihu.com/question/314147643)
- > 查的清清楚楚！和我老婆是相亲认识的，相见恨晚，一见钟情！在认识几天后，一个在镇上派出所做事的同村兴冲冲的找我要喜烟，给我弄得莫名其妙。他告诉我，我的相亲对象满门都是公检法系统的，不止查到我之前无数的网...
- ## [怎么看待台湾网络上一些言论？](https://www.zhihu.com/question/59971219)
- > 其實就是謾罵與切割，題主趕時間可看尾段。謾罵的言詞其實沒有深究的意義，但是如果從個別來看，可以分析使用族群的心態和文化。支*是個很常見的詞，他的神奇之處在於台灣人聽了無感，但中國人聽到了往往不舒服。可以...
- ## [VC 招 Analyst level 的人主要看哪些方面？](https://www.zhihu.com/question/23905776)
- > 谢邀请～看这里～一名管工的学生，理想的职业规划应当是怎样的呢？在风险投资公司谋个投资分析师的职位，门槛高吗？未来想进风险投资行业的话，作为大学生需要具备那些素质？只强调我上面列的第一个题目中的一句话：...
  ## [怎么看待知乎上很多回答都不看好创业？](https://www.zhihu.com/question/37559307)
  > 我当年创业的唯一目的，就是为了做师范大学那些水灵水灵的、混身散发着青春气息的妹子的干爹。01我大学读的理工院校。理工院校除了光棍不缺，什么都缺，我当时甚至一度怀疑，是不是任何雌性的物体，在我们学校都有宠...
+ ## [应新全的课程怎么样？](https://www.zhihu.com/question/328094034)
+ > 谢邀，实地上过应新全老师课程，现身说法。先说结论：应老师是我上过所有课程里，不管是线上的知识付费课程、Live讲座也好，还是线下的私房课、公开课，又或者是在行的约见，应新全是我见过最负责任、最具奉献精神的...
+ ## [香港或台湾的电子商务目前的概况是怎样的？TOP10 有哪些？](https://www.zhihu.com/question/19790663)
+ > 可以参考相关话题:http://www.zhihu.com/question/19857475/answer/13203833
+ ## [关于王者荣耀的虞姬使用技巧？](https://www.zhihu.com/question/57336576)
+ > Ⅰ、虞姬的上限在哪：虞姬的操作上限并不只是AAA那么简单，因为走A对虞姬来说只是基本功，虞姬的操作上限是能灵活用二三技能去躲控制，在面对多个控制技能时，多方面考虑是用大招躲控制+拉开距离还是用二技能躲控...
+ ## [《盛势》和《上瘾》多方面比较，哪个更胜一筹？](https://www.zhihu.com/question/55701279)
+ > 上瘾结束之后，黄景瑜许魏洲空降娱乐圈黄景瑜当时人气压过帝国三子和四大流量许魏洲比黄景瑜差点但是也没差多少接着两人被封杀但是， 即使如此 ，黄景瑜许魏洲依旧是杀出一条血路来， 黄景瑜靠红海行动， 许魏洲靠专...
+ ## [怎么在小红书平台做推广？](https://www.zhihu.com/question/327685649)
+ > 首先小红书推广对于美妆、母婴、健身等主流电商产品来讲，其用户口碑分享的特点具有产品引流、口碑营销、引爆话题的先天优势。在小红书推广过程中利用小红书KOL生产原创内容来吸引用户主动搜索，提升产品曝光，可...
+ ## [目前主流的数据库是哪种？](https://www.zhihu.com/question/311463854)
+ > 我推荐几个互联网行业用的多的，不同场景会有不同的选择。关系型就是MySQL，不多说了。也可以关注一些new SQL的实现，比如说tidb，基本和MySQL兼容，但是scale能力更强。NoSQL比较好的还挺多的，我推...
+ ## [天猫超市的东西那么贵，为什么大家会说便宜？](https://www.zhihu.com/question/51189748)
+ > 评论里说我虾图是盗的，呵呵哒，谁才是盗图者？自己看看吧，不客气的说，我才是这个订单的创始者。那些个拿来主义我都不想多说了。截个别人的图就是自己的，有本事放更多订单信息出来啊。我这暴脾气。。。我再贴为防...
+ ## [史上最严数据保护法GDPR（欧盟《通用数据保护条例》）生效，对于企业和网民的隐私数据保护将起什么作用？](https://www.zhihu.com/question/278538269)
+ > 2017年全球数据总量预计为10.5ZB(1ZB≈1万亿GB)，其中70%数据为个人数据，而80%的个人数据都由企业来保存。由于企业保管不当等原因造成用户数据泄露的事件时有发生，近期引发热议的就有Facebook数据泄露门。越...
+ ## [为什么马云、马化腾、李彦宏、柳传志、许家印、王健林......中，只有王健林的儿子最出名？](https://www.zhihu.com/question/282964717)
+ > 马化腾女儿很出名的，可能是你们忘了。记得前几年玩QQ的时候吗？ 她女儿过生日，只要转发5个群，就会得到升级到皇冠的等级奖励！或者88个Q币到帐！现在转发五个微信群。你将会得到 朋友送出的：你是傻逼 你脑子有...
+ ## [请问如何录制电信iptv的电视直播内容？](https://www.zhihu.com/question/54426893)
+ > 量小了可以直接hdmi加电脑抓取，目前大都支持回看量大了犯法……
+ ## [如果最衰弱的清朝穿越到秦朝能吊打秦军吗？如果能，需要多少军队?](https://www.zhihu.com/question/51975514)
+ > 秦人：卧槽对面是什么玩意！卧槽这些都是传说中的神术吗要死要死！卧槽怎么对面自己乱了？卧槽神仙互杀啊这辈子值了！卧槽瓜子原来这么好吃。===============大约是分割线============不要神化致病原的作用，这玩意如...
+ ## [你用过的最让你震惊的网站有哪些？为什么？](https://www.zhihu.com/question/20030360)
+ > 有一个让人震惊的网站，想必大家都用过！百度啊，每次用百度搜出来的结果都是什么鬼，还不如知乎好使。：）假装以上是知乎的硬广，好了，下面进入正题，睁大双眼，千万不要错过这些震惊又好用的网站！哈哩哈哩H站 -...
+ ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
+ > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [详解Git的基本术语和命令](http://os.51cto.com/art/201906/598072.htm)
+ > 详解Git的基本术语和命令
+ ## [你的Linux服务器果真得到保护了吗？](http://os.51cto.com/art/201906/598076.htm)
+ > 你的Linux服务器果真得到保护了吗？
  ## [“正向代理”和“反向代理”你还傻傻分不清？](http://developer.51cto.com/art/201906/598036.htm)
  > “正向代理”和“反向代理”你还傻傻分不清？
  ## [AI为什么不依赖云：未来AI将边缘化](http://ai.51cto.com/art/201906/598004.htm)
@@ -69,12 +73,54 @@ categories: IT NEWS
  > 适合电子商务公司的15款优秀开源解决方案
  ## [世界操作系统发展简史：华为鸿蒙能成功么？](http://os.51cto.com/art/201906/598029.htm)
  > 世界操作系统发展简史：华为鸿蒙能成功么？
- ## [黑客利用机器学习发动网络攻击的6种途径](http://ai.51cto.com/art/201906/598017.htm)
- > 黑客利用机器学习发动网络攻击的6种途径
- ## [网络协议：从理论到实践，全方位认识DNS（理论篇）](http://network.51cto.com/art/201906/597998.htm)
- > 网络协议：从理论到实践，全方位认识DNS（理论篇）
+ ## [旨在塑造政府资产管理的3种物联网技术](http://iot.51cto.com/art/201906/598081.htm)
+ > 物联网可以通过多种方式将政府和公民体验变得更好,通过为政府提供众多物联网选项，我预计以下这三个领域将
+ ## [通俗易懂网络协议（IP）](http://network.51cto.com/art/201906/598080.htm)
+ > 之前写过一篇《通俗易懂TCP/IP（概述）》，广受欢迎和好评，有网友催更，便抽空续写IP章节，回应粉丝期待。
+ ## [桌面操作系统难在哪？国产麒麟系统应用仅为Windows十万分之一](http://os.51cto.com/art/201906/598079.htm)
+ > 国产操作系统到底难在哪里?根据信通院报告，我国大约有包括红旗、深度、优麒麟、中标麒麟、威科乐恩、起点
+ ## [这6种实现负载均衡技术的方式不容错过](http://network.51cto.com/art/201906/598078.htm)
+ > 负载均衡(Load Balance)是集群技术(Cluster)的一种应用，可以将工作任务分摊到多个处理单元，从而提高并发
+ ## [一文了解各种数据库默认驱动、URL、端口](http://database.51cto.com/art/201906/598077.htm)
+ > 今天主要对各种数据库默认端口和URL做个总结，温故而知新。下面，我们一起来看。
+ ## [4种非常实用的CSS代码段，你都学会了吗？](http://developer.51cto.com/art/201906/598075.htm)
+ > 这些CSS都是非常实用的，有兴趣的可以收藏起来，没准以后能用上。然后drop-shadow就不用去纠结IE能不能用了
+ ## [化学流程控制――利用工业物联网优化制造](http://iot.51cto.com/art/201906/598074.htm)
+ > 在化学制造业中，我们必须从细节和整体两个方面来看待这一流程，以便找出效率低下的地方。通过使用基于流程
+ ## [如何选择合适的云计算服务供应商](http://cloud.51cto.com/art/201906/598073.htm)
+ > 为企业确定合适的云计算解决方案供应商(CSP)可能是一项挑战。在解决这个问题时，企业需要记住一些事项来帮
  ## [5G时代来临 别让“软实力”阻碍了发展](http://network.51cto.com/art/201906/598071.htm)
  > 5G的到来不仅让万物互联成为现实，也让很多应用场景有了新的价值，不过5G所带来的升级不止在硬件层面，如果
+ ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
+ > 基于人工智能的贝叶斯分类算法
+ ## [哪些程序员容易走上管理岗位，看看有没有你](https://blog.csdn.net/epubit17/article/details/90898525)
+ > 哪些程序员容易走上管理岗位，看看有没有你
+ ## [物联网卡可帮助解决物联网数据安全问题](https://blog.csdn.net/qq_40798435/article/details/91871290)
+ > 物联网卡可帮助解决物联网数据安全问题
+ ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
+ > 20七八岁的陷阱
+ ## [【物联网】物联网数据分析与可视化](https://blog.csdn.net/lsj960922/article/details/90638536)
+ > 【物联网】物联网数据分析与可视化
+ ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
+ > 最简单的深度学习入门书《动手学深度学习》
+ ## [增量编码器资讯大全](https://blog.csdn.net/kindele/article/details/90604826)
+ > 增量编码器资讯大全
+ ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
+ > 与操作系统导论对话
+ ## [项目经验：scrapy搭建定制化资讯服务](https://blog.csdn.net/xiaxianba/article/details/90440647)
+ > 项目经验：scrapy搭建定制化资讯服务
+ ## [物联网卡在物联网中，主要有哪些作用？](https://blog.csdn.net/duozhishidai/article/details/90454104)
+ > 物联网卡在物联网中，主要有哪些作用？
+ ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
+ > 京东技术架构师总结：深入理解Spring中的各种注解
+ ## [物联网 FOTA升级的必要性](https://blog.csdn.net/Manfred_zhu/article/details/90898778)
+ > 物联网 FOTA升级的必要性
+ ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
+ > 前端基础入门（9）css盒子
+ ## [前端基础入门（10）布局与定位](https://blog.csdn.net/fenghulun/article/details/91471608)
+ > 前端基础入门（10）布局与定位
+ ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
+ > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [这位博士跑赢“地震波”：提前 10 秒预警宜宾地震！](https://blog.csdn.net/csdnnews/article/details/92798941)
@@ -106,37 +152,41 @@ categories: IT NEWS
  ## [华兴源创成为科创板第一股，6月27日发行申购](http://www.lanjingtmt.com/news/detail/43184.shtml)
  > 上交所网站于6月19日零点披露华兴源创招股意向书、上市发行安排及初步询价公告等内容。发行人股票简称为“华兴源创”，股票代码688001，网上申购代码为787001，该公司为科创板第
 # 人工智能 
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [资讯--2019年5月](https://blog.csdn.net/wydbyxr/article/details/91490092)
- > 资讯--2019年5月
- ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
- > 阿里云DataV专业版发布，为可视化创造更多可能！
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
- > 首域金融投资人交流群的四个好处
- ## [蚂蚁金服终端实验室演进之路](https://blog.csdn.net/yunqiinsight/article/details/90899631)
- > 蚂蚁金服终端实验室演进之路
- ## [《普林斯顿计算机公开课》总结（一） 硬件部分](https://blog.csdn.net/qq_36708868/article/details/83715247)
- > 《普林斯顿计算机公开课》总结（一） 硬件部分
- ## [Web前端篇：CSS常用格式化排版](https://blog.csdn.net/ITmiaomiao666/article/details/91896394)
- > Web前端篇：CSS常用格式化排版
- ## [前端基础入门（5）边框与背景](https://blog.csdn.net/fenghulun/article/details/91348083)
- > 前端基础入门（5）边框与背景
- ## [Android开发-Android应用中启动时引导页的实现](https://blog.csdn.net/fukaimei/article/details/89667584)
- > Android开发-Android应用中启动时引导页的实现
- ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
- > 要转行Python又不清楚行业现状和前景，这样怎么能行？
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [算法基础===》==》=》排序（内部排）](https://blog.csdn.net/qq_43595030/article/details/91344579)
- > 算法基础===》==》=》排序（内部排）
- ## [应届生自学Python两个月，为什么找不到工作？](https://blog.csdn.net/qq_43720602/article/details/91350609)
- > 应届生自学Python两个月，为什么找不到工作？
+ ## [如何入门CTF？](https://blog.csdn.net/qq_43344642/article/details/91347200)
+ > 如何入门CTF？
+ ## [IT运维服务管理](https://blog.csdn.net/q947448283/article/details/91492749)
+ > IT运维服务管理
+ ## [Javascript漂流记（下）__深入数组扩展方法（二）](https://blog.csdn.net/AquamanTrident/article/details/91355223)
+ > Javascript漂流记（下）__深入数组扩展方法（二）
+ ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
+ > 运维常用操作(持续更新)
+ ## [linux安全基本配置](https://blog.csdn.net/m0_38139137/article/details/90475118)
+ > linux安全基本配置
+ ## [kerbors进行安全验证](https://blog.csdn.net/mn_kw/article/details/90746975)
+ > kerbors进行安全验证
+ ## [安全的路由交换--端口安全](https://blog.csdn.net/zhaotiannuo_1998/article/details/90705186)
+ > 安全的路由交换--端口安全
+ ## [运维入门之bash shell脚本三](https://blog.csdn.net/qq_42103479/article/details/90899348)
+ > 运维入门之bash shell脚本三
+ ## [H5学习感悟01](https://blog.csdn.net/Coder_Hcy/article/details/91041627)
+ > H5学习感悟01
+ ## [服务安全与监控1](https://blog.csdn.net/weixin_43669585/article/details/90597700)
+ > 服务安全与监控1
+ ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
+ > 项目开始阶段（二）
+ ## [java面试基础复习----基础的基础（1）](https://blog.csdn.net/weixin_44791262/article/details/90611127)
+ > java面试基础复习----基础的基础（1）
+ ## [nginx配置学习安全技巧](https://blog.csdn.net/qq_29556507/article/details/91043440)
+ > nginx配置学习安全技巧
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
+ > 运维进阶——firewall详解
 # PM 
+ ## [真正的高手，不但能赢得竞争，还能将蛋糕做大](http://www.woshipm.com/chuangye/2477295.html)
+ > 什么是企业长盛不衰的根源？顾客的思考逻辑是什么？如何让客户选择你？什么是战略，如何进行战略输出，赢得战争？越来越多人在学习定位应用定位，有的马上起到了很好...
+ ## [以GQ实验室为例：如何做公众号选题？](http://www.woshipm.com/operate/2471409.html)
+ > 如果你是刚加入GO实验室的一名内容运营人员，主要工作是负责公众号的原创内容，每周你们都需要开选题会，面对这种情况，你打算怎么做呢？背景：你是刚刚加入「GQ实验...
  ## [产品人职业发展与个人成长—在迷茫时代做个明白人](http://www.chanpin100.com/article/108706)
  > 不管是什么职位，其实都是一个位于中间层的不稳定位置，必须向上靠近业务，向下研究行业，才能巩固住，也才能应对快速发展的时代。作为一个产品经理，懂产品业务这个不必说了，还需要具备该行业的专精知识。
  ## [618电商大战唯一的关键词：下沉市场](http://www.chanpin100.com/article/108696)
