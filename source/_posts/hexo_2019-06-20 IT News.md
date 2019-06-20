@@ -1,21 +1,23 @@
 ---
 title: 2019-06-20 IT News
 copyright: true
-date: 2019-06-20 08:01:04
+date: 2019-06-20 09:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Libra白皮书面世 正确解读Facebook野心需注意这些点](http://mp.weixin.qq.com/s?src=11&timestamp=1560988804&ver=1679&signature=Z*PStsrq2pbOyhVEFgtyUQsvrcDJ8XBys5O8NG5j4sTXFhtJ8yMqwXE3UXH43MUun851P73CCQYMel756jjqqPISsLImRt8vOVAQsJ2JplxwyvvvPuWl7u8l0P6znB7F&new=1)
+ ## [Libra白皮书面世 正确解读Facebook野心需注意这些点](http://mp.weixin.qq.com/s?src=11&timestamp=1560992409&ver=1679&signature=Z*PStsrq2pbOyhVEFgtyUQsvrcDJ8XBys5O8NG5j4sQZUYEqkJB4wQLrhsAY78SDcxdWHJA7gUUqPkSYyjxuogN-3bSnOdwWZEewhCkA-DTSKuaaZNrUqAnM*25gflUh&new=1)
  > 来源：全链财经北京时间6月18日下午消息，Facebook的加密货币“Libra”相关网站正式上线，Facebook还发布了这款加密货币的白皮书。据coindesk报道称，Libra将在由100个分布式计算机服务器或节点启动的区块链网络...
- ## [哪些硬件在限制无人驾驶的发展?|顿悟·自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1560988804&ver=1679&signature=RosKLVFH3wN6R9Ii8mSTw9uQOlrs7ygPxSHQ1MIY2ZNq-PfV5Gw1zdRODcZ7O3RimRRRgJaO-I8k6JFu*N0*bjSV8WPayf22npTQ9rFaDbdsN9nOjf5hAewfb*Q*1LuS&new=1)
+ ## [哪些硬件在限制无人驾驶的发展?|顿悟·自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1560992409&ver=1679&signature=RosKLVFH3wN6R9Ii8mSTw9uQOlrs7ygPxSHQ1MIY2ZNqZLOkvNPiINHjywIf*GoLxDIQ795t2VUtpFBDTQAqJTxL0wQlki9RPkHFSXvgST0mFAobx8sf6bU8pLZR-MnQ&new=1)
  > 雅斯顿原创文章 | 默默 无人驾驶裹足不前并不是单方面的原因，其中牵涉到数目众多、类目庞杂的供应链体系，这其中既有之前提及的智能机械软件方面的突破，也有众多基础硬件的发展。那么，无人驾驶最为倚赖的有哪...
- ## [华为突然发布!谁也没想到，一切来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1560988804&ver=1679&signature=EzRgsfuucXANsC-CHvUU1aqOBrwNsbp-a0-qezpBlUD4gERC*0lIU5*0xAZL47i6ZXO-WugIHNt4HOmTxQhlywkYUPYecxwIeaPYgm5vnxObzK5vvvOP70Qro7Jw6xgb&new=1)
- > 华为突然发布！谁也没想到，一切来得这么快！一太快了！所有人都知道要来，却没想到来得那么快。工业和信息化部向中国电信、中国移动、中国联通中国广电发放5G商用牌照，标志着中国正式进入5G时代。随后，华为官...
- ## [华为被封杀33天，剧情不断反转，打脸啪啪啪](http://mp.weixin.qq.com/s?src=11&timestamp=1560988804&ver=1679&signature=kLmsnbIH8*SZSlNq8Cm2gXCtI2khlZXtCnkIrR5D4IHBdLfMLjVxBqcYBY7fCMiXvh1TyFTp*0kIzimw3wEPmb9BaY-vMX0ZZOQVSq7s5X8ja8fFprqdH2EVAgzvYRGn&new=1)
- > 华为被列入美国实体名单，距今已经一个多月。机哥一直密切关注事件发展。毕竟，遭遇这种规模的制裁，世界上大多数公司都很难撑过一个月。这一个月，机哥目睹着华为经历了一场场风波、一次次打击。说出来你可能不...
- ## [\[报告\]2019年全球汽车消费者调查(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560988804&ver=1679&signature=Qf4QBbAHdS9T1lU7GX1T2nWEt4JyWbSh6GEVI9QZcNoTagm50KiTrNUn7vvbH-B1UMbJ-Futr5lq1zZ1BWhF7Y8kE2gRQgei5x8jdEou7KmoaI3zA40tTvyu-6TJ1PmY&new=1)
+ ## [瞭望丨量子通信这个赛道，中国能跑好吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1560992409&ver=1679&signature=f82XMn9pP5CKyd7KTrlrw0XmlNL3pQoaDAaAYb9TzkDAQkxhupFJMLaaCrnN3Yhpu8*cwlqWR8OlxS85IHoZl0v8dHf5YiUXQmdice5BkCpfNjs9mWDxDf*Mjfm1uI3X&new=1)
+ > ◆ 与5G技术一样，量子通信是我国又一条领先世界的科技“赛道”◆ 国际上“量子争霸”日趋激烈，美方早已开始对量子器件实行严格管控◆ 作为新兴产业，现阶段我国部分处于国际领先的量子产业基本处于在“无人区...
+ ## [\[报告\]2019年全球汽车消费者调查(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1560992409&ver=1679&signature=Qf4QBbAHdS9T1lU7GX1T2nWEt4JyWbSh6GEVI9QZcNopaHhVilA6UVNGC5PgT-yb9nvjM-2VBhA0YglQEgHCAexHyKGAydFyInsYBu4eyhhdGkhN3LJe99bDen*e-32q&new=1)
  > 6月11日，德勤最新发布《2019年全球汽车消费者调查》。报告显示，自动驾驶科技应用不断广泛延伸至实际生活中，但消费者对于自动驾驶汽车的安全性的信心似乎未见提升。德勤中国汽车行业主管合伙人何马克博士表示...
+ ## [华为被封杀33天，剧情不断反转，打脸啪啪啪](http://mp.weixin.qq.com/s?src=11&timestamp=1560992409&ver=1679&signature=kLmsnbIH8*SZSlNq8Cm2gXCtI2khlZXtCnkIrR5D4IElT6grGaJORDjGp4k6v*k1HWMT34hLBUBtMey6j20ta-840xDT9cYkoyiFm54Ne6mWEXrS0UPdzuBEbgWLH4Zs&new=1)
+ > 华为被列入美国实体名单，距今已经一个多月。机哥一直密切关注事件发展。毕竟，遭遇这种规模的制裁，世界上大多数公司都很难撑过一个月。这一个月，机哥目睹着华为经历了一场场风波、一次次打击。说出来你可能不...
+ ## [华为突然发布!谁也没想到，一切来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1560992409&ver=1679&signature=EzRgsfuucXANsC-CHvUU1aqOBrwNsbp-a0-qezpBlUDfpXY6tAQyEnje6lQnMAkQGYzTP8gv0R9SsvGjNl04oT7IGjsgnfwE33xpt5iPtXtlb-j0zdGwP89Q2K30Fjil&new=1)
+ > 华为突然发布！谁也没想到，一切来得这么快！一太快了！所有人都知道要来，却没想到来得那么快。工业和信息化部向中国电信、中国移动、中国联通中国广电发放5G商用牌照，标志着中国正式进入5G时代。随后，华为官...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -59,6 +61,8 @@ categories: IT NEWS
 # IT 技术 
  ## [你对Facebook新的加密货币Libra和数字钱包Calibra知多少？](http://blockchain.51cto.com/art/201906/598128.htm)
  > 你对Facebook新的加密货币Libra和数字钱包Calibra知多少？
+ ## [强力推荐！.NET开发的这23种优秀工具](http://developer.51cto.com/art/201906/598126.htm)
+ > 强力推荐！.NET开发的这23种优秀工具
  ## [我只是下了个订单，鬼知道我在微服务里经历了什么？](http://developer.51cto.com/art/201906/598089.htm)
  > 我只是下了个订单，鬼知道我在微服务里经历了什么？
  ## [多元化还是消亡?为什么多云策略对数据保护至关重要](http://cloud.51cto.com/art/201906/598109.htm)
@@ -71,8 +75,10 @@ categories: IT NEWS
  > 你的Linux服务器果真得到保护了吗？
  ## [2019开发者调查报告：Java最流行，Go最有前途](http://news.51cto.com/art/201906/598091.htm)
  > 2019开发者调查报告：Java最流行，Go最有前途
- ## [Linux平台下Tomcat的安装与优化](http://server.51cto.com/sOS-598059.htm)
- > Linux平台下Tomcat的安装与优化
+ ## [20大5G关键技术](http://network.51cto.com/art/201906/598142.htm)
+ > 5G网络技术主要分为三类：核心网、回传和前传网络、无线接入网。
+ ## [重新定义物联网之“物”](http://iot.51cto.com/art/201906/598139.htm)
+ > 物联网之“物”即设备，包括芯片、传感器、驱动器、控制器、处理器以及众多其他组成部分。物联网中的设备要
  ## [在物联网项目中取得成就所需的技术技能](http://iot.51cto.com/art/201906/598140.htm)
  > 物联网革命正在发生，并将在未来两到四年内实现其巨大潜力。作为一名开发人员，如果您热衷于学习新技能，那
  ## [企业物联网的三大商业机会](http://iot.51cto.com/art/201906/598138.htm)
@@ -83,36 +89,36 @@ categories: IT NEWS
  > 对于企业来说，超出云预算是一个需要避免的问题。这要求IT部门必须与财务部门或第三方携手合作，以确保云计
  ## [IDC时评：中国5G还有哪些拦路虎？](http://network.51cto.com/art/201906/598136.htm)
  > 随着日前诺基亚和爱立信中标中国移动5G采购计划的新闻放出，再次把5G关键词的热度推向了新的高峰。由此显示
- ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
- > 前端基础入门（13）contenteditable 属性
- ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
- > 云计算介绍之云计算服务器
- ## [Web前端篇：CSS盒模型](https://blog.csdn.net/ITmiaomiao666/article/details/91896947)
- > Web前端篇：CSS盒模型
- ## [前端基础入门（5）边框与背景](https://blog.csdn.net/fenghulun/article/details/91348083)
- > 前端基础入门（5）边框与背景
- ## [【甄选资讯】日本设计行业优秀的设计网站](https://blog.csdn.net/uzing/article/details/91829114)
- > 【甄选资讯】日本设计行业优秀的设计网站
- ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
- > 【云计算】云计算的前世今生
- ## [金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点](https://blog.csdn.net/IFTNews/article/details/90767019)
- > 金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点
- ## [增量编码器资讯大全](https://blog.csdn.net/kindele/article/details/90604826)
- > 增量编码器资讯大全
- ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
- > 大数据、云计算、物联网三者的区别和关联
- ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
- > 云计算介绍之云计算存储(2)
- ## [2018秋东海大学资讯工程系交换回忆](https://blog.csdn.net/qq_37486501/article/details/90520181)
- > 2018秋东海大学资讯工程系交换回忆
- ## [区块链-区块链分叉](https://blog.csdn.net/qq_40452317/article/details/90550290)
- > 区块链-区块链分叉
- ## [三大金融文本语料(工商,新闻,资讯) - NLP语料](https://blog.csdn.net/weixin_40473141/article/details/90673105)
- > 三大金融文本语料(工商,新闻,资讯) - NLP语料
- ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
- > 前端基础入门（9）css盒子
- ## [《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录](https://blog.csdn.net/qq_40061206/article/details/91045505)
- > 《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录
+ ## [前端脚手架(cli)实现](https://blog.csdn.net/luchuanqi67/article/details/91283513)
+ > 前端脚手架(cli)实现
+ ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
+ > 关于“人工智能”的一点思考
+ ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
+ > 人工智能会取代艺术家？
+ ## [随笔——人工智能](https://blog.csdn.net/newbie_Blogger/article/details/90759117)
+ > 随笔——人工智能
+ ## [人工智能之产生式系统（c++实现）](https://blog.csdn.net/yangmolulu/article/details/90576973)
+ > 人工智能之产生式系统（c++实现）
+ ## [人工智能——BP神经网络](https://blog.csdn.net/weixin_41171064/article/details/90670558)
+ > 人工智能——BP神经网络
+ ## [【编程语言】PHP完全自学手册](https://blog.csdn.net/lsj960922/article/details/91042869)
+ > 【编程语言】PHP完全自学手册
+ ## [人工智能发展史（读书笔记）](https://blog.csdn.net/Void_worker/article/details/90669308)
+ > 人工智能发展史（读书笔记）
+ ## [【科普】7大含金量最高的编程语言](https://blog.csdn.net/weixin_40897235/article/details/90399967)
+ > 【科普】7大含金量最高的编程语言
+ ## [ajax接口返回图片类型数据，转为base64赋值给img](https://blog.csdn.net/u012193330/article/details/89331398)
+ > ajax接口返回图片类型数据，转为base64赋值给img
+ ## [从汇编语言到高级编程语言的演变](https://blog.csdn.net/cq20110310/article/details/91044796)
+ > 从汇编语言到高级编程语言的演变
+ ## [前端浏览器兼容性问题和解决办法](https://blog.csdn.net/weixin_44780445/article/details/90680025)
+ > 前端浏览器兼容性问题和解决办法
+ ## [编程语言常识](https://blog.csdn.net/lzyzlx1914/article/details/90729187)
+ > 编程语言常识
+ ## [前端 天气插件 tpwidget](https://blog.csdn.net/zhangjing0320/article/details/91867689)
+ > 前端 天气插件 tpwidget
+ ## [人工智能的应用与发展历程](https://blog.csdn.net/fadsf15/article/details/90750667)
+ > 人工智能的应用与发展历程
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [从佛罗伦萨记账到区块链，应用才是区块链崛起的真正标志](https://blog.csdn.net/csdnnews/article/details/92841088)
@@ -138,37 +144,45 @@ categories: IT NEWS
  ## [除了敲代码，程序员还需要哪些必备技能？](https://blog.csdn.net/csdnnews/article/details/92804267)
  > 良好的写作水平，是个被严重低估的软件工程师必备技能！作者 |Gergely Orosz，软件工程经理译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNne...
 # 人工智能 
- ## [不懂技术也能看懂的云计算／大数据／人工智能](https://blog.csdn.net/mmooyyyy/article/details/90551577)
- > 不懂技术也能看懂的云计算／大数据／人工智能
- ## [linux第一阶段学习笔记基础](https://blog.csdn.net/qq_31300229/article/details/91607040)
- > linux第一阶段学习笔记基础
- ## [《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录](https://blog.csdn.net/qq_40061206/article/details/91045505)
- > 《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录
- ## [区块链学习笔记（1）--区块链的工作原理part1](https://blog.csdn.net/weixin_44826484/article/details/90415284)
- > 区块链学习笔记（1）--区块链的工作原理part1
- ## [前端基础概念的整理](https://blog.csdn.net/mondy592/article/details/91130250)
- > 前端基础概念的整理
- ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
- > 【云计算】云计算的前世今生
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [大数据、云计算该如何学习？](https://blog.csdn.net/yyyyyyyyyooi/article/details/91049999)
- > 大数据、云计算该如何学习？
- ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
- > 项目开始阶段（二）
- ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
- > 大数据、云计算、物联网三者的区别和关联
- ## [《区块链基础知识25讲》-第十六讲-保护数据安全](https://blog.csdn.net/qq_40061206/article/details/91044704)
- > 《区块链基础知识25讲》-第十六讲-保护数据安全
- ## [区块链是什么？数字货币是什么？区块链详细介绍](https://blog.csdn.net/kaihuiguoji/article/details/90718830)
- > 区块链是什么？数字货币是什么？区块链详细介绍
- ## [Linux基础_SHELL脚本编程基础](https://blog.csdn.net/weixin_42758707/article/details/90315160)
- > Linux基础_SHELL脚本编程基础
- ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
- > 项目开始阶段（一）
- ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
- > 大数据与云计算概念的解析
+ ## [IT运维服务管理](https://blog.csdn.net/q947448283/article/details/91492749)
+ > IT运维服务管理
+ ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
+ > 20七八岁的陷阱
+ ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
+ > 要转行Python又不清楚行业现状和前景，这样怎么能行？
+ ## [运维葵花宝典](https://blog.csdn.net/kehana/article/details/90765448)
+ > 运维葵花宝典
+ ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
+ > 大专简单的2年程序人生
+ ## [MySql window安装运维](https://blog.csdn.net/zzhuan_1/article/details/90404378)
+ > MySql window安装运维
+ ## [运维入门之bash shell脚本三](https://blog.csdn.net/qq_42103479/article/details/90899348)
+ > 运维入门之bash shell脚本三
+ ## [【物联网】物联网安全---编辑中](https://blog.csdn.net/bandaoyu/article/details/90405912)
+ > 【物联网】物联网安全---编辑中
+ ## [Hadoop集群运维](https://blog.csdn.net/qq_35488412/article/details/91042033)
+ > Hadoop集群运维
+ ## [两台服务器ssh免密对端服务器及本机f](https://blog.csdn.net/weixin_42691754/article/details/91881025)
+ > 两台服务器ssh免密对端服务器及本机f
+ ## [spark集群搭建和简单运维操作](https://blog.csdn.net/qq_28513801/article/details/90744008)
+ > spark集群搭建和简单运维操作
+ ## [认识阿里云物联网与物联网项目的开发流程](https://blog.csdn.net/pengpengjy/article/details/90412011)
+ > 认识阿里云物联网与物联网项目的开发流程
+ ## [运维资料之反向代理](https://blog.csdn.net/sky6even/article/details/90511597)
+ > 运维资料之反向代理
+ ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
+ > 运维常用操作(持续更新)
+ ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
+ > 运维进阶-----NFS网络文件系统
 # PM 
+ ## [会讲故事的人，都是高管](http://www.woshipm.com/zhichang/2481938.html)
+ > 如何能做到当众好好说话？人与人之间沟通的障碍是什么？如何让沟通成为你的最佳生产力？以下，本文将围绕“领导者的语言形象与传播力”展开讲解。大家上午好，今天主要...
+ ## [UX中常用的四种地图](http://www.woshipm.com/pd/2479019.html)
+ > 客户移情图、客户旅程图、体验地图、服务蓝图从不同的角度出发，对UX设计的不同过程进行描绘，是构建组织内关于UX共识的重要方法。产品的设计和研发通常需要组建一支...
+ ## [线上课程｜与其一直被文案折磨，不如用4周摆脱文案困扰！](http://www.woshipm.com/active/2453178.html)
+ > 写不出好文案的你，是否也有下方这些很痛的经历呢？同样一个公司渠道位，同事提交的素材点击率和落地转化率，总是比自己高；主体内容差不多的裂变活动，别人的裂变海...
+ ## [搜狗输入法之父马占凯：进化论、图灵机和信息输入](http://www.woshipm.com/kol/2374377.html)
+ > 5月11日-12日，人人都是产品经理举办的【 2019产品创新大会·北京站】完美落幕。搜狗输入法之父马占凯老师，他给大家带来的是《从图灵机信息输入原理，谈产品变革》的精...
  ## [在线教育实现弯道超车？干货实操指南](http://www.chanpin100.com/article/108711)
  > 周知，虽然在线教育市场不断扩大但已然红海，资本寒冬的情况下获客难且成本高，教育的试错成本太高，家长是拿孩子不可逆的成长时间来挑选产品的，因此，一旦课程质量不佳，用户不会回购且流失。因此，我们更应关注留存及续费，请在保证优质课程内容的前提下阅读本文，请勿本末倒置。
  ## [阿里巴巴组织调整，大文娱站稳1号位](http://www.chanpin100.com/article/108708)
