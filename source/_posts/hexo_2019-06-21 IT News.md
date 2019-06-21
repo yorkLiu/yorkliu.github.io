@@ -1,21 +1,21 @@
 ---
 title: 2019-06-21 IT News
 copyright: true
-date: 2019-06-21 08:01:48
+date: 2019-06-21 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [是他，道出了运营商的本质..](http://mp.weixin.qq.com/s?src=11&timestamp=1561075204&ver=1681&signature=8aLbIVaR5SO0lS4NdhYH1WLmdZUW*kS8ObjFDe0GhebDmosi99mKsNqkrrk25lC0nFH09KO8kdSy5uL8KZEHDRQOGuEe23M7hzMmfTx9CG2exe6gdt6v0w4e1wYcsiBl&new=1)
- > 国内网络上最脑残之一的事情，就是没事就怼运营商：这么大企业，这么大网络，这么多用户，每天就赚这点钱，一堆人还脑残一样瞎扯淡偷流量什么的。去看看上市公司的员工平均年薪和利润，金融行业比运营商好太多了...
- ## [3D技术被应用于时尚业!首款环保定制3D打印裙开售](http://mp.weixin.qq.com/s?src=11&timestamp=1561075204&ver=1681&signature=ZJrhqxK9OBuva17a5Ka0HCBBr3nS1mhOm*0JMJLEIiT6p-fDBjMNyJ1rrHX6AGLOE5UbzEWi2GEe*qYietiyqd4D9sakSYH6jdF8BuxxhYSZ*tuBCF95G5U8r7fbJiJP&new=1)
+ ## [3D技术被应用于时尚业!首款环保定制3D打印裙开售](http://mp.weixin.qq.com/s?src=11&timestamp=1561078804&ver=1681&signature=ZJrhqxK9OBuva17a5Ka0HCBBr3nS1mhOm*0JMJLEIiT6p-fDBjMNyJ1rrHX6AGLOWY2wCX5ci9fJ9*y9M46jeU55TqXSSkGMICWaaIsF3Tc8H8guTJzqREyzZ05Du4fO&new=1)
  > 日前时尚科技先驱Julia Daviy推出了世界上第一款零浪费的数字化、可定制、由3D打印的半身裙。过去几年中3D打印技术经过不断的发展，现如今终于在商业应用中找到了一席之地。你可能根本无法想到，第一个受益于3D...
- ## [为什么微软HoloLens并不能适用于AR辅助手术功能?](http://mp.weixin.qq.com/s?src=11&timestamp=1561075204&ver=1681&signature=7zllL2NRpsDFK1pmFS*x8RdAzFrRjYVmLF0-HZrW-sNqMX*BNjjoqw*XEEiOww-CMQRLKfS1DYWXsBe7q3vjYn1IryUcGaQJqTTCgpT1-yuMmrupKHyVY-MK*whbEj5p&new=1)
+ ## [为什么微软HoloLens并不能适用于AR辅助手术功能?](http://mp.weixin.qq.com/s?src=11&timestamp=1561078804&ver=1681&signature=7zllL2NRpsDFK1pmFS*x8RdAzFrRjYVmLF0-HZrW-sNqMX*BNjjoqw*XEEiOww-Csw9X*cxHKL4fLDyCB26rDWWGI8WF-xVIuusCIbH-CVfRsW*1s-WXRL8-M64mlQK7&new=1)
  > “与肉眼相比，使用HoloLens完成任务时，参与者不太准确并且变得更加疲劳”通过正确的设备，一些编程和开关的转换，增强现实（AR）可以改变世界，或者至少改变我们眼前几厘米看到的东西。但是，虽然行业迅速扩张...
- ## [5G超级SIM卡“体小志大”，让5G手机不惧容量挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1561075204&ver=1681&signature=vmcLs7iHM44zlfH-LZnhE-LgErjDi9dZ9PW-TtpJvacvqCRLiSXYZNMlEyQFwNIaVx8mdGRPLTqBWjjqINM7B7*uc41BArcJUbSHN3DfamOP2gIp3lEOJwdDvV0Xm7mv&new=1)
+ ## [5G超级SIM卡“体小志大”，让5G手机不惧容量挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1561078804&ver=1681&signature=vmcLs7iHM44zlfH-LZnhE-LgErjDi9dZ9PW-TtpJvacvqCRLiSXYZNMlEyQFwNIaOzJ9atwPm8w6ewHc3Yk5RCdybiUJovvQSglpgcR82LnPE02VepHLIA5zNrHoJnVO&new=1)
  > 近期中国发放5G牌照，让我国5G发展再加速。作为与消费者接触最紧密的5G手机，也将迅速发展和普及。我们看到不少手机厂商已推出5G手机。众多消费者也对5G手机跃跃欲试，都想第一时间感受5G带来的畅爽体验。但是，...
- ## [瑞幸咖啡承销商执行超额配售丨阿里AI获人工智能“世界杯”冠军\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561075204&ver=1681&signature=ZEp-1ZNISjy4SbvgdQLhIQAkQCPcvk1hTJYj2So4Pixnaa0EHbuKujM5x1eDNXzm2CoNDMi1lBy3b3Pabt6*UCwmkXtQM3r48v13420PvUm5BQxTFVa9kfCLBLQXG9WT&new=1)
+ ## [瑞幸咖啡承销商执行超额配售丨阿里AI获人工智能“世界杯”冠军\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561078804&ver=1681&signature=ZEp-1ZNISjy4SbvgdQLhIQAkQCPcvk1hTJYj2So4Pixnaa0EHbuKujM5x1eDNXzmFVqrbkUm7FCNCkuGtMDi*xzsX9j-8UBEgBbF-n2N4QWndjH5ZCfUIEIIrSie-L*U&new=1)
  > 6月20日 周四【Do说】编辑 | 李尧瑞幸咖啡承销商执行超额配售权，募资增加8415万美元瑞幸咖啡在官网宣布，根据与IPO承销商达成的超额配售权行使协议，公司已完成以17美元的发行价，增发495万股美国存托凭证的工...
+ ## [是他，道出了运营商的本质..](http://mp.weixin.qq.com/s?src=11&timestamp=1561078804&ver=1681&signature=8aLbIVaR5SO0lS4NdhYH1WLmdZUW*kS8ObjFDe0GhebDmosi99mKsNqkrrk25lC0p2XawKh0IIbhXB8*ZO61JU27LHe1qrPpWm3DBiBcrT8ZCS1zCVWx1An8J96aN7yg&new=1)
+ > 国内网络上最脑残之一的事情，就是没事就怼运营商：这么大企业，这么大网络，这么多用户，每天就赚这点钱，一堆人还脑残一样瞎扯淡偷流量什么的。去看看上市公司的员工平均年薪和利润，金融行业比运营商好太多了...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,36 +73,40 @@ categories: IT NEWS
  > 我只是下了个订单，鬼知道我在微服务里经历了什么？
  ## [多元化还是消亡?为什么多云策略对数据保护至关重要](http://cloud.51cto.com/art/201906/598109.htm)
  > 多元化还是消亡?为什么多云策略对数据保护至关重要
- ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
- > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
- > 项目开始阶段（一）
- ## [运维企业实战——hadoop+zookeeper高可用](https://blog.csdn.net/weixin_44321029/article/details/90488763)
- > 运维企业实战——hadoop+zookeeper高可用
+ ## [物联网为资产管理带来了什么？](http://iot.51cto.com/art/201906/598190.htm)
+ > 物联网最有前途的应用之一是资产跟踪，如何在资产跟踪中利用物联网?在本文中，我们将讨论物联网为跟踪贵公
+ ## [工业4.0项目失败――原因如下](http://iot.51cto.com/art/201906/598189.htm)
+ > 根据几十家公司的研究数据分析，以下是工业物联网项目在开发的每个阶段失败或停滞的主要原因，以及如何避免
  ## [【物联网】物联网数据分析与可视化](https://blog.csdn.net/lsj960922/article/details/90638536)
  > 【物联网】物联网数据分析与可视化
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [汽车化身智能车联网全靠物联网卡](https://blog.csdn.net/qq_40798435/article/details/91444684)
- > 汽车化身智能车联网全靠物联网卡
+ ## [运维入门之bash shell脚本三](https://blog.csdn.net/qq_42103479/article/details/90899348)
+ > 运维入门之bash shell脚本三
+ ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
+ > 与操作系统导论对话
  ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
  > 运维进阶——firewall详解
- ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
- > 运维进阶-----NFS网络文件系统
- ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
- > 运维常用操作(持续更新)
- ## [\[Linux\]运维面试(二)](https://blog.csdn.net/qq_44839276/article/details/90763352)
- > \[Linux\]运维面试(二)
- ## [Spring基础（二）——Spring基础](https://blog.csdn.net/weixin_41676282/article/details/90646921)
- > Spring基础（二）——Spring基础
- ## [物联网第五步： Tornado-异步与WebSockets](https://blog.csdn.net/sinat_26940175/article/details/90473565)
- > 物联网第五步： Tornado-异步与WebSockets
+ ## [运维之路（5）_系统监控](https://blog.csdn.net/weixin_43546282/article/details/90578869)
+ > 运维之路（5）_系统监控
+ ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
+ > 程序人生：“自学Python，如何拿下了月薪15k的工作
+ ## [哪些程序员容易走上管理岗位，看看有没有你](https://blog.csdn.net/epubit17/article/details/90898525)
+ > 哪些程序员容易走上管理岗位，看看有没有你
+ ## [汽车化身智能车联网全靠物联网卡](https://blog.csdn.net/qq_40798435/article/details/91444684)
+ > 汽车化身智能车联网全靠物联网卡
  ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
  > 物联网与边缘计算的融合
- ## [练习1-13 垂直方向直方图](https://blog.csdn.net/smilezyf/article/details/91047119)
- > 练习1-13 垂直方向直方图
- ## [前端基础概念的整理](https://blog.csdn.net/mondy592/article/details/91130250)
- > 前端基础概念的整理
+ ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
+ > \[Linux\]运维面试(一)
+ ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
+ > 京东技术架构师总结：深入理解Spring中的各种注解
+ ## [算法基础===》==》=》排序（内部排）](https://blog.csdn.net/qq_43595030/article/details/91344579)
+ > 算法基础===》==》=》排序（内部排）
+ ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
+ > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
+ ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
+ > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
+ ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
+ > 物联网卡还可以用在农业自动化的哪些方面
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [不要让 Chrome 成为下一个 IE！](https://blog.csdn.net/csdnnews/article/details/93032783)
@@ -119,38 +123,44 @@ categories: IT NEWS
  > 作者 |阿文责编 | 郭芮很多站长都会遇到一个很头疼的问题，那就是自己网站的资源经常被盗用，有文字、图片、视频、和二进制或压缩文件，这些资源被盗用后除了导致网站流量丢失...
  ## [这3件事发生后，我彻底给 Python“跪了”!](https://blog.csdn.net/csdnnews/article/details/92975351)
  > 有人曾说，未来只有2种人，会Python的人和....不懂Python的小学生，虽有夸张，这也意味着Python越来越重要了，究竟这门语言厉害在哪里？以下为你总结了Pyt...
+ ## [科技驱动创新，“第二届蓝鲸新科技峰会”成功举办](http://www.lanjingtmt.com/news/detail/43225.shtml)
+ > 6月20日，由蓝鲸财经主办的“第二届蓝鲸新科技峰会”在北京成功举行。本次峰会以“科技驱动创新”为主题，围绕5G、AIoT及智能零售等科技创新议题展开讨论，旨在预见未来科技趋势，寻找
 # 人工智能 
- ## [云计算介绍之云计算的产生概述](https://blog.csdn.net/csdn10086110/article/details/91413055)
- > 云计算介绍之云计算的产生概述
- ## [Python人工智能-知识储备](https://blog.csdn.net/qq_21153997/article/details/91472776)
- > Python人工智能-知识储备
- ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
- > 云计算介绍之云计算存储(2)
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [什么是代理IP](https://blog.csdn.net/duyun123456/article/details/91129886)
- > 什么是代理IP
- ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
- > 关于“人工智能”的一点思考
- ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
- > 云计算介绍之云计算服务器
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [人工智能之问](https://blog.csdn.net/hcgx2018/article/details/90633429)
- > 人工智能之问
- ## [人工智能--不确定性推理概述](https://blog.csdn.net/hjc256/article/details/91128640)
- > 人工智能--不确定性推理概述
- ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
- > 人工智能--状态空间的盲目搜索
- ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
- > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
- > 区块链如何改变人工智能
+ ## [区块链倪老师：区块链思维——序章](https://blog.csdn.net/weixin_44693781/article/details/91600996)
+ > 区块链倪老师：区块链思维——序章
+ ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
+ > 爱的故事，用Jira策划的浪漫婚礼
+ ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
+ > 看了这篇帖子，终于对大数据和云计算有点认识了
+ ## [金融壹账通区块链突破三大瓶颈搭建全球区块链生态网络](https://blog.csdn.net/IFTNews/article/details/90759414)
+ > 金融壹账通区块链突破三大瓶颈搭建全球区块链生态网络
+ ## [不懂技术也能看懂的云计算／大数据／人工智能](https://blog.csdn.net/mmooyyyy/article/details/90551577)
+ > 不懂技术也能看懂的云计算／大数据／人工智能
  ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
  > 云计算、大数据、人工智能之间的关系，总章
+ ## [携程敏捷总动员-OKR专场（上海敏捷沙龙）](https://blog.csdn.net/sinat_27030335/article/details/91412966)
+ > 携程敏捷总动员-OKR专场（上海敏捷沙龙）
+ ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
+ > 项目研发管理经验交流
+ ## [云计算开发教程，云计算能干什么？](https://blog.csdn.net/qfxulei/article/details/90485168)
+ > 云计算开发教程，云计算能干什么？
+ ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
+ > 【云计算】云计算的前世今生
+ ## [云计算的理解](https://blog.csdn.net/baidu_36452960/article/details/91879409)
+ > 云计算的理解
+ ## [大数据、云计算该如何学习？](https://blog.csdn.net/yyyyyyyyyooi/article/details/91049999)
+ > 大数据、云计算该如何学习？
+ ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
+ > 云计算介绍之云计算存储(1)
+ ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
+ > 20年研发管理经验谈（八）
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
 # PM 
+ ## [越工作越迷茫，不知道未来会怎样，怎么办?](http://www.woshipm.com/zhichang/2482851.html)
+ > “模糊的正确”并不仅仅是大方向正确，更是指一个“容错率”高的方向。一、火箭上的座位2001年，小布什总统上台，共和党重新执政组阁，克林顿政府雇员成为各大知名公司抢...
+ ## [如何把电商平台的首单率从2%提升到15%以上？（上篇）](http://www.woshipm.com/operate/2483644.html)
+ > 在现有市场中，线上心理咨询服务很少见。所以笔者在参与这款产品的生产、运营时，遇到了不少问题。根据以往的产品经验，笔者也进行了相应的总结复盘。让我们来看看吧。...
  ## [产品经理周报第 72 期｜饿了么成立本地生活研究中心；腾讯推出小程序社区产品“和群”](http://www.woshipm.com/it/2487627.html)
  > 夏至很快就要到啦，各地的暑气也越来越重在炎热的夏天里，坐在空调房里，吃上美味的西瓜是再好不过啦过完今天，大家就可以尝试尝试那我们今天先来看看本周发生了一...
  ## [电商后台产品经理——用户管理](http://www.chanpin100.com/article/108720)
