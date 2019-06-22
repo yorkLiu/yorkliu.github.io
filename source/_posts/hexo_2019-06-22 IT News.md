@@ -1,31 +1,51 @@
 ---
 title: 2019-06-22 IT News
 copyright: true
-date: 2019-06-22 12:01:05
+date: 2019-06-22 17:01:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [怎样做好智能家居?12年家居产业链操盘经验人这样说](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=hOoFzzFmuk0BgCx0Zt6C9iNVjZkcrOh6JWazW3--0yI5rE2AsJEQy3ZtWrIbAFMlwBnBtJxt6BvvCpymNijZLi6v3FiQqnNYy4SdyEj2gapuGgIctlv3s-KsS4DAbk9m&new=1)
+ ## [面对美方商务部的刁难，华为再次选择还击!](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=Exllu8MYnRwfZz86gRFTu4RS7MfS2gF0ccsXXxnaBu-H9Lg8fGhWeeD0TX60r-1JKO0SUotfEpeuUXYoPEY2Dt7R88ujEAIrblkAe57Ks5LSKLANhbMaHKZExdRPZCjr&new=1)
+ > 据路透社6月22日报道，美国法院文件显示，华为技术有限公司已于21日对美国商务部提起诉讼，要求后者就华为从中国送到美国进行测试，然后再准备运回中国的电信设备，是否受出口管理条例的管辖给出明确说法。在诉...
+ ## [刚刚，华为赢了!](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=gOQq98rVzeSzyt4b3GgLbj-ugK4nm2o7zaT14vRZRQTZL8qOaF3-fTMgWoHEfOfKB10blzOdyX4ElqFB4YadNoKrQtq*DO5la7w*wjvV-jhsgB944YIIdNbKM5SR2qQa&new=1)
+ > @注会菌太快了！ 所有人都知道要来，却没想到来得那么快。近日，工业和信息化部向中国电信、中国移动、中国联通中国广电发放5G商用牌照，标志着中国正式进入5G时代。华为官方微博发文表示：华为公司将凭借端到端...
+ ## [自己亏钱，却误送别人百亿，比特币勒索病毒逗坏我了!](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=ew5wU4D4utR83eZf641WM-p1Zdyzrn*rPoZvwuep*jkX*I5xlKsxH2Vnox3yj0HUWQHDmt7CvhtQwO8Jgect2g7U8zO9IYnKw4IG2fzA3Y*g5R21uS4G*zzrQ8weSUau&new=1)
+ > 今早刷到一条关于比特币勒索的热搜，让唐唐想起曾经被称为搞哭全世界的”WannaCry“病毒。这个”想哭“病毒是永恒之蓝的变种，感染电脑后会自动锁死文件，而黑客的诉求不出意外是：2000人民币的比特币。俄罗斯和...
+ ## [看看今年上半年科技圈有哪些大事](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=8zCXTY2MWfUc4S7R6JdAPy541jHw6akJxGS2j8jIP1XN6XK0zX1y4DheytHSBurixudM6HKdtixW9ktbzgiixdzlmFb3Ve3a3Cr3WyhlcfL8*phPenlYd5C-wRn1enyQ&new=1)
+ > 2019年上半年转眼就要过去了，这半年的时间里科技行业又出现了许多新技术和新趋势。5G网络即将正式落地，而可折叠屏手机也在上半年成为了人们热议的话题。苹果不再高冷，开始在国内降价促销。一张黑洞的照片没想...
+ ## [KUKA机器人如何助力中国3C行业发展?](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=EHZqBQL3NlT9CUfo3PHrHXGOuMeqfxcDcDTJvktIxsDDZ2RhQXmiKi*UIQ*woY*qKKu8F3nnbd1BIY9CiGGD7tg0VZ-3qlmni6mYWiBJcpDHHxBNROfX8VY60ulk0Q3t&new=1)
+ > 过去三十年，中国制造业的发展主要依靠劳动力密集型的生产方式，质量效益较低且缺乏核心竞争力。如今，“工业4.0”已不再仅仅是一个概念，对原有的生产线进行“工业4.0”改造，实现人、机器、物体与IT系统的最佳...
+ ## [花费超1亿元，GE航空买27台EBM电子束金属3D打印机，生产发动机叶片](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=5QTiYL3LCClb--f0iTsM9ytXL8yGe8T*pS7P8ph63zkkYzPfYRglPtKO8mqTFIHsHMuk*EFFIBeHC2BsE7SU*S4bkburhovKDGAJUs1cY02p7gOrzz4hN6*Cw4CQfOXp&new=1)
+ > 小知识：GE航空公司是喷气发动机，部件和集成系统的跨国供应商；Arcam是全球电子束熔融（EBM）金属3D打印机领导厂商，已经被GE收购。△GE9X飞机发动机，图片来源aerotime2019年6月22日，南极熊从外媒获悉，GE航...
+ ## [揭秘苹果iPhone应用审核机制：300多人就干这一件事](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=BxAKxNpqnutkErSkrEVUc3BHqzney2uewI-ZzLdlKOmDKIgigKeKwWtlZyvGlx*jhEqaw3l3tyaHTDdxIuWmdy8uzmJGDo8X5OktLcQR-9mlM3Dofd8oAMAjLjb3C0cI&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相苹果营销总监席勒负责应用审核出品 | 凤凰网科技 凤凰新闻客户端  作者 | 箫雨随着苹果公司越来越重视App Store服务把它作为一个收入来源，将iPhone安全视作一个关键...
+ ## [华为具备了把美国高通杀的片甲不留的能力!](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=3nH0*k6UgUDLRX*zz6H1q-j8nepEK2fcmB6v*rUrZvQt85BsGzAuKLbyr3p8cVnXQlw6aOTxcaQMlEC3zc69baxmYRmREbNaHsyXRpfE6e3Rz2v9w7e7NupCyJbeu9qK&new=1)
+ > 一    一声惊雷，华为再次传来了重磅消息！    北京时间6月18日，华为终端手机产品线总裁何刚宣布：将在本月21日发布新一代7纳米芯片。    不出意外，这就是此前传言的麒麟8系列芯片，麒麟810。同时，随着这款全...
+ ## [比特币再次暴涨，新“赌徒”入场?|新京报专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=e95I5mAiZ5*6vO6wcHFHr8vhoqwsx-1jPVMz9-cdQnMg0gmiZJy2IaHA*3GbEd3*4z-7fZACV8aXdEaEZGVYTtVad0mKAdeGjplVQRzJN2jdjbNRl1uJiKSOwxaoDMcX&new=1)
+ > 无论比特币价格涨跌，均属于“博傻”游戏，甚至是庞氏骗局。▲资料图  图片来源：视觉中国   文 | 陈思进“一觉醒来比特币涨到8000多了。”这波比特币“狂欢”来得有些猝不及防。5月份以来，比特币已经从5000美...
+ ## [美国再禁5家中国高科技公司!瞄准超算领域，打压曙光/AMD合资企业](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=kfsB8ohKWo0aNwLmwPYdYnNP-pT9L*jX9n3bchuWp0sJMHAmc6bnIqLqk2OYccSSr5yakRz0zbxi2Ah*mUT8tERph16f7GqBPrSBU1XUrctZY1fw0uranpA9tDCCwpKr&new=1)
+ > 看点：G20习特会前夕，美国商务部再出新招，向中国高性能领域公司开刀。智东西6月22日消息，刚刚，中美贸易摩擦再度升级！美国商务部将另外五家中国高科技企业/机构列入“实体名单”——中科曙光、天津海光、成...
+ ## [现场拍摄不炸头，你必须有一套好的无线通话系统](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=jOBZedjNHhJ5wfJSnixBM-26BfUd8su3AjlhhTITGSfyLVCAwGXvhRDImjG*zNmklmfkm0pYDZTEURzAunpXRyvDhcaS3U0MY1kj4-Z-jPLPngnR9YcZORw9nYIz6vre&new=1)
+ > 关注并标星摄像人网有器材也有技术 有视野也有深度我们曾在摄像人群体中做过非正式调查，在多机位拍摄业务中遇上什么事会抓狂，排在第一的答案就是：糟糕的内部通话系统。大家吐槽的点主要集中在以下几个方面：...
+ ## [\[报告下载\]230份深度报告，超11643页高清版PDF文件，让你快速了解汽车行业](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=tVdNzMgDaVNrG*YtVu4FNwMQQazbJu7zpy-Eq43xgmqLXVkrRrVPrLQBiqG7kAxPS8iDK5ktRg9Nvl1aOzCbYATH2CHm8*fNVCKZtlBisjXFJQiMDrESDNyrAorV5iKR&new=1)
+ > 汽车行业230+篇顶级报告大放送！230篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享230份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
+ ## [重磅!美国将多个中国超级计算机公司列入禁运名单](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=lUSyvPTwHXImHQC61ecZVHdQbav7TMZ-XExjN7XHgGAut8-eQl8EmfsCS*F15fBnPHj05C6p3cRUUQqGn5J*KhJ0HbG8prLdErlTnSHTAmz3rxfv5Ic7QstkdPHqM4dK&new=1)
+ > 据美媒体纽约时报报道，特朗普政府今日正式将五个中国实体列入美国黑名单，也就是所谓的“实体清单”，进一步限制了中国企业获得美国技术的能力。据报道，这几个机构和企业包括了曙光、Higon，成都海光集成电路...
+ ## [怎样做好智能家居?12年家居产业链操盘经验人这样说](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=hOoFzzFmuk0BgCx0Zt6C9iNVjZkcrOh6JWazW3--0yIciqlogz12Yc-BqTPzo8NGPcM94Oik1iuHeObplyMfyNTJx9hmgz7*QoZq7ZBBIuCg*4ld8hl0PYQqTAZicalF&new=1)
  > 如果把智能家居范围内产品比作一个大产品，那产品的痛点是什么呢？方便控制，黑科技体验……从前智能家居产品册常用的词汇听起来离用户需求还有些距离，很多企业找到的痛点，到了用户手里成了挠痒痒般的存在。究...
- ## [黑客劫持其他黑客组织的工具?俄罗斯黑客做到了](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=9riYJfqbuTu-XxdI7OL4Jg6lgS9XbvIsyBBvUX4Fo5Wfpv2F5cH6PP3rCukuzHYQRR9aBV9lJoQcgwktT1YSu*mZKziu8QkXHw5x23Zq8PIhtif539t68xP*mN*JsVwO&new=1)
+ ## [黑客劫持其他黑客组织的工具?俄罗斯黑客做到了](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=9riYJfqbuTu-XxdI7OL4Jg6lgS9XbvIsyBBvUX4Fo5WXobH8I*TO-CYRYoTGpWX4ZU5KUX-1gl-5j-UaqoYM-YQXVTaGvbQ0aE9zhZRrIrgWhvSMGsnGCJwDo5yNRJav&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：赛门铁克首次观察到一个黑客组织劫持并使用另一个组织的工具。据外媒报道，赛门铁克（Symantec）报告称，最近与俄罗斯网络间谍组织Turla有关的三场黑...
- ## [对待这件事，匈牙利好样的!](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=1YHBoL1LnInlC5ujKCtaMRadr1c7ngaTKW8Z343Mh1eIJxFIKhZHs32Wr-DEgLQsE3NmnzH2oaUSM99THI-jPAjU4yaL*cXv8dwc6PzHkoR3DtqNRLQE68geLzjccjJd&new=1)
+ ## [对待这件事，匈牙利好样的!](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=1YHBoL1LnInlC5ujKCtaMRadr1c7ngaTKW8Z343Mh1cwTYp549oEjZf2qZcSnQcvhL-G9cQknELPTgqJGAbUQTEuiHZa3fY5brYcP0Mdw7BkPnyHT5x7Po-3z0l5cl-x&new=1)
  > 匈牙利官员力挺华为设备。路透社21日称，匈牙利创新与技术部部长鲍尔科维奇·拉斯洛当地时间20日表示，该国没有证据表明华为设备构成安全威胁，并称匈牙利正在考虑加速推进5G网络建设。路透社报道截图美国正四处...
- ## [数字化时代下，财务智能转型](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=cPpNZjONuzMvyfss2zzQio5ws6vma1uw29dTVXKMat1lNR-ApS9erfKiiDkSdJ1U0G34pZjH9w3jLgN2ChDjMcRgJh7gIaauyVjO4HLuKGZyEaSfw3YXnYY2nj--HWmr&new=1)
+ ## [数字化时代下，财务智能转型](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=cPpNZjONuzMvyfss2zzQio5ws6vma1uw29dTVXKMat1ORs3kZrJaBgneHHnmlwzHdv7haM4ajdkcpeG3t506YyL9VCoDWEs-bPm4rN9khIsdiZVsin5X4u28lBtj8reP&new=1)
  > （本文阅读时间：3分钟）至2019年6月12日，微软“数字化时代下财务转型分享会”系列高端企业客户活动分别在北京、上海微软Office成功举办！北京站‍上海站‍本次活动共吸引了来自通信、金融、零售、教育、能源、...
- ## [\[沙龙预告\]“基于RISC-V的SoC国产化发展路径”技术沙龙](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=UzmE-Z*G8JkoKvfT4IBxHIOt1XzZWZxiCLhAxMmvS86PTLrQNxkJSfDXEA2BZTi-JAz1r09f43oC3VIbL7HZat8kL2Tzb-cPhcLJnYOPWetYn21qv-L0flNT6VphR9T5&new=1)
+ ## [\[沙龙预告\]“基于RISC-V的SoC国产化发展路径”技术沙龙](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=UzmE-Z*G8JkoKvfT4IBxHIOt1XzZWZxiCLhAxMmvS84jCttudk7lnvB6hTKfSzCU1nffCy8cMhoFKExqtiK9GhQnA2XyzC1o3ApNHWdx9lK-9kZCry78TJVpVzN6J3pM&new=1)
  > 沙龙主题：探讨如何利用RISC-V的开源特性与新兴技术实现国产SoC的国产化发展！时间：2019年7月11日下午 13:30-17:00地点：成都世纪城新国际会展中心3、4号馆连廊二层会议室主办单位· 电子科技大学示范性微电子...
- ## [三大运营商公布2019年5月份经营数据：或影响未来5G格局](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=0FVvJJMpUE4fXCd3Php19cBkqaiRkU1aVvDZ8AQ5e0dDuKxlwXl3Noq6QHdQriXLwQQSM67ktzmEQrhoi0Y8U6pdfWh5pGBtH-hMCudF4mh660jN9RNK5tlBYrSswchE&new=1)
+ ## [三大运营商公布2019年5月份经营数据：或影响未来5G格局](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=0FVvJJMpUE4fXCd3Php19cBkqaiRkU1aVvDZ8AQ5e0dlEqd2KDjYcGtcpQtDOb6-SLxwtWfRjkbLj8PutEIIQZ9i8OWdtm3kbvQjmww3BNBxXxJXqEv9TqSemBl1iT1z&new=1)
  > 近期，三大运营商陆续发布今年5月运营数据。如今，5G号角响彻通信战场，三大运营商5G发展箭在弦上。所以，当前运营商相关数据，将间接左右未来5G战局走向。接下来，我们简单分析以下5月三大运营商哪家欢笑哪家愁...
- ## [17个机器学习的常用算法!](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=w7gBUBcS4qFSxWRbqbi4*PZl4g8l8g-r6jVNLlGJ*PN6P50HcjNnK17OexGlJ3VjrfDo0Lrnq6AIhUfrWZrHW7OVmD2-wUE90VVI8CHfC6v6ix5ADiaQLl8OTJ3Ae*fi&new=1)
+ ## [17个机器学习的常用算法!](http://mp.weixin.qq.com/s?src=11&timestamp=1561194004&ver=1683&signature=w7gBUBcS4qFSxWRbqbi4*PZl4g8l8g-r6jVNLlGJ*POQ7fVigyTycbSXwdwJ6P0pi5NPoctJ4mGDTQBZm5u-OPzz9L38-4GttKsFnxAKnjq8jGOEPEttMigW5htWNeqe&new=1)
  > 来源：AI干货知识库根据数据类型的不同，对一个问题的建模有不同的方式。在机器学习或者人工智能领域，人们首先会考虑算法的学习方式。在机器学习领域，有几种主要的学习方式。将算法按照学习方式分类是一个不错...
- ## [华为发布7nm制程芯片麒麟810丨暴风影音发布新产品\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=zizi0OI*XCkqpKRMYr-TcfxF6U-*5Xva968zN6CoXcJk7Ppe03ttRKIt3OQo6nkZZvlX7gfRvjX7x35p2RwN4AyzF7UUQOWAxXv5k9irAScJ6ddW6c9ThiFAvgU8KTKw&new=1)
- > 6月21日 周五【Do说】编辑 | 李尧华为发布7nm制程芯片麒麟810在华为nova5系列新品发布会上，华为正式发布8系列手机芯片，该系列第一款芯片是麒麟810，基于7nm制程，采用华为自研的达芬奇架构NPU。华为消费者业务...
- ## [如何完全关闭Win10自动更新?](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=IrlccIR0prIs0JtubBYZ2tjl5YtR87VylC1*u0Jg3CRvTMvKrjOUSaXRjCaKnRVJu19kI4oNrjdP3e6tCxYX7UdAYTuHptDIj3Gy3BSXtWzjnc7UgusGBlzyk10icqOP&new=1)
- > 从前天那篇1903更新来看，相信很多朋友们都遇到了莫名其妙的bug，也有不少人反映想要彻底关掉win10的自动更新，那么究竟要怎么做呢？Let&x27;s do it。▌第一种方法 首先以管理员模式运行cmd（按win弹出菜单后输入cm...
- ## [智领沈阳云上未来 迸发东北振兴新动能](http://mp.weixin.qq.com/s?src=11&timestamp=1561176004&ver=1683&signature=g*c5-bqhsA3qwBtj0r-lY8u7ont0IBddKjnIdHjY0vp3P1I1qaDHCEGnaZ2zDxOqOqL0TgCH1gHW-LLkgGIthRbjM2ATo3VdwxGVca4KWJebSYIUb3FiLlAwtN8UtKmn&new=1)
- > 2019年6月20日， 以“芯云一体 智领未来”为主题的紫光云IMPACT峰会在沈阳成功举办。众多政府领导、信息化专家、产业专家相聚沈阳，共同探讨数字经济时代的城市建设、产业发展及经济创新，见证互联网时代沈阳的...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -83,38 +103,42 @@ categories: IT NEWS
  > 指纹、面容、声纹之后，如何证明你的手机是你的？
  ## [谷歌"内战"：高管要利润，员工要价值观，谁是灵魂](http://news.51cto.com/art/201906/598146.htm)
  > 谷歌&quot;内战&quot;：高管要利润，员工要价值观，谁是灵魂
+ ## [转型下一站：云计算托管势在必行](http://cloud.51cto.com/art/201906/598246.htm)
+ > 随着企业寻求新的方式和能力获得更多的竞争优势，企业与云计算的关系不断发展变化。因此，企业将业务从数据
+ ## [如何构建成功的云迁移计划](http://cloud.51cto.com/art/201906/598245.htm)
+ > 采用云计算的好处可能会使组织的所有资源看起来都应立即迁移。无可否认，在某些情况下，公共云平台可以为组
  ## [坐飞机不用出示身份证 eID电子登机牌直接通关](http://www.cioage.com/art/201906/598244.htm)
  > 坐飞机不用带身份证的时代，开始了!eID是由公安部公民网络身份识别系统签发的公民网络电子身份标识，以密码
- ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
- > 【音视频】1.音视频基本概念
+ ## [微服务架构、分布式架构、传统架构演化过程洞悉！](https://blog.csdn.net/weixin_44106134/article/details/90676521)
+ > 微服务架构、分布式架构、传统架构演化过程洞悉！
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
  ## [linux下ffmpeg采集音视频设备](https://blog.csdn.net/hkSDK/article/details/90513691)
  > linux下ffmpeg采集音视频设备
- ## [人工智能发展史（读书笔记）](https://blog.csdn.net/Void_worker/article/details/90669308)
- > 人工智能发展史（读书笔记）
- ## [运维资料之反向代理](https://blog.csdn.net/sky6even/article/details/90511597)
- > 运维资料之反向代理
- ## [人工智能的应用与发展历程](https://blog.csdn.net/fadsf15/article/details/90750667)
- > 人工智能的应用与发展历程
- ## [运维之路（5）_系统监控](https://blog.csdn.net/weixin_43546282/article/details/90578869)
- > 运维之路（5）_系统监控
- ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
- > 人工智能--状态空间的盲目搜索
- ## [人工智能——BP神经网络](https://blog.csdn.net/weixin_41171064/article/details/90670558)
- > 人工智能——BP神经网络
- ## [人工智能之产生式系统（c++实现）](https://blog.csdn.net/yangmolulu/article/details/90576973)
- > 人工智能之产生式系统（c++实现）
- ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
- > 区块链如何改变人工智能
- ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
- > 人工智能—— 博弈树的启发式搜索
- ## [【音视频】3.视频编码格式对比](https://blog.csdn.net/qq_30124547/article/details/90613472)
- > 【音视频】3.视频编码格式对比
- ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
- > 人工智能会取代艺术家？
- ## [运维入门之bash shell脚本二](https://blog.csdn.net/qq_42103479/article/details/90896797)
- > 运维入门之bash shell脚本二
+ ## [运维葵花宝典](https://blog.csdn.net/kehana/article/details/90765448)
+ > 运维葵花宝典
+ ## [基于electron的音视频播放器](https://blog.csdn.net/vgub158/article/details/91490185)
+ > 基于electron的音视频播放器
+ ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
+ > 关于架构的思考之一：架构的定义及目的
  ## [音视频学习笔记-向量理解](https://blog.csdn.net/shengpeng3344/article/details/91450197)
  > 音视频学习笔记-向量理解
+ ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
+ > 运维进阶——iptables详解
+ ## [SparkCore之运行架构](https://blog.csdn.net/liweihope/article/details/91293267)
+ > SparkCore之运行架构
+ ## [IT运维服务管理](https://blog.csdn.net/q947448283/article/details/91492749)
+ > IT运维服务管理
+ ## [AwesomePlayer实现过程分析](https://blog.csdn.net/shanshenyuyou/article/details/91431674)
+ > AwesomePlayer实现过程分析
+ ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
+ > 数字音视频知识点汇总(一)
+ ## [STM32总线架构笔记](https://blog.csdn.net/Mamba_1024/article/details/90671661)
+ > STM32总线架构笔记
+ ## [关于java架构心得](https://blog.csdn.net/rongshisuo/article/details/90757849)
+ > 关于java架构心得
+ ## [USB 驱动架构浅析](https://blog.csdn.net/ll148305879/article/details/90898819)
+ > USB 驱动架构浅析
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [聚焦行业新风口 白鹭科技云游戏战略发布会成功举办](https://blog.csdn.net/csdnnews/article/details/93309457)
@@ -146,36 +170,36 @@ categories: IT NEWS
  ## [爱奇艺会员人数破亿，视频付费市场高速增长](http://www.lanjingtmt.com/news/detail/43242.shtml)
  > 爱奇艺今日公布了其最新会员规模数据，截至当日凌晨5点13分爱奇艺会员数量突破1亿，中国视频付费市场正式进入“亿级”会员时代。
 # 人工智能 
- ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
- > angular2表单异步验证
- ## [Web3.0 的宏观架构](https://blog.csdn.net/Yikuailianxi/article/details/90667520)
- > Web3.0 的宏观架构
- ## [关于架构的思考之一：架构的定义及目的](https://blog.csdn.net/haponchang/article/details/90473846)
- > 关于架构的思考之一：架构的定义及目的
- ## [Hadoop架构概述](https://blog.csdn.net/weixin_40898246/article/details/91043830)
- > Hadoop架构概述
- ## [Spark之内核架构剖析](https://blog.csdn.net/dec_sun/article/details/90693096)
- > Spark之内核架构剖析
- ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
- > 数字音视频知识点汇总(一)
- ## [音视频开发（四）——编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
- > 音视频开发（四）——编码音频
- ## [AwesomePlayer实现过程分析](https://blog.csdn.net/shanshenyuyou/article/details/91431674)
- > AwesomePlayer实现过程分析
- ## [学习react (首次入坑记录)](https://blog.csdn.net/weixin_43462746/article/details/91588668)
- > 学习react (首次入坑记录)
- ## [音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90617448)
- > 音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会
- ## [USB 驱动架构浅析](https://blog.csdn.net/ll148305879/article/details/90898819)
- > USB 驱动架构浅析
- ## [x86架构——CPUID](https://blog.csdn.net/jiangwei0512/article/details/90677659)
- > x86架构——CPUID
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [【音视频】2.音频编码格对比](https://blog.csdn.net/qq_30124547/article/details/90582524)
- > 【音视频】2.音频编码格对比
- ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
- > 【前端】vuex
+ ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
+ > 人工智能教程 - 目录
+ ## [环信多人音视频会议功能实现](https://blog.csdn.net/qq_43128835/article/details/90719818)
+ > 环信多人音视频会议功能实现
+ ## [Python人工智能-知识储备](https://blog.csdn.net/qq_21153997/article/details/91472776)
+ > Python人工智能-知识储备
+ ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
+ > 人工智能—— 博弈树的启发式搜索
+ ## [如何看待人工智能的现状](https://blog.csdn.net/yoggieCDA/article/details/90606652)
+ > 如何看待人工智能的现状
+ ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
+ > python3下载抖音视频
+ ## [随笔——人工智能](https://blog.csdn.net/newbie_Blogger/article/details/90759117)
+ > 随笔——人工智能
+ ## [运维入门之bash shell脚本五](https://blog.csdn.net/qq_42103479/article/details/90900427)
+ > 运维入门之bash shell脚本五
+ ## [【音视频】1.音视频基本概念](https://blog.csdn.net/qq_30124547/article/details/90582492)
+ > 【音视频】1.音视频基本概念
+ ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
+ > 运维常用操作(持续更新)
+ ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
+ > 运维进阶-----NFS网络文件系统
+ ## [音视频基础知识（二）](https://blog.csdn.net/Viiou/article/details/90678819)
+ > 音视频基础知识（二）
+ ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
+ > 运维进阶——firewall详解
+ ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
+ > 音视频技术开发周刊 94期
+ ## [人工智能导论复习](https://blog.csdn.net/weixin_44517301/article/details/91357751)
+ > 人工智能导论复习
 # PM 
  ## [从用户全生命周期，看B2B企业如何做数字营销？](http://www.woshipm.com/marketing/2492899.html)
  > 关于B2B企业如何做线上营销，笔者展开过很多思考，在经历交流与工作经验的演进后，笔者认为要想做好B2B企业的数字营销，更重要的是了解用户。之前写了几篇B2B企业如何...
