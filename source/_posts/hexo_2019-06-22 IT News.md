@@ -1,21 +1,21 @@
 ---
 title: 2019-06-22 IT News
 copyright: true
-date: 2019-06-22 09:05:04
+date: 2019-06-22 10:01:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智领沈阳云上未来 迸发东北振兴新动能](http://mp.weixin.qq.com/s?src=11&timestamp=1561165205&ver=1683&signature=g*c5-bqhsA3qwBtj0r-lY8u7ont0IBddKjnIdHjY0vrmqRqLATH1AESW1SkNT7JbqPsFpJRZJzZsd4ZQ2JSiaals2zGqvZhjuZEoZhyFtxx56eFHmQTu5kIDKfoAAvPH&new=1)
- > 2019年6月20日， 以“芯云一体 智领未来”为主题的紫光云IMPACT峰会在沈阳成功举办。众多政府领导、信息化专家、产业专家相聚沈阳，共同探讨数字经济时代的城市建设、产业发展及经济创新，见证互联网时代沈阳的...
- ## [三大运营商公布2019年5月份经营数据：或影响未来5G格局](http://mp.weixin.qq.com/s?src=11&timestamp=1561165205&ver=1683&signature=0FVvJJMpUE4fXCd3Php19cBkqaiRkU1aVvDZ8AQ5e0dAh2YiVx1QLmiRnLunjmjuIZBhACr6E4IbRddP1ur29TO48ELtMCFRJuMzM2dbmyqFyxxuq9HGJMqApRxYweRl&new=1)
- > 近期，三大运营商陆续发布今年5月运营数据。如今，5G号角响彻通信战场，三大运营商5G发展箭在弦上。所以，当前运营商相关数据，将间接左右未来5G战局走向。接下来，我们简单分析以下5月三大运营商哪家欢笑哪家愁...
- ## [如何完全关闭Win10自动更新?](http://mp.weixin.qq.com/s?src=11&timestamp=1561165205&ver=1683&signature=IrlccIR0prIs0JtubBYZ2tjl5YtR87VylC1*u0Jg3CS0vcK4*A-rLXXgsWTkAxYIWm0mcwM2ivqSZZgGGB79*-PhPmlRIQuyUyD1bRapSQOnuSWmOLrBdVUEemPmwAbQ&new=1)
- > 从前天那篇1903更新来看，相信很多朋友们都遇到了莫名其妙的bug，也有不少人反映想要彻底关掉win10的自动更新，那么究竟要怎么做呢？Let&x27;s do it。▌第一种方法 首先以管理员模式运行cmd（按win弹出菜单后输入cm...
- ## [华为发布7nm制程芯片麒麟810丨暴风影音发布新产品\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561165205&ver=1683&signature=zizi0OI*XCkqpKRMYr-TcfxF6U-*5Xva968zN6CoXcIIk4wt77fgLWsdom-vTHVsBtEOvElXt6eBpXqP*5Y4R9AeEnuKy*jTyOZkfprCn0D2tWD6N2rPC3HaMFXtyWGE&new=1)
- > 6月21日 周五【Do说】编辑 | 李尧华为发布7nm制程芯片麒麟810在华为nova5系列新品发布会上，华为正式发布8系列手机芯片，该系列第一款芯片是麒麟810，基于7nm制程，采用华为自研的达芬奇架构NPU。华为消费者业务...
- ## [17个机器学习的常用算法!](http://mp.weixin.qq.com/s?src=11&timestamp=1561165205&ver=1683&signature=w7gBUBcS4qFSxWRbqbi4*PZl4g8l8g-r6jVNLlGJ*PPkzVj*j03LVbBAXWUXJMOPNyCYrUU5I3Mp38tUKZIjk4C7p9FGCbNBie6s7KXCh13cvMvfdnaabtMek-vCI5Ir&new=1)
+ ## [17个机器学习的常用算法!](http://mp.weixin.qq.com/s?src=11&timestamp=1561168804&ver=1683&signature=w7gBUBcS4qFSxWRbqbi4*PZl4g8l8g-r6jVNLlGJ*PPkzVj*j03LVbBAXWUXJMOPG3awWj*AGs94BbTx58sC4SnglMsVxls2qwGCUeC*4cCVfUXcODH2WV-2-rgUQ6Ku&new=1)
  > 来源：AI干货知识库根据数据类型的不同，对一个问题的建模有不同的方式。在机器学习或者人工智能领域，人们首先会考虑算法的学习方式。在机器学习领域，有几种主要的学习方式。将算法按照学习方式分类是一个不错...
+ ## [三大运营商公布2019年5月份经营数据：或影响未来5G格局](http://mp.weixin.qq.com/s?src=11&timestamp=1561168804&ver=1683&signature=0FVvJJMpUE4fXCd3Php19cBkqaiRkU1aVvDZ8AQ5e0dAh2YiVx1QLmiRnLunjmjubCREyIqBFSv0DkSCsBwhFFNPoRXt8L09Jrz64oe*2SOYlz3dmrfTSnabQR81DHn7&new=1)
+ > 近期，三大运营商陆续发布今年5月运营数据。如今，5G号角响彻通信战场，三大运营商5G发展箭在弦上。所以，当前运营商相关数据，将间接左右未来5G战局走向。接下来，我们简单分析以下5月三大运营商哪家欢笑哪家愁...
+ ## [华为发布7nm制程芯片麒麟810丨暴风影音发布新产品\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561168804&ver=1683&signature=zizi0OI*XCkqpKRMYr-TcfxF6U-*5Xva968zN6CoXcIIk4wt77fgLWsdom-vTHVsewnFxkQfh*8arT8QPhx*kUvG9rj*3zU5slgM5x*evZdnPEuZJL5a67-o570IUFrf&new=1)
+ > 6月21日 周五【Do说】编辑 | 李尧华为发布7nm制程芯片麒麟810在华为nova5系列新品发布会上，华为正式发布8系列手机芯片，该系列第一款芯片是麒麟810，基于7nm制程，采用华为自研的达芬奇架构NPU。华为消费者业务...
+ ## [如何完全关闭Win10自动更新?](http://mp.weixin.qq.com/s?src=11&timestamp=1561168804&ver=1683&signature=IrlccIR0prIs0JtubBYZ2tjl5YtR87VylC1*u0Jg3CS0vcK4*A-rLXXgsWTkAxYISNenQYA9TecuAUvZopWIGj2nC2UG3z28HFoYZLlEg559IKRsZXuueLN-cfjd*VXn&new=1)
+ > 从前天那篇1903更新来看，相信很多朋友们都遇到了莫名其妙的bug，也有不少人反映想要彻底关掉win10的自动更新，那么究竟要怎么做呢？Let&x27;s do it。▌第一种方法 首先以管理员模式运行cmd（按win弹出菜单后输入cm...
+ ## [智领沈阳云上未来 迸发东北振兴新动能](http://mp.weixin.qq.com/s?src=11&timestamp=1561168804&ver=1683&signature=g*c5-bqhsA3qwBtj0r-lY8u7ont0IBddKjnIdHjY0vrmqRqLATH1AESW1SkNT7JbBzS93K07TXizIqdO4w7KzqwGQQ1shuGvi-vNG7Oea*QaxHZDiK7JvJLcdBeYeEE2&new=1)
+ > 2019年6月20日， 以“芯云一体 智领未来”为主题的紫光云IMPACT峰会在沈阳成功举办。众多政府领导、信息化专家、产业专家相聚沈阳，共同探讨数字经济时代的城市建设、产业发展及经济创新，见证互联网时代沈阳的...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,71 +73,73 @@ categories: IT NEWS
  > 指纹、面容、声纹之后，如何证明你的手机是你的？
  ## [谷歌"内战"：高管要利润，员工要价值观，谁是灵魂](http://news.51cto.com/art/201906/598146.htm)
  > 谷歌&quot;内战&quot;：高管要利润，员工要价值观，谁是灵魂
- ## [博文支持海报分享！CSDN APP迎来更新](https://blog.csdn.net/blogdevteam/article/details/92802924)
- > 博文支持海报分享！CSDN APP迎来更新
- ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
- > python3下载抖音视频
- ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
- > 音视频技术开发周刊 94期
- ## [运维入门之bash shell脚本五](https://blog.csdn.net/qq_42103479/article/details/90900427)
- > 运维入门之bash shell脚本五
- ## [Python中运维相关的面试题](https://blog.csdn.net/weixin_44266137/article/details/90519472)
- > Python中运维相关的面试题
- ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
- > 运维进阶——firewall详解
- ## [【音视频】5.ffmpeg命令分类与使用](https://blog.csdn.net/qq_30124547/article/details/90708441)
- > 【音视频】5.ffmpeg命令分类与使用
- ## [运维之路（5）_系统监控](https://blog.csdn.net/weixin_43546282/article/details/90578869)
- > 运维之路（5）_系统监控
- ## [大数据与云计算、物联网三者的区别和关联](https://blog.csdn.net/yyu000001/article/details/90521767)
- > 大数据与云计算、物联网三者的区别和关联
- ## [什么是代理IP](https://blog.csdn.net/duyun123456/article/details/91129886)
- > 什么是代理IP
+ ## [应届生自学Python两个月，为什么找不到工作？](https://blog.csdn.net/qq_43720602/article/details/91350609)
+ > 应届生自学Python两个月，为什么找不到工作？
+ ## [云计算的理解](https://blog.csdn.net/baidu_36452960/article/details/91879409)
+ > 云计算的理解
+ ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
+ > 大数据与云计算知识点
+ ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
+ > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
+ ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
+ > 京东技术架构师总结：深入理解Spring中的各种注解
+ ## [云计算介绍之云计算的产生概述](https://blog.csdn.net/csdn10086110/article/details/91413055)
+ > 云计算介绍之云计算的产生概述
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [JAVA对象创建过程内存图解](https://blog.csdn.net/lwfr_jqw/article/details/91351357)
+ > JAVA对象创建过程内存图解
+ ## [2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）](https://blog.csdn.net/weixin_45136579/article/details/90767614)
+ > 2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）
+ ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
+ > 【云计算】云计算的前世今生
+ ## [36 守护进程、守护线程、锁](https://blog.csdn.net/weixin_43265998/article/details/91549552)
+ > 36 守护进程、守护线程、锁
+ ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
+ > 云计算介绍之云计算服务器
+ ## [Javascript漂流记（下）__深入数组扩展方法（二）](https://blog.csdn.net/AquamanTrident/article/details/91355223)
+ > Javascript漂流记（下）__深入数组扩展方法（二）
  ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
  > 云计算介绍之云计算存储(1)
- ## [音视频基础知识（二）](https://blog.csdn.net/Viiou/article/details/90678819)
- > 音视频基础知识（二）
- ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
- > 音视频学习三: EGL讲解
- ## [【音视频】2.音频编码格对比](https://blog.csdn.net/qq_30124547/article/details/90582524)
- > 【音视频】2.音频编码格对比
- ## [音视频直播总结](https://blog.csdn.net/SunFlowerInRain/article/details/91528427)
- > 音视频直播总结
+ ## [Android基础之-----基础控件](https://blog.csdn.net/yu805894501/article/details/91400484)
+ > Android基础之-----基础控件
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [电商平台竞争日趋激烈：警惕网购背后的“消费陷阱”](http://www.lanjingtmt.com/news/detail/43244.shtml)
+ > 这些常见的“套路”容易误导消费者，甚至可能会使消费者进入商家设好的“消费陷阱”，不仅损害了消费者的知情权和选择权，侵害了消费者合法权益，同时也扰乱了网络购物的良好生态。
  ## [爱奇艺会员人数破亿，视频付费市场高速增长](http://www.lanjingtmt.com/news/detail/43242.shtml)
  > 爱奇艺今日公布了其最新会员规模数据，截至当日凌晨5点13分爱奇艺会员数量突破1亿，中国视频付费市场正式进入“亿级”会员时代。
 # 人工智能 
- ## [web安全之文件上传漏洞](https://blog.csdn.net/xlsj228/article/details/90756195)
- > web安全之文件上传漏洞
- ## [Android移动开发--对图形图像处理的介绍与应用](https://blog.csdn.net/linyu0119/article/details/90695161)
- > Android移动开发--对图形图像处理的介绍与应用
- ## [Web前端篇：CSS常用格式化排版](https://blog.csdn.net/ITmiaomiao666/article/details/91896394)
- > Web前端篇：CSS常用格式化排版
- ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
- > iOS开发安全 防反编译
- ## [nginx配置学习安全技巧](https://blog.csdn.net/qq_29556507/article/details/91043440)
- > nginx配置学习安全技巧
- ## [smobiler介绍（一）](https://blog.csdn.net/Smobiler/article/details/90765033)
- > smobiler介绍（一）
- ## [如何入门CTF？](https://blog.csdn.net/qq_43344642/article/details/91347200)
- > 如何入门CTF？
- ## [docker的安全与资源限制](https://blog.csdn.net/qq_41961805/article/details/90767517)
- > docker的安全与资源限制
- ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
- > 阿里云DataV专业版发布，为可视化创造更多可能！
- ## [前端基础入门（10）布局与定位](https://blog.csdn.net/fenghulun/article/details/91471608)
- > 前端基础入门（10）布局与定位
- ## [2018秋东海大学资讯工程系交换回忆](https://blog.csdn.net/qq_37486501/article/details/90520181)
- > 2018秋东海大学资讯工程系交换回忆
- ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
- > Docker安全加固之--LXCFS
- ## [安全的路由交换--端口安全](https://blog.csdn.net/zhaotiannuo_1998/article/details/90705186)
- > 安全的路由交换--端口安全
- ## [三大金融文本语料(工商,新闻,资讯) - NLP语料](https://blog.csdn.net/weixin_40473141/article/details/90673105)
- > 三大金融文本语料(工商,新闻,资讯) - NLP语料
- ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
- > 首域金融投资人交流群的四个好处
+ ## [文献阅读-区块链发展技术与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
+ > 文献阅读-区块链发展技术与展望
+ ## [自学Java的我在帝都的北漂奋斗史](https://blog.csdn.net/geduo_83/article/details/90760275)
+ > 自学Java的我在帝都的北漂奋斗史
+ ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”](https://blog.csdn.net/Java__world/article/details/90514397)
+ > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”
+ ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
+ > 京东技术架构师总结：深入理解Spring中的各种注解
+ ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
+ > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
+ ## [区块链技术调研](https://blog.csdn.net/yss1019/article/details/90483572)
+ > 区块链技术调研
+ ## [游戏开发准备 C++ 基础回顾（一）](https://blog.csdn.net/qq_37243013/article/details/90649470)
+ > 游戏开发准备 C++ 基础回顾（一）
+ ## [【IOS游戏开发】 登陆以及支付SDK总结](https://blog.csdn.net/qq_30054199/article/details/91044280)
+ > 【IOS游戏开发】 登陆以及支付SDK总结
+ ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
+ > 20七八岁的陷阱
+ ## [分布式记账钱包命令](https://blog.csdn.net/Darryl_Tang/article/details/90766091)
+ > 分布式记账钱包命令
+ ## [区块链-为什么区块链是不可篡改的](https://blog.csdn.net/qq_40452317/article/details/90481350)
+ > 区块链-为什么区块链是不可篡改的
+ ## [游戏开发核心技术之-存档与读档(1)](https://blog.csdn.net/Think88666/article/details/90437911)
+ > 游戏开发核心技术之-存档与读档(1)
+ ## [Visual C++游戏编程基础之动画显示问题](https://blog.csdn.net/Sruggle/article/details/90952187)
+ > Visual C++游戏编程基础之动画显示问题
+ ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
+ > 史上最系统的程序员未来职业规划路线
+ ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
+ > 程序人生：“自学Python，如何拿下了月薪15k的工作
 # PM 
  ## [【天天问每周精选】第76期：你觉得产品经理像什么？打个比喻](http://www.woshipm.com/it/2490471.html)
  > 今天来聊个轻松的话题吧。有人说，产品经理就像是一名司机：要知道什么时候打方向盘，什么时候踩刹车，什么时候踩油门。你觉得呢？我们在天天问讨论了这个问题，大家的...
@@ -159,7 +161,5 @@ categories: IT NEWS
  > 没有完美的产品，微信也是
  ## [万字干货：如何把电商平台的首单率从2%提升到15%以上？（上篇）](http://www.chanpin100.com/article/108728)
  > 2017年年底到2019年三月份，整整一年半的时间里我在一家创业公司工作，完完整整的经历了一个产品从0到1的过程。
- ## [小白产品经理晋升之道：从产品设计到产品规划](http://www.chanpin100.com/article/108735)
- > 所有工作遇到瓶颈的问题，都是你学的东西不能支持你走的更高的问题。小白学术，老炮学道。
 
     
