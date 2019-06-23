@@ -1,26 +1,38 @@
 ---
 title: 2019-06-23 IT News
 copyright: true
-date: 2019-06-23 12:01:17
+date: 2019-06-23 17:02:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [滴滴再拓展日本业务丨华为首款5G手机准备就绪\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=ApU62H3mli0X9UeUKOlFDyUY54-zpXLkcRH4gXCNFMj5AT0OZZGiAg*X37rfWnFcxpkmGEiBJn6Yl5NhBXU34NUZD1FRyd1xWVB9O2gaTR9Php1p01SVe2jKBgb6nz*F&new=1)
- > 6月22日 周六【Do说】编辑 | 李尧滴滴再拓展日本业务，开通北海道出租车服务滴滴日本宣布在北海道地区上线出租车召车服务。这是继东京、京都、大阪和兵库县提供服务以来，滴滴在日本业务取得的又一重要进展。此...
- ## [\[科技早报7点整\]新研究揭秘玩手机停不下来的原因 华为正式起诉美国商务部……](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=9BKV2PwUaPrmZj34gAHhCYOCSDGDiqpcg4MkdXHNfSO4n6xib3gjx3UcVh93164XMlNMHMXgjOMQhKSvQTk25Oa5ytLKSUhxg4GXUFcp5STJ3QpH3SwjhYf1THyZm-ug&new=1)
- > 早上好，科技圈【一度蜜科技早报】第510期1.新研究揭秘玩手机停不下来的原因：信息对大脑是奖励近日，《美国科学院院报》刊发论文《同一种神经代码：奖品与信息》。研究表明，大脑在接受到信息时会受到刺激，变...
- ## [\[报告下载\]230篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=rNFXMJxAagle4HOEHwXuDX0mj1BJL7Zte0rd*OjXZIFhka0YKcrReNqW4-QUQ3wt7AP3S3pOqn7EeF4gIBoCAzRYtzeCWRBHU4fxqltY6CIHc8DsS3eL2xWAFC57kK4f&new=1)
- > 汽车行业230+篇顶级报告大放送！230篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享230份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [为什么说AR世界同样需要和平?](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=vKqkG-*0NAi3fIdwGIuI6NZJcQHv61yQYsA6a94E13uz-NAK6Ozy*EN6-sYhAuSQM*cTZnqykWwm2MejmoK0y*lId53y28tmJI90tPTZOPM6*S1NqmLSVK9ohrBWCKOE&new=1)
- > Esther｜ 编辑在信息时代，人类每天接收的信息越来越多，有些人认为云AR将有潜力取代智能手机，成为信息的新载体，帮助我们处理大量的信息和内容，因此未来的AR世界和现实世界几乎相同，没有虚假、更需要和平。...
- ## [NASA网络曾遭黑客入侵，火星任务数据被盗](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=BD-GO6KDJz1Cr8qJBJOKbe4*00bPxDJ5MoaGQPp807zVkd9mGs-4GEVd1uyD*W4uJz2JqB1bKAN63ltTLgzJsQr0SqFXOmAfpZU4eT-95t7FWC7kZ9BUNN9kdtxqgnvu&new=1)
+ ## [偷拍盗摄，隐私全无?!浅谈摄像头有关的安全问题](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=FELdTuqN3jCVWiZLF-6GGCUN7Pf9mzzGVvGAluigTdVtLocstzIp7HDvuNADhLRGzwSP3peUBdhopVlgipKU5ZYEAHKInDjBoOcjW8L1cdFvjgu8TTSPYgsgE2buaOc3&new=1)
+ > 作者 | 深信服千里目安全实验室转自 | FreeBuf.COM一、联网摄像头相关的安全隐患1.1 隐私泄露随着物联网进程加快，作为家庭安防设备的智能摄像头正走进千家万户。网上出现公开贩卖破解智能摄像头的教程和软件。...
+ ## [高清图：2019中国3D打印企业名单](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=kfLTNQJWiEVJGTN17aQ8DsLHsqAevfpIOUwBRvTPk--J9gczNvqnmmtRHIUwxOpM60wU6pB2r0P5cW-c-5nTYXyabWNorp--oNRVfZjr77AHjYzFP5X*u3oNpX648bQ4&new=1)
+ > 近千家3D打印企业详细介绍扫码下载
+ ## [运营商是如何丢掉入口优势的?\[宁宇专栏-310\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=nz1voPqer17j3Ss2MtbyvAMHEs9oFUBWeHrEtiIrfOV5OIU5fKLrtgvG4zszhejbcN2mWSn36i0KIFbwlYMWecpIrLH3j-Llzgc31*4U2MA0GUKv*Xpho5j7bliEo*KF&new=1)
+ > 【摘要】运营商不再拥有入口优势，既有时代发展技术进步的影响，也有自身动作不当的原因。过了许多年再回头看，可能会觉得，这就是宿命。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑系...
+ ## [比特大陆被传重启IPO：地点改为美国 最早7月份进行](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=ApU62H3mli0X9UeUKOlFDyUY54-zpXLkcRH4gXCNFMgMvQo3*D3UGRmDvVZ8bK7UeVSmVWm69cuhaMmKehXua6MVgyMKMSEvPrS18FIwPcf*uE6lPc5QHFCY*-wuR60b&new=1)
+ > 据彭博社消息，比特大陆有望重启首次公开募股（IPO）计划，拟最快7月份向美国证券交易委员会（SEC）提交上市文件。彭博社报道称，比特大陆此次重新上市，还将考虑降低此前的融资目标。去年，该公司估值曾达到约1...
+ ## [美国科技巨头联手反对特朗普关税](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=R0sAEM13PBfqABvSaAPZhXlSBAyWk95PRHdVGloT4g9Jguq4Y1uKy3o6z7hVkvTLv87kpQ1JtCkQSVhSFcR527xcOb0yDVVcu3ztydXsdDqyUWDOTMF8FdpSSB2QA3PJ&new=1)
+ > 戴尔、惠普、英特尔和微软正联手反对美国总统唐纳德特朗普提出的针对笔记本电脑和平板电脑的关税，其中包括价值3000亿美元的中国商品。其中的两家公司提交了反对关税升级的联合评论，称这将损害消费者利益和行业...
+ ## [2019年3D打印技术应用的发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=d73bJZxcvbGEsiuaVOfWN*3sstiEaFrzfy1wILfoanzwYtuA8py9X0Yz5acsp1IfsdxmKtVmCFlD6WaBm6JMh6dEBdJONQXt8DYFkTlpg7rJNz76Sm3q-lF4TiInDoke&new=1)
+ > 以下节选自未知大陆 CEO 李荣岳 在2019年世界无人机大会.3D打印子论坛的现场演讲PPT(经授权)：3D打印本质是什么？“数字”制造技术1、从设计、生产、交付，3D打印具备全面数字化的基础2、“3D打印”这个名词最终...
+ ## [NASA网络曾遭黑客入侵，火星任务数据被盗](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=BD-GO6KDJz1Cr8qJBJOKbe4*00bPxDJ5MoaGQPp807w5XXE3whsR6serToZTN8Vfh*wURbz--gCE8aErNDJTpjP3eZq11wht70o2wr4Pi26DqVuRiIU-4-7Nfqwfn4vq&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：美国国家航空航天局(NASA)因与其网络相连的Raspberry Pi而遭黑客攻击。据外媒报道，美国宇航局监察长办公室（OIG）本周发布的一份报告显示，2018年4...
- ## [\[重磅\]孙正义首谈华为：未下令Arm停止供货 尚在研究未做出最终决定](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=*Henzl*l79U7Zxblts7jWvMRjOrSwCwhxGSc3KQm*53WwR3bu-rehxrDAIBZVt7UzgbYQ*8-1aILj8AJ3bRLUQVtMbCvsYLeDswtFugfcTCNCpeBC2RdtTtdqwnwZZBi&new=1)
+ ## [\[报告下载\]230篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=rNFXMJxAagle4HOEHwXuDX0mj1BJL7Zte0rd*OjXZIG-iLG9lCvvMzSN*gLxCteRkm9HNcd*Qv9HdjuppZih5sOZOnY2rErHacnJf8hPmuqSBvTs6QErQaDwHsJXlWPu&new=1)
+ > 汽车行业230+篇顶级报告大放送！230篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享230份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
+ ## [滴滴再拓展日本业务丨华为首款5G手机准备就绪\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=ApU62H3mli0X9UeUKOlFDyUY54-zpXLkcRH4gXCNFMgvSA85gUVCBxl*jOcdPWuKBGAR6RRSEVcoPwh87diAexXORPHdp9rsG7PlrndeSxXY2Pcxcv9rLZ6oLiRRdDWl&new=1)
+ > 6月22日 周六【Do说】编辑 | 李尧滴滴再拓展日本业务，开通北海道出租车服务滴滴日本宣布在北海道地区上线出租车召车服务。这是继东京、京都、大阪和兵库县提供服务以来，滴滴在日本业务取得的又一重要进展。此...
+ ## [\[科技早报7点整\]新研究揭秘玩手机停不下来的原因 华为正式起诉美国商务部……](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=9BKV2PwUaPrmZj34gAHhCYOCSDGDiqpcg4MkdXHNfSO6LiGHRd--PNz0osixjgTn2H13GGSp7HuDyWtWRXn1J17bTPJJlr3AMISmvnVmmUAIElWcPzO5bYfTOksm3OV-&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第510期1.新研究揭秘玩手机停不下来的原因：信息对大脑是奖励近日，《美国科学院院报》刊发论文《同一种神经代码：奖品与信息》。研究表明，大脑在接受到信息时会受到刺激，变...
+ ## [为什么说AR世界同样需要和平?](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=vKqkG-*0NAi3fIdwGIuI6NZJcQHv61yQYsA6a94E13uyHTCJcWUqT*CW68uYoa-Y1YQOqP*M-c8okGATK4PYEAEuuk5T95fUufwA668kxAOgD325JdvJ-u9pb5Ww5u3x&new=1)
+ > Esther｜ 编辑在信息时代，人类每天接收的信息越来越多，有些人认为云AR将有潜力取代智能手机，成为信息的新载体，帮助我们处理大量的信息和内容，因此未来的AR世界和现实世界几乎相同，没有虚假、更需要和平。...
+ ## [\[重磅\]孙正义首谈华为：未下令Arm停止供货 尚在研究未做出最终决定](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=*Henzl*l79U7Zxblts7jWvMRjOrSwCwhxGSc3KQm*50pRYkegh-o2GuizHzIcsJjCJRPr2jR4E2o5yHh2dS8PoWtjvpXYJsHyKCeICiMxU2tn-gOprtGR--XzkoHQJEv&new=1)
  > 软银创办人孙正义今（22）日出席DIGITIMES主办的“全球产业秩序的解构与创新”论坛。他提出“只要有宏观，赚钱就不难”的构想，并认为“AI革命”已经到来，手下掌握的千亿美元“愿景基金”已投资80家顶尖“AI系...
- ## [5G、AI、物联网……华为、中国移动等大佬又聚在了一起秀黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=H-k7mvc18ODc7Ij70v2dlGbDqi47XMKgjWPjFbp-wsHH6kLO1Lcb4UKAZr0lYNd8KX1afI*5SIKBe3Q*5tj4QJ0-WQMGBIBX5slnRbDbeuD92ILO*edzA0N8X7U12H0J&new=1)
+ ## [5G、AI、物联网……华为、中国移动等大佬又聚在了一起秀黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=H-k7mvc18ODc7Ij70v2dlGbDqi47XMKgjWPjFbp-wsHULGPNsf7UTwcUslQVLE5QBx3BKglmBANGpIfE6OCbr-e3bzr8sHJBbf3B4LPu-Dr9LXSD-6NChBIJqZ-bBQ9q&new=1)
  > 又一场科技盛宴。文 ▍白杨如果说在一个周前的CES Asia上，我有什么遗憾，那一定是华为展台，期待满满直奔N1，却没看到多少亮眼的科技展示，作为立志要进入汽车行业做Tier1的科技公司，华为并没有在“甲方云集”...
- ## [火红六月，5G更热!爱立信希望在中国5G市场斩获更多份额](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=VY4qhbC2jqo3jljxijapG7uYLYdh6PCEk1EY-AsrJIYU8y4yQmt9PQLr*4JXzeGadHBUz4-nohSg5IXEJt4VR3-O1JhVDG67t0tV7aKvoxOYe6UevTY0sMv8oiCv8T2k&new=1)
+ ## [火红六月，5G更热!爱立信希望在中国5G市场斩获更多份额](http://mp.weixin.qq.com/s?src=11&timestamp=1561280404&ver=1685&signature=VY4qhbC2jqo3jljxijapG7uYLYdh6PCEk1EY-AsrJIY2Pv6J7FJxJYv*KTDG3eM1E8xcpl*DR6cNeag4342-dAGZyxUuLLvKFa1EmSczHbsYie-X68w*VJZk*gMVd*9G&new=1)
  > 火红的六月，盛夏的火热；而比此刻室外温度更加火热的便是5G。继此前韩美率先抢跑5G之后，今年6月6日中国也迎来了正式的5G商用牌照，这不仅意味着中国商用5G时间表提前，也预示着伴随全球最大的5G市场开启商用，...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -79,36 +91,50 @@ categories: IT NEWS
  > 强力推荐！.NET开发的这23种优秀工具
  ## [指纹、面容、声纹之后，如何证明你的手机是你的？](http://mobile.51cto.com/news-598170.htm)
  > 指纹、面容、声纹之后，如何证明你的手机是你的？
- ## [游戏开发核心技术之-存档与读档(1)](https://blog.csdn.net/Think88666/article/details/90437911)
- > 游戏开发核心技术之-存档与读档(1)
- ## [linux下ffmpeg采集音视频设备](https://blog.csdn.net/hkSDK/article/details/90513691)
- > linux下ffmpeg采集音视频设备
- ## [音视频学习笔记-OpenGL概念理解](https://blog.csdn.net/shengpeng3344/article/details/90664940)
- > 音视频学习笔记-OpenGL概念理解
- ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
- > python3下载抖音视频
- ## [区块链-区块链分叉](https://blog.csdn.net/qq_40452317/article/details/90550290)
- > 区块链-区块链分叉
- ## [【音视频】2.音频编码格对比](https://blog.csdn.net/qq_30124547/article/details/90582524)
- > 【音视频】2.音频编码格对比
- ## [《小岛区块链》之区块链起源](https://blog.csdn.net/weixin_44693781/article/details/90375396)
- > 《小岛区块链》之区块链起源
- ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
- > 数字音视频知识点汇总(一)
- ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
- > 《区块链基础知识25讲》-第二十四讲-使用区块链
- ## [文献阅读-区块链发展技术与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
- > 文献阅读-区块链发展技术与展望
- ## [使用Unity网络框架快速开发多人联网游戏（1）](https://blog.csdn.net/qq_21977253/article/details/91038143)
- > 使用Unity网络框架快速开发多人联网游戏（1）
- ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
- > 音视频学习三: EGL讲解
- ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
- > FFmpeg音视频整合
- ## [区块链 2.0：房地产区块链（四） | Linux 中国](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/90709326)
- > 区块链 2.0：房地产区块链（四） | Linux 中国
- ## [计算中本聪如何设置的比特币数量](https://blog.csdn.net/sinat_38189661/article/details/91429053)
- > 计算中本聪如何设置的比特币数量
+ ## [IT 行业的工资是否虚高？](http://news.51cto.com/art/201906/598254.htm)
+ > IT是一个必须不停地学新技术的行业，因为发展地太快。现在最主流开发框架，各种云端的技术，新的编程语言，
+ ## [Kubernetes使用时需要注意的坑点](http://cloud.51cto.com/art/201906/598253.htm)
+ > 在Kubernetes实践的过程中，积累了一些填坑经验，小做总结，拿来分享一下。希望能对准备或正在使用Kubernet
+ ## [华为创鸿蒙 不宜捧杀式赞美](http://news.51cto.com/art/201906/598252.htm)
+ > 对鸿蒙进行赞美和表扬无可厚非，同时我们也应该看到支持华为循序渐进的解决可能面临的这些问题也很重要。
+ ## [工业制造中的大数据分析](http://www.cioage.com/art/201906/598251.htm)
+ > 搞清楚工业大数据分析，第一步我们应该如何定义制造业的大数据?这里我和大家通过大数据的三个特性，来经一
+ ## [Python中常用的可视化工具 Matplotlib 简单入门](http://developer.51cto.com/art/201906/598250.htm)
+ > Matplotlib是约翰・亨特(John Hunter，1968-2012)的心血结晶，他和许多贡献者一起投入了不可估量的时间和精
+ ## [从入门到放弃，一文回顾谷歌平板史](http://news.51cto.com/art/201906/598249.htm)
+ > 跌跌撞撞 9 年时间，谷歌终于宣布放弃自己的平板电脑业务。不论对用户还是谷歌，这都不算是一个好消息，考
+ ## [MySQL单表数据不要超过500万行：是经验数值，还是黄金铁律？](http://database.51cto.com/art/201906/598248.htm)
+ > 今天，探讨一个有趣的话题：MySQL 单表数据达到多少时才需要考虑分库分表?有人说 2000 万行，也有人说 500
+ ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
+ > 爱的故事，用Jira策划的浪漫婚礼
+ ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
+ > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
+ ## [《区块链基础知识25讲》-第十六讲-保护数据安全](https://blog.csdn.net/qq_40061206/article/details/91044704)
+ > 《区块链基础知识25讲》-第十六讲-保护数据安全
+ ## [20年研发管理经验谈（四）](https://blog.csdn.net/weixin_39759846/article/details/90750766)
+ > 20年研发管理经验谈（四）
+ ## [区块链基础知识25讲-各讲地址整理](https://blog.csdn.net/qq_40061206/article/details/91348024)
+ > 区块链基础知识25讲-各讲地址整理
+ ## [ONES 沙龙深圳站 | 6月15日，邀您一起畅谈「敏捷实践」](https://blog.csdn.net/ones_ai/article/details/91044624)
+ > ONES 沙龙深圳站 | 6月15日，邀您一起畅谈「敏捷实践」
+ ## [【物联网】Arduino实现交通灯设计](https://blog.csdn.net/qq_41068362/article/details/91890200)
+ > 【物联网】Arduino实现交通灯设计
+ ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
+ > 如何进行软件技术管理？
+ ## [【物联网】物联网开发从入门到精通](https://blog.csdn.net/lsj960922/article/details/90516090)
+ > 【物联网】物联网开发从入门到精通
+ ## [物联网 FOTA升级的必要性](https://blog.csdn.net/Manfred_zhu/article/details/90898778)
+ > 物联网 FOTA升级的必要性
+ ## [分布式记账钱包命令](https://blog.csdn.net/Darryl_Tang/article/details/90766091)
+ > 分布式记账钱包命令
+ ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
+ > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
+ ## [物联网的4层模型](https://blog.csdn.net/wweiru/article/details/90613617)
+ > 物联网的4层模型
+ ## [\[业务知识\]研发管理 开发过程管理](https://blog.csdn.net/ZYD45/article/details/90898548)
+ > \[业务知识\]研发管理 开发过程管理
+ ## [《区块链基础知识25讲》-第十八讲-核实并且添加交易数据](https://blog.csdn.net/qq_40061206/article/details/91045412)
+ > 《区块链基础知识25讲》-第十八讲-核实并且添加交易数据
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [技术升级推动云游戏产业全面发展——白鹭科技陈书艺](https://blog.csdn.net/csdnnews/article/details/93376736)
@@ -118,37 +144,43 @@ categories: IT NEWS
  ## [聚焦行业新风口 白鹭科技云游戏战略发布会成功举办](https://blog.csdn.net/csdnnews/article/details/93296801)
  > 2019年6月21日，由白鹭科技、国金投资、凯撒文化联合举办的主题为“5G云游戏、聚势待发”的云游戏战略发布暨联盟成立启动会在北京金隅喜来登大酒店举行。白鹭科技创始人兼CEO陈书艺、国金投资管理合伙人严彬、凯撒文化全资子公司总经理何啸威、咪咕互娱快游戏产品规划部运营总监凤鸣、小沃科技事业部总经理..
 # 人工智能 
- ## [前端开发常用片段](https://blog.csdn.net/yanyihan16/article/details/90670253)
- > 前端开发常用片段
- ## [2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）](https://blog.csdn.net/weixin_45136579/article/details/90767614)
- > 2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）
- ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
- > 最简单的深度学习入门书《动手学深度学习》
- ## [Visual C++游戏编程基础之动画显示问题](https://blog.csdn.net/Sruggle/article/details/90952187)
- > Visual C++游戏编程基础之动画显示问题
- ## [游戏开发准备 C++ 基础回顾（二）](https://blog.csdn.net/qq_37243013/article/details/91324056)
- > 游戏开发准备 C++ 基础回顾（二）
- ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
- > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [前端浏览器兼容性问题和解决办法](https://blog.csdn.net/weixin_44780445/article/details/90680025)
- > 前端浏览器兼容性问题和解决办法
+ ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
+ > 大专简单的2年程序人生
+ ## [大数据与云计算、物联网三者的区别和关联](https://blog.csdn.net/yyu000001/article/details/90521767)
+ > 大数据与云计算、物联网三者的区别和关联
+ ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
+ > 大数据与云计算知识点
+ ## [浅谈云计算以及导向发展趋势](https://blog.csdn.net/zhang705018505/article/details/91344647)
+ > 浅谈云计算以及导向发展趋势
+ ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
+ > 【云计算】云计算的前世今生
+ ## [哪些程序员容易走上管理岗位，看看有没有你](https://blog.csdn.net/epubit17/article/details/90898525)
+ > 哪些程序员容易走上管理岗位，看看有没有你
  ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”](https://blog.csdn.net/Java__world/article/details/90514397)
  > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”
- ## [前端   面试题  css](https://blog.csdn.net/quxiaojiao_39/article/details/90739104)
- > 前端   面试题  css
- ## [没有核心技术的麻将游戏开发 必将淘汰](https://blog.csdn.net/motianyougame/article/details/90699367)
- > 没有核心技术的麻将游戏开发 必将淘汰
- ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
- > 前端 之 HTML
- ## [前端之js基础](https://blog.csdn.net/qq_36251118/article/details/90737882)
- > 前端之js基础
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [python外星人入侵（游戏开发）](https://blog.csdn.net/h471507602/article/details/91042425)
- > python外星人入侵（游戏开发）
+ ## [音视频学习笔记-OpenGL概念理解](https://blog.csdn.net/shengpeng3344/article/details/90664940)
+ > 音视频学习笔记-OpenGL概念理解
+ ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
+ > 云计算介绍之云计算存储(1)
+ ## [【音视频】3.视频编码格式对比](https://blog.csdn.net/qq_30124547/article/details/90613472)
+ > 【音视频】3.视频编码格式对比
+ ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
+ > 云计算介绍之云计算存储(2)
+ ## [浅谈个人对大城市程序员与小城市程序员的感想...](https://blog.csdn.net/qq_38400856/article/details/90771994)
+ > 浅谈个人对大城市程序员与小城市程序员的感想...
+ ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
+ > 看了这篇帖子，终于对大数据和云计算有点认识了
+ ## [云计算、大数据、人工智能本质的区别和关系](https://blog.csdn.net/qq_38459998/article/details/90513355)
+ > 云计算、大数据、人工智能本质的区别和关系
+ ## [2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）](https://blog.csdn.net/weixin_45136579/article/details/90767614)
+ > 2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）
 # PM 
+ ## [设计思维第一步：如何做好用户移情图](http://www.woshipm.com/pd/2494936.html)
+ > 在上一篇文章《UX中常用的四种地图》中，我们对UX常用的四种地图（用户移情图、用户旅程图、体验地图、服务蓝图）进行概述。这次我们来深入聊聊如何做好用户移情图。...
+ ## [从逻辑思维和金字塔原理，谈谈惰性思维对产品人的伤害](http://www.woshipm.com/pmd/2497703.html)
+ > 本文就结合逻辑思维和金字塔的思维方式并结合一定的产品方法论，进行文章撰写，主要分为几大部分：背景、论点、论证以及结论4大部分来展开叙述。愿景： 作为转行成为...
+ ## [产品经理如何规划信息的设计与展示？](http://www.woshipm.com/pmd/2497692.html)
+ > 产品经理如何规划信息的设计与展示？一起来文中看看，作者是如何做的。我们在日常使用产品应用时都会不断面临着信息决策，不管是购物，还是阅读，音乐等等这些，都会...
  ## [小红书的平台治理困局：未来的路该怎么走？](http://www.pmtoo.com/article/76084.html)
  > 小红书近日动作频频，在清洗了一轮KOL之后，小红书开始试水直播，背后或是试图整合内部流量探索更多商业变现的可能性。...
  ## [互联网公司越来越「好色」](http://www.pmtoo.com/article/76077.html)
