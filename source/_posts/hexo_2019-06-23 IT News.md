@@ -1,22 +1,26 @@
 ---
 title: 2019-06-23 IT News
 copyright: true
-date: 2019-06-23 10:01:23
+date: 2019-06-23 12:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为什么说AR世界同样需要和平?](http://mp.weixin.qq.com/s?src=11&timestamp=1561255204&ver=1685&signature=vKqkG-*0NAi3fIdwGIuI6NZJcQHv61yQYsA6a94E13uwjxEMCHcLtvSiawwlQTUrr3SUOKIygoCXSxeq6upZAme1P0Hd1tXXmr1b5eAg5E5q-hPwUHwZRuoqY4XeoVMn&new=1)
- > Esther｜ 编辑在信息时代，人类每天接收的信息越来越多，有些人认为云AR将有潜力取代智能手机，成为信息的新载体，帮助我们处理大量的信息和内容，因此未来的AR世界和现实世界几乎相同，没有虚假、更需要和平。...
- ## [\[科技早报7点整\]新研究揭秘玩手机停不下来的原因 华为正式起诉美国商务部……](http://mp.weixin.qq.com/s?src=11&timestamp=1561255204&ver=1685&signature=9BKV2PwUaPrmZj34gAHhCYOCSDGDiqpcg4MkdXHNfSNLao*7N1Nj8cfXAhEZrz9e2QSn6Ct2tctwATj0UdlVbnfXTl18-5Xdwm9zGsJ5flnc7oj7Rop34GWKSDKNq9UC&new=1)
- > 早上好，科技圈【一度蜜科技早报】第510期1.新研究揭秘玩手机停不下来的原因：信息对大脑是奖励近日，《美国科学院院报》刊发论文《同一种神经代码：奖品与信息》。研究表明，大脑在接受到信息时会受到刺激，变...
- ## [5G、AI、物联网……华为、中国移动等大佬又聚在了一起秀黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1561255204&ver=1685&signature=H-k7mvc18ODc7Ij70v2dlGbDqi47XMKgjWPjFbp-wsFu6IXBAdEkdX0zZo4WCMGWtqh-yKsBki7bMF88Xr55IhaR*FW6grWE3y0C9lC*Wm2PtD9JHJVKbST*KLIOSnE*&new=1)
- > 又一场科技盛宴。文 ▍白杨如果说在一个周前的CES Asia上，我有什么遗憾，那一定是华为展台，期待满满直奔N1，却没看到多少亮眼的科技展示，作为立志要进入汽车行业做Tier1的科技公司，华为并没有在“甲方云集”...
- ## [\[重磅\]孙正义首谈华为：未下令Arm停止供货 尚在研究未做出最终决定](http://mp.weixin.qq.com/s?src=11&timestamp=1561255204&ver=1685&signature=*Henzl*l79U7Zxblts7jWvMRjOrSwCwhxGSc3KQm*526-q3UrD4s3rQUE7*N8R5DUeVjXcYqoc93zcJkDNyOZDgWG1*SxDizvuLQXjJqVEKWToeFrMjYqf0gWtI5kEGc&new=1)
- > 软银创办人孙正义今（22）日出席DIGITIMES主办的“全球产业秩序的解构与创新”论坛。他提出“只要有宏观，赚钱就不难”的构想，并认为“AI革命”已经到来，手下掌握的千亿美元“愿景基金”已投资80家顶尖“AI系...
- ## [滴滴再拓展日本业务丨华为首款5G手机准备就绪\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561255204&ver=1685&signature=ApU62H3mli0X9UeUKOlFDyUY54-zpXLkcRH4gXCNFMgojSlESq*x9Oeh7rpF8fM57I3i7Xp69cIpcoB36oLdWBMcZLo*GBvb*7zwR5IgcyHHpTLoTexX-Vwzmw5NFMdk&new=1)
+ ## [滴滴再拓展日本业务丨华为首款5G手机准备就绪\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=ApU62H3mli0X9UeUKOlFDyUY54-zpXLkcRH4gXCNFMj5AT0OZZGiAg*X37rfWnFcxpkmGEiBJn6Yl5NhBXU34NUZD1FRyd1xWVB9O2gaTR9Php1p01SVe2jKBgb6nz*F&new=1)
  > 6月22日 周六【Do说】编辑 | 李尧滴滴再拓展日本业务，开通北海道出租车服务滴滴日本宣布在北海道地区上线出租车召车服务。这是继东京、京都、大阪和兵库县提供服务以来，滴滴在日本业务取得的又一重要进展。此...
- ## [火红六月，5G更热!爱立信希望在中国5G市场斩获更多份额](http://mp.weixin.qq.com/s?src=11&timestamp=1561255204&ver=1685&signature=VY4qhbC2jqo3jljxijapG7uYLYdh6PCEk1EY-AsrJIYEONlvA8h5iKgPRbnuVjydG8DNfRd7tqi63S35J3w96YFWgbcOsrYIQul4KdzcoXTN8uguvgbiRKl4m0aurY0Y&new=1)
+ ## [\[科技早报7点整\]新研究揭秘玩手机停不下来的原因 华为正式起诉美国商务部……](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=9BKV2PwUaPrmZj34gAHhCYOCSDGDiqpcg4MkdXHNfSO4n6xib3gjx3UcVh93164XMlNMHMXgjOMQhKSvQTk25Oa5ytLKSUhxg4GXUFcp5STJ3QpH3SwjhYf1THyZm-ug&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第510期1.新研究揭秘玩手机停不下来的原因：信息对大脑是奖励近日，《美国科学院院报》刊发论文《同一种神经代码：奖品与信息》。研究表明，大脑在接受到信息时会受到刺激，变...
+ ## [\[报告下载\]230篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=rNFXMJxAagle4HOEHwXuDX0mj1BJL7Zte0rd*OjXZIFhka0YKcrReNqW4-QUQ3wt7AP3S3pOqn7EeF4gIBoCAzRYtzeCWRBHU4fxqltY6CIHc8DsS3eL2xWAFC57kK4f&new=1)
+ > 汽车行业230+篇顶级报告大放送！230篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享230份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
+ ## [为什么说AR世界同样需要和平?](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=vKqkG-*0NAi3fIdwGIuI6NZJcQHv61yQYsA6a94E13uz-NAK6Ozy*EN6-sYhAuSQM*cTZnqykWwm2MejmoK0y*lId53y28tmJI90tPTZOPM6*S1NqmLSVK9ohrBWCKOE&new=1)
+ > Esther｜ 编辑在信息时代，人类每天接收的信息越来越多，有些人认为云AR将有潜力取代智能手机，成为信息的新载体，帮助我们处理大量的信息和内容，因此未来的AR世界和现实世界几乎相同，没有虚假、更需要和平。...
+ ## [NASA网络曾遭黑客入侵，火星任务数据被盗](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=BD-GO6KDJz1Cr8qJBJOKbe4*00bPxDJ5MoaGQPp807zVkd9mGs-4GEVd1uyD*W4uJz2JqB1bKAN63ltTLgzJsQr0SqFXOmAfpZU4eT-95t7FWC7kZ9BUNN9kdtxqgnvu&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：美国国家航空航天局(NASA)因与其网络相连的Raspberry Pi而遭黑客攻击。据外媒报道，美国宇航局监察长办公室（OIG）本周发布的一份报告显示，2018年4...
+ ## [\[重磅\]孙正义首谈华为：未下令Arm停止供货 尚在研究未做出最终决定](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=*Henzl*l79U7Zxblts7jWvMRjOrSwCwhxGSc3KQm*53WwR3bu-rehxrDAIBZVt7UzgbYQ*8-1aILj8AJ3bRLUQVtMbCvsYLeDswtFugfcTCNCpeBC2RdtTtdqwnwZZBi&new=1)
+ > 软银创办人孙正义今（22）日出席DIGITIMES主办的“全球产业秩序的解构与创新”论坛。他提出“只要有宏观，赚钱就不难”的构想，并认为“AI革命”已经到来，手下掌握的千亿美元“愿景基金”已投资80家顶尖“AI系...
+ ## [5G、AI、物联网……华为、中国移动等大佬又聚在了一起秀黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=H-k7mvc18ODc7Ij70v2dlGbDqi47XMKgjWPjFbp-wsHH6kLO1Lcb4UKAZr0lYNd8KX1afI*5SIKBe3Q*5tj4QJ0-WQMGBIBX5slnRbDbeuD92ILO*edzA0N8X7U12H0J&new=1)
+ > 又一场科技盛宴。文 ▍白杨如果说在一个周前的CES Asia上，我有什么遗憾，那一定是华为展台，期待满满直奔N1，却没看到多少亮眼的科技展示，作为立志要进入汽车行业做Tier1的科技公司，华为并没有在“甲方云集”...
+ ## [火红六月，5G更热!爱立信希望在中国5G市场斩获更多份额](http://mp.weixin.qq.com/s?src=11&timestamp=1561262404&ver=1685&signature=VY4qhbC2jqo3jljxijapG7uYLYdh6PCEk1EY-AsrJIYU8y4yQmt9PQLr*4JXzeGadHBUz4-nohSg5IXEJt4VR3-O1JhVDG67t0tV7aKvoxOYe6UevTY0sMv8oiCv8T2k&new=1)
  > 火红的六月，盛夏的火热；而比此刻室外温度更加火热的便是5G。继此前韩美率先抢跑5G之后，今年6月6日中国也迎来了正式的5G商用牌照，这不仅意味着中国商用5G时间表提前，也预示着伴随全球最大的5G市场开启商用，...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,36 +79,36 @@ categories: IT NEWS
  > 强力推荐！.NET开发的这23种优秀工具
  ## [指纹、面容、声纹之后，如何证明你的手机是你的？](http://mobile.51cto.com/news-598170.htm)
  > 指纹、面容、声纹之后，如何证明你的手机是你的？
- ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
- > 《区块链基础知识25讲》-第二十四讲-使用区块链
- ## [《区块链100问》1-50集](https://blog.csdn.net/luohai859/article/details/91352049)
- > 《区块链100问》1-50集
- ## [《小岛区块链》之区块链起源](https://blog.csdn.net/weixin_44693781/article/details/90375396)
- > 《小岛区块链》之区块链起源
- ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
- > 阿里云DataV专业版发布，为可视化创造更多可能！
- ## [蚂蚁金服终端实验室演进之路](https://blog.csdn.net/yunqiinsight/article/details/90899631)
- > 蚂蚁金服终端实验室演进之路
- ## [《区块链基础知识25讲》-第十八讲-核实并且添加交易数据](https://blog.csdn.net/qq_40061206/article/details/91045412)
- > 《区块链基础知识25讲》-第十八讲-核实并且添加交易数据
+ ## [游戏开发核心技术之-存档与读档(1)](https://blog.csdn.net/Think88666/article/details/90437911)
+ > 游戏开发核心技术之-存档与读档(1)
+ ## [linux下ffmpeg采集音视频设备](https://blog.csdn.net/hkSDK/article/details/90513691)
+ > linux下ffmpeg采集音视频设备
+ ## [音视频学习笔记-OpenGL概念理解](https://blog.csdn.net/shengpeng3344/article/details/90664940)
+ > 音视频学习笔记-OpenGL概念理解
+ ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
+ > python3下载抖音视频
  ## [区块链-区块链分叉](https://blog.csdn.net/qq_40452317/article/details/90550290)
  > 区块链-区块链分叉
- ## [前端基础入门（5）边框与背景](https://blog.csdn.net/fenghulun/article/details/91348083)
- > 前端基础入门（5）边框与背景
- ## [【甄选资讯】日本设计行业优秀的设计网站](https://blog.csdn.net/uzing/article/details/91829114)
- > 【甄选资讯】日本设计行业优秀的设计网站
+ ## [【音视频】2.音频编码格对比](https://blog.csdn.net/qq_30124547/article/details/90582524)
+ > 【音视频】2.音频编码格对比
+ ## [《小岛区块链》之区块链起源](https://blog.csdn.net/weixin_44693781/article/details/90375396)
+ > 《小岛区块链》之区块链起源
+ ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
+ > 数字音视频知识点汇总(一)
+ ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
+ > 《区块链基础知识25讲》-第二十四讲-使用区块链
+ ## [文献阅读-区块链发展技术与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
+ > 文献阅读-区块链发展技术与展望
+ ## [使用Unity网络框架快速开发多人联网游戏（1）](https://blog.csdn.net/qq_21977253/article/details/91038143)
+ > 使用Unity网络框架快速开发多人联网游戏（1）
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
+ ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
+ > FFmpeg音视频整合
  ## [区块链 2.0：房地产区块链（四） | Linux 中国](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/90709326)
  > 区块链 2.0：房地产区块链（四） | Linux 中国
- ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
- > OC中的几种延迟执行方式
  ## [计算中本聪如何设置的比特币数量](https://blog.csdn.net/sinat_38189661/article/details/91429053)
  > 计算中本聪如何设置的比特币数量
- ## [web前端篇:CSS使用，样式表特征](https://blog.csdn.net/ITmiaomiao666/article/details/91625943)
- > web前端篇:CSS使用，样式表特征
- ## [探索Flutter配置过程中的坑](https://blog.csdn.net/HflyDragon/article/details/91450225)
- > 探索Flutter配置过程中的坑
- ## [前端基础入门（10）布局与定位](https://blog.csdn.net/fenghulun/article/details/91471608)
- > 前端基础入门（10）布局与定位
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [技术升级推动云游戏产业全面发展——白鹭科技陈书艺](https://blog.csdn.net/csdnnews/article/details/93376736)
@@ -114,36 +118,36 @@ categories: IT NEWS
  ## [聚焦行业新风口 白鹭科技云游戏战略发布会成功举办](https://blog.csdn.net/csdnnews/article/details/93296801)
  > 2019年6月21日，由白鹭科技、国金投资、凯撒文化联合举办的主题为“5G云游戏、聚势待发”的云游戏战略发布暨联盟成立启动会在北京金隅喜来登大酒店举行。白鹭科技创始人兼CEO陈书艺、国金投资管理合伙人严彬、凯撒文化全资子公司总经理何啸威、咪咕互娱快游戏产品规划部运营总监凤鸣、小沃科技事业部总经理..
 # 人工智能 
- ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
- > 爱的故事，用Jira策划的浪漫婚礼
- ## [编程语言常识](https://blog.csdn.net/lzyzlx1914/article/details/90729187)
- > 编程语言常识
- ## [游戏开发核心技术之-存档与读档(1)](https://blog.csdn.net/Think88666/article/details/90437911)
- > 游戏开发核心技术之-存档与读档(1)
- ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
- > 如何进行软件技术管理？
- ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
- > 20年研发管理经验谈（八）
- ## [2D游戏开发 - SkyGameEngine2d坐标系](https://blog.csdn.net/qq_33775402/article/details/90643490)
- > 2D游戏开发 - SkyGameEngine2d坐标系
- ## [20年研发管理经验谈（七）](https://blog.csdn.net/weixin_39759846/article/details/91512110)
- > 20年研发管理经验谈（七）
- ## [pl/sql编程语言](https://blog.csdn.net/qq_34721292/article/details/90579498)
- > pl/sql编程语言
- ## [Connect Four四子棋c++程序 - 用户交互（1）](https://blog.csdn.net/Irlyue/article/details/91348019)
- > Connect Four四子棋c++程序 - 用户交互（1）
+ ## [前端开发常用片段](https://blog.csdn.net/yanyihan16/article/details/90670253)
+ > 前端开发常用片段
+ ## [2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）](https://blog.csdn.net/weixin_45136579/article/details/90767614)
+ > 2019年蚂蚁金服、头条、拼多多的面试总结，我的复盘经历（干货献上）
+ ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
+ > 最简单的深度学习入门书《动手学深度学习》
+ ## [Visual C++游戏编程基础之动画显示问题](https://blog.csdn.net/Sruggle/article/details/90952187)
+ > Visual C++游戏编程基础之动画显示问题
+ ## [游戏开发准备 C++ 基础回顾（二）](https://blog.csdn.net/qq_37243013/article/details/91324056)
+ > 游戏开发准备 C++ 基础回顾（二）
+ ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
+ > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
+ ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
+ > 20七八岁的陷阱
+ ## [前端浏览器兼容性问题和解决办法](https://blog.csdn.net/weixin_44780445/article/details/90680025)
+ > 前端浏览器兼容性问题和解决办法
+ ## [我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”](https://blog.csdn.net/Java__world/article/details/90514397)
+ > 我的程序人生——三年开发的思考，阿里朋友给我总结的“Java架构师技术栈”
+ ## [前端   面试题  css](https://blog.csdn.net/quxiaojiao_39/article/details/90739104)
+ > 前端   面试题  css
  ## [没有核心技术的麻将游戏开发 必将淘汰](https://blog.csdn.net/motianyougame/article/details/90699367)
  > 没有核心技术的麻将游戏开发 必将淘汰
- ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
- > Visual C++游戏编程基础之利用鼠标消息实现贴图
- ## [游戏开发准备 C++ 基础回顾（一）](https://blog.csdn.net/qq_37243013/article/details/90649470)
- > 游戏开发准备 C++ 基础回顾（一）
- ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
- > 项目研发管理经验交流
- ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
- > 20年研发管理经验谈（二）
- ## [ONES 沙龙深圳站 | 6月15日，邀您一起畅谈「敏捷实践」](https://blog.csdn.net/ones_ai/article/details/91044624)
- > ONES 沙龙深圳站 | 6月15日，邀您一起畅谈「敏捷实践」
+ ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
+ > 前端 之 HTML
+ ## [前端之js基础](https://blog.csdn.net/qq_36251118/article/details/90737882)
+ > 前端之js基础
+ ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
+ > 基于人工智能的贝叶斯分类算法
+ ## [python外星人入侵（游戏开发）](https://blog.csdn.net/h471507602/article/details/91042425)
+ > python外星人入侵（游戏开发）
 # PM 
  ## [小红书的平台治理困局：未来的路该怎么走？](http://www.pmtoo.com/article/76084.html)
  > 小红书近日动作频频，在清洗了一轮KOL之后，小红书开始试水直播，背后或是试图整合内部流量探索更多商业变现的可能性。...
