@@ -1,21 +1,21 @@
 ---
 title: 2019-06-25 IT News
 copyright: true
-date: 2019-06-25 08:02:09
+date: 2019-06-25 09:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [非侵入脑机接口新突破!用意念控制光标，连续追踪效果提升5倍](http://mp.weixin.qq.com/s?src=11&timestamp=1561420804&ver=1689&signature=SPRP7wAIzgXfzVi530dsICjuQlNAiBKgX9pLNIBp7oshWM8S9nHKQJ11eaTpkWju*MAaQFlXJ81lWvtaabGeyfODKDMTzqOJYywaQjJTaI8Kc2SXqMfPwc9WhAHKtmgU&new=1)
- > 来源：智东西看点：CMU研究人员在使用非侵入式脑机接口开发了第一个成功用意念控制的机械臂，展现了连续追踪和跟踪计算机光标的能力。智东西6月23日消息，卡内基梅隆大学与明尼苏达大学的研究人员在非侵入式机器...
- ## [IMT-2020推进组：15个问题带你看懂5G](http://mp.weixin.qq.com/s?src=11&timestamp=1561420804&ver=1689&signature=RGIkM7Ua2Kki9NjCx5bpKbI6ts2j3DbkruvfSQB3qBecDQ1TthawEhkVYrH1GEqY1x*D*6AWdteogSkWo-Xw9-oF*DVDx3cWJf2AMn1aHTBjMgqqKvK3IOovomL4xmnT&new=1)
- > 导读中国5G时代真的来了！通过15个问题，IMT－2020（5G）推进组带你看懂5G。综合篇主要回答什么是5G，5G三大场景，5G关键性能指标，5G能为普通用户带来哪些新的体验以及5G对经济社会发展的影响。技术篇聚焦5G技...
- ## [3天后，来这里和全球顶尖的大脑对话|人工智能与机器人，邀你一同见证未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1561420804&ver=1689&signature=mjWKF-0HxCNlMofH2Vf212Qg7rPXM531Km6bn*5dg7SUCZ*zTolEQDBS7XInmCq55xmU2CutfNih9FsjQ8fSLAXiMbbH49q7nA*oN3qfwoIuTF1hSAWZyK67LaCMgMlv&new=1)
- > 活动介绍人工智能与机器人作为新一轮产业变革的核心驱动力将进一步释放历次科技革命和产业变革积蓄的巨大能量本次大会由南京市人民政府外事办公室 南京市科学技术局 南京经济技术开发区主办以“产学融合、释放智...
- ## [羡慕!武大除了有樱花还有5G!武大成为全国首批5G全覆盖智慧校园](http://mp.weixin.qq.com/s?src=11&timestamp=1561420804&ver=1689&signature=FzMF5GUJqihOczzURUVkyGdRznKqX4llOto8*ptxmK5GBDBixnNfGDvHsVa0p3MiCsPz6tQrnzrZ2AxhFfcBKaWXr4Tj9*9qZUg6X4rQHadu-NPriFP7sVKo*jhptaNZ&new=1)
- > 近些年，华为在研发方面投入巨大，与世界前100名的大学或多或少都有合作，科研成果丰硕。不过受到美国的“施压”，牛津大学、斯坦福大学、加州伯克利分校等世界名校都纷纷终止了与华为的合作，相当无奈。当然，...
- ## [限制级伴侣机器人来了，你敢用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561420804&ver=1689&signature=LWcbE*Bl47IWvNcTpKYETFllOswITM-JYDTjeKJ2oK5g**q5pcCTzJY*Uxy52KR3XbFVi9Uo3ovBY0OQOGUJW7j-sUcWBRNU0PcNFeWpLfr45WM5lBYf2SPpE5jUVctA&new=1)
+ ## [限制级伴侣机器人来了，你敢用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=LWcbE*Bl47IWvNcTpKYETFllOswITM-JYDTjeKJ2oK5g**q5pcCTzJY*Uxy52KR37wGHz0N8wQyaH9AVWeIn9FO4J89t7AZehnXuxDYAUFIWGjIb3g*3iMpzJUSSnhHg&new=1)
  > 最近这些天，我给大家分享了不少科幻作品。从网飞的《黑镜》到《迷你黑镜》短剧，再到末日题材的脑洞片《吾乃母亲》。说巧也不巧的是，这些作品无一例外都涉及到了人工智能元素。甚至可以说，在近些年的科幻片中...
+ ## [羡慕!武大除了有樱花还有5G!武大成为全国首批5G全覆盖智慧校园](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=FzMF5GUJqihOczzURUVkyGdRznKqX4llOto8*ptxmK5GBDBixnNfGDvHsVa0p3MiDfTEnL04cg3OVIR9V-*heVDuJIwr0v-aXvMLJ2gJC2jyeY5JcZ9p5kjVX3BdhaUV&new=1)
+ > 近些年，华为在研发方面投入巨大，与世界前100名的大学或多或少都有合作，科研成果丰硕。不过受到美国的“施压”，牛津大学、斯坦福大学、加州伯克利分校等世界名校都纷纷终止了与华为的合作，相当无奈。当然，...
+ ## [非侵入脑机接口新突破!用意念控制光标，连续追踪效果提升5倍](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=SPRP7wAIzgXfzVi530dsICjuQlNAiBKgX9pLNIBp7oshWM8S9nHKQJ11eaTpkWju12N2TjhWbd5x3Hg-RQT9IkPuq-Fq-4YxSzyFzUSMElo7RfPlZrFEezfY9H0GJHON&new=1)
+ > 来源：智东西看点：CMU研究人员在使用非侵入式脑机接口开发了第一个成功用意念控制的机械臂，展现了连续追踪和跟踪计算机光标的能力。智东西6月23日消息，卡内基梅隆大学与明尼苏达大学的研究人员在非侵入式机器...
+ ## [3天后，来这里和全球顶尖的大脑对话|人工智能与机器人，邀你一同见证未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=mjWKF-0HxCNlMofH2Vf212Qg7rPXM531Km6bn*5dg7SUCZ*zTolEQDBS7XInmCq5HrTSvv2affSzHXr19-89tTPbbCcB9eofVEsH48D8mHUihgj3U1QKvLNflHxnLITA&new=1)
+ > 活动介绍人工智能与机器人作为新一轮产业变革的核心驱动力将进一步释放历次科技革命和产业变革积蓄的巨大能量本次大会由南京市人民政府外事办公室 南京市科学技术局 南京经济技术开发区主办以“产学融合、释放智...
+ ## [IMT-2020推进组：15个问题带你看懂5G](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=RGIkM7Ua2Kki9NjCx5bpKbI6ts2j3DbkruvfSQB3qBecDQ1TthawEhkVYrH1GEqYX27dX4EH3LQWJzZgQvkigb9GGpdBROB8DMQfhpyF5XsST7SumD*cpIBEPb6fsMcx&new=1)
+ > 导读中国5G时代真的来了！通过15个问题，IMT－2020（5G）推进组带你看懂5G。综合篇主要回答什么是5G，5G三大场景，5G关键性能指标，5G能为普通用户带来哪些新的体验以及5G对经济社会发展的影响。技术篇聚焦5G技...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,72 +73,112 @@ categories: IT NEWS
  > 关于5G网络和设备的17个预测
  ## [聚焦AI应用实践与行业赋能，WOT2019全球人工智能大会圆满收官!](http://news.51cto.com/art/201906/598247.htm)
  > 聚焦AI应用实践与行业赋能，WOT2019全球人工智能大会圆满收官!
- ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
- > redis设计与实现 二
- ## [Nginx安全防范配置](https://blog.csdn.net/Tiger_lin1/article/details/91354300)
- > Nginx安全防范配置
+ ## [10 个提高效率的 Linux 命令别名](http://os.51cto.com/art/201906/598340.htm)
+ > 在 Linux 环境下工作的工程师，一定会对那些繁琐的指令和参数命令行印象深刻吧。而且，可怕的不是繁琐，而
+ ## [物联网改变农业的未来](http://iot.51cto.com/art/201906/598337.htm)
+ > 物联网解决方案致力于通过确保高产量、盈利能力和环境保护，来帮助农民缩小供需差距。
+ ## [沃尔玛、星巴克等为何将区块链引入供应链管理？](http://blockchain.51cto.com/art/201906/598335.htm)
+ > 随着企业级区块链的发展与实际应用，越来越多与区块链技术相关的先进解决方案开始进入供应链领域。之所以二
+ ## [操作系统应该如何在多CPU上调度工作？](http://biz.51cto.com/art/201906/598338.htm)
+ > 本章将介绍多处理器调度(multiprocessor scheduling)的基础知识。由于本章内容相对较深，建议认真学习并发
+ ## [物联网高手必备：网络协议栈LwIP（一）](http://iot.51cto.com/art/201906/598336.htm)
+ > 上节我们对LwIp的目录结构已经有了了解，我们这篇文件将就LwIp协议栈做更深一步的研究。
+ ## [为何多所大学与顶级富豪联合推进AI技术控制研究？](http://ai.51cto.com/art/201906/598334.htm)
+ > 最近，亿万富翁兼Blackstone Group联合创始人Stephen Schwarzman(美国私募股权富豪)表示将向牛津大学捐赠1.
+ ## [网络突发瘫痪！三招教你摆脱烦恼](http://network.51cto.com/art/201906/598333.htm)
+ > 网断了，怎么办？今天小编就和大家分享三种理论和实际工作经验相结合的方法：分层法、替代法、“望闻问切”
+ ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
+ > 物联网与边缘计算的融合
  ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
  > 数据库提升知识点汇总
- ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
- > LANMP安全配置之Nginx安全配置
- ## [人工智能--不确定性推理概述](https://blog.csdn.net/hjc256/article/details/91128640)
- > 人工智能--不确定性推理概述
- ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
- > Docker安全加固之--LXCFS
- ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
- > 关系数据库系统（数据库原理）
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [安全无小事，安全防范从nginx配置做起](https://blog.csdn.net/qwe123147369/article/details/91894668)
- > 安全无小事，安全防范从nginx配置做起
- ## [快速自学java编程高级语言干货笔记 -MySQL-事务](https://blog.csdn.net/weixin_44793608/article/details/91348281)
- > 快速自学java编程高级语言干货笔记 -MySQL-事务
- ## [Python人工智能-知识储备](https://blog.csdn.net/qq_21153997/article/details/91472776)
- > Python人工智能-知识储备
- ## [人工智能导论复习](https://blog.csdn.net/weixin_44517301/article/details/91357751)
- > 人工智能导论复习
- ## [人工智能的应用与发展历程](https://blog.csdn.net/fadsf15/article/details/90750667)
- > 人工智能的应用与发展历程
- ## [PowerDesigner模型导入SQL出错怎么办](https://blog.csdn.net/weixin_44541076/article/details/91357907)
- > PowerDesigner模型导入SQL出错怎么办
+ ## [物联网安全体系架构分析图（水文，无干货）](https://blog.csdn.net/dreamstone_xiaoqw/article/details/90750649)
+ > 物联网安全体系架构分析图（水文，无干货）
+ ## [物联网概论知识点](https://blog.csdn.net/Wjwstruggle/article/details/91051348)
+ > 物联网概论知识点
+ ## [物联网 FOTA升级的必要性](https://blog.csdn.net/Manfred_zhu/article/details/90898778)
+ > 物联网 FOTA升级的必要性
+ ## [浅谈支撑百万级的架构设计](https://blog.csdn.net/change_on/article/details/91041888)
+ > 浅谈支撑百万级的架构设计
+ ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
+ > redis设计与实现 二
  ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
  >  记·外键之创建、删除
+ ## [物联网第六步： Tornado的部署](https://blog.csdn.net/sinat_26940175/article/details/91038186)
+ > 物联网第六步： Tornado的部署
+ ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
+ > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
+ ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
+ > 关系数据库系统（数据库原理）
+ ## [STM32总线架构笔记](https://blog.csdn.net/Mamba_1024/article/details/90671661)
+ > STM32总线架构笔记
+ ## [linux驱动开发架构](https://blog.csdn.net/mcsbary/article/details/90696849)
+ > linux驱动开发架构
+ ## [解压版mysql-5.7.17-winx64的配置安装](https://blog.csdn.net/shine_my/article/details/91788921)
+ > 解压版mysql-5.7.17-winx64的配置安装
+ ## [PowerDesigner模型导入SQL出错怎么办](https://blog.csdn.net/weixin_44541076/article/details/91357907)
+ > PowerDesigner模型导入SQL出错怎么办
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [用户数据报协议是啥？看完这文就懂了！| 技术头条](https://blog.csdn.net/csdnnews/article/details/93550609)
+ > 作者 | 我不想种地责编 | 胡巍巍什么是UDP？UDP是User Datagram Protocol（用户数据报协议）的缩写，它是一个简单的协议，简单到UDP规范RFC...
+ ## [V 语言强势登顶 GitHub TOP1，欲取 Go 而代之？](https://blog.csdn.net/csdnnews/article/details/93550448)
+ > 这个结合了 Go 和 Rust 特性的新语言 V，正式发布了首个可用版本。整理 | 郭芮出品 | CSDN（ID：CSDNnews）长久以来，编程语言在语法、语义和标准库...
+ ## [5G 时代，微软又走对了一步棋！](https://blog.csdn.net/csdnnews/article/details/93550560)
+ > 2019年4月，CSDN采访微软（中国）首席技术官韦青，期间谈到5G。他认为，5G绝对是一个划时代的革命性突破，但是这个突破不止于现在所说的“5G”通讯技术，它为未来以“...
+ ## [在 Libra 刷屏的背后，你必须知道 TA！](https://blog.csdn.net/csdnnews/article/details/93550579)
+ > 作者 |Second State责编 | 乔治出品 | 区块链大本营（blockchain_camp）Libra 火了，火得一塌糊涂。一个原因是其被争相讨论的「建立一套...
+ ## [父母延长退休，作为程序员的我光荣失业](https://blog.csdn.net/csdnnews/article/details/93550653)
+ > 扫码了解《编程算法同步学》课程详情▼主讲老师：叶蒙蒙奋战编程一线十余年，高级软件工程师。有多家大型 IT 企业从业经历的资深程序员，一线开发十余年。颜值智商双在线的新晋科...
+ ## [写代码不严谨，我就不配当程序员？](https://blog.csdn.net/csdnnews/article/details/93550667)
+ > 作者 | 阿文责编 | 伍杏玲出品| 程序人生（ID：coder_life）知乎热榜有个提问：一位准程序员学编程有一段时间了，但是经常被人吐槽编程不够严谨，比如写个计算...
+ ## [小程序技术演进史](https://blog.csdn.net/csdnnews/article/details/93550524)
+ > 【CSDN 编者按】小程序这个由微信带头的产物，格外鲜明地体现了移动互联网的「时机」这个词，早在微信小程序之前，有力推轻应用的百度，有来自 HTML5 中国产业联盟的 D...
+ ## [5G 兴起，物联网安全危机四伏](https://blog.csdn.net/csdnnews/article/details/93550616)
+ > 面对与日增长的物联网连接设备，越来越多的人开始担心物联网的安全性。如今高速、低延迟、大容量的5G 网络即将落地，其将和物联网擦出怎样的火花？又将如何保证物联网的安全？作...
+ ## [网传随便百万年薪，可你知道入行人工智能究竟该干啥？](https://blog.csdn.net/csdnnews/article/details/93550638)
+ > 众所周知，从2017年起AI市场持续火热，动不动就网传百万年薪。到了2019年，我们能够明显感受到的是，“0基础3个月学成”的宣传语，被大家经常看到。但是入行AI容易吗？...
+ ## [QQ 邮箱漂流瓶将下线；华为美国公司起诉美商务部；Ubuntu 不会放弃 32 位应用程序支持 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/93550497)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [腾讯“和群”被指翻版即刻，或意在争夺资讯内容分发](http://www.lanjingtmt.com/news/detail/43269.shtml)
+ > 继字节跳动推出“飞聊”、搜狐推出“狐友”后，腾讯默默上线的一款小程序“和群”也走起了兴趣社群的路子。此番腾讯推“和群”，背后或许是资讯内容分发的又一次争夺。
  ## [澜起科技发起最后冲刺，回归科创版能否”芯”路突围？](http://www.lanjingtmt.com/news/detail/43268.shtml)
  > 澜起科技已于6月18日提交注册申请，等待科创板上市前的最后冲刺。过去，中国芯片企业始终都处于十几亿的体量，核心便是缺乏高端人才和资金，如今科创板的出现能否实现为企业赋能？国产芯片又
 # 人工智能 
- ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
- > 如何进行软件技术管理？
- ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
- > Visual C++游戏编程基础之键盘消息
- ## [UGUI系统--事件系统架构之光线投射模块_04](https://blog.csdn.net/weixin_36285892/article/details/91875054)
- > UGUI系统--事件系统架构之光线投射模块_04
- ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
- > 前端基础入门（9）css盒子
- ## [游戏开发准备 C++ 基础回顾（一）](https://blog.csdn.net/qq_37243013/article/details/90649470)
- > 游戏开发准备 C++ 基础回顾（一）
- ## [前端基础入门（4）列表及其样式](https://blog.csdn.net/fenghulun/article/details/91348050)
- > 前端基础入门（4）列表及其样式
- ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
- > 爱的故事，用Jira策划的浪漫婚礼
- ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
- > 20年研发管理经验谈（五）
- ## [前端基础入门（1）初识](https://blog.csdn.net/fenghulun/article/details/91347981)
- > 前端基础入门（1）初识
- ## [增量编码器资讯大全](https://blog.csdn.net/kindele/article/details/90604826)
- > 增量编码器资讯大全
- ## [前端js入门——JavaScript 对象直接量](https://blog.csdn.net/fenghulun/article/details/91049993)
- > 前端js入门——JavaScript 对象直接量
- ## [使用Unity网络框架快速开发多人联网游戏（1）](https://blog.csdn.net/qq_21977253/article/details/91038143)
- > 使用Unity网络框架快速开发多人联网游戏（1）
- ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
- > 项目研发管理经验交流
- ## [Connect Four四子棋c++程序 - 显示窗口（0）](https://blog.csdn.net/Irlyue/article/details/91347438)
- > Connect Four四子棋c++程序 - 显示窗口（0）
- ## [Cocos Creator游戏开发工具使用教程](https://blog.csdn.net/ankychan/article/details/91447351)
- > Cocos Creator游戏开发工具使用教程
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
+ ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
+ > 运维常用操作(持续更新)
+ ## [前端图片压缩和角度修正](https://blog.csdn.net/Deng_gene/article/details/90699645)
+ > 前端图片压缩和角度修正
+ ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
+ > 数字音视频知识点汇总(一)
+ ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
+ > 前端 之 HTML
+ ## [运维同步rsync](https://blog.csdn.net/woshaguayi/article/details/90680157)
+ > 运维同步rsync
+ ## [运维入门之bash shell脚本二](https://blog.csdn.net/qq_42103479/article/details/90896797)
+ > 运维入门之bash shell脚本二
+ ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
+ > 音视频技术开发周刊 94期
+ ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
+ > FFmpeg音视频整合
+ ## [环信多人音视频会议功能实现](https://blog.csdn.net/qq_43128835/article/details/90719818)
+ > 环信多人音视频会议功能实现
+ ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
+ > 信息系统安全运维
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [音视频学习笔记-OpenGL下坐标系统理解](https://blog.csdn.net/shengpeng3344/article/details/90736223)
+ > 音视频学习笔记-OpenGL下坐标系统理解
+ ## [运维入门之bash shell脚本三](https://blog.csdn.net/qq_42103479/article/details/90899348)
+ > 运维入门之bash shell脚本三
+ ## [前端自己做快递查询](https://blog.csdn.net/qq_41585377/article/details/90643201)
+ > 前端自己做快递查询
 # PM 
+ ## [线上课程｜3天掌握文案框架，让写文案和玩游戏一样简单有趣](http://www.woshipm.com/active/2502504.html)
+ > 越来越多岗位，日常工作中需要写文案。比如创业者、产品经理、运营经理、市场、销售、策划等等岗位。但不可否认的是，大多数人写文案的时候，却很头疼。头疼没有灵...
+ ## [透过小区乐的社区团购玩法，看电商玩家如何打开下沉市场](http://www.woshipm.com/marketing/2501513.html)
+ > 作者以小区乐为例，详细分析了社区团购的概念、政策及市场发展空间，以及能够成立的底层逻辑。2018年，流量洼地、下沉人群、社交裂变，是电商行业核心关注的命题。除...
  ## [抢票 | 7月杭州产品经理大会，第一波嘉宾正式揭晓！](http://www.woshipm.com/active/2506935.html)
  > 你的下一个5年，是在同一个闭环里循环？还是你会有意识地训练自己做决定的能力，走出自己的演化之路，冲破天花板，完成台阶的跨越？——@梁宁 湖畔大学产品模块学术主任...
  ## [6月17-23日热文盘点|不点开看看，你都不知道自己错过了什么！！](http://www.chanpin100.com/article/108751)
