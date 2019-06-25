@@ -1,21 +1,21 @@
 ---
 title: 2019-06-25 IT News
 copyright: true
-date: 2019-06-25 09:01:10
+date: 2019-06-25 10:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [限制级伴侣机器人来了，你敢用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=LWcbE*Bl47IWvNcTpKYETFllOswITM-JYDTjeKJ2oK5g**q5pcCTzJY*Uxy52KR37wGHz0N8wQyaH9AVWeIn9FO4J89t7AZehnXuxDYAUFIWGjIb3g*3iMpzJUSSnhHg&new=1)
- > 最近这些天，我给大家分享了不少科幻作品。从网飞的《黑镜》到《迷你黑镜》短剧，再到末日题材的脑洞片《吾乃母亲》。说巧也不巧的是，这些作品无一例外都涉及到了人工智能元素。甚至可以说，在近些年的科幻片中...
- ## [羡慕!武大除了有樱花还有5G!武大成为全国首批5G全覆盖智慧校园](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=FzMF5GUJqihOczzURUVkyGdRznKqX4llOto8*ptxmK5GBDBixnNfGDvHsVa0p3MiDfTEnL04cg3OVIR9V-*heVDuJIwr0v-aXvMLJ2gJC2jyeY5JcZ9p5kjVX3BdhaUV&new=1)
- > 近些年，华为在研发方面投入巨大，与世界前100名的大学或多或少都有合作，科研成果丰硕。不过受到美国的“施压”，牛津大学、斯坦福大学、加州伯克利分校等世界名校都纷纷终止了与华为的合作，相当无奈。当然，...
- ## [非侵入脑机接口新突破!用意念控制光标，连续追踪效果提升5倍](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=SPRP7wAIzgXfzVi530dsICjuQlNAiBKgX9pLNIBp7oshWM8S9nHKQJ11eaTpkWju12N2TjhWbd5x3Hg-RQT9IkPuq-Fq-4YxSzyFzUSMElo7RfPlZrFEezfY9H0GJHON&new=1)
- > 来源：智东西看点：CMU研究人员在使用非侵入式脑机接口开发了第一个成功用意念控制的机械臂，展现了连续追踪和跟踪计算机光标的能力。智东西6月23日消息，卡内基梅隆大学与明尼苏达大学的研究人员在非侵入式机器...
- ## [3天后，来这里和全球顶尖的大脑对话|人工智能与机器人，邀你一同见证未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=mjWKF-0HxCNlMofH2Vf212Qg7rPXM531Km6bn*5dg7SUCZ*zTolEQDBS7XInmCq5HrTSvv2affSzHXr19-89tTPbbCcB9eofVEsH48D8mHUihgj3U1QKvLNflHxnLITA&new=1)
- > 活动介绍人工智能与机器人作为新一轮产业变革的核心驱动力将进一步释放历次科技革命和产业变革积蓄的巨大能量本次大会由南京市人民政府外事办公室 南京市科学技术局 南京经济技术开发区主办以“产学融合、释放智...
- ## [IMT-2020推进组：15个问题带你看懂5G](http://mp.weixin.qq.com/s?src=11&timestamp=1561424404&ver=1689&signature=RGIkM7Ua2Kki9NjCx5bpKbI6ts2j3DbkruvfSQB3qBecDQ1TthawEhkVYrH1GEqYX27dX4EH3LQWJzZgQvkigb9GGpdBROB8DMQfhpyF5XsST7SumD*cpIBEPb6fsMcx&new=1)
+ ## [IMT-2020推进组：15个问题带你看懂5G](http://mp.weixin.qq.com/s?src=11&timestamp=1561428004&ver=1689&signature=RGIkM7Ua2Kki9NjCx5bpKbI6ts2j3DbkruvfSQB3qBecDQ1TthawEhkVYrH1GEqY9vrGmSfjTVuq0ayFDRNCRpbuDmjJVWpPiWrR3XdgqISeq5utmTE06sCm2Sphztpp&new=1)
  > 导读中国5G时代真的来了！通过15个问题，IMT－2020（5G）推进组带你看懂5G。综合篇主要回答什么是5G，5G三大场景，5G关键性能指标，5G能为普通用户带来哪些新的体验以及5G对经济社会发展的影响。技术篇聚焦5G技...
+ ## [3天后，来这里和全球顶尖的大脑对话|人工智能与机器人，邀你一同见证未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1561428004&ver=1689&signature=mjWKF-0HxCNlMofH2Vf212Qg7rPXM531Km6bn*5dg7SUCZ*zTolEQDBS7XInmCq5KYmNB-acRXEw6fhvChuYTS6gspj5MpWY0h5aF4aAaZp79SHvzloqw40OHEMsu55v&new=1)
+ > 活动介绍人工智能与机器人作为新一轮产业变革的核心驱动力将进一步释放历次科技革命和产业变革积蓄的巨大能量本次大会由南京市人民政府外事办公室 南京市科学技术局 南京经济技术开发区主办以“产学融合、释放智...
+ ## [限制级伴侣机器人来了，你敢用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561428004&ver=1689&signature=LWcbE*Bl47IWvNcTpKYETFllOswITM-JYDTjeKJ2oK5g**q5pcCTzJY*Uxy52KR3r861ygLR0BVxuQ4DFg-VXchnurR3e0WrgFHz9dvlJyuOMesOihAUEB3r*UwJZgy7&new=1)
+ > 最近这些天，我给大家分享了不少科幻作品。从网飞的《黑镜》到《迷你黑镜》短剧，再到末日题材的脑洞片《吾乃母亲》。说巧也不巧的是，这些作品无一例外都涉及到了人工智能元素。甚至可以说，在近些年的科幻片中...
+ ## [非侵入脑机接口新突破!用意念控制光标，连续追踪效果提升5倍](http://mp.weixin.qq.com/s?src=11&timestamp=1561428004&ver=1689&signature=SPRP7wAIzgXfzVi530dsICjuQlNAiBKgX9pLNIBp7oshWM8S9nHKQJ11eaTpkWjuFekzCX6T7DBJvYO41JgtowRBwUTe4bvMww2rYfTKIeeEK-T6WPn9uCFDj8iVRw65&new=1)
+ > 来源：智东西看点：CMU研究人员在使用非侵入式脑机接口开发了第一个成功用意念控制的机械臂，展现了连续追踪和跟踪计算机光标的能力。智东西6月23日消息，卡内基梅隆大学与明尼苏达大学的研究人员在非侵入式机器...
+ ## [羡慕!武大除了有樱花还有5G!武大成为全国首批5G全覆盖智慧校园](http://mp.weixin.qq.com/s?src=11&timestamp=1561428004&ver=1689&signature=FzMF5GUJqihOczzURUVkyGdRznKqX4llOto8*ptxmK5GBDBixnNfGDvHsVa0p3MiiafOVKZlcCkBFPGy1X4JfA1LKdUJhW1R*burJhP64TlN2TmAOzmmqjiRW9WztSZ9&new=1)
+ > 近些年，华为在研发方面投入巨大，与世界前100名的大学或多或少都有合作，科研成果丰硕。不过受到美国的“施压”，牛津大学、斯坦福大学、加州伯克利分校等世界名校都纷纷终止了与华为的合作，相当无奈。当然，...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,12 +57,14 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
- ## [出现这十种症状，说明你编程前景黯淡](http://news.51cto.com/art/201906/598319.htm)
- > 出现这十种症状，说明你编程前景黯淡
+ ## [直接上手！Redis在海量数据和高并发下的优化实践](http://stor.51cto.com/art/201906/598350.htm)
+ > 直接上手！Redis在海量数据和高并发下的优化实践
  ## [从电报到5G 细说60年移动通信史的7个变革](http://network.51cto.com/art/201906/598320.htm)
  > 从电报到5G 细说60年移动通信史的7个变革
  ## [锅你太沉：3D打印不小心会犯罪](http://biz.51cto.com/art/201906/598302.htm)
  > 锅你太沉：3D打印不小心会犯罪
+ ## [出现这十种症状，说明你编程前景黯淡](http://news.51cto.com/art/201906/598319.htm)
+ > 出现这十种症状，说明你编程前景黯淡
  ## [一次性搞清楚线上CPU100%，频繁FullGC排查套路](http://biz.51cto.com/art/201906/598280.htm)
  > 一次性搞清楚线上CPU100%，频繁FullGC排查套路
  ## [我是技术总监，我确实答不出那么多技术细节！](http://news.51cto.com/art/201906/598282.htm)
@@ -71,52 +73,56 @@ categories: IT NEWS
  > 曾经有个能帮我修电脑的BOY，我没有好好珍惜……
  ## [关于5G网络和设备的17个预测](http://network.51cto.com/art/201906/598262.htm)
  > 关于5G网络和设备的17个预测
- ## [聚焦AI应用实践与行业赋能，WOT2019全球人工智能大会圆满收官!](http://news.51cto.com/art/201906/598247.htm)
- > 聚焦AI应用实践与行业赋能，WOT2019全球人工智能大会圆满收官!
+ ## [5G承载网到底有什么不同？](http://network.51cto.com/art/201906/598351.htm)
+ > 今天这篇文章，我们来聊一聊5G承载网。什么是承载网?顾名思义，承载网就是专门负责承载数据传输的网络。
+ ## [为期两年的研究揭示了Android的大问题](http://news.51cto.com/art/201906/598346.htm)
+ > 来自悉尼大学和英联邦科学与工业研究组织（CSIRO）的Data61小组的研究人员建立了一个先进的应用分析系统，
+ ## [苹果发布iPadOS/iOS 13首个公测版更新](http://news.51cto.com/art/201906/598344.htm)
+ > 经过数周的等待，苹果今晨终于向公测用户推送了 iOS 13 和 iPadOS 13 的首个测试版更新，现在非苹果开发者
+ ## [循序渐进学加密](http://netsecurity.51cto.com/art/201906/598342.htm)
+ > 上大学后，有幸听卢开澄教授讲《计算机密码学》，才知道原来我们小时候玩的这个游戏远远不能称之为加密。那
+ ## [让物联网工程师和数据科学家夜不能寐的6个物联网挑战](http://iot.51cto.com/art/201906/598341.htm)
+ > 就像对以前即将到来的其他技术革命一样，人们也毫不例外地对物联网技术进行了大肆宣传和炒作，然后随之而来
+ ## [华为鸿蒙即将亮相 媒体宜支持不宜捧杀](http://news.51cto.com/art/201906/598347.htm)
+ > 华为微内核和新编译器是原理性的胜利、五年后鸿蒙基本替代安卓、华为让谷歌无法淡定等论调则是赞美。
+ ## [大家所推崇的Redis分布式锁真的就万无一失吗？](http://stor.51cto.com/art/201906/598343.htm)
+ > 在单实例JVM中，常见的处理并发问题的方法有很多，比如synchronized关键字进行访问控制、volatile关键字、
  ## [10 个提高效率的 Linux 命令别名](http://os.51cto.com/art/201906/598340.htm)
  > 在 Linux 环境下工作的工程师，一定会对那些繁琐的指令和参数命令行印象深刻吧。而且，可怕的不是繁琐，而
  ## [物联网改变农业的未来](http://iot.51cto.com/art/201906/598337.htm)
  > 物联网解决方案致力于通过确保高产量、盈利能力和环境保护，来帮助农民缩小供需差距。
  ## [沃尔玛、星巴克等为何将区块链引入供应链管理？](http://blockchain.51cto.com/art/201906/598335.htm)
  > 随着企业级区块链的发展与实际应用，越来越多与区块链技术相关的先进解决方案开始进入供应链领域。之所以二
- ## [操作系统应该如何在多CPU上调度工作？](http://biz.51cto.com/art/201906/598338.htm)
- > 本章将介绍多处理器调度(multiprocessor scheduling)的基础知识。由于本章内容相对较深，建议认真学习并发
- ## [物联网高手必备：网络协议栈LwIP（一）](http://iot.51cto.com/art/201906/598336.htm)
- > 上节我们对LwIp的目录结构已经有了了解，我们这篇文件将就LwIp协议栈做更深一步的研究。
- ## [为何多所大学与顶级富豪联合推进AI技术控制研究？](http://ai.51cto.com/art/201906/598334.htm)
- > 最近，亿万富翁兼Blackstone Group联合创始人Stephen Schwarzman(美国私募股权富豪)表示将向牛津大学捐赠1.
- ## [网络突发瘫痪！三招教你摆脱烦恼](http://network.51cto.com/art/201906/598333.htm)
- > 网断了，怎么办？今天小编就和大家分享三种理论和实际工作经验相结合的方法：分层法、替代法、“望闻问切”
- ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
- > 物联网与边缘计算的融合
- ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
- > 数据库提升知识点汇总
- ## [物联网安全体系架构分析图（水文，无干货）](https://blog.csdn.net/dreamstone_xiaoqw/article/details/90750649)
- > 物联网安全体系架构分析图（水文，无干货）
- ## [物联网概论知识点](https://blog.csdn.net/Wjwstruggle/article/details/91051348)
- > 物联网概论知识点
- ## [物联网 FOTA升级的必要性](https://blog.csdn.net/Manfred_zhu/article/details/90898778)
- > 物联网 FOTA升级的必要性
- ## [浅谈支撑百万级的架构设计](https://blog.csdn.net/change_on/article/details/91041888)
- > 浅谈支撑百万级的架构设计
- ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
- > redis设计与实现 二
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
- ## [物联网第六步： Tornado的部署](https://blog.csdn.net/sinat_26940175/article/details/91038186)
- > 物联网第六步： Tornado的部署
- ## [物联网平台是什么，我们怎么才能选择最合适的物联网平台？](https://blog.csdn.net/duozhishidai/article/details/90605705)
- > 物联网平台是什么，我们怎么才能选择最合适的物联网平台？
- ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
- > 关系数据库系统（数据库原理）
- ## [STM32总线架构笔记](https://blog.csdn.net/Mamba_1024/article/details/90671661)
- > STM32总线架构笔记
- ## [linux驱动开发架构](https://blog.csdn.net/mcsbary/article/details/90696849)
- > linux驱动开发架构
- ## [解压版mysql-5.7.17-winx64的配置安装](https://blog.csdn.net/shine_my/article/details/91788921)
- > 解压版mysql-5.7.17-winx64的配置安装
- ## [PowerDesigner模型导入SQL出错怎么办](https://blog.csdn.net/weixin_44541076/article/details/91357907)
- > PowerDesigner模型导入SQL出错怎么办
+ ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
+ > 如何进行软件技术管理？
+ ## [如何使用 CODING 实践 DevOps 全流程](https://blog.csdn.net/CODING_devops/article/details/91046824)
+ > 如何使用 CODING 实践 DevOps 全流程
+ ## [运维同步rsync](https://blog.csdn.net/woshaguayi/article/details/90680157)
+ > 运维同步rsync
+ ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
+ > 20年研发管理经验谈（八）
+ ## [【微服务架构】9 管理和运维](https://blog.csdn.net/gdp12315/article/details/90579132)
+ > 【微服务架构】9 管理和运维
+ ## [\[Cmake-Android音视频\]ffmpeg3.4实现解封装](https://blog.csdn.net/adolph_lu/article/details/90708620)
+ > \[Cmake-Android音视频\]ffmpeg3.4实现解封装
+ ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
+ > 运维进阶——firewall详解
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
+ ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
+ > 20年研发管理经验谈（二）
+ ## [\[业务知识\]研发管理 开发过程管理](https://blog.csdn.net/ZYD45/article/details/90898548)
+ > \[业务知识\]研发管理 开发过程管理
+ ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
+ > 数字音视频知识点汇总(一)
+ ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
+ > 运维进阶——iptables详解
+ ## [Hadoop集群运维](https://blog.csdn.net/qq_35488412/article/details/91042033)
+ > Hadoop集群运维
+ ## [音视频开发（四）——编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
+ > 音视频开发（四）——编码音频
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [用户数据报协议是啥？看完这文就懂了！| 技术头条](https://blog.csdn.net/csdnnews/article/details/93550609)
@@ -139,42 +145,58 @@ categories: IT NEWS
  > 众所周知，从2017年起AI市场持续火热，动不动就网传百万年薪。到了2019年，我们能够明显感受到的是，“0基础3个月学成”的宣传语，被大家经常看到。但是入行AI容易吗？...
  ## [QQ 邮箱漂流瓶将下线；华为美国公司起诉美商务部；Ubuntu 不会放弃 32 位应用程序支持 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/93550497)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [魅族再回应“拨不了120延误就医”：可上门检修，无法给出赔偿](http://www.lanjingtmt.com/news/detail/43272.shtml)
+ > 6月23日，魅族 MX6 无法拨出 120 急救电话延误就医引发关注，魅族售后人员再次回应，对此事感到抱歉，可上门检查手机确定问题所在，并称此前没有接到过魅族任何型号任何批次手机无
  ## [腾讯“和群”被指翻版即刻，或意在争夺资讯内容分发](http://www.lanjingtmt.com/news/detail/43269.shtml)
  > 继字节跳动推出“飞聊”、搜狐推出“狐友”后，腾讯默默上线的一款小程序“和群”也走起了兴趣社群的路子。此番腾讯推“和群”，背后或许是资讯内容分发的又一次争夺。
  ## [澜起科技发起最后冲刺，回归科创版能否”芯”路突围？](http://www.lanjingtmt.com/news/detail/43268.shtml)
  > 澜起科技已于6月18日提交注册申请，等待科创板上市前的最后冲刺。过去，中国芯片企业始终都处于十几亿的体量，核心便是缺乏高端人才和资金，如今科创板的出现能否实现为企业赋能？国产芯片又
 # 人工智能 
- ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
- > 音视频学习三: EGL讲解
- ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
- > 运维常用操作(持续更新)
- ## [前端图片压缩和角度修正](https://blog.csdn.net/Deng_gene/article/details/90699645)
- > 前端图片压缩和角度修正
- ## [数字音视频知识点汇总(一)](https://blog.csdn.net/u012886093/article/details/90765831)
- > 数字音视频知识点汇总(一)
- ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
- > 前端 之 HTML
- ## [运维同步rsync](https://blog.csdn.net/woshaguayi/article/details/90680157)
- > 运维同步rsync
- ## [运维入门之bash shell脚本二](https://blog.csdn.net/qq_42103479/article/details/90896797)
- > 运维入门之bash shell脚本二
- ## [音视频技术开发周刊 94期](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90767268)
- > 音视频技术开发周刊 94期
- ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
- > FFmpeg音视频整合
- ## [环信多人音视频会议功能实现](https://blog.csdn.net/qq_43128835/article/details/90719818)
- > 环信多人音视频会议功能实现
- ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
- > 信息系统安全运维
- ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
- > 前端的异步流程
- ## [音视频学习笔记-OpenGL下坐标系统理解](https://blog.csdn.net/shengpeng3344/article/details/90736223)
- > 音视频学习笔记-OpenGL下坐标系统理解
- ## [运维入门之bash shell脚本三](https://blog.csdn.net/qq_42103479/article/details/90899348)
- > 运维入门之bash shell脚本三
- ## [前端自己做快递查询](https://blog.csdn.net/qq_41585377/article/details/90643201)
- > 前端自己做快递查询
+ ## [增量编码器资讯大全](https://blog.csdn.net/kindele/article/details/90604826)
+ > 增量编码器资讯大全
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
+ ## [Hadoop架构概述](https://blog.csdn.net/weixin_40898246/article/details/91043830)
+ > Hadoop架构概述
+ ## [前端基础入门（10）布局与定位](https://blog.csdn.net/fenghulun/article/details/91471608)
+ > 前端基础入门（10）布局与定位
+ ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
+ > 如何进行软件技术管理？
+ ## [STM32总线架构笔记](https://blog.csdn.net/Mamba_1024/article/details/90671661)
+ > STM32总线架构笔记
+ ## [linux驱动开发架构](https://blog.csdn.net/mcsbary/article/details/90696849)
+ > linux驱动开发架构
+ ## [三款大气资讯类wordpress主题](https://blog.csdn.net/qiyuwg/article/details/90645064)
+ > 三款大气资讯类wordpress主题
+ ## [x86架构——CPUID](https://blog.csdn.net/jiangwei0512/article/details/90677659)
+ > x86架构——CPUID
+ ## [20年研发管理经验谈（二）](https://blog.csdn.net/weixin_39759846/article/details/90638829)
+ > 20年研发管理经验谈（二）
+ ## [前端基础入门（1）初识](https://blog.csdn.net/fenghulun/article/details/91347981)
+ > 前端基础入门（1）初识
+ ## [Web前端篇：css背景属性和边框属性](https://blog.csdn.net/ITmiaomiao666/article/details/91899241)
+ > Web前端篇：css背景属性和边框属性
+ ## [arm架构和x86架构区别](https://blog.csdn.net/qq_38998213/article/details/90644029)
+ > arm架构和x86架构区别
+ ## [前端基础入门（2）选取工具：VS2019安装使用](https://blog.csdn.net/fenghulun/article/details/91348017)
+ > 前端基础入门（2）选取工具：VS2019安装使用
+ ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
+ > 首域金融投资人交流群的四个好处
 # PM 
+ ## [库存：服饰零售的终极悖论](http://www.woshipm.com/it/2503092.html)
+ > 在社会总体消费遇冷的情况下，服饰零售业的库存不断增加，并给企业的利润与生产带来了很大的影响。基于这一背景，服饰零售业应该寻求供应链上的整体转变，破局再生。...
+ ## [从用户体验设计5要素，分析新零售「盒马」](http://www.woshipm.com/pd/2506974.html)
+ > 本文作者参照Web用户体验五要素模型，并结合新零售场景的多样性，去分析盒马用户体验设计的5要素，看看盒马设计师在面对新零售场景时，是如何思考和开展体验设计的。...
+ ## [To B业务的运营工作（上）](http://www.woshipm.com/operate/2504196.html)
+ > 相较于ToC，ToB运营有非常明显的差异性，它需要从业人员能够懂产品、懂业务，懂得利用内外部资源并进行有效整合，达到“让产品更好卖”的最终目的。我工作到现在，技能...
+ ## [基于周期性意图分析，设计生活工具类产品的交互策略](http://www.woshipm.com/pd/2410031.html)
+ > 交互设计指的是需要根据用户的输入指令做一些反馈，我们传统的认知就是用户主动输入信息，机器判断、处理信息后给予反馈。而对于用户没有主动输出的意图，如果没有相应...
+ ## [3个核心标准，3大促活手段，帮你打造高转化活跃社群](http://www.woshipm.com/operate/2505751.html)
+ > 本文笔者将从活跃社群的三个核心标准（有用、有趣、有料）以三大促活手段（轻输出、勤直播、做活动）来讲述：如何提高社群活跃度以及转化率？每个人都应该见过这样两...
+ ## [B端产品经理的能力模型与学习提升](http://www.woshipm.com/pmd/2502920.html)
+ > B端产品经理的核心能力到底是什么？针对核心能力，该学些什么？怎样学习？B端产品经理的能力模型1. 为什么B端学习材料这么少？经常有朋友问我：作为一名B端产品经理...
+ ## [中级产品方法论（七）：提升关键点的转化率](http://www.woshipm.com/pd/2498724.html)
+ > 在把握了用户需求过程中的关键点后，还需要考虑到如何提升关键点的转化率的问题，本文作者根据个人经验总结了三个方法，分享给大家。如果说确定用户需求满足过程中的...
  ## [线上课程｜3天掌握文案框架，让写文案和玩游戏一样简单有趣](http://www.woshipm.com/active/2502504.html)
  > 越来越多岗位，日常工作中需要写文案。比如创业者、产品经理、运营经理、市场、销售、策划等等岗位。但不可否认的是，大多数人写文案的时候，却很头疼。头疼没有灵...
  ## [透过小区乐的社区团购玩法，看电商玩家如何打开下沉市场](http://www.woshipm.com/marketing/2501513.html)
