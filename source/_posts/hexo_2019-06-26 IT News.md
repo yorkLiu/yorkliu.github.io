@@ -1,21 +1,21 @@
 ---
 title: 2019-06-26 IT News
 copyright: true
-date: 2019-06-26 08:01:09
+date: 2019-06-26 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [打造跨行业安全合作新格局 第三届顺丰信息安全峰会举办在即](http://mp.weixin.qq.com/s?src=11&timestamp=1561507204&ver=1691&signature=mBew1tR8dPOVk-ndjAJUQj4dxuMt9u6Tyn04lvWTBS*ya8RKc1HWMjdlW4kKMms*lY58T42*R5nSu4gM1lOEY227RgWUa5yjRBZzVgmZHxkdWcx7boU0Km*O791xQqrm&new=1)
- > 2019年，我国正式步入5G商用元年。5G、互联网、大数据、云计算、人工智能等数字技术不断创新、融合，为各行业全面赋能。但在数字经济快速发展的同时，信息安全形势不容乐观。数据泄露、隐私被盗等事件频繁发生，...
- ## [几种近距离的无线通信技术](http://mp.weixin.qq.com/s?src=11&timestamp=1561507204&ver=1691&signature=5Wn28WrA2msOdSiNR6rgf8A*NsTMKUFBl8EgycwMj8QmydlG5*gOVcxYR70bZMPe*hcrdm93BvezQX6YMuYpdji8LtVNwCjmCgD0EDqV2BTOJ2UV8kUSY4S5n-orBtPB&new=1)
- > 在通信和信息技术的不断发展，近距离的无线通信技术只要通信收发双方通过无线电波传输信息且传输距离限制在较短范围(几十米)以内，就可称为短距离无线通信。目前我们所看到的短距离无线技术都有其立足的特点，或...
- ## [我国首个5G套餐公布!](http://mp.weixin.qq.com/s?src=11&timestamp=1561507204&ver=1691&signature=3UhieZthynuZ1PAuvn7LxJldQBbUtjGRXTXb74yfHTF5YxX58apL5oaVOlkHgq3KEZYFo0-de4YcSIgQ32vN-j1Igpsaj3ukIvEk9hcdkT4ytVVIaaC*9*2eAVlg*q8p&new=1)
- > 正文共：442字 1图预估阅读时间：2 分钟2019年6月6日，工信部正式向中国移动、中国电信、中国联通三大运营商以及中国广电发放了5G商用牌照，促进了中国5G商用落地。25日，在中国移动5G+发布会媒体沟通会上，中国...
- ## [华为5G势如破竹：又一东南亚电信巨头站队华为，送上80亿5G订单](http://mp.weixin.qq.com/s?src=11&timestamp=1561507204&ver=1691&signature=9SukiKDsO*7JCCVyuRR0gFxd98tqZw4NemBG5klM4EIRFfEK2sc*0sdUwjNE3fU*PWbxK0eSg0CweqXk0s6cXEaeoVyZxQ2QTHVRzLt9TlY7gcPVXSfBIOZGYtOMcAUK&new=1)
- > 今年是5G元年，而通信厂商躺着赚钱的机会终于来了，而这些年投入的研发投入，也即将随着5G的建设回本。在工信部下发5G牌照以后，中国也正式进入5G建设中来，华为将作为中国四大运营商和合作伙伴，推进中国5G的建...
- ## [MWCS19|华为丁耘谈5G价值：千行百业+5G，将使能各方新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1561507204&ver=1691&signature=4IQjDOBNGvIWU6uIVgYmwLz9uOtf7mEC-E1oklW-*hw3TBSiwc5ej4MFc0MeZ80TXHKmY2y67ppuX0tToAL6FAYMT3nG6QTmxiOz6huHB93eaNoPuLGgB6MOHe29v--8&new=1)
+ ## [MWCS19|华为丁耘谈5G价值：千行百业+5G，将使能各方新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1561510804&ver=1691&signature=4IQjDOBNGvIWU6uIVgYmwLz9uOtf7mEC-E1oklW-*hywrjVs-UuR9PWT3QzYU9Mz-6t5C6-w77ZirpV4R7Az3gL*4PXXPjEaeeHsQBJmh5HeTmeDueax*qnKNqq3vqMW&new=1)
  > “华为已获取了50个5G商用合同，发货超过15万站；5G商用全球加速，上半年来自韩国、英国、瑞士、意大利、科威特等多个国家完成5G商用发布，其中有2/3是由华为协助其构建的。”6月25日， 在MWC19上海期间的“5G i...
+ ## [我国首个5G套餐公布!](http://mp.weixin.qq.com/s?src=11&timestamp=1561510804&ver=1691&signature=3UhieZthynuZ1PAuvn7LxJldQBbUtjGRXTXb74yfHTENmh8Jz38N1uveHoeK1WoX*yJ6rNAwbZLc9ePhmK0YOSmqh01PTHGzhSNZk1mMM9Cpv4O6M6gDMFVyeIzvlnTI&new=1)
+ > 正文共：442字 1图预估阅读时间：2 分钟2019年6月6日，工信部正式向中国移动、中国电信、中国联通三大运营商以及中国广电发放了5G商用牌照，促进了中国5G商用落地。25日，在中国移动5G+发布会媒体沟通会上，中国...
+ ## [打造跨行业安全合作新格局 第三届顺丰信息安全峰会举办在即](http://mp.weixin.qq.com/s?src=11&timestamp=1561510804&ver=1691&signature=mBew1tR8dPOVk-ndjAJUQj4dxuMt9u6Tyn04lvWTBS-FhUd1MypOy7MzCxl2ZgaXFKJbk8JirKu1Tah4uez0VnXtn3gjI*2v594CBcZGIhWuzKeJvqqMpzdIRPcaxUlD&new=1)
+ > 2019年，我国正式步入5G商用元年。5G、互联网、大数据、云计算、人工智能等数字技术不断创新、融合，为各行业全面赋能。但在数字经济快速发展的同时，信息安全形势不容乐观。数据泄露、隐私被盗等事件频繁发生，...
+ ## [华为5G势如破竹：又一东南亚电信巨头站队华为，送上80亿5G订单](http://mp.weixin.qq.com/s?src=11&timestamp=1561510804&ver=1691&signature=9SukiKDsO*7JCCVyuRR0gFxd98tqZw4NemBG5klM4EJk8ZWeUSxm6x8xCXjqgDQ4SspEK5Tet1PCyC1x7A8B2alYXV58Lytz*Z3y2x8kDYw4dFkQmSiGVBnRf1ZEYDRE&new=1)
+ > 今年是5G元年，而通信厂商躺着赚钱的机会终于来了，而这些年投入的研发投入，也即将随着5G的建设回本。在工信部下发5G牌照以后，中国也正式进入5G建设中来，华为将作为中国四大运营商和合作伙伴，推进中国5G的建...
+ ## [几种近距离的无线通信技术](http://mp.weixin.qq.com/s?src=11&timestamp=1561510804&ver=1691&signature=5Wn28WrA2msOdSiNR6rgf8A*NsTMKUFBl8EgycwMj8T3re8pES6-WD1AVlOsyQGoqRpx*6V78KNrMVVS9FUdOf3uE3T5E*dol4OK6REKMknQ57uqlDjsZPEqpuh5i0SP&new=1)
+ > 在通信和信息技术的不断发展，近距离的无线通信技术只要通信收发双方通过无线电波传输信息且传输距离限制在较短范围(几十米)以内，就可称为短距离无线通信。目前我们所看到的短距离无线技术都有其立足的特点，或...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -69,10 +69,18 @@ categories: IT NEWS
  > 苹果有没有当年谷歌离开中国的勇气？
  ## [时评 | 美国压垮中国5G的底牌还有多少？](http://network.51cto.com/art/201906/598380.htm)
  > 时评 | 美国压垮中国5G的底牌还有多少？
+ ## [将对未来工作产生影响的五大新兴技术](http://news.51cto.com/art/201906/598377.htm)
+ > 将对未来工作产生影响的五大新兴技术
  ## [2019年服务器市场发展的几大趋势](http://server.51cto.com/sOS-598356.htm)
  > 2019年服务器市场发展的几大趋势
- ## [树莓派4发布！CPU提升3倍，性能堪比主流PC](http://news.51cto.com/art/201906/598355.htm)
- > 树莓派4发布！CPU提升3倍，性能堪比主流PC
+ ## [三行Python代码，可以让你的数据处理快别人4倍](http://developer.51cto.com/art/201906/598403.htm)
+ > Python是一门非常适合处理数据和自动化完成重复性工作的编程语言，我们在用数据训练机器学习模型之前，通常
+ ## [千万别学计算机! ! !](http://zhuanlan.51cto.com/art/201906/598402.htm)
+ > 周末和朋友小聚，聊起了高考报志愿的问题，我和另外一个朋友都脱口而出：“千万别学计算机!”
+ ## [JavaScript会是Web开发的未来吗？](http://zhuanlan.51cto.com/art/201906/598401.htm)
+ > 事情要从JavaScript说起，这个曾经的丝经过多年的奋战，成功逆袭，成为前端之王。
+ ## [为什么阿里巴巴要求谨慎使用ArrayList中的subList方法](http://zhuanlan.51cto.com/art/201906/598400.htm)
+ > subList是List接口中定义的一个方法，该方法主要用于返回一个集合中的一段、可以理解为截取一个集合中的部
  ## [5步选择高性能NoSQL数据库](http://database.51cto.com/art/201906/598398.htm)
  > 从可用的NoSQL解决方案中选择正确的数据库是我们在设计新应用程序时可以做出的最重要决策之一。因此，如果
  ## [9大免费Java流程监控工具](http://developer.51cto.com/art/201906/598396.htm)
@@ -85,75 +93,91 @@ categories: IT NEWS
  > 拥有太多集成不良的工具，不得不加配各方面人手，还只能得到缺乏整体安全风险视图的大量零散数据;面对这种
  ## [「决战紫禁之巅」之深度学习框架篇：Keras VS PyTorch](http://zhuanlan.51cto.com/art/201906/598391.htm)
  > 本文将分别对 Keras 和 PyTorch 的四个方面进行比较，你可以根据两种框架的优劣势以及自身的需要选择其中一
- ## [性能优化，我们应该知道的更多一点](http://os.51cto.com/art/201906/598390.htm)
- > 当我们谈到性能优化，更多的同学可能想到的是系统层面的性能优化，而对于程序代码本身的优化却比较少。实际
- ## [避免物联网设计缺陷，务必做到这些](http://iot.51cto.com/art/201906/598397.htm)
- > 物联网之前的设备只是设备。他们使用代码进行操作，以满足特定目的。现在，所有这些设备都通过中央控制系统
- ## [数据库常见的优化](https://blog.csdn.net/qq_38234594/article/details/91451622)
- > 数据库常见的优化
- ## [\[Linux\]运维面试(二)](https://blog.csdn.net/qq_44839276/article/details/90763352)
- > \[Linux\]运维面试(二)
- ## [数据库知识点整理（秋招面试）](https://blog.csdn.net/weixin_41809206/article/details/91045186)
- > 数据库知识点整理（秋招面试）
- ## [\[Linux\]运维面试(一)](https://blog.csdn.net/qq_44839276/article/details/90749637)
- > \[Linux\]运维面试(一)
- ## [运维进阶——samba共享文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90675361)
- > 运维进阶——samba共享文件系统
- ## [环信音视频功能学习总结](https://blog.csdn.net/u013069892/article/details/91879190)
- > 环信音视频功能学习总结
- ## [运维入门之bash shell脚本二](https://blog.csdn.net/qq_42103479/article/details/90896797)
- > 运维入门之bash shell脚本二
- ## [运维葵花宝典](https://blog.csdn.net/kehana/article/details/90765448)
- > 运维葵花宝典
- ## [【音视频】5.ffmpeg命令分类与使用](https://blog.csdn.net/qq_30124547/article/details/90708441)
- > 【音视频】5.ffmpeg命令分类与使用
- ## [构建MySQL服务器以及基本应用](https://blog.csdn.net/xiaozhedeitzhilu/article/details/91356538)
- > 构建MySQL服务器以及基本应用
+ ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
+ > 大数据与云计算知识点
+ ## [音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90617448)
+ > 音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会
+ ## [前端基础入门（10）布局与定位](https://blog.csdn.net/fenghulun/article/details/91471608)
+ > 前端基础入门（10）布局与定位
+ ## [音视频学习笔记-OpenGL概念理解](https://blog.csdn.net/shengpeng3344/article/details/90664940)
+ > 音视频学习笔记-OpenGL概念理解
+ ## [【云计算】阿里云云计算专业认证考试](https://blog.csdn.net/lsj960922/article/details/90901467)
+ > 【云计算】阿里云云计算专业认证考试
+ ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
+ > 云计算、大数据、人工智能之间的关系，总章
+ ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
+ > 前端基础入门（9）css盒子
+ ## [前端基础入门（4）列表及其样式](https://blog.csdn.net/fenghulun/article/details/91348050)
+ > 前端基础入门（4）列表及其样式
+ ## [云计算介绍之云计算的产生概述](https://blog.csdn.net/csdn10086110/article/details/91413055)
+ > 云计算介绍之云计算的产生概述
  ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
  > python3下载抖音视频
- ## [音视频基础知识（二）](https://blog.csdn.net/Viiou/article/details/90678819)
- > 音视频基础知识（二）
- ## [SQLITE学习之SQLITE基础知识(一)](https://blog.csdn.net/cainiaoxiakexing/article/details/91816780)
- > SQLITE学习之SQLITE基础知识(一)
- ## [音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90617448)
- > 音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会
- ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
- > 运维进阶——iptables详解
+ ## [【音视频】5.ffmpeg命令分类与使用](https://blog.csdn.net/qq_30124547/article/details/90708441)
+ > 【音视频】5.ffmpeg命令分类与使用
+ ## [【云计算】云计算的前世今生](https://blog.csdn.net/lsj960922/article/details/90749820)
+ > 【云计算】云计算的前世今生
+ ## [德比资讯隐私条款](https://blog.csdn.net/weixin_42093585/article/details/91886766)
+ > 德比资讯隐私条款
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
+ ## [音视频开发（四）——编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
+ > 音视频开发（四）——编码音频
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [苹果应用审核走进中国！](https://blog.csdn.net/csdnnews/article/details/93681716)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）2018年大年三十，对于回遵义老家过年的程序员超凡来说，是一个格外苦涩的除夕。这一天，公司所有员工，都在庆祝猪...
+ ## [5G 来了，我们可以做什么？](https://blog.csdn.net/csdnnews/article/details/93681750)
+ > 5G 清风徐来，静待应用花开。这是最好的时代，也是最具挑战的时代。当下就国内而言，随着四张 5G 商用牌照的正式发放，运营商们纷纷扩大并加快了建网的规模与速度；手机厂商们...
+ ## [比尔·盖茨承认犯下 4000 亿美元大错：误给 Google 推出 Android 机会！](https://blog.csdn.net/csdnnews/article/details/93681608)
+ > 作者 | 素年清时责编 | 伍杏玲出品 | 程序人生（ID：coder_life）近日在Village Global举办的座谈会上，比尔·盖茨（Bill Gates）承认...
  ## [@广州开发者，华为送来一份说明书——助你轻松应对开发难题](https://blog.csdn.net/csdnnews/article/details/93681663)
  > 达尔文1859年出版的《物种起源》中曾写道：“自然界生存下来的，既不是四肢最强壮的，也不是头脑最聪明的，而是最有能力适应变化的物种。”这句至理名言放在数字化转型的今天依然...
+ ## [C++、Python、Rust、Scala 构建编译器的差异性究竟有多大？](https://blog.csdn.net/csdnnews/article/details/93681683)
+ > 【CSDN 编者按】编程语言之争是开发者们热议的永恒话题，在不同语言的选择和设计决定上也都观点不一。那么在面对大型项目时该如何选择具体实现呢？本文的作者借课程项目之机，比...
+ ## [从事 Java 20 年最终却败给了 Python，哭了！](https://blog.csdn.net/csdnnews/article/details/93681780)
+ > 之前遇到一个老师，他从事Java行业20年了，在Python兴起的时候，他周围的其他同行们都在纷纷学习Python方面的知识，连他的学生也问他“老师，你为什么不学Pyth...
+ ## [为什么我们需要再给 Firefox 一次机会？](https://blog.csdn.net/csdnnews/article/details/93681844)
+ > 试试看将你的所有书签都换到Firefox中，花一周时间亲身体验下吧！作者 |David Kistauri译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDN...
+ ## [千字谏言！Python入门：这两点绝对不能偷懒！否则工作后必后悔](https://blog.csdn.net/csdnnews/article/details/93681795)
+ > 作为程序员，你有没有遇到过这样的领导：“别人还没走，你先走了不合适吧。”“不能确定功劳，总得有苦劳吧！你看别人9点谁走了？”说到996，这很有可能是诱因之一。所以很多程序...
+ ## [为什么我不使用 Web 组件？](https://blog.csdn.net/csdnnews/article/details/93681814)
+ > Web 组件是指对 Web 的数据和方法进行封装实体，它的到来，方便了很多开发者对业务逻辑方面的处理，不过也有人认为，Web 组件并不适合自己。作者 |Rich Har...
+ ## [微信解封快手链接；AWS 证实宕机；微软内部疑禁用 Slack | 极客头条](https://blog.csdn.net/csdnnews/article/details/93681653)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [网易考拉再试水社交电商，“再造网易”目标或难达成](http://www.lanjingtmt.com/news/detail/43297.shtml)
+ > 据记者多方了解，友品购购正是网易考拉内部孵化的项目，目前仍在评测阶段，尚未正式对外公布。网易考拉作为网易电商业务的重要一环，这一举动背后折射的无疑是网易在电商业务方面的考量。
 # 人工智能 
- ## [AwesomePlayer实现过程分析](https://blog.csdn.net/shanshenyuyou/article/details/91431674)
- > AwesomePlayer实现过程分析
- ## [环信音视频功能学习总结](https://blog.csdn.net/u013069892/article/details/91879190)
- > 环信音视频功能学习总结
- ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
- > 最简单的深度学习入门书《动手学深度学习》
- ## [环信多人音视频会议功能实现](https://blog.csdn.net/qq_43128835/article/details/90719818)
- > 环信多人音视频会议功能实现
- ## [「其他都是抄袭」移动开发还有未来吗？](https://blog.csdn.net/DevolperFront/article/details/90679622)
- > 「其他都是抄袭」移动开发还有未来吗？
- ## [音视频学习笔记-OpenGL下坐标系统理解](https://blog.csdn.net/shengpeng3344/article/details/90736223)
- > 音视频学习笔记-OpenGL下坐标系统理解
- ## [算法基础===》==》=》排序（内部排）](https://blog.csdn.net/qq_43595030/article/details/91344579)
- > 算法基础===》==》=》排序（内部排）
- ## [【音视频】3.视频编码格式对比](https://blog.csdn.net/qq_30124547/article/details/90613472)
- > 【音视频】3.视频编码格式对比
- ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
- > OC中的几种延迟执行方式
- ## [音视频直播总结](https://blog.csdn.net/SunFlowerInRain/article/details/91528427)
- > 音视频直播总结
- ## [浅谈个人对大城市程序员与小城市程序员的感想...](https://blog.csdn.net/qq_38400856/article/details/90771994)
- > 浅谈个人对大城市程序员与小城市程序员的感想...
- ## [自学Java的我在帝都的北漂奋斗史](https://blog.csdn.net/geduo_83/article/details/90760275)
- > 自学Java的我在帝都的北漂奋斗史
- ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
- > FFmpeg音视频整合
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/90617448)
- > 音视频技术的高光时刻: LiveVideoStackCon 2019上海 音视频技术大会
+ ## [运维入门之bash shell脚本五](https://blog.csdn.net/qq_42103479/article/details/90900427)
+ > 运维入门之bash shell脚本五
+ ## [我的Java体系建立--Java基础（3）构造方法](https://blog.csdn.net/moye666/article/details/91047866)
+ > 我的Java体系建立--Java基础（3）构造方法
+ ## [ios逆向学习过程——使用theos创建第一个tweak](https://blog.csdn.net/ruozhixiaohaia/article/details/91345792)
+ > ios逆向学习过程——使用theos创建第一个tweak
+ ## [运维进阶——samba共享文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90675361)
+ > 运维进阶——samba共享文件系统
+ ## [运维葵花宝典](https://blog.csdn.net/kehana/article/details/90765448)
+ > 运维葵花宝典
+ ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
+ > 京东技术架构师总结：深入理解Spring中的各种注解
+ ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
+ > 信息系统安全运维
+ ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
+ > 程序人生：“自学Python，如何拿下了月薪15k的工作
+ ## [练习1-13 垂直方向直方图](https://blog.csdn.net/smilezyf/article/details/91047119)
+ > 练习1-13 垂直方向直方图
+ ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
+ > 运维进阶——iptables详解
+ ## [运维进阶-----NFS网络文件系统](https://blog.csdn.net/zhaoliang_Guo/article/details/90612119)
+ > 运维进阶-----NFS网络文件系统
+ ## [前端基础概念的整理](https://blog.csdn.net/mondy592/article/details/91130250)
+ > 前端基础概念的整理
+ ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
+ > 大专简单的2年程序人生
+ ## [聊聊面向对象（心里明白嘴上说不出来的滋味）](https://blog.csdn.net/weixin_45118251/article/details/91472818)
+ > 聊聊面向对象（心里明白嘴上说不出来的滋味）
+ ## [运维同步rsync](https://blog.csdn.net/woshaguayi/article/details/90680157)
+ > 运维同步rsync
 # PM 
  ## [你没考虑到的，「PRD自查手册」来提醒你！](http://www.chanpin100.com/article/108757)
  > PRD自查手册，多维度查漏补缺，文档产出质量更高，更提高团队沟通效率！
