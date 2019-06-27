@@ -1,21 +1,21 @@
 ---
 title: 2019-06-27 IT News
 copyright: true
-date: 2019-06-27 08:01:09
+date: 2019-06-27 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [传英特尔计划出售约8500项专利丨比特币价格突破12000美元\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561593604&ver=1693&signature=xCAPcKpFAXoEkVb74kwpnVt3QmyBVNUyR01xjatD*RpSLScSMV18c3SVyqklrHFjef8nIY1*Gf3ZE-xAWaAOky2V*TzioKolY-9T4ycn-3UZyL6jdsYT82vZu1nse500&new=1)
+ ## [传英特尔计划出售约8500项专利丨比特币价格突破12000美元\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561597204&ver=1693&signature=xCAPcKpFAXoEkVb74kwpnVt3QmyBVNUyR01xjatD*RpSLScSMV18c3SVyqklrHFjlTdzVc-2YsrDlpXzPvrd8nYrWi83ITv7RfT9yfW6C1jMTJ76nVX2L3fatfYHlhzy&new=1)
  > 6月26日周三【Do说】编辑 | 李尧趣店宣布将发行2.5亿美元高级可转债，2026年到期趣店今天宣布，计划发行总额最多2.5亿美元、2026年到期的高级可转债。这一可转债的初始转换率、利率和其他条款尚未最终敲定，将在...
- ## [金属3D打印公司西安铂力特科创板过会 拟募资7亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1561593604&ver=1693&signature=-2SxvPGDAWxPea2m-YWoOBbhkg8LKyedgWXysWjl6UUFWI4c07SR7dZ7wLdgoBVB-cm93jeUqo49G2YFh35JHBxOYStTmQRhv77wqs5sRpcolMIVTH9ZIXfCloBwKHjt&new=1)
- > 6月26日晚间，科创板上市委会议结果出炉，铂力特科创板首发申请获得通过，陕西迎来继西部超导后的第二家科创板企业。铂力特是一家主营工业级金属增材制造(3D打印)的高新技术企业。公司业务包括金属3D打印设备生...
- ## [应急通信保障过程中 无线自组网技术是如何应用的](http://mp.weixin.qq.com/s?src=11&timestamp=1561593604&ver=1693&signature=vr1QnqR89nNoRyUHT4y3o4avCtWWByfOI-gjMKvV8AUnxf5EghPxHLVtXwbaqHM-c3UhS*z4*vV5xG7GwD8HV6nRjh7qVyvy7iIq0j2f5J7YroCEsBz804HtfKvDQ90h&new=1)
- > 在现代社会中，通信系统可以说是一个国家的命脉，通信系统的正常运转与现代社会的发展息息相关。当受灾地区的有线通信光缆、无线通信基站等通信设施遭到破坏时，便与外界通信中断，且无法在短时间内修复，对政府...
- ## [中国5G商用后首次产业大集结!暴走一天揭秘国内5G商用真相](http://mp.weixin.qq.com/s?src=11&timestamp=1561593604&ver=1693&signature=QwaUqrAnYheVWZ3aJCo4*k2okpLaaOoSsiAoMpaWGCzT-xDxghImPgrpTTORxMSh-u3-2POj8bGHB0gR4tf6wLtDQCk6J2OxhujjchkiZioZfdIZt2saTmmHLAXMSjFq&new=1)
- > 看点：在繁荣的5G落地案例爆发背后，还隐藏着运营商相爱相杀、设备商明争暗斗以及落地难的集体困境。智东西6月26日上海报道，今天为期三天（6月26日-6月28日）的2019年上海世界移动大会（MWCS）正式在上海新国际...
- ## [vivo的义不容辞就是“创造力”](http://mp.weixin.qq.com/s?src=11&timestamp=1561593604&ver=1693&signature=C1NMVWUmXT4rnGI5tCk-DkIvvn2sdtlb5Ty7VNT2w4o0JQTVXbzww54NiYNqS6d264JxVX3N8QMzte64GnQyLXuSCsSI0*A-jnNeb8hsXF2cLdIo6eQKMtgI55sGDeNM&new=1)
+ ## [vivo的义不容辞就是“创造力”](http://mp.weixin.qq.com/s?src=11&timestamp=1561597204&ver=1693&signature=C1NMVWUmXT4rnGI5tCk-DkIvvn2sdtlb5Ty7VNT2w4o0JQTVXbzww54NiYNqS6d23*pv0OARFbN7B4A1HbkorDNFJ4FnmwSdzZb2S4c2ZhAyisoy-ZdNJbNVXuhgWMgx&new=1)
  > 文 | 懂懂  编辑 | 秦言来源：懂懂笔记5G，是今年上海MWC19展会唯的一主题。运营商谈建网、资费，设备商谈技术、基站，手机厂商在落地真正的5G手机……一片繁荣中大家发现，5G的落地比之前的预期会快一些。vivo...
+ ## [金属3D打印公司西安铂力特科创板过会 拟募资7亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1561597204&ver=1693&signature=-2SxvPGDAWxPea2m-YWoOBbhkg8LKyedgWXysWjl6UUFWI4c07SR7dZ7wLdgoBVBeCoiFMa9rdZP6*IyCG17n1rjXZ3tKZkQZ*HA8g162t1dRHhmZ71JHgvolD97pYtf&new=1)
+ > 6月26日晚间，科创板上市委会议结果出炉，铂力特科创板首发申请获得通过，陕西迎来继西部超导后的第二家科创板企业。铂力特是一家主营工业级金属增材制造(3D打印)的高新技术企业。公司业务包括金属3D打印设备生...
+ ## [应急通信保障过程中 无线自组网技术是如何应用的](http://mp.weixin.qq.com/s?src=11&timestamp=1561597204&ver=1693&signature=vr1QnqR89nNoRyUHT4y3o4avCtWWByfOI-gjMKvV8AUnxf5EghPxHLVtXwbaqHM-985JkNo3pP9Zk7a9YA2VG7ohLDnOZbQut7xQoTW1QGa3CnpdeX9XxHRFUX3aOeGQ&new=1)
+ > 在现代社会中，通信系统可以说是一个国家的命脉，通信系统的正常运转与现代社会的发展息息相关。当受灾地区的有线通信光缆、无线通信基站等通信设施遭到破坏时，便与外界通信中断，且无法在短时间内修复，对政府...
+ ## [中国5G商用后首次产业大集结!暴走一天揭秘国内5G商用真相](http://mp.weixin.qq.com/s?src=11&timestamp=1561597204&ver=1693&signature=QwaUqrAnYheVWZ3aJCo4*k2okpLaaOoSsiAoMpaWGCzT-xDxghImPgrpTTORxMShqZhCMx-8Eu9qmIDfOqClI-Gcusyl6WbyTnSUaiZ*mN8MpenH*y1zOiU8gErsrqgl&new=1)
+ > 看点：在繁荣的5G落地案例爆发背后，还隐藏着运营商相爱相杀、设备商明争暗斗以及落地难的集体困境。智东西6月26日上海报道，今天为期三天（6月26日-6月28日）的2019年上海世界移动大会（MWCS）正式在上海新国际...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,6 +57,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [将对未来工作产生影响的五大新兴技术](http://news.51cto.com/art/201906/598377.htm)
+ > 将对未来工作产生影响的五大新兴技术
  ## [一文看懂怎么用Python做数据分析](http://bigdata.51cto.com/art/201906/598427.htm)
  > 一文看懂怎么用Python做数据分析
  ## [“分布式事务”，这次彻底懂了！](http://developer.51cto.com/art/201906/598415.htm)
@@ -71,8 +73,14 @@ categories: IT NEWS
  > 如何在后台（脱离模式下）运行Docker容器
  ## [Python十大工具，让图像简洁直观有魅力](http://developer.51cto.com/art/201906/598394.htm)
  > Python十大工具，让图像简洁直观有魅力
- ## [程序员这一生，你活好了吗？](http://news.51cto.com/art/201906/598404.htm)
- > 程序员这一生，你活好了吗？
+ ## [七个管理基础架构性能和弹性的开源工具](http://os.51cto.com/art/201906/598444.htm)
+ > 系统管理员，站点可靠性工程师(SRE)和云运维在扩容时往往难以对基础架构充满信心。同样经常，他们认为解决
+ ## [深入浅出反向代理服务器“Nginx”](http://server.51cto.com/sOS-598443.htm)
+ > Nginx (&quot;engine x&quot;) 是一个高性能的HTTP和反向代理 服务器,特点是占有内存少，并发能力强，事实上nginx的
+ ## [高效进行 Oracle 日常巡检――数据库基本情况检查](http://database.51cto.com/art/201906/598442.htm)
+ > 对于线上的业务，Oracle 的数据库运行的稳定性和安全性是用户关心的一个至关重要的问题，本文将简要介绍一
+ ## [5G时代封闭系统也危险 没机会升级也不会打补丁](http://netsecurity.51cto.com/art/201906/598441.htm)
+ > 随着自身系统封闭的传统工业控制系统和设备接入互联网，海量工控系统、业务系统成为网络攻击的重点对象。传
  ## [加强物联网安全的7个步骤](http://iot.51cto.com/art/201906/598438.htm)
  > 确保物联网的安全是一项多方面的工作，需要大动作和小调整，以确保网络、系统、数据和设备受到保护。下面是
  ## [2019 年七大安全风险趋势分析](http://zhuanlan.51cto.com/art/201906/598439.htm)
@@ -81,72 +89,84 @@ categories: IT NEWS
  > 但什么是横向运动，它是如何工作的?我们将介绍一些最常见的横向移动类型，并确定我们可以在数字攻击链中检
  ## [30个叹为观止的物联网统计数据](http://iot.51cto.com/art/201906/598436.htm)
  > 如果您有兴趣了解更多关于物联网的信息，以及在不久的将来找到一些物联网预测，那么相信您来对地方了。
- ## [天呀！人工智能会像Android和iOS一样，归于平淡吗？](https://blog.csdn.net/CSDNedu/article/details/93718205)
- > 天呀！人工智能会像Android和iOS一样，归于平淡吗？
- ## [程序运行前端抓到这个了](https://blog.csdn.net/Patrol_demon/article/details/91129310)
- > 程序运行前端抓到这个了
- ## [自学Java的我在帝都的北漂奋斗史](https://blog.csdn.net/geduo_83/article/details/90760275)
- > 自学Java的我在帝都的北漂奋斗史
- ## [前端学习记录 Day1（Html）](https://blog.csdn.net/qq_41151659/article/details/91355681)
- > 前端学习记录 Day1（Html）
- ## [程序人生：“自学Python，如何拿下了月薪15k的工作](https://blog.csdn.net/java276582434/article/details/90641609)
- > 程序人生：“自学Python，如何拿下了月薪15k的工作
- ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
- > 要转行Python又不清楚行业现状和前景，这样怎么能行？
- ## [前端 之 HTML](https://blog.csdn.net/linwow/article/details/90646743)
- > 前端 之 HTML
- ## [编程语言常识](https://blog.csdn.net/lzyzlx1914/article/details/90729187)
- > 编程语言常识
- ## [C语言学习笔记---查漏补缺](https://blog.csdn.net/lyb8010/article/details/91350434)
- > C语言学习笔记---查漏补缺
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [应届生自学Python两个月，为什么找不到工作？](https://blog.csdn.net/qq_43720602/article/details/91350609)
- > 应届生自学Python两个月，为什么找不到工作？
- ## [哪些程序员容易走上管理岗位，看看有没有你](https://blog.csdn.net/epubit17/article/details/90898525)
- > 哪些程序员容易走上管理岗位，看看有没有你
- ## [前端管中窥豹之CSS篇](https://blog.csdn.net/weixin_43860025/article/details/90673943)
- > 前端管中窥豹之CSS篇
- ## [【编程语言】PHP完全自学手册](https://blog.csdn.net/lsj960922/article/details/91042869)
- > 【编程语言】PHP完全自学手册
- ## [【前端】重排和重绘](https://blog.csdn.net/Dora_5537/article/details/91357410)
- > 【前端】重排和重绘
+ ## [「其他都是抄袭」移动开发还有未来吗？](https://blog.csdn.net/DevolperFront/article/details/90679622)
+ > 「其他都是抄袭」移动开发还有未来吗？
+ ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
+ > 云计算介绍之云计算存储(1)
+ ## [Web3.0 的宏观架构](https://blog.csdn.net/Yikuailianxi/article/details/90667520)
+ > Web3.0 的宏观架构
+ ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
+ > 云计算介绍之云计算存储(2)
+ ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
+ > 看了这篇帖子，终于对大数据和云计算有点认识了
+ ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
+ > 阿里云DataV专业版发布，为可视化创造更多可能！
+ ## [微服务架构、分布式架构、传统架构演化过程洞悉！](https://blog.csdn.net/weixin_44106134/article/details/90676521)
+ > 微服务架构、分布式架构、传统架构演化过程洞悉！
+ ## [云计算面试题知识汇总，云计算面试经验讲解](https://blog.csdn.net/qfxulei/article/details/91446695)
+ > 云计算面试题知识汇总，云计算面试经验讲解
+ ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
+ > 云计算介绍之云计算服务器
+ ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
+ > 大数据与云计算概念的解析
+ ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
+ > 云计算、大数据、人工智能之间的关系，总章
+ ## [【云计算】阿里云云计算专业认证考试](https://blog.csdn.net/lsj960922/article/details/90901467)
+ > 【云计算】阿里云云计算专业认证考试
+ ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
+ > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
+ ## [Android移动开发--对图形图像处理的介绍与应用](https://blog.csdn.net/linyu0119/article/details/90695161)
+ > Android移动开发--对图形图像处理的介绍与应用
+ ## [探索Flutter配置过程中的坑](https://blog.csdn.net/HflyDragon/article/details/91450225)
+ > 探索Flutter配置过程中的坑
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [调查丨弹个车零首付购车等涉虚假宣传，融资租赁故事难讲](http://www.lanjingtmt.com/news/detail/43324.shtml)
- > “0-1成超低首付，假如买一辆20万的车，在弹个车上开走仅需2万。”弹个车App屏广告中清楚地介绍道，其相比传统购车渠道的优势。这塑造了当下弹个车的特色，也让其陷入争议。
+ > “0-1成超低首付，假如买一辆20万的车，在弹个车上开走仅需2万。”弹个车App开屏广告中清楚地介绍道，其相比传统购车渠道的优势。这塑造了当下弹个车的特色，也让其陷入争议。
 # 人工智能 
- ## [天呀！人工智能会像Android和iOS一样，归于平淡吗？](https://blog.csdn.net/CSDNedu/article/details/93718205)
- > 天呀！人工智能会像Android和iOS一样，归于平淡吗？
- ## [5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析](https://blog.csdn.net/weixin_44179909/article/details/91580475)
- > 5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析
- ## [物联网卡智能家居 着力解决用户需求](https://blog.csdn.net/qq_40798435/article/details/91046931)
- > 物联网卡智能家居 着力解决用户需求
- ## [区块链基础知识25讲-各讲地址整理](https://blog.csdn.net/qq_40061206/article/details/91348024)
- > 区块链基础知识25讲-各讲地址整理
- ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
- > 大数据与云计算知识点
- ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
- > 云计算介绍之云计算存储(2)
- ## [金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点](https://blog.csdn.net/IFTNews/article/details/90767019)
- > 金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点
- ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
- > 物联网与边缘计算的融合
- ## [区块链金融及其应用](https://blog.csdn.net/kaihuiguoji/article/details/90780490)
- > 区块链金融及其应用
- ## [云计算面试题及答案，云计算工程师面试题集锦](https://blog.csdn.net/qfxulei/article/details/90644303)
- > 云计算面试题及答案，云计算工程师面试题集锦
- ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
- > 大数据与云计算概念的解析
- ## [【云计算】阿里云云计算专业认证考试](https://blog.csdn.net/lsj960922/article/details/90901467)
- > 【云计算】阿里云云计算专业认证考试
- ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
- > 看了这篇帖子，终于对大数据和云计算有点认识了
- ## [以太坊-理解区块链](https://blog.csdn.net/qq_40452317/article/details/90690830)
- > 以太坊-理解区块链
- ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
- > 物联网卡还可以用在农业自动化的哪些方面
+ ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
+ > 项目研发管理经验交流
+ ## [人工智能之问](https://blog.csdn.net/hcgx2018/article/details/90633429)
+ > 人工智能之问
+ ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
+ > 人工智能—— 博弈树的启发式搜索
+ ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
+ > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
+ ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
+ > 人工智能助力反洗钱升级
+ ## [人工智能教程 - 目录](https://blog.csdn.net/jiangjunshow/article/details/77711593)
+ > 人工智能教程 - 目录
+ ## [Redis设计与实现阅读总结（一）数据结构和对象](https://blog.csdn.net/qq_39714960/article/details/91354344)
+ > Redis设计与实现阅读总结（一）数据结构和对象
+ ## [PowerDesigner模型导入SQL出错怎么办](https://blog.csdn.net/weixin_44541076/article/details/91357907)
+ > PowerDesigner模型导入SQL出错怎么办
+ ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
+ > 人工智能会取代艺术家？
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
+ ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
+ > 20年研发管理经验谈（五）
+ ## [人工智能时代的法律挑战](https://blog.csdn.net/fxj2019/article/details/90750643)
+ > 人工智能时代的法律挑战
+ ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
+ > 大家的人工智能——正规方程
+ ## [SQLITE学习之SQLITE基础知识(二)](https://blog.csdn.net/cainiaoxiakexing/article/details/91872976)
+ > SQLITE学习之SQLITE基础知识(二)
+ ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
+ > 20年研发管理经验谈（八）
 # PM 
+ ## [针对“语音助手”类产品，浅谈对话式交互设计](http://www.woshipm.com/pd/2514378.html)
+ > 今天给大家分享一篇针对“语音助手”类产品的对话式交互进行讨论的文章，希望带给你更多帮助。说到语音设计大家脑海里会浮现出各种科幻场景，其实语音设计离我们并不远...
+ ## [我们这届营销人要被95后“增长黑客”取代了吗？](http://www.woshipm.com/operate/2509665.html)
+ > “增长黑客”是我们这届营销人的挑战者吗？作者从自身经历出发，由浅入深，为我们讲述了营销的发展，探讨了“增长黑客”的深层概念。一、我们这届营销人的内忧外患焦虑，...
+ ## [竞品分析 | 京东“简单点”，社区电商的探索之路能否一帆风顺？](http://www.woshipm.com/evaluating/2513024.html)
+ > 本文笔者将从市场分析、产品定位、功能分析对比、用户体验、运营及商业化手段等模块来对京东-简单点与其竞品小红书、蘑菇街、网易考拉进行分析对比，主要针对相应的功能...
+ ## [现金贷系列（二）：借贷模式与前端产品](http://www.woshipm.com/it/2510449.html)
+ > 在第一篇文章中，作者为我们介绍了现金贷的行业概况。而这次，他将为我们介绍现金贷的相关前端产品，一起来看看吧。嗨，我是yizhe，今天来继续现金贷系列，本系列为入...
+ ## [用数据说话，打造系统流量抓取体系](http://www.woshipm.com/marketing/2510544.html)
+ > 对于互联网行业来说，流量抓取是最重要的工作。但是流量抓取却离不开数据的支撑，在这篇文章中，作者从数据的必要性，到如何进行数据分析都给出了自己的方法。01关注...
+ ## [To B业务的运营工作（下）](http://www.woshipm.com/operate/2512209.html)
+ > 当运营需要参与产品更新的工作内容时，主要会负责什么工作呢？本文作者详细叙述了大致的工作流程，供大家参考。既然讨论到ToB业务，产品迭代是重中之重。所以这一部分...
  ## [10个最新优秀手机应用界面设计实例](http://www.chanpin100.com/article/108765)
  > 这里为大家整理了10款最新优秀手机端应用设计作品，也希望对广大UX/UI 设计师朋友有所帮助。
  ## [家乐福改姓苏，苏宁靠什么拿下家乐福？](http://www.chanpin100.com/article/108764)
