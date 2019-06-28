@@ -1,20 +1,20 @@
 ---
 title: 2019-06-28 IT News
 copyright: true
-date: 2019-06-28 08:01:08
+date: 2019-06-28 09:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [什么是光神经网络?](http://mp.weixin.qq.com/s?src=11&timestamp=1561680004&ver=1695&signature=-IdttntLaY*21uOKyQBzB2R2QrvkriiW42FKsZishdVen6ppGKkMUlpawISdOijzpPdN4*OVwt2dvKJUIKcdyWss6jTKjku32bFyzPbUvx0vSCbwuEZlVkuWC7Gvuqbp&new=1)
- > 简介光神经网络是利用光技术，如光连接技术和光器件技术而形成的一种新型网络。它具有超并行处理和传输信息的能力，高密度引线能力和可对图像直接进行处理的独特优点。它的基本组成单元是光神经元器件和光突触器...
- ## [第一波5G手机明年断网废了?真相了!](http://mp.weixin.qq.com/s?src=11&timestamp=1561680004&ver=1695&signature=zGD8078TIjQGeTdxF0PbTGwn3-oMw5LVrXNF4Juq9e4TPcTRtxt7uJOboKCoed3Y5i1nZkud0DdybTwzz9*gY1cBszacKXJuKMUmkpxCaY1J70p1ol3YK2cTDUyXbmen&new=1)
+ ## [第一波5G手机明年断网废了?真相了!](http://mp.weixin.qq.com/s?src=11&timestamp=1561683605&ver=1695&signature=zGD8078TIjQGeTdxF0PbTGwn3-oMw5LVrXNF4Juq9e4TPcTRtxt7uJOboKCoed3YqSHAfyngVNoGr016rJmAQvoZAScKI9pfdPd9ha74sx0CLiOMlJ-VmHd0uGl0c*ST&new=1)
  > 正文共：1547字 5图预估阅读时间：4 分钟随着5G牌照的发放、MWC上海展会的上演，我们真切地感受到5G时代终于来了，各家运营商、终端厂商都在大力推介自己的5G产品和愿景。不过，由于5G时代的演进方式和以往有所...
- ## [华为招人!今年从全球招20-30名天才少年，明年200-300名，任正非20分钟讲话：天才少年就像泥鳅一样钻活我们](http://mp.weixin.qq.com/s?src=11&timestamp=1561680004&ver=1695&signature=u7FOQnSNPpDoaw*VsA7FYUf*B2PaJTDrzMnfuq4H87VBKTLXqeewOy*oiHzFgEpCXkHzxYyEo1-3AGJ91rFnm5aTJrCloH4W5Hm5sKVkvkrdNgBh*hGZ-0WzXcn6SPVV&new=1)
- > 人才、人才、还是人才，华为对人才十分渴望。华为6月27日发布全员邮件，披露了任正非在EMT《20分钟》的讲话，任正非说，“今年我们将从全世界招20-30名天才少年，明年我们还想从世界范围招进200-300名。这些天才...
- ## [5G的四个待解命题](http://mp.weixin.qq.com/s?src=11&timestamp=1561680004&ver=1695&signature=9JKh-h-Rfeyac-575XDTbL7GoM45tHamcH4qPZzmcX9eO9go*HPic5aXoZ-X*KDqChFXVO04l3GlRXb7vkGUDt3NoHBAZcg4sCK0JDGnW6sx58rg-jQYwQhDygYH77RJ&new=1)
+ ## [什么是光神经网络?](http://mp.weixin.qq.com/s?src=11&timestamp=1561683605&ver=1695&signature=-IdttntLaY*21uOKyQBzB2R2QrvkriiW42FKsZishdVen6ppGKkMUlpawISdOijz*oXviQ0mKVvlQEnrBOFjoIvP3j0faczMCU-xrvMkEs4dfFJ1FC3-pBpCR9bIrjNb&new=1)
+ > 简介光神经网络是利用光技术，如光连接技术和光器件技术而形成的一种新型网络。它具有超并行处理和传输信息的能力，高密度引线能力和可对图像直接进行处理的独特优点。它的基本组成单元是光神经元器件和光突触器...
+ ## [5G的四个待解命题](http://mp.weixin.qq.com/s?src=11&timestamp=1561683605&ver=1695&signature=9JKh-h-Rfeyac-575XDTbL7GoM45tHamcH4qPZzmcX9eO9go*HPic5aXoZ-X*KDqXLM2POVDsQ53H9TjsZIF23fea8LLDMCj-XJ-MZeWdVJDhufGMMSWYpLNsuRzhbwH&new=1)
  > 5G在“找朋友”6月27日，“2019世界移动大会·上海”（简称MWC上海）进入第二天，作为我国正式发放5G商用牌照后的第一个全球通信行业盛会，5G成为两日来最大的焦点。 在27日上午，中国移动政企分公司举办“5G·...
- ## [华为的战斗才刚开始!手机操作系统往事](http://mp.weixin.qq.com/s?src=11&timestamp=1561680004&ver=1695&signature=abAXkpTAXEidkHU6YGk1BWfxnjNrrC0JrfakDc59DLzGSBSZRCBstfEBCp0jDZIVJd9VLCtCjvQgx9MR0gsFwz0KVJ8NDnNsgCBkMPc-hmIO3fH8XokmRZEN894l2LXq&new=1)
+ ## [华为招人!今年从全球招20-30名天才少年，明年200-300名，任正非20分钟讲话：天才少年就像泥鳅一样钻活我们](http://mp.weixin.qq.com/s?src=11&timestamp=1561683605&ver=1695&signature=u7FOQnSNPpDoaw*VsA7FYUf*B2PaJTDrzMnfuq4H87VBKTLXqeewOy*oiHzFgEpCrCd03kzaO0ynVjjT*SO-iFBmJPqlR41pjcasMe1ZwDet1DlE6f1cT4jRpruwnTup&new=1)
+ > 人才、人才、还是人才，华为对人才十分渴望。华为6月27日发布全员邮件，披露了任正非在EMT《20分钟》的讲话，任正非说，“今年我们将从全世界招20-30名天才少年，明年我们还想从世界范围招进200-300名。这些天才...
+ ## [华为的战斗才刚开始!手机操作系统往事](http://mp.weixin.qq.com/s?src=11&timestamp=1561683605&ver=1695&signature=abAXkpTAXEidkHU6YGk1BWfxnjNrrC0JrfakDc59DLzGSBSZRCBstfEBCp0jDZIVJBfizn7d7xzIBJTvTxpLE9*U6KOz1fFAV7v8f6rrSmTn8UT846TkbKiSaB9GSrcf&new=1)
  > 问大家一个问题：这个世界上最流行的操作系统（包括电脑、手机用的），是哪一款？。。。。。。相信很多人心里第一个想到的是——Windows。这个答案，可以算对，但也不对。按照 Statcounter 的统计数据，尽管 Win...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,71 +73,81 @@ categories: IT NEWS
  > Linux和Windows下如何快速查找电脑计算机端口被谁占用
  ## [一文看懂怎么用Python做数据分析](http://bigdata.51cto.com/art/201906/598427.htm)
  > 一文看懂怎么用Python做数据分析
+ ## [2019年工业物联网的8个趋势](http://iot.51cto.com/art/201906/598502.htm)
+ > 在2019年，企业将利用工业制造领域的进步技术，并采取更大胆的措施来提高增长和运营效率。以下是2019年工业
+ ## [华为“鸿蒙”所涉及的微内核到底是什么？一文带你认识微内核](http://os.51cto.com/art/201906/598503.htm)
+ > 华为的鸿蒙系统搭载的内核和安卓的完全不一样，安卓使用的是宏内核，而华为使用的则是另外一款全新的构架微
+ ## [车联网应用现状与未来分析](http://iot.51cto.com/art/201906/598501.htm)
+ > 今年5G商业牌照的发布更是将车联网的大范围商业落地也往前推进了一大步，相信两三年后，量产具备车联网功能
+ ## [为什么物联网有利于隐私和安全的未来](http://iot.51cto.com/art/201906/598500.htm)
+ > 物联网有望继续发展互联网，并提高我们对如何使用连网资产解决问题和改善人类生活的理解。在本文中，我们将
+ ## [工业物联网：需要考虑的效率](http://iot.51cto.com/art/201906/598499.htm)
+ > 工厂中的连网设备包括传感器、致动器和控制器，它们可以监视生产流程或其环境中的许多不同因素。其中获得连
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [做物联网平台，MongoDB是首选](https://blog.csdn.net/qq_29718979/article/details/90679239)
- > 做物联网平台，MongoDB是首选
- ## [区块链基础知识25讲-各讲地址整理](https://blog.csdn.net/qq_40061206/article/details/91348024)
- > 区块链基础知识25讲-各讲地址整理
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
- > 大数据、云计算、物联网三者的区别和关联
- ## [浅谈个人对大城市程序员与小城市程序员的感想...](https://blog.csdn.net/qq_38400856/article/details/90771994)
- > 浅谈个人对大城市程序员与小城市程序员的感想...
- ## [理解区块链中的不变性](https://blog.csdn.net/weixin_44172023/article/details/91414178)
- > 理解区块链中的不变性
- ## [除了参与建设，5G还能给通信服务商带来什么？](https://blog.csdn.net/qq_34449351/article/details/91866627)
- > 除了参与建设，5G还能给通信服务商带来什么？
- ## [区块链金融及其应用](https://blog.csdn.net/kaihuiguoji/article/details/90780490)
- > 区块链金融及其应用
- ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
- > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
- ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
- > 京东技术架构师总结：深入理解Spring中的各种注解
- ## [《区块链100问》1-50集](https://blog.csdn.net/luohai859/article/details/91352049)
- > 《区块链100问》1-50集
- ## [文献阅读-区块链发展技术与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
- > 文献阅读-区块链发展技术与展望
- ## [汽车化身智能车联网全靠物联网卡](https://blog.csdn.net/qq_40798435/article/details/91444684)
- > 汽车化身智能车联网全靠物联网卡
- ## [当物联网系统出现故障：使用低质量物联网数据的风险 | Linux 中国](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/91449272)
- > 当物联网系统出现故障：使用低质量物联网数据的风险 | Linux 中国
+ ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
+ > 关于“人工智能”的一点思考
+ ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
+ > 大数据与云计算概念的解析
+ ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
+ > 人工智能助力反洗钱升级
+ ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
+ > 人工智能会取代艺术家？
+ ## [微服务架构之「 访问安全 」](https://blog.csdn.net/jsjwk/article/details/91831618)
+ > 微服务架构之「 访问安全 」
+ ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
+ > 看了这篇帖子，终于对大数据和云计算有点认识了
+ ## [在一个局域网中，共享的项目别人访问不了，解决方法](https://blog.csdn.net/AdminPwd/article/details/91787120)
+ > 在一个局域网中，共享的项目别人访问不了，解决方法
+ ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
+ > 人工智能--状态空间的盲目搜索
+ ## [人工智能的应用与发展历程](https://blog.csdn.net/fadsf15/article/details/90750667)
+ > 人工智能的应用与发展历程
+ ## [随笔——人工智能](https://blog.csdn.net/newbie_Blogger/article/details/90759117)
+ > 随笔——人工智能
+ ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
+ > 大家的人工智能——正规方程
+ ## [一家人工智能公司的价值观](https://blog.csdn.net/adsd165/article/details/91042308)
+ > 一家人工智能公司的价值观
+ ## [【云计算】阿里云云计算专业认证考试](https://blog.csdn.net/lsj960922/article/details/90901467)
+ > 【云计算】阿里云云计算专业认证考试
+ ## [nginx配置学习安全技巧](https://blog.csdn.net/qq_29556507/article/details/91043440)
+ > nginx配置学习安全技巧
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [机遇与挑战并存之下，腾讯电竞的生意经如何打通？](http://www.lanjingtmt.com/news/detail/43354.shtml)
  > 据《英雄联盟中国电竞白皮书》显示，中国电竞产业的发展仍面临很多挑战，除大众认知度、认同度以及社会价值需继续提升与深化外，电竞赛事在生态建设、商业变现等方面，仍与传统体育存在差距。
 # 人工智能 
- ## [汽车化身智能车联网全靠物联网卡](https://blog.csdn.net/qq_40798435/article/details/91444684)
- > 汽车化身智能车联网全靠物联网卡
- ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
- > 物联网与边缘计算的融合
- ## [消费物联网、工业物联网应用场景中的有线、无线连接协议综合分析](https://blog.csdn.net/weixin_44179909/article/details/91518165)
- > 消费物联网、工业物联网应用场景中的有线、无线连接协议综合分析
- ## [C语言学习笔记---查漏补缺](https://blog.csdn.net/lyb8010/article/details/91350434)
- > C语言学习笔记---查漏补缺
- ## [物联网卡可帮助解决物联网数据安全问题](https://blog.csdn.net/qq_40798435/article/details/91871290)
- > 物联网卡可帮助解决物联网数据安全问题
- ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
- > Go语言-----入门笔记
- ## [物联网卡智能家居 着力解决用户需求](https://blog.csdn.net/qq_40798435/article/details/91046931)
- > 物联网卡智能家居 着力解决用户需求
- ## [物联网第六步： Tornado的部署](https://blog.csdn.net/sinat_26940175/article/details/91038186)
- > 物联网第六步： Tornado的部署
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [【编程语言】PHP完全自学手册](https://blog.csdn.net/lsj960922/article/details/91042869)
- > 【编程语言】PHP完全自学手册
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [应届生自学Python两个月，为什么找不到工作？](https://blog.csdn.net/qq_43720602/article/details/91350609)
- > 应届生自学Python两个月，为什么找不到工作？
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
- > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
+ ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
+ > iOS开发安全 防反编译
+ ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
+ > Docker安全加固之--LXCFS
+ ## [Nginx安全防范配置](https://blog.csdn.net/Tiger_lin1/article/details/91354300)
+ > Nginx安全防范配置
+ ## [决战数据库-spring batch(4)数据库到数据库](https://blog.csdn.net/masson32/article/details/91351279)
+ > 决战数据库-spring batch(4)数据库到数据库
+ ## [【数据库】数据库查询语言SQL](https://blog.csdn.net/C2681595858/article/details/80196989)
+ > 【数据库】数据库查询语言SQL
+ ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
+ >  记·外键之创建、删除
+ ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
+ > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
+ ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
+ > 前端基础入门（9）css盒子
+ ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
+ > 首域金融投资人交流群的四个好处
+ ## [kerbors进行安全验证](https://blog.csdn.net/mn_kw/article/details/90746975)
+ > kerbors进行安全验证
+ ## [安全的路由交换--端口安全](https://blog.csdn.net/zhaotiannuo_1998/article/details/90705186)
+ > 安全的路由交换--端口安全
+ ## [Web前端篇：css背景属性和边框属性](https://blog.csdn.net/ITmiaomiao666/article/details/91899241)
+ > Web前端篇：css背景属性和边框属性
+ ## [【甄选资讯】日本设计行业优秀的设计网站](https://blog.csdn.net/uzing/article/details/91829114)
+ > 【甄选资讯】日本设计行业优秀的设计网站
+ ## [web安全之文件上传漏洞](https://blog.csdn.net/xlsj228/article/details/90756195)
+ > web安全之文件上传漏洞
+ ## [Redis设计与实现阅读总结（一）数据结构和对象](https://blog.csdn.net/qq_39714960/article/details/91354344)
+ > Redis设计与实现阅读总结（一）数据结构和对象
 # PM 
  ## [产品经理周报第 73 期｜谷歌推出地理位置历史自动删除功能；微信将推出“发送语音过程”转文字功能](http://www.woshipm.com/it/2518714.html)
  > 这是六月份最后的一个工作日啦不知不觉中，一年已经过去一半了大家立下的flag有没有实现呢？年中总结写起来了没有呀要是还没动笔的话，现在可以开始了毕竟小编还...
