@@ -1,20 +1,20 @@
 ---
 title: 2019-06-29 IT News
 copyright: true
-date: 2019-06-29 08:01:10
+date: 2019-06-29 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [工信部发布5G震撼宣传片，扒扒5G相关核心产业链](http://mp.weixin.qq.com/s?src=11&timestamp=1561766405&ver=1697&signature=5ySc6L7dGdZ0xtrwxU54olWO6U3opGyRp6Mc6DjS27knglAtdMF7xnZUVvUij-al*nZhd-JFOaC1SQC5tXCrHxdRUS-DYEigvIrCQXlhwvaMpAlIz-xnFLz4QBJ2DWDf&new=1)
- > 导语最近，在工业和信息化部的支持下，由中国信息通信研究院和产业界核心单位共同发起组建的5G应用产业方阵成立大会上，《5G，未来已来》宣传片首次发布。宣传片从一家人的视角展开，畅想了未来5G生活和智能社会...
- ## [中国移动5G套餐曝光，200G流量够吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561766405&ver=1697&signature=OeWIbm30p5AqGGefMMiKRnQuCCJq7CAv8XToj0H-3Or36h6yaqyjH8k3XdIcgO9Vh1IMO2*EMliJqqCL15OBZ6LOsyt-9YSzsxXrE9c0Cxmr*Dx24ALYUfa1an2fWbuK&new=1)
- > 最近关于5G的消息越来越多，今天小黑来给大家做个小汇总，一起来看看吧。首先是大家最关心的5G套餐方面的消息，在中国移动最近召开的“5G+发布会”上，中国移动公布了一个5G测试统一套餐。这个5G套餐包含了每月2...
- ## [一年换了5家运营商，亲身经历告诉你，英国电话卡的那些坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1561766405&ver=1697&signature=iLjXgv8a9FNqVOOJ2pwdreIJH65x4FLSkTLKi62EEG73y-swCOW6u0Cfqf28TIPFUXMppjDZ-aWv0QaaMEOmfBNPEynlCzzFDTB6AuRroDUMGAeCqu06WlSWsQCmTuqk&new=1)
+ ## [一年换了5家运营商，亲身经历告诉你，英国电话卡的那些坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1561770005&ver=1697&signature=iLjXgv8a9FNqVOOJ2pwdreIJH65x4FLSkTLKi62EEG7RhBcmjIBTjy7vn-CYzhNR5j2l8vp20UnbjgGi46y*Mi*jVeBJMKraIh8o10iroAKgPWRp65qhbo1y*siFkpfT&new=1)
  > 很多人都觉得来英国留学的宝宝们都“特有钱”，可其实很多留学生都明白，作为“穷学生”，日常消费总是要精打细算...图：giphy圈哥就有一个处女座（此处不黑）的室友，带着圈哥逛了一下午商场里的各家运营商店面...
- ## [20家优秀生态伙伴获奖!机器人创新生态支持2019国际人工智能与机器人创新生态大会，加速机器人4.0时代产业升级](http://mp.weixin.qq.com/s?src=11&timestamp=1561766405&ver=1697&signature=m475jM44SgmmDO0CPY6cXx7H5vVPw6V3CNYB1pG8l2SnSFgtgW1bu-llXXgnYL9vBR7kZvdX7FDlsC*6PE9i2rkfjemXSFVgU03tASR*rL7tu6MNMK-wzoKt-FGPSPLd&new=1)
+ ## [20家优秀生态伙伴获奖!机器人创新生态支持2019国际人工智能与机器人创新生态大会，加速机器人4.0时代产业升级](http://mp.weixin.qq.com/s?src=11&timestamp=1561770005&ver=1697&signature=m475jM44SgmmDO0CPY6cXx7H5vVPw6V3CNYB1pG8l2QDfi24Owh5SVIXaCfAhPMW3TVnXhI2SiHU68e-Ca*c7FMnvyVsY27AjZN6py0Z4nbYFf4eNaB1gMkKKTu8Jw1K&new=1)
  > 导读：由南京市人民政府外事办公室、南京市科技局、南京经济技术开发区主办的2019国际人工智能与机器人创新生态大会于南京举办。英特尔&amp;硬蛋机器人创新生态给予本次活动大力支持作为2019“南京创新周”的重点活...
- ## [南方电网洪丹轲：电网5G商用进入“深水区”](http://mp.weixin.qq.com/s?src=11&timestamp=1561766405&ver=1697&signature=HZezF0p0BjrK2Gr*MwZNOFtiXmSlg9YeAo6iNyvMGyV0eYMhm53S18NqID3ZFDFejGaTrlMvQ2o-LQCB-TvZGYZS2xSFfaOEt0jX9CidL0-tVTthG9U0crEEUkmnB3nB&new=1)
+ ## [中国移动5G套餐曝光，200G流量够吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561770005&ver=1697&signature=OeWIbm30p5AqGGefMMiKRnQuCCJq7CAv8XToj0H-3OqDLD6eCP8Ce8saVcMHz2ik46hLQ4eoAtO69GCyzYqdoTR4Fz-ZdeT2u7PEaFWAQHYOYZJ4IkcUX4qjXv20f0RZ&new=1)
+ > 最近关于5G的消息越来越多，今天小黑来给大家做个小汇总，一起来看看吧。首先是大家最关心的5G套餐方面的消息，在中国移动最近召开的“5G+发布会”上，中国移动公布了一个5G测试统一套餐。这个5G套餐包含了每月2...
+ ## [工信部发布5G震撼宣传片，扒扒5G相关核心产业链](http://mp.weixin.qq.com/s?src=11&timestamp=1561770005&ver=1697&signature=5ySc6L7dGdZ0xtrwxU54olWO6U3opGyRp6Mc6DjS27n-t9KtNlUMjJhkMHS0soSFKl6Gqy6Y9tgaTXlPFcgcK60YDcTbr9DPhARu76m4JyqbWRuQGG8USaL5Mi9YUu5S&new=1)
+ > 导语最近，在工业和信息化部的支持下，由中国信息通信研究院和产业界核心单位共同发起组建的5G应用产业方阵成立大会上，《5G，未来已来》宣传片首次发布。宣传片从一家人的视角展开，畅想了未来5G生活和智能社会...
+ ## [南方电网洪丹轲：电网5G商用进入“深水区”](http://mp.weixin.qq.com/s?src=11&timestamp=1561770005&ver=1697&signature=HZezF0p0BjrK2Gr*MwZNOFtiXmSlg9YeAo6iNyvMGyVFd6CHOKZ31IixjgQYvLJbAlbYEE9LlTyApu1r3QNaqasqNf-3SA0HHiYERHwg4qK6OWXaazG84t-8*9iwV0wU&new=1)
  > “随着国家能源战略发展的革命，传统的电网向智能电网转型已成为必然趋势。发展安全、可靠、绿色、安全的智能电网是大势趋势。”在6月25日MWC19上海期间举办的“5G is ON峰会”（以下简称峰会）上，中国南方电网...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,34 +75,34 @@ categories: IT NEWS
  > MySQL单表数据量超过2000万性能急剧下降的说法靠谱？
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [数据库：TimescaleDB创建、插入、查询表](https://blog.csdn.net/weixin_43731793/article/details/90759890)
- > 数据库：TimescaleDB创建、插入、查询表
- ## [SQLITE学习之SQLITE基础知识(二)](https://blog.csdn.net/cainiaoxiakexing/article/details/91872976)
- > SQLITE学习之SQLITE基础知识(二)
- ## [构建MySQL服务器以及基本应用](https://blog.csdn.net/xiaozhedeitzhilu/article/details/91356538)
- > 构建MySQL服务器以及基本应用
- ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
- > 大数据与云计算知识点
- ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
- > redis设计与实现 二
- ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
- > 大家的人工智能——正规方程
- ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
- > 看了这篇帖子，终于对大数据和云计算有点认识了
- ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
- > 大数据与云计算概念的解析
- ## [什么是代理IP](https://blog.csdn.net/duyun123456/article/details/91129886)
- > 什么是代理IP
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
- ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
- > 关系数据库系统（数据库原理）
- ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
- > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
- ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
- > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
- ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
- > 区块链如何改变人工智能
+ ## [linux第一阶段学习笔记基础](https://blog.csdn.net/qq_31300229/article/details/91607040)
+ > linux第一阶段学习笔记基础
+ ## [计算中本聪如何设置的比特币数量](https://blog.csdn.net/sinat_38189661/article/details/91429053)
+ > 计算中本聪如何设置的比特币数量
+ ## [运维进阶——firewall详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91048608)
+ > 运维进阶——firewall详解
+ ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
+ > 《区块链基础知识25讲》-第二十四讲-使用区块链
+ ## [36 守护进程、守护线程、锁](https://blog.csdn.net/weixin_43265998/article/details/91549552)
+ > 36 守护进程、守护线程、锁
+ ## [以太坊-理解区块链](https://blog.csdn.net/qq_40452317/article/details/90690830)
+ > 以太坊-理解区块链
+ ## [IT运维服务管理](https://blog.csdn.net/q947448283/article/details/91492749)
+ > IT运维服务管理
+ ## [区块链基础知识25讲-各讲地址整理](https://blog.csdn.net/qq_40061206/article/details/91348024)
+ > 区块链基础知识25讲-各讲地址整理
+ ## [运维葵花宝典](https://blog.csdn.net/kehana/article/details/90765448)
+ > 运维葵花宝典
+ ## [运维入门之bash shell脚本五](https://blog.csdn.net/qq_42103479/article/details/90900427)
+ > 运维入门之bash shell脚本五
+ ## [前端基础概念的整理](https://blog.csdn.net/mondy592/article/details/91130250)
+ > 前端基础概念的整理
+ ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
+ > 算法基础===》==》=》查找
+ ## [区块链 2.0：房地产区块链（四） | Linux 中国](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/90709326)
+ > 区块链 2.0：房地产区块链（四） | Linux 中国
+ ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
+ > 信息系统安全运维
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [公链史记 | 从鸿蒙初辟到万物生长的十年激荡](https://blog.csdn.net/csdnnews/article/details/94078818)
@@ -116,36 +116,36 @@ categories: IT NEWS
  ## [六维图见过么？Python 画出来了！](https://blog.csdn.net/csdnnews/article/details/93987770)
  > 作者 | Prasad Ostwal译者 | 高级农民工我们的大脑通常最多能感知三维空间，超过三维就很难想象了。尽管是三维，理解起来也很费劲，所以大多数情况下都使用二维平...
 # 人工智能 
- ## [ARFoundation之路－架构及术语](https://blog.csdn.net/yolon3000/article/details/91866650)
- > ARFoundation之路－架构及术语
- ## [C七层架构 ----【登录】](https://blog.csdn.net/qq_30631063/article/details/91592006)
- > C七层架构 ----【登录】
- ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
- > 【编程语言】Swift完全自学手册
- ## [Oracle - 学校图书管理系统（三层架构）](https://blog.csdn.net/qq_42292831/article/details/90725824)
- > Oracle - 学校图书管理系统（三层架构）
- ## [关于java架构心得](https://blog.csdn.net/rongshisuo/article/details/90757849)
- > 关于java架构心得
- ## [微服务架构-雪崩效应](https://blog.csdn.net/mi_duo/article/details/91850809)
- > 微服务架构-雪崩效应
- ## [C语言学习笔记---查漏补缺](https://blog.csdn.net/lyb8010/article/details/91350434)
- > C语言学习笔记---查漏补缺
- ## [Hadoop架构概述](https://blog.csdn.net/weixin_40898246/article/details/91043830)
- > Hadoop架构概述
- ## [Tomcat：正统的类加载器架构](https://blog.csdn.net/huqianlei/article/details/91478653)
- > Tomcat：正统的类加载器架构
- ## [【编程语言】PHP完全自学手册](https://blog.csdn.net/lsj960922/article/details/91042869)
- > 【编程语言】PHP完全自学手册
- ## [微服务架构之优雅停机](https://blog.csdn.net/weixin_44946117/article/details/90700267)
- > 微服务架构之优雅停机
- ## [使用阿里短信服务发送终端报警数据](https://blog.csdn.net/m0_38008027/article/details/91571948)
- > 使用阿里短信服务发送终端报警数据
+ ## [web前端篇:html基础知识（2）](https://blog.csdn.net/ITmiaomiao666/article/details/91622292)
+ > web前端篇:html基础知识（2）
+ ## [浅谈个人对大城市程序员与小城市程序员的感想...](https://blog.csdn.net/qq_38400856/article/details/90771994)
+ > 浅谈个人对大城市程序员与小城市程序员的感想...
+ ## [德比资讯隐私条款](https://blog.csdn.net/weixin_42093585/article/details/91886766)
+ > 德比资讯隐私条款
+ ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
+ > 最简单的深度学习入门书《动手学深度学习》
+ ## [前端js入门——JavaScript 对象直接量](https://blog.csdn.net/fenghulun/article/details/91049993)
+ > 前端js入门——JavaScript 对象直接量
+ ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
+ > 前端基础入门（9）css盒子
  ## [从汇编语言到高级编程语言的演变](https://blog.csdn.net/cq20110310/article/details/91044796)
  > 从汇编语言到高级编程语言的演变
- ## [典型的CNN架构](https://blog.csdn.net/weixin_43442290/article/details/91490436)
- > 典型的CNN架构
- ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
- > Go语言-----入门笔记
+ ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
+ > 前端基础入门（13）contenteditable 属性
+ ## [Web前端篇：css背景属性和边框属性](https://blog.csdn.net/ITmiaomiao666/article/details/91899241)
+ > Web前端篇：css背景属性和边框属性
+ ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
+ > 要转行Python又不清楚行业现状和前景，这样怎么能行？
+ ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
+ > 京东技术架构师总结：深入理解Spring中的各种注解
+ ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
+ > 20七八岁的陷阱
+ ## [哪些程序员容易走上管理岗位，看看有没有你](https://blog.csdn.net/epubit17/article/details/90898525)
+ > 哪些程序员容易走上管理岗位，看看有没有你
+ ## [大专简单的2年程序人生](https://blog.csdn.net/zhangzhishi123/article/details/90901089)
+ > 大专简单的2年程序人生
+ ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
+ > 与操作系统导论对话
 # PM 
  ## [2019年最新职业教育类App榜单丨看看谁来唤醒金融公考IT职业第二春？](http://www.chanpin100.com/article/108779)
  > 职业教育行业触网较早，截止目前为止，职业教育行业教学产品应用类型丰富并已基本实现标准化产出，但由于需求各异，因此目前国内互联网职业教育的细分领域繁复并且发展速度呈现明显差异化。以金融类教育、公考类的培训以及IT技能培训等为主的领域发展较为成熟，课程受到用户青睐，价格和教学效果是用户关注的重点。
