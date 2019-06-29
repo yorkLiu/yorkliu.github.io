@@ -1,30 +1,42 @@
 ---
 title: 2019-06-29 IT News
 copyright: true
-date: 2019-06-29 12:01:46
+date: 2019-06-29 17:01:42
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [安防+消防+交通 2019贵州安防展精彩开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=-3scUg0dJ-wGhqo1enA8bJw4sjS6QsoUcoc0SuD*W6cP*3n-JYuEVoH16rnqq9kq2aU9lNhTWHw0wnjCgqyEKl30XJh-3EUEQl93BSKzWYQ8i-VuaGLeQulngEAZR46w&new=1)
- > 6月28日，2019中国·贵州综合应急救援装备、消防安全智能产品暨智能交通设备丶社会公共安全产品展览会(以下简称“2019贵州安防展”)在贵阳国际会议中心盛大开幕！安防展览网作为展会合作媒体单位出席会议，带来...
- ## [支持QQ的儿童手表!高通携手出门问问带来全新可穿戴体验](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=VaNx7rmxUjfs1HBJ81Wlh7zeNsSLEYzFFjsv8Zd0uv*voWPKdTFzZPWsIQgOcjlZzecqb3Ux2V*8rONkTcyec-JGVZEWqquBJxEbpdp5CQWQXVDZL9PG1tG*gYDfLl3E&new=1)
- > 6月26日至28日的MWC（世界移动通信大会）上海展，吸引了来自世界各地的5G、物联网、人工智能、大数据等科技巨头参加，各大品牌厂商纷纷大秀肌肉，众多新技术、新产品纷纷亮相。其中，高通（Qualcomm）展台展出的...
- ## [五眼联盟曾入侵有“俄罗斯谷歌”之称的Yandex，监视用户账户](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=f9PGkfP6Ke3wJl8myLFtFO3pWxFLMhv5B3l5rqx2-0IA5yErnTGEY6D7FtxgHbkwm8NXZ6bhnw-IfEAsHHr*QkIFMBwjp-IXVGQom-gKgydezUYlOmla7r-anXsEscBZ&new=1)
+ ## [华为专利收费超14亿美元 对外专利付费超60亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=rkqzB5TUnK*6jI9f3Mq35xuNiEwgzJcosoJoTiWBLwdTxBaXpKG9wmKVqsr501VqFvXyhRDjhl5UKvEz2Wpa5aBRCmWPyT8jOUeU2nHMBqki1NYn4inlNVsg6lGFjY9b&new=1)
+ > 在华为本周四的创新和知识产权白皮书发布会上，华为首席法务官宋柳平对外透露，自2015年以来，华为获得的知识产权收入累计超过14亿美元，累计对外支付超过60亿美元专利费用于合法使用其他公司的专利，其中近80%...
+ ## [5G车联网大阅兵：华为、高通争秀V2X 电信移动发力远程驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=X7HXuNh*HYBQIePDHfoEECdLGMUMTR5hvouQoWkv6XY0-8YmwkV9VsGD0d6*uAGitcAdZzR*-wT48vGOcj1dGr152rWfYalV1UQnMFwTLWsWCyCgplPZ3QG1NeASlmzy&new=1)
+ > ch共    看点：一文看懂MWC上海汽车科技，5G-V2X进入落地前夜。车东西 | Bear6月26日-6月28日，2019世界移动通信大会（上海）（以下简称MWC19上海）在上海新国际博览中心如期举行。在此次MWC19上海展会上，超过5
+ ## [未来5G网络如何收费?无外乎就这三种!](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=MTVyIgcBsIZDpVYK0sNzN4fOT*E0J5fKx1E5t0DWzvH0I6NiM9k0O9lVEviMRTbJG7-yEZ4okCsQ-DsUMUymciPDHc2v2PKwfBT3RTyP7s61dvY5Hg85I9gKPXmiNc-j&new=1)
+ > 5G，离我们越来越近了...从去年5G慢慢进入大家的视野，到如今的工信部正式向包含中国移动、中国联通、中国电信以及中国广电四家运营商发放5G商用牌照，再到25日华为终端官方微博发文宣布，华为Mate 20 X获得中国...
+ ## [苹果要凉?因为这个乔布斯背后的男人，苹果今天损失了620亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=mZXq6TpubCKj9RoJwa6s2Aszc86Fn*XjwD64*e-2Eay-xirYE02W8hDW8RGeNEibryAaL4XKLef2sGvnJj8z18V2nWeYCGceukc3325jySnBdvgoGlb4UHWXclI2S0JF&new=1)
+ > 今日快讯苹果要凉？因为这个乔布斯背后的男人，苹果今天损失了620亿！苹果公司宣布，苹果联合创始人乔布斯的密友、在苹果公司供职将近30年的Jony Ive将于2019年稍晚离开，并成立单独的设计公司。Ive曾在设计糖果...
+ ## [5G将如何改变体育产业?](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=QvzGHrPrsFUnnXyJiRb-hR9dFuhWu2-GPiwZOqxqPZO7VT2DQCz3oNpF3qJ-qGBM-T8TnPOAPO*ZBBX5jrHcGSlpB8GzCXFz28j5o8t*4IEIYH2GgPOzSiMl*j9SekoK&new=1)
+ > 文 / 钟方亮这是我们关于5G的第一篇专栏。因为，身在北京朝阳区的我们，能感觉到5G的风大概已经刮到了张家口。6月6日，中国5G正式发牌。6月25日，华为Mate 20 X获得中国首张5G终端电信设备进网许可证。同一天，...
+ ## [五眼联盟曾入侵有“俄罗斯谷歌”之称的Yandex，监视用户账户](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=f9PGkfP6Ke3wJl8myLFtFO3pWxFLMhv5B3l5rqx2-0KRhGJE0kwLoOgCg1bsA3pQ5xuSTQCvn6iAlZd4Wh32qcSNQWny194Fi0FZO6pIp2rH3y6*LJZXO5HAaDCXOJcU&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：知情人士透露，美国、英国、澳大利亚、新西兰和加拿大组成的“五眼联盟”使用恶意软件监视俄罗斯互联网搜索公司Yandex。据外媒报道，知情人士表示，...
- ## [一种全新的安全防护思路之渗透测试丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=JiooHa0w4EB85SLjOmEBHFvmkuoLYRvJXwHkiGNq4TCBfGx8VDEaTLiGFkJjI0sm2LprEiccmnlGMRsr*FzEt7hhe0SJLV5rYA7IGI3Hu69PBVenW3UhWNLBfvzdIEpK&new=1)
- > 一、《通天神偷》小白：最近疯狂迷恋黑客题材电影。大东：又看啥了？小白：《通天神偷》，讲述的是一群代号SNEAKERS的“合法黑客”的故事。 《通天神偷》剧照大东：具体说说呢。小白：SNEAKERS是精通电脑的工业...
- ## [敢为天下先丨十年研发投入让三星成为5G破局者](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=tDbnUHw4q0AbZIh01iszN-EcOgsH6BBbwf8cW3jdD6f33SGJ0G6JoJv6aAiOuxl0J00eEB9Bjb5xs6gcbmVaCbB6Bdd-la9Ex1kjT3KWnwVYgTmFyrfGTOrvn*GNR1Fw&new=1)
+ ## [小米崔宝秋：小米 AIoT 深度拥抱开源](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=RQH1vO2pqcEeESHu4GxyJFG92nkbQc0UPIIhfEmEkgH7brIYQ3d5owp2hCD9E13Xrv1lKPUieqsKVrK-rtMR41xLMOq2z*6j2e4dGe6EiV0L-fJGD6ZRjEyVEKFJ*9xZ&new=1)
+ > 演讲 | 崔宝秋责编 | 胡巍巍出品 | CSND（ID：CSDNnews）6月27日，小米集团副总裁、集团技术委员会主席崔宝秋，出席第十四届开源中国开源世界高峰论坛，并发表《小米 AIoT 的创新发展与开源》的主题演讲。崔宝秋...
+ ## [敢为天下先丨十年研发投入让三星成为5G破局者](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=tDbnUHw4q0AbZIh01iszN-EcOgsH6BBbwf8cW3jdD6fpDPGlqgwrYpCuUFioXICz52Kba0fR-LX2rzeSUVhJuY1TkZEQE8MWN7trRs8BZa1fZGItQ9NieMAtWL7Iz6eO&new=1)
  > 文丨壹观察 宿艺 5G时代，网络与终端先行，三星依靠已商用的端到端方案和毫米波技术优势，正在成为全球5G创新与普及的重要引领者。 与绝大多数中国消费者印象中三星是一家电子消费品牌不同，三星其实是全球重要...
- ## [南方电网洪丹轲：电网5G商用进入“深水区”](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=HZezF0p0BjrK2Gr*MwZNOFtiXmSlg9YeAo6iNyvMGyURxEWjSZLGbepvdnI5ip9agkJAzhu*01s-GFkIl3xinJQK-4kXJt-XmxMYcl1tYT0yb0MsnGQ-PXYpIdUGjvzx&new=1)
+ ## [安防+消防+交通 2019贵州安防展精彩开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=-3scUg0dJ-wGhqo1enA8bJw4sjS6QsoUcoc0SuD*W6dKMktISqSS5llW-t1jAgmPO92f5Hb8UNnxMDiYH6Aa3NmlrPIJKnKHgS*gNbrruCk71Bdg7FG9uy9HinYkhlGr&new=1)
+ > 6月28日，2019中国·贵州综合应急救援装备、消防安全智能产品暨智能交通设备丶社会公共安全产品展览会(以下简称“2019贵州安防展”)在贵阳国际会议中心盛大开幕！安防展览网作为展会合作媒体单位出席会议，带来...
+ ## [一种全新的安全防护思路之渗透测试丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=JiooHa0w4EB85SLjOmEBHFvmkuoLYRvJXwHkiGNq4TDCFkfEzXHqgxx019xscRQ0oVjH5OrPgC9asVDL7RApZknJEdseKgVznZdBSNnimQVMTflZ02zuIJruiaqjN1Ys&new=1)
+ > 一、《通天神偷》小白：最近疯狂迷恋黑客题材电影。大东：又看啥了？小白：《通天神偷》，讲述的是一群代号SNEAKERS的“合法黑客”的故事。 《通天神偷》剧照大东：具体说说呢。小白：SNEAKERS是精通电脑的工业...
+ ## [支持QQ的儿童手表!高通携手出门问问带来全新可穿戴体验](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=VaNx7rmxUjfs1HBJ81Wlh7zeNsSLEYzFFjsv8Zd0uv-pW0tD3CPWTIIJEbIru*pnsa4WUlxV5MeWS6AQXN*41xW3LaM0y0oporzuIQ451Eggrj4QQ8rEdL-zFJ7X4Xj0&new=1)
+ > 6月26日至28日的MWC（世界移动通信大会）上海展，吸引了来自世界各地的5G、物联网、人工智能、大数据等科技巨头参加，各大品牌厂商纷纷大秀肌肉，众多新技术、新产品纷纷亮相。其中，高通（Qualcomm）展台展出的...
+ ## [南方电网洪丹轲：电网5G商用进入“深水区”](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=HZezF0p0BjrK2Gr*MwZNOFtiXmSlg9YeAo6iNyvMGyV8AN7lfdRnlPbNc4encNRm4buBZqr02a-VtmUXQnpy9bPFfnt9cdHkdk96biDCuS7YbgD2EGL3ygT7xWhhlfey&new=1)
  > “随着国家能源战略发展的革命，传统的电网向智能电网转型已成为必然趋势。发展安全、可靠、绿色、安全的智能电网是大势趋势。”在6月25日MWC19上海期间举办的“5G is ON峰会”（以下简称峰会）上，中国南方电网...
- ## [工信部发布5G震撼宣传片，扒扒5G相关核心产业链](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=5ySc6L7dGdZ0xtrwxU54olWO6U3opGyRp6Mc6DjS27kEXvawDKGO5S7RTrfNPFPonZ-K1iQpbAlGoJlr84rN-8PvIV-n1zJ3dxT8WM5VkOzkBlEv4CRr3mtfTtlLzir6&new=1)
+ ## [工信部发布5G震撼宣传片，扒扒5G相关核心产业链](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=5ySc6L7dGdZ0xtrwxU54olWO6U3opGyRp6Mc6DjS27ndjT9l8yPQ-jXgzz5xgNwRA0ARmdrUS5vY9zuAKnMCCPrgwkHgYCTBwLxMGgJngitsrmS69BTg3RMPNvl3G6Sz&new=1)
  > 导语最近，在工业和信息化部的支持下，由中国信息通信研究院和产业界核心单位共同发起组建的5G应用产业方阵成立大会上，《5G，未来已来》宣传片首次发布。宣传片从一家人的视角展开，畅想了未来5G生活和智能社会...
- ## [一年换了5家运营商，亲身经历告诉你，英国电话卡的那些坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=iLjXgv8a9FNqVOOJ2pwdreIJH65x4FLSkTLKi62EEG7hHAYEJmlEDBJwin1V8tuVVxkzJdShyOe805zi4QEfsWrNr-rlTGok5hwru19ox8MRK5T7mjQDEff6V6qQqFYW&new=1)
+ ## [一年换了5家运营商，亲身经历告诉你，英国电话卡的那些坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=iLjXgv8a9FNqVOOJ2pwdreIJH65x4FLSkTLKi62EEG544SFQ-O4NypfgrOv6zEY5Kqin0TK6GFjUmOQRUS3hnMDnNz3C6YGOxkwrLpjlv7upqL7utTEFK07sNpIC66yU&new=1)
  > 很多人都觉得来英国留学的宝宝们都“特有钱”，可其实很多留学生都明白，作为“穷学生”，日常消费总是要精打细算...图：giphy圈哥就有一个处女座（此处不黑）的室友，带着圈哥逛了一下午商场里的各家运营商店面...
- ## [中国移动5G套餐曝光，200G流量够吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=OeWIbm30p5AqGGefMMiKRnQuCCJq7CAv8XToj0H-3Or3nAi0-ivmGYLart-QM1UuraohohUXKoK3yIfFLXhc2nB4gDcGcE30AmOTLpFqNcN4Ktxk1ykziyrgtDquz*Ve&new=1)
+ ## [中国移动5G套餐曝光，200G流量够吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=OeWIbm30p5AqGGefMMiKRnQuCCJq7CAv8XToj0H-3Opdn6dct6YVpwiAtEJHTlOlN02I4KE1cSFYbewlu42nIVO15cwdAE15jgrJutLXQBw5bMf1S3RRkJ5UnntXVUPC&new=1)
  > 最近关于5G的消息越来越多，今天小黑来给大家做个小汇总，一起来看看吧。首先是大家最关心的5G套餐方面的消息，在中国移动最近召开的“5G+发布会”上，中国移动公布了一个5G测试统一套餐。这个5G套餐包含了每月2...
- ## [20家优秀生态伙伴获奖!机器人创新生态支持2019国际人工智能与机器人创新生态大会，加速机器人4.0时代产业升级](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=m475jM44SgmmDO0CPY6cXx7H5vVPw6V3CNYB1pG8l2S5wdx4P6r8g-zltqfJOxOpQJdcwJeCK5QI*FaoZpHALoPQ8SP1wwhNKHRZfj*wsMF1KHjn7--Xf3hUb7BY6fIN&new=1)
+ ## [20家优秀生态伙伴获奖!机器人创新生态支持2019国际人工智能与机器人创新生态大会，加速机器人4.0时代产业升级](http://mp.weixin.qq.com/s?src=11&timestamp=1561798804&ver=1697&signature=m475jM44SgmmDO0CPY6cXx7H5vVPw6V3CNYB1pG8l2TIwKR0-zFarh*HjdyFK7bVk5BmfbupPCQ*VAgKIMS58Il8W08g90q28vPCFUzarMxrJCFko85F5IMpTcbF7omx&new=1)
  > 导读：由南京市人民政府外事办公室、南京市科技局、南京经济技术开发区主办的2019国际人工智能与机器人创新生态大会于南京举办。英特尔&amp;硬蛋机器人创新生态给予本次活动大力支持作为2019“南京创新周”的重点活...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -83,36 +95,40 @@ categories: IT NEWS
  > 被骂了三年，谷歌Dropout专利还是生效了，卡脖子预警
  ## [MySQL单表数据量超过2000万性能急剧下降的说法靠谱？](http://database.51cto.com/art/201906/598482.htm)
  > MySQL单表数据量超过2000万性能急剧下降的说法靠谱？
+ ## [能源物联网漫谈](http://iot.51cto.com/art/201906/598652.htm)
+ > 能源物联网是物联网向能源生产、分配和消费过程的延伸。将所有可能的能源设备连接起来，相互作用，以实现可
+ ## [磁盘的IO重排序与调度策略](http://stor.51cto.com/art/201906/598650.htm)
+ > 本文期望通过一个故事让大家了解磁盘驱动如何对IO进行重排序和调度。
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
- ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
- > 数据库提升知识点汇总
- ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
- > Visual C++游戏编程基础之利用鼠标消息实现贴图
- ## [Redis设计与实现阅读总结（一）数据结构和对象](https://blog.csdn.net/qq_39714960/article/details/91354344)
- > Redis设计与实现阅读总结（一）数据结构和对象
- ## [构建MySQL服务器以及基本应用](https://blog.csdn.net/xiaozhedeitzhilu/article/details/91356538)
- > 构建MySQL服务器以及基本应用
- ## [Python游戏开发平台、脚本系统架构设计](https://blog.csdn.net/ancientear/article/details/91141297)
- > Python游戏开发平台、脚本系统架构设计
- ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
- > IBM-IPD研发管理职能
- ## [UGUI系统--事件系统架构之光线投射模块_04](https://blog.csdn.net/weixin_36285892/article/details/91875054)
- > UGUI系统--事件系统架构之光线投射模块_04
- ## [麻将游戏开发运营这些困难 需要提前了解](https://blog.csdn.net/motianyougame/article/details/91492698)
- > 麻将游戏开发运营这些困难 需要提前了解
- ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
- > 爱的故事，用Jira策划的浪漫婚礼
- ## [【IOS游戏开发】 登陆以及支付SDK总结](https://blog.csdn.net/qq_30054199/article/details/91044280)
- > 【IOS游戏开发】 登陆以及支付SDK总结
- ## [\[业务知识\]研发管理 开发过程管理](https://blog.csdn.net/ZYD45/article/details/90898548)
- > \[业务知识\]研发管理 开发过程管理
- ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
- > 20年研发管理经验谈（五）
- ## [\[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集](https://blog.csdn.net/BuladeMian/article/details/91172411)
- > \[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集
+ ## [数据库知识点整理（秋招面试）](https://blog.csdn.net/weixin_41809206/article/details/91045186)
+ > 数据库知识点整理（秋招面试）
+ ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
+ > 首域金融投资人交流群的四个好处
+ ## [数据库真好玩](https://blog.csdn.net/Lonelyhat/article/details/91796233)
+ > 数据库真好玩
+ ## [前端js入门——JavaScript 作用域](https://blog.csdn.net/fenghulun/article/details/91050051)
+ > 前端js入门——JavaScript 作用域
+ ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
+ > redis设计与实现 二
+ ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
+ > 前端基础入门（13）contenteditable 属性
+ ## [【数据库】数据库查询语言SQL](https://blog.csdn.net/C2681595858/article/details/80196989)
+ > 【数据库】数据库查询语言SQL
+ ## [python之sys模块【获取参数】](https://blog.csdn.net/qq_36016375/article/details/91871325)
+ > python之sys模块【获取参数】
+ ## [Web前端篇：CSS盒模型](https://blog.csdn.net/ITmiaomiao666/article/details/91896947)
+ > Web前端篇：CSS盒模型
+ ## [数据模型（数据库原理）](https://blog.csdn.net/y20_20/article/details/91411556)
+ > 数据模型（数据库原理）
+ ## [SQLITE学习之SQLITE基础知识(二)](https://blog.csdn.net/cainiaoxiakexing/article/details/91872976)
+ > SQLITE学习之SQLITE基础知识(二)
+ ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
+ > 关系数据库系统（数据库原理）
+ ## [web前端篇:CSS使用，样式表特征](https://blog.csdn.net/ITmiaomiao666/article/details/91625943)
+ > web前端篇:CSS使用，样式表特征
+ ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
+ > 运维进阶——iptables详解
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [公链史记 | 从鸿蒙初辟到万物生长的十年激荡](https://blog.csdn.net/csdnnews/article/details/94078818)
@@ -125,54 +141,62 @@ categories: IT NEWS
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
  ## [六维图见过么？Python 画出来了！](https://blog.csdn.net/csdnnews/article/details/93987770)
  > 作者 | Prasad Ostwal译者 | 高级农民工我们的大脑通常最多能感知三维空间，超过三维就很难想象了。尽管是三维，理解起来也很费劲，所以大多数情况下都使用二维平...
+ ## [网易云音乐、喜马拉雅等4款App遭安卓应用商店下架，原因未知](http://www.lanjingtmt.com/news/detail/43371.shtml)
+ > 今日，有网友反馈称，网易云音乐、荔枝FM、企鹅FM、喜马拉雅4款应用程序遭到各大应用商店下架，原因未知。目前这四款已经从安卓应用商店下架，但苹果App Store仍能正常下载。
 # 人工智能 
- ## [SQLITE学习之SQLITE基础知识(一)](https://blog.csdn.net/cainiaoxiakexing/article/details/91816780)
- > SQLITE学习之SQLITE基础知识(一)
- ## [快速自学java编程高级语言干货笔记 -MySQL-事务](https://blog.csdn.net/weixin_44793608/article/details/91348281)
- > 快速自学java编程高级语言干货笔记 -MySQL-事务
- ## [数据库：TimescaleDB创建、插入、查询表](https://blog.csdn.net/weixin_43731793/article/details/90759890)
- > 数据库：TimescaleDB创建、插入、查询表
- ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
- > Go语言-----入门笔记
- ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
- > python3下载抖音视频
- ## [关系数据库、数据库的设计（数据库学习）](https://blog.csdn.net/weixin_43126117/article/details/90758118)
- > 关系数据库、数据库的设计（数据库学习）
- ## [C语言学习笔记---查漏补缺](https://blog.csdn.net/lyb8010/article/details/91350434)
- > C语言学习笔记---查漏补缺
- ## [解压版mysql-5.7.17-winx64的配置安装](https://blog.csdn.net/shine_my/article/details/91788921)
- > 解压版mysql-5.7.17-winx64的配置安装
- ## [BSL编程语言 —— 系统化程序设计](https://blog.csdn.net/CSDoneRight/article/details/90720786)
- > BSL编程语言 —— 系统化程序设计
- ## [环信音视频功能学习总结](https://blog.csdn.net/u013069892/article/details/91879190)
- > 环信音视频功能学习总结
- ## [\[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码](https://blog.csdn.net/adolph_lu/article/details/91348324)
- > \[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码
- ## [串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出](https://blog.csdn.net/One_Month/article/details/90765636)
- > 串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出
- ## [十分钟学会如何开发一个音频播放器（ffmpeg3.2+sdl2.0）](https://blog.csdn.net/XP_online/article/details/90582107)
- > 十分钟学会如何开发一个音频播放器（ffmpeg3.2+sdl2.0）
- ## [万年不变的 Top3 终于变了，6 月编程语言排行榜](https://blog.csdn.net/Coo123_/article/details/91562401)
- > 万年不变的 Top3 终于变了，6 月编程语言排行榜
- ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
- > redis设计与实现 二
+ ## [服务安全与监控3](https://blog.csdn.net/weixin_43669585/article/details/90669987)
+ > 服务安全与监控3
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
+ > iOS开发安全 防反编译
+ ## [初级前端面试题总结](https://blog.csdn.net/Daisy_1/article/details/91614974)
+ > 初级前端面试题总结
+ ## [前端学习记录 Day1（Html）](https://blog.csdn.net/qq_41151659/article/details/91355681)
+ > 前端学习记录 Day1（Html）
+ ## [docker的安全与资源限制](https://blog.csdn.net/qq_41961805/article/details/90767517)
+ > docker的安全与资源限制
+ ## [安全无小事，安全防范从nginx配置做起](https://blog.csdn.net/qwe123147369/article/details/91894668)
+ > 安全无小事，安全防范从nginx配置做起
+ ## [在一个局域网中，共享的项目别人访问不了，解决方法](https://blog.csdn.net/AdminPwd/article/details/91787120)
+ > 在一个局域网中，共享的项目别人访问不了，解决方法
+ ## [【音视频】5.ffmpeg命令分类与使用](https://blog.csdn.net/qq_30124547/article/details/90708441)
+ > 【音视频】5.ffmpeg命令分类与使用
+ ## [前端   面试题  css](https://blog.csdn.net/quxiaojiao_39/article/details/90739104)
+ > 前端   面试题  css
+ ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
+ > 【前端】slot
+ ## [前端图片压缩和角度修正](https://blog.csdn.net/Deng_gene/article/details/90699645)
+ > 前端图片压缩和角度修正
+ ## [微服务架构之「 访问安全 」](https://blog.csdn.net/jsjwk/article/details/91831618)
+ > 微服务架构之「 访问安全 」
+ ## [基于electron的音视频播放器](https://blog.csdn.net/vgub158/article/details/91490185)
+ > 基于electron的音视频播放器
+ ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
+ > 前端——JQuery基础
 # PM 
+ ## [UI、交互、PM应该懂的产品提示文案设计](http://www.woshipm.com/pd/2501148.html)
+ > 你有没有注意过产品中的一些细节文案呢？你注意同一句话在不同产品的不同表达方式吗？笔者认为，细节文案的设计能够给用户带来更多的好感与认同。一般来讲产品的UI设...
+ ## [造水者与送水人：Facebook/Google的业务增长解析](http://www.woshipm.com/it/2524160.html)
+ > 互联网的流量就像水一样，整个互联网的竞争史就是一场关于水的争夺战，一些人持续寻找水源，一些人持续造水。Facebook就是一个典型的“造水者”，是互联网最大的水源。Goo...
+ ## [中国超市38年简史：如何在沃尔玛、家乐福的压迫下成长？](http://www.woshipm.com/it/2524099.html)
+ > 新旧交织，零售在中国变得空前复杂与多样，但也充满着前所未有的想象力。如果说中国连锁超市的未来需要重新洗牌，那么，新零售，应该是最大的推动力之一。作者：甲方...
+ ## [从图文到互动影视：1-5G技术搅动下的娱乐跃进史](http://www.woshipm.com/it/2523869.html)
+ > 穹顶之下，技术突围。作者：王舷歌公众号：深响（ID：deep-echo）毫无疑问，今年上海世界移动通信大会MWC的绝对主题是5G。这是三大运营商获得牌照后的首秀——中国...
+ ## [中国网红二十年：流量与变现的博弈](http://www.woshipm.com/it/2523734.html)
+ > 铁打的互联网，流水的网红。从痞子蔡、芙蓉姐姐到李佳琦，中国网红的二十年，是流量与变现的博弈。作者：无二来源：快刀财经（ID：kuaidaocaijing）5分钟售罄1500...
+ ## [大数据可视化大屏设计经验，教给你！](http://www.woshipm.com/it/2510202.html)
+ > 大数据产业正在用一个超乎我们想象的速度蓬勃发展，大数据时代的来临，越来越多的公司开始意识到数据资源的管理和运用，大数据可视化大屏展示被更多的企业青睐，身为UI...
+ ## [“群聊”为何让互联网远离暴力？](http://www.woshipm.com/it/2523581.html)
+ > 互联网的讨论模式经历了这样一种趋势——从圈子讨论变成了开放讨论，但开放讨论在降低用户参与门槛的同时，也滋生了很多误解与网络暴力现象。在这一背景下，重归圈子讨论...
+ ## [李善友：我们应该适应变化，还是追求不变？](http://www.woshipm.com/it/2523399.html)
+ > 哲科思维是在创业创新根基得多的一种思维方式，我们能不能改变一下过去实践出真知的思维方式，而相信基础理念对现实的指导意义，这也是一种很重大的转向。一、追求终...
+ ## [4 种类型 + 10 大步骤，详解用户画像](http://www.woshipm.com/user-research/2523450.html)
+ > 本文笔者将带领大家从从4 个不同的视角看用户画像，并且从收集数据开始到角色迭代调整，讲述如何通过十个步骤创建用户角色?用户画像是虚构的角色，企业可以根据自己的...
  ## [物联网时代下，传统制造业该如何转型？](http://www.woshipm.com/it/2522838.html)
  > 随着物联网概念的不断传播、不断升级，传统行业也开始加入到物联网的行业中，并希望通过物联网实现企业转型变革，让传统制造业与时俱进。最近想写一写物联网，这个扎...
  ## [腾讯X项目的小结](http://www.woshipm.com/pd/2522752.html)
  > 这是为腾讯内部做的一个项目，偏向To B类的。设计的内容不方便展示，就取名“X项目”吧。本文为设计的小结，主要针对大量的数据处理，以及表单设计这方面。一、可视化...
- ## [如何读懂用户？从移情图开始](http://www.woshipm.com/pd/2523216.html)
- > 移情图是一种可视化协作工具，用于视觉化地阐明对特定类型用户了解程度。而作为UX从业人员，需要熟练使用移情图。作为UX从业人员，我们的工作是代表用户发声，挖掘出...
- ## [案例解析：暑期班课程招生活动，靠什么来拉新？](http://www.woshipm.com/marketing/2518045.html)
- > 本文结合新东方泡泡少儿教育培训机构的案例来进行分析，在6月份机构都要开始做哪些可行的计划，才能确保机构招满学员？离暑假招生越来越近了，都说6月是招生淡季，尽...
- ## [微视全量测试30s朋友圈视频，“失落”的UGC能迎来第二春吗？](http://www.woshipm.com/it/2522812.html)
- > 在短视频行业貌似繁华火热的背后，各项数据却告诉我们短视频行业的发展增速正在减弱，短视频的发展也许到了兴衰与否的关键节点。移动互联网十年虽然诞生过无数超级平...
- ## [蚂蚁森林的游戏化（上篇）](http://www.woshipm.com/pd/2522753.html)
- > 以游戏化方式来设计一款产品，对于促活、提高产品留存有极大的作用。本文笔者将对蚂蚁森林的游戏化设计框架进行剖析解读，讲述：如何利用游戏化思维设计一款好产品？...
- ## [流量过度集中，移动直播平台该如何进行流量分配？](http://www.woshipm.com/pd/2522813.html)
- > 移动直播平台发展到一定阶段后，随着头部不断集中、用户量不断增加，平台的流量开始过度集中化，导致转化率有限和流量浪费。面对这种情况，我们势必要在运营策略以及产...
- ## [平台生态（十二）：不诚实的经济成本](http://www.woshipm.com/it/2499283.html)
- > 本文主要是来分析现在如火如荼的互联网平台里的柠檬市场问题，enjoy~今天的文章先从一篇论文开始，这篇论文是著名经济学家乔治·阿克尔洛夫在1970年发表的，题目是《柠...
  ## [苹果准备冲击奥斯卡](http://www.pmtoo.com/article/76530.html)
  > 产品经理就是在面对如此不可知、不确定的世界的时候，通过我们的系统能力，去应对和消化这种不确定性，为他人生活提供小...
  ## [快递业如何适应拼多多？](http://www.pmtoo.com/article/76523.html)
