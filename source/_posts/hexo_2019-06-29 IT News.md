@@ -1,20 +1,30 @@
 ---
 title: 2019-06-29 IT News
 copyright: true
-date: 2019-06-29 10:02:30
+date: 2019-06-29 12:01:46
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [工信部发布5G震撼宣传片，扒扒5G相关核心产业链](http://mp.weixin.qq.com/s?src=11&timestamp=1561773604&ver=1697&signature=5ySc6L7dGdZ0xtrwxU54olWO6U3opGyRp6Mc6DjS27n-t9KtNlUMjJhkMHS0soSFpCL82MaPnULgDtOCQHdvJv-HpONh3VY5GPfbHWYAXKRKKZlmsHo8HkEuJ8qKrFjT&new=1)
- > 导语最近，在工业和信息化部的支持下，由中国信息通信研究院和产业界核心单位共同发起组建的5G应用产业方阵成立大会上，《5G，未来已来》宣传片首次发布。宣传片从一家人的视角展开，畅想了未来5G生活和智能社会...
- ## [一年换了5家运营商，亲身经历告诉你，英国电话卡的那些坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1561773604&ver=1697&signature=iLjXgv8a9FNqVOOJ2pwdreIJH65x4FLSkTLKi62EEG7RhBcmjIBTjy7vn-CYzhNRXVEdGEUfFz6vJU4Dj90hEnVaM8I7WG7YtyizlyXN0JthFQ7qckeggbWoZjC52nx3&new=1)
- > 很多人都觉得来英国留学的宝宝们都“特有钱”，可其实很多留学生都明白，作为“穷学生”，日常消费总是要精打细算...图：giphy圈哥就有一个处女座（此处不黑）的室友，带着圈哥逛了一下午商场里的各家运营商店面...
- ## [中国移动5G套餐曝光，200G流量够吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561773604&ver=1697&signature=OeWIbm30p5AqGGefMMiKRnQuCCJq7CAv8XToj0H-3OqDLD6eCP8Ce8saVcMHz2ikcqd6iYVd6RUJOtp0XmcW6ewqDaLdp2TCgYUUFqmzwriyR55oaXJO3h2Avd1mIvJu&new=1)
- > 最近关于5G的消息越来越多，今天小黑来给大家做个小汇总，一起来看看吧。首先是大家最关心的5G套餐方面的消息，在中国移动最近召开的“5G+发布会”上，中国移动公布了一个5G测试统一套餐。这个5G套餐包含了每月2...
- ## [南方电网洪丹轲：电网5G商用进入“深水区”](http://mp.weixin.qq.com/s?src=11&timestamp=1561773604&ver=1697&signature=HZezF0p0BjrK2Gr*MwZNOFtiXmSlg9YeAo6iNyvMGyVFd6CHOKZ31IixjgQYvLJbKSa4O8OB34v-fVjy-ZLlWSRl0MPKEnrH0dLj6E6IQGN7fDUuJIHMiGzUJatSCQbo&new=1)
+ ## [安防+消防+交通 2019贵州安防展精彩开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=-3scUg0dJ-wGhqo1enA8bJw4sjS6QsoUcoc0SuD*W6cP*3n-JYuEVoH16rnqq9kq2aU9lNhTWHw0wnjCgqyEKl30XJh-3EUEQl93BSKzWYQ8i-VuaGLeQulngEAZR46w&new=1)
+ > 6月28日，2019中国·贵州综合应急救援装备、消防安全智能产品暨智能交通设备丶社会公共安全产品展览会(以下简称“2019贵州安防展”)在贵阳国际会议中心盛大开幕！安防展览网作为展会合作媒体单位出席会议，带来...
+ ## [支持QQ的儿童手表!高通携手出门问问带来全新可穿戴体验](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=VaNx7rmxUjfs1HBJ81Wlh7zeNsSLEYzFFjsv8Zd0uv*voWPKdTFzZPWsIQgOcjlZzecqb3Ux2V*8rONkTcyec-JGVZEWqquBJxEbpdp5CQWQXVDZL9PG1tG*gYDfLl3E&new=1)
+ > 6月26日至28日的MWC（世界移动通信大会）上海展，吸引了来自世界各地的5G、物联网、人工智能、大数据等科技巨头参加，各大品牌厂商纷纷大秀肌肉，众多新技术、新产品纷纷亮相。其中，高通（Qualcomm）展台展出的...
+ ## [五眼联盟曾入侵有“俄罗斯谷歌”之称的Yandex，监视用户账户](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=f9PGkfP6Ke3wJl8myLFtFO3pWxFLMhv5B3l5rqx2-0IA5yErnTGEY6D7FtxgHbkwm8NXZ6bhnw-IfEAsHHr*QkIFMBwjp-IXVGQom-gKgydezUYlOmla7r-anXsEscBZ&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：知情人士透露，美国、英国、澳大利亚、新西兰和加拿大组成的“五眼联盟”使用恶意软件监视俄罗斯互联网搜索公司Yandex。据外媒报道，知情人士表示，...
+ ## [一种全新的安全防护思路之渗透测试丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=JiooHa0w4EB85SLjOmEBHFvmkuoLYRvJXwHkiGNq4TCBfGx8VDEaTLiGFkJjI0sm2LprEiccmnlGMRsr*FzEt7hhe0SJLV5rYA7IGI3Hu69PBVenW3UhWNLBfvzdIEpK&new=1)
+ > 一、《通天神偷》小白：最近疯狂迷恋黑客题材电影。大东：又看啥了？小白：《通天神偷》，讲述的是一群代号SNEAKERS的“合法黑客”的故事。 《通天神偷》剧照大东：具体说说呢。小白：SNEAKERS是精通电脑的工业...
+ ## [敢为天下先丨十年研发投入让三星成为5G破局者](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=tDbnUHw4q0AbZIh01iszN-EcOgsH6BBbwf8cW3jdD6f33SGJ0G6JoJv6aAiOuxl0J00eEB9Bjb5xs6gcbmVaCbB6Bdd-la9Ex1kjT3KWnwVYgTmFyrfGTOrvn*GNR1Fw&new=1)
+ > 文丨壹观察 宿艺 5G时代，网络与终端先行，三星依靠已商用的端到端方案和毫米波技术优势，正在成为全球5G创新与普及的重要引领者。 与绝大多数中国消费者印象中三星是一家电子消费品牌不同，三星其实是全球重要...
+ ## [南方电网洪丹轲：电网5G商用进入“深水区”](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=HZezF0p0BjrK2Gr*MwZNOFtiXmSlg9YeAo6iNyvMGyURxEWjSZLGbepvdnI5ip9agkJAzhu*01s-GFkIl3xinJQK-4kXJt-XmxMYcl1tYT0yb0MsnGQ-PXYpIdUGjvzx&new=1)
  > “随着国家能源战略发展的革命，传统的电网向智能电网转型已成为必然趋势。发展安全、可靠、绿色、安全的智能电网是大势趋势。”在6月25日MWC19上海期间举办的“5G is ON峰会”（以下简称峰会）上，中国南方电网...
- ## [20家优秀生态伙伴获奖!机器人创新生态支持2019国际人工智能与机器人创新生态大会，加速机器人4.0时代产业升级](http://mp.weixin.qq.com/s?src=11&timestamp=1561773604&ver=1697&signature=m475jM44SgmmDO0CPY6cXx7H5vVPw6V3CNYB1pG8l2QDfi24Owh5SVIXaCfAhPMW-aYIpTBK1aK2fqE5Zxbrf-5sxrCmaBMZfhZPCOmn4V7V*zxMDqoPTLe0XerHX6KJ&new=1)
+ ## [工信部发布5G震撼宣传片，扒扒5G相关核心产业链](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=5ySc6L7dGdZ0xtrwxU54olWO6U3opGyRp6Mc6DjS27kEXvawDKGO5S7RTrfNPFPonZ-K1iQpbAlGoJlr84rN-8PvIV-n1zJ3dxT8WM5VkOzkBlEv4CRr3mtfTtlLzir6&new=1)
+ > 导语最近，在工业和信息化部的支持下，由中国信息通信研究院和产业界核心单位共同发起组建的5G应用产业方阵成立大会上，《5G，未来已来》宣传片首次发布。宣传片从一家人的视角展开，畅想了未来5G生活和智能社会...
+ ## [一年换了5家运营商，亲身经历告诉你，英国电话卡的那些坑!](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=iLjXgv8a9FNqVOOJ2pwdreIJH65x4FLSkTLKi62EEG7hHAYEJmlEDBJwin1V8tuVVxkzJdShyOe805zi4QEfsWrNr-rlTGok5hwru19ox8MRK5T7mjQDEff6V6qQqFYW&new=1)
+ > 很多人都觉得来英国留学的宝宝们都“特有钱”，可其实很多留学生都明白，作为“穷学生”，日常消费总是要精打细算...图：giphy圈哥就有一个处女座（此处不黑）的室友，带着圈哥逛了一下午商场里的各家运营商店面...
+ ## [中国移动5G套餐曝光，200G流量够吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=OeWIbm30p5AqGGefMMiKRnQuCCJq7CAv8XToj0H-3Or3nAi0-ivmGYLart-QM1UuraohohUXKoK3yIfFLXhc2nB4gDcGcE30AmOTLpFqNcN4Ktxk1ykziyrgtDquz*Ve&new=1)
+ > 最近关于5G的消息越来越多，今天小黑来给大家做个小汇总，一起来看看吧。首先是大家最关心的5G套餐方面的消息，在中国移动最近召开的“5G+发布会”上，中国移动公布了一个5G测试统一套餐。这个5G套餐包含了每月2...
+ ## [20家优秀生态伙伴获奖!机器人创新生态支持2019国际人工智能与机器人创新生态大会，加速机器人4.0时代产业升级](http://mp.weixin.qq.com/s?src=11&timestamp=1561780804&ver=1697&signature=m475jM44SgmmDO0CPY6cXx7H5vVPw6V3CNYB1pG8l2S5wdx4P6r8g-zltqfJOxOpQJdcwJeCK5QI*FaoZpHALoPQ8SP1wwhNKHRZfj*wsMF1KHjn7--Xf3hUb7BY6fIN&new=1)
  > 导读：由南京市人民政府外事办公室、南京市科技局、南京经济技术开发区主办的2019国际人工智能与机器人创新生态大会于南京举办。英特尔&amp;硬蛋机器人创新生态给予本次活动大力支持作为2019“南京创新周”的重点活...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,34 +85,34 @@ categories: IT NEWS
  > MySQL单表数据量超过2000万性能急剧下降的说法靠谱？
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [java面试基础复习----基础的基础（1）](https://blog.csdn.net/weixin_44791262/article/details/90611127)
- > java面试基础复习----基础的基础（1）
- ## [人工智能--代价树的盲目搜索](https://blog.csdn.net/hjc256/article/details/91358830)
- > 人工智能--代价树的盲目搜索
- ## [聊聊面向对象（心里明白嘴上说不出来的滋味）](https://blog.csdn.net/weixin_45118251/article/details/91472818)
- > 聊聊面向对象（心里明白嘴上说不出来的滋味）
- ## [人工智能的应用与发展历程](https://blog.csdn.net/fadsf15/article/details/90750667)
- > 人工智能的应用与发展历程
- ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
- > LANMP安全配置之Nginx安全配置
- ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
- > iOS开发安全 防反编译
- ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
- > 项目开始阶段（一）
- ## [linux安全与优化](https://blog.csdn.net/kehana/article/details/90767080)
- > linux安全与优化
- ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
- > 人工智能会取代艺术家？
- ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
- > 关于“人工智能”的一点思考
- ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
- > Docker安全加固之--LXCFS
- ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
- > 人工智能—— 博弈树的启发式搜索
- ## [区块链资产安全攻略](https://blog.csdn.net/weixin_44172023/article/details/90693275)
- > 区块链资产安全攻略
- ## [kerbors进行安全验证](https://blog.csdn.net/mn_kw/article/details/90746975)
- > kerbors进行安全验证
+ ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
+ >  记·外键之创建、删除
+ ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
+ > 数据库提升知识点汇总
+ ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
+ > Visual C++游戏编程基础之利用鼠标消息实现贴图
+ ## [Redis设计与实现阅读总结（一）数据结构和对象](https://blog.csdn.net/qq_39714960/article/details/91354344)
+ > Redis设计与实现阅读总结（一）数据结构和对象
+ ## [构建MySQL服务器以及基本应用](https://blog.csdn.net/xiaozhedeitzhilu/article/details/91356538)
+ > 构建MySQL服务器以及基本应用
+ ## [Python游戏开发平台、脚本系统架构设计](https://blog.csdn.net/ancientear/article/details/91141297)
+ > Python游戏开发平台、脚本系统架构设计
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
+ ## [UGUI系统--事件系统架构之光线投射模块_04](https://blog.csdn.net/weixin_36285892/article/details/91875054)
+ > UGUI系统--事件系统架构之光线投射模块_04
+ ## [麻将游戏开发运营这些困难 需要提前了解](https://blog.csdn.net/motianyougame/article/details/91492698)
+ > 麻将游戏开发运营这些困难 需要提前了解
+ ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
+ > 爱的故事，用Jira策划的浪漫婚礼
+ ## [【IOS游戏开发】 登陆以及支付SDK总结](https://blog.csdn.net/qq_30054199/article/details/91044280)
+ > 【IOS游戏开发】 登陆以及支付SDK总结
+ ## [\[业务知识\]研发管理 开发过程管理](https://blog.csdn.net/ZYD45/article/details/90898548)
+ > \[业务知识\]研发管理 开发过程管理
+ ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
+ > 20年研发管理经验谈（五）
+ ## [\[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集](https://blog.csdn.net/BuladeMian/article/details/91172411)
+ > \[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [公链史记 | 从鸿蒙初辟到万物生长的十年激荡](https://blog.csdn.net/csdnnews/article/details/94078818)
@@ -116,37 +126,53 @@ categories: IT NEWS
  ## [六维图见过么？Python 画出来了！](https://blog.csdn.net/csdnnews/article/details/93987770)
  > 作者 | Prasad Ostwal译者 | 高级农民工我们的大脑通常最多能感知三维空间，超过三维就很难想象了。尽管是三维，理解起来也很费劲，所以大多数情况下都使用二维平...
 # 人工智能 
- ## [JAVA对象创建过程内存图解](https://blog.csdn.net/lwfr_jqw/article/details/91351357)
- > JAVA对象创建过程内存图解
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [20年研发管理经验谈（四）](https://blog.csdn.net/weixin_39759846/article/details/90750766)
- > 20年研发管理经验谈（四）
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
- > 项目开始阶段（一）
- ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
- > 20年研发管理经验谈（八）
- ## [Java新特性之方法引用](https://blog.csdn.net/mi_zhi_lu/article/details/91367021)
- > Java新特性之方法引用
- ## [自学Java的我在帝都的北漂奋斗史](https://blog.csdn.net/geduo_83/article/details/90760275)
- > 自学Java的我在帝都的北漂奋斗史
- ## [linux第一阶段学习笔记基础](https://blog.csdn.net/qq_31300229/article/details/91607040)
- > linux第一阶段学习笔记基础
- ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
- > 如何进行软件技术管理？
- ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
- > 最简单的深度学习入门书《动手学深度学习》
- ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
- > 京东技术架构师总结：深入理解Spring中的各种注解
- ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
- > 项目开始阶段（二）
- ## [java面试基础复习----基础的基础（1）](https://blog.csdn.net/weixin_44791262/article/details/90611127)
- > java面试基础复习----基础的基础（1）
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
+ ## [SQLITE学习之SQLITE基础知识(一)](https://blog.csdn.net/cainiaoxiakexing/article/details/91816780)
+ > SQLITE学习之SQLITE基础知识(一)
+ ## [快速自学java编程高级语言干货笔记 -MySQL-事务](https://blog.csdn.net/weixin_44793608/article/details/91348281)
+ > 快速自学java编程高级语言干货笔记 -MySQL-事务
+ ## [数据库：TimescaleDB创建、插入、查询表](https://blog.csdn.net/weixin_43731793/article/details/90759890)
+ > 数据库：TimescaleDB创建、插入、查询表
+ ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
+ > Go语言-----入门笔记
+ ## [python3下载抖音视频](https://blog.csdn.net/qq_44621510/article/details/90693710)
+ > python3下载抖音视频
+ ## [关系数据库、数据库的设计（数据库学习）](https://blog.csdn.net/weixin_43126117/article/details/90758118)
+ > 关系数据库、数据库的设计（数据库学习）
+ ## [C语言学习笔记---查漏补缺](https://blog.csdn.net/lyb8010/article/details/91350434)
+ > C语言学习笔记---查漏补缺
+ ## [解压版mysql-5.7.17-winx64的配置安装](https://blog.csdn.net/shine_my/article/details/91788921)
+ > 解压版mysql-5.7.17-winx64的配置安装
+ ## [BSL编程语言 —— 系统化程序设计](https://blog.csdn.net/CSDoneRight/article/details/90720786)
+ > BSL编程语言 —— 系统化程序设计
+ ## [环信音视频功能学习总结](https://blog.csdn.net/u013069892/article/details/91879190)
+ > 环信音视频功能学习总结
+ ## [\[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码](https://blog.csdn.net/adolph_lu/article/details/91348324)
+ > \[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码
+ ## [串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出](https://blog.csdn.net/One_Month/article/details/90765636)
+ > 串联整个音视频录制流程，完成音视频的采集、编码、封包成 mp4 输出
+ ## [十分钟学会如何开发一个音频播放器（ffmpeg3.2+sdl2.0）](https://blog.csdn.net/XP_online/article/details/90582107)
+ > 十分钟学会如何开发一个音频播放器（ffmpeg3.2+sdl2.0）
+ ## [万年不变的 Top3 终于变了，6 月编程语言排行榜](https://blog.csdn.net/Coo123_/article/details/91562401)
+ > 万年不变的 Top3 终于变了，6 月编程语言排行榜
+ ## [redis设计与实现 二](https://blog.csdn.net/qq_39714960/article/details/91354351)
+ > redis设计与实现 二
 # PM 
+ ## [物联网时代下，传统制造业该如何转型？](http://www.woshipm.com/it/2522838.html)
+ > 随着物联网概念的不断传播、不断升级，传统行业也开始加入到物联网的行业中，并希望通过物联网实现企业转型变革，让传统制造业与时俱进。最近想写一写物联网，这个扎...
+ ## [腾讯X项目的小结](http://www.woshipm.com/pd/2522752.html)
+ > 这是为腾讯内部做的一个项目，偏向To B类的。设计的内容不方便展示，就取名“X项目”吧。本文为设计的小结，主要针对大量的数据处理，以及表单设计这方面。一、可视化...
+ ## [如何读懂用户？从移情图开始](http://www.woshipm.com/pd/2523216.html)
+ > 移情图是一种可视化协作工具，用于视觉化地阐明对特定类型用户了解程度。而作为UX从业人员，需要熟练使用移情图。作为UX从业人员，我们的工作是代表用户发声，挖掘出...
+ ## [案例解析：暑期班课程招生活动，靠什么来拉新？](http://www.woshipm.com/marketing/2518045.html)
+ > 本文结合新东方泡泡少儿教育培训机构的案例来进行分析，在6月份机构都要开始做哪些可行的计划，才能确保机构招满学员？离暑假招生越来越近了，都说6月是招生淡季，尽...
+ ## [微视全量测试30s朋友圈视频，“失落”的UGC能迎来第二春吗？](http://www.woshipm.com/it/2522812.html)
+ > 在短视频行业貌似繁华火热的背后，各项数据却告诉我们短视频行业的发展增速正在减弱，短视频的发展也许到了兴衰与否的关键节点。移动互联网十年虽然诞生过无数超级平...
+ ## [蚂蚁森林的游戏化（上篇）](http://www.woshipm.com/pd/2522753.html)
+ > 以游戏化方式来设计一款产品，对于促活、提高产品留存有极大的作用。本文笔者将对蚂蚁森林的游戏化设计框架进行剖析解读，讲述：如何利用游戏化思维设计一款好产品？...
+ ## [流量过度集中，移动直播平台该如何进行流量分配？](http://www.woshipm.com/pd/2522813.html)
+ > 移动直播平台发展到一定阶段后，随着头部不断集中、用户量不断增加，平台的流量开始过度集中化，导致转化率有限和流量浪费。面对这种情况，我们势必要在运营策略以及产...
+ ## [平台生态（十二）：不诚实的经济成本](http://www.woshipm.com/it/2499283.html)
+ > 本文主要是来分析现在如火如荼的互联网平台里的柠檬市场问题，enjoy~今天的文章先从一篇论文开始，这篇论文是著名经济学家乔治·阿克尔洛夫在1970年发表的，题目是《柠...
  ## [苹果准备冲击奥斯卡](http://www.pmtoo.com/article/76530.html)
  > 产品经理就是在面对如此不可知、不确定的世界的时候，通过我们的系统能力，去应对和消化这种不确定性，为他人生活提供小...
  ## [快递业如何适应拼多多？](http://www.pmtoo.com/article/76523.html)
