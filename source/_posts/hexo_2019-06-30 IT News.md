@@ -1,21 +1,23 @@
 ---
 title: 2019-06-30 IT News
 copyright: true
-date: 2019-06-30 08:01:09
+date: 2019-06-30 09:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [特朗普：美国企业将被允许继续向华为出售产品丨苏宁完成苏宁小店剥离\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561852804&ver=1699&signature=YRh-oZT9mA36d4gGeK03jvk5KJc3sJ-i1Uk19nn9-zvuNQsj7AC*1SgXp4Csh3j6Ts556axE8M0IZkRoZwsaV4PkjvKniuMVZeqOoGsvTK963rLZE1N5Fyqg1BNyPtC0&new=1)
- > 6月29日周六【Do说】编辑 | 李尧特朗普：美国企业将被允许继续向华为出售产品据央视新闻报道，在6月29日下午的G20会议期间，美国总统特朗普表示，向华为出售零件的美国公司应被允许继续出售。当地时间5月16日，...
- ## [中国移动苏郁：5G无人机巨大产业价值“涌现”](http://mp.weixin.qq.com/s?src=11&timestamp=1561852804&ver=1699&signature=7GKsGb28iVq*pAJ4CXszbJ8hx*6QveIeVscRM7xBn*5GyohoWdQijOMbR2zIgKGdaz5*rjbcnM2YUNpWKDEFG73eIxoQZ3zupdmUuohDItwOppx*jXKsH87U5a4baqXc&new=1)
+ ## [中国移动苏郁：5G无人机巨大产业价值“涌现”](http://mp.weixin.qq.com/s?src=11&timestamp=1561856405&ver=1699&signature=7GKsGb28iVq*pAJ4CXszbJ8hx*6QveIeVscRM7xBn*5GyohoWdQijOMbR2zIgKGdDdz10MMfO1Gkxgey1K47lf5jaX*Tpc8P3LpsMfmZp-*-iMNGAJMkPbncvKMft9Aa&new=1)
  > 在今年MWC上海展上，5G网联无人机继续成为各方展示的重点。与往年不同，今年的展示显示，业界对5G无人机的探索正在不断深化和扩大化，遍及应急、消防、农林、摇杆测绘、城市管理等各行各业。“基于5G技术，我们...
- ## [气人!这款软件能让人全果，更气人的是…](http://mp.weixin.qq.com/s?src=11&timestamp=1561852804&ver=1699&signature=SY*4Pmaz32DFI9IeZZoXeS-FJN-TlBliVtzkFmzfzahIk0XKAhxuuJO7C5OZqjiveV5KTzcC1m9n0RGiyjEFICgQS47Mg2Lrnt2GuB*YpCG7CPTjdveIBw-azI-KgMLt&new=1)
- > 敢想吗？只需要一张照片，就能借助一款软件“脱掉”照片主人的衣服，让你得到一张果照。。毒少之前聊的AI，可能大家都觉得这技术离自己很远。这两天，一名歪果码农开发一款软件叫DeepNude，可能已经有网友已经知...
- ## [一个4000亿美金的教训：比尔盖茨最遗憾的事，却是华为鸿蒙最好的指引](http://mp.weixin.qq.com/s?src=11&timestamp=1561852804&ver=1699&signature=bKUnRQrDLm3gU1gcqpt3xrLq2Zbe*l5azeaxq8tboOwpn75Bu6bNPjhJbHd2RAFJb2RGzJW4ku2goxm5pv5H4arIwCglT4Ut*bnxyKa59JKfJByrSPYkPqBZPrLDu8gg&new=1)
- > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：波力克&gt;&gt;&gt; 就算地球毁灭，也阻止不了我打完这个逗号马云说，月薪 3W 的男人最幸福，钱太多了一点都不开心。前不久，比尔盖茨接受采访表示赞同，他这些年一直都很烦恼，觉...
- ## [国家医疗保障信息业务编码标准是为了医疗领域的谷歌诞生在中国?](http://mp.weixin.qq.com/s?src=11&timestamp=1561852804&ver=1699&signature=Nc20ZhIoYp5ZqvyhCIfwZOBUmo01hAhNYx8e*UUuRXZv8gbi2y5G3KPtToJIAzePhq0Qi0dyxmfZIy6WBvTWqXP0ArkJPQBh9gHWpApmUAbdiKV1L3cgBBHzw3Tt5c*q&new=1)
+ ## [国家医疗保障信息业务编码标准是为了医疗领域的谷歌诞生在中国?](http://mp.weixin.qq.com/s?src=11&timestamp=1561856405&ver=1699&signature=Nc20ZhIoYp5ZqvyhCIfwZOBUmo01hAhNYx8e*UUuRXZv8gbi2y5G3KPtToJIAzeP-21Qc8yHu9WwwVLjQht7t3Loqc6XZdyFn-7XPDzW1SPnxdYdl*3wwaukW*fyJKLC&new=1)
  > E药汇ID ：EYH1111      国家医保局是掌管国家医疗基金的唯一机构，在医疗领域可以说是凡是跟医保有关联的医疗产品，都涉及到跟医保局的连接，医保局在医疗领域的这种连接管理地位是唯一的，因此在监管以及政策...
+ ## [高大上!哈尔滨新区 昨日签下36个海外高科技项目|看看都有啥 ↘](http://mp.weixin.qq.com/s?src=11&timestamp=1561856405&ver=1699&signature=uSbE2nRS44bbUoWN7sFMvYdsYgIMl4KPwinxdc21bsZK*plHz4CXVeczDCOzypyXfCYbmDDqw5yQ5eAkPcqS1uErN1Fc7l8T40yTEfDiP-LQ5iQ6*gCZicFhUuWt1-Ln&new=1)
+ > 海创精英，冰城对决；智汇松北，才聚新区。29日下午，中国（哈尔滨）海外人才创新创业项目大赛项目路演和签约仪式举行。6个获奖项目进行路演；36个海外高科技项目现场签约，将落户哈尔滨新区。中国科协党组成员...
+ ## [气人!这款软件能让人全果，更气人的是…](http://mp.weixin.qq.com/s?src=11&timestamp=1561856405&ver=1699&signature=SY*4Pmaz32DFI9IeZZoXeS-FJN-TlBliVtzkFmzfzahIk0XKAhxuuJO7C5OZqjiv4M0ijedkdJUfByTBmAMvCSvoWYdZZHUUFENUuEoHEWMPNAhIGgqwapV2bN7rbDg9&new=1)
+ > 敢想吗？只需要一张照片，就能借助一款软件“脱掉”照片主人的衣服，让你得到一张果照。。毒少之前聊的AI，可能大家都觉得这技术离自己很远。这两天，一名歪果码农开发一款软件叫DeepNude，可能已经有网友已经知...
+ ## [特朗普：美国企业将被允许继续向华为出售产品丨苏宁完成苏宁小店剥离\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561856405&ver=1699&signature=YRh-oZT9mA36d4gGeK03jvk5KJc3sJ-i1Uk19nn9-zvuNQsj7AC*1SgXp4Csh3j6XZ1vVtF1hlvL6unoHJh*lAgtyYt-x*oLigaciqDO48N2bV9RgMPCnuTZi7AdcdPP&new=1)
+ > 6月29日周六【Do说】编辑 | 李尧特朗普：美国企业将被允许继续向华为出售产品据央视新闻报道，在6月29日下午的G20会议期间，美国总统特朗普表示，向华为出售零件的美国公司应被允许继续出售。当地时间5月16日，...
+ ## [一个4000亿美金的教训：比尔盖茨最遗憾的事，却是华为鸿蒙最好的指引](http://mp.weixin.qq.com/s?src=11&timestamp=1561856405&ver=1699&signature=bKUnRQrDLm3gU1gcqpt3xrLq2Zbe*l5azeaxq8tboOwpn75Bu6bNPjhJbHd2RAFJYLFnPgsvHVeKj*LArBBTo71b9821iZ99B3KWEv6ICVLgKElfrA9NuRW2q9FvbRlY&new=1)
+ > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：波力克&gt;&gt;&gt; 就算地球毁灭，也阻止不了我打完这个逗号马云说，月薪 3W 的男人最幸福，钱太多了一点都不开心。前不久，比尔盖茨接受采访表示赞同，他这些年一直都很烦恼，觉...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -75,66 +77,66 @@ categories: IT NEWS
  > MySQL单表数据量超过2000万性能急剧下降的说法靠谱？
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
- > 最简单的深度学习入门书《动手学深度学习》
- ## [5G与人工智能有什么关系？](https://blog.csdn.net/yoggieCDA/article/details/90753464)
- > 5G与人工智能有什么关系？
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [要转行Python又不清楚行业现状和前景，这样怎么能行？](https://blog.csdn.net/qq_43720602/article/details/90763483)
- > 要转行Python又不清楚行业现状和前景，这样怎么能行？
- ## [随笔——人工智能](https://blog.csdn.net/newbie_Blogger/article/details/90759117)
- > 随笔——人工智能
- ## [编程语言常识](https://blog.csdn.net/lzyzlx1914/article/details/90729187)
- > 编程语言常识
- ## [BSL编程语言 —— 系统化程序设计](https://blog.csdn.net/CSDoneRight/article/details/90720786)
- > BSL编程语言 —— 系统化程序设计
- ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
- > 人工智能助力反洗钱升级
- ## [人工智能--状态空间问题求解方法](https://blog.csdn.net/hjc256/article/details/91187768)
- > 人工智能--状态空间问题求解方法
- ## [一家人工智能公司的价值观](https://blog.csdn.net/adsd165/article/details/91042308)
- > 一家人工智能公司的价值观
- ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
- > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
- ## [【编程语言】PHP完全自学手册](https://blog.csdn.net/lsj960922/article/details/91042869)
- > 【编程语言】PHP完全自学手册
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
- > 【编程语言】Swift完全自学手册
+ ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
+ > iOS开发安全 防反编译
+ ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
+ > 项目开始阶段（二）
+ ## [微服务架构之「 访问安全 」](https://blog.csdn.net/jsjwk/article/details/91831618)
+ > 微服务架构之「 访问安全 」
+ ## [kerbors进行安全验证](https://blog.csdn.net/mn_kw/article/details/90746975)
+ > kerbors进行安全验证
+ ## [java面试基础复习----基础的基础（1）](https://blog.csdn.net/weixin_44791262/article/details/90611127)
+ > java面试基础复习----基础的基础（1）
+ ## [前端实现在线预览文档](https://blog.csdn.net/songxueing/article/details/90755358)
+ > 前端实现在线预览文档
+ ## [服务安全与监控3](https://blog.csdn.net/weixin_43669585/article/details/90669987)
+ > 服务安全与监控3
+ ## [nginx配置学习安全技巧](https://blog.csdn.net/qq_29556507/article/details/91043440)
+ > nginx配置学习安全技巧
+ ## [如何入门CTF？](https://blog.csdn.net/qq_43344642/article/details/91347200)
+ > 如何入门CTF？
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [Android基础之-----基础控件](https://blog.csdn.net/yu805894501/article/details/91400484)
+ > Android基础之-----基础控件
+ ## [web安全之文件上传漏洞](https://blog.csdn.net/xlsj228/article/details/90756195)
+ > web安全之文件上传漏洞
+ ## [聊聊面向对象（心里明白嘴上说不出来的滋味）](https://blog.csdn.net/weixin_45118251/article/details/91472818)
+ > 聊聊面向对象（心里明白嘴上说不出来的滋味）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
- > 京东技术架构师总结：深入理解Spring中的各种注解
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [服务安全与监控3](https://blog.csdn.net/weixin_43669585/article/details/90669987)
- > 服务安全与监控3
- ## [安全无小事，安全防范从nginx配置做起](https://blog.csdn.net/qwe123147369/article/details/91894668)
- > 安全无小事，安全防范从nginx配置做起
- ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
- > iOS开发安全 防反编译
- ## [5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析](https://blog.csdn.net/weixin_44179909/article/details/91580475)
- > 5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析
- ## [docker的安全与资源限制](https://blog.csdn.net/qq_41961805/article/details/90767517)
- > docker的安全与资源限制
- ## [除了参与建设，5G还能给通信服务商带来什么？](https://blog.csdn.net/qq_34449351/article/details/91866627)
- > 除了参与建设，5G还能给通信服务商带来什么？
- ## [应届生自学Python两个月，为什么找不到工作？](https://blog.csdn.net/qq_43720602/article/details/91350609)
- > 应届生自学Python两个月，为什么找不到工作？
- ## [如何入门CTF？](https://blog.csdn.net/qq_43344642/article/details/91347200)
- > 如何入门CTF？
- ## [安全的路由交换--端口安全](https://blog.csdn.net/zhaotiannuo_1998/article/details/90705186)
- > 安全的路由交换--端口安全
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
- ## [物联网 FOTA升级的必要性](https://blog.csdn.net/Manfred_zhu/article/details/90898778)
- > 物联网 FOTA升级的必要性
- ## [堡垒机哲学史 | 三个问题：堡垒机从哪里来？到哪里去？是什么？](https://blog.csdn.net/qizhitech/article/details/91833234)
- > 堡垒机哲学史 | 三个问题：堡垒机从哪里来？到哪里去？是什么？
- ## [使用阿里短信服务发送终端报警数据](https://blog.csdn.net/m0_38008027/article/details/91571948)
- > 使用阿里短信服务发送终端报警数据
+ ## [我的Java体系建立--Java基础（3）构造方法](https://blog.csdn.net/moye666/article/details/91047866)
+ > 我的Java体系建立--Java基础（3）构造方法
+ ## [数据库知识点整理（秋招面试）](https://blog.csdn.net/weixin_41809206/article/details/91045186)
+ > 数据库知识点整理（秋招面试）
+ ## [前端之js基础](https://blog.csdn.net/qq_36251118/article/details/90737882)
+ > 前端之js基础
+ ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
+ > 【前端】vuex
+ ## [前端 之 JavaScript基础](https://blog.csdn.net/linwow/article/details/90723209)
+ > 前端 之 JavaScript基础
+ ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
+ > 项目开始阶段（三）
+ ## [java知识小结一](https://blog.csdn.net/weixin_39296576/article/details/90761582)
+ > java知识小结一
+ ## [练习1-13 垂直方向直方图](https://blog.csdn.net/smilezyf/article/details/91047119)
+ > 练习1-13 垂直方向直方图
+ ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
+ > 项目开始阶段（二）
+ ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
+ > 项目开始阶段（一）
+ ## [初级前端面试题总结](https://blog.csdn.net/Daisy_1/article/details/91614974)
+ > 初级前端面试题总结
+ ## [学习react (首次入坑记录)](https://blog.csdn.net/weixin_43462746/article/details/91588668)
+ > 学习react (首次入坑记录)
+ ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
+ > 数据库提升知识点汇总
+ ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
+ > 前端异步流程
+ ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
+ >  记·外键之创建、删除
 
     
