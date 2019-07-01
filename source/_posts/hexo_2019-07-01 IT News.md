@@ -1,21 +1,25 @@
 ---
 title: 2019-07-01 IT News
 copyright: true
-date: 2019-07-01 08:01:09
+date: 2019-07-01 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [P30Pro成本曝光，这块屏幕居然比苹果XsMax还贵?](http://mp.weixin.qq.com/s?src=11&timestamp=1561939205&ver=1701&signature=6skYU8YzK6SJ088tOiZkoFrd1yA*K6R56bSTN6*4VsZgoFCvhuXu0rfdxmqCjdzN4xkZ0g9skH8aPjV3yRfbWz2vo9s9da*gLkCSZc2IFdX4LUwcIE4q9ZWbQSMMLHZQ&new=1)
- > 近日，《日本经济新闻》报道，东京研究机构Fomalhaut Techno Solutions拆解华为最新智能手机P30Pro发现：华为P30Pro有62％的手机零件成本来自中国以外的公司，来自美国、日本和韩国的机器零件占总成本金额约50％...
- ## [苹果将在年底上线的视频服务 特斯拉升级车内仪表盘并将添加卡拉OK功能|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1561939205&ver=1701&signature=OgzCeTcvlJ2ChqPFSX9ssSqtXpeK-WTGR84eRyoNpkcG8S5UwPMZeYe*hqcCNbxI2CWAatYqbV0Or*vYt6pyjFjToGEA7pN-vH7QkevhJ0H8avo-kgeCGaMqsyuVEnNV&new=1)
- > 动点科技 | ID：technode精选新闻特斯拉升级车内仪表盘Sketchpad 并将添加卡拉OK功能腾讯科技消息，据外媒报道，特斯拉发布了一项新的软件更新，以改进其车载仪表盘Sketchpad。该公司首席执行官伊隆-马斯克(Elon...
- ## [谷歌自研Fuchsia系统网站上线丨特斯拉升级车内仪表盘\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561939205&ver=1701&signature=UTbAH3z9Qi0AFpow6RYf8uBEKN6vjOlA4Xcdv*BAK46XlVY03SBHIlblVqYzAp5Vbg8dwdi4fBW59tL8jeFNtX2dLhl4*ZO2XHuLUArp4bBgiMyr-HKzaRc1DqAiYHkm&new=1)
+ ## [\[BOSS聘·晨读\]小米不仅生产手机，还生产了270家公司](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=aryrN1GQVxDutf4ZDof1pfgUpeEm5cMuQG5-Fw*kiv0HY*VWgRPa9RP84P6mauabfAKf*7VnfD74DpdO2mAqk3lwJ9TsgPG51nn-RWbsY26J9H3YvXN-jN4yREzP-N9c&new=1)
+ > BOSS导读小米不仅生产手机，还生产公司。270多家公司，总账面价值人民币290亿元。在2019年第一季度财报中，小米自上市以来首次披露投资方面的相关数据，投资公司数量相较一年前招股书中披露的数量增加了60多家。...
+ ## [谷歌自研Fuchsia系统网站上线丨特斯拉升级车内仪表盘\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=UTbAH3z9Qi0AFpow6RYf8uBEKN6vjOlA4Xcdv*BAK45APsHa6syMyk6pw6D50UxwRfUp9Py64AGC1EJcKitFHMGiGox1rEDGV6Sw*EKh26O9yUVilG0d4KJgQ1geO2Yr&new=1)
  > 6月30日周日【Do说】编辑 | 赵艾虎谷歌自研Fuchsia系统网站上线，取代Android和Chrome OS目前，谷歌官方制作的Fuchsia OS开发者网站Fuchsia.dev悄然发布，推出这个网站主要是为了让开发者更好的参与到这
- ## [拒绝“抢救不及时”5G智慧医疗将颠覆生活](http://mp.weixin.qq.com/s?src=11&timestamp=1561939205&ver=1701&signature=If8htfFTuELMut-lLtiWd6MR6nabLJhrWGEA4K1OzRTNeJqxlxzE8XP6wQ9bA*VeP65QVpUg8eCQbBFBD89a3zRFUkh2MtHvss*NpQq64hJp-yPRw14i1i8FpGparStq&new=1)
- > 随着信息化技术的发展，医院的信息化从数字化向智慧化发展。而5G网络的到来，更是给了智慧医疗新的机遇。为了验证5G条件下智慧医疗的应用，郑州大学第一附属医院实现了5G网络连片覆盖，建成了国内第一个5G医疗实...
- ## [\[C114周报\]中国电信：坚持SA目标架构；杨杰：明年5G终端必须具备SA模式；华为5G产品供应不受制裁影响](http://mp.weixin.qq.com/s?src=11&timestamp=1561939205&ver=1701&signature=kFVv*kPmc4P*QJNxhDhnMFEviXED1gwerMsAtecSmUCXwTXJMYyYj83FuBWoiZpVfbpN-OvjDPjFbf6DrM6HjBr9VJ8uGdFbtMxrF35yjriqc6mKAOzyifTT5jzLrZ4E&new=1)
+ ## [\[C114周报\]中国电信：坚持SA目标架构；杨杰：明年5G终端必须具备SA模式；华为5G产品供应不受制裁影响](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=kFVv*kPmc4P*QJNxhDhnMFEviXED1gwerMsAtecSmUC2s6aX82kioMkucwUOoT-yDDlOi0eiIdd1fePM2MXt*CmzpLtF41vqhvrRCB7KPE5Ua4KME6-1XTJjpV5w9Vcp&new=1)
  > 周报WEEKLY本周热点有中国电信：坚持SA目标架构；杨杰：明年5G终端必须具备SA模式；华为5G产品供应不受制裁影响• 第050期 •中国电信：坚持SA目标架构6月26日2018年6月26日,中国电信在2018上海世界移动大会上正...
+ ## [四大运营商霸气回应：设备不再投!投诉不受理!包括5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=*KnNBTbFdYK0cwDRd-v9dT6-YGMAcxl6FtC2DAfNqdC2Z-O6Ii-zdnufhY4mKRZs-BfcRV4VgpAo3T1*wWZQbLuWOcgi3gNOMJApspNzcBeu*zGCXA8Q6OiMy6dA3xQx&new=1)
+ > 网友爆料：自己家住在邓州市滨河南路的蓝湾嘉园小区，近日，中国四大通信运营商（中国移动，中国联通，中国电信，中国铁塔）在小区的一则公示，使小区住户们忧心忡忡，纷纷担心以后在家里无法享受正常的上网，通...
+ ## [拒绝“抢救不及时”5G智慧医疗将颠覆生活](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=If8htfFTuELMut-lLtiWd6MR6nabLJhrWGEA4K1OzRSnzd-l7AW2ypOpBBuw3PeeiK-l23azgShm22ic-crcokpAGfJCQeUD*PRJyJK2ot6DNkdUjAnX9YE1QZtOBE35&new=1)
+ > 随着信息化技术的发展，医院的信息化从数字化向智慧化发展。而5G网络的到来，更是给了智慧医疗新的机遇。为了验证5G条件下智慧医疗的应用，郑州大学第一附属医院实现了5G网络连片覆盖，建成了国内第一个5G医疗实...
+ ## [P30Pro成本曝光，这块屏幕居然比苹果XsMax还贵?](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=6skYU8YzK6SJ088tOiZkoFrd1yA*K6R56bSTN6*4VsbvnHpsqOBZeqeWbDtb66M8MmblmUrMlvIa2wRM06wPaRawa8o-R4CqXbdPsE1*U-lHqJUdkAWcT5HOsFAHMw*i&new=1)
+ > 近日，《日本经济新闻》报道，东京研究机构Fomalhaut Techno Solutions拆解华为最新智能手机P30Pro发现：华为P30Pro有62％的手机零件成本来自中国以外的公司，来自美国、日本和韩国的机器零件占总成本金额约50％...
+ ## [苹果将在年底上线的视频服务 特斯拉升级车内仪表盘并将添加卡拉OK功能|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1561942804&ver=1701&signature=OgzCeTcvlJ2ChqPFSX9ssSqtXpeK-WTGR84eRyoNpkfI*EsdUmGqHpiritxpkxAe-Rwbpu8*ogParM9fqX1*ezInxrCsuhhGsLxnooGwKq7HOB5rs3nPEkUXcTVOAOU7&new=1)
+ > 动点科技 | ID：technode精选新闻特斯拉升级车内仪表盘Sketchpad 并将添加卡拉OK功能腾讯科技消息，据外媒报道，特斯拉发布了一项新的软件更新，以改进其车载仪表盘Sketchpad。该公司首席执行官伊隆-马斯克(Elon...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,6 +77,12 @@ categories: IT NEWS
  > 2019年亟待解决的11个AI伦理困境
  ## [被骂了三年，谷歌Dropout专利还是生效了，卡脖子预警](http://news.51cto.com/art/201906/598494.htm)
  > 被骂了三年，谷歌Dropout专利还是生效了，卡脖子预警
+ ## [10 个超炫酷后台控制面板(附 GitHub下载链接)](http://news.51cto.com/art/201907/598806.htm)
+ > Web 开发中几乎的平台都需要一个后台管理，但是从零开发一套后台控制面板并不容易，幸运的是有很多开源免费
+ ## [三张图告诉你Linux TCP/IP协议栈原理](http://network.51cto.com/art/201907/598810.htm)
+ > 可以毫不夸张的说现如今的互联网是基于TCP/IP构建起来的网络。弄懂协议栈的原理，无论对调试网络IO性能还是
+ ## [常用的Web服务器软件整理(Win+Linux)](http://server.51cto.com/sOS-598809.htm)
+ > Apache Apache是世界使用排名第一的Web服务器软件。它可以运行在几乎所有广泛使用的计算机平台上。Apache源
  ## [华为“禁令”即将解除？别高兴的太早！](http://news.51cto.com/art/201907/598802.htm)
  > 6月29日，美国总统特朗普在日本大阪举行的G20峰会期间举行的记者会上表示，将允许美国公司继续向华为出售
  ## [微软公开 WSL2 使用的 Linux 内核源代码](http://news.51cto.com/art/201907/598803.htm)
@@ -89,70 +99,74 @@ categories: IT NEWS
  > 物联网会改变企业，但企业仍然不知道将如何进行投资。尽管如此，仍然有一些企业清楚地知道在哪里进行投资，
  ## [横屏查看代码，匿名发布动态！你们想要的功能都来了！](https://blog.csdn.net/blogdevteam/article/details/91039549)
  > 横屏查看代码，匿名发布动态！你们想要的功能都来了！
- ## [Java新特性之方法引用](https://blog.csdn.net/mi_zhi_lu/article/details/91367021)
- > Java新特性之方法引用
- ## [编程语言常识](https://blog.csdn.net/lzyzlx1914/article/details/90729187)
- > 编程语言常识
- ## [ios逆向学习过程——使用theos创建第一个tweak](https://blog.csdn.net/ruozhixiaohaia/article/details/91345792)
- > ios逆向学习过程——使用theos创建第一个tweak
- ## [音视频学习四: Opengl ES Shader讲解](https://blog.csdn.net/qq_33635618/article/details/91523125)
- > 音视频学习四: Opengl ES Shader讲解
- ## [We are Agora.io - 构建实时互联网，让音视频互动像空气和水一样无处不在](https://blog.csdn.net/qq_41584043/article/details/91621737)
- > We are Agora.io - 构建实时互联网，让音视频互动像空气和水一样无处不在
- ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
- > 【编程语言】Swift完全自学手册
- ## [java面试基础复习----基础的基础（1）](https://blog.csdn.net/weixin_44791262/article/details/90611127)
- > java面试基础复习----基础的基础（1）
- ## [dxva2+ffmpeg硬件解码（Windows）重要笔记3](https://blog.csdn.net/xjb2006/article/details/90898217)
- > dxva2+ffmpeg硬件解码（Windows）重要笔记3
- ## [从汇编语言到高级编程语言的演变](https://blog.csdn.net/cq20110310/article/details/91044796)
- > 从汇编语言到高级编程语言的演变
- ## [linux第一阶段学习笔记基础](https://blog.csdn.net/qq_31300229/article/details/91607040)
- > linux第一阶段学习笔记基础
- ## [\[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码](https://blog.csdn.net/adolph_lu/article/details/91348324)
- > \[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码
- ## [BSL编程语言 —— 系统化程序设计](https://blog.csdn.net/CSDoneRight/article/details/90720786)
- > BSL编程语言 —— 系统化程序设计
- ## [36 守护进程、守护线程、锁](https://blog.csdn.net/weixin_43265998/article/details/91549552)
- > 36 守护进程、守护线程、锁
- ## [C语言学习笔记---查漏补缺](https://blog.csdn.net/lyb8010/article/details/91350434)
- > C语言学习笔记---查漏补缺
+ ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
+ > 区块链如何改变人工智能
+ ## [蚂蚁金服终端实验室演进之路](https://blog.csdn.net/yunqiinsight/article/details/90899631)
+ > 蚂蚁金服终端实验室演进之路
+ ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
+ > 物联网与边缘计算的融合
+ ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
+ > 物联网卡还可以用在农业自动化的哪些方面
+ ## [物联网第六步： Tornado的部署](https://blog.csdn.net/sinat_26940175/article/details/91038186)
+ > 物联网第六步： Tornado的部署
+ ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
+ > OC中的几种延迟执行方式
+ ## [物联网卡可帮助解决物联网数据安全问题](https://blog.csdn.net/qq_40798435/article/details/91871290)
+ > 物联网卡可帮助解决物联网数据安全问题
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [金融壹账通区块链突破三大瓶颈搭建全球区块链生态网络](https://blog.csdn.net/IFTNews/article/details/90759414)
+ > 金融壹账通区块链突破三大瓶颈搭建全球区块链生态网络
+ ## [金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点](https://blog.csdn.net/IFTNews/article/details/90767019)
+ > 金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点
+ ## [STM32F103+RT-thread操作系统+M5311NB模组物联网项目毕业设计](https://blog.csdn.net/switch_love_case/article/details/91345251)
+ > STM32F103+RT-thread操作系统+M5311NB模组物联网项目毕业设计
+ ## [汽车化身智能车联网全靠物联网卡](https://blog.csdn.net/qq_40798435/article/details/91444684)
+ > 汽车化身智能车联网全靠物联网卡
+ ## [探索Flutter配置过程中的坑](https://blog.csdn.net/HflyDragon/article/details/91450225)
+ > 探索Flutter配置过程中的坑
+ ## [5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析](https://blog.csdn.net/weixin_44179909/article/details/91580475)
+ > 5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [阿里系企业光云科技科创板IPO，SaaS模式能走多远](http://www.lanjingtmt.com/news/detail/43386.shtml)
+ > 成立不到6年的SaaS企业光云科技，申请科创板上市获受理。虽然成立时间不长，但光云科技背后的资本力量却不容小觑。
  ## [TCL“断臂”重组暂未显成效，2000亿营收目标难达成](http://www.lanjingtmt.com/news/detail/43385.shtml)
  > 2019年，对于TCL集团来说注定不平凡。TCL集团业绩逐渐疲软，智能终端业务被认为是整个集团的拖累。今年年初，智能终端业务被剥离，4月正式完成重组，但至今，一直未有明显成效。
 # 人工智能 
- ## [一家人工智能公司的价值观](https://blog.csdn.net/adsd165/article/details/91042308)
- > 一家人工智能公司的价值观
- ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
- > angular2表单异步验证
- ## [Python基础篇-安装python](https://blog.csdn.net/sinat_29006909/article/details/91353014)
- > Python基础篇-安装python
- ## [前端之路的想法](https://blog.csdn.net/weixin_42388440/article/details/91814819)
- > 前端之路的想法
- ## [Java基础-class 类的基础方法](https://blog.csdn.net/guo_xl/article/details/90753959)
- > Java基础-class 类的基础方法
- ## [算法基础===》==》=》查找](https://blog.csdn.net/qq_43595030/article/details/91040637)
- > 算法基础===》==》=》查找
- ## [人工智能--状态空间问题求解方法](https://blog.csdn.net/hjc256/article/details/91187768)
- > 人工智能--状态空间问题求解方法
- ## [Android基础之-----基础控件](https://blog.csdn.net/yu805894501/article/details/91400484)
- > Android基础之-----基础控件
- ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
- > 项目开始阶段（一）
- ## [练习1-13 垂直方向直方图](https://blog.csdn.net/smilezyf/article/details/91047119)
- > 练习1-13 垂直方向直方图
- ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
- > 前端异步流程
- ## [技术之前端 一](https://blog.csdn.net/King1314java/article/details/90746989)
- > 技术之前端 一
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
- > 前端——JQuery基础
- ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
- > 人工智能助力反洗钱升级
+ ## [web安全之文件上传漏洞](https://blog.csdn.net/xlsj228/article/details/90756195)
+ > web安全之文件上传漏洞
+ ## [入侵渗透测试流程规范](https://blog.csdn.net/qq_35811830/article/details/91661937)
+ > 入侵渗透测试流程规范
+ ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
+ > LANMP安全配置之Nginx安全配置
+ ## [6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管](https://blog.csdn.net/yidunmarket/article/details/91129725)
+ > 6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管
+ ## [安全无小事，安全防范从nginx配置做起](https://blog.csdn.net/qwe123147369/article/details/91894668)
+ > 安全无小事，安全防范从nginx配置做起
+ ## [快速自学java编程高级语言干货笔记 -MySQL-事务](https://blog.csdn.net/weixin_44793608/article/details/91348281)
+ > 快速自学java编程高级语言干货笔记 -MySQL-事务
+ ## [解压版mysql-5.7.17-winx64的配置安装](https://blog.csdn.net/shine_my/article/details/91788921)
+ > 解压版mysql-5.7.17-winx64的配置安装
+ ## [什么是代理IP](https://blog.csdn.net/duyun123456/article/details/91129886)
+ > 什么是代理IP
+ ## [nginx配置学习安全技巧](https://blog.csdn.net/qq_29556507/article/details/91043440)
+ > nginx配置学习安全技巧
+ ## [Java复习笔记（9）——数据库](https://blog.csdn.net/weixin_36904568/article/details/91045369)
+ > Java复习笔记（9）——数据库
+ ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
+ > 云计算、大数据、人工智能之间的关系，总章
+ ## [Redis设计与实现阅读总结（一）数据结构和对象](https://blog.csdn.net/qq_39714960/article/details/91354344)
+ > Redis设计与实现阅读总结（一）数据结构和对象
+ ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
+ > 大数据与云计算概念的解析
+ ## [JVM安全点详解](https://blog.csdn.net/qq_39429962/article/details/91355662)
+ > JVM安全点详解
+ ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
+ >  记·外键之创建、删除
 # PM 
+ ## [【天天问每周精选】第77期：为什么菜市场卖水果，水果店不卖蔬菜？](http://www.woshipm.com/it/2523579.html)
+ > 最近有个问题关注度很高，相信各位看到这句话就一定知道我在说哪个问题了。没错，就是为什么菜市场卖水果，水果店不卖蔬菜？我们在天天问讨论了这个问题，大家的回复都...
  ## [【活动】产品经理话题知乎答案大征集](http://www.chanpin100.com/article/108801)
  > 无论你是有着深刻见解的“产品老炮”，亦或是敢说敢想的入门小白，职业道路中你是否都有过“迷茫”和“疑惑”。产品壹佰现邀请所有产品经理职业道路中，在“迷茫”中找到方向，从“疑惑”中找到答案的“明白人”一起答题啦！
  ## [你不知道的豆瓣](http://www.chanpin100.com/article/108800)
