@@ -1,20 +1,22 @@
 ---
 title: 2019-07-04 IT News
 copyright: true
-date: 2019-07-04 08:01:10
+date: 2019-07-04 09:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国移动200亿5G一期无线工程设计集采结果出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1562198405&ver=1707&signature=SDxaECEY40zLfHn6aWKJAS9uTStiAN2bfUx1FCpifq8T2rT9a0wIV*FSJTqt17QhBteXnsp6BuHZcAVYpqKNwfghKZxZmhiS8sD1nc9OuXMygUv2kbrufIiCGwKA*LwR&new=1)
- > 2019年6月10日，中国移动发布《中国移动2019年5G一期无线工程设计及可行性研究服务集中采购_招标公告》。公告显示，中国移动2019年5G一期无线工程设计及可行性研究服务预估工程费1（设计费计价基数）为192.578亿...
- ## [3.6分钟下线一辆车，百度Apollo开启自动驾驶前装量产时代](http://mp.weixin.qq.com/s?src=11&timestamp=1562198405&ver=1707&signature=5CvR3KBw52LNwDPIi6QttJMeCy2vS84h-karHAuo*5Ij8-Tc65t5foKoKrfv2pS6*IRW7p6NenuJDdYaS7vP3IhbnyPTEbtQPep5EFxv8upDxgA7uO12RrQgIpmaS*RS&new=1)
+ ## [3.6分钟下线一辆车，百度Apollo开启自动驾驶前装量产时代](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=5CvR3KBw52LNwDPIi6QttJMeCy2vS84h-karHAuo*5LZ7JDQRKWfHi2Qabe2h4ICU8bRfxuqMyWIcz6C208p28pafj*JnY0-A0ruNyeJtPIlgxrfYnIu7qcGvNtVAgeU&new=1)
  > 百度Valet Parking自主泊车的方案是利用百度独有的车云图场一体解决方案以及云和高精地图优势，来实现了智能泊车场端改造的最佳性价比。文丨AutoR智驾  明阳这是一个疯狂时代。李书福站上了百度的舞台，百度Aopl...
- ## [吉利花样发新车!造芯片推手表，BAT高管还组队站台](http://mp.weixin.qq.com/s?src=11&timestamp=1562198405&ver=1707&signature=TN6q-cc*2VgILR2mj7MaV07i*hZ-7K4u9sEB5dN949Try7FgQWbzXIlLojJ85r1Ab7o6JXVn8RvaKZwUzVNRgouOZDpVq*-kOK6nfy-VxlBJjWWwUBAb*8nV2HA8bAY2&new=1)
+ ## [吉利花样发新车!造芯片推手表，BAT高管还组队站台](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=TN6q-cc*2VgILR2mj7MaV07i*hZ-7K4u9sEB5dN949Q9y3B5RYaor2YUvLr3eXMhE6bTZ323ulsl3ShFAzFTZxVQ8oQmxN66KzdvJ*mCTiEir6giimlfEY4MHqs6dIgW&new=1)
  > ch共    看点：自主一哥要造智能汽车，BAT、小米、360组队站台。车东西 | Bear7月3日对吉利来说，是一个热闹的大日子。先是吉利董事长李书福赶到百度的年度盛会——AI开发者大会上与李彦宏亲密互动，宣布与百度...
- ## [海能达多模智能对讲机家族新添重磅利器](http://mp.weixin.qq.com/s?src=11&timestamp=1562198405&ver=1707&signature=0YQcI1tnVphaaWWYwPKKCmPu7CwJKhZa7OfC-5AVL2MFiOCL6HhQBC*sGVVRo3oZwTaR1BNEEjW028Of9eEWo8N0ua8Avlbb9HDooL6*lMap-ix2yDYnviLisOQn*R19&new=1)
+ ## [海能达多模智能对讲机家族新添重磅利器](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=0YQcI1tnVphaaWWYwPKKCmPu7CwJKhZa7OfC-5AVL2P-ivpppE6Xnt9GS5iyAVuxIzTabTBA*Jmfu92YRUVH3LY09jrQEMHzJnHsWFeLXyaSt-fkk9TfWF*QDqj2aPND&new=1)
  > 近日，海能达发布了多模智能对讲机家族重磅新品PTC680/PDC680，旨在为行业客户带来更专业的智能对讲服务，确保关键任务通信。　　从当前趋势来看，宽窄融合、公专互通仍是全球专网通信行业发展毋庸置疑的方...
- ## [全球最新5G排名出炉，华为囊括全部第一，说明什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1562198405&ver=1707&signature=2whqprRz5*Yp45IJ5EKCRgcJ0lU52vRLZuHMAhTFOAkCpkNU1rqp4i7-LhmiyFf4s6SXAJEP8DygM5LoFuOhbBRFiMUGACA37ForBeyhk5SyQDMdEUm80wQy4lLeQnuA&new=1)
+ ## [刚刚，联通再重磅起航：誓言要引领5G生态新发展..](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=y7fsd1XqP3LcVctxow2qzZVBB-EByC6Cmz*mYgOfCW485IQWMrKxuEx35I9FhI11yftQcvmUC7vNtb9GDW569suULuK-AEjwq89EdWBqaDQCnlaaj87JpWEawumheWru&new=1)
+ > 7月3日，由河北联通主办的“联通5Gⁿ 让未来生长” 5G创新发展大会暨合作伙伴大会在石家庄正式举行。会上，河北联通与合伙伙伴共同探讨5G应用发展新业务、新场景及合作新模式，现场还正式举行河北联通创富3.0计...
+ ## [中国移动200亿5G一期无线工程设计集采结果出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=SDxaECEY40zLfHn6aWKJAS9uTStiAN2bfUx1FCpifq8ZsWu4QiLiLYa13LsyZsvEUGQ37Ku0pu2zUCQNTRRlGJJ7Diqsfo0HuRs261p-C46wVbMcDm-vQb7KYUBrOB-h&new=1)
+ > 2019年6月10日，中国移动发布《中国移动2019年5G一期无线工程设计及可行性研究服务集中采购_招标公告》。公告显示，中国移动2019年5G一期无线工程设计及可行性研究服务预估工程费1（设计费计价基数）为192.578亿...
+ ## [全球最新5G排名出炉，华为囊括全部第一，说明什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=2whqprRz5*Yp45IJ5EKCRgcJ0lU52vRLZuHMAhTFOAlsXHPV2GpN3SVAmwTXRaPIo-iAdxxCrOzu3JkGtJTwdeGuROzHdxY0eyrPpjy2dUaz5D-uO-XCuYV810p8xAzg&new=1)
  > 随着全球5G商用拉开帷幕，运营商开始建5G网，业界更加关注通信系统设备商的5G方案性能对比。近日，第三方数据分析公司GlobalData发布最新全球5G RAN（无线接入网）排名报告。该报告对全球五大通信网络设备商华为...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -57,6 +59,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [从Web开发者的视角来解读MVC架构](http://developer.51cto.com/art/201907/598921.htm)
+ > 从Web开发者的视角来解读MVC架构
  ## [不容错过的MySQL和MariaDB七项功能](http://database.51cto.com/art/201907/598881.htm)
  > 不容错过的MySQL和MariaDB七项功能
  ## [心里没点B树，怎能吃透数据库索引底层原理？](http://database.51cto.com/art/201907/598949.htm)
@@ -71,80 +75,108 @@ categories: IT NEWS
  > 下一个十年需要的五大IT技能
  ## [谷歌悄摸开发的新系统Fuchsia，将会是Android终结者](http://mobile.51cto.com/ahot-598915.htm)
  > 谷歌悄摸开发的新系统Fuchsia，将会是Android终结者
- ## [求职网站Indeed统计：AI 招工速度放缓，求职者兴趣下降](http://ai.51cto.com/art/201907/598902.htm)
- > 求职网站Indeed统计：AI 招工速度放缓，求职者兴趣下降
+ ## [不完全预测：八大前端JavaScript趋势和工具](http://developer.51cto.com/art/201907/599010.htm)
+ > JavaScript的世界正在快速发展。前端开发(和网络开发)的世界正在以极快的速度发展。如今，如果不借助前端或
+ ## [是谁撬动了互联网的世界？全球十大受欢迎编程语言专家](http://news.51cto.com/art/201907/599008.htm)
+ > 以下是世界上排名前10位的编程语言程序员专家名单。每个程序员都应该了解它他们，并学习一门新的编程语言。
+ ## [详解Linux工具--Nethogs按进程监控网络带宽，值得收藏](http://os.51cto.com/art/201907/599009.htm)
+ > 目前Linux系统有很多开源网络监视工具.比如说,你可以用命令iftop来检查带宽使用情况. netstat用来查看接口
  ## [有多少物联网设备？](http://iot.51cto.com/art/201907/599007.htm)
  > 物联网设备数量是一个不断变化的变量，而市场调查机构的预测数字都是归结为有根据的猜测，而不是确切的数字
  ## [痛！“做C半年，挣的不如做AI 1个月?”看到第二句泪目……](https://blog.csdn.net/CSDNedu/article/details/94432047)
  > 痛！“做C半年，挣的不如做AI 1个月?”看到第二句泪目……
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [Javascript漂流记（下）__深入数组扩展方法（二）](https://blog.csdn.net/AquamanTrident/article/details/91355223)
- > Javascript漂流记（下）__深入数组扩展方法（二）
- ## [Web前端篇：CSS常用格式化排版](https://blog.csdn.net/ITmiaomiao666/article/details/91896394)
- > Web前端篇：CSS常用格式化排版
- ## [【甄选资讯】日本设计行业优秀的设计网站](https://blog.csdn.net/uzing/article/details/91829114)
- > 【甄选资讯】日本设计行业优秀的设计网站
- ## [前端js入门——JavaScript 对象直接量](https://blog.csdn.net/fenghulun/article/details/91049993)
- > 前端js入门——JavaScript 对象直接量
- ## [Web前端篇：css背景属性和边框属性](https://blog.csdn.net/ITmiaomiao666/article/details/91899241)
- > Web前端篇：css背景属性和边框属性
- ## [\[业务知识\]研发管理 敏捷开发](https://blog.csdn.net/ZYD45/article/details/90898548)
- > \[业务知识\]研发管理 敏捷开发
- ## [前端基础入门（4）列表及其样式](https://blog.csdn.net/fenghulun/article/details/91348050)
- > 前端基础入门（4）列表及其样式
- ## [Javascript漂流记（上）__事件、异步加载、时间线](https://blog.csdn.net/AquamanTrident/article/details/91346414)
- > Javascript漂流记（上）__事件、异步加载、时间线
- ## [36 守护进程、守护线程、锁](https://blog.csdn.net/weixin_43265998/article/details/91549552)
- > 36 守护进程、守护线程、锁
- ## [前端基础入门（9）css盒子](https://blog.csdn.net/fenghulun/article/details/91470658)
- > 前端基础入门（9）css盒子
- ## [项目开始阶段（三）](https://blog.csdn.net/weixin_44541224/article/details/91357063)
- > 项目开始阶段（三）
- ## [项目研发管理经验交流](https://blog.csdn.net/Appleyk/article/details/91042151)
- > 项目研发管理经验交流
- ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
- > IBM-IPD研发管理职能
+ ## [大家的人工智能——线性回归](https://blog.csdn.net/LXYTSOS/article/details/90815437)
+ > 大家的人工智能——线性回归
+ ## [web前端篇:CSS使用，样式表特征](https://blog.csdn.net/ITmiaomiao666/article/details/91625943)
+ > web前端篇:CSS使用，样式表特征
+ ## [人工智能 —— 代价树的盲目搜索](https://blog.csdn.net/starter_____/article/details/91647905)
+ > 人工智能 —— 代价树的盲目搜索
+ ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
+ > 云计算介绍之云计算存储(2)
+ ## [前端js入门——JavaScript 作用域](https://blog.csdn.net/fenghulun/article/details/91050051)
+ > 前端js入门——JavaScript 作用域
+ ## [web前端篇:html基础知识（2）](https://blog.csdn.net/ITmiaomiao666/article/details/91622292)
+ > web前端篇:html基础知识（2）
+ ## [前端基础入门（2）选取工具：VS2019安装使用](https://blog.csdn.net/fenghulun/article/details/91348017)
+ > 前端基础入门（2）选取工具：VS2019安装使用
+ ## [人工智能--代价树的盲目搜索](https://blog.csdn.net/hjc256/article/details/91358830)
+ > 人工智能--代价树的盲目搜索
+ ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
+ > 大数据与云计算概念的解析
+ ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
+ > 大家的人工智能——正规方程
+ ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
+ > 云计算介绍之云计算存储(1)
+ ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
+ > 前端基础入门（13）contenteditable 属性
+ ## [web前端篇:css练习题](https://blog.csdn.net/ITmiaomiao666/article/details/91630303)
+ > web前端篇:css练习题
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [为什么说“大公司的技术顽疾根本挽救不了”？](https://blog.csdn.net/csdnnews/article/details/94593036)
+ > 【CSDN 编者按】在很多开发者看来，提升敏捷性是解决技术难题的不二法则。但本文的作者作为一家有着一百多年历史的大公司的技术援助顾问却认为，由于历史遗留、文化隔阂等原因决...
+ ## [一个高度近视眼的深度学习实践](https://blog.csdn.net/csdnnews/article/details/94593043)
+ > 1傍晚，忙了一天的 Ray 终于下班了，摘下眼镜休息下疲劳的双眼，他走到公交车站等 23 路公交车准备回家。对于一个高度近视眼的人来说，Ray 每天都有很多烦恼，因为他看...
+ ## [25 年 IT 老兵零基础写小说，作品堪比《三体》| 人物志](https://blog.csdn.net/csdnnews/article/details/94593044)
+ > 受访者 | 白丁采访者 | 伍杏玲出品 |程序人生（ID：coder_life）在年轻程序员正焦虑“35岁程序员被淘汰”时，有一位从业 25 年的 IT 老兵，从程序员...
  ## [重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…](https://blog.csdn.net/csdnnews/article/details/94567411)
  > 根据第 19 届 KDnuggets调查显示，Python 成数据分析、数据科学与机器学习的第一大语言。图片来源于第 19 届 KDnuggets软件大调查Python 在机器学习中的地位日益扩大，2017 年，机器学习中Python 的使用率超过 50%，今年则直接上升到 66%...
  ## [这项技术，风头正劲，BAT要力捧！程序员：我彻底慌了...](https://blog.csdn.net/csdnnews/article/details/94565701)
  > 人工智能离我们还遥远吗？近日，海底捞斥资1.5亿打造了中国首家火锅无人餐厅；阿里酝酿了两年之久的全球首家无人酒店也正式开始运营，百度无人车彻底量产。李彦宏称，这是中国第一款能够量产的无人驾驶乘用车。而阿里的这家无人酒店，在入住时客人只需在大堂自助机上刷脸，就能靠脸享受一切服务。乘电梯，吃喝玩乐...
+ ## [百度与华为重磅合作！李彦宏：技术是百度的信仰](https://blog.csdn.net/csdnnews/article/details/94593040)
+ > 这是百度第三年举办AI开发者大会。一生二，二生三，三生万物。AI虽然不能产生万物，但是正在“唤醒万物”。作者 | 阿司匹林出品 | AI科技大本营（ID:rgznai10...
+ ## [拒绝经验过剩，“程序员的工作只能是代码”？](https://blog.csdn.net/csdnnews/article/details/94593041)
+ > 似乎软件工程师都有一个自然而然的成长过程：从缺乏经验的新手，发展到中级工程师，进而成为经验过剩的工程师。一旦软件工程师进入经验过剩阶段，他们对代码的兴趣就会降低！那么哪些...
+ ## [如何利用 Android 自定义控件实现炫酷的动画？｜CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/94593042)
+ > 作者 |u012551350本文精选自 CSDN 博客，已获作者授权「知足常乐」，很多人不满足现状，各种折腾，往往舍本逐末，常乐才能少一分浮躁，多一分宁静。近期在笔者身...
+ ## [华为将发布鲲鹏 920 芯片数据；三星 S10 自燃；Mageia 7 正式发布 | 极客头条](https://blog.csdn.net/csdnnews/article/details/94593039)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [不要让开源成为贸易战的牺牲品！](https://blog.csdn.net/csdnnews/article/details/94593045)
+ > 贸易战引发了开源命运讨论的问题。但是现在，是时候团结起来，保护开发者最珍视的自由了！作者 |Bunnie译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSD...
  ## [调查|网龙魔域游戏被指涉嫌赌博，玩家2小时损失5万元](http://www.lanjingtmt.com/news/detail/43458.shtml)
  > “我们被坑惨了，这是赤裸裸的变相赌博。我们有个维权群，几十个朋友玩这个游戏,输的钱少则几十万，多则上千万。”魔域玩家方逐（化名）对记者如是称。
 # 人工智能 
- ## [人工智能 —— 代价树的盲目搜索](https://blog.csdn.net/starter_____/article/details/91647905)
- > 人工智能 —— 代价树的盲目搜索
- ## [UGUI系统--事件系统架构之光线投射模块_04](https://blog.csdn.net/weixin_36285892/article/details/91875054)
- > UGUI系统--事件系统架构之光线投射模块_04
- ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
- > 区块链如何改变人工智能
- ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
- > 关于“人工智能”的一点思考
- ## [Connect Four四子棋c++程序 - 用户交互（1）](https://blog.csdn.net/Irlyue/article/details/91348019)
- > Connect Four四子棋c++程序 - 用户交互（1）
- ## [Centos7 下mysql8.0的安装以及修改初始密码；](https://blog.csdn.net/weixin_44691065/article/details/91891794)
- > Centos7 下mysql8.0的安装以及修改初始密码；
- ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
- > 信息系统安全运维
- ## [大家的人工智能——线性回归](https://blog.csdn.net/LXYTSOS/article/details/90815437)
- > 大家的人工智能——线性回归
- ## [人工智能导论复习](https://blog.csdn.net/weixin_44517301/article/details/91357751)
- > 人工智能导论复习
- ## [Connect Four四子棋c++程序 - 显示窗口（0）](https://blog.csdn.net/Irlyue/article/details/91347438)
- > Connect Four四子棋c++程序 - 显示窗口（0）
- ## [\[Linux\]运维面试(二)](https://blog.csdn.net/qq_44839276/article/details/90763352)
- > \[Linux\]运维面试(二)
- ## [chkconfig筛选出不需要的服务并关闭的两种方法](https://blog.csdn.net/junjie77649/article/details/91358811)
- > chkconfig筛选出不需要的服务并关闭的两种方法
- ## [k8s外网如何访问业务应用之Service 池化pod](https://blog.csdn.net/zhutongcloud/article/details/91038868)
- > k8s外网如何访问业务应用之Service 池化pod
- ## [zabbix配置自动发现vmware Vcenter虚拟机](https://blog.csdn.net/m0_37970252/article/details/91351828)
- > zabbix配置自动发现vmware Vcenter虚拟机
- ## [堡垒机哲学史 | 三个问题：堡垒机从哪里来？到哪里去？是什么？](https://blog.csdn.net/qizhitech/article/details/91833234)
- > 堡垒机哲学史 | 三个问题：堡垒机从哪里来？到哪里去？是什么？
+ ## [炒币机器人：区块链从业者必知的区块链六大核心算法](https://blog.csdn.net/ofkings95/article/details/90767097)
+ > 炒币机器人：区块链从业者必知的区块链六大核心算法
+ ## [理解区块链中的不变性](https://blog.csdn.net/weixin_44172023/article/details/91414178)
+ > 理解区块链中的不变性
+ ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
+ > 文献阅读-区块链发展现状与展望
+ ## [金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点](https://blog.csdn.net/IFTNews/article/details/90767019)
+ > 金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点
+ ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
+ > 20年研发管理经验谈（五）
+ ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
+ > 爱的故事，用Jira策划的浪漫婚礼
+ ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
+ > 20年研发管理经验谈（八）
+ ## [【面试】足够应付面试的Spring事务源码阅读梳理（建议珍藏）](https://blog.csdn.net/weixin_44811417/article/details/91415545)
+ > 【面试】足够应付面试的Spring事务源码阅读梳理（建议珍藏）
+ ## [\[业务知识\]研发管理 敏捷开发](https://blog.csdn.net/ZYD45/article/details/90898548)
+ > \[业务知识\]研发管理 敏捷开发
+ ## [《区块链基础知识25讲》-第十六讲-保护数据安全](https://blog.csdn.net/qq_40061206/article/details/91044704)
+ > 《区块链基础知识25讲》-第十六讲-保护数据安全
+ ## [万年不变的 Top3 终于变了，6 月编程语言排行榜](https://blog.csdn.net/Coo123_/article/details/91562401)
+ > 万年不变的 Top3 终于变了，6 月编程语言排行榜
+ ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
+ > Go语言-----入门笔记
+ ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
+ > 【编程语言】Swift完全自学手册
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
+ ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
+ > 《区块链基础知识25讲》-第二十四讲-使用区块链
 # PM 
+ ## [不同阶段，产品成功怎么做？](http://www.woshipm.com/operate/2537952.html)
+ > 在产品的初期、中期和后期阶段，产品的重点关注是什么？产品成功之路上还需要做什么？产品成功的关键因素其实不多，目前大家比较认同的还是雷军说的那一句“顺势而为，...
+ ## [怎样少付工资，但让90后员工对你死心塌地？](http://www.woshipm.com/zhichang/2540406.html)
+ > 一个绝妙的好点子要与你分享。不存在的。OK……说正经的，今天这篇不聊她经济，聊聊企业中的管理方法论。上周我的投资人组了一个局，把一帮创始人聚在一起复(su)盘(ku...
+ ## [这样的文案，早过时了](http://www.woshipm.com/copy/2540504.html)
+ > 时代在发展，文案也该与时俱进了。这个时代，不仅知识需要更新，文案也需要更新。我自认为是个有才华的人，对文字的领悟力和驾驭能力超过绝大多数人，所谓“文无第一...
+ ## [那些为了拍 Vlog 而拍 Vlog 的人](http://www.woshipm.com/it/2540068.html)
+ > 微博平台推出了明星制片人微计划的话题，吸引明星们自发组织拍摄vlog，阅读量已经达到110亿，引起了1.7亿的讨论。并且设置了官方微博，粉丝数量已经突破83万。不得不...
  ## [2019中国车载音频行业发展盘点](http://www.chanpin100.com/article/108827)
  > 推送浪漫歌曲，推荐并预定餐厅、酒店，你以为这些都只能靠手机或PC实现？如今车载服务正飞速发展，不仅能实现以上功能，还能为车主提供更精准的服务。自去年开始，各大厂商就推出了酒店、机票预订，推送新闻电台，无感支付等车载服务，满足用户出行的各种需求。而车载音频作为当下汽车使用者车上娱乐的主要内容来源，对于
  ## [2019中国汽车金融市场数字化发展专题分析](http://www.chanpin100.com/article/108828)
