@@ -1,22 +1,57 @@
 ---
 title: 2019-07-04 IT News
 copyright: true
-date: 2019-07-04 09:01:10
+date: 2019-07-04 10:01:22
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2019年7月4日 星期四</b></summary><div class="news-list-content"><p>1. &#23567;&#24230;&#21161;&#25163;&#24320;&#21551;&#8220;&#20869;&#23481;&#19982;&#30005;&#21830;&#8221;&#21452;&#20250;&#21592;&#27169;&#24335;&#65292;&#34619;&#34579;FM&#20026;&#38899;&#39057;&#39046;&#22495;&#39318;&#23478;&#21512;&#20316;&#24179;&#21488;</p>
+<p>2. &#30418;&#39532;&#19978;&#32447;&#26032;&#19994;&#21153;&#8220;&#30333;&#33756;&#33457;&#22346;&#8221;&#65292;&#36827;&#20891;&#40092;&#33457;&#24066;&#22330;</p>
+<p>3. &#30334;&#24230;&#32852;&#21512;&#28006;&#21457;&#38134;&#34892;&#25512;&#20986;&#8220;&#37329;&#34701;&#25968;&#23383;&#20154;&#8221;&#65292;&#39044;&#35745;&#24180;&#20869;&#27491;&#24335;&#21457;&#24067;</p>
+<p>4. &#25903;&#20184;&#23453;&#23558;&#25512;&#20986;&#20813;&#36153;&#25968;&#23383;&#21270;&#36816;&#33829;&#24037;&#20855;&#65292;&#26410;&#26469;3&#24180;&#20026;&#23567;&#21830;&#23478;&#33267;&#23569;&#30465;500&#20159;&#20803;</p>
+<p>5. &#19978;&#28023;&#20154;&#24037;&#26234;&#33021;&#21457;&#23637;&#32852;&#30431;&#25104;&#31435;&#65292;&#23506;&#27494;&#32426;&#12289;&#22320;&#24179;&#32447;&#12289;&#21830;&#27748;&#31185;&#25216;&#31561;&#25104;&#39318;&#23626;&#29702;&#20107;&#21333;&#20301;</p>
+<p>6. &#36259;&#22836;&#26465;&#23413;&#21270;&#8220;&#29699;&#29699;&#35270;&#39057;&#8221;&#65292;&#21152;&#32039;&#24067;&#23616;&#19979;&#27785;&#24066;&#22330;&#30701;&#35270;&#39057;&#29983;&#24577;</p>
+<p>7. &#26032;&#28010;&#36130;&#32463;APP&#19978;&#32447;&#25968;&#23383;&#36135;&#24065;&#34892;&#24773;&#65292;&#21253;&#21547;36&#20010;&#24065;&#31181;</p>
+<p>8. &#21326;&#20026;&#12289;&#33150;&#35759;&#12289;&#23500;&#22763;&#24247;&#12289;&#32852;&#36890;&#21457;&#36215;&#25104;&#31435;&#28145;&#22323;&#24037;&#19994;&#20114;&#32852;&#32593;&#32852;&#30431;</p>
+<p>9. &#21307;&#30103;&#22823;&#25968;&#25454;&#24179;&#21488;&#12300;&#26862;&#20159;&#26234;&#33021;&#12301;&#33719;&#33150;&#35759;&#12289;&#22269;&#33647;&#36164;&#26412;C&#36718;2.5&#20159;&#20803;&#34701;&#36164;</p>
+<p>10. &#22312;&#26657;&#23454;&#20064;&#23601;&#19994;&#25307;&#32856;&#21697;&#29260;&#12300;&#26657;&#32856;&#32593;&#12301;&#23436;&#25104;2000&#19975;&#20803;A&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】 2019年7月3日 星期三</b></summary><div class="news-list-content"><p>1. &#24037;&#20449;&#37096;&#28857;&#21517;18&#23478;&#20225;&#19994;&#65281;&#39295;&#20102;&#20040;&#12289;&#23567;&#32418;&#20070;&#12289;&#32593;&#26131;&#32771;&#25289;&#12289;&#34701;360&#31561;&#22810;&#27454;APP&#23384;&#22312;&#26410;&#32463;&#21516;&#24847;&#25910;&#38598;&#29992;&#25143;&#20449;&#24687;</p>
+<p>2. &#30003;&#36890;&#24555;&#36882;&#25511;&#32929;&#32929;&#19996;&#32929;&#26435;&#36807;&#25143;&#23436;&#25104;&#65292;&#38463;&#37324;&#24052;&#24052;&#27491;&#24335;&#20837;&#32929;&#25237;&#36164;46.7&#20159;&#20803;&#25345;&#32929;49%</p>
+<p>3. &#28404;&#28404;&#65306;&#20170;&#24180;&#23558;&#25237;&#20837;&#23433;&#20840;&#36164;&#37329;20&#20159;&#20803;&#65292;&#23433;&#20840;&#22242;&#38431;&#25193;&#20805;&#33267;2500&#20313;&#20154;</p>
+<p>4. &#24037;&#20449;&#37096;&#19982;&#33150;&#35759;&#24494;&#20449;&#27491;&#24335;&#21512;&#20316;&#65292;&#25512;&#20986;&#20840;&#22269;&#39318;&#20010;&#26435;&#23041;&#23448;&#26041;&#22902;&#31881;&#28335;&#28304;&#23567;&#31243;&#24207;</p>
+<p>5. &#25903;&#20184;&#23453;&#22238;&#24212;&#22899;&#24615;&#29992;&#25143;&#23244;&#21047;&#33080;&#25903;&#20184;&#22826;&#19985;&#65306;&#19968;&#21608;&#20869;&#20840;&#22269;&#38376;&#24215;&#21047;&#33080;&#31995;&#32479;&#19978;&#32447;&#32654;&#39068;&#21151;&#33021;</p>
+<p>6. &#38134;&#27827;&#27700;&#28404;&#21457;&#24067;&#27493;&#24577;&#35782;&#21035;&#20114;&#32852;&#31995;&#32479;&#65292;&#25903;&#25345;&#19978;&#19975;&#36335;&#25668;&#20687;&#26426;&#24182;&#21457;</p>
+<p>7. &#22810;&#37051;&#22269;&#27491;&#24335;&#30331;&#38470;&#20013;&#22269;&#65292;&#20840;&#26032;&#19978;&#32447;&#26085;&#12289;&#38889;&#12289;&#27861;&#12289;&#24847;&#22235;&#38376;&#35821;&#35328;&#20013;&#25991;&#29256;&#35838;&#31243;</p>
+<p>8. &#32654;&#22270;&#20986;&#21806;&#25163;&#26426;&#19994;&#21153;&#21518;&#36827;&#20891;&#21307;&#30103;&#65292;&#25104;&#31435;&#22823;&#20581;&#24247;&#31649;&#29702;&#26377;&#38480;&#20844;&#21496;</p>
+<p>9. &#22269;&#20869;&#20809;&#21051;&#33014;&#39046;&#22836;&#20225;&#19994;&#12300;&#31185;&#21326;&#24494;&#30005;&#23376;&#12301;&#33719;&#24471;1.7&#20159;&#20803;&#25112;&#30053;&#34701;&#36164;</p>
+<p>10. &#30719;&#29992;&#36710;&#26080;&#20154;&#39550;&#39542;&#20844;&#21496;&#12300;&#26131;&#25511;&#26234;&#39550;&#12301;&#33719;6000&#19975;&#20803;&#22825;&#20351;&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [3.6分钟下线一辆车，百度Apollo开启自动驾驶前装量产时代](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=5CvR3KBw52LNwDPIi6QttJMeCy2vS84h-karHAuo*5LZ7JDQRKWfHi2Qabe2h4ICU8bRfxuqMyWIcz6C208p28pafj*JnY0-A0ruNyeJtPIlgxrfYnIu7qcGvNtVAgeU&new=1)
- > 百度Valet Parking自主泊车的方案是利用百度独有的车云图场一体解决方案以及云和高精地图优势，来实现了智能泊车场端改造的最佳性价比。文丨AutoR智驾  明阳这是一个疯狂时代。李书福站上了百度的舞台，百度Aopl...
- ## [吉利花样发新车!造芯片推手表，BAT高管还组队站台](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=TN6q-cc*2VgILR2mj7MaV07i*hZ-7K4u9sEB5dN949Q9y3B5RYaor2YUvLr3eXMhE6bTZ323ulsl3ShFAzFTZxVQ8oQmxN66KzdvJ*mCTiEir6giimlfEY4MHqs6dIgW&new=1)
- > ch共    看点：自主一哥要造智能汽车，BAT、小米、360组队站台。车东西 | Bear7月3日对吉利来说，是一个热闹的大日子。先是吉利董事长李书福赶到百度的年度盛会——AI开发者大会上与李彦宏亲密互动，宣布与百度...
- ## [海能达多模智能对讲机家族新添重磅利器](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=0YQcI1tnVphaaWWYwPKKCmPu7CwJKhZa7OfC-5AVL2P-ivpppE6Xnt9GS5iyAVuxIzTabTBA*Jmfu92YRUVH3LY09jrQEMHzJnHsWFeLXyaSt-fkk9TfWF*QDqj2aPND&new=1)
- > 近日，海能达发布了多模智能对讲机家族重磅新品PTC680/PDC680，旨在为行业客户带来更专业的智能对讲服务，确保关键任务通信。　　从当前趋势来看，宽窄融合、公专互通仍是全球专网通信行业发展毋庸置疑的方...
- ## [刚刚，联通再重磅起航：誓言要引领5G生态新发展..](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=y7fsd1XqP3LcVctxow2qzZVBB-EByC6Cmz*mYgOfCW485IQWMrKxuEx35I9FhI11yftQcvmUC7vNtb9GDW569suULuK-AEjwq89EdWBqaDQCnlaaj87JpWEawumheWru&new=1)
+ ## [刚刚，联通再重磅起航：誓言要引领5G生态新发展..](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=y7fsd1XqP3LcVctxow2qzZVBB-EByC6Cmz*mYgOfCW485IQWMrKxuEx35I9FhI11c-e55CUvZui1uEyGvCU*xNP*YXWHWucWJOtJmSU39cPJvJOU--USAeugGvW2JKt9&new=1)
  > 7月3日，由河北联通主办的“联通5Gⁿ 让未来生长” 5G创新发展大会暨合作伙伴大会在石家庄正式举行。会上，河北联通与合伙伙伴共同探讨5G应用发展新业务、新场景及合作新模式，现场还正式举行河北联通创富3.0计...
- ## [中国移动200亿5G一期无线工程设计集采结果出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=SDxaECEY40zLfHn6aWKJAS9uTStiAN2bfUx1FCpifq8ZsWu4QiLiLYa13LsyZsvEUGQ37Ku0pu2zUCQNTRRlGJJ7Diqsfo0HuRs261p-C46wVbMcDm-vQb7KYUBrOB-h&new=1)
+ ## [\[科技早报7点整\]百度官方回应李彦宏遭泼水 张朝阳再谈5G对人体有危害言论……](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=lEJaZka8u0BWmyGVRB5F5ujQ48xdKmE64kENDCPhqVf292HwnTVlx1oLgqfJWwJUI1Xy1B10ucI469HzRQtI8IvaNlATaisQ77WKtx8weuVg-oh4ZwC0UXojAZsWfL58&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第521期1.中国联通回应关闭2G、3G服务：手机不支持，非关停近日，有媒体报道联通逐渐关闭2G3G信号服务 ，对此，中国联通回应称，报道中显示“客户使用3G手机仍无法通话使用”的...
+ ## [关注|特朗普"解禁"华为 任正非回应称：不会对业务产生“太大影响”适应了遭美国敌视](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=QgA68y1KQ17sI1vQlWxjkiYN3ohtrdsucLivvDBh6seXlWS9tmigr0jgixrUTzKbMyexEGhI2vfxWYPJxXiKz9bSZXEm1MyoLvrVxkUIunmM0uwOYePcgCtNJ98K2BZr&new=1)
+ > 导读       外媒称，针对特朗普放松对华为设备禁令的举动，任正非回应表示，这不会对其业务产生“太大影响”，因为他们适应了遭美国敌视的新时代。此前特朗普在大阪召开记者会时表示，美国企业可以继续向华为出...
+ ## [吉利花样发新车!造芯片推手表，BAT高管还组队站台](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=TN6q-cc*2VgILR2mj7MaV07i*hZ-7K4u9sEB5dN949Q9y3B5RYaor2YUvLr3eXMhX1p6aeqUB0xth7M2LNXoxWTJhzHFhNG09*n8WpbizyzlbVqWjhbfADHQAB30n0Nl&new=1)
+ > ch共    看点：自主一哥要造智能汽车，BAT、小米、360组队站台。车东西 | Bear7月3日对吉利来说，是一个热闹的大日子。先是吉利董事长李书福赶到百度的年度盛会——AI开发者大会上与李彦宏亲密互动，宣布与百度...
+ ## [7点见|百度回应：向李彦宏泼水者已被警方带走调查；教育部约谈百度360；乐视体育被吊销营业执照](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=0qsgLcBd9QJWJNYfuiXkTV*YQDeXk7Hq0u*Vsrc-3WgacyREuUWyHgVwJ1wxRVM3ioS3nhUQCW1EvOWlcLL*uluXfbh4nXYTMz3Uqo8u83wgQ4JSy9teuTWXimGn6Vs8&new=1)
+ > 关键时刻，第一时间送达各位小伙伴们，早上好哇！夏日的气息越来越浓郁啦，全国各地在经受高温炙烤的同时，也躲不过暴雨的肆虐，所以大家要注意做好防晒和防雨双重准备哦。好了，下面就一起来看看小七为您准备的...
+ ## [3.6分钟下线一辆车，百度Apollo开启自动驾驶前装量产时代](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=5CvR3KBw52LNwDPIi6QttJMeCy2vS84h-karHAuo*5LZ7JDQRKWfHi2Qabe2h4IC2snRgrbq7cAzyWR0a3cJXJFqah8LKCmxSmybAb89Z-amzXDE-3bi26TOm*ngWHTT&new=1)
+ > 百度Valet Parking自主泊车的方案是利用百度独有的车云图场一体解决方案以及云和高精地图优势，来实现了智能泊车场端改造的最佳性价比。文丨AutoR智驾  明阳这是一个疯狂时代。李书福站上了百度的舞台，百度Aopl...
+ ## [海能达多模智能对讲机家族新添重磅利器](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=0YQcI1tnVphaaWWYwPKKCmPu7CwJKhZa7OfC-5AVL2P-ivpppE6Xnt9GS5iyAVuxn-sDlrT9MNYTmL2X9aNNFGJgvMGyz7YsKPDuZaQeJucMRaHSHiLUye46cLDNRZGs&new=1)
+ > 近日，海能达发布了多模智能对讲机家族重磅新品PTC680/PDC680，旨在为行业客户带来更专业的智能对讲服务，确保关键任务通信。　　从当前趋势来看，宽窄融合、公专互通仍是全球专网通信行业发展毋庸置疑的方...
+ ## [中国移动200亿5G一期无线工程设计集采结果出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=SDxaECEY40zLfHn6aWKJAS9uTStiAN2bfUx1FCpifq8ZsWu4QiLiLYa13LsyZsvE7Y6aK8lwD3WBhsux9tQ*E8ANrLUOeoTkEqzxYi3CDYcomqKCDslvnZXVDANGUu7R&new=1)
  > 2019年6月10日，中国移动发布《中国移动2019年5G一期无线工程设计及可行性研究服务集中采购_招标公告》。公告显示，中国移动2019年5G一期无线工程设计及可行性研究服务预估工程费1（设计费计价基数）为192.578亿...
- ## [全球最新5G排名出炉，华为囊括全部第一，说明什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1562202005&ver=1707&signature=2whqprRz5*Yp45IJ5EKCRgcJ0lU52vRLZuHMAhTFOAlsXHPV2GpN3SVAmwTXRaPIo-iAdxxCrOzu3JkGtJTwdeGuROzHdxY0eyrPpjy2dUaz5D-uO-XCuYV810p8xAzg&new=1)
+ ## [全球最新5G排名出炉，华为囊括全部第一，说明什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1562205604&ver=1707&signature=2whqprRz5*Yp45IJ5EKCRgcJ0lU52vRLZuHMAhTFOAlsXHPV2GpN3SVAmwTXRaPIZUQq7AS9Zzbj9RMOstUjw-5hJCAgchpev1rWFHreGOaraLJSCebnkStchDgVuYWo&new=1)
  > 随着全球5G商用拉开帷幕，运营商开始建5G网，业界更加关注通信系统设备商的5G方案性能对比。近日，第三方数据分析公司GlobalData发布最新全球5G RAN（无线接入网）排名报告。该报告对全球五大通信网络设备商华为...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -59,6 +94,10 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [突发！李彦宏被泼水，你怎么看?](http://news.51cto.com/art/201907/599016.htm)
+ > 突发！李彦宏被泼水，你怎么看?
+ ## [终于有人把中台说清楚了](http://developer.51cto.com/art/201907/599015.htm)
+ > 终于有人把中台说清楚了
  ## [从Web开发者的视角来解读MVC架构](http://developer.51cto.com/art/201907/598921.htm)
  > 从Web开发者的视角来解读MVC架构
  ## [不容错过的MySQL和MariaDB七项功能](http://database.51cto.com/art/201907/598881.htm)
@@ -71,48 +110,52 @@ categories: IT NEWS
  > 帮你理解人工智能的7种类型
  ## [让AI帮城市倒垃圾，暂时可能还没戏](http://ai.51cto.com/art/201907/598912.htm)
  > 让AI帮城市倒垃圾，暂时可能还没戏
- ## [下一个十年需要的五大IT技能](http://news.51cto.com/art/201907/598837.htm)
- > 下一个十年需要的五大IT技能
- ## [谷歌悄摸开发的新系统Fuchsia，将会是Android终结者](http://mobile.51cto.com/ahot-598915.htm)
- > 谷歌悄摸开发的新系统Fuchsia，将会是Android终结者
+ ## [微软突然宣传 Windows 1.0，神秘预告吊足胃口](http://news.51cto.com/art/201907/599018.htm)
+ > 微软 Windows 团队昨天在 Twitter 发布了一则【奇怪的】视频，并配文表示将推出全新的 Windows 1.0，且会包
+ ## [作为外包，你后悔吗？](http://news.51cto.com/art/201907/599012.htm)
+ > 一个朋友从小公司跳槽，拿了大厂的外包offer，现在在离职期还未入职，但他一直处于焦虑，担心的状态。
+ ## [身为Java程序员，这些开源工具你怎能不学会？](http://os.51cto.com/art/201907/599011.htm)
+ > 如果你是一位经验丰富的Java开发人员，拥有5到10年的经验，你可能对这些工具很熟悉，但如果不是，现在就是
+ ## [华为发布Volcano开源项目，让AI算力像火山一样迸发](http://news.51cto.com/art/201907/599017.htm)
+ > Volcano 方便 AI、大数据、基因、渲染等诸多行业通用计算框架接入，提供高性能任务调度引擎，高性能异构芯
  ## [不完全预测：八大前端JavaScript趋势和工具](http://developer.51cto.com/art/201907/599010.htm)
  > JavaScript的世界正在快速发展。前端开发(和网络开发)的世界正在以极快的速度发展。如今，如果不借助前端或
  ## [是谁撬动了互联网的世界？全球十大受欢迎编程语言专家](http://news.51cto.com/art/201907/599008.htm)
  > 以下是世界上排名前10位的编程语言程序员专家名单。每个程序员都应该了解它他们，并学习一门新的编程语言。
- ## [详解Linux工具--Nethogs按进程监控网络带宽，值得收藏](http://os.51cto.com/art/201907/599009.htm)
+ ## [到 2022 年，75% 的数据库将托管在云端](http://news.51cto.com/art/201907/599014.htm)
+ > 不久前，MySQL 首席技术官在博客发文表示：“我们正在向云迁移！”所以，数据库向云平台迁移将会是一个趋势
+ ## [详解Linux工具Nethogs按进程监控网络带宽](http://os.51cto.com/art/201907/599009.htm)
  > 目前Linux系统有很多开源网络监视工具.比如说,你可以用命令iftop来检查带宽使用情况. netstat用来查看接口
- ## [有多少物联网设备？](http://iot.51cto.com/art/201907/599007.htm)
- > 物联网设备数量是一个不断变化的变量，而市场调查机构的预测数字都是归结为有根据的猜测，而不是确切的数字
- ## [痛！“做C半年，挣的不如做AI 1个月?”看到第二句泪目……](https://blog.csdn.net/CSDNedu/article/details/94432047)
- > 痛！“做C半年，挣的不如做AI 1个月?”看到第二句泪目……
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [大家的人工智能——线性回归](https://blog.csdn.net/LXYTSOS/article/details/90815437)
- > 大家的人工智能——线性回归
- ## [web前端篇:CSS使用，样式表特征](https://blog.csdn.net/ITmiaomiao666/article/details/91625943)
- > web前端篇:CSS使用，样式表特征
- ## [人工智能 —— 代价树的盲目搜索](https://blog.csdn.net/starter_____/article/details/91647905)
- > 人工智能 —— 代价树的盲目搜索
- ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
- > 云计算介绍之云计算存储(2)
- ## [前端js入门——JavaScript 作用域](https://blog.csdn.net/fenghulun/article/details/91050051)
- > 前端js入门——JavaScript 作用域
- ## [web前端篇:html基础知识（2）](https://blog.csdn.net/ITmiaomiao666/article/details/91622292)
- > web前端篇:html基础知识（2）
- ## [前端基础入门（2）选取工具：VS2019安装使用](https://blog.csdn.net/fenghulun/article/details/91348017)
- > 前端基础入门（2）选取工具：VS2019安装使用
- ## [人工智能--代价树的盲目搜索](https://blog.csdn.net/hjc256/article/details/91358830)
- > 人工智能--代价树的盲目搜索
- ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
- > 大数据与云计算概念的解析
- ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
- > 大家的人工智能——正规方程
- ## [云计算介绍之云计算存储(1)](https://blog.csdn.net/csdn10086110/article/details/91865066)
- > 云计算介绍之云计算存储(1)
- ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
- > 前端基础入门（13）contenteditable 属性
- ## [web前端篇:css练习题](https://blog.csdn.net/ITmiaomiao666/article/details/91630303)
- > web前端篇:css练习题
+ ## [linux安全与优化](https://blog.csdn.net/kehana/article/details/90767080)
+ > linux安全与优化
+ ## [6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管](https://blog.csdn.net/yidunmarket/article/details/91129725)
+ > 6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管
+ ## [Nginx安全防范配置](https://blog.csdn.net/Tiger_lin1/article/details/91354300)
+ > Nginx安全防范配置
+ ## [数据库课设——社团管理系统](https://blog.csdn.net/Godsolve/article/details/91491287)
+ > 数据库课设——社团管理系统
+ ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
+ > OC中的几种延迟执行方式
+ ## [PowerDesigner模型导入SQL出错怎么办](https://blog.csdn.net/weixin_44541076/article/details/91357907)
+ > PowerDesigner模型导入SQL出错怎么办
+ ## [关系数据库系统（数据库原理）](https://blog.csdn.net/y20_20/article/details/91489810)
+ > 关系数据库系统（数据库原理）
+ ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
+ > LANMP安全配置之Nginx安全配置
+ ## [关系数据库、数据库的设计（数据库学习）](https://blog.csdn.net/weixin_43126117/article/details/90758118)
+ > 关系数据库、数据库的设计（数据库学习）
+ ## [Java复习笔记（9）——数据库](https://blog.csdn.net/weixin_36904568/article/details/91045369)
+ > Java复习笔记（9）——数据库
+ ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
+ > Docker安全加固之--LXCFS
+ ## [数据库提升知识点汇总](https://blog.csdn.net/wjl31802/article/details/91347062)
+ > 数据库提升知识点汇总
+ ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
+ > iOS开发安全 防反编译
+ ## [smobiler介绍（一）](https://blog.csdn.net/Smobiler/article/details/90765033)
+ > smobiler介绍（一）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [为什么说“大公司的技术顽疾根本挽救不了”？](https://blog.csdn.net/csdnnews/article/details/94593036)
@@ -138,37 +181,51 @@ categories: IT NEWS
  ## [调查|网龙魔域游戏被指涉嫌赌博，玩家2小时损失5万元](http://www.lanjingtmt.com/news/detail/43458.shtml)
  > “我们被坑惨了，这是赤裸裸的变相赌博。我们有个维权群，几十个朋友玩这个游戏,输的钱少则几十万，多则上千万。”魔域玩家方逐（化名）对记者如是称。
 # 人工智能 
- ## [炒币机器人：区块链从业者必知的区块链六大核心算法](https://blog.csdn.net/ofkings95/article/details/90767097)
- > 炒币机器人：区块链从业者必知的区块链六大核心算法
- ## [理解区块链中的不变性](https://blog.csdn.net/weixin_44172023/article/details/91414178)
- > 理解区块链中的不变性
- ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
- > 文献阅读-区块链发展现状与展望
- ## [金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点](https://blog.csdn.net/IFTNews/article/details/90767019)
- > 金融壹账通京交会发布区块链白皮书 详解如何成功解决行业痛点
- ## [20年研发管理经验谈（五）](https://blog.csdn.net/weixin_39759846/article/details/90901086)
- > 20年研发管理经验谈（五）
- ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
- > 爱的故事，用Jira策划的浪漫婚礼
- ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
- > 20年研发管理经验谈（八）
- ## [【面试】足够应付面试的Spring事务源码阅读梳理（建议珍藏）](https://blog.csdn.net/weixin_44811417/article/details/91415545)
- > 【面试】足够应付面试的Spring事务源码阅读梳理（建议珍藏）
+ ## [信息系统安全运维](https://blog.csdn.net/q947448283/article/details/91493028)
+ > 信息系统安全运维
+ ## [物联网卡可帮助解决物联网数据安全问题](https://blog.csdn.net/qq_40798435/article/details/91871290)
+ > 物联网卡可帮助解决物联网数据安全问题
  ## [\[业务知识\]研发管理 敏捷开发](https://blog.csdn.net/ZYD45/article/details/90898548)
  > \[业务知识\]研发管理 敏捷开发
- ## [《区块链基础知识25讲》-第十六讲-保护数据安全](https://blog.csdn.net/qq_40061206/article/details/91044704)
- > 《区块链基础知识25讲》-第十六讲-保护数据安全
- ## [万年不变的 Top3 终于变了，6 月编程语言排行榜](https://blog.csdn.net/Coo123_/article/details/91562401)
- > 万年不变的 Top3 终于变了，6 月编程语言排行榜
- ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
- > Go语言-----入门笔记
- ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
- > 【编程语言】Swift完全自学手册
- ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
- > IBM-IPD研发管理职能
- ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
- > 《区块链基础知识25讲》-第二十四讲-使用区块链
+ ## [运维入门之bash shell脚本三](https://blog.csdn.net/qq_42103479/article/details/90899348)
+ > 运维入门之bash shell脚本三
+ ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
+ > 物联网卡还可以用在农业自动化的哪些方面
+ ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
+ > 物联网与边缘计算的融合
+ ## [Hadoop集群运维](https://blog.csdn.net/qq_35488412/article/details/91042033)
+ > Hadoop集群运维
+ ## [【运维】从实战掌握自动化运维工具Ansible](https://blog.csdn.net/lsj960922/article/details/91863580)
+ > 【运维】从实战掌握自动化运维工具Ansible
+ ## [k8s外网如何访问业务应用之Service 池化pod](https://blog.csdn.net/zhutongcloud/article/details/91038868)
+ > k8s外网如何访问业务应用之Service 池化pod
+ ## [Centos7 下mysql8.0的安装以及修改初始密码；](https://blog.csdn.net/weixin_44691065/article/details/91891794)
+ > Centos7 下mysql8.0的安装以及修改初始密码；
+ ## [如何使用 CODING 实践 DevOps 全流程](https://blog.csdn.net/CODING_devops/article/details/91046824)
+ > 如何使用 CODING 实践 DevOps 全流程
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [使用阿里短信服务发送终端报警数据](https://blog.csdn.net/m0_38008027/article/details/91571948)
+ > 使用阿里短信服务发送终端报警数据
+ ## [如何进行软件技术管理？](https://blog.csdn.net/pluto4596/article/details/91452283)
+ > 如何进行软件技术管理？
+ ## [当物联网系统出现故障：使用低质量物联网数据的风险 | Linux 中国](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/91449272)
+ > 当物联网系统出现故障：使用低质量物联网数据的风险 | Linux 中国
 # PM 
+ ## [一个算命先生的卦摊3：在活动运营中用户一般在想什么！](http://www.woshipm.com/operate/2541703.html)
+ > 活动运营的背后，其实是关于人的运营。如果不关注人的状态的变化，那么活动运营就没有任何价值。书接上文，让我们把时间轴调回到混沌期，算命先生发现生意不太好，虽...
+ ## [一个项目带你走进产品经理的世界（8）：你真的了解测试吗？](http://www.woshipm.com/pmd/2541585.html)
+ > 上一篇我们简要分析了研发测试，这一篇，我们来重点关注一下测试的工作内容。测试和产品经理有什么关系？测试是最有可能发现产品问题的人，不管是功能 Bug、还是设...
+ ## [四步教你如何提升PUSH到达率](http://www.woshipm.com/operate/2540638.html)
+ > 本文笔者将通过“增加‘系统通知’方式的推送通道”、“找手机厂商开通白名单，避免推送失败的情况”、“进程保活”、“引导打开推送开关”四点来讲述：如何提升PUSH到达率？这...
+ ## [从reddit的一亿美元商业逆袭，看移动与PC产品的时代天堑](http://www.woshipm.com/it/2538789.html)
+ > 作为一个内容极其多样、包容性强的社区论坛，reddit的流量与用户量是非常大的，然而它的广告收入却没有想象中的那么乐观。为了扭转这一形势，reddit开始了壮士断腕的举...
+ ## [一份全面的“概要设计说明书”是怎样的？](http://www.woshipm.com/pd/2521033.html)
+ > 对于概要设计说明书，有很多刚入行的小白对此有很多的迷惑，在这里我就接着多年的工作经验，并拿出曾经给负责的一个项目撰写的概要设计说明书来作为案例给大家展示一下...
+ ## [网感，一个骗了2000万新媒体人的陷阱](http://www.woshipm.com/it/2540240.html)
+ > 新媒体运营要具备的“网感”到底是什么？如何培养这种能力？什么是网感？可能从一开始我们就想错了。虽然你至少能找到10种说法——只是它们基本都是被反向推导出来的。...
+ ## [看完快手时装周，我丢掉了自己的Prada](http://www.woshipm.com/user-research/2538669.html)
+ > 伦敦时装周走秀因抽象驰名，意大利时装周走秀以僵硬著称，全球各大时装周走秀都有其独具匠心的运营特点。而在快手时装周上，“精神”无疑是当季最顶的标签。作者：小伟...
  ## [不同阶段，产品成功怎么做？](http://www.woshipm.com/operate/2537952.html)
  > 在产品的初期、中期和后期阶段，产品的重点关注是什么？产品成功之路上还需要做什么？产品成功的关键因素其实不多，目前大家比较认同的还是雷军说的那一句“顺势而为，...
  ## [怎样少付工资，但让90后员工对你死心塌地？](http://www.woshipm.com/zhichang/2540406.html)
@@ -177,13 +234,5 @@ categories: IT NEWS
  > 时代在发展，文案也该与时俱进了。这个时代，不仅知识需要更新，文案也需要更新。我自认为是个有才华的人，对文字的领悟力和驾驭能力超过绝大多数人，所谓“文无第一...
  ## [那些为了拍 Vlog 而拍 Vlog 的人](http://www.woshipm.com/it/2540068.html)
  > 微博平台推出了明星制片人微计划的话题，吸引明星们自发组织拍摄vlog，阅读量已经达到110亿，引起了1.7亿的讨论。并且设置了官方微博，粉丝数量已经突破83万。不得不...
- ## [2019中国车载音频行业发展盘点](http://www.chanpin100.com/article/108827)
- > 推送浪漫歌曲，推荐并预定餐厅、酒店，你以为这些都只能靠手机或PC实现？如今车载服务正飞速发展，不仅能实现以上功能，还能为车主提供更精准的服务。自去年开始，各大厂商就推出了酒店、机票预订，推送新闻电台，无感支付等车载服务，满足用户出行的各种需求。而车载音频作为当下汽车使用者车上娱乐的主要内容来源，对于
- ## [2019中国汽车金融市场数字化发展专题分析](http://www.chanpin100.com/article/108828)
- > 受到新车销量下滑、价格走低等因素的影响，Analysys易观预测2018年中国汽车金融的整体市场规模将达到23716.1亿元人民币，环比下滑1%。其中二手车、新能源汽车以及新车、二手车的汽车融资租赁市场或成为未来的重点细分市场。
- ## [2018中国第三方手机输入法市场专题分析](http://www.chanpin100.com/article/108826)
- > 本文主要包括中国第三方手机输入法市场的发展现状、用户对不同输入法品牌的口碑分析、市场典型厂商分析以及整体市场的趋势分析。目前第三方手机输入法市场的活跃用户达到4.8亿以上规模，基本形成以搜狗、讯飞、百度为首的市场格局。整个市场处于高速发展期，未来随着人工智能技术的应用和渗透会进一步刺激市场发展。
- ## [以BAT产品为例，让你不再零碎地揣摩‘用户心理’](http://www.chanpin100.com/article/108825)
- > 本文为你剖析用户心理的一些特征点，以及产品该如何利用该心理？
 
     
