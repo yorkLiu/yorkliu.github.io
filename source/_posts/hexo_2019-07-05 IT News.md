@@ -1,20 +1,20 @@
 ---
 title: 2019-07-05 IT News
 copyright: true
-date: 2019-07-05 08:02:05
+date: 2019-07-05 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [支付宝刷脸付加入美颜滤镜功能丨索尼将成立 200 亿日元基金\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562284805&ver=1709&signature=upLdL4C*CFTLSz2-mlHPNelHxsCCoFO04p7em7knad62k5W76IWqDZvyZyZ9bETvkdpjsIr-jXXBXb-b*1xZokJ7hHSpCU0N1XmTtPBNdh-8s98Vb8ncBMBO8eSRQfYf&new=1)
- > 7月04日周四【Do说】编辑 | 赵艾虎索尼将成立 200 亿日元基金，投资科技创业公司索尼继续在投资圈加码，今天日本电子巨头索尼宣布成立 200 亿日元(约 12.8 亿人民币)的投资基金，重点关注高成长行业。(来源：Tec...
- ## [围观!4G上网信号实力测评，集齐广州最易断网的几个地方!](http://mp.weixin.qq.com/s?src=11&timestamp=1562284805&ver=1709&signature=gmAymFEfs7rymfb8llOIu8m68JLV5TYvcLvFoNfZsNs1MnqtlkfCzmLzsBQzOejMhFE7Sv0Ylt1K51kVVcjs0dvw*HGJCm6Z9RLHtU5EZz8MlM1*jQS3gVv1Adwnj7Su&new=1)
- > 叮咚！“搜指仔”来发通知啦！即日起，每晚10点，你就可以收到我们的精彩推送啦！每晚10点！每晚10点！每晚10点！赶紧置顶星标！千万别走丢噢！夏天离不开四样东西：手机、空调、西瓜、WiFi！人们对4G网络的需求...
- ## [海能达PDC550双模智能对讲机](http://mp.weixin.qq.com/s?src=11&timestamp=1562284805&ver=1709&signature=h3FuCnOOFUPntxR*lBesgwvrrn2tkEFRps4Wgy*61zrdzpnvL9l64O4mS0Luxx3C868MJa2ys*x43SCdcZsXdW5uv7nCoCIcDbfQ86e1F7rNRLWxU78IPH0B4Ksmtszt&new=1)
- > PDC550是海能达5英寸大屏双模智能对讲机，针对铁路、物业、智慧园区等大中型工商业的用户需求，将DMR窄带专业对讲以及4G宽带公网对讲功能合二为一，满足客户多样化的业务使用需要。PDC550除通过公网对讲解决用户...
- ## [汽车应用生态之战](http://mp.weixin.qq.com/s?src=11&timestamp=1562284805&ver=1709&signature=kiShH2C9hsRbqM8BRitghbx1gY-aq4BrSggfz-DMSqmWPGylEbLeiYfNRqxLovG6tGNi8Rv02gRS2KH*x3miPOnasj2JZFZvJ8GiZ-GZ0hXAb853iZpTIj3JJyri2spy&new=1)
+ ## [汽车应用生态之战](http://mp.weixin.qq.com/s?src=11&timestamp=1562288404&ver=1709&signature=kiShH2C9hsRbqM8BRitghbx1gY-aq4BrSggfz-DMSqmWPGylEbLeiYfNRqxLovG63RXr5FcFEht48GP-95pd5E5SFdHfiakkg6aqNIu*dsrBqbnNA8MixOYndMpFIYR5&new=1)
  > 汽车应用生态的重要性正在与日俱增。 互联网公司全力向汽车界进军，对这块阵地的争夺几乎进入到了白热化阶段。一些车企开始积极的转型，以前所未有的热情去努力构建一个尽可能庞大的应用生态系统。由此，车企和...
- ## [\[公益课堂\]从光纤到光芯片：光子技术的发展与挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1562284805&ver=1709&signature=I9nOOaBLW0DF3IAcKgeUd*oqE6isEhEkFqnt2Nf1ioKo1xsiK4BkXDzfvTO27hvyyA1NbF-Q6kTz2TvHeRUXpIvACtCzT9Gz0CkK1bWSwJgFvvtUlPaZXX882DkfY-J5&new=1)
+ ## [支付宝刷脸付加入美颜滤镜功能丨索尼将成立 200 亿日元基金\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562288404&ver=1709&signature=upLdL4C*CFTLSz2-mlHPNelHxsCCoFO04p7em7knad62k5W76IWqDZvyZyZ9bETv50UhgI2d0mo0xaxchDKv2yJUhPUVp9f4bv-ygOXrTiSPj6VNWOTnhHMFtPi3h7x6&new=1)
+ > 7月04日周四【Do说】编辑 | 赵艾虎索尼将成立 200 亿日元基金，投资科技创业公司索尼继续在投资圈加码，今天日本电子巨头索尼宣布成立 200 亿日元(约 12.8 亿人民币)的投资基金，重点关注高成长行业。(来源：Tec...
+ ## [海能达PDC550双模智能对讲机](http://mp.weixin.qq.com/s?src=11&timestamp=1562288404&ver=1709&signature=h3FuCnOOFUPntxR*lBesgwvrrn2tkEFRps4Wgy*61zrdzpnvL9l64O4mS0Luxx3Cpt0EXNB6SWPRtjvxoMp9zHT7iLpnXXlAVEnjTJxjkrgFaiecpcyRkFwFnOxtgzCq&new=1)
+ > PDC550是海能达5英寸大屏双模智能对讲机，针对铁路、物业、智慧园区等大中型工商业的用户需求，将DMR窄带专业对讲以及4G宽带公网对讲功能合二为一，满足客户多样化的业务使用需要。PDC550除通过公网对讲解决用户...
+ ## [围观!4G上网信号实力测评，集齐广州最易断网的几个地方!](http://mp.weixin.qq.com/s?src=11&timestamp=1562288404&ver=1709&signature=gmAymFEfs7rymfb8llOIu8m68JLV5TYvcLvFoNfZsNs1MnqtlkfCzmLzsBQzOejML1FlK3yOmQQHPvEB3ad22Dgxn85U4Tg5DCobKwthUYInMe*x2ziXmDuD6TGB1r*g&new=1)
+ > 叮咚！“搜指仔”来发通知啦！即日起，每晚10点，你就可以收到我们的精彩推送啦！每晚10点！每晚10点！每晚10点！赶紧置顶星标！千万别走丢噢！夏天离不开四样东西：手机、空调、西瓜、WiFi！人们对4G网络的需求...
+ ## [\[公益课堂\]从光纤到光芯片：光子技术的发展与挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1562288404&ver=1709&signature=I9nOOaBLW0DF3IAcKgeUd*oqE6isEhEkFqnt2Nf1ioKo1xsiK4BkXDzfvTO27hvyYm5H5NaM7O4o8Zm1RousFLlVLp5mEwiL8OTE4IPnU5iQztIJEf5-dFT336VsMon0&new=1)
  > 邀请函INVITATION2019深圳虚拟大学园名校名师公益课堂第八讲从光纤到光芯片：光子技术的发展与挑战举办单位主办：深圳市科技创新委员会           深圳市科技创新战略研究中心        （深圳虚拟大学园管理服务...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,38 +73,48 @@ categories: IT NEWS
  > 中高级前端必须了解的JS中的内存管理
  ## [那些裸辞的程序员，都干嘛去了？](http://news.51cto.com/art/201907/598986.htm)
  > 那些裸辞的程序员，都干嘛去了？
+ ## [商业设施中的五种预防性维护](http://iot.51cto.com/art/201907/599078.htm)
+ > 根据设备的复杂性和价值以及合规性要求的可能性，您可以使用多种方法。以下是目前在商业设施中使用的五种常
+ ## [Windows10系统个版本功能比较说明](http://os.51cto.com/art/201907/599079.htm)
+ > 对普通用户来讲，Win10家庭版就是最佳选择。包括全新的Windows通用应用商店、Microsoft Edge网页浏览器、Co
+ ## [2019推荐11款JavaScript动画库](http://developer.51cto.com/art/201907/599077.htm)
+ > 我在通过浏览网页寻找一个整洁好用的JavaScript动画库时，发现许多“推荐”的动画库都已经有一段时间没有维
+ ## [聊一聊SQLMAP在进行sql注入时的整个流程](http://netsecurity.51cto.com/art/201907/599076.htm)
+ > 本文就用我们看的见的角度来分析，看看sqlmap到底发送了什么payload，这些payload是怎么出来的，不深入代码
+ ## [数据库允许空值(null)，往往是悲剧的开始（1分钟系列）](http://zhuanlan.51cto.com/art/201907/599075.htm)
+ > 数据库字段允许空值，会遇到一些问题，此处包含的一些知识点，和大家聊一聊。
  ## [TCP/IP，你必知必会的十个问题](http://network.51cto.com/art/201907/599074.htm)
  > 本文整理了一些TCP/IP协议簇中需要必知必会的十大问题，既是面试高频问题，又是程序员必备基础素养。
  ## [重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…](https://blog.csdn.net/CSDNedu/article/details/94598017)
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [【物联网】Arduino实现交通灯设计](https://blog.csdn.net/qq_41068362/article/details/91890200)
- > 【物联网】Arduino实现交通灯设计
- ## [5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析](https://blog.csdn.net/weixin_44179909/article/details/91580475)
- > 5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析
- ## [物联网卡智能家居 着力解决用户需求](https://blog.csdn.net/qq_40798435/article/details/91046931)
- > 物联网卡智能家居 着力解决用户需求
- ## [Linux 运维养成记 - vi / vim编辑器](https://blog.csdn.net/weixin_45181224/article/details/91360926)
- > Linux 运维养成记 - vi / vim编辑器
- ## [【前端】重排和重绘](https://blog.csdn.net/Dora_5537/article/details/91357410)
- > 【前端】重排和重绘
- ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
- > 【前端】vuex
- ## [谷歌宕机，只有运维背锅吗？](https://blog.csdn.net/csdnnews/article/details/91445275)
- > 谷歌宕机，只有运维背锅吗？
- ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
- > 物联网与边缘计算的融合
- ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
- > 物联网卡还可以用在农业自动化的哪些方面
- ## [运维入门之bash shell脚本五](https://blog.csdn.net/qq_42103479/article/details/90900427)
- > 运维入门之bash shell脚本五
- ## [除了参与建设，5G还能给通信服务商带来什么？](https://blog.csdn.net/qq_34449351/article/details/91866627)
- > 除了参与建设，5G还能给通信服务商带来什么？
- ## [记录利用iView做物联网竞赛项目的一些问题(1)](https://blog.csdn.net/qq_36588294/article/details/91467490)
- > 记录利用iView做物联网竞赛项目的一些问题(1)
- ## [使用阿里短信服务发送终端报警数据](https://blog.csdn.net/m0_38008027/article/details/91571948)
- > 使用阿里短信服务发送终端报警数据
+ ## [云计算之k8s系列_第五回](https://blog.csdn.net/mx_steve/article/details/91359004)
+ > 云计算之k8s系列_第五回
+ ## [探索Flutter配置过程中的坑](https://blog.csdn.net/HflyDragon/article/details/91450225)
+ > 探索Flutter配置过程中的坑
+ ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
+ > 云计算介绍之云计算存储(2)
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [云计算介绍之云计算的产生概述](https://blog.csdn.net/csdn10086110/article/details/91413055)
+ > 云计算介绍之云计算的产生概述
+ ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
+ > 云计算、大数据、人工智能之间的关系，总章
+ ## [大数据、云计算该如何学习？](https://blog.csdn.net/yyyyyyyyyooi/article/details/91049999)
+ > 大数据、云计算该如何学习？
+ ## [2019中级Android开发社招面试解答之性能优化篇](https://blog.csdn.net/Android_SE/article/details/91445544)
+ > 2019中级Android开发社招面试解答之性能优化篇
+ ## [从汇编语言到高级编程语言的演变](https://blog.csdn.net/cq20110310/article/details/91044796)
+ > 从汇编语言到高级编程语言的演变
+ ## [大数据与云计算概念的解析](https://blog.csdn.net/sdddddddddddg/article/details/91357828)
+ > 大数据与云计算概念的解析
+ ## [什么是代理IP](https://blog.csdn.net/duyun123456/article/details/91129886)
+ > 什么是代理IP
+ ## [看了这篇帖子，终于对大数据和云计算有点认识了](https://blog.csdn.net/qq_41026809/article/details/91457111)
+ > 看了这篇帖子，终于对大数据和云计算有点认识了
+ ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
+ > OC中的几种延迟执行方式
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Redis，真的不完美！](https://blog.csdn.net/csdnnews/article/details/94682303)
@@ -113,38 +123,9 @@ categories: IT NEWS
  > 作者 | 藏狐本文经授权转自公众号脑极体（ID：unity007）自从上海开始推行垃圾分类之后，被逼疯的上海宁已经成为广大网友的快乐喷泉，贡献了不少段子和表情包。据说有人...
  ## [垃圾分类小程序爆火，支付宝、微信争夺本地生活新入口](http://www.lanjingtmt.com/news/detail/43483.shtml)
  > 大势所趋下，垃圾分类产业小程序迎来一波爆发，微信、支付宝争相推出各自的垃圾分类小程序，试图占领这一全新的本地生活入口。
-# 人工智能 
- ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
- > 《区块链基础知识25讲》-第二十四讲-使用区块链
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [区块链倪老师：区块链思维——序章](https://blog.csdn.net/weixin_44693781/article/details/91600996)
- > 区块链倪老师：区块链思维——序章
- ## [物联网概论知识点](https://blog.csdn.net/Wjwstruggle/article/details/91051348)
- > 物联网概论知识点
- ## [物联网第六步： Tornado的部署](https://blog.csdn.net/sinat_26940175/article/details/91038186)
- > 物联网第六步： Tornado的部署
- ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
- > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
- ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
- > 物联网与边缘计算的融合
- ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
- > 物联网卡还可以用在农业自动化的哪些方面
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [当物联网系统出现故障：使用低质量物联网数据的风险 | Linux 中国](https://blog.csdn.net/F8qG7f9YD02Pe/article/details/91449272)
- > 当物联网系统出现故障：使用低质量物联网数据的风险 | Linux 中国
- ## [记录利用iView做物联网竞赛项目的一些问题(1)](https://blog.csdn.net/qq_36588294/article/details/91467490)
- > 记录利用iView做物联网竞赛项目的一些问题(1)
- ## [5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析](https://blog.csdn.net/weixin_44179909/article/details/91580475)
- > 5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析
- ## [应届生自学Python两个月，为什么找不到工作？](https://blog.csdn.net/qq_43720602/article/details/91350609)
- > 应届生自学Python两个月，为什么找不到工作？
- ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
- > 区块链如何改变人工智能
- ## [简易区块链实现V2（golang）](https://blog.csdn.net/qq_26406447/article/details/91333619)
- > 简易区块链实现V2（golang）
 # PM 
+ ## [最后1天｜这大概是未来1-3年里，让你持续增值的最好机会](http://www.woshipm.com/active/2542373.html)
+ > 买1年VIP，赠15张亲友礼品卡。好友领取后，再送另外1年VIP！现在加入，再送畅销书一本！立即购买，解锁起点学院VIP特权！很多时候，犹豫让人错失机会。而现在，你可...
  ## [产品经理周报第 74 期｜手机淘宝“扫一扫”新增AI智能识别垃圾功能；滴滴遗失物品处理规则试行](http://www.woshipm.com/it/2545759.html)
  > 大家早上好呀，今天又是周五了最近的太阳真的比较多吖，大家在这周末有没有想要出去玩的呢~小编我反正是西瓜、空调、家里趟呀有出去玩的可以留言跟小编交流交流哇...
  ## [A/BTest，个人中心首页改版实验分析报告](http://www.chanpin100.com/article/108837)
