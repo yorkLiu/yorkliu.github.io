@@ -1,7 +1,7 @@
 ---
 title: 2019-07-05 IT News
 copyright: true
-date: 2019-07-05 10:01:20
+date: 2019-07-05 12:02:17
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,19 +70,25 @@ AI&#28938;&#25509;&#35299;&#20915;&#26041;&#26696;&#21830;&#8220;&#24494;&#22467
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [支付宝刷脸付加入美颜滤镜功能丨索尼将成立 200 亿日元基金\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=upLdL4C*CFTLSz2-mlHPNelHxsCCoFO04p7em7knad6PzE4PYe10kKDC6TU5DeKgVONj3zrKCRxq9MjpYBtWQdMdYg7HRjlsi8fdSBb0EHCHndzlt8EisPDdGabmdvRz&new=1)
- > 7月04日周四【Do说】编辑 | 赵艾虎索尼将成立 200 亿日元基金，投资科技创业公司索尼继续在投资圈加码，今天日本电子巨头索尼宣布成立 200 亿日元(约 12.8 亿人民币)的投资基金，重点关注高成长行业。(来源：Tec...
- ## [\[公益课堂\]从光纤到光芯片：光子技术的发展与挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=I9nOOaBLW0DF3IAcKgeUd*oqE6isEhEkFqnt2Nf1ioJC4ypJGFfb*CYQWXTKJxchaZ0Vhxkh38A-We0tE5kuDkQHJxzzqt3W8VjgthOryXiu86F9pjvkhDWeKfqCE2zB&new=1)
- > 邀请函INVITATION2019深圳虚拟大学园名校名师公益课堂第八讲从光纤到光芯片：光子技术的发展与挑战举办单位主办：深圳市科技创新委员会           深圳市科技创新战略研究中心        （深圳虚拟大学园管理服务...
- ## [专业培训：2019年《3D打印医疗器械培训》](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=2whkH3jbHhTyVdE8OBdGtpOcPiK1z65qP6FZ0PicMmUMPPp6kIXAl47-CgjlCvFnwbhGO2beetD5ji-8RIXxWTPX5-AIWjlVc0t4EjjxR9Z95BRjHAQJEBCwLtJ98Qwt&new=1)
- > 大喜讯：医疗3D打印的春天来了！2019年7月4日，国家药监局、国家卫生健康委发布了《定制式医疗器械监督管理规定（试行）的公告（2019年 第53号） 》，将会大大推动中国医疗3D打印事业的发展，特别是金属（如钛合...
- ## [光缆|谷歌第三条海底光缆系统Equiano拟于2021年投产](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=9aMYoAfhXGhPKceFFgGhaLtETRq1Adixmt-MIdodEA0jT2W9KowIAICaihcgcz-2U2uU7d3SYCt6zaGWe*eaSWGSVocq4hs-Yf9gc9PbEIDlQ4qsu-YAY2e*BivdhMpK&new=1)
+ ## [光缆|谷歌第三条海底光缆系统Equiano拟于2021年投产](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=9aMYoAfhXGhPKceFFgGhaLtETRq1Adixmt-MIdodEA0jT2W9KowIAICaihcgcz-2rIUrHYdiF98icqhgk8z*7G6WiWW4yp-mxr7tpUBxKSIZ1wXoJr3w0utxpl5DFwWg&new=1)
  > 导读       谷歌日前宣布，筹建的第三条海底光缆系统将于2021年从葡萄牙连接至南非国家，这条名为Equiano的海底光缆系统是谷歌光缆部署的重要一环。过去三年，谷歌在计算基础设施领域的投资已经累计达到470亿美...
- ## [海能达PDC550双模智能对讲机](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=h3FuCnOOFUPntxR*lBesgwvrrn2tkEFRps4Wgy*61zofAjuv6lgh-c0QABp4gX4NVb1531MCxz-XtLgk-ICZe4Lo*G4C0irFUXvaAgrfoLXC4Y-5mbyNjM1VJBCF4LxQ&new=1)
+ ## [专业培训：2019年《3D打印医疗器械培训》](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=2whkH3jbHhTyVdE8OBdGtpOcPiK1z65qP6FZ0PicMmUMPPp6kIXAl47-CgjlCvFnAJ6DRTVdjU2uGxbqYpoW2-6LiLyL9eGxJwQF4IulRxovf8n3pbGJMz9MB-D0Bm*w&new=1)
+ > 大喜讯：医疗3D打印的春天来了！2019年7月4日，国家药监局、国家卫生健康委发布了《定制式医疗器械监督管理规定（试行）的公告（2019年 第53号） 》，将会大大推动中国医疗3D打印事业的发展，特别是金属（如钛合...
+ ## [专攻银行系统的Silence APT开始走向全球，重点为亚太地区](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=SyauL2eE3mqmAOzvOMSycCJFyS5*6lJqFe-eMqT3itVBbjhCPd7Vy0-afWYtvxDH4Pu6244HkvgpbQ1*VWGZ1jn1gXryeNHxMSgsDO3ARfXmM8OhWiP4Y*txLWDeMpEl&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：Group-IB认为，俄罗斯网络犯罪团伙Silence APT很可能是攻击荷兰孟加拉银行ATM的幕后黑手，此次攻击导致300万美元被盗。据孟加拉当地媒体报道，荷兰孟...
+ ## [联通5G抢先“开跑”河北联通助力构建5G产业新标杆](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=RY79ECUp*KGPZmP45h2QOK0GA53hdkmPBVPo5L6RXGCeHAOwd42F7hX-qzbMSbpkBlSLBNPfZqphPRxVakuWQzy7NGK8n-w6LAj-1AoR*LXm*a*B9c-QMOfR*8IMpKGq&new=1)
+ > 7月3日，由河北联通主办的以“联通5Gⁿ 让未来生长”为主题的 5G创新发展大会暨合作伙伴大会圆满落幕。此次大会河北联通与合伙伙伴聚焦5G时代新业务、新场景及新的合作模式等诸多话题，吸引了逾3000名行业人士共...
+ ## [垃圾分类不再烦恼!人工智能有绝招](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=xVaIosm6EaeuoDX6gtTNUoFSKP02JJ*fHzq2j75uwl-91rNxYFF9rlNpPv3*f*OySUnlBOBZBQF-mu745a3T8kvtYf9IhWt0r2Gt7rkgJypjmnUiANwLVh9YdPeyhv4a&new=1)
+ > 最近，垃圾分类成了上海人的新话题，特别是一些颠覆人们习惯的分类，“螃蟹壳是干垃圾，小龙虾壳是湿垃圾，干的并不一定是干垃圾，湿的也并不一定是湿垃圾，你以为的可回收物也并不一定是可回收物”，可以说让人...
+ ## [\[公益课堂\]从光纤到光芯片：光子技术的发展与挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=I9nOOaBLW0DF3IAcKgeUd*oqE6isEhEkFqnt2Nf1ioJC4ypJGFfb*CYQWXTKJxchgVDs9T1Y0i--rVTvAEItXbD4MpkIu1MahKyvek*2QfaTQ3D5OqMWUH9U6XMUxCSo&new=1)
+ > 邀请函INVITATION2019深圳虚拟大学园名校名师公益课堂第八讲从光纤到光芯片：光子技术的发展与挑战举办单位主办：深圳市科技创新委员会           深圳市科技创新战略研究中心        （深圳虚拟大学园管理服务...
+ ## [支付宝刷脸付加入美颜滤镜功能丨索尼将成立 200 亿日元基金\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=upLdL4C*CFTLSz2-mlHPNelHxsCCoFO04p7em7knad6PzE4PYe10kKDC6TU5DeKgGF7LHu7Qlj7x2RLbw0xSlrdr3mUV2C6bvyEoTICt7*TgxY7gaBaFjkKp5x*nPlFQ&new=1)
+ > 7月04日周四【Do说】编辑 | 赵艾虎索尼将成立 200 亿日元基金，投资科技创业公司索尼继续在投资圈加码，今天日本电子巨头索尼宣布成立 200 亿日元(约 12.8 亿人民币)的投资基金，重点关注高成长行业。(来源：Tec...
+ ## [海能达PDC550双模智能对讲机](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=h3FuCnOOFUPntxR*lBesgwvrrn2tkEFRps4Wgy*61zofAjuv6lgh-c0QABp4gX4N78FIdfIhM9f-*8IL0VHfy43ra9U075iual7HSA4Hk8xJUXEs7HI2oNzX0*s4kt0Z&new=1)
  > PDC550是海能达5英寸大屏双模智能对讲机，针对铁路、物业、智慧园区等大中型工商业的用户需求，将DMR窄带专业对讲以及4G宽带公网对讲功能合二为一，满足客户多样化的业务使用需要。PDC550除通过公网对讲解决用户...
- ## [汽车应用生态之战](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=kiShH2C9hsRbqM8BRitghbx1gY-aq4BrSggfz-DMSqnbo55h8voNFlXiX2Qfa9s4FRlr*N657Iu7F2wEdfjuwdnAm-R3nONCwvBtlGgimcqjGylMvRKvs*ywod0WADEe&new=1)
+ ## [汽车应用生态之战](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=kiShH2C9hsRbqM8BRitghbx1gY-aq4BrSggfz-DMSqnbo55h8voNFlXiX2Qfa9s4Dx-eAuaef3lX7Sq6J0N2KYDlBY6yASr-Rk9ie8OPN7a7qVwapWwbGqwKg4o9DqU1&new=1)
  > 汽车应用生态的重要性正在与日俱增。 互联网公司全力向汽车界进军，对这块阵地的争夺几乎进入到了白热化阶段。一些车企开始积极的转型，以前所未有的热情去努力构建一个尽可能庞大的应用生态系统。由此，车企和...
- ## [围观!4G上网信号实力测评，集齐广州最易断网的几个地方!](http://mp.weixin.qq.com/s?src=11&timestamp=1562292004&ver=1709&signature=gmAymFEfs7rymfb8llOIu8m68JLV5TYvcLvFoNfZsNtokJhZDwJQRROAey1zZvhdev1E-WrtSm4--FiT3MKdFEktDhlylLqBij4dSdF-EGzQBvJewphzDUsIRGGkAtm8&new=1)
+ ## [围观!4G上网信号实力测评，集齐广州最易断网的几个地方!](http://mp.weixin.qq.com/s?src=11&timestamp=1562299204&ver=1709&signature=gmAymFEfs7rymfb8llOIu8m68JLV5TYvcLvFoNfZsNtokJhZDwJQRROAey1zZvhdHEr*r-63WmbuHGlV6jJz-OHWXeGTfvbwPxxqCKtiby0up*BFl3Mc*XTIgw8xG2fI&new=1)
  > 叮咚！“搜指仔”来发通知啦！即日起，每晚10点，你就可以收到我们的精彩推送啦！每晚10点！每晚10点！每晚10点！赶紧置顶星标！千万别走丢噢！夏天离不开四样东西：手机、空调、西瓜、WiFi！人们对4G网络的需求...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -125,8 +131,12 @@ AI&#28938;&#25509;&#35299;&#20915;&#26041;&#26696;&#21830;&#8220;&#24494;&#22467
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [18张儿童插画让你秒懂Kubernetes](http://cloud.51cto.com/art/201907/599087.htm)
+ > 18张儿童插画让你秒懂Kubernetes
  ## [开发者提高软件质量的六个步骤](http://developer.51cto.com/art/201907/598974.htm)
  > 开发者提高软件质量的六个步骤
+ ## [爬了27303条热评，“宏颜获水”为何还要被群嘲？](http://ai.51cto.com/art/201907/599090.htm)
+ > 爬了27303条热评，“宏颜获水”为何还要被群嘲？
  ## [10款应用程序让Windows 10如虎添翼](http://os.51cto.com/art/201907/599070.htm)
  > 10款应用程序让Windows 10如虎添翼
  ## [2019年值得推荐的11款JavaScript动画库](http://developer.51cto.com/art/201907/599077.htm)
@@ -137,112 +147,150 @@ AI&#28938;&#25509;&#35299;&#20915;&#26041;&#26696;&#21830;&#8220;&#24494;&#22467
  > 从Web开发者的视角来解读MVC架构
  ## [终于有人把中台说清楚了](http://developer.51cto.com/art/201907/599015.htm)
  > 终于有人把中台说清楚了
- ## [IT团队面临的十大信息安全威胁](http://netsecurity.51cto.com/art/201907/599026.htm)
- > IT团队面临的十大信息安全威胁
- ## [不容错过的MySQL和MariaDB七项功能](http://database.51cto.com/art/201907/598881.htm)
- > 不容错过的MySQL和MariaDB七项功能
- ## [5种在Ubuntu上释放空间的简单方法](http://os.51cto.com/art/201907/599084.htm)
- > 大多数人可能在系统磁盘存储不足的情况下执行释放空间这个操作，也可能在 Linux 系统磁盘存储满了的情况下
- ## [“原谅宝”后又现“一键脱衣”，技术作恶该怎么解决？](http://news.51cto.com/art/201907/599083.htm)
- > DeepNude、DeepFake 和原谅宝的故事告诉我们，技术可以前所未有地、轻而易举地使人拥有权力，他们可以通过
- ## [如果12345G在一个微信群里，它们会聊些什么？](http://network.51cto.com/art/201907/599081.htm)
- > 在4G和5G时代，已经没有人关心打电话了，语音业务作为最基础的通信应用，大家已经像对水和电一样习惯而无感
- ## [爱奇艺开源 Qigsaw，基于 Android App Bundle 的动态化框架](http://news.51cto.com/art/201907/599082.htm)
- > 近日爱奇艺宣布开源基于Android App Bundle的动态化框架 Qigsaw。
- ## [爬过这 6 个坡，你就能对 Linux 操作系统了如指掌](http://os.51cto.com/art/201907/599080.htm)
- > 在平时的生活中，我们几乎时时刻刻都在使用操作系统，只是大部分时间你都意识不到它的存在。
- ## [商业设施中的五种预防性维护](http://iot.51cto.com/art/201907/599078.htm)
- > 根据设备的复杂性和价值以及合规性要求的可能性，您可以使用多种方法。以下是目前在商业设施中使用的五种常
- ## [聊一聊SQLMAP在进行SQL注入时的整个流程](http://netsecurity.51cto.com/art/201907/599076.htm)
- > 本文就用我们看的见的角度来分析，看看sqlmap到底发送了什么payload，这些payload是怎么出来的，不深入代码
- ## [数据库允许空值(null)，往往是悲剧的开始（1分钟系列）](http://zhuanlan.51cto.com/art/201907/599075.htm)
- > 数据库字段允许空值，会遇到一些问题，此处包含的一些知识点，和大家聊一聊。
- ## [TCP/IP，你必知必会的十个问题](http://network.51cto.com/art/201907/599074.htm)
- > 本文整理了一些TCP/IP协议簇中需要必知必会的十大问题，既是面试高频问题，又是程序员必备基础素养。
+ ## [5G数据中心：新兴生态系统中的关键](http://server.51cto.com/Datacenter-599100.htm)
+ > 虽然5G增强的网络容量和性能可能是智能城市的推动者，但它们还需要大量的数据处理和存储。
+ ## [用Pandas库实现MySQL数据库的读写](http://developer.51cto.com/art/201907/599101.htm)
+ > 本次分享将介绍如何在Python中使用Pandas库实现MySQL数据库的读写。首先我们需要了解点ORM方面的知识。
+ ## [90%的Java程序员，都扛不住这波消息中间件的面试四连炮！](http://developer.51cto.com/art/201907/599099.htm)
+ > 大家平时也有用到一些消息中间件(MQ)，但是对其理解可能仅停留在会使用API能实现生产消息、消费消息就完事
+ ## [10个好用的网站数据实时分析工具](http://news.51cto.com/art/201907/599096.htm)
+ > 网络分析工具可以帮助你收集、预估和分析网站的访问记录，对于网站优化、市场研究来说，是个非常实用的工具
+ ## [7年Java后端被淘汰，一路北漂辛酸史。。。](http://developer.51cto.com/art/201907/599095.htm)
+ > 入职后同学就是我的领导，技术相对一般，我们做 Java 游戏后端的，时间很快，一眨眼，我就跟着混了四年，每
+ ## [React还是Vue：你该如何选择？](http://developer.51cto.com/art/201907/599097.htm)
+ > React和Vue的适用范围无疑是很相似的：同样是基于组件的轻量级框架，同样专注于用户界面的视图层。同样可以
+ ## [15款Java程序员必备的开发工具](http://news.51cto.com/art/201907/599093.htm)
+ > 如果你是一名Web开发人员，那么用膝盖想也知道你的职业生涯大部分将使用Java而度过。这是一款商业级的编程
+ ## [思科魏松斌：思科让人们工作生活更智能、更简单、更安全、更便捷](http://network.51cto.com/art/201907/599094.htm)
+ > 思科通过不断加快的创新速递，一直致力于通过五大支柱为数字化业务提供安全、智能的平台。思科的五大业务支
+ ## [数据科学家需要的基本技能](http://bigdata.51cto.com/art/201907/599091.htm)
+ > 数据科学家是当今科技组织中最受追捧的角色之一，并且薪酬不断上涨。在一些IT组织中，首席信息官可能只有雇
+ ## [九州通万有钢分享医药行业上云实践 探索云与数据融合之道](http://cloud.51cto.com/art/201907/599089.htm)
+ > 九州通秉持“技术让服务更卓越”的理念，在云计算、大数据、人工智能等先进技术领域做了诸多尝试，使得业务
  ## [重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…](https://blog.csdn.net/CSDNedu/article/details/94598017)
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [数据库真好玩](https://blog.csdn.net/Lonelyhat/article/details/91796233)
- > 数据库真好玩
- ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
- > 【前端】vuex
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
+ ## [实践：设计前端](https://blog.csdn.net/u012899885/article/details/90635558)
+ > 实践：设计前端
+ ## [【前端】重排和重绘](https://blog.csdn.net/Dora_5537/article/details/91357410)
+ > 【前端】重排和重绘
+ ## [Cocos Creator游戏开发工具使用教程](https://blog.csdn.net/ankychan/article/details/91447351)
+ > Cocos Creator游戏开发工具使用教程
+ ## [Connect Four四子棋c++程序 - 显示窗口（0）](https://blog.csdn.net/Irlyue/article/details/91347438)
+ > Connect Four四子棋c++程序 - 显示窗口（0）
+ ## [前端：Bootstrap 模态框](https://blog.csdn.net/mouday/article/details/91889905)
+ > 前端：Bootstrap 模态框
+ ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
+ > Visual C++游戏编程基础之利用鼠标消息实现贴图
+ ## [【IOS游戏开发】 登陆以及支付SDK总结](https://blog.csdn.net/qq_30054199/article/details/91044280)
+ > 【IOS游戏开发】 登陆以及支付SDK总结
+ ## [\[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集](https://blog.csdn.net/BuladeMian/article/details/91172411)
+ > \[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集
+ ## [Visual C++游戏编程基础之动画显示问题](https://blog.csdn.net/Sruggle/article/details/90952187)
+ > Visual C++游戏编程基础之动画显示问题
+ ## [前端学习记录 Day1（Html）](https://blog.csdn.net/qq_41151659/article/details/91355681)
+ > 前端学习记录 Day1（Html）
+ ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
+ > OC中的几种延迟执行方式
+ ## [Python游戏开发平台、脚本系统架构设计](https://blog.csdn.net/ancientear/article/details/91141297)
+ > Python游戏开发平台、脚本系统架构设计
  ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
  > 前端——JQuery基础
- ## [数据库常见的优化](https://blog.csdn.net/qq_38234594/article/details/91451622)
- > 数据库常见的优化
- ## [前端之路的想法](https://blog.csdn.net/weixin_42388440/article/details/91814819)
- > 前端之路的想法
- ## [前端基础面试题收集](https://blog.csdn.net/weixin_43858880/article/details/91348896)
- > 前端基础面试题收集
- ## [初级前端面试题总结](https://blog.csdn.net/Daisy_1/article/details/91614974)
- > 初级前端面试题总结
- ## [前端浏览器兼容性问题和解决办法](https://blog.csdn.net/weixin_44780445/article/details/90680025)
- > 前端浏览器兼容性问题和解决办法
- ## [数据库的概念和操作、T-SQL语言（数据库学习）](https://blog.csdn.net/weixin_43126117/article/details/90758927)
- > 数据库的概念和操作、T-SQL语言（数据库学习）
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [决战数据库-spring batch(4)数据库到数据库](https://blog.csdn.net/masson32/article/details/91351279)
- > 决战数据库-spring batch(4)数据库到数据库
- ## [数据模型（数据库原理）](https://blog.csdn.net/y20_20/article/details/91411556)
- > 数据模型（数据库原理）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
- ## [Redis，真的不完美！](https://blog.csdn.net/csdnnews/article/details/94682303)
- > 01前言显而易见，如今的 Redis 已经进入了成熟期，但依旧存在很多疑难杂症。数以千计的开发者都在开发和使用这个数据库，它拥有非常完善的文档。我记得第一次使用 Redi...
- ## [AI  垃圾分类指日可待？](https://blog.csdn.net/csdnnews/article/details/94682212)
- > 作者 | 藏狐本文经授权转自公众号脑极体（ID：unity007）自从上海开始推行垃圾分类之后，被逼疯的上海宁已经成为广大网友的快乐喷泉，贡献了不少段子和表情包。据说有人...
+ ## [支付宝计划投10亿元支持中国女足，无商业化诉求](http://www.lanjingtmt.com/news/detail/43492.shtml)
+ > 支付宝总裁井贤栋今日宣布，未来10年，支付宝将拿出10亿元支持中国女足的发展，主要用于国家队训练水平提升、球员伤病保障及退役、女足技术发展及教练员培养、青少年女足运动推广及发展等方
+ ## [上海：将制定5G应用创新三年行动计划](http://www.lanjingtmt.com/news/detail/43491.shtml)
+ > 上海经信委网站消息，上海市政府日前引发《关于加快推进本市5G网络建设和应用的实施意见》。
+ ## [小米回应Mimoji主题曲抄袭苹果：是运营团队的错，正在调查](http://www.lanjingtmt.com/news/detail/43490.shtml)
+ > 此前微博数码博主@搞机少女抛出苹果Mimoji与小米Mimoji对比图称：“大家感受一下。”该微博引发网友关于小米CC9 Mimoji功能形象抄袭iPhone相关形象的质疑。
+ ## [腾讯视频宣布加大国漫投入力度，强化优质内容储备](http://www.lanjingtmt.com/news/detail/43489.shtml)
+ > 腾讯视频日前宣布将持续加大对国漫的投入力度，通过强化内容储备、产品迭代创新、升级合作模式以及打造国漫英雄宇宙等维度，助力国漫发展。
+ ## [三星二季度利润同比减半，因存储芯片价格和需求持续疲软](http://www.lanjingtmt.com/news/detail/43488.shtml)
+ > 三星电子发布第二季度初步财报，三星预计其第二季度运营利润为6.5万亿韩元(约合55亿美元)，略高于分析师平均预估的6万亿韩元（约合52亿美元），但同比下降56%左右。
+ ## [新浪娱乐官方微博被短暂销号：技术原因，现已恢复](http://www.lanjingtmt.com/news/detail/43487.shtml)
+ > 昨日晚间，新浪娱乐官方微博账号被短暂销号。
+ ## [360退出手机领域？回应称仍在寻找5G机会](http://www.lanjingtmt.com/news/detail/43486.shtml)
+ > 昨日有消息称360手机业务目前已经暂停，原360手机总裁李开新目前正带领团队，在深圳秘密研发360老人智能手表。对此，360公司回应称：手机业务并非完全暂停，只是放缓。
+ ## [滴滴公布遗失物品处理规则，乘客需支付快递运输费](http://www.lanjingtmt.com/news/detail/43485.shtml)
+ > 滴滴宣布，在征求社会各方意见后，对《网约车遗失物品处理专项规则（试行）》的征求意见稿进行修订，修订后的规则要求乘客需承担司机用快递方式送回物品时的快递费用。
+ ## [深交所对乐视网下发关注函，要求补充新董事长刘延峰工作背景](http://www.lanjingtmt.com/news/detail/43484.shtml)
+ > 深交所今日下发对乐视网关注函，要求乐视网说明近期公司高层离职原因，公司是否对重大信息应披露未透露，以及补充公司新任董事长刘延峰教育背景和工作履历等事项。
  ## [垃圾分类小程序爆火，支付宝、微信争夺本地生活新入口](http://www.lanjingtmt.com/news/detail/43483.shtml)
  > 大势所趋下，垃圾分类产业小程序迎来一波爆发，微信、支付宝争相推出各自的垃圾分类小程序，试图占领这一全新的本地生活入口。
 # 人工智能 
- ## [Connect Four四子棋c++程序 - 显示窗口（0）](https://blog.csdn.net/Irlyue/article/details/91347438)
- > Connect Four四子棋c++程序 - 显示窗口（0）
- ## [web前端篇:html基础知识（1）](https://blog.csdn.net/ITmiaomiao666/article/details/91619849)
- > web前端篇:html基础知识（1）
- ## [德比资讯隐私条款](https://blog.csdn.net/weixin_42093585/article/details/91886766)
- > 德比资讯隐私条款
- ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
- > Visual C++游戏编程基础之键盘消息
- ## [Hadoop架构概述](https://blog.csdn.net/weixin_40898246/article/details/91043830)
- > Hadoop架构概述
- ## [tomcat：正统的类加载器架构](https://blog.csdn.net/qq_37113604/article/details/91377227)
- > tomcat：正统的类加载器架构
- ## [Web前端篇：css定位](https://blog.csdn.net/ITmiaomiao666/article/details/91898720)
- > Web前端篇：css定位
- ## [麻将游戏开发运营这些困难 需要提前了解](https://blog.csdn.net/motianyougame/article/details/91492698)
- > 麻将游戏开发运营这些困难 需要提前了解
- ## [Web前端篇：CSS盒模型](https://blog.csdn.net/ITmiaomiao666/article/details/91896947)
- > Web前端篇：CSS盒模型
- ## [前端基础入门（1）初识](https://blog.csdn.net/fenghulun/article/details/91347981)
- > 前端基础入门（1）初识
- ## [\[游戏制作比赛\]Ludum Dare48小时限时独立游戏开发比赛合集](https://blog.csdn.net/BuladeMian/article/details/91171925)
- > \[游戏制作比赛\]Ludum Dare48小时限时独立游戏开发比赛合集
- ## [前端js入门——JavaScript 对象直接量](https://blog.csdn.net/fenghulun/article/details/91049993)
- > 前端js入门——JavaScript 对象直接量
- ## [【读书笔记】网站的高性能架构](https://blog.csdn.net/u013568373/article/details/91357120)
- > 【读书笔记】网站的高性能架构
- ## [Tomcat：正统的类加载器架构](https://blog.csdn.net/huqianlei/article/details/91478653)
- > Tomcat：正统的类加载器架构
- ## [USB 驱动架构浅析](https://blog.csdn.net/ll148305879/article/details/90898819)
- > USB 驱动架构浅析
+ ## [AwesomePlayer实现过程分析](https://blog.csdn.net/shanshenyuyou/article/details/91431674)
+ > AwesomePlayer实现过程分析
+ ## [音视频直播总结](https://blog.csdn.net/SunFlowerInRain/article/details/91528427)
+ > 音视频直播总结
+ ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
+ > FFmpeg音视频整合
+ ## [音视频开发-向量理解](https://blog.csdn.net/shengpeng3344/article/details/91450197)
+ > 音视频开发-向量理解
+ ## [基于electron的音视频播放器](https://blog.csdn.net/vgub158/article/details/91490185)
+ > 基于electron的音视频播放器
+ ## [音视频开发（四）——编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
+ > 音视频开发（四）——编码音频
+ ## [音视频学习三: EGL讲解](https://blog.csdn.net/qq_33635618/article/details/91523975)
+ > 音视频学习三: EGL讲解
+ ## [环信多人音视频会议功能实现](https://blog.csdn.net/qq_43128835/article/details/90719818)
+ > 环信多人音视频会议功能实现
+ ## [环信音视频功能学习总结](https://blog.csdn.net/u013069892/article/details/91879190)
+ > 环信音视频功能学习总结
+ ## [\[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码](https://blog.csdn.net/adolph_lu/article/details/91348324)
+ > \[Cmake-Android音视频\]ffmpeg3.4软硬解码和多线程解码
+ ## [音视频学习四: Opengl ES Shader讲解](https://blog.csdn.net/qq_33635618/article/details/91523125)
+ > 音视频学习四: Opengl ES Shader讲解
+ ## [十分钟学会如何开发一个音频播放器（ffmpeg3.2+sdl2.0）](https://blog.csdn.net/XP_online/article/details/90582107)
+ > 十分钟学会如何开发一个音频播放器（ffmpeg3.2+sdl2.0）
+ ## [dxva2+ffmpeg硬件解码（Windows）重要笔记3](https://blog.csdn.net/xjb2006/article/details/90898217)
+ > dxva2+ffmpeg硬件解码（Windows）重要笔记3
+ ## [linux下QT开发FFMPEG SDL2环境搭建及测试](https://blog.csdn.net/li_wen01/article/details/91548210)
+ > linux下QT开发FFMPEG SDL2环境搭建及测试
+ ## [We are Agora.io - 构建实时互联网，让音视频互动像空气和水一样无处不在](https://blog.csdn.net/qq_41584043/article/details/91621737)
+ > We are Agora.io - 构建实时互联网，让音视频互动像空气和水一样无处不在
 # PM 
- ## [A/BTest，个人中心首页改版实验分析报告](http://www.chanpin100.com/article/108837)
- > AB实验期间，会根据既定的改版目标，重点监控AB版本核心指标的对比情况，以便调整AB实验的分流策略。
- ## [中国智能音箱“三国杀”，百度阿里小米挥舞“组合拳”](http://www.chanpin100.com/article/108835)
- > 智能音箱是一场涉及AI语音交互，产品品类，价格梯度，人群覆盖，场景拓展等多维度的综合战役。
- ## [多点出击，视频直播软件开发市场前景如何](http://www.chanpin100.com/article/108834)
- > 网络视频直播市场已经在国内形成稳定产业，但随着用户流量红利的逐渐衰退，“全民直播”的景象恐怕不会再出现了，当然受影响的还有视频直播软件开发市场。愈发完善的视频直播服务，已经让直播平台开发技术门槛大大降低。
- ## [2019中国移动游戏市场年度综合分析](http://www.chanpin100.com/article/108832)
- > 自2015年公测以来，王者荣耀就引发了全民游戏狂欢，四处都能听见“first blood”、&quot;double kill&quot;；而从去年开始，朋友圈又开始盛行“大吉大利，今晚吃鸡”，紧跟农药的步伐，成为新一代的潮流。Analysys易观数据显示，2018年中国移动游戏占网络游戏市场的比重到达了62.8%，用
- ## [极光大数据：养宠不易，“铲屎官”一年竟要花这么多！](http://www.chanpin100.com/article/108831)
- > 猫和baby可否兼得？90后“铲屎官”做了这样的选择...
- ## [打造用户增长的战术板](http://www.chanpin100.com/article/108830)
- > 体系化的思路，策略和思考方式。
- ## [产品经理职场必备能力（四）：领导力](http://www.chanpin100.com/article/108829)
- > 曾几何时，我们幻想着自己有一天能踏着七彩祥云，手握丰富资源，去实现伟大理想。却不曾想，终日被那些鸡毛蒜皮的琐碎事情所烦恼而无暇分身，我们都只猜中了开头，却没有人关注结尾。
+ ## [最后1天｜这大概是未来1-3年里，让你持续增值的最好机会](http://www.woshipm.com/active/2542373.html)
+ > 买1年VIP，赠15张亲友礼品卡。好友领取后，再送另外1年VIP！现在加入，再送畅销书一本！立即购买，解锁起点学院VIP特权！很多时候，犹豫让人错失机会。而现在，你可...
+ ## [中国电商，决战2020](http://www.woshipm.com/it/2546971.html)
+ > 今年，中国电商零售圈做了很多比较重大的调整，而这一切的调整，其实都是为了2020大决战。012019年，中国电商零售圈，出现了很多重大调整：阿里系电商，年初，蒋凡...
+ ## [10个维度解析刷脸支付产品的设计难点](http://www.woshipm.com/pd/2546417.html)
+ > 随着人工智能概念的不断火热，笔者也于2017年开始投入到人工智能行业，并做了一个刷脸支付蜻蜓的项目。本文中，笔者主要以产品经理的视角展开对项目的总结与思考。思...
+ ## [短视频下半场：准备，入场！](http://www.woshipm.com/it/2546986.html)
+ > 2016年，我们称之为短视频元年，那一年出了papi酱，她是明星级的选手。但短视频真正崛起是2017年，短视频走入了我们的生活，亿级的流量开始可以轻松达到，这就是短视频...
+ ## [To 运营：你是青铜还是王者？运营进阶的核心是什么？](http://www.woshipm.com/operate/2546486.html)
+ > 初阶运营到高阶运营，应该怎样规划自己的职业发展？借着年中总结的时间，你会如何思考自己的运营工作呢？转眼间，2019年悄然无声地过去了一半。不少的互联网人当前都...
+ ## [荔枝产品分析——用声音在一起](http://www.woshipm.com/evaluating/2544101.html)
+ > 在移动电台板块遇冷的情况下，荔枝果断选择转型，将语音直播作为主打的业务板块。转型后的荔枝取得了一定的成绩，但是面对来势汹汹的竞争对手，它还有很长的路要走。...
+ ## [阿里与拼多多的“增量”之战](http://www.woshipm.com/it/2546920.html)
+ > 随着阿里与拼多多未来双方用户重叠度的逐步升高，循着对方的短处踏入友商地盘，已经是无法避免的大势。辗转沉浮多年，聚划算或将再一次被阿里推向台前。近日，多家媒...
+ ## [真实案例：火锅店不做任何活动促销，营业额增长50%+](http://www.woshipm.com/marketing/2545404.html)
+ > 本文笔者将对自己经手的一个火锅店品牌案例复盘出来给大家——从接手到一个多月时间 ，通过前期的品牌价值梳理等工作，还没有任何引流活动就实现了50%的增长。读前思考3...
+ ## [在垃圾分类这件事上，北京完胜上海](http://www.woshipm.com/it/2546930.html)
+ > 自从上海实行垃圾分类后，上海市民叫苦连天，对于干垃圾、湿垃圾、有害垃圾、可回收垃圾一脸懵逼。而紧随其后，北京市也出台了垃圾分类的规定，然而这次的垃圾分类却好...
+ ## [领袖和跟风者的区别就在于创新？](http://www.woshipm.com/chuangye/2544896.html)
+ > 创新是一个被大众与各个行业强调地不能再强调地词汇，但是创新也是要讲求界限与范围的，无限创新不仅不是一件好事，还有可能为企业与产品带来危害。​先定义一下创新，...
+ ## [产品经理周报第 74 期｜手机淘宝“扫一扫”新增AI智能识别垃圾功能；滴滴遗失物品处理规则试行](http://www.woshipm.com/it/2545759.html)
+ > 大家早上好呀，今天又是周五了最近的太阳真的比较多吖，大家在这周末有没有想要出去玩的呢~小编我反正是西瓜、空调、家里趟呀有出去玩的可以留言跟小编交流交流哇...
+ ## [大数据如何颠覆传统模式，推进金融业的智能化转型](http://www.chanpin100.com/article/108843)
+ > 未来，利用数据来生成商业见解，必将成为竞争优势的关键
+ ## [2019中国信息流广告市场专题分析](http://www.chanpin100.com/article/108848)
+ > 伴随着移动互联网流量红利的消失，移动营销市场规模的增速持续放缓，移动营销也进入到下半场的竞争。而基于大数据算法推荐的信息流广告，一方面不受广告位的限制，增加了媒体广告库存，给媒体带来了更多的盈利空间；一方面原生的展现形态更有利于广告主的品牌传播；对于用户而言，用户的信息获取习惯也随之发生了变化。
+ ## [饭店里的商业课](http://www.chanpin100.com/article/108850)
+ > 每件事情背后 ，都有其商业逻辑。这里说说饭店里的几件小事。
+ ## [爆款文案并不难！这张思维导图教你做好这四个方面](http://www.chanpin100.com/article/108849)
+ > 每个人都有一个写作梦，总是希望自己能写出与众不同的文案，作为初入新媒体写作者的小白来讲，如何才能写出爆款文案是很重要的。
+ ## [斗米召回沉默用户的技巧和思考](http://www.chanpin100.com/article/108847)
+ > 金三银四的招聘旺季，斗米的沉默用户转化为成长用户转化率大幅度提升了50%。
+ ## [产品经理职场必备能力（五）：需求分析能力](http://www.chanpin100.com/article/108846)
+ > 我相信从事产品经理的人，都带着天生骄傲。我们总是自命不凡的认为自己才是最了解用户的，我们总是满心幻想着自己的这个产品终将改变这个世界。殊不知，这时，我们已经离用户越来越远。那心中所坚持的天生骄傲，阻隔了用户与我们的连接。
+ ## [智能化+自动化，助力互金短信营销新变革](http://www.chanpin100.com/article/108842)
+ > Get这些短信营销技巧，有效提升金融产品转化率
+ ## [银行业|如何打破增长瓶颈实现高效获客转化？](http://www.chanpin100.com/article/108841)
+ > 结合现有银行获客渠道存在的问题，来探究未来银行获客方向，给金融从业者提供有益的参考。
+ ## [从工作内容看TOB与TOC的产品经理区别](http://www.chanpin100.com/article/108839)
+ > 依据用户对象不同来分类产品的方案。大体可对产品简化分为ToC和ToB 2类，因用户群体不同导致其工作内容具有明显的差异！
  ## [明星“批量”演戏剧，图什么？](http://www.pmtoo.com/article/77214.html)
  > 粉丝们彩虹屁吹上天也不能掩盖作品本身不够好的事实。这两年影视行业不好过。除了税务之外，各种带有「限制」...
  ## [棚改过去，旧改已来，会拉动房地产吗？](http://www.pmtoo.com/article/77211.html)
