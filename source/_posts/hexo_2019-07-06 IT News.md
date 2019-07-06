@@ -1,20 +1,22 @@
 ---
 title: 2019-07-06 IT News
 copyright: true
-date: 2019-07-06 09:01:07
+date: 2019-07-06 10:02:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国联通发布重要白皮书，明确5G发展路标：建“4G+5G”两张网，2G/3G逐步退网(附白皮书)](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=LLZIUdhZz4EU60HZ*p*d9XFCu97BjsZ7svdMEcorbLIE5EoDIznD0OvulOJyE0CsQph0e1DgC9Kn4dXDuYRaBYw6CT5ewUjXItb-Frqx-U0cPBAs3T5JZCA0zoNKsrZa&new=1)
- > 随着我国向运营商发放5G牌照，我国5G建设进入快车道。面对复杂的5G网络，运营商都在考虑如何又快、又省地建网。此前，三大运营商5G网络建设思路略有不同。到底是选择能够快速部署的NSA，还是选择体验更好的SA，...
- ## [深度丨特朗普暂解华为禁令不过平衡各方利益而已](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=jHfBpi3BJxkCXTRqqLQw5T25YqybWB6kpqRDG2yWMPpdYpAYpcOdU743OVbc60WrpJTgg8eLvUiGbMHU3X47JSoNdbxR1yoLOsf0Uaw3xHwE0VG1Ka8LIU5X4kNZ-B1d&new=1)
- > 特朗普恢复给华为供应零部件动因探析6月29日，美国总统特朗普在日本大阪举行的G20峰会间歇进行中美领导人会晤后所举行的记者会上表示，允许美国公司继续向华为出售产品。其给出了理由是：向华为供货，没威胁到美...
- ## [隧道无线通信系通与城市综合管廊无线通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=qooByU44w8uKGChvX4jad3amSZkf8l478374NqE-VXdPZAaGwC*Iy6*-eU8-7SSzIAmVTOn2ozfbTTBTDaQYBV8WECAVaqJNxaKeVwA50iETDLc3LwrmxNOCBEviSfIG&new=1)
- > 隧道无线通信系通与城市综合管廊无线通信系统包括专用调度对讲通信系统、调频广播系统、350m公安消防无线信号引入系统。所有子系统在多频合路后共用漏泄电缆（lcx）传输以达到信号在隧道内覆盖的目的。本系统主...
- ## [\[报告\]长城汽车调研分析2019版(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=R9HsEe-2AWhelAGf2GNFXIEkW-Z-v-NnIIY*1mo38BWbAr9zZ-GyKlaPNRK6g6a*v7j5UDlV3Fsl1UupL1tF9iviOyBpJi3VM5bIlR2UmQvkmYAdNVi*Nz6OI8HR43zZ&new=1)
+ ## [\[报告\]长城汽车调研分析2019版(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562378404&ver=1711&signature=R9HsEe-2AWhelAGf2GNFXIEkW-Z-v-NnIIY*1mo38BWbAr9zZ-GyKlaPNRK6g6a*6ara4I*Md4IXs2Tmyx0HLOwV6Ckz1nlt81ETOl-8NHEfHZMUGzWQGSka0rGjzcgy&new=1)
  > 长城汽车股份有限公司成立于1984年，于2003年12月15日在香港交易所上市，并于2011年9月28日在上海证券交易所上市。公司主营汽车整车的设计、开发、制造与销售，是中国最大的SUV制造企业。目前，公司旗下拥有长城...
- ## [匹克发布全球首款全3D打印运动生活鞋 实现革命性突破](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=e0fNS1*JYEwrWo9H6HyYzGMttbYt4ndd26BBbQkeZ-4uIX2iVvEcffG9BChqBrJCo8nYE2WgodsmRLsYWZqqBK7GWPmWxRcPmd1Ak0x9GveqntNPRrawhnSwixVUN9mh&new=1)
+ ## [\[科技早报7点整\]任正非登法国杂志封面 小米再曝抄袭苹果 深交所问询乐视网](http://mp.weixin.qq.com/s?src=11&timestamp=1562378404&ver=1711&signature=RsHDbLP5ZN77UvVbvId6Pnu5cXp0pKTAgD-HXPvcGf4MrUN6GZzSMelZjHvhdChBB7*b0RkprytykY3ZICWzlwnjUx8p2xCDJAFmw8G7RpnbF30aLosxiN0atyDYTpDj&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第523期1.酷狗音乐、艺龙旅行等42款APP违规收集用户信息近期，广东省公安机关监测发现1048款APP存在超范围收集用户信息行为。其中，“酷狗音乐”、“艺龙旅行”等42款APP，存在...
+ ## [隧道无线通信系通与城市综合管廊无线通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1562378404&ver=1711&signature=qooByU44w8uKGChvX4jad3amSZkf8l478374NqE-VXdPZAaGwC*Iy6*-eU8-7SSzfNTkeKkc2eGOb4H0319OcOKf0fL399jvrrtXHi*3kD1PjVKdkNUAKN*1bduLrU4i&new=1)
+ > 隧道无线通信系通与城市综合管廊无线通信系统包括专用调度对讲通信系统、调频广播系统、350m公安消防无线信号引入系统。所有子系统在多频合路后共用漏泄电缆（lcx）传输以达到信号在隧道内覆盖的目的。本系统主...
+ ## [中国联通发布重要白皮书，明确5G发展路标：建“4G+5G”两张网，2G/3G逐步退网(附白皮书)](http://mp.weixin.qq.com/s?src=11&timestamp=1562378404&ver=1711&signature=LLZIUdhZz4EU60HZ*p*d9XFCu97BjsZ7svdMEcorbLIE5EoDIznD0OvulOJyE0CsMISkIoEbCg5fvO*PrlhdMtElN9Pvqpi2a6NmChZ*odurov40WnLfGIQQQz-*2yLw&new=1)
+ > 随着我国向运营商发放5G牌照，我国5G建设进入快车道。面对复杂的5G网络，运营商都在考虑如何又快、又省地建网。此前，三大运营商5G网络建设思路略有不同。到底是选择能够快速部署的NSA，还是选择体验更好的SA，...
+ ## [深度丨特朗普暂解华为禁令不过平衡各方利益而已](http://mp.weixin.qq.com/s?src=11&timestamp=1562378404&ver=1711&signature=jHfBpi3BJxkCXTRqqLQw5T25YqybWB6kpqRDG2yWMPpdYpAYpcOdU743OVbc60WrvmbtPSG1aGcHmDG-n95asFEjDt4PCdjuyJ*vIZfHTYa6Lx9F7lBhhLUgFk2kbbpI&new=1)
+ > 特朗普恢复给华为供应零部件动因探析6月29日，美国总统特朗普在日本大阪举行的G20峰会间歇进行中美领导人会晤后所举行的记者会上表示，允许美国公司继续向华为出售产品。其给出了理由是：向华为供货，没威胁到美...
+ ## [匹克发布全球首款全3D打印运动生活鞋 实现革命性突破](http://mp.weixin.qq.com/s?src=11&timestamp=1562378404&ver=1711&signature=e0fNS1*JYEwrWo9H6HyYzGMttbYt4ndd26BBbQkeZ-4uIX2iVvEcffG9BChqBrJCA7jgwbd1zITa*iELFtouTRNU-glvSAAAa2t7oKiaHumqxlcRA*-n0xQWlDEbdQ5*&new=1)
  > 向来以产品说话的匹克又出全新的黑科技产品了!7月5日10点，匹克发布了黑衣人联名款3D打印运动生活鞋——Future Fusion，售价1299元。这是全球首款量产全3D打印运动鞋产品。可以说，在追求科技为先的道路上，匹克...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -77,68 +79,70 @@ categories: IT NEWS
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [前端js入门——JavaScript 对象直接量](https://blog.csdn.net/fenghulun/article/details/91049993)
- > 前端js入门——JavaScript 对象直接量
- ## [区块链EOS工具类](https://blog.csdn.net/soul17999/article/details/91353361)
- > 区块链EOS工具类
- ## [《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录](https://blog.csdn.net/qq_40061206/article/details/91045505)
- > 《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录
- ## [web前端篇:html基础知识（2）](https://blog.csdn.net/ITmiaomiao666/article/details/91622292)
- > web前端篇:html基础知识（2）
- ## [前端基础入门（2）选取工具：VS2019安装使用](https://blog.csdn.net/fenghulun/article/details/91348017)
- > 前端基础入门（2）选取工具：VS2019安装使用
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [《区块链基础知识25讲》-第十八讲-核实并且添加交易数据](https://blog.csdn.net/qq_40061206/article/details/91045412)
- > 《区块链基础知识25讲》-第十八讲-核实并且添加交易数据
- ## [区块链倪老师：区块链思维——序章](https://blog.csdn.net/weixin_44693781/article/details/91600996)
- > 区块链倪老师：区块链思维——序章
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [简易区块链实现V2（golang）](https://blog.csdn.net/qq_26406447/article/details/91333619)
- > 简易区块链实现V2（golang）
- ## [区块链经济下的网购生活](https://blog.csdn.net/ZiaTu/article/details/91437915)
- > 区块链经济下的网购生活
  ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
  > 文献阅读-区块链发展现状与展望
- ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
- > 《区块链基础知识25讲》-第二十四讲-使用区块链
+ ## [人工智能 —— 状态空间的盲目搜索](https://blog.csdn.net/starter_____/article/details/91644419)
+ > 人工智能 —— 状态空间的盲目搜索
+ ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
+ > OC中的几种延迟执行方式
+ ## [简易区块链实现V3（golang）](https://blog.csdn.net/qq_26406447/article/details/91488857)
+ > 简易区块链实现V3（golang）
+ ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
+ > 人工智能—— 博弈树的启发式搜索
+ ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
+ > 阿里云DataV专业版发布，为可视化创造更多可能！
+ ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
+ > 关于“人工智能”的一点思考
+ ## [人工智能--不确定性推理概述](https://blog.csdn.net/hjc256/article/details/91128640)
+ > 人工智能--不确定性推理概述
+ ## [区块链搭建之Ubuntu系统配置](https://blog.csdn.net/kivichang/article/details/91878038)
+ > 区块链搭建之Ubuntu系统配置
+ ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
+ > 基于人工智能的贝叶斯分类算法
+ ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
+ > 人工智能助力反洗钱升级
+ ## [公布2019年人工智能将会如何改变我们未来的行业](https://blog.csdn.net/OUNENGZK/article/details/91043708)
+ > 公布2019年人工智能将会如何改变我们未来的行业
+ ## [2019中级Android开发社招面试解答之性能优化篇](https://blog.csdn.net/Android_SE/article/details/91445544)
+ > 2019中级Android开发社招面试解答之性能优化篇
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [华为发布开发者召集令，等你来战！](https://blog.csdn.net/csdnnews/article/details/94730580)
  > 曾几何时，“上云”只是大型企业和科技领域的特权。时至今日，“云”不再是漂浮空中那般缥缈。普通企业，甚至是个人开发者之间，对“上云”的谈及也如同一日三餐那么平常。对于新兴行业而言，就好似零零后这些数字时代的原居民，生在云端。而传统行业现今也不甘落伍，不断加快自己追赶的步伐——好“云”凭借力，送我...
 # 人工智能 
- ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
- > angular2表单异步验证
- ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
- > 运维进阶——iptables详解
- ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
- > 前端——JQuery基础
- ## [chkconfig筛选出不需要的服务并关闭的两种方法](https://blog.csdn.net/junjie77649/article/details/91358811)
- > chkconfig筛选出不需要的服务并关闭的两种方法
- ## [https 证书过期检测](https://blog.csdn.net/qq_42409788/article/details/91852982)
- > https 证书过期检测
- ## [两台服务器ssh免密对端服务器及本机免密](https://blog.csdn.net/weixin_42691754/article/details/91881025)
- > 两台服务器ssh免密对端服务器及本机免密
- ## [k8s外网如何访问业务应用之Service 池化pod](https://blog.csdn.net/zhutongcloud/article/details/91038868)
- > k8s外网如何访问业务应用之Service 池化pod
- ## [【前端】重排和重绘](https://blog.csdn.net/Dora_5537/article/details/91357410)
- > 【前端】重排和重绘
- ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
- > 阿里云DataV专业版发布，为可视化创造更多可能！
- ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
- > 前端的异步流程
- ## [前端 天气插件 tpwidget](https://blog.csdn.net/zhangjing0320/article/details/91867689)
- > 前端 天气插件 tpwidget
- ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
- > 运维常用操作(持续更新)
- ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
- > 前端异步流程
- ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
- > 【前端】vuex
- ## [python之sys模块【获取参数】](https://blog.csdn.net/qq_36016375/article/details/91871325)
- > python之sys模块【获取参数】
+ ## [从汇编语言到高级编程语言的演变](https://blog.csdn.net/cq20110310/article/details/91044796)
+ > 从汇编语言到高级编程语言的演变
+ ## [Web前端篇：CSS盒模型](https://blog.csdn.net/ITmiaomiao666/article/details/91896947)
+ > Web前端篇：CSS盒模型
+ ## [区块链如何改变人工智能](https://blog.csdn.net/adsd165/article/details/91352569)
+ > 区块链如何改变人工智能
+ ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
+ > 基于人工智能的贝叶斯分类算法
+ ## [人工智能 —— 状态空间的盲目搜索](https://blog.csdn.net/starter_____/article/details/91644419)
+ > 人工智能 —— 状态空间的盲目搜索
+ ## [前端js入门——JavaScript 作用域](https://blog.csdn.net/fenghulun/article/details/91050051)
+ > 前端js入门——JavaScript 作用域
+ ## [德比资讯隐私条款](https://blog.csdn.net/weixin_42093585/article/details/91886766)
+ > 德比资讯隐私条款
+ ## [公布2019年人工智能将会如何改变我们未来的行业](https://blog.csdn.net/OUNENGZK/article/details/91043708)
+ > 公布2019年人工智能将会如何改变我们未来的行业
+ ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
+ > 前端基础入门（13）contenteditable 属性
+ ## [前端基础入门（5）边框与背景](https://blog.csdn.net/fenghulun/article/details/91348083)
+ > 前端基础入门（5）边框与背景
+ ## [我们如何保护人工智能？](https://blog.csdn.net/fadsf15/article/details/91352461)
+ > 我们如何保护人工智能？
+ ## [web前端篇:html基础知识（2）](https://blog.csdn.net/ITmiaomiao666/article/details/91622292)
+ > web前端篇:html基础知识（2）
+ ## [Web前端篇：css背景属性和边框属性](https://blog.csdn.net/ITmiaomiao666/article/details/91899241)
+ > Web前端篇：css背景属性和边框属性
+ ## [人工智能--状态空间问题求解方法](https://blog.csdn.net/hjc256/article/details/91187768)
+ > 人工智能--状态空间问题求解方法
+ ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
+ > 首域金融投资人交流群的四个好处
 # PM 
+ ## [当我们在讲互联网中医产品时，我们在讲什么？](http://www.woshipm.com/it/2531060.html)
+ > 随着时间的发展，90后、00后开始进入社会，成为互联网人的主力军；与此同时，带着新时代特色的互联网人的养生之道也逐渐出现在大众视野中。分享大纲：互联网中医产...
  ## [复盘：我的12条创业笔记](http://www.woshipm.com/zhichang/2544610.html)
  > 作者回顾了自己的创业经历，从遭遇问题到解决麻烦，从困境到成功的一些所思所想，有很多经验值得我们学习。我常常向朋友这么解释创业的状态：每个人在期末考试前2小时...
  ## [垃圾分类哪家强？让我们亲测求证](http://www.woshipm.com/it/2549766.html)
