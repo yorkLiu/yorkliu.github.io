@@ -1,21 +1,21 @@
 ---
 title: 2019-07-06 IT News
 copyright: true
-date: 2019-07-06 08:01:09
+date: 2019-07-06 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [深度丨特朗普暂解华为禁令不过平衡各方利益而已](http://mp.weixin.qq.com/s?src=11&timestamp=1562371205&ver=1711&signature=jHfBpi3BJxkCXTRqqLQw5T25YqybWB6kpqRDG2yWMPpdYpAYpcOdU743OVbc60WrTRrNE-c9I-0GxsNClKzL*oStYldkaOnS7GvNmkQmUkRYEF*eUUZDvK2CsmUaXE*O&new=1)
- > 特朗普恢复给华为供应零部件动因探析6月29日，美国总统特朗普在日本大阪举行的G20峰会间歇进行中美领导人会晤后所举行的记者会上表示，允许美国公司继续向华为出售产品。其给出了理由是：向华为供货，没威胁到美...
- ## [\[报告\]长城汽车调研分析2019版(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562371205&ver=1711&signature=R9HsEe-2AWhelAGf2GNFXIEkW-Z-v-NnIIY*1mo38BWbAr9zZ-GyKlaPNRK6g6a*lD8UgycAiixgaPrPifPIi*Jj0Qd5iOpOgIkDWp-pC01EIRIB4Wk-KEUnEAqtvK7Q&new=1)
- > 长城汽车股份有限公司成立于1984年，于2003年12月15日在香港交易所上市，并于2011年9月28日在上海证券交易所上市。公司主营汽车整车的设计、开发、制造与销售，是中国最大的SUV制造企业。目前，公司旗下拥有长城...
- ## [匹克发布全球首款全3D打印运动生活鞋 实现革命性突破](http://mp.weixin.qq.com/s?src=11&timestamp=1562371205&ver=1711&signature=e0fNS1*JYEwrWo9H6HyYzGMttbYt4ndd26BBbQkeZ-4uIX2iVvEcffG9BChqBrJC7pDuyE*s5AJa-3AeZQiX6JGt7Prm87TupnsH9m*dPyBz3o7B8KOa49Q9Sjdy-84q&new=1)
- > 向来以产品说话的匹克又出全新的黑科技产品了!7月5日10点，匹克发布了黑衣人联名款3D打印运动生活鞋——Future Fusion，售价1299元。这是全球首款量产全3D打印运动鞋产品。可以说，在追求科技为先的道路上，匹克...
- ## [中国联通发布重要白皮书，明确5G发展路标：建“4G+5G”两张网，2G/3G逐步退网(附白皮书)](http://mp.weixin.qq.com/s?src=11&timestamp=1562371205&ver=1711&signature=LLZIUdhZz4EU60HZ*p*d9XFCu97BjsZ7svdMEcorbLIE5EoDIznD0OvulOJyE0CstSd2SjP*2gWQjiqh7kPCLnhQDajX4CX0T7nsstUqZBm6geNz*al9oX5EHWlDHKNk&new=1)
+ ## [中国联通发布重要白皮书，明确5G发展路标：建“4G+5G”两张网，2G/3G逐步退网(附白皮书)](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=LLZIUdhZz4EU60HZ*p*d9XFCu97BjsZ7svdMEcorbLIE5EoDIznD0OvulOJyE0CsQph0e1DgC9Kn4dXDuYRaBYw6CT5ewUjXItb-Frqx-U0cPBAs3T5JZCA0zoNKsrZa&new=1)
  > 随着我国向运营商发放5G牌照，我国5G建设进入快车道。面对复杂的5G网络，运营商都在考虑如何又快、又省地建网。此前，三大运营商5G网络建设思路略有不同。到底是选择能够快速部署的NSA，还是选择体验更好的SA，...
- ## [隧道无线通信系通与城市综合管廊无线通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1562371205&ver=1711&signature=qooByU44w8uKGChvX4jad3amSZkf8l478374NqE-VXdPZAaGwC*Iy6*-eU8-7SSz7qIZCfaU3ebtbkZiCNdxFFpUpMZ3Nb*fICEDvZHh-C4mHyG7AZX*09-zFzn4Az6z&new=1)
+ ## [深度丨特朗普暂解华为禁令不过平衡各方利益而已](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=jHfBpi3BJxkCXTRqqLQw5T25YqybWB6kpqRDG2yWMPpdYpAYpcOdU743OVbc60WrpJTgg8eLvUiGbMHU3X47JSoNdbxR1yoLOsf0Uaw3xHwE0VG1Ka8LIU5X4kNZ-B1d&new=1)
+ > 特朗普恢复给华为供应零部件动因探析6月29日，美国总统特朗普在日本大阪举行的G20峰会间歇进行中美领导人会晤后所举行的记者会上表示，允许美国公司继续向华为出售产品。其给出了理由是：向华为供货，没威胁到美...
+ ## [隧道无线通信系通与城市综合管廊无线通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=qooByU44w8uKGChvX4jad3amSZkf8l478374NqE-VXdPZAaGwC*Iy6*-eU8-7SSzIAmVTOn2ozfbTTBTDaQYBV8WECAVaqJNxaKeVwA50iETDLc3LwrmxNOCBEviSfIG&new=1)
  > 隧道无线通信系通与城市综合管廊无线通信系统包括专用调度对讲通信系统、调频广播系统、350m公安消防无线信号引入系统。所有子系统在多频合路后共用漏泄电缆（lcx）传输以达到信号在隧道内覆盖的目的。本系统主...
+ ## [\[报告\]长城汽车调研分析2019版(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=R9HsEe-2AWhelAGf2GNFXIEkW-Z-v-NnIIY*1mo38BWbAr9zZ-GyKlaPNRK6g6a*v7j5UDlV3Fsl1UupL1tF9iviOyBpJi3VM5bIlR2UmQvkmYAdNVi*Nz6OI8HR43zZ&new=1)
+ > 长城汽车股份有限公司成立于1984年，于2003年12月15日在香港交易所上市，并于2011年9月28日在上海证券交易所上市。公司主营汽车整车的设计、开发、制造与销售，是中国最大的SUV制造企业。目前，公司旗下拥有长城...
+ ## [匹克发布全球首款全3D打印运动生活鞋 实现革命性突破](http://mp.weixin.qq.com/s?src=11&timestamp=1562374804&ver=1711&signature=e0fNS1*JYEwrWo9H6HyYzGMttbYt4ndd26BBbQkeZ-4uIX2iVvEcffG9BChqBrJCo8nYE2WgodsmRLsYWZqqBK7GWPmWxRcPmd1Ak0x9GveqntNPRrawhnSwixVUN9mh&new=1)
+ > 向来以产品说话的匹克又出全新的黑科技产品了!7月5日10点，匹克发布了黑衣人联名款3D打印运动生活鞋——Future Fusion，售价1299元。这是全球首款量产全3D打印运动鞋产品。可以说，在追求科技为先的道路上，匹克...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -77,64 +77,70 @@ categories: IT NEWS
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [计算机编程语言的分类与python语言快速度认识](https://blog.csdn.net/ifubing/article/details/91347488)
- > 计算机编程语言的分类与python语言快速度认识
- ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
- > 前端异步流程
- ## [【编程语言】Swift完全自学手册](https://blog.csdn.net/lsj960922/article/details/91431628)
- > 【编程语言】Swift完全自学手册
- ## [Go语言-----入门笔记](https://blog.csdn.net/weixin_39071173/article/details/90714572)
- > Go语言-----入门笔记
- ## [京东技术架构师总结：深入理解Spring中的各种注解](https://blog.csdn.net/Java_No01/article/details/91044931)
- > 京东技术架构师总结：深入理解Spring中的各种注解
- ## [实践：设计前端](https://blog.csdn.net/u012899885/article/details/90635558)
- > 实践：设计前端
- ## [程序运行前端抓到这个了](https://blog.csdn.net/Patrol_demon/article/details/91129310)
- > 程序运行前端抓到这个了
- ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
- > 最简单的深度学习入门书《动手学深度学习》
- ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
- > 前端的异步流程
- ## [前端之路的想法](https://blog.csdn.net/weixin_42388440/article/details/91814819)
- > 前端之路的想法
- ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
- > angular2表单异步验证
- ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
- > 【前端】vuex
-# 人工智能 
- ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
- > Visual C++游戏编程基础之利用鼠标消息实现贴图
- ## [计算中本聪如何设置的比特币数量](https://blog.csdn.net/sinat_38189661/article/details/91429053)
- > 计算中本聪如何设置的比特币数量
- ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
- > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
- ## [《区块链100问》51-90集](https://blog.csdn.net/luohai859/article/details/91352087)
- > 《区块链100问》51-90集
- ## [简易区块链实现V3（golang）](https://blog.csdn.net/qq_26406447/article/details/91488857)
- > 简易区块链实现V3（golang）
- ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
- > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
- ## [Connect Four四子棋c++程序 - 用户交互（1）](https://blog.csdn.net/Irlyue/article/details/91348019)
- > Connect Four四子棋c++程序 - 用户交互（1）
+ ## [前端js入门——JavaScript 对象直接量](https://blog.csdn.net/fenghulun/article/details/91049993)
+ > 前端js入门——JavaScript 对象直接量
  ## [区块链EOS工具类](https://blog.csdn.net/soul17999/article/details/91353361)
  > 区块链EOS工具类
- ## [《区块链100问》1-50集](https://blog.csdn.net/luohai859/article/details/91352049)
- > 《区块链100问》1-50集
- ## [区块链搭建之Ubuntu系统配置](https://blog.csdn.net/kivichang/article/details/91878038)
- > 区块链搭建之Ubuntu系统配置
- ## [Java复习笔记（9）——数据库](https://blog.csdn.net/weixin_36904568/article/details/91045369)
- > Java复习笔记（9）——数据库
- ## [数据库的概念和操作、T-SQL语言（数据库学习）](https://blog.csdn.net/weixin_43126117/article/details/90758927)
- > 数据库的概念和操作、T-SQL语言（数据库学习）
- ## [数据库常见的优化](https://blog.csdn.net/qq_38234594/article/details/91451622)
- > 数据库常见的优化
- ## [Redis设计与实现阅读总结（一）数据结构和对象](https://blog.csdn.net/qq_39714960/article/details/91354344)
- > Redis设计与实现阅读总结（一）数据结构和对象
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
+ ## [《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录](https://blog.csdn.net/qq_40061206/article/details/91045505)
+ > 《区块链基础知识25讲》-第十九讲-选择交易数据的历史记录
+ ## [web前端篇:html基础知识（2）](https://blog.csdn.net/ITmiaomiao666/article/details/91622292)
+ > web前端篇:html基础知识（2）
+ ## [前端基础入门（2）选取工具：VS2019安装使用](https://blog.csdn.net/fenghulun/article/details/91348017)
+ > 前端基础入门（2）选取工具：VS2019安装使用
+ ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
+ > 20七八岁的陷阱
+ ## [《区块链基础知识25讲》-第十八讲-核实并且添加交易数据](https://blog.csdn.net/qq_40061206/article/details/91045412)
+ > 《区块链基础知识25讲》-第十八讲-核实并且添加交易数据
+ ## [区块链倪老师：区块链思维——序章](https://blog.csdn.net/weixin_44693781/article/details/91600996)
+ > 区块链倪老师：区块链思维——序章
+ ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
+ > 史上最系统的程序员未来职业规划路线
+ ## [简易区块链实现V2（golang）](https://blog.csdn.net/qq_26406447/article/details/91333619)
+ > 简易区块链实现V2（golang）
+ ## [区块链经济下的网购生活](https://blog.csdn.net/ZiaTu/article/details/91437915)
+ > 区块链经济下的网购生活
+ ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
+ > 文献阅读-区块链发展现状与展望
+ ## [《区块链基础知识25讲》-第二十四讲-使用区块链](https://blog.csdn.net/qq_40061206/article/details/91140578)
+ > 《区块链基础知识25讲》-第二十四讲-使用区块链
+ ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
+ > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [华为发布开发者召集令，等你来战！](https://blog.csdn.net/csdnnews/article/details/94730580)
+ > 曾几何时，“上云”只是大型企业和科技领域的特权。时至今日，“云”不再是漂浮空中那般缥缈。普通企业，甚至是个人开发者之间，对“上云”的谈及也如同一日三餐那么平常。对于新兴行业而言，就好似零零后这些数字时代的原居民，生在云端。而传统行业现今也不甘落伍，不断加快自己追赶的步伐——好“云”凭借力，送我...
+# 人工智能 
+ ## [angular2表单异步验证](https://blog.csdn.net/ab31ab/article/details/91429856)
+ > angular2表单异步验证
+ ## [运维进阶——iptables详解](https://blog.csdn.net/zhaoliang_Guo/article/details/91055360)
+ > 运维进阶——iptables详解
+ ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
+ > 前端——JQuery基础
+ ## [chkconfig筛选出不需要的服务并关闭的两种方法](https://blog.csdn.net/junjie77649/article/details/91358811)
+ > chkconfig筛选出不需要的服务并关闭的两种方法
+ ## [https 证书过期检测](https://blog.csdn.net/qq_42409788/article/details/91852982)
+ > https 证书过期检测
+ ## [两台服务器ssh免密对端服务器及本机免密](https://blog.csdn.net/weixin_42691754/article/details/91881025)
+ > 两台服务器ssh免密对端服务器及本机免密
+ ## [k8s外网如何访问业务应用之Service 池化pod](https://blog.csdn.net/zhutongcloud/article/details/91038868)
+ > k8s外网如何访问业务应用之Service 池化pod
+ ## [【前端】重排和重绘](https://blog.csdn.net/Dora_5537/article/details/91357410)
+ > 【前端】重排和重绘
+ ## [阿里云DataV专业版发布，为可视化创造更多可能！](https://blog.csdn.net/weixin_43970890/article/details/91045201)
+ > 阿里云DataV专业版发布，为可视化创造更多可能！
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [前端 天气插件 tpwidget](https://blog.csdn.net/zhangjing0320/article/details/91867689)
+ > 前端 天气插件 tpwidget
+ ## [运维常用操作(持续更新)](https://blog.csdn.net/weixin_37038498/article/details/91346028)
+ > 运维常用操作(持续更新)
+ ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
+ > 前端异步流程
+ ## [【前端】vuex](https://blog.csdn.net/cheidou123/article/details/91345720)
+ > 【前端】vuex
+ ## [python之sys模块【获取参数】](https://blog.csdn.net/qq_36016375/article/details/91871325)
+ > python之sys模块【获取参数】
 # PM 
+ ## [复盘：我的12条创业笔记](http://www.woshipm.com/zhichang/2544610.html)
+ > 作者回顾了自己的创业经历，从遭遇问题到解决麻烦，从困境到成功的一些所思所想，有很多经验值得我们学习。我常常向朋友这么解释创业的状态：每个人在期末考试前2小时...
  ## [垃圾分类哪家强？让我们亲测求证](http://www.woshipm.com/it/2549766.html)
  > 上海于7月1日正式开始实行垃圾分类管理之后，全国各地也传来将陆续推进垃圾分类工作。大热趋势下，垃圾分类产业迎来一波爆发，以微信、支付宝、百度APP为首的各大厂商...
  ## [大数据如何颠覆传统模式，推进金融业的智能化转型](http://www.chanpin100.com/article/108843)
