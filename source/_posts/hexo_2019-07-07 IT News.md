@@ -1,30 +1,38 @@
 ---
 title: 2019-07-07 IT News
 copyright: true
-date: 2019-07-07 12:04:11
+date: 2019-07-07 17:01:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [快!33小时3D打印10吨重的混凝土桥](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=FQ5rUfttEX2QmqluqZsqnGGU*9ULBxDw7Kr-uGLK6dlrcdfSlxHcjUV1AT9k9wkB8PAGlyboGugZE135Qkw5CwmYOmgIfbBDbEYg8nNw2H3mJNYmbJWp4cgY1PGM9pRI&new=1)
- > 最近热门：《开通3D打印直播、课程培训后，微信产品库访问量暴涨》2019年7月5日，南极熊获悉，太空灰3D打印团队宣布，完成了全球首座真正意义上整体3D打印的混凝土拱桥，该桥长5.5米，宽2.1米，高1.6米。打印材...
- ## [中国电信这个这个子公司成立半年后再度公开亮相 董事长是浦德松](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=WukB1mzFvm1cw0MKgH4jb7wUt1RLFkSgQSkf*kN*QEgqUXFJqy4s9SAv5D3RW7agojrt4C1jewJqpKxvco7QLTxb0hu4ZJ2k1wOh4o1Mafd5RYRPw6NHl6YMeYcfjVxF&new=1)
- > 运营商财经网 八卦叨 /文在去年中国电信一系列眼花缭乱的战略布局中，其中一家新组建的合资公司“天翼智联”是最让人想不到的之一。这家新公司最近公开展示了将与5G为核心的智慧物流新理念。这也是天翼智联自成...
- ## [芯片设计的灵魂，国产EDA现状如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=uDZY9*79Qkz*5Aa1JBBcxLnlLp02np8c8fN2mBH3OeEsHBla19TGGvyE4zvke8b3rmL1zBr6yZYLT-x7RRcKP8k91XAyr5zgXnh9tNQpEKPODcZpQi*2HwplD8x6QN-s&new=1)
- > 所谓的EDA，其实是电子设计自动化（Electronic Design Automation）的简称，是从计算机辅助设计（CAD）、计算机辅助制造（CAM）、计算机辅助测试（CAT）和计算机辅助工程（CAE）的概念发展而来。随着芯片的集成...
- ## [注意!Sodinokibi勒索软件或将成为下一个巨大威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=59W4UVBFUN9rmpnS3E47hphsC8Uy4Qk8qnobzH1KTaI9HzFPc2kqxO-k5nomJPqLfmepfFPwb-G3uMXVwMemSc49kilp5qDPUdYhmfhqNUUP*SAV2*23Ui37CYqEbDG-&new=1)
+ ## [全国首个!3D打印房屋将现身河源](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=aqsbY58uQ*YzJ9EBoCqf5qrxOytyfORUSEypXBwsZVRsak8hr*cNiqCwLRzi5d-rJB31t9zZvPY0ECTauZplsixmCzl2Kl-rqM1R4Akd-CYu5YMc4TbrtPt7NOWDrcc9&new=1)
+ > 3D打印技术的日益成熟，不仅带来了建筑工艺、建筑材料的革新，也为3D打印技术与建筑业融合发展创造了契机。近日，在深圳宝安（龙川）产业转移工业园，由中国建筑技术中心提供技术支持、中建二局广东建设基地负责...
+ ## [5G时代，我们的创新哪里来?\[宁宇专栏-312\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=LKdTnuyARa8mcbOKjJMncgUxxjzvveCkLoZ*tudPrirJH0ObFL0GizbCSrgYtklFASZsqjiWYnLgFyTOcVbfv-9S0MJd*oBesJuIWGq9Ni4LzrpffkkdaTpGKFcVMvDd&new=1)
+ > 【摘要】在领先的位置上，就要付出更多的代价去寻找出路，带领产业想此前不敢想，做此前不敢碰的事情，虽然可能会失败，但是不这么做就没有希望。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业...
+ ## [ZEMAX：如何创建一个简单的非序列系统](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=SQd6oXLuW1IAUQguaolcKJ9Q6YCPqiuF92h8H6-fFyLJOqL-yeETp47oGDl-XR4bvS54ZzIAltAvmWoTmQ8YA*Z6eyKr*TPwF986833wLzL7OOrov6Xbyzn-PXJj*fsn&new=1)
+ > 概述这篇文章介绍了OpticStudio非序列模式中的一些基本操作。主要包括：在非序列元件编辑器中添加和编辑物体、在布局图中观察系统以及利用光线追迹获取系统相关的数据。本文使用的附件请从以下链接处下载：https...
+ ## [注意!Sodinokibi勒索软件或将成为下一个巨大威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=59W4UVBFUN9rmpnS3E47hphsC8Uy4Qk8qnobzH1KTaI6ZAdmO2kWSTdzZnnhVs0Sv7AHZ9ZcF2b2kC504fqqaPqXL93F7WhUUC2QnMY*oThMjyj*LununAhYGmHRT4VD&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：勒索软件Sodinokibi可能将继最近关闭服务的勒索软件GandCrab，成为勒索软件领域的巨大威胁！据外媒报道，近日，勒索软件Sodinokibi（又称Sodin或
- ## [联通最“爽”部门曝光：这里的小伙伴整日工作就是三个字：“玩”手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=QLtXYaeTO4IIVcMA556cGkExRYUz-*FsCT3IkBzpS3*ZcTjBDaFeL1hgiDfirnNz-rnTOWpPgGjRtlV1GijxfH66EauQuc3bnu9zzUla1SRvCapZkLJcwhQgxt8IerX8&new=1)
+ ## [吃货们注意啦!这个暑期，有一场“5G寻味之约”等你来](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=uD*TkU9t3sQ7C3ND6TojnDdEetjAkDZnSBGThC4oFa1Z9j4j1uiozOFg3egJqRrP0c**4d9ztNxB03DJi6ReF5uBs4sXtKfYyIBMZXAADnzItIR57mYGugeiV1lDK3PL&new=1)
+ > 即便是烈日当空气温高达32℃也挡不住️️️人山人海！热闹非凡！场面超震撼！昨天，泉州这地方刷屏了！▼到底发生了什么？昨天（7月6日）第七届岵山荔枝文化旅游节隆重拉开序幕标志着2019年岵山荔枝正式开摘！蝉...
+ ## [中国电信这个这个子公司成立半年后再度公开亮相 董事长是浦德松](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=WukB1mzFvm1cw0MKgH4jb7wUt1RLFkSgQSkf*kN*QEjsdd*jgWAdcah-If-cF14bPzgLpT77-Xe*FdboiTxQw4fbzO-gI0AX0If*0VRmuSOP-RZXrZ8Tys4zGXBrMxwY&new=1)
+ > 运营商财经网 八卦叨 /文在去年中国电信一系列眼花缭乱的战略布局中，其中一家新组建的合资公司“天翼智联”是最让人想不到的之一。这家新公司最近公开展示了将与5G为核心的智慧物流新理念。这也是天翼智联自成...
+ ## [芯片设计的灵魂，国产EDA现状如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=uDZY9*79Qkz*5Aa1JBBcxLnlLp02np8c8fN2mBH3OeH5T3EdPU*0Aku*TJbxFAAZrj16vqHCeqQm25vxFiBDp9MzVAAz5cZZe3fy3NCFeHhUlQRgiilEwCkPMkN6-37i&new=1)
+ > 所谓的EDA，其实是电子设计自动化（Electronic Design Automation）的简称，是从计算机辅助设计（CAD）、计算机辅助制造（CAM）、计算机辅助测试（CAT）和计算机辅助工程（CAE）的概念发展而来。随着芯片的集成...
+ ## [快!33小时3D打印10吨重的混凝土桥](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=FQ5rUfttEX2QmqluqZsqnGGU*9ULBxDw7Kr-uGLK6dnXPsMJ9rdNijzQ5gUElMBjYSejnlu2ng1NObQD9rPqzAeWgOsDu89jx2VeQBjPoPdWfPRSSAnCRpae5AhRF-Ki&new=1)
+ > 最近热门：《开通3D打印直播、课程培训后，微信产品库访问量暴涨》2019年7月5日，南极熊获悉，太空灰3D打印团队宣布，完成了全球首座真正意义上整体3D打印的混凝土拱桥，该桥长5.5米，宽2.1米，高1.6米。打印材...
+ ## [联通最“爽”部门曝光：这里的小伙伴整日工作就是三个字：“玩”手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=QLtXYaeTO4IIVcMA556cGkExRYUz-*FsCT3IkBzpS38y2SQ94FGaUzqSAp304Nn*KqUBvkBy5y-WRoQYNwCJQP9yxaTswik88BfJfqBpPhTTZZ7-j7xcOKHc5WKv0SKC&new=1)
  > 2019年6月6日工信部向三家运营商及中国广电颁发5G商用牌照我国正式进入5G商用元年可很多用户发现市面上的5G手机还并不多见不是说都已经生产出来了吗？别急要知道5G手机可是全球最新技术新5G手机从研发出来到投入...
- ## [当交易变成3D打印设计时，海关就会形同虚设了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=aqsbY58uQ*YzJ9EBoCqf5qrxOytyfORUSEypXBwsZVS7bhZkcEx6Yxfiq-Yi9M-L1GiK2lCLzadNRHjR0Mw4ECu6Mheac2QjVBQQ-5m8ozvIiLyUlFLJDUO88El8tZnT&new=1)
+ ## [当交易变成3D打印设计时，海关就会形同虚设了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=aqsbY58uQ*YzJ9EBoCqf5qrxOytyfORUSEypXBwsZVQmkxM1PTcOzDsKHYrq0hZHBgumjbTC2AENicFFwaA99Quq75DeoggNR8NE1UTOHSd375ecVK27p0EBIZo40aud&new=1)
  > 根据荷兰银行和金融服务公司（ING）2017年发布的报告，到2060年，50%的制成品可以通过3D打印完成，25%的世界贸易将被消解。亦有其他机构预测，40%~50%的国际贸易量将会消失。电子商务的发展，使得通过网络进行跨...
- ## [任正非：华为鸿蒙比安卓快60%](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=QcFRH1DZ1Z-3VTk6IRH5-II0fq2teLjIuOeGQgMVGk0ZSygAqG0ZIC*uOVmpA1JI7dVAPWbTsnpkwlhfHoAdrNxFUWjnDOAkTPn9SWXiKyUOfeBZsDmU7ZswuhF1tAwF&new=1)
+ ## [任正非：华为鸿蒙比安卓快60%](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=QcFRH1DZ1Z-3VTk6IRH5-II0fq2teLjIuOeGQgMVGk1W**l6Ry95lBwE84TXhUFqnnVuXqmhS-891ZJCyv1Xznmqp6S7ozk*TMCnXTLi5Hkvp6w4K8xE0HWQpQd5pOpE&new=1)
  > 华为的鸿蒙系统什么样？华为董事长任正非给出了一些新的消息。据《联合早报》报道，法国著名新闻周刊《观点》杂志，最新一期以任正非为封面，刊发了十五页的专题报道，标题：这个人将改变历史。这次专访涉及多个...
- ## [亚马逊CEO贝索斯正式离婚丨苹果赔偿三星6.83亿美元屏幕成本\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=Om*7aO4Koj4v7OKRZ4QEImTdbdr-eoN23KAfhMFjY9Bk6Ad3vHLXZw782h0MqMg*nUvvl08h8yg7eAo5ArF2d71UiTqCDLJFF3pW9yHGoFt-aSK4wHPMzc8JvvU3N0c2&new=1)
+ ## [亚马逊CEO贝索斯正式离婚丨苹果赔偿三星6.83亿美元屏幕成本\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=Om*7aO4Koj4v7OKRZ4QEImTdbdr-eoN23KAfhMFjY9DtfvzBGulNvgeYwUYB2e0*ZQekAZ5s*JyQttQYYQKkdzdKQvCYRzkDgrS6ZML8mUq*unA4xcUrq7TNXORJC4DU&new=1)
  > 6月28日周五【Do说】编辑 | 李尧贝索斯正式离婚，麦肯齐获亚马逊4%股份美国当地时间周五，华盛顿州国王县的一名法官签署了一项命令，正式宣布亚马逊首席执行官杰夫·贝索斯(Jeff Bezos)与前妻麦肯齐(MacKenzie)...
- ## [成功截胡高通?联发科打响汽车前装市场第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=iAE-gTtOVzlKZMrI*32lOmvezJb8HVnie3bGWfB04OyZOOkkI1t9Chk4j22aSO1DMdVgXcgwSov7eOf4tTednLuzVYUr*q4OjItWLEKc0SZQsk1d5*-7eS0SIoId-R-s&new=1)
+ ## [成功截胡高通?联发科打响汽车前装市场第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=iAE-gTtOVzlKZMrI*32lOmvezJb8HVnie3bGWfB04OzhPQjhOhJbyZvLvBroIcDtAR9m3lb2VH5zTlsuq*mtRpEgos1y5dq6Wm182N7hFJlL4tPMQzeSx-WQi2CVNsiL&new=1)
  > 7月3日，国产汽车厂商吉利正式发布了全新升级的GKUI 19吉客智能生态系统。此外，首款搭载GKUI 19的“云智能SUV”—吉利博越PRO也正式发布。特别值得一提的是，此次吉利还联合联发科推出了E系列车机芯片，这也是...
- ## [\[报告下载\]239篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=5mksFFMIWXnnOq7*eHW2V09ON9kXgo0SdOrvBtEx*5uprBxr7d7pVKi7ff2GvH7q0Dy*NdqEbeckjwi2Yd2dplIZgVE0ygLgnJgo6KrbQj3xVHInMpRixLJHCfMrfvAV&new=1)
+ ## [\[报告下载\]239篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1562490004&ver=1713&signature=5mksFFMIWXnnOq7*eHW2V09ON9kXgo0SdOrvBtEx*5snhtl*vmBL8V5B0Dnkbf3XrndFpbW4tSLfd*7fZ8G*iPW4YEYXcs8wOhcrIgIC5H2gs*eE0sXqtCmnTgJpxbFh&new=1)
  > 汽车行业239+篇顶级报告大放送！239篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享239份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -105,32 +113,32 @@ categories: IT NEWS
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [Linux安全优化之权限](https://blog.csdn.net/qq_41636653/article/details/94765760)
- > Linux安全优化之权限
- ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
- > 前端异步流程
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [JVM安全点详解](https://blog.csdn.net/qq_39429962/article/details/91355662)
- > JVM安全点详解
- ## [前端常用标签 (一)](https://blog.csdn.net/qq_43674132/article/details/94609405)
- > 前端常用标签 (一)
- ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
- > LANMP安全配置之Nginx安全配置
- ## [微服务架构之「 访问安全 」](https://blog.csdn.net/jsjwk/article/details/91831618)
- > 微服务架构之「 访问安全 」
+ ## [Flutter移动开发UI框架理解（一）](https://blog.csdn.net/oMoLin1/article/details/92801512)
+ > Flutter移动开发UI框架理解（一）
+ ## [c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子](https://blog.csdn.net/u014194297/article/details/93332625)
+ > c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子
+ ## [探索Flutter配置过程中的坑](https://blog.csdn.net/HflyDragon/article/details/91450225)
+ > 探索Flutter配置过程中的坑
  ## [2019中级Android开发社招面试解答之性能优化篇](https://blog.csdn.net/Android_SE/article/details/91445544)
  > 2019中级Android开发社招面试解答之性能优化篇
- ## [Nginx安全防范配置](https://blog.csdn.net/Tiger_lin1/article/details/91354300)
- > Nginx安全防范配置
- ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
- > 前端的异步流程
- ## [前端（四）BOM和DOM](https://blog.csdn.net/zeroooorez/article/details/94566628)
- > 前端（四）BOM和DOM
- ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
- > Docker安全加固之--LXCFS
- ## [6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管](https://blog.csdn.net/yidunmarket/article/details/91129725)
- > 6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管
+ ## [OC中的几种延迟执行方式](https://blog.csdn.net/qq_42792413/article/details/91902945)
+ > OC中的几种延迟执行方式
+ ## [张萌&韩墨羽——Dialog对话框](https://blog.csdn.net/Zephyr_0312/article/details/94758347)
+ > 张萌&amp;韩墨羽——Dialog对话框
+ ## [IBM-IPD研发管理职能](https://blog.csdn.net/kinglapland/article/details/91478365)
+ > IBM-IPD研发管理职能
+ ## [20年研发管理经验谈（十一）](https://blog.csdn.net/weixin_39759846/article/details/93618110)
+ > 20年研发管理经验谈（十一）
+ ## [20年研发管理经验谈（十）](https://blog.csdn.net/weixin_39759846/article/details/93033667)
+ > 20年研发管理经验谈（十）
+ ## [20年研发管理经验谈（八）](https://blog.csdn.net/weixin_39759846/article/details/91849914)
+ > 20年研发管理经验谈（八）
+ ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
+ > 20年研发管理经验谈（十三）
+ ## [20年研发管理经验谈（七）](https://blog.csdn.net/weixin_39759846/article/details/91512110)
+ > 20年研发管理经验谈（七）
+ ## [20年研发管理经验谈（九）](https://blog.csdn.net/weixin_39759846/article/details/92661283)
+ > 20年研发管理经验谈（九）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [微前端如何落地？](https://blog.csdn.net/csdnnews/article/details/94930460)
@@ -156,37 +164,45 @@ categories: IT NEWS
  ## [微信停机断网可充话费；苹果正研发可折叠屏幕 iPad；Rust 1.36.0 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/94930398)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
 # 人工智能 
- ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
- > 人工智能课程推荐
- ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
- > 人工智能助力反洗钱升级
- ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
- > FFmpeg音视频整合
- ## [两台服务器ssh免密对端服务器及本机免密](https://blog.csdn.net/weixin_42691754/article/details/91881025)
- > 两台服务器ssh免密对端服务器及本机免密
- ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
- > 人工智能—— 博弈树的启发式搜索
- ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
- > 人工智能--状态空间的盲目搜索
- ## [Linux企业运维篇——saltstack的安装部署](https://blog.csdn.net/weixin_44321116/article/details/92842082)
- > Linux企业运维篇——saltstack的安装部署
- ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
- > 大家的人工智能——决策树
- ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
- > 人工智能--人脸识别
- ## [Linux企业运维篇 ——ansible配置与用法](https://blog.csdn.net/weixin_44321116/article/details/92686085)
- > Linux企业运维篇 ——ansible配置与用法
- ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
- > 大家的人工智能——正规方程
- ## [chkconfig筛选出不需要的服务并关闭的两种方法](https://blog.csdn.net/junjie77649/article/details/91358811)
- > chkconfig筛选出不需要的服务并关闭的两种方法
- ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
- > 关于“人工智能”的一点思考
- ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
- > 好用的抖音视频剪辑软件推荐
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
+ ## [前端编码规范之react](https://blog.csdn.net/m_review/article/details/93596181)
+ > 前端编码规范之react
+ ## [前端——JQuery基础](https://blog.csdn.net/LiLiLiLaLa/article/details/91358873)
+ > 前端——JQuery基础
+ ## [【程序人生】大三Unity客户端第一次找工作的经历](https://blog.csdn.net/qq_33967521/article/details/94728912)
+ > 【程序人生】大三Unity客户端第一次找工作的经历
+ ## [前端程序员，需要吃透的前端书籍推荐](https://blog.csdn.net/nnnn1235657/article/details/92428057)
+ > 前端程序员，需要吃透的前端书籍推荐
+ ## [商城-搭建后台管理前端](https://blog.csdn.net/shenzhen_zsw/article/details/91842264)
+ > 商城-搭建后台管理前端
+ ## [物联网与边缘计算的融合](https://blog.csdn.net/flyforfreedom2008/article/details/91348295)
+ > 物联网与边缘计算的融合
+ ## [物联网 GUI 开发套件 AWTK-IOTJS](https://blog.csdn.net/absurd/article/details/92786103)
+ > 物联网 GUI 开发套件 AWTK-IOTJS
+ ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
+ > 与操作系统导论对话
+ ## [最简单的深度学习入门书《动手学深度学习》](https://blog.csdn.net/epubit17/article/details/91489932)
+ > 最简单的深度学习入门书《动手学深度学习》
+ ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
+ > 物联网卡还可以用在农业自动化的哪些方面
+ ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
+ > 软件设计师考试经历
+ ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
+ > 开启技术之旅——我的第一篇博客
+ ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
+ > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
+ ## [写给未来的自己（20190706）](https://blog.csdn.net/weixin_43944175/article/details/94851470)
+ > 写给未来的自己（20190706）
+ ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
+ > 物联网的发展与应用
 # PM 
+ ## [让人垂头丧气的伪需求](http://www.woshipm.com/it/2552633.html)
+ > 需求一般是由用户、场景、问题、解决方案、价值主张（独特卖点）等要素组成，当任何一个环节有了问题都有可能形成伪需求。一、 用户问题相同的需求，如果用户变了就...
+ ## [凉爽和燥热！两种风格的小暑借势海报分析](http://www.woshipm.com/marketing/2550767.html)
+ > 炎炎夏日，你想到的会是什么呢？是似火的骄阳、蒸腾的暑气，还是冰凉的西瓜、冒冷气的冰可乐呢。无论你想到什么，这些夏日因素都能成为小暑借势海报的必备武器。一、...
+ ## [“数据中台”需要什么样的产品经理？](http://www.woshipm.com/pmd/2501012.html)
+ > 本文将简单剖析一下数据中台，并尝试着明确数据中台到底需要什么样的产品经理。中台，一个火热到发烫的词汇。附耳细听，到处都在喊中台，似乎不知道中台就差了意思，...
+ ## [如何成为第一代的AI人：AI技术、AI产品、AI运营](http://www.woshipm.com/it/2548464.html)
+ > 第一代人往往拥有红利！本文谈的是如何做AI的第一代人，做AI第一代的技术、做AI第一代的产品、做AI第一代的运营。最后讲几个案例。一、第一代的AI人综述线上流量见顶...
  ## [如何满足B端客户需求？2B网站设计5个关键点](http://www.woshipm.com/pd/2547616.html)
  > 如何满足B端客户需求？笔者通过对多个行业的B2B网站进行研究，从中分析B2B网站和B2C网站之间在用户体验方面的区别，总结出2B网站设计5个关键点。在漫长的采购周期中，...
  ## [设计师做增长之“忌”](http://www.woshipm.com/pd/1999696.html)
