@@ -1,22 +1,30 @@
 ---
 title: 2019-07-07 IT News
 copyright: true
-date: 2019-07-07 10:01:13
+date: 2019-07-07 12:04:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联通最“爽”部门曝光：这里的小伙伴整日工作就是三个字：“玩”手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1562464804&ver=1713&signature=QLtXYaeTO4IIVcMA556cGkExRYUz-*FsCT3IkBzpS3-HLA2t0qMt7q13EHgqox1*lhvxSRog2md6WCILbecYw6XwiFFNzVdGQPNPqFzG2iq40oxCJcsxGjZcLzcAdCgs&new=1)
+ ## [快!33小时3D打印10吨重的混凝土桥](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=FQ5rUfttEX2QmqluqZsqnGGU*9ULBxDw7Kr-uGLK6dlrcdfSlxHcjUV1AT9k9wkB8PAGlyboGugZE135Qkw5CwmYOmgIfbBDbEYg8nNw2H3mJNYmbJWp4cgY1PGM9pRI&new=1)
+ > 最近热门：《开通3D打印直播、课程培训后，微信产品库访问量暴涨》2019年7月5日，南极熊获悉，太空灰3D打印团队宣布，完成了全球首座真正意义上整体3D打印的混凝土拱桥，该桥长5.5米，宽2.1米，高1.6米。打印材...
+ ## [中国电信这个这个子公司成立半年后再度公开亮相 董事长是浦德松](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=WukB1mzFvm1cw0MKgH4jb7wUt1RLFkSgQSkf*kN*QEgqUXFJqy4s9SAv5D3RW7agojrt4C1jewJqpKxvco7QLTxb0hu4ZJ2k1wOh4o1Mafd5RYRPw6NHl6YMeYcfjVxF&new=1)
+ > 运营商财经网 八卦叨 /文在去年中国电信一系列眼花缭乱的战略布局中，其中一家新组建的合资公司“天翼智联”是最让人想不到的之一。这家新公司最近公开展示了将与5G为核心的智慧物流新理念。这也是天翼智联自成...
+ ## [芯片设计的灵魂，国产EDA现状如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=uDZY9*79Qkz*5Aa1JBBcxLnlLp02np8c8fN2mBH3OeEsHBla19TGGvyE4zvke8b3rmL1zBr6yZYLT-x7RRcKP8k91XAyr5zgXnh9tNQpEKPODcZpQi*2HwplD8x6QN-s&new=1)
+ > 所谓的EDA，其实是电子设计自动化（Electronic Design Automation）的简称，是从计算机辅助设计（CAD）、计算机辅助制造（CAM）、计算机辅助测试（CAT）和计算机辅助工程（CAE）的概念发展而来。随着芯片的集成...
+ ## [注意!Sodinokibi勒索软件或将成为下一个巨大威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=59W4UVBFUN9rmpnS3E47hphsC8Uy4Qk8qnobzH1KTaI9HzFPc2kqxO-k5nomJPqLfmepfFPwb-G3uMXVwMemSc49kilp5qDPUdYhmfhqNUUP*SAV2*23Ui37CYqEbDG-&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：勒索软件Sodinokibi可能将继最近关闭服务的勒索软件GandCrab，成为勒索软件领域的巨大威胁！据外媒报道，近日，勒索软件Sodinokibi（又称Sodin或
+ ## [联通最“爽”部门曝光：这里的小伙伴整日工作就是三个字：“玩”手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=QLtXYaeTO4IIVcMA556cGkExRYUz-*FsCT3IkBzpS3*ZcTjBDaFeL1hgiDfirnNz-rnTOWpPgGjRtlV1GijxfH66EauQuc3bnu9zzUla1SRvCapZkLJcwhQgxt8IerX8&new=1)
  > 2019年6月6日工信部向三家运营商及中国广电颁发5G商用牌照我国正式进入5G商用元年可很多用户发现市面上的5G手机还并不多见不是说都已经生产出来了吗？别急要知道5G手机可是全球最新技术新5G手机从研发出来到投入...
- ## [亚马逊CEO贝索斯正式离婚丨苹果赔偿三星6.83亿美元屏幕成本\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562464804&ver=1713&signature=Om*7aO4Koj4v7OKRZ4QEImTdbdr-eoN23KAfhMFjY9CTJJAuF6yjEVZuBFsgsBp6vQYWvI9XmwfyEoSnBGa9CQPRDgF74uuvIuQYxWDJIkSe*R0WDadHZfedLx3Sq2AJ&new=1)
- > 6月28日周五【Do说】编辑 | 李尧贝索斯正式离婚，麦肯齐获亚马逊4%股份美国当地时间周五，华盛顿州国王县的一名法官签署了一项命令，正式宣布亚马逊首席执行官杰夫·贝索斯(Jeff Bezos)与前妻麦肯齐(MacKenzie)...
- ## [成功截胡高通?联发科打响汽车前装市场第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1562464804&ver=1713&signature=iAE-gTtOVzlKZMrI*32lOmvezJb8HVnie3bGWfB04OxXC6tvO9SsFqK4e8*21miPxJM0gx9guP8QUWKxy*XDyBPG*jQTjrX3ZNUHrE6fWU7gMPHYonG*mkJ7aPDI4kor&new=1)
- > 7月3日，国产汽车厂商吉利正式发布了全新升级的GKUI 19吉客智能生态系统。此外，首款搭载GKUI 19的“云智能SUV”—吉利博越PRO也正式发布。特别值得一提的是，此次吉利还联合联发科推出了E系列车机芯片，这也是...
- ## [当交易变成3D打印设计时，海关就会形同虚设了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1562464804&ver=1713&signature=aqsbY58uQ*YzJ9EBoCqf5qrxOytyfORUSEypXBwsZVQiKbgc3mem4ljLkMW0kzKvcTZkf1BxQ9iiGCGhWa14JctNlv0KUyO1xNWO3He6cq0-zTHpj1JyrBIlX2*etQ3*&new=1)
+ ## [当交易变成3D打印设计时，海关就会形同虚设了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=aqsbY58uQ*YzJ9EBoCqf5qrxOytyfORUSEypXBwsZVS7bhZkcEx6Yxfiq-Yi9M-L1GiK2lCLzadNRHjR0Mw4ECu6Mheac2QjVBQQ-5m8ozvIiLyUlFLJDUO88El8tZnT&new=1)
  > 根据荷兰银行和金融服务公司（ING）2017年发布的报告，到2060年，50%的制成品可以通过3D打印完成，25%的世界贸易将被消解。亦有其他机构预测，40%~50%的国际贸易量将会消失。电子商务的发展，使得通过网络进行跨...
- ## [任正非：华为鸿蒙比安卓快60%](http://mp.weixin.qq.com/s?src=11&timestamp=1562464804&ver=1713&signature=QcFRH1DZ1Z-3VTk6IRH5-II0fq2teLjIuOeGQgMVGk2zwU2uOTGzNSJdvRekU6-nTrCkQuWjSek4s304dYi770U42*KiWN1OA1wlFjyRpOB0GbXkRhDT7NTQDN4*LkAm&new=1)
+ ## [任正非：华为鸿蒙比安卓快60%](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=QcFRH1DZ1Z-3VTk6IRH5-II0fq2teLjIuOeGQgMVGk0ZSygAqG0ZIC*uOVmpA1JI7dVAPWbTsnpkwlhfHoAdrNxFUWjnDOAkTPn9SWXiKyUOfeBZsDmU7ZswuhF1tAwF&new=1)
  > 华为的鸿蒙系统什么样？华为董事长任正非给出了一些新的消息。据《联合早报》报道，法国著名新闻周刊《观点》杂志，最新一期以任正非为封面，刊发了十五页的专题报道，标题：这个人将改变历史。这次专访涉及多个...
- ## [\[报告下载\]239篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1562464804&ver=1713&signature=5mksFFMIWXnnOq7*eHW2V09ON9kXgo0SdOrvBtEx*5uMlgE6xUy00rRd1YqorD05qWhSoGiHz1qv8Vq6D569qk0gbxqJdbo8xZrTfLZLVebawWV*Tn-OcJNQYwI5D7Ll&new=1)
+ ## [亚马逊CEO贝索斯正式离婚丨苹果赔偿三星6.83亿美元屏幕成本\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=Om*7aO4Koj4v7OKRZ4QEImTdbdr-eoN23KAfhMFjY9Bk6Ad3vHLXZw782h0MqMg*nUvvl08h8yg7eAo5ArF2d71UiTqCDLJFF3pW9yHGoFt-aSK4wHPMzc8JvvU3N0c2&new=1)
+ > 6月28日周五【Do说】编辑 | 李尧贝索斯正式离婚，麦肯齐获亚马逊4%股份美国当地时间周五，华盛顿州国王县的一名法官签署了一项命令，正式宣布亚马逊首席执行官杰夫·贝索斯(Jeff Bezos)与前妻麦肯齐(MacKenzie)...
+ ## [成功截胡高通?联发科打响汽车前装市场第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=iAE-gTtOVzlKZMrI*32lOmvezJb8HVnie3bGWfB04OyZOOkkI1t9Chk4j22aSO1DMdVgXcgwSov7eOf4tTednLuzVYUr*q4OjItWLEKc0SZQsk1d5*-7eS0SIoId-R-s&new=1)
+ > 7月3日，国产汽车厂商吉利正式发布了全新升级的GKUI 19吉客智能生态系统。此外，首款搭载GKUI 19的“云智能SUV”—吉利博越PRO也正式发布。特别值得一提的是，此次吉利还联合联发科推出了E系列车机芯片，这也是...
+ ## [\[报告下载\]239篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1562472005&ver=1713&signature=5mksFFMIWXnnOq7*eHW2V09ON9kXgo0SdOrvBtEx*5uprBxr7d7pVKi7ff2GvH7q0Dy*NdqEbeckjwi2Yd2dplIZgVE0ygLgnJgo6KrbQj3xVHInMpRixLJHCfMrfvAV&new=1)
  > 汽车行业239+篇顶级报告大放送！239篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享239份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,6 +83,8 @@ categories: IT NEWS
  > 爬了27303条热评，“宏颜获水”为何还要被群嘲？
  ## [麻省理工、MaxAI们死磕垃圾分类，神助攻还是花拳绣腿？](http://www.cioage.com/art/201907/599035.htm)
  > 麻省理工、MaxAI们死磕垃圾分类，神助攻还是花拳绣腿？
+ ## [在Linux上为你的任务创建一个自定义的系统托盘指示器](http://os.51cto.com/art/201907/599148.htm)
+ > 系统托盘图标如今仍是一个很神奇的功能。只需要右击图标，然后选择想要的动作，你就可以大幅简化你的生活并
  ## [微软：Windows 10不再自动备份注册表 不是Bug](http://os.51cto.com/art/201907/599147.htm)
  > 去年11月份，陆续有网友发现，Windows 10新版本不再自动备份注册表了。由于当时正逢Windows 10 v1809版本Bu
  ## [神话还是现实？Docker和Kubernetes的完美架构](http://developer.51cto.com/art/201907/599146.htm)
@@ -95,32 +105,32 @@ categories: IT NEWS
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [分布式服务架构下的混沌工程实践](https://blog.csdn.net/yunqiinsight/article/details/94722141)
- > 分布式服务架构下的混沌工程实践
- ## [闲聊人工智能产品经理（AIPM）—人工智能产品经理工作流程](https://blog.csdn.net/kepengs/article/details/92955349)
- > 闲聊人工智能产品经理（AIPM）—人工智能产品经理工作流程
- ## [20年研发管理经验谈（十一）](https://blog.csdn.net/weixin_39759846/article/details/93618110)
- > 20年研发管理经验谈（十一）
- ## [linux 群集架构(补充)](https://blog.csdn.net/weixin_40876986/article/details/91126908)
- > linux 群集架构(补充)
- ## [SparkCore之运行架构](https://blog.csdn.net/liweihope/article/details/91293267)
- > SparkCore之运行架构
- ## [Python人工智能-知识储备](https://blog.csdn.net/qq_21153997/article/details/91472776)
- > Python人工智能-知识储备
- ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
- > 大家的人工智能——决策树
- ## [微服务之架构技术选型与设计](https://blog.csdn.net/weixin_45273693/article/details/93132907)
- > 微服务之架构技术选型与设计
- ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
- > 人工智能课程推荐
- ## [【架构】Nginx+Keepalived高可用集群](https://blog.csdn.net/qq_28505809/article/details/94586687)
- > 【架构】Nginx+Keepalived高可用集群
- ## [机械工程和人工智能关系](https://blog.csdn.net/BENDAXIANNMD/article/details/92853588)
- > 机械工程和人工智能关系
- ## [爱的故事，用Jira策划的浪漫婚礼](https://blog.csdn.net/sinat_27030335/article/details/91293427)
- > 爱的故事，用Jira策划的浪漫婚礼
- ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
- > 人工智能—— 博弈树的启发式搜索
+ ## [Linux安全优化之权限](https://blog.csdn.net/qq_41636653/article/details/94765760)
+ > Linux安全优化之权限
+ ## [前端异步流程](https://blog.csdn.net/A_head_of_cookies/article/details/91492184)
+ > 前端异步流程
+ ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
+ > 【前端】slot
+ ## [JVM安全点详解](https://blog.csdn.net/qq_39429962/article/details/91355662)
+ > JVM安全点详解
+ ## [前端常用标签 (一)](https://blog.csdn.net/qq_43674132/article/details/94609405)
+ > 前端常用标签 (一)
+ ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
+ > LANMP安全配置之Nginx安全配置
+ ## [微服务架构之「 访问安全 」](https://blog.csdn.net/jsjwk/article/details/91831618)
+ > 微服务架构之「 访问安全 」
+ ## [2019中级Android开发社招面试解答之性能优化篇](https://blog.csdn.net/Android_SE/article/details/91445544)
+ > 2019中级Android开发社招面试解答之性能优化篇
+ ## [Nginx安全防范配置](https://blog.csdn.net/Tiger_lin1/article/details/91354300)
+ > Nginx安全防范配置
+ ## [前端的异步流程](https://blog.csdn.net/weixin_45213950/article/details/91492730)
+ > 前端的异步流程
+ ## [前端（四）BOM和DOM](https://blog.csdn.net/zeroooorez/article/details/94566628)
+ > 前端（四）BOM和DOM
+ ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
+ > Docker安全加固之--LXCFS
+ ## [6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管](https://blog.csdn.net/yidunmarket/article/details/91129725)
+ > 6月第1周业务风控关注 | Facebook等公司或在欧盟面临更严内容监管
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [微前端如何落地？](https://blog.csdn.net/csdnnews/article/details/94930460)
@@ -146,37 +156,39 @@ categories: IT NEWS
  ## [微信停机断网可充话费；苹果正研发可折叠屏幕 iPad；Rust 1.36.0 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/94930398)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
 # 人工智能 
- ## [Java新特性之方法引用](https://blog.csdn.net/mi_zhi_lu/article/details/91367021)
- > Java新特性之方法引用
- ## [Visual C++游戏编程基础之多背景循环动画](https://blog.csdn.net/Sruggle/article/details/91356639)
- > Visual C++游戏编程基础之多背景循环动画
- ## [人工智能 —— 代价树的盲目搜索](https://blog.csdn.net/starter_____/article/details/91647905)
- > 人工智能 —— 代价树的盲目搜索
- ## [\[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集](https://blog.csdn.net/BuladeMian/article/details/91172411)
- > \[游戏制作比赛\]Ludum Dare72小时限时独立游戏开发比赛合集
- ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
- > 大家的人工智能——正规方程
+ ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
+ > 人工智能课程推荐
  ## [人工智能助力反洗钱升级](https://blog.csdn.net/adsd165/article/details/91524794)
  > 人工智能助力反洗钱升级
- ## [Python 入门基础 - 基础类型](https://blog.csdn.net/dishe/article/details/94591831)
- > Python 入门基础 - 基础类型
+ ## [FFmpeg音视频整合](https://blog.csdn.net/weixin_43683726/article/details/91360672)
+ > FFmpeg音视频整合
+ ## [两台服务器ssh免密对端服务器及本机免密](https://blog.csdn.net/weixin_42691754/article/details/91881025)
+ > 两台服务器ssh免密对端服务器及本机免密
+ ## [人工智能—— 博弈树的启发式搜索](https://blog.csdn.net/starter_____/article/details/91775939)
+ > 人工智能—— 博弈树的启发式搜索
  ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
  > 人工智能--状态空间的盲目搜索
- ## [前端基础概念的整理](https://blog.csdn.net/mondy592/article/details/91130250)
- > 前端基础概念的整理
- ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
- > Visual C++游戏编程基础之键盘消息
+ ## [Linux企业运维篇——saltstack的安装部署](https://blog.csdn.net/weixin_44321116/article/details/92842082)
+ > Linux企业运维篇——saltstack的安装部署
  ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
  > 大家的人工智能——决策树
- ## [人工智能“炒股”任重道远](https://blog.csdn.net/fxj2019/article/details/94172139)
- > 人工智能“炒股”任重道远
- ## [项目开始阶段（二）](https://blog.csdn.net/weixin_44541224/article/details/91357004)
- > 项目开始阶段（二）
- ## [棋类游戏开发和牌类游戏开发的不同之处](https://blog.csdn.net/motianyougame/article/details/94397261)
- > 棋类游戏开发和牌类游戏开发的不同之处
- ## [Java基础系列（基础）：字符串拼接之StringJoiner！](https://blog.csdn.net/Mrs_chens/article/details/94400724)
- > Java基础系列（基础）：字符串拼接之StringJoiner！
+ ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
+ > 人工智能--人脸识别
+ ## [Linux企业运维篇 ——ansible配置与用法](https://blog.csdn.net/weixin_44321116/article/details/92686085)
+ > Linux企业运维篇 ——ansible配置与用法
+ ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
+ > 大家的人工智能——正规方程
+ ## [chkconfig筛选出不需要的服务并关闭的两种方法](https://blog.csdn.net/junjie77649/article/details/91358811)
+ > chkconfig筛选出不需要的服务并关闭的两种方法
+ ## [关于“人工智能”的一点思考](https://blog.csdn.net/Chenyun__/article/details/91847809)
+ > 关于“人工智能”的一点思考
+ ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
+ > 好用的抖音视频剪辑软件推荐
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
 # PM 
+ ## [如何满足B端客户需求？2B网站设计5个关键点](http://www.woshipm.com/pd/2547616.html)
+ > 如何满足B端客户需求？笔者通过对多个行业的B2B网站进行研究，从中分析B2B网站和B2C网站之间在用户体验方面的区别，总结出2B网站设计5个关键点。在漫长的采购周期中，...
  ## [设计师做增长之“忌”](http://www.woshipm.com/pd/1999696.html)
  > 记不得从何时开始，“增长”一词就开始疯狂席卷互联网领域，各个领域、职能部门似乎都开始做“增长”。趁着“增长”的热度还没退去，也来聊聊设计师如何参与到“增长”的一片红...
  ## [不甘做昨日黄花，逆流期企业该如何实现回归？](http://www.pmtoo.com/article/77356.html)
