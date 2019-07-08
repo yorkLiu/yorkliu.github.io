@@ -1,19 +1,21 @@
 ---
 title: 2019-07-08 IT News
 copyright: true
-date: 2019-07-08 08:02:49
+date: 2019-07-08 09:03:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[C114周报\]广电总局：加快5G建设与全国一网整合；联通首度披露5G基站设备路标规划；搬迁华为在美设备成本超10亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1562544004&ver=1715&signature=mKd0AI670*3DRZL298GMAQMLQ0XZ8gW4gJ*qOg0*eFC003SAX26xGdDwR0WIaiHzVtzgmXVrNcKtUaMHLbgoY4VSKPm4XJnEl5rGsSR3bmpzq5aXPNaMGyBCrykIczWE&new=1)
- > 周报WEEKLY本周热点有广电总局：加快5G建设与全国一网整合；联通披露5G基站设备路标规划；搬迁华为在美设备成本超10亿美元• 第051期 •广电总局：加快5G建设与全国一网整合7月5日在日前召开的“第四届丝绸之路(...
- ## [重磅：鸿蒙系统"很快"就能上市!今年挖来的"天才少年"薪酬比谷歌还高](http://mp.weixin.qq.com/s?src=11&timestamp=1562544004&ver=1715&signature=37cOgXdlBx3ZVT1Y4NWMNc*TblVgGuIGJ9J6GtmWq6BptjGWhFmkhHQS*Egd7cJESYo3IcCXjz80bxd2ItlZc-g1du2cUamZGWHaANTrbmDKVhsSF0b2nnS78ajU1pl*&new=1)
- > 任正非：鸿蒙可能比安卓、苹果系统快但有个“失误”7月4日，任正非接受某知名媒体采访时，提到了“鸿蒙”操作系统，称其速度“很有可能”比安卓或Mac OS X快，处理延迟小于5毫秒，但也承认“鸿蒙”缺乏良好的应...
- ## [网易云音乐称遭遇集中造谣丨邮储银行回归A股\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562544004&ver=1715&signature=-USo*VTLNgSdPGxZQYnTKfaLAOU9V88lh0tbe42ry3V7EWczWs1ySfC763kPWeRnZt36jCsfDLJVdkyTv9NxViVD3qe3PIy6nRGgmkZH*NdT1jJOQEl3J5Ln7JwhjdMT&new=1)
- > 7月07日周日【Do说】编辑 | 赵艾虎网易云音乐称遭遇集中造谣，已报案并向网友征集线索针对“卸载重装网易云音乐得会员”、“网易云音乐偷偷删除用户本地文件”、“网易云音乐已死”等近期网络内容，网易云音乐在...
- ## [思科被发现使用华为代码，解释：忘了删](http://mp.weixin.qq.com/s?src=11&timestamp=1562544004&ver=1715&signature=qQ8maaaENX4pMfgkXiMWMh*Sz57Yxn5PyaJOuAfG5tlod*k2-W94VH0MuZxhGjXO*XeQVCwUH0gAQbhLpTPCyMDB9fSbpYiUZkVcMC6zczDLnj8aIzI7zvvu6p-7ZeIl&new=1)
+ ## [思科被发现使用华为代码，解释：忘了删](http://mp.weixin.qq.com/s?src=11&timestamp=1562547604&ver=1715&signature=qQ8maaaENX4pMfgkXiMWMh*Sz57Yxn5PyaJOuAfG5tlod*k2-W94VH0MuZxhGjXOQv5j7jtIvBDAPvwwhq6mwI98xwEcyd07Zu72GCqqtf--RBLEsA088lxXl90x-OHj&new=1)
  > 来自：观察者网、程序员头条 报道思科曾指控华为“抄袭代码”，如今自己闹出“尴尬”事件：该公司被网络安全咨询公司发现，产品交换机里用的秘钥证书，是华为子公司研发的。思科对此解释称：在测试产品时使用了...
+ ## [突发!电信联通将合建一张5G网?](http://mp.weixin.qq.com/s?src=11&timestamp=1562547604&ver=1715&signature=1bI5MGhi29DMinlZ8EFoP3uX8eQPmd97S*Zo7RQEvUS*WXZezruj3iIJMIL244GgLv83Bvyh8ODl3weSKHRUVITdq1y7WSQ65mX6NQLQFfODrESzqjZKICc9H3*0W3pq&new=1)
+ > 工信部今年就发了牌照，运营商必须作出选择，但目前只有NSA可选，其实我们期望的是，等到NSA和SA都成熟了再商用5G”，6月27日，一位来自中国移动研究院的人士对经济观察报表示。运营商组网有两种方式：NSA（非独...
+ ## [网易云音乐称遭遇集中造谣丨邮储银行回归A股\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562547604&ver=1715&signature=-USo*VTLNgSdPGxZQYnTKfaLAOU9V88lh0tbe42ry3V7EWczWs1ySfC763kPWeRnMkbVu4nAgjwCYQfdMrzc1r1wEpfcbGMnqu9rLwZ8F*U89fRCnEEf2RNEuyV3UvvK&new=1)
+ > 7月07日周日【Do说】编辑 | 赵艾虎网易云音乐称遭遇集中造谣，已报案并向网友征集线索针对“卸载重装网易云音乐得会员”、“网易云音乐偷偷删除用户本地文件”、“网易云音乐已死”等近期网络内容，网易云音乐在...
+ ## [重磅：鸿蒙系统"很快"就能上市!今年挖来的"天才少年"薪酬比谷歌还高](http://mp.weixin.qq.com/s?src=11&timestamp=1562547604&ver=1715&signature=37cOgXdlBx3ZVT1Y4NWMNc*TblVgGuIGJ9J6GtmWq6BptjGWhFmkhHQS*Egd7cJE2DnCDtRmykoD4CjXTsj2JESASqM*j4*S-qR9SIvQUdGR-c1ZKBdrIRAljeaHJlJ5&new=1)
+ > 任正非：鸿蒙可能比安卓、苹果系统快但有个“失误”7月4日，任正非接受某知名媒体采访时，提到了“鸿蒙”操作系统，称其速度“很有可能”比安卓或Mac OS X快，处理延迟小于5毫秒，但也承认“鸿蒙”缺乏良好的应...
+ ## [\[C114周报\]广电总局：加快5G建设与全国一网整合；联通首度披露5G基站设备路标规划；搬迁华为在美设备成本超10亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1562547604&ver=1715&signature=mKd0AI670*3DRZL298GMAQMLQ0XZ8gW4gJ*qOg0*eFC003SAX26xGdDwR0WIaiHzRbjgrZM4AEVUHScBlR-t65Bk3fL0Qt915dHYTGKLT1wbfXGy7ilABLuTfsnJ6QmL&new=1)
+ > 周报WEEKLY本周热点有广电总局：加快5G建设与全国一网整合；联通披露5G基站设备路标规划；搬迁华为在美设备成本超10亿美元• 第051期 •广电总局：加快5G建设与全国一网整合7月5日在日前召开的“第四届丝绸之路(...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -55,6 +57,10 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [5G、区块链加上物联网设备将引发哪些奇妙的化学反应](http://network.51cto.com/art/201907/599157.htm)
+ > 5G、区块链加上物联网设备将引发哪些奇妙的化学反应
+ ## [互联网公司为何要“杀死”中年人](http://news.51cto.com/art/201907/599153.htm)
+ > 互联网公司为何要“杀死”中年人
  ## [90%的Java程序员，都扛不住这波消息中间件的面试四连炮！](http://developer.51cto.com/art/201907/599099.htm)
  > 90%的Java程序员，都扛不住这波消息中间件的面试四连炮！
  ## [18张儿童插画让你秒懂Kubernetes](http://cloud.51cto.com/art/201907/599087.htm)
@@ -67,76 +73,72 @@ categories: IT NEWS
  > 2019年值得推荐的11款JavaScript动画库
  ## [10款应用程序让Windows 10如虎添翼](http://os.51cto.com/art/201907/599070.htm)
  > 10款应用程序让Windows 10如虎添翼
- ## [爬了27303条热评，“宏颜获水”为何还要被群嘲？](http://ai.51cto.com/art/201907/599090.htm)
- > 爬了27303条热评，“宏颜获水”为何还要被群嘲？
- ## [麻省理工、MaxAI们死磕垃圾分类，神助攻还是花拳绣腿？](http://www.cioage.com/art/201907/599035.htm)
- > 麻省理工、MaxAI们死磕垃圾分类，神助攻还是花拳绣腿？
+ ## [华为CFO被捕原因曝光 汇丰银行为美方提供证据](http://news.51cto.com/art/201907/599156.htm)
+ > 近日，据外媒报道，因为汇丰银行的一份内部调查，才导致了华为CFO在加拿大被捕的一系列事件。
+ ## [福布斯：2019下半年区块链和加密货币4大预测](http://blockchain.51cto.com/art/201907/599155.htm)
+ > 《福布斯》在最新文章中围绕区块链和加密货币的下半年发展，做出4点预测。其中既包括对区块链“杀手级应用
+ ## [TIOBE 7月排行：Perl 成为过分炒作 Python 的受害者？](http://news.51cto.com/art/201907/599152.htm)
+ > IOBE 编程语言排行榜 7 月更新已公布，排名前十的分别是：Java, C, Python, C++, C, Visual Basic .NET,
+ ## [五大威胁网钓排第一 2019上半年安全回顾](http://netsecurity.51cto.com/art/201907/599151.htm)
+ > 进入2019年各种安全漏洞依旧层出不穷，下面我们将最为迫切的五大网络攻击威胁汇总出来，供各企业在网络防护
+ ## [连网设备是否失控？管理物联网风险的常见方法](http://iot.51cto.com/art/201907/599150.htm)
+ > 随着物联网设备在家庭、办公场所以及任何地方的激增，是时候该问问这些连网设备是否失去控制。
  ## [重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…](https://blog.csdn.net/CSDNedu/article/details/94598017)
  > 重磅！Python又第一了！网友：为什么找不到好工作？真相让人脸红…
  ## [功能更加全面！CSDN APP上线学习与话题功能](https://blog.csdn.net/blogdevteam/article/details/94390913)
  > 功能更加全面！CSDN APP上线学习与话题功能
- ## [深圳云计算培训：新手学习云计算的规划](https://blog.csdn.net/qq_37124438/article/details/94630274)
- > 深圳云计算培训：新手学习云计算的规划
- ## [区块链和可持续性](https://blog.csdn.net/weixin_44172023/article/details/92574745)
- > 区块链和可持续性
- ## [【甄选资讯】日本设计行业优秀的设计网站](https://blog.csdn.net/uzing/article/details/91829114)
- > 【甄选资讯】日本设计行业优秀的设计网站
- ## [《区块链100问》1-50集](https://blog.csdn.net/luohai859/article/details/91352049)
- > 《区块链100问》1-50集
- ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
- > 云计算介绍之云计算服务器
+ ## [Unity 协程的原理](https://blog.csdn.net/qq_38721111/article/details/89394078)
+ > Unity 协程的原理
+ ## [iOS开发安全 防反编译](https://blog.csdn.net/sinat_30657013/article/details/91876835)
+ > iOS开发安全 防反编译
+ ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
+ > Visual C++游戏编程基础之键盘消息
+ ## [在一个局域网中，共享的项目别人访问不了，解决方法](https://blog.csdn.net/AdminPwd/article/details/91787120)
+ > 在一个局域网中，共享的项目别人访问不了，解决方法
+ ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
+ > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
+ ## [区块链倪老师：《区块链思维》第一章](https://blog.csdn.net/weixin_44693781/article/details/93879776)
+ > 区块链倪老师：《区块链思维》第一章
+ ## [Web安全之文件包含漏洞](https://blog.csdn.net/qq_37133717/article/details/94631028)
+ > Web安全之文件包含漏洞
+ ## [菜鸟理解的区块链](https://blog.csdn.net/weixin_44172023/article/details/94380565)
+ > 菜鸟理解的区块链
+ ## [区块链未来三年将成为数字中国建设的重要支撑](https://blog.csdn.net/Bitrade/article/details/94748962)
+ > 区块链未来三年将成为数字中国建设的重要支撑
+ ## [Visual C++游戏编程基础之多背景循环动画](https://blog.csdn.net/Sruggle/article/details/91356639)
+ > Visual C++游戏编程基础之多背景循环动画
+ ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
+ > 【区块链】简单理解区块链是什么
+ ## [Web安全之代码执行漏洞](https://blog.csdn.net/qq_37133717/article/details/94760485)
+ > Web安全之代码执行漏洞
  ## [区块链倪老师：区块链思维——序章](https://blog.csdn.net/weixin_44693781/article/details/91600996)
  > 区块链倪老师：区块链思维——序章
- ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
- > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
- ## [云计算介绍和openstack(云计算管理平台)](https://blog.csdn.net/sxjwcs/article/details/92843751)
- > 云计算介绍和openstack(云计算管理平台)
- ## [前端基础入门（1）初识](https://blog.csdn.net/fenghulun/article/details/91347981)
- > 前端基础入门（1）初识
- ## [前端基础入门（13）contenteditable 属性](https://blog.csdn.net/fenghulun/article/details/91472261)
- > 前端基础入门（13）contenteditable 属性
- ## [前端基础入门（5）边框与背景](https://blog.csdn.net/fenghulun/article/details/91348083)
- > 前端基础入门（5）边框与背景
- ## [前端基础入门（2）选取工具：VS2019安装使用](https://blog.csdn.net/fenghulun/article/details/91348017)
- > 前端基础入门（2）选取工具：VS2019安装使用
- ## [社链生态全球发布会圆满成功，共建社链梦！](https://blog.csdn.net/COMC1DU/article/details/94866252)
- > 社链生态全球发布会圆满成功，共建社链梦！
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [乔纳森离开苹果；李彦宏被泼水；Windows 公开 Linux 内核源代码 | 开发者周刊](https://blog.csdn.net/csdnnews/article/details/95041766)
+ > 【CSDN编者按】七月的第一周，科技圈就像盛夏的天气一样，冰火两重天。乔纳森离开苹果；李彦宏被泼水；Windows 公开 Linux 内核源代码......最近一周就有哪...
+ ## [数据库风云五十载：老骥伏枥，新秀迭起！](https://blog.csdn.net/csdnnews/article/details/95041771)
+ > 作者|姜洪军出品| CSDN云计算（ID：CSDNcloud）“在数据库技术方面，亚马逊落后甲骨文10至20年”。2018年10月23日，甲骨文（Oracle）创...
  ## [时至今日，百度无人车还好吗？](https://blog.csdn.net/csdnnews/article/details/95041772)
  > 作者 | 刘景丰本文经授权转自燃财经（ID:rancaijing）无人驾驶在眼前或许是个难解的局，百度仍困于其中。到今年7月，百度与金龙客车合作的明星无人车“阿波龙”宣布...
+ ## [高管出走、手机梦碎，再上一线的周鸿祎如何拯救 360 至暗时刻？](https://blog.csdn.net/csdnnews/article/details/95041768)
+ > 作者 |田甜本文经授权转自猎云网（ID：ilieyun）在郑州的“强网杯”全国网络安全挑战赛期间，听闻军队领导晚上8:30要到展馆巡展，周鸿祎早早来到展台，跟员工们熟悉...
+ ## [加密货币的天堂何在？](https://blog.csdn.net/csdnnews/article/details/95041770)
+ > 来源 | Forbes编译 | Guoxi责编 | Aholiab出品 | 区块链大本营（blockchain_camp）加密货币作为一项新兴事物，还没有被很多国家所认...
+ ## [18 段代码带你玩转 18 个机器学习必备交互工具](https://blog.csdn.net/csdnnews/article/details/95041775)
+ > 加密货币作者：曼纽尔·阿米纳特吉（Manuel Amunategui）、迈赫迪·洛佩伊（Mehdi Roopaei）如需转载请联系大数据（ID：hzdashuju）01 ...
+ ## [TIOBE 6 月编程语言排行榜：Perl 成为 Python 过分炒作的牺牲品？](https://blog.csdn.net/csdnnews/article/details/95041767)
+ > 作者 |局长本文经授权转自开源中国（ID：oschina2013）TIOBE 编程语言排行榜 7 月更新已公布，排名前十的分别是：Java，C，Python，C++，C...
+ ## [公开课｜智能文本信息抽取算法的进阶与应用](https://blog.csdn.net/csdnnews/article/details/95041773)
+ > 一、什么是文本挖掘？讨论文本挖掘之前，我们要先说一下数据挖掘的概念，因为文本挖掘是数据挖掘的一个分支。数据挖掘（Data Mining）指从大量的数据中通过算法搜索隐藏...
+ ## [@开发者，一文搞懂什么是 C 计时器！｜CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/95041774)
+ > 作者 |朱钢责编 | 郭芮Timer 计时器是在 C 开发中经常用到的，但是有很多开发人员对它并不了解，今天这篇文就具体讲解一下 C 中的计时器。在 C 中存在3...
  ## [5G时代，“消失”的虚拟运营商](http://www.lanjingtmt.com/news/detail/43517.shtml)
  > 垃圾信息、电话诈骗、难以盈利......辉煌一时的虚商现状如何？5G时代又能否迎来新的机会？记者采访了多位通信行业专家，得到的回答无一例外：虚商本质上并没有存在的必要。
-# 人工智能 
- ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
- > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
- ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
- > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
- ## [决战数据库-spring batch(4)数据库到数据库](https://blog.csdn.net/masson32/article/details/91351279)
- > 决战数据库-spring batch(4)数据库到数据库
- ## [【数据库】数据库切分](https://blog.csdn.net/m18633778874/article/details/91896319)
- > 【数据库】数据库切分
- ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
- > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
- ## [Connect Four四子棋c++程序 - 显示窗口（0）](https://blog.csdn.net/Irlyue/article/details/91347438)
- > Connect Four四子棋c++程序 - 显示窗口（0）
- ## [数据库严格模式](https://blog.csdn.net/wuxingpu5/article/details/92208633)
- > 数据库严格模式
- ## [区块链基础知识25讲-各讲地址整理](https://blog.csdn.net/qq_40061206/article/details/91348024)
- > 区块链基础知识25讲-各讲地址整理
- ## [golang 简单的区块链](https://blog.csdn.net/po2656233/article/details/94361575)
- > golang 简单的区块链
- ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
- > 文献阅读-区块链发展现状与展望
- ## [理解区块链中的不变性](https://blog.csdn.net/weixin_44172023/article/details/91414178)
- > 理解区块链中的不变性
- ## [区块链基本常识02](https://blog.csdn.net/weixin_43958804/article/details/88661322)
- > 区块链基本常识02
- ## [Java复习笔记（9）——数据库](https://blog.csdn.net/weixin_36904568/article/details/91045369)
- > Java复习笔记（9）——数据库
- ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
- > 连接本地数据库和远程连接他人数据库？
+# PM 
+ ## [互联网直男经济学](http://www.woshipm.com/it/2547151.html)
+ > 各类数据调研显示：直男群体非常庞大，他们也并非没有钱。所以抓住直男经济背后的特点，打造出符合直男需求的产品，是未来的商机所在。直男，中国社会最神秘的群体之...
+ ## [【天天问每周精选】第78期：评分/评论系统的那些小细节节节](http://www.woshipm.com/it/2549069.html)
+ > 用户的打分和评论对产品很重要，这是了解用户想法帮助产品优化最直接的方式，甚至评论评分就是你整个产品的亮点。对于2个评分系统的问题，我们在天天问进行了讨论，大家...
 
     
