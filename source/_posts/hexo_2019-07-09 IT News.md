@@ -1,21 +1,21 @@
 ---
 title: 2019-07-09 IT News
 copyright: true
-date: 2019-07-09 08:01:18
+date: 2019-07-09 09:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [高温来袭，天津电网负荷创新高，眸视5G巡检机器人大显神通!](http://mp.weixin.qq.com/s?src=11&timestamp=1562630404&ver=1717&signature=rrxgCivjb9s0sHNNZjtgUxF8QMAoX0cDiBq40ySZSVR*gDXVHCxbm5Q-mi6LE43Y2VqeLbLO4rgyZfstPyx8LA5UpRRBOp*oGcBYSPbEnHP80XppDexsC6pf3etf4JWH&new=1)
- > 导读：搭载了高清摄像设备和红外测温设备的智能巡检机器人正在对变电站进行日常巡检工作，新的巡检方式不但安全，还提高了巡视效率。这款由北京眸视科技有限公司开发的智能巡检机器人，不止用在电力巡检，中石油...
- ## [韦乐平：NSA/SA混合组网是加快5G部署的最佳路径](http://mp.weixin.qq.com/s?src=11&timestamp=1562630404&ver=1717&signature=UflVgo792N9MgUZ6v-ZJ4JWTl48CKYQxjIASIa5dSszRYXPlUmFGsKefppTTkHlqh7BzjluTd20YRVH3OsGgQJQ6YpG0KNSY*X6ziub0K-VrAtAUFOwoNtKNdifgRdGF&new=1)
- > 6月25日， 在MWC19上海期间的“5G is ON峰会“上，工信部通信科学技术委员会常务副主任、中国电信科技委主任韦乐平表示，韩、美、英等国17家运营商5G已经先于中国商用，中国5G网络部署要实现领先，必须坚持高质...
- ## [多地5G套餐资费出炉：无限流量价格感人](http://mp.weixin.qq.com/s?src=11&timestamp=1562630404&ver=1717&signature=BVk9G*D6icwBVHs*3uEH2xIexKsaAp8GKx8io9*bDFVAeUmKc1Pq53lKaFw1ua3J5SN6ACODVDT1VGQsHeGaD-AuHyzTd0JdyOhQ36LA-JW1BFMNq5jTiR6vZlyizEu8&new=1)
- > 7月8日消息，据国外媒体报道，在通过向电信公司出售5G频段筹集了65亿欧元（73亿美元）之后，德国电信宣布开通商用5G服务。德国电信提供的5G捆绑套餐分为两种：一种是与三星Galaxy S10 5G版手机捆绑，另一种是与H...
- ## [加油!华为鸿蒙OS来了](http://mp.weixin.qq.com/s?src=11&timestamp=1562630404&ver=1717&signature=H6M2IL4p9TfVSalwMPRxP5jbNh4rBFi6HF7JUUPRQYTTIeGxqVOUlnMuWcuAQScFPX26wxmkT1wF1YbNtBrzW*bBw3FTBnmqdeD8cX-mBehYH6ikjaptCI9V2AaXa5nt&new=1)
- > 其实华为自研操作系统已经于2012年进行，直到2019年3月余承东表明：我们已经准备了自己的操作系统。一旦发生了我们不能够在使用这些（来自Google和微软的）操作系统的情况，我们需要做好准备。这是B计划。然而，...
- ## [5G将如何激活购物中心?](http://mp.weixin.qq.com/s?src=11&timestamp=1562630404&ver=1717&signature=l902kajqF0Octis5wtZfuAthokAQ5d0j7Ju-5otHb02GIzYR4gWWb-f4sr8Bp12CtxKsGEPV4PcQMttaC8D8v0bJY66l2OLWxVFPE-gMEInshJJ5Sa22nO1TbgOuTXCA&new=1)
+ ## [5G将如何激活购物中心?](http://mp.weixin.qq.com/s?src=11&timestamp=1562634004&ver=1717&signature=l902kajqF0Octis5wtZfuAthokAQ5d0j7Ju-5otHb02GIzYR4gWWb-f4sr8Bp12CvZv530K8xySFPVg32IFfXpyMN0Kb7PJrJnv3Qtaz4mfLgLuwugAQ2ej1jzJK9Owc&new=1)
  > 来源：中国房协商业地产智库平台欢迎来到，万物互联的5G世界。作为一项跨时代的移动通信技术，5G将构筑起万物互联的基础设施，赋予经济增长新动能，支撑智慧社会新发展。2019年5月，全球首个5G+五星购物中心商用...
+ ## [多地5G套餐资费出炉：无限流量价格感人](http://mp.weixin.qq.com/s?src=11&timestamp=1562634004&ver=1717&signature=BVk9G*D6icwBVHs*3uEH2xIexKsaAp8GKx8io9*bDFVAeUmKc1Pq53lKaFw1ua3JdD*R7cPVvHnDhPBSj0FD3BKhfKN-OadiZ*pUQXgFRY0*JMHyVP5xTQZ*3XqxqGY-&new=1)
+ > 7月8日消息，据国外媒体报道，在通过向电信公司出售5G频段筹集了65亿欧元（73亿美元）之后，德国电信宣布开通商用5G服务。德国电信提供的5G捆绑套餐分为两种：一种是与三星Galaxy S10 5G版手机捆绑，另一种是与H...
+ ## [韦乐平：NSA/SA混合组网是加快5G部署的最佳路径](http://mp.weixin.qq.com/s?src=11&timestamp=1562634004&ver=1717&signature=UflVgo792N9MgUZ6v-ZJ4JWTl48CKYQxjIASIa5dSszRYXPlUmFGsKefppTTkHlqQwbckybTKeV2OL5VG6ocyNyn*DyJkacht-zRJ9fuTfhU1rfWF87vACK5ANFFwOrj&new=1)
+ > 6月25日， 在MWC19上海期间的“5G is ON峰会“上，工信部通信科学技术委员会常务副主任、中国电信科技委主任韦乐平表示，韩、美、英等国17家运营商5G已经先于中国商用，中国5G网络部署要实现领先，必须坚持高质...
+ ## [加油!华为鸿蒙OS来了](http://mp.weixin.qq.com/s?src=11&timestamp=1562634004&ver=1717&signature=H6M2IL4p9TfVSalwMPRxP5jbNh4rBFi6HF7JUUPRQYTTIeGxqVOUlnMuWcuAQScFu6Qph6pAE1TT0SFu3BNcccd9C4V4aOpPYr46c26gxDXXemXbY5lfqWOKuHJ2lyaj&new=1)
+ > 其实华为自研操作系统已经于2012年进行，直到2019年3月余承东表明：我们已经准备了自己的操作系统。一旦发生了我们不能够在使用这些（来自Google和微软的）操作系统的情况，我们需要做好准备。这是B计划。然而，...
+ ## [高温来袭，天津电网负荷创新高，眸视5G巡检机器人大显神通!](http://mp.weixin.qq.com/s?src=11&timestamp=1562634004&ver=1717&signature=rrxgCivjb9s0sHNNZjtgUxF8QMAoX0cDiBq40ySZSVR*gDXVHCxbm5Q-mi6LE43YW0e152NktQ0Q1Mg0RGhFqBLFwQzlngEAjPER37lrTmoHTSVDKidGEz69nhjhX7AG&new=1)
+ > 导读：搭载了高清摄像设备和红外测温设备的智能巡检机器人正在对变电站进行日常巡检工作，新的巡检方式不但安全，还提高了巡视效率。这款由北京眸视科技有限公司开发的智能巡检机器人，不止用在电力巡检，中石油...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,6 +73,14 @@ categories: IT NEWS
  > 转给你的她！文科小姐姐也能读懂的AI指南
  ## [互联网公司为何要“杀死”中年人](http://news.51cto.com/art/201907/599153.htm)
  > 互联网公司为何要“杀死”中年人
+ ## [无服务器vs容器，企业如何正确选择？](http://server.51cto.com/Micro-599251.htm)
+ > 对于开发者和企业架构师来说，在不同的技术、框架或架构之间做出选择，是日常工作中最重要的内容。尤其在
+ ## [挖掘物联网在公用事业中的潜力](http://iot.51cto.com/art/201907/599250.htm)
+ > 物联网的引入已经改变了医疗保健,零售,制造和农业等各个行业,同样,物联网在公用事业中的引入有望减少该行业
+ ## [医疗行业需要物联网的6个原因](http://iot.51cto.com/art/201907/599249.htm)
+ > 方便、效率、自动化，这三个词定义了物联网所代表的一切。物联网是一项改变游戏规则的技术，并且几乎在每个
+ ## [暑期旅游攻略之如何轻松搞定数据安全](http://netsecurity.51cto.com/art/201907/599248.htm)
+ > 暑假已到，许多人开始忙于订房买机票，准备享受旅程。不过，在快乐出行的同时也不要忘记保护个人数据安全。
  ## [AI如何变革音乐产业？](http://ai.51cto.com/art/201907/599246.htm)
  > 与其它行业一样，在音乐行业，AI技术能够实现服务自动化、发现大量数据集中的模式与见解、并提高执行效率。
  ## [你猜一个TCP连接上面能发多少个HTTP请求？](http://network.51cto.com/art/201907/599242.htm)
@@ -85,76 +93,94 @@ categories: IT NEWS
  > 当你的电脑突然变得很慢、蓝屏、死机等这样的情况发生了，那说明你的电脑很有可能是中了木马病毒了。如何确
  ## [IDC时评：数据中心难逃雷劈？](http://network.51cto.com/art/201907/599240.htm)
  > 近些年来，随着经济的发展，数据中心行业获得了前所未有的生机，建设的狂潮也是一浪高过一浪。但是，和PUE
- ## [在现在与未来，物联网如何渗透房地产市场](http://iot.51cto.com/art/201907/599241.htm)
- > 物联网正在迅速地发展，越来越多的应用装置出现在日常用品中，连带地让每个产业都受到物联网的影响而成长，
- ## [这项技术，风头正劲，BAT要力捧！程序员：我彻底慌了...](https://blog.csdn.net/CSDNedu/article/details/94598103)
- > 这项技术，风头正劲，BAT要力捧！程序员：我彻底慌了...
- ## [游戏开发_数学与物理](https://blog.csdn.net/qq_35433081/article/details/93397894)
- > 游戏开发_数学与物理
- ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
- > 文献阅读-区块链发展现状与展望
- ## [区块链未来三年将成为数字中国建设的重要支撑](https://blog.csdn.net/Bitrade/article/details/94748962)
- > 区块链未来三年将成为数字中国建设的重要支撑
- ## [菜鸟理解的区块链](https://blog.csdn.net/weixin_44172023/article/details/94380565)
- > 菜鸟理解的区块链
- ## [Visual C++游戏编程基础之多背景循环动画](https://blog.csdn.net/Sruggle/article/details/91356639)
- > Visual C++游戏编程基础之多背景循环动画
- ## [python之sys模块【获取参数】](https://blog.csdn.net/qq_36016375/article/details/91871325)
- > python之sys模块【获取参数】
  ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
  > \[区块链\]初识R3-Corda，解析区块链结构
- ## [Visual C++游戏编程基础之利用鼠标消息实现贴图](https://blog.csdn.net/Sruggle/article/details/91403401)
- > Visual C++游戏编程基础之利用鼠标消息实现贴图
- ## [golang游戏开发学习笔记-创建一个能自由探索的3D世界](https://blog.csdn.net/qq_35488769/article/details/94431818)
- > golang游戏开发学习笔记-创建一个能自由探索的3D世界
- ## [棋类游戏开发和牌类游戏开发的不同之处](https://blog.csdn.net/motianyougame/article/details/94397261)
- > 棋类游戏开发和牌类游戏开发的不同之处
- ## [Visual C++游戏编程基础之键盘消息](https://blog.csdn.net/Sruggle/article/details/91357275)
- > Visual C++游戏编程基础之键盘消息
- ## [运维 docker 基础命令](https://blog.csdn.net/qq_38150381/article/details/92438300)
- > 运维 docker 基础命令
+ ## [闲聊人工智能产品经理（AIPM）—人工智能产品体系](https://blog.csdn.net/kepengs/article/details/92765924)
+ > 闲聊人工智能产品经理（AIPM）—人工智能产品体系
+ ## [文献阅读-区块链发展现状与展望](https://blog.csdn.net/qq_40061206/article/details/91488748)
+ > 文献阅读-区块链发展现状与展望
+ ## [人工智能--状态空间的盲目搜索](https://blog.csdn.net/hjc256/article/details/91357937)
+ > 人工智能--状态空间的盲目搜索
+ ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
+ > 人工智能课程推荐
+ ## [项目开始阶段（一）](https://blog.csdn.net/weixin_44541224/article/details/91356953)
+ > 项目开始阶段（一）
+ ## [区块链倪老师：《区块链思维》第一章](https://blog.csdn.net/weixin_44693781/article/details/93879776)
+ > 区块链倪老师：《区块链思维》第一章
+ ## [Python 入门基础 - 基础类型](https://blog.csdn.net/dishe/article/details/94591831)
+ > Python 入门基础 - 基础类型
+ ## [人工智能 —— A算法](https://blog.csdn.net/starter_____/article/details/91656370)
+ > 人工智能 —— A算法
+ ## [区块链分支循环](https://blog.csdn.net/weixin_44172023/article/details/94432471)
+ > 区块链分支循环
+ ## [计算中本聪如何设置的比特币数量](https://blog.csdn.net/sinat_38189661/article/details/91429053)
+ > 计算中本聪如何设置的比特币数量
+ ## [区块链倪老师：区块链思维——序章](https://blog.csdn.net/weixin_44693781/article/details/91600996)
+ > 区块链倪老师：区块链思维——序章
  ## [6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！](https://blog.csdn.net/qinchuanshuo/article/details/91492501)
  > 6月12日行情分析 莱特币减产临近，谨防拉升前的回踩！
- ## [运维基本内容](https://blog.csdn.net/qq_43063548/article/details/93900621)
- > 运维基本内容
+ ## [大家的人工智能——正规方程](https://blog.csdn.net/LXYTSOS/article/details/91351059)
+ > 大家的人工智能——正规方程
+ ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
+ > 人工智能会取代艺术家？
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/csdnnews/article/details/95128436)
+ > 本文作者王超，现任快狗打车（原58速运）前端负责人。先后任职于人人网、奇虎360，8 年互联网大厂工作经验。从 0 到 1 组建了快狗前端团队，负责团队技术体系的搭建，形...
+ ## [谷歌员工中位数年薪达 170 万元，却仍买不起房！](https://blog.csdn.net/csdnnews/article/details/95128477)
+ > 作者 | 伍杏玲出品 | 程序人生（ID：coder_life）今年 3 月，谷歌公司的一份内部文件显示：谷歌在全球的临时工、承包商人数已经超过全职员工，分别为 12.1...
+ ## [Google Chrome 工程师：JavaScript 不容错过的八大优化建议](https://blog.csdn.net/csdnnews/article/details/95128290)
+ > 【摘要】本文为 Google Chrome 团队的开发项目工程师 Addy Osmani 在PerfMatters 2019 网页性能大会发表的“JavaScript性能...
  ## [30 岁成为独角兽上市公司 CTO，他凭什么 | 人物志](https://blog.csdn.net/csdnnews/article/details/95080545)
  > 受访者 | 李玉峰记者 | 胡巍巍出品 | CSDN（ID：CSDNnews）采访李玉峰，是在北京太阳宫的一家星巴克。而写这篇文章，则是在一家Costa。采访中途，我突然反应过来，对他说：“早知道约在你们主场了（瑞幸咖啡）。”他真诚一笑，答道：“没事！”这位生于87年的CTO，身着...
+ ## [人工智能 60 年技术简史](https://blog.csdn.net/csdnnews/article/details/95128370)
+ > 作者 | 李理，环信人工智能研发中心 VP封图 | CSDN 付费下载自视觉中国出品 | CSDN AI 科技大本营（ID:rgznai100）人类的进化发展史就是一部...
+ ## [Java 和 Python 疯狂 PK，等等，请不要放弃 C 语言](https://blog.csdn.net/csdnnews/article/details/95128382)
+ > 有人说：世界上有两种程序员，一种用Tab键，另一种用Space键。在程序员圈子有这样一条鄙视链（小道传说）：C++程序员看不起C程序员， C程序员看不起Java程序员，J...
+ ## [Python 揭秘斐波那契定律，如何帮助码农分析股票？| 技术头条](https://blog.csdn.net/csdnnews/article/details/95128399)
+ > 作者 | 元宵大师责编 | 胡巍巍剖析斐波那契数列对于斐波那契数列相信大家并不陌生，它指的是这样一个数列：0、1、1、2、3、5、8、13、21、34、55、89、144...
+ ## [任正非：华为鸿蒙将比安卓快 60％；小米回应主题侵权；VS Code 1.36发布​ | 极客头条...](https://blog.csdn.net/csdnnews/article/details/95128340)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [Indeed报告：AI两类人才需求稳居榜首，凭什么？](https://blog.csdn.net/csdnnews/article/details/95128466)
+ > 2017年~2018年，是人工智能大火的时候。你会发现，跟朋友聊天不谈人工智能，聊天的bigger都上不去。BAT等大厂积极投入AI产业，如在前两天百度 AI 开发者大会...
+ ## [5G 2.0 的最新动向](https://blog.csdn.net/csdnnews/article/details/95128492)
+ > 【CSDN编者按】第五代移动通信技术——5G，为 4G 技术的延伸，其技术标准被分为 R15 和 R16 两大阶段。其中，R15 可分为三个版本：R15 NR NSA、R...
  ## [对话张朝阳：想做一个好的产品经理](http://www.lanjingtmt.com/news/detail/43538.shtml)
  > 对于未来货币化如何突破？怎样围绕现有业务盘活整个搜狐？包括当下最热的信息流、社交等，张朝阳都一一说出了自己的思考。
 # 人工智能 
- ## [大数据与云计算知识点](https://blog.csdn.net/weixin_44039347/article/details/91602294)
- > 大数据与云计算知识点
- ## [关于前端缓存优化](https://blog.csdn.net/u014322206/article/details/94589352)
- > 关于前端缓存优化
- ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
- > 云计算介绍之云计算存储(2)
- ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
- > 史上最系统的程序员未来职业规划路线
- ## [20七八岁的陷阱](https://blog.csdn.net/u011498329/article/details/91424240)
- > 20七八岁的陷阱
- ## [当我们学Python时，重点学什么技术容易就业？](https://blog.csdn.net/qq_42083988/article/details/94838484)
- > 当我们学Python时，重点学什么技术容易就业？
- ## [云计算介绍之云计算存储(5)存储高级特性](https://blog.csdn.net/csdn10086110/article/details/91897492)
- > 云计算介绍之云计算存储(5)存储高级特性
- ## [基于人工智能的贝叶斯分类算法](https://blog.csdn.net/yxxylucy/article/details/91870921)
- > 基于人工智能的贝叶斯分类算法
- ## [云计算介绍之云计算的产生概述](https://blog.csdn.net/csdn10086110/article/details/91413055)
- > 云计算介绍之云计算的产生概述
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [云计算面试题知识汇总，云计算面试经验讲解](https://blog.csdn.net/qfxulei/article/details/91446695)
+ > 云计算面试题知识汇总，云计算面试经验讲解
+ ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
+ > 物联网不断发展创新 物联网卡仍是主力
  ## [云计算介绍之云计算服务器](https://blog.csdn.net/csdn10086110/article/details/91465478)
  > 云计算介绍之云计算服务器
- ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
- > 软件设计师考试经历
- ## [云计算、大数据、人工智能之间的关系，总章](https://blog.csdn.net/ws_developer/article/details/91457200)
- > 云计算、大数据、人工智能之间的关系，总章
- ## [【前端】slot](https://blog.csdn.net/cheidou123/article/details/91442955)
- > 【前端】slot
- ## [物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告](https://blog.csdn.net/weixin_44179909/article/details/91521846)
- > 物联网、消费物联网、工业物联网与云计算、大数据服务综合分析报告
- ## [前端文件上传](https://blog.csdn.net/VIP__ID/article/details/93484347)
- > 前端文件上传
+ ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
+ > 云计算介绍之云计算存储(2)
+ ## [5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析](https://blog.csdn.net/weixin_44179909/article/details/91580475)
+ > 5G通信系统应用场景与消费物联网、工业物联网应用场景综合分析
+ ## [云计算介绍之云计算的产生概述](https://blog.csdn.net/csdn10086110/article/details/91413055)
+ > 云计算介绍之云计算的产生概述
+ ## [IT运维服务管理](https://blog.csdn.net/q947448283/article/details/91492749)
+ > IT运维服务管理
+ ## [云计算面试题及答案，云计算岗位精品面试题](https://blog.csdn.net/qfxulei/article/details/92796973)
+ > 云计算面试题及答案，云计算岗位精品面试题
+ ## [运维基本内容](https://blog.csdn.net/qq_43063548/article/details/93900621)
+ > 运维基本内容
+ ## [Linux之rhcs【红帽6的高可用】](https://blog.csdn.net/qq_36016375/article/details/94914985)
+ > Linux之rhcs【红帽6的高可用】
+ ## [0620-InteractionRequest-物联网概论知识点](https://blog.csdn.net/qq_30807313/article/details/92973999)
+ > 0620-InteractionRequest-物联网概论知识点
+ ## [\[Linux\]运维面试(三)](https://blog.csdn.net/qq_44839276/article/details/94716250)
+ > \[Linux\]运维面试(三)
+ ## [Linux之LVS配置高可用集群【keepalived】](https://blog.csdn.net/qq_36016375/article/details/94915741)
+ > Linux之LVS配置高可用集群【keepalived】
+ ## [《Redis开发与运维》读书笔记三](https://blog.csdn.net/singgel/article/details/94408390)
+ > 《Redis开发与运维》读书笔记三
 # PM 
+ ## [耳朵里的蓝海：如何掘金 8000 万月活的国内播客生态圈？](http://www.woshipm.com/it/2556303.html)
+ > 播客行业发展迅速，但仍处于早期阶段。未来可期，值得关注。在播客的世界中，飞轮正旋转不停：有了 AirPods、联网汽车和智能音箱等新技术，消费者可以更容易地收听音...
  ## [产品经理必备技能—如何做好行业研究？](http://www.chanpin100.com/article/108877)
  > 为什么同样工作几年的产品经理的，有的人对很多行业都了解，有的人一旦离开自己熟悉的行业就很难生存？为什么有些人进入新的领域后也能快速展开工作？经常会因为公司转型，离职跳槽等导致产品经理经常需要研究一个从未接触的行业/市场。且产品经理本身也需要关注非自己行业的事情，这样才能跨界提供解决方案，那么到底怎样
  ## [运营的数据分析三本柱](http://www.chanpin100.com/article/108840)
