@@ -1,21 +1,21 @@
 ---
 title: 2019-07-12 IT News
 copyright: true
-date: 2019-07-12 08:01:09
+date: 2019-07-12 09:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G来了，生于云的互联网企业如何抓住新机遇?](http://mp.weixin.qq.com/s?src=11&timestamp=1562889605&ver=1723&signature=TFy-f*-f5tYHULw3Qf3w-eYDw2wzrQNPR5MjPyewHvf3Q8kSkW7Ih2JOEzLbcb4YSADr2De0szcjlMgSPe5Zg6Al8pAsG3Au-npIxa*WP303CZMZt5wXzyilV*AtqDG1&new=1)
- > 2019年，中国提前进入5G商用元年。5G将给移动互联网带来巨大的变化，会催生出许多意想不到的新应用、带来新的商业机会。目前，诸多互联网企业以及传统企业都在积极跟踪5G，希望从5G中收获机遇。对此，华为云中国...
- ## [中国移动市场部新任总经理张冬上任数月 日前首度公开亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1562889605&ver=1723&signature=vrdIViO5EhAT4BLu78pDM77CiXqngbn-qEC96dYvZMPz8*gG-akJTFP8tF3-F2euoyNK2HtlQOGqYkr99dA1Jay03iApFC08mSI1kWsIhhSiQwe31RKPFGQLOkpwPNZ*&new=1)
- > 运营商财经网  汪莹/文前段时间，刚升任中国移动市场部总经理的张冬现身MWC19上海展，引发业内高度关注，这是他升任后这一重要职位后的首次公开亮相。此前6月27日，MWC19上海展期间，中国移动在上海举行的&quot;千兆...
- ## [对讲机行业宽窄融合、专网与公网融合成趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1562889605&ver=1723&signature=dWdFl0yqTO4PgSM7Sx6wfKtR-tAUoaSFP0JN0cCjFGQdA86fmF8CjIvY8PI1cmLDfPbYR*R3XkGcdq1Xop0jlY5BVzD3IX6HS0T0q*kmIk*gv2Bzau*HZ*u-kYktA5B-&new=1)
+ ## [对讲机行业宽窄融合、专网与公网融合成趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1562893204&ver=1723&signature=dWdFl0yqTO4PgSM7Sx6wfKtR-tAUoaSFP0JN0cCjFGTh5zwa65NR3utNzEINDf1FdDwoAKmgS2QBE0zEQktJfVJ2b37l5XOA9PJK5u-1GuCyqyStEb*DSnufd8ITLy9d&new=1)
  > 对讲机“模转数”尽管已经推行了很久，但让模拟对讲机全部退出专网市场，显然不现实。不过，模拟早已不是专网无线通信行业的关注重点，在专网无线通信行业，融合是发展的主线，也是影响行业未来前景的大命题。行...
- ## [祝贺：英特尔 OpenVINO工具包获年度视觉最佳开发人员工具奖](http://mp.weixin.qq.com/s?src=11&timestamp=1562889605&ver=1723&signature=LA8AD5QyQfb7kx161cvec3QuQ4cPpQ4Jh69J*aOJVlO5n2XjcC*1koB1YEYWDgVqe7O58ajostbWPB4XALvxw3M4tapuE*LwITDw4GFJ*0EUcc6eJvl*BWtG6KCNom-U&new=1)
- > 5月21日，嵌入式视觉联盟在今年的嵌入式视觉峰会上宣布了2019年度视觉产品奖的获奖者。其中，英特尔公司凭借英特尔 OpenVINO工具包获得最佳开发人员工具奖。为了应对这个日益复杂的异构计算世界，英特尔致力于推...
- ## [Waymo冲刺自动驾驶商业化](http://mp.weixin.qq.com/s?src=11&timestamp=1562889605&ver=1723&signature=bTrJCtYNFHm9mFkdr0rMoNnKlXBmTSK1OxnD9n5Onneg3OEdGUH93oaz5pFkrYb9oFPeAkpEWN1IIvNNBLLdjWlCxjffjYpl6ajhjmd3F8cxsDqArwK0Y8AqcWEx9eaC&new=1)
+ ## [Waymo冲刺自动驾驶商业化](http://mp.weixin.qq.com/s?src=11&timestamp=1562893204&ver=1723&signature=bTrJCtYNFHm9mFkdr0rMoNnKlXBmTSK1OxnD9n5OnndFH3msGhQh52yEXi7*h2ERIYN1FHRPUzA7HqZBwu3yM3LqxVhU9EiAXHOU3FaHTm4Qo94v*DF8nEexHrQUcGRo&new=1)
  > 自动驾驶产业的领头羊——Waymo，已经难以稳坐钓鱼台，不得不向自动驾驶技术的商业化落地发力狂奔。 2019年7月11日，在TechCrunch的一个出行论坛上，Waymo再度释放了两个重磅的消息。 该公司的CTO迪米特里-道尔...
+ ## [祝贺：英特尔 OpenVINO工具包获年度视觉最佳开发人员工具奖](http://mp.weixin.qq.com/s?src=11&timestamp=1562893204&ver=1723&signature=LA8AD5QyQfb7kx161cvec3QuQ4cPpQ4Jh69J*aOJVlPaY2F26mO1V3DRAyQUMZHlTqJ*Sz5lc2O-T-jH*HThDwx74sS*RtLs2dm4u9lqt7KX7C3glrBYCYBkjatAgWPz&new=1)
+ > 5月21日，嵌入式视觉联盟在今年的嵌入式视觉峰会上宣布了2019年度视觉产品奖的获奖者。其中，英特尔公司凭借英特尔 OpenVINO工具包获得最佳开发人员工具奖。为了应对这个日益复杂的异构计算世界，英特尔致力于推...
+ ## [中国移动市场部新任总经理张冬上任数月 日前首度公开亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1562893204&ver=1723&signature=vrdIViO5EhAT4BLu78pDM77CiXqngbn-qEC96dYvZMMBQhx8d0t5AFCBzewAr8CPBaw*YxAT391GbQh0zRS1ZqOYjujwaGEIeqYSOl4-4lW-pzP0OE82fSaJM0ALdzDr&new=1)
+ > 运营商财经网  汪莹/文前段时间，刚升任中国移动市场部总经理的张冬现身MWC19上海展，引发业内高度关注，这是他升任后这一重要职位后的首次公开亮相。此前6月27日，MWC19上海展期间，中国移动在上海举行的&quot;千兆...
+ ## [5G来了，生于云的互联网企业如何抓住新机遇?](http://mp.weixin.qq.com/s?src=11&timestamp=1562893204&ver=1723&signature=TFy-f*-f5tYHULw3Qf3w-eYDw2wzrQNPR5MjPyewHveZcYsZ4snWm-YcK1v7ki1lOxM5V2reRkSnG0djOqc4Maw6lQkoMMo3Wk9FF*i*in2sJpnG7cLPoej7uLsb-mTI&new=1)
+ > 2019年，中国提前进入5G商用元年。5G将给移动互联网带来巨大的变化，会催生出许多意想不到的新应用、带来新的商业机会。目前，诸多互联网企业以及传统企业都在积极跟踪5G，希望从5G中收获机遇。对此，华为云中国...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,6 +73,16 @@ categories: IT NEWS
  > 50岁大叔回剑桥读AI博士，研发机器人用AI收生菜
  ## [高性能服务器架构思路「不仅是思路」](http://server.51cto.com/sOS-599372.htm)
  > 高性能服务器架构思路「不仅是思路」
+ ## [详解高性能mysql之MySQL高级特性总结](http://database.51cto.com/art/201907/599469.htm)
+ > 闲来无事，看了下高性能mysql这本书，其中的一些MySQL高级特性写的还不错，在这里总结分享下。
+ ## [微软宣布开源量子开发工具包](http://news.51cto.com/art/201907/599467.htm)
+ > 微软量子团队认为他们的使命是是开发和部署世界上最可伸缩、最安全的量子计算系统，并支持一个由领域专家、
+ ## [分布式文件服务器你还在手动搭建？快来试试Docker镜像一步搞定](http://developer.51cto.com/art/201907/599466.htm)
+ > 相信大家在点开这篇文章的时候就已经对Docker有一些理解并能简单的应用。说实话，这东西我并不是很了解。不
+ ## [Intel公布三大全新封装技术：未来CPU就长这样](http://news.51cto.com/art/201907/599468.htm)
+ > 随着半导体工艺的日益复杂，传统单芯片封装已经渐渐不合时宜，性能、功耗、成本越来越不成比例，尤其是对于
+ ## [像堆乐高一样：从零开始解释神经网络的数学过程](http://zhuanlan.51cto.com/art/201907/599465.htm)
+ > 模型的训练、调参是一项非常费时费力的工作，了解神经网络内部的数学原理有利于快速找出问题所在。本文作者
  ## [推荐五款具有超级隐私保护性的匿名浏览器](http://netsecurity.51cto.com/art/201907/599460.htm)
  > 普通的浏览器都有Cookie、个性化广告和浏览记录跟踪等功能，在这种情况下，人们的隐私就无法得到保障。
  ## [对医疗保健行业产生巨大影响的10个医疗物联网统计](http://iot.51cto.com/art/201907/599458.htm)
@@ -83,36 +93,34 @@ categories: IT NEWS
  > 如果你的网络有一个边界，它总有一天会遭到破坏。这既是“现实世界”难以传授的教训，也是关键安全模型(零
  ## [确保您的业务网络为物联网做好准备](http://iot.51cto.com/art/201907/599457.htm)
  > 物联网已经为您做好了准备，但您的业务网络是否也为物联网做好了准备？物联网技术的部署可能会有一些潜在陷
- ## [加密的现实与虚幻](http://zhuanlan.51cto.com/art/201907/599462.htm)
- > 很多政府监管机构、技术人员和隐私及安全倡导者都热衷加密。加密已成为在线商务与通信的事实标准，受到世界
  ## [程序员3年工资从7千到2万2，晒出跳槽经历！网友：厉害](https://blog.csdn.net/csdngkk/article/details/95342340)
  > 程序员3年工资从7千到2万2，晒出跳槽经历！网友：厉害
- ## [Java连接Oracle sql serve  MySQL数据库系统的主要代码类型](https://blog.csdn.net/blljym/article/details/91567760)
- > Java连接Oracle sql serve  MySQL数据库系统的主要代码类型
- ## [物联网卡拉开智能家居变革序幕](https://blog.csdn.net/qq_40798435/article/details/94740789)
- > 物联网卡拉开智能家居变革序幕
- ## [转战物联网·基础篇01-物联网之我见](https://blog.csdn.net/yyykj/article/details/93850492)
- > 转战物联网·基础篇01-物联网之我见
- ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
- > WebRTC重要API和音视频分析
- ## [0620-InteractionRequest-物联网概论知识点](https://blog.csdn.net/qq_30807313/article/details/92973999)
- > 0620-InteractionRequest-物联网概论知识点
- ## [物联网协议--MQTT整理](https://blog.csdn.net/weixin_42411153/article/details/94840046)
- > 物联网协议--MQTT整理
- ## [音视频开发（四）——编码音频](https://blog.csdn.net/Mr__Hu/article/details/91795842)
- > 音视频开发（四）——编码音频
- ## [抖音视频免费去水印](https://blog.csdn.net/Qingai521/article/details/92623580)
- > 抖音视频免费去水印
- ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
- > 物联网不断发展创新 物联网卡仍是主力
- ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
- > 物联网的发展与应用
- ## [【物联网】如何在物联网平台开发](https://blog.csdn.net/lsj960922/article/details/93024941)
- > 【物联网】如何在物联网平台开发
- ## [数据库课设——社团管理系统](https://blog.csdn.net/Godsolve/article/details/91491287)
- > 数据库课设——社团管理系统
- ## [JAVA音视频解决方案----音视频基础知识](https://blog.csdn.net/cuiyaonan2000/article/details/93179719)
- > JAVA音视频解决方案----音视频基础知识
+ ## [web安全学习1](https://blog.csdn.net/weixin_44591106/article/details/95317512)
+ > web安全学习1
+ ## [【数据库】数据库切分](https://blog.csdn.net/m18633778874/article/details/91896319)
+ > 【数据库】数据库切分
+ ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
+ > LANMP安全配置之Nginx安全配置
+ ## [Linux进阶_加密和安全](https://blog.csdn.net/weixin_42758707/article/details/93657130)
+ > Linux进阶_加密和安全
+ ## [Docker安全加固之--LXCFS](https://blog.csdn.net/weixin_42446031/article/details/91541436)
+ > Docker安全加固之--LXCFS
+ ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
+ > 提权与信息收集-安全牛学习笔记
+ ## [《白帽子讲Web安全》| 学习笔记之HTML5安全](https://blog.csdn.net/qq_42646885/article/details/95306302)
+ > 《白帽子讲Web安全》| 学习笔记之HTML5安全
+ ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
+ > 关系数据库标准语言——SQL
+ ## [什么数据库，数据库的简介与分类](https://blog.csdn.net/u014370122/article/details/95197753)
+ > 什么数据库，数据库的简介与分类
+ ## [Web安全之文件包含漏洞](https://blog.csdn.net/qq_37133717/article/details/94631028)
+ > Web安全之文件包含漏洞
+ ## [Java复习笔记（9）——数据库](https://blog.csdn.net/weixin_36904568/article/details/91045369)
+ > Java复习笔记（9）——数据库
+ ## [web安全笔记(2)](https://blog.csdn.net/youyou519/article/details/92251616)
+ > web安全笔记(2)
+ ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
+ > 连接本地数据库和远程连接他人数据库？
  ## [物联网卡还可以用在农业自动化的哪些方面](https://blog.csdn.net/qq_40798435/article/details/91566264)
  > 物联网卡还可以用在农业自动化的哪些方面
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
@@ -122,37 +130,41 @@ categories: IT NEWS
  ## [小米52亿买房背后：股价暴跌市值腰斩，投资者买房梦破碎](http://www.lanjingtmt.com/news/detail/43611.shtml)
  > 自上市以来，小米股价频频下跌，手机销量增长乏力。未来股价能否实现提升，其目前的业务能力能否支撑起造价52亿的小米科技园呢？
 # 人工智能 
- ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
- > 20年研发管理经验谈（十三）
- ## [前端大作业练习](https://blog.csdn.net/qq_41681241/article/details/95181220)
- > 前端大作业练习
- ## [Flink 运行架构](https://blog.csdn.net/Luomingkui1109/article/details/95232428)
- > Flink 运行架构
+ ## [云计算介绍和openstack(云计算管理平台)](https://blog.csdn.net/sxjwcs/article/details/92843751)
+ > 云计算介绍和openstack(云计算管理平台)
+ ## [云计算介绍之云计算存储(5)存储高级特性](https://blog.csdn.net/csdn10086110/article/details/91897492)
+ > 云计算介绍之云计算存储(5)存储高级特性
+ ## [kotlin版本组件化+mvvm项目架构](https://blog.csdn.net/villa_mou/article/details/91862507)
+ > kotlin版本组件化+mvvm项目架构
+ ## [物联网 GUI 开发套件 AWTK-IOTJS](https://blog.csdn.net/absurd/article/details/92786103)
+ > 物联网 GUI 开发套件 AWTK-IOTJS
+ ## [物联卡智能扫描设备可以保障产品安全？](https://blog.csdn.net/qq_40798435/article/details/95353234)
+ > 物联卡智能扫描设备可以保障产品安全？
+ ## [大数据、云计算、物联网三者的区别和关联](https://blog.csdn.net/chengxvsyu/article/details/91898586)
+ > 大数据、云计算、物联网三者的区别和关联
+ ## [深圳云计算培训：新手学习云计算的规划](https://blog.csdn.net/qq_37124438/article/details/94630274)
+ > 深圳云计算培训：新手学习云计算的规划
+ ## [微服务架构与SpringCloud](https://blog.csdn.net/qq_34160679/article/details/94378860)
+ > 微服务架构与SpringCloud
+ ## [物联网综合分析仪 IOTA-6GMC](https://blog.csdn.net/lxiueli/article/details/94392350)
+ > 物联网综合分析仪 IOTA-6GMC
+ ## [【物联网】如何在物联网平台开发](https://blog.csdn.net/lsj960922/article/details/93024941)
+ > 【物联网】如何在物联网平台开发
+ ## [云计算面试题及答案，云计算岗位精品面试题](https://blog.csdn.net/qfxulei/article/details/92796973)
+ > 云计算面试题及答案，云计算岗位精品面试题
+ ## [0620-InteractionRequest-物联网概论知识点](https://blog.csdn.net/qq_30807313/article/details/92973999)
+ > 0620-InteractionRequest-物联网概论知识点
+ ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
+ > ZooKeeper 的设计理念和架构
  ## [Django-drf架构 分页的详解](https://blog.csdn.net/Fe_cow/article/details/93217759)
  > Django-drf架构 分页的详解
- ## [Spark通信架构](https://blog.csdn.net/weixin_45194374/article/details/94556023)
- > Spark通信架构
- ## [20年研发管理经验谈（七）](https://blog.csdn.net/weixin_39759846/article/details/91512110)
- > 20年研发管理经验谈（七）
- ## [架构系列（三）VPC、弹性IP以及NAT网关的妙用，划分子网，我们来搭建自己的私有云机房](https://blog.csdn.net/zl592886931/article/details/89790049)
- > 架构系列（三）VPC、弹性IP以及NAT网关的妙用，划分子网，我们来搭建自己的私有云机房
- ## [如何解决百人研发团队的管理问题？](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 如何解决百人研发团队的管理问题？
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [前端常用命令](https://blog.csdn.net/gqzydh/article/details/95192973)
- > 前端常用命令
- ## [前端程序员，需要吃透的前端书籍推荐](https://blog.csdn.net/nnnn1235657/article/details/92428057)
- > 前端程序员，需要吃透的前端书籍推荐
- ## [docker前端自动化部署](https://blog.csdn.net/qq_41635167/article/details/92801932)
- > docker前端自动化部署
- ## [前端文件上传](https://blog.csdn.net/VIP__ID/article/details/93484347)
- > 前端文件上传
- ## [微服务架构设计模式——微服务架构](https://blog.csdn.net/u010145219/article/details/92173405)
- > 微服务架构设计模式——微服务架构
- ## [SpringCloud(1)之微服务架构](https://blog.csdn.net/jokeMqc/article/details/93474650)
- > SpringCloud(1)之微服务架构
+ ## [Linux运维之LNMP架构](https://blog.csdn.net/weixin_44828950/article/details/93658439)
+ > Linux运维之LNMP架构
 # PM 
+ ## [社交电商新迷局，会员经济成“法外”生意？](http://www.woshipm.com/it/2574891.html)
+ > 社交电商是近年来电商发展的一种新方向，它由单纯对产品的经营转向人际关系的经营，并且发展势头迅猛。与此同时，会员推荐与返利制度虽然为社交电商们带来一段高速发展...
+ ## [社交拼团后续发力点何在？](http://www.woshipm.com/it/2574929.html)
+ > 电商总是多话题。2018年是拼多多风头升至巅峰的一年——总是被人唱衰的拼多多IPO上市了。15年创办的拼多多一路走来，可谓是满城风雨，仅仅3年，拼多多不仅向所有人证明了...
  ## [产品经理周报第 75 期｜《英雄联盟》云顶之弈模式开启全量；阿里云发布“御风计划”](http://www.woshipm.com/it/2574986.html)
  > 大家早上好呀，今天又是周五了最近各地的天气很不稳定呀，有时暴雨有时又是大太阳不过总而言之，就是很热……所以各位小伙伴在出门的时候，记得携带雨具以防突然下雨...
  ## [iOS多渠道统计有什么方法？](http://www.chanpin100.com/article/108892)
