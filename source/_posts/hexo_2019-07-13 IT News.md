@@ -1,21 +1,23 @@
 ---
 title: 2019-07-13 IT News
 copyright: true
-date: 2019-07-13 09:01:08
+date: 2019-07-13 10:01:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [腾讯积极承担反诈责任，获评“电信网络诈骗治理支撑与服务单位”](http://mp.weixin.qq.com/s?src=11&timestamp=1562979604&ver=1725&signature=55L*y88C06lOU5Fc6WpFctuTe*8rA*hEv8322npfdDdhnKNTeB0Gr35n1X0sX7I18w9kabH0C2PYk-Grefb6ZW5uCz4JAU0SfOKP3byOv3awTK5xGS5*aoIYIVnyRjSh&new=1)
- > 诈骗有多可怕？可以在分秒之间让人倾家荡产，甚至还有一些人因此丧命。随着科技的发展，更是冒出了多种新型诈骗手段，面对犯罪分子的诈骗黑手，腾讯一直都在积极承担企业社会责任，携手各界共同反诈。17月9日下...
- ## [\[报告\]携手福特展望未来——2019年福特趋势研究(附39页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562979604&ver=1725&signature=DXZ5Dte3RNwkO2D2KdChY1hzOI-9PepqSrX2y160McDC82fTlgjx02Rk3mj1qYQGZqD2hC0nJpYp1ZkzyxnIhUefYw*MXcvvI8u2tWOh5oLdjQ7aK1s9cMxSX4ou0U4u&new=1)
- > 福特发布的2019年度《趋势报告》，尝试理解行为习惯变化的动因，及其如何影响我们生活的主要方面，报告探索先进科技如何影响人们行为习惯的变化，以及消费者如何看待先进科技；一方面，人们认为先进科技是现今驱...
- ## [《长安十二时辰》火了!程序员版本过于真实!](http://mp.weixin.qq.com/s?src=11&timestamp=1562979604&ver=1725&signature=OIds19WhJMZlaOtQMQBJy1u6UTTU-4vzimZtsHP9B4Yq8SNzAqultQreLjbNlVrKJyneMXH22zIi1HBNx3AhngtZW1NgJaZsloPki*0ASe7L-Tp9LU-eI*Zj1Cw1qNXd&new=1)
- > 作者 | 胡巍巍发自苏州出品 | CSDN（ID：CSDNnews）《长安十二时辰》也太火了吧！笔者早上坐电梯，看到一位小姐姐手机里，正在播着《长安十二时辰》，易烊千玺在剧中，信誓旦旦地说“我要是犯错了就当不了宰相”...
- ## [Facebook开发玩德州扑克的AI丨比亚迪宋Pro正式上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562979604&ver=1725&signature=Hd2sxWHx4M8xifqY3JvAZGtYmzeL*4hud3OB0M8ZMciiwnh1LEvGwh6hQJCHn6cu8*8rlzM7ayY-1Joun9jXHOiO90beqdclSXNmoAyN*Oolb3zlP6HFHX4m0fpxjIjP&new=1)
+ ## [\[科技早报7点整\]微信朋友圈视频自动播放引吐槽 贾跃亭造车实验室首曝光……](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=aRSolrelgo6GAMr*bWjWD9b0pbHgNGKDgVwxPRyhpntqXgs6NTNiYFHmbHEM3yOWvHNx-xzgRgkDLzv6TF39j2Fo7KWo3OZAltFy8asT3*gDu3yJ-SK4oB9PVcDhDTxE&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第530期1.两部委：网约车平台应公开定价加价机制，并提前7日公布从交通运输部获悉，到2020年，道路运输竞争性领域和环节价格将基本放开。网约车企业应公开定价、加价机制，调价...
+ ## [Facebook开发玩德州扑克的AI丨比亚迪宋Pro正式上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=Hd2sxWHx4M8xifqY3JvAZGtYmzeL*4hud3OB0M8ZMchxOQU*qyepgVMUVcuZZE-nOJhJOOQBUXX5GeNUbILtgOLWjbO-KREO9J8fv3SiXvpb0s1szUCn*6NfqC5t3M-t&new=1)
  > 7月12日周五【Do说】编辑 | 赵艾虎Facebook开发玩德州扑克的AI：能击败顶尖人类选手据美国科技媒体The Verge报道，由Facebook人工智能实验室和卡耐基梅隆大学研究人员设计的一款程序在一系列六人无限制德州扑克...
- ## [华为发2018可持续发展报告，梁华:5G更绿色，手机选安卓，美应撤禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1562979604&ver=1725&signature=o5FLHNfDRMcwGftyZs6aUxF2VBELwUEfXqVZ5VCJ65gF55sH1EKXPL8yahoLTiR-WWNaCrN-BBDFAkr17muEpAgv4hXCNlz9OaBSldpGbfS-cJuspOo2AmcVRSyy7rpj&new=1)
+ ## [华为发2018可持续发展报告，梁华:5G更绿色，手机选安卓，美应撤禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=o5FLHNfDRMcwGftyZs6aUxF2VBELwUEfXqVZ5VCJ65gN7YsYXcNgtg3tlkOawiy1MuBrPlOVyJhY3GVDF5fdg0mB4NI5Mr5q1*17ALncQyyCILCBAWSYcFauQLkgMdoW&new=1)
  > 7月12日，华为发布了《2018年可持续发展报告》。这是华为公司连续第十一年发布该报告，也是华为该类发布中最为隆重的一次。笔者在现场看到，数十家海内外媒体来华为深圳总部见证。 在发布活动上，华为公布了聚焦...
+ ## [\[报告\]携手福特展望未来——2019年福特趋势研究(附39页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=DXZ5Dte3RNwkO2D2KdChY1hzOI-9PepqSrX2y160McBINf-qHu2ZRLec8ebLFwmj1NWa10jv307epwhU16c9u6QL3aZcId2L--qEZn9zBbAFR2SbzYwxymTcNeXAOgTX&new=1)
+ > 福特发布的2019年度《趋势报告》，尝试理解行为习惯变化的动因，及其如何影响我们生活的主要方面，报告探索先进科技如何影响人们行为习惯的变化，以及消费者如何看待先进科技；一方面，人们认为先进科技是现今驱...
+ ## [腾讯积极承担反诈责任，获评“电信网络诈骗治理支撑与服务单位”](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=55L*y88C06lOU5Fc6WpFctuTe*8rA*hEv8322npfdDeB40kgwNViTN82HigCMMl3vfZYNiotDoLZV3Qkbz2g5hd2dpx4lUhvgB5kmGixN6rS4CbyB*0IMbamGdHfoz-g&new=1)
+ > 诈骗有多可怕？可以在分秒之间让人倾家荡产，甚至还有一些人因此丧命。随着科技的发展，更是冒出了多种新型诈骗手段，面对犯罪分子的诈骗黑手，腾讯一直都在积极承担企业社会责任，携手各界共同反诈。17月9日下...
+ ## [《长安十二时辰》火了!程序员版本过于真实!](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=OIds19WhJMZlaOtQMQBJy1u6UTTU-4vzimZtsHP9B4bJ9xkr2VTPOR7Kbm2JgiSz-VQqJnEm2NPtlD2DhiyfmAn0ccVS0WTpVNrMWpkfTezHGiWBuhQuNlLaqMP4YYw6&new=1)
+ > 作者 | 胡巍巍发自苏州出品 | CSDN（ID：CSDNnews）《长安十二时辰》也太火了吧！笔者早上坐电梯，看到一位小姐姐手机里，正在播着《长安十二时辰》，易烊千玺在剧中，信誓旦旦地说“我要是犯错了就当不了宰相”...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,70 +75,74 @@ categories: IT NEWS
  > 扪心自问，你真的熟练掌握MQ了吗？
  ## [腾讯高手出品！AR基础知识和设计实战案例复盘总结](http://mobile.51cto.com/vrar-599421.htm)
  > 腾讯高手出品！AR基础知识和设计实战案例复盘总结
- ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
- > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
- ## [区块链未来三年将成为数字中国建设的重要支撑](https://blog.csdn.net/Bitrade/article/details/94748962)
- > 区块链未来三年将成为数字中国建设的重要支撑
- ## [区块链技术基础](https://blog.csdn.net/s_lisheng/article/details/77931775)
- > 区块链技术基础
- ## [运维 docker 基础命令](https://blog.csdn.net/qq_38150381/article/details/92438300)
- > 运维 docker 基础命令
- ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
- > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
- ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
- > \[区块链\]初识R3-Corda，解析区块链结构
- ## [\[Linux\]运维面试(四)](https://blog.csdn.net/qq_44839276/article/details/94742599)
- > \[Linux\]运维面试(四)
- ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
- > 【区块链】简单理解区块链是什么
- ## [【运维】ELK安装](https://blog.csdn.net/weixin_39974140/article/details/93721454)
- > 【运维】ELK安装
- ## [区块链分支循环](https://blog.csdn.net/weixin_44172023/article/details/94432471)
- > 区块链分支循环
- ## [\[Linux\]运维面试(三)](https://blog.csdn.net/qq_44839276/article/details/94716250)
- > \[Linux\]运维面试(三)
- ## [腾讯蓝鲸一站式运维](https://blog.csdn.net/Tencentfly/article/details/90411552)
- > 腾讯蓝鲸一站式运维
- ## [大数据学习方法，学习大数据需要的基础和路线](https://blog.csdn.net/dvfghj/article/details/95463855)
- > 大数据学习方法，学习大数据需要的基础和路线
- ## [与操作系统导论对话](https://blog.csdn.net/epubit17/article/details/91775436)
- > 与操作系统导论对话
+ ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
+ > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
+ ## [运维之用户、组和权限](https://blog.csdn.net/sqsltr/article/details/94722245)
+ > 运维之用户、组和权限
+ ## [Linux之LVS配置高可用集群【keepalived】](https://blog.csdn.net/qq_36016375/article/details/94915741)
+ > Linux之LVS配置高可用集群【keepalived】
+ ## [20年研发管理经验谈（九）](https://blog.csdn.net/weixin_39759846/article/details/92661283)
+ > 20年研发管理经验谈（九）
+ ## [数据库运维平台](https://blog.csdn.net/marko39/article/details/95241815)
+ > 数据库运维平台
+ ## [两台服务器ssh免密对端服务器及本机免密](https://blog.csdn.net/weixin_42691754/article/details/91881025)
+ > 两台服务器ssh免密对端服务器及本机免密
+ ## [linux 运维常用命令](https://blog.csdn.net/u010695169/article/details/93386116)
+ > linux 运维常用命令
+ ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
+ > LANMP安全配置之Nginx安全配置
+ ## [IS | 資訊安全基本需求](https://blog.csdn.net/weixin_42001132/article/details/95501133)
+ > IS | 資訊安全基本需求
+ ## [如何解决百人研发团队的管理问题？](https://blog.csdn.net/weixin_44280696/article/details/95321295)
+ > 如何解决百人研发团队的管理问题？
+ ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
+ > 20年研发管理经验谈（十四）
+ ## [Python运维-Socket网络编程](https://blog.csdn.net/qq_30534935/article/details/95464392)
+ > Python运维-Socket网络编程
  ## [Linux之Pacemaker+Corosync【红帽7的高可用】](https://blog.csdn.net/qq_36016375/article/details/94916165)
  > Linux之Pacemaker+Corosync【红帽7的高可用】
+ ## [Linux进阶_加密和安全](https://blog.csdn.net/weixin_42758707/article/details/93657130)
+ > Linux进阶_加密和安全
+ ## [web安全学习1](https://blog.csdn.net/weixin_44591106/article/details/95317512)
+ > web安全学习1
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [单体架构(Monolith)与微服务架构(MicroService)](https://blog.csdn.net/qq_37937144/article/details/92166553)
- > 单体架构(Monolith)与微服务架构(MicroService)
- ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
- > JAVA基础7-Stream基础学习笔记
- ## [架构系列（三）VPC、弹性IP以及NAT网关的妙用，划分子网，我们来搭建自己的私有云机房](https://blog.csdn.net/zl592886931/article/details/89790049)
- > 架构系列（三）VPC、弹性IP以及NAT网关的妙用，划分子网，我们来搭建自己的私有云机房
- ## [SQLITE学习之SQLITE基础知识(二)](https://blog.csdn.net/cainiaoxiakexing/article/details/91872976)
- > SQLITE学习之SQLITE基础知识(二)
- ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
- > SQL存储过程和函数
- ## [架构相关技术栈](https://blog.csdn.net/andy_521521/article/details/94013607)
- > 架构相关技术栈
- ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
- > 爬虫基础：HTTP基本原理
- ## [计算机专业名词那些事儿](https://blog.csdn.net/KinCae/article/details/94738096)
- > 计算机专业名词那些事儿
- ## [深入学习微服务架构](https://blog.csdn.net/hgstclyh/article/details/94394337)
- > 深入学习微服务架构
- ## [flask_sqlalchemy基础,数据的增删改查](https://blog.csdn.net/Regan_Yu/article/details/95179571)
- > flask_sqlalchemy基础,数据的增删改查
- ## [ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的](https://blog.csdn.net/sharehu/article/details/94738219)
- > ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的
- ## [Linux运维之LNMP架构（tomcat）](https://blog.csdn.net/weixin_44828950/article/details/94176266)
- > Linux运维之LNMP架构（tomcat）
- ## [JAVA基础-----模拟一个简单的ATM取款存款提款机.](https://blog.csdn.net/weixin_44831330/article/details/95382330)
- > JAVA基础-----模拟一个简单的ATM取款存款提款机.
+ ## [数据库真好玩](https://blog.csdn.net/Lonelyhat/article/details/91796233)
+ > 数据库真好玩
+ ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
+ > 人工智能会取代艺术家？
+ ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
+ > 关系数据库标准语言——SQL
+ ## [论人工智能与软件工程的关系](https://blog.csdn.net/weixin_43988176/article/details/92439935)
+ > 论人工智能与软件工程的关系
+ ## [SQLITE学习之SQLITE基础知识(一)](https://blog.csdn.net/cainiaoxiakexing/article/details/91816780)
+ > SQLITE学习之SQLITE基础知识(一)
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
+ ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
+ > 大家的人工智能——决策树
  ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
  >  记·外键之创建、删除
- ## [简单使用数据库数据库](https://blog.csdn.net/weixin_45116982/article/details/92760150)
- > 简单使用数据库数据库
+ ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
+ > 连接本地数据库和远程连接他人数据库？
+ ## [浅谈数据库----基于SQLsever](https://blog.csdn.net/qq_45066719/article/details/94980839)
+ > 浅谈数据库----基于SQLsever
+ ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
+ > 人工智能知识点总结
+ ## [数据库复习知识点](https://blog.csdn.net/hwy499/article/details/94725397)
+ > 数据库复习知识点
+ ## [ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的](https://blog.csdn.net/sharehu/article/details/94738219)
+ > ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的
+ ## [人工智能学习资源集合](https://blog.csdn.net/qq_34606196/article/details/93500777)
+ > 人工智能学习资源集合
+ ## [闲聊人工智能产品经理（AIPM）—人工智能产品需求](https://blog.csdn.net/kepengs/article/details/92594641)
+ > 闲聊人工智能产品经理（AIPM）—人工智能产品需求
 # PM 
+ ## [淘汰或者进化：新时期产品经理的能力转型思考](http://www.woshipm.com/kol/2542096.html)
+ > 2019年4月13-14日，人人都是产品经理举办的【 2019产品创新大会·深圳站】完美落幕。腾讯企业移动安全产品负责人李丹华先生，他的分享主题是《淘汰或者净化：新时期产品...
+ ## [财务系统：资金对账（一）](http://www.woshipm.com/it/2575506.html)
+ > 每月关账前，都会进行对账，每次对账都会持续一周，混乱爆肝的一周。由于公司业务多样性，交易量大，线上线下业务都有；因此目前财务系统-对账模块分为门店对账、大客户...
  ## [IP，通往超级文化符号之路](http://www.woshipm.com/marketing/2580062.html)
  > 当我们在谈论IP时，IP到底是什么？全文要点：从初级IP到文化符号，注意两点关键；要在强共识文化母体上，创造新IP符号；IP的授权，是围绕核心符号展开的；IP是生...
  ## [bryanshen|产品经理如何做好用户分析（用户反馈）](http://www.chanpin100.com/article/108916)
