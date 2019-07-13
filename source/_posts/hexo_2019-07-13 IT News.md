@@ -1,22 +1,32 @@
 ---
 title: 2019-07-13 IT News
 copyright: true
-date: 2019-07-13 10:01:33
+date: 2019-07-13 12:02:49
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[科技早报7点整\]微信朋友圈视频自动播放引吐槽 贾跃亭造车实验室首曝光……](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=aRSolrelgo6GAMr*bWjWD9b0pbHgNGKDgVwxPRyhpntqXgs6NTNiYFHmbHEM3yOWvHNx-xzgRgkDLzv6TF39j2Fo7KWo3OZAltFy8asT3*gDu3yJ-SK4oB9PVcDhDTxE&new=1)
+ ## [史上最复杂电脑蠕虫病毒丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=PHnEHuAQy5abxWQDtlVNjostkvnRBZKwNwNzi3QL-KTcdyVaKPTufk4jDoK9gQx-J5otmKzlv*aEmXhK97L2BVbv6l*oHlLwePveoS8W1yy3hlwdLVWguDQbCDyc5*WS&new=1)
+ > 一、谶曰大东：小白，记不记得我们之前说过的蠕虫病毒？小白：记得记得，蠕虫病毒通过网络进行复制和传播，主要传染途径是通过网络和电子邮件对吧~     大东：记得不错嘛！不过随着社会的发展，不仅科技在进步，...
+ ## [频遭勒索软件攻击?美国终于忍不住了!](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=*PFVv8rQEQrFFt0*TB55zttduhfNR6H2rsoMZWuG1WCRyancfS4Dfdxx1YaRxsQYuPZLsNRNerke9s9jEedaabrxlEUoxVPhO5kI9r45syvEvx*oYQMCleOsTB4c-YRf&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：2019年以来，美国频频受到勒索软件攻击，市长会议一致通过不再向黑客支付赎金！据外媒报道，美国市长会议于7月10日一致通过了一项决议，决定不再对进...
+ ## [“战时”华为，发展可持续](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=W-dhWPrfXGvjn8x4v2AkyeRJb*JBeHdAovY8M0-h7jtI-4mEaeH*OKZJkouF4phSrPmczV**kgK-3122MXLeXRu4x108lZ*DmobNVoGUefmeqxO9ok-MsrTqLUjsNRHt&new=1)
+ > “上半年的收入是增长的。”美国商务部将华为列入实体名单后 ，华为公司的密集发声全世界瞩目。这段时间，不仅华为创始人任正非陆续接受了几十家媒体的采访；华为集团层面也陆续公布了不少新的消息，关于系统、...
+ ## [一图剧透：“2019上海人工智能展览会”都有些啥?](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=mKewFsZD5P9a66IoKL5GaKLqEXFkojizIGgVzKp7zTphUTwLsyhyHiZ8mKIsMg4vlSsRUsgpFlVDcgzK1ogyRLfBDQfUzr0FUlJeNm4pN80yl4M-dEKrA83QGLYhZWdi&new=1)
+ > 2019第四届中国（上海）国际人工智能展览会招商正在火热进行中！本届展会以“智慧科技·能创未来”为主题，展出面积超过10000㎡，预将吸引500＋家人工智能优秀企业和来自世界各地的人工智能行业内50000名专业观...
+ ## [漂亮的100页小学生教材《神奇的3D打印》，附教学大纲](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=JUsQub-fyyYeo0i1gMMtbPr8Vt8*OG2YSYC8RzomdVmBjWYVV1FcgswW9ZGMdIJ47xxDKD21nRqzr5jUjRUMOv6x2HqEl4A3j*-uUFR0Y9YVNVK24yVaTDoq1aUkGbTc&new=1)
+ > 3D打印得从娃娃抓起。本书约100页，采用人物对话形式展开学习3D打印的故事，插图很可爱很漂亮，适合小学生阅读，初步了解3D打印。全国已经有约30家小学把它作为上课教材。 《神奇的3D打印》全书100页△扫码进入...
+ ## [\[科技早报7点整\]微信朋友圈视频自动播放引吐槽 贾跃亭造车实验室首曝光……](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=aRSolrelgo6GAMr*bWjWD9b0pbHgNGKDgVwxPRyhpnvjJRDtSkKi0-ujvjEvsSGiOw7MGW0JBgHXSbnsEV8kpAWZRAF8uRCOMEXaDRX7tF7IQnzt0MO1HBEZahj*G7MI&new=1)
  > 早上好，科技圈【一度蜜科技早报】第530期1.两部委：网约车平台应公开定价加价机制，并提前7日公布从交通运输部获悉，到2020年，道路运输竞争性领域和环节价格将基本放开。网约车企业应公开定价、加价机制，调价...
- ## [Facebook开发玩德州扑克的AI丨比亚迪宋Pro正式上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=Hd2sxWHx4M8xifqY3JvAZGtYmzeL*4hud3OB0M8ZMchxOQU*qyepgVMUVcuZZE-nOJhJOOQBUXX5GeNUbILtgOLWjbO-KREO9J8fv3SiXvpb0s1szUCn*6NfqC5t3M-t&new=1)
+ ## [Facebook开发玩德州扑克的AI丨比亚迪宋Pro正式上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=Hd2sxWHx4M8xifqY3JvAZGtYmzeL*4hud3OB0M8ZMcge908UP1PIPBWGZOECToOJ7qrA9b5WE5ff*HLyuA3TBI1G9ivQPdpT2tHoqv*F7nXutI-MT5DNRqSU8pJ-SE2p&new=1)
  > 7月12日周五【Do说】编辑 | 赵艾虎Facebook开发玩德州扑克的AI：能击败顶尖人类选手据美国科技媒体The Verge报道，由Facebook人工智能实验室和卡耐基梅隆大学研究人员设计的一款程序在一系列六人无限制德州扑克...
- ## [华为发2018可持续发展报告，梁华:5G更绿色，手机选安卓，美应撤禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=o5FLHNfDRMcwGftyZs6aUxF2VBELwUEfXqVZ5VCJ65gN7YsYXcNgtg3tlkOawiy1MuBrPlOVyJhY3GVDF5fdg0mB4NI5Mr5q1*17ALncQyyCILCBAWSYcFauQLkgMdoW&new=1)
+ ## [华为发2018可持续发展报告，梁华:5G更绿色，手机选安卓，美应撤禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=o5FLHNfDRMcwGftyZs6aUxF2VBELwUEfXqVZ5VCJ65iAcHVQsBGQF5PbTN64c6vCshNtU2NjjPAlGYob2NhYZNX5sa6QksBCGuQWdRDo-kI29dWr2nvzrVdb9kNBTuJ*&new=1)
  > 7月12日，华为发布了《2018年可持续发展报告》。这是华为公司连续第十一年发布该报告，也是华为该类发布中最为隆重的一次。笔者在现场看到，数十家海内外媒体来华为深圳总部见证。 在发布活动上，华为公布了聚焦...
- ## [\[报告\]携手福特展望未来——2019年福特趋势研究(附39页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=DXZ5Dte3RNwkO2D2KdChY1hzOI-9PepqSrX2y160McBINf-qHu2ZRLec8ebLFwmj1NWa10jv307epwhU16c9u6QL3aZcId2L--qEZn9zBbAFR2SbzYwxymTcNeXAOgTX&new=1)
+ ## [\[报告\]携手福特展望未来——2019年福特趋势研究(附39页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=DXZ5Dte3RNwkO2D2KdChY1hzOI-9PepqSrX2y160McD5Lenlh7eUo7M7RvZkRRre-nsKS4I6jikuftRleamDSXa*A5m27*3DmkTqm-C0tVko0Cx5H76xswIbi-IngeIm&new=1)
  > 福特发布的2019年度《趋势报告》，尝试理解行为习惯变化的动因，及其如何影响我们生活的主要方面，报告探索先进科技如何影响人们行为习惯的变化，以及消费者如何看待先进科技；一方面，人们认为先进科技是现今驱...
- ## [腾讯积极承担反诈责任，获评“电信网络诈骗治理支撑与服务单位”](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=55L*y88C06lOU5Fc6WpFctuTe*8rA*hEv8322npfdDeB40kgwNViTN82HigCMMl3vfZYNiotDoLZV3Qkbz2g5hd2dpx4lUhvgB5kmGixN6rS4CbyB*0IMbamGdHfoz-g&new=1)
+ ## [腾讯积极承担反诈责任，获评“电信网络诈骗治理支撑与服务单位”](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=55L*y88C06lOU5Fc6WpFctuTe*8rA*hEv8322npfdDcGJLExdjgDvprN4CabX2rOmfmMhFFSShKwEObIMwdviDVyIBb6ny7UQXICizBqZyXASIMlCG87SitZMrEjcyPQ&new=1)
  > 诈骗有多可怕？可以在分秒之间让人倾家荡产，甚至还有一些人因此丧命。随着科技的发展，更是冒出了多种新型诈骗手段，面对犯罪分子的诈骗黑手，腾讯一直都在积极承担企业社会责任，携手各界共同反诈。17月9日下...
- ## [《长安十二时辰》火了!程序员版本过于真实!](http://mp.weixin.qq.com/s?src=11&timestamp=1562983204&ver=1725&signature=OIds19WhJMZlaOtQMQBJy1u6UTTU-4vzimZtsHP9B4bJ9xkr2VTPOR7Kbm2JgiSz-VQqJnEm2NPtlD2DhiyfmAn0ccVS0WTpVNrMWpkfTezHGiWBuhQuNlLaqMP4YYw6&new=1)
+ ## [《长安十二时辰》火了!程序员版本过于真实!](http://mp.weixin.qq.com/s?src=11&timestamp=1562990404&ver=1725&signature=OIds19WhJMZlaOtQMQBJy1u6UTTU-4vzimZtsHP9B4Zxu9dqG6k-nTvbsWPkEVUufOMz4udedcSlm7WvomGfyct3Pgg9j54y9m5rRa7JF8ZEL4K9AodG8b1Yq9uW4uQc&new=1)
  > 作者 | 胡巍巍发自苏州出品 | CSDN（ID：CSDNnews）《长安十二时辰》也太火了吧！笔者早上坐电梯，看到一位小姐姐手机里，正在播着《长安十二时辰》，易烊千玺在剧中，信誓旦旦地说“我要是犯错了就当不了宰相”...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,113 +85,91 @@ categories: IT NEWS
  > 扪心自问，你真的熟练掌握MQ了吗？
  ## [腾讯高手出品！AR基础知识和设计实战案例复盘总结](http://mobile.51cto.com/vrar-599421.htm)
  > 腾讯高手出品！AR基础知识和设计实战案例复盘总结
+ ## [史上最系统的程序员未来职业规划路线](https://blog.csdn.net/Java_q705127209/article/details/91894233)
+ > 史上最系统的程序员未来职业规划路线
  ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
  > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
- ## [运维之用户、组和权限](https://blog.csdn.net/sqsltr/article/details/94722245)
- > 运维之用户、组和权限
- ## [Linux之LVS配置高可用集群【keepalived】](https://blog.csdn.net/qq_36016375/article/details/94915741)
- > Linux之LVS配置高可用集群【keepalived】
- ## [20年研发管理经验谈（九）](https://blog.csdn.net/weixin_39759846/article/details/92661283)
- > 20年研发管理经验谈（九）
- ## [数据库运维平台](https://blog.csdn.net/marko39/article/details/95241815)
- > 数据库运维平台
- ## [两台服务器ssh免密对端服务器及本机免密](https://blog.csdn.net/weixin_42691754/article/details/91881025)
- > 两台服务器ssh免密对端服务器及本机免密
- ## [linux 运维常用命令](https://blog.csdn.net/u010695169/article/details/93386116)
- > linux 运维常用命令
- ## [LANMP安全配置之Nginx安全配置](https://blog.csdn.net/syy0201/article/details/91418804)
- > LANMP安全配置之Nginx安全配置
- ## [IS | 資訊安全基本需求](https://blog.csdn.net/weixin_42001132/article/details/95501133)
- > IS | 資訊安全基本需求
- ## [如何解决百人研发团队的管理问题？](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 如何解决百人研发团队的管理问题？
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [Python运维-Socket网络编程](https://blog.csdn.net/qq_30534935/article/details/95464392)
- > Python运维-Socket网络编程
- ## [Linux之Pacemaker+Corosync【红帽7的高可用】](https://blog.csdn.net/qq_36016375/article/details/94916165)
- > Linux之Pacemaker+Corosync【红帽7的高可用】
- ## [Linux进阶_加密和安全](https://blog.csdn.net/weixin_42758707/article/details/93657130)
- > Linux进阶_加密和安全
+ ## [WebApp 安全入门](https://blog.csdn.net/valada/article/details/93671327)
+ > WebApp 安全入门
+ ## [干货 | 学习大数据为什么要先学Java？](https://blog.csdn.net/fbnggnh/article/details/95200354)
+ > 干货 | 学习大数据为什么要先学Java？
+ ## [web安全笔记(2)](https://blog.csdn.net/youyou519/article/details/92251616)
+ > web安全笔记(2)
+ ## [游戏开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
+ > 游戏开发防作弊以及原理
+ ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
+ > 提权与信息收集-安全牛学习笔记
+ ## [Web安全之代码执行漏洞](https://blog.csdn.net/qq_37133717/article/details/94760485)
+ > Web安全之代码执行漏洞
+ ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
+ > 大数据开发需要学习什么？大数据平台是什么？
+ ## [编程界称霸全球的10大算法，你到底了解几个呢？](https://blog.csdn.net/CSDN___Jack/article/details/95387157)
+ > 编程界称霸全球的10大算法，你到底了解几个呢？
+ ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
+ > 5G时代到来 棋牌游戏开发技术如虎添翼
  ## [web安全学习1](https://blog.csdn.net/weixin_44591106/article/details/95317512)
  > web安全学习1
+ ## [全面了解 Firebase 如何助力游戏开发](https://blog.csdn.net/jILRvRTrc/article/details/92854134)
+ > 全面了解 Firebase 如何助力游戏开发
+ ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
+ > 软件设计师考试经历
+ ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
+ > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [数据库真好玩](https://blog.csdn.net/Lonelyhat/article/details/91796233)
- > 数据库真好玩
- ## [人工智能会取代艺术家？](https://blog.csdn.net/fadsf15/article/details/91857766)
- > 人工智能会取代艺术家？
- ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
- > 关系数据库标准语言——SQL
- ## [论人工智能与软件工程的关系](https://blog.csdn.net/weixin_43988176/article/details/92439935)
- > 论人工智能与软件工程的关系
- ## [SQLITE学习之SQLITE基础知识(一)](https://blog.csdn.net/cainiaoxiakexing/article/details/91816780)
- > SQLITE学习之SQLITE基础知识(一)
- ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
- > 人工智能07 盲目搜索
- ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
- > 大家的人工智能——决策树
- ## [ 记·外键之创建、删除](https://blog.csdn.net/tc291695377/article/details/91892655)
- >  记·外键之创建、删除
- ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
- > 连接本地数据库和远程连接他人数据库？
- ## [浅谈数据库----基于SQLsever](https://blog.csdn.net/qq_45066719/article/details/94980839)
- > 浅谈数据库----基于SQLsever
- ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
- > 人工智能知识点总结
- ## [数据库复习知识点](https://blog.csdn.net/hwy499/article/details/94725397)
- > 数据库复习知识点
- ## [ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的](https://blog.csdn.net/sharehu/article/details/94738219)
- > ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的
- ## [人工智能学习资源集合](https://blog.csdn.net/qq_34606196/article/details/93500777)
- > 人工智能学习资源集合
- ## [闲聊人工智能产品经理（AIPM）—人工智能产品需求](https://blog.csdn.net/kepengs/article/details/92594641)
- > 闲聊人工智能产品经理（AIPM）—人工智能产品需求
+ ## [程序人生之思考人生](https://blog.csdn.net/soliy/article/details/95377718)
+ > 程序人生之思考人生
+ ## [云计算面试题及答案，云计算主要就业岗位](https://blog.csdn.net/qfxulei/article/details/92797378)
+ > 云计算面试题及答案，云计算主要就业岗位
+ ## [云计算介绍之云计算存储(2)](https://blog.csdn.net/csdn10086110/article/details/91881069)
+ > 云计算介绍之云计算存储(2)
+ ## [游戏开发_数学与物理](https://blog.csdn.net/qq_35433081/article/details/93397894)
+ > 游戏开发_数学与物理
+ ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
+ > 梦想还是要有的，即使被摧残着！
+ ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
+ > 学习 Unity 3D游戏开发日常笔记
+ ## [C++连连看游戏开发，简单编程实例，一看就会！](https://blog.csdn.net/weixin_44679141/article/details/95352625)
+ > C++连连看游戏开发，简单编程实例，一看就会！
+ ## [关于游戏开发网络协议方面的一些杂谈](https://blog.csdn.net/iov3Rain/article/details/95080308)
+ > 关于游戏开发网络协议方面的一些杂谈
+ ## [写给未来的自己（20190706）](https://blog.csdn.net/weixin_43944175/article/details/94851470)
+ > 写给未来的自己（20190706）
+ ## [棋牌游戏开发移动端优势赶超PC](https://blog.csdn.net/motianyougame/article/details/92839296)
+ > 棋牌游戏开发移动端优势赶超PC
+ ## [这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！](https://blog.csdn.net/woshinidadaye_/article/details/91414693)
+ > 这位智商奇高的超级天才去了：他简直活出了别人八辈子的精彩！
+ ## [深圳云计算培训：新手学习云计算的规划](https://blog.csdn.net/qq_37124438/article/details/94630274)
+ > 深圳云计算培训：新手学习云计算的规划
+ ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
+ > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
+ ## [游戏开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
+ > 游戏开发防作弊以及原理
+ ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
+ > 棋牌游戏开发做好策划方案 拥有互联网思维
 # PM 
+ ## [音乐巨头为何纷纷入局播客市场？](http://www.woshipm.com/it/2580495.html)
+ > 音乐行业进军播客有哪些方式？为什么要选择入局播客市场？播客，对于音乐行业来说，是机遇还是挑战？根据美国科技媒体The Verge 7月4日的报道：Netflix将推出一档导演...
+ ## [腾讯/头条工作后，对产品经理的职业再思考（1）](http://www.woshipm.com/pmd/2580791.html)
+ > 提到产品经理，很多人第一反应就是工作时候写各种需求做各种功能，目标就是追求极致用户体验，职业生涯发展灿烂——穷则产品总监，富则CEO。但以上只是一个美好的愿望，实...
+ ## [亚马逊Alexa语音交互设计四范式（上）](http://www.woshipm.com/ai/2578511.html)
+ > 本文笔者将与大家分享Alexa技能设计的四大范式中的两大范式——Be Adaptable(设计可适应)，以及Be Personal(设计个性化)。较之已有相当成熟，且被业界广泛应用的设计范...
+ ## [私域流量，企业招聘同样不可忽视](http://www.woshipm.com/operate/2580562.html)
+ > 仅对私域流量而言，在招聘领域，企业除了注重自身员工及产品的用户外，也应当相信KOL的个人带货（招人）能力，从ROI的角度或许能有意料之外的收获。012019上半年，互...
+ ## [B2B行业获客转化策略：2019年，获客后怎么转化？](http://www.woshipm.com/it/2580387.html)
+ > 在B2B行业，用户旅程特征日趋明显，企业并不知道消费旅程什么时候开始，那么在激烈的信息竞争中如何脱颖而出，将自己定位为“客户的最佳选择”呢？本文具体介绍了B2B行业...
+ ## [每个优秀问卷调查，背后都有一个完整的理论架构](http://www.woshipm.com/pd/2579326.html)
+ > 想要做一份优秀的调查问卷，需要遵循什么样的逻辑结构以及工作流程？以下，笔者将详细为大家讲述。一看到这篇文章，出现在你们脑海中的问题是不是：问卷调查怎样设...
+ ## [3个方面，教你科学搭建增长团队](http://www.woshipm.com/zhichang/2580478.html)
+ > 本文跟大家分享要如何才能科学的去搭建一个增长团队，希望能给大家带来收获，enjoy~在开始前，先调研下今天我们在场各位所在公司有多少已经组建了完整增长团队的？今...
+ ## [微信读书产品分析：奇文共欣赏，疑义相与析](http://www.woshipm.com/evaluating/2577199.html)
+ > 有人说，阅读是一件孤独的事，就像心里藏着的小秘密，最适合在夜深人静的时候细细品味。有人说，阅读是一件热闹的事，就像精彩的影视剧情，想法的碰撞会带你去到未知的...
+ ## [职场中的自我身份认同：拥抱独特的自己](http://www.woshipm.com/zhichang/2580257.html)
+ > 弱势不是自我否定的理由，职场需要你勇于发声，勇于表现自我。拥抱最独特的自己，才不会在工作中显得“不合群”。假如你还在为“不合群”而感觉不适，也许需要看一看这篇文...
+ ## [从飞聊到和群，短内容兴趣社区兴起背后的逻辑](http://www.woshipm.com/it/2580382.html)
+ > 有人说，内容社区是一种参与感更强的feed流，陌生人社会的到来，内容社区将成为弱关系发酵的主要场合。也有人说，兴趣社区的本质是帮助用户提升社交的质量与效率。字...
  ## [淘汰或者进化：新时期产品经理的能力转型思考](http://www.woshipm.com/kol/2542096.html)
  > 2019年4月13-14日，人人都是产品经理举办的【 2019产品创新大会·深圳站】完美落幕。腾讯企业移动安全产品负责人李丹华先生，他的分享主题是《淘汰或者净化：新时期产品...
- ## [财务系统：资金对账（一）](http://www.woshipm.com/it/2575506.html)
- > 每月关账前，都会进行对账，每次对账都会持续一周，混乱爆肝的一周。由于公司业务多样性，交易量大，线上线下业务都有；因此目前财务系统-对账模块分为门店对账、大客户...
- ## [IP，通往超级文化符号之路](http://www.woshipm.com/marketing/2580062.html)
- > 当我们在谈论IP时，IP到底是什么？全文要点：从初级IP到文化符号，注意两点关键；要在强共识文化母体上，创造新IP符号；IP的授权，是围绕核心符号展开的；IP是生...
- ## [bryanshen|产品经理如何做好用户分析（用户反馈）](http://www.chanpin100.com/article/108916)
- > 用户分析之用户反馈
- ## [传播数据挖掘竞赛奖优秀作品—同济拓微组“昆山龙哥反杀案”报告](http://www.chanpin100.com/article/108913)
- > 传统的网络越轨行为往往关注与越轨行为的消极一面。但是本研究以昆山龙哥反杀案为例，重点关注在此次对司法体制的舆论冲击（良性越轨行为）中民众、官方媒体以及商业媒体等不同微博主体的主题内容、主题演化以及行为特征。
- ## [毕业后的50点思考，关于生活、关于工作](http://www.chanpin100.com/article/108912)
- > 生活的本质就是开心
- ## [辅导了一些校招产品经理之后，我的一些感受](http://www.chanpin100.com/article/108911)
- > 不管环境如何，follow your heart，去追寻自己真正热爱的东西吧。
- ## [新式茶饮：小众老生意如何“翻新”为大众新物种？](http://www.chanpin100.com/article/108910)
- > 传统的老生意完成了向新物种的跃迁，这之间发生了什么？
- ## [产品人性说：贪婪与嫉妒](http://www.chanpin100.com/article/108908)
- > 理解用户的最高层境界就是：洞察用户心理和理解人性
- ## [数据库的未来在云端](http://www.chanpin100.com/article/108907)
- > 倘若没有来自云端的强劲风力，多年积攒在传统数据库里的暮气，仍将弥漫在整个商业世界。
- ## [移动用户体验设计之列表视图与网格视图](http://www.chanpin100.com/article/108906)
- > 今天，我将概述两种基本的内容呈现模式 - 列表视图和网格视图，并为两者提供了使用案例。
- ## [技术转产品经验分享](http://www.chanpin100.com/article/108905)
- > 技术转型产品，产品的见解
- ## [你、我、他的中台|从数据中台到AI中台](http://www.chanpin100.com/article/108903)
- > 数据中台会不会成为下一个风口，首先笔者LineLian本人不赞成风口轮，更支持一个事物长期的价格是由其本质的价值决定的观点。其次目前的数据中台从产品上看是融合了各种数据源，经过ETL技术处理供给给有限的纯商业变现目的。再则数据中台的各个技术模块日趋成熟，稀缺的是数据的吸取和数据的资产变现模式。
- ## [像太阳一样点亮自己温暖别人（一）--情绪过滤器](http://www.chanpin100.com/article/108902)
- > 产品经理情绪波动时，经过“情绪过滤器&quot;拆分，能够清晰定位问题！之后再选择合适的应对方式，推动团队更好的达成目标！
- ## [提升产品能力别有恐惧情绪](http://www.chanpin100.com/article/108901)
- > 周末两天和几家企业的产品人做了一些简单的交流，再如何提升产品人自身能力的这个话题上今天有了一些简单感悟，写下来和大家分享下。
- ## [电商解读：玩转电商精细化运营的四大场景，让流量不白流](http://www.chanpin100.com/article/108900)
- > 精细化运营是流量红利结束后的生存法则。神策数据分析师朱静芸详解精细化运营的四个关键词，以及电商行业之小程序产品用户分析运营、新用户流量运营、优惠券效果评估、坑位运营四大精细化运营场景。
- ## [MobTech研究院｜第三方移动支付报告](http://www.chanpin100.com/article/108899)
- > MobTech研究院｜第三方移动支付报告新鲜出炉~支付宝遥遥领先、B端市场初现端倪
- ## [来自产品经理对绘制流程图的体会](http://www.chanpin100.com/article/108897)
- > 流程图可以帮助我们查漏补缺、整理功能和逻辑顺序、确保流程图的完整性等。
- ## [资深产品经理如何使用鱼骨图进行需求管理?](http://www.chanpin100.com/article/108896)
- > 鱼骨图，又叫作因果图，是一种基本的管理学分析中常用的图。它可以帮助产品经理进行有效的需求分析，将问题存在因素进行一层一层的分析、解剖，让原本复杂的问题可以迎刃而解。
- ## [思维导图可以辅助产品经理做什么？](http://www.chanpin100.com/article/108895)
- > 作为一名优秀的互联网产品经理，手上需要掌握的辅助工具一定不会少，其中就包括思维导图软件，本文就来聊一聊在产品从0到1诞生的过程中，思维导图可以辅助产品经理做些什么吧！
- ## [“有钱”却不“任性”，唯品会葫芦里卖的是什么药？](http://www.chanpin100.com/article/108894)
- > 2016年初，一向只为好歌喉转身的杰伦公举意外地为一家电商转了身，出任了代言人，并担任了特设的“首席惊喜官”。没错，这家电商就是唯品会——一家专门做特卖的网站，成立至今已快有11年的历史，现如今却也不再成为行业内的关注焦点，尽管它低调的一直盈着利。那么在它身上究竟发生了什么，有什么样的秘密，才使得它
- ## [产品经理职场必备能力（七）：办公文档处理能力](http://www.chanpin100.com/article/108893)
- > 文档处理能力是基石，任何岗位都需要掌握，但往往很多人连这都做不到。
 
     
