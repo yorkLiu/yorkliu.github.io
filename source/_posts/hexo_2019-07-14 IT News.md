@@ -1,20 +1,20 @@
 ---
 title: 2019-07-14 IT News
 copyright: true
-date: 2019-07-14 08:01:07
+date: 2019-07-14 09:01:39
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [新疆某运营商被通管局约谈 事情不大很委屈但还有别的事](http://mp.weixin.qq.com/s?src=11&timestamp=1563062404&ver=1727&signature=cKFxUnY2EWn0ktstRb98hnkJPyA4n35IpJUOu-vY6OOKuX8FUyRd9jKm6JY6JWZOrPjL7w6YZ9z6vBDLeNB9HIKsKK*Px6dBsna2MCQxixs0E*9e3iqG5ON6sTL*XC1n&new=1)
+ ## [新疆某运营商被通管局约谈 事情不大很委屈但还有别的事](http://mp.weixin.qq.com/s?src=11&timestamp=1563066004&ver=1727&signature=cKFxUnY2EWn0ktstRb98hnkJPyA4n35IpJUOu-vY6OOKuX8FUyRd9jKm6JY6JWZObUZ9nmSm2PcuLs6m9P5iaG-z--ayox2MVpn4ihg-p3j89PblTjHG-2dDSqCDVqnM&new=1)
  > 运营商财经网 方悦/文近日，相关人士向运营商财经网透露，新疆通管局约谈新疆某运营商相关负责人，并下发通报进行批评。究其缘由，主要是针对新疆某运营商在乌鲁木齐，未经用户许可擅自开通流量包，违反相关协议...
- ## [\[报告下载\]245篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1563062404&ver=1727&signature=XP4bIqmCVQfZr4i2ePOLnsir4upO7k71SCnIGgQJ6bUaq2yCLqpPK4MXwUjUStUCuPx3-aCBhDlGgd192QqYfkp3DdVifVgiHnvAG6JcRFU2hxj9qTXXPKuNvgScYhLF&new=1)
- > 汽车行业240+篇顶级报告大放送！245篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享245份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [深度学习最强资源推荐：一文看尽 GAN 的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1563062404&ver=1727&signature=sfxQcn*Ms4TfJPN8iSa8oKjJjefuxk9hBGA4F17VZxRb557JcnXHb-yRKBBq-yK4J*5OwvUfmKb4jNH4jvF-lfBV45flUUq3hl7Fg2OgHZ-bFgbKnv7LPBFprogEUAHA&new=1)
- > 来源：AI 科技评论AI科技评论按，生成对抗网络是当前最热门的技术之一，它掀起了一场技术革命，取得了很多重大的突破。不久前，伊利诺伊大学香槟分校的学生 Ajay Uppili Arasanipalai 在 Deep Learning 专栏发
- ## [5G流量价格曝光：你能接受吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563062404&ver=1727&signature=brm6kes*ULll9VTpiRMUJCHboiLMAWz6A3EnAg9MFcqJfBQkQAIxdh-5zYOb1nhTBTqEk*GyoIbZAIKGngaQqFc7XiBcL-sVpyaQi5KmPkSQSHC7dQV3tSl3XHE3s2NH&new=1)
+ ## [5G流量价格曝光：你能接受吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563066004&ver=1727&signature=brm6kes*ULll9VTpiRMUJCHboiLMAWz6A3EnAg9MFcqJfBQkQAIxdh-5zYOb1nhTYonmhVXZZJvj380wumDnkiASdF187FvA4HJtOSwygbpPA2fl-c0PKSNrMHqfbd3N&new=1)
  > 正文共：249字 2图预估阅读时间：1 分钟日前，据三大运营商内部人士透露，5G流量资费套餐最早于下月公布，其价格有望定为10元/10GB。伴随着5G商用牌照颁发，5G商用步伐进一步加快，普通用户对5G也愈发期待。但在...
- ## [马斯克称SpaceX星际飞船原型开测 脸书与美监管就数据泄露调查达成和解|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1563062404&ver=1727&signature=zcnPy6ZxeLhwhASR9wTSTtULTXxiNi5b2mj5MR56jd8r8K3hhUj43UvCJRyTcjGoq7SqrnRrUBkpZzkw1HRpL-XeyMpsfkSpoodtVcV7NN8rbSsuEqPVvGhPP1X-tmhf&new=1)
+ ## [深度学习最强资源推荐：一文看尽 GAN 的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1563066004&ver=1727&signature=sfxQcn*Ms4TfJPN8iSa8oKjJjefuxk9hBGA4F17VZxRb557JcnXHb-yRKBBq-yK4srC4hViiX7tcbiTDqhu3b7PRLC3xcQ-nx-h7F0Tr0g7ZtJja6RtWpME2bepq2yy6&new=1)
+ > 来源：AI 科技评论AI科技评论按，生成对抗网络是当前最热门的技术之一，它掀起了一场技术革命，取得了很多重大的突破。不久前，伊利诺伊大学香槟分校的学生 Ajay Uppili Arasanipalai 在 Deep Learning 专栏发
+ ## [\[报告下载\]245篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1563066004&ver=1727&signature=XP4bIqmCVQfZr4i2ePOLnsir4upO7k71SCnIGgQJ6bUaq2yCLqpPK4MXwUjUStUCp0lj75VGxiW4IKb71rowx8hs77ELtzPKurTVUim0aFkPRVWVbG3QcjJ3Ou7dZv47&new=1)
+ > 汽车行业240+篇顶级报告大放送！245篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享245份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
+ ## [马斯克称SpaceX星际飞船原型开测 脸书与美监管就数据泄露调查达成和解|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1563066004&ver=1727&signature=zcnPy6ZxeLhwhASR9wTSTtULTXxiNi5b2mj5MR56jd8r8K3hhUj43UvCJRyTcjGoBpEhLFZii4fHoToBcmUDN5cmo8zSLJY5EJIkuuKSAH7FhAgktqYXJ4vOLv-SP9e4&new=1)
  > 动点科技 | ID：technode精选新闻马斯克称SpaceX星际飞船原型开测：伦敦到香港32分钟马斯克在推特上分享了“星虫”进行盘旋测试的时间表。“猛禽引擎已被安装在星虫上。目标是在下周二进行盘旋测试”。此外，这...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,72 +73,74 @@ categories: IT NEWS
  > 扪心自问，你真的熟练掌握MQ了吗？
  ## [腾讯高手出品！AR基础知识和设计实战案例复盘总结](http://mobile.51cto.com/vrar-599421.htm)
  > 腾讯高手出品！AR基础知识和设计实战案例复盘总结
- ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
- > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
- ## [物联网应用层coap协议](https://blog.csdn.net/qq_41381461/article/details/92794827)
- > 物联网应用层coap协议
- ## [全面了解 Firebase 如何助力游戏开发](https://blog.csdn.net/jILRvRTrc/article/details/92854134)
- > 全面了解 Firebase 如何助力游戏开发
- ## [关于游戏开发的想法——"无用"的课程设计](https://blog.csdn.net/hhr603894090/article/details/91894584)
- > 关于游戏开发的想法——&quot;无用&quot;的课程设计
- ## [棋牌游戏开发移动端优势赶超PC](https://blog.csdn.net/motianyougame/article/details/92839296)
- > 棋牌游戏开发移动端优势赶超PC
- ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
- > 5G时代到来 棋牌游戏开发技术如虎添翼
- ## [【RPA资讯】Uipath估值70亿美金，超越OMV Petrom成罗马尼亚最有价值公司](https://blog.csdn.net/u010369735/article/details/93195414)
- > 【RPA资讯】Uipath估值70亿美金，超越OMV Petrom成罗马尼亚最有价值公司
- ## [物联网APP开发简介](https://blog.csdn.net/qq_39424143/article/details/93485234)
- > 物联网APP开发简介
- ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
- > 转战物联网·基础篇02-物联网中的角儿
- ## [织梦微信小程序一键生成插件(资讯案例模板），整合织梦CMS一切数据信息](https://blog.csdn.net/xiao_hu520/article/details/79823118)
- > 织梦微信小程序一键生成插件(资讯案例模板），整合织梦CMS一切数据信息
- ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
- > 学习 Unity 3D游戏开发日常笔记
- ## [物联网 GUI 开发套件 AWTK-IOTJS](https://blog.csdn.net/absurd/article/details/92786103)
- > 物联网 GUI 开发套件 AWTK-IOTJS
- ## [物联网协议CoAP](https://blog.csdn.net/sbddbfm/article/details/95484763)
- > 物联网协议CoAP
- ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
- > 微信不小心删除的好友和群聊，如何偷偷的加回来？
- ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
- > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
+ ## [云计算是什么？新手学习云计算的学习路线](https://blog.csdn.net/qfxulei/article/details/94431099)
+ > 云计算是什么？新手学习云计算的学习路线
+ ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
+ > 建筑施工借助物联网卡保障高楼安全
+ ## [深圳云计算培训：新手学习云计算的规划](https://blog.csdn.net/qq_37124438/article/details/94630274)
+ > 深圳云计算培训：新手学习云计算的规划
+ ## [仿微信多人音视频通话界面](https://blog.csdn.net/wanggang514260663/article/details/93167902)
+ > 仿微信多人音视频通话界面
+ ## [\[大数据\]大数据体系整理](https://blog.csdn.net/a755199443/article/details/95186643)
+ > \[大数据\]大数据体系整理
+ ## [转战物联网·基础篇01-物联网之我见](https://blog.csdn.net/yyykj/article/details/93850492)
+ > 转战物联网·基础篇01-物联网之我见
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [微软云-CDN防盗链的配置和使用](https://blog.csdn.net/Sugoar/article/details/95307449)
+ > 微软云-CDN防盗链的配置和使用
+ ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
+ > 物联网的发展与应用
+ ## [云计算面试题及答案，云计算主要就业岗位](https://blog.csdn.net/qfxulei/article/details/92797378)
+ > 云计算面试题及答案，云计算主要就业岗位
+ ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
+ > Java音视频播放器
+ ## [基于物联网的智能家居](https://blog.csdn.net/weixin_43532158/article/details/95323836)
+ > 基于物联网的智能家居
+ ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
+ > 物联网不断发展创新 物联网卡仍是主力
+ ## [云计算工程师面试题集锦，云计算面试题及答案](https://blog.csdn.net/qfxulei/article/details/92797127)
+ > 云计算工程师面试题集锦，云计算面试题及答案
+ ## [医疗行业需要物联网卡能做什么？](https://blog.csdn.net/qq_40798435/article/details/95628250)
+ > 医疗行业需要物联网卡能做什么？
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Java 面试如何坐等 offer？](https://blog.csdn.net/csdnnews/article/details/95817975)
  > 2015 年，因为工作岗位的变动，开始负责给集团招聘一些技术人员，出于对公司的负责，也为了更好的胜任技术经理的职位，在面试的这件事上，我做了大量的“功课”，首先我研究了几...
 # 人工智能 
- ## [音视频开发--音视频的基础知识--视频](https://blog.csdn.net/qq_28877125/article/details/94911383)
- > 音视频开发--音视频的基础知识--视频
- ## [闲聊人工智能产品经理（AIPM）—人工智能产品需求](https://blog.csdn.net/kepengs/article/details/92594641)
- > 闲聊人工智能产品经理（AIPM）—人工智能产品需求
- ## [JAVA音视频解决方案----音视频基础知识](https://blog.csdn.net/cuiyaonan2000/article/details/93179719)
- > JAVA音视频解决方案----音视频基础知识
- ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
- > 使用百度图表ECharts
- ## [把json数据的id加到接口里id的后面](https://blog.csdn.net/qq_43473279/article/details/95340389)
- > 把json数据的id加到接口里id的后面
- ## [音视频直播（Java）](https://blog.csdn.net/qq_38833550/article/details/92623348)
- > 音视频直播（Java）
- ## [2019前端面试题（深圳）](https://blog.csdn.net/weixin_42400955/article/details/95648364)
- > 2019前端面试题（深圳）
- ## [\[Cmake-Android音视频\]ffmpeg3.4视频格式转换和显示](https://blog.csdn.net/adolph_lu/article/details/91997478)
- > \[Cmake-Android音视频\]ffmpeg3.4视频格式转换和显示
- ## [【前端】vscode常用快捷键总结](https://blog.csdn.net/jing875480512/article/details/92397459)
- > 【前端】vscode常用快捷键总结
- ## [闲聊人工智能产品经理（AIPM）—人工智能产品经理工作流程](https://blog.csdn.net/kepengs/article/details/92955349)
- > 闲聊人工智能产品经理（AIPM）—人工智能产品经理工作流程
- ## [input框range类型拖动条时，实现得到实时反馈](https://blog.csdn.net/qq_41866516/article/details/95167910)
- > input框range类型拖动条时，实现得到实时反馈
- ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
- > 前端大作业（期末复习）
- ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
- > 大家的人工智能——决策树
- ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
- > 今天开始写一下学习java中级每一天的知识点总结
- ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
- > 音视频开发--音视频的基础知识--音频
+ ## [flask_sqlalchemy基础,数据的增删改查](https://blog.csdn.net/Regan_Yu/article/details/95179571)
+ > flask_sqlalchemy基础,数据的增删改查
+ ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
+ > 微信不小心删除的好友和群聊，如何偷偷的加回来？
+ ## [数据库之关系](https://blog.csdn.net/weixin_44097082/article/details/94831635)
+ > 数据库之关系
+ ## [浅谈数据库的安全保护](https://blog.csdn.net/qq_45066719/article/details/95173912)
+ > 浅谈数据库的安全保护
+ ## [JAVA_深拷贝和浅拷贝](https://blog.csdn.net/qq_17556191/article/details/94992870)
+ > JAVA_深拷贝和浅拷贝
+ ## [​数据库的三大范式](https://blog.csdn.net/Pandaminn/article/details/92684599)
+ > ​数据库的三大范式
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [数据库语句删除数据库](https://blog.csdn.net/weixin_44561520/article/details/92704931)
+ > 数据库语句删除数据库
+ ## [简单使用数据库数据库](https://blog.csdn.net/weixin_45116982/article/details/92760150)
+ > 简单使用数据库数据库
+ ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
+ > JAVA基础7-Stream基础学习笔记
+ ## [计算机专业名词那些事儿](https://blog.csdn.net/KinCae/article/details/94738096)
+ > 计算机专业名词那些事儿
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
+ ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
+ > SQL存储过程和函数
+ ## [数据库-数据库范式](https://blog.csdn.net/Fly_Fly_Zhang/article/details/92847575)
+ > 数据库-数据库范式
+ ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
+ > 深入理解  Android 组件的 exported 属性
 # PM 
+ ## [【天天问每周精选】第79期：产品经理老了以后怎么办？](http://www.woshipm.com/it/2579803.html)
+ > 有的职业可以做一辈子，例如人民教师、医生等，可以做到退休。产品经理呢？可以做一辈子吗？来脑爆一下，随着年龄的增长，30岁40岁50岁60岁产品经理这个职业走向。enjoy...
  ## [猫眼“围城”](http://www.pmtoo.com/article/77924.html)
  > 猫眼要怎样讲好新故事？图片来源@视觉中国郑志昊再一次站在舞台前。7月9日，猫眼2019战略升级发布会如期而...
  ## [3个方面，教你科学搭建增长团队](http://www.pmtoo.com/article/77912.html)
