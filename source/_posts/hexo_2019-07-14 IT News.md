@@ -1,22 +1,30 @@
 ---
 title: 2019-07-14 IT News
 copyright: true
-date: 2019-07-14 10:01:10
+date: 2019-07-14 12:02:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[科技早报7点整\]哈啰单车遭出租车司机集体扔河边 Facebook被罚50亿美元^](http://mp.weixin.qq.com/s?src=11&timestamp=1563069604&ver=1727&signature=rWQlHrSoFFHmojzoOo38pMSVsvCO0TGkM7-Rb0CcnYbHkgPjueCw6Ndfmff9FBENN9Fk73zprUCGbvkFfVnG0nJW0Jfby3w6VbTdqkSFoJOjsB3b-HvtFf0owryts4xt&new=1)
- > 早上好，科技圈【一度蜜科技早报】第531期1.两部委：网约车平台应公开定价加价机制，并提前7日公布有辽宁网友称路边一排整齐的哈啰共享单车，遭出租司机集体丢弃至郊外河边。交通运输局通报称，该共享单车未经审...
- ## [深度学习最强资源推荐：一文看尽 GAN 的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1563069604&ver=1727&signature=sfxQcn*Ms4TfJPN8iSa8oKjJjefuxk9hBGA4F17VZxRb557JcnXHb-yRKBBq-yK48SRucZa8BEFLv5PGWuCx7fvonERQDFASc9D*UA0d*sYJfk7bidJVduEifyLJzBOM&new=1)
- > 来源：AI 科技评论AI科技评论按，生成对抗网络是当前最热门的技术之一，它掀起了一场技术革命，取得了很多重大的突破。不久前，伊利诺伊大学香槟分校的学生 Ajay Uppili Arasanipalai 在 Deep Learning 专栏发
- ## [5G流量价格曝光：你能接受吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563069604&ver=1727&signature=brm6kes*ULll9VTpiRMUJCHboiLMAWz6A3EnAg9MFcqJfBQkQAIxdh-5zYOb1nhTDom4LWUsMS2Kw1XPzbfP7cXaoLF-a-QnOShjW0wwuWtdRVZXvCs6F-Kg4SZWYex2&new=1)
+ ## [中国联通：造谣者胆子怎么这么大!](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=9HhjLuLsB92qI7hJXMuKn7Fi-sfwdiLI2xFyo43qonB3J8pVKz1k9JLSaqZjYniNBaHAxAE4fVNL8hc6ho8kmI3639L8yzZwCYdp4Sg3Jd*BQZBBKHgK*bqPOkMFuo2J&new=1)
+ > 被人编造“不支持华为”，中国联通辟谣。7月13日晚，中国联通微信公众号和官方微博同时发布名为《造谣者，你的胆子怎么这么大？！》的文章。文中称，近日，公司注意到有关自媒体编造“不支持华为的企业，居然还...
+ ## [不支持华为5G?屡次被黑的中国联通终于坐不住了!](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=gPGugOIKynxu*ksXycO0ZeT8d1IkOLMVxQXB4qW-KQZ7wvdP7rpivLxT*7kNW8mRadL9IAgBioXCbC-TEehMNAJ-*jSqCjo3U9OV1uKs4a26YllDr9yps9XPDm8lEZ1K&new=1)
+ > 7月13日晚，中国联通微信公众号和官方微博同时发布名为《造谣者，你的胆子怎么这么大？！》的文章。中国联通在文章中称，近日，公司注意到有关自媒体编造“不支持华为的企业，居然还有国内四大运营商之一”、“...
+ ## [Magecart黑客组织使用新手法，过万网站被黑](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=0Qy*VT-GSsXXCS5frAM6lQ6SD4WgDi0d4vfNTy*NKuYUsEnuaeCYrbOfrhh3QeKLfcRU151XLeCFur6ronWP*ZjJfwbn11BNEOCy2Up43f783IDSKdpoE1NwY7cx6dfA&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：Magecart黑客组织最近锁定了配置错误的Amazon S3储存桶，估计已有超过1.7万个网站受害。据外媒报道，网络安全公司RiskIQ指出，Magecart黑客组织
+ ## [技经观察|DNA存储有望成为下一代存储介质的技术方向](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=9YZXjfD1xeMHIRXH*FjjmeqtJBdKri45ZWf4e8H1pHdMWKpfftstCxmwUx7WDi7*TDd8uyAHzEHvYScEGMe6iX7AzH*nw3OLYOL4UUq8ZBSVp4JlQUYMapf1kAYO-iA9&new=1)
+ > 纵观数据存储历史可以发现，随着人类社会数据量的不断增加，存储介质也在持续不断地迭代变化。人类历史的脚步不会停下，碳基生物存储尤其是DNA存储是我们不得不关注的重要前沿技术方向。DNA是已知最古老的信息存...
+ ## [5G流量价格曝光：你能接受吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=brm6kes*ULll9VTpiRMUJCHboiLMAWz6A3EnAg9MFcp-TKS-oEu329GTLBsxPaqJCO7KlcI6nNoelE18xmS*G5boK-bL9*G2Sy3dHrT7vcIkJMPZd8nOqAHhkfKc4H0R&new=1)
  > 正文共：249字 2图预估阅读时间：1 分钟日前，据三大运营商内部人士透露，5G流量资费套餐最早于下月公布，其价格有望定为10元/10GB。伴随着5G商用牌照颁发，5G商用步伐进一步加快，普通用户对5G也愈发期待。但在...
- ## [\[报告下载\]245篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1563069604&ver=1727&signature=XP4bIqmCVQfZr4i2ePOLnsir4upO7k71SCnIGgQJ6bUaq2yCLqpPK4MXwUjUStUCl-1BSrW9rqV95spIw3Ti*hMac69OJot66QgmO2NpYMcy4PxDxRNl-lIbFEcMRs6c&new=1)
+ ## [\[报告下载\]245篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=XP4bIqmCVQfZr4i2ePOLnsir4upO7k71SCnIGgQJ6bWXs9TCbSnqG-*Vi5bzVY4McaqBEUCUTqZyIqIMwluHNPvPlWAqSkli80So66HmhujT2IrmsP1oWRil*yw6SDUJ&new=1)
  > 汽车行业240+篇顶级报告大放送！245篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享245份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [新疆某运营商被通管局约谈 事情不大很委屈但还有别的事](http://mp.weixin.qq.com/s?src=11&timestamp=1563069604&ver=1727&signature=cKFxUnY2EWn0ktstRb98hnkJPyA4n35IpJUOu-vY6OOKuX8FUyRd9jKm6JY6JWZOOyHFpC3oCHXOPckxNakr8XApGRq8s85tR5P8VACSwJdrUzVXf0ZfPNxi5LtMTeeP&new=1)
+ ## [\[科技早报7点整\]哈啰单车遭出租车司机集体扔河边 Facebook被罚50亿美元^](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=rWQlHrSoFFHmojzoOo38pMSVsvCO0TGkM7-Rb0CcnYYgRoWPG27Y078NKRq2rSRNTwecyUsYMt4DrNCBB9wFuH1MnasuU39iFOA7sVGMSs2MCcHAJ9UtdOR8Ac3Ii0JW&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第531期1.两部委：网约车平台应公开定价加价机制，并提前7日公布有辽宁网友称路边一排整齐的哈啰共享单车，遭出租司机集体丢弃至郊外河边。交通运输局通报称，该共享单车未经审...
+ ## [深度学习最强资源推荐：一文看尽 GAN 的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=sfxQcn*Ms4TfJPN8iSa8oKjJjefuxk9hBGA4F17VZxR-ji4erLcI2yS0E4EbL89q8Rw0eMJ6Rxg7uln0Y8OBO-izmu*FQ5CjXpBgQaYbel7NeJf8siddGvR0MJOn1N09&new=1)
+ > 来源：AI 科技评论AI科技评论按，生成对抗网络是当前最热门的技术之一，它掀起了一场技术革命，取得了很多重大的突破。不久前，伊利诺伊大学香槟分校的学生 Ajay Uppili Arasanipalai 在 Deep Learning 专栏发
+ ## [新疆某运营商被通管局约谈 事情不大很委屈但还有别的事](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=cKFxUnY2EWn0ktstRb98hnkJPyA4n35IpJUOu-vY6ONAtGAzvNOYckVlbj4z16XEO9K*YrYIl7jz1wvzOM2AwoChmw4KqlDaapRLHcQpxsqCDRcjiJnG5mUQZ2SWTDZJ&new=1)
  > 运营商财经网 方悦/文近日，相关人士向运营商财经网透露，新疆通管局约谈新疆某运营商相关负责人，并下发通报进行批评。究其缘由，主要是针对新疆某运营商在乌鲁木齐，未经用户许可擅自开通流量包，违反相关协议...
- ## [马斯克称SpaceX星际飞船原型开测 脸书与美监管就数据泄露调查达成和解|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1563069604&ver=1727&signature=zcnPy6ZxeLhwhASR9wTSTtULTXxiNi5b2mj5MR56jd8r8K3hhUj43UvCJRyTcjGod1kRtwY-lnx8n4HkCANVZpjq5CHmcC6I3uCGzAMm-asFu*5hzZ30N0Usk0HiyQzp&new=1)
+ ## [马斯克称SpaceX星际飞船原型开测 脸书与美监管就数据泄露调查达成和解|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1563076804&ver=1727&signature=zcnPy6ZxeLhwhASR9wTSTtULTXxiNi5b2mj5MR56jd94CcpJKJWho*lhqMhRRFXImSs1s*GkG1Q3k6E3uyGGaaXrHmxaKfzLWpv9iynUOqFWQxutQg5*kwoIZ9QSKpig&new=1)
  > 动点科技 | ID：technode精选新闻马斯克称SpaceX星际飞船原型开测：伦敦到香港32分钟马斯克在推特上分享了“星虫”进行盘旋测试的时间表。“猛禽引擎已被安装在星虫上。目标是在下周二进行盘旋测试”。此外，这...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,44 +83,42 @@ categories: IT NEWS
  > 扪心自问，你真的熟练掌握MQ了吗？
  ## [腾讯高手出品！AR基础知识和设计实战案例复盘总结](http://mobile.51cto.com/vrar-599421.htm)
  > 腾讯高手出品！AR基础知识和设计实战案例复盘总结
- ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
- > 大数据开发需要学习什么？大数据平台是什么？
- ## [区块链笔记-Hash算法](https://blog.csdn.net/weixin_44172023/article/details/93594568)
- > 区块链笔记-Hash算法
- ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
- > \[区块链\]初识R3-Corda，解析区块链结构
- ## [​数据库的三大范式](https://blog.csdn.net/Pandaminn/article/details/92684599)
- > ​数据库的三大范式
- ## [区块链基本常识02](https://blog.csdn.net/weixin_43958804/article/details/88661322)
- > 区块链基本常识02
- ## [sqlserver 分页方法](https://blog.csdn.net/weixin_41048746/article/details/94901217)
- > sqlserver 分页方法
- ## [【程序人生】Java Web 开发脚手架调研](https://blog.csdn.net/AV_woaijava/article/details/92966580)
- > 【程序人生】Java Web 开发脚手架调研
- ## [数据库语句删除数据库](https://blog.csdn.net/weixin_44561520/article/details/92704931)
- > 数据库语句删除数据库
- ## [菜鸟理解的区块链](https://blog.csdn.net/weixin_44172023/article/details/94380565)
- > 菜鸟理解的区块链
- ## [数据库（一）——数据库基础](https://blog.csdn.net/QQ2899349953/article/details/84897911)
- > 数据库（一）——数据库基础
- ## [【数据库学习笔记】数据库事务处理技术 - 并发控制](https://blog.csdn.net/TheSnowBoy_2/article/details/88920238)
- > 【数据库学习笔记】数据库事务处理技术 - 并发控制
- ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
- > SQL存储过程和函数
- ## [开发之路从数据库开始------数据库的基本概念](https://blog.csdn.net/weixin_42561846/article/details/88083989)
- > 开发之路从数据库开始------数据库的基本概念
- ## [MySql知识点汇总--笔经面经](https://blog.csdn.net/weixin_40945195/article/details/95373418)
- > MySql知识点汇总--笔经面经
- ## [浅谈数据库的安全保护](https://blog.csdn.net/qq_45066719/article/details/95173912)
- > 浅谈数据库的安全保护
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
+ ## [织梦微信小程序一键生成插件(资讯案例模板），整合织梦CMS一切数据信息](https://blog.csdn.net/xiao_hu520/article/details/79823118)
+ > 织梦微信小程序一键生成插件(资讯案例模板），整合织梦CMS一切数据信息
+ ## [云计算面试题及答案，云计算主要就业岗位](https://blog.csdn.net/qfxulei/article/details/92797378)
+ > 云计算面试题及答案，云计算主要就业岗位
+ ## [云计算之k8s系列_第九回](https://blog.csdn.net/mx_steve/article/details/95583397)
+ > 云计算之k8s系列_第九回
+ ## [首域金融投资人交流群的四个好处](https://blog.csdn.net/bosctime2020/article/details/91537636)
+ > 首域金融投资人交流群的四个好处
+ ## [云计算之k8s系列_第六回](https://blog.csdn.net/mx_steve/article/details/91945814)
+ > 云计算之k8s系列_第六回
+ ## [木马——云计算04](https://blog.csdn.net/Yvette_Lucifer/article/details/95054197)
+ > 木马——云计算04
+ ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
+ > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [\[大数据\]大数据体系整理](https://blog.csdn.net/a755199443/article/details/95186643)
+ > \[大数据\]大数据体系整理
+ ## [iOSer 必知必会的深度链接技术——WWDC2019更新](https://blog.csdn.net/Mobholly/article/details/95311755)
+ > iOSer 必知必会的深度链接技术——WWDC2019更新
+ ## [移动开发还有未来吗？](https://blog.csdn.net/beibei_programme/article/details/92640522)
+ > 移动开发还有未来吗？
+ ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
+ > 资讯类网站增量式爬虫
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [云杰恒指：6.20恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/92965932)
+ > 云杰恒指：6.20恒指期货早盘资讯
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [拆解拼多多、趣头条、小红书背后的上海互联网基因](https://blog.csdn.net/csdnnews/article/details/95817753)
  > 前赴后继的创业浪潮里，有一些东西沉淀下来，比如游戏基因、白领文化、下沉思维。作者 |黎明本文经授权转载自燃财经（ID:rancaijing）互联网的创业江湖，时常会被划...
  ## [开发者，什么是你真正关心的问题？| AI ProCon 2019](https://blog.csdn.net/csdnnews/article/details/95817867)
  > 2018 年，上千名开发者与上百名技术专家齐聚一堂，在 CSDN 2018 AI开发者大会上以“AI技术与应用”为核心，深度聚焦人工智能的技术创新与行业应用，真正做到了“...
- ## [智能家居企业泄露 20 亿条用户日志，安全该如何加固？](https://blog.csdn.net/csdnnews/article/details/95817892)
- > 无论是互联网时代，还是如今的万物互联时代，信息安全一直是一个不容忽视的问题。设备及软件的安全该如何加固以及维护，早已成为各大科技巨头们暗中较量的一大技术点。不过，即使如此...
  ## [这本Python算法书有点火~](https://blog.csdn.net/csdnnews/article/details/95818040)
  > 普通程序员，不学算法，也可以成为大神吗？对不起，这个，绝对不可以。可是算法好难啊~~看两页书就想睡觉……所以就不学了吗？就一直当普通程序员吗？如果有一本算法书，看着很轻松...
  ## [小米上市 365 天：雷军的坚守与败退](https://blog.csdn.net/csdnnews/article/details/95817821)
@@ -126,36 +132,36 @@ categories: IT NEWS
  ## [Java 面试如何坐等 offer？](https://blog.csdn.net/csdnnews/article/details/95817975)
  > 2015 年，因为工作岗位的变动，开始负责给集团招聘一些技术人员，出于对公司的负责，也为了更好的胜任技术经理的职位，在面试的这件事上，我做了大量的“功课”，首先我研究了几...
 # 人工智能 
- ## [浅谈中间件安全———Nginx](https://blog.csdn.net/qq_39326816/article/details/93491034)
- > 浅谈中间件安全———Nginx
- ## [反爬虫业务安全概览](https://blog.csdn.net/weixin_44044225/article/details/95637131)
- > 反爬虫业务安全概览
- ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
- > 大家的人工智能——决策树
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
  ## [Web安全之代码执行漏洞](https://blog.csdn.net/qq_37133717/article/details/94760485)
  > Web安全之代码执行漏洞
- ## [编程语言的一些基础概念（二）：动态函数式编程](https://blog.csdn.net/wingalong/article/details/93339704)
- > 编程语言的一些基础概念（二）：动态函数式编程
- ## [Web安全基础 | http](https://blog.csdn.net/qq_42646885/article/details/90315896)
- > Web安全基础 | http
- ## [咸鱼笔记-编程语言优缺点](https://blog.csdn.net/weixin_45020839/article/details/92989659)
- > 咸鱼笔记-编程语言优缺点
- ## [IS | 資訊安全基本需求](https://blog.csdn.net/weixin_42001132/article/details/95501133)
- > IS | 資訊安全基本需求
- ## [论人工智能与软件工程的关系](https://blog.csdn.net/weixin_43988176/article/details/92439935)
- > 论人工智能与软件工程的关系
- ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
- > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
- ## [机械工程和人工智能关系](https://blog.csdn.net/BENDAXIANNMD/article/details/92853588)
- > 机械工程和人工智能关系
- ## [《白帽子讲Web安全》| 学习笔记之HTML5安全](https://blog.csdn.net/qq_42646885/article/details/95306302)
- > 《白帽子讲Web安全》| 学习笔记之HTML5安全
- ## [闲聊人工智能产品经理（AIPM）—人工智能产品经理工作流程](https://blog.csdn.net/kepengs/article/details/92955349)
- > 闲聊人工智能产品经理（AIPM）—人工智能产品经理工作流程
- ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
- > 人工智能07 盲目搜索
- ## [编程语言应该学些什么](https://blog.csdn.net/valada/article/details/92852338)
- > 编程语言应该学些什么
+ ## [【数据库学习笔记】数据库事务处理技术 - 并发控制](https://blog.csdn.net/TheSnowBoy_2/article/details/88920238)
+ > 【数据库学习笔记】数据库事务处理技术 - 并发控制
+ ## [开发之路从数据库开始------数据库的基本概念](https://blog.csdn.net/weixin_42561846/article/details/88083989)
+ > 开发之路从数据库开始------数据库的基本概念
+ ## [WebApp 安全入门](https://blog.csdn.net/valada/article/details/93671327)
+ > WebApp 安全入门
+ ## [数据库之关系](https://blog.csdn.net/weixin_44097082/article/details/94831635)
+ > 数据库之关系
+ ## [浅谈中间件安全———Nginx](https://blog.csdn.net/qq_39326816/article/details/93491034)
+ > 浅谈中间件安全———Nginx
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
+ ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
+ > SQL存储过程和函数
+ ## [​数据库的三大范式](https://blog.csdn.net/Pandaminn/article/details/92684599)
+ > ​数据库的三大范式
+ ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
+ > 连接本地数据库和远程连接他人数据库？
+ ## [苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了](https://blog.csdn.net/WoChaotian_/article/details/95448657)
+ > 苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了
+ ## [安全U盘市场分析](https://blog.csdn.net/shoushou1hao/article/details/94400105)
+ > 安全U盘市场分析
+ ## [浅谈数据库----基于SQLsever](https://blog.csdn.net/qq_45066719/article/details/94980839)
+ > 浅谈数据库----基于SQLsever
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
 # PM 
  ## [【天天问每周精选】第79期：产品经理老了以后怎么办？](http://www.woshipm.com/it/2579803.html)
  > 有的职业可以做一辈子，例如人民教师、医生等，可以做到退休。产品经理呢？可以做一辈子吗？来脑爆一下，随着年龄的增长，30岁40岁50岁60岁产品经理这个职业走向。enjoy...
