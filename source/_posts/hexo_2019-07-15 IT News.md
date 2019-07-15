@@ -1,20 +1,24 @@
 ---
 title: 2019-07-15 IT News
 copyright: true
-date: 2019-07-15 08:01:09
+date: 2019-07-15 09:01:47
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [滚蛋吧，手机SIM卡…](http://mp.weixin.qq.com/s?src=11&timestamp=1563148804&ver=1729&signature=j-ngTp0SX41sirSOBLtG-aadPoWsMIOTc8gVG12eVJC*Fi4MnaodqCDb18MllyqlRSRNPJydSwYipPLl4Vd9MsESAJzHlU7VX4QTupc32qbEaz2MjRwS5Wktl7cf2blI&new=1)
- > 前两天，联通喊了很久的eSIM服务，终于全面开放。价格嘛，比机哥预想的要便宜。毕竟，你懂的。。这就让机哥想起来，也是前几天，机哥写5G的文章中，不少机友，想知道eSIM到底是个什么。行 8，稍微简单科普一点点...
- ## [\[报告下载\]245份深度报告，超12353页高清版PDF文件，让你快速了解汽车行业](http://mp.weixin.qq.com/s?src=11&timestamp=1563148804&ver=1729&signature=jkuaouwzg1JoLaUmuRO7*Ykk1FmiIPCCmnGXWaNL9dZOjX7tLePFx8PkFDrQ1UW2LJ9Th6tF022zzlDi3rhT-gOGIy9tSYOikLGSAOBel*nY7uhlJI9Is5jb7CHUsaBF&new=1)
- > 汽车行业240+篇顶级报告大放送！245篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享245份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [\[边缘计算\]边缘计算元年一文看懂云边协同!九大场景带来新一轮信息革命](http://mp.weixin.qq.com/s?src=11&timestamp=1563148804&ver=1729&signature=8O8YDhNVH0uUFX*YrBhW3sts3-eHam2M1cGAz5YJCkLYDC9AZcq6gT--Dx5IoNnybaxMPurt581sRCvCUsrBW1vsr-Vu7E0M4i9mb0XbwBO3aMQkNSsMXtft9XSAFerD&new=1)
- > 来源：产业智能官2019 年边缘计算备受产业关注，一度引起了资本市场的投资热潮，很多人把 2019 年称作边缘计算的元年。理性来看，造成如此火爆局势难免有一些炒作因素在推波助澜，毕竟边缘计算的概念存世也已多...
- ## [华为神秘新品曝光：号称网络零延迟 颠覆传统设备](http://mp.weixin.qq.com/s?src=11&timestamp=1563148804&ver=1729&signature=C6zzn-n*9BjF4vr8BK5PGFm6apWKMDQ-zn7at6R8QMlWqrHK5idCYZFt1VVwJeCpCogHa-Jxsi7Qs6qf1ByshXNz5qLOPirjW6ZyGcRlgSs3CGaZfTy16tTieLwjESdO&new=1)
+ ## [华为神秘新品曝光：号称网络零延迟 颠覆传统设备](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=C6zzn-n*9BjF4vr8BK5PGFm6apWKMDQ-zn7at6R8QMkyFSB683DAMdFXraMh-4t219Ge4k2EKFIeu0uJYcjhUFiVswo9L*eobiQdXWo6RrwTy1sU3W9JipzJCsVf3JMP&new=1)
  > 华为设计了一款新品：通讯器材，堪称颠覆传统设备。华为这款新品本身是一个基站，但它还融入了一个局域网服务器。简单来说可以将这个产品理解为基站+无线局域网服务器。它的作用是能够支持500个终端在5公里范围...
- ## [\[C114周报\]华为董事长梁华：美方应取消禁令；中信网络再获基础电信业务牌照；思科26亿美元鲸吞Acacia](http://mp.weixin.qq.com/s?src=11&timestamp=1563148804&ver=1729&signature=LqVk3yPMXoQHViZ24ZaS5wiSNULtFphNMP5xMh-qdoU6xXrr4IupvqR2RLCv8QNQWuCI7SnyLPG0MjbaiyplNz-eyqThKcSWkczhJTwQGEUJ67vYmdWTITyuySkTvuRO&new=1)
+ ## [滚蛋吧，手机SIM卡…](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=j-ngTp0SX41sirSOBLtG-aadPoWsMIOTc8gVG12eVJBf9RtDjEo-m-033B6w*t6bv*kYE0niE5LdPHILNmr38ue9qfvUtF80e4rh8LLf5Al-TRd14wgnMSqI-RxVIhNt&new=1)
+ > 前两天，联通喊了很久的eSIM服务，终于全面开放。价格嘛，比机哥预想的要便宜。毕竟，你懂的。。这就让机哥想起来，也是前几天，机哥写5G的文章中，不少机友，想知道eSIM到底是个什么。行 8，稍微简单科普一点点...
+ ## [再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=NpeT*j0x-lec12p63zim9Wy3dpZ4odhl*jvQA6ODdjqSe0Y01K012go5QqN6fQlwK4yS*VnkJhllkjR4XkkbGNGPDAAhyEpnCRGalZz2We7spS*MMhRB0F4cPret2ig5&new=1)
+ > 图 / 来源网络本文来源网络，版权归原作者所有这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核弹，炸的整...
+ ## [\[边缘计算\]边缘计算元年一文看懂云边协同!九大场景带来新一轮信息革命](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=8O8YDhNVH0uUFX*YrBhW3sts3-eHam2M1cGAz5YJCkKbsbY1plWUN7OF1MKZu6HCgUl4mivpzBGRmarHLFp*CfS1G8uFLn9*QPi3kRrEjBKb1itvfsKsXRgBUTyZIjIM&new=1)
+ > 来源：产业智能官2019 年边缘计算备受产业关注，一度引起了资本市场的投资热潮，很多人把 2019 年称作边缘计算的元年。理性来看，造成如此火爆局势难免有一些炒作因素在推波助澜，毕竟边缘计算的概念存世也已多...
+ ## [震惊：联通怒了!造谣者：你的胆子怎这么大?!](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=9FYsWHHtpGltZSZONgjm7Fwa7VIjfZbx9I51mU2Ydrd0VUnhj8SPRaEYLfCAiT6JPPOTsEn3zJ4oWVKWlfJGTopr6lNmczizXpY5gH1ekh7vn8jJzWC3BKsZqbZEsDc4&new=1)
+ > 7月13日晚，中国联通微信公众号和官方微博同时发布名为《造谣者，你的胆子怎么这么大？！》的文章。文中称，近日，公司注意到有关自媒体编造“不支持华为的企业，居然还有国内四大运营商之一”、“联通迎来大动...
+ ## [\[报告下载\]245份深度报告，超12353页高清版PDF文件，让你快速了解汽车行业](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=jkuaouwzg1JoLaUmuRO7*Ykk1FmiIPCCmnGXWaNL9dbi3CZXAsmJb3OQx5v1OGwpQfKPbLQ7NG8DX9w1CDTAE0JdStPG9W5drL6ipyWPYXkYoZmgBXGQowHXmU8BmJ1C&new=1)
+ > 汽车行业240+篇顶级报告大放送！245篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享245份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
+ ## [\[C114周报\]华为董事长梁华：美方应取消禁令；中信网络再获基础电信业务牌照；思科26亿美元鲸吞Acacia](http://mp.weixin.qq.com/s?src=11&timestamp=1563152405&ver=1729&signature=LqVk3yPMXoQHViZ24ZaS5wiSNULtFphNMP5xMh-qdoWBbmGWaRndy2H6R31mBhUWptfXtz10ZOvTwmx8*6vYcFFGSjZBLzU15Sgx6wNkAfuvCOJAw2j0rexlpKanBOkb&new=1)
  > 周报WEEKLY本周热点有华为董事长梁华：美方应取消禁令；中信网络再获基础电信业务牌照；思科26亿美元鲸吞Acacia• 第052期 •华为董事长梁华：美方应取消禁令7月12日华为反对美国政府将其置于管理“实体名单”，...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,80 +77,117 @@ categories: IT NEWS
  > MacOS系统中如何设置Python虚拟环境
  ## [扪心自问，你真的熟练掌握MQ了吗？](http://developer.51cto.com/art/201907/599412.htm)
  > 扪心自问，你真的熟练掌握MQ了吗？
+ ## [支付宝开源非侵入式 Android 自动化测试工具 Soloπ](http://news.51cto.com/art/201907/599540.htm)
+ > Soloπ（SoloPi）是支付宝开源的一个无线化、非侵入式的Android自动化测试工具，公测版拥有录制回放、性能
+ ## [2019年6月份Github上热门的JavaScript开源项目！](http://developer.51cto.com/art/201907/599538.htm)
+ > 6月份GitHub比较热门的JavaScript开源项目新鲜出炉，一起和猿妹盘点一下本月上榜的都有哪些项目。
+ ## [VS Code 新扩展，面向 Web 开发人员调试 DOM](http://news.51cto.com/art/201907/599537.htm)
+ > 微软项目经理 Paul Gildea  发博说，他们针对 Web 开发人员，发布了一个新的 VS Code 扩展―― Elements fo
+ ## [物联网世界中的Wi-Fi](http://iot.51cto.com/art/201907/599534.htm)
+ > 我们已经写了不少Wi-Fi方面的文章，但我最近注意到的是，几乎每个人都在谈论NB-IoT、LTE-M、LoRa、Sigfox或
+ ## [新商标表明华为鸿蒙系统在海外或叫做“Harmony OS”](http://news.51cto.com/art/201907/599536.htm)
+ > 本月早些时候在接受法国新闻周刊杂志《观点》(Le Point)采访的时候，余承东表示鸿蒙系统将会在今年年底之前
+ ## [一篇文章教你如何捕获前端错误](http://news.51cto.com/art/201907/599539.htm)
+ > 随着前端页面承载功能越来越多，用户本地浏览器环境也错综复杂，因此即使有完善的测试，我们也无法保证上线
+ ## [别把工业互联网平台当做一种“撩客”手段](http://iot.51cto.com/art/201907/599533.htm)
+ > 最近，两家知名研究机构IDC和Gartner几乎同时发布了工业互联网平台的格局图，横向对比这3张图，会产生一些
+ ## [Golang 到底姓什么？开发者想移除谷歌 logo](http://news.51cto.com/art/201907/599535.htm)
+ > 前阵子有个 Golang 相关的话题引起了许多人的讨论，那就是“Go 是谷歌的语言，而不是社区的”，该观点认为
  ## [微软正在尝试干掉Windows 10的传统密码](http://os.51cto.com/art/201907/599532.htm)
  > 在推行微软账户与Windows 10紧密联动之后，干掉账户密码似乎成为了微软心中的一道坎。从Windows 10预览版的
- ## [物联网正在进入供应链：接下来会发生什么？](http://iot.51cto.com/art/201907/599530.htm)
- > 近年来，创新的迅猛发展――尤其是嵌入式传感器技术、可穿戴设备和应用程序的激增，已经在短短几年内引起了
- ## [在Linux中如何从命令行查找VirtualBox版本](http://os.51cto.com/art/201907/599531.htm)
- > 当在我的 Ubuntu 无头服务器上使用 Virtualbox 时，我需要知道 VirtualBox 的版本。如果它有 GUI，我可以进
- ## [消除物联网卡安全隐患的四大原则，看这里你就知道啦](http://iot.51cto.com/art/201907/599529.htm)
- > 如何确保物联网卡应用的安全性，成为企业衡量物联网公司实力的关键。要想搭建安全的物联网智能系统，在定制
- ## [二层网络安全你知道多少](http://netsecurity.51cto.com/art/201907/599527.htm)
- > 二层转发的转发表是MAC表，设备通过MAC表查找报文的出接口，如果查表失败，报文就会进行广播，所以广播风暴
- ## [物联网医疗设备的10个现实案例](http://iot.51cto.com/art/201907/599526.htm)
- > 全世界数以百万计的人已经开始依赖于医疗物联网设备，以下是这些设备及其帮助治疗疾病的10个例子，以及生产
- ## [区块链资源汇总](https://blog.csdn.net/Samurai77/article/details/94024364)
- > 区块链资源汇总
- ## [安全生产预警管理系统](https://blog.csdn.net/seolutong/article/details/95043919)
- > 安全生产预警管理系统
- ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
- > 提权与信息收集-安全牛学习笔记
- ## [区块链倪老师：《区块链思维》第一章](https://blog.csdn.net/weixin_44693781/article/details/93879776)
- > 区块链倪老师：《区块链思维》第一章
- ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
- > 【区块链】简单理解区块链是什么
- ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
- > 大数据开发需要学习什么？大数据平台是什么？
- ## [web安全笔记(2)](https://blog.csdn.net/youyou519/article/details/92251616)
- > web安全笔记(2)
- ## [反爬虫业务安全概览](https://blog.csdn.net/weixin_44044225/article/details/95637131)
- > 反爬虫业务安全概览
- ## [Linux进阶_加密和安全](https://blog.csdn.net/weixin_42758707/article/details/93657130)
- > Linux进阶_加密和安全
- ## [我的程序人生：码农](https://blog.csdn.net/qq_37143673/article/details/93231321)
- > 我的程序人生：码农
- ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
- > 开启技术之旅——我的第一篇博客
- ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
- > 《白帽子讲Web安全》| 学习笔记之Web框架安全
- ## [web安全学习1](https://blog.csdn.net/weixin_44591106/article/details/95317512)
- > web安全学习1
- ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
- > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
- ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
- > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
+ ## [Fedora 31 及以后版本将不再支持 32 位内核已实锤](http://news.51cto.com/art/201907/599541.htm)
+ > 据 phoronix 报道，关于 Fedora 31 停止构建 32 位 x86（i 686）内核的提议在上周五的 Fedora 工程和指导
+ ## [Linux云计算学习笔记day55](https://blog.csdn.net/weixin_44922815/article/details/95121076)
+ > Linux云计算学习笔记day55
+ ## [棋牌游戏开发成为流量体 强强联合](https://blog.csdn.net/motianyougame/article/details/93502187)
+ > 棋牌游戏开发成为流量体 强强联合
+ ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
+ > 大数据和云计算技术周报（第110期)
+ ## [云计算面试题及答案，云计算主要就业岗位](https://blog.csdn.net/qfxulei/article/details/92797378)
+ > 云计算面试题及答案，云计算主要就业岗位
+ ## [Python图形用户界面和游戏开发](https://blog.csdn.net/qq_42992919/article/details/95343296)
+ > Python图形用户界面和游戏开发
+ ## [云计算之k8s系列_第九回](https://blog.csdn.net/mx_steve/article/details/95583397)
+ > 云计算之k8s系列_第九回
+ ## [架构系列（二）基于云架构的方案设计](https://blog.csdn.net/zl592886931/article/details/89790041)
+ > 架构系列（二）基于云架构的方案设计
+ ## [SOA（面向服务的架构） 架构与微服务架构的区别](https://blog.csdn.net/weixin_44530530/article/details/93972425)
+ > SOA（面向服务的架构） 架构与微服务架构的区别
+ ## [分布式架构的架构稳定性](https://blog.csdn.net/m0_38125278/article/details/95046242)
+ > 分布式架构的架构稳定性
+ ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
+ > 棋牌游戏开发做好策划方案 拥有互联网思维
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [初步掌握Yarn的架构及原理](https://blog.csdn.net/pigziprogrammer/article/details/94592780)
+ > 初步掌握Yarn的架构及原理
+ ## [微软云-CDN防盗链的配置和使用](https://blog.csdn.net/Sugoar/article/details/95307449)
+ > 微软云-CDN防盗链的配置和使用
+ ## [云计算是什么？新手学习云计算的学习路线](https://blog.csdn.net/qfxulei/article/details/94431099)
+ > 云计算是什么？新手学习云计算的学习路线
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
+ ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
+ > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [为何 5G、物联网和区块链，可以成为科技铁三角？](https://blog.csdn.net/csdnnews/article/details/95937440)
+ > 5G、物联网和区块链这三者究竟如何协同，才能在这个全球化的世界中茁壮成长？作者 |Usiagwu Michael译者 |虎说，责编 | 郭芮出品 | CSDN（ID：...
+ ## [程序员爬取 3 万条评论，《长安十二时辰》槽点大揭秘！](https://blog.csdn.net/csdnnews/article/details/95937447)
+ > 作者 | Alfred Wu责编| 伍杏玲本文经授权转载自Alfred数据室（ID:Alfred_Lab）最近，悄悄上线的《长安十二时辰》在朋友圈被吹爆了：年度最佳古装...
+ ## [“你！别跟风学Python！”刷屏背后，醍醐灌顶！](https://blog.csdn.net/csdnnews/article/details/95937448)
+ > Python的火不容置疑！2018年起，凭借应用广效率高的特点，Python将 Java 和 C++甩出身后，很多人开始学习Python，那么你跟风了吗？笔者整理一些内容...
+ ## [物联网时代，安全该如何加固？](https://blog.csdn.net/csdnnews/article/details/95885972)
+ > 无论是互联网时代，还是如今的万物互联时代，信息安全一直是一个不容忽视的问题。设备及软件的安全该如何加固以及维护，早已成为各大科技巨头们暗中较量的一大技术点。而身为开发者的我们，又能从每次发生的安全事件中汲取哪些经验与教训？作者 | Giulio Saggin译者 | 谭开朗，责编 | 屠敏...
+ ## [程序员该如在低代码和无代码开发中抉择？](https://blog.csdn.net/csdnnews/article/details/95937443)
+ > 【CSDN编者按】“低代码开发”旨在开发人员可以通过编写少量代码就可以快速生成应用程序的一种方法。“无代码”开发平台是为那些不知道也不需要知道任何实际的编程语言来使用应用...
+ ## [漫画：如何给女朋友解释什么是适配器模式?](https://blog.csdn.net/csdnnews/article/details/95937444)
+ > 本文经授权转载自漫话编程（ID：mhcoding）责编 | 伍杏玲周末窝在家里面打王者荣耀，女朋友在旁边玩我的电脑，我嫌她播放的综艺节目声音比较大，于是建议她戴耳机。适配...
+ ## [作品拍卖价碾压毕加索，没有灵魂的 AI 灵魂画手有怎样的未来？](https://blog.csdn.net/csdnnews/article/details/95937446)
+ > ▲图: GAN的生成器与判别器在对抗中不断变强GAN给AI生成技术带来了更多地可能性，如果说AlphaGo只是陪你玩玩游戏的大师，那2018年那次让大家轰动的AI艺术品作...
+ ## [Libra 骗局来了；嫦娥五号将利用 AI 确定登陆位置；GitHub 移除色情应用 DeepNude 的开源库 | 开发者周刊...](https://blog.csdn.net/csdnnews/article/details/95937442)
+ > 整理 | 张红月出品 |CSDN（ID：CSDNnews）本周热门项目 独立开发者赚钱的资源集合（下附链接）https://github.com/lightningm...
+ ## [技术人写作如何变现？](https://blog.csdn.net/csdnnews/article/details/95937449)
+ > 在这个人人都是自媒体的时代，写篇文章似乎不是件什么难事。但是怎么通过文章去获得更多的收益和流量反而越来越考验个人的能力。单纯的只是写写文章就想脱颖而出的现象已一去不复返。...
+ ## [Python 迭代器和 C++ 迭代器，最大的不同竟然是......](https://blog.csdn.net/csdnnews/article/details/95937450)
+ > 作者 | 樱雨楼责编 | 胡巍巍前言迭代器（Iterator）是 Python 以及其他各种编程语言中的一个非常常见且重要，但又充满着神秘感的概念。无论是 Python ...
  ## [云南联通混改靴子落地，将甩掉长期亏损包袱](http://www.lanjingtmt.com/news/detail/43648.shtml)
  > 中国联通公告称，云南联通完成了省级混合所有制企业的前期各项筹备工作，混改后的云南联通省级运营公司名称确定为云南联通新通信有限公司。工信部下发5G牌照后，三大运营商已经开始新一轮的跑
 # 人工智能 
- ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
- > 20年研发管理经验谈（十三）
- ## [PAAS开发运维四](https://blog.csdn.net/qq_28513801/article/details/89511958)
- > PAAS开发运维四
- ## [运维之用户、组和权限](https://blog.csdn.net/sqsltr/article/details/94722245)
- > 运维之用户、组和权限
- ## [Python运维-Socket网络编程](https://blog.csdn.net/qq_30534935/article/details/95464392)
- > Python运维-Socket网络编程
- ## [腾讯蓝鲸一站式运维](https://blog.csdn.net/Tencentfly/article/details/90411552)
- > 腾讯蓝鲸一站式运维
- ## [PAAS开发运维七](https://blog.csdn.net/qq_28513801/article/details/89948291)
- > PAAS开发运维七
+ ## [搭建自己的区块链，人人能写区块链](https://blog.csdn.net/WKFAAAA/article/details/93301239)
+ > 搭建自己的区块链，人人能写区块链
+ ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
+ > HTML：一种标记语言而不是编程语言（5.0）
+ ## [大数据学习方法，学习大数据需要的基础和路线](https://blog.csdn.net/dvfghj/article/details/95463855)
+ > 大数据学习方法，学习大数据需要的基础和路线
+ ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
+ > 梦想还是要有的，即使被摧残着！
+ ## [【程序人生】Java Web 开发脚手架调研](https://blog.csdn.net/AV_woaijava/article/details/92966580)
+ > 【程序人生】Java Web 开发脚手架调研
+ ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
+ > 快速排序 python 代码实现
+ ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
+ > 简书：编程入门学习的困惑
+ ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
+ > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
+ ## [HTML：一种标记语言而不是编程语言（6.0）](https://blog.csdn.net/qq_40061206/article/details/94623267)
+ > HTML：一种标记语言而不是编程语言（6.0）
+ ## [区块链和可持续性](https://blog.csdn.net/weixin_44172023/article/details/92574745)
+ > 区块链和可持续性
  ## [区块链未来三年将成为数字中国建设的重要支撑](https://blog.csdn.net/Bitrade/article/details/94748962)
  > 区块链未来三年将成为数字中国建设的重要支撑
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [20年研发管理经验谈（十一）](https://blog.csdn.net/weixin_39759846/article/details/93618110)
- > 20年研发管理经验谈（十一）
+ ## [区块链的隐私性](https://blog.csdn.net/weixin_44172023/article/details/93594818)
+ > 区块链的隐私性
  ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
  > \[区块链\]初识R3-Corda，解析区块链结构
- ## [区块链分支循环](https://blog.csdn.net/weixin_44172023/article/details/94432471)
- > 区块链分支循环
- ## [【运维】ELK安装](https://blog.csdn.net/weixin_39974140/article/details/93721454)
- > 【运维】ELK安装
- ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
- > 携程敏捷总动员
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
- ## [区块链笔记-Hash算法](https://blog.csdn.net/weixin_44172023/article/details/93594568)
- > 区块链笔记-Hash算法
+ ## [Move: 一门面向资产的编程语言](https://blog.csdn.net/toafu/article/details/95307602)
+ > Move: 一门面向资产的编程语言
+ ## [SYSU-区块链原理与技术](https://blog.csdn.net/Alva112358/article/details/92800786)
+ > SYSU-区块链原理与技术
+# PM 
+ ## [亚马逊Alexa语音交互设计四范式（下）](http://www.woshipm.com/ai/2580189.html)
+ > 本文笔者将与大家分享Alexa技能设计的四大范式中的两大范式——Be Available（设计易用性）、Be Relatable（设计亲和力）。Be Available（设计易用性）构建扁平的、语...
+ ## [只有你想不到的剧本，没有快手拍不出来的“玛丽苏”短剧](http://www.woshipm.com/it/2581810.html)
+ > 你以为快手只有“老铁”“666”等内容上没有多大连续性的短视频吗？通过一段时间的观察，笔者发现快手上开始出现了大量“玛丽苏”短剧，不仅种类繁多而且还饱受欢迎。到底它有...
+ ## [线上课程 | 自学半年，你为什么还拿不到心仪的产品经理offer？](http://www.woshipm.com/active/2562864.html)
+ > 很多人想入行/转行产品经理的原因，是产品经理较高的薪资水平和快速的晋升空间。0-1年经验：产品助理，月薪参考范围：6-12k1-3年经验：产品经理，月薪参考范围：10-2...
 
     
