@@ -1,21 +1,23 @@
 ---
 title: 2019-07-16 IT News
 copyright: true
-date: 2019-07-16 08:01:11
+date: 2019-07-16 09:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [长城脚下，BAT再无车联网之争](http://mp.weixin.qq.com/s?src=11&timestamp=1563235204&ver=1731&signature=rQ7tWQfdWSE6Fi*UFJhnx-hu881-iQQdZ7oXFLW57n7wBKUHIunFvcOkSypr86yictJ8MmbyxBfYemc1*jv352T6sQxy1mq75V5KLO9oCLWLknfPTmKayts4MNqXLJEM&new=1)
- > 2019年是下一代智能网联全新开篇之年，这是汽车业与互联网企业深度纠缠的结果。文丨AutoR智驾  诺一中国互联网领域BAT争王，但在汽车智能网联领域，他们同台了。今天（7月15日），在保定哈弗技术中心长城汽车正...
- ## [我国发布两款柔性芯片 厚度不到头发丝直径1/4](http://mp.weixin.qq.com/s?src=11&timestamp=1563235204&ver=1731&signature=8Q2vHSR6FpIajj8Uz66eLIT1ALXIFZAE3n0ypChsDWqxat4IATSyw4h6aaDQkoYkMU3Okg*99MEMvkEkvDiovzbY7b22p3Vb0eDCzZGfV5WLxNUHTQYENlrHsnqE*1Lw&new=1)
- > 7月13日至14日，第二届柔性电子国际学术大会（ICFE 2019）在杭州举行。会议期间，浙江省柔性电子与智能技术全球研究中心研发团队发布了两款经减薄后厚度小于25微米的柔性芯片，其厚度不到人体头发丝直径的1/4。 ...
- ## [独家：原中国移动董事长乐观谈5G 现任一把手则暗示不要期望值过高](http://mp.weixin.qq.com/s?src=11&timestamp=1563235204&ver=1731&signature=Gngfu8EzYOA4*x5sfH3pdMF9ymkKiznwVjSSO10kRmol8y4fov38y4B0XYae05CHFZzthrjl0n32YHCdVVG7mukP*KEDGD7k5Gre2RU6r88obDkqElNGLEQKdv01T3aw&new=1)
- > 运营商财经网  八卦叨/文5G在业界引发了很大争议，由于无法预期回报，运营商对5G的积极性似乎没有外界高，但是，原中国移动董事长王建宙不这么看。在日前的一个通信业高级管理内部培训会议上，王建宙乐观表示，...
- ## [湿纸巾是干垃圾还是湿垃圾?未来AI机器人帮你垃圾分类、定时定点投放!](http://mp.weixin.qq.com/s?src=11&timestamp=1563235204&ver=1731&signature=NaFmrZ-EiApOTpoAFQEA-ojadoe5gKMFfBatvseSKyKHo7mDdVXoFFr9GBBtapjRi173SV3pe5NXDfxEFBS2PbR76v0DOE4vv4VG7EjZM6l7Rbgta41Td4Onup2YWVAx&new=1)
- > 商机推荐：丰田硬蛋启动对企业电子，新材料供应商的招募▲▲▲长按扫描二维码即可进入招募▲▲▲导读：湿纸巾是干垃圾还是湿垃圾？废玻璃是可回收物吗？这些问题，不如交给机器人？应用场景是现阶段AI发展的重要...
- ## [\[车事一条\]开创出行机器人新时代，长城汽车发布GTO全域智慧生态战略](http://mp.weixin.qq.com/s?src=11&timestamp=1563235204&ver=1731&signature=LjiyIzT4Y7*4fOI4pAHA5pEKmYnKPvXV2UKWNUq5dRdc5ZGcfNYgRLsfsAljw1Hmb8sU1IU83McsRaBSugbWyMsxXljFuVYLlvMvXEJX9D3VinyAnj981rQTrcifB0j3&new=1)
+ ## [\[车事一条\]开创出行机器人新时代，长城汽车发布GTO全域智慧生态战略](http://mp.weixin.qq.com/s?src=11&timestamp=1563238804&ver=1731&signature=LjiyIzT4Y7*4fOI4pAHA5pEKmYnKPvXV2UKWNUq5dRdc5ZGcfNYgRLsfsAljw1HmlR-zgS-ke3GaemcwVXJIjCL414QPK3Liz7khyk7PaQRLgNVjQ9dQOgOODo-URI6p&new=1)
  > 5G的来临，对于汽车工业来说，将会迎来跨时代的变革。而面对这样的机遇和挑战，谁能够先行一步，或许将会迎来未来的一大步。就在今天，“G往开来，为AI出行”--长城汽车GTO全域智慧生态战略在保定哈弗技术中心正...
+ ## [深度：中国移动得了“病”!5G也救不了?运营商们该醒醒了!](http://mp.weixin.qq.com/s?src=11&timestamp=1563238804&ver=1731&signature=i-*ImTqWWGP1HW*uzTkMSf18rJiiiPnBsseY0hujKqhb73fGz*FN1r9UkuEH5G*7qufeK1s7*WkgNCOBCPGqVmkozqTJMxYB-tiwlsKoPoipqEoarrzBUxiQz-8vlDCe&new=1)
+ > 刚刚过去的MWC2019上海世界移动大会上，中国移动董事长杨杰表示，今年以来，通信行业收入增长表现较差，中国移动2019第一季度净利润同比下滑8.3%；营运收入比上年同期下降0.3%，整体发展处于停滞状态（工信部通...
+ ## [我国发布两款柔性芯片 厚度不到头发丝直径1/4](http://mp.weixin.qq.com/s?src=11&timestamp=1563238804&ver=1731&signature=8Q2vHSR6FpIajj8Uz66eLIT1ALXIFZAE3n0ypChsDWqxat4IATSyw4h6aaDQkoYkoQFsHd7xV5DcgyHNwIAeSTPgYLd7pSGFylq1NijuWJLq3zZ2G27jre0UtWuLm--E&new=1)
+ > 7月13日至14日，第二届柔性电子国际学术大会（ICFE 2019）在杭州举行。会议期间，浙江省柔性电子与智能技术全球研究中心研发团队发布了两款经减薄后厚度小于25微米的柔性芯片，其厚度不到人体头发丝直径的1/4。 ...
+ ## [长城脚下，BAT再无车联网之争](http://mp.weixin.qq.com/s?src=11&timestamp=1563238804&ver=1731&signature=rQ7tWQfdWSE6Fi*UFJhnx-hu881-iQQdZ7oXFLW57n7wBKUHIunFvcOkSypr86yic*hnHvzTwT-nG-1ha7TdTJPjBWeLrkIcBmYj78gUz-2lx2vsn2VJ0bzwZOjrC-Bl&new=1)
+ > 2019年是下一代智能网联全新开篇之年，这是汽车业与互联网企业深度纠缠的结果。文丨AutoR智驾  诺一中国互联网领域BAT争王，但在汽车智能网联领域，他们同台了。今天（7月15日），在保定哈弗技术中心长城汽车正...
+ ## [湿纸巾是干垃圾还是湿垃圾?未来AI机器人帮你垃圾分类、定时定点投放!](http://mp.weixin.qq.com/s?src=11&timestamp=1563238804&ver=1731&signature=NaFmrZ-EiApOTpoAFQEA-ojadoe5gKMFfBatvseSKyKHo7mDdVXoFFr9GBBtapjRlimJQupWjj5PExOXbfWHxsGuo2gK3nyZ1atoI3xxsYfVGgZjaJvbn*4qjprMB7SM&new=1)
+ > 商机推荐：丰田硬蛋启动对企业电子，新材料供应商的招募▲▲▲长按扫描二维码即可进入招募▲▲▲导读：湿纸巾是干垃圾还是湿垃圾？废玻璃是可回收物吗？这些问题，不如交给机器人？应用场景是现阶段AI发展的重要...
+ ## [独家：原中国移动董事长乐观谈5G 现任一把手则暗示不要期望值过高](http://mp.weixin.qq.com/s?src=11&timestamp=1563238804&ver=1731&signature=Gngfu8EzYOA4*x5sfH3pdMF9ymkKiznwVjSSO10kRmol8y4fov38y4B0XYae05CHFD9ZDKM8mdHkoyg-GlEmwEjFhC6KfYze6ww1pRrMKaR4StTOjQ-AK-kyu0Vaug*T&new=1)
+ > 运营商财经网  八卦叨/文5G在业界引发了很大争议，由于无法预期回报，运营商对5G的积极性似乎没有外界高，但是，原中国移动董事长王建宙不这么看。在日前的一个通信业高级管理内部培训会议上，王建宙乐观表示，...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,6 +59,10 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [现代化传统应用软件的那些Docker工具](http://cloud.51cto.com/art/201907/599624.htm)
+ > 现代化传统应用软件的那些Docker工具
+ ## [技术革新不能停留于“原型”…](http://ai.51cto.com/art/201907/599620.htm)
+ > 技术革新不能停留于“原型”…
  ## [互联网公司不做“中台”会死吗？](http://news.51cto.com/art/201907/599546.htm)
  > 互联网公司不做“中台”会死吗？
  ## [一文读懂这门超越深度学习的新AI编程语言Gen](http://news.51cto.com/art/201907/599554.htm)
@@ -69,94 +75,76 @@ categories: IT NEWS
  > 来把把脉，为什么你不需要AI？
  ## [一篇讲解“服务调用”的良心之作！](http://network.51cto.com/art/201907/599549.htm)
  > 一篇讲解“服务调用”的良心之作！
- ## [华为鸿蒙系统究竟什么样？权威的信息汇总在这里](http://news.51cto.com/art/201907/599551.htm)
- > 华为鸿蒙系统究竟什么样？权威的信息汇总在这里
- ## [妖魔化程序员惹众怒，“10倍工程师”争议引发网友激烈讨论](http://news.51cto.com/art/201907/599543.htm)
- > 妖魔化程序员惹众怒，“10倍工程师”争议引发网友激烈讨论
- ## [各国5G套餐贵的离谱！我国5G如何定价？](http://network.51cto.com/art/201907/599628.htm)
- > 2019年，5G通信技术逐渐开始落地。那么，我国的三大运营商关于5G套餐收费问题又有何倾向，是徘徊在高位还是
- ## [不要害怕物联网项目会失败！](http://iot.51cto.com/art/201907/599627.htm)
- > 请记住，61%的思科调查受访者表示“我们才刚刚开始触及到物联网的表面”，所以，根据一句老话“失败是最好
- ## [如何防御基于浏览器的网络攻击](http://netsecurity.51cto.com/art/201907/599626.htm)
- > 基于浏览器的网络威胁已经是当今很多网络安全专业人事最头疼的问题，那么，我们要如何防御基于浏览器的网络
- ## [浅析物联网技术在工业园区的应用](http://iot.51cto.com/art/201907/599625.htm)
- > 随着工业园区产业发展与规模逐渐壮大，需要管理的重点要素不断增多，出现的管理问题千变万化，亟待处理的数
- ## [Linux系统CPU占用率较高问题排查思路](http://os.51cto.com/art/201907/599623.htm)
- > 作为 Linux 运维工程师，在日常工作中我们会遇到 Linux服务器上出现CPU负载达到100%居高不下的情况，如果CP
- ## [智能家居将超越企业成为最大的物联网收入驱动力](http://iot.51cto.com/art/201907/599622.htm)
- > 近年来，企业一直是物联网增长的主要驱动力，但新数据表明，智能家居将很快取代企业。
- ## [浅谈MySQL主从数据库同步延迟问题解决方案](http://database.51cto.com/art/201907/599621.htm)
- > MySQL的主从同步是一个很成熟的架构，相信大家对于它的好处已经非常了解了，在项目的部署中也采用这种方案
- ## [区块链将在2020年实现的重大改变](http://blockchain.51cto.com/art/201907/599619.htm)
- > 科技界的每家公司都已经拥有区块链战略。如果他们现在没有，他们就有可能错过了这个时代的一个机会。在过去
- ## [Windows 7完工整整10年：只剩最后半年寿命](http://os.51cto.com/art/201907/599618.htm)
- > 还剩最后六个月整整半年，Windows 7这套经典操作系统就要和我们永别了。你还在坚守Windows 7吗?
- ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
- > Window基础（黑客基础）
- ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
- > WebRTC重要API和音视频分析
- ## [Android基础-四大组件之activity(基础)](https://blog.csdn.net/qq_42391904/article/details/95255893)
- > Android基础-四大组件之activity(基础)
- ## [Android基础-四大组件之Service（基础）](https://blog.csdn.net/qq_42391904/article/details/95529565)
- > Android基础-四大组件之Service（基础）
- ## [环境变量基本操作及path环境变量](https://blog.csdn.net/weixin_45072139/article/details/94987680)
- > 环境变量基本操作及path环境变量
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [Linux基础中的基础 一](https://blog.csdn.net/Win_Le/article/details/94658782)
- > Linux基础中的基础 一
- ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
- > 深入理解  Android 组件的 exported 属性
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
+ ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
+ > 物联网的发展与应用
+ ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
+ > Java音视频播放器
+ ## [机械工程和人工智能关系](https://blog.csdn.net/BENDAXIANNMD/article/details/92853588)
+ > 机械工程和人工智能关系
+ ## [人工智能（二）——决策树算法](https://blog.csdn.net/qq_36836154/article/details/92986475)
+ > 人工智能（二）——决策树算法
+ ## [JAVA音视频解决方案----搭建RTMP流服务](https://blog.csdn.net/cuiyaonan2000/article/details/93618816)
+ > JAVA音视频解决方案----搭建RTMP流服务
  ## [JAVA音视频解决方案----video.js插件使用](https://blog.csdn.net/cuiyaonan2000/article/details/93620562)
  > JAVA音视频解决方案----video.js插件使用
- ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
- > 音视频播放、横竖屏切换
- ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
- > 好用的抖音视频剪辑软件推荐
- ## [音视频的相关名词、术语、概念](https://blog.csdn.net/weixin_40763897/article/details/94590798)
- > 音视频的相关名词、术语、概念
+ ## [闲聊人工智能产品经理（AIPM）—人工智能产品体系](https://blog.csdn.net/kepengs/article/details/92765924)
+ > 闲聊人工智能产品经理（AIPM）—人工智能产品体系
+ ## [人工智能05 计算机视觉](https://blog.csdn.net/weixin_41565471/article/details/95045394)
+ > 人工智能05 计算机视觉
+ ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
+ > 人工智能02 机器进化
  ## [IOS 音视频FFmpeg 框架分析](https://blog.csdn.net/qq_33726122/article/details/91975728)
  > IOS 音视频FFmpeg 框架分析
- ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
- > 20年研发管理经验谈（十三）
- ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
+ ## [物联网卡拉开智能家居变革序幕](https://blog.csdn.net/qq_40798435/article/details/94740789)
+ > 物联网卡拉开智能家居变革序幕
+ ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
+ > 人工智能--人脸识别
+ ## [人工智能02_有限状态机](https://blog.csdn.net/qq_35647121/article/details/93377125)
+ > 人工智能02_有限状态机
+ ## [仿微信多人音视频通话界面](https://blog.csdn.net/wanggang514260663/article/details/93167902)
+ > 仿微信多人音视频通话界面
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [深入浅出 Vue 响应式原理！](https://blog.csdn.net/csdnnews/article/details/96058008)
  > 作者 | 浪里行舟责编 | 胡巍巍Vue 最独特的特性之一，是其非侵入性的响应式系统。数据模型仅仅是普通的 JavaScript 对象。而当你修改它们时，视图会进行更新。...
+ ## [三星电子利润持续暴跌，折叠屏手机“难产”困境待解](http://www.lanjingtmt.com/news/detail/43671.shtml)
+ > 近来，三星中国区的日子不是很好过，其发布的第二季度初步财报显示，三星电子运营利润同比降56.9%至6.5万亿韩元。其“孕育”多时的折叠屏手机也出现“难产”迹象，目前处于持续跳票状态
 # 人工智能 
- ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
- > 程序人生（项目导入依赖）
- ## [Ionic3/4中如何上传图片（拍照/图片选择）](https://blog.csdn.net/ForgivenCheney/article/details/95631152)
- > Ionic3/4中如何上传图片（拍照/图片选择）
- ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
- > 今天开始写一下学习java中级每一天的知识点总结
- ## [云计算面试题及答案，AWS云计算面试题](https://blog.csdn.net/qfxulei/article/details/92797485)
- > 云计算面试题及答案，AWS云计算面试题
- ## [我的程序人生：码农](https://blog.csdn.net/qq_37143673/article/details/93231321)
- > 我的程序人生：码农
- ## [前端图片合并](https://blog.csdn.net/Simoral/article/details/92770819)
- > 前端图片合并
- ## [干货 | 学习大数据为什么要先学Java？](https://blog.csdn.net/fbnggnh/article/details/95200354)
- > 干货 | 学习大数据为什么要先学Java？
- ## [前端知识每日小拷问 002](https://blog.csdn.net/WU5229485/article/details/94971681)
- > 前端知识每日小拷问 002
- ## [前端之路--前端开发环境搭建](https://blog.csdn.net/NEW_cai/article/details/95055103)
- > 前端之路--前端开发环境搭建
- ## [写给未来的自己（20190706）](https://blog.csdn.net/weixin_43944175/article/details/94851470)
- > 写给未来的自己（20190706）
- ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
- > 使用百度图表ECharts
- ## [云计算介绍和openstack(云计算管理平台)](https://blog.csdn.net/sxjwcs/article/details/92843751)
- > 云计算介绍和openstack(云计算管理平台)
- ## [云计算之k8s系列_第九回](https://blog.csdn.net/mx_steve/article/details/95583397)
- > 云计算之k8s系列_第九回
- ## [前端常用命令](https://blog.csdn.net/gqzydh/article/details/95192973)
- > 前端常用命令
- ## [云计算是什么？新手学习云计算的学习路线](https://blog.csdn.net/qfxulei/article/details/94431099)
- > 云计算是什么？新手学习云计算的学习路线
+ ## [HTML：一种标记语言而不是编程语言（9.0）](https://blog.csdn.net/qq_40061206/article/details/95024462)
+ > HTML：一种标记语言而不是编程语言（9.0）
+ ## [「人工智能论文范文」人工智能成功的标准：行业最佳实践](https://blog.csdn.net/weixin_43539230/article/details/95621724)
+ > 「人工智能论文范文」人工智能成功的标准：行业最佳实践
+ ## [人工智能学习资源集合](https://blog.csdn.net/qq_34606196/article/details/93500777)
+ > 人工智能学习资源集合
+ ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
+ > 快速排序 python 代码实现
+ ## [区块链系列·python实现的区块链](https://blog.csdn.net/nmask/article/details/95425978)
+ > 区块链系列·python实现的区块链
+ ## [大数据处理基础之scala编程语言入门](https://blog.csdn.net/gzzBlogs/article/details/94755017)
+ > 大数据处理基础之scala编程语言入门
+ ## [论人工智能与软件工程的关系](https://blog.csdn.net/weixin_43988176/article/details/92439935)
+ > 论人工智能与软件工程的关系
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
+ > 人工智能课程推荐
+ ## [闲聊人工智能产品经理（AIPM）—人工智能产品体系](https://blog.csdn.net/kepengs/article/details/92765924)
+ > 闲聊人工智能产品经理（AIPM）—人工智能产品体系
+ ## [从零开始学编程——编程语言](https://blog.csdn.net/static_zh/article/details/93201726)
+ > 从零开始学编程——编程语言
+ ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
+ > \[区块链\]初识R3-Corda，解析区块链结构
+ ## [区块链资源汇总](https://blog.csdn.net/Samurai77/article/details/94024364)
+ > 区块链资源汇总
+ ## [人工智能02_有限状态机](https://blog.csdn.net/qq_35647121/article/details/93377125)
+ > 人工智能02_有限状态机
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
 # PM 
+ ## [线上课程 | 你想在秋招拿到产品offer吗？](http://www.woshipm.com/active/2586336.html)
+ > 有些人的秋招还没开始准备，有些人的秋招已经完美结束了！vivo、新浪、百度、阿里、华为海思的秋招提前批的offer都已经发出了！在你还在打王者农药的时候，别人已经收...
  ## [2天全程在线直播 | 7月杭州产品经理大会，商业/增长/体验……聊聊你该知道的产品新趋势](http://www.woshipm.com/active/2557949.html)
  > 7月27-28日，人人都是产品经理、起点学院、创业码头重磅打造的【2019产品经理大会·杭州站】马上就要开始啦！本次大会我们邀请了蚂蚁金服、淘宝、滴滴、丁香医生等16位...
  ## [7月8-14日热文盘点|不点开看看，你都不知道自己错过了什么！！](http://www.chanpin100.com/article/108931)
