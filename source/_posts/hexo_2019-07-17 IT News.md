@@ -1,21 +1,21 @@
 ---
 title: 2019-07-17 IT News
 copyright: true
-date: 2019-07-17 08:01:34
+date: 2019-07-17 09:01:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [只需一台Oculus Go，就能分析出你的情绪和性格](http://mp.weixin.qq.com/s?src=11&timestamp=1563321605&ver=1733&signature=cGUxcK9VRjNl2H*73x6jbkR6SNG9-y0*6bN0TMaOmy69DDsNLfYhsPpALbwXi7RtSolHxI5l3bdLXZ5kUEFLsoAiDJSldaHHCbT6Pnhl-ccUQzZ3*rEyPZKbLIFTU6cK&new=1)
- > Esther｜ 编辑前不久，青亭网曾报道Oculus在招聘大量VR/AR相关工程师，其中包括为Reality Lab负责VR/AR眼球追踪技术开发的电子工程师，暗示下一代Oculus产品可能加入眼球追踪功能。那么为什么要在VR头显中加入眼...
- ## [Windows 10或敞开语音助手大门](http://mp.weixin.qq.com/s?src=11&timestamp=1563321605&ver=1733&signature=UF42HukqOM4WI7snQgboKF1qSM5-0luAtq5biHZafFQk4ECthrJB2IWNXonhrsvDjBjq01kM*oTCXMU59HTUf1qwdN3qnOQQWlfkRbwrFAPOe*4iFFAc5FidXTFup30b&new=1)
- > 微软在近日发布的Windows 10 Build 18362.10005更新中，已经开始可以在锁屏界面激活第三方语音助手亚马逊Alexa等，并支持通过语音关键词来激活。在今年5月的Windows 1903版本更新中，微软将Cortana（微
- ## [长城：5G或许才是最好超车的弯道](http://mp.weixin.qq.com/s?src=11&timestamp=1563321605&ver=1733&signature=DI6JiLvpmgxYiAEwmx4ni9sSh3nWKEoTvINNJ1T8QTju91UrLPsTcr1oJXKjzmRxCLQbzM2vVa*iJ83f0W-xR-6X3aqhpKJjbLZPf9HyEl*WJmKK32rBI6CwPmXSG1g6&new=1)
- > 文/小白当工信部正式向中国电信、中国移动、中国联通、中国广电发放5G商用牌照时，我国正式进入了5G元年，5G的光环下，越来越多的车企们开始加入赛道，用软件来定义正在悄悄发生转变的新时代。如果说4G创造了一...
- ## [最强 OEM 朋友圈：长城如何让华为&高通&BAT 同时为它站台?](http://mp.weixin.qq.com/s?src=11&timestamp=1563321605&ver=1733&signature=y*uoZ8j6P691lSHXE5z03BAHsKUNZUrXEfPPgF7e7d*DTDPTEZki-L0wV4pj5c62FKd6wL145lpe-U2Ib1u9MSQKkHaN9mWSBQPJyF*bEOAI7eeF0CHgI*J3h1DaloqO&new=1)
- > 当 BAT &amp; 华为 &amp; 高通 &amp; 三大通信运营商站在了一起......在移动互联网的土壤之下，中国是全世界中发育最为繁盛的几个区域之一，并且呈现出非常具有本土特色的发展状态。2019 年，随着 5G、AI 以及 V2X 加快发展...
- ## [52亿次机器人每月来电，最终谁能战胜电信诈骗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563321605&ver=1733&signature=A7ed0vSnwKAOBkmgEQPPgdotSkLB0LOUw7lABhbSIa6FTB6WNjgnRWKhmPJjnlyvTrPTOBSSqg*7fUwkqtwYN9-tpcR8TWwxG4O517btUPeRQseiSOzbVt8ACV0xQgMI&new=1)
+ ## [52亿次机器人每月来电，最终谁能战胜电信诈骗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563325204&ver=1733&signature=A7ed0vSnwKAOBkmgEQPPgdotSkLB0LOUw7lABhbSIa6FTB6WNjgnRWKhmPJjnlyv25vgm2S32GbiS7e-E3qnWQs6sNGL5hhMz4iavYs8yEcJpMvhyKMyzaOQ7bitHmTp&new=1)
  > 本文转载自硅星人（ID: guixingren123）文字 | CJ编辑 | Vicky Xiao可能只有通过机器人来对抗机器人了。“这是最后一次通知……美国移民局通知，您的签证出现异常，如需咨询请按9，由专人为您服务。”正在学习中...
+ ## [Windows 10或敞开语音助手大门](http://mp.weixin.qq.com/s?src=11&timestamp=1563325204&ver=1733&signature=UF42HukqOM4WI7snQgboKF1qSM5-0luAtq5biHZafFQk4ECthrJB2IWNXonhrsvDn*Jcrr68VBbhbX5*zcjA5*LyGsfVcWrkjzc22sJDVOPbK88Uv3TVNVM0dxwO*0Q-&new=1)
+ > 微软在近日发布的Windows 10 Build 18362.10005更新中，已经开始可以在锁屏界面激活第三方语音助手亚马逊Alexa等，并支持通过语音关键词来激活。在今年5月的Windows 1903版本更新中，微软将Cortana（微
+ ## [长城：5G或许才是最好超车的弯道](http://mp.weixin.qq.com/s?src=11&timestamp=1563325204&ver=1733&signature=DI6JiLvpmgxYiAEwmx4ni9sSh3nWKEoTvINNJ1T8QTju91UrLPsTcr1oJXKjzmRxkadBGcRV1VnJYsM1M4wUEBDXoKFxApzHoqqgRmPOQD8LeHnnSsGWrganqQ4DgoF2&new=1)
+ > 文/小白当工信部正式向中国电信、中国移动、中国联通、中国广电发放5G商用牌照时，我国正式进入了5G元年，5G的光环下，越来越多的车企们开始加入赛道，用软件来定义正在悄悄发生转变的新时代。如果说4G创造了一...
+ ## [最强 OEM 朋友圈：长城如何让华为&高通&BAT 同时为它站台?](http://mp.weixin.qq.com/s?src=11&timestamp=1563325204&ver=1733&signature=y*uoZ8j6P691lSHXE5z03BAHsKUNZUrXEfPPgF7e7d*DTDPTEZki-L0wV4pj5c62-eMQpwikJEoPk3jxxh1Ny0a-SRzi7uvDP60FwBJHwACq2rz8SdivvuYNUQZVvYvI&new=1)
+ > 当 BAT &amp; 华为 &amp; 高通 &amp; 三大通信运营商站在了一起......在移动互联网的土壤之下，中国是全世界中发育最为繁盛的几个区域之一，并且呈现出非常具有本土特色的发展状态。2019 年，随着 5G、AI 以及 V2X 加快发展...
+ ## [只需一台Oculus Go，就能分析出你的情绪和性格](http://mp.weixin.qq.com/s?src=11&timestamp=1563325204&ver=1733&signature=cGUxcK9VRjNl2H*73x6jbkR6SNG9-y0*6bN0TMaOmy69DDsNLfYhsPpALbwXi7RtXZBZUP3cf3Fd2t6NidIJl9mceI5gsJ1pIYyBUYDFNKXng0VxTgaY9rnoR0toXfB7&new=1)
+ > Esther｜ 编辑前不久，青亭网曾报道Oculus在招聘大量VR/AR相关工程师，其中包括为Reality Lab负责VR/AR眼球追踪技术开发的电子工程师，暗示下一代Oculus产品可能加入眼球追踪功能。那么为什么要在VR头显中加入眼...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,6 +73,8 @@ categories: IT NEWS
  > 十个技巧，让你成为“降维”专家
  ## [未来十年很有可能消失的12大职业！看完瑟瑟发抖](http://news.51cto.com/art/201907/599581.htm)
  > 未来十年很有可能消失的12大职业！看完瑟瑟发抖
+ ## [Java还在纠结原码、补码和反码？其实So Easy](http://developer.51cto.com/art/201907/599707.htm)
+ > 平常看jdk源码的时候有很大的感触，就是基础真的很重要，那什么是基础呢?除了java的基本语法之外，最基础
  ## [IPv6通讯原理(1) - 不能忽略的网卡启动过程](http://network.51cto.com/art/201907/599706.htm)
  > 本文通过抓包分析，深入观察网卡启动过程的每个步骤，从而逐步掌握通讯原理。
  ## [分享一份实用的MySQL数据库规范，值得收藏](http://database.51cto.com/art/201907/599705.htm)
@@ -91,34 +93,34 @@ categories: IT NEWS
  > 企业物联网(IoT)包括帮助人们完成工作或改进当前流程的连接设备。以下六个例子说明了企业物联网的实际应用
  ## [2019 年度程序员吸金榜：你排第几？](https://blog.csdn.net/CSDNedu/article/details/95961375)
  > 2019 年度程序员吸金榜：你排第几？
- ## [咸鱼笔记-编程语言优缺点](https://blog.csdn.net/weixin_45020839/article/details/92989659)
- > 咸鱼笔记-编程语言优缺点
- ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
- > HTML：一种标记语言而不是编程语言（5.0）
- ## [编程语言应该学些什么](https://blog.csdn.net/valada/article/details/92852338)
- > 编程语言应该学些什么
- ## [20年研发管理经验谈（十一）](https://blog.csdn.net/weixin_39759846/article/details/93618110)
- > 20年研发管理经验谈（十一）
- ## [各类编程语言中static关键字的用法](https://blog.csdn.net/lvlynn/article/details/95348232)
- > 各类编程语言中static关键字的用法
- ## [资讯|某搜索引擎推广企业定制化内训圆满成功](https://blog.csdn.net/qinghuinanjing123/article/details/93618309)
- > 资讯|某搜索引擎推广企业定制化内训圆满成功
- ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
- > 进退博弈：恒指7.12号早盘资讯及交易计划
- ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
- > 简书：编程入门学习的困惑
- ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
- > 编程语言的一些基础概念（三）：面向对象
- ## [云杰恒指：6.20恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/92965932)
- > 云杰恒指：6.20恒指期货早盘资讯
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
- ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
- > 快速排序 python 代码实现
- ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
- > 20年研发管理经验谈（十三）
- ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
- > 华为手机自带语音转文字的功能，转换方法如下
+ ## [【运维】ELK安装](https://blog.csdn.net/weixin_39974140/article/details/93721454)
+ > 【运维】ELK安装
+ ## [老凡的运维笔记 | 智能化运维知多少？](https://blog.csdn.net/Yolanda518/article/details/94599497)
+ > 老凡的运维笔记 | 智能化运维知多少？
+ ## [运维入门之shell脚本七](https://blog.csdn.net/qq_42103479/article/details/95922149)
+ > 运维入门之shell脚本七
+ ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
+ > \[区块链\]初识R3-Corda，解析区块链结构
+ ## [SYSU-区块链原理与技术](https://blog.csdn.net/Alva112358/article/details/92800786)
+ > SYSU-区块链原理与技术
+ ## [区块链分支循环](https://blog.csdn.net/weixin_44172023/article/details/94432471)
+ > 区块链分支循环
+ ## [区块链基本常识02](https://blog.csdn.net/weixin_43958804/article/details/88661322)
+ > 区块链基本常识02
+ ## [一篇文章带你了解数字货币交易所BBEcoin](https://blog.csdn.net/weixin_42335104/article/details/95475861)
+ > 一篇文章带你了解数字货币交易所BBEcoin
+ ## [区块链系列·python实现的区块链](https://blog.csdn.net/nmask/article/details/95425978)
+ > 区块链系列·python实现的区块链
+ ## [Linux之lvs负载均衡【DR模式】](https://blog.csdn.net/qq_36016375/article/details/94914327)
+ > Linux之lvs负载均衡【DR模式】
+ ## [Flutter移动开发UI框架理解（一）](https://blog.csdn.net/oMoLin1/article/details/92801512)
+ > Flutter移动开发UI框架理解（一）
+ ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
+ > 移动开发——问卷调查
+ ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
+ > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
+ ## [区块链轻节点和SPV](https://blog.csdn.net/weixin_43927408/article/details/90414574)
+ > 区块链轻节点和SPV
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [助力开发者的魔法式“绝招儿”，你了解几个？](https://blog.csdn.net/csdnnews/article/details/96223419)
@@ -127,40 +129,52 @@ categories: IT NEWS
  > 数百种编程语言，各有优劣，各自也都有自己最为适用的场景。那么就科学计算领域而言，主流的 MATLAB、Julia、Python 会有哪些最为独特的优势呢？又存在哪些让开发者无力的缺陷？在本文中，我们将对三者进行全面对比与解析，探索科学计算各个场景中最佳的编程语言。作者 |Toby Dris...
  ## [@程序员：可以被认出是写代码的，但是不能因为格子衬衫！](https://blog.csdn.net/csdnnews/article/details/96057949)
  > 亲爱的，我今天穿什么衣服比较好呢？你女朋友早上是否也会站在试衣镜前这样询问你？醒醒，你哪里有女朋友！你分得清人家衣服的？比如：裤子：背带裤，铅笔裤，吊带裤，高腰裤，喇叭裤，背带超短裤，牛仔短裤…….上衣：T恤，短袖，小外套，防晒衣，女吊带，雪纺衬衫，女装裙……裙子：沙滩裙，...
+ ## [康得新案调查：股票红利背后，员工消失的本金](http://www.lanjingtmt.com/news/detail/43699.shtml)
+ > A股上市公司康得新事件爆发后，迅速引发业界和投资者关注。蓝鲸科创记者调查发现，受伤的除了那些深度套牢、无法解套的“韭菜们”，还有那些员工的股票分红以及消失的本金……
  ## [斗鱼终上市：3年亏22亿，能否借电竞挖掘新增长点](http://www.lanjingtmt.com/news/detail/43698.shtml)
  > 回顾斗鱼的整个上市之路，可谓几经周折：上市地点从香港到美国，上市时间从5月推迟到7月。几番“跳票”后，斗鱼终于确定于7月17日赴美上市。
 # 人工智能 
- ## [前端基础-HTML5 拖放](https://blog.csdn.net/html1997/article/details/95240560)
- > 前端基础-HTML5 拖放
- ## [前端常用命令](https://blog.csdn.net/gqzydh/article/details/95192973)
- > 前端常用命令
- ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
- > 物联网的发展与应用
- ## [物联网APP开发简介](https://blog.csdn.net/qq_39424143/article/details/93485234)
- > 物联网APP开发简介
- ## [前端学习基础第六天](https://blog.csdn.net/weixin_43629719/article/details/91640059)
- > 前端学习基础第六天
- ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
- > SQL存储过程和函数
- ## [【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）](https://blog.csdn.net/Mculover666/article/details/88972014)
- > 【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）
- ## [前端文件上传](https://blog.csdn.net/VIP__ID/article/details/93484347)
- > 前端文件上传
- ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
- > 连接本地数据库和远程连接他人数据库？
- ## [Ionic3/4中如何上传图片（拍照/图片选择）](https://blog.csdn.net/ForgivenCheney/article/details/95631152)
- > Ionic3/4中如何上传图片（拍照/图片选择）
- ## [ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的](https://blog.csdn.net/sharehu/article/details/94738219)
- > ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的
- ## [物联网实验光控小夜灯](https://blog.csdn.net/weixin_43542702/article/details/92982741)
- > 物联网实验光控小夜灯
- ## [前端学习基础第五天](https://blog.csdn.net/weixin_43629719/article/details/91516975)
- > 前端学习基础第五天
- ## [物联网碎片化问题难分难解，“物联网+”混战将持续](https://blog.csdn.net/qq_43359864/article/details/94580041)
- > 物联网碎片化问题难分难解，“物联网+”混战将持续
- ## [【前端】XSS攻击](https://blog.csdn.net/cheidou123/article/details/92758136)
- > 【前端】XSS攻击
+ ## [为何人工智能用Python这门编程语言？](https://blog.csdn.net/weichen090909/article/details/93364401)
+ > 为何人工智能用Python这门编程语言？
+ ## [20年研发管理经验谈（十）](https://blog.csdn.net/weixin_39759846/article/details/93033667)
+ > 20年研发管理经验谈（十）
+ ## [HTML：一种标记语言而不是编程语言（8.0）](https://blog.csdn.net/qq_40061206/article/details/94875296)
+ > HTML：一种标记语言而不是编程语言（8.0）
+ ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
+ > 5G时代到来 棋牌游戏开发技术如虎添翼
+ ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
+ > HTML：一种标记语言而不是编程语言（5.0）
+ ## [【面经】4399面经-游戏开发实习生（已拿offer）](https://blog.csdn.net/qq_38702445/article/details/93889136)
+ > 【面经】4399面经-游戏开发实习生（已拿offer）
+ ## [C++连连看游戏开发，简单编程实例，一看就会！](https://blog.csdn.net/weixin_44679141/article/details/95352625)
+ > C++连连看游戏开发，简单编程实例，一看就会！
+ ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
+ > 学习 Unity 3D游戏开发日常笔记
+ ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
+ > 编程语言的一些基础概念（三）：面向对象
+ ## [Python图形用户界面和游戏开发](https://blog.csdn.net/qq_42992919/article/details/95343296)
+ > Python图形用户界面和游戏开发
+ ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
+ > 棋牌游戏开发做好策划方案 拥有互联网思维
+ ## [棋牌游戏开发成为流量体 强强联合](https://blog.csdn.net/motianyougame/article/details/93502187)
+ > 棋牌游戏开发成为流量体 强强联合
+ ## [【游戏开发日志】【Unity】day_one](https://blog.csdn.net/slozer/article/details/95307348)
+ > 【游戏开发日志】【Unity】day_one
+ ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
+ > 20年研发管理经验谈（十三）
+ ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
+ > Atlassian In Action-Jira之核心插件（三）
 # PM 
+ ## [交互内容会是媒体的未来吗？全球行业互动案例一览](http://www.woshipm.com/it/2596454.html)
+ > 《黑镜：潘达斯奈基》除了引起影迷的狂热讨论外，还将“交互”这一内容类型正式提上全球内容从业者的日程。交互内容会成为短视频新一轮的增长点吗？观众话语权提升的趋势...
+ ## [以个人信用贷流程为例，认识风控要点](http://www.woshipm.com/it/2594609.html)
+ > 本文以个人信贷流程为例子，分享了贷前审核、贷中跟踪、贷后管理中的注意要点，以及需要了解的风控关键词。开始这篇文章之前首先介绍一下，我作为非金融专业出身，这...
+ ## [短视频“双雄”启示录：四个维度决定家居行业掘金方向](http://www.woshipm.com/it/2589098.html)
+ > 抖音和快手，为什么能成为影响、引导、改革众多人生活方式的产品甚至是一种文化符号？家居行业又该如何借抖音快手的势，进一步发展呢？“老铁双击666！”“在夜半三更...
+ ## [私域流量集中于微信，并非好事！](http://www.woshipm.com/operate/2595409.html)
+ > 自从“私域流量”概念火了之后，微信就成了“私域流量”的代名词，仿佛没有微信就做不起私域流量了，而这种想法很危险，甚至会不利于互联网行业的长期发展。互联网行业内...
+ ## [UI设计经验分享：用实战教你界面改版](http://www.woshipm.com/pd/2591922.html)
+ > 本文笔者将用自己的一个真实案例，来与大家解析产品界面改版从需求到设计的完整过程。之前为大家分享过很多工作的案例，很多伙伴表示收获颇多，之所以分享工作案例是...
  ## [产品经理必懂的用户研究方法](http://www.chanpin100.com/article/108945)
  > 互联网行业的用户研究实际上和传统行业有非常大的不同，但我们很多研究人员实际上还是沿用了传统市场研究的理念和方法，结果效果并不好。在这里，我们总结了几个常见的误区，希望能够对从事互联网行业的用户研究的朋友起到参考作用。
  ## [数据中台实战（三）：用户分析（产品设计篇）](http://www.chanpin100.com/article/108940)
