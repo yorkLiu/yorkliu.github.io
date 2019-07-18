@@ -1,21 +1,23 @@
 ---
 title: 2019-07-18 IT News
 copyright: true
-date: 2019-07-18 08:01:03
+date: 2019-07-18 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [自动驾驶汽车是一种监视工具](http://mp.weixin.qq.com/s?src=11&timestamp=1563408005&ver=1735&signature=Nl*pRM73rYN7DzQIRAcH6rYARbQ-4CuVROZtQXT7kUIiQ63CMwWtlngUM6f7xJOtjScw0teRBfRHJb9bcVqKNAYXxpaNWQsa3GPF*6b05iuxMwTi6QlLSD7O2kBDGk60&new=1)
- > Photo: GM在自动驾驶汽车即将到来的时代，用户可能需要额外付费来确保其行踪的隐私。如今，大多数司机仍然记得，以前的GPS是由一个插入汽车点烟器的便携式设备提供的，安装在挡风玻璃的吸盘上。但在iPhone问世后...
- ## [在智能汽车领域，华为走到哪一步了?](http://mp.weixin.qq.com/s?src=11&timestamp=1563408005&ver=1735&signature=f9I-WqTXsn7Yaw0EnfIZsfEUAkTZR37HeLqdz4hdDbEbkZrzmja0fUWnjvVZmYJDAC2lwwOEzOuawqgS*cF7eHXVLic5xEA2zdmIVxhOJfkf08F*4bMxeJpG31sYF0gb&new=1)
- > 雅斯顿原创文章 | 哈尔 7月5日，自然资源网站公示了包括华为在内的7家单位申报地图甲级测绘资质的申请。如无意外，10个工作日内，华为将获得该项资质。此后华为将成为我国第20家可以合法制作自动驾驶地图（高精...
- ## [从疯狂想法到逐步推进，马斯克Neurallink的脑机接口梦](http://mp.weixin.qq.com/s?src=11&timestamp=1563408005&ver=1735&signature=akHujKKjXM1KFu79EriNVhbt-uiiy8Rnokdv3AvDngjF2pIXP-PradL5uJbLs6gY8ixPenuHGGBNxvs6G3sFsubMF5qP3DteA1ofusjj-eqY0FMi6j0sXFwWxwDtfLPd&new=1)
- > Esther｜ 编辑上周，特斯拉老板埃隆·马斯克（Elon Musk）所创办的脑机接口公司Neuralink就透露将在本周举行发布会，向大家展示在过去两年里取得的科研进展。据悉，Neuralink成立于2016年，自成立以来一直比较神...
- ## [燃油车能够实现智能化吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563408005&ver=1735&signature=cGFyL*WsCnWxnPExi3euhzdEAmoJyYxpORVo9Bqyme4tkcjUthFXK-eqRoA3TdGn6bKNsERxbmszoqnJq3GrJ0nYMem-57Tcq1mKqzW-5Iq4Fm863NYMcejs-SqZjrne&new=1)
- > 最近在后台有很多留言，一个比较普遍的问题是，尽管大多数人承认智能汽车是未来，但他们的问题在于：为什么燃油车就不能智能化呢？ 对于这个问题，我们的观点比较明确，燃油车并不能实现智能化。 回答这个问题，...
- ## [\[报告\]2019中国商用车行业案例分析——中国重汽(附17页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563408005&ver=1735&signature=JRvoMOlrnDU1bwBN9ThPc45Kdr604lUvi25tw*SxQ1uhw-LObSW51ZmCY3jgRH-K*B3QBeWwE4mxTVUW5qnJkYPmUCC1m9c*SBNO85q*j*H-kKP1p2sWwifBuznLFDii&new=1)
+ ## [\[报告\]2019中国商用车行业案例分析——中国重汽(附17页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563411604&ver=1735&signature=JRvoMOlrnDU1bwBN9ThPc45Kdr604lUvi25tw*SxQ1tIcoRfg*SKr7vsYaC47dHSYYjKGny4GLxTUCQkF-zxRjLkSySzBKUkKk3IYIQ5b*70BrW5GhmPOxFn9COZ7OjL&new=1)
  > 中国重汽的前身是济南汽车制造厂，于1960年成功生产了我国第一辆重型卡车黄河牌J N150载货车，是我国重卡的发源地。与世界著名重卡制造商曼公司形成战略合作，引进吸收斯太尔及曼的技术，打造SITRAK、HOWO 、斯...
+ ## [燃油车能够实现智能化吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1563411604&ver=1735&signature=cGFyL*WsCnWxnPExi3euhzdEAmoJyYxpORVo9Bqyme5*-hNLY5Kn58aXD6GOuy7TwOkF9W34Vnpht8RLfH7MHWKvv8OVJ4CTNFzvdV9KYOAIGni6*uTtxj7gyuLlS7Re&new=1)
+ > 最近在后台有很多留言，一个比较普遍的问题是，尽管大多数人承认智能汽车是未来，但他们的问题在于：为什么燃油车就不能智能化呢？ 对于这个问题，我们的观点比较明确，燃油车并不能实现智能化。 回答这个问题，...
+ ## [也许，运营商只剩下退市一条路!](http://mp.weixin.qq.com/s?src=11&timestamp=1563411604&ver=1735&signature=exb*XwKHqHU6MiS6eXEtQoy-QrcTdotuUUnUeff9BwSlaIXYyJTztEs22NLS5UC*qvT9biYm7yOwejm*nSMD2XIVQOCZbK2EDCtTSPQJw6rfXTMaM9Wh9MV5T-ftVVkk&new=1)
+ > 早上听到新闻，“某省运营商宽带免费送要求配手机资费保底套餐，专家称缺乏诚意的背后是满满套路。”叹息一声，觉得运营商确实有些可怜，虽然运营商的确有些地方做的不到位，但现在觉得对电信业逼得太紧。也许，...
+ ## [自动驾驶汽车是一种监视工具](http://mp.weixin.qq.com/s?src=11&timestamp=1563411604&ver=1735&signature=Nl*pRM73rYN7DzQIRAcH6rYARbQ-4CuVROZtQXT7kUJGTeIOj2jOqLDYRHPCHg6roFOXZwhbIS5KjW5CwFQeEX2gmwS4sFC2km2x3ux4sdAKcpDGgsucnl49oxEuT1Wg&new=1)
+ > Photo: GM在自动驾驶汽车即将到来的时代，用户可能需要额外付费来确保其行踪的隐私。如今，大多数司机仍然记得，以前的GPS是由一个插入汽车点烟器的便携式设备提供的，安装在挡风玻璃的吸盘上。但在iPhone问世后...
+ ## [从疯狂想法到逐步推进，马斯克Neurallink的脑机接口梦](http://mp.weixin.qq.com/s?src=11&timestamp=1563411604&ver=1735&signature=akHujKKjXM1KFu79EriNVhbt-uiiy8Rnokdv3AvDngi3iewfb*EVlHV8Ko-P-4JNYILkjAub6A-k1VwYvaKGrp5pK*z5P4-5i-dMYf3qXLWURRHSJozrTX3N6AzHwyY2&new=1)
+ > Esther｜ 编辑上周，特斯拉老板埃隆·马斯克（Elon Musk）所创办的脑机接口公司Neuralink就透露将在本周举行发布会，向大家展示在过去两年里取得的科研进展。据悉，Neuralink成立于2016年，自成立以来一直比较神...
+ ## [在智能汽车领域，华为走到哪一步了?](http://mp.weixin.qq.com/s?src=11&timestamp=1563411604&ver=1735&signature=f9I-WqTXsn7Yaw0EnfIZsfEUAkTZR37HeLqdz4hdDbFdFUCs00YDa*f8xSsfZTqV0y1qDn8mb*hitSspkezP8PxMNJ4N0irPLxFNgg9SLdpy1or-FOzLH59wi2nuJjw7&new=1)
+ > 雅斯顿原创文章 | 哈尔 7月5日，自然资源网站公示了包括华为在内的7家单位申报地图甲级测绘资质的申请。如无意外，10个工作日内，华为将获得该项资质。此后华为将成为我国第20家可以合法制作自动驾驶地图（高精...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,76 +75,94 @@ categories: IT NEWS
  > 技术人具备“结构化思维”意味着什么？
  ## [边缘计算时代的到来会给AI带来哪些影响？](http://ai.51cto.com/art/201907/599696.htm)
  > 边缘计算时代的到来会给AI带来哪些影响？
+ ## [谷歌大脑新算法，不折腾TPU就能加快AI训练速度](http://news.51cto.com/art/201907/599786.htm)
+ > 训练神经网络，硬件要过硬？现在谷歌提出强有力反驳。GPU和像谷歌TPU这样的硬件加速器大大加快了神经网络的
+ ## [分布式系统的负载均衡 | 架构干货](http://developer.51cto.com/art/201907/599785.htm)
+ > 记得第一次接触 Nginx 是在实验室，那时候在服务器部署网站需要用 Nginx 。Nginx 是一个服务组件，用来反向
+ ## [Java界最神秘技术ClassLoader，吃透它看这一篇就够了](http://news.51cto.com/art/201907/599783.htm)
+ > ClassLoader 是 Java 届最为神秘的技术之一，无数人被它伤透了脑筋，摸不清门道究竟在哪里。本文我带读者彻
+ ## [物联网发展趋势之七（2019）](http://iot.51cto.com/art/201907/599782.htm)
+ > 根据物联网发展历史，我将物联网发展分为三个阶段：概念引领阶段、技术引领阶段和应用引领阶段，现在物联网
+ ## [路由策略入门](http://network.51cto.com/art/201907/599781.htm)
+ > 对于网络工程师来说，路由策略的部署随处可见，无论在运营商IP网络还是在企业网中，路由策略的应用都是非常
  ## [网络工程师必须了解的ARP知识](http://network.51cto.com/art/201907/599778.htm)
  > 大多数情况下，设备可以通过ARP协议动态学习和更新ARP表项。设备是如何进行动态学习的呢?其实动态ARP主要是
  ## [为什么物联网需要人工智能才能成功？](http://iot.51cto.com/art/201907/599780.htm)
  > 随着连网设备和传感器的快速扩展，它们创建的数据量将呈指数级增长，而随之而来的最大问题是如何分析这些海
- ## [Python 快速入门实战教程](https://blog.csdn.net/valada/article/details/79982704)
- > Python 快速入门实战教程
- ## [Android性能调优：App启动速度优化](https://blog.csdn.net/weixin_45258969/article/details/95484968)
- > Android性能调优：App启动速度优化
- ## [区块链系列·python实现的区块链](https://blog.csdn.net/nmask/article/details/95425978)
- > 区块链系列·python实现的区块链
- ## [Java 设计模式-适配器设计模式](https://blog.csdn.net/qq_45386055/article/details/96033025)
- > Java 设计模式-适配器设计模式
- ## [一篇文章带你了解数字货币交易所BBEcoin](https://blog.csdn.net/weixin_42335104/article/details/95475861)
- > 一篇文章带你了解数字货币交易所BBEcoin
- ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
- > 软件设计师考试经历
- ## [程序人生-杂谈python](https://blog.csdn.net/nicai_xiaoqinxi/article/details/94215001)
- > 程序人生-杂谈python
- ## [张萌&韩墨羽——Dialog对话框](https://blog.csdn.net/Zephyr_0312/article/details/94758347)
- > 张萌&amp;韩墨羽——Dialog对话框
- ## [大数据能做什么,为什么学习大数据](https://blog.csdn.net/fbnggnh/article/details/95321007)
- > 大数据能做什么,为什么学习大数据
- ## [三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer](https://blog.csdn.net/Android_SE/article/details/96141934)
- > 三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer
- ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
- > 程序人生（项目导入依赖）
- ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
- > 大数据开发需要学习什么？大数据平台是什么？
- ## [写给未来的自己（20190706）](https://blog.csdn.net/weixin_43944175/article/details/94851470)
- > 写给未来的自己（20190706）
- ## [18年往届菜鸟的编程进阶路](https://blog.csdn.net/S_body/article/details/96006047)
- > 18年往届菜鸟的编程进阶路
- ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
- > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [抖音视频下载改md5](https://blog.csdn.net/dawer66951/article/details/94337501)
+ > 抖音视频下载改md5
+ ## [云计算面试题及答案，云计算岗位精品面试题](https://blog.csdn.net/qfxulei/article/details/92796973)
+ > 云计算面试题及答案，云计算岗位精品面试题
+ ## [木马——云计算04](https://blog.csdn.net/Yvette_Lucifer/article/details/95054197)
+ > 木马——云计算04
+ ## [仿微信多人音视频通话界面](https://blog.csdn.net/wanggang514260663/article/details/93167902)
+ > 仿微信多人音视频通话界面
+ ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
+ > 抖音视频置顶？抖音视频置顶功能全解！
+ ## [云计算之mysql高可用_PXC](https://blog.csdn.net/mx_steve/article/details/93380094)
+ > 云计算之mysql高可用_PXC
+ ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
+ > 物联网不断发展创新 物联网卡仍是主力
+ ## [IOS 音视频FFmpeg 框架分析](https://blog.csdn.net/qq_33726122/article/details/91975728)
+ > IOS 音视频FFmpeg 框架分析
+ ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
+ > 好用的抖音视频剪辑软件推荐
+ ## [物联网APP开发简介](https://blog.csdn.net/qq_39424143/article/details/93485234)
+ > 物联网APP开发简介
+ ## [转战物联网·基础篇01-物联网之我见](https://blog.csdn.net/yyykj/article/details/93850492)
+ > 转战物联网·基础篇01-物联网之我见
+ ## [医疗行业需要物联网卡能做什么？](https://blog.csdn.net/qq_40798435/article/details/95628250)
+ > 医疗行业需要物联网卡能做什么？
+ ## [深圳云计算培训：新手学习云计算的规划](https://blog.csdn.net/qq_37124438/article/details/94630274)
+ > 深圳云计算培训：新手学习云计算的规划
+ ## [基于物联网的智能家居](https://blog.csdn.net/weixin_43532158/article/details/95323836)
+ > 基于物联网的智能家居
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [重磅 | 京东云区块链数据服务（BDS）正式开源！](https://blog.csdn.net/csdnnews/article/details/96403441)
  > 作者 |京东云BDS团队区块链由很多区块按时间顺序串联起来构成的，在每个区块中存储交易、账号等相关信息。每个区块就像一本纸账本，上面记录了很多人每天的流水账。如果我们想...
+ ## [淘宝洋葱盒子升级为洋淘，对标小红书的社区之路怎么走？](http://www.lanjingtmt.com/news/detail/43723.shtml)
+ > 近期，淘宝内部孵化的用户评价社区产品“洋葱盒子”悄然升级，变身为“洋淘”；同时，淘宝商品详情页上的“买家相册”也相应调整为“洋淘买家秀”，侧重展现优质的图片及短视频评论。
 # 人工智能 
- ## [Python 快速入门实战教程](https://blog.csdn.net/valada/article/details/79982704)
- > Python 快速入门实战教程
- ## [数据库设计之冗余、索引以及查询优化](https://blog.csdn.net/Wu_Shang001/article/details/96038159)
- > 数据库设计之冗余、索引以及查询优化
- ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
- > SQL存储过程和函数
- ## [Spring--总体架构](https://blog.csdn.net/demon7552003/article/details/93377793)
- > Spring--总体架构
- ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
- > 软件设计师考试经历
- ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
- > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
- ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
- > 大数据开发需要学习什么？大数据平台是什么？
- ## [数据库并发操作的有关知识](https://blog.csdn.net/weixin_43393412/article/details/96164370)
- > 数据库并发操作的有关知识
- ## [两场雨的程序人生](https://blog.csdn.net/Mr_carry/article/details/95533590)
- > 两场雨的程序人生
- ## [大数据学习路线图 让你精准掌握大数据技术学习](https://blog.csdn.net/dvfghj/article/details/95049128)
- > 大数据学习路线图 让你精准掌握大数据技术学习
- ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
- > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
- ## [Java 设计模式-适配器设计模式](https://blog.csdn.net/qq_45386055/article/details/96033025)
- > Java 设计模式-适配器设计模式
- ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
- > 关系数据库标准语言——SQL
- ## [架构系列（二）基于云架构的方案设计](https://blog.csdn.net/zl592886931/article/details/89790041)
- > 架构系列（二）基于云架构的方案设计
- ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
- > 开启技术之旅——我的第一篇博客
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [JAVA音视频解决方案----搭建RTMP流服务](https://blog.csdn.net/cuiyaonan2000/article/details/93618816)
+ > JAVA音视频解决方案----搭建RTMP流服务
+ ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
+ > 音视频开发--音视频的基础知识--音频
+ ## [聊聊微服务架构的优缺点](https://blog.csdn.net/claram/article/details/94552998)
+ > 聊聊微服务架构的优缺点
+ ## [微服务架构与SpringCloud](https://blog.csdn.net/qq_34160679/article/details/94378860)
+ > 微服务架构与SpringCloud
+ ## [老凡的运维笔记 | 智能化运维知多少？](https://blog.csdn.net/Yolanda518/article/details/94599497)
+ > 老凡的运维笔记 | 智能化运维知多少？
+ ## [【运维】ELK安装](https://blog.csdn.net/weixin_39974140/article/details/93721454)
+ > 【运维】ELK安装
+ ## [仿微信多人音视频通话界面](https://blog.csdn.net/wanggang514260663/article/details/93167902)
+ > 仿微信多人音视频通话界面
+ ## [抖音视频下载改md5](https://blog.csdn.net/dawer66951/article/details/94337501)
+ > 抖音视频下载改md5
+ ## [Linux之Docker 添加用户认证](https://blog.csdn.net/qq_36016375/article/details/96048239)
+ > Linux之Docker 添加用户认证
+ ## [Kappa架构与Lambda架构比较](https://blog.csdn.net/haibucuoba/article/details/94444374)
+ > Kappa架构与Lambda架构比较
+ ## [JAVA音视频解决方案----video.js插件使用](https://blog.csdn.net/cuiyaonan2000/article/details/93620562)
+ > JAVA音视频解决方案----video.js插件使用
+ ## [初步掌握Yarn的架构及原理](https://blog.csdn.net/pigziprogrammer/article/details/94592780)
+ > 初步掌握Yarn的架构及原理
+ ## [\[Linux\]运维面试(四)](https://blog.csdn.net/qq_44839276/article/details/94742599)
+ > \[Linux\]运维面试(四)
+ ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
+ > 好用的抖音视频剪辑软件推荐
 # PM 
+ ## [竞品分析：“淘宝直播”为何能实现爆发式增长？](http://www.woshipm.com/evaluating/2596927.html)
+ > 本文主要从“淘宝直播”的发展历程、产品定位、主要功能、运营手段等方面进行分析，以产品视角总结淘宝直播实现业务高速增长的关键因素。“直播电商”是最近几年兴起的一...
+ ## [互动视频要火，它的未来在哪里？](http://www.woshipm.com/it/2600682.html)
+ > 自从B站开始做互动视频后，这个词一直频繁出现在大众视野中，有很多作者对如何做互动视频展开了详细的分析，而在本文中，笔者主要探讨互动视频的未来。目前，从腾讯视...
+ ## [UI设计师如何助力PM的原型图？](http://www.woshipm.com/pd/2591974.html)
+ > 本文笔者将从产品分析五要素——用户、行为、目标、场景、媒介，来讲述：UI设计师如何在产品设计之前对产品进行分析？前段时间准备跟朋友开发一个垂直领域新闻类的产品...
  ## [【吐血总结】给产品新手的五点小建议](http://www.chanpin100.com/article/108959)
  > 全局意识，输出能力，多问，沟通，总结
  ## [AI数据分析在救灾工作中的应用与尝试](http://www.chanpin100.com/article/108956)
