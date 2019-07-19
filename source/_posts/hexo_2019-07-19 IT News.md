@@ -1,21 +1,23 @@
 ---
 title: 2019-07-19 IT News
 copyright: true
-date: 2019-07-19 08:01:04
+date: 2019-07-19 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [别骗我，这不是苹果的AR眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1563494404&ver=1737&signature=e0-foHlTRerv9dnx*Z*C9pxT*MH9-yyX6Hmsxl8Ts9pYEtROXSiErHvSwQLl1wqOJX3IxlTebFLRyfqUOUgZ9DhnaSfUc4rSjPvEVE97CF8RLMJ9qO1uzv*a5O*RAjvQ&new=1)
- > 苹果的AR眼镜好像真的凉了......上周，DigiTimes发布了一份报告称，苹果已经在5月份悄悄解散了AR/VR硬件团队，而且此前有报道称，团队负责人Avi Bar-Zeev已经离职。年初的时候郭明錤还预测苹果会在 2020 年推出...
- ## [超越华为，位居美国第一!刚刚，又一家中国科技巨头危险了](http://mp.weixin.qq.com/s?src=11&timestamp=1563494404&ver=1737&signature=n9f4Vyn5qTUPIhlS*JQL4K4tJeE2CKO0Os8NL4u8H0gmaQCWvjkGNoNL0WlMs4vHxU3W7okiuWMW4zp*ZC2WY4tCVvZCx6RqdXCLo82I3xmOsBILTpKao4WuX0mPkY3m&new=1)
- > 来源：首席财经观察（ID：meirijingji001）作者：周松涛中国越强大，美国越打击，看好一个苗头打击一个。甚至不惜举全国之力，针对华为，令世界一片哗然，让无数人认识到了华为的强大。但实际上，很多人不知道的...
- ## [\[报告\]新能源汽车后补贴时代，整车厂“三电”产业链布局策略(附15页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563494404&ver=1737&signature=IP0zEh-Ac0k1lQ*Kgd14MCsPZCdtPl6sGbx0LkIQHDi-rHF8g*f4vx6exb3VF3bB5HyLr62cHz2W2*fIC1X9PJsUWvF4PZg2zOVW8BViAkFJ7eWSkdwvxLcckQvESmdL&new=1)
+ ## [\[报告\]新能源汽车后补贴时代，整车厂“三电”产业链布局策略(附15页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563498004&ver=1737&signature=IP0zEh-Ac0k1lQ*Kgd14MCsPZCdtPl6sGbx0LkIQHDi-rHF8g*f4vx6exb3VF3bB*UhVezNPpuFbodB938xn-GigIGTBAXz5rTeWYr7ft1*fveeX1VtdSLpVKwYBaI7E&new=1)
  > 新能源汽车重构了并行于传统汽车的产业链条，产业链整体呈现三大关键发展特征：供应商掌握话语权，整车厂成本控制能力受到挑战；未来零部件行业将整体出现产能过剩趋势，但优质资源依旧不足；产业链大部分利润向...
- ## [马斯克输了!让大脑连手机做些快活事，他们20年前就想到了](http://mp.weixin.qq.com/s?src=11&timestamp=1563494404&ver=1737&signature=cFoPDwPv-14sTwGgg0qCXHplRK5mwyAWiDma0IPlpIDYqbDlvvgJMJhDxQYeIAFz8K53nbYPxinXbCxlBl3N*vOqZLCsQzmADdZk*NW3cNyAlcr5woSORloVKcDKCYye&new=1)
- > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：阿花&gt;&gt;&gt;长在一颗小星星底下马斯克是个梦想家，可回收火箭探索火星、在真空管道中的建超级高铁，星际移民计划都是他的创意。但硅谷钢铁侠还有一个更大的梦想：开发脑机接...
- ## [三个理由告诉你，为什么要装电信宽带?](http://mp.weixin.qq.com/s?src=11&timestamp=1563494404&ver=1737&signature=QTlabfs0tOqZFg6Fy0GphIfRFJL5JS8uVNUNDNGfDJmACFeC-dL2yhcrY-1uHNSsQXJ-Th9WaOVdzgZ06ybhCUhV29wou7pwqe8Mn4fby1tGyhDQIuTxbSfcZaU7EXKo&new=1)
+ ## [三个理由告诉你，为什么要装电信宽带?](http://mp.weixin.qq.com/s?src=11&timestamp=1563498004&ver=1737&signature=QTlabfs0tOqZFg6Fy0GphIfRFJL5JS8uVNUNDNGfDJmACFeC-dL2yhcrY-1uHNSsIrwhLG0siFqwSPsb7HKkrdekgWy5FzJjd3f5Fww-MNIc1XqB6hrEqMgMooG79-Zk&new=1)
  > 1、速度好作为国内最优秀的宽带服务商，电信速度是最快的。快的原因：通讯基础设施最多，很多宽带服务商其实租用的还是电信的线路，另外所有大型网站均有电信出口。 2、服务好运营商之间比拼，除了纸面上的硬实...
+ ## [北京传来大消息!美国彻底慌了!!](http://mp.weixin.qq.com/s?src=11&timestamp=1563498004&ver=1737&signature=vFtowlhy78qsaZ5FCA4vRGxsXuC6MKmG6mqVo2aioCROIqWJLTw0b4aAgrp2WGkvRr2Ro7hFAgPghI46zajw-FEAtoLZRtrBLrDpBWCc8sTtOwx7pbhyVRTPtbyFOx1B&new=1)
+ > 一卧薪尝胆三十年，祖国终于等到这一天。中国第一款5g手机是华为研发的，原本我以为中国仅有一个华为，毕竟相对于赚钱，营销搞销量；搞研发又费时，又费钱，回报还不稳定；搞不好就是竹篮打水一场空。我是真的没...
+ ## [马斯克输了!让大脑连手机做些快活事，他们20年前就想到了](http://mp.weixin.qq.com/s?src=11&timestamp=1563498004&ver=1737&signature=cFoPDwPv-14sTwGgg0qCXHplRK5mwyAWiDma0IPlpIDYqbDlvvgJMJhDxQYeIAFzX9oxdgs1ps9snHm8q85XEUc2KDba6g0QUSZUS62NUngn5LkrBisTvHjgbYP95UXu&new=1)
+ > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：阿花&gt;&gt;&gt;长在一颗小星星底下马斯克是个梦想家，可回收火箭探索火星、在真空管道中的建超级高铁，星际移民计划都是他的创意。但硅谷钢铁侠还有一个更大的梦想：开发脑机接...
+ ## [别骗我，这不是苹果的AR眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1563498004&ver=1737&signature=e0-foHlTRerv9dnx*Z*C9pxT*MH9-yyX6Hmsxl8Ts9pYEtROXSiErHvSwQLl1wqOATMT3KWrQNCQd86EuKAtQjJLILW6G-TeRugyexBe-Zlqa2QudCi67aJTj1LAMFGc&new=1)
+ > 苹果的AR眼镜好像真的凉了......上周，DigiTimes发布了一份报告称，苹果已经在5月份悄悄解散了AR/VR硬件团队，而且此前有报道称，团队负责人Avi Bar-Zeev已经离职。年初的时候郭明錤还预测苹果会在 2020 年推出...
+ ## [超越华为，位居美国第一!刚刚，又一家中国科技巨头危险了](http://mp.weixin.qq.com/s?src=11&timestamp=1563498004&ver=1737&signature=n9f4Vyn5qTUPIhlS*JQL4K4tJeE2CKO0Os8NL4u8H0gmaQCWvjkGNoNL0WlMs4vHlcaJmVeBYgxLOl-m07LLWML024N0sNsRf8MRVU1GhnhbMYnQoVwV38JYUWpY7YSK&new=1)
+ > 来源：首席财经观察（ID：meirijingji001）作者：周松涛中国越强大，美国越打击，看好一个苗头打击一个。甚至不惜举全国之力，针对华为，令世界一片哗然，让无数人认识到了华为的强大。但实际上，很多人不知道的...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,12 +59,12 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [面向企业网络的九大带宽监控工具](http://network.51cto.com/art/201907/599833.htm)
+ > 面向企业网络的九大带宽监控工具
  ## [用玻璃创造“空间芯片”，让扭曲空间具备算力，几乎无能耗无延迟](http://news.51cto.com/art/201907/599846.htm)
  > 用玻璃创造“空间芯片”，让扭曲空间具备算力，几乎无能耗无延迟
  ## [火爆美国却突遇警告：“变脸应用FaceApp是俄国人搞的，别用了”](http://news.51cto.com/art/201907/599845.htm)
  > 火爆美国却突遇警告：“变脸应用FaceApp是俄国人搞的，别用了”
- ## [面向企业网络的九大带宽监控工具](http://network.51cto.com/art/201907/599833.htm)
- > 面向企业网络的九大带宽监控工具
  ## [Kafka设计原理看了又忘，忘了又看？](http://os.51cto.com/art/201907/599791.htm)
  > Kafka设计原理看了又忘，忘了又看？
  ## [IDC时评：强国竞逐的6G或许是“镜花水月”！](http://network.51cto.com/art/201907/599826.htm)
@@ -73,84 +75,116 @@ categories: IT NEWS
  > IHS Markit：对象存储是本地IT投入的头号对象
  ## [前端开发者常用的9个JavaScript图表库](http://developer.51cto.com/art/201907/599794.htm)
  > 前端开发者常用的9个JavaScript图表库
+ ## [Java架构-SpringCloud分布式架构权限管理](http://developer.51cto.com/art/201907/599865.htm)
+ > 本文讨论分布式架构权限管理的两种情况，一种是针对统一授权访问的，一种是跨平台接口访问的。
+ ## [物联网路灯如何让城市变得更加智能](http://iot.51cto.com/art/201907/599864.htm)
+ > 当大多数人想到“智慧城市”时，路灯并不是他们想到第一个的东西，但目前遍布全球城市的数亿根路灯杆正越来
+ ## [解决SpringBoot多模块发布时99%的问题](http://news.51cto.com/art/201907/599863.htm)
+ > 本文归纳了以下 8 个原则和发布时经常出现的 4 个问题的解决方案，掌握了这些原则和解决方案，几乎可以解决
+ ## [微软计划将 Rust 作为 C 和 C++ 的安全替代品](http://news.51cto.com/art/201907/599860.htm)
+ > 微软正在探索使用 Rust 编程语言作为 C、C++ 和其他语言的替代方案，以此来改善应用程序的安全状况。
+ ## [JavaScript九大面试问题集锦，助你顺利通关！](http://developer.51cto.com/art/201907/599861.htm)
+ > 本文将介绍一些面试时关于JavaScript的常见问题，以及一些突发难题。当然，每次面试都是不同的，你也可能不
+ ## [消息队列、消息代理和消息中间件的区别和联系](http://developer.51cto.com/art/201907/599859.htm)
+ > 如果你经常看技术文章应该听过「消息队列」、「消息代理」和「消息中间件」这三个词，它们有什么区别和联系
  ## [WiFi被嫌弃 欧盟或选5G作为车联网通信标准](http://news.51cto.com/art/201907/599858.htm)
  > 日前，欧盟成员国就一项采用Wi-Fi作为未来车联网通信标准的计划进行投票。21个欧盟国家对此投了反对票――
  ## [供应链从物联网中获益的六种方式](http://iot.51cto.com/art/201907/599857.htm)
  > 物联网（IOT）正在改变我们看待一切事物的方式，从在家做饭和储存食物，到跟踪产品从工厂转移到货架。物流
+ ## [YugaByte DB数据库把企业版功能100%开源还不收费](http://news.51cto.com/art/201907/599862.htm)
+ > YugaByte DB 是一个高性能、云原生的分布式 SQL 数据库，包括企业版和社区版两个版本。
  ## [内行客户评估欺骗防御方案会问供应商的11个问题](http://netsecurity.51cto.com/art/201907/599856.htm)
  > 现在市场上不缺欺骗防御类产品，本文介绍能够对不同的欺骗防御方案作出初步评估和筛选的11个问题，避免用户
- ## [加速时光，让你永远70岁的「变老神器」FaceAPP突然爆红，却恐遭美国封杀](http://zhuanlan.51cto.com/art/201907/599855.htm)
- > 近几天网上最热的话题是「看看他老了以后的样子」。总部位于俄罗斯圣彼得堡的 Wireless Lab 掀起了一次社交
- ## [为什么TCP 要采用「3次握手」建立连接？1个例子教会你](http://network.51cto.com/art/201907/599854.htm)
- > TCP作为一种可靠传输控制协议，其核心思想：既要保证数据可靠传输，又要提高传输的效率，而用三次恰恰可以
- ## [2019年物联网平台的发展前景](http://iot.51cto.com/art/201907/599853.htm)
- > 物联网的领域很宽泛，这也就意味着在帮助企业获得竞争优势方面有很多可供选择的地方。如果你是一家想把物联
- ## [被误解的数据驱动！没有这一步，你的数据决策就是白忙活一场](http://zhuanlan.51cto.com/art/201907/599852.htm)
- > 你要想通过数据驱动做出决策，那么就必须完全依赖数据。这听起来似乎很简单，但实际上却很难做到，很重要的
  ## [CSDN日报190718:如何走出人生低谷](https://blog.csdn.net/blogdevteam/article/details/96424389)
  > CSDN日报190718:如何走出人生低谷
- ## [浅谈数据库的安全保护](https://blog.csdn.net/qq_45066719/article/details/95173912)
- > 浅谈数据库的安全保护
- ## [数据库复习知识点](https://blog.csdn.net/hwy499/article/details/94725397)
- > 数据库复习知识点
- ## [Spark通信架构](https://blog.csdn.net/weixin_45194374/article/details/94556023)
- > Spark通信架构
- ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
- > Encoder-Decoder架构与注意力机制
- ## [微服务架构 VS 单体架构](https://blog.csdn.net/nausealiu/article/details/94406526)
- > 微服务架构 VS 单体架构
- ## [MySql知识点汇总--笔经面经](https://blog.csdn.net/weixin_40945195/article/details/95373418)
- > MySql知识点汇总--笔经面经
- ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
- > 架构杂谈《四》
- ## [Linux运维之LNMP架构（openresty）](https://blog.csdn.net/weixin_44828950/article/details/94165692)
- > Linux运维之LNMP架构（openresty）
- ## [一百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/96075233)
- > 一百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [Spring--总体架构](https://blog.csdn.net/demon7552003/article/details/93377793)
- > Spring--总体架构
- ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
- > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
- ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
- > 微服务架构的核心关键点
- ## [Django-drf架构 分页的详解](https://blog.csdn.net/Fe_cow/article/details/93217759)
- > Django-drf架构 分页的详解
- ## [redis主从架构](https://blog.csdn.net/u014513171/article/details/92803463)
- > redis主从架构
+ ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
+ > 爬虫基础：HTTP基本原理
+ ## [区块链分支循环](https://blog.csdn.net/weixin_44172023/article/details/94432471)
+ > 区块链分支循环
+ ## [区块链系列·python实现的区块链](https://blog.csdn.net/nmask/article/details/95425978)
+ > 区块链系列·python实现的区块链
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [开发常用网址收藏](https://blog.csdn.net/yanmuchen/article/details/83445532)
+ > 开发常用网址收藏
+ ## [Java基础（一）环境变量的配置和如何运行自己的第一个java文件](https://blog.csdn.net/qq_41615348/article/details/95585175)
+ > Java基础（一）环境变量的配置和如何运行自己的第一个java文件
+ ## [环境变量基本操作及path环境变量](https://blog.csdn.net/weixin_45072139/article/details/94987680)
+ > 环境变量基本操作及path环境变量
+ ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
+ > 人工智能知识点总结
+ ## [搭建自己的区块链，人人能写区块链](https://blog.csdn.net/WKFAAAA/article/details/93301239)
+ > 搭建自己的区块链，人人能写区块链
+ ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
+ > 深入理解  Android 组件的 exported 属性
+ ## [闲聊人工智能产品经理（AIPM）—人工智能产品体系](https://blog.csdn.net/kepengs/article/details/92765924)
+ > 闲聊人工智能产品经理（AIPM）—人工智能产品体系
+ ## [ZT交易所即将上线BRC（贝尔链）](https://blog.csdn.net/weixin_44452342/article/details/95049283)
+ > ZT交易所即将上线BRC（贝尔链）
+ ## [「人工智能论文范文」人工智能成功的标准：行业最佳实践](https://blog.csdn.net/weixin_43539230/article/details/95621724)
+ > 「人工智能论文范文」人工智能成功的标准：行业最佳实践
+ ## [golang 简单的区块链](https://blog.csdn.net/po2656233/article/details/94361575)
+ > golang 简单的区块链
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [金山云肖江：5G 驱动智慧人居新发展](https://blog.csdn.net/csdnnews/article/details/96472410)
+ > 肖江在CSDN 5G程序员技术沙龙演讲，下同作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）每个人心里有一个理想的家的模样，其中智能，可能是大家对家的共同期盼...
+ ## [Github Trending被中文项目“占领”，国外开发者不开心了！](https://blog.csdn.net/csdnnews/article/details/96472415)
+ > 责编 | 一一出品 | AI科技大本营（ID:rgznai100）近日，一位叫Balazs Saros 的国外开发者在Medium上发表了一篇名为&quot;Chinese rep...
+ ## [豆瓣评分 9.7，等了好久的《操作系统导论》Operating Systems 终于来了](https://blog.csdn.net/csdnnews/article/details/96472416)
+ > 豆瓣评分9.7，等了好久的《操作系统导论》（Operating Systems:Three Easy Pieces）终于出版啦。本书作者是美国威斯康星大学计算机系教授（夫...
+ ## [现在的 C 语言仍值得程序员学习吗？](https://blog.csdn.net/csdnnews/article/details/96472412)
+ > 时至今日，技术界的各种新编程语言层出不穷，提供的功能特性也是应有尽有，那么古老的 C 语言又是凭什么屹立不倒？是否仍值得程序员学习？作者 |肖楠译者 |弯月，责编 |...
+ ## [云数据库时代已来，程序员该如何出击？](https://blog.csdn.net/csdnnews/article/details/96472413)
+ > 在数据库出现之前，尽管数据无处不在，但很少的人会去浏览记录系统的完整的数据。第一次信息爆炸时代后，对思考结构化信息，产生了长久的影响。数据库的实践，框架和使用在当时被开创...
+ ## [AI 降噪、多平台支持，在线课程背后的黑科技大公开！](https://blog.csdn.net/csdnnews/article/details/96472419)
+ > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）互联网让知识变得触手可及，当程序员想系统学习某一项技术时，相信很多人会采用便捷的在线听课。在线教育不再受限于地...
+ ## [华为拍月亮申请专利；魅族黄章回应李楠离职；GoLand 2019.2 Beta 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/96472411)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [为何有 60% 的程序员拒绝公开讨论薪资？](https://blog.csdn.net/csdnnews/article/details/96472420)
+ > 历来，程序员是一门令人向往的职位，不仅是因为其代表着需要高技术高智商的人加入，更是因为相比其他行业，其薪资要高出很多。不过据调查发现，就技术人自身而言，他们并不想在公开场...
+ ## [53K！拿下阿里Python岗，这些技术点全考了！](https://blog.csdn.net/csdnnews/article/details/96472421)
+ > Python又上热搜了！”，最近笔者在逛脉脉时，发现这样的一条信息：看完后，我相信大家和我一样，what，Python这么时候值钱了？本篇文章，我将帮大家搞定两大疑问：1...
 # 人工智能 
- ## [安全U盘市场分析](https://blog.csdn.net/shoushou1hao/article/details/94400105)
- > 安全U盘市场分析
+ ## [MySql知识点汇总--笔经面经](https://blog.csdn.net/weixin_40945195/article/details/95373418)
+ > MySql知识点汇总--笔经面经
  ## [Django-drf架构 分页的详解](https://blog.csdn.net/Fe_cow/article/details/93217759)
  > Django-drf架构 分页的详解
  ## [可扩展架构介绍](https://blog.csdn.net/hgstclyh/article/details/93379657)
  > 可扩展架构介绍
- ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
- > 《白帽子讲Web安全》| 学习笔记之Web框架安全
- ## [医疗行业需要物联网卡能做什么？](https://blog.csdn.net/qq_40798435/article/details/95628250)
- > 医疗行业需要物联网卡能做什么？
- ## [一种针对物联网设备设计的数据模型](https://blog.csdn.net/weixin_37878740/article/details/96036158)
- > 一种针对物联网设备设计的数据模型
- ## [架构系列（二）基于云架构的方案设计](https://blog.csdn.net/zl592886931/article/details/89790041)
- > 架构系列（二）基于云架构的方案设计
- ## [Linux进阶_加密和安全](https://blog.csdn.net/weixin_42758707/article/details/93657130)
- > Linux进阶_加密和安全
- ## [物联网协议--MQTT整理](https://blog.csdn.net/weixin_42411153/article/details/94840046)
- > 物联网协议--MQTT整理
- ## [物联网项目---购买阿里云服务器（云主机）](https://blog.csdn.net/qq_41204464/article/details/93199907)
- > 物联网项目---购买阿里云服务器（云主机）
- ## [【物联网】如何在物联网平台开发](https://blog.csdn.net/lsj960922/article/details/93024941)
- > 【物联网】如何在物联网平台开发
- ## [物联网协议CoAP](https://blog.csdn.net/sbddbfm/article/details/95484763)
- > 物联网协议CoAP
- ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
- > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
- ## [物联网实验光控小夜灯](https://blog.csdn.net/weixin_43542702/article/details/92982741)
- > 物联网实验光控小夜灯
+ ## [微服务架构与SpringCloud](https://blog.csdn.net/qq_34160679/article/details/94378860)
+ > 微服务架构与SpringCloud
+ ## [Python图形用户界面和游戏开发](https://blog.csdn.net/qq_42992919/article/details/95343296)
+ > Python图形用户界面和游戏开发
+ ## [数据库的结构设计](https://blog.csdn.net/XiYoumengshen/article/details/96197338)
+ > 数据库的结构设计
+ ## [数据库MySQL总结（自我复习用）](https://blog.csdn.net/lisaaaaaas0405/article/details/95644255)
+ > 数据库MySQL总结（自我复习用）
+ ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
+ > 架构杂谈《四》
+ ## [数据库设计之冗余、索引以及查询优化](https://blog.csdn.net/Wu_Shang001/article/details/96038159)
+ > 数据库设计之冗余、索引以及查询优化
  ## [SOA（面向服务的架构） 架构与微服务架构的区别](https://blog.csdn.net/weixin_44530530/article/details/93972425)
  > SOA（面向服务的架构） 架构与微服务架构的区别
+ ## [数据库并发操作的有关知识](https://blog.csdn.net/weixin_43393412/article/details/96164370)
+ > 数据库并发操作的有关知识
+ ## [浅谈数据库----基于SQLsever](https://blog.csdn.net/qq_45066719/article/details/94980839)
+ > 浅谈数据库----基于SQLsever
+ ## [【游戏开发日志】【Unity】day_one](https://blog.csdn.net/slozer/article/details/95307348)
+ > 【游戏开发日志】【Unity】day_one
+ ## [C++连连看游戏开发，简单编程实例，一看就会！](https://blog.csdn.net/weixin_44679141/article/details/95352625)
+ > C++连连看游戏开发，简单编程实例，一看就会！
+ ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
+ > 关系数据库标准语言——SQL
 # PM 
+ ## [繁华背后，社交电商危机何解？](http://www.woshipm.com/it/2605181.html)
+ > 笔者为我们总结了社交电商背后的趋势以及行业乱象，并进一步分析了解决之道。近年来，中国电商行业风起云涌，传统电商用户增速大幅放缓，流量红利消失殆尽。而与之相...
+ ## [B端硬件产品追溯过程分析](http://www.woshipm.com/pd/2605392.html)
+ > 本篇文章主要讲了B端硬件产品的追溯系统的重要性和具体的使用规范，供大家参考和学习。概述B端硬件产品实施周期过程中，并不只是单一销售过程，可能还包含有试用、现...
+ ## [产品经理必备技能：功能流程图](http://www.woshipm.com/pmd/2071481.html)
+ > 功能流程图的应用频率其实没有业务流程图那么高，但也非常重要。一、定义功能流程图是描写系统或模块内部的功能流向的图表。一般来讲，功能流程图描述的是单个模块...
+ ## [作为设计师，你要学会偷懒！](http://www.woshipm.com/zhichang/2600473.html)
+ > 懂得延迟满足的人，最后都获得了庆幸的人生。身为设计师，工作这些年以来，我慢慢养成了一个习惯，那就是偷懒。不光自己偷懒，我还琢磨别人怎么偷懒。这其中的乐趣很...
  ## [产品经理周报第 76 期｜微信浮窗可同时设置5个浮窗；菜鸟裹裹推出退换货“可视化”功能](http://www.woshipm.com/it/2605407.html)
  > 大家早上好呀，今天又是周五了最近两天沿海地区有台风来袭，大家要注意安全携带雨具也是必备的，因为下的雨有时候是热的，难免会烫伤那我们现在，来了解一下这周都...
  ## [产品人性说：恐惧与懒惰](http://www.chanpin100.com/article/108968)
