@@ -1,7 +1,7 @@
 ---
 title: 2019-07-19 IT News
 copyright: true
-date: 2019-07-19 10:01:25
+date: 2019-07-19 12:01:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,21 +62,31 @@ AI&#25945;&#32946;&#20844;&#21496;&#8220;&#20316;&#19994;&#30418;&#23376;&#8221;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [别骗我，这不是苹果的AR眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=e0-foHlTRerv9dnx*Z*C9pxT*MH9-yyX6Hmsxl8Ts9qggg56VgzzGMy7frimNmEw4UXO4lHxiUADCb3ODozFMnW2f7B9B2LApkOKBcnn6E0DqXECGbjvXIXJvWwn2Gdu&new=1)
- > 苹果的AR眼镜好像真的凉了......上周，DigiTimes发布了一份报告称，苹果已经在5月份悄悄解散了AR/VR硬件团队，而且此前有报道称，团队负责人Avi Bar-Zeev已经离职。年初的时候郭明錤还预测苹果会在 2020 年推出...
- ## [5G手机|中兴天机Axon 10 Pro 5G版获进网许可证](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=XLu-fRVAqkog9kCEGIGF0OyKiLjmwJYS1hMzuVMKj6lMwEcq-BL1a4qRQyatlx64Qay7wj3caZnvecq2eOLcMGHgscIjjudjW0fuCkiVD4XlJDRkcKilPcmAV0UI2GSR&new=1)
+ ## [拍月亮的人注意了，“拍月亮”已是华为专利了!](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=BNrfMKDTsYK0TlOY5HUbu2UkKT3hhrugGBa6EsF4fqggEgj0qxc1bUps4K0ds0H1PZV49EugQ*xIIMVkOo8E251JGCLeKCfbIBgueWMNgaHPndHkK7uArHqnWrep45r1&new=1)
+ > 17日，国家知识产权局公布了华为一项专利，名为“一种拍摄月亮的方法和电子设备”，专利申请号为201910134047．X，专利申请日是2019年2月22日。华为拍月亮专利原理专利内容中介绍了华为是如何清晰拍摄月亮照片的...
+ ## [网络安全人才供不应求 一出校门就被抢光](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=gu3MIT0ahp038SSl5JVyP8KIt2Lg4yK5fEYPCQK7PN-IgAyZEJOTUKjTg8si*1rPPnu7qDeybsUdGyxbO-rng7CZD8rRCimo1rBPQmq-VkDY02GV0OoRujZY9N7ZA6OW&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com近日，瑞星网络安全学院历时四个月的1902期《网络安全工程师职业培训》已圆满结束，所有学员顺利结业的同时就业率达到100%，且用人企业对于网络安全工程师的需...
+ ## [马斯克的新技术能让猴子控制电脑，明年人类测试](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=ORnNFxRhe-KJ4syKgVI0rZu7BICfacvivtAkFkYMsPRZxaduGKlONeOmac7ftsnHr1bMEf0NwJxJDW-u8QhPTeeOKQU6t1y0UXmEXXH9tPhL1fmRhM-rNdDt6ITjwnfk&new=1)
+ > 最终，人类可以摆脱键盘、鼠标、触屏甚至语音，和机器直接进行信号交换。精力无限的伊隆·马斯克 (Elon Musk) 创办并运营着好几家公司，从电动车制造商特斯拉，到私营航天公司 SpaceX，到挖地道的 Boring Compan...
+ ## [突出临床思维，服务医患两端——上海长海医院云影像智慧医疗数据平台建设案例分享(下)](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=ukni*mw8QbavRF4DIZo99atUAz0tJgJYb4y-9H29CIjYFIOCiFIK0toTiIW5*Fwwle0auC7sogENqofTBrcq**UBzjG2CAcHQ9l6CZXDU7wxnzTJ-Ybyxe3DNlWvtmMC&new=1)
+ > 本文为海军军医大学第一附属医院影像医学科主任陆建平与信息科主任王志勇联合署名文章。从医学影像现状与需求、解决思路、上海长海医院云影像智慧医疗数据平台建设应用情况等方面与大家分享，供各位同行参考。全...
+ ## [\[报告\]5G车路协同创新应用白皮书2019版(附36页PDF版文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=IP0zEh-Ac0k1lQ*Kgd14MCsPZCdtPl6sGbx0LkIQHDho*TApuHSQorrN2wJGt3xuKApNKki*YfB3g8QtdTO5UtQ3ZvkteoQ32xs5SqBC70IgZg64iUabHOf*bR0OQlv-&new=1)
+ > 车路协同是将道路、车辆以及技术进行有效融合，通过先进的无线通信和互联网技术，实现车与车、车与路、车与人、车与网络的实时数据交互，帮助乘客和车辆选择更好的出行路径，改善道路规划、建设和管理，提升交通...
+ ## [5G手机|中兴天机Axon 10 Pro 5G版获进网许可证](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=XLu-fRVAqkog9kCEGIGF0OyKiLjmwJYS1hMzuVMKj6lMwEcq-BL1a4qRQyatlx64pRocy5PuD8qe2Kq3bE47Uvfe*sWwdiFdIFfsNe2dVNl7EP2wMTl8ls9Ft35q7vtO&new=1)
  > 导读     中兴天机Axon 10 Pro 5G版获得工业和信息化部颁发的“5G终端电信设备进网许可证”，其在自建现网实验网下，以EN-DC技术，最早实现2Gbps速率。       ICCSZ讯 7月18日，中兴天机Axon 10 Pr
- ## [三个理由告诉你，为什么要装电信宽带?](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=QTlabfs0tOqZFg6Fy0GphIfRFJL5JS8uVNUNDNGfDJl84zymBVEgSl2LTAQoIDHDOy9Uj42elIdJ*6572tO3pb41WlFJzSI-1640-QU1qGhHOgP1cHdLAbcKCv3KP-T6&new=1)
- > 1、速度好作为国内最优秀的宽带服务商，电信速度是最快的。快的原因：通讯基础设施最多，很多宽带服务商其实租用的还是电信的线路，另外所有大型网站均有电信出口。 2、服务好运营商之间比拼，除了纸面上的硬实...
- ## [北京传来大消息!美国彻底慌了!!](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=vFtowlhy78qsaZ5FCA4vRGxsXuC6MKmG6mqVo2aioCRjBJtqy8f1-joJr5WucblaolMrlxyBONO6s3FIXo8FYfrJ0KpFdR9hgiwJHoO0av7eiBNj-3w5jtSSLNXXH5E*&new=1)
- > 一卧薪尝胆三十年，祖国终于等到这一天。中国第一款5g手机是华为研发的，原本我以为中国仅有一个华为，毕竟相对于赚钱，营销搞销量；搞研发又费时，又费钱，回报还不稳定；搞不好就是竹篮打水一场空。我是真的没...
- ## [我想让几何机器人摸爬滚打，成为美丽的强者造福人类|姚燕安](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=ZtdGWxLQnfMed4sn2Tnx5CKAOq-akhnw*U7wq9ACXslrkDwOsySrr2jebqDahfl9hskd20qQgb9u-31zqyhhRai3k7ve130xW3SoWQovDwj7j4oohFzQe3x0rif*kFEl&new=1)
+ ## [我想让几何机器人摸爬滚打，成为美丽的强者造福人类|姚燕安](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=ZtdGWxLQnfMed4sn2Tnx5CKAOq-akhnw*U7wq9ACXslrkDwOsySrr2jebqDahfl95Ia3vtWQOA*pHJB5OUnbm1jTBt9*qAsTBTn7C9KoFPUx2PR3nThd0TtyakYkUNvu&new=1)
  > 能抢险救援，能探测星球，甚至维护世界和平…“几何机器人“究竟能有多强大的力量？北京交通大学机械与电子控制工程学院教授、北京交通大学机器人研究中心执行副主任姚燕安和我们分享：《我想让几何机器人摸爬滚...
- ## [\[报告\]新能源汽车后补贴时代，整车厂“三电”产业链布局策略(附15页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=IP0zEh-Ac0k1lQ*Kgd14MCsPZCdtPl6sGbx0LkIQHDi11Slo0V52eXI1LAG9KF6denudQ8Ftl4YXilEim10DtkAsbATEo96EYF*EJMSs-cJDqeDlYV8DtkEkTfJSF1aB&new=1)
+ ## [别骗我，这不是苹果的AR眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=e0-foHlTRerv9dnx*Z*C9pxT*MH9-yyX6Hmsxl8Ts9qggg56VgzzGMy7frimNmEwELuISpAg1W6l2blUvNMZWwlbj69v3a4OxAky7WlGKw-3AyiD9eIjaK7IWNl2FE*A&new=1)
+ > 苹果的AR眼镜好像真的凉了......上周，DigiTimes发布了一份报告称，苹果已经在5月份悄悄解散了AR/VR硬件团队，而且此前有报道称，团队负责人Avi Bar-Zeev已经离职。年初的时候郭明錤还预测苹果会在 2020 年推出...
+ ## [三个理由告诉你，为什么要装电信宽带?](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=QTlabfs0tOqZFg6Fy0GphIfRFJL5JS8uVNUNDNGfDJl84zymBVEgSl2LTAQoIDHDm6c0GXj9XN1jHgcHonToxEHX4KjH9VZzweBrlrMKIbKvaxj5kwWGzQeuY6EFOJbQ&new=1)
+ > 1、速度好作为国内最优秀的宽带服务商，电信速度是最快的。快的原因：通讯基础设施最多，很多宽带服务商其实租用的还是电信的线路，另外所有大型网站均有电信出口。 2、服务好运营商之间比拼，除了纸面上的硬实...
+ ## [北京传来大消息!美国彻底慌了!!](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=vFtowlhy78qsaZ5FCA4vRGxsXuC6MKmG6mqVo2aioCRjBJtqy8f1-joJr5WucblalW2x33afE9MXJNMaTQFCmgpZgUIvaY9oPsUuNVU8IJAc2zu3fkpdQvXsC12XTjpM&new=1)
+ > 一卧薪尝胆三十年，祖国终于等到这一天。中国第一款5g手机是华为研发的，原本我以为中国仅有一个华为，毕竟相对于赚钱，营销搞销量；搞研发又费时，又费钱，回报还不稳定；搞不好就是竹篮打水一场空。我是真的没...
+ ## [\[报告\]新能源汽车后补贴时代，整车厂“三电”产业链布局策略(附15页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=IP0zEh-Ac0k1lQ*Kgd14MCsPZCdtPl6sGbx0LkIQHDi11Slo0V52eXI1LAG9KF6dxrRMdgo-BRcN3vXmmsr-ctkbd2ZGip6lb62U3tVYLZsya8O-eRpVElWJwNbqrCPT&new=1)
  > 新能源汽车重构了并行于传统汽车的产业链条，产业链整体呈现三大关键发展特征：供应商掌握话语权，整车厂成本控制能力受到挑战；未来零部件行业将整体出现产能过剩趋势，但优质资源依旧不足；产业链大部分利润向...
- ## [马斯克输了!让大脑连手机做些快活事，他们20年前就想到了](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=cFoPDwPv-14sTwGgg0qCXHplRK5mwyAWiDma0IPlpIDt8ovexhCoVt4S0P2h6G5c4TO8ESI7CWaXSVXdM*3yVPuoihqvJ257Il6cPHW*Qoj7wtPiVKNHXeRow2pTLt-a&new=1)
+ ## [马斯克输了!让大脑连手机做些快活事，他们20年前就想到了](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=cFoPDwPv-14sTwGgg0qCXHplRK5mwyAWiDma0IPlpIDt8ovexhCoVt4S0P2h6G5c*CZXALIELFhg*CAifNT7q1Z3G1PK4A89CA9K0SWaOYPFGuL*R*SbWXucRzIw4-WY&new=1)
  > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：阿花&gt;&gt;&gt;长在一颗小星星底下马斯克是个梦想家，可回收火箭探索火星、在真空管道中的建超级高铁，星际移民计划都是他的创意。但硅谷钢铁侠还有一个更大的梦想：开发脑机接...
- ## [超越华为，位居美国第一!刚刚，又一家中国科技巨头危险了](http://mp.weixin.qq.com/s?src=11&timestamp=1563501604&ver=1737&signature=n9f4Vyn5qTUPIhlS*JQL4K4tJeE2CKO0Os8NL4u8H0gb6cCPjQjBycLMfwo8YD0QKB7lqdcSx04lFG6p5zVSoKBvT7YPTkVrhAuccSnJFA8lXlprc6PYEgzzy3f9qWWQ&new=1)
+ ## [超越华为，位居美国第一!刚刚，又一家中国科技巨头危险了](http://mp.weixin.qq.com/s?src=11&timestamp=1563508804&ver=1737&signature=n9f4Vyn5qTUPIhlS*JQL4K4tJeE2CKO0Os8NL4u8H0gb6cCPjQjBycLMfwo8YD0QHqFK-3jUNXojb8Cro1LYLf8-rgkGt0FEtNtm9jvjiEeFsiYmb2xl-irOP1-EG074&new=1)
  > 来源：首席财经观察（ID：meirijingji001）作者：周松涛中国越强大，美国越打击，看好一个苗头打击一个。甚至不惜举全国之力，针对华为，令世界一片哗然，让无数人认识到了华为的强大。但实际上，很多人不知道的...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -119,64 +129,72 @@ AI&#25945;&#32946;&#20844;&#21496;&#8220;&#20316;&#19994;&#30418;&#23376;&#8221;
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
- ## [天天加班写代码却得不到升职加薪，这"五位法"值得每个程序员学习](http://news.51cto.com/art/201907/599670.htm)
- > 天天加班写代码却得不到升职加薪，这&quot;五位法&quot;值得每个程序员学习
- ## [常见Spring Boot面试问题集锦，死角一个不留！](http://developer.51cto.com/art/201907/599566.htm)
- > 常见Spring Boot面试问题集锦，死角一个不留！
- ## [芯片也开源？网红RISC-V，它到底是什么东东？](http://news.51cto.com/art/201907/599405.htm)
- > 芯片也开源？网红RISC-V，它到底是什么东东？
- ## [几款优秀的分布式关系数据库](http://database.51cto.com/art/201907/599314.htm)
- > 几款优秀的分布式关系数据库
- ## [区块链在能源领域落地？可自己发电卖给邻居](http://blockchain.51cto.com/art/201907/599239.htm)
- > 区块链在能源领域落地？可自己发电卖给邻居
- ## [你在iOS 13看到的「深色模式」，其实并不能护眼](http://mobile.51cto.com/iphone-598027.htm)
- > 你在iOS 13看到的「深色模式」，其实并不能护眼
- ## [你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo](http://news.51cto.com/art/201906/597953.htm)
- > 你的涂鸦活了，CMU中国本科生让画成真丨有代码有Demo
- ## [Windows 10：如何判断硬盘是SSD还是HDD](http://os.51cto.com/art/201906/597927.htm)
- > Windows 10：如何判断硬盘是SSD还是HDD
- ## [与传统存储方式相比，云存储都有哪些优势？](http://stor.51cto.com/art/201907/599874.htm)
- > 如今，越来越多的企业开始选择在云上存储数据，对于IT部门来说，对云存储所能提供的优势进行了解是很有必要
- ## [IEEE热门编程语言发榜！Python雄踞四项第一](http://developer.51cto.com/art/201907/599872.htm)
- > IEEE Spectrum发布了最新的第五届年度编程语言交互排行榜！Python不但雄踞第一，在综合指数、用户增速、就
- ## [StackOverflow: 你没见过的七个特别好的Java答案](http://news.51cto.com/art/201907/599870.htm)
- > 这篇文章是在我们审阅了StackOverflow上最流行的Java问题以及答案后从中挑出来的。即使你是一个有丰富经验
- ## [Java程序员，应该知道的20个有用的开源库](http://os.51cto.com/art/201907/599871.htm)
- > 总的来说，我在日常项目包含了有用的库，包括Log4j日志库，Jackson JSON解析库，以及JUnit和Mockito等单元
- ## [谈谈前后分离接口规范](http://developer.51cto.com/art/201907/599869.htm)
- > 随着互联网的高速发展，前端页面的展示、交互体验越来越灵活、炫丽，响应体验也要求越来越高，后端服务的高
- ## [消息队列、消息代理和消息中间件的区别和联系](http://developer.51cto.com/art/201907/599859.htm)
- > 如果你经常看技术文章应该听过「消息队列」、「消息代理」和「消息中间件」这三个词，它们有什么区别和联系
- ## [CSDN日报190718:如何走出人生低谷](https://blog.csdn.net/blogdevteam/article/details/96424389)
- > CSDN日报190718:如何走出人生低谷
+ ## [Java后端这样面试，拿到Offer的几率是99%](http://developer.51cto.com/art/201907/599866.htm)
+ > Java后端这样面试，拿到Offer的几率是99%
+ ## [面向企业网络的九大带宽监控工具](http://network.51cto.com/art/201907/599833.htm)
+ > 面向企业网络的九大带宽监控工具
+ ## [智慧城市大数据可视化系统设计心得](http://bigdata.51cto.com/art/201907/599734.htm)
+ > 智慧城市大数据可视化系统设计心得
+ ## [为什么在微服务架构下，服务网关和数据库不能部署在虚拟机上](http://news.51cto.com/art/201907/599790.htm)
+ > 为什么在微服务架构下，服务网关和数据库不能部署在虚拟机上
+ ## [用玻璃创造“空间芯片”，让扭曲空间具备算力，几乎无能耗无延迟](http://news.51cto.com/art/201907/599846.htm)
+ > 用玻璃创造“空间芯片”，让扭曲空间具备算力，几乎无能耗无延迟
+ ## [火爆美国却突遇警告：“变脸应用FaceApp是俄国人搞的，别用了”](http://news.51cto.com/art/201907/599845.htm)
+ > 火爆美国却突遇警告：“变脸应用FaceApp是俄国人搞的，别用了”
+ ## [Kafka设计原理看了又忘，忘了又看？](http://os.51cto.com/art/201907/599791.htm)
+ > Kafka设计原理看了又忘，忘了又看？
+ ## [IDC时评：强国竞逐的6G或许是“镜花水月”！](http://network.51cto.com/art/201907/599826.htm)
+ > IDC时评：强国竞逐的6G或许是“镜花水月”！
+ ## [经验丰富的Java开发人员，都选择这五大职业](http://developer.51cto.com/art/201907/599887.htm)
+ > 本文主要写给经验丰富的JAVA程序员，即有超过5到8年经验的人，并且想知道如何进入下一级别的人。
+ ## [每个组织都需要云安全的6个理由](http://cloud.51cto.com/art/201907/599886.htm)
+ > 研究表明，越来越多的组织正在将其系统和数据迁移到云端。在云中工作时的安全性与内部部署环境一样重要，
+ ## [分布式数据中心的五大优势](http://server.51cto.com/Datacenter-599884.htm)
+ > 行业专家对各种规模的企业使用分布式数据中心的需求以及如何帮助构建更好的软件进行了阐述和分析。
+ ## [微软拥抱Rust，以作为C和C++的安全替代方案](http://developer.51cto.com/art/201907/599885.htm)
+ > 微软正在探索使用 Rust 编程语言作为 C、C++ 和其他语言的替代方案，以此来改善应用程序的安全状况。
+ ## [云计算安全技能差距面临的潜在挑战](http://cloud.51cto.com/art/201907/599882.htm)
+ > 随着网络迅速扩展和云计算的广泛应用，这个问题变得更加尖锐。近三分之一的组织表示，在招募能够管理融合基
+ ## [3大主流的移动应用方式APP开发姿势解读](http://news.51cto.com/art/201907/599881.htm)
+ > 我们都知道目前的几大主流的移动应用开发方式：Native App，Web App，Hybrid App。那他们之间的联系和优缺
+ ## [Java程序员必备的一些流程图](http://developer.51cto.com/art/201907/599883.htm)
+ > Spring作为当前Java最流行、最强大的轻量级容器框架，了解熟悉spring的生命周期非常有必要;
+ ## [面临网络安全危机时需要思考的20个问题](http://netsecurity.51cto.com/art/201907/599879.htm)
+ > 我们可以从一次次网络安全危机中学到很多非常重要的教训，即便是那些并非实际发生的，而是比现实更具虚构色
+ ## [微服务一定要选Spring Cloud的三大原因详细概述](http://developer.51cto.com/art/201907/599880.htm)
+ > 现如今微服务架构十分流行，而采用微服务构建系统也会带来更清晰的业务划分和可扩展性。同时，支持微服务的
+ ## [iOS 13 Beta 4 值得注意的 5 个新变化](http://news.51cto.com/art/201907/599877.htm)
+ > 苹果推送了第 4 个 iOS 13 开发者测试版。与前一个测试版一样，第 4 个测试版的重心还是放在了修复 bug 和
+ ## [CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
+ > CSDN日报190719：字节跳动面经来啦！！！
  ## [Python 快速入门实战教程](https://blog.csdn.net/valada/article/details/79982704)
  > Python 快速入门实战教程
- ## [从零开始学编程——编程语言](https://blog.csdn.net/static_zh/article/details/93201726)
- > 从零开始学编程——编程语言
- ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
- > 简书：编程入门学习的困惑
- ## [20年研发管理经验谈（十）](https://blog.csdn.net/weixin_39759846/article/details/93033667)
- > 20年研发管理经验谈（十）
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
- ## [Spring--总体架构](https://blog.csdn.net/demon7552003/article/details/93377793)
- > Spring--总体架构
+ ## [白帽子讲Web安全-客户端脚本安全](https://blog.csdn.net/u010019721/article/details/96143950)
+ > 白帽子讲Web安全-客户端脚本安全
+ ## [Web安全基础 | http](https://blog.csdn.net/qq_42646885/article/details/90315896)
+ > Web安全基础 | http
+ ## [Linux运维之LNMP架构（tomcat）](https://blog.csdn.net/weixin_44828950/article/details/94176266)
+ > Linux运维之LNMP架构（tomcat）
+ ## [咸鱼笔记-编程语言优缺点](https://blog.csdn.net/weixin_45020839/article/details/92989659)
+ > 咸鱼笔记-编程语言优缺点
+ ## [Spark通信架构](https://blog.csdn.net/weixin_45194374/article/details/94556023)
+ > Spark通信架构
+ ## [web安全学习1](https://blog.csdn.net/weixin_44591106/article/details/95317512)
+ > web安全学习1
+ ## [HTML：一种标记语言而不是编程语言（11.0）](https://blog.csdn.net/qq_40061206/article/details/95356427)
+ > HTML：一种标记语言而不是编程语言（11.0）
+ ## [反爬虫业务安全概览](https://blog.csdn.net/weixin_44044225/article/details/95637131)
+ > 反爬虫业务安全概览
+ ## [【剑指offer】2.2 编程语言](https://blog.csdn.net/PinkBananA_/article/details/93100056)
+ > 【剑指offer】2.2 编程语言
+ ## [Spring的骨骼架构](https://blog.csdn.net/DCFANS/article/details/93201551)
+ > Spring的骨骼架构
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
+ ## [【编程语言】快速掌握 Perl](https://blog.csdn.net/lsj960922/article/details/94440545)
+ > 【编程语言】快速掌握 Perl
  ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
  > Encoder-Decoder架构与注意力机制
- ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
- > 架构杂谈《四》
- ## [大数据处理基础之scala编程语言入门](https://blog.csdn.net/gzzBlogs/article/details/94755017)
- > 大数据处理基础之scala编程语言入门
- ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
- > 编程语言的一些基础概念（三）：面向对象
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [编程语言中常用的变量命名缩写](https://blog.csdn.net/qq_37851620/article/details/94731227)
- > 编程语言中常用的变量命名缩写
- ## [一百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/96075233)
- > 一百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [Python等编程语言学习资料分享](https://blog.csdn.net/Mr_JjPolarBear/article/details/95628296)
- > Python等编程语言学习资料分享
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [金山云肖江：5G 驱动智慧人居新发展](https://blog.csdn.net/csdnnews/article/details/96472410)
@@ -197,44 +215,68 @@ AI&#25945;&#32946;&#20844;&#21496;&#8220;&#20316;&#19994;&#30418;&#23376;&#8221;
  > 历来，程序员是一门令人向往的职位，不仅是因为其代表着需要高技术高智商的人加入，更是因为相比其他行业，其薪资要高出很多。不过据调查发现，就技术人自身而言，他们并不想在公开场...
  ## [53K！拿下阿里Python岗，这些技术点全考了！](https://blog.csdn.net/csdnnews/article/details/96472421)
  > Python又上热搜了！”，最近笔者在逛脉脉时，发现这样的一条信息：看完后，我相信大家和我一样，what，Python这么时候值钱了？本篇文章，我将帮大家搞定两大疑问：1...
+ ## [华为：鸿蒙系统不是为智能手机设计的，主要为工业用途](http://www.lanjingtmt.com/news/detail/43752.shtml)
+ > 华为董事和高级副总裁陈黎芳日前表示，公司的鸿蒙操作系统不是为智能手机设计的，公司打算继续其智能手机上使用谷歌的安卓操作系统。
+ ## [酷派集团今日复牌，开盘暴跌61.1%](http://www.lanjingtmt.com/news/detail/43751.shtml)
+ > 今日酷派集团复牌暴跌61.1%，公司股票自2017年3月至今已停牌27个月。
+ ## [消息称三星折叠屏手机已通过最后测试，准备重新推出](http://www.lanjingtmt.com/news/detail/43750.shtml)
+ > 有消息称，三星Galaxy Fold可折叠手机已经顺利通过了最后的测试，已准备好重新推出。
 # 人工智能 
  ## [Python 快速入门实战教程](https://blog.csdn.net/valada/article/details/79982704)
  > Python 快速入门实战教程
- ## [咸鱼笔记-编程语言优缺点](https://blog.csdn.net/weixin_45020839/article/details/92989659)
- > 咸鱼笔记-编程语言优缺点
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
- ## [Python等编程语言学习资料分享](https://blog.csdn.net/Mr_JjPolarBear/article/details/95628296)
- > Python等编程语言学习资料分享
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
- ## [【游戏开发日志】【Unity】day_one](https://blog.csdn.net/slozer/article/details/95307348)
- > 【游戏开发日志】【Unity】day_one
- ## [移动端开发语言的未来的猜想华为云·寻找黑马程序员](https://blog.csdn.net/devcloud/article/details/95594829)
- > 移动端开发语言的未来的猜想华为云·寻找黑马程序员
- ## [为何人工智能用Python这门编程语言？](https://blog.csdn.net/weichen090909/article/details/93364401)
- > 为何人工智能用Python这门编程语言？
- ## [三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer](https://blog.csdn.net/Android_SE/article/details/96141934)
- > 三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer
- ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
- > 棋牌游戏开发做好策划方案 拥有互联网思维
- ## [《精通Cocos2d-x游戏开发（基础卷）》](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
- > 《精通Cocos2d-x游戏开发（基础卷）》
- ## [各类编程语言中static关键字的用法](https://blog.csdn.net/lvlynn/article/details/95348232)
- > 各类编程语言中static关键字的用法
- ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
- > 来看漫画：我才是世界上最好的编程语言
- ## [编程语言中常用的变量命名缩写](https://blog.csdn.net/qq_37851620/article/details/94731227)
- > 编程语言中常用的变量命名缩写
- ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
- > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
+ ## [可扩展架构介绍](https://blog.csdn.net/hgstclyh/article/details/93379657)
+ > 可扩展架构介绍
+ ## [物联网协议CoAP](https://blog.csdn.net/sbddbfm/article/details/95484763)
+ > 物联网协议CoAP
+ ## [我的程序人生：码农](https://blog.csdn.net/qq_37143673/article/details/93231321)
+ > 我的程序人生：码农
+ ## [spark架构/与调度模式](https://blog.csdn.net/qq_36250202/article/details/91467291)
+ > spark架构/与调度模式
+ ## [SOA（面向服务的架构） 架构与微服务架构的区别](https://blog.csdn.net/weixin_44530530/article/details/93972425)
+ > SOA（面向服务的架构） 架构与微服务架构的区别
+ ## [Flink 运行架构](https://blog.csdn.net/Luomingkui1109/article/details/95232428)
+ > Flink 运行架构
+ ## [转战物联网·基础篇01-物联网之我见](https://blog.csdn.net/yyykj/article/details/93850492)
+ > 转战物联网·基础篇01-物联网之我见
+ ## [Java 设计模式-适配器设计模式](https://blog.csdn.net/qq_45386055/article/details/96033025)
+ > Java 设计模式-适配器设计模式
+ ## [大数据学习方法，学习大数据需要的基础和路线](https://blog.csdn.net/dvfghj/article/details/95463855)
+ > 大数据学习方法，学习大数据需要的基础和路线
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
+ ## [18年往届菜鸟的编程进阶路](https://blog.csdn.net/S_body/article/details/96006047)
+ > 18年往届菜鸟的编程进阶路
+ ## [基于物联网的智能家居](https://blog.csdn.net/weixin_43532158/article/details/95323836)
+ > 基于物联网的智能家居
+ ## [物联网APP开发简介](https://blog.csdn.net/qq_39424143/article/details/93485234)
+ > 物联网APP开发简介
+ ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
+ > 架构杂谈《四》
 # PM 
+ ## [从“瓶盖挑战”中，我们学到了这几点营销知识](http://www.woshipm.com/marketing/2607555.html)
+ > 近期“瓶盖挑战”风靡网络，不过你知道它是怎么火的吗？它背后又有什么传播原理呢？我们又该如何借势、或者是仿照此类活动进行品牌/产品的运营推广呢？让我们看看作者是如...
+ ## [交互设计 | 如何做好操作反馈规范的设计？](http://www.woshipm.com/pd/2306196.html)
+ > 交互设计中的操作反馈设计，要从用户和产品的两个角度去思考——反馈能为品牌气质的提升带来什么价值，能多大程度地优化用户的体验效果？规范，意指符合逻辑，客观、真...
+ ## [后台产品方法论：如何设计监控功能？](http://www.woshipm.com/pd/2455107.html)
+ > 监控功能是后台产品中既常用也重要的功能，主要起到异常预警和异常控制的作用。本篇文章主要阐释如何打造监控功能。01 什么是监控功能？监控功能是指针对某项数据或...
+ ## [客户体验时代：会做这张地图的品牌为啥越来越值钱？](http://www.woshipm.com/marketing/2607420.html)
+ > 客户体验是互联网时代企业营销的底盘。通过客户体验地图的制作，找到过程需要优化的问题节点，结合峰终定律把有限的资源聚焦优先提升关键节点“峰”点与“终”点，从而实现...
+ ## [产品思考：如何衡量B端产品的收益？](http://www.woshipm.com/operate/2605772.html)
+ > 笔者从工作实践中的疑问出发，结合专业知识，分享了自己关于B端产品收益的所思所想，供大家一同参考和学习。记得上个月开需求管理会议，在讨论如何提升IT研发效能时，...
+ ## [用户思维是唯一良药？聊聊甲方、乙方和媒体的发展趋势](http://www.woshipm.com/operate/2607169.html)
+ > 无论是甲方、乙方，还是媒体公司，都面临着逐渐稀缺的红利和激烈的竞争，而紧跟用户趋势，抓住“用户思维”这根救命稻草，都成为他们为了在大浪潮中求生，所采取的措施。...
+ ## [母婴行业分析：背景、市场与未来机会](http://www.woshipm.com/evaluating/2579586.html)
+ > 母婴市场利润巨大，产业前景大好，互联网的驱动，让母婴行业有了新的发展。母婴市场作为经济发展中的刚需行业，规模的增长从未停止，一是近20年我国年均新生人口数保...
+ ## [几点建议，教你找到隐性的用户诉求](http://www.woshipm.com/user-research/798532.html)
+ > 大多数时候，用户诉求都是表面且抽象的，所以就需要我们认识到隐形的用户诉求是什么，以及如何突破各种阻碍因素找到隐性的用户需求。什么是隐性的用户诉求你是一个用...
+ ## [短视频用户增长指南：打造爆款账号的 8 个建议](http://www.woshipm.com/operate/2604298.html)
+ > 通过各种数据，我们可以看到内容领域仍然有着利好的发展前景，以及行业爆发力。而如何进入这一领域并得到收获也是很多人想知道的，于是作者为我们分享了他在这一领域的...
+ ## [消费金融：如何构建多元消费场景中，目标用户的消费金融触点？](http://www.woshipm.com/it/2499131.html)
+ > 本文围绕多元消费场景中目标用户的消费触点，仔细介绍了消费金融是什么、触点是什么、以及消费金融与触点是如何结合的？截至6月19日0时：京东“618十六周年店庆”累计...
+ ## [别再使用产品路线图了，尝试GIST规划吧](http://www.woshipm.com/operate/2605280.html)
+ > 本文笔者将为大家分解GIST规划的目标、思路、步骤-项目和任务这几个模块的具体流程，以及介绍每个环节应该注意的点。在此之前，我创造了公平的产品策略，路线图和项目...
  ## [产品人性说：恐惧与懒惰](http://www.chanpin100.com/article/108968)
  > 每一个恶/善都有对立的一面，我们以善为道，构建产品愿景，以恶为术，促进产品改变，让产品在迭代或创新上发挥更大的价值。
- ## [牛逼的产品经理百年一遇，傻逼的产品经理年年有](http://www.chanpin100.com/article/108966)
- > 牛逼的产品经理能成事，傻逼的产品经理能坏事，有时候牛逼和傻逼仅仅在一瞬之间。
- ## [像太阳一样点亮自己温暖别人（二）--产品经理五行山](http://www.chanpin100.com/article/108965)
- > 利用好“产品经理五行山”，认清自己的“能力辐射半径”，打造自己的核心竞争力！
  ## [一代神机停产 永别了iPhone6](http://www.pmtoo.com/article/78361.html)
  > 直到今天，苹果已经出了很多代手机了，伴随着智能进步的局限性，新iPhone也因其创新度不够导致销量下滑不少，而苹果方面为了...
  ## [浅谈运营工作中的贝叶斯陷阱](http://www.pmtoo.com/article/78354.html)
