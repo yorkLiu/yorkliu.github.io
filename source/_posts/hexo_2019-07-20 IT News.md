@@ -1,22 +1,22 @@
 ---
 title: 2019-07-20 IT News
 copyright: true
-date: 2019-07-20 09:01:09
+date: 2019-07-20 10:01:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrmch8ankAPp7AQ*n7M-2cuUkjh-F8QMoTgWZy-hEBHW40hjpcp*iqego*qgaKtPFXrUm3kOnHxFNR1h5HoKTvTu&new=1)
+ ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrmch8ankAPp7AQ*n7M-2cuUPovKRa167aL1twM1vQDOiA5xdWekNgyhORWhUeaPpanRCupbGiKLe3ItDAVYaTmI&new=1)
  > 近日，中国电信公示了5G规模组网建设及应用示范工程（无线主设备部分）单一来源。此次项目采购主要是为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南12省的3.5G频段5G无线网主设备及...
- ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJptDS*dsx4viUHRaiX*AyPd4SBz9dpRMJct6e469uvOSbz7L88xQ5rRIDl*ViAEOn*iZrgWr*4gLtH94Vee-PZMs&new=1)
+ ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJptDS*dsx4viUHRaiX*AyPd4SaQ9Mcr1qJpNzTZslsLhglm0UgF7kbqmI7umASz5ITfYtRWnj9c8*6ZjboAoN-GF&new=1)
  > 自从华为被禁后，多家美国公司纷纷宣布暂停合作的消息。其中，谷歌公司宣布暂停部分功能对华为终端的开放，引发了国内外媒体的广泛关注。随后，有消息称华为将要推出自家鸿蒙OS操作系统，该系统将会打通手机、平...
- ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65DaPh6ee9BLzLUwZnX268Sxo5v6egfwuG*kgkVZLlb7hWWgHyYdwaJO9CaWUkAEVBVrtlRe11knqibFoEXXfYfM&new=1)
- > 丰田公司联合硬蛋为中国汽车产业提供了绿色通道，一时间云集了各方豪杰，竞相亮相。真是八仙过海，各显神通。吸引了无数顶尖企业前来“切磋”。作为日本著名的汽车生产企业，丰田公司是仅次于通用公司和福特公司...
- ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCGanzKoxs85OyD0pXhVFKnYR5dA-eBDZQAURtlt9*ORRfhIxgnvmrFYvhbsBOuibGXqz92Ko1B5-WTUKJ2x9az9&new=1)
+ ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCGanzKoxs85OyD0pXhVFKnYpdz*5VCC7Y2odLTeY6iBukI1qw31gakZ*UCoGavuzn*3nDkFZvO091suVavKaPcX&new=1)
  > 7月19日，中国电信发布了5G规模组网建设及应用示范工程（无线主设备部分）单一来源采购公示。公示显示，该项目采购内容为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南等12省的3.5G...
- ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x0J61SlxQVcKGOIz2cE2CMFzoLSg42DDBRhwfO0eBaywUyikEL2GXN1zk*gqjWQ1f8bZdJ2AzvnB8So2zypx46v&new=1)
+ ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x0J61SlxQVcKGOIz2cE2CMF4f8S9JhqgOd4QtA1pWS8zaeCYZJrn7dRCmNy8k8q-41gEzHRY2oJxG6nZKmMTZbv&new=1)
  > 中国联合网络通信股份有限公司公布 2019 年 6 月份的运营数据，详情如下：一、移动业务移动出账用户累计到达数 32,435.3 万户移动出账用户本月净增数 2.4 万户其中：4G 用户累计到达数 23,893.9 万户 4G 用户本...
- ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrGuxRCqz44uxb4ONfEfnqpR0fSG*Lltu4Q*z7SxGB5NNCpZNYJIH0pgXhHNZmzOQp69gRzPn26UP-rKEMP3onoL&new=1)
+ ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65DaPh6ee9BLzLUwZnX268SxKdfW-pAAcWY-55*XFm3bld1G5-qrhvpM6k4CLncXCm7qlUIRrg10daTiXZHNz3lS&new=1)
+ > 丰田公司联合硬蛋为中国汽车产业提供了绿色通道，一时间云集了各方豪杰，竞相亮相。真是八仙过海，各显神通。吸引了无数顶尖企业前来“切磋”。作为日本著名的汽车生产企业，丰田公司是仅次于通用公司和福特公司...
+ ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrGuxRCqz44uxb4ONfEfnqpRg8hJqwk2lnPSlnJp5FWtuuqeMiHVju7Y0Q0XkwkLb3Zh49s4Cqy6KiX82*ur4O7D&new=1)
  > 1. 密码复杂性有一种说法是密码需要 “易于记住，但其他人难以猜测”。这种说法比较含糊，因为新破解技术存在的唯一目的，就是在几秒钟内暴力破解密码，而不是运用社会工程学套取密码。简单地说，根据密码学原理...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -79,65 +79,83 @@ categories: IT NEWS
  > 53K！拿下阿里Python岗，这些技术点全考了！
  ## [CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
  > CSDN日报190719：字节跳动面经来啦！！！
- ## [抖音视频下载改md5](https://blog.csdn.net/dawer66951/article/details/94337501)
- > 抖音视频下载改md5
- ## [Linux基础中的基础 一](https://blog.csdn.net/Win_Le/article/details/94658782)
- > Linux基础中的基础 一
- ## [音视频开发--音视频的基础知识--视频](https://blog.csdn.net/qq_28877125/article/details/94911383)
- > 音视频开发--音视频的基础知识--视频
- ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
- > Window基础（黑客基础）
- ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
- > JAVA基础7-Stream基础学习笔记
- ## [菜鸟理解的区块链](https://blog.csdn.net/weixin_44172023/article/details/94380565)
- > 菜鸟理解的区块链
- ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
- > 深入理解  Android 组件的 exported 属性
- ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
- > WebRTC系列 - 源码编译等
- ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
- > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
- ## [音视频播放 Video  Audio](https://blog.csdn.net/qq_22930381/article/details/92991152)
- > 音视频播放 Video  Audio
- ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
- > 【区块链】简单理解区块链是什么
- ## [音视频格式介绍](https://blog.csdn.net/LUOHUATINGYUSHENG/article/details/96024814)
- > 音视频格式介绍
- ## [JAVA音视频解决方案----音视频基础知识](https://blog.csdn.net/cuiyaonan2000/article/details/93179719)
- > JAVA音视频解决方案----音视频基础知识
- ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
- > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
-# 人工智能 
- ## [仿微信多人音视频通话界面](https://blog.csdn.net/wanggang514260663/article/details/93167902)
- > 仿微信多人音视频通话界面
- ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
- > 微信不小心删除的好友和群聊，如何偷偷的加回来？
- ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
- > WebRTC系列 - 源码编译等
- ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
- > 万能音视频转换器：Permute 3 for mac
- ## [浅谈汽车安全](https://blog.csdn.net/dominatex/article/details/96144403)
- > 浅谈汽车安全
- ## [抖音视频下载改md5](https://blog.csdn.net/dawer66951/article/details/94337501)
- > 抖音视频下载改md5
- ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
- > 提权与信息收集-安全牛学习笔记
- ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
- > 资讯--2019年6月
- ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
- > 【IT资讯】全新编程语言V发布
- ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
- > 音视频播放、横竖屏切换
- ## [Web安全基础 | http](https://blog.csdn.net/qq_42646885/article/details/90315896)
- > Web安全基础 | http
- ## [Web安全之文件包含漏洞](https://blog.csdn.net/qq_37133717/article/details/94631028)
- > Web安全之文件包含漏洞
- ## [Web安全渗透学习-环境搭建](https://blog.csdn.net/weixin_43468445/article/details/93618521)
- > Web安全渗透学习-环境搭建
+ ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
+ > 物联网不断发展创新 物联网卡仍是主力
+ ## [我凭借这个pdf拿下了百度/秒针/去哪儿/华为/创新工厂/一点资讯等互联网公司的offer](https://blog.csdn.net/li420520/article/details/93128448)
+ > 我凭借这个pdf拿下了百度/秒针/去哪儿/华为/创新工厂/一点资讯等互联网公司的offer
+ ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
+ > 华为手机自带语音转文字的功能，转换方法如下
+ ## [云杰恒指：6.20恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/92965932)
+ > 云杰恒指：6.20恒指期货早盘资讯
+ ## [物联网移动APP架构设计](https://blog.csdn.net/qq_39424143/article/details/93876760)
+ > 物联网移动APP架构设计
+ ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
+ > 转战物联网·基础篇02-物联网中的角儿
  ## [19年关于跨境电商,它的一些资讯干货，你们了解吗？](https://blog.csdn.net/ylfqwe/article/details/94439690)
  > 19年关于跨境电商,它的一些资讯干货，你们了解吗？
- ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
- > WebRTC重要API和音视频分析
+ ## [物联网协议CoAP](https://blog.csdn.net/sbddbfm/article/details/95484763)
+ > 物联网协议CoAP
+ ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
+ > 架构杂谈《四》
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
+ > 资讯类网站增量式爬虫
+ ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
+ > 物联网的发展与应用
+ ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
+ > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
+ ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
+ > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [阿里技术副总裁贾扬清、微软 CTO 韦青重磅出席 AI 开发者大会！](https://blog.csdn.net/csdnnews/article/details/96530966)
+ > 整理 | 夕颜硬核 AI 技术大会，一年参加一次就够了！9 月 6日-7 日，2019 AI 开发者大会（AI ProCon）将在北京富力万丽酒店举行，人工智能领域技术领...
+ ## [面试稳了！BATJ 等大厂 400+ 道面试题全汇总！](https://blog.csdn.net/csdnnews/article/details/96531006)
+ > 整理 | 伍杏玲出品 | CSDN（ID：CSDNnews）2019 年已过半，大家在年初设定的目标进行得怎样了？预计涨的薪、跳的槽都完成了吗？如果没的话，不妨看看这篇文...
+ ## [Linux 之父拒绝 996，Swift、Python 之父痴迷深夜编程，程序员之神的 24 小时！](https://blog.csdn.net/csdnnews/article/details/96530873)
+ > 【CSDN编者按】程序员大佬们都是什么时候敲代码呢？熬夜到天明吗？下面这篇文章是关于各个程序员大佬们的代码提交时间图表。让我们一睹为快吧。作者 | Ivan Bessar...
+ ## [红帽：将开源进行到底！](https://blog.csdn.net/csdnnews/article/details/96531097)
+ > 作者| 孙浩峰出品 | CSDN云计算（ID：CSDNcloud）2019年7月9日，IBM史上最大的一笔收购案终于尘埃落定，IBM以每股现金190.0美元，完成对红帽...
+ ## [“10 倍工程师”引争议，程序员再被妖魔化？](https://blog.csdn.net/csdnnews/article/details/96530936)
+ > 【CSDN 编者按】前有“996”，后有“10倍工程师”——作为程序员的你感受到被支配的恐惧了吗？最近几日，网上关于“10倍工程师”的讨论络绎不绝，各种观点也是褒贬不一。...
+ ## [这个程序员有点帅，我被他吸引了...](https://blog.csdn.net/csdnnews/article/details/96530941)
+ > 今年的这个7月有点不太寻常，为什么要这么说呢？不知道大家有没有看过最近热播的电视剧《亲爱的，热爱的》，里面有个李现饰演的韩商言，他是个网络安全高手，参加多次网络安全相关的...
+ ## [牛！这本 Python 3.6 的书火爆了 IT 圈！](https://blog.csdn.net/csdnnews/article/details/96531040)
+ > 最近这段时间，常常有人在后台留言：该不该学Python？如何学Python？鉴于大家都有这方面的困惑今天就给大家推荐一本巨有影响力的Python书火到什么地步呢？在京东上...
+ ## [Facebook 发布全新 JavaScript 引擎：Hermes！ |  CSDN博文精选](https://blog.csdn.net/csdnnews/article/details/96531071)
+ > 作者 |Carson_Ho责编 | 郭芮出品 | CSDN 博客目前，用户的流畅体验是用户能长期使用某个移动客户端应用App的重要指标之一，因此，移动客户端应用App的...
+ ## [谷歌停止中国版搜索引擎；李楠宣布离职魅族；微软用 Rust 替代 C/C++ | 极客头条...](https://blog.csdn.net/csdnnews/article/details/96530915)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+# 人工智能 
+ ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
+ > 移动开发——问卷调查
+ ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
+ > 棋牌游戏开发做好策划方案 拥有互联网思维
+ ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
+ > 5G时代到来 棋牌游戏开发技术如虎添翼
+ ## [关于游戏开发网络协议方面的一些杂谈](https://blog.csdn.net/iov3Rain/article/details/95080308)
+ > 关于游戏开发网络协议方面的一些杂谈
+ ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
+ > 梦想还是要有的，即使被摧残着！
+ ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
+ > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
+ ## [记录一次大厂的游戏引擎工程师的两次技术面试](https://blog.csdn.net/memories_sunset/article/details/95192933)
+ > 记录一次大厂的游戏引擎工程师的两次技术面试
+ ## [游戏开发_数学与物理](https://blog.csdn.net/qq_35433081/article/details/93397894)
+ > 游戏开发_数学与物理
+ ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
+ > 开启技术之旅——我的第一篇博客
+ ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
+ > 棋牌游戏开发质量缘何陷入低水平状态
+ ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
+ > 数据湖正在成为新的数据仓库
+ ## [我的程序人生：码农](https://blog.csdn.net/qq_37143673/article/details/93231321)
+ > 我的程序人生：码农
+ ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
+ > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
+ ## [两场雨的程序人生](https://blog.csdn.net/Mr_carry/article/details/95533590)
+ > 两场雨的程序人生
+ ## [c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子](https://blog.csdn.net/u014194297/article/details/93332625)
+ > c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子
 # PM 
  ## [解密：如何加速和提升SaaS企业的客户成功](http://www.chanpin100.com/article/108973)
  > 报名成功即送限量签名版《硅谷蓝图》哦！
