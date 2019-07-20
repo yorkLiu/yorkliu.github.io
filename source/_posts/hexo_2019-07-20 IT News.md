@@ -1,21 +1,23 @@
 ---
 title: 2019-07-20 IT News
 copyright: true
-date: 2019-07-20 08:01:09
+date: 2019-07-20 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563580804&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJptDS*dsx4viUHRaiX*AyPd4jecOjiHIpUSCu5we3ofwARhYZJRmoYamUVwCS3oxuzSD6FELj8gkA15jyWmCmzSF&new=1)
- > 自从华为被禁后，多家美国公司纷纷宣布暂停合作的消息。其中，谷歌公司宣布暂停部分功能对华为终端的开放，引发了国内外媒体的广泛关注。随后，有消息称华为将要推出自家鸿蒙OS操作系统，该系统将会打通手机、平...
- ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563580804&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCGanzKoxs85OyD0pXhVFKnYV49sfwaP79HYlEgoetBNxf73Iyy*bzsEZrcxm4Iykh*o3DjUU3tUK4NRS6X42ElP&new=1)
- > 7月19日，中国电信发布了5G规模组网建设及应用示范工程（无线主设备部分）单一来源采购公示。公示显示，该项目采购内容为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南等12省的3.5G...
- ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563580804&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrmch8ankAPp7AQ*n7M-2cuU9XSZLUNpDFzKkIHYyjgi4psEdUKJvlXOUk-VDhmgDN2GgDejYwzdGAyoQHMevv61&new=1)
+ ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrmch8ankAPp7AQ*n7M-2cuUkjh-F8QMoTgWZy-hEBHW40hjpcp*iqego*qgaKtPFXrUm3kOnHxFNR1h5HoKTvTu&new=1)
  > 近日，中国电信公示了5G规模组网建设及应用示范工程（无线主设备部分）单一来源。此次项目采购主要是为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南12省的3.5G频段5G无线网主设备及...
- ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563580804&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrGuxRCqz44uxb4ONfEfnqpRD*KIO9Dh-bn28xLMVZ78KJpSTX01WVLuUsIvUSiwHgbv9FF8GQNcMDAlHJnlhQD2&new=1)
- > 1. 密码复杂性有一种说法是密码需要 “易于记住，但其他人难以猜测”。这种说法比较含糊，因为新破解技术存在的唯一目的，就是在几秒钟内暴力破解密码，而不是运用社会工程学套取密码。简单地说，根据密码学原理...
- ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563580804&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65DaPh6ee9BLzLUwZnX268Sx*lbQKdDzUVqIr9HokqgmXWefVME2mcEuvXwISLS4FrlC5Fw0CjgAC*vrup8-4guS&new=1)
+ ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJptDS*dsx4viUHRaiX*AyPd4SBz9dpRMJct6e469uvOSbz7L88xQ5rRIDl*ViAEOn*iZrgWr*4gLtH94Vee-PZMs&new=1)
+ > 自从华为被禁后，多家美国公司纷纷宣布暂停合作的消息。其中，谷歌公司宣布暂停部分功能对华为终端的开放，引发了国内外媒体的广泛关注。随后，有消息称华为将要推出自家鸿蒙OS操作系统，该系统将会打通手机、平...
+ ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65DaPh6ee9BLzLUwZnX268Sxo5v6egfwuG*kgkVZLlb7hWWgHyYdwaJO9CaWUkAEVBVrtlRe11knqibFoEXXfYfM&new=1)
  > 丰田公司联合硬蛋为中国汽车产业提供了绿色通道，一时间云集了各方豪杰，竞相亮相。真是八仙过海，各显神通。吸引了无数顶尖企业前来“切磋”。作为日本著名的汽车生产企业，丰田公司是仅次于通用公司和福特公司...
+ ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCGanzKoxs85OyD0pXhVFKnYR5dA-eBDZQAURtlt9*ORRfhIxgnvmrFYvhbsBOuibGXqz92Ko1B5-WTUKJ2x9az9&new=1)
+ > 7月19日，中国电信发布了5G规模组网建设及应用示范工程（无线主设备部分）单一来源采购公示。公示显示，该项目采购内容为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南等12省的3.5G...
+ ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x0J61SlxQVcKGOIz2cE2CMFzoLSg42DDBRhwfO0eBaywUyikEL2GXN1zk*gqjWQ1f8bZdJ2AzvnB8So2zypx46v&new=1)
+ > 中国联合网络通信股份有限公司公布 2019 年 6 月份的运营数据，详情如下：一、移动业务移动出账用户累计到达数 32,435.3 万户移动出账用户本月净增数 2.4 万户其中：4G 用户累计到达数 23,893.9 万户 4G 用户本...
+ ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563584404&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrGuxRCqz44uxb4ONfEfnqpR0fSG*Lltu4Q*z7SxGB5NNCpZNYJIH0pgXhHNZmzOQp69gRzPn26UP-rKEMP3onoL&new=1)
+ > 1. 密码复杂性有一种说法是密码需要 “易于记住，但其他人难以猜测”。这种说法比较含糊，因为新破解技术存在的唯一目的，就是在几秒钟内暴力破解密码，而不是运用社会工程学套取密码。简单地说，根据密码学原理...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -77,65 +79,65 @@ categories: IT NEWS
  > 53K！拿下阿里Python岗，这些技术点全考了！
  ## [CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
  > CSDN日报190719：字节跳动面经来啦！！！
- ## [云计算之k8s系列_第九回](https://blog.csdn.net/mx_steve/article/details/95583397)
- > 云计算之k8s系列_第九回
- ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
- > 基于云计算与大数据应用开发的论述
- ## [【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）](https://blog.csdn.net/Mculover666/article/details/88972014)
- > 【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）
- ## [物联网协议CoAP](https://blog.csdn.net/sbddbfm/article/details/95484763)
- > 物联网协议CoAP
- ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
- > 大数据和云计算技术周报（第110期)
- ## [【物联网】如何在物联网平台开发](https://blog.csdn.net/lsj960922/article/details/93024941)
- > 【物联网】如何在物联网平台开发
- ## [区块链分支循环](https://blog.csdn.net/weixin_44172023/article/details/94432471)
- > 区块链分支循环
- ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
- > 建筑施工借助物联网卡保障高楼安全
- ## [大数据之路之交通大数据应用总体架构设计](https://blog.csdn.net/mochou111/article/details/96428264)
- > 大数据之路之交通大数据应用总体架构设计
- ## [区块链的安全软肋是什么？](https://blog.csdn.net/weixin_44172023/article/details/94380515)
- > 区块链的安全软肋是什么？
- ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
- > 区块链的知识
- ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
- > 物联网不断发展创新 物联网卡仍是主力
- ## [物联网协议--MQTT整理](https://blog.csdn.net/weixin_42411153/article/details/94840046)
- > 物联网协议--MQTT整理
+ ## [抖音视频下载改md5](https://blog.csdn.net/dawer66951/article/details/94337501)
+ > 抖音视频下载改md5
+ ## [Linux基础中的基础 一](https://blog.csdn.net/Win_Le/article/details/94658782)
+ > Linux基础中的基础 一
+ ## [音视频开发--音视频的基础知识--视频](https://blog.csdn.net/qq_28877125/article/details/94911383)
+ > 音视频开发--音视频的基础知识--视频
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
+ > JAVA基础7-Stream基础学习笔记
+ ## [菜鸟理解的区块链](https://blog.csdn.net/weixin_44172023/article/details/94380565)
+ > 菜鸟理解的区块链
+ ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
+ > 深入理解  Android 组件的 exported 属性
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
+ > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
+ ## [音视频播放 Video  Audio](https://blog.csdn.net/qq_22930381/article/details/92991152)
+ > 音视频播放 Video  Audio
+ ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
+ > 【区块链】简单理解区块链是什么
+ ## [音视频格式介绍](https://blog.csdn.net/LUOHUATINGYUSHENG/article/details/96024814)
+ > 音视频格式介绍
+ ## [JAVA音视频解决方案----音视频基础知识](https://blog.csdn.net/cuiyaonan2000/article/details/93179719)
+ > JAVA音视频解决方案----音视频基础知识
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
- ## [白帽子讲Web安全-客户端脚本安全](https://blog.csdn.net/u010019721/article/details/96143950)
- > 白帽子讲Web安全-客户端脚本安全
+ ## [仿微信多人音视频通话界面](https://blog.csdn.net/wanggang514260663/article/details/93167902)
+ > 仿微信多人音视频通话界面
+ ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
+ > 微信不小心删除的好友和群聊，如何偷偷的加回来？
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
+ > 万能音视频转换器：Permute 3 for mac
+ ## [浅谈汽车安全](https://blog.csdn.net/dominatex/article/details/96144403)
+ > 浅谈汽车安全
+ ## [抖音视频下载改md5](https://blog.csdn.net/dawer66951/article/details/94337501)
+ > 抖音视频下载改md5
+ ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
+ > 提权与信息收集-安全牛学习笔记
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
+ ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
+ > 【IT资讯】全新编程语言V发布
+ ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
+ > 音视频播放、横竖屏切换
+ ## [Web安全基础 | http](https://blog.csdn.net/qq_42646885/article/details/90315896)
+ > Web安全基础 | http
  ## [Web安全之文件包含漏洞](https://blog.csdn.net/qq_37133717/article/details/94631028)
  > Web安全之文件包含漏洞
- ## [浅谈数据库的安全保护](https://blog.csdn.net/qq_45066719/article/details/95173912)
- > 浅谈数据库的安全保护
- ## [MySql知识点汇总--笔经面经](https://blog.csdn.net/weixin_40945195/article/details/95373418)
- > MySql知识点汇总--笔经面经
- ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
- > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
- ## [数据库实验——数据库的完整性约束](https://blog.csdn.net/qq_43776450/article/details/95633712)
- > 数据库实验——数据库的完整性约束
- ## [数据库并发操作的有关知识](https://blog.csdn.net/weixin_43393412/article/details/96164370)
- > 数据库并发操作的有关知识
- ## [20年研发管理经验谈（十三）](https://blog.csdn.net/weixin_39759846/article/details/94379082)
- > 20年研发管理经验谈（十三）
- ## [数据库实验——T-SQL语言创建及管理数据库](https://blog.csdn.net/qq_43776450/article/details/96089423)
- > 数据库实验——T-SQL语言创建及管理数据库
- ## [SQL存储过程和函数](https://blog.csdn.net/qq_17556191/article/details/94722621)
- > SQL存储过程和函数
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
- ## [sqlserver 分页方法](https://blog.csdn.net/weixin_41048746/article/details/94901217)
- > sqlserver 分页方法
- ## [Web安全之代码执行漏洞](https://blog.csdn.net/qq_37133717/article/details/94760485)
- > Web安全之代码执行漏洞
- ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
- > 携程敏捷总动员
+ ## [Web安全渗透学习-环境搭建](https://blog.csdn.net/weixin_43468445/article/details/93618521)
+ > Web安全渗透学习-环境搭建
+ ## [19年关于跨境电商,它的一些资讯干货，你们了解吗？](https://blog.csdn.net/ylfqwe/article/details/94439690)
+ > 19年关于跨境电商,它的一些资讯干货，你们了解吗？
+ ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
+ > WebRTC重要API和音视频分析
 # PM 
  ## [解密：如何加速和提升SaaS企业的客户成功](http://www.chanpin100.com/article/108973)
  > 报名成功即送限量签名版《硅谷蓝图》哦！
