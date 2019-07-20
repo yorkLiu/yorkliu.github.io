@@ -1,22 +1,28 @@
 ---
 title: 2019-07-20 IT News
 copyright: true
-date: 2019-07-20 10:01:12
+date: 2019-07-20 12:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrmch8ankAPp7AQ*n7M-2cuUPovKRa167aL1twM1vQDOiA5xdWekNgyhORWhUeaPpanRCupbGiKLe3ItDAVYaTmI&new=1)
- > 近日，中国电信公示了5G规模组网建设及应用示范工程（无线主设备部分）单一来源。此次项目采购主要是为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南12省的3.5G频段5G无线网主设备及...
- ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJptDS*dsx4viUHRaiX*AyPd4SaQ9Mcr1qJpNzTZslsLhglm0UgF7kbqmI7umASz5ITfYtRWnj9c8*6ZjboAoN-GF&new=1)
- > 自从华为被禁后，多家美国公司纷纷宣布暂停合作的消息。其中，谷歌公司宣布暂停部分功能对华为终端的开放，引发了国内外媒体的广泛关注。随后，有消息称华为将要推出自家鸿蒙OS操作系统，该系统将会打通手机、平...
- ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCGanzKoxs85OyD0pXhVFKnYpdz*5VCC7Y2odLTeY6iBukI1qw31gakZ*UCoGavuzn*3nDkFZvO091suVavKaPcX&new=1)
- > 7月19日，中国电信发布了5G规模组网建设及应用示范工程（无线主设备部分）单一来源采购公示。公示显示，该项目采购内容为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南等12省的3.5G...
- ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x0J61SlxQVcKGOIz2cE2CMF4f8S9JhqgOd4QtA1pWS8zaeCYZJrn7dRCmNy8k8q-41gEzHRY2oJxG6nZKmMTZbv&new=1)
- > 中国联合网络通信股份有限公司公布 2019 年 6 月份的运营数据，详情如下：一、移动业务移动出账用户累计到达数 32,435.3 万户移动出账用户本月净增数 2.4 万户其中：4G 用户累计到达数 23,893.9 万户 4G 用户本...
- ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65DaPh6ee9BLzLUwZnX268SxKdfW-pAAcWY-55*XFm3bld1G5-qrhvpM6k4CLncXCm7qlUIRrg10daTiXZHNz3lS&new=1)
+ ## [微软市值重回万亿美元，FB 在区块链、VR领域多方出击..|一周热闻回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=RGcLE*zkpFUSxb9pLbh24gl4gtTN6Z8f86--iQt-F718AYrkBVEpJkdow4fFYjeWZ4wLUpcuN*iAJ00qFyw56Cs76mPzVf5ViTrVNwhCjj6zxFmj*zQiThFEEUrW2gah&new=1)
+ > 硅谷Live / 实地探访 / 热点探秘 / 深度探讨大家周末好，又到了本周科技热闻回顾的时间了！本周的一大热点，当然是Facebook 的 Libra 在美国参众两院进行听证。硅谷洞察也在第一时间报道了这两场听众会，可以点...
+ ## [APT组织攻击欧洲、拉丁美洲的外交机构](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=uTGA5YVaNQDlNwLVmcGXKnfG4LPK4BkrpXg5wDnWvMLSS8NeVvCI7UVanoQ8AExyQqxVz9zJ7k-U2DtwVYpZUbwkoJWryBCYEBKqdPpz0SZ38QeD53eIvGUgkrpyM5c-&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：研究人员发现了恶意软件Okrum和Ketrican的新版本，用于对欧洲和拉丁美洲的外交机构进行间谍活动。据外媒报道，网络安全公司ESET的研究人员发现了恶意...
+ ## [从“缺芯”到“强芯”，深圳科技园用实力对标美国硅谷](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=ZvgagG2lQBPXjDLwBN-FgGOEEhDUBXp0affxxtDyhZjt5GBaWpmDy54yfHdHAINMOfK0jM3fVgyT4OPUUR75gjTUz3CUT-cN-YZrDNd*MXT2HXqPDJXoW0zsOYRGtK3q&new=1)
+ > 在深圳科技园上班的朋友们可能会有这样的体验，这里总是充满着创新与活力！这里寸土寸金，基本都是高楼大厦。白天人来人往，地铁里比肩接踵，晚上灯火通明，色彩斑斓……似乎一天二十四小时都有人在上班。深圳的...
+ ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65Ce7uqAcmv4g5JiJCsz2kU*BtMAtOFwbR5-9rQp6GdiH5qwHaaVIe7ecWkLYm2*3Qpxf0YzPglX1C0*00FvL2S7&new=1)
  > 丰田公司联合硬蛋为中国汽车产业提供了绿色通道，一时间云集了各方豪杰，竞相亮相。真是八仙过海，各显神通。吸引了无数顶尖企业前来“切磋”。作为日本著名的汽车生产企业，丰田公司是仅次于通用公司和福特公司...
- ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563588004&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrGuxRCqz44uxb4ONfEfnqpRg8hJqwk2lnPSlnJp5FWtuuqeMiHVju7Y0Q0XkwkLb3Zh49s4Cqy6KiX82*ur4O7D&new=1)
+ ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x01lJg8S7NeGcOfInOrWB2Yskp6CYfzRiOOiD3UD055MOJnIA3VdeILmH-Y3vIdh8gypcSYYyB*ZZ2XIr34vDaJ&new=1)
+ > 中国联合网络通信股份有限公司公布 2019 年 6 月份的运营数据，详情如下：一、移动业务移动出账用户累计到达数 32,435.3 万户移动出账用户本月净增数 2.4 万户其中：4G 用户累计到达数 23,893.9 万户 4G 用户本...
+ ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJpuuVMlANH7zocw04Oe0fNdT5bdByUoVf2fdbJeQW6HpKZhdQGpK4FpgH2lC4febclmqrqB1CUwuUk1z4b5R7qvl&new=1)
+ > 自从华为被禁后，多家美国公司纷纷宣布暂停合作的消息。其中，谷歌公司宣布暂停部分功能对华为终端的开放，引发了国内外媒体的广泛关注。随后，有消息称华为将要推出自家鸿蒙OS操作系统，该系统将会打通手机、平...
+ ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrl3vYhrfG1fCA4iyzqnZ4JbpobYs33A-iW28yRJrawYgFGNmH6kYNfRXN8YhFMA-meKJ8-oVYIfZGMD-sCwIXUK&new=1)
+ > 近日，中国电信公示了5G规模组网建设及应用示范工程（无线主设备部分）单一来源。此次项目采购主要是为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南12省的3.5G频段5G无线网主设备及...
+ ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCEL01bzwkIRh1rzzzRn55qoob4k-Hxzg5yqgb1LSQUso5oeXIhPZgaIJL0y023DrZC7ciRjxxD8ylN72FlbPUZE&new=1)
+ > 7月19日，中国电信发布了5G规模组网建设及应用示范工程（无线主设备部分）单一来源采购公示。公示显示，该项目采购内容为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南等12省的3.5G...
+ ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrHNeF3WLdYWotZqg*Sio55SoPj730hhGV4nGz1KAxsza6*k4EI4nQBrGR*dWAGQ4k-0BgkJBbZ5bRVpkLkR*3ba&new=1)
  > 1. 密码复杂性有一种说法是密码需要 “易于记住，但其他人难以猜测”。这种说法比较含糊，因为新破解技术存在的唯一目的，就是在几秒钟内暴力破解密码，而不是运用社会工程学套取密码。简单地说，根据密码学原理...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -79,32 +85,32 @@ categories: IT NEWS
  > 53K！拿下阿里Python岗，这些技术点全考了！
  ## [CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
  > CSDN日报190719：字节跳动面经来啦！！！
- ## [物联网不断发展创新 物联网卡仍是主力](https://blog.csdn.net/qq_40798435/article/details/93063285)
- > 物联网不断发展创新 物联网卡仍是主力
- ## [我凭借这个pdf拿下了百度/秒针/去哪儿/华为/创新工厂/一点资讯等互联网公司的offer](https://blog.csdn.net/li420520/article/details/93128448)
- > 我凭借这个pdf拿下了百度/秒针/去哪儿/华为/创新工厂/一点资讯等互联网公司的offer
- ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
- > 华为手机自带语音转文字的功能，转换方法如下
- ## [云杰恒指：6.20恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/92965932)
- > 云杰恒指：6.20恒指期货早盘资讯
- ## [物联网移动APP架构设计](https://blog.csdn.net/qq_39424143/article/details/93876760)
- > 物联网移动APP架构设计
- ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
- > 转战物联网·基础篇02-物联网中的角儿
- ## [19年关于跨境电商,它的一些资讯干货，你们了解吗？](https://blog.csdn.net/ylfqwe/article/details/94439690)
- > 19年关于跨境电商,它的一些资讯干货，你们了解吗？
- ## [物联网协议CoAP](https://blog.csdn.net/sbddbfm/article/details/95484763)
- > 物联网协议CoAP
- ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
- > 架构杂谈《四》
- ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
- > 如何将语音翻译成中文、语音转文字怎么做
- ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
- > 资讯类网站增量式爬虫
- ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
- > 物联网的发展与应用
- ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
- > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
+ ## [咸鱼前端—html初识](https://blog.csdn.net/weixin_45020839/article/details/94572272)
+ > 咸鱼前端—html初识
+ ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
+ > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
+ ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
+ > Atlassian In Action-Jira之核心插件（三）
+ ## [前端学习基础第八天](https://blog.csdn.net/weixin_43629719/article/details/94435350)
+ > 前端学习基础第八天
+ ## [前端编程思想](https://blog.csdn.net/qq_38603437/article/details/93340916)
+ > 前端编程思想
+ ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
+ > 今天开始写一下学习java中级每一天的知识点总结
+ ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
+ > Atlassian In Action-Jira之推荐插件（四）
+ ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
+ > 好用的抖音视频剪辑软件推荐
+ ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
+ > WebRTC重要API和音视频分析
+ ## [前端之JavaScript基础2](https://blog.csdn.net/weixin_41282726/article/details/96435022)
+ > 前端之JavaScript基础2
+ ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
+ > 携程敏捷总动员
+ ## [20年研发管理经验谈（十一）](https://blog.csdn.net/weixin_39759846/article/details/93618110)
+ > 20年研发管理经验谈（十一）
+ ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
+ > 万能音视频转换器：Permute 3 for mac
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [阿里技术副总裁贾扬清、微软 CTO 韦青重磅出席 AI 开发者大会！](https://blog.csdn.net/csdnnews/article/details/96530966)
@@ -126,37 +132,43 @@ categories: IT NEWS
  ## [谷歌停止中国版搜索引擎；李楠宣布离职魅族；微软用 Rust 替代 C/C++ | 极客头条...](https://blog.csdn.net/csdnnews/article/details/96530915)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
 # 人工智能 
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
- ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
- > 棋牌游戏开发做好策划方案 拥有互联网思维
- ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
- > 5G时代到来 棋牌游戏开发技术如虎添翼
- ## [关于游戏开发网络协议方面的一些杂谈](https://blog.csdn.net/iov3Rain/article/details/95080308)
- > 关于游戏开发网络协议方面的一些杂谈
- ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
- > 梦想还是要有的，即使被摧残着！
+ ## [棋牌游戏开发成为流量体 强强联合](https://blog.csdn.net/motianyougame/article/details/93502187)
+ > 棋牌游戏开发成为流量体 强强联合
+ ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
+ > 来看漫画：我才是世界上最好的编程语言
+ ## [从零开始学编程——编程语言](https://blog.csdn.net/static_zh/article/details/93201726)
+ > 从零开始学编程——编程语言
+ ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
+ > 快速排序 python 代码实现
+ ## [UE4 多人地下城联机游戏开发初章](https://blog.csdn.net/qq769919187/article/details/93603500)
+ > UE4 多人地下城联机游戏开发初章
+ ## [前端知识每日小拷问 002](https://blog.csdn.net/WU5229485/article/details/94971681)
+ > 前端知识每日小拷问 002
  ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
  > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
- ## [记录一次大厂的游戏引擎工程师的两次技术面试](https://blog.csdn.net/memories_sunset/article/details/95192933)
- > 记录一次大厂的游戏引擎工程师的两次技术面试
- ## [游戏开发_数学与物理](https://blog.csdn.net/qq_35433081/article/details/93397894)
- > 游戏开发_数学与物理
- ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
- > 开启技术之旅——我的第一篇博客
- ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
- > 棋牌游戏开发质量缘何陷入低水平状态
- ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
- > 数据湖正在成为新的数据仓库
- ## [我的程序人生：码农](https://blog.csdn.net/qq_37143673/article/details/93231321)
- > 我的程序人生：码农
- ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
- > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
- ## [两场雨的程序人生](https://blog.csdn.net/Mr_carry/article/details/95533590)
- > 两场雨的程序人生
- ## [c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子](https://blog.csdn.net/u014194297/article/details/93332625)
- > c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子
+ ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
+ > 简书：编程入门学习的困惑
+ ## [Python图形界面游戏开发](https://blog.csdn.net/PyhtonChen/article/details/96149214)
+ > Python图形界面游戏开发
+ ## [【编程语言】快速掌握 Perl](https://blog.csdn.net/lsj960922/article/details/94440545)
+ > 【编程语言】快速掌握 Perl
+ ## [游戏开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
+ > 游戏开发防作弊以及原理
+ ## [ARDUINO电路板及编程语言](https://blog.csdn.net/lchu55/article/details/95594717)
+ > ARDUINO电路板及编程语言
+ ## [前端常见面试题1](https://blog.csdn.net/qq_44306441/article/details/95157120)
+ > 前端常见面试题1
+ ## [Move: 一门面向资产的编程语言](https://blog.csdn.net/toafu/article/details/95307602)
+ > Move: 一门面向资产的编程语言
+ ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
+ > 5G时代到来 棋牌游戏开发技术如虎添翼
 # PM 
+ ## [B端硬件产品如何收集情报信息？](http://www.woshipm.com/pd/2608083.html)
+ > 在确定产品需求制定产品概念前，需要全面收集与产品相关的多方情报信息。这些信息会为确定产品路线、产品方案、定价策略、关键用户群等要素提供足够的数据支撑。B端硬件...
+ ## [最全标题套路：写好标题的1个中心，5个技巧，3个原则](http://www.woshipm.com/marketing/2608799.html)
+ > 震惊！！！这里有一份独门秘籍要传给你！！！看后秒懂！！！张小龙讲：再小的个体也有自己的品牌。他没讲的是，品牌多了，竞争就大。2000万+个微信公众号，上百万头...
+ ## [品牌人格化营销，如何再造一个江小白？！](http://www.woshipm.com/marketing/2607735.html)
+ > 本文中，作者为我们详解了什么是品牌人格化营销、人格化营销的价值点，以及如何进行具体落实，以达成事半功倍的营销效果。这篇文章里，我将和大家谈谈品牌人格化营销...
  ## [解密：如何加速和提升SaaS企业的客户成功](http://www.chanpin100.com/article/108973)
  > 报名成功即送限量签名版《硅谷蓝图》哦！
  ## [APP推广可以耍流氓？这些APP黑科技确实很流氓！](http://www.chanpin100.com/article/108979)
