@@ -1,28 +1,36 @@
 ---
 title: 2019-07-20 IT News
 copyright: true
-date: 2019-07-20 12:01:14
+date: 2019-07-20 17:01:39
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [微软市值重回万亿美元，FB 在区块链、VR领域多方出击..|一周热闻回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=RGcLE*zkpFUSxb9pLbh24gl4gtTN6Z8f86--iQt-F718AYrkBVEpJkdow4fFYjeWZ4wLUpcuN*iAJ00qFyw56Cs76mPzVf5ViTrVNwhCjj6zxFmj*zQiThFEEUrW2gah&new=1)
- > 硅谷Live / 实地探访 / 热点探秘 / 深度探讨大家周末好，又到了本周科技热闻回顾的时间了！本周的一大热点，当然是Facebook 的 Libra 在美国参众两院进行听证。硅谷洞察也在第一时间报道了这两场听众会，可以点...
- ## [APT组织攻击欧洲、拉丁美洲的外交机构](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=uTGA5YVaNQDlNwLVmcGXKnfG4LPK4BkrpXg5wDnWvMLSS8NeVvCI7UVanoQ8AExyQqxVz9zJ7k-U2DtwVYpZUbwkoJWryBCYEBKqdPpz0SZ38QeD53eIvGUgkrpyM5c-&new=1)
+ ## [菜鸟回应智能快递箱新规：早已将选择权交给用户 用户可享免费服务](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=KwEaY8WGXLt4Nm*tA8lS7nMXpR3YzuhioDjCcQkj3hEN42cxVNSFauE5Irk8Aw5loZaPe8wqON6tj3f*ir-E0Zke4wCNiNZlluInuh0lJdk0n-Utfb2J0JWe0fnu0CZC&new=1)
+ > 20日，针对国家邮政局对智能快递箱使用，要求需征得用户同意一事，菜鸟网络方面回应称，早已经将选择权交给了用户，用户如果不同意存放，快递员将无法打开柜门。19日，国家邮政局发布《智能快件箱寄递服务管理办...
+ ## [2019年中国智能门锁行业市场前景研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=Ykkj11LmpXnovV3AfXmdF-eptIrHvhH*BZCOg*Yzv6ub2uqEom1PrC2Xx5QAFDUBCFrtuuUx6hNLWgUKnn7WmyHbv96hHR3RUSSKpN8rkTZkp8vCc5RiPhwT1yRepGn*&new=1)
+ > 数据来源：中商产业研究院PART1智能门锁行业概况智能门锁是指区别于传统机械锁的基础上改进，是门禁系统中锁门的执行部件，在用户安全性、识别、管理型的方面智能化简便化的锁具。具有指纹开锁、密码开锁、App蓝...
+ ## [鸿蒙将用于工业；三星新芯片支持 5G 和 AI；Material UI 4.2.1 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=mju2aZQgu56Xr*2jn4UBGK1mBLYYcPuCNRtsSHMphXIkUUSxM9fzQ-cueUaKkKwaatpcN-s5JIOyc2wvWBhit8OZdN3VdgLlPxVkfejCz4LB1zIJSy5D8bcxy0hj7GG5&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [APT组织攻击欧洲、拉丁美洲的外交机构](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=uTGA5YVaNQDlNwLVmcGXKnfG4LPK4BkrpXg5wDnWvMKIjuQ3KrnzvFNGZk9lowPa8Rk1TiJQl*F8Ya2n1uIQkXo2V7A1ebaK1RIehn9n8JxTV1kNq6*5VeQfkfPlZTbf&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：研究人员发现了恶意软件Okrum和Ketrican的新版本，用于对欧洲和拉丁美洲的外交机构进行间谍活动。据外媒报道，网络安全公司ESET的研究人员发现了恶意...
- ## [从“缺芯”到“强芯”，深圳科技园用实力对标美国硅谷](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=ZvgagG2lQBPXjDLwBN-FgGOEEhDUBXp0affxxtDyhZjt5GBaWpmDy54yfHdHAINMOfK0jM3fVgyT4OPUUR75gjTUz3CUT-cN-YZrDNd*MXT2HXqPDJXoW0zsOYRGtK3q&new=1)
+ ## [三进制时代即将到来!单位面积器件数量可减少37%](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=qbnvOH9Qp2127BWtMfP7juU0IeV*UiVGUiz8lxj3umFgt5NVcLk01vJigCsxJ1Cop6bA5r9yFuh7D6Pqsqbz3IpLudYxIAE5aTcLuItmo9uL*CONpcG8O2JNDu6nAtrM&new=1)
+ > 近日，由韩国蔚山科技大学Kim Kyung-rok教授领导的研究小组成功研发了世界上第一个大尺寸晶圆上的三进制半导体设计，这对未来开发低功耗和高效能的微芯片有重要的意义。此外，此项研究对促进人工智能，自动驾驶...
+ ## [微软市值重回万亿美元，FB 在区块链、VR领域多方出击..|一周热闻回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=RGcLE*zkpFUSxb9pLbh24gl4gtTN6Z8f86--iQt-F72JmbwHpXPOAV5n61JnfUHSiiXXKFzPsJngb6uz4jfXDkjhjt*Cv-3aUbGjPCr9Ebp6poU9MEgYK4w0S-j0pCf3&new=1)
+ > 硅谷Live / 实地探访 / 热点探秘 / 深度探讨大家周末好，又到了本周科技热闻回顾的时间了！本周的一大热点，当然是Facebook 的 Libra 在美国参众两院进行听证。硅谷洞察也在第一时间报道了这两场听众会，可以点...
+ ## [从“缺芯”到“强芯”，深圳科技园用实力对标美国硅谷](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=ZvgagG2lQBPXjDLwBN-FgGOEEhDUBXp0affxxtDyhZhd2l2mxQrLBIwiICzJXvBdaHkipFI8irst9sc2JqyK5jbbUUjc9da5HX*TZpDKrcD-hTvSVtP0juU9ybTWFWJn&new=1)
  > 在深圳科技园上班的朋友们可能会有这样的体验，这里总是充满着创新与活力！这里寸土寸金，基本都是高楼大厦。白天人来人往，地铁里比肩接踵，晚上灯火通明，色彩斑斓……似乎一天二十四小时都有人在上班。深圳的...
- ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65Ce7uqAcmv4g5JiJCsz2kU*BtMAtOFwbR5-9rQp6GdiH5qwHaaVIe7ecWkLYm2*3Qpxf0YzPglX1C0*00FvL2S7&new=1)
+ ## [智能汽车的守护神，瓶钵信息科技进驻丰田硬蛋智能汽车生态!](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=l2juSyzMceBe9ghF-XqFZVTimenmkhXM8mx5dOEB65DR9T15Z3FcmGYiDmMQkCZRn69GFNmgbJl3B-WXhLGUJwpk8XThCDEgmUJjsuCZ8dIRKfpwul7GdowRj8Tlapk6&new=1)
  > 丰田公司联合硬蛋为中国汽车产业提供了绿色通道，一时间云集了各方豪杰，竞相亮相。真是八仙过海，各显神通。吸引了无数顶尖企业前来“切磋”。作为日本著名的汽车生产企业，丰田公司是仅次于通用公司和福特公司...
- ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x01lJg8S7NeGcOfInOrWB2Yskp6CYfzRiOOiD3UD055MOJnIA3VdeILmH-Y3vIdh8gypcSYYyB*ZZ2XIr34vDaJ&new=1)
+ ## [重磅!势头强劲：联通高调官宣6月份业务数据全文!](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=0OpxVq24NrNtqDZRqc7DKRJ9INhVco14hdfJYOs51x1DSUMk2YY39gxBGGWnpEBeGwasO69-BHhALWj6*KUnr2We*CmdOmK08o2ofOg3PncsOw0O5A7E63g94vqOb7T*&new=1)
  > 中国联合网络通信股份有限公司公布 2019 年 6 月份的运营数据，详情如下：一、移动业务移动出账用户累计到达数 32,435.3 万户移动出账用户本月净增数 2.4 万户其中：4G 用户累计到达数 23,893.9 万户 4G 用户本...
- ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJpuuVMlANH7zocw04Oe0fNdT5bdByUoVf2fdbJeQW6HpKZhdQGpK4FpgH2lC4febclmqrqB1CUwuUk1z4b5R7qvl&new=1)
+ ## [华为鸿蒙系统用的什么语言?和安卓有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=zsbNU0SI5uWZYa0RbQ4g6ZY8krz*L9ATAvfEwbOQJpsm-KqEuSVZf80omr*HjTxWZQtILoNlw5kpdX058DKrJtbn6YzXZ4UTZNE96*uxqRY4GHzBPWzDeOIzolhvM3ub&new=1)
  > 自从华为被禁后，多家美国公司纷纷宣布暂停合作的消息。其中，谷歌公司宣布暂停部分功能对华为终端的开放，引发了国内外媒体的广泛关注。随后，有消息称华为将要推出自家鸿蒙OS操作系统，该系统将会打通手机、平...
- ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrl3vYhrfG1fCA4iyzqnZ4JbpobYs33A-iW28yRJrawYgFGNmH6kYNfRXN8YhFMA-meKJ8-oVYIfZGMD-sCwIXUK&new=1)
+ ## [中国电信开启12省5G设备集采，韦乐平：5G建设应尽快向SA迁移](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=LcLNqZRss3RIgoWbHCwO3aX4i1v5QtUCqktLnJMdgrmkF7pOvPzdx44StICaBbinPisx*WLEVXgllCZm4sP0iVNGyl9GhhWLLjJrKaz4Th1avm4vOMK8-00SkJHg8VOA&new=1)
  > 近日，中国电信公示了5G规模组网建设及应用示范工程（无线主设备部分）单一来源。此次项目采购主要是为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南12省的3.5G频段5G无线网主设备及...
- ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCEL01bzwkIRh1rzzzRn55qoob4k-Hxzg5yqgb1LSQUso5oeXIhPZgaIJL0y023DrZC7ciRjxxD8ylN72FlbPUZE&new=1)
+ ## [中国电信12省5G基站集采，采用租赁方式](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=PecQ7s77cSrTaQHe3sxCtUKJdV7KX6sGaVla9Hq9UCGsqSSAeyYppZt9lAxW88k3idqaZ6EDXdTHp5Gm*evot68501lU3Gpw2A4TFVwi9-*bCpg5h-f5ihCi35UTmLJ*&new=1)
  > 7月19日，中国电信发布了5G规模组网建设及应用示范工程（无线主设备部分）单一来源采购公示。公示显示，该项目采购内容为北京、河北、广东、上海、重庆、浙江、江苏、湖北、四川、甘肃、福建、海南等12省的3.5G...
- ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563595204&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrHNeF3WLdYWotZqg*Sio55SoPj730hhGV4nGz1KAxsza6*k4EI4nQBrGR*dWAGQ4k-0BgkJBbZ5bRVpkLkR*3ba&new=1)
+ ## [如何创建容易记住但又足够安全的密码 推荐6种加强密码的方法](http://mp.weixin.qq.com/s?src=11&timestamp=1563613204&ver=1739&signature=nszRFxhxx5zpmY03AzXTbs14v7O-L7xXp80yah5SWrHBAHWIDyjigqTurgHEuudj0yoFDMYqF7I2d9GJd3EB8juggcTMJ94fMvoFWpNO6YUjlFU8O8JGC2spVGAAE9ao&new=1)
  > 1. 密码复杂性有一种说法是密码需要 “易于记住，但其他人难以猜测”。这种说法比较含糊，因为新破解技术存在的唯一目的，就是在几秒钟内暴力破解密码，而不是运用社会工程学套取密码。简单地说，根据密码学原理...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -85,34 +93,36 @@ categories: IT NEWS
  > 53K！拿下阿里Python岗，这些技术点全考了！
  ## [CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
  > CSDN日报190719：字节跳动面经来啦！！！
- ## [咸鱼前端—html初识](https://blog.csdn.net/weixin_45020839/article/details/94572272)
- > 咸鱼前端—html初识
- ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
- > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
- ## [前端学习基础第八天](https://blog.csdn.net/weixin_43629719/article/details/94435350)
- > 前端学习基础第八天
- ## [前端编程思想](https://blog.csdn.net/qq_38603437/article/details/93340916)
- > 前端编程思想
- ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
- > 今天开始写一下学习java中级每一天的知识点总结
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
- ## [好用的抖音视频剪辑软件推荐](https://blog.csdn.net/vivi_xu/article/details/93021284)
- > 好用的抖音视频剪辑软件推荐
- ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
- > WebRTC重要API和音视频分析
- ## [前端之JavaScript基础2](https://blog.csdn.net/weixin_41282726/article/details/96435022)
- > 前端之JavaScript基础2
- ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
- > 携程敏捷总动员
- ## [20年研发管理经验谈（十一）](https://blog.csdn.net/weixin_39759846/article/details/93618110)
- > 20年研发管理经验谈（十一）
- ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
- > 万能音视频转换器：Permute 3 for mac
+ ## [BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！](https://blog.csdn.net/CSDNedu/article/details/95959061)
+ > BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！
+ ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
+ > 网络爬虫HTTP原理、网页请求、网页基础
+ ## [数据库的竖转横（菜鸟小白第一次发）](https://blog.csdn.net/weixin_45326606/article/details/96473811)
+ > 数据库的竖转横（菜鸟小白第一次发）
+ ## [数据库MySQL总结（自我复习用）](https://blog.csdn.net/lisaaaaaas0405/article/details/95644255)
+ > 数据库MySQL总结（自我复习用）
+ ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
+ > 人工智能知识点总结
+ ## [Linux下MySQL导入excel文件](https://blog.csdn.net/weixin_42306122/article/details/96431196)
+ > Linux下MySQL导入excel文件
+ ## [数据库复习知识点](https://blog.csdn.net/hwy499/article/details/94725397)
+ > 数据库复习知识点
+ ## [数据库设计之冗余、索引以及查询优化](https://blog.csdn.net/Wu_Shang001/article/details/96038159)
+ > 数据库设计之冗余、索引以及查询优化
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
+ ## [人工智能05 计算机视觉](https://blog.csdn.net/weixin_41565471/article/details/95045394)
+ > 人工智能05 计算机视觉
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [flask_sqlalchemy基础,数据的增删改查](https://blog.csdn.net/Regan_Yu/article/details/95179571)
+ > flask_sqlalchemy基础,数据的增删改查
+ ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
+ > JAVA基础7-Stream基础学习笔记
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [小米主办HBaseCon亚洲峰会，打造世界一流的“工程师理想乐园”](https://blog.csdn.net/csdnnews/article/details/96601753)
+ > 7月20日，小米集团和Apache HBase社区联合主办，阿里巴巴、腾讯和华为共同协办的HBaseCon亚洲2019峰会在北京隆重召开。
  ## [阿里技术副总裁贾扬清、微软 CTO 韦青重磅出席 AI 开发者大会！](https://blog.csdn.net/csdnnews/article/details/96530966)
  > 整理 | 夕颜硬核 AI 技术大会，一年参加一次就够了！9 月 6日-7 日，2019 AI 开发者大会（AI ProCon）将在北京富力万丽酒店举行，人工智能领域技术领...
  ## [面试稳了！BATJ 等大厂 400+ 道面试题全汇总！](https://blog.csdn.net/csdnnews/article/details/96531006)
@@ -132,36 +142,36 @@ categories: IT NEWS
  ## [谷歌停止中国版搜索引擎；李楠宣布离职魅族；微软用 Rust 替代 C/C++ | 极客头条...](https://blog.csdn.net/csdnnews/article/details/96530915)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
 # 人工智能 
- ## [棋牌游戏开发成为流量体 强强联合](https://blog.csdn.net/motianyougame/article/details/93502187)
- > 棋牌游戏开发成为流量体 强强联合
- ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
- > 来看漫画：我才是世界上最好的编程语言
- ## [从零开始学编程——编程语言](https://blog.csdn.net/static_zh/article/details/93201726)
- > 从零开始学编程——编程语言
- ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
- > 快速排序 python 代码实现
- ## [UE4 多人地下城联机游戏开发初章](https://blog.csdn.net/qq769919187/article/details/93603500)
- > UE4 多人地下城联机游戏开发初章
- ## [前端知识每日小拷问 002](https://blog.csdn.net/WU5229485/article/details/94971681)
- > 前端知识每日小拷问 002
- ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
- > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
- ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
- > 简书：编程入门学习的困惑
- ## [Python图形界面游戏开发](https://blog.csdn.net/PyhtonChen/article/details/96149214)
- > Python图形界面游戏开发
- ## [【编程语言】快速掌握 Perl](https://blog.csdn.net/lsj960922/article/details/94440545)
- > 【编程语言】快速掌握 Perl
- ## [游戏开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
- > 游戏开发防作弊以及原理
- ## [ARDUINO电路板及编程语言](https://blog.csdn.net/lchu55/article/details/95594717)
- > ARDUINO电路板及编程语言
- ## [前端常见面试题1](https://blog.csdn.net/qq_44306441/article/details/95157120)
- > 前端常见面试题1
- ## [Move: 一门面向资产的编程语言](https://blog.csdn.net/toafu/article/details/95307602)
- > Move: 一门面向资产的编程语言
- ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
- > 5G时代到来 棋牌游戏开发技术如虎添翼
+ ## [BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！](https://blog.csdn.net/CSDNedu/article/details/95959061)
+ > BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！
+ ## [云杰恒指：6.20恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/92965932)
+ > 云杰恒指：6.20恒指期货早盘资讯
+ ## [flutter 如何实现文件读写(使用篇)](https://blog.csdn.net/weixin_42110682/article/details/95333428)
+ > flutter 如何实现文件读写(使用篇)
+ ## [音视频开发--音视频的基础知识--视频](https://blog.csdn.net/qq_28877125/article/details/94911383)
+ > 音视频开发--音视频的基础知识--视频
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
+ > 资讯类网站增量式爬虫
+ ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
+ > 数据湖正在成为新的数据仓库
+ ## [三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer](https://blog.csdn.net/Android_SE/article/details/96141934)
+ > 三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer
+ ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
+ > 进退博弈：恒指7.12号早盘资讯及交易计划
+ ## [音视频的相关名词、术语、概念](https://blog.csdn.net/weixin_40763897/article/details/94590798)
+ > 音视频的相关名词、术语、概念
+ ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
+ > 抖音视频置顶？抖音视频置顶功能全解！
+ ## [你还不打算试试Android X吗？](https://blog.csdn.net/androidokk/article/details/96432559)
+ > 你还不打算试试Android X吗？
+ ## [张萌&韩墨羽——Dialog对话框](https://blog.csdn.net/Zephyr_0312/article/details/94758347)
+ > 张萌&amp;韩墨羽——Dialog对话框
+ ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
+ > WebRTC重要API和音视频分析
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
 # PM 
  ## [B端硬件产品如何收集情报信息？](http://www.woshipm.com/pd/2608083.html)
  > 在确定产品需求制定产品概念前，需要全面收集与产品相关的多方情报信息。这些信息会为确定产品路线、产品方案、定价策略、关键用户群等要素提供足够的数据支撑。B端硬件...
@@ -169,22 +179,6 @@ categories: IT NEWS
  > 震惊！！！这里有一份独门秘籍要传给你！！！看后秒懂！！！张小龙讲：再小的个体也有自己的品牌。他没讲的是，品牌多了，竞争就大。2000万+个微信公众号，上百万头...
  ## [品牌人格化营销，如何再造一个江小白？！](http://www.woshipm.com/marketing/2607735.html)
  > 本文中，作者为我们详解了什么是品牌人格化营销、人格化营销的价值点，以及如何进行具体落实，以达成事半功倍的营销效果。这篇文章里，我将和大家谈谈品牌人格化营销...
- ## [解密：如何加速和提升SaaS企业的客户成功](http://www.chanpin100.com/article/108973)
- > 报名成功即送限量签名版《硅谷蓝图》哦！
- ## [APP推广可以耍流氓？这些APP黑科技确实很流氓！](http://www.chanpin100.com/article/108979)
- > ASO优化
- ## [为什么要停止使用产品路线图并尝试GIST规划](http://www.chanpin100.com/article/108977)
- > 为什么要停止使用产品路线图并尝试GIST规划
- ## [易观分析：2019年中国SaaSCRM市场实力矩阵分析](http://www.chanpin100.com/article/108978)
- > 根据Analysys易观近期发布的《2019年中国SaaS CRM市场实力矩阵分析报告》，Analysys易观对2018年至2020年主要SaaS CRM厂商在实力矩阵中所处的位置以及执行、运营能力和创新能力的变化情况作如下解读。
- ## [中国餐饮行业小微商户收单服务市场专题分析2019](http://www.chanpin100.com/article/108975)
- > 随着我国第三方支付、移动支付和互联网外卖等行业的高速发展，整个餐饮行业小微商户收单市场也进入了高速发展期。未来，除了基础的收单服务之外，越来越多的第三方支付企业开始更加关注小微商户的其他需求，力图通过提供更多增值服务的形式来提高自身利润，增强自身竞争力。
- ## [案例分析：购物类直播软件开发，你选择哪种定位和盈利模式？](http://www.chanpin100.com/article/108976)
- > 从直播软件开发的角度上来说，想要开发购物直播软件，有两种参考方向，一种是开发类似快手app、抖音那样点击购物广告跳转到其他商城平台的软件，另一种是开发像淘宝直播、小红书app那样的直播＋短视频＋购物的app。
- ## [斗鱼终上市，市场开新篇？](http://www.chanpin100.com/article/108971)
- > 斗鱼上市了，与其说多年媳妇熬成婆不如说在不上市就晚了。北京时间七月十七日万，游戏直播平台斗鱼在纳斯达克挂牌交易。斗鱼发行价11.5美元每股，17日开盘随机破发，盘中跌幅一度超过4.0%。截至收盘，斗鱼每股价格11.5美元，与发行价持平，总市值37.33亿美元。
- ## [你分不清的认知地图、思维导图、概念图都在这了](http://www.chanpin100.com/article/108970)
- > 认知地图、思维导图和概念图最终增强了我们的认知理解，使用一种技术而不是另一种技术不会成就或破坏一个项目。理想情况下，根据我们的需要，将这三种方法组合将在流程的不同位置，根据现实场景的需要使用。
  ## [个人破产制度有望试点，这意味着什么？](http://www.pmtoo.com/article/78402.html)
  > 欠债还钱，天经地义，但这一根深蒂固的观念可能会随着「个人破产制度」的出现而发生一些变化。7 月 16 日，国家发改委等 13 ...
  ## [为什么你始终做不好内容营销？](http://www.pmtoo.com/article/78394.html)
