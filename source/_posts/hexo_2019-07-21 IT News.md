@@ -1,24 +1,30 @@
 ---
 title: 2019-07-21 IT News
 copyright: true
-date: 2019-07-21 10:01:20
+date: 2019-07-21 12:01:49
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为高管称研发鸿蒙系统初衷就不是为了智能手机](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=1OOtz7bWRmE4wPXV-1q0ovEM7AgENrpt1WLuB6ehEfRVFgxZlC0iqfsaNRCRLHKWRY4DoH90RzKwy4*H9U6V26RYK2GbqNI2stVAwlLsTkyhkokVkj-WFvm6qG9JNq1q&new=1)
- > 前段时间由于禁令原因华为透露不少自研操作系统的消息，例如这款操作系统的名称叫做鸿蒙且已申请商标。按传说中的消息在谷歌和微软无法授权华为使用安卓和Windows 10时，华为将使用鸿蒙系统驱动这些设备。同时鸿...
- ## [“联通教父”常小兵落马记!(惊人细节公布)](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=vBBwMMkvGt2aDgFL29F5vyMqLG12sQuynyBADo1Hc049I-168RGON2RLrtkpDTmnRImn4zov6vFvuHl3lTbihhMWAye09g7lmdRKQaVmHr8m4dN-2frgYUcNqSkpZzVk&new=1)
- > 2014年12月，北京已是深冬，寒风凛冽。因为是周末，位于金融街的中国联通大楼冷冷清清。时任中国联通党组书记、董事长常小兵办公室里静得出奇。此刻，承担对中国联通公司党组巡视任务的中央第八巡视组组长宁延令...
- ## [万达体育7月26日将登陆纳斯达克丨比特币主力合约小幅上涨\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=Wv17RNH3bIbzHREyrBAPEhM2PoawfOhPra7HUWXhLwQXqjCPWEdgx*cJSEMXwO8KOVK2cGYP6sUd-Gqpg6BnXOe9M6sKTwjGWDTyel0-GaPjh0jRUjVLS7X4kVw5c6ZE&new=1)
- > 7月20日周六【Do说】编辑 | 赵艾虎万达体育7月26日将登陆纳斯达克万达体育即将于7月26日登陆纳斯达克。据7月12日万达体育在美国证券交易委员会官网上更新的招股说明书显示，万达体育将共发行3330万份美国存托股...
- ## [\[科技早报7点整\]央视调查针孔摄像头乱象 韩国半个国家都在抵制日货……](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=d6bo*F4SjL5Ax15GT7eC3yEOUGCtGRipgh4k5k9DIAbi75fLaOWQh9aDdDncqrW0ADTYriFqZ43OZFACe2F4ZmrVIhvFwz9fB20Hmdi43yDodxQvdF5denFndp2CLVYA&new=1)
+ ## [黑客通过利用ERP漏洞攻击了62所美国大学](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=BKaGB4B0OFFaBDn-gAzxtrdioPEPwGBHvDx5bgNw1jXiHTNRQHNQ6doPiZXeRrtYTDriGf24gdA*4NIZdmb6RoK6Ygv5xoCJg9CT0lPgiALEXinQ9F2QUc-uLV-MHs5*&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：Ellucian Banner ERP中存安全漏洞，美国62所大学的系统受影响。黑客在大学系统中创建账户进行犯罪活动。据外媒报道，美国教育部在本周发出的安全警报...
+ ## [\[科技早报7点整\]央视调查针孔摄像头乱象 韩国半个国家都在抵制日货……](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=d6bo*F4SjL5Ax15GT7eC3yEOUGCtGRipgh4k5k9DIAZyYUh2U-dAbVUwn8KDmH424gXO2zriHd*9j8KMXwzt-IFZv2yqW-wgNBmM2wcboQ8F6DtRC7X9g*WTiN2vXJpu&new=1)
  > 早上好，科技圈【一度蜜科技早报】第537期1.央视调查针孔摄像头乱象：画质4K 卖偷拍设备猖獗近期，消费市场上爆出了一些游客在酒店、民宿住宿时，在自己居住的房间里，发生了被偷拍的事件。央视记者发现在华强北...
- ## [\[报告下载\]250篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=gfRRUbHqac64gg3iw0ldQX-Iv3ptO9jZoObxVfGBL-2vqYAuAVsgaDpiN-IbKiK-yeDq-Us*4ZLBgIo0Rrli3SdcPD6kcWYFwTP-bPRnZxpxoM7Zy8p42hAAXwjY8Bbw&new=1)
+ ## [会议合作|9月2-3日·深圳·第十八届讯石研讨会即将隆重来袭 欢迎洽谈会议合作!](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=Q5eAD06y5O16AHscS1JbO48cbQFovLlako6pxoLe0qqjoF1tUnDswVEBsNHh0Zzw277Lm42Ue57pfaC-O1NgYvQ6WAPQCK4Xvh27nqz5-loNbUqlZv5mSrgGm2*P3K6n&new=1)
+ > 导读     9月2-3日，第十八届讯石研讨会将在深圳麒麟山庄隆重来袭!届时诚邀光通信行业朋友亲临现场，与行业专家学者一起共同探寻通信市场未来发展趋势。同时，讯石诚邀光通信企业洽谈会议合作及展位意向，合作热...
+ ## [3D打印医疗器械大会在上海隆重举行，现场近400人参加](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=HKZTN86od*Bn*fYawgNz6cryqXQy8*05wDWV2FWNcUflXOP8stZiL-tFzPVQ0yctL9HIvX*rJObnjAGy4Fn61oyPiel9QCa8DxJ4EpGxNdPHuIClmAlgoo0gO*U-mmRC&new=1)
+ > 导读：本文所含信息量非常大，关注医疗3D打印的人不容错过。 2019年7月20日-21日，在上海东方医院，一场重大的3D打印相关医疗行业论坛隆重举行，开幕式上来了近400名人士，可以说是2019年医疗3D打印领域最大最具...
+ ## [“联通教父”常小兵落马记!(惊人细节公布)](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=vBBwMMkvGt2aDgFL29F5vyMqLG12sQuynyBADo1Hc05NJYKM*xT639qfar8XONun32g9pqBD-GOhNIa4xTM73nz8--lJ03HjIKrUgrFkuLTrw2mHTQVq0nxFToAJghed&new=1)
+ > 2014年12月，北京已是深冬，寒风凛冽。因为是周末，位于金融街的中国联通大楼冷冷清清。时任中国联通党组书记、董事长常小兵办公室里静得出奇。此刻，承担对中国联通公司党组巡视任务的中央第八巡视组组长宁延令...
+ ## [华为高管称研发鸿蒙系统初衷就不是为了智能手机](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=1OOtz7bWRmE4wPXV-1q0ovEM7AgENrpt1WLuB6ehEfQehoEvt5jUk3lvrCIi6t7530x2F7UNfdYzdv7jMjcm91IUVNnjwlqGo2FURaWSA*rTOkTCUaDpAg91r61v4yfX&new=1)
+ > 前段时间由于禁令原因华为透露不少自研操作系统的消息，例如这款操作系统的名称叫做鸿蒙且已申请商标。按传说中的消息在谷歌和微软无法授权华为使用安卓和Windows 10时，华为将使用鸿蒙系统驱动这些设备。同时鸿...
+ ## [万达体育7月26日将登陆纳斯达克丨比特币主力合约小幅上涨\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=Wv17RNH3bIbzHREyrBAPEhM2PoawfOhPra7HUWXhLwQjSpNBLHAK3UGhRU6g-WMsKCgJ-0OSiHsRAG-942XJ0UCw12My-JHUKyYv890Lw8OcKQ9lnuhMEVuXcQZBjZ4T&new=1)
+ > 7月20日周六【Do说】编辑 | 赵艾虎万达体育7月26日将登陆纳斯达克万达体育即将于7月26日登陆纳斯达克。据7月12日万达体育在美国证券交易委员会官网上更新的招股说明书显示，万达体育将共发行3330万份美国存托股...
+ ## [\[报告下载\]250篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=gfRRUbHqac64gg3iw0ldQX-Iv3ptO9jZoObxVfGBL-2VyOiunxqzLxyaztvowIIs4J1VQ0LkG5ml08Tes*Zs186QMPvMIdbIy5QDSLSD0oasGojr3owXznbWTwvHv1Ku&new=1)
  > 汽车行业250+篇顶级报告大放送！250篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享250份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [“NSA是假5G”引来一片反驳 连三大运营商都不开心了](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=FEz22mmbG94CmGqOVMJkmmwYJIqkuXw*eUHmrNporTfTSoC6WLShKT3UubNfNLMQkPjBWk27yTfmQvBR0LOUEgKCtT5PXxebFt2HcHtKbXY8aa3RVO9KooxBargvQYbo&new=1)
+ ## [“NSA是假5G”引来一片反驳 连三大运营商都不开心了](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=FEz22mmbG94CmGqOVMJkmmwYJIqkuXw*eUHmrNporTfmm*Fhm5AITlKTAcNjxgamnnCLNsZpyITly5G-aLhPudJ4ITS4UFaA7z6X2cUh6stx412kSjOfhyZuee7JOSja&new=1)
  > 运营商财经网 八卦叨 /文近日，有关“NSA是假5G”的论调尘嚣日上，引发了巨大争议，甚至引起不少网友的恐慌，运营商财经网调查后发现，这实际上是有手机厂商在助推，为了自身利益，唯恐天下不乱。第一批5G手机仍...
- ## [华为助力厄瓜多尔开启5G时代 又一暴雪联合创始人宣布离职|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1563674405&ver=1741&signature=FBVVujVkZ93e8Dlc7Nz8edDraDm7kZ18bAyS3G6hRCAKGfiIsVX-vUW8RmjT3gQMMB80prEKEx-v8yGXyhk0288PSnIsD4MvYcBqhxcD17Ltb1R-9o6lkBm7AC8HND2Z&new=1)
+ ## [华为助力厄瓜多尔开启5G时代 又一暴雪联合创始人宣布离职|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1563681605&ver=1741&signature=FBVVujVkZ93e8Dlc7Nz8edDraDm7kZ18bAyS3G6hRCCioXXTNbyzhbDHOEDHp6G36gQ9igGlInQVvWUlL8JaM2UBh9AChkysd7IL1hFNrPUKy6vyqUAEAQe4o4*PviVY&new=1)
  > 动点科技 | ID：technode精选新闻华为助力厄瓜多尔开启5G时代新华社基多7月18日消息，厄瓜多尔电信部、当地电信运营商CNT和中国华为公司18日在厄首都基多共同举办5G实验局首发活动。厄总统莫雷诺在活动上对该国5...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -61,22 +67,6 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
- ## [设计高性能高并发网络系统需考虑哪些因素（万字长文）](http://network.51cto.com/art/201907/599893.htm)
- > 设计高性能高并发网络系统需考虑哪些因素（万字长文）
- ## [大神程序员，夜夜coding到天明？Python之父昼伏夜出，PHP创始人24小时都在线](http://news.51cto.com/art/201907/599889.htm)
- > 大神程序员，夜夜coding到天明？Python之父昼伏夜出，PHP创始人24小时都在线
- ## [Java后端这样面试，拿到Offer的几率是99%](http://developer.51cto.com/art/201907/599866.htm)
- > Java后端这样面试，拿到Offer的几率是99%
- ## [面向企业网络的九大带宽监控工具](http://network.51cto.com/art/201907/599833.htm)
- > 面向企业网络的九大带宽监控工具
- ## [智慧城市大数据可视化系统设计心得](http://bigdata.51cto.com/art/201907/599734.htm)
- > 智慧城市大数据可视化系统设计心得
- ## [为什么在微服务架构下，服务网关和数据库不能部署在虚拟机上](http://news.51cto.com/art/201907/599790.htm)
- > 为什么在微服务架构下，服务网关和数据库不能部署在虚拟机上
- ## [Kafka设计原理看了又忘，忘了又看？](http://os.51cto.com/art/201907/599791.htm)
- > Kafka设计原理看了又忘，忘了又看？
- ## [IDC时评：强国竞逐的6G或许是“镜花水月”！](http://network.51cto.com/art/201907/599826.htm)
- > IDC时评：强国竞逐的6G或许是“镜花水月”！
  ## [8款浏览器插件被曝窃取用户敏感数据](http://netsecurity.51cto.com/art/201907/599936.htm)
  > 独立安全员Sam Jadali本周发布了一份《数据间谍DataSpii报告》，其中披露了8款可窃取用户敏感数据的Chrome
  ## [8款浏览器插件被曝窃取用户敏感数据](http://netsecurity.51cto.com/art/201907/599935.htm)
@@ -93,30 +83,30 @@ categories: IT NEWS
  > CSDN日报190719：字节跳动面经来啦！！！
  ## [BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！](https://blog.csdn.net/CSDNedu/article/details/95959061)
  > BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！
- ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
- > JAVA基础的基础1.0
- ## [物联网项目零散内容杂记](https://blog.csdn.net/lanyandong/article/details/95392690)
- > 物联网项目零散内容杂记
- ## [Android基础-四大组件之Service（基础）](https://blog.csdn.net/qq_42391904/article/details/95529565)
- > Android基础-四大组件之Service（基础）
- ## [人工智能04 神经网络](https://blog.csdn.net/weixin_41565471/article/details/94990607)
- > 人工智能04 神经网络
- ## [物联网项目---购买阿里云服务器（云主机）](https://blog.csdn.net/qq_41204464/article/details/93199907)
- > 物联网项目---购买阿里云服务器（云主机）
- ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
- > 人工智能07 盲目搜索
- ## [除了 BAT之外，国内有哪些实力雄厚的物联网平台企业？](https://blog.csdn.net/qq_34449351/article/details/95611166)
- > 除了 BAT之外，国内有哪些实力雄厚的物联网平台企业？
- ## [万门大学人工智能课程](https://blog.csdn.net/flying668/article/details/94832309)
- > 万门大学人工智能课程
- ## [转战物联网·基础篇01-物联网之我见](https://blog.csdn.net/yyykj/article/details/93850492)
- > 转战物联网·基础篇01-物联网之我见
- ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
- > 基于二级C语言的一些经典小程序
+ ## [java基础：基础类型和多态](https://blog.csdn.net/wzEminem/article/details/94437189)
+ > java基础：基础类型和多态
+ ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
+ > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
  ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
  > C++基础1：类与对象基础
- ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
- > 人工智能08 启发式搜索
+ ## [手机录音转文字怎么做？3分钟轻松完成录音转文字教程](https://blog.csdn.net/WoChaotian_/article/details/96475135)
+ > 手机录音转文字怎么做？3分钟轻松完成录音转文字教程
+ ## [JAVA_深拷贝和浅拷贝](https://blog.csdn.net/qq_17556191/article/details/94992870)
+ > JAVA_深拷贝和浅拷贝
+ ## [数据库运维平台](https://blog.csdn.net/marko39/article/details/95241815)
+ > 数据库运维平台
+ ## [flask_sqlalchemy基础,数据的增删改查](https://blog.csdn.net/Regan_Yu/article/details/95179571)
+ > flask_sqlalchemy基础,数据的增删改查
+ ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
+ > 云杰恒指：7.19恒指期货早盘资讯
+ ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
+ > Linux之Docker私有仓库的搭建
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [\[Linux\]运维面试(三)](https://blog.csdn.net/qq_44839276/article/details/94716250)
+ > \[Linux\]运维面试(三)
+ ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
+ > 爬虫基础：HTTP基本原理
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [登月源码登顶 GitHub Top1，37000 Star 致敬人类登月 50 周年！](https://blog.csdn.net/csdnnews/article/details/96660778)
@@ -142,35 +132,43 @@ categories: IT NEWS
 # 人工智能 
  ## [BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！](https://blog.csdn.net/CSDNedu/article/details/95959061)
  > BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！
- ## [游戏开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
- > 游戏开发防作弊以及原理
- ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
- > 人工智能实践：Tensrfow笔记
- ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
- > 人工智能--人脸识别
- ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
- > Python 超级玛丽代码实现(1):界面和状态机实现
- ## [人工智能和机器学习-科普](https://blog.csdn.net/qq_37748451/article/details/93381958)
- > 人工智能和机器学习-科普
- ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
- > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
- ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
- > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
- ## [图文详解Android Handler通信机制的工作原理](https://blog.csdn.net/weixin_45136073/article/details/96502660)
- > 图文详解Android Handler通信机制的工作原理
- ## [python棋牌游戏开发之斗地主](https://blog.csdn.net/qq_42471773/article/details/95512797)
- > python棋牌游戏开发之斗地主
- ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
- > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
- ## [你还不打算试试Android X吗？](https://blog.csdn.net/androidokk/article/details/96432559)
- > 你还不打算试试Android X吗？
- ## [c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子](https://blog.csdn.net/u014194297/article/details/93332625)
- > c移动开发在vs2017下 XAMARIN 在imageview图形绘制的例子
- ## [人工智能04 神经网络](https://blog.csdn.net/weixin_41565471/article/details/94990607)
- > 人工智能04 神经网络
- ## [三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer](https://blog.csdn.net/Android_SE/article/details/96141934)
- > 三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer
+ ## [General information (1)](https://blog.csdn.net/ebirth/article/details/95622506)
+ > General information (1)
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [Kappa架构与Lambda架构比较](https://blog.csdn.net/haibucuoba/article/details/94444374)
+ > Kappa架构与Lambda架构比较
+ ## [Linux运维之LNMP架构（tomcat）](https://blog.csdn.net/weixin_44828950/article/details/94176266)
+ > Linux运维之LNMP架构（tomcat）
+ ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
+ > JAVA基础的基础1.0
+ ## [19年关于跨境电商,它的一些资讯干货，你们了解吗？](https://blog.csdn.net/ylfqwe/article/details/94439690)
+ > 19年关于跨境电商,它的一些资讯干货，你们了解吗？
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [JAVA_深拷贝和浅拷贝](https://blog.csdn.net/qq_17556191/article/details/94992870)
+ > JAVA_深拷贝和浅拷贝
+ ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
+ > ZooKeeper 的设计理念和架构
+ ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
+ > 网络爬虫HTTP原理、网页请求、网页基础
+ ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
+ > 基于二级C语言的一些经典小程序
+ ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
+ > JAVA基础7-Stream基础学习笔记
+ ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
+ > 云杰恒指：7.19恒指期货早盘资讯
+ ## [微服务架构 VS 单体架构](https://blog.csdn.net/nausealiu/article/details/94406526)
+ > 微服务架构 VS 单体架构
 # PM 
+ ## [揭开智慧校园的神秘面纱：概念与背景篇](http://www.woshipm.com/it/2607321.html)
+ > 本文笔者将从宏观层面来与大家讲述智慧校园的概念定义、发展背景、面临的挑战，以及总体的建设架构，enjoy~笔者查阅了诸多资料，发现关于“智慧校园”方面的内容少之又...
+ ## [用户故事的来龙去脉三句话讲得清楚吗？](http://www.woshipm.com/user-research/2610145.html)
+ > 上两篇我们说到Agile框架中的角色(Role)和会议（Ceremonies），这篇我们深度聊一聊敏捷产物（Artefacts）的核心: 用户故事User Story！概要敏捷故事和需求和传统需...
+ ## [如何快速看懂“商业模式”？](http://www.woshipm.com/chuangye/2610361.html)
+ > 本文笔者将对什么是商业模式？商业模式中最重要的部分是什么？以及其对商业模式的看法这三个大问题来给大家做系统的入门级介绍。互联网公司的业务最重要的就是“流量”...
+ ## [私域流量一直有，为何今年格外火？](http://www.woshipm.com/operate/2610073.html)
+ > 线上零售整体流量增长乏力，获客能力匮乏，这正是私域流量遭疯抢的原因。Quest Mobile数据显示：移动互联网月活用户规模达到11.38亿，增长进一步放缓，整个2019年1季...
  ## [网红雪糕们的幕后推手](http://www.pmtoo.com/article/78548.html)
  > 从网红新品到怀旧重现，从线下便利店到线上大促，2019年夏季这个市场尤其热闹。咸蛋黄、酱油味、樱桃酒、花椒凤梨、...
  ## [繁华背后，社交电商危机何解？](http://www.pmtoo.com/article/78542.html)
