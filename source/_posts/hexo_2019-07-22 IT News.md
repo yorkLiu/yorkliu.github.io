@@ -1,21 +1,21 @@
 ---
 title: 2019-07-22 IT News
 copyright: true
-date: 2019-07-22 08:01:09
+date: 2019-07-22 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [MTS-Console公网集群调度控制台](http://mp.weixin.qq.com/s?src=11&timestamp=1563753604&ver=1743&signature=fuNFkpBuZ-dA3q99g6SL-N64Ck9gmrtZQWM3r-OGU*lfa-NW5vi8zUgvKD4nqpUkVYArunnexzU7CMMgDS12tloA-CLkJqqfPK97RWJJTmvRFAUbvou76bXT23lpTEIA&new=1)
+ ## [MTS-Console公网集群调度控制台](http://mp.weixin.qq.com/s?src=11&timestamp=1563757205&ver=1743&signature=fuNFkpBuZ-dA3q99g6SL-N64Ck9gmrtZQWM3r-OGU*lfa-NW5vi8zUgvKD4nqpUkZzjtxJGfXEKcaAmyZmpNmuAx1wW0RjpLSFOs2rSdbfVE4rhRfZquXZuA-lqU3Nwc&new=1)
  > MTS-Console公网集群调度控制台是针对行业用户推出的集群专业调度台软件。专业的可视化图形界面，使移动终端用户状态、位置一目了然；多种媒体的融合， 语音、视频、文字、图片、数据的结合使用，为用户实现了极...
- ## [独家：消息称中国联通各省公司领导下周齐聚北京 有重要事](http://mp.weixin.qq.com/s?src=11&timestamp=1563753604&ver=1743&signature=0tmyxhP-2CzU8hG2HM7*ygufM-Xp47*m*1l4ovMedqwwZG8VsRBH7lo9RkkTRf9rcFVV0HrjW1tsogbF67BFcu9DFXeG*q2aoQGrM*LWtpjokuxO5CBYnwc2Fl-n3fPf&new=1)
- > 运营商财经网 八卦叨 /文知情人士向运营商财经网人士独家透露，中国联通各省公司主要负责人、较大规模的省会城市、计划单列市分公司负责人将于下周齐聚北京，原因是2019年中国联通年中工作会议要召开了。三大运...
- ## [WeWork联合创始人IPO前套现逾7亿美元丨台积电二季度净利润21.5亿美元\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1563753604&ver=1743&signature=yiAVGzK4*CwFCBS3frD2Vo4Xad4YiHKCNl23VcaE4tp9qTjiqzP8W4rqIpSL52eVMdztMHdZfysU7JjVBu6O3m0xd4Y*9P5aOvst-FPbkgYKc6aFxhG8VXK9LYTKhzwV&new=1)
- > 7月21日周日【Do说】编辑 | 李尧WeWork 有望在年底前上市，据称公司创始人已套现 7 亿美元据路透社报道，WeWork 的母公司 We Company 正在加紧筹备首次公开募股，据称该公司计划在 7 月 31 日召开分析师日会议，
- ## [\[C114周报\]国家意志助推NB-IoT继续腾飞；中国提交5G候选技术方案；IMT-2020(5G)推进组进展](http://mp.weixin.qq.com/s?src=11&timestamp=1563753604&ver=1743&signature=bJlRMoBzpxubwem6fcDStPMm9LaBFltJYSvH0aj65WGGICVLQ2xeueD7jV6RKbwI8bEFiquNMLL8vUSkywJOsPhiVruA4dK3P-rC*iroC0CoLqnW69i7GwD3dI5VLc1l&new=1)
- > 周报WEEKLY本周热点有国家意志助推NB-IoT继续腾飞；中国提交5G候选技术方案；IMT-2020(5G)推进组进展• 第053期 •国家意志助推NB-IoT继续腾飞7月18日在本周于巴西布济乌斯举行的ITU-R WP5D32会议上，
- ## [华为又爆大消息：“鸿蒙”系统并非为手机设计?](http://mp.weixin.qq.com/s?src=11&timestamp=1563753604&ver=1743&signature=w6MFkwhbFVcvrDQAfVQX5wFTrmM89T*6oAc2o4kTvSSyGlAtbIZupnGbSuLDRR5kfUmi0tB50iupeYgxNk41*5285kuFs4zYpMHQgwKfc0DCD3Pqkv3wOZU9k9*gednb&new=1)
+ ## [华为又爆大消息：“鸿蒙”系统并非为手机设计?](http://mp.weixin.qq.com/s?src=11&timestamp=1563757205&ver=1743&signature=w6MFkwhbFVcvrDQAfVQX5wFTrmM89T*6oAc2o4kTvSSyGlAtbIZupnGbSuLDRR5kvbjzQLkXBCt5TLvUYYrgnQZ-WwyZbcW3zyJ*5RjYG9KxOQrglZk9gx4cl1IwJVB*&new=1)
  > 网友：继续憋大招华为董事、高级副总裁陈黎芳日前表示，华为的鸿蒙操作系统不是为手机操作系统设计的，主要是用于工业系统。鸿蒙并不是为手机操作系统设计的中国华为公司董事、公共及政府事务部总裁陈黎芳当地时...
+ ## [WeWork联合创始人IPO前套现逾7亿美元丨台积电二季度净利润21.5亿美元\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1563757205&ver=1743&signature=yiAVGzK4*CwFCBS3frD2Vo4Xad4YiHKCNl23VcaE4tp9qTjiqzP8W4rqIpSL52eVbRKUxq7LtNvLFPEnFBzSphkbnCErOcxN7l82USktmKDPbPmdmRy1d322PVGE*Uz0&new=1)
+ > 7月21日周日【Do说】编辑 | 李尧WeWork 有望在年底前上市，据称公司创始人已套现 7 亿美元据路透社报道，WeWork 的母公司 We Company 正在加紧筹备首次公开募股，据称该公司计划在 7 月 31 日召开分析师日会议，
+ ## [\[C114周报\]国家意志助推NB-IoT继续腾飞；中国提交5G候选技术方案；IMT-2020(5G)推进组进展](http://mp.weixin.qq.com/s?src=11&timestamp=1563757205&ver=1743&signature=bJlRMoBzpxubwem6fcDStPMm9LaBFltJYSvH0aj65WGGICVLQ2xeueD7jV6RKbwIr0GSWW9e-qP*lM1oXrUBGCFG8sSIclTpOj93jQviyQ2NRmzKtHBwHnO6tYdrNn2u&new=1)
+ > 周报WEEKLY本周热点有国家意志助推NB-IoT继续腾飞；中国提交5G候选技术方案；IMT-2020(5G)推进组进展• 第053期 •国家意志助推NB-IoT继续腾飞7月18日在本周于巴西布济乌斯举行的ITU-R WP5D32会议上，
+ ## [独家：消息称中国联通各省公司领导下周齐聚北京 有重要事](http://mp.weixin.qq.com/s?src=11&timestamp=1563757205&ver=1743&signature=0tmyxhP-2CzU8hG2HM7*ygufM-Xp47*m*1l4ovMedqwwZG8VsRBH7lo9RkkTRf9rJEc1pfw5VC25hx61gyPgB87tYtIv9AhrHOLDFjFY59ZnpBZ1YcPF3XG7EAFVeUPl&new=1)
+ > 运营商财经网 八卦叨 /文知情人士向运营商财经网人士独家透露，中国联通各省公司主要负责人、较大规模的省会城市、计划单列市分公司负责人将于下周齐聚北京，原因是2019年中国联通年中工作会议要召开了。三大运...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,8 +73,14 @@ categories: IT NEWS
  > 为什么在微服务架构下，服务网关和数据库不能部署在虚拟机上
  ## [Kafka设计原理看了又忘，忘了又看？](http://os.51cto.com/art/201907/599791.htm)
  > Kafka设计原理看了又忘，忘了又看？
+ ## [回忆满满 探索神秘的Win1.11](http://os.51cto.com/art/201907/599965.htm)
+ > 近日发生了一件大事，微软竟突然官宣“新一代”操作系统Windows 1.11盛大面世。其实所谓Windows 1.11，是一
+ ## [如何在MacOS上安装Elasticsearch](http://os.51cto.com/art/201907/599964.htm)
+ > Elasticsearch 是一个用 Java 开发的开源全文搜索引擎。用户上传 JSON 格式的数据集。然后，Elasticsearch
  ## [从三类常见高危漏洞 洞见那些“风平浪静”的代码](http://zhuanlan.51cto.com/art/201907/599962.htm)
  > 本文主要针对三类最有代表性、安全威胁等级最高的安全漏洞进行着重分析，从安全角度介绍看似合理的功能实现
+ ## [全国首张区块链电子冠名发票在云南正式开出](http://blockchain.51cto.com/art/201907/599963.htm)
+ > 7月20日，在由云南省人民政府主办的2019年首届“数字云南”区块链国际论坛上，云南省人民政府省长阮成发与
  ## [网络勒索常用的4个勒索手段，安全防护不能掉以轻心](http://netsecurity.51cto.com/art/201907/599960.htm)
  > 相比于传统线下的勒索，网络勒索更加快捷，并且因为匿名性，即使实施了网络犯罪，勒索者一时半会也不会被抓
  ## [当5G遇上《长安十二时辰》](http://network.51cto.com/art/201907/599957.htm)
@@ -87,76 +93,75 @@ categories: IT NEWS
  > 越来越多的企业开始实施一种身份验证解决方案――无论用户位置如何，每次尝试访问都要进行用户身份验证和设
  ## [五分钟向长辈解释机器学习，这样特别通俗！](http://ai.51cto.com/art/201907/599958.htm)
  > 什么是机器学习呢?如果是对此一窍不通的长辈来问你这个问题，你该如何回答?本文将用最简单的词汇来尝试解释
- ## [5G技术为企业带来哪些功能和优势？](http://network.51cto.com/art/201907/599956.htm)
- > 随着运营商试点第五代蜂窝网络（即5G），大多数讨论都围绕在5G给消费者和智能手机带来的优势。但其实，企业
- ## [2020年（及以后）的22个物联网统计数据](http://iot.51cto.com/art/201907/599953.htm)
- > 在过去的几年里，不乏物联网的统计和预测，并且所有这些都指向其爆炸式的增长。事实上，物联网是全球研究最
- ## [5个最佳做法帮你选择正确电子邮件安全软件](http://netsecurity.51cto.com/art/201907/599955.htm)
- > 为评估电子邮件安全网关产品，企业应制定一套标准(例如问题列表)，通过研究、供应商讨论、产品测试或其他方
- ## [53K！拿下阿里Python岗，这些技术点全考了！](https://blog.csdn.net/CSDNedu/article/details/96431004)
- > 53K！拿下阿里Python岗，这些技术点全考了！
- ## [CSDN日报190719：字节跳动面经来啦！！！](https://blog.csdn.net/blogdevteam/article/details/96476145)
- > CSDN日报190719：字节跳动面经来啦！！！
- ## [BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！](https://blog.csdn.net/CSDNedu/article/details/95959061)
- > BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！
- ## [Linux之Pacemaker+Corosync【红帽7的高可用】](https://blog.csdn.net/qq_36016375/article/details/94916165)
- > Linux之Pacemaker+Corosync【红帽7的高可用】
- ## [人工智能05 计算机视觉](https://blog.csdn.net/weixin_41565471/article/details/95045394)
- > 人工智能05 计算机视觉
- ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
- > 人工智能07 盲目搜索
- ## [Linux之lvs负载均衡【DR模式】](https://blog.csdn.net/qq_36016375/article/details/94914327)
- > Linux之lvs负载均衡【DR模式】
- ## [人工智能 | 智能语音交互技术与应用](https://blog.csdn.net/lsj960922/article/details/96137534)
- > 人工智能 | 智能语音交互技术与应用
- ## [人工智能数学基础--极大似然估计](https://blog.csdn.net/sinat_39593423/article/details/94405013)
- > 人工智能数学基础--极大似然估计
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [人工智能04 神经网络](https://blog.csdn.net/weixin_41565471/article/details/94990607)
- > 人工智能04 神经网络
- ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
- ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
- > Linux之Docker私有仓库的搭建
- ## [人工智能02_有限状态机](https://blog.csdn.net/qq_35647121/article/details/93377125)
- > 人工智能02_有限状态机
+ ## [CSDN周刊：AI补代码神器问世，百度网盘克星诞生，Google 已经取消中国搜索引擎项目！](https://blog.csdn.net/blogdevteam/article/details/96481370)
+ > CSDN周刊：AI补代码神器问世，百度网盘克星诞生，Google 已经取消中国搜索引擎项目！
+ ## [浅谈数据库的安全保护](https://blog.csdn.net/qq_45066719/article/details/95173912)
+ > 浅谈数据库的安全保护
+ ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
+ > 连接本地数据库和远程连接他人数据库？
+ ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
+ > 关系数据库标准语言——SQL
+ ## [三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer](https://blog.csdn.net/Android_SE/article/details/96141934)
+ > 三年Android开发，从抖音离职后拿到快手爱奇艺等15家公司offer
+ ## [mysql数据库的基础知识和操作，笔记3，权亮](https://blog.csdn.net/qq443967620/article/details/96430469)
+ > mysql数据库的基础知识和操作，笔记3，权亮
+ ## [MySql知识点汇总--笔经面经](https://blog.csdn.net/weixin_40945195/article/details/95373418)
+ > MySql知识点汇总--笔经面经
+ ## [ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的](https://blog.csdn.net/sharehu/article/details/94738219)
+ > ORA-12514: TNS: ：监听程序当前无法识别连接描述符中的
+ ## [前端-正则表达式(扩展)](https://blog.csdn.net/weixin_45156610/article/details/95014452)
+ > 前端-正则表达式(扩展)
+ ## [数据库并发操作的有关知识](https://blog.csdn.net/weixin_43393412/article/details/96164370)
+ > 数据库并发操作的有关知识
+ ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
+ > 前端大作业（期末复习）
+ ## [flutter 如何实现文件读写(使用篇)](https://blog.csdn.net/weixin_42110682/article/details/95333428)
+ > flutter 如何实现文件读写(使用篇)
+ ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
+ > 今天开始写一下学习java中级每一天的知识点总结
+ ## [前端文件上传](https://blog.csdn.net/VIP__ID/article/details/93484347)
+ > 前端文件上传
+ ## [Android性能优化：Volley使用及其原理解析](https://blog.csdn.net/weixin_45258969/article/details/96484362)
+ > Android性能优化：Volley使用及其原理解析
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [爱优腾B站齐压码互动视频，技术与内容制作问题待攻克](http://www.lanjingtmt.com/news/detail/43783.shtml)
  > 曾几何时，作为看剧的受众希望自己是编剧，有一只神来之手操控着剧情的发展。如今，优爱腾B站四家视频平台正计划推动“互动视频”，借此让用户参与剧情制作的视频形式逐渐走向大众。
 # 人工智能 
- ## [BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！](https://blog.csdn.net/CSDNedu/article/details/95959061)
- > BAT 力捧的 AI 项目再次爆发，这些程序员都受影响！
- ## [Linux进阶_加密和安全](https://blog.csdn.net/weixin_42758707/article/details/93657130)
- > Linux进阶_加密和安全
- ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
- > 棋牌游戏开发质量缘何陷入低水平状态
- ## [【游戏开发日志】【Unity】day_one](https://blog.csdn.net/slozer/article/details/95307348)
- > 【游戏开发日志】【Unity】day_one
- ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
- > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
- ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
- > Python 超级玛丽代码实现(1):界面和状态机实现
- ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
- > 爬虫基础：HTTP基本原理
- ## [Python图形界面游戏开发](https://blog.csdn.net/PyhtonChen/article/details/96149214)
- > Python图形界面游戏开发
- ## [安全、性能测试常见问题与注意事项](https://blog.csdn.net/wildboy2001/article/details/96564861)
- > 安全、性能测试常见问题与注意事项
- ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
- > 5G时代到来 棋牌游戏开发技术如虎添翼
- ## [浅谈中间件安全———Nginx](https://blog.csdn.net/qq_39326816/article/details/93491034)
- > 浅谈中间件安全———Nginx
- ## [MyBatis映射文件的基本功能](https://blog.csdn.net/weixin_42510923/article/details/95663222)
- > MyBatis映射文件的基本功能
- ## [API安全接口安全设计](https://blog.csdn.net/zhou920786312/article/details/95536556)
- > API安全接口安全设计
- ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
- > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
+ ## [CSDN周刊：AI补代码神器问世，百度网盘克星诞生，Google 已经取消中国搜索引擎项目！](https://blog.csdn.net/blogdevteam/article/details/96481370)
+ > CSDN周刊：AI补代码神器问世，百度网盘克星诞生，Google 已经取消中国搜索引擎项目！
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了](https://blog.csdn.net/WoChaotian_/article/details/95448657)
+ > 苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了
+ ## [人工智能 | 智能语音交互技术与应用](https://blog.csdn.net/lsj960922/article/details/96137534)
+ > 人工智能 | 智能语音交互技术与应用
+ ## [书籍推荐 -- 《人工智能基础（高中版）》](https://blog.csdn.net/m0_37697335/article/details/94837446)
+ > 书籍推荐 -- 《人工智能基础（高中版）》
+ ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
+ > 大家的人工智能——决策树
+ ## [棋牌游戏开发成为流量体 强强联合](https://blog.csdn.net/motianyougame/article/details/93502187)
+ > 棋牌游戏开发成为流量体 强强联合
+ ## [游戏开发防作弊以及原理](https://blog.csdn.net/s10141303/article/details/93893740)
+ > 游戏开发防作弊以及原理
+ ## [python棋牌游戏开发之斗地主](https://blog.csdn.net/qq_42471773/article/details/95512797)
+ > python棋牌游戏开发之斗地主
  ## [游戏开发_数学与物理](https://blog.csdn.net/qq_35433081/article/details/93397894)
  > 游戏开发_数学与物理
+ ## [华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到](https://blog.csdn.net/WoChaotian_/article/details/96427708)
+ > 华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
+ ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
+ > 华为手机自带语音转文字的功能，转换方法如下
+ ## [人工智能04 神经网络](https://blog.csdn.net/weixin_41565471/article/details/94990607)
+ > 人工智能04 神经网络
+ ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
+ > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
+# PM 
+ ## [浅谈产品运营的“人/货/场/转”](http://www.woshipm.com/operate/2612795.html)
+ > 人/货/场本是传统零售行业中的基本要素，是零售行业中永恒的概念，如同4P理论之于营销行业。只是在2016年10月由马云和雷军提出了后来红极一时的“新零售”...
+ ## [【天天问每周精选】第80期：抖音这个短视频平台推出长达15分钟的视频，真的利大于弊吗？](http://www.woshipm.com/it/2609588.html)
+ > 最早，抖音的视频时长只有15秒，后来陆续开放到1分钟、5分钟。最近抖音又内测15分钟视频，遭到不少人吐槽这还能叫短视频吗。这个设计时是如何考量的，好处坏处是什么呢...
 
     
