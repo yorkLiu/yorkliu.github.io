@@ -1,21 +1,21 @@
 ---
 title: 2019-07-23 IT News
 copyright: true
-date: 2019-07-23 08:01:04
+date: 2019-07-23 09:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2019中国大学生就业报告出炉，速看哪些专业工资比较高?](http://mp.weixin.qq.com/s?src=11&timestamp=1563840004&ver=1745&signature=fXYdto2BuOszCo*qlBpCofkJhwpbAQGVVozY6GZJNxHVIH8mMy2mEICDx5CIxzxipYSbux7jFj2MVQLHOmBaIKwxBa4XbogWZVvxJ1egUB6T1ywfdbLmNLJrWvfcDZjl&new=1)
- > 高中语文高中数学高中英语高中文综高中理综高考热点据近日发布的《2019年中国大学生就业报告》显示，2018届大学毕业生就业率91.5%，平均月收入4624元。工学、管理学、教育学…哪些学科就业率高？目标北上广还是...
- ## [机器人鱿鱼和机器人扇贝展示仿生水下推进](http://mp.weixin.qq.com/s?src=11&timestamp=1563840004&ver=1745&signature=7vBYdMUghdXAEQebYrClOZsFKw5hicE057hHix8JmAozqr53J1-j**e8hQRX016qCxE35Ki5W93u*iM08MfOH8ySvQTAGdw8A0ryORdRsXx4zEh48wf-eJ3dFmg9Pj58&new=1)
- > Image: Beihang University动物在水中有许多创造性的活动方式，而机器人正在“模仿”它们。大多数水下机器人运动方式是以下这两种之一：第一种是螺旋桨，第二种是鳍。但是动物告诉我们，水下运动方式还有很多种...
- ## [瑞尼4G高清执法记录仪综合管理平台](http://mp.weixin.qq.com/s?src=11&timestamp=1563840004&ver=1745&signature=YP7F9HYChhv8by63i2sya22wQ2Ax0u1mflrJ11XINMCQtAEVWv1kha8M74A*EixC-t88sWnAYOs90pliDpmb8dluKMl3AzWMNJ5zyfUo8ZPsn9pn7XYRq25G1dJVUGPf&new=1)
- > 近年来，随着社会转型中矛盾的增多，公共安全治理压力剧增，公安机关越来越面临着执法上的诸多挑战。一方面，现实中一旦曝光警察暴力执法、封闭执法，舆论就会质疑和批评警察权被滥用;另一方面，当公众的人身安...
- ## [2把折扇组成的VR手柄，我见过最有意思的VR外设](http://mp.weixin.qq.com/s?src=11&timestamp=1563840004&ver=1745&signature=BzTqGNhsrXWRc-*v4DpN6E61R8Iw3busRfnPLdz1rXVTNNp211NmWjFkUSllhFT-aDQqfu5co2*aJ0iC8gb1kwGWOyKRnRRl*vB3QChihAhYtkSRlPHJ8EEIhfpBd3nH&new=1)
+ ## [2把折扇组成的VR手柄，我见过最有意思的VR外设](http://mp.weixin.qq.com/s?src=11&timestamp=1563843604&ver=1745&signature=BzTqGNhsrXWRc-*v4DpN6E61R8Iw3busRfnPLdz1rXVTNNp211NmWjFkUSllhFT-6dvuK00EjD1x-QXWqX3Lm7J2l*5WZ4mr9jDWOuSaSalTKE0cBR-3vO-ZpkTVcsjn&new=1)
  > hi188｜ 编辑自从VR头显走入大众视野后，各种各样的VR外设层出不穷，有的是模拟力度/触感，有些模拟温度，有些模拟气味...以力回馈外设为例，大部分外设均是直接给与手作用力，而这篇文章里要介绍的则不同，它通...
- ## [三大运营商6月用户数大比较：移动转好电信宽带净减联通正增长](http://mp.weixin.qq.com/s?src=11&timestamp=1563840004&ver=1745&signature=dA5DFdyx8y*i3M2NPjnWtfMnza5Wu63MS5gEJRszD8KTthdAVqILQW5TUsENolXuLixmKOLpj6igvKd1Qun8ePRwNZjONOj5Wx6H0Lg4ENBcZSYzKqbE6wZLR3y8lkYm&new=1)
+ ## [瑞尼4G高清执法记录仪综合管理平台](http://mp.weixin.qq.com/s?src=11&timestamp=1563843604&ver=1745&signature=YP7F9HYChhv8by63i2sya22wQ2Ax0u1mflrJ11XINMCQtAEVWv1kha8M74A*EixC8fSrXM5hMQ6-fd7q4jah4bR-l-ht54EdJUd36zDouhmivDf7Tf12XRF2fta2iFyb&new=1)
+ > 近年来，随着社会转型中矛盾的增多，公共安全治理压力剧增，公安机关越来越面临着执法上的诸多挑战。一方面，现实中一旦曝光警察暴力执法、封闭执法，舆论就会质疑和批评警察权被滥用;另一方面，当公众的人身安...
+ ## [三大运营商6月用户数大比较：移动转好电信宽带净减联通正增长](http://mp.weixin.qq.com/s?src=11&timestamp=1563843604&ver=1745&signature=dA5DFdyx8y*i3M2NPjnWtfMnza5Wu63MS5gEJRszD8KTthdAVqILQW5TUsENolXusUeFW8TwtStsvv79VzlB-Rq7gbxr1MPPQH58oen8frc432XQrVAaQp-uVsr4zkH-&new=1)
  > 运营商财经网八卦叨 /文今天，运营商财经网获悉了中国电信的6月份用户数据，至此，三大运营商今年6月份的用户数均出炉，其中，中国电信的手机用户数大增，但宽带净增用户数为负数，令人遗憾；中国移动的净增用户...
+ ## [2019中国大学生就业报告出炉，速看哪些专业工资比较高?](http://mp.weixin.qq.com/s?src=11&timestamp=1563843604&ver=1745&signature=fXYdto2BuOszCo*qlBpCofkJhwpbAQGVVozY6GZJNxHVIH8mMy2mEICDx5CIxzxiKU9iJoFPwKVn48fMI7RTh8vaQ7vyS1etHa4FMyroUbm3gx7qElRfp4HDTLgPxQLH&new=1)
+ > 高中语文高中数学高中英语高中文综高中理综高考热点据近日发布的《2019年中国大学生就业报告》显示，2018届大学毕业生就业率91.5%，平均月收入4624元。工学、管理学、教育学…哪些学科就业率高？目标北上广还是...
+ ## [机器人鱿鱼和机器人扇贝展示仿生水下推进](http://mp.weixin.qq.com/s?src=11&timestamp=1563843604&ver=1745&signature=7vBYdMUghdXAEQebYrClOZsFKw5hicE057hHix8JmAozqr53J1-j**e8hQRX016qOwHt8-oaEKjMQjd450lJQW0Sg3-*VAYgcDtHYfa7r5frDN29KNP95Y3ERSpF4h1b&new=1)
+ > Image: Beihang University动物在水中有许多创造性的活动方式，而机器人正在“模仿”它们。大多数水下机器人运动方式是以下这两种之一：第一种是螺旋桨，第二种是鳍。但是动物告诉我们，水下运动方式还有很多种...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,6 +57,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [不可错过的vue开发技巧](http://developer.51cto.com/art/201907/600027.htm)
+ > 不可错过的vue开发技巧
  ## [1亿超话创纪录，周杰伦根本不需要流量！！！](http://news.51cto.com/art/201907/600003.htm)
  > 1亿超话创纪录，周杰伦根本不需要流量！！！
  ## [漫话：如何给女朋友解释什么是"大案牍术"？](http://bigdata.51cto.com/art/201907/599987.htm)
@@ -71,52 +73,56 @@ categories: IT NEWS
  > 免费学习编程语言：面向Java开发人员的GitHub使用指南
  ## [世界上著名且危险的APT恶意软件清单](http://netsecurity.51cto.com/art/201907/599932.htm)
  > 世界上著名且危险的APT恶意软件清单
- ## [搞定Java垃圾回收，就这一篇！](http://developer.51cto.com/art/201907/599967.htm)
- > 搞定Java垃圾回收，就这一篇！
+ ## [IoT――便捷之外勿忘安全隐患](http://iot.51cto.com/art/201907/600046.htm)
+ > 虽然物联网是下一个大趋势，并将继续增长，但相关的风险是无法避免的。当人们在享受物联网带来的便宜时，警
+ ## [Linux发展历史，能够与微软抗衡的操作系统](http://os.51cto.com/art/201907/600045.htm)
+ > 随着Fuchsia系统在近期上线，有史以来最成功的手机操作系统安卓，看来真的要被谷歌扔进垃圾桶了。安卓被谷
+ ## [机器学习在高德起点抓路中的应用实践](http://news.51cto.com/art/201907/600043.htm)
+ > 本文将介绍高德地图针对起点抓路准确率的提升，尤其是在引入机器学习算法模型方面所进行的一些探索与实践。
+ ## [一份完整的 IPv6 环境下 DNS 相关测试](http://news.51cto.com/art/201907/600042.htm)
+ > 随着电子技术及网络技术的发展，计算机网络已经与人们的生活密切相关，可能身边的每一样电子设备都需要连入
+ ## [入职一年后，一位算法工程师给初学者的一封信](http://zhuanlan.51cto.com/art/201907/600041.htm)
+ > 本人以一个前人的经验，总结了一名优秀的机器学习工程师需要注意的12个方面，希望读者在阅读后，能对机器学
+ ## [微软斥资 10 亿美元与 OpenAI 合作，构建 Azure AI](http://news.51cto.com/art/201907/600044.htm)
+ > 据 betanews 报道，微软正投资 10 亿美元，与 OpenAI 建立重要的合作伙伴关系，这一合作伙伴关系将使微软和
+ ## [5G终端虽然已近100款，但连冰山一角都算不上](http://network.51cto.com/art/201907/600040.htm)
+ > 人们期待的是真正看得见、摸得着的5G，终端才是让老百姓真正能体验到5G的载体。5G赋能千行百业，也就意味着
+ ## [谷歌大罢工组织者离职：自曝不得不走，“遭遇秋后算账”](http://news.51cto.com/art/201907/600037.htm)
+ > 一个谷歌员工，级别不算高，但离职消息上了热搜。这个人叫Meredith Whittaker（梅雷迪思・惠特克），在谷歌
  ## [超详细的MySQL数据库参数优化，都总结在这里了](http://news.51cto.com/art/201907/600036.htm)
  > 最近在对各个系统的mysql做一些参数上的优化，也开了慢查询，准备后面针对特定sql再进一步优化。下面主要介
  ## [特征工程之加密流量安全检测](http://zhuanlan.51cto.com/art/201907/600035.htm)
  > 在经典的机器学习领域，特征工程始终占据着核心位置，特征工程的质量高低往往直接决定了机器学习效果的成败
- ## [一文教你如何通过 Docker 快速搭建各种测试环境](http://news.51cto.com/art/201907/600034.htm)
- > 今天给大家分享的主题是，如何通过 Docker 快速搭建各种测试环境，本文列举的，也是作者在工作中经常用到的
- ## [CCIE考试中的重点――MPLS VPN技术](http://network.51cto.com/art/201907/600033.htm)
- > MPLS VPN技术作为CCIE考试中的重点，在现实网络中有实际的用途?这些技术能实际的落地吗?MPLS VPN技术能提高
- ## [网络故障排除的五个简单步骤](http://network.51cto.com/art/201907/600032.htm)
- > 长期从事IT工作的人会发现很多网络问题，其中一些问题很容易诊断和纠正，但有些问题很难弄明白。如果遇到这
- ## [SD-WAN即将主宰边缘网络](http://network.51cto.com/art/201907/600031.htm)
- > 对于很多企业来说，为了让网络连接高效实惠，纷纷从昂贵的企业专线转向SD-WAN(软件定义广域网)解决方案，令
- ## [物联网资产跟踪部署挑战：每家企业必须考虑的10件事](http://iot.51cto.com/art/201907/600030.htm)
- > 部署物联网并不简单，它可以有效和高效地完成，也可以成为企业的噩梦，因为创建一个复杂而昂贵的部署，将会
  ## [CSDN日报190722：以一当十的10倍程序员你见过吗？](https://blog.csdn.net/blogdevteam/article/details/96851517)
  > CSDN日报190722：以一当十的10倍程序员你见过吗？
- ## [豪投10亿！华为放话：3年培养100万AI人才！网友神回应了](https://blog.csdn.net/CSDNedu/article/details/96314691)
- > 豪投10亿！华为放话：3年培养100万AI人才！网友神回应了
- ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
- > 人工智能--人脸识别
- ## [高级数据库之MySQL导入海量数据总结](https://blog.csdn.net/li123_123_/article/details/96104804)
- > 高级数据库之MySQL导入海量数据总结
- ## [物联网协议--MQTT整理](https://blog.csdn.net/weixin_42411153/article/details/94840046)
- > 物联网协议--MQTT整理
- ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
- > 人工智能课程推荐
- ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
- > 人工智能07 盲目搜索
- ## [关系数据库标准语言——SQL](https://blog.csdn.net/qq_45066719/article/details/95042285)
- > 关系数据库标准语言——SQL
- ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
- > 人工智能如何自己玩游戏？
- ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
- > 物联网的发展与应用
- ## [浅谈数据库----基于SQLsever](https://blog.csdn.net/qq_45066719/article/details/94980839)
- > 浅谈数据库----基于SQLsever
- ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
- > 人工智能02 机器进化
- ## [数据库优化几种常见方式](https://blog.csdn.net/xfj_csdn/article/details/96753067)
- > 数据库优化几种常见方式
+ ## [SOA（面向服务的架构） 架构与微服务架构的区别](https://blog.csdn.net/weixin_44530530/article/details/93972425)
+ > SOA（面向服务的架构） 架构与微服务架构的区别
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
+ ## [数据库MySQL总结（自我复习用）](https://blog.csdn.net/lisaaaaaas0405/article/details/95644255)
+ > 数据库MySQL总结（自我复习用）
+ ## [数据库并发操作的有关知识](https://blog.csdn.net/weixin_43393412/article/details/96164370)
+ > 数据库并发操作的有关知识
+ ## [什么是物联网？物联网如何工作？](https://blog.csdn.net/qq_43359864/article/details/96474209)
+ > 什么是物联网？物联网如何工作？
+ ## [Ruff物联网开发套件轻松入门](https://blog.csdn.net/u010089686/article/details/96485378)
+ > Ruff物联网开发套件轻松入门
+ ## [MySql知识点汇总--笔经面经](https://blog.csdn.net/weixin_40945195/article/details/95373418)
+ > MySql知识点汇总--笔经面经
+ ## [物联网碎片化问题难分难解，“物联网+”混战将持续](https://blog.csdn.net/qq_43359864/article/details/94580041)
+ > 物联网碎片化问题难分难解，“物联网+”混战将持续
+ ## [物联网移动APP架构设计](https://blog.csdn.net/qq_39424143/article/details/93876760)
+ > 物联网移动APP架构设计
  ## [数据库的竖转横（菜鸟小白第一次发）](https://blog.csdn.net/weixin_45326606/article/details/96473811)
  > 数据库的竖转横（菜鸟小白第一次发）
- ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
- > 人工智能实践：Tensrfow笔记
+ ## [sqlserver 分页方法](https://blog.csdn.net/weixin_41048746/article/details/94901217)
+ > sqlserver 分页方法
+ ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
+ > 连接本地数据库和远程连接他人数据库？
+ ## [Flink 运行架构](https://blog.csdn.net/Luomingkui1109/article/details/95232428)
+ > Flink 运行架构
+ ## [android架构分享-MVP](https://blog.csdn.net/VcStrong/article/details/95217444)
+ > android架构分享-MVP
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Arm 与中国联通成功部署物联网设备管理平台解决方案](https://blog.csdn.net/csdnnews/article/details/96871040)
@@ -126,36 +132,36 @@ categories: IT NEWS
  ## [酷派巨亏75亿港元后复牌，5G与海外业务能否助其翻身](http://www.lanjingtmt.com/news/detail/43800.shtml)
  > 7月19日，已停牌27个月的酷派集团终于复牌，避开退市危机。不过，酷派在复牌首日的表现可谓十分惨淡，盘中一度暴跌61.1%，引发业内对于酷派未来发展空间的讨论。
 # 人工智能 
- ## [豪投10亿！华为放话：3年培养100万AI人才！网友神回应了](https://blog.csdn.net/CSDNedu/article/details/96314691)
- > 豪投10亿！华为放话：3年培养100万AI人才！网友神回应了
- ## [\[Linux\]运维面试(四)](https://blog.csdn.net/qq_44839276/article/details/94742599)
- > \[Linux\]运维面试(四)
- ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
- > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
- ## [Python 入门基础 - 基础类型](https://blog.csdn.net/dishe/article/details/94591831)
- > Python 入门基础 - 基础类型
- ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
- > 网络爬虫HTTP原理、网页请求、网页基础
- ## [java基础：基础类型和多态](https://blog.csdn.net/wzEminem/article/details/94437189)
- > java基础：基础类型和多态
- ## [老凡的运维笔记 | 智能化运维知多少？](https://blog.csdn.net/Yolanda518/article/details/94599497)
- > 老凡的运维笔记 | 智能化运维知多少？
- ## [运维linux命令](https://blog.csdn.net/mengjinlong1/article/details/96474278)
- > 运维linux命令
- ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
- > JAVA基础7-Stream基础学习笔记
- ## [PAAS开发运维七](https://blog.csdn.net/qq_28513801/article/details/89948291)
- > PAAS开发运维七
- ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
- > Window基础（黑客基础）
- ## [史上最全的Android热点技术面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96627593)
- > 史上最全的Android热点技术面试题集锦
- ## [minidvd入门练习](https://blog.csdn.net/lvyongjie105/article/details/96446201)
- > minidvd入门练习
- ## [Linux之Docker 添加用户认证](https://blog.csdn.net/qq_36016375/article/details/96048239)
- > Linux之Docker 添加用户认证
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
+ ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
+ > 微信不小心删除的好友和群聊，如何偷偷的加回来？
+ ## [华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到](https://blog.csdn.net/WoChaotian_/article/details/96427708)
+ > 华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到
+ ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
+ > 进退博弈：恒指7.12号早盘资讯及交易计划
+ ## [Python等编程语言学习资料分享](https://blog.csdn.net/Mr_JjPolarBear/article/details/95628296)
+ > Python等编程语言学习资料分享
+ ## [HTML：一种标记语言而不是编程语言（6.0）](https://blog.csdn.net/qq_40061206/article/details/94623267)
+ > HTML：一种标记语言而不是编程语言（6.0）
+ ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
+ > Python 超级玛丽代码实现(1):界面和状态机实现
+ ## [苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了](https://blog.csdn.net/WoChaotian_/article/details/95448657)
+ > 苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了
+ ## [HTML：一种标记语言而不是编程语言（11.0）](https://blog.csdn.net/qq_40061206/article/details/95356427)
+ > HTML：一种标记语言而不是编程语言（11.0）
+ ## [棋牌游戏开发成为流量体 强强联合](https://blog.csdn.net/motianyougame/article/details/93502187)
+ > 棋牌游戏开发成为流量体 强强联合
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
+ > 学习 Unity 3D游戏开发日常笔记
+ ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
+ > 来看漫画：我才是世界上最好的编程语言
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
+ > 编程语言的一些基础概念（三）：面向对象
 # PM 
  ## [易观：1份榜单看懂外资商超大溃败的秘密丨数瞰江湖](http://www.chanpin100.com/article/108992)
  > 近日，零售市场上传来了一个重磅消息：苏宁全资子公司苏宁国际拟出资48亿元收购家乐福中国80%股份。待交易完成后，苏宁易购将成为家乐福中国的控股股东。尽管此前已有多次风声，但似乎家乐福还一直期待着挽回中国市场的颓势，而苏宁易购的公告则宣告了家乐福中国易主的事实。
