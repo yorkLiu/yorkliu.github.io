@@ -1,20 +1,22 @@
 ---
 title: 2019-07-25 IT News
 copyright: true
-date: 2019-07-25 08:01:01
+date: 2019-07-25 09:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G产业大扫描!华为、爱立信、高通等11家厂商谈如何加速发展5G](http://mp.weixin.qq.com/s?src=11&timestamp=1564012804&ver=1749&signature=J68BRgJrHqSje8jbGI5OUJ8wtCejEAhClTgJRpAXkUG6xp8OANs7oyNSnH-JJP1Qmpgo4BMBhr6NIW9c9rClbK*AAx3U1-M94pek7Rd0h8RkQZ2JigH1sl252giMLFDy&new=1)
- > 今年6月初我国就发放了5G牌照，这比市场预期要早大半年。因为5G产业的成熟速度超出预期，5G网络系统与终端芯片实现同步发展。那么，面向中国5G市场的产业链，到底进展如何？ 据悉，5G网络、终端、芯片等产业链，...
- ## [\[报告\]长城汽车——体制改革照亮未来、迎接新产品时代(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1564012804&ver=1749&signature=q9UUHjobu9d3u4UiBWAI9XqIaRSjh6S88v9UkqBKlZzdL83Dphb1NNxlhK*9QtCZ5JVCGrSMxx3knsqVlu*89enOm6PFXmpuh5K8kjhiMRnJjlQuR8pM-eNtKYz9Edyi&new=1)
- > 汽车行业透支效应已经基本结束，即将迎来销量和利润反转，行业增速放缓+国六升级三四线品牌产能出清，份额进一步向龙头集中。一线自主品牌在技术、品牌建设、质量管控上已经取得长足进步，对标韩国汽车发展历程...
- ## [5G的8大组网选项](http://mp.weixin.qq.com/s?src=11&timestamp=1564012804&ver=1749&signature=ntVWpcPOu*9BMldHi1mX7l*wnMk3DlFwXyV4*2H5ZJRdK8vfws0DZEZcA5Z3MJhA1XL0llcyBSoRMT9T6ztaTMZjxdlRIcY5TIvB8SrzmTTlnnKcxOzVrDDmlqEx*KRl&new=1)
- > 有人说，5G演进之路如迷宫般复杂。与过去不同，5G组网架构选项高达8种，除了选项1就是4G架构，选项6和8被业界抛弃之外，也还剩下选项2、选项3、选项4、选项5和选项7五种选项，其中，选项3、4、7下面还包括了不同...
- ## [阿里云、腾讯云的恩怨情仇](http://mp.weixin.qq.com/s?src=11&timestamp=1564012804&ver=1749&signature=fv8pFvmXySs2a2RNrtOcoJeWMKgOAh4DOzausQSBYsQPh12hzc3zYAeATtpxAcLocEmx*SAp4cBg79pAaWq2fJjIzGFuW-ABHVO21FTTZ8JGmwwWwZ8jXSv4WfjO48F3&new=1)
+ ## [友情提示：在校园市场干这些事，后果很严重!](http://mp.weixin.qq.com/s?src=11&timestamp=1564016404&ver=1749&signature=h*awfofkDwnT*LnLtKPZSyJnkcMn2aQq2xKsR8MkhjqfF8j-pH*67ZaHzD3sc7-MSJOZV1nXkVKPlvu-EFVS8J8I2vM1D8D8cKvp-XohAYAdYrGj5ikE6z7Af6XB8UYQ&new=1)
+ > 当前，电信市场趋于饱和，但每年都有上百万的高中毕业生前往异地上大学。大学校园市场无疑成为了极其少有的电信用户增量市场，历来为各运营企业争夺的对象。去年，甘肃某职业学院开学期间，当地移动和电信因不正...
+ ## [阿里云、腾讯云的恩怨情仇](http://mp.weixin.qq.com/s?src=11&timestamp=1564016404&ver=1749&signature=fv8pFvmXySs2a2RNrtOcoJeWMKgOAh4DOzausQSBYsQPh12hzc3zYAeATtpxAcLoXTYUfGofbLj74uZIgXmAITSy9ziWv8Rd-igq4nGGSazHffQS5-Nkzw*vEMqd4VrV&new=1)
  > 云是对网络、互联网一种挺有新意的比喻，但令人惊奇的是，以SaaS为代表的云服务技术，早在20世纪90年代末就已经出现。技术出现的很早，不过直到2006年，亚马逊推出AWS服务，才使得产业界，真正认识到云服务或者...
- ## [华为确认：美国子公司Futurewei将裁员600余人!](http://mp.weixin.qq.com/s?src=11&timestamp=1564012804&ver=1749&signature=icQ82wrvpcyVOiItHC3pUccgNtsjpgVTp44ve9NwwTpTV8aUuV5-j8qbWmhf5p8NvBiOosxAaLqGNJBHhzedjMfMuOsoWABDw500HkfUt8V25Fl2qmWOCIkFRjm9tKn9&new=1)
+ ## [5G的8大组网选项](http://mp.weixin.qq.com/s?src=11&timestamp=1564016404&ver=1749&signature=ntVWpcPOu*9BMldHi1mX7l*wnMk3DlFwXyV4*2H5ZJRdK8vfws0DZEZcA5Z3MJhAYe7zsIUP3THELWz2EEVooNYyOgZ3TlAUweWOkS*1QfgUaSiTOgJyzza2KPLnn6Ai&new=1)
+ > 有人说，5G演进之路如迷宫般复杂。与过去不同，5G组网架构选项高达8种，除了选项1就是4G架构，选项6和8被业界抛弃之外，也还剩下选项2、选项3、选项4、选项5和选项7五种选项，其中，选项3、4、7下面还包括了不同...
+ ## [5G产业大扫描!华为、爱立信、高通等11家厂商谈如何加速发展5G](http://mp.weixin.qq.com/s?src=11&timestamp=1564016404&ver=1749&signature=J68BRgJrHqSje8jbGI5OUJ8wtCejEAhClTgJRpAXkUG6xp8OANs7oyNSnH-JJP1Qi78S7Ve18Fnp4*mS3FIEQwN5jRZDnami-gHAcNAf499UMYxAlWj-ZKx-Terv2Wqq&new=1)
+ > 今年6月初我国就发放了5G牌照，这比市场预期要早大半年。因为5G产业的成熟速度超出预期，5G网络系统与终端芯片实现同步发展。那么，面向中国5G市场的产业链，到底进展如何？ 据悉，5G网络、终端、芯片等产业链，...
+ ## [\[报告\]长城汽车——体制改革照亮未来、迎接新产品时代(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1564016404&ver=1749&signature=q9UUHjobu9d3u4UiBWAI9XqIaRSjh6S88v9UkqBKlZzdL83Dphb1NNxlhK*9QtCZ2F5upDV8odWCq5vNF6IZ*mNo*Udd-wH5Jx4xbggvN1zcv4MIJ2YzHD-WmCM-P*q1&new=1)
+ > 汽车行业透支效应已经基本结束，即将迎来销量和利润反转，行业增速放缓+国六升级三四线品牌产能出清，份额进一步向龙头集中。一线自主品牌在技术、品牌建设、质量管控上已经取得长足进步，对标韩国汽车发展历程...
+ ## [华为确认：美国子公司Futurewei将裁员600余人!](http://mp.weixin.qq.com/s?src=11&timestamp=1564016404&ver=1749&signature=icQ82wrvpcyVOiItHC3pUccgNtsjpgVTp44ve9NwwTpTV8aUuV5-j8qbWmhf5p8NlbeOHWRgnxahIDJXs8L9YVzfKLmCZ5*ic8rGiSkjnQD7N99X13PWpb3NzxLSCb*W&new=1)
  > 7月24日，针对此前外界传闻的华为美国子公司Futurewei Techologies,Inc.（以下简称“Futurewei”）裁员一事，华为官方正式对外回应称，由于美国将华为公司及下属的68家子公司纳入了“实体清单”，这直接对Futur
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,6 +75,14 @@ categories: IT NEWS
  > 微软10亿美元砸入OpenAI：明为AGI，暗争谷歌，被指云计算换投资
  ## [不可错过的 vue 开发技巧](http://developer.51cto.com/art/201907/600027.htm)
  > 不可错过的 vue 开发技巧
+ ## [磁贴再见！Windows 10泄露版曝光全新开始菜单：几乎完全重做](http://os.51cto.com/art/201907/600201.htm)
+ > 昨天晚间，微软意外地将前一天刚编译完成的Windows 10候选预览版本Build 18947推送，而且是几乎所有32位、6
+ ## [干活分享：微服务平台改造落地解决方案设计](http://developer.51cto.com/art/201907/600200.htm)
+ > 最近几年，楼主在微服务领域做过一些架构设计，针对新老服务如何微服务化积累一定经验，先分享给大家，希望
+ ## [Java架构师笔记丨常见的错误 SQL 用法，你中招了吗？](http://developer.51cto.com/art/201907/600198.htm)
+ > 分页查询是最常用的场景之一，但也通常也是最容易出问题的地方。比如对于下面简单的语句，一般 DBA 想到的
+ ## [人狠话不多，这份IPSec的体系结构详解请拿走~](http://network.51cto.com/art/201907/600197.htm)
+ > 前两天有同学说想看IPSec，所以今天就来聊聊IPSec的体系结构。话不多说，开始。
  ## [抓狂！这条命令执行完女朋友都跟人跑了！](http://os.51cto.com/art/201907/600196.htm)
  > 对于时间的测试，我们可以用到一个命令：time 。下面我们就详细看看如何使用 time 命令来对脚本/命令进行测
  ## [作为程序员，编程语言的10个工具及库你真的了解吗](http://developer.51cto.com/art/201907/600194.htm)
@@ -81,54 +91,88 @@ categories: IT NEWS
  > 与过去不同，5G组网架构选项高达8种，除了选项1就是4G架构，选项6和8被业界抛弃之外，也还剩下选项2、选项3
  ## [2019 全球TOP 10物联网创业企业榜重磅发布|什么才是IoT创业的蓝海？](http://iot.51cto.com/art/201907/600193.htm)
  > 根据专注于物联网领域的知名市场研究机构IOT ANALYTICS近日发布的《物联网创业企业报告2019》显示，目前已
- ## [区块链最新技术与应用趋势](http://blockchain.51cto.com/art/201907/600192.htm)
- > 俄罗斯将于9月份成立区块链事务中心；印度Bajaj Allianz在保险业首次推出区块链技术；韩国将出台数字货币草
+ ## [2019年中国区块链市场规模及发展趋势分析](http://blockchain.51cto.com/art/201907/600192.htm)
+ > 据DigiMarket小编了解，区块链行业似乎已经迎来了第二次发展浪潮。
  ## [详解三种Linux测试磁盘IO性能的方法总结，值得收藏](http://os.51cto.com/art/201907/600191.htm)
  > 在磁盘测试中我们一般最关心的几个指标分别为:iops(每秒执行的IO次数)、bw（带宽，每秒的吞吐量）、lat（每
- ## [5G时代，云计算发展的五大新趋势](http://cloud.51cto.com/art/201907/600190.htm)
- > 2019年是5G发展元年，“大带宽”“大连接”“低延时”的特性将开启万物互联时代，新型数字化业务也将不断涌
- ## [中小企业网络架构规划和IT服务支持6大建议](http://netsecurity.51cto.com/art/201907/600189.htm)
- > 一般来讲，中小型企业都缺少专职的IT网络架构和IT服务人员，很多企业都会选择把这些服务外包出去，达到公
- ## [网络安全是5G全面发展的底线](http://netsecurity.51cto.com/art/201907/600187.htm)
- > 工信部副部长陈肇雄7月17日在出席IMT-2020峰会时指出，加快5G安全领域关键核心技术研发，建立健全5G安全风
- ## [通过去中心化人工智能赋予制造业能量](http://ai.51cto.com/art/201907/600188.htm)
- > 居家新型虚拟助手到将我们邮箱内的垃圾邮件一扫而光的垃圾邮件过滤器，人工智能（AI）已深入我们生活的方方
+ ## [CSDN日报190724：数据分析究竟有没有价值？](https://blog.csdn.net/blogdevteam/article/details/97127939)
+ > CSDN日报190724：数据分析究竟有没有价值？
+ ## [区块链与比特币有什么关系？](https://blog.csdn.net/Kryskalqiqi0321/article/details/96836060)
+ > 区块链与比特币有什么关系？
+ ## [【编程语言】快速掌握 Perl](https://blog.csdn.net/lsj960922/article/details/94440545)
+ > 【编程语言】快速掌握 Perl
+ ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
+ > 【IT资讯】全新编程语言V发布
+ ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
+ > 快速排序 python 代码实现
+ ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
+ > 编程语言的一些基础概念（三）：面向对象
+ ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
+ > ZooKeeper 的设计理念和架构
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
+ ## [Move: 一门面向资产的编程语言](https://blog.csdn.net/toafu/article/details/95307602)
+ > Move: 一门面向资产的编程语言
+ ## [区块链倪老师：《区块链思维》第一章](https://blog.csdn.net/weixin_44693781/article/details/93879776)
+ > 区块链倪老师：《区块链思维》第一章
+ ## [社链生态全球发布会圆满成功，共建社链梦！](https://blog.csdn.net/COMC1DU/article/details/94866252)
+ > 社链生态全球发布会圆满成功，共建社链梦！
+ ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
+ > HTML：一种标记语言而不是编程语言（5.0）
+ ## [编程语言时隔多年，为什么C语言仍然占主导地位？](https://blog.csdn.net/CSDN___Jack/article/details/97036486)
+ > 编程语言时隔多年，为什么C语言仍然占主导地位？
+ ## [各类编程语言中static关键字的用法](https://blog.csdn.net/lvlynn/article/details/95348232)
+ > 各类编程语言中static关键字的用法
+ ## [分布式架构之CAP理论/AP架构/CP架构](https://blog.csdn.net/Soinice/article/details/96784994)
+ > 分布式架构之CAP理论/AP架构/CP架构
+ ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
+ > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [“技术驱动创新”正成为企业发展新方向，开发者该如何修炼自己？](https://blog.csdn.net/csdnnews/article/details/97197920)
+ > 随着5G标准的落地，物联网将迎来更多的发展机会，而物联网和云计算的发展则是大数据爆发的主要原因，随着大数据的发展，人工智能领域也迎来了新的发展机遇。一系列新兴技术的发展，...
+ ## [这个 AI 让周杰伦、罗永浩“变脸”为古典画像！](https://blog.csdn.net/csdnnews/article/details/97197948)
+ > 作者|一一出品 | AI科技大本营（ID:rgznai100）最近，一款俄罗斯 AI 换脸“神器” FaceApp 爆红，它能让你上传的照片瞬间变老或者变年轻。MIT...
+ ## [如何正确 Get 分库分表？](https://blog.csdn.net/csdnnews/article/details/97198088)
+ > 作者 | 菜菜责编|郭芮YY妹：菜哥，领导让我开发新系统了。菜菜：这么说领导对你还是挺信任的呀。YY妹：必须的，为了设计好这个新系统，数据库设计我花了好多心思。菜菜：...
  ## [消息称LG广州OLED面板工厂8月底竣工，月产能或达6万片](http://www.lanjingtmt.com/news/detail/43840.shtml)
  > 报道称，LG Display中国区市场推广常务安乘模日前表示，LG Display广州8.5代OLED面板工厂将于今年第三季投产，目前稳步推进量量产，今年年底每月产能将达6万片，未
  ## [微博数据狂欢背后：造流量与反流量的艰难抉择](http://www.lanjingtmt.com/news/detail/43839.shtml)
  > 作为连接品牌和用户的媒介，微博需要在保持流量真实性的前提下尽量满足商业化诉求，造流量和反流量对于微博而言确实是两难的选择，如何在两者之间寻求更好的平衡一直是微博需要解决的重要课题。
 # 人工智能 
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
- ## [史上最全的Android屏幕适配面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96633833)
- > 史上最全的Android屏幕适配面试题集锦
- ## [“收信人：义士”！时隔72年，非凡来信帮他们回家](https://blog.csdn.net/weixin_45209246/article/details/96586841)
- > “收信人：义士”！时隔72年，非凡来信帮他们回家
- ## [三款大气资讯类wordpress主题](https://blog.csdn.net/qiyuwg/article/details/90645064)
- > 三款大气资讯类wordpress主题
- ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
- > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
- ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
- > 史上最全的Android性能优化面试题集锦
- ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
- > 如何将语音翻译成中文、语音转文字怎么做
- ## [Android面经：百度腾讯滴滴美团头条网易搜狐华为链家小米拼多多](https://blog.csdn.net/weixin_45258969/article/details/96900566)
- > Android面经：百度腾讯滴滴美团头条网易搜狐华为链家小米拼多多
- ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
- > 华为手机自带语音转文字的功能，转换方法如下
- ## [苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了](https://blog.csdn.net/WoChaotian_/article/details/95448657)
- > 苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了
- ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
- > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
- ## [如何为移动开发选择技术栈？](https://blog.csdn.net/weixin_43606158/article/details/96738465)
- > 如何为移动开发选择技术栈？
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
- ## [世界百年未有的大变局下](https://blog.csdn.net/weixin_45209246/article/details/96586562)
- > 世界百年未有的大变局下
- ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
- > 干货分享：Totoro 在自动化测试领域的深耕与收获
+ ## [前端知识点，持续更新整理](https://blog.csdn.net/weixin_42003972/article/details/96868651)
+ > 前端知识点，持续更新整理
+ ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
+ > Linux 运维一些知识点
+ ## [Linux之lvs负载均衡【DR模式】](https://blog.csdn.net/qq_36016375/article/details/94914327)
+ > Linux之lvs负载均衡【DR模式】
+ ## [把json数据的id加到接口里id的后面](https://blog.csdn.net/qq_43473279/article/details/95340389)
+ > 把json数据的id加到接口里id的后面
+ ## [关于textarea的注意点](https://blog.csdn.net/fangjial/article/details/96572227)
+ > 关于textarea的注意点
+ ## [云计算是什么？新手学习云计算的学习路线](https://blog.csdn.net/qfxulei/article/details/94431099)
+ > 云计算是什么？新手学习云计算的学习路线
+ ## [\[Linux\]运维面试(四)](https://blog.csdn.net/qq_44839276/article/details/94742599)
+ > \[Linux\]运维面试(四)
+ ## [前端常用命令](https://blog.csdn.net/gqzydh/article/details/95192973)
+ > 前端常用命令
+ ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
+ > 草莓协会前端页面
+ ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
+ > 今天开始写一下学习java中级每一天的知识点总结
+ ## [运维入门之shell脚本七](https://blog.csdn.net/qq_42103479/article/details/95922149)
+ > 运维入门之shell脚本七
+ ## [前端之路--前端开发环境搭建](https://blog.csdn.net/NEW_cai/article/details/95055103)
+ > 前端之路--前端开发环境搭建
+ ## [前端知识每日小拷问 002](https://blog.csdn.net/WU5229485/article/details/94971681)
+ > 前端知识每日小拷问 002
+ ## [大规模离线计算产品的调研](https://blog.csdn.net/oscarun/article/details/96173812)
+ > 大规模离线计算产品的调研
+ ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
+ > Linux之Docker私有仓库的搭建
 # PM 
+ ## [Facebook最重要的四个决策](http://www.woshipm.com/it/2625696.html)
+ > 本文会讲述Facebook在其发展过程中做过哪些重要的决策？是什么推动着这家千亿美金公司持续不断增长？以及对其决策背后深层次的思考。Facebook的冷启动通过校园社交完...
+ ## [「钱包出海」跨境走访马来移动支付现况纪实](http://www.woshipm.com/it/2625854.html)
+ > 本文从用户的生活背景、使用背景、竞品分析、细节体验等环节总结分析了马来西亚移动支付的现状，并总结了电子支付产品的新机会点。技术和连通性推动了千禧一代行为...
  ## [用户体验设计的6个常见问题](http://www.chanpin100.com/article/109028)
  > 身处互联网行业，不论你是产品经理，还是设计师，工作中提到的最多的就是“用户体验”了。这四个字，也成为了一句行业至理名言。虽然听起来，“用户体验”这东西就跟“情怀”一样，已经被说烂了。
  ## [7月15-23日热文盘点|不点开看看，你都不知道自己错过了什么！！](http://www.chanpin100.com/article/109023)
