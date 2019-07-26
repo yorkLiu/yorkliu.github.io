@@ -1,21 +1,21 @@
 ---
 title: 2019-07-26 IT News
 copyright: true
-date: 2019-07-26 08:00:58
+date: 2019-07-26 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [问答000997|新大陆高管在线答投资者问](http://mp.weixin.qq.com/s?src=11&timestamp=1564099205&ver=1751&signature=Fb4mA8i9kOHs70UoXiLmkRITwNG594sy3q8EU0J40VxIpg5hSFLQM0yY5kJL6L88uK-DDZRhj3UBhPk*ooWntl*O1*2QOhmJu2jvdPMG2s-6U2OIEc2lNokqTkkFUrYl&new=1)
- > 编者按：新大陆（000997）日前参加了2019年福建辖区上市公司投资者集体接待日活动。新大陆数字技术股份有限公司董事长兼总经理王晶、副总经理兼财务总监徐志凌、董事会秘书吴春旸在线与投资者和网友互动，一一回...
- ## [谷歌发布离线照片整理应用Gallery Go](http://mp.weixin.qq.com/s?src=11&timestamp=1564099205&ver=1751&signature=Gkl07NjK2DGNtRyHMrEUOEU0bss82Q0AKS21*kcxRtv8zd9*mzRgrz1oylR6IRRuGjGOJAwrbVmHgxZ5gDDblaH4MZWdWFDOJbm6JstRAAA0x2Mkkac*p9DiUzsqJ9nA&new=1)
- > 近日，谷歌宣布Google Photos用户突破10亿大关。于此时，谷歌发布离线照片整理应用Gallery Go，该应用可以通过机器学习帮助用户自动整理、索引、编辑照片，无需高速联网或云备份。Gallery Go可以依据用户拍摄的...
- ## [任正非接受意大利媒体采访19问：我有能力领导华为走出黑暗，走向光明!](http://mp.weixin.qq.com/s?src=11&timestamp=1564099205&ver=1751&signature=q7FWSZ8IlYVpqQGNEpTEYIl80u2h-ll2ZB7y6JCWQvZMcX76OqOV6qItNS6HXk*cPI*ikqPjb*O21F0cH1C3Jkf4fYDr6CYR8YwtUTeDHxR*OA4X6kj-faPdkNwycK3d&new=1)
- > 2019年7月18日，华为公司CEO任正非接受了多家意大利媒体的采访，就5G、安全、美国的针对、与欧盟的合作等问题，再次作了详细的解说。分享此次圆桌纪要。 非常欢迎大家光临，意大利是一个美丽的国家，我非常喜欢...
- ## [5G近在眼前 但你听过的这些消息可能都是误解和谣言](http://mp.weixin.qq.com/s?src=11&timestamp=1564099205&ver=1751&signature=QYhKIP0Eky3C9TCnv1Qs14FEIKoPe1jvTkjSP7tM4o3*6z3IhjV9H7SXppfM8Fn7T91XnJsURulyd7dxQJotfujgK1bmvQVPfX7Valk6RqwwonIq3C2F4nvpVh4AZfEF&new=1)
+ ## [5G近在眼前 但你听过的这些消息可能都是误解和谣言](http://mp.weixin.qq.com/s?src=11&timestamp=1564102804&ver=1751&signature=QYhKIP0Eky3C9TCnv1Qs14FEIKoPe1jvTkjSP7tM4o12Hs8yTe6jjUv6iR2Q91R6LikwntC5QJQh5Klgt-PUIHKyCVFcq51rbRLV3up5Q2trCbGYEjdaqUCfqrAmZ*r9&new=1)
  > 前有Mate20 X 5G版获得了中国首张5G入网许可证，后有中兴天机Axon 10 Pro 5G版在京东正式开启预售，设备的到来以及热点的讨论，总是让我们觉得5G已经来到了我们的身边，但在众多的5G新闻之中，总有那么一些被误...
- ## [终于，我也成为了“别人家的孩子”!2019机器人创新生态半年报出炉，助力无限创新!](http://mp.weixin.qq.com/s?src=11&timestamp=1564099205&ver=1751&signature=yb6s6CiOE878Z05R*22SD0BYNXA9YPexQm*8RvP8tANd5gU6GMGUEkjtPfW2TSqYgD-qg3SQshu0lWOSJV5llyaJWYLpn69hQUwOydxHPJI98t6cgx-ueFqpAPH*Ay*I&new=1)
+ ## [问答000997|新大陆高管在线答投资者问](http://mp.weixin.qq.com/s?src=11&timestamp=1564102804&ver=1751&signature=Fb4mA8i9kOHs70UoXiLmkRITwNG594sy3q8EU0J40VxIIrJRn9kTh6qubRHMbCidVKkZeyO7RTYeiLHB4hZxBKx-XwtlZCN2iZWfjli1aheb-vObfpROuzE6wXQh4rB7&new=1)
+ > 编者按：新大陆（000997）日前参加了2019年福建辖区上市公司投资者集体接待日活动。新大陆数字技术股份有限公司董事长兼总经理王晶、副总经理兼财务总监徐志凌、董事会秘书吴春旸在线与投资者和网友互动，一一回...
+ ## [终于，我也成为了“别人家的孩子”!2019机器人创新生态半年报出炉，助力无限创新!](http://mp.weixin.qq.com/s?src=11&timestamp=1564102804&ver=1751&signature=yb6s6CiOE878Z05R*22SD0BYNXA9YPexQm*8RvP8tAM3F5IuUKpDaIFirc09f806pWlZm9xEgOsHtWSh*eJJbMLGdJBopsXxHYEcc2i3v6L63f8nJv5fDDzdVBd8buft&new=1)
  > 英特尔和硬蛋科技联合发起的机器人创新生态已经成立4年了，本着汇聚机器人产业创新力量的初衷，聚焦技术创新、市场加速、专业化运营三大方向，在过去的2019年上半年，机器人创新生态线上线下围绕着上述多个领域...
+ ## [谷歌发布离线照片整理应用Gallery Go](http://mp.weixin.qq.com/s?src=11&timestamp=1564102804&ver=1751&signature=Gkl07NjK2DGNtRyHMrEUOEU0bss82Q0AKS21*kcxRtsffAXqtvVJ91e1cUJp02CpX4bBx*HoxgzrSH*gO0VsLgTQ5i7acfGfyEu0tvoxf1C59Ha1igN6RAMfIbU0A9Q4&new=1)
+ > 近日，谷歌宣布Google Photos用户突破10亿大关。于此时，谷歌发布离线照片整理应用Gallery Go，该应用可以通过机器学习帮助用户自动整理、索引、编辑照片，无需高速联网或云备份。Gallery Go可以依据用户拍摄的...
+ ## [任正非接受意大利媒体采访19问：我有能力领导华为走出黑暗，走向光明!](http://mp.weixin.qq.com/s?src=11&timestamp=1564102804&ver=1751&signature=q7FWSZ8IlYVpqQGNEpTEYIl80u2h-ll2ZB7y6JCWQva8jWmCSbE2LGkN1s9SL8rCzjgME6n3PWh3r45jaBYYO1SwtTLZpSxNQpPojN6CkiR8rncbJ039bk1TFIgAaCQa&new=1)
+ > 2019年7月18日，华为公司CEO任正非接受了多家意大利媒体的采访，就5G、安全、美国的针对、与欧盟的合作等问题，再次作了详细的解说。分享此次圆桌纪要。 非常欢迎大家光临，意大利是一个美丽的国家，我非常喜欢...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,6 +73,10 @@ categories: IT NEWS
  > 如何通过USB或DVD安装Windows 10
  ## [在Hyperledger Explorer中运行区块链应用](http://blockchain.51cto.com/art/201907/600186.htm)
  > 在Hyperledger Explorer中运行区块链应用
+ ## [浅谈Java Web经典三层架构和MVC框架模式](http://developer.51cto.com/art/201907/600274.htm)
+ > 首先我们需要知道MVC模式并不是javaweb项目中独有的，MVC是一种软件工程中的一种软件架构模式，把软件系统
+ ## [高性能HTTP服务端的负载均衡算法有哪些？大部分程序员都收藏了...](http://server.51cto.com/sOS-600273.htm)
+ > 在一个典型的高并发、大用户量的Web互联网系统的架构设计中，对HTTP集群的负载均衡设计是作为高性能系统优
  ## [2019年值得聚焦的物联网趋势](http://iot.51cto.com/art/201907/600272.htm)
  > 物联网现在已经成为大众的技术，每个人都准备好采用物联网解决方案，聘请最好的物联网开发人员和拥有物联网
  ## [一组图带你读懂TCP连接的终止――四次挥手的原理~](http://network.51cto.com/art/201907/600271.htm)
@@ -89,78 +93,94 @@ categories: IT NEWS
  > 其实，explain结果中还有一个Extra字段，对分析与优化SQL有很大的帮助，今天花1分钟简单和大家聊一聊。
  ## [地覆天翻般变革，谈谈今天的企业网络工程师所需要的8项技能！](http://network.51cto.com/art/201907/600264.htm)
  > 企业网络工程师的日常工作职责今时已不同往日，从负责管理点到点的传输帧和分组，发展成为负责网络、服务器
- ## [当土木工程遇到物联网](http://iot.51cto.com/art/201907/600263.htm)
- > 本文将探讨如何从施工阶段，到关键资产的持续维护和管理阶段，通过使用实地验证的传感器技术和无线网络，使
- ## [大数据的业务驱动](http://bigdata.51cto.com/art/201907/600262.htm)
- > 在这篇文章中，我们将简单的说明每个业务驱动因素。经过降低营运成本创造新的收入来源，每一项都会增加了企
- ## [Linux之Pacemaker+Corosync【红帽7的高可用】](https://blog.csdn.net/qq_36016375/article/details/94916165)
- > Linux之Pacemaker+Corosync【红帽7的高可用】
- ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
- > Window基础（黑客基础）
- ## [CA，DNS 搭建](https://blog.csdn.net/qq_42616691/article/details/95478545)
- > CA，DNS 搭建
- ## [Linux之Docker 添加用户认证](https://blog.csdn.net/qq_36016375/article/details/96048239)
- > Linux之Docker 添加用户认证
- ## [数据库运维平台](https://blog.csdn.net/marko39/article/details/95241815)
- > 数据库运维平台
- ## [Move: 一门面向资产的编程语言](https://blog.csdn.net/toafu/article/details/95307602)
- > Move: 一门面向资产的编程语言
- ## [【电信学】【2017.05】一种物联网的编程语言](https://blog.csdn.net/weixin_42825609/article/details/96234912)
- > 【电信学】【2017.05】一种物联网的编程语言
- ## [java基础：基础类型和多态](https://blog.csdn.net/wzEminem/article/details/94437189)
- > java基础：基础类型和多态
- ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
- > 快速排序 python 代码实现
- ## [\[Linux\]运维面试(四)](https://blog.csdn.net/qq_44839276/article/details/94742599)
- > \[Linux\]运维面试(四)
- ## [运维linux命令](https://blog.csdn.net/mengjinlong1/article/details/96474278)
- > 运维linux命令
- ## [UPS电源的8个功能作用](https://blog.csdn.net/qq_41546715/article/details/95626279)
- > UPS电源的8个功能作用
- ## [一门编程语言的通用知识点](https://blog.csdn.net/qq_34822461/article/details/96838555)
- > 一门编程语言的通用知识点
- ## [C语言电池助手](https://blog.csdn.net/weixin_43812804/article/details/96865520)
- > C语言电池助手
- ## [Java基础（一）环境变量的配置和如何运行自己的第一个java文件](https://blog.csdn.net/qq_41615348/article/details/95585175)
- > Java基础（一）环境变量的配置和如何运行自己的第一个java文件
+ ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
+ > 人工智能如何自己玩游戏？
+ ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
+ > 人工智能02 机器进化
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
+ ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
+ > 梦想还是要有的，即使被摧残着！
+ ## [【程序人生】大三Unity客户端第一次找工作的经历](https://blog.csdn.net/qq_33967521/article/details/94728912)
+ > 【程序人生】大三Unity客户端第一次找工作的经历
+ ## [谈谈KAFKA的架构以及这种架构的优势](https://blog.csdn.net/qq32933432/article/details/96474985)
+ > 谈谈KAFKA的架构以及这种架构的优势
+ ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
+ > 程序帝国四大操作之单表修改
+ ## [云计算之OpenStack架构详解](https://blog.csdn.net/lixinkuan328/article/details/94911352)
+ > 云计算之OpenStack架构详解
+ ## [【程序人生】 简单解读linux shell脚本语言和lmdb数据库](https://blog.csdn.net/Zhang_Chen_/article/details/94650249)
+ > 【程序人生】 简单解读linux shell脚本语言和lmdb数据库
+ ## [微服务架构 VS 单体架构](https://blog.csdn.net/nausealiu/article/details/94406526)
+ > 微服务架构 VS 单体架构
+ ## [程序人生|毕业一年有感](https://blog.csdn.net/nobody_1/article/details/96801942)
+ > 程序人生|毕业一年有感
+ ## [人工智能原理学习笔记](https://blog.csdn.net/qq_41989868/article/details/96641239)
+ > 人工智能原理学习笔记
+ ## [人工智能数学基础--极大似然估计](https://blog.csdn.net/sinat_39593423/article/details/94405013)
+ > 人工智能数学基础--极大似然估计
+ ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
+ > 大家的人工智能——决策树
+ ## [SOA（面向服务的架构） 架构与微服务架构的区别](https://blog.csdn.net/weixin_44530530/article/details/93972425)
+ > SOA（面向服务的架构） 架构与微服务架构的区别
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [wxPython + PyOpenGL 打造三维数据分析的利器！| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/97331251)
+ > 作者 |天元浪子责编 | 伍杏玲出品 |CSDN博客在三维显示领域，OpenGL 是神一样的存在，其地位就像编程语言里面的 C 一样。基于 OpenGL 衍生出来的分...
+ ## [阿里平头哥“生娃”！最强 RISC-V 处理器玄铁 910 诞生！](https://blog.csdn.net/csdnnews/article/details/97331022)
+ > 作者| 胡巍巍发自上海黄浦出品 | CSDN（ID：CSDNnews）马云喜欢金庸作品，圈内人尽皆知。5年前，马云曾发微博称：“我做过几次婚姻红娘，由于是顺水推舟所以成...
+ ## [彻底火了！这份Python学习贴，90%程序员用的上！](https://blog.csdn.net/csdnnews/article/details/97331381)
+ > Python的信息太爆炸了吧！将纳入高考内容、小学生教材开始接触Python、Python列入全国计算机等级考试……全民学Python的话题铺天盖地，中国的Python学...
+ ## [React 是如何成为跨越前端开发鸿沟的桥梁？](https://blog.csdn.net/csdnnews/article/details/97331410)
+ > 有人说，前端设计是一位美工，也有人说，前端设计就是搞 Web 页面开发的；还有人说，前端设计是上游的交互设计师和下游服务器端工程师沟通的桥梁......那么从技术角度来看...
+ ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/csdnnews/article/details/97331155)
+ > 坐拥各大编程排行榜的Python，真的无敌了吗？在我一个朋友看来，他坚信 Python 可以做任何事情。但其实我是不服的，我相信很多人都有这种感觉。但是我最近当看 Git...
+ ## [17 岁成为 iOS 越狱之父，25 岁造出无人车，黑客传奇！](https://blog.csdn.net/csdnnews/article/details/97331163)
+ > 作者 | 素年清时责编 | 伍杏玲出品 | 程序人生（ID：coder_life）5 岁写出第一套电脑程序；14 岁凭借自制的测绘机器人入围英特尔国际科学与工程大奖赛决赛...
+ ## [靠模仿就能建立第二个“Google”？](https://blog.csdn.net/csdnnews/article/details/97331333)
+ > 无论是业务模式，还是前沿技术，Google 早已成为科技圈中大小企业学习的典范。不过站在学习者的角度来看，一味地模仿，真的就能筑造第二个 Google 吗？作者 |Br...
+ ## [百度网盘将推出单次会员服务；苹果回应否认操纵搜索结果；Node.js 12.7.0 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/97331358)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
  ## [千亿智慧照明市场背后，BLEMESH免开发方案成主流](https://blog.csdn.net/csdnnews/article/details/97331120)
  > 随着智慧城市、智慧楼宇、智能家居等应用场景的落地，以及 LED 应用带来的变革，运用物联网、传感器、嵌入式等技术的智慧照明已成为当今主流智能解决方案之一。据前瞻产业研究院...
  ## [快手发力游戏直播，劲敌环伺之下加速商业化冲刺](http://www.lanjingtmt.com/news/detail/43871.shtml)
  > 值得注意的是，在本次大会上，快手将游戏与电商和运营提升至相同地位，并行召开分论坛，足见快手对游戏直播的重视程度。在劲敌环伺之下，快手正在游戏直播领域中蓄力、加速商业化冲刺。
 # 人工智能 
- ## [程序人生之思考人生](https://blog.csdn.net/soliy/article/details/95377718)
- > 程序人生之思考人生
- ## [「人工智能论文范文」人工智能成功的标准：行业最佳实践](https://blog.csdn.net/weixin_43539230/article/details/95621724)
- > 「人工智能论文范文」人工智能成功的标准：行业最佳实践
- ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
- > 开启技术之旅——我的第一篇博客
- ## [微软云-CDN防盗链的配置和使用](https://blog.csdn.net/Sugoar/article/details/95307449)
- > 微软云-CDN防盗链的配置和使用
- ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
- > 人工智能实践：Tensrfow笔记
- ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
- > 持续集成管理软件Jenkins应用实验
- ## [什么是正向代理？](https://blog.csdn.net/duyun123456/article/details/96153234)
- > 什么是正向代理？
- ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
- > 人工智能02 机器进化
- ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
- > 程序帝国四大操作之单表修改
- ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
- > 程序人生（项目导入依赖）
- ## [大数据之路之交通大数据应用总体架构设计](https://blog.csdn.net/mochou111/article/details/96428264)
- > 大数据之路之交通大数据应用总体架构设计
- ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
- > 人工智能08 启发式搜索
- ## [人工智能课程推荐](https://blog.csdn.net/Fly_hps/article/details/94349277)
- > 人工智能课程推荐
- ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
- > 人工智能知识点总结
- ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
- > 【Docker】Docker网络
+ ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
+ > 快速排序 python 代码实现
+ ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
+ > HTML：一种标记语言而不是编程语言（5.0）
+ ## [java基础：基础类型和多态](https://blog.csdn.net/wzEminem/article/details/94437189)
+ > java基础：基础类型和多态
+ ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
+ > JAVA基础的基础1.0
+ ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
+ > C++基础1：类与对象基础
+ ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
+ > 爬虫基础：HTTP基本原理
+ ## [Python等编程语言学习资料分享](https://blog.csdn.net/Mr_JjPolarBear/article/details/95628296)
+ > Python等编程语言学习资料分享
+ ## [编程语言中常用的变量命名缩写](https://blog.csdn.net/qq_37851620/article/details/94731227)
+ > 编程语言中常用的变量命名缩写
+ ## [\[区块链\]初识R3-Corda，解析区块链结构](https://blog.csdn.net/lsttoy/article/details/94436203)
+ > \[区块链\]初识R3-Corda，解析区块链结构
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
+ > 编程语言的一些基础概念（三）：面向对象
+ ## [区块链对区块链金融有什么作用？](https://blog.csdn.net/kaihuiguoji/article/details/90671898)
+ > 区块链对区块链金融有什么作用？
+ ## [HTML：一种标记语言而不是编程语言（11.0）](https://blog.csdn.net/qq_40061206/article/details/95356427)
+ > HTML：一种标记语言而不是编程语言（11.0）
+ ## [编程语言时隔多年，为什么C语言仍然占主导地位？](https://blog.csdn.net/CSDN___Jack/article/details/97036486)
+ > 编程语言时隔多年，为什么C语言仍然占主导地位？
+ ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
+ > 来看漫画：我才是世界上最好的编程语言
 # PM 
+ ## [3种常用推销技巧，让人无法拒绝！](http://www.woshipm.com/marketing/2631464.html)
+ > 大多数人是不喜欢推销的，第一是会产生被打扰的感觉，而且被推销的大多是一些不需要的东西，第二是感觉拒绝对方是一件容易产生负面情绪的事（因为看到对方目的未达成而...
+ ## [线下课程 | 如何搭建PMD 的核心能力体系？](http://www.woshipm.com/active/2625629.html)
+ > 在工作中，不管是大公司还是小公司，作为一个产品小团队的骨干或者负责人，总会遇到各种各样的问题：熬了几个通宵，还有2周产品就要上线了。老板因为不好看当前产品...
  ## [产品经理周报第 77 期｜微信支付推出“微信机上付”；百度网盘将推出单次付费服务](http://www.woshipm.com/it/2630694.html)
  > 早早早，今天又是一周的最后一天（如果是996的话，当我没说）大家有没有出游的计划呀，虽然天气炎热，但出去走走还是很好的呀~欢迎大家来评论区留下周末打算去做的事...
  ## [像太阳一样点亮自己温暖别人（三）--他人情绪管理](http://www.chanpin100.com/article/109034)
