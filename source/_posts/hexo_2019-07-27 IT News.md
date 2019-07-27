@@ -1,32 +1,48 @@
 ---
 title: 2019-07-27 IT News
 copyright: true
-date: 2019-07-27 12:01:18
+date: 2019-07-27 17:02:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [VR“硬核”垃圾分类应用纷纷上线，快速分辨“你是什么垃圾”!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=54dOjUp9KuwqlPMrZdVpYfhVTRWJqCdz4*dnN2ymUrZaecAzCl6Su4C3sA1G8oRGshCYGj78edE9uEu*V-b3thZxfq8gxPIi431ODN*4e*Gq*yJkIko75v6EglNc4G2J&new=1)
- > 比起之前文章提到的VR游戏，更具针对性。正文共 1907 字 15 图；预计阅读时间 5 分钟 自垃圾分类开始在上海实行，至今也快一个月了。这短短的一个月可是把上海人民折磨的不轻…… 每天都要接受“我是什么垃圾”...
- ## [华为在 5G 初期不考虑盈利；网易发布数据中台；微软 SQL Server 2019 免费支持 Java|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=s2TQzulLgUbiuDuDL5TS35d04Kt-BuKDI1J4T3WJY3hBxyP19iOEuUKIJEyL0jWhT7DtM-Ajy-graMxuXfTWMDnY5Dnn7651twhK3kDljKmI8zpnYvcx-VuCYdi2xE6f&new=1)
- > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
- ## [WeWork加速上市计划，创始人上市前却大量套现?|一周热闻回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=YqOArrZb--O105r*si9POzG9v*TYZ9m7fRKfhMq8Cfj02F12lZKMMTSPxnQyWA-MMqfJGWxhL6j5yHwfCn1iYJ58ZCkDKwwfhj77Mgs44HHP5VFf-Io8BFIft2w7lK-*&new=1)
- > 硅谷Live / 实地探访 / 热点探秘 / 深度探讨大家好，本周硅谷热闻又跟大家见面啦！无论是 Facebook 被罚 50 亿天价罚款，还是苹果用 10 亿美元收购了英特尔 5G 调制解调器业务，相信大家都有所耳闻，还有哪些新...
- ## [美国一家公司公然售卖“漏洞利用”程序，并否认其产品参考了中国研究人员的成果](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=Vzj3*SPYWLKLqWwcUnW1jsuoz7lvFB0j5-9VOJWykkIkEriEusc-4V-VKiqdnJxbbKdQeOy4AK4bN*tckGnw8*3bURi8lU2BuoXuK14RBW1TmeMULPZ1feVl3gFZ8yt-&new=1)
+ ## [来自中、美、英的2300万张信用卡被挂暗网](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=0gdBQoOfL-cx3S4OUH4t5906YYCFQV4-KrbXdZTMuLXsmdR8rLinfbJvibiBeGsV3ooJPJqD2pFTpcD-lWpeuwADkHrVaUB-mRoAa6QkximzOuUi3iMXflCbOMdWfHn4&new=1)
+ > 7月27日消息，研究人员发现，在暗网上出售了超过2300万张被盗信用卡和借记卡，其中英、美两国消费者受到的打击最大。Sixgill发现在暗网上，每三张被盗卡中就有近两张在美国发行，总数超过1500万张。下一个最受欢...
+ ## [华为首款5G手机正式发布：售价6199元你心动了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=GQMyLmAF9o9pUFKCwQ5JLzO5QJP8-1kFnqs8j2y-2rLnFaMes8nCWIvpgpO6DRns8d8*eL-8A*SZaJL8wg3V8MDh9HnrFtTp969yB1BKbQ0FAnVFHyOhkLiI9lMKHt-A&new=1)
+ > 7月26日下午，华为Mate 20 X 5G版终于正式亮相。据现场介绍，华为Mate 20 X 5G版具备以下亮点：1．唯一商用搭载双7nm5G终端芯片模组2．唯一商用支持SA／NSA双模3．首个中国5G进网许可4．首个泰尔5G通信能力5G
+ ## [微软再称王](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=s2TQzulLgUbiuDuDL5TS35d04Kt-BuKDI1J4T3WJY3jm68ps*5kIXyWHPgMZoiCeYuuUWzsnNTNSFW0cNARe9g9kDdMpO6ZJhJEVbE018nWCFxpJ8h919GyYxaovAVWW&new=1)
+ > 微软借助云和人工智能翻身，市值超越亚马逊、苹果，成为全球第一。作者 | 刘景丰本文经授权转载自燃财经（ID:rancaijing）曾经被评论者判了“死刑”的微软，在度过10余年的疲软期后，重新做回“王者”。7月18日...
+ ## [智能语音助手又被曝涉嫌泄露用户隐私 这次是苹果Siri](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=qL5N1y8*p*pKiCFtbDqKqWZTAIgWckNf9z9Lz2byWjQeH0oL2TYn9tbZ4NFgcD2g1pVsFTRWYlcx8ZCplUMPm0gbVhPIVSWHmF-XZ1fA8-5a0JBLs*A51KOWshLrNtaF&new=1)
+ > 据《卫报》消息，苹果Siri 团队承包商透露，Siri会通过人为方式，定期听取机密医疗信息，毒品交易，性行为以及其他私人信息。 这些从客户处收集的Siri 语音数据，被用以改善Siri 语音体验并帮助Siri 更好地理解...
+ ## [苹果10亿美元启动“备胎计划”跻身5G基带六巨头](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=fKlqqjDOjMzx91vj9In*hmYDlMqcF6ANSEkPKZgDPN6h6qjYkYZ*6HDirWwrWnUQ1RT56E9fsoU3zcATFY29HF-9Wc-jc-uRdDiL*HUdP0*JlthRTpwIHf*M9BxtATds&new=1)
+ > 7月26日凌晨，苹果正式宣布，将正式收购英特尔智能手机调制解调器业务，交易金额为10亿美元 。该交易预计将在2019年第四季度底完成，但须经监管部门批准。在经历了高通“断供”后的和解，英特尔基带芯片“难当大...
+ ## [1分钱竞标!美国测试大厂是德科技玩脱了](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=0DQojn-IgVyk*P1s5iPqcPAimZIyHzB1f8Hw74VLWHVzZB6PskJdl7t4ergcIqEK7sygm1RYXesLWR1KGyBi*gte81z4L*hh1g5Kr0r4PvImo3-VMa6alLZED3vBu4dk&new=1)
+ > 5G作为通信行业新周期，势必将拉动新一轮投资。全世界都在看5G，产业链大大小小企业也都虎视眈眈意欲掘金5G。美国、韩国等运营商争当第一批5G先行军，2019年年初已经商用5G。中国自然不甘落后，6月6日，中国移动...
+ ## [下一代经济增长引擎：第四次工业革命科技在制造业中的规模化应用](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=lFnWxyT*1JJdRVmPAGN5vj0bpkGkXEi7*LZY3G6cFdlydetSN-M8a3OxRGPmQ-Wub7k9gQeZUqvVI4m0C3cSZQUuH1aY9BjePUsjHcNVkZ3C-kUHr2YXSSM-JMrqw-Vx&new=1)
+ > 尽管近期全球经济增长呈放缓趋势，制造业仍是发达国家和发展中国家经济的核心驱动力。制造业是研究、开发和创新（R&amp;D&amp;I）投资的主要来源。在德国、日本和韩国，私营部门的制造业公司贡献了 85%以上的研发经费。...
+ ## [MBBF2019高能来袭：5G,Gear Up!](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=TnH2RXcTRlBGYdLLIFNw05LfGiSX0vfUCdBkWoLC8KeL-ATOityDLAuB07qJOGWAKz1mhqeXoCAesxoYIO7PmGrAow9o77OgFl6bRXY8OSTbPadLEaRxvAf3JuvIrSWM&new=1)
+ > 2019全球移动宽带论坛即将重磅来袭全球5G行业先锋将集结瑞士苏黎世共同探索ICT行业可持续增长新途径开启5G新世界！向下滑动查看更多尊敬的女士/先生我们诚挚地邀请您参加由华为主办的第十届全球移动宽带论坛。本...
+ ## [美国一家公司公然售卖“漏洞利用”程序，并否认其产品参考了中国研究人员的成果](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=Vzj3*SPYWLKLqWwcUnW1jsuoz7lvFB0j5-9VOJWykkLY*USKs*gD7RTER8Bd7HpnxcHXj-N7bCMzLcJgKCZQsb1DjhpGXKV6cXz-Fy-ZlH9HoAnrLXKpxVgltkpttNn9&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：BlueKeep 是一个存在于多版本Windows系统上的重大漏洞，而一家美国网络安全公司却开始出售可利用此漏洞的程序。据外媒报道，一家名为ImmunityInc.的...
- ## [通知：来这里和31万人交流3D打印，微信登录很方便](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=wY7Ln6gesImzVbgFVBI7N5IqIZUbAHCzKfJ9V47iWR5KBwhZjOP0LKm2vpBlvxViYTAl1Io0XkVZ9yCH3G6kpk8SJ3EHevI1pFslEMhg0QVDqF05saphU-5AawJTQIKF&new=1)
+ ## [VR“硬核”垃圾分类应用纷纷上线，快速分辨“你是什么垃圾”!](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=54dOjUp9KuwqlPMrZdVpYfhVTRWJqCdz4*dnN2ymUraGzpcZ7IzvzlkUyfCBWRwfzZG*3Ma5Iv6webg7YvMOcrP3BHpjUnXTATtl2qwWLh6Pxo6cm*OUqeN8EZlZ8hpm&new=1)
+ > 比起之前文章提到的VR游戏，更具针对性。正文共 1907 字 15 图；预计阅读时间 5 分钟 自垃圾分类开始在上海实行，至今也快一个月了。这短短的一个月可是把上海人民折磨的不轻…… 每天都要接受“我是什么垃圾”...
+ ## [WeWork加速上市计划，创始人上市前却大量套现?|一周热闻回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=YqOArrZb--O105r*si9POzG9v*TYZ9m7fRKfhMq8CfgbGfe9M*H9yewHBy5JY5haLeV6sMcDhuS1kGs5-llEpJ8Rswj0gqiwt9VFdb2*lJwPO629d*AdOQwr1BB53zrk&new=1)
+ > 硅谷Live / 实地探访 / 热点探秘 / 深度探讨大家好，本周硅谷热闻又跟大家见面啦！无论是 Facebook 被罚 50 亿天价罚款，还是苹果用 10 亿美元收购了英特尔 5G 调制解调器业务，相信大家都有所耳闻，还有哪些新...
+ ## [通知：来这里和31万人交流3D打印，微信登录很方便](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=wY7Ln6gesImzVbgFVBI7N5IqIZUbAHCzKfJ9V47iWR4SQqgQUpQAwkgIU535U5yjt8o*9ijo3GQHyziy-BRUFlBJqqdMiHQT6o3BhuWTqc6QcGfJehn0RNcNVl5LV8b5&new=1)
  > 我们发现，每天有大量的用户会使用微信登陆南极熊3D打印网，想要参与行业和技术交流。为了更方便使用，南极熊特别开辟了交流的快捷通道，手机微信打开并登陆https://www.nanjixiong.com 后，点击手机版首页的中...
- ## [\[科技早报7点整\]华为首款5G手机售价6199元 意大利拟立法治疗手机上瘾……](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=EAU3T5FEobLBjUm8SXE7OjOguNpN8wevpbhzKnB0Bu36Q-vwRlnmJRGwnFiC-rgFPZg9YGwWC3I8o6oADP9SyaeUAmsHt2*Y7fXgiG7CJOG8AbgqXbYJaRAmSdyl6OLo&new=1)
+ ## [华为在 5G 初期不考虑盈利；网易发布数据中台；微软 SQL Server 2019 免费支持 Java|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=s2TQzulLgUbiuDuDL5TS35d04Kt-BuKDI1J4T3WJY3gX-gslG9im6vamz3hGgai1xmRhxEZi2PQ*zTiV*iHV74N*BAWu*dUEagPo43kw6JRBeJaqy9ATU7Lo77Xbi1ga&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [\[科技早报7点整\]华为首款5G手机售价6199元 意大利拟立法治疗手机上瘾……](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=EAU3T5FEobLBjUm8SXE7OjOguNpN8wevpbhzKnB0Bu31Hf*QSUEh-krTF7T*dmjFs9ZhJN4ZaJG3bkQH04LC5g83*iDDthsvErDTy7NdRe3gsDk*TmpD8wfpKoUhS3l7&new=1)
  > 早上好，科技圈【一度蜜科技早报】第543期1.三大运营商提速降费成绩单：流量资费下降超90%26日，提速降费用户面对面活动在北京举行，工信部相关负责人主持。三大运营商公布提速降费成绩单，自2015年以来，中国移...
- ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxx*UaU7uxQcHSD4DGYvymHg4qOk--MfVrpVNTGN5Jmb78oj1ifskIFC-AEqHYmgihcZ1zJcXp*7KimjumlhZju3&new=1)
+ ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxydOpjx*FpIIMNnhhvNstREO0zSIsfNOABuAb1BHx3-YKVMmZ4yqn-E9G59YNMf*KjhFKdkHjnHbGj9N6oG-Nis&new=1)
  > 文／雷科技（公众号：leitech）近日，据网友在 C114 网站爆料称，中国联通似乎正在测试开通 5G 功能包订购业务，短信即可快速办理。从爆料图片中可看到，该 5G 功能包，费用为 20 元/月，下行速率为 500Mbps，上...
- ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu22ZOWAZ7lnFmzmyvbTEqCm*BhLSDEns1RSxwxM1QvfdqPKePXH9ptOHB808pGcQnk0LJBmp2KdUMktSkp3x-JmK&new=1)
+ ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu23DXpo-oKV2IOhyy8zSlW4Zxd6MNdAHj42*Bv9ucumKvI*R5rzpruPvniZ6S6Yf2DdqhkPXR9my5kwZzB1vsnjK&new=1)
  > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
- ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmJzSPOPObSF3SQArF9n6TPySSYF4WUlYJ*uucwDmrGlaAe82QR4I5Zk53ObFbjTvuThAg3S35XgdivfMD8dbG-x&new=1)
+ ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmJCGpVDn1i7mlBeidK2RdxvRSy*Ww7zjyqblu0c0CpKIlHDUImZxYAAjso4tXpyN0pZ3FgjGJFuBnbTiQJB*zVw&new=1)
  > 看点：华为首款5G手机，使出双模组网支持、4G+5G双卡双待杀手锏，低价策略打响头炮。智东西7月26日消息，今天，在华为终端媒体沟通会上，华为首款商用的5G智能手机华为Mate20 X (5G)，和华为首款5G全网通路由器...
- ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNceE7sgiuJ78gZv25mmw9sxnGGFPKN2OburiaBqK9haGCZvELqn88wnHTJT9AKg2O4HTZDCbqqB8v-E07qQGeLy&new=1)
+ ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNdpLc5iiKPxLOdneHYhELSPE7pEjqMquwU0UzwxFrKfvVzHp3LqQgCzER1xsAuu3GtRjXMvrlDnmbkYG-NgNa-m&new=1)
  > ↑ 点击「创业派」，选择「设为星标」每晚大概11点05分，与30万创业者一起成长华为的生存之道，真是高级得可怕！作者：小小高来源：互联网新闻网（netxinwen） 1鸿蒙系统上市时间遭反转华为的一顿操作，不止美国...
- ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhDp-WXVFhCP69hn7jWMWsdv3DrIlNDeGu2ai8DEozIwBRq7xBbPd80T-KO5rbTKuf9xMBEIv5RRrjrDfv*J8S76&new=1)
+ ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564218005&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhCWv92U49DZtMvbgKO82bLNNhWt9UbKTj7CeruZX-M0NkztB9zTxfwojFSRlI3vuR2akv2uJsU47zgj9J*SdrZf&new=1)
  > 中国移动有三大金矿：移动用户数、家庭用户数、集团客户关系网，可以说是巨大的金矿，但是目前收入和利润却开始负增长，收入和利润多个省份却在苦苦支撑，这是为什么？01中国移动的三大金矿中国移动是全国乃至全...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -87,36 +103,36 @@ categories: IT NEWS
  > 一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理
  ## [MySQL和PG到底哪个更好用？](http://database.51cto.com/art/201907/600326.htm)
  > MySQL与PostgreSQL都是免费、开源、强大、且功能丰富的数据库。你主要的问题可能是：哪一个才是最好的开源
- ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
- > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [想了解Robot Global的看这里！](https://blog.csdn.net/weixin_45447706/article/details/97131647)
- > 想了解Robot Global的看这里！
- ## [什么是正向代理？](https://blog.csdn.net/duyun123456/article/details/96153234)
- > 什么是正向代理？
- ## [大数据之路之交通大数据应用总体架构设计](https://blog.csdn.net/mochou111/article/details/96428264)
- > 大数据之路之交通大数据应用总体架构设计
- ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
- > 【Docker】Docker网络
- ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
- > 区块链的知识
- ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
- > 进退博弈：恒指7.12号早盘资讯及交易计划
- ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
- > 大数据和云计算技术周报（第110期)
- ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
- > 如何将语音翻译成中文、语音转文字怎么做
- ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
- > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
- ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
- > 速记工具原来这么好用，错过了让你抱憾终身
- ## [世界百年未有的大变局下](https://blog.csdn.net/weixin_45209246/article/details/96586562)
- > 世界百年未有的大变局下
- ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
- > ULAM公链第五周周报
+ ## [19年关于跨境电商,它的一些资讯干货，你们了解吗？](https://blog.csdn.net/ylfqwe/article/details/94439690)
+ > 19年关于跨境电商,它的一些资讯干货，你们了解吗？
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
+ ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
+ > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
+ ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
+ > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
  ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
  > 进退博弈：恒指7.16号早盘资讯及操作建议
- ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
- > 搭建Ambari Hadoop系统实验
+ ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
+ > 前端大作业（期末复习）
+ ## [IS | 資訊安全基本需求](https://blog.csdn.net/weixin_42001132/article/details/95501133)
+ > IS | 資訊安全基本需求
+ ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
+ > 使用百度图表ECharts
+ ## [“收信人：义士”！时隔72年，非凡来信帮他们回家](https://blog.csdn.net/weixin_45209246/article/details/96586841)
+ > “收信人：义士”！时隔72年，非凡来信帮他们回家
+ ## [前端导入Excel](https://blog.csdn.net/weixin_42265852/article/details/97169433)
+ > 前端导入Excel
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [华为5G手机，国内首款5G手机，预价7000元左右](https://blog.csdn.net/WoChaotian_/article/details/96837728)
+ > 华为5G手机，国内首款5G手机，预价7000元左右
+ ## [input框range类型拖动条时，实现得到实时反馈](https://blog.csdn.net/qq_41866516/article/details/95167910)
+ > input框range类型拖动条时，实现得到实时反馈
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [交换安全----局域网安全简介](https://blog.csdn.net/qq_43794645/article/details/96748660)
+ > 交换安全----局域网安全简介
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [你的早鸟票特权仅剩2天！百度、快手、商汤、图森等重磅嘉宾确认出席AI ProCon 2019...](https://blog.csdn.net/csdnnews/article/details/97447473)
@@ -140,62 +156,35 @@ categories: IT NEWS
  ## [值得买COO刘小如因个人原因辞职，不再担任任何职务](http://www.lanjingtmt.com/news/detail/43898.shtml)
  > 值得买发布公告称，该公司董事会日前收到公司董事兼首席运营官刘小如的书面辞职报告，其因个人家庭原因申请辞去公司董事兼首席运营官，之后不再担任任何职务。
 # 人工智能 
- ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
- > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
- > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
- ## [【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）](https://blog.csdn.net/Mculover666/article/details/88972014)
- > 【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）
- ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
- > 物联网的发展与应用
- ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
- > 建筑施工借助物联网卡保障高楼安全
- ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
- > 人工智能08 启发式搜索
- ## [ESP8266发送温湿度到物联网（1）](https://blog.csdn.net/qq_35590091/article/details/53932767)
- > ESP8266发送温湿度到物联网（1）
- ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
- > MQTT物联网通信协议概论
- ## [前端知识每日小拷问 002](https://blog.csdn.net/WU5229485/article/details/94971681)
- > 前端知识每日小拷问 002
- ## [可编程4G DTU物联网网关](https://blog.csdn.net/weixin_42687537/article/details/97134815)
- > 可编程4G DTU物联网网关
- ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
- > 转战物联网·基础篇02-物联网中的角儿
- ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
- > 人工智能如何自己玩游戏？
- ## [人工智能数学基础-概率论与数理统计](https://blog.csdn.net/p515659704/article/details/94621442)
- > 人工智能数学基础-概率论与数理统计
- ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
- > 使用百度图表ECharts
- ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
- > 物联网、工业互联网大数据的特点
-# PM 
- ## [4步拆解秋招笔试套路，招招制敌，秋招不是问题！](http://www.woshipm.com/it/2631305.html)
- > 找工作啦~2019秋招在即，你还没做好准备吗？“最后一个暑假，开学再想秋招的事吧”瓦特？_ ？你知道秋招是什么个套路吗？小编都要忍不住给你敲黑板-划重点了！正...
- ## [设计指南：在UX中如何正确使用动画设计](http://www.woshipm.com/pd/2637078.html)
- > 本文是关于在ux设计中，如何正确使用动画设计，一起来看看~如今，界面动画很难给人留下深刻印象甚至惊喜。它显示了屏幕之间的交互，解释了如何使用应用程序或只是引导...
- ## [小程序互联网时代，来了](http://www.woshipm.com/it/2636155.html)
- > 当人口红利消失时，基于服务价值的小程序会变得更有想象力。一个很多人都没有意识到的拐点来了。最近，QuestMobile最新的数据显示：2019年Q2，中国移动互联网用户净...
- ## [真正站到消费者的角度，你就能明白这些事情该不该做了](http://www.woshipm.com/operate/2636923.html)
- > 用户思维时代，假如你还是站在企业的立场上，以传统思维去思考问题，做出来的决策肯定是不符合市场发展需求的。在很多企业还在苦苦思考：到底要不要做到家？到底要...
- ## [为什么你的用户洞察会失灵？](http://www.woshipm.com/user-research/2636106.html)
- > 用户调研、数据分析等手段得出的结果是事实，但事实并不等于真相，你的用户洞察失灵了。在我们的实际工作或日常学习当中，会总结下非常之多的运营经验，并且逐步去芜...
- ## [B端硬件如何开展产品测试？](http://www.woshipm.com/pd/2635359.html)
- > B端硬件产品如何开展测试过程，是摆在产品管理和技术研发管理过程的要事。产品测试是产品生命周期中及其重要的环节，难以想象一款产品没有经过测试就推向市场的场景。...
- ## [品牌不存在“年轻化”](http://www.woshipm.com/marketing/2634092.html)
- > 现在很多讲品牌年轻化的理论出现，然而这一理论就一定是正确的吗？所谓的品牌年轻化真的能为品牌营销带来转变吗？近年来，越来越多的品牌都在进行所谓的“年轻化”转型...
- ## [如何基于业务架构，进行竞品分析？](http://www.woshipm.com/operate/2414725.html)
- > 本文将从客户角度出发，以业务架构为基础，讲述：如何进行竞品分析？本文主要分为四个部分：市场分析、客户与业务分析、产品架构分析、解决方案分析。当前，在B端产品...
- ## [计算机视觉的三部曲](http://www.woshipm.com/ucd/2636133.html)
- > 计算机视觉目前已经被应用到多个领域，如无人驾驶、人脸识别、文字识别、智慧交通、VA/AR、以图搜索、医学图像分析等等，是人工智能（AI）目前最火的领域之一。那计算机...
- ## [作为甲方，如何提好你的需求？](http://www.woshipm.com/operate/2274452.html)
- > 每个产品经理都有无数个令人深恶痛绝的甲方“爸爸”，我们迷惑于为什么他们的想法和需求总是一改再改。如果哪天你也变成了甲方，你觉得如何才能做一个不那么讨厌的家伙呢...
- ## [在线教育留存指南：4大策略打造100%续班率](http://www.woshipm.com/operate/2636863.html)
- > 本文分析了在线教育的续班策略，给出了一系列可行的留存方案，并包含了四点关键步骤。具体的内容让我们看看正文吧。续班或者复购，对于在线教育的增长来说，是核心般...
- ## [解密当代年轻人聊天标点里的隐藏含义](http://www.woshipm.com/it/2635945.html)
- > 你们知道（。是什么意思吗？在这个天天都不大一样的互联网新社交圈，作为一个时髦的网络交际花，你应该需要的知识储备，应该要达到：掌握微笑的100233种含义以及略懂...
- ## [600万粉情感第一大号HUGO之死](http://www.chanpin100.com/article/109056)
- > 内容创业要“内容向善”。
+ ## [大家的人工智能——决策树](https://blog.csdn.net/LXYTSOS/article/details/94332355)
+ > 大家的人工智能——决策树
+ ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
+ > 简书：编程入门学习的困惑
+ ## [关于人工智能的那点论文](https://blog.csdn.net/qq_43506362/article/details/93999138)
+ > 关于人工智能的那点论文
+ ## [区块链资源汇总](https://blog.csdn.net/Samurai77/article/details/94024364)
+ > 区块链资源汇总
+ ## [编程语言的一些基础概念（三）：面向对象](https://blog.csdn.net/wingalong/article/details/94362355)
+ > 编程语言的一些基础概念（三）：面向对象
+ ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
+ > 人工智能02 机器进化
+ ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
+ > 人工智能实践：Tensrfow笔记
+ ## [HTML：一种标记语言而不是编程语言（11.0）](https://blog.csdn.net/qq_40061206/article/details/95356427)
+ > HTML：一种标记语言而不是编程语言（11.0）
+ ## [在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点](https://blog.csdn.net/weixin_43830887/article/details/96835533)
+ > 在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点
+ ## [人工智能“炒股”任重道远](https://blog.csdn.net/fxj2019/article/details/94172139)
+ > 人工智能“炒股”任重道远
+ ## [一门编程语言的通用知识点](https://blog.csdn.net/qq_34822461/article/details/96838555)
+ > 一门编程语言的通用知识点
+ ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
+ > 人工智能--人脸识别
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
+ ## [ZT交易所OTC商家火热招募中](https://blog.csdn.net/weixin_44452342/article/details/96572844)
+ > ZT交易所OTC商家火热招募中
+ ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
+ > HTML：一种标记语言而不是编程语言（5.0）
 
     
