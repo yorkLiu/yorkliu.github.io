@@ -1,21 +1,21 @@
 ---
 title: 2019-07-27 IT News
 copyright: true
-date: 2019-07-27 08:01:03
+date: 2019-07-27 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564185604&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxyC-KkaVJEgSUF6E4l3pd*KtJ5lwisjgreuh6zyV6TK5zqZFTJ-P2aHVJ5DuPVFrHjnOaGu9En1cSdA36iDrrT6&new=1)
+ ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxyC-KkaVJEgSUF6E4l3pd*K1ikhNvf1D73EzkiQg5bl8OdcMpEJmSRCmxcE2jAplOEQ-Cj5AaJaJhLXHN5Mmiss&new=1)
  > 文／雷科技（公众号：leitech）近日，据网友在 C114 网站爆料称，中国联通似乎正在测试开通 5G 功能包订购业务，短信即可快速办理。从爆料图片中可看到，该 5G 功能包，费用为 20 元/月，下行速率为 500Mbps，上...
- ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564185604&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmKgGHcmJyOZyW7PcwuMKLE7GSGHUN5wKf*-sElymcrEwzxvhi9wbcSPDEvzT5BPLCHbjryGGON0iYh2iLtFp0Xq&new=1)
- > 看点：华为首款5G手机，使出双模组网支持、4G+5G双卡双待杀手锏，低价策略打响头炮。智东西7月26日消息，今天，在华为终端媒体沟通会上，华为首款商用的5G智能手机华为Mate20 X (5G)，和华为首款5G全网通路由器...
- ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564185604&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhCl4otQasUmUXwdDhHGguPGiXp3zfFwUWg5DXujfIdRW5-PUWDiSrLVwT92ramYrZ33CNHZytqOidQ-EEPba-k6&new=1)
+ ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhCl4otQasUmUXwdDhHGguPG7DweEnd-3iTWWSSazT6aQEs6cAFWjLAC-zqu5fUVFXNh6BLffMJSM7DxNn7kaIcO&new=1)
  > 中国移动有三大金矿：移动用户数、家庭用户数、集团客户关系网，可以说是巨大的金矿，但是目前收入和利润却开始负增长，收入和利润多个省份却在苦苦支撑，这是为什么？01中国移动的三大金矿中国移动是全国乃至全...
- ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564185604&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu20I7DVG7ChvHWV7HNUHp4Sc7tbavghb8Wp0opYtiaFbehHn-7zRusaEKsJfR5usYvidGWVt5KaRwN5nBFj2bPHv&new=1)
- > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
- ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564185604&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNcPt895-bqTh7jmr82iKwtmOmRoWARut17gl8hjECaYPAO-Wv8lTtjH9IoSfwCqoslEY*SPNQFshgGC5G8oLU-x&new=1)
+ ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNcPt895-bqTh7jmr82iKwtmon*mGGs*zhufpzllMJuv6sCsFK8*aQYeT1oxX3NZ1mMOze15OtBeoSD2DY1L*J*t&new=1)
  > ↑ 点击「创业派」，选择「设为星标」每晚大概11点05分，与30万创业者一起成长华为的生存之道，真是高级得可怕！作者：小小高来源：互联网新闻网（netxinwen） 1鸿蒙系统上市时间遭反转华为的一顿操作，不止美国...
+ ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu20I7DVG7ChvHWV7HNUHp4ScQ6vvBrPGquo704TggCVoLVVVzocvt76Oa7*yCFBwFee1aBXnA5pbPhC69dWCoRw5&new=1)
+ > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
+ ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmKgGHcmJyOZyW7PcwuMKLE7lQYgq3nR-iTd9UcD*Bsq45*SzcltGyFJT-2F2T5oKSc20zH*TLAnEm-BECD4tW*P&new=1)
+ > 看点：华为首款5G手机，使出双模组网支持、4G+5G双卡双待杀手锏，低价策略打响头炮。智东西7月26日消息，今天，在华为终端媒体沟通会上，华为首款商用的5G智能手机华为Mate20 X (5G)，和华为首款5G全网通路由器...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -75,68 +75,88 @@ categories: IT NEWS
  > 一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理
  ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
  > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [大数据之路之交通大数据应用总体架构设计](https://blog.csdn.net/mochou111/article/details/96428264)
- > 大数据之路之交通大数据应用总体架构设计
- ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
- > 音视频播放、横竖屏切换
- ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
- > MQTT物联网通信协议概论
- ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
- > Java音视频播放器
- ## [微软云-CDN防盗链的配置和使用](https://blog.csdn.net/Sugoar/article/details/95307449)
- > 微软云-CDN防盗链的配置和使用
- ## [物联卡智能扫描设备可以保障产品安全？](https://blog.csdn.net/qq_40798435/article/details/95353234)
- > 物联卡智能扫描设备可以保障产品安全？
- ## [物联网协议--MQTT整理](https://blog.csdn.net/weixin_42411153/article/details/94840046)
- > 物联网协议--MQTT整理
- ## [WebRTC重要API和音视频分析](https://blog.csdn.net/u011729265/article/details/94319279)
- > WebRTC重要API和音视频分析
- ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
- > 物联网、工业互联网大数据的特点
- ## [构建Docker负载均衡实验](https://blog.csdn.net/qq_41614928/article/details/96559424)
- > 构建Docker负载均衡实验
+ ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
+ > 搭建Ambari Hadoop系统实验
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [构建Java Web应用实验](https://blog.csdn.net/qq_41614928/article/details/96558828)
+ > 构建Java Web应用实验
+ ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
+ > 大数据和云计算技术周报（第110期)
+ ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
+ > 云杰恒指：7.19恒指期货早盘资讯
+ ## [区块链倪老师：《区块链思维》第一章](https://blog.csdn.net/weixin_44693781/article/details/93879776)
+ > 区块链倪老师：《区块链思维》第一章
+ ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
+ > ULAM公链第五周周报
+ ## [社链生态全球发布会圆满成功，共建社链梦！](https://blog.csdn.net/COMC1DU/article/details/94866252)
+ > 社链生态全球发布会圆满成功，共建社链梦！
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
  ## [构建Hadoop集群实验](https://blog.csdn.net/qq_41614928/article/details/96561255)
  > 构建Hadoop集群实验
- ## [音视频码率的计算](https://blog.csdn.net/LS7011846/article/details/96724472)
- > 音视频码率的计算
- ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
- > 抖音视频置顶？抖音视频置顶功能全解！
- ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
- > 音视频开发基础学习-----视频与音频原始格式
+ ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
+ > 【Docker】Docker-compose容器编排的使用
+ ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
+ > 【区块链】简单理解区块链是什么
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [你的早鸟票特权仅剩2天！百度、快手、商汤、图森等重磅嘉宾确认出席AI ProCon 2019...](https://blog.csdn.net/csdnnews/article/details/97447473)
+ > 从移动支付的自动贩卖机到刷脸支付的智能货柜；从亲自到柜台验证到人脸核身远程开卡；从排队买票、排队进门的糟糕旅游体验到提前预约，刷脸入园的智慧旅游；……从计算机视觉...
+ ## [定了！苹果 10 亿美元收购英特尔调制解调器部门！](https://blog.csdn.net/csdnnews/article/details/97447236)
+ > 作者 | 胡巍巍责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）美国时间7月25日，英特尔宣布，已和苹果签署协议，苹果将以10亿美元的价格，收购英特尔大部分智...
+ ## [华为收入超过阿里腾讯总和！等等，先把鸿蒙说清楚！](https://blog.csdn.net/csdnnews/article/details/97447537)
+ > 整理 | 伍杏玲出品 | 程序人生（ID：coder_life）近日，《财富》发布2019年世界500强排名榜，中国科技企业成绩亮眼：小米第一次进入世界500强，雷军也就...
+ ## [银行卡大小的充电宝，你有吗？](https://blog.csdn.net/csdnnews/article/details/97447434)
+ > 当你出去旅行的时候，什么情况下会让你最没有安全感？“手机没电”我也曾在人生地不熟时被“电量低，请充电”的恐惧支配，手机关机的瞬间，仿佛被世界抛弃，身无分文且求救无门……我...
+ ## [AI 会替代程序员？超好用的自动补全代码工具 Deep TabNine！](https://blog.csdn.net/csdnnews/article/details/97448070)
+ > 作者 | James Vincent等编译 | 夕颜出品 | AI科技大本营（ID:rgznai100）【CSDN 编者按】在过去的一年中，AI 生成书面文字的能力大大...
+ ## [小米将开源进行到底！](https://blog.csdn.net/csdnnews/article/details/97447390)
+ > 小米集团技术委员会主席崔宝秋作者 | 胡巍巍出品 | CSDN（ID：CSDNnews近日，《财富》世界500强发布，9岁的小米公司赫然在列，全球最年轻的世界500强诞生...
+ ## [苹果收购英特尔手机芯片业务；西门子将在华建立 5G 研发中心；React Native 0.60.4 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/97447262)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [我是如何提升 Rust 编译器的速度？](https://blog.csdn.net/csdnnews/article/details/97447519)
+ > 作者 |Nicholas Nethercote译者 |弯月，责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）【CSDN 编者按】本文是Rust的核心研发人...
+ ## [刚刚！为吊打谷歌，微软砸10亿美元布局AI，网友炸了！发帖上热门……](https://blog.csdn.net/csdnnews/article/details/97447616)
+ > AI巨头们在抢占技术、人才的道路上，简直就是一场争霸赛。就在最近，微软又出了一条重磅新闻！微软将10亿美元，投向知名AI研究机构OpenAI，将用这笔巨款进一步推进通用人...
 # 人工智能 
  ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
  > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
- > 前端大作业（期末复习）
- ## [ZT交易所OTC商家火热招募中](https://blog.csdn.net/weixin_44452342/article/details/96572844)
- > ZT交易所OTC商家火热招募中
- ## [input框range类型拖动条时，实现得到实时反馈](https://blog.csdn.net/qq_41866516/article/details/95167910)
- > input框range类型拖动条时，实现得到实时反馈
- ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
- > 草莓协会前端页面
- ## [前端常用命令](https://blog.csdn.net/gqzydh/article/details/95192973)
- > 前端常用命令
- ## [音视频架构的三部分之CDN（二）](https://blog.csdn.net/weixin_40763897/article/details/95523898)
- > 音视频架构的三部分之CDN（二）
- ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
- > 音视频播放、横竖屏切换
- ## [基于Mplayer开源多媒体库的音视频播放器](https://blog.csdn.net/zhong_senvi/article/details/96567620)
- > 基于Mplayer开源多媒体库的音视频播放器
- ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
- > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
- ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
- > Java音视频播放器
- ## [好用的音视频剪辑软件综述](https://blog.csdn.net/qq_43173244/article/details/96476689)
- > 好用的音视频剪辑软件综述
- ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
- > 学习编程基础知识，进阶成为更优秀的程序员
- ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/coding147/article/details/96967786)
- > 一名合格前端工程师的进阶指南！
- ## [推荐几款简单的音视频编辑软件](https://blog.csdn.net/qq_43173244/article/details/96130140)
- > 推荐几款简单的音视频编辑软件
+ ## [关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复](https://blog.csdn.net/weixin_44985068/article/details/97035639)
+ > 关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复
+ ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
+ > 数据湖正在成为新的数据仓库
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
+ > 关系型数据库-MySQL进阶（二）读写分离与多实例
+ ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
+ > 基于二级C语言的一些经典小程序
+ ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
+ > 移动开发——问卷调查
+ ## [小白学C语言 数组篇](https://blog.csdn.net/Ningmenmao/article/details/96779887)
+ > 小白学C语言 数组篇
+ ## [如何为移动开发选择技术栈？](https://blog.csdn.net/weixin_43606158/article/details/96738465)
+ > 如何为移动开发选择技术栈？
+ ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
+ > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
+ ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
+ > 数据库实验——数据库数据更新及查询
+ ## [Linux入门笔记（二）](https://blog.csdn.net/weixin_45320930/article/details/96975123)
+ > Linux入门笔记（二）
+ ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
+ > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
+ ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
+ > 爬虫基础：HTTP基本原理
+ ## [【JAVA基础】Java编程基础](https://blog.csdn.net/Nase_Mitsuki/article/details/94363741)
+ > 【JAVA基础】Java编程基础
 # PM 
+ ## [From C to B，服务设计的价值与转变](http://www.woshipm.com/pd/2636074.html)
+ > 服务设计应用于许多针对用户的洞察与创新，我们所聚焦的C端用户从以人为中心的法则与研究方法为我们的商业策略和产品提供了需求与创新的价值。然而，针对B端客户，我们...
  ## [600万粉情感第一大号HUGO之死](http://www.chanpin100.com/article/109056)
  > 内容创业要“内容向善”。
  ## [易观：为什么说字节跳动做游戏不行？丨数瞰江湖](http://www.chanpin100.com/article/109051)
