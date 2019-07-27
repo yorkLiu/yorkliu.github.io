@@ -1,21 +1,23 @@
 ---
 title: 2019-07-27 IT News
 copyright: true
-date: 2019-07-27 09:00:58
+date: 2019-07-27 10:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxyC-KkaVJEgSUF6E4l3pd*K1ikhNvf1D73EzkiQg5bl8OdcMpEJmSRCmxcE2jAplOEQ-Cj5AaJaJhLXHN5Mmiss&new=1)
+ ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxwYVyfaVqX7BW6K0XXyTBVN6BQKFUaC6aHtrylLJrhAouRZ1f5TbHZNCmV8TjB1w*TV-SNNy2sw3drr7dQFKtqY&new=1)
  > 文／雷科技（公众号：leitech）近日，据网友在 C114 网站爆料称，中国联通似乎正在测试开通 5G 功能包订购业务，短信即可快速办理。从爆料图片中可看到，该 5G 功能包，费用为 20 元/月，下行速率为 500Mbps，上...
- ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhCl4otQasUmUXwdDhHGguPG7DweEnd-3iTWWSSazT6aQEs6cAFWjLAC-zqu5fUVFXNh6BLffMJSM7DxNn7kaIcO&new=1)
- > 中国移动有三大金矿：移动用户数、家庭用户数、集团客户关系网，可以说是巨大的金矿，但是目前收入和利润却开始负增长，收入和利润多个省份却在苦苦支撑，这是为什么？01中国移动的三大金矿中国移动是全国乃至全...
- ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNcPt895-bqTh7jmr82iKwtmon*mGGs*zhufpzllMJuv6sCsFK8*aQYeT1oxX3NZ1mMOze15OtBeoSD2DY1L*J*t&new=1)
- > ↑ 点击「创业派」，选择「设为星标」每晚大概11点05分，与30万创业者一起成长华为的生存之道，真是高级得可怕！作者：小小高来源：互联网新闻网（netxinwen） 1鸿蒙系统上市时间遭反转华为的一顿操作，不止美国...
- ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu20I7DVG7ChvHWV7HNUHp4ScQ6vvBrPGquo704TggCVoLVVVzocvt76Oa7*yCFBwFee1aBXnA5pbPhC69dWCoRw5&new=1)
- > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
- ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564189205&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmKgGHcmJyOZyW7PcwuMKLE7lQYgq3nR-iTd9UcD*Bsq45*SzcltGyFJT-2F2T5oKSc20zH*TLAnEm-BECD4tW*P&new=1)
+ ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmJ1kb2gpbDS7DB9N5oO-6ddkJP7jPg6IwqpOjq44TtTLzVCqctNjM8zjx5ciNkQzTH6CLWcdDxCkg0EXdDCoExM&new=1)
  > 看点：华为首款5G手机，使出双模组网支持、4G+5G双卡双待杀手锏，低价策略打响头炮。智东西7月26日消息，今天，在华为终端媒体沟通会上，华为首款商用的5G智能手机华为Mate20 X (5G)，和华为首款5G全网通路由器...
+ ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu20ZCRjy3WlenedaeV8uDkdFycKDRY69MBkpwzqSpFuaNJNboOaX3kyUioDauhZm4ppSi2GS-6XkHPJsN5XORYxm&new=1)
+ > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
+ ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNdPZMKxx4Vq6pdhQQeJT4A0vhbbm1y8YzTyYW9hsPDOYlK3Qh6F0MXrRWjbLfWGyGPOEwkOzZjhIdVA9UFxeGF5&new=1)
+ > ↑ 点击「创业派」，选择「设为星标」每晚大概11点05分，与30万创业者一起成长华为的生存之道，真是高级得可怕！作者：小小高来源：互联网新闻网（netxinwen） 1鸿蒙系统上市时间遭反转华为的一顿操作，不止美国...
+ ## [\[科技早报7点整\]华为首款5G手机售价6199元 意大利拟立法治疗手机上瘾……](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=EAU3T5FEobLBjUm8SXE7OjOguNpN8wevpbhzKnB0Bu0gEjHQRSNqkqjxsjvcab83z9qiTjuRuud*V6yGbYreb65r4IJPCB24BLKpXLG3w6pwbvlneLQ-r2RivdswSMjP&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第543期1.三大运营商提速降费成绩单：流量资费下降超90%26日，提速降费用户面对面活动在北京举行，工信部相关负责人主持。三大运营商公布提速降费成绩单，自2015年以来，中国移...
+ ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhCljOFBPmbvveszu8kvhpQji-fxiY2zvoPTywRtendZ92kEbeEszINNs0Tl6DJu4gK5rvTi5qd15uvPwWlZ5VkJ&new=1)
+ > 中国移动有三大金矿：移动用户数、家庭用户数、集团客户关系网，可以说是巨大的金矿，但是目前收入和利润却开始负增长，收入和利润多个省份却在苦苦支撑，这是为什么？01中国移动的三大金矿中国移动是全国乃至全...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,36 +75,38 @@ categories: IT NEWS
  > 为了做到微服务的高可用，鬼知道我出了多少张牌
  ## [一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理](http://developer.51cto.com/art/201907/600224.htm)
  > 一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理
+ ## [MySQL和PG到底哪个更好用？](http://database.51cto.com/art/201907/600326.htm)
+ > MySQL与PostgreSQL都是免费、开源、强大、且功能丰富的数据库。你主要的问题可能是：哪一个才是最好的开源
  ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
  > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
- > 搭建Ambari Hadoop系统实验
- ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
- > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
- ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
- > 基于云计算与大数据应用开发的论述
- ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
- > 速记工具原来这么好用，错过了让你抱憾终身
- ## [构建Java Web应用实验](https://blog.csdn.net/qq_41614928/article/details/96558828)
- > 构建Java Web应用实验
- ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
- > 大数据和云计算技术周报（第110期)
- ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
- > 云杰恒指：7.19恒指期货早盘资讯
- ## [区块链倪老师：《区块链思维》第一章](https://blog.csdn.net/weixin_44693781/article/details/93879776)
- > 区块链倪老师：《区块链思维》第一章
- ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
- > ULAM公链第五周周报
- ## [社链生态全球发布会圆满成功，共建社链梦！](https://blog.csdn.net/COMC1DU/article/details/94866252)
- > 社链生态全球发布会圆满成功，共建社链梦！
- ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
- > 资讯--2019年6月
- ## [构建Hadoop集群实验](https://blog.csdn.net/qq_41614928/article/details/96561255)
- > 构建Hadoop集群实验
- ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
- > 【Docker】Docker-compose容器编排的使用
- ## [【区块链】简单理解区块链是什么](https://blog.csdn.net/qq_41614928/article/details/94570889)
- > 【区块链】简单理解区块链是什么
+ ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
+ > 梦想还是要有的，即使被摧残着！
+ ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
+ > 人工智能02 机器进化
+ ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
+ > 音视频开发基础学习-----视频与音频原始格式
+ ## [人工智能数学基础--极大似然估计](https://blog.csdn.net/sinat_39593423/article/details/94405013)
+ > 人工智能数学基础--极大似然估计
+ ## [【程序人生】大三Unity客户端第一次找工作的经历](https://blog.csdn.net/qq_33967521/article/details/94728912)
+ > 【程序人生】大三Unity客户端第一次找工作的经历
+ ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
+ > 人工智能如何自己玩游戏？
+ ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
+ > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
+ ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
+ > 人工智能知识点总结
+ ## [好用的音视频剪辑软件综述](https://blog.csdn.net/qq_43173244/article/details/96476689)
+ > 好用的音视频剪辑软件综述
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [【程序人生】 简单解读linux shell脚本语言和lmdb数据库](https://blog.csdn.net/Zhang_Chen_/article/details/94650249)
+ > 【程序人生】 简单解读linux shell脚本语言和lmdb数据库
+ ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
+ > 程序帝国四大操作之单表新增
+ ## [音视频知识基础](https://blog.csdn.net/goldfish3/article/details/97021252)
+ > 音视频知识基础
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [你的早鸟票特权仅剩2天！百度、快手、商汤、图森等重磅嘉宾确认出席AI ProCon 2019...](https://blog.csdn.net/csdnnews/article/details/97447473)
@@ -123,38 +127,42 @@ categories: IT NEWS
  > 作者 |Nicholas Nethercote译者 |弯月，责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）【CSDN 编者按】本文是Rust的核心研发人...
  ## [刚刚！为吊打谷歌，微软砸10亿美元布局AI，网友炸了！发帖上热门……](https://blog.csdn.net/csdnnews/article/details/97447616)
  > AI巨头们在抢占技术、人才的道路上，简直就是一场争霸赛。就在最近，微软又出了一条重磅新闻！微软将10亿美元，投向知名AI研究机构OpenAI，将用这笔巨款进一步推进通用人...
+ ## [值得买COO刘小如因个人原因辞职，不再担任任何职务](http://www.lanjingtmt.com/news/detail/43898.shtml)
+ > 值得买发布公告称，该公司董事会日前收到公司董事兼首席运营官刘小如的书面辞职报告，其因个人家庭原因申请辞去公司董事兼首席运营官，之后不再担任任何职务。
 # 人工智能 
  ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
  > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复](https://blog.csdn.net/weixin_44985068/article/details/97035639)
- > 关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复
- ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
- > 数据湖正在成为新的数据仓库
- ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
- > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
- ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
- > 关系型数据库-MySQL进阶（二）读写分离与多实例
- ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
- > 基于二级C语言的一些经典小程序
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
+ ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
+ > 今天开始写一下学习java中级每一天的知识点总结
+ ## [前端——定位](https://blog.csdn.net/qq_36625232/article/details/85849369)
+ > 前端——定位
+ ## [UPS电源的8个功能作用](https://blog.csdn.net/qq_41546715/article/details/95626279)
+ > UPS电源的8个功能作用
  ## [小白学C语言 数组篇](https://blog.csdn.net/Ningmenmao/article/details/96779887)
  > 小白学C语言 数组篇
- ## [如何为移动开发选择技术栈？](https://blog.csdn.net/weixin_43606158/article/details/96738465)
- > 如何为移动开发选择技术栈？
- ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
- > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
- ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
- > 数据库实验——数据库数据更新及查询
  ## [Linux入门笔记（二）](https://blog.csdn.net/weixin_45320930/article/details/96975123)
  > Linux入门笔记（二）
- ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
- > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
- ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
- > 爬虫基础：HTTP基本原理
- ## [【JAVA基础】Java编程基础](https://blog.csdn.net/Nase_Mitsuki/article/details/94363741)
- > 【JAVA基础】Java编程基础
+ ## [Android基础-四大组件之activity(基础)](https://blog.csdn.net/qq_42391904/article/details/95255893)
+ > Android基础-四大组件之activity(基础)
+ ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
+ > 前端大作业（期末复习）
+ ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
+ > Linux之Docker私有仓库的搭建
+ ## [C语言电池助手](https://blog.csdn.net/weixin_43812804/article/details/96865520)
+ > C语言电池助手
+ ## [前端部署项目](https://blog.csdn.net/weixin_43606158/article/details/96706276)
+ > 前端部署项目
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
+ > Linux 运维一些知识点
+ ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
+ > 使用百度图表ECharts
+ ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
+ > 学习编程基础知识，进阶成为更优秀的程序员
 # PM 
+ ## [解密当代年轻人聊天标点里的隐藏含义](http://www.woshipm.com/it/2635945.html)
+ > 你们知道（。是什么意思吗？在这个天天都不大一样的互联网新社交圈，作为一个时髦的网络交际花，你应该需要的知识储备，应该要达到：掌握微笑的100233种含义以及略懂...
  ## [From C to B，服务设计的价值与转变](http://www.woshipm.com/pd/2636074.html)
  > 服务设计应用于许多针对用户的洞察与创新，我们所聚焦的C端用户从以人为中心的法则与研究方法为我们的商业策略和产品提供了需求与创新的价值。然而，针对B端客户，我们...
  ## [600万粉情感第一大号HUGO之死](http://www.chanpin100.com/article/109056)
