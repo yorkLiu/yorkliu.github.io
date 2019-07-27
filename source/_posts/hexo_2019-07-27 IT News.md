@@ -1,22 +1,32 @@
 ---
 title: 2019-07-27 IT News
 copyright: true
-date: 2019-07-27 10:00:56
+date: 2019-07-27 12:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxwYVyfaVqX7BW6K0XXyTBVN6BQKFUaC6aHtrylLJrhAouRZ1f5TbHZNCmV8TjB1w*TV-SNNy2sw3drr7dQFKtqY&new=1)
- > 文／雷科技（公众号：leitech）近日，据网友在 C114 网站爆料称，中国联通似乎正在测试开通 5G 功能包订购业务，短信即可快速办理。从爆料图片中可看到，该 5G 功能包，费用为 20 元/月，下行速率为 500Mbps，上...
- ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmJ1kb2gpbDS7DB9N5oO-6ddkJP7jPg6IwqpOjq44TtTLzVCqctNjM8zjx5ciNkQzTH6CLWcdDxCkg0EXdDCoExM&new=1)
- > 看点：华为首款5G手机，使出双模组网支持、4G+5G双卡双待杀手锏，低价策略打响头炮。智东西7月26日消息，今天，在华为终端媒体沟通会上，华为首款商用的5G智能手机华为Mate20 X (5G)，和华为首款5G全网通路由器...
- ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu20ZCRjy3WlenedaeV8uDkdFycKDRY69MBkpwzqSpFuaNJNboOaX3kyUioDauhZm4ppSi2GS-6XkHPJsN5XORYxm&new=1)
- > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
- ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNdPZMKxx4Vq6pdhQQeJT4A0vhbbm1y8YzTyYW9hsPDOYlK3Qh6F0MXrRWjbLfWGyGPOEwkOzZjhIdVA9UFxeGF5&new=1)
- > ↑ 点击「创业派」，选择「设为星标」每晚大概11点05分，与30万创业者一起成长华为的生存之道，真是高级得可怕！作者：小小高来源：互联网新闻网（netxinwen） 1鸿蒙系统上市时间遭反转华为的一顿操作，不止美国...
- ## [\[科技早报7点整\]华为首款5G手机售价6199元 意大利拟立法治疗手机上瘾……](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=EAU3T5FEobLBjUm8SXE7OjOguNpN8wevpbhzKnB0Bu0gEjHQRSNqkqjxsjvcab83z9qiTjuRuud*V6yGbYreb65r4IJPCB24BLKpXLG3w6pwbvlneLQ-r2RivdswSMjP&new=1)
+ ## [VR“硬核”垃圾分类应用纷纷上线，快速分辨“你是什么垃圾”!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=54dOjUp9KuwqlPMrZdVpYfhVTRWJqCdz4*dnN2ymUrZaecAzCl6Su4C3sA1G8oRGshCYGj78edE9uEu*V-b3thZxfq8gxPIi431ODN*4e*Gq*yJkIko75v6EglNc4G2J&new=1)
+ > 比起之前文章提到的VR游戏，更具针对性。正文共 1907 字 15 图；预计阅读时间 5 分钟 自垃圾分类开始在上海实行，至今也快一个月了。这短短的一个月可是把上海人民折磨的不轻…… 每天都要接受“我是什么垃圾”...
+ ## [华为在 5G 初期不考虑盈利；网易发布数据中台；微软 SQL Server 2019 免费支持 Java|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=s2TQzulLgUbiuDuDL5TS35d04Kt-BuKDI1J4T3WJY3hBxyP19iOEuUKIJEyL0jWhT7DtM-Ajy-graMxuXfTWMDnY5Dnn7651twhK3kDljKmI8zpnYvcx-VuCYdi2xE6f&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [WeWork加速上市计划，创始人上市前却大量套现?|一周热闻回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=YqOArrZb--O105r*si9POzG9v*TYZ9m7fRKfhMq8Cfj02F12lZKMMTSPxnQyWA-MMqfJGWxhL6j5yHwfCn1iYJ58ZCkDKwwfhj77Mgs44HHP5VFf-Io8BFIft2w7lK-*&new=1)
+ > 硅谷Live / 实地探访 / 热点探秘 / 深度探讨大家好，本周硅谷热闻又跟大家见面啦！无论是 Facebook 被罚 50 亿天价罚款，还是苹果用 10 亿美元收购了英特尔 5G 调制解调器业务，相信大家都有所耳闻，还有哪些新...
+ ## [美国一家公司公然售卖“漏洞利用”程序，并否认其产品参考了中国研究人员的成果](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=Vzj3*SPYWLKLqWwcUnW1jsuoz7lvFB0j5-9VOJWykkIkEriEusc-4V-VKiqdnJxbbKdQeOy4AK4bN*tckGnw8*3bURi8lU2BuoXuK14RBW1TmeMULPZ1feVl3gFZ8yt-&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：BlueKeep 是一个存在于多版本Windows系统上的重大漏洞，而一家美国网络安全公司却开始出售可利用此漏洞的程序。据外媒报道，一家名为ImmunityInc.的...
+ ## [通知：来这里和31万人交流3D打印，微信登录很方便](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=wY7Ln6gesImzVbgFVBI7N5IqIZUbAHCzKfJ9V47iWR5KBwhZjOP0LKm2vpBlvxViYTAl1Io0XkVZ9yCH3G6kpk8SJ3EHevI1pFslEMhg0QVDqF05saphU-5AawJTQIKF&new=1)
+ > 我们发现，每天有大量的用户会使用微信登陆南极熊3D打印网，想要参与行业和技术交流。为了更方便使用，南极熊特别开辟了交流的快捷通道，手机微信打开并登陆https://www.nanjixiong.com 后，点击手机版首页的中...
+ ## [\[科技早报7点整\]华为首款5G手机售价6199元 意大利拟立法治疗手机上瘾……](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=EAU3T5FEobLBjUm8SXE7OjOguNpN8wevpbhzKnB0Bu36Q-vwRlnmJRGwnFiC-rgFPZg9YGwWC3I8o6oADP9SyaeUAmsHt2*Y7fXgiG7CJOG8AbgqXbYJaRAmSdyl6OLo&new=1)
  > 早上好，科技圈【一度蜜科技早报】第543期1.三大运营商提速降费成绩单：流量资费下降超90%26日，提速降费用户面对面活动在北京举行，工信部相关负责人主持。三大运营商公布提速降费成绩单，自2015年以来，中国移...
- ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564192804&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhCljOFBPmbvveszu8kvhpQji-fxiY2zvoPTywRtendZ92kEbeEszINNs0Tl6DJu4gK5rvTi5qd15uvPwWlZ5VkJ&new=1)
+ ## [联通5G套餐终于来了，用得起算我输!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=I6A7zky2wpjd0Ba4RxYz0H*DcJdSwun8C0tu5ElJKxx*UaU7uxQcHSD4DGYvymHg4qOk--MfVrpVNTGN5Jmb78oj1ifskIFC-AEqHYmgihcZ1zJcXp*7KimjumlhZju3&new=1)
+ > 文／雷科技（公众号：leitech）近日，据网友在 C114 网站爆料称，中国联通似乎正在测试开通 5G 功能包订购业务，短信即可快速办理。从爆料图片中可看到，该 5G 功能包，费用为 20 元/月，下行速率为 500Mbps，上...
+ ## [华为Mate20 X 5G发布，速度惊人](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=7CyiwcLztph7UuXEl5vw*kQBgyw3TgyYVs4ESilYu22ZOWAZ7lnFmzmyvbTEqCm*BhLSDEns1RSxwxM1QvfdqPKePXH9ptOHB808pGcQnk0LJBmp2KdUMktSkp3x-JmK&new=1)
+ > 5G从去年火到今年，对于普通消费者来说最容易接触到的5G手机也只存在于各品牌的展柜中，难以一睹真貌。今天，华为在深圳坂田基地三角地举办了一场华为终端媒体沟通会，正式带来了国内第一款获得5G终端电信设备进...
+ ## [华为首款5G商用手机发布!率先支持4G+5G双卡双待和双模组网，价格超预期](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=VM6q55TANk3Yhy06RZMpx*NgLODU41oFsmuP11TCDmJzSPOPObSF3SQArF9n6TPySSYF4WUlYJ*uucwDmrGlaAe82QR4I5Zk53ObFbjTvuThAg3S35XgdivfMD8dbG-x&new=1)
+ > 看点：华为首款5G手机，使出双模组网支持、4G+5G双卡双待杀手锏，低价策略打响头炮。智东西7月26日消息，今天，在华为终端媒体沟通会上，华为首款商用的5G智能手机华为Mate20 X (5G)，和华为首款5G全网通路由器...
+ ## [鸿蒙上市遭反转：任正非的深谋远虑，华为高级的生存之道!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=9GvCJCEHwPdrEASeL6UdDXCx09v08Io*5e8aPcyLsNceE7sgiuJ78gZv25mmw9sxnGGFPKN2OburiaBqK9haGCZvELqn88wnHTJT9AKg2O4HTZDCbqqB8v-E07qQGeLy&new=1)
+ > ↑ 点击「创业派」，选择「设为星标」每晚大概11点05分，与30万创业者一起成长华为的生存之道，真是高级得可怕！作者：小小高来源：互联网新闻网（netxinwen） 1鸿蒙系统上市时间遭反转华为的一顿操作，不止美国...
+ ## [中国移动：白白守着“大金矿”，收入和利润却在负增长!](http://mp.weixin.qq.com/s?src=11&timestamp=1564200005&ver=1753&signature=l45G0FFsHBvzVyngNbjfyNI2c9z1aI7tZebqvjedDhDp-WXVFhCP69hn7jWMWsdv3DrIlNDeGu2ai8DEozIwBRq7xBbPd80T-KO5rbTKuf9xMBEIv5RRrjrDfv*J8S76&new=1)
  > 中国移动有三大金矿：移动用户数、家庭用户数、集团客户关系网，可以说是巨大的金矿，但是目前收入和利润却开始负增长，收入和利润多个省份却在苦苦支撑，这是为什么？01中国移动的三大金矿中国移动是全国乃至全...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -79,34 +89,34 @@ categories: IT NEWS
  > MySQL与PostgreSQL都是免费、开源、强大、且功能丰富的数据库。你主要的问题可能是：哪一个才是最好的开源
  ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
  > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
- > 梦想还是要有的，即使被摧残着！
- ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
- > 人工智能02 机器进化
- ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
- > 音视频开发基础学习-----视频与音频原始格式
- ## [人工智能数学基础--极大似然估计](https://blog.csdn.net/sinat_39593423/article/details/94405013)
- > 人工智能数学基础--极大似然估计
- ## [【程序人生】大三Unity客户端第一次找工作的经历](https://blog.csdn.net/qq_33967521/article/details/94728912)
- > 【程序人生】大三Unity客户端第一次找工作的经历
- ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
- > 人工智能如何自己玩游戏？
- ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
- > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
- ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
- > 人工智能知识点总结
- ## [好用的音视频剪辑软件综述](https://blog.csdn.net/qq_43173244/article/details/96476689)
- > 好用的音视频剪辑软件综述
- ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
- > 人工智能07 盲目搜索
- ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
- > 人工智能08 启发式搜索
- ## [【程序人生】 简单解读linux shell脚本语言和lmdb数据库](https://blog.csdn.net/Zhang_Chen_/article/details/94650249)
- > 【程序人生】 简单解读linux shell脚本语言和lmdb数据库
- ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
- > 程序帝国四大操作之单表新增
- ## [音视频知识基础](https://blog.csdn.net/goldfish3/article/details/97021252)
- > 音视频知识基础
+ ## [想了解Robot Global的看这里！](https://blog.csdn.net/weixin_45447706/article/details/97131647)
+ > 想了解Robot Global的看这里！
+ ## [什么是正向代理？](https://blog.csdn.net/duyun123456/article/details/96153234)
+ > 什么是正向代理？
+ ## [大数据之路之交通大数据应用总体架构设计](https://blog.csdn.net/mochou111/article/details/96428264)
+ > 大数据之路之交通大数据应用总体架构设计
+ ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
+ > 【Docker】Docker网络
+ ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
+ > 区块链的知识
+ ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
+ > 进退博弈：恒指7.12号早盘资讯及交易计划
+ ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
+ > 大数据和云计算技术周报（第110期)
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
+ > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [世界百年未有的大变局下](https://blog.csdn.net/weixin_45209246/article/details/96586562)
+ > 世界百年未有的大变局下
+ ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
+ > ULAM公链第五周周报
+ ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
+ > 进退博弈：恒指7.16号早盘资讯及操作建议
+ ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
+ > 搭建Ambari Hadoop系统实验
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [你的早鸟票特权仅剩2天！百度、快手、商汤、图森等重磅嘉宾确认出席AI ProCon 2019...](https://blog.csdn.net/csdnnews/article/details/97447473)
@@ -132,56 +142,60 @@ categories: IT NEWS
 # 人工智能 
  ## [快报：Python 被爆重大“黑料”！程序员：劲爆！](https://blog.csdn.net/CSDNedu/article/details/97277411)
  > 快报：Python 被爆重大“黑料”！程序员：劲爆！
- ## [今天开始写一下学习java中级每一天的知识点总结](https://blog.csdn.net/weixin_44226507/article/details/95508762)
- > 今天开始写一下学习java中级每一天的知识点总结
- ## [前端——定位](https://blog.csdn.net/qq_36625232/article/details/85849369)
- > 前端——定位
- ## [UPS电源的8个功能作用](https://blog.csdn.net/qq_41546715/article/details/95626279)
- > UPS电源的8个功能作用
- ## [小白学C语言 数组篇](https://blog.csdn.net/Ningmenmao/article/details/96779887)
- > 小白学C语言 数组篇
- ## [Linux入门笔记（二）](https://blog.csdn.net/weixin_45320930/article/details/96975123)
- > Linux入门笔记（二）
- ## [Android基础-四大组件之activity(基础)](https://blog.csdn.net/qq_42391904/article/details/95255893)
- > Android基础-四大组件之activity(基础)
- ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
- > 前端大作业（期末复习）
- ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
- > Linux之Docker私有仓库的搭建
- ## [C语言电池助手](https://blog.csdn.net/weixin_43812804/article/details/96865520)
- > C语言电池助手
- ## [前端部署项目](https://blog.csdn.net/weixin_43606158/article/details/96706276)
- > 前端部署项目
- ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
- > Window基础（黑客基础）
- ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
- > Linux 运维一些知识点
+ ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
+ > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
+ ## [【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）](https://blog.csdn.net/Mculover666/article/details/88972014)
+ > 【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）
+ ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
+ > 物联网的发展与应用
+ ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
+ > 建筑施工借助物联网卡保障高楼安全
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [ESP8266发送温湿度到物联网（1）](https://blog.csdn.net/qq_35590091/article/details/53932767)
+ > ESP8266发送温湿度到物联网（1）
+ ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
+ > MQTT物联网通信协议概论
+ ## [前端知识每日小拷问 002](https://blog.csdn.net/WU5229485/article/details/94971681)
+ > 前端知识每日小拷问 002
+ ## [可编程4G DTU物联网网关](https://blog.csdn.net/weixin_42687537/article/details/97134815)
+ > 可编程4G DTU物联网网关
+ ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
+ > 转战物联网·基础篇02-物联网中的角儿
+ ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
+ > 人工智能如何自己玩游戏？
+ ## [人工智能数学基础-概率论与数理统计](https://blog.csdn.net/p515659704/article/details/94621442)
+ > 人工智能数学基础-概率论与数理统计
  ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
  > 使用百度图表ECharts
- ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
- > 学习编程基础知识，进阶成为更优秀的程序员
+ ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
+ > 物联网、工业互联网大数据的特点
 # PM 
+ ## [4步拆解秋招笔试套路，招招制敌，秋招不是问题！](http://www.woshipm.com/it/2631305.html)
+ > 找工作啦~2019秋招在即，你还没做好准备吗？“最后一个暑假，开学再想秋招的事吧”瓦特？_ ？你知道秋招是什么个套路吗？小编都要忍不住给你敲黑板-划重点了！正...
+ ## [设计指南：在UX中如何正确使用动画设计](http://www.woshipm.com/pd/2637078.html)
+ > 本文是关于在ux设计中，如何正确使用动画设计，一起来看看~如今，界面动画很难给人留下深刻印象甚至惊喜。它显示了屏幕之间的交互，解释了如何使用应用程序或只是引导...
+ ## [小程序互联网时代，来了](http://www.woshipm.com/it/2636155.html)
+ > 当人口红利消失时，基于服务价值的小程序会变得更有想象力。一个很多人都没有意识到的拐点来了。最近，QuestMobile最新的数据显示：2019年Q2，中国移动互联网用户净...
+ ## [真正站到消费者的角度，你就能明白这些事情该不该做了](http://www.woshipm.com/operate/2636923.html)
+ > 用户思维时代，假如你还是站在企业的立场上，以传统思维去思考问题，做出来的决策肯定是不符合市场发展需求的。在很多企业还在苦苦思考：到底要不要做到家？到底要...
+ ## [为什么你的用户洞察会失灵？](http://www.woshipm.com/user-research/2636106.html)
+ > 用户调研、数据分析等手段得出的结果是事实，但事实并不等于真相，你的用户洞察失灵了。在我们的实际工作或日常学习当中，会总结下非常之多的运营经验，并且逐步去芜...
+ ## [B端硬件如何开展产品测试？](http://www.woshipm.com/pd/2635359.html)
+ > B端硬件产品如何开展测试过程，是摆在产品管理和技术研发管理过程的要事。产品测试是产品生命周期中及其重要的环节，难以想象一款产品没有经过测试就推向市场的场景。...
+ ## [品牌不存在“年轻化”](http://www.woshipm.com/marketing/2634092.html)
+ > 现在很多讲品牌年轻化的理论出现，然而这一理论就一定是正确的吗？所谓的品牌年轻化真的能为品牌营销带来转变吗？近年来，越来越多的品牌都在进行所谓的“年轻化”转型...
+ ## [如何基于业务架构，进行竞品分析？](http://www.woshipm.com/operate/2414725.html)
+ > 本文将从客户角度出发，以业务架构为基础，讲述：如何进行竞品分析？本文主要分为四个部分：市场分析、客户与业务分析、产品架构分析、解决方案分析。当前，在B端产品...
+ ## [计算机视觉的三部曲](http://www.woshipm.com/ucd/2636133.html)
+ > 计算机视觉目前已经被应用到多个领域，如无人驾驶、人脸识别、文字识别、智慧交通、VA/AR、以图搜索、医学图像分析等等，是人工智能（AI）目前最火的领域之一。那计算机...
+ ## [作为甲方，如何提好你的需求？](http://www.woshipm.com/operate/2274452.html)
+ > 每个产品经理都有无数个令人深恶痛绝的甲方“爸爸”，我们迷惑于为什么他们的想法和需求总是一改再改。如果哪天你也变成了甲方，你觉得如何才能做一个不那么讨厌的家伙呢...
+ ## [在线教育留存指南：4大策略打造100%续班率](http://www.woshipm.com/operate/2636863.html)
+ > 本文分析了在线教育的续班策略，给出了一系列可行的留存方案，并包含了四点关键步骤。具体的内容让我们看看正文吧。续班或者复购，对于在线教育的增长来说，是核心般...
  ## [解密当代年轻人聊天标点里的隐藏含义](http://www.woshipm.com/it/2635945.html)
  > 你们知道（。是什么意思吗？在这个天天都不大一样的互联网新社交圈，作为一个时髦的网络交际花，你应该需要的知识储备，应该要达到：掌握微笑的100233种含义以及略懂...
- ## [From C to B，服务设计的价值与转变](http://www.woshipm.com/pd/2636074.html)
- > 服务设计应用于许多针对用户的洞察与创新，我们所聚焦的C端用户从以人为中心的法则与研究方法为我们的商业策略和产品提供了需求与创新的价值。然而，针对B端客户，我们...
  ## [600万粉情感第一大号HUGO之死](http://www.chanpin100.com/article/109056)
  > 内容创业要“内容向善”。
- ## [易观：为什么说字节跳动做游戏不行？丨数瞰江湖](http://www.chanpin100.com/article/109051)
- > 《晚点LatePost》6月10日消息，字节跳动“成立一个百人团队，挖了一些牛人”，开始了以自研重度游戏为主的Oasis计划。不可否认的是，这是一条非常有新闻价值的消息，不仅曝光了字节跳动的游戏业务布局进程，也首次公开曝光了其研发团队的配置之一。
- ## [产品经理的核心技能（一）：主人翁意识和领导力](http://www.chanpin100.com/article/109041)
- > 管理的艺术其实是无为而治，要用自己的魅力影响到别人。
- ## [AI知识图谱技术在爱奇艺产品中的应用](http://www.chanpin100.com/article/109049)
- > 本文主要讲知识图谱中对相关AI技术及NLP自然语言理解（NER/ER/CR/RE）在爱奇艺产品中的应用。
- ## [从一件小事，看出产品经理的重要性](http://www.chanpin100.com/article/109050)
- > 生活处处有细节，从这些细节中，我们总能发现意想不到的惊喜。
- ## [跨境支付产品中的现钞与现汇](http://www.chanpin100.com/article/109048)
- > 随着全球化进程的不断加快，跨境支付将成为下一个万亿级“蓝海”，将会重塑商业模式，给企业带来新的商机。
- ## [玩不转标签体系，离精细化运营有多远？（附标签体系搭建指南）](http://www.chanpin100.com/article/109039)
- > 精细化运营的精髓在于精细，即颗粒度足够细致、特征足够明确的用户群，从而做到「千人千面」。如何搭建促进精细化运营落地的标签体系？
- ## [初创公司扩展SaaS业务的最佳方式](http://www.chanpin100.com/article/109038)
- > 在残酷的市场中创办新的SaaS创业公司充满挑战。但是，如果执行正确的话，最终结果可能会有所回报。不过在这过程中，我们对犯错和错误计算几乎是零容忍的。本文将解释何时以及如何扩展SaaS启动，同时避免常见的陷阱。
- ## [一文看懂深度学习（白话解释+8个优缺点+4个典型算法）](http://www.chanpin100.com/article/109037)
- > 深度学习有很好的表现，引领了第三次人工智能的浪潮。目前大部分表现优异的应用都用到了深度学习，大红大紫的 AlphaGo 就使用到了深度学习。本文将详细的给大家介绍深度学习的基本概念、优缺点和主流的4个典型算法。
 
     
