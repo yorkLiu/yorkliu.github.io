@@ -1,21 +1,23 @@
 ---
 title: 2019-07-28 IT News
 copyright: true
-date: 2019-07-28 08:00:53
+date: 2019-07-28 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国移动800亿政企业务构架调整 减少内耗追赶中国电信](http://mp.weixin.qq.com/s?src=11&timestamp=1564272004&ver=1755&signature=2T1JSzUnOy7oldA8iH-ecNb2P*MXH1Evz1kSdbAc9pRu6KapLOvVSvzokqZoLjmvjVw6fgKgeUVfjTY4FKFMug8g4fAnT5i-XirjTb72zI3mMU1wW6PN1pQ1BGt7KP0y&new=1)
- > 【摘要】to B的产业互联网是蓝海，也是新的增长空间。组织跟随战略应该灵活调整，与BAT相比，运营商的组织架构调整算慢的了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：刘春山本文来源：每日经济新...
- ## [无线电对讲设备 仍然没有被手机给替代](http://mp.weixin.qq.com/s?src=11&timestamp=1564272004&ver=1755&signature=M3PiMLhLlGZMA1SlcFEk*SisoiK6-1jDJ7whGMsY*7-fm8Kwaf0pWm9LSf9NCsstbD6WDRMDURmpXuVWBABTnwaBnVOu49N63cRxkFmysmIfxm1xxx2AphsnA8NFpa3N&new=1)
- > 现在随着手机发展的迅速，现在的手机功能繁多，已经可以替代绝大多数的电子产品了，比如电话啊、电视机啊、音乐播放器啊、计算机啊等等，但是大家在日常生活中会发现，很多地方在通讯方面还是会用对讲机的。那么...
- ## [中国移动800亿政企业务构架大调整](http://mp.weixin.qq.com/s?src=11&timestamp=1564272004&ver=1755&signature=iNTXeau1h6kWWWlAxDBSFJzVM0Wa5pcUokSs-Gv8goIo9Nxy6Ww77IIFqBED2XzYzBxnDgxxlfhd-yE3rxbH8ugtQj1sxIaHQiVFxyGXKkr**ZF3eFYJaegZp452dNW3&new=1)
+ ## [中国移动800亿政企业务构架大调整](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=iNTXeau1h6kWWWlAxDBSFJzVM0Wa5pcUokSs-Gv8goIo9Nxy6Ww77IIFqBED2XzYYvk-9YW6UfEXlMDYO6i2xhJIkWjKQL-on*-B6ZGdRNvWJcgwGotNHQsom3ZVsJoH&new=1)
  > 7月27日消息，据每日经济新闻独家报道，中国移动酝酿半年多的中国移动政企分公司拆分终于要落地。内部人士透露，具体方面，分拆后中国移动在全国的政企业务将呈现“一总二横三纵”格局，一总为：集团政企事业部...
- ## [重磅!中国移动政企构架调整 追赶中国电信!](http://mp.weixin.qq.com/s?src=11&timestamp=1564272004&ver=1755&signature=rZS45oiORJ7PCZ3qBvOpkFFsfiXey6qZXlpYk0MhROpho1cXkC8lloe-ylVGU0Bmnl8uLf*6PjGdLc7zFhNIyFk3qqXRwhQz*ss5IW1QsXV*KxgZrg9pDdWbaE8CJfQB&new=1)
- > 中国移动800亿政企业务构架调整 减少内耗追赶中国电信今日（7月27日），《每日经济新闻》记者从中国移动多位内部人士处独家获悉，酝酿半年多的中国移动政企分公司拆分终于要落地。对于此次中国移动拆分政企分公...
- ## [Fastems：踏上柔性自动化“8760”追梦征程](http://mp.weixin.qq.com/s?src=11&timestamp=1564272004&ver=1755&signature=HV1AwRe*q42whEq1Jjc9xn0qEvmsKTBz8CrnQMCtMY004fQcZo4JccyE133OqgA4JGVJBQemBWEkiiD9hOaTn2R423xeGvXYgqPRmjRSTnULrq1lL590nVUGy1A6*TAC&new=1)
+ ## [Fastems：踏上柔性自动化“8760”追梦征程](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=HV1AwRe*q42whEq1Jjc9xn0qEvmsKTBz8CrnQMCtMY004fQcZo4JccyE133OqgA4mLkn3AQ9blclbb1fNe4A-5WqZCbz-j3fJo1Sgu44wQccmzD3gZY5fqA7NR-WCh1V&new=1)
  > 导语Fastems 已向全球供应了 1500 多套柔性线方案和2500 多套机器人应用自动化系统。在亚洲有 70 多条柔性生产线，其中中国大陆有 50 条。文/ e-works张瑾 原创“With digitalization, robot
+ ## [中国移动800亿政企业务构架调整 减少内耗追赶中国电信](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=2T1JSzUnOy7oldA8iH-ecNb2P*MXH1Evz1kSdbAc9pRu6KapLOvVSvzokqZoLjmvKVajMp9A6YIwm1oqCWxPyX*AddaQDxJJresL19tAHQErfZPqzd8Am4vnWjxA3NZL&new=1)
+ > 【摘要】to B的产业互联网是蓝海，也是新的增长空间。组织跟随战略应该灵活调整，与BAT相比，运营商的组织架构调整算慢的了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：刘春山本文来源：每日经济新...
+ ## [无线电对讲设备 仍然没有被手机给替代](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=M3PiMLhLlGZMA1SlcFEk*SisoiK6-1jDJ7whGMsY*7-fm8Kwaf0pWm9LSf9NCsst3Kt1Qcc9GFB515YF3TvMA5jZckEkMfUk*ADUocDPQWrv8612xUkAV-7ql5jyH8NA&new=1)
+ > 现在随着手机发展的迅速，现在的手机功能繁多，已经可以替代绝大多数的电子产品了，比如电话啊、电视机啊、音乐播放器啊、计算机啊等等，但是大家在日常生活中会发现，很多地方在通讯方面还是会用对讲机的。那么...
+ ## [重磅!定了，中国移动要拆分..](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=zq-rkpvxllSdKGi1k2JxhhTEj7szWqX5xK5jbOxD9JP-sCbwQC8q5SHtolbEUqa8nQyL3R1dVrp0iJ3GAD27fntbg7rCQAvytO1pkWdVlVgn8t-cTu-o7ntPJZDPrh*Y&new=1)
+ > 刚刚，《每日经济新闻》记者从中国移动多位内部人士处独家获悉，酝酿半年多的中国移动政企分公司拆分终于要落地。对于此次中国移动拆分政企分公司，一位中国移动内部人士在朋友圈写到“集团政企公司与地方省政企...
+ ## [重磅!中国移动政企构架调整 追赶中国电信!](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=rZS45oiORJ7PCZ3qBvOpkFFsfiXey6qZXlpYk0MhROpho1cXkC8lloe-ylVGU0Bm5gWOMFD6jJwZXU*kLvl8KgPNbbNCCILNare11Ao4mWHqbVhgrk23zeR8KnCkV93B&new=1)
+ > 中国移动800亿政企业务构架调整 减少内耗追赶中国电信今日（7月27日），《每日经济新闻》记者从中国移动多位内部人士处独家获悉，酝酿半年多的中国移动政企分公司拆分终于要落地。对于此次中国移动拆分政企分公...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,71 +75,71 @@ categories: IT NEWS
  > 为了做到微服务的高可用，鬼知道我出了多少张牌
  ## [一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理](http://developer.51cto.com/art/201907/600224.htm)
  > 一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理
- ## [大数据处理基础之scala编程语言入门](https://blog.csdn.net/gzzBlogs/article/details/94755017)
- > 大数据处理基础之scala编程语言入门
- ## [人工智能之-产生式系统](https://blog.csdn.net/weixin_44611644/article/details/95015827)
- > 人工智能之-产生式系统
- ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
- > 人工智能08 启发式搜索
- ## [人工智能05 计算机视觉](https://blog.csdn.net/weixin_41565471/article/details/95045394)
- > 人工智能05 计算机视觉
- ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
- > 简书：编程入门学习的困惑
- ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
- > 来看漫画：我才是世界上最好的编程语言
- ## [万门大学人工智能课程](https://blog.csdn.net/flying668/article/details/94832309)
- > 万门大学人工智能课程
- ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
- > 人工智能实践：Tensrfow笔记
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [Move: 一门面向资产的编程语言](https://blog.csdn.net/toafu/article/details/95307602)
- > Move: 一门面向资产的编程语言
- ## [「人工智能论文范文」人工智能成功的标准：行业最佳实践](https://blog.csdn.net/weixin_43539230/article/details/95621724)
- > 「人工智能论文范文」人工智能成功的标准：行业最佳实践
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
- ## [编程语言中常用的变量命名缩写](https://blog.csdn.net/qq_37851620/article/details/94731227)
- > 编程语言中常用的变量命名缩写
- ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [各类编程语言中static关键字的用法](https://blog.csdn.net/lvlynn/article/details/95348232)
- > 各类编程语言中static关键字的用法
+ ## [华为5G手机，国内首款5G手机，预价7000元左右](https://blog.csdn.net/WoChaotian_/article/details/96837728)
+ > 华为5G手机，国内首款5G手机，预价7000元左右
+ ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
+ > 梦想还是要有的，即使被摧残着！
+ ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
+ > 云杰恒指：7.19恒指期货早盘资讯
+ ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
+ > 学习 Unity 3D游戏开发日常笔记
+ ## [阿里巴巴-游戏开发面经](https://blog.csdn.net/weixin_39139505/article/details/96625548)
+ > 阿里巴巴-游戏开发面经
+ ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
+ > 【IT资讯】全新编程语言V发布
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
+ > 进退博弈：恒指7.12号早盘资讯及交易计划
+ ## [Unity3D Network如何限制玩家人数](https://blog.csdn.net/qq_34229678/article/details/96156404)
+ > Unity3D Network如何限制玩家人数
+ ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
+ > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
+ ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
+ > 棋牌游戏开发质量缘何陷入低水平状态
+ ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
+ > 资讯类网站增量式爬虫
+ ## [\[程序人生\]程序员的一生如何保障？](https://blog.csdn.net/ZYD45/article/details/96482642)
+ > \[程序人生\]程序员的一生如何保障？
+ ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
+ > 程序帝国四大操作之单表修改
+ ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
+ > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [「Spring 全家桶」70 道高频面试题](https://blog.csdn.net/csdnnews/article/details/97581722)
  > 对于那些想面试高级 Java 岗位的同学来说，除了算法属于比较「天方夜谭」的题目外，剩下针对实际工作的题目就属于真正的本事了，热门技术的细节和难点成为了面试时主要考察的内...
 # 人工智能 
- ## [Ruff物联网开发套件轻松入门](https://blog.csdn.net/u010089686/article/details/96485378)
- > Ruff物联网开发套件轻松入门
- ## [程序人生-杂谈python](https://blog.csdn.net/nicai_xiaoqinxi/article/details/94215001)
- > 程序人生-杂谈python
- ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
- > 转战物联网·基础篇02-物联网中的角儿
- ## [关注物联网、关注NB-IoT](https://blog.csdn.net/qq_36075612/article/details/97110898)
- > 关注物联网、关注NB-IoT
- ## [医疗行业需要物联网卡能做什么？](https://blog.csdn.net/qq_40798435/article/details/95628250)
- > 医疗行业需要物联网卡能做什么？
- ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
- > 梦想还是要有的，即使被摧残着！
- ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
- > MQTT物联网通信协议概论
- ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
- > 程序帝国四大操作之单表修改
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [什么是物联网？物联网如何工作？](https://blog.csdn.net/qq_43359864/article/details/96474209)
- > 什么是物联网？物联网如何工作？
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
- ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
- > 程序人生（项目导入依赖）
- ## [千万不要因为安逸而忘记努力](https://blog.csdn.net/S8wadw/article/details/96851715)
- > 千万不要因为安逸而忘记努力
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
+ ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
+ > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
+ ## [构建Docker负载均衡实验](https://blog.csdn.net/qq_41614928/article/details/96559424)
+ > 构建Docker负载均衡实验
+ ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
+ > 聚师网资讯看不到的眼睛
+ ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
+ > 资讯--2019年6月
+ ## [二层交换安全](https://blog.csdn.net/qq_45124553/article/details/96734149)
+ > 二层交换安全
+ ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
+ > 进退博弈：恒指7.16号早盘资讯及操作建议
+ ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
+ > 持续集成管理软件Jenkins应用实验
+ ## [反爬虫业务安全概览](https://blog.csdn.net/weixin_44044225/article/details/95637131)
+ > 反爬虫业务安全概览
+ ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
+ > 资讯类网站增量式爬虫
+ ## [云计算第一周](https://blog.csdn.net/qq_36999865/article/details/96690846)
+ > 云计算第一周
+ ## [网站文件泄露——git,svn,DS_Store，网站备份](https://blog.csdn.net/wj193165zl/article/details/96911279)
+ > 网站文件泄露——git,svn,DS_Store，网站备份
+ ## [大数据、物联网和云计算市场上的经验和规律](https://blog.csdn.net/okmjsayu/article/details/95105082)
+ > 大数据、物联网和云计算市场上的经验和规律
+ ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
+ > 微信不小心删除的好友和群聊，如何偷偷的加回来？
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [大规模离线计算产品的调研](https://blog.csdn.net/oscarun/article/details/96173812)
+ > 大规模离线计算产品的调研
 # PM 
  ## [网红雪糕们的幕后推手](http://www.pmtoo.com/article/78548.html)
  > 从网红新品到怀旧重现，从线下便利店到线上大促，2019年夏季这个市场尤其热闹。咸蛋黄、酱油味、樱桃酒、花椒凤梨、...
