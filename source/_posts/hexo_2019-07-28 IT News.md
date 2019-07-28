@@ -1,22 +1,22 @@
 ---
 title: 2019-07-28 IT News
 copyright: true
-date: 2019-07-28 09:01:09
+date: 2019-07-28 10:01:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国移动800亿政企业务构架大调整](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=iNTXeau1h6kWWWlAxDBSFJzVM0Wa5pcUokSs-Gv8goIo9Nxy6Ww77IIFqBED2XzYYvk-9YW6UfEXlMDYO6i2xhJIkWjKQL-on*-B6ZGdRNvWJcgwGotNHQsom3ZVsJoH&new=1)
+ ## [中国移动800亿政企业务构架大调整](http://mp.weixin.qq.com/s?src=11&timestamp=1564279204&ver=1755&signature=iNTXeau1h6kWWWlAxDBSFJzVM0Wa5pcUokSs-Gv8goIo9Nxy6Ww77IIFqBED2XzYgO1bc8hB8qQHG5XXex2zACYXSV2PoTp*irXsSedd7r2PFuWTVKSdGW5DXCfJP1I*&new=1)
  > 7月27日消息，据每日经济新闻独家报道，中国移动酝酿半年多的中国移动政企分公司拆分终于要落地。内部人士透露，具体方面，分拆后中国移动在全国的政企业务将呈现“一总二横三纵”格局，一总为：集团政企事业部...
- ## [Fastems：踏上柔性自动化“8760”追梦征程](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=HV1AwRe*q42whEq1Jjc9xn0qEvmsKTBz8CrnQMCtMY004fQcZo4JccyE133OqgA4mLkn3AQ9blclbb1fNe4A-5WqZCbz-j3fJo1Sgu44wQccmzD3gZY5fqA7NR-WCh1V&new=1)
- > 导语Fastems 已向全球供应了 1500 多套柔性线方案和2500 多套机器人应用自动化系统。在亚洲有 70 多条柔性生产线，其中中国大陆有 50 条。文/ e-works张瑾 原创“With digitalization, robot
- ## [中国移动800亿政企业务构架调整 减少内耗追赶中国电信](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=2T1JSzUnOy7oldA8iH-ecNb2P*MXH1Evz1kSdbAc9pRu6KapLOvVSvzokqZoLjmvKVajMp9A6YIwm1oqCWxPyX*AddaQDxJJresL19tAHQErfZPqzd8Am4vnWjxA3NZL&new=1)
- > 【摘要】to B的产业互联网是蓝海，也是新的增长空间。组织跟随战略应该灵活调整，与BAT相比，运营商的组织架构调整算慢的了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：刘春山本文来源：每日经济新...
- ## [无线电对讲设备 仍然没有被手机给替代](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=M3PiMLhLlGZMA1SlcFEk*SisoiK6-1jDJ7whGMsY*7-fm8Kwaf0pWm9LSf9NCsst3Kt1Qcc9GFB515YF3TvMA5jZckEkMfUk*ADUocDPQWrv8612xUkAV-7ql5jyH8NA&new=1)
- > 现在随着手机发展的迅速，现在的手机功能繁多，已经可以替代绝大多数的电子产品了，比如电话啊、电视机啊、音乐播放器啊、计算机啊等等，但是大家在日常生活中会发现，很多地方在通讯方面还是会用对讲机的。那么...
- ## [重磅!定了，中国移动要拆分..](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=zq-rkpvxllSdKGi1k2JxhhTEj7szWqX5xK5jbOxD9JP-sCbwQC8q5SHtolbEUqa8nQyL3R1dVrp0iJ3GAD27fntbg7rCQAvytO1pkWdVlVgn8t-cTu-o7ntPJZDPrh*Y&new=1)
+ ## [重磅!定了，中国移动要拆分..](http://mp.weixin.qq.com/s?src=11&timestamp=1564279204&ver=1755&signature=zq-rkpvxllSdKGi1k2JxhhTEj7szWqX5xK5jbOxD9JP-sCbwQC8q5SHtolbEUqa8VU60ys7Pq3iyHNLefuXISpmvgzlsYCxeCZ1j4jJpWGd6Blb07D2wN0yCPyBB63-D&new=1)
  > 刚刚，《每日经济新闻》记者从中国移动多位内部人士处独家获悉，酝酿半年多的中国移动政企分公司拆分终于要落地。对于此次中国移动拆分政企分公司，一位中国移动内部人士在朋友圈写到“集团政企公司与地方省政企...
- ## [重磅!中国移动政企构架调整 追赶中国电信!](http://mp.weixin.qq.com/s?src=11&timestamp=1564275605&ver=1755&signature=rZS45oiORJ7PCZ3qBvOpkFFsfiXey6qZXlpYk0MhROpho1cXkC8lloe-ylVGU0Bm5gWOMFD6jJwZXU*kLvl8KgPNbbNCCILNare11Ao4mWHqbVhgrk23zeR8KnCkV93B&new=1)
+ ## [Fastems：踏上柔性自动化“8760”追梦征程](http://mp.weixin.qq.com/s?src=11&timestamp=1564279204&ver=1755&signature=HV1AwRe*q42whEq1Jjc9xn0qEvmsKTBz8CrnQMCtMY004fQcZo4JccyE133OqgA4UIz8zcFMOKearaXKukFvrIFrO9AGFtMwTVGDjAf3-QxPWqXg4BPVfVbW3cDLDGIU&new=1)
+ > 导语Fastems 已向全球供应了 1500 多套柔性线方案和2500 多套机器人应用自动化系统。在亚洲有 70 多条柔性生产线，其中中国大陆有 50 条。文/ e-works张瑾 原创“With digitalization, robot
+ ## [中国移动800亿政企业务构架调整 减少内耗追赶中国电信](http://mp.weixin.qq.com/s?src=11&timestamp=1564279204&ver=1755&signature=2T1JSzUnOy7oldA8iH-ecNb2P*MXH1Evz1kSdbAc9pRu6KapLOvVSvzokqZoLjmvTjXv9KOTtKRZyh-QjzHWmfThrQC2le92mQuBKWMn1E8gOyxBStsLCTwCQ0UYKYRu&new=1)
+ > 【摘要】to B的产业互联网是蓝海，也是新的增长空间。组织跟随战略应该灵活调整，与BAT相比，运营商的组织架构调整算慢的了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：刘春山本文来源：每日经济新...
+ ## [无线电对讲设备 仍然没有被手机给替代](http://mp.weixin.qq.com/s?src=11&timestamp=1564279204&ver=1755&signature=M3PiMLhLlGZMA1SlcFEk*SisoiK6-1jDJ7whGMsY*7-fm8Kwaf0pWm9LSf9NCssthUH0Itb2sUY0epdkpFA5oREbClrzkmUqGLmjyJDbrThAUO1ViiB4TVoo3r0tmkqq&new=1)
+ > 现在随着手机发展的迅速，现在的手机功能繁多，已经可以替代绝大多数的电子产品了，比如电话啊、电视机啊、音乐播放器啊、计算机啊等等，但是大家在日常生活中会发现，很多地方在通讯方面还是会用对讲机的。那么...
+ ## [重磅!中国移动政企构架调整 追赶中国电信!](http://mp.weixin.qq.com/s?src=11&timestamp=1564279204&ver=1755&signature=rZS45oiORJ7PCZ3qBvOpkFFsfiXey6qZXlpYk0MhROpho1cXkC8lloe-ylVGU0Bm8mHid8m0kAHRKssYhur5IxIlKOpv1ssA5NHJzA2nQxbddvG8FJy1*7R3TqRpGSvB&new=1)
  > 中国移动800亿政企业务构架调整 减少内耗追赶中国电信今日（7月27日），《每日经济新闻》记者从中国移动多位内部人士处独家获悉，酝酿半年多的中国移动政企分公司拆分终于要落地。对于此次中国移动拆分政企分公...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,71 +75,71 @@ categories: IT NEWS
  > 为了做到微服务的高可用，鬼知道我出了多少张牌
  ## [一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理](http://developer.51cto.com/art/201907/600224.htm)
  > 一个系统，搞定闲鱼服务端复杂问题告警-定位-快速处理
- ## [华为5G手机，国内首款5G手机，预价7000元左右](https://blog.csdn.net/WoChaotian_/article/details/96837728)
- > 华为5G手机，国内首款5G手机，预价7000元左右
- ## [梦想还是要有的，即使被摧残着！](https://blog.csdn.net/qq_39742510/article/details/95172625)
- > 梦想还是要有的，即使被摧残着！
- ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
- > 云杰恒指：7.19恒指期货早盘资讯
- ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
- > 学习 Unity 3D游戏开发日常笔记
- ## [阿里巴巴-游戏开发面经](https://blog.csdn.net/weixin_39139505/article/details/96625548)
- > 阿里巴巴-游戏开发面经
- ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
- > 【IT资讯】全新编程语言V发布
- ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
- > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
- ## [进退博弈：恒指7.12号早盘资讯及交易计划](https://blog.csdn.net/L659292998/article/details/95589302)
- > 进退博弈：恒指7.12号早盘资讯及交易计划
- ## [Unity3D Network如何限制玩家人数](https://blog.csdn.net/qq_34229678/article/details/96156404)
- > Unity3D Network如何限制玩家人数
- ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
- > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
- ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
- > 棋牌游戏开发质量缘何陷入低水平状态
- ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
- > 资讯类网站增量式爬虫
- ## [\[程序人生\]程序员的一生如何保障？](https://blog.csdn.net/ZYD45/article/details/96482642)
- > \[程序人生\]程序员的一生如何保障？
- ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
- > 程序帝国四大操作之单表修改
- ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
- > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
+ ## [CSDN开发者周刊：因制裁 多个地区 GitHub 账号使用受限！Python 之父考虑重构解释器​​​​​​​](https://blog.csdn.net/blogdevteam/article/details/97511153)
+ > CSDN开发者周刊：因制裁 多个地区 GitHub 账号使用受限！Python 之父考虑重构解释器​​​​​​​
+ ## [7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜](https://blog.csdn.net/yidunmarket/article/details/96500371)
+ > 7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜
+ ## [人工智能 | 智能语音交互技术与应用](https://blog.csdn.net/lsj960922/article/details/96137534)
+ > 人工智能 | 智能语音交互技术与应用
+ ## [GOF23设计模式-单例模式-5种实现方式比较和防止反射与反序列化漏洞](https://blog.csdn.net/kangxingjun/article/details/96514202)
+ > GOF23设计模式-单例模式-5种实现方式比较和防止反射与反序列化漏洞
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [简单的二层交换安全](https://blog.csdn.net/weixin_44779777/article/details/96734134)
+ > 简单的二层交换安全
+ ## [大数据能做什么,为什么学习大数据](https://blog.csdn.net/fbnggnh/article/details/95321007)
+ > 大数据能做什么,为什么学习大数据
+ ## [二层交换安全](https://blog.csdn.net/qq_45124553/article/details/96734149)
+ > 二层交换安全
+ ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
+ > 人工智能实践：Tensrfow笔记
+ ## [人工智能原理学习笔记](https://blog.csdn.net/qq_41989868/article/details/96641239)
+ > 人工智能原理学习笔记
+ ## [IS | 資訊安全基本需求](https://blog.csdn.net/weixin_42001132/article/details/95501133)
+ > IS | 資訊安全基本需求
+ ## [Linux安全－Zabbix入门（一）](https://blog.csdn.net/weixin_44985068/article/details/97169851)
+ > Linux安全－Zabbix入门（一）
+ ## [程序人生之思考人生](https://blog.csdn.net/soliy/article/details/95377718)
+ > 程序人生之思考人生
+ ## [人工智能“炒股”任重道远](https://blog.csdn.net/fxj2019/article/details/94172139)
+ > 人工智能“炒股”任重道远
+ ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
+ > 提权与信息收集-安全牛学习笔记
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [「Spring 全家桶」70 道高频面试题](https://blog.csdn.net/csdnnews/article/details/97581722)
  > 对于那些想面试高级 Java 岗位的同学来说，除了算法属于比较「天方夜谭」的题目外，剩下针对实际工作的题目就属于真正的本事了，热门技术的细节和难点成为了面试时主要考察的内...
 # 人工智能 
+ ## [CSDN开发者周刊：因制裁 多个地区 GitHub 账号使用受限！Python 之父考虑重构解释器​​​​​​​](https://blog.csdn.net/blogdevteam/article/details/97511153)
+ > CSDN开发者周刊：因制裁 多个地区 GitHub 账号使用受限！Python 之父考虑重构解释器​​​​​​​
+ ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
+ > 棋牌游戏开发质量缘何陷入低水平状态
+ ## [web前端与安全](https://blog.csdn.net/qq_43613144/article/details/96431049)
+ > web前端与安全
+ ## [day-012--图形用户界面和游戏开发](https://blog.csdn.net/weixin_36628778/article/details/96507085)
+ > day-012--图形用户界面和游戏开发
+ ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
+ > Python 超级玛丽代码实现(1):界面和状态机实现
+ ## [Unity3D游戏开发笔记-2【优化】](https://blog.csdn.net/ss5214423/article/details/96136274)
+ > Unity3D游戏开发笔记-2【优化】
+ ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
+ > 学习 Unity 3D游戏开发日常笔记（C 第三周）
+ ## [前端部署项目](https://blog.csdn.net/weixin_43606158/article/details/96706276)
+ > 前端部署项目
+ ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
+ > 《白帽子讲Web安全》| 学习笔记之Web框架安全
+ ## [安全保护-局域网安全](https://blog.csdn.net/weixin_44766403/article/details/96733348)
+ > 安全保护-局域网安全
+ ## [API安全接口安全设计](https://blog.csdn.net/zhou920786312/article/details/95536556)
+ > API安全接口安全设计
  ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
  > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
- ## [构建Docker负载均衡实验](https://blog.csdn.net/qq_41614928/article/details/96559424)
- > 构建Docker负载均衡实验
- ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
- > 聚师网资讯看不到的眼睛
- ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
- > 资讯--2019年6月
- ## [二层交换安全](https://blog.csdn.net/qq_45124553/article/details/96734149)
- > 二层交换安全
- ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
- > 进退博弈：恒指7.16号早盘资讯及操作建议
- ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
- > 持续集成管理软件Jenkins应用实验
+ ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
+ > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
  ## [反爬虫业务安全概览](https://blog.csdn.net/weixin_44044225/article/details/95637131)
  > 反爬虫业务安全概览
- ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
- > 资讯类网站增量式爬虫
- ## [云计算第一周](https://blog.csdn.net/qq_36999865/article/details/96690846)
- > 云计算第一周
- ## [网站文件泄露——git,svn,DS_Store，网站备份](https://blog.csdn.net/wj193165zl/article/details/96911279)
- > 网站文件泄露——git,svn,DS_Store，网站备份
- ## [大数据、物联网和云计算市场上的经验和规律](https://blog.csdn.net/okmjsayu/article/details/95105082)
- > 大数据、物联网和云计算市场上的经验和规律
- ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
- > 微信不小心删除的好友和群聊，如何偷偷的加回来？
- ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
- > 基于云计算与大数据应用开发的论述
- ## [大规模离线计算产品的调研](https://blog.csdn.net/oscarun/article/details/96173812)
- > 大规模离线计算产品的调研
+ ## [棋类游戏开发和牌类游戏开发的不同之处](https://blog.csdn.net/motianyougame/article/details/94397261)
+ > 棋类游戏开发和牌类游戏开发的不同之处
 # PM 
  ## [网红雪糕们的幕后推手](http://www.pmtoo.com/article/78548.html)
  > 从网红新品到怀旧重现，从线下便利店到线上大促，2019年夏季这个市场尤其热闹。咸蛋黄、酱油味、樱桃酒、花椒凤梨、...
