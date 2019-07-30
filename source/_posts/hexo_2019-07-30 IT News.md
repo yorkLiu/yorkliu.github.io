@@ -1,21 +1,21 @@
 ---
 title: 2019-07-30 IT News
 copyright: true
-date: 2019-07-30 08:00:54
+date: 2019-07-30 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [任正非：华为禁令5年内不会撤销!拒绝华为是美国落后的开始!](http://mp.weixin.qq.com/s?src=11&timestamp=1564444804&ver=1759&signature=kkWFhVRxU5R5tN8CBazlGytaIqQE9o1CtmsIR9VsUGhs5vq4Vcf1rO8AzhtYiysw5JFXPDnt38oRhdcmLEF9gsApU-el5y0E74hypchFI5SnU72qnafa72Bm-l3mQwX*&new=1)
- > 自今年5月16日，美国宣布将中国华为公司及其子公司列入出口管制“实体清单”之后，虽然在今年的G20峰会上，美国总统特朗普宣布部分“不危机国家安全”的产品将对华为恢复供应。但是，华为依然在“实体清单”之中...
- ## [中国移动拆分政企公司，四横三纵应对挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1564444804&ver=1759&signature=ST9Rff3w0R45Jt1Q2rEQxS4MSV*kQ4K*UiLqoDAqybYcDIGms*ijgVZNGyQwcOIZc1k-qsBqo9lnFKNyC1zvI79ZGlL41uec-QXQFrGT73TQdyMUf6wx3JNqwSXXp3l5&new=1)
+ ## [中国移动拆分政企公司，四横三纵应对挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1564448405&ver=1759&signature=ST9Rff3w0R45Jt1Q2rEQxS4MSV*kQ4K*UiLqoDAqybYcDIGms*ijgVZNGyQwcOIZIRDmv1qrks71ah92DlrQf5Oy7GEnQl6OKv49F1p14hEuYx6pwFY-B8PWti6diqg*&new=1)
  > 大暑刚过，属于秋天的离别就传来了讯息。从和多位中国移动内部人士的交谈中，通信世界记者了解到，中国移动通信集团公司政企客户分公司（简称政企分公司）的拆分基本上将会在接下来的一两个月内落实，但具体如何...
- ## [百度地图：深耕AI，静候5G](http://mp.weixin.qq.com/s?src=11&timestamp=1564444804&ver=1759&signature=WZtahz9m9hepKtZWCHEAIh5QyMpXMP0ap-sxVMo5e78IxwFq3-96XGV9nML5*4l7Oe8HKd8HoxtWIF78oO9bWHSQRVDJfpqGZElbu5WmfRID5Pk3r8k5uGmsSazx1X51&new=1)
+ ## [百度地图：深耕AI，静候5G](http://mp.weixin.qq.com/s?src=11&timestamp=1564448405&ver=1759&signature=WZtahz9m9hepKtZWCHEAIh5QyMpXMP0ap-sxVMo5e78IxwFq3-96XGV9nML5*4l7w3W*uM-vTbZNNv9WyqC7VqUwXgsfh0Vd85y1PkomodvvkcKpD1yCesXI6jI5lk9c&new=1)
  > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容7月26日，苹果以 10 亿美元价格从英特尔手中收购手机基带业务，布局5G。同一天，华为首款商用 5G 手机开启预约，定价 6199 元。三家运营商则正在紧锣密鼓地...
- ## [高通到底有多强?你的每一部手机都向它交过钱!](http://mp.weixin.qq.com/s?src=11&timestamp=1564444804&ver=1759&signature=Z*sxvwQtR2J9IdcGmcVa06-i-N6i2l6Lg4dsJ1kf-ENeNcKzmr4mkU2HPo6Qmo-Eb*5oolX8416gzyzR00WWW6VFcE6vOq-aCvEWYWve-NIft3iox7DIIWBDI42YYNG8&new=1)
+ ## [高通到底有多强?你的每一部手机都向它交过钱!](http://mp.weixin.qq.com/s?src=11&timestamp=1564448405&ver=1759&signature=Z*sxvwQtR2J9IdcGmcVa06-i-N6i2l6Lg4dsJ1kf-ENeNcKzmr4mkU2HPo6Qmo-Ezk9VlpqZordt0OryGG6ZlFpGGw1ujpdANZ6wpKK7WDs-T5N4Hn*IwKcJSpmpb4S9&new=1)
  > 7月25日，苹果公司宣布将以10亿美元（合人民币69亿元）收购英特尔智能手机调制调节器部门的多数股权。根据声明，2200名英特尔员工将加入苹果，交易将在第四季度进行。而众所周知，性能强大的苹果手机在信号方面...
- ## [招聘丨打造全新驾乘体验，Qualcomm汽车电子部门期待你的加入](http://mp.weixin.qq.com/s?src=11&timestamp=1564444804&ver=1759&signature=5LCoufCDewTBn*XuycFJYY5*0V-nf64bgLY05PVyNVQoMZcGhNd5FRawUb29TRyS3Nter-1SCIP8aypv008hbaL1e9kxjeReArNEqjl-DbPnJb2y-cLxxyj-J1YbMDvO&new=1)
+ ## [招聘丨打造全新驾乘体验，Qualcomm汽车电子部门期待你的加入](http://mp.weixin.qq.com/s?src=11&timestamp=1564448405&ver=1759&signature=5LCoufCDewTBn*XuycFJYY5*0V-nf64bgLY05PVyNVQoMZcGhNd5FRawUb29TRyS3zV8b3PoSfqN8bRdDrS3TRfATvbhxV86lB5aChbkwVJulQ*M238FnssiGZV6QpIO&new=1)
  > 5G的到来，大家不仅渴望更好的移动体验，同时对驾驶体验也有了更高的期待。通过不断推出智能汽车技术及产品，Qualcomm与汽车厂商正一起为大家打造更先进且个性化的驾乘体验。为了挖掘下一代网联汽车中的无限可能...
+ ## [任正非：华为禁令5年内不会撤销!拒绝华为是美国落后的开始!](http://mp.weixin.qq.com/s?src=11&timestamp=1564448405&ver=1759&signature=kkWFhVRxU5R5tN8CBazlGytaIqQE9o1CtmsIR9VsUGhs5vq4Vcf1rO8AzhtYiysw-fJJtD32cwFC0rxUYFf7Y74ouMTmXocXlxApwTzLXo0gTiZU92Ni17WMRbKij*JE&new=1)
+ > 自今年5月16日，美国宣布将中国华为公司及其子公司列入出口管制“实体清单”之后，虽然在今年的G20峰会上，美国总统特朗普宣布部分“不危机国家安全”的产品将对华为恢复供应。但是，华为依然在“实体清单”之中...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,6 +57,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [Snowflake性能调优的五项优秀实践](http://database.51cto.com/art/201907/600428.htm)
+ > Snowflake性能调优的五项优秀实践
  ## [慌的一批！妹子一个rm -rf把公司服务器数据删没了...](http://database.51cto.com/art/201907/600363.htm)
  > 慌的一批！妹子一个rm -rf把公司服务器数据删没了...
  ## [GitHub回应突然断供：身在美国不由己，无权提前通知预警](http://news.51cto.com/art/201907/600403.htm)
@@ -71,58 +73,56 @@ categories: IT NEWS
  > 如何构建Docker Compose文件？
  ## [作为首席架构师，我是如何选择并落地架构方案的？](http://developer.51cto.com/art/201907/600389.htm)
  > 作为首席架构师，我是如何选择并落地架构方案的？
- ## [程序员综艺节目《创造1024》，笑得根本停不下来](http://news.51cto.com/art/201907/600355.htm)
- > 程序员综艺节目《创造1024》，笑得根本停不下来
+ ## [看完Python5大就业方向的薪资待遇，你选择哪个？](http://developer.51cto.com/art/201907/600447.htm)
+ > Python因为简单、入门快，成为了不少程序员入门的首选语言。目前Python加入了小学生的教材，就连国家二级计
+ ## [iOS 13 beta 5 发布 新功能与改变汇总](http://news.51cto.com/art/201907/600446.htm)
+ > 苹果今天发布了 iOS 13 和 iPadOS 第五个开发者测试版，距离第四个测试版发布相隔 2 周时间。
+ ## [网络访问控制-网络地址转换](http://network.51cto.com/art/201907/600448.htm)
+ > 网络地址转换技术NAT主要用于实现位于内部网络主机访问外部网络的功能，当局域网内的主机需要访问外部网络
+ ## [Python对接六大主流数据库，只需三步](http://developer.51cto.com/art/201907/600444.htm)
+ > 作为近两年来最火的编程语言的python,受到广大程序员的追捧必然是有其原因的，如果要挑出几点来讲的话，第
+ ## [5G发展的五大动力和四大挑战](http://network.51cto.com/art/201907/600445.htm)
+ > 6月底MWC19上海再现盛况，5G成为当之无愧的热点。那么，5G到底是什么?5G发展的动力有哪些?5G发展的挑战又包
+ ## [从独特的威胁中保护物联网产品](http://iot.51cto.com/art/201907/600443.htm)
+ > 物联网产品总是作为连接生态系统的一部分运行，甚至像智能发电公用事业那样的“系统系统”，这使得他们的安
+ ## [2019 年你不可不知的十大 Python 库](http://news.51cto.com/art/201907/600442.htm)
+ > 在本文中，我们将讨论 Python 中的一些顶级库，开发人员可以使用这些库来解析、清理和表示数据，并在现有应
  ## [聊天机器人 vs 移动应用：未来属于谁？](http://news.51cto.com/art/201907/600441.htm)
  > 聊天机器人和移动应用之争一直是业内争论不休的话题之一。在这方面，大多数人都倾向于聊天机器人，而不是移
  ## [超详细的设置Oracle用户永不被锁教程分享](http://database.51cto.com/art/201907/600440.htm)
  > 最近有个需求是需要对Oracle某个用户设置输错密码也不被锁，整体原理是：新建一个profile，设置密码错误次
  ## [图解九大编程语言之争，到底谁才是Number 1 ?](http://news.51cto.com/art/201907/600437.htm)
  > 如今 Python、Java、C、C ++、Java 等编程语言五花八门，而各种编程语言也各有优劣，那么，我们该如何去选
- ## [物联网技术存在什么利与弊](http://iot.51cto.com/art/201907/600438.htm)
- > 物联网(IoT)不是一个新事物，然而，随着其潜力开始在实际应用中体现，企业必须意识到这项新技术带来的好处
- ## [纯技术干货分享：分布式事务处理方式总结](http://news.51cto.com/art/201907/600435.htm)
- > 在项目开发中，经常会需要处理分布式事务。例如数据库分库分表之后，原来在一个单库上的操作可能会跨越多个
- ## [不同领域中的真实物联网应用](http://iot.51cto.com/art/201907/600436.htm)
- > 物联网将为我们的生活带来巨大价值。凭借更新的无线网络、卓越的传感器和革命性的计算能力，物联网可以成为
- ## [如何用九条命令在一分钟内检查Linux服务器性能？](http://os.51cto.com/art/201907/600433.htm)
- > 如何在一分钟内检查Linux服务器性能？我们一起看下文中介绍的九条命令。
- ## [再见，Docker！](http://news.51cto.com/art/201907/600439.htm)
- > 近日，网友 zwischenzugs 发文称，他把自己已经使用了六年的家庭服务器中的 Docker 都删除了，并使用了其它
- ## [物联网改变商业模式的6种方式](http://iot.51cto.com/art/201907/600430.htm)
- > 物联网已经并将继续对商业模式产生重大影响。企业需要规划和改变他们的经营方式来整合这些变化。通过了解物
- ## [数据库软件架构，到底要设计些什么？](http://zhuanlan.51cto.com/art/201907/600407.htm)
- > 分片解决“数据量太大”这一问题，也就是通常说的“水平切分”。一旦引入分片，势必面临“数据路由”的新问
- ## [Jenkins+node+gitlab前端自动部署持续集成](https://blog.csdn.net/qq_39513430/article/details/95172699)
- > Jenkins+node+gitlab前端自动部署持续集成
- ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
- > 携程敏捷总动员
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
- ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
- > 前端大作业（期末复习）
- ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
- > Python 超级玛丽代码实现(1):界面和状态机实现
- ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
- > 学习 Unity 3D游戏开发日常笔记（C 第三周）
- ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
- > Win32 游戏开发：贪吃蛇 上篇
- ## [5G时代到来 棋牌游戏开发技术如虎添翼](https://blog.csdn.net/motianyougame/article/details/94741465)
- > 5G时代到来 棋牌游戏开发技术如虎添翼
- ## [棋牌游戏开发做好策划方案 拥有互联网思维](https://blog.csdn.net/motianyougame/article/details/95349894)
- > 棋牌游戏开发做好策划方案 拥有互联网思维
- ## [一张图片，根据区域，跳转不同链接](https://blog.csdn.net/swallow_y/article/details/97135401)
- > 一张图片，根据区域，跳转不同链接
- ## [前端（四）BOM和DOM](https://blog.csdn.net/zeroooorez/article/details/94566628)
- > 前端（四）BOM和DOM
- ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
- > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
- ## [不一样的前端学习-第一天](https://blog.csdn.net/weixin_38001828/article/details/95317038)
- > 不一样的前端学习-第一天
- ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
- > 草莓协会前端页面
+ ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
+ > 架构杂谈《四》
+ ## [【Web安全】XSS攻击](https://blog.csdn.net/sc_lilei/article/details/89292908)
+ > 【Web安全】XSS攻击
+ ## [环境变量基本操作及path环境变量](https://blog.csdn.net/weixin_45072139/article/details/94987680)
+ > 环境变量基本操作及path环境变量
+ ## [安全保护-局域网安全](https://blog.csdn.net/weixin_44766403/article/details/96733348)
+ > 安全保护-局域网安全
+ ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
+ > JAVA基础的基础1.0
+ ## [初步掌握Yarn的架构及原理](https://blog.csdn.net/pigziprogrammer/article/details/94592780)
+ > 初步掌握Yarn的架构及原理
+ ## [java学习日志day14](https://blog.csdn.net/qq_31783363/article/details/96168612)
+ > java学习日志day14
+ ## [JAVA基础7-Stream基础学习笔记](https://blog.csdn.net/linwu_2006_2006/article/details/95029004)
+ > JAVA基础7-Stream基础学习笔记
+ ## [聊聊微服务架构的优缺点](https://blog.csdn.net/claram/article/details/94552998)
+ > 聊聊微服务架构的优缺点
+ ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
+ > 《白帽子讲Web安全》| 学习笔记之Web框架安全
+ ## [白帽子讲Web安全-客户端脚本安全](https://blog.csdn.net/u010019721/article/details/96143950)
+ > 白帽子讲Web安全-客户端脚本安全
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜](https://blog.csdn.net/yidunmarket/article/details/96500371)
+ > 7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜
+ ## [Linux基础中的基础 一](https://blog.csdn.net/Win_Le/article/details/94658782)
+ > Linux基础中的基础 一
+ ## [微服务架构与SpringCloud](https://blog.csdn.net/qq_34160679/article/details/94378860)
+ > 微服务架构与SpringCloud
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [百度移动：静悄悄的战争](https://blog.csdn.net/csdnnews/article/details/97711374)
@@ -136,37 +136,39 @@ categories: IT NEWS
  ## [阿里京东拼多多合围下沉市场，拼购“三国杀”一触即发](http://www.lanjingtmt.com/news/detail/43937.shtml)
  > 自拼多多模式得到资本与市场双重验证后，阿里、京东再将重心拉回到下沉市场，且均重点发力拼购业务，直捣拼多多腹地。业内人士普遍认为，拼购“三国杀”或一触即发。
 # 人工智能 
- ## [1.1.1 安全术语（上）](https://blog.csdn.net/chocolee911/article/details/96005391)
- > 1.1.1 安全术语（上）
- ## [Linux之Docker的镜像结构及镜像的创建](https://blog.csdn.net/qq_36016375/article/details/96047706)
- > Linux之Docker的镜像结构及镜像的创建
- ## [【Web安全】XSS攻击](https://blog.csdn.net/sc_lilei/article/details/89292908)
- > 【Web安全】XSS攻击
- ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
- > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
- ## [Linux之rhcs【红帽6的高可用】](https://blog.csdn.net/qq_36016375/article/details/94914985)
- > Linux之rhcs【红帽6的高可用】
- ## [二层交换安全](https://blog.csdn.net/qq_45124553/article/details/96734149)
- > 二层交换安全
- ## [老凡的运维笔记 | 智能化运维知多少？](https://blog.csdn.net/Yolanda518/article/details/94599497)
- > 老凡的运维笔记 | 智能化运维知多少？
- ## [网站文件泄露——git,svn,DS_Store，网站备份](https://blog.csdn.net/wj193165zl/article/details/96911279)
- > 网站文件泄露——git,svn,DS_Store，网站备份
- ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
- > 程序帝国四大操作之单表新增
- ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
- > 软件设计师考试经历
- ## [《白帽子讲Web安全》| 学习笔记之HTML5安全](https://blog.csdn.net/qq_42646885/article/details/95306302)
- > 《白帽子讲Web安全》| 学习笔记之HTML5安全
- ## [数据库运维平台](https://blog.csdn.net/marko39/article/details/95241815)
- > 数据库运维平台
- ## [web前端与安全](https://blog.csdn.net/qq_43613144/article/details/96431049)
- > web前端与安全
- ## [干货 | 学习大数据为什么要先学Java？](https://blog.csdn.net/fbnggnh/article/details/95200354)
- > 干货 | 学习大数据为什么要先学Java？
- ## [GOF23设计模式-单例模式-5种实现方式比较和防止反射与反序列化漏洞](https://blog.csdn.net/kangxingjun/article/details/96514202)
- > GOF23设计模式-单例模式-5种实现方式比较和防止反射与反序列化漏洞
+ ## [人工智能--人脸识别](https://blog.csdn.net/weixin_44090435/article/details/94438711)
+ > 人工智能--人脸识别
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [Linux之lvs负载均衡【DR模式】](https://blog.csdn.net/qq_36016375/article/details/94914327)
+ > Linux之lvs负载均衡【DR模式】
+ ## [物联网专用数据交换格式CBOR](https://blog.csdn.net/xukai871105/article/details/96607961)
+ > 物联网专用数据交换格式CBOR
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
+ ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
+ > 人工智能02 机器进化
+ ## [基于物联网的智能家居](https://blog.csdn.net/weixin_43532158/article/details/95323836)
+ > 基于物联网的智能家居
+ ## [oracle运维积累](https://blog.csdn.net/qq_22802643/article/details/95737520)
+ > oracle运维积累
+ ## [书籍推荐 -- 《人工智能基础（高中版）》](https://blog.csdn.net/m0_37697335/article/details/94837446)
+ > 书籍推荐 -- 《人工智能基础（高中版）》
+ ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
+ > Linux之Docker私有仓库的搭建
+ ## [Ruff物联网开发套件轻松入门](https://blog.csdn.net/u010089686/article/details/96485378)
+ > Ruff物联网开发套件轻松入门
+ ## [医疗行业需要物联网卡能做什么？](https://blog.csdn.net/qq_40798435/article/details/95628250)
+ > 医疗行业需要物联网卡能做什么？
+ ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
+ > 转战物联网·基础篇02-物联网中的角儿
+ ## [关注物联网、关注NB-IoT](https://blog.csdn.net/qq_36075612/article/details/97110898)
+ > 关注物联网、关注NB-IoT
+ ## [人工智能04 神经网络](https://blog.csdn.net/weixin_41565471/article/details/94990607)
+ > 人工智能04 神经网络
 # PM 
+ ## [新中产消费的崛起，本质上是重构“感觉的秩序”](http://www.woshipm.com/user-research/2643455.html)
+ > 笔者梳理了消费的时代发展，探究新中产消费的崛起原因：教育程度、底层消费基础的完善，人们开始将更多的精力花在了精神层面，导致认知发生改变，在这种情况下，消费升...
  ## [7月22-28日热文盘点|不点开看看，你都不知道自己错过了什么！！](http://www.chanpin100.com/article/109078)
  > 这是一个信息过载的时代。所有人接触到的信息远多于他们能够或愿意加工的信息，我们时刻处于一种信息接收超负荷的状态，为了减轻大家的负担，小编经深度阅读后，为大家带来上周热文盘点。
  ## [从社交电商说起，带你全面了解电商各种玩法，解读电商本质](http://www.chanpin100.com/article/109076)
