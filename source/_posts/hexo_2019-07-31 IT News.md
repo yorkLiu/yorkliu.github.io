@@ -1,21 +1,21 @@
 ---
 title: 2019-07-31 IT News
 copyright: true
-date: 2019-07-31 08:00:59
+date: 2019-07-31 09:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为亮出期中考试成绩单 收入同比增23.2%](http://mp.weixin.qq.com/s?src=11&timestamp=1564531205&ver=1761&signature=BhkmLYpZAIob9hGIikpLNlTHp1yhE63wSCDptdV7DBPiTjCz30Cb0kxq7-*D7fUqa39z0k031X*b9z3wpwSfzLz5AIS5M9HaaGubybeQqpOHEir1oMmL3RA2OGuIvKDP&new=1)
- > 在美国持续打击以及外部复杂环境下，华为2019年上半年业务发展到底如何？7月30日，华为宣布，2019年上半年，华为实现销售收入4013亿人民币，同比增长23.2%，净利润率8.7%。这个结果超出业界的预期。 其中，华为...
- ## [微软收购BlueTalon丨Lyft首席运营官即将离职\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1564531205&ver=1761&signature=1KhkV-XQbUWZ8ZbgkushSA8eCDT7rKzNxACx12hkAph3s682OsrW6gn5O*YMcBYQtSfCTUAhFyKpR2ZxGyDdvKlgE4PHkwLlRbofJ3wTfeq69Lgxu6RuqJqSHm9iYjo1&new=1)
- > 7月30日丨周二【Do说】编辑 | 赵艾虎微软收购BlueTalon，增强云计算数据类服务据外媒报道，微软公司宣布收购数据相关专业公司BlueTalon，其在官方博客中介绍说，BlueTalon是一家为现代数据平台提供统一数据访问...
- ## [人工智能算法可为智能城市提供更高效的太阳能发电系统](http://mp.weixin.qq.com/s?src=11&timestamp=1564531205&ver=1761&signature=aZKgiDmWrIHMBn28dIShzg8ytcfYbzDHb6o5nsegXKe1228Nd4Y*Kne5zrFVKnpnBdAI0tyanWc1-glNFzWKJ34qddOok0jO7-TLvF6Frx*5SuOMi6nH3u-rqKyJiSsW&new=1)
- > Photo: iStockphoto通过分析控制太阳能电池和锂离子电池之间电流的各种算法，科学家们确定了控制太阳能电网存储的最佳算法类型。目前存在大量的算法来帮助以最有利可图的方式管理光伏电池和锂离子电池之间的电流...
- ## [真是“不死鸟”!刚刚，华为公布被制裁后首份成绩单，还宣布1200亿的大计划](http://mp.weixin.qq.com/s?src=11&timestamp=1564531205&ver=1761&signature=SgRv21hC37NtDiNI4buDNpRqSFfSRRqOqM5VrXvCvAeZir30d5-JJyg8nia0Tkm0WQzz50uUGnIi4Aok*ypNrvYSsY*iHLxxIoz37Kxd7K99tEwN3yLvyZt5roWEcauL&new=1)
- > 来源丨每日经济新闻由于5月美国将华为列入“实体名单”，对华为造成巨大影响。此前，华为创始人任正非曾在接受媒体采访时表示“预计未来两年公司会减产，估计（销售收入）会下降300亿美元”。今天（7月30日）下...
- ## [对话科技，智看哈弗F7x](http://mp.weixin.qq.com/s?src=11&timestamp=1564531205&ver=1761&signature=ysx2LdgYekOKgyoeIDlQPLG90nh1ExtzOONGMZE*9duwRrTzBb73j32KDQCTRaIN2r0k-ZdzpItOKA1MLHul0KmedU1PpabBO1wLhNKDZEDxF8S34XPcjnfty4*cNqM9&new=1)
+ ## [对话科技，智看哈弗F7x](http://mp.weixin.qq.com/s?src=11&timestamp=1564534804&ver=1761&signature=ysx2LdgYekOKgyoeIDlQPLG90nh1ExtzOONGMZE*9duwRrTzBb73j32KDQCTRaINBz98w99gE3r4aAf86zmCfdWPA42GpcRa18NiqFst*QVrIbfpwdV67*hYxCxP6UTC&new=1)
  > 十万人测评俱乐部Q群：631042704ZEALER极客交流Q群：414894623释放 x 潜能，触摸科技之巅，跟随 ZEALER 的脚步看看哈弗在即将到来的 5G 时代，对于未来出行、智能驾驶技术、车联网应用等方面有哪些前瞻探索？一...
+ ## [华为亮出期中考试成绩单 收入同比增23.2%](http://mp.weixin.qq.com/s?src=11&timestamp=1564534804&ver=1761&signature=BhkmLYpZAIob9hGIikpLNlTHp1yhE63wSCDptdV7DBPiTjCz30Cb0kxq7-*D7fUq2yR*wrEZRAVl4dsEGhPnUVN1owfdwY9qrgq20ZW8mkGHceif5A-yUJBxQXkuv55*&new=1)
+ > 在美国持续打击以及外部复杂环境下，华为2019年上半年业务发展到底如何？7月30日，华为宣布，2019年上半年，华为实现销售收入4013亿人民币，同比增长23.2%，净利润率8.7%。这个结果超出业界的预期。 其中，华为...
+ ## [微软收购BlueTalon丨Lyft首席运营官即将离职\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1564534804&ver=1761&signature=1KhkV-XQbUWZ8ZbgkushSA8eCDT7rKzNxACx12hkAph3s682OsrW6gn5O*YMcBYQeiHSfBxOgiMbssfNW3UdVv8I-mrDCk5IEBsQGrC9wsoVOkAk6A8Eci3*LoUREk7P&new=1)
+ > 7月30日丨周二【Do说】编辑 | 赵艾虎微软收购BlueTalon，增强云计算数据类服务据外媒报道，微软公司宣布收购数据相关专业公司BlueTalon，其在官方博客中介绍说，BlueTalon是一家为现代数据平台提供统一数据访问...
+ ## [人工智能算法可为智能城市提供更高效的太阳能发电系统](http://mp.weixin.qq.com/s?src=11&timestamp=1564534804&ver=1761&signature=aZKgiDmWrIHMBn28dIShzg8ytcfYbzDHb6o5nsegXKe1228Nd4Y*Kne5zrFVKnpnilSsH9CHZQIkraInLP80cQNtO2VwiNdAvELuMjAaO2MaALmmPZE4UXCVDND9O-hj&new=1)
+ > Photo: iStockphoto通过分析控制太阳能电池和锂离子电池之间电流的各种算法，科学家们确定了控制太阳能电网存储的最佳算法类型。目前存在大量的算法来帮助以最有利可图的方式管理光伏电池和锂离子电池之间的电流...
+ ## [真是“不死鸟”!刚刚，华为公布被制裁后首份成绩单，还宣布1200亿的大计划](http://mp.weixin.qq.com/s?src=11&timestamp=1564534804&ver=1761&signature=SgRv21hC37NtDiNI4buDNpRqSFfSRRqOqM5VrXvCvAeZir30d5-JJyg8nia0Tkm0*KFgqpaD35RjzkDrfyRnTGO-PCWMm*6MI*gvw0BmmD332IWYJO-bOvhOGtXcv07S&new=1)
+ > 来源丨每日经济新闻由于5月美国将华为列入“实体名单”，对华为造成巨大影响。此前，华为创始人任正非曾在接受媒体采访时表示“预计未来两年公司会减产，估计（销售收入）会下降300亿美元”。今天（7月30日）下...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,6 +57,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [十大开发必备的Python库](http://developer.51cto.com/art/201907/600510.htm)
+ > 十大开发必备的Python库
  ## [如何在Ubuntu上用apt-fast加快软件包的下载和更新？](http://os.51cto.com/art/201907/600504.htm)
  > 如何在Ubuntu上用apt-fast加快软件包的下载和更新？
  ## [如何在Kubernetes中创建与部署蜜罐](http://netsecurity.51cto.com/art/201907/600464.htm)
@@ -71,8 +73,16 @@ categories: IT NEWS
  > 三种无线局域网定位技术：Wi-Fi、蓝牙和UWB
  ## [如何解决VirtualBox桥接网络问题？](http://network.51cto.com/art/201907/600455.htm)
  > 如何解决VirtualBox桥接网络问题？
- ## [2019年你不可不知的十大Python库，可实现机器学习](http://news.51cto.com/art/201907/600442.htm)
- > 2019年你不可不知的十大Python库，可实现机器学习
+ ## [分布式系统中Session共享的五种方法](http://developer.51cto.com/art/201907/600528.htm)
+ > Memcache由于是一款基于Libevent多路异步I/O技术的内存共享系统，简单的Key + Value数据存储模式使得代码逻
+ ## [物联网想要真正的普及，这个问题解决不了永远也不可能](http://iot.51cto.com/art/201907/600527.htm)
+ > 物联网的实现是通过设备和机器进行数据收集。但是当这些设备在偏远或恶劣的地方时，它提出了挑战。如何能够
+ ## [多云安全最佳实践指南（更新版）](http://zhuanlan.51cto.com/art/201907/600526.htm)
+ > 为一个多样化的云网络部署合理的安全解决方案是一个挑战，每个供应商都有自己的政策和网络安全措施。但是，
+ ## [分析两个主机和Oracle数据库巡检脚本，值得收藏](http://database.51cto.com/art/201907/600524.htm)
+ > 分享一个之前我用来巡检主机和Oracle的脚本，不过输出结果不是很美观，内容还是可以的...
+ ## [“零信任”安全体系架构和实践](http://netsecurity.51cto.com/art/201907/600523.htm)
+ > 在万物互联时代，全球数据量与日俱增，人们在探究数据价值的同时也打开了数据安全这个潘多拉魔盒。
  ## [最常见的 Git 错误都有哪些，如何解决它们？](http://news.51cto.com/art/201907/600522.htm)
  > 如果您曾经与许多开发者一起开发一个大项目，那么使用 Git 作为版本控制是一个最好的选择。
  ## [物联网安全性市场与案例](http://iot.51cto.com/art/201907/600521.htm)
@@ -83,40 +93,56 @@ categories: IT NEWS
  > 其实所谓的高并发，如果你要理解这个问题呢，其实就得从高并发的根源出发，为啥会有高并发？为啥高并发就很
  ## [Linux服务器如何查看CPU使用率、内存占用情况](http://os.51cto.com/art/201907/600517.htm)
  > 在 Linux 上查看资源使用情况有很多命令可以参考，CPU、内存、IO、NETWORK等资源使用情况都可以通过某些命
- ## [实施物联网时需要考虑的六大问题](http://iot.51cto.com/art/201907/600516.htm)
- > 物联网可以为企业做出巨大贡献。如果实施得当，它可以节省资金、提高生产力，并提高流程效率。但是，还有一
- ## [《白帽子讲Web安全》| 学习笔记之HTML5安全](https://blog.csdn.net/qq_42646885/article/details/95306302)
- > 《白帽子讲Web安全》| 学习笔记之HTML5安全
- ## [二层交换安全](https://blog.csdn.net/qq_45124553/article/details/96734149)
- > 二层交换安全
- ## [多媒体音视频系统高端会议室解决方案|AVMEDIA](https://blog.csdn.net/AVMEDIA/article/details/95449435)
- > 多媒体音视频系统高端会议室解决方案|AVMEDIA
- ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
- > 音视频播放、横竖屏切换
- ## [Linux网络安全－Zabbix入门（一）](https://blog.csdn.net/weixin_44985068/article/details/97169851)
- > Linux网络安全－Zabbix入门（一）
- ## [多线程的上下文安全设计](https://blog.csdn.net/weixin_42679286/article/details/96719518)
- > 多线程的上下文安全设计
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
- ## [7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜](https://blog.csdn.net/yidunmarket/article/details/96500371)
- > 7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜
- ## [API安全接口安全设计](https://blog.csdn.net/zhou920786312/article/details/95536556)
- > API安全接口安全设计
- ## [网站文件泄露——git,svn,DS_Store，网站备份](https://blog.csdn.net/wj193165zl/article/details/96911279)
- > 网站文件泄露——git,svn,DS_Store，网站备份
- ## [安全保护-局域网安全](https://blog.csdn.net/weixin_44766403/article/details/96733348)
- > 安全保护-局域网安全
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
- ## [白帽子讲Web安全-客户端脚本安全](https://blog.csdn.net/u010019721/article/details/96143950)
- > 白帽子讲Web安全-客户端脚本安全
- ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
- > 音视频开发--音视频的基础知识--音频
- ## [IS | 資訊安全基本需求](https://blog.csdn.net/weixin_42001132/article/details/95501133)
- > IS | 資訊安全基本需求
+ ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
+ > 前端开发都应该知道的配置中心
+ ## [音视频格式介绍](https://blog.csdn.net/LUOHUATINGYUSHENG/article/details/96024814)
+ > 音视频格式介绍
+ ## [史上最全的Android热点技术面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96627593)
+ > 史上最全的Android热点技术面试题集锦
+ ## [编程语言千千万，为什么学习Python的占一半？](https://blog.csdn.net/PyhtonChen/article/details/96589909)
+ > 编程语言千千万，为什么学习Python的占一半？
+ ## [前端与移动开发入门基础html完结版](https://blog.csdn.net/Denisedan/article/details/95673683)
+ > 前端与移动开发入门基础html完结版
+ ## [Android面经：百度腾讯滴滴美团头条网易搜狐华为链家小米拼多多](https://blog.csdn.net/weixin_45258969/article/details/96900566)
+ > Android面经：百度腾讯滴滴美团头条网易搜狐华为链家小米拼多多
+ ## [大数据处理基础之scala编程语言入门](https://blog.csdn.net/gzzBlogs/article/details/94755017)
+ > 大数据处理基础之scala编程语言入门
+ ## [一门编程语言的通用知识点](https://blog.csdn.net/qq_34822461/article/details/96838555)
+ > 一门编程语言的通用知识点
+ ## [推荐几款简单的音视频编辑软件](https://blog.csdn.net/qq_43173244/article/details/96130140)
+ > 推荐几款简单的音视频编辑软件
+ ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
+ > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
+ ## [抖音视频免费去水印的方法](https://blog.csdn.net/qwqwqq/article/details/94344817)
+ > 抖音视频免费去水印的方法
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [音视频的相关名词、术语、概念](https://blog.csdn.net/weixin_40763897/article/details/94590798)
+ > 音视频的相关名词、术语、概念
+ ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
+ > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
+ ## [Qt中使用vlc-qt处理音视频](https://blog.csdn.net/m0_38133212/article/details/96289358)
+ > Qt中使用vlc-qt处理音视频
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [零基础 5 分钟上手，程序员喜提 AIoT 新利器！](https://blog.csdn.net/csdnnews/article/details/97845513)
+ > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）近几年来，物联网发展迅速，2017 年，物联网设备数量首次超过全球人口。据预测，到 2025 年，物联网设备将...
+ ## [5G 重新定义生老病死！](https://blog.csdn.net/csdnnews/article/details/97845394)
+ > 作者 |胡巍巍出品 | CSDN（ID：CSDNnews）5G时代，我们的生老病死，或将被重新定义！5G手术，让生命不再受制于距离海南的神经外科专家凌至培，使用5G技术...
+ ## [如何降低 Python 的内存消耗量？](https://blog.csdn.net/csdnnews/article/details/97845497)
+ > 在程序执行期间，如果内存中存在大量处于活动状态的对象，就有可能出现内存问题，尤其是在可用内存总量有限的情况下。在本文中，我们将讨论通过缩小对象大幅减少Python所需内存...
+ ## [直接拿来用！GitHub 标星 5000+，学生党学编程有这份资料就够了](https://blog.csdn.net/csdnnews/article/details/97845438)
+ > 作者 |GitHubDaily责编 | 郭芮随着近两年编程教育的推广与普及，不少初高中的在校学生也都开始学起了编程。在他们当中，有些人上手编程速度之快，产出项目质量之高...
+ ## [“5 年内，PC 或将逐渐消失！”| 人物志](https://blog.csdn.net/csdnnews/article/details/97845457)
+ > 受访者 |曹峻玮采访者 | 屠敏出品 | CSDN（ID：CSDNnews）时光追溯到 20 年前，彼时的你是否可曾想到未来会有那么一天，一部手机能够取代掉电话、银行卡...
+ ## [程序员！别再埋头学Python了！](https://blog.csdn.net/csdnnews/article/details/97845733)
+ > 有人说，随着AI和大数据的兴起，Python变得越来越强了，它语言简洁、开发效率高、可移植性强，并且可以和其他编程语言（比如 C++）轻松无缝衔接所以，很多程序员把 Py...
+ ## [快讯！“Python背后有推手？”程序员：真相扎心！](https://blog.csdn.net/csdnnews/article/details/97845652)
+ > 人红是非多，最近Python就遇到了这样的问题。与国际技术社区上一片「形势大好」对比鲜明的是，国内技术圈却一直存在对Python，「力挺」和「吃瓜」两派阵营，针锋相对，那...
+ ## [网易游戏回应裁员 10%；字节跳动秘密研发手机；iOS 13 beta 5 发布 | 极客头条](https://blog.csdn.net/csdnnews/article/details/97845409)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [看完这篇，终于知道自己会不会 C 泛型了！](https://blog.csdn.net/csdnnews/article/details/97845716)
+ > 作者 | 羽生结弦责编 | 胡巍巍在开发过程中，同一段代码处出现多次调用，并且会有不同的类型在使用，这种就叫做跨类型代码复用。一般情况下跨类型代码复用我们会用到如下两种方...
  ## [华为上半年业绩稳健仍在"补洞" ，鸿蒙系统不是噱头](http://www.lanjingtmt.com/news/detail/43965.shtml)
  > ​7月30日下午，华为公司举行2019年上半年业绩发布会。除公布营收外，针对华为公司颇为动荡的上半年，梁华现场回应了媒体有关“实体清单”禁令后，华为的5G部署、消费者业务、当前供应
  ## [苹果第三财季净利润100.5亿美元同比降13%，连降三季度](http://www.lanjingtmt.com/news/detail/43964.shtml)
@@ -124,37 +150,39 @@ categories: IT NEWS
  ## [值得买连续涨停背后的危与机](http://www.lanjingtmt.com/news/detail/43963.shtml)
  > 随着直播带货的兴起，国内电商巨头也已开始自建内容流量池，并通过大数据技术更精准地捕捉用户需求，内完成交易闭环。对值得买而言，如何长期得到头部客户的青睐将是其不得不思考的重要问题。
 # 人工智能 
- ## [【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）](https://blog.csdn.net/Mculover666/article/details/88972014)
- > 【物联网项目开发】（一）基于物联网平台的物联网项目开发概述（以智慧路灯为例）
- ## [android架构分享-MVP](https://blog.csdn.net/VcStrong/article/details/95217444)
- > android架构分享-MVP
- ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
- > 建筑施工借助物联网卡保障高楼安全
- ## [19年关于跨境电商,它的一些资讯干货，你们了解吗？](https://blog.csdn.net/ylfqwe/article/details/94439690)
- > 19年关于跨境电商,它的一些资讯干货，你们了解吗？
- ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
- > 速记工具原来这么好用，错过了让你抱憾终身
- ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
- > 资讯--2019年6月
- ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
- > 华为手机自带语音转文字的功能，转换方法如下
- ## [ESP8266发送温湿度到物联网（1）](https://blog.csdn.net/qq_35590091/article/details/53932767)
- > ESP8266发送温湿度到物联网（1）
- ## [华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到](https://blog.csdn.net/WoChaotian_/article/details/96427708)
- > 华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到
- ## [华为5G手机，国内首款5G手机，预价7000元左右](https://blog.csdn.net/WoChaotian_/article/details/96837728)
- > 华为5G手机，国内首款5G手机，预价7000元左右
- ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
- > 架构杂谈《四》
- ## [世界百年未有的大变局下](https://blog.csdn.net/weixin_45209246/article/details/96586562)
- > 世界百年未有的大变局下
- ## [Druid架构讲解](https://blog.csdn.net/liaynling/article/details/96473842)
- > Druid架构讲解
- ## [Kappa架构与Lambda架构比较](https://blog.csdn.net/haibucuoba/article/details/94444374)
- > Kappa架构与Lambda架构比较
- ## [AIOps产品与架构浅析](https://blog.csdn.net/devcloud/article/details/94161087)
- > AIOps产品与架构浅析
+ ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
+ > 学习编程基础知识，进阶成为更优秀的程序员
+ ## [input框range类型拖动条时，实现得到实时反馈](https://blog.csdn.net/qq_41866516/article/details/95167910)
+ > input框range类型拖动条时，实现得到实时反馈
+ ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
+ > 草莓协会前端页面
+ ## [java学习日志day14](https://blog.csdn.net/qq_31783363/article/details/96168612)
+ > java学习日志day14
+ ## [Java基础（一）环境变量的配置和如何运行自己的第一个java文件](https://blog.csdn.net/qq_41615348/article/details/95585175)
+ > Java基础（一）环境变量的配置和如何运行自己的第一个java文件
+ ## [前端实现换肤功能](https://blog.csdn.net/snailmar/article/details/95662926)
+ > 前端实现换肤功能
+ ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
+ > 提权与信息收集-安全牛学习笔记
+ ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
+ > 使用百度图表ECharts
+ ## [Android基础-四大组件之activity(基础)](https://blog.csdn.net/qq_42391904/article/details/95255893)
+ > Android基础-四大组件之activity(基础)
+ ## [把json数据的id加到接口里id的后面](https://blog.csdn.net/qq_43473279/article/details/95340389)
+ > 把json数据的id加到接口里id的后面
+ ## [简单总结交换安全](https://blog.csdn.net/qq_41940544/article/details/96758518)
+ > 简单总结交换安全
+ ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
+ > 《白帽子讲Web安全》| 学习笔记之Web框架安全
+ ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/coding147/article/details/96967786)
+ > 一名合格前端工程师的进阶指南！
+ ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
+ > 深入理解  Android 组件的 exported 属性
+ ## [Linux基础中的基础 一](https://blog.csdn.net/Win_Le/article/details/94658782)
+ > Linux基础中的基础 一
 # PM 
+ ## [新课上线丨为什么精通Excel的人，天天准时下班，还能薪资翻倍？](http://www.woshipm.com/active/2643318.html)
+ > 说到Excel，你会想到什么？是堆积如山、令人烦躁的纸质报表？是躺在电脑里还没来得及处理和分析的电子表格？还是会想到那个用Excel来画画的日本老爷爷？作为每天都...
  ## [距离成为一名优秀的PM，你到底差在哪儿？](http://www.chanpin100.com/article/109088)
  > 或许，你也是受到了乔布斯的影响，而走入了“产品经理”这一行业，然而当你真正进入了这个行当，是否发现成为一名真正优秀的产品经理，可不是想一想就能实现的。但是我们更愿相信，距离优秀的PM，你其实就差那么一点点~到底是哪一点点，让我们一起往下看~
  ## [为什么你引以为傲的经验会失灵？](http://www.chanpin100.com/article/109068)
