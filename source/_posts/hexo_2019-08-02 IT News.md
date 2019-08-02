@@ -1,21 +1,41 @@
 ---
 title: 2019-08-02 IT News
 copyright: true
-date: 2019-08-02 09:01:01
+date: 2019-08-02 10:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2019年8月2日 星期五</b></summary><div class="news-list-content"><p>1.&#23383;&#33410;&#36339;&#21160;&#27491;&#24335;&#23545;&#22806;&#20844;&#24320;&#25628;&#32034;&#37096;&#38376;&#30340;&#23384;&#22312;&#65292;&#24182;&#27491;&#24335;&#24320;&#21551;&#25307;&#32856;&#65292;&#25628;&#32034;&#20135;&#21697;&#21487;&#22312;&#20170;&#26085;&#22836;&#26465;&#35797;&#29992;</p>
+<p>2.&#38142;&#23478;&#25512;&#8220;&#38376;&#24215;&#21512;&#20249;&#20154;&#8221;&#21046;&#24230;&#65306;&#28041;&#28145;&#22323;&#21335;&#20140;&#31561;&#20108;&#21313;&#20313;&#22478;</p>
+<p>3.&#26102;&#23578;&#20135;&#19994;&#26435;&#23041;&#23186;&#20307;&#12298;WWD&#12299;&#20840;&#38754;&#36827;&#20837;&#20013;&#22269;&#65292;&#38750;&#24120;&#30475;&#22909;&#20013;&#22269;&#26102;&#23578;&#20135;&#19994;</p>
+<p>4.B&#31449;&#20837;&#23616;&#29420;&#31435;&#28216;&#25103;&#65292;&#20844;&#24067;&#12298;&#26025;&#22934;&#34892;&#12299;&#31561;&#20116;&#27454;&#28216;&#25103;&#20135;&#21697;</p>
+<p>5.58&#21516;&#22478;&#24067;&#23616;&#23456;&#29289;&#24066;&#22330;&#65292;&#23002;&#21170;&#27874;&#38388;&#25509;&#25345;&#32929;&#26032;&#20844;&#21496;</p>
+<p>6.&#22269;&#23478;&#37038;&#25919;&#23616;&#37096;&#32626;&#24555;&#36882;&#26411;&#31471;&#26381;&#21153;&#36829;&#35268;&#25910;&#36153;&#28165;&#29702;&#25972;&#39039;&#24037;&#20316;</p>
+<p>7.&#20113;&#30693;&#22768;&#25512;&#20986;&#26032;&#19968;&#20195;&#26426;&#22120;&#20154;&#25805;&#20316;&#31995;&#32479;KEROS 2.0&#65292;&#24182;&#21457;&#24067;&#32874;&#32874;AI&#38506;&#20276;&#25945;&#32946;&#26426;&#22120;&#20154;</p>
+<p>8.&#32593;&#26131;&#32771;&#25289;&#27491;&#24335;&#19978;&#32447;&#30452;&#25773;&#21151;&#33021;&#65292;&#25307;&#21215;&#20840;&#32593;MCN&#26426;&#26500;&#36798;&#20154;</p>
+<p>9.&#32654;&#22918;&#26032;&#38646;&#21806;&#20844;&#21496;&#12300;&#19996;&#28857;&#35199;&#28857;&#12301;&#23436;&#25104;&#25968;&#21315;&#19975;&#20803;Pre-A&#36718;&#34701;&#36164;</p>
+<p>10.&#20013;&#21307;&#32844;&#19994;&#21457;&#23637;&#24179;&#21488;&#12300;&#37329;&#21326;&#20311;&#12301;&#23436;&#25104;&#36817;&#21315;&#19975;&#20803;A&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [德国新闻|“即使美国也无法阻挡华为!”德媒为啥得出这样的结论?](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=mjv1uLKi-AOo69inr8bkdytqs1KF5AdkwEeSFcDGONFQ7Vch8ZV-KQOIns7bqoZhjTB8F0csNkqAiTtRqTw2e4K20U9*gkQba2r9hPwK7p*2-8y2Bs*rP7kzsrgIr5Vx&new=1)
+ ## [会议报名|9月2-3日·深圳·讯石第十八届研讨会《极速5G 规模DC 创芯时代》隆重来袭 欢迎扫码报名参会(附会议议程初稿)](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=3SxogUAixJxR3zJLc0v9QwmAuEdfAw844W4RjAYbYiuJxk-u8UZeCFrZ*su8Nl*d9Yz8j*OVDiSaxkYT6IajuS2bR-kxeVLUvcmjUApEe3EL5dOPG0iowgEmy*Tku1yz&new=1)
+ > 导读     9月2-3日，讯石第十八届研讨会将在深圳麒麟山庄隆重来袭!诚邀您届时亲临现场，与行业专家学者一起共同探寻通信市场未来发展趋势。同时，讯石诚邀您报名参会或洽谈会议合作，目前会议议程已公布，报名参...
+ ## [8月伊始，31省运营商联合干一件大事，意义重大!](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=hC0w6uv5pFGsmPWeG5-QxGduFTT2FailAL1EoH4qZ9MmpqKWGJBaiWYcLdQ6QHgqtBGuW*AXO3MogzI*yBXOZQJrPJu0Bl6CiPG4Yj0k07ip6oLfdQDNQLAv1R5UmRVj&new=1)
+ > 携号转网，无疑会成为今年行业发展的一个重要的里程碑事件。可能对大多数人来说，这还是个新名词，可实际上早在1997年新加坡就已经实现了移动号码的携带，短短十年间，全球就有将近40个国家和地区实现了携号转网...
+ ## [德国新闻|“即使美国也无法阻挡华为!”德媒为啥得出这样的结论?](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=mjv1uLKi-AOo69inr8bkdytqs1KF5AdkwEeSFcDGONE6yehqBs3hP0z0KRLm4oAKDYPhRdd*bQ-uS0HHXdexwS*xJ7l1yg02o03K44n6n8OaO7FK8yCLeVfCT-A8F6PE&new=1)
  > 再没有其他任何公司像中国的华为一样，承受了来自美国总统特朗普如此巨大的压力，但华为的增长速度却比上一年同期更快。与此同时，华为也在继续与巨大的不确定性作斗争。德国《世界报》撰文《即使特朗普也无法阻...
- ## [\[深度解析\]脑机接口技术的现状与未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=GwuhrhRnj5r1pyO*VBjjfIwwmrfo08IUEAmPPIIoraXEBhR4YfssrHOvCZd1VGmn9cmwYwfurB6SYKGOcIRAgNsI6Tyn43jcFDc*dbyK31FPewtQYON7UOfl6m70--ph&new=1)
- > 一、前言通过在脑后插入一根线缆，我们就能够畅游计算机世界；只需一个意念我们就能改变“现实”；学习知识不再需要通过书本、视频等媒介，也不需要在花费大量的时间，只需直接将知识传输到大脑当中即可。这是19...
- ## [中移在线一下属公司副总被查揭秘 但”陆式风格”令人津津有味](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=hJrDKiyPd4xOPHY*5ZwVcrn5cJwKECMymtfRGMaLPx11nzFntUsF70Fk8ODNfRZ-DbUoQHicemUsqkK8czNI8xYEJsQT*flDmDfAaJIP8BP-XMoFrGzfeATwm0tzIEvp&new=1)
- > 运营商财经网 吴碧慧/文  近日，中移在线一下属公司副总被查，引发了人们对中移在线的高度关注。但实际上，调查后，运营商财经网突然发现，“陆氏风格”的中移在线与想象的有诸多不同，是一个足够在各方面引发人...
- ## [5G资费“白菜价”在做梦?中国电信5G体验套餐：每月赠送100G!](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=5wFW2pqV7q17zDHp6NwNQeUxze8uEf5aKFTAzpYnWH5Id2wnMSYlLFAZU9s-NV6jOi1myWyAWQ1OzKxi4Xt*R*SKidTA9PkkWt2mli0EKRhHPLncaqiXM0AuK25N3W9Q&new=1)
+ ## [5G资费“白菜价”在做梦?中国电信5G体验套餐：每月赠送100G!](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=5wFW2pqV7q17zDHp6NwNQeUxze8uEf5aKFTAzpYnWH49BF2Ssa*PnHUzDzNeFWnlw*y*xRJTkVBCCobLo5GDid5Y6vWSiWwZitEASL-ThP967tMhiI037kuOy6KbcHnS&new=1)
  > 近日，国内首款获得入网许可证的5G手机——华为Mate 20X 5G版正式发布， 5G手机离用户更进了一步，小编也终于对天天追问还有多久能购买5G手机的小伙伴有个交代。据小编了解，今年下半年，国内市场会有一大批5G国...
- ## [利用ZEMAX进行长波红外消热差系统设计](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=7U179BnYPnUfLLYvTc5IERPPG8V2GbaI06cpPEurtV4CFNQVHWH2Ssa691OEnmGdj0oJ1OyVYRsEV81x3xkXyYvNM6bTHAHGAnVu8YT2IUEJERIQ5k0UyVCBn*PoP*t*&new=1)
+ ## [利用ZEMAX进行长波红外消热差系统设计](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=7U179BnYPnUfLLYvTc5IERPPG8V2GbaI06cpPEurtV7yhVuuqX-bXUmuFIzYsUChf1LrU5Rh-zEDn2TEUc3D75QjNtMvMfTXZ8Ze4B6pph-BBAdcqXhS4hFHPTAY5cMz&new=1)
  > 通常，红外光学系统所处的使用环境都在常温常压下，未考虑温度变化等因素对光学系统成像质量的影响。然而对于特殊用途的红外光学系统而言，所处的环境温度会有很大的变化。当温度改变时，由于光学材料与结构材料...
+ ## [\[深度解析\]脑机接口技术的现状与未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=GwuhrhRnj5r1pyO*VBjjfIwwmrfo08IUEAmPPIIoraVUDL9yVhD0vJxB8EeutoJ*fhTN7*K4TtZQrN7vVaL84h8ck96YskEfhbzXhcW6EvXpo-MvRJFHSG0ipQjo6t1r&new=1)
+ > 一、前言通过在脑后插入一根线缆，我们就能够畅游计算机世界；只需一个意念我们就能改变“现实”；学习知识不再需要通过书本、视频等媒介，也不需要在花费大量的时间，只需直接将知识传输到大脑当中即可。这是19...
+ ## [中移在线一下属公司副总被查揭秘 但”陆式风格”令人津津有味](http://mp.weixin.qq.com/s?src=11&timestamp=1564711205&ver=1765&signature=hJrDKiyPd4xOPHY*5ZwVcrn5cJwKECMymtfRGMaLPx3DXQ7m-Oj9hGSYNK2hfGon-pc0l6r2yGIA81QBIx6MzUUBwfyzJUErfS9XBcaMyoAruKZKZT*eVtVcbPTzMW3t&new=1)
+ > 运营商财经网 吴碧慧/文  近日，中移在线一下属公司副总被查，引发了人们对中移在线的高度关注。但实际上，调查后，运营商财经网突然发现，“陆氏风格”的中移在线与想象的有诸多不同，是一个足够在各方面引发人...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,58 +77,36 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
- ## [思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实](http://news.51cto.com/art/201908/600676.htm)
- > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
- ## [一个员工的离职成本到底有多恐怖！](http://news.51cto.com/art/201908/600665.htm)
- > 一个员工的离职成本到底有多恐怖！
- ## [公共云供应商获益颇丰，谁将最终胜出](http://cloud.51cto.com/art/201908/600655.htm)
- > 公共云供应商获益颇丰，谁将最终胜出
- ## [做目标检测，这一篇就够了！2019全面目标检测指南](http://zhuanlan.51cto.com/art/201908/600641.htm)
- > 做目标检测，这一篇就够了！2019全面目标检测指南
- ## [10分钟彻底理解Redis持久化和主从复制](http://database.51cto.com/art/201908/600612.htm)
- > 10分钟彻底理解Redis持久化和主从复制
- ## [值得关注的十大跨浏览器的测试工具](http://developer.51cto.com/art/201908/600606.htm)
- > 值得关注的十大跨浏览器的测试工具
- ## [Linux零拷贝技术，看完这篇文章就懂了](http://os.51cto.com/art/201908/600627.htm)
- > Linux零拷贝技术，看完这篇文章就懂了
- ## [如何在AWS中使用Lightsail来创建虚拟机？](http://virtual.51cto.com/art/201908/600505.htm)
- > 如何在AWS中使用Lightsail来创建虚拟机？
- ## [六种常用的微服务架构设计模式](http://developer.51cto.com/art/201908/600680.htm)
- > 简单地说，API主导的连接方法可以被看作是API设计的一种分层方法(至少在本文中是这样)。其中，系统API公开
- ## [物联网在啤酒行业的应用](http://iot.51cto.com/art/201908/600679.htm)
- > 控制生产流程和了解消费者行为是物联网(IoT)的两大好处。啤酒行业也不例外。他们开始应用物联网解决方案来
- ## [当今的工业企业如何从物联网中获益](http://iot.51cto.com/art/201908/600678.htm)
- > 在工业领域，工业物联网(IIoT)应用，如资产跟踪、预测性维护和数字双胞胎，已经成为重中之重。企业发现了哪
- ## [将MySQL去重操作优化到极致](https://blog.csdn.net/wzy0623/article/details/97918038)
- > 将MySQL去重操作优化到极致
- ## [选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！](https://blog.csdn.net/CSDN___Jack/article/details/97170312)
- > 选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！
- ## [人生感悟-是留丰碑还是墓碑](https://blog.csdn.net/ckkboy/article/details/97022438)
- > 人生感悟-是留丰碑还是墓碑
- ## [编程语言大视界丨未来三年，那种编程语言最流行？程序员学哪种编程语言最好？](https://blog.csdn.net/CSDN___Jack/article/details/97135756)
- > 编程语言大视界丨未来三年，那种编程语言最流行？程序员学哪种编程语言最好？
- ## [编程语言千千万，为什么学习Python的占一半？](https://blog.csdn.net/PyhtonChen/article/details/96589909)
- > 编程语言千千万，为什么学习Python的占一半？
- ## [编程语言中常用的变量命名缩写](https://blog.csdn.net/qq_37851620/article/details/94731227)
- > 编程语言中常用的变量命名缩写
- ## [HTML：一种标记语言而不是编程语言（11.0）](https://blog.csdn.net/qq_40061206/article/details/95356427)
- > HTML：一种标记语言而不是编程语言（11.0）
- ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
- > 开启技术之旅——我的第一篇博客
- ## [程序人生|毕业一年有感](https://blog.csdn.net/nobody_1/article/details/96801942)
- > 程序人生|毕业一年有感
- ## [各类编程语言中static关键字的用法](https://blog.csdn.net/lvlynn/article/details/95348232)
- > 各类编程语言中static关键字的用法
- ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
- > 程序帝国四大操作之单表新增
- ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
- > 软件设计师考试经历
- ## [构建Hadoop集群实验](https://blog.csdn.net/qq_41614928/article/details/96561255)
- > 构建Hadoop集群实验
- ## [大数据、物联网和云计算市场上的经验和规律](https://blog.csdn.net/okmjsayu/article/details/95105082)
- > 大数据、物联网和云计算市场上的经验和规律
- ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
- > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
+ ## [音视频格式介绍](https://blog.csdn.net/LUOHUATINGYUSHENG/article/details/96024814)
+ > 音视频格式介绍
+ ## [抖音视频免费去水印的方法](https://blog.csdn.net/qwqwqq/article/details/94344817)
+ > 抖音视频免费去水印的方法
+ ## [Java基础（一）环境变量的配置和如何运行自己的第一个java文件](https://blog.csdn.net/qq_41615348/article/details/95585175)
+ > Java基础（一）环境变量的配置和如何运行自己的第一个java文件
+ ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
+ > 万能音视频转换器：Permute 3 for mac
+ ## [音视频架构的三部分之CDN（二）](https://blog.csdn.net/weixin_40763897/article/details/95523898)
+ > 音视频架构的三部分之CDN（二）
+ ## [音视频的相关名词、术语、概念](https://blog.csdn.net/weixin_40763897/article/details/94590798)
+ > 音视频的相关名词、术语、概念
+ ## [苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了](https://blog.csdn.net/WoChaotian_/article/details/95448657)
+ > 苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
+ > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [小白学C语言 数组篇](https://blog.csdn.net/Ningmenmao/article/details/96779887)
+ > 小白学C语言 数组篇
+ ## [Window基础（黑客基础）](https://blog.csdn.net/weixin_43460822/article/details/95050966)
+ > Window基础（黑客基础）
+ ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
+ > 音视频开发--音视频的基础知识--音频
+ ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
+ > JAVA基础的基础1.0
+ ## [【Linux】基于Mplayer开源多媒体库的音视频播放器](https://blog.csdn.net/zhong_senvi/article/details/96567620)
+ > 【Linux】基于Mplayer开源多媒体库的音视频播放器
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [腾讯发力研发文化升级，宣布加入Linux基金会TODO 工作组](https://blog.csdn.net/csdnnews/article/details/98085537)
@@ -116,37 +114,47 @@ categories: IT NEWS
  ## [B站欲借虚拟艺人业务突围，尚需跨过成本、技术两道坎](http://www.lanjingtmt.com/news/detail/44009.shtml)
  > 在发力虚拟艺人业务后，这项业务的发展情况及盈利能力对B站而言就显得特别重要，不过由于虚拟艺人演出对技术要求极高，制作成本也居高不下，短期内或仍难以帮助B站突围。
 # 人工智能 
- ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
- > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
- ## [基于物联网的智能家居](https://blog.csdn.net/weixin_43532158/article/details/95323836)
- > 基于物联网的智能家居
- ## [物联卡智能扫描设备可以保障产品安全？](https://blog.csdn.net/qq_40798435/article/details/95353234)
- > 物联卡智能扫描设备可以保障产品安全？
- ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
- > Rancher安装、部署、使用
- ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
- > 【Docker】Docker-compose容器编排的使用
- ## [什么是物联网？物联网如何工作？](https://blog.csdn.net/qq_43359864/article/details/96474209)
- > 什么是物联网？物联网如何工作？
- ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
- > 【Docker】Swarm集群的配置与管理
- ## [物联网设备的使用案例及管理系统](https://blog.csdn.net/qq_43359864/article/details/97101946)
- > 物联网设备的使用案例及管理系统
- ## [物联网卡拉开智能家居变革序幕](https://blog.csdn.net/qq_40798435/article/details/94740789)
- > 物联网卡拉开智能家居变革序幕
- ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
- > 物联网的发展与应用
- ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
- > 基于云计算与大数据应用开发的论述
- ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
- > 大数据和云计算技术周报（第110期)
- ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
- > 持续集成管理软件Jenkins应用实验
- ## [必知必会的大数据和云计算学习知识点，分享教学视频](https://blog.csdn.net/qq_43958076/article/details/96564293)
- > 必知必会的大数据和云计算学习知识点，分享教学视频
+ ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
+ > ULAM公链第五周周报
+ ## [反爬虫业务安全概览](https://blog.csdn.net/weixin_44044225/article/details/95637131)
+ > 反爬虫业务安全概览
+ ## [web前端与安全](https://blog.csdn.net/qq_43613144/article/details/96431049)
+ > web前端与安全
+ ## [Web安全之代码执行漏洞](https://blog.csdn.net/qq_37133717/article/details/94760485)
+ > Web安全之代码执行漏洞
+ ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
+ > 携程敏捷总动员
+ ## [区块链未来的发展趋势是怎样的？](https://blog.csdn.net/Gendan5/article/details/96871372)
+ > 区块链未来的发展趋势是怎样的？
+ ## [7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜](https://blog.csdn.net/yidunmarket/article/details/96500371)
+ > 7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜
+ ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
+ > Atlassian In Action-Jira之推荐插件（四）
+ ## [区块链对区块链金融有什么作用？](https://blog.csdn.net/kaihuiguoji/article/details/90671898)
+ > 区块链对区块链金融有什么作用？
+ ## [想了解Robot Global的看这里！](https://blog.csdn.net/weixin_45447706/article/details/97131647)
+ > 想了解Robot Global的看这里！
+ ## [区块链与比特币有什么关系？](https://blog.csdn.net/Kryskalqiqi0321/article/details/96836060)
+ > 区块链与比特币有什么关系？
+ ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
+ > 《白帽子讲Web安全》| 学习笔记之Web框架安全
+ ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
+ > 区块链技术原理是怎样的？
+ ## [区块链未来三年将成为数字中国建设的重要支撑](https://blog.csdn.net/Bitrade/article/details/94748962)
+ > 区块链未来三年将成为数字中国建设的重要支撑
+ ## [提权与信息收集-安全牛学习笔记](https://blog.csdn.net/xlsj228/article/details/94777951)
+ > 提权与信息收集-安全牛学习笔记
 # PM 
+ ## [一份全面的“界面设计论述”是怎样的？](http://www.woshipm.com/pd/2662062.html)
+ > 本文以界面设计为题，介绍了界面设计中不同板块的内容与设计要点，同时还向我们介绍了如何进行界面设计的优化。1. 什么是界面设计用户与软件系统交互信息的媒介。1....
+ ## [设计师专业表达指南——形式篇](http://www.woshipm.com/pd/2661281.html)
+ > 之前花了三篇小文（链接在文末），讲述如何提升设计师设计作品的内在含金量，今天，我们将重点聊聊如何提升设计作品的外在专业性——交互文档的呈现形式。形式感的重要...
+ ## [“人设”在运营工作中的应用](http://www.woshipm.com/operate/2661679.html)
+ > 在运营中，“人设”的应用，能够将产品拟人化，使用户在与产品的互动中形成与“人”互动的感觉，提高用户体验效果。人设，人物设定的简称，包括人物的基本形象、性格特征...
+ ## [网红品牌：生于流量，败给信任](http://www.woshipm.com/marketing/2662336.html)
+ > 成为网红，只是品牌迈出的第一步，像是走上舞台，拥有了一束聚光灯，能否把这场戏演好，还要看后续的努力经营。2018-2019年是新锐消费品牌的元年：抖音、快手、小红书...
+ ## [微商模式下，商品销售、运营的创新](http://www.woshipm.com/operate/2502104.html)
+ > 曾经，大众“谈微商色变”，抵触之情不言而喻。但如今，微商却向我们展现了独特的商品销售、运营创新价值。很多人对微商坚持无法信任的态度，可是，除了朋友圈的分享让...
  ## [不想被开发锤？教你梳理一份细节完整的需求](http://www.woshipm.com/pmd/2659698.html)
  > 写需求文档对于产品经理而言是一个逃不掉的工作内容，只有多总结多反思，积累经验教训，才能更好的与开发探（si）讨（bi）。在互联网行业，一个需求要得到实现，首先...
  ## [线上课程 | 产品秋招将至，你准备好了吗？](http://www.woshipm.com/active/2624738.html)
