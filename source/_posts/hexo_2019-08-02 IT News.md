@@ -1,21 +1,21 @@
 ---
 title: 2019-08-02 IT News
 copyright: true
-date: 2019-08-02 08:01:01
+date: 2019-08-02 09:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[深度解析\]脑机接口技术的现状与未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1564704005&ver=1765&signature=GwuhrhRnj5r1pyO*VBjjfIwwmrfo08IUEAmPPIIoraXEBhR4YfssrHOvCZd1VGmnPnxFu9fQTY*EmxPcNUZHEVQgSePQjiTvGoW8OaB9M7*r-2DMgYzdxnaxZL5PhMiU&new=1)
- > 一、前言通过在脑后插入一根线缆，我们就能够畅游计算机世界；只需一个意念我们就能改变“现实”；学习知识不再需要通过书本、视频等媒介，也不需要在花费大量的时间，只需直接将知识传输到大脑当中即可。这是19...
- ## [德国新闻|“即使美国也无法阻挡华为!”德媒为啥得出这样的结论?](http://mp.weixin.qq.com/s?src=11&timestamp=1564704005&ver=1765&signature=mjv1uLKi-AOo69inr8bkdytqs1KF5AdkwEeSFcDGONFQ7Vch8ZV-KQOIns7bqoZhy9YudHL9zq7qG81oPKA3eGHvg9Ro8POLFNhWzifOmEPG*fIHKrYA1xACKDhL4gpH&new=1)
+ ## [德国新闻|“即使美国也无法阻挡华为!”德媒为啥得出这样的结论?](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=mjv1uLKi-AOo69inr8bkdytqs1KF5AdkwEeSFcDGONFQ7Vch8ZV-KQOIns7bqoZhjTB8F0csNkqAiTtRqTw2e4K20U9*gkQba2r9hPwK7p*2-8y2Bs*rP7kzsrgIr5Vx&new=1)
  > 再没有其他任何公司像中国的华为一样，承受了来自美国总统特朗普如此巨大的压力，但华为的增长速度却比上一年同期更快。与此同时，华为也在继续与巨大的不确定性作斗争。德国《世界报》撰文《即使特朗普也无法阻...
- ## [利用ZEMAX进行长波红外消热差系统设计](http://mp.weixin.qq.com/s?src=11&timestamp=1564704005&ver=1765&signature=7U179BnYPnUfLLYvTc5IERPPG8V2GbaI06cpPEurtV4CFNQVHWH2Ssa691OEnmGdlfvVpCW-d0kzEx4RmRr4DGYja54KmulJAOZCng0qkpuXtFYxEFd7E-imReOU95Ta&new=1)
- > 通常，红外光学系统所处的使用环境都在常温常压下，未考虑温度变化等因素对光学系统成像质量的影响。然而对于特殊用途的红外光学系统而言，所处的环境温度会有很大的变化。当温度改变时，由于光学材料与结构材料...
- ## [5G资费“白菜价”在做梦?中国电信5G体验套餐：每月赠送100G!](http://mp.weixin.qq.com/s?src=11&timestamp=1564704005&ver=1765&signature=5wFW2pqV7q17zDHp6NwNQeUxze8uEf5aKFTAzpYnWH5Id2wnMSYlLFAZU9s-NV6j*GaMl0ebwaAv9EXOS6rDiaXKAN25yUnlPtByx-hwiWK7emhRA0H5AsfofWjPVEtn&new=1)
- > 近日，国内首款获得入网许可证的5G手机——华为Mate 20X 5G版正式发布， 5G手机离用户更进了一步，小编也终于对天天追问还有多久能购买5G手机的小伙伴有个交代。据小编了解，今年下半年，国内市场会有一大批5G国...
- ## [中移在线一下属公司副总被查揭秘 但”陆式风格”令人津津有味](http://mp.weixin.qq.com/s?src=11&timestamp=1564704005&ver=1765&signature=hJrDKiyPd4xOPHY*5ZwVcrn5cJwKECMymtfRGMaLPx11nzFntUsF70Fk8ODNfRZ-57Tg01xUUyOIrK30PGPAUg0gBjg-g2br*WyR54iWJjx-*xDm-qMyUx8kSQZWQh1K&new=1)
+ ## [\[深度解析\]脑机接口技术的现状与未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=GwuhrhRnj5r1pyO*VBjjfIwwmrfo08IUEAmPPIIoraXEBhR4YfssrHOvCZd1VGmn9cmwYwfurB6SYKGOcIRAgNsI6Tyn43jcFDc*dbyK31FPewtQYON7UOfl6m70--ph&new=1)
+ > 一、前言通过在脑后插入一根线缆，我们就能够畅游计算机世界；只需一个意念我们就能改变“现实”；学习知识不再需要通过书本、视频等媒介，也不需要在花费大量的时间，只需直接将知识传输到大脑当中即可。这是19...
+ ## [中移在线一下属公司副总被查揭秘 但”陆式风格”令人津津有味](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=hJrDKiyPd4xOPHY*5ZwVcrn5cJwKECMymtfRGMaLPx11nzFntUsF70Fk8ODNfRZ-DbUoQHicemUsqkK8czNI8xYEJsQT*flDmDfAaJIP8BP-XMoFrGzfeATwm0tzIEvp&new=1)
  > 运营商财经网 吴碧慧/文  近日，中移在线一下属公司副总被查，引发了人们对中移在线的高度关注。但实际上，调查后，运营商财经网突然发现，“陆氏风格”的中移在线与想象的有诸多不同，是一个足够在各方面引发人...
+ ## [5G资费“白菜价”在做梦?中国电信5G体验套餐：每月赠送100G!](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=5wFW2pqV7q17zDHp6NwNQeUxze8uEf5aKFTAzpYnWH5Id2wnMSYlLFAZU9s-NV6jOi1myWyAWQ1OzKxi4Xt*R*SKidTA9PkkWt2mli0EKRhHPLncaqiXM0AuK25N3W9Q&new=1)
+ > 近日，国内首款获得入网许可证的5G手机——华为Mate 20X 5G版正式发布， 5G手机离用户更进了一步，小编也终于对天天追问还有多久能购买5G手机的小伙伴有个交代。据小编了解，今年下半年，国内市场会有一大批5G国...
+ ## [利用ZEMAX进行长波红外消热差系统设计](http://mp.weixin.qq.com/s?src=11&timestamp=1564707605&ver=1765&signature=7U179BnYPnUfLLYvTc5IERPPG8V2GbaI06cpPEurtV4CFNQVHWH2Ssa691OEnmGdj0oJ1OyVYRsEV81x3xkXyYvNM6bTHAHGAnVu8YT2IUEJERIQ5k0UyVCBn*PoP*t*&new=1)
+ > 通常，红外光学系统所处的使用环境都在常温常压下，未考虑温度变化等因素对光学系统成像质量的影响。然而对于特殊用途的红外光学系统而言，所处的环境温度会有很大的变化。当温度改变时，由于光学材料与结构材料...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,38 +73,42 @@ categories: IT NEWS
  > Linux零拷贝技术，看完这篇文章就懂了
  ## [如何在AWS中使用Lightsail来创建虚拟机？](http://virtual.51cto.com/art/201908/600505.htm)
  > 如何在AWS中使用Lightsail来创建虚拟机？
+ ## [六种常用的微服务架构设计模式](http://developer.51cto.com/art/201908/600680.htm)
+ > 简单地说，API主导的连接方法可以被看作是API设计的一种分层方法(至少在本文中是这样)。其中，系统API公开
+ ## [物联网在啤酒行业的应用](http://iot.51cto.com/art/201908/600679.htm)
+ > 控制生产流程和了解消费者行为是物联网(IoT)的两大好处。啤酒行业也不例外。他们开始应用物联网解决方案来
  ## [当今的工业企业如何从物联网中获益](http://iot.51cto.com/art/201908/600678.htm)
  > 在工业领域，工业物联网(IIoT)应用，如资产跟踪、预测性维护和数字双胞胎，已经成为重中之重。企业发现了哪
- ## [CSDN日报190801：如何高效学习正则表达式](https://blog.csdn.net/blogdevteam/article/details/98068851)
- > CSDN日报190801：如何高效学习正则表达式
- ## [音视频开发--音视频的基础知识--视频](https://blog.csdn.net/qq_28877125/article/details/94911383)
- > 音视频开发--音视频的基础知识--视频
- ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
- > 音视频开发--音视频的基础知识--音频
- ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
- > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
- ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
- > WebRTC系列 - 源码编译等
- ## [C++连连看游戏开发，简单编程实例，一看就会！](https://blog.csdn.net/weixin_44679141/article/details/95352625)
- > C++连连看游戏开发，简单编程实例，一看就会！
- ## [白帽子讲Web安全-客户端脚本安全](https://blog.csdn.net/u010019721/article/details/96143950)
- > 白帽子讲Web安全-客户端脚本安全
- ## [web前端与安全](https://blog.csdn.net/qq_43613144/article/details/96431049)
- > web前端与安全
- ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
- > Win32 游戏开发：贪吃蛇 上篇
- ## [Unity3D  (新)SteamVR 2.0手柄输入与震动](https://blog.csdn.net/qq_34229678/article/details/96970866)
- > Unity3D  (新)SteamVR 2.0手柄输入与震动
- ## [Unity3D Network如何限制玩家人数](https://blog.csdn.net/qq_34229678/article/details/96156404)
- > Unity3D Network如何限制玩家人数
- ## [交换安全（局域网安全）](https://blog.csdn.net/weixin_44597061/article/details/96757358)
- > 交换安全（局域网安全）
- ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
- > 音视频开发基础学习-----视频与音频原始格式
- ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
- > 抖音视频置顶？抖音视频置顶功能全解！
- ## [python棋牌游戏开发之斗地主](https://blog.csdn.net/qq_42471773/article/details/95512797)
- > python棋牌游戏开发之斗地主
+ ## [将MySQL去重操作优化到极致](https://blog.csdn.net/wzy0623/article/details/97918038)
+ > 将MySQL去重操作优化到极致
+ ## [选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！](https://blog.csdn.net/CSDN___Jack/article/details/97170312)
+ > 选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！
+ ## [人生感悟-是留丰碑还是墓碑](https://blog.csdn.net/ckkboy/article/details/97022438)
+ > 人生感悟-是留丰碑还是墓碑
+ ## [编程语言大视界丨未来三年，那种编程语言最流行？程序员学哪种编程语言最好？](https://blog.csdn.net/CSDN___Jack/article/details/97135756)
+ > 编程语言大视界丨未来三年，那种编程语言最流行？程序员学哪种编程语言最好？
+ ## [编程语言千千万，为什么学习Python的占一半？](https://blog.csdn.net/PyhtonChen/article/details/96589909)
+ > 编程语言千千万，为什么学习Python的占一半？
+ ## [编程语言中常用的变量命名缩写](https://blog.csdn.net/qq_37851620/article/details/94731227)
+ > 编程语言中常用的变量命名缩写
+ ## [HTML：一种标记语言而不是编程语言（11.0）](https://blog.csdn.net/qq_40061206/article/details/95356427)
+ > HTML：一种标记语言而不是编程语言（11.0）
+ ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
+ > 开启技术之旅——我的第一篇博客
+ ## [程序人生|毕业一年有感](https://blog.csdn.net/nobody_1/article/details/96801942)
+ > 程序人生|毕业一年有感
+ ## [各类编程语言中static关键字的用法](https://blog.csdn.net/lvlynn/article/details/95348232)
+ > 各类编程语言中static关键字的用法
+ ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
+ > 程序帝国四大操作之单表新增
+ ## [软件设计师考试经历](https://blog.csdn.net/yulungggg/article/details/94861848)
+ > 软件设计师考试经历
+ ## [构建Hadoop集群实验](https://blog.csdn.net/qq_41614928/article/details/96561255)
+ > 构建Hadoop集群实验
+ ## [大数据、物联网和云计算市场上的经验和规律](https://blog.csdn.net/okmjsayu/article/details/95105082)
+ > 大数据、物联网和云计算市场上的经验和规律
+ ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
+ > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [腾讯发力研发文化升级，宣布加入Linux基金会TODO 工作组](https://blog.csdn.net/csdnnews/article/details/98085537)
@@ -112,37 +116,49 @@ categories: IT NEWS
  ## [B站欲借虚拟艺人业务突围，尚需跨过成本、技术两道坎](http://www.lanjingtmt.com/news/detail/44009.shtml)
  > 在发力虚拟艺人业务后，这项业务的发展情况及盈利能力对B站而言就显得特别重要，不过由于虚拟艺人演出对技术要求极高，制作成本也居高不下，短期内或仍难以帮助B站突围。
 # 人工智能 
- ## [day-012--图形用户界面和游戏开发](https://blog.csdn.net/weixin_36628778/article/details/96507085)
- > day-012--图形用户界面和游戏开发
- ## [人工智能数学基础-概率论与数理统计](https://blog.csdn.net/p515659704/article/details/94621442)
- > 人工智能数学基础-概率论与数理统计
- ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
- > 建筑施工借助物联网卡保障高楼安全
- ## [Ruff物联网开发套件轻松入门](https://blog.csdn.net/u010089686/article/details/96485378)
- > Ruff物联网开发套件轻松入门
- ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
- > MQTT物联网通信协议概论
- ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
- > 人工智能实践：Tensrfow笔记
- ## [关注物联网、关注NB-IoT](https://blog.csdn.net/qq_36075612/article/details/97110898)
- > 关注物联网、关注NB-IoT
- ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
- > 学习 Unity 3D游戏开发日常笔记（C 第三周）
+ ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
+ > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
+ ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
+ > Atlassian In Action-Jira之核心插件（三）
+ ## [基于物联网的智能家居](https://blog.csdn.net/weixin_43532158/article/details/95323836)
+ > 基于物联网的智能家居
  ## [物联卡智能扫描设备可以保障产品安全？](https://blog.csdn.net/qq_40798435/article/details/95353234)
  > 物联卡智能扫描设备可以保障产品安全？
- ## [人工智能与机器学习的区别](https://blog.csdn.net/yoggieCDA/article/details/96481758)
- > 人工智能与机器学习的区别
+ ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
+ > Rancher安装、部署、使用
+ ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
+ > 【Docker】Docker-compose容器编排的使用
+ ## [什么是物联网？物联网如何工作？](https://blog.csdn.net/qq_43359864/article/details/96474209)
+ > 什么是物联网？物联网如何工作？
+ ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
+ > 【Docker】Swarm集群的配置与管理
+ ## [物联网设备的使用案例及管理系统](https://blog.csdn.net/qq_43359864/article/details/97101946)
+ > 物联网设备的使用案例及管理系统
  ## [物联网卡拉开智能家居变革序幕](https://blog.csdn.net/qq_40798435/article/details/94740789)
  > 物联网卡拉开智能家居变革序幕
- ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
- > Win32 游戏开发：贪吃蛇 上篇
- ## [Python图形界面游戏开发](https://blog.csdn.net/PyhtonChen/article/details/96149214)
- > Python图形界面游戏开发
- ## [物联网专用数据交换格式CBOR](https://blog.csdn.net/xukai871105/article/details/96607961)
- > 物联网专用数据交换格式CBOR
- ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
- > 物联网、工业互联网大数据的特点
+ ## [物联网的发展与应用](https://blog.csdn.net/weixin_43272781/article/details/94891083)
+ > 物联网的发展与应用
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
+ > 大数据和云计算技术周报（第110期)
+ ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
+ > 持续集成管理软件Jenkins应用实验
+ ## [必知必会的大数据和云计算学习知识点，分享教学视频](https://blog.csdn.net/qq_43958076/article/details/96564293)
+ > 必知必会的大数据和云计算学习知识点，分享教学视频
 # PM 
+ ## [不想被开发锤？教你梳理一份细节完整的需求](http://www.woshipm.com/pmd/2659698.html)
+ > 写需求文档对于产品经理而言是一个逃不掉的工作内容，只有多总结多反思，积累经验教训，才能更好的与开发探（si）讨（bi）。在互联网行业，一个需求要得到实现，首先...
+ ## [线上课程 | 产品秋招将至，你准备好了吗？](http://www.woshipm.com/active/2624738.html)
+ > 互联网秋招即将全面开启，对于想成为产品经理的应届生来说，这个时机绝对不能错过，因为：秋招持续时间长：从9月一直延续到11月；秋招产品岗位多：占企业每年校招数...
+ ## [电商运营之站内搜索全面指南（四）](http://www.woshipm.com/operate/2654368.html)
+ > 继上文讲到的搜索目录和商品描述的作用与重要性后，本文进一步盘点搜索运营的逻辑，并从搜索结果页、词性分析、模块分析三个部分进行分析。上一章我给大家捋了捋搜索...
+ ## [用户体验：表单设计中的注意事项](http://www.woshipm.com/pd/2660027.html)
+ > 在下面的这篇文章中，我们来看看有助于你设计不同可用性表单的10个最佳实践，希望它对设计人员和开发人员都有用，玩得开心。好吧，让我们开始吧！“表单”是什么意思，...
+ ## [未来五年，缺乏这五种能力的市场人员或将被淘汰](http://www.woshipm.com/it/2661094.html)
+ > 新媒体时代，媒介渠道错综复杂，用户的喜好瞬息万变，现实俨然已给市场人提出了更高的要求。市场从业者不能是一枚孤零零的螺丝钉，从事某项专业而固定的工作，而是需要...
+ ## [数据分析学习笔记：明确问题与假设检验法](http://www.woshipm.com/zhichang/2661033.html)
+ > 大家有没有发现，随着数据的积累，对数据的分析显得越来越重要，数据分析能力也成为了产品经理必备的技能之一。下面分享个人的学习笔记，文末也附上了一些互联网数据分...
  ## [产品经理周报第 77 期｜微博正在内测新功能“账号临时停用”功能；朋友圈广告推出限时推广模式……](http://www.woshipm.com/it/2660237.html)
  > 大家周五早上好呀，过完今天又可以休息啦~最近台风季又来了，在广东福建等地区的小伙伴出行要注意安全呀那我们现在，来了解一下这周都发生一些什么事情吧！☟☟☟ St...
  ## [热门文章排行榜，如何用牛顿冷却定律处理时间衰减和权重问题](http://www.chanpin100.com/article/109122)
