@@ -1,20 +1,28 @@
 ---
 title: 2019-08-03 IT News
 copyright: true
-date: 2019-08-03 09:01:33
+date: 2019-08-03 10:01:32
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [游戏厂商出海：看九翎网络如何克服“水土不服”|游戏干线](http://mp.weixin.qq.com/s?src=11&timestamp=1564794005&ver=1767&signature=nWyrQkfI5Np0YxDFfAk870qKneJEplCx8pJofaDYzYTyWsAxRgB2zMMibx7aLAFzktRrTLqhxVvAHPMcpFgpzj52N4sJs1JxPLxTfQW8QZ*AfV4GEObcL*nSMvTWFIpp&new=1)
- > 导对于与华为云展开合作，九翎在经过对几家云服务提供商进行对比后，得出的结论便是“华为云的解决方案最值得信赖”。在刚刚结束的“华为云数字娱乐产业高峰论坛”上，云计算、5G、VR、AI等关键词不绝于耳，各种...
- ## [中国电信一口气任命了6个首席专家 岗级高达25级](http://mp.weixin.qq.com/s?src=11&timestamp=1564794005&ver=1767&signature=NWSZoWYww8UB75V854sNdTLhpvsTYRD2H1**PsyOVFtXYypr40k8*-1Z0tIi-tBbQt7fr0a7OZBTSrzYJ4I9IyJVYXxfq3RM0cqHDBkVXk2SCHhBccQFU6H6qVyiqyPd&new=1)
- > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，继授予原总工程师“中国电信科学家”称号之后，中国电信又聘任了集团层面的6名首席专家，而且待遇惊人，均为专业25级，相当于省公司副总经理级别。 6名...
- ## [微软官方上线了Python教程，7个章节就把Python说通了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564794005&ver=1767&signature=XPqCk1fXsncqO4z7wBXHpCVoAovgKLkc-OdOIwsTrmXm4f4buthTVW5Ltf5sxhs-2-vTLQVofPKGwRmffQcIt276nz1TNbPb9NH9FPragnLJDK8UrReZaOSdxtIkW3SM&new=1)
- > 程序员书库（ID：OpenSourceTop）综合整理链接：https://docs.microsoft.com/zh-cn/windows/python/近日，微软上线了一套 Python 教程《Develop with Python o
- ## [Sandman Studios联合创始人周旭东：艺术+大空间沉浸体验《浮生一刻》，积极探索沉浸式戏剧的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1564794005&ver=1767&signature=q4wXVy8aa5jlaFM944-mbyK5EPCRCDGfJXsO*-A2Plx9aaUKBoqEp-ZGItGmw2kNLVlSoLnXvDmSJWrCElTp0VeqjOWi3fy6-1BqWM1ANmSkCgX3q9jiHBYhJxSg8qyl&new=1)
+ ## [Sandman Studios联合创始人周旭东：艺术+大空间沉浸体验《浮生一刻》，积极探索沉浸式戏剧的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=q4wXVy8aa5jlaFM944-mbyK5EPCRCDGfJXsO*-A2Plx9aaUKBoqEp-ZGItGmw2kNQMPo41PEfhf*bP*i-tYT01D5Jf*xZ4W9RTHX9gMWvGwENxkPcgLkBFzWrcU9AjRi&new=1)
  > 《浮生一刻》，一款关于探索自我的新形式、多技术结合的沉浸交互体验。正文共 3305 字 11 图；预计阅读时间 11 分钟 从“Jaunt彻底抽身VR市场”到“IMAX关闭全部7家VR中心”，去年一年一系列事件再加上VR影视作...
- ## [无限流量全面取消，流量要涨价了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564794005&ver=1767&signature=amDbEnoR-E9UMeNUlmy0Bk2dTWO*Dp2D7GXjX0AU0-YckPWIJHeh5rgVYs6KWe59DJn0F8KAjSev3RzzefwVspj8xxD0UQCQuvqpBPnDyZ714fHR-rfGpXgnqTJ2LMjC&new=1)
+ ## [\[科技早报7点整\]马化腾谈移动支付 全球最吸金视频App 排行韩国5G调查……](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=UnF0h-lcyVuZWDMOWunYt6cArA4RL7BBM6xpwQJ8tX2SznjIh11HbNlmL0yWaoAUPBssO4oRIziGx7lwSeWxJO8*EhGI7ZWRE6Scri8NDklUvY1ARns*TPIN3BMRHie9&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第549期1.百度通报12起内部腐败事件：严重者将送公安部门处理 针对百度内部邮件通报数十起内部严重违纪案件的消息，百度回应称：公司高度重视廉政建设，员工一旦触犯都绝不姑息...
+ ## [重磅!中国联通突传大消息，没想到竟然来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=fKlSOLc3UrKcGqlRX-B9qPJHXf787K4pqyhMj7Z127IOMX4EIha3ppr8dvldpHPcIY7nHtwPMiGUkayvHc9iPvv8AE2cbxqeJkBBpDE*xozQNK3juD-7NoSv6OTZMjK6&new=1)
+ > 一太快了！所有人都知道要来，却没想到来得那么快。刚刚，联通公司重磅宣布：自工信部6月6日正式发放5G商用牌照以来，我公司抓紧推进5G网络建设，积极准备正式商用。在正式商用前，为满足5G手机客户体验5G网络需...
+ ## [自行车实现无人驾驶，背后究竟有何“天机”?](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=-W4vxu6-cT1hZqHCMPtRNRU7xTk2uHLsPvcJpHTzMhfYgv255xB-lCxK0NiXGMDgQyfHlBcvPdge3EoGHCC4rHQVEelgodjezuRKCqPMFbwsyGArBXVTAGWKRDAvrgFi&new=1)
+ > 作者：团子编辑：Yuki还记得小时候学自行车的样子吗？内心渴望着骑车带风的快感，手里的车把却永远不听使唤。妈爸在一旁喊着“转弯”，你却还是撞了墙，懊恼为什么自行车如此难驯。然而，在清华大学的校园中，出...
+ ## [给大脑加个芯片，《黑客帝国》中的震撼未来要登场了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=xTT2k2zF945wTfXebb7sb19ZDBPPYQV3NKkoQmulI2eT8gFoK8KqGT9ZznkvKNSephoFiHe0j45EGlJwhXLr*QRPtffdSL-l5umEFW76zRX1L7ng8WBiNhEuqy-u*eMg&new=1)
+ > 在可以预见的20年内，如果这种技术能够应用于人体，那么最实际的可能性是在医疗领域Neuralink公司长得像缝纫机的手术机器人。图/Neuralink脑机接口：马斯克开出的又一味未来药方本刊记者/彭丹妮发于2019.8.5总第...
+ ## [游戏厂商出海：看九翎网络如何克服“水土不服”|游戏干线](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=nWyrQkfI5Np0YxDFfAk870qKneJEplCx8pJofaDYzYTyWsAxRgB2zMMibx7aLAFzd-lSOr61fZABjS2LXXB-wow9ObEoFb3ciEbrCtZAeHXgOHS21C5JASB7ENenLUYj&new=1)
+ > 导对于与华为云展开合作，九翎在经过对几家云服务提供商进行对比后，得出的结论便是“华为云的解决方案最值得信赖”。在刚刚结束的“华为云数字娱乐产业高峰论坛”上，云计算、5G、VR、AI等关键词不绝于耳，各种...
+ ## [中国电信一口气任命了6个首席专家 岗级高达25级](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=NWSZoWYww8UB75V854sNdTLhpvsTYRD2H1**PsyOVFtXYypr40k8*-1Z0tIi-tBbDGoKDPLhpqTR8*pmCsB9Lzz7MAH7Tz1cRj1VKDr3iNLARQU4VeDouznBali5IisP&new=1)
+ > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，继授予原总工程师“中国电信科学家”称号之后，中国电信又聘任了集团层面的6名首席专家，而且待遇惊人，均为专业25级，相当于省公司副总经理级别。 6名...
+ ## [微软官方上线了Python教程，7个章节就把Python说通了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=XPqCk1fXsncqO4z7wBXHpCVoAovgKLkc-OdOIwsTrmXm4f4buthTVW5Ltf5sxhs-U4dWaUbS2VKNfUVurOJjuGKNPQ4dx-dmyPg64Lyo*J-W1JRqawm6do60MOzFsTCF&new=1)
+ > 程序员书库（ID：OpenSourceTop）综合整理链接：https://docs.microsoft.com/zh-cn/windows/python/近日，微软上线了一套 Python 教程《Develop with Python o
+ ## [无限流量全面取消，流量要涨价了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564797604&ver=1767&signature=amDbEnoR-E9UMeNUlmy0Bk2dTWO*Dp2D7GXjX0AU0-YckPWIJHeh5rgVYs6KWe59uhzHJzG-nq8ofmrjwFK1fqPjRIBo0-E9D8FRemQ44qDDk6JX4IB69bjihVE3ATpx&new=1)
  > 随着移动网络越来越发达，人们对流量的需求也越来越大，三大运营商自然不会放过这个商机，纷纷推出无限流量套餐来吸引用户。虽然这个无限流量听起来很美好，但实际上这类套餐背后都有猫腻，在流量使用到一定额度...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,70 +81,78 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
- ## [华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到](https://blog.csdn.net/WoChaotian_/article/details/96427708)
- > 华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到
- ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
- > 微信不小心删除的好友和群聊，如何偷偷的加回来？
- ## [人工智能六十年技术简史](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/95041457)
- > 人工智能六十年技术简史
- ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
- > 聚师网资讯看不到的眼睛
- ## [比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较](https://blog.csdn.net/bytom8btc/article/details/95500088)
- > 比原链BBFT如何让共识更快——兼论BBFT与FBFT/HotStuff的比较
- ## [人工智能实践：Tensrfow笔记](https://blog.csdn.net/Thanlon/article/details/96114645)
- > 人工智能实践：Tensrfow笔记
- ## [将PLST整合到企业的业务中的五大策略](https://blog.csdn.net/weixin_44540340/article/details/97168147)
- > 将PLST整合到企业的业务中的五大策略
- ## [人工智能之-产生式系统](https://blog.csdn.net/weixin_44611644/article/details/95015827)
- > 人工智能之-产生式系统
- ## [人工智能发展历史概述](https://blog.csdn.net/weixin_40651515/article/details/95965675)
- > 人工智能发展历史概述
- ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
- > 区块链技术原理是怎样的？
- ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
- > ULAM公链第五周周报
- ## [区块链系列·python实现的区块链](https://blog.csdn.net/nmask/article/details/95425978)
- > 区块链系列·python实现的区块链
- ## [人工智能02 机器进化](https://blog.csdn.net/weixin_41565471/article/details/94864138)
- > 人工智能02 机器进化
- ## [社链生态全球发布会圆满成功，共建社链梦！](https://blog.csdn.net/COMC1DU/article/details/94866252)
- > 社链生态全球发布会圆满成功，共建社链梦！
- ## [人工智能未来发展论文](https://blog.csdn.net/weixin_45427920/article/details/96480815)
- > 人工智能未来发展论文
+ ## [sqlserver 分页方法](https://blog.csdn.net/weixin_41048746/article/details/94901217)
+ > sqlserver 分页方法
+ ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
+ > 架构杂谈《六》
+ ## [云计算之OpenStack架构详解](https://blog.csdn.net/lixinkuan328/article/details/94911352)
+ > 云计算之OpenStack架构详解
+ ## [Druid架构讲解](https://blog.csdn.net/liaynling/article/details/96473842)
+ > Druid架构讲解
+ ## [『数据结构』二叉搜索树](https://blog.csdn.net/sss_0916/article/details/95507384)
+ > 『数据结构』二叉搜索树
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [【电信学】【2017.05】一种物联网的编程语言](https://blog.csdn.net/weixin_42825609/article/details/96234912)
+ > 【电信学】【2017.05】一种物联网的编程语言
+ ## [分布式架构之CAP理论/AP架构/CP架构](https://blog.csdn.net/Soinice/article/details/96784994)
+ > 分布式架构之CAP理论/AP架构/CP架构
+ ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
+ > 来看漫画：我才是世界上最好的编程语言
+ ## [HBase数仓架构](https://blog.csdn.net/qq_31405633/article/details/96966665)
+ > HBase数仓架构
+ ## [编程语言时隔多年，为什么C语言仍然占主导地位？](https://blog.csdn.net/CSDN___Jack/article/details/97036486)
+ > 编程语言时隔多年，为什么C语言仍然占主导地位？
+ ## [选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！](https://blog.csdn.net/CSDN___Jack/article/details/97170312)
+ > 选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！
+ ## [NoSQL数据库－redis集群搭建](https://blog.csdn.net/weixin_44985068/article/details/97021758)
+ > NoSQL数据库－redis集群搭建
+ ## [HTML：一种标记语言而不是编程语言（9.0）](https://blog.csdn.net/qq_40061206/article/details/95024462)
+ > HTML：一种标记语言而不是编程语言（9.0）
+ ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
+ > 简书：编程入门学习的困惑
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [腾讯AI“绝悟”达王者荣耀电竞职业水平，测试胜率达99.8%](http://www.lanjingtmt.com/news/detail/44020.shtml)
+ > 腾讯副总裁姚星介绍，“电子竞技”将成为策略协作型AI“绝悟”未来短期内的主要应用场景。
 # 人工智能 
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
- ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
- > 如何将语音翻译成中文、语音转文字怎么做
- ## [资讯｜实战公开课《高效PMO建设与发展》圆满结束](https://blog.csdn.net/qinghuinanjing123/article/details/95189656)
- > 资讯｜实战公开课《高效PMO建设与发展》圆满结束
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
- ## [如何为移动开发选择技术栈？](https://blog.csdn.net/weixin_43606158/article/details/96738465)
- > 如何为移动开发选择技术栈？
- ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
- > 聚师网资讯看不到的眼睛
- ## [前端与移动开发入门基础html完结版](https://blog.csdn.net/Denisedan/article/details/95673683)
- > 前端与移动开发入门基础html完结版
- ## [资讯--2019年6月](https://blog.csdn.net/wydbyxr/article/details/94731276)
- > 资讯--2019年6月
- ## [区块链未来的发展趋势是怎样的？](https://blog.csdn.net/Gendan5/article/details/96871372)
- > 区块链未来的发展趋势是怎样的？
- ## [将PLST整合到企业的业务中的五大策略](https://blog.csdn.net/weixin_44540340/article/details/97168147)
- > 将PLST整合到企业的业务中的五大策略
- ## [预言机（Oracle）](https://blog.csdn.net/hello2mao/article/details/96275418)
- > 预言机（Oracle）
- ## [一篇文章带你了解数字货币交易所BBEcoin](https://blog.csdn.net/weixin_42335104/article/details/95475861)
- > 一篇文章带你了解数字货币交易所BBEcoin
- ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
- > 区块链的知识
- ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
- > 资讯类网站增量式爬虫
- ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
- > 云杰恒指：7.19恒指期货早盘资讯
+ ## [程序人生|毕业一年有感](https://blog.csdn.net/nobody_1/article/details/96801942)
+ > 程序人生|毕业一年有感
+ ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
+ > 程序人生（项目导入依赖）
+ ## [好用的音视频剪辑软件综述](https://blog.csdn.net/qq_43173244/article/details/96476689)
+ > 好用的音视频剪辑软件综述
+ ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
+ > 抖音视频置顶？抖音视频置顶功能全解！
+ ## [深圳云计算培训：新手学习云计算的规划](https://blog.csdn.net/qq_37124438/article/details/94630274)
+ > 深圳云计算培训：新手学习云计算的规划
+ ## [必知必会的大数据和云计算学习知识点，分享教学视频](https://blog.csdn.net/qq_43958076/article/details/96564293)
+ > 必知必会的大数据和云计算学习知识点，分享教学视频
+ ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
+ > 搭建Ambari Hadoop系统实验
+ ## [程序人生之思考人生](https://blog.csdn.net/soliy/article/details/95377718)
+ > 程序人生之思考人生
+ ## [音视频架构的三部分之CDN（二）](https://blog.csdn.net/weixin_40763897/article/details/95523898)
+ > 音视频架构的三部分之CDN（二）
+ ## [推荐几款简单的音视频编辑软件](https://blog.csdn.net/qq_43173244/article/details/96130140)
+ > 推荐几款简单的音视频编辑软件
+ ## [云计算第一周](https://blog.csdn.net/qq_36999865/article/details/96690846)
+ > 云计算第一周
+ ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
+ > 【Docker】Swarm集群的配置与管理
+ ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
+ > 程序帝国四大操作之单表新增
+ ## [音视频播放、横竖屏切换](https://blog.csdn.net/XinHao_Sir/article/details/95721112)
+ > 音视频播放、横竖屏切换
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
 # PM 
+ ## [从防错到容错，设计思维升级](http://www.woshipm.com/pd/2664713.html)
+ > 作者从实际工作出发，讨论了表单设计中误操作的背后思维。这段时间，在准备CRM升级改版工作，其中有一个可用性问题。有部分用户反馈添加工单功能的体验不好，经了解...
+ ## [以用户活跃度为例，聊聊B2B群组分析](http://www.woshipm.com/operate/2665550.html)
+ > 本文讲的是关于留存率的B2C群组分析——通过B2B群组分析，你可以确定不同群组和不同时间的用户活跃度和留存率之间的差异，并对下一步的产品策略与运营策略产生影响。在...
+ ## [电商运营之站内搜索全面指南（五）](http://www.woshipm.com/operate/2659352.html)
+ > 上一章给大家安利了一下搜索结果页优化的原理，或者叫个人看法。搜索结果页的引流和转化。各个模块的优化运营方式与指标。那么这一章就来好好探讨下，站内搜索的流程，...
  ## [【天天问每周精选】第82期：“骂”一个产品经理，最狠的方式是什么？](http://www.woshipm.com/it/2664986.html)
  > 在产品工作中，难免会出现摩擦的时刻，那么，你曾见过“骂”一个产品经理的最狠方式是啥？一起来吐槽下~我们在天天问讨论了这个问题，enjoy~问题“骂”一个产品经理，最...
  ## [用4000字，详解《靠谱》书中24项工作基本功，带你学习麦肯锡工作法..](http://www.chanpin100.com/article/109135)
