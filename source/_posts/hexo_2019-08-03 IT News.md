@@ -1,40 +1,48 @@
 ---
 title: 2019-08-03 IT News
 copyright: true
-date: 2019-08-03 12:01:39
+date: 2019-08-03 17:02:34
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为拟安装“俄版安卓”；百度回应内部贪腐；Android Studio 3.5 RC2 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=8eQcuW4mzK4S7QZ2yJAI5NEEgy-5*WimF89eoTt6OCWfIYpVQeH-iWv4iJY7pVtqyt9K*Z6lbbLOj1zFyidZS32Vc*Zk*yW2C4dkwz60McF8k6dZTRYFMoTajYHoxb2C&new=1)
- > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
- ## [安全大佬评出了20个创新产品，以及教你安全创业的秘密](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=PXz71qah-nVCjxIj6dsNfn2RWhthGZjBE9kvS9*kO0j4sTq2XgIUJEeoap9Z8T*6RXirjctGhy*E4DxBb9hLbnNGo6i2ddvLQSQ5pHbjfF6LgXOMQcxSWWM1rIXBBtpC&new=1)
- > 天融信、卫士通、启明星辰、美亚柏科、拓尔思、蓝盾股份、任子行、北信源、绿盟科技、飞天诚信、数字认证、中孚信息、深信服、格尔软件、迪普科技组团在今年腾讯的CSS上说了一场闭门会议的“悄悄话”。如果说，...
- ## [当心!你家的摄像头可能正在直播你的语音聊天](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=11TtixLeU*u2CADVc-nb1wiGwmMY6wZYjwv6Gy-A3B5cBDFXEJIabxGQjAFH3tZJWaGhKY2cK90sDLxXVMgp-DXSXAZjdupSICRF7kOBwsCULxMzn43m8hE-u04rMEj3&new=1)
- > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：几位研究人员近日发现一款家用摄像头存在明显漏洞，用户通话可能会被黑客监听。据外媒报道，几名研究人员发现一款名为AmcrestIP2M-841B IP的家庭安全...
- ## [\[漫画\]简明中国汽车史|我们是怎么造出第一辆车的?](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=49MwWzFpXMVlA9ePkX*PqLm93hXGuOw7IiyITZt6S0Y7kDyoeG4Wa7oQ-xuB4BWe-*YPgbP*qJy7h0a0zNxucmv-28soUOyo-Gj15szylmQFGwZD3usfYLbdzlscI3ih&new=1)
- > 最后，我们来划一下重点！01中国第一辆自主制造的汽车叫什么？A.解放C.东风B.红旗D.东方红答案点击下方空白处获得答案A02一汽从奠基到第一辆车下线共花了多久？A.5年C.1年B.3年D.10个月答案点击下方空白处获得答...
- ## [嘉思特3D打印钛合金骨科植入物获国家药监局批准上市，骨小梁髋关节假体](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=aINqzl1rddXtg*D3qw7CcBMeK5PWJTC4yPtFFZWXYdELts3f570rfSuqmKoWq7h1UyJoh7msSCBfs1kmc*XOyEQ0S1ZH50asTcTfoHQSgHwJJxdrRpgKo70zzNMJU9SZ&new=1)
- > 南极熊3D打印网的微信3D打印小程序开通啦南极熊导读：嘉思特医疗自主研发的“骨小梁髋关节假体”产品，成为新的获得 3D打印髋关节植入物医疗器械注册的公司。  △国家药监局批文截图：结构及组成：骨小梁髋关节...
- ## [自行车实现无人驾驶，背后究竟有何“天机”?](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=-W4vxu6-cT1hZqHCMPtRNRU7xTk2uHLsPvcJpHTzMhdbokeVX1jrrKoo1rWUME2WslEcoh2g1sGWkCuK1v9JdrcJHY0FA7pPCcoUENA7jNodOIy3*0oG0Y*FcaQOzLkF&new=1)
+ ## [美媒刊文：美国注定输掉对华技术战](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=gzQCgT8kpfxjeu4XwVZDMpqdkn3UoknlDbPoPkMjQce118*ZrVFn8x5EyqBbFArbN6KmFrhApvkAZobD3smFmsTn9ujBZfHGNRIu*wQcHgWslUo-NcrxyvdjlHFpann4&new=1)
+ > 美国《福布斯》双周刊网站7月31日发表新加坡国立大学李光耀公共政策学院访问学者王月魂的文章称，中国技术公司正在加快研发先进的基础性技术以摆脱对美国供应商的依赖，美国终将输掉与中国的技术战争。文章称，...
+ ## [呼叫?发射?对讲机你知道的功能太少了](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=0KOh*C3yhYyOEr9AbbXnWGm5rjV6xGg2Vo-902kfooxgsLmXo-zQHbaF1uGj-5kh7YQFGNgf-nKQ-DyUzpi0Uv3BjNh4yrqQGbw10l-p8cl*tDsqvi1y9P6t430quC5A&new=1)
+ > 是不是“行家”一看就知道？1个呼终端通过一键进入联系人列表，发起个人对个人呼叫。对于呼叫成功的立即自动接通话路，移动终端在通话过程中可以动态地显示主叫方号码。2组呼系统支持组呼功能，以满足对不同业务...
+ ## [任正非：曾拍桌子反对华为做手机!](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=D9bwYpY9mPS9jQz506Tc9l*w-G*VMQso7w0H07jgrHMQIl-GjNsE7m2NftBvMM6yi7lXHQkMRncS5vGZpVuC6ez2IMdw-GNJJJW*OKmFlHq01qikrZAVd3njkdnRHNVQ&new=1)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）近日，华为半年财报发布，消费者业务收入占比55%。这里面，主要是华为手机的贡献。华为手机，有什么好的？答案就藏在华为手机的历史里。1998年春节前夕，华为员工们正...
+ ## [自动驾驶激荡风云录：来自圈内人的冷眼解读](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=8eQcuW4mzK4S7QZ2yJAI5NEEgy-5*WimF89eoTt6OCW6Y7rPRtDDldup9IhbLt7ZlPVagAfQ2bP5MnEUUmXJSwOAW5k7OAv*VW9qg4fYMQFhG-PlLoWodu8XjylTuxdJ&new=1)
+ > 作者 | 黄浴，奇点汽车美研中心总裁兼自动驾驶首席科学家编辑 | 夕颜，责编 | 胡巍巍出品 | AI科技大本营（ID:rgznai100） 最近一个月，有关自动驾驶的新闻层出不穷，也是少有的热闹。 先说正面的吧。激情的焰火...
+ ## [自行车实现无人驾驶，背后究竟有何“天机”?](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=-W4vxu6-cT1hZqHCMPtRNRU7xTk2uHLsPvcJpHTzMhfwEAoxtpHCrsfix7IwLj-WD7xLI8XG*H2T4DxKFGy2aZPbJass8-mf9Vz1n3wZ654mu-Ba4s4iLcs98ozgXTDC&new=1)
  > 作者：团子编辑：Yuki还记得小时候学自行车的样子吗？内心渴望着骑车带风的快感，手里的车把却永远不听使唤。妈爸在一旁喊着“转弯”，你却还是撞了墙，懊恼为什么自行车如此难驯。然而，在清华大学的校园中，出...
- ## [病毒中的“钉子户”——冲击波丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=X0m25R1JtaHUjQPIuidoWSoW7RipJk7C*dmk6cCBd8QNoJd7oHWYpNiqogrJcXxpSoK1ZeJwXVb7ayDmUxZ5MWAGrz18scYLsgtxOwMkY7n8FXM8Bts5sJx3daKskdo9&new=1)
+ ## [当心!你家的摄像头可能正在直播你的语音聊天](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=11TtixLeU*u2CADVc-nb1wiGwmMY6wZYjwv6Gy-A3B7RUwKdqxNV8mCC14qD3rG8AuvGdZGHX-joRTmDXAdQUIzNaxgyuzEP*P5n32NQa7nEJaw30H63q0ftgydEcT0Y&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：几位研究人员近日发现一款家用摄像头存在明显漏洞，用户通话可能会被黑客监听。据外媒报道，几名研究人员发现一款名为AmcrestIP2M-841B IP的家庭安全...
+ ## [嘉思特3D打印钛合金骨科植入物获国家药监局批准上市，骨小梁髋关节假体](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=aINqzl1rddXtg*D3qw7CcBMeK5PWJTC4yPtFFZWXYdFX1EveevBrZWf6G8b5BncT8Uv62-dn7Dkm4fOeSESgkq38JdqIWw60DFdSceJmRDkBy3yDxm75YIkMY1TZc86v&new=1)
+ > 南极熊3D打印网的微信3D打印小程序开通啦南极熊导读：嘉思特医疗自主研发的“骨小梁髋关节假体”产品，成为新的获得 3D打印髋关节植入物医疗器械注册的公司。  △国家药监局批文截图：结构及组成：骨小梁髋关节...
+ ## [安全大佬评出了20个创新产品，以及教你安全创业的秘密](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=PXz71qah-nVCjxIj6dsNfn2RWhthGZjBE9kvS9*kO0gRKKjJmtxlhwRE7JdVIUo-79rAwBdaXpZ1h5ME90jF4HPrHp2ILq5gwGUmNH52944HIx8xbVDvmfALrDcMMMW1&new=1)
+ > 天融信、卫士通、启明星辰、美亚柏科、拓尔思、蓝盾股份、任子行、北信源、绿盟科技、飞天诚信、数字认证、中孚信息、深信服、格尔软件、迪普科技组团在今年腾讯的CSS上说了一场闭门会议的“悄悄话”。如果说，...
+ ## [华为拟安装“俄版安卓”；百度回应内部贪腐；Android Studio 3.5 RC2 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=8eQcuW4mzK4S7QZ2yJAI5NEEgy-5*WimF89eoTt6OCWICY0gqWgvRVoiVPLYr-EFYhWEFaH0ecXJtddusFifbymzloZyNqoygO6Sv8V7cVXx56or5IutcFJ56pPkG0Iq&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [\[漫画\]简明中国汽车史|我们是怎么造出第一辆车的?](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=49MwWzFpXMVlA9ePkX*PqLm93hXGuOw7IiyITZt6S0avgvvU1ZGnEgxCvCzb56D6VxRvElVc-n3krxnMA2vN0HO9vuYxlaSC3qtTrR0Vdi1F-htL*WpPTIewPJ8f66jV&new=1)
+ > 最后，我们来划一下重点！01中国第一辆自主制造的汽车叫什么？A.解放C.东风B.红旗D.东方红答案点击下方空白处获得答案A02一汽从奠基到第一辆车下线共花了多久？A.5年C.1年B.3年D.10个月答案点击下方空白处获得答...
+ ## [病毒中的“钉子户”——冲击波丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=X0m25R1JtaHUjQPIuidoWSoW7RipJk7C*dmk6cCBd8REm7gLvT9iSRzg1A0sojSQdjP6tYmaEI9avyxtXFlrk3cm2As56qKyLfAva1q-CcMCC0BOjyBs29X9hKmQfiSf&new=1)
  > 一、谶曰——打不死的小强 “冲击波”计算机病毒（图片来自网络）大东：小白，经过前段时间的学习相信你对计算机网络安全也有了一定的了解。小白：那可不，别的不敢说，就说计算机安全防范这一点我就能例举出好...
- ## [Sandman Studios联合创始人周旭东：艺术+大空间沉浸体验《浮生一刻》，积极探索沉浸式戏剧的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=q4wXVy8aa5jlaFM944-mbyK5EPCRCDGfJXsO*-A2Plw4Vx48h1zyrYHGPQttrCjzPOvDK7tuEf30HdPQ3S0myc8rebSLtUvwaDIesCqTipTGF9emgVmpivp5aSgd*59R&new=1)
+ ## [Sandman Studios联合创始人周旭东：艺术+大空间沉浸体验《浮生一刻》，积极探索沉浸式戏剧的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=q4wXVy8aa5jlaFM944-mbyK5EPCRCDGfJXsO*-A2PlzEr2f18FnIsTBtkSj1vIuBrDAAba-XmrV*buvM-gj-8g2H9fLPvQGivz11ZnbOZTI2kphxMJ73xqSSV3CspvyE&new=1)
  > 《浮生一刻》，一款关于探索自我的新形式、多技术结合的沉浸交互体验。正文共 3305 字 11 图；预计阅读时间 11 分钟 从“Jaunt彻底抽身VR市场”到“IMAX关闭全部7家VR中心”，去年一年一系列事件再加上VR影视作...
- ## [\[科技早报7点整\]马化腾谈移动支付 全球最吸金视频App 排行韩国5G调查……](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=UnF0h-lcyVuZWDMOWunYt6cArA4RL7BBM6xpwQJ8tX0OjzqKYgH9mAnADXKqX2HsoyYG1kwCLB9UH0qGudtYqB2SlswPhS3P01X0bc*Zc9525Lr39DOmoShRLuzmZLM2&new=1)
+ ## [\[科技早报7点整\]马化腾谈移动支付 全球最吸金视频App 排行韩国5G调查……](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=UnF0h-lcyVuZWDMOWunYt6cArA4RL7BBM6xpwQJ8tX2lLDvlZcxAQpwF7CkmVOYFIFjn4Rid0I8NCINv*CbFRlKUgmupQvw-BYTllrcuT2ceEGk*CP3i4i*MsOXo5jH1&new=1)
  > 早上好，科技圈【一度蜜科技早报】第549期1.百度通报12起内部腐败事件：严重者将送公安部门处理 针对百度内部邮件通报数十起内部严重违纪案件的消息，百度回应称：公司高度重视廉政建设，员工一旦触犯都绝不姑息...
- ## [重磅!中国联通突传大消息，没想到竟然来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=fKlSOLc3UrKcGqlRX-B9qPJHXf787K4pqyhMj7Z127Lt4i0BhgzPQVB0PebfLal7UVgfWAzqIY8SJ6E*XoNQQXmGChW*yzoR0x3Xho2OWNBTeQbtzNqmoKV-SH3F6C8W&new=1)
+ ## [重磅!中国联通突传大消息，没想到竟然来得这么快!](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=fKlSOLc3UrKcGqlRX-B9qPJHXf787K4pqyhMj7Z127LUEOLSk15nu4nSPhS3sDO-FOOHyk4JHysO-i4nAnMSRdGnpVL6PC7vZXO4l-rAN7D8*HlVkoSUBq7GFz654f4n&new=1)
  > 一太快了！所有人都知道要来，却没想到来得那么快。刚刚，联通公司重磅宣布：自工信部6月6日正式发放5G商用牌照以来，我公司抓紧推进5G网络建设，积极准备正式商用。在正式商用前，为满足5G手机客户体验5G网络需...
- ## [给大脑加个芯片，《黑客帝国》中的震撼未来要登场了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=xTT2k2zF945wTfXebb7sb19ZDBPPYQV3NKkoQmulI2fYVIazb99V234pPb8VJaw5I3q-871AWE1tS8fFZFeNuxIIlagCgdVq5LaF3gVhz7jwUMdwD5B-sMSFrsAmRvzc&new=1)
+ ## [给大脑加个芯片，《黑客帝国》中的震撼未来要登场了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=xTT2k2zF945wTfXebb7sb19ZDBPPYQV3NKkoQmulI2f2pFZpsNWV4n88eiUZ5NgFLlKcqw04upX2d3-0OTXDmPGbwiyNsekkb2i8UovEAeI3-PumTf9tMM0lqUy*kR7R&new=1)
  > 在可以预见的20年内，如果这种技术能够应用于人体，那么最实际的可能性是在医疗领域Neuralink公司长得像缝纫机的手术机器人。图/Neuralink脑机接口：马斯克开出的又一味未来药方本刊记者/彭丹妮发于2019.8.5总第...
- ## [游戏厂商出海：看九翎网络如何克服“水土不服”|游戏干线](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=nWyrQkfI5Np0YxDFfAk870qKneJEplCx8pJofaDYzYQ4gAps3OkwTUK2g6G-Y4PUJIBkhOpUeNv3rnR1LGkFP905Kc6UwgkOrf3awGBqvY9VnDd106eylBOLirTq-ARg&new=1)
+ ## [游戏厂商出海：看九翎网络如何克服“水土不服”|游戏干线](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=nWyrQkfI5Np0YxDFfAk870qKneJEplCx8pJofaDYzYTovsmbNAK8B4mfz6TcuIMqDhy5fJuTEfcfgfk0icK-lRQRwsYWCDG3f3xw3D0buuG4UqYH6trjAlr6lWpA58Ix&new=1)
  > 导对于与华为云展开合作，九翎在经过对几家云服务提供商进行对比后，得出的结论便是“华为云的解决方案最值得信赖”。在刚刚结束的“华为云数字娱乐产业高峰论坛”上，云计算、5G、VR、AI等关键词不绝于耳，各种...
- ## [中国电信一口气任命了6个首席专家 岗级高达25级](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=NWSZoWYww8UB75V854sNdTLhpvsTYRD2H1**PsyOVFvqRyygnB0udO7Qj-achT6z0TWaLq8OhwlAtXAjZA1IelT7D4dcA*l3SErr4cbsqPY7HWXKq1*E3e-DN-smerF5&new=1)
+ ## [中国电信一口气任命了6个首席专家 岗级高达25级](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=NWSZoWYww8UB75V854sNdTLhpvsTYRD2H1**PsyOVFuTRn6X223Q4xr8XqsDXud4UlChBF3Pue0I-NyULk8*bXvTa7nkgj4DsVJbOJkLSfU7JFe7W01qbNrKi8vrEC*x&new=1)
  > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，继授予原总工程师“中国电信科学家”称号之后，中国电信又聘任了集团层面的6名首席专家，而且待遇惊人，均为专业25级，相当于省公司副总经理级别。 6名...
- ## [微软官方上线了Python教程，7个章节就把Python说通了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=XPqCk1fXsncqO4z7wBXHpCVoAovgKLkc-OdOIwsTrmXZH0tNsQ3T-023P9VYF6jPOCLFfv-TSoNMcXfx6et*W7q0hvScxklGCJaa2usow6vBNAHJu5VtNTRpeIE6B3IM&new=1)
+ ## [微软官方上线了Python教程，7个章节就把Python说通了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=XPqCk1fXsncqO4z7wBXHpCVoAovgKLkc-OdOIwsTrmXQlVo0cottaJpcxtIf9RI*admWZo4KSWpZyWnkn6iFnQy9SDnpUHZ0VU94Gt6*QCEVOmFTWuQVMeFEhEeZnp*D&new=1)
  > 程序员书库（ID：OpenSourceTop）综合整理链接：https://docs.microsoft.com/zh-cn/windows/python/近日，微软上线了一套 Python 教程《Develop with Python o
- ## [无限流量全面取消，流量要涨价了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564804804&ver=1767&signature=amDbEnoR-E9UMeNUlmy0Bk2dTWO*Dp2D7GXjX0AU0-ZV2UGtc4dP-wFcq52ja-OM4c-YTpFRx0iCPgKxuZevjxPGOeXHW7CMJhK31ItSN15PtyPkisxOQPkV1bkFrwBD&new=1)
+ ## [无限流量全面取消，流量要涨价了!](http://mp.weixin.qq.com/s?src=11&timestamp=1564822804&ver=1767&signature=amDbEnoR-E9UMeNUlmy0Bk2dTWO*Dp2D7GXjX0AU0-ZLh8nQKGZWhV7ZNpPewYiK06xCD6PM5FojcJA5S6tWaCUDa4NCG5GegsmCbcwJTbLznvgjOQ-D1B1bLp1Kwt-P&new=1)
  > 随着移动网络越来越发达，人们对流量的需求也越来越大，三大运营商自然不会放过这个商机，纷纷推出无限流量套餐来吸引用户。虽然这个无限流量听起来很美好，但实际上这类套餐背后都有猫腻，在流量使用到一定额度...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -93,72 +101,82 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
- ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
- > 学习 Unity 3D游戏开发日常笔记（C 第三周）
- ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
- > 基于云计算与大数据应用开发的论述
- ## [前端常用方法封装](https://blog.csdn.net/qq_37297578/article/details/97100569)
- > 前端常用方法封装
- ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
- > 棋牌游戏开发质量缘何陷入低水平状态
- ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
- > 搭建Ambari Hadoop系统实验
- ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
- > 草莓协会前端页面
- ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
- > Win32 游戏开发：贪吃蛇 上篇
- ## [关于textarea的注意点](https://blog.csdn.net/fangjial/article/details/96572227)
- > 关于textarea的注意点
- ## [前端安全：XSS和CSRF](https://blog.csdn.net/u014465934/article/details/95111347)
- > 前端安全：XSS和CSRF
- ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
- > Python 超级玛丽代码实现(1):界面和状态机实现
- ## [学习 Unity 3D游戏开发日常笔记](https://blog.csdn.net/weixin_43814599/article/details/95080609)
- > 学习 Unity 3D游戏开发日常笔记
- ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
- > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
- ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
- > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
- ## [Unity3D Network如何限制玩家人数](https://blog.csdn.net/qq_34229678/article/details/96156404)
- > Unity3D Network如何限制玩家人数
- ## [前端常用命令](https://blog.csdn.net/gqzydh/article/details/95192973)
- > 前端常用命令
+ ## [社链生态全球发布会圆满成功，共建社链梦！](https://blog.csdn.net/COMC1DU/article/details/94866252)
+ > 社链生态全球发布会圆满成功，共建社链梦！
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [人工智能知识点总结](https://blog.csdn.net/DreamTime666/article/details/94635738)
+ > 人工智能知识点总结
+ ## [音视频架构的三部分之CDN（二）](https://blog.csdn.net/weixin_40763897/article/details/95523898)
+ > 音视频架构的三部分之CDN（二）
+ ## [推荐几款简单的音视频编辑软件](https://blog.csdn.net/qq_43173244/article/details/96130140)
+ > 推荐几款简单的音视频编辑软件
+ ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
+ > 音视频开发基础学习-----视频与音频原始格式
+ ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
+ > 万能音视频转换器：Permute 3 for mac
+ ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
+ > ULAM公链第五周周报
+ ## [FFmpeg学习之 一 （音视频理论知识）](https://blog.csdn.net/kyl282889543/article/details/96490778)
+ > FFmpeg学习之 一 （音视频理论知识）
+ ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
+ > 区块链的知识
+ ## [区块链未来三年将成为数字中国建设的重要支撑](https://blog.csdn.net/Bitrade/article/details/94748962)
+ > 区块链未来三年将成为数字中国建设的重要支撑
+ ## [WebRTC系列 - 源码编译等](https://blog.csdn.net/lym594887256/article/details/79412148)
+ > WebRTC系列 - 源码编译等
+ ## [区块链轻节点和SPV](https://blog.csdn.net/weixin_43927408/article/details/90414574)
+ > 区块链轻节点和SPV
+ ## [音视频的相关名词、术语、概念](https://blog.csdn.net/weixin_40763897/article/details/94590798)
+ > 音视频的相关名词、术语、概念
+ ## [ZT 交易所“追星计划”|究竟谁能成为TOP1？](https://blog.csdn.net/weixin_44452342/article/details/97116431)
+ > ZT 交易所“追星计划”|究竟谁能成为TOP1？
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [从“技术理性”到“实践智慧” 华为云这波大招够强](https://blog.csdn.net/csdnnews/article/details/98332311)
+ > 常言道，人生只需要做对三件事：找对平台、交对朋友、跟对贵人，就肯定能成功。这三者中找对平台更为重要，从曾国藩的人生经历便可以清晰地看出来。刚中进士时长沙的社交圈是他的第一...
+ ## [上海浦东：电竞企业主板科创板挂牌给予不超500万扶持](http://www.lanjingtmt.com/news/detail/44022.shtml)
+ > 在2019全球电竞大会上，上海市浦东新区宣布将出台浦东电竞产业发展的扶持政策。电竞相关企业在主板及科创板成功挂牌上市的，给予不超过500万元的扶持。
  ## [腾讯AI“绝悟”达王者荣耀电竞职业水平，测试胜率达99.8%](http://www.lanjingtmt.com/news/detail/44020.shtml)
  > 腾讯副总裁姚星介绍，“电子竞技”将成为策略协作型AI“绝悟”未来短期内的主要应用场景。
 # 人工智能 
- ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
- > 快速排序 python 代码实现
- ## [Python图形用户界面和游戏开发](https://blog.csdn.net/qq_42992919/article/details/95343296)
- > Python图形用户界面和游戏开发
- ## [HTML：一种标记语言而不是编程语言（5.0）](https://blog.csdn.net/qq_40061206/article/details/94560136)
- > HTML：一种标记语言而不是编程语言（5.0）
- ## [一门编程语言的通用知识点](https://blog.csdn.net/qq_34822461/article/details/96838555)
- > 一门编程语言的通用知识点
- ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
- > 学习 Unity 3D游戏开发日常笔记（C 第三周）
- ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
- > 数据库实验——数据库数据更新及查询
- ## [数据库MySQL总结（一）SQL语句](https://blog.csdn.net/lisaaaaaas0405/article/details/95644255)
- > 数据库MySQL总结（一）SQL语句
- ## [【电信学】【2017.05】一种物联网的编程语言](https://blog.csdn.net/weixin_42825609/article/details/96234912)
- > 【电信学】【2017.05】一种物联网的编程语言
- ## [HTML：一种标记语言而不是编程语言（9.0）](https://blog.csdn.net/qq_40061206/article/details/95024462)
- > HTML：一种标记语言而不是编程语言（9.0）
- ## [Python等编程语言学习资料分享](https://blog.csdn.net/Mr_JjPolarBear/article/details/95628296)
- > Python等编程语言学习资料分享
- ## [关于数据库‘事务’‘锁’的几个问题](https://blog.csdn.net/Isabella327/article/details/96865317)
- > 关于数据库‘事务’‘锁’的几个问题
- ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
- > 连接本地数据库和远程连接他人数据库？
- ## [编程语言大视界丨未来三年，那种编程语言最流行？程序员学哪种编程语言最好？](https://blog.csdn.net/CSDN___Jack/article/details/97135756)
- > 编程语言大视界丨未来三年，那种编程语言最流行？程序员学哪种编程语言最好？
- ## [Unity3D Network如何限制玩家人数](https://blog.csdn.net/qq_34229678/article/details/96156404)
- > Unity3D Network如何限制玩家人数
- ## [棋牌游戏开发质量缘何陷入低水平状态](https://blog.csdn.net/motianyougame/article/details/96437033)
- > 棋牌游戏开发质量缘何陷入低水平状态
+ ## [浅谈数据库----基于SQLsever](https://blog.csdn.net/qq_45066719/article/details/94980839)
+ > 浅谈数据库----基于SQLsever
+ ## [关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复](https://blog.csdn.net/weixin_44985068/article/details/97035639)
+ > 关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复
+ ## [Oracle SQL 查询及常用单行函数](https://blog.csdn.net/weixin_42927264/article/details/96988895)
+ > Oracle SQL 查询及常用单行函数
+ ## [mysql数据库的基础知识和操作，笔记3，权亮](https://blog.csdn.net/qq443967620/article/details/96430469)
+ > mysql数据库的基础知识和操作，笔记3，权亮
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [构建Docker负载均衡实验](https://blog.csdn.net/qq_41614928/article/details/96559424)
+ > 构建Docker负载均衡实验
+ ## [大数据、物联网和云计算市场上的经验和规律](https://blog.csdn.net/okmjsayu/article/details/95105082)
+ > 大数据、物联网和云计算市场上的经验和规律
+ ## [JAVAEE经典架构](https://blog.csdn.net/qq_40925525/article/details/96729838)
+ > JAVAEE经典架构
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [数据库实验——数据库的完整性约束](https://blog.csdn.net/qq_43776450/article/details/95633712)
+ > 数据库实验——数据库的完整性约束
+ ## [关系型数据库－MySQL进阶（三）数据分片](https://blog.csdn.net/weixin_44985068/article/details/97099691)
+ > 关系型数据库－MySQL进阶（三）数据分片
+ ## [【架构】Nginx+Keepalived高可用集群](https://blog.csdn.net/qq_28505809/article/details/94586687)
+ > 【架构】Nginx+Keepalived高可用集群
+ ## [构建基于CentOS 7的SSH镜像](https://blog.csdn.net/qq_41614928/article/details/96561066)
+ > 构建基于CentOS 7的SSH镜像
+ ## [分布式架构的架构稳定性](https://blog.csdn.net/m0_38125278/article/details/95046242)
+ > 分布式架构的架构稳定性
+ ## [初步掌握Yarn的架构及原理](https://blog.csdn.net/pigziprogrammer/article/details/94592780)
+ > 初步掌握Yarn的架构及原理
 # PM 
+ ## [解析营销中台产品模型](http://www.woshipm.com/pd/2663713.html)
+ > 本文以狭义营销中台为讨论核心，从全局角度分析了营销中台产品模型中的表现层、触达层、规则层、奖励层。中台化概述最近“中台化”的概念如火如荼，这个概念由阿里而起...
+ ## [进大厂后，我从写日报学到了……](http://www.woshipm.com/zhichang/2507458.html)
+ > 自从进入世界500强中TOP100的一家公司后，我开始有了写日报的习惯。也许有人会说写周报就行了呀，有必要做到每天都记录日报吗，会不会浪费时间呀？因此本文从四个实际案...
+ ## [备受争议的社交电商究竟能走多远](http://www.woshipm.com/it/2666452.html)
+ > 纵观社交电商的发展与现状，它的存在既为部分人解决了就业问题，又为用户带来了实惠与便利；但是它也不可避免地存在多种弊病。要想走得更远， 社交电商就得平衡好上述问...
  ## [从花呗新规看还款日“十二时辰”](http://www.woshipm.com/it/2662005.html)
  > 7月30日，支付宝宣布开启花呗还款日调整权限，看似一个小小的改动，却很快登上了微博热搜榜TOP1，还有不少网友调侃希望将还款日调整到2月29号或每月的32号，并引发了后...
  ## [从防错到容错，设计思维升级](http://www.woshipm.com/pd/2664713.html)
@@ -169,8 +187,6 @@ categories: IT NEWS
  > 上一章给大家安利了一下搜索结果页优化的原理，或者叫个人看法。搜索结果页的引流和转化。各个模块的优化运营方式与指标。那么这一章就来好好探讨下，站内搜索的流程，...
  ## [【天天问每周精选】第82期：“骂”一个产品经理，最狠的方式是什么？](http://www.woshipm.com/it/2664986.html)
  > 在产品工作中，难免会出现摩擦的时刻，那么，你曾见过“骂”一个产品经理的最狠方式是啥？一起来吐槽下~我们在天天问讨论了这个问题，enjoy~问题“骂”一个产品经理，最...
- ## [用4000字，详解《靠谱》书中24项工作基本功，带你学习麦肯锡工作法..](http://www.chanpin100.com/article/109135)
- > 《靠谱》这本书主要分为四章内容：第一章，讲工作中的沟通技巧；第二章，讲工作中的思考技巧；第三章，讲工作中资料整理能力；第四章，讲是商业精神。
  ## [​女性劳动更容易被 AI 替代？才不是！](http://www.pmtoo.com/article/78565.html)
  > 一个更自动化的社会，会显著的减少对一般人类劳动力的需求。在人类各种能力中，偏向创造力、想象力、沟通交流能力，以及控制...
  ## [这些产品逻辑，你身上有几条？](http://www.pmtoo.com/article/78562.html)
