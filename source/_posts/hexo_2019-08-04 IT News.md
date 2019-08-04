@@ -1,24 +1,26 @@
 ---
 title: 2019-08-04 IT News
 copyright: true
-date: 2019-08-04 10:01:37
+date: 2019-08-04 12:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNZA44ZtLlwR2vEMva35PBGY1y-laY2TgjCrmEkfkNKCreYkVh8D05eXWD16CyQgZYuaHXi7my43EvCi4zyMOxMc&new=1)
- > 据中央广播电视总台经济之声《天下财经》报道，报告显示，今年上半年，4K超高清电视占国内彩电销售的比重达到70%，预计年底将超过80%，进入普及阶段。不过业内认为，技术的发展，更呼唤更多4K超高清内容的产生。...
- ## [\[科技早报7点整\]马斯克要在中国挖隧道 苹果信用卡禁止购买加密货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=ylrY*otcRpfOq0DBQd7EXO5jryXEuG*ysFSy15XQSTaaW-YKy1az8ZzXfc21kcAXt6pDX9fPhUzez9vtJS5CHD2vZ2J2l2rs3T0sl9zPcfseQ1Tcom-n7Gs*9oLv9brg&new=1)
- > 早上好，科技圈【一度蜜科技早报】第550期1.网易计划投资不少于50亿用以打造电竞生态园区 据网易游戏总裁丁迎峰介绍，网易计划投资超50亿，在上海市青浦区打造网易电竞生态园区，包括产品研发、竞技场馆、人才建...
- ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSyl1f16FuFsruCuX18238ZukVZqCBTgabUfprOZDb-3coOZV7xiUc*bR6j2exD324fr6z0-HBxKEyFHvKVmOxXy&new=1)
+ ## [黑客疯狂窃取超百万张韩国银行卡信息，因为其“性价比高”](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=U2nDj0flK77IB*Br-qwpgYu*fKLApqkpQ3qycZJ2*u5-dshOkOmBKJJDIlyUdBvE5dxnS1jqcu2duZ0sClJ3vwTs3CJgdLk*IlqIJoiFU*tNbjOFQWPtq6A4vJGCv9UI&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：不止是韩国，整个亚太地区的银行卡信息都深受黑客喜爱。据外媒报道，在过去两个月内，黑客在某犯罪论坛上出售了超过一百万张韩国银行卡的详细信息。...
+ ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSzVLqmABsWBYun91qyMOlHwATkTxlGRlXzZ06KQTWdt*xQJrkmbqFWqTMQg6Y96PdZNcQIpd962mcEQ7y79gf6N&new=1)
  > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
- ## [新办法：如何在微信里一步直达南极熊3D打印资讯](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=bddxFY4NmhrTr1LayW57yqzzGdazC5YyOW6Wv104xnVb9Y4uj8PeaXzBdMdFLKWFc3oWA-CPOna45c3FOo3B5pdsbL4Edj38fbNN1s*ipOCKX0lQsfUjOAUmC9MrqfWt&new=1)
+ ## [新办法：如何在微信里一步直达南极熊3D打印资讯](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=bddxFY4NmhrTr1LayW57yqzzGdazC5YyOW6Wv104xnViQYVMGiiClFFWVbmsKe4KI1RQ32N252PUbywysXoDrDpiZ3ccv7GMurkRcTGS1cttrIH261EGO7gqgQSA6TZU&new=1)
  > 新技能GET✓:一个动作，即可直达3D打印资讯。为了更方便用户在微信里阅读3D打印资讯，南极熊开发了3D打印微信小程序，设置好了之后，可以一步直达。微信设置步骤：①扫码进入3D打印微信小程序②进入南极熊3D打印...
- ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVZ1ikw94K-1ACxL7nKabEkKhHcKupcQwHp2waG*gVtLb4zEZGWnP-cPgDj1ey3J9nJt29cjRzrpmZs3ryGqe-86&new=1)
+ ## [\[科技早报7点整\]马斯克要在中国挖隧道 苹果信用卡禁止购买加密货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=ylrY*otcRpfOq0DBQd7EXO5jryXEuG*ysFSy15XQSTYekVi9-LmQlhRO7LehwHcrdvKRX03vEJ60v2NrFdbFGtrb2qpRGAp7FtSka7OpFV8Ifean70cwpcL281y8OE1C&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第550期1.网易计划投资不少于50亿用以打造电竞生态园区 据网易游戏总裁丁迎峰介绍，网易计划投资超50亿，在上海市青浦区打造网易电竞生态园区，包括产品研发、竞技场馆、人才建...
+ ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNZpXjx1qVq2Fz0NgNJCbNFPnDlhW81oMBuG1E6MsRqiGl*VlZyzng*jD7Uh5EQQnxucz3d0sYrqm-2aOWenXMcw&new=1)
+ > 据中央广播电视总台经济之声《天下财经》报道，报告显示，今年上半年，4K超高清电视占国内彩电销售的比重达到70%，预计年底将超过80%，进入普及阶段。不过业内认为，技术的发展，更呼唤更多4K超高清内容的产生。...
+ ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVYccpRLxKys21k-7rRWXmhDSv8aaKqT4Y9jJe7f51J7A*0jOWldTWR8QorWp0NOFBFjY*N8-HmjV1pSisrpnZBA&new=1)
  > Esther｜ 编辑自2017年IPO以来，社交媒体公司Snap几乎一直呈下跌状态，甚至从17美元的发行价一度跌到4.99美元。不过在今年，这一状态开始有所回升，据Snap第一季财报显示，其营收同比整张39%，日活已经超过1.9亿...
- ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMFWLtRtOmViUBXxUPf4ppk9nwDuWCRFzDqcWXqhIYJaXFaeMHqoCFKx2mp-byS2S6I3kg4V3rT7zHhaz-0fE-v-&new=1)
+ ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMEPU7Rlwz4Uefp-gTQRDV8EepDbWbsiCrr2iZed-isVFEO8KUSL1vIi7-r3t548S63dymNPCgQZ7eBdlzfr6J9n&new=1)
  > 前两天，中国电信爆了个大料：9 月 1 日起，无限流量套餐将被取消。消息一出，网友又沸腾啦。。都说这是想要变相涨价…官方随后也给出解释，据传来自中国电信内部的文件显示：这是为满足用户需求。机哥只想说呵...
- ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHKRg5*VFYfCR0unnmT81QZbaUN-ANYekcZJBpI2W1ee*VBcESzD7cOZ6s3NqLS4HmJFa0aUTXAOeKUmlbeeQtSC&new=1)
+ ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHLIgrDUlKWNDdKfFjmhhtSWxIg8u3U5dKLekCNf0-j*cjjlWlgBzrXfFhaWb2b*MJoeyHtCrjo-VhXQdjTgrCz1&new=1)
  > 两大运营商合并，还诞生了一个超级“搅屎棍”，美国5G市场格局大变，而这背后的动机更令人深思。两大运营商终于合并 7月27日，美国司法部终于批准美国第三大运营商T-Mobile和第四大运营商Sprint合并。但这次合并...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -77,36 +79,36 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
- ## [可编程4G DTU物联网网关](https://blog.csdn.net/weixin_42687537/article/details/97134815)
- > 可编程4G DTU物联网网关
- ## [ESP8266发送温湿度到物联网（1）](https://blog.csdn.net/qq_35590091/article/details/53932767)
- > ESP8266发送温湿度到物联网（1）
- ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
- > ZooKeeper 的设计理念和架构
- ## [2.SOA架构和微服务架构的区别](https://blog.csdn.net/lzb348110175/article/details/96738781)
- > 2.SOA架构和微服务架构的区别
- ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
- > 物联网、工业互联网大数据的特点
- ## [分布式架构的架构稳定性](https://blog.csdn.net/m0_38125278/article/details/95046242)
- > 分布式架构的架构稳定性
- ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
- > 架构杂谈《六》
- ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
- > 转战物联网·基础篇02-物联网中的角儿
- ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
- > 建筑施工借助物联网卡保障高楼安全
- ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
- > Rancher安装、部署、使用
- ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
- > 【Docker】Swarm集群的配置与管理
- ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
- > 微服务架构的核心关键点
  ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
  > 基于云计算与大数据应用开发的论述
- ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
- > MQTT物联网通信协议概论
- ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
- > Encoder-Decoder架构与注意力机制
+ ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
+ > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
+ ## [Unity3D游戏开发笔记-2【优化】](https://blog.csdn.net/ss5214423/article/details/96136274)
+ > Unity3D游戏开发笔记-2【优化】
+ ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
+ > 【Docker】Docker网络
+ ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
+ > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
+ ## [把json数据的id加到接口里id的后面](https://blog.csdn.net/qq_43473279/article/details/95340389)
+ > 把json数据的id加到接口里id的后面
+ ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
+ > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
+ ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
+ > 【Docker】Docker-compose容器编排的使用
+ ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
+ > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
+ ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
+ > 学习编程基础知识，进阶成为更优秀的程序员
+ ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
+ > Win32 游戏开发：贪吃蛇 上篇
+ ## [Python图形界面游戏开发](https://blog.csdn.net/PyhtonChen/article/details/96149214)
+ > Python图形界面游戏开发
+ ## [构建Docker负载均衡实验](https://blog.csdn.net/qq_41614928/article/details/96559424)
+ > 构建Docker负载均衡实验
+ ## [Unity3D  (新)SteamVR 2.0手柄输入与震动](https://blog.csdn.net/qq_34229678/article/details/96970866)
+ > Unity3D  (新)SteamVR 2.0手柄输入与震动
+ ## [前端常用方法封装](https://blog.csdn.net/qq_37297578/article/details/97100569)
+ > 前端常用方法封装
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [云计算将会让数据中心消失？](https://blog.csdn.net/csdnnews/article/details/98402712)
@@ -127,37 +129,39 @@ categories: IT NEWS
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
  ## [物联网已死，API 万岁！](https://blog.csdn.net/csdnnews/article/details/98332108)
  > “物联网”的未来从来都不是关于更快、更好、更新和更多的硬件，它一直是聚焦于让设备协同工作，创造奇迹。作为用户，未来我们是否注定了要不断地在手机上搜索应用程序？或者绞尽脑汁...
+ ## [首款5G手机背后暗含着什么样的玄机?华为何刚这样解读](http://www.lanjingtmt.com/news/detail/44024.shtml)
+ > 华为对5G手机如何规划？首款5G手机背后暗含着什么样的玄机？蓝鲸TMT记者采访了华为消费者业务手机产品线总裁何刚。
 # 人工智能 
- ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
- > 聚师网资讯看不到的眼睛
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
+ ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
+ > 关系型数据库-MySQL进阶（二）读写分离与多实例
+ ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
+ > 数据库实验——数据库数据更新及查询
+ ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
+ > 程序帝国四大操作之单表修改
+ ## [数据库MySQL总结（一）SQL语句](https://blog.csdn.net/lisaaaaaas0405/article/details/95644255)
+ > 数据库MySQL总结（一）SQL语句
+ ## [大数据能做什么,为什么学习大数据](https://blog.csdn.net/fbnggnh/article/details/95321007)
+ > 大数据能做什么,为什么学习大数据
+ ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
+ > 如何将语音翻译成中文、语音转文字怎么做
+ ## [Oracle SQL 查询及常用单行函数](https://blog.csdn.net/weixin_42927264/article/details/96988895)
+ > Oracle SQL 查询及常用单行函数
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
+ > 大数据开发需要学习什么？大数据平台是什么？
+ ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
+ > 【IT资讯】全新编程语言V发布
+ ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
+ > 进退博弈：恒指7.16号早盘资讯及操作建议
+ ## [数据库：数据库练习](https://blog.csdn.net/Dreaming5498/article/details/96450326)
+ > 数据库：数据库练习
+ ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
+ > 连接本地数据库和远程连接他人数据库？
  ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
  > 微信不小心删除的好友和群聊，如何偷偷的加回来？
- ## [android架构分享-MVP](https://blog.csdn.net/VcStrong/article/details/95217444)
- > android架构分享-MVP
- ## [云计算之OpenStack架构详解](https://blog.csdn.net/lixinkuan328/article/details/94911352)
- > 云计算之OpenStack架构详解
- ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
- > 架构杂谈《四》
- ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
- > ZooKeeper 的设计理念和架构
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
- ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
- > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
- ## [2.SOA架构和微服务架构的区别](https://blog.csdn.net/lzb348110175/article/details/96738781)
- > 2.SOA架构和微服务架构的区别
- ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
- > 前端开发都应该知道的配置中心
- ## [flutter 如何实现文件读写(使用篇)](https://blog.csdn.net/weixin_42110682/article/details/95333428)
- > flutter 如何实现文件读写(使用篇)
- ## [Dialog Fragment使用与填坑](https://blog.csdn.net/qq_42780052/article/details/97138647)
- > Dialog Fragment使用与填坑
- ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
- > 史上最全的Android性能优化面试题集锦
- ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
- > 华为手机自带语音转文字的功能，转换方法如下
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
 # PM 
  ## [​女性劳动更容易被 AI 替代？才不是！](http://www.pmtoo.com/article/78565.html)
  > 一个更自动化的社会，会显著的减少对一般人类劳动力的需求。在人类各种能力中，偏向创造力、想象力、沟通交流能力，以及控制...
