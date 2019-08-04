@@ -1,21 +1,21 @@
 ---
 title: 2019-08-04 IT News
 copyright: true
-date: 2019-08-04 08:01:17
+date: 2019-08-04 09:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564876805&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSyHjnSx3qOOJPSJEpohY-ZHKKJa-G6LlYtNKjVMT2jG0uFM25UBzfySyqzw1TEqhWCt-nXaWLPtBujXO5*HdM6E&new=1)
- > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
- ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564876805&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHK6VjeMHAROLQ5ZKyKUF8CNJlA8JptYm2UexnBBP*nN8fj8pEYWlHiOgtNaJo8dyY1pL6d5sMniaXY1OhrhnbwA&new=1)
- > 两大运营商合并，还诞生了一个超级“搅屎棍”，美国5G市场格局大变，而这背后的动机更令人深思。两大运营商终于合并 7月27日，美国司法部终于批准美国第三大运营商T-Mobile和第四大运营商Sprint合并。但这次合并...
- ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564876805&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVYT2Po9OR85PvwpXPacuQaFtN2xwuWvaXaeHHKxD1lz-Qlbgdxsml46NyHQ1tUJ08HBdq4IRfRPYMfokcpn1Ys9&new=1)
+ ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVZ1ikw94K-1ACxL7nKabEkKTq7H-Dk*-rWEIXXPWNAmlqoXrA6IH1hb3QNT7FEocrVkULrEybjOYYZG7v1*-cXK&new=1)
  > Esther｜ 编辑自2017年IPO以来，社交媒体公司Snap几乎一直呈下跌状态，甚至从17美元的发行价一度跌到4.99美元。不过在今年，这一状态开始有所回升，据Snap第一季财报显示，其营收同比整张39%，日活已经超过1.9亿...
- ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564876805&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNav9v9n*IOebkAQHEEVgQz7HofIycpq48WksgIvcBNyf6*z4qw4ehN4RrDbCPCVw5Voq23rJXcnga60wuM*bFM*&new=1)
- > 据中央广播电视总台经济之声《天下财经》报道，报告显示，今年上半年，4K超高清电视占国内彩电销售的比重达到70%，预计年底将超过80%，进入普及阶段。不过业内认为，技术的发展，更呼唤更多4K超高清内容的产生。...
- ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564876805&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMEhhftZmrP42*SV4RJ5mRyW9*Jhx6f43V5vukTbodTybA-pqxUh1jbxX9ftlh2t4qfCoQoBfqpZJBUIpERPkLFm&new=1)
+ ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMFWLtRtOmViUBXxUPf4ppk9v2n6I2FTsa3vAJAadcSoguPFm-dOSmNWzFy6lydmB5S-76qsN0d8ouXMF8yTtXSw&new=1)
  > 前两天，中国电信爆了个大料：9 月 1 日起，无限流量套餐将被取消。消息一出，网友又沸腾啦。。都说这是想要变相涨价…官方随后也给出解释，据传来自中国电信内部的文件显示：这是为满足用户需求。机哥只想说呵...
+ ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHKRg5*VFYfCR0unnmT81QZbA1CtVfcAzSx4oQ02T7rvYBu-mJ61SLqKZTaAQdFw9QIKdf9D7HV37G*8tTHa3U4o&new=1)
+ > 两大运营商合并，还诞生了一个超级“搅屎棍”，美国5G市场格局大变，而这背后的动机更令人深思。两大运营商终于合并 7月27日，美国司法部终于批准美国第三大运营商T-Mobile和第四大运营商Sprint合并。但这次合并...
+ ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSyl1f16FuFsruCuX18238ZuNYwxHlDrzCNKgeM*WcMze0RMcd8FawofZ0gP6mtasl*42ClxRxZA-vKv24CC8OfQ&new=1)
+ > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
+ ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNZA44ZtLlwR2vEMva35PBGYQtVoywAFsiUyGC6GNy8owipqCypG8XWPfy1TSwrJv3kqEwy34XQIsdtuIvQWTc0r&new=1)
+ > 据中央广播电视总台经济之声《天下财经》报道，报告显示，今年上半年，4K超高清电视占国内彩电销售的比重达到70%，预计年底将超过80%，进入普及阶段。不过业内认为，技术的发展，更呼唤更多4K超高清内容的产生。...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,38 +73,67 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
- ## [C语言电池助手（代码实例）](https://blog.csdn.net/weixin_43812804/article/details/96865520)
- > C语言电池助手（代码实例）
- ## [抖音视频免费去水印的方法](https://blog.csdn.net/qwqwqq/article/details/94344817)
- > 抖音视频免费去水印的方法
- ## [万能音视频转换器：Permute 3 for mac](https://blog.csdn.net/yjh66666/article/details/95003677)
- > 万能音视频转换器：Permute 3 for mac
- ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
- > Atlassian In Action-Jira之核心插件（三）
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
+ ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
+ > Rancher安装、部署、使用
+ ## [【程序人生】 简单解读linux shell脚本语言和lmdb数据库](https://blog.csdn.net/Zhang_Chen_/article/details/94650249)
+ > 【程序人生】 简单解读linux shell脚本语言和lmdb数据库
+ ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
+ > 【Docker】Swarm集群的配置与管理
+ ## [微软云-CDN防盗链的配置和使用](https://blog.csdn.net/Sugoar/article/details/95307449)
+ > 微软云-CDN防盗链的配置和使用
+ ## [必知必会的大数据和云计算学习知识点，分享教学视频](https://blog.csdn.net/qq_43958076/article/details/96564293)
+ > 必知必会的大数据和云计算学习知识点，分享教学视频
+ ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
+ > 来看漫画：我才是世界上最好的编程语言
+ ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
+ > 大数据和云计算技术周报（第110期)
+ ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
+ > 开启技术之旅——我的第一篇博客
+ ## [构建Java Web应用实验](https://blog.csdn.net/qq_41614928/article/details/96558828)
+ > 构建Java Web应用实验
+ ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
+ > 持续集成管理软件Jenkins应用实验
+ ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
+ > 程序人生（项目导入依赖）
+ ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
+ > 简书：编程入门学习的困惑
+ ## [ARDUINO电路板及编程语言](https://blog.csdn.net/lchu55/article/details/95594717)
+ > ARDUINO电路板及编程语言
+ ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
+ > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
+ ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
+ > 【Docker】Docker-compose容器编排的使用
+# 人工智能 
+ ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
+ > react-native学习总结与部分报错提示
+ ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
+ > 【Docker】Swarm集群的配置与管理
+ ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
+ > Rancher安装、部署、使用
+ ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
+ > 数据湖正在成为新的数据仓库
  ## [音视频码率的计算](https://blog.csdn.net/LS7011846/article/details/96724472)
  > 音视频码率的计算
- ## [推荐几款简单的音视频编辑软件](https://blog.csdn.net/qq_43173244/article/details/96130140)
- > 推荐几款简单的音视频编辑软件
- ## [Qt中使用vlc-qt处理音视频](https://blog.csdn.net/m0_38133212/article/details/96289358)
- > Qt中使用vlc-qt处理音视频
- ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
- > 基于二级C语言的一些经典小程序
- ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
- > 音视频开发基础学习-----视频与音频原始格式
- ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
- > JAVA基础的基础1.0
- ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
- > 爬虫基础：HTTP基本原理
- ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
- > 网络爬虫HTTP原理、网页请求、网页基础
- ## [JavaScript流程控制语句和常用特殊语句](https://blog.csdn.net/zhangjx1213/article/details/95348774)
- > JavaScript流程控制语句和常用特殊语句
- ## [深入理解  Android 组件的 exported 属性](https://blog.csdn.net/ylyg050518/article/details/95374517)
- > 深入理解  Android 组件的 exported 属性
- ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
- > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
+ > 音视频开发--音视频的基础知识--音频
+ ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
+ > 干货分享：Totoro 在自动化测试领域的深耕与收获
+ ## [史上最全的Android热点技术面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96627593)
+ > 史上最全的Android热点技术面试题集锦
+ ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
+ > 史上最全的Android性能优化面试题集锦
+ ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
+ > 移动开发——问卷调查
+ ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
+ > 前端开发都应该知道的配置中心
+ ## [音视频开发-AVAudioSession在开发中的应用](https://blog.csdn.net/shengpeng3344/article/details/96424515)
+ > 音视频开发-AVAudioSession在开发中的应用
+ ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
+ > 基于云计算与大数据应用开发的论述
+ ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
+ > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
+ ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
+ > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
 # PM 
  ## [​女性劳动更容易被 AI 替代？才不是！](http://www.pmtoo.com/article/78565.html)
  > 一个更自动化的社会，会显著的减少对一般人类劳动力的需求。在人类各种能力中，偏向创造力、想象力、沟通交流能力，以及控制...
