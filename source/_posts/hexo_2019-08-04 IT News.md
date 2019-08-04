@@ -1,21 +1,25 @@
 ---
 title: 2019-08-04 IT News
 copyright: true
-date: 2019-08-04 09:01:07
+date: 2019-08-04 10:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVZ1ikw94K-1ACxL7nKabEkKTq7H-Dk*-rWEIXXPWNAmlqoXrA6IH1hb3QNT7FEocrVkULrEybjOYYZG7v1*-cXK&new=1)
- > Esther｜ 编辑自2017年IPO以来，社交媒体公司Snap几乎一直呈下跌状态，甚至从17美元的发行价一度跌到4.99美元。不过在今年，这一状态开始有所回升，据Snap第一季财报显示，其营收同比整张39%，日活已经超过1.9亿...
- ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMFWLtRtOmViUBXxUPf4ppk9v2n6I2FTsa3vAJAadcSoguPFm-dOSmNWzFy6lydmB5S-76qsN0d8ouXMF8yTtXSw&new=1)
- > 前两天，中国电信爆了个大料：9 月 1 日起，无限流量套餐将被取消。消息一出，网友又沸腾啦。。都说这是想要变相涨价…官方随后也给出解释，据传来自中国电信内部的文件显示：这是为满足用户需求。机哥只想说呵...
- ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHKRg5*VFYfCR0unnmT81QZbA1CtVfcAzSx4oQ02T7rvYBu-mJ61SLqKZTaAQdFw9QIKdf9D7HV37G*8tTHa3U4o&new=1)
- > 两大运营商合并，还诞生了一个超级“搅屎棍”，美国5G市场格局大变，而这背后的动机更令人深思。两大运营商终于合并 7月27日，美国司法部终于批准美国第三大运营商T-Mobile和第四大运营商Sprint合并。但这次合并...
- ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSyl1f16FuFsruCuX18238ZuNYwxHlDrzCNKgeM*WcMze0RMcd8FawofZ0gP6mtasl*42ClxRxZA-vKv24CC8OfQ&new=1)
- > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
- ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564880404&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNZA44ZtLlwR2vEMva35PBGYQtVoywAFsiUyGC6GNy8owipqCypG8XWPfy1TSwrJv3kqEwy34XQIsdtuIvQWTc0r&new=1)
+ ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNZA44ZtLlwR2vEMva35PBGY1y-laY2TgjCrmEkfkNKCreYkVh8D05eXWD16CyQgZYuaHXi7my43EvCi4zyMOxMc&new=1)
  > 据中央广播电视总台经济之声《天下财经》报道，报告显示，今年上半年，4K超高清电视占国内彩电销售的比重达到70%，预计年底将超过80%，进入普及阶段。不过业内认为，技术的发展，更呼唤更多4K超高清内容的产生。...
+ ## [\[科技早报7点整\]马斯克要在中国挖隧道 苹果信用卡禁止购买加密货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=ylrY*otcRpfOq0DBQd7EXO5jryXEuG*ysFSy15XQSTaaW-YKy1az8ZzXfc21kcAXt6pDX9fPhUzez9vtJS5CHD2vZ2J2l2rs3T0sl9zPcfseQ1Tcom-n7Gs*9oLv9brg&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第550期1.网易计划投资不少于50亿用以打造电竞生态园区 据网易游戏总裁丁迎峰介绍，网易计划投资超50亿，在上海市青浦区打造网易电竞生态园区，包括产品研发、竞技场馆、人才建...
+ ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSyl1f16FuFsruCuX18238ZukVZqCBTgabUfprOZDb-3coOZV7xiUc*bR6j2exD324fr6z0-HBxKEyFHvKVmOxXy&new=1)
+ > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
+ ## [新办法：如何在微信里一步直达南极熊3D打印资讯](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=bddxFY4NmhrTr1LayW57yqzzGdazC5YyOW6Wv104xnVb9Y4uj8PeaXzBdMdFLKWFc3oWA-CPOna45c3FOo3B5pdsbL4Edj38fbNN1s*ipOCKX0lQsfUjOAUmC9MrqfWt&new=1)
+ > 新技能GET✓:一个动作，即可直达3D打印资讯。为了更方便用户在微信里阅读3D打印资讯，南极熊开发了3D打印微信小程序，设置好了之后，可以一步直达。微信设置步骤：①扫码进入3D打印微信小程序②进入南极熊3D打印...
+ ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVZ1ikw94K-1ACxL7nKabEkKhHcKupcQwHp2waG*gVtLb4zEZGWnP-cPgDj1ey3J9nJt29cjRzrpmZs3ryGqe-86&new=1)
+ > Esther｜ 编辑自2017年IPO以来，社交媒体公司Snap几乎一直呈下跌状态，甚至从17美元的发行价一度跌到4.99美元。不过在今年，这一状态开始有所回升，据Snap第一季财报显示，其营收同比整张39%，日活已经超过1.9亿...
+ ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMFWLtRtOmViUBXxUPf4ppk9nwDuWCRFzDqcWXqhIYJaXFaeMHqoCFKx2mp-byS2S6I3kg4V3rT7zHhaz-0fE-v-&new=1)
+ > 前两天，中国电信爆了个大料：9 月 1 日起，无限流量套餐将被取消。消息一出，网友又沸腾啦。。都说这是想要变相涨价…官方随后也给出解释，据传来自中国电信内部的文件显示：这是为满足用户需求。机哥只想说呵...
+ ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564884004&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHKRg5*VFYfCR0unnmT81QZbaUN-ANYekcZJBpI2W1ee*VBcESzD7cOZ6s3NqLS4HmJFa0aUTXAOeKUmlbeeQtSC&new=1)
+ > 两大运营商合并，还诞生了一个超级“搅屎棍”，美国5G市场格局大变，而这背后的动机更令人深思。两大运营商终于合并 7月27日，美国司法部终于批准美国第三大运营商T-Mobile和第四大运营商Sprint合并。但这次合并...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,67 +77,87 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
+ ## [可编程4G DTU物联网网关](https://blog.csdn.net/weixin_42687537/article/details/97134815)
+ > 可编程4G DTU物联网网关
+ ## [ESP8266发送温湿度到物联网（1）](https://blog.csdn.net/qq_35590091/article/details/53932767)
+ > ESP8266发送温湿度到物联网（1）
+ ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
+ > ZooKeeper 的设计理念和架构
+ ## [2.SOA架构和微服务架构的区别](https://blog.csdn.net/lzb348110175/article/details/96738781)
+ > 2.SOA架构和微服务架构的区别
+ ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
+ > 物联网、工业互联网大数据的特点
+ ## [分布式架构的架构稳定性](https://blog.csdn.net/m0_38125278/article/details/95046242)
+ > 分布式架构的架构稳定性
+ ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
+ > 架构杂谈《六》
+ ## [转战物联网·基础篇02-物联网中的角儿](https://blog.csdn.net/yyykj/article/details/95322311)
+ > 转战物联网·基础篇02-物联网中的角儿
+ ## [建筑施工借助物联网卡保障高楼安全](https://blog.csdn.net/qq_40798435/article/details/95489469)
+ > 建筑施工借助物联网卡保障高楼安全
  ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
  > Rancher安装、部署、使用
- ## [【程序人生】 简单解读linux shell脚本语言和lmdb数据库](https://blog.csdn.net/Zhang_Chen_/article/details/94650249)
- > 【程序人生】 简单解读linux shell脚本语言和lmdb数据库
  ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
  > 【Docker】Swarm集群的配置与管理
- ## [微软云-CDN防盗链的配置和使用](https://blog.csdn.net/Sugoar/article/details/95307449)
- > 微软云-CDN防盗链的配置和使用
- ## [必知必会的大数据和云计算学习知识点，分享教学视频](https://blog.csdn.net/qq_43958076/article/details/96564293)
- > 必知必会的大数据和云计算学习知识点，分享教学视频
- ## [来看漫画：我才是世界上最好的编程语言](https://blog.csdn.net/Coo123_/article/details/96140485)
- > 来看漫画：我才是世界上最好的编程语言
- ## [大数据和云计算技术周报（第110期)](https://blog.csdn.net/zNZQhb07Nr/article/details/95128656)
- > 大数据和云计算技术周报（第110期)
- ## [开启技术之旅——我的第一篇博客](https://blog.csdn.net/weixin_43461178/article/details/94843812)
- > 开启技术之旅——我的第一篇博客
- ## [构建Java Web应用实验](https://blog.csdn.net/qq_41614928/article/details/96558828)
- > 构建Java Web应用实验
- ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
- > 持续集成管理软件Jenkins应用实验
- ## [程序人生（项目导入依赖）](https://blog.csdn.net/weixin_44065214/article/details/95392350)
- > 程序人生（项目导入依赖）
- ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
- > 简书：编程入门学习的困惑
- ## [ARDUINO电路板及编程语言](https://blog.csdn.net/lchu55/article/details/95594717)
- > ARDUINO电路板及编程语言
- ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
- > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
- ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
- > 【Docker】Docker-compose容器编排的使用
-# 人工智能 
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
- ## [【Docker】Swarm集群的配置与管理](https://blog.csdn.net/qq_41614928/article/details/96429771)
- > 【Docker】Swarm集群的配置与管理
- ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
- > Rancher安装、部署、使用
- ## [数据湖正在成为新的数据仓库](https://blog.csdn.net/yunqiinsight/article/details/95174031)
- > 数据湖正在成为新的数据仓库
- ## [音视频码率的计算](https://blog.csdn.net/LS7011846/article/details/96724472)
- > 音视频码率的计算
- ## [音视频开发--音视频的基础知识--音频](https://blog.csdn.net/qq_28877125/article/details/94908394)
- > 音视频开发--音视频的基础知识--音频
- ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
- > 干货分享：Totoro 在自动化测试领域的深耕与收获
- ## [史上最全的Android热点技术面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96627593)
- > 史上最全的Android热点技术面试题集锦
- ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
- > 史上最全的Android性能优化面试题集锦
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
- ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
- > 前端开发都应该知道的配置中心
- ## [音视频开发-AVAudioSession在开发中的应用](https://blog.csdn.net/shengpeng3344/article/details/96424515)
- > 音视频开发-AVAudioSession在开发中的应用
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
  ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
  > 基于云计算与大数据应用开发的论述
- ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
- > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
+ ## [MQTT物联网通信协议概论](https://blog.csdn.net/bemfa/article/details/96564875)
+ > MQTT物联网通信协议概论
+ ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
+ > Encoder-Decoder架构与注意力机制
+ ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
+ > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [云计算将会让数据中心消失？](https://blog.csdn.net/csdnnews/article/details/98402712)
+ > 作者 |王洪鹏责编 | 胡巍巍出品 | CSDN云计算（ID：CSDNcould）近年来企业应用云化明显，越来越多的企业开始将自己的公司业务转移到云平台之上，可能是迁到...
+ ## [Python 快速入门，你想要的就在这里了！](https://blog.csdn.net/csdnnews/article/details/98402744)
+ > 学习Python您是否会面临以下问题？“网上充斥着大量的学习资源、书籍、视频教程和博客，但是大部分都是讲解基础知识，不够深入；也有的比较晦涩，难以理解”。CSDN Py...
+ ## [CSS 如何影响浏览器元素在文档中的排列？](https://blog.csdn.net/csdnnews/article/details/98402766)
+ > 作者 | SHERlocked93责编 | 胡巍巍之前在项目的过程中遇到了一个问题，某个 div 希望始终显示在最上面，而在之后的元素都显示在它之下，当时设置了 z-in...
+ ## [50 年人类登月史：那些不为人知的故事](https://blog.csdn.net/csdnnews/article/details/98332161)
+ > 2019年7月20日是纪念人类登月五十周年的好日子。人类于1969年首次正式登上月球，历史将永远铭记两位宇航员的名字：尼尔·阿姆斯特朗与巴兹·奥尔德林。然后，这背后还有...
+ ## [自动驾驶激荡风云录：来自圈内人的冷眼解读](https://blog.csdn.net/csdnnews/article/details/98331942)
+ > 作者 |黄浴，奇点汽车美研中心总裁兼自动驾驶首席科学家编辑 |夕颜，责编 | 胡巍巍出品 | AI科技大本营（ID:rgznai100）最近一个月，有关自动驾驶的新...
+ ## [@程序员：别人身边的小姐姐是这样来的，你能学学吗](https://blog.csdn.net/csdnnews/article/details/98332210)
+ > 我是一个程序猿喜欢上了公司新来的产品小姐姐小姐姐人美腿长气质好虽然上班等公交燥热的不行但是这阻碍不了我约我的小姐姐出来玩恰逢这个周末不用加班改代码了我鼓起勇气打开小姐姐的...
+ ## [200 万年薪的博士，华为到底看重什么？](https://blog.csdn.net/csdnnews/article/details/98332178)
+ > 薪资，是职场上永恒不变的热门话题。7 月 23 日，华为总裁办首次向大众公开 2019 届 8 名实行年薪制的顶尖学生的薪酬方案，最高年薪为 201 万元，最低年薪为 ...
+ ## [华为拟安装“俄版安卓”；百度回应内部贪腐；Android Studio 3.5 RC2 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/98332036)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [物联网已死，API 万岁！](https://blog.csdn.net/csdnnews/article/details/98332108)
+ > “物联网”的未来从来都不是关于更快、更好、更新和更多的硬件，它一直是聚焦于让设备协同工作，创造奇迹。作为用户，未来我们是否注定了要不断地在手机上搜索应用程序？或者绞尽脑汁...
+# 人工智能 
+ ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
+ > 聚师网资讯看不到的眼睛
+ ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
+ > react-native学习总结与部分报错提示
+ ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
+ > 微信不小心删除的好友和群聊，如何偷偷的加回来？
+ ## [android架构分享-MVP](https://blog.csdn.net/VcStrong/article/details/95217444)
+ > android架构分享-MVP
+ ## [云计算之OpenStack架构详解](https://blog.csdn.net/lixinkuan328/article/details/94911352)
+ > 云计算之OpenStack架构详解
+ ## [架构杂谈《四》](https://blog.csdn.net/a1022560838/article/details/96270009)
+ > 架构杂谈《四》
+ ## [ZooKeeper 的设计理念和架构](https://blog.csdn.net/QQB67G8COM/article/details/95041543)
+ > ZooKeeper 的设计理念和架构
+ ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
+ > 避免面试尴尬，你需要了解的20个架构师相关缩写
  ## [移动OA办公——Smobiler第一个开源应用解决方案，快来get吧](https://blog.csdn.net/Smobiler/article/details/95186913)
  > 移动OA办公——Smobiler第一个开源应用解决方案，快来get吧
+ ## [2.SOA架构和微服务架构的区别](https://blog.csdn.net/lzb348110175/article/details/96738781)
+ > 2.SOA架构和微服务架构的区别
+ ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
+ > 前端开发都应该知道的配置中心
+ ## [flutter 如何实现文件读写(使用篇)](https://blog.csdn.net/weixin_42110682/article/details/95333428)
+ > flutter 如何实现文件读写(使用篇)
+ ## [Dialog Fragment使用与填坑](https://blog.csdn.net/qq_42780052/article/details/97138647)
+ > Dialog Fragment使用与填坑
+ ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
+ > 史上最全的Android性能优化面试题集锦
+ ## [华为手机自带语音转文字的功能，转换方法如下](https://blog.csdn.net/WoChaotian_/article/details/95047151)
+ > 华为手机自带语音转文字的功能，转换方法如下
 # PM 
  ## [​女性劳动更容易被 AI 替代？才不是！](http://www.pmtoo.com/article/78565.html)
  > 一个更自动化的社会，会显著的减少对一般人类劳动力的需求。在人类各种能力中，偏向创造力、想象力、沟通交流能力，以及控制...
