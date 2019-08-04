@@ -1,26 +1,32 @@
 ---
 title: 2019-08-04 IT News
 copyright: true
-date: 2019-08-04 12:01:17
+date: 2019-08-04 17:02:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [黑客疯狂窃取超百万张韩国银行卡信息，因为其“性价比高”](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=U2nDj0flK77IB*Br-qwpgYu*fKLApqkpQ3qycZJ2*u5-dshOkOmBKJJDIlyUdBvE5dxnS1jqcu2duZ0sClJ3vwTs3CJgdLk*IlqIJoiFU*tNbjOFQWPtq6A4vJGCv9UI&new=1)
+ ## [悲剧!碧桂园突爆大料，房地产即将迎来大变天!](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=5bAghEjMj*p5X2ypMLaO9yt7bdd5lt-8SkqS77GRep6CZswU3U1ppiayS2zzo*FvDReqt*j8Qa7*KBOQe0mMmrNaipYNSerizdKvUue-iqq4DTzy*s0EmVGuSPK9qRmG&new=1)
+ > 所有人都没想到：当年土得掉渣的碧桂园如今却干起最先进的机器人行业！所有人都没想到碧桂园的转型来得如此之快未来，各行各业或将迎来大变天！一场“风暴”即将来临！近日，碧桂园老板杨国强在全国两会上突然提...
+ ## [8.8丨鲲鹏聚数，重定义数据基础设施](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=b8vnLhkHuebdxcBVY2GwgfzIVAtU*7GpdlcttW*neCuYYrKh35v9wgiyraZqUe7ks*AiEVoW3A9AQ5SRu4yCOjhWru*OaDeH9j1jkdQiUh5ezHqvaZOxVhFvu0IaB8sq&new=1)
+ > 数字经济时代，数据已成为新的生产资料，智能成为新的生产力。预计2025年，全球数据量会超过180ZB，产生的数字经济规模将高达23万亿美金。 然而，当前企业仅有2%的数据得以保存，被保存的数据只有不到10%得以分...
+ ## [5G军备竞赛打响：诺基亚+爱立信，竟然赶不上半个华为](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=GJe9cq4LrNphW6p8NLC7S-Ohpfql7tABxDpLDsvBhvatCNvh-5BzGOHSfl-QJpHYm2GVwtQeMOresGqAhIsmw-loGOfW1mX*zRJs-VxEkirSBHg0Bfj*K9dVe4HaOpPS&new=1)
+ > 关键时刻，第一时间送达来源 / 甲方研究社（ID：jiafangribao）独家首发 / 腾讯科技（ID：qqtech）欢迎下载腾讯新闻APP，查看更多科技热点新闻从整体营收上看，华为的规模已经远超诺基亚和爱立信，甚至后两者的...
+ ## [黑客疯狂窃取超百万张韩国银行卡信息，因为其“性价比高”](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=U2nDj0flK77IB*Br-qwpgYu*fKLApqkpQ3qycZJ2*u4O9Yn508HWb*3lWQiaz7NkYfetjxrLgNROpk-lSqtQiTg8uOpJUzhT1vvzgasoUCrJVOAw5VMG*xNyeifq5KoU&new=1)
  > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：不止是韩国，整个亚太地区的银行卡信息都深受黑客喜爱。据外媒报道，在过去两个月内，黑客在某犯罪论坛上出售了超过一百万张韩国银行卡的详细信息。...
- ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSzVLqmABsWBYun91qyMOlHwATkTxlGRlXzZ06KQTWdt*xQJrkmbqFWqTMQg6Y96PdZNcQIpd962mcEQ7y79gf6N&new=1)
- > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
- ## [新办法：如何在微信里一步直达南极熊3D打印资讯](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=bddxFY4NmhrTr1LayW57yqzzGdazC5YyOW6Wv104xnViQYVMGiiClFFWVbmsKe4KI1RQ32N252PUbywysXoDrDpiZ3ccv7GMurkRcTGS1cttrIH261EGO7gqgQSA6TZU&new=1)
+ ## [新办法：如何在微信里一步直达南极熊3D打印资讯](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=bddxFY4NmhrTr1LayW57yqzzGdazC5YyOW6Wv104xnWHOZOQwGiz2qjun2Utsec2tdmD3srAlNtUvecCI6f-RuOfvqIDZaUVvZcGfL6sTjuibCqCwYR*j4o*xEzUUE-A&new=1)
  > 新技能GET✓:一个动作，即可直达3D打印资讯。为了更方便用户在微信里阅读3D打印资讯，南极熊开发了3D打印微信小程序，设置好了之后，可以一步直达。微信设置步骤：①扫码进入3D打印微信小程序②进入南极熊3D打印...
- ## [\[科技早报7点整\]马斯克要在中国挖隧道 苹果信用卡禁止购买加密货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=ylrY*otcRpfOq0DBQd7EXO5jryXEuG*ysFSy15XQSTYekVi9-LmQlhRO7LehwHcrdvKRX03vEJ60v2NrFdbFGtrb2qpRGAp7FtSka7OpFV8Ifean70cwpcL281y8OE1C&new=1)
+ ## [\[科技早报7点整\]马斯克要在中国挖隧道 苹果信用卡禁止购买加密货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=ylrY*otcRpfOq0DBQd7EXO5jryXEuG*ysFSy15XQSTYqoJaVMVKPMm2mzzoARCBvCUB8r1CAN8fDBzJWijz5breAuyl2YsVd29ea4*iar5B231jXsRxYzEcg4qUiXqcA&new=1)
  > 早上好，科技圈【一度蜜科技早报】第550期1.网易计划投资不少于50亿用以打造电竞生态园区 据网易游戏总裁丁迎峰介绍，网易计划投资超50亿，在上海市青浦区打造网易电竞生态园区，包括产品研发、竞技场馆、人才建...
- ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNZpXjx1qVq2Fz0NgNJCbNFPnDlhW81oMBuG1E6MsRqiGl*VlZyzng*jD7Uh5EQQnxucz3d0sYrqm-2aOWenXMcw&new=1)
+ ## [海能达发布全新一代PDT专业数字对讲机HP780](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=oFgNfihO7vABIDsn54W*09L5R8ou836osORZHhsJUSxhW2Q2VgFqV4JJ27UCceDv4MUnNuR8KJgMFqXUJaMfwSaZ4ouuXTljIqCVUmwvfZqYHkimJn6j*hS7pMT3nMEU&new=1)
+ > 近日，海能达发布了全新一代PDT数字对讲机HP780。全新的ID与UI设计，旨在为行业客户带来更专业、更快捷的通信体验，确保关键任务通信。作为行业领导者之一，海能达拥有多年专业PDT对讲机研发制造经验，为世界各...
+ ## [上半年4K超高清电视占国内彩电销售比重达70%](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=dW5TLdiqP4S80rJvkakkdtaoX66165CRfkhz4gB8LNYUISCOzMxZMt-EFCQcwA4qfjBoPYgTgwfgDwQp-9KEjBUcOLm08qNXhzDES4ivRQzQsJjTgBoSRaNiIvGY-xb8&new=1)
  > 据中央广播电视总台经济之声《天下财经》报道，报告显示，今年上半年，4K超高清电视占国内彩电销售的比重达到70%，预计年底将超过80%，进入普及阶段。不过业内认为，技术的发展，更呼唤更多4K超高清内容的产生。...
- ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVYccpRLxKys21k-7rRWXmhDSv8aaKqT4Y9jJe7f51J7A*0jOWldTWR8QorWp0NOFBFjY*N8-HmjV1pSisrpnZBA&new=1)
+ ## [Snap CTO专访：AR内容是未来，不只是社交工具那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=Og3aAwPL0*zIWrejNxyrdkQevjAh7NCSVSZFjmTEKVaFWYRXZp6nZq9VN8PeF93tFQ7DROBsQYbfp6G7TylfTM85grVCLYLTCBVnEvsMfQ6y0llRzAhzuWbGqdL18Yxp&new=1)
  > Esther｜ 编辑自2017年IPO以来，社交媒体公司Snap几乎一直呈下跌状态，甚至从17美元的发行价一度跌到4.99美元。不过在今年，这一状态开始有所回升，据Snap第一季财报显示，其营收同比整张39%，日活已经超过1.9亿...
- ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMEPU7Rlwz4Uefp-gTQRDV8EepDbWbsiCrr2iZed-isVFEO8KUSL1vIi7-r3t548S63dymNPCgQZ7eBdlzfr6J9n&new=1)
+ ## [又特么被套路，手机流量居然要涨价?](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=tllKEVZh-EtpFJxbIcB6nXRJTWFvC3WGsdSGwptKLMG5Q-pK9XvioQoVK*eGrP4lxgmnnweRncarvj7aNkGy3xfw6*7Ib4kH1WrgGhpU*rO7NXbFH9ZghIFX8QsVLszL&new=1)
  > 前两天，中国电信爆了个大料：9 月 1 日起，无限流量套餐将被取消。消息一出，网友又沸腾啦。。都说这是想要变相涨价…官方随后也给出解释，据传来自中国电信内部的文件显示：这是为满足用户需求。机哥只想说呵...
- ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564891204&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHLIgrDUlKWNDdKfFjmhhtSWxIg8u3U5dKLekCNf0-j*cjjlWlgBzrXfFhaWb2b*MJoeyHtCrjo-VhXQdjTgrCz1&new=1)
+ ## [美国5G格局巨变令人深思](http://mp.weixin.qq.com/s?src=11&timestamp=1564909205&ver=1769&signature=kvIGMFV7hJdGqBSkxpjErBKzu7AVi*drPTTjOH3TRHKGm24m4fZYveirjgyJh4RVB5axGshmwqNqS9p7s*lFU-SMT1ZW-B9BsiLBX-9gPqWUst4Oi7XEOwkaKK0PrUSk&new=1)
  > 两大运营商合并，还诞生了一个超级“搅屎棍”，美国5G市场格局大变，而这背后的动机更令人深思。两大运营商终于合并 7月27日，美国司法部终于批准美国第三大运营商T-Mobile和第四大运营商Sprint合并。但这次合并...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -79,36 +85,36 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
- ## [基于云计算与大数据应用开发的论述](https://blog.csdn.net/yubangxin929/article/details/95363140)
- > 基于云计算与大数据应用开发的论述
- ## [前端项目分析：我是如何做图片优化的（预加载和懒加载）](https://blog.csdn.net/qq_43624878/article/details/95226831)
- > 前端项目分析：我是如何做图片优化的（预加载和懒加载）
- ## [Unity3D游戏开发笔记-2【优化】](https://blog.csdn.net/ss5214423/article/details/96136274)
- > Unity3D游戏开发笔记-2【优化】
- ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
- > 【Docker】Docker网络
- ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
- > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
- ## [把json数据的id加到接口里id的后面](https://blog.csdn.net/qq_43473279/article/details/95340389)
- > 把json数据的id加到接口里id的后面
- ## [golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）](https://blog.csdn.net/qq_35488769/article/details/95043088)
- > golang游戏开发学习笔记-开发一个简单的2D游戏(基础篇）
- ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
- > 【Docker】Docker-compose容器编排的使用
- ## [“设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感](https://blog.csdn.net/memories_sunset/article/details/94757407)
- > “设计模式在游戏里面有哪些应用？”由一道面试题引发的《Game Programming Design》读后感
- ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
- > 学习编程基础知识，进阶成为更优秀的程序员
- ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
- > Win32 游戏开发：贪吃蛇 上篇
- ## [Python图形界面游戏开发](https://blog.csdn.net/PyhtonChen/article/details/96149214)
- > Python图形界面游戏开发
- ## [构建Docker负载均衡实验](https://blog.csdn.net/qq_41614928/article/details/96559424)
- > 构建Docker负载均衡实验
- ## [Unity3D  (新)SteamVR 2.0手柄输入与震动](https://blog.csdn.net/qq_34229678/article/details/96970866)
- > Unity3D  (新)SteamVR 2.0手柄输入与震动
- ## [前端常用方法封装](https://blog.csdn.net/qq_37297578/article/details/97100569)
- > 前端常用方法封装
+ ## [聊聊微服务架构的优缺点](https://blog.csdn.net/claram/article/details/94552998)
+ > 聊聊微服务架构的优缺点
+ ## [C语言电池助手（代码实例）](https://blog.csdn.net/weixin_43812804/article/details/96865520)
+ > C语言电池助手（代码实例）
+ ## [金融行业微服务架构解析](https://blog.csdn.net/weixin_45443931/article/details/97079458)
+ > 金融行业微服务架构解析
+ ## [简单的二层交换安全](https://blog.csdn.net/weixin_44779777/article/details/96734134)
+ > 简单的二层交换安全
+ ## [Java基础（一）环境变量的配置和如何运行自己的第一个java文件](https://blog.csdn.net/qq_41615348/article/details/95585175)
+ > Java基础（一）环境变量的配置和如何运行自己的第一个java文件
+ ## [Druid架构讲解](https://blog.csdn.net/liaynling/article/details/96473842)
+ > Druid架构讲解
+ ## [《白帽子讲Web安全》| 学习笔记之HTML5安全](https://blog.csdn.net/qq_42646885/article/details/95306302)
+ > 《白帽子讲Web安全》| 学习笔记之HTML5安全
+ ## [API安全接口安全设计](https://blog.csdn.net/zhou920786312/article/details/95536556)
+ > API安全接口安全设计
+ ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
+ > 网络爬虫HTTP原理、网页请求、网页基础
+ ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
+ > C++基础1：类与对象基础
+ ## [谈谈KAFKA的架构以及这种架构的优势](https://blog.csdn.net/qq32933432/article/details/96474985)
+ > 谈谈KAFKA的架构以及这种架构的优势
+ ## [Linux网络安全－Zabbix入门（一）](https://blog.csdn.net/weixin_44985068/article/details/97169851)
+ > Linux网络安全－Zabbix入门（一）
+ ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
+ > 基于二级C语言的一些经典小程序
+ ## [android架构分享-MVP](https://blog.csdn.net/VcStrong/article/details/95217444)
+ > android架构分享-MVP
+ ## [简单总结交换安全](https://blog.csdn.net/qq_41940544/article/details/96758518)
+ > 简单总结交换安全
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [云计算将会让数据中心消失？](https://blog.csdn.net/csdnnews/article/details/98402712)
@@ -132,37 +138,53 @@ categories: IT NEWS
  ## [首款5G手机背后暗含着什么样的玄机?华为何刚这样解读](http://www.lanjingtmt.com/news/detail/44024.shtml)
  > 华为对5G手机如何规划？首款5G手机背后暗含着什么样的玄机？蓝鲸TMT记者采访了华为消费者业务手机产品线总裁何刚。
 # 人工智能 
- ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
- > 关系型数据库-MySQL进阶（二）读写分离与多实例
- ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
- > 数据库实验——数据库数据更新及查询
- ## [程序帝国四大操作之单表修改](https://blog.csdn.net/qq_44484894/article/details/96473171)
- > 程序帝国四大操作之单表修改
- ## [数据库MySQL总结（一）SQL语句](https://blog.csdn.net/lisaaaaaas0405/article/details/95644255)
- > 数据库MySQL总结（一）SQL语句
- ## [大数据能做什么,为什么学习大数据](https://blog.csdn.net/fbnggnh/article/details/95321007)
- > 大数据能做什么,为什么学习大数据
- ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
- > 如何将语音翻译成中文、语音转文字怎么做
- ## [Oracle SQL 查询及常用单行函数](https://blog.csdn.net/weixin_42927264/article/details/96988895)
- > Oracle SQL 查询及常用单行函数
- ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
- > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
- ## [大数据开发需要学习什么？大数据平台是什么？](https://blog.csdn.net/dvfghj/article/details/94974894)
- > 大数据开发需要学习什么？大数据平台是什么？
- ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
- > 【IT资讯】全新编程语言V发布
- ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
- > 进退博弈：恒指7.16号早盘资讯及操作建议
- ## [数据库：数据库练习](https://blog.csdn.net/Dreaming5498/article/details/96450326)
- > 数据库：数据库练习
- ## [连接本地数据库和远程连接他人数据库？](https://blog.csdn.net/tangweiee/article/details/94842503)
- > 连接本地数据库和远程连接他人数据库？
- ## [微信不小心删除的好友和群聊，如何偷偷的加回来？](https://blog.csdn.net/WoChaotian_/article/details/95307408)
- > 微信不小心删除的好友和群聊，如何偷偷的加回来？
- ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
- > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [Atlassian In Action-Jira之核心插件（三）](https://blog.csdn.net/pluto4596/article/details/94968827)
+ > Atlassian In Action-Jira之核心插件（三）
+ ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
+ > Atlassian In Action-Jira之推荐插件（四）
+ ## [（MYSQL常用运维指令）](https://blog.csdn.net/weixin_37565541/article/details/91490994)
+ > （MYSQL常用运维指令）
+ ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
+ > Atlassian In Action-Jira之二次开发（五）
+ ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
+ > Linux 运维一些知识点
+ ## [Linux之lvs负载均衡【DR模式】](https://blog.csdn.net/qq_36016375/article/details/94914327)
+ > Linux之lvs负载均衡【DR模式】
+ ## [Linux之rhcs【红帽6的高可用】](https://blog.csdn.net/qq_36016375/article/details/94914985)
+ > Linux之rhcs【红帽6的高可用】
+ ## [Win32 游戏开发：贪吃蛇 上篇](https://blog.csdn.net/qq_31243065/article/details/97119523)
+ > Win32 游戏开发：贪吃蛇 上篇
+ ## [Linux之Pacemaker+Corosync【红帽7的高可用】](https://blog.csdn.net/qq_36016375/article/details/94916165)
+ > Linux之Pacemaker+Corosync【红帽7的高可用】
+ ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
+ > 学习 Unity 3D游戏开发日常笔记（C 第三周）
+ ## [Python图形用户界面和游戏开发](https://blog.csdn.net/qq_42992919/article/details/95343296)
+ > Python图形用户界面和游戏开发
+ ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
+ > Python 超级玛丽代码实现(1):界面和状态机实现
+ ## [《精通Cocos2d-x游戏开发（基础卷）》读书笔记](https://blog.csdn.net/fenglingfeixian/article/details/95956168)
+ > 《精通Cocos2d-x游戏开发（基础卷）》读书笔记
+ ## [运维linux命令](https://blog.csdn.net/mengjinlong1/article/details/96474278)
+ > 运维linux命令
+ ## [centos7搭建DNS服务，CA字签证书](https://blog.csdn.net/qq_42616691/article/details/95478545)
+ > centos7搭建DNS服务，CA字签证书
 # PM 
+ ## [那些熟悉却说不出的设计法则：防错法则](http://www.woshipm.com/pd/2665009.html)
+ > 防错法则的核心观点是——如何有效的在用户出错之前就尽量避免错误的发生。一、什么是防错法则？防错法则认为大部分的出错都是产品设计的不够优秀，而不该责怪用户操作...
+ ## [重塑做事逻辑：两种用户体验设计思路](http://www.woshipm.com/pd/2667098.html)
+ > 本文给大家分享了两种用户体验设计的思路，一起来看看~小结：（1）精品与垃圾的一线之差就是“靠谱”滴滴几乎90%的产品都会经过俞...
+ ## [全面解析 | 如何做好产品可用性测试？](http://www.woshipm.com/pd/2664590.html)
+ > 用户调研分为两种，包括定性和定量研究。常见的调研方式有用户访谈、可用性测试、问卷调查、数据分析、A/B测试等。在产品的设计开发及优化迭代的过程中起着非常重要的作...
+ ## [掌握3个技巧，活动运营事半功倍](http://www.woshipm.com/operate/2668029.html)
+ > 本文通过观察与分析，总结出三个活动运营的技巧，让我们快速找到有效的运营手段，推动运营目标的实现。今天，我们来讲讲活动运营那些事儿。所谓的活动运营、产品运营...
+ ## [语音交互设计探究——以车载场景为例](http://www.woshipm.com/pd/2666563.html)
+ > 本文以车载场景为例，具体分析了其中的语音交互设计流程、原则与设计走查等内容。从Siri 、Amazon echo Alexa、google home 、小冰、国内的叮咚、天猫精灵、小爱同学...
+ ## [A/B 测试中 12 个常见的误区（下）](http://www.woshipm.com/pd/2667267.html)
+ > 上次，我们跟大家分享了《A/B 测试中 12 个常见的误区（上）》，今天继续来跟大家分享后半部分的内容。第一次失败就放弃你设置了一个测试，但它并没有提高转化效率，...
+ ## [优秀的中高阶运营必备：5个“运营思维”](http://www.woshipm.com/operate/2669457.html)
+ > 要想成为优秀的中高阶运营，本文认为有以下五个运营思维值得掌握：流程化思维；利润意识思维；第一性原理思维；模型思维；系统思维。有个产品转运营岗的朋友说，他们...
+ ## [资本思维作祟，新零售赋能家装行业如何避免“开倒车”？](http://www.woshipm.com/it/2668824.html)
+ > 当新零售开始替代“互联网＋”赋能家装行业后，我们发现这种模式上的简单相加并没有给家装行业带来任何改变，要想得到长足发展，家装行业还得寻求深层次的改变。越来越...
  ## [​女性劳动更容易被 AI 替代？才不是！](http://www.pmtoo.com/article/78565.html)
  > 一个更自动化的社会，会显著的减少对一般人类劳动力的需求。在人类各种能力中，偏向创造力、想象力、沟通交流能力，以及控制...
  ## [这些产品逻辑，你身上有几条？](http://www.pmtoo.com/article/78562.html)
