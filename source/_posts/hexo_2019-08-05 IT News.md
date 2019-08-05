@@ -1,21 +1,21 @@
 ---
 title: 2019-08-05 IT News
 copyright: true
-date: 2019-08-05 08:01:28
+date: 2019-08-05 09:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告下载\]260篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1564963204&ver=1771&signature=gIYvHlrFCbUC4AR25B0z-3C*ABC6ZU0BgOiF1bG3s5ucukB*5nEFmmZiIYB9RTCmgEcfssrPUMWgBTq7M*yL9xUEO2wtVwLYcftvFSPEL5mAVE7NHsE1-X1vr5Q*ISD8&new=1)
- > 汽车行业260+篇顶级报告大放送！260篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享260份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [Electron 6.0发布：支持更多的Promise而不是回调](http://mp.weixin.qq.com/s?src=11&timestamp=1564963204&ver=1771&signature=OifJjDHD7l6jhcy*uhmZEG*PTuZPpulvD*6y-QZk1shmjAjjzVQyrRpfU7wNkzetcqkJGIHZZVCrRBKZ41S70VCJmDYZoGBsT79OsbhlV*Mh1L2oT6MY-udZTzkhzMAG&new=1)
- > 导读：Electron 最新稳定版 6.0发布，它带来了新的Promise特性。Electron 是一个基于Node.js和Chromium的开源框架，用于使用JavaScript，HTML和CSS构建桌面应用程序。其跨平台特性使应用程序可
- ## [建设智能工厂，如何选择合作伙伴?](http://mp.weixin.qq.com/s?src=11&timestamp=1564963204&ver=1771&signature=g*iWhgpa-LfMdFnl1QKNgS3bH3fRS56L96aQSjPmedg4UjimkdxheCUolKmHJBUlygNAswoassZRi1n3aWxE3NH-cs-6sChbgrkoU418rDYCOSGh203Bkt15sSnuOQf1&new=1)
- > 导语靠企业自身的力量很难完成智能工厂建设工作，这就需要选择合适的合作伙伴，帮助企业理清思路，加速进程。那么制造企业该如何选择智能工厂建设的合作伙伴？ 文/ e-works 张荷芳01智造风潮下的困惑IT管理工作...
- ## [本周大新闻|36g超轻Norm AR眼镜来袭，《精灵宝可梦:GO》下载超10亿次](http://mp.weixin.qq.com/s?src=11&timestamp=1564963204&ver=1771&signature=dIOUKGK8PKZLZtGCKiqJTGEJfM1h9COsT67oQP0tXBbaQ14-5AIgLWdK-LT3PUYuKiYbR35JV9*5wYAA1wl5CiPl-WlhSDuzpPomLhCk*QsyNQcfbYQ05n*-dUeNUkYK&new=1)
- > hi188｜ 编辑AR方面，Norm推出36g超轻AR眼镜，目前已开始众筹；Facebook脑机接口项目公布，旨在开发AR高效输入方式；耐德佳推出3.24g单目AR光学模组；三星隐形AR眼镜专利公布，集成度超高；索尼在SIGGRAPH201
- ## [外国人民声泪俱下抗议5G导致流产，肥胖，癌症..??](http://mp.weixin.qq.com/s?src=11&timestamp=1564963204&ver=1771&signature=l*JuXPHB521*y*dXxKz6xVVB75x52jeoPck*gJmnPinHse4tNnnXSU-fNfBy6GNPW6FrT2Aal4*xdsrMvwRW2IAkOrI4JTLzXBjKh03QE8xjce7loFHot7cR62xygqEn&new=1)
+ ## [外国人民声泪俱下抗议5G导致流产，肥胖，癌症..??](http://mp.weixin.qq.com/s?src=11&timestamp=1564966804&ver=1771&signature=l*JuXPHB521*y*dXxKz6xVVB75x52jeoPck*gJmnPinHse4tNnnXSU-fNfBy6GNPkVSv3*fzie0rQra-G0m5uxoXSs3fha0dhWwiwtLKRKEuflW1ZVzUjtQpWNQTOtav&new=1)
  > 话说，对于5G的到来，很多人兴奋不已，毕竟下载一部影片仅需1秒不到，如此快的网速，让未来充满各种可能性。而且不单单是网速的问题，5G还将用在各种不同领域，大大提升人们的生活水平。人们都说2019年是全球5G...
+ ## [建设智能工厂，如何选择合作伙伴?](http://mp.weixin.qq.com/s?src=11&timestamp=1564966804&ver=1771&signature=g*iWhgpa-LfMdFnl1QKNgS3bH3fRS56L96aQSjPmedg4UjimkdxheCUolKmHJBUl8V0fvRl*6JwM*GaKpzeIB1aoSBJEL22lsBxexc5hUNQH0HXhQxISi9SY1vE1jhal&new=1)
+ > 导语靠企业自身的力量很难完成智能工厂建设工作，这就需要选择合适的合作伙伴，帮助企业理清思路，加速进程。那么制造企业该如何选择智能工厂建设的合作伙伴？ 文/ e-works 张荷芳01智造风潮下的困惑IT管理工作...
+ ## [\[报告下载\]260篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1564966804&ver=1771&signature=gIYvHlrFCbUC4AR25B0z-3C*ABC6ZU0BgOiF1bG3s5ucukB*5nEFmmZiIYB9RTCmAXfUof7BFSQakrZ3X-nT8lkPWzuwq34Hzl4o-XZkZ48jP--iiyT-vXgQ1P6Q3ve9&new=1)
+ > 汽车行业260+篇顶级报告大放送！260篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享260份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
+ ## [Electron 6.0发布：支持更多的Promise而不是回调](http://mp.weixin.qq.com/s?src=11&timestamp=1564966804&ver=1771&signature=OifJjDHD7l6jhcy*uhmZEG*PTuZPpulvD*6y-QZk1shmjAjjzVQyrRpfU7wNkzetqYdXOWBJliJIRnz0wKmJ0fvkBNleG6x3HOR67Ntvm9R52JTy6UHABxXE8fQ8GLsG&new=1)
+ > 导读：Electron 最新稳定版 6.0发布，它带来了新的Promise特性。Electron 是一个基于Node.js和Chromium的开源框架，用于使用JavaScript，HTML和CSS构建桌面应用程序。其跨平台特性使应用程序可
+ ## [本周大新闻|36g超轻Norm AR眼镜来袭，《精灵宝可梦:GO》下载超10亿次](http://mp.weixin.qq.com/s?src=11&timestamp=1564966804&ver=1771&signature=dIOUKGK8PKZLZtGCKiqJTGEJfM1h9COsT67oQP0tXBbaQ14-5AIgLWdK-LT3PUYu5jowjQZRiApELVgmLBj4qrC**WW9GPQv9s5l0C3OGwf7EyaYTX2uhr6Gzi0Wnb95&new=1)
+ > hi188｜ 编辑AR方面，Norm推出36g超轻AR眼镜，目前已开始众筹；Facebook脑机接口项目公布，旨在开发AR高效输入方式；耐德佳推出3.24g单目AR光学模组；三星隐形AR眼镜专利公布，集成度超高；索尼在SIGGRAPH201
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,75 +73,109 @@ categories: IT NEWS
  > 思科上海全员被裁，赔偿N+7人均百万？官方回应消息不实
  ## [简化软件开发的五款机器学习工具](http://ai.51cto.com/art/201907/600327.htm)
  > 简化软件开发的五款机器学习工具
- ## [GitHub 公布了托管平台与美国贸易管制的相关细节](http://news.51cto.com/art/201908/600738.htm)
- > 最近关于 GitHub 开始限制受美国贸易制裁国家的开发者 的新闻在开发者领域引起巨大震动。 Github 官方对托
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
- ## [Python运维-Socket网络编程](https://blog.csdn.net/qq_30534935/article/details/95464392)
- > Python运维-Socket网络编程
- ## [centos7搭建DNS服务，CA字签证书](https://blog.csdn.net/qq_42616691/article/details/95478545)
- > centos7搭建DNS服务，CA字签证书
- ## [Android性能调优：App启动速度优化](https://blog.csdn.net/weixin_45258969/article/details/95484968)
- > Android性能调优：App启动速度优化
- ## [交换安全----局域网安全简介](https://blog.csdn.net/qq_43794645/article/details/96748660)
- > 交换安全----局域网安全简介
- ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
- > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
- ## [交换安全   STP生成树](https://blog.csdn.net/weixin_40511641/article/details/96886108)
- > 交换安全   STP生成树
- ## [Dialog Fragment使用与填坑](https://blog.csdn.net/qq_42780052/article/details/97138647)
- > Dialog Fragment使用与填坑
- ## [Linux之Docker私有仓库的搭建](https://blog.csdn.net/qq_36016375/article/details/96047991)
- > Linux之Docker私有仓库的搭建
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
- ## [如何为移动开发选择技术栈？](https://blog.csdn.net/weixin_43606158/article/details/96738465)
- > 如何为移动开发选择技术栈？
- ## [7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检](https://blog.csdn.net/yidunmarket/article/details/94827412)
- > 7月第1周业务风控关注 | 工信部今年对200款主流APP进行数据安检
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
- ## [运维入门之shell脚本七](https://blog.csdn.net/qq_42103479/article/details/95922149)
- > 运维入门之shell脚本七
- ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
- > 《白帽子讲Web安全》| 学习笔记之Web框架安全
+ ## [IBM五年清退2万大龄员工：中年人的职场，出路在哪里？](http://news.51cto.com/art/201908/600752.htm)
+ > 根据新闻调查数据，IBM从2014年起就开始着手“修正老员工的比重”，用年轻的人才来取代老员工，在过去的五
+ ## [我们为什么需要物联网？](http://iot.51cto.com/art/201908/600750.htm)
+ > 您可能想知道我们为什么需要物联网。到底为什么？相信您很快就会明白为什么这项技术如此具有颠覆性，以及为
+ ## [网络安全法律法规知多少](http://netsecurity.51cto.com/art/201908/600748.htm)
+ > 随着全球各行业数字化的进程不断加速，各类新型信息通信技术快速发展，万物互联正一步步向我们走来。因此，
+ ## [「2019 JSConf.Asia - 尤雨溪」在框架设计中寻求平衡，深度好文](http://news.51cto.com/art/201908/600747.htm)
+ > 这是一个由 simviso 团队对 JSConf.Asia 中关于 前端框架设计取舍 相关话题进行翻译的文档，内容并非直译，
+ ## [网络安全必备技能并非你想的那样](http://netsecurity.51cto.com/art/201908/600746.htm)
+ > 市面上有数百甚至数千家供应商可以提供产品和服务来解决人类已知的每一项安全挑战。但我们真正面对的问题是
+ ## [Java8之Consumer、Supplier、Predicate和Function攻略](http://news.51cto.com/art/201908/600751.htm)
+ > 来聊聊Consumer、Supplier、Predicate、Function这几个接口的用法，在 Java8 的用法当中，这几个接口虽然没
+ ## [AI帮你靠“想象”打字：手机电脑软键盘也能盲打了，准确率达95%](http://news.51cto.com/art/201908/600742.htm)
+ > 来自韩国科学技术高级研究院在一项最新研究中，提出了一种完全靠想象的键盘：I-Keyboard，这个界面上看不到
+ ## [物联网发展趋势之九（2019）](http://iot.51cto.com/art/201908/600743.htm)
+ > 本篇文章我继续介绍物联网发展的技术引领阶段，在概念引领阶段，物联网在数据融合、基于数据形成智慧的概念
+ ## [腾讯AI击败王者荣耀职业队，全靠自学，一天训练量为人类440年](http://news.51cto.com/art/201908/600745.htm)
+ > 一场激烈的对战正在进行，左侧是五位人类职业电竞高手组成的赛区联队，另一方是……嗯？他们的对手没有出场
+ ## [阿里大牛详解分布式系统，大型网站分布式系统实战解析](http://news.51cto.com/art/201908/600749.htm)
+ > 分布式系统从当初的CORBA 到EJB，Web和SOA，从集群到现在的NoSQL 云计算和大数据Hadoop等分布式系统，横向
+ ## [JAVAEE经典架构](https://blog.csdn.net/qq_40925525/article/details/96729838)
+ > JAVAEE经典架构
+ ## [架构杂谈《一》](https://blog.csdn.net/a1022560838/article/details/95733604)
+ > 架构杂谈《一》
+ ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
+ > 进退博弈：恒指7.16号早盘资讯及操作建议
+ ## [资讯｜某大型化工集团定制化内训圆满成功](https://blog.csdn.net/qinghuinanjing123/article/details/96147995)
+ > 资讯｜某大型化工集团定制化内训圆满成功
+ ## [手机录音转文字怎么做？3分钟轻松完成录音转文字教程](https://blog.csdn.net/WoChaotian_/article/details/96475135)
+ > 手机录音转文字怎么做？3分钟轻松完成录音转文字教程
+ ## [世界百年未有的大变局下](https://blog.csdn.net/weixin_45209246/article/details/96586562)
+ > 世界百年未有的大变局下
+ ## [华为5G手机，国内首款5G手机，预价7000元左右](https://blog.csdn.net/WoChaotian_/article/details/96837728)
+ > 华为5G手机，国内首款5G手机，预价7000元左右
+ ## [将PLST整合到企业的业务中的五大策略](https://blog.csdn.net/weixin_44540340/article/details/97168147)
+ > 将PLST整合到企业的业务中的五大策略
+ ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
+ > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
+ ## [预言机（Oracle）](https://blog.csdn.net/hello2mao/article/details/96275418)
+ > 预言机（Oracle）
+ ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
+ > 架构杂谈《六》
+ ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
+ > ULAM公链第五周周报
+ ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
+ > 云杰恒指：7.19恒指期货早盘资讯
+ ## [金融行业微服务架构解析](https://blog.csdn.net/weixin_45443931/article/details/97079458)
+ > 金融行业微服务架构解析
+ ## [架构杂谈《三》](https://blog.csdn.net/a1022560838/article/details/96269973)
+ > 架构杂谈《三》
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [程序员 12 小时惊魂记：凌晨迁移数据出大事故！](https://blog.csdn.net/csdnnews/article/details/98476886)
+ > 作者| 纯洁的微笑本文经授权转载自纯洁的微笑（ID：keeppuresmile）有一个读者问我：你认为一个程序员具备什么样的能力，才算得上是厉害的程序员？我答：拥有解决...
+ ## [漫画算法：5 分钟搞明白红黑树到底是什么？](https://blog.csdn.net/csdnnews/article/details/98476893)
+ > 作者 |调皮的阿广责编 | 屠敏下面为标准的二叉排序树初始状态其实想要搜索值为226的节点很简单，搜索动画过程如下：这样不行！这是个病！得治！红黑树就是一种平衡的二叉查...
+ ## [程序员脱发自救：用计算机视觉技术安全植发](https://blog.csdn.net/csdnnews/article/details/98476895)
+ > 面对日益严重的脱发问题，植发已经成了很多人的救命法宝。但植发市场的扩大，以及专业人员的缺乏，也让这项依赖专业医师的项目变得破朔迷离。而人工智能、机器人等技术的介入，很有可...
+ ## [NB-IoT 备胎转正的背后，究竟意味着什么？](https://blog.csdn.net/csdnnews/article/details/98476888)
+ > 作者 | 小枣君本文经授权转载自鲜枣课堂（ID：xzclasscom）此前有一条新闻，不知道大家有没有留意：“2019年7月17日，ITU-R WP5D32会议在巴西...
+ ## [不敌 Java、C/C++、Python，28 岁 VB 究竟输在了哪？](https://blog.csdn.net/csdnnews/article/details/98476890)
+ > 作者 | 藏狐本文经授权转载自脑极体（ID：unity007）在广大程序员的世界里，流传着一个千古难题——什么才是最好的语言？在这个“BCYY48”（编程语言）天团里，...
+ ## [程序员的代码写的再牛也没有马伊琍文章的分手语牛！](https://blog.csdn.net/csdnnews/article/details/98476892)
+ > 之前马伊琍和文章官方宣布离婚，在娱乐圈引起了轩然大波！网上水友一致认为他俩的离婚带动了华为手机的销售量这脑回路，我表示很服气！还记得文章出轨的时候，马伊琍发表了一句“恋爱...
+ ## [互联网公司上演反腐风暴；GitHub CEO 对断供表示无能为力；程序员面试锦集| 开发者周刊...](https://blog.csdn.net/csdnnews/article/details/98476887)
+ > 整理 | 张红月出品 | CSDN（ID：CSDNnews）CSDN开发者周刊只为传递“有趣/有用”的开发者内容，点击Star（Github：https://github...
  ## [大数据“重磅炸弹”：实时计算框架 Flink](https://blog.csdn.net/csdnnews/article/details/98476894)
  > 你是不是经常体验或看到以下这些场景？小田，你看能不能做个监控大屏实时查看促销活动销售额（GMV）？小朱，搞促销活动的时候能不能实时统计下网站的 PV/UV 啊？小鹏，我们...
+ ## [5G 会榨干手机的电池？](https://blog.csdn.net/csdnnews/article/details/98476896)
+ > 随着运营商逐步推出 5G，3GPP 行业联盟（Third Generation Partnership Project，第三代合作伙伴计划）正在考虑采用其他方式来调制无线...
  ## [畅游子公司晶茂破产：业务扩展难成气候，欠缺爆款游戏](http://www.lanjingtmt.com/news/detail/44028.shtml)
  > 对畅游而言，回归游戏赛道看似更加聚焦核心业务，但缺少新的爆款游戏，老游戏自然衰减带来的游戏营收下降，又是畅游不得不面对的棘手问题。
 # 人工智能 
- ## [7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜](https://blog.csdn.net/yidunmarket/article/details/96500371)
- > 7月第3周业务风控关注 | 40款App被督促整改，拉卡拉、墨迹天气等上榜
- ## [Druid架构讲解](https://blog.csdn.net/liaynling/article/details/96473842)
- > Druid架构讲解
- ## [安全、性能测试常见问题与注意事项](https://blog.csdn.net/wildboy2001/article/details/96564861)
- > 安全、性能测试常见问题与注意事项
- ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
- > Encoder-Decoder架构与注意力机制
- ## [Linux之rhcs【红帽6的高可用】](https://blog.csdn.net/qq_36016375/article/details/94914985)
- > Linux之rhcs【红帽6的高可用】
- ## [实用运维脚本](https://blog.csdn.net/u014589856/article/details/96438081)
- > 实用运维脚本
- ## [安全保护-局域网安全](https://blog.csdn.net/weixin_44766403/article/details/96733348)
- > 安全保护-局域网安全
- ## [交换安全----局域网安全简介](https://blog.csdn.net/qq_43794645/article/details/96748660)
- > 交换安全----局域网安全简介
- ## [android架构分享-MVP](https://blog.csdn.net/VcStrong/article/details/95217444)
- > android架构分享-MVP
- ## [交换安全（局域网安全）](https://blog.csdn.net/weixin_44597061/article/details/96757358)
- > 交换安全（局域网安全）
- ## [1.1.1 安全术语（上）](https://blog.csdn.net/chocolee911/article/details/96005391)
- > 1.1.1 安全术语（上）
- ## [2.SOA架构和微服务架构的区别](https://blog.csdn.net/lzb348110175/article/details/96738781)
- > 2.SOA架构和微服务架构的区别
- ## [Linux之LVS配置高可用集群【keepalived】](https://blog.csdn.net/qq_36016375/article/details/94915741)
- > Linux之LVS配置高可用集群【keepalived】
- ## [二层交换安全](https://blog.csdn.net/qq_45124553/article/details/96734149)
- > 二层交换安全
- ## [API安全接口安全设计](https://blog.csdn.net/zhou920786312/article/details/95536556)
- > API安全接口安全设计
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [人工智能07 盲目搜索](https://blog.csdn.net/weixin_41565471/article/details/95174116)
+ > 人工智能07 盲目搜索
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
+ > 聚师网资讯看不到的眼睛
+ ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
+ > 资讯类网站增量式爬虫
+ ## [人工智能数学基础之高等数学(持续更新)](https://blog.csdn.net/yjw123456/article/details/95936382)
+ > 人工智能数学基础之高等数学(持续更新)
+ ## [C++连连看游戏开发，简单编程实例，一看就会！](https://blog.csdn.net/weixin_44679141/article/details/95352625)
+ > C++连连看游戏开发，简单编程实例，一看就会！
+ ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
+ > 进退博弈：恒指7.16号早盘资讯及操作建议
+ ## [苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了](https://blog.csdn.net/WoChaotian_/article/details/95448657)
+ > 苹果库克慌了！iPhone XR降价也没人买，原来是华为放大招了
+ ## [Python图形用户界面和游戏开发](https://blog.csdn.net/qq_42992919/article/details/95343296)
+ > Python图形用户界面和游戏开发
+ ## [华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到](https://blog.csdn.net/WoChaotian_/article/details/96427708)
+ > 华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到
+ ## [万门大学人工智能课程](https://blog.csdn.net/flying668/article/details/94832309)
+ > 万门大学人工智能课程
+ ## [人工智能未来发展论文](https://blog.csdn.net/weixin_45427920/article/details/96480815)
+ > 人工智能未来发展论文
+ ## [人工智能六十年技术简史](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/95041457)
+ > 人工智能六十年技术简史
+ ## [day-012--图形用户界面和游戏开发](https://blog.csdn.net/weixin_36628778/article/details/96507085)
+ > day-012--图形用户界面和游戏开发
 # PM 
  ## [​女性劳动更容易被 AI 替代？才不是！](http://www.pmtoo.com/article/78565.html)
  > 一个更自动化的社会，会显著的减少对一般人类劳动力的需求。在人类各种能力中，偏向创造力、想象力、沟通交流能力，以及控制...
