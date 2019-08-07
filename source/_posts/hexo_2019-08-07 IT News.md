@@ -1,20 +1,22 @@
 ---
 title: 2019-08-07 IT News
 copyright: true
-date: 2019-08-07 09:01:51
+date: 2019-08-07 10:01:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [北峰：Mesh 无线自组网系统](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=jPrgJDN2KTKe5ZnXwSlgz7fBgElmz29PykSwAYrY07XDzk9-HOmGsCfZfyfeCIQtXsie*UweocqbF5GqBANcfJHURxBklcEVxc-zw1OBTAw6xTA0pYO3u7wZS8LC0g4w&new=1)
- > 一、MESH简介Mesh无线自组网系统是采用全新的“无线网格网”理念设计的移动宽带多媒体通信系统。系统所有节点在非视距、快速移动条件下，利用无中心自组网的分布式网络构架，可实现多路语音、数据、图像等多媒体...
- ## [亚马逊股价八连跌丨Facebook加密货币引发隐私问题\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=DgFhfXC-5xd5h5-zUJDV3ZyYCOStgTRVSPffn0RQ*b6*1K8eOs99WJ7XezMNsu4hz1SalY3jru8s9Vl89E8uE-4IWcTSkdi*-cZCOpXOemafl10Nz8OhE2xqjdYCbSBF&new=1)
+ ## [亚马逊股价八连跌丨Facebook加密货币引发隐私问题\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565143204&ver=1775&signature=DgFhfXC-5xd5h5-zUJDV3ZyYCOStgTRVSPffn0RQ*b6wQpze79TAidsafHpDQpXTCn4njOn3qjEmczuoiK8a8vZM8gHax*DFexdcq5DDkDMD1yzBrw4Vo-G*05EbvU2T&new=1)
  > 8月6日丨周二【Do说】编辑 | 赵艾虎亚马逊股价八连跌，贝佐斯出售价值近30亿美元股票亚马逊股价8月5日再度大跌，这已是连续第八个交易日下跌，创2006年7月以来最长连跌纪录。而亚马逊创始人兼CEO杰夫·贝佐斯却...
- ## [研发占比3%冲击科创板 物流企业佛朗斯护城河有多深?](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=zhqdhjaq18fXB8yH1bGBuE0NgrZ5Tb3*M7d5oI7NFFQVlLZeKHIrIIM-vK3d6Hg9-*vanmZXEgiUHRc1pGXnhas0ulOuaiyotu3fFSsjN7yvQFHI-axxOgVmpezEioXN&new=1)
- > 物流企业广州佛朗斯股份有限公司（以下简称“佛朗斯”）冲击科创板之路到目前为止一波三折。2019年7月31日晚间，上交所发布消息称，佛朗斯与全国80余家科创板在审企业一道，由于财务报表已超过规定的有效期，状...
- ## [反诈进行中!守护者计划公益行动在京启动，用科技防范新型诈骗!](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=*6OgXWyXCmNXdJrBRQH2ifMbEZs7*iSqfrlSd0DG9b2BMte3ZpqhkjQnh5fS9ux6gnlREVNGdj3MS6or*z0nt-78Ofx-18maxXbBGpRJ-h2hl2TsZNE-tnM2jjSNpYur&new=1)
+ ## [反诈进行中!守护者计划公益行动在京启动，用科技防范新型诈骗!](http://mp.weixin.qq.com/s?src=11&timestamp=1565143204&ver=1775&signature=*6OgXWyXCmNXdJrBRQH2ifMbEZs7*iSqfrlSd0DG9b1HD128MlBZo7-bPIpnp6wXJkjP1dAsmdq1JJ8sFTy1cWp*rz*GyNkObOty8Y7pTh4dAojrdofffxg2hk4nyX8C&new=1)
  > 有这么一群人，藏匿在网络深处潜心研究前沿技术费尽心思坑蒙拐骗无所不用其极地四处敛财他们的名字，叫“骗子”还有一群人，站在光明之中守护个人隐私信息防范政企数据泄漏一刻不停的保卫网络安全他们的名字，叫...
- ## [5G体验套餐来了，100G流量免费用!](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=pDB4ugD2ApGG-kWDFgfIRYBwuNVQMWnCY1CKoRXbULozvU3SuFm024w5hLC1cw3ZMnYsw9dp2kLq7T1ziJmnv2vpZEY4KJg1UbKwsDH9aQ3X0ZeYBY7-PzS*W9es0sWj&new=1)
+ ## [北峰：Mesh 无线自组网系统](http://mp.weixin.qq.com/s?src=11&timestamp=1565143204&ver=1775&signature=jPrgJDN2KTKe5ZnXwSlgz7fBgElmz29PykSwAYrY07XcKKBvX-WBQuKOelZaSJ1b00VH*JpJd2R7P2l9M1ROndAL5PSORVb1V-yyzBNrIfwNRcOJaJP8REYu6HMRN2si&new=1)
+ > 一、MESH简介Mesh无线自组网系统是采用全新的“无线网格网”理念设计的移动宽带多媒体通信系统。系统所有节点在非视距、快速移动条件下，利用无中心自组网的分布式网络构架，可实现多路语音、数据、图像等多媒体...
+ ## [7点见|苹果新iPhone或于9月20日发售；滴滴称七夕打车难仅次春运；小米将发布第二款5G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1565143204&ver=1775&signature=OT57chKmVjT62mtxPocPEd5L5vt4i5C52PSryggj1tBa1nSRpAs2sGNmJQ8XQhuYShrU94fJK1zqSytdfAS49A4Bv9A9XMmgMH3bNWhBVHzUDuVJTxVZNtvvKeIhrwwi&new=1)
+ > 关键时刻，第一时间送达各位小伙伴们，早上好呀！浪漫七夕已至，有人成双成对，也总有依旧落单的“柠檬精”们。无论怎样，小七还是在这祝大家七夕快乐鸭！接下来就是早报时间啦！（语音由腾讯新闻畅听版APP与腾...
+ ## [研发占比3%冲击科创板 物流企业佛朗斯护城河有多深?](http://mp.weixin.qq.com/s?src=11&timestamp=1565143204&ver=1775&signature=zhqdhjaq18fXB8yH1bGBuE0NgrZ5Tb3*M7d5oI7NFFSdN9eu2CHvyf-QCOESWOrCDgASVW6wcRzN0crd8r2iNXOcMEG9vOD25D3Gf0l68LwMO4DbE15FZWSemsydW6RT&new=1)
+ > 物流企业广州佛朗斯股份有限公司（以下简称“佛朗斯”）冲击科创板之路到目前为止一波三折。2019年7月31日晚间，上交所发布消息称，佛朗斯与全国80余家科创板在审企业一道，由于财务报表已超过规定的有效期，状...
+ ## [5G体验套餐来了，100G流量免费用!](http://mp.weixin.qq.com/s?src=11&timestamp=1565143204&ver=1775&signature=pDB4ugD2ApGG-kWDFgfIRYBwuNVQMWnCY1CKoRXbULqng7yWVxlJVCelZ5vNxTAXVIg0-o284zj2hgB3cSIh3gQNAiFjkDdExsNWRQhezjqqgR*xJ9014hMEjW22irKe&new=1)
  > 今年6月份，随着工信部向三大运营商以及中国广电发放5G商用牌照，中国正式进入5G元年。在过去的两个月中，5G也慢慢进入大众的视野，比如5G的覆盖城市、网速、资费以及5G设备等资讯，都一一曝光。在前段时间，5G...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -57,6 +59,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [12个值得关注的Gnome Shell扩展件](http://os.51cto.com/art/201908/600811.htm)
+ > 12个值得关注的Gnome Shell扩展件
  ## [微软正在为Windows Core OS打造全新操作中心](http://news.51cto.com/art/201908/600833.htm)
  > 微软正在为Windows Core OS打造全新操作中心
  ## [一文带你了解JavaScript函数式编程？](http://developer.51cto.com/art/201908/600810.htm)
@@ -71,8 +75,10 @@ categories: IT NEWS
  > 用了边缘计算，你的数据就真的安全了吗？
  ## [开发 | 2019年大前端技术趋势分析](http://developer.51cto.com/art/201908/600825.htm)
  > 开发 | 2019年大前端技术趋势分析
- ## [12个值得关注的Gnome Shell扩展件](http://os.51cto.com/art/201908/600811.htm)
- > 12个值得关注的Gnome Shell扩展件
+ ## [面试官：在使用mysql数据库时，遇到重复数据怎么处理？](http://database.51cto.com/art/201908/600882.htm)
+ > 前段时间，很多人问我能不能写一些数据库的文章，正好自己在测试mysql数据库性能的时候，出现了一个问题，
+ ## [人工智能正在掀起“教育革命”](http://ai.51cto.com/art/201908/600883.htm)
+ > “以人工智能为代表的新一代信息技术的快速发展，将会对传统的教育理念、教育体系和教学模式产生革命性影响
  ## [多位专家谈：未来5至10年对工控安全影响最大的是什么？](http://zhuanlan.51cto.com/art/201908/600881.htm)
  > ICS安全总在变化，今天面临的挑战未必是明天可能遇到的挑战。于是问题来了：未来5~10年，对工业控制系统安
  ## [eSIM卡，路在何方？](http://network.51cto.com/art/201908/600880.htm)
@@ -89,78 +95,104 @@ categories: IT NEWS
  > 物联网在许多方面都代表着便利性，然而，正如一些与物联网相关的网络攻击所显示的那样，它也带来了不可忽视
  ## [部署物联网一定要避开这三大坑](http://iot.51cto.com/art/201908/600874.htm)
  > 关于物联网的概念，目前已经普及的足够多了，但是由于物联网设备的异构性和碎片化，给实施过程带来了诸多挑
- ## [企业不愿采用工业物联网解决方案的4个常见理由](http://iot.51cto.com/art/201908/600873.htm)
- > 很明显，许多企业仍然在使用手工、笔和纸的方式来处理库存、运输、工人安全和其他工业流程。那么……他们为
- ## [面对网络风险 企业应当如何部署安全策略？](http://netsecurity.51cto.com/art/201908/600872.htm)
- > 有关数据泄露和漏洞的突发层出不穷，这些数据泄露和漏洞对企业的财务和声誉有着非常大的影响。企业高管似乎
- ## [工具篇：详解IntelliJ idea使用.gitignore插件以及剔除误提交到git版本控制中的文件](https://blog.csdn.net/NDKHBWH/article/details/96882593)
- > 工具篇：详解IntelliJ idea使用.gitignore插件以及剔除误提交到git版本控制中的文件
- ## [北大研三，为何会这般焦虑？是读博还是就业？](https://blog.csdn.net/u012365828/article/details/95613663)
- > 北大研三，为何会这般焦虑？是读博还是就业？
- ## [算法-动态规划(硬币数量/最长子序列/最长连续子序列/三角数组最大和)](https://blog.csdn.net/Fly_Fly_Zhang/article/details/96695470)
- > 算法-动态规划(硬币数量/最长子序列/最长连续子序列/三角数组最大和)
- ## [多线程里面的原子性，可见性，有序性](https://blog.csdn.net/weixin_43689480/article/details/96513177)
- > 多线程里面的原子性，可见性，有序性
- ## [Python 智能银行卡识别系统的实现 （2）—系统的实现](https://blog.csdn.net/jacky_zhuyuanlu/article/details/96441363)
- > Python 智能银行卡识别系统的实现 （2）—系统的实现
- ## [Soloπ：支付宝开源的Android专项测试工具](https://blog.csdn.net/weixin_44326589/article/details/95479927)
- > Soloπ：支付宝开源的Android专项测试工具
- ## [大数据架构如何做到流批一体？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/94416809)
- > 大数据架构如何做到流批一体？
- ## [系统学习深度学习（四十三）--GAN简单了解](https://blog.csdn.net/App_12062011/article/details/93676895)
- > 系统学习深度学习（四十三）--GAN简单了解
- ## [计算机组成的基本硬件设备](https://blog.csdn.net/Jmilk/article/details/93471754)
- > 计算机组成的基本硬件设备
- ## [计算机组成原理 — 指令系统](https://blog.csdn.net/Jmilk/article/details/96435162)
- > 计算机组成原理 — 指令系统
- ## [MySQL引擎：MyIsam和Innodb的区别](https://blog.csdn.net/u012904383/article/details/89386647)
- > MySQL引擎：MyIsam和Innodb的区别
- ## [大众点评信息流基于文本生成的创意优化实践](https://blog.csdn.net/MeituanTech/article/details/88567375)
- > 大众点评信息流基于文本生成的创意优化实践
- ## [AndroidBAT. 字节跳动74道高级面试第二篇](https://blog.csdn.net/beibei_programme/article/details/95974158)
- > AndroidBAT. 字节跳动74道高级面试第二篇
- ## [程序员该做垃圾分类 App 了！| 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/94592955)
- > 程序员该做垃圾分类 App 了！| 每日趣闻
- ## [ZYNQ进阶之路12--自定义AXI-FULL IP实现PL端向DDR3写数据和PS端实现高速通讯](https://blog.csdn.net/WP_FD/article/details/89600759)
- > ZYNQ进阶之路12--自定义AXI-FULL IP实现PL端向DDR3写数据和PS端实现高速通讯
+ ## [一文读懂HBase多租户](https://blog.csdn.net/pengzhouzhou/article/details/91349835)
+ > 一文读懂HBase多租户
+ ## [MyBatis日志设置未生效的分析以及解决方法](https://blog.csdn.net/long9870/article/details/95640699)
+ > MyBatis日志设置未生效的分析以及解决方法
+ ## [\[Python图像处理\] 二十一.图像金字塔之图像向下取样和向上取样](https://blog.csdn.net/Eastmount/article/details/89341077)
+ > \[Python图像处理\] 二十一.图像金字塔之图像向下取样和向上取样
+ ## [Linux桌面GUI系统的调度器应该怎么做才不卡顿呢？](https://blog.csdn.net/dog250/article/details/96500186)
+ > Linux桌面GUI系统的调度器应该怎么做才不卡顿呢？
+ ## [Android MVP（三）内存泄漏分析与动态代理](https://blog.csdn.net/smile_Running/article/details/94984874)
+ > Android MVP（三）内存泄漏分析与动态代理
+ ## [大数据学习笔记之MyBatis（一）：MyBatis](https://blog.csdn.net/dataiyangu/article/details/98024721)
+ > 大数据学习笔记之MyBatis（一）：MyBatis
+ ## [Ehcache食用指南](https://blog.csdn.net/xindoo/article/details/92393585)
+ > Ehcache食用指南
+ ## [混合模型的推荐算法（ACM暑校-案例学习）](https://blog.csdn.net/shenziheng1/article/details/90454063)
+ > 混合模型的推荐算法（ACM暑校-案例学习）
+ ## [IDEA 中 Jetty 的配置过程](https://blog.csdn.net/wojiushiwo945you/article/details/93328266)
+ > IDEA 中 Jetty 的配置过程
+ ## [面对新时代挑战，2019维谛技术峰会全面呈献硬核策略](https://blog.csdn.net/liudan8942351/article/details/94021526)
+ > 面对新时代挑战，2019维谛技术峰会全面呈献硬核策略
+ ## [小程序原生和wepy、mpvue、uni-app、taro等主流开发框架，哪个好？这里是深度横评对比](https://blog.csdn.net/hbcui1984/article/details/88945790)
+ > 小程序原生和wepy、mpvue、uni-app、taro等主流开发框架，哪个好？这里是深度横评对比
+ ## [【AKOI2019暑期欢乐模拟赛】T4 简单题 题解](https://blog.csdn.net/qq_39417033/article/details/87895682)
+ > 【AKOI2019暑期欢乐模拟赛】T4 简单题 题解
+ ## [人人都是 API 设计师：我对 RESTful API、GraphQL、RPC API 的思考](https://blog.csdn.net/LiangGzone/article/details/90278482)
+ > 人人都是 API 设计师：我对 RESTful API、GraphQL、RPC API 的思考
+ ## [Android 组件化，从入门到不可自拔](https://blog.csdn.net/hailong0529/article/details/89392064)
+ > Android 组件化，从入门到不可自拔
+ ## [『开发技巧』Python音频处理·PyAudio上手教程（录入与播放声音）](https://blog.csdn.net/xiaosongshine/article/details/93708818)
+ > 『开发技巧』Python音频处理·PyAudio上手教程（录入与播放声音）
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [重磅！AI Top 30+案例评选正式启动](https://blog.csdn.net/csdnnews/article/details/98689062)
+ > 2019 年，人工智能应用落地的重要性正在逐步得到验证，这是关乎企业生死攸关的一环。科技巨头、AI 独角兽还有起于草莽的创业公司在各领域进行着一场多方角斗。进行平台布局...
+ ## [程序员如何利用 Python 解决女朋友不看天气的坏习惯？](https://blog.csdn.net/csdnnews/article/details/98689088)
+ > 作者 |赵昱责编 | 郭芮在一个阴雨绵绵的早上，一切都是那么安静祥和。忽然之间，被电话打破了宁静，一看是女朋友的电话，就知道这个小家伙肯定又做了什么傻事......果不...
+ ## [一图抵千言：带你快速学会 GoogLeNet 神经网络 | CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/98689115)
+ > 作者 | .NY&amp;amp;XX责编 | 屠敏出品 | CSDN 博客本文介绍的是著名的网络结构GoogLeNet，目的是试图领会其中结构设计思想。Inception，来源...
+ ## [TIOBE 8 月编程语言排行榜：Python 奋力追赶 C，Swift 下跌](https://blog.csdn.net/csdnnews/article/details/98688921)
+ > 整理 | 屠敏出品 | CSDN（ID：CSDNnews）当小白在敲开程序员这行大门之际，往往需要面对涵盖编程语言、框架、平台等不同的技术做选型，对此，有的人会向前辈们请...
+ ## [实话实说！为什么说闷头学Python是自欺欺人？](https://blog.csdn.net/csdnnews/article/details/98689212)
+ > 有人说，随着AI和大数据的兴起，Python变得越来越强了，它语言简洁、开发效率高、可移植性强，并且可以和其他编程语言（比如 C++）轻松无缝衔接所以，很多程序员把 Py...
+ ## [被罚 50 亿后，Google 不再强制绑定 Android 默认引擎！](https://blog.csdn.net/csdnnews/article/details/98689000)
+ > 这一次，因垄断的问题，Google 是放弃了 Android 中一块“大饼”，还是又借此找到了新的“商机”？整理 | 屠敏出品 | CSDN（ID：CSDNnews）An...
+ ## [出于安全考虑，千万不要绕开 CORS！](https://blog.csdn.net/csdnnews/article/details/98689016)
+ > Mac Zoom 漏洞的曝出将 CORS（跨源资源分享，Cross Origin Resource Sharing）拉入了大众视野，但是坦白地讲，“不了解 CORS 的 ...
+ ## [“Java跌落向下，Python奋斗向前”，程序员：看哭了...](https://blog.csdn.net/csdnnews/article/details/98689167)
+ > 还记得被Java统治的时代吗？最近，这个格局已经被悄然打破，正是被来自曾经的小弟，新晋网红Python给硬生生拽下神坛。对此，Java曾表示强烈质疑，最近一份数据榜单悄悄...
+ ## [设计世界上最小的 Arduino！](https://blog.csdn.net/csdnnews/article/details/98689186)
+ > 对于极客、电子爱好者、硬件开发者而言，想必对于 Arduino 并不会陌生。Arduino 是一款便捷灵活、方便上手的开源电子原型平台，它经常被用于 3D 打印机、飞行器...
+ ## [字节跳动自研重度游戏；中国移动前董事长谈飞信失败；Linux 5.3-rc3 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/98688983)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [500彩票网净亏损1.4亿，同比扩大183.5%](http://www.lanjingtmt.com/news/detail/44075.shtml)
+ > 500彩票网发布2019年第二季度财务业绩。财报显示，当季净收入为1110万元，同比下滑63.5%;净亏损1.378亿元，同比扩大183.5%。
  ## [放弃创业板上市梦想，美迪西转战科创板能否成功上岸？](http://www.lanjingtmt.com/news/detail/44074.shtml)
  > 7月31日，上交所网站披露了上海美迪西生物医药股份有限公司对第五轮问询的回复。此前，美迪西曾拟登陆创业板，后撤回申请。此次转战科创板，能否成功上岸？
  ## [华米新品遭吐槽、业绩环比腰斩，“去小米化”面临诸多挑战](http://www.lanjingtmt.com/news/detail/44071.shtml)
  > 2013年，小米开启生态链计划，华米正是该计划中的一员。然而，华米科技的营收却一直依赖于小米。未来，华米能否在此之前实现“去小米化”，在智能穿戴领域突破重围？
 # 人工智能 
- ## [音视频码率的计算](https://blog.csdn.net/LS7011846/article/details/96724472)
- > 音视频码率的计算
- ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
- > Encoder-Decoder架构与注意力机制
- ## [金融行业微服务架构解析](https://blog.csdn.net/weixin_45443931/article/details/97079458)
- > 金融行业微服务架构解析
- ## [WireShark抓RTP音频包](https://blog.csdn.net/qq_40609809/article/details/97128823)
- > WireShark抓RTP音频包
- ## [音视频知识基础](https://blog.csdn.net/goldfish3/article/details/97021252)
- > 音视频知识基础
- ## [架构杂谈《三》](https://blog.csdn.net/a1022560838/article/details/96269973)
- > 架构杂谈《三》
- ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
- > 架构杂谈《六》
- ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
- > 微服务架构的核心关键点
- ## [谈谈KAFKA的架构以及这种架构的优势](https://blog.csdn.net/qq32933432/article/details/96474985)
- > 谈谈KAFKA的架构以及这种架构的优势
- ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
- > 抖音视频置顶？抖音视频置顶功能全解！
- ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
- > Java音视频播放器
- ## [分布式架构的架构稳定性](https://blog.csdn.net/m0_38125278/article/details/95046242)
- > 分布式架构的架构稳定性
- ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
- > 20年研发管理经验谈（十四）
- ## [JAVAEE经典架构](https://blog.csdn.net/qq_40925525/article/details/96729838)
- > JAVAEE经典架构
- ## [Android音视频系列（一）：基本概念扫盲](https://blog.csdn.net/u011315960/article/details/96862786)
- > Android音视频系列（一）：基本概念扫盲
+ ## [java学习日志day19](https://blog.csdn.net/qq_31783363/article/details/97023558)
+ > java学习日志day19
+ ## [第五章：条件控制语句](https://blog.csdn.net/maihailunP1/article/details/95999956)
+ > 第五章：条件控制语句
+ ## [java学习日志day14](https://blog.csdn.net/qq_31783363/article/details/96168612)
+ > java学习日志day14
+ ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
+ > C++基础1：类与对象基础
+ ## [人工智能 | 智能语音交互技术与应用](https://blog.csdn.net/lsj960922/article/details/96137534)
+ > 人工智能 | 智能语音交互技术与应用
+ ## [人工智能如何自己玩游戏？](https://blog.csdn.net/s3FRH3JyN6yymHmT11/article/details/95263995)
+ > 人工智能如何自己玩游戏？
+ ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
+ > 速记工具原来这么好用，错过了让你抱憾终身
+ ## [手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些](https://blog.csdn.net/WoChaotian_/article/details/97152958)
+ > 手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些
+ ## [资讯｜某大型化工集团定制化内训圆满成功](https://blog.csdn.net/qinghuinanjing123/article/details/96147995)
+ > 资讯｜某大型化工集团定制化内训圆满成功
+ ## [人工智能、机器学习、深度学习](https://blog.csdn.net/weixin_38324954/article/details/96275233)
+ > 人工智能、机器学习、深度学习
+ ## [人工智能的历史会重演吗？人工智能是如何提出的？](https://blog.csdn.net/OUNENGZK/article/details/95064900)
+ > 人工智能的历史会重演吗？人工智能是如何提出的？
+ ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
+ > 网络爬虫HTTP原理、网页请求、网页基础
+ ## [人工智能发展历史概述](https://blog.csdn.net/weixin_40651515/article/details/95965675)
+ > 人工智能发展历史概述
+ ## [人工智能08 启发式搜索](https://blog.csdn.net/weixin_41565471/article/details/95458026)
+ > 人工智能08 启发式搜索
+ ## [手机录音转文字怎么做？3分钟轻松完成录音转文字教程](https://blog.csdn.net/WoChaotian_/article/details/96475135)
+ > 手机录音转文字怎么做？3分钟轻松完成录音转文字教程
 # PM 
+ ## [品牌年轻化攻略：品牌老化有特效药吗](http://www.woshipm.com/marketing/2682085.html)
+ > 本文认为产品老化与品牌老化是不同的概念，明确它们的区别后，我们需要寻找品牌年轻化的路径，对品牌进行改造。这几年，随着消费升级和互联网的渗透，品牌市场洗牌加...
+ ## [为什么传统企业转型互联网结果都很惨？](http://www.woshipm.com/chuangye/2681913.html)
+ > 传统企业与互联网之间看似没有界线，实则潜藏着一道看不见的鸿沟，阻挡着想要跨界做互联网的传统企业，而这道鸿沟非要真正的趟过一遍才能切身感受到。前年的时候，有...
+ ## [线上课程 | 入行产品60天，你已经过了58个手忙脚乱的加班夜](http://www.woshipm.com/active/2673124.html)
+ > 产品新人如果基础不太扎实，问题大吗？很多刚入行/转岗的产品新人，看了很多产品书，刷了很多产品网站，恶补了简历和面试技巧，好不容易才拿到offer。然而入行了才发...
+ ## [53 年 IT 老兵详谈传统网络到互联网的演变史](http://www.woshipm.com/it/2665724.html)
+ > 互联网五十周年啦！一位在微软工作多年的互联网人，回顾了自己从业53年的经历。峥嵘岁月，力透纸背。半个世纪里，互联网就有哪些变化？就让本篇文章告诉你吧！在互联...
  ## [蚂蚁森林功能的主要价值，是用户激活还是用户留存？](http://www.woshipm.com/operate/2670893.html)
  > 笔者最近在学习增长黑客相关内容，在这里以蚂蚁森林为例，和大家分享自己的部分思考。身边有很多人热衷于蚂蚁森林偷能量，自2017年第一季度蚂蚁森林上线后，支付宝的...
  ## [关于消息推送，运营人必须知道的“四要四不要”！](http://www.woshipm.com/operate/2680901.html)
