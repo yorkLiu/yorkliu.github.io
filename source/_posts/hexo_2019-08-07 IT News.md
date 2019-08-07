@@ -1,21 +1,21 @@
 ---
 title: 2019-08-07 IT News
 copyright: true
-date: 2019-08-07 08:01:40
+date: 2019-08-07 09:01:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G体验套餐来了，100G流量免费用!](http://mp.weixin.qq.com/s?src=11&timestamp=1565136004&ver=1775&signature=pDB4ugD2ApGG-kWDFgfIRYBwuNVQMWnCY1CKoRXbULozvU3SuFm024w5hLC1cw3ZesxsJGBSv5D*JW*y*p0bzNvOaxKiDegEhBV4jV0AmyQlKBAUXMKugUPYYCXZEJFb&new=1)
- > 今年6月份，随着工信部向三大运营商以及中国广电发放5G商用牌照，中国正式进入5G元年。在过去的两个月中，5G也慢慢进入大众的视野，比如5G的覆盖城市、网速、资费以及5G设备等资讯，都一一曝光。在前段时间，5G...
- ## [研发占比3%冲击科创板 物流企业佛朗斯护城河有多深?](http://mp.weixin.qq.com/s?src=11&timestamp=1565136004&ver=1775&signature=zhqdhjaq18fXB8yH1bGBuE0NgrZ5Tb3*M7d5oI7NFFQVlLZeKHIrIIM-vK3d6Hg9HzH3sfvdNhBn4W7i5cnM*vy0uL5XR-F39X9pfagmLyrEGCbYlaSg6NgaqZPOVcVk&new=1)
- > 物流企业广州佛朗斯股份有限公司（以下简称“佛朗斯”）冲击科创板之路到目前为止一波三折。2019年7月31日晚间，上交所发布消息称，佛朗斯与全国80余家科创板在审企业一道，由于财务报表已超过规定的有效期，状...
- ## [亚马逊股价八连跌丨Facebook加密货币引发隐私问题\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565136004&ver=1775&signature=DgFhfXC-5xd5h5-zUJDV3ZyYCOStgTRVSPffn0RQ*b6*1K8eOs99WJ7XezMNsu4hSJ92l45ANVxskZTSzcB5EFmd-RQcqR0CsY01y6zMlu4mdrLtiQiETzh0y0ZNHbua&new=1)
- > 8月6日丨周二【Do说】编辑 | 赵艾虎亚马逊股价八连跌，贝佐斯出售价值近30亿美元股票亚马逊股价8月5日再度大跌，这已是连续第八个交易日下跌，创2006年7月以来最长连跌纪录。而亚马逊创始人兼CEO杰夫·贝佐斯却...
- ## [北峰：Mesh 无线自组网系统](http://mp.weixin.qq.com/s?src=11&timestamp=1565136004&ver=1775&signature=jPrgJDN2KTKe5ZnXwSlgz7fBgElmz29PykSwAYrY07XDzk9-HOmGsCfZfyfeCIQt7CDJcyTDzhTHZGJAKIpx8PWWBWpC7OD-STd3LunrTbM2fiOwnObDweqlj0soTXNS&new=1)
+ ## [北峰：Mesh 无线自组网系统](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=jPrgJDN2KTKe5ZnXwSlgz7fBgElmz29PykSwAYrY07XDzk9-HOmGsCfZfyfeCIQtXsie*UweocqbF5GqBANcfJHURxBklcEVxc-zw1OBTAw6xTA0pYO3u7wZS8LC0g4w&new=1)
  > 一、MESH简介Mesh无线自组网系统是采用全新的“无线网格网”理念设计的移动宽带多媒体通信系统。系统所有节点在非视距、快速移动条件下，利用无中心自组网的分布式网络构架，可实现多路语音、数据、图像等多媒体...
- ## [反诈进行中!守护者计划公益行动在京启动，用科技防范新型诈骗!](http://mp.weixin.qq.com/s?src=11&timestamp=1565136004&ver=1775&signature=*6OgXWyXCmNXdJrBRQH2ifMbEZs7*iSqfrlSd0DG9b2BMte3ZpqhkjQnh5fS9ux6x1heo-969Fs7fva2uN2iflS530SNxP0ZUp-9Eht8HX0iTK9b4N1ZtgTnG2Az-zYf&new=1)
+ ## [亚马逊股价八连跌丨Facebook加密货币引发隐私问题\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=DgFhfXC-5xd5h5-zUJDV3ZyYCOStgTRVSPffn0RQ*b6*1K8eOs99WJ7XezMNsu4hz1SalY3jru8s9Vl89E8uE-4IWcTSkdi*-cZCOpXOemafl10Nz8OhE2xqjdYCbSBF&new=1)
+ > 8月6日丨周二【Do说】编辑 | 赵艾虎亚马逊股价八连跌，贝佐斯出售价值近30亿美元股票亚马逊股价8月5日再度大跌，这已是连续第八个交易日下跌，创2006年7月以来最长连跌纪录。而亚马逊创始人兼CEO杰夫·贝佐斯却...
+ ## [研发占比3%冲击科创板 物流企业佛朗斯护城河有多深?](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=zhqdhjaq18fXB8yH1bGBuE0NgrZ5Tb3*M7d5oI7NFFQVlLZeKHIrIIM-vK3d6Hg9-*vanmZXEgiUHRc1pGXnhas0ulOuaiyotu3fFSsjN7yvQFHI-axxOgVmpezEioXN&new=1)
+ > 物流企业广州佛朗斯股份有限公司（以下简称“佛朗斯”）冲击科创板之路到目前为止一波三折。2019年7月31日晚间，上交所发布消息称，佛朗斯与全国80余家科创板在审企业一道，由于财务报表已超过规定的有效期，状...
+ ## [反诈进行中!守护者计划公益行动在京启动，用科技防范新型诈骗!](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=*6OgXWyXCmNXdJrBRQH2ifMbEZs7*iSqfrlSd0DG9b2BMte3ZpqhkjQnh5fS9ux6gnlREVNGdj3MS6or*z0nt-78Ofx-18maxXbBGpRJ-h2hl2TsZNE-tnM2jjSNpYur&new=1)
  > 有这么一群人，藏匿在网络深处潜心研究前沿技术费尽心思坑蒙拐骗无所不用其极地四处敛财他们的名字，叫“骗子”还有一群人，站在光明之中守护个人隐私信息防范政企数据泄漏一刻不停的保卫网络安全他们的名字，叫...
+ ## [5G体验套餐来了，100G流量免费用!](http://mp.weixin.qq.com/s?src=11&timestamp=1565139604&ver=1775&signature=pDB4ugD2ApGG-kWDFgfIRYBwuNVQMWnCY1CKoRXbULozvU3SuFm024w5hLC1cw3ZMnYsw9dp2kLq7T1ziJmnv2vpZEY4KJg1UbKwsDH9aQ3X0ZeYBY7-PzS*W9es0sWj&new=1)
+ > 今年6月份，随着工信部向三大运营商以及中国广电发放5G商用牌照，中国正式进入5G元年。在过去的两个月中，5G也慢慢进入大众的视野，比如5G的覆盖城市、网速、资费以及5G设备等资讯，都一一曝光。在前段时间，5G...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -93,70 +93,78 @@ categories: IT NEWS
  > 很明显，许多企业仍然在使用手工、笔和纸的方式来处理库存、运输、工人安全和其他工业流程。那么……他们为
  ## [面对网络风险 企业应当如何部署安全策略？](http://netsecurity.51cto.com/art/201908/600872.htm)
  > 有关数据泄露和漏洞的突发层出不穷，这些数据泄露和漏洞对企业的财务和声誉有着非常大的影响。企业高管似乎
- ## [软件架构的10个常见模式](https://blog.csdn.net/wireless_com/article/details/89008061)
- > 软件架构的10个常见模式
- ## [容易转型管理的4类程序员，你喜欢的是？](https://blog.csdn.net/foruok/article/details/87598765)
- > 容易转型管理的4类程序员，你喜欢的是？
- ## [有哪些命令行工具堪称神器？](https://blog.csdn.net/sinat_33224091/article/details/92802564)
- > 有哪些命令行工具堪称神器？
- ## [中专毕业的他，是如何逆袭为 360 资深程序员？](https://blog.csdn.net/csdnsevenn/article/details/94679075)
- > 中专毕业的他，是如何逆袭为 360 资深程序员？
- ## [码农翻身之编程语言的巅峰](https://blog.csdn.net/csdnnews/article/details/91349594)
- > 码农翻身之编程语言的巅峰
- ## [邪恶的Java帝国是怎么欺负小函数的？](https://blog.csdn.net/coderising/article/details/89666820)
- > 邪恶的Java帝国是怎么欺负小函数的？
- ## [8月5日科技资讯|国内首款 5G 机型开售；Google Chrome 大部分插件无人用；Firefox 69 Beta 9 发布](https://blog.csdn.net/weixin_39786569/article/details/98478893)
- > 8月5日科技资讯|国内首款 5G 机型开售；Google Chrome 大部分插件无人用；Firefox 69 Beta 9 发布
- ## [江湖又现中科大少年班的传说](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/96396072)
- > 江湖又现中科大少年班的传说
- ## [阿里达摩院做AI这两年](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/96651270)
- > 阿里达摩院做AI这两年
- ## [程序员爬取 2 万条数据，撕开微博热搜的真相！](https://blog.csdn.net/csdnsevenn/article/details/96053852)
- > 程序员爬取 2 万条数据，撕开微博热搜的真相！
- ## [实战 Java 第3天：开发注册、登录接口](https://blog.csdn.net/weixin_44135121/article/details/94716711)
- > 实战 Java 第3天：开发注册、登录接口
- ## [各大高校女生节横幅来袭，个个都是段子手](https://blog.csdn.net/UW63ZqpKxwlRL1/article/details/88324923)
- > 各大高校女生节横幅来袭，个个都是段子手
- ## [我是如何 2 个月拿到 4 份 Offer 并收入翻倍的？](https://blog.csdn.net/csdnnews/article/details/93987826)
- > 我是如何 2 个月拿到 4 份 Offer 并收入翻倍的？
- ## [MySQL（二）——超详细的基本SQL语句的使用](https://blog.csdn.net/sspudding/article/details/95647580)
- > MySQL（二）——超详细的基本SQL语句的使用
- ## [GraphSAGE：我寻思GCN也没我厉害！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/98540692)
- > GraphSAGE：我寻思GCN也没我厉害！
+ ## [工具篇：详解IntelliJ idea使用.gitignore插件以及剔除误提交到git版本控制中的文件](https://blog.csdn.net/NDKHBWH/article/details/96882593)
+ > 工具篇：详解IntelliJ idea使用.gitignore插件以及剔除误提交到git版本控制中的文件
+ ## [北大研三，为何会这般焦虑？是读博还是就业？](https://blog.csdn.net/u012365828/article/details/95613663)
+ > 北大研三，为何会这般焦虑？是读博还是就业？
+ ## [算法-动态规划(硬币数量/最长子序列/最长连续子序列/三角数组最大和)](https://blog.csdn.net/Fly_Fly_Zhang/article/details/96695470)
+ > 算法-动态规划(硬币数量/最长子序列/最长连续子序列/三角数组最大和)
+ ## [多线程里面的原子性，可见性，有序性](https://blog.csdn.net/weixin_43689480/article/details/96513177)
+ > 多线程里面的原子性，可见性，有序性
+ ## [Python 智能银行卡识别系统的实现 （2）—系统的实现](https://blog.csdn.net/jacky_zhuyuanlu/article/details/96441363)
+ > Python 智能银行卡识别系统的实现 （2）—系统的实现
+ ## [Soloπ：支付宝开源的Android专项测试工具](https://blog.csdn.net/weixin_44326589/article/details/95479927)
+ > Soloπ：支付宝开源的Android专项测试工具
+ ## [大数据架构如何做到流批一体？](https://blog.csdn.net/b0Q8cpra539haFS7/article/details/94416809)
+ > 大数据架构如何做到流批一体？
+ ## [系统学习深度学习（四十三）--GAN简单了解](https://blog.csdn.net/App_12062011/article/details/93676895)
+ > 系统学习深度学习（四十三）--GAN简单了解
+ ## [计算机组成的基本硬件设备](https://blog.csdn.net/Jmilk/article/details/93471754)
+ > 计算机组成的基本硬件设备
+ ## [计算机组成原理 — 指令系统](https://blog.csdn.net/Jmilk/article/details/96435162)
+ > 计算机组成原理 — 指令系统
+ ## [MySQL引擎：MyIsam和Innodb的区别](https://blog.csdn.net/u012904383/article/details/89386647)
+ > MySQL引擎：MyIsam和Innodb的区别
+ ## [大众点评信息流基于文本生成的创意优化实践](https://blog.csdn.net/MeituanTech/article/details/88567375)
+ > 大众点评信息流基于文本生成的创意优化实践
+ ## [AndroidBAT. 字节跳动74道高级面试第二篇](https://blog.csdn.net/beibei_programme/article/details/95974158)
+ > AndroidBAT. 字节跳动74道高级面试第二篇
+ ## [程序员该做垃圾分类 App 了！| 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/94592955)
+ > 程序员该做垃圾分类 App 了！| 每日趣闻
+ ## [ZYNQ进阶之路12--自定义AXI-FULL IP实现PL端向DDR3写数据和PS端实现高速通讯](https://blog.csdn.net/WP_FD/article/details/89600759)
+ > ZYNQ进阶之路12--自定义AXI-FULL IP实现PL端向DDR3写数据和PS端实现高速通讯
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [放弃创业板上市梦想，美迪西转战科创板能否成功上岸？](http://www.lanjingtmt.com/news/detail/44074.shtml)
+ > 7月31日，上交所网站披露了上海美迪西生物医药股份有限公司对第五轮问询的回复。此前，美迪西曾拟登陆创业板，后撤回申请。此次转战科创板，能否成功上岸？
+ ## [华米新品遭吐槽、业绩环比腰斩，“去小米化”面临诸多挑战](http://www.lanjingtmt.com/news/detail/44071.shtml)
+ > 2013年，小米开启生态链计划，华米正是该计划中的一员。然而，华米科技的营收却一直依赖于小米。未来，华米能否在此之前实现“去小米化”，在智能穿戴领域突破重围？
 # 人工智能 
- ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
- > 史上最全的Android性能优化面试题集锦
- ## [如何将语音翻译成中文、语音转文字怎么做](https://blog.csdn.net/WoChaotian_/article/details/95588227)
- > 如何将语音翻译成中文、语音转文字怎么做
- ## [手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些](https://blog.csdn.net/WoChaotian_/article/details/97152958)
- > 手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些
- ## [2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）](https://blog.csdn.net/whczbk/article/details/95046029)
- > 2019新版前端与移动开发学习路线图（视频+工具+书籍+资源）
- ## [Dialog Fragment使用与填坑](https://blog.csdn.net/qq_42780052/article/details/97138647)
- > Dialog Fragment使用与填坑
- ## [《Excel函数与公式速查手册》赛贝尔资讯（编著）](https://blog.csdn.net/fenxiangai/article/details/95325781)
- > 《Excel函数与公式速查手册》赛贝尔资讯（编著）
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
- ## [运维linux命令](https://blog.csdn.net/mengjinlong1/article/details/96474278)
- > 运维linux命令
- ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
- > 云杰恒指：7.19恒指期货早盘资讯
- ## [实用运维脚本](https://blog.csdn.net/u014589856/article/details/96438081)
- > 实用运维脚本
- ## [速记工具原来这么好用，错过了让你抱憾终身](https://blog.csdn.net/WoChaotian_/article/details/95167022)
- > 速记工具原来这么好用，错过了让你抱憾终身
- ## [运维面试题（面前准备）](https://blog.csdn.net/yuanfangPOET/article/details/96774478)
- > 运维面试题（面前准备）
- ## [资讯类网站增量式爬虫](https://blog.csdn.net/xiayong763541/article/details/95506646)
- > 资讯类网站增量式爬虫
- ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
- > 进退博弈：恒指7.16号早盘资讯及操作建议
- ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
- > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
+ ## [音视频码率的计算](https://blog.csdn.net/LS7011846/article/details/96724472)
+ > 音视频码率的计算
+ ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
+ > Encoder-Decoder架构与注意力机制
+ ## [金融行业微服务架构解析](https://blog.csdn.net/weixin_45443931/article/details/97079458)
+ > 金融行业微服务架构解析
+ ## [WireShark抓RTP音频包](https://blog.csdn.net/qq_40609809/article/details/97128823)
+ > WireShark抓RTP音频包
+ ## [音视频知识基础](https://blog.csdn.net/goldfish3/article/details/97021252)
+ > 音视频知识基础
+ ## [架构杂谈《三》](https://blog.csdn.net/a1022560838/article/details/96269973)
+ > 架构杂谈《三》
+ ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
+ > 架构杂谈《六》
+ ## [微服务架构的核心关键点](https://blog.csdn.net/style6666/article/details/94957149)
+ > 微服务架构的核心关键点
+ ## [谈谈KAFKA的架构以及这种架构的优势](https://blog.csdn.net/qq32933432/article/details/96474985)
+ > 谈谈KAFKA的架构以及这种架构的优势
+ ## [抖音视频置顶？抖音视频置顶功能全解！](https://blog.csdn.net/veuiohg/article/details/95462494)
+ > 抖音视频置顶？抖音视频置顶功能全解！
+ ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
+ > Java音视频播放器
+ ## [分布式架构的架构稳定性](https://blog.csdn.net/m0_38125278/article/details/95046242)
+ > 分布式架构的架构稳定性
+ ## [20年研发管理经验谈（十四）](https://blog.csdn.net/weixin_39759846/article/details/95303857)
+ > 20年研发管理经验谈（十四）
+ ## [JAVAEE经典架构](https://blog.csdn.net/qq_40925525/article/details/96729838)
+ > JAVAEE经典架构
+ ## [Android音视频系列（一）：基本概念扫盲](https://blog.csdn.net/u011315960/article/details/96862786)
+ > Android音视频系列（一）：基本概念扫盲
 # PM 
+ ## [蚂蚁森林功能的主要价值，是用户激活还是用户留存？](http://www.woshipm.com/operate/2670893.html)
+ > 笔者最近在学习增长黑客相关内容，在这里以蚂蚁森林为例，和大家分享自己的部分思考。身边有很多人热衷于蚂蚁森林偷能量，自2017年第一季度蚂蚁森林上线后，支付宝的...
+ ## [关于消息推送，运营人必须知道的“四要四不要”！](http://www.woshipm.com/operate/2680901.html)
+ > 消息推送功能可以促进APP活跃度和用户留存率的提升，但是并不是所有时间所有场景下都合适的，APP运营需要注意哪些方面的问题？本文笔者分享了自己的看法。你知道吗？...
  ## [弹出窗口:10个代表性问题及其替代方案](http://www.chanpin100.com/article/109174)
  > 通过观察弹窗，我们会发现大多数弹窗都存在着破坏用户体验，降低用户好感度的效果。因此本文结合这一现象，讲具体分析背后的原理以及避免的方法。
  ## [什么是营销策划？一张思维导图带你系统的解读营销策划](http://www.chanpin100.com/article/109162)
