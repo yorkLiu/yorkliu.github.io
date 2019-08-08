@@ -1,21 +1,21 @@
 ---
 title: 2019-08-08 IT News
 copyright: true
-date: 2019-08-08 08:01:08
+date: 2019-08-08 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [工信部韦乐平：国内5G投资将达1.5万亿!元器件行业机遇在哪?](http://mp.weixin.qq.com/s?src=11&timestamp=1565222405&ver=1777&signature=jqX8Te3Nh-QFzTtI*C-Q6lk6YxKgaqhY9z*X1SCp4r6v9tovqjf3qmvn9fsAL*vbfQjFbnWNXfj8AfBCj43Cl75qkXky5IMfcxRjrpu3dgfmdMq*CLmJ2IsILGpFj-O5&new=1)
+ ## [工信部韦乐平：国内5G投资将达1.5万亿!元器件行业机遇在哪?](http://mp.weixin.qq.com/s?src=11&timestamp=1565226004&ver=1777&signature=jqX8Te3Nh-QFzTtI*C-Q6lk6YxKgaqhY9z*X1SCp4r6v9tovqjf3qmvn9fsAL*vbTg8jQexiyR1SZiEseBEEWebq-AonRskBAUVfgrAtaXv15STMe*V1O5190oA9R0ru&new=1)
  > 毫无疑问，5G是当下非常热的一个话题，与5G产业链相关的技术和企业也是备受外界关注。8月7日，2019汇芯（中国）产业技术发展论坛在深圳福田召开，上百家5G产业链相关企业到场。工信部通信科技常委副主任、中国电...
- ## [5G商用初数据，解密背后的启示](http://mp.weixin.qq.com/s?src=11&timestamp=1565222405&ver=1777&signature=xfF-EkuRINsZ6VpnYsd8jzI5mtnjPc9GN0rRxfOxrH7Q*YnBo0lUaGrp8NEPgz3HW4sWNoUAh1ehnCyquKO*u2KtRQlkrPy8nbNK0qAOr7ALIfPHDHIkD9fYtOZjEA9j&new=1)
- > 【摘要】作为全球首个5G商用的国家，韩国目前5G真实发展情况如何？5G的发展是否达到预期效果？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：谢剑超本文来源：赛立信通信研究（smrsinoci）杂谈投稿邮箱...
- ## [VR，卷土重来](http://mp.weixin.qq.com/s?src=11&timestamp=1565222405&ver=1777&signature=NbwhGCfEBhuU65nFTocYV66NQ2nmqp5iExHWk5uDxwW9kVdgez0Qm*BhdetAvL6ZEvlO8HMZ-8q47DgFo4IYa7sB9ujETaZzEaVjME-sgs5GoGddn*e0m9DQyIShkP0D&new=1)
- > 作者：Ashley / 编辑：于华东“2019年底爱奇艺预计将累计上线运营10+部内容，覆盖1000+线下VR体验场馆。”爱奇艺高级总监张航近日在接受采访时表示，爱奇艺VR已率先与中国联动、中国电信、中国移动三大运营商达...
- ## [一言不合就分手闹掰!向伟创力索赔4亿，盘点那些年被华为起诉的“巨头”](http://mp.weixin.qq.com/s?src=11&timestamp=1565222405&ver=1777&signature=qaPha7RWDXUTyOEs4woyjKJ37OtP7CyK1FxPAWEud6RQaURaDLa4x3UjuQ9fUayU1Z2eQzDK*9Wi99RJg46z-**gzm63D159LMCNiN0LMz6Xa4z4LEPwoama2Nep6Lz3&new=1)
+ ## [一言不合就分手闹掰!向伟创力索赔4亿，盘点那些年被华为起诉的“巨头”](http://mp.weixin.qq.com/s?src=11&timestamp=1565226004&ver=1777&signature=qaPha7RWDXUTyOEs4woyjKJ37OtP7CyK1FxPAWEud6RQaURaDLa4x3UjuQ9fUayUf7UDIr3tk0wuVpZDqccblRzXB92p93BfnFM5THhF6jDeP-0S1cftTlZIFV9oLvc*&new=1)
  > 七夕节本是个皆大欢喜的好日子，可是总有很多“作死”的典型，比如代工巨头伟创力。前不久，全球仅次于富士康的代工巨头伟创力停止为华为代工，弄得华为一时间措手不及。近日，据业内人士透露，华为已经开始向伟...
- ## [携手推进城市轨道交通数字化智能化发展丨上海地铁与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1565222405&ver=1777&signature=l0etXGS7y3js1aZ8VSyEEOU80qBt2Iy3ee2svTjMzRt068BPOZmulhc76KZFEQ7d-MBCPCPkN5-*ksCOdDhKBhdZK9dZmjcMDDxTBKBaIRxMyV2-q*N7SfHwy0tLWtv4&new=1)
+ ## [VR，卷土重来](http://mp.weixin.qq.com/s?src=11&timestamp=1565226004&ver=1777&signature=NbwhGCfEBhuU65nFTocYV66NQ2nmqp5iExHWk5uDxwW9kVdgez0Qm*BhdetAvL6ZAJURvRu5MJjN2lBhPvhOCjMDZogkEsoB5lUt7593w16P5TTVRh-mHJcclWNzE3ud&new=1)
+ > 作者：Ashley / 编辑：于华东“2019年底爱奇艺预计将累计上线运营10+部内容，覆盖1000+线下VR体验场馆。”爱奇艺高级总监张航近日在接受采访时表示，爱奇艺VR已率先与中国联动、中国电信、中国移动三大运营商达...
+ ## [携手推进城市轨道交通数字化智能化发展丨上海地铁与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1565226004&ver=1777&signature=l0etXGS7y3js1aZ8VSyEEOU80qBt2Iy3ee2svTjMzRt068BPOZmulhc76KZFEQ7dP3GlO-p*d7P4e1kod9a5j4D5eh1qmNPx7P8YRd-LDdx39GYEmyCk60KInN6vfMaH&new=1)
  > 8月7日，为共同推进城市轨道交通数字化智能化新兴发展，上海申通地铁集团有限公司（以下简称“上海地铁”）与华为签署战略合作协议。上海申通地铁集团董事长俞光耀与华为公司常务监事、首席道德遵从官、道德遵从...
+ ## [5G商用初数据，解密背后的启示](http://mp.weixin.qq.com/s?src=11&timestamp=1565226004&ver=1777&signature=xfF-EkuRINsZ6VpnYsd8jzI5mtnjPc9GN0rRxfOxrH7Q*YnBo0lUaGrp8NEPgz3Hl2p**edcxsWQgEOe8XdaqrxxKDEmBJLsvViGDgSMvOtuVnAOnVPM*JguBNknVJNz&new=1)
+ > 【摘要】作为全球首个5G商用的国家，韩国目前5G真实发展情况如何？5G的发展是否达到预期效果？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：谢剑超本文来源：赛立信通信研究（smrsinoci）杂谈投稿邮箱...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -59,6 +59,8 @@ categories: IT NEWS
 # IT 技术 
  ## [生产环境中轻松部署深度学习模型](http://ai.51cto.com/art/201908/600842.htm)
  > 生产环境中轻松部署深度学习模型
+ ## [Web开发与设计常用的17种Chrome扩展包](http://os.51cto.com/art/201908/600936.htm)
+ > Web开发与设计常用的17种Chrome扩展包
  ## [.NET Core 3.0功能亮点抢先看](http://developer.51cto.com/art/201908/600907.htm)
  > .NET Core 3.0功能亮点抢先看
  ## [为了今晚的表白，我爬了知乎热门撩妹情话](http://news.51cto.com/art/201908/600905.htm)
@@ -71,80 +73,110 @@ categories: IT NEWS
  > 中国芯量产前夕，新式存储器大举杀入，是否出现“取代”效应？
  ## [12个值得关注的Gnome Shell扩展件](http://os.51cto.com/art/201908/600811.htm)
  > 12个值得关注的Gnome Shell扩展件
- ## [数据科学用R还是Python好？专业教授多角度分析](http://news.51cto.com/art/201908/600885.htm)
- > 数据科学用R还是Python好？专业教授多角度分析
+ ## [物联网时代的生活体验会是怎样的](http://iot.51cto.com/art/201908/600941.htm)
+ > 衡量一个智能家居系统的设计是否成功，并不是仅仅取决于智能化程度的高低、系统的先进和集成度的高低，而是
+ ## [未来的供应链将由物联网提供动力](http://iot.51cto.com/art/201908/600940.htm)
+ > 随着企业继续通过第三方外包将业务范围缩小到核心流程，全球供应链不断增长。这就带来了对大量资产和流程进
  ## [在系统创建新用户时发送邮件的Bash脚本](http://os.51cto.com/art/201908/600939.htm)
  > 目前市场上有许多开源监测工具可用于监控 Linux 系统的性能。当系统到达指定的阈值时，它将发送邮件提醒。
  ## [物联网为建筑行业的生产力提升奠定基础](http://iot.51cto.com/art/201908/600938.htm)
  > 对于建筑行业来说，它正在达到一个临界点，在这个临界点上，实施物联网的投资回报率将呈指数级增长。通过使
- ## [CSDN日报190807：程序员的七夕，打造程序员专属表白神器](https://blog.csdn.net/blogdevteam/article/details/98750557)
- > CSDN日报190807：程序员的七夕，打造程序员专属表白神器
- ## [常用Linux命令总结（）](https://blog.csdn.net/weixin_40877924/article/details/98229655)
- > 常用Linux命令总结（）
- ## [挣钱和陪孩子你觉得哪个更重要？](https://blog.csdn.net/u010282984/article/details/94099520)
- > 挣钱和陪孩子你觉得哪个更重要？
- ## [博士生入职华为百万年薪不算高吧？](https://blog.csdn.net/AUZ3y0GqMa/article/details/97848609)
- > 博士生入职华为百万年薪不算高吧？
- ## [赌徒输光 酒鬼回家 长期双方竞赛问题](https://blog.csdn.net/qq_25847123/article/details/96129614)
- > 赌徒输光 酒鬼回家 长期双方竞赛问题
- ## [面试题系列：TCP UDP HTTP 的关系和区别](https://blog.csdn.net/AD_plus/article/details/98211459)
- > 面试题系列：TCP UDP HTTP 的关系和区别
- ## [200行C++代码实现命令行3D魔方游戏 这效果太逼真了！](https://blog.csdn.net/weixin_41986518/article/details/97911609)
- > 200行C++代码实现命令行3D魔方游戏 这效果太逼真了！
- ## [华登狗已经确定跑路!大家接受事实吧！](https://blog.csdn.net/wengfenggeng/article/details/98471764)
- > 华登狗已经确定跑路!大家接受事实吧！
- ## [Java 8（七）：新的Date 和 Time API](https://blog.csdn.net/u010647035/article/details/98204999)
- > Java 8（七）：新的Date 和 Time API
- ## [看透一家公司需要多久？一天就够了！](https://blog.csdn.net/job51BBS/article/details/98213849)
- > 看透一家公司需要多久？一天就够了！
- ## [国内外65％的程序员竟都是自学成才？](https://blog.csdn.net/fdsdidgf/article/details/97936430)
- > 国内外65％的程序员竟都是自学成才？
- ## [自学Java，机械转java的心血历程](https://blog.csdn.net/qq_41530755/article/details/97961170)
- > 自学Java，机械转java的心血历程
- ## [去某大厂三面总监面，因为迟到了5分钟，面试官当着我的面把简历扔垃圾桶了...](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/94682891)
- > 去某大厂三面总监面，因为迟到了5分钟，面试官当着我的面把简历扔垃圾桶了...
- ## [无人驾驶算法学习（十一）:IMU标定问题](https://blog.csdn.net/orange_littlegirl/article/details/98077564)
- > 无人驾驶算法学习（十一）:IMU标定问题
- ## [Android 面试必备 - http 与 https 协议](https://blog.csdn.net/gdutxiaoxu/article/details/97885526)
- > Android 面试必备 - http 与 https 协议
+ ## [一个入行2年程序员的自述](https://blog.csdn.net/S_bean/article/details/97790754)
+ > 一个入行2年程序员的自述
+ ## [牛人用C++制作的计算器竟然能打CS，这技术太厉害了！](https://blog.csdn.net/weixin_44679141/article/details/95085892)
+ > 牛人用C++制作的计算器竟然能打CS，这技术太厉害了！
+ ## [北漂程序员的辛酸：年薪30多万，却活得像乞丐一样](https://blog.csdn.net/moran0322/article/details/93615481)
+ > 北漂程序员的辛酸：年薪30多万，却活得像乞丐一样
+ ## [C语言编程学习：退休C语言工程师教你如何学习C语言，快速成为大神就靠这个！](https://blog.csdn.net/CSDN___Jack/article/details/95764435)
+ > C语言编程学习：退休C语言工程师教你如何学习C语言，快速成为大神就靠这个！
+ ## [一个程序员，别无长技，能不能靠编程一辈子维生？](https://blog.csdn.net/dong2008hong/article/details/93168976)
+ > 一个程序员，别无长技，能不能靠编程一辈子维生？
+ ## [程序员想入职阿里，入职需要什么文凭，网友：不需要，只要技术好](https://blog.csdn.net/moran0322/article/details/93486223)
+ > 程序员想入职阿里，入职需要什么文凭，网友：不需要，只要技术好
+ ## [30岁的未婚程序员，炫耀高薪工作，副业收入还以为看错了](https://blog.csdn.net/webdu123/article/details/93179124)
+ > 30岁的未婚程序员，炫耀高薪工作，副业收入还以为看错了
+ ## [腾讯工作近十年大佬：不是我打击你！你可能真的不会写Java](https://blog.csdn.net/feilang00/article/details/94737179)
+ > 腾讯工作近十年大佬：不是我打击你！你可能真的不会写Java
+ ## [程序员吐槽：不和同事一起吃午饭，被领导批了！网友戏称：以后拉屎也要和同事一起，打成一片！...](https://blog.csdn.net/g6U8W7p06dCO99fQ3/article/details/95414852)
+ > 程序员吐槽：不和同事一起吃午饭，被领导批了！网友戏称：以后拉屎也要和同事一起，打成一片！...
+ ## [程序员如果离开了开发工具后，还剩几分编程水准？](https://blog.csdn.net/bianchengnanyun/article/details/93748914)
+ > 程序员如果离开了开发工具后，还剩几分编程水准？
+ ## [分享5个高质无损音乐网站，歌曲很丰富，爱听歌的小伙伴有耳福了](https://blog.csdn.net/qq_40338373/article/details/98212069)
+ > 分享5个高质无损音乐网站，歌曲很丰富，爱听歌的小伙伴有耳福了
+ ## [阿里程序员无奈：学历是985硕士，给的薪资没眼看，就是在侮辱人！](https://blog.csdn.net/webdu123/article/details/93471711)
+ > 阿里程序员无奈：学历是985硕士，给的薪资没眼看，就是在侮辱人！
+ ## [小仙女讲Springmvc——概述](https://blog.csdn.net/qsbbl/article/details/98451663)
+ > 小仙女讲Springmvc——概述
+ ## [easyui（前后端分离）](https://blog.csdn.net/weixin_45180919/article/details/94857477)
+ > easyui（前后端分离）
+ ## [公司招了两个程序员，老员工吐槽又菜又笨，网友：你能聪明的哪去](https://blog.csdn.net/weixin_44330260/article/details/94337547)
+ > 公司招了两个程序员，老员工吐槽又菜又笨，网友：你能聪明的哪去
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [深入 Java 源码剖析之字符串常量 | CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/98808392)
+ > 作者 | Temptation责编 | 屠敏出品 | CSDN 博客字符串在Java生产开发中的使用频率是非常高的，可见，字符串对于我们而言非常关键。那么从C语言过来的...
+ ## [如何在 FPGA 上实现双线性插值的计算？](https://blog.csdn.net/csdnnews/article/details/98808414)
+ > 作者 |殷庆瑜责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）本文主要讨论了如何在FPGA上实现双线性插值的计算。Interp和Resize是Yolo_v2...
+ ## [如何用 Python 给女友准备甜蜜的七夕礼物？](https://blog.csdn.net/csdnnews/article/details/98808430)
+ > 作者 | 菜鸟学Python责编 | 伍杏玲本文经授权转载自菜鸟学Python（ID：cainiao_xueyuan）七夕就要到了，在这个有情人终成眷属的好日子里，小安在...
+ ## [物联网时代，隐私还有救吗？](https://blog.csdn.net/csdnnews/article/details/98808236)
+ > 毫无疑问，未来的物联网将彻底改变我们的工作和生活方式，并且会给智能家居以及随处可见的智能设备带来新的变化——但是，物联网会对我们的隐私产生什么影响？作者 |Some D...
+ ## [边看边用！这本 Python 3.6 的书火爆了 IT 圈！](https://blog.csdn.net/csdnnews/article/details/98808337)
+ > 最近这段时间，常常有人在后台留言：该不该学Python？如何学Python？鉴于大家都有这方面的困惑今天就给大家推荐一本巨有影响力的Python书火到什么地步呢？在京东上...
+ ## [不懂 NumPy 算什么 Python 程序员？ | CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/98808519)
+ > 作者 |天元浪子责编 | 郭芮出品 | CSDN 博客大约七八年前，我曾经用 pyOpenGL 画过地球磁层顶的三维模型，这段代码至今仍然还运行在某科研机构里。在那之前...
+ ## [中国芯片人才大军在哪里？](https://blog.csdn.net/csdnnews/article/details/98808545)
+ > 作者 | 谭婧本文经授权转载自deardata（ID：deardata）再次和王志华教授见面，还是在清华大学微电子研究所。每每迈入清华大学的东主楼，总有一种时空倒流的感觉...
+ ## [吊打 IE、Firefox，谷歌 Chrome 十年封神记](https://blog.csdn.net/csdnnews/article/details/98808293)
+ > 2008年，微软的Internet Explorer（IE）浏览器几乎占据了全球浏览器市场份额的60%。Mozilla的火狐（Firefox）浏览器紧随其后，市场占有率约...
+ ## [Kotlin 势必取代 Java？](https://blog.csdn.net/csdnnews/article/details/98808698)
+ > 作为 Android 开发的两大编程语言，老将 Java 和新秀Kotlin正呈现出分庭抗礼之势。那么在两者之间抉择时，孰胜孰劣？作者 |Anchal Malik译者...
+ ## [今日七夕！不取标题，只想娶你](https://blog.csdn.net/csdnnews/article/details/98808454)
+ > 爱，是每个人的渴望。在Google上输入Love，可以搜到12,220,000,000条结果。关于爱情，中国古诗有“两情若是久长时，又岂在朝朝暮暮”这样的美句，西方有Lo...
+ ## [这是一本零基础学习 Python 的好书](https://blog.csdn.net/csdnnews/article/details/98808470)
+ > 之前遇到一个老师，他从事Java行业20年了，在Python兴起的时候，他周围的其他同行们都在纷纷学习Python方面的知识，连他的学生也问他“老师，你为什么不学Pyth...
+ ## [传海思为 PC 开发 CPU/GPU ；小米将发布第二款 5G 手机；Firefox 68.0.2 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/98808318)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
  ## [搜狗内外交困：搜索业务遇劲敌，智能硬件销售疲软](http://www.lanjingtmt.com/news/detail/44092.shtml)
  > 日前，搜狗发布了2019年第二季度财报。总体而言，主营业务表现疲软、AI智能硬件营收下滑的成绩单并不亮眼，外界对于搜狗营收结构单一、造血能力不足的质疑声再次响起。
  ## [网易Q2净收入同比增15.3%至188亿，游戏营收占比超六成](http://www.lanjingtmt.com/news/detail/44091.shtml)
  > 归属于公司股东净利润为30.71亿元，与去年同期21亿元相比同比增长46.2%，和今年第一季度的23.82亿元相比环比增长28.9%。
 # 人工智能 
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
- ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
- > 物联网、工业互联网大数据的特点
- ## [react-native学习总结与部分报错提示](https://blog.csdn.net/qq_41742092/article/details/95507832)
- > react-native学习总结与部分报错提示
- ## [千万不要因为安逸而忘记努力](https://blog.csdn.net/S8wadw/article/details/96851715)
- > 千万不要因为安逸而忘记努力
- ## [一种针对物联网设备设计的数据模型](https://blog.csdn.net/weixin_37878740/article/details/96036158)
- > 一种针对物联网设备设计的数据模型
- ## [程序人生|毕业一年有感](https://blog.csdn.net/nobody_1/article/details/96801942)
- > 程序人生|毕业一年有感
- ## [除了 BAT之外，国内有哪些实力雄厚的物联网平台企业？](https://blog.csdn.net/qq_34449351/article/details/95611166)
- > 除了 BAT之外，国内有哪些实力雄厚的物联网平台企业？
- ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
- > 移动开发——问卷调查
- ## [物联网设备的使用案例及管理系统](https://blog.csdn.net/qq_43359864/article/details/97101946)
- > 物联网设备的使用案例及管理系统
- ## [Ruff物联网开发套件轻松入门](https://blog.csdn.net/u010089686/article/details/96485378)
- > Ruff物联网开发套件轻松入门
- ## [干货 | 学习大数据为什么要先学Java？](https://blog.csdn.net/fbnggnh/article/details/95200354)
- > 干货 | 学习大数据为什么要先学Java？
- ## [大数据能做什么,为什么学习大数据](https://blog.csdn.net/fbnggnh/article/details/95321007)
- > 大数据能做什么,为什么学习大数据
- ## [物联网项目零散内容杂记](https://blog.csdn.net/lanyandong/article/details/95392690)
- > 物联网项目零散内容杂记
- ## [程序帝国四大操作之单表新增](https://blog.csdn.net/qq_44484894/article/details/96473779)
- > 程序帝国四大操作之单表新增
- ## [Java 设计模式-适配器设计模式](https://blog.csdn.net/qq_45386055/article/details/96033025)
- > Java 设计模式-适配器设计模式
+ ## [input框range类型拖动条时，实现得到实时反馈](https://blog.csdn.net/qq_41866516/article/details/95167910)
+ > input框range类型拖动条时，实现得到实时反馈
+ ## [前端大作业（期末复习）](https://blog.csdn.net/qq_41681241/article/details/95181220)
+ > 前端大作业（期末复习）
+ ## [Python编程里面函数的最难知识点， 迭代器与生成器！](https://blog.csdn.net/fei347795790/article/details/96718798)
+ > Python编程里面函数的最难知识点， 迭代器与生成器！
+ ## [使用百度图表ECharts](https://blog.csdn.net/sunon_/article/details/95591321)
+ > 使用百度图表ECharts
+ ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
+ > 学习编程基础知识，进阶成为更优秀的程序员
+ ## [好用的音视频剪辑软件综述](https://blog.csdn.net/qq_43173244/article/details/96476689)
+ > 好用的音视频剪辑软件综述
+ ## [选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！](https://blog.csdn.net/CSDN___Jack/article/details/97170312)
+ > 选择编程语言，重点是看你想做什么开发，而不是乱选编程语言！
+ ## [快速排序 python 代码实现](https://blog.csdn.net/weixin_40294256/article/details/95173232)
+ > 快速排序 python 代码实现
+ ## [一张图片，根据区域，跳转不同链接](https://blog.csdn.net/swallow_y/article/details/97135401)
+ > 一张图片，根据区域，跳转不同链接
+ ## [简书：编程入门学习的困惑](https://blog.csdn.net/weixin_41164184/article/details/95731143)
+ > 简书：编程入门学习的困惑
+ ## [编程语言千千万，为什么学习Python的占一半？](https://blog.csdn.net/PyhtonChen/article/details/96589909)
+ > 编程语言千千万，为什么学习Python的占一半？
+ ## [音视频架构的三部分之CDN（二）](https://blog.csdn.net/weixin_40763897/article/details/95523898)
+ > 音视频架构的三部分之CDN（二）
+ ## [音视频开发-AVAudioSession在开发中的应用](https://blog.csdn.net/shengpeng3344/article/details/96424515)
+ > 音视频开发-AVAudioSession在开发中的应用
+ ## [编程语言时隔多年，为什么C语言仍然占主导地位？](https://blog.csdn.net/CSDN___Jack/article/details/97036486)
+ > 编程语言时隔多年，为什么C语言仍然占主导地位？
+ ## [前端部署项目](https://blog.csdn.net/weixin_43606158/article/details/96706276)
+ > 前端部署项目
 # PM 
+ ## [电商运营之站内搜索全面指南（六）](http://www.woshipm.com/operate/2667870.html)
+ > 本文作者从具体的工作实践出发，结合案例等分享了非常实用的大范围排序中的类目预测知识，供大家一同参考和学习。在上一章节中，给大家简要的介绍了下搜索的具体流程...
+ ## [线上课程 | 产品新人怎么用Axure，才能画出更专业、标准的原型？](http://www.woshipm.com/active/2678039.html)
+ > 产品原型是用于表达产品功能和内容的示意图，目标是将想法、功能、内容形象地表达出来，便于提高沟通效率。因此，画原型也成为产品工作环节中不可或缺的一部分。可作...
  ## [本周四晚8点半开课|产品经理没有调研就没有发言权？](http://www.chanpin100.com/article/109189)
  > 市场调研，是指为了提高产品开发的成功率、提高销售决策质量、解决存在于产品销售中的问题或组织根据特定的决策问题运用科学的方法有目的收集、统计资料及报告调研结果的工作过程。
  ## [面对蜂拥而至的需求，我们该如何抵挡？](http://www.chanpin100.com/article/109187)
