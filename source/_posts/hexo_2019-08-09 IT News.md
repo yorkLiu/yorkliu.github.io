@@ -1,21 +1,23 @@
 ---
 title: 2019-08-09 IT News
 copyright: true
-date: 2019-08-09 08:01:10
+date: 2019-08-09 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国移动年中成绩单：收入与利润负增长，仍有六大亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1565308804&ver=1779&signature=IR7z97OCor0c4YNGnc*TcAKO43wfCPQG7RYQLCQ*XrYbLXxLz2IZdfRRkpic2jH2zMeY5RH0AufE-jRWFFuixWwaLh9v9iFzjVvlFdBFOrUo0yi2TCw5b2HcOP7pCt84&new=1)
- > 今天，中国移动发布了2019年年中业绩。从业绩报告中可以看出，其营业收入同比降低0.6%，净利润同比下降14.6%。可以说，在大环境不好的背景下，中国移动这头大象，迎来历史罕见的负增长，具体为何？未来怎么解决...
- ## [上亿元的机器，3D动画模拟地铁建造贯通过程](http://mp.weixin.qq.com/s?src=11&timestamp=1565308804&ver=1779&signature=nzHc2bgrU7S8AV*6tnfZmJuHjY*qFyFqfYG0fVsQ2MS-ET72XQGjqNbkvXGUuKLbnlvoArLLeMFi3m8Gq*rVcaEFzAIBNBqcxviIfQnOtROavikCCchCgK5TXkVoxNIt&new=1)
- > 导语盾构机做的最好的就是德国人，曾有官方媒体报道，在中国没有制造出盾构机前，一台盾构机德商的报价在7亿元左右，可见这台机器是多么昂贵。今天咱们不谈价格，只关注一下它的工作过程，十分直观：文/ 直观学...
- ## [Lyft第二季度净亏损6.442亿美元丨百度战略投资有赞\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565308804&ver=1779&signature=ksP6gH3elysDOkICE5-s59lv7kNhpm3*83Fi*n7VeMsNgDRaCW77urhsDp3BUhiX30Ny*5jtos3tuze8wVT8UqX58tyMgQOZxQSboPtTzVDZYZynqdyrqq5LsaqBNoXL&new=1)
- > 8月8日丨周四【Do说】编辑 | 赵艾虎Lyft第二季度净亏损6.442亿美元，同比扩大美国网约车公司Lyft今日公布了该公司的2019财年第二季度财报。报告显示，Lyft第二季度营收8.673亿美元，去年同期为5.049亿美元，同比...
- ## [AI产业的幕后英雄：Testin有数希望建立AI数据服务的最高标准](http://mp.weixin.qq.com/s?src=11&timestamp=1565308804&ver=1779&signature=gOPPAyTKIMaKmq*r9K9nydlE*laBSDB4k5xzdyMbU0iRso*I9HAh4Yp0MSevpjtKHLtw9c5WJd0GPPRZSI9-y5WTGYYRCi4kelvCmox8tyCPMHNnzXlPV*LEO8TjJJuF&new=1)
- > 以成本为导向的数据采集和标注已经难以满足当前高精度的数据需求，专业高质的数据将成为AI服务行业新的爆发点。近五年，随着神经网络、深度学习等技术的高速发展，人工智能应用层面出现爆发式增长。人工智能连续...
- ## [自主泊车的夏天](http://mp.weixin.qq.com/s?src=11&timestamp=1565308804&ver=1779&signature=8y*GNKojIMzrE83dlu4NIR6-jY9-9akmv1DukS8tanv2EaSBnD5FuG2oMaMSw2C*e6dguZkarCw5lrSjZWHsYtihVl752a6KcCNXtMYulf5fmqsI9QD7HGCJqRCga-ik&new=1)
+ ## [自主泊车的夏天](http://mp.weixin.qq.com/s?src=11&timestamp=1565312404&ver=1779&signature=8y*GNKojIMzrE83dlu4NIR6-jY9-9akmv1DukS8tanttzTnwrcNCM9PfO2z-NcEiaYnho*mZBwOOlJcds1YLwNrvoCkLGYCGCRugGCvYCLjCCEp2OzhGo*20gsQtikFc&new=1)
  > 这个夏天，自主泊车方案在自动驾驶领域异常火热，作为L4级别自动驾驶方案中的一个分支，自主泊车方案一方面整合了L4级别自动驾驶的技术，另一面由于场地的特殊性让其商业落地成为现实。文丨AutoR智驾  诺一入秋...
+ ## [中国移动年中成绩单：收入与利润负增长，仍有六大亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1565312404&ver=1779&signature=IR7z97OCor0c4YNGnc*TcAKO43wfCPQG7RYQLCQ*XrbTK8XvuyqZvX9z4JeYiHZALokE9RyYEBBfBAze1xGemE5zB8rsaE-wa3jzQXYdpE8eRQxPz*ra9SxyKE1l0RuL&new=1)
+ > 今天，中国移动发布了2019年年中业绩。从业绩报告中可以看出，其营业收入同比降低0.6%，净利润同比下降14.6%。可以说，在大环境不好的背景下，中国移动这头大象，迎来历史罕见的负增长，具体为何？未来怎么解决...
+ ## [定了!华为签约沈阳了!继马化腾、王健林、许家印签约沈阳之后!沈阳人要赚了!](http://mp.weixin.qq.com/s?src=11&timestamp=1565312404&ver=1779&signature=WKKYqRE5c7pC2zMM6ITnxhkS0CT*S8CMv46BkFRaJp8zUUXUHfdyssUVLKQVLTjXZVY4ps5Eoyp3j9FYaB08fL4sifiy32p03fpw1qNdgaSYquhG8lahxAldNnbX1OhB&new=1)
+ > 进入了8月份，来到了2019下半年了！上半年沈阳来了王健林、马化腾、许家印等大咖！没想到下半年！沈阳又来重量级大咖了！这位大咖是很多中国人心目中国家的骄傲！民族的骄傲！从手机芯片，到5G网络技术，都处在...
+ ## [Lyft第二季度净亏损6.442亿美元丨百度战略投资有赞\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565312404&ver=1779&signature=ksP6gH3elysDOkICE5-s59lv7kNhpm3*83Fi*n7VeMvZ-C6TMfCePgRsH9j0DIumswYdLNr1xHQyQe95xtt5Y1MqQa5yrCYworA2imY0qDmQqm11Vcbe1gTTg7kTuqku&new=1)
+ > 8月8日丨周四【Do说】编辑 | 赵艾虎Lyft第二季度净亏损6.442亿美元，同比扩大美国网约车公司Lyft今日公布了该公司的2019财年第二季度财报。报告显示，Lyft第二季度营收8.673亿美元，去年同期为5.049亿美元，同比...
+ ## [上亿元的机器，3D动画模拟地铁建造贯通过程](http://mp.weixin.qq.com/s?src=11&timestamp=1565312404&ver=1779&signature=nzHc2bgrU7S8AV*6tnfZmJuHjY*qFyFqfYG0fVsQ2MQhh*TZiCbS*9Zti3HiDG0G7nAdy4GCSyX7Frc3QzV0dxgT5qTsmBGRg*qFKSwGciCwEVHSUPWsJPeD0s99Mx49&new=1)
+ > 导语盾构机做的最好的就是德国人，曾有官方媒体报道，在中国没有制造出盾构机前，一台盾构机德商的报价在7亿元左右，可见这台机器是多么昂贵。今天咱们不谈价格，只关注一下它的工作过程，十分直观：文/ 直观学...
+ ## [AI产业的幕后英雄：Testin有数希望建立AI数据服务的最高标准](http://mp.weixin.qq.com/s?src=11&timestamp=1565312404&ver=1779&signature=gOPPAyTKIMaKmq*r9K9nydlE*laBSDB4k5xzdyMbU0gdowCve-JrCze2V40uE8UvUgYa*FGFnafl3NQhRC6xgI1gDlOOqiJz4ece1wXCqQXmf0bh0irz06QPNTLgnLV7&new=1)
+ > 以成本为导向的数据采集和标注已经难以满足当前高精度的数据需求，专业高质的数据将成为AI服务行业新的爆发点。近五年，随着神经网络、深度学习等技术的高速发展，人工智能应用层面出现爆发式增长。人工智能连续...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -57,6 +59,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [预测加密货币的十大发展趋势](http://blockchain.51cto.com/art/201908/601013.htm)
+ > 预测加密货币的十大发展趋势
  ## [图像识别哪家公司最强？微软、亚马逊、谷歌还是IBM？](http://ai.51cto.com/art/201908/601009.htm)
  > 图像识别哪家公司最强？微软、亚马逊、谷歌还是IBM？
  ## [将Java进程转移到“解剖台”之前，法医都干了什么？](http://developer.51cto.com/art/201908/600956.htm)
@@ -71,76 +75,116 @@ categories: IT NEWS
  > 生产环境中轻松部署深度学习模型
  ## [如何用Linux命令行工具解析和格式化输出JSON](http://os.51cto.com/art/201908/600971.htm)
  > 如何用Linux命令行工具解析和格式化输出JSON
- ## [谷歌大脑实习生做出Python排版工具，在线运行出结果](http://news.51cto.com/art/201908/600899.htm)
- > 谷歌大脑实习生做出Python排版工具，在线运行出结果
+ ## [运营商为何集体取消“不限流量”套餐？](http://network.51cto.com/art/201908/601021.htm)
+ > 中国电信公告，9月1日起停售畅享套餐，也就是电信的“不限流量”套餐退出了历史舞台，现在的名字是“达量限
+ ## [Linux 系统服务器异常流量分析](http://server.51cto.com/sOS-601018.htm)
+ > 在工作中经常遇到服务器流量异常，时不时的流量很高。遇到这种流量异常和网站打开缓慢的情况，最后基本上
+ ## [超详细的PostgreSQL工具总结--备份恢复、监控、复制、高可用等](http://database.51cto.com/art/201908/601020.htm)
+ > 今天主要介绍一些PostgreSQL的工具，大体上可以分为以下几类,下面，我们一起来看。
+ ## [5G在物联网应用中的意义](http://network.51cto.com/art/201908/601017.htm)
+ > 5G是通信网络技术进步的复杂聚合，它有助于成为下一代物联网服务的引擎。5G需要时间来开发，但我们必须做好
+ ## [高速飞机上换引擎，MQ如何实现平滑迁移？](http://zhuanlan.51cto.com/art/201908/601016.htm)
+ > 前几天，杨紫琼同学在知识星球提问，说公司要切换MQ，从一个旧的服务商升级为新的服务商，问有没有什么好方
+ ## [物联网发展趋势之十（2019）](http://iot.51cto.com/art/201908/601015.htm)
+ > 在应用引领阶段，物联网应用的推广，绝大部分还是由龙头企业引领的，而传统的龙头企业在信息化时代已经建立
  ## [实施物联网安全标准的主要挑战](http://iot.51cto.com/art/201908/601014.htm)
  > 正如我们今天所知，物联网让我们的生活变得更轻松――但它并非100％安全。很难理解为什么为物联网制定全面
- ## [【图片新闻】俄罗斯第五代战斗机苏-57正式进入量产阶段](https://blog.csdn.net/weixin_42825609/article/details/98817409)
- > 【图片新闻】俄罗斯第五代战斗机苏-57正式进入量产阶段
- ## [Python深度学习-Keras-高级的深度学习最佳实践](https://blog.csdn.net/qq_30614345/article/details/98764775)
- > Python深度学习-Keras-高级的深度学习最佳实践
- ## [数据驱动与关键字驱动](https://blog.csdn.net/qq_37674086/article/details/88064536)
- > 数据驱动与关键字驱动
- ## [时间问题：贝壳2018笔试题   教室占用冲突](https://blog.csdn.net/weixin_41565755/article/details/98786031)
- > 时间问题：贝壳2018笔试题   教室占用冲突
- ## [脱壳入门(二)之FSG2.0压缩壳](https://blog.csdn.net/w_g3366/article/details/98781402)
- > 脱壳入门(二)之FSG2.0压缩壳
- ## [获取网页地址栏信息](https://blog.csdn.net/weixin_44845533/article/details/98771818)
- > 获取网页地址栏信息
- ## [unity shader数学基础3——矩阵的变换](https://blog.csdn.net/zx1091515459/article/details/98721638)
- > unity shader数学基础3——矩阵的变换
- ## [世界上最好的拍照手机，华为拍照的四种功能揭晓，拍出你想拍的](https://blog.csdn.net/JingCsong/article/details/98784839)
- > 世界上最好的拍照手机，华为拍照的四种功能揭晓，拍出你想拍的
- ## [MessagePack Java 0.6.X 动态类型](https://blog.csdn.net/huyuchengus/article/details/98784733)
- > MessagePack Java 0.6.X 动态类型
- ## [easyswoole table缓存](https://blog.csdn.net/qq_33332184/article/details/98784254)
- > easyswoole table缓存
- ## [计机组成笔记](https://blog.csdn.net/cj1064789374/article/details/98784650)
- > 计机组成笔记
- ## [SmartImage图片第三方控件android](https://blog.csdn.net/qq_15204179/article/details/98784260)
- > SmartImage图片第三方控件android
- ## [Github下载单个文件或单个文件夹](https://blog.csdn.net/jiangjiang_jian/article/details/98784526)
- > Github下载单个文件或单个文件夹
- ## [使用IDEA的众筹项目（三）异步请求方式的登录页面](https://blog.csdn.net/qq_41884677/article/details/98765476)
- > 使用IDEA的众筹项目（三）异步请求方式的登录页面
- ## [leetcode26 删除排序数组中的重复项](https://blog.csdn.net/rusbme/article/details/98783454)
- > leetcode26 删除排序数组中的重复项
+ ## [手把手教你搭建Facebook区块链Libra的开发环境](https://blog.csdn.net/BEYONDMA/article/details/96763280)
+ > 手把手教你搭建Facebook区块链Libra的开发环境
+ ## [教妹学 Java：动态伴侣 Groovy](https://blog.csdn.net/qing_gee/article/details/91968055)
+ > 教妹学 Java：动态伴侣 Groovy
+ ## [PostgreSQL 从入门到出门 第 13 篇 分组汇总](https://blog.csdn.net/horses/article/details/91446004)
+ > PostgreSQL 从入门到出门 第 13 篇 分组汇总
+ ## [专治强迫症：四环验证，整整齐齐](https://blog.csdn.net/iamsujie/article/details/96234511)
+ > 专治强迫症：四环验证，整整齐齐
+ ## [【MySQL笔记】正确的理解MySQL的索引机制以及内部实现（二）](https://blog.csdn.net/SnailMann/article/details/95618910)
+ > 【MySQL笔记】正确的理解MySQL的索引机制以及内部实现（二）
+ ## [Shiro步步为营--如何优雅地与JWT集成](https://blog.csdn.net/pengjunlee/article/details/95600843)
+ > Shiro步步为营--如何优雅地与JWT集成
+ ## [python实现外部静态服务器，浏览器通过HTTP与之通信2](https://blog.csdn.net/qq_26442553/article/details/95317310)
+ > python实现外部静态服务器，浏览器通过HTTP与之通信2
+ ## [C++中的复合类型](https://blog.csdn.net/andrewgithub/article/details/90733788)
+ > C++中的复合类型
+ ## [垃圾（GC）回收机制及算法以及配置调优](https://blog.csdn.net/m0_37657725/article/details/96490203)
+ > 垃圾（GC）回收机制及算法以及配置调优
+ ## [关于HTTP的几个个人预言](https://blog.csdn.net/github_38885296/article/details/93710140)
+ > 关于HTTP的几个个人预言
+ ## [基于Keras框架对抗神经网络DCGAN实践](https://blog.csdn.net/xiaoyw/article/details/92552828)
+ > 基于Keras框架对抗神经网络DCGAN实践
+ ## [Json学习总结（5）——阿里巴巴开源库 Fastjson详解](https://blog.csdn.net/u012562943/article/details/95045389)
+ > Json学习总结（5）——阿里巴巴开源库 Fastjson详解
+ ## [Gradle 2.0 用户指南翻译——第四十五章. 应用程序插件](https://blog.csdn.net/maosidiaoxian/article/details/91040464)
+ > Gradle 2.0 用户指南翻译——第四十五章. 应用程序插件
+ ## [一文读懂HBase多租户](https://blog.csdn.net/pengzhouzhou/article/details/91349835)
+ > 一文读懂HBase多租户
+ ## [7月3日资讯|华为将发布鲲鹏 920 芯片数据；三星 S10 自燃；支付宝刷脸支付上线美颜功能](https://blog.csdn.net/weixin_39786569/article/details/94551272)
+ > 7月3日资讯|华为将发布鲲鹏 920 芯片数据；三星 S10 自燃；支付宝刷脸支付上线美颜功能
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [GitHub 上有什么好玩的项目？](https://blog.csdn.net/csdnnews/article/details/98908195)
+ > 作者 |GitHubDaily责编 | 郭芮之前有水友私信问我，GitHub 上有没有比较好玩的项目可以推荐？我跟他说：&quot;有，过两天我整理一下&quot;。然而，一个月过去了，我...
+ ## [基于 Tensorflow 轻松实现 XOR 运算！| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/98908224)
+ > 作者 | beyond_LH责编|胡雪蕊出品 | CSDN博客对于“XOR”大家应该都不陌生，我们在各种课程中都会遇到，它是一个数学逻辑运算符号，在计算机中表示为“X...
+ ## [赞，全网开发者都在学的 26 门 AI 课程！](https://blog.csdn.net/csdnnews/article/details/98908044)
+ > 整理 | Jane出品 | AI科技大本营（ID：rgznai100）免费的在线学习课程一直是大多数人学习 AI 知识和技能的方式之一。今天，基于 Github 上一位...
+ ## [苹果进入后 iPhone 时代！](https://blog.csdn.net/csdnnews/article/details/98908559)
+ > 2007年史蒂夫·乔布斯推出了首款iPhone手机，由此引领了手机行业长达数十年的浪潮。但是数十年过去了，过度依赖iPhone销量的苹果公司却逐渐面临着激烈的竞争：201...
+ ## [产品小姐姐收到这个黑科技后，开心了一整天...](https://blog.csdn.net/csdnnews/article/details/98908276)
+ > 你看到我的笔记本了吗？我刚整理过会议的记录本去哪里了呀？啊。。这个图要怎么画？我笔记本好像有记可是我找不到笔记本这，就是我记笔记的日常。但是我不能因为找不到笔记本，就开...
+ ## [如何将 MySQL 去重操作优化到极致？| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/98908290)
+ > 作者 | wzy0623责编 | 屠敏出品 | CSDN 博客前言问题提出源表t_source结构如下：item_id int,created_time datetime...
+ ## [华为方舟编译器开源，我命由我不由天！](https://blog.csdn.net/csdnnews/article/details/98908096)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）8月6日，华为开发者大会2019召开前夕，知名数码博主@菊厂搞机，发表了一篇名为《华为新贵！方舟编译器的荣光和...
+ ## [聊聊国内 IT 圈的“隐学”](https://blog.csdn.net/csdnnews/article/details/98908159)
+ > 领域驱动设计（DDD）是如今的热门话题。大家已经公认，不是所有问题都可以靠程序员去解决就足够的，想要解决足够专门领域的问题，必须学习专门领域的知识，尊重专门领域的规律，针...
+ ## [AI 玩王者荣耀狂上分！1 天训练强度达人类 440 年，网友：已卸载](https://blog.csdn.net/csdnnews/article/details/98908238)
+ > 你造吗？人工智能继进军围棋之后，又来我“王者峡谷”了。腾讯AI LAB与王者荣耀合作开发的AI【绝悟】，在近期的最高规格赛事中获胜，宣布已达到“电竞职业水平”！据称：【绝...
+ ## [如何在 Simulink 中使用 PID Tuner 进行 PID 调参？](https://blog.csdn.net/csdnnews/article/details/98908260)
+ > 作者|安布奇责编| 胡雪蕊出品 | CSDN（ID: CSDNnews）本文为一篇技术干货，主要讲述在Simulink如何使用PID Tuner进行PID调参。PI...
+ ## [@程序员，你真的懂数据可视化吗？](https://blog.csdn.net/csdnnews/article/details/98908344)
+ > 作者 |张小墨责编 | 郭 芮随着“中台”的火热，数据中台逐渐为人所知，让很多原本隐于水下的岗位浮出了水面，比如数据产品经理、数据分析师等。“数据可视化”就是上述岗...
+ ## [伟创力回应扣押华为物资；谷歌更新图片界面；Python 3.8.0b3 发布 | 极客头条](https://blog.csdn.net/csdnnews/article/details/98908108)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [哈啰发力电动车业务，出行行业的新能源战事该如何讲](http://www.lanjingtmt.com/news/detail/44113.shtml)
+ > 相比较而言，同为综合出行平台的哈啰，则在推出顺风车业务之后再次将重心转向了两轮电动车，方向同样瞄准换电业务。
  ## [中电信、联通取消“达量限速”套餐被指变相涨价，新用户被割韭菜](http://www.lanjingtmt.com/news/detail/44112.shtml)
  > 日前，中国电信发文称，从9月1日起，全国范围内停售达量限速版畅享套餐，最晚于8月31日切换至普通版畅享套餐，省内B类达量降速版套餐也须同步停售。此事一经披露引发市场热议，部分消费者
 # 人工智能 
- ## [API安全接口安全设计](https://blog.csdn.net/zhou920786312/article/details/95536556)
- > API安全接口安全设计
- ## [Python运维-Socket网络编程](https://blog.csdn.net/qq_30534935/article/details/95464392)
- > Python运维-Socket网络编程
- ## [《白帽子讲Web安全》| 学习笔记之Web框架安全](https://blog.csdn.net/qq_42646885/article/details/95596882)
- > 《白帽子讲Web安全》| 学习笔记之Web框架安全
- ## [Android自定义View如此简单 实现点击动画+进度刷新的提交/下载按钮(填坑面试题)](https://blog.csdn.net/qq_30993595/article/details/94383113)
- > Android自定义View如此简单 实现点击动画+进度刷新的提交/下载按钮(填坑面试题)
- ## [运维面试题（面前准备）](https://blog.csdn.net/yuanfangPOET/article/details/96774478)
- > 运维面试题（面前准备）
- ## [运维linux命令](https://blog.csdn.net/mengjinlong1/article/details/96474278)
- > 运维linux命令
- ## [史上最全的Android屏幕适配面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96633833)
- > 史上最全的Android屏幕适配面试题集锦
- ## [前端与移动开发入门基础html完结版](https://blog.csdn.net/Denisedan/article/details/95673683)
- > 前端与移动开发入门基础html完结版
- ## [交换安全   STP生成树](https://blog.csdn.net/weixin_40511641/article/details/96886108)
- > 交换安全   STP生成树
- ## [flutter 如何实现文件读写(使用篇)](https://blog.csdn.net/weixin_42110682/article/details/95333428)
- > flutter 如何实现文件读写(使用篇)
- ## [运维----软件安装（vm和ubuntu）](https://blog.csdn.net/qq_27537505/article/details/97130615)
- > 运维----软件安装（vm和ubuntu）
- ## [多线程的上下文安全设计](https://blog.csdn.net/weixin_42679286/article/details/96719518)
- > 多线程的上下文安全设计
- ## [Android性能调优：App启动速度优化](https://blog.csdn.net/weixin_45258969/article/details/95484968)
- > Android性能调优：App启动速度优化
- ## [Dialog Fragment使用与填坑](https://blog.csdn.net/qq_42780052/article/details/97138647)
- > Dialog Fragment使用与填坑
+ ## [java基础(部分),复习用](https://blog.csdn.net/qq_44061725/article/details/96858218)
+ > java基础(部分),复习用
+ ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
+ > 干货分享：Totoro 在自动化测试领域的深耕与收获
+ ## [Android基础-四大组件之Service（基础）](https://blog.csdn.net/qq_42391904/article/details/95529565)
+ > Android基础-四大组件之Service（基础）
  ## [史上最全的Android性能优化面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96856324)
  > 史上最全的Android性能优化面试题集锦
+ ## [百人研发团队的难题：研发管理、绩效考核、组织文化和OKR](https://blog.csdn.net/weixin_44280696/article/details/95321295)
+ > 百人研发团队的难题：研发管理、绩效考核、组织文化和OKR
+ ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
+ > JAVA基础的基础1.0
+ ## [史上最全的Android屏幕适配面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96633833)
+ > 史上最全的Android屏幕适配面试题集锦
+ ## [Dialog Fragment使用与填坑](https://blog.csdn.net/qq_42780052/article/details/97138647)
+ > Dialog Fragment使用与填坑
+ ## [C语言电池助手（代码实例）](https://blog.csdn.net/weixin_43812804/article/details/96865520)
+ > C语言电池助手（代码实例）
+ ## [第五章：条件控制语句](https://blog.csdn.net/maihailunP1/article/details/95999956)
+ > 第五章：条件控制语句
+ ## [Vue基础学习记录](https://blog.csdn.net/yuse6262/article/details/96911070)
+ > Vue基础学习记录
+ ## [前端与移动开发入门基础html完结版](https://blog.csdn.net/Denisedan/article/details/95673683)
+ > 前端与移动开发入门基础html完结版
+ ## [Android面经：百度腾讯滴滴美团头条网易搜狐华为链家小米拼多多](https://blog.csdn.net/weixin_45258969/article/details/96900566)
+ > Android面经：百度腾讯滴滴美团头条网易搜狐华为链家小米拼多多
+ ## [爬虫基础：HTTP基本原理](https://blog.csdn.net/qq_43479622/article/details/95331204)
+ > 爬虫基础：HTTP基本原理
+ ## [移动开发——问卷调查](https://blog.csdn.net/floraruo/article/details/88778350)
+ > 移动开发——问卷调查
 # PM 
+ ## [线下课程 | 工作五六年，如何带好自己的【产品小团队】？](http://www.woshipm.com/active/2687376.html)
+ > 工作五六年的产品经理，大多都有自己的小团队，很多人认为现在团队越来越不好管了，比如：细节不完善，达不到预期，需要领导时刻盯细节跟进度；迟到早退，工作偷懒...
+ ## [以产品主导的增长营销策略大全](http://www.woshipm.com/marketing/2691566.html)
+ > 以产品主导的增长营销，是一种真正讲故事的营销。这篇文章中，我们从增长官或产品营销人的角色出发，阐述如何驱动这种营销实现。什么是以产品主导的增长（PLG：Produc...
  ## [四步解决需求](http://www.chanpin100.com/article/109195)
  > 本文主要从需求获取、需求分析、需求放大和需求管理四个方面对产品需求进行浅谈
  ## [拉钩：根据使用场景展示不同的信息](http://www.chanpin100.com/article/109194)
