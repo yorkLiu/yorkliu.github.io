@@ -1,22 +1,24 @@
 ---
 title: 2019-08-10 IT News
 copyright: true
-date: 2019-08-10 09:01:00
+date: 2019-08-10 10:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [鸿蒙初现,任重道远](http://mp.weixin.qq.com/s?src=11&timestamp=1565398804&ver=1781&signature=hTHy-Pv7kLR-4DZ-pdga0gk2KCUUeytCsrHiJgjuQe-8uwSHwjV6T3WKz6TdxZiFXJ6gqguhZNQREUkMhJlSR*iuNonNUAvN7fDJvyZGEQxB0dE813Ywp1awEuqWiGUK&new=1)
- > 8月9日下午，华为消费者业务CEO在华为HDC2019开发者大会上，正式发布了基于微内核的面向全场景的分布式操作系统——鸿蒙OS。余承东在演讲中表示，鸿蒙OS能用在智能手机上，但暂时不用。“大家问什么时候用，我随...
- ## [正式发布!鸿蒙，来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1565398804&ver=1781&signature=m8srf7j293cyAWaFod6SRzcNfB1neM95ofNH1iImvzQglHtznUWLSeC-Ctg1BfLR2X-yptQ9frKYus8SGKy7uVg1oSg2ekbMvP1Yutuac181mfo7CPOvH0jzPKpZL7yl&new=1)
+ ## [正式发布!鸿蒙，来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=m8srf7j293cyAWaFod6SRzcNfB1neM95ofNH1iImvzRUvJmVRNIMSswpNZ0tbEk1qe9aZTzcbpxpZwE7ihVgjWJ3KR0QKH1wnbWwg4OCwSi7DQ927IWwKrucoYpzH1EI&new=1)
  > 作者 | 胡巍巍 发自东莞篮球中心出品 | CSDN（ID：CSDNnews）鸿蒙真的来了！余承东宣布，鸿蒙的英文名叫HarmonyOS！2019年5月份，余承东曾说华为鸿蒙最早将于今秋面世。有人说他吹牛不打草稿，好在他吹的牛，多...
- ## [华为“鸿蒙”来了，效率提升3倍，随时可代替安卓…你想知道的都在这里](http://mp.weixin.qq.com/s?src=11&timestamp=1565398804&ver=1781&signature=ppjr55K2TPSTJWDMZO0pHYmNkVq-Y8OUzKHyZUgNWuF7EIMOG3H302HwwkxLcCzJZNWgVEEsno*J2gZ0eUlPjch*ZzfCt8Dm63OWCUDmMZSNOv0MnP7B8oqkSr33hJXz&new=1)
- > 来源 | 每日财经新闻千呼万唤，鸿蒙初现！8月9日，华为开发者大会上，鸿蒙OS终于揭开面纱。每经记者 任芷霓 摄今天（9日）华为开发者大会在广东东莞举行，华为消费者业务CEO余承东首先发言，公布了消费者业务的...
- ## [鸿蒙来了!华为开源新操作系统](http://mp.weixin.qq.com/s?src=11&timestamp=1565398804&ver=1781&signature=s*eo52PzuPJLgJTiJyK5mBfB3D*Uzxqc5h3Jc6xJT*32Ennv0GFxeredeCK4MvHiMYzUW7WeQctu11QppzuL1cqxlHPJrAs-dVFKhyjnInyheh0MBs*HS79w7sZtnx2n&new=1)
+ ## [鸿蒙初现,任重道远](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=hTHy-Pv7kLR-4DZ-pdga0gk2KCUUeytCsrHiJgjuQe9lV6M6nou9UNBHjAD0LjsUUZW7ZnbA*mYa-IrL9bXMLnQb1QbepLMqlPvwhbVLb-0nFea-rg*h5TOBAL93qnNE&new=1)
+ > 8月9日下午，华为消费者业务CEO在华为HDC2019开发者大会上，正式发布了基于微内核的面向全场景的分布式操作系统——鸿蒙OS。余承东在演讲中表示，鸿蒙OS能用在智能手机上，但暂时不用。“大家问什么时候用，我随...
+ ## [\[科技早报7点整\]余承东称鸿蒙在手机上已完成测试 苹果扩大自动驾驶团队规模……](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=gXQe-IOUpGXc7ej5sBOzm8rsKHmwCT01T-ERUfYif9vsT9cRs38QWci3QVWzdRcmIc2Pvc-Fn7UdEHpZ33QU8gJYwUuOSZlfihSLJS5EAH75tR1nhFlGle0P4FUKZiUU&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第556期1.工信部就骚扰电话管控不力问题约谈中国移动工信部就骚扰电话管控不力问题约谈了中国移动通信集团和北京、河北等问题突出的两省（直辖市）移动公司。工信部通报了近期...
+ ## [鸿蒙来了!华为开源新操作系统](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=s*eo52PzuPJLgJTiJyK5mBfB3D*Uzxqc5h3Jc6xJT*2Q5pXw*wQd6Q1-gmFL1SPdYiFrpedB8qH5BvsawHSM5SOjdExrpLJWhB8LIm3X5331CMpw6pizgtACXnWBEV5i&new=1)
  > 21CTO导读：华为消费者业务今天在其全球开发者大会上正式向全球发布其全新的基于微内核的面向全场景的分布式操作系统——鸿蒙OS。8 月 9 日下午，在华为开发者大会上，余承东宣布华为基于微内核的面向全场景的分...
- ## [5G时代的话音这盘棋(三)：重识话音价值](http://mp.weixin.qq.com/s?src=11&timestamp=1565398804&ver=1781&signature=OylUUfDzRUvI-zJ6oKHtSQ2EDONgHtxAbZX8K42GknHYwDpJKN9y-O1V4CKFY55wgvGTCyG0rKEHAMYTTyC2tkndC7NGhvTl42jzJAk9YWITdX05baciJ9511GDSAJJ9&new=1)
+ ## [华为“鸿蒙”来了，效率提升3倍，随时可代替安卓…你想知道的都在这里](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=ppjr55K2TPSTJWDMZO0pHYmNkVq-Y8OUzKHyZUgNWuESfE2wdAP7v1Q3TvCs6fIUM73-4bPkTanngcz0AkRm6Lutz-l-RFhnCL3xnLz2tcaBMNieTKMfFQjZ*W6peNFu&new=1)
+ > 来源 | 每日财经新闻千呼万唤，鸿蒙初现！8月9日，华为开发者大会上，鸿蒙OS终于揭开面纱。每经记者 任芷霓 摄今天（9日）华为开发者大会在广东东莞举行，华为消费者业务CEO余承东首先发言，公布了消费者业务的...
+ ## [5G时代的话音这盘棋(三)：重识话音价值](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=OylUUfDzRUvI-zJ6oKHtSQ2EDONgHtxAbZX8K42GknFIj5EDRxYpWGOSdpoWNR-ptL4edDpIpkQ*0u7vKpZu1s47HSt86wqFQeHJXQV4faWeI7j0FjjeGRmjfPc6RSph&new=1)
  > 前文发出后，有网友留言，“现在大家都用微信免费打电话了，运营商语音业务怎么挣钱？”其实这样的疑问，在多年前OTT兴起之时就不绝于耳，也反应出运营商话音业务受OTT应用冲击下的阵痛。话音业务会有筑底根据腾...
- ## [iPhone X/XS/XR被轻松破解：苹果尴尬了](http://mp.weixin.qq.com/s?src=11&timestamp=1565398804&ver=1781&signature=7atEZ7ypeO1cxkqTWS1jAuk6vVVkFOAiEFhN6GNkGI*zMPtAd00kd*LAh6fFRjySoq8tO2YyJWPckBenA6dW2AITE2siXSCw50Y1lRsCpFATGOaJRPm8*4TPTm248W2G&new=1)
+ ## [iPhone X/XS/XR被轻松破解：苹果尴尬了](http://mp.weixin.qq.com/s?src=11&timestamp=1565402405&ver=1781&signature=7atEZ7ypeO1cxkqTWS1jAuk6vVVkFOAiEFhN6GNkGI9dWAYWYmBgKYO1hywFRBofYp*38GSoovh60y6U-lGx9XJcDnxvzQSJBVd7oPHj*TqMY9TmWSt9rnpDuAYaAm4X&new=1)
  > 正在美国进行黑帽大会上，安全研究人员又发现了绕过iPhone Face ID的方法，这次方法看起来让苹果更头疼。这次的方法来自腾讯的研究人员，具体来说方法是，使用眼镜和胶带解锁并渗透到“无意识”受害者的iPhone中...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -75,36 +77,38 @@ categories: IT NEWS
  > Web开发与设计常用的17种Chrome扩展包
  ## [分布式服务限流实战，已经为你排好坑了](http://developer.51cto.com/art/201908/600953.htm)
  > 分布式服务限流实战，已经为你排好坑了
+ ## [5G来了！开发者选择华为云更有未来！](http://developer.51cto.com/art/201908/601083.htm)
+ > 2019年8月9日，2019华为开发者大会在东莞开启。在为期三天的活动中，全球超过600名华为技术专家与全球近600
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [自学编程和科班出身到底差别有多大？看看这些，你就会了解了！](https://blog.csdn.net/CSDN___Jack/article/details/95618886)
- > 自学编程和科班出身到底差别有多大？看看这些，你就会了解了！
- ## [WiFi背景与信道划分(1)](https://blog.csdn.net/weixin_45425922/article/details/98382918)
- > WiFi背景与信道划分(1)
- ## [Linux：内核源码解析 - CFS调度算法](https://blog.csdn.net/qq_42007741/article/details/98887083)
- > Linux：内核源码解析 - CFS调度算法
- ## [Machine Learning By Andrew Ng (5)](https://blog.csdn.net/weixin_43038346/article/details/98885954)
- > Machine Learning By Andrew Ng (5)
- ## [Java学习：递归](https://blog.csdn.net/qq_44204058/article/details/98917196)
- > Java学习：递归
- ## [35、函数与指针分析](https://blog.csdn.net/xiebs/article/details/98883585)
- > 35、函数与指针分析
- ## [平衡二叉搜索树之AVL tree](https://blog.csdn.net/TROYE_Sn/article/details/98883020)
- > 平衡二叉搜索树之AVL tree
- ## [编译程序、汇编程序、链接程序三者的区别](https://blog.csdn.net/yiyu_j/article/details/98884727)
- > 编译程序、汇编程序、链接程序三者的区别
- ## [【曾曾编程日记】指针，我要对你说，我命由我不由你](https://blog.csdn.net/rainbzzz/article/details/98876048)
- > 【曾曾编程日记】指针，我要对你说，我命由我不由你
- ## [基于unity3d+vs2017的hololens2 emulator 初级使用教程](https://blog.csdn.net/liangjiubujiu/article/details/98883975)
- > 基于unity3d+vs2017的hololens2 emulator 初级使用教程
- ## [最长公共子序列(LCS)       最长公共子串](https://blog.csdn.net/weixin_41514525/article/details/98883660)
- > 最长公共子序列(LCS)       最长公共子串
- ## [QQ登录界面案例布局](https://blog.csdn.net/weixin_42206243/article/details/98884161)
- > QQ登录界面案例布局
- ## [往死里学](https://blog.csdn.net/weixin_42195284/article/details/98884098)
- > 往死里学
- ## [如何学好高中英语](https://blog.csdn.net/fu_zhongyuan/article/details/98877491)
- > 如何学好高中英语
+ ## [P1182 数列分段 Section II（二分）题解](https://blog.csdn.net/weixin_44668898/article/details/98887433)
+ > P1182 数列分段 Section II（二分）题解
+ ## [程序人生 | (3) 人工智能、语音和自然语言处理领域顶会时间表](https://blog.csdn.net/sdu_hao/article/details/98884808)
+ > 程序人生 | (3) 人工智能、语音和自然语言处理领域顶会时间表
+ ## [RecyclerView](https://blog.csdn.net/Aquarius_Star/article/details/98885871)
+ > RecyclerView
+ ## [Mybatis（十一）——缓存](https://blog.csdn.net/GoSantiago/article/details/98883481)
+ > Mybatis（十一）——缓存
+ ## [vm.$set的使用](https://blog.csdn.net/xiaocuizao/article/details/98885666)
+ > vm.$set的使用
+ ## [顺时针打印矩阵--Java代码](https://blog.csdn.net/qq_30519765/article/details/98885734)
+ > 顺时针打印矩阵--Java代码
+ ## [学生管理系统(JDBC)](https://blog.csdn.net/qq_44842754/article/details/98885554)
+ > 学生管理系统(JDBC)
+ ## [RabbitMQ基本介绍及与Spring整合](https://blog.csdn.net/Tulipyx/article/details/98885685)
+ > RabbitMQ基本介绍及与Spring整合
+ ## [PCM接口介绍](https://blog.csdn.net/LUOHUATINGYUSHENG/article/details/98880203)
+ > PCM接口介绍
+ ## [Android OpenGL ES （三）基本框架](https://blog.csdn.net/suyimin2010/article/details/98885155)
+ > Android OpenGL ES （三）基本框架
+ ## [1025 反转链表 (25 分)](https://blog.csdn.net/qq_41661809/article/details/98885151)
+ > 1025 反转链表 (25 分)
+ ## [HTTP重要的3个版本（熟悉又陌生的好朋友）](https://blog.csdn.net/weixin_44689281/article/details/98877415)
+ > HTTP重要的3个版本（熟悉又陌生的好朋友）
+ ## [Python第二天](https://blog.csdn.net/qq_43085845/article/details/98884928)
+ > Python第二天
+ ## [数组类型](https://blog.csdn.net/qq_38200548/article/details/98884189)
+ > 数组类型
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [华为开发者大会首日，只有鸿蒙一个亮点？](https://blog.csdn.net/csdnnews/article/details/98993016)
@@ -116,37 +120,39 @@ categories: IT NEWS
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 中美技术战之下，无数国人在无数个日夜中无不为中华崛起而奋斗，就在今天，我家成果终于初长成！日前，正在于东莞松山湖总部举办的华为开发者大会上，华为消费者业务 CEO 余承东正式宣布了极具「开天辟地」般意义的鸿蒙 OS 的到来。鸿蒙 OS 共有四大技术特性与 Google Fuchsia ...
 # 人工智能 
- ## [UVA-1363 约瑟夫的数论问题](https://blog.csdn.net/qq619337301/article/details/97124411)
- > UVA-1363 约瑟夫的数论问题
- ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
- > 【Docker】Docker网络
- ## [华为云·寻找黑马程序员海量数据的分页怎么破？](https://blog.csdn.net/devcloud/article/details/96869376)
- > 华为云·寻找黑马程序员海量数据的分页怎么破？
- ## [数据库系统概论 1.绪论](https://blog.csdn.net/weixin_43812140/article/details/97027575)
- > 数据库系统概论 1.绪论
- ## [【Docker】Docker-compose容器编排的使用](https://blog.csdn.net/qq_41614928/article/details/96428033)
- > 【Docker】Docker-compose容器编排的使用
- ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
- > C++基础1：类与对象基础
- ## [Rancher安装、部署、使用](https://blog.csdn.net/qq_41614928/article/details/96431346)
- > Rancher安装、部署、使用
- ## [数据库：数据库练习](https://blog.csdn.net/Dreaming5498/article/details/96450326)
- > 数据库：数据库练习
- ## [关系型数据库-MySQL进阶（四）MHA数据库高可用集群搭建](https://blog.csdn.net/weixin_44985068/article/details/97099845)
- > 关系型数据库-MySQL进阶（四）MHA数据库高可用集群搭建
- ## [关系型数据库RDBMS -MySQL基础入门（三）数据分片](https://blog.csdn.net/weixin_44985068/article/details/97035149)
- > 关系型数据库RDBMS -MySQL基础入门（三）数据分片
- ## [从零开始的java学习Day01----------基础篇（JVM、JRE、JDK、数据类型，运算符、标识符规范、默认强制转换、常量、变量）](https://blog.csdn.net/kissyy124/article/details/96100900)
- > 从零开始的java学习Day01----------基础篇（JVM、JRE、JDK、数据类型，运算符、标识符规范、默认强制转换、常量、变量）
- ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
- > JAVA基础的基础1.0
- ## [关系型数据库－MySQL进阶（三）数据分片](https://blog.csdn.net/weixin_44985068/article/details/97099691)
- > 关系型数据库－MySQL进阶（三）数据分片
- ## [基于Rancher构建持续集成](https://blog.csdn.net/qq_41614928/article/details/96432117)
- > 基于Rancher构建持续集成
- ## [基于二级C语言的一些经典小程序](https://blog.csdn.net/qq_43595030/article/details/95653746)
- > 基于二级C语言的一些经典小程序
+ ## [Druid架构讲解](https://blog.csdn.net/liaynling/article/details/96473842)
+ > Druid架构讲解
+ ## [数据库优化几种常见方式](https://blog.csdn.net/xfj_csdn/article/details/96753067)
+ > 数据库优化几种常见方式
+ ## [Encoder-Decoder架构与注意力机制](https://blog.csdn.net/qq_18310041/article/details/95623776)
+ > Encoder-Decoder架构与注意力机制
+ ## [2.SOA架构和微服务架构的区别](https://blog.csdn.net/lzb348110175/article/details/96738781)
+ > 2.SOA架构和微服务架构的区别
+ ## [北大研三，为何会这般焦虑？是读博还是就业？](https://blog.csdn.net/u012365828/article/details/95613663)
+ > 北大研三，为何会这般焦虑？是读博还是就业？
+ ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
+ > 数据库实验——数据库数据更新及查询
+ ## [两场雨的程序人生](https://blog.csdn.net/Mr_carry/article/details/95533590)
+ > 两场雨的程序人生
+ ## [医药进销存管理系统](https://blog.csdn.net/weixin_42687038/article/details/97136808)
+ > 医药进销存管理系统
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
+ > 关系型数据库-MySQL进阶（二）读写分离与多实例
+ ## [HBase数仓架构](https://blog.csdn.net/qq_31405633/article/details/96966665)
+ > HBase数仓架构
+ ## [架构杂谈《三》](https://blog.csdn.net/a1022560838/article/details/96269973)
+ > 架构杂谈《三》
+ ## [关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复](https://blog.csdn.net/weixin_44985068/article/details/97035639)
+ > 关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复
+ ## [启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境](https://blog.csdn.net/Alexshi5/article/details/90760016)
+ > 启航 —— 记 —— 第二次自考的反思：自考与自我改造的困境
+ ## [Druid架构以及数据存储](https://blog.csdn.net/huaishu/article/details/96987055)
+ > Druid架构以及数据存储
 # PM 
+ ## [线上课程 | 写文案思路？写出没价值？一招解决不同岗位的文案难题](http://www.woshipm.com/active/2649587.html)
+ > 越来越多岗位，日常工作中需要写文案。比如运营，产品，电商，策划，设计，市场，房地产，医疗推广都需要写：销售长文案、写push文案、做宣传banner图、海报文案，朋友...
  ## [方法论运用：MVP模型数据导出功能](http://www.woshipm.com/pd/2694901.html)
  > 精益创业术语“最小可用产品”或MVP，这个词汇我们常常听到。笔者基于工作实践，结合设计案例，推导了MVP模型的数据导出功能。客户：你这个功能满足不了我们的需求啊，...
  ## [\[译文\]优秀的产品经理，糟糕的产品经理](http://www.chanpin100.com/article/109208)
