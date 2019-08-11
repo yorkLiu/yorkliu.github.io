@@ -1,19 +1,19 @@
 ---
 title: 2019-08-11 IT News
 copyright: true
-date: 2019-08-11 08:00:58
+date: 2019-08-11 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565481604&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwbCkGm5-iA9TAH0KJmnN0TSzp3QHWJnRdMoMFx4ENlFeHMUKyDYL3yGRy7x0RcyyvejWb90f9zFl-OO7DdxDtRw&new=1)
+ ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwbCkGm5-iA9TAH0KJmnN0TSAczNRB4G4yPO7RPFx2XQnyK1wt9AuPIvSWWx58B4F-uj0Oqb6obfGtXEALvURwLT&new=1)
  > 看点：EMUI10的重大升级也是华为全场景智慧体验建设中迈出的重要一步。智东西8月10日报道，在正在举行的华为开发者大会上，华为EMUI10正式亮相。华为消费者业务软件部总裁王成录在演讲中说到，EMUI10将成为华为...
- ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565481604&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDEzeNKKfVYHwvBRdH-yJUcBD8Q7xjb54zoGJB8VRGnuM8mVczmAQ3bg-9L9Jj1xnknZguAHGzS59lKe42ekgoab&new=1)
- > Esther｜ 编辑随着AR头显在工业、军事、设计、建筑、医疗等越来越多的B端领域得到应用，这项技术开始展露出其独特的优势，比如：可提高培训效率、支持反复使用、提高生产力、投资回报率足够高等等。不过考虑到目...
- ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565481604&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvpKfAdD4ghHIaQA*BVAyDg4JyrqJZUxWHJWxBap1DCV3e53ePQtXIIH7k9z05bcexMkGQjispWjt1YfVa2y0*6&new=1)
- > “一贯被外界视为“硬核”的华为，走到了一个“软硬结合”的关键节点。”文丨壹观察 宿艺 2019年夏天，华为举行了有史以来最大规模的一次全球开发者大会（HDC 2019）。 这个时间节点非常有趣。5G、AI与SIoT三大...
- ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565481604&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxoyTvqolpF7UcMeLGLjGZK6H1cUG*bsVUDZKeA7P300gOdNIvg8nrXwUXFN7nDMZf6kTy6dwU3m7NwQhIvH5HXs&new=1)
+ ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxoyTvqolpF7UcMeLGLjGZK6uGLd7gMOeTTbYyRLNnqGBTR84dtDb*-CgzcuF4aEZoj7tnrlwyEMcdGwnlLZHY26&new=1)
  > 导语下面这一张图告诉你，作为一个合格机械工程师有多难了！请注意是“合格”的机械工程师。 文/ 金属加工、e-works机械工程师知识体系图概览，看完我已昏死过去！或许你在工作中没有确切的提到图中的某一项工作...
+ ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDEzeNKKfVYHwvBRdH-yJUcB4L36hZA7vRD1cV-KvylRCyOFQShKgAKnZB1iP4fEityGR70JiQ1g2U3e0aCtLuD5&new=1)
+ > Esther｜ 编辑随着AR头显在工业、军事、设计、建筑、医疗等越来越多的B端领域得到应用，这项技术开始展露出其独特的优势，比如：可提高培训效率、支持反复使用、提高生产力、投资回报率足够高等等。不过考虑到目...
+ ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvpKfAdD4ghHIaQA*BVAyDgzjUG8qiDtRL-B7LLgt7g9aAi11hk5HiJkfdmRVs9AGQJ2f9m*IOaB0jpV2LBgFEb&new=1)
+ > “一贯被外界视为“硬核”的华为，走到了一个“软硬结合”的关键节点。”文丨壹观察 宿艺 2019年夏天，华为举行了有史以来最大规模的一次全球开发者大会（HDC 2019）。 这个时间节点非常有趣。5G、AI与SIoT三大...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,66 +73,66 @@ categories: IT NEWS
  > 你公司所拥有的数据，真正被使用的有多少？
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [Java去除json数据中的null空值问题](https://blog.csdn.net/weixin_43192102/article/details/98027287)
- > Java去除json数据中的null空值问题
- ## [人生中第一次面试-----字节跳动面试经验总结](https://blog.csdn.net/Miranda_ymz/article/details/98046335)
- > 人生中第一次面试-----字节跳动面试经验总结
- ## [Maven学习总结(一)——Maven入门](https://blog.csdn.net/weixin_34318326/article/details/92661394)
- > Maven学习总结(一)——Maven入门
- ## [币圈乱象之“朋友，打个call呗”](https://blog.csdn.net/weixin_44383880/article/details/99021922)
- > 币圈乱象之“朋友，打个call呗”
- ## [C语言不用for和while实现从1加到100](https://blog.csdn.net/weixin_45007581/article/details/98989702)
- > C语言不用for和while实现从1加到100
- ## [tensorflow卷积神经网络-池化层](https://blog.csdn.net/qq_19841133/article/details/98992249)
- > tensorflow卷积神经网络-池化层
- ## [防止数组越界](https://blog.csdn.net/weixin_40736501/article/details/98993020)
- > 防止数组越界
- ## [IDEA创建Maven项目](https://blog.csdn.net/weixin_43796428/article/details/98989302)
- > IDEA创建Maven项目
- ## [用两个栈队列](https://blog.csdn.net/qq_32895961/article/details/98991996)
- > 用两个栈队列
- ## [输出流对象对文件如何不覆盖写入？](https://blog.csdn.net/qq_42051526/article/details/98991819)
- > 输出流对象对文件如何不覆盖写入？
- ## [继承 访问权限修饰符 final 重写 super](https://blog.csdn.net/red_eared_slider/article/details/98987751)
- > 继承 访问权限修饰符 final 重写 super
- ## [如何在Ubuntu中安装软件](https://blog.csdn.net/qq1438438/article/details/98989072)
- > 如何在Ubuntu中安装软件
- ## [ELK+Kafka分布式日志收集系统环境搭建](https://blog.csdn.net/qq_34626859/article/details/98985701)
- > ELK+Kafka分布式日志收集系统环境搭建
- ## [Vue 2.x  子组件和父组件传递数据](https://blog.csdn.net/weixin_44846723/article/details/98975004)
- > Vue 2.x  子组件和父组件传递数据
+ ## [设置linux系统时间及硬件时间(centos7)](https://blog.csdn.net/weixin_44251888/article/details/98995814)
+ > 设置linux系统时间及硬件时间(centos7)
+ ## [堆被破坏](https://blog.csdn.net/weixin_42259823/article/details/98995991)
+ > 堆被破坏
+ ## [JVM学习思路](https://blog.csdn.net/weixin_42964580/article/details/98993306)
+ > JVM学习思路
+ ## [Java面试宝典书籍-JavaWEB基础](https://blog.csdn.net/qq_28400629/article/details/98961308)
+ > Java面试宝典书籍-JavaWEB基础
+ ## [深入浅出浮点数](https://blog.csdn.net/njsrlb/article/details/98992810)
+ > 深入浅出浮点数
+ ## [操作系统（1） -- 计算机系统概述](https://blog.csdn.net/hhuzxx/article/details/98990452)
+ > 操作系统（1） -- 计算机系统概述
+ ## [skipper入门](https://blog.csdn.net/hujun_123456/article/details/98961399)
+ > skipper入门
+ ## [使用宝塔Linux面板过程中碰到的问题记录——tomcat二次安装失败](https://blog.csdn.net/weixin_42907817/article/details/98989051)
+ > 使用宝塔Linux面板过程中碰到的问题记录——tomcat二次安装失败
+ ## [Spring之AOP初体验](https://blog.csdn.net/weixin_43732955/article/details/98986280)
+ > Spring之AOP初体验
+ ## [1068：与指定数字相同的数的个数（C语言实现供参考学习）](https://blog.csdn.net/qq_45450084/article/details/98989571)
+ > 1068：与指定数字相同的数的个数（C语言实现供参考学习）
+ ## [Altium designer PCB和原理图封装下载](https://blog.csdn.net/weixin_45509879/article/details/98983418)
+ > Altium designer PCB和原理图封装下载
+ ## [jzoj棋盘【找规律】](https://blog.csdn.net/qq_43010386/article/details/98988523)
+ > jzoj棋盘【找规律】
+ ## [SQL语句能这样写？——拆分SQL语句](https://blog.csdn.net/qq_41026669/article/details/98986736)
+ > SQL语句能这样写？——拆分SQL语句
+ ## [LeetCode之棒球比赛](https://blog.csdn.net/weixin_44268116/article/details/98985019)
+ > LeetCode之棒球比赛
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [前端与移动开发入门基础html完结版](https://blog.csdn.net/Denisedan/article/details/95673683)
- > 前端与移动开发入门基础html完结版
- ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
- > 区块链的知识
- ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
- > 前端开发都应该知道的配置中心
- ## [Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】](https://blog.csdn.net/qq_30993595/article/details/96879077)
- > Android App如何借助OKHttp使用WebSocket实现与服务器实时双向通信【十二】
- ## [Android面经（知乎网易蘑菇街阿里）](https://blog.csdn.net/weixin_45258969/article/details/96890613)
- > Android面经（知乎网易蘑菇街阿里）
+ ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
+ > 区块链技术原理是怎样的？
+ ## [数据库实验——数据库的完整性约束](https://blog.csdn.net/qq_43776450/article/details/95633712)
+ > 数据库实验——数据库的完整性约束
+ ## [2019年前端面经](https://blog.csdn.net/fifteen718/article/details/95639841)
+ > 2019年前端面经
  ## [想了解Robot Global的看这里！](https://blog.csdn.net/weixin_45447706/article/details/97131647)
  > 想了解Robot Global的看这里！
- ## [罗永浩：大多数人并不理解区块链，因此和朋友吃饭不能聊区块链？ | 白话区块链入门169...](https://blog.csdn.net/mrRqAEr7ci9s2v0/article/details/96931376)
- > 罗永浩：大多数人并不理解区块链，因此和朋友吃饭不能聊区块链？ | 白话区块链入门169...
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
- ## [Android性能调优：几种常用界面切换效果](https://blog.csdn.net/weixin_45136073/article/details/97158166)
- > Android性能调优：几种常用界面切换效果
- ## [Android：Java类加载过程面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/97172222)
- > Android：Java类加载过程面试题集锦
- ## [Android自定义View如此简单 实现点击动画+进度刷新的提交/下载按钮(填坑面试题)](https://blog.csdn.net/qq_30993595/article/details/94383113)
- > Android自定义View如此简单 实现点击动画+进度刷新的提交/下载按钮(填坑面试题)
- ## [史上最全的Android第三方库解析面试知识点集锦](https://blog.csdn.net/weixin_45258969/article/details/96481110)
- > 史上最全的Android第三方库解析面试知识点集锦
- ## [预言机，区块链的最后一公里？ | 白话区块链入门166](https://blog.csdn.net/mrRqAEr7ci9s2v0/article/details/96228410)
- > 预言机，区块链的最后一公里？ | 白话区块链入门166
- ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
- > 干货分享：Totoro 在自动化测试领域的深耕与收获
- ## [史上最全的Android屏幕适配面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96633833)
- > 史上最全的Android屏幕适配面试题集锦
+ ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/coding147/article/details/96967786)
+ > 一名合格前端工程师的进阶指南！
+ ## [前端之JavaScript基础1](https://blog.csdn.net/weixin_41282726/article/details/96429553)
+ > 前端之JavaScript基础1
+ ## [前端-jQuery基础入门（上）](https://blog.csdn.net/weixin_45156610/article/details/95021340)
+ > 前端-jQuery基础入门（上）
+ ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
+ > 学习编程基础知识，进阶成为更优秀的程序员
+ ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
+ > 关系型数据库-MySQL进阶（二）读写分离与多实例
+ ## [【学习笔记】区块链数据结构——UTXO](https://blog.csdn.net/qq_38427979/article/details/97070513)
+ > 【学习笔记】区块链数据结构——UTXO
+ ## [数据库：数据库练习](https://blog.csdn.net/Dreaming5498/article/details/96450326)
+ > 数据库：数据库练习
+ ## [商城前端从零开始制作](https://blog.csdn.net/zz18256889177/article/details/96121535)
+ > 商城前端从零开始制作
+ ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
+ > 草莓协会前端页面
+ ## [前端之CSS基础知识](https://blog.csdn.net/weixin_41282726/article/details/96104615)
+ > 前端之CSS基础知识
+ ## [数据库系统概论 1.绪论](https://blog.csdn.net/weixin_43812140/article/details/97027575)
+ > 数据库系统概论 1.绪论
 
     
