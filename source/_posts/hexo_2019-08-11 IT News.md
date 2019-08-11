@@ -1,18 +1,18 @@
 ---
 title: 2019-08-11 IT News
 copyright: true
-date: 2019-08-11 12:01:04
+date: 2019-08-11 17:01:34
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwa8KlqW0qaUQhWCobgLaU*dTEHUQZk*Gp69iyIvtQImkN9Yqg6ef5hzHa3Bmtgih5MQpZQp2RY7JIBKMJPIVMAI&new=1)
+ ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565514004&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwYipEPdDQduPnWjiZb6eXKh6m-sCfRmHSq3S69R6jjuGx5Iw4gOYtsc0FnEqd8WBISIl22wdRNa3PMNExC*o5xo&new=1)
  > 看点：EMUI10的重大升级也是华为全场景智慧体验建设中迈出的重要一步。智东西8月10日报道，在正在举行的华为开发者大会上，华为EMUI10正式亮相。华为消费者业务软件部总裁王成录在演讲中说到，EMUI10将成为华为...
- ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDF0QmMMoUvW8OLObq2PxPR4vms3sVMBKMoAe2uh5vS9A5b8L7ayXWLUTdQBtC10KL8fJCD*JCSl8h5BclQwM0LF&new=1)
+ ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565514004&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDEb1TFIhtqebbEwpkcum-SZfiFOh9q0xnVlJwrARkpe2OSfdu-sqUVbwO*QKCgTlOYFYoqzKGYcqesJ1fFajP8d&new=1)
  > Esther｜ 编辑随着AR头显在工业、军事、设计、建筑、医疗等越来越多的B端领域得到应用，这项技术开始展露出其独特的优势，比如：可提高培训效率、支持反复使用、提高生产力、投资回报率足够高等等。不过考虑到目...
- ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvYt17E06xUMysB-XEJNVg3tDWBdem*NXR6pbOTs3lKj7Z4DZE0SHYfuLCrlqBidwJL6t2skVEKEfEnmFD*IYIi&new=1)
+ ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565514004&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLuf4Koyu0qdMJjQ6g6Cu53DoBVg0q-7rBJxUdbN9De9fnKoua2A*0x5JFw7ghFz4xNcd-ap8cEzagJWgZIP3KnU&new=1)
  > “一贯被外界视为“硬核”的华为，走到了一个“软硬结合”的关键节点。”文丨壹观察 宿艺 2019年夏天，华为举行了有史以来最大规模的一次全球开发者大会（HDC 2019）。 这个时间节点非常有趣。5G、AI与SIoT三大...
- ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxpLbPm6rV18LTGVYuJgBlFGGfb6-jOjpYN-i53JPX8GcD2pzMM3*r2Xy19X0j3T5x9RXJvjvqGyEPExdotDujPE&new=1)
+ ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565514004&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxpOehu4YwEd9UoiE2bSDBL41pm07-9q3lmt-wkxtnABH2Il6DfXL9xKJYUfHa99epRvZBXzZhYWM93Pzasc0T2B&new=1)
  > 导语下面这一张图告诉你，作为一个合格机械工程师有多难了！请注意是“合格”的机械工程师。 文/ 金属加工、e-works机械工程师知识体系图概览，看完我已昏死过去！或许你在工作中没有确切的提到图中的某一项工作...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,69 +73,69 @@ categories: IT NEWS
  > 你公司所拥有的数据，真正被使用的有多少？
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [XML基本介绍](https://blog.csdn.net/mapbar_front/article/details/98854420)
- > XML基本介绍
- ## [ElasticSearch（提高篇）](https://blog.csdn.net/qq_27922023/article/details/99011767)
- > ElasticSearch（提高篇）
- ## [终于稀里糊涂完成了模仿天猫整站ssm](https://blog.csdn.net/XY1790026787/article/details/98995372)
- > 终于稀里糊涂完成了模仿天猫整站ssm
- ## [新一期ARM作业(三)----内存控制器和SDRAM](https://blog.csdn.net/add991004/article/details/98993808)
- > 新一期ARM作业(三)----内存控制器和SDRAM
- ## [Help Hanzo LightOJ - 1197【素数筛，求区间素数个数】](https://blog.csdn.net/DU1149507047/article/details/98972133)
- > Help Hanzo LightOJ - 1197【素数筛，求区间素数个数】
- ## [深度学习PyTorch（三）循环神经网络](https://blog.csdn.net/sinat_32512123/article/details/98766661)
- > 深度学习PyTorch（三）循环神经网络
- ## [基本动态规划题学习笔记与解析——7（最长上升子序列问题）](https://blog.csdn.net/DragonBingling/article/details/98989694)
- > 基本动态规划题学习笔记与解析——7（最长上升子序列问题）
- ## [python之lintcode刷题： Unique Characters](https://blog.csdn.net/weixin_43715758/article/details/98992988)
- > python之lintcode刷题： Unique Characters
- ## [Android进阶 -- EventBus源码解析（三）](https://blog.csdn.net/sinat_33150417/article/details/98765492)
- > Android进阶 -- EventBus源码解析（三）
+ ## [CentOS部署OpenStack-Stein全过程](https://blog.csdn.net/weixin_33809981/article/details/93181180)
+ > CentOS部署OpenStack-Stein全过程
+ ## [微信重磅更新，这次电脑也能用小程序了，意义深远！](https://blog.csdn.net/weixin_44523694/article/details/99025561)
+ > 微信重磅更新，这次电脑也能用小程序了，意义深远！
+ ## [二叉树常见题目](https://blog.csdn.net/YimiH2/article/details/98993569)
+ > 二叉树常见题目
+ ## [python之lintcode刷题：  Reverse Words in a String](https://blog.csdn.net/weixin_43715758/article/details/98994397)
+ > python之lintcode刷题：  Reverse Words in a String
+ ## [Python多关键字排序()](https://blog.csdn.net/qq_28120673/article/details/98993207)
+ > Python多关键字排序()
  ## [Python学习笔记（二）——控制语句](https://blog.csdn.net/weixin_42182599/article/details/98987965)
  > Python学习笔记（二）——控制语句
- ## [LeetCode 5 买卖股票的最佳时机 II](https://blog.csdn.net/weixin_40466879/article/details/98974122)
- > LeetCode 5 买卖股票的最佳时机 II
- ## [2019牛客暑期多校训练营（第七场)  J  A+B problem](https://blog.csdn.net/qq_41835683/article/details/98990337)
- > 2019牛客暑期多校训练营（第七场)  J  A+B problem
- ## [洛谷P1308统计单词数](https://blog.csdn.net/i_like1ac/article/details/98989390)
- > 洛谷P1308统计单词数
- ## [composer install 慢](https://blog.csdn.net/qq_24935119/article/details/98989898)
- > composer install 慢
+ ## [Linux文件搜索命令详解](https://blog.csdn.net/sexyluna/article/details/98986540)
+ > Linux文件搜索命令详解
+ ## [Java&jsp网页分页](https://blog.csdn.net/qq_40366738/article/details/98989080)
+ > Java&amp;jsp网页分页
+ ## [Yii生命周期](https://blog.csdn.net/eddy23513/article/details/98965552)
+ > Yii生命周期
+ ## [【BZOJ 1044】木棍分割](https://blog.csdn.net/weixin_41863129/article/details/98986852)
+ > 【BZOJ 1044】木棍分割
+ ## [Sklearn 0.21 中文文档校对活动 | ApacheCN](https://blog.csdn.net/wizardforcel/article/details/98987516)
+ > Sklearn 0.21 中文文档校对活动 | ApacheCN
+ ## [【IT资讯】华为鸿蒙英文名揭晓，很中国](https://blog.csdn.net/dengjin20104042056/article/details/98987765)
+ > 【IT资讯】华为鸿蒙英文名揭晓，很中国
+ ## [AI开发者高薪太诱人！比学历更重要的是成为能解决问题的人](https://blog.csdn.net/S8wadw/article/details/98987871)
+ > AI开发者高薪太诱人！比学历更重要的是成为能解决问题的人
+ ## [使用Jenkins实现自动部署](https://blog.csdn.net/MyHerux/article/details/98982148)
+ > 使用Jenkins实现自动部署
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [2019 年互联网人才招聘报告：Java 吃香，算法工程师紧缺，今日头条崛起！](https://blog.csdn.net/csdnnews/article/details/99134891)
  > 作者 | 八爪盒子责编 | 屠敏技术变革，人才驱动。当前互联网的就业机会和风口在何处？在这篇文章中，我们将对 7 月份国内各个主流招聘网站发布的 384,0533 条互联...
 # 人工智能 
- ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
- > Atlassian In Action-Jira之推荐插件（四）
+ ## [Unity3D Unet(Network)如何限制玩家人数](https://blog.csdn.net/qq_34229678/article/details/96156404)
+ > Unity3D Unet(Network)如何限制玩家人数
+ ## [区块链互助盘软件](https://blog.csdn.net/qql365/article/details/96585885)
+ > 区块链互助盘软件
+ ## [罗永浩：大多数人并不理解区块链，因此和朋友吃饭不能聊区块链？ | 白话区块链入门169...](https://blog.csdn.net/mrRqAEr7ci9s2v0/article/details/96931376)
+ > 罗永浩：大多数人并不理解区块链，因此和朋友吃饭不能聊区块链？ | 白话区块链入门169...
+ ## [FFmpeg学习之 一 （音视频理论知识）](https://blog.csdn.net/kyl282889543/article/details/96490778)
+ > FFmpeg学习之 一 （音视频理论知识）
+ ## [一个主学Unity、很少接触C++、接触过蓝图的人通过模板的代码对虚幻C++的简单探索——02.完善角色类](https://blog.csdn.net/ultramansail/article/details/97094440)
+ > 一个主学Unity、很少接触C++、接触过蓝图的人通过模板的代码对虚幻C++的简单探索——02.完善角色类
+ ## [常运用于游戏引擎的FreeList实现](https://blog.csdn.net/weixin_44312858/article/details/96787788)
+ > 常运用于游戏引擎的FreeList实现
+ ## [\[gdc19\]《战神4》中的全局光照技术](https://blog.csdn.net/ccanan/article/details/96632132)
+ > \[gdc19\]《战神4》中的全局光照技术
+ ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
+ > 音视频开发基础学习-----视频与音频原始格式
+ ## [在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点](https://blog.csdn.net/weixin_43830887/article/details/96835533)
+ > 在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点
+ ## [Unity3D  (新)SteamVR 2.0手柄输入与震动](https://blog.csdn.net/qq_34229678/article/details/96970866)
+ > Unity3D  (新)SteamVR 2.0手柄输入与震动
+ ## [Java音视频播放器](https://blog.csdn.net/qq_41918833/article/details/95598190)
+ > Java音视频播放器
+ ## [区块链与比特币有什么关系？](https://blog.csdn.net/Kryskalqiqi0321/article/details/96836060)
+ > 区块链与比特币有什么关系？
+ ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
+ > 区块链技术原理是怎样的？
+ ## [学习 Unity 3D游戏开发日常笔记（C 第三周）](https://blog.csdn.net/weixin_43814599/article/details/97173365)
+ > 学习 Unity 3D游戏开发日常笔记（C 第三周）
  ## [阿里巴巴-游戏开发面经](https://blog.csdn.net/weixin_39139505/article/details/96625548)
  > 阿里巴巴-游戏开发面经
- ## [MyBatis映射文件的基本功能](https://blog.csdn.net/weixin_42510923/article/details/95663222)
- > MyBatis映射文件的基本功能
- ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
- > Python 超级玛丽代码实现(1):界面和状态机实现
- ## [\[干货\]“真传奇”遍地走，游戏开发者们该如何破局？](https://blog.csdn.net/weixin_39872180/article/details/96478141)
- > \[干货\]“真传奇”遍地走，游戏开发者们该如何破局？
- ## [3D 小游戏《飞跃地平线 Plus》开发分享](https://blog.csdn.net/weixin_44053279/article/details/96878621)
- > 3D 小游戏《飞跃地平线 Plus》开发分享
- ## [C语言电池助手（代码实例）](https://blog.csdn.net/weixin_43812804/article/details/96865520)
- > C语言电池助手（代码实例）
- ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
- > C++基础1：类与对象基础
- ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
- > 网络爬虫HTTP原理、网页请求、网页基础
- ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
- > 携程敏捷总动员
- ## [小白学C语言 数组篇](https://blog.csdn.net/Ningmenmao/article/details/96779887)
- > 小白学C语言 数组篇
- ## [java基础(部分),复习用](https://blog.csdn.net/qq_44061725/article/details/96858218)
- > java基础(部分),复习用
- ## [python赋值及拆包](https://blog.csdn.net/weixin_43979988/article/details/95868213)
- > python赋值及拆包
- ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
- > JAVA基础的基础1.0
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
 # PM 
  ## [杜蕾斯，文案变了](http://www.woshipm.com/copy/2696496.html)
  > 作为social传播的扛把子，杜蕾斯的文案一经推出，就会迅速捕捉大众的眼球与网络热议。而在前些日子的“翻车”事故后，我们从新文案上看到了杜蕾斯的改变。之前的杜蕾斯...
