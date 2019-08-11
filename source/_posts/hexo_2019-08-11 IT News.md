@@ -1,19 +1,19 @@
 ---
 title: 2019-08-11 IT News
 copyright: true
-date: 2019-08-11 09:00:59
+date: 2019-08-11 10:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwbCkGm5-iA9TAH0KJmnN0TSAczNRB4G4yPO7RPFx2XQnyK1wt9AuPIvSWWx58B4F-uj0Oqb6obfGtXEALvURwLT&new=1)
+ ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwbCkGm5-iA9TAH0KJmnN0TSSckhWgHqKbWkM30ShnxG1diA8Nh1GRdhL*nKRNfAxHtGFxg5Z*4tQAMpy12XZxHA&new=1)
  > 看点：EMUI10的重大升级也是华为全场景智慧体验建设中迈出的重要一步。智东西8月10日报道，在正在举行的华为开发者大会上，华为EMUI10正式亮相。华为消费者业务软件部总裁王成录在演讲中说到，EMUI10将成为华为...
- ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxoyTvqolpF7UcMeLGLjGZK6uGLd7gMOeTTbYyRLNnqGBTR84dtDb*-CgzcuF4aEZoj7tnrlwyEMcdGwnlLZHY26&new=1)
- > 导语下面这一张图告诉你，作为一个合格机械工程师有多难了！请注意是“合格”的机械工程师。 文/ 金属加工、e-works机械工程师知识体系图概览，看完我已昏死过去！或许你在工作中没有确切的提到图中的某一项工作...
- ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDEzeNKKfVYHwvBRdH-yJUcB4L36hZA7vRD1cV-KvylRCyOFQShKgAKnZB1iP4fEityGR70JiQ1g2U3e0aCtLuD5&new=1)
+ ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDEzeNKKfVYHwvBRdH-yJUcBsNXFYVob2paCVbkpo6GsNKg8eFiYqg52PnFxIMdqOH6WM67f2heYN0o71I84l-kJ&new=1)
  > Esther｜ 编辑随着AR头显在工业、军事、设计、建筑、医疗等越来越多的B端领域得到应用，这项技术开始展露出其独特的优势，比如：可提高培训效率、支持反复使用、提高生产力、投资回报率足够高等等。不过考虑到目...
- ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565485205&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvpKfAdD4ghHIaQA*BVAyDgzjUG8qiDtRL-B7LLgt7g9aAi11hk5HiJkfdmRVs9AGQJ2f9m*IOaB0jpV2LBgFEb&new=1)
+ ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvpKfAdD4ghHIaQA*BVAyDg6SobRo-rK2T*xRu3EEBfem8FkuyOcyTfUry5Ysrb3qynHxo7CHw7*K9u7Z4V47Dl&new=1)
  > “一贯被外界视为“硬核”的华为，走到了一个“软硬结合”的关键节点。”文丨壹观察 宿艺 2019年夏天，华为举行了有史以来最大规模的一次全球开发者大会（HDC 2019）。 这个时间节点非常有趣。5G、AI与SIoT三大...
+ ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxoyTvqolpF7UcMeLGLjGZK6TVCfIFK6TljBDZ1UH8f-sqwJY60uueMRYXh2xiNR5mVwh2a0rgQXv*jG103cJgZK&new=1)
+ > 导语下面这一张图告诉你，作为一个合格机械工程师有多难了！请注意是“合格”的机械工程师。 文/ 金属加工、e-works机械工程师知识体系图概览，看完我已昏死过去！或许你在工作中没有确切的提到图中的某一项工作...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,66 +73,71 @@ categories: IT NEWS
  > 你公司所拥有的数据，真正被使用的有多少？
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [设置linux系统时间及硬件时间(centos7)](https://blog.csdn.net/weixin_44251888/article/details/98995814)
- > 设置linux系统时间及硬件时间(centos7)
- ## [堆被破坏](https://blog.csdn.net/weixin_42259823/article/details/98995991)
- > 堆被破坏
- ## [JVM学习思路](https://blog.csdn.net/weixin_42964580/article/details/98993306)
- > JVM学习思路
- ## [Java面试宝典书籍-JavaWEB基础](https://blog.csdn.net/qq_28400629/article/details/98961308)
- > Java面试宝典书籍-JavaWEB基础
- ## [深入浅出浮点数](https://blog.csdn.net/njsrlb/article/details/98992810)
- > 深入浅出浮点数
- ## [操作系统（1） -- 计算机系统概述](https://blog.csdn.net/hhuzxx/article/details/98990452)
- > 操作系统（1） -- 计算机系统概述
- ## [skipper入门](https://blog.csdn.net/hujun_123456/article/details/98961399)
- > skipper入门
- ## [使用宝塔Linux面板过程中碰到的问题记录——tomcat二次安装失败](https://blog.csdn.net/weixin_42907817/article/details/98989051)
- > 使用宝塔Linux面板过程中碰到的问题记录——tomcat二次安装失败
- ## [Spring之AOP初体验](https://blog.csdn.net/weixin_43732955/article/details/98986280)
- > Spring之AOP初体验
- ## [1068：与指定数字相同的数的个数（C语言实现供参考学习）](https://blog.csdn.net/qq_45450084/article/details/98989571)
- > 1068：与指定数字相同的数的个数（C语言实现供参考学习）
- ## [Altium designer PCB和原理图封装下载](https://blog.csdn.net/weixin_45509879/article/details/98983418)
- > Altium designer PCB和原理图封装下载
- ## [jzoj棋盘【找规律】](https://blog.csdn.net/qq_43010386/article/details/98988523)
- > jzoj棋盘【找规律】
- ## [SQL语句能这样写？——拆分SQL语句](https://blog.csdn.net/qq_41026669/article/details/98986736)
- > SQL语句能这样写？——拆分SQL语句
- ## [LeetCode之棒球比赛](https://blog.csdn.net/weixin_44268116/article/details/98985019)
- > LeetCode之棒球比赛
+ ## [Python爬虫实战Pro | (4) 用Flask+Redis维护代理池](https://blog.csdn.net/sdu_hao/article/details/97886587)
+ > Python爬虫实战Pro | (4) 用Flask+Redis维护代理池
+ ## [雷军22年前曾经写过的代码 你是否也曾想过是会有这样的人生](https://blog.csdn.net/PyhtonChen/article/details/95070685)
+ > 雷军22年前曾经写过的代码 你是否也曾想过是会有这样的人生
+ ## [Web应用程序学习——《Python编程：从人门到实践》](https://blog.csdn.net/D5__J9/article/details/88712403)
+ > Web应用程序学习——《Python编程：从人门到实践》
+ ## [keras 版本PSEnet训练过程记录](https://blog.csdn.net/u011489887/article/details/98985285)
+ > keras 版本PSEnet训练过程记录
+ ## [poj2299树状数组入门](https://blog.csdn.net/qq_43813140/article/details/98983662)
+ > poj2299树状数组入门
+ ## [java中文乱码问题解决方法](https://blog.csdn.net/qq_40393594/article/details/98983411)
+ > java中文乱码问题解决方法
+ ## [linux 查看日志](https://blog.csdn.net/weixin_37998428/article/details/98982337)
+ > linux 查看日志
+ ## [在ArrayList中根据自定义类的一个属性找某个对象](https://blog.csdn.net/qq_41083450/article/details/98974384)
+ > 在ArrayList中根据自定义类的一个属性找某个对象
+ ## [JAVA容器特点](https://blog.csdn.net/qq_38774221/article/details/98974417)
+ > JAVA容器特点
+ ## [Vue服务端渲染和客户端渲染](https://blog.csdn.net/u012757419/article/details/98974494)
+ > Vue服务端渲染和客户端渲染
+ ## [unity navigation 使用教程](https://blog.csdn.net/lengyoumo/article/details/98966365)
+ > unity navigation 使用教程
+ ## [linux中的2>&1是什么](https://blog.csdn.net/kang19970201/article/details/98968271)
+ > linux中的2&gt;&amp;1是什么
+ ## [文档识别sdk12-OCR识别介绍](https://blog.csdn.net/weixin_45273925/article/details/98972491)
+ > 文档识别sdk12-OCR识别介绍
+ ## [SpringCloud微服务——基于security+oauth2的安全保护（一）：实现方式](https://blog.csdn.net/fyk844645164/article/details/98960980)
+ > SpringCloud微服务——基于security+oauth2的安全保护（一）：实现方式
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
 # 人工智能 
- ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
- > 区块链技术原理是怎样的？
- ## [数据库实验——数据库的完整性约束](https://blog.csdn.net/qq_43776450/article/details/95633712)
- > 数据库实验——数据库的完整性约束
- ## [2019年前端面经](https://blog.csdn.net/fifteen718/article/details/95639841)
- > 2019年前端面经
- ## [想了解Robot Global的看这里！](https://blog.csdn.net/weixin_45447706/article/details/97131647)
- > 想了解Robot Global的看这里！
- ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/coding147/article/details/96967786)
- > 一名合格前端工程师的进阶指南！
- ## [前端之JavaScript基础1](https://blog.csdn.net/weixin_41282726/article/details/96429553)
- > 前端之JavaScript基础1
- ## [前端-jQuery基础入门（上）](https://blog.csdn.net/weixin_45156610/article/details/95021340)
- > 前端-jQuery基础入门（上）
- ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
- > 学习编程基础知识，进阶成为更优秀的程序员
- ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
- > 关系型数据库-MySQL进阶（二）读写分离与多实例
- ## [【学习笔记】区块链数据结构——UTXO](https://blog.csdn.net/qq_38427979/article/details/97070513)
- > 【学习笔记】区块链数据结构——UTXO
- ## [数据库：数据库练习](https://blog.csdn.net/Dreaming5498/article/details/96450326)
- > 数据库：数据库练习
- ## [商城前端从零开始制作](https://blog.csdn.net/zz18256889177/article/details/96121535)
- > 商城前端从零开始制作
- ## [草莓协会前端页面](https://blog.csdn.net/qq_39231899/article/details/96910039)
- > 草莓协会前端页面
- ## [前端之CSS基础知识](https://blog.csdn.net/weixin_41282726/article/details/96104615)
- > 前端之CSS基础知识
- ## [数据库系统概论 1.绪论](https://blog.csdn.net/weixin_43812140/article/details/97027575)
- > 数据库系统概论 1.绪论
+ ## [常用的运维命令-思科锐捷](https://blog.csdn.net/LAO_Z/article/details/96484769)
+ > 常用的运维命令-思科锐捷
+ ## [Android性能调优：几种常用界面切换效果](https://blog.csdn.net/weixin_45136073/article/details/97158166)
+ > Android性能调优：几种常用界面切换效果
+ ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
+ > 干货分享：Totoro 在自动化测试领域的深耕与收获
+ ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
+ > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
+ ## [运维入门之shell脚本七](https://blog.csdn.net/qq_42103479/article/details/95922149)
+ > 运维入门之shell脚本七
+ ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
+ > 前端开发都应该知道的配置中心
+ ## [oracle运维积累](https://blog.csdn.net/qq_22802643/article/details/95737520)
+ > oracle运维积累
+ ## [第一章：LINUX基本命令](https://blog.csdn.net/gongbosheng/article/details/96432317)
+ > 第一章：LINUX基本命令
+ ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
+ > Linux 运维一些知识点
+ ## [史上最全的Android热点技术面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96627593)
+ > 史上最全的Android热点技术面试题集锦
+ ## [Linux运维养成记-服务器安全运维](https://blog.csdn.net/weixin_45181224/article/details/96491037)
+ > Linux运维养成记-服务器安全运维
+ ## [Oracle SQL 查询及常用单行函数](https://blog.csdn.net/weixin_42927264/article/details/96988895)
+ > Oracle SQL 查询及常用单行函数
+ ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
+ > 避免面试尴尬，你需要了解的20个架构师相关缩写
+ ## [你还不打算试试Android X吗？](https://blog.csdn.net/androidokk/article/details/96432559)
+ > 你还不打算试试Android X吗？
+ ## [【Linux】系统日志管理](https://blog.csdn.net/daisy_songyr/article/details/96426097)
+ > 【Linux】系统日志管理
+# PM 
+ ## [杜蕾斯，文案变了](http://www.woshipm.com/copy/2696496.html)
+ > 作为social传播的扛把子，杜蕾斯的文案一经推出，就会迅速捕捉大众的眼球与网络热议。而在前些日子的“翻车”事故后，我们从新文案上看到了杜蕾斯的改变。之前的杜蕾斯...
+ ## [2020年最值得关注的8大插画设计趋势](http://www.woshipm.com/pd/2696463.html)
+ > 在过去的三个礼拜，我研究了科技创新对设计产生的影响和变化，并输出《2020年设计趋势 · 交互篇》、《2020年设计趋势 · UI篇》、《2020年设计趋势 · 产品篇》三份设计趋...
 
     
