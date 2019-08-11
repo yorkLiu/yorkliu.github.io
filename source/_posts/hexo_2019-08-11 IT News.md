@@ -1,18 +1,18 @@
 ---
 title: 2019-08-11 IT News
 copyright: true
-date: 2019-08-11 10:01:06
+date: 2019-08-11 12:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwbCkGm5-iA9TAH0KJmnN0TSSckhWgHqKbWkM30ShnxG1diA8Nh1GRdhL*nKRNfAxHtGFxg5Z*4tQAMpy12XZxHA&new=1)
+ ## [解密华为EMUI10的三大创新杀手锏，已让Android脱胎换骨](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=Pp3Ep0yCcc9EqyxZE2v9zVPmh-nnszmslj8GzW*2hwa8KlqW0qaUQhWCobgLaU*dTEHUQZk*Gp69iyIvtQImkN9Yqg6ef5hzHa3Bmtgih5MQpZQp2RY7JIBKMJPIVMAI&new=1)
  > 看点：EMUI10的重大升级也是华为全场景智慧体验建设中迈出的重要一步。智东西8月10日报道，在正在举行的华为开发者大会上，华为EMUI10正式亮相。华为消费者业务软件部总裁王成录在演讲中说到，EMUI10将成为华为...
- ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDEzeNKKfVYHwvBRdH-yJUcBsNXFYVob2paCVbkpo6GsNKg8eFiYqg52PnFxIMdqOH6WM67f2heYN0o71I84l-kJ&new=1)
+ ## [ARtillery：AR杀手级应用即将来袭，2023年C端AR规模达79亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=mHbwMTqSb4JC7nyGX3KCZ3*paCgWDDAKBAqaknbxPDF0QmMMoUvW8OLObq2PxPR4vms3sVMBKMoAe2uh5vS9A5b8L7ayXWLUTdQBtC10KL8fJCD*JCSl8h5BclQwM0LF&new=1)
  > Esther｜ 编辑随着AR头显在工业、军事、设计、建筑、医疗等越来越多的B端领域得到应用，这项技术开始展露出其独特的优势，比如：可提高培训效率、支持反复使用、提高生产力、投资回报率足够高等等。不过考虑到目...
- ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvpKfAdD4ghHIaQA*BVAyDg6SobRo-rK2T*xRu3EEBfem8FkuyOcyTfUry5Ysrb3qynHxo7CHw7*K9u7Z4V47Dl&new=1)
+ ## [全面开放的HMS生态，华为终端云服务走向星辰大海](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=3M44jf6VV6ByzOdbX8rC6hG7O0YkraSptT0GhR62FLvYt17E06xUMysB-XEJNVg3tDWBdem*NXR6pbOTs3lKj7Z4DZE0SHYfuLCrlqBidwJL6t2skVEKEfEnmFD*IYIi&new=1)
  > “一贯被外界视为“硬核”的华为，走到了一个“软硬结合”的关键节点。”文丨壹观察 宿艺 2019年夏天，华为举行了有史以来最大规模的一次全球开发者大会（HDC 2019）。 这个时间节点非常有趣。5G、AI与SIoT三大...
- ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565488804&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxoyTvqolpF7UcMeLGLjGZK6TVCfIFK6TljBDZ1UH8f-sqwJY60uueMRYXh2xiNR5mVwh2a0rgQXv*jG103cJgZK&new=1)
+ ## [机械人居然要懂这么多!!](http://mp.weixin.qq.com/s?src=11&timestamp=1565496004&ver=1783&signature=e-iAlTmUDQ*xM6GbR5Fwf08jEWU6Fp1B6zuBNsYngxpLbPm6rV18LTGVYuJgBlFGGfb6-jOjpYN-i53JPX8GcD2pzMM3*r2Xy19X0j3T5x9RXJvjvqGyEPExdotDujPE&new=1)
  > 导语下面这一张图告诉你，作为一个合格机械工程师有多难了！请注意是“合格”的机械工程师。 文/ 金属加工、e-works机械工程师知识体系图概览，看完我已昏死过去！或许你在工作中没有确切的提到图中的某一项工作...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
@@ -73,67 +73,69 @@ categories: IT NEWS
  > 你公司所拥有的数据，真正被使用的有多少？
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [Python爬虫实战Pro | (4) 用Flask+Redis维护代理池](https://blog.csdn.net/sdu_hao/article/details/97886587)
- > Python爬虫实战Pro | (4) 用Flask+Redis维护代理池
- ## [雷军22年前曾经写过的代码 你是否也曾想过是会有这样的人生](https://blog.csdn.net/PyhtonChen/article/details/95070685)
- > 雷军22年前曾经写过的代码 你是否也曾想过是会有这样的人生
- ## [Web应用程序学习——《Python编程：从人门到实践》](https://blog.csdn.net/D5__J9/article/details/88712403)
- > Web应用程序学习——《Python编程：从人门到实践》
- ## [keras 版本PSEnet训练过程记录](https://blog.csdn.net/u011489887/article/details/98985285)
- > keras 版本PSEnet训练过程记录
- ## [poj2299树状数组入门](https://blog.csdn.net/qq_43813140/article/details/98983662)
- > poj2299树状数组入门
- ## [java中文乱码问题解决方法](https://blog.csdn.net/qq_40393594/article/details/98983411)
- > java中文乱码问题解决方法
- ## [linux 查看日志](https://blog.csdn.net/weixin_37998428/article/details/98982337)
- > linux 查看日志
- ## [在ArrayList中根据自定义类的一个属性找某个对象](https://blog.csdn.net/qq_41083450/article/details/98974384)
- > 在ArrayList中根据自定义类的一个属性找某个对象
- ## [JAVA容器特点](https://blog.csdn.net/qq_38774221/article/details/98974417)
- > JAVA容器特点
- ## [Vue服务端渲染和客户端渲染](https://blog.csdn.net/u012757419/article/details/98974494)
- > Vue服务端渲染和客户端渲染
- ## [unity navigation 使用教程](https://blog.csdn.net/lengyoumo/article/details/98966365)
- > unity navigation 使用教程
- ## [linux中的2>&1是什么](https://blog.csdn.net/kang19970201/article/details/98968271)
- > linux中的2&gt;&amp;1是什么
- ## [文档识别sdk12-OCR识别介绍](https://blog.csdn.net/weixin_45273925/article/details/98972491)
- > 文档识别sdk12-OCR识别介绍
- ## [SpringCloud微服务——基于security+oauth2的安全保护（一）：实现方式](https://blog.csdn.net/fyk844645164/article/details/98960980)
- > SpringCloud微服务——基于security+oauth2的安全保护（一）：实现方式
+ ## [XML基本介绍](https://blog.csdn.net/mapbar_front/article/details/98854420)
+ > XML基本介绍
+ ## [ElasticSearch（提高篇）](https://blog.csdn.net/qq_27922023/article/details/99011767)
+ > ElasticSearch（提高篇）
+ ## [终于稀里糊涂完成了模仿天猫整站ssm](https://blog.csdn.net/XY1790026787/article/details/98995372)
+ > 终于稀里糊涂完成了模仿天猫整站ssm
+ ## [新一期ARM作业(三)----内存控制器和SDRAM](https://blog.csdn.net/add991004/article/details/98993808)
+ > 新一期ARM作业(三)----内存控制器和SDRAM
+ ## [Help Hanzo LightOJ - 1197【素数筛，求区间素数个数】](https://blog.csdn.net/DU1149507047/article/details/98972133)
+ > Help Hanzo LightOJ - 1197【素数筛，求区间素数个数】
+ ## [深度学习PyTorch（三）循环神经网络](https://blog.csdn.net/sinat_32512123/article/details/98766661)
+ > 深度学习PyTorch（三）循环神经网络
+ ## [基本动态规划题学习笔记与解析——7（最长上升子序列问题）](https://blog.csdn.net/DragonBingling/article/details/98989694)
+ > 基本动态规划题学习笔记与解析——7（最长上升子序列问题）
+ ## [python之lintcode刷题： Unique Characters](https://blog.csdn.net/weixin_43715758/article/details/98992988)
+ > python之lintcode刷题： Unique Characters
+ ## [Android进阶 -- EventBus源码解析（三）](https://blog.csdn.net/sinat_33150417/article/details/98765492)
+ > Android进阶 -- EventBus源码解析（三）
+ ## [Python学习笔记（二）——控制语句](https://blog.csdn.net/weixin_42182599/article/details/98987965)
+ > Python学习笔记（二）——控制语句
+ ## [LeetCode 5 买卖股票的最佳时机 II](https://blog.csdn.net/weixin_40466879/article/details/98974122)
+ > LeetCode 5 买卖股票的最佳时机 II
+ ## [2019牛客暑期多校训练营（第七场)  J  A+B problem](https://blog.csdn.net/qq_41835683/article/details/98990337)
+ > 2019牛客暑期多校训练营（第七场)  J  A+B problem
+ ## [洛谷P1308统计单词数](https://blog.csdn.net/i_like1ac/article/details/98989390)
+ > 洛谷P1308统计单词数
+ ## [composer install 慢](https://blog.csdn.net/qq_24935119/article/details/98989898)
+ > composer install 慢
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [2019 年互联网人才招聘报告：Java 吃香，算法工程师紧缺，今日头条崛起！](https://blog.csdn.net/csdnnews/article/details/99134891)
+ > 作者 | 八爪盒子责编 | 屠敏技术变革，人才驱动。当前互联网的就业机会和风口在何处？在这篇文章中，我们将对 7 月份国内各个主流招聘网站发布的 384,0533 条互联...
 # 人工智能 
- ## [常用的运维命令-思科锐捷](https://blog.csdn.net/LAO_Z/article/details/96484769)
- > 常用的运维命令-思科锐捷
- ## [Android性能调优：几种常用界面切换效果](https://blog.csdn.net/weixin_45136073/article/details/97158166)
- > Android性能调优：几种常用界面切换效果
- ## [干货分享：Totoro 在自动化测试领域的深耕与收获](https://blog.csdn.net/weixin_44326589/article/details/96994529)
- > 干货分享：Totoro 在自动化测试领域的深耕与收获
- ## [数据库实验：数据表的更新，数据库的安全性，数据库的完整性](https://blog.csdn.net/NEFELIBATA_Reset/article/details/96012158)
- > 数据库实验：数据表的更新，数据库的安全性，数据库的完整性
- ## [运维入门之shell脚本七](https://blog.csdn.net/qq_42103479/article/details/95922149)
- > 运维入门之shell脚本七
- ## [前端开发都应该知道的配置中心](https://blog.csdn.net/zouzhigang96/article/details/96436230)
- > 前端开发都应该知道的配置中心
- ## [oracle运维积累](https://blog.csdn.net/qq_22802643/article/details/95737520)
- > oracle运维积累
- ## [第一章：LINUX基本命令](https://blog.csdn.net/gongbosheng/article/details/96432317)
- > 第一章：LINUX基本命令
- ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
- > Linux 运维一些知识点
- ## [史上最全的Android热点技术面试题集锦](https://blog.csdn.net/weixin_45258969/article/details/96627593)
- > 史上最全的Android热点技术面试题集锦
- ## [Linux运维养成记-服务器安全运维](https://blog.csdn.net/weixin_45181224/article/details/96491037)
- > Linux运维养成记-服务器安全运维
- ## [Oracle SQL 查询及常用单行函数](https://blog.csdn.net/weixin_42927264/article/details/96988895)
- > Oracle SQL 查询及常用单行函数
- ## [避免面试尴尬，你需要了解的20个架构师相关缩写](https://blog.csdn.net/androidokk/article/details/96275855)
- > 避免面试尴尬，你需要了解的20个架构师相关缩写
- ## [你还不打算试试Android X吗？](https://blog.csdn.net/androidokk/article/details/96432559)
- > 你还不打算试试Android X吗？
- ## [【Linux】系统日志管理](https://blog.csdn.net/daisy_songyr/article/details/96426097)
- > 【Linux】系统日志管理
+ ## [Atlassian In Action-Jira之推荐插件（四）](https://blog.csdn.net/pluto4596/article/details/95590625)
+ > Atlassian In Action-Jira之推荐插件（四）
+ ## [阿里巴巴-游戏开发面经](https://blog.csdn.net/weixin_39139505/article/details/96625548)
+ > 阿里巴巴-游戏开发面经
+ ## [MyBatis映射文件的基本功能](https://blog.csdn.net/weixin_42510923/article/details/95663222)
+ > MyBatis映射文件的基本功能
+ ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
+ > Python 超级玛丽代码实现(1):界面和状态机实现
+ ## [\[干货\]“真传奇”遍地走，游戏开发者们该如何破局？](https://blog.csdn.net/weixin_39872180/article/details/96478141)
+ > \[干货\]“真传奇”遍地走，游戏开发者们该如何破局？
+ ## [3D 小游戏《飞跃地平线 Plus》开发分享](https://blog.csdn.net/weixin_44053279/article/details/96878621)
+ > 3D 小游戏《飞跃地平线 Plus》开发分享
+ ## [C语言电池助手（代码实例）](https://blog.csdn.net/weixin_43812804/article/details/96865520)
+ > C语言电池助手（代码实例）
+ ## [C++基础1：类与对象基础](https://blog.csdn.net/weixin_43692030/article/details/96462244)
+ > C++基础1：类与对象基础
+ ## [网络爬虫HTTP原理、网页请求、网页基础](https://blog.csdn.net/LEEBELOVED/article/details/96423645)
+ > 网络爬虫HTTP原理、网页请求、网页基础
+ ## [携程敏捷总动员](https://blog.csdn.net/sinat_27030335/article/details/95329177)
+ > 携程敏捷总动员
+ ## [小白学C语言 数组篇](https://blog.csdn.net/Ningmenmao/article/details/96779887)
+ > 小白学C语言 数组篇
+ ## [java基础(部分),复习用](https://blog.csdn.net/qq_44061725/article/details/96858218)
+ > java基础(部分),复习用
+ ## [python赋值及拆包](https://blog.csdn.net/weixin_43979988/article/details/95868213)
+ > python赋值及拆包
+ ## [JAVA基础的基础1.0](https://blog.csdn.net/Mr_OO/article/details/95724810)
+ > JAVA基础的基础1.0
+ ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
+ > Atlassian In Action-Jira之二次开发（五）
 # PM 
  ## [杜蕾斯，文案变了](http://www.woshipm.com/copy/2696496.html)
  > 作为social传播的扛把子，杜蕾斯的文案一经推出，就会迅速捕捉大众的眼球与网络热议。而在前些日子的“翻车”事故后，我们从新文案上看到了杜蕾斯的改变。之前的杜蕾斯...
