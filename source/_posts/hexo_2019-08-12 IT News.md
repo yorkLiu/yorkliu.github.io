@@ -1,7 +1,7 @@
 ---
 title: 2019-08-12 IT News
 copyright: true
-date: 2019-08-12 08:01:04
+date: 2019-08-12 09:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -47,6 +47,8 @@ categories: IT NEWS
  ## [一页纸简历，你会立马想到那些好处？](https://www.zhihu.com/question/20577800)
  > 如何写出高质量的简历呢？分析JD简历内容具体操作首先了解清楚简历的内容定位。如果说简历是走入工作岗位的第一块敲门砖，那么HR就是求职者遇到的第一道门。想要敲开这道门，就得解决三个问题：（1）引起HR的阅...
 # IT 技术 
+ ## [适用于物联网开发的11种热门云平台](http://iot.51cto.com/art/201908/601103.htm)
+ > 适用于物联网开发的11种热门云平台
  ## [喜大普奔！刚刚，华为鸿蒙正式发布！](http://developer.51cto.com/art/201908/601080.htm)
  > 喜大普奔！刚刚，华为鸿蒙正式发布！
  ## [推荐 15 款编程游戏，从此谁都可以学编程！](http://developer.51cto.com/art/201908/601039.htm)
@@ -61,92 +63,62 @@ categories: IT NEWS
  > 刘备三顾茅庐，请Elasticsearch出山
  ## [图像识别哪家公司最强？微软、亚马逊、谷歌还是IBM？](http://ai.51cto.com/art/201908/601009.htm)
  > 图像识别哪家公司最强？微软、亚马逊、谷歌还是IBM？
- ## [JavaScript不得不知的图片Base64编码小知识](http://developer.51cto.com/art/201908/601047.htm)
- > JavaScript不得不知的图片Base64编码小知识
- ## [自建还是购买：实施物联网时需要考虑什么？](http://iot.51cto.com/art/201908/601096.htm)
- > 当我和工业公司的首席执行官们交流时，我发现有些人很积极，有些人却犹豫不决。即使领导人了解物联网的重要
- ## [Linux脚本学习必经之路---shell脚本实例分享](http://os.51cto.com/art/201908/601094.htm)
- > 写shell脚本还是一样，思路第一，语法其次，下面分享几个脚本实例，大家主要是理解一下里面的思路，语法稍
- ## [灵活消费模式可降低IT开销、有助于投资](http://network.51cto.com/art/201908/601092.htm)
- > 并非所有工作负载都适合云端，这意味着，传统数据中心仍然占有一席之地。但内部部署基础架构必须与IaaS和Sa
- ## [利用区块链科技改善地球环境](http://blockchain.51cto.com/art/201908/601091.htm)
- > 为了强化解决环境问题的力道，建立以区块链为基础的“游戏规则改变者，在应用面上具有极高的潜力。
- ## [为什么餐馆应该实施物联网](http://iot.51cto.com/art/201908/601090.htm)
- > 物联网正在越来越多地被各种行业所采用，以防止机器故障、提高运营效率和降低成本。更重要的是，在关键的餐
- ## [Kotlin 和 Java：Android 开发者更喜欢后者？](http://news.51cto.com/art/201908/601095.htm)
- > 尽管 Java 多年来一直是 Android 开发的中流砥柱，但近年来谷歌开始偏向 Kotlin，称其为 Android 开发的“
- ## [你是否清楚工业物联网IIoT未来十年内的价值？](http://iot.51cto.com/art/201908/601089.htm)
- > 越来越多的企业都选择了进行转型，而其中我们就不得不提及一下工业物联网，相信相应转型的企业对它都已经有
- ## [Zend 创始人提议创建 PHP 方言，暂命名为 P++](http://news.51cto.com/art/201908/601093.htm)
- > 不久前从 Zend 公司离职的 Zeev Suraski 以 PHP 开发组成员的身份提议要创建 PHP 方言，暂命名为 P++。
- ## [区块链部署的4个阶段](http://blockchain.51cto.com/art/201908/601088.htm)
- > 潜在的用例是区块链观察者最喜欢谈论的话题，并且，每次关于该技术的对话似乎都会产生新的用例。但是，哪些
- ## [工业物联网的成功故事：设备供应商转变为解决方案提供商](http://iot.51cto.com/art/201908/601087.htm)
- > 工业企业越来越倾向于通过互联系统寻求价值。然而，很少有工业物联网的成功案例包含足够多的细节来为其他人
  ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
  > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [从量变到质变，中国移动在5G时代或将处于不利地位](https://blog.csdn.net/AUZ3y0GqMa/article/details/99020829)
- > 从量变到质变，中国移动在5G时代或将处于不利地位
- ## [LeetCode-两数之和](https://blog.csdn.net/lsimisama/article/details/98996224)
- > LeetCode-两数之和
- ## [spring boot 与 iview 前后端分离架构之前后端代码自动生成（番外篇）](https://blog.csdn.net/linzhefeng89/article/details/98937523)
- > spring boot 与 iview 前后端分离架构之前后端代码自动生成（番外篇）
- ## [安装 Elasticsearch](https://blog.csdn.net/Piratesa/article/details/98884538)
- > 安装 Elasticsearch
- ## [我要拿offer练习（第二天）](https://blog.csdn.net/qq_39304441/article/details/98992922)
- > 我要拿offer练习（第二天）
- ## [Python学习笔记(6) xml转换为excel](https://blog.csdn.net/Pythonlaowan/article/details/98993744)
- > Python学习笔记(6) xml转换为excel
- ## [2019牛客多校第七场](https://blog.csdn.net/Ripped/article/details/98983569)
- > 2019牛客多校第七场
- ## [Microprecision微动开关MP321 Microprecision微动开关MP321 和 Nor-Cal AIVP-3002-ISO-S22](https://blog.csdn.net/S13366820448/article/details/98993226)
- > Microprecision微动开关MP321 Microprecision微动开关MP321 和 Nor-Cal AIVP-3002-ISO-S22
- ## [IDEA创建Maven项目](https://blog.csdn.net/weixin_43796428/article/details/98989302)
- > IDEA创建Maven项目
- ## [剑指offer---替换空格](https://blog.csdn.net/one_zero_one/article/details/98991642)
- > 剑指offer---替换空格
- ## [性能测试必知——响应时间](https://blog.csdn.net/qq_38925100/article/details/98990997)
- > 性能测试必知——响应时间
- ## [Python第三个项目：爬取豆瓣《哪吒之魔童降世》 短评](https://blog.csdn.net/qq_36538012/article/details/99011778)
- > Python第三个项目：爬取豆瓣《哪吒之魔童降世》 短评
- ## [消息队列的作用和功能](https://blog.csdn.net/s2152637/article/details/98987333)
- > 消息队列的作用和功能
- ## [面试题集锦（二）——IO流](https://blog.csdn.net/qq_45337431/article/details/98988970)
- > 面试题集锦（二）——IO流
+ ## [Java基础学习总结（21）——数组](https://blog.csdn.net/weixin_33878457/article/details/92651597)
+ > Java基础学习总结（21）——数组
+ ## [公司招了两个程序员，老员工吐槽又菜又笨，网友：你能聪明的哪去](https://blog.csdn.net/weixin_44330260/article/details/94337547)
+ > 公司招了两个程序员，老员工吐槽又菜又笨，网友：你能聪明的哪去
+ ## [JavaIO学习：字节流](https://blog.csdn.net/qq_44204058/article/details/99026490)
+ > JavaIO学习：字节流
+ ## [数据统计埋点工作框架及细节规范](https://blog.csdn.net/u010199413/article/details/98996613)
+ > 数据统计埋点工作框架及细节规范
+ ## [使用http-server在本地开启一个服务器](https://blog.csdn.net/machi1/article/details/98995312)
+ > 使用http-server在本地开启一个服务器
+ ## [面试答不上来？学会这个，你也能在 30 秒内讲明白 TCP 三次握手](https://blog.csdn.net/weixin_43901866/article/details/98995014)
+ > 面试答不上来？学会这个，你也能在 30 秒内讲明白 TCP 三次握手
+ ## [R中方差，协方差，相关系数](https://blog.csdn.net/weixin_44510615/article/details/98990924)
+ > R中方差，协方差，相关系数
+ ## [1030 Travel Plan (30 分) dijstra最短路+dfs回溯路径](https://blog.csdn.net/TheWise_lzy/article/details/98992798)
+ > 1030 Travel Plan (30 分) dijstra最短路+dfs回溯路径
+ ## [使用AsyncTask](https://blog.csdn.net/weixin_43823970/article/details/98993032)
+ > 使用AsyncTask
+ ## [Huffman树实现文件的压缩与解压缩](https://blog.csdn.net/Luckyboom_/article/details/98992618)
+ > Huffman树实现文件的压缩与解压缩
+ ## [JZOJ 6288. 2019.08.09【NOIP提高组A】旋转子段](https://blog.csdn.net/xuxiayang/article/details/98991505)
+ > JZOJ 6288. 2019.08.09【NOIP提高组A】旋转子段
+ ## [实例21](https://blog.csdn.net/WHJMHJMW/article/details/98991078)
+ > 实例21
+ ## [Wireless Network POJ - 2236](https://blog.csdn.net/songziyuan_/article/details/98990514)
+ > Wireless Network POJ - 2236
+ ## [VUE之过渡与动画](https://blog.csdn.net/woshierdanya/article/details/98986756)
+ > VUE之过渡与动画
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [Python 爬取 B 站 5000 条视频，揭秘为何千万人为它流泪！](https://blog.csdn.net/csdnnews/article/details/99256653)
+ > 【CSDN 编者按】《哪吒》看哭了无数人！编者看的那场，有很多小朋友，一开始他们还被太乙真人的滑稽，逗得哈哈笑。到了哪吒成魔要杀父亲、跪别父母、因为宿命不得以和敖丙为敌时...
+ ## [微软员工揭秘 Windows 的 Linux 子系统研发全过程](https://blog.csdn.net/csdnnews/article/details/99256765)
+ > 【CSDN 编者按】微软在开源道路上不断前进，甚至在Windows10中开放名为 WSL 的 Linux 子系统，让开发者可以直观操作 Linux。本文作者作为 WSL团...
+ ## [车联网之通信超限战上演巅峰对决！](https://blog.csdn.net/csdnnews/article/details/99256790)
+ > 作者 | 徐鸿鹄责编 | 胡雪蕊本文经授权转载自几何四驱（ID：GeometryAWD）新趋势的入侵，往往都有“狂人”做推手。“车联网”的概念被轮番炒了那么久，就是不见起...
+ ## [程序员该如何转型 5G 开发？](https://blog.csdn.net/csdnnews/article/details/99256957)
+ > 作者|COCO责编 | 胡雪蕊出品 | CSDN （CSDNnews）最近听了几位社招新进同事的述职，问了他们同样一个问题：从原来的软件开发岗位转到现在的5G开发，你...
+ ## [Zend 创始人欲创建 PHP 方言，暂名为 P++；鸿蒙 OS 面世；中国首个开源协议诞生 | 开发者周刊...](https://blog.csdn.net/csdnnews/article/details/99256707)
+ > 整理 | 张红月出品 | CSDN（ID：CSDNnews）CSDN开发者周刊只为传递“有趣/有用”的开发者内容，点击Star（Github：https://github...
+ ## [大势要落地！开发者应该关注的 AI 应用落地实践](https://blog.csdn.net/csdnnews/article/details/99256750)
+ > 2019年对AI企业来说，是关键的AI应用的落地之年。AI已经不停留在概念及资本市场融资的阶段。根据北京市经济和信息委员会去年7月发布的《北京人工智能产业发展白皮书（20...
+ ## [面向对象编程之兴衰](https://blog.csdn.net/csdnnews/article/details/99256727)
+ > 【CSDN 编者按】作为一种程序设计思想，OOP 在最初诞生之际就收到了广大开发者的喜爱。但是在技术革新日益实践过程中，不少人发现面向对象的设计会使代码复杂化，难以理解而...
+ ## [拿来就能用！去哪儿网消息中间件 QMQ 详解 | 技术头条](https://blog.csdn.net/csdnnews/article/details/99256826)
+ > 作者 | 去哪儿网QMQ团队责编 | 伍杏玲出品| CSDN（ID：CSDNnews）2012 年，随着业务快速增长，公司内部开始了服务化进程，通过拆分单体服务加快开发...
  ## [网文市场寒冬将至，风波不断的晋江如何前行](http://www.lanjingtmt.com/news/detail/44140.shtml)
  > 从当前整个网文市场环境来看，行业寒冬已基本成为业内共识。晋江CEO黄艳明曾在不久前公开表示，整个网文环境的“寒冬”就要来临，从业者需要三思而后行，个体做自我切割并没有用处，网文市场
-# 人工智能 
- ## [【Docker】Consul构建集群服务](https://blog.csdn.net/qq_41614928/article/details/96430859)
- > 【Docker】Consul构建集群服务
- ## [咸鱼前端—CSS浮动](https://blog.csdn.net/weixin_45020839/article/details/96104603)
- > 咸鱼前端—CSS浮动
- ## [手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些](https://blog.csdn.net/WoChaotian_/article/details/97152958)
- > 手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些
- ## [“收信人：义士”！时隔72年，非凡来信帮他们回家](https://blog.csdn.net/weixin_45209246/article/details/96586841)
- > “收信人：义士”！时隔72年，非凡来信帮他们回家
- ## [云计算第一周](https://blog.csdn.net/qq_36999865/article/details/96690846)
- > 云计算第一周
- ## [构建Java Web应用实验](https://blog.csdn.net/qq_41614928/article/details/96558828)
- > 构建Java Web应用实验
- ## [大数据之路之交通大数据应用总体架构设计](https://blog.csdn.net/mochou111/article/details/96428264)
- > 大数据之路之交通大数据应用总体架构设计
- ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/coding147/article/details/96967786)
- > 一名合格前端工程师的进阶指南！
- ## [前端学习笔记-html-链接标签](https://blog.csdn.net/qq_36434637/article/details/97003045)
- > 前端学习笔记-html-链接标签
- ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
- > 搭建Ambari Hadoop系统实验
- ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
- > 云杰恒指：7.19恒指期货早盘资讯
- ## [前端构建工具 gulpjs 的介绍](https://blog.csdn.net/hero5_1/article/details/96017957)
- > 前端构建工具 gulpjs 的介绍
- ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
- > 持续集成管理软件Jenkins应用实验
- ## [【Docker】Docker网络](https://blog.csdn.net/qq_41614928/article/details/96426268)
- > 【Docker】Docker网络
- ## [学习编程基础知识，进阶成为更优秀的程序员](https://blog.csdn.net/weixin_45396666/article/details/96732784)
- > 学习编程基础知识，进阶成为更优秀的程序员
+# PM 
+ ## [宇宙级打法：“四位一体”构建在线教育增长引擎（上）](http://www.woshipm.com/operate/2698968.html)
+ > 对于在线教育而言，引用私域流量也成了一种常见趋势。而在这个过程中，有“四位一体”的理论可以帮助我们达到事半功倍的效果。今年私域流量概念特别火，但大家似乎都陷...
+ ## [两种土壤下的中外会员经济](http://www.woshipm.com/it/2699538.html)
+ > 对于会员经济的形成与发展，中美之间的市场逻辑各有不同；而具体到不同行业中，具体的会员模式也随着行业特性而变化。“持枪家庭在美国占比44%，去教堂做礼拜的家庭占...
+ ## [第83期：微博如果取消点赞数展示，是否更好呢？](http://www.woshipm.com/it/2694390.html)
+ > 最近instagram宣布实行隐藏点赞数，那么对于中国的ins——微博，现在数据造假已经很明显了，一个明星会有10亿的点赞，粉丝做数据也要累吐，为此，我们在天天问讨论了这个...
 
     
