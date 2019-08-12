@@ -1,7 +1,7 @@
 ---
 title: 2019-08-12 IT News
 copyright: true
-date: 2019-08-12 10:01:14
+date: 2019-08-12 12:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -123,56 +123,26 @@ Twitter &#25215;&#35748;&#26410;&#32463;&#20801;&#35768;&#23558;&#29992;&#25143;
  > 推荐 15 款编程游戏，从此谁都可以学编程！
  ## [预测加密货币的十大发展趋势](http://blockchain.51cto.com/art/201908/601013.htm)
  > 预测加密货币的十大发展趋势
- ## [「干货」从零开始配置前端开发环境](http://developer.51cto.com/art/201908/601114.htm)
- > 前段时间更换了设备，正好趁着这个机会来记录一下适合前端开发的一个环境，以及推荐提高效率的应用。
- ## [当Windows不再成为“基石” 微软不悲反喜？](http://news.51cto.com/art/201908/601110.htm)
- > 近期，美国联邦调查局瞄准了大型科技公司。美国司法部(Justice Department)在7月底宣布，已开始对大型科技
- ## [漫画：什么是 HTTPS 协议？](http://network.51cto.com/art/201908/601111.htm)
- > HTTP协议全称Hyper Text Transfer Protocol，翻译过来就是超文本传输协议，位于TCP/IP四层模型当中的应用层
- ## [对照检查！高效程序员几乎都有这七项技能](http://news.51cto.com/art/201908/601108.htm)
- > 软件工程师们总是花费许多时间磨练面试技巧，如练习力扣题(leet code)和完善各自的简历。而一旦他们在一家
- ## [什么是物联网平台?](http://iot.51cto.com/art/201908/601107.htm)
- > 在选择物联网平台时，您需要首先了解该平台有多少客户在使用，特别是您所在的垂直/行业中，因为每个垂直行
- ## [分享一份实用的MySQL数据库巡检脚本，值得收藏](http://database.51cto.com/art/201908/601106.htm)
- > 分享一个我平时用来做MySQL数据库巡检的脚本，该脚本主要用于大致诊断MYSQL主机和数据库配置及性能收集，然
- ## [无密码身份认证即将来临](http://netsecurity.51cto.com/art/201908/601105.htm)
- > 在设计和实施身份管理方面，所有人对于自己选择的认证方式都有充足的理由。虽然大多数组织仍然依赖用户名和
- ## [GitHub万星资源：强化学习算法实现，教程代码学习规划全都有](http://news.51cto.com/art/201908/601104.htm)
- > 自从有了强化学习（RL），AI上能星际争霸，下能雅达利称王，让内行人沉醉，让外行人惊奇。
- ## [21个让React 开发更高效更有趣的工具](http://news.51cto.com/art/201908/601102.htm)
- > 有没有想过你的应用程序的哪些包或哪部分代码所占总大小的多少? Webpack Bundle Analyzer可以帮助咱们分析
- ## [7月份Github上热门的Python开源项目](http://developer.51cto.com/art/201908/601101.htm)
- > 今天，猿妹将和大家盘点7月份Github上最热门的Python开源项目，本月上榜的项目比较有趣的当属【Zhao】，这
- ## [华为正式发布自有操作系统——鸿蒙 OS！](https://blog.csdn.net/csdnnews/article/details/98964136)
- > 华为正式发布自有操作系统——鸿蒙 OS！
- ## [sql常用数据类型](https://blog.csdn.net/NewBeeMu/article/details/98994566)
- > sql常用数据类型
- ## [33-杨辉三角](https://blog.csdn.net/qq_43420195/article/details/98993159)
- > 33-杨辉三角
- ## [计算天数](https://blog.csdn.net/python_wk/article/details/98992136)
- > 计算天数
- ## [【POJ - 1275】Cashier Employment（差分约束，建图）](https://blog.csdn.net/qq_41289920/article/details/98958186)
- > 【POJ - 1275】Cashier Employment（差分约束，建图）
- ## [数据结构（5） -- 图](https://blog.csdn.net/hhuzxx/article/details/98990887)
- > 数据结构（5） -- 图
- ## [No suitable driver](https://blog.csdn.net/m0_38113064/article/details/98988981)
- > No suitable driver
- ## [程序员舒克带你设计QQ群名片信息管理系统](https://blog.csdn.net/weixin_40378974/article/details/98988580)
- > 程序员舒克带你设计QQ群名片信息管理系统
- ## [eclipse的使用教程](https://blog.csdn.net/answan/article/details/98988548)
- > eclipse的使用教程
- ## [对编码的url进行解码/解决取到的地址栏中的中文乱码问/中文乱码转码](https://blog.csdn.net/weixin_43478568/article/details/98986203)
- > 对编码的url进行解码/解决取到的地址栏中的中文乱码问/中文乱码转码
- ## [【王道机试笔记03】Hash的应用](https://blog.csdn.net/cs_xuhuan/article/details/98976016)
- > 【王道机试笔记03】Hash的应用
- ## [03【MySQL多表&事务】](https://blog.csdn.net/YangS121jun/article/details/98985427)
- > 03【MySQL多表&amp;事务】
- ## [linux--用户和组的管理](https://blog.csdn.net/MANlidong/article/details/98980888)
- > linux--用户和组的管理
- ## [poj2299树状数组入门](https://blog.csdn.net/qq_43813140/article/details/98983662)
- > poj2299树状数组入门
- ## [推荐系统 - 隐语义LFM召回算法](https://blog.csdn.net/maqunfi/article/details/98980509)
- > 推荐系统 - 隐语义LFM召回算法
+ ## [SQLite3的数据类型-动态数据类型](http://database.51cto.com/art/201908/601143.htm)
+ > 大多数SQL数据库引擎(除了SQLite之外的每个SQL数据库引擎，据我们所知)都使用静态，严格的类型。使用静态类
+ ## [图文详解Windows下查看端口的相关命令](http://os.51cto.com/art/201908/601144.htm)
+ > 有同事最近遇到了一个问题，在运行某个程序的时候，总提示说程序端口被占用，不能运行，那么，在winserver
+ ## [面向车队管理的物联网：诸多好处](http://iot.51cto.com/art/201908/601139.htm)
+ > 过去十年里，技术的迅猛发展为全世界提供了大量新工具和资源，这些工具和资源为各行各业提供了无数好处。物
+ ## [微信缠斗支付宝，谁是B端之王？](http://mobile.51cto.com/hot-601138.htm)
+ > 如果说移动支付上半场处于战略互攻阶段，各方你争我夺，以拉动流量为目的，属于流量战争。那么下半场则进入
+ ## [危乎高哉，AI教育之蜀道](http://ai.51cto.com/art/201908/601136.htm)
+ > AI赋能下的教育市场在资本引爆、巨头加入和巨额融资中滚滚向前，赛道不断被细分，竞争残酷程度也逐渐加剧。
+ ## [敏捷和DevOps：是敌是友？](http://os.51cto.com/art/201908/601135.htm)
+ > DevOps是敏捷在软件开发团队的另一应用。那么相比之下，哪个更胜一筹?一边，有业界认可的scrum master，它
+ ## [机器学习过程的三个坑，看看你踩过哪一个](http://zhuanlan.51cto.com/art/201908/601141.htm)
+ > 几十年来，机器学习领域一直饱受“坦克问题(tank problem)”的折磨。为了说明这点，这里列举三个Google Acc
+ ## [来自JVM的灵魂拷问：“你是什么垃圾？”](http://virtual.51cto.com/art/201908/601137.htm)
+ > GC是一种自动的存储管理机制。当一些被占用的内存不再需要时，就应该予以释放。这种存储资源管理，称为垃圾
+ ## [华为“鸿蒙”所涉及的微内核到底是什么？一文带你认识微内核](http://news.51cto.com/art/201908/601133.htm)
+ > 最近微内核的概念常常被大家提及，同时还有Google Fuchisa这样的微内核新星，这里让我们一起来认识下微内核
+ ## [干货分享：MTDDL―美团点评分布式数据访问层中间件](http://database.51cto.com/art/201908/601131.htm)
+ > 2016年Q3季度初，在美团外卖上单2.0项目上线后，商家和商品数量急速增长，预估商品库的容量和写峰值QPS会很
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [Python 爬取 B 站 5000 条视频，揭秘为何千万人为它流泪！](https://blog.csdn.net/csdnnews/article/details/99256653)
@@ -191,53 +161,85 @@ Twitter &#25215;&#35748;&#26410;&#32463;&#20801;&#35768;&#23558;&#29992;&#25143;
  > 【CSDN 编者按】作为一种程序设计思想，OOP 在最初诞生之际就收到了广大开发者的喜爱。但是在技术革新日益实践过程中，不少人发现面向对象的设计会使代码复杂化，难以理解而...
  ## [拿来就能用！去哪儿网消息中间件 QMQ 详解 | 技术头条](https://blog.csdn.net/csdnnews/article/details/99256826)
  > 作者 | 去哪儿网QMQ团队责编 | 伍杏玲出品| CSDN（ID：CSDNnews）2012 年，随着业务快速增长，公司内部开始了服务化进程，通过拆分单体服务加快开发...
+ ## [华为或于年底推出搭载鸿蒙系统的中低端智能机](http://www.lanjingtmt.com/news/detail/44148.shtml)
+ > 有媒体援引知情人士消息，华为内部今年智能手机出货目标为2.7亿部，或将在年底推出搭载鸿蒙系统的中低端智能手机。
+ ## [特斯联完成C1轮20亿融资，京东、科大讯飞等跟投](http://www.lanjingtmt.com/news/detail/44147.shtml)
+ > 特斯联宣布完成C1轮融资，本轮融资金额为20亿元人民币，由光大控股领投，京东、科大讯飞、万达投资等跟投。
+ ## [饿了么口碑建立数字化商超开放平台，全国共20万连锁商入驻](http://www.lanjingtmt.com/news/detail/44146.shtml)
+ > 饿了么口碑日前宣布建立数字化商超开放平台，从订单、配送、仓储等环节推进数字化进程。目前在全国676个城市，有超过1万家大型超市以及总数近20万家的连锁商超入驻开放平台。
+ ## [小米回应取消开机广告：当日观看广告次数达频率限制或无广告排期](http://www.lanjingtmt.com/news/detail/44145.shtml)
+ > 近日，有网友反映小米电视取消了开机广告。然而，有知乎认证为北京小米电子产品有限公司产品运营经理的用户@Wuli小海表示，用户没有看到小米电视广告，很有可能是当天观看广告的次数已经达
  ## [百度回应阿波龙项目主力人员撤出：报道不实，将推出二代产品](http://www.lanjingtmt.com/news/detail/44144.shtml)
  > 日前据媒体报道，百度阿波龙项目主要技术、开发人员已经撤出，分散进其他项目和Apollo开源项目。
  ## [网文市场寒冬将至，风波不断的晋江如何前行](http://www.lanjingtmt.com/news/detail/44140.shtml)
  > 从当前整个网文市场环境来看，行业寒冬已基本成为业内共识。晋江CEO黄艳明曾在不久前公开表示，整个网文环境的“寒冬”就要来临，从业者需要三思而后行，个体做自我切割并没有用处，网文市场
 # 人工智能 
- ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
- > Atlassian In Action-Jira之二次开发（五）
- ## [【三分钟讲清区块链/比特币】之一：区块链入门教程](https://blog.csdn.net/LEON1741/article/details/96888960)
- > 【三分钟讲清区块链/比特币】之一：区块链入门教程
- ## [区块链的知识](https://blog.csdn.net/Kryskalqiqi0321/article/details/96274902)
- > 区块链的知识
- ## [区块链对区块链金融有什么作用？](https://blog.csdn.net/kaihuiguoji/article/details/90671898)
- > 区块链对区块链金融有什么作用？
- ## [ZT交易所OTC商家火热招募中](https://blog.csdn.net/weixin_44452342/article/details/96572844)
- > ZT交易所OTC商家火热招募中
- ## [预言机（Oracle）](https://blog.csdn.net/hello2mao/article/details/96275418)
- > 预言机（Oracle）
- ## [ULAM公链第五周周报](https://blog.csdn.net/qq_39579711/article/details/96623959)
- > ULAM公链第五周周报
- ## [将PLST整合到企业的业务中的五大策略](https://blog.csdn.net/weixin_44540340/article/details/97168147)
- > 将PLST整合到企业的业务中的五大策略
- ## [在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点](https://blog.csdn.net/weixin_43830887/article/details/96835533)
- > 在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点
- ## [ZT 交易所“追星计划”|究竟谁能成为TOP1？](https://blog.csdn.net/weixin_44452342/article/details/97116431)
- > ZT 交易所“追星计划”|究竟谁能成为TOP1？
- ## [想了解Robot Global的看这里！](https://blog.csdn.net/weixin_45447706/article/details/97131647)
- > 想了解Robot Global的看这里！
- ## [区块链未来的发展趋势是怎样的？](https://blog.csdn.net/Gendan5/article/details/96871372)
- > 区块链未来的发展趋势是怎样的？
- ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
- > 区块链技术原理是怎样的？
- ## [区块链与比特币有什么关系？](https://blog.csdn.net/Kryskalqiqi0321/article/details/96836060)
- > 区块链与比特币有什么关系？
- ## [区块链互助盘软件](https://blog.csdn.net/qql365/article/details/96585885)
- > 区块链互助盘软件
+ ## [运维linux命令](https://blog.csdn.net/mengjinlong1/article/details/96474278)
+ > 运维linux命令
+ ## [Linux之Zabbix（一）安装zabbix监控服务配置与添加agent主机的三种方式](https://blog.csdn.net/qq_36016375/article/details/96046824)
+ > Linux之Zabbix（一）安装zabbix监控服务配置与添加agent主机的三种方式
+ ## [centos7搭建DNS服务，CA字签证书](https://blog.csdn.net/qq_42616691/article/details/95478545)
+ > centos7搭建DNS服务，CA字签证书
+ ## [运维----软件安装（vm和ubuntu）](https://blog.csdn.net/qq_27537505/article/details/97130615)
+ > 运维----软件安装（vm和ubuntu）
+ ## [Linux 运维一些知识点](https://blog.csdn.net/star1210644725/article/details/96692600)
+ > Linux 运维一些知识点
+ ## [oracle运维积累](https://blog.csdn.net/qq_22802643/article/details/95737520)
+ > oracle运维积累
+ ## [运维入门之shell脚本七](https://blog.csdn.net/qq_42103479/article/details/95922149)
+ > 运维入门之shell脚本七
+ ## [运维面试题（面前准备）](https://blog.csdn.net/yuanfangPOET/article/details/96774478)
+ > 运维面试题（面前准备）
+ ## [实用运维脚本](https://blog.csdn.net/u014589856/article/details/96438081)
+ > 实用运维脚本
+ ## [企业运维安全管理实践的9大领域](https://blog.csdn.net/anquanniu/article/details/96884292)
+ > 企业运维安全管理实践的9大领域
+ ## [Linux运维养成记-服务器安全运维](https://blog.csdn.net/weixin_45181224/article/details/96491037)
+ > Linux运维养成记-服务器安全运维
+ ## [日常运维--rsync同步工具](https://blog.csdn.net/qq_21383435/article/details/97115245)
+ > 日常运维--rsync同步工具
+ ## [常用的运维命令-思科锐捷](https://blog.csdn.net/LAO_Z/article/details/96484769)
+ > 常用的运维命令-思科锐捷
+ ## [运维 -- 虚拟机给磁盘扩容](https://blog.csdn.net/qq_40337206/article/details/96168954)
+ > 运维 -- 虚拟机给磁盘扩容
+ ## [第一章：LINUX基本命令](https://blog.csdn.net/gongbosheng/article/details/96432317)
+ > 第一章：LINUX基本命令
 # PM 
+ ## [数据运营核心竞争力剖析：用数据管理好业务目标](http://www.woshipm.com/operate/2700535.html)
+ > 数据驱动业务，提升下看问题的角度，针对这句话完全用另外一种更白话的语句进行概括：那就是用数据进行业务目标管理。数据运营的核心竞争力在哪？起初的理解是用数据...
+ ## [微信想做的操作系统，不仅仅是称霸移动端](http://www.woshipm.com/pd/2699741.html)
+ > 微信想把自己的产品打造成【操作系统】这个说法已经不是很新鲜了，包括很多著名产品设计师和平台作者都发表过类似的言论。今天作者想从微信官方针对开发者的一则公告，...
+ ## [用户运营，不只是客服](http://www.woshipm.com/user-research/2696092.html)
+ > 用户运营=客服，你也是这样认为的吗？在本篇文章中，笔者将从三个方面为我们系统的阐述：用户运营是什么？工作内容是什么？从业需要具备什么技能？一起来看看吧。“你...
+ ## [7个做法，有效实现用户留存](http://www.woshipm.com/operate/2699704.html)
+ > 本文认为要想做好用户留存，就要提升新用户使用服务的用户比率和使用频次，而具体的做法有七点，详情见正文哦。用户留存对于大多数产品来说都意味生命线，是生死问题...
+ ## [简单快速的设计方法：用户故事（场景）](http://www.woshipm.com/pd/2700195.html)
+ > 对于理论以及长篇大论的需求文章来说，人们更能记住故事发生的场景，通过简短但是详尽的故事描述，让程序员和设计师来理解，产品的用心良苦，从而达到，为用户提供设计...
+ ## [如何打造一个品牌？](http://www.woshipm.com/marketing/2700728.html)
+ > 读前思考3秒：品牌的目的是什么？品牌如何打造？如果没有品牌，你的产品只能陷于价格战不能自拔，你只能不断和消费者讨价还价。但品牌也只是一种结果，而不是你说了...
+ ## [AIoT，并非泛泛而谈的口号](http://www.woshipm.com/ai/2699387.html)
+ > 自从IoT概念不断发展落地后，市场上也开始出现了AIoT的概念，不过它究竟发展得怎么样呢？它又有遇到什么问题呢？让我们看看本文怎么说的吧。AIoT不是空谈个口号，空炒...
+ ## [创建UX设计作品集，只需5步](http://www.woshipm.com/zhichang/2696665.html)
+ > 作为一个UX设计师，作品集是突出你设计能力和成果的一种有效手段。在创建UX设计作品集过程中，通过对过去成果和设计能力的总结，同时也能帮助设计师自我成长。总的来...
  ## [如何利用case进行产品优化？](http://www.woshipm.com/it/2699920.html)
  > 在工作中，产品经理经常会遇到重复类似的case，不过每次的解决方案都是治标不治本，占用了产品经理大量的时间与精力。而本文结合这一现象，总结出了如何更彻底地解决单...
  ## [线下课程丨做产品快2年了，还是会犯低级错误，该坚持下去吗？](http://www.woshipm.com/active/2683206.html)
  > 做产品2年，依然拿着7K工资，上着996的班。别人都已经跟着老板做产品规划了；而自己还会频繁改需求；别人从产品定价到产品运营全流程熟练操作了；而自己连需求考...
  ## [人脸识别：技术应用与商业实践](http://www.woshipm.com/ai/2693074.html)
  > 人脸识别，已成趋势。关于人脸识别各种碎片式的报道也层出不穷，但对于大多数人而言，依然是管中窥豹，雾里看花。本篇文章中，笔者将从技术应用与商业模式两个维度，系...
- ## [宇宙级打法：“四位一体”构建在线教育增长引擎（上）](http://www.woshipm.com/operate/2698968.html)
- > 对于在线教育而言，引用私域流量也成了一种常见趋势。而在这个过程中，有“四位一体”的理论可以帮助我们达到事半功倍的效果。今年私域流量概念特别火，但大家似乎都陷...
- ## [两种土壤下的中外会员经济](http://www.woshipm.com/it/2699538.html)
- > 对于会员经济的形成与发展，中美之间的市场逻辑各有不同；而具体到不同行业中，具体的会员模式也随着行业特性而变化。“持枪家庭在美国占比44%，去教堂做礼拜的家庭占...
- ## [第83期：微博如果取消点赞数展示，是否更好呢？](http://www.woshipm.com/it/2694390.html)
- > 最近instagram宣布实行隐藏点赞数，那么对于中国的ins——微博，现在数据造假已经很明显了，一个明星会有10亿的点赞，粉丝做数据也要累吐，为此，我们在天天问讨论了这个...
+ ## [产品，已死](http://www.chanpin100.com/article/109223)
+ > 决定不了按钮位置没关系，解决问题就可以。有没有代表作也没关系，服务好用户就行。不忘初心，方得始终！
+ ## [刘主公：你无法逃脱的社群个人品牌打造框架](http://www.chanpin100.com/article/109217)
+ > 社群，为什么要打造个人品牌？
+ ## [刘主公：社群里让人又爱又恨的沉默者，怎样才能让他们活跃起来](http://www.chanpin100.com/article/109216)
+ > 有过社群运营经历的人一定发生过这样的问题：
+ ## [智能投影“下半场”，产品升级迫在眉睫](http://www.chanpin100.com/article/109214)
+ > 从今年下半年开始，整个市场会渐渐脱离草莽阶段，进入新一轮淘汰期，这个领域未来只会残存真正有一技之长的玩家。
+ ## [刘主公：营销初学者的必修科目---三角营销体系。](http://www.chanpin100.com/article/109222)
+ > 实体行业依然看似摇摇欲坠，最后一口气在撑着老板们的身躯苟延残喘。
+ ## [闲鱼：我和几位朋友对一个按钮位置的讨论](http://www.chanpin100.com/article/109221)
+ > 闲鱼：我和几位朋友对一个按钮位置的讨论
+ ## [虾米音乐、马蜂窝、易车、网易云音乐中很有趣的动效设计](http://www.chanpin100.com/article/109215)
+ > 虾米音乐、马蜂窝、易车、网易云音乐中很有趣的动效设计
 
     
