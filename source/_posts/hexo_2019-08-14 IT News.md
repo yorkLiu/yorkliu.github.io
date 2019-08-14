@@ -1,21 +1,21 @@
 ---
 title: 2019-08-14 IT News
 copyright: true
-date: 2019-08-14 08:01:06
+date: 2019-08-14 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [今天，5G手机正式在武汉开卖!长沙也快了!5G来了，4G还能用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1565740803&ver=1789&signature=uE8sJLsOo3iHoXKkXhYyjpLtUW5b*VGqVy4H6B4NpDmTfk*uCWU6XFUfWBZeNAG1CbCQtRO3gJjTiJVx93HOdvDHExCsDv5ZFb9qawaZHGDjFMnaXXqsvt9bP9nzjYAQ&new=1)
- > 来源：综合自楚天都市报、湖南日报、北京日报、央视新闻、科普中国、中新经纬客户端等今天，武汉电信首位5G手机体验用户诞生。首位5G体验用户是位大学教师上午9时，在中国电信集团级旗舰厅——洪山广场营业厅，...
- ## [蔚来汽车股价一度跌超5%丨阅文发布2019半年报\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565740803&ver=1789&signature=9iLxFBs9xRivkBIVWaVQEXQjDUydT9XUGaDB7aOLD3cJWiIPnqzEWrX3nYQYA*4uFXVTqLXFfxMjlhhHnLLhRe9qp4eY0DUyFbaDk5JSF8sdSlISfxy-SCYsAbCcmJxT&new=1)
+ ## [蔚来汽车股价一度跌超5%丨阅文发布2019半年报\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1565744404&ver=1789&signature=9iLxFBs9xRivkBIVWaVQEXQjDUydT9XUGaDB7aOLD3cJWiIPnqzEWrX3nYQYA*4uPb7krdaoaK-UuWFOzt3s8x9Zbb4k8KkFZPUXsKM94dPFMaJldHpWMLODP9wcIYjX&new=1)
  > 8月13日丨周二【Do说】编辑 | 赵艾虎蔚来汽车股价一度跌超5%，7月ES8销量同比下滑67%蔚来汽车股价周一盘中一度跌超5%，此前蔚来公布其7月ES8销量同比下滑67%。蔚来汽车收盘股价报3.03美元，跌幅3.19%。阅文发布2...
- ## [吃瓜!法国总统、总理竟不用同一个通讯软件，分别站队美俄APP!](http://mp.weixin.qq.com/s?src=11&timestamp=1565740803&ver=1789&signature=HQZjxyoCbJgr2lmJYv8W42vd*TMvWLoPIjEq5YMArduYurcfuOgfQERtshM5HlfO58Kn6ymhtTNfFJBOmFGJwOab09JzQ9M9vBd1LKxeuqctYOyUQF8D7aF4I7UZpPuf&new=1)
- > 根据即时通讯软件划分，法国政要分为俄美两派——俄国Telegram使用者和美国WhatsApp使用者。两派的集中代表分别是总统马克龙和总理菲利普，前者多次强调法国政治进入新的世界，而后者是前总理于贝（Alain Juppé...
- ## [5G手机已开卖，5G套餐资费大概会是多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1565740803&ver=1789&signature=d5d3zjMKZy13QtMFA4*UVI7JYU4PTJx*0C6S5sAZKymBYZ86eGYKR1C*A5XWvXz*CEAE84XzgAhi-7ZGZxDcQolzGcmXrI6UcjRlWPOxxp1cKwmuGyUH8aF1qjhjk8T8&new=1)
- > 随着6月6日工信部正式宣布向运营商发放5G牌照，我国正式迈进5G时代。5G的到来一直都是近期的热点话题，我们科技美学也不止一次的在文章当中和大家聊过5G未来可能会实现哪些应用场景、5G目前的网速大致是多少、NS...
- ## [重磅!中国移动9月起或迎来重要转变!](http://mp.weixin.qq.com/s?src=11&timestamp=1565740803&ver=1789&signature=HhRdG1ZZVIaNwUDBMYnc8TVmDYok18Ug8xGqPiq8t5cjNSj3egpZkv2rc0Pvguiy5gJhtcuY0rZnxoQPKXAeVjx1VsS*kt*iZE9hB-Jj1O6LbWO-GwEuypqZLNVSvHv4&new=1)
+ ## [重磅!中国移动9月起或迎来重要转变!](http://mp.weixin.qq.com/s?src=11&timestamp=1565744404&ver=1789&signature=HhRdG1ZZVIaNwUDBMYnc8TVmDYok18Ug8xGqPiq8t5cjNSj3egpZkv2rc0PvguiybGsMM4SDn*Ub5905j-mjXWtJItdDRpC9B1pCsfnMecTNtadzjUcVSbkSRTcUM2ht&new=1)
  > 据内部人士爆料：近日，中国移动内部已发文《关于大力推广&quot;达量不限速’套餐工作的通知 》：各省、自治区、直辖市公司为应对市场竞争，贏回市场主动权，2018年全网开展“流量风暴”行动，各省大力主推“达最限速...
+ ## [今天，5G手机正式在武汉开卖!长沙也快了!5G来了，4G还能用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1565744404&ver=1789&signature=uE8sJLsOo3iHoXKkXhYyjpLtUW5b*VGqVy4H6B4NpDmTfk*uCWU6XFUfWBZeNAG1VsmsnYK6pEh03v4uKasbYTZLjf5qHFhPkUJecncfQGGFnlt2QDd5ztZ-jMwjMhvU&new=1)
+ > 来源：综合自楚天都市报、湖南日报、北京日报、央视新闻、科普中国、中新经纬客户端等今天，武汉电信首位5G手机体验用户诞生。首位5G体验用户是位大学教师上午9时，在中国电信集团级旗舰厅——洪山广场营业厅，...
+ ## [吃瓜!法国总统、总理竟不用同一个通讯软件，分别站队美俄APP!](http://mp.weixin.qq.com/s?src=11&timestamp=1565744404&ver=1789&signature=HQZjxyoCbJgr2lmJYv8W42vd*TMvWLoPIjEq5YMArduYurcfuOgfQERtshM5HlfOqHZFHQ6GAG2nktgd5-2dvAOXWyJN0b3ZBmGDHKvCi-2MFxiqbuTSH-b8S2A0T8g6&new=1)
+ > 根据即时通讯软件划分，法国政要分为俄美两派——俄国Telegram使用者和美国WhatsApp使用者。两派的集中代表分别是总统马克龙和总理菲利普，前者多次强调法国政治进入新的世界，而后者是前总理于贝（Alain Juppé...
+ ## [5G手机已开卖，5G套餐资费大概会是多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1565744404&ver=1789&signature=d5d3zjMKZy13QtMFA4*UVI7JYU4PTJx*0C6S5sAZKymBYZ86eGYKR1C*A5XWvXz*JJMp4HR5ThjZvw73L-nTaCOmSfTqwNiFA6Q7i*J-rMSogqlQP1MYCX*8mXKrO306&new=1)
+ > 随着6月6日工信部正式宣布向运营商发放5G牌照，我国正式迈进5G时代。5G的到来一直都是近期的热点话题，我们科技美学也不止一次的在文章当中和大家聊过5G未来可能会实现哪些应用场景、5G目前的网速大致是多少、NS...
  ## [互联网公司最常见的面试算法题有哪些？](https://www.zhihu.com/question/24964987)
  > 谢邀！大三时为了准备春招/秋招，也算时积累了不少所谓的常见面试题，其中不乏有一些解法及其奇淫的算法题, 待我一道道给你们列出，建议耐心看完，一定会有所收获1. 寻找出现一次的数 给你一个长度为 n 的数组，其中...
  ## [自媒体如何选择领域？](https://www.zhihu.com/question/59799500)
@@ -73,46 +73,62 @@ categories: IT NEWS
  > 8道经典JavaScript面试题解析，你真的掌握JavaScript了吗？
  ## [Arch Linux比Ubuntu更好吗？](http://os.51cto.com/art/201908/601171.htm)
  > Arch Linux比Ubuntu更好吗？
+ ## [你知道的工业互联网平台是怎样的？其中该具备哪些能力呢？](http://iot.51cto.com/art/201908/601247.htm)
+ > 就目前来看，工业互联网逐渐成为制造企业发展过程中的关键构成，是实现企业数字化、信息化、智能化的核心所
+ ## [Iperf网络吞吐量/带宽测试的考虑和总结](http://network.51cto.com/art/201908/601246.htm)
+ > 使用udp设定带宽2M,5M,10M，同时观察对正进行的ping测试的影响。证明iperf使用udp测试/使用一定或最大带宽
+ ## [网络智能化有四误区](http://network.51cto.com/art/201908/601245.htm)
+ > 茶余饭后不聊个AI人工智能啥的都觉得自己不是社会人儿，可是对于网络智能化你真的了解吗?你的企业网络是自
+ ## [详解Linux Shell脚本编写技巧，附实例说明](http://os.51cto.com/art/201908/601244.htm)
+ > Linux Shell是一个很难的知识板块。虽然大家都认真学，基本的语法很都掌握，但有需求时，很难直接上手编程
+ ## [SQLite，多个应用程序可以同时访问单个数据库文件吗？](http://database.51cto.com/art/201908/601243.htm)
+ > 多个进程可以同时打开同一个数据库。多个进程可以同时执行SELECT。但是，只有一个进程可以随时对数据库进行
  ## [物联网在教育领域中的重要作用](http://iot.51cto.com/art/201908/601242.htm)
  > 现在，物联网已成功应用于多个行业，如零售、制造业和医疗保健，教育也不例外。物联网在教育领域的引入将产
  ## [注意了！阻碍物联网发展的因素都是哪些？](http://iot.51cto.com/art/201908/601240.htm)
  > 如今的这个社会中，对于制造生产企业来讲，会选择应用越来越多的新兴技术手段来作为发展支撑，而其中物联网
- ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
- > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
- ## [中移动营收净利双下滑或为必然， 5G能否成为新的解药？](http://www.lanjingtmt.com/news/detail/44179.shtml)
+ ## [京东物流Q2实现盈亏平衡，将加大5G等技术布局](http://lanjingtmt.com/news/detail/44181.shtml)
+ > 京东董事局主席兼CEO刘强东在2019年Q2财报电话会议上透露，京东物流经过多年布局，目前已实现了盈亏平衡。而就在今年4月，刘强东曾在内部信中披露，京东物流2018年全年亏损超过2
+ ## [尚品网倒在资金压力下，唯品会寺库们的奢侈品电商出路何在](http://lanjingtmt.com/news/detail/44180.shtml)
+ > 在不到一个月的时间内，老牌奢侈品电商平台尚品网便经历了从“融资进展正常”到突然“融资不顺”而暂停营业的转变，令业界震惊。
+ ## [中移动营收净利双下滑或为必然， 5G能否成为新的解药？](http://lanjingtmt.com/news/detail/44179.shtml)
  > 日前，中国移动发布半年报，营收、净利双双下滑。随着流量红利快速消退和提速降费等政策的推行，简单依靠传统要素投入来推动业绩增长难以为继，行业整体呈现负增长。主营业务压力较大的情况下，
 # 人工智能 
- ## [商城前端从零开始制作](https://blog.csdn.net/zz18256889177/article/details/96121535)
- > 商城前端从零开始制作
- ## [大规模离线计算产品的调研](https://blog.csdn.net/oscarun/article/details/96173812)
- > 大规模离线计算产品的调研
- ## [前端小白学JavaScript](https://blog.csdn.net/what_vb/article/details/96147399)
- > 前端小白学JavaScript
- ## [Choerodon前端环境变量方案](https://blog.csdn.net/Choerodon/article/details/96110390)
- > Choerodon前端环境变量方案
- ## [关于textarea的注意点](https://blog.csdn.net/fangjial/article/details/96572227)
- > 关于textarea的注意点
- ## [创业公司里的程序员需具备这7个特质](https://blog.csdn.net/weixin_44363885/article/details/97135490)
- > 创业公司里的程序员需具备这7个特质
- ## [云计算第一周](https://blog.csdn.net/qq_36999865/article/details/96690846)
- > 云计算第一周
- ## [博客启程随笔](https://blog.csdn.net/wanghong7936/article/details/96592081)
- > 博客启程随笔
- ## [搭建Ambari Hadoop系统实验](https://blog.csdn.net/qq_41614928/article/details/96562208)
- > 搭建Ambari Hadoop系统实验
- ## [【Docker】Docker底层技术应用](https://blog.csdn.net/qq_41614928/article/details/96427267)
- > 【Docker】Docker底层技术应用
- ## [持续集成管理软件Jenkins应用实验](https://blog.csdn.net/qq_41614928/article/details/96558564)
- > 持续集成管理软件Jenkins应用实验
- ## [【Docker】Consul构建集群服务](https://blog.csdn.net/qq_41614928/article/details/96430859)
- > 【Docker】Consul构建集群服务
- ## [小胖亲测，分享3个实用建议，帮助你提升工作效率](https://blog.csdn.net/u012365828/article/details/96830896)
- > 小胖亲测，分享3个实用建议，帮助你提升工作效率
- ## [大数据解决方案-（基础篇）](https://blog.csdn.net/dvfghj/article/details/96599951)
- > 大数据解决方案-（基础篇）
- ## [一名合格前端工程师的进阶指南！](https://blog.csdn.net/coding147/article/details/96967786)
- > 一名合格前端工程师的进阶指南！
+ ## [Atlassian In Action-Jira之二次开发（五）](https://blog.csdn.net/pluto4596/article/details/96279377)
+ > Atlassian In Action-Jira之二次开发（五）
+ ## [【IT资讯】全新编程语言V发布](https://blog.csdn.net/dengjin20104042056/article/details/96426213)
+ > 【IT资讯】全新编程语言V发布
+ ## [“收信人：义士”！时隔72年，非凡来信帮他们回家](https://blog.csdn.net/weixin_45209246/article/details/96586841)
+ > “收信人：义士”！时隔72年，非凡来信帮他们回家
+ ## [聚师网资讯看不到的眼睛](https://blog.csdn.net/weixin_45305362/article/details/96839786)
+ > 聚师网资讯看不到的眼睛
+ ## [华为5G手机，国内首款5G手机，预价7000元左右](https://blog.csdn.net/WoChaotian_/article/details/96837728)
+ > 华为5G手机，国内首款5G手机，预价7000元左右
+ ## [华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到](https://blog.csdn.net/WoChaotian_/article/details/96427708)
+ > 华为Mate 20 Pro迎来重磅福利，专属免费增值服务，知道就是赚到
+ ## [手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些](https://blog.csdn.net/WoChaotian_/article/details/97152958)
+ > 手机上30%的实用功能都被遗忘，赶快了解下实用功能有哪些
+ ## [世界百年未有的大变局下](https://blog.csdn.net/weixin_45209246/article/details/96586562)
+ > 世界百年未有的大变局下
+ ## [手机录音转文字怎么做？3分钟轻松完成录音转文字教程](https://blog.csdn.net/WoChaotian_/article/details/96475135)
+ > 手机录音转文字怎么做？3分钟轻松完成录音转文字教程
+ ## [云杰恒指：7.19恒指期货早盘资讯](https://blog.csdn.net/HXMALL0000014/article/details/96473722)
+ > 云杰恒指：7.19恒指期货早盘资讯
+ ## [进退博弈：恒指7.16号早盘资讯及操作建议](https://blog.csdn.net/L659292998/article/details/96101423)
+ > 进退博弈：恒指7.16号早盘资讯及操作建议
+ ## [资讯｜某大型化工集团定制化内训圆满成功](https://blog.csdn.net/qinghuinanjing123/article/details/96147995)
+ > 资讯｜某大型化工集团定制化内训圆满成功
+ ## [云杰恒指：7.22恒指期货交易资讯复盘](https://blog.csdn.net/HXMALL0000014/article/details/96875453)
+ > 云杰恒指：7.22恒指期货交易资讯复盘
+ ## [每日辣评：资讯类应用排名；OYO应当放缓扩张速度](https://blog.csdn.net/feitianhanxue/article/details/97165537)
+ > 每日辣评：资讯类应用排名；OYO应当放缓扩张速度
+ ## [7月17日科技资讯|首批 8 款 5G 手机获 3C 认证；iPhone6 系列停产；Android Q Beta 5 发布](https://blog.csdn.net/weixin_39786569/article/details/96273839)
+ > 7月17日科技资讯|首批 8 款 5G 手机获 3C 认证；iPhone6 系列停产；Android Q Beta 5 发布
 # PM 
+ ## [头条搜索上线，搜索引擎行业再起风云？](http://www.woshipm.com/it/2706304.html)
+ > 头条搜索网页版悄然上线，slogan为“搜你想搜的”。笔者从头条搜索出发，探究了字节跳动背后的增长困境，并对头条搜索的未来发展发表了自己的看法。古人云，兵马未动，...
+ ## [线上课程 | 新人要画出什么样的 Axure 原型，才算达标？](http://www.woshipm.com/it/2707064.html)
+ > 从事产品工作，有一个必不可少的环节：画原型。画原型，不仅仅是画出满足业务需求的原型页面，更是让浏览者清晰地明白这个项目的背景和业务逻辑，以及整个产品结构，...
  ## [如何开始你的语音交互设计：Persona篇](http://www.chanpin100.com/article/109239)
  > 语音交互将变得越来越普及，越来越智能，大数据和语音识别将更多的去聆听人的发声和口音，并进行多次校对练习，让识别度更精准，更敏捷。那么如何开始设计你的语音交互和产品，我将通过项目复盘对这一部分进行分析讲解。
  ## [年薪20万的产品经理和年薪50万的增长黑客，你想做哪个？](http://www.chanpin100.com/article/109231)
