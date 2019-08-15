@@ -1,7 +1,7 @@
 ---
 title: 2019-08-15 IT News
 copyright: true
-date: 2019-08-15 10:01:02
+date: 2019-08-15 12:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,19 +65,23 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [奔着手机来，看到了华为构筑的智能世界](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=E-s-svMX7CZHIYxSM7Xw2getIXqdy-FDcv8FfYsAOv1pN2kUwSEUpWs6qEFEhzr15kzLH7TwamSNatV7g2sWL*8lk10eG2eoNfvsfDZUYnaL9T5DbWPbY4mJD*N1UfuN&new=1)
- > ——本文作者 张戈“堂客的旧手机，半天都没得反应，恨不得扯起一脚，该换喽，听说华为手机猫撒得很。”这句重庆话翻译过来就是：“我老婆的旧手机，反应太慢恨不得要踢一脚，听说华为手机很是厉害。”听懂重庆...
- ## [讲师介绍|讯石第十八届研讨会演讲嘉宾介绍：飞昂创新王祚栋——国产高速电芯片进展与机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=ph*bMqxjuZS9d2qj5yNlEho1mPZIbbO3PrVLYyIZJA7Gyq410NH1jnnQRZ9Exz0EmtUZBEHQqCGyOIEz5NQ7ntW6AL8EnKGBnAuzIAd9haq5XySJ2GapDdbDkZCJPyZF&new=1)
- > 导读       9月2日—3日，讯石第十八届研讨会将在深圳大中华喜来登酒店六楼宴会厅隆重举办。在本届研讨会上，讯石将与业界知名专家，与大家共同探寻通信市场未来发展趋势。本期文章为您介绍本届讯石研讨会讲师嘉...
- ## [TFboys 演唱会人山人海，可我觉得隔壁的他们更应该被崇拜!](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=eAsslOKEOwW82SL1CARIqzGVZ7tBl5w3cQ9vMzxHKSyw0J9Wwo2UPocRgf3XCg1k*HegdDItqbJ9We592XkSIqHQfo9Wu0RKgIO2aTDIeyFPaPtqaCne*x4lRpvYDTrN&new=1)
+ ## [出海下半场，企业如何才能少交学费?](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=8TtoBaeDa96S4p0ezAze-mYoH2ceeP2iUqrbAqWgshjXlAn7MSdQSvFv5-LD1wGOZV9NNL08RdFiEdb2wRSqljz3PftuML1VBZGwE5UnMBkE9SLdPUiACyI0xly7PM3J&new=1)
+ > （本文阅读时间：10分钟）出海当下中国企业的主旋律。之所以走向海外，是因为中国越来越多的行业在产品、技术以及商业模式上都走向成熟，随着国内市场逐步饱和，中国将优势产业链向海外国家延伸就成为大势所趋。...
+ ## [TFboys 演唱会人山人海，可我觉得隔壁的他们更应该被崇拜!](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=eAsslOKEOwW82SL1CARIqzGVZ7tBl5w3cQ9vMzxHKSzEXlrU5k*gNAi-nZauLq8FCY0Vg0OW8LmMUq1ZXxxLrmOKEt96MfMuVrN3S5GZ*TnzMCO4VsTdx58OHSzTymS-&new=1)
  > “ 机甲的诱惑，扛不住啊扛不住 ”上周末，差评君在现场看完 RoboMaster 机甲大师赛后，这句话就不断的回响在脑海里。。乍看下，RoboMaster 机甲大师赛跟国外的《 机器人大擂台 》有点像，细看来，RoboMaster 里...
- ## [5G的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=97E9yt53v2iq02PBDjFnyfo7wtEIfWSnXw0Txg1MR1BUFR5SZnt-Eo3gJHJqkh3N3Fur*P7CCGZhMzqDY4SDpiGaRxOg0aFbvgegtYQHVU4eGxp-Yj4b*wdzibI1B165&new=1)
+ ## [5G的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=97E9yt53v2iq02PBDjFnyfo7wtEIfWSnXw0Txg1MR1BgiI-*T1weIFlIgKrKRxoNl8CJ66FtINhQeYVURmE2DyIiL3Z94TTpJ8uxwRcgP-e2aF4WI7VrXbKdo0KelMcU&new=1)
  > 编者按：5G现在是社会各界热议的话题。作为通信行业的从业者，掌握比普通民众多一点的知识，除了工作有需要，在生活中也会少些被“问住”的尴尬。为此，我们特邀特约专栏作家归田写了这个5G系列专栏，希望能从多...
- ## [中国联通半年报降收增利，日赚0.38亿](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=UthphVwF41rebLlhQWRWMStpcyUF3KEzTOUZIhf7RbfbFUU2H0y*zi*NHAATz93skkVs1tq5EOTcaVBA5OeO9pc-vRHUAwNR8RIPR8EzOm3C-90SfCvgjv*PqfWvfROz&new=1)
+ ## [疯狂八月?微软又双叒叕发现了四个严重的Windows漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=AM0Cxc*UHJC*y-lyobNE24Q0EkkETy0KipE6jxp*EVV1CXUFzJ5OI3AV1rmkkR36tZRS31htwholeclY3nuYMtVC1ERioTZ*pxCUfeISZVql0uEMF6ZP9Ewnv6t4q5B9&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：加上这四个关键的安全漏洞补丁，微软8月份以来已经发布了89个漏洞的安全补丁，其中25个被评为关键漏洞，64个被评为严重漏洞。据外媒报道，近日，微软...
+ ## [讲师介绍|讯石第十八届研讨会演讲嘉宾介绍：飞昂创新王祚栋——国产高速电芯片进展与机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=ph*bMqxjuZS9d2qj5yNlEho1mPZIbbO3PrVLYyIZJA7yGL8P7EQaETXkDSFoh2I-Y1Q0qqfTzFuGcioIFyw4rHU6i5GfscsgrM6QCBf--YfrJgahQyYChcRDBjWBcCJj&new=1)
+ > 导读       9月2日—3日，讯石第十八届研讨会将在深圳大中华喜来登酒店六楼宴会厅隆重举办。在本届研讨会上，讯石将与业界知名专家，与大家共同探寻通信市场未来发展趋势。本期文章为您介绍本届讯石研讨会讲师嘉...
+ ## [中国联通半年报降收增利，日赚0.38亿](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=UthphVwF41rebLlhQWRWMStpcyUF3KEzTOUZIhf7RbdfPnJuzucbmf2KKMv3SyOf33ajowdoaE-jh5t4w8Gpq-EEaggOTZobc3WlK9pNQvhLzsrDGKeWtkaIlv7VtUVr&new=1)
  > A股权重蓝筹、国内三大电信运营商之一的中国联通在8月14日晚间完成了2019年半年报的披露，报告显示在今年上半年，中国联通实现了营业收入1449.54亿元，同比下降2.8%，归属于上市公司股东的净利润30.16亿元，同比...
- ## [让上云从想法变成现实，AWS优势何在?](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=46duzFrTC*yc1kY5pT60XExe92RjaQEPqzlDpm3v*r37eUjB9HwKNofcfQi6avQ-OZfvujJ5lqBlz-zUj3Toa6UBogyA3cFJTLBa9cc0yLDBt4jf8NNWtZ3MrP7QO01O&new=1)
+ ## [奔着手机来，看到了华为构筑的智能世界](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=E-s-svMX7CZHIYxSM7Xw2getIXqdy-FDcv8FfYsAOv09Ku9hifGtKRsdp4uv8S1ng2r-cM9PhrKBDfcj6F1LNdPgVtIVtw1rno0GE7fe3UJlsDwKaz5EC83zh*MQNzFi&new=1)
+ > ——本文作者 张戈“堂客的旧手机，半天都没得反应，恨不得扯起一脚，该换喽，听说华为手机猫撒得很。”这句重庆话翻译过来就是：“我老婆的旧手机，反应太慢恨不得要踢一脚，听说华为手机很是厉害。”听懂重庆...
+ ## [让上云从想法变成现实，AWS优势何在?](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=46duzFrTC*yc1kY5pT60XExe92RjaQEPqzlDpm3v*r1u3zec6V9JsBL-a6h9qfZ8xuY2PWtKCauGDaXnsNC27tLwwYY5289r8k8h3yedVGNjVoOuPAGxtwYlvAsyEf4n&new=1)
  > 作为全球云计算领域一年一度的行业盛事，AWS全球技术峰会2019近日来到了北京，吸引了数以万计的开发者蜂拥而至，并有数十万人通过网络直播观看了大会。为什么会有这么多的开发者对AWS全球技术峰会趋之若鹜？这是...
- ## [3D Systems公布2019年第二季度财报，业绩下滑11%](http://mp.weixin.qq.com/s?src=11&timestamp=1565834403&ver=1791&signature=uZ3fu7qJZtHDMahJWEWy9XTfptNEZxiuOimkU4R*4s93vX5iRPsJ7u12Wq9-A4nZjkULtmJAPtviTnvn4YvvV-E64RwYtPOe8wJETrvlnpAsnRvnRJyQL7l1EkCtoliK&new=1)
+ ## [3D Systems公布2019年第二季度财报，业绩下滑11%](http://mp.weixin.qq.com/s?src=11&timestamp=1565841603&ver=1791&signature=uZ3fu7qJZtHDMahJWEWy9XTfptNEZxiuOimkU4R*4s*HlmLGYJ00KGlrTXydBgF61yXW-VhH6HpvpEapwPm0I2GJYpA0bget0P*GJ0QdkDhAbWYgGFZuebWWExCK7dCQ&new=1)
  > 领先的3D打印机制造商 3D Systems公司公布了2019年第二季度的财务业绩。在截至2019年6月30日的三个月里，该公司报告总收入从2018年第二季度的1.766亿美元下降11%，至1.573亿美元。随着2019年第二季度业绩的公布
 # IT 技术 
  ## [到底选择SQL还是NoSQL？看这里！](http://database.51cto.com/art/201908/601329.htm)
@@ -96,26 +100,26 @@ categories: IT NEWS
  > 2019中国互联网企业100强榜单：阿里登顶
  ## [Arch Linux比Ubuntu更好吗？](http://os.51cto.com/art/201908/601171.htm)
  > Arch Linux比Ubuntu更好吗？
- ## [华为全面开放HMS，呼吁更多开发者加入全场景智慧新生态中来](http://network.51cto.com/art/201908/601330.htm)
- > 华为希望有更多开发者可以将应用联接到HMS Core上，与华为建立深层次合作关系。华为一方面会努力缩小鸿蒙与
- ## [我国大数据产业发展前景广阔，物联网将成为主要驱动力](http://bigdata.51cto.com/art/201908/601309.htm)
- > 通过研究发现，本轮大数据发展的主要驱动力是互联网的快速普及，但是随着移动终端市场的渗透率逐渐饱和，我
- ## [区块链发票打开税收治理新时代大门](http://blockchain.51cto.com/art/201908/601326.htm)
- > 无需纸质发票，无需专业设备，全程手机自助操作，交易即开票，开票即报销。这是深圳区块链电子发票使用者接
- ## [D炸天的Redis，该如何监控？](http://stor.51cto.com/art/201908/601327.htm)
- > 本文重点讲述Redis的哪些metrics需要重要监控(篇幅有限，不能涵盖所有)，以及我们如何获取这些metrics数据
- ## [一个30岁男人转型码农的平凡之路](http://zhuanlan.51cto.com/art/201908/601324.htm)
- > 今天给大家带来的是一个转行的故事，一个30岁才开始学习编程的小白，资质平平，真正的零基础。
- ## [复盘中国手机历史性崛起：从边缘到未来中心的战略进化](http://mobile.51cto.com/hot-601312.htm)
- > 从全球视角看，中国的智能手机行业已成为一个英雄辈出、活力无限的领域。在这个行业里，大家见过恐龙的灭绝
- ## [华为EMUI10深度解密：分布式技术能力、开放与工具链](http://os.51cto.com/art/201908/601325.htm)
- > EMUI通过元能力实现服务跨设备间调用、迁移，通过分布式综合信息感知平台实现外部设备服务的本地虚拟化、用
- ## [三大安全策略，帮助企业面对网络风险](http://netsecurity.51cto.com/art/201908/601323.htm)
- > 有关数据泄露和漏洞的突发层出不穷，这些数据泄露和漏洞对企业的财务和声誉有着非常大的影响。企业高管似乎
- ## [TCP传输协议中如何解决丢包问题](http://network.51cto.com/art/201908/601322.htm)
- > TCP传输协议中如何解决丢包问题？回答这个问题之前，要考虑TCP协议为什么会丢包，在什么样的情况下会丢包。
- ## [极简操作！3分钟即可实现的 IIS 站点迁移](http://network.51cto.com/art/201908/601320.htm)
- > 为实现负载平衡或者服务器迁移时，我们可能会使用多个Web服务器，也就会需要给多个IIS配置同样的站点和应用
+ ## [如何用一句话激怒一名程序员？](http://news.51cto.com/art/201908/601349.htm)
+ > 受专业、认知的限制，开发人员与其他人都会存在或大或小的鸿沟，正在学习编程的你，也应该了解这一些，这些
+ ## [云计算数据管理的四个组成部分](http://cloud.51cto.com/art/201908/601348.htm)
+ > 鉴于数字业务对企业IT基础设施的要求和压力，企业首席信息官需要对其所拥有的IT技术充满信心，以帮助其组织
+ ## [记一次生产环境卡顿优化过程--大事务并发回滚](http://database.51cto.com/art/201908/601347.htm)
+ > 最近生产环境有这么个现象，平时的订单调度只需要2s内可以出结果，但是多个人调度就会卡住，超过15分钟都没
+ ## [35岁＝工资下坡路？](http://news.51cto.com/art/201908/601346.htm)
+ > 一般情况下，谈到中年危机，多数人脑海中浮现出的会是40岁这道坎，但在广大互联网人那里，这个时间如今已经
+ ## [Java技术干货分享：浅谈订单号生成设计方案](http://developer.51cto.com/art/201908/601345.htm)
+ > 基于数据库 auto_increment_increment 来获取 ID。首先在数据库中创建一张 sequence 表，其中 seq_name 用
+ ## [Web框架的前生今世--从Servlet到Spring mvc到Spring boot](http://developer.51cto.com/art/201908/601344.htm)
+ > 上世纪90年代，随着Internet和浏览器的飞速发展，基于浏览器的B/S模式随之火爆发展起来。最初，用户使用浏
+ ## [十年后，谷歌搜索会变成什么样？](http://news.51cto.com/art/201908/601343.htm)
+ > 这篇文章将讲述搜索引擎的发展历程，从文本搜索到语音搜索，再到 AR/VR、智慧城市，以及搜索引擎的未来……
+ ## [云时代运维转型必读：容器运维模式的五大场景](http://server.51cto.com/Operation-601342.htm)
+ > 其实我挺早就接触Docker和Kubernetes，时间大概在3、4年前吧，但是由于当时所在技术团队的业务模式所限制，
+ ## [从大数据的角度来谈谈运维监控这件事儿](http://news.51cto.com/art/201908/601339.htm)
+ > 做运维的人对监控这件事儿都太熟悉了，但是对于监控这么一件老生常谈的事儿，我们今天换个角度，从大数据的
+ ## [物联网服务平台应当具备5大核心功能](http://iot.51cto.com/art/201908/601338.htm)
+ > 物联网卡如今十分受欢迎，物联网卡已经被广泛应用于各大行业中，如车联网、智慧物流、智能穿戴等。物联网卡
  ## [对不起，我们只要本科出身985、211的！虽然您是985博士，很遗憾](https://blog.csdn.net/qq_15698613/article/details/98639115)
  > 对不起，我们只要本科出身985、211的！虽然您是985博士，很遗憾
  ## [鸿蒙,我是来打你脸的](https://blog.csdn.net/weiqifa0/article/details/99023331)
@@ -146,8 +150,12 @@ categories: IT NEWS
  > 成为高手前必懂的TCP干货
  ## [两亿单身狗](https://blog.csdn.net/googdev/article/details/98685508)
  > 两亿单身狗
- ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
- > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [联想推新形态“无距”笔记本，将在5G终端方面持续发力](http://www.lanjingtmt.com/news/detail/44210.shtml)
+ > 联想集团副总裁、手机事业部总经理常程表示，对即将到来的5G时代，联想手机已做好准备，将在下半年推出5G手机新品，以满足消费者更多样需求。
+ ## [华为荣耀智慧屏开售，京东用户8分钟收货](http://www.lanjingtmt.com/news/detail/44208.shtml)
+ > 上午10：08，第一款搭载华为鸿蒙系统的荣耀智慧屏终端正式上线销售，其中，在京东家电平台上超过30万预约抢购用户。8分18秒后，第一台55英寸的“荣耀智慧屏”被一位京东上海用户顺利
+ ## [消息称阿里正考虑推迟赴港上市，回应称不予置评](http://www.lanjingtmt.com/news/detail/44207.shtml)
+ > 今日有消息称，阿里巴巴集团正在考虑推迟赴港IPO。对此，阿里方面相关人士对记者回应称“不予置评”。
  ## [联想第一财季净利11亿元，同比增长超111%](http://www.lanjingtmt.com/news/detail/44206.shtml)
  > 联想发布的19/20财年第一财季报告显示，季度营收125.12亿美元（约合853亿人民币），同比增长5%；净利润11亿人民币，同比增长超过111%。
  ## [唯品会Q2营收227亿元，同比增9.7%](http://www.lanjingtmt.com/news/detail/44205.shtml)
@@ -155,46 +163,76 @@ categories: IT NEWS
  ## [康佳彩电业务褪色新业务未成气候，品牌困境下如何转型](http://www.lanjingtmt.com/news/detail/44204.shtml)
  > 在彩电行业寒冬之际，尽管康佳新业务还没有带来可观的利润，但康佳这季的营收增幅尚可。业内专家表示，以黑电为主业的家电企业面临诸多困局，未来康佳的转型逻辑能否为自己以及同行企业提供了一
 # 人工智能 
- ## [\[程序人生\]程序员的一生如何保障？](https://blog.csdn.net/ZYD45/article/details/96482642)
- > \[程序人生\]程序员的一生如何保障？
- ## [FFmpeg学习之 一 （音视频理论知识）](https://blog.csdn.net/kyl282889543/article/details/96490778)
- > FFmpeg学习之 一 （音视频理论知识）
- ## [腾讯视频播放器接入](https://blog.csdn.net/qq_36692282/article/details/96433424)
- > 腾讯视频播放器接入
- ## [面试官：“你为什么离开上家公司？”怎么回答？](https://blog.csdn.net/weixin_44363885/article/details/97135578)
- > 面试官：“你为什么离开上家公司？”怎么回答？
- ## [小胖亲测，分享3个实用建议，帮助你提升工作效率](https://blog.csdn.net/u012365828/article/details/96830896)
- > 小胖亲测，分享3个实用建议，帮助你提升工作效率
- ## [大数据时代已来，开发者该如何出击？](https://blog.csdn.net/fbnggnh/article/details/96994732)
- > 大数据时代已来，开发者该如何出击？
- ## [程序人生|毕业一年有感](https://blog.csdn.net/nobody_1/article/details/96801942)
- > 程序人生|毕业一年有感
- ## [关系型数据库－MySQL进阶（三）数据分片](https://blog.csdn.net/weixin_44985068/article/details/97099691)
- > 关系型数据库－MySQL进阶（三）数据分片
- ## [数据库系统概论 1.绪论](https://blog.csdn.net/weixin_43812140/article/details/97027575)
- > 数据库系统概论 1.绪论
- ## [Android音视频系列（一）：基本概念扫盲](https://blog.csdn.net/u011315960/article/details/96862786)
- > Android音视频系列（一）：基本概念扫盲
- ## [Linux下MySQL导入excel文件](https://blog.csdn.net/weixin_42306122/article/details/96431196)
- > Linux下MySQL导入excel文件
- ## [音视频开发基础学习-----视频与音频原始格式](https://blog.csdn.net/u014472011/article/details/96444816)
- > 音视频开发基础学习-----视频与音频原始格式
- ## [Python爬虫学习教程，批量爬取下载抖音视频](https://blog.csdn.net/qq_45327272/article/details/96100537)
- > Python爬虫学习教程，批量爬取下载抖音视频
- ## [非关系型数据库－Redis 进阶（三）主从复制与哨兵服务　常用数据结构](https://blog.csdn.net/weixin_44985068/article/details/97100245)
- > 非关系型数据库－Redis 进阶（三）主从复制与哨兵服务　常用数据结构
- ## [医药进销存管理系统](https://blog.csdn.net/weixin_42687038/article/details/97136808)
- > 医药进销存管理系统
+ ## [大数据框架Hadoop MapReduce架构](https://blog.csdn.net/mnhjyus/article/details/96504846)
+ > 大数据框架Hadoop MapReduce架构
+ ## [Ruff物联网开发套件轻松入门](https://blog.csdn.net/u010089686/article/details/96485378)
+ > Ruff物联网开发套件轻松入门
+ ## [NoSQL数据库－redis集群搭建](https://blog.csdn.net/weixin_44985068/article/details/97021758)
+ > NoSQL数据库－redis集群搭建
+ ## [智慧停车(四) IOT选型-阿里云物联网](https://blog.csdn.net/u012898231/article/details/96149577)
+ > 智慧停车(四) IOT选型-阿里云物联网
+ ## [关系型数据库-MySQL进阶（二）读写分离与多实例](https://blog.csdn.net/weixin_44985068/article/details/97099534)
+ > 关系型数据库-MySQL进阶（二）读写分离与多实例
+ ## [数据库并发操作的有关知识](https://blog.csdn.net/weixin_43393412/article/details/96164370)
+ > 数据库并发操作的有关知识
+ ## [Druid架构讲解](https://blog.csdn.net/liaynling/article/details/96473842)
+ > Druid架构讲解
+ ## [数据库：数据库练习](https://blog.csdn.net/Dreaming5498/article/details/96450326)
+ > 数据库：数据库练习
+ ## [关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复](https://blog.csdn.net/weixin_44985068/article/details/97035639)
+ > 关系型数据库RDBMS -MySQL基础入门（五）数据备份与恢复
+ ## [微服务架构的好处和弊端](https://blog.csdn.net/zhanglu0302/article/details/96460926)
+ > 微服务架构的好处和弊端
+ ## [物联网卡信号不稳定，该如何解决？](https://blog.csdn.net/weixin_45075467/article/details/96482944)
+ > 物联网卡信号不稳定，该如何解决？
+ ## [物联网、工业互联网大数据的特点](https://blog.csdn.net/jtao1735/article/details/96564223)
+ > 物联网、工业互联网大数据的特点
+ ## [Kafka基本原理和Kafka架构](https://blog.csdn.net/qq_42575247/article/details/96898412)
+ > Kafka基本原理和Kafka架构
+ ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
+ > 数据库实验——数据库数据更新及查询
+ ## [谈谈KAFKA的架构以及这种架构的优势](https://blog.csdn.net/qq32933432/article/details/96474985)
+ > 谈谈KAFKA的架构以及这种架构的优势
 # PM 
- ## [IP 的中年危机 | 米老鼠 91 岁了，迪士尼是怎么给它「续命」的？](http://www.woshipm.com/marketing/2716533.html)
- > 91 岁的米奇依旧童颜，78 岁的小飞象仍然可爱。迪士尼是如何保护这些像根一样宝贵的 IP 的？它们又将度过特有的 IP 中年危机？毫无疑问，迪士尼是 20 世纪以来最伟大...
- ## [从0设计App（2）：竞品分析-吃透3款产品看职场在线学习平台](http://www.woshipm.com/pd/2710311.html)
- > 上回进行了市场分析之后，我们有了一个较为明确的市场方向-职场在线教育。笔者将从现有市场的竞争格局中发现机会，看到玩家尚未发现的机会点，进一步明确我们要做的事。...
- ## [文案的自我修养（三）](http://www.woshipm.com/copy/2714206.html)
- > 阅读此篇文章的人，即便你是文案新手，也能看懂并写出及格的文案。好文案是有标准的。不同的人标准不一样，取决于他的经历和格局。举个例子：一个长期做地产的人和一...
- ## [线下课程 | 总转化率不到千分之一，效果惨淡背后，缺了怎样的底层思维？](http://www.woshipm.com/active/2708057.html)
- > 18万的曝光量总转化不到千分之一：“来来回回铺渠道，越做效果越差，年中大促活动18万曝光量，效果惨淡，总转不到千分一”，一电商运营经理如是抱怨，“问题具体出在哪，...
  ## [9月广州产品运营大会，一起来聊聊产品新思维，运营新机会！](http://www.woshipm.com/active/2714986.html)
  > 傅盛老师曾说过：“95%的人都处在‘不知道自己不知道’的状态，只有自我否定，保持空杯心态，一个人才有可能真正成长，实现跨越。”不管是产品经理，还是运营人，我们的工...
+ ## [内容平台新变化：问答社区走向知识平台](http://www.woshipm.com/it/2709713.html)
+ > 百度和快手联手投资知乎后，内容领域似乎又有了不小的变化，而内容平台将何如何从也是大众热切关注的话题。8月12日，知乎宣布完成F轮融资，总额4.34亿美元 ，由百度和...
+ ## [线下课程 | 运营负责人，从执行到管理角色转变时最关键的是什么？](http://www.woshipm.com/active/2711552.html)
+ > 凌晨1点了，何鑫还泡在公司加班。看了最近一个月的月度运营报告，他心绪烦乱，闷闷不乐地在阳台上抽烟！7月新增注册用户环比上月提升15%，活跃用户下降20%，转化数据...
+ ## [如何发现合适的市场机会？](http://www.woshipm.com/it/2716204.html)
+ > 相信你在营销工作中肯定面临重要的战略选择——发现合适的市场机会。在新产品推出或者在市场活动策划中，一旦抓住了新的市场风口机会，往往能够顺风顺水，在竞争红海中脱...
+ ## [内容创业：切开市场的三板斧](http://www.woshipm.com/operate/2716893.html)
+ > 在内容创业领域，有很多人前赴后继地入场，但是能斩获胜利果实的人始终只是少数。要想在内容创业领域占领市场，就要掌握内容创业的三板斧——定位/流量/变现。打开这篇...
+ ## [首页改版怎么做？我有4次经验要与你分享](http://www.woshipm.com/pd/2713878.html)
+ > 首页改版怎么改？作者从本身的工作实践出发，分享了自己的一套改版方法论，供大家参考学习。01 写在前面从业以来，悠悠数载，虽然没什么成绩，但还是做了许多事情。...
+ ## [面试如何谈薪资？让你拿到高薪、不贱卖自己的谈钱策略](http://www.woshipm.com/zhichang/2716834.html)
+ > 你的能力，你的现场表现发挥，当然都会影响到你可能拿到的薪资。但今天，我们不曲线救国，就从与薪资本身出发，通过增强“谈论薪资”的能力，不再贱卖自己，快速拿到更高...
+ ## [K12在线教育的春天还有多远？](http://www.woshipm.com/it/2712173.html)
+ > 对于K12在线教育而言，整个市场的前景以及生存空间都不容小觑，但是纵观行业发展，K12在线教育还有很长的路要走。K12在线教育是块拥有千亿美元市值的大蛋糕，谁都想切...
+ ## [中国网红出海，需要了解什么？](http://www.woshipm.com/it/2716576.html)
+ > 报告来自皮尤研究院（Pew Research Center）在7月底发布的一份对YouTube上4万多名粉丝数超25万的博主的研究，希望给想要出海的创作者一些启发。“在YouTube上，@办公室...
+ ## [从宏观到细节，快速掌握B端产品新业务](http://www.woshipm.com/it/2715776.html)
+ > 对B端产品经理来说，能够快速掌握业务也是一项必备技能，那具体如何掌握呢？笔者认为这几点很关键：场景、业务走访、产品分析、竞品分析、业务梳理。作为B端产品，我...
+ ## [滴滴半场战事：运力争夺的硝烟](http://www.woshipm.com/it/2716605.html)
+ > 近日，上海市交通委、市通信管理局的联合检查人员对“滴滴”、“美团”、“享道”、“首汽”等互联网出行平台进行了上户执法检查。“滴滴打车”平台在“吃到”550万罚单后，仍在为无...
+ ## [一款好的产品，这3点必须有！](http://www.woshipm.com/operate/2712442.html)
+ > 笔者以共享单车市场的代表：ofo、摩拜和哈罗三家为例，探讨了好产品的定义标准并阐述了自己的观点。2016年开始，共享单车开始火爆，ofo最先进入我的视野，到后面的摩...
+ ## [IP 的中年危机 | 米老鼠 91 岁了，迪士尼是怎么给它「续命」的？](http://www.woshipm.com/marketing/2716533.html)
+ > 91 岁的米奇依旧童颜，78 岁的小飞象仍然可爱。迪士尼是如何保护这些像根一样宝贵的 IP 的？它们又将度过特有的 IP 中年危机？毫无疑问，迪士尼是 20 世纪以来最伟大...
+ ## [如何策划一场App推广活动方案](http://www.chanpin100.com/article/109229)
+ > App的推广活动是为了在短时间内达到目标而开展的具有爆发性的运营手段，是互联网产品运营当中重要的运营手段之一，是所有App推广运营人员职业生涯当中必须熟练掌握的技能。活动运营一般分三步走：策划、执行和总结。而本文主要跟大家谈活动策划。
+ ## [7大性感拓展组件赋能你的小程序](http://www.chanpin100.com/article/109246)
+ > 聊聊目前微信小程序使用度和关注度比较高的7个拓展组件及2个插件服务。
+ ## [2019中国智能音箱行业深度发展分析](http://www.chanpin100.com/article/109254)
+ > 智能音箱以其天然的语音交互优势成为现阶段智能家居控制中心。国内巨头纷纷涉足智能音箱领域，目前阿里巴巴、小米和百度三家销售份额接近90%，市场进入启动期。智能音箱玩家都希望通过科技力量帮助人类更好发展。开放又闭环的大生态有助于企业更好的实现长期发展。
+ ## [一文看懂词干提取Stemming和词形还原Lemmatisation（概念、异同、算法）](http://www.chanpin100.com/article/109260)
+ > 词干提取和词形还原是英文语料预处理中的重要环节。虽然他们的目的一致，但是两者还是存在一些差异。本文将介绍他们的概念、异同、实现算法等。
+ ## [产品经理的中年危机，我们该如何度过？](http://www.chanpin100.com/article/109259)
+ > 你没老，只是这个世界太快。
+ ## [第一次做小程序？看这一篇就够了！（产品设计篇）](http://www.chanpin100.com/article/109253)
+ > 了解小程序在产品设计上的「优势」与「限制」，能够帮助大家更好地迈出设计小程序的“第一步”。
+ ## [为什么说，8K将借5G东风进入发展快车道？](http://www.chanpin100.com/article/109252)
+ > 相比于“前辈”4K的诸多不顺，8K与5G的初次相遇，就已在毫无保留地“成就彼此”。从初始条件上，踏着5G来临的东风，8K的发展更加一帆风顺。
 
     
