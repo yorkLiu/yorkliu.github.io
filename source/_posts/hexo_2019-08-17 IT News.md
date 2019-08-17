@@ -1,21 +1,21 @@
 ---
 title: 2019-08-17 IT News
 copyright: true
-date: 2019-08-17 08:01:00
+date: 2019-08-17 10:01:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [研究人员开发可以分工合作的仿生蚂蚁机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1566000003&ver=1795&signature=l9-gWkUI9l8r-TS2kCErSK6-OCq0ZU8zJTj7VT8rs0GD-M4POf-QS-GH6Ca-9ga8SiAU4x45mliGuKTe8oj9NVQ6hGKxqQt3FeimC2SQtk2lN33u1Jw2pWlEhAlU4eXL&new=1)
+ ## [研究人员开发可以分工合作的仿生蚂蚁机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1566007203&ver=1795&signature=l9-gWkUI9l8r-TS2kCErSK6-OCq0ZU8zJTj7VT8rs0GD-M4POf-QS-GH6Ca-9ga8VdaASvGRCJfc3mQnPQiTAuB4FQGuJklFxBZzo2B5I9vbM1nMcP6SKwbL7tcKIuOw&new=1)
  > Photo: Marc Delachaux/EPFLEPFL&x27;s jumping robots, called Tribots, can be built on a flat sheet, and then folded into a tr
- ## [统一的软件无线电平台加速无线技术的开发与测试](http://mp.weixin.qq.com/s?src=11&timestamp=1566000003&ver=1795&signature=apb5q*zOinZEf5l1*vzYiC47eDS2zQAK-cAnrro7KkYrvluQc5gARBZsC8m6*Q*DRdbW4Q2MW0JOeO-jdbr6BT2eiBvUTjMiiB8xb9VFZk2n768Y52b9f1qvoLkzVcJR&new=1)
- > 概览如今的无线通信领域可谓是&quot;百花齐放，百家争鸣&quot;,层出不穷的无线通信标准令人眼花缭乱；同时，现代的电子产品往往又集成了多种不同的无线标准。这些都给射频设计和测试的工程师带来了前所未有的挑战，如何应...
- ## [主流媒体“刷屏”!央视网蝉联互联网企业百强榜](http://mp.weixin.qq.com/s?src=11&timestamp=1566000003&ver=1795&signature=I*krymYf1kq6uJ-GHOIQngCXlAEfmXdbFpCU5aGN4OANbiErdxE3keicTQVnttn2JwdqBg2ruYfTfqOoFH5Km*WCedLNTgnMU-i9WzcEkqEsCd5xZtnU9Q0xEa2e8sdf&new=1)
- > 内容创作释放的生产力、技术更新构筑的支撑力以及媒体融合搭建的新生态，都是助力央视网等主流新媒体阔步前行的重要驱动力。作为整个互联网行业的重头戏，每年的中国互联网企业百强评选备受业内外关注。8月14日...
- ## [\[卓越上海 5G看移动\]上海移动首位5G用户诞生，月享100GB!](http://mp.weixin.qq.com/s?src=11&timestamp=1566000003&ver=1795&signature=v2xy*KXJz879OFarimi2fl7vUhy3AhccW05*RG8KHa85blYXaqP0r3MkFv3-OBZ7MU8dYfR1JAPx*Bz3A4VJfROLU7DeYCZPa0ENhWgcyMXFDTzPDIQhTwoz2L2n8zQ8&new=1)
+ ## [\[卓越上海 5G看移动\]上海移动首位5G用户诞生，月享100GB!](http://mp.weixin.qq.com/s?src=11&timestamp=1566007203&ver=1795&signature=v2xy*KXJz879OFarimi2fl7vUhy3AhccW05*RG8KHa85blYXaqP0r3MkFv3-OBZ7SydWQvK6oVNrHVpZ4T-XOIydT4B8uijWw6H45KjsgzMiAzY9mdcI1v5gRGoiJHkH&new=1)
  > 大家对于5G手机的热情可谓十分高涨，作为当下如火如荼的热点，最近也是频上热搜，成为热议话题，大家都伸长着脖子翘首以盼。就在今天！8月16日！华为Mate20X5G手机在上海移动营业厅正式开启首销！（首销现场）在...
- ## [5G套餐资费公布，网友大呼用不起!](http://mp.weixin.qq.com/s?src=11&timestamp=1566000003&ver=1795&signature=0oD-z-BzmVPRE2WU7sKukUANtKuSonnGX5woUvSpKp1iOCrr7baNbh8k9MGn*BU3FyrtCTXX9Q0nEdrNPtVYTskVsze6t5fiXJray7J2WvFHjgcAOda6DuKB3kv7yCji&new=1)
+ ## [5G套餐资费公布，网友大呼用不起!](http://mp.weixin.qq.com/s?src=11&timestamp=1566007203&ver=1795&signature=0oD-z-BzmVPRE2WU7sKukUANtKuSonnGX5woUvSpKp1iOCrr7baNbh8k9MGn*BU3hYSRWLtO5lzN-UvYaYeJIkXd7P8X3YiqUN84j-OcyHEjYkQ*FP0fVXk7IOAYmZEw&new=1)
  > 随着5G网络在主要城市逐步覆盖，以及各厂商的5G手机相继开售，5G离我们的生活已经越来越近。5G手机都开售了，5G套餐也得跟上，目前三大运营商都开放了自家的5G体验套餐，用户可免费申请。这类套餐每月差不多有10...
+ ## [主流媒体“刷屏”!央视网蝉联互联网企业百强榜](http://mp.weixin.qq.com/s?src=11&timestamp=1566007203&ver=1795&signature=I*krymYf1kq6uJ-GHOIQngCXlAEfmXdbFpCU5aGN4OANbiErdxE3keicTQVnttn2-LoqezIE7rOE9qv36bGlj8KSUgjNdVxBjcEvLWUMRkwrrZkDRFU8reuwPbTN0HWn&new=1)
+ > 内容创作释放的生产力、技术更新构筑的支撑力以及媒体融合搭建的新生态，都是助力央视网等主流新媒体阔步前行的重要驱动力。作为整个互联网行业的重头戏，每年的中国互联网企业百强评选备受业内外关注。8月14日...
+ ## [统一的软件无线电平台加速无线技术的开发与测试](http://mp.weixin.qq.com/s?src=11&timestamp=1566007203&ver=1795&signature=apb5q*zOinZEf5l1*vzYiC47eDS2zQAK-cAnrro7KkYrvluQc5gARBZsC8m6*Q*Dun0FHGNB*DBT36seyh-fjbe40KUFMHfLno7ei6ABMk6h42QGU5n5J8uX6DwytsCw&new=1)
+ > 概览如今的无线通信领域可谓是&quot;百花齐放，百家争鸣&quot;,层出不穷的无线通信标准令人眼花缭乱；同时，现代的电子产品往往又集成了多种不同的无线标准。这些都给射频设计和测试的工程师带来了前所未有的挑战，如何应...
 # IT 技术 
  ## [Kubernetes容器云平台建设实践](http://cloud.51cto.com/art/201908/601421.htm)
  > Kubernetes容器云平台建设实践
@@ -33,36 +33,36 @@ categories: IT NEWS
  > 必读 | 开发者 AI 转型指南
  ## [造假露馅！曾创下融资纪录的科技公司，被曝用印度码农冒充AI](http://news.51cto.com/art/201908/601377.htm)
  > 造假露馅！曾创下融资纪录的科技公司，被曝用印度码农冒充AI
+ ## [string resource id 0x0](https://blog.csdn.net/qq_33210042/article/details/99676353)
+ > string resource id 0x0
+ ## [刺激！我误删了100万条线上数据](https://blog.csdn.net/weixin_41666747/article/details/97587266)
+ > 刺激！我误删了100万条线上数据
+ ## [鸿蒙,我是来打你脸的](https://blog.csdn.net/weiqifa0/article/details/99023331)
+ > 鸿蒙,我是来打你脸的
  ## [看懂了这套书，你就看懂了程序的灵魂。](https://blog.csdn.net/turingbooks/article/details/96936613)
  > 看懂了这套书，你就看懂了程序的灵魂。
  ## [百度虽然没人救得了，但是技术还是……](https://blog.csdn.net/loongggdroid/article/details/96401328)
  > 百度虽然没人救得了，但是技术还是……
- ## [【计算机类】大学生计算机专业常用工具汇总](https://blog.csdn.net/dengjin20104042056/article/details/97492042)
- > 【计算机类】大学生计算机专业常用工具汇总
- ## [刺激！我误删了100万条线上数据](https://blog.csdn.net/weixin_41666747/article/details/97587266)
- > 刺激！我误删了100万条线上数据
- ## [程序员战力图鉴](https://blog.csdn.net/xxxlxy2008/article/details/99379554)
- > 程序员战力图鉴
- ## [鸿蒙,我是来打你脸的](https://blog.csdn.net/weiqifa0/article/details/99023331)
- > 鸿蒙,我是来打你脸的
- ## [感觉丧的时候，读一读曾国藩](https://blog.csdn.net/mogoweb/article/details/99377412)
- > 感觉丧的时候，读一读曾国藩
- ## [GitHub开源14.5万行阿波罗11号源代码](https://blog.csdn.net/m0_38106923/article/details/96610378)
- > GitHub开源14.5万行阿波罗11号源代码
- ## [【收藏】2020届互联网公司校招时间总表](https://blog.csdn.net/qq_15698613/article/details/96428388)
- > 【收藏】2020届互联网公司校招时间总表
- ## [不懂技术却能做到月入20万美元，差距在哪里](https://blog.csdn.net/wo541075754/article/details/97377963)
- > 不懂技术却能做到月入20万美元，差距在哪里
+ ## [SpringBoot中的filter](https://blog.csdn.net/niugang0920/article/details/96602713)
+ > SpringBoot中的filter
  ## [Windows为什么越用越慢而Linux却不会？](https://blog.csdn.net/dog250/article/details/97290060)
  > Windows为什么越用越慢而Linux却不会？
  ## [每个程序员都可以「懂」一点 Linux](https://blog.csdn.net/weixin_43846997/article/details/98916020)
  > 每个程序员都可以「懂」一点 Linux
- ## [互联网50年：从信息高速公路到超级智能的进化](https://blog.csdn.net/zkyliufeng/article/details/97252229)
- > 互联网50年：从信息高速公路到超级智能的进化
+ ## [程序员战力图鉴](https://blog.csdn.net/xxxlxy2008/article/details/99379554)
+ > 程序员战力图鉴
+ ## [不懂技术却能做到月入20万美元，差距在哪里](https://blog.csdn.net/wo541075754/article/details/97377963)
+ > 不懂技术却能做到月入20万美元，差距在哪里
+ ## [感觉丧的时候，读一读曾国藩](https://blog.csdn.net/mogoweb/article/details/99377412)
+ > 感觉丧的时候，读一读曾国藩
  ## [一个野生程序员的自我修养](https://blog.csdn.net/u012702547/article/details/99288677)
  > 一个野生程序员的自我修养
- ## [「前端发动机」从 bind 聊到 curry （柯里化）](https://blog.csdn.net/qq_41875664/article/details/97079257)
- > 「前端发动机」从 bind 聊到 curry （柯里化）
+ ## [爬取高清无版权美图](https://blog.csdn.net/luoluopan/article/details/99375290)
+ > 爬取高清无版权美图
+ ## [为什么HTTPS比HTTP更安全?](https://blog.csdn.net/howgod/article/details/89596638)
+ > 为什么HTTPS比HTTP更安全?
+ ## [Webots中使用大疆“御”2专业版-DJI-Mavic 2 Pro进行无人机仿真实践](https://blog.csdn.net/ZhangRelay/article/details/99670331)
+ > Webots中使用大疆“御”2专业版-DJI-Mavic 2 Pro进行无人机仿真实践
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [主链 100 强榜单出炉, XRP 竟与比特币比肩; 以太坊每周产生 1248 种新代币 | 数据周榜...](https://blog.csdn.net/csdnnews/article/details/99669675)
@@ -74,37 +74,43 @@ categories: IT NEWS
  ## [刺激！Java连降，Python霸榜，薪资116K$的Python人！](https://blog.csdn.net/csdnnews/article/details/99676390)
  > 事情起因是这样的：编程语言流行指数(PYPL)排行榜近日公布了2019年8月份榜单。在最新一期榜单上，Python的份额高达28.73％，再次蝉联第一，并且增长4.5%...
 # 人工智能 
- ## [常运用于游戏引擎的FreeList实现](https://blog.csdn.net/weixin_44312858/article/details/96787788)
- > 常运用于游戏引擎的FreeList实现
- ## [关系型数据库RDBMS -MySQL基础入门（三）数据分片](https://blog.csdn.net/weixin_44985068/article/details/97035149)
- > 关系型数据库RDBMS -MySQL基础入门（三）数据分片
- ## [菊风云 | 音视频社交崛起的背后](https://blog.csdn.net/weixin_44669196/article/details/96839491)
- > 菊风云 | 音视频社交崛起的背后
- ## [React Native实现仿抖音视频列表(滑动切换)](https://blog.csdn.net/qq_38356174/article/details/96439456)
- > React Native实现仿抖音视频列表(滑动切换)
- ## [好用的音视频剪辑软件综述](https://blog.csdn.net/qq_43173244/article/details/96476689)
- > 好用的音视频剪辑软件综述
- ## [阿里巴巴-游戏开发面经](https://blog.csdn.net/weixin_39139505/article/details/96625548)
- > 阿里巴巴-游戏开发面经
- ## [矩阵变换向量的解释](https://blog.csdn.net/weixin_43284188/article/details/97134824)
- > 矩阵变换向量的解释
- ## [数据库实验——数据库数据更新及查询](https://blog.csdn.net/qq_43776450/article/details/96708886)
- > 数据库实验——数据库数据更新及查询
- ## [我的游戏开发史（一）](https://blog.csdn.net/qq_27379101/article/details/96471419)
- > 我的游戏开发史（一）
- ## [Unity 实现Image中Fill Amount的平滑增减效果（进度条为例）](https://blog.csdn.net/qq_42440767/article/details/96491390)
- > Unity 实现Image中Fill Amount的平滑增减效果（进度条为例）
- ## [一个主学Unity、很少接触C++、接触过蓝图的人通过模板的代码对虚幻C++的简单探索——02.完善角色类](https://blog.csdn.net/ultramansail/article/details/97094440)
- > 一个主学Unity、很少接触C++、接触过蓝图的人通过模板的代码对虚幻C++的简单探索——02.完善角色类
- ## [【Linux】基于Mplayer开源多媒体库的音视频播放器](https://blog.csdn.net/zhong_senvi/article/details/96567620)
- > 【Linux】基于Mplayer开源多媒体库的音视频播放器
- ## [数据库的竖转横（菜鸟小白第一次发）](https://blog.csdn.net/weixin_45326606/article/details/96473811)
- > 数据库的竖转横（菜鸟小白第一次发）
- ## [音视频码率的计算](https://blog.csdn.net/LS7011846/article/details/96724472)
- > 音视频码率的计算
- ## [Android 音频录音与播放](https://blog.csdn.net/Android_SE/article/details/97146580)
- > Android 音频录音与播放
+ ## [区块链技术原理是怎样的？](https://blog.csdn.net/Gendan5/article/details/97136255)
+ > 区块链技术原理是怎样的？
+ ## [微服务架构的好处和弊端](https://blog.csdn.net/zhanglu0302/article/details/96460926)
+ > 微服务架构的好处和弊端
+ ## [区块链的实际应用](https://blog.csdn.net/Kryskalqiqi0321/article/details/96968199)
+ > 区块链的实际应用
+ ## [90G【机器学习】程序算法干货重磅来袭，附下载~](https://blog.csdn.net/qq_40558336/article/details/97007724)
+ > 90G【机器学习】程序算法干货重磅来袭，附下载~
+ ## [Druid架构以及数据存储](https://blog.csdn.net/huaishu/article/details/96987055)
+ > Druid架构以及数据存储
+ ## [架构杂谈《六》](https://blog.csdn.net/a1022560838/article/details/96862045)
+ > 架构杂谈《六》
+ ## [人工智能技术拐点来临 未来将如何发展](https://blog.csdn.net/weixin_45427920/article/details/96480141)
+ > 人工智能技术拐点来临 未来将如何发展
+ ## [数据治理架构](https://blog.csdn.net/qq_29649547/article/details/97002050)
+ > 数据治理架构
+ ## [mysql的备份和主从架构](https://blog.csdn.net/syt124416/article/details/97137021)
+ > mysql的备份和主从架构
+ ## [人工智能原理学习笔记](https://blog.csdn.net/qq_41989868/article/details/96641239)
+ > 人工智能原理学习笔记
+ ## [朋友还是敌人：五个问题概述人工智能的未来](https://blog.csdn.net/OUNENGZK/article/details/96475897)
+ > 朋友还是敌人：五个问题概述人工智能的未来
+ ## [在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点](https://blog.csdn.net/weixin_43830887/article/details/96835533)
+ > 在新加坡成立基金会做ICO交易所合规白皮书你应该知道的几个要点
+ ## [大数据框架Hadoop MapReduce架构](https://blog.csdn.net/mnhjyus/article/details/96504846)
+ > 大数据框架Hadoop MapReduce架构
+ ## [区块链市场热度持续升温 各企业关注区块链技术领域](https://blog.csdn.net/weixin_44172023/article/details/96975725)
+ > 区块链市场热度持续升温 各企业关注区块链技术领域
+ ## [人工智能：金融科技发展的新动力](https://blog.csdn.net/weixin_45427920/article/details/96480055)
+ > 人工智能：金融科技发展的新动力
 # PM 
+ ## [线上课程丨数据分析不是“做统计”，老板更关心如何驱动增长](http://www.woshipm.com/active/2719179.html)
+ > “ 我快要被逼疯了 … ”特别是：每次开周会，要统计分析推广了哪些渠道，预估的目标是多少，完成了多少，达成预期效果和没有完成目标的原因是什么的时候当数据...
+ ## [精细化用户增长案例：低频高客单长决策下的优惠券玩法](http://www.woshipm.com/marketing/2725091.html)
+ > 本文从优惠券设计的本质和具体案例两个模块展开，希望能够给大家带来一些收获。交易类产品主要在三个维度去考量，交易频次、客单价大小、决策路径长短。零售类（京东...
+ ## [从0设计App（3）：用户访谈造就产品灵魂（下）](http://www.woshipm.com/pd/2710633.html)
+ > 上一篇文章，我们讨论了问卷调查，并通过问卷帮助我们锁定了目标用户（初步用户画像）。接下来为了“验证”我们的判断，我们需要根据假定的用户画像寻找几名用户聊一聊。...
  ## [10分钟了解微信分账|微信生态下的最优资金清算方案](http://www.chanpin100.com/article/109271)
  > 微信分账即微信推出的交易资金再分配产品，收款后按照平台的业务规则，无需中转直接进行资金分配；主要用于服务商帮助特约商户完成订单收单后的资金分配。
  ## [对于App来说，推送（push）是必需品吗？](http://www.chanpin100.com/article/109270)
