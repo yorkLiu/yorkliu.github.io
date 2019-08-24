@@ -1,21 +1,21 @@
 ---
 title: 2019-08-24 IT News
 copyright: true
-date: 2019-08-24 09:00:53
+date: 2019-08-24 10:00:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [80 余家参展商：BCS 2019 盛况空前](http://mp.weixin.qq.com/s?src=11&timestamp=1566608403&ver=1809&signature=AG5OUeS8M*2n0zGP-yyl2rS4iYwZu5KwB97tttcsangxJIGSQnG*EpLYpNoChASY2X2*tH3-EnJCkw1KcBJENsBhuSirfiUs5cJ4sniM9n*5ZoTeOfsxJYRqXCj6-DPE&new=1)
- > 8 月21 -23日，2019 北京网络安全大会 (BCS 2019) 在北京国家会议中心盛大开幕。本次会议约有 80 余家参展企业。无论是企业总数，还会所属领域，都是最多、最为丰富的一届。安全牛分析师连续走访、沟通多家安全...
- ## [比亚迪明年推新铁锂电池丨惠普发布Q3财报\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1566608403&ver=1809&signature=yOH6o42ZvY6NOfryjNSvor*OOZ9cSCgOZHJzOrQ4qjYiSARPNq9MYTdhNt1sGcnrbl3M6vegaKmegR1JyXAqMQArTnx0n9*hNsybVicdb-pS1BSN9R2S183Tafg*1yV8&new=1)
- > 8月23日丨周五【Do说】编辑 | 赵艾虎比亚迪明年推新铁锂电池：体积能量密度升50%，成本降30%比亚迪将于明年5-6月份推出的全新一代铁锂电池，体积比能量密度将提升50%，寿命长达8年120万公里，成本还可以节约30%...
- ## [丰田供应链招商!车联网行业之星：华云网科技](http://mp.weixin.qq.com/s?src=11&timestamp=1566608403&ver=1809&signature=WPxU5tzbaV5rQfD5hffl7gUb2Xn6oOFVEXE65FXxEjYb51plquLPKcgLyHThoZIRJvGqe5j6PzLqprtEqbAoo4IrxnDxzZ4gT-5eix8cBVW5*4ZeR8lj1PZHZHm-Qirv&new=1)
+ ## [丰田供应链招商!车联网行业之星：华云网科技](http://mp.weixin.qq.com/s?src=11&timestamp=1566612003&ver=1809&signature=WPxU5tzbaV5rQfD5hffl7gUb2Xn6oOFVEXE65FXxEjYCEn7kUd2fxu761oF-M2FsFedZoaAtoKmT3SV80lDCxAzxPM8CNh75FYEng5kel0RwJhDVHpeX0DrKF2BTRWJ2&new=1)
  > 智能设备+AI的组合一直以来收到行业人士关注，而丰田硬蛋智能汽车生态中，就有一家实力相当亮眼的企业 - 深圳华云网科技有限公司。（丰田硬蛋智能汽车生态：http://toyota.ingdan.com）深圳华云网科技有限公司是...
- ## [三大运营商2.6G、1.8G以及900M频段调整方案流出，蕴含大量信息!](http://mp.weixin.qq.com/s?src=11&timestamp=1566608403&ver=1809&signature=lytM7AgGUq7TQ*t*zjT-lah9vVBNV-PanFpBkg9AAhr08ZB308tOH8b5ZnAaw31JMVRmNWMW1FbuChJQx6n96rP9k91*mLHoXXd6Evx6zFSj5egWwIDXax7L0r7fMXJx&new=1)
- > 近日，网上流传一份文件显示，三大运营商2.6G、1.8G以及900M频段调整方案流出，蕴含大量信息。移动：退出15M，获得40M电信：退出20M，获得5M联通：退出20M，获得10M分享文件如下。黄海峰：资深科技媒体人，关注...
- ## [它指导了计算机行业大半个世纪的发展，如今却要走下神坛?](http://mp.weixin.qq.com/s?src=11&timestamp=1566608403&ver=1809&signature=Tr0YGEisrVz158-idFhQgE*pdUT0AP5P-ClY9yrbu-epEggZLYRgYh8ueHFvCuZjuFAiNoTeXAlllBmU0x5d2XqVcGG18C8UvSZKDcVRRyUoUBSqqZlzFilxv6Ju8bjP&new=1)
+ ## [比亚迪明年推新铁锂电池丨惠普发布Q3财报\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1566612003&ver=1809&signature=yOH6o42ZvY6NOfryjNSvor*OOZ9cSCgOZHJzOrQ4qjZAMBsjbmQCWNy-GMbwS0MLXMtWLlLmJP38PUSBqpXidqwMy2KnIq7Ts-5ygRuQVa8stNCrpQKJXqG6ek7lALiQ&new=1)
+ > 8月23日丨周五【Do说】编辑 | 赵艾虎比亚迪明年推新铁锂电池：体积能量密度升50%，成本降30%比亚迪将于明年5-6月份推出的全新一代铁锂电池，体积比能量密度将提升50%，寿命长达8年120万公里，成本还可以节约30%...
+ ## [它指导了计算机行业大半个世纪的发展，如今却要走下神坛?](http://mp.weixin.qq.com/s?src=11&timestamp=1566612003&ver=1809&signature=Tr0YGEisrVz158-idFhQgE*pdUT0AP5P-ClY9yrbu-cwTpvsP5XZFf9miqCGo0adFhj5rMnK0Hwn1H1yRHFG1YSp3BIt2qc3xlCrryYqF*0sBTptOb843lVr-knkCzjp&new=1)
  > 前几天，托尼在网站上闲逛的时候，注意到这样一条新闻。全球最大的芯片代工巨头台积电，其高管力挺摩尔定律，认为这个定律没有消亡，仍然可以通过增加晶体管密度，实现计算性能的提高。如果托尼没有记错的话，在...
+ ## [三大运营商2.6G、1.8G以及900M频段调整方案流出，蕴含大量信息!](http://mp.weixin.qq.com/s?src=11&timestamp=1566612003&ver=1809&signature=lytM7AgGUq7TQ*t*zjT-lah9vVBNV-PanFpBkg9AAhoGec1UD0q*1sSftMiXbtfdaJA3UTiiNymShttf*6VPcznU6AjuljZoUhyRWiirDeVO4uiYPCcnRgfIk5z-a1LE&new=1)
+ > 近日，网上流传一份文件显示，三大运营商2.6G、1.8G以及900M频段调整方案流出，蕴含大量信息。移动：退出15M，获得40M电信：退出20M，获得5M联通：退出20M，获得10M分享文件如下。黄海峰：资深科技媒体人，关注...
+ ## [80 余家参展商：BCS 2019 盛况空前](http://mp.weixin.qq.com/s?src=11&timestamp=1566612003&ver=1809&signature=AG5OUeS8M*2n0zGP-yyl2rS4iYwZu5KwB97tttcsanj--IiRESHSsPCAQqSP78pgOUA1kjfZCuPSigrrQOlB9-1zDQteIXuJp5lsPSgG9RhrLmkhRUsDtVEbgHS2lnhQ&new=1)
+ > 8 月21 -23日，2019 北京网络安全大会 (BCS 2019) 在北京国家会议中心盛大开幕。本次会议约有 80 余家参展企业。无论是企业总数，还会所属领域，都是最多、最为丰富的一届。安全牛分析师连续走访、沟通多家安全...
 # IT 技术 
  ## [美团点评Kubernetes集群管理实践](http://developer.51cto.com/art/201908/601826.htm)
  > 美团点评Kubernetes集群管理实践
@@ -33,36 +33,38 @@ categories: IT NEWS
  > 90后程序员职场报告：平均月薪近2万，女性程序员占17%
  ## [30分钟扫描一亿行代码找bug，这款神器连Facebook黑粉都赞叹不已](http://news.51cto.com/art/201908/601756.htm)
  > 30分钟扫描一亿行代码找bug，这款神器连Facebook黑粉都赞叹不已
+ ## [腾910和MindSpore计算框架正式发布，华为云AI算力云端释放](http://cloud.51cto.com/art/201908/601864.htm)
+ > 腾910芯片和MindSpore智能框架，加上华为云一站式AI开发平台ModelArts，将以全栈全场景AI解决方案的方式
  ## [阿里秋招面试全解析（含内推岗）](https://blog.csdn.net/valada/article/details/99832608)
  > 阿里秋招面试全解析（含内推岗）
- ## [双手无法敲代码的程序员，该如何编程？](https://blog.csdn.net/csdnnews/article/details/100025026)
- > 双手无法敲代码的程序员，该如何编程？
- ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
- > 程序员那些必须掌握的排序算法(上)
  ## [TreeMap  红黑树 源码解析](https://blog.csdn.net/Double2hao/article/details/100016107)
  > TreeMap  红黑树 源码解析
- ## [排序算法整合（冒泡，快速，希尔，拓扑，归并）](https://blog.csdn.net/onceing/article/details/99838520)
- > 排序算法整合（冒泡，快速，希尔，拓扑，归并）
- ## [从校园到职场，听说你不想打杂](https://blog.csdn.net/caoz/article/details/99024901)
- > 从校园到职场，听说你不想打杂
- ## [【Nacos源码 一】阅读源码第一步,本地启动Nacos](https://blog.csdn.net/u010634066/article/details/100030328)
- > 【Nacos源码 一】阅读源码第一步,本地启动Nacos
  ## [领导力培训模型整理](https://blog.csdn.net/zimingzim/article/details/97175429)
  > 领导力培训模型整理
- ## [\[网络安全自学篇\] 二.Chrome浏览器保留密码功能渗透解析及登录加密入门笔记](https://blog.csdn.net/Eastmount/article/details/98340074)
- > \[网络安全自学篇\] 二.Chrome浏览器保留密码功能渗透解析及登录加密入门笔记
- ## [手写RPC框架第一章《自定义配置xml》](https://blog.csdn.net/Yao__Shun__Yu/article/details/100044882)
- > 手写RPC框架第一章《自定义配置xml》
- ## [计算机组成原理 — GPU 图形处理器](https://blog.csdn.net/Jmilk/article/details/99315370)
- > 计算机组成原理 — GPU 图形处理器
- ## [【SLAM】ORBSLAM2在Ubuntu上安装配置流程](https://blog.csdn.net/qq_15698613/article/details/98471145)
- > 【SLAM】ORBSLAM2在Ubuntu上安装配置流程
- ## [Java 函数优雅之道](https://blog.csdn.net/yunqiinsight/article/details/99826098)
- > Java 函数优雅之道
- ## [Spring快速入门](https://blog.csdn.net/qq_42453117/article/details/99833888)
- > Spring快速入门
- ## [MySQL数据库实操教程(35)——完结篇](https://blog.csdn.net/lfdfhl/article/details/99707521)
- > MySQL数据库实操教程(35)——完结篇
+ ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
+ > 程序员那些必须掌握的排序算法(上)
+ ## [【Nacos源码 一】阅读源码第一步,本地启动Nacos](https://blog.csdn.net/u010634066/article/details/100030328)
+ > 【Nacos源码 一】阅读源码第一步,本地启动Nacos
+ ## [一个insert插入语句很慢的优化](https://blog.csdn.net/lihuarongaini/article/details/98332009)
+ > 一个insert插入语句很慢的优化
+ ## [如何搞懂容器的核心技术点？](https://blog.csdn.net/csdnnews/article/details/100035717)
+ > 如何搞懂容器的核心技术点？
+ ## [我在阿里工作的这段时间里，都学到了哪些东西](https://blog.csdn.net/a724888/article/details/99709865)
+ > 我在阿里工作的这段时间里，都学到了哪些东西
+ ## [基于JavaAgent的全链路监控一《嗨！JavaAgent》](https://blog.csdn.net/Yao__Shun__Yu/article/details/100044923)
+ > 基于JavaAgent的全链路监控一《嗨！JavaAgent》
+ ## [在大公司做凤尾，还是在小公司做鸡头？](https://blog.csdn.net/a724888/article/details/99709891)
+ > 在大公司做凤尾，还是在小公司做鸡头？
+ ## [30多岁的大龄程序员，该如何保持职场竞争力？| 程序员有话说](https://blog.csdn.net/csdnsevenn/article/details/100035420)
+ > 30多岁的大龄程序员，该如何保持职场竞争力？| 程序员有话说
+ ## [推荐一位大佬，从流水线工人到研发副总](https://blog.csdn.net/singwhatiwanna/article/details/100036662)
+ > 推荐一位大佬，从流水线工人到研发副总
+ ## [RecyclerView 实现吸底效果，这个必须要会啊](https://blog.csdn.net/singwhatiwanna/article/details/100036657)
+ > RecyclerView 实现吸底效果，这个必须要会啊
+ ## [你是计算机大佬吗？计算机大佬的的资格](https://blog.csdn.net/qq_15698613/article/details/97397090)
+ > 你是计算机大佬吗？计算机大佬的的资格
+ ## [@程序员，这四个学习建议值得收藏](https://blog.csdn.net/qing_gee/article/details/99712777)
+ > @程序员，这四个学习建议值得收藏
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [漫画：什么是囚徒困境？](https://blog.csdn.net/csdnnews/article/details/100047976)
@@ -78,37 +80,45 @@ categories: IT NEWS
  ## [如何搞懂容器的核心技术点？](https://blog.csdn.net/csdnnews/article/details/100035717)
  > 作者 |阿文责编 | 郭芮很多接触过类似KVM、Vmware 等虚拟化产品的开发者一定知道，传统的虚拟机其实是模拟真实计算机硬件，然后需要独立安装一个单独的操作系统。这...
 # 人工智能 
- ## [入门游戏开发](https://blog.csdn.net/Le_eG/article/details/97390815)
- > 入门游戏开发
- ## [利用DNS反射绕过防火墙进行通信](https://blog.csdn.net/NOSEC2019/article/details/99652145)
- > 利用DNS反射绕过防火墙进行通信
- ## [游戏开发中的沟通成本](https://blog.csdn.net/Jshenvilinian/article/details/98034933)
- > 游戏开发中的沟通成本
- ## [Apache安全加固，Nginx安全加固](https://blog.csdn.net/wj193165zl/article/details/97692108)
- > Apache安全加固，Nginx安全加固
- ## [学习笔记(01):OpenStack基础视频教程-OpenStack存储](https://blog.csdn.net/weixin_41950607/article/details/100006035)
- > 学习笔记(01):OpenStack基础视频教程-OpenStack存储
- ## [坚守 5 年后 「一个人的消防队」终成历史](https://blog.csdn.net/lsj960922/article/details/98619644)
- > 坚守 5 年后 「一个人的消防队」终成历史
- ## [学习笔记(02):OpenStack基础视频教程-安装glance](https://blog.csdn.net/weixin_41950607/article/details/100011325)
- > 学习笔记(02):OpenStack基础视频教程-安装glance
- ## [学云计算与大数据前景如何？云计算是怎么分类的？](https://blog.csdn.net/qfxulei/article/details/97278421)
- > 学云计算与大数据前景如何？云计算是怎么分类的？
- ## [网络安全技术虚拟私有网（IPSec   Sangfor）详解及解决方案](https://blog.csdn.net/qq_40993864/article/details/96480507)
- > 网络安全技术虚拟私有网（IPSec   Sangfor）详解及解决方案
+ ## [棋牌类游戏开发心得](https://blog.csdn.net/weixin_45470503/article/details/98884403)
+ > 棋牌类游戏开发心得
+ ## [游戏引擎与游戏开发入门介绍](https://blog.csdn.net/y505772146/article/details/99307256)
+ > 游戏引擎与游戏开发入门介绍
+ ## [游戏开发流程-微信小游戏（含源码）](https://blog.csdn.net/starbxx/article/details/97375133)
+ > 游戏开发流程-微信小游戏（含源码）
  ## [游戏开发总结](https://blog.csdn.net/c2289206/article/details/99747639)
  > 游戏开发总结
+ ## [20年研发管理经验谈（十六）](https://blog.csdn.net/weixin_39759846/article/details/97393626)
+ > 20年研发管理经验谈（十六）
+ ## [二进制有符号数加法](https://blog.csdn.net/immense2008/article/details/98895900)
+ > 二进制有符号数加法
  ## [2019游戏开发入门](https://blog.csdn.net/c2289206/article/details/99747195)
  > 2019游戏开发入门
- ## [CLOUD 云计算进阶(五) - 自定义镜像与仓库 、 持久化存储 、 Docker网络架构](https://blog.csdn.net/weixin_44985068/article/details/98869569)
- > CLOUD 云计算进阶(五) - 自定义镜像与仓库 、 持久化存储 、 Docker网络架构
- ## [大数据和云计算技术周报（第115期)](https://blog.csdn.net/zNZQhb07Nr/article/details/99367537)
- > 大数据和云计算技术周报（第115期)
- ## [java的CAS思想](https://blog.csdn.net/qq_36178454/article/details/98792396)
- > java的CAS思想
- ## [可通过HTTP获取远端WWW服务信息](https://blog.csdn.net/doublebaidu/article/details/99829275)
- > 可通过HTTP获取远端WWW服务信息
+ ## [计算机理论学习笔记L2](https://blog.csdn.net/qq_36317585/article/details/97373316)
+ > 计算机理论学习笔记L2
+ ## [游戏开发：红点提示系统](https://blog.csdn.net/wuxiong19930518/article/details/99655851)
+ > 游戏开发：红点提示系统
+ ## [PhotonServer MMO游戏开发之美](https://blog.csdn.net/weixin_44350205/article/details/98480888)
+ > PhotonServer MMO游戏开发之美
+ ## [入门游戏开发](https://blog.csdn.net/Le_eG/article/details/97390815)
+ > 入门游戏开发
+ ## [计算机理论面试（一）：算法](https://blog.csdn.net/zhuhaodonglei/article/details/99343358)
+ > 计算机理论面试（一）：算法
+ ## [伪装的敏捷，我好累](https://blog.csdn.net/CODING_devops/article/details/99644230)
+ > 伪装的敏捷，我好累
+ ## [《杀手 2*》：在现代 CPU 上增强混响效果](https://blog.csdn.net/IDZPRC/article/details/98180142)
+ > 《杀手 2*》：在现代 CPU 上增强混响效果
+ ## [游戏和图形应用的性能分析](https://blog.csdn.net/IDZPRC/article/details/97393392)
+ > 游戏和图形应用的性能分析
 # PM 
+ ## [闲鱼产品分析报告：不止卖二手（二）](http://www.woshipm.com/evaluating/2747394.html)
+ > 此文是笔者针对闲鱼APP写的产品分析报告。虽然笔者经验尚浅，初次撰写此类报告；但真的非常用心——字数多达30279字，从使用流程、市场分析到功能分析优化，都有自己的见...
+ ## [浅谈产品与运营的差异和协作](http://www.woshipm.com/pmd/2766445.html)
+ > 如何衡量、判断产品与运营之间的差异与协作一向是个备受关注的话题。本文将从这两者的认知演变、专注点以及实例进行分析。我的公众号取名“产品与运营”，是因为我的工...
+ ## [KOC和KOL，不同的社交人生](http://www.woshipm.com/it/2768178.html)
+ > 本文主要对KOC和KOL进行分析与探讨，主要谈谈这几点：KOC和KOL的异同点、KOC与社交电商的关系，以及笔者对KOC的分析思考。01同样广告预算，10个十万粉丝博主可能超过...
+ ## [报名开启 | 0经验入行产品经理，起薪10-18万](http://www.woshipm.com/active/2740031.html)
+ > 每个想成为产品经理的小伙伴，理想都很丰满：熟读产品书籍→自学软件工具→一投简历就被HR邀约→面试谈笑风生→喜提年薪十几万的offer→入职即被老板赏识并手把手培养……但...
  ## [产品经理如何度过35岁这道坎](http://www.chanpin100.com/article/109338)
  > 中年产品经理也有未来！
  ## [2019年最实用的导航栏设计实践和案例分析全解](http://www.chanpin100.com/article/109336)
