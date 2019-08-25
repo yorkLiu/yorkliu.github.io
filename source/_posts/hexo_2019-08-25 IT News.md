@@ -1,21 +1,23 @@
 ---
 title: 2019-08-25 IT News
 copyright: true
-date: 2019-08-25 08:01:17
+date: 2019-08-25 09:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [蔚来汽车将裁员1200人；三大运营商否认“4G降速”|懂懂周评](http://mp.weixin.qq.com/s?src=11&timestamp=1566691203&ver=1811&signature=X2i3XOnHeVs9lm1z6I4YL4sHX0ytXimqgLiv2RZWQTcgTnefiPx-lAGfTtF8WbkTzo71bLlZUbQSCr47sEukbcWk*BRxFrYHDC1e4sVdEWD9xyd1fmpVtjvHO46-UwKl&new=1)
- > 本周热点：蔚来汽车将裁员1200人；三大运营商否认“4G降速”；传阿里考拉收购案“谈崩”；京东方或成为苹果供应商；周五美股突现全面暴跌；惠普现任CEO宣布辞职。文丨懂懂笔记    编辑 |  左岸 秦言来源丨懂懂笔...
- ## [想实现高可用?先搞定负载均衡原理](http://mp.weixin.qq.com/s?src=11&timestamp=1566691203&ver=1811&signature=MN32oFYOWwPbMWiSeBUPNCN7ErWxSKi1xPPOj67*dtQsTQczQuNHS-SMWm948UOrU2FAkd-4pfg3GeM4Fgc7cCxztqu0-p6j2qgjNxsP3iID-Is-hY3qq7iH5SG9b-OH&new=1)
- > “ 在互联网大行其道的今天，随着业务的迅猛增长，技术上我们常常要面对高并发，大流量。图片来自 Pexels为了实现高可用，高性能我们采用了很多的技术手段，负载均衡就是其中之一。作为外部流量与内部应用的“接...
- ## [MIT和Adobe研发了一款极为有趣的AR讲故事方案](http://mp.weixin.qq.com/s?src=11&timestamp=1566691203&ver=1811&signature=G8sCmFeJ0pgyXmZLsrjimuc-wwSVN4CulGKW1B65ys07DYn0g11t4DJlqo2r*I4nrtXYFWVLXRm0DDT9vjeR*hhEv7CSWQ77q6TWWbTFM-h9a6uJt5A42OZjPtS9WGcA&new=1)
- > Esther｜ 编辑Snapchat、Instagram等应用中的AR滤镜，以及LBS AR手游《精灵宝可梦Go》的人气越来越高，似乎是在推动AR在移动端的发展。殊不知，如果单纯将叠加在屏幕上的实时虚拟内容称为AR，那其实气象播报领域...
- ## [悲剧!碧桂园突爆大料，房地产即将大变天!](http://mp.weixin.qq.com/s?src=11&timestamp=1566691203&ver=1811&signature=vbKLNl84T3Pt2tUtTtb6RLUhhZHMM8Ie9E25fehJ*hvBta7xQOi4s70NDrdROv-V5dtgV3kdO6RZm1cRxBOA-TJt-Zd-VvMdT4ruNFteS9JuSiE3qhaiPqo52J10zzQj&new=1)
+ ## [大数据时代下，企业将何去何从?](http://mp.weixin.qq.com/s?src=11&timestamp=1566694804&ver=1811&signature=scylpNj4ay23Br9MewATTPG3JVX1Z1tCxAZti48Jz19Ia-BXqzC7tKSGzG1-BavlpFMqhXwQeXJstjF*ajb9ut08pqrgo-U5p7c9ibnwbEdafjmlmZ6I8IoH4YuPkjJW&new=1)
+ > 今天是管理思想自我升维第49天！一个企业家最成功的事情，不是努力工作，也不是投机取巧，而是抓住时代，顺势而为。——谢尔盖·布林随着移动网络、云计算、物联网等新兴技术迅猛发展，全球数据呈爆炸式增长，标...
+ ## [悲剧!碧桂园突爆大料，房地产即将大变天!](http://mp.weixin.qq.com/s?src=11&timestamp=1566694804&ver=1811&signature=vbKLNl84T3Pt2tUtTtb6RLUhhZHMM8Ie9E25fehJ*hvBta7xQOi4s70NDrdROv-VUcUsVmF6b7fxNHKqbK5VIEQGq2C0c4lGUzpk3n7lkbxSVduOG2rT0rXCu27gaXBH&new=1)
  > 图文：人民网 版权属于原作者所有人都没想到：当年土得掉渣的碧桂园如今却干起最先进的机器人行业！所有人都没想到碧桂园的转型来得如此之快未来，各行各业或将迎来大变天！一场“风暴”即将来临！ 近日，碧桂园...
- ## [专网通信设备市场将超150亿 产品从模拟向数字化升级](http://mp.weixin.qq.com/s?src=11&timestamp=1566691203&ver=1811&signature=Bkq2OwvEY7efrppx9eDVUcZBel3NclVvDpQwNn194Fzy5UyPSSLjn8-OQNc2yKAaAQLidTGDAfEhf7WVqZ2EKjBSPcgOU1AsRO2L7eEFhOaaWOJmbs9Rpa**mmFCEQF9&new=1)
+ ## [蔚来汽车将裁员1200人；三大运营商否认“4G降速”|懂懂周评](http://mp.weixin.qq.com/s?src=11&timestamp=1566694804&ver=1811&signature=X2i3XOnHeVs9lm1z6I4YL4sHX0ytXimqgLiv2RZWQTcgTnefiPx-lAGfTtF8WbkTtGSajhktw9DgeROVSqfREqtmzh3Lo8lBhemkwnf0xaW*-TKp0-x6*1ImyFyetr0Z&new=1)
+ > 本周热点：蔚来汽车将裁员1200人；三大运营商否认“4G降速”；传阿里考拉收购案“谈崩”；京东方或成为苹果供应商；周五美股突现全面暴跌；惠普现任CEO宣布辞职。文丨懂懂笔记    编辑 |  左岸 秦言来源丨懂懂笔...
+ ## [MIT和Adobe研发了一款极为有趣的AR讲故事方案](http://mp.weixin.qq.com/s?src=11&timestamp=1566694804&ver=1811&signature=G8sCmFeJ0pgyXmZLsrjimuc-wwSVN4CulGKW1B65ys07DYn0g11t4DJlqo2r*I4n8P2xodXsLqnxXvv*a7ljowy3tx6JyL6wujDS10Lm4rO0iByRZfnGq07xJegAAJNH&new=1)
+ > Esther｜ 编辑Snapchat、Instagram等应用中的AR滤镜，以及LBS AR手游《精灵宝可梦Go》的人气越来越高，似乎是在推动AR在移动端的发展。殊不知，如果单纯将叠加在屏幕上的实时虚拟内容称为AR，那其实气象播报领域...
+ ## [专网通信设备市场将超150亿 产品从模拟向数字化升级](http://mp.weixin.qq.com/s?src=11&timestamp=1566694804&ver=1811&signature=Bkq2OwvEY7efrppx9eDVUcZBel3NclVvDpQwNn194Fzy5UyPSSLjn8-OQNc2yKAao-8-RqPgAMy-Dln29ULiSSffYXj*UV1EYzDeWI4SXLX9FR85qRI0lbTg35pBMkpc&new=1)
  > 专网通信设备涵盖范围较广，主要包括调度系统、信息传输网络所需交换设备、无线基站、无线接收终端等。专用通信网作为电信公用通讯网的一种补充，它是为满足其自身进行安全生产、抢险救灾、调度指挥等需要所建设...
+ ## [想实现高可用?先搞定负载均衡原理](http://mp.weixin.qq.com/s?src=11&timestamp=1566694804&ver=1811&signature=MN32oFYOWwPbMWiSeBUPNCN7ErWxSKi1xPPOj67*dtQsTQczQuNHS-SMWm948UOr*nkGzYCBWc1PwJgfHR4EFReqnNKdIxhrNjnc5Ym8eHuevkEzlBlG0nXhL-LN1xZR&new=1)
+ > “ 在互联网大行其道的今天，随着业务的迅猛增长，技术上我们常常要面对高并发，大流量。图片来自 Pexels为了实现高可用，高性能我们采用了很多的技术手段，负载均衡就是其中之一。作为外部流量与内部应用的“接...
 # IT 技术 
  ## [美团点评Kubernetes集群管理实践](http://developer.51cto.com/art/201908/601826.htm)
  > 美团点评Kubernetes集群管理实践
@@ -39,34 +41,34 @@ categories: IT NEWS
  > 通常站点，都会想让自己网站的视频和图片，免被盗用，毕竟视频流量，花的都是白花花银子(土豪可以不用考虑)
  ## [阿里秋招面试全解析（含内推岗）](https://blog.csdn.net/valada/article/details/99832608)
  > 阿里秋招面试全解析（含内推岗）
- ## [分布式系统的流量防卫兵Sentinel-入门指南](https://blog.csdn.net/u010046908/article/details/100012953)
- > 分布式系统的流量防卫兵Sentinel-入门指南
- ## [排序算法整合（冒泡，快速，希尔，拓扑，归并）](https://blog.csdn.net/onceing/article/details/99838520)
- > 排序算法整合（冒泡，快速，希尔，拓扑，归并）
- ## [MQ: 一张图读懂kafka工作原理](https://blog.csdn.net/hanchao5272/article/details/100037633)
- > MQ: 一张图读懂kafka工作原理
- ## [排序算法代码详解——用C/C++及Python实现（艾孜尔江撰稿）](https://blog.csdn.net/weixin_43867242/article/details/100022627)
- > 排序算法代码详解——用C/C++及Python实现（艾孜尔江撰稿）
- ## [Spring核心技术之IOC](https://blog.csdn.net/qq_36864391/article/details/100044560)
- > Spring核心技术之IOC
- ## [深入浅出 TCP/IP 协议栈](https://blog.csdn.net/qq_29722281/article/details/100041922)
- > 深入浅出 TCP/IP 协议栈
+ ## [沦为房奴的中国人 最后竟然不如美国的流浪汉？](https://blog.csdn.net/duxinshuxiaobian/article/details/97461561)
+ > 沦为房奴的中国人 最后竟然不如美国的流浪汉？
  ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
  > 程序员那些必须掌握的排序算法(上)
- ## [Python3智能数据分析快速入门--2--Python基础知识](https://blog.csdn.net/qq_20241587/article/details/100023616)
- > Python3智能数据分析快速入门--2--Python基础知识
- ## [面试常问---java基础（一）](https://blog.csdn.net/qq_42896289/article/details/97622643)
- > 面试常问---java基础（一）
- ## [TCP的握手挥手](https://blog.csdn.net/fujian9544/article/details/100045552)
- > TCP的握手挥手
- ## [DL之DSSD：DSSD算法的简介(论文介绍)、架构详解、案例应用等配图集合之详细攻略](https://blog.csdn.net/qq_41185868/article/details/100009142)
- > DL之DSSD：DSSD算法的简介(论文介绍)、架构详解、案例应用等配图集合之详细攻略
- ## [既然synchronized是"万能"的，为什么还需要volatile呢？](https://blog.csdn.net/hollis_chuang/article/details/99944022)
- > 既然synchronized是&quot;万能&quot;的，为什么还需要volatile呢？
- ## [从校园到职场，听说你不想打杂](https://blog.csdn.net/caoz/article/details/99024901)
- > 从校园到职场，听说你不想打杂
- ## [【小算法】选择排序](https://blog.csdn.net/briblue/article/details/98601208)
- > 【小算法】选择排序
+ ## [我在阿里工作的这段时间里，都学到了哪些东西](https://blog.csdn.net/a724888/article/details/99709865)
+ > 我在阿里工作的这段时间里，都学到了哪些东西
+ ## [在大公司做凤尾，还是在小公司做鸡头？](https://blog.csdn.net/a724888/article/details/99709891)
+ > 在大公司做凤尾，还是在小公司做鸡头？
+ ## [共享单车IOT物联网系统是怎么设计的？](https://blog.csdn.net/weixin_44296862/article/details/98001759)
+ > 共享单车IOT物联网系统是怎么设计的？
+ ## [@程序员，这四个学习建议值得收藏](https://blog.csdn.net/qing_gee/article/details/99712777)
+ > @程序员，这四个学习建议值得收藏
+ ## [爬取高清无版权美图](https://blog.csdn.net/luoluopan/article/details/99375290)
+ > 爬取高清无版权美图
+ ## [ARM 之十 ARMCC（Keil） map 文件（映射文件）详解](https://blog.csdn.net/ZCShouCSDN/article/details/100049644)
+ > ARM 之十 ARMCC（Keil） map 文件（映射文件）详解
+ ## [微软出Python教程了](https://blog.csdn.net/cainiao_python/article/details/97590079)
+ > 微软出Python教程了
+ ## [邮件这样写，PK 掉 99% 的同事](https://blog.csdn.net/baron_leizhang/article/details/99675933)
+ > 邮件这样写，PK 掉 99% 的同事
+ ## [五大编程语言就业图，C 亮了！| 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100035428)
+ > 五大编程语言就业图，C 亮了！| 每日趣闻
+ ## [Spring快速入门](https://blog.csdn.net/qq_42453117/article/details/99833888)
+ > Spring快速入门
+ ## [ARM 之一 ELF文件、镜像（Image）文件、可执行文件、对象文件 详解](https://blog.csdn.net/ZCShouCSDN/article/details/100048461)
+ > ARM 之一 ELF文件、镜像（Image）文件、可执行文件、对象文件 详解
+ ## [MySQL数据库实操教程(35)——完结篇](https://blog.csdn.net/lfdfhl/article/details/99707521)
+ > MySQL数据库实操教程(35)——完结篇
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [对比 C++ 和 Python，谈谈指针与引用](https://blog.csdn.net/csdnnews/article/details/100059268)
@@ -74,35 +76,40 @@ categories: IT NEWS
  ## [势逼 React Native，跨平台开发框架 Flutter 很凶猛](https://blog.csdn.net/csdnnews/article/details/100059264)
  > 图源：Flutter 官网作者 | 亢少军责编 | 仲培艺本文内容经授权摘自《Flutter 技术入门与实战》Flutter 的 2019 很是精彩：声网开源了 Flut...
 # 人工智能 
- ## [Capital One银行数据泄漏事件分析](https://blog.csdn.net/NOSEC2019/article/details/98505868)
- > Capital One银行数据泄漏事件分析
- ## [实例-第三方接口签名加密](https://blog.csdn.net/xiamofy/article/details/98651593)
- > 实例-第三方接口签名加密
- ## [移动开发IOS系统版本与Safari版本对应关系](https://blog.csdn.net/qq_33089275/article/details/98955139)
- > 移动开发IOS系统版本与Safari版本对应关系
- ## [移动开发应该了解的C++基础知识](https://blog.csdn.net/wj610671226/article/details/99890873)
- > 移动开发应该了解的C++基础知识
+ ## [随机生成贷款号](https://blog.csdn.net/weixin_44541224/article/details/97529891)
+ > 随机生成贷款号
+ ## [牛老师考察の基础知识](https://blog.csdn.net/weixin_42920780/article/details/99882459)
+ > 牛老师考察の基础知识
+ ## [计算机理论学习笔记L2](https://blog.csdn.net/qq_36317585/article/details/97373316)
+ > 计算机理论学习笔记L2
+ ## [棋牌游戏开发斗地主妙趣藏不住](https://blog.csdn.net/dubiwang2018/article/details/98853661)
+ > 棋牌游戏开发斗地主妙趣藏不住
+ ## [Python turtle库整理与使用实例](https://blog.csdn.net/weixin_43812804/article/details/97815111)
+ > Python turtle库整理与使用实例
+ ## [学习笔记(03):大数据工程师新手必学实战：手把手教你做一份大数据行业分析报告-课程介绍...](https://blog.csdn.net/wujianming_/article/details/98876854)
+ > 学习笔记(03):大数据工程师新手必学实战：手把手教你做一份大数据行业分析报告-课程介绍...
+ ## [游戏开发相关网址](https://blog.csdn.net/qq_39162826/article/details/99863570)
+ > 游戏开发相关网址
+ ## [计算机理论面试（一）：算法](https://blog.csdn.net/zhuhaodonglei/article/details/99343358)
+ > 计算机理论面试（一）：算法
+ ## [大数据第八天](https://blog.csdn.net/qq_40233706/article/details/97947860)
+ > 大数据第八天
+ ## [大数据和云计算技术周报（第114期)](https://blog.csdn.net/zNZQhb07Nr/article/details/98551989)
+ > 大数据和云计算技术周报（第114期)
+ ## [棋牌类游戏开发心得](https://blog.csdn.net/weixin_45470503/article/details/98884403)
+ > 棋牌类游戏开发心得
  ## [游戏开发中的沟通成本](https://blog.csdn.net/Jshenvilinian/article/details/98034933)
  > 游戏开发中的沟通成本
- ## [【移动开发】android studio 添加 jar 无法识别](https://blog.csdn.net/jasonhongcn/article/details/99823755)
- > 【移动开发】android studio 添加 jar 无法识别
- ## [美国政府正在测试用高空气球便监视民众](https://blog.csdn.net/NOSEC2019/article/details/98505981)
- > 美国政府正在测试用高空气球便监视民众
- ## [又一交易所被盗，再次提醒我们数字资产如何保障安全？](https://blog.csdn.net/weixin_44452342/article/details/97376959)
- > 又一交易所被盗，再次提醒我们数字资产如何保障安全？
+ ## [大数据和云计算技术周报（第116期)](https://blog.csdn.net/zNZQhb07Nr/article/details/99786878)
+ > 大数据和云计算技术周报（第116期)
+ ## [大数据和云计算技术周报（第115期)](https://blog.csdn.net/zNZQhb07Nr/article/details/99367537)
+ > 大数据和云计算技术周报（第115期)
  ## [配套显示器为游戏开发人员提供了新选项](https://blog.csdn.net/IDZPRC/article/details/98180483)
  > 配套显示器为游戏开发人员提供了新选项
- ## [游戏引擎与游戏开发入门介绍](https://blog.csdn.net/y505772146/article/details/99307256)
- > 游戏引擎与游戏开发入门介绍
- ## [Smobiler针对百度文字识别SDK动态编译与运行](https://blog.csdn.net/Smobiler/article/details/99968740)
- > Smobiler针对百度文字识别SDK动态编译与运行
- ## [Frame切换-ApiCloud学习笔记](https://blog.csdn.net/Qinhaolei/article/details/77914678)
- > Frame切换-ApiCloud学习笔记
- ## [J2ME移动开发平台搭建](https://blog.csdn.net/weixin_30755393/article/details/98345088)
- > J2ME移动开发平台搭建
- ## [Apache安全加固，Nginx安全加固](https://blog.csdn.net/wj193165zl/article/details/97692108)
- > Apache安全加固，Nginx安全加固
- ## [进阶移动开发，技术赋能产业](https://blog.csdn.net/k6T9Q8XKs6iIkZPPIFq/article/details/99019851)
- > 进阶移动开发，技术赋能产业
+# PM 
+ ## [闲鱼产品分析报告：不止卖二手（三）](http://www.woshipm.com/evaluating/2747664.html)
+ > 此文是笔者针对闲鱼APP写的产品分析报告。虽然笔者经验尚浅，初次撰写此类报告；但真的非常用心——字数多达30279字，从使用流程、市场分析到功能分析优化，都有自己的见...
+ ## [项目型在线协作的五个基本要素](http://www.woshipm.com/pd/2770364.html)
+ > 对于SaaS产品的项目类型的协作，笔者认为有五点要素值得掌握，分别是——交流、记录、提醒、形式、版本。随着各类文档和项目的线上化，在线协作的概念现在已经在不同产...
 
     
