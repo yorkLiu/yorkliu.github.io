@@ -1,20 +1,24 @@
 ---
 title: 2019-08-26 IT News
 copyright: true
-date: 2019-08-26 08:00:58
+date: 2019-08-26 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [广电将怎样建5G网络?](http://mp.weixin.qq.com/s?src=11&timestamp=1566777603&ver=1813&signature=9X3dmaDz6w8q1IL4XrP3IgOXOvjAW3MkPK1X6JODlHZHRDZsdRtyNizOmEUf2FQDIi9-ml-UUA7D1KRNCAWfJGJX7*v437tt4nR3e1JWqpTGtqK*M-xJtaK7KG1sbjFK&new=1)
- > 过去几十年来，广播电视不断发展，经历了从模拟电视到数字电视再到网络电视的创新历程。但你有没有发现一个问题？这几十年来，广播电视网络与3G/4G为代表的移动通信网络始终相互隔离——广播电视网络不能直连你...
- ## [特斯拉扩大全球销售版图丨360金融发布Q2财报\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1566777603&ver=1813&signature=rOSKfhbGAZuxBV*PSFPwyXEJwFERgFpmPsKMa22XUhrtNOETxn*15GvVhg2qLsATg39wYhrZvcGBXyL7j2bCEJqHaxkX0-83C3o*eTpgv6tQnYUYjSm1IydWq*JHiM9A&new=1)
- > 8月25日丨周日【Do说】编辑 | 赵艾虎特斯拉扩大全球销售版图，首次覆盖东欧市场据外媒最新消息，特斯拉公司近日布局了一个全新的市场——东欧。报道称，特斯拉官方日前宣布，东欧国家波兰波兰、匈牙利、罗马尼亚...
- ## [重磅|首届北京网络安全大会主论坛精华全记录(收藏版)](http://mp.weixin.qq.com/s?src=11&timestamp=1566777603&ver=1813&signature=XjSv7-mxaDyxhxgi3IuaYAOq4gVBRiT14q8LZsDnY8SOTimqw3Be7JZMRoXpfEdsx6dD3XDyE1IPpAsFymfbPilIx7QDzTd7*oHR-QsKTCEkElDZbplLkdOIekyVP81V&new=1)
+ ## [重磅|首届北京网络安全大会主论坛精华全记录(收藏版)](http://mp.weixin.qq.com/s?src=11&timestamp=1566781203&ver=1813&signature=XjSv7-mxaDyxhxgi3IuaYAOq4gVBRiT14q8LZsDnY8RgzwdXSqR5w-jdY46qSLsKwC-BeYJoTMatRW9auNXFXsMITXyR*w2EAxfx35FBN0Ws4Si13AMselP0KxTmEcgy&new=1)
  > 由中国电子信息产业集团主导，中国互联网协会、中国网络空间安全协会、中国通信学会、中国友谊促进会和奇安信集团承办的为期三天的北京网络安全大会（BCS 2019），上周在国家会议中心落下帷幕。本次大会，无论是...
- ## [曝华为鸿蒙系统手机已完成测试：或年底发布，定价良心](http://mp.weixin.qq.com/s?src=11&timestamp=1566777603&ver=1813&signature=RrtpgSip1hecjCUCH9b4ZzcUaD636DTn5mNXx3M8FMLhmMuJJn4pWDfFX4XEi-okyP95e*YpW9sa*rG*FY0ThyssD-c8kc5Q*Mx-A2*9WIabWN2oNuEbVlHPRF31BMwM&new=1)
+ ## [特斯拉扩大全球销售版图丨360金融发布Q2财报\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1566781203&ver=1813&signature=rOSKfhbGAZuxBV*PSFPwyXEJwFERgFpmPsKMa22XUhpf8XvgCqDLibMRTBSgTu0lEdtjUiXFWX8p1P9f5RS1S9JbXDurr-AqlMZUmxeFBheFhSPHxZ2gggzJLiHV*2X3&new=1)
+ > 8月25日丨周日【Do说】编辑 | 赵艾虎特斯拉扩大全球销售版图，首次覆盖东欧市场据外媒最新消息，特斯拉公司近日布局了一个全新的市场——东欧。报道称，特斯拉官方日前宣布，东欧国家波兰波兰、匈牙利、罗马尼亚...
+ ## [曝华为鸿蒙系统手机已完成测试：或年底发布，定价良心](http://mp.weixin.qq.com/s?src=11&timestamp=1566781203&ver=1813&signature=RrtpgSip1hecjCUCH9b4ZzcUaD636DTn5mNXx3M8FMLh*ITHi47Gk-3ThL4mKf1CBwcyhKDfrcIZjMe-lbBDgkkGXedVRFR0rtyWqSpJV1Nl4PD4MnzqBOuaXsuMDefw&new=1)
  > 今年科技圈最重磅的一件大事应该就是华为秘密打造好几年的“备胎”鸿蒙系统从曝光到正式发布了吧。由于今年全球发生的一系列大事，对于华为来说是最为艰难的一年，外部的围追堵截，让华为不得不把仓库里的备胎一...
+ ## [重磅!旷视确定香港上市，IPO文件公布，半年亏损52亿](http://mp.weixin.qq.com/s?src=11&timestamp=1566781203&ver=1813&signature=UiFBDxS6YsCP7DRq-yYmgMw*QycP3*nHrGkbkKYY7REERPYMsjzfR*ecXlC1sGHIj*bbZtJwBC8QU-PW*nd4LdadPziQUaln1vvty2Z6uzaYf1N3597w0GFk41w9ksTK&new=1)
+ > 看点：AI独角兽旷视递交港交所申请书，2019年上半年营收9.49亿元，账面亏损52亿元。智东西8月25日晚间消息，今天晚上，国内AI独角兽旷视科技（Megvii）在港交所递交IPO招股文件，正式对外公开了香港联交所主板上...
+ ## [广电将怎样建5G网络?](http://mp.weixin.qq.com/s?src=11&timestamp=1566781203&ver=1813&signature=9X3dmaDz6w8q1IL4XrP3IgOXOvjAW3MkPK1X6JODlHZBUUWEa*D1rF1Hy*Z6aISHmWmhWxQj7mQLgkOEXSEQ6mPkLN-75mll7aqMNU2*Cf0QNpIlcEtPQL7BB1tXwtPX&new=1)
+ > 过去几十年来，广播电视不断发展，经历了从模拟电视到数字电视再到网络电视的创新历程。但你有没有发现一个问题？这几十年来，广播电视网络与3G/4G为代表的移动通信网络始终相互隔离——广播电视网络不能直连你...
 # IT 技术 
+ ## [想实现高可用？先搞定负载均衡原理](http://developer.51cto.com/art/201908/601883.htm)
+ > 想实现高可用？先搞定负载均衡原理
  ## [如何将Docker容器复制/转移到另一个主机？](http://cloud.51cto.com/art/201908/601838.htm)
  > 如何将Docker容器复制/转移到另一个主机？
  ## [美团点评Kubernetes集群管理实践](http://developer.51cto.com/art/201908/601826.htm)
@@ -29,8 +33,10 @@ categories: IT NEWS
  > 系统管理员拿到多少薪资才合理？
  ## [如何正确地做误差分析，NLP研究人员们需要学习一下](http://ai.51cto.com/art/201908/601780.htm)
  > 如何正确地做误差分析，NLP研究人员们需要学习一下
- ## [90后程序员职场报告：平均月薪近2万，女性程序员占17%](http://news.51cto.com/art/201908/601779.htm)
- > 90后程序员职场报告：平均月薪近2万，女性程序员占17%
+ ## [项目内出现广告位引争议，开源如何持续健康运营？](http://os.51cto.com/art/201908/601884.htm)
+ > 最近 Standard JS 官方表示因为当前开源模式运转不灵，需要资金支援，所以将实验性地在项目中展示广告，显
+ ## [开发者移除 11 个 Ruby 库中 18 个带有后门的版本](http://developer.51cto.com/art/201908/601882.htm)
+ > RubyGems 软件包存储库的维护者近期移除了 11 个 Ruby 库中出现的 18 个恶意版本，这些版本包含了后门机制
  ## [五大ATM安全漏洞](http://netsecurity.51cto.com/art/201908/601878.htm)
  > 2018年各种攻击造成的损失超过3600万欧元（4050万美元），比2017年增加了16％。 据估计，到2020年，全球将
  ## [拐点已到，运营商的2019大变局](http://network.51cto.com/art/201908/601881.htm)
@@ -41,72 +47,70 @@ categories: IT NEWS
  > 如果开发人员从未发现漏洞怎么办?或者说，如果开发人员发现了漏洞但又没有及时修复会怎么样?这就是所谓的零
  ## [2019年威胁检测状况](http://netsecurity.51cto.com/art/201908/601877.htm)
  > 为了保持领先于最新威胁，组织需要一种强大的安全态势，使其能够在威胁之前发展。为了找出组织与整体安全之
- ## [阿里秋招面试全解析（含内推岗）](https://blog.csdn.net/valada/article/details/99832608)
- > 阿里秋招面试全解析（含内推岗）
- ## [RabbitMQ的一次封装/基于php-amqplib一次开发](https://blog.csdn.net/qq_36557960/article/details/100052639)
- > RabbitMQ的一次封装/基于php-amqplib一次开发
- ## [vue.js系列之（一）—— vue项目的搭建](https://blog.csdn.net/weixin_44586666/article/details/100056418)
- > vue.js系列之（一）—— vue项目的搭建
- ## [史上最全的Java工程师面试题汇总，全会的话月薪至少3W+](https://blog.csdn.net/Ybulingbuling/article/details/99717708)
- > 史上最全的Java工程师面试题汇总，全会的话月薪至少3W+
- ## [70道阿里百度高频Java面试题（框架+JVM+多线程+算法+数据库）](https://blog.csdn.net/Design407/article/details/100045259)
- > 70道阿里百度高频Java面试题（框架+JVM+多线程+算法+数据库）
- ## [排序算法整合（冒泡，快速，希尔，拓扑，归并）](https://blog.csdn.net/onceing/article/details/99838520)
- > 排序算法整合（冒泡，快速，希尔，拓扑，归并）
- ## [深入浅出 TCP/IP 协议栈](https://blog.csdn.net/qq_29722281/article/details/100041922)
- > 深入浅出 TCP/IP 协议栈
- ## [一.什么是SpringMVC和MVC是什么?](https://blog.csdn.net/qq_41857955/article/details/100025265)
- > 一.什么是SpringMVC和MVC是什么?
- ## [Python学习笔记（七）——面向对象的三大特征——封装、继承、多态](https://blog.csdn.net/weixin_42182599/article/details/100053395)
- > Python学习笔记（七）——面向对象的三大特征——封装、继承、多态
- ## [《Python数据分析与挖掘实战》第15章 电商产品评论数据情感分析](https://blog.csdn.net/weixin_43746433/article/details/100035623)
- > 《Python数据分析与挖掘实战》第15章 电商产品评论数据情感分析
- ## [Java 8 之后，还有哪些进化的功能？](https://blog.csdn.net/csdnnews/article/details/100025031)
- > Java 8 之后，还有哪些进化的功能？
- ## [利用kettle实现hive数据直接导入到mysql](https://blog.csdn.net/qq_31329893/article/details/100054147)
- > 利用kettle实现hive数据直接导入到mysql
- ## [小心提防！XSS和CSRF!](https://blog.csdn.net/xixihangha/article/details/99884327)
- > 小心提防！XSS和CSRF!
- ## [面向对象编程（OOP)](https://blog.csdn.net/Scrat_Kong/article/details/100034538)
- > 面向对象编程（OOP)
+ ## [负载均衡、DNS、F5、反向代理、LVS、四层与七层、CDN](https://blog.csdn.net/hanchao5272/article/details/100064654)
+ > 负载均衡、DNS、F5、反向代理、LVS、四层与七层、CDN
+ ## [比较了鸿蒙和Tdengine的底层代码后，我发现优秀项目都是做减法的](https://blog.csdn.net/BEYONDMA/article/details/100049796)
+ > 比较了鸿蒙和Tdengine的底层代码后，我发现优秀项目都是做减法的
  ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
  > 程序员那些必须掌握的排序算法(上)
+ ## [微服务：全链路压测和容量规划](https://blog.csdn.net/fly910905/article/details/100065613)
+ > 微服务：全链路压测和容量规划
+ ## [@程序员，这四个学习建议值得收藏](https://blog.csdn.net/qing_gee/article/details/99712777)
+ > @程序员，这四个学习建议值得收藏
+ ## [五大编程语言就业图，C 亮了！| 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100035428)
+ > 五大编程语言就业图，C 亮了！| 每日趣闻
+ ## [主流CNN网络的演变哲学](https://blog.csdn.net/Peter_Changyb/article/details/100061773)
+ > 主流CNN网络的演变哲学
+ ## [微软出Python教程了](https://blog.csdn.net/cainiao_python/article/details/97590079)
+ > 微软出Python教程了
+ ## [邮件这样写，PK 掉 99% 的同事](https://blog.csdn.net/baron_leizhang/article/details/99675933)
+ > 邮件这样写，PK 掉 99% 的同事
+ ## [Python3 类方法、静态方法新解](https://blog.csdn.net/haeasringnar/article/details/100061487)
+ > Python3 类方法、静态方法新解
+ ## [爬取高清无版权美图](https://blog.csdn.net/luoluopan/article/details/99375290)
+ > 爬取高清无版权美图
+ ## [Alextnet网络](https://blog.csdn.net/Peter_Changyb/article/details/100061719)
+ > Alextnet网络
+ ## [MySQL数据库实操教程(35)——完结篇](https://blog.csdn.net/lfdfhl/article/details/99707521)
+ > MySQL数据库实操教程(35)——完结篇
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
  ## [凌志软件冲刺科创板：过度依赖单一市场，谋求转型任重道远](http://www.lanjingtmt.com/news/detail/44376.shtml)
  > 今年3月20日，凌志软件重整旗鼓，发布公告表示将申请在科创板上市，正式成为纯正的科创板概念股。这一次，加入了云计算、人工智能的凌志软件，又能否如愿以偿登陆科创板？
 # 人工智能 
- ## [关于什么是物联网？没有比这篇文章更全的了](https://blog.csdn.net/qq_38874013/article/details/99419436)
- > 关于什么是物联网？没有比这篇文章更全的了
- ## [高可用架构篇：【3】Redis集群的安装（Redis3+CentOS）（多节点）](https://blog.csdn.net/hekaihaw/article/details/99121597)
- > 高可用架构篇：【3】Redis集群的安装（Redis3+CentOS）（多节点）
- ## [厘米级实时定位！自动驾驶梦之队跃上云端](https://blog.csdn.net/ysq15687614207/article/details/98478413)
- > 厘米级实时定位！自动驾驶梦之队跃上云端
- ## [学习笔记(09):第一章：基于 Spark 的大数据 挖掘大数据挖掘-Spark 下机器学习平台介绍...](https://blog.csdn.net/qq_40293674/article/details/99698341)
- > 学习笔记(09):第一章：基于 Spark 的大数据 挖掘大数据挖掘-Spark 下机器学习平台介绍...
- ## [数据库的命令行操作 数据库的备份，恢复](https://blog.csdn.net/qq_43096062/article/details/98679688)
- > 数据库的命令行操作 数据库的备份，恢复
- ## [大数据：Hadoop入门经典案例wordcount单词统计Java代码实现](https://blog.csdn.net/zhangphil/article/details/99435784)
- > 大数据：Hadoop入门经典案例wordcount单词统计Java代码实现
- ## [修改ROOT密码](https://blog.csdn.net/java_superior/article/details/99713585)
- > 修改ROOT密码
- ## [架构：大型网站核心架构要素。](https://blog.csdn.net/en_joker/article/details/99829229)
- > 架构：大型网站核心架构要素。
- ## [详述数据库多表查询](https://blog.csdn.net/xiao_a_ruo_ya/article/details/99694640)
- > 详述数据库多表查询
- ## [数据库获取汉字拼音的首字母的function](https://blog.csdn.net/qq_36620997/article/details/97749917)
- > 数据库获取汉字拼音的首字母的function
- ## [数据库为什么需要外键？](https://blog.csdn.net/xiao_a_ruo_ya/article/details/99623745)
- > 数据库为什么需要外键？
- ## [sql语句中left join、right join 以及innerjoin之间的使用与区别](https://blog.csdn.net/GreyCastle/article/details/98170177)
- > sql语句中left join、right join 以及innerjoin之间的使用与区别
- ## [大数据和云计算技术周报（第115期)](https://blog.csdn.net/zNZQhb07Nr/article/details/99367537)
- > 大数据和云计算技术周报（第115期)
- ## [大型网站架构常用解决方案](https://blog.csdn.net/qq_39384184/article/details/99308688)
- > 大型网站架构常用解决方案
- ## [高可用架构篇：【1】ZooKeeper集群的安装、配置、高可用测试（多节点）](https://blog.csdn.net/hekaihaw/article/details/98476592)
- > 高可用架构篇：【1】ZooKeeper集群的安装、配置、高可用测试（多节点）
+ ## [什么是物联网操作系统？](https://blog.csdn.net/qq_34449351/article/details/97628525)
+ > 什么是物联网操作系统？
+ ## [什么是人工智能?](https://blog.csdn.net/m0_37468171/article/details/100009355)
+ > 什么是人工智能?
+ ## [AI = 人工智能？](https://blog.csdn.net/fxj2019/article/details/98495828)
+ > AI = 人工智能？
+ ## [物联网服务端架构](https://blog.csdn.net/u012582494/article/details/99963643)
+ > 物联网服务端架构
+ ## [人工智能自学心得](https://blog.csdn.net/weixin_42137700/article/details/99940771)
+ > 人工智能自学心得
+ ## [自定义音视频基类一](https://blog.csdn.net/a896159476/article/details/100017707)
+ > 自定义音视频基类一
+ ## [人工智能day3](https://blog.csdn.net/weixin_45055269/article/details/99885895)
+ > 人工智能day3
+ ## [我所厌烦的人工智能](https://blog.csdn.net/coderising/article/details/100021886)
+ > 我所厌烦的人工智能
+ ## [TDengine物联网大数据平台_开源了](https://blog.csdn.net/yfx000/article/details/97623111)
+ > TDengine物联网大数据平台_开源了
+ ## [python爬取抖音视频](https://blog.csdn.net/qq_33163983/article/details/97773545)
+ > python爬取抖音视频
+ ## [通俗易懂物联网(2)：物联网的特点](https://blog.csdn.net/zhouzxi/article/details/99705294)
+ > 通俗易懂物联网(2)：物联网的特点
+ ## [人工智能  DAY1](https://blog.csdn.net/weixin_45055269/article/details/99694628)
+ > 人工智能  DAY1
+ ## [MediaRecorder音视频录制](https://blog.csdn.net/xdy1120/article/details/98875034)
+ > MediaRecorder音视频录制
+ ## [音视频开发---音视频同步算法](https://blog.csdn.net/u011734326/article/details/97137998)
+ > 音视频开发---音视频同步算法
+ ## [自定义音视频基类二](https://blog.csdn.net/a896159476/article/details/100030376)
+ > 自定义音视频基类二
 # PM 
+ ## [【天天问每周精选】第85期：“稍后阅读”能否有效解决碎片信息处理问题？](http://www.woshipm.com/it/2767485.html)
+ > 目前大部分人都注重自我学习，大环境所致，大家都在学，我不学就有压力 ，“有钱人不可怕，就怕有钱人比我们还拼命努力”。那么如何延展【稍后阅读】，让其更有效？而不是...
  ## [用户画像从应用到搭建实战](http://www.chanpin100.com/article/109346)
  > 本文主要从1、用户画像是什么2、用户画像如何应用3、用户画像如何提供能力4、用户画像如何搭建这几个模块详细讲解，带大家详细认识用户画像。
  ## [30岁前懂3点助你成为不被吃的AI产品经理](http://www.chanpin100.com/article/109353)
