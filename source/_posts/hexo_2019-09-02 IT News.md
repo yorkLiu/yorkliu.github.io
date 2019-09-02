@@ -1,7 +1,7 @@
 ---
 title: 2019-09-02 IT News
 copyright: true
-date: 2019-09-02 10:00:52
+date: 2019-09-02 12:01:36
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,19 +67,35 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [加征关税或致苹果利润缩水50亿美元 美国电子烟巨头Juul遭调查|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1567389604&ver=1827&signature=fQMv4Huubk0rkfZ0JQbO58N6FcVq4UdzVwCx9ioZWjnObuh8Pil9YvyF-ghc0JapbZX1XZAftPQkWgBvJVI22zsNGM5JomH0R8l0TOdElwFU295pqBf-WJh0uRhTDMou&new=1)
+ ## [广东联通5G入网体验记：5G体验包办理方式灵活多样](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=NaqMjQE*G-TWLM708ohrVS06k5ztPJLkgDOkbcXwU6JznZ861O2nsQDz0cBbO9zOBOa27jdbZuqB1jaX5ElBS5PnMdbroJkXZ*2JvtN4IK9Fi4H*gA*9iW8b8rU3Erao&new=1)
+ > 从今年8月初开始，广东联通5G网络公众服务就正式对外开通，近期就有不少网友纷纷亮出了自己5G办理成功的短信提示。对此，运营商财经网也亲自感受了一下5G入网的开通过程。在已经办理成功用户的提示下，记者来到...
+ ## [网络安全人才的争夺已经入白热化，甚至有企业开出600万美元高薪](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=QT80qxxigzCKkdJZDi0VzzCds80zdJbVQwsfbNdMCNnwhhPA-wDu0aYgyXjgcrwktvE2BdrPEtpHCMtr6pqxeW7bevcz6DmlaTtiDVwkxY6WGgrEREsrXookSH0yZLez&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：据了解，因为相关企业对于网络安全的重视程度越来越高，安全专家的薪水正在不断提高，一些大公司甚至开出了100万~600万美元的高薪。近日，有外媒撰文...
+ ## [本月起，三大运营商取消“不限量套餐”!超出套餐部分将进行“阶梯式”计价|晨读天下](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=Dr18hgsnR0fViiNSTtBwFVPkxdU4IfboVyU70hUEQbfvHq2DKAGREZFy3dotvCfDixDO2LOuwqqJjtFnCMbE4EHG0ue2vM5TWnjdARs37ZIZvp*JLb4rHRXZXA6Jaa3p&new=1)
+ > 晨读天下 一条纵览天下风云三大运营商取消“不限量套餐”！超出套餐部分将进行“阶梯式”计价近日，中国互联网络信息中心（CNNIC）发布的第44次《中国互联网络发展状况统计报告》显示，与五年前相比，手机上网流...
+ ## [Win7 再见了~~](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=6TfC2VqLG*NEu9J72D6j946Z*5I*Ze*UHizP-0-T9VJhxD-zx94nMlACumDtvdsCDSgyIj*3JBDkZZcsH4-zwf-PzCb4fUlUBpgpDrF5uGZVvLEKUh4qcBhfoKkd1PVd&new=1)
+ > 最近，微软给大家一个不幸的消息，明年1月14日，win 7停止更新~~~这时间也是挑得很中国特色，1 4 1 4，要死了~~~简单来说，在2020年1月14日之后，企业用户使用Win 7就会遇到安全性麻烦，不提供更新，付费支持也...
+ ## [7点见|新iPhone或于9月13日开始接受预订；换脸软件ZAO惹争议；华为Mate 30发布时间公布](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=*BqxCN12YHQanZ7il7ZUYJ9qZdRnu1kIsHeejaWAN8S74wivvLvtIx06ySdKIKhHnvLX3IFtwSSK9fiS2469oFxyjS66PRz511kGdPms7sK3WWroPoGLR4rYN18evgkf&new=1)
+ > 关键时刻，第一时间送达各位小伙伴们，早上好呀！最近几天，换脸软件ZAO在各大社交网络刷屏，但消息称该App存在滥用用户信息的隐患，你觉得ZAO咋样？对于AI换脸，你又怎么看呢？下面是今日早报时间！新iPhone系...
+ ## [加征关税或致苹果利润缩水50亿美元 美国电子烟巨头Juul遭调查|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=fQMv4Huubk0rkfZ0JQbO58N6FcVq4UdzVwCx9ioZWjn*SB9RD5h9xCS8HPuKhoWqbFv0wSmHC4uQq7b2tlVdFcdm1xe74KErfg4IDkmJ-nQClmJzg75gk0XNDe997khk&new=1)
  > 动点科技 | ID：technode精选新闻新iPhone将亮相：加征关税或致苹果利润缩水50亿美元央视网消息，苹果公司29号证实，将在9月10号发布秋季新品。不过，苹果眼下面临的一大迫切问题就是从9月1号开始，特朗普政府实...
- ## [重磅!9月1日起三大运营商同时叫停“不限量”!](http://mp.weixin.qq.com/s?src=11&timestamp=1567389604&ver=1827&signature=fztUn6djOQOQXId9gJa0kpVl39x33nGTnmkwnuSohjQdTqhTvzE2qIHBCzR3cerS1TzUpnKzflynuScJruCoMXFfDP7tH-PMyv5TEG15UW4E6vbpPWajJuStFdL3J9pP&new=1)
+ ## [重磅!9月1日起三大运营商同时叫停“不限量”!](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=fztUn6djOQOQXId9gJa0kpVl39x33nGTnmkwnuSohjQ-A8i35yJb*0Ilj0xbq3mNQF3-QohTNbsBmOjlEgG341FfD0bteCtesgFSGNgJNK*Ycui8Nficx91Vby9yEU*A&new=1)
  > 来源 运营商头条 通信头条今日起，三大运营商同时对不限流量套餐停止销售，不限流量套餐终于要逐步退出历史舞台了。而不限流量套餐可谓历史上争议最大的一种套餐。对于不限量套餐，一直以来用户的吐槽很多。之前...
- ## [本周大新闻|HoloLens 2将于本月发布，苹果或推AR寻物功能](http://mp.weixin.qq.com/s?src=11&timestamp=1567389604&ver=1827&signature=bp92a9wc6NbTc7*S-s-V*puUdzSzTy*1nWIHmK-pYJ3V-TZMe0SzDDUk1Nku3HyUS-g*WKCgUlzkN33r9hpG-tPs3En8-5rJpOBTTKoqMEZXBDriAoL4z0hD1J5iiEUr&new=1)
+ ## [本周大新闻|HoloLens 2将于本月发布，苹果或推AR寻物功能](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=bp92a9wc6NbTc7*S-s-V*puUdzSzTy*1nWIHmK-pYJ3jE2flyIMdQw9xqpJ-of0aGEic2ERS0VfVGQ8taQ49N0ydxtUxUcOnmEXdIxCi8A-yOcqszDPRApXMfqIQToRU&new=1)
  > hi188｜ 编辑本周大新闻，AR方面，沈向洋宣布HoloLens 2在苏州生产，并于9月正式发布；Oculus CTO John Carmack近期表示消费级AR被夸大；国外开发小哥在iOS最新版发现查找App发现AR图标，未来或将支持A
- ## [\[报告下载\]283篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1567389604&ver=1827&signature=4y-OdB5arnliHQ5UTNwC*52Hb4CS3*3-m-T67TMsxWecpCo-JdGmauhqJWzFnS49hP4*fWqQN*aDa7wIAexryIO9QU7EgBF8RdxWUo5-EL3Zb*lgLEEaFRU9mKGBlU2k&new=1)
+ ## [\[报告下载\]283篇汽车行业顶级报告一次性打包，小编吐血整理!赶快收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=4y-OdB5arnliHQ5UTNwC*52Hb4CS3*3-m-T67TMsxWdwVJWrIc0j0E5Ia8nT0eLea2xM7Ybz-lRFUby46q1-FXzaQNudvmjQXqV0SvhS0Iij-i15y2CGsTX67Jb-ipV9&new=1)
  > 汽车行业280+篇顶级报告大放送！283篇顶尖干货知识，小编吐血整理！废话不多说，今天小编给大家分享283份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽...
- ## [光通信厂商们的上半年：承大压，广布局 走向诗和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1567389604&ver=1827&signature=Vf5cceW4YMoouazpbO6JxCgi6ZpFMyt20PTMUUSDl88-*-2DqEDJwKuJrFQhIXNpjwJZgAiLlVSjQaOq4scH6oDBp15PXsV-37flOXUJhintl74P07V2Mafp81heaPP2&new=1)
+ ## [光通信厂商们的上半年：承大压，广布局 走向诗和远方](http://mp.weixin.qq.com/s?src=11&timestamp=1567396804&ver=1827&signature=Vf5cceW4YMoouazpbO6JxCgi6ZpFMyt20PTMUUSDl89Gl6il226DVJpua5S*vvbrEo1*Y28Uh2BR1BBLY*SP5hKAkRV19vfbkdsN5XO9Rc63W7QLn6C5os2TiC1rV5Zq&new=1)
  > 截至8月的最后一天，国内光通信厂商均发布了2019上半年业绩报告，如果仅从数字上看，确实无法与前两年的高速增长相比，甚至出现了较大幅度的下滑，用某位厂商人士的话说，“光通信厂家今年都不敢公布财报了。”...
 # IT 技术 
+ ## [借助MicroK8s分分钟部署单节点Kubernetes实例](http://cloud.51cto.com/art/201909/602275.htm)
+ > 借助MicroK8s分分钟部署单节点Kubernetes实例
+ ## [5s换脸吴彦祖！爆红AI应用ZAO仍面临技术困境，你的“脸”被授权了吗？](http://zhuanlan.51cto.com/art/201909/602256.htm)
+ > 5s换脸吴彦祖！爆红AI应用ZAO仍面临技术困境，你的“脸”被授权了吗？
  ## [值得关注的十款网站安全开源测试工具](http://netsecurity.51cto.com/art/201909/602267.htm)
  > 值得关注的十款网站安全开源测试工具
+ ## [TensorFlow与PyTorch之争，哪个框架最适合深度学习](http://zhuanlan.51cto.com/art/201909/602243.htm)
+ > TensorFlow与PyTorch之争，哪个框架最适合深度学习
  ## [没看这篇干货，别说你会使用“缓存”](http://stor.51cto.com/art/201909/602263.htm)
  > 没看这篇干货，别说你会使用“缓存”
  ## [阿里大佬：技术人的3个段位，你在哪段?](http://news.51cto.com/art/201909/602264.htm)
@@ -88,32 +104,26 @@ categories: IT NEWS
  > 超实用：14种性能监控与负载测试工具
  ## [写给开发人员：为什么朝九晚五不适合我们？](http://news.51cto.com/art/201908/602148.htm)
  > 写给开发人员：为什么朝九晚五不适合我们？
- ## [Webmin：一款基于Web的Linux管理工具](http://os.51cto.com/art/201908/602117.htm)
- > Webmin：一款基于Web的Linux管理工具
- ## [案例详解：理解Python中的“解析式”](http://developer.51cto.com/art/201908/602188.htm)
- > 案例详解：理解Python中的“解析式”
- ## [无人驾驶元老被起诉，窃取谷歌1.4万份机密文件给Uber](http://ai.51cto.com/art/201908/602162.htm)
- > 无人驾驶元老被起诉，窃取谷歌1.4万份机密文件给Uber
- ## [物联网技术应用的项目有哪些可以落地？有哪些物联网需求非常大？](http://iot.51cto.com/art/201909/602274.htm)
- > 现在物联网非常火，但是真正落地的项目还是非常少，今天就谈谈物联网中哪些项目可以落地，哪些项目有落地的
- ## [我们为什么不应该对物联网过于乐观](http://iot.51cto.com/art/201909/602273.htm)
- > 虽然我们不否认物联网让一切变得更加便利，但我们不能过于乐观，我们需要解决的一些实际问题，然后再将它放
- ## [你可能意识不到的使用 Linux 的 11 种方式](http://os.51cto.com/art/201909/602272.htm)
- > 现在 Linux 几乎可以运行每样东西，但很多人都没有意识到这一点。有些人可能知道 Linux，可能听说过超级计
- ## [10年架构师经典总结：Zookeeper学习之原理](http://os.51cto.com/art/201909/602271.htm)
- > Zookeeper是一个分布式协调服务，可用于服务发现，分布式锁，分布式领导选举，配置管理等。
- ## [MySQL 进行 Docker 容器化之体验与感悟](http://database.51cto.com/art/201909/602268.htm)
- > Docker 的使用原则是所有容器化的应用程序都应该是无状态的 ，即容器内部只跑业务逻辑，容器应用的所有配置
- ## [无线路由器和光猫有什么区别 这篇文章告诉你](http://network.51cto.com/art/201909/602270.htm)
- > 当我们为家中部署WiFi网络时，有两样设备必不可少，一个是无线路由器，另外一个就是调制解调器或光猫。许多
- ## [用Cython加速Python代码，速度溜到飞起](http://developer.51cto.com/art/201909/602266.htm)
- > 如果你曾用Python编写代码，那么你可能花了更多的时间等待某些代码块的执行，而不是你想要的。虽然有一些方
- ## [是时候重新认识“程序员”了！](http://news.51cto.com/art/201909/602269.htm)
- > 网络上虽然已经有了很多关于程序员的话题，但大部分人对这个群体还是很陌生。我们在谈论程序员的时候，究竟
- ## [小小路由器，你真的了解它的构造吗？](http://network.51cto.com/art/201909/602265.htm)
- > 网络中路由器主要采用了四种类型，其中RAM是会在路由器启动或供电间隙时丢失其内容的一种内存。在下面的介
- ## [物联网发展面临法规、标准等六大问题](http://iot.51cto.com/art/201909/602262.htm)
- > 物联网不是一个小产品，也不是只是一个小企业可以做出来，做起来，它不仅需要技术，它更是牵涉到各个行业，
+ ## [28岁，应不应该从普通工程师转行到AI？](http://news.51cto.com/art/201909/602290.htm)
+ > 28岁的物理工程师，想转行做AI到底值不值？机器学习工程师在企业中的现状又是什么样子的？
+ ## [六种隔离技术你知道几种呢?](http://virtual.51cto.com/art/201909/602291.htm)
+ > 在虚拟机技术出现之前，为了运行不同用户的应用程序，人们需要不同的物理机才能实现这样的需求。对于Web应
+ ## [网络攻击的严峻现实：如何降低风险?](http://netsecurity.51cto.com/art/201909/602289.htm)
+ > 网络攻击的严峻现实令人可怕，人们需要了解学会如何反击。如今，不断增加的漏洞泄露敏感的企业信息和数据，
+ ## [使用 Python 函数进行模块化](http://developer.51cto.com/art/201909/602288.htm)
+ > 使用 Python 函数来很大程度地减少重复任务编码工作量。 你是否对函数、类、方法、库和模块等花哨的编程术
+ ## [滴滴开源 AoE：一种快速集成 AI 的终端运行环境 SDK](http://news.51cto.com/art/201909/602286.htm)
+ > 滴滴开源了一个终端侧 AI 集成运行时环境（IRE）―― AoE（AI on Edge）。AoE 以 “稳定性、易用性、安全性
+ ## [详解TCP连接的状态与关闭方式及Winserver系统下的TCP参数优化](http://network.51cto.com/art/201909/602285.htm)
+ > 针对win上的TCP连接方式，说句实在的，设置和优化起来比linux麻烦多了，不过对于一些winserver上的服务器还
+ ## [李开复：为什么我认为“AI+”有四阶段](http://news.51cto.com/art/201909/602287.htm)
+ > 此前对于AI开启的行业赋能，已经被很多次阐释、验证并不断产出成果。但对于“AI+”的发展路径、逻辑和未来
+ ## [一根网线，让整栋宿舍楼熄灯后不再吵闹](http://network.51cto.com/art/201909/602284.htm)
+ > 从产品的角度看，无论是需求分析还是动手实践，以及之后的产品迭代都无可挑剔，用最小的成本就达到了最好的
+ ## [TCP/IP协议族体系结构--网络通信](http://network.51cto.com/art/201909/602282.htm)
+ > 计算机与网络设备要相互通信需要遵守同样的规则。例如，如何找到通信目标、该使用哪种语言通信、怎么结束通
+ ## [人工智能的不良、偏颇和不道德的应用](http://ai.51cto.com/art/201909/602279.htm)
+ > 首席信息官应了解一些个不道德人工智能的例子，并了解其在确保企业人工智能保持中立方面的作用。
  ## [关于响应式布局，你必须要知道的](https://blog.csdn.net/howgod/article/details/100150698)
  > 关于响应式布局，你必须要知道的
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
@@ -146,45 +156,101 @@ categories: IT NEWS
  > Kafka简明教程
  ## [帝都的凛冬](https://blog.csdn.net/yoyo_liyy/article/details/82762601)
  > 各种AI、人工智能、大数据如秋日凉爽的风，杳然erzhi；区块链的风头得到短暂的下降。                此次山竹台风造成了多少伤亡和破坏？人民的生命和财产遭受重大损失
+ ## [紫光集团旗下长江存储启动64层3D NAND闪存量产](http://www.lanjingtmt.com/news/detail/44522.shtml)
+ > 紫光集团旗下长江存储科技有限责任公司宣布，公司已开始量产基于Xtacking®架构的64层256 Gb TLC 3D NAND闪存，以满足固态硬盘、嵌入式存储等主流市场应用需求。
+ ## [消息称今日头条CEO陈林将主要负责创新业务](http://www.lanjingtmt.com/news/detail/44521.shtml)
+ > 据36氪报道，今日头条App的新晋负责人朱文佳已不再向今日头条CEO陈林汇报，改为直接向张一鸣汇报。
+ ## [换脸软件ZAO因网页存安全风险遭微信屏蔽](http://www.lanjingtmt.com/news/detail/44520.shtml)
+ > 换脸软件“ZAO”上线后三天，其微信分享链接已被停止访问。
+ ## [VFine就侵权价值和维权成本赔付问题再诉papitube](http://www.lanjingtmt.com/news/detail/44519.shtml)
+ > VFine Music今日宣布，在此前起诉papitube音乐侵权胜诉后，将继续上诉，本次上诉将围绕侵权价值和维权成本的赔付金额展开。
  ## [微信支付宝争夺ETC市场，火爆背后藏暗礁](http://www.lanjingtmt.com/news/detail/44514.shtml)
  > 近期，在交通部发文推动ETC免费安装的刺激下，各大银行、微信及支付宝等金融科技公司纷纷扎堆涌入其中，开始争夺ETC市场。然而有车主向蓝鲸TMT记者反映称，其通过微信ETC助手办理相
 # 人工智能 
- ## [DNS配置](https://blog.csdn.net/Programmer_Jz/article/details/90286127)
- > DNS配置
- ## [Centos下的Confluence 4.2.11的安装部署（汉化+confluence与nginx的集成）](https://blog.csdn.net/lilygg/article/details/96874620)
- > Centos下的Confluence 4.2.11的安装部署（汉化+confluence与nginx的集成）
- ## [Mysql的高可用架构的搭建（同时实现读写分离）](https://blog.csdn.net/weixin_44889616/article/details/97616654)
- > Mysql的高可用架构的搭建（同时实现读写分离）
- ## [win10专业版激活方法——亲测可行！！！](https://blog.csdn.net/AinUser/article/details/79247841)
- > win10专业版激活方法——亲测可行！！！
- ## [ubuntu 16.04 启用root，启用ssh 方法](https://blog.csdn.net/ai_64/article/details/97115754)
- > ubuntu 16.04 启用root，启用ssh 方法
- ## [【Linux】Linux超全实用指令大全](https://blog.csdn.net/qq_42322103/article/details/96307643)
- > 【Linux】Linux超全实用指令大全
- ## [推荐 OS X 下最方便实用的六款解压缩软件](https://blog.csdn.net/Potatooooo/article/details/82772301)
- > 推荐 OS X 下最方便实用的六款解压缩软件
- ## [DOS处理 CMD提速 BAT恶搞](https://blog.csdn.net/suoyue_py/article/details/97623282)
- > DOS处理 CMD提速 BAT恶搞
- ## [【Linux】一步一步学Linux系列教程汇总（更新中......）](https://blog.csdn.net/dengjin20104042056/article/details/94669639)
- > 【Linux】一步一步学Linux系列教程汇总（更新中......）
- ## [linux查看硬件配置命令](https://blog.csdn.net/wsp_1138886114/article/details/96479986)
- > linux查看硬件配置命令
- ## [windows 环境下，IDEA 开发HBase与Java连接hbase长时间无反应问题](https://blog.csdn.net/muyingmiao/article/details/97839436)
- > windows 环境下，IDEA 开发HBase与Java连接hbase长时间无反应问题
- ## [LAMP与常用软件的安装(Ubuntu 18.04 LTS)](https://blog.csdn.net/huang826336127/article/details/83042812)
- > LAMP与常用软件的安装(Ubuntu 18.04 LTS)
- ## [java语言基础](https://blog.csdn.net/yy139926/article/details/97976454)
- > java语言基础
- ## [自动修复无法修复你的电脑 解决方案](https://blog.csdn.net/Logicr/article/details/88686371)
- > 自动修复无法修复你的电脑 解决方案
- ## [批量解压子目录下包含密码的压缩包](https://blog.csdn.net/moveym/article/details/95452833)
- > 批量解压子目录下包含密码的压缩包
+ ## [探秘HDFS —— 发展历史、核心概念、架构、工作机制 （上）](https://blog.csdn.net/zwgdft/article/details/98178866)
+ > 探秘HDFS —— 发展历史、核心概念、架构、工作机制 （上）
+ ## [kafka 相关笔记](https://blog.csdn.net/yumingzhu1/article/details/98061536)
+ > kafka 相关笔记
+ ## [CentOS7系统下 Kafka安装方法](https://blog.csdn.net/zxxxxxxxxxxxz/article/details/98059344)
+ > CentOS7系统下 Kafka安装方法
+ ## [Spring Cloud - 8 (Spring Cloud Stream)](https://blog.csdn.net/ysl19910806/article/details/97689877)
+ > Spring Cloud - 8 (Spring Cloud Stream)
+ ## [PySpark-RDD Basics](https://blog.csdn.net/qq_35975685/article/details/90755492)
+ > PySpark-RDD Basics
+ ## [hadoop fs常用到的命令整理](https://blog.csdn.net/czz1141979570/article/details/96964240)
+ > hadoop fs常用到的命令整理
+ ## [安装tldr出错ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for f](https://blog.csdn.net/qq_37189082/article/details/97658103)
+ > 安装tldr出错ERROR: Command errored out with exit status 1: python setup.py egg_info Check the logs for f
+ ## [大数据学习笔记之项目（三）：离线项目拓展youtube](https://blog.csdn.net/dataiyangu/article/details/97746461)
+ > 大数据学习笔记之项目（三）：离线项目拓展youtube
+ ## [Hbase面试题（面经）整理](https://blog.csdn.net/super_wj0820/article/details/97876129)
+ > Hbase面试题（面经）整理
+ ## [Spark常见问题汇总](https://blog.csdn.net/peace1213/article/details/97942856)
+ > Spark常见问题汇总
+ ## [Docker-compose文件的编写](https://blog.csdn.net/qq_41967899/article/details/97113333)
+ > Docker-compose文件的编写
+ ## [C 接入kafka kerberos安全认证](https://blog.csdn.net/oppo62258801/article/details/97782289)
+ > C 接入kafka kerberos安全认证
+ ## [【Java 思维导图】 以思维导图打造 Java 核心知识体系](https://blog.csdn.net/Sirius_hly/article/details/94335233)
+ > 【Java 思维导图】 以思维导图打造 Java 核心知识体系
+ ## [Spark学习实例(Python)：共享变量Shared Variables](https://blog.csdn.net/a544258023/article/details/97250230)
+ > Spark学习实例(Python)：共享变量Shared Variables
+ ## [3.Docker之联合文件系统](https://blog.csdn.net/Hh20161314/article/details/97288018)
+ > 3.Docker之联合文件系统
 # PM 
+ ## [KPI是APP日活数，怎么破？](http://www.woshipm.com/operate/815864.html)
+ > 当APP日活数成为KPI，如何寻找合适的指标来进行衡量，找到合适的指标后，又该如何提出解决方案，从而提升KPI，这是运营需要思考的问题。笔者在本文给出了详细的解答。...
+ ## [一个云产品经理的自我检讨](http://www.woshipm.com/pmd/2807727.html)
+ > 从事产品和运营工作6年了，ToB和ToC都干过，以ToB为主。最近2年多，又在做云产品的规划、落地和运营，有些体会和教训，总结一下，于人于己都有些好处。因为云是典型的To...
+ ## [不同场景下，折叠屏的界面设计方法](http://www.woshipm.com/pd/2803899.html)
+ > 距离折叠屏手机正式发售的日子越来越近，三星Galaxy Fold将于9月在韩国开卖，华为Mate X折叠手机也将在近期国内销售。面对折叠屏，大众充满好奇、新鲜感，现在看来硬件...
+ ## [警惕！社群运营的12个陷阱](http://www.woshipm.com/operate/2798896.html)
+ > 笔者从自身经验出发，列举了社群运营中需要注意的12个问题，与大家分享。身边一定有诸多朋友从事社群运营的工作，也有很多朋友在自己公司设立了社群运营的岗位，对社...
+ ## [推广产品的必由之路：运营思维的运用](http://www.woshipm.com/operate/2800846.html)
+ > 设计产品是“生孩子”，推广产品是“养孩子”，养孩子的方法这么多，那么如何才能把孩子养好呢？一、运营的本质在PC互联网和移动互联网刚刚兴起的时候，有了一个好点子，...
+ ## [以车销业务为例，聊聊B端项目需求调研](http://www.woshipm.com/pd/2009614.html)
+ > 本文以车销业务为例，向我们分享了B端项目需求调研的前中后期的工作内容以及注意要点。前言有段时间整个产品团队频繁支撑SFA项目，但需求调研普遍存在一些问题，导致...
+ ## [四年运营工作复盘：到底学到了什么？](http://www.woshipm.com/operate/2803777.html)
+ > 运营其实是个思考为主，体力为辅的活，思维力比执行力更重要，运营能力更多的应该体现在如何巧妙的把人和事对应上，服务好别人的同时也能完成自己的目的，让用户被骗了...
  ## [九月课表丨互联网人，你的9月学习指南已经上线](http://www.woshipm.com/active/2794212.html)
  > 又到一年开学季，还是学生那会，幻想着如果，幻想着未来：如今，成为正儿八经的（互）社（联）会（网）人（gou）。从早上9点到晚上9点，陷入各种稀奇古怪的工作中，...
  ## [Costco成功的秘密：诚实是最好的策略](http://www.woshipm.com/it/2796453.html)
  > “诚实是智慧之书的第一章。”——杰弗逊最近，神店Costco在上海开张，场面火爆，有人说这是用购买力给老美上了一课，有人说这证明了两国人民情真意切，总之皆大欢喜。...
  ## [【天天问每周精选】第86期：直播暂停后并不会断点续播，为什么还要做“暂停”功能？](http://www.woshipm.com/it/2804105.html)
  > 曾几何时，我看到直播有暂停按钮，想着暂停后回来接着看，结果回来发现接着播放的时间点是最新画面，并不是续播，愤懑这和刷新有什么区别，所以在天天问我们和大家讨论...
+ ## [8月26-9月1日热文盘点|不点开看看，你都不知道自己错过了什么！！](http://www.chanpin100.com/article/109418)
+ > 这是一个信息过载的时代。所有人接触到的信息远多于他们能够或愿意加工的信息，我们时刻处于一种信息接收超负荷的状态，为了减轻大家的负担，小编经深度阅读后，为大家带来上周热文盘点。
+ ## [转型产品经理该怎么做（适用于0-2岁的产品经理）](http://www.chanpin100.com/article/109402)
+ > 产品经理是提出方案，解决问题的一群人
+ ## [大盘点！超全面原型资源大礼包~](http://www.chanpin100.com/article/109416)
+ > 超全面产品原型资料汇总，包括100+完整原型项目，上千个可复用的组件与页面素材，涵盖了微信小程序、生活服务、餐饮外卖、在线学习、音视频、资讯平台等各种各样的主流类别
+ ## [【原创】职场里让你看起来更加强大的10个忠告](http://www.chanpin100.com/article/109415)
+ > 职场新人需要了解的10条忠告，你也许没有听说过...
+ ## [做了几年B端产品经理，我想放弃了](http://www.chanpin100.com/article/109414)
+ > 且行且珍惜
+ ## [避免被嘲笑|电商产品、运营需要搞清楚的SPU与SKU的秘密](http://www.chanpin100.com/article/109412)
+ > SPU、SKU熟悉又模糊，多年电商产品、运营也不一定搞明白，本文深度解说，彻底弄清楚，告别反复思考
+ ## [第44次CNNIC互联网报告中的十个谜底](http://www.chanpin100.com/article/109411)
+ > 第44次中国互联网络信息中心(CNNIC)发展统计报告。适合作为市场规模估算、大趋势判断依据。作为主管部门下属事业单位发布的正式报告，是众多报告中比较权威的一份。
+ ## [下拉菜单，汉堡菜单，Megamenu…学习5种常见UI导航设计](http://www.chanpin100.com/article/109410)
+ > 为Web和移动设计UI模式，以优化用户体验并提高产品价值。
+ ## [浅谈智慧医疗产品经理](http://www.chanpin100.com/article/109408)
+ > B端（医院） C端（患者）浅谈智慧医疗产品经理，智慧医院，互联网医院
+ ## [新消费巨浪淹没了多少创业者的底层思考](http://www.chanpin100.com/article/109405)
+ > 新消费巨浪淹没了多少创业者的底层思考
+ ## [一文看懂线性回归（3个优缺点+8种方法评测）](http://www.chanpin100.com/article/109403)
+ > 线性回归是很基础的机器学习算法，本文将通俗易懂的介绍线性回归的基本概念，优缺点，8 种方法的速度评测，还有和逻辑回归的比较。
+ ## [后台系统架构设计-商务咨询系统](http://www.chanpin100.com/article/109400)
+ > 本文为以业务逻辑层、数据底层、表现层这三个方面作为思维模型，进行思考并打造了一款从0到1的后台系统。
+ ## [极光：有钱又有闲，小镇青年已经实现了外卖自由？](http://www.chanpin100.com/article/109399)
+ > 下沉市场外卖行业格局驱稳，美团外卖和饿了么成最优选
+ ## [如何提升产品的用户活跃度？](http://www.chanpin100.com/article/109398)
+ > 基于最近用户活跃有了一些深入的理解，所以对用户活跃做了一定的大梳理。在这个梳理过程中，作者分了三部分。第一部分是产品维度，第二部分是运营维度的，第三部分是大公司运作和商业逻辑维度的。对于这三大块维度的梳理对用户活跃的帮助和对用户需求满足，把低频次需求提升上来的方式和方法进行梳理。对作者本人也是一种再
+ ## [从零搭建一套DMP用户画像标签系统-业务逻辑](http://www.chanpin100.com/article/109397)
+ > 用户画像和DMP是什么关系？DMP要求对所有数据进行清洗整理，方便使用；其主要的业务实现方式就是通过打标签来形成用户画像。用户画像将用户的每个具体信息抽象成标签，从而提供精准服务。
+ ## [学习JavaScript很吃力？开发五年经验带你轻松上路！](http://www.chanpin100.com/article/109396)
+ > 如果你想开发现代的网站和Web应用程序，或者如果你想要一个高薪职位，JavaScript无疑是最好的Web开发语言。
+ ## [快播王欣又来了，"马桶MT"之后是"灵鸽AI"](http://www.chanpin100.com/article/109395)
+ > 2019 年 8 月 28 日快播创始人王欣上线了一款 APP——灵鸽 AI，据称采用了人工智能、区块链等诸多新技术，业界人士将其喻为灵活用工领域的&quot;淘宝&quot;。不过，目前灵鸽还在测试阶段。
 
     
