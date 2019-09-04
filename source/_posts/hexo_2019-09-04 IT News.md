@@ -1,60 +1,62 @@
 ---
 title: 2019-09-04 IT News
 copyright: true
-date: 2019-09-04 09:00:57
+date: 2019-09-04 10:00:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为昇腾910超强AI算力哪里买?智能计算Atlas平台无缝覆盖](http://mp.weixin.qq.com/s?src=11&timestamp=1567558804&ver=1831&signature=-fSJ73UIGNufYPTgleRDZ*rDQFCB4NedqMpuMZLgj0FqlWhabVO7vQnDMeq6ubiAeI*AbvTR4zZOzfdMhD7CmkZpsm5n3arQ3fspBIrO0KLWp2hZfHSiIeEDdU0mkH-o&new=1)
- > 最近北京世界机器人大会、重庆智博会、上海人工智能大会陆续召开，将AI（人工智能）的热度再次提升到新高度，也显示AI产业在快速发展。可以预见，AI作为一种新的通用目的技术，如同19世纪的铁路和电力，以及20世...
- ## [动点科技宣布获得新一轮融资，加速布局国际化媒体创新平台](http://mp.weixin.qq.com/s?src=11&timestamp=1567558804&ver=1831&signature=A49EEiTbQ*Xu51Bsx4pHjc2sqHN7-OBf7AYSPcEFj8NECMA3jnOfe8exkzoI0foTsrVwOpJF3apKeaUPGIS0Vf13QNmfnkGUcofXpimZRyAoGq6RmrXxhpzh-k*ngmzi&new=1)
- > 动点科技 | ID：technode近日，中国极具国际影响力的创新创业平台动点科技（TechNode）正式宣布完成新一轮 Pre-B 轮融资。本轮融资金额为数千万元人民币，投资方为杭州下城国投和优客工场。动点科技前身为国际知...
- ## [求求你们，放过我的5G手机吧](http://mp.weixin.qq.com/s?src=11&timestamp=1567558804&ver=1831&signature=su7i0BfO2zVaSwoptVx6Fhjz*DPg9gkzSEzYkkQG7Po6*GWiBEmBP-A4h36JSvYm*ndiZTbC8TAh2OmMVvrgTKjQpZM5rz-mTI5E5t418U54TulxdvzGSCU2YyiUeirG&new=1)
- > 文末有福利，你懂的最近，机哥看到一则新闻：2019 年，我国预计在 50 个城市，建设超过 5 万个 5G 基站。瞬间，5G 前景更明朗了，有木有~但是，机哥说但是嚯。5 万只是预计，实际会如何呢？有前车之鉴（阴影）。...
- ## [涂鸦智能：做智慧酒店浪潮中的匠人](http://mp.weixin.qq.com/s?src=11&timestamp=1567558804&ver=1831&signature=X4MK2V59jtK5U285ZY-qzaA6YFCN9di51U3pZbAtFi0S*suKZrIDWqrLTl3XHhLJ*lD6FLEgPUm3vCMc-eu0oZEqKB0qkfdo7I9QUzx97WyTN-*ZdoljgmepWtTq2kLy&new=1)
+ ## [涂鸦智能：做智慧酒店浪潮中的匠人](http://mp.weixin.qq.com/s?src=11&timestamp=1567562404&ver=1831&signature=X4MK2V59jtK5U285ZY-qzaA6YFCN9di51U3pZbAtFi0Vro5E4FzhCxN1RJ9rf5urKPNGcNGjtnd9ViWIuEgVdOP3V5lxs0YbvZyfBaJtxE1CAfro153UfaGqCFNVhF89&new=1)
  > 文丨阑夕在智能化浪潮逐渐渗透进普罗大众生活中每一个边角的今天，仍然有一些产业面临着窘境。根据前瞻产业研究院发布的「智能家居设备行业市场前瞻与投资策略规划报告」显示，智能家居市场预计在未来3年内能够...
- ## [供应链助力提升远距识别率，“萝小汪”抢滩千亿级别儿童智能教育市场](http://mp.weixin.qq.com/s?src=11&timestamp=1567558804&ver=1831&signature=*om9OeuumpIxFEDAvfJtGim6AGxE5chvQoD7oXdpmfTsSCyJak6Q0r09YcwdFzxTbWsGka*HaB*oLRyPzzfRHW2jJcIGzGniDh3y06nzD7q7Uhfius0ehO0PSJfxTie*&new=1)
+ ## [华为昇腾910超强AI算力哪里买?智能计算Atlas平台无缝覆盖](http://mp.weixin.qq.com/s?src=11&timestamp=1567562404&ver=1831&signature=-fSJ73UIGNufYPTgleRDZ*rDQFCB4NedqMpuMZLgj0F3p8xkkQWhZ5aRuumz2mRuZXLeUtfY92xs6iDQtGDkHnN968xkIrnuF*h4axfEcw4aphia9IWy4s0fTCsCFBsg&new=1)
+ > 最近北京世界机器人大会、重庆智博会、上海人工智能大会陆续召开，将AI（人工智能）的热度再次提升到新高度，也显示AI产业在快速发展。可以预见，AI作为一种新的通用目的技术，如同19世纪的铁路和电力，以及20世...
+ ## [求求你们，放过我的5G手机吧](http://mp.weixin.qq.com/s?src=11&timestamp=1567562404&ver=1831&signature=su7i0BfO2zVaSwoptVx6Fhjz*DPg9gkzSEzYkkQG7PornJ0yHuD64I5sQ4cISF4uchqaxAq8S3Y9k097SnQDUILLMqPXK8MG59wZ1bHNgiyOy53d84PPj4C1GPzi6JGd&new=1)
+ > 文末有福利，你懂的最近，机哥看到一则新闻：2019 年，我国预计在 50 个城市，建设超过 5 万个 5G 基站。瞬间，5G 前景更明朗了，有木有~但是，机哥说但是嚯。5 万只是预计，实际会如何呢？有前车之鉴（阴影）。...
+ ## [供应链助力提升远距识别率，“萝小汪”抢滩千亿级别儿童智能教育市场](http://mp.weixin.qq.com/s?src=11&timestamp=1567562404&ver=1831&signature=*om9OeuumpIxFEDAvfJtGim6AGxE5chvQoD7oXdpmfS2Wz-1udanuc6bGd7Vc2Tg9McCdKX*9b9gTWeKET8CIcZmYwa3W47qNGk83fibfzif56OpFxylBGlYE50mlUby&new=1)
  > 随着二胎政策的开放，新生儿童数量急剧上升，“让孩子赢在起跑线上”的教育需求缺口越来越大，但忙碌的工作使父母无暇驻足孩子的成长。基于新一代父母的育儿需求，苏州某科技有限公司推出了一款名为萝小汪的儿童...
+ ## [动点科技宣布获得新一轮融资，加速布局国际化媒体创新平台](http://mp.weixin.qq.com/s?src=11&timestamp=1567562404&ver=1831&signature=A49EEiTbQ*Xu51Bsx4pHjc2sqHN7-OBf7AYSPcEFj8OOknj9xbDbBCwpy6BRAdABTRRkJBBKd1OE32Rujpgg2aAWjya6AlQSI1AA6W3T0anJA-3QuBR0580Xv7yJOII*&new=1)
+ > 动点科技 | ID：technode近日，中国极具国际影响力的创新创业平台动点科技（TechNode）正式宣布完成新一轮 Pre-B 轮融资。本轮融资金额为数千万元人民币，投资方为杭州下城国投和优客工场。动点科技前身为国际知...
 # IT 技术 
+ ## [百亿条日志实时处理，为什么要用Flink？](http://os.51cto.com/art/201909/602431.htm)
+ > 百亿条日志实时处理，为什么要用Flink？
  ## [市场营销人员是时候拥抱人工智能了](http://ai.51cto.com/art/201909/602386.htm)
  > 市场营销人员是时候拥抱人工智能了
+ ## [刷脸支付out了？亚马逊测试人手支付 全程仅0.3秒](http://news.51cto.com/art/201909/602425.htm)
+ > 刷脸支付out了？亚马逊测试人手支付 全程仅0.3秒
  ## [Pngquant：Linux上压缩PNG图像的命令行实用工具](http://developer.51cto.com/art/201909/602383.htm)
  > Pngquant：Linux上压缩PNG图像的命令行实用工具
+ ## [坐拥AI、VR与区块链，新时代会是穷人的天堂吗？](http://blockchain.51cto.com/art/201909/602423.htm)
+ > 坐拥AI、VR与区块链，新时代会是穷人的天堂吗？
  ## [月薪没过3W，一定要看8月的这十篇热门文章](http://news.51cto.com/art/201909/602351.htm)
  > 月薪没过3W，一定要看8月的这十篇热门文章
  ## [3天登顶苹果免费榜，“ZAO”作起来会死](http://ai.51cto.com/art/201909/602372.htm)
  > 3天登顶苹果免费榜，“ZAO”作起来会死
  ## [我从资深软件工程师学到的避坑大法](http://zhuanlan.51cto.com/art/201909/602336.htm)
  > 我从资深软件工程师学到的避坑大法
- ## [一道字节跳动的算法面试题，你能做出来吗？](http://news.51cto.com/art/201909/602310.htm)
- > 一道字节跳动的算法面试题，你能做出来吗？
- ## [如何让你的旧电脑跑起来与新电脑一样快？](http://news.51cto.com/art/201909/602283.htm)
- > 如何让你的旧电脑跑起来与新电脑一样快？
- ## [Pandas循环提速7万多倍！Python数据分析哪种更快？](http://news.51cto.com/art/201909/602311.htm)
- > Pandas循环提速7万多倍！Python数据分析哪种更快？
- ## [Pngquant：Linux上压缩PNG图像的命令行实用工具](http://developer.51cto.com/art/201909/602383.htm)
- > Pngquant是一款免费开源的跨平台命令行有损PNG压缩工具。它基于可移植的libimagequant库，用C99编写。可通
- ## [市场营销人员是时候拥抱人工智能了](http://ai.51cto.com/art/201909/602386.htm)
- > 纵观各行各业，凡是有远见的企业，都将人工智能视为提高效率和挖掘大数据的机会。IDC预测，到2021年，企业
- ## [几款密码管理软件推荐：LastPass、1Password、Enpass、KeePass...](http://netsecurity.51cto.com/art/201909/602414.htm)
- > 安全事故频发的同时，人们的密码安全意识却没有相应提高，很多人还在选择生日、证件号码等普通字符当作密码
- ## [三大运营商空前统一 不限量套餐下架自救](http://network.51cto.com/art/201909/602412.htm)
- > 截止到2019年7月，运营商流量收入为3556亿元，但同比增长已经变成-0.2%，本月开始，三大运营商同时下架不限
- ## [MySQL性能优化之Innodb事务系统，值得收藏](http://database.51cto.com/art/201909/602411.htm)
- > 在Innodb中，每次开启一个事务时，都会为该session分配一个事务对象。今天主要分享下Innodb事务系统的一些
- ## [数据库缓存最终一致性的四种方案，你真的了解过吗？](http://stor.51cto.com/art/201909/602413.htm)
- > 缓存是软件开发中一个非常有用的概念，数据库缓存更是在项目中必然会遇到的场景。而缓存一致性的保证，更是
- ## [当JSON解析遇上了泛型该如何处理泛型擦除问题](http://developer.51cto.com/art/201909/602410.htm)
- > JSON是一种轻量级的数据交换格式，简洁和清晰的层次结构使得 JSON 成为理想的数据交换语言，常被用于实际项
- ## [5G正演进比4G更安全](http://network.51cto.com/art/201909/602409.htm)
- > 有人说5G网络速度比4G快10-100倍，那么网络受攻击速度也同步增长，但实际上5G网络安全也正在演进，至少5G比
- ## [建筑业是人工智能和物联网的下一个大目标](http://iot.51cto.com/art/201909/602408.htm)
- > Indus公司联合创始人兼首席执行官Matt Man表示，过去12个月，随着越来越多的开发商意识到在施工现场使用物
- ## [【C/C++】C语言特性总结](https://blog.csdn.net/qq_42322103/article/details/99071161)
- > 【C/C++】C语言特性总结
+ ## [模拟开高达？！高玩大学生发明高度模拟体验驾驶机器人系统引热议](http://news.51cto.com/art/201909/602433.htm)
+ > 近日一位高玩大学生公布了自己发明的高度模拟体验驾驶机器人系统《RemoteCockpit》，可以让玩家坐在模拟驾
+ ## [AIoT智慧社区的关键场景怎样可以改变一下](http://www.cioage.com/art/201909/602432.htm)
+ > 5G不仅是移动技术的升级换代，而且是AIoT时代的瑰宝级基础设施搭建，5G技术之上必须通过全链接的生态构建，
+ ## [企业是否被人工智能的承诺蒙蔽了双眼?](http://ai.51cto.com/art/201909/602428.htm)
+ > 很多企业非常关注人工智能，并准备对其进行更多投资。在普华永道公司最近对1,000名企业高管进行的调查中，2
+ ## [把钱交给人工智能打理，你敢吗？](http://ai.51cto.com/art/201909/602430.htm)
+ > “识不足则多虑”。这句话，是智能投顾很好的注解。智能投顾指的是虚拟机器人基于客户的投资理财需求，通过
+ ## [程序员改行当小学老师，开学第一天看到花名册名字：还是回去当程序员吧](http://news.51cto.com/art/201909/602426.htm)
+ > 程序员改行并不稀奇，主要是程序员这个工作相比其他的没那么稳定，很多年龄大一点的人可能连工作都不好找。
+ ## [用数字揭穿5个网络安全误区](http://netsecurity.51cto.com/art/201909/602424.htm)
+ > 了解最大的网络风险及防御方法对于企业安全来说至关重要。关于网络安全的很多说法往往夸大其词，而人们也深
+ ## [谷歌正式推送Android 10.0正式版！](http://news.51cto.com/art/201909/602429.htm)
+ > 按照之前预告，谷歌已经正式为Android系统命名方式进行了调整，而Android Q也顺理成章的改成了Android 10.0
+ ## [开学AI登场！南京高校用人脸识别查考勤管理学生](http://news.51cto.com/art/201909/602421.htm)
+ > 近日，中国药科大学在教室试点安装人脸识别系统，除了能自动识别学生的出勤情况外，还能够实现对学生课堂听
+ ## [NSA下，5G基站咋操控手机？](http://network.51cto.com/art/201909/602422.htm)
+ > 5G的网络架构，有SA和NSA之分。而在网络的部署初期，大部分运营商首选NSA，或者至少把NSA作为第一阶段的部
+ ## [Wi-Fi 7开始浮现：速度高达每秒30Gbits](http://news.51cto.com/art/201909/602427.htm)
+ > 这Wi-Fi 6才刚刚开始有普及的意思，科学家们已经开始着手推进Wi-Fi 7了。
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
  > 算法学习总结（2）——温故十大经典排序算法
+ ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
+ > 华为EMUI10带来开发者福音：一次开发多端部署
  ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
  > 计算机网络协议——通信协议综述
  ## [超级全面的MySQL优化面试解析](https://blog.csdn.net/weixin_38405253/article/details/100193675)
@@ -81,46 +83,42 @@ categories: IT NEWS
  > 一键部署 Spring Boot 到远程 Docker 容器，就是这么秀！
  ## [JQuery基础笔记及面试题](https://blog.csdn.net/qq_43645678/article/details/93380482)
  > JQuery基础笔记及面试题
- ## [如何用 120 行代码，实现交互完整的拖拽上传组件？](https://blog.csdn.net/csdnnews/article/details/100531183)
- > 作者 | 前端劝退师责编 | 伍杏玲你将在该篇学到：如何将现有组件改写为 React Hooks函数组件useState、useEffect、useRef是如何替代原生命...
- ## [Google 公开被利用了两年的 iOS 漏洞；微博新推社交产品“绿洲”；微软全新终端 v0.4 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100513883)
- > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
- ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/csdnnews/article/details/100513906)
- > 感觉全世界营销文都在推Python，但是找不到工作的话，又有哪个机构会站出来给我推荐工作？笔者冷静分析多方数据，想跟大家说：关于超越老牌霸主Java，过去几年间Pytho...
  ## [喜马拉雅频传IPO，版权问题愈演愈烈之下将何去何从](http://www.lanjingtmt.com/news/detail/44557.shtml)
  > 喜马拉雅目前已跻身在线音频头部平台行列，但其版权问题愈演愈烈。喜马拉雅内容付费走流量模式，但当付费内容的风口渐渐过去时，整个音频市场行业也将逐渐进入瓶颈期。
 # 人工智能 
+ ## [Java实现QQ微信轰炸机1.0（乞丐版）](https://blog.csdn.net/xiao_xiao_b/article/details/93619747)
+ > Java实现QQ微信轰炸机1.0（乞丐版）
+ ## [Java实现QQ微信轰炸机1.2（斗图乞丐版）](https://blog.csdn.net/xiao_xiao_b/article/details/95601038)
+ > Java实现QQ微信轰炸机1.2（斗图乞丐版）
+ ## [【Java】基本设计模式](https://blog.csdn.net/wxj_enchanted/article/details/84893197)
+ > 【Java】基本设计模式
+ ## [01-SpringIoC&DI-授课](https://blog.csdn.net/qq_39817135/article/details/97500418)
+ > 01-SpringIoC&amp;DI-授课
+ ## [java实现QQ微信轰炸机1.1（进阶版）](https://blog.csdn.net/xiao_xiao_b/article/details/93989325)
+ > java实现QQ微信轰炸机1.1（进阶版）
  ## [面试题整理](https://blog.csdn.net/weixin_44346035/article/details/97158115)
  > 面试题整理
- ## [可能是全网最好的MySQL重要知识点/面试题总结](https://blog.csdn.net/qq_34337272/article/details/94201189)
- > 可能是全网最好的MySQL重要知识点/面试题总结
- ## [otter全量同步](https://blog.csdn.net/qq_37891300/article/details/97402000)
- > otter全量同步
- ## [我以为我对Mysql索引很了解，直到我遇到了阿里的面试官](https://blog.csdn.net/hollis_chuang/article/details/95167242)
- > 我以为我对Mysql索引很了解，直到我遇到了阿里的面试官
- ## [Python目录](https://blog.csdn.net/Scrat_Kong/article/details/90257118)
- > Python目录
- ## [SQL语句优化](https://blog.csdn.net/qq_27512271/article/details/91138248)
- > SQL语句优化
- ## [MySQL 命令使用（一）：操作数据库相关命令](https://blog.csdn.net/smile_Running/article/details/88686976)
- > MySQL 命令使用（一）：操作数据库相关命令
- ## [杜凯杰教学数据分析：python 数据提取及拆分](https://blog.csdn.net/weixin_44528048/article/details/92023554)
- > 杜凯杰教学数据分析：python 数据提取及拆分
- ## [SpringBoot事务](https://blog.csdn.net/ysl19910806/article/details/95760850)
- > SpringBoot事务
- ## [SQL语句大全](https://blog.csdn.net/VEclipses/article/details/94492112)
- > SQL语句大全
- ## [DVWA使用教程（SQL injection）（七）](https://blog.csdn.net/ai_64/article/details/93379581)
- > DVWA使用教程（SQL injection）（七）
- ## [Redis的安装，修改密码及登录验证，及三种操作方案](https://blog.csdn.net/qq_23145857/article/details/91045268)
- > Redis的安装，修改密码及登录验证，及三种操作方案
- ## [【Elasticsearch索引恢复流程（上）】](https://blog.csdn.net/weixin_42257250/article/details/90665753)
- > 【Elasticsearch索引恢复流程（上）】
- ## [mongo](https://blog.csdn.net/qq_30505673/article/details/96334799)
- > mongo
- ## [MySQL-mysql 8.0.17安装](https://blog.csdn.net/Charonmomo/article/details/98440968)
- > MySQL-mysql 8.0.17安装
+ ## [面试常问---java基础（一）](https://blog.csdn.net/qq_42896289/article/details/97622643)
+ > 面试常问---java基础（一）
+ ## [java学习血泪史](https://blog.csdn.net/qq_44082148/article/details/97616527)
+ > java学习血泪史
+ ## [java监听、读写串口](https://blog.csdn.net/jiushancunMonkeyKing/article/details/96572110)
+ > java监听、读写串口
+ ## [手写 Spring](https://blog.csdn.net/qq_40147863/article/details/96505433)
+ > 手写 Spring
+ ## [Java面试知识点汇总](https://blog.csdn.net/qq_33945246/article/details/89922244)
+ > Java面试知识点汇总
+ ## [汇总：1. Java基本功](https://blog.csdn.net/Amen_Wu/article/details/79522912)
+ > 汇总：1. Java基本功
+ ## [java 入门面试题](https://blog.csdn.net/meism5/article/details/89021536)
+ > java 入门面试题
+ ## [java并发编程-基础概念、volatile、synchronized、CAS、ABA、线程、线程基本机制](https://blog.csdn.net/qq_40918961/article/details/96607888)
+ > java并发编程-基础概念、volatile、synchronized、CAS、ABA、线程、线程基本机制
+ ## [spring核心大总结](https://blog.csdn.net/qq_39734087/article/details/97965897)
+ > spring核心大总结
 # PM 
+ ## [ZAO热之下，关于行业与产品的冷思考](http://www.woshipm.com/it/2814382.html)
+ > 在ZAO热的背后，本文思考了两个问题：行业发展需迎来新方向，新的现象级产品的要求正在改变。现在，我们越来越少见现象级的APP的出现，沉寂的行业需要一点涟漪才能重...
  ## [B2B增长难题 | 拓新获客的系统化思考（下篇）](http://www.woshipm.com/operate/2816059.html)
  > 拓新增长是企业的系统业务，那么其中的重要力量——销售团队如何利用好老客户来达成事半功倍的拓新效果呢？关于“B2B增长的难题”，在上期的“上篇”里我们探讨了“品牌是B2B...
  ## [需求洞察方法论之——FGPT](http://www.chanpin100.com/article/109421)
