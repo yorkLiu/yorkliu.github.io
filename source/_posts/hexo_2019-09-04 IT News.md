@@ -1,7 +1,7 @@
 ---
 title: 2019-09-04 IT News
 copyright: true
-date: 2019-09-04 12:01:02
+date: 2019-09-04 17:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -36,16 +36,36 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [动点科技宣布获得新一轮融资，加速布局国际化媒体创新平台](http://mp.weixin.qq.com/s?src=11&timestamp=1567569604&ver=1831&signature=A49EEiTbQ*Xu51Bsx4pHjc2sqHN7-OBf7AYSPcEFj8OOknj9xbDbBCwpy6BRAdABTwLgYLi45kGsMmG2i0Tu9M7EwzHmQimX6FKwzu0MmtMBYoEAnU0*fR9o85RfX0lY&new=1)
+ ## [安防展览网邀您做客“2019深圳安博会”视频访谈](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=YnWi5Ps0pgesGAxCf9LiHE2zjFd0Bpf6zmJjvVa4fBUz9M9WsnJdCzUjfS3N2SKw0-yV-7XnkgwEAOuFbRy4igFGxFerGP1SWSVNLzKXLajPTPZDzzVwEfkmn8NH7jW3&new=1)
+ > 两年一度的深圳安博会即将于10月28日至31日在深圳会展中举行，本次第十七届中国国际社会公共安全博览会聚焦智慧城市、智能安防、大数据、人工智能，将为行业带来一场饕餮盛宴。专业安防网络媒体安防展览网作为展...
+ ## [日媒：无人商店发展“要看”中国!](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=pmVITjX9szj2O0LOaxOtKiGmlaPoMjUxxJ15qVPrGDVv-tDPpuCjsrskbSp-JZlzfVAxR258zant6hGvnEVWM-DCk2QwH5-Gs9fchk79Rmfccw8aHTuM1bD2hYGgpWzg&new=1)
+ > 日本NTT数据集团宣布，将在无人商店系统研发领域与中国的初创企业开展合作，目标是从在该领域占据领先位置的中国引进二维码认证技术，在落后的无人商店技术方面实现逆袭。资料图日媒报道称，新一代“无人店铺”...
+ ## [明明只是办个宽带业务，联通你却给我整成了网贷?](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=ZhPM6wJQ2csxybDeFGpcaNdzDqbhb3MJIqOJEb9KdzR1mhFYjzE*gmFGlkkPtrSPDkxXCHcGuDbWrazzaH7LJcqp2Vg8inJRfnvlIW0F7FimKrQdW8buWgzzzGYxd5gq&new=1)
+ > 现在的一些商家，套路也是忒多了，正常办个业务都能险些被坑。最近就有个网友分享了自己去联通办宽带的经历，本来只想在营业厅办个宽带续费业务，却险被联通工作人员办理成网贷。从爆料的内容来看，9月1日，这名...
+ ## [a&s传媒对话墨奇科技CEO邰骋：秒级比对20亿无特征指纹将重焕指纹识别应用潜能!](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=Iy1Zm*Jv5H8tzagz3PD*zhLPNTQKldbZebL*7a1*m*UVraye*Dl9xLyd6Aj9HeMcioFKk7xyQhEwIgBRB9UG4*vrHcK9ekxovX7vk2*UppDOcD4m1Rf6CPW0WMRR*ijh&new=1)
+ > 前言在安防领域，随着人脸识别的规模化应用，以及虹膜、声纹、步态等生物识别技术应用的不断涌现，曾被称为“证据之王”的指纹识别，这种最古老、权威的生物特征识别技术，仿佛被业界遗忘了！而最近一则关于秒级...
+ ## [浙大毕业，李飞飞高徒朱玉可加盟UT Austin，曾获ICRA 2019最佳论文](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=nFGGTdVbZ2-DOffiH-rBYy5IgpO9NExnjJjD1QdqLjrijoDJRnWNicYYoCboUOSib0rI0eTx0bN-fyk1Nk8y0KkB9nWnATltxzayX2f6U0ZxD0Umjb93GhQ8rZaem6Sy&new=1)
+ > 机器之心报道机器之心编辑部李飞飞的又一位得意门生走向了教学岗位：昨天，刚刚毕业的斯坦福博士朱玉可（Yuke Zhu）宣布即将在 2020 年秋季加入德克萨斯大学奥斯汀分校（The University of Texas at Austin）
+ ## [OA市场增长乏力 泛微未来靠什么取胜?](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=cjXw58P6vuOaFSkKZwQSfFSC59G8EDVpE5hM8beTtr-4KaudbU5u3Y2l5*gip2HUsX0CqGlbE0vZ5RLST*6yEHPlcg7yCEUn47bk6NgAYQkB6Xy0d0pPIT7NhpOFx-co&new=1)
+ > 上周，泛微网络发布了其2019年中期财报，营收和利润均获得增长。财报显示，2019 年上半年，公司共实现营业收入 50,494.62 万元，同比增长 25.96%；实现归母净利润 4,919.37 万元，比上年同期增加 35.70%。尽管收
+ ## [黑客利用固件漏洞的八种方式](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=qUjB*0CFv5y2DSIKGwgQsdqm1vXTZ0AG3kZpmzbOXtCcGzeJ*kwuLg0nEfGtSV*rv7H1XsN5qMiWf6NaBon2Ll32ppFlIjqbm3TmXJqhl1uOTvvAMbimDQ-h5qRVnzSK&new=1)
+ > 新物联网产品源源不断涌向市场，但速度不应成为忽视安全的借口。今年的拉斯维加斯黑帽大会上，微软披露称，俄罗斯恶意黑客组织利用常见物联网设备对企业网络执行大规模攻击。消息一出，四野具惊。微软宣称 ，黑...
+ ## [AIOps对数据中心意味着什么](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=AqJMqw-Q22z2w7HAgdMvNqOlEabVeeeKUFDHCw7zZuN0lqEkdl2TDxLngE0VBD4TUMJhtodJZAFZp2Tsikc*I5RnaD4y8*aHnl-zH-8BlE1qHV773rIX9Az6qJqOFoMG&new=1)
+ > 关键讯息，D1时间送达！在当前的现代化时代，数据中心技术由云计算、内部部署技术、以及IT管理方法的组合组成，IT运营团队正在努力适应这一新的现实，并应对由此带来的日益增加的复杂性。很多人希望了解AIOps能...
+ ## [\[报告\]2019中国汽车品牌及新能源汽车发展趋势蓝皮书(附110页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=AeM5Xmx9UdSgBn2z1t*xz-Jowbx1p*RxI3LkU4jwZzXoN8z8kb0B9nbPaJowswbQdC5zHdFclTkZORmXSUnr51DIBcd4gnnRjRa8y-jMgeY0fnMjzliwzdwPBGIeFXtA&new=1)
+ > 与其相忘江湖，不如点击“蓝字”关《2019中国汽车品牌及新能源汽车发展趋势蓝皮书》目录中国乘用车市场发展现状分析中国汽车品牌发展趋势研究新能源汽车发展趋势研究新能源市场竞争格局小结销量出现下跌，新能源...
+ ## [讯石会议|9月3日·讯石第十八届光纤通讯市场暨技术专题研讨会圆满举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=XnKsRero0uC6RKDPa1S7PeN9N0MulQbCzMZLE24ulhOhHIlALMNeJcs8MMzImDIX*ncsOpe8-64b3dR2M00gjsaX3WMbjnwT5CgM-ThX8S7phlwixHdWaROh6rfZESnj&new=1)
+ > 导读     9月3日，讯石第十八届研讨会圆满举办。本届会议聚焦“5G建设及其应用”、“5G与数据中心”、“中国芯发展”等行业热点，在演讲嘉宾阵容、会议规模上再创新高，40多位讲师及论坛嘉宾齐聚一堂，与300余家...
+ ## [动点科技宣布获得新一轮融资，加速布局国际化媒体创新平台](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=A49EEiTbQ*Xu51Bsx4pHjc2sqHN7-OBf7AYSPcEFj8NTI9gJu0MkyW5Yn9cAqLf6dYWNF1NTJ3nLCdzjL0Jjs1TyL-OkSoiLpIytfe9DF4roFiE8UvKh6UXQ3qjARN9N&new=1)
  > 动点科技 | ID：technode近日，中国极具国际影响力的创新创业平台动点科技（TechNode）正式宣布完成新一轮 Pre-B 轮融资。本轮融资金额为数千万元人民币，投资方为杭州下城国投和优客工场。动点科技前身为国际知...
- ## [供应链助力提升远距识别率，“萝小汪”抢滩千亿级别儿童智能教育市场](http://mp.weixin.qq.com/s?src=11&timestamp=1567569604&ver=1831&signature=*om9OeuumpIxFEDAvfJtGim6AGxE5chvQoD7oXdpmfS2Wz-1udanuc6bGd7Vc2TghzxC58RoNiS9dK*zzsoY6nv0l3KXkDZZWuPkTWY2pMQaprrsZXhHQfStmi5p9w6c&new=1)
- > 随着二胎政策的开放，新生儿童数量急剧上升，“让孩子赢在起跑线上”的教育需求缺口越来越大，但忙碌的工作使父母无暇驻足孩子的成长。基于新一代父母的育儿需求，苏州某科技有限公司推出了一款名为萝小汪的儿童...
- ## [求求你们，放过我的5G手机吧](http://mp.weixin.qq.com/s?src=11&timestamp=1567569604&ver=1831&signature=su7i0BfO2zVaSwoptVx6Fhjz*DPg9gkzSEzYkkQG7PornJ0yHuD64I5sQ4cISF4uY4joXtcGe3O9N4KHNLEbphtZ8yZR6zd-UgM768kXsWRikDcaplnef3EUobTrB-mK&new=1)
- > 文末有福利，你懂的最近，机哥看到一则新闻：2019 年，我国预计在 50 个城市，建设超过 5 万个 5G 基站。瞬间，5G 前景更明朗了，有木有~但是，机哥说但是嚯。5 万只是预计，实际会如何呢？有前车之鉴（阴影）。...
- ## [涂鸦智能：做智慧酒店浪潮中的匠人](http://mp.weixin.qq.com/s?src=11&timestamp=1567569604&ver=1831&signature=X4MK2V59jtK5U285ZY-qzaA6YFCN9di51U3pZbAtFi0Vro5E4FzhCxN1RJ9rf5uruZxitPn3zbk8TZlmaKAlHjLL4VQcm9g1z9*Aj3XNy-jcasXWRR7k5IkTdPD6xFa3&new=1)
- > 文丨阑夕在智能化浪潮逐渐渗透进普罗大众生活中每一个边角的今天，仍然有一些产业面临着窘境。根据前瞻产业研究院发布的「智能家居设备行业市场前瞻与投资策略规划报告」显示，智能家居市场预计在未来3年内能够...
- ## [华为昇腾910超强AI算力哪里买?智能计算Atlas平台无缝覆盖](http://mp.weixin.qq.com/s?src=11&timestamp=1567569604&ver=1831&signature=-fSJ73UIGNufYPTgleRDZ*rDQFCB4NedqMpuMZLgj0F3p8xkkQWhZ5aRuumz2mRuMWYkwg4Exb0O6grRaGx4hM96L1MnepMUIyebq9b3o1W0C9Ptw49ei2b*8Fd7SaLE&new=1)
+ ## [华为昇腾910超强AI算力哪里买?智能计算Atlas平台无缝覆盖](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=-fSJ73UIGNufYPTgleRDZ*rDQFCB4NedqMpuMZLgj0FPwEJ2w*O8qug2dYQkolDebYexa72rrt2ySfHcWmeLFgAKnU2jEvydGfoXI*GNdq5YnGWKu*4T-26Lt7A-Fqsv&new=1)
  > 最近北京世界机器人大会、重庆智博会、上海人工智能大会陆续召开，将AI（人工智能）的热度再次提升到新高度，也显示AI产业在快速发展。可以预见，AI作为一种新的通用目的技术，如同19世纪的铁路和电力，以及20世...
+ ## [求求你们，放过我的5G手机吧](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=su7i0BfO2zVaSwoptVx6Fhjz*DPg9gkzSEzYkkQG7PoT346Ss0THhEItDrVcTWGU2a0cWEumLM0Ne5JZ*jRlZEUdcyZEowmiiP75gJFGS9Ozp9gOLXaLUj8C7mBIFqMC&new=1)
+ > 文末有福利，你懂的最近，机哥看到一则新闻：2019 年，我国预计在 50 个城市，建设超过 5 万个 5G 基站。瞬间，5G 前景更明朗了，有木有~但是，机哥说但是嚯。5 万只是预计，实际会如何呢？有前车之鉴（阴影）。...
+ ## [供应链助力提升远距识别率，“萝小汪”抢滩千亿级别儿童智能教育市场](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=*om9OeuumpIxFEDAvfJtGim6AGxE5chvQoD7oXdpmfTIrZ4SDZGIRVv4LjkjlB3YeDAwAyfHnz0*012AtiM5Ur2fpIye4ve3FpPzEntX0E89djeVxhIUv7Y6w1iIeTz2&new=1)
+ > 随着二胎政策的开放，新生儿童数量急剧上升，“让孩子赢在起跑线上”的教育需求缺口越来越大，但忙碌的工作使父母无暇驻足孩子的成长。基于新一代父母的育儿需求，苏州某科技有限公司推出了一款名为萝小汪的儿童...
+ ## [涂鸦智能：做智慧酒店浪潮中的匠人](http://mp.weixin.qq.com/s?src=11&timestamp=1567587604&ver=1831&signature=X4MK2V59jtK5U285ZY-qzaA6YFCN9di51U3pZbAtFi0EsrJASxzXPz0gUSDT-ULkCTw3HBZCZZ-w7jbiD8hmOqIKUT7zrMUd87wHVE*aWnKD-Lx9ZG-VVMRcVXbYwE1Y&new=1)
+ > 文丨阑夕在智能化浪潮逐渐渗透进普罗大众生活中每一个边角的今天，仍然有一些产业面临着窘境。根据前瞻产业研究院发布的「智能家居设备行业市场前瞻与投资策略规划报告」显示，智能家居市场预计在未来3年内能够...
 # IT 技术 
  ## [百亿条日志实时处理，为什么要用Flink？](http://os.51cto.com/art/201909/602431.htm)
  > 百亿条日志实时处理，为什么要用Flink？
@@ -63,114 +83,124 @@ categories: IT NEWS
  > 坐拥AI、VR与区块链，新时代会是穷人的天堂吗？
  ## [组织应该在网络安全方面投入多少钱？](http://netsecurity.51cto.com/art/201909/602394.htm)
  > 组织应该在网络安全方面投入多少钱？
- ## [人工智能将如何改变银行业务](http://ai.51cto.com/art/201909/602452.htm)
- > 如今，人工智能(AI)为许多行业提供了许多资产和利益，并成为了当今讨论最多的话题之一，从聊天机器人到Siri
- ## [黑客利用固件漏洞的八种方式](http://zhuanlan.51cto.com/art/201909/602450.htm)
- > 在设备入侵尚未导致收益损失、诉讼、公司声誉伤害等恶劣情况之前，有必要关注下列八种常见固件漏洞，确保自
- ## [8月份Github上热门的开源项目](http://os.51cto.com/art/201909/602449.htm)
- > 今天，猿妹将和大家盘点8月份最热门的GitHub项目，一起来看看你都知道哪些，或者有哪些你已经在使用的了。
- ## [物联网如何革新医疗保健行业](http://iot.51cto.com/art/201909/602447.htm)
- > 当应用于医疗保健行业时，物联网承载着巨大的潜力。从药物管理到患者监护，其用途几乎是无限的。让我们来看
- ## [如何利用物联网分析来获取商业价值？](http://iot.51cto.com/art/201909/602445.htm)
- > 物联网设备会生成大量数据。为了真正利用物联网设备，企业需要将来自各种设备和传感器的物联网数据与来自
- ## [生活在边缘：从物联网数据中提取终极价值](http://iot.51cto.com/art/201909/602444.htm)
- > 为了使这种实时数据能够以高容量和高速度从物联网传感器和网络操作中不断流入组织，您需要一种不同于传统静
- ## [为什么阿里巴巴建议开发者谨慎使用继承？](http://zhuanlan.51cto.com/art/201909/602446.htm)
- > 从学习Java的第一天起，我们就知道Java是一种面向对象语言，而学习Java的第二天，我们就知道了面向对象的三
- ## [倪光南：AI发展应吸取教训，核心技术不能靠买靠换](http://ai.51cto.com/art/201909/602441.htm)
- > “过去这些年，我们在信息技术领域最大的一个经验教训，就是关键核心技术必须靠自己自主创新来解决，不能靠
- ## [谷歌在 Android 上想做的事，可能要靠国产手机厂商来实现了](http://mobile.51cto.com/anews-602440.htm)
- > 安卓本身作为一个开源系统，「开放」是它的根本，然而这也带来了碎片化的问题。各家系统都进行了比较大的定
- ## [从 IPv4 到 IPv6 过渡，无法错过这些知识点](http://network.51cto.com/art/201909/602443.htm)
- > 网络是我们工程师的基础技能之一, 毕竟没有网络我们什么也干不了! 从各大公司的招聘要求上看,网络也是重点
+ ## [分享十个较佳的免费密码管理器](http://netsecurity.51cto.com/art/201909/602465.htm)
+ > 密码管理器始终有助于制作强密码，以保护您的设备，在线银行帐户和其他数据源免受未经授权的访问。在本文中
+ ## [JVM内存分配及String常用方法](http://virtual.51cto.com/art/201909/602466.htm)
+ > 在介绍String类之前，先来简单分析一下在JVM中，对内存的使用是如何进行分配的。JVM将内存分为多个不同的区
+ ## [与天对赌还是命中注定 矿卡究竟能不能入手？](http://biz.51cto.com/art/201909/602464.htm)
+ > 生活中到处都充满着诱惑，显卡也不例外。打开闲鱼我们不难发现，低价的显卡比比皆是，硬件江湖中他们有一个
+ ## [五行代码用图提升模型表现，TensorFlow开源NSL神经结构学习框架](http://news.51cto.com/art/201909/602463.htm)
+ > 今日，谷歌 TensorFlow 宣布推出神经结构学习（NSL）开源框架，它使用神经图学习方法来训练带有图和结构化
+ ## [谷歌正将Android 10源代码上传到AOSP安卓开源项目](http://news.51cto.com/art/201909/602462.htm)
+ > 9 月 4 日消息 今天早些时候，谷歌开始向 Pixel 手机等设备发布 Android 10 正式版。
+ ## [Nginx常用功能全揭秘](http://server.51cto.com/sOS-602460.htm)
+ > nginx作为一个高性能的web服务器，想必大家垂涎已久，蠢蠢欲动，想学习一番了吧，语法不多说，网上一大堆。
+ ## [苹果可能以人民币美元 1：1 的兑换率给中国开发者汇款](http://news.51cto.com/art/201909/602459.htm)
+ > 多名中国 iOS 开发者在社交网络上称（weibo，twitter），他们从苹果应用商店收到的销售分成是平常的 7 倍，
+ ## [深入理解Java的Volatile关键字](http://developer.51cto.com/art/201909/602458.htm)
+ > 在Java并发编程中，volatile关键字有着至关重要的作用，在面试中也常常会是必备的一个问题。本文将会介绍vo
+ ## [听说你有10年的工作经验？还是你把1个经验反复用了10年？](http://news.51cto.com/art/201909/602457.htm)
+ > 前几天，有位小伙伴提出离职，我找他聊了聊。我问他，离职的原因是什么?他说，现在的工作太枯燥乏味，缺少
+ ## [IDC表示，安全改进成为衡量物联网项目成功的关键](http://iot.51cto.com/art/201909/602455.htm)
+ > 根据该报告，安全改进正在成为衡量物联网项目成功程度的重要关键指标，尤其是在公共部门、制造业和医疗保健
+ ## [Android 10正式版发布，看看都有哪些新特性](https://blog.csdn.net/xiangzhihong8/article/details/100534958)
+ > Android 10正式版发布，看看都有哪些新特性
+ ## [9月4日科技资讯|微信支付二维码被诉侵权；AI 换脸 App「ZAO」致歉； Android 10 正式发布](https://blog.csdn.net/weixin_39786569/article/details/100533412)
+ > 9月4日科技资讯|微信支付二维码被诉侵权；AI 换脸 App「ZAO」致歉； Android 10 正式发布
  ## [【C/C++】C语言特性总结](https://blog.csdn.net/qq_42322103/article/details/99071161)
  > 【C/C++】C语言特性总结
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
  > 算法学习总结（2）——温故十大经典排序算法
- ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
- > 计算机网络协议——通信协议综述
- ## [超级全面的MySQL优化面试解析](https://blog.csdn.net/weixin_38405253/article/details/100193675)
- > 超级全面的MySQL优化面试解析
- ## [5G来了，普通人看热闹，程序员看颠覆](https://blog.csdn.net/ityouknow/article/details/100147892)
- > 5G来了，普通人看热闹，程序员看颠覆
  ## [MySQL 数据库铁律](https://blog.csdn.net/smartbetter/article/details/100160069)
  > MySQL 数据库铁律
+ ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
+ > 计算机网络协议——通信协议综述
  ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
  > 程序员那些必须掌握的排序算法(上)
- ## [【技巧】我是如何 "搜索" 到想要的信息的](https://blog.csdn.net/qq_42322103/article/details/100139708)
- > 【技巧】我是如何 &quot;搜索&quot; 到想要的信息的
- ## [程序员真是太太太太太有趣了！！！](https://blog.csdn.net/j3T9Z7H/article/details/100179186)
- > 程序员真是太太太太太有趣了！！！
- ## [使用Python编写打字训练小程序](https://blog.csdn.net/devcloud/article/details/100098672)
- > 使用Python编写打字训练小程序
  ## [【Java设计模式】软件设计七大原则](https://blog.csdn.net/qq_42322103/article/details/91411528)
  > 【Java设计模式】软件设计七大原则
- ## [【C/C++】内存管理总结](https://blog.csdn.net/qq_42322103/article/details/99089546)
- > 【C/C++】内存管理总结
+ ## [程序员真是太太太太太有趣了！！！](https://blog.csdn.net/j3T9Z7H/article/details/100179186)
+ > 程序员真是太太太太太有趣了！！！
+ ## [【技巧】我是如何 "搜索" 到想要的信息的](https://blog.csdn.net/qq_42322103/article/details/100139708)
+ > 【技巧】我是如何 &quot;搜索&quot; 到想要的信息的
  ## [Mysql数据库开发的36条原则](https://blog.csdn.net/devcloud/article/details/100173405)
  > Mysql数据库开发的36条原则
+ ## [认认真真推荐9个高质量公众号](https://blog.csdn.net/luoluopan/article/details/100515730)
+ > 认认真真推荐9个高质量公众号
+ ## [超级全面的MySQL优化面试解析](https://blog.csdn.net/weixin_38405253/article/details/100193675)
+ > 超级全面的MySQL优化面试解析
+ ## [详解Python操作Excel文件](https://blog.csdn.net/weixin_38405253/article/details/100512061)
+ > 详解Python操作Excel文件
  ## [一键部署 Spring Boot 到远程 Docker 容器，就是这么秀！](https://blog.csdn.net/u012702547/article/details/100153799)
  > 一键部署 Spring Boot 到远程 Docker 容器，就是这么秀！
- ## [JQuery基础笔记及面试题](https://blog.csdn.net/qq_43645678/article/details/93380482)
- > JQuery基础笔记及面试题
  ## [如何用 120 行代码，实现交互完整的拖拽上传组件？](https://blog.csdn.net/csdnnews/article/details/100531183)
  > 作者 | 前端劝退师责编 | 伍杏玲你将在该篇学到：如何将现有组件改写为 React Hooks函数组件useState、useEffect、useRef是如何替代原生命...
  ## [Google 公开被利用了两年的 iOS 漏洞；微博新推社交产品“绿洲”；微软全新终端 v0.4 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100513883)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
  ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/csdnnews/article/details/100513906)
  > 感觉全世界营销文都在推Python，但是找不到工作的话，又有哪个机构会站出来给我推荐工作？笔者冷静分析多方数据，想跟大家说：关于超越老牌霸主Java，过去几年间Pytho...
+ ## [格力回应电饭煲“敞开吃血糖不升高”言论质疑：适合做糙米饭](http://www.lanjingtmt.com/news/detail/44574.shtml)
+ > 格力就电饭煲“敞开吃血糖不升高”言论引发的质疑于官方微博作出回应称，系格力大松金康煲针对糙米快煮。
+ ## [微博新社交产品“绿洲”图标涉嫌抄袭，现已下架](http://www.lanjingtmt.com/news/detail/44573.shtml)
+ > 微博新推出的社交产品“绿洲”疑似抄袭韩国著名平面设计工作室studio fnt 2015年给Ulju Mountain电影节设计的视觉形象。
+ ## [ZAO回应工信部约谈：加强内容管理，确保个人信息数据安全](http://www.lanjingtmt.com/news/detail/44571.shtml)
+ > ZAO因用户隐私协议不规范，存在数据泄露风险等网络数据安全问题等，其主体公司北京陌陌科技有限公司相关负责人被工信部问询约谈。
  ## [喜马拉雅频传IPO，版权问题愈演愈烈之下将何去何从](http://www.lanjingtmt.com/news/detail/44557.shtml)
  > 喜马拉雅目前已跻身在线音频头部平台行列，但其版权问题愈演愈烈。喜马拉雅内容付费走流量模式，但当付费内容的风口渐渐过去时，整个音频市场行业也将逐渐进入瓶颈期。
 # 人工智能 
- ## [使用 Access 查询设计器轻松构造复杂 SQL 语句 (2)](https://blog.csdn.net/stone0823/article/details/81273881)
- > 使用 Access 查询设计器轻松构造复杂 SQL 语句 (2)
- ## [canal基本知识](https://blog.csdn.net/weixin_40126236/article/details/92654961)
- > canal基本知识
- ## [【实验记录】DEXTR](https://blog.csdn.net/qq_31347869/article/details/96582288)
- > 【实验记录】DEXTR
- ## [MyCAT面试题](https://blog.csdn.net/jiongsui7605/article/details/94410680)
- > MyCAT面试题
- ## [Kafka 疑问之offset位移](https://blog.csdn.net/yujianping_123/article/details/97398373)
- > Kafka 疑问之offset位移
- ## [003-Django 配置 postgresql 数据库](https://blog.csdn.net/weixin_42725107/article/details/95463662)
- > 003-Django 配置 postgresql 数据库
- ## [shiro](https://blog.csdn.net/qq_42614414/article/details/97630949)
- > shiro
- ## [Java 后端架构之路](https://blog.csdn.net/huyunqiang111/article/details/97950780)
- > Java 后端架构之路
- ## [Redis中基于hash的字典的hash算法](https://blog.csdn.net/weixin_36451489/article/details/97381074)
- > Redis中基于hash的字典的hash算法
- ## [MySQL 命令使用（一）：操作数据库相关命令](https://blog.csdn.net/smile_Running/article/details/88686976)
- > MySQL 命令使用（一）：操作数据库相关命令
- ## [MySql学习笔记](https://blog.csdn.net/weixin_44815052/article/details/96179684)
- > MySql学习笔记
- ## [数据库常见面试题（附答案）](https://blog.csdn.net/qq_22222499/article/details/79060495)
- > 数据库常见面试题（附答案）
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [MySQL---基础](https://blog.csdn.net/qq_42727102/article/details/96995615)
- > MySQL---基础
- ## [otter全量同步](https://blog.csdn.net/qq_37891300/article/details/97402000)
- > otter全量同步
+ ## [Java SE总结](https://blog.csdn.net/qq_41605068/article/details/98377743)
+ > Java SE总结
+ ## [java并发编程-基础概念、volatile、synchronized、CAS、ABA、线程、线程基本机制](https://blog.csdn.net/qq_40918961/article/details/96607888)
+ > java并发编程-基础概念、volatile、synchronized、CAS、ABA、线程、线程基本机制
+ ## [算法基础](https://blog.csdn.net/weixin_44359349/article/details/97619423)
+ > 算法基础
+ ## [spring核心大总结](https://blog.csdn.net/qq_39734087/article/details/97965897)
+ > spring核心大总结
+ ## [新人一看就懂：Spring Boot+Spring mvc+Mybatis的基础框架demo](https://blog.csdn.net/sinat_27933301/article/details/88563560)
+ > 新人一看就懂：Spring Boot+Spring mvc+Mybatis的基础框架demo
+ ## [手写 Spring](https://blog.csdn.net/qq_40147863/article/details/96505433)
+ > 手写 Spring
+ ## [小仙女讲JVM（1）—综述](https://blog.csdn.net/qsbbl/article/details/92790197)
+ > 小仙女讲JVM（1）—综述
+ ## [java复习快速导航](https://blog.csdn.net/wjl31802/article/details/91411353)
+ > java复习快速导航
+ ## [Java面试知识点汇总](https://blog.csdn.net/qq_33945246/article/details/89922244)
+ > Java面试知识点汇总
+ ## [java 入门面试题](https://blog.csdn.net/meism5/article/details/89021536)
+ > java 入门面试题
+ ## [汇总：1. Java基本功](https://blog.csdn.net/Amen_Wu/article/details/79522912)
+ > 汇总：1. Java基本功
+ ## [Java 面试题](https://blog.csdn.net/meism5/article/details/92830778)
+ > Java 面试题
+ ## [java实现QQ微信轰炸机1.1（进阶版）](https://blog.csdn.net/xiao_xiao_b/article/details/93989325)
+ > java实现QQ微信轰炸机1.1（进阶版）
+ ## [我竟然不再抗拒 Java 的类加载机制了](https://blog.csdn.net/qing_gee/article/details/95324392)
+ > 我竟然不再抗拒 Java 的类加载机制了
+ ## [SpringBoot专题](https://blog.csdn.net/moquz/article/details/98219649)
+ > SpringBoot专题
 # PM 
- ## [产品经理如何做设计决策？](http://www.woshipm.com/pmd/2820531.html)
- > 设计决策在产品工作中是非常重要的一部分，做好了决策才能保证产品经理在正确方向上做事。那我们要如何确保设计决策是准确无误的呢？本文将揭晓答案。如果问我产品经...
- ## [SaaS创业路线图（61）：客户成功管理框架](http://www.woshipm.com/chuangye/2820794.html)
- > 本文作者最近与几个头部通用SaaS及行业SaaS公司负责客户成功的同学交流了不少与客户成功部门管理的内容，包括职责、KPI、CSM人才画像、工作方法、考核指标等，这篇就与...
- ## [2019风险投资圈的25个热点行业：生物医疗篇（二）](http://www.woshipm.com/chuangye/2812699.html)
- > 我将为大家介绍本年和生物医疗相关的产业现状和趋势预测。生物医疗产业位于本年度VC偏好的第二名，安全需求位于马洛斯模型的第二层，属于基本需求，在人类没有对人体探...
- ## [实操：以抽奖活动为例，解析活动运营的注意事项](http://www.woshipm.com/operate/2817330.html)
- > 本文以作者展开的一个演唱会门票抽奖活动为例，分析了如何跟踪活动效果，以及遇到突发问题时该如何解决。01之前说过要上线一个周杰伦演唱会门票抽奖的活动。不过为啥...
- ## [产品是死的，但你是活的啊！](http://www.woshipm.com/marketing/2819664.html)
- > 我们不去改变消费者认知，我们不去教育消费者，我们只是占领消费者已存在的认知，并跟自己要主打的需求连接起来。说到智能机器人，你会想到什么？人工智能？高科技？...
- ## [从城市到城镇，下沉市场的底层逻辑有何不同？](http://www.woshipm.com/it/2814969.html)
- > 本文盘点了城市消费市场与下沉市场的逻辑与差异点，并以拼多多、趣头条、快手为例，分析了巨头的下沉市场实践逻辑。互联网线上流量越来越贵，寻找增量市场势在必行。...
- ## [美团VS饿了么：四大关键要素决定未来格局](http://www.woshipm.com/it/2819586.html)
- > 自饿了么被阿里收购、美团赴港上市之后，外卖市场最近一年来依然是战火纷飞。领先者丝毫不敢放松，追赶者也未曾放弃努力。自饿了么被阿里收购、美团赴港上市之后，外...
- ## [ZAO热之下，关于行业与产品的冷思考](http://www.woshipm.com/it/2814382.html)
- > 在ZAO热的背后，本文思考了两个问题：行业发展需迎来新方向，新的现象级产品的要求正在改变。现在，我们越来越少见现象级的APP的出现，沉寂的行业需要一点涟漪才能重...
- ## [B2B增长难题 | 拓新获客的系统化思考（下篇）](http://www.woshipm.com/operate/2816059.html)
- > 拓新增长是企业的系统业务，那么其中的重要力量——销售团队如何利用好老客户来达成事半功倍的拓新效果呢？关于“B2B增长的难题”，在上期的“上篇”里我们探讨了“品牌是B2B...
+ ## [物联网平台要实现哪些功能？](http://www.woshipm.com/pd/2816497.html)
+ > 物联网平台正热，具体要实现哪些功能，遵照什么原则进行搭建，这些问题，都可以在本文找到答案。近些年“物联网平台”这个词没少听，可它到底有哪些功能呢？物联网平台...
+ ## [4 个关键步骤，打造用户满意的产品体验](http://www.woshipm.com/operate/2819882.html)
+ > 客户服务是企业的主要差异化因素，好的客户服务能帮助企业更好地建立品牌。本篇文章中，笔者基于自身工作经验，分享了帮助企业成为市场良好用户体验品牌领导者的4个关键...
+ ## [狐友，真是搜狐的奇兵吗？](http://www.woshipm.com/it/2819617.html)
+ > 搜狐近年来不温不火，此时进军社交市场，身为搜狐奇兵的“狐友”会助力搜狐重回巅峰吗？今年似乎是新社交的元年，所有的巨头和新手都在觊觎社交这个香饽饽。从年初罗永...
+ ## [视觉设计标准流程：从理性，到感性](http://www.woshipm.com/pd/2821140.html)
+ > 本文主要是想让大家去关注视觉设计的流程本身，希望通过一套标准、规范的流程，以我们的专业程度去提升客户的信任感。在大部分设计师和客户的认知中，视觉是感性的东...
+ ## [游戏化实战：如何在让人痛苦的领域打造让用户上瘾的产品（一）](http://www.woshipm.com/pd/2802863.html)
+ > 游戏化设计能够让增加产品趣味性，增加用户使用时间。而对于学习等比较挑战自觉性的内容来说，游戏化设计会是一种很好的选择。游戏化：将游戏设计的手段应用于非游戏...
+ ## [产品心理学011 | 营造从众环境，让用户产生购买冲动](http://www.woshipm.com/user-research/2818047.html)
+ > 很多人在大多数情况下，容易受到外界人群行为的影响，而在自己的知觉、判断、认识上表现出符合于公众舆论或多数人的行为方式。而这种心理不断的被一些商家来利用，以此...
+ ## [敏捷转型之“挖坑”的艺术](http://www.woshipm.com/pmd/2817086.html)
+ > 进入一个团队，如何带领团队敏捷转型？有时候，或许需要一些放手，甚至一些“挖坑”。如何“挖坑”，这是一个很有讲究的活计。在无数次电话面试的时候，面试官问：“如果你...
+ ## [网红品牌势不可挡，在这里找到“知音”](http://www.woshipm.com/marketing/2813173.html)
+ > 网红品牌的更迭，说明消费者的品味在不断升级。网红品牌想要长盛不衰，在做出不一样的产品之外，更要紧抓消费者的情感诉求，才能获得更深的品牌认同。几年以前，很多...
+ ## [下沉天书，深度解析小城市的经济场景](http://www.woshipm.com/it/2818503.html)
+ > 众多头部企业都在向下沉市场发展，那么下沉市场——小城市真的需要吗？小城市稍显落后的经济格局又该如何应对来势汹汹的“互联网+”呢？无论信息科技多发达，都改变不了城...
+ ## [如何有效降低需求返工率，提高产品效率？](http://www.woshipm.com/zhichang/2811268.html)
+ > 产品需求返工的问题由来已久，也是很多小伙伴们很头痛的问题，在上一篇《产品效率的提高，关键在于需求返工率》的文章中提到“产品效率的提高，关键在于需求返工率”，那...
+ ## [用户升级的终极奥义：满足用户需求](http://www.woshipm.com/operate/2812450.html)
+ > 用户升级是一个产品工作常常涉及的问题，一些人认为简单地抬高价格就是用户升级。这是一种错误的看法，用户升级的含义不止于此，用户升级究竟会给产品带来什么影响，如...
  ## [埋点—这一篇文章就够了](http://www.chanpin100.com/article/109433)
  > 本文主要讲解自埋点如何从0到1的产品设计
  ## [有效思考-规律](http://www.chanpin100.com/article/109432)
@@ -179,17 +209,5 @@ categories: IT NEWS
  > 领域：A.思维技能：2.用户思维序号：4
  ## [A1-2「产品思维」MVP：最小可行性产品](http://www.chanpin100.com/article/109389)
  > 领域：A.思维技能：1.产品思维序号：2
- ## [需求洞察方法论之——FGPT](http://www.chanpin100.com/article/109421)
- > 本文主要讲解需求洞察方法论——FGPTF：funnel          漏斗G：grouping     分群P：plan             方案T：test              验证
- ## [产品人性说：厌恶与傲慢](http://www.chanpin100.com/article/109426)
- > 我们以善为道，构建产品愿景，以恶为术，促进产品改变
- ## [在线问卷行业的彷徨与退让，下一个巨头会是谁？](http://www.chanpin100.com/article/109423)
- > 从校园用户的在线调研工具走向多元赋能，在线调研行业有了更宽泛的成长空间，却也进入了一场硝烟弥漫的无界之争。
- ## [2020届校招生真的走不出求职困境了吗？](http://www.chanpin100.com/article/109422)
- > 认清现实理解自己放弃ego
- ## [定义生活新方式，你今天用智能家居产品了吗？|数瞰江湖](http://www.chanpin100.com/article/109419)
- > 未来智能家居行业的核心盈利模式将是以智能家居产品为触角，获得消费者的生活习惯数据，进行数据挖掘和分析，将分析结果与第三方服务商对接，向消费者提供个性化线下服务。针对不同场景下不同的产品之间开始融合、交互及数据互通，这里的使用场景包括智能照明、安防、娱乐、家居生活和健康等。在未来一段时间，多种标准将共
- ## [如何做好你所负责的产品？](http://www.chanpin100.com/article/109401)
- > 个人共总结了18个观点，从4个维度【为人处世、需求调研、战略布局、落地执行】分享之
 
     
