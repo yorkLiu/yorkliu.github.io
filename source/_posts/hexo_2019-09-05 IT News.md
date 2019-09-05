@@ -1,7 +1,7 @@
 ---
 title: 2019-09-05 IT News
 copyright: true
-date: 2019-09-05 10:00:52
+date: 2019-09-05 12:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,39 +74,23 @@ STEM&#25945;&#32946;&#20844;&#21496;&#8220;&#29854;&#36828;&#25945;&#32946;&#822
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [亚马逊测试人手支付丨三星发布Exynos 980集成5G芯片\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1567648804&ver=1833&signature=o04QrPTpMLTkgVdtMPwHwalO6IfdwrT3kD5VlRoavE41QvL0ef40A-B1wpZIvxZp7JX2Ok3eBx0F*Bjhe7UpOaNlpcWKLkI46SLIJzaHtkJIcK8mCTsOOZYmKXFGvZvv&new=1)
- > 9月4日丨周三【Do说】编辑 | 赵艾虎亚马逊测试人手支付，全程仅0.3秒据《纽约邮报》报道，亚马逊的工程师正在悄悄测试可以识别个人手的扫描仪，以此作为店内购物结账的一种方式。其目标是在未来几个月内在全食超...
- ## [5G：不是只比4G多1G那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1567648804&ver=1833&signature=iO46r6uHO8QVh1vN9OR2OMvqlWSXudMWD0PNaV7UehJgPaClLDR-P5SXDUc4AKCAsCT8Bfn6ZdcaPN9W0s1u-3cLVRcKMfAMO5aY6Nq8p-fSKnW1e-kpoJ0qS-s9O3zF&new=1)
- > 今年被业界普遍誉为5G元年，5G商用近在咫尺，机构预测5G智能手机的全球销量将在2020年达到1.6亿台。从6月初工信部正式发放5G商用牌照，短短两个多月，第一批5G手机已经在上市。除了华为，包括中兴、vivo在内的多...
- ## [清宁实验室信息管理系统(QLims)](http://mp.weixin.qq.com/s?src=11&timestamp=1567648804&ver=1833&signature=85BbbFazLVLcM0TanokbHZLJ2-yz3hUmxOsCWqOx3qJHlIpi6TtDpRl4i5OM6nN3dT35cTxWC6He1GTL7g0j51f8nsYpGpuXQiPFtZu9DfZTZ2zhFXLiTWCyz5kOIHEr&new=1)
+ ## [网络安全早知道|2019年9月5日](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=fYsBzRjDMIb9b0yhv3BTHg78Xj5GMiJMFkUlARZceq9H5NRI7VNnQmZ5TMErxGSZNq2Sp7Vl1JTsiFcEWTZNzX*VaXZP98ZYtCGscXVlBv7KoO8HYSVRpDuMOK9V76sY&new=1)
+ > 今日摘要各位读者，早上好！今天的内容有“伊朗核设施感染病毒”、“黑客利用AI软件进行诈骗”、“安卓漏洞经济价值超过iOS漏洞”、“如何避免勒索软件应对计划误区？”、“使用多种云供应商的企业更易遭受攻击...
+ ## [清宁实验室信息管理系统(QLims)](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=85BbbFazLVLcM0TanokbHZLJ2-yz3hUmxOsCWqOx3qIA7y*uJZq3QN-juJ2QurGpvCGZPbKN8e5StgA*kmzjqNMD4T0GX2zsy1Pj8eWACgj2FbXZ9ojwvAi3N35iThxl&new=1)
  > 清宁实验室信息管理系统（QLims） 清宁实验室信息管理系统，严格遵守 ISO/IEC17025、ISO9000 等标准化管理规范，以平台化的基础数据、可视化的流程管理、精细化的权限控制、图表化的数据分析、所见即所得的电子...
- ## [5G+VR让教育触手可及!华为5G宣传片新鲜出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1567648804&ver=1833&signature=9Yatd2mLhIuIYIxwdQ3dTt-rtHx07cyHejo7thn-J0*FFxUpOfyqCJvAXaA9qIAcPLPQ3TiDh64G7K0ZqMHA6wW6XiUO-EdlJEtzPYaCJ03G7tGLPd4BibcPFpOCuKei&new=1)
+ ## [5G+VR让教育触手可及!华为5G宣传片新鲜出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=9Yatd2mLhIuIYIxwdQ3dTt-rtHx07cyHejo7thn-J0-QWKa2WpED0Sf*5EBIsUJ8ymrobQF23PsJAhDzwaZ4OBqv*S1OopZd4b9pXgAkLeXe3hM9AOTqntjxnZk78X5U&new=1)
  > “小时候，我常伏在窗口痴想——山那边是什么呢？”生于湖北西北部山区的武当山下，一直没有走出大山的王家新在现代诗《在山的那边》里问道。世界对于幼年的他而言，就是放学后一片寂静的校园、山川中那条清澈的...
- ## [摆脱Wifi!不用联网也能语音遥控的智能语音触摸开关。](http://mp.weixin.qq.com/s?src=11&timestamp=1567648804&ver=1833&signature=SnEz*cHKPuu72zbvmX8uKBdLXMJFaVHgjYKuSY5axFHgKONe6tMcqEviz2Xek9DyF0Fm1GE3b5Wnu3wQojxANyD4WJXG4wvCVU1Y-AIaaPjHNUWHCN0RLlvBLFAr7REa&new=1)
+ ## [摆脱Wifi!不用联网也能语音遥控的智能语音触摸开关。](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=SnEz*cHKPuu72zbvmX8uKBdLXMJFaVHgjYKuSY5axFGU5xQnSuldmjvHBudB5Xcmh5zqzoVs3wZh8Cbc7CRFTY8E247X9cUksIoief0Whgik6Ut*nBxFZC88cN7zsq2V&new=1)
  > 智能家居这几年来迅猛发展，而全屋智能语音交互场景大概率会成为未来智能家居的大趋势。在科幻作品里我们基本看不到人们在家里需要打开什么开关，只需要说句话，灯光，电视，风扇就自动打开。虽然现在也有很多产...
+ ## [5G：不是只比4G多1G那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=iO46r6uHO8QVh1vN9OR2OMvqlWSXudMWD0PNaV7UehKAHTu4fNdM7VOGrFcfb3kHdj92azqQzy3zQh7gKf5hgAIEdLJVv0wwQW552k05Owq9puaTBFozWsbeTbA5Z20A&new=1)
+ > 今年被业界普遍誉为5G元年，5G商用近在咫尺，机构预测5G智能手机的全球销量将在2020年达到1.6亿台。从6月初工信部正式发放5G商用牌照，短短两个多月，第一批5G手机已经在上市。除了华为，包括中兴、vivo在内的多...
+ ## [亚马逊测试人手支付丨三星发布Exynos 980集成5G芯片\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=o04QrPTpMLTkgVdtMPwHwalO6IfdwrT3kD5VlRoavE7B9037aVJCH1f5NX27TNNjphE3oeveAboYCyjGvX77Gg-3roVRPNfbZTo0vlx7as17Is0-4x332PXrqtoWfGZV&new=1)
+ > 9月4日丨周三【Do说】编辑 | 赵艾虎亚马逊测试人手支付，全程仅0.3秒据《纽约邮报》报道，亚马逊的工程师正在悄悄测试可以识别个人手的扫描仪，以此作为店内购物结账的一种方式。其目标是在未来几个月内在全食超...
 # IT 技术 
- ## [5款面向Android TV的优秀文件管理器](http://mobile.51cto.com/aengine-602498.htm)
- > 5款面向Android TV的优秀文件管理器
- ## [企业AI化的4个趋势：我们现在何方，又将去何处？](http://zhuanlan.51cto.com/art/201909/602492.htm)
- > 企业AI化的4个趋势：我们现在何方，又将去何处？
- ## [在K8S上运行Kafka合适吗？会遇到哪些陷阱？](http://cloud.51cto.com/art/201909/602500.htm)
- > 在K8S上运行Kafka合适吗？会遇到哪些陷阱？
- ## [百亿条日志实时处理，为什么要用Flink？](http://os.51cto.com/art/201909/602431.htm)
- > 百亿条日志实时处理，为什么要用Flink？
- ## [有了它，妈妈再也不用担心我跷课、发呆、玩手机了...](http://ai.51cto.com/art/201909/602436.htm)
- > 有了它，妈妈再也不用担心我跷课、发呆、玩手机了...
- ## [市场营销人员是时候拥抱人工智能了](http://ai.51cto.com/art/201909/602386.htm)
- > 市场营销人员是时候拥抱人工智能了
- ## [刷脸支付out了？亚马逊测试人手支付 全程仅0.3秒](http://news.51cto.com/art/201909/602425.htm)
- > 刷脸支付out了？亚马逊测试人手支付 全程仅0.3秒
- ## [从互联网的昨天，看区块链的明天](http://blockchain.51cto.com/art/201909/602389.htm)
- > 从互联网的昨天，看区块链的明天
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
  > 程序员实用工具网站
  ## [\[灵魂拷问\]MySQL面试高频100问(工程师方向)](https://blog.csdn.net/weixin_44460333/article/details/98696407)
  > \[灵魂拷问\]MySQL面试高频100问(工程师方向)
- ## [十大经典排序算法汇总](https://blog.csdn.net/loongggdroid/article/details/100539354)
- > 十大经典排序算法汇总
  ## [计算机网络协议(三)——UDP、TCP、Socket](https://blog.csdn.net/ghw15221836342/article/details/100531810)
  > 计算机网络协议(三)——UDP、TCP、Socket
  ## [有了这 15 款编程游戏，谁都可以学编程！](https://blog.csdn.net/kexuanxiu1163/article/details/97203468)
@@ -119,71 +103,95 @@ STEM&#25945;&#32946;&#20844;&#21496;&#8220;&#29854;&#36828;&#25945;&#32946;&#822
  > MySQL 数据库铁律
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
  > 算法学习总结（2）——温故十大经典排序算法
- ## [JavaScript 中文资源大全，你值得拥有](https://blog.csdn.net/loongggdroid/article/details/100531119)
- > JavaScript 中文资源大全，你值得拥有
  ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
  > 计算机网络协议——通信协议综述
  ## [浏览 GitHub 太卡了？教你两招！](https://blog.csdn.net/u012702547/article/details/100533763)
  > 浏览 GitHub 太卡了？教你两招！
  ## [推荐 15 款编程游戏，从此谁都可以学编程！](https://blog.csdn.net/wufeng55/article/details/98558362)
  > 推荐 15 款编程游戏，从此谁都可以学编程！
- ## [LeetCode 二叉树问题小总结](https://blog.csdn.net/kexuanxiu1163/article/details/100541359)
- > LeetCode 二叉树问题小总结
  ## [Mysql个人学习笔记](https://blog.csdn.net/Guet_Kite/article/details/100538576)
  > Mysql个人学习笔记
+ ## [《算法图解》学习笔记（三）：递归和栈（附代码）](https://blog.csdn.net/TeFuirnever/article/details/100540898)
+ > 《算法图解》学习笔记（三）：递归和栈（附代码）
+ ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
+ > 程序员那些必须掌握的排序算法(上)
+ ## [计算机网络协议(二)——从二层到三层](https://blog.csdn.net/ghw15221836342/article/details/100510332)
+ > 计算机网络协议(二)——从二层到三层
  ## [AI 假冒老板骗取 173 万！](https://blog.csdn.net/csdnnews/article/details/100550180)
  > 整理 | 伍杏玲出品 | 程序人生（ID：coder_life）前几天，AI 换脸软件 ZAO 刷爆朋友圈，在大家热议AI技术强大之时，那边 AI 却闯祸了！近日，据华尔...
- ## [微信支付二维码被诉侵权；AI 换脸 App「ZAO」致歉； Android 10 正式发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100534434)
- > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
- ## [火了！这本京东排名第一的Python神作，上线引发4万程序员热议...](https://blog.csdn.net/csdnnews/article/details/100534494)
- > 「超级星推官/每周分享」是一个围绕程序员生活、学习相关的推荐栏目。CSDN出品，每周发布，暂定5期。同时，我们正在征集有关程序员的一切：机械键盘、格子衫、严选好课等，只要...
- ## [大佬跳槽转行程序员，秘诀就是永远怀着一颗学徒的心](https://blog.csdn.net/csdnnews/article/details/100534503)
- > 责编：兔子日常认真工作之余会在我们码书商店群里面探（da）讨（fa）问（shi）题（jian）这个群不仅汇聚各种菜鸟更是大师云集，藏龙卧虎你想加入吗？看文末有添加方式今天...
- ## [掌握深度学习，为什么要用 PyTorch、TensorFlow 框架？](https://blog.csdn.net/csdnnews/article/details/100534527)
- > 如果你需要深度学习模型，那么 PyTorch 和 TensorFlow 都是不错的选择。作者 |Martin Heller译者 | 弯月，责编 | 屠敏出品 | CSD...
+ ## [同程艺龙、同程旅游中秋出行报告：民航铁路客流最高峰或为15日](http://www.lanjingtmt.com/news/detail/44584.shtml)
+ > 同程艺龙与同程旅游联合发布了《2019中秋假期居民出行出游趋势报告》，预测9月15日当天的机票平均价格将达到假期期间的峰值水平。
+ ## [人民在线联合蛋壳公寓等发布《大学毕业生租住蓝皮书》](http://www.lanjingtmt.com/news/detail/44582.shtml)
+ > 近日，人民在线联合未来网、蛋壳公寓发布《2019大学毕业生租住蓝皮书》，该蓝皮书由人民网舆情数据中心提供学术支持，数据来源于“2019应届毕业生租住状况”调研。
  ## [趣头条Q2营收13.86亿元，同比增187.9%](http://www.lanjingtmt.com/news/detail/44581.shtml)
  > 移动内容平台趣头条发布的2019年第二季度财报显示，报告期内，趣头条净营收13.86亿元，同比增长187.9%；非美国通用会计准则下净亏损率为35.8%，环比收窄19.4个百分点。
  ## [饿了么营收、市占率双双落后，平分天下之梦渐行渐远](http://www.lanjingtmt.com/news/detail/44580.shtml)
  > 自饿了么收购百度外卖后，在线外卖市场的竞争格局便从美团、饿了么、百度的鼎足而立变成了美团与饿了么的分庭抗礼。不过，从公开数据看，不管是市场份额还是营收，当前饿了么与美团都还有较大差
 # 人工智能 
- ## [python基础入门](https://blog.csdn.net/qq_39032364/article/details/96462407)
- > python基础入门
- ## [Python 超级玛丽代码实现(1):界面和状态机实现](https://blog.csdn.net/marble_xu/article/details/96427946)
- > Python 超级玛丽代码实现(1):界面和状态机实现
- ## [Python 最常见的 170 道面试题解析：2019 最新](https://blog.csdn.net/valada/article/details/90761019)
- > Python 最常见的 170 道面试题解析：2019 最新
- ## [【python】《Leetcode / Interview》](https://blog.csdn.net/bryant_meng/article/details/95986612)
- > 【python】《Leetcode / Interview》
- ## [索引导航-第三版-pyhui](https://blog.csdn.net/ifubing/article/details/97615305)
- > 索引导航-第三版-pyhui
- ## [django创建简单的页面响应](https://blog.csdn.net/weixin_43890794/article/details/92700703)
- > django创建简单的页面响应
- ## [一行 Python 代码能实现什么丧心病狂的功能？](https://blog.csdn.net/xufive/article/details/96475103)
- > 一行 Python 代码能实现什么丧心病狂的功能？
- ## [python面试中较常问及的知识点梳理---高级特性](https://blog.csdn.net/Nikki0126/article/details/97793753)
- > python面试中较常问及的知识点梳理---高级特性
- ## [python3 基础](https://blog.csdn.net/qq_40918961/article/details/90612996)
- > python3 基础
- ## [080-生成词云](https://blog.csdn.net/weixin_42725107/article/details/94400007)
- > 080-生成词云
- ## [13-关于 for 循环 + with 向文件写内容的几点理解](https://blog.csdn.net/weixin_42725107/article/details/95217001)
- > 13-关于 for 循环 + with 向文件写内容的几点理解
- ## [python大战机器学习（读书笔记）](https://blog.csdn.net/li123chen/article/details/94381909)
- > python大战机器学习（读书笔记）
- ## [Python  （个人版）](https://blog.csdn.net/qq_42715375/article/details/95466229)
- > Python  （个人版）
- ## [Python的下载安装以及环境配置，pycharm的安装破解以及汉化，亲测有效，无效联系我](https://blog.csdn.net/weixin_38950569/article/details/96604778)
- > Python的下载安装以及环境配置，pycharm的安装破解以及汉化，亲测有效，无效联系我
- ## [Python目录](https://blog.csdn.net/Scrat_Kong/article/details/90257118)
- > Python目录
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 # PM 
- ## [埋点—这一篇文章就够了](http://www.chanpin100.com/article/109433)
- > 本文主要讲解自埋点如何从0到1的产品设计
- ## [有效思考-规律](http://www.chanpin100.com/article/109432)
- > 努力观察事务背后的规律，帮助产品规划落地
- ## [A2-4「用户思维」八角行为分析法](http://www.chanpin100.com/article/109388)
- > 领域：A.思维技能：2.用户思维序号：4
- ## [A1-2「产品思维」MVP：最小可行性产品](http://www.chanpin100.com/article/109389)
- > 领域：A.思维技能：1.产品思维序号：2
+ ## [线上课程 | 想知道腾讯的产品新人是如何系统成长的？看这里就够了！](http://www.woshipm.com/active/2812245.html)
+ > 大家都知道，腾讯向来以产品经理著称，但我们却很少去想，为什么腾讯的产品经理比我们厉害？我们发现，梁宁在2016年湖畔大学课程中，早就做过一个主题为“腾讯是如何培...
+ ## [图文版 WWDC 设计分会：iOS 13 设计新特性（1）](http://www.woshipm.com/pd/2825929.html)
+ > 本文是关于 WWDC 设计分会的图文讲解，话题涉及“深色模式”、“卡片视图”和“情境菜单”三大方面，这篇主要集中在深色模式上，一起来看看~话说今年 WWDC 期间看到一些设计...
+ ## [短视频浪潮下，新快消品牌如何实现投放增长？](http://www.woshipm.com/operate/2825362.html)
+ > 本文以新快消品牌为讨论对象，分析了新快消品牌如何结合短视频实现增长的方法论。核心概要：以“九千岁”“小镇青年”为主流目标人群的新快消品牌，在商品升级、渠道升...
+ ## [P2P接入征信，3大影响和3个疑问](http://www.woshipm.com/it/2824459.html)
+ > 近日，互金整治办发布《关于加强P2P网贷领域征信体系建设的通知》（下称《通知》），支持在营P2P网贷机构接入征信系统。市场普遍关心《通知》将给P2P行业带来怎样的影响...
+ ## [微信公众号3大麻烦问题，我是这样解决的](http://www.woshipm.com/operate/2818123.html)
+ > 近段时间，笔者建立了自己的公众号。笔者本身有强迫症，所以公众号建立期间，真可谓是路途艰辛~过程中，遇到了三方面的麻烦，分别是封面、留言与编辑，现总结一下经验分...
+ ## [一份文案进阶实用清单！](http://www.woshipm.com/copy/2825229.html)
+ > 一则广告里的所有元素首先都是为了一个目的，就是让读者开始阅读文案的第一句话，仅此而已。一切广告文案，都是为了引导用户做出改变。但结果往往是：文案写好没人点...
+ ## [白白说算法：相亲中的马尔科夫模型](http://www.woshipm.com/it/2825423.html)
+ > 按照未来互联网的发展趋势以及日趋激烈的人才竞争中，产品经理也须掌握基础的技术算法。因此，本文以相亲为例，介绍了什么是马尔科夫模型。大家好，我是白白，第一时...
+ ## [转行产品经理，可能是我做的最快的决定](http://www.woshipm.com/pmd/2824523.html)
+ > 2014 年底，工作 4 年，编程一年的我，决定转行产品经理，这可能是我做的最快的决定，没有之一。01在做了决定之后，我做的第一件事，就是买书来积累，至少知道产品经...
+ ## [项目经理转型产品经理一年后，我写下这些总结](http://www.woshipm.com/pmd/2262337.html)
+ > 产品经理和项目经理，身为同一项目不同流程的把控者，二者有相似和不同。从多年项目经理转型产品经理后，不知不觉已经整整一周年了，这一年深深体会到两种角色的相似...
+ ## [三星 One UI 和 iOS 界面设计哲学（下）](http://www.woshipm.com/pd/2823770.html)
+ > 继上文讲到的三星 One UI的界面设计哲学后，本文以iOS为研究对象，分析它的新变化以及未来界面设计和交互方式将如何演变。三星保持着全球销量第一的成绩，而苹果在201...
+ ## [腾讯项目经理：如何快速上手新项目？](http://www.woshipm.com/pmd/2824918.html)
+ > “任务”作为大部分运营活动的核心组成要素，使得任务中心类的项目应用广受欢迎。此类系统在实际研发过程中，涉及环节较多。对于新同学，顺利的带领一个此类项目是不小的...
+ ## [基于角色的数据分析：定义+价值+方法论](http://www.woshipm.com/data-analysis/2819838.html)
+ > 企业基于目标角色进行数据分析，可启发性地揭示数据趋势并有效地获得用户洞察力。许多企业在项目的初始构思和设计阶段会分析不同群体的角色特征，但在解决设计阶段的...
+ ## [白白说算法：相亲中的马尔科夫模型](http://www.chanpin100.com/article/109447)
+ > 科学教你相亲
+ ## [一位互联网运营人在迷茫中的破局之路](http://www.chanpin100.com/article/109439)
+ > 这是一个真实的故事
+ ## [留存率才是检验产品的第一标准](http://www.chanpin100.com/article/109438)
+ > 截止到2017年，移动互联网已经进入成熟期，先后出现了以微信、QQ、支付宝、新浪微博为代表的超级APP雄视天下，其他各领域APP狠追猛打的局面。
+ ## [用户增长方法论及增长思维](http://www.chanpin100.com/article/109437)
+ > 结合笔者在BAT的实战经验和案例，通过“产品前的用户增长—产品生命周期内的用户增长—突破产品生命周期的用户增长”三个阶段来讲解增长。这篇文章主要讲的是第一个部分
+ ## [我有一个竞争方法，让用户去选择你的产品而不是别人](http://www.chanpin100.com/article/109435)
+ > 如何才能做一套合格的竞争方案，与你的对手建立起有利的竞争关系，让你的产品在市场竞争中脱颖而出，我总结了一种方法。
 
     
