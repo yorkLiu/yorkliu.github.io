@@ -1,7 +1,7 @@
 ---
 title: 2019-09-05 IT News
 copyright: true
-date: 2019-09-05 12:00:53
+date: 2019-09-05 17:01:31
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,51 +74,93 @@ STEM&#25945;&#32946;&#20844;&#21496;&#8220;&#29854;&#36828;&#25945;&#32946;&#822
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [网络安全早知道|2019年9月5日](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=fYsBzRjDMIb9b0yhv3BTHg78Xj5GMiJMFkUlARZceq9H5NRI7VNnQmZ5TMErxGSZNq2Sp7Vl1JTsiFcEWTZNzX*VaXZP98ZYtCGscXVlBv7KoO8HYSVRpDuMOK9V76sY&new=1)
+ ## [逼员工做内应、鼓励供应商起诉!华为抗议了一下，美国就说：将不与华为做生意](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=-4eYAV1YnXjMmKVDnLDp10f*o*240aRzzuUXRihE*1-Dnnt906AbTb-iJfy*Ve9QDUEcAj9-DkVVVomIXqjnvx6PAlGCAEI8zqDUa55AEvTBAbQGXCcBlbrjtwKrCb*3&new=1)
+ > 华为称美国政府数月来利用司法和行政权力，及“许多其他不道德手段”来破坏华为及其合作伙伴的正常业务运营华为与美国政府的冲突仍在继续。华为公司近日指控美国政府对其发动网络攻击等，而美国总统特朗普则称美...
+ ## [\[热点聚焦\]家庭安防国家标准发布 市场有望走出“数据孤岛”](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=BX4kTcnlu2tU*D3-H28A7koxtfneBS5M-eWWkhP4F1FsTTHCYFe-hcBOxJzE6En6rrte8w5JGdy0rm-WeBXjeMZyQUSTBmFQ*zYK4PU4wbsp3AcznVPfQMSs9pK3Jjq0&new=1)
+ > 据安防行业网消息，近日国家市场监督管理总局(国家标准化管理委员会)批准了501项国家标准和6项国家标准修改单并予以公布，其中包括GB/T37845-2019《居家安防智能管理系统技术要求》。据悉，该标准将于2020年3月1...
+ ## [一年不到估值超 12 亿元，这家姚期智创办的大数据公司被港交所看中](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=QDs271ykkejpoxSxNiiaFeHBllzOU68ZQaTAtApnjqg-WFJqau-SfiWUYcwCPs7uhM1a0Ac0e3uDI4weYHgLb6jkt7p7pTBOAhDm0D16mpjR*XQwyhjQG4z21Kcmbs96&new=1)
+ > 华控清交成立于 2018 年 6 月，成立不到一年时已完成两轮融资，估值超过 12 亿元。撰稿 | 四月9 月 5 日机器之心消息，昨日港交所称，拟收购北京一家数据科技公司「华控清交信息科技（北京）」的少数权益，港交...
+ ## [“AI+”来了!未来你会失业吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=suFt562hg9ck5zdpVmnwr1nq6q4PQCrPrkIZaEK4mvp0eQu5w3WRBUoX1OnooaStjeRx3A8RIODAsMObbYg1cDQIrNhOfZ3Stu0xmyKX7CQ5tgUZZxIov8hHP7Khy7Nk&new=1)
+ > 导读机器人取代流水线工人、快译机取代翻译、虚拟主播取代主持人、智慧医疗取代放射科医生……随着人工智能技术的发展,其对就业的影响日益明显。一些不需要创造力的工种，或者一些需要长期经验积累的岗位正出现...
+ ## [300 秒带你吃透大数据!](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=eQ9SfMwbIyfoz5ZV77HoNDvUIQMPaL7pV9nM3gHjAO0c943wAs6LRAqp28*LRL*i-BTtTKJllLm3GbQEijryPUQjmUVl9As19eI-EiTzl-mFOj7sbW7MWu5FyETgQFY9&new=1)
+ > 对于很多人来说，当他第一次听到“大数据”这个词，会自然而然从字面上去理解——认为大数据就是大量的数据，大数据技术就是大量数据的存储技术。但是，事实并非如此。大数据比想象中复杂。它不只是一项数据存储...
+ ## [神秘 iOS 攻击颠覆了对入侵苹果手机的认知](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=HCJuYiMYQ00RsPIQbxntGaeUFn2lgMXhNaLemgcUiyS-s4nWXPy5mGJOb8WRaSswbgYVTjYKFUeYDU0TYQIqshGjqkKoGK2TB1q9Kry21DKLi8VcHi7*p0JqoyafqsLT&new=1)
+ > 两年来，一小撮网站无差别黑掉了成千上万台 iPhone。最近披露的攻击中，数千台 iPhone 遭复杂间谍软件入侵，颠覆了大众长久以来关于 iOS 黑客攻击性质的假设。一直以来，iPhone 攻击都被认为是专业性针对性极强...
+ ## [智能手机销量最新战绩：华为扩大对苹果领先优势](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=mBxK6JPBx9qGk8lQsbX8t5EVlvqZYGLbEZKlhVv3tYv5HPvJAuYJnkMkqfmFXiTp4BJVrqoriRsfwRM-UKMUHzCF0OmyH4yeGYH7wBqSlB4=&new=1)
+ > 参考消息网8月29日报道 外媒称，美国在贸易问题上、尤其是对华为的强硬立场并没有帮助第二季度iPhone的销售。美国《华尔街日报》网站8月28日报道，市场研究机构美国高德纳咨询公司8月27日发布的全球销售数据显示...
+ ## [“再见，播音员、主持人!”新华社突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=JPv8zvuDuHuxaNEQt7C6t4tg**AGVx8*f5XllPFnyIT8cK6dQoU6UCy4Eu6ThEHJZlXS2pt9Rac-bfza9OnBF1ckae3voa6mN5A2tMh9bGtRgyUteXmH9XiPIIemfjWX&new=1)
+ > 1不是我不明白，这世界变化快！刚刚又传来一个消息！新华社推出了“全球首个AI（人工智能）合成女主播”！就是上面这位栩栩如生的女主播！怎么看都像一个真人！我们再来看一段她播报的视频：是不是非常惊艳？如...
+ ## [近60个专家齐聚，IAME中国(西安)国际3D打印博览会暨高峰论坛值得参与](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=oK2CRu1EaxHjAPUWeQOFusXp*-6tNzxG8F5V5-QZ3SY7A4OtnJVlCFckY4GQsEw6LJV4iESXpBIyQ44r7wECFXIvc8OoWduTi4TesIj5qgrBbaRWzedLoL2FKqDOEWui&new=1)
+ > 关注南极熊3D打印2019年9月19-21日，IAME中国（西安）国际3D打印博览会暨高峰论坛将在西安高新国际会议中心举办（参加报名方式在文末）。南极熊作为战略合作媒体，将到西安现场全程报道。时过境迁，瞬息万变，国...
+ ## [CFMS2019：西部数据将发布新产品，并分享ZB时代，数据存储创新架构!](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=pIXOKYtqgJMjNYMFxPxa1dvShe42JqAlm-uxy95O156Aco1Ns8ZjrBdcYC4*LIr75uQbA3OhWIVOaEnDFq9osEJCn8RwGFOifdfsACoAlD1x0wq4vz*cHRV3PEy2wJl9&new=1)
+ > 随着物联网、云计算、人工智能、5G等应用的高速发展，信息数据将呈指数型增长，尤其是数据中心需求一直呈现爆发式增长，预计在2016年-2021年期间，全球云数据中心数据量将以27%的复合增长率成长，到2021年将达到...
+ ## [绿洲因涉嫌抄袭下架；Facebook 泄露 4.19 亿条用户数据；Go 1.13 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=eQ9SfMwbIyfoz5ZV77HoNDvUIQMPaL7pV9nM3gHjAO3RAUUA5g34NczfnFuaPrCwFtECAbY*BW7WPCvc9ITavb5raeSAjx20yTT7HoPUKoi1E2m71X5PJGy**OPge*wP&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [珠三角3D打印服务商(深圳)研讨交流会 报名](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=g6KQxanzMOa6OjT8d5gDXnn9vqcQ-3jtYOOnrE-IzZcaFXOkGwJji9yC70h3E9WlLJZu*KC03o6BEDwjo-3GKfWIRWgUDmqVCC5o7UNJBJ7uaUsqq0YXdz0p9YxkkRLR&new=1)
+ > 近日，中共中央、国务院发布了《关于支持深圳建设中国特色社会主义先行示范区的意见》，其中科技与大湾区被重点提及，3D打印作为数字制造技术如何抓住政策红利？处在行业发展的转折点，3D打印服务商如何升级转型...
+ ## [网络安全早知道|2019年9月5日](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=fYsBzRjDMIb9b0yhv3BTHg78Xj5GMiJMFkUlARZceq9cT9oxgRnLUaIeQXhCikjupW-MF3X65IG7dfDRwx6*9tD4Q*7MkdW*KqnfZRE7nDU8jZFoK9-uDHUKv*X0wXup&new=1)
  > 今日摘要各位读者，早上好！今天的内容有“伊朗核设施感染病毒”、“黑客利用AI软件进行诈骗”、“安卓漏洞经济价值超过iOS漏洞”、“如何避免勒索软件应对计划误区？”、“使用多种云供应商的企业更易遭受攻击...
- ## [清宁实验室信息管理系统(QLims)](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=85BbbFazLVLcM0TanokbHZLJ2-yz3hUmxOsCWqOx3qIA7y*uJZq3QN-juJ2QurGpvCGZPbKN8e5StgA*kmzjqNMD4T0GX2zsy1Pj8eWACgj2FbXZ9ojwvAi3N35iThxl&new=1)
+ ## [阿里考拉 20 亿美元收购案交割在即；贾跃亭称放弃一切只为还债；苹果内部文件：新手机名为 iPhone 11|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=Pa5c8j1jgo46cQT0vOzE1yoPIr0yu7JIprox6xbT-NcdrW*R-CogHxyDdApH5KqJrdQY2hE8cFAK3yKAe1aXlA84PE7gc0xDZUxB1GV1T-44QyCWYWnHh1vZqVJbsGKi&new=1)
+ > 阿里考拉 20 亿美元收购案交割在即，天猫国际高管接任考拉 CEO9 月 4 日消息，根据 36 氪报道，阿里收购网易考拉的交易已经进入尾声，将于本周内完成交割。交易金额与此前财新报道的 20 亿美金一致，但并非全现...
+ ## [清宁实验室信息管理系统(QLims)](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=85BbbFazLVLcM0TanokbHZLJ2-yz3hUmxOsCWqOx3qI6iFd5cadeaaBQ*GqImziYdcBQvz2IxEkUBHiwaE0ROCLC04Lc8Mb7aweSHQDcLyyXLK*lYplhES5-8UJ-v8u0&new=1)
  > 清宁实验室信息管理系统（QLims） 清宁实验室信息管理系统，严格遵守 ISO/IEC17025、ISO9000 等标准化管理规范，以平台化的基础数据、可视化的流程管理、精细化的权限控制、图表化的数据分析、所见即所得的电子...
- ## [5G+VR让教育触手可及!华为5G宣传片新鲜出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=9Yatd2mLhIuIYIxwdQ3dTt-rtHx07cyHejo7thn-J0-QWKa2WpED0Sf*5EBIsUJ8ymrobQF23PsJAhDzwaZ4OBqv*S1OopZd4b9pXgAkLeXe3hM9AOTqntjxnZk78X5U&new=1)
+ ## [5G+VR让教育触手可及!华为5G宣传片新鲜出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=9Yatd2mLhIuIYIxwdQ3dTt-rtHx07cyHejo7thn-J0-VK8beiXfjuh9sk2Q1-c7jHIm-yjTMuQy6xyASQHlQYmXtzFcnRygiN-tW06Fctv3PF9SphMU4Lp61UubkISM7&new=1)
  > “小时候，我常伏在窗口痴想——山那边是什么呢？”生于湖北西北部山区的武当山下，一直没有走出大山的王家新在现代诗《在山的那边》里问道。世界对于幼年的他而言，就是放学后一片寂静的校园、山川中那条清澈的...
- ## [摆脱Wifi!不用联网也能语音遥控的智能语音触摸开关。](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=SnEz*cHKPuu72zbvmX8uKBdLXMJFaVHgjYKuSY5axFGU5xQnSuldmjvHBudB5Xcmh5zqzoVs3wZh8Cbc7CRFTY8E247X9cUksIoief0Whgik6Ut*nBxFZC88cN7zsq2V&new=1)
+ ## [摆脱Wifi!不用联网也能语音遥控的智能语音触摸开关。](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=SnEz*cHKPuu72zbvmX8uKBdLXMJFaVHgjYKuSY5axFHyZqWC45UB4Xq32wiSnK054ezOxnELdgiJoCvfjZk1dXZs3*7PSLVcCf8hGuhDFzYeoeXCA5Ghxpyzrzm1stJB&new=1)
  > 智能家居这几年来迅猛发展，而全屋智能语音交互场景大概率会成为未来智能家居的大趋势。在科幻作品里我们基本看不到人们在家里需要打开什么开关，只需要说句话，灯光，电视，风扇就自动打开。虽然现在也有很多产...
- ## [5G：不是只比4G多1G那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=iO46r6uHO8QVh1vN9OR2OMvqlWSXudMWD0PNaV7UehKAHTu4fNdM7VOGrFcfb3kHdj92azqQzy3zQh7gKf5hgAIEdLJVv0wwQW552k05Owq9puaTBFozWsbeTbA5Z20A&new=1)
+ ## [5G：不是只比4G多1G那么简单](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=iO46r6uHO8QVh1vN9OR2OMvqlWSXudMWD0PNaV7UehJXuDdjXSEa5SVvBnyGsc-dYJy4Gb6mJuD*lt8frT2TSZZMLjeQMQTrCM3AeVOKj6j2ijkXiO9NMNjoK86DI6yW&new=1)
  > 今年被业界普遍誉为5G元年，5G商用近在咫尺，机构预测5G智能手机的全球销量将在2020年达到1.6亿台。从6月初工信部正式发放5G商用牌照，短短两个多月，第一批5G手机已经在上市。除了华为，包括中兴、vivo在内的多...
- ## [亚马逊测试人手支付丨三星发布Exynos 980集成5G芯片\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1567656004&ver=1833&signature=o04QrPTpMLTkgVdtMPwHwalO6IfdwrT3kD5VlRoavE7B9037aVJCH1f5NX27TNNjphE3oeveAboYCyjGvX77Gg-3roVRPNfbZTo0vlx7as17Is0-4x332PXrqtoWfGZV&new=1)
+ ## [亚马逊测试人手支付丨三星发布Exynos 980集成5G芯片\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1567674004&ver=1833&signature=o04QrPTpMLTkgVdtMPwHwalO6IfdwrT3kD5VlRoavE6h3DX-*cXjUiKEup7yw6WERG7BAutY2XuUKwmG5Cxwh36R3KkYGWKS5H4jj0RD96tCQkLLEoYcp7ALU7SmOHt7&new=1)
  > 9月4日丨周三【Do说】编辑 | 赵艾虎亚马逊测试人手支付，全程仅0.3秒据《纽约邮报》报道，亚马逊的工程师正在悄悄测试可以识别个人手的扫描仪，以此作为店内购物结账的一种方式。其目标是在未来几个月内在全食超...
 # IT 技术 
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [\[灵魂拷问\]MySQL面试高频100问(工程师方向)](https://blog.csdn.net/weixin_44460333/article/details/98696407)
- > \[灵魂拷问\]MySQL面试高频100问(工程师方向)
- ## [计算机网络协议(三)——UDP、TCP、Socket](https://blog.csdn.net/ghw15221836342/article/details/100531810)
- > 计算机网络协议(三)——UDP、TCP、Socket
- ## [有了这 15 款编程游戏，谁都可以学编程！](https://blog.csdn.net/kexuanxiu1163/article/details/97203468)
- > 有了这 15 款编程游戏，谁都可以学编程！
- ## [【C/C++】C语言特性总结](https://blog.csdn.net/qq_42322103/article/details/99071161)
- > 【C/C++】C语言特性总结
- ## [从零讲JAVA ，给你一条清晰地学习道路！该学什么就学什么！！](https://blog.csdn.net/weixin_38405253/article/details/99027022)
- > 从零讲JAVA ，给你一条清晰地学习道路！该学什么就学什么！！
- ## [MySQL 数据库铁律](https://blog.csdn.net/smartbetter/article/details/100160069)
- > MySQL 数据库铁律
- ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
- > 算法学习总结（2）——温故十大经典排序算法
- ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
- > 计算机网络协议——通信协议综述
- ## [浏览 GitHub 太卡了？教你两招！](https://blog.csdn.net/u012702547/article/details/100533763)
- > 浏览 GitHub 太卡了？教你两招！
- ## [推荐 15 款编程游戏，从此谁都可以学编程！](https://blog.csdn.net/wufeng55/article/details/98558362)
- > 推荐 15 款编程游戏，从此谁都可以学编程！
- ## [Mysql个人学习笔记](https://blog.csdn.net/Guet_Kite/article/details/100538576)
- > Mysql个人学习笔记
- ## [《算法图解》学习笔记（三）：递归和栈（附代码）](https://blog.csdn.net/TeFuirnever/article/details/100540898)
- > 《算法图解》学习笔记（三）：递归和栈（附代码）
- ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
- > 程序员那些必须掌握的排序算法(上)
- ## [计算机网络协议(二)——从二层到三层](https://blog.csdn.net/ghw15221836342/article/details/100510332)
- > 计算机网络协议(二)——从二层到三层
- ## [AI 假冒老板骗取 173 万！](https://blog.csdn.net/csdnnews/article/details/100550180)
- > 整理 | 伍杏玲出品 | 程序人生（ID：coder_life）前几天，AI 换脸软件 ZAO 刷爆朋友圈，在大家热议AI技术强大之时，那边 AI 却闯祸了！近日，据华尔...
+ ## [神一样的CAP理论被应用在何方？](http://developer.51cto.com/art/201909/602506.htm)
+ > 神一样的CAP理论被应用在何方？
+ ## [“ZAO”凉凉！教你用Deepfakes换脸](http://ai.51cto.com/art/201909/602512.htm)
+ > “ZAO”凉凉！教你用Deepfakes换脸
+ ## [AI一句话骗走24万美元！开源模型要背锅？](http://news.51cto.com/art/201909/602509.htm)
+ > AI一句话骗走24万美元！开源模型要背锅？
+ ## [5款面向Android TV的优秀文件管理器](http://mobile.51cto.com/aengine-602498.htm)
+ > 5款面向Android TV的优秀文件管理器
+ ## [想摆脱无效报警？十年运维监控报警优化经验总结](http://news.51cto.com/art/201909/602515.htm)
+ > 想摆脱无效报警？十年运维监控报警优化经验总结
+ ## [企业AI化的4个趋势：我们现在何方，又将去何处？](http://zhuanlan.51cto.com/art/201909/602492.htm)
+ > 企业AI化的4个趋势：我们现在何方，又将去何处？
+ ## [未来五年，区块链领域将会出现这五大突破](http://blockchain.51cto.com/art/201909/602504.htm)
+ > 未来五年，区块链领域将会出现这五大突破
+ ## [在K8S上运行Kafka合适吗？会遇到哪些陷阱？](http://cloud.51cto.com/art/201909/602500.htm)
+ > 在K8S上运行Kafka合适吗？会遇到哪些陷阱？
+ ## [简单介绍几种Java后台开发常用框架组合](http://developer.51cto.com/art/201909/602533.htm)
+ > Java框架一直以来都是面试必备的知识点，而掌握Java框架，不管在成熟的大公司，快速发展的公司，还是创业阶
+ ## [俄机器人宇航员将携带3D打印的骨组织样本返回地球](http://news.51cto.com/art/201909/602530.htm)
+ > 近日，俄罗斯“3D生物打印解决方案”公司的管理合伙人尤谢福•赫苏阿尼表示，运载机器人宇航员“费多
+ ## [这篇Java的NIO编程，保证你能看懂](http://developer.51cto.com/art/201909/602531.htm)
+ > NIO编程一直是Java知识体系中的一个重点。前几年的时间面试的门槛是了解NIO,现在就不一样了,最起码也要精通
+ ## [AI高分通过美国8年级科学考试：常识题推理题都能行，不服同台对战](http://ai.51cto.com/art/201909/602529.htm)
+ > 只要60分飘过八年级科学考试，就能收获8万美元奖金(折合人民币57万元)。只不过，参加考试的“学生”，必须
+ ## [三步构造零信任安全网络](http://netsecurity.51cto.com/art/201909/602527.htm)
+ > 随着移动设备涌入企业，物联网（IoT）的扩张，以及网络罪犯数量和复杂程度的增长，许多安全专家认为零信任
+ ## [Engage2019：销售易宣布获得腾讯1.2亿美元E轮融资](http://news.51cto.com/art/201909/602526.htm)
+ > 销售易公布了来自腾讯独家的1.2亿美元E轮融资，并推出了赋能企业连接客户的“客户数字化平台”。
+ ## [分布式ID生成--雪花算法](http://developer.51cto.com/art/201909/602525.htm)
+ > 分布式唯一ID的方案有很多，本文主要讨论了雪花算法，组成结构大致分为了无效位、时间位、机器位和序列号位
+ ## [八部委：统一使用的教育App不得向学生及家长收费、不得植入广告和游戏](http://www.cioage.com/art/201909/602523.htm)
+ > 据教育部官网消息，为引导规范教育移动互联网应用健康发展，9月5日，教育部等八部委联合印发《关于引导规范
+ ## [用云计算、大数据和生物识别技术打造未来机场](http://www.cioage.com/art/201909/602522.htm)
+ > 绝大多数的人都会同意，航空旅行是非常繁琐疲累的过程，登机队列一眼望不到头，繁琐的安检流程和缓慢的登机
+ ## [TCP/IP加速原理详解](http://network.51cto.com/art/201909/602524.htm)
+ > 由于网络延迟的存在，对用户体验影响更大的是如何快速传递数据到客户端，而这属于流量优化的范畴。本文讲述
+ ## [2019年9月全国程序员工资统计](https://blog.csdn.net/juwikuang/article/details/100551050)
+ > 2019年9月全国程序员工资统计
+ ## [Android 10 重磅来袭：支持 5G 与折叠屏、隐私安全全面升级！](https://blog.csdn.net/csdnnews/article/details/100550172)
+ > 整理 | 黄浩然责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）作为 Android 最新的版本，Android 10一经发布就引起了众多目光的聚焦。像往常一样，Android 10 首先推出 Pixel 手机，谷歌表示它“正在与许多合作伙伴合作，今年推出或升级 Andro...
+ ## [代码英雄之云间战争：寡头时代，路在何方？](https://blog.csdn.net/csdnnews/article/details/100550178)
+ > 英文音频配上此文一起收听观看效果更佳哦，点击“阅读原文”聆听更多代码英雄故事。出品 | CSDN（ID：CSDNnews） | 红帽原创音频这是代码英雄第三期，云间战争。...
+ ## [荣耀总裁赵明：最好的5G手机将会在第四季度产生](http://www.lanjingtmt.com/news/detail/44590.shtml)
+ > 荣耀总裁赵明在接受蓝鲸财经记者采访时表示，荣耀的5G手机会在今年第四季度推出。
+ ## [华为畅享10 Plus1499元起，何刚称畅享系列销量超2亿](http://www.lanjingtmt.com/news/detail/44588.shtml)
+ > 今天下午，华为在西安发布畅享系列新品——畅享10 Plus，售价1499元起。
+ ## [美团配送首份成绩单：规模增长99%，覆盖门店增长305%](http://www.lanjingtmt.com/news/detail/44587.shtml)
+ > 美团配送总经理魏巍今日在第十届中国电子商务物流大会上表示，随着开放平台的业务发展，美团配送业务规模已增长99%、合作商家拓展了211%、覆盖门店数量已增长305%。
  ## [同程艺龙、同程旅游中秋出行报告：民航铁路客流最高峰或为15日](http://www.lanjingtmt.com/news/detail/44584.shtml)
  > 同程艺龙与同程旅游联合发布了《2019中秋假期居民出行出游趋势报告》，预测9月15日当天的机票平均价格将达到假期期间的峰值水平。
  ## [人民在线联合蛋壳公寓等发布《大学毕业生租住蓝皮书》](http://www.lanjingtmt.com/news/detail/44582.shtml)
@@ -128,61 +170,61 @@ STEM&#25945;&#32946;&#20844;&#21496;&#8220;&#29854;&#36828;&#25945;&#32946;&#822
  ## [饿了么营收、市占率双双落后，平分天下之梦渐行渐远](http://www.lanjingtmt.com/news/detail/44580.shtml)
  > 自饿了么收购百度外卖后，在线外卖市场的竞争格局便从美团、饿了么、百度的鼎足而立变成了美团与饿了么的分庭抗礼。不过，从公开数据看，不管是市场份额还是营收，当前饿了么与美团都还有较大差
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
- > 北京车和家java开发工程师面试题总结
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
+ ## [使用 Access 查询设计器轻松构造复杂 SQL 语句 (2)](https://blog.csdn.net/stone0823/article/details/81273881)
+ > 使用 Access 查询设计器轻松构造复杂 SQL 语句 (2)
+ ## [Java 后端架构之路](https://blog.csdn.net/huyunqiang111/article/details/97950780)
+ > Java 后端架构之路
+ ## [Kafka 疑问之offset位移](https://blog.csdn.net/yujianping_123/article/details/97398373)
+ > Kafka 疑问之offset位移
+ ## [【从零开始的mysql】MySQL的索引类型和实现原理](https://blog.csdn.net/qq_23830637/article/details/96482184)
+ > 【从零开始的mysql】MySQL的索引类型和实现原理
+ ## [【从零开始的mysql】MySQL的存储引擎对比](https://blog.csdn.net/qq_23830637/article/details/95514335)
+ > 【从零开始的mysql】MySQL的存储引擎对比
+ ## [在MySQL中，如何给用户被授予权限](https://blog.csdn.net/u012431703/article/details/97802148)
+ > 在MySQL中，如何给用户被授予权限
+ ## [canal基本知识](https://blog.csdn.net/weixin_40126236/article/details/92654961)
+ > canal基本知识
+ ## [003-Django 配置 postgresql 数据库](https://blog.csdn.net/weixin_42725107/article/details/95463662)
+ > 003-Django 配置 postgresql 数据库
+ ## [数据库常见面试题（附答案）](https://blog.csdn.net/qq_22222499/article/details/79060495)
+ > 数据库常见面试题（附答案）
+ ## [navicat连接MySql8](https://blog.csdn.net/niufeiyun/article/details/97133176)
+ > navicat连接MySql8
+ ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
+ > oracle 获取第一条数据
+ ## [SQL语句大全](https://blog.csdn.net/VEclipses/article/details/94492112)
+ > SQL语句大全
+ ## [Spring Boot实现简单的用户权限管理（良心版）](https://blog.csdn.net/weixin_42292229/article/details/98092079)
+ > Spring Boot实现简单的用户权限管理（良心版）
+ ## [MySQL 命令使用（一）：操作数据库相关命令](https://blog.csdn.net/smile_Running/article/details/88686976)
+ > MySQL 命令使用（一）：操作数据库相关命令
+ ## [MySQL---基础](https://blog.csdn.net/qq_42727102/article/details/96995615)
+ > MySQL---基础
 # PM 
+ ## [30年 To C，30年 To B](http://www.woshipm.com/it/2827474.html)
+ > 下一个30年想象空间很大，但不要用过去的思维模式应对未来的挑战，做企业会面对比过去更多的挑战。2018年被认为是产业互联网概念爆发的一年，各大互联网巨头纷纷布局T...
+ ## [私域流量进入2.0时代，玩法还能怎么变？](http://www.woshipm.com/marketing/2823271.html)
+ > 私域流量冷饭新炒，在实际落地执行中，该如何利用好可触达的用户，实现更广阔的的用户增长?从4月开始，我们团队开始意识到，遍地都在说要自建微信，把自己的用户都加...
+ ## [4年前，我写下的第一篇产品文章](http://www.woshipm.com/pmd/2823920.html)
+ > 放下，是一种修行；拿起，是一种历练。我是 2014 年从技术转型做产品的，放下代码的那一年，说实话有非常多的不适应，最初对于产品的好奇全部转化成了未知和困惑。现...
+ ## [“安慰剂按钮”：不经意间让AI现形](http://www.woshipm.com/pd/2824940.html)
+ > AI技术其实已经在很多方面得到了运用，恰恰由于AI的处理速度过快，很多使用者并未感知到AI的存在。那么，为了让大众感知到AI，真切体会到AI的运用，“安慰剂按钮”就成为...
+ ## [绿洲是用户需要的公域朋友圈吗？](http://www.woshipm.com/it/2823401.html)
+ > 新浪微博发力社交，推出内测版“绿洲”APP，主打图片、视频，不支持纯文字发布。该软件上线后一直处于内测状态，需要邀请码才可使用。截至9月3日凌晨1时，绿洲已超越QQ、...
+ ## [QQ设计团队复盘：QQ极简与夜间模式设计](http://www.woshipm.com/pd/2826605.html)
+ > 本文讲述的是QQ近期在极简设计与人性化体验设计上的探索与思考，enjoy~都说年轻人喜欢用QQ，他们精力旺盛乐于交友，在社交的同时有强烈的自我表达欲望，QQ里的个性装...
+ ## [新零售究竟是什么？我对新零售的思考](http://www.woshipm.com/newretail/2820069.html)
+ > 笔者做了近一年的电商产品，在这一年我对不同的2c电商产品有很大的理解，同时也对新零售的进行了思考：到底新零售究竟是什么？它要解决什么问题？首先要理解新零售，...
+ ## [产品新人如何快速上手工作，5个Tips等你查收](http://www.woshipm.com/pmd/2823530.html)
+ > 初入产品行业的新人，囿于“不知如何开始”，那么看看这篇文章吧，简单五步带你渡过新人等待期，顺利进入工作状态。三百六十行，行行出产品经理：上至封神的乔布斯，下...
+ ## [营销：用一系列小事，爆发超预期效果](http://www.woshipm.com/marketing/2826243.html)
+ > 本文为作者与小马宋展开的一个对谈内容，为我们带来了如何为品牌取名、如何在多个环节触达用户等分享。小马宋老师，是一位非常著名的营销专家，也是小马宋营销工作室...
+ ## [采访100位创业公司员工，发现创业公司入门级死亡法则](http://www.woshipm.com/chuangye/2826180.html)
+ > 对创业公司来说，由于一切都还是起步阶段，所以有的公司，可能创着创着就跑偏了，比如在业务上、在管理上、在团队上……声明：本文并非吐槽和无中生有，而是采访近100位...
+ ## [中国音乐版权江湖往事：大家不该吃霸王餐](http://www.woshipm.com/it/2824018.html)
+ > 国民的版权意识萌生较晚，目前音乐版权局面并不好看，回顾这些年的音乐版权往事，最重要的是不要走回头路。十几年前一个暑天，我曾持手抄歌单去小商品批发市场刻录VCD...
  ## [线上课程 | 想知道腾讯的产品新人是如何系统成长的？看这里就够了！](http://www.woshipm.com/active/2812245.html)
  > 大家都知道，腾讯向来以产品经理著称，但我们却很少去想，为什么腾讯的产品经理比我们厉害？我们发现，梁宁在2016年湖畔大学课程中，早就做过一个主题为“腾讯是如何培...
- ## [图文版 WWDC 设计分会：iOS 13 设计新特性（1）](http://www.woshipm.com/pd/2825929.html)
- > 本文是关于 WWDC 设计分会的图文讲解，话题涉及“深色模式”、“卡片视图”和“情境菜单”三大方面，这篇主要集中在深色模式上，一起来看看~话说今年 WWDC 期间看到一些设计...
- ## [短视频浪潮下，新快消品牌如何实现投放增长？](http://www.woshipm.com/operate/2825362.html)
- > 本文以新快消品牌为讨论对象，分析了新快消品牌如何结合短视频实现增长的方法论。核心概要：以“九千岁”“小镇青年”为主流目标人群的新快消品牌，在商品升级、渠道升...
- ## [P2P接入征信，3大影响和3个疑问](http://www.woshipm.com/it/2824459.html)
- > 近日，互金整治办发布《关于加强P2P网贷领域征信体系建设的通知》（下称《通知》），支持在营P2P网贷机构接入征信系统。市场普遍关心《通知》将给P2P行业带来怎样的影响...
- ## [微信公众号3大麻烦问题，我是这样解决的](http://www.woshipm.com/operate/2818123.html)
- > 近段时间，笔者建立了自己的公众号。笔者本身有强迫症，所以公众号建立期间，真可谓是路途艰辛~过程中，遇到了三方面的麻烦，分别是封面、留言与编辑，现总结一下经验分...
- ## [一份文案进阶实用清单！](http://www.woshipm.com/copy/2825229.html)
- > 一则广告里的所有元素首先都是为了一个目的，就是让读者开始阅读文案的第一句话，仅此而已。一切广告文案，都是为了引导用户做出改变。但结果往往是：文案写好没人点...
- ## [白白说算法：相亲中的马尔科夫模型](http://www.woshipm.com/it/2825423.html)
- > 按照未来互联网的发展趋势以及日趋激烈的人才竞争中，产品经理也须掌握基础的技术算法。因此，本文以相亲为例，介绍了什么是马尔科夫模型。大家好，我是白白，第一时...
- ## [转行产品经理，可能是我做的最快的决定](http://www.woshipm.com/pmd/2824523.html)
- > 2014 年底，工作 4 年，编程一年的我，决定转行产品经理，这可能是我做的最快的决定，没有之一。01在做了决定之后，我做的第一件事，就是买书来积累，至少知道产品经...
- ## [项目经理转型产品经理一年后，我写下这些总结](http://www.woshipm.com/pmd/2262337.html)
- > 产品经理和项目经理，身为同一项目不同流程的把控者，二者有相似和不同。从多年项目经理转型产品经理后，不知不觉已经整整一周年了，这一年深深体会到两种角色的相似...
- ## [三星 One UI 和 iOS 界面设计哲学（下）](http://www.woshipm.com/pd/2823770.html)
- > 继上文讲到的三星 One UI的界面设计哲学后，本文以iOS为研究对象，分析它的新变化以及未来界面设计和交互方式将如何演变。三星保持着全球销量第一的成绩，而苹果在201...
- ## [腾讯项目经理：如何快速上手新项目？](http://www.woshipm.com/pmd/2824918.html)
- > “任务”作为大部分运营活动的核心组成要素，使得任务中心类的项目应用广受欢迎。此类系统在实际研发过程中，涉及环节较多。对于新同学，顺利的带领一个此类项目是不小的...
- ## [基于角色的数据分析：定义+价值+方法论](http://www.woshipm.com/data-analysis/2819838.html)
- > 企业基于目标角色进行数据分析，可启发性地揭示数据趋势并有效地获得用户洞察力。许多企业在项目的初始构思和设计阶段会分析不同群体的角色特征，但在解决设计阶段的...
  ## [白白说算法：相亲中的马尔科夫模型](http://www.chanpin100.com/article/109447)
  > 科学教你相亲
  ## [一位互联网运营人在迷茫中的破局之路](http://www.chanpin100.com/article/109439)
