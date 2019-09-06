@@ -1,7 +1,7 @@
 ---
 title: 2019-09-06 IT News
 copyright: true
-date: 2019-09-06 12:01:17
+date: 2019-09-06 17:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -64,63 +64,59 @@ MCN&#26426;&#26500;&#8220;&#32593;&#26143;&#26790;&#24037;&#21378;&#8221;&#33719
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [E安全国际早报|2019年9月6日](http://mp.weixin.qq.com/s?src=11&timestamp=1567742404&ver=1835&signature=thEJWQzNq6HisvaLXbo3HipLpLJqPa2Baz-hUvUZ7F5qRr6k5BqPK8HAx*gKm8Ln7FVjs2-hXbrLVHeUCyMLi1LQUycSR3KEwBzIDMEaF*Di2t*WlFMZMZXwj0G7GtGg&new=1)
+ ## [边缘计算和5G技术将如何重新定义零售体验](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=HmgX*WxKPP-zUDt*3usE9tn1Z9KN2NXyhh6GjCSMyJEzxuHRvMjbKFqn0dyuMvFeipuqE3dIggXzHi-JPWLacaexOVxzIo351o4cXCwj7wce1Tj9E37wqd8lNYCvo8OZ&new=1)
+ > 关键讯息，D1时间送达！根据调研机构麦肯锡公司的调查，工厂和其他生产环境有可能实现物联网(IoT)应用带来的财务影响。他们预测，到2025年，工业物联网将产生1.2万亿至3.7万亿美元的经济价值。如今，零售业正处...
+ ## [《2019上海区块链技术与应用白皮书》今日发布](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=e3Poh3fNQNu2a*nm6zi-ixiaEEFn6wS9UyfHLWe8g-efz5Im*BWuKjayAZ9G3Ppolkuof*N7pmUW74WCAI9DbyNRQEUXouUZQcaYRE7SA44ggGCsL2ib3pxAM0O5cZsv&new=1)
+ > 9月6日，2019中国（上海）区块链技术创新峰会在上海市杨浦区举行。本次大会由上海市科学技术委员会、上海市经济和信息化委员会、杨浦区人民政府、上海市科学技术协会、上海科学院联合主办，上海区块链技术协会、...
+ ## [即将上位的QLC/PLC NAND，主控厂拿什么去拯救越来越差的擦写寿命?](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=19P86f*N2Mwq3CZPjVKIOLIWP9lnOmFHBKFSrRlRxj5HF4hZc3xuUhwP0npDrmJA*7bJlQiA5jC2fYTXNP8cFo*sYLwAYTNi*9oVN4i1rMVBldTnu2rIn9HKVWkN7hob&new=1)
+ > 随着3D NAND技术的快速发展，三星、东芝/西部数据、美光、SK海力士等已实现了从2D平面全面向3D NAND的转移，2019下半年，各大原厂正积极提高92/96层3D NAND产量，并继续推动100+层3D NAND发展，预计2020年
+ ## [关注|中国移动李晗：首次公布5G前传MWDM方案 TEC偏移实现非等间距12波长](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=tqZOYoFix-oOBB7j1J8KTa5IsHwYxTI*mfIEt54Y-MrVLfAWN2DBt7SPuw6Th63ChkIBueqc9j-P-OMP3rSCQAOibnRf6Ii1RDFJjOG3Pv0nXnWN1UNUPxYZ2ZTwDMlr&new=1)
+ > 导读     9月3日，在讯石第十八届研讨会上，中国移动研究院网络与信息技术研究所副所长李晗博士发表主题为《5G商用驱动光通信新技术发展》演讲报告，他介绍了中国移动SPN关键的进展，并首次代表中国移动公开提出...
+ ## [大数据平台+三云四系五能力：详看360的政企安全新战略3.0](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=x5q3eimtTYw-V5xAj-DkLMP4ofNcfmPU4-gNhhI5bgZV4TFpwBJwrmexzrO9-OADYjM30MYaaW21TmevwFeRgjHj3E1HTtRK0PVsD5mh7YS5nD-l9DyWdJFzRhlBzD2D&new=1)
+ > 如果你也听了8月末第七届互联网安全大会（ISC）上周鸿祎的主题演讲，那么你一定会对“网络战”和“企业安全”这两个词记忆深刻。但是，ISC大会上，由于时间限制，周鸿祎并没有对后者进行详尽的描述。本周二，周...
+ ## [干货|信号发生器基础知识讲解](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=4AOHh3enjmsOx-M7SwXp9k4EVIlEwAtHvfvH2L0el7HoNzBg4XVbmxODzdst0A6TwZWGHjtwUsc8gxRvrx7sVKDVKCoBrxWZrM-vszs0pd*aWPQaSoaUDYPIIMhP8lDP&new=1)
+ > 信号发生器基础知识Signal Generator BasicsⅠ. 优化信号发生器的九大技巧Ⅱ. 利用信号发生器了解和测试多通道射频系统Ⅲ. 使用新一代信号发生器提高幅度精度优化信号发生器的九大技巧1在无线通信、军用通信或雷...
+ ## [\[报告\]全球电动化格局加速，透析电动车全球供应链体系(附30页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=vGyuz0eihOKLph9munm3Zq6vv28RSPhoRX2hDigBzRVCPbf3MVyBeCLSqVbr7JLvJ2ib4aa*Wr8-fQm1egeVQgNSS3LrA1vQOn3qbd1CQx6fMWMDLZFTK7ff1Dh4xNqE&new=1)
+ > 与其相忘江湖，不如点击“蓝字”关新能源汽车的发展导向在逐步从政策推动转向市场驱动，新能源汽车产业正逐渐步入高质量2.0阶段，全球电动化浪潮下，“整车-动力电池”加速全球化布局。本报告核心围绕国内外一流...
+ ## [什么是智能仓储系统?](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=BXqA4sCHkqIJHARj*f98Gp62KhQCnGuxd3fKaFjhjfjezCxBvXho9PGdyG-5zfMBQVDwp8Z5r5UtwYBCgiUs*u87TkSEejahoGOdW-RGkQTPkFTDiH7vefRJDCVLwEN0&new=1)
+ > ▲ 关 注 我 们 ，让 物 流 更 简 单！来源 | Soo56 (ID:WxSoo56) 编辑 | popo关键字：智能仓库，人工智能，物联网全文约3350，3图，阅读需要8分钟在进入本文主题前，先看一段视频。视频中展示的正是“菜鸟智能
+ ## [E安全国际早报|2019年9月6日](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=thEJWQzNq6HisvaLXbo3HipLpLJqPa2Baz-hUvUZ7F6q2bvDVC3ZVZXkTQWV2akGZF4XOSQQed58CSuRjVTqd5xGveOE9*e5bSNwbMJzS5bgaMBVnQzWw4W4WzFHoOZG&new=1)
  > 1 今日摘要*美国官员将中国视为头号网络威胁。*推特关闭了“使用短信发推文”功能。*网络攻击迫使纽约州推迟开学日期。*美国新贝德福德市政府与黑客的谈判失败。*多名僵尸网络始作俑者认罪。*美国政商界人士参与...
- ## [人机交互掌控未来!2019深圳国际全触与显示展领航触控显示行业新风尚](http://mp.weixin.qq.com/s?src=11&timestamp=1567742404&ver=1835&signature=C2Af3q4p3c6ROHdI-54ovapFW0DUcx*ToVpTilGn0ZA2lnmeGY10PjKYi*DL-5F7QZ02FYfbXKPO9vkyypNmNv4Z5Sgeopqbwzz0iUADWBt7Hs8RzA7Mf20h8GdqpP9r&new=1)
+ ## [人机交互掌控未来!2019深圳国际全触与显示展领航触控显示行业新风尚](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=C2Af3q4p3c6ROHdI-54ovapFW0DUcx*ToVpTilGn0ZDQl-UnKpeaEb6hvzrP6VvjOp*hM6bCxHUu5ppz7QrFnnWSdEIM6Y4CmYZf2OyLOChzgxEKKy6YKjW3XRLE6dg2&new=1)
  > 从摩托罗拉CD928+手机使用第一块单色屏，到如今华为荣耀智慧超清屏如日中天，人类迄今为止最为高精尖的工业产品之一触控屏，在经历了无数次迭代与创新后，正成为各国工业制造的必争之地。现在，这块方寸间的智慧...
- ## [惊叹!长江边，这些人看到了…](http://mp.weixin.qq.com/s?src=11&timestamp=1567742404&ver=1835&signature=mS8KSvtp6V7j53XXKOvxkCTNhSTmd*qAc2z--13XtgJ2l4gQjYlo2-Hqia1ti2s8uj2pDMxSowp7ToWyMzE39mX45jJnDh5TU6RReJYjH3smOsA7ggFea5eUDPzxiHPH&new=1)
+ ## [惊叹!长江边，这些人看到了…](http://mp.weixin.qq.com/s?src=11&timestamp=1567760404&ver=1835&signature=mS8KSvtp6V7j53XXKOvxkCTNhSTmd*qAc2z--13XtgIBBCcitI7KZp3WXIDn2vZVHoZlzixROGwW*FcQ5EZpfRR1VfmSFcBZocHvuXIsfMfTNEYYTOHNJ82LNecKPp3X&new=1)
  > 芜湖是长江巨埠，皖之中坚作为皖江开发开放的龙头一批新兴产业在芜湖实现从无到有、从有到优“芜湖制造”已成为这座城市的又一张靓丽名片9月4日-5日“不忘初心、牢记使命——畅行中国 安徽制造”全国百城百台交...
 # IT 技术 
- ## [简单好用的9个电脑必备工具！让你轻松10倍](http://biz.51cto.com/art/201909/602575.htm)
- > 下面 9 款工具都是精心挑选的电脑必备神器，涵盖你需要的各个方面，无论是安全防护、文件查找、解压加密还
- ## [人工智能将如何改变IT服务管理](http://ai.51cto.com/art/201909/602574.htm)
- > 人们在科幻电影中看到的人工智能(AI)机器人通常十分聪明灵巧。人工智能或者机器智能将很快会创造出一种前所
- ## [随着物联网市场不断发展和成熟 有哪些新的机遇和挑战](http://iot.51cto.com/art/201909/602573.htm)
- > 物联网（IoT）与云，边缘计算，人工智能（AI）和混合现实等一系列催化技术一起，为企业创造了数十亿个连接
- ## [阿里研究员：测试稳定性三板斧，我怎么用？](http://zhuanlan.51cto.com/art/201909/602572.htm)
- > 如何治理测试稳定性问题?很多人会说：环境、流程管控、监控、工具化、加机器、专人负责、等等。
- ## [央行发文！今后用支付宝、微信等缴税有规可依了](http://www.cioage.com/art/201909/602570.htm)
- > 为规范非银行支付机构、商业银行和清算机构提供国库资金经收支付服务的行为，维护国库资金安全，保障缴款人
- ## [为什么你的需求估算老是翻车？看看这个故事就明白了......](http://zhuanlan.51cto.com/art/201909/602571.htm)
- > 为什么软件开发的实际工作量通常比估计的高几倍? 我们来看一个故事就明白了。
- ## [当下人工智能的优秀用例](http://ai.51cto.com/art/201909/602567.htm)
- > 企业正在进行人工智能试点，并正在将人工智能投入生产。这里是领先的组织正在下注的地方--并且已经看到了早
- ## [你的电脑是“GG”还是“MM”？英特尔教你辨别](http://biz.51cto.com/art/201909/602565.htm)
- > 人有男女之别但你知道电脑其实也是“男女有别”么?近日英特尔官方便向大家科普了一下如何分辨自己的电脑“
- ## [云存储性能：可用性和持久性之间的差异](http://cloud.51cto.com/art/201909/602562.htm)
- > 当你打开汽车点火开关，把电器插到墙上的插座上，或者双击硬盘上的文件时，你就知道接下来会发生什么了。这
- ## [微软工程师建议换掉 Chromium 代码库中的单词：黑名单和白名单](http://news.51cto.com/art/201909/602561.htm)
- > 去年有两个知名开源项目 ―― Redis 和 Python 均因为其代码库包含 master 和 slave 这些被认为具有冒犯性
- ## [9月6日科技资讯|阿里 20 亿美元收购网易考拉；苹果回应误发七倍工资；VS Code 1.38 发布](https://blog.csdn.net/weixin_39786569/article/details/100573864)
- > 9月6日科技资讯|阿里 20 亿美元收购网易考拉；苹果回应误发七倍工资；VS Code 1.38 发布
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
  > 程序员实用工具网站
- ## [轻轻松松学递归](https://blog.csdn.net/qq_42453117/article/details/100555894)
- > 轻轻松松学递归
- ## [开发中必须要掌握的 Git 技巧](https://blog.csdn.net/weixin_44460333/article/details/99025478)
- > 开发中必须要掌握的 Git 技巧
- ## [Python 密集知识点汇总](https://blog.csdn.net/Ki8Qzvka6Gz4n450m/article/details/99134743)
- > Python 密集知识点汇总
- ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
- > 算法学习总结（2）——温故十大经典排序算法
+ ## [Linux fork隐藏的开销-过时的fork(正传)](https://blog.csdn.net/dog250/article/details/100168430)
+ > Linux fork隐藏的开销-过时的fork(正传)
+ ## [计算机网络协议(五)——DNS、HTTPDNS](https://blog.csdn.net/ghw15221836342/article/details/100573582)
+ > 计算机网络协议(五)——DNS、HTTPDNS
  ## [有了这 15 款编程游戏，谁都可以学编程！](https://blog.csdn.net/kexuanxiu1163/article/details/97203468)
  > 有了这 15 款编程游戏，谁都可以学编程！
- ## [\[灵魂拷问\]MySQL面试高频100问(工程师方向)](https://blog.csdn.net/weixin_44460333/article/details/98696407)
- > \[灵魂拷问\]MySQL面试高频100问(工程师方向)
  ## [MySQL 数据库铁律](https://blog.csdn.net/smartbetter/article/details/100160069)
  > MySQL 数据库铁律
- ## [重学Java(四)：对象、引用、堆、栈、堆栈](https://blog.csdn.net/qing_gee/article/details/100559919)
- > 重学Java(四)：对象、引用、堆、栈、堆栈
+ ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
+ > 算法学习总结（2）——温故十大经典排序算法
+ ## [\[灵魂拷问\]MySQL面试高频100问(工程师方向)](https://blog.csdn.net/weixin_44460333/article/details/98696407)
+ > \[灵魂拷问\]MySQL面试高频100问(工程师方向)
  ## [计算机网络协议(三)——UDP、TCP、Socket](https://blog.csdn.net/ghw15221836342/article/details/100531810)
  > 计算机网络协议(三)——UDP、TCP、Socket
- ## [全网5G最完整的PPT，朋友圈超火！](https://blog.csdn.net/mingongge/article/details/99023545)
- > 全网5G最完整的PPT，朋友圈超火！
- ## [计算机网络协议(四)——HTTP、HTTPS、P2P协议](https://blog.csdn.net/ghw15221836342/article/details/100541199)
- > 计算机网络协议(四)——HTTP、HTTPS、P2P协议
- ## [开发者常用及实用 Linux Shell 命令备忘录](https://blog.csdn.net/briblue/article/details/100550854)
- > 开发者常用及实用 Linux Shell 命令备忘录
+ ## [Mysql个人学习笔记](https://blog.csdn.net/Guet_Kite/article/details/100538576)
+ > Mysql个人学习笔记
  ## [从零讲JAVA ，给你一条清晰地学习道路！该学什么就学什么！！](https://blog.csdn.net/weixin_38405253/article/details/99027022)
  > 从零讲JAVA ，给你一条清晰地学习道路！该学什么就学什么！！
+ ## [Kafka、RabbitMQ、RocketMQ等 消息中间件 介绍和对比](https://blog.csdn.net/u014597198/article/details/100563722)
+ > Kafka、RabbitMQ、RocketMQ等 消息中间件 介绍和对比
+ ## [重学Java(四)：对象、引用、堆、栈、堆栈](https://blog.csdn.net/qing_gee/article/details/100559919)
+ > 重学Java(四)：对象、引用、堆、栈、堆栈
+ ## [浏览 GitHub 太卡了？教你两招！](https://blog.csdn.net/u012702547/article/details/100533763)
+ > 浏览 GitHub 太卡了？教你两招！
+ ## [Python 密集知识点汇总](https://blog.csdn.net/Ki8Qzvka6Gz4n450m/article/details/99134743)
+ > Python 密集知识点汇总
+ ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
+ > 计算机网络协议——通信协议综述
  ## [我如何在 16 岁成为全栈开发者？](https://blog.csdn.net/csdnnews/article/details/100570206)
  > @程序员，你在 16 岁的时候做了什么呢？又是什么让你走上了技术之路？本文就分享一位 16 岁的开发者是如何成为全栈开发的故事。作者 |Nuno Martins译者 |...
  ## [如何用 JavaScript+Canvas 开发一款超级烧脑小游戏？](https://blog.csdn.net/csdnnews/article/details/100570207)
@@ -145,37 +141,72 @@ MCN&#26426;&#26500;&#8220;&#32593;&#26143;&#26790;&#24037;&#21378;&#8221;&#33719
  > 拯救旧金山是一项独角兽投资。作者 |Steven Buss译者 | 弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：由于邻避效应（Not I...
  ## [亲测！这款耳机性价比堪比 AirPods](https://blog.csdn.net/csdnnews/article/details/100570201)
  > 小编平时特别喜欢跑步，而跑步的时候最喜欢戴上耳机边听音乐、边享受燃脂的快感！然鹅~每次拿出的耳机，线都乱成一坨。内无比煎熬！再者~带线耳机跑步中很容易脱落或被扯掉，又需要...
+ ## [同程生活宣布完成新一轮1亿美元融资，君联资本领投](http://www.lanjingtmt.com/news/detail/44603.shtml)
+ > 同程生活宣布完成新一轮1亿美元融资，此轮融资由君联资本领投。
+ ## [京东PLUS会员与携程推联名卡，覆盖住宿购物等场景](http://www.lanjingtmt.com/news/detail/44602.shtml)
+ > 京东PLUS会员今日与携程宣布达成深度合作，双方将推出会员联名卡，在会员权益上实现互通，覆盖购物、交通、住宿、旅游等场景。
  ## [网易云音乐获阿里领投的7亿美元融资，控制权仍在网易](http://www.lanjingtmt.com/news/detail/44599.shtml)
  > 网易与阿里今日共同宣布，阿里作为领投方参与了网易云音乐B2轮7亿美元的融资。网易方面表示，此次融资后，网易仍单独享有对网易云音乐的控制权。
  ## [阿里确认以20亿美元收购网易考拉，后者将保持独立运营](http://www.lanjingtmt.com/news/detail/44598.shtml)
  > 网易与阿里今日共同宣布，阿里确认以20亿美元收购网易考拉，考拉将保持独立品牌运营，天猫进出口事业群总经理刘鹏兼任考拉CEO。同时，阿里作为领投方参与了网易云音乐B2轮7亿美元的融资
  ## [微博推社交新品绿洲，能否缓解流量焦虑？](http://www.lanjingtmt.com/news/detail/44597.shtml)
  > 2019年的社交浪潮再次席卷，微博推出全新生活时尚社交产品“绿洲”。绿洲，顶着外界宣称的“ins+小红书”结合体的名号，在微博体系中又将扮演怎样的角色？对微博而言，其能否凭借绿洲缓
+# 人工智能 
+ ## [tomcat+jsp访问mysql](https://blog.csdn.net/tina_tian1/article/details/97930211)
+ > tomcat+jsp访问mysql
+ ## [Migrate from Oracle to Spark SQL](https://blog.csdn.net/daoxu_hjl/article/details/96707163)
+ > Migrate from Oracle to Spark SQL
+ ## [Python目录](https://blog.csdn.net/Scrat_Kong/article/details/90257118)
+ > Python目录
+ ## [面试题整理](https://blog.csdn.net/weixin_44346035/article/details/97158115)
+ > 面试题整理
+ ## [可能是全网最好的MySQL重要知识点/面试题总结](https://blog.csdn.net/qq_34337272/article/details/94201189)
+ > 可能是全网最好的MySQL重要知识点/面试题总结
+ ## [SpringBoot事务](https://blog.csdn.net/ysl19910806/article/details/95760850)
+ > SpringBoot事务
+ ## [MySQL 命令使用（一）：操作数据库相关命令](https://blog.csdn.net/smile_Running/article/details/88686976)
+ > MySQL 命令使用（一）：操作数据库相关命令
+ ## [SpringDataJpa使用原生sql查询之后返回map类型 有key有value](https://blog.csdn.net/u010838785/article/details/98741738)
+ > SpringDataJpa使用原生sql查询之后返回map类型 有key有value
+ ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
+ > oracle 获取第一条数据
+ ## [navicat连接MySql8](https://blog.csdn.net/niufeiyun/article/details/97133176)
+ > navicat连接MySql8
+ ## [SpringBoot+MybatisPlus+Druid_mysql搭建简单的项目自动生成代码](https://blog.csdn.net/qq_25889465/article/details/95590635)
+ > SpringBoot+MybatisPlus+Druid_mysql搭建简单的项目自动生成代码
+ ## [为什么查询会出现Was expecting one of: <EOF>      "," ...](https://blog.csdn.net/weixin_44018093/article/details/92796904)
+ > 为什么查询会出现Was expecting one of: &lt;EOF&gt;      &quot;,&quot; ...
+ ## [Redis的安装，修改密码及登录验证，及三种操作方案](https://blog.csdn.net/qq_23145857/article/details/91045268)
+ > Redis的安装，修改密码及登录验证，及三种操作方案
+ ## [MySQL-mysql 8.0.17安装](https://blog.csdn.net/Charonmomo/article/details/98440968)
+ > MySQL-mysql 8.0.17安装
+ ## [MySql学习笔记](https://blog.csdn.net/weixin_44815052/article/details/96179684)
+ > MySql学习笔记
 # PM 
- ## [线上课程 | 做运营1年多，想要职业发展越来越好，先把这项技能提上去](http://www.woshipm.com/active/2815243.html)
- > 作为一名运营人，有一项基本功必须得练好，那就是文案。文案成本低见效快，能轻而易举地将运营价值放大10 倍，甚至更多。要知道，hotmail 在推广初期，发给种子用户...
- ## [共享充电宝“终局之战”](http://www.woshipm.com/it/2830300.html)
- > 共享充电宝最后谁合并谁，谁又被统一，或者谁能真正抢跑，关键在于从产品和运营入手，打造共享充电产品和服务的多元化体系。“外界对共享充电宝的质疑，我觉得很正常。...
- ## [B端产品经理：如何做好一次成功的客户宣讲？](http://www.woshipm.com/pmd/2827976.html)
- > 一次成功的客户宣讲宣讲，对公司收益和维护客户关系的助力不言而喻。如何做好一次成功的宣讲？笔者根据自身经验总结了3个要点，供大家参考与学习。B端产品，因为面向...
- ## [微博、抖音、快手的红人战争](http://www.woshipm.com/it/2830383.html)
- > 平台与平台之间的竞争，MCN对平台的取舍，红人对平台的选择……平台、MCN、红人三个主体之间的合作博弈呈现了参差百态的局面。微博、抖音、快手的红人战争并非你死我活，...
- ## [网站跳出率高？4个原因和7个措施](http://www.woshipm.com/operate/2826984.html)
- > 跳出率”是指该网页是会话中“唯一网页”的会话占由该网页开始的所有会话的百分比。跳出率=访问一个页面后离开网站的次数/总访问量*100%。本篇文章中，笔者对高跳出率背后...
- ## [不同种类的按钮，怎样设计才是正确的](http://www.woshipm.com/pd/2828880.html)
- > 作为WEB端和移动端的组成部分，按钮承载着引导用户的作用，遵循怎样的设计原则，才可以让按钮真正起到作用，同时不造成误解呢？按钮对于现在的我们来说，不管是WEB端...
- ## [细思极恐，AI“花式诈骗”的N种方式](http://www.woshipm.com/ai/2828473.html)
- > 当科技手段用于诈骗，众多普通人可能都无法辨别。科技从来都有两面性，回归技术本身，也许是防范的最好手段。最近关于AI的负面新闻着实有点多。不是“合成老板声音骗走...
- ## [微博推出“绿洲”，加强版分析实录](http://www.woshipm.com/evaluating/2821242.html)
- > 绿洲被形象称为“小红书”模式的国内版“Instagram”，本篇文章中笔者对这款APP进行了分析探讨并总结了自己的看法，与大家分享。在今年5月28日，绿洲官方微博曾发布了一条...
- ## [2019，苹果的未来去向何方？](http://www.woshipm.com/it/2827644.html)
- > 苹果市场份额遭受对手冲击，“奢侈品化”引来用户不满，乔布斯已经远去，乔纳森也离开，苹果的下一个十年走向何方？2019年秋季发布会在即，一起拭目以待。当我们还在为C...
- ## [九周年献礼：首次揭秘人人都是产品经理迭代版本图！](http://www.woshipm.com/active/2818071.html)
- > 点击进入九周年会场，快来生成你的专属卡片，你的成长，由我们记录：http://zt.woshipm.com/9years/index.html不知不觉，从2010年老曹在上海成立人人都是产品经理到现...
- ## [新零售的未来不是梦：认清新零售运行逻辑](http://www.woshipm.com/newretail/2829032.html)
- > 对于新零售来说，虽然目前的发展遭遇到了困境。但是结合新技术、将线上线下进行融合、进一步深入行业改造后，新零售的发展并不是一场梦。突如其来的资本寒冬的确打乱...
- ## [微博十年寻绿洲，绿洲今日却下线？](http://www.woshipm.com/it/2826805.html)
- > 微博十年求变，绿洲上线，会是新的机会，还是再一次归于沉寂？这两天，微博旗下的新产品“绿洲”开始公测，吸引来不少注意力。下载体验之后，第一感觉是觉得简洁清爽，...
+ ## [转行AI产品经理，第二步怎么走](http://www.woshipm.com/it/2829003.html)
+ > 决定了要转行AI产品经理，那么如何知道这个岗位的要求呢？如何进一步接触这个岗位呢？至少，不要做沙滩上的那个人。之前写了一篇文章《转行AI产品经理，第一步怎么走...
+ ## [线上课程 | 金九银十招聘季，小白如何快速成为产品经理？](http://www.woshipm.com/active/2816369.html)
+ > 转眼又到了“金九银十”互联网招聘旺季，无论是上班族还是学生党都各怀心事，这其中就有一部分对产品岗位非常感兴趣的求职者。眼看着成为产品经理是件风光无限的事：C...
+ ## [产品分析 | 脉脉——领跑的职场社交独角兽](http://www.woshipm.com/evaluating/2829506.html)
+ > 本文笔者将从功能架构、用户使用路径、市场分析、用户分析、产品功能等角度来对脉脉进行分析，并对其的一些功能设计提出优化建议。某种程度上，脉脉是上一轮互联网酣...
+ ## [创业者的社交梦又该醒了](http://www.woshipm.com/chuangye/2832203.html)
+ > 如果没有支撑独立场景的核心玩法，如果不能拉开与传统社交环境的距离，在“社交”这件事上，市场已经不给创业者们“做梦”的机会了。原文是我一年前写过的文章。当时子弹...
+ ## [“扫个码吧”，从微商到大品牌为什么都爱建微信群](http://www.woshipm.com/chuangye/2830908.html)
+ > 几乎每个人都在使用微信，而有人的地方，就有生意。如今，微信已经成为了人们生活中必不可少的工具，社交通讯、移动支付、浏览咨询全都可以通过微信完成。几乎每个人...
+ ## [以风投/婚姻为例，拆解投资的底层逻辑](http://www.woshipm.com/chuangye/2830852.html)
+ > 你是否有过疑惑，投资是什么东西？如何形象、具体地理解投资呢？笔者用三个例子，从风投到婚姻，为我们解析了什么是投资。你可能在很多地方见过「投资」这个词，但如...
+ ## [写作的这些年，我一直在求变](http://www.woshipm.com/it/2826989.html)
+ > 一直能够做好的，就是不断向前，不断进步。2017年，在互联网行业既无人脉、又无资源，就开始琢磨：“如何让同行能够感知到我？”，吸引一个人最好的方式就是提供“对方感...
+ ## [电商系统之合同管理](http://www.woshipm.com/it/2830060.html)
+ > 上一篇个人补充学习了一下应收款项与预付的财务知识，前几篇也总结了在应收对账、质保金与预付款的管理内容，接下来应该介绍应付部分，但我总觉得缺少点什么，思考了一...
+ ## [跨境电商系统：跨境支付介绍（2）](http://www.woshipm.com/it/2831368.html)
+ > 在上一篇文章《跨境电商系统：跨境支付介绍（1）》中，以境外微信支付为例介绍了一下境外消费场景下的资金处理。本篇将以目前中国外贸出口行业的人民币结算分享下货卖出...
+ ## [说话方法论：如何避免“把天聊死”？](http://www.woshipm.com/zhichang/2830865.html)
+ > 说话很简单，说“好”话很难。如何避免在说话的时候“把天聊死”呢？笔者为你介绍一个行之有效的“上堆下切”语言体系。方法改变行为，方法论改变思维1/5 方法论跟方法有什...
+ ## [如何踏上“新消费的滔天巨浪”？](http://www.woshipm.com/marketing/2831659.html)
+ > 新消费的滔天巨浪就要来了，那么该如何抓住机遇，成为最顶尖的“踏浪儿”。雕爷一篇讨论“新消费巨浪来了”的文章，直接刷爆朋友圈。他还重点提到：这次机遇，三十年一遇...
+ ## [竞品分析：抖音、快手等短视频软件的五方混战](http://www.woshipm.com/evaluating/2827810.html)
+ > 本文作者从产品的功能、界面等层次分析其优缺点，对抖音、快手、微视、火山小视频和好看视频这5款App进行分析，试图找出各自的不足，且提出了自己的建议。目录一、背...
  ## [一文看懂逻辑回归算法（基本概念+优缺点+美团应用案例）](http://www.chanpin100.com/article/109456)
  > 本文将通俗易懂的介绍逻辑回归的基本概念、优缺点和实际应用的案例。同时会跟线性回归做一些比较，让大家能够有效的区分 2 种不同的算法。
  ## [市场分析详谈（上）](http://www.chanpin100.com/article/109455)
