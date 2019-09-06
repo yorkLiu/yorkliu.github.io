@@ -1,7 +1,7 @@
 ---
 title: 2019-09-06 IT News
 copyright: true
-date: 2019-09-06 10:01:16
+date: 2019-09-06 12:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -64,47 +64,35 @@ MCN&#26426;&#26500;&#8220;&#32593;&#26143;&#26790;&#24037;&#21378;&#8221;&#33719
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [人机交互掌控未来!2019深圳国际全触与显示展领航触控显示行业新风尚](http://mp.weixin.qq.com/s?src=11&timestamp=1567735204&ver=1835&signature=C2Af3q4p3c6ROHdI-54ovapFW0DUcx*ToVpTilGn0ZCtNiN-G1y5VNquoamNNTWtRbEGdnsN7Q6GePunKUOCaunbtisOIUQrz5r0xRbQLwyWUMPEUhiF5AHox9oHoMWz&new=1)
+ ## [E安全国际早报|2019年9月6日](http://mp.weixin.qq.com/s?src=11&timestamp=1567742404&ver=1835&signature=thEJWQzNq6HisvaLXbo3HipLpLJqPa2Baz-hUvUZ7F5qRr6k5BqPK8HAx*gKm8Ln7FVjs2-hXbrLVHeUCyMLi1LQUycSR3KEwBzIDMEaF*Di2t*WlFMZMZXwj0G7GtGg&new=1)
+ > 1 今日摘要*美国官员将中国视为头号网络威胁。*推特关闭了“使用短信发推文”功能。*网络攻击迫使纽约州推迟开学日期。*美国新贝德福德市政府与黑客的谈判失败。*多名僵尸网络始作俑者认罪。*美国政商界人士参与...
+ ## [人机交互掌控未来!2019深圳国际全触与显示展领航触控显示行业新风尚](http://mp.weixin.qq.com/s?src=11&timestamp=1567742404&ver=1835&signature=C2Af3q4p3c6ROHdI-54ovapFW0DUcx*ToVpTilGn0ZA2lnmeGY10PjKYi*DL-5F7QZ02FYfbXKPO9vkyypNmNv4Z5Sgeopqbwzz0iUADWBt7Hs8RzA7Mf20h8GdqpP9r&new=1)
  > 从摩托罗拉CD928+手机使用第一块单色屏，到如今华为荣耀智慧超清屏如日中天，人类迄今为止最为高精尖的工业产品之一触控屏，在经历了无数次迭代与创新后，正成为各国工业制造的必争之地。现在，这块方寸间的智慧...
- ## [惊叹!长江边，这些人看到了…](http://mp.weixin.qq.com/s?src=11&timestamp=1567735204&ver=1835&signature=mS8KSvtp6V7j53XXKOvxkCTNhSTmd*qAc2z--13XtgLEqs0L65olbDvSE*qC6d6Mv*3B3PQzL1MISGYbz*-nPGUT6hI*c*R2QRXROwBr9hSJB*weOjED*6F*elUH8HhA&new=1)
+ ## [惊叹!长江边，这些人看到了…](http://mp.weixin.qq.com/s?src=11&timestamp=1567742404&ver=1835&signature=mS8KSvtp6V7j53XXKOvxkCTNhSTmd*qAc2z--13XtgJ2l4gQjYlo2-Hqia1ti2s8uj2pDMxSowp7ToWyMzE39mX45jJnDh5TU6RReJYjH3smOsA7ggFea5eUDPzxiHPH&new=1)
  > 芜湖是长江巨埠，皖之中坚作为皖江开发开放的龙头一批新兴产业在芜湖实现从无到有、从有到优“芜湖制造”已成为这座城市的又一张靓丽名片9月4日-5日“不忘初心、牢记使命——畅行中国 安徽制造”全国百城百台交...
 # IT 技术 
- ## [什么是“锟斤拷”？我竟答不上来......](http://developer.51cto.com/art/201909/602564.htm)
- > 什么是“锟斤拷”？我竟答不上来......
- ## [AngularJS的七种常见优秀实践](http://news.51cto.com/art/201909/602537.htm)
- > AngularJS的七种常见优秀实践
- ## [Ubuntu上用eSpeak将文本转换成语音](http://news.51cto.com/art/201909/602536.htm)
- > Ubuntu上用eSpeak将文本转换成语音
- ## [AI高分通过美国8年级科学考试：常识题推理题都能行，不服同台对战](http://ai.51cto.com/art/201909/602529.htm)
- > AI高分通过美国8年级科学考试：常识题推理题都能行，不服同台对战
- ## [五行代码用图提升模型表现，TensorFlow开源NSL神经结构学习框架](http://news.51cto.com/art/201909/602463.htm)
- > 五行代码用图提升模型表现，TensorFlow开源NSL神经结构学习框架
- ## [神一样的CAP理论被应用在何方？](http://developer.51cto.com/art/201909/602506.htm)
- > 神一样的CAP理论被应用在何方？
- ## [“ZAO”凉凉！教你用Deepfakes换脸](http://ai.51cto.com/art/201909/602512.htm)
- > “ZAO”凉凉！教你用Deepfakes换脸
- ## [AI一句话骗走24万美元！开源模型要背锅？](http://news.51cto.com/art/201909/602509.htm)
- > AI一句话骗走24万美元！开源模型要背锅？
- ## [边缘计算和5G技术将如何重新定义零售体验](http://www.cioage.com/art/201909/602563.htm)
- > 如今，零售业正处于一场重大变革之中，无论购物者采用智能手机浏览产品信息，还是到实体店购物。不可否认的
+ ## [简单好用的9个电脑必备工具！让你轻松10倍](http://biz.51cto.com/art/201909/602575.htm)
+ > 下面 9 款工具都是精心挑选的电脑必备神器，涵盖你需要的各个方面，无论是安全防护、文件查找、解压加密还
+ ## [人工智能将如何改变IT服务管理](http://ai.51cto.com/art/201909/602574.htm)
+ > 人们在科幻电影中看到的人工智能(AI)机器人通常十分聪明灵巧。人工智能或者机器智能将很快会创造出一种前所
+ ## [随着物联网市场不断发展和成熟 有哪些新的机遇和挑战](http://iot.51cto.com/art/201909/602573.htm)
+ > 物联网（IoT）与云，边缘计算，人工智能（AI）和混合现实等一系列催化技术一起，为企业创造了数十亿个连接
+ ## [阿里研究员：测试稳定性三板斧，我怎么用？](http://zhuanlan.51cto.com/art/201909/602572.htm)
+ > 如何治理测试稳定性问题?很多人会说：环境、流程管控、监控、工具化、加机器、专人负责、等等。
+ ## [央行发文！今后用支付宝、微信等缴税有规可依了](http://www.cioage.com/art/201909/602570.htm)
+ > 为规范非银行支付机构、商业银行和清算机构提供国库资金经收支付服务的行为，维护国库资金安全，保障缴款人
+ ## [为什么你的需求估算老是翻车？看看这个故事就明白了......](http://zhuanlan.51cto.com/art/201909/602571.htm)
+ > 为什么软件开发的实际工作量通常比估计的高几倍? 我们来看一个故事就明白了。
+ ## [当下人工智能的优秀用例](http://ai.51cto.com/art/201909/602567.htm)
+ > 企业正在进行人工智能试点，并正在将人工智能投入生产。这里是领先的组织正在下注的地方--并且已经看到了早
+ ## [你的电脑是“GG”还是“MM”？英特尔教你辨别](http://biz.51cto.com/art/201909/602565.htm)
+ > 人有男女之别但你知道电脑其实也是“男女有别”么?近日英特尔官方便向大家科普了一下如何分辨自己的电脑“
  ## [云存储性能：可用性和持久性之间的差异](http://cloud.51cto.com/art/201909/602562.htm)
  > 当你打开汽车点火开关，把电器插到墙上的插座上，或者双击硬盘上的文件时，你就知道接下来会发生什么了。这
  ## [微软工程师建议换掉 Chromium 代码库中的单词：黑名单和白名单](http://news.51cto.com/art/201909/602561.htm)
  > 去年有两个知名开源项目 ―― Redis 和 Python 均因为其代码库包含 master 和 slave 这些被认为具有冒犯性
- ## [Linux系统克隆工具之Top 6推荐](http://os.51cto.com/art/201909/602560.htm)
- > 磁盘克隆是将一个硬盘(或分区)的内容复制到另一个磁盘或“映像”文件的过程。在这篇文章中，我将列出我最喜
- ## [以太网数据传输原理你懂吗？](http://network.51cto.com/art/201909/602558.htm)
- > 路由是基于数据包的IP头部中的目的IP地址进行查找的;查找的是路由表。 那么什么是以太网二层交换(switching
- ## [区块链对房地产业的影响](http://blockchain.51cto.com/art/201909/602555.htm)
- > 如今，要想了解区块链技术，似乎只需要上网就可以了。几乎每个主要的新闻门户和技术网站都有一些关于当前受
- ## [民主化与自动化：降低机器学习门槛的六大工具](http://ai.51cto.com/art/201909/602556.htm)
- > 以下介绍的六种机器学习工具为那些使用数字、电子表格和数据的人们打开了通向机器学习世界的大门，而且不需
- ## [闲聊数据库高可用容灾规划设计](http://database.51cto.com/art/201909/602553.htm)
- > 高可用架构是数据库运行稳定必不可少的一部分，设计架构时要考虑诸多问题，如数据是否同步、高可用自动切换
- ## [Linux老鸟给出的Linux系统故障问题汇总，值得收藏](http://os.51cto.com/art/201909/602552.htm)
- > 作为一名优秀的linux运维工程师，一定要有一套清晰、明确的解决故障思路，当问题出现时，才能迅速定位、解
- ## [全面了解TCP/IP知识体系结构总结](http://network.51cto.com/art/201909/602551.htm)
- > 我们从三个维度去分析服务器开发的TCP知识体系，分别为性能法则、设计法则和避坑法则。
+ ## [9月6日科技资讯|阿里 20 亿美元收购网易考拉；苹果回应误发七倍工资；VS Code 1.38 发布](https://blog.csdn.net/weixin_39786569/article/details/100573864)
+ > 9月6日科技资讯|阿里 20 亿美元收购网易考拉；苹果回应误发七倍工资；VS Code 1.38 发布
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
  > 程序员实用工具网站
  ## [轻轻松松学递归](https://blog.csdn.net/qq_42453117/article/details/100555894)
@@ -127,85 +115,76 @@ MCN&#26426;&#26500;&#8220;&#32593;&#26143;&#26790;&#24037;&#21378;&#8221;&#33719
  > 计算机网络协议(三)——UDP、TCP、Socket
  ## [全网5G最完整的PPT，朋友圈超火！](https://blog.csdn.net/mingongge/article/details/99023545)
  > 全网5G最完整的PPT，朋友圈超火！
+ ## [计算机网络协议(四)——HTTP、HTTPS、P2P协议](https://blog.csdn.net/ghw15221836342/article/details/100541199)
+ > 计算机网络协议(四)——HTTP、HTTPS、P2P协议
  ## [开发者常用及实用 Linux Shell 命令备忘录](https://blog.csdn.net/briblue/article/details/100550854)
  > 开发者常用及实用 Linux Shell 命令备忘录
  ## [从零讲JAVA ，给你一条清晰地学习道路！该学什么就学什么！！](https://blog.csdn.net/weixin_38405253/article/details/99027022)
  > 从零讲JAVA ，给你一条清晰地学习道路！该学什么就学什么！！
- ## [计算机网络协议——通信协议综述](https://blog.csdn.net/ghw15221836342/article/details/100191924)
- > 计算机网络协议——通信协议综述
- ## [docker入门教程](https://blog.csdn.net/zzti_erlie/article/details/100282808)
- > docker入门教程
+ ## [我如何在 16 岁成为全栈开发者？](https://blog.csdn.net/csdnnews/article/details/100570206)
+ > @程序员，你在 16 岁的时候做了什么呢？又是什么让你走上了技术之路？本文就分享一位 16 岁的开发者是如何成为全栈开发的故事。作者 |Nuno Martins译者 |...
+ ## [如何用 JavaScript+Canvas 开发一款超级烧脑小游戏？](https://blog.csdn.net/csdnnews/article/details/100570207)
+ > 作者 |huangjianke责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）【CSDN 编者按】据微信最新数据，微信小游戏累计注册用户量已突破10亿。那么...
+ ## [5G 到底是不是伪需求?](https://blog.csdn.net/csdnnews/article/details/100570208)
+ > 作者 |William Osmon译者 | 弯月，责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）回想当年，4G为我们带来了快速可靠的流媒体，如今5G也在通...
+ ## [收购一家毁一家，雅虎到底杀死了多少好产品？](https://blog.csdn.net/csdnnews/article/details/100570209)
+ > 作者 | 一笑本文经授权转载自新浪科技（ID：techsina）全球最大的轻博客平台Tumblr，又被卖身了。8月13日，Tumblr以300万美元卖给了WordPres...
+ ## [反转！2019程序员吸金榜来了，AI程序员刷爆了..](https://blog.csdn.net/csdnnews/article/details/100570202)
+ > 前两天在网上发现一个热门话题：“做开发一年，在北京月薪不到1万，有点迷茫。”其中，这个回答我永远忘不了：在这短短的一条信息里，小编佩服不仅仅是毕业一年的AI程序员拿到年...
+ ## [300 秒带你吃透大数据！](https://blog.csdn.net/csdnnews/article/details/100570203)
+ > 作者 | 小枣君责编 | 胡巍巍本文经授权转载自鲜枣课堂（ID：xzclasscom）这些年，大数据作为一个时髦概念，出现频率很高，关注度也很高。对于很多人来说，当他第一...
+ ## [厉害了！这项技术BAT力捧！程序员：我彻底慌了...](https://blog.csdn.net/csdnnews/article/details/100570204)
+ > 人工智能离我们还遥远吗？近日，海底捞斥资1.5亿打造了中国首家火锅无人餐厅；阿里酝酿了两年之久的全球首家无人酒店也正式开始运营，百度无人车彻底量产。李彦宏称，这是中国第一...
+ ## [支付宝核心工程师谈如何成为一名优秀的程序员？](https://blog.csdn.net/csdnnews/article/details/100570205)
+ > 支付宝研究员李俊奎作者 |蚂蚁金服科技责编| 伍杏玲出品 | 程序人生（ID：coder_life）校招进入支付宝，11年时间，从一线工程师成长为支付宝安全核心架构...
+ ## [亚马逊首席科学家李沐「实训营」国内独家直播，马上报名 ！](https://blog.csdn.net/csdnnews/article/details/100570198)
+ > 开学了，别人家的学校都开始人工智能专业的学习之旅了，你呢？近年来，国内外顶尖科技企业的 AI 人才抢夺战愈演愈烈。华为开出200万年薪吸引 AI 人才，今年又有 35 ...
+ ## [绿洲因涉嫌抄袭下架；Facebook 泄露 4.19 亿条用户数据；Go 1.13 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100570199)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [软件正在吞噬世界！如何拯救旧金山的开发者？](https://blog.csdn.net/csdnnews/article/details/100570200)
+ > 拯救旧金山是一项独角兽投资。作者 |Steven Buss译者 | 弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：由于邻避效应（Not I...
+ ## [亲测！这款耳机性价比堪比 AirPods](https://blog.csdn.net/csdnnews/article/details/100570201)
+ > 小编平时特别喜欢跑步，而跑步的时候最喜欢戴上耳机边听音乐、边享受燃脂的快感！然鹅~每次拿出的耳机，线都乱成一坨。内无比煎熬！再者~带线耳机跑步中很容易脱落或被扯掉，又需要...
  ## [网易云音乐获阿里领投的7亿美元融资，控制权仍在网易](http://www.lanjingtmt.com/news/detail/44599.shtml)
  > 网易与阿里今日共同宣布，阿里作为领投方参与了网易云音乐B2轮7亿美元的融资。网易方面表示，此次融资后，网易仍单独享有对网易云音乐的控制权。
  ## [阿里确认以20亿美元收购网易考拉，后者将保持独立运营](http://www.lanjingtmt.com/news/detail/44598.shtml)
  > 网易与阿里今日共同宣布，阿里确认以20亿美元收购网易考拉，考拉将保持独立品牌运营，天猫进出口事业群总经理刘鹏兼任考拉CEO。同时，阿里作为领投方参与了网易云音乐B2轮7亿美元的融资
  ## [微博推社交新品绿洲，能否缓解流量焦虑？](http://www.lanjingtmt.com/news/detail/44597.shtml)
  > 2019年的社交浪潮再次席卷，微博推出全新生活时尚社交产品“绿洲”。绿洲，顶着外界宣称的“ins+小红书”结合体的名号，在微博体系中又将扮演怎样的角色？对微博而言，其能否凭借绿洲缓
-# 人工智能 
- ## [【Java设计模式】软件设计七大原则](https://blog.csdn.net/qq_42322103/article/details/91411528)
- > 【Java设计模式】软件设计七大原则
- ## [SpringBoot专题](https://blog.csdn.net/moquz/article/details/98219649)
- > SpringBoot专题
- ## [visual c++2010 express安装教程。](https://blog.csdn.net/weixin_44625837/article/details/91402469)
- > visual c++2010 express安装教程。
- ## [IDEA 使用教程（持续更新，19年8月5号更新）](https://blog.csdn.net/qq_40914991/article/details/85543575)
- > IDEA 使用教程（持续更新，19年8月5号更新）
- ## [Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！](https://blog.csdn.net/zhiwenyan/article/details/90110136)
- > Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！
- ## [VS Code 安装 LeetCode 插件](https://blog.csdn.net/guliang21/article/details/97624240)
- > VS Code 安装 LeetCode 插件
- ## [IDEA 2019.1.2版破解教程（亲测可用，2019年6月4日）](https://blog.csdn.net/qq_31122833/article/details/90080793)
- > IDEA 2019.1.2版破解教程（亲测可用，2019年6月4日）
- ## [SpringCloud之配置中心Config（Git 版）](https://blog.csdn.net/qq_41402200/article/details/91126435)
- > SpringCloud之配置中心Config（Git 版）
- ## [IntelliJ IDEA最新版2019年注册码，可激活至2099年 激活 破解](https://blog.csdn.net/qq_42914528/article/details/85617901)
- > IntelliJ IDEA最新版2019年注册码，可激活至2099年 激活 破解
- ## [IDEA 最新破解方法，2019 版本已支持（持续更新，更新时间2019-05-14）](https://blog.csdn.net/qq_42914528/article/details/89710864)
- > IDEA 最新破解方法，2019 版本已支持（持续更新，更新时间2019-05-14）
- ## [Axure 9.0激活码亲测可用](https://blog.csdn.net/suo082407128/article/details/90231423)
- > Axure 9.0激活码亲测可用
- ## [Python3.6+selenium2.53.6自动化测试_环境：jenkins持续集成----实现把本地项目自动跑起来（三）](https://blog.csdn.net/dengachao/article/details/98195492)
- > Python3.6+selenium2.53.6自动化测试_环境：jenkins持续集成----实现把本地项目自动跑起来（三）
- ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
- > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
- ## [Axure 9注册码，亲测可用](https://blog.csdn.net/weixin_41948075/article/details/92797529)
- > Axure 9注册码，亲测可用
- ## [asp.net强大工作流引擎，learun助力开发升级](https://blog.csdn.net/csdncopy/article/details/88026568)
- > asp.net强大工作流引擎，learun助力开发升级
 # PM 
- ## [九周年献礼：首次揭秘人人都是产品经理迭代版本图！](http://www.woshipm.com/it/2818071.html)
+ ## [线上课程 | 做运营1年多，想要职业发展越来越好，先把这项技能提上去](http://www.woshipm.com/active/2815243.html)
+ > 作为一名运营人，有一项基本功必须得练好，那就是文案。文案成本低见效快，能轻而易举地将运营价值放大10 倍，甚至更多。要知道，hotmail 在推广初期，发给种子用户...
+ ## [共享充电宝“终局之战”](http://www.woshipm.com/it/2830300.html)
+ > 共享充电宝最后谁合并谁，谁又被统一，或者谁能真正抢跑，关键在于从产品和运营入手，打造共享充电产品和服务的多元化体系。“外界对共享充电宝的质疑，我觉得很正常。...
+ ## [B端产品经理：如何做好一次成功的客户宣讲？](http://www.woshipm.com/pmd/2827976.html)
+ > 一次成功的客户宣讲宣讲，对公司收益和维护客户关系的助力不言而喻。如何做好一次成功的宣讲？笔者根据自身经验总结了3个要点，供大家参考与学习。B端产品，因为面向...
+ ## [微博、抖音、快手的红人战争](http://www.woshipm.com/it/2830383.html)
+ > 平台与平台之间的竞争，MCN对平台的取舍，红人对平台的选择……平台、MCN、红人三个主体之间的合作博弈呈现了参差百态的局面。微博、抖音、快手的红人战争并非你死我活，...
+ ## [网站跳出率高？4个原因和7个措施](http://www.woshipm.com/operate/2826984.html)
+ > 跳出率”是指该网页是会话中“唯一网页”的会话占由该网页开始的所有会话的百分比。跳出率=访问一个页面后离开网站的次数/总访问量*100%。本篇文章中，笔者对高跳出率背后...
+ ## [不同种类的按钮，怎样设计才是正确的](http://www.woshipm.com/pd/2828880.html)
+ > 作为WEB端和移动端的组成部分，按钮承载着引导用户的作用，遵循怎样的设计原则，才可以让按钮真正起到作用，同时不造成误解呢？按钮对于现在的我们来说，不管是WEB端...
+ ## [细思极恐，AI“花式诈骗”的N种方式](http://www.woshipm.com/ai/2828473.html)
+ > 当科技手段用于诈骗，众多普通人可能都无法辨别。科技从来都有两面性，回归技术本身，也许是防范的最好手段。最近关于AI的负面新闻着实有点多。不是“合成老板声音骗走...
+ ## [微博推出“绿洲”，加强版分析实录](http://www.woshipm.com/evaluating/2821242.html)
+ > 绿洲被形象称为“小红书”模式的国内版“Instagram”，本篇文章中笔者对这款APP进行了分析探讨并总结了自己的看法，与大家分享。在今年5月28日，绿洲官方微博曾发布了一条...
+ ## [2019，苹果的未来去向何方？](http://www.woshipm.com/it/2827644.html)
+ > 苹果市场份额遭受对手冲击，“奢侈品化”引来用户不满，乔布斯已经远去，乔纳森也离开，苹果的下一个十年走向何方？2019年秋季发布会在即，一起拭目以待。当我们还在为C...
+ ## [九周年献礼：首次揭秘人人都是产品经理迭代版本图！](http://www.woshipm.com/active/2818071.html)
  > 点击进入九周年会场，快来生成你的专属卡片，你的成长，由我们记录：http://zt.woshipm.com/9years/index.html不知不觉，从2010年老曹在上海成立人人都是产品经理到现...
  ## [新零售的未来不是梦：认清新零售运行逻辑](http://www.woshipm.com/newretail/2829032.html)
  > 对于新零售来说，虽然目前的发展遭遇到了困境。但是结合新技术、将线上线下进行融合、进一步深入行业改造后，新零售的发展并不是一场梦。突如其来的资本寒冬的确打乱...
  ## [微博十年寻绿洲，绿洲今日却下线？](http://www.woshipm.com/it/2826805.html)
  > 微博十年求变，绿洲上线，会是新的机会，还是再一次归于沉寂？这两天，微博旗下的新产品“绿洲”开始公测，吸引来不少注意力。下载体验之后，第一感觉是觉得简洁清爽，...
- ## [万字长文 | “用户增长术”的本质](http://www.woshipm.com/operate/2829093.html)
- > 用户增长术的本质，就是场景、触点、用户的体验+激励规则+产品策略。前些日子，有一篇大约是KOL已死，KOC当兴的文章，引起了众多同行的讨论。回想起之前的各种新零售...
- ## [画地为牢！企业自媒体的挣扎、覆灭和宿命](http://www.woshipm.com/operate/2828952.html)
- > 对于企业来说，打造自媒体账号似乎成了企业对外营销宣传的不二途径之一。不过扪心自问，企业的自媒体心态真的正确吗？所谓的“企业自媒体”，从来没真正做过“自媒体”。...
- ## [四级火箭：助力创业到规模商业的用户增长](http://www.woshipm.com/marketing/2826211.html)
- > 一次成功的创业，需要实现用户的增长，形成商业规模，最终让用户为产品付费。其中暗藏着很多坑，本文解析了创业到规模的四阶段，企业应该如何实现正反馈？首先问大家...
- ## [为什么希望所有的产品经理也必须写作？](http://www.woshipm.com/pmd/2773679.html)
- > 清晰的书面沟通是产品经理的绝对先决条件。——约翰·卡特勒8月份即将结束，这一年还有4月也就过去了。8月中的我，因为身体和时间原因，辞职离开了工作5个月的岗位，现...
- ## [关于新消费，关键在于这三点实质性变化！](http://www.woshipm.com/it/2828855.html)
- > 本文笔者总结分享了他对新消费的理解，实质性变化是：品牌与消费者建立直接连接、媒体与渠道的无限融合、产品与内容的无限融合，一起来看看吧。先来看一张图。这是我...
- ## [经验分享：产品经理该怎么讲用户故事？](http://www.woshipm.com/pmd/2827966.html)
- > 笔者从自身经验出发，就什么是用户故事、如何收集用户故事两个问题进行了分析讨论，一起来看看吧。从最初的瀑布模式开始，需求就贯穿了产品与项目的始终，是一个产品...
- ## [漫画+营销：画出一个内容大风口](http://www.woshipm.com/marketing/2826358.html)
- > 在广告营销这一块，漫画似乎越来越成为了一个主流操作。很多热门的广告都会利用漫画来呈现，并且效果也不错。本文就以漫画营销为例，进行思考与解析~新媒体时代开启后...
- ## [线上课程 | 入职1周就被敲打了，原来Axure用不好，会出现这样的问题……](http://www.woshipm.com/active/2793164.html)
- > 上个月，不甘于做产品螺丝钉的马聪，投了一家高速发展中的创业公司。凭着一年多的某二线大厂工作经历，参与一个大型产品项目时积累的经验，和不错的沟通能力和逻辑思...
- ## [9月广州产品运营大会报名：16小时听懂能力变革的新趋势](http://www.woshipm.com/active/2829138.html)
- > 一年一度的广州产品运营大会将在9月开启近千位互联网圈的产品经理、运营、市场精英即将奔赴广州你将有机会和大咖面对面交流听一线实战专家的多年实战经验总结聊互...
- ## [白白说算法：相亲中的马尔科夫模型](http://www.chanpin100.com/article/109447)
- > 科学教你相亲
- ## [一位互联网运营人在迷茫中的破局之路](http://www.chanpin100.com/article/109439)
- > 这是一个真实的故事
- ## [留存率才是检验产品的第一标准](http://www.chanpin100.com/article/109438)
- > 截止到2017年，移动互联网已经进入成熟期，先后出现了以微信、QQ、支付宝、新浪微博为代表的超级APP雄视天下，其他各领域APP狠追猛打的局面。
- ## [用户增长方法论及增长思维](http://www.chanpin100.com/article/109437)
- > 结合笔者在BAT的实战经验和案例，通过“产品前的用户增长—产品生命周期内的用户增长—突破产品生命周期的用户增长”三个阶段来讲解增长。这篇文章主要讲的是第一个部分
- ## [我有一个竞争方法，让用户去选择你的产品而不是别人](http://www.chanpin100.com/article/109435)
- > 如何才能做一套合格的竞争方案，与你的对手建立起有利的竞争关系，让你的产品在市场竞争中脱颖而出，我总结了一种方法。
+ ## [一文看懂逻辑回归算法（基本概念+优缺点+美团应用案例）](http://www.chanpin100.com/article/109456)
+ > 本文将通俗易懂的介绍逻辑回归的基本概念、优缺点和实际应用的案例。同时会跟线性回归做一些比较，让大家能够有效的区分 2 种不同的算法。
+ ## [市场分析详谈（上）](http://www.chanpin100.com/article/109455)
+ > 市场分析是产品经理的基础技能，也是后面输出BRD,MRD的基础，本篇文章笔者将对市场分析做一个详细的说明与讲解，供大家一起参考与学习。
+ ## [卡片式设计流行的秘密—看完这15个案例你就懂了！](http://www.chanpin100.com/article/109451)
+ > 卡片是UI设计师发挥创意的画板。它不仅仅是一个拟物化的卡片UI控件，还是创建优质内容，营造优质用户体验的重要布局手段。
+ ## [【初学者指南】如何高效地制作一个语音交互原型？](http://www.chanpin100.com/article/109449)
+ > “ 通往产品成功的道路，总是需要突破在用户需求整理，功能筛选优化，和不断测试迭代上遇到的重重困难！”——詹姆斯福克斯《原型设计的意义是什么》
+ ## [跨境进口电商深度解析系列1](http://www.chanpin100.com/article/109450)
+ > 对跨境进口电商一系列内容分2编文章来说，先从发展阶段，基本流程，参与角色
 
     
