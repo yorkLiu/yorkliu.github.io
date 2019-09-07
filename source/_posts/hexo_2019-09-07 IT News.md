@@ -1,21 +1,21 @@
 ---
 title: 2019-09-07 IT News
 copyright: true
-date: 2019-09-07 09:01:15
+date: 2019-09-07 10:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [硅谷狂人隐忧：不受控制的AI比核武器还危险?](http://mp.weixin.qq.com/s?src=11&timestamp=1567818003&ver=1837&signature=xpCLDHF8AbGHIHU5T6*DvgJk*FaJbnOK*eSAg-KwF3BI*dAjuHDgAHj-ZKCwMY2wMSgVyyYefwUBr9FcqDfd8kmJLDjJpWdp4cYfWQg*myR-3ZnmOUmb3rqK6atBY9o8&new=1)
- > 最近，一段“机器人反踹人类”的视频走红了社交网络。工作人员将箱子砸到机器人头上之后，机器人灵活地旋转跳跃闭着眼开始踹人，然后捡起箱子砸向了镜头。结果大家都知道了，剧情很快反转，原来视频上的水印并不...
- ## [华为震撼发布，又是世界第一!高通三星沉默，苹果退出群聊](http://mp.weixin.qq.com/s?src=11&timestamp=1567818003&ver=1837&signature=p2rThp8y2zIMDcKJ8ITbIvPgZCiRTlpZGk3EtthuhppIrA-7JoE-IjHHqJ9BEsX1oYrBxEl3u6T8Mi64N3fu-xirnPQspUbOf6YSJTtaS1xfdDnGJCJ44y*VS7JOGtQP&new=1)
+ ## [华为震撼发布，又是世界第一!高通三星沉默，苹果退出群聊](http://mp.weixin.qq.com/s?src=11&timestamp=1567821603&ver=1837&signature=p2rThp8y2zIMDcKJ8ITbIvPgZCiRTlpZGk3EtthuhpoWJCJ5hn7Q*vGkAyA1ow1lQZch6U2XAV3V0Utt13gAxiBIYkjAWF04EiHQ8vBj*hEIQzwWxzsTwKvY*kF91uaS&new=1)
  > 刚刚，华为在德国柏林电子展 IFA 做了 KeyNote 演讲，全程暴捶三星苹果高通骁龙。核心是 —— 华为发布了首款旗舰 5G SoC 麒麟 990。好厉害的一个处理器，各种全球首发。那么厉害，先看看麒麟 990 的整个架构：...
- ## [华为麒麟990正式发布：103亿晶体管加持5G实力天下第一](http://mp.weixin.qq.com/s?src=11&timestamp=1567818003&ver=1837&signature=1oUkK6aVkUAmcQNTxhu8ZS*qJ77emCiMug4SCLcLWQGiPTF0--l390qk*3OP777fe8QW6SBqfJq*tMu7Ry5nMlPk4nX95U1QOsgyMKeVDp2LOkqmynd99BvS6GGXi3gY&new=1)
+ ## [华为麒麟990正式发布：103亿晶体管加持5G实力天下第一](http://mp.weixin.qq.com/s?src=11&timestamp=1567821603&ver=1837&signature=1oUkK6aVkUAmcQNTxhu8ZS*qJ77emCiMug4SCLcLWQFg5W2SUtsj3i3f-sOYfdIbIALPVtyTTRnD1yFfwu84LioMFDE-4ptEn14rYJlUOqnd7I15-qY0IfokhYyNe2g1&new=1)
  > 就在今天，华为正式在德国IFA2019大会上推出了麒麟990处理器，和之前曝光不同的是，虽然这次华为一下子发布了两款处理器，但并不是麒麟985和麒麟990，而是麒麟990和麒麟990 5G版。从名字我们也能看出，没有打上5...
- ## [热烈欢迎瑞贝思三维入驻深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1567818003&ver=1837&signature=0GX*lozy2AyMbicA7w-dvsTnbf2oPjCrAGbbF10FOVrlYvewS74It8kF4w3PkkBveYSGw3vHHNZPMNoEON-U1zOVjw*5KtMmmU2oxGSDwyk4hIb4moZP6MZ4WcZ0*1t2&new=1)
- > 深圳市瑞贝思三维成型技术有限公司专注高品质的FDM 3D打印机耗材研发生产销售，公司云集了一批国内顶尖的3D打印机耗材研发人才，团队成员有6年多3D打印机耗材研发和制造经验，产品处于世界一流技术水平，主要产...
- ## [走进西安交警：智慧交通“标杆”是如此炼成的](http://mp.weixin.qq.com/s?src=11&timestamp=1567818003&ver=1837&signature=oVbbKP0UmlASEPMppLZS4lsUXG1ZzQf-g67qUrDcN0gq-P7NKtuY37FCeKHIbyqqIZ2TfO-XVSgKnura0F65YdTWJfBawbfplfWXRiN-6Ixo5ZItHulVAiqL3ivdmbHm&new=1)
+ ## [走进西安交警：智慧交通“标杆”是如此炼成的](http://mp.weixin.qq.com/s?src=11&timestamp=1567821603&ver=1837&signature=oVbbKP0UmlASEPMppLZS4lsUXG1ZzQf-g67qUrDcN0jciwQu7CJVTz0lxbhjY0nZYTyHjuqjjhSyuxMJ53X8bVK1zhJl5BAuPZ4DhzqGfHt6UM8KIzqWjZgMLhp*aVVJ&new=1)
  > 2019年政企上云大潮正席卷中国大地，涌现出一批上云标杆案例。其中，陕西西安交警打造的智慧云平台是陕西政务云第一个上云项目，是全国性的标杆，吸引了国内外多个交警系统代表参观学习，且获奖无数。那么，西安...
+ ## [硅谷狂人隐忧：不受控制的AI比核武器还危险?](http://mp.weixin.qq.com/s?src=11&timestamp=1567821603&ver=1837&signature=xpCLDHF8AbGHIHU5T6*DvgJk*FaJbnOK*eSAg-KwF3CsXmbE0d4sr*QjbaAFdXxc2B4WKvzvgf7CXDQaOz5gYp1CuM1xHr1w8PhmuC2rsW6hRI5GVL9X-wHm4sM26cF1&new=1)
+ > 最近，一段“机器人反踹人类”的视频走红了社交网络。工作人员将箱子砸到机器人头上之后，机器人灵活地旋转跳跃闭着眼开始踹人，然后捡起箱子砸向了镜头。结果大家都知道了，剧情很快反转，原来视频上的水印并不...
+ ## [热烈欢迎瑞贝思三维入驻深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1567821603&ver=1837&signature=0GX*lozy2AyMbicA7w-dvsTnbf2oPjCrAGbbF10FOVoJh4DXvmJvSvu98LY9WIRdz0jwh4v8IWsCIyyObwMQhtjbXSl-0*wwV8lriRiHUbOx2NvB9n5SPNPKRGxWv6Yw&new=1)
+ > 深圳市瑞贝思三维成型技术有限公司专注高品质的FDM 3D打印机耗材研发生产销售，公司云集了一批国内顶尖的3D打印机耗材研发人才，团队成员有6年多3D打印机耗材研发和制造经验，产品处于世界一流技术水平，主要产...
 # IT 技术 
  ## [什么是“锟斤拷”？我竟答不上来......](http://developer.51cto.com/art/201909/602564.htm)
  > 什么是“锟斤拷”？我竟答不上来......
@@ -33,8 +33,6 @@ categories: IT NEWS
  > 五行代码用图提升模型表现，TensorFlow开源NSL神经结构学习框架
  ## [神一样的CAP理论被应用在何方？](http://developer.51cto.com/art/201909/602506.htm)
  > 神一样的CAP理论被应用在何方？
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
  ## [MySQL 数据库铁律](https://blog.csdn.net/smartbetter/article/details/100160069)
  > MySQL 数据库铁律
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
@@ -63,38 +61,46 @@ categories: IT NEWS
  > 面试不懂分布式锁？那得多吃亏
  ## [程序员真是太太太太太有趣了！！！](https://blog.csdn.net/j3T9Z7H/article/details/100179186)
  > 程序员真是太太太太太有趣了！！！
+ ## [【Java设计模式】软件设计七大原则](https://blog.csdn.net/qq_42322103/article/details/91411528)
+ > 【Java设计模式】软件设计七大原则
 # 人工智能 
- ## [tomcat+jsp访问mysql](https://blog.csdn.net/tina_tian1/article/details/97930211)
- > tomcat+jsp访问mysql
- ## [Migrate from Oracle to Spark SQL](https://blog.csdn.net/daoxu_hjl/article/details/96707163)
- > Migrate from Oracle to Spark SQL
- ## [Python目录](https://blog.csdn.net/Scrat_Kong/article/details/90257118)
- > Python目录
- ## [面试题整理](https://blog.csdn.net/weixin_44346035/article/details/97158115)
- > 面试题整理
- ## [可能是全网最好的MySQL重要知识点/面试题总结](https://blog.csdn.net/qq_34337272/article/details/94201189)
- > 可能是全网最好的MySQL重要知识点/面试题总结
- ## [SpringBoot事务](https://blog.csdn.net/ysl19910806/article/details/95760850)
- > SpringBoot事务
- ## [MySQL 命令使用（一）：操作数据库相关命令](https://blog.csdn.net/smile_Running/article/details/88686976)
- > MySQL 命令使用（一）：操作数据库相关命令
- ## [SpringDataJpa使用原生sql查询之后返回map类型 有key有value](https://blog.csdn.net/u010838785/article/details/98741738)
- > SpringDataJpa使用原生sql查询之后返回map类型 有key有value
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [navicat连接MySql8](https://blog.csdn.net/niufeiyun/article/details/97133176)
- > navicat连接MySql8
- ## [SpringBoot+MybatisPlus+Druid_mysql搭建简单的项目自动生成代码](https://blog.csdn.net/qq_25889465/article/details/95590635)
- > SpringBoot+MybatisPlus+Druid_mysql搭建简单的项目自动生成代码
- ## [为什么查询会出现Was expecting one of: <EOF>      "," ...](https://blog.csdn.net/weixin_44018093/article/details/92796904)
- > 为什么查询会出现Was expecting one of: &lt;EOF&gt;      &quot;,&quot; ...
- ## [Redis的安装，修改密码及登录验证，及三种操作方案](https://blog.csdn.net/qq_23145857/article/details/91045268)
- > Redis的安装，修改密码及登录验证，及三种操作方案
- ## [MySQL-mysql 8.0.17安装](https://blog.csdn.net/Charonmomo/article/details/98440968)
- > MySQL-mysql 8.0.17安装
- ## [MySql学习笔记](https://blog.csdn.net/weixin_44815052/article/details/96179684)
- > MySql学习笔记
+ ## [计算机网络](https://blog.csdn.net/qq_32682177/article/details/92799327)
+ > 计算机网络
+ ## [Azure devops PipeLine 如何发布到本地文件夹](https://blog.csdn.net/xiaomifengmaidi1/article/details/94732889)
+ > Azure devops PipeLine 如何发布到本地文件夹
+ ## [linux之搭建redis](https://blog.csdn.net/hyly_zhard/article/details/95486127)
+ > linux之搭建redis
+ ## [jenkins+maven+java(三)-Tomcat --关于项目的配置（server.xml）](https://blog.csdn.net/baidu_39372836/article/details/97010921)
+ > jenkins+maven+java(三)-Tomcat --关于项目的配置（server.xml）
+ ## [jenkins+maven+java(二）-Tomcat安装-目录解析](https://blog.csdn.net/baidu_39372836/article/details/96967227)
+ > jenkins+maven+java(二）-Tomcat安装-目录解析
+ ## [记一次mysql服务不能启动](https://blog.csdn.net/weixin_43707160/article/details/92733699)
+ > 记一次mysql服务不能启动
+ ## [CentOS - 环境配置及软件安装卸载记录（Aliyun镜像源）](https://blog.csdn.net/nangy2514/article/details/92964433)
+ > CentOS - 环境配置及软件安装卸载记录（Aliyun镜像源）
+ ## [解决PHPExcel超时、内存超出的问题](https://blog.csdn.net/qq_40012791/article/details/94739067)
+ > 解决PHPExcel超时、内存超出的问题
+ ## [ABP  .Net Core 后台程序发布至IIS（6）](https://blog.csdn.net/sinat_16998945/article/details/94739901)
+ > ABP  .Net Core 后台程序发布至IIS（6）
+ ## [电商项目介绍](https://blog.csdn.net/qq_32682177/article/details/97958605)
+ > 电商项目介绍
+ ## [Yii的params](https://blog.csdn.net/fujian9544/article/details/89204096)
+ > Yii的params
+ ## [emq（V2）官网配置文件emq.conf详解（1）----------集群配置](https://blog.csdn.net/top_explore/article/details/97781207)
+ > emq（V2）官网配置文件emq.conf详解（1）----------集群配置
+ ## [百度网盘不限速下载 2019-07-11](https://blog.csdn.net/ZC_XY/article/details/90345894)
+ > 百度网盘不限速下载 2019-07-11
+ ## [整理了10个干净、好用、无广告的BT、磁力链接搜索网站给大家](https://blog.csdn.net/xdcj2012/article/details/93242417)
+ > 整理了10个干净、好用、无广告的BT、磁力链接搜索网站给大家
+ ## [Centos7 cache/buff过高处理方法](https://blog.csdn.net/yexiaomodemo/article/details/98639318)
+ > Centos7 cache/buff过高处理方法
 # PM 
+ ## [在线音乐走进“城邦时代”](http://www.woshipm.com/it/2831352.html)
+ > 在线音乐领域中，腾讯、网易云、百度、阿里等玩家做出了不同的战略与方向，并形成了在线音乐的“城邦时代”。如果从1999年Napster的诞生开始算起，互联网和音乐产业的碰...
+ ## [韵达快递微信号“填写寄收件地址”的功能体验及优化建议](http://www.woshipm.com/ucd/2035935.html)
+ > 每年7月份，公司IT体系（苏宁科技）会统一组织各专业序列进行职级考试（内部称为PDF，Professional Development Framework），以此考核职级晋升。本次我所申报的用户体...
+ ## [以微保/众安/今日头条为例，分析“用户画像”对互联网保险的意义](http://www.woshipm.com/user-research/2830413.html)
+ > 怎样定义保险产品的用户画像模型？用户画像对互联网保险意味着什么？拿到用户数据后如何服务于业务转化？来吧，看看互联网巨头们都是如何探索用户画像的。全文思维导...
  ## [一文看懂逻辑回归算法（基本概念+优缺点+美团应用案例）](http://www.chanpin100.com/article/109456)
  > 本文将通俗易懂的介绍逻辑回归的基本概念、优缺点和实际应用的案例。同时会跟线性回归做一些比较，让大家能够有效的区分 2 种不同的算法。
  ## [市场分析详谈（上）](http://www.chanpin100.com/article/109455)
