@@ -1,7 +1,7 @@
 ---
 title: 2019-09-12 IT News
 copyright: true
-date: 2019-09-12 10:01:11
+date: 2019-09-12 12:01:22
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,13 +65,23 @@ MRO&#24037;&#19994;&#21697;&#30005;&#21830;&#24179;&#21488;&#8220;&#38160;&#3817
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [更快更稳，Wi-Fi 6潜力无限](http://mp.weixin.qq.com/s?src=11&timestamp=1568253604&ver=1847&signature=J5bIeFW*jQHlhB2XaCySHLXp4z-w9JgvYyWk9NfBLHoq7jCnLqEQoP8lL6kDlXvgq036kquN8PWtQ0jn61HYhAvIwZTEakg9q8HMvNhz5G0plfLh1nTCtVCzHss0Mvqr&new=1)
- > Qualcomm Networking Pro系列平台人多的地方，网络总是时断时连，哪怕在办公楼下载文件，都要耗费几分钟的时间。Qualcomm最新推出的Networking Pro系列平台，满足Wi-Fi网络的各种需求，全面解锁Wi-Fi
- ## [无线通信风云70年：“一穷二白”到“领跑世界”](http://mp.weixin.qq.com/s?src=11&timestamp=1568253604&ver=1847&signature=JXsR-Fx*vR5QcQnu0ezgHNMVLRRWhG1lQYO8n3Mm8Nmya81YzxiCHoyu*eydUr7ISQl1rCt9yQ9MhkGfAx98dCWRTHtD-gFfhUX1u8G05rlrgQevhplJBp8tEP70efZp&new=1)
+ ## [日本从中国引进无人商店技术 日媒：反向引进实属罕见](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=iaxp3sJGUu4kt6ZpGHERXe8A8H-4kKa5OdYTpzsE9fRv3m70IzHpI-PR-hBxmDO6SDfptIpf5OWjvirVmJwiDv3RsT81-k5iz7FE5xdqfv8=&new=1)
+ > 参考消息网9月4日报道 日媒称，日本NTT数据集团9月2日宣布，将在无人商店系统研发领域与中国的初创企业开展合作，目标是从在该领域占据领先位置的中国引进二维码认证技术，在落后的无人商店技术方面实现逆袭。据...
+ ## [华为回应首次在境内发债；港交所欲作价 2600 亿收购伦交所；库克：创新不一定是改变，而是为了做得更好|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=oiNQBCZzXjPr71P99B0T8ZhmMEPBBfoTH1MH9pusVcXIJmXm3SCP1Jx9CEmKvTaUAu3Nn*xUV-cHt9hVRzUBCm8v5yWBaljdeH9pQIGWXEMxoSgXcCHswtwcO*n2ougn&new=1)
+ > 港交所欲作价 2600 亿元收购伦交所，伦交所回应称董事会将考虑该方案9 月 11 日，港交所发布公告称，其已经向伦交所的董事会提议，将港交所及伦交所两家公司合并。对此，伦交所回应称，注意到港交所的声明，并证...
+ ## [2019.10.15-17 深圳TCT 3D打印展团体参观赠票活动](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=V4kfM1142jpdBvE19KfiHIS-9Qqk1WeSsnrZ85VnRfmeRel7vKnSGCk4TRLeU1iOZd2wtteTrSfBRLbDlS0o1srMp7hS5Z*ndzTqzNkW1aRXqG9xYGOu3vGE3SgZUx5Z&new=1)
+ > 华南3D打印、增材制造展览会(简称“深圳TCT 3D打印展”)即将于2019.10.15~17在深圳会展中心3号馆开幕，未知大陆作为其战略合作伙伴，为了更加方便专业团体观众(传统行业、高校科研、政府单位、资本机构等)现场参...
+ ## [会议报道|海信宽带黄卫平：5G光模块的最新进展](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=1PsJH8OdItJdt6T52Dusbm8NT9uLHCWEEMdB84KOGn-a8zJ0*d07BQIh9ox5p8oi1r16jkgFE-w7am4**V7sBuGuzWNLsRtytdWqB-npkVv0g43bO8qRLtnOTJdNc64L&new=1)
+ > 导读       海信宽带首席科学家黄卫平博士在第18届讯石研讨会上发表演讲《5G光模块发展的最新进展》，从市场，行业，产品，技术等发面阐述了5G光模块的发展。  ICCSZ讯 海信宽带首席科学家黄卫平博士在第18届...
+ ## [无线通信风云70年：“一穷二白”到“领跑世界”](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=JXsR-Fx*vR5QcQnu0ezgHNMVLRRWhG1lQYO8n3Mm8NmRxU*FVb1lpTjd7BjRyh9JFjA00GA32VgJ2vOq0JTwADo*fRE4j5gt-7C7xgBduCyJ7-VKUoIsGd1kt5x7TCgs&new=1)
  > 今年是新中国成立70周年，70年来，在无数中国通信人不懈努力下，我国人民不仅享受到优质的移动通信网络服务，还在世界范围内“挺直了腰杆”。同时，我国移动互联网产业也在移动通信技术助推下飞速发展，诞生出多...
- ## [破茧成蝶!中兴通讯自主进化网络推进全网智能化](http://mp.weixin.qq.com/s?src=11&timestamp=1568253604&ver=1847&signature=eElNdjtzwwj2x*78hZukHUbOt7IbPiWhKMWESQ5S8EjV3V1MglY2oLM5X76rThndumsmwkBiJlhQHHBFOnNituvwn*4KApH9JkfOFR0vpz*-zWuTuw6qLmMkqcrdEvM7&new=1)
+ ## [更快更稳，Wi-Fi 6潜力无限](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=J5bIeFW*jQHlhB2XaCySHLXp4z-w9JgvYyWk9NfBLHpWmM2rrAK64POZ1W8X6gP0EEmlh0crg2UEDsYai-jIK8otlkZ6J0H*b4UpypvnFEifOJHoUzkv1cc3Pkb-uKG2&new=1)
+ > Qualcomm Networking Pro系列平台人多的地方，网络总是时断时连，哪怕在办公楼下载文件，都要耗费几分钟的时间。Qualcomm最新推出的Networking Pro系列平台，满足Wi-Fi网络的各种需求，全面解锁Wi-Fi
+ ## [破茧成蝶!中兴通讯自主进化网络推进全网智能化](http://mp.weixin.qq.com/s?src=11&timestamp=1568260804&ver=1847&signature=eElNdjtzwwj2x*78hZukHUbOt7IbPiWhKMWESQ5S8EgxgYe7xTSihW1X45z09KIps5Oc7*3cg0-dIQh5QSe0NS*TmowwA772c6nm*UzCQRQ2b4U05mG-3-LxSMIm-ymT&new=1)
  > 还记得大概在去年这个时候，一家运营商把网络智能化形容为一次“破茧成蝶”的过程，令人印象深刻。 破茧成蝶，是生命的一次华丽蜕变，它代表着新生与希望。网络智能化同样如此。破茧成蝶，5G时代必须智能化我们...
 # IT 技术 
+ ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
+ > 这一次，彻底弄懂“秒杀系统”
  ## [云数据仓库Snowflake、Panoply和Repods的全面大比拼](http://cloud.51cto.com/art/201909/602847.htm)
  > 云数据仓库Snowflake、Panoply和Repods的全面大比拼
  ## [一部电影能否大卖？用机器学习来精准预测吧](http://ai.51cto.com/art/201909/602853.htm)
@@ -86,28 +96,26 @@ MRO&#24037;&#19994;&#21697;&#30005;&#21830;&#24179;&#21488;&#8220;&#38160;&#3817
  > 马云退休启示录：第一代互联网创始人老去，谁来接棒？
  ## [NLP模型超越人类水平？你可能碰到了大忽悠](http://zhuanlan.51cto.com/art/201909/602756.htm)
  > NLP模型超越人类水平？你可能碰到了大忽悠
- ## [一文读懂这届苹果发布会：三款新iPhone、没5G、最贵超万元](http://news.51cto.com/art/201909/602799.htm)
- > 一文读懂这届苹果发布会：三款新iPhone、没5G、最贵超万元
+ ## [程序员吐槽：互联网丝没眼界，985就横着走，打工比的过做生意？](http://news.51cto.com/art/201909/602876.htm)
+ > 生活节奏越来越快，物价也越来越高，很多在外漂泊的职场人开始背负着巨大的经济压力，房贷、车贷，还有日常
+ ## [女性科技，女性能够从中期待什么](http://iot.51cto.com/art/201909/602875.htm)
+ > 女性科技(Femtech)是一个术语，适用于关注女性健康的科技工具。该领域包括向女性提供生育解决方案、怀孕、
+ ## [零售商如何通过物联网提高投资回报率](http://iot.51cto.com/art/201909/602874.htm)
+ > 虽然2018年是6年来较好的假日购物季(美国零售店的销售额增长超过5%)，但Sears和ToyRUs等知名零售店的关闭
+ ## [一文秒懂：Windows/Mac OS X/Linux/Unix对比](http://news.51cto.com/art/201909/602871.htm)
+ > 对于一台电脑来说，如果说出色的硬件是它的“身体”的话，那么系统就是它的&quot;灵魂&quot;，安装了操作系统用户才
+ ## [技术面试时该反问什么问题？灵魂50问，GitHub日入2500星](http://news.51cto.com/art/201909/602867.htm)
+ > 看了那么多技术类岗位面试攻略，好不容易到了最后一步。部门leader/HR反问一句：你还有什么要问我的？
+ ## [谁说 Vim 不好用？送你一个五彩斑斓的编辑器！](http://developer.51cto.com/art/201909/602869.htm)
+ > 相信大家在使用各种各样强大的 IDE 写代码时都会注意到，代码中各种类型的关键字会用独特的颜色标记出来，
+ ## [程序员最重要的技能：知道什么时候不写代码](http://news.51cto.com/art/201909/602872.htm)
+ > 本文指出大多数程序员都容易犯下的错是，因为对编程的兴奋，不知道什么时候应该对编码说“不”。
+ ## [一文读懂TCP、UDP协议区别和应用场景](http://network.51cto.com/art/201909/602866.htm)
+ > TCP（Transmission Control Protocol，传输控制协议）和UDP（User Data Protocol ,用户数据报协议）都属于T
  ## [Nginx何防止流量攻击，大部分程序员都收藏了...](http://news.51cto.com/art/201909/602865.htm)
  > 大家都知道服务器资源有限的，但是客户端来的请求是无限的(不排除恶意攻击)， 为了保证大部分的请求能够正
- ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
- > 说到“秒杀”，恐怕大多数人想到的就是“双 11”，“促销”，“买买买”等火爆的场面吧。
  ## [腾讯正式开源面向 Unity 项目的 Bug 修复神器 InjectFix](http://news.51cto.com/art/201909/602863.htm)
  > InjectFix是腾讯最新对外开源的Unity代码逻辑热修复方案，可实现在Unity线上客户端内，不用迭代新版本，就
- ## [浏览器垃圾回收机制与 Vue 项目内存泄漏场景分析](http://developer.51cto.com/art/201909/602862.htm)
- > 浏览器的 Javascript 具有自动垃圾回收机制(GC:Garbage Collecation)，也就是说，执行环境会负责管理代码执
- ## [大龄程序员技术管理路上的悲喜总结](http://news.51cto.com/art/201909/602861.htm)
- > 本文仅仅是对自己作为一个普通大龄开发者的一些技术与管理的总结。不喜勿喷。谢谢!本篇博文主要是针对我们
- ## [Nginx服务器的六种负载均衡策略详解](http://server.51cto.com/-602860.htm)
- > 在服务器集群中，Nginx起到一个代理服务器的角色(即反向代理)，为了避免单独一个服务器压力过大，将来自用
- ## [数据分析是如何推动游戏行业发展的？](http://bigdata.51cto.com/art/201909/602859.htm)
- > 数据分析师和BI开发人员可以仔细检查这些数据并将其转换为有价值的见解。因此，有了这些见解，游戏公司就能
- ## [小程序也可以跟踪托运行李，终于能知道你的行李到哪了](http://mobile.51cto.com/app-show-602858.htm)
- > 每次坐飞机等托运行李的时候总会怀疑自己的行李是不是被搞丢了，或者运到了黑洞里，不然为什么过了这么久，
- ## [Python数据可视化的四种简易方法](http://bigdata.51cto.com/art/201909/602856.htm)
- > 数据可视化是任何数据科学或机器学习项目的一个重要组成部分。人们常常会从探索数据分析(EDA)开始，来深入
- ## [怎么解决Linux LVM I/O报错](http://os.51cto.com/art/201909/602857.htm)
- > 本文主要讲解怎么解决Linux LVM I/O报错，/dev/sdf: read failed after 0 of 4096 at 0: Input/output erro
  ## [9月12日科技资讯|库克回应 iPhone 11 系列不支持 5G；Flutter 1.9 稳定版发布](https://blog.csdn.net/weixin_39786569/article/details/100761450)
  > 9月12日科技资讯|库克回应 iPhone 11 系列不支持 5G；Flutter 1.9 稳定版发布
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
@@ -147,46 +155,74 @@ MRO&#24037;&#19994;&#21697;&#30005;&#21830;&#24179;&#21488;&#8220;&#38160;&#3817
  ## [Mate 30 不预装任何谷歌应用；阿里巴巴发布新“六脉神剑”；VS Code 1.38 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100727320)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
 # 人工智能 
- ## [Java 后端架构之路](https://blog.csdn.net/huyunqiang111/article/details/97950780)
- > Java 后端架构之路
- ## [跟我一起学【Hadoop】之——经典场景分析](https://blog.csdn.net/SunWuKong_Hadoop/article/details/90796712)
- > 跟我一起学【Hadoop】之——经典场景分析
- ## [ubuntu18.04无法进入桌面的解决办法](https://blog.csdn.net/weixin_43473977/article/details/97742586)
- > ubuntu18.04无法进入桌面的解决办法
- ## [flask开发填坑](https://blog.csdn.net/qq_41420747/article/details/91992487)
- > flask开发填坑
- ## [MySQL 命令使用（一）：操作数据库相关命令](https://blog.csdn.net/smile_Running/article/details/88686976)
- > MySQL 命令使用（一）：操作数据库相关命令
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [MySQL笔记](https://blog.csdn.net/MarcoAsensio/article/details/95203679)
- > MySQL笔记
- ## [SpringDataJpa使用原生sql查询之后返回map类型 有key有value](https://blog.csdn.net/u010838785/article/details/98741738)
- > SpringDataJpa使用原生sql查询之后返回map类型 有key有value
- ## [D. Easy Problem （字符串中的hard）字符串dp（只考虑删除）](https://blog.csdn.net/qq_41286356/article/details/87872238)
- > D. Easy Problem （字符串中的hard）字符串dp（只考虑删除）
- ## [oracle](https://blog.csdn.net/yztfst/article/details/91347501)
- > oracle
- ## [PHP中MySQL常用操作汇总](https://blog.csdn.net/ling888666/article/details/97777027)
- > PHP中MySQL常用操作汇总
- ## [C2. Exam in BerSU (hard version)(线段树加二分)Codeforces Round 568 (Div. 2)](https://blog.csdn.net/qq_41286356/article/details/93108754)
- > C2. Exam in BerSU (hard version)(线段树加二分)Codeforces Round 568 (Div. 2)
- ## [JDBC笔记](https://blog.csdn.net/MarcoAsensio/article/details/95514312)
- > JDBC笔记
- ## [mysql出现The server time zone value '�й���׼ʱ��' is unrecogni的解决方法 /mysql-jdbc 6.0 serverTimezone参数详解](https://blog.csdn.net/weixin_43400357/article/details/97916822)
- > mysql出现The server time zone value &x27;�й���׼ʱ��&x27; is unrecogni的解决方法 /mysql-jdbc 6.0 serverTimezone参数详解
- ## [SQL语句大全](https://blog.csdn.net/VEclipses/article/details/94492112)
- > SQL语句大全
+ ## [Python 实现毫秒级淘宝抢购脚本](https://blog.csdn.net/shuryuu/article/details/82459415)
+ > Python 实现毫秒级淘宝抢购脚本
+ ## [Vue插件汇总](https://blog.csdn.net/qq_38062409/article/details/97936302)
+ > Vue插件汇总
+ ## [前端开发应知网站(强烈推荐！)](https://blog.csdn.net/weixin_43606158/article/details/91164392)
+ > 前端开发应知网站(强烈推荐！)
+ ## [史上最详 Thymeleaf 使用教程](https://blog.csdn.net/ljk126wy/article/details/90735989)
+ > 史上最详 Thymeleaf 使用教程
+ ## [Java学习路线](https://blog.csdn.net/Just_learn_more/article/details/91394528)
+ > Java学习路线
+ ## [Vue + Spring Boot 项目实战（一）：项目简介](https://blog.csdn.net/Neuf_Soleil/article/details/88925013)
+ > Vue + Spring Boot 项目实战（一）：项目简介
+ ## [echarts图表自适应resize问题，div大小改变触发事件](https://blog.csdn.net/qq_36267404/article/details/97136093)
+ > echarts图表自适应resize问题，div大小改变触发事件
+ ## [前端 100 问：能搞懂80%的请把简历给我](https://blog.csdn.net/github_34708151/article/details/95165589)
+ > 前端 100 问：能搞懂80%的请把简历给我
+ ## [前端面试题总结（js、html、小程序、React、ES6、Vue、算法、全栈热门视频资源）持续更新](https://blog.csdn.net/MingL520/article/details/88549999)
+ > 前端面试题总结（js、html、小程序、React、ES6、Vue、算法、全栈热门视频资源）持续更新
+ ## [C_Word_通过书签替换文字、图片等等](https://blog.csdn.net/qq_36267404/article/details/96108028)
+ > C_Word_通过书签替换文字、图片等等
+ ## [前端学习路线](https://blog.csdn.net/weixin_44222492/article/details/95676818)
+ > 前端学习路线
+ ## [渗透测试-XSS漏洞(手工检测)](https://blog.csdn.net/weixin_39190897/article/details/94616104)
+ > 渗透测试-XSS漏洞(手工检测)
+ ## [Postman  使用方法详解](https://blog.csdn.net/fxbin123/article/details/80428216)
+ > Postman  使用方法详解
+ ## [JavaScript笔记及面试题](https://blog.csdn.net/qq_43645678/article/details/93380462)
+ > JavaScript笔记及面试题
+ ## [html+jQuery实现拖动滑块图片拼图验证码插件，移动端适用](https://blog.csdn.net/u014789708/article/details/95215097)
+ > html+jQuery实现拖动滑块图片拼图验证码插件，移动端适用
 # PM 
- ## [需求、产品与商业](http://www.chanpin100.com/article/109483)
- > 本文主要包含三部分，分别是需求与供给，产品与商业，需求+新要素，下面来分别看下。
- ## [腾讯产品经理教会我的一二三](http://www.chanpin100.com/article/109482)
- > 腾讯产品经理就像一块金字招牌，是有原因的！
- ## [没事别想不开来当产品经理...](http://www.chanpin100.com/article/108545)
- > 加我的人姑且称之为小A吧，问了我这样一个问题，说是自己最近入职了，目前在画原型，但是觉得自己画出来的东西和竞品好像没什么差异化，问我这样是不是不太好…
- ## [A3-1「逻辑思维」KISS 原则](http://www.chanpin100.com/article/109392)
- > 领域：A.思维技能：3.逻辑思维序号：1
- ## [25个故事性网页设计，轻松讲述网页独有的故事！！！](http://www.chanpin100.com/article/109480)
- > 对设计师而言，如何才能成功设计一款有故事且代入感极强的网页呢？
+ ## [商业的本质是让人多花钱？](http://www.woshipm.com/chuangye/2858644.html)
+ > 吴军老师说，商业的本质是让人多花钱。多花钱，你愿意吗？吴军老师在他的得到专栏《吴军·硅谷来信》有篇文章的标题是“商业的本质是让人多花钱，而不是省钱”。这个标...
+ ## [工作越久路子越窄，互联网人如何摆脱“螺丝钉”困境](http://www.woshipm.com/active/2854284.html)
+ > 在互联网行业，工作时间长了，有时似乎并不是一件好事。最近有做产品的朋友想跳槽，遇到了问题：给几家心仪的公司投了简历，都迟迟没有答复。按理说，在大厂混了七年...
+ ## [大促会员活动策划就得这么做！](http://www.woshipm.com/operate/2858584.html)
+ > 本文对一个大促会员活动策划进行案例逻辑拆解，从活动策略、用户路径、会员活动能策划关键点进行分析，希望能给你带来启发。enjoy~一、案例分享小明最近天天去一家零...
+ ## [PRD | 柚诚小栈微信小程序产品需求文档](http://www.woshipm.com/evaluating/2856931.html)
+ > 文章通过使用、体验、研究等方式对柚诚小栈微信小程序进行分析，详细解读其功能设计逻辑，撰写成本文的PRD文档。一、 概述1.1 版本修订记录1.2 产品介绍二、产品...
+ ## [社交梦？先想清楚社交是什么](http://www.woshipm.com/it/2856315.html)
+ > 头部的社交产品似乎无法撼动，新起的社交产品连连败北，笔者对平台另一文章的观点提出了质疑，社交究竟如何定义？新的社交产品还有希望吗？前几天在“人人都是产品经理...
+ ## [互联网时代，怎么靠免费赚钱？](http://www.woshipm.com/chuangye/2857535.html)
+ > 免费，是一个吸引用户的有力手段。从以前的单纯免费到现在的花样百出，在互联网时代，聪明的公司如何通过“免费”吸引用户，沉淀忠实用户，最终创造更大的盈利？克里斯·...
+ ## [马云 | 魅力型领导是如何打造的？](http://www.woshipm.com/zhichang/2857558.html)
+ > 一个魅力型领导身上究竟有哪些特质？有什么样的独特行为方式？魅力型领导的出现和淡化、消亡又会带来什么的危与机？很难想象，在庆典舞台上唱着怒放的生命、奇装异服...
+ ## [相识相知，这几年我的成长与改变](http://www.woshipm.com/zhichang/2819420.html)
+ > 每一次，回看自己过往的输出，总是觉得稚嫩，但这或者就是成长，不断地输出、思考、学习，建立新的认知，推翻旧有的执念，而人人社区恰好可以帮助我完成这个过程。谨...
+ ## [隐匿的互金帝国：拆解“10元店”外衣下的名创优品如何“一鱼多吃”](http://www.woshipm.com/chuangye/2857046.html)
+ > 名创优品以近乎野蛮的方式在全国落地开花，从县城的十元店走来，创始人叶国富是如何埋下多个利润点，打造了现在的名创优品？大家好，我是金爷。这是金爷拆解商业“淘金...
+ ## [以web端为例：我的交互设计细节手册（下）](http://www.woshipm.com/ucd/2854383.html)
+ > 本文为《以web端为例：我的交互设计细节手册》的下半部分，内容继续专注于web端的交互设计细节问题，文中所有所举实例都来自于作者实际工作中所遇到或者思考过的交互问...
+ ## [营销常用的人性的弱点：喜新厌旧、好逸恶劳、趋利避害](http://www.woshipm.com/marketing/2858675.html)
+ > 人性有三大特点，喜新厌旧、好逸恶劳、趋利避害。一、喜新厌旧求新二字，基本上可以概括消费升级的精义。消费升级的核心，在于新世代消费者对于新消费体验的追逐，...
+ ## [2020中国的电商零售市场终有一战](http://www.chanpin100.com/article/109495)
+ > 2019年，中国电商零售圈，出现了很多重大调整：阿里系电商，年初，蒋凡统领淘宝天猫，并重启聚划算；盒马要做整顿，不会再疯狂开店；阿里推出多个社交电商产品，比如淘小铺；9月份，马云将退休，不过，马云仍然是阿里的终身合伙人，所以，对阿里的影响并不会降低。
+ ## [这个时代绝对不是一个人人都是PM的时代](http://www.chanpin100.com/article/109497)
+ > 人人都是PM！这句话已经风靡了多年，但当自己这些年作为用户体验设计师与产品合作之后，我却发现其实不然！我们不得不承认：现在很多企业（中小型）存在很多伪PM（与其说PM，不如说是领导/用户搬运工），对用户需求理解太浅显（甚至没有自己的思考）！对于PM，我个人是崇拜的，是怀着深深敬意的，但这几年的工作，
+ ## [跨境进口电商深度解析3-税率和产品设计](http://www.chanpin100.com/article/109490)
+ > 跨境进口电商深度解析3-税率和产品设计
+ ## [易观：2019年第2季度在线机票预订市场交易规模1637亿元人民币，聚集用户痛点，规范服务优化权益](http://www.chanpin100.com/article/109489)
+ > 根据Analysys易观发布的《中国在线机票预订市场监测分析2019年第2季度》显示，2019年第2季度，中国在线机票预订市场交易规模达到1637.11亿元人民币，同比增长12.3%，环比增长7.5%。
+ ## [去哪儿-智能在线客服聊天机器人-产品体验](http://www.chanpin100.com/article/109487)
+ > 撩一撩 去哪儿 智能在线客服聊天机器人，产品简单分析
+ ## [易观：2019年第2季度在线旅游预订市场交易规模2752亿元人民币数字化运营打造优质服务与品牌影响力](http://www.chanpin100.com/article/109486)
+ > Analysys易观分析认为，本季度受政治局势、社会治安等多方面因素制约，出境游对细分领域的机票市场与度假市场的交易规模产生影响，在线旅游预订市场整体增速保持平稳，各大厂商加强提升数字化运营能力，通过高品质服务与品牌影响力营销以促进交易增长，增加用户粘性。
+ ## [移动APP页面规范-Bars](http://www.chanpin100.com/article/109485)
+ > 由浅入深介绍一些关于移动端开发设计产品相关的内容
+ ## [千字长文详解「客户体验」的战略、实践及趋势](http://www.chanpin100.com/article/109484)
+ > 客户体验是客户与品牌的整体体验，正是这种体验决定了你的客户如何看待你的品牌，并且基于在整个购买过程与你的反馈与互动。
 
     
