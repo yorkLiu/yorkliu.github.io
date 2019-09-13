@@ -1,21 +1,23 @@
 ---
 title: 2019-09-13 IT News
 copyright: true
-date: 2019-09-13 08:00:58
+date: 2019-09-13 09:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [「千轮大战」的百亿估值幸存者，九号机器人做对了什么](http://mp.weixin.qq.com/s?src=11&timestamp=1568332804&ver=1849&signature=HrIwtjw0dtCRsDotXfYMNi9m2SVueOk1hlnadDHPlPkP36wNL-23XNFPHVPkoJPUD0KqvTbp-akAebYg2pxAGHfCiM-x4DqqmiC36zjplnUVgx2UZs3JmOkcFZ3GGeKU&new=1)
- > 「三级跳」背后的反情绪思考。一山不容二虎，不是猛龙不过江，中国互联网行业从业者不论出身，总喜欢英雄出草莽的调调，要怪只能怪行业竞争实在激烈。前有 O2O 的「千团大战」，后有网约车「千车大战」，再儒雅...
- ## [基于 Linux 的物联网操作系统，你知多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1568332804&ver=1849&signature=-MU5pT7MmdGh5K07oUv6X9*hDLToYUjCVwdVRVkhFkfgnuk2rzypvad8g9C2IiUbii*7vamPdCIlBi0pMZ7kDUoX3uwedZKgtjMJiSeMyZTe7Bo2M2OtlUNl3*VH6AQt&new=1)
- > 导读：说到物联网应用的操作系统，就不能不提Linux，因为Linux系统是目前物联网设备中应用最广泛的操作系统，之前我有讲过关于Windows物联网操作系统，那么本文就来详介绍一下基于Linux的物联网操作系统。传统的...
- ## [谁是安全行业最 IN 黑客，霸占谷歌热搜15年?](http://mp.weixin.qq.com/s?src=11&timestamp=1568332804&ver=1849&signature=9aYMRuXuk0kJgAuOD2aQsgsA0eT97dTPRy4fZznRlVO34A6fxkW3J004tKXENpi-D6bfnTEc5jAiJdT23J4KD4xQBWL3VFjKaM9mzM0hfnZwQe7y7Zvh3Lo0nNj0qDP*&new=1)
- > 威胁检测管理、事件响应和渗透测试专业公司 Redscan 发布《热搜中的网络安全》报告，基于从2004年到2019年15年间的谷歌趋势(Google Trend) 数据，披露了网络安全历史上的热搜人物、企业、网络安全诈骗和数据泄露...
- ## [7000亿的华为，"闯入"中国资本市场](http://mp.weixin.qq.com/s?src=11&timestamp=1568332804&ver=1849&signature=*o9pycyl1zwHhFOZp8bv81vsfehrZp9*aHNkpGalxGuG3zIlYqLc4J6*GVwA7UKOlq5u7V2W8AxNyUb4RpX0BzqzhOqYyNpus-Tr3AHhKGWAo29aWSZNjrQnUVqL76Bw&new=1)
- > 令中国债券市场沸腾的事：华为首次发行境内债券，募资60亿元。9月11日，华为投资控股有限公司（简称华为）非常低调的发布了一则《2019年度第二期中期票据募集说明书》，华为计划在境内发行中期票据，募资60亿元...
- ## [华为曹泽军：三方面支撑中国电信5G+AI+云的快速落地](http://mp.weixin.qq.com/s?src=11&timestamp=1568332804&ver=1849&signature=lKRR9yI3uMsprqpuxcrA6LIrkjcEnKvREyLe7Ap4iutZqHWdD2uPhTc2uC*BcqaJWhyNmb3h07ERKvYLA6J1QjAhNWk9FK8AUEK59dyNJK2l2zLp4FQazgWdBJlqkdO4&new=1)
+ ## [4G建设成本还没收回，5G是运营商不可承受之重?](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=iilWZJ6VNmOLXha*zLccItotYtqi90leDlkaDdn2nIngooQixojgyJfSQmGsNpPnI9gxeITVwa3lbUoHCNrNGmJf-HXJvQ7Le3GTHkGsFHsOzynjaWa94I57FNF4syVE&new=1)
+ > 任何一家企业，做投资决策时都必须认真考虑成本和收益，运营商也不例外。不计成本、不考虑预期收益的投资行为，是单纯的冒险行为。有种观点认为：运营商4G建设成本还没收回，大规模建设5G就是冒险行为。关于这个...
+ ## [华为曹泽军：三方面支撑中国电信5G+AI+云的快速落地](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=lKRR9yI3uMsprqpuxcrA6LIrkjcEnKvREyLe7Ap4iutZqHWdD2uPhTc2uC*BcqaJ3-dmVJZSCJR-T-4FCZrTT3kVLPkBKFObTXSvP22Pu0RDbnpmi1vi7lCNXyBRqDtl&new=1)
  > 9月12日，由中国电信天翼云、中国电信北京公司、华为公司共同举办的中国电信2019天翼云5G云网中国行首站北京站成功召开。在此次大会上，各方嘉宾热议5G时代的云网融合，联合发出“5G+AI+云”最强音。 华为中国区...
+ ## [「千轮大战」的百亿估值幸存者，九号机器人做对了什么](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=HrIwtjw0dtCRsDotXfYMNi9m2SVueOk1hlnadDHPlPkP36wNL-23XNFPHVPkoJPUpPpDCNWTkJPTPZc0kh-WfuHiRGqqG*MmWL4sOaKwldXIRNmej8zM*IJJWo7fA-g3&new=1)
+ > 「三级跳」背后的反情绪思考。一山不容二虎，不是猛龙不过江，中国互联网行业从业者不论出身，总喜欢英雄出草莽的调调，要怪只能怪行业竞争实在激烈。前有 O2O 的「千团大战」，后有网约车「千车大战」，再儒雅...
+ ## [基于 Linux 的物联网操作系统，你知多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=-MU5pT7MmdGh5K07oUv6X9*hDLToYUjCVwdVRVkhFkfgnuk2rzypvad8g9C2IiUbFPy1pyEp0ZMox*schsNuCxQlgkSaH61M27WpabjJpF6h*4NAO-htfxLe0iL1cVfD&new=1)
+ > 导读：说到物联网应用的操作系统，就不能不提Linux，因为Linux系统是目前物联网设备中应用最广泛的操作系统，之前我有讲过关于Windows物联网操作系统，那么本文就来详介绍一下基于Linux的物联网操作系统。传统的...
+ ## [7000亿的华为，"闯入"中国资本市场](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=*o9pycyl1zwHhFOZp8bv81vsfehrZp9*aHNkpGalxGuG3zIlYqLc4J6*GVwA7UKOUecJosFjzo-y3jIATasnWJBgE9AIfTu6GvcXlqkfuwFXRZ7*QrRgyLZBIrkmr9ff&new=1)
+ > 令中国债券市场沸腾的事：华为首次发行境内债券，募资60亿元。9月11日，华为投资控股有限公司（简称华为）非常低调的发布了一则《2019年度第二期中期票据募集说明书》，华为计划在境内发行中期票据，募资60亿元...
+ ## [谁是安全行业最 IN 黑客，霸占谷歌热搜15年?](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=9aYMRuXuk0kJgAuOD2aQsgsA0eT97dTPRy4fZznRlVO34A6fxkW3J004tKXENpi-oercs0tTAHD57XD67P*CEIiIYr*AEfC-qRzvKAZ1TOtjMMG*UblsY7rOm1cZQHCe&new=1)
+ > 威胁检测管理、事件响应和渗透测试专业公司 Redscan 发布《热搜中的网络安全》报告，基于从2004年到2019年15年间的谷歌趋势(Google Trend) 数据，披露了网络安全历史上的热搜人物、企业、网络安全诈骗和数据泄露...
 # IT 技术 
  ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
  > 这一次，彻底弄懂“秒杀系统”
@@ -33,36 +35,36 @@ categories: IT NEWS
  > 零售商如何通过物联网提高投资回报率
  ## [消息中间件这么多，到底应该如何选型？](http://developer.51cto.com/art/201909/602791.htm)
  > 消息中间件这么多，到底应该如何选型？
- ## [【Unity3D开发小游戏】《超级马里奥》游戏教程](https://blog.csdn.net/q764424567/article/details/100773023)
- > 【Unity3D开发小游戏】《超级马里奥》游戏教程
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
  > 程序员实用工具网站
- ## [设计模式 ~ 工厂模式剖析与实战](https://blog.csdn.net/johnny901114/article/details/100779270)
- > 设计模式 ~ 工厂模式剖析与实战
- ## [为什么建议使用你LocalDateTime，而不是Date？](https://blog.csdn.net/weixin_38405253/article/details/100765007)
- > 为什么建议使用你LocalDateTime，而不是Date？
  ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
  > 从入门到精通，Java学习路线导航
  ## [Mysql个人学习笔记](https://blog.csdn.net/Guet_Kite/article/details/100538576)
  > Mysql个人学习笔记
  ## [计算机网络协议(三)——UDP、TCP、Socket](https://blog.csdn.net/ghw15221836342/article/details/100531810)
  > 计算机网络协议(三)——UDP、TCP、Socket
- ## [细数研究生和导师的那些恩怨情仇](https://blog.csdn.net/a724888/article/details/100783098)
- > 细数研究生和导师的那些恩怨情仇
- ## [马云退隐前，在年会上说了最重要的三件事](https://blog.csdn.net/a724888/article/details/100783624)
- > 马云退隐前，在年会上说了最重要的三件事
- ## [数据全裸时代，公开获取上百万条四六级成绩](https://blog.csdn.net/u012365828/article/details/100720162)
- > 数据全裸时代，公开获取上百万条四六级成绩
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
  > 算法学习总结（2）——温故十大经典排序算法
  ## [MySQL 数据库铁律](https://blog.csdn.net/smartbetter/article/details/100160069)
  > MySQL 数据库铁律
- ## [招人！入职阿里仅1年，我和做AI的程序员薪资翻了2倍！](https://blog.csdn.net/csdnnews/article/details/100763946)
- > 招人！入职阿里仅1年，我和做AI的程序员薪资翻了2倍！
+ ## [使用Python为中秋节绘制一块美味的月饼](https://blog.csdn.net/devcloud/article/details/100737880)
+ > 使用Python为中秋节绘制一块美味的月饼
  ## [史上最全的后端技术大全，你都了解哪些技术呢？](https://blog.csdn.net/easylife206/article/details/100516028)
  > 史上最全的后端技术大全，你都了解哪些技术呢？
- ## [本科阶段就挑战自动驾驶开发？华为云ModelArts帮你轻松实现！](https://blog.csdn.net/devcloud/article/details/100783493)
- > 本科阶段就挑战自动驾驶开发？华为云ModelArts帮你轻松实现！
+ ## [知乎上 40 个有趣回复，很精辟很提神](https://blog.csdn.net/kexuanxiu1163/article/details/100613498)
+ > 知乎上 40 个有趣回复，很精辟很提神
+ ## [认认真真推荐9个高质量公众号](https://blog.csdn.net/luoluopan/article/details/100515730)
+ > 认认真真推荐9个高质量公众号
+ ## [挑战10个最难的Java面试题（附答案）【上】](https://blog.csdn.net/devcloud/article/details/100698417)
+ > 挑战10个最难的Java面试题（附答案）【上】
+ ## [程序员那些必须掌握的排序算法(上)](https://blog.csdn.net/qq_42453117/article/details/99680831)
+ > 程序员那些必须掌握的排序算法(上)
+ ## [面试时写不出排序算法？看这篇就够了](https://blog.csdn.net/hejjunlin/article/details/99688148)
+ > 面试时写不出排序算法？看这篇就够了
+ ## [浏览 GitHub 太卡了？教你两招！](https://blog.csdn.net/u012702547/article/details/100533763)
+ > 浏览 GitHub 太卡了？教你两招！
+ ## [shell-编写shell脚本所需的基础语法](https://blog.csdn.net/CSDN___LYY/article/details/100584638)
+ > shell-编写shell脚本所需的基础语法
  ## [360企业安全集团新团队亮相，发布政企安全服务体系](https://blog.csdn.net/csdnnews/article/details/100762608)
  > 9月3日，中国领先的互联网安全企业360集团在北京宣布政企安全战略进入3.0时代，360企业安全集团新团队首次亮相，并发布了最新的政企安全服务体系。360集团董事长兼CEO周鸿祎表示，3.0时代的360企业安全集团将执行以“共建、分享、赋能、投资” 的发展模式，构建安全大生态，带动国内网络安全行业.
  ## [库克回应 iPhone 11 系列不支持 5G；哈啰 App 被下架；Flutter 1.9 稳定版发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100763941)
@@ -74,36 +76,36 @@ categories: IT NEWS
  ## [物联网正在面临的 9 大安全挑战！](https://blog.csdn.net/csdnnews/article/details/100763950)
  > 物联网的出现使人们的生活更加智能化，给人们带来了许许多多的便利。但每个硬币都有两面，便利的另一面也同样存在着挑战。作者 | Vaibhav Shah编译 | 黄浩然出品 | CSDN（ID：CSDNnews）以下为译文：物联网（IoT）将一切都连接到互联网，是数...
 # 人工智能 
- ## [Excel——match index 和vlookup函数 和双条件查找匹配](https://blog.csdn.net/Cutey_thyme/article/details/99222622)
- > Excel——match index 和vlookup函数 和双条件查找匹配
- ## [一则广告](https://blog.csdn.net/a724888/article/details/98477598)
- > 一则广告
- ## [企业邮箱哪个好，公司邮箱品牌如何选择？](https://blog.csdn.net/jelyse/article/details/98883358)
- > 企业邮箱哪个好，公司邮箱品牌如何选择？
- ## [Android——多语言适配](https://blog.csdn.net/weixin_37758967/article/details/97241429)
- > Android——多语言适配
- ## [公司的企业文化 管理](https://blog.csdn.net/qq_27366859/article/details/97150848)
- > 公司的企业文化 管理
- ## [三丰云，免费云主机，免费云服务器使用感受](https://blog.csdn.net/qq_25977035/article/details/91616364)
- > 三丰云，免费云主机，免费云服务器使用感受
- ## [Fluke Corporation收购工业可靠性领导者普卢福](https://blog.csdn.net/sinat_41698914/article/details/96879521)
- > Fluke Corporation收购工业可靠性领导者普卢福
- ## [php开发之Composer包](https://blog.csdn.net/mrtwenty/article/details/97426344)
- > php开发之Composer包
- ## [基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现](https://blog.csdn.net/demongwc/article/details/85122172)
- > 基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现
- ## [史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)](https://blog.csdn.net/sym134/article/details/93971142)
- > 史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)
- ## [自制力太差了](https://blog.csdn.net/oqqWang1234567/article/details/94454100)
- > 自制力太差了
- ## [JavaWeb学生成绩管理系统](https://blog.csdn.net/ylcto/article/details/94730079)
- > JavaWeb学生成绩管理系统
- ## [ 写论文也要告别abandon模式](https://blog.csdn.net/iCloudEnd/article/details/94785803)
- >  写论文也要告别abandon模式
- ## [中创向心力：职业院校如何严格职业技能等级考核与证书发放？](https://blog.csdn.net/weixin_44086521/article/details/94601755)
- > 中创向心力：职业院校如何严格职业技能等级考核与证书发放？
- ## [穆迪分析荣获六项风险技术奖](https://blog.csdn.net/sinat_41698914/article/details/93750735)
- > 穆迪分析荣获六项风险技术奖
+ ## [博客成长历史记录表](https://blog.csdn.net/weixin_43145361/article/details/88839813)
+ > 博客成长历史记录表
+ ## [\[友情曝光\]源动力餐饮集团虚假宣传，选址老师不负责任，租店铺被坑，损失惨重](https://blog.csdn.net/ys743276112/article/details/90326017)
+ > \[友情曝光\]源动力餐饮集团虚假宣传，选址老师不负责任，租店铺被坑，损失惨重
+ ## [【资源搜集】最新的磁力种子搜索网站汇总（亲测可用）](https://blog.csdn.net/wenxuhonghe/article/details/95492491)
+ > 【资源搜集】最新的磁力种子搜索网站汇总（亲测可用）
+ ## [六个值得收藏的种子搜索引擎](https://blog.csdn.net/wurmyq/article/details/90755405)
+ > 六个值得收藏的种子搜索引擎
+ ## [整理了10个干净、好用、无广告的BT、磁力链接搜索网站给大家](https://blog.csdn.net/xdcj2012/article/details/93242417)
+ > 整理了10个干净、好用、无广告的BT、磁力链接搜索网站给大家
+ ## [五个值得收藏的种子搜索引擎&磁力搜索引擎](https://blog.csdn.net/wurmyq/article/details/91050155)
+ > 五个值得收藏的种子搜索引擎&amp;磁力搜索引擎
+ ## [快猫ios破解版免费二维码](https://blog.csdn.net/weixin_45251338/article/details/92382312)
+ > 快猫ios破解版免费二维码
+ ## [我看鸿蒙操作系统](https://blog.csdn.net/xiaowan777/article/details/92800873)
+ > 我看鸿蒙操作系统
+ ## [国内外常用学术网站（访问不了“谷歌学术”的，试一试有惊喜哦）](https://blog.csdn.net/love666666shen/article/details/75311407)
+ > 国内外常用学术网站（访问不了“谷歌学术”的，试一试有惊喜哦）
+ ## [PDF电子发票解析免费版](https://blog.csdn.net/qq_37557563/article/details/97778445)
+ > PDF电子发票解析免费版
+ ## [成年人用得到的6款资源网站！各个都是宝藏，绝对让你大饱眼福！](https://blog.csdn.net/qq_42763389/article/details/90753323)
+ > 成年人用得到的6款资源网站！各个都是宝藏，绝对让你大饱眼福！
+ ## [用的上的商学课21-30课学习笔记](https://blog.csdn.net/c_kite/article/details/98585514)
+ > 用的上的商学课21-30课学习笔记
+ ## [2019抖音歌曲1000首百度云打包](https://blog.csdn.net/weixin_45170175/article/details/90742249)
+ > 2019抖音歌曲1000首百度云打包
+ ## [【宝藏女孩】独行40国，风控女孩的环球之旅](https://blog.csdn.net/sunyaowu315/article/details/93710180)
+ > 【宝藏女孩】独行40国，风控女孩的环球之旅
+ ## [网站SEO关键词优化技巧](https://blog.csdn.net/weixin_43606158/article/details/97689149)
+ > 网站SEO关键词优化技巧
 # PM 
  ## [产品经理周报第 83 期｜腾讯内部正在孵化信用支付产品“分付”；盒马将于当月全量上线饿了么平台](http://www.woshipm.com/it/2860754.html)
  > 中秋快乐呀，各位小伙伴们今天大家是在家里跟家人团聚呢，还是在外面游玩呢？不管是哪个选项，大家都要记得吃月饼、赏月哦~那现在，我们来了解一下本周发生的事情吧...
