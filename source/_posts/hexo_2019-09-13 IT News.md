@@ -1,22 +1,22 @@
 ---
 title: 2019-09-13 IT News
 copyright: true
-date: 2019-09-13 09:01:16
+date: 2019-09-13 10:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [4G建设成本还没收回，5G是运营商不可承受之重?](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=iilWZJ6VNmOLXha*zLccItotYtqi90leDlkaDdn2nIngooQixojgyJfSQmGsNpPnI9gxeITVwa3lbUoHCNrNGmJf-HXJvQ7Le3GTHkGsFHsOzynjaWa94I57FNF4syVE&new=1)
+ ## [4G建设成本还没收回，5G是运营商不可承受之重?](http://mp.weixin.qq.com/s?src=11&timestamp=1568340003&ver=1849&signature=iilWZJ6VNmOLXha*zLccItotYtqi90leDlkaDdn2nIm4JF7Ns0-HvDrGXNed40f*FQaLpenYTKNF3Ggc*PecJvNZyL6X*5*07*9AZ8pibzQsZL8GHbNhZcxFnezF1M5U&new=1)
  > 任何一家企业，做投资决策时都必须认真考虑成本和收益，运营商也不例外。不计成本、不考虑预期收益的投资行为，是单纯的冒险行为。有种观点认为：运营商4G建设成本还没收回，大规模建设5G就是冒险行为。关于这个...
- ## [华为曹泽军：三方面支撑中国电信5G+AI+云的快速落地](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=lKRR9yI3uMsprqpuxcrA6LIrkjcEnKvREyLe7Ap4iutZqHWdD2uPhTc2uC*BcqaJ3-dmVJZSCJR-T-4FCZrTT3kVLPkBKFObTXSvP22Pu0RDbnpmi1vi7lCNXyBRqDtl&new=1)
- > 9月12日，由中国电信天翼云、中国电信北京公司、华为公司共同举办的中国电信2019天翼云5G云网中国行首站北京站成功召开。在此次大会上，各方嘉宾热议5G时代的云网融合，联合发出“5G+AI+云”最强音。 华为中国区...
- ## [「千轮大战」的百亿估值幸存者，九号机器人做对了什么](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=HrIwtjw0dtCRsDotXfYMNi9m2SVueOk1hlnadDHPlPkP36wNL-23XNFPHVPkoJPUpPpDCNWTkJPTPZc0kh-WfuHiRGqqG*MmWL4sOaKwldXIRNmej8zM*IJJWo7fA-g3&new=1)
+ ## [「千轮大战」的百亿估值幸存者，九号机器人做对了什么](http://mp.weixin.qq.com/s?src=11&timestamp=1568340003&ver=1849&signature=HrIwtjw0dtCRsDotXfYMNi9m2SVueOk1hlnadDHPlPkW31jJVA2VuxhMZ0cXf1ebFMkHZDiTAF7*gOy*PU4S9fZvxWhTCIfr6AEkBozbT*5zcociOOhQBB4*TjCaw1WC&new=1)
  > 「三级跳」背后的反情绪思考。一山不容二虎，不是猛龙不过江，中国互联网行业从业者不论出身，总喜欢英雄出草莽的调调，要怪只能怪行业竞争实在激烈。前有 O2O 的「千团大战」，后有网约车「千车大战」，再儒雅...
- ## [基于 Linux 的物联网操作系统，你知多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=-MU5pT7MmdGh5K07oUv6X9*hDLToYUjCVwdVRVkhFkfgnuk2rzypvad8g9C2IiUbFPy1pyEp0ZMox*schsNuCxQlgkSaH61M27WpabjJpF6h*4NAO-htfxLe0iL1cVfD&new=1)
- > 导读：说到物联网应用的操作系统，就不能不提Linux，因为Linux系统是目前物联网设备中应用最广泛的操作系统，之前我有讲过关于Windows物联网操作系统，那么本文就来详介绍一下基于Linux的物联网操作系统。传统的...
- ## [7000亿的华为，"闯入"中国资本市场](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=*o9pycyl1zwHhFOZp8bv81vsfehrZp9*aHNkpGalxGuG3zIlYqLc4J6*GVwA7UKOUecJosFjzo-y3jIATasnWJBgE9AIfTu6GvcXlqkfuwFXRZ7*QrRgyLZBIrkmr9ff&new=1)
+ ## [7000亿的华为，"闯入"中国资本市场](http://mp.weixin.qq.com/s?src=11&timestamp=1568340003&ver=1849&signature=*o9pycyl1zwHhFOZp8bv81vsfehrZp9*aHNkpGalxGvY3IwY8OPOc-6JVitIs7UGvcc6geqLRKzvvgqoyWNQy4xSwmTJQqU8fYKXZiFbUdn9ylImKYWBFSGYbanSkmh-&new=1)
  > 令中国债券市场沸腾的事：华为首次发行境内债券，募资60亿元。9月11日，华为投资控股有限公司（简称华为）非常低调的发布了一则《2019年度第二期中期票据募集说明书》，华为计划在境内发行中期票据，募资60亿元...
- ## [谁是安全行业最 IN 黑客，霸占谷歌热搜15年?](http://mp.weixin.qq.com/s?src=11&timestamp=1568336403&ver=1849&signature=9aYMRuXuk0kJgAuOD2aQsgsA0eT97dTPRy4fZznRlVO34A6fxkW3J004tKXENpi-oercs0tTAHD57XD67P*CEIiIYr*AEfC-qRzvKAZ1TOtjMMG*UblsY7rOm1cZQHCe&new=1)
+ ## [基于 Linux 的物联网操作系统，你知多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1568340003&ver=1849&signature=-MU5pT7MmdGh5K07oUv6X9*hDLToYUjCVwdVRVkhFkdeuOL7ifVLv-svZ3BjwzHkQlD0*KGwlg4tCfz4*N0Vm-vNzuCLyZni22*k2hkuJStVLr1ACfVAEC0GX8UjRpbz&new=1)
+ > 导读：说到物联网应用的操作系统，就不能不提Linux，因为Linux系统是目前物联网设备中应用最广泛的操作系统，之前我有讲过关于Windows物联网操作系统，那么本文就来详介绍一下基于Linux的物联网操作系统。传统的...
+ ## [华为曹泽军：三方面支撑中国电信5G+AI+云的快速落地](http://mp.weixin.qq.com/s?src=11&timestamp=1568340003&ver=1849&signature=lKRR9yI3uMsprqpuxcrA6LIrkjcEnKvREyLe7Ap4iuurDpi2n3Ds28KpjRuUQgqPuzNeUbMXy9s48NCskx3wd94V0mGAWdMPO*UwNapvItyPRg8-IXRES01hpSJQRuO*&new=1)
+ > 9月12日，由中国电信天翼云、中国电信北京公司、华为公司共同举办的中国电信2019天翼云5G云网中国行首站北京站成功召开。在此次大会上，各方嘉宾热议5G时代的云网融合，联合发出“5G+AI+云”最强音。 华为中国区...
+ ## [谁是安全行业最 IN 黑客，霸占谷歌热搜15年?](http://mp.weixin.qq.com/s?src=11&timestamp=1568340003&ver=1849&signature=9aYMRuXuk0kJgAuOD2aQsgsA0eT97dTPRy4fZznRlVPjP41fedOz5CFZbQx9S2ZASQrZb-PbapDLRsiLd7CgF8qkzZV98xLjaXdwxDyJQ3j1I2fE16aQIojBi3wC-dHW&new=1)
  > 威胁检测管理、事件响应和渗透测试专业公司 Redscan 发布《热搜中的网络安全》报告，基于从2004年到2019年15年间的谷歌趋势(Google Trend) 数据，披露了网络安全历史上的热搜人物、企业、网络安全诈骗和数据泄露...
 # IT 技术 
  ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
@@ -76,37 +76,45 @@ categories: IT NEWS
  ## [物联网正在面临的 9 大安全挑战！](https://blog.csdn.net/csdnnews/article/details/100763950)
  > 物联网的出现使人们的生活更加智能化，给人们带来了许许多多的便利。但每个硬币都有两面，便利的另一面也同样存在着挑战。作者 | Vaibhav Shah编译 | 黄浩然出品 | CSDN（ID：CSDNnews）以下为译文：物联网（IoT）将一切都连接到互联网，是数...
 # 人工智能 
- ## [博客成长历史记录表](https://blog.csdn.net/weixin_43145361/article/details/88839813)
- > 博客成长历史记录表
- ## [\[友情曝光\]源动力餐饮集团虚假宣传，选址老师不负责任，租店铺被坑，损失惨重](https://blog.csdn.net/ys743276112/article/details/90326017)
- > \[友情曝光\]源动力餐饮集团虚假宣传，选址老师不负责任，租店铺被坑，损失惨重
+ ## [【6】web安全入门篇-sql注入](https://blog.csdn.net/weixin_43303273/article/details/84343320)
+ > 【6】web安全入门篇-sql注入
+ ## [Spark经典案列之JdbcRDD就不用sqoop了](https://blog.csdn.net/m0_37657725/article/details/94968464)
+ > Spark经典案列之JdbcRDD就不用sqoop了
+ ## [linux常用命令](https://blog.csdn.net/snailchangquan/article/details/93915424)
+ > linux常用命令
+ ## [2019年7月最新可用KMS激活服务器地址](https://blog.csdn.net/weixin_42588262/article/details/81120403)
+ > 2019年7月最新可用KMS激活服务器地址
+ ## [BT 磁力搜索引擎推荐](https://blog.csdn.net/wurmyq/article/details/91050204)
+ > BT 磁力搜索引擎推荐
  ## [【资源搜集】最新的磁力种子搜索网站汇总（亲测可用）](https://blog.csdn.net/wenxuhonghe/article/details/95492491)
  > 【资源搜集】最新的磁力种子搜索网站汇总（亲测可用）
- ## [六个值得收藏的种子搜索引擎](https://blog.csdn.net/wurmyq/article/details/90755405)
- > 六个值得收藏的种子搜索引擎
  ## [整理了10个干净、好用、无广告的BT、磁力链接搜索网站给大家](https://blog.csdn.net/xdcj2012/article/details/93242417)
  > 整理了10个干净、好用、无广告的BT、磁力链接搜索网站给大家
- ## [五个值得收藏的种子搜索引擎&磁力搜索引擎](https://blog.csdn.net/wurmyq/article/details/91050155)
- > 五个值得收藏的种子搜索引擎&amp;磁力搜索引擎
- ## [快猫ios破解版免费二维码](https://blog.csdn.net/weixin_45251338/article/details/92382312)
- > 快猫ios破解版免费二维码
- ## [我看鸿蒙操作系统](https://blog.csdn.net/xiaowan777/article/details/92800873)
- > 我看鸿蒙操作系统
- ## [国内外常用学术网站（访问不了“谷歌学术”的，试一试有惊喜哦）](https://blog.csdn.net/love666666shen/article/details/75311407)
- > 国内外常用学术网站（访问不了“谷歌学术”的，试一试有惊喜哦）
- ## [PDF电子发票解析免费版](https://blog.csdn.net/qq_37557563/article/details/97778445)
- > PDF电子发票解析免费版
- ## [成年人用得到的6款资源网站！各个都是宝藏，绝对让你大饱眼福！](https://blog.csdn.net/qq_42763389/article/details/90753323)
- > 成年人用得到的6款资源网站！各个都是宝藏，绝对让你大饱眼福！
- ## [用的上的商学课21-30课学习笔记](https://blog.csdn.net/c_kite/article/details/98585514)
- > 用的上的商学课21-30课学习笔记
- ## [2019抖音歌曲1000首百度云打包](https://blog.csdn.net/weixin_45170175/article/details/90742249)
- > 2019抖音歌曲1000首百度云打包
- ## [【宝藏女孩】独行40国，风控女孩的环球之旅](https://blog.csdn.net/sunyaowu315/article/details/93710180)
- > 【宝藏女孩】独行40国，风控女孩的环球之旅
- ## [网站SEO关键词优化技巧](https://blog.csdn.net/weixin_43606158/article/details/97689149)
- > 网站SEO关键词优化技巧
+ ## [Redis的安装，修改密码及登录验证，及三种操作方案](https://blog.csdn.net/qq_23145857/article/details/91045268)
+ > Redis的安装，修改密码及登录验证，及三种操作方案
+ ## [百度网盘不限速下载 2019-07-11](https://blog.csdn.net/ZC_XY/article/details/90345894)
+ > 百度网盘不限速下载 2019-07-11
+ ## [【排序算法】使数组有序的最少移动步数](https://blog.csdn.net/qq_43466457/article/details/89682355)
+ > 【排序算法】使数组有序的最少移动步数
+ ## [内网穿透工具FRP的使用](https://blog.csdn.net/qq_36119192/article/details/99310312)
+ > 内网穿透工具FRP的使用
+ ## [Linux命令记录](https://blog.csdn.net/weixin_41754415/article/details/95249833)
+ > Linux命令记录
+ ## [Nginx(零)概述](https://blog.csdn.net/wzj_110/article/details/95666825)
+ > Nginx(零)概述
+ ## [Nginx(六)php增加memcache模块](https://blog.csdn.net/wzj_110/article/details/95683249)
+ > Nginx(六)php增加memcache模块
+ ## [Nginx(七)nginx添加memcache模块](https://blog.csdn.net/wzj_110/article/details/95684709)
+ > Nginx(七)nginx添加memcache模块
 # PM 
+ ## [新零售中场战事：洗牌倒计时](http://www.woshipm.com/newretail/2860658.html)
+ > 新零售尚新，却已走到十字路口，企业如何行动，才能不被洗牌？新零售依然是被巨头和资本追逐的风口。或许，这是吸引人们不断将关注的目光聚焦在新零售身上的根本原因...
+ ## [需求文档你怎么写？为什么这么写？如何写一份好的需求文档？](http://www.woshipm.com/pmd/2860477.html)
+ > 很多产品新人，入门产品时，最想先了解的都是如何画原型，如何写需求文档，这很奇怪。就像在平台上可以搜到很多关于需求文档的文章（截至当前，通过搜索关键词“需求文档...
+ ## [公务员考试“不过退款”的诱饵，拆解中公教育千亿市值背后的秘密](http://www.woshipm.com/chuangye/2857005.html)
+ > “不过退款”的名头，吸引了众多考生选择中公教育，看似少有盈利的经营方式如何成就行业第一？授人以鱼，不如授人以渔。如何从露出冰山的一角，窥得全貌；从金山的一面...
+ ## [时代在变化，产品经理的要求也在变化](http://www.woshipm.com/pmd/2818287.html)
+ > 从行业的开荒阶段，再到现在逐渐成熟的市场格局，逐渐成型的知识体系，一路上，值得让我回味的事情太多，而我们总是能从历史的痕迹里找到当下对我们而言最重要的事物。...
  ## [产品经理周报第 83 期｜腾讯内部正在孵化信用支付产品“分付”；盒马将于当月全量上线饿了么平台](http://www.woshipm.com/it/2860754.html)
  > 中秋快乐呀，各位小伙伴们今天大家是在家里跟家人团聚呢，还是在外面游玩呢？不管是哪个选项，大家都要记得吃月饼、赏月哦~那现在，我们来了解一下本周发生的事情吧...
  ## [2020中国的电商零售市场终有一战](http://www.chanpin100.com/article/109495)
