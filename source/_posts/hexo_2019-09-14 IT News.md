@@ -1,22 +1,24 @@
 ---
 title: 2019-09-14 IT News
 copyright: true
-date: 2019-09-14 09:01:20
+date: 2019-09-14 10:01:41
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为什么说VR有助于提高老年生活幸福感?](http://mp.weixin.qq.com/s?src=11&timestamp=1568422803&ver=1851&signature=vQAZl9TMnKKOv-mCuTI60vOjv84MMKR-p2BRDJm1LKYsOV*cZzmmTon51DqnsPBaQkOECl4V6J*wQtGQaQp6dHAumNCkycRqOBxN1Q725K0Y35aMZzGAYopw1RESCf5k&new=1)
- > Esther｜ 编辑据联合国数据显示，人口老龄化将成为21世纪最重要的社会趋势之一，2018年时全球65岁或以上的人口首次超过5岁及以下人口数量，而且每个国家的老龄人口数和比例几乎都呈增长趋势。老龄人口日益被视作...
- ## [聚焦|今天，这场全球瞩目的盛会在天津开启!](http://mp.weixin.qq.com/s?src=11&timestamp=1568422803&ver=1851&signature=GLK-zcWuoahGDLG*WO9uFWII*pPI-GClED8pkQwXRWBOmhj2OqbdaP9LC5BzS8clSM8vgz0ptko3EvH68AhmiFDpPuFryT4JWXIiVo*uWflanqsQ8ewh38DA0oVdA8x3&new=1)
- > 今天一场全国瞩目的重大活动将在天津开启！9月14日至20日▼2019年国家网络安全宣传周网络安全博览会马上在天津拉开帷幕网络安全宣传周已经连续举办了五届，本届的主题是“网络安全为人民，网络安全靠人民”，重...
- ## [百度网盘下载新神器，老司机满速下载的终极大法!](http://mp.weixin.qq.com/s?src=11&timestamp=1568422803&ver=1851&signature=eLhz3xnG-9rC4uGguoOOPhuSJVpcqfEY5vdKVdqGSq6q4wkrYr8dtORoI1*JRzMkGBImta76yCvL-II7-BgL-hcPzzuZnFfcLX5V4M1kelowmka55*4e6XUtRqqQGeX1&new=1)
- > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：莎莎&gt;&gt;&gt; 脑洞有点大，希望能填满最近又很多小伙伴来问学霸君：最近 Pandownload 好像也 8 太行了。之前登录账号短时间的频繁使用，只要开个会员就能解除，而现在就算氪金...
- ## [Formlabs中国用户峰会：光固化3D打印机Form 3即将上市](http://mp.weixin.qq.com/s?src=11&timestamp=1568422803&ver=1851&signature=KEM4ejr2SDrj5cOEluywOTg11QzrOH-H9Asx5Pidyf7AOicMCTU3Y2XkLv3708HwAYpIL9S25BQw1ujkM1mXxhTsJtWxK*y8TGVhsvmpf4xMusdijKf0A7oMWpwxr9vw&new=1)
+ ## [Formlabs中国用户峰会：光固化3D打印机Form 3即将上市](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=KEM4ejr2SDrj5cOEluywOTg11QzrOH-H9Asx5Pidyf7AOicMCTU3Y2XkLv3708Hwknbg5OtgviWbnzHyQIuycb0xrilXT4QdxNCioZWNqoUYAlkC0Z8fR*oAXdLLtSBU&new=1)
  > 2019年9月9日，Formlabs全球高层与中国团队在深圳皇庭V酒店举行了用户大会，主要内容是向中国的渠道以及用户宣布新一代光固化3D打印机Form 3以及Form 3L两款新品启动上市计划，Form 3零售价39999元，定价上比同...
- ## [\[报告\]2019-2025年中国涡轮增压器行业面临的挑战与机遇研究(附126页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1568422803&ver=1851&signature=GqlyNxSSRfASxq6CD-RYFEPMFyc8cUhck4Se0OV5u*yt1noLZbxh-1Y68BQRIltxei1hELLI928UN2p5DVdXIXWMPWHiMqj6dJLlmv0RV*FaVO8e8cTlSF*S2h6UnOFH&new=1)
+ ## [为什么说VR有助于提高老年生活幸福感?](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=vQAZl9TMnKKOv-mCuTI60vOjv84MMKR-p2BRDJm1LKYsOV*cZzmmTon51DqnsPBa4HYdjmGnH9KOOfmaNqhs9hPc8T0BFpvlXAVcJBitK2wJyo9jOgnC*WKE5lxQV6IE&new=1)
+ > Esther｜ 编辑据联合国数据显示，人口老龄化将成为21世纪最重要的社会趋势之一，2018年时全球65岁或以上的人口首次超过5岁及以下人口数量，而且每个国家的老龄人口数和比例几乎都呈增长趋势。老龄人口日益被视作...
+ ## [聚焦|今天，这场全球瞩目的盛会在天津开启!](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=GLK-zcWuoahGDLG*WO9uFWII*pPI-GClED8pkQwXRWBOmhj2OqbdaP9LC5BzS8clnrSiYqIVZPU86-A9RO7xO01S3qX0i6wUkEbbtZK0fKgckTe4eMvR326x4R4-0iI-&new=1)
+ > 今天一场全国瞩目的重大活动将在天津开启！9月14日至20日▼2019年国家网络安全宣传周网络安全博览会马上在天津拉开帷幕网络安全宣传周已经连续举办了五届，本届的主题是“网络安全为人民，网络安全靠人民”，重...
+ ## [真香!iPhone 11昨晚预购，暗夜绿一度抢断货!但很多想换手机的人还在纠结一个问题](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=RZbVWquXmgz1w2Kro-iR9uTJnH8nZ8KyMYmdFaojC9nJ6Z4iKN6a-cNhSuv*pKJ6hVk4swaEhjbhWDH9tLTuXe1OGDR1GsS0UuhG*3CcpX9zpCaVgLCW--FpqOYfd9pu&new=1)
+ > 昨晚，新一代iPhone正式开启线上预约。顶了一个浴霸摄像头，又没有5G，你会如何抉择？至少有相当一部分人还是在第一时间冲进了苹果官网、天猫、京东等平台选择下单购买，三个平台一度都出现了卡顿的情况。手速快...
+ ## [\[报告\]2019-2025年中国涡轮增压器行业面临的挑战与机遇研究(附126页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=GqlyNxSSRfASxq6CD-RYFEPMFyc8cUhck4Se0OV5u*yt1noLZbxh-1Y68BQRIltxejxCm3f87OUG7cdU2itgcJEHDOockTYahS-kAGjfk3rvFo6wJ2EeN*A82XpoStwh&new=1)
  > 与其相忘江湖，不如点击“蓝字”关报告主要对我国涡轮增压器业发展现状进行详细的阐述和深入的分析，并重点分析了涡轮增压器行业未来面临的挑战和机遇。为涡轮增压器行业企业经营者及投资该领域的投资者提供重要...
- ## [中国移动派发中秋礼包：采购25万台华为5G终端](http://mp.weixin.qq.com/s?src=11&timestamp=1568422803&ver=1851&signature=0uC20Y188LAFTnZYXSWnFVzyZ5qwqR21*n8q-fqcVeqDCrXhWArhQWZ0AoW5vxICM0GaoqBYWAMhVTdsdmCGASN2Uz5MsZnIRlcdhznBPfL0I3zFb5QpTq2ZIUBS9M6n&new=1)
+ ## [百度网盘下载新神器，老司机满速下载的终极大法!](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=eLhz3xnG-9rC4uGguoOOPhuSJVpcqfEY5vdKVdqGSq6q4wkrYr8dtORoI1*JRzMk6EqTRMcySI14FDuKC-I1mazFTI88QlR1cqtjCTdZrHGw-VX7i383A9tEpR3aSD9t&new=1)
+ > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：莎莎&gt;&gt;&gt; 脑洞有点大，希望能填满最近又很多小伙伴来问学霸君：最近 Pandownload 好像也 8 太行了。之前登录账号短时间的频繁使用，只要开个会员就能解除，而现在就算氪金...
+ ## [中国移动派发中秋礼包：采购25万台华为5G终端](http://mp.weixin.qq.com/s?src=11&timestamp=1568426404&ver=1851&signature=0uC20Y188LAFTnZYXSWnFVzyZ5qwqR21*n8q-fqcVeqDCrXhWArhQWZ0AoW5vxICl3odqc-kJ3m1zh3YFbDWfm-WdrsYO-vLrqO*ITTjpCrzJWhQiBmypqXyGkdsM0pc&new=1)
  > 据中国移动采购与招标网消息称，中国移动通信集团终端有限公司发布单一来源采购信息公告显示，该公司向华为终端有限公司采购两种5G终端产品，共计25万台。其中，华为5G CPE pro终端共20万台，华为Mate 20X 5G版...
 # IT 技术 
  ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
@@ -66,35 +68,40 @@ categories: IT NEWS
  ## [浏览 GitHub 太卡了？教你两招！](https://blog.csdn.net/u012702547/article/details/100533763)
  > 浏览 GitHub 太卡了？教你两招！
 # 人工智能 
- ## [我面试过没有上万人也有十几个，简历要这么写才有hr要你](https://blog.csdn.net/u012365828/article/details/88318415)
- > 我面试过没有上万人也有十几个，简历要这么写才有hr要你
- ## [作为一名程序员，谁没跳过槽，“6”招让你“空降”大厂](https://blog.csdn.net/Java__xiaoze/article/details/96878759)
- > 作为一名程序员，谁没跳过槽，“6”招让你“空降”大厂
- ## [从草根到百万年薪程序员的二十年风雨之路](https://blog.csdn.net/wucz122140729/article/details/90229178)
- > 从草根到百万年薪程序员的二十年风雨之路
- ## [25岁，一个北漂程序员，如果不想35 岁被淘汰，请把它当成一种信仰！](https://blog.csdn.net/Java__xiaoze/article/details/98634340)
- > 25岁，一个北漂程序员，如果不想35 岁被淘汰，请把它当成一种信仰！
- ## [Java面试题内容聚合](https://blog.csdn.net/weixin_38405253/article/details/97901143)
- > Java面试题内容聚合
- ## [Java面试知识点汇总](https://blog.csdn.net/qq_33945246/article/details/89922244)
- > Java面试知识点汇总
- ## [三年开发经验，抖音离职后，拿到Airbnb、快手、小红书、猿辅导等多家公司的offer](https://blog.csdn.net/a296777513/article/details/90728308)
- > 三年开发经验，抖音离职后，拿到Airbnb、快手、小红书、猿辅导等多家公司的offer
- ## [毕业一年，程序猿工作一年总结，有收获，有失去，有遗憾，但仍一往无前](https://blog.csdn.net/qq_31766533/article/details/97629602)
- > 毕业一年，程序猿工作一年总结，有收获，有失去，有遗憾，但仍一往无前
- ## [Python入门导读](https://blog.csdn.net/m0_37772174/article/details/84037127)
- > Python入门导读
- ## [一个5年C++程序员的年终总结，献给还在迷茫中的你](https://blog.csdn.net/qq_42302962/article/details/85065160)
- > 一个5年C++程序员的年终总结，献给还在迷茫中的你
- ## [37岁程序员被裁，120天没找到工作，无奈去小公司，结果蒙了](https://blog.csdn.net/xingduan5153/article/details/94364206)
- > 37岁程序员被裁，120天没找到工作，无奈去小公司，结果蒙了
- ## [阿里面试题：鹿晗发布恋情，为什么微博挂了?](https://blog.csdn.net/xmt1139057136/article/details/93978625)
- > 阿里面试题：鹿晗发布恋情，为什么微博挂了?
- ## [程序员可以做哪些副业？](https://blog.csdn.net/weixin_37865166/article/details/90741481)
- > 程序员可以做哪些副业？
- ## [表妹也录取了计算机专业，作为过来人要给她领好路！](https://blog.csdn.net/u010835486/article/details/97621474)
- > 表妹也录取了计算机专业，作为过来人要给她领好路！
- ## [BAT等企业如何面试？看这一篇文章就够了！](https://blog.csdn.net/weixin_43606158/article/details/99178192)
- > BAT等企业如何面试？看这一篇文章就够了！
+ ## [pycharm2019.2永久破解方法](https://blog.csdn.net/qwe123_asd/article/details/99292511)
+ > pycharm2019.2永久破解方法
+ ## [Spring Boot面试题总结](https://blog.csdn.net/weixin_30342639/article/details/94619947)
+ > Spring Boot面试题总结
+ ## [IntelliJ IDEA最新版2019年注册码，可激活至2099年 激活 破解](https://blog.csdn.net/qq_42914528/article/details/85617901)
+ > IntelliJ IDEA最新版2019年注册码，可激活至2099年 激活 破解
+ ## [Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！](https://blog.csdn.net/zhiwenyan/article/details/90110136)
+ > Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！
+ ## [Maven 配置国内仓库地址](https://blog.csdn.net/ysl19910806/article/details/94652152)
+ > Maven 配置国内仓库地址
+ ## [IDEA 最新破解方法，2019 版本已支持（持续更新，更新时间2019-05-14）](https://blog.csdn.net/qq_42914528/article/details/89710864)
+ > IDEA 最新破解方法，2019 版本已支持（持续更新，更新时间2019-05-14）
+ ## [IDEA 使用教程（持续更新，19年8月5号更新）](https://blog.csdn.net/qq_40914991/article/details/85543575)
+ > IDEA 使用教程（持续更新，19年8月5号更新）
+ ## [记一次解决jar包版本冲突](https://blog.csdn.net/qq_35620501/article/details/93752801)
+ > 记一次解决jar包版本冲突
+ ## [推广提升页面转化率的9个技巧，get效果翻倍！](https://blog.csdn.net/zjm2019_/article/details/97950284)
+ > 推广提升页面转化率的9个技巧，get效果翻倍！
+ ## [IDEA 2019.1.2版破解教程（亲测可用，2019年6月4日）](https://blog.csdn.net/qq_31122833/article/details/90080793)
+ > IDEA 2019.1.2版破解教程（亲测可用，2019年6月4日）
+ ## [Xmind ZEN 安装使用与试用版的永久使用（非破解）](https://blog.csdn.net/qq_41554005/article/details/90764766)
+ > Xmind ZEN 安装使用与试用版的永久使用（非破解）
+ ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
+ > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
+ ## [IT界大佬告诉你，程序员接私活的7大平台利器](https://blog.csdn.net/qq_43202482/article/details/84832222)
+ > IT界大佬告诉你，程序员接私活的7大平台利器
+ ## [asp.net强大工作流引擎，learun助力开发升级](https://blog.csdn.net/csdncopy/article/details/88026568)
+ > asp.net强大工作流引擎，learun助力开发升级
+ ## [IntelliJ 全家桶 2019.2.1 注册 亲测可用\[持续更新\]](https://blog.csdn.net/liyongzhi1992/article/details/85317077)
+ > IntelliJ 全家桶 2019.2.1 注册 亲测可用\[持续更新\]
+# PM 
+ ## [进大厂必读：滴滴—产品经理主观题解析](http://www.woshipm.com/pmd/2856020.html)
+ > 产品经理的求职过程中，笔试是第一块敲门砖，笔者整理了历年阿里巴巴产品经理主观题目，并附有详细解析，正在求职的产品汪们不要错过。2016题目八请为现有的大医院人...
+ ## [想要做好产品，你要懂得行为设计学](http://www.woshipm.com/pd/2860492.html)
+ > 回想你的愉悦峰值，哪些画面是被设计出来的呢？行为设计，可以在各方面灵活运用，好产品也不例外。01请一边阅读下面这段文字，一边认真记住待会儿立刻会出现在你脑海...
 
     
