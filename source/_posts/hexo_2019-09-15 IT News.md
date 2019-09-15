@@ -1,24 +1,32 @@
 ---
 title: 2019-09-15 IT News
 copyright: true
-date: 2019-09-15 12:01:47
+date: 2019-09-15 17:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [托马斯·弗里德曼：美政府应研究任正非的提议](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=52k6MsyWcmtMis-8Z7bK9zUfC5eAtZliMwQSzgor0WUocLecS8bMqYDdnnxr4KIYREoAzFu6HMXkL6CpQHl2xFA2Z2Nhe6zu4woZkGxiw7D5t9kKv0zXUuvbmNQtwnDA&new=1)
- > 托马斯·弗里德曼来源：参考消息参考消息网9月12日报道美国《纽约时报》专栏作家托马斯·弗里德曼近日接受华为创始人任正非的邀请，到公司深圳总部对他进行采访。弗里德曼在之后发表于《纽约时报》的题为《华为...
- ## [江苏联通“炫铃变5G广告”引轩然大波，称默认炫铃是给用户的福利](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=buDCfxYcsYZ9cfw9D-0AIJaM5VkrKGIgKI-VC-0YIeu1CWfw7WQ8X*vv734lIhkyskE1LdyVS*PtKrkPZvMaAV3QwPDBYpSxCHpKug6tNjVxQd-ambI-lQCrljKN6cBr&new=1)
- > 运营商财经网 刘慧敏/文9月12日，江苏联通针对“江苏多地联通用户彩铃被换5G广告”做出最新回应，证实了目前默认炫铃的江苏联通用户铃声确实已被更换事情。江苏联通方面向运营商财经网表示，“目前选择默认炫铃...
- ## [《2019中国大数据产业发展白皮书》深度解读之四](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=NI4NCyeuAYY6UrSkmxQKPNMTNljbpORmZzF9DotNaZPCbS45h8W9mSKHLJgdnY0vGAoHXFR2qkFu70VaW6c5zXmnx6-E5a*xi3QElrHGryoEGyUgnrBt1d*ndo3pJhWy&new=1)
+ ## [当5G来敲门：基站进小区难 物业索要30万“协调费”](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=WSBgi6AzHvrhm7-ZwhL1CTdiSXsr6-kCxZI3bDlM*sBrWpk6TQqDb9KnLRrJQAebTSOtMyJFaVdS9BpFYkgj907qDIMLnk4SaInFPmcny612zmid-RJw5fbLxqtGQElj&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相5G正在诸多动力的推动下快速在中国数十座城市铺开，但是影响5G落地进程的关键基础设施——基站——却被挡在了一些“大门”之外。来源 | 经济观察报（ID：eeo-com-cn）...
+ ## [工博会群雄逐鹿 IPG重磅出新](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=po0BzU8f3Os-8hbAa-FG6VmVG8-lv2plaHag4WRD28HIVBYQeIyQ-sILWCfV-CnyWD4-2pfyMTK2bOsBSFJzX1Z5IbiLvyjW6aFkNQsMPqI0occXYETI3sME3f3ZRNc0&new=1)
+ > 近年来，激光技术在工业生产中发挥着越来越重要的作用，伴随着全球工业产业结构调整，激光行业也迎来巨大的发展机遇。而激光工业应用的普及，离不开光纤激光器的推广，也正因为光纤激光器的出现，大大提高了激光...
+ ## [《2019中国大数据产业发展白皮书》深度解读之四](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=NI4NCyeuAYY6UrSkmxQKPNMTNljbpORmZzF9DotNaZMxJSiOdZJ2j-mR-tVjUilKsf5P-u4*WDkt*Xyz0xQPlOljkZPiCjiM-u3uxTDPw3RZtToHIFRCrQHY3eBPDMb9&new=1)
  > 近日，由大数据产业生态联盟联合赛迪顾问共同完成的《2019中国大数据产业发展白皮书》（以下简称《白皮书》）在2019世界计算机大会——“计算机未来：算力驱动万物互联”主题论坛上重磅发布。以下是对白皮书中大...
- ## [任正非：将向西方出售华为5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=fZpuce5rnJdnRzxYzujT8sYWgRJudVMDU31f-LQ3k2mBmdBx7Le4DNBqi8d9MFfCxH2VxExVhX-EPTeMC0pqWzBPSx2fV2lgnZsHVyfpnQ7XRxKoc1qVj4aq6fZ-u8KW&new=1)
+ ## [3天后，上海又将成为科技圈的打卡胜地!](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=p-KBxqUQrNCFTGkBn03XRHTp9nKl-yMCkYOr250M-q0NlXQW2J*bErh3r*i8C*HKmVT6nzxPo*Qu6bTnWX7P17u6UBYGBPKj5pPvoye*HYUn8QayDR*KF16g2cMhHoet&new=1)
+ > 3天后，2019华为全联接大会即将拉开帷幕！近100家赞助商、12家产业组织200多家合作伙伴、3万多名参展观众即将齐聚上海，共建行业数字化、智能化繁荣生态，共创智能新高度！中秋小长假第三天，大会合作媒体记者整...
+ ## [共享共建会让中国的5G加速吗?\[宁宇专栏-322\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=MfB58D4gWlgc2tL08KsxkILHwgTlR7YAb5lERU8GA0BjWMjAh9FCPj0vC7YoNJFEiDXx5NvJD7UL8khL-XRG4dEq6BZYEKSHCEnTOQG5X7KA9ZhPIwZgo0neGIhHA2zo&new=1)
+ > 【摘要】如果中国两家运营商能够成功地共享5G接入网，而且在运营环节摸索出一系列的经验，这对于全球5G的发展是大利好。这意味着中国会从5G红利中分得更大的收益，在未来的产业创新中占据更有利的位置。| 科 | ...
+ ## [任正非：将向西方出售华为5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=fZpuce5rnJdnRzxYzujT8sYWgRJudVMDU31f-LQ3k2mdUdTlGMB*RL0ABcsZ6g7cVyNj8t4XIhQAWaU3sjOcKC1D*DZXwSLyKXJLjN2Dwcoxf7i1*J-jYdlCBNnCs9J9&new=1)
  > 9月12日，据《经济学人》报道称，华为创始人兼CEO任正非在接受采访时表示，有意向西方公司出售华为的5G技术，目的是制造一个能在5G上与华为竞争的对手。买家只要支付一次性费用，就能永久使用华为现有的5G专利、...
- ## [终于，任正非出大招了!](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=xz3qoocQ1kyUBa8KhfHycGErtPEGNfpbWuqflhd*1D26YY1HJ9JjaKDbUkHTpbdQWUUSQRMPcg85MdxxK3R3qlVF463i7sb-bbjgd1QtiC3aUk4CpNL0qtlb5NuhXJb*&new=1)
+ ## [终于，任正非出大招了!](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=xz3qoocQ1kyUBa8KhfHycGErtPEGNfpbWuqflhd*1D3AR2R2TcXEwdmDjdqDYrOkn1o-8KNCtDaw-JnE5wblT1MNnIcRtUAVngzQToU1wsR7sr1olsV0zBxc6nkdwCfH&new=1)
  > 来源:中国基金报(ID:chinafundnews)美国对华为的打压已经是人尽皆知了。虽然面临美国极力围剿，华为依旧凭实力成为全球5G绝对领先者。近日，华为总裁任正非甚至表示，华为有意向西方潜在买家出售自家5G技术，目...
- ## [Magic Leap高管：将与BrainLab合推AR医疗应用生态](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=qkGf9lE6h3aCCrIhHv2UWCqj**uwv3XUt7cKXtkCX0qHpbcZz1q1y-vAkIxcUTbwKAqxKIBQXrKJ0MreIIXRGos6VIh96hWryOSta73QRu1GYsZ7aqCO3WDsG**8s3Pa&new=1)
+ ## [托马斯·弗里德曼：美政府应研究任正非的提议](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=52k6MsyWcmtMis-8Z7bK9zUfC5eAtZliMwQSzgor0WXDl34PXYQjZrfsGcoxfPG3jBB9MwcbUfT71ASYxag2qWt7Yk1jofJiPxdE*gEaw3Imhmge*RLNe5ReP11ehHAf&new=1)
+ > 托马斯·弗里德曼来源：参考消息参考消息网9月12日报道美国《纽约时报》专栏作家托马斯·弗里德曼近日接受华为创始人任正非的邀请，到公司深圳总部对他进行采访。弗里德曼在之后发表于《纽约时报》的题为《华为...
+ ## [江苏联通“炫铃变5G广告”引轩然大波，称默认炫铃是给用户的福利](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=buDCfxYcsYZ9cfw9D-0AIJaM5VkrKGIgKI-VC-0YIeurmw7jd*be47*5*46JGO82uiVsny18zm98NrpxRT2Meu7ucXyRM-WHKhBA94YN-arryhhzKXB7aYBWtPZegjIp&new=1)
+ > 运营商财经网 刘慧敏/文9月12日，江苏联通针对“江苏多地联通用户彩铃被换5G广告”做出最新回应，证实了目前默认炫铃的江苏联通用户铃声确实已被更换事情。江苏联通方面向运营商财经网表示，“目前选择默认炫铃...
+ ## [Magic Leap高管：将与BrainLab合推AR医疗应用生态](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=qkGf9lE6h3aCCrIhHv2UWCqj**uwv3XUt7cKXtkCX0pNGLPJGqGupBLzl41efQmM8M0fSnGFuP7DFwJKjfFnVjRa*oVSn5VJCD8W8mcK5iJAMAlqazu4Z7miHHKorwXZ&new=1)
  > Esther｜ 编辑与微软HoloLens相比，Magic Leap One的定位似乎更加广泛，尤其是Magic Leap所提出的Magicverse新空间互联网概念，涉及的远不仅是娱乐、游戏场景，还涉及社交、健康医疗、能源和水力、交通等与
- ## [19个决定性时刻，2030年前，这些黑科技必将发生](http://mp.weixin.qq.com/s?src=11&timestamp=1568520004&ver=1853&signature=ldOZk5T8D5NoK9NgJc*rPHkY87mTqyiqyXaBHM8R9*9KELdne1Dgvou1s2fKnVIlu0VJEAFcLHj1hD81bsQg1MWlBF4n1kt7De2A1OmmA4hHEmJaCtdD4LSDJipLEVeF&new=1)
+ ## [19个决定性时刻，2030年前，这些黑科技必将发生](http://mp.weixin.qq.com/s?src=11&timestamp=1568538004&ver=1853&signature=ldOZk5T8D5NoK9NgJc*rPHkY87mTqyiqyXaBHM8R9*-1SHsyWPOoxfH5XXoElnddyJPslLRVLLOlSq2t*MJhxx9mmqA7EY-M8YWiijN6eHL6e40ckZAIM6iMeRYAOQ*D&new=1)
  > &quot; 从无人驾驶汽车到机器人工人，在我们熟悉所有这一切之前，未来正迎面走来。                 来源：科技联盟技术中心据国外媒体报道，从无人驾驶汽车到机器人工人，在我们熟悉所有这一切之前，未来正迎面走来...
 # IT 技术 
  ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
@@ -37,14 +45,20 @@ categories: IT NEWS
  > 零售商如何通过物联网提高投资回报率
  ## [消息中间件这么多，到底应该如何选型？](http://developer.51cto.com/art/201909/602791.htm)
  > 消息中间件这么多，到底应该如何选型？
+ ## [铁打的Python连续3年第一，PHP跌出前十：IEEE编程语言排行榜出炉](http://developer.51cto.com/art/201909/602907.htm)
+ > Python势头不减，依旧第一，而且进一步拉开了与其他语言的差距。这一结果，来自IEEE Spectrum2019年度编程
+ ## [物联网技术如何提高食品安全和餐馆效率](http://iot.51cto.com/art/201909/602906.htm)
+ > 根据美国疾病控制和预防中心新的数据显示,美国约有4800万人（六分之一）患病,128000人住院,并且每年
+ ## [行业巨头成功实施物联网和人工智能的三个步骤](http://iot.51cto.com/art/201909/602904.htm)
+ > 荷兰皇家壳牌最初是销售贝壳，而三星最初是一家销售干鱼的杂货店。如果这些公司没有自我创新，那么它们今天
+ ## [渗透测试之我是如何做信息收集](http://netsecurity.51cto.com/art/201909/602903.htm)
+ > 今天主要介绍一下我在做信息收集的时候用到的一些工具和自己写的一些脚本，帮助在渗透过程中更加方便地做好
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
  > 程序员实用工具网站
  ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
  > 从入门到精通，Java学习路线导航
- ## [拯救 CPU！](https://blog.csdn.net/csdnnews/article/details/100644421)
- > 拯救 CPU！
- ## [Modern C++ 书籍推荐](https://blog.csdn.net/tkokof1/article/details/100836366)
- > Modern C++ 书籍推荐
+ ## [C语言在开发中的应用博文汇总贴](https://blog.csdn.net/morixinguan/article/details/100826483)
+ > C语言在开发中的应用博文汇总贴
  ## [知乎上 40 个有趣回复，很精辟很提神](https://blog.csdn.net/kexuanxiu1163/article/details/100613498)
  > 知乎上 40 个有趣回复，很精辟很提神
  ## [Mysql个人学习笔记](https://blog.csdn.net/Guet_Kite/article/details/100538576)
@@ -53,20 +67,22 @@ categories: IT NEWS
  > 计算机网络协议(三)——UDP、TCP、Socket
  ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
  > 算法学习总结（2）——温故十大经典排序算法
- ## [一行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
- > 一行Python代码制作动态二维码
- ## [Mysql数据库开发的36条原则](https://blog.csdn.net/devcloud/article/details/100173405)
- > Mysql数据库开发的36条原则
  ## [挑战10个最难的Java面试题（附答案）【上】](https://blog.csdn.net/devcloud/article/details/100698417)
  > 挑战10个最难的Java面试题（附答案）【上】
+ ## [一行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
+ > 一行Python代码制作动态二维码
+ ## [别再翻了，面试二叉树看着 11 个就够了~](https://blog.csdn.net/qq_36903042/article/details/100798101)
+ > 别再翻了，面试二叉树看着 11 个就够了~
+ ## [STM32CubeMX系列博文汇总贴](https://blog.csdn.net/morixinguan/article/details/100826146)
+ > STM32CubeMX系列博文汇总贴
  ## [史上最全的后端技术大全，你都了解哪些技术呢？](https://blog.csdn.net/easylife206/article/details/100516028)
  > 史上最全的后端技术大全，你都了解哪些技术呢？
  ## [【动画详解】TCP 三次握手和四次挥手图文详解](https://blog.csdn.net/universsky2015/article/details/100528468)
  > 【动画详解】TCP 三次握手和四次挥手图文详解
- ## [认认真真推荐9个高质量公众号](https://blog.csdn.net/luoluopan/article/details/100515730)
- > 认认真真推荐9个高质量公众号
- ## [MySQL 数据库铁律](https://blog.csdn.net/smartbetter/article/details/100160069)
- > MySQL 数据库铁律
+ ## [Mysql数据库开发的36条原则](https://blog.csdn.net/devcloud/article/details/100173405)
+ > Mysql数据库开发的36条原则
+ ## [shell-编写shell脚本所需的基础语法](https://blog.csdn.net/CSDN___LYY/article/details/100584638)
+ > shell-编写shell脚本所需的基础语法
  ## [接班马云的为何是张勇？](https://blog.csdn.net/csdnnews/article/details/100840853)
  > 上海人、职业经理人、CFO 背景，集齐马云三大不喜欢的张勇怎么就成了阿里接班人？作者|王琳本文经授权转载自燃财经（ID:rancaijing）9月10日，张勇转正了，...
  ## [中秋佳节，用 AI 为家人定制一首诗](https://blog.csdn.net/csdnnews/article/details/100840865)
@@ -88,37 +104,35 @@ categories: IT NEWS
  ## [为什么我在实时编码时失败了？](https://blog.csdn.net/csdnnews/article/details/100840859)
  > 随着流媒体应用的逐渐增多，实时编码技术吸引了大量的开发者投身其中。但是对于实时编码技术的上手，真的有那么简单吗？作者|Luke Garrigan译者 |谭开朗，责编...
 # 人工智能 
- ## [win10专业版激活方法——亲测可行！！！](https://blog.csdn.net/AinUser/article/details/79247841)
- > win10专业版激活方法——亲测可行！！！
- ## [推荐 OS X 下最方便实用的六款解压缩软件](https://blog.csdn.net/Potatooooo/article/details/82772301)
- > 推荐 OS X 下最方便实用的六款解压缩软件
- ## [学linux一定要有自己的笔记](https://blog.csdn.net/I_just_smile/article/details/94490746)
- > 学linux一定要有自己的笔记
- ## [【Linux】Linux超全实用指令大全](https://blog.csdn.net/qq_42322103/article/details/96307643)
- > 【Linux】Linux超全实用指令大全
- ## [【Linux】一步一步学Linux系列教程汇总（更新中......）](https://blog.csdn.net/dengjin20104042056/article/details/94669639)
- > 【Linux】一步一步学Linux系列教程汇总（更新中......）
- ## [DOS处理 CMD提速 BAT恶搞](https://blog.csdn.net/suoyue_py/article/details/97623282)
- > DOS处理 CMD提速 BAT恶搞
- ## [office2016、office365和office其它版本JH](https://blog.csdn.net/FurtherSkyQ/article/details/90034326)
- > office2016、office365和office其它版本JH
- ## [自动修复无法修复你的电脑 解决方案](https://blog.csdn.net/Logicr/article/details/88686371)
- > 自动修复无法修复你的电脑 解决方案
- ## [黑苹果10.14版本n卡安装以及声卡驱动](https://blog.csdn.net/yyangcr/article/details/92085111)
- > 黑苹果10.14版本n卡安装以及声卡驱动
- ## [when I use a new host.](https://blog.csdn.net/KHZ_222/article/details/86552451)
- > when I use a new host.
- ## [win10笔记本电脑双系统 安装黑苹果系统macOS 小白黑苹果乐园下载资源简便安装黑苹果方式，非常详细，还有资源！](https://blog.csdn.net/qq_35379989/article/details/83387358)
- > win10笔记本电脑双系统 安装黑苹果系统macOS 小白黑苹果乐园下载资源简便安装黑苹果方式，非常详细，还有资源！
- ## [linux查看硬件配置命令](https://blog.csdn.net/wsp_1138886114/article/details/96479986)
- > linux查看硬件配置命令
- ## [IDEA永久破解总结](https://blog.csdn.net/lijiaxiong_123/article/details/97515683)
- > IDEA永久破解总结
- ## [jvm参数调优](https://blog.csdn.net/snailchangquan/article/details/98997040)
- > jvm参数调优
- ## [vmware-vmx进程杀不掉（拒绝访问）解决办法](https://blog.csdn.net/qq_34418601/article/details/91041411)
- > vmware-vmx进程杀不掉（拒绝访问）解决办法
+ ## [SpringDataJpa使用原生sql查询之后返回map类型 有key有value](https://blog.csdn.net/u010838785/article/details/98741738)
+ > SpringDataJpa使用原生sql查询之后返回map类型 有key有value
+ ## [SpringBoot事务](https://blog.csdn.net/ysl19910806/article/details/95760850)
+ > SpringBoot事务
+ ## [Spark SQL操作之-函数汇总篇-下](https://blog.csdn.net/coding_hello/article/details/96593436)
+ > Spark SQL操作之-函数汇总篇-下
+ ## [MySql逗号拼接字符串查询](https://blog.csdn.net/guochanof/article/details/98944379)
+ > MySql逗号拼接字符串查询
+ ## [windows MySQL数据备份](https://blog.csdn.net/u013254183/article/details/90607384)
+ > windows MySQL数据备份
+ ## [MySQL笔记](https://blog.csdn.net/MarcoAsensio/article/details/95203679)
+ > MySQL笔记
+ ## [Java 后端架构之路](https://blog.csdn.net/huyunqiang111/article/details/97950780)
+ > Java 后端架构之路
+ ## [D. Easy Problem （字符串中的hard）字符串dp（只考虑删除）](https://blog.csdn.net/qq_41286356/article/details/87872238)
+ > D. Easy Problem （字符串中的hard）字符串dp（只考虑删除）
+ ## [关于redis的一些思考和总结](https://blog.csdn.net/ningmengbaby/article/details/92795945)
+ > 关于redis的一些思考和总结
+ ## [记录 训练卷积神经网络时遇到的问题](https://blog.csdn.net/wws_922/article/details/89188998)
+ > 记录 训练卷积神经网络时遇到的问题
+ ## [Oracle SQL语句优化总结](https://blog.csdn.net/oygx6670929/article/details/93514959)
+ > Oracle SQL语句优化总结
+ ## [Mysql主从复制概念](https://blog.csdn.net/wzj_110/article/details/94590607)
+ > Mysql主从复制概念
+ ## [MySQL教程](https://blog.csdn.net/qq_34873790/article/details/94614474)
+ > MySQL教程
 # PM 
+ ## [线下课程 | 什么样的产品负责人，最受老板青睐？](http://www.woshipm.com/active/2856708.html)
+ > 是什么决定了一个产品人能否持续成功？对于一个互联网产品人，在你一系列工作中，哪一个决定了你能否持续成功？很多产品人的成功，靠的是站在风口上的红利期和运气。...
  ## [用“欣喜时刻”打磨出好产品](http://www.woshipm.com/pd/2860869.html)
  > 做些不同的事情，打破固定的套路，打造用户的欣喜时刻——好产品就是这样提升用户体验。01你的家里有没有一个“宝箱”，“宝箱”或许是一个抽屉，又或者只是一个盒子。但没...
 
