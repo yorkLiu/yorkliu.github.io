@@ -1,7 +1,7 @@
 ---
 title: 2019-09-16 IT News
 copyright: true
-date: 2019-09-16 10:01:23
+date: 2019-09-16 12:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,21 +62,27 @@ AR&#26174;&#31034;&#25216;&#26415;&#20844;&#21496;&#8220;WaveOptics&#8221;&#3371
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [2019年中国卫星通信行业运行报告，卫星通信行业将向高频段发展](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=perxldcHm76CsBzp5AE6VppDLcvrv-FhgU96rKDOw09BN88LiCghTHQG1uJU6TPElUHSsNGkOVto*pQIZGTK-3gOsXSsWCQTsnhcdN*Qwgi8AB0zLBJSVYTHiTkzt61g&new=1)
- > 一、卫星通信行业发展概况1、卫星通信产业定义卫星通信是利用卫星中的转发器作为中继站，通过反射或转发无线电信号，实现两个或多个地球站之间的通信。卫星通信具有抗毁性强、覆盖范围广、通信距离远、部署快速...
- ## [本周大新闻|华为推AR测心率功能，HTC“双模”Vive Cosmos发布](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=Ih9CuVACX7yw8G1DzjlrBLTRO0sqoxkSkqIYa*xW89xRvulDcFNwobQHYc3i0wyF3NdYcHaZ76lB5o-x50EeIB3MuVP52n5keBhITfCnpTMNGP*MULRBpuwQjwgY*XV7&new=1)
+ ## [安卓手电筒应用可能会发出77种权限请求?](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=0zZQcN*Dh5ZS7PdLxuPRhmfetTWpCi8D8Su1tyinue18*YSXlBa6CVQ7upSJPgj8iHxtC7Zf8Ig9dvQvN9mxYBgjSduVCldDOyGb-wxcE0fyAWJLHuSCX3LAihXolI6Z&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：近日，研究人员发布相关报告，分析了安卓手电筒应用所发出的权限请求。报告显示，很多此类应用发出的权限请求不仅数量多，而且极不合理。据外媒报道...
+ ## [本周大新闻|华为推AR测心率功能，HTC“双模”Vive Cosmos发布](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=Ih9CuVACX7yw8G1DzjlrBLTRO0sqoxkSkqIYa*xW89wlWnv7h3oxz3lmIrepAsaHykLRzVDP37o73hZ0m*OMh4-1J*r8BNQx9YjX8jQQ2RfAp8CyXH4OWWZxgsq2PNHP&new=1)
  > Esther｜ 编辑本周大新闻，AR方面，华为发布Face AR应用合集；传AR公司DAQRI面临倒闭，或与融资失败有关；谷歌展示ARCore新进度，包括持续性云锚点功能；iOS 13内部文件曝光苹果名为“Garta”的AR头显原型。VR方
- ## [\[科技早报7点整\]5G基站进小区难 新iPhone订单同期减少10%……](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=dSo*oYDJpG5Q4znA7ptu1aJtVx*CBYYcEiUBht3jxa0GSvPWsEHtU6oBm8Pb-vbQKGQLl1PufrOVEUJnIHuzFECy-RSwEE1ukP3LZep67f1RFdB0wTv98*NQe36sXbdW&new=1)
+ ## [\[科技早报7点整\]5G基站进小区难 新iPhone订单同期减少10%……](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=dSo*oYDJpG5Q4znA7ptu1aJtVx*CBYYcEiUBht3jxa16bOtUgNZ8EAEULNY4RmqNKWa6j-u-H5BBPsGEBlLqN0vcDRKYhCWTUrUulg7wgsQBnKaDxt3Dc*sYfg0iq4wz&new=1)
  > 早上好，科技圈【一度蜜科技早报】第591期1.5G基站进小区难，物业索要30万“协调费”近日有媒体报道，有北京的通信技术项目经理表示，协调费通常根据区域位置、基站建设数量来定，就居民区来说，按照一台宏站50-...
- ## [5G最完整的PPT，朋友圈超火!你不得不看的12份研究分析报告(附下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=C1rV5YuKeC4ZdBDDs*TIm9qZ18sMGQssz9bSfw-frevEhwROCHK5P*jLJn04RNj5LeIFdUZshrqZhK6kMD5RuuE9xE*MxaWxO*j5iOHlLVIeVeEd98cGEXo4xTTRC5*l&new=1)
- > 2018-2019新能源汽车市场深度研究报告来袭（含丰田/大众/消费者洞察/市场竞争格局等）2019自动驾驶行业深度研究报告来袭（含特斯拉/华为/5G/自动驾驶/智能座舱等） 2019版上汽/广汽/吉利/长城/比亚迪/北汽新能源...
- ## [拍照比剪刀手泄露指纹信息；国内绿 iPhone11 抢断货；PostgreSQL 12 Beta 4 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=6X6gfwN5skWnLAnTwXC92BDzgMSJiHf*9aESGzzKPUj9J31lacsJ1uQOqT56uLCVJ8C1UIpGn-6wpX8wdXc2gQ6Ayty3nAC6Yc0kg3L41CVrYgvteLTHxXdR4iI6T3rQ&new=1)
+ ## [任正非称将出售华为5G技术；中秋假期国内旅游收入472.8亿元；iPhone11系列预售量比去年增长480%](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=aYuhSk-SqpKp*F8DwqXVWYxRwWnf19WbqBvyu*JBFcsXXjXNBh*vIfIgj-XzZZdcVMNYf4AXdy26RiPjW0Dquk0tD4tvGuLMTPCuc0nOhRytuk3Uxn9d-TN9SBispwub&new=1)
+ > 朋友们，早上好！节后第一天上班，看一篇中企早报，提神醒脑，打败节后综合征，come on！在刚刚过去的中秋假期里，大家出去玩了吗？472.8亿元里有你的贡献吗？【中秋假期1.05亿人次出游，旅游收入472.8亿元】 3...
+ ## [拍照比剪刀手泄露指纹信息；国内绿 iPhone11 抢断货；PostgreSQL 12 Beta 4 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=6X6gfwN5skWnLAnTwXC92BDzgMSJiHf*9aESGzzKPUjR7Dblmp3pc6*zMGvLOU*jAqCkU6Q9KSn5*3cPocehN2QFlEEjqFvn4y4O94-2KdSOMh3E3-riOiSbP8g83mZw&new=1)
  > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
- ## [蔚来汽车加州裁员62人丨大众集团8月全球交付量下降\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=ZDVYajFm632DU-8*OW9KqrAh3PK83br-BwGZlxOAJag-v6Ua8cUXoy78hU1R0N2zZRZOVwBqmnDVs7Ewt7xNl0eDALtKDvjD5KSvu9K71*ffXFRe0BIud9aamN-UoEX6&new=1)
+ ## [2019年中国卫星通信行业运行报告，卫星通信行业将向高频段发展](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=perxldcHm76CsBzp5AE6VppDLcvrv-FhgU96rKDOw08X7VEH0svPjgIdCrr7o9Hk*7XhWz2QBws720YrY9guzmE6nMvfiO*MEReAsDHCa6-VUe4eTL75zJI4JYaUE5UZ&new=1)
+ > 一、卫星通信行业发展概况1、卫星通信产业定义卫星通信是利用卫星中的转发器作为中继站，通过反射或转发无线电信号，实现两个或多个地球站之间的通信。卫星通信具有抗毁性强、覆盖范围广、通信距离远、部署快速...
+ ## [5G最完整的PPT，朋友圈超火!你不得不看的12份研究分析报告(附下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=C1rV5YuKeC4ZdBDDs*TIm9qZ18sMGQssz9bSfw-fresW6H4kDkO9IxPqL5ZoKdGJS3RLQOfCF4XM3ae4-sOb6tI-4G7CqBSDu5LHSPgcIGWCv1UrEIPEhYTsAQpE2SQl&new=1)
+ > 2018-2019新能源汽车市场深度研究报告来袭（含丰田/大众/消费者洞察/市场竞争格局等）2019自动驾驶行业深度研究报告来袭（含特斯拉/华为/5G/自动驾驶/智能座舱等） 2019版上汽/广汽/吉利/长城/比亚迪/北汽新能源...
+ ## [蔚来汽车加州裁员62人丨大众集团8月全球交付量下降\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=ZDVYajFm632DU-8*OW9KqrAh3PK83br-BwGZlxOAJaiMm1YhYHQ3bjzmgKAzs4KL8luqCI8ZWeRqcGVV1mdpCuowhbRCzVj5MzoChxCXa4k9OzmfpUxFRZwzlEbjN-aP&new=1)
  > 9月15日丨周日【Do说】编辑 | 赵艾虎蔚来汽车加州裁员62人 外媒评论大规模重组仍在继续据The Verge消息，在蔚来汽车提交给加州就业发展局的最新文件中显示，其位于加州圣何塞的硅谷办事处将裁员62人。今年5月份...
- ## [中秋团圆季 健康不缺席 2019深圳国际生物/生命健康产业展览会圆满落幕!](http://mp.weixin.qq.com/s?src=11&timestamp=1568599204&ver=1855&signature=htEnjF9-9vVY9tPPwJswvCqiflyDBS*XrOuIERX5xcDxyWDPEDgBqCjXj2H4fdJsebNwpPt-Jw5YgUIUTiZlO7Lqp1N9PxPpQeVovXzxbHFqrxy1BhKwcUb-hZUuo3iO&new=1)
+ ## [中秋团圆季 健康不缺席 2019深圳国际生物/生命健康产业展览会圆满落幕!](http://mp.weixin.qq.com/s?src=11&timestamp=1568606404&ver=1855&signature=htEnjF9-9vVY9tPPwJswvCqiflyDBS*XrOuIERX5xcAzv4JE93fkYSoNnv5cnq9tsV81WAjno9nNWA4m31HKEpjGdiHgbmT5D1pORwOLl41*UTSHB6LGc-LW*IOO8sj8&new=1)
  > 中秋团圆季，健康不缺席。9月13日，正值中秋团圆佳节，由深圳市人民政府主办，OFweek维科网、深圳市贸促委等单位联合承办，为期3天的“2019深圳国际生物生命健康与智慧医疗展览会”在深圳会展中心正式落幕！同期...
 # IT 技术 
+ ## [如何从0组建一个日订单40万的智能化派单系统？](http://developer.51cto.com/art/201909/602953.htm)
+ > 如何从0组建一个日订单40万的智能化派单系统？
  ## [工作3年和工作7年的程序员到底差在哪里？](http://news.51cto.com/art/201909/602949.htm)
  > 工作3年和工作7年的程序员到底差在哪里？
  ## [硬核：值得尝试的DevOps兵器库](http://os.51cto.com/art/201909/602947.htm)
@@ -85,14 +91,22 @@ AR&#26174;&#31034;&#25216;&#26415;&#20844;&#21496;&#8220;WaveOptics&#8221;&#3371
  > 知名数据公司被查，你的爬虫会送老板进监狱吗？
  ## [迁移到云端之前应采取的6个步骤](http://cloud.51cto.com/art/201909/602935.htm)
  > 迁移到云端之前应采取的6个步骤
+ ## [GitHub标星超12K，抢票神器大更新，支持候补！](http://os.51cto.com/art/201909/602951.htm)
+ > GitHub标星超12K，抢票神器大更新，支持候补！
  ## [这一次，彻底弄懂“秒杀系统”](http://developer.51cto.com/art/201909/602864.htm)
  > 这一次，彻底弄懂“秒杀系统”
  ## [程序员最重要的技能：知道什么时候不写代码](http://news.51cto.com/art/201909/602872.htm)
  > 程序员最重要的技能：知道什么时候不写代码
- ## [云数据仓库Snowflake、Panoply和Repods的全面大比拼](http://cloud.51cto.com/art/201909/602847.htm)
- > 云数据仓库Snowflake、Panoply和Repods的全面大比拼
- ## [一文秒懂：Windows/Mac OS X/Linux/Unix对比](http://news.51cto.com/art/201909/602871.htm)
- > 一文秒懂：Windows/Mac OS X/Linux/Unix对比
+ ## [为什么每个组织都需要数据分析师](http://bigdata.51cto.com/art/201909/602958.htm)
+ > 如今，当组织需要从数据中获得一些见解时，他们首先倾向于寻找数据科学家的帮助。但这真的是一个更好的选择
+ ## [物联网数据管理需要边缘计算处理关键任务](http://iot.51cto.com/art/201909/602957.htm)
+ > 为了充分利用边缘计算数据，IT专业人员必须知道如何使用机器学习算法将数据指定为实时或传统的云计算流程。
+ ## [走出腾讯和阿里，大厂员工转型记](http://news.51cto.com/art/201909/602956.htm)
+ > 脉脉研究院的《人力迁徙：2019》显示，过去的一年里，互联网公司出来的人，大部分又被互联网公司消化了。人
+ ## [弥合AI大规模落地的巨大缺口！阿里、腾讯、百度等联合推出互联网服务AI基准](http://news.51cto.com/art/201909/602952.htm)
+ > 现如今，互联网服务正经历着根本性的变化，并逐渐转向智能计算时代。现代互联网服务提供商普遍采用人工智
+ ## [海量、多维数据让人抓狂？高效搜索方法看这里](http://database.51cto.com/art/201909/602955.htm)
+ > 人与世界万物的互动会产生大量的时空数据。那么，当我们需要随时调用过去的数据时，改怎么办?尤其是面对各
  ## [通威股份CIO周勇：低成本、普适性的云容灾成为可能](http://cloud.51cto.com/art/201909/602950.htm)
  > 以往容灾只有银行、证券等金融行业的大企业才做的起，通威云容灾项目的初衷是打造一个低成本的容灾项目，让
  ## [对抗反分析和逃逸技术的三种策略](http://zhuanlan.51cto.com/art/201909/602948.htm)
@@ -103,93 +117,143 @@ AR&#26174;&#31034;&#25216;&#26415;&#20844;&#21496;&#8220;WaveOptics&#8221;&#3371
  > 同样是高并发场景，三类业务的架构挑战不一样，那么对于秒杀类业务，系统上和业务上分别能如何优化呢，这是
  ## [关于TCP全连接队列和半连接队列](http://network.51cto.com/art/201909/602942.htm)
  > 常见的连接服务异常有很多，如Connection refused等问题。通过对这些知识的理解有助于结合一些排查手段有效
- ## [16岁成为全栈开发者：我从开发游戏到写加密货币投资机器人的心路历程](http://news.51cto.com/art/201909/602941.htm)
- > 全栈开发者听起来是个很高大上的程序员岗位，似乎没有几年工作经验是 Hold 不住的。但是，有个葡萄牙少年 1
- ## [简单地理解区分CountDownLatch与CyclicBarrier--高并发编程](http://developer.51cto.com/art/201909/602939.htm)
- > 本文主要讨论在高并发编程中两非常实用工具CyclicBarrier(同步屏障)和CountDownLatch(倒计时锁)，两者都是j
- ## [国家计算机病毒中心发布违规 APP 和 SDK 名单](http://news.51cto.com/art/201909/602936.htm)
- > 9 月 15 日，国家计算机病毒中心发布了《移动 APP 违法违规问题及治理举措》。
- ## [十分钟搞懂HTTP和HTTPS协议？](http://network.51cto.com/art/201909/602938.htm)
- > 很多人都有这种心态，但相识HTTP和HTTPS之间的区别，怎样切换，以及是否使开关得当您的品牌开始是至关紧张
- ## [值得收藏！16段代码入门Python循环语句](http://developer.51cto.com/art/201909/602940.htm)
- > 本文重点讲述for语句和while语句。for语句属于遍历循环，while语句属于当型循环。除了两个循环语句外，还介
  ## [CSDN博主排行榜上线！](https://blog.csdn.net/blogdevteam/article/details/100769010)
  > CSDN博主排行榜上线！
- ## [知乎上 40 个有趣回复，很精辟很提神](https://blog.csdn.net/kexuanxiu1163/article/details/100613498)
- > 知乎上 40 个有趣回复，很精辟很提神
- ## [面试时写不出排序算法？看这篇就够了](https://blog.csdn.net/hejjunlin/article/details/99688148)
- > 面试时写不出排序算法？看这篇就够了
- ## [挑战10个最难的Java面试题（附答案）【上】](https://blog.csdn.net/devcloud/article/details/100698417)
- > 挑战10个最难的Java面试题（附答案）【上】
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
+ ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
+ > 从入门到精通，Java学习路线导航
  ## [python推导式pythonic必备](https://blog.csdn.net/devcloud/article/details/99860308)
  > python推导式pythonic必备
+ ## [C语言在开发中的应用博文汇总贴](https://blog.csdn.net/morixinguan/article/details/100826483)
+ > C语言在开发中的应用博文汇总贴
+ ## [知乎上 40 个有趣回复，很精辟很提神](https://blog.csdn.net/kexuanxiu1163/article/details/100613498)
+ > 知乎上 40 个有趣回复，很精辟很提神
+ ## [计算机网络协议(三)——UDP、TCP、Socket](https://blog.csdn.net/ghw15221836342/article/details/100531810)
+ > 计算机网络协议(三)——UDP、TCP、Socket
+ ## [Mysql个人学习笔记](https://blog.csdn.net/Guet_Kite/article/details/100538576)
+ > Mysql个人学习笔记
+ ## [算法学习总结（2）——温故十大经典排序算法](https://blog.csdn.net/u012562943/article/details/100136531)
+ > 算法学习总结（2）——温故十大经典排序算法
+ ## [挑战10个最难的Java面试题（附答案）【上】](https://blog.csdn.net/devcloud/article/details/100698417)
+ > 挑战10个最难的Java面试题（附答案）【上】
+ ## [一行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
+ > 一行Python代码制作动态二维码
+ ## [【动画详解】TCP 三次握手和四次挥手图文详解](https://blog.csdn.net/universsky2015/article/details/100528468)
+ > 【动画详解】TCP 三次握手和四次挥手图文详解
+ ## [别再翻了，面试二叉树看着 11 个就够了~](https://blog.csdn.net/qq_36903042/article/details/100798101)
+ > 别再翻了，面试二叉树看着 11 个就够了~
  ## [作为一名Java程序员的他，不接私活也能月薪38k](https://blog.csdn.net/u013256816/article/details/100788747)
  > 作为一名Java程序员的他，不接私活也能月薪38k
- ## [拯救 CPU！](https://blog.csdn.net/csdnnews/article/details/100644421)
- > 拯救 CPU！
- ## [Python爬取淘宝商品信息](https://blog.csdn.net/u014044812/article/details/100563668)
- > Python爬取淘宝商品信息
- ## [程序员真是太太太太太有趣了！！！](https://blog.csdn.net/j3T9Z7H/article/details/100179186)
- > 程序员真是太太太太太有趣了！！！
- ## [2019年9月全国程序员工资统计](https://blog.csdn.net/juwikuang/article/details/100551050)
- > 2019年9月全国程序员工资统计
- ## [我的 Input框 不可能这么可爱](https://blog.csdn.net/weixin_37615279/article/details/100516311)
- > 我的 Input框 不可能这么可爱
- ## [重磅！Google推出了Python最牛X的编辑器....](https://blog.csdn.net/csdnnews/article/details/100815489)
- > 重磅！Google推出了Python最牛X的编辑器....
- ## [5G来了，普通人看热闹，程序员看颠覆](https://blog.csdn.net/ityouknow/article/details/100147892)
- > 5G来了，普通人看热闹，程序员看颠覆
- ## [使用Python为中秋节绘制一块美味的月饼](https://blog.csdn.net/devcloud/article/details/100737880)
- > 使用Python为中秋节绘制一块美味的月饼
- ## [除了努力挣钱，青春也不能错过的十件事](https://blog.csdn.net/wo541075754/article/details/100764144)
- > 除了努力挣钱，青春也不能错过的十件事
+ ## [用Path简单实现圆角ImageView](https://blog.csdn.net/u011733020/article/details/99855094)
+ > 用Path简单实现圆角ImageView
+ ## [惊呆！这辆悍马自己在跑跑跑跑跑跑跑！](https://blog.csdn.net/csdnnews/article/details/100869906)
+ > 在2004年一个凉爽的星期四早上，第一次机器人汽车比赛，在美国莫哈韦沙漠拉开战幕。随着太阳升起，一只沙漠乌龟，从洞穴中探出头来，希望能在迅速变暖的公路上，享受一天的阳光。...
  ## [互联网大佬为什么爱唱歌？](https://blog.csdn.net/csdnnews/article/details/100869920)
  > 作者 | 黎明 陈琪编辑 | 魏佳本文经授权转载自燃财经（ID:rancaijing）大佬爱唱歌，55岁的马云再一次拿起了话筒。9月10日的阿里20周年晚会，马云宣布正式...
  ## [漫画：什么是希尔排序？](https://blog.csdn.net/csdnnews/article/details/100869921)
  > 作者|程序员小灰责编 | 伍杏玲————— 第二天 —————————————————让我们先来回顾一下插入排序：插入排序顾名思义，就是在排序的过程中，把数组的每...
  ## [重磅！华为方舟编译器招募 2000 程序员！](https://blog.csdn.net/csdnnews/article/details/100869916)
  > 作者 | 胡巍巍出品 | 程序人生（ID：coder_life）华为北京研究所的食堂，周末也好热闹！9月7日，笔者到华为北研所，参加华为方舟编译器（以下简称“方舟”）的开...
+ ## [亲测！这款耳机堪比 AirPods，还不到 200 块！](https://blog.csdn.net/csdnnews/article/details/100869917)
+ > 笔者平时特别喜欢跑步，而跑步的时候最喜欢戴上耳机边听音乐、边享受燃脂的快感！然鹅~每次拿出的耳机，线都乱成一坨。内无比煎熬！再者~带线耳机跑步中很容易脱落或被扯掉，又需要...
+ ## [大数据工程师手册：全面系统的掌握必备知识与工具](https://blog.csdn.net/csdnnews/article/details/100869918)
+ > 作者 |Phoebe Wong译者 |陆离编辑 | Jane出品 | AI科技大本营（ID：rgznai100）前言如何才能成为一名真正的“全栈（full-stack...
+ ## [漫画：如何给女朋友解释什么是2PC（二阶段提交）？](https://blog.csdn.net/csdnnews/article/details/100869907)
+ > 作者｜漫话编程本文经授权转载自漫话编程（ID：mhcoding）周末晚上，正在家里面看综艺节目，突然女朋友跑过来找我打《王者荣耀》。打了几把游戏，终于可以歇息一会了，准备...
+ ## [评分9.7！Kindle畅销神作，这本Python书火透了！](https://blog.csdn.net/csdnnews/article/details/100869909)
+ > 「超级星推官/每周分享」是一个围绕程序员生活、学习相关的推荐栏目。CSDN出品，每周发布，暂定5期。核心标签：优质、有用！本期内容，我们将抽1人送出由我司程序员奉为“超级...
+ ## [公开课｜百度天工物联网基础平台的微服务容器化落地实践](https://blog.csdn.net/csdnnews/article/details/100869911)
+ > 本文整理自中信出版社《物联网时代》在采用IoT的世界中，改变既是IoT引发的，也是你的生活中无法回避的事实。弗洛伦斯·赫德森，是Internet2（Internet2，即...
+ ## [揭开 Python 内存分配时的小秘密！](https://blog.csdn.net/csdnnews/article/details/100869914)
+ > 作者 | 豌豆花下猫责编 | 胡巍巍Python 中的sys模块极为基础而重要，它主要提供了一些给解释器使用（或由它维护）的变量，以及一些与解释器强交互的函数。本文将会频...
 # 人工智能 
- ## [【计算机类】大学生计算机专业电子书汇总](https://blog.csdn.net/dengjin20104042056/article/details/95334387)
- > 【计算机类】大学生计算机专业电子书汇总
- ## [C语言从放弃到入门](https://blog.csdn.net/m0_38139533/article/details/99330847)
- > C语言从放弃到入门
- ## [鸿蒙OS下载地址](https://blog.csdn.net/longyanchen/article/details/99090719)
- > 鸿蒙OS下载地址
- ## [国产FPGA那家强](https://blog.csdn.net/baidu_34971492/article/details/90440473)
- > 国产FPGA那家强
- ## [详解RS232、RS485、RS422、串口和握手](https://blog.csdn.net/m0_38106923/article/details/98615747)
- > 详解RS232、RS485、RS422、串口和握手
- ## [更好的代码_嵌入式C](https://blog.csdn.net/qq_40776830/article/details/99073611)
- > 更好的代码_嵌入式C
- ## [GCD的信号量机制](https://blog.csdn.net/qq_35122556/article/details/98881162)
- > GCD的信号量机制
- ## [【STM32】HAL库 STM32CubeMX教程六----定时器中断](https://blog.csdn.net/as480133937/article/details/99201209)
- > 【STM32】HAL库 STM32CubeMX教程六----定时器中断
- ## [Unity Hub许可证激活问题](https://blog.csdn.net/qq_29412103/article/details/92007821)
- > Unity Hub许可证激活问题
- ## [神经网络映射的论文阅读](https://blog.csdn.net/soulmate_uu/article/details/97793318)
- > 神经网络映射的论文阅读
- ## [Mapping Spiking Neural Networks onto a Manycore Neuromorphic Architecture](https://blog.csdn.net/soulmate_uu/article/details/98631645)
- > Mapping Spiking Neural Networks onto a Manycore Neuromorphic Architecture
- ## [Arduino基础入门篇31—LCD1602液晶显示](https://blog.csdn.net/TonyIOT/article/details/89148117)
- > Arduino基础入门篇31—LCD1602液晶显示
- ## [基于NB-IoT的智慧路灯监控系统（硬件开发）](https://blog.csdn.net/m0_38106923/article/details/97925200)
- > 基于NB-IoT的智慧路灯监控系统（硬件开发）
- ## [操作系统-课堂笔记系列博客（南航）-考研or期末](https://blog.csdn.net/qq_36321889/article/details/90480517)
- > 操作系统-课堂笔记系列博客（南航）-考研or期末
- ## [【STM32】HAL库 STM32CubeMX教程七---PWM输出(呼吸灯)](https://blog.csdn.net/as480133937/article/details/99231677)
- > 【STM32】HAL库 STM32CubeMX教程七---PWM输出(呼吸灯)
+ ## [Python 最常见的 170 道面试题解析：2019 最新](https://blog.csdn.net/valada/article/details/90761019)
+ > Python 最常见的 170 道面试题解析：2019 最新
+ ## [C语言-第3章-格式化输出\输入](https://blog.csdn.net/cb_east/article/details/97616024)
+ > C语言-第3章-格式化输出\输入
+ ## [BZOJ4160 \[Neerc2009\]Exclusive Access 2 题解（Dilworth定理+状压DP）](https://blog.csdn.net/hzk_cpp/article/details/98999919)
+ > BZOJ4160 \[Neerc2009\]Exclusive Access 2 题解（Dilworth定理+状压DP）
+ ## [C/C++ 笔记、Python 笔记、JavaWeb + 大数据 笔记](https://blog.csdn.net/zimiao552147572/article/details/77869233)
+ > C/C++ 笔记、Python 笔记、JavaWeb + 大数据 笔记
+ ## [【C/C++】C语言特性总结](https://blog.csdn.net/qq_42322103/article/details/99071161)
+ > 【C/C++】C语言特性总结
+ ## [Python学习目录](https://blog.csdn.net/zhanshen112/article/details/90339777)
+ > Python学习目录
+ ## [Java基础面试题50题](https://blog.csdn.net/meetbetterhc/article/details/96568451)
+ > Java基础面试题50题
+ ## [Python 经典算法100及解析](https://blog.csdn.net/songlh1234/article/details/91391981)
+ > Python 经典算法100及解析
+ ## [CCF201903-2 二十四点（100分）【表达式计算】](https://blog.csdn.net/tigerisland45/article/details/99167285)
+ > CCF201903-2 二十四点（100分）【表达式计算】
+ ## [JS常见算法小总结](https://blog.csdn.net/weixin_43606158/article/details/90209343)
+ > JS常见算法小总结
+ ## [动态规划求解旅行商问题，tsp问题求最优解，附代码实现](https://blog.csdn.net/hytfly/article/details/95739609)
+ > 动态规划求解旅行商问题，tsp问题求最优解，附代码实现
+ ## [Java常用类库](https://blog.csdn.net/weixin_44585214/article/details/98635538)
+ > Java常用类库
+ ## [CCF201903-1 小中大（100分）【序列处理】](https://blog.csdn.net/tigerisland45/article/details/99005636)
+ > CCF201903-1 小中大（100分）【序列处理】
+ ## [前端常用正则整理](https://blog.csdn.net/weixin_43606158/article/details/95931806)
+ > 前端常用正则整理
+ ## [return、break和continue的区别](https://blog.csdn.net/weixin_43606158/article/details/94879625)
+ > return、break和continue的区别
 # PM 
- ## [产品经理：点亮“系统思维”技能（2）](http://www.woshipm.com/pmd/2843180.html)
- > 你身边是不是有这样的人——他们总是能从复杂的问题中，立即找到关键点并解决掉，然后赢得一片赞赏。为什么我们就不行呢？是我们本来就笨吗？还是经验不足、知识不够？为...
- ## [微交互：如何抠产品细节？](http://www.woshipm.com/ucd/2862033.html)
- > 好的微交互设计用户无感知，那些看似微不足道的微交互瞬间，承载着产品设计者对用户的关爱。产品能不能用、好不好用，是衡量产品微交互好坏的标准。产品能用，勉强可...
- ## [赚不来快钱的下沉市场，在线教育该怎么玩？](http://www.woshipm.com/it/2869625.html)
- > 存量市场用户获客成本越来越高，要寻求新增客户群，下沉市场是必然要走的路，但下沉市场短时间要铺开规模存在难度，赚不来快钱，这需要资本有足够的耐心。很明显的是，...
- ## [PGC VS UGC：小视频社区选哪个？](http://www.woshipm.com/evaluating/2861235.html)
- > 短视频正当火热，若是想要打造一个小视频社区，吸引更多的用户积极互动，主导方应该是视频内容还是评论呢？一、社区靠视频内容还是评论驱动？做小视频社区，究竟是应...
- ## [【天天问每周精选】第87期：点外卖为什么必须要「选择性别」？不敢选性别女……](http://www.woshipm.com/it/2859157.html)
- > 网上有一条安全提醒：”独自居住的女子点外卖要把性别选成 男，以防危险？“那为什么外卖平台不在一开始就不展示性别呢？这个你是如何考虑的？一起思考下吧~问题外卖软...
+ ## [五大模块，解析产品设计中的视觉走查](http://www.woshipm.com/pd/2870765.html)
+ > 视觉走查一般分为形、色、字、构、质五大模块，而本文也将结合这几点讲讲视觉走查的注意事项。设计评审不通过？经常让你改稿？我们日常在做设计的时候往往会不由自主...
+ ## [免费公开课 | 8个Excel小技巧，让你提升10倍的工作效率！](http://www.woshipm.com/active/2854517.html)
+ > 最近老是看到公司的新同事David在朋友圈晒加班，我一问才知道，原来他还在做表格。工作过的人都知道，月初是最忙的时候了，林林总总的数据一大堆，整理起来是十分费工...
+ ## [互联网危机：中危旋涡的年轻人何去何从](http://www.woshipm.com/zhichang/2867279.html)
+ > 互联网行业繁荣的背后，技术带来的冲击，深切影响到了从业人员，年轻人对于行业的担忧愈发深重，如何应对行业变化，并且适应这种变化？7月在上海，和一个在头部电商平...
+ ## [设计师如何做一份以用户体验为心中的PPT？](http://www.woshipm.com/pd/2872203.html)
+ > 本文将会从用户体验的角度以汇报总结的内容核心、面向对象、场景分类、内容标准等方面和大家探讨交流，设计师如何做一份以用户体验为心中的PPT？说到以用户为中心的体...
+ ## [小天才 · 大市场：小天才电话手表开发者沙龙北京站](http://www.woshipm.com/it/2872520.html)
+ > 目前，我国5~12岁适学儿童人口数约为1.7亿，儿童安全问题日益受到全社会关注，这使得能打电话、可以定位的儿童智能手表备受家长追捧。据统计，2019年第一季度儿童智能...
+ ## [文案第9讲| 火车上卖蓝莓的乘务员教会我的“销售话术”](http://www.woshipm.com/copy/2775572.html)
+ > 在火车上，经常会有乘务员销售特产的现象，并且他们使用的销售话术也包含了非常多的营销技巧与知识点。具体的内容来看看正文内容吧。前一段时间，去河北任丘参加一场...
+ ## [思考：互联网“跨界打击”之下，企业适者生存](http://www.woshipm.com/it/2860672.html)
+ > 前几年经常听到一个词语：“跨界打击”。对此还专门去看了一些相关文章，有点模糊的印象，最近看到公司楼下一家连锁便利店的兴衰，才切实感受到这个概念的存在。首先看...
+ ## [复盘：接手“白眼狼”用户后的填坑攻略](http://www.woshipm.com/operate/2865745.html)
+ > 接手了前任运营的烂摊子，面对一群“大咖”用户，该如何着手让“大咖”真正为平台创造价值，成为真正大咖？灵魂拷问一下大家，有遇到过前任运营埋下的坑，填都填不完的情...
+ ## [对手三千，校招群面中如何才能打动面试官？](http://www.woshipm.com/zhichang/2870091.html)
+ > 笔者曾参加过BAT几大厂产品、运营岗位的群面，通过率100%，也帮助过好几位完全没有群面经验同学通过了世界500强公司的群面，有些已经成功拿到offer。所以，对于有求职意...
+ ## [产品功能需求怎么提（一）](http://www.woshipm.com/pmd/2864292.html)
+ > 产品路线千万条，要想产品不跑偏，需求明确头一条。计划写系列文章，从产品功能需求到实现。本文为第一篇，分为问题定义、问题分析和用户调查三部分。产品需求的提出...
+ ## [自然语言理解技术在电商行业中的应用](http://www.woshipm.com/ai/2862039.html)
+ > 本文将通过最新的概念验证项目，盘点不同电子商务场景下的最新自然语言处理技术应用，深入了解电子商务行业与NLP技术的发展趋势。电子商务是目前在互联网相关产业中最...
+ ## [没时间看“用户行为分析半年报”，其实看完这篇精华即可](http://www.chanpin100.com/article/109513)
+ > 2019年上半年，移动互联网用户规模突破十亿，用户流量环比增长1.6%，虽未见顶但整体增速继续放缓，在恶狼环伺的存量用户竞争时代，企业将如何提升内力，争夺最后的晚餐呢？
+ ## [灵感专题—2019年优秀APP界面设计作品赏析8月](http://www.chanpin100.com/article/109512)
+ > 他山之石可以攻玉
+ ## [2019上半年中国二手车电商市场发展专题分析](http://www.chanpin100.com/article/109511)
+ > 中国汽车市场新车遇冷，二手车市场在政策驱动、下沉市场需求等多重驱动下呈现逆势增长，二手车电商平台也在资本加持下持续增长。但随着资本逐渐回归理性，二手车电商平台也需要重新回归交易服务，同时借助数字化手段开展全业务链条业务探索，从车况核定、定价等方面提升核心竞争力，借新零售布局业务生态探索增值业务等。未
+ ## [微信发送语音过程转文字](http://www.chanpin100.com/article/109510)
+ > 最近微信灰度发布了一个新功能，在发语音的同时可以立即转为文字发送出去。
+ ## [没有标准答案的产品经理，如何“以理服人”？](http://www.chanpin100.com/article/109509)
+ > 我说的这些，你可能不信。
+ ## [技术VP告诉你的3点产品设计原则](http://www.chanpin100.com/article/109508)
+ > 产品设计实践的3点原则
+ ## [用贝叶斯方法开启新产品的设计](http://www.chanpin100.com/article/109507)
+ > 一款新产品是等设计完美了再上线，还是尽早上线？竞品分析前是先搜集所有竞品看一遍来找突破点，还是先确定选题和方向再去看竞品？
+ ## [揪出微信时间规则的猫腻](http://www.chanpin100.com/article/109506)
+ > 由于工作的需要前段时间调研了下微信朋友圈以及会话页面时间显示规则，总结分享给大家。
+ ## [人工智能产品经理之概率论与数理统计](http://www.chanpin100.com/article/109504)
+ > 人工智能基础入门之概率论与数理统计
+ ## [追梦赤子心，他摔破铁饭碗一路向南](http://www.chanpin100.com/article/109502)
+ > 坐在网易大厦中接受采访的阿飞望向窗外，窗外阳光正好，没有伦敦的浓雾。
+ ## [倒推后台系统——看穿CRM客户管理系统](http://www.chanpin100.com/article/109501)
+ > 你知道CRM的后台系统是如何设计的吗？这里有一次有趣的尝试，从表现层倒推，发现不一样的系统设计。
+ ## [产品经理初次上路，请多多关照](http://www.chanpin100.com/article/109500)
+ > 一个入职2个月的产品小白感悟
+ ## [学起来！大牌网站是如何设计Megamenu菜单](http://www.chanpin100.com/article/109499)
+ > 本文收集了一些优秀的大牌网站mega menu设计案例，有的设计细节到位美观，有的动效细腻流畅，相当值得参考！下面一起来欣赏吧，Enjoy!
+ ## [关于线上问题的复盘和反思](http://www.chanpin100.com/article/109498)
+ > 产品无小事，我们应从每一个细节中吸取教训，得到提升。
+ ## [易观：2019年第2季度在线住宿预订市场交易规模525亿元人民币，深化品质供应，多方位升级数字化运营](http://www.chanpin100.com/article/109492)
+ > 根据Analysys易观发布的《中国在线住宿预订市场监测分析2019年第2季度》显示，2019年第2季度，中国在线住宿预订市场交易规模达到525.4亿元人民币，同比增长12.5%，环比增长8.63%。
+ ## [易观：2019年第2季度移动音乐平台使用时长继续增长，直播战役一触即发](http://www.chanpin100.com/article/109491)
+ > 2019年第2季度，移动音乐类APP活跃用户规模出现了小幅回落，达到7.59亿。在经历了上一季度的爆发式增长后，中国移动音乐用户规模迎来调整期；而随着用户付费的全面推进，音乐APP使用时长和启动次数得到了大幅增长。
+ ## [2019设计之旅34-设计清单分享](http://www.chanpin100.com/article/109503)
+ > 遵循界面的一致性是交互设计的基本规范【上】设计清单第28期：用时约1分
 
     
