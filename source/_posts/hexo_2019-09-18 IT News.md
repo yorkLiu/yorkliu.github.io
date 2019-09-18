@@ -1,7 +1,7 @@
 ---
 title: 2019-09-18 IT News
 copyright: true
-date: 2019-09-18 12:01:42
+date: 2019-09-18 17:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,65 +68,47 @@ LG&#26174;&#31034;&#22120;&#20844;&#21496;&#23459;&#24067;&#35009;&#21592;&#6529
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [周杰伦新单曲创 QQ 音乐销售记录；微信更新：表情包选择栏改版；特斯拉或准备在投产前扩建上海工厂|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=r6IHeqZm0I1827ybBf7pPV9fWRFm-KPlH6IK1w5V3G03S7hee*ysd3iKX5bw3HLkM3z1j-AAISvYfdt5HO-38ytzMLydp5qQEarBN0Nd95al8d8oXxXKwFlrEna0VqKE&new=1)
- > 微信更新：表情包选择栏大变样，新增小程序权限管理9 月 17 日，微信 7.0.7 for iOS 正式版更新。其中，点击小程序胶囊按钮中的「···」，用户可以发现新增了一个「回到首页」常驻按钮。值得一提的是，在小游...
- ## [鸿蒙 OS 的到来，能为我们改变什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=EDH7DNTjJFbPC8gBgHGMvZqfSmefodsGZ38UWNNLWQ9JDikp5cMs7RzxrSUXE2c-ElwEkQN73X2KjLViGGrEUactoxDP5QkTVG5FSI8e4rzuCyuZ1EtuSLp0n4e3le9k&new=1)
- > 作者 | 屠敏出品 | CSDN（ID：CSDNnews）「鸿蒙初辟原无姓，打破顽空需悟空」，在国产自研操作系统短缺的窘境之下，天惊一声雷，「鸿蒙」踏风来。回首上个月的技术圈，最值得业界浮称流说的无疑是 8 月 9 日华为...
- ## [拿什么拯救你?日益缺失的网络空间“安全感”](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=hh7NpEvIgvvU6XTjlT6v3QnUXlqbDe493SIMgQj1-OYnijAkBfrc-i1SVDwqyDTuzF*wqqBFTCbMbzrPStHROfgxnlcTU*C3Yj371EKfzjDto4gsElId7OrO-fDbqbdB&new=1)
- > 黑客攻击、信息泄露、商业诈骗……网络空间“安全感”哪里找？“没有网络安全就没有国家安全。”昨日，第六届国家网络安全周在天津正式开幕，此前习近平主席曾对此作出重要指示：要坚持网络安全教育、技术、产业...
- ## [华为首次发布整体计算战略，推出全球最快AI训练集群Atlas 900](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=QX-ZXlwMEOL1J3jBXk6d2RFQzcNgTyjkNeUj7gqlMZb4wBBPwvrSV3aVWi-vi08vvfLnT31N8YJhCKX7XnaR8f3jxAVDx1fpZU7HBqR5zUPOpfQZCgXdSm*X7IPabOX8&new=1)
+ ## [华为整体计算战略首次公开 推全球最快AI训练集群Atlas 900抢占新蓝海](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=zvP5yOlft-YDJnvFIcPcx1sYVjJlxxw5lVKhtWS3vxg*7dn67ffpCBB87etpkecyas0r7tqaSNN2WAoCJWnDhuEBDLWi35LdRLHX6F2ELok4gE4FW3trAaE96aunQe2l&new=1)
+ > 9月18日，在第四届华为全联接大会上，华为首次发布计算产业战略，并重磅推出全球最快AI训练集群Atlas 900，抢占智能计算的新蓝海。智能计算时代的三个特征华为副董事长胡厚崑上台先讲到了过去近半年，华为经历的...
+ ## [华为全球最快 AI 训练集群 Atlas 900 诞生!](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=EDH7DNTjJFbPC8gBgHGMvZqfSmefodsGZ38UWNNLWQ9cqQllQtz53Zthf9ahMbPJnVgTpHgOHy6QUEOQRrnA080dgykqbXpliAwvrrOzLJeRzFxSc7sE3cJBa4kS-Wk8&new=1)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）你，和计算有什么关系？早上，你打开手机App，查看天气预报，和计算有关；中午，你打开支付宝人脸支付，买了份宫保鸡丁，也和计算有关。计算，无处不在！9月18日，在20...
+ ## [人均安装56款APP，有的APP让我2秒就想关闭?](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=Rn7w2leUwhBIQ0sAK71pvt7AsFXSM91sgBLBz6WJiiqL2iUFAmBGZC5nJMUSYVZx68uAtvVGEd0PUInoIejP9bTRK7IsOmtfh*tZ3ASG0o27xNnkiHZFx4m4uu5wXen8&new=1)
+ > 以下的场景对你来说是否似曾相识：换了新工作，来公司报道第一天就一口气（不得不）安装了十来个跟公司业务绑定的APP看了某篇微信大号的推送，控制不住自己的洪荒之力下载了当周最热的几款推荐APP被闺蜜安利当季...
+ ## [\[工程师大会\]2019智能安防工程师大会招商火热进行中!期待你的加入](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=iW2iv9u985uiDLD2XhRC0VMLk-aRBjGqzF5wdzrk7P-6Yc-1ZXWECHlObSBYz-XxIeODSGrcLjl1gtFTbGlvyrMCGXkt8MR-ffoEFgtTDfCleK3vrW-8u8ze2K9dG4lu&new=1)
+ > 2019智能安防工程师大会将于10月10日在杭州太虚湖假日酒店举办。本次大会由浙江省安全技术防范行业协会主办，浙江省无人机产业技术联盟、浙江省应急产业技术联盟、全国安防职业教育联盟协办，安防展览网承办。 ...
+ ## [移动互联网行业隐私保护乱象丛生，监管的态度是这样!](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=1xPYvSidKbat-Y1VZek5BznzIHuvhqOTTQzEqiQTGEiqfIx-YbWPtJlxj9hLFgVJNvfWvhIKpmXEivMtx-DAs4Bpbs0xhjYYGCnynABRleocY7jVjJDTenPSLyFCqYcg&new=1)
+ > 上海市通信管理局官员表示，在过去十多年，移动互联网行业的个人隐私保护乱象已经形成，主管机构目前也在思考，是乱世用重典，还是去病以抽丝上海对本地近百款手机应用（App）进行检查发现，平均每款存在2个以上...
+ ## [西媒文章：中国科创产业如何做到异军突起?](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=sFceW8eUrhSlgy*HP2CVLB3q3m7ejHzv8kGH6Gyplf9yQFffuiijpV1IhTb2xZngvAhSz5RFyBZwCCHyCGE6HoWu9y-*UjerJZYRlEPCFOw=&new=1)
+ > 参考消息网9月6日报道 西媒称，在过去相当长一段时期，中国作为“世界工厂”将各种廉价商品推向全球市场。如今，中国的高科技企业用各种自主设计的产品占据了市场。中国人是如何做到的？西班牙《趣味》月刊8月号...
+ ## [华为发布全球最快AI训练集群Atlas900，训练ResNet50仅需59.8秒，昇腾910加持](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=Ji-jD-6omSpBxHUxUGHrfkr0K6p0*Ixi8HJrliYsTWyJtPYhw7v2nYIdKfPGYMMr9JnfWwG30ulw4p9LNiPMTBHK6-0rMWDF1OCMM3d8Rdz341U8VZb4s33b3Dt9I3d1&new=1)
+ > 机器之心报道作者：李泽南、戴一鸣在 8 月华为最强 AI 芯片昇腾 910 正式发布之后，今天，华为在全联接大会上发布了全新的整体计算战略，并正式推出了基于最新 AI 芯片的服务器 Atlas 900。华为总裁任正非在最近...
+ ## [树根互联贺东东：工业互联网“等风是等不来的”|\[经纬低调出品\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=g37ASoIV7x0IlGY6*2paihDb*EeIx1ELoP-FSH0Cfz*kaJqgS6Jwa18asuK-DMdf6AxOCqL9H5yWZjEUqCvb1GK9CyhTEcI7SYbDfQgFI7BnKLZzpTYRIPtgEifpJsEB&new=1)
+ > 根据国家统计局2018年数据，中国当年工业GDP规模达到30万亿元。从用户需求来看，不同行业的企业用户发展阶段差距非常大，需求也非常多元，对于此间的创业者来说，这是一个非常巨大的市场，也是一个改造成本极高...
+ ## [胡厚崑：华为状态不错 一定不会让你们失望](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=axHJcrQe-N-vPXlkerV63fZXh8R7VRgoEELRbg9Gcwd41mQuu*30AUCHA5nXpNkGR7WQLYIrM7gVv6M637xKTm7EMTIUzDWbUhG*YoAefVacZvpgLdxVTS69MBly0csm&new=1)
+ > 自2018年孟晚舟被非法扣留以来，华为持续遭遇美国打压，让人不得不为之捏一把冷汗。在今天华为全联接大会的开场演讲一开始，华为副董事长、轮值董事长胡厚崑即表示，“华为现在的状态确实还不错，就像今天早上上...
+ ## [2020 年医疗行业面临的 6 大安全威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=mfKKD8nBKafzebhlWbJuShaO2umUV3elC1uIe6tR-qT-rQq4uDzMWN4S03gUBfclYS2S69Lwfy2tqyklVrMAhsGTsyiCP6ltrQvF-ilkduhZlMXdOwp-gMFj9ryJBvfj&new=1)
+ > 医疗行业仍然是勒索软件，加密，数据窃取，网络钓鱼和内部威胁的热门目标。由于 Anthem 和 Allscripts 等备受瞩目的违规行为，消费者现在更担心他们受保护的健康信息 (Protected Health Information, P
+ ## [华为首次发布整体计算战略，推出全球最快AI训练集群Atlas 900](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=QX-ZXlwMEOL1J3jBXk6d2RFQzcNgTyjkNeUj7gqlMZZNYvssF1p*Fxsnl0*FZXPvJwd3YEA5tOCVMxu0LeISsWSadgWsXFuRk1N6U2ZSAEN0ih*147oEgGMmlFqXb6wd&new=1)
  > 9月18日，上海，第四届华为全联接大会开幕，华为首次发布计算战略，基于架构创新、投资全场景处理器族、有所为有所不为的商业策略、构建开放生态进行布局，计算产业新的大航海时代由此开启。同时，华为重磅发布...
- ## [\[工博会专题\]赋能中国制造持续变革 工业互联网之春秋大计](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=8u7Ym8RleqtgT0roLHFyzKGiqtWVBfIZWgR7zUV18fgt*vY442fdcxwaKsSoWtDSOnav7u7EWR2c9QXeRECW6K8-cb1uuq1TJXCIiB1BOo*brtKf38nWoqS2xbqauC5I&new=1)
+ ## [华为发布全世界最快AI产品，集成1024颗业内最强芯片，训练ResNet-50只需59.8秒](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=IFW4sV100We*7lKOqQgiuJAu0b5k0u4Iy0joGWymMqr-wgsg7017EfmOZnt2GUuiMuGi-EhKTtH8X6JNjNNEbOj0646jreAN-ittV-lxefmlD5ZaIdbb-*OSXnt2P18e&new=1)
+ > 乾明 李根 发自 凹非寺 量子位 报道 | 公众号 QbitAI不止5G和鸿蒙，华为最新大招，扔出AI计算核弹。刚刚，华为全连接大会开幕，推出又一重量级AI产品Atlas900。此前接受外媒采访时，任正非就已经预告：这是“目...
+ ## [长春光机所提出傅里叶叠层恢复算法 有效提高重建图像质量](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=gNgdpmhVVEWK7oECBHmh*tg8COEwJ*MG*DSn51AYZL34X7aBsgo*mP2wPLCvFtAc-QKGR2vYqWIrH6rFqRWkUg7GsjNX1SaoYR-pHfm-idgaceMzjl4QDp-6Du6J8NIW&new=1)
+ > 傅里叶叠层成像（FPM）是近年提出的一个可以获得大视场、高分辨率图像的测量方法。FPM的装置类似光学显微镜，只是将光源替换成一个LED阵列，通过按特定顺序点亮单个LED照明时在相机端获得一系列低分辨率（LR）图...
+ ## [科技创新70年丨中国“无人机”飞跃国门](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=qBBERr68igoiPTFICd6nMo0dC5QT4VgFC9-5-x7pV9x0ckCS29bol18dImJTuS8BVctpqFU2AXL8PB9xENnrXvQS3e1eusd*dd8nWDBHwAqbHONCyfIyD2PyuK5tkaCG&new=1)
+ > 很多伟大企业最初往往来自于一个简单的想法。大疆的想法就是：用自动化技术控制直升机在空中稳定地悬停。如今提起无人机，其实更多的是指一家中国公司的产品。大疆，创立于2006年，总部位于深圳。与现在大疆的火...
+ ## [以智能为核心的最新数据中心网络安全策略](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=zMfFeV6Plj9fFTiVKidEdIzk9MYVrTGtnO9ElQKwPAti8UTGmYg3X0mRS*GrUEHzBzqbtRrjGwhKoM84el7KTEg3h-4au*fXkcxCokqb0uscj2Z*c3VgtxqR4BdV0lNB&new=1)
+ > 关键讯息，D1时间送达！网络安全领域如今正处在向智能解决方案转变的早期阶段。人工智能和机器学习已经在数据中心产生巨大影响，这一点在网络安全方面更为明显。智能和自动化已经在创建和管理智能实时的微分段策...
+ ## [周杰伦新单曲创 QQ 音乐销售记录；微信更新：表情包选择栏改版；特斯拉或准备在投产前扩建上海工厂|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=r6IHeqZm0I1827ybBf7pPV9fWRFm-KPlH6IK1w5V3G0sBUqryzGe1YWEB2wGRPABBio7im7rIzsAYjsPKvQchphaSTa4ApxW*1rMBVpNaKoc-hJFTsoazvxGGWGxyHC2&new=1)
+ > 微信更新：表情包选择栏大变样，新增小程序权限管理9 月 17 日，微信 7.0.7 for iOS 正式版更新。其中，点击小程序胶囊按钮中的「···」，用户可以发现新增了一个「回到首页」常驻按钮。值得一提的是，在小游...
+ ## [鸿蒙 OS 的到来，能为我们改变什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=EDH7DNTjJFbPC8gBgHGMvZqfSmefodsGZ38UWNNLWQ9L*nCtQNr4COKIX1JoTKAyPoxegvAM9V5XRzPVEd6vMZMExUH-a0r75Dj72FZ9n8Dr6ewt7EqtuH8j1yZ3r7jR&new=1)
+ > 作者 | 屠敏出品 | CSDN（ID：CSDNnews）「鸿蒙初辟原无姓，打破顽空需悟空」，在国产自研操作系统短缺的窘境之下，天惊一声雷，「鸿蒙」踏风来。回首上个月的技术圈，最值得业界浮称流说的无疑是 8 月 9 日华为...
+ ## [拿什么拯救你?日益缺失的网络空间“安全感”](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=hh7NpEvIgvvU6XTjlT6v3QnUXlqbDe493SIMgQj1-ObOyNfaaTRlvHQ7t6B405JaML9DB6X6HCxNu-g*idYYmVA7JvzNAW-jZ8xooS8pSRBeBZwCkfkWSHx0oEabSvZT&new=1)
+ > 黑客攻击、信息泄露、商业诈骗……网络空间“安全感”哪里找？“没有网络安全就没有国家安全。”昨日，第六届国家网络安全周在天津正式开幕，此前习近平主席曾对此作出重要指示：要坚持网络安全教育、技术、产业...
+ ## [\[工博会专题\]赋能中国制造持续变革 工业互联网之春秋大计](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=8u7Ym8RleqtgT0roLHFyzKGiqtWVBfIZWgR7zUV18fj0opkmnswPiHHZdCVMvUvGd*Hz2rSAAznrVtKATdZzLcmi8INXoCjYqbuB7UlVOV-bko8nHVcJ1qDBsyBpuSsd&new=1)
  > （图片来源：DIGITIMES）前言互联网诞生已有半个世纪，近40亿的全球一半人口，俨然已成为这片数字融网新大陆的“新移民”。在数字经济发展大潮中，裹挟着智能制造大势，工业巨头向互联网发展，互联网巨头也有心...
- ## [最新进展!NB-IoT连接数突破6000万，月增量超过2G连接](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=ra4dTeYapa6eujFla4V4sbWLLT9zirTw0z0dn6Hljk8og5OjxXl41UfZnALnLN9D7xMqASv*IJu8gt*sU6GjCv2FhoeEROSwAcpDTBP20yTOzEtCuCAUmlKrrNLWtGh6&new=1)
+ ## [最新进展!NB-IoT连接数突破6000万，月增量超过2G连接](http://mp.weixin.qq.com/s?src=11&timestamp=1568797206&ver=1859&signature=ra4dTeYapa6eujFla4V4sbWLLT9zirTw0z0dn6Hljk*XN45*iWxxBb8zVdz5S4y9y2kUDke*upZbvBPQPiLUnu6k*eBpjTEewbFFQ1SBmHX9LHD97ZSiJoUpQFIyKAMO&new=1)
  > 近期，根据相关通信行业媒体发布的最新统计数据，NB-IoT的用户数正式突破6000万，其中NB-IoT燃气表和NB-IoT水表用户数均超过1000万大关。 整体看，在模组成本不断降低以及成5G候选技术的刺激下，NB-IoT这个低功...
- ## [\[科技早报7点整\]比尔盖茨称科技巨头不应该被分拆 惠普打印机被爆收集用户数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=fj-OqTO*BsDfH7MGAAWTaHD5aJ8zBqrJYEl8EnNWJ6JlusH0T1VPvDsxmXAguvsZ*o8cL0rTOUpjj-cDOBtIJQjpkY-AbYoq**MG41Dabv58yZqJl5E6yArobPtcABff&new=1)
- > 早上好，科技圈【一度蜜科技早报】第593期1.江苏联通部分用户手机彩铃变成了5G广告 有报道称，江苏联通部分用户手机免费彩铃变5G广告  。对此，江苏联通回应，“目前选择默认炫铃的用户铃声已更换成联通的主题曲...
- ## [苹果发布会漏掉的这个「6」能帮你省下一笔话费。](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=tx2ohGG9IMbabnFdWh7mLxKId7unrrbR0ImyNci*vYaooxYtjKuJskn4UtGIKfoqpXCblqyFbCsvfzTbAz6KT7Av7KrVBDJ88CG2T3UcrcY9ic4jgNzJL9TQs5m4vzQ2&new=1)
- > 最近，编辑部一位 199 斤的肥宅给自己办了一个 199 元的手机套餐。我们起初以为他是想调侃一下自己的体重，结果他却一本正经的告诉我们：「 和体重没关系，是流量根本不够用啊！」「 到处都是 WiFi 你连一下不就...
- ## [软银5G计划提速丨特斯拉扩建上海工厂\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=zvP5yOlft-YDJnvFIcPcx1sYVjJlxxw5lVKhtWS3vxhBupZtSMrZpjQbgX0A6IeAnBakj60GhS4kKeHo4TgLxxn*wrvAOBO-ZAvRaOCk14ZmUS73Tmg1hTT8JQvFoZsy&new=1)
- > 9月17日丨周二【Do说】编辑 | 赵艾虎软银5G计划提速：欲2020年实现商用，2023年初步建成据日经新闻消息称，日本电信运营商软银公司原本计划在截至2025年3月的财年结束前，在日本各地部署1.121万个基站，覆盖日本...
- ## [上WiFi万能钥匙免费领WiFi安全险，最高赔付10万元!](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=FYDDj1zvdtIck0rCF0xiwHBj-D5-TLyYiyP-tLPUBXI1DjWZqg-5CiQZRM4nZSujSsxwM0*uBkFNWtSAWVvaX*SSxS1DTORrvVJ3m4IPnu961G0DeQI1t9q40jeKP1No&new=1)
- > 叮咚，您的好友钥钥为您送上一份迟到的中秋礼物！ 所有人都能免费领取WiFi安全险 ，最高赔付10万元！领取后每人会有一份保单，写你的名字，费用我们来出！简单说，当你在通过WiFi万能钥匙连接公共WiFi时，如发生...
- ## [「酷公司」成长进行时](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=r6IHeqZm0I1827ybBf7pPV9fWRFm-KPlH6IK1w5V3G1m9GIpTpIWEdQPODwrtHERzQQYn-oSeCtKBAx4XZR7nOUH9QuGVNjnzW8OaplN2-NDgLmMjHaVnAhKab9RATWO&new=1)
- > 打开数字化的魔盒。「这次不同了」世界经济论坛创始人克劳斯·施瓦布郑重其事地提道，即使这句话在他看来已经是「被滥用的金句」。但似乎找不到更恰当的语句了。他形容的是我们当下所正在经历的变革，更确切地说...
 # IT 技术 
- ## [What？老板让我开发一个亿级流量的大型网站](http://developer.51cto.com/art/201909/603099.htm)
- > What？老板让我开发一个亿级流量的大型网站
- ## [超原版速度110倍，针对PyTorch的CPU到GPU张量迁移工具开源](http://news.51cto.com/art/201909/603048.htm)
- > 超原版速度110倍，针对PyTorch的CPU到GPU张量迁移工具开源
- ## [看懂这十步，8岁的小朋友都能理解深度学习](http://ai.51cto.com/art/201909/603068.htm)
- > 看懂这十步，8岁的小朋友都能理解深度学习
- ## [如何允许远程连接到MySQL数据库服务器？](http://os.51cto.com/art/201909/603063.htm)
- > 如何允许远程连接到MySQL数据库服务器？
- ## [13个网络管理员必须尝试的开源网络监控工具](http://developer.51cto.com/art/201909/603073.htm)
- > 13个网络管理员必须尝试的开源网络监控工具
- ## [算法 | 深入理解递归，是你误解了递归](http://developer.51cto.com/art/201909/603102.htm)
- > 算法 | 深入理解递归，是你误解了递归
- ## [作为初创公司的第一位数据工程师，我学到了什么](http://news.51cto.com/art/201909/603049.htm)
- > 作为初创公司的第一位数据工程师，我学到了什么
- ## [1.3万亿条数据查询如何做到毫秒级响应？](http://database.51cto.com/art/201909/603016.htm)
- > 1.3万亿条数据查询如何做到毫秒级响应？
- ## [互联网为什么物联网设备管理很重要？](http://iot.51cto.com/art/201909/603110.htm)
- > 随着物联网的兴起，对物联网设备管理的需求将达到顶峰。每个物联网设备的基础都是数据，随着物联网设备数量
- ## [物联网时代的大数据转型](http://iot.51cto.com/art/201909/603109.htm)
- > 为什么我们不能投入资源来使设备智能化？每台设备都在自身进行必要的智能化，其输出接口只向外界提供可操作
- ## [华为四大举措布局计算战略，重磅推出新品AI训练集群Atlas 900](http://network.51cto.com/art/201909/603108.htm)
- > 华为副董事长胡厚表示，“我们面临的是一个2万亿美元的计算产业大蓝海，华为坚定不移地投入计算产业，通
- ## [如何构建和维护多云安全策略](http://cloud.51cto.com/art/201909/603107.htm)
- > 企业在采用多个云计算服务提供商的云服务时，考虑云平台和每个云服务的具体情况以保持安全性至关重要。
- ## [以智能为核心的数据中心网络安全策略](http://netsecurity.51cto.com/art/201909/603105.htm)
- > 网络安全领域如今正处在向智能解决方案转变的早期阶段。人工智能和机器学习已经在数据中心产生巨大影响，这
- ## [了解 TiDB 技术内幕――数据是如何存储的](http://stor.51cto.com/art/201909/603106.htm)
- > 数据库、操作系统和编译器并称为三大系统，可以说是整个计算机软件的基石。其中数据库更靠近应用层，是很多
- ## [负载均衡与反向代理（Nginx/OpenResty）](http://server.51cto.com/sOS-603103.htm)
- > 我们使用Nginx时，大多数场景下使用的都是七层的HTTP负载均衡(ngx_http_upstream_module)。在1.9.0版本以
- ## [好文分享：EXT文件系统机制原理详解](http://os.51cto.com/art/201909/603104.htm)
- > 文章有些长，但是作者总结的非常好，能学到很多技术细节知识。请大家耐心阅读。将磁盘进行分区，分区是将磁
- ## [如何用Excel快速生成SQL语句，用起来真的很爽](http://database.51cto.com/art/201909/603100.htm)
- > Excel的公式自动生成想必大家都知道了，就是写好一个公式后直接往下拖，就可以将后面数据的公式自动生成。
- ## [MySQL 中常见的字符串函数应用详解](http://database.51cto.com/art/201909/603098.htm)
- > 在前面若干章节中，我们介绍了SQL的基础与高阶语法，接下来，我们将分四个章节，介绍MySQL中常见的函数应用
  ## [讲给后台程序员看的前端系列教程(38)——事件处理](https://blog.csdn.net/lfdfhl/article/details/100762166)
  > 讲给后台程序员看的前端系列教程(38)——事件处理
  ## [体检时常有的几个疑问，你可能想过就忘了](https://blog.csdn.net/weixin_36250635/article/details/100815612)
@@ -145,6 +127,8 @@ LG&#26174;&#31034;&#22120;&#20844;&#21496;&#23459;&#24067;&#35009;&#21592;&#6529
  > 每个程序员都应该警惕的文件上传漏洞！！
  ## [【算法设计与分析】09 递推方程与算法分析](https://blog.csdn.net/qq_37375427/article/details/100862665)
  > 【算法设计与分析】09 递推方程与算法分析
+ ## [Spring Cloud（09）——服务端负载工具Zuul](https://blog.csdn.net/elim168/article/details/100944719)
+ > Spring Cloud（09）——服务端负载工具Zuul
  ## [Python 实现大整数乘法算法](https://blog.csdn.net/weixin_43773093/article/details/100870092)
  > Python 实现大整数乘法算法
  ## [Java 函数优雅之道](https://blog.csdn.net/yunqiinsight/article/details/99826098)
@@ -155,62 +139,82 @@ LG&#26174;&#31034;&#22120;&#20844;&#21496;&#23459;&#24067;&#35009;&#21592;&#6529
  > 世界很大，一定要出去看看
  ## [我用数据分析，揭开了中国男篮最后的遮羞布](https://blog.csdn.net/yuanziok/article/details/100878684)
  > 我用数据分析，揭开了中国男篮最后的遮羞布
- ## [算法高级（20）-集群容错算法](https://blog.csdn.net/m0_37609579/article/details/100747852)
- > 算法高级（20）-集群容错算法
+ ## [标贝科技语音论文入选全球顶级语音学术大会INTERSPEECH2019](https://blog.csdn.net/csdnnews/article/details/100986571)
+ > 全球知名语音学术大会INTERSPEECH2019于9月15日至19日在奥地利格拉茨城市举行。作为全球智能语音及AI数据发展的推动者，标贝科技受邀成为大会黄金级赞助厂商亮相现场。其中，由标贝语音团队撰写的《A Mandarin Prosodic Boundary Prediction Mode...
+ ## [漫画：什么是中台？](https://blog.csdn.net/csdnnews/article/details/100987655)
+ > 作者 |程序员小灰责编 | 伍杏玲没有中台的时代在传统IT企业，项目的物理结构是什么样的呢？无论项目内部的如何复杂，都可分为“前台”和“后台”这两部分。什么是前台？首先...
+ ## [华为全球最快 AI 训练集群 Atlas 900 诞生！](https://blog.csdn.net/csdnnews/article/details/100987512)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）你，和计算有什么关系？早上，你打开手机App，查看天气预报，和计算有关；中午，你打开支付宝人脸支付，买了份宫保...
+ ## [剑桥女博士创立情绪识别 AI 公司，帮助自闭症患者理解他人表情](https://blog.csdn.net/csdnnews/article/details/100987560)
+ > 很多智能设备能预测我们下一步想要做什么，但是它们却无法知道为什么我们要那样做。作者｜DataGirls本文经授权转载自DataGirls（ID：DataGirls）《她》...
  ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
  > 作者 | 屠敏出品 | CSDN（ID：CSDNnews）「鸿蒙初辟原无姓，打破顽空需悟空」，在国产自研操作系统短缺的窘境之下，天惊一声雷，「鸿蒙」踏风来。回首上个月的技术圈，最值得业界浮称流说的无疑是 8 月 9 日华为开发者大会 2019（简称 HDC 2019）上公开的「鸿蒙 O...
+ ## [内存 60 年变迁史](https://blog.csdn.net/csdnnews/article/details/100987484)
+ > 作者 |金捷幡责编 | 伍杏玲封图 | CSDN付费下载于视觉中国前言2006年5月1日，德国半导体巨头英飞凌(Infineon)分拆了内存事业部在纽交所上市，股票代码...
+ ## [危险的人脸识别](https://blog.csdn.net/csdnnews/article/details/100987429)
+ > 当你走在大街上，掌握数据的人只要看你一眼，就能洞悉你的一切。作者|闫丽娇 阿伦本文经授权转载自燃财经（ID:rancaijing）封图 | CSDN 付费下载自视觉中...
+ ## [围观京东云，您有一份区块链技术礼包待查收！](https://blog.csdn.net/csdnnews/article/details/100987851)
+ > 如今买东西都追求品质，时不时还要选购些境外商品，如此一来酷爱扫货的我们免不了关注货源情况以及运输流程，如何一手掌握个中变化无负担？同样是精致追求，生鲜品质随时随地被大众关...
+ ## [刚出炉！年度榜单：Python三连冠，碾压Java！你怎么看？](https://blog.csdn.net/csdnnews/article/details/100987693)
+ > 新一年度的编程语言榜单来了，如果你每年都在看，会发现编程榜单跟娱乐圈的“金鹰节”一类的颁奖节目很像，有很多新秀获奖得主，更会见证许多老牌“明星”的蓦然暗淡，令人不胜唏嘘。...
+ ## [颠覆传统，仅银行卡大小充电宝，10000mAh可登机，手机党出门随身必备！](https://blog.csdn.net/csdnnews/article/details/100987769)
+ > 说到充电宝，不知道有没有人跟我有同样的烦恼：5000毫安容量小，不够用。10000毫安容量够用，但又大又笨重，拿在手里充电超累的，还占地方！尤其是旅行出差的时候，这种体验...
+ ## [任正非称华为 6G 领先世界；支付宝小程序将与微博打通；Linux Kernel 5.3 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100987531)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [不要在网站上无限滚动！](https://blog.csdn.net/csdnnews/article/details/100987794)
+ > 人们在浏览网站的时候是喜欢用“无限滚动”，还是喜欢点击“阅读更多”或“查看更多”?无限滚动消除了分页的需要——分页是将数字内容分离到不同页面的过程。但这种方式真的好吗？作...
 # 人工智能 
- ## [Java 配 Shell 等于美酒加咖啡](https://blog.csdn.net/javaforwork/article/details/100912481)
- > Java 配 Shell 等于美酒加咖啡
- ## [5G IC测试利器——TS-960e-5G](https://blog.csdn.net/WinterNeil/article/details/100915609)
- > 5G IC测试利器——TS-960e-5G
- ## [山东大学操作系统课设](https://blog.csdn.net/zzc_zhuyu/article/details/100812913)
- > 山东大学操作系统课设
- ## [在VMware虚拟机上安装Ubuntu18.04.3优麒麟版完整步骤及需要注意的问题](https://blog.csdn.net/qq_22695001/article/details/100915311)
- > 在VMware虚拟机上安装Ubuntu18.04.3优麒麟版完整步骤及需要注意的问题
- ## [利用Kali破解女神WiFi](https://blog.csdn.net/chest_/article/details/100895940)
- > 利用Kali破解女神WiFi
- ## [shell](https://blog.csdn.net/qq_40964554/article/details/100899628)
- > shell
- ## [ubuntu14.04安装jdk1.8](https://blog.csdn.net/u013365312/article/details/100921510)
- > ubuntu14.04安装jdk1.8
- ## [ubuntu16.04踩坑笔记4--python3.6安装的坑](https://blog.csdn.net/github_38060285/article/details/100891208)
- > ubuntu16.04踩坑笔记4--python3.6安装的坑
- ## [【Linux】一步一步学Linux系列教程汇总（更新中......）](https://blog.csdn.net/dengjin20104042056/article/details/94669639)
- > 【Linux】一步一步学Linux系列教程汇总（更新中......）
- ## [下载站制作--Day 1](https://blog.csdn.net/qq_43737375/article/details/100900301)
- > 下载站制作--Day 1
- ## [阿里云服务器ECS搭建后台（Windows Server 2012R2）](https://blog.csdn.net/wuyangyang_2000/article/details/100927358)
- > 阿里云服务器ECS搭建后台（Windows Server 2012R2）
- ## [graphviz.backend.ExecutableNotFound: failed to execute \['dot', '-Tpdf', '-O', 'Digraph.gv'\]问题解决](https://blog.csdn.net/qq_41997920/article/details/100928729)
- > graphviz.backend.ExecutableNotFound: failed to execute \[&x27;dot&x27;, &x27;-Tpdf&x27;, &x27;-O&x27;, &x27;Digraph.gv&x27;\]问题解决
- ## [Tomcat服务部署与Nginx负载均衡配置](https://blog.csdn.net/weixin_42480196/article/details/100881849)
- > Tomcat服务部署与Nginx负载均衡配置
- ## [zabbix使用snmp监控（亲测）](https://blog.csdn.net/weixin_43287508/article/details/100894300)
- > zabbix使用snmp监控（亲测）
- ## [【Linux】一步一步学Linux——fc命令(224)](https://blog.csdn.net/dengjin20104042056/article/details/100937319)
- > 【Linux】一步一步学Linux——fc命令(224)
+ ## [Spring Cloud同步场景分布式事务怎样做？试试Seata](https://blog.csdn.net/zlt2000/article/details/100876202)
+ > Spring Cloud同步场景分布式事务怎样做？试试Seata
+ ## [Spring Boot面试题总结](https://blog.csdn.net/weixin_30342639/article/details/94619947)
+ > Spring Boot面试题总结
+ ## [面试问到的关于spring cloud理解和spring cloud与dubbo的区别详解](https://blog.csdn.net/jcetpoor/article/details/100939151)
+ > 面试问到的关于spring cloud理解和spring cloud与dubbo的区别详解
+ ## [RabbitMQ面试题总结](https://blog.csdn.net/weixin_30342639/article/details/94906349)
+ > RabbitMQ面试题总结
+ ## [Servlet--ServletContext详解](https://blog.csdn.net/cold___play/article/details/100899275)
+ > Servlet--ServletContext详解
+ ## [算法高级（20）-集群容错算法](https://blog.csdn.net/m0_37609579/article/details/100747852)
+ > 算法高级（20）-集群容错算法
+ ## [手写 Spring MVC](https://blog.csdn.net/qq_40147863/article/details/96505433)
+ > 手写 Spring MVC
+ ## [Python 操作 Rabbit MQ 工作队列 (四)](https://blog.csdn.net/Fe_cow/article/details/100893423)
+ > Python 操作 Rabbit MQ 工作队列 (四)
+ ## [基于Nacos配置中心实现Spring Cloud Gateway的动态路由管理](https://blog.csdn.net/u010046908/article/details/100933635)
+ > 基于Nacos配置中心实现Spring Cloud Gateway的动态路由管理
+ ## [SpringMVC+Mybatis纯注解搭建SSM框架](https://blog.csdn.net/FRESHET/article/details/100887282)
+ > SpringMVC+Mybatis纯注解搭建SSM框架
+ ## [jsp的九大内置对象](https://blog.csdn.net/gudada010/article/details/100868804)
+ > jsp的九大内置对象
+ ## [SSM整合](https://blog.csdn.net/qq756441663/article/details/100933999)
+ > SSM整合
+ ## [白话 RESTful API + Demo 代码](https://blog.csdn.net/weixin_37942773/article/details/100920133)
+ > 白话 RESTful API + Demo 代码
+ ## [Struts2【1】了解、入门与部署Sturts2](https://blog.csdn.net/qq_42146775/article/details/100556458)
+ > Struts2【1】了解、入门与部署Sturts2
+ ## [SSM框架(定义、作用、工作原理及使用方法)](https://blog.csdn.net/weixin_44495678/article/details/100899141)
+ > SSM框架(定义、作用、工作原理及使用方法)
 # PM 
- ## [产品经理入职新公司，首先做什么？](http://www.woshipm.com/pmd/2881314.html)
- > 新入职的产品经理马上就要埋头苦干吗？不，还有更重要的事情，请看——产品经理在入职新公司后的1-3个月内是非常关键的时期，有不到1个月匆匆离职的，也有深耕下来成为...
- ## [我和领导意见不一致，怎么办？](http://www.woshipm.com/zhichang/2881487.html)
- > 相信在职场中，你一定有和领导意见不一致的时候，那是坚持自己的意见还是听从领导的指令呢？本文将为你带来一些启发与思考。有时候 ，真的很羡慕研发，因为他们的工具...
- ## [亿级APP收入连续翻倍的产品思路(1)：如何提升购买成功转化率](http://www.woshipm.com/operate/2870524.html)
- > 我们的应用是一个有亿级用户的订阅型工具类APP，我接手这个应用已经5年多了，从开始的小步探索到后面大步开拓，从商业化初步探索到营收飞速提升，积攒了很多非常有效的...
- ## [进大厂必读：京东—产品经理主观题解析](http://www.woshipm.com/zhichang/2874025.html)
- > 产品经理的求职过程中，笔试是第一块敲门砖，笔者整理了历年京东产品经理主观题目，并附有详细解析，正在求职的产品汪们不要错过。2016 题目一如果你作为产品经理，...
- ## [转岗产品经理的这5年，我的经验和看法](http://www.woshipm.com/pmd/2882083.html)
- > 那些凌驾众生之上的才华，如果只会让人变得自负冷漠和对生活充满了距离感，那还真不如只是一个温暖的凡人，活在人间烟火里，和所有有情有义的生命在一起混为一谈。——摘...
- ## [客服系统规划02：ASR+NLP赋能舆情监控](http://www.woshipm.com/pd/2821074.html)
- > 客服系统规划第二弹——对于其中具体的流程和业务功能逻辑，笔者在本文作了详细的阐述，希望对读者有所帮助。上篇文章通过产品原型图的形式总体介绍了NLP技术在客服行业...
- ## [高级产品经理进阶：从点子到产品必不可少的13件事](http://www.woshipm.com/pmd/2881365.html)
- > 本文梳理了笔者当「高级产品经理」时的关键事项与步骤，最后汇总成了下文的13件事和大家分享，希望大家能更快完成进阶。很多同学做产品经理不太清楚自己的价值，总是...
- ## [阿里系小程序矩阵“上线”的五点思考](http://www.woshipm.com/it/2880281.html)
- > 支付宝小程序上线一年，支付宝小程序生态形成庞大矩阵，似有链接一切的趋势。未来，这个生态矩阵还将不断扩展。支付宝小程序上线一周年后，首个年度峰会在杭州举办。...
- ## [线上课程 | 大三学生的他，如何拿到新浪、京东的产品offer？](http://www.woshipm.com/active/2873747.html)
- > 我叫Daniel，河北某大学大三学生，来自一个陕西三线城市的普通教师家庭。初次接触产品设计是在我大一的时候，我作为航模社飞行组组长，带领组员用CAD制图和3D打印机做...
- ## [思考总结：互联网的技术团队应该如何建设](http://www.woshipm.com/zhichang/2881038.html)
- > 本文是我在2012年开始从企业信息部门出来负责去做互联网业务时，作为当时的技术负责人对于互联网技术团队的建设的一些思考。从一个领域跳到另外一个领域，如何做好角色...
+ ## [运营最该了解的不是用户，而是产品](http://www.woshipm.com/operate/2883875.html)
+ > 做运营的先别急着谈用户，产品才是第一步。藥丸之前跟大家一直分享的都是关于运营的内容，众所周知运营是一个跟用户接触很紧密的工作，内容也好、活动也好，甚至是用...
+ ## [AI产品经理必修课：如何构建推荐系统](http://www.woshipm.com/pmd/2882385.html)
+ > 本文简单介绍了什么是推荐系统、如何构建推荐系统，适合希望成为人工智能产品经理的产品新人阅读。内容框架一、什么是推荐系统推荐系统在我们的生活中无处不在：淘...
+ ## [中石化卖咖啡：开咖啡店，其实并不是一个好生意](http://www.woshipm.com/chuangye/2883341.html)
+ > 9月3日，中石化集团旗下的易捷便利店发布了自己的咖啡品牌：易捷咖啡。中石化加油站，正式进军咖啡行业，开始卖咖啡了。首批易捷咖啡落户于苏州的9家加油站，有三种不...
+ ## [风口遗猪，共享充电宝还是门持久的好生意吗？](http://www.woshipm.com/it/2883708.html)
+ > 共享经济风口遗猪，共享充电宝还能飞多久？共享单车已经告别烧钱时代，共享充电宝也悄然涨价。近日，共享充电宝使用费从每小时1-2元涨到每小时3-4元，个别场景甚至达...
+ ## [微信iOS新版发布，这些设计细节你注意了吗？](http://www.woshipm.com/pd/2881204.html)
+ > 昨天微信更新了IOS的新版本，有几项比较明显的设计细节做了修改，今天作者就和大家一起聊聊具体的修改点和我对这些修改的思考。废话不多说我们直接来看图：一、表情...
+ ## [电商后台：商品管理系统](http://www.woshipm.com/pd/2879381.html)
+ > 前面介绍了根据商品流转所涉及的系统模块，供应商与合同的管理已经总结过，所以本篇继续写一下商品管理模块。关于商品管理系统的总结介绍在网能够搜索出好多，这里也...
+ ## [互联网公司的年轻高管们](http://www.woshipm.com/it/2883217.html)
+ > 互联网、年轻、高管，几个关键词组成了一幅精英画像，支撑这幅画像的是绝对的成功。2011年11月20日，梳着中分、迈着外八字、穿着一件没扣扣子衬衫的罗永浩跑到西门子...
+ ## [转型教育的互联网公司，那些必须掉过的坑](http://www.woshipm.com/pmd/2883158.html)
+ > 笔者结合自己在技术产品转型为教育公司的工作经历，总结了关于产品、运营、组织架构的三个坑。差不多4个月前，我入职了一家互联网公司。当时它正准备从技术产品转型...
+ ## [B端产品的建设过程中的5个阶段](http://www.woshipm.com/pd/2160130.html)
+ > 笔者从实际的工作实践出发，对于B端产品整体的建设历程进行了详细地分析与介绍，供大家参考学习。绩效管理系统是公司绩效管理体系落地实施的重要工具，2年前刚从C端产...
+ ## [网络神曲的20年](http://www.woshipm.com/it/2882279.html)
+ > 有趣的是，我们在稍加整理近20年的各种“神曲”后发现，“神曲”始于东北，如今又回归于东北，在这个“闭环”之中，神曲们也跟随时代发生了新的变化。有人说《野狼disco》是...
  ## [配色指南｜你知道如何正确使用红色与绿色吗？](http://www.chanpin100.com/article/109532)
  > 红色与绿色的常用场景介绍
  ## [数据产品经理埋点案例实操文档](http://www.chanpin100.com/article/109530)
