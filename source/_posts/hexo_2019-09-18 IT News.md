@@ -1,7 +1,7 @@
 ---
 title: 2019-09-18 IT News
 copyright: true
-date: 2019-09-18 10:01:23
+date: 2019-09-18 12:01:42
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,55 +68,65 @@ LG&#26174;&#31034;&#22120;&#20844;&#21496;&#23459;&#24067;&#35009;&#21592;&#6529
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [软银5G计划提速丨特斯拉扩建上海工厂\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568772005&ver=1859&signature=zvP5yOlft-YDJnvFIcPcx1sYVjJlxxw5lVKhtWS3vxhBupZtSMrZpjQbgX0A6IeAnpadw*IA4J3*P7WJ*C3wkqplrCv2eVpomjSz7kSJ0XUiJfD*nn4qq1qHCI1fB54B&new=1)
- > 9月17日丨周二【Do说】编辑 | 赵艾虎软银5G计划提速：欲2020年实现商用，2023年初步建成据日经新闻消息称，日本电信运营商软银公司原本计划在截至2025年3月的财年结束前，在日本各地部署1.121万个基站，覆盖日本...
- ## [上WiFi万能钥匙免费领WiFi安全险，最高赔付10万元!](http://mp.weixin.qq.com/s?src=11&timestamp=1568772005&ver=1859&signature=FYDDj1zvdtIck0rCF0xiwHBj-D5-TLyYiyP-tLPUBXI1DjWZqg-5CiQZRM4nZSuj9*oP52BczQvazYG8VjqTjyFnHnLu0UpJRSfWsLhYn-Hk-4nrsgi8JLdLQuzQ4-21&new=1)
- > 叮咚，您的好友钥钥为您送上一份迟到的中秋礼物！ 所有人都能免费领取WiFi安全险 ，最高赔付10万元！领取后每人会有一份保单，写你的名字，费用我们来出！简单说，当你在通过WiFi万能钥匙连接公共WiFi时，如发生...
- ## [\[科技早报7点整\]比尔盖茨称科技巨头不应该被分拆 惠普打印机被爆收集用户数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1568772005&ver=1859&signature=fj-OqTO*BsDfH7MGAAWTaHD5aJ8zBqrJYEl8EnNWJ6JlusH0T1VPvDsxmXAguvsZkfJTqWXp0gQrnIYiQe5VR94wGmOtpsh5hqnc1XewCw0TrXVEyoKTKcT796gh75Ff&new=1)
- > 早上好，科技圈【一度蜜科技早报】第593期1.江苏联通部分用户手机彩铃变成了5G广告 有报道称，江苏联通部分用户手机免费彩铃变5G广告  。对此，江苏联通回应，“目前选择默认炫铃的用户铃声已更换成联通的主题曲...
- ## [最新进展!NB-IoT连接数突破6000万，月增量超过2G连接](http://mp.weixin.qq.com/s?src=11&timestamp=1568772005&ver=1859&signature=ra4dTeYapa6eujFla4V4sbWLLT9zirTw0z0dn6Hljk8og5OjxXl41UfZnALnLN9D1YMJtvt8j51C9XUcQT2u0YqiRSBYWls0z-qqrJriAf4dSIMrFedvdNTghgGgOKnD&new=1)
+ ## [周杰伦新单曲创 QQ 音乐销售记录；微信更新：表情包选择栏改版；特斯拉或准备在投产前扩建上海工厂|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=r6IHeqZm0I1827ybBf7pPV9fWRFm-KPlH6IK1w5V3G03S7hee*ysd3iKX5bw3HLkM3z1j-AAISvYfdt5HO-38ytzMLydp5qQEarBN0Nd95al8d8oXxXKwFlrEna0VqKE&new=1)
+ > 微信更新：表情包选择栏大变样，新增小程序权限管理9 月 17 日，微信 7.0.7 for iOS 正式版更新。其中，点击小程序胶囊按钮中的「···」，用户可以发现新增了一个「回到首页」常驻按钮。值得一提的是，在小游...
+ ## [鸿蒙 OS 的到来，能为我们改变什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=EDH7DNTjJFbPC8gBgHGMvZqfSmefodsGZ38UWNNLWQ9JDikp5cMs7RzxrSUXE2c-ElwEkQN73X2KjLViGGrEUactoxDP5QkTVG5FSI8e4rzuCyuZ1EtuSLp0n4e3le9k&new=1)
+ > 作者 | 屠敏出品 | CSDN（ID：CSDNnews）「鸿蒙初辟原无姓，打破顽空需悟空」，在国产自研操作系统短缺的窘境之下，天惊一声雷，「鸿蒙」踏风来。回首上个月的技术圈，最值得业界浮称流说的无疑是 8 月 9 日华为...
+ ## [拿什么拯救你?日益缺失的网络空间“安全感”](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=hh7NpEvIgvvU6XTjlT6v3QnUXlqbDe493SIMgQj1-OYnijAkBfrc-i1SVDwqyDTuzF*wqqBFTCbMbzrPStHROfgxnlcTU*C3Yj371EKfzjDto4gsElId7OrO-fDbqbdB&new=1)
+ > 黑客攻击、信息泄露、商业诈骗……网络空间“安全感”哪里找？“没有网络安全就没有国家安全。”昨日，第六届国家网络安全周在天津正式开幕，此前习近平主席曾对此作出重要指示：要坚持网络安全教育、技术、产业...
+ ## [华为首次发布整体计算战略，推出全球最快AI训练集群Atlas 900](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=QX-ZXlwMEOL1J3jBXk6d2RFQzcNgTyjkNeUj7gqlMZb4wBBPwvrSV3aVWi-vi08vvfLnT31N8YJhCKX7XnaR8f3jxAVDx1fpZU7HBqR5zUPOpfQZCgXdSm*X7IPabOX8&new=1)
+ > 9月18日，上海，第四届华为全联接大会开幕，华为首次发布计算战略，基于架构创新、投资全场景处理器族、有所为有所不为的商业策略、构建开放生态进行布局，计算产业新的大航海时代由此开启。同时，华为重磅发布...
+ ## [\[工博会专题\]赋能中国制造持续变革 工业互联网之春秋大计](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=8u7Ym8RleqtgT0roLHFyzKGiqtWVBfIZWgR7zUV18fgt*vY442fdcxwaKsSoWtDSOnav7u7EWR2c9QXeRECW6K8-cb1uuq1TJXCIiB1BOo*brtKf38nWoqS2xbqauC5I&new=1)
+ > （图片来源：DIGITIMES）前言互联网诞生已有半个世纪，近40亿的全球一半人口，俨然已成为这片数字融网新大陆的“新移民”。在数字经济发展大潮中，裹挟着智能制造大势，工业巨头向互联网发展，互联网巨头也有心...
+ ## [最新进展!NB-IoT连接数突破6000万，月增量超过2G连接](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=ra4dTeYapa6eujFla4V4sbWLLT9zirTw0z0dn6Hljk8og5OjxXl41UfZnALnLN9D7xMqASv*IJu8gt*sU6GjCv2FhoeEROSwAcpDTBP20yTOzEtCuCAUmlKrrNLWtGh6&new=1)
  > 近期，根据相关通信行业媒体发布的最新统计数据，NB-IoT的用户数正式突破6000万，其中NB-IoT燃气表和NB-IoT水表用户数均超过1000万大关。 整体看，在模组成本不断降低以及成5G候选技术的刺激下，NB-IoT这个低功...
- ## [苹果发布会漏掉的这个「6」能帮你省下一笔话费。](http://mp.weixin.qq.com/s?src=11&timestamp=1568772005&ver=1859&signature=tx2ohGG9IMbabnFdWh7mLxKId7unrrbR0ImyNci*vYaooxYtjKuJskn4UtGIKfoq7or8MABlv5Z3co7iByCN75zr7wFrImYv5JUWAHXWudV9xkAekhMDXYFL8AtmNlBF&new=1)
+ ## [\[科技早报7点整\]比尔盖茨称科技巨头不应该被分拆 惠普打印机被爆收集用户数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=fj-OqTO*BsDfH7MGAAWTaHD5aJ8zBqrJYEl8EnNWJ6JlusH0T1VPvDsxmXAguvsZ*o8cL0rTOUpjj-cDOBtIJQjpkY-AbYoq**MG41Dabv58yZqJl5E6yArobPtcABff&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第593期1.江苏联通部分用户手机彩铃变成了5G广告 有报道称，江苏联通部分用户手机免费彩铃变5G广告  。对此，江苏联通回应，“目前选择默认炫铃的用户铃声已更换成联通的主题曲...
+ ## [苹果发布会漏掉的这个「6」能帮你省下一笔话费。](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=tx2ohGG9IMbabnFdWh7mLxKId7unrrbR0ImyNci*vYaooxYtjKuJskn4UtGIKfoqpXCblqyFbCsvfzTbAz6KT7Av7KrVBDJ88CG2T3UcrcY9ic4jgNzJL9TQs5m4vzQ2&new=1)
  > 最近，编辑部一位 199 斤的肥宅给自己办了一个 199 元的手机套餐。我们起初以为他是想调侃一下自己的体重，结果他却一本正经的告诉我们：「 和体重没关系，是流量根本不够用啊！」「 到处都是 WiFi 你连一下不就...
- ## [「酷公司」成长进行时](http://mp.weixin.qq.com/s?src=11&timestamp=1568772005&ver=1859&signature=r6IHeqZm0I1827ybBf7pPV9fWRFm-KPlH6IK1w5V3G1m9GIpTpIWEdQPODwrtHERdxGwKwrVUXss5O1N0q7zpvuptJpl-lywuZgnfZX5VS6eGNsJ8L46qIMCQdZCgHnL&new=1)
+ ## [软银5G计划提速丨特斯拉扩建上海工厂\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=zvP5yOlft-YDJnvFIcPcx1sYVjJlxxw5lVKhtWS3vxhBupZtSMrZpjQbgX0A6IeAnBakj60GhS4kKeHo4TgLxxn*wrvAOBO-ZAvRaOCk14ZmUS73Tmg1hTT8JQvFoZsy&new=1)
+ > 9月17日丨周二【Do说】编辑 | 赵艾虎软银5G计划提速：欲2020年实现商用，2023年初步建成据日经新闻消息称，日本电信运营商软银公司原本计划在截至2025年3月的财年结束前，在日本各地部署1.121万个基站，覆盖日本...
+ ## [上WiFi万能钥匙免费领WiFi安全险，最高赔付10万元!](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=FYDDj1zvdtIck0rCF0xiwHBj-D5-TLyYiyP-tLPUBXI1DjWZqg-5CiQZRM4nZSujSsxwM0*uBkFNWtSAWVvaX*SSxS1DTORrvVJ3m4IPnu961G0DeQI1t9q40jeKP1No&new=1)
+ > 叮咚，您的好友钥钥为您送上一份迟到的中秋礼物！ 所有人都能免费领取WiFi安全险 ，最高赔付10万元！领取后每人会有一份保单，写你的名字，费用我们来出！简单说，当你在通过WiFi万能钥匙连接公共WiFi时，如发生...
+ ## [「酷公司」成长进行时](http://mp.weixin.qq.com/s?src=11&timestamp=1568779205&ver=1859&signature=r6IHeqZm0I1827ybBf7pPV9fWRFm-KPlH6IK1w5V3G1m9GIpTpIWEdQPODwrtHERzQQYn-oSeCtKBAx4XZR7nOUH9QuGVNjnzW8OaplN2-NDgLmMjHaVnAhKab9RATWO&new=1)
  > 打开数字化的魔盒。「这次不同了」世界经济论坛创始人克劳斯·施瓦布郑重其事地提道，即使这句话在他看来已经是「被滥用的金句」。但似乎找不到更恰当的语句了。他形容的是我们当下所正在经历的变革，更确切地说...
 # IT 技术 
+ ## [What？老板让我开发一个亿级流量的大型网站](http://developer.51cto.com/art/201909/603099.htm)
+ > What？老板让我开发一个亿级流量的大型网站
+ ## [超原版速度110倍，针对PyTorch的CPU到GPU张量迁移工具开源](http://news.51cto.com/art/201909/603048.htm)
+ > 超原版速度110倍，针对PyTorch的CPU到GPU张量迁移工具开源
+ ## [看懂这十步，8岁的小朋友都能理解深度学习](http://ai.51cto.com/art/201909/603068.htm)
+ > 看懂这十步，8岁的小朋友都能理解深度学习
  ## [如何允许远程连接到MySQL数据库服务器？](http://os.51cto.com/art/201909/603063.htm)
  > 如何允许远程连接到MySQL数据库服务器？
+ ## [13个网络管理员必须尝试的开源网络监控工具](http://developer.51cto.com/art/201909/603073.htm)
+ > 13个网络管理员必须尝试的开源网络监控工具
+ ## [算法 | 深入理解递归，是你误解了递归](http://developer.51cto.com/art/201909/603102.htm)
+ > 算法 | 深入理解递归，是你误解了递归
+ ## [作为初创公司的第一位数据工程师，我学到了什么](http://news.51cto.com/art/201909/603049.htm)
+ > 作为初创公司的第一位数据工程师，我学到了什么
  ## [1.3万亿条数据查询如何做到毫秒级响应？](http://database.51cto.com/art/201909/603016.htm)
  > 1.3万亿条数据查询如何做到毫秒级响应？
- ## [Adobe实习生的智能景深算法：2D图片3秒变立体，变换视角流畅自然](http://news.51cto.com/art/201909/602993.htm)
- > Adobe实习生的智能景深算法：2D图片3秒变立体，变换视角流畅自然
- ## [解锁设计优质API的五种秘籍](http://developer.51cto.com/art/201909/602985.htm)
- > 解锁设计优质API的五种秘籍
- ## [如何让运维不再当落后技术的背锅侠？](http://os.51cto.com/art/201909/602989.htm)
- > 如何让运维不再当落后技术的背锅侠？
- ## [当万物互联生活如约而至，谁来守护信息安全？](http://iot.51cto.com/art/201909/602999.htm)
- > 当万物互联生活如约而至，谁来守护信息安全？
- ## [如何使用Docker-Compose命令](http://developer.51cto.com/art/201909/602987.htm)
- > 如何使用Docker-Compose命令
- ## [软件架构五大原则，确保你的项目100%成功](http://developer.51cto.com/art/201909/603000.htm)
- > 软件架构五大原则，确保你的项目100%成功
- ## [简述网络安全的发展与未来](http://netsecurity.51cto.com/art/201909/603096.htm)
- > 近日，我国举办网络安全宣传周、提升全民网络安全意识和技能，是国家网络安全工作的重要内容。随着互联网技
- ## [腾讯万亿级大数据组件 TubeMQ 正式开源](http://news.51cto.com/art/201909/603091.htm)
- > 近日，在 ApacheCon 2019 上，腾讯开源管理委员会委员、腾讯开源联盟主席、Apache 软件基金会 Member 堵俊
- ## [Oracle 推出了完全自治的操作系统](http://news.51cto.com/art/201909/603090.htm)
- > Oracle 推出了一个完全自治的操作系统 Oracle Autonomous Linux，Autonomous Linux 是以 Oracle Linux 为基
- ## [架构秘笈：移花接木，使用MySQL模拟Redis](http://network.51cto.com/art/201909/603092.htm)
- > 这年头，你看到的东西未必就是你认为的东西。一个mysql协议的后面，可能是tidb;一个linux机器后面，可能是
- ## [Wi-Fi 6 认证，这里有 6 个值得关注的问题！](http://news.51cto.com/art/201909/603093.htm)
- > 距离 Wi-Fi 6 的公布已有近一年的时间，这一年里，与 Wi-Fi 6 相关的消息层出不穷，不过，那些都只是一些与
- ## [微服务治理与统计分析](http://developer.51cto.com/art/201909/603089.htm)
- > 微服务架构下，服务拆得越细，服务的粒度越小，可组装性就越好；与之相对的服务之间的调用关系就会变复杂，
- ## [微软开源 MSVC 的 C++ 标准库](http://news.51cto.com/art/201909/603094.htm)
- > 微软宣布开源它实现的 C++ 标准库（STL），源代码托管在 GitHub 上，采用 Apache License v2.0 with LLVM E
- ## [网络钓鱼攻击在2019年呈现持续增长趋势](http://netsecurity.51cto.com/art/201909/603087.htm)
- > 如今，网络安全形势日趋严峻，层出不穷的网络钓鱼攻击不仅可以托管各种恶意软件和勒索软件攻击，而且更糟糕
- ## [从TCP/IP协议谈Linux内核参数优化](http://os.51cto.com/art/201909/603086.htm)
- > 在硬件资源有限的情况下，最大的压榨服务器性能，提高服务器的并发处理能力，是很多技术人员思考的问题，除
- ## [余额并发扣减一致性，能否使用Redis事务？](http://zhuanlan.51cto.com/art/201909/603085.htm)
- > 文章非常多朋友留言问，能不能把余额放到reids里，利用redis的事务性来扣减余额。今天，就这个问题简单的说
+ ## [互联网为什么物联网设备管理很重要？](http://iot.51cto.com/art/201909/603110.htm)
+ > 随着物联网的兴起，对物联网设备管理的需求将达到顶峰。每个物联网设备的基础都是数据，随着物联网设备数量
+ ## [物联网时代的大数据转型](http://iot.51cto.com/art/201909/603109.htm)
+ > 为什么我们不能投入资源来使设备智能化？每台设备都在自身进行必要的智能化，其输出接口只向外界提供可操作
+ ## [华为四大举措布局计算战略，重磅推出新品AI训练集群Atlas 900](http://network.51cto.com/art/201909/603108.htm)
+ > 华为副董事长胡厚表示，“我们面临的是一个2万亿美元的计算产业大蓝海，华为坚定不移地投入计算产业，通
+ ## [如何构建和维护多云安全策略](http://cloud.51cto.com/art/201909/603107.htm)
+ > 企业在采用多个云计算服务提供商的云服务时，考虑云平台和每个云服务的具体情况以保持安全性至关重要。
+ ## [以智能为核心的数据中心网络安全策略](http://netsecurity.51cto.com/art/201909/603105.htm)
+ > 网络安全领域如今正处在向智能解决方案转变的早期阶段。人工智能和机器学习已经在数据中心产生巨大影响，这
+ ## [了解 TiDB 技术内幕――数据是如何存储的](http://stor.51cto.com/art/201909/603106.htm)
+ > 数据库、操作系统和编译器并称为三大系统，可以说是整个计算机软件的基石。其中数据库更靠近应用层，是很多
+ ## [负载均衡与反向代理（Nginx/OpenResty）](http://server.51cto.com/sOS-603103.htm)
+ > 我们使用Nginx时，大多数场景下使用的都是七层的HTTP负载均衡(ngx_http_upstream_module)。在1.9.0版本以
+ ## [好文分享：EXT文件系统机制原理详解](http://os.51cto.com/art/201909/603104.htm)
+ > 文章有些长，但是作者总结的非常好，能学到很多技术细节知识。请大家耐心阅读。将磁盘进行分区，分区是将磁
+ ## [如何用Excel快速生成SQL语句，用起来真的很爽](http://database.51cto.com/art/201909/603100.htm)
+ > Excel的公式自动生成想必大家都知道了，就是写好一个公式后直接往下拖，就可以将后面数据的公式自动生成。
+ ## [MySQL 中常见的字符串函数应用详解](http://database.51cto.com/art/201909/603098.htm)
+ > 在前面若干章节中，我们介绍了SQL的基础与高阶语法，接下来，我们将分四个章节，介绍MySQL中常见的函数应用
  ## [讲给后台程序员看的前端系列教程(38)——事件处理](https://blog.csdn.net/lfdfhl/article/details/100762166)
  > 讲给后台程序员看的前端系列教程(38)——事件处理
  ## [体检时常有的几个疑问，你可能想过就忘了](https://blog.csdn.net/weixin_36250635/article/details/100815612)
@@ -125,6 +135,8 @@ LG&#26174;&#31034;&#22120;&#20844;&#21496;&#23459;&#24067;&#35009;&#21592;&#6529
  > 在Java、Python横行其道的市场，低调的c++程序员们都在干什么？
  ## [Spring Cloud同步场景分布式事务怎样做？试试Seata](https://blog.csdn.net/zlt2000/article/details/100876202)
  > Spring Cloud同步场景分布式事务怎样做？试试Seata
+ ## [Git-【技术干货】工作中Git的使用实践](https://blog.csdn.net/CSDN___LYY/article/details/100939749)
+ > Git-【技术干货】工作中Git的使用实践
  ## [2所非211院校挺进全球高校600强，甩开一众985 | 泰晤士世界大学排行榜出炉](https://blog.csdn.net/fendouaini/article/details/100910368)
  > 2所非211院校挺进全球高校600强，甩开一众985 | 泰晤士世界大学排行榜出炉
  ## [接班马云的为何是张勇？](https://blog.csdn.net/csdnnews/article/details/100840853)
@@ -145,57 +157,73 @@ LG&#26174;&#31034;&#22120;&#20844;&#21496;&#23459;&#24067;&#35009;&#21592;&#6529
  > 我用数据分析，揭开了中国男篮最后的遮羞布
  ## [算法高级（20）-集群容错算法](https://blog.csdn.net/m0_37609579/article/details/100747852)
  > 算法高级（20）-集群容错算法
- ## [TED | 别让任何人打乱你人生的节奏](https://blog.csdn.net/dataiyangu/article/details/100652321)
- > TED | 别让任何人打乱你人生的节奏
+ ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
+ > 作者 | 屠敏出品 | CSDN（ID：CSDNnews）「鸿蒙初辟原无姓，打破顽空需悟空」，在国产自研操作系统短缺的窘境之下，天惊一声雷，「鸿蒙」踏风来。回首上个月的技术圈，最值得业界浮称流说的无疑是 8 月 9 日华为开发者大会 2019（简称 HDC 2019）上公开的「鸿蒙 O...
 # 人工智能 
- ## [android属性动画](https://blog.csdn.net/FortM/article/details/93635270)
- > android属性动画
- ## [Android进阶——性能优化之一种更高效更轻量的序列化方案Protocol Buffer完全攻略（十一）](https://blog.csdn.net/CrazyMo_/article/details/94592297)
- > Android进阶——性能优化之一种更高效更轻量的序列化方案Protocol Buffer完全攻略（十一）
- ## [Android 9.0 适配指南](https://blog.csdn.net/qq_17766199/article/details/98336225)
- > Android 9.0 适配指南
- ## [Android聊天软件开发（基于网易云IM即时通讯）——发送视频消息（六）](https://blog.csdn.net/qq_32090185/article/details/91960178)
- > Android聊天软件开发（基于网易云IM即时通讯）——发送视频消息（六）
- ## [关于Android 10.0适配，看这篇就够了](https://blog.csdn.net/weixin_40611659/article/details/95174124)
- > 关于Android 10.0适配，看这篇就够了
- ## [开发移动端项目在真机上面的调试方法](https://blog.csdn.net/weixin_43606158/article/details/99200443)
- > 开发移动端项目在真机上面的调试方法
- ## [Android学习笔记：Android基础知识点（不断更新中）](https://blog.csdn.net/MaybeForever/article/details/90612395)
- > Android学习笔记：Android基础知识点（不断更新中）
- ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
- > android studio安装教程
- ## [java.lang.SecurityException: Package com.***.*** is currently frozen!](https://blog.csdn.net/c603751448/article/details/91570334)
- > java.lang.SecurityException: Package com.***.*** is currently frozen!
- ## [未知的USB设备（设备描述符请求失败）的解决办法！！！！希望可以帮到你](https://blog.csdn.net/Knowledge_dai/article/details/90737855)
- > 未知的USB设备（设备描述符请求失败）的解决办法！！！！希望可以帮到你
- ## [飞Young任意路由器连接\[破解路由器限制\]](https://blog.csdn.net/Nocker888/article/details/88120469)
- > 飞Young任意路由器连接\[破解路由器限制\]
- ## [Android 悬浮窗功能的实现](https://blog.csdn.net/huangliniqng/article/details/95372212)
- > Android 悬浮窗功能的实现
- ## [Unity实现王者荣耀登陆界面动画背景](https://blog.csdn.net/aqa13973837572/article/details/99177020)
- > Unity实现王者荣耀登陆界面动画背景
- ## [Android Handler 内存泄漏问题](https://blog.csdn.net/zzw0221/article/details/94209323)
- > Android Handler 内存泄漏问题
- ## [Android学习笔记：WebView](https://blog.csdn.net/MaybeForever/article/details/96431439)
- > Android学习笔记：WebView
+ ## [Java 配 Shell 等于美酒加咖啡](https://blog.csdn.net/javaforwork/article/details/100912481)
+ > Java 配 Shell 等于美酒加咖啡
+ ## [5G IC测试利器——TS-960e-5G](https://blog.csdn.net/WinterNeil/article/details/100915609)
+ > 5G IC测试利器——TS-960e-5G
+ ## [山东大学操作系统课设](https://blog.csdn.net/zzc_zhuyu/article/details/100812913)
+ > 山东大学操作系统课设
+ ## [在VMware虚拟机上安装Ubuntu18.04.3优麒麟版完整步骤及需要注意的问题](https://blog.csdn.net/qq_22695001/article/details/100915311)
+ > 在VMware虚拟机上安装Ubuntu18.04.3优麒麟版完整步骤及需要注意的问题
+ ## [利用Kali破解女神WiFi](https://blog.csdn.net/chest_/article/details/100895940)
+ > 利用Kali破解女神WiFi
+ ## [shell](https://blog.csdn.net/qq_40964554/article/details/100899628)
+ > shell
+ ## [ubuntu14.04安装jdk1.8](https://blog.csdn.net/u013365312/article/details/100921510)
+ > ubuntu14.04安装jdk1.8
+ ## [ubuntu16.04踩坑笔记4--python3.6安装的坑](https://blog.csdn.net/github_38060285/article/details/100891208)
+ > ubuntu16.04踩坑笔记4--python3.6安装的坑
+ ## [【Linux】一步一步学Linux系列教程汇总（更新中......）](https://blog.csdn.net/dengjin20104042056/article/details/94669639)
+ > 【Linux】一步一步学Linux系列教程汇总（更新中......）
+ ## [下载站制作--Day 1](https://blog.csdn.net/qq_43737375/article/details/100900301)
+ > 下载站制作--Day 1
+ ## [阿里云服务器ECS搭建后台（Windows Server 2012R2）](https://blog.csdn.net/wuyangyang_2000/article/details/100927358)
+ > 阿里云服务器ECS搭建后台（Windows Server 2012R2）
+ ## [graphviz.backend.ExecutableNotFound: failed to execute \['dot', '-Tpdf', '-O', 'Digraph.gv'\]问题解决](https://blog.csdn.net/qq_41997920/article/details/100928729)
+ > graphviz.backend.ExecutableNotFound: failed to execute \[&x27;dot&x27;, &x27;-Tpdf&x27;, &x27;-O&x27;, &x27;Digraph.gv&x27;\]问题解决
+ ## [Tomcat服务部署与Nginx负载均衡配置](https://blog.csdn.net/weixin_42480196/article/details/100881849)
+ > Tomcat服务部署与Nginx负载均衡配置
+ ## [zabbix使用snmp监控（亲测）](https://blog.csdn.net/weixin_43287508/article/details/100894300)
+ > zabbix使用snmp监控（亲测）
+ ## [【Linux】一步一步学Linux——fc命令(224)](https://blog.csdn.net/dengjin20104042056/article/details/100937319)
+ > 【Linux】一步一步学Linux——fc命令(224)
 # PM 
+ ## [产品经理入职新公司，首先做什么？](http://www.woshipm.com/pmd/2881314.html)
+ > 新入职的产品经理马上就要埋头苦干吗？不，还有更重要的事情，请看——产品经理在入职新公司后的1-3个月内是非常关键的时期，有不到1个月匆匆离职的，也有深耕下来成为...
+ ## [我和领导意见不一致，怎么办？](http://www.woshipm.com/zhichang/2881487.html)
+ > 相信在职场中，你一定有和领导意见不一致的时候，那是坚持自己的意见还是听从领导的指令呢？本文将为你带来一些启发与思考。有时候 ，真的很羡慕研发，因为他们的工具...
+ ## [亿级APP收入连续翻倍的产品思路(1)：如何提升购买成功转化率](http://www.woshipm.com/operate/2870524.html)
+ > 我们的应用是一个有亿级用户的订阅型工具类APP，我接手这个应用已经5年多了，从开始的小步探索到后面大步开拓，从商业化初步探索到营收飞速提升，积攒了很多非常有效的...
+ ## [进大厂必读：京东—产品经理主观题解析](http://www.woshipm.com/zhichang/2874025.html)
+ > 产品经理的求职过程中，笔试是第一块敲门砖，笔者整理了历年京东产品经理主观题目，并附有详细解析，正在求职的产品汪们不要错过。2016 题目一如果你作为产品经理，...
+ ## [转岗产品经理的这5年，我的经验和看法](http://www.woshipm.com/pmd/2882083.html)
+ > 那些凌驾众生之上的才华，如果只会让人变得自负冷漠和对生活充满了距离感，那还真不如只是一个温暖的凡人，活在人间烟火里，和所有有情有义的生命在一起混为一谈。——摘...
+ ## [客服系统规划02：ASR+NLP赋能舆情监控](http://www.woshipm.com/pd/2821074.html)
+ > 客服系统规划第二弹——对于其中具体的流程和业务功能逻辑，笔者在本文作了详细的阐述，希望对读者有所帮助。上篇文章通过产品原型图的形式总体介绍了NLP技术在客服行业...
+ ## [高级产品经理进阶：从点子到产品必不可少的13件事](http://www.woshipm.com/pmd/2881365.html)
+ > 本文梳理了笔者当「高级产品经理」时的关键事项与步骤，最后汇总成了下文的13件事和大家分享，希望大家能更快完成进阶。很多同学做产品经理不太清楚自己的价值，总是...
+ ## [阿里系小程序矩阵“上线”的五点思考](http://www.woshipm.com/it/2880281.html)
+ > 支付宝小程序上线一年，支付宝小程序生态形成庞大矩阵，似有链接一切的趋势。未来，这个生态矩阵还将不断扩展。支付宝小程序上线一周年后，首个年度峰会在杭州举办。...
  ## [线上课程 | 大三学生的他，如何拿到新浪、京东的产品offer？](http://www.woshipm.com/active/2873747.html)
  > 我叫Daniel，河北某大学大三学生，来自一个陕西三线城市的普通教师家庭。初次接触产品设计是在我大一的时候，我作为航模社飞行组组长，带领组员用CAD制图和3D打印机做...
  ## [思考总结：互联网的技术团队应该如何建设](http://www.woshipm.com/zhichang/2881038.html)
  > 本文是我在2012年开始从企业信息部门出来负责去做互联网业务时，作为当时的技术负责人对于互联网技术团队的建设的一些思考。从一个领域跳到另外一个领域，如何做好角色...
- ## [体验为王：新业态书店走红背后](http://www.woshipm.com/chuangye/2878653.html)
- > 新业态书店抓住年轻消费群体的心，成为网红打卡地，其背后的核心是什么？在书店买一些文创纪念品、捧一杯咖啡或带几本书回家，还有度过一个偷得浮生半日闲的慵懒下午...
- ## [干货！9个容易忽略的iOS与Android间的交互差异](http://www.woshipm.com/pd/2874658.html)
- > 因为现在大多数的PM/交互/UI设计师，在设计产品的时候都是以iOS为基准 思考产品上的各种功能逻辑、交互状态，而很容易忽略了某些功能在Android里并不能“一稿适应两端”，...
- ## [倒计时3天 | 2019广州产品运营年度大课，与腾讯、猫王收音机等名企的专家，聊实战新玩法](http://www.woshipm.com/active/2881313.html)
- > 如果被问到：中国的超一线城市有哪几个？以前大家都会脱口而出“北上广深”，但是近年来，却渐渐变成了“北上深”。每一站的大会在刷爆朋友圈时，总会听到广州的小伙伴说...
- ## [【用户拉新】新产品用户增长的核心思路](http://www.chanpin100.com/article/109525)
- > 用户拉新并不是产品完成之后才需要考虑的事情，也不只是销售、市场和运营人员的工作职责。拉新工作需要结合到产品研发的每一个步骤当中。接下来笔者讲会从确定用户范围、筛选种子用户、用户传播裂变三个方面逐一讲解。
- ## [与众不同的介绍之用户研究](http://www.chanpin100.com/article/109524)
- > 用户研究的方法琳琅满目，各种关于这些方法的介绍也比比皆是，这次来点不一样的，来点我所理解的用户研究
- ## [【连载】《用户增长方法论》（02）](http://www.chanpin100.com/article/109519)
- > 没有需求也就是产品与市场不匹配，其背后最根本的原因是找错了痛点，从而为用户提供了错误的解决方案（产品和服务），用户不需要当然，也就不会有用户增长，这也就是我们通常所说的“伪痛点”。用户不使用，只能沦为美丽的废品。
- ## [为什么中国经济不能过度虚拟化？](http://www.chanpin100.com/article/109517)
- > 相比于金融等所谓的虚拟经济，由于需要真金白银的重资产投入，实体制造业“套路”的成分少一些，“真诚”的成分多一些。
+ ## [配色指南｜你知道如何正确使用红色与绿色吗？](http://www.chanpin100.com/article/109532)
+ > 红色与绿色的常用场景介绍
+ ## [数据产品经理埋点案例实操文档](http://www.chanpin100.com/article/109530)
+ > 数据分析的过程常伴随AI的应用场景，要做数据分析，首先得有数据来源，数据来源众多，本文先分享产品经理如何在自家APP产品中获得数据的实操埋点文档，以旅行订酒店APP模块为例。
+ ## [单店营收平均提升达8%-10%，阿里系小程序矩阵“上线”，五个思考点](http://www.chanpin100.com/article/109529)
+ > 小程序生态依附在超级APP平台，矩阵平台的价值显而易见，可以将小程序的延伸到更多不同属性的平台上，开花结果。
+ ## [一文看懂决策树-Decisiontree（3个步骤+3种典型算法+10个优缺点）](http://www.chanpin100.com/article/109528)
+ > 决策树是一种逻辑简单的机器学习算法，它是一种树形结构，所以叫决策树。本文将介绍决策树的基本概念、决策树学习的 3 个步骤、3 种典型的决策树算法、决策树的 10 个优缺点。
+ ## [中秋节营销案例盘点：从品牌的借势套路中获得的营销启示](http://www.chanpin100.com/article/109527)
+ > 看完各大品牌中秋蹭热点的姿势，我总结出一套规律！
+ ## [微信QQ钉钉@操作的猜想](http://www.chanpin100.com/article/109526)
+ > 微信不能@所有人，qq群主管理员可以，钉钉不分权限，为什么？
+ ## [开发者眼中的2019苹果秋季发布会应该是这样的……](http://www.chanpin100.com/article/109514)
+ > 北京时间 9 月 11 日凌晨 1 点，令小伙伴们熬夜等待的苹果发布会如期在乔布斯剧院举行。作为科技界春晚，每年苹果发布会都是各行业的焦点。苹果在发布会上一如既往地推出了新的硬件和软件。新品亮相固然吸睛，但作为开发者需要关注新品发布背后的哪些变化呢？蝉大师为大家划重点。
 
     
