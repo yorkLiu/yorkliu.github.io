@@ -1,20 +1,22 @@
 ---
 title: 2019-09-19 IT News
 copyright: true
-date: 2019-09-19 08:01:18
+date: 2019-09-19 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“5G全球创新港”落地上海：双千兆奠基，十大行业应用由此启航](http://mp.weixin.qq.com/s?src=11&timestamp=1568851204&ver=1861&signature=ppvZLZKpbECMdRxmrBA1NipWoELxTucHB5BJEIsJ*iG*UdppTCOTPrqxdlbXmmvge5Zm42Hb1k0SAz0xgKR6Wu1FM3ssNY3S29FSqTDuk7uvWgPH2VvggN8kKMIEVe4V&new=1)
- > 过去三年，5G飞速发展，5G基站建设由点到线再到面。2017年，我们虽无5G基站，但能看到不少5G概念业务展示；2018年上半年，我们开始建设1-2个基站，进行初步5G+4K、5G+VR业务展示；2018年下半年，我们在北京、上...
- ## [华为「放开」5G 转战计算平台，目标 2 万亿美元新蓝海](http://mp.weixin.qq.com/s?src=11&timestamp=1568851204&ver=1861&signature=RRp-Oc1DbJCaSGsoZVw*crBbSGu0XreEqHYGDaE6c*TIIaL19X3NsqLy374Sg4OtDGgxtn1o2tUdF7zH5iRzyrqlEARVR*UpeqdA8zXYbA-rpV*A7fSJd1w7IbHXxX55&new=1)
+ ## [华为「放开」5G 转战计算平台，目标 2 万亿美元新蓝海](http://mp.weixin.qq.com/s?src=11&timestamp=1568854805&ver=1861&signature=RRp-Oc1DbJCaSGsoZVw*crBbSGu0XreEqHYGDaE6c*TIIaL19X3NsqLy374Sg4Oth5APWQQjANWHAa43zQr0qPYwIvzAjXS*ziSQaBZn8zVGPZpr6fjYCYShYcvpHzrh&new=1)
  > 联接世界，计算一切。上海，初秋的疾风吹散夏日的闷热，落地崩裂的银杏给街道染上一丝浓烈的气息，一瞬间让人感觉像是到了北京。世博展馆的会议室里，华为副董事长胡厚崑和公司云计算以及 AI 平台负责人坐成一排...
- ## [日本明知美国在5G竞争里失败，仍拒绝华为设备，或隐藏一个野心?](http://mp.weixin.qq.com/s?src=11&timestamp=1568851204&ver=1861&signature=SPODEGqSQMPwrW7r-zTwsbfueS1sV99aqZaKWWm3daid54CUl-W46ROqVojvr5b*-Nxzr3UHRZdde9HmK2Tkw8t4aUenpxdUSwVXJq1-tp28YBR1cCnwBx8xqrY7X7pW&new=1)
+ ## [“5G全球创新港”落地上海：双千兆奠基，十大行业应用由此启航](http://mp.weixin.qq.com/s?src=11&timestamp=1568854805&ver=1861&signature=ppvZLZKpbECMdRxmrBA1NipWoELxTucHB5BJEIsJ*iG*UdppTCOTPrqxdlbXmmvghtePQXGSVmAv8*jrgpg9B21qUg8HyYIV5tQI*ByoxSDP6Jp5zOVUb1RqwUGiP2bA&new=1)
+ > 过去三年，5G飞速发展，5G基站建设由点到线再到面。2017年，我们虽无5G基站，但能看到不少5G概念业务展示；2018年上半年，我们开始建设1-2个基站，进行初步5G+4K、5G+VR业务展示；2018年下半年，我们在北京、上...
+ ## [日本明知美国在5G竞争里失败，仍拒绝华为设备，或隐藏一个野心?](http://mp.weixin.qq.com/s?src=11&timestamp=1568854805&ver=1861&signature=SPODEGqSQMPwrW7r-zTwsbfueS1sV99aqZaKWWm3daid54CUl-W46ROqVojvr5b*PzfSTbPXk6A3PoaeUyCRr2RGlqOOE1Dvr2H35ShVDxQEuNspWCwb0A5FI2iCyrwQ&new=1)
  > 九一八事变88周年，照例要讲讲日本。　　日媒9月17日报道称，美方自8月13日起严禁联邦机构采购华为和中兴通讯的产品，而以1年为期限，采用这2家公司产品的民企也将被禁止与联邦机构进行生意往来。美国还一直...
- ## [以后划船不靠桨，也不靠浪，全靠意念!](http://mp.weixin.qq.com/s?src=11&timestamp=1568851204&ver=1861&signature=d2-0ug8ZCKnH0Hv-Iji0TF*Y*ipxA8b8UIbmrsCpEjHQFGgFK3fYgM3if-wWuUvY4F*FmegLO-UVYfyvfognVa1szVm8pnJuVpGH07PEQPxPinOXwTgFcjGSJ026NyuP&new=1)
+ ## [以后划船不靠桨，也不靠浪，全靠意念!](http://mp.weixin.qq.com/s?src=11&timestamp=1568854805&ver=1861&signature=d2-0ug8ZCKnH0Hv-Iji0TF*Y*ipxA8b8UIbmrsCpEjHQFGgFK3fYgM3if-wWuUvYsm8y0oLi4omghcBoD0MrftSsdeIjtPassWcmIaVo67hfYFKe5zjO0nbuJzFVLMt0&new=1)
  > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：小羊苏西&gt;&gt;&gt; 没有食物，没有蛀牙科幻电影有时就像是对未来的优质预言，灵光一闪，却能照进现实。电影《Upgrade》中，男主角Grey Trace和妻子所乘坐的无人驾驶汽车发生了...
 # IT 技术 
+ ## [Visual Studio Code vs. Visual Studio：该怎么选？](http://developer.51cto.com/art/201909/603064.htm)
+ > Visual Studio Code vs. Visual Studio：该怎么选？
  ## [What？老板让我开发一个亿级流量的大型网站](http://developer.51cto.com/art/201909/603099.htm)
  > What？老板让我开发一个亿级流量的大型网站
  ## [超原版速度110倍，针对PyTorch的CPU到GPU张量迁移工具开源](http://news.51cto.com/art/201909/603048.htm)
@@ -29,8 +31,20 @@ categories: IT NEWS
  > 算法 | 深入理解递归，是你误解了递归
  ## [作为初创公司的第一位数据工程师，我学到了什么](http://news.51cto.com/art/201909/603049.htm)
  > 作为初创公司的第一位数据工程师，我学到了什么
- ## [13个网络管理员必须尝试的开源网络监控工具](http://developer.51cto.com/art/201909/603073.htm)
- > 13个网络管理员必须尝试的开源网络监控工具
+ ## [抛开复杂的架构设计，MySQL优化思想基本都在这](http://database.51cto.com/art/201909/603168.htm)
+ > 笔者将优化分为了两大类：软优化和硬优化。软优化一般是操作数据库即可;而硬优化则是操作服务器硬件及参数
+ ## [2019年流行的6大DevOps工具](http://cloud.51cto.com/art/201909/603167.htm)
+ > DevOps作为对开发和运维人员都极为重要的系统，有望在2019年甚至更长时间内保持稳定增长。事实上，据IDC预
+ ## [2020年医疗行业面临的6大安全威胁](http://zhuanlan.51cto.com/art/201909/603166.htm)
+ > 医疗保健行业所做工作的关键性质使它们成为了攻击者的目标。以下是未来一年里医疗行业将会面对的六大安全威
+ ## [如何用人工智能解决社会问题](http://ai.51cto.com/art/201909/603165.htm)
+ > 人工智能赋予数据生命，让过去各种盘点和调查所搜集到的庞大资料，找到重新被利用的机会，透过数据驱动决策
+ ## [数据分析师必看，老司机带你认识 AB 常见的10个错误](http://bigdata.51cto.com/art/201909/603161.htm)
+ > 「没有数据，你只是一个有想法的人。」这是 W. Edwards 的依据名言，它表明，A/B 测试对于做出良好的商业决
+ ## [看一遍忘一遍的网络七层模型与TCP/UDP，再给你们普及一下](http://network.51cto.com/art/201909/603164.htm)
+ > 本文首先会对网络七层模型的功能进行介绍，然后会讲解传输层的两个重要协议：TCP和UDP协议，并且会着重讲解
+ ## [物联网时代掀起的6个安全问题，从智能咖啡机到车联网都可能被黑！](http://iot.51cto.com/art/201909/603163.htm)
+ > 物联网技术的前期采用者，除了加速物联网基础建设与创新技术应用导入之外，也面临更广泛的安全管理风险与更
  ## [讲给后台程序员看的前端系列教程(38)——事件处理](https://blog.csdn.net/lfdfhl/article/details/100762166)
  > 讲给后台程序员看的前端系列教程(38)——事件处理
  ## [体检时常有的几个疑问，你可能想过就忘了](https://blog.csdn.net/weixin_36250635/article/details/100815612)
@@ -45,10 +59,10 @@ categories: IT NEWS
  > 接班马云的为何是张勇？
  ## [每个程序员都应该警惕的文件上传漏洞！！](https://blog.csdn.net/weixin_43163769/article/details/100889294)
  > 每个程序员都应该警惕的文件上传漏洞！！
- ## [Spring Cloud（09）——服务端负载工具Zuul](https://blog.csdn.net/elim168/article/details/100944719)
- > Spring Cloud（09）——服务端负载工具Zuul
  ## [【算法设计与分析】09 递推方程与算法分析](https://blog.csdn.net/qq_37375427/article/details/100862665)
  > 【算法设计与分析】09 递推方程与算法分析
+ ## [Spring Cloud（09）——服务端负载工具Zuul](https://blog.csdn.net/elim168/article/details/100944719)
+ > Spring Cloud（09）——服务端负载工具Zuul
  ## [Python 实现大整数乘法算法](https://blog.csdn.net/weixin_43773093/article/details/100870092)
  > Python 实现大整数乘法算法
  ## [Java 函数优雅之道](https://blog.csdn.net/yunqiinsight/article/details/99826098)
@@ -76,37 +90,41 @@ categories: IT NEWS
  ## [刷爆抖音，4万好评！这本 Python 3.6 的书又断货了...](https://blog.csdn.net/csdnnews/article/details/100987987)
  > 「超级星推官/每周分享」是一个围绕程序员生活、学习相关的推荐栏目。CSDN出品，每周发布，暂定5期。关键词：靠谱！优质！本期内容，我们将抽1人送出由我司程序员奉为“超级神...
 # 人工智能 
- ## [Nginx入门到实战—01在Linux中用Docker方式安装Nginx](https://blog.csdn.net/q1372302825/article/details/100915012)
- > Nginx入门到实战—01在Linux中用Docker方式安装Nginx
- ## [大数据工程师手册：全面系统的掌握必备知识与工具](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/100839897)
- > 大数据工程师手册：全面系统的掌握必备知识与工具
- ## [Sqoop安装配置及Mysql->Hive数据导入实践](https://blog.csdn.net/YiWangJiuShiXingFu/article/details/100921026)
- > Sqoop安装配置及Mysql-&gt;Hive数据导入实践
- ## [ES报连接错误的处理：Connection error (check network and/or proxy settings)- all nodes failed; tried](https://blog.csdn.net/wx1528159409/article/details/100919397)
- > ES报连接错误的处理：Connection error (check network and/or proxy settings)- all nodes failed; tried
- ## [Tensorflow Serving入门之一(Ubuntu16.04下使用docker部署tensorflow serving与测试)](https://blog.csdn.net/weixin_37679531/article/details/100921486)
- > Tensorflow Serving入门之一(Ubuntu16.04下使用docker部署tensorflow serving与测试)
- ## [python项目部署](https://blog.csdn.net/feifeiyechuan/article/details/100930297)
- > python项目部署
- ## [持续构建：使用Alpine构建gcc与g++的容器化环境](https://blog.csdn.net/liumiaocn/article/details/100903476)
- > 持续构建：使用Alpine构建gcc与g++的容器化环境
- ## [ssh：connect to host localhost port 22: Connection refused解决方法](https://blog.csdn.net/lyc0424/article/details/100918033)
- > ssh：connect to host localhost port 22: Connection refused解决方法
- ## [【K8S】核心名词解释](https://blog.csdn.net/qq_33591903/article/details/100894910)
- > 【K8S】核心名词解释
- ## [MapReduce实现二次排序续（十）](https://blog.csdn.net/RivenDong/article/details/100938723)
- > MapReduce实现二次排序续（十）
- ## [MapReduce实现排序（八）](https://blog.csdn.net/RivenDong/article/details/100895502)
- > MapReduce实现排序（八）
- ## [MapReduce实现二次排序（九）](https://blog.csdn.net/RivenDong/article/details/100931729)
- > MapReduce实现二次排序（九）
- ## [MapReduce案例1](https://blog.csdn.net/UUSUU/article/details/100898950)
- > MapReduce案例1
- ## [Tez安装与使用](https://blog.csdn.net/C_time/article/details/100932361)
- > Tez安装与使用
- ## [IDEA上运行Hadoop WordCount V1.0 和 V2.0](https://blog.csdn.net/qq_36160730/article/details/100920175)
- > IDEA上运行Hadoop WordCount V1.0 和 V2.0
+ ## [Java 配 Shell 等于美酒加咖啡](https://blog.csdn.net/javaforwork/article/details/100912481)
+ > Java 配 Shell 等于美酒加咖啡
+ ## [5G IC测试利器——TS-960e-5G](https://blog.csdn.net/WinterNeil/article/details/100915609)
+ > 5G IC测试利器——TS-960e-5G
+ ## [山东大学操作系统课设](https://blog.csdn.net/zzc_zhuyu/article/details/100812913)
+ > 山东大学操作系统课设
+ ## [在VMware虚拟机上安装Ubuntu完整步骤及需要注意的问题（以VMware Workstation 15.1.0 Pro for Windows和Ubuntu18.04.3优麒麟版为例）](https://blog.csdn.net/qq_22695001/article/details/100915311)
+ > 在VMware虚拟机上安装Ubuntu完整步骤及需要注意的问题（以VMware Workstation 15.1.0 Pro for Windows和Ubuntu18.04.3优麒麟版为例）
+ ## [利用Kali破解女神WiFi](https://blog.csdn.net/chest_/article/details/100895940)
+ > 利用Kali破解女神WiFi
+ ## [shell](https://blog.csdn.net/qq_40964554/article/details/100899628)
+ > shell
+ ## [ubuntu14.04安装jdk1.8](https://blog.csdn.net/u013365312/article/details/100921510)
+ > ubuntu14.04安装jdk1.8
+ ## [ubuntu16.04踩坑笔记4--python3.6安装的坑](https://blog.csdn.net/github_38060285/article/details/100891208)
+ > ubuntu16.04踩坑笔记4--python3.6安装的坑
+ ## [【Linux】一步一步学Linux系列教程汇总（更新中......）](https://blog.csdn.net/dengjin20104042056/article/details/94669639)
+ > 【Linux】一步一步学Linux系列教程汇总（更新中......）
+ ## [下载站制作--Day 1](https://blog.csdn.net/qq_43737375/article/details/100900301)
+ > 下载站制作--Day 1
+ ## [阿里云服务器ECS搭建后台（Windows Server 2012R2）](https://blog.csdn.net/wuyangyang_2000/article/details/100927358)
+ > 阿里云服务器ECS搭建后台（Windows Server 2012R2）
+ ## [graphviz.backend.ExecutableNotFound: failed to execute \['dot', '-Tpdf', '-O', 'Digraph.gv'\]问题解决](https://blog.csdn.net/qq_41997920/article/details/100928729)
+ > graphviz.backend.ExecutableNotFound: failed to execute \[&x27;dot&x27;, &x27;-Tpdf&x27;, &x27;-O&x27;, &x27;Digraph.gv&x27;\]问题解决
+ ## [Tomcat服务部署与Nginx负载均衡配置](https://blog.csdn.net/weixin_42480196/article/details/100881849)
+ > Tomcat服务部署与Nginx负载均衡配置
+ ## [zabbix使用snmp监控（亲测）](https://blog.csdn.net/weixin_43287508/article/details/100894300)
+ > zabbix使用snmp监控（亲测）
+ ## [【Linux】一步一步学Linux——fc命令(224)](https://blog.csdn.net/dengjin20104042056/article/details/100937319)
+ > 【Linux】一步一步学Linux——fc命令(224)
 # PM 
+ ## [聊聊微信「浮窗」和「晒图」的交互设计](http://www.woshipm.com/pd/2882545.html)
+ > 笔者对微信「浮窗」和「晒图」功能进行了系统的分析并总结了自己对功能设计上的思考，与大家分享。前几天在图书馆看到一本很有意思的书——《中老年学微信》，这是一本...
+ ## [进大厂必读：百度—产品经理主观题解析](http://www.woshipm.com/it/2874195.html)
+ > 产品经理的求职过程中，笔试是第一块敲门砖，笔者整理了历年百度产品经理主观题目，并附有详细解析，正在求职的产品汪们不要错过。2011年 V1题目六选择微信最新版本...
  ## [倒计时2天| 2019产品运营大会直播入口正式开放](http://www.woshipm.com/active/2886330.html)
  > 本周末（9月21-22日）将在广州举办一年一度的【2019广州产品运营大会】，本次大会我们将从产品、运营、营销、品牌等多方面，来探讨能力变革的经验，观点与方法，为你带...
  ## [配色指南｜你知道如何正确使用红色与绿色吗？](http://www.chanpin100.com/article/109532)
