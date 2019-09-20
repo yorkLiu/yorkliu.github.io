@@ -1,20 +1,22 @@
 ---
 title: 2019-09-20 IT News
 copyright: true
-date: 2019-09-20 08:01:15
+date: 2019-09-20 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [从 0G 到 5G，「地图」对于交通工具的意义愈加不凡|极客考古](http://mp.weixin.qq.com/s?src=11&timestamp=1568937605&ver=1863&signature=U8cHoBQQUaagUVFxRX*AoeA*Q-9BspOdT-yhf6o9HqZ91*-lo23cbBXPnavBavfdJKqVwQa44BYloIJWPk1r29JNvHApgGofgGT5Ue5oZMvAcxuOmx1ynJm3V-hnv4Za&new=1)
- > 当人类的出行方式开始从两条腿向四条腿的牲口转变，也意味着出行半径的增加，识路记路等问题也随之而来。遇到问题总是要解决的，早期「地图」的出现也侧面证明了文明的进化。荆轲带着「督亢地图」去见秦王时，怎...
- ## [AORO遨游LTE5专网智能终端1.4G专网 1.8G专网轨道交通三防手机](http://mp.weixin.qq.com/s?src=11&timestamp=1568937605&ver=1863&signature=dUOH9X8Qe6KlPniLAjieZJRfIydgwImjzard3fzbjpfysNjoB-Z4RG0rADhAMUCFB2YRyC9FAsOf0cHMw7G*WYkjFB1aRpFof0WxKcjmO0F3EGwOHfWNoS-NmOcus0c6&new=1)
- > AORO遨游LTE5 1.4G1.8G LTE专网轨道交通手机　　AORO遨游LTE5专网轨道交通三防手机采用八核处理器、128GB机身存储、6GB运行内存、5.65英寸大屏智能三防终端、支持FHD+全高清屏幕，分辨率高达2160*108
- ## [IBM即将启用53量子位计算机丨Facebook推出Portal TV\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568937605&ver=1863&signature=Sw*GixdNKW6pBcNCPB6PvCU6nzGRQLKodE9zdgY8Rn6jR*RUbF*boiHg0M5kIPbHJY61ssynU8kUqOy2MuXb3ZjUI9izVQpVmKhxGsWCoCanL46C1Dr4eUw8G9eNZIVw&new=1)
- > 9月19日丨周四【Do说】编辑 | 赵艾虎IBM即将启用53量子位计算机，10月上线供外部使用IBM宣布，该公司将很快向IBM Q Network的客户提供一台53量子位的量子计算机。新系统定于10月中旬上线，它将是迄今可供外部使...
- ## [中国电信柯瑞文：5G的核心是用户!](http://mp.weixin.qq.com/s?src=11&timestamp=1568937605&ver=1863&signature=NWcF-vXlRps7psw1MKoAK0D9dOroQ81o*qXhgp6SediBxnKorUTKdC1ZtbDIlvFjkaIvocF0d1tpd0bkf60-gDDkEieHCRgNrwZdw0T4NenHZnAcSPRt1I0bnHU5JbE*&new=1)
+ ## [中国电信柯瑞文：5G的核心是用户!](http://mp.weixin.qq.com/s?src=11&timestamp=1568941205&ver=1863&signature=NWcF-vXlRps7psw1MKoAK0D9dOroQ81o*qXhgp6SedhMi9xgK5X0spNHsOJJ1t94aOj16-guCUbfdyByZVvK-4r5nuDnIh6ExcjKXC5wlmKKeRLPTeEwymJLrPfWoJlc&new=1)
  > 最近二十年科技发展的历程说明一个事实，网络的带宽决定行业繁荣度，网络进化的关键节点，也恰恰是互联网进化的重要里程碑。一个不得不承认的事实是，在互联网进化过程中，网络基础建设是不可缺少的一环。世纪之...
- ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1568937605&ver=1863&signature=jPNitRmrXRDYFuix4wSRB0VWpTADMzFlJEvwiwuUwfBUmfHzr3J-h1sxIqJN9dxB2BQZN9LjAM5QK2DufGTy5dxqW*edS4dWd7eaTi-yhJhu-Lq6sdl-3d3chHHRwrcQ&new=1)
+ ## [IBM即将启用53量子位计算机丨Facebook推出Portal TV\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1568941205&ver=1863&signature=Sw*GixdNKW6pBcNCPB6PvCU6nzGRQLKodE9zdgY8Rn70i8JW8hU1Oho6hy52A*tum0jkC64orQkdr3I62H92PxtAJIJoibHiYzbI5fQVvIi5tq-RITQVwyJFqkiLoPIJ&new=1)
+ > 9月19日丨周四【Do说】编辑 | 赵艾虎IBM即将启用53量子位计算机，10月上线供外部使用IBM宣布，该公司将很快向IBM Q Network的客户提供一台53量子位的量子计算机。新系统定于10月中旬上线，它将是迄今可供外部使...
+ ## [别着急买5G手机，可能明年你得把它扔掉?](http://mp.weixin.qq.com/s?src=11&timestamp=1568941205&ver=1863&signature=BPJlPmOC396cLBOaxTrioILmrx-JAH5ADiPIxcivO7Xe79i9xieHGXiQRrNEYRtvzZeQpnZbGAJsREhQVkrG8jTz7MOyVQE-FFXjyFZCkdDXnIKt1BPsgHfdzG55AujW&new=1)
+ > 编者按：5G现在是社会各界热议的话题。作为通信行业的从业者，掌握比普通民众多一点的知识，除了工作有需要，在生活中也会少些被“问住”的尴尬。为此，我们特邀特约专栏作家归田写了这个5G系列专栏，希望能从多...
+ ## [AORO遨游LTE5专网智能终端1.4G专网 1.8G专网轨道交通三防手机](http://mp.weixin.qq.com/s?src=11&timestamp=1568941205&ver=1863&signature=dUOH9X8Qe6KlPniLAjieZJRfIydgwImjzard3fzbjpfVqvnc-niWGOLP1Qu3lg18d*68rFrk92VH2aeYo1HnPH25pZbMyTFv9WQyWWiDmZt8SfIrD0DgYfI7UhrjLQ9H&new=1)
+ > AORO遨游LTE5 1.4G1.8G LTE专网轨道交通手机　　AORO遨游LTE5专网轨道交通三防手机采用八核处理器、128GB机身存储、6GB运行内存、5.65英寸大屏智能三防终端、支持FHD+全高清屏幕，分辨率高达2160*108
+ ## [从 0G 到 5G，「地图」对于交通工具的意义愈加不凡|极客考古](http://mp.weixin.qq.com/s?src=11&timestamp=1568941205&ver=1863&signature=U8cHoBQQUaagUVFxRX*AoeA*Q-9BspOdT-yhf6o9HqZ-cwqc9WtJsP7yc8yulhu-q8k7lyJgAK0ay8jDDTUuCNtAus89tNWs9LiJIlAo969Wm53a7fMaZIYXvWcn7dlC&new=1)
+ > 当人类的出行方式开始从两条腿向四条腿的牲口转变，也意味着出行半径的增加，识路记路等问题也随之而来。遇到问题总是要解决的，早期「地图」的出现也侧面证明了文明的进化。荆轲带着「督亢地图」去见秦王时，怎...
+ ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1568941205&ver=1863&signature=jPNitRmrXRDYFuix4wSRB0VWpTADMzFlJEvwiwuUwfD1Tb46LPNPzDSlbfyW7JzTLgYLpKZ-BUy38pXirwHFxjEgZPNpMdaCTLJo0ULhyBTp2TynH7qxDmow2UMtM2Ro&new=1)
  > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《企业领袖新思维》免费关注关注后回复 学习 免费领取：苏引华《总裁商业思维》课程视频你一定知道华为，但可能还不知道华为有多厉害。一句话说：华为去年...
 # IT 技术 
  ## [快来了解这五种热门的开发技能](http://developer.51cto.com/art/201909/603244.htm)
@@ -33,6 +35,16 @@ categories: IT NEWS
  > 这6种编码方法，你掌握了几个？
  ## [在生产环境中运行容器的“六要、六不要和六管理”](http://cloud.51cto.com/art/201909/603159.htm)
  > 在生产环境中运行容器的“六要、六不要和六管理”
+ ## [微信发布新版，有3个设计细节值得关注！](http://mobile.51cto.com/app-show-603254.htm)
+ > 前些天微信更新了 iOS 的新版本，有几项比较明显的设计细节做了修改。今天就和大家一起聊聊具体修改的功能
+ ## [编程须知：Python异常知多少以及如何处理？](http://developer.51cto.com/art/201909/603253.htm)
+ > 本文主要是认识python的异常有哪些类型，以及如何进行python异常处理？有一定的参考价值，有需要的朋友可以
+ ## [从 IPv4 到 IPv6 过渡，无法错过这些知识点](http://network.51cto.com/art/201909/603252.htm)
+ > 网络的设计大佬们想出了分层的设计,将各个功能分开,交付给不同的层,这样的好处是便于更新和维护(IPv6的到来
+ ## [面临网络安全风险，如何保护信息安全？](http://netsecurity.51cto.com/art/201909/603251.htm)
+ > 个人信息泄露事件频繁发生、网站遭到入侵导致数据被窃取、不小心掉入钓鱼网站的陷阱、扫描了恶意二维码中了
+ ## [基于Windows服务器下的文件备份实现方案](http://os.51cto.com/art/201909/603250.htm)
+ > 一般很多单位都有文件服务器备份的需求，并且常常是把很多服务器的文件自动备份到另外一台文件服务器 。
  ## [体检时常有的几个疑问，你可能想过就忘了](https://blog.csdn.net/weixin_36250635/article/details/100815612)
  > 体检时常有的几个疑问，你可能想过就忘了
  ## [TED | 怎样成为一个自律的人](https://blog.csdn.net/dataiyangu/article/details/101009972)
@@ -64,37 +76,41 @@ categories: IT NEWS
  ## [《机器学习》周志华西瓜书学习笔记（九）：聚类](https://blog.csdn.net/TeFuirnever/article/details/100847573)
  > 《机器学习》周志华西瓜书学习笔记（九）：聚类
 # 人工智能 
- ## [sass文件监听出现UTF-8问题(Encoding::CompatibilityError: incompatible character encodings: GBK and UTF-8)](https://blog.csdn.net/weixin_44198965/article/details/100940636)
- > sass文件监听出现UTF-8问题(Encoding::CompatibilityError: incompatible character encodings: GBK and UTF-8)
- ## [Sass - @extend指令](https://blog.csdn.net/weixin_44198965/article/details/100983372)
- > Sass - @extend指令
- ## [盒子模型（CSS重点）](https://blog.csdn.net/qq_45615778/article/details/100906176)
- > 盒子模型（CSS重点）
- ## [Vue事件总线、组件之间的传值](https://blog.csdn.net/liulanghan111/article/details/100935801)
- > Vue事件总线、组件之间的传值
- ## [两个月的前端学习历程](https://blog.csdn.net/qq_40770272/article/details/100918052)
- > 两个月的前端学习历程
- ## [MVC、MVP、MVVM 三种架构模式的区别](https://blog.csdn.net/bxqmz/article/details/100924320)
- > MVC、MVP、MVVM 三种架构模式的区别
- ## [什么是内存泄漏？什么操作会触发内存泄漏？](https://blog.csdn.net/bxqmz/article/details/100924403)
- > 什么是内存泄漏？什么操作会触发内存泄漏？
- ## [前端开发应知网站(强烈推荐！)](https://blog.csdn.net/weixin_43606158/article/details/91164392)
- > 前端开发应知网站(强烈推荐！)
- ## [前端—基础（8）-jQuery基础笔记（1）](https://blog.csdn.net/weixin_44786482/article/details/100914734)
- > 前端—基础（8）-jQuery基础笔记（1）
- ## [关于使用node进行文件处理的几种方式](https://blog.csdn.net/qq_24884955/article/details/100933074)
- > 关于使用node进行文件处理的几种方式
- ## [props  条件验证](https://blog.csdn.net/bxqmz/article/details/100924383)
- > props  条件验证
- ## [前端跨域及前后端交互验证](https://blog.csdn.net/bxqmz/article/details/100924514)
- > 前端跨域及前后端交互验证
- ## [清除浮动](https://blog.csdn.net/qq_45615778/article/details/100936062)
- > 清除浮动
- ## [html2canvas 和 Canvas2Image实现网页截屏下载图片功能（简单小例子）](https://blog.csdn.net/qq_43080569/article/details/100975280)
- > html2canvas 和 Canvas2Image实现网页截屏下载图片功能（简单小例子）
- ## [ejs 模板引擎   服务器端渲染](https://blog.csdn.net/bxqmz/article/details/100924437)
- > ejs 模板引擎   服务器端渲染
+ ## [Hyperledger Fabric环境搭建流程记录详解](https://blog.csdn.net/Dragonpigz/article/details/100917425)
+ > Hyperledger Fabric环境搭建流程记录详解
+ ## [币安合约交易规则详细解读](https://blog.csdn.net/biyouwosi/article/details/100978240)
+ > 币安合约交易规则详细解读
+ ## [以太坊搭建私有链](https://blog.csdn.net/csdlwzy/article/details/100877951)
+ > 以太坊搭建私有链
+ ## [DAPP开发者必看，WWD即将打造主流公链智能合约应用库！](https://blog.csdn.net/Mr_xialuo/article/details/100925346)
+ > DAPP开发者必看，WWD即将打造主流公链智能合约应用库！
+ ## [关于区块链技术的自我理解与认识](https://blog.csdn.net/hkiller1999/article/details/100866000)
+ > 关于区块链技术的自我理解与认识
+ ## [火星人许子敬是谁？HC超级社区怎么样？Hyper Capital超级节点](https://blog.csdn.net/HyperCapital/article/details/100937296)
+ > 火星人许子敬是谁？HC超级社区怎么样？Hyper Capital超级节点
+ ## [数字资产理财方式越发多样，普通人没有头绪？看看资深从业者怎么说](https://blog.csdn.net/mrRqAEr7ci9s2v0/article/details/100977981)
+ > 数字资产理财方式越发多样，普通人没有头绪？看看资深从业者怎么说
+ ## [全球比特币和区块链领域创业企业全景图](https://blog.csdn.net/weixin_44172023/article/details/100919498)
+ > 全球比特币和区块链领域创业企业全景图
+ ## [交易所总结](https://blog.csdn.net/u014277597/article/details/100930916)
+ > 交易所总结
+ ## [TOP Network项目周报：9月9日 - 9月15日](https://blog.csdn.net/TOP_Network/article/details/100934200)
+ > TOP Network项目周报：9月9日 - 9月15日
+ ## [4.2亿人民币| AssetBlock推出基于Algorand的投资平台，将可用Algo交换价值6000万美元的通证化房地产权益](https://blog.csdn.net/Block72/article/details/100923269)
+ > 4.2亿人民币| AssetBlock推出基于Algorand的投资平台，将可用Algo交换价值6000万美元的通证化房地产权益
+ ## [Beyond Compare 4秘钥](https://blog.csdn.net/qq_37389483/article/details/99965685)
+ > Beyond Compare 4秘钥
+ ## [大数据分析币圈动态： ETH、BTC、BCH每秒交易均呈负增长! 以太坊网络传播时间再缩短](https://blog.csdn.net/starzhou/article/details/100914786)
+ > 大数据分析币圈动态： ETH、BTC、BCH每秒交易均呈负增长! 以太坊网络传播时间再缩短
+ ## [比特币vs分布式账本vs以太坊vs区块链](https://blog.csdn.net/weixin_44172023/article/details/100919582)
+ > 比特币vs分布式账本vs以太坊vs区块链
+ ## [比特未来：2019年已过大半，如何正确的投资加密货币？](https://blog.csdn.net/BTCF_TOM/article/details/100920900)
+ > 比特未来：2019年已过大半，如何正确的投资加密货币？
 # PM 
+ ## [空降必读：如何在UGC社区型公司搭建运营体系框架](http://www.woshipm.com/operate/2890637.html)
+ > 本文笔者从具体的工作实践出发，结合案例等分享了在UGC社区平台搭建运营体系框架以及具体步骤的相关知识，供大家一同参考和学习。过去的九个月，我一直在负责社区产品...
+ ## [对产品经理来说，懂业务架构很重要！](http://www.woshipm.com/zhichang/2889373.html)
+ > 业务架构，这个听起来熟悉，细想又觉迷茫的词。随着企业信息化转型的深入，业务架构作为企业战略和IT战略的桥梁，作用日益凸显。一、业务架构笔者在以前的文章分享过...
  ## [报名开启 | 10月上海产品经理大会，我们向渴望改变的产品经理，发出邀请！](http://www.woshipm.com/active/2891166.html)
  > 在新的技术变革来临前，互联网行业正在经历一场漫长的等待。2019没有超大风口的惊喜，但我们还是看到局部的暖流活跃其中。越来越多的企业将注意力转向ToB行业，产业互...
  ## [产品经理周报第 84 期｜百度地图发布“语音定制功能”；淘宝上线热搜功能](http://www.woshipm.com/it/2890565.html)
