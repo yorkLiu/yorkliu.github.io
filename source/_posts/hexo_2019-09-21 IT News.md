@@ -1,20 +1,26 @@
 ---
 title: 2019-09-21 IT News
 copyright: true
-date: 2019-09-21 09:01:52
+date: 2019-09-21 10:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [3D打印还是需要库存?杜克大学教授给出了数学模型](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=m5J7u8vO4cfMRDng-ps-3RWiqan-bgGOF57XJAhNIjjYpKFvpmJzZigCBElGNtXxx9BUc7g3d6UMwtwyXXalCJiMESTi1peV7W7jtanDH2jrkNrlX5Ihn2-qJWNwnNA4&new=1)
- > 北卡罗莱纳州杜克大学福库商学院的教授Jeannette Song创建了一个数学模型，帮助公司平衡3D打印需求和备件存储之间的成本。在一篇名为“库存还是打印？3D打印对零部件行业的影响”论文中有所描述，该模型有助于识...
- ## [华为在广域网领域放大招：智简化方案加速企业数字化](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=QSmIK9GuQkx2lRKe1*dR6CaPMAQpezS6Ul6DHf6aQGugsv13RzEmRzTbfo81I-ie8Mm7kEomiOWbRxbzrLlf38Jav1OaQZ3yOlIcIdZ0wPebnazQZDCnAUK0w2AeMN6w&new=1)
- > 近年来华为智能IP网络业务保持高速发展，近十年收入增长5倍，2018年更是全球市场排名成为业界第一。华为智能IP网络得到越来越多用户选择的原因是什么？答案是持续不断根据客户需求推出创新方案。在9月18日到20日...
- ## [工信部要求11月10日完成携号转网部署，联通已在手机营业厅里开通相关功能](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=IMGyER4q9kv9zHq*B*Gs5iv4uvXUPBlfRoc9mWTjpvPku*65kGevZPNSucQGvOgobn0PQy7uIniR4q*9APr1GqO*ajn9nB-suavqHrduCsrsk2OJT2ewhUsKoDhiHLxv&new=1)
+ ## [给力!中国移动推出防骚扰电话神器，快看怎么用吧..](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=vBVYNBJ-*MuBkiMhFI*4Rn8TQx38o8ZdRAFdextLyMxO-feprhaxQdArW8HwSpA742b6Fdnd-gcHYs5VHfGTLdLoEV0YMM*Pq*fHaGcVt4DehY*iYS7B*YIWFqXoMCNZ&new=1)
+ > 为什么骚扰电话总是没完没了？今年，315晚会将它们曝光了！这些骚扰电话都是由机器人自动给消费者拨打的，无良商家是轻松了，消费者却颇为无奈。为了消除大家的困扰，中国移动推出了一项高频骚扰电话防护业务，...
+ ## [工信部要求11月10日完成携号转网部署，联通已在手机营业厅里开通相关功能](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=IMGyER4q9kv9zHq*B*Gs5iv4uvXUPBlfRoc9mWTjpvN-S4CKDS3s9maoXlghcL0LWeZBnSZ4R48L2u9qQJv74Q2xcBlaaQ1ZwviVwYkczUdYHpbYBR5gxLaZ*OUpvinG&new=1)
  > 近日中国联通手机营业厅 APP 中新增了一项 “携号转入” 功能，部分其他运营商用户可通过手机营业厅直接办理携号转网业务。据了解，目前此项经测试 “携号转入” 功能办理后需要捆绑腾讯天王卡或地王卡套餐。虽...
- ## [Google 开发者大会记，谷歌与你的距离更近了](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=TPN6H4I6Dwpk-TLx0zeGo-Kj6pFCkTlOPgrF-2YDl7WY-rYLidNpk9u2wySQi26QU4GgFqSjKjUFskyFXXpu357bTauaXtb6W-kyOUpmrMUtjoc78dPGRL0ICw9JByWm&new=1)
+ ## [华为在广域网领域放大招：智简化方案加速企业数字化](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=QSmIK9GuQkx2lRKe1*dR6CaPMAQpezS6Ul6DHf6aQGvmrl1CVGEfVFhfhGYZ-Xw3ocCy-IVFnSrItWDpWyi5*3I5e9FRRvMssV8MWINlrlCEvmaXexZMEuzeN7DsxNkq&new=1)
+ > 近年来华为智能IP网络业务保持高速发展，近十年收入增长5倍，2018年更是全球市场排名成为业界第一。华为智能IP网络得到越来越多用户选择的原因是什么？答案是持续不断根据客户需求推出创新方案。在9月18日到20日...
+ ## [\[科技早报7点整\]拼多多回应iPhone11跌破5000 工信部部长称4G对广大用户已够用……](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=62eoiB9-9avYPCfA7Uh-Xx77MtWsp*0b6W2h5MreyHVC8QzRj-HmJR4u-viIWn*7CeqRIcSuqcWv*o8QKTuq95IU9hQm11*cHuwseXt1hiJCFnL0la9PuRkPCW9mZ6-m&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第596期1.工信部点名美团、斗鱼等32款App越权搜集用户信息 二季度，工信部对61家互联网企业和51家手机应用商店的应用软件进行检查，发现32款应用软件和网站存在未经用户同意收...
+ ## [一个惊人消息背后的真相：为什么任正非敢卖5G技术给西方?美国敢买吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=rT6uMxAxLM77bIeMh3s0eSNeF3b5FVvc1knp1KQe1txgawYpukejguUx*cPalLw1sG0N5UTlXLODN20kDrMYYdiLUKhceNZxjM*62pB58EbAwZZFql2wSFpYNpn-U1ip&new=1)
+ > 美国政府全球抵制华为，这已经是旧闻了，但最近华为又爆出了一个惊人的消息——准备向全世界转让5G核心技术，而且是一次性交易，收购方一次性买断永久使用相关技术和知识产权的权利。9月10日，任正非接受英国媒...
+ ## [3D打印还是需要库存?杜克大学教授给出了数学模型](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=m5J7u8vO4cfMRDng-ps-3RWiqan-bgGOF57XJAhNIjiWYG3-4D-Ik6Wsbk2r*dTLPi7KcZ038ZgRn3ubjj2dV8kFgovu0klFWqDEc*aZ-v5Yf3OWiCCLg0wxZWt9ETJT&new=1)
+ > 北卡罗莱纳州杜克大学福库商学院的教授Jeannette Song创建了一个数学模型，帮助公司平衡3D打印需求和备件存储之间的成本。在一篇名为“库存还是打印？3D打印对零部件行业的影响”论文中有所描述，该模型有助于识...
+ ## [Google 开发者大会记，谷歌与你的距离更近了](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=TPN6H4I6Dwpk-TLx0zeGo-Kj6pFCkTlOPgrF-2YDl7XCeQfjLkj-cI3Lo7Tjf9-cD2oITDx1w4tH7loN-AakqjnJtxgWsVGzfMJ0Wk03Axwxwkz2nMX0hFegMJMz8Eqx&new=1)
  > 从TensorFlow，Android，Wear OS，到 ARCore，再到 Google Arts&amp;Culture，Google 跟你的关系更近了。「旋转、直立、伸长、长胖….」站在台上的人随意摆弄身姿，而他面前屏幕上的古老瓷器也跟着生
- ## [专访卢秉恒院士：国家增材制造创新中心成果丰硕，愿3D打印行业共发展](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=sSOzBmR0lbrWz8XK1cbbVOab1wPe04UsAejnXCcJUhuEufsEDihE1u6dGxPxIL7lusXVPLsZkIYGgmSG0gR5i*dtsLmewFEseTgASFvoB5Z43BRAdmGXIZuQYjSXC1AW&new=1)
+ ## [专访卢秉恒院士：国家增材制造创新中心成果丰硕，愿3D打印行业共发展](http://mp.weixin.qq.com/s?src=11&timestamp=1569031205&ver=1865&signature=sSOzBmR0lbrWz8XK1cbbVOab1wPe04UsAejnXCcJUhs7SfZhdIbwXKMf9Yt9gdeHIrQbIeH9uhpA*L2kGSiF-OrIkgK*Mc5cZhzIT9JVU4BjD3LUHtf80d0eDw2sr0Mu&new=1)
  > 关注南极熊3D打印2019年9月19-21日，IAME中国（西安）国际3D打印博览会暨高峰论坛在西安高新国际会议中心举办。2019IAME旨在搭建增材制造（3D打印）科技创新的开放合作共享交流平台，汇聚全球顶尖的增材制造（3D...
 # IT 技术 
  ## [物联网和个性化联合来优化客户体验](http://iot.51cto.com/art/201909/603260.htm)
@@ -33,70 +39,76 @@ categories: IT NEWS
  > 分享 | 人工智能的12个典型案例
  ## [思维 | 一个引发程序员们干架的问题](http://developer.51cto.com/art/201909/603211.htm)
  > 思维 | 一个引发程序员们干架的问题
- ## [【TencentOS tiny】又有一个操作系统开源](https://blog.csdn.net/jiejiemcu/article/details/100993384)
- > 【TencentOS tiny】又有一个操作系统开源
+ ## [大话卷积神经网络CNN（干货满满）](https://blog.csdn.net/TeFuirnever/article/details/100057229)
+ > 大话卷积神经网络CNN（干货满满）
+ ## [Java 13 来袭，最新最全新特性解读](https://blog.csdn.net/hollis_chuang/article/details/100877687)
+ > Java 13 来袭，最新最全新特性解读
  ## [代码整洁 vs 代码肮脏](https://blog.csdn.net/u010378410/article/details/100883370)
  > 代码整洁 vs 代码肮脏
+ ## [周杰伦新歌《说好不哭》上线，程序员哭了......](https://blog.csdn.net/devcloud/article/details/101024677)
+ > 周杰伦新歌《说好不哭》上线，程序员哭了......
+ ## [Go微服务全链路跟踪详解](https://blog.csdn.net/weixin_38748858/article/details/100586019)
+ > Go微服务全链路跟踪详解
+ ## [深浅克隆面试题汇总——附详细答案](https://blog.csdn.net/sufu1065/article/details/100972703)
+ > 深浅克隆面试题汇总——附详细答案
  ## [华为胡厚崑：不让任何一个人在数字世界中掉队](https://blog.csdn.net/sch881226/article/details/101003829)
  > 华为胡厚崑：不让任何一个人在数字世界中掉队
- ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
- > 鸿蒙 OS 的到来，能为我们改变什么？
- ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
- > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
- ## [Java基础知识梳理——值传递和引用传递](https://blog.csdn.net/qq_38905818/article/details/100987759)
- > Java基础知识梳理——值传递和引用传递
- ## [为什么用枚举类来实现单例模式越来越流行？](https://blog.csdn.net/z694644032/article/details/100109014)
- > 为什么用枚举类来实现单例模式越来越流行？
- ## [深度学习入门笔记（三）：求导和计算图](https://blog.csdn.net/TeFuirnever/article/details/100900465)
- > 深度学习入门笔记（三）：求导和计算图
- ## [用Python分析2000款避孕套，得出这些有趣的结论](https://blog.csdn.net/u014044812/article/details/100977312)
- > 用Python分析2000款避孕套，得出这些有趣的结论
- ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
- > 100% 成功率的 offer 收割机是怎样练成的？
+ ## [阿里资深工程师教你如何优化 Java 代码！](https://blog.csdn.net/csdnnews/article/details/100987866)
+ > 阿里资深工程师教你如何优化 Java 代码！
+ ## [Tomcat（二）：Tomcat在SpringBoot中是如何启动的](https://blog.csdn.net/XiaoHanZuoFengZhou/article/details/100938292)
+ > Tomcat（二）：Tomcat在SpringBoot中是如何启动的
+ ## [深度学习入门笔记（二）：神经网络基础](https://blog.csdn.net/TeFuirnever/article/details/100835595)
+ > 深度学习入门笔记（二）：神经网络基础
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
  ## [线程最最基础的知识](https://blog.csdn.net/u011642663/article/details/101010668)
  > 线程最最基础的知识
- ## [我当了5年技术总监，面试头条，emmm，被手写算法题虐的体无完肤。。。](https://blog.csdn.net/hejjunlin/article/details/100980203)
- > 我当了5年技术总监，面试头条，emmm，被手写算法题虐的体无完肤。。。
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
- ## [比反射更强大的技术，内省技术](https://blog.csdn.net/ZackSock/article/details/100611768)
- > 比反射更强大的技术，内省技术
- ## [\[网络安全自学篇\] 十一.虚拟机VMware+Kali安装入门及Sqlmap基本用法](https://blog.csdn.net/Eastmount/article/details/101000161)
- > \[网络安全自学篇\] 十一.虚拟机VMware+Kali安装入门及Sqlmap基本用法
+ ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
+ > 鸿蒙 OS 的到来，能为我们改变什么？
+ ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
+ > 从入门到精通，Java学习路线导航
+ ## [人机交互系统（1.4）——Trie树详解](https://blog.csdn.net/lzc4869/article/details/101040564)
+ > 人机交互系统（1.4）——Trie树详解
  ## [Python 爬取 20 万条评论，告诉你周杰伦新歌为啥弄崩 QQ 音乐？](https://blog.csdn.net/csdnnews/article/details/101094574)
  > 作者 | 哈哈浩责编 | 伍杏玲9 月 16 日晚间，周董在朋友圈发布了最新单曲《说好不哭》。发布后，真的让一波人哭了，一群想抢鲜听的小伙伴直接泪奔。因为 QQ 音乐直接...
 # 人工智能 
- ## [危险的人脸识别](https://blog.csdn.net/csdnnews/article/details/100987429)
- > 危险的人脸识别
- ## [9月19日科技资讯|ofo 悄然搬离中关村；董明珠称向雷军学互联网营销；Chrome 77 发布](https://blog.csdn.net/weixin_39786569/article/details/101019727)
- > 9月19日科技资讯|ofo 悄然搬离中关村；董明珠称向雷军学互联网营销；Chrome 77 发布
- ## [支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100987924)
- > 支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布 | 极客头条...
- ## [9月18日科技资讯|支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布](https://blog.csdn.net/weixin_39786569/article/details/100984842)
- > 9月18日科技资讯|支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布
- ## [我用数据分析，揭开了中国男篮最后的遮羞布](https://blog.csdn.net/yuanziok/article/details/100878684)
- > 我用数据分析，揭开了中国男篮最后的遮羞布
- ## [接班马云的为何是张勇？](https://blog.csdn.net/csdnnews/article/details/100840853)
- > 接班马云的为何是张勇？
- ## [马云退休启示录：第一代互联网创始人老去，谁来接棒？](https://blog.csdn.net/csdnnews/article/details/100815491)
- > 马云退休启示录：第一代互联网创始人老去，谁来接棒？
- ## [互联网大佬为什么爱唱歌？](https://blog.csdn.net/csdnnews/article/details/100869920)
- > 互联网大佬为什么爱唱歌？
- ## [SUBSTANCE DESIGNER :: USER INTERFACE](https://blog.csdn.net/qq_39812022/article/details/101005326)
- > SUBSTANCE DESIGNER :: USER INTERFACE
- ## [找准自己的位置](https://blog.csdn.net/bit_kaki/article/details/100997292)
- > 找准自己的位置
- ## [华为全球最快 AI 训练集群 Atlas 900 诞生！](https://blog.csdn.net/csdnnews/article/details/100987512)
- > 华为全球最快 AI 训练集群 Atlas 900 诞生！
- ## [华为发布全世界最快AI产品，集成1024颗业内最强芯片，训练ResNet-50只需59.8秒](https://blog.csdn.net/QbitAI/article/details/100975932)
- > 华为发布全世界最快AI产品，集成1024颗业内最强芯片，训练ResNet-50只需59.8秒
- ## [十年后再读《轻公司》](https://blog.csdn.net/david_lv/article/details/100788548)
- > 十年后再读《轻公司》
- ## [思念无果,转瞬滂沱](https://blog.csdn.net/lhn1234321/article/details/100970584)
- > 思念无果,转瞬滂沱
- ## [标贝科技语音论文入选全球顶级语音学术大会INTERSPEECH2019](https://blog.csdn.net/csdnnews/article/details/100986571)
- > 标贝科技语音论文入选全球顶级语音学术大会INTERSPEECH2019
+ ## [Git-【技术干货】工作中Git的使用实践](https://blog.csdn.net/CSDN___LYY/article/details/100939749)
+ > Git-【技术干货】工作中Git的使用实践
+ ## [git详细教程](https://blog.csdn.net/weixin_41172473/article/details/100985271)
+ > git详细教程
+ ## [工厂模式，从第三方登录说起](https://blog.csdn.net/z694644032/article/details/100940148)
+ > 工厂模式，从第三方登录说起
+ ## [创业笔记备份](https://blog.csdn.net/weixin_43606158/article/details/100971057)
+ > 创业笔记备份
+ ## [Git - 使用git不知道内部实现机制怎么行](https://blog.csdn.net/CSDN___LYY/article/details/101035399)
+ > Git - 使用git不知道内部实现机制怎么行
+ ## [使用IDEA构建Maven](https://blog.csdn.net/gdkyxy2013/article/details/100859401)
+ > 使用IDEA构建Maven
+ ## [导入maven工程缺少jar包的解决办法](https://blog.csdn.net/qq_39671996/article/details/100986208)
+ > 导入maven工程缺少jar包的解决办法
+ ## [app兼容测试](https://blog.csdn.net/qq_42610167/article/details/101016473)
+ > app兼容测试
+ ## [git常用命令](https://blog.csdn.net/bxqmz/article/details/100976956)
+ > git常用命令
+ ## [IDEA常用配置和常用插件](https://blog.csdn.net/ThinkWon/article/details/101020481)
+ > IDEA常用配置和常用插件
+ ## [Eclipse & Spring Tool Suite配置](https://blog.csdn.net/ThinkWon/article/details/101025543)
+ > Eclipse &amp; Spring Tool Suite配置
+ ## [解决IDEA创建maven工程springboot工程无法下载pom依赖问题](https://blog.csdn.net/ai_xiaotian520/article/details/101014260)
+ > 解决IDEA创建maven工程springboot工程无法下载pom依赖问题
+ ## [git合并多个commit成一个commit](https://blog.csdn.net/u011077027/article/details/101023749)
+ > git合并多个commit成一个commit
+ ## [Eclipse最常用的几个快捷方法](https://blog.csdn.net/weixin_44325444/article/details/101002688)
+ > Eclipse最常用的几个快捷方法
+ ## [QT设置版本控制（包括快捷键和Git Gui），远端仓库设置为码云](https://blog.csdn.net/baidu_31788709/article/details/101018121)
+ > QT设置版本控制（包括快捷键和Git Gui），远端仓库设置为码云
 # PM 
+ ## [在手动关闭流量后，我看到了各大APP设计师的用心之处](http://www.woshipm.com/pd/2892797.html)
+ > 虽然只是一个小小的点，可能很多用户都不会关注，但是用户体验什么时候都不可以轻视。先说一下这次体验的由来。最近一次偶然的机会，上医院挂个号。等待的时间太长，...
+ ## [Costco中国应该如何走出独具特色的商超之路？](http://www.woshipm.com/it/2889272.html)
+ > 日益庞大的中国中产阶级，与美国最广泛的中产阶级之间，Costco应该如何考量国情，走出一条独具“中国特色社会主义”的Costco之路？Costco又是否能打破外资零售“巨头”在中...
+ ## [全民体育大热时出现负增长，腾讯体育如何重新掌控节奏？](http://www.woshipm.com/evaluating/2887363.html)
+ > 体育爱好者不少，体育直播是这一群体观看赛事的重要渠道，面对庞大的用户群体和市场规模，腾讯体育却出现负增长。未来，从产品到运营，腾讯体育要如何进行调整重回巅峰...
  ## [电商后台之价税管理](http://www.woshipm.com/pd/2893875.html)
  > 文章对电商后台系统中的价税管理进行了系统的介绍，希望通过此文能够加深你对电商系统的认识。前面介绍了商品管理部分，从商品的属性、分类到商品资质、商品图片都做...
  ## [8个方法，让用户爱上你的产品](http://www.woshipm.com/pd/2890983.html)
