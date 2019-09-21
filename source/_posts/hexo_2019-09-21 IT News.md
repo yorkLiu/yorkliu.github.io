@@ -1,21 +1,21 @@
 ---
 title: 2019-09-21 IT News
 copyright: true
-date: 2019-09-21 08:01:37
+date: 2019-09-21 09:01:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Google 开发者大会记，谷歌与你的距离更近了](http://mp.weixin.qq.com/s?src=11&timestamp=1569024004&ver=1865&signature=TPN6H4I6Dwpk-TLx0zeGo-Kj6pFCkTlOPgrF-2YDl7WY-rYLidNpk9u2wySQi26Qjr9l8iBeZQt0OwN7xe7NbFm-Ixuf0Rs4jU*8Bvg4JeNjyEKytM-vL8vmDw3NAW8Y&new=1)
- > 从TensorFlow，Android，Wear OS，到 ARCore，再到 Google Arts&amp;Culture，Google 跟你的关系更近了。「旋转、直立、伸长、长胖….」站在台上的人随意摆弄身姿，而他面前屏幕上的古老瓷器也跟着生
- ## [3D打印还是需要库存?杜克大学教授给出了数学模型](http://mp.weixin.qq.com/s?src=11&timestamp=1569024004&ver=1865&signature=m5J7u8vO4cfMRDng-ps-3RWiqan-bgGOF57XJAhNIjjYpKFvpmJzZigCBElGNtXxQZrrz44LPTTnNVGYKAj*RUhIXI3JjxojV39utc6t1rajJON1H7JgwUD4pUsoPaxX&new=1)
+ ## [3D打印还是需要库存?杜克大学教授给出了数学模型](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=m5J7u8vO4cfMRDng-ps-3RWiqan-bgGOF57XJAhNIjjYpKFvpmJzZigCBElGNtXxx9BUc7g3d6UMwtwyXXalCJiMESTi1peV7W7jtanDH2jrkNrlX5Ihn2-qJWNwnNA4&new=1)
  > 北卡罗莱纳州杜克大学福库商学院的教授Jeannette Song创建了一个数学模型，帮助公司平衡3D打印需求和备件存储之间的成本。在一篇名为“库存还是打印？3D打印对零部件行业的影响”论文中有所描述，该模型有助于识...
- ## [工信部要求11月10日完成携号转网部署，联通已在手机营业厅里开通相关功能](http://mp.weixin.qq.com/s?src=11&timestamp=1569024004&ver=1865&signature=IMGyER4q9kv9zHq*B*Gs5iv4uvXUPBlfRoc9mWTjpvPku*65kGevZPNSucQGvOgo1R22z-BvtDBPwwBPsnbPY7hK7-Z5b0*nYcYvnEREhlPjF9W6-8YT*R**jJNPYdU4&new=1)
- > 近日中国联通手机营业厅 APP 中新增了一项 “携号转入” 功能，部分其他运营商用户可通过手机营业厅直接办理携号转网业务。据了解，目前此项经测试 “携号转入” 功能办理后需要捆绑腾讯天王卡或地王卡套餐。虽...
- ## [专访卢秉恒院士：国家增材制造创新中心成果丰硕，愿3D打印行业共发展](http://mp.weixin.qq.com/s?src=11&timestamp=1569024004&ver=1865&signature=sSOzBmR0lbrWz8XK1cbbVOab1wPe04UsAejnXCcJUhuEufsEDihE1u6dGxPxIL7lcC7sXn0nZWpDyY217WGsk880q*XAkRp8ks04hb9*biV*FlF2qu0O5epfS7IuZq1e&new=1)
- > 关注南极熊3D打印2019年9月19-21日，IAME中国（西安）国际3D打印博览会暨高峰论坛在西安高新国际会议中心举办。2019IAME旨在搭建增材制造（3D打印）科技创新的开放合作共享交流平台，汇聚全球顶尖的增材制造（3D...
- ## [华为在广域网领域放大招：智简化方案加速企业数字化](http://mp.weixin.qq.com/s?src=11&timestamp=1569024004&ver=1865&signature=QSmIK9GuQkx2lRKe1*dR6CaPMAQpezS6Ul6DHf6aQGugsv13RzEmRzTbfo81I-ie*uI-A2Or040PdqRnzN76KAnY-boFP10FUfYoCgUOznK9Kwfy2-2IHz1QTydNQ*ts&new=1)
+ ## [华为在广域网领域放大招：智简化方案加速企业数字化](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=QSmIK9GuQkx2lRKe1*dR6CaPMAQpezS6Ul6DHf6aQGugsv13RzEmRzTbfo81I-ie8Mm7kEomiOWbRxbzrLlf38Jav1OaQZ3yOlIcIdZ0wPebnazQZDCnAUK0w2AeMN6w&new=1)
  > 近年来华为智能IP网络业务保持高速发展，近十年收入增长5倍，2018年更是全球市场排名成为业界第一。华为智能IP网络得到越来越多用户选择的原因是什么？答案是持续不断根据客户需求推出创新方案。在9月18日到20日...
+ ## [工信部要求11月10日完成携号转网部署，联通已在手机营业厅里开通相关功能](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=IMGyER4q9kv9zHq*B*Gs5iv4uvXUPBlfRoc9mWTjpvPku*65kGevZPNSucQGvOgobn0PQy7uIniR4q*9APr1GqO*ajn9nB-suavqHrduCsrsk2OJT2ewhUsKoDhiHLxv&new=1)
+ > 近日中国联通手机营业厅 APP 中新增了一项 “携号转入” 功能，部分其他运营商用户可通过手机营业厅直接办理携号转网业务。据了解，目前此项经测试 “携号转入” 功能办理后需要捆绑腾讯天王卡或地王卡套餐。虽...
+ ## [Google 开发者大会记，谷歌与你的距离更近了](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=TPN6H4I6Dwpk-TLx0zeGo-Kj6pFCkTlOPgrF-2YDl7WY-rYLidNpk9u2wySQi26QU4GgFqSjKjUFskyFXXpu357bTauaXtb6W-kyOUpmrMUtjoc78dPGRL0ICw9JByWm&new=1)
+ > 从TensorFlow，Android，Wear OS，到 ARCore，再到 Google Arts&amp;Culture，Google 跟你的关系更近了。「旋转、直立、伸长、长胖….」站在台上的人随意摆弄身姿，而他面前屏幕上的古老瓷器也跟着生
+ ## [专访卢秉恒院士：国家增材制造创新中心成果丰硕，愿3D打印行业共发展](http://mp.weixin.qq.com/s?src=11&timestamp=1569027605&ver=1865&signature=sSOzBmR0lbrWz8XK1cbbVOab1wPe04UsAejnXCcJUhuEufsEDihE1u6dGxPxIL7lusXVPLsZkIYGgmSG0gR5i*dtsLmewFEseTgASFvoB5Z43BRAdmGXIZuQYjSXC1AW&new=1)
+ > 关注南极熊3D打印2019年9月19-21日，IAME中国（西安）国际3D打印博览会暨高峰论坛在西安高新国际会议中心举办。2019IAME旨在搭建增材制造（3D打印）科技创新的开放合作共享交流平台，汇聚全球顶尖的增材制造（3D...
 # IT 技术 
  ## [物联网和个性化联合来优化客户体验](http://iot.51cto.com/art/201909/603260.htm)
  > 物联网和个性化联合来优化客户体验
@@ -33,70 +33,74 @@ categories: IT NEWS
  > 分享 | 人工智能的12个典型案例
  ## [思维 | 一个引发程序员们干架的问题](http://developer.51cto.com/art/201909/603211.htm)
  > 思维 | 一个引发程序员们干架的问题
- ## [大话卷积神经网络CNN（干货满满）](https://blog.csdn.net/TeFuirnever/article/details/100057229)
- > 大话卷积神经网络CNN（干货满满）
  ## [【TencentOS tiny】又有一个操作系统开源](https://blog.csdn.net/jiejiemcu/article/details/100993384)
  > 【TencentOS tiny】又有一个操作系统开源
- ## [周杰伦新歌《说好不哭》上线，程序员哭了......](https://blog.csdn.net/devcloud/article/details/101024677)
- > 周杰伦新歌《说好不哭》上线，程序员哭了......
- ## [Java 13 来袭，最新最全新特性解读](https://blog.csdn.net/hollis_chuang/article/details/100877687)
- > Java 13 来袭，最新最全新特性解读
  ## [代码整洁 vs 代码肮脏](https://blog.csdn.net/u010378410/article/details/100883370)
  > 代码整洁 vs 代码肮脏
- ## [Go微服务全链路跟踪详解](https://blog.csdn.net/weixin_38748858/article/details/100586019)
- > Go微服务全链路跟踪详解
- ## [深浅克隆面试题汇总——附详细答案](https://blog.csdn.net/sufu1065/article/details/100972703)
- > 深浅克隆面试题汇总——附详细答案
  ## [华为胡厚崑：不让任何一个人在数字世界中掉队](https://blog.csdn.net/sch881226/article/details/101003829)
  > 华为胡厚崑：不让任何一个人在数字世界中掉队
- ## [阿里资深工程师教你如何优化 Java 代码！](https://blog.csdn.net/csdnnews/article/details/100987866)
- > 阿里资深工程师教你如何优化 Java 代码！
- ## [Java知识梳理——堆内内存和堆外内存](https://blog.csdn.net/qq_38905818/article/details/100989020)
- > Java知识梳理——堆内内存和堆外内存
- ## [实现 Java 本地缓存，该从这几点开始](https://blog.csdn.net/z694644032/article/details/100726266)
- > 实现 Java 本地缓存，该从这几点开始
- ## [go 学习笔记之学习函数式编程前不要忘了函数基础](https://blog.csdn.net/weixin_38171180/article/details/100875542)
- > go 学习笔记之学习函数式编程前不要忘了函数基础
- ## [线程最最基础的知识](https://blog.csdn.net/u011642663/article/details/101010668)
- > 线程最最基础的知识
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
+ ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
+ > 鸿蒙 OS 的到来，能为我们改变什么？
  ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
  > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
+ ## [Java基础知识梳理——值传递和引用传递](https://blog.csdn.net/qq_38905818/article/details/100987759)
+ > Java基础知识梳理——值传递和引用传递
+ ## [为什么用枚举类来实现单例模式越来越流行？](https://blog.csdn.net/z694644032/article/details/100109014)
+ > 为什么用枚举类来实现单例模式越来越流行？
+ ## [深度学习入门笔记（三）：求导和计算图](https://blog.csdn.net/TeFuirnever/article/details/100900465)
+ > 深度学习入门笔记（三）：求导和计算图
+ ## [用Python分析2000款避孕套，得出这些有趣的结论](https://blog.csdn.net/u014044812/article/details/100977312)
+ > 用Python分析2000款避孕套，得出这些有趣的结论
+ ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
+ > 100% 成功率的 offer 收割机是怎样练成的？
+ ## [线程最最基础的知识](https://blog.csdn.net/u011642663/article/details/101010668)
+ > 线程最最基础的知识
+ ## [我当了5年技术总监，面试头条，emmm，被手写算法题虐的体无完肤。。。](https://blog.csdn.net/hejjunlin/article/details/100980203)
+ > 我当了5年技术总监，面试头条，emmm，被手写算法题虐的体无完肤。。。
+ ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
+ > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [比反射更强大的技术，内省技术](https://blog.csdn.net/ZackSock/article/details/100611768)
+ > 比反射更强大的技术，内省技术
+ ## [\[网络安全自学篇\] 十一.虚拟机VMware+Kali安装入门及Sqlmap基本用法](https://blog.csdn.net/Eastmount/article/details/101000161)
+ > \[网络安全自学篇\] 十一.虚拟机VMware+Kali安装入门及Sqlmap基本用法
  ## [Python 爬取 20 万条评论，告诉你周杰伦新歌为啥弄崩 QQ 音乐？](https://blog.csdn.net/csdnnews/article/details/101094574)
  > 作者 | 哈哈浩责编 | 伍杏玲9 月 16 日晚间，周董在朋友圈发布了最新单曲《说好不哭》。发布后，真的让一波人哭了，一群想抢鲜听的小伙伴直接泪奔。因为 QQ 音乐直接...
 # 人工智能 
- ## [Python面试的一些心得，与Python练习题分享](https://blog.csdn.net/devcloud/article/details/100917665)
- > Python面试的一些心得，与Python练习题分享
- ## [从筛选简历和面试流程讲起，再给培训班出身的程序员一些建议](https://blog.csdn.net/sxeric/article/details/100918910)
- > 从筛选简历和面试流程讲起，再给培训班出身的程序员一些建议
- ## [华为面试题：1+4=5，2+5=12，3+6=21，问8+11=？网友：幼儿园级别](https://blog.csdn.net/mifffy_java/article/details/101017872)
- > 华为面试题：1+4=5，2+5=12，3+6=21，问8+11=？网友：幼儿园级别
- ## [当你收到面试通知后，通过如下的准备可以大大提升面试成功率](https://blog.csdn.net/sxeric/article/details/100972802)
- > 当你收到面试通知后，通过如下的准备可以大大提升面试成功率
- ## [如果高冷地看待市面上培训班？](https://blog.csdn.net/zhaodedong/article/details/100869634)
- > 如果高冷地看待市面上培训班？
- ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
- > 100% 成功率的 offer 收割机是怎样练成的？
- ## [hello，world！](https://blog.csdn.net/h18391005357/article/details/100931025)
- > hello，world！
- ## [30岁 要改变了](https://blog.csdn.net/weixin_37828327/article/details/96749169)
- > 30岁 要改变了
- ## [Java并发面试知识点汇总（超详细！）](https://blog.csdn.net/weixin_41799019/article/details/100975395)
- > Java并发面试知识点汇总（超详细！）
- ## [程序员面试时这样介绍自己的项目经验，成功率能达到98.99%](https://blog.csdn.net/yelvgou9995/article/details/86478783)
- > 程序员面试时这样介绍自己的项目经验，成功率能达到98.99%
- ## [作为IT面试官，我如何考核计算机专业毕业生？作为培训班老师，我又如何提升他们？](https://blog.csdn.net/sxeric/article/details/101021721)
- > 作为IT面试官，我如何考核计算机专业毕业生？作为培训班老师，我又如何提升他们？
- ## [程序员还是以前的那个高薪工作吗？](https://blog.csdn.net/u011337602/article/details/100975648)
- > 程序员还是以前的那个高薪工作吗？
- ## [浅谈个人自学编程心得](https://blog.csdn.net/qq_45455361/article/details/101018091)
- > 浅谈个人自学编程心得
- ## [本课程面试汇川技术研发岗面试总结](https://blog.csdn.net/yanyang633/article/details/100988376)
- > 本课程面试汇川技术研发岗面试总结
- ## [Java面试机经出炉了](https://blog.csdn.net/lihua5419/article/details/100934903)
- > Java面试机经出炉了
+ ## [危险的人脸识别](https://blog.csdn.net/csdnnews/article/details/100987429)
+ > 危险的人脸识别
+ ## [9月19日科技资讯|ofo 悄然搬离中关村；董明珠称向雷军学互联网营销；Chrome 77 发布](https://blog.csdn.net/weixin_39786569/article/details/101019727)
+ > 9月19日科技资讯|ofo 悄然搬离中关村；董明珠称向雷军学互联网营销；Chrome 77 发布
+ ## [支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/100987924)
+ > 支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布 | 极客头条...
+ ## [9月18日科技资讯|支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布](https://blog.csdn.net/weixin_39786569/article/details/100984842)
+ > 9月18日科技资讯|支付宝推出“轻会员”；iPhone11 或将主动禁用双向无线充电；Java 13 发布
+ ## [我用数据分析，揭开了中国男篮最后的遮羞布](https://blog.csdn.net/yuanziok/article/details/100878684)
+ > 我用数据分析，揭开了中国男篮最后的遮羞布
+ ## [接班马云的为何是张勇？](https://blog.csdn.net/csdnnews/article/details/100840853)
+ > 接班马云的为何是张勇？
+ ## [马云退休启示录：第一代互联网创始人老去，谁来接棒？](https://blog.csdn.net/csdnnews/article/details/100815491)
+ > 马云退休启示录：第一代互联网创始人老去，谁来接棒？
+ ## [互联网大佬为什么爱唱歌？](https://blog.csdn.net/csdnnews/article/details/100869920)
+ > 互联网大佬为什么爱唱歌？
+ ## [SUBSTANCE DESIGNER :: USER INTERFACE](https://blog.csdn.net/qq_39812022/article/details/101005326)
+ > SUBSTANCE DESIGNER :: USER INTERFACE
+ ## [找准自己的位置](https://blog.csdn.net/bit_kaki/article/details/100997292)
+ > 找准自己的位置
+ ## [华为全球最快 AI 训练集群 Atlas 900 诞生！](https://blog.csdn.net/csdnnews/article/details/100987512)
+ > 华为全球最快 AI 训练集群 Atlas 900 诞生！
+ ## [华为发布全世界最快AI产品，集成1024颗业内最强芯片，训练ResNet-50只需59.8秒](https://blog.csdn.net/QbitAI/article/details/100975932)
+ > 华为发布全世界最快AI产品，集成1024颗业内最强芯片，训练ResNet-50只需59.8秒
+ ## [十年后再读《轻公司》](https://blog.csdn.net/david_lv/article/details/100788548)
+ > 十年后再读《轻公司》
+ ## [思念无果,转瞬滂沱](https://blog.csdn.net/lhn1234321/article/details/100970584)
+ > 思念无果,转瞬滂沱
+ ## [标贝科技语音论文入选全球顶级语音学术大会INTERSPEECH2019](https://blog.csdn.net/csdnnews/article/details/100986571)
+ > 标贝科技语音论文入选全球顶级语音学术大会INTERSPEECH2019
 # PM 
+ ## [电商后台之价税管理](http://www.woshipm.com/pd/2893875.html)
+ > 文章对电商后台系统中的价税管理进行了系统的介绍，希望通过此文能够加深你对电商系统的认识。前面介绍了商品管理部分，从商品的属性、分类到商品资质、商品图片都做...
+ ## [8个方法，让用户爱上你的产品](http://www.woshipm.com/pd/2890983.html)
+ > 在互联网迅猛发展的今天，丰富的互联网产品层出不穷，但是用户的需求是有限的，面对同类型的产品，怎样的产品设计可以不经意间击败对手？在这个互联网蓬勃发展的大环...
  ## [产品设计师们不得不知的iOS13——暗黑模式](http://www.chanpin100.com/article/109557)
  > 为iOS13而设计你的产品吧
  ## [巧用一键登录提升用户转化，7天获取1w+用户](http://www.chanpin100.com/article/109556)
