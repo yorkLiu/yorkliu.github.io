@@ -1,24 +1,52 @@
 ---
 title: 2019-09-23 IT News
 copyright: true
-date: 2019-09-23 09:01:03
+date: 2019-09-23 10:01:24
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2019年9月23日 星期一</b></summary><div class="news-list-content"><p>1.&#24037;&#20449;&#37096;&#33495;&#22313;&#65306;&#26126;&#24180;&#25165;&#33021;&#27491;&#24335;&#22823;&#35268;&#27169;&#25237;&#20837;&#29420;&#31435;&#32452;&#32593;&#30340;5G&#32593;&#32476;</p>
+<p>2.&#20170;&#26085;&#22836;&#26465;&#19978;&#32447;&#8220;&#20581;&#24247;&#30495;&#30456;&#39302;&#8221;&#65292;&#25506;&#32034;&#31185;&#26222;&#36767;&#35875;&#26032;&#27169;&#24335;</p>
+<p>3.&#26032;&#28010;&#24494;&#21338;&#19982;&#30003;&#36890;&#31561;&#25311;&#21457;&#36215;&#35774;&#31435;&#26032;&#28010;&#20154;&#23551;&#65292;&#27880;&#20876;&#36164;&#26412;15&#20159;</p>
+<p>4.&#24555;&#25163;&#25945;&#32946;&#29983;&#24577;&#25512;&#20986;&#8220;&#19977;&#20892;&#24555;&#25104;&#38271;&#35745;&#21010;&#8221;&#65292;&#23558;&#19978;&#32447;&#20065;&#26449;&#20027;&#25773;&#24555;&#25104;&#38271;&#23398;&#38498;</p>
+<p>5.&#39295;&#20102;&#20040;&#21475;&#30865;&#25104;&#31435;&#21830;&#36229;&#24320;&#25918;&#24179;&#21488;&#65292;&#22806;&#21334;&#21592;&#20837;&#39547;&#21830;&#36229;&#19987;&#36865;</p>
+<p>6.&#38463;&#37324;&#24052;&#24052;&#25237;&#36164;AR&#21019;&#20225;Perfect&#65292;&#28120;&#23453;&#22825;&#29483;&#24341;&#20837;&#34394;&#25311;&#35797;&#31359;&#25216;&#26415;</p>
+<p>7.&#22269;&#23478;&#26234;&#33021;&#32593;&#32852;&#27773;&#36710;&#65288;&#27494;&#27721;&#65289;&#27979;&#35797;&#31034;&#33539;&#21306;&#27491;&#24335;&#25581;&#29260;&#65292;&#30334;&#24230;&#12289;&#28023;&#26753;&#31185;&#25216;&#12289;&#28145;&#20848;&#31185;&#25216;&#25343;&#21040;&#39318;&#24352;&#33258;&#21160;&#39550;&#39542;&#21830;&#29992;&#29260;&#29031;</p>
+<p>8.&#24494;&#20449;&#20844;&#20247;&#21495;&#28040;&#24687;&#21015;&#34920;&#20869;&#27979;&#8220;&#21457;&#29616;&#20844;&#20247;&#21495;&#8221;&#21151;&#33021;&#65306;&#22522;&#20110;&#32508;&#21512;&#31639;&#27861;&#26234;&#33021;&#21305;&#37197;</p>
+<p>9.&#25151;&#20135;&#22823;&#25968;&#25454;&#24179;&#21488;&#12300;&#35832;&#33883;&#25214;&#25151;&#12301;&#23459;&#24067;&#23436;&#25104;&#36807;&#20159;&#20803;C1&#36718;&#34701;&#36164;</p>
+<p>10.&#24494;&#29983;&#24577;&#20581;&#24247;&#31649;&#29702;&#39046;&#22495;&#20225;&#19994;&#12300;&#39046;&#27835;&#21307;&#23398;&#12301;&#23436;&#25104;3000&#19975;&#20803;A&#36718;&#34701;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [\[新奇特\]个性迷你车钥匙手机](http://mp.weixin.qq.com/s?src=11&timestamp=1569200405&ver=1869&signature=97GhjDl-m8ILg3o0IktKntC5Eiw8cawHuh7wlOt2gYLIP0bfAJrQH4qsVX3xAcU7sgaBWrLy7eN0S7bV3gi8wz6apCPBtrMHpOjzLTZ90-0L8aEsTNnXvtDMS0OREgej&new=1)
- > 商品
- ## [2019生物识别论坛成功落幕：这十大看点不容错过!](http://mp.weixin.qq.com/s?src=11&timestamp=1569200405&ver=1869&signature=6I3SJ7ofBvaBvmgnDdawkx*YZM9zvEacVneLvXZO5K71SBXtNYnZPtWA7FLB2vhoodVe47Ne28xCWvoQoyeldcM72Q2WtkqMkjD1wk1dIdcifqOTgXIZEE09*-UB3SH8&new=1)
- > 2019年9月20日，由芯智讯主办的“融合·创新——2019生物识别技术与应用高峰论坛”在深圳召开。作为第三届“生物识别产业高峰论坛”，本次高峰论坛汇集了人脸、指纹、声纹、虹膜、静脉识别等多种生物识别技术代...
- ## [Pinn控告苹果AirPods侵犯专利，华为欲收购巴西最大固话运营商，湖北投放百亿消费贷防止学生被套路，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1569200405&ver=1869&signature=F5lQuWXK0QyuBcKaNgWUrqaJcFOAdGkp3kHkEGfWerfHhR9-fkz*lDaBpNDUcIGrc7mS7F0Hh0oyV*tzpT0DF6YR0vZxj7BJfXYkRFe3OmXjrPxNUx6PbGTVSxeNK-u9&new=1)
+ ## [无人驾驶来了!百度拿到全球首张商用牌照，A股已沸腾](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=DgBPbfKc26zjzKvXMk9nPQNzpKnvbnQY22*beeJ0odnqhyOAkfOjx3BWZyoFhA6F6dExnsN22QW43PO-*myZODvHu6As2kDuZXL4aHMt8n4NkiPSrBS3r*Elx1Sazzl6&new=1)
+ > 据长江日报报道，武汉率先在全国迈出无人驾驶商业化应用的关键一步。9月22日上午，国家智能网联汽车（武汉）测试示范区正式揭牌，百度、海梁科技、深兰科技拿到全球首张自动驾驶商用牌照。这意味着，无人驾驶车...
+ ## [会议报道|铭普光磁陈聪：光模块市场竞争激烈 机遇与挑战并存](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=SXkZ62CMJGJ0P1mGZ-SLLYUbgq-EYoDhmLLDU1d3JYME4mmJKHDN0JY68TaIhxIF7S2bImx4sUrlL5gW*aTRp5WqqkbiIefd4pL22r-i75inq*xPr7g6N3GHkWbB9d0g&new=1)
+ > 导读     讯石第十八届研讨会上，东莞铭普光磁股份有限公司光电产品战略发展总监陈聪发表《光模块市场的机遇与挑战》的主题演讲，阐述了当前光模块市场的机遇和挑战，并介绍公司在5G、数据中心、FTTH三个区域的...
+ ## [\[科技早报7点整\]湖北银保监局向全省大学生投放消费贷 杭州向阿里等100家企业派驻“政府事务代表”……](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=APHfQNfFE*F2gGT*YYnAsYnDogzy-FUzanO7QJv5EjgXP1HLu942CEMX89i7kCJJUCTjfDCIrGNu*zfWqdfUqjsWSIlN6rlDHKojD5VbLTAsOfSRyok3snjIG-YpfYRq&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第598期1.湖北银保监局：向全省大学生投放80亿至100亿消费贷近日，为了遏制非法校园贷，湖北银保监局表示，将加大校园金融服务产品推广力度，力争按照每个学生消费贷款5000元左...
+ ## [Pinn控告苹果AirPods侵犯专利，华为欲收购巴西最大固话运营商，湖北投放百亿消费贷防止学生被套路，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=F5lQuWXK0QyuBcKaNgWUrqaJcFOAdGkp3kHkEGfWerfHhR9-fkz*lDaBpNDUcIGrEhinyUKYioXkts1rdmZ81CiaUmaP2DTJXc9nayQmPp0bsVS0PY0vDWyModFOI75z&new=1)
  > 今天是9月22日农历八月廿四今天吃到了茅台冰淇淋我宣布他是我最喜欢的冰淇淋啦！下面是今天的其他大新闻  Pinn控告苹果AirPods侵犯专利 （ cnBeta ）据外媒报道，免手持耳机制造商 Pinn 声称苹果的 AirPods 侵...
- ## [中国移动5G套餐来了!老用户感动](http://mp.weixin.qq.com/s?src=11&timestamp=1569200405&ver=1869&signature=p9X2wpxFbFK3lHkYeN8hmaU3Jf2hq4jz34YQLFQUiFS0CAisOr30RevSE55T7fyAtaa4lvDDR3AYGq63umMVfOh-B4LzaTlECzbzLTclSlHYoLQ8VKgZPosJMG3jch*s&new=1)
+ ## [7点见|拼多多iPhone 11售价跌破5000；网易在浙江再建新猪场；谷歌称已实现“量子霸权”](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=c90a3lXXWEG9mVnq5bNpRyy-yvuc4-9hTwUOTWXYXXKdeW5rUQCf7bkJE17SyMMRSmu6VfyIuh52k31-AidjHt2v8YRQwWhMbjbPYM8oizCUaN95pEuqwTwUHI2eNGGT&new=1)
+ > 各位小伙伴们，早上好呀！周末都大家都去哪了呢？微信步数都排第几呢？那些只有几十步的朋友，你被人点赞了吗？：）好了，下面是早报时间！谷歌实现“量子霸权”？但量子计算机离证明自己还有很长的路要走外媒报...
+ ## [\[新奇特\]个性迷你车钥匙手机](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=97GhjDl-m8ILg3o0IktKntC5Eiw8cawHuh7wlOt2gYLIP0bfAJrQH4qsVX3xAcU7SJn96l8bXQke0pIncNg2L3OmuQD-TLnuA9gMFWlshKNeFsVqzTiO16BXPKNPAHXX&new=1)
+ > 商品
+ ## [2019生物识别论坛成功落幕：这十大看点不容错过!](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=6I3SJ7ofBvaBvmgnDdawkx*YZM9zvEacVneLvXZO5K71SBXtNYnZPtWA7FLB2vhoGFY5p86rLUecB9IgM9fEvA*QoF-kNX44AWl*PbsqFumqzXgsMF3MUGaSHFN4Xi8v&new=1)
+ > 2019年9月20日，由芯智讯主办的“融合·创新——2019生物识别技术与应用高峰论坛”在深圳召开。作为第三届“生物识别产业高峰论坛”，本次高峰论坛汇集了人脸、指纹、声纹、虹膜、静脉识别等多种生物识别技术代...
+ ## [中国移动5G套餐来了!老用户感动](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=p9X2wpxFbFK3lHkYeN8hmaU3Jf2hq4jz34YQLFQUiFS0CAisOr30RevSE55T7fyAUutmCPWlf0Llcp2luLXaaTbp2fI5ocKmJSJBLCbw40CtHdmoHs4PhQXW*Qv657DF&new=1)
  > 9月21日消息，中国移动APP预告5G套餐即将上线。预约页面显示，网龄5年及以上用户可享受中国移动5G套餐7折优惠，5年以下用户可享受8折优惠。需要注意的是，领取后新老用户可享受自订购中国移动全国统一5G套餐的次...
- ## [比特币跌破9900美元丨微信发布新版本SDK\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569200405&ver=1869&signature=v61vv1aRVBGbJ5mUigqEMAPis7Q8pbXIpbH*jg7c8QypIJWaiCe7fpE2EJDod-2SNLmTXHmGlwaxkjr3-8Rt1vVhEDMVTZU3HvnMCLe3AK2rrZ59ejCzODLxjiENSLD5&new=1)
+ ## [比特币跌破9900美元丨微信发布新版本SDK\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569204004&ver=1869&signature=v61vv1aRVBGbJ5mUigqEMAPis7Q8pbXIpbH*jg7c8QypIJWaiCe7fpE2EJDod-2SvLe-yigkNLOHRpyetZHqXxb86d7FRCWaTISPyYwC3RbP-I0FwXuOMUjkjU*jD*Rn&new=1)
  > 9月22日丨周日【Do说】编辑 | 赵艾虎比特币跌破9900美元比特币跌破9900美元，Bitstamp平台暂报9869.71美元。小米本周连续4日耗资超1.7亿港元回购股票9月20日，小米集团公告称，今日回购1080万股，占总股本的0.0
 # IT 技术 
  ## [职场生存指南:颇具前景的五大编程语言](http://developer.51cto.com/art/201909/603339.htm)
  > 职场生存指南:颇具前景的五大编程语言
+ ## [支撑百万并发的“零拷贝”技术，你了解吗？](http://developer.51cto.com/art/201909/603355.htm)
+ > 支撑百万并发的“零拷贝”技术，你了解吗？
+ ## [漏洞少、成本低……极简代码的终极优势！](http://developer.51cto.com/art/201909/603333.htm)
+ > 漏洞少、成本低……极简代码的终极优势！
  ## [如何冻结和锁定你的Linux系统？](http://os.51cto.com/art/201909/603338.htm)
  > 如何冻结和锁定你的Linux系统？
  ## [物联网和个性化联合来优化客户体验](http://iot.51cto.com/art/201909/603260.htm)
@@ -29,44 +57,56 @@ categories: IT NEWS
  > DSSM文本匹配模型在苏宁商品语义召回上的应用
  ## [微服务架构一直火，为什么服务化要搞懂？](http://developer.51cto.com/art/201909/603187.htm)
  > 微服务架构一直火，为什么服务化要搞懂？
- ## [快来了解这五种热门的开发技能](http://developer.51cto.com/art/201909/603244.htm)
- > 快来了解这五种热门的开发技能
- ## [DeepMind一次性开源3个新框架！深度强化学习应用落地即将迎来春天？](http://news.51cto.com/art/201909/603268.htm)
- > DeepMind一次性开源3个新框架！深度强化学习应用落地即将迎来春天？
+ ## [华为鸿蒙的机会与挑战：若被谷歌服务禁用，将启用鸿蒙？](http://news.51cto.com/art/201909/603356.htm)
+ > 近日，一则“谷歌服务若禁用，华为P40或用鸿蒙”的消息，将华为的备胎移动操作系统――鸿蒙OS，又一次推向
+ ## [为微软效力15年的前员工解释Windows 10为什么问题这么多](http://news.51cto.com/art/201909/603353.htm)
+ > 众所周知Windows 10系统问题频发整体来说稳定性比较差，然而在此之前的版本其实相对来说稳定性还挺好的。
+ ## [一文看懂华为企业BG"123456"产品战略，了解全新+AI系列新品](http://network.51cto.com/art/201909/603335.htm)
+ > &quot;华为企业BG的下一代产品战略，简称&x27;123456&x27;--以建设1个智能世界为目标，围绕园区、数据中心2大场景，提供
+ ## [200秒=超算1万年，谷歌量子霸权论文上架即被撤回，引全球热议](http://news.51cto.com/art/201909/603349.htm)
+ > 量子计算机用3分20秒完成的一项计算，全球最强大的超算Summit要花1万年。这个成果，来自谷歌最新的量子计算
+ ## [用Python开发一个简单的猜数字游戏](http://developer.51cto.com/art/201909/603350.htm)
+ > 本文介绍如何使用Python制作一个简单的猜数字游戏。玩家将猜测一个数字。如果猜测是正确的，玩家赢。如果不
+ ## [微软开源其 C++ 标准库实现 STL](http://news.51cto.com/art/201909/603348.htm)
+ > 微软近日宣布开源其 MSVC 的 C++ 标准库实现（也就是 STL），该库实现是 MSVC 工具集和 Visual Studio IDE
+ ## [2019年12项优秀网络安全实践](http://netsecurity.51cto.com/art/201909/603347.htm)
+ > 你的敏感资料是否安全?这并不夸张:任何公司都可能成为网络犯罪的受害者。有关网络攻击的报告来自政府机构、
+ ## [谷歌推出 Kotlin 免费在线课程](http://news.51cto.com/art/201909/603351.htm)
+ > 近日，我们报道微软推出 Python 免费在线视频教程，该课程名为 Python for Beginners，为 Python 初学者提
+ ## [微软推出 Python 免费在线教程视频](http://news.51cto.com/art/201909/603352.htm)
+ > 我们上次报道过，微软官方上线 Python 教程文档。最近微软针对 Python 初学者，推出了一套免费的教程视频
  ## [与时俱进，大厂面试之HTTP/2、 HTTP/3](http://network.51cto.com/art/201909/603346.htm)
  > HTTP/2 相比于 HTTP/1，可以说是大幅度提高了网页的性能，只需要升级到该协议就可以减少很多之前需要做的性
- ## [深入原理学习之TCP长连接与心跳保活](http://network.51cto.com/art/201909/603345.htm)
- > 可能很多 Java 程序员对 TCP 的理解只有一个三次握手，四次握手的认识，我觉得这样的原因主要在于 TCP 协议
  ## [周杰伦新歌《说好不哭》上线，程序员哭了......](https://blog.csdn.net/devcloud/article/details/101024677)
  > 周杰伦新歌《说好不哭》上线，程序员哭了......
- ## [Java 13 来袭，最新最全新特性解读](https://blog.csdn.net/hollis_chuang/article/details/100877687)
- > Java 13 来袭，最新最全新特性解读
  ## [代码整洁 vs 代码肮脏](https://blog.csdn.net/u010378410/article/details/100883370)
  > 代码整洁 vs 代码肮脏
- ## [深度学习入门笔记（二）：神经网络基础](https://blog.csdn.net/TeFuirnever/article/details/100835595)
- > 深度学习入门笔记（二）：神经网络基础
- ## [【TencentOS tiny】又有一个操作系统开源](https://blog.csdn.net/jiejiemcu/article/details/100993384)
- > 【TencentOS tiny】又有一个操作系统开源
+ ## [Java 13 来袭，最新最全新特性解读](https://blog.csdn.net/hollis_chuang/article/details/100877687)
+ > Java 13 来袭，最新最全新特性解读
  ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
  > 鸿蒙 OS 的到来，能为我们改变什么？
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
- > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
- ## [重磅 | 华为发布绝杀计算战略！投15亿美元打造开放生态，全球最快AI训练集群Atlas 900，绝了！](https://blog.csdn.net/sch881226/article/details/100982292)
- > 重磅 | 华为发布绝杀计算战略！投15亿美元打造开放生态，全球最快AI训练集群Atlas 900，绝了！
  ## [如果让你手写个栈和队列，你还会写吗？](https://blog.csdn.net/devcloud/article/details/100921314)
  > 如果让你手写个栈和队列，你还会写吗？
- ## [2019计算机二级考试的一些心得、经验和资料总结分享](https://blog.csdn.net/u010648555/article/details/100853532)
- > 2019计算机二级考试的一些心得、经验和资料总结分享
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
+ > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
  ## [用Python分析2000款避孕套，得出这些有趣的结论](https://blog.csdn.net/u014044812/article/details/100977312)
  > 用Python分析2000款避孕套，得出这些有趣的结论
+ ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
+ > 从入门到精通，Java学习路线导航
+ ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
+ > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [【TencentOS tiny】又有一个操作系统开源](https://blog.csdn.net/jiejiemcu/article/details/100993384)
+ > 【TencentOS tiny】又有一个操作系统开源
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
+ ## [2019计算机二级考试的一些心得、经验和资料总结分享](https://blog.csdn.net/u010648555/article/details/100853532)
+ > 2019计算机二级考试的一些心得、经验和资料总结分享
  ## [线程最最基础的知识](https://blog.csdn.net/u011642663/article/details/101010668)
  > 线程最最基础的知识
+ ## [看了半年源码，终于拿到了阿里Offer！](https://blog.csdn.net/hejjunlin/article/details/100980054)
+ > 看了半年源码，终于拿到了阿里Offer！
+ ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
+ > 100% 成功率的 offer 收割机是怎样练成的？
  ## [阿里云智能 AIoT 首席科学家丁险峰：阿里全面进军 IoT 这一年 | 问底中国 IT 技术演进](https://blog.csdn.net/csdnnews/article/details/101168953)
  > 记者 | 屠敏受访者 | 丁险峰出品 | CSDN（ID：CSDNnews）「忽如一夜春风来，千树万树梨花开。」从概念的流行、至科技巨头的相继入局、再到诸多应用的落地，IoT 的发展终于在万事俱备只欠东风的条件下真正地迎来了属于自己的春天。如今无论是从城市、楼宇、汽车、制造等行业场景来看...
  ## [“不给钱就删库”的勒索病毒， 程序员该如何防护？](https://blog.csdn.net/csdnnews/article/details/101189434)
@@ -85,38 +125,19 @@ categories: IT NEWS
  > 程维在顺风车事件后曾在内部信中坦白，“好胜心盖过了初心，狂奔的发展模式早已种下隐患。内部体系提升跟不上规模扩张，就像灵魂跟不上脚步。”All in 安全的一年，程维找到了...
  ## [400 名微软员工曝光薪资：4 万美元到 32 万美元不等！](https://blog.csdn.net/csdnnews/article/details/101189480)
  > 近日，近400名微软员工分享了他们的薪酬（从4万美元到32万美元不等），目的是更好地确定他们的薪酬是否公平——本文即为大家揭示了以微软为例的大科技公司薪酬的关键性运作细节...
-# 人工智能 
- ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
- > 100% 成功率的 offer 收割机是怎样练成的？
- ## [Flutter高德定位&&定位权限管理](https://blog.csdn.net/qq_44749053/article/details/101102785)
- > Flutter高德定位&amp;&amp;定位权限管理
- ## [Android总结之权限permission一览](https://blog.csdn.net/qq_36336003/article/details/101100517)
- > Android总结之权限permission一览
- ## [安卓MVP浅析及Presenter的生命周期问题](https://blog.csdn.net/songzi1228/article/details/101101643)
- > 安卓MVP浅析及Presenter的生命周期问题
- ## [基于 wanandroid.com 开发的 MVP + Retrofit2 + RxJava2 +okhttp3 开发的 Android APP](https://blog.csdn.net/songzi1228/article/details/101108715)
- > 基于 wanandroid.com 开发的 MVP + Retrofit2 + RxJava2 +okhttp3 开发的 Android APP
- ## [Android基础：Activity的生命周期](https://blog.csdn.net/weixin_44035915/article/details/101062003)
- > Android基础：Activity的生命周期
- ## [Unity UI或3d场景（跟随手机陀螺仪）的晃动效果](https://blog.csdn.net/wangjiangrong/article/details/100895061)
- > Unity UI或3d场景（跟随手机陀螺仪）的晃动效果
- ## [关于OOM面试详解](https://blog.csdn.net/qq_42014702/article/details/101065191)
- > 关于OOM面试详解
- ## [RollViewPager的使用](https://blog.csdn.net/u014135589/article/details/101094361)
- > RollViewPager的使用
- ## [学习笔记之ANR_OOM](https://blog.csdn.net/u013255127/article/details/101112140)
- > 学习笔记之ANR_OOM
- ## [小米/手机，备份及恢复数据（红米5 plus 为例）](https://blog.csdn.net/qq_42909053/article/details/101117564)
- > 小米/手机，备份及恢复数据（红米5 plus 为例）
- ## [使用uni-app和Flutter的总结](https://blog.csdn.net/qq_24596243/article/details/101054346)
- > 使用uni-app和Flutter的总结
- ## [uni-app开发初体验](https://blog.csdn.net/qq_40077167/article/details/101106715)
- > uni-app开发初体验
- ## [求助，Android 通过wifi传输控制指令给单片机](https://blog.csdn.net/ghvjjhtt/article/details/101067685)
- > 求助，Android 通过wifi传输控制指令给单片机
- ## [苹果iPhone SE升级ios 13系统](https://blog.csdn.net/lineuman/article/details/101056758)
- > 苹果iPhone SE升级ios 13系统
 # PM 
+ ## [学了就会用的PRD、竞品分析等产品文档撰写法](http://www.woshipm.com/active/2895438.html)
+ > 写产品工作的相关文档，看似普通又基础，却是产品经理在追踪行业情况、将需求落地为产品的过程中必不可少的步骤，并且将贯穿产品经理的整个职业生涯。无论是刚入门产...
+ ## [数据中台实战（六）：交易分析](http://www.woshipm.com/pd/2899238.html)
+ > 上一篇文章讲到《数据中台实战（五）：自助分析平台》，本篇文章讲一下交易分析模块。交易分析设计原则交易数据是一个公司最核心的数据，领导层会十分关注，一线的运...
+ ## [B端产品解决方案设计方法论：以业务和需求为导向](http://www.woshipm.com/pd/2898080.html)
+ > B端产品解决方案是产品开发的指导性框架，想要顺利进行B端产品的开发，产品解决方案是必不可少的。本文从上至下对产品解决方案进行了梳理，并给出了设计过程中的建议。...
+ ## [去哪儿网机票事业部笔试题](http://www.woshipm.com/zhichang/2897096.html)
+ > 本文以去哪儿网机票事业部笔试题为例，分析了题目的答案与思考。题目一通常情况下，地铁站有四个地面出入口，站厅内摆放有自动检票进出站闸机，供乘客进出站检票，闸...
+ ## [如何校招进BAT做产品经理（三）-产品能力篇](http://www.woshipm.com/pmd/2894910.html)
+ > 在产品经理的求职过程中，产品能力是十分重要的因素。那么，该从哪方面培养产品能力呢？嗨，很高兴，以文字的形式和你见面。在17年校招中，我拿到了百度、京东、爱奇...
+ ## [ToB企业真的需要做品牌吗？](http://www.woshipm.com/marketing/2899692.html)
+ > 很多ToB企业开始大量投放广告，这与传统的ToB经验有所出入。那么，依照ToC的经验，ToB的企业需要在品牌方面大量投入吗？在ToB从业者的观点中，ToB和ToC无论从产品、运...
  ## [【天天问每周精选】第89期：周杰伦新歌上线，为什么单曲收费，高清MV却免费看？](http://www.woshipm.com/it/2895488.html)
  > 来了，来了，他来了，他带着新歌和奶茶走来了。单曲刚出来不到一小时，微博爆了，QQ音乐崩了，朋友圈刷屏了…… 跟风赶来的小问却发现单曲要付费购买，但是...
 
