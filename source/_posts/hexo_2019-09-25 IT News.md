@@ -1,7 +1,7 @@
 ---
 title: 2019-09-25 IT News
 copyright: true
-date: 2019-09-25 09:01:09
+date: 2019-09-25 10:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,19 +74,27 @@ L4&#32423;&#33258;&#21160;&#39550;&#39542;&#20840;&#26632;&#35299;&#20915;&#2604
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [科创板首个股权激励计划出炉丨谷歌推出软件订阅服务\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569373204&ver=1873&signature=-ZuoE5zSTliUamsObrtAr70y5hBa9nfH*uZlQBjW0zx3SSs4aBYNsV-Ak*WFYaHWBYgb*fz7jINW3omL2Ji9EMGt6qBswM7RIfWiAUVzbPddZAnb0EqTyuQqiHadbPKC&new=1)
+ ## [\[科技早报7点整\]阿里推出全新社交应用 谷歌将再次审听用户与语音助手对话……](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=TdXDpII3FDxvlc-GVnnpYmdKqm1cMP8ES-RcL1oAicW7RUYF1sV*3lACkg9gg5JdSQj2TfyuQ*nvgQRCNfIdAOcpde-8tLgEQyDlzs0jQB-n0Y*4ZiWvcnusFQZO8i0a&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第600期1.三大电信运营商：将提供退役军人专属通信套餐日前，退役军人事务部与中国电信、移动、联通三大运营商举行拥军优属合作协议签约仪式。三家运营商承诺，将为军人军属、...
+ ## [科创板首个股权激励计划出炉丨谷歌推出软件订阅服务\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=-ZuoE5zSTliUamsObrtAr70y5hBa9nfH*uZlQBjW0zx3SSs4aBYNsV-Ak*WFYaHWciIqBJfedYYPaaI8bhSq2rePQRKS9Idibxrg9c0Q3RzhrTHTAV36ErFLThdIXkuh&new=1)
  > 9月24日丨周二【Do说】编辑 | 赵艾虎科创板首个股权激励计划出炉，关键条款现重大创新科创板首份股权激励方案出炉。9月23日晚间，乐鑫科技发布限制性股票激励计划草案，拟向21名激励对象授予29.28万股限制性股票...
- ## [建立“数据中台”是平台化至关重要的一步](http://mp.weixin.qq.com/s?src=11&timestamp=1569373204&ver=1873&signature=Yds-SvK0qT6Th3H*Hev-cv2Pmr5vL0wTZBGiIQ1M84QGDZzJUstt4OK9jRqDppte71GjySS24dzsr0beTZ9Muvqe5wq*beaCo8JGbZs6YqOgLtX9pdRyY8IsAvsy9*K6&new=1)
+ ## [7点见|雷军：看我们把友商按在地上摩擦；孟晚舟朋友圈发声；三大运营商推退役军人专属套餐](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=tgSqrFsvjcOeFqs0CtopZADYLjFMTfY7aOsawVnhAL7fsUgekQRKhqhzb5jgIAxvrg1sPgOl-aZzeDJ7LAl5RqpHGPunQy2ErMB7iW5DXyXGkcUIbV1NBwEORiHt6ex-&new=1)
+ > 各位小伙伴们，早上好呀！昨天小七的朋友圈被“请给我一面五星红旗@微信官方”刷屏了，其实这个场景很多年前就发生过。只不过当时小学生们转发的是“复制转发此条消息，就可获得1个月QQ会员”。看来，当时的小学...
+ ## [建立“数据中台”是平台化至关重要的一步](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=Yds-SvK0qT6Th3H*Hev-cv2Pmr5vL0wTZBGiIQ1M84QGDZzJUstt4OK9jRqDppte2ayNc03-Z-nKqCsStyginiPgVBjY6jbFLHgweGZp79QvvSJsFK4pPTQTQsCJqn8z&new=1)
  > 今天是管理思想自我升维第80天！企业家需要关注两件事：第一，保持现有的；第二，持续发展。——马克·扎克伯格伴随着云计算、大数据、人工智能等IT技术迅速发展及与传统行业实现快速融合，一场由数字化和智能化...
- ## [\[报告\]2019中国新能源汽车发展研究(附22页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569373204&ver=1873&signature=fuvcC10mU7Rz4XjctLX3WZrdtyCFs3V0Mf6jGbQkLA-wJCfXO1W9r36MY8w53lYO7WYMf988UvdNuYl9hw9lIYY64FM3Ne-bqQx4jSXZfRUyG83xgorAf84ML4Bf8cYm&new=1)
+ ## [OVC干货|本周四晚·光电公开课·第二讲即将开讲 欢迎扫码报名啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=drZWczmZIXyFv9S9*HBMRzCNOFhBOJnA53BZRxTAjD7xkCG3b-keJkhrZbhwotqZ6x0opuhPDg3quN3lanQWVBLDHMoHY4tiPB-TN5OFpwM8GyOGgB6uOuIImKCz708E&new=1)
+ > 导读       光电公开课·第二讲——《DFB激光器及25G光芯片》将于本周四晚开讲!本次公开课由台湾高雄应用科技大学教授施天从博士为大家授课，开课在即!欢迎扫码报名听课!上期光电公开课，我们学习了超快激光器在...
+ ## [\[报告\]2019中国新能源汽车发展研究(附22页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=fuvcC10mU7Rz4XjctLX3WZrdtyCFs3V0Mf6jGbQkLA-wJCfXO1W9r36MY8w53lYOc4Cl9nTDZfzSKcmlisXNYWLrWVr*UfWVgV65KX3VaFbBhwaAm*6bgXX8TM9G3LYh&new=1)
  > 新能源汽车是战略性新兴行业之一，发展新能源汽车是中国由汽车大国迈向汽车强国的必由之路。以2009年“十城千辆”新能源汽车推广应用示范工程为起点，中国新能源汽车产业经过近十年的发展，取得了令人瞩目的成就...
- ## [未来主义美食体验，会成为VR的救星吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1569373204&ver=1873&signature=4xMVtV4B5CIw*9CbQIxm7sDoMpGdsmu64cPC2DFvAUtGaCFx-LSjYgQI8WCxyfN0WnDwcFFh64*CFNc2T9WAiSUE7JwCLBqA6XIn0b7YTtrp2-A*ZPsgwjmA-WVjnL28&new=1)
+ ## [未来主义美食体验，会成为VR的救星吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=4xMVtV4B5CIw*9CbQIxm7sDoMpGdsmu64cPC2DFvAUtGaCFx-LSjYgQI8WCxyfN0UtWjA4jLrl7k73RfMjkaGQYukhiLNhnAuUPkpmGpXTr1XkUrY0rS1oFEk00Iu*CD&new=1)
  > Esther｜ 编辑“有点可怕，但为了那份甜点值得了。”在经历了《航空宴会RMX》VR美食盛宴后，60岁的Youngah Choi如是说道。据悉，在大部分体验过程中，她一直处于兴奋状态。今年6月，《航空宴会RMX》曾亮相韩国光...
- ## [任正非答外媒记者问：我挺身而出，为了救女儿，也为了救华为!](http://mp.weixin.qq.com/s?src=11&timestamp=1569373204&ver=1873&signature=9a3Ayu*BVXEmhXBb*jk1BVC8lt1T9Rj-07I6uILxg5cHxV2Bge5OoTsZo*kQsP*i0LK79J0wf2f2z7IaY1W5*77pvS1VlrrziMQxLGUc7wt8NYnG1Z7rSj0QktUZAkpb&new=1)
+ ## [任正非答外媒记者问：我挺身而出，为了救女儿，也为了救华为!](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=9a3Ayu*BVXEmhXBb*jk1BVC8lt1T9Rj-07I6uILxg5cHxV2Bge5OoTsZo*kQsP*iVTAFqXlu3B7SLURKkmF6vXv8w50xNKY6YDHbD00i4Y97N3CeRstl6g3MKLtJ97uG&new=1)
  > 2019年7月18日，华为创始人任正非在松山湖基地接受意大利媒体的采访，采访媒体包括《共和报》《晚邮报》《24小时太阳报》、意大利通讯社、安莎通讯社等。以下是华为官方公布的采访全文。任正非：非常欢迎大家光...
- ## [10月25日大批知名企业齐聚南京 共享无人机行业盛会!](http://mp.weixin.qq.com/s?src=11&timestamp=1569373204&ver=1873&signature=puxtIJaHfLIugSOnv6gqUEm-pmik45RnXWYOqQDCwN1uXXiXlZy32WHKHxCpsMyeSnA8iYQJYPtX*qmHmDvmyfbZICRTUHNzdarPsh3KuFxU6UMHNSYGcdeOd50eu4C7&new=1)
+ ## [10月25日大批知名企业齐聚南京 共享无人机行业盛会!](http://mp.weixin.qq.com/s?src=11&timestamp=1569376804&ver=1873&signature=puxtIJaHfLIugSOnv6gqUEm-pmik45RnXWYOqQDCwN1uXXiXlZy32WHKHxCpsMyePBra7tkSE8zinmPONw91UUj*Q5SM-u7*OhaWTDEXtxL5AY83Hek0RsUo0b3rDTw7&new=1)
  > 近年来，随着无人机研制、生产成本不断降低，国家政策逐步落地，市场发展愈发成熟，我国无人机产业将迎来新一轮爆发。浦口区作为南京重点无人机产业基地，无人机产业集聚效应初现，百亿产业蓄势待发。在江苏省和...
 # IT 技术 
+ ## [十个基本的Python数据科学软件包](http://bigdata.51cto.com/art/201909/603497.htm)
+ > 十个基本的Python数据科学软件包
  ## [为什么MySQL索引要用B+树，而不是B树？](http://database.51cto.com/art/201909/603430.htm)
  > 为什么MySQL索引要用B+树，而不是B树？
  ## [4种出色的Python测试框架！](http://developer.51cto.com/art/201909/603429.htm)
@@ -101,90 +109,73 @@ L4&#32423;&#33258;&#21160;&#39550;&#39542;&#20840;&#26632;&#35299;&#20915;&#2604
  > 支撑百万并发的“零拷贝”技术，你了解吗？
  ## [拿下抖音小姐姐，我写了个口红色号识别器！](http://developer.51cto.com/art/201909/603363.htm)
  > 拿下抖音小姐姐，我写了个口红色号识别器！
- ## [写过25W行代码，3个操作系统：我如何做架构设计来降低代码复杂度?](http://news.51cto.com/art/201909/603358.htm)
- > 写过25W行代码，3个操作系统：我如何做架构设计来降低代码复杂度?
- ## [从单体式架构迁移到微服务架构：三个策略完美叙述](http://developer.51cto.com/art/201909/603491.htm)
- > 迁移单体式应用到微服务架构意味着一系列现代化过程，有点像这几代开发者一直在做的事情，实时上，当迁移时
- ## [搜出1亿个结果的5G，线下却没那么热门](http://mobile.51cto.com/news-603489.htm)
- > 从各媒体以及手机厂商的宣传中，仿佛5G时代已经正式拉开帷幕，用户只需要入手一台支持5G版本的手机，再办理
- ## [MySQL数据库监控指标之吞吐量](http://database.51cto.com/art/201909/603488.htm)
- > 如果你的数据库运行缓慢，或者出于某种原因无法响应查询，技术栈中每个依赖数据库的组件都会遭受性能问题。
- ## [非结构化数据在人工智能中的作用](http://ai.51cto.com/art/201909/603487.htm)
- > 非结构化数据对人工智能系统的发展至关重要。人工智能系统与用户的沟通越好，就越能自主学习，因此，它的效
- ## [公有云市场集中态势出现](http://cloud.51cto.com/art/201909/603485.htm)
- > 近几年来，AI、IoT、5G等ICT技术的飞速发展为云计算市场带来巨大发展机遇，各大公有云服务商纷纷推出新产品
- ## [混合云成为“IT新常态”的五大原因](http://cloud.51cto.com/art/201909/603484.htm)
- > 不管是主观能动性使然，还是客观因素推动，企业IT的今天已开始越来越多地转向云模式，更准确地说是迈向混合
- ## [Python帮你微信头像任意添加装饰，别再@微信官方了！](http://developer.51cto.com/art/201909/603486.htm)
- > 昨天朋友圈刷爆了@微信官方的梗，从起初的为头像添加国旗，到最后的各种Book思议的需求…而我呢？@了辣么辣
- ## [Java性能之优化RPC网络通信](http://network.51cto.com/art/201909/603490.htm)
- > 当一个连接关闭时，TCP会通过四次挥手来完成一次关闭连接操作，在请求量比较大的情况下，消费端会有大量TIM
- ## [5G、自动驾驶、人工智能都到什么阶段了？一张图就能看懂](http://ai.51cto.com/art/201909/603483.htm)
- > 今年，Gartner从2000项技术中选出了29项，并由此总结出了企业决策者应该纳入考虑范围的五大创新技术趋势。G
- ## [Android性能优化之启动加速35%](http://mobile.51cto.com/aengine-603482.htm)
- > 随着项目版本的迭代，App的性能问题会逐渐暴露出来，而好的用户体验与性能表现紧密相关，从本篇文章开始，
- ## [代码整洁 vs 代码肮脏](https://blog.csdn.net/u010378410/article/details/100883370)
- > 代码整洁 vs 代码肮脏
- ## [9月24日科技资讯|中国移动：部分 5G 手机可能有网连不上；iOS 13 出现严重漏洞；ReactOS 0.4.12发布](https://blog.csdn.net/weixin_39786569/article/details/101287332)
- > 9月24日科技资讯|中国移动：部分 5G 手机可能有网连不上；iOS 13 出现严重漏洞；ReactOS 0.4.12发布
+ ## [波士顿动力双足机器人Atlas放出逆天体操表演，网友：可怕](http://news.51cto.com/art/201909/603506.htm)
+ > 这次是双足机器人Atlas，继表演跑酷、后空翻等绝技之后，刚刚Atlas又放出一段逆天的技能展示：全程高能的机
+ ## [专家：10年后6G将问世 速度有望比5G快100倍](http://network.51cto.com/art/201909/603503.htm)
+ > 前不久，华为内部员工社区平台“心声社区”刊登了该公司创始人任正非于本月上旬接受《经济学人》采访的纪要
+ ## [推动智慧交通建设，应该从这五个方面入手](http://www.cioage.com/art/201909/603502.htm)
+ > 智慧交通正是利用云计算，大数据，物联网及人工智能等多种信息技术，实现对城市轨道交通，公交系统和高速公
+ ## [Linux系统――架构浅析](http://os.51cto.com/art/201909/603504.htm)
+ > 1991年，还在芬兰赫尔辛基大学上学的Linus Torvalds在自己的Intel 386计算机上开发了属于他自己的第一个程
+ ## [全新iPadOS 13.1发布 增添多项强大新功能](http://mobile.51cto.com/app-show-603501.htm)
+ > 苹果今天发布了 iPadOS 13.1。这款全新命名的强大操作系统，为 iPad 带来了独特体验。iPadOS 在 iOS 的相同
+ ## [Nature发文：量子计算研究应该全球互通，不应筑起壁垒](http://news.51cto.com/art/201909/603500.htm)
+ > 近日，谷歌实现量子霸权的研究引起了全球对量子计算的广泛关注，圈内人士也认为这是该领域的里程碑事件。但
+ ## [谷歌如何实现10亿行代码的测试覆盖率？](http://news.51cto.com/art/201909/603498.htm)
+ > 谷歌研究人员进行了一项分析，这项分析揭示了该公司的工程师如何管理 10 亿行代码的代码测试覆盖率。
+ ## [了解物联网的发展，看这篇文章就够了](http://iot.51cto.com/art/201909/603496.htm)
+ > 物联网产业的兴起提高了人们生活、工作的信息化和智能化水平。促进物联网产业的发展以及提高新兴产业的经济
+ ## [Linux 内核的五大创新](http://os.51cto.com/art/201909/603499.htm)
+ > 在科技行业，创新这个词几乎和革命一样到处泛滥，所以很难将那些夸张的东西与真正令人振奋的东西区分开来
+ ## [AI 军备竞赛，催生未来 AI 硬件架构发展 3 大方向](http://news.51cto.com/art/201909/603494.htm)
+ > 随着人们越来越多地使用 AI 来解决各个领域的问题，一场“ AI 军备竞赛”就此打响，即创造出能够以更高速度
+ ## [Java 13 来袭，最新最全新特性解读](https://blog.csdn.net/hollis_chuang/article/details/100877687)
+ > Java 13 来袭，最新最全新特性解读
  ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
  > 鸿蒙 OS 的到来，能为我们改变什么？
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [推荐几个阿里、美团、腾讯大佬的技术公众号，来一起学习吧！](https://blog.csdn.net/easylife206/article/details/100910809)
- > 推荐几个阿里、美团、腾讯大佬的技术公众号，来一起学习吧！
- ## [ConcurrentHashMap是如何保证线程安全的](https://blog.csdn.net/H_Gao/article/details/101266831)
- > ConcurrentHashMap是如何保证线程安全的
- ## [别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！](https://blog.csdn.net/kexuanxiu1163/article/details/101185162)
- > 别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！
- ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
- > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
+ ## [周杰伦新歌《说好不哭》上线，程序员哭了......](https://blog.csdn.net/devcloud/article/details/101024677)
+ > 周杰伦新歌《说好不哭》上线，程序员哭了......
+ ## [重磅 | 华为发布绝杀计算战略！投15亿美元打造开放生态，全球最快AI训练集群Atlas 900，绝了！](https://blog.csdn.net/sch881226/article/details/100982292)
+ > 重磅 | 华为发布绝杀计算战略！投15亿美元打造开放生态，全球最快AI训练集群Atlas 900，绝了！
+ ## [9月24日科技资讯|中国移动：部分 5G 手机可能有网连不上；iOS 13 出现严重漏洞；ReactOS 0.4.12发布](https://blog.csdn.net/weixin_39786569/article/details/101287332)
+ > 9月24日科技资讯|中国移动：部分 5G 手机可能有网连不上；iOS 13 出现严重漏洞；ReactOS 0.4.12发布
  ## [手绘知识点——指针入门](https://blog.csdn.net/u014483914/article/details/101165585)
  > 手绘知识点——指针入门
- ## [如果让你手写个栈和队列，你还会写吗？](https://blog.csdn.net/devcloud/article/details/100921314)
- > 如果让你手写个栈和队列，你还会写吗？
+ ## [\[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）](https://blog.csdn.net/Eastmount/article/details/101101829)
+ > \[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）
+ ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
+ > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
+ ## [别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！](https://blog.csdn.net/kexuanxiu1163/article/details/101185162)
+ > 别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
+ ## [go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包](https://blog.csdn.net/weixin_38171180/article/details/101177633)
+ > go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包
+ ## [深度学习入门笔记（五）：神经网络的编程基础](https://blog.csdn.net/TeFuirnever/article/details/100835785)
+ > 深度学习入门笔记（五）：神经网络的编程基础
+ ## [9月21日科技资讯|荣耀赵明 “Diss” 5G 手机；甲骨文创始人埃里森：Uber 一文不值；Chrome 77 发布](https://blog.csdn.net/weixin_39786569/article/details/101098662)
+ > 9月21日科技资讯|荣耀赵明 “Diss” 5G 手机；甲骨文创始人埃里森：Uber 一文不值；Chrome 77 发布
  ## [了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑](https://blog.csdn.net/u011642663/article/details/101265254)
  > 了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑
- ## [程序员该如何向奶奶解释 SQL 和 NoSQL？](https://blog.csdn.net/csdnnews/article/details/100815496)
- > 程序员该如何向奶奶解释 SQL 和 NoSQL？
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
- > 我花了一夜用数据结构给女朋友写个H5走迷宫游戏
- ## [装饰者模式，从吃黄焖鸡开始说起](https://blog.csdn.net/z694644032/article/details/101199769)
- > 装饰者模式，从吃黄焖鸡开始说起
-# 人工智能 
- ## [手机免费挖矿，火遍全球的神级项目](https://blog.csdn.net/weixin_43198340/article/details/101170947)
- > 手机免费挖矿，火遍全球的神级项目
- ## [全国沙龙巡演福州站启动，UCK与BTC100携手共创未来](https://blog.csdn.net/UCK_Network/article/details/101208484)
- > 全国沙龙巡演福州站启动，UCK与BTC100携手共创未来
- ## [关于区块链的一些个人理解](https://blog.csdn.net/weixin_43839871/article/details/101129821)
- > 关于区块链的一些个人理解
- ## [Pi network 正向全球招募人才](https://blog.csdn.net/weixin_43198340/article/details/101202875)
- > Pi network 正向全球招募人才
- ## [Leetcode实战：122.买卖股票的最佳时机II](https://blog.csdn.net/qq_44315987/article/details/101164863)
- > Leetcode实战：122.买卖股票的最佳时机II
- ## [秦川说币9月22日行情分析 比特币利好不断 消息市场分歧 原因何在](https://blog.csdn.net/qinchuanshuo/article/details/101156996)
- > 秦川说币9月22日行情分析 比特币利好不断 消息市场分歧 原因何在
- ## [韩国Bitzon交易所 平台币MFT是什么模式?怎么样？](https://blog.csdn.net/weixin_45157139/article/details/101168076)
- > 韩国Bitzon交易所 平台币MFT是什么模式?怎么样？
- ## [Yotachain资源通证和代币（YTA）有什么关联？](https://blog.csdn.net/weixin_45530637/article/details/101196032)
- > Yotachain资源通证和代币（YTA）有什么关联？
- ## [炒币机器人：下一波牛市什么时候来？](https://blog.csdn.net/UncleDu183/article/details/101150156)
- > 炒币机器人：下一波牛市什么时候来？
- ## [LeetCode 122：买卖股票的最佳时机 II（Java实现）](https://blog.csdn.net/qq_45093368/article/details/101191694)
- > LeetCode 122：买卖股票的最佳时机 II（Java实现）
- ## [力扣刷题122. 买卖股票的最佳时机 II(java)](https://blog.csdn.net/NumberOneStudent/article/details/101145592)
- > 力扣刷题122. 买卖股票的最佳时机 II(java)
- ## [windows10基于Node.js的express服务器搭建并通过web3.js连接简单合约（二）](https://blog.csdn.net/weixin_37163556/article/details/101165036)
- > windows10基于Node.js的express服务器搭建并通过web3.js连接简单合约（二）
- ## [leetcode---腾讯  买股票的最佳时机2](https://blog.csdn.net/weixin_43264420/article/details/101192457)
- > leetcode---腾讯  买股票的最佳时机2
- ## [珠海专业矿机Yottachain芝麻云节点服务器泛圈科技就是这么厉害](https://blog.csdn.net/ELANE556/article/details/101195442)
- > 珠海专业矿机Yottachain芝麻云节点服务器泛圈科技就是这么厉害
- ## [LeetCode实战：122. 买卖股票的最佳时机 II](https://blog.csdn.net/weixin_43250252/article/details/101200000)
- > LeetCode实战：122. 买卖股票的最佳时机 II
+ ## [推荐几个阿里、美团、腾讯大佬的技术公众号，来一起学习吧！](https://blog.csdn.net/easylife206/article/details/100910809)
+ > 推荐几个阿里、美团、腾讯大佬的技术公众号，来一起学习吧！
 # PM 
+ ## [5G时代的营销推广：找准品牌差异化](http://www.woshipm.com/marketing/2907511.html)
+ > 技术的发展倒逼营销手段的改变，5G手机已经上线，5G的广泛应用指日可待，你的新营销准备好了吗？5G时代的带来，信息爆炸时代会演变为信息泛滥时代、信息碎片时代。只...
+ ## [6个部分，详解处方流转平台规划方案](http://www.woshipm.com/pd/2908579.html)
+ > 本文从市场环境、用户分析、产品需求、竞品分析、产品方案等角度，讲解了一个处方流转平台规划方案是怎么样的？1 基本信息1.1 文档基本信息本文档为XXX处方流转平台...
+ ## [网盘十年，走向何方？](http://www.woshipm.com/it/2909705.html)
+ > 陪伴国人度过了无数寂寞时光的一代神器，从最初的“入局者众”到如今的“幸存者寡”，网盘们在这些年里到底发生了什么？上周，周董的一曲新歌《说好不哭》让QQ音乐崩溃，...
+ ## [人人网之后，校园社交一个能打的都没有](http://www.woshipm.com/it/2911290.html)
+ > 校园流量是一块美味的蛋糕，人人网最终败给了时间，后来者前仆后继。能打的校园社交，创新必然是颠覆性的。本文转载自公众号刺猬公社（ID：ciweigongshe）作者：园...
+ ## [产品工作方法论：走出信息陷阱，别让信息成为你的安慰剂](http://www.woshipm.com/pd/2910361.html)
+ > 走出信息陷阱，别让信息成为你的安慰剂。最近看到个很有趣的案例：袁世凯平时喜欢阅读的一种报纸是《顺天时报》，它在民国初期是比较有名的报纸。1915年,《顺天时报...
+ ## [线下课程丨不够自信的我，离开外包后，7天拿到2个满意的产品offer](http://www.woshipm.com/active/2896521.html)
+ > 只要你准备好，接下来就是源源不断的机会。做了2年产品，依然没有知识体系1年的产品助理，是做to B的产品电子招投标系统的产品助理，主要为公共资源交易中心提供技术...
+ ## [SaaS获客的三大误区](http://www.woshipm.com/operate/2908559.html)
+ > SaaS的获客革命到来，有哪些误区要小心？最近获客的话题又有些热，我去年写过两篇文章（附在文末）今年看看还是有点超前。罢了，我就写几个我感觉大家在实际工作中可...
+ ## [产品思维：进入新领域后如何思考当下环境](http://www.woshipm.com/zhichang/2589495.html)
+ > 很多产品经理入职一家公司后，往往跟之前做的领域完全不一样，在面对新产品的时候难免会有点无从下手的感觉，本篇文章中，笔者分享了思考新领域的几个小方向，一起来看...
  ## [文案第10讲 | 亲爱的公关稿，我怎么才能写好你](http://www.woshipm.com/copy/2909628.html)
  > 大多人写公关稿时，往往是生搬硬套地添加内容与品牌价值观，造成的传播效果并不理想。而针对这一现象，笔者总结了一些写好公关稿的技巧。公司新品上市，你突然接到领...
  ## [前阿里中台架构师的中台经验谈](http://www.woshipm.com/it/2909035.html)
