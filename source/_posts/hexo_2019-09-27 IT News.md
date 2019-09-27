@@ -1,7 +1,7 @@
 ---
 title: 2019-09-27 IT News
 copyright: true
-date: 2019-09-27 10:01:21
+date: 2019-09-27 12:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,55 +66,71 @@ VR&#28216;&#25103;&#24320;&#21457;&#20844;&#21496;&#8220;&#32511;&#27954;VR&#822
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [mate30 5G定价比预期低，有利于争取运营商订单](http://mp.weixin.qq.com/s?src=11&timestamp=1569549604&ver=1877&signature=qowXgejUsYScANr7fleH5IIHNGiHACD-2OEh*yL6*fQ3XVW3Sit5qvlW-V69KSAbjFbIx3Kzcjxvgv54xBwwjq8i7f82w5hyuJjxh2ri*z1YvZNpMdV9yz0onF0RVNUZ&new=1)
+ ## [抓住转型机会，免费送价值19880元大数据人工智能开发全套教程(源码+视频)](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=nsgS0JxQCdDyOEiAbxiQeFAExeMr6XeulwzK5TykSZn8TKNoFTX0DQebtlPqIPczwCeACD96l0STTVvFbzDs33F24Onq6AXKQ5Z5OK4WQu*h-aGCAz4PD04yZ5vT6eRp&new=1)
+ > 随着人工智能、大数据、AI、云计算、区块链等新技术出现，加速了产业互联网的到来，加速了传统行业产业链快速涌入到互联网的新世界，所以它是未来的大趋势，而大数据是这些基石，万物互联、机器学习都是大数据应...
+ ## [国产第四代砂型3D打印机引关注，铸造行业百位专家考察峰华卓立](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=QXaJn02CcEttfyIT8OxdF*MEvzsMPDBcYKVq4FWLXJ-cIX-ge3PHhz8D2i9iOZCL-2bLAxPbMRe7-cUHxO3eT-aFvi*YY53JQf9kgO1tHPVhS8Y77nnRXFJMZdOtZi6P&new=1)
+ > 关注南极熊3D打印前不久，国产砂型3D打印机产业化领军厂商——峰华卓立，发布了第四代砂型3D打印机。据南极熊了解，这是他们历经近20年在砂型3D打印行业自主研发默默耕耘的结晶。 2019年9月26日，上百位参加第20...
+ ## [现阶段闪存价格和市场双双低迷，但未来复苏迹象或将加快?](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=b*Y*jbZkrFVhpzifYpLTQLwXWkisv4jCDaMUspJRveodxtlGtk6m357Rb5wvIW4BP4bKHVYj9z3X*irnSN8mB1V-8YJT*N5iaZ30oPCjGw-7Yb5zpLBZQANdCkR3ZPov&new=1)
+ > 随着市场和产业的不断发展，存储芯片在整个芯片中占比最大，国际大厂等公司主导着市场发展，而中国的存储芯片也正在加速国产化。据中国闪存市场ChinaFlashMarket数据，2019年全球半导体存储市场规模将达1100亿美...
+ ## [5G“催熟”VR眼镜爆发?最该偷笑的或许应该是她?](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=GvhpSROoEfRJq-fnv1ypVjqMs4NPNdcK*JpPpM5PB9KMHVEt34XxOVQVKSki8tizJTEnTVotiRpa*P-Ju85gWv*SiAODDGWydTM3rd0dIqoNEu1TgMvv2zoM6qNmXW4f&new=1)
+ > 众所周知，谷歌是比较早涉足到“智能眼镜”市场的，但由于种种原因一直没有把智能眼镜打造成一种发展趋势。其实，谷歌眼镜的探索并未取得良好的结果的原因也是多方面的。其中比较重要的一点是，谷歌眼镜遭遇了很...
+ ## [惠程科技计划投资4500万美元用于XJET金属和陶瓷3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=OLCQiKUrl13Sk4gX7bH7jSETTU0TtoRHjpydndeP9r37AAYv7ULtp*k6t8auF*AzE00TLx7YfI*6R2IATxNT5VYc9lq8m7iYe7Smap9Xu6bsZ87aM9jPRL-DXvc0cRar&new=1)
+ > 中国的电子设备和手机游戏开发商深圳市惠程信息科技股份有限公司(以下简称&quot;惠程科技&quot;）已透露，它打算向陶瓷和金属3D打印提供商XJet投资至多4,500万美元。9月25日，惠程科技向深圳证券交易所提交了备案文件，预...
+ ## [公共Wi-Fi网络或可泄露个人信息](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=jEOwHeAA*d8uEPwYrF-jtiBYx77szttAbYmeqnHAqSJ5a8XDrauvGlv71pWSjR5YFcNjvM6juhpYdxlcEvoS*5C9DD3npF7ZO3jnoj2voeOtvd9I5JxJxXo1WWqZKFXL&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：近日，Magecart黑客组织编写了针对路由器的恶意脚本，可用于攻击商业级别的“第七层”路由器。  据外媒报道，Magecart黑客组织近日在编写针对路由器...
+ ## [8点1氪：华为Mate 30系列3999元起售；苹果标志未来可在iPhone上用于通知提醒；百度首批自动驾驶出租车队正式面向公众](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=PRKeuDexrSFEF4wj2GdwgImnme6Q8TteEBOqAlNydZXK6jmftM83S57QcQ7cm3Rhtq28utvsFBWTK0p7xQwZe6Ntp1ADE5S*Awy1ATPvUDnu3qa72o6JnRiug3aO1iK-&new=1)
+ > 华为昨日发布Mate 30系列国行版，售价3999元起。Mate30系列在华为商城销售额1分钟破5亿。文 | 石海威 邹黄晶整理 | Kr Lab点击上方「36氪随声听」，一键收听大公司热门新闻。听完音频记得添加进入「我的小程序」...
+ ## [1分钟破5亿元，华为Mate30系列被抢疯；传字节跳动叫卖海外版头条；恒大回应7折促销精装修房](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=9Ymn*rXNYT3NMhFr7rPZwMZbG1p-z81EzlpIQTuhgKZ0bX27mH0MA0*IluI-RI5KY4fvWEPc35lddyqoYsRcJJLEUTX-QASEq**AF1DReyRGEU36NWOq-pezc8K4NmWV&new=1)
+ > 周五啦朋友们，十一长假近在眼前！话不多说中企早报看起~ 先来看两则要闻： 【李克强：部署加强市场价格监测预测预警，保持物价基本稳定保障基本民生】 9月26日，国务院总理李克强主持召开国务院常务会议，部署...
+ ## [mate30 5G定价比预期低，有利于争取运营商订单](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=qowXgejUsYScANr7fleH5IIHNGiHACD-2OEh*yL6*fTPdzqBTU8-ajK1E3Vwg1Mi98VwxIepEgCoCXH7scPUzl-VN2HK9L0VF2W44YtI9Rt8aYJgivfwC661YKbpkrXq&new=1)
  > 华为正式在国内发布了mate30手机，让人惊讶的是技术更成熟的5G手机mate30 5G定价仅为4999元起，较上一代5G手机mate20 X 5G版低了五分之一，此举有利于华为争取运营商的订单，对于推动mate30的销售有利。5G手机销...
- ## [华为首次出手投资国内人工智能企业——在AI领域，华为要下一盘怎样的棋?](http://mp.weixin.qq.com/s?src=11&timestamp=1569549604&ver=1877&signature=DRa5eELhBGls40aHcnxrP1kEEMCNsSaUkX69gXL1tMMh2PFVPhK08fbF0VKq3ibZAOsgBp33pYuO*yw5EEe057SNAhSxPO2kbNATw2PZvKid328ofG1oc5M11wqdB0*g&new=1)
+ ## [华为首次出手投资国内人工智能企业——在AI领域，华为要下一盘怎样的棋?](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=DRa5eELhBGls40aHcnxrP1kEEMCNsSaUkX69gXL1tMPjzg1H5Oam8ImvTS*3pV6B86B45LT797P9YLeFjDen1hjjl3edHr50UfD--HHm7lnymkJf4orzBDWFb2Vnn5eM&new=1)
  > 9月23日，从国家企业信用信息公示系统获悉，华为旗下全资子公司哈勃投资出手投资了国内人工智能第一梯队的企业深思考人工智能，投资金额为数千万人民币。天眼查数据显示，华为子公司哈勃半年内共投资三家企业，...
- ## [一图看懂阿里平头哥含光800AI芯片!](http://mp.weixin.qq.com/s?src=11&timestamp=1569549604&ver=1877&signature=-dXr6FVTyo7DMXDH617ZDmYqYuoKFNXdKClTgBBrXxe3Oz1nZ8Vnzdw9*7ZwQuNW7pUcAKVP9Ps5DpRHMgPHK4LOMYhik6PwtnWLPw1g5nU2TqPwaGYh3I1GszDAamWk&new=1)
+ ## [一图看懂阿里平头哥含光800AI芯片!](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=-dXr6FVTyo7DMXDH617ZDmYqYuoKFNXdKClTgBBrXxdhBiTaY3Uo8Cm5QsJyx6bYS7xWA7WFtis1pnWUj6PavTeJTf32ES-B23ojKV8-PDDn7LgqmbvBjn--ZCIXzn2p&new=1)
  > 今日阿里巴巴“2019云栖大会”在杭州正式拉开帷幕，会上阿里巴巴达摩院院长张建锋现场发布了全新的含光800AI芯片，官方称这是全球最高性能的AI推理芯片。性能方面，在业界标准的ResNet-50测试中，含光800推理性...
- ## [任正非对话人工智能专家全文实录：华为5G技术只卖给美国](http://mp.weixin.qq.com/s?src=11&timestamp=1569549604&ver=1877&signature=2LHbbnrHKdyOpqJ1ujXUbPddtaMZEE2Nsj7anxhAA0WQ8pC6uKJpmOfCekj3C-9mHTTnsAqO-4YJijnOwGrv1jd6NuO44t7Lm3aZZf5W0eteHRVdtta6IWwEbguGTBNT&new=1)
+ ## [任正非对话人工智能专家全文实录：华为5G技术只卖给美国](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=2LHbbnrHKdyOpqJ1ujXUbPddtaMZEE2Nsj7anxhAA0V2orDn5Q7vhSkPUtVZUIDS7RoRykyDWsqzzPBnV9bw1dKbqwnRr7XbOQ*nmzgp5Eeeucpd66FX2V7hd7p374Dx&new=1)
  > 腾讯科技讯 9月26日，华为创始人兼CEO任正非与两位人工智能领域专家对话，探讨有关创新、规则、信任的话题。嘉宾Jerry Kaplan（杰里·卡普兰）是全球人工智能专家、未来学家、平板电脑行业先驱；嘉宾Peter Cochr...
- ## [\[科技早报7点整\]任正非称真把华为打垮才高兴 芯片设计商ARM表示将与华为长期合作](http://mp.weixin.qq.com/s?src=11&timestamp=1569549604&ver=1877&signature=BWa2kTeE0wdmTj9PezOHVPrmGaqoyp*-IoioOi9Pvadv8xneqjX93NfBUAxaMP6cwV1MdDPY8yJPXV-whzYfo2iexWIBzMBiJamjT2DmsFJhjekmxyiGOmR-MqJpgOKc&new=1)
+ ## [\[科技早报7点整\]任正非称真把华为打垮才高兴 芯片设计商ARM表示将与华为长期合作](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=BWa2kTeE0wdmTj9PezOHVPrmGaqoyp*-IoioOi9Pvaf-fAWhGRnRXBbo3YxUhcdRH4KN8RtRiuiWsSb9shyCYQsl1j6yix0bUHmSlu6ZkoRiUAv82rpFZak7sOxi3Sjf&new=1)
  > 早上好，科技圈【一度蜜科技早报】第602期1.任正非称不担心对手带来威胁：真把华为打垮我才高兴华为创始人任正非对话人工智能专家时表示，华为应将5G技术授权给一家美国公司，他表示不担心会出现强大的竞争对手...
- ## [滴滴英文版上线两周年丨亚马逊首推智能眼镜和戒指\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569549604&ver=1877&signature=imJK7EjPy8qcpKOG-FksFqy-rr2sXSPQ-zkJ0YMoVx82AQZwzFsJAaAMSzhnP*PxG3B-twZxCicTtQ7y5wMfyNrx*J1uy4YUHZcj70NeNbb1S9CV0zVe4duIeT9sVyEe&new=1)
+ ## [滴滴英文版上线两周年丨亚马逊首推智能眼镜和戒指\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569556804&ver=1877&signature=imJK7EjPy8qcpKOG-FksFqy-rr2sXSPQ-zkJ0YMoVx-HJFy6jzqVEH*X4qdD9SLWqNxE*mH3wrP156aN9i9SU0b*kewoINU2uF2vQJ928ZjT17933vd*GOJttUY07g44&new=1)
  > 9月26日丨周四【Do说】编辑 | 赵艾虎滴滴英文版上线两周年，服务用户超200万近日，滴英文版发布两周年服务报告显示，在中国使用滴滴英文版的用户已经超过200万，两年内增长了16倍，滴滴英文服务用户的总行驶里程...
 # IT 技术 
+ ## [教程：使用U盘将Linux Mint安装到Windows笔记本上](http://os.51cto.com/art/201909/603660.htm)
+ > 教程：使用U盘将Linux Mint安装到Windows笔记本上
  ## [Redis内存回收机制，把我整懵了...](http://stor.51cto.com/art/201909/603645.htm)
  > Redis内存回收机制，把我整懵了...
  ## [Visual Studio Code的十项开发技巧](http://developer.51cto.com/art/201909/603626.htm)
  > Visual Studio Code的十项开发技巧
+ ## [Android替代品：2019年排名前8的移动操作系统，你看好哪个？](http://news.51cto.com/art/201909/603646.htm)
+ > Android替代品：2019年排名前8的移动操作系统，你看好哪个？
+ ## [如何在RHEL8/CentOS8上建立多节点Elastic stack集群](http://os.51cto.com/art/201909/603640.htm)
+ > 如何在RHEL8/CentOS8上建立多节点Elastic stack集群
  ## [老大难的GC原理及调优，这全说清楚了](http://developer.51cto.com/art/201909/603570.htm)
  > 老大难的GC原理及调优，这全说清楚了
  ## [数字化转型之如何做好企业中台的架构设计](http://developer.51cto.com/art/201909/603564.htm)
  > 数字化转型之如何做好企业中台的架构设计
  ## [轻拢慢捻，谈微服务熔断大总管](http://developer.51cto.com/art/201909/603582.htm)
  > 轻拢慢捻，谈微服务熔断大总管
- ## [XLNet作者与AMiner核心开发者联手用AI赋能企业销售](http://ai.51cto.com/art/201909/603577.htm)
- > XLNet作者与AMiner核心开发者联手用AI赋能企业销售
- ## [大势所趋！数据科学家必知的5种图算法](http://developer.51cto.com/art/201909/603559.htm)
- > 大势所趋！数据科学家必知的5种图算法
- ## [你的职业受到AI影响了吗？](http://ai.51cto.com/art/201909/603554.htm)
- > 你的职业受到AI影响了吗？
+ ## [高并发环境下如何让Redis和MySQL保持数据统一](http://database.51cto.com/art/201909/603665.htm)
+ > 在高并发的业务场景下，数据库大多数情况都是用户并发访问最薄弱的环节。所以，就需要使用redis做一个缓冲
+ ## [人工智能可以增强人类能力的四种方式](http://ai.51cto.com/art/201909/603664.htm)
+ > 根据调研机构Gartner公司的调查，到2021年，全球各地的组织将通过人工智能创造将近3万亿美元的商业价值。
+ ## [如何让云计算之旅安全顺畅](http://cloud.51cto.com/art/201909/603663.htm)
+ > 企业可以采用云计算通过不断的建设、整合、部署、保护、监控和修复提高运营效率。企业将业务迁移到云端并
+ ## [Redis哈希类型使用命令](http://developer.51cto.com/art/201909/603661.htm)
+ > 我们知道在Redis中有5种数据类型，之前的文章中我们已经介绍过了String类型，也就是字符串类型，今天我们学
+ ## [AI 人工智能落地，数据安全绕不开这4大问题](http://ai.51cto.com/art/201909/603655.htm)
+ > 这些年，在人工智能等新技术催化下，信息泄密正在围绕“数据”展开，这些数据涉及各类事、物、人、企业、政
+ ## [5G发牌百日，浪潮云海推动“高新视频”从概念走向落地](http://network.51cto.com/art/201909/603654.htm)
+ > 日前，基于5G的“高新视频”新概念被提出。对于“高新视频”业务，浪潮云海在实施广电互联互通融合媒体云平
+ ## [提高开发人员的工作效率，请牢记这些小贴士](http://news.51cto.com/art/201909/603652.htm)
+ > 还记得上次忙到焦头烂额，却什么也没做的场景吗？你死死地盯着电脑屏幕，但是一行代码也没写出来。不幸的是
+ ## [SRE与DevOps是敌是友？未来将由谁来主导？](http://cloud.51cto.com/art/201909/603653.htm)
+ > Site Reliability Engineering (SRE) 和 DevOps 是目前相当热门的开发与运维文化，有着很高的相似程度。SRE
  ## [预测分析：重新考虑组织中的时间和数据](http://bigdata.51cto.com/art/201909/603650.htm)
  > 时间序列是一种标准的分析方法，但是较为先进的机器学习工具引入了统计技术，来建立更精确的预测模型。时间
- ## [带你了解Elvish Shell](http://os.51cto.com/art/201909/603647.htm)
- > 每个来到这里的人都会对许多系统中默认 Bash shell 有所了解（无论多少）。过去这些年已经有一些新的 shell
- ## [扯一扯HTTPS单向认证、双向认证、抓包原理、反抓包策略](http://netsecurity.51cto.com/art/201909/603648.htm)
- > HTTP(HyperText Transfer Protocol，超文本传输协议)被用于在Web浏览器和网站服务器之间传递信息，在TCP/IP
- ## [Android替代品：2019年排名前8的移动操作系统，你看好哪个？](http://news.51cto.com/art/201909/603646.htm)
- > 毫无疑问，Android是世界上非常流行的操作系统。谷歌的移动操作系统已经占领了76％以上的市场份额，而且没
- ## [任正非对话全球人工智能专家全文实录：华为的5G技术只卖给美国](http://news.51cto.com/art/201909/603643.htm)
- > 华为创始人兼CEO任正非与两位人工智能领域专家对话，探讨有关创新、规则、信任的话题。
- ## [详解MySQL数据库监控指标之连接状态](http://database.51cto.com/art/201909/603638.htm)
- > 如果你的数据库运行缓慢，或者出于某种原因无法响应查询，技术栈中每个依赖数据库的组件都会遭受性能问题。
- ## [你知道 Redis数据结构底层实现吗？一文详解，彻底弄懂](http://stor.51cto.com/art/201909/603639.htm)
- > 我们在面试时，常常可以遇到的面试题是关于redis，这是很多面试官都喜欢的一个部分。而今天要讲的，是redis
- ## [如何在RHEL8/CentOS8上建立多节点Elastic stack集群](http://os.51cto.com/art/201909/603640.htm)
- > Elastic stack 俗称 ELK stack，是一组包括 Elasticsearch、Logstash 和 Kibana 在内的开源产品。Elastic S
- ## [工信部：实体渠道办理电话入网实施人像比对技术](http://news.51cto.com/art/201909/603644.htm)
- > 从今年12月1日开始，实体渠道全面实施人像比对技术措施，确保电话入网环节人证一致。
- ## [5 个 Ansible 运维任务](http://os.51cto.com/art/201909/603637.htm)
- > 在这个 DevOps 世界中，看起来开发(Dev)这一半成为了关注的焦点，而运维(Ops)则是这个关系中被遗忘的另一
+ ## [架构师分析 架构的重要性](http://developer.51cto.com/art/201909/603651.htm)
+ > 技术需要架构，芯片的架构，软件需要架构，公司需要架构，建筑需要架构，产品需要架构，人也需要架构，聊聊
  ## [代码整洁 vs 代码肮脏](https://blog.csdn.net/u010378410/article/details/100883370)
  > 代码整洁 vs 代码肮脏
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
@@ -170,86 +186,80 @@ VR&#28216;&#25103;&#24320;&#21457;&#20844;&#21496;&#8220;&#32511;&#27954;VR&#822
  ## [如何破解 Google Chrome 的隐身模式？](https://blog.csdn.net/csdnnews/article/details/101420178)
  > 随着Chrome 76的发布，谷歌修复了一个漏洞：允许网站检测访问者是否使用了隐身模式。然而，不幸的是他们的修复导致我们仍可利用两种方法检测访问者何时隐身浏览网站。作者 | Lawrence Abrams译者 | 弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）...
 # 人工智能 
- ## [教程|教你如何给你的头像添加一个好看的国旗](https://blog.csdn.net/oschina_40914891/article/details/101297051)
- > 教程|教你如何给你的头像添加一个好看的国旗
- ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
- > GitHub开源的10个超棒后台管理面板
- ## [idea2019.2.2测试版获取使用权](https://blog.csdn.net/ibigboy/article/details/99290506)
- > idea2019.2.2测试版获取使用权
- ## [ES6 - const命令](https://blog.csdn.net/weixin_44198965/article/details/100748010)
- > ES6 - const命令
- ## [如何使用Html5里的cavas画一面国旗](https://blog.csdn.net/fanzhijun123/article/details/101277717)
- > 如何使用Html5里的cavas画一面国旗
- ## [AngularJs基础用法（2）](https://blog.csdn.net/weipping_/article/details/101296789)
- > AngularJs基础用法（2）
- ## [JS--JavaScript使用window对象控制窗口大小(innerWidth、innerHeight)和位置(moveTo()、moveBy())、设置随机移动弹窗（小网站专用...）](https://blog.csdn.net/cold___play/article/details/101308434)
- > JS--JavaScript使用window对象控制窗口大小(innerWidth、innerHeight)和位置(moveTo()、moveBy())、设置随机移动弹窗（小网站专用...）
- ## [css中可继承和不可继承的元素详解](https://blog.csdn.net/weixin_40013817/article/details/101270589)
- > css中可继承和不可继承的元素详解
- ## [JS--JavaScript使用window对象操作框架集frameset中的各窗口(frames\[\])](https://blog.csdn.net/cold___play/article/details/101306170)
- > JS--JavaScript使用window对象操作框架集frameset中的各窗口(frames\[\])
- ## [（前端学习）07 使用vue框架制作购物车小球动画效果](https://blog.csdn.net/weixin_44586318/article/details/101279862)
- > （前端学习）07 使用vue框架制作购物车小球动画效果
- ## [const常量对象Object.freeze()冻结方法](https://blog.csdn.net/weixin_44198965/article/details/101213877)
- > const常量对象Object.freeze()冻结方法
- ## [es6中的Let和Const详解](https://blog.csdn.net/weixin_40013817/article/details/101266663)
- > es6中的Let和Const详解
- ## [修改功能](https://blog.csdn.net/lucasmaluping/article/details/101272750)
- > 修改功能
- ## [JavaScript 输出数据的方法](https://blog.csdn.net/zag666/article/details/101289679)
- > JavaScript 输出数据的方法
- ## [Vue开发中的事件总线](https://blog.csdn.net/qq_35457469/article/details/101270384)
- > Vue开发中的事件总线
+ ## [Python 开发植物大战僵尸游戏](https://blog.csdn.net/u012365828/article/details/101046643)
+ > Python 开发植物大战僵尸游戏
+ ## [unity3d菜鸟自学教程 unity3d游戏开发就业培训课程](https://blog.csdn.net/fengliaoai/article/details/101156560)
+ > unity3d菜鸟自学教程 unity3d游戏开发就业培训课程
+ ## [使用ThreeJs从零开始构建3D智能仓库——第一章](https://blog.csdn.net/homula123/article/details/101197463)
+ > 使用ThreeJs从零开始构建3D智能仓库——第一章
+ ## [UE4制作尸潮爬墙学习笔记](https://blog.csdn.net/qq_40281688/article/details/101214295)
+ > UE4制作尸潮爬墙学习笔记
+ ## [如何做一个超级马里奥顶方块的效果](https://blog.csdn.net/weixin_41987154/article/details/101198872)
+ > 如何做一个超级马里奥顶方块的效果
+ ## [Cadence学习之 原理图库](https://blog.csdn.net/ReCclay/article/details/101228388)
+ > Cadence学习之 原理图库
+ ## [HOW TO WORKING CORRECTLY LOW DEFINITION WITH POSTFX V2 in UNITY3D.](https://blog.csdn.net/qq_39812022/article/details/101240516)
+ > HOW TO WORKING CORRECTLY LOW DEFINITION WITH POSTFX V2 in UNITY3D.
+ ## [Xcode+Opengl学习（5）使一个花托以一定速度旋转](https://blog.csdn.net/wyfuuu/article/details/101227324)
+ > Xcode+Opengl学习（5）使一个花托以一定速度旋转
+ ## [Xcode+Opengl学习（6）管理管线与照相机相关设置](https://blog.csdn.net/wyfuuu/article/details/101285362)
+ > Xcode+Opengl学习（6）管理管线与照相机相关设置
+ ## [U3D学习路线](https://blog.csdn.net/weixin_42758300/article/details/101203113)
+ > U3D学习路线
+ ## [毁灭行星，微信小游戏开发](https://blog.csdn.net/a13677972680/article/details/101197068)
+ > 毁灭行星，微信小游戏开发
+ ## [【Unity Image Effect】Blur 模糊效果](https://blog.csdn.net/onelei1994/article/details/101223654)
+ > 【Unity Image Effect】Blur 模糊效果
+ ## [SuperMap iClient3D for WebGL教程（特效）- 扫描线](https://blog.csdn.net/supermapsupport/article/details/101270485)
+ > SuperMap iClient3D for WebGL教程（特效）- 扫描线
+ ## [UEFI Shell 下的俄罗斯方块游戏](https://blog.csdn.net/jasongaoks/article/details/101205879)
+ > UEFI Shell 下的俄罗斯方块游戏
+ ## [第1章 Hello MFC](https://blog.csdn.net/freeking101/article/details/101002111)
+ > 第1章 Hello MFC
 # PM 
- ## [会员数破亿，视频网站的悲壮里程碑](http://www.woshipm.com/it/2920866.html)
- > 国内视频领域正在大跃进，会员数渐入佳境，让资本市场嗷嗷直叫，推陈出新的电视剧综艺也在证明着平台对内容的掌控力，一切看起来都歌舞升平，然而背后的危机却已显现。...
- ## [县城青年的购物车，暗藏下沉市场大商机](http://www.woshipm.com/user-research/2919794.html)
- > “有钱，能买，敢买”，正逐渐成为下沉市场中县城青年的消费标签。不要小瞧县城青年的消费力。诸如代表高消费的iPhone11、“椰子鞋”、一线大牌化妆品等，都已不再是县城...
- ## [从工具到社区，超级星饭团的转型之路](http://www.woshipm.com/operate/2903207.html)
- > 超级星饭团作为粉丝获取idol动态的工具类产品，面临“用完即走”的难题，探索转型路径，加强社交属性，成为星饭团的新方向。一、 背景超级星饭团（以下简称“星饭团”）...
- ## [聊聊那些拥有“边际效应”的产品](http://www.woshipm.com/it/2918617.html)
- > 文章介绍了边际成本的概念以及对应的不同线上线下的产品，并分析了这些产品的状态和优劣势。这次与大家分享的是边际效应对应不同线上线下产品的不同状态以及优势。现...
- ## [云栖大会让你沸腾了吧，B2B营销也需要“含光”一点](http://www.woshipm.com/marketing/2920929.html)
- > B2B营销需要掌握合适的度，太热情，太高冷，客户可能转角遇到其他人哦~~本文通过看图说话的方式来炖炖B2B营销中容易被忽视的一些细节。也许我们在某些营销的细节上稍...
- ## [度小满群面复盘：销售人员误把8千元产品以4千元卖出，怎么办？](http://www.woshipm.com/zhichang/2913513.html)
- > 本篇文章是笔者在度小满的面试复盘，供大家参考学习~一、背景时间：2019年9月17日 下午14:00地点：度小满总部形式：现场群面到度小满总部的时候差不多12点40，...
- ## [产品经理周报第 85 期｜人民日报联合腾讯推出手游“家国梦”上线；返利网上线内容种草社区“发现好物”频道](http://www.woshipm.com/it/2920258.html)
- > 嗨咯呀，各位小伙伴们，今天又是周五啦，马上就要国庆啦再坚持一下，离国庆还有4天大家马上可以出去为咱们祖国母亲庆生咯~那现在，我们来了解一下本周发生的事情吧...
+ ## [中文互联网的社交礼仪](http://www.woshipm.com/it/2922321.html)
+ > “一旦离开自己的被窝要出门，你就在演技之中。”我们现实中每个人都时刻扮演自己，让自己的一言一行都符合持有自己名字的这个角色之中。作者：乔治群岛来源：公众号...
+ ## [国庆出行：小众类旅游app假想](http://www.woshipm.com/pd/2914432.html)
+ > 国庆小长假很快就要到了，很多人都有外出旅游的计划，不过总有许多干扰因素使得旅游计划并不顺利。笔者也因此做了一款小众类旅游app假想，尝试对国庆旅游的痛点进行解决...
+ ## [运营人在职场（一）：外行领导内行这种事是普遍现象](http://www.woshipm.com/zhichang/2873315.html)
+ > 本篇从规律、现象、人性的层面，告诉大家生活不止眼前的苟且，还有远方的苟且，还有更远地方的苟且……太阳底下无新事！我们在职场上常常遇到的不顺心的、痛苦不堪的，...
+ ## [换工作换方案换供应商，甚至换恋人，你一定要知道的方法](http://www.woshipm.com/zhichang/2922218.html)
+ > “吃着碗里，看着锅里”的正确姿势，从“在用的”到“未知的”，应该如何做决策？一、吃着碗里，看着锅里知乎上看到一个有意思的问题：之所以对这个情感问题感兴趣，因为...
+ ## [疯狂的盲盒，是变相赌博，还是合法经营？](http://www.woshipm.com/it/2920514.html)
+ > 炒盲盒让一众人陷入疯狂，不少人因此不看好盲盒经济。那么，究其本质，盲盒经济面临的真正难题在哪里？盲盒，火的速度肉眼可见。昨晚刷了下朋友圈，就发现朋友在炫耀...
+ ## [35岁，腰部人群，如何才能摆脱“中不溜”的命运？](http://www.woshipm.com/zhichang/2921725.html)
+ > 在踌躇满志纠结不前时，记住，两点之间，线段最短，但曲线最快。我做了近十年外资高管，随后十余年管理一家独立的调研和数据咨询公司。这二十多年的打工和创业，我做...
+ ## [译文 | 如何在界面设计中使用可供性（Affordance）](http://www.woshipm.com/pd/2919396.html)
+ > 为了获得专业的知识和技巧，设计师将会面对一系列特定的专业术语。我们已经发布了一些和可用性、网页设计、商业术语以及导航、色彩等有关的帖子。新文章延续了用户体验...
+ ## [本质思考是产品创新的基础](http://www.woshipm.com/zhichang/2919314.html)
+ > 不知道从什么时候我开始 对“创新”这个词感到些许乏力和恐惧，开始思考为什么有些人能看透问题本质？于是有了本文的探索和总结。平时我们大部分时间都在做一些“应激反...
+ ## [亚马逊、Uber、瓜子二手车为何集体动态定价？](http://www.woshipm.com/pd/2920384.html)
+ > 本文将为你介绍中外电商巨头和独角兽们钟情的“动态定价”是什么，以及“动态定价”是如何提升公司营收和利润、实现行业精细化运营的。你知道亚马逊上的商品一天会变价多...
+ ## [接口，原来就是个插座](http://www.woshipm.com/pmd/2920470.html)
+ > 借助生活中熟悉的事物来理解接口，从插座到接口，你对接口的理解是不是更形象生动了？产品经理在日常的工作中，会经常与技术沟通。例如，在需求评审会上，开发说，你...
+ ## [UML建模方法论（中）：业务建模](http://www.woshipm.com/pd/2920580.html)
+ > 本篇文章承接上一篇文章：《UML建模方法论（上）：建模初期准备》，阅读本篇文章前建议先阅读上一篇文章。四、建模第四步：业务建模业务建模这一块按照书中的方法来...
+ ## [马蜂窝CEO专访：唯有以命相搏，才能在互联网创业市场里杀出一条血路](http://www.woshipm.com/it/2918550.html)
+ > 本文节选自起点学院最新上架的会员课程，点击链接即可免费观看完整视频内容。 马蜂窝陈罡：CEO要提前18个月看爆发点在哪当传统旅游行业步入红海之时，借着互联网的光...
+ ## [移动导航设计中的10种导航](http://www.chanpin100.com/article/109648)
+ > 为了让用户能够顺利的使用产品，则必须为用户提供一个有效的导航系统，让用户时刻清楚自己在应用中所处的位置、可以去哪儿。这也是 信息结构 中的核心点。
+ ## [产品规划怎么做](http://www.chanpin100.com/article/109646)
+ > 做为产品线负责人，如何规划产品发展计划？
+ ## [作为自由网页开发者如何建立自己的个人品牌？](http://www.chanpin100.com/article/109645)
+ > 2019最详细教程
+ ## [项目管理是做什么的？有哪些分类？](http://www.chanpin100.com/article/109644)
+ > 项目管理作为企业管理内的一个重要分支，受到了许多商业人士的关注。那么项目管理究竟是做什么的呢？其实，项目管理就是根据有限的技能、人力、物力等资源在设定的时间内完成某个项目的过程。
+ ## [月薪4万+平台产品经理的看家本领（一）](http://www.chanpin100.com/article/109640)
+ > 众所周知，阿里将产品经理划分为平台型产品，商业型产品，用户型产品，这3类产品的职责侧重点有所不同，对人的能力要求不一样，后续我们逐个剖析交流。
+ ## [如何开始你的语音交互设计：场景篇](http://www.chanpin100.com/article/109639)
+ > 语音交互的场景设计和文档撰写方式
+ ## [一文看懂Word2vec（基本概念+2种训练模型+5个优缺点）](http://www.chanpin100.com/article/109638)
+ > Word2vec 是 Word Embedding 方式之一，属于 NLP 领域。他是将词转化为「可计算」「结构化」的向量的过程。本文将讲解 Word2vec 的原理和优缺点。这种方式在 2018 年之前比较主流，但是随着 BERT、GPT2.0 的出现，这种方式已经不算效果最好的方法了。
  ## [内容排行榜（截止至9月26日）](http://www.chanpin100.com/article/109642)
  > 内容上传排行榜更新啦~现在参与还来得及！
  ## [入职产品经理，这些软件你都会吗？](http://www.chanpin100.com/article/109641)
  > 产品如流水一样的更换、迭代，但是用过的软件却始终还是那些，所谓工欲善其事、必先利其器，让我们一起来了解产品经理常用到的工具吧。
  ## [阿里2020年校招淘宝用户型产品经理7天面试实录（7天走完全流程｜意向书已发）](http://www.chanpin100.com/article/109636)
  > 阿里2020年校招淘宝用户型产品经理7天面试实录
- ## [互联网人“必知必会”的高频词汇](http://www.chanpin100.com/article/109635)
- > 相对来说，产品小白更需要这类知识，所以我做了一个图文对照、通俗易懂、最高频常见的汇总。
- ## [张一鸣：10年面试2000人，我发现混的好的人，全都有同一个特质](http://www.chanpin100.com/article/109634)
- > 为何毕业多年后，原本水平差不多的同学都拉开了差距？
- ## [【连载】《用户增长方法论》（04）](http://www.chanpin100.com/article/109633)
- > 第2章中，我们分析了用户增长的第一步就是找到用户痛点，并为用户提供解决方案（产品），也就是将用户置于场景之中，发现用户最迫切、最需要解决的问题。本章我们主要讲解具体从哪些维度去寻找用户痛点。
- ## [浅谈Keep的用户体验](http://www.chanpin100.com/article/109630)
- > 关于 Keep 用户体验的特点、缺点、优点和影响因素。
- ## [交互设计在后台系统中的应用](http://www.chanpin100.com/article/109631)
- > 在成堆的前台交互设计文章旁，让我们来看看后台系统的交互设计，理解交互设计的理论和原则如何在后台产品设计中进行应用
- ## [产品经理的1001夜：产品新人最容易踩的10个坑](http://www.chanpin100.com/article/109629)
- > 作为刚入行的产品新人，希望少踩几个坑？本文以流程图的形式梳理了一个需求从idea到上线的完整历程以及常见的问题，适合0-2年产品新人阅读。
- ## [当心理学遇上设计：格式塔原理是如何服务于设计的？](http://www.chanpin100.com/article/109628)
- > 本文内容由摹客团队翻译整理，仅供学习交流。
- ## [AI浪潮下的产品经理变革](http://www.chanpin100.com/article/109627)
- > 俞军曾言，产品经理的行业变化，无不伴随着新要素往人类生活中的融入。
- ## [数据中台实战入门篇：数据中台对内、对外合作机制](http://www.chanpin100.com/article/109626)
- > 都在讲数据中台，却没人讲数据中台这个团队该怎么运作，怎么对外合作。本篇文章以实战经验告诉你数据中台怎么对内、对外合作效率最高。
- ## [互联网的下半场，产品经理正在离开舞台中心](http://www.chanpin100.com/article/109624)
- > 互联网的下半场，产品经理正在离开舞台中心
- ## [为什么说产品设计更像文学创作？](http://www.chanpin100.com/article/109623)
- > 都说绘画是空间的艺术，音乐和文学是时间的艺术。可是人脑的处理能力有限，在欣赏绘画时，不可能一下子感受到所有细节。必然是通过一定的浏览顺序欣赏。产品设计更像是时间的艺术
- ## [转化分析的一种新的漏斗模型](http://www.chanpin100.com/article/109622)
- > 付费转化的场景下我们经常会采用漏斗图来分析问题。但是这种漏斗图分析只能告诉我们业务现状，没有告诉我们具体的原因。我们不能根据漏斗图的数据找出迭代方向。
- ## [产品经理如何用「五要素模型」理解数据分析](http://www.chanpin100.com/article/109621)
- > 用户体验五要素是产品经理的入门必须课之一，这是从思路到具体落地的一种经典的思维框架。实际上这种框架不仅适用于产品设计，在很多地方都可以适用。
- ## [阿里迭代了1年多的社交产品「Real如我」，为何不向外推广](http://www.chanpin100.com/article/109620)
- > 创业维艰，社交领域尤盛，强如阿里也不敢再胡来。
- ## [落地页转化分析，你还在用漏斗模型吗？](http://www.chanpin100.com/article/109619)
- > 普通的漏斗转化有很多问题，有思考过吗
 
     
