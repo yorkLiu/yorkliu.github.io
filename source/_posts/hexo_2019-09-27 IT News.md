@@ -1,21 +1,21 @@
 ---
 title: 2019-09-27 IT News
 copyright: true
-date: 2019-09-27 08:00:58
+date: 2019-09-27 09:01:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [mate30 5G定价比预期低，有利于争取运营商订单](http://mp.weixin.qq.com/s?src=11&timestamp=1569542405&ver=1877&signature=qowXgejUsYScANr7fleH5IIHNGiHACD-2OEh*yL6*fQ3XVW3Sit5qvlW-V69KSAbzkYTzp9PdS3eYWDE5UG45iRXvETsC-LpIVytFWOyOCymi7tUiOJOBWdTJ3uN6UJo&new=1)
- > 华为正式在国内发布了mate30手机，让人惊讶的是技术更成熟的5G手机mate30 5G定价仅为4999元起，较上一代5G手机mate20 X 5G版低了五分之一，此举有利于华为争取运营商的订单，对于推动mate30的销售有利。5G手机销...
- ## [一图看懂阿里平头哥含光800AI芯片!](http://mp.weixin.qq.com/s?src=11&timestamp=1569542405&ver=1877&signature=-dXr6FVTyo7DMXDH617ZDmYqYuoKFNXdKClTgBBrXxe3Oz1nZ8Vnzdw9*7ZwQuNWjyk6YZuqI7lFTghwu-I0YDMKKKhKEQBBn0oupI58AJSdCbIedaxeG6yDWBdVLSfH&new=1)
+ ## [一图看懂阿里平头哥含光800AI芯片!](http://mp.weixin.qq.com/s?src=11&timestamp=1569546005&ver=1877&signature=-dXr6FVTyo7DMXDH617ZDmYqYuoKFNXdKClTgBBrXxe3Oz1nZ8Vnzdw9*7ZwQuNWoHro6NcQcZ2Hno8X25pUBatHTQbGQfdZrJi7wfAi9QbHLJPlwQac274UgXp5o50e&new=1)
  > 今日阿里巴巴“2019云栖大会”在杭州正式拉开帷幕，会上阿里巴巴达摩院院长张建锋现场发布了全新的含光800AI芯片，官方称这是全球最高性能的AI推理芯片。性能方面，在业界标准的ResNet-50测试中，含光800推理性...
- ## [任正非对话人工智能专家全文实录：华为5G技术只卖给美国](http://mp.weixin.qq.com/s?src=11&timestamp=1569542405&ver=1877&signature=2LHbbnrHKdyOpqJ1ujXUbPddtaMZEE2Nsj7anxhAA0WQ8pC6uKJpmOfCekj3C-9m2UsV3seJAR53sC15iWqRpiLq3KQOMc3mrjOs4QvQ5j18V1VBS7LRfgcnM6PZLKfY&new=1)
- > 腾讯科技讯 9月26日，华为创始人兼CEO任正非与两位人工智能领域专家对话，探讨有关创新、规则、信任的话题。嘉宾Jerry Kaplan（杰里·卡普兰）是全球人工智能专家、未来学家、平板电脑行业先驱；嘉宾Peter Cochr...
- ## [滴滴英文版上线两周年丨亚马逊首推智能眼镜和戒指\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569542405&ver=1877&signature=imJK7EjPy8qcpKOG-FksFqy-rr2sXSPQ-zkJ0YMoVx82AQZwzFsJAaAMSzhnP*Pxx*zMGT4DS9-jYqJRBhxPEwv*974FL9pIsrVKTQUI4tmaJnpbP4OsODvJ4HjjM6mv&new=1)
+ ## [滴滴英文版上线两周年丨亚马逊首推智能眼镜和戒指\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1569546005&ver=1877&signature=imJK7EjPy8qcpKOG-FksFqy-rr2sXSPQ-zkJ0YMoVx82AQZwzFsJAaAMSzhnP*PxZB-aLlLs5001dGFLbMBgS2*2vVhDyZOSgWM2hhk-6vvU*WCfQxExesNelgPPtl7w&new=1)
  > 9月26日丨周四【Do说】编辑 | 赵艾虎滴滴英文版上线两周年，服务用户超200万近日，滴英文版发布两周年服务报告显示，在中国使用滴滴英文版的用户已经超过200万，两年内增长了16倍，滴滴英文服务用户的总行驶里程...
- ## [华为首次出手投资国内人工智能企业——在AI领域，华为要下一盘怎样的棋?](http://mp.weixin.qq.com/s?src=11&timestamp=1569542405&ver=1877&signature=DRa5eELhBGls40aHcnxrP1kEEMCNsSaUkX69gXL1tMMh2PFVPhK08fbF0VKq3ibZmfYdblguoFpwVKWoxzij1XwqVMenY2i8eKNJhTgGmXCdjymt7343fr2U0JjKB3lh&new=1)
+ ## [mate30 5G定价比预期低，有利于争取运营商订单](http://mp.weixin.qq.com/s?src=11&timestamp=1569546005&ver=1877&signature=qowXgejUsYScANr7fleH5IIHNGiHACD-2OEh*yL6*fQ3XVW3Sit5qvlW-V69KSAbWGrh29Uqp7of*jtgy1xRHpkU-VP5GXxzTbf6XlmEJHqkM1NKRIPM4cmrKyVGXdtz&new=1)
+ > 华为正式在国内发布了mate30手机，让人惊讶的是技术更成熟的5G手机mate30 5G定价仅为4999元起，较上一代5G手机mate20 X 5G版低了五分之一，此举有利于华为争取运营商的订单，对于推动mate30的销售有利。5G手机销...
+ ## [华为首次出手投资国内人工智能企业——在AI领域，华为要下一盘怎样的棋?](http://mp.weixin.qq.com/s?src=11&timestamp=1569546005&ver=1877&signature=DRa5eELhBGls40aHcnxrP1kEEMCNsSaUkX69gXL1tMMh2PFVPhK08fbF0VKq3ibZhshcko--gKOovBbJditvtrKahN5aaAi*x6SWEmzAuCOUXCo7liFrBY0QnMNaW72-&new=1)
  > 9月23日，从国家企业信用信息公示系统获悉，华为旗下全资子公司哈勃投资出手投资了国内人工智能第一梯队的企业深思考人工智能，投资金额为数千万人民币。天眼查数据显示，华为子公司哈勃半年内共投资三家企业，...
+ ## [任正非对话人工智能专家全文实录：华为5G技术只卖给美国](http://mp.weixin.qq.com/s?src=11&timestamp=1569546005&ver=1877&signature=2LHbbnrHKdyOpqJ1ujXUbPddtaMZEE2Nsj7anxhAA0WQ8pC6uKJpmOfCekj3C-9mt0VywrlOwW0omwNB7kv6ShLA3vTIouORdE3YfNJDXJbmJaG6zBFJ8rSV0Nh3Ku4N&new=1)
+ > 腾讯科技讯 9月26日，华为创始人兼CEO任正非与两位人工智能领域专家对话，探讨有关创新、规则、信任的话题。嘉宾Jerry Kaplan（杰里·卡普兰）是全球人工智能专家、未来学家、平板电脑行业先驱；嘉宾Peter Cochr...
 # IT 技术 
  ## [Visual Studio Code的十项开发技巧](http://developer.51cto.com/art/201909/603626.htm)
  > Visual Studio Code的十项开发技巧
@@ -33,12 +33,30 @@ categories: IT NEWS
  > 你的职业受到AI影响了吗？
  ## [阿里平头哥首款AI芯片发布！46倍于英伟达P4，全球推理性能新纪录](http://news.51cto.com/art/201909/603524.htm)
  > 阿里平头哥首款AI芯片发布！46倍于英伟达P4，全球推理性能新纪录
- ## [5G+AI、5G+IoT 将产生哪些创业新机会？](http://network.51cto.com/art/201909/603628.htm)
- > &quot; 海量物联网的技术从 4G 就开始了，在 5G 的标准规划中， 我们一方面可以兼容 4G 物联网技术，另一方面也
+ ## [详解MySQL数据库监控指标之连接状态](http://database.51cto.com/art/201909/603638.htm)
+ > 如果你的数据库运行缓慢，或者出于某种原因无法响应查询，技术栈中每个依赖数据库的组件都会遭受性能问题。
+ ## [5 个 Ansible 运维任务](http://os.51cto.com/art/201909/603637.htm)
+ > 在这个 DevOps 世界中，看起来开发(Dev)这一半成为了关注的焦点，而运维(Ops)则是这个关系中被遗忘的另一
+ ## [Android 11 将推出系统试用功能，满意后再正式安装](http://mobile.51cto.com/android-603635.htm)
+ > Google正在着手开发DSU(Dynamic System Updates)功能，更新推出后可先行试用，满意后再正式安装更新。
+ ## [带你认识HDFS和如何创建3个节点HDFS集群](http://bigdata.51cto.com/art/201909/603636.htm)
+ > 在本文中，大数据专家将为您介绍如何使用HDFS以及如何利用HDFS创建HDFS集群节点。我们将从HDFS、Zookeeper
+ ## [IDC：中国超过40%的企业正在进行数字化转型](http://www.cioage.com/art/201909/603634.htm)
+ > IDC指出，中国超过40%的企业已经成为数字化的坚定者，但数字化转型面临诸多挑战，从全球角度看，包括陈旧的
+ ## [Android 10 Go版将推出，针对内存不足1.5GB手机](http://mobile.51cto.com/android-603632.htm)
+ > 据国外媒体报道，去年，Android Go版随Android 9 Pie一同发布。今天，谷歌详细介绍了该操作系统的最新版本
+ ## [苹果赚钱能力这么强的CEO 库克身价究竟几何？](http://news.51cto.com/art/201909/603631.htm)
+ > 有媒体报道称，2019年苹果CEO蒂姆・库克(Tim Cook)身家为6.25亿美元。具有讽刺意味的是，尽管是赚钱能力最
+ ## [负载均衡层设计方案之负载均衡技术总结篇](http://developer.51cto.com/art/201909/603633.htm)
+ > 通过前面文章的介绍，并不能覆盖负载均衡层的所有技术，但是可以作为一个引子，告诉各位读者一个学习和使用
+ ## [Mate 30 Pro正面对决iPhone 11 Pro Max：流畅度完胜](http://mobile.51cto.com/app-show-603630.htm)
+ > 根据微信、微博、爱奇艺、QQ、QQ音乐等多个日常应用测试的平均值，Mate 30 Pro相比于iPhone 11 Pro Max完成
+ ## [《交通强国建设纲要》刷屏，六大战略加快智能交通应用落地](http://www.cioage.com/art/201909/603629.htm)
+ > 《交通强国建设纲要》(以下简称“纲要”)被交通圈刷屏了。“纲要”中明确提出要大力发展智慧交通。推动大数
  ## [代码整洁 vs 代码肮脏](https://blog.csdn.net/u010378410/article/details/100883370)
  > 代码整洁 vs 代码肮脏
- ## [【面试必备】小伙伴栽在了JVM的内存分配策略。。。](https://blog.csdn.net/hyg0811/article/details/101444643)
- > 【面试必备】小伙伴栽在了JVM的内存分配策略。。。
+ ## [金九银十到来，新鲜出炉的Android面试真题集锦我给你们整理出来了！](https://blog.csdn.net/weixin_44339238/article/details/101458456)
+ > 金九银十到来，新鲜出炉的Android面试真题集锦我给你们整理出来了！
  ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
  > 程序员实用工具网站
  ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
@@ -47,14 +65,12 @@ categories: IT NEWS
  > \[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）
  ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
  > 从入门到精通，Java学习路线导航
- ## [go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包](https://blog.csdn.net/weixin_38171180/article/details/101177633)
- > go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包
  ## [【记录】一个深度学习计算机视觉(CV)算法工程师的成长之路（思考和方法以及计划）](https://blog.csdn.net/TeFuirnever/article/details/100999282)
  > 【记录】一个深度学习计算机视觉(CV)算法工程师的成长之路（思考和方法以及计划）
+ ## [go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包](https://blog.csdn.net/weixin_38171180/article/details/101177633)
+ > go 学习笔记之仅仅需要一个示例就能讲清楚什么闭包
  ## [别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！](https://blog.csdn.net/kexuanxiu1163/article/details/101185162)
  > 别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！
- ## [一文读懂 Java 字符串相关知识点和常见面试题](https://blog.csdn.net/a724888/article/details/101444792)
- > 一文读懂 Java 字符串相关知识点和常见面试题
  ## [了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑](https://blog.csdn.net/u011642663/article/details/101265254)
  > 了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑
  ## [9月21日科技资讯|荣耀赵明 “Diss” 5G 手机；甲骨文创始人埃里森：Uber 一文不值；Chrome 77 发布](https://blog.csdn.net/weixin_39786569/article/details/101098662)
@@ -65,6 +81,20 @@ categories: IT NEWS
  > Docker 零基础从入门到使用
  ## [“00后”消费数据分析，一文教你撩动“00后”购物欲](https://blog.csdn.net/yuanziok/article/details/101350916)
  > “00后”消费数据分析，一文教你撩动“00后”购物欲
+ ## [带你入门SpringCloud统一配置 | SpringCloud Config](https://blog.csdn.net/ljk126wy/article/details/101057528)
+ > 带你入门SpringCloud统一配置 | SpringCloud Config
+ ## [技术铺路，生态架桥：来自华为的开发者全面进阶说明书](https://blog.csdn.net/csdnnews/article/details/101488567)
+ > 如果“软件终将吞噬世界”，那么开发者作为基础能力向最终产品形态转化的催化剂，和丰富应用的源泉，就将是未来新世界的创造者。拥有了开发者，是否就等于拥有了未来？作为数字经济时...
+ ## [为什么平头哥做芯片如此迅猛？](https://blog.csdn.net/csdnnews/article/details/101488572)
+ > 作者 | 胡巍巍 发自杭州云栖大会责编 | 唐小引出品 | CSDN（ID：CSDNnews）2018年10月31日，阿里旗下的平头哥半导体有限公司成立。如今，平头哥成立...
+ ## [如何理解 Python 中的面向对象编程？](https://blog.csdn.net/csdnnews/article/details/101488584)
+ > 现如今面向对象编程的使用非常广泛，本文我们就来探讨一下Python中的面向对象编程。作者 |Radek Fabisiak译者 |弯月，责编 | 郭芮出品 | CSDN...
+ ## [阿里披露 AI 完整布局，飞天 AI 平台首次亮相！](https://blog.csdn.net/csdnnews/article/details/101488577)
+ > 阿里云智能产品管理部总经理、AIoT 事业部产品与解决方案总经理何云飞作者 | 夕颜责编 | 唐小引出品 | CSDN AI 科技大本营9 月 26 日上午，在云栖大会阿...
+ ## [代码调试的最佳指南](https://blog.csdn.net/csdnnews/article/details/101488580)
+ > 相信很多开发者对于代码调试最难的地方是什么依然云里雾里，而且这不仅仅是初学者需要面临的问题——本文中就来探讨下何为代码调试的最佳指南。作者 |Julia Evans译者...
+ ## [程序员如何更好地获取用户信息？](https://blog.csdn.net/csdnnews/article/details/101488583)
+ > 作者 | 菜菜责编|郭芮YY妹：菜菜君，我又来啦。菜菜君，我又来啦菜菜君，我又来啦菜菜：又有什么事吗？YY妹：我按照你说的已经把网站认证写完了，而且效果还不错。菜菜：...
  ## [5G：连接 AI 与 IoT 的桥梁](https://blog.csdn.net/csdnnews/article/details/101447728)
  > 责编 | 黄浩然出品 | CSDN（ID：CSDNnews）9月5日- 7日，一年一度的 AI 开发者大会( AI ProCon 2019 )在北京隆重召开，来自业界近百位中美顶尖 AI 专家、知名企业代表以及千余名 AI 开发者齐聚一堂，围绕 5G 时代的 AIoT、开源、自然语言处理、机器...
  ## [从 0 经验到成为全球第一模组生产商，日海智能的「非典型」物联网之路](https://blog.csdn.net/csdnnews/article/details/101447050)
@@ -82,37 +112,39 @@ categories: IT NEWS
  ## [如何破解 Google Chrome 的隐身模式？](https://blog.csdn.net/csdnnews/article/details/101420178)
  > 随着Chrome 76的发布，谷歌修复了一个漏洞：允许网站检测访问者是否使用了隐身模式。然而，不幸的是他们的修复导致我们仍可利用两种方法检测访问者何时隐身浏览网站。作者 | Lawrence Abrams译者 | 弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）...
 # 人工智能 
- ## [献给我 2019 平凡的保研之路](https://blog.csdn.net/zxnankaise/article/details/101290727)
- > 献给我 2019 平凡的保研之路
- ## [程序员当你觉得是大牛的时候，可以过来看看，分分钟被秒杀，做人一定要低调。](https://blog.csdn.net/song3304/article/details/101102264)
- > 程序员当你觉得是大牛的时候，可以过来看看，分分钟被秒杀，做人一定要低调。
- ## [做好以下四点，拒做 “ 空心 ” 程序员](https://blog.csdn.net/z694644032/article/details/101105115)
- > 做好以下四点，拒做 “ 空心 ” 程序员
- ## [9年程序员去华为面试开口一万月薪，淘汰后感叹：应该要2万工资的！](https://blog.csdn.net/mifffy_java/article/details/101212209)
- > 9年程序员去华为面试开口一万月薪，淘汰后感叹：应该要2万工资的！
- ## [记一次阿里巴巴面试被虐和一些电面问题](https://blog.csdn.net/JW614718/article/details/101215564)
- > 记一次阿里巴巴面试被虐和一些电面问题
- ## [翻开过去，我们重新来过。](https://blog.csdn.net/SandyRan/article/details/101216088)
- > 翻开过去，我们重新来过。
- ## [华为面试题：1+4=5，2+5=12，3+6=21，问8+11=？网友：幼儿园级别](https://blog.csdn.net/mifffy_java/article/details/101017872)
- > 华为面试题：1+4=5，2+5=12，3+6=21，问8+11=？网友：幼儿园级别
- ## [面试常问的算法题，吐血总结，转载请注明出处，然后不要忘记点赞！](https://blog.csdn.net/u012429555/article/details/101160198)
- > 面试常问的算法题，吐血总结，转载请注明出处，然后不要忘记点赞！
- ## [员工在vivo年薪78万，加班太多想辞职去国企，国企工资以为看错了](https://blog.csdn.net/weixin_45074063/article/details/101215419)
- > 员工在vivo年薪78万，加班太多想辞职去国企，国企工资以为看错了
- ## [最近的面试有感](https://blog.csdn.net/qq_26230421/article/details/101230105)
- > 最近的面试有感
- ## [从事JAVA开发人员发展规划](https://blog.csdn.net/oMrLai1/article/details/101158765)
- > 从事JAVA开发人员发展规划
- ## [公司不是我的家，那我为什么还要加班？兼说如何在公司高效提升自己的方法](https://blog.csdn.net/sxeric/article/details/101200101)
- > 公司不是我的家，那我为什么还要加班？兼说如何在公司高效提升自己的方法
- ## [程序猿菜鸟打怪升级—一路火花带闪电](https://blog.csdn.net/hyg0811/article/details/100879437)
- > 程序猿菜鸟打怪升级—一路火花带闪电
- ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
- > 100% 成功率的 offer 收割机是怎样练成的？
- ## [拒绝6家公司offer，最后降薪入职小公司感叹：不要追求高薪去跳槽！](https://blog.csdn.net/mifffy_java/article/details/101196898)
- > 拒绝6家公司offer，最后降薪入职小公司感叹：不要追求高薪去跳槽！
+ ## [ES6 - const命令](https://blog.csdn.net/weixin_44198965/article/details/100748010)
+ > ES6 - const命令
+ ## [const常量对象Object.freeze()冻结方法](https://blog.csdn.net/weixin_44198965/article/details/101213877)
+ > const常量对象Object.freeze()冻结方法
+ ## [CSS动画特效之  字节跳动](https://blog.csdn.net/weixin_44285674/article/details/101173311)
+ > CSS动画特效之  字节跳动
+ ## [Sass - 混入指令(@mixin)](https://blog.csdn.net/weixin_44198965/article/details/101116827)
+ > Sass - 混入指令(@mixin)
+ ## [CSS3 - filter(图像滤镜)](https://blog.csdn.net/weixin_44198965/article/details/101295538)
+ > CSS3 - filter(图像滤镜)
+ ## [亲，你心念念的Axure9.0来了，请查收~ 内附Axure安装包+汉化包+授权码获取方式](https://blog.csdn.net/DuoDuo0526/article/details/101304551)
+ > 亲，你心念念的Axure9.0来了，请查收~ 内附Axure安装包+汉化包+授权码获取方式
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ > GitHub开源的10个超棒后台管理面板
+ ## [爬虫福利二 之 妹子图网MM批量下载](https://blog.csdn.net/PY0312/article/details/101087356)
+ > 爬虫福利二 之 妹子图网MM批量下载
+ ## [JCEF-JS与JAVA代码交互(4)](https://blog.csdn.net/xymmwap/article/details/101198634)
+ > JCEF-JS与JAVA代码交互(4)
+ ## [JS--JavaScript语法基础（编码、注释、关键字、保留字）](https://blog.csdn.net/cold___play/article/details/101116450)
+ > JS--JavaScript语法基础（编码、注释、关键字、保留字）
+ ## [前端web开发——有梦想就看过来！！](https://blog.csdn.net/super_CSDNer/article/details/101153458)
+ > 前端web开发——有梦想就看过来！！
+ ## [12306网站车票爬取](https://blog.csdn.net/z_ipython/article/details/101050941)
+ > 12306网站车票爬取
+ ## [java图书管理系统（附源码）](https://blog.csdn.net/qq_40205116/article/details/101057664)
+ > java图书管理系统（附源码）
+ ## [python 实现获取与下载网页中图片的四种方案](https://blog.csdn.net/weixin_43715458/article/details/101283489)
+ > python 实现获取与下载网页中图片的四种方案
+ ## [python对不起！原来可以直接写文字？？](https://blog.csdn.net/dyyay521/article/details/101168409)
+ > python对不起！原来可以直接写文字？？
 # PM 
+ ## [度小满群面复盘：销售人员误把8千元产品以4千元卖出，怎么办？](http://www.woshipm.com/zhichang/2913513.html)
+ > 本篇文章是笔者在度小满的面试复盘，供大家参考学习~一、背景时间：2019年9月17日 下午14:00地点：度小满总部形式：现场群面到度小满总部的时候差不多12点40，...
  ## [产品经理周报第 85 期｜人民日报联合腾讯推出手游“家国梦”上线；返利网上线内容种草社区“发现好物”频道](http://www.woshipm.com/it/2920258.html)
  > 嗨咯呀，各位小伙伴们，今天又是周五啦，马上就要国庆啦再坚持一下，离国庆还有4天大家马上可以出去为咱们祖国母亲庆生咯~那现在，我们来了解一下本周发生的事情吧...
  ## [内容排行榜（截止至9月26日）](http://www.chanpin100.com/article/109642)
