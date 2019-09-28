@@ -1,24 +1,36 @@
 ---
 title: 2019-09-28 IT News
 copyright: true
-date: 2019-09-28 10:03:38
+date: 2019-09-28 12:01:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [足不出户指挥千里 华为智慧屏让导演隔空指挥](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=4geOcn1IFtO-gEg*MopeocIBMu0lRGIniCBgov0RGoMvNgZagnWI58JATncirC5ZfX42Md-z8pf17Rrdv2zh7bnz8VI7-sqVXUv7L4Hutzj6wpv8cv2mQ437s2IU0dMo&new=1)
- > “再升高，再升高一点。太棒了，很开阔，就是这儿了。很棒的西部公路。特别像《无人区》的场景。”猜到了吗？这是著名导演徐峥在为自己的公路片勘景。您一定会感到好奇：难道趣味科技来到徐峥的电影剧组探班了吗...
- ## [数据智能百家争鸣，浩鲸科技步步为营](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=PsD5kdUi3pCxHoKjb5I4aKA7C-neosVkmu*2xdhtg6pjbbYuoF*xEOOD5FXKEbspxNIO-Fd4mVc3sBKQfRpb63GC7AB6gcBZ6M1oljJ5u2qzMokeOEzpYXeV*bcuw3wc&new=1)
+ ## [电信网络诈骗犯罪研究(四)：是不是所有利用了现代电子通讯技术或网络技术进行诈骗的行为都属于“电信网络诈骗”?](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=IPj3OsvCzVogJmkBVDEMzXtpRf6cjTTcuM73scvkyRrVIuBfdtlCMtnrfbGmojSTCiVSGtAipFYv9V4fhg5-f9b0WvGu5Gr7YUkXnq9Fgeipg8kp6e-YZr*q--1RjUIU&new=1)
+ > 黄佳博：经济犯罪、网络犯罪案件辩护律师，广强律师事务所网络犯罪辩护与研究中心秘书长相信有关注本公号的朋友都知道“电信网络诈骗”和普通诈骗在入罪和量刑上都存在很大的区别，相比较来说，实施“电信网络诈...
+ ## [日本顶级数控机床开始应用3D打印夹具，我们跟不跟?](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=dWQ*lbJwQQWORzYjaqf*3eaAqG2J7LY8y9J9CZBJXWpbH*wKhbJjOMBGC2kDvXfFUtQsiSQ2dJhWTXr4sWsJJOsD-9OX66ZbbX4TA8CCoU-4kNW*M7XabSRsg3z0GzPR&new=1)
+ > TCT Group内容主编Daniel O’Connor先生拜访了松浦机械制作所的英国总部，作为英国最大的五轴加工中心所在地，松浦机械不但为客户提供金属3D打印设备，而且目前也是多款3D打印设备的用户，Daniel 此行将就松浦公...
+ ## [戴尔推出新一代安全存储设备](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=LxPlDYjytwZve1N9cv-146LYbhKy*JrzNLMUEd4JZU-VGoxifhkD9h1X5xk6h6ZshwvBMqObX*-lidkNpHz2w*Xz7okFketTPWEDEiKtdfSd2N-n-6KZqVUwmOr3oIsw&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：近日，戴尔新推出了三款Dell EMC PowerProtect Data Domain系列安全存储设备。据外媒报道，戴尔新推出了三款Dell EMC PowerPro
+ ## [华为发布全容器化 5G 核心网；余承东评小米 MIX Aphla 手机无实用价值；PHP 新版本更新|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=g2JcjmFt44jGAQUbjHQi7lNg3hVC8axG8s*6ZnwE7OD6uf2Qr5EeO6ijl7uhbK2H7Khu7yRaLaEKcYg7W4jSzbmPjvHjZelx1GGp8U0BQFjq2wVJ0-t3Si*r*J8vgjY3&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [予期待，2020微软全球教育合作伙伴峰会如期将至](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=JQ4FgM3ZlULwGocRYrla7SPGML1fkOumRE88ut6iln1C3SfozhW4RLx5YfB-cPLDikwxO2NA7wpL37w4uw*vEBeziq1dpYixEArpyNYV8zGDj1yd4wZ3RelAcjChq1tu&new=1)
+ > 秋风送来2020年的第一波好消息——第14届全球教育合作伙伴峰会（以下简称 GEPS 大会）将于2020年2月10日-13日在美国西雅图微软会议中心与您重逢。2020年的 GEPS 大会预计将邀请来自全球超过400位行业领袖、企业...
+ ## [数据智能百家争鸣，浩鲸科技步步为营](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=PsD5kdUi3pCxHoKjb5I4aKA7C-neosVkmu*2xdhtg6rWi2eDVAN9qsbSiCl4Z5i50HKTjyEl-gLHeoFNWcNrFiSjJ-WoVHKbIYC0S7zajkBZ71UR7wViW70H3o9ruQqY&new=1)
  > 作为行业创新盛宴，一年一度的云栖大会又一次在人们的期待声中拉开了帷幕。据了解，本届大会立足“数·智”，充分彰显了万物互联时代的数字化、智能化属性，以及由此带来的社会生产方式迭代、生产关系再造、生活...
- ## [增势凶猛!NB-IoT水表连接数超千万，进入行业正循环](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=39U5KxVS7ak-wF5pSrVlej75Hh7JsrJY0L7xLo*QRCIzbVod0SuwcUA9OlpqYZI2rsIyy4TxKdR4xCF5zBwIE5dfPWdzudWkWVjBPL9qzCUgLFwGT2IvpLDy*EIzsiPq&new=1)
- > 近期有数据显示NB-IoT连接数突破6000万，而其中NB-IoT智能水表表现出色。据粗略估计，当前已安装使用及即将发货安装的NB-IoT水表数量已超千万台，走在了各垂直行业的前列。 这说明，NB-IoT无线抄表技术在水务行...
- ## [RMP1金属3D打印技术输出效率达到350kg/天，生产速度提高了20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=p91QGDj2M5d1EdUYPaQ3Ux8i7RiAGFcNOMPDFfaSsEzdsHeDpRC2JxHwENZUKlY44NxCXcf7RHCCOhJZzoJXvHu76uSfb4Afda6DQP9lp7AgnWV8q8dqbMViSGY7nR6*&new=1)
+ ## [RMP1金属3D打印技术输出效率达到350kg/天，生产速度提高了20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=p91QGDj2M5d1EdUYPaQ3Ux8i7RiAGFcNOMPDFfaSsExyCS-IDXzrw35wiaD7dZO74UXsml*YNG2m4IqdHIGRXk3Owx*QDPjXyuVD6HULUUoVTEfW04jaDIou5me3OLoC&new=1)
  > 2019年9月27日，南极熊从外媒获悉，澳大利亚金属3D打印机制造商Aurora Labs宣布了一个重大的消息，该公司称已将其Rapid Manufacturing Technology（RMP1）增材制造系统的打印速度提高了2000％。也
- ## [华为，5G时代的独孤求败?不，它要的是更大的胜利!](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=ptaOr0wS3eqktSRZ6GDMRWTWzsHbPcOs6h*Ix35UDcNpx54PiA-VnYnlkuCH91vM8M8vyQaK1WNQ*tvCXXdILUpMiqPbwZf77nMoce-hXMKMD4nkkPK6ld3jYQ1QEl-m&new=1)
+ ## [物联时代弄潮儿，喜看无锡](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=bsrI65v4gfjCbTGc5xluugfZusky4sVZS-dIAToyl0Gbzz9T7KxAuhd*YzG746J1q26Xg4LIk88Foh*itC83ABWTfqCb5YK558ins3J7H5INsiBGByZ5soRVOMKM67ZQ&new=1)
+ > 导读在江苏无锡，联接物联网已成为许多市民的生活习惯：停车时，借助NB-IoT网络的“智能车位管理系统”，一秒钟锁定空余车位；下班前，通过互联网远程控制家中的电饭煲开始蒸煮；看病时，刷一刷阿斯利康智慧健康...
+ ## [华为，5G时代的独孤求败?不，它要的是更大的胜利!](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=ptaOr0wS3eqktSRZ6GDMRWTWzsHbPcOs6h*Ix35UDcNOeskIPVEYnSMdKQyR15AmV61ZplPBjXpaipoP1OUL4GN3kbb5b4bomMmJ4BFFM-*Ot0y2HeYj1mkEn9hZND0y&new=1)
  > 纵横江湖三十余载，杀尽仇寇，败尽英雄，天下更无抗手，无可奈何，惟隐居深谷，以雕为友。呜呼，生平求一敌手而不可得，诚寂寥难堪也。在剑冢石壁，在其墓前，刻着的寥寥数语，尽道出独孤求败一生睥睨天下、傲世...
- ## [实地探访“中国声谷”：燃!600多员“干将”，650亿产值，层出不穷的先进科技……](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=f43fpnrTDXspTwhWwUL6BXNNpn2KW6grTarQWCpy3b6wVSAcukXbRpHjjgH7hrTXi4oIkP7a9N8CpFmmUlZMonbz0orcUm8YOoy9b-fmCzswG*YOa*OSLJbCWDUV3mPo&new=1)
+ ## [足不出户指挥千里 华为智慧屏让导演隔空指挥](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=4geOcn1IFtO-gEg*MopeocIBMu0lRGIniCBgov0RGoP-7chLF2uANhPMTZ7DVOz2YqDMKEXLfPmqybVjLvwPqd4QG7SM*A9s9mh3jCyUu5Px9uoKK6g9zZS5xe4cIsvF&new=1)
+ > “再升高，再升高一点。太棒了，很开阔，就是这儿了。很棒的西部公路。特别像《无人区》的场景。”猜到了吗？这是著名导演徐峥在为自己的公路片勘景。您一定会感到好奇：难道趣味科技来到徐峥的电影剧组探班了吗...
+ ## [增势凶猛!NB-IoT水表连接数超千万，进入行业正循环](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=39U5KxVS7ak-wF5pSrVlej75Hh7JsrJY0L7xLo*QRCJ2bCJDT0b7pQnRkjwxRNZ1Ja6yHxb8cRfagYnZgUBxh*PBQlY6czuYNL*5sum57lCzTa-wRfW20*D0mAVpximm&new=1)
+ > 近期有数据显示NB-IoT连接数突破6000万，而其中NB-IoT智能水表表现出色。据粗略估计，当前已安装使用及即将发货安装的NB-IoT水表数量已超千万台，走在了各垂直行业的前列。 这说明，NB-IoT无线抄表技术在水务行...
+ ## [实地探访“中国声谷”：燃!600多员“干将”，650亿产值，层出不穷的先进科技……](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=f43fpnrTDXspTwhWwUL6BXNNpn2KW6grTarQWCpy3b4605GFmz3kVlG*NH-Ab5SB1Q-YANy3ho6nY7-AGOvky5OCToLQUglG7GEa2r0EBqOS8FSYR3vgWE0WI11ddCEJ&new=1)
  > 整洁的地铁，智能化的公交，遍地的高新技术企业……来到安徽合肥，《国际金融报》记者产生的第一印象，就是“新”。“黄山”以北，古称“庐阳”，这是合肥的历史印记，而如今，这里是一个充满浓厚科研氛围、焕发...
- ## [三大运营商8月数据出炉：中移动宽带增长第一 联通4G用户暴增](http://mp.weixin.qq.com/s?src=11&timestamp=1569636005&ver=1879&signature=ARsjK-w5iVjfm4Na5rs39MlmXDRaAUi67J3t2upIZrRNaMNif7aRzhGPz8xpRIr4Osiu7FfXXp2vQYcrQ9Xqpwui0XLsBZJ78kk12uVhHMS7e7IkmArQ5q-noWLjzJa2&new=1)
+ ## [三大运营商8月数据出炉：中移动宽带增长第一 联通4G用户暴增](http://mp.weixin.qq.com/s?src=11&timestamp=1569643204&ver=1879&signature=ARsjK-w5iVjfm4Na5rs39MlmXDRaAUi67J3t2upIZrQxP-ufR*b2T37ObqgvyhBnSVd7N68UNqiHOX5XP1pljL0vbEp110s2Po5bWrVfzwLYaytIVZ4FVOTlIwYu7ZJJ&new=1)
  > 运营商财经网  秦佰铃/文近日，三大运营商都已经公布了8月运营数据，整体上看4G用户增量比较明显，特别要注意的是中国移动在主要运营数据上仍把持领头羊地位，中国电信与中国联通在移动用户总量上的的差距已经拉...
 # IT 技术 
  ## [教程：使用U盘将Linux Mint安装到Windows笔记本上](http://os.51cto.com/art/201909/603660.htm)
@@ -39,30 +51,32 @@ categories: IT NEWS
  > 谷歌的量子计算突破会让区块链体系土崩瓦解吗？
  ## [动画：面试如何轻松手写链表？](https://blog.csdn.net/qq_36903042/article/details/101418889)
  > 动画：面试如何轻松手写链表？
- ## [任正非：华为有意出售 5G 技术！](https://blog.csdn.net/csdnnews/article/details/100815484)
- > 任正非：华为有意出售 5G 技术！
  ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
  > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
- ## [“00后”消费数据分析，一文教你撩动“00后”购物欲](https://blog.csdn.net/yuanziok/article/details/101350916)
- > “00后”消费数据分析，一文教你撩动“00后”购物欲
- ## [了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑](https://blog.csdn.net/u011642663/article/details/101265254)
- > 了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑
  ## [别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！](https://blog.csdn.net/kexuanxiu1163/article/details/101185162)
  > 别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！
- ## [【JVM】探究Java常量本质及三种常量池](https://blog.csdn.net/qq_42322103/article/details/96900360)
- > 【JVM】探究Java常量本质及三种常量池
  ## [Docker 零基础从入门到使用](https://blog.csdn.net/sunnyzyq/article/details/101222410)
  > Docker 零基础从入门到使用
- ## [如何编写出高质量的 equals 和 hashcode 方法？](https://blog.csdn.net/z694644032/article/details/101512918)
- > 如何编写出高质量的 equals 和 hashcode 方法？
- ## [为什么平头哥做芯片如此迅猛？](https://blog.csdn.net/csdnnews/article/details/101488572)
- > 为什么平头哥做芯片如此迅猛？
+ ## [玩转 SpringBoot 2 快速整合拦截器](https://blog.csdn.net/ljk126wy/article/details/101278107)
+ > 玩转 SpringBoot 2 快速整合拦截器
+ ## [“00后”消费数据分析，一文教你撩动“00后”购物欲](https://blog.csdn.net/yuanziok/article/details/101350916)
+ > “00后”消费数据分析，一文教你撩动“00后”购物欲
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [《C++ Primer》学习笔记（二）：变量和基本类型](https://blog.csdn.net/TeFuirnever/article/details/100977081)
+ > 《C++ Primer》学习笔记（二）：变量和基本类型
+ ## [能否让JS作为打开网页的入口？](https://blog.csdn.net/github_38885296/article/details/101444571)
+ > 能否让JS作为打开网页的入口？
+ ## [手绘知识点——指针入门](https://blog.csdn.net/u014483914/article/details/101165585)
+ > 手绘知识点——指针入门
+ ## [装饰者模式，从吃黄焖鸡开始说起](https://blog.csdn.net/z694644032/article/details/101199769)
+ > 装饰者模式，从吃黄焖鸡开始说起
  ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
  > 我花了一夜用数据结构给女朋友写个H5走迷宫游戏
- ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
- > 100 个网络基础知识普及，看完成半个网络高手
+ ## [【面试必备】小伙伴栽在了JVM的内存分配策略。。。](https://blog.csdn.net/hyg0811/article/details/101444643)
+ > 【面试必备】小伙伴栽在了JVM的内存分配策略。。。
+ ## [GitHub 标星 1.2w+，超全 Python 常用代码合集，值得收藏！](https://blog.csdn.net/sinat_33224091/article/details/101487864)
+ > GitHub 标星 1.2w+，超全 Python 常用代码合集，值得收藏！
  ## [用Python分析2000款避孕套，得出这些有趣的结论](https://blog.csdn.net/u014044812/article/details/100977312)
  > 用Python分析2000款避孕套，得出这些有趣的结论
  ## [重磅揭晓阿里 AliOS Things 3.0 革命性创新！](https://blog.csdn.net/csdnnews/article/details/101596567)
@@ -74,56 +88,44 @@ categories: IT NEWS
  ## [阿里开源物联网操作系统 AliOS Things 3.0 发布，集成平头哥 AI 芯片架构！](https://blog.csdn.net/csdnnews/article/details/101595694)
  > 阿里云智能产品管理部总经理、AIoT 事业部产品与解决方案总经理何云飞作者 | 唐小引发自云栖小镇出品 | CSDN（ID：CSDNnews）阿里正式提出将 IoT 作为主赛道是在去年 3 月，但实际上，阿里做物联网，组建 IoT 事业部，却已经有了三年多的光阴。不久前阿里云智能 IoT ...
 # 人工智能 
- ## [【Mysql进阶】这就是索引优化！](https://blog.csdn.net/HXNLYW/article/details/82979088)
- > 【Mysql进阶】这就是索引优化！
- ## [vue-router路由传参](https://blog.csdn.net/lichao000124/article/details/100566540)
- > vue-router路由传参
- ## [Mysql事务](https://blog.csdn.net/weixin_44778952/article/details/93838231)
- > Mysql事务
- ## [SparkSQL 使用UDAF实现自定义聚合函数](https://blog.csdn.net/qq_41420150/article/details/95457925)
- > SparkSQL 使用UDAF实现自定义聚合函数
- ## [【查漏补缺】git相关](https://blog.csdn.net/qq_43062639/article/details/97397064)
- > 【查漏补缺】git相关
- ## [Codeforces 1230C Anadi and Domino 枚举](https://blog.csdn.net/qq_38946354/article/details/101271185)
- > Codeforces 1230C Anadi and Domino 枚举
- ## [【面试真题】Mysql实现计算同比、环比](https://blog.csdn.net/Eric_data/article/details/101287510)
- > 【面试真题】Mysql实现计算同比、环比
- ## [SQL语句的基本操作](https://blog.csdn.net/qq_40671789/article/details/101078308)
- > SQL语句的基本操作
- ## [数据库  查询之单表查询](https://blog.csdn.net/weixin_44285674/article/details/101198823)
- > 数据库  查询之单表查询
- ## [Mysql HIVE场景题 1~2题](https://blog.csdn.net/qq_43264006/article/details/101272602)
- > Mysql HIVE场景题 1~2题
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
- > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
- ## [MySQL进阶学习笔记 一（包括各种函数的使用—单行、字符、聚合、加密）](https://blog.csdn.net/Java_xiaoxinxin/article/details/101271650)
- > MySQL进阶学习笔记 一（包括各种函数的使用—单行、字符、聚合、加密）
- ## [MySQL总结-无锁读MVCC](https://blog.csdn.net/chl87783255/article/details/101297631)
- > MySQL总结-无锁读MVCC
- ## [MySQL 从入门到出门 第 5 篇 账户和权限](https://blog.csdn.net/horses/article/details/101162540)
- > MySQL 从入门到出门 第 5 篇 账户和权限
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 # PM 
+ ## [UML建模方法论（下）：系统建模](http://www.woshipm.com/pd/2925744.html)
+ > 本篇文章是下面两篇文章的后续：《UML建模方法论（上）：建模初期准备》《UML建模方法论（中）：业务建模》阅读本篇文章前建议先阅读上面两篇文章。五、系统建模系统...
  ## [做好这六点，终于开了个高效会议！](http://www.woshipm.com/zhichang/2923304.html)
  > 会议开得好，天天下班早！“小明，晚上去happy呀”，晚上7点半，小明收到好基友小回的消息。“happy个鬼，还在开会”。“又开会，你怎么那么多会，大领导啊”“呵呵，累的...
  ## [群面复盘 | 如何为Facebook建立完善的假新闻整治体系？](http://www.woshipm.com/zhichang/2917989.html)
  > 本文为一份如何整治Facebook假新闻的群面经验分享，从三个角度讨论整治假新闻的措施与惩罚手段。时间：2019年8月31日地点：模拟群面微信群形式：线上语音本组题目...
  ## [从微博故事到抖音随拍，中国社交真的没有“故事”？](http://www.woshipm.com/it/2924556.html)
  > 中国没有Snapchat，我们的社交关系已经被捆绑。过去几年，Copy to China 的路子屡试不爽。但“中国Snapchat”的头衔却始终没能在千呼万唤中被本土公司抢走。甚至，这一...
- ## [移动导航设计中的10种导航](http://www.chanpin100.com/article/109648)
- > 为了让用户能够顺利的使用产品，则必须为用户提供一个有效的导航系统，让用户时刻清楚自己在应用中所处的位置、可以去哪儿。这也是 信息结构 中的核心点。
- ## [产品规划怎么做](http://www.chanpin100.com/article/109646)
- > 做为产品线负责人，如何规划产品发展计划？
- ## [作为自由网页开发者如何建立自己的个人品牌？](http://www.chanpin100.com/article/109645)
- > 2019最详细教程
- ## [项目管理是做什么的？有哪些分类？](http://www.chanpin100.com/article/109644)
- > 项目管理作为企业管理内的一个重要分支，受到了许多商业人士的关注。那么项目管理究竟是做什么的呢？其实，项目管理就是根据有限的技能、人力、物力等资源在设定的时间内完成某个项目的过程。
- ## [月薪4万+平台产品经理的看家本领（一）](http://www.chanpin100.com/article/109640)
- > 众所周知，阿里将产品经理划分为平台型产品，商业型产品，用户型产品，这3类产品的职责侧重点有所不同，对人的能力要求不一样，后续我们逐个剖析交流。
- ## [如何开始你的语音交互设计：场景篇](http://www.chanpin100.com/article/109639)
- > 语音交互的场景设计和文档撰写方式
- ## [一文看懂Word2vec（基本概念+2种训练模型+5个优缺点）](http://www.chanpin100.com/article/109638)
- > Word2vec 是 Word Embedding 方式之一，属于 NLP 领域。他是将词转化为「可计算」「结构化」的向量的过程。本文将讲解 Word2vec 的原理和优缺点。这种方式在 2018 年之前比较主流，但是随着 BERT、GPT2.0 的出现，这种方式已经不算效果最好的方法了。
 
     
