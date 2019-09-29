@@ -1,7 +1,7 @@
 ---
 title: 2019-09-29 IT News
 copyright: true
-date: 2019-09-29 09:01:04
+date: 2019-09-29 10:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,21 +66,31 @@ ADAS&#21019;&#19994;&#20844;&#21496;&#8220;&#35273;&#38750;&#31185;&#25216;&#822
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [电子烟产业为何迅速从繁荣至危机重重?](http://mp.weixin.qq.com/s?src=11&timestamp=1569718804&ver=1881&signature=Lp2fgn0AssfkmvkMEmHcJLLAFMhYokh22bn5xVDc5OaGtSDh2C2TrbQI7EVHsP*Mzzaei9ey6nT1KarcPwzJcTusU3HNj4IughI1ML*GwtErhkhpVVkaNREBMVIgxVlW&new=1)
- > 今年最受风投青睐的行业无疑是电子烟，据统计数据显示今年电子烟行业的融资额达到10亿元，但是随着近期美国公布的疑似与吸食电子烟有关的肺病案例超过800例，死亡人数达到13人，正将电子烟行业推向危局，繁荣至...
- ## [独家:中国联通8月份4G用户数陡然大幅增长 原因不明](http://mp.weixin.qq.com/s?src=11&timestamp=1569718804&ver=1881&signature=kTZQh26OzpCe5wbbXsyBDd64gYKU471l1QmFi2sQ8UaFzy4nFuF2*6Cc9iAVD8Y-CKxzPm2ZIOjIqSM0d*UtabA2TDDOVFBq6BcQwb7cHqQH*7iB*fOjuAlV8tuhbZjy&new=1)
- > 运营商财经网 林玮/文9月25日，中国联通公布了八月份的运营数据，中国联通8月份移动出账用户净增18.4万户，移动用户总数累计达3.24646亿户。4G用户数来看，中国联通公布的2019年8月份运营数据显示，截至2019年8...
- ## [\[报告\]中国新能源汽车五大趋势分析与价值链定位模式和战略思考框架解读(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569718804&ver=1881&signature=KDBszvzXW5B2eyNyZg4OP2ZlkjgWViFI4dO6QIbZHC-vAh22oDhEbcHJkvqiwiYSQCN3MabsLUrDVcwbvKs33tiUbt*YF-UklqJcGHKf7ZDmxl*2x7Jj0QT0c2c0RiXV&new=1)
- > 伴随着传统车企和造车新势力同时加速发力，消费者对新能源汽车的关注度与接受度正在逐步提升。今年4月在上海举办的车展上，新能源汽车已然成为绝对主角，无论是发布的新车型数量还是创新展示的精彩程度都创下了...
- ## [重大突破!中国联通率先重磅宣布，震惊友商..](http://mp.weixin.qq.com/s?src=11&timestamp=1569718804&ver=1881&signature=fWWlBgCNE1w00lh62*DA0ru19p3H2qETLRSt3vcFfjGr-NasGMVlPTPQLQmR-fhVxO4hIKY-DPXqDxFqmxkgSu6L5hL3OVAR59aeGn3G6*siib9iy8fKqUiLCAw98LFE&new=1)
+ ## [\[科技早报7点整\]华为首家全球旗舰店开业 苹果史诗级漏洞曝光……](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=zy6aoAYiVVoHsCn4NYphfDj74tw8a8SO3hjtprci*6wY6nqca00vGmG6yx5UEazRC7qFTDTdQ3JmvC0mHU4xr6UUCTNkMbUPKtSPxk4yxREs-5Yf4nZk7o-pSps5KpBM&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第604期1.男子投资女主播创业遭骗1800万：女主播称想改变命运3年前江苏苏州男子陈某在某直播平台结识一名“美女主播”，两人聊得很投缘，女主播自称身世悲惨想创业改变命运，陈...
+ ## [旭创科技宋岩：5G前传彩光及下一代模块 器件国产化的目标与策略](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=6vBtAbhZ8kGVHjOrvefk-a*GdOw66DeXpPhHzDCnJ-4qUFuusOIIhtjwxMbNbflEcLLYpN8zyJrKgxCT5ETicmlYFfLKfYQPWtvNR*9oE7LPnlrVjjCCtgTK0XGzw9qW&new=1)
+ > 导读     高速光通信模块供应商旭创科技产品管理专家、产品管理部总监宋岩(Stoone Song)发表了主题为《5G光模块新趋势和国产化》的演讲报告，重点介绍5G前传的彩光模块应用和下一代的前传与回传光模块，以及对器...
+ ## [重大突破!中国联通率先重磅宣布，震惊友商..](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=fWWlBgCNE1w00lh62*DA0ru19p3H2qETLRSt3vcFfjFtfcx35-Uw980UvGf91gjjaGth4R3OLrfudhkmOsR50MiPIuSrcybBBHH3Ngy0jEMjlJLJ1uFrOmobmeeOAwdR&new=1)
  > 9月20日，中国联通陕西分公司在5G SA技术创新工作中取得突破性进展，率先打通了中国联通首个5G SA高清通话。本次方案基于华为5GC和虚拟化vEPC，验证了SA初期的EPS Fallback语音方案。SA是5G网络的目标架构，中国...
- ## [大科激光江博士专访：强化优势，正视不足，脚踏实地培养工匠精神](http://mp.weixin.qq.com/s?src=11&timestamp=1569718804&ver=1881&signature=86h3Aur0nPEDlcUmg4zL2O249M7WDPiG4eDagbJ48M9vQLYaIL4TbxiYpmaVQ9wHqxxg2jbukUQtXvsZVrQXJjKbRK21PyupOOax0wFc7slCrvM0J1a93SgeEJdWzXIY&new=1)
+ ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=QeVVUgwm8X4THijDF6WQXFYMTDqBFGqtK6b9rdaT74FREH87Xdtc-hkI4iD6VVg55zMUX-klz7BNpfZ9lqPtiiC-tLFRt5C1DCI688KYLVdTOQnDh12AdAANORLDMKX3&new=1)
+ > 你一定知道华为，但可能还不知道华为有多厉害。一句话说：华为去年的营收，比腾讯、百度、阿里巴巴加一起还多。再加一句就是：它现在是全球最大的通信设备供应商，服务着全球30亿人，业务遍布170多个国家。它一...
+ ## [电子烟产业为何迅速从繁荣至危机重重?](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=Lp2fgn0AssfkmvkMEmHcJLLAFMhYokh22bn5xVDc5ObXii49vhOC6*kghFgxMTuxTBqTHUKHQlKPNQ4qNETN6QVrzOoAQ-hnb31By9ez*J2CbVBPGk1GIH9MBHLWpl53&new=1)
+ > 今年最受风投青睐的行业无疑是电子烟，据统计数据显示今年电子烟行业的融资额达到10亿元，但是随着近期美国公布的疑似与吸食电子烟有关的肺病案例超过800例，死亡人数达到13人，正将电子烟行业推向危局，繁荣至...
+ ## [独家:中国联通8月份4G用户数陡然大幅增长 原因不明](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=kTZQh26OzpCe5wbbXsyBDd64gYKU471l1QmFi2sQ8UZ1VamzN5EBkpdgSrZoivf22dWlRdGniZAVYNFPSyB3zfRhq9r3L0NZw8Ju5eeSyP-gY31jop5yoQ2UDVLvzMHX&new=1)
+ > 运营商财经网 林玮/文9月25日，中国联通公布了八月份的运营数据，中国联通8月份移动出账用户净增18.4万户，移动用户总数累计达3.24646亿户。4G用户数来看，中国联通公布的2019年8月份运营数据显示，截至2019年8...
+ ## [\[报告\]中国新能源汽车五大趋势分析与价值链定位模式和战略思考框架解读(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=KDBszvzXW5B2eyNyZg4OP2ZlkjgWViFI4dO6QIbZHC*RgEtdyrFJ8OTG0LZN3vm3A3BAA4YjUVyN*cKyDo*6Kyq1E5VDSZjxle3aX-SEqclzHfx8BrwGLxpz8uzIuccM&new=1)
+ > 伴随着传统车企和造车新势力同时加速发力，消费者对新能源汽车的关注度与接受度正在逐步提升。今年4月在上海举办的车展上，新能源汽车已然成为绝对主角，无论是发布的新车型数量还是创新展示的精彩程度都创下了...
+ ## [大科激光江博士专访：强化优势，正视不足，脚踏实地培养工匠精神](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=86h3Aur0nPEDlcUmg4zL2O249M7WDPiG4eDagbJ48M8sj0Op7e3NewqdNh8xX4bxWPHGm8D6SWRrZ4kww*b6rkDjHGLPir3Ku4NeoBySVCeMfEd3nyuI5qBQ064I01XQ&new=1)
  > 9月17日，中国国际工业博览会数控机床与金属加工展在上海虹桥国家会展中心隆重开幕。作为一家专业从事光纤激光器及其核心器件的研发、生产和销售的激光行业高技术企业，大科激光也在此次展会期间展示了多款新产...
- ## [现在是否可以买5G手机?别争了!这才是问题关键!](http://mp.weixin.qq.com/s?src=11&timestamp=1569718804&ver=1881&signature=We-EUFu08-04y3wl2bXulD8Rh2Xjjbd2glgM5rP0br3eaN-s5fCAGyw*NvBMeN-kv4fAYwK7bz9yENbNmLm3qc355fQDtRXusJ30px0rtgK8FslZBsvrgVIXsJEf1gZ*&new=1)
+ ## [现在是否可以买5G手机?别争了!这才是问题关键!](http://mp.weixin.qq.com/s?src=11&timestamp=1569722404&ver=1881&signature=We-EUFu08-04y3wl2bXulD8Rh2Xjjbd2glgM5rP0br3K2g7UBQXiRmFDsIQ-GPmGXXbaKEErNKX5GKsZ8Zu1u6d13XWvwPre-qNTxAPg2q*b3cOqAwz8JGXo4lC-VaGO&new=1)
  > 争论5G手机是否值得买没什么意义，不同类型的消费者结合自身需求和消费习惯，会用钱投票。这些天，随着华为Mate 30系列发布和iPhone 11 开售，华为和苹果两家公司占据了科技圈的舆论主场，而所有关于这两家手机...
 # IT 技术 
- ## [目前最好的五大PostgreSQL GUI](http://database.51cto.com/art/201909/603627.htm)
- > 目前最好的五大PostgreSQL GUI
+ ## [听说你把1个经验反复用了10年？](http://news.51cto.com/art/201909/603719.htm)
+ > 听说你把1个经验反复用了10年？
+ ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
+ > 用Python偷偷告诉你国庆8亿人都去哪儿浪？
+ ## [目前好用的五大PostgreSQL GUI](http://database.51cto.com/art/201909/603627.htm)
+ > 目前好用的五大PostgreSQL GUI
  ## [教程：使用U盘将Linux Mint安装到Windows笔记本上](http://os.51cto.com/art/201909/603660.htm)
  > 教程：使用U盘将Linux Mint安装到Windows笔记本上
  ## [Android替代品：2019年排名前8的移动操作系统，你看好哪个？](http://news.51cto.com/art/201909/603646.htm)
@@ -91,10 +101,14 @@ ADAS&#21019;&#19994;&#20844;&#21496;&#8220;&#35273;&#38750;&#31185;&#25216;&#822
  > 再见Docker，是时候拥抱下一代容器工具了
  ## [数据太多、太乱、太杂？你需要这样一套数据治理流程](http://news.51cto.com/art/201909/603603.htm)
  > 数据太多、太乱、太杂？你需要这样一套数据治理流程
- ## [Visual Studio Code的十项开发技巧](http://developer.51cto.com/art/201909/603626.htm)
- > Visual Studio Code的十项开发技巧
- ## [如何在RHEL8/CentOS8上建立多节点Elastic stack集群](http://os.51cto.com/art/201909/603640.htm)
- > 如何在RHEL8/CentOS8上建立多节点Elastic stack集群
+ ## [老牌运维教你如何快速分析Linux服务器的性能问题](http://developer.51cto.com/art/201909/603718.htm)
+ > 作为一名linux系统运维人员，最主要的工作是优化系统配置，使应用在系统上以最优的状态运行，但是由于硬件
+ ## [云栖大会上阿里巴巴没说的数字经济逻辑](http://ai.51cto.com/art/201909/603716.htm)
+ > 数字经济是由平台智能和边缘智能双擎推动，并由物联网（采集数据）、5G（传输数据）、云计算（存管数据）、
+ ## [操作系统工程视角下的AIoT](http://ai.51cto.com/art/201909/603715.htm)
+ > 屏幕瑕疵的检出率达到92%以上，远远超过了人工水平。而效率，更是从人工质检的5分钟极大地缩短到几秒钟以内
+ ## [代码详解：使用Python从不同表格中提取数据](http://developer.51cto.com/art/201909/603714.htm)
+ > 常用的表格数据存储文件格式――CSV，Microsoft Excel，GoogleExcel。Python通常称为粘合语言。这个名称归
  ## [一文看懂Docker容器技术架构及其中的各个模块](http://cloud.51cto.com/art/201909/603713.htm)
  > docker client 是docker架构中用户用来和docker daemon建立通信的客户端，用户使用的可执行文件为docker，
  ## [深度长文：技术管理者究竟应该管些什么？](http://news.51cto.com/art/201909/603712.htm)
@@ -109,32 +123,32 @@ ADAS&#21019;&#19994;&#20844;&#21496;&#8220;&#35273;&#38750;&#31185;&#25216;&#822
  > 深入理解C语言指针
  ## [动画：面试如何轻松手写链表？](https://blog.csdn.net/qq_36903042/article/details/101418889)
  > 动画：面试如何轻松手写链表？
- ## [\[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）](https://blog.csdn.net/Eastmount/article/details/101101829)
- > \[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）
  ## [9月28日科技资讯|华为发布全容器化 5G 核心网；余承东评小米 MIX Aphla 手机无实用价值；PHP 新版本更新](https://blog.csdn.net/weixin_39786569/article/details/101597127)
  > 9月28日科技资讯|华为发布全容器化 5G 核心网；余承东评小米 MIX Aphla 手机无实用价值；PHP 新版本更新
- ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
- > 七个开源的 Spring Boot 前后端分离项目，一定要收藏！
- ## [深度学习入门笔记（五）：神经网络的编程基础](https://blog.csdn.net/TeFuirnever/article/details/100835785)
- > 深度学习入门笔记（五）：神经网络的编程基础
+ ## [\[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）](https://blog.csdn.net/Eastmount/article/details/101101829)
+ > \[网络安全自学篇\] 十三.Wireshark抓包原理（ARP劫持、MAC泛洪）及数据流追踪和图像抓取（二）
  ## [【面试必备】小伙伴栽在了JVM的内存分配策略。。。](https://blog.csdn.net/hyg0811/article/details/101444643)
  > 【面试必备】小伙伴栽在了JVM的内存分配策略。。。
- ## [手绘知识点——指针入门](https://blog.csdn.net/u014483914/article/details/101165585)
- > 手绘知识点——指针入门
- ## [“00后”消费数据分析，一文教你撩动“00后”购物欲](https://blog.csdn.net/yuanziok/article/details/101350916)
- > “00后”消费数据分析，一文教你撩动“00后”购物欲
- ## [了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑](https://blog.csdn.net/u011642663/article/details/101265254)
- > 了解Java线程优先级，更要知道对应操作系统的优先级，不然会踩坑
- ## [玩转 SpringBoot 2 快速整合拦截器](https://blog.csdn.net/ljk126wy/article/details/101278107)
- > 玩转 SpringBoot 2 快速整合拦截器
- ## [别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！](https://blog.csdn.net/kexuanxiu1163/article/details/101185162)
- > 别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！
+ ## [深度学习入门笔记（五）：神经网络的编程基础](https://blog.csdn.net/TeFuirnever/article/details/100835785)
+ > 深度学习入门笔记（五）：神经网络的编程基础
  ## [Docker 零基础从入门到使用](https://blog.csdn.net/sunnyzyq/article/details/101222410)
  > Docker 零基础从入门到使用
- ## [常见的三个 JS 面试题](https://blog.csdn.net/qq449245884/article/details/101443702)
- > 常见的三个 JS 面试题
+ ## [别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！](https://blog.csdn.net/kexuanxiu1163/article/details/101185162)
+ > 别人家的孩子！CPU、操作系统、编译器全自主写，刘知远点赞！
+ ## [手绘知识点——指针入门](https://blog.csdn.net/u014483914/article/details/101165585)
+ > 手绘知识点——指针入门
+ ## [玩转 SpringBoot 2 快速整合拦截器](https://blog.csdn.net/ljk126wy/article/details/101278107)
+ > 玩转 SpringBoot 2 快速整合拦截器
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [如何编写出高质量的 equals 和 hashcode 方法？](https://blog.csdn.net/z694644032/article/details/101512918)
+ > 如何编写出高质量的 equals 和 hashcode 方法？
+ ## [常见的三个 JS 面试题](https://blog.csdn.net/qq449245884/article/details/101443702)
+ > 常见的三个 JS 面试题
+ ## [9月27日科技资讯|余承东吐槽苹果续航；贾扬清担任阿里巴巴开源技术委员会负责人；React Native 0.61.0 发布](https://blog.csdn.net/weixin_39786569/article/details/101516053)
+ > 9月27日科技资讯|余承东吐槽苹果续航；贾扬清担任阿里巴巴开源技术委员会负责人；React Native 0.61.0 发布
+ ## [能否让JS作为打开网页的入口？](https://blog.csdn.net/github_38885296/article/details/101444571)
+ > 能否让JS作为打开网页的入口？
  ## [重磅揭晓阿里 AliOS Things 3.0 革命性创新！](https://blog.csdn.net/csdnnews/article/details/101596567)
  > 阿里云智能IoT事业部产品负责人唐颖，CSDN摄于现场作者 | 胡巍巍发自杭州云栖大会责编 | 唐小引出品 | CSDN（ID：CSDNnews）两年前的秋天，即2017年10月，AliOS Things正式开源，截至目前，其在GitHub上已经获得2832 Stars，拥有GitHub ...
  ## [断点续传、秒传究竟是如何实现的？](https://blog.csdn.net/csdnnews/article/details/101596362)
@@ -144,37 +158,47 @@ ADAS&#21019;&#19994;&#20844;&#21496;&#8220;&#35273;&#38750;&#31185;&#25216;&#822
  ## [阿里开源物联网操作系统 AliOS Things 3.0 发布，集成平头哥 AI 芯片架构！](https://blog.csdn.net/csdnnews/article/details/101595694)
  > 阿里云智能产品管理部总经理、AIoT 事业部产品与解决方案总经理何云飞作者 | 唐小引发自云栖小镇出品 | CSDN（ID：CSDNnews）阿里正式提出将 IoT 作为主赛道是在去年 3 月，但实际上，阿里做物联网，组建 IoT 事业部，却已经有了三年多的光阴。不久前阿里云智能 IoT ...
 # 人工智能 
- ## [9月27日科技资讯|余承东吐槽苹果续航；贾扬清担任阿里巴巴开源技术委员会负责人；React Native 0.61.0 发布](https://blog.csdn.net/weixin_39786569/article/details/101516053)
- > 9月27日科技资讯|余承东吐槽苹果续航；贾扬清担任阿里巴巴开源技术委员会负责人；React Native 0.61.0 发布
- ## [阿里云三代掌门人首次同台，共叙云计算十年风云路！](https://blog.csdn.net/csdnnews/article/details/101421941)
- > 阿里云三代掌门人首次同台，共叙云计算十年风云路！
- ## [9月26日科技资讯|阿里完成首个可控量子比特研发；45 名谷歌员工举报不公对待；Swoft 2.0.6 正式版发布](https://blog.csdn.net/weixin_39786569/article/details/101422163)
- > 9月26日科技资讯|阿里完成首个可控量子比特研发；45 名谷歌员工举报不公对待；Swoft 2.0.6 正式版发布
- ## [2019秋招cv岗求职心得](https://blog.csdn.net/weixin_37627840/article/details/101536344)
- > 2019秋招cv岗求职心得
- ## [解决掉这些痛点和难点，让知识图谱不再是“噱头”](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/101486256)
- > 解决掉这些痛点和难点，让知识图谱不再是“噱头”
- ## [如何在python 深度学习Keras中计算神经网络集成模型](https://blog.csdn.net/qq_19600291/article/details/101425242)
- > 如何在python 深度学习Keras中计算神经网络集成模型
- ## [无监督神经机器翻译Unsupervised Neural Machine Translation](https://blog.csdn.net/weixin_38937984/article/details/101455002)
- > 无监督神经机器翻译Unsupervised Neural Machine Translation
- ## [通过Python给头像加国旗，10多行代码搞定，就别@官方了](https://blog.csdn.net/Skr_Eric/article/details/101287872)
- > 通过Python给头像加国旗，10多行代码搞定，就别@官方了
- ## [我的数据挖掘之路](https://blog.csdn.net/qq_41093717/article/details/101306300)
- > 我的数据挖掘之路
- ## [利用python、tensorflow、opencv、pyqt5实现人脸实时签到系统](https://blog.csdn.net/u011325213/article/details/101307562)
- > 利用python、tensorflow、opencv、pyqt5实现人脸实时签到系统
- ## [深度学习入门笔记（五）：神经网络的编程基础](https://blog.csdn.net/TeFuirnever/article/details/100835785)
- > 深度学习入门笔记（五）：神经网络的编程基础
- ## [原创的离线版 Redis 教程，给力！](https://blog.csdn.net/u012702547/article/details/101512624)
- > 原创的离线版 Redis 教程，给力！
- ## [为什么平头哥做芯片如此迅猛？](https://blog.csdn.net/csdnnews/article/details/101488572)
- > 为什么平头哥做芯片如此迅猛？
- ## [matlab r2019b中文版64位](https://blog.csdn.net/A980902/article/details/101428241)
- > matlab r2019b中文版64位
- ## [机器学习预测结果评价的score方法取值分类及决定系数R^2(Coefficient of Determination)的原理及推导](https://blog.csdn.net/gracejpw/article/details/101546293)
- > 机器学习预测结果评价的score方法取值分类及决定系数R^2(Coefficient of Determination)的原理及推导
+ ## [能否让JS作为打开网页的入口？](https://blog.csdn.net/github_38885296/article/details/101444571)
+ > 能否让JS作为打开网页的入口？
+ ## [在Angular7中使用laydate日期插件](https://blog.csdn.net/liucai1018/article/details/101536168)
+ > 在Angular7中使用laydate日期插件
+ ## [CSS动画特效之  字节跳动](https://blog.csdn.net/weixin_44285674/article/details/101173311)
+ > CSS动画特效之  字节跳动
+ ## [Ajax的概述和应用](https://blog.csdn.net/koko_kole/article/details/101306516)
+ > Ajax的概述和应用
+ ## [Bootstrap—模态框](https://blog.csdn.net/liucai1018/article/details/101533036)
+ > Bootstrap—模态框
+ ## [angular路由跳转时的一个坑](https://blog.csdn.net/liucai1018/article/details/101454177)
+ > angular路由跳转时的一个坑
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ > GitHub开源的10个超棒后台管理面板
+ ## [爬虫福利二 之 妹子图网MM批量下载](https://blog.csdn.net/PY0312/article/details/101087356)
+ > 爬虫福利二 之 妹子图网MM批量下载
+ ## [vueJs小册](https://blog.csdn.net/qq_41016862/article/details/101472580)
+ > vueJs小册
+ ## [v-model是什么？如何使用？如何实现双向数据绑定？](https://blog.csdn.net/jeffrey9595/article/details/101397417)
+ > v-model是什么？如何使用？如何实现双向数据绑定？
+ ## [ES6 - const命令](https://blog.csdn.net/weixin_44198965/article/details/100748010)
+ > ES6 - const命令
+ ## [12306网站车票爬取](https://blog.csdn.net/z_ipython/article/details/101050941)
+ > 12306网站车票爬取
+ ## [关于NYIST_ACM_OJ的注册登录和使用及其判题说明](https://blog.csdn.net/nuoyanli/article/details/101511251)
+ > 关于NYIST_ACM_OJ的注册登录和使用及其判题说明
+ ## [【itext】按要求生成pdf文件](https://blog.csdn.net/qq_40726316/article/details/101544589)
+ > 【itext】按要求生成pdf文件
+ ## [常见单链表题型（二）  反转一个单链表](https://blog.csdn.net/qq_44759710/article/details/101478397)
+ > 常见单链表题型（二）  反转一个单链表
 # PM 
+ ## [低成本兼职创业，每个互联网人都需要知道的方法论](http://www.woshipm.com/chuangye/2927469.html)
+ > 只有在客户最痛的点上突破，才能在最短的时间内获得客户青睐，降低创业风险。——樊登时势造英雄，在知识大爆炸的年代，出现了很多知名的自媒体IP。其中，樊登是带给...
+ ## [HOLLA：随机视频社交产品，下一个会匹配到谁？](http://www.woshipm.com/evaluating/2921056.html)
+ > 北美的年轻人都在玩什么呢？笔者从产品架构、盈利模式和运营策略等层面分析了北美的随机视频社交产品“HOLLA”，来看看为什么这个产品备受北美年轻人喜爱。随着智能手机...
+ ## [抛弃“基因”论，腾讯如何继续2B](http://www.woshipm.com/it/2928856.html)
+ > 腾讯在社交的地位毋庸置疑，但在零售2B的道路上，腾讯也从未认输。作者 l 刘然来源 l 十亿消费者（ID：gjgc168）不管自己有没有2B的基因，腾讯都还兀自走在2B的路...
+ ## [群面复盘 | 经典优先级排序问题](http://www.woshipm.com/zhichang/2920700.html)
+ > 本文为一次模拟群面复盘，以互联网企业发展问题的解决优先级排序为主题，笔者给出了一次较为全面的分析与思考。时间：2019年9月22日16:00/20：00地点：ZOOM模拟群面...
+ ## [知识产品十年，从搜索护城河到服务抓手](http://www.woshipm.com/it/2925161.html)
+ > 知识产品不再只以书本形式存在，互联网赋予了知识产品更多的可能性。十年知识产品，终归是价值观的考验。《认知盈余》的作者克莱·舍基曾提出过这样一个有趣的观点：美...
  ## [抖音的那些事儿：内容、电商与小程序](http://www.chanpin100.com/article/109657)
  > 抖音，从一个小众的泛工具App，成长为如今覆盖政务、美食、人文、亲子、旅行等更多垂类内容的超级内容平台，并且目前还在通过小程序的触手，不断向外探索电商等新边界。
  ## [现在，我为什么不建议你转行产品经理](http://www.chanpin100.com/article/109655)
