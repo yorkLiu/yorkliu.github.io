@@ -1,7 +1,7 @@
 ---
 title: 2019-09-30 IT News
 copyright: true
-date: 2019-09-30 10:00:59
+date: 2019-09-30 12:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,17 +35,27 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [携手SiFive，格兰仕进军半导体领域!两款自研芯片曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=8CVSODnibJgroQrIqVxt*mrEXUYkahxWO38UOiHVzkshFYDCGVckW8oinki*7NY-Maxksr1x3BcDPOIhL0qO8VhfGX0CRZ8eU4a*Dnx5Yt5GHGqnGXQKzfq11L5q-CIi&new=1)
- > 继去年中兴事件之后，引发了众多下游终端制造企业纷纷宣布进军半导体领域。这其中就包括了格力电器、康佳集团、美的等多家家电企业。而近日，又有一家家电企业“跨界”杀入半导体领域，准备“造芯”。9月28日下...
- ## [两张图看懂 软件定义无线电应对多频段军事通信挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=yVPk-Ni88zhliPj-AJBH8cOPthI4Lug5YNIH19*ZqdH7k3k9hpky8HTBL-6rKVCkcEvtATAPKwrUr1gJ*iTzxnWFQPtO9eDhwKKK-u8rbuVRHQRvSIzT9dwWjvOSlY8d&new=1)
- > 能够跨越多个安全数据链路获取准确的实时信息是任何军事行动取得成功的基石。由于指挥和控制中心现在需要通过语音和数据直接与战地士兵进行通信，因此更加需要具备这种能力。但是，只有具备与高级无线技术一样出...
- ## [\[科技早报7点整\]微软回应中国高管传奇经历 特朗普政府正考虑惩罚使用华为5G设备的同盟国……](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=bpuHkn3TZHJOpz1haTBwR1KK2yQ4B4v8KgW51QFYOP*IDm3nBsKwVfigi8MBfiFRKGVNxaPR3ILgrJZrynUyR1EP2fGB5aJBuixvxqBstYbg-dBpEe1a2An6cjd2TqNO&new=1)
+ ## [干货满满!50篇西安3D打印大会专题报道(一)](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=t3Ls7yDf4VYWaZnvQKWOI6dPKCiblvef*ApMXaaS7Xxa3-dNLHEHa8-g6nQMVhFqfirCckK0zNF6OpyyapIxBWTR1ECFGs0Rh0TV8w7Er58n7WXS9XG6FW*m6lkFRDxL&new=1)
+ > 关注南极熊3D打印为积极响应一带一路国际化协作发展的倡导，挖掘产业创新合作机遇及本土科创产业价值，助力国际化大都市建设与发展。由西安交通大学、国家增材制造创新中心、陕西省科学技术协会等单位联合举办的...
+ ## [70周年国庆将至，VR/AR助力红色文化深入人心](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=dOH6aUraaICGYdrrrH5IoSmOUG50HRfe1RnpvzAsg0ZIQrcHwneeHS-DD1yRESIXKpoDmkTV*SLktoalBzXbxKqQpEMgMkl65ZCWkrqbXn0klgUmYODAVuUi0I33Hhb4&new=1)
+ > 不忘初心，牢记使命！正文共 1953 字 8 图；预计阅读时间 6 分钟 明天便是国庆节，也是新中国成立70周年。回顾往昔，我们如今的美好生活离不开革命先辈们的艰苦奋斗，这段红色文化将伴随着我们一直走下去。如何...
+ ## [罗永浩与锤子手机撇清关系；微软回应「高管传奇」经历；Rust 1.38 稳定版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=d5*6jkas3LGS-DM3kayxCHA8040mPmmyMRBDNr4yvJJ5UqO8kR0yedIiFnX8CGZMmoQS8FHU0Hl3YTsfG*Q01tXLxdsibeXNqYj9x2lNpWQPATA6wJy7Nlf16D4Qj-FN&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [SIM卡新漏洞WIB将使全球10亿用户遭到攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=cR9O28UVYHqD0rRakqiC9mvJ*yiMh*GDeAmfqJOSpKFTmuLgRDSVeZ*DyfNZjaW*Z0Z2yBgxKZate12tPFzynJgJlkdWJddgY9e6EdRGD8XYEnnVUsiG9yg0J82AG3Ee&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com小编来报：近日，新发现的类似Simjacker的SIM卡漏洞WIB可能会让数百万部手机，甚至10亿用户遭受远程黑客袭击。据外媒报道，新发现的类似Simjacker的SIM卡漏洞W
+ ## [科技创新70年丨中国科技创新70年地理志](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=dREJsJSK3eDbp-sn0cldg0bdMXgXydy0VRc6soWqLCo9JXuimjC0xo6A5g3YtcwOgFoaKxEcLv3OEe6IPft2ql3HvqKi29DnCj6ztGIjL*gkSg4K2PYQzmbYc5Ak*Mv9&new=1)
+ > PingWest品玩，为你绘制一幅中国硬科技创新七十年时空画卷：科技创新70年系列专题文章回顾：
+ ## [\[科技早报7点整\]微软回应中国高管传奇经历 特朗普政府正考虑惩罚使用华为5G设备的同盟国……](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=bpuHkn3TZHJOpz1haTBwR1KK2yQ4B4v8KgW51QFYOP-C*KjOq7dUXjEsMmcE-1TybOPCpSDSYXOUqAzmWj9PrrA4wzEatPnpKSPHaw*JhII03BiMrNxVdlgxjMFwnAgh&new=1)
  > 早上好，科技圈【一度蜜科技早报】第605期1.华为证实：已生产不含美国部件5G基站华为创始人任正非近日在一个商务论坛上表示，脱离美国零部件的华为，还是可以生存的，并已在生产不包含美国部件的5G基站，明年将...
- ## [A股：铂力特单日大涨17%，3D打印风口又起?](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=pheukEGUPJQXHgW0l62E7zBagPtVK9WjHZ4yciPUKAjoEd2qVGDDZEZ4cmfiJOac0VTN-Vjl6lgXfCkcWK9cicYtOrtiEHEa1Agt8Z9L3Yz49ZTFtJCuyVyic629XZF9&new=1)
+ ## [两张图看懂 软件定义无线电应对多频段军事通信挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=yVPk-Ni88zhliPj-AJBH8cOPthI4Lug5YNIH19*ZqdGvmCQv61HZCwXxsuxf49SnBTjdFDVN61p98eFwS8xA0AGRHvZE4zNE72d84furDcT*RNCr3*ABx5-8ktTvE8YR&new=1)
+ > 能够跨越多个安全数据链路获取准确的实时信息是任何军事行动取得成功的基石。由于指挥和控制中心现在需要通过语音和数据直接与战地士兵进行通信，因此更加需要具备这种能力。但是，只有具备与高级无线技术一样出...
+ ## [携手SiFive，格兰仕进军半导体领域!两款自研芯片曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=8CVSODnibJgroQrIqVxt*mrEXUYkahxWO38UOiHVzkvwh6OdckGKSIQFeE0RHqjhTxpw1zbLCl8E7ep96uYqyNKrJQRMfRen1r*IRWnip5pverA-0siZU3kf4Rdq9QIG&new=1)
+ > 继去年中兴事件之后，引发了众多下游终端制造企业纷纷宣布进军半导体领域。这其中就包括了格力电器、康佳集团、美的等多家家电企业。而近日，又有一家家电企业“跨界”杀入半导体领域，准备“造芯”。9月28日下...
+ ## [A股：铂力特单日大涨17%，3D打印风口又起?](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=pheukEGUPJQXHgW0l62E7zBagPtVK9WjHZ4yciPUKAj6IfW-yIXZwWlk8OjCcfAfKnEJejxsRPbMkO9bSb4NaWu2VI3jdc-KztE0RoJMQEmUkCdUKAf3TxLQHCsAzoiw&new=1)
  > 9月27日，受首家预约三季报披露日期消息影响，A股科创板3D打印概念股铂力特逆势大涨17%，成为A股涨幅榜榜首，力压群雄，惊爆眼球。铂力特与西部超导是科创板首批上市，唯二与先进材料相关的企业。3D打印许多人把...
- ## [\[报告\]2018年氢能及燃料电池产业白皮书(附45页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=Rruc*lKMWX2YZEKBvK7on-9lEkSVgKVJ3myhjn9cdLpntmq90BJkc-3rDpyIWpChZUqsA8yjqjYvJSQMIZ2J1G7O4hZ91CpvRb3J1MGk6hgK1ZCJaAq3C7CWVobiqSd9&new=1)
+ ## [\[报告\]2018年氢能及燃料电池产业白皮书(附45页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=Rruc*lKMWX2YZEKBvK7on-9lEkSVgKVJ3myhjn9cdLrVL*FFBflCqlP6aX*M3vbCJaLFu1GRCfJN1gqpnwHlisuSCPCiinI9jRZX5FZP2i5pCPXGq*-3os3LsR7iKcnV&new=1)
  > 燃料电池是一种利用化学能提供电能的一种能量转换装置，即在电催化剂的作用下，将可再生燃料（比如氢、有机小分子等）里的化学能转变成电能。 和蓄电池不同，燃料电 池内部并不贮存反应所需要的化学燃料，它只是...
- ## [专访|“创客”茹晨和他的“铁甲雄心”](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=WYEdrIrChJoTEddBzMyuXn2hV8wRP*b2gzXD6IU48-w31jOUP1SCRUP7GqZlh8ojYB3i*2Nv-rqDCC3qXVLsYg*-1HRVQxf9OdG5mBqQQW6lGNvpQWsAiU0D8qqyDV4L&new=1)
+ ## [专访|“创客”茹晨和他的“铁甲雄心”](http://mp.weixin.qq.com/s?src=11&timestamp=1569816004&ver=1883&signature=WYEdrIrChJoTEddBzMyuXn2hV8wRP*b2gzXD6IU48-wocuggTvku0wq5A2rB8a5MqLAje7zRqt*cwouL-8T99nE07Ukw5EgCKLAHItEFJgiGk4SXXYLkfgk-PZ2I*kZQ&new=1)
  > 从“以综带赛”到“以赛带学”，创客星球的思路是综艺与赛事并驾齐驱，最终形成“综艺+赛事+教育+产品”的机器人格斗产业闭环。作者：江勇在电影《变形金刚5:最后的骑士》接近尾声时，黑化的擎天柱与大黄蜂在外...
 # IT 技术 
  ## [成为优秀码农的十二项自我修养](http://news.51cto.com/art/201909/603725.htm)
@@ -64,26 +74,26 @@ categories: IT NEWS
  > 超多对比案例！用户界面设计的10个小技巧
  ## [想吃透监控系统，就这一篇够不够?](http://netsecurity.51cto.com/art/201909/603723.htm)
  > 想吃透监控系统，就这一篇够不够?
- ## [2019年区块链业务技术成熟度曲线](http://blockchain.51cto.com/art/201909/603782.htm)
- > 2019年区块链业务技术成熟度曲线（Hype Cycle for Blockchain Business）表明，区块链将在未来五至十年内极
+ ## [听话 VS 能力强！CIO招人更看重哪一个](http://www.cioage.com/art/201909/603794.htm)
+ > 一位IT负责人想要招聘一名信息化项目经理，需要带点开发经验。他应该招听话，还是能力强的？
+ ## [Windows10竟然内置了一台虚拟机？教你如何玩转它](http://news.51cto.com/art/201909/603791.htm)
+ > 在我们的Win10内部，其实也内置有一台虚拟机，不仅免费对于电脑硬件的要求也比VMWare低很多！
+ ## [在 Spring Boot 中，如何干掉 if else！](http://developer.51cto.com/art/201909/603790.htm)
+ > 这里虚拟一个业务需求，让大家容易理解。假设有一个订单系统，里面的一个功能是根据订单的不同类型作出不同
+ ## [教你如何开始使用Markdown](http://os.51cto.com/art/201909/603789.htm)
+ > Markdown 是一种轻量级标记语言，具有纯文本格式语法。一次编辑便可将文本转换为多种格式。下面是如何开始
+ ## [如何避免新代码变包袱？阿里通用方法来了！](http://zhuanlan.51cto.com/art/201909/603788.htm)
+ > 什么是设计?什么是架构?从零开始建立一个新的系统，新写的每行代码都可能成为明天的历史包袱?如何能有效的
+ ## [历时8年 百度PC浏览器正式宣布停止服务](http://news.51cto.com/art/201909/603792.htm)
+ > 百度浏览器于在其官网发布“百度PC浏览器停止服务公告”，正式宣布其有着8年历史的百度PC浏览器即刻终结。
+ ## [CI做到90%的行覆盖率，真能发现BUG吗？](http://developer.51cto.com/art/201909/603787.htm)
+ > 这么多的CASE，花了大量时间和资源去运行，真能发现BUG吗?CI做到90%的行覆盖率，能发现问题吗?测试用例越
+ ## [使用机器学习进行数据映射](http://ai.51cto.com/art/201909/603783.htm)
+ > 从小型企业到大型企业，几乎每家公司都在争取机会来吸引客户的注意。20年前进行的常规营销活动已不再适用。
+ ## [OSI七层和TCP五层协议，为什么胜出的是TCP/IP协议](http://network.51cto.com/art/201909/603785.htm)
+ > OSI 是英文 Open System Interconnection 的简写，翻译成中文叫做 (开放系统互连参考模型)，他是一个国际标
  ## [2019年九月产业大事记](http://network.51cto.com/art/201909/603781.htm)
  > 2019年9月份IT领域又发生了哪些大事件?51CTO按照不同的IT产品领域，将9月大事整理归纳如下，供您参考。
- ## [Linux TCP/IP协议栈，数据发送接收流程，TCP协议特点](http://network.51cto.com/art/201909/603780.htm)
- > 可以毫不夸张的说现如今的互联网是基于TCP/IP构建起来的网络。弄懂协议栈的原理，无论对调试网络IO性能还
- ## [教程|教你如何给你的头像添加一个好看的国旗](http://developer.51cto.com/art/201909/603779.htm)
- > 近日朋友圈又火了，听说原因是 @腾讯官网 就能得到一个好看的国庆节头像，那么我们自己动手实现一个吧，教
- ## [Redis读写分离难以理解？一文解析Redis读写分离技术](http://stor.51cto.com/art/201909/603777.htm)
- > 云数据库Redis版不管主从版还是集群规格，replica作为备库不对外提供服务，只有在发生HA的时候，replica提
- ## [赢在Cloud，只是暂时；输掉AIoT，将是永远](http://news.51cto.com/art/201909/603778.htm)
- > 认真写软件的人，不仅自己做硬件，而且还在自己做最硬核的芯片。由于成本、空间和功耗的限制，定制化芯片时
- ## [微软回应Windows 10问题多：靠AI和机器学习是必然](http://news.51cto.com/art/201909/603776.htm)
- > 对于微软来说，Windows 10系统Bug越来越多，有前员工爆料称，是因为微软将这些更新的测试工作都交给了人工
- ## [用Python入门数据科学](http://developer.51cto.com/art/201909/603775.htm)
- > 使用 Python 开展数据科学为你提供了无限的潜力，使你能够以有意义和启发性的方式解析、解释和组织数据。
- ## [Linux系统这11个发行版，你认识多少个？](http://os.51cto.com/art/201909/603774.htm)
- > 也许很多人会认为Linux不就是个操作系统么。其实严格来讲，Linux只是一个操作系统中的内核。内核是什么?内
- ## [Apache Spark Delta Lake写数据使用及实现原理代码解析](http://bigdata.51cto.com/art/201909/603772.htm)
- > Delta Lake 写数据是其最基本的功能，而且其使用和现有的 Spark 写 Parquet 文件基本一致，在介绍 Delta La
  ## [深入理解C语言指针](https://blog.csdn.net/ZackSock/article/details/101594794)
  > 
  ## [任正非：华为有意出售 5G 技术！](https://blog.csdn.net/csdnnews/article/details/100815484)
@@ -121,55 +131,69 @@ categories: IT NEWS
  ## [张小龙的区区一件衣服竟然能引起这么大骚动](https://blog.csdn.net/csdnnews/article/details/101731447)
  > 责编|兔子我们都知道，一月份的一场2019微信公开课上，张小龙穿的那件浅灰色连帽卫衣，在编程穿搭届引起了sao动，原来程序员穿卫衣可以这样迷人！「大牌都在年轻化，程序...
 # 人工智能 
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
- ## [2019CCPC秦皇岛记](https://blog.csdn.net/lalalafloat/article/details/101536497)
- > 2019CCPC秦皇岛记
- ## [世界上最好的学习法：费曼学习法](https://blog.csdn.net/wo541075754/article/details/101554326)
+ ## [还记得诺基亚手机上贪吃蛇小游戏吗？](https://blog.csdn.net/qq_43629857/article/details/97313473)
  > 
- ## [总有一天变成你大爷](https://blog.csdn.net/rocshaw/article/details/101383684)
- > 总有一天变成你大爷
- ## [记一次阿里巴巴面试被虐和一些电面问题](https://blog.csdn.net/JW614718/article/details/101215564)
- > 记一次阿里巴巴面试被虐和一些电面问题
- ## [一位正在努力的小白的自我介绍](https://blog.csdn.net/qq_44329476/article/details/101550035)
- > 一位正在努力的小白的自我介绍
- ## [2019北大软微预推免面试经历](https://blog.csdn.net/qq_39352598/article/details/101591497)
- > 2019北大软微预推免面试经历
- ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
- > 100% 成功率的 offer 收割机是怎样练成的？
- ## [github label有什么用？](https://blog.csdn.net/weixin_45672630/article/details/101607277)
- > github label有什么用？
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [记录一段难忘的秋招时光](https://blog.csdn.net/y201619819/article/details/101433456)
- > 记录一段难忘的秋招时光
- ## [国庆之际，我有些话想说](https://blog.csdn.net/zimingzim/article/details/101561242)
- > 国庆之际，我有些话想说
- ## [【IT资讯】年薪170万码农征友，条件让网友炸锅……](https://blog.csdn.net/dengjin20104042056/article/details/101601070)
+ ## [“00后”消费数据分析，一文教你撩动“00后”购物欲](https://blog.csdn.net/yuanziok/article/details/101350916)
  > 
- ## [Kindle电子书资源](https://blog.csdn.net/ffscript/article/details/101510828)
- > Kindle电子书资源
- ## [初次的相遇](https://blog.csdn.net/weixin_45667236/article/details/101456434)
- > 初次的相遇
+ ## [Unity游戏开发工程师简历筛选用题目](https://blog.csdn.net/u013826918/article/details/101624168)
+ > Unity游戏开发工程师简历筛选用题目
+ ## [一分钟玩转拼世界ARworld游戏攻略！戳我拼世界](https://blog.csdn.net/btc916/article/details/101679930)
+ > 一分钟玩转拼世界ARworld游戏攻略！戳我拼世界
+ ## [如何用高效的方式实现游戏世界中的击中效果](https://blog.csdn.net/qq_39426265/article/details/101623201)
+ > 如何用高效的方式实现游戏世界中的击中效果
+ ## [2019CCPC秦皇岛赛区（重现赛）AEK 题解](https://blog.csdn.net/ccsu_cat/article/details/101641997)
+ > 2019CCPC秦皇岛赛区（重现赛）AEK 题解
+ ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
+ > C语言实现推箱子游戏
+ ## [虎牙数据分析-可视化-爬虫-GUI界面结合](https://blog.csdn.net/qq_42529429/article/details/101639258)
+ > 虎牙数据分析-可视化-爬虫-GUI界面结合
+ ## [开发简单的基于AWT的桌面弹球游戏](https://blog.csdn.net/weixin_43896318/article/details/101615824)
+ > 开发简单的基于AWT的桌面弹球游戏
+ ## [拼世界ARworld游戏怎么做？拼世界游戏模式揭秘!](https://blog.csdn.net/btc916/article/details/101605577)
+ > 拼世界ARworld游戏怎么做？拼世界游戏模式揭秘!
+ ## [2019  CCPC 秦皇岛 Escape  最大流](https://blog.csdn.net/qq_41603898/article/details/101619358)
+ > 2019  CCPC 秦皇岛 Escape  最大流
+ ## [找回你 C 盘丢失的空间（SpaceSniffer）](https://blog.csdn.net/WPwalter/article/details/101512814)
+ > 找回你 C 盘丢失的空间（SpaceSniffer）
+ ## [Wwise入门和实战](https://blog.csdn.net/s10141303/article/details/101594227)
+ > Wwise入门和实战
+ ## [HDU 6379 Invoker  （2019-CCPC-秦皇岛站）DP](https://blog.csdn.net/sdz20172133/article/details/101639267)
+ > HDU 6379 Invoker  （2019-CCPC-秦皇岛站）DP
+ ## [微信小程序丨基于Socket.io.js，实现聊天功能](https://blog.csdn.net/qq_15609303/article/details/101703015)
+ > 微信小程序丨基于Socket.io.js，实现聊天功能
 # PM 
+ ## [解读5G时代（2）：七次信息技术革命](http://www.woshipm.com/it/2933196.html)
+ > 本文以信息技术革命为主线，探析未来信息变革的趋势与方向。上一篇文章我们探讨了解读的意义，并且一起欣赏了5G时代的三个精彩片段。今天，让我们把目光聚焦到一个纵...
+ ## [短视频行业：狂欢盛宴，隐忧潜伏](http://www.woshipm.com/it/2921327.html)
+ > 短视频的火热使得各大公司纷纷入场，笔者从行业背景出发，梳理了短视频的发展，对其现状进行了分析与总结，并展望了未来。9月19日，人民日报宣布成立人民日报智慧研究...
+ ## [案例：贷款领域的用户数据标签化建设](http://www.woshipm.com/pd/2932508.html)
+ > 金融产品经理如何更好了解用户和管理用户，这就要涉及标签的运用。本文从标签层结构入手，运用案例讲解了如何搭建用户标签系统。一个优秀的连接器，首先要深度理解用...
+ ## [从小米5G与华为Mate30发布会，看设计趋势](http://www.woshipm.com/pd/2932522.html)
+ > 刚刚结束的小米5G发布会和华为Mate30发布会带给我很多震撼，不论是小米的环绕屏还是华为的曲面屏，都在暗示着交互设计上的一种趋势或者方向，结合自己的工作领域与方向...
+ ## [丁香园在成为“健康界网红”的路上，做对了什么？](http://www.woshipm.com/it/2925448.html)
+ > 当下互联网医疗依然是处于风口之上，但市场依然面临着诸多不确定性。医疗是一个事关用户健康的刚需性领域，但由于受资质和监管影响，也有着一定风险，也需要持续提升医...
+ ## [无产品岗位实习，我是如何从拿到腾讯offer？](http://www.woshipm.com/zhichang/2932506.html)
+ > 本文主要通过对腾讯面试的详细分析与总结来聊聊，应聘秋招产品经理岗位这场仗究竟应该如何漂亮地赢。一、个人背景介绍本硕985，硕士期间有联合培养项目，出国读个第...
+ ## [3D数据可视化设计：以城市数据可视化为例](http://www.woshipm.com/pd/2932356.html)
+ > 前三篇数据可视化文章，主要从设计理念与方法的层面介绍了数据可视化设计，这篇文章将以城市数据可视化为例，与大家分享3D城市数据可视化如何助力智慧城市建设。（PS：...
+ ## [职场上，设计师应有的技能](http://www.woshipm.com/zhichang/2931730.html)
+ > 最近团队来了很多有潜力的小萌新，想起以前自己一步步踩过的坑，真不想这些小朋友再踩一次。但同时自己有懒得一个个去说工作要怎么入手blablabla（而且说了别人也没法一...
+ ## [如何设计WMS多批次收货需求（下）：方法论实操](http://www.woshipm.com/pd/2927346.html)
+ > 上一篇《如何设计WMS多批次收货需求（上）：我的产品方法论》中讲到了一般情况下我设计一个产品需求的部分过程，主要是一些方法论和理论上的东西。而此篇则是下文，也是...
  ## [方案分享：2019飞猪3周年庆活动如何策划？](http://www.woshipm.com/operate/2924411.html)
  > 本文主要想把个人对于飞猪周年活动的玩法与思路跟大家分享，运营新人第一次写活动策划案，没有具体的数据作为依据，此策划案数据为自行设想的，有较多不合理的地方希望...
+ ## [天赋造职场核心竞争力？不，是习惯](http://www.woshipm.com/zhichang/2933097.html)
+ > 天赋是令人艳羡的特质，很多人将工作的杰出成就归因于天赋，认为天赋造就了这些杰出成绩。事实真的是这样吗？作者：赵晓璃来源：璃语职美人（crystal_words）写在...
  ## [了解这些东西，让你到新公司快速上手](http://www.woshipm.com/pmd/2932370.html)
  > 身为产品，到新公司接手一个已存在的产品时，应当如何熟悉业务、了解已有情况？笔者最近工作变动，到新公司上班，所属业务关联甚广。中间摸索了很长一段时间，当然也...
- ## [微信群死了吗？不，它只是转移了战场](http://www.woshipm.com/operate/2930596.html)
- > 如今很多的人都认为微信群已经死了，毕竟微信群引流成本越来越高，且活跃的时间越来越短。在这样的情况下，要怎么去盘活一个微信群呢？一、微信群之困今年很多在微信...
- ## [合理运用“损失厌恶”，让消费者买下产品](http://www.woshipm.com/marketing/2931291.html)
- > 网购的经历告诉我们，在产品价格质量相差不大的情况下，大多数时候会选择包邮产品。这背后蕴含着什么心理学效应呢？如何灵活运用使其改变消费者心理呢？先问大家一个...
- ## [做一个技术型运营，深扒《炉石传说》的活动运营策略](http://www.woshipm.com/operate/2929534.html)
- > 用技术，走在竞品的前面。01游说的关键是洞察先机，预测对手招数，然后设计对策，赢家永远比对手快一步，当对手一掀底牌，就亮出王牌。要确定能趁其不备，让对方无法...
- ## [AI融入旅游业，“复利效应”终于显现](http://www.woshipm.com/ai/2925704.html)
- > 旅游业畸形发展，门票成为盈利的主要来源，服务质量却一直跟不上。AI的介入，技术的帮助，旅游业能否实现“复利效应”？国庆将至，巨大的旅游市场正在“翘首以盼”，出行...
- ## [盒马鲜生的“最后一公里”生鲜竞赛](http://www.woshipm.com/newretail/2931945.html)
- > 盒马鲜生在生鲜领域打造了全新的商业模式，本文从五个方面分析其商业策略。“日啖荔枝三百颗，若有盒马吃更多。”杨贵妃若活到现在，或许会这样感慨。万亿级别的中国生...
- ## [【天天问每周精选】第90期：微信读书为什么要设计替身书架？](http://www.woshipm.com/it/2924365.html)
- > 微信读书隐私菜单中有一个“替身书架”功能，可以自行设置想对外展现的书籍，开启后其他用户只能看到“你想给别人看到的正在阅读书籍”。意欲何为呢？不想展示直接隐藏不好...
- ## [2019北京运营增长大会 | 16位嘉宾与你一起探讨下沉市场、私域流量、KOC等热点话题！](http://www.woshipm.com/active/2925933.html)
- > 当我们盘点这些年互联网的发展轨迹，会发现运营增长的趋势一直在变化：2015年共享经济大行其道，我们讲共享经济，原生广告，H5；2016年消费升级，我们讲内容IP、网...
+ ## [【获奖名单】上传内容有奖活动结束啦~快来看你获奖没？](http://www.chanpin100.com/article/109683)
+ > 获奖名单新鲜出炉，快来看看你是否榜上有名吧~
+ ## [复盘：从0到1设计用户触达系统](http://www.chanpin100.com/article/109679)
+ > 结合自身设计经验与对业界不同产品方向的十几款产品的观察分析，为你总结该如何 从 0 到 1 设计用户触达系统
+ ## [手办类APP竞品分析报告](http://www.chanpin100.com/article/109678)
+ > 简单分析了已有手办类APP的功能优缺点。
+ ## [另一种产品思维--雷军的小米MIXAlpha](http://www.chanpin100.com/article/109680)
+ > 不一定所有的产品都是开拓市场的，还有为了构建自己市场防御防御型产品和进攻型产品，站的更高，可能会看的更远。
  ## [产品经理关于接口那些事儿](http://www.chanpin100.com/article/109677)
  > 产品经理遇到接口的问题如何去处理？点这里！点这里！点这里！
  ## [以人资系统为例，聊聊2B产品提高效率3大原则](http://www.chanpin100.com/article/109659)
@@ -202,13 +226,5 @@ categories: IT NEWS
  > 当下互联网经济发展迅速，很多同学都想转型到互联网行业，享受新兴经济带来的红利。互联网产品经理可以接触到互联网行业不同岗位的人，如老板、研发、测试、运营等，同时产品经理进入壁垒相对较小，所以很多转型的人会选择产品经理这一岗位。本人结合自身及周边人的经历，总结了一些转型互联网产品经理的心得体会。
  ## [券商的突破之路：如何从“草根”变身金融科技创新“大V”？](http://www.chanpin100.com/article/109661)
  > 全球经济形势复杂多变，资本市场面临深刻变局。金融科技浪潮席卷而来，券商经纪业务从线下到线上转移后，线上化服务则变成了一个没有硝烟的战场。券商同质化问题日益严重，追求科技产品个性化发展，不断谋求创新升级并降低经营成本的任务已迫在眉睫。
- ## [助理产品经理、产品经理、资深产品经理有什么区别？](http://www.chanpin100.com/article/109672)
- > 产品经理的分类有各种角度分法：初级、中级、高级；助理、产品经理、资深产品经理。但相对而言，都是根据经验来分类的。以下主要根据招聘列举的名字来做分析：助理产品经理、产品经理、资深产品经理
- ## [2019上半年中国电子制造业数字化发展进程专题分析](http://www.chanpin100.com/article/109665)
- > 全球正在向数字经济转型过渡，中国电子制造业在“中国制造2025”和“制造强国战略”的引领下，沿着数字化、智能化不断升级。本文从政策、技术、经济等驱动要素分析电子制造业发展，围绕管理规划、生产制造、市场运营、用户服务等方面建立电子制造业数字化诊断模型和评估体系，并对典型制造厂商分析，最后对电子制造业在
- ## [品牌年轻化：故宫们做对了什么，屈臣氏们错过了什么](http://www.chanpin100.com/article/109669)
- > 找对方法，品牌才能“年轻化”
- ## [AI+教育笔记系列（3）_认知篇_智能导学系统（ITS）](http://www.chanpin100.com/article/109658)
- > 本篇分享的主要观点，来自智能导学系统专家胡祥恩教授的专访；胡祥恩简介：美国孟菲斯大学心理学系，电子计算机工程系，计算机科学系统教授兼任华中师范大学心理学院院长，研究领域包括：数学心理学，实验设计与统计，心理学，人工智能和智能导学系统
 
     
