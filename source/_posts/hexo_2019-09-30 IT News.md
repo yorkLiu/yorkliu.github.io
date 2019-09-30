@@ -1,88 +1,119 @@
 ---
 title: 2019-09-30 IT News
 copyright: true
-date: 2019-09-30 09:01:02
+date: 2019-09-30 10:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>2019年9月30日 星期一 【起点学院早报】</b></summary><div class="news-list-content"><p>1. &#25340;&#22810;&#22810;&#23459;&#24067;&#23436;&#25104;&#24635;&#35745;10&#20159;&#32654;&#20803;&#30340;&#21487;&#36716;&#20538;&#21457;&#34892;&#65292;&#21457;&#20538;&#21551;&#21160;&#8220;&#32511;&#38795;&#26426;&#21046;&#8221;</p>
+<p>2. &#33150;&#35759;&#24494;&#20449;&#25903;&#20184;&#20998;&#27491;&#24335;&#25509;&#20837;&#25171;&#36710;&#24179;&#21488;&#65292;&#20998;&#25968;&#36798;&#26631;&#29992;&#25143;&#20139;&#21463;&#20808;&#25171;&#36710;&#21518;&#20184;&#27454;</p>
+<p>3. &#23383;&#33410;&#36339;&#21160;&#22238;&#24212;&#8220;&#28789;&#39545;&#8221;&#23545;&#22806;&#24320;&#25918;&#65306;&#28789;&#39545;&#26159;&#26234;&#33021;&#25512;&#33616;&#31639;&#27861;&#31995;&#32479;&#22312;&#34892;&#19994;&#30340;&#33853;&#22320;&#39033;&#30446;&#65292;&#22788;&#20110;&#21021;&#26399;&#25506;&#32034;&#38454;&#27573;</p>
+<p>4. &#19968;&#21152;&#23558;&#20110;&#20170;&#24180;&#24180;&#24213;&#24320;&#22987;&#22312;&#21360;&#24230;&#21046;&#36896;OnePlus TV&#30005;&#35270;</p>
+<p>5. &#39640;&#24503;&#22320;&#22270;&#19978;&#32447;&#8220;&#25874;&#31080;&#24320;&#22870;&#8221;&#21450;&#25171;&#36710;&#21333;&#21333;&#36820;&#29616;&#31561;&#27963;&#21160;</p>
+<p>6. &#28023;&#21335;&#39318;&#23478;&#20114;&#32852;&#32593;&#27861;&#24237;&#33853;&#25143;&#19977;&#20122;&#65292;&#24443;&#24213;&#25171;&#30772;&#22320;&#22495;&#26102;&#31354;&#38480;&#21046;</p>
+<p>7. &#24037;&#19994;&#21644;&#20449;&#24687;&#21270;&#37096;&#20844;&#24067;2019&#24180;&#22269;&#23478;&#25216;&#26415;&#21019;&#26032;&#31034;&#33539;&#20225;&#19994;&#21517;&#21333;&#65292;&#23567;&#31859;&#12289;&#22823;&#30086;&#22312;&#21015;</p>
+<p>8. &#22278;&#36890;&#12289;&#20013;&#36890;&#12289;&#30003;&#36890;&#21457;&#24067;&#20844;&#21578;&#65292;&#21271;&#20140;&#22478;&#21306;&#37096;&#20998;&#32593;&#28857;&#26242;&#20572;&#25597;&#27966;&#26381;&#21153;</p>
+<p>9. &#35774;&#35745;&#24072;&#21697;&#29260;&#38598;&#21512;&#24179;&#21488;&#12300;Nound Nound&#12301;&#33719;&#24471;&#36817;&#21315;&#19975;&#20803;&#22825;&#20351;&#36718;&#34701;&#36164;&#65292;&#25237;&#36164;&#26041;&#20026;&#30334;&#32852;&#26102;&#23578;&#20135;&#19994;&#22522;&#37329;</p>
+<p>10. &#20013;&#32769;&#24180;&#29992;&#25143;&#22478;&#24066;&#20241;&#38386;&#23089;&#20048;&#24179;&#21488;&#12300;&#23681;&#24742;&#29983;&#27963;&#12301;&#33719;&#24471;&#25968;&#30334;&#19975;&#20803;&#22825;&#20351;&#36718;&#34701;&#36164;&#65292;&#25237;&#36164;&#26041;&#20026;&#21516;&#31243;&#36164;&#26412;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】 2019年9月29日 星期日</b></summary><div class="news-list-content"><p>1.&#24037;&#20449;&#37096;&#65306;&#25903;&#25345;&#26500;&#24314;&#22522;&#20110;&#21830;&#29992;&#23494;&#30721;&#12289;&#25351;&#32441;&#35782;&#21035;&#12289;&#20154;&#33080;&#35782;&#21035;&#31561;&#25216;&#26415;&#30340;&#32593;&#32476;&#36523;&#20221;&#35748;&#35777;&#20307;&#31995;</p>
+<p>2.&#39640;&#24503;&#22320;&#22270;&#21457;&#24067;&#39318;&#27454;&#29289;&#32852;&#32593;&#36710;&#36733;&#23433;&#20840;&#30828;&#20214;&#8220;&#39640;&#24503;&#26234;&#33021;&#19977;&#35282;&#35686;&#21578;&#29260;&#8221;</p>
+<p>3.&#31354;&#23458;&#19982;&#38463;&#37324;&#20113;&#21512;&#20316;&#24314;&#35774;&#8220;&#26234;&#24935;&#22825;&#31354;&#8221;&#20013;&#22269;&#26412;&#22320;&#25968;&#25454;&#20013;&#24515;</p>
+<p>4.&#28145;&#22323;&#25512;&#20986;&#25151;&#20135;&#20013;&#20171;&#35802;&#20449;&#26597;&#35810;&#65292;&#21487;&#20102;&#35299;&#20013;&#20171;&#20154;&#21592;&#35802;&#20449;&#24230;</p>
+<p>5.&#21326;&#20026;&#39318;&#23478;&#20840;&#29699;&#30452;&#33829;&#26071;&#33328;&#24215;&#22312;&#28145;&#22323;&#19975;&#35937;&#22825;&#22320;&#24320;&#24149;&#65292;&#21487;&#29616;&#22330;&#36141;&#20080;&#21326;&#20026;Mate30&#31995;&#21015;</p>
+<p>6.&#30334;&#24230;&#21551;&#21160;&#22823;&#35268;&#27169;&#29305;&#27530;&#32929;&#31080;&#28608;&#21169;&#25919;&#31574;&#65292;&#20195;&#21495;&#20026;&#8220;&#24535;&#38738;&#20113;&#8221;</p>
+<p>7.&#20140;&#19996;&#35745;&#21010;&#19982;2&#19975;&#23478;&#38646;&#21806;&#24215;&#21512;&#20316;&#65292;&#37197;&#36865;&#26102;&#38388;&#21487;&#32553;&#33267;30&#20998;&#38047;</p>
+<p>8.&#28120;&#23453;&#21457;&#24067;&#23478;&#23621;&#24179;&#21488;&#8220;&#36538;&#24179;&#8221;&#65306;&#19977;&#24180;&#20869;&#23558;&#26381;&#21153;&#19968;&#20159;&#23478;&#23621;&#28040;&#36153;&#32773;</p>
+<p>9.&#20154;&#24037;&#26234;&#33021;&#26680;&#24515;&#25216;&#26415;&#21021;&#21019;&#20225;&#19994;&#12300;&#32771;&#25289;&#24736;&#28982;&#12301;&#23436;&#25104;3000&#19975;&#20803;Pre-A&#36718;&#34701;&#36164;</p>
+<p>10.&#38646;&#39135;&#21697;&#29260;&#12300;a1&#38646;&#39135;&#30740;&#31350;&#25152;&#12301;&#23436;&#25104;1&#20159;&#20803;B&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [A股：铂力特单日大涨17%，3D打印风口又起?](http://mp.weixin.qq.com/s?src=11&timestamp=1569805204&ver=1883&signature=pheukEGUPJQXHgW0l62E7zBagPtVK9WjHZ4yciPUKAjoEd2qVGDDZEZ4cmfiJOac1awsgEpdEXxBMM*pvaXesXOduu8NBTz4ZDxn8c78wVKoOCC20VNNbbvrUX9vSHLr&new=1)
- > 9月27日，受首家预约三季报披露日期消息影响，A股科创板3D打印概念股铂力特逆势大涨17%，成为A股涨幅榜榜首，力压群雄，惊爆眼球。铂力特与西部超导是科创板首批上市，唯二与先进材料相关的企业。3D打印许多人把...
- ## [两张图看懂 软件定义无线电应对多频段军事通信挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1569805204&ver=1883&signature=yVPk-Ni88zhliPj-AJBH8cOPthI4Lug5YNIH19*ZqdH7k3k9hpky8HTBL-6rKVCkEvSfUH1KaBH*kRCswA24vBh0hzE0J70rkiH79yGndGtGXVrOCZsVBDoGKmaGJZLr&new=1)
- > 能够跨越多个安全数据链路获取准确的实时信息是任何军事行动取得成功的基石。由于指挥和控制中心现在需要通过语音和数据直接与战地士兵进行通信，因此更加需要具备这种能力。但是，只有具备与高级无线技术一样出...
- ## [携手SiFive，格兰仕进军半导体领域!两款自研芯片曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1569805204&ver=1883&signature=8CVSODnibJgroQrIqVxt*mrEXUYkahxWO38UOiHVzkshFYDCGVckW8oinki*7NY-cYjM8KK50CFz*iZ7og4fvNt1cku8Aei5MLYA4tUEmVLxwxz61BI0cCCl5gvQwbFJ&new=1)
+ ## [携手SiFive，格兰仕进军半导体领域!两款自研芯片曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=8CVSODnibJgroQrIqVxt*mrEXUYkahxWO38UOiHVzkshFYDCGVckW8oinki*7NY-Maxksr1x3BcDPOIhL0qO8VhfGX0CRZ8eU4a*Dnx5Yt5GHGqnGXQKzfq11L5q-CIi&new=1)
  > 继去年中兴事件之后，引发了众多下游终端制造企业纷纷宣布进军半导体领域。这其中就包括了格力电器、康佳集团、美的等多家家电企业。而近日，又有一家家电企业“跨界”杀入半导体领域，准备“造芯”。9月28日下...
- ## [\[报告\]2018年氢能及燃料电池产业白皮书(附45页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569805204&ver=1883&signature=Rruc*lKMWX2YZEKBvK7on-9lEkSVgKVJ3myhjn9cdLpntmq90BJkc-3rDpyIWpChpseT-l2sOC2ntni4mm4BYTF3uFy7mbGRgmq5ENY9y1YCg-yjWRZ6k-II0lz8SQh4&new=1)
+ ## [两张图看懂 软件定义无线电应对多频段军事通信挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=yVPk-Ni88zhliPj-AJBH8cOPthI4Lug5YNIH19*ZqdH7k3k9hpky8HTBL-6rKVCkcEvtATAPKwrUr1gJ*iTzxnWFQPtO9eDhwKKK-u8rbuVRHQRvSIzT9dwWjvOSlY8d&new=1)
+ > 能够跨越多个安全数据链路获取准确的实时信息是任何军事行动取得成功的基石。由于指挥和控制中心现在需要通过语音和数据直接与战地士兵进行通信，因此更加需要具备这种能力。但是，只有具备与高级无线技术一样出...
+ ## [\[科技早报7点整\]微软回应中国高管传奇经历 特朗普政府正考虑惩罚使用华为5G设备的同盟国……](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=bpuHkn3TZHJOpz1haTBwR1KK2yQ4B4v8KgW51QFYOP*IDm3nBsKwVfigi8MBfiFRKGVNxaPR3ILgrJZrynUyR1EP2fGB5aJBuixvxqBstYbg-dBpEe1a2An6cjd2TqNO&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第605期1.华为证实：已生产不含美国部件5G基站华为创始人任正非近日在一个商务论坛上表示，脱离美国零部件的华为，还是可以生存的，并已在生产不包含美国部件的5G基站，明年将...
+ ## [A股：铂力特单日大涨17%，3D打印风口又起?](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=pheukEGUPJQXHgW0l62E7zBagPtVK9WjHZ4yciPUKAjoEd2qVGDDZEZ4cmfiJOac0VTN-Vjl6lgXfCkcWK9cicYtOrtiEHEa1Agt8Z9L3Yz49ZTFtJCuyVyic629XZF9&new=1)
+ > 9月27日，受首家预约三季报披露日期消息影响，A股科创板3D打印概念股铂力特逆势大涨17%，成为A股涨幅榜榜首，力压群雄，惊爆眼球。铂力特与西部超导是科创板首批上市，唯二与先进材料相关的企业。3D打印许多人把...
+ ## [\[报告\]2018年氢能及燃料电池产业白皮书(附45页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=Rruc*lKMWX2YZEKBvK7on-9lEkSVgKVJ3myhjn9cdLpntmq90BJkc-3rDpyIWpChZUqsA8yjqjYvJSQMIZ2J1G7O4hZ91CpvRb3J1MGk6hgK1ZCJaAq3C7CWVobiqSd9&new=1)
  > 燃料电池是一种利用化学能提供电能的一种能量转换装置，即在电催化剂的作用下，将可再生燃料（比如氢、有机小分子等）里的化学能转变成电能。 和蓄电池不同，燃料电 池内部并不贮存反应所需要的化学燃料，它只是...
- ## [专访|“创客”茹晨和他的“铁甲雄心”](http://mp.weixin.qq.com/s?src=11&timestamp=1569805204&ver=1883&signature=WYEdrIrChJoTEddBzMyuXn2hV8wRP*b2gzXD6IU48-w31jOUP1SCRUP7GqZlh8ojcbbN-wijER2hxc9hLxgAOJyJpa0LWWEQOSiFdE6IPHldXwNosNze9MMJ-foRzk7W&new=1)
+ ## [专访|“创客”茹晨和他的“铁甲雄心”](http://mp.weixin.qq.com/s?src=11&timestamp=1569808805&ver=1883&signature=WYEdrIrChJoTEddBzMyuXn2hV8wRP*b2gzXD6IU48-w31jOUP1SCRUP7GqZlh8ojYB3i*2Nv-rqDCC3qXVLsYg*-1HRVQxf9OdG5mBqQQW6lGNvpQWsAiU0D8qqyDV4L&new=1)
  > 从“以综带赛”到“以赛带学”，创客星球的思路是综艺与赛事并驾齐驱，最终形成“综艺+赛事+教育+产品”的机器人格斗产业闭环。作者：江勇在电影《变形金刚5:最后的骑士》接近尾声时，黑化的擎天柱与大黄蜂在外...
 # IT 技术 
- ## [原生图数据库的15条规则](http://database.51cto.com/art/201909/603759.htm)
- > 原生图数据库的15条规则
- ## [Gartner 发布 2019 年区块链业务技术成熟度曲线](http://blockchain.51cto.com/art/201909/603770.htm)
- > Gartner 发布 2019 年区块链业务技术成熟度曲线
- ## [从 Nginx 核心架构设计，揭秘其为何能支持高并发？](http://server.51cto.com/sOS-603773.htm)
- > 从 Nginx 核心架构设计，揭秘其为何能支持高并发？
  ## [成为优秀码农的十二项自我修养](http://news.51cto.com/art/201909/603725.htm)
  > 成为优秀码农的十二项自我修养
- ## [想吃透监控系统，就这一篇够不够?](http://netsecurity.51cto.com/art/201909/603723.htm)
- > 想吃透监控系统，就这一篇够不够?
- ## [如何提升代码搜索效果？GitHub团队打造代码搜索领域的GLUE数据集](http://news.51cto.com/art/201909/603738.htm)
- > 如何提升代码搜索效果？GitHub团队打造代码搜索领域的GLUE数据集
+ ## [如何让你的Java代码性能"更高、更优雅、远离BUG"？](http://developer.51cto.com/art/201909/603755.htm)
+ > 如何让你的Java代码性能&quot;更高、更优雅、远离BUG&quot;？
  ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
  > 用Python偷偷告诉你国庆8亿人都去哪儿浪？
- ## [深度长文：技术管理者应该管些什么？](http://news.51cto.com/art/201909/603712.htm)
- > 深度长文：技术管理者应该管些什么？
+ ## [Gartner 发布 2019 年区块链业务技术成熟度曲线](http://blockchain.51cto.com/art/201909/603770.htm)
+ > Gartner 发布 2019 年区块链业务技术成熟度曲线
+ ## [原生图数据库的15条规则](http://database.51cto.com/art/201909/603759.htm)
+ > 原生图数据库的15条规则
+ ## [从 Nginx 核心架构设计，揭秘其为何能支持高并发？](http://server.51cto.com/sOS-603773.htm)
+ > 从 Nginx 核心架构设计，揭秘其为何能支持高并发？
+ ## [超多对比案例！用户界面设计的10个小技巧](http://mobile.51cto.com/design-603768.htm)
+ > 超多对比案例！用户界面设计的10个小技巧
+ ## [想吃透监控系统，就这一篇够不够?](http://netsecurity.51cto.com/art/201909/603723.htm)
+ > 想吃透监控系统，就这一篇够不够?
+ ## [2019年区块链业务技术成熟度曲线](http://blockchain.51cto.com/art/201909/603782.htm)
+ > 2019年区块链业务技术成熟度曲线（Hype Cycle for Blockchain Business）表明，区块链将在未来五至十年内极
+ ## [2019年九月产业大事记](http://network.51cto.com/art/201909/603781.htm)
+ > 2019年9月份IT领域又发生了哪些大事件?51CTO按照不同的IT产品领域，将9月大事整理归纳如下，供您参考。
+ ## [Linux TCP/IP协议栈，数据发送接收流程，TCP协议特点](http://network.51cto.com/art/201909/603780.htm)
+ > 可以毫不夸张的说现如今的互联网是基于TCP/IP构建起来的网络。弄懂协议栈的原理，无论对调试网络IO性能还
+ ## [教程|教你如何给你的头像添加一个好看的国旗](http://developer.51cto.com/art/201909/603779.htm)
+ > 近日朋友圈又火了，听说原因是 @腾讯官网 就能得到一个好看的国庆节头像，那么我们自己动手实现一个吧，教
+ ## [Redis读写分离难以理解？一文解析Redis读写分离技术](http://stor.51cto.com/art/201909/603777.htm)
+ > 云数据库Redis版不管主从版还是集群规格，replica作为备库不对外提供服务，只有在发生HA的时候，replica提
+ ## [赢在Cloud，只是暂时；输掉AIoT，将是永远](http://news.51cto.com/art/201909/603778.htm)
+ > 认真写软件的人，不仅自己做硬件，而且还在自己做最硬核的芯片。由于成本、空间和功耗的限制，定制化芯片时
+ ## [微软回应Windows 10问题多：靠AI和机器学习是必然](http://news.51cto.com/art/201909/603776.htm)
+ > 对于微软来说，Windows 10系统Bug越来越多，有前员工爆料称，是因为微软将这些更新的测试工作都交给了人工
+ ## [用Python入门数据科学](http://developer.51cto.com/art/201909/603775.htm)
+ > 使用 Python 开展数据科学为你提供了无限的潜力，使你能够以有意义和启发性的方式解析、解释和组织数据。
  ## [Linux系统这11个发行版，你认识多少个？](http://os.51cto.com/art/201909/603774.htm)
  > 也许很多人会认为Linux不就是个操作系统么。其实严格来讲，Linux只是一个操作系统中的内核。内核是什么?内
  ## [Apache Spark Delta Lake写数据使用及实现原理代码解析](http://bigdata.51cto.com/art/201909/603772.htm)
  > Delta Lake 写数据是其最基本的功能，而且其使用和现有的 Spark 写 Parquet 文件基本一致，在介绍 Delta La
- ## [大数据之什么是Hash表](http://bigdata.51cto.com/art/201909/603771.htm)
- > 大数据之什么是Hash表，Hash，一般翻译做“散列”，也有直接音译为“哈希”的，它是基于快速存取的角度设计
- ## [ITOps为什么要转向云端？](http://cloud.51cto.com/art/201909/603769.htm)
- > 从ITOps发展现状来看，传统的依靠收购而拼凑在一起的ITOM工具平台，已经没什么生存空间。因为随着技术复杂
- ## [超多对比案例！用户界面设计的10个小技巧](http://mobile.51cto.com/design-603768.htm)
- > 我们大多数人开始接触 UI 设计的时候，只是知道很少或者根本不懂任何设计理论。尽管万事开头难，我们还是需
- ## [IT人士向人工智能职业转型的8个技巧](http://ai.51cto.com/art/201909/603767.htm)
- > IT人士如何从IT岗位转换到人工智能技术岗位?专家表示还需要一些时间，IT人士需要尝试采用一些转型技巧，开
- ## [为什么公共部门的IT正在转向“主权”云](http://cloud.51cto.com/art/201909/603766.htm)
- > 在政府机构引入以云计算为中心的采购框架后，政府云旨在推动公共部门服务数字化的采用。随着招标申请开放到
- ## [什么是第二代云计算战略?](http://cloud.51cto.com/art/201909/603765.htm)
- > 如今，云计算的应用有着与托管数据中心基础设施类似的趋势。许多数据中心起初获得单一的基础设施供应商的服
- ## [可以将道德条款纳入开源许可证吗？](http://os.51cto.com/art/201909/603764.htm)
- > 顶尖技术律师事务所和开源法律专家 Gesmer Updegrove 的创始合伙人 Andrew 补充说，“从广义上讲，许可人可
- ## [华为、OPPO、一加、realme 完成统一推送服务开发](http://mobile.51cto.com/news-603763.htm)
- > 近日，统一推送联盟已收到华为技术有限公司、广东欧珀移动通信有限公司、深圳市万普拉斯科技有限公司、深圳
- ## [9月28日科技资讯|苹果曝史诗级漏洞；华为已生产不含美国部件 5G 基站；CentOS 8 发布](https://blog.csdn.net/weixin_39786569/article/details/101696314)
- > 9月28日科技资讯|苹果曝史诗级漏洞；华为已生产不含美国部件 5G 基站；CentOS 8 发布
  ## [深入理解C语言指针](https://blog.csdn.net/ZackSock/article/details/101594794)
+ > 
+ ## [任正非：华为有意出售 5G 技术！](https://blog.csdn.net/csdnnews/article/details/100815484)
+ > 
+ ## [JVM：图文详解Java虚拟机的内存结构](https://blog.csdn.net/carson_ho/article/details/101667672)
+ > 
+ ## [\[网络安全自学篇\] 十四.Python攻防之基础常识、正则表达式、Web编程和套接字通信（一）](https://blog.csdn.net/Eastmount/article/details/101645333)
+ > 
+ ## [一看就懂：阿里云 OSS](https://blog.csdn.net/sunnyzyq/article/details/101678657)
+ > 一看就懂：阿里云 OSS
+ ## [阿里披露 AI 完整布局，飞天 AI 平台首次亮相！](https://blog.csdn.net/csdnnews/article/details/101488577)
+ > 阿里披露 AI 完整布局，飞天 AI 平台首次亮相！
+ ## [七个开源的 Spring Boot 前后端分离项目，一定要收藏！](https://blog.csdn.net/u012702547/article/details/100973824)
+ > 
+ ## [《C++ Primer》学习笔记（二）：变量和基本类型](https://blog.csdn.net/TeFuirnever/article/details/100977081)
+ > 
+ ## [【面试必备】小伙伴栽在了JVM的内存分配策略。。。](https://blog.csdn.net/hyg0811/article/details/101444643)
+ > 【面试必备】小伙伴栽在了JVM的内存分配策略。。。
+ ## [“00后”消费数据分析，一文教你撩动“00后”购物欲](https://blog.csdn.net/yuanziok/article/details/101350916)
+ > 
+ ## [Docker 零基础从入门到使用](https://blog.csdn.net/sunnyzyq/article/details/101222410)
+ > 
+ ## [如何编写出高质量的 equals 和 hashcode 方法？](https://blog.csdn.net/z694644032/article/details/101512918)
  > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [一看就懂：阿里云 OSS](https://blog.csdn.net/sunnyzyq/article/details/101678657)
- > 一看就懂：阿里云 OSS
- ## [《算法图解》学习笔记（十）：K 最近邻算法（附代码）](https://blog.csdn.net/TeFuirnever/article/details/101064887)
- > 
- ## [GitHub 标星 1.2w+，超全 Python 常用代码合集，值得收藏！](https://blog.csdn.net/sinat_33224091/article/details/101487864)
- > GitHub 标星 1.2w+，超全 Python 常用代码合集，值得收藏！
- ## [如何找到属于自己高效学习方法？](https://blog.csdn.net/qq_36903042/article/details/101442437)
- > 如何找到属于自己高效学习方法？
- ## [Docker 零基础从入门到使用](https://blog.csdn.net/sunnyzyq/article/details/101222410)
- > 
- ## [写给期待年薪百万的 IT 同学](https://blog.csdn.net/kexuanxiu1163/article/details/101442214)
- > 写给期待年薪百万的 IT 同学
- ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
- > 100% 成功率的 offer 收割机是怎样练成的？
- ## [用Python分析2000款避孕套，得出这些有趣的结论](https://blog.csdn.net/u014044812/article/details/100977312)
- > 用Python分析2000款避孕套，得出这些有趣的结论
- ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
- > 
- ## [我们该如何高效的学习](https://blog.csdn.net/qq_23853743/article/details/90226411)
- > 我们该如何高效的学习
- ## [GitHub 标星 2.4w+，这个开源项目让算法动起来！](https://blog.csdn.net/sinat_33224091/article/details/100914989)
- > GitHub 标星 2.4w+，这个开源项目让算法动起来！
- ## [阿里张勇，成了](https://blog.csdn.net/david_lv/article/details/101442635)
- > 阿里张勇，成了
+ ## [各种锁汇总](https://blog.csdn.net/BaiHuaXiu123/article/details/101515863)
+ > 各种锁汇总
+ ## [一文读懂 Java 字符串相关知识点和常见面试题](https://blog.csdn.net/a724888/article/details/101444792)
+ > 一文读懂 Java 字符串相关知识点和常见面试题
  ## [互联网产品的前世今生](https://blog.csdn.net/csdnnews/article/details/101731505)
  > 作者 |徐霄鹏本文经授权转自产品遇上运营（ID：alden_xu）这两周我颇费心血写了这篇15000字的文章，为大家展开30年来中国互联网产品的前世今生。阅读可能需要一...
  ## [多线程编程是后台开发人员的基本功](https://blog.csdn.net/csdnnews/article/details/101731446)
@@ -90,37 +121,51 @@ categories: IT NEWS
  ## [张小龙的区区一件衣服竟然能引起这么大骚动](https://blog.csdn.net/csdnnews/article/details/101731447)
  > 责编|兔子我们都知道，一月份的一场2019微信公开课上，张小龙穿的那件浅灰色连帽卫衣，在编程穿搭届引起了sao动，原来程序员穿卫衣可以这样迷人！「大牌都在年轻化，程序...
 # 人工智能 
- ## [Oracle中SQL](https://blog.csdn.net/weixin_44743134/article/details/98493388)
- > Oracle中SQL
- ## [Centos7使用sqoop导mysql数据到hive，并kylin创建cube（流程及报错解决）](https://blog.csdn.net/qq_38929220/article/details/96425750)
- > Centos7使用sqoop导mysql数据到hive，并kylin创建cube（流程及报错解决）
- ## [用superset做可视化+sql语句的使用](https://blog.csdn.net/qq_38929220/article/details/97638471)
- > 用superset做可视化+sql语句的使用
- ## [MySQL索引统计信息](https://blog.csdn.net/woson_wang/article/details/89922775)
- > MySQL索引统计信息
- ## [hibernate多表](https://blog.csdn.net/qq_39263750/article/details/93727398)
- > hibernate多表
- ## [mybatis中的{}和${}区别](https://blog.csdn.net/zwd926/article/details/96481485)
- > mybatis中的{}和${}区别
- ## [centos7下docker下载、安装；更换地址镜像、操作镜像和容器，各种基础命令；docker普通用户的授权；操作容器；持续更新中。。。](https://blog.csdn.net/qq_40036754/article/details/83689130)
- > centos7下docker下载、安装；更换地址镜像、操作镜像和容器，各种基础命令；docker普通用户的授权；操作容器；持续更新中。。。
- ## [SQL为什么要优化(二)-----------如何发现有问题的SQL](https://blog.csdn.net/weixin_40403930/article/details/87525994)
- > SQL为什么要优化(二)-----------如何发现有问题的SQL
- ## [Tips: MySQL数据库使用mysqldump备份恢复时的注意事项](https://blog.csdn.net/woson_wang/article/details/91414930)
- > Tips: MySQL数据库使用mysqldump备份恢复时的注意事项
- ## [mysql 索引](https://blog.csdn.net/weixin_43530726/article/details/92424098)
- > mysql 索引
- ## [mysql 锁机制](https://blog.csdn.net/weixin_43530726/article/details/95253795)
- > mysql 锁机制
- ## [SpringBoot2.1.0 + Sharding-JDBC4.0.0实现数据分片Demo](https://blog.csdn.net/u011212394/article/details/101101633)
- > SpringBoot2.1.0 + Sharding-JDBC4.0.0实现数据分片Demo
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [MySQL--常用数学函数汇总、查询加部分数学运算查询(一篇如同看电影的文章)](https://blog.csdn.net/L1542334210/article/details/101227491)
- > MySQL--常用数学函数汇总、查询加部分数学运算查询(一篇如同看电影的文章)
- ## [mysql+maven+idea](https://blog.csdn.net/qq_21088971/article/details/100984449)
- > mysql+maven+idea
+ ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
+ > 对计算机专业来说学历真的重要吗？
+ ## [2019CCPC秦皇岛记](https://blog.csdn.net/lalalafloat/article/details/101536497)
+ > 2019CCPC秦皇岛记
+ ## [世界上最好的学习法：费曼学习法](https://blog.csdn.net/wo541075754/article/details/101554326)
+ > 
+ ## [总有一天变成你大爷](https://blog.csdn.net/rocshaw/article/details/101383684)
+ > 总有一天变成你大爷
+ ## [记一次阿里巴巴面试被虐和一些电面问题](https://blog.csdn.net/JW614718/article/details/101215564)
+ > 记一次阿里巴巴面试被虐和一些电面问题
+ ## [一位正在努力的小白的自我介绍](https://blog.csdn.net/qq_44329476/article/details/101550035)
+ > 一位正在努力的小白的自我介绍
+ ## [2019北大软微预推免面试经历](https://blog.csdn.net/qq_39352598/article/details/101591497)
+ > 2019北大软微预推免面试经历
+ ## [100% 成功率的 offer 收割机是怎样练成的？](https://blog.csdn.net/singwhatiwanna/article/details/100915023)
+ > 100% 成功率的 offer 收割机是怎样练成的？
+ ## [github label有什么用？](https://blog.csdn.net/weixin_45672630/article/details/101607277)
+ > github label有什么用？
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
+ ## [记录一段难忘的秋招时光](https://blog.csdn.net/y201619819/article/details/101433456)
+ > 记录一段难忘的秋招时光
+ ## [国庆之际，我有些话想说](https://blog.csdn.net/zimingzim/article/details/101561242)
+ > 国庆之际，我有些话想说
+ ## [【IT资讯】年薪170万码农征友，条件让网友炸锅……](https://blog.csdn.net/dengjin20104042056/article/details/101601070)
+ > 
+ ## [Kindle电子书资源](https://blog.csdn.net/ffscript/article/details/101510828)
+ > Kindle电子书资源
+ ## [初次的相遇](https://blog.csdn.net/weixin_45667236/article/details/101456434)
+ > 初次的相遇
 # PM 
+ ## [方案分享：2019飞猪3周年庆活动如何策划？](http://www.woshipm.com/operate/2924411.html)
+ > 本文主要想把个人对于飞猪周年活动的玩法与思路跟大家分享，运营新人第一次写活动策划案，没有具体的数据作为依据，此策划案数据为自行设想的，有较多不合理的地方希望...
+ ## [了解这些东西，让你到新公司快速上手](http://www.woshipm.com/pmd/2932370.html)
+ > 身为产品，到新公司接手一个已存在的产品时，应当如何熟悉业务、了解已有情况？笔者最近工作变动，到新公司上班，所属业务关联甚广。中间摸索了很长一段时间，当然也...
+ ## [微信群死了吗？不，它只是转移了战场](http://www.woshipm.com/operate/2930596.html)
+ > 如今很多的人都认为微信群已经死了，毕竟微信群引流成本越来越高，且活跃的时间越来越短。在这样的情况下，要怎么去盘活一个微信群呢？一、微信群之困今年很多在微信...
+ ## [合理运用“损失厌恶”，让消费者买下产品](http://www.woshipm.com/marketing/2931291.html)
+ > 网购的经历告诉我们，在产品价格质量相差不大的情况下，大多数时候会选择包邮产品。这背后蕴含着什么心理学效应呢？如何灵活运用使其改变消费者心理呢？先问大家一个...
+ ## [做一个技术型运营，深扒《炉石传说》的活动运营策略](http://www.woshipm.com/operate/2929534.html)
+ > 用技术，走在竞品的前面。01游说的关键是洞察先机，预测对手招数，然后设计对策，赢家永远比对手快一步，当对手一掀底牌，就亮出王牌。要确定能趁其不备，让对方无法...
+ ## [AI融入旅游业，“复利效应”终于显现](http://www.woshipm.com/ai/2925704.html)
+ > 旅游业畸形发展，门票成为盈利的主要来源，服务质量却一直跟不上。AI的介入，技术的帮助，旅游业能否实现“复利效应”？国庆将至，巨大的旅游市场正在“翘首以盼”，出行...
+ ## [盒马鲜生的“最后一公里”生鲜竞赛](http://www.woshipm.com/newretail/2931945.html)
+ > 盒马鲜生在生鲜领域打造了全新的商业模式，本文从五个方面分析其商业策略。“日啖荔枝三百颗，若有盒马吃更多。”杨贵妃若活到现在，或许会这样感慨。万亿级别的中国生...
  ## [【天天问每周精选】第90期：微信读书为什么要设计替身书架？](http://www.woshipm.com/it/2924365.html)
  > 微信读书隐私菜单中有一个“替身书架”功能，可以自行设置想对外展现的书籍，开启后其他用户只能看到“你想给别人看到的正在阅读书籍”。意欲何为呢？不想展示直接隐藏不好...
  ## [2019北京运营增长大会 | 16位嘉宾与你一起探讨下沉市场、私域流量、KOC等热点话题！](http://www.woshipm.com/active/2925933.html)
