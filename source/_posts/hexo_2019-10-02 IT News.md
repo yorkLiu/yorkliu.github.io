@@ -1,28 +1,42 @@
 ---
 title: 2019-10-02 IT News
 copyright: true
-date: 2019-10-02 12:01:04
+date: 2019-10-02 17:01:32
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [国庆献礼|网络安全普及知识视频之恶意软件的实用分析工具(二)](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=kFvPz3V32dcT9VZcD*yLEMSFkHF5uvjD79N-xnkWcPA5*eMZ35VF6BDzmvldZXR*sU-VzrVJ9fVDkxieYc*JHxCcobv-SRcLmsxCox*aF*2KkVC8Ubr2ae74O9vn6sef&new=1)
+ ## [扎克伯格内部会议音频泄露 抨击分拆Facebook言论](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=*vstnDKXZk8zNpiTehBCuyufl*ePrGGlDU0HfNtPtzhx0txfiOCOhd5kNT0BiLahqaVoIwW768qVQcQB00vNVr5oxeR4b-pZRiqrNwuK4nWpZ5g0WdEkn-xw41y4c4yG&new=1)
+ > 据CNBC报道，Facebook CEO 马克·扎克伯格在公司内部讲话的一段2小时讲话被泄露给The Verge。泄露事件也意味着Facebook内部的不同意见越来越多。在这一音频中，扎克伯格称反对民主党总统候选人参议员Elizabeth
+ ## [世界第一超算跑深度学习模型，2.76万块V100 GPU将分布式训练扩展到极致](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=bqCzksfrABantdLsHa6TB5WsIKhZaZ*2QdOS6boCNAXIgBrxYcQAg5VMzhMvJSBt50ki8UdBREIyM8XnXKyLjBzDymwQQZ6blGpmWqHt4gXZvhtqrM3gIlrzP*PMV*LS&new=1)
+ > 选自 arXiv作者：Nouamane Laanait、Joshua Romero等机器之心编译分布式计算确实需要在很多 GPU 上训练，但你见过在排名第一的超算上训练深度模型，在 2.76 万块 V100 GPU 训练模型的方法吗？重要的
+ ## [搜索引擎难做，为什么微软必应活了下来?](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=QbtVSEnH2eGhNEg51l6tKPYEdACV6ix5GpoBssdNDVZU0phDr4b0v8WbY0LLbeZ7SJ1FQ6lOPyyPODBt1JwR0L0XuJMlguD-vKyRnl*ZjiVI6tD5*CKKabmnkLYxXMAm&new=1)
+ > 曾经的微软想尽了一切办法来拯救搜索引擎 Bing，但是 Bing 的颓势仍不可避免，市场份额一直被 Google 远远甩在背后。但是一个意想不到的事实是，即使是现在 Bing 也在保持盈利，它距离真正的失败还很远！那么 Bi...
+ ## [明年推全自动驾驶汽车!特斯拉收购AI创企扩充自动驾驶团队](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=qQffqC6wmR85YgRcJDPLRrYuL6MPztpQ8hgN-0Hp82rOkqP41E7WKjEONZ6D*hz8xC3IzBV5aXEWx3VXCz3ZNWoqtMTFqz1k6wbez0kMqmu*u4iSrGSMWpNNlLsiCMSo&new=1)
+ > ch共    看点：特斯拉收购计算机视觉创企DeepScale，该公司此前已获1800万美元融资。车东西 | Juice车东西10月2日消息，据外媒CNBC报道，特斯拉已经了收购计算机视觉初创公司DeepScale，但目前双方尚未公布这笔...
+ ## [华为意欲收割VR市场，对直播行业意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=aWWtvvrLRFQMJEBSrZd3uCWTPKTB33xl7Zim1oBysczxWvj3RQeXr8GWbk2u-4fnThuiGU7z19L6FdWdqH-ttW2sm24cVYLRNsdX91uZzkceXV5onbF21*hQOdIucuwU&new=1)
+ > 这次的华为发布会向VR行业以及上下游产业，释放了值得重点关注的信号。9月26日，在华为最重要的高端旗舰Mate 30系列的国内发布会上，华为发布了HUAWEI VR Glass，这是其时隔两年再次更新VR产品线，现场，华为还...
+ ## [假期追剧存储空间不够云盘凑，这些还免费](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=mJ2iPHuiHidwRJ6x1*r2ZUvXgM*6S8jfZIPxemgb2-E2Lv2IOVdjr53e8nL8Uq*eDu9ohiC2CilsEU6-QxwmFVIW5p*ApTk*7guWgnI-8eeDnk6YdmSnD5Qqwp02H616&new=1)
+ > 近日，网易网盘发布公告，称将于2019年11月30日正式关闭wp.163.com的入口，届时该入口将无法访问。网易邮箱账号用户可以通过邮箱首页左侧“文件中心”访问并使用网盘。并且除网易邮箱账户外，微信、微博等第三方...
+ ## [余承东：华为6G研发还需10年；库克“iPhone 11势头强劲”；TensorFlow 2.0正式版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=QbtVSEnH2eGhNEg51l6tKPYEdACV6ix5GpoBssdNDVYWGPRP30s6eVmwn83dAgkDljtQE1XpBVjt79WhmIyJ-y*nqaW8UweEhexDgtR6neAtgzEgUo9rSQ9ZjzqY1lvR&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [国庆献礼|网络安全普及知识视频之恶意软件的实用分析工具(二)](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=kFvPz3V32dcT9VZcD*yLEMSFkHF5uvjD79N-xnkWcPCNFn3Tcc4C99x6KHcT1AjZdzpFEoRsCcxMXZWrbVDdRmXllchdFrGri9lPmWxJktIBr4NUf3vDsorttTECoTra&new=1)
  > 庆祝新中国成立70周年★1949—2019★同心共筑中国梦 共创美好新时代!礼赞祖国  生日快乐！恶意软件实用分析工具（二）电脑十分容易中病毒，但是很多人都不知道这些病毒、恶意软件从何而来，更别提查杀了。别担心...
- ## [迎祖国70华诞，展通信时代风采](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=sSk00R5**RLM6zFOD236JPpF4nxKzjqrnm1BI5UrKiPFuaEPv8YGz1*ZNl2rSV81MNGFYsItAVU-vTejkbC7ryOkXzzk9Q2CqVBex2XhMnUeXfxNQCrKrKv97tnJXsNV&new=1)
- > 发展印记&lt;&lt;  左右滑动查看通信行业每个十年的发展印记  &gt;&gt;1949年~1959年邮电部正式成立，电话电报开始联通海内外1959年~1969年通信线路恢复发展，邮电部命途多舛1969年~1979年通信行业百废待兴，打通连接世界的...
- ## [从1G到5G，35年的科创辛酸与追赶](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=rkjIkFF4HP1A9YYy0f-870Q4aldPY8J*bi9okoRhpF4xhQPpwzF5pl9QIcP3VECjDlXNT-euZTo13fHsS2VuuJ4mG7zYUl263C9EUg*o8tBFIcQUbEKxCqW4oKmEv1eW&new=1)
- > &quot; 落后就有机遇，甚至落后就是机会。中国科技产业从芯片到操作系统，从1G到5G，在这条路上跌跌撞撞几十年的中国科创，终于走到了任正非所说的“山顶”前。                 作者：颜宇来源：华商韬略（ID：hstl8...
- ## [重磅!华为突然发布，美国人、西方人，非买不可!](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=vmr-3K30r0ZBDr1EJS-2wM3pgN072d4gp*qQVdWTuZNAKOhGDOe63pSjpteUf9Y9fFoPifidobTL5-JemJTKMBZTjeCo*jXIwV0hKA7YHxWC12zfWVr*vXP3-dNzsDwH&new=1)
+ ## [重磅!华为突然发布，美国人、西方人，非买不可!](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=vmr-3K30r0ZBDr1EJS-2wM3pgN072d4gp*qQVdWTuZPJ938RKqmEcjUqfxtDB3Nk1asJestXXdb*jKF0eiqV5e1ZxeS6jIWo3HkSOTyMfD5sXQ8CmMJXIXnsNJuyqIFG&new=1)
  > 有些事情，总会发生的！ 近日，华为突然有大消息曝出——目前华为已经开始生产不含美国零部件的5G基站，明年将扩大量产。一石激起千层浪！ 华为创始人任正非在商务论坛的宣称，惊呆了所有人！ 其实，任总只是心...
- ## [台积电的反击：指控格芯侵犯25项专利，并要求禁售!](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=p7fBv9BPVUS3GlfzYAsXDLaK8gjESc2ib3MkId1gASJH61*EBc90KnqZn2n99pC-ofgNbxFiZxgLSLTJUxqBXAK9zkKp7EsKYM74YYcCup-lqx9W5xKsLxlNQIdTy7tq&new=1)
+ ## [迎祖国70华诞，展通信时代风采](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=sSk00R5**RLM6zFOD236JPpF4nxKzjqrnm1BI5UrKiPC96WsTAkIhmRS694rDEr9kLTtE7H-M1Z76tqp20rBtjA6340k5x99IEIQbPZFdWWvc*am0PUPB0eRdCf5sRpV&new=1)
+ > 发展印记&lt;&lt;  左右滑动查看通信行业每个十年的发展印记  &gt;&gt;1949年~1959年邮电部正式成立，电话电报开始联通海内外1959年~1969年通信线路恢复发展，邮电部命途多舛1969年~1979年通信行业百废待兴，打通连接世界的...
+ ## [从1G到5G，35年的科创辛酸与追赶](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=rkjIkFF4HP1A9YYy0f-870Q4aldPY8J*bi9okoRhpF5Hm0M*dnJ6s1V4P*h3UGVgpyViwBngyeiVid5R5YIN5DEpNTv8p42j3NpMxtaKoAVX-urhGzbbr-ragMXpyc8l&new=1)
+ > &quot; 落后就有机遇，甚至落后就是机会。中国科技产业从芯片到操作系统，从1G到5G，在这条路上跌跌撞撞几十年的中国科创，终于走到了任正非所说的“山顶”前。                 作者：颜宇来源：华商韬略（ID：hstl8...
+ ## [台积电的反击：指控格芯侵犯25项专利，并要求禁售!](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=p7fBv9BPVUS3GlfzYAsXDLaK8gjESc2ib3MkId1gASIKIlup6VAM7BDUpGMQkHwiCPjmfRUPZfIwr8ONRTcSdvfhQ3pdli8d-phtzIh-nQj62lWftf-UYkd7SBIVdcdk&new=1)
  > 8月底，全球第二大晶圆代工厂格芯(GlobalFoundries)指控全球第一大晶圆代工厂台积电（TSMC）专利侵权，并向美国国际贸易委员会（ITC）提起专利侵权诉讼。近日，ITC宣布对台积电及其多家下游客户发起了“337调查...
- ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=EtJ8qUWsZJLaiOfQYe*7n8S6GNLlAGL7ihShjB491vvNoS5GM-ExN3-gQIVHEHxQquF03FL84t47*0cbBAM00PwC-NjnQfKec6RqDU71*dVYBwX*KWnKrAw462Jt1shJ&new=1)
+ ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=EtJ8qUWsZJLaiOfQYe*7n8S6GNLlAGL7ihShjB491vvMf04oin2El6o00NVj93R2OoE7SYShzQfj8KyFxJ6m9A5Ejza3n8I*v0t6a3SUNNCvt4Za9U3KO1zBIhNuGduq&new=1)
  > ------------------------------------------------------------------------------------------------------------温馨提示：以下广告展示部
- ## [5G预定用户超500万显示需求强烈，但今年非体验5G好时候](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=8lmYmbPDKShluAdHKqVfDfAflBCKLPgajvoeUyrg-pEbekm3WCitjSgNPPoYChhr0BQ346UmrNlaFydPRGWUXOsS9bkDzO0sh091Jtj1-iMJHhB0M6H5pEe-frxLRMde&new=1)
+ ## [5G预定用户超500万显示需求强烈，但今年非体验5G好时候](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=8lmYmbPDKShluAdHKqVfDfAflBCKLPgajvoeUyrg-pELx00829v5a4MZClEh2B9QC40KIzeFGoPNrxd0vKl2ORH5iKuapq5dA0oYctMq8IMk44sS8AiCi2WH0yEwmm6k&new=1)
  > 自9月20日中国移动开放5G预定之后，中国联通和中国电信也陆续跟进，目前三大运营商的5G预定用户已超过500万，这显示用户对5G的需求强烈，不过考虑到今年5G面临的种种不利条件，柏铭科技认为今年并非体验5G好时候...
- ## [阅兵车牌号是1949和2019，瞬间看哭!](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=Rl0MNCqmgvNkx99kxnF*eUNgBalmMr1TF3K525WFCH1LADCObb6QpzOib3BC7q2MAGxRixEreU9L7oxXZmn2Hy5y7e09cSDS76AELODLcbWbZgnkeBYMfOGKtEeVNLy5&new=1)
+ ## [阅兵车牌号是1949和2019，瞬间看哭!](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=Rl0MNCqmgvNkx99kxnF*eUNgBalmMr1TF3K525WFCH0TCYVpe8OONvdzj-q7ckchOiqVkacbEArcd*x8je6DVGmwZRgVxYcjn2846Vk8rvP2DPOvXmvUHI3f9LiN6Fyo&new=1)
  > 里面的含义，你看懂了吗？阅兵车牌号是1949和2019，刚刚，这两个车牌号上热搜！里面的含义，你看懂了吗？网友：瞬间哭了！英雄一直都在，这盛世，也将一直会在！70年，中国人民站起来了！文│中国青年报，人民日...
- ## [AHB亚洲智能硬件大赛2019新加坡站圆满结束，十月上海见!](http://mp.weixin.qq.com/s?src=11&timestamp=1569988804&ver=1887&signature=l86B2QjOxNZQ9gVgpq9*0Dy*66eJfZfCaYbpY-Xo3r4noiMRsLuTWQ*ouwnUI161r2kqgbSl1XhgLr3YgwngmyXRA3m*-Y1IbdAznd-WcjivT-IRtOlm8mxSZpzJvOX6&new=1)
+ ## [AHB亚洲智能硬件大赛2019新加坡站圆满结束，十月上海见!](http://mp.weixin.qq.com/s?src=11&timestamp=1570006804&ver=1887&signature=l86B2QjOxNZQ9gVgpq9*0Dy*66eJfZfCaYbpY-Xo3r7H9eqkpGYBPVJu1XVTt-h2zg44OA*bmISUb2WiAELlP2N9QuRr6ZxnsqLTLWKIa3lp-SuB6bIxf1WFWigT*cLc&new=1)
  > 动点科技 | ID：technode10月1日AHB亚洲智能硬件大赛2019新加坡站，在动点科技新加坡分公司Bugis Junction Towers举行，经过几轮激烈的宣讲以后，我们最终选出了冠军创业公司，他将代表新加坡站的智能硬件公司参
 # IT 技术 
  ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
@@ -49,28 +63,28 @@ categories: IT NEWS
  > 用Python解决数据结构与算法问题（一）：Python基础
  ## [对学习Eclipse的思考之基本入门介绍](https://blog.csdn.net/dyq1995/article/details/101750523)
  > 对学习Eclipse的思考之基本入门介绍
+ ## [Windows下的Pycharm远程连接虚拟机中Centos下的Python环境](https://blog.csdn.net/lzc4869/article/details/78711854)
+ > Windows下的Pycharm远程连接虚拟机中Centos下的Python环境
+ ## [一文读懂 JWT！](https://blog.csdn.net/csdnnews/article/details/101423046)
+ > 一文读懂 JWT！
  ## [从 Int 到 Integer 对象，细细品来还是有不少东西](https://blog.csdn.net/z694644032/article/details/101672017)
  > 
- ## [go 学习笔记之10 分钟简要理解 go 语言闭包技术](https://blog.csdn.net/weixin_38171180/article/details/101841082)
- > go 学习笔记之10 分钟简要理解 go 语言闭包技术
  ## [玩转 SpringBoot 2 之整合 JWT 下篇](https://blog.csdn.net/ljk126wy/article/details/101374212)
  > 玩转 SpringBoot 2 之整合 JWT 下篇
  ## [9月30日科技资讯|罗永浩与锤子手机撇清关系；微软回应「高管传奇」经历；Rust 1.38 稳定版发布](https://blog.csdn.net/weixin_39786569/article/details/101754041)
  > 9月30日科技资讯|罗永浩与锤子手机撇清关系；微软回应「高管传奇」经历；Rust 1.38 稳定版发布
  ## [\[网络安全自学篇\] 十四.Python攻防之基础常识、正则表达式、Web编程和套接字通信（一）](https://blog.csdn.net/Eastmount/article/details/101645333)
  > 
- ## [Docker ：常用命令查询](https://blog.csdn.net/fly910905/article/details/101845129)
- > Docker ：常用命令查询
- ## [这里有一份BAT大厂Android面试超详细知识点，赶快收藏备战金九银十！](https://blog.csdn.net/weixin_44339238/article/details/101761585)
- > 这里有一份BAT大厂Android面试超详细知识点，赶快收藏备战金九银十！
  ## [Transformer各层网络结构详解！面试必备！(附代码实现)](https://blog.csdn.net/weixin_41510260/article/details/101445016)
  > 
  ## [独立物理机和虚拟机比较有什么优势？](https://blog.csdn.net/devcloud/article/details/101758989)
  > 独立物理机和虚拟机比较有什么优势？
- ## [Java版的7种单例模式](https://blog.csdn.net/stven_king/article/details/101759634)
- > Java版的7种单例模式
  ## [《C++ Primer》学习笔记（二）：变量和基本类型](https://blog.csdn.net/TeFuirnever/article/details/100977081)
  > 
+ ## [Java版的7种单例模式](https://blog.csdn.net/stven_king/article/details/101759634)
+ > Java版的7种单例模式
+ ## [程序面试题之我见](https://blog.csdn.net/tkokof1/article/details/101788914)
+ > 程序面试题之我见
  ## [5G 时代，AI 如何破竹而出？ | AI ProCon](https://blog.csdn.net/csdnnews/article/details/101811076)
  > 整理 | 黄浩然责编 | 屠敏出品 | CSDN（ID：CSDNnews）9月5日- 7日，一年一度的 AI 开发者大会(AI ProCon 2019)在北京隆重召开，来自业界近百位中美顶尖 AI 专家、知名企业代表以及千余名 AI 开发者齐聚一堂，围绕 AIoT、开源、自然语言处理、...
  ## [百度 PC 浏览器宣布停止服务；阿里正式控股网易考拉相关公司；Flutter 1.9.1 发布​ | 极客头条](https://blog.csdn.net/csdnnews/article/details/101810103)
@@ -78,36 +92,36 @@ categories: IT NEWS
  ## [该如何弥补 GitHub 功能缺陷？](https://blog.csdn.net/csdnnews/article/details/101809766)
  > 作为开源的中转中心，GitHub 离用户的期望还有一定的距离。而这个距离又该如何逐步缩小？作者 | Pravendra Singh译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：csdnnews）以下为译文：自从被微软收购之后，GitHub就像腾飞的火箭一样，接二连三地发布新...
 # 人工智能 
- ## [如何获取 OSS AccessKeyId、AccessKeySecret](https://blog.csdn.net/m_nanle_xiaobudiu/article/details/101756805)
- > 如何获取 OSS AccessKeyId、AccessKeySecret
- ## [家国梦自动收取金币、货物、升级建筑、拆相册等脚本](https://blog.csdn.net/sxf1061700625/article/details/101688877)
- > 家国梦自动收取金币、货物、升级建筑、拆相册等脚本
- ## [JS--JSON简介、结构、数据类型](https://blog.csdn.net/cold___play/article/details/101773977)
- > JS--JSON简介、结构、数据类型
- ## [tensorboard打不开怎么办？](https://blog.csdn.net/ITwoniu/article/details/101867793)
- > tensorboard打不开怎么办？
- ## [基础——IOT（物联网）的七大通信协议](https://blog.csdn.net/wangguchao/article/details/101756484)
- > 基础——IOT（物联网）的七大通信协议
- ## [PYNQ_Z2从vivado到SDK的PS到PL点灯以及固化流程](https://blog.csdn.net/qq_42263796/article/details/101828046)
- > PYNQ_Z2从vivado到SDK的PS到PL点灯以及固化流程
- ## [Windows使用ROS机器人操作系统全面资料汇总](https://blog.csdn.net/ZhangRelay/article/details/101685013)
- > Windows使用ROS机器人操作系统全面资料汇总
+ ## [【绝对干货】Python免费下载爱奇艺VIP电影，Python真的可以为所欲为](https://blog.csdn.net/Kerwinoyyx/article/details/101713079)
+ > 【绝对干货】Python免费下载爱奇艺VIP电影，Python真的可以为所欲为
+ ## [ps辛酸学习成长史](https://blog.csdn.net/qq_45491755/article/details/101802275)
+ > ps辛酸学习成长史
+ ## [(LeetCode 221)最大正方形  \[dp & 滚动数组\]](https://blog.csdn.net/STILLxjy/article/details/101833907)
+ > (LeetCode 221)最大正方形  \[dp &amp; 滚动数组\]
+ ## [android ndk使用giflib高性能显示gif](https://blog.csdn.net/a756213932/article/details/101853198)
+ > android ndk使用giflib高性能显示gif
+ ## [读入bmp格式图片并且对该图片进行反色](https://blog.csdn.net/qq_42671946/article/details/101854814)
+ > 读入bmp格式图片并且对该图片进行反色
+ ## [音频帧率](https://blog.csdn.net/u013929937/article/details/101782253)
+ > 音频帧率
+ ## [免费好用的视频剪辑软件工具（电脑端）（快剪辑beta、爱拍）](https://blog.csdn.net/naibozhuan3744/article/details/101792636)
+ > 免费好用的视频剪辑软件工具（电脑端）（快剪辑beta、爱拍）
+ ## [C之委托](https://blog.csdn.net/qq_37864633/article/details/101752563)
+ > C之委托
+ ## [如何从零开始学android？](https://blog.csdn.net/u014465652/article/details/101760018)
+ > 如何从零开始学android？
  ## [CC2640R2F程序移植——0.96OLED_IPS屏(ss7725驱动)](https://blog.csdn.net/qq_29916855/article/details/101764088)
  > CC2640R2F程序移植——0.96OLED_IPS屏(ss7725驱动)
- ## [肯德基的精益管理-流程化、准时化、少人化](https://blog.csdn.net/weixin_45217569/article/details/101752558)
- > 肯德基的精益管理-流程化、准时化、少人化
- ## [基础——IOT（物联网）是什么，有什么用，用到什么技术？](https://blog.csdn.net/wangguchao/article/details/101753835)
- > 基础——IOT（物联网）是什么，有什么用，用到什么技术？
+ ## [FFMPEG4.1 - 视频编码](https://blog.csdn.net/wyansai/article/details/101773320)
+ > FFMPEG4.1 - 视频编码
+ ## [移植u-boot-分析启动过程](https://blog.csdn.net/Jiaying888168/article/details/101776485)
+ > 移植u-boot-分析启动过程
+ ## [安装g++， 实现C++/C语言的调试](https://blog.csdn.net/weixin_44676081/article/details/101852100)
+ > 安装g++， 实现C++/C语言的调试
  ## [STM32 ADC](https://blog.csdn.net/lzs940320/article/details/101780134)
  > STM32 ADC
- ## [VS2010(VS2017)+Boost_1_68_0环境搭建](https://blog.csdn.net/pengshuyes/article/details/101791658)
- > VS2010(VS2017)+Boost_1_68_0环境搭建
- ## [微信小程序 集成腾讯移动分析](https://blog.csdn.net/weixin_42270094/article/details/101776426)
- > 微信小程序 集成腾讯移动分析
- ## [关于RS485的使用](https://blog.csdn.net/wuhenyouyuyouyu/article/details/101778306)
- > 关于RS485的使用
- ## [Android通过HC-05与51单片机简单通讯](https://blog.csdn.net/L_Y_D_I/article/details/101829900)
- > Android通过HC-05与51单片机简单通讯
+ ## [【Python】NICONICO Video Downloader / NICONICO Video视频下载工具](https://blog.csdn.net/afadasdas/article/details/86776028)
+ > 【Python】NICONICO Video Downloader / NICONICO Video视频下载工具
 # PM 
  ## [企业在不同的阶段，如何获得盈利和扩张？](http://www.woshipm.com/chuangye/2935127.html)
  > 本文将为大家介绍一个企业经营的思维框架，这个框架能帮你清晰、快速解答企业经营的收益最大化的问题。今天来聊一点关于营销跨学科的知识——一个非常有用的思维框架...
