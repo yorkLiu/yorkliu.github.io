@@ -1,20 +1,22 @@
 ---
 title: 2019-10-04 IT News
 copyright: true
-date: 2019-10-04 09:01:05
+date: 2019-10-04 10:01:32
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [再见了，快递员!北京传来消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1570150803&ver=1891&signature=lKRdaAYq8aebh-N915cm8Viv80smVf98FN8bPzAiKoYAECGbVg7O8zPzW47sAxQeQ*QQ*o1ccfB3xisSakmpFUWOPYdPT7yozqp5jKEAIZN*ND62x35qtZH9C5D*WSNW&new=1)
- > 这个时代变化之快让人无法想象。一个个脑洞大开的创新，让人眼花缭乱，目眩神迷。01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的...
- ## [独家：中国移动总裁李跃卸任信曝光!将43年职业生涯分为上下两部](http://mp.weixin.qq.com/s?src=11&timestamp=1570150803&ver=1891&signature=DH78cIKe3*RyMmhDsxp6jtABxZbMppPp4GNosHcxLK6NgfjOAsYO4CaQRmanhxzSCq93QY47-Y3IXjf*xiRSTk3WU9MjBKr6gvt4CSpa4KvUJXM2LIH7rZnf4xib*m7T&new=1)
+ ## [拼多多回应“商家发二选一微博”；Facebook 内部会议泄露音频；Rust 1.38 稳定版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1570154404&ver=1891&signature=Uf7oPqMJLIoMXsl*RctOSrZX8YiKGiVqVvo-ZmqLbHNu3whbhjuV7aMmWO8xDgGVl1OOAB3o7KeiQnCo4Tl0Kut9mA9gzQjgDI9TeHtA3669ygjBx1EouG-XXBOSEY*n&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [独家：中国移动总裁李跃卸任信曝光!将43年职业生涯分为上下两部](http://mp.weixin.qq.com/s?src=11&timestamp=1570154404&ver=1891&signature=DH78cIKe3*RyMmhDsxp6jtABxZbMppPp4GNosHcxLK6NgfjOAsYO4CaQRmanhxzS170ZPOVYFs4FQvmRuSa772rCM*5j0q3t4d*bjpkbbk6X6vaZXYNHHx1Iueto6iq*&new=1)
  > 运营商财经网  汪莹/文今日，运营商财经网独家获悉，中国移动总裁李跃到龄退休，卸任辞别信也因此曝光！回首43年事业生涯，李跃分外感慨，但他表示，退休没退党，工作结束了，人生没结束。事业之剧结束，新的退...
- ## [超500万用户都订了!三大运营商启动5G套餐预约，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570150803&ver=1891&signature=w2B*zK1vukNd*WynqmBw9fZisrYBsJRHMGE01OUGu7M8yLJEUymgYKr3Jilq6eOf80QAJ0VH7pe6Fn-Rnr5qWYolfvsmJoPC1GBhnBfVSH9fPoFkaLdcX54jd97clhqC&new=1)
+ ## [再见了，快递员!北京传来消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1570154404&ver=1891&signature=lKRdaAYq8aebh-N915cm8Viv80smVf98FN8bPzAiKoYAECGbVg7O8zPzW47sAxQe91fF5YWaaHAUazwYY43s-GnhiNXZgU-AAKYrOOtD3YUw-0VlwlcR-Q0l-a2pPlSL&new=1)
+ > 这个时代变化之快让人无法想象。一个个脑洞大开的创新，让人眼花缭乱，目眩神迷。01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的...
+ ## [超500万用户都订了!三大运营商启动5G套餐预约，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570154404&ver=1891&signature=w2B*zK1vukNd*WynqmBw9fZisrYBsJRHMGE01OUGu7M8yLJEUymgYKr3Jilq6eOfia04C9bJf2fYeTmcAzkn9TAvOLyAaIfhUx-2eE27K4HzmwMiMY21Jag7ftC3HQd9&new=1)
  > 随着5G脚步的越来越近，中国移动。中国联通、中国电信三大运营商已经“摩拳擦掌”，试图在5G时代抢占先机。 　　截至9月30日，三大电信运营商均已开启5G套餐预约活动，为接下来的5G套餐正式推出做准备。 　...
- ## [谷歌收集400多万iPhone用户数据 特斯拉2019年Q3交付量创纪录但不及预期|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1570150803&ver=1891&signature=vYh44oqBmwiLX3gCRla5GXUPP20papkBYEh3yq27rDuSuTyQ4h2k0OFYeb4Vu5JHuqWiSp2-4i-W8ex1jr06*VIVc4BpeigMYw1c2j9qtbsxDZhSioEE6drnO7y1p4wR&new=1)
+ ## [谷歌收集400多万iPhone用户数据 特斯拉2019年Q3交付量创纪录但不及预期|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1570154404&ver=1891&signature=vYh44oqBmwiLX3gCRla5GXUPP20papkBYEh3yq27rDuSuTyQ4h2k0OFYeb4Vu5JHvthBrjbW7EYN4JG5NeKK6p57dkvI1tb2tsCQn1EuMk9q5Xqzj9MbvnpL43-Jtr7J&new=1)
  > 动点科技 | ID：technode精选新闻三星电子在华最后一家手机厂已于9月底停工据路透社报道，韩国三星电子于 2 日表示，已经在 9 月底暂停中国手机工厂的生产。该公司称，暂停在华唯一一座手机工厂的生产是 “艰难...
- ## [工信部圆满完成中华人民共和国成立70周年庆祝活动保障任务](http://mp.weixin.qq.com/s?src=11&timestamp=1570150803&ver=1891&signature=RRn9OcJw1DRsg*W5Wzi5ygS9G1yBsTyTWdIt0iGM8eB84tZIDwQIOsmAqRIXqxCvRjUc4d2YdZlT5jwTg*Ugz1VRVDj9xNJqIZoTZLK2IEF4SgVbxXNCS-Z8ZzifOGIc&new=1)
+ ## [工信部圆满完成中华人民共和国成立70周年庆祝活动保障任务](http://mp.weixin.qq.com/s?src=11&timestamp=1570154404&ver=1891&signature=RRn9OcJw1DRsg*W5Wzi5ygS9G1yBsTyTWdIt0iGM8eB84tZIDwQIOsmAqRIXqxCvZoxje5UnRnKy35mixWVdQuxlco*tm58duawY6fRB8cUtHz7AJtuyMRJpBOsFyHHs&new=1)
  > 2019年10月1日，中华人民共和国成立70周年系列庆祝活动在首都北京隆重举行。工业和信息化部周密部署、统筹调度，工信系统各相关单位以高度的政治责任感、强烈的使命担当，圆满完成了无线电安全保障、通信保障和...
 # IT 技术 
  ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
@@ -66,37 +68,41 @@ categories: IT NEWS
  ## [云栖大会上阿里巴巴没说的数字经济逻辑](https://blog.csdn.net/csdnnews/article/details/101969897)
  > 从云栖大会的主题变迁看数字化进程从2009年开始，云栖大会已经由最早的地方网站峰会成为阿里每年一度的战略和生态峰会。回顾过去这几年，云栖大会的主题从“互联网+”，“DT时代“，“五新”，“城市大脑”，再到刚刚过去的2019年主题——“数字经济”，我们能清晰的看到阿里的平台智能战略演进思路。阿里...
 # 人工智能 
- ## [shell脚本基础](https://blog.csdn.net/qq_31851107/article/details/101444593)
- > shell脚本基础
- ## [Linux之vim的使用](https://blog.csdn.net/fy_java1995/article/details/101848824)
- > Linux之vim的使用
- ## [Nginx作为Web服务器的核心配置](https://blog.csdn.net/qq_42298432/article/details/101715672)
- > Nginx作为Web服务器的核心配置
- ## [学习 Vim 命令总结](https://blog.csdn.net/qq_37925422/article/details/101839031)
- > 学习 Vim 命令总结
- ## [Linux离线安装rzsz](https://blog.csdn.net/gdkyxy2013/article/details/101907038)
- > Linux离线安装rzsz
- ## [Ubuntu18.04 APT方式安装CUDA10.0+cuDNN7.6.3](https://blog.csdn.net/Day1more/article/details/101914031)
- > Ubuntu18.04 APT方式安装CUDA10.0+cuDNN7.6.3
- ## [Ubuntu线上无界面服务器 使用selenium chrome](https://blog.csdn.net/qq_40117912/article/details/101860873)
- > Ubuntu线上无界面服务器 使用selenium chrome
- ## [阿里云服务器（Ubuntu）-- 安装nginx并代理端口（Golang）](https://blog.csdn.net/qq_42410605/article/details/101834646)
- > 阿里云服务器（Ubuntu）-- 安装nginx并代理端口（Golang）
- ## [linux常用命令详解](https://blog.csdn.net/zhengzaifeidelushang/article/details/101753414)
- > linux常用命令详解
- ## [Let's Encrypt全自动化配置https的shell脚本](https://blog.csdn.net/a807719447/article/details/101771812)
- > Let&x27;s Encrypt全自动化配置https的shell脚本
- ## [Linux /centos7下源码安装Nginx](https://blog.csdn.net/aasdad1/article/details/101855411)
- > Linux /centos7下源码安装Nginx
- ## [Linux基础【一】](https://blog.csdn.net/wqq1027/article/details/101860396)
- > Linux基础【一】
- ## [E: Could not get lock /var/lib/dpkg/lock-frontend - open (11: Resource temporarily unavailable) E: U](https://blog.csdn.net/weixin_42367693/article/details/101928388)
- > E: Could not get lock /var/lib/dpkg/lock-frontend - open (11: Resource temporarily unavailable) E: U
- ## [第6章 Linux 文件与目录管理 练习题](https://blog.csdn.net/xiaohai13147/article/details/101312509)
- > 第6章 Linux 文件与目录管理 练习题
- ## [压力测试工具Apache Bench：1:概要介绍与压测示例](https://blog.csdn.net/liumiaocn/article/details/101924143)
- > 压力测试工具Apache Bench：1:概要介绍与压测示例
+ ## [Java版的7种单例模式](https://blog.csdn.net/stven_king/article/details/101759634)
+ > Java版的7种单例模式
+ ## [Java中的异常](https://blog.csdn.net/weixin_45477086/article/details/101843311)
+ > Java中的异常
+ ## [小伙子，你真的清楚 JVM GC ？](https://blog.csdn.net/ityard/article/details/101831339)
+ > 小伙子，你真的清楚 JVM GC ？
+ ## [Map集合](https://blog.csdn.net/weixin_45477086/article/details/101839189)
+ > Map集合
+ ## [深入理解 Java 虚拟机 ~ class字节码剖析](https://blog.csdn.net/johnny901114/article/details/101778619)
+ > 深入理解 Java 虚拟机 ~ class字节码剖析
+ ## [HashMap 实现原理](https://blog.csdn.net/ityard/article/details/101827845)
+ > HashMap 实现原理
+ ## [Spring Boot 整合 Redis](https://blog.csdn.net/ityard/article/details/101896088)
+ > Spring Boot 整合 Redis
+ ## [JVM 类加载机制](https://blog.csdn.net/ityard/article/details/101828456)
+ > JVM 类加载机制
+ ## [Spring Cloud Gateway 使用](https://blog.csdn.net/ityard/article/details/101898994)
+ > Spring Cloud Gateway 使用
+ ## [多线程](https://blog.csdn.net/weixin_45477086/article/details/101849756)
+ > 多线程
+ ## [Stream流](https://blog.csdn.net/weixin_45477086/article/details/101865290)
+ > Stream流
+ ## [面试官：兄弟，说说基本类型和包装类型的区别吧](https://blog.csdn.net/qing_gee/article/details/101670051)
+ > 
+ ## [Lists.patitions采坑记](https://blog.csdn.net/weixin_44867108/article/details/101765424)
+ > Lists.patitions采坑记
+ ## [Lambda表达式](https://blog.csdn.net/weixin_45477086/article/details/101864565)
+ > Lambda表达式
+ ## [线程池](https://blog.csdn.net/weixin_45477086/article/details/101863409)
+ > 线程池
 # PM 
+ ## [拼多多卖车背后的商业思考](http://www.woshipm.com/it/2937936.html)
+ > 为什么拼多多与Costco都在卖车？刨开哗众取宠的现象，这背后隐藏的商业逻辑或许更值得我们思考。在经销商体系最完善和成熟的北美，过去数年中，最大的汽车零售商是谁...
+ ## [怎样做付费会员制？](http://www.woshipm.com/pd/2936896.html)
+ > 在以人为纽带的营销模式下，经营用户成为重中之重，付费会员便是一种手段，那么，该如何设计付费会员制？这是一个全民VIP的时代。最近刷屏的是“阿里88会员”，从2018...
  ## [什么是网页设计中的滚动设计？如何进行滚动设计？](http://www.chanpin100.com/article/109690)
  > 利用好“滚动设计”，产品设计不愁
 
