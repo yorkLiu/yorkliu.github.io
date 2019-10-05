@@ -1,18 +1,28 @@
 ---
 title: 2019-10-05 IT News
 copyright: true
-date: 2019-10-05 10:01:19
+date: 2019-10-05 12:01:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [报告称 iPhone SE2 明年一季度发布 WeWork 最早本月裁员|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1570240804&ver=1893&signature=7XAs6g2YMxg6hm*3fcHPYX5A605T2fFk7aaFwq8WJ0Ts-y5rrjMfDkdcQi0rHV15kP4rdpsT8aBF-v-ip-aIT8AL5Hj1F4IETTRb3Xm-uRgUj0c7c1ZUauJSOROM6aB2&new=1)
- > 动点科技 | ID：technode精选新闻WeWork 最早本月裁员10 月 4 日消息，在 WeWork上市受挫新任管理层上台后，第一件要做的事情可能就是裁员。据国外媒体报道，公司的负责人日前告诉员工，公司最早将于本月进行裁...
- ## [华为东归，针锋相对](http://mp.weixin.qq.com/s?src=11&timestamp=1570240804&ver=1893&signature=YiT1Xz7qqJnX3ZDds6V1gSwdW5FgtcAWjfhmlujSYV0qcUM8dQ9i*k6imsbHzJuI4lfLTJI9W7yPjFvQ0O*R344VkxUyfa3adiivCyl8XB2uUY7DXQiRtSSb0pSsX-3x&new=1)
- > 华为需要做好打一场旷日持久的战争的准备。也因此，华为实际上的业务重心已经转移回了国内，期望用国内市场的空间换取国际市场的时间。作者 | 李威国际市场难见柳暗花明的时候，华为消费者业务对国内市场的倚重...
- ## [小科普|十神器!常用好用的小软件们(收藏向)](http://mp.weixin.qq.com/s?src=11&timestamp=1570240804&ver=1893&signature=HHwp***InC4uODpq8Cl5FHv1yFfwcqJ2gOZ3bR*F8PSK4lU-Y-WsadB-siNaK9sSvzynLPcQNbUkQ8OTaujbsfy3thRvMA5ofvLIScpkW7Hu8fQdyPszKMePkNw5GwjH&new=1)
+ ## [国庆献礼|网络安全普及知识视频之恶意软件的实用分析工具(五)](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=2pHn8X0sqbE**qx5krJMbLuXcpEa4PAYeer4RercJdb6iqNfW25qqhxqIlFzFY9Zr-FsRaKcn1b9IOQcx5SP6*DtRJNo9xJOal3lCc7*dJnfV531TyvsH8K5r1vKwMwI&new=1)
+ > 更多全球网络安全资讯尽在E安全官网www.easyaq.com庆祝新中国成立70周年★1949—2019★同心共筑中国梦 共创美好新时代!礼赞祖国  生日快乐！恶意软件实用分析工具（五） 电脑十分容易中病毒，但是很多人都不知道...
+ ## [命运的改变，有时只需要一辆车的到来](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=md1TFNImTRawefuMfYd89QzgYI7YHz9tXYw4Hj*1m3QXElfLWbP6uskobhr2CkJegond3awSzZ1*eAMb2-uo6*GgCnUBuvhRJ1x5bbiR5*2UvdsoqBCg-pnrHHo5gbkP&new=1)
+ > 放眼全球，仍有一半的未联接人口还徘徊在数字世界之外。以肯尼亚为例，3G网络覆盖率已达到80%，但互联网用户比例却不足50%。这些缺乏数字意识、尚未掌握数字技能的人，正逐渐被信息时代所抛弃。 幸运的是，改变...
+ ## [\[工程师大会\]专访航天科工广信智能技术有限公司方良常务副总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=aBRyU6IZ-gisYMcXFY*iChN8y54mybGSu8dJOLQCt8LOTlYQ2WGa4QatEBUKNsR*qZcvIl8sHUmkld06wfloAOGOHHI5LVeDUu-3Yq8Y7muJThU-gySSrKXR1UCLkvca&new=1)
+ > 为丰富行业工程师文化内涵，加深工程师文化理解，推广智能安防工程师文化影响，由浙江省安全技术防范行业协会主办，浙江大华技术股份有限公司协办，安防展览网承办的“2019智能安防工程师大会”将于10月10日在杭...
+ ## [同一天，微软、华为、三星，都做出了选择](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=zDUNhPdM*SGGiL8O5sJRWsWloLxmBDgYs8ho90fc8iZNcxHwxKExWbWYXB*riAwcBDZ2hXBTp6cE7gseP6-ZTAfpIPW3gp2CjZPFxRgiDOIDZoDJ3HpcceGAdefqhRP6&new=1)
+ > 点击上方↑↑↑“经济参考报”关注我选择，有时候可能只是一念之间的事。对于一家企业来说，选错了，就是在竞争中处处受制于人，丢掉市场份额，错失发展良机；而对于一个国家来说，选错了，可能就是长久的落后，...
+ ## [蚂蚁金服自研数据库打败Oracle拿下世界第一；三星手机全面退出中国；微软发布Windows 10X双屏系统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=YrfQbQfQ6uLj02RWvbmA9M0v7NCeiu25hh6UlUZHoihlcMLBoftAFJrdJ8XJVtQTb9Wrz-DvLu3qK0cbaCkXOwx2RDJ9uAKcHqCF8LmNnk5r1MgUWk03WhtmRof7q7QT&new=1)
+ > 作者 | 唐小引出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，...
+ ## [小科普|十神器!常用好用的小软件们(收藏向)](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=HHwp***InC4uODpq8Cl5FHv1yFfwcqJ2gOZ3bR*F8PSK4lU-Y-WsadB-siNaK9sSXuGMWLeZc2SnxPzXLsRFyr0Sjma7GddfR3MBDyEJnmrFNBEWFKr1YyYJlNSOAG0l&new=1)
  > 当我们的电脑被各种臃肿的软件占据，时不时跳个广告，动不动来个会员，真的很繁琐，有没有什么轻简的软件可以代替他们呢？一定是有的，今天给大家统计了各种用途的各种软件，他们虽不起眼，却可默默给省去不少麻...
- ## [2020年，智能手机拼什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1570240804&ver=1893&signature=8dKbVW7E37MOAK*7*qLy5t3SVmDn2PcoZEay9fSNqfpq9g9soQrQ-rl16-GIeSgn8uTFTwyFcBn3xFwEyprKqnsBXZaQWgcQ*WIasjc6NUBpuQTKfKlK-SXghpWgSB5Y&new=1)
+ ## [华为东归，针锋相对](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=YiT1Xz7qqJnX3ZDds6V1gSwdW5FgtcAWjfhmlujSYV0qcUM8dQ9i*k6imsbHzJuIHL8jxTNqsar-kV6L8feTGOtQldhUV7fGJ73liX*I8M4wIhQrKZcbZcFpacEPGdBN&new=1)
+ > 华为需要做好打一场旷日持久的战争的准备。也因此，华为实际上的业务重心已经转移回了国内，期望用国内市场的空间换取国际市场的时间。作者 | 李威国际市场难见柳暗花明的时候，华为消费者业务对国内市场的倚重...
+ ## [报告称 iPhone SE2 明年一季度发布 WeWork 最早本月裁员|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=7XAs6g2YMxg6hm*3fcHPYX5A605T2fFk7aaFwq8WJ0Ts-y5rrjMfDkdcQi0rHV15cV1m65ydt8F7BLHxhL2WZcLZXIQQBQmBFqMTi6hlWbIFX8kzaul4Jnqdz7IaP3dJ&new=1)
+ > 动点科技 | ID：technode精选新闻WeWork 最早本月裁员10 月 4 日消息，在 WeWork上市受挫新任管理层上台后，第一件要做的事情可能就是裁员。据国外媒体报道，公司的负责人日前告诉员工，公司最早将于本月进行裁...
+ ## [2020年，智能手机拼什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1570248003&ver=1893&signature=8dKbVW7E37MOAK*7*qLy5t3SVmDn2PcoZEay9fSNqfpq9g9soQrQ-rl16-GIeSgnl95zbgDRhvgEotXI6kSZI5AyK-QXEqL3oas9bJI9hA9Ri61MZIeTVuIxENm2hLGb&new=1)
  > 【摘要】此前的50年只是个开始，欢迎踏入2020。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：陈琪本文来源：燃财经（rancaijing）杂谈投稿邮箱：631255063@qq.com仔细打量一下你正拿着的这部手机，你
 # IT 技术 
  ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
@@ -37,61 +47,61 @@ categories: IT NEWS
  > 
  ## [用Python解决数据结构与算法问题（一）：Python基础](https://blog.csdn.net/TeFuirnever/article/details/101673308)
  > 用Python解决数据结构与算法问题（一）：Python基础
- ## [阿里资深工程师教你如何优化 Java 代码！](https://blog.csdn.net/csdnnews/article/details/100987866)
- > 阿里资深工程师教你如何优化 Java 代码！
+ ## [重磅揭晓阿里 AliOS Things 3.0 革命性创新！](https://blog.csdn.net/csdnnews/article/details/101596567)
+ > 
  ## [这些C++工程师面试题答案收藏好喽](https://blog.csdn.net/hyb612/article/details/101904738)
  > 这些C++工程师面试题答案收藏好喽
- ## [玩转 SpringBoot 2 快速整合 Listener](https://blog.csdn.net/ljk126wy/article/details/102031479)
- > 玩转 SpringBoot 2 快速整合 Listener
- ## [对学习Eclipse的思考之基本入门介绍](https://blog.csdn.net/dyq1995/article/details/101750523)
- > 对学习Eclipse的思考之基本入门介绍
+ ## [学 Java 网络爬虫，需要哪些基础知识？](https://blog.csdn.net/z694644032/article/details/102058529)
+ > 学 Java 网络爬虫，需要哪些基础知识？
+ ## [玩转 SpringBoot 2 快速整合 Filter 注解版](https://blog.csdn.net/ljk126wy/article/details/102032723)
+ > 玩转 SpringBoot 2 快速整合 Filter 注解版
+ ## [多线程编程是后台开发人员的基本功](https://blog.csdn.net/csdnnews/article/details/101731446)
+ > 多线程编程是后台开发人员的基本功
+ ## [JAVA基础（第8天抽象类）](https://blog.csdn.net/qq_44102678/article/details/101982879)
+ > JAVA基础（第8天抽象类）
+ ## [基于 raft 协议的 RocketMQ DLedger 多副本日志复制设计原理](https://blog.csdn.net/prestigeding/article/details/101629440)
+ > 
  ## [Windows下的Pycharm远程连接虚拟机中Centos下的Python环境](https://blog.csdn.net/lzc4869/article/details/78711854)
  > Windows下的Pycharm远程连接虚拟机中Centos下的Python环境
  ## [这里有一份BAT大厂Android面试超详细知识点，赶快收藏备战金九银十！](https://blog.csdn.net/weixin_44339238/article/details/101761585)
  > 这里有一份BAT大厂Android面试超详细知识点，赶快收藏备战金九银十！
- ## [玩转 SpringBoot 2 之整合 JWT 下篇](https://blog.csdn.net/ljk126wy/article/details/101374212)
- > 玩转 SpringBoot 2 之整合 JWT 下篇
- ## [\[网络安全自学篇\] 十四.Python攻防之基础常识、正则表达式、Web编程和套接字通信（一）](https://blog.csdn.net/Eastmount/article/details/101645333)
- > 
- ## [9月30日科技资讯|罗永浩与锤子手机撇清关系；微软回应「高管传奇」经历；Rust 1.38 稳定版发布](https://blog.csdn.net/weixin_39786569/article/details/101754041)
- > 9月30日科技资讯|罗永浩与锤子手机撇清关系；微软回应「高管传奇」经历；Rust 1.38 稳定版发布
+ ## [10月2日科技资讯|余承东：华为6G研发需10年；库克“iPhone 11势头强劲”；TensorFlow 2.0正式版发布](https://blog.csdn.net/weixin_39786569/article/details/101903341)
+ > 10月2日科技资讯|余承东：华为6G研发需10年；库克“iPhone 11势头强劲”；TensorFlow 2.0正式版发布
  ## [程序面试题之我见](https://blog.csdn.net/tkokof1/article/details/101788914)
  > 程序面试题之我见
- ## [深入理解 Java 虚拟机 ~ class字节码剖析](https://blog.csdn.net/johnny901114/article/details/101778619)
- > 深入理解 Java 虚拟机 ~ class字节码剖析
- ## [Java版的7种单例模式](https://blog.csdn.net/stven_king/article/details/101759634)
- > Java版的7种单例模式
+ ## [Google Chrome 正在走 Windows 的老路](https://blog.csdn.net/csdnnews/article/details/102031103)
+ > Google Chrome 正在走 Windows 的老路
 # 人工智能 
- ## [电子礼簿软件](https://blog.csdn.net/u014650759/article/details/81389951)
- > 电子礼簿软件
- ## [Maven搭建简单的spring-boot应用](https://blog.csdn.net/qq_41337581/article/details/101104189)
- > Maven搭建简单的spring-boot应用
- ## [Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！](https://blog.csdn.net/zhiwenyan/article/details/90110136)
- > Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！
- ## [IDEA导入项目各种报错问题](https://blog.csdn.net/weixin_42411818/article/details/97237005)
- > IDEA导入项目各种报错问题
- ## [Git](https://blog.csdn.net/qq_24696571/article/details/90376119)
- > Git
- ## [配置Apache Maven 3.6.1](https://blog.csdn.net/ashleyjun/article/details/101106810)
- > 配置Apache Maven 3.6.1
- ## [IDEA Unable to import maven project: See logs for details （maven的坑）](https://blog.csdn.net/Certain_/article/details/90745360)
- > IDEA Unable to import maven project: See logs for details （maven的坑）
- ## [安装和配置最新idea教程2019](https://blog.csdn.net/qq_37909508/article/details/97818824)
- > 安装和配置最新idea教程2019
- ## [阅读表](https://blog.csdn.net/sinat_36391009/article/details/83889082)
- > 阅读表
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [office2019安装与激活](https://blog.csdn.net/niumin_88/article/details/101240744)
- > office2019安装与激活
- ## [谈谈变更过程中的运维意识](https://blog.csdn.net/weixin_44127209/article/details/101283529)
- > 谈谈变更过程中的运维意识
- ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
- > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
- ## [Git-【技术干货】工作中Git的使用实践](https://blog.csdn.net/CSDN___LYY/article/details/100939749)
- > 
- ## [Xmind ZEN 安装使用与试用版的永久使用（非破解）](https://blog.csdn.net/qq_41554005/article/details/90764766)
- > Xmind ZEN 安装使用与试用版的永久使用（非破解）
+ ## [Android中实现手机获取验证码登录的功能](https://blog.csdn.net/weixin_43796132/article/details/102012427)
+ > Android中实现手机获取验证码登录的功能
+ ## [Android 安卓DataBinding（六）·双向绑定](https://blog.csdn.net/qq_40881680/article/details/102010622)
+ > Android 安卓DataBinding（六）·双向绑定
+ ## [Android 电量优化](https://blog.csdn.net/u013773608/article/details/102000670)
+ > Android 电量优化
+ ## [20191003 - 发送通知，调用摄像头](https://blog.csdn.net/weixin_41654311/article/details/101982099)
+ > 20191003 - 发送通知，调用摄像头
+ ## [Android 安卓DataBinding（五）·单向绑定 ObservableCollection（集合使用）](https://blog.csdn.net/qq_40881680/article/details/101993642)
+ > Android 安卓DataBinding（五）·单向绑定 ObservableCollection（集合使用）
+ ## [Android recyclerview+HttpURLconnection+Gson+handler 加载网络图片](https://blog.csdn.net/qq_29478763/article/details/102011578)
+ > Android recyclerview+HttpURLconnection+Gson+handler 加载网络图片
+ ## [浅谈android应用之测试之道](https://blog.csdn.net/angelsmiling/article/details/101849487)
+ > 浅谈android应用之测试之道
+ ## [Deepin15.11初体验及问题解决](https://blog.csdn.net/ysy950803/article/details/101990720)
+ > Deepin15.11初体验及问题解决
+ ## [【Android Studio】使用OkHttp遇到的问题分析 闪退等](https://blog.csdn.net/tran_sient/article/details/102093273)
+ > 【Android Studio】使用OkHttp遇到的问题分析 闪退等
+ ## [iOS - 修改UserAgent (WKWebView & UIWebView)](https://blog.csdn.net/siwen1990/article/details/102069410)
+ > iOS - 修改UserAgent (WKWebView &amp; UIWebView)
+ ## [Android Studio《第一行代码》学习1——调用摄像头和相册](https://blog.csdn.net/zerozff/article/details/101980543)
+ > Android Studio《第一行代码》学习1——调用摄像头和相册
+ ## [Android自学 -- 回调函数](https://blog.csdn.net/Furrain/article/details/102002959)
+ > Android自学 -- 回调函数
+ ## [adb学习笔记——>第1节：adb指定目标设备](https://blog.csdn.net/weixin_43184774/article/details/102080675)
+ > adb学习笔记——&gt;第1节：adb指定目标设备
+ ## [kotlin RecyclerView 显示后台数据 参考](https://blog.csdn.net/yineng7758258/article/details/102080981)
+ > kotlin RecyclerView 显示后台数据 参考
+ ## [迅雷ios版下载beta](https://blog.csdn.net/ncaai/article/details/102095193)
+ > 迅雷ios版下载beta
 # PM 
  ## [私域流量地图的玩法和底层逻辑解析](http://www.woshipm.com/operate/2935326.html)
  > 本文笔者对私域流量知识图谱进行了梳理拆解，并结合相关案例分析，给出了自己的看法。私域流量只是一个概念，很早以前就有人明白这个概念，但聪明的人都不会讲出来，...
