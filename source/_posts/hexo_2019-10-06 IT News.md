@@ -1,24 +1,30 @@
 ---
 title: 2019-10-06 IT News
 copyright: true
-date: 2019-10-06 10:01:10
+date: 2019-10-06 12:01:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [盖世汽车发布《高精度地图产业报告》(2019版)](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=mkucBBm8IcApqj71E6df76jp*7RJDG-SeNA1kV77cwRs171ikY3f4s9AYvmSHsMSFCj9oU5za5ypmBBqpJ1zcM4pxu1JFfsB05A8cWAyNmtqIu1TNZFg4tMJ5*rh2GGL&new=1)
- > 自动驾驶已成为全球车企发展的重要方向，各大车企积极进行布局。自动驾驶的发展带动了高精度地图的快速增长，作为实现自动驾驶的关键能力之一，其将成为对自动驾驶现传感器的有效补充，从而提升车辆定位精度、感...
- ## [联通5G最低资费曝光 网友：我还是用4G吧](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=caQU8FQrAOimJ4OHTVpW-8fA1KMqd-7jiak0uvdRGyqSk99rNl5BNL-O49e70Nymu824ugdLv44ZZ64wgA8QRUmt7AKKYtAxD6Bc43KPR4wy3-GujNjytAlTSO3XKHLM&new=1)
- > 5G商用进程不断加快，各大运营商也纷纷做好了准备，即将推出5G套餐。今日，微博上曝光了联通5G一款最低资费套餐。曝光的截图显示，该套餐月租为199元，包含500分钟全国语音+40G全国流量，网络速率为500Mbps。超...
- ## [Win10X开始菜单更好看?众多用户要求微软将这种开始菜单带到普通版里](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=4uPZjCRzUnz6Ax7ipoXvZ9f9NUfelyzI6XUqdKg1djNn66oC1BGTMr3coE6yJb0ZoSZCbSrrMqw0sKuCSDNqC6w-h*hZ8CAERSp4cvFBw28TG29Cwrv914l-GMXujK0z&new=1)
+ ## [5G 套餐最快本月开售；谷歌被指骗取人脸数据；Calibre 4.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=EGPMhgckdYpz6j*YMgawFx54XGXhM2binUNNJeGZ2G8SwPyuAirpbNRoRsaCeR2urHPFWftPrShr6viWVyxNmIhRcqbh8-bm51hIJBqrWbbxNjtjyRZLjs*WohUC9uXP&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [\[工程师大会\]专访杭州兴达电器工程有限公司曹国兴董事长](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=DN9RpjiYG1*ZehHKrk2-aM2cZL0B5k8GimSIO2GSnjAdwq5h88oj7s3GA3wcgKCQ7Ru9hFt27kKX8FolUUmBjGdp3q8tnEPbUI-xQCszSE5g--Ei3PZTvNAjIEAUJljs&new=1)
+ > 为丰富行业工程师文化内涵，加深工程师文化理解，推广智能安防工程师文化影响，由浙江省安全技术防范行业协会主办，浙江大华技术股份有限公司协办，安防展览网承办的“2019智能安防工程师大会”将于10月10日在杭...
+ ## [Win10X开始菜单更好看?众多用户要求微软将这种开始菜单带到普通版里](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=4uPZjCRzUnz6Ax7ipoXvZ9f9NUfelyzI6XUqdKg1djNEKyG0TIrH8j8SctYbJOPLLigFmiY3lQAb5UCETC1Sfen*A5mFC5rwEyIk6Kyqv15tvb-lr8bzG5W-MAPEJK6M&new=1)
  > 微软本周早些时候正式宣布Windows 10X 专版，这个版本是给具有双屏幕或可折叠屏幕设备专门构建的特殊版。在此前蓝点网也报道过这个版本，当时我们称之为Windows 10轻量版，去除臃肿组件为用户提供更流畅的体验。...
- ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=9Xh*dl1*QbzM*yYDNTeJwJYXhprExh3rXJjP0wx4Ylw0*eD9uQZqVtVqrbQ*bZW-*5RfWhDh87EL*xn18a*w*nMHayvUc15aAI282QHQ8aUsQNcsvshQmId4dR5SEUlU&new=1)
+ ## [盖世汽车发布《高精度地图产业报告》(2019版)](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=mkucBBm8IcApqj71E6df76jp*7RJDG-SeNA1kV77cwSo9Hz*wi7vKyksvwi7dfedcQ53b-Ek*gLsx6o6js-gicEPngFqZzAZXksPncKl2t24SlaAvgrvrOJOW5fpI-rB&new=1)
+ > 自动驾驶已成为全球车企发展的重要方向，各大车企积极进行布局。自动驾驶的发展带动了高精度地图的快速增长，作为实现自动驾驶的关键能力之一，其将成为对自动驾驶现传感器的有效补充，从而提升车辆定位精度、感...
+ ## [安卓系统曝出零日漏洞，将影响多款知名品牌手机](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=zYwbV6JwKG-ntXRa8TOqSXFaazL2pCSzSAO9QHedgan9HgRSOGVwojLnt-aw*DnRtB8hy4SNZ59SvBCXw7lGpZs9hPYxi*oOs9YvvXJm8YWL22cFNuXldgcdUxeqyxVK&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，近日，谷歌Project Zero的研究人员披露了安卓系统中的一处零日漏洞（CVE-2019-2215），或将允许黑客完全接管受害者设备。现已有18种
+ ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=9Xh*dl1*QbzM*yYDNTeJwJYXhprExh3rXJjP0wx4Ylwoq4yASPuxJKoOvpdRsQPZg3BtXOEbGbOvS9cObgYM-iKmfX4yDmZevKSaHr7noMeAA4jz2KGCNDxdZLRcea4p&new=1)
  > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《企业领袖新思维》免费关注关注后回复 学习 免费领取：苏引华《总裁商业思维》课程视频你一定知道华为，但可能还不知道华为有多厉害。一句话说：华为去年...
- ## [独家：中国广电2020年规模建5G网 首个试验网10月开通](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=YnBAn9MKvx5kzPVTLDBEN2HnsMze6SJMxQGLT2tHW3u5TtW7iEy3v*te5WjtT89VIO0QpPVbETfIbE*0qES8g1u-bPDTJuHmo9udXsx9dJR6qniMLk4yUHj4OCCnuCOb&new=1)
+ ## [联通5G最低资费曝光 网友：我还是用4G吧](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=caQU8FQrAOimJ4OHTVpW-8fA1KMqd-7jiak0uvdRGyp6dAYKDIfJ6j8E93aUUGsRwmW0taobSkw3y76IAzItyDh-lCsHnQob*HUz*hky9TmdWNDyf11Rh9YUlnUGndEx&new=1)
+ > 5G商用进程不断加快，各大运营商也纷纷做好了准备，即将推出5G套餐。今日，微博上曝光了联通5G一款最低资费套餐。曝光的截图显示，该套餐月租为199元，包含500分钟全国语音+40G全国流量，网络速率为500Mbps。超...
+ ## [独家：中国广电2020年规模建5G网 首个试验网10月开通](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=YnBAn9MKvx5kzPVTLDBEN2HnsMze6SJMxQGLT2tHW3tANkvCk0LCaP15S6n1fBuKKj9NNuSSCS0KWbDnC6BhxtYlixQNvw6XlLjBbqklZnJmJAVvRWYkzM6nk4eIXPfP&new=1)
  > 运营商财经网 方悦/文近日，网上流传的一份《中国广电5G试验网的建设实施方案》透露，中国广电将与各地网络公司一道加速推进建设实施工作，拟于2019年底前基本完成试验网络建设与业务测试，并于2020年开启规模建...
- ## [裁员9000人!又一科技巨头突然陨落!](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=upt048zLM*14nqgAmE79Kq2Ruzr0Vpqxx6fLsLa-M76-h2aUsbUWhpB97Oumr8*Un*djGatuabUo4yQbCVy8fH-2EwK-hCj5roPapu5MDyJeAjmr8EydXt2MtghcvTAR&new=1)
+ ## [裁员9000人!又一科技巨头突然陨落!](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=upt048zLM*14nqgAmE79Kq2Ruzr0Vpqxx6fLsLa-M75fyja3KBKMmlhdUZJiLQJmb8fMN4p8wyyMHyE5oWl8OR2kmkdWvzBcM1x-1DX58XJcCrilkGvFnajYACXQnX6D&new=1)
  > 一过去一年，股价累计下滑了36%！裁员9000人，员工缩水达16%！血流成河！这家看似岌岌可危的公司是哪家？说起来也许你不信，这就是曾经如日中天的老牌科技企业——惠普（HP）！！10月4日，惠普盘中一度暴跌逾10....
- ## [苹果公司新增800万部 iPhone11 PayPal宣布退出Libra|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1570327204&ver=1895&signature=eujT*LtJq3dgZTn1P*V59qyjR-PQDUQ7-euup-cSTvtxBy2mTYiw1WX5c3C0CgzCEGdsihPpd7YiDfhTx3csNeWgYhDcTKLLp76aTOOsZeZWMrvDRUeRGhn3N*cdmfGo&new=1)
+ ## [苹果公司新增800万部 iPhone11 PayPal宣布退出Libra|晚报](http://mp.weixin.qq.com/s?src=11&timestamp=1570334404&ver=1895&signature=eujT*LtJq3dgZTn1P*V59qyjR-PQDUQ7-euup-cSTvtna5ntOFsCmZaKuwhWKTURJGOMQPGo2uUPE9k02CQG03nLyAyzIa48zpG98BQyit304vcZDgOgvkAPslzFISnf&new=1)
  > 动点科技 | ID：technode精选新闻PayPal宣布退出Libra：继续就未来合作方式进行对话10 月 5 日讯 PayPal 表示，它决定将放弃参与 Facebook(180.56, 1.18, 0.66%) 旗下加密货币 Lib
 # IT 技术 
  ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
@@ -70,34 +76,34 @@ categories: IT NEWS
 # 人工智能 
  ## [10月4日科技资讯|拼多多回应“商家发二选一微博”；Facebook 内部会议泄露音频；Rust 1.38 稳定版发布](https://blog.csdn.net/weixin_39786569/article/details/102052275)
  > 
- ## [【Linux】循序渐进学运维-学习方法篇](https://blog.csdn.net/xinshuzhan/article/details/102018544)
- > 【Linux】循序渐进学运维-学习方法篇
- ## [我们该如何高效的学习](https://blog.csdn.net/qq_23853743/article/details/90226411)
- > 我们该如何高效的学习
- ## [（一）Python3 爬虫基本知识和爬虫常用的库和方法](https://blog.csdn.net/qq_42632840/article/details/101866420)
- > （一）Python3 爬虫基本知识和爬虫常用的库和方法
- ## [『TensorFlow2.0正式版教程』极简安装TF2.0正式版（CPU&GPU）教程](https://blog.csdn.net/xiaosongshine/article/details/101844926)
+ ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
+ > C语言实现推箱子游戏
+ ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
  > 
- ## [深度学习秋招面试题集锦（一）](https://blog.csdn.net/sinat_35512245/article/details/101927029)
- > 
- ## [Python爬虫（一）：爬虫伪装](https://blog.csdn.net/ityard/article/details/102012691)
- > Python爬虫（一）：爬虫伪装
- ## [概率机器人学习笔记第二章](https://blog.csdn.net/weixin_43959160/article/details/102075961)
- > 概率机器人学习笔记第二章
- ## [局域网SDN技术硬核内幕 二 从软件Overlay到硬件Overlay](https://blog.csdn.net/u014145183/article/details/101986739)
- > 局域网SDN技术硬核内幕 二 从软件Overlay到硬件Overlay
- ## [不等式杂谈](https://blog.csdn.net/Xiaolu_Yiren/article/details/102074317)
- > 不等式杂谈
- ## [Python3.x列表及方法](https://blog.csdn.net/csdn_changsha/article/details/101976034)
- > Python3.x列表及方法
- ## [Google离开我们快十年了](https://blog.csdn.net/david_lv/article/details/101442722)
- > Google离开我们快十年了
- ## [Machine Learning | 基于逻辑回归做二分类进行癌症预测](https://blog.csdn.net/u012325865/article/details/102001398)
- > Machine Learning | 基于逻辑回归做二分类进行癌症预测
- ## [用海龟画一个国旗](https://blog.csdn.net/qq_45502098/article/details/101835868)
- > 用海龟画一个国旗
- ## [Jupyter结合pyechart安装的跳坑小指南（结合自己遇到的问题给大家节省些许时间）](https://blog.csdn.net/qq_44171096/article/details/101992372)
- > Jupyter结合pyechart安装的跳坑小指南（结合自己遇到的问题给大家节省些许时间）
+ ## [为什么要学习C++](https://blog.csdn.net/weixin_45483906/article/details/101931902)
+ > 为什么要学习C++
+ ## [汉诺塔游戏，可以玩](https://blog.csdn.net/qq_43705854/article/details/102138416)
+ > 汉诺塔游戏，可以玩
+ ## [写个最简单的植物大战僵尸修改器吧！c和python](https://blog.csdn.net/weixin_44286745/article/details/102163714)
+ > 写个最简单的植物大战僵尸修改器吧！c和python
+ ## [FileZailla在windows云服务器上的使用（连接服务器失败的问题）](https://blog.csdn.net/qq_44983621/article/details/102135822)
+ > FileZailla在windows云服务器上的使用（连接服务器失败的问题）
+ ## [第一天](https://blog.csdn.net/qq_42715520/article/details/102141780)
+ > 第一天
+ ## [【题解】BZOJ2084  Antisymmetry](https://blog.csdn.net/zhuchangcheng1003/article/details/102165103)
+ > 【题解】BZOJ2084  Antisymmetry
+ ## [小项目-python和c++练习](https://blog.csdn.net/sxf1999/article/details/102153684)
+ > 小项目-python和c++练习
+ ## [NOIP2018 解题报告](https://blog.csdn.net/iamhpp/article/details/102158316)
+ > NOIP2018 解题报告
+ ## [2019牛客国庆集训派对day1 D Modulo Nine    dp](https://blog.csdn.net/weixin_42757232/article/details/102134547)
+ > 2019牛客国庆集训派对day1 D Modulo Nine    dp
+ ## [【洛谷】P1118数字三角形](https://blog.csdn.net/qq_43290318/article/details/102131328)
+ > 【洛谷】P1118数字三角形
+ ## [“列表+循环”模拟“报数选猴王”小游戏](https://blog.csdn.net/weixin_45221012/article/details/102070106)
+ > “列表+循环”模拟“报数选猴王”小游戏
+ ## [国庆六日游——第一天第一题](https://blog.csdn.net/weixin_45715884/article/details/102159790)
+ > 国庆六日游——第一天第一题
 # PM 
  ## [从4个角度，看快消品 B2B 的核心价值](http://www.woshipm.com/marketing/2940557.html)
  > 目前快消品B2B进入理性发展时期，在这个时期，不论是品牌商、经销商、还是平台商都需要更理性的思考到底B2B的核心价值是什么，应该怎么去做好B2B。一、什么是B2B？前...
