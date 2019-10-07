@@ -1,21 +1,21 @@
 ---
 title: 2019-10-07 IT News
 copyright: true
-date: 2019-10-07 09:00:58
+date: 2019-10-07 10:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [暴跌36%，裁员9000人，昔日科技巨鳄突然陨落，又是一场风暴!](http://mp.weixin.qq.com/s?src=11&timestamp=1570410004&ver=1897&signature=ZFjjsZ6Uzc9DSaUQphXR8a4Mcax5pD4oYP4mPojgMVKo5NvAKiAlhnahFZe4Wo77CBF5X8E15pK-Gl8qBLTM2YAzDB92Iydj9EmCaTORZA2rGKFMDUNvB5VesifIwktx&new=1)
- > 作者 | 要参君来源 | 财经要参（ID：mofzpy）一过去一年，股价累计下滑了36%！裁员9000人，员工缩水达16%！血流成河！这家看似岌岌可危的公司是哪家？说起来也许你不信，这就是曾经如日中天的老牌科技企业——惠...
- ## [内部材料曝中国广电5G试验网规划：投24.9亿元年底前在16个城市试点](http://mp.weixin.qq.com/s?src=11&timestamp=1570410004&ver=1897&signature=3gMCqWhoCDYRo7iBcquU0OpG0lvyjKCXaw2zQmFcooAeUBF6XmLwgCtXIXLnx6zNyVgkA4T8v4BBvisQVSIbUo0oAFCUNzV59MPkJzUduqqjktHJgfYIr5FF8ngDdr0g&new=1)
+ ## [内部材料曝中国广电5G试验网规划：投24.9亿元年底前在16个城市试点](http://mp.weixin.qq.com/s?src=11&timestamp=1570413604&ver=1897&signature=3gMCqWhoCDYRo7iBcquU0OpG0lvyjKCXaw2zQmFcooAeUBF6XmLwgCtXIXLnx6zN**Tv2iESTeFWMy7QafOh2a*ZC3gW7mQd1PXajY3hpu1Txzp*s3M26CFmZD48UNvo&new=1)
  > 运营商财经网 方悦/文近日，运营商财经网独家获悉中国广电一份内部材料，文件透露了诸多内幕消息，包括中国广电5G试验网的建设实施方案，分为试验网和规模建网两大阶段。此前今年6月，5G商用牌照正式发放之后，...
- ## [汽车必备英语词汇](http://mp.weixin.qq.com/s?src=11&timestamp=1570410004&ver=1897&signature=Oyi*kOiNnj*373zbL5FEzH3wfkEQtZYbsVxOWdO-pik9t48427Svrw8UApjs8DeCoLHYSA15eEi9hIHCN4UjvcDJbPchGhqjN4AZbuClfwlXECFacEdvIDAmopFDtt4X&new=1)
+ ## [汽车必备英语词汇](http://mp.weixin.qq.com/s?src=11&timestamp=1570413604&ver=1897&signature=Oyi*kOiNnj*373zbL5FEzH3wfkEQtZYbsVxOWdO-pik9t48427Svrw8UApjs8DeCD2kMomYc*HwBsBgE51VI4SVLp8oXC7jG-XsYyRD*HK2T5G9T-da79LrxxN6XsCxt&new=1)
  > 文│英文小贴士重磅推荐需要批量下载和及时更新最新汽车行业分析报告的朋友，可以加入我们的《车友圈》分享会，大量的中外文精品汽车行业分析报告及各类专题资料将会优先分享到车友圈中，加入即可下载全部报告...
- ## [联通 5G 套餐公布，看了这价格，4G真香!](http://mp.weixin.qq.com/s?src=11&timestamp=1570410004&ver=1897&signature=jXiOA9cmVmk0V9VCzSEhorhv9LiblClas8wpT*aawbXt8Hhj6YjX4lGoU204LBcKDbzxzPEmFjggWb2qH0FRR3sS8w4Mj8MYlPHcIGfZNupzwHT4Bkn-Cd7sxb-Z-FwA&new=1)
+ ## [联通 5G 套餐公布，看了这价格，4G真香!](http://mp.weixin.qq.com/s?src=11&timestamp=1570413604&ver=1897&signature=jXiOA9cmVmk0V9VCzSEhorhv9LiblClas8wpT*aawbXt8Hhj6YjX4lGoU204LBcKFFGI*uKmGhbE-TPUP7KgS9dQPvGOX9eYKxn9Ydj2AYAdOI-MKSkkKTivglFPwFjx&new=1)
  > Hi 大家晚上好，我是机哥随着现在5G网络的建设，国内各大终端厂商5G手机的发布，距离我们使用5G越来越近，大家关心的还是资费问题。近日，看到网上公布的联通5G资费价格，这里给大家说一下，据公布的图片来看，5...
- ## [Surface Duo或可运行UWP应用](http://mp.weixin.qq.com/s?src=11&timestamp=1570410004&ver=1897&signature=LQhWG*Px8LcHt5spyfHaDlyiFKkSvTBLyt*cw2MyIJijkuN9K93LwdkcBzsiqKZ26TwefykCu*vc2VjV4lV7-dXa86pvn6H43IqyIhNJZOZOyx74uvKcKb6aq2vcCb2U&new=1)
+ ## [Surface Duo或可运行UWP应用](http://mp.weixin.qq.com/s?src=11&timestamp=1570413604&ver=1897&signature=LQhWG*Px8LcHt5spyfHaDlyiFKkSvTBLyt*cw2MyIJijkuN9K93LwdkcBzsiqKZ2jTpddcscd*EjFtEULrk*wGbWiAYr9t6cd9oonoh8s6ws5GWFV826PauqF2QXcMKX&new=1)
  > 微软在10月2日的发布会上公布搭载Android系统的“Andromeda硬件”Surface Duo，虽然广受关注，但却让许多UWP开发者无奈。开发者Gianfranco Percopo在推特向@windowsdev账号抱怨了Surfac
+ ## [暴跌36%，裁员9000人，昔日科技巨鳄突然陨落，又是一场风暴!](http://mp.weixin.qq.com/s?src=11&timestamp=1570413604&ver=1897&signature=ZFjjsZ6Uzc9DSaUQphXR8a4Mcax5pD4oYP4mPojgMVKo5NvAKiAlhnahFZe4Wo77*vza6qtt1g3Ore*FehZ09cJm99ngYeds7hSSnGP*zPowdbX*sla-Ush5tKBZErzl&new=1)
+ > 作者 | 要参君来源 | 财经要参（ID：mofzpy）一过去一年，股价累计下滑了36%！裁员9000人，员工缩水达16%！血流成河！这家看似岌岌可危的公司是哪家？说起来也许你不信，这就是曾经如日中天的老牌科技企业——惠...
 # IT 技术 
  ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
  > 用Python偷偷告诉你国庆8亿人都去哪儿浪？
@@ -33,66 +33,41 @@ categories: IT NEWS
  > 如何使用Docker-Compose命令
  ## [你不知道自己需要的7个Visual Studio Code扩展](http://developer.51cto.com/art/201909/602846.htm)
  > 你不知道自己需要的7个Visual Studio Code扩展
- ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
- > C语言实现推箱子游戏
- ## [10个经典智力推理题！据说答对7道，智力在140！](https://blog.csdn.net/qq_23853743/article/details/90626243)
- > 10个经典智力推理题！据说答对7道，智力在140！
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
- ## [第二弹！python爬虫批量下载高清大图](https://blog.csdn.net/qq_40693171/article/details/102220448)
- > 第二弹！python爬虫批量下载高清大图
- ## [阿里资深工程师教你如何优化 Java 代码！](https://blog.csdn.net/csdnnews/article/details/100987866)
- > 阿里资深工程师教你如何优化 Java 代码！
- ## [STM32F103+RTT从零开始（三）—— S50门禁卡复制](https://blog.csdn.net/junzia/article/details/102224285)
- > STM32F103+RTT从零开始（三）—— S50门禁卡复制
- ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
- > 
- ## [94. Python中文件的多种读取操作](https://blog.csdn.net/qq_43687755/article/details/100674335)
- > 94. Python中文件的多种读取操作
- ## [为什么我不建议你在当前购买 5G 手机](https://blog.csdn.net/baron_leizhang/article/details/101793324)
- > 为什么我不建议你在当前购买 5G 手机
- ## [学Linux到底学什么](https://blog.csdn.net/hyb612/article/details/101561520)
- > 
- ## [Google离开我们快十年了](https://blog.csdn.net/david_lv/article/details/101442722)
- > Google离开我们快十年了
- ## [程序员的"假期生活"](https://blog.csdn.net/qihoo_tech/article/details/101805230)
- > 程序员的&quot;假期生活&quot;
- ## [“不给钱就删库”的勒索病毒， 程序员该如何防护？](https://blog.csdn.net/csdnnews/article/details/101189434)
- > 
- ## [你不知道的国庆小知识](https://blog.csdn.net/qq_36772866/article/details/101878491)
- > 你不知道的国庆小知识
- ## [抽象是邪恶的，代码是反邪恶的，整洁代码是神圣的…](https://blog.csdn.net/duxinshuxiaobian/article/details/101761319)
- > 抽象是邪恶的，代码是反邪恶的，整洁代码是神圣的…
 # 人工智能 
- ## [BUUCTF web writeup](https://blog.csdn.net/qq_43342566/article/details/90756782)
- > BUUCTF web writeup
- ## [Rabbit MQ【安装和基本概念】](https://blog.csdn.net/CHENFU_ZKK/article/details/97167858)
- > Rabbit MQ【安装和基本概念】
- ## [课程设计 动态表达式求值](https://blog.csdn.net/qq_33831360/article/details/94640895)
- > 课程设计 动态表达式求值
- ## [Spark/ Hadoop/Hbase/Hive问题解决整理](https://blog.csdn.net/u010707315/article/details/95186440)
- > Spark/ Hadoop/Hbase/Hive问题解决整理
- ## [2019年7月最新可用KMS激活服务器地址](https://blog.csdn.net/weixin_42588262/article/details/81120403)
- > 2019年7月最新可用KMS激活服务器地址
- ## [百度网盘不限速下载 2019-07-11](https://blog.csdn.net/ZC_XY/article/details/90345894)
- > 百度网盘不限速下载 2019-07-11
- ## [迅雷 应版权方要求，文件无法下载 解决方法](https://blog.csdn.net/bookanddream/article/details/97562276)
- > 迅雷 应版权方要求，文件无法下载 解决方法
- ## [IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）](https://blog.csdn.net/weixin_43272781/article/details/100858230)
- > IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）
- ## [POJ1961 Period KMP](https://blog.csdn.net/weixin_45508368/article/details/100604410)
- > POJ1961 Period KMP
- ## [分享各大CMS采集资源站网址合集](https://blog.csdn.net/qq_41684621/article/details/96766877)
- > 分享各大CMS采集资源站网址合集
- ## [linux安装mysql](https://blog.csdn.net/qq_41457389/article/details/96477618)
- > linux安装mysql
- ## [zeppelin安装使用](https://blog.csdn.net/weixin_42411818/article/details/100186691)
- > zeppelin安装使用
- ## [网页分享到微信、微博、QQ，QQ空间，豆瓣等等函数的封装](https://blog.csdn.net/qq_41810005/article/details/100762049)
- > 网页分享到微信、微博、QQ，QQ空间，豆瓣等等函数的封装
- ## [H5 牛牛完整搭建教程](https://blog.csdn.net/heli_lieren/article/details/77895745)
- > H5 牛牛完整搭建教程
- ## [YEditor 开源在线编辑器环境搭建](https://blog.csdn.net/m0_37696990/article/details/91038957)
- > YEditor 开源在线编辑器环境搭建
+ ## [Java版的7种单例模式](https://blog.csdn.net/stven_king/article/details/101759634)
+ > Java版的7种单例模式
+ ## [\[网络安全自学篇\] 十五.Python攻防之多线程、C段扫描和数据库编程（二）](https://blog.csdn.net/Eastmount/article/details/102138329)
+ > \[网络安全自学篇\] 十五.Python攻防之多线程、C段扫描和数据库编程（二）
+ ## [Java内存模型](https://blog.csdn.net/ThinkWon/article/details/102073578)
+ > Java内存模型
+ ## [【flask】Restful风格的文章](https://blog.csdn.net/qq_38875300/article/details/102091935)
+ > 【flask】Restful风格的文章
+ ## [计算机虚拟化+网络](https://blog.csdn.net/qq_36478773/article/details/102083508)
+ > 计算机虚拟化+网络
+ ## [4、木马防范：木马分析检测及常见木马防护工具](https://blog.csdn.net/qq_42257049/article/details/102097384)
+ > 4、木马防范：木马分析检测及常见木马防护工具
+ ## [Web安全：Where to begin?](https://blog.csdn.net/weixin_43249758/article/details/102023306)
+ > Web安全：Where to begin?
+ ## [Mysql数据库是否发生死锁？死锁的场景](https://blog.csdn.net/Hpsyche/article/details/102076870)
+ > Mysql数据库是否发生死锁？死锁的场景
+ ## [【分布式理论】之 拜占庭式将军问题](https://blog.csdn.net/fanfan4569/article/details/102055988)
+ > 【分布式理论】之 拜占庭式将军问题
+ ## [2-渗透测试术语](https://blog.csdn.net/qq_43200775/article/details/102085408)
+ > 2-渗透测试术语
+ ## [JS基础知识整理04-一些零散的知识点](https://blog.csdn.net/weixin_44586318/article/details/102068866)
+ > JS基础知识整理04-一些零散的知识点
+ ## [Maya多版本下载和安装](https://blog.csdn.net/COCO56/article/details/90449856)
+ > Maya多版本下载和安装
+ ## [一灯大师：一点就是好几年](https://blog.csdn.net/m0_37221216/article/details/102084597)
+ > 一灯大师：一点就是好几年
+ ## [1、病毒查杀：常见杀毒软件的安装、配置和病毒查杀](https://blog.csdn.net/qq_42257049/article/details/102096494)
+ > 1、病毒查杀：常见杀毒软件的安装、配置和病毒查杀
+ ## [分布式微服务专栏008(springboot中集成BCrypt密码加密& jjwt&自定义注解(拦截器))](https://blog.csdn.net/weixin_39200308/article/details/102078125)
+ > 分布式微服务专栏008(springboot中集成BCrypt密码加密&amp; jjwt&amp;自定义注解(拦截器))
+# PM 
+ ## [关于流量系统的进阶思考](http://www.woshipm.com/operate/2940538.html)
+ > 笔者结合实际案例，对流量系统进行了探讨与分析。立足宏观角度，从多个方面拆解了流量系统框架并给出了自己的思考。01我对于引流的观念其实就是精准，当然，我在新产...
+ ## [欧洲为何没有牛逼的互联网公司](http://www.woshipm.com/it/2937612.html)
+ > 全球市值最大的互联网公司里，没有欧洲公司的身影。但是，能凭此说明欧洲互联网不行吗？截至2018年底，全球市值最大的21家互联网科技公司里边，美国有12家，中国有9家...
 
     
