@@ -1,7 +1,7 @@
 ---
 title: 2019-10-08 IT News
 copyright: true
-date: 2019-10-08 10:00:57
+date: 2019-10-08 12:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,104 +35,156 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [扎克伯格采访：VR仍然小众，Quest优势持续到明年](http://mp.weixin.qq.com/s?src=11&timestamp=1570500004&ver=1899&signature=EpJNlJEZGgb417*Cpt1r*I-xqRS8Iglhuhn9yGZDfE*xt6I1LmrkDKe5NXQJKFEJqQidDltgzojWztYuh1MVu4rfVQWaaACxVtVy2inYRAf*stkdsbPVbd0GdMFM5OUA&new=1)
- > Esther｜ 编辑此前，青亭网常报道Facebook高管接受外媒采访，而CEO Mark Zuckerberg却很少就VR/AR接受采访。而近期在OC6大会期间，外媒Cnet拜访了Facebook位于硅谷的MPK 21总部，不仅现场体验了
- ## [大山重压之下，运营商需要停火](http://mp.weixin.qq.com/s?src=11&timestamp=1570500004&ver=1899&signature=5sBWqaDWsABRiECJdfwcqgB1WiaFlDoMBZxRw0vPvZ*jzHSQzgFbV3XCpbIMqrMusncMHQ6iAPzvT1yusv-dWW04IinYnS04eSCAfezwPgRFnyzWN7u0rVRxeLH4Ldi-&new=1)
- > 通信行业内最近出现了2019年5G投资和建设风向可能已经转变的传闻。暂且不论传闻的真假，单就通信行业当前所遇的困境局面，运营商竞争与合作的关系就需要重构。1多重大山重压通信行业通信行业不断被管道化这已经...
- ## [\[科技早报7点整\]传音回应被华为起诉 Model S和X电池组缺陷可能引发火灾被调查……](http://mp.weixin.qq.com/s?src=11&timestamp=1570500004&ver=1899&signature=8HdEMl70jY6aygdVnBmfj7ceijrq6RWS1ivllSAcGQtjXFEw6FIG2AUNlbULykAqVdvghAjQdlLtA*UOj0jTa6wo58E4iTgQ2YnYpqN5eF4cnzvQxNlHKEsJc46mu8Tl&new=1)
- > 早上好，科技圈【一度蜜科技早报】第606期1.传音回应被华为起诉：涉案金额2000万元传音披露被华为起诉细节，涉案金额2000万元，已立案，暂未开庭审理。传音控股于9月29日，即上市前一天收到诉状。原告华为称，其...
- ## [硅谷程序员的回归能拯救印度“芯”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570500004&ver=1899&signature=RPyBLMzSi3RLxtAB*ycVptuNUyQuZBtacV4bPu5-H5jSMxdCm47-kXvWENu5Y1cI6qNWDRfL8u0BdcZQx5gRqT6AvAIlbMbBEJceFDJKLgO7yRI*idE56uqlKa54o0Xz&new=1)
- > 作者 |  藏狐责编 | 刘静本文经授权转载自脑极体（ID：unity007）硅谷有个段子，集成电路(integrate circuit)的英文缩写IC，其实是印度(India)与中国(China)两个国家的英文首字母。因为来自中国、印度的
- ## [曝河北移动卷入一严重纠纷 被判赔付一家设备商1.05亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1570500004&ver=1899&signature=wBX84IIoGjwjVtJN5kYaML0eGnphfzb6sGOeXun8tgcPFMoflsTfqonhYuvl5CHAZZ2zglspx7f9U*P72AAkvKDEtr8SYl1*Bc1p7ofD*9MC-rkqftHTYBTne1DfmmgU&new=1)
+ ## [警惕!黑客可利用应用程序窃听你的语音通话……](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=FF5yrhVdTP9SzEgsxWwDbEOP3oZwWhQHiAju*OtWtYG2MF-JBX8sDnixmhura88Mb*WVwcfWFk8o3j5kHlaeVt2thsma0alazpaYfzAKtGytudu4Rv-rwZKhslFGNVGK&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，近日谷歌Project Zero的研究人员披露，安卓版Signal messaging应用中出现了一处逻辑漏洞。该漏洞允许黑客在受害者不知情的情况下命
+ ## [曝河北移动卷入一严重纠纷 被判赔付一家设备商1.05亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=wBX84IIoGjwjVtJN5kYaML0eGnphfzb6sGOeXun8tgcPFMoflsTfqonhYuvl5CHAkZ4-XQ-4U6D3230Ws2W-sYF6lmLqwdhTbFmfAJ1rsNQ2Rl2XpKf15zSP2WqH2esS&new=1)
  > 运营商财经网  汪莹/文近日，中国优通发布公告称，继公司刊发日期为2019年8月28日的公告后，并无向石家庄仲裁委员会及其他仲裁委员会呈交针对中国移动通信河北公司的经修订申请。于公告日期，河北昌通已申请就针...
- ## [预约用户数超900万，全球最大规模5G即将诞生](http://mp.weixin.qq.com/s?src=11&timestamp=1570500004&ver=1899&signature=R4Lu1ElsuKMKJkEj0JbaCSLYwx2lGueq1G*vRfUt7OeM5rB-UCtVjLSe5jVv0ohdWDoN9-AeMKT5WD6C2gqdKfAjvSe5mzT1TI9bG7nC5kMJuWBbwOtAlACI6mLcv5nB&new=1)
+ ## [2019云安全厂商方案“大阅兵”](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=qhyRl9uv-GWBFhYyJcv81-4rDJoGvmht6bnBgN0BX97vYRMIdYqiWsbsAd9ez3Ek75BuDw9jP-gkxftHwEZYfWj4-kkBQX4ieYXZWLXSebjqRG4C9RmAayMSQmdXhxkp&new=1)
+ > 自从Google在2006年公开提出云计算的概念以来，已经过了13年的时间。随着业务上云的热潮席卷全球，越来越多的企业对云安全的认知，从最初的顾忌和恐慌，转变为盲目的信任和依赖。然而，云计算并非企业安全的革命...
+ ## [\[科技早报7点整\]传音回应被华为起诉 Model S和X电池组缺陷可能引发火灾被调查……](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=8HdEMl70jY6aygdVnBmfj7ceijrq6RWS1ivllSAcGQtjXFEw6FIG2AUNlbULykAq7sNz6fGXuSxoRrxbJC8v14RW*85fustRd3ir7adFOn3oJF0Ed-zYxzIvruHoJxAl&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第606期1.传音回应被华为起诉：涉案金额2000万元传音披露被华为起诉细节，涉案金额2000万元，已立案，暂未开庭审理。传音控股于9月29日，即上市前一天收到诉状。原告华为称，其...
+ ## [语音交互在车载场景中的应用](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=nvvXamKOAoSGCWp*45Y5f9F2vhyEa3-EZ3bzqeE5758MKUzEOdLLFpPTWgede6ltweQuwpMWKoiN2L4nFqWRN-siS-1BsTwG21Jt3oQmF3f1ViViLc*rEYQJbOe*sTIl&new=1)
+ > 投稿邮箱：iidc@iidc.org.cn汽车驾驶体验的智能化升级下，车载场景内容的语音交互场景、产品形态都在不断变更、不断升级。而未来它究竟发展地怎么样呢？让我们拭目以待。汽车驾驶体验的智能化升级自动驾驶技术可...
+ ## [扎克伯格采访：VR仍然小众，Quest优势持续到明年](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=EpJNlJEZGgb417*Cpt1r*I-xqRS8Iglhuhn9yGZDfE*xt6I1LmrkDKe5NXQJKFEJmY8bBNEOtvCwHE1GElrnKeVdhtx3E*hIJNRF0CuBYiaoYdD-gHmnMqQpn67hYdvT&new=1)
+ > Esther｜ 编辑此前，青亭网常报道Facebook高管接受外媒采访，而CEO Mark Zuckerberg却很少就VR/AR接受采访。而近期在OC6大会期间，外媒Cnet拜访了Facebook位于硅谷的MPK 21总部，不仅现场体验了
+ ## [大山重压之下，运营商需要停火](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=5sBWqaDWsABRiECJdfwcqgB1WiaFlDoMBZxRw0vPvZ*jzHSQzgFbV3XCpbIMqrMudUSWCboUwwaC*DI9fk0zoFAc5j3RV*5dRthc5bhH1LXW47wTDOeCJb1rVFU5NKfS&new=1)
+ > 通信行业内最近出现了2019年5G投资和建设风向可能已经转变的传闻。暂且不论传闻的真假，单就通信行业当前所遇的困境局面，运营商竞争与合作的关系就需要重构。1多重大山重压通信行业通信行业不断被管道化这已经...
+ ## [硅谷程序员的回归能拯救印度“芯”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=RPyBLMzSi3RLxtAB*ycVptuNUyQuZBtacV4bPu5-H5jSMxdCm47-kXvWENu5Y1cIW7LHcQ6jIxjNMvrdHbRD5PfZFrIlw6YaB-lAUdoW76DMsdKahw42ABB8sk6mnhu7&new=1)
+ > 作者 |  藏狐责编 | 刘静本文经授权转载自脑极体（ID：unity007）硅谷有个段子，集成电路(integrate circuit)的英文缩写IC，其实是印度(India)与中国(China)两个国家的英文首字母。因为来自中国、印度的
+ ## [预约用户数超900万，全球最大规模5G即将诞生](http://mp.weixin.qq.com/s?src=11&timestamp=1570507204&ver=1899&signature=R4Lu1ElsuKMKJkEj0JbaCSLYwx2lGueq1G*vRfUt7OeM5rB-UCtVjLSe5jVv0ohd5zlp-ZUJAGCw0ASupRqdoS2047IbIcNWcs73rQKNZ1QMBtqYhzwXM*D3hq7JgRil&new=1)
  > 【摘要】短短时间内，三大运营商的5G预约用户已突破900万，这一数字令人惊叹。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：网优雇佣军本文来源：网优雇佣军(hr_opt)杂谈投稿邮箱：631255063@qq.com截...
 # IT 技术 
+ ## [真相了，中台到底“出路”还是“末路”?](http://developer.51cto.com/art/201910/603823.htm)
+ > 真相了，中台到底“出路”还是“末路”?
+ ## [外行都能看懂，漫画解读“中台”](http://developer.51cto.com/art/201910/603820.htm)
+ > 外行都能看懂，漫画解读“中台”
  ## [MySQL十种常见错误，你可犯过？](http://database.51cto.com/art/201910/603737.htm)
  > MySQL十种常见错误，你可犯过？
+ ## [多云、裸机、边缘云等：2020年及未来云计算市场的首要考虑因素](http://cloud.51cto.com/art/201910/603836.htm)
+ > 多云、裸机、边缘云等：2020年及未来云计算市场的首要考虑因素
+ ## [从SOA到微服务，企业分布式应用架构在云原生时代如何重塑？](http://developer.51cto.com/art/201910/603834.htm)
+ > 从SOA到微服务，企业分布式应用架构在云原生时代如何重塑？
+ ## [程序员35岁，依然可以“横行职场”！](http://news.51cto.com/art/201910/603826.htm)
+ > 程序员35岁，依然可以“横行职场”！
  ## [蚂蚁金服OceanBase积累九年打榜TPC-C 还需理性看待](http://database.51cto.com/art/201910/603796.htm)
  > 蚂蚁金服OceanBase积累九年打榜TPC-C 还需理性看待
- ## [用Python偷偷告诉你国庆8亿人都去哪儿浪？](http://developer.51cto.com/art/201909/603717.htm)
- > 用Python偷偷告诉你国庆8亿人都去哪儿浪？
- ## [专家:10年后6G将问世 速度有望比5G快100倍](http://network.51cto.com/art/201909/603503.htm)
- > 专家:10年后6G将问世 速度有望比5G快100倍
- ## [支撑百万并发的“零拷贝”技术，你了解吗？](http://developer.51cto.com/art/201909/603355.htm)
- > 支撑百万并发的“零拷贝”技术，你了解吗？
- ## [拿下抖音小姐姐，我写了个口红色号识别器！](http://developer.51cto.com/art/201909/603363.htm)
- > 拿下抖音小姐姐，我写了个口红色号识别器！
- ## [如何冻结和锁定你的Linux系统？](http://os.51cto.com/art/201909/603338.htm)
- > 如何冻结和锁定你的Linux系统？
- ## [13个网络管理员必须尝试的开源网络监控工具](http://developer.51cto.com/art/201909/603073.htm)
- > 13个网络管理员必须尝试的开源网络监控工具
- ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
- > C语言实现推箱子游戏
+ ## [成为优秀码农的十二项自我修养](http://news.51cto.com/art/201909/603725.htm)
+ > 成为优秀码农的十二项自我修养
+ ## [Linux下4种禁用Root登陆的方法，你掌握了哪几种呢？](http://os.51cto.com/art/201910/603846.htm)
+ > 在 Ubuntu 中，更是直接把 Root 用户直接禁用了。那么如何在 Linux 中禁止Root 登陆呢？今天，我们就来介绍
+ ## [什么是第二代云计算战略?](http://cloud.51cto.com/art/201910/603842.htm)
+ > 对于IT专业人员来说一个好消息是，“第二代”云计算正在出现，出现了多云和同类最佳的方法。具有围绕计算和
+ ## [医疗保健网络安全市场在未来几年保持增长势头](http://netsecurity.51cto.com/art/201910/603845.htm)
+ > 数字技术的迅速普及被认为对提供商有利，但它可能导致网络安全方面的差距。
+ ## [哪些网络工具可用于公共云监控？](http://cloud.51cto.com/art/201910/603844.htm)
+ > 多租户公共云监控可能会带来重大挑战。幸运的是，某些工具可以帮助跟踪这些环境，甚至标记潜在的安全威胁。
+ ## [大数据无处不在，安全性也需要如此](http://bigdata.51cto.com/art/201910/603843.htm)
+ > 从大数据分析中获得的见解对于企业来说是非常有价值的。但是，每个新数据流都会创建一个新的潜在攻击向量，
+ ## [现代数据中心需要重新引入磁带存储](http://stor.51cto.com/art/201910/603841.htm)
+ > 对于许多IT专业人士来说，磁带媒体和磁带库似乎是传统IT人员使用的比较原始的存储技术。事实上，磁带存储技
+ ## [应对云计算中断的6个步骤](http://cloud.51cto.com/art/201910/603839.htm)
+ > 企业通常希望公共云为许多应用程序类型提供灵活性、快速可扩展性和可靠性，但公共云并不完美。每个主要云计
+ ## [把“点文件”放到版本控制中](http://os.51cto.com/art/201910/603838.htm)
+ > 通过在 GitLab 或 GitHub 上分享你的点文件，可以在整个系统上备份或同步你的自定义配置。
+ ## [我从高级软件工程师身上学到的那些经验与教训](http://news.51cto.com/art/201910/603840.htm)
+ > 感谢坐在我身边的高级软件工程师们，我可以认真观察他们在做什么、与我的做法又有何区别。我们会经常结对编
+ ## [如何实现React中的状态自动保存？](http://developer.51cto.com/art/201910/603835.htm)
+ > 作为程序员，当然是尽可能懒啦，为了不需要每次都关心如何对数据进行保存恢复，我们需要研究如何自动保存状
  ## [这些C++工程师面试题答案收藏好喽](https://blog.csdn.net/hyb612/article/details/101904738)
  > 这些C++工程师面试题答案收藏好喽
+ ## [学 Java 网络爬虫，需要哪些基础知识？](https://blog.csdn.net/z694644032/article/details/102058529)
+ > 
  ## [通过实例快速掌握k8s（Kubernetes）核心概念](https://blog.csdn.net/weixin_38748858/article/details/102132544)
- > 通过实例快速掌握k8s（Kubernetes）核心概念
+ > 
  ## [玩转 SpringBoot 2 快速整合 Listener](https://blog.csdn.net/ljk126wy/article/details/102031479)
  > 玩转 SpringBoot 2 快速整合 Listener
- ## [Windows下的Pycharm远程连接虚拟机中Centos下的Python环境](https://blog.csdn.net/lzc4869/article/details/78711854)
- > 
+ ## [10月2日科技资讯|余承东：华为6G研发需10年；库克“iPhone 11势头强劲”；TensorFlow 2.0正式版发布](https://blog.csdn.net/weixin_39786569/article/details/101903341)
+ > 10月2日科技资讯|余承东：华为6G研发需10年；库克“iPhone 11势头强劲”；TensorFlow 2.0正式版发布
  ## [Python 愤怒的小鸟代码实现(1):物理引擎pymunk使用](https://blog.csdn.net/marble_xu/article/details/102079236)
- > Python 愤怒的小鸟代码实现(1):物理引擎pymunk使用
+ > 
  ## [《C++ Primer》学习笔记（三）：字符串、向量和数组](https://blog.csdn.net/TeFuirnever/article/details/101671578)
  > 
- ## [2019云栖大会高能看点之：程序员吐槽大会](https://blog.csdn.net/weixin_39786569/article/details/101672053)
- > 2019云栖大会高能看点之：程序员吐槽大会
- ## [阿里资深工程师教你如何优化 Java 代码！](https://blog.csdn.net/csdnnews/article/details/100987866)
- > 阿里资深工程师教你如何优化 Java 代码！
- ## [手绘知识点——指针入门](https://blog.csdn.net/u014483914/article/details/101165585)
+ ## [Python使用tkinter模块实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101934416)
+ > 
+ ## [全中！七大初学者易踩的坑！](https://blog.csdn.net/csdnnews/article/details/100987895)
+ > 全中！七大初学者易踩的坑！
+ ## [10月4日科技资讯|拼多多回应“商家发二选一微博”；Facebook 内部会议泄露音频；Rust 1.38 稳定版发布](https://blog.csdn.net/weixin_39786569/article/details/102052275)
  > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
  ## [10个经典智力推理题！据说答对7道，智力在140！](https://blog.csdn.net/qq_23853743/article/details/90626243)
  > 10个经典智力推理题！据说答对7道，智力在140！
+ ## [gitbook 入门教程之小白都能看懂的 Gitbook 插件开发全流程](https://blog.csdn.net/weixin_38171180/article/details/102077796)
+ > 
+ ## [Linux内核私闯进程地址空间并修改进程内存](https://blog.csdn.net/dog250/article/details/102292288)
+ > 
  ## [Docker ：常用命令查询](https://blog.csdn.net/fly910905/article/details/101845129)
  > 
- ## [gitbook 入门教程之小白都能看懂的 Gitbook 插件开发全流程](https://blog.csdn.net/weixin_38171180/article/details/102077796)
- > gitbook 入门教程之小白都能看懂的 Gitbook 插件开发全流程
- ## [深入理解 Java 虚拟机（二）~ 类的加载过程剖析](https://blog.csdn.net/johnny901114/article/details/102177986)
- > 深入理解 Java 虚拟机（二）~ 类的加载过程剖析
 # 人工智能 
- ## [NULL，0，`0`，`\0`，"0"你分得清吗？](https://blog.csdn.net/hyb612/article/details/102077394)
- > NULL，0，`0`，`\0`，&quot;0&quot;你分得清吗？
- ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
+ ## [快手王华彦：端上视觉技术的极致效率及其短视频应用实践 | AI ProCon 2019](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/102252176)
  > 
+ ## [OCR百度api，python实现图像文字识别](https://blog.csdn.net/weixin_45706382/article/details/102185893)
+ > OCR百度api，python实现图像文字识别
+ ## [机器学习入门：tensorflow安装](https://blog.csdn.net/weixin_41368740/article/details/102254423)
+ > 机器学习入门：tensorflow安装
+ ## [结合OpenCV与TensorFlow进行人脸识别](https://blog.csdn.net/weixin_44678052/article/details/102286945)
+ > 结合OpenCV与TensorFlow进行人脸识别
+ ## [Win10 系统下快速搭建mxnet框架cpu版本](https://blog.csdn.net/weixin_43260207/article/details/102304081)
+ > Win10 系统下快速搭建mxnet框架cpu版本
  ## [我们该如何高效的学习](https://blog.csdn.net/qq_23853743/article/details/90226411)
  > 我们该如何高效的学习
- ## [计算机非科班工作后如何爬出技术的绝望之谷，走向开悟之路](https://blog.csdn.net/Abysscarry/article/details/101929104)
- > 计算机非科班工作后如何爬出技术的绝望之谷，走向开悟之路
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [win10针对程序员实用的几个快捷键](https://blog.csdn.net/qq_34443778/article/details/102158547)
- > win10针对程序员实用的几个快捷键
- ## [我的刷题日记（14）](https://blog.csdn.net/weixin_43572937/article/details/102159754)
- > 我的刷题日记（14）
- ## [IBM发展过程中给我们带来什么启示？](https://blog.csdn.net/wo541075754/article/details/102217232)
- > IBM发展过程中给我们带来什么启示？
- ## [Linux该如何学习（新手入门必看）](https://blog.csdn.net/qq_44721831/article/details/102253266)
- > Linux该如何学习（新手入门必看）
- ## [我眼中的中美印日四国程序员的特点](https://blog.csdn.net/LLand520/article/details/102211367)
- > 我眼中的中美印日四国程序员的特点
- ## [C语言这么厉害，它自身又是用什么语言写的？](https://blog.csdn.net/coderising/article/details/101731213)
- > C语言这么厉害，它自身又是用什么语言写的？
- ## [什么是真正的自由？](https://blog.csdn.net/tony2278/article/details/102241433)
- > 什么是真正的自由？
- ## [没有电脑没有手机没有网络没有爱情——纪念我的电子科技大学九里堤校区大一生活](https://blog.csdn.net/i042416/article/details/102136415)
- > 没有电脑没有手机没有网络没有爱情——纪念我的电子科技大学九里堤校区大一生活
- ## [希望20岁可以知道的事情](https://blog.csdn.net/u010761477/article/details/102141276)
- > 希望20岁可以知道的事情
- ## [一个菜鸡的保研经验（二）](https://blog.csdn.net/qq_38341682/article/details/102154037)
- > 一个菜鸡的保研经验（二）
+ ## [【fun-generator】SpringBoot Freemarker 代码生成器 高质量增删查改](https://blog.csdn.net/qq_41647999/article/details/102225390)
+ > 【fun-generator】SpringBoot Freemarker 代码生成器 高质量增删查改
+ ## [Google离开我们快十年了](https://blog.csdn.net/david_lv/article/details/101442722)
+ > Google离开我们快十年了
+ ## [从零开始跑ORB_SLAM2(一) 前期准备与环境配置](https://blog.csdn.net/weixin_41732319/article/details/101232873)
+ > 从零开始跑ORB_SLAM2(一) 前期准备与环境配置
+ ## [无监督神经机器翻译Unsupervised Statistical Machine Translation](https://blog.csdn.net/weixin_38937984/article/details/102238335)
+ > 无监督神经机器翻译Unsupervised Statistical Machine Translation
+ ## [无监督机器翻译Bilingual Lexicon Induction through Unsupervised Machine Translation](https://blog.csdn.net/weixin_38937984/article/details/102220543)
+ > 无监督机器翻译Bilingual Lexicon Induction through Unsupervised Machine Translation
+ ## [无监督机器翻译Generalizing and Improving Bilingual Word Embedding Mappings.......](https://blog.csdn.net/weixin_38937984/article/details/102248719)
+ > 无监督机器翻译Generalizing and Improving Bilingual Word Embedding Mappings.......
+ ## [无监督神经机器翻译An Effective Approach to Unsupervised Machine Translation](https://blog.csdn.net/weixin_38937984/article/details/102297382)
+ > 无监督神经机器翻译An Effective Approach to Unsupervised Machine Translation
+ ## [高数做题思路](https://blog.csdn.net/weixin_42297855/article/details/101612463)
+ > 高数做题思路
+ ## [无监督机器翻译A robust self-learning method for fully unsupervised cross-lingual mappings of word embedding](https://blog.csdn.net/weixin_38937984/article/details/102233881)
+ > 无监督机器翻译A robust self-learning method for fully unsupervised cross-lingual mappings of word embedding
 # PM 
- ## [从“小产品”的角度，看商业化思考](http://www.woshipm.com/operate/2925205.html)
- > 小产品代表着一类人，或者一类产品经理，同时也代表着他们的工作日常，站在“小产品”的角度来看商业化。3年前，我在一家小创业公司，做ToB企业SaaS产品服务（现在还很...
- ## [一年后，我对CRM的认知改变](http://www.woshipm.com/pd/2938022.html)
- > CRM代表的是企业对待客户的管理理念和运营方法，通过收集、沉淀分析客户多维信息从而帮助企业识别、发展、维护、服务客户，提高客户满意度，最终提升企业收入与价值的一...
- ## [知乎内容运营策略分析：“质量”和“数量”的平衡](http://www.woshipm.com/evaluating/2935482.html)
- > 知乎的注册用户快速增长的同时，社区内容质量有所下降，知乎致力于找到“质量”和“数量”的平衡，笔者以此为目的，分析了知乎的运营策略。知乎从最最开的邀请制转为开放...
- ## [没有客户的成功，就没有SaaS企业的成功](http://www.woshipm.com/operate/2937053.html)
- > 客户成功指的是什么呢？其实客户成功就是做好解决方案和用户运营这两件事。“SaaS企业90%的收入来自客户成功。”Jason Lemkin在Gainsight 会议上表示。他的意思是，通过...
+ ## [年轻人新闻消费研究：资讯APP丢一边，社交媒体放心间](http://www.woshipm.com/user-research/2946153.html)
+ > 传统媒体绞尽脑汁为年轻人提供好内容，效果却似乎不够理想。年轻人有自己的想法，对内容、形式和平台有不同的需求。牛津路透研究院委托咨询公司Flamingo对英国和美国年...
+ ## [你还在靠意志力在坚持？错了，真正的坚持靠这个方法](http://www.woshipm.com/zhichang/2942589.html)
+ > 我们来认真思考一个问题——有些人能够坚持不懈地做成一件事的原因是什么呢？我们又该如何掌握坚持的方法呢？你有没有这样的情况：当你决定做一件并不容易的事，并且想...
+ ## [英语有限计划：在义务教育阶段学好英语](http://www.woshipm.com/pd/2939127.html)
+ > 英语教育虽然贯穿义务教育阶段，但是很多学生的英语水平仅仅局限于书面，越来越多的英语培训班也因此诞生。笔者以义务教育阶段教好英语为目标，设计了一个英语有限计划...
+ ## [社交电商小虎团完成首轮融资，校园新零售会是下一个风口？](http://www.woshipm.com/newretail/2939769.html)
+ > 校园新零售社交电商队伍再添新兵，小虎团完成百万天使轮融资，校园新零售会是下一个风口？中国经济发展进入新常态，消费成为拉动增长的核心动力。高校大学生生于互...
+ ## [有生命力的产品设计是怎样的？](http://www.woshipm.com/pd/2942957.html)
+ > 即使世界的本质是断裂的，但以人的尺度，它就是在不断运动的，产品是动态而非静态的，只有领会到这一点，才会在策划的时候，构思的时候，以一种整体性的视角去看待。...
+ ## [如何在25岁就拥有50岁的洞见力？](http://www.woshipm.com/zhichang/2942623.html)
+ > 无论是在生活上还是工作上，富有洞见力的人总是能够深入全面、具有批判性思维地看问题。而笔者告诉我们想要具备洞见力并没想象中那么难。我们可能都遇到些年纪轻轻...
+ ## [产品经理的知识图谱应用](http://www.woshipm.com/pmd/2940881.html)
+ > 知识图谱对于产品经理的工作有着很大的帮助，能够建立更系统的设计流程，其应用核心在于深刻理解业务。一、什么是知识图谱1.1 知识图谱的定义知识图谱概念开始由谷...
+ ## [曾被「扫地出门」的那群「疯子」，这次碾压了甲骨文](http://www.woshipm.com/data-analysis/2942408.html)
+ > 继5G和芯片技术之后，中国互联网在数据库方面实现了又一次弯道超车。一场曲折的中美互联网巨头之间的较量，在「十一」假期期间揭晓，中国企业拿下数据库「世界杯」...
+ ## [互联网职场红利消失，未来职场什么样的人才能活的好？](http://www.woshipm.com/zhichang/2941475.html)
+ > 未来，如何在职业发展中，能够拥有自己的选择权并且一直活的比较好？前段时间听到一个段子，现在互联网职业圈中大部分人的发展路径大概是这样的：“一年做专员，3年升...
+ ## [笔试题分析：去哪儿网机票BU笔试题](http://www.woshipm.com/zhichang/2936743.html)
+ > 本文以去哪儿网机票事业部笔试题为例，分析了题目的答案与思考。问题一用户的出行计划里，⼤部分有交通工具(机票/⽕车)和酒店的预定诉求。但是，⽬前很多⽤户都是机...
+ ## [详解：私域流量池如何让一个被强拆的线下景区起死回生！](http://www.woshipm.com/operate/2941967.html)
+ > 本文将以一个线下真实事件为例，讲述了如何利用私域流量的概念复活一个被强拆的景区。讲线下运营课时，我会给童鞋们举到一个案例，是我们本土的秀丽东方景区，之前它...
+ ## [识别产品利益，打造尖刀产品](http://www.woshipm.com/marketing/2938960.html)
+ > 营销的花样百出，但关键点在于针对客户找到产品利益。挖掘产品王牌的卖点有四个入口：产品属性、产品利益、物质价值和情感价值。很多人对卖点的源头有了基本的认识，...
+ ## [全民体育大热时出现负增长，腾讯体育如何重新掌控节奏？](http://www.chanpin100.com/article/109698)
+ > 体育爱好者不少，体育直播是这一群体观看赛事的重要渠道，面对庞大的用户群体和市场规模，腾讯体育却出现负增长。未来，从产品到运营，腾讯体育要如何进行调整重回巅峰？
+ ## [如何设计一个好的404页面？](http://www.chanpin100.com/article/109697)
+ > 404页面做的好，用户不跳脚！
+ ## [这是一份超详细的支付宝钱包原型模板，免费使用！(支付宝支付跳转)](http://www.chanpin100.com/article/109696)
+ > 电子支付的普及，很多PM不得不在产品设计时进行钱包设计。”有一个可以直接复用的钱包原型模板就好啦！“ 那么它来啦~
+ ## [浅谈用户体验的4个维度](http://www.chanpin100.com/article/109693)
+ > 怎样判断一款产品有几个维度？4 维度之间存在怎样的关系？
+ ## [【连载】《用户增长方法论》（05）](http://www.chanpin100.com/article/109649)
+ > 有个成语叫“趋利避害”，趋利避害是人的一种本性。前面两节我们讲的“生存”和“效率”实际上就是在讲“避害”，而本节将要讲解的寻找痛点的另一个维度“价格”则是“趋利”。当人们想要某件商品或者服务，而由于某些原因不愿意或者付不起费用的时候，痛点就出现了。
 
     
