@@ -1,7 +1,7 @@
 ---
 title: 2019-10-09 IT News
 copyright: true
-date: 2019-10-09 10:01:12
+date: 2019-10-09 12:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,21 +68,25 @@ HTC&#21542;&#35748;&#36864;&#20986;&#25163;&#26426;&#24066;&#22330; 2025&#24180;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [被美国列入实体清单，海康威视、科大讯飞、商汤科技等回应](http://mp.weixin.qq.com/s?src=11&timestamp=1570586403&ver=1901&signature=JjHSWPwykQHzq7aejioqu9wYIUj6GIeTs0YTfWb-YXY9Cuq*pUOyISKNhb2CkygNct2pGZjP4*-s1xEPwVvvHejRl6i5SEg-X2oB6d40dk3wDYdfknTCHsTjFwpRKJ7j&new=1)
+ ## [被美国列入实体清单，海康威视、科大讯飞、商汤科技等回应](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=JjHSWPwykQHzq7aejioqu9wYIUj6GIeTs0YTfWb-YXZWIII2tv9nNnZJf4lHBGtccGYu2i-fWb6fRsfrFEbkaAFZvHLfsWftGkdzDLbDbkygjOVhBncfX2kUPMS*-uOT&new=1)
  > 美国时间10月7日，美联邦政府宣布，将28家中国实体加入“实体管制清单”，禁止这些实体购买美国产品。根据已曝光的文件显示，这28家实体当中将包括海康威视、大华科技、科大讯飞、旷视科技、商汤科技、依图科技...
- ## [突发!美国“拉黑”8家中国科技企业：海康/大华/旷视等企业在内](http://mp.weixin.qq.com/s?src=11&timestamp=1570586403&ver=1901&signature=0NAs8VXjCUxKpU1rV1DsDxaj5n*jNsUo6yZ79ECB-0EU3g1SL-LlwN1zvqIPCq8OcDcnykPr6UPpPpGt1jIs2TxgMRR4ciiG1dtb0aYwU4rl8VncVD8**xZ-d07rwOWD&new=1)
- > 小长假回来的第一天，就遇到美国商务部“搞事情”。据外媒报道，当地时间10月7日，美商务部产业安全局新增了一批“实体清单”。名单中有28家中国企业，其中包括了海康威视、大华股份等8家国内知名科技企业，覆盖...
- ## [渗透测试第二阶段：信息收集方法原理经验心得](http://mp.weixin.qq.com/s?src=11&timestamp=1570586403&ver=1901&signature=yNMFuwJHpraHW-y-x06a8bhfhQREdXfXBW-ooDxuBc9eItFV4QuQXNZUUDh8eVSKaIP3rwpfFzG2gcpl0*tv6Pb1RvXgIqBksq3acGU1GGZSPoFEBPYm31ywpiCvvBIh&new=1)
+ ## [渗透测试第二阶段：信息收集方法原理经验心得](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=yNMFuwJHpraHW-y-x06a8bhfhQREdXfXBW-ooDxuBc8vLTKIFysoK1oF-VudPupLZBYHLqLBvXdXjMlRb32uCaXZF-TcTfeIBv5lhIZRRlXILa-ve5FQMJG4QF*SWUqP&new=1)
  > 信息收集是渗透测试中第二阶段的工作，也是非常重要的一项。所收集到的情报信息，能直接影响下一阶段的工作及效果。那么具体的信息收集工作应如何实施呢？接下来我会用一此虚构的案例结合原理来进行说明，如有不...
- ## [继华为后 又有8家中国科技公司被美国列入实体清单](http://mp.weixin.qq.com/s?src=11&timestamp=1570586403&ver=1901&signature=FMbkxnTBVg3S8a7iSWhPChHhrGnQajaK6otSWLn44BadibgsNf*WUjo42L2Rkt4h3YtCf-8gTEC2hYpfGYoGcUgQlPlLPlhrZO31Qz-bFlPiVah8qJEV9-74nBdb-Tcg&new=1)
+ ## [继华为后 又有8家中国科技公司被美国列入实体清单](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=FMbkxnTBVg3S8a7iSWhPChHhrGnQajaK6otSWLn44BZdR85I8w55*O4JE7QOL7-HOUW49trMGRZQ4tmbpuHg0Wusj-32ImPOI3lvnksun38jEV79ltQ5kDo0BW7mY*Ja&new=1)
  > 据路透社消息，美国商务部工业与安全局（BIS）10月8日在官网宣布，对28家中国组织和企业实行贸易封禁，列入“实体清单”，其中受影响企业共有8家，包括视频监控领域的海康威视、大华股份，AI领域的科大讯飞、旷...
- ## [入职通信行业5年想离开，抉择岔路口到底应该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1570586403&ver=1901&signature=wIkpKPbwp-sLKOBDRibPqE2J9ifazFEFrBkM675rbssf0Wk8XxpvqxFQ2EoW1FsODYMkv2uHpisUapiHtZ*G27rkPqKK0425ZPV4oAX*exeTB3DJZc1raYx8XpwTMOIS&new=1)
+ ## [入职通信行业5年想离开，抉择岔路口到底应该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=wIkpKPbwp-sLKOBDRibPqE2J9ifazFEFrBkM675rbsuhmp5qhjrBxfcSeSP3jEN6iTbcqR59axdUsM4xeSoE5O2pDwouDfO2Y8VzKx5WnM4PYHpkR6AvWPqpCHBgts7e&new=1)
  > 近日，运营商观察在某论坛上发现一则帖子，称自己入行通信运维5年想要转行，但对未来充满不确定性，给大神指点迷津，有什么好的转行方向。这或许是个例却也能给不少处在抉择岔路口的人一些启示。全文如下：本人...
+ ## [突发!美国“拉黑”8家中国科技企业：海康/大华/旷视等企业在内](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=0NAs8VXjCUxKpU1rV1DsDxaj5n*jNsUo6yZ79ECB-0F2BqIF1GR4G33*z3*iN27bWADobwHWDJIRE1sX921wK6FdSQCOWDt1V-PgYaL5IBrnbEhjTni3*vkqMdpAPXse&new=1)
+ > 小长假回来的第一天，就遇到美国商务部“搞事情”。据外媒报道，当地时间10月7日，美商务部产业安全局新增了一批“实体清单”。名单中有28家中国企业，其中包括了海康威视、大华股份等8家国内知名科技企业，覆盖...
 # IT 技术 
  ## [从平庸到大牛程序员，不能错过9月的这十篇热门文章！](http://news.51cto.com/art/201910/603912.htm)
  > 从平庸到大牛程序员，不能错过9月的这十篇热门文章！
+ ## [大规模集群故障处理，能抗住这3个灵魂拷问算你赢](http://netsecurity.51cto.com/art/201910/603931.htm)
+ > 大规模集群故障处理，能抗住这3个灵魂拷问算你赢
  ## [如何将Kubernetes集群部署在谷歌云平台上？](http://cloud.51cto.com/art/201910/603874.htm)
  > 如何将Kubernetes集群部署在谷歌云平台上？
+ ## [怒了，Facebook强行辞退要求公布跳楼真相的程序员！](http://news.51cto.com/art/201910/603928.htm)
+ > 怒了，Facebook强行辞退要求公布跳楼真相的程序员！
  ## [真相了，中台到底“出路”还是“末路”?](http://developer.51cto.com/art/201910/603823.htm)
  > 真相了，中台到底“出路”还是“末路”?
  ## [10大迹象表明你正落入社会工程的陷阱之中](http://zhuanlan.51cto.com/art/201910/603849.htm)
@@ -91,30 +95,26 @@ HTC&#21542;&#35748;&#36864;&#20986;&#25163;&#26426;&#24066;&#22330; 2025&#24180;
  > 外行都能看懂，漫画解读“中台”
  ## [Python 从入门到精通：一个月就够了！](http://news.51cto.com/art/201910/603833.htm)
  > Python 从入门到精通：一个月就够了！
- ## [MySQL十种常见错误，你可犯过？](http://database.51cto.com/art/201910/603737.htm)
- > MySQL十种常见错误，你可犯过？
- ## [多云、裸机、边缘云等：2020年及未来云计算市场的首要考虑因素](http://cloud.51cto.com/art/201910/603836.htm)
- > 多云、裸机、边缘云等：2020年及未来云计算市场的首要考虑因素
- ## [Kubernetes工作节点的数量规划？](http://cloud.51cto.com/art/201910/603917.htm)
- > 做k8s集群工作节点的规划时,首先需要考虑的问题是: 应该使用哪种类型的服务器(Linux)实例节点,节点数量又需
- ## [超级简单  1分钟教你在电脑上开启多个PC版微信](http://news.51cto.com/art/201910/603918.htm)
- > 微信现如今已经成为很多人的社交工具，多号登录也开始变得日益迫切起来，然而腾讯一直没有开放微信在电脑端
- ## [只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱](http://zhuanlan.51cto.com/art/201910/603916.htm)
- > 如果身在美国，就像其余四千万单身男人一样，注册一下Match.com, J-Date和OkCupid等相亲网站，坐等真爱上门
- ## [MySQL中的主键和rowid,看似简单，其实有一些使用陷阱需要注意](http://database.51cto.com/art/201910/603915.htm)
- > 大家在MySQL中我们可能听到过rowid的概念，但是却很难去测试实践，不可避免会有一些疑惑，今天要和大家一起
- ## [大规模集群故障处理，能抗住这3个灵魂拷问算你赢](http://developer.51cto.com/art/201910/603914.htm)
- > 我相信每一个集群管理员，在长期管理多个不同体量及应用场景的集群后，都会多少产生情绪。其实这在我看来，
- ## [企业如何利用边缘计算进行物联网分析](http://iot.51cto.com/art/201910/603913.htm)
- > 如今，企业对物联网的部署正在推动对边缘计算基础设施(包括边缘网关和超融合基础设施)的投资。以下三个来自
- ## [制裁中国AI公司 美国打偏了吗？](http://news.51cto.com/art/201910/603910.htm)
- > 中国几家人工智能企业大概自己也没想到，有一天能以一种奇特的方式成为全世界的焦点。
- ## [推动2020年物联网终端增长的行业和用例有哪些？](http://iot.51cto.com/art/201910/603911.htm)
- > 未来1年，物联网终端连接数量增长最快的领域有哪些呢?在下文中，小编将为你一一道来。
- ## [谷歌推出桌面版Grasshopper编程学习工具](http://news.51cto.com/art/201910/603907.htm)
- > Grasshopper 是一款旨在教会新手如何编程、通过技能来改善其经济前景的学习工具，作为谷歌成长计划（Grow
- ## [倒计时 Windows 7距离彻底被淘汰只剩不到100天了！](http://os.51cto.com/art/201910/603909.htm)
- > 2009年Windows 7系统正式问世，距离今天已经有十年之久，而Windows 7也是普及程度最高的操作系统，相信很多
+ ## [现在你可以借助Insync在Linux中原生使用OneDrive](http://os.51cto.com/art/201910/603943.htm)
+ > 最近发布的 Insync 3 支持了 OneDrive。因此在本文中，我们将看下如何在 Insync 中使用 OneDrive 以及它的
+ ## [一次跨行取款失败，而引发对分布式事务的思考](http://developer.51cto.com/art/201910/603942.htm)
+ > 不知道大家有没有遇到这样的情况，就是去自动取款机取钱的时候，比如说你去取1000块钱，这个时候系统会先帮
+ ## [人工智能在情绪方面更智能了？人类也应如此](http://ai.51cto.com/art/201910/603941.htm)
+ > 人们处于孤独中的行为方式与在公共场合的行为方式大相径庭，但人的基本性格仍然会保持不变。在没有观众的情
+ ## [云计算时代，你应该熟知的10项安全技术](http://cloud.51cto.com/art/201910/603939.htm)
+ > 随着攻击者提高其攻击能力，企业也必须提高其保护访问和防止攻击的能力，安全风险领导者必须评估并使用最新
+ ## [多云采用的企业指南](http://cloud.51cto.com/art/201910/603937.htm)
+ > InformationWeek对于云计算和蓬勃发展的多云市场进行了阐述和分析，并将涵盖范围分为五个部分：云计算的发
+ ## [如何搭建合适的Web框架？](http://developer.51cto.com/art/201910/603940.htm)
+ > 之前在Web开发框架推导一文中我们一步步的搭建了一个开发框架。在当时的情况下，还算满足需求。但是随着项
+ ## [云之变：云与智能大变局](http://cloud.51cto.com/art/201910/603936.htm)
+ > 云服务市场，正在AI的注入下迎来一场大变局。接下来，我们将在一系列文章中讨论这场变局的不同侧面。而今天
+ ## [漫话：如何给女朋友解释什么是云计算？](http://cloud.51cto.com/art/201910/603933.htm)
+ > 周末在家，我在看书，女朋友在一旁看游戏直播。两个人相安无事，突然女朋友好像看弹幕有什么东西不理解了，
+ ## [互联网寒冬下，Go语言平均薪资高达29K，为什么？](http://developer.51cto.com/art/201910/603932.htm)
+ > Go备受欢迎，无论是研发小团队还是大规模研发阵容，都十分适合，再加上供不应求，薪资自然水涨船高。如今，
+ ## [国产自研数据库打败 Oracle？网友热议](http://news.51cto.com/art/201910/603929.htm)
+ > 近日，数据库领域权威的国际机构国际事务处理性能委员会（TPC）在官网发表了最新的 TPC-C 基准测试结果。
  ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
  > C语言实现推箱子游戏
  ## [《C++ Primer》习题参考答案：第3章 - 字符串、向量和数组](https://blog.csdn.net/TeFuirnever/article/details/101976043)
@@ -145,67 +145,83 @@ HTC&#21542;&#35748;&#36864;&#20986;&#25163;&#26426;&#24066;&#22330; 2025&#24180;
  > 
  ## [史上最强 iPhone 越狱工具开源：功能永久有效！](https://blog.csdn.net/sinat_33224091/article/details/102385819)
  > 史上最强 iPhone 越狱工具开源：功能永久有效！
+ ## [金山云肖江：26 岁拿到博士学位，如今掌舵金山云 AIoT 研发 | 人物志](https://blog.csdn.net/csdnnews/article/details/102425378)
+ > 受访者 | 肖江作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）CSDN创始人蒋涛，当年在金山工作时，二十几岁就当上管理层。而笔者采访的肖江，1983年出生...
+ ## [为什么说 Web 开发永远不会退出历史舞台？](https://blog.csdn.net/csdnnews/article/details/102425414)
+ > 早在 PC 崛起之际，Web 从蹒跚学步一路走到了主导市场的地位，但是随着移动互联网时代的来临，业界曾有不少人猜测，“Web 应该被杀死，App 才是未来”。不过时间是检...
+ ## [Python 2 寿命即将终结，​是时候将 3500 万行代码迁移到 Python 3 了！](https://blog.csdn.net/csdnnews/article/details/102425420)
+ > Python 2.x 版本的技术支持即将于 2020 年 1 月 1 日截止，你准备好将你的项目做迁移了吗？作者 |James Sanders译者 |风车云马，责编 ...
+ ## [MySQL 面试必备 8 个知识点](https://blog.csdn.net/csdnnews/article/details/102425422)
+ > 上周末和在北京的哥们国仔涮火锅，席间聊起了最近面试的经历。他说想换工作的原因很简单，就是要涨工资，原来的公司呆了两年多，薪资浮动不超过 500 元。而身边跳槽的那些同事，...
+ ## [机器智能芯片 10 大新秀！华为抢占一席，Google 占比最多！](https://blog.csdn.net/csdnnews/article/details/102425398)
+ > 整理 | 胡巍巍出品 | CSDN（ID：CSDNnews）当年，阿基米德爷爷说出“给我一个支点，我就能撬动地球”这句话时，估计没少遭受嘲讽。然而后来的我们，都曾在物理课...
+ ## [开发人员提升自己的四种方式](https://blog.csdn.net/csdnnews/article/details/102425401)
+ > 在提升软件开发技能方面，有哪些必备的妙招可以帮助自己呢？作者 |Skill Pathway译者 |弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下...
+ ## [亲测！这本 Python 书销量超过13W+原来是这样](https://blog.csdn.net/csdnnews/article/details/102425408)
+ > 之前「码书群」（要加的请看文末）里有个小伙伴说他想要学Python，但是他是一个新手，不知道该选哪本书作为他的学习资料进行学习，我经过多次的对比，给他推荐了《Python...
+ ## [蚂蚁金服数据库性能超甲骨文引热议；三大运营商 5G 预约用户接近 930 万；苹果发布新版 Mac 系统| 极客头条...](https://blog.csdn.net/csdnnews/article/details/102383550)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [反转！以视频搜视频，这批 AI 程序员要逆天了！](https://blog.csdn.net/csdnnews/article/details/102383601)
+ > 抖音AI火了！以图搜图，已经无法满足我们了。近期抖音新功能以视频搜视频上新，不知小姐姐叫什么，也能搜出她的影像！比如，你捕捉了一只可爱的妹子，想要看到更多她的影像，只要点...
+ ## [程序员的代码行数越少越好？](https://blog.csdn.net/csdnnews/article/details/102383602)
+ > 代码行数越少越好？读懂别人的代码很困难？如何编写出“完美”的代码？每天要坚持8小时编程？......拜托，这些编程误区程序员应该尽早知道！作者 |Ryland Gold...
 # 人工智能 
- ## [C语言很难学，所以这是真的](https://blog.csdn.net/qq_45704733/article/details/102248405)
- > C语言很难学，所以这是真的
- ## [研究显示: 95%的加密货币玩家都在赔钱, 6个惊人数据告诉你真实原因！](https://blog.csdn.net/Blockchain_lemon/article/details/102314158)
- > 研究显示: 95%的加密货币玩家都在赔钱, 6个惊人数据告诉你真实原因！
- ## [2019年10月8日股市走势预测——201](https://blog.csdn.net/yuwenle968/article/details/102233418)
- > 2019年10月8日股市走势预测——201
- ## [黑暗中的利刃, 解析区块链+DevOps实践 | 案例](https://blog.csdn.net/Blockchain_lemon/article/details/102314253)
- > 黑暗中的利刃, 解析区块链+DevOps实践 | 案例
- ## [Ubuntu 18.04下可用的效率工具集合](https://blog.csdn.net/discoverer100/article/details/102137051)
- > Ubuntu 18.04下可用的效率工具集合
- ## [必看！EXXA亿支付链上钱包真假情况，EXXAwallet钱包背景揭秘！](https://blog.csdn.net/btc916/article/details/102237721)
- > 必看！EXXA亿支付链上钱包真假情况，EXXAwallet钱包背景揭秘！
- ## [Visual Studio Code配置C语言环境，编写第一个Hello Wolrd](https://blog.csdn.net/qq_42428264/article/details/102149815)
- > Visual Studio Code配置C语言环境，编写第一个Hello Wolrd
- ## [geth私有链的安装和使用](https://blog.csdn.net/dmw412724/article/details/102262009)
- > geth私有链的安装和使用
- ## [DMFA商业计划书，邀请码：my158](https://blog.csdn.net/hm7133/article/details/102297716)
- > DMFA商业计划书，邀请码：my158
- ## [目前最火热的手机挖矿pi 币](https://blog.csdn.net/zhirongsu/article/details/102289312)
- > 目前最火热的手机挖矿pi 币
- ## [go语言下载](https://blog.csdn.net/gufenchen/article/details/102292316)
- > go语言下载
- ## [DMFA白皮书，邀请码：my158](https://blog.csdn.net/hm7133/article/details/102297532)
- > DMFA白皮书，邀请码：my158
- ## [Windows 10 Powshell 中的MD5校验命令](https://blog.csdn.net/armcynicism/article/details/102209813)
- > Windows 10 Powshell 中的MD5校验命令
- ## [协程配合管道的综合案例](https://blog.csdn.net/qq_43187004/article/details/102227494)
- > 协程配合管道的综合案例
- ## [【洛谷】P1029 最大公约数和最小公倍数问题（数学、枚举、暴力）](https://blog.csdn.net/qq_42780289/article/details/102295429)
- > 【洛谷】P1029 最大公约数和最小公倍数问题（数学、枚举、暴力）
+ ## [数据库基础（常用SQL语句）](https://blog.csdn.net/qq_41751237/article/details/102303643)
+ > 数据库基础（常用SQL语句）
+ ## [MySQL 面试高频 100 问](https://blog.csdn.net/zds448588952/article/details/102307446)
+ > MySQL 面试高频 100 问
+ ## [MySQL的事务与隔离级别](https://blog.csdn.net/Jhym2007/article/details/102256770)
+ > MySQL的事务与隔离级别
+ ## [蚂蚁自研数据库OceanBase拿下世界第一](https://blog.csdn.net/lixinkuan328/article/details/102220590)
+ > 
+ ## [SQL 实验项目2：交互式SQL-数据查询-单表查询](https://blog.csdn.net/COCO56/article/details/102261262)
+ > SQL 实验项目2：交互式SQL-数据查询-单表查询
+ ## [力扣数据库题目：第二高的薪水（简单）](https://blog.csdn.net/qq_43453731/article/details/102303815)
+ > 力扣数据库题目：第二高的薪水（简单）
+ ## [Java核心技术及面试指南 JDBC部分的面试题总结以及答案](https://blog.csdn.net/sxeric/article/details/102307155)
+ > Java核心技术及面试指南 JDBC部分的面试题总结以及答案
+ ## [Hibernate--批量抓取batch-size](https://blog.csdn.net/cold___play/article/details/102307588)
+ > Hibernate--批量抓取batch-size
+ ## [（SQL）185. 部门工资前三高的所有员工](https://blog.csdn.net/black_horse2018/article/details/102314862)
+ > （SQL）185. 部门工资前三高的所有员工
+ ## [数据库数据基础创建（20191008）](https://blog.csdn.net/qq_39204060/article/details/102390895)
+ > 数据库数据基础创建（20191008）
+ ## [Java系列：怎么快速插入 100 条数据，用时最短！](https://blog.csdn.net/Mrs_chens/article/details/102365998)
+ > Java系列：怎么快速插入 100 条数据，用时最短！
+ ## [mysql分库分表(二)](https://blog.csdn.net/qq_18298439/article/details/102373493)
+ > mysql分库分表(二)
+ ## [OmniDB的使用和容器之间连接的小坑](https://blog.csdn.net/weixin_43870742/article/details/102277204)
+ > OmniDB的使用和容器之间连接的小坑
+ ## [golang 实现简单的注册登陆 忘记修改密码](https://blog.csdn.net/weixin_45604257/article/details/102310602)
+ > golang 实现简单的注册登陆 忘记修改密码
+ ## [数据库问题——合并表格](https://blog.csdn.net/qq_37818728/article/details/102321518)
+ > 数据库问题——合并表格
 # PM 
- ## [产品心理学014 | 减少产品操作复杂度的4个方法](http://www.woshipm.com/pd/2941404.html)
- > 程序繁琐、复杂度高的产品用起来往往用户体验不佳，针对这种问题，产品经理该如何解决呢？本文笔者分析总结了4个方法，与大家分享。你有没有过这种体验，一些新升级的...
- ## [三问数据中台：是什么？怎么做？为什么要做？](http://www.woshipm.com/it/2903113.html)
- > 自从阿里提出了“大中台，小前台”概念之后，这几年数据中台这个概念火了起来，互联网巨头们纷纷搭建起了自家的数据中台，究竟数据中台有什么魅力，能让企业如此重视？本...
- ## [从4个方面谈谈：什么是瞬销？](http://www.woshipm.com/operate/2948580.html)
- > 随着移动端的普及，很多人在购物的时候，会直接下单购买，中间省略了一些价格对比的环节。在这个购买行为的变化下，有的人已经提前进入市场分到了一杯羹，这个方法就是...
- ## [什么是品牌全案？如何做好品牌全案？](http://www.woshipm.com/marketing/2948193.html)
- > 全案，是广告人经常挂在嘴边，听上去颇有份量、说出来颇带自豪感的一个词。“最近刚做完一个全案，通宵了半个月”“我正在比一个全案，十个亿的预算”……那么全案究竟是什么...
- ## [聊聊产品中的心理学之“登门槛效应”](http://www.woshipm.com/operate/2949167.html)
- > 本文想以接地气的方式去解读心理学中的那些复杂理论，同时辅以当下互联网的案例去帮助小伙伴们理解和吸收，从而更好的将其运用到实践当中。本文讲的理论是——登门槛效应...
- ## [以移动医疗领域为例，讨论搭建社群运营体系的方法](http://www.woshipm.com/operate/2944018.html)
- > 本文用5w1h分析法进行介绍，分析了从为什么搭建社群到如何搭建社群等一些列的可套用的方法，也许能为你带来启发与思考。“群死了，没人发言怎么办？”“群人数不增加只...
- ## [云 & AIoT：谁是幕后老板？](http://www.woshipm.com/ai/2942269.html)
- > 云计算走向IoT困难不少，但趋势是必然。大家可能会发现，在过去一段时间里，云计算、AI和物联网这三件事被同时提及的次数之多，可谓史无前例。可能大家已经认为这是某...
- ## [FMS财务管理系统：费用管理](http://www.woshipm.com/pd/2944799.html)
- > 在FMS财务管理系统中，和公司主营业务收入相关的费用有哪些？本篇文章中，笔者对具体分类和流程进行了系统的分析和总结，与大家分享。财务中的费用管理主要包括销售费...
- ## [线上课程 | 上课2周，收获年薪27万产品经理offer](http://www.woshipm.com/active/2917417.html)
- > 先上截图：Sam是产品经理就业特训营学员，9月9日开课参加1907期课程学习，不到2周时间，9月23日就成功拿到刚融资D轮的某互联网公司海外产品经理offer。下面，我们来...
+ ## [从“文娱”到“智造”，长沙互联网未来可期](http://www.woshipm.com/it/2948521.html)
+ > 以前有人问过“长沙究竟有没有互联网？”，而本文告诉我们：从文娱到智造，长沙互联网起于此，但未来不止如此。8月，中国互联网协会、工信部信息中心联合发布2019年互联...
+ ## [品牌的诞生与发展：培养用户心智，占据品类头部](http://www.woshipm.com/marketing/2948121.html)
+ > 品牌让生活更简单，在潜移默化中培养用户心智，将其变成自己的忠实用户。品牌是什么？为什么会有品牌？品牌在我们生活中究竟扮演着什么角色？回答之前，我们先设想一...
+ ## [以“一点点”为例，看用户营销的MOT行为模式](http://www.woshipm.com/marketing/2948208.html)
+ > 笔者以“一点点”奶茶为例，用MOT行为模式分析了它是如何对用户产生迷惑，进而让用户主动推荐的过程。不知道你有没有过这样的经历：当你下载一款PC端软件产品的时候，往...
+ ## [环绕屏手机，或催生新物种「环绕屏产品经理」](http://www.woshipm.com/it/2944657.html)
+ > ​结合小米最新发布的“环绕屏”手机来看，它带来的是全然不同的产品呈现，无论是页面设计，还是操作交互，都需要进行重新设计与打造。而在环绕屏的趋势下，环绕屏产品经理...
+ ## [理解私域流量底层逻辑，让课程增长起来](http://www.woshipm.com/operate/2938064.html)
+ > 私域流量不是简单地加微信、发广告、刷屏朋友圈，针对教培行业，这个大吃私域流量红利的行业，如何才可以玩转私域流量，让流量活起来？关键在于，理解与用户的核心契合...
+ ## [支付系统：浅谈支付公司的扣款功能](http://www.woshipm.com/pd/2947657.html)
+ > 本文笔者从自己的工作经历出发，简单梳理了支付公司的扣款功能设计，与大家分享。一、支付公司的实现原理1. 直连模式在2018 年6 月30 日之前，支付公司大多是直连银...
+ ## [界面交互设计总结：运营类](http://www.woshipm.com/pd/2947940.html)
+ > 什么是界面交互设计这个话题，早就已经被反复说了很多次了，但是继续深入下去——如何做一个好的界面交互设计，却鲜有大范围的深入讨论。就着这个方向，我会分两期深入分...
+ ## [公众号互动内容：小众潮流or下一个风口？](http://www.woshipm.com/it/2950086.html)
+ > 随着微信公众号生态日趋饱和，用户的注意力被切得七零八落，多种形式的公众号推文形式不断的出现。本文就跟大家谈谈公众号互动内容，到底是一个小众潮流呢还是下一个风...
+ ## [遵循“四不四要”法则，开一场高效的复盘会](http://www.woshipm.com/pmd/2949732.html)
+ > 低效低质的会议是工作中令人厌烦的部分，那么，如何才能开一场高效高质的会议呢？笔者以复盘会为例，总结了“四不四要”的方法论。在工作中，每个人几乎都会独立负责一...
+ ## [创业公司PM和大公司PM的区别是啥？](http://www.chanpin100.com/article/109701)
+ > 创业公司PM和大公司PM的区别是啥？
+ ## [2019年暑期档中国文娱产业观察](http://www.chanpin100.com/article/109704)
+ > 2019年暑期档期间，以影视综及现场娱乐为代表的中国文娱产业在多个方面取得了突破性进展。内地电影市场以176.53亿元总票房收官，同比去年增长1.60%，国产动画电影《哪吒之魔童降世》以46.81亿元的成绩荣膺档期票房冠军。
+ ## [“人、货、场”巨变，新消费时代下品牌的增长机会在哪？](http://www.chanpin100.com/article/109702)
+ > 消费分级、品牌差异化、技术赋能，新消费时代的品牌增长逻辑
  ## [产品经理必备的4个工具、1个知识、1个绝招](http://www.chanpin100.com/article/109706)
  > 简单直白的说明&quot;市场分析,竞品分析，用户调研，数据分析，业务知识”，这4个工具+1个知识，包含的内容，以及在实际工作中的应用场景。
- ## [全民体育大热时出现负增长，腾讯体育如何重新掌控节奏？](http://www.chanpin100.com/article/109698)
- > 体育爱好者不少，体育直播是这一群体观看赛事的重要渠道，面对庞大的用户群体和市场规模，腾讯体育却出现负增长。未来，从产品到运营，腾讯体育要如何进行调整重回巅峰？
- ## [如何设计一个好的404页面？](http://www.chanpin100.com/article/109697)
- > 404页面做的好，用户不跳脚！
- ## [这是一份超详细的支付宝钱包原型模板，免费使用！(支付宝支付跳转)](http://www.chanpin100.com/article/109696)
- > 电子支付的普及，很多PM不得不在产品设计时进行钱包设计。”有一个可以直接复用的钱包原型模板就好啦！“ 那么它来啦~
- ## [浅谈用户体验的4个维度](http://www.chanpin100.com/article/109693)
- > 怎样判断一款产品有几个维度？4 维度之间存在怎样的关系？
- ## [【连载】《用户增长方法论》（05）](http://www.chanpin100.com/article/109649)
- > 有个成语叫“趋利避害”，趋利避害是人的一种本性。前面两节我们讲的“生存”和“效率”实际上就是在讲“避害”，而本节将要讲解的寻找痛点的另一个维度“价格”则是“趋利”。当人们想要某件商品或者服务，而由于某些原因不愿意或者付不起费用的时候，痛点就出现了。
 
     
