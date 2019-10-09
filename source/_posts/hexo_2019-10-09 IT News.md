@@ -1,7 +1,7 @@
 ---
 title: 2019-10-09 IT News
 copyright: true
-date: 2019-10-09 12:01:11
+date: 2019-10-09 17:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,83 +68,83 @@ HTC&#21542;&#35748;&#36864;&#20986;&#25163;&#26426;&#24066;&#22330; 2025&#24180;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [被美国列入实体清单，海康威视、科大讯飞、商汤科技等回应](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=JjHSWPwykQHzq7aejioqu9wYIUj6GIeTs0YTfWb-YXZWIII2tv9nNnZJf4lHBGtccGYu2i-fWb6fRsfrFEbkaAFZvHLfsWftGkdzDLbDbkygjOVhBncfX2kUPMS*-uOT&new=1)
- > 美国时间10月7日，美联邦政府宣布，将28家中国实体加入“实体管制清单”，禁止这些实体购买美国产品。根据已曝光的文件显示，这28家实体当中将包括海康威视、大华科技、科大讯飞、旷视科技、商汤科技、依图科技...
- ## [渗透测试第二阶段：信息收集方法原理经验心得](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=yNMFuwJHpraHW-y-x06a8bhfhQREdXfXBW-ooDxuBc8vLTKIFysoK1oF-VudPupLZBYHLqLBvXdXjMlRb32uCaXZF-TcTfeIBv5lhIZRRlXILa-ve5FQMJG4QF*SWUqP&new=1)
+ ## [渗透测试第二阶段：信息收集方法原理经验心得](http://mp.weixin.qq.com/s?src=11&timestamp=1570611604&ver=1901&signature=yNMFuwJHpraHW-y-x06a8bhfhQREdXfXBW-ooDxuBc8--dzR4tMMP7bYN*NH51O-E6w4cvx5LsIl0hZO*eWUjhrCwVoy8XCTd1zQ5GrLp94sDmYq53rhs8EqXSacndMy&new=1)
  > 信息收集是渗透测试中第二阶段的工作，也是非常重要的一项。所收集到的情报信息，能直接影响下一阶段的工作及效果。那么具体的信息收集工作应如何实施呢？接下来我会用一此虚构的案例结合原理来进行说明，如有不...
- ## [继华为后 又有8家中国科技公司被美国列入实体清单](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=FMbkxnTBVg3S8a7iSWhPChHhrGnQajaK6otSWLn44BZdR85I8w55*O4JE7QOL7-HOUW49trMGRZQ4tmbpuHg0Wusj-32ImPOI3lvnksun38jEV79ltQ5kDo0BW7mY*Ja&new=1)
- > 据路透社消息，美国商务部工业与安全局（BIS）10月8日在官网宣布，对28家中国组织和企业实行贸易封禁，列入“实体清单”，其中受影响企业共有8家，包括视频监控领域的海康威视、大华股份，AI领域的科大讯飞、旷...
- ## [入职通信行业5年想离开，抉择岔路口到底应该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=wIkpKPbwp-sLKOBDRibPqE2J9ifazFEFrBkM675rbsuhmp5qhjrBxfcSeSP3jEN6iTbcqR59axdUsM4xeSoE5O2pDwouDfO2Y8VzKx5WnM4PYHpkR6AvWPqpCHBgts7e&new=1)
- > 近日，运营商观察在某论坛上发现一则帖子，称自己入行通信运维5年想要转行，但对未来充满不确定性，给大神指点迷津，有什么好的转行方向。这或许是个例却也能给不少处在抉择岔路口的人一些启示。全文如下：本人...
- ## [突发!美国“拉黑”8家中国科技企业：海康/大华/旷视等企业在内](http://mp.weixin.qq.com/s?src=11&timestamp=1570593604&ver=1901&signature=0NAs8VXjCUxKpU1rV1DsDxaj5n*jNsUo6yZ79ECB-0F2BqIF1GR4G33*z3*iN27bWADobwHWDJIRE1sX921wK6FdSQCOWDt1V-PgYaL5IBrnbEhjTni3*vkqMdpAPXse&new=1)
+ ## [突发!美国“拉黑”8家中国科技企业：海康/大华/旷视等企业在内](http://mp.weixin.qq.com/s?src=11&timestamp=1570611604&ver=1901&signature=0NAs8VXjCUxKpU1rV1DsDxaj5n*jNsUo6yZ79ECB-0HTXj8AVcWWeu6tCezWQS6lw3jO8qr7UnV0l6Mc23fpU-Do0eMnhVmQw-ZvHkf*H0IiJFOzz3VU6KaeHV15hyiI&new=1)
  > 小长假回来的第一天，就遇到美国商务部“搞事情”。据外媒报道，当地时间10月7日，美商务部产业安全局新增了一批“实体清单”。名单中有28家中国企业，其中包括了海康威视、大华股份等8家国内知名科技企业，覆盖...
+ ## [被美国列入实体清单，海康威视、科大讯飞、商汤科技等回应](http://mp.weixin.qq.com/s?src=11&timestamp=1570611604&ver=1901&signature=JjHSWPwykQHzq7aejioqu9wYIUj6GIeTs0YTfWb-YXZcD3may0QRKUO6bx07T*QVUg0RQ*Ls3KcoQrdQs6C1lS3G19-Tp8WEf2*hs2hutH8JiXLebxvypLbrqm86I4PJ&new=1)
+ > 美国时间10月7日，美联邦政府宣布，将28家中国实体加入“实体管制清单”，禁止这些实体购买美国产品。根据已曝光的文件显示，这28家实体当中将包括海康威视、大华科技、科大讯飞、旷视科技、商汤科技、依图科技...
+ ## [入职通信行业5年想离开，抉择岔路口到底应该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1570611604&ver=1901&signature=wIkpKPbwp-sLKOBDRibPqE2J9ifazFEFrBkM675rbssz-P5dT5CN3WYlkz72GIwbZy1yZurxEQ7svJC2Tee-x0i8qxhqghVI6LnyDEUYi-JIdsv2E6vIPAI3xF3YO0h4&new=1)
+ > 近日，运营商观察在某论坛上发现一则帖子，称自己入行通信运维5年想要转行，但对未来充满不确定性，给大神指点迷津，有什么好的转行方向。这或许是个例却也能给不少处在抉择岔路口的人一些启示。全文如下：本人...
+ ## [继华为后 又有8家中国科技公司被美国列入实体清单](http://mp.weixin.qq.com/s?src=11&timestamp=1570611604&ver=1901&signature=FMbkxnTBVg3S8a7iSWhPChHhrGnQajaK6otSWLn44BaDqrnklCT-dARmDEbziXfnkXOGQbcEgns6oA50hU8vPIgXKS3C-XykoN6F2GqrcwZUW2Pmdg69oXiPcvMDLHso&new=1)
+ > 据路透社消息，美国商务部工业与安全局（BIS）10月8日在官网宣布，对28家中国组织和企业实行贸易封禁，列入“实体清单”，其中受影响企业共有8家，包括视频监控领域的海康威视、大华股份，AI领域的科大讯飞、旷...
 # IT 技术 
  ## [从平庸到大牛程序员，不能错过9月的这十篇热门文章！](http://news.51cto.com/art/201910/603912.htm)
  > 从平庸到大牛程序员，不能错过9月的这十篇热门文章！
+ ## [2020年企业面临的20大数据安全风险](http://netsecurity.51cto.com/art/201910/603923.htm)
+ > 2020年企业面临的20大数据安全风险
+ ## [只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱](http://zhuanlan.51cto.com/art/201910/603916.htm)
+ > 只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱
  ## [大规模集群故障处理，能抗住这3个灵魂拷问算你赢](http://netsecurity.51cto.com/art/201910/603931.htm)
  > 大规模集群故障处理，能抗住这3个灵魂拷问算你赢
+ ## [Julia、Delta Lake榜上有名！2019年优秀开源软件奖公布](http://news.51cto.com/art/201910/603891.htm)
+ > Julia、Delta Lake榜上有名！2019年优秀开源软件奖公布
  ## [如何将Kubernetes集群部署在谷歌云平台上？](http://cloud.51cto.com/art/201910/603874.htm)
  > 如何将Kubernetes集群部署在谷歌云平台上？
+ ## [区块链技术是解决跨境交易顽疾的“灵丹妙药”](http://blockchain.51cto.com/art/201910/603899.htm)
+ > 区块链技术是解决跨境交易顽疾的“灵丹妙药”
  ## [怒了，Facebook强行辞退要求公布跳楼真相的程序员！](http://news.51cto.com/art/201910/603928.htm)
  > 怒了，Facebook强行辞退要求公布跳楼真相的程序员！
- ## [真相了，中台到底“出路”还是“末路”?](http://developer.51cto.com/art/201910/603823.htm)
- > 真相了，中台到底“出路”还是“末路”?
- ## [10大迹象表明你正落入社会工程的陷阱之中](http://zhuanlan.51cto.com/art/201910/603849.htm)
- > 10大迹象表明你正落入社会工程的陷阱之中
- ## [外行都能看懂，漫画解读“中台”](http://developer.51cto.com/art/201910/603820.htm)
- > 外行都能看懂，漫画解读“中台”
- ## [Python 从入门到精通：一个月就够了！](http://news.51cto.com/art/201910/603833.htm)
- > Python 从入门到精通：一个月就够了！
- ## [现在你可以借助Insync在Linux中原生使用OneDrive](http://os.51cto.com/art/201910/603943.htm)
- > 最近发布的 Insync 3 支持了 OneDrive。因此在本文中，我们将看下如何在 Insync 中使用 OneDrive 以及它的
- ## [一次跨行取款失败，而引发对分布式事务的思考](http://developer.51cto.com/art/201910/603942.htm)
- > 不知道大家有没有遇到这样的情况，就是去自动取款机取钱的时候，比如说你去取1000块钱，这个时候系统会先帮
- ## [人工智能在情绪方面更智能了？人类也应如此](http://ai.51cto.com/art/201910/603941.htm)
- > 人们处于孤独中的行为方式与在公共场合的行为方式大相径庭，但人的基本性格仍然会保持不变。在没有观众的情
- ## [云计算时代，你应该熟知的10项安全技术](http://cloud.51cto.com/art/201910/603939.htm)
- > 随着攻击者提高其攻击能力，企业也必须提高其保护访问和防止攻击的能力，安全风险领导者必须评估并使用最新
- ## [多云采用的企业指南](http://cloud.51cto.com/art/201910/603937.htm)
- > InformationWeek对于云计算和蓬勃发展的多云市场进行了阐述和分析，并将涵盖范围分为五个部分：云计算的发
- ## [如何搭建合适的Web框架？](http://developer.51cto.com/art/201910/603940.htm)
- > 之前在Web开发框架推导一文中我们一步步的搭建了一个开发框架。在当时的情况下，还算满足需求。但是随着项
- ## [云之变：云与智能大变局](http://cloud.51cto.com/art/201910/603936.htm)
- > 云服务市场，正在AI的注入下迎来一场大变局。接下来，我们将在一系列文章中讨论这场变局的不同侧面。而今天
- ## [漫话：如何给女朋友解释什么是云计算？](http://cloud.51cto.com/art/201910/603933.htm)
- > 周末在家，我在看书，女朋友在一旁看游戏直播。两个人相安无事，突然女朋友好像看弹幕有什么东西不理解了，
- ## [互联网寒冬下，Go语言平均薪资高达29K，为什么？](http://developer.51cto.com/art/201910/603932.htm)
- > Go备受欢迎，无论是研发小团队还是大规模研发阵容，都十分适合，再加上供不应求，薪资自然水涨船高。如今，
- ## [国产自研数据库打败 Oracle？网友热议](http://news.51cto.com/art/201910/603929.htm)
- > 近日，数据库领域权威的国际机构国际事务处理性能委员会（TPC）在官网发表了最新的 TPC-C 基准测试结果。
- ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
- > C语言实现推箱子游戏
- ## [《C++ Primer》习题参考答案：第3章 - 字符串、向量和数组](https://blog.csdn.net/TeFuirnever/article/details/101976043)
- > 《C++ Primer》习题参考答案：第3章 - 字符串、向量和数组
- ## [Oracle Database 20c 十大新特性一览](https://blog.csdn.net/enmotech/article/details/102380925)
- > Oracle Database 20c 十大新特性一览
- ## [玩转 SpringBoot 2 快速整合 Listener](https://blog.csdn.net/ljk126wy/article/details/102031479)
- > 玩转 SpringBoot 2 快速整合 Listener
+ ## [如何通过SSH在远程Linux系统上运行命令](http://os.51cto.com/art/201910/603972.htm)
+ > 我们有时可能需要在远程机器上运行一些命令。如果只是偶尔进行的操作，要实现这个目的，可以登录到远程系统
+ ## [谁在为“AI+教育”试错买单？](http://ai.51cto.com/art/201910/603973.htm)
+ > 在教育行业，似乎AI作为一个辅助工具出现更为合适，企业在资本浪潮簇拥着前进的时候，更应该想清楚是教育的
+ ## [MacOS 10.15“更像是Vista” 不再是那个可以第一时间升级的系统了](http://os.51cto.com/art/201910/603970.htm)
+ > 日前对关于iPadOS和macOS Catalina的社区评论进行了审查后，外媒The Verge最终的结论偏向后者，推荐直到你
+ ## [2019年10月Android安全补丁发布：共计修复26处漏洞](http://mobile.51cto.com/anews-603969.htm)
+ > 最新发布的2019年10月安全补丁更新中，谷歌共计修复了Android系统中26个漏洞，其中包括影响Android 10的一
+ ## [辨析BI、数据仓库、数据湖和数据中台内涵及差异点](http://news.51cto.com/art/201910/603971.htm)
+ > 随着大数据技术的不断更新和迭代，数据管理工具得到了飞速的发展，相关概念如雨后春笋一般应运而生，如从最
+ ## [AMD官方揭秘Zen 3和Zen 4架构](http://biz.51cto.com/art/201910/603968.htm)
+ > 在HPC-AI会议上，AMD在PPT中进一步前瞻了Zen 3和Zen 4架构的EPYC(霄龙)处理器。
+ ## [物联网助力 70周年国庆，大放异彩](http://iot.51cto.com/art/201910/603966.htm)
+ > 2019年10月1日，我们的祖国迎来了70岁华诞 ！为国庆大典备战的阅兵彩排；大街小巷飘起的“中国红”五星红旗
+ ## [智慧城市落地，这需要应用的核心技术？](http://iot.51cto.com/art/201910/603964.htm)
+ > 随着移动互联网的普及，ICT发展的规模和效益也日益突出。大数据、云计算、人工智能、传感器、通信等智慧城
+ ## [搞懂高可用缓存架构，总结五大缓存问题解决方案](http://stor.51cto.com/art/201910/603965.htm)
+ > 缓存雪崩指的是由于数据没有被加载到缓存中，或者缓存数据在同一时间大面积失效(过期)，又或者缓存服务器宕
+ ## [一文读懂Tomcat组件--一个Web服务器的架构演化史](http://developer.51cto.com/art/201910/603962.htm)
+ > tomcat是一个web容器，可以将web应用部署到tomcat，由它提供web服务，一个web容器中可以部署多个web应用，
+ ## [2019年10月全国程序员工资统计，一半以上的职位5个月没招到人。](https://blog.csdn.net/juwikuang/article/details/102326317)
+ > 
+ ## [如何成为一个受“待见”的程序员？](https://blog.csdn.net/singwhatiwanna/article/details/102385850)
+ > 
+ ## [国内能打自动驾驶出租车了！行驶平稳还免费，首个量产车型开放道路试运营...](https://blog.csdn.net/QbitAI/article/details/101572650)
+ > 国内能打自动驾驶出租车了！行驶平稳还免费，首个量产车型开放道路试运营...
+ ## [为什么面向对象糟透了？](https://blog.csdn.net/coderising/article/details/101444370)
+ > 为什么面向对象糟透了？
+ ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
+ > 
  ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
  > 
- ## [动画：动画从零学编程之 “栈” 你掌握这些必备了吗？](https://blog.csdn.net/qq_36903042/article/details/102368008)
+ ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
  > 
- ## [通过实例快速掌握k8s（Kubernetes）核心概念](https://blog.csdn.net/weixin_38748858/article/details/102132544)
+ ## [开源大阅兵：盘点那些走向世界的中国项目](https://blog.csdn.net/dyc87112/article/details/101905275)
  > 
- ## [2019云栖大会高能看点之：程序员吐槽大会](https://blog.csdn.net/weixin_39786569/article/details/101672053)
- > 2019云栖大会高能看点之：程序员吐槽大会
- ## [Java泛型 通配符详解](https://blog.csdn.net/anlian523/article/details/100865538)
+ ## [学Linux到底学什么](https://blog.csdn.net/hyb612/article/details/101561520)
  > 
- ## [Google Chrome 正在走 Windows 的老路](https://blog.csdn.net/csdnnews/article/details/102031103)
- > Google Chrome 正在走 Windows 的老路
- ## [学 Java 网络爬虫，需要哪些基础知识？](https://blog.csdn.net/z694644032/article/details/102058529)
- > 
+ ## [美国汽车协会实测：行人检测系统都是渣渣，包括特斯拉](https://blog.csdn.net/QbitAI/article/details/102380848)
+ > 美国汽车协会实测：行人检测系统都是渣渣，包括特斯拉
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [Python使用tkinter模块实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101934416)
+ ## [分享靠写代码赚钱的一些门路](https://blog.csdn.net/lantian_123/article/details/101488841)
+ > 分享靠写代码赚钱的一些门路
+ ## [数据库OceanBase创始人阳振坤：通关TPC-C到底有多难？](https://blog.csdn.net/yunqiinsight/article/details/102368102)
  > 
- ## [gitbook 入门教程之从零到壹发布自己的插件](https://blog.csdn.net/weixin_38171180/article/details/102398627)
- > 
- ## [史上最强 iPhone 越狱工具开源：功能永久有效！](https://blog.csdn.net/sinat_33224091/article/details/102385819)
- > 史上最强 iPhone 越狱工具开源：功能永久有效！
+ ## [Google离开我们快十年了](https://blog.csdn.net/david_lv/article/details/101442722)
+ > Google离开我们快十年了
+ ## [认真推荐几个不错的技术公众号](https://blog.csdn.net/bjweimengshu/article/details/102029829)
+ > 认真推荐几个不错的技术公众号
  ## [金山云肖江：26 岁拿到博士学位，如今掌舵金山云 AIoT 研发 | 人物志](https://blog.csdn.net/csdnnews/article/details/102425378)
  > 受访者 | 肖江作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）CSDN创始人蒋涛，当年在金山工作时，二十几岁就当上管理层。而笔者采访的肖江，1983年出生...
  ## [为什么说 Web 开发永远不会退出历史舞台？](https://blog.csdn.net/csdnnews/article/details/102425414)
@@ -166,55 +166,61 @@ HTC&#21542;&#35748;&#36864;&#20986;&#25163;&#26426;&#24066;&#22330; 2025&#24180;
  ## [程序员的代码行数越少越好？](https://blog.csdn.net/csdnnews/article/details/102383602)
  > 代码行数越少越好？读懂别人的代码很困难？如何编写出“完美”的代码？每天要坚持8小时编程？......拜托，这些编程误区程序员应该尽早知道！作者 |Ryland Gold...
 # 人工智能 
- ## [数据库基础（常用SQL语句）](https://blog.csdn.net/qq_41751237/article/details/102303643)
- > 数据库基础（常用SQL语句）
- ## [MySQL 面试高频 100 问](https://blog.csdn.net/zds448588952/article/details/102307446)
- > MySQL 面试高频 100 问
- ## [MySQL的事务与隔离级别](https://blog.csdn.net/Jhym2007/article/details/102256770)
- > MySQL的事务与隔离级别
- ## [蚂蚁自研数据库OceanBase拿下世界第一](https://blog.csdn.net/lixinkuan328/article/details/102220590)
+ ## [用Matplotlib，妈妈再也不担心我没有表情包斗图了](https://blog.csdn.net/duxinshuxiaobian/article/details/102218015)
+ > 用Matplotlib，妈妈再也不担心我没有表情包斗图了
+ ## [Kubernetes(一) 跟着官方文档从零搭建K8S](https://blog.csdn.net/piaoruiqing/article/details/102321655)
+ > Kubernetes(一) 跟着官方文档从零搭建K8S
+ ## [通过实例快速掌握k8s（Kubernetes）核心概念](https://blog.csdn.net/weixin_38748858/article/details/102132544)
  > 
- ## [SQL 实验项目2：交互式SQL-数据查询-单表查询](https://blog.csdn.net/COCO56/article/details/102261262)
- > SQL 实验项目2：交互式SQL-数据查询-单表查询
- ## [力扣数据库题目：第二高的薪水（简单）](https://blog.csdn.net/qq_43453731/article/details/102303815)
- > 力扣数据库题目：第二高的薪水（简单）
- ## [Java核心技术及面试指南 JDBC部分的面试题总结以及答案](https://blog.csdn.net/sxeric/article/details/102307155)
- > Java核心技术及面试指南 JDBC部分的面试题总结以及答案
- ## [Hibernate--批量抓取batch-size](https://blog.csdn.net/cold___play/article/details/102307588)
- > Hibernate--批量抓取batch-size
- ## [（SQL）185. 部门工资前三高的所有员工](https://blog.csdn.net/black_horse2018/article/details/102314862)
- > （SQL）185. 部门工资前三高的所有员工
- ## [数据库数据基础创建（20191008）](https://blog.csdn.net/qq_39204060/article/details/102390895)
- > 数据库数据基础创建（20191008）
- ## [Java系列：怎么快速插入 100 条数据，用时最短！](https://blog.csdn.net/Mrs_chens/article/details/102365998)
- > Java系列：怎么快速插入 100 条数据，用时最短！
- ## [mysql分库分表(二)](https://blog.csdn.net/qq_18298439/article/details/102373493)
- > mysql分库分表(二)
- ## [OmniDB的使用和容器之间连接的小坑](https://blog.csdn.net/weixin_43870742/article/details/102277204)
- > OmniDB的使用和容器之间连接的小坑
- ## [golang 实现简单的注册登陆 忘记修改密码](https://blog.csdn.net/weixin_45604257/article/details/102310602)
- > golang 实现简单的注册登陆 忘记修改密码
- ## [数据库问题——合并表格](https://blog.csdn.net/qq_37818728/article/details/102321518)
- > 数据库问题——合并表格
+ ## [【01】Hadoop介绍](https://blog.csdn.net/weixin_41701308/article/details/102300432)
+ > 【01】Hadoop介绍
+ ## [VMware Workstation Pro 无法在Windows上运行](https://blog.csdn.net/qq_45008522/article/details/102288572)
+ > VMware Workstation Pro 无法在Windows上运行
+ ## [Typing Game 之英语的重要性！！！(pygame游戏小项目)](https://blog.csdn.net/qq_43629857/article/details/101719324)
+ > 
+ ## [GANS的世界2-0：DG-Net(行人重识别ReID)-目录-史上最新无死角讲解](https://blog.csdn.net/weixin_43013761/article/details/102364512)
+ > GANS的世界2-0：DG-Net(行人重识别ReID)-目录-史上最新无死角讲解
+ ## [JAVA程序员进阶之路——8套JAVA架构师全套视频。集群、高可用、高可扩展、高性能、高并发、性能优化 Redis、ActiveMQ、Nginx、Mycat、Netty、Jvm大型分布式项目实战](https://blog.csdn.net/lizhi3186575/article/details/102314655)
+ > JAVA程序员进阶之路——8套JAVA架构师全套视频。集群、高可用、高可扩展、高性能、高并发、性能优化 Redis、ActiveMQ、Nginx、Mycat、Netty、Jvm大型分布式项目实战
+ ## [Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders](https://blog.csdn.net/weixin_38937984/article/details/102377224)
+ > Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders
+ ## [新人心得|数据结构](https://blog.csdn.net/osusoer/article/details/102018949)
+ > 新人心得|数据结构
+ ## [内网与外网及IPLC和BGP的区别](https://blog.csdn.net/JENREY/article/details/102219245)
+ > 内网与外网及IPLC和BGP的区别
+ ## [Google离开我们快十年了](https://blog.csdn.net/david_lv/article/details/101442722)
+ > Google离开我们快十年了
+ ## [nginx与keepalived实现高可用](https://blog.csdn.net/weixin_42480196/article/details/102290152)
+ > nginx与keepalived实现高可用
+ ## [华为云文字识别关键技术和特别需要注意的事宜](https://blog.csdn.net/devcloud/article/details/102365452)
+ > 华为云文字识别关键技术和特别需要注意的事宜
+ ## [对数据结构的初级定义和初级认识（学习整理于王道考研-数据结构）](https://blog.csdn.net/ComputerGeekHack/article/details/102330880)
+ > 对数据结构的初级定义和初级认识（学习整理于王道考研-数据结构）
 # PM 
- ## [从“文娱”到“智造”，长沙互联网未来可期](http://www.woshipm.com/it/2948521.html)
- > 以前有人问过“长沙究竟有没有互联网？”，而本文告诉我们：从文娱到智造，长沙互联网起于此，但未来不止如此。8月，中国互联网协会、工信部信息中心联合发布2019年互联...
- ## [品牌的诞生与发展：培养用户心智，占据品类头部](http://www.woshipm.com/marketing/2948121.html)
- > 品牌让生活更简单，在潜移默化中培养用户心智，将其变成自己的忠实用户。品牌是什么？为什么会有品牌？品牌在我们生活中究竟扮演着什么角色？回答之前，我们先设想一...
- ## [以“一点点”为例，看用户营销的MOT行为模式](http://www.woshipm.com/marketing/2948208.html)
- > 笔者以“一点点”奶茶为例，用MOT行为模式分析了它是如何对用户产生迷惑，进而让用户主动推荐的过程。不知道你有没有过这样的经历：当你下载一款PC端软件产品的时候，往...
- ## [环绕屏手机，或催生新物种「环绕屏产品经理」](http://www.woshipm.com/it/2944657.html)
- > ​结合小米最新发布的“环绕屏”手机来看，它带来的是全然不同的产品呈现，无论是页面设计，还是操作交互，都需要进行重新设计与打造。而在环绕屏的趋势下，环绕屏产品经理...
- ## [理解私域流量底层逻辑，让课程增长起来](http://www.woshipm.com/operate/2938064.html)
- > 私域流量不是简单地加微信、发广告、刷屏朋友圈，针对教培行业，这个大吃私域流量红利的行业，如何才可以玩转私域流量，让流量活起来？关键在于，理解与用户的核心契合...
- ## [支付系统：浅谈支付公司的扣款功能](http://www.woshipm.com/pd/2947657.html)
- > 本文笔者从自己的工作经历出发，简单梳理了支付公司的扣款功能设计，与大家分享。一、支付公司的实现原理1. 直连模式在2018 年6 月30 日之前，支付公司大多是直连银...
- ## [界面交互设计总结：运营类](http://www.woshipm.com/pd/2947940.html)
- > 什么是界面交互设计这个话题，早就已经被反复说了很多次了，但是继续深入下去——如何做一个好的界面交互设计，却鲜有大范围的深入讨论。就着这个方向，我会分两期深入分...
- ## [公众号互动内容：小众潮流or下一个风口？](http://www.woshipm.com/it/2950086.html)
- > 随着微信公众号生态日趋饱和，用户的注意力被切得七零八落，多种形式的公众号推文形式不断的出现。本文就跟大家谈谈公众号互动内容，到底是一个小众潮流呢还是下一个风...
- ## [遵循“四不四要”法则，开一场高效的复盘会](http://www.woshipm.com/pmd/2949732.html)
- > 低效低质的会议是工作中令人厌烦的部分，那么，如何才能开一场高效高质的会议呢？笔者以复盘会为例，总结了“四不四要”的方法论。在工作中，每个人几乎都会独立负责一...
+ ## [微信国庆数据：这一届群众更宅了！3480万人国庆假期行不足百步](http://www.woshipm.com/data-analysis/2951559.html)
+ > 假期过得太快就像龙卷风。风停了，国庆微信数据报告上线了。国庆长假，3480万人微信运动步数不足百步，浙江省成为新一届“慵懒”省份“国庆读国史”成为阅读新潮流，小...
+ ## [客户体验，如何驱动To B业务增长？](http://www.woshipm.com/operate/2951523.html)
+ > 对于2B企业而言，客户体验往往被忽视。实际上，提升客户体验带来的效益超过100%。“你觉得好体验能为公司带来哪些增长？”“体验优化涉及支出和费用，ROI大概多少？”“...
+ ## [校企合作案例复盘：虚拟仿真实验教学项目](http://www.woshipm.com/pmd/2858581.html)
+ > 本文主要对虚拟仿真实验教学项目从项目情况、需求理解以及解决思路三个角度进行复盘。一、项目情况1. 目标回顾1）项目目标为学校开发一款适合于金融教学的智能投资...
+ ## [详解四类产品经理的思考层次](http://www.woshipm.com/pmd/2949504.html)
+ > 本文总结了从一流到四流产品经理的特质，以及独具特色的思考层次，希望能给你带来启发。John放假期间一直在思考，之前的一篇文章《干货精华集锦梳理产品经理工作流》...
+ ## [营销：洞察/策略/创意/诉求的本质与关系](http://www.woshipm.com/marketing/2950433.html)
+ > 对于营销策划人来说，搞清洞察/策略/创意/诉求这几个概念是重中之重的事，本文就具体围绕这几点进行了分析。做人难，做策划人更难，做一个明白的策划人难上加难。看...
+ ## [一份文案人日常自检清单！](http://www.woshipm.com/copy/2950366.html)
+ > 有自己的一份自检清单，你肯定能规避很多不该犯的错误，明确那些自己该重视的点，还能刻意去练习学到的技巧，将写文案各个环节做得更好，那自然离成功更近。写文案就...
+ ## [95后的封闭文化圈子：为什么你不理解现在的年轻人？](http://www.woshipm.com/user-research/2950114.html)
+ > 为什么你越来越难以理解现在的年轻人？因为他们自我孤立，形成了封闭文化圈子。95-05后是富足的一代，也是孤独而焦虑的一代。目前，全国95后-05后群体共有2.64亿人，...
+ ## [增长谎言进行时](http://www.woshipm.com/pmd/2950285.html)
+ > 增长是一个产品目标，但是不顾一切的增长，或许是个谎言。2015年底的时候，增长黑客的概念在国内火了起来，诸多公司把增长当成了解决公司一切问题的良药，于是纷纷调...
+ ## [MRD：饿了么产品需求文档](http://www.woshipm.com/data-analysis/2948140.html)
+ > 本文是饿了么的产品需求文档，主要包括这4点：市场概述、需求分析、竞品分析和对市场未来发展趋势的总结。目录：概述市场概述需求分析竞品分析市场结论01 概...
+ ## [线上课程 | HR：对不起，我们公司不招工作3年还用不好Excel的人！](http://www.woshipm.com/active/2945560.html)
+ > 很多人认为Excel很基础，以为工作中会用到更专业的数据统计软件，但是进了公司才发现，真正每天用到的其实就是Excel。基于Excel应用的广泛性，以及数据对于企业管理的...
+ ## [做知识付费5个月的思考，行业模式亟需改变](http://www.woshipm.com/operate/2933137.html)
+ > 知识付费已经走过四个年头，现在不少人对其持悲观态度，或许，真正应该改变的是这个行业的模式。知识付费是15年初开始存在，16年下半年借助现象级产品“分答”，开始进...
+ ## [一个需求经过大脑的过程：需求分析评估方法](http://www.woshipm.com/pmd/2947913.html)
+ > 一个需求经过大脑，大脑对其作出判断，整个过程不过一瞬。笔者将这个过程具象到书面，对其进行了总结，借用文中的方法对需求进行评估，希望对产品人有一定的启发和帮助...
  ## [创业公司PM和大公司PM的区别是啥？](http://www.chanpin100.com/article/109701)
  > 创业公司PM和大公司PM的区别是啥？
  ## [2019年暑期档中国文娱产业观察](http://www.chanpin100.com/article/109704)
