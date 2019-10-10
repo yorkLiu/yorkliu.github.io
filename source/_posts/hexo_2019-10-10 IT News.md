@@ -1,104 +1,88 @@
 ---
 title: 2019-10-10 IT News
 copyright: true
-date: 2019-10-10 08:01:00
+date: 2019-10-10 09:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [携号转网5省试点情况曝光 工信部不留情面把三大运营商都批](http://mp.weixin.qq.com/s?src=11&timestamp=1570665603&ver=1903&signature=-F2r8YVSLl-Te6EkR4VdxQtR0gYtTQMJxq-94JoCSFXlUEmwNeakGkhg710FcbcLJUxI3cUCunxgdJOLWNEocK4CFf6xSnlf5*chTkFHK9GnHBZIxDkwo17RQZghviTS&new=1)
- > 运营商财经网  汪莹/文近日，运营商财经网独家获悉，三大运营商在携号转网工作上的系统运行和服务情况，以及工信部调研中三家企业存在的问题。日前，三大运营商已在天津市、海南省、江西省、湖北省、云南省正式...
- ## [舜智科技总经理张桂凤一行到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1570665603&ver=1903&signature=dGXGQaXnEWhMLDNdMrgz4KBt6QzSAoLr1lphSahm9lhDcabjFDGo7*yF9Pfsr*MW0tyoRVGxbqu*40pNs4l4MRwqZowVRdVxupkVrG3EOjme4YnLQxxu4OqmM*vWMaux&new=1)
+ ## [舜智科技总经理张桂凤一行到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1570669204&ver=1903&signature=dGXGQaXnEWhMLDNdMrgz4KBt6QzSAoLr1lphSahm9lhDcabjFDGo7*yF9Pfsr*MWnJSZaTbnu9g-78yYRGvJ2E7BwLpZvmtYcHoGoHz04ILRmmu-mlicReZll0rNywqm&new=1)
  > 近日，南京舜智软件科技有限责任公司总经理张桂凤、经理徐微微到访，云创大数据总经理刘鹏教授、K12教育事业总经理汤鹏以及市场总监程沛沛共同接待了来宾。此次到访，来宾旨在与云创负责人就战略合作进行交流探...
- ## [智慧民航先行者!华为为民航运行中枢装上“智慧大脑”](http://mp.weixin.qq.com/s?src=11&timestamp=1570665603&ver=1903&signature=MXQmJPbjEvrEENtwO8JxFYXBZdi4KojStAfceme05Q9YC-WHXODpM-MHEs0mMXVDAFmzFWl1wyPsYQX85PllTKYTj7Ovx*5NS-oHFSN5ozS-1-MlEPmZNlcDdBavGILw&new=1)
- > 近期，华为携手中国民航局运行监控中心、合作伙伴共同基于“云计算+大数据+人工智能”等技术构建的民航运行大数据系统投入试运行。这也是华为和中国民用航空局战略合作的重大成果之一，该系统对有效整合民航运行...
- ## [智能家居终于起风了，三派玩家谁能收割市场?](http://mp.weixin.qq.com/s?src=11&timestamp=1570665603&ver=1903&signature=8RooP4biFkkltnKlYL7a5dVwdVYig81DFQ1nxnalTw3EkT2jzSYb2y2wCWEf-rN-Fg9Cq5XdPOwkbU80DOGe-vWfyCydZS5eF10vuMd1KuAmW3yxSGXaVfTp4zKk-io3&new=1)
+ ## [37.88亿!中国移动启动NFV一期集采，部署4/5G融合核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1570669204&ver=1903&signature=FRerSXw75rWlkO3dOD9cL*LCQeIzoojWHF5Ee*D12k-Yc3ij6C-UYoz6C85BkMRzZbK9ByXOiVwQz9Tf*O*MzAKhMskU8AY-q4TydMSc2e8eWh2GUkJRygSzl50ysqq6&new=1)
+ > 10月9日，中国移动官网发布，启动2019年NFV网络一期工程设备集中采购。本次采购内容为全国8大区/31省公司的分组域网元（vMME、vSAE GW、vPCRF、vDNS）、IMS域网元（vCSCF、vVoLTE AS、vSBC、vENU
+ ## [携号转网5省试点情况曝光 工信部不留情面把三大运营商都批](http://mp.weixin.qq.com/s?src=11&timestamp=1570669204&ver=1903&signature=-F2r8YVSLl-Te6EkR4VdxQtR0gYtTQMJxq-94JoCSFXlUEmwNeakGkhg710FcbcLIYQXjewchTH4g3HAgFiu6GYpO0RBC4vNwPm4d1A6iUviSy3t7FrwKGhws3Ljm-Q6&new=1)
+ > 运营商财经网  汪莹/文近日，运营商财经网独家获悉，三大运营商在携号转网工作上的系统运行和服务情况，以及工信部调研中三家企业存在的问题。日前，三大运营商已在天津市、海南省、江西省、湖北省、云南省正式...
+ ## [智能家居终于起风了，三派玩家谁能收割市场?](http://mp.weixin.qq.com/s?src=11&timestamp=1570669204&ver=1903&signature=8RooP4biFkkltnKlYL7a5dVwdVYig81DFQ1nxnalTw3EkT2jzSYb2y2wCWEf-rN-WyldACw91jQ9aU2McFgEclzCNxWvMW9T5yONsjVjCgDmZeOpK4BpHhbCQY77XbKz&new=1)
  > 谁都可以拥有比尔盖茨耗资4000万美元建造的“未来之屋” 。1997年，比尔·盖茨耗资4000万美元建造的大型豪宅“未来之屋”成了华盛顿湖的一大景观，当时“智能家居”概念尚未出现，国内出现了“住宅电脑化”这样...
- ## [5G预约用户超千万!这样的资费套餐你满意吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570665603&ver=1903&signature=nHkQfSjzJfOhSWQCHEc1S*6H7uU5oFnWAy9QAqe8KgvTEgsnQUQ6g8xSbNr9t9lexJ0UVLxacJn5PB5gN08IGO9buY2t8hEukakxIFweKFuc19DXgPPPI2ELmTH3ElSE&new=1)
+ ## [智慧民航先行者!华为为民航运行中枢装上“智慧大脑”](http://mp.weixin.qq.com/s?src=11&timestamp=1570669204&ver=1903&signature=MXQmJPbjEvrEENtwO8JxFYXBZdi4KojStAfceme05Q9YC-WHXODpM-MHEs0mMXVD0MTzj0wMh3rfthsgh4kxB2zudxeqMvQnMUYHb3eVBITlqK6tpwLa0M6B1-d5Bsmj&new=1)
+ > 近期，华为携手中国民航局运行监控中心、合作伙伴共同基于“云计算+大数据+人工智能”等技术构建的民航运行大数据系统投入试运行。这也是华为和中国民用航空局战略合作的重大成果之一，该系统对有效整合民航运行...
+ ## [5G预约用户超千万!这样的资费套餐你满意吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570669204&ver=1903&signature=nHkQfSjzJfOhSWQCHEc1S*6H7uU5oFnWAy9QAqe8KgvTEgsnQUQ6g8xSbNr9t9lelQUgy89eCLWI5vo4B6bNimAQ8u*QKxSZ3p-9Enq-Fj8MjP7ScIZ65ljv00FDSNq8&new=1)
  > 终于！就在今天！三大运营商5G预约用户总人数破千万啦！截止今日下午中国移动5G预约人数为598.67万中国联通5G预约人数为201.52万中国电信5G预约人数为210.74万合计为1010万人次！盆友，你预约5G了吗？随着预约人...
 # IT 技术 
- ## [如何写入到Linux中的Windows分区？](http://os.51cto.com/art/201910/603952.htm)
- > 如何写入到Linux中的Windows分区？
- ## [从平庸到大牛程序员，不能错过9月的这十篇热门文章！](http://news.51cto.com/art/201910/603912.htm)
- > 从平庸到大牛程序员，不能错过9月的这十篇热门文章！
- ## [2020年企业面临的20大数据安全风险](http://netsecurity.51cto.com/art/201910/603923.htm)
- > 2020年企业面临的20大数据安全风险
- ## [只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱](http://zhuanlan.51cto.com/art/201910/603916.htm)
- > 只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱
- ## [大规模集群故障处理，能抗住这3个灵魂拷问算你赢](http://netsecurity.51cto.com/art/201910/603931.htm)
- > 大规模集群故障处理，能抗住这3个灵魂拷问算你赢
- ## [Julia、Delta Lake榜上有名！2019年优秀开源软件奖公布](http://news.51cto.com/art/201910/603891.htm)
- > Julia、Delta Lake榜上有名！2019年优秀开源软件奖公布
- ## [如何将Kubernetes集群部署在谷歌云平台上？](http://cloud.51cto.com/art/201910/603874.htm)
- > 如何将Kubernetes集群部署在谷歌云平台上？
- ## [区块链技术是解决跨境交易顽疾的“灵丹妙药”](http://blockchain.51cto.com/art/201910/603899.htm)
- > 区块链技术是解决跨境交易顽疾的“灵丹妙药”
- ## [物联网发展的15大趋势](http://iot.51cto.com/art/201910/603978.htm)
- > 随着物联网设备和基础设施的价格持续降低，企业对各种物联网设备的应用就越来越普及。这也意味着，企业需要
- ## [万物互联时代：物联网该如何赢得信任](http://iot.51cto.com/art/201910/603977.htm)
- > 我们综合The Economist，CB Insights，i-SCOOP 等国外最新研究成果，整理形成本文，对当下物联网的技术发展
+ ## [世界知名半导体ST、NXP、Microchip、TI、Renesas公司的MCU和MPU定位、性能及特点](https://blog.csdn.net/ybhuangfugui/article/details/102424318)
+ > 世界知名半导体ST、NXP、Microchip、TI、Renesas公司的MCU和MPU定位、性能及特点
  ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
  > 
- ## [Spring Boot 2.x基础教程：Swagger接口分类与各元素排序问题详解](https://blog.csdn.net/dyc87112/article/details/102454051)
- > 
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
+ ## [SeleniumWebDriver如何自动化可视化验证图表和绘图(如折线图，饼图，柱状图)](https://blog.csdn.net/zbj18314469395/article/details/101605811)
+ > SeleniumWebDriver如何自动化可视化验证图表和绘图(如折线图，饼图，柱状图)
  ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
+ > 
+ ## [Spring Boot 2.x基础教程：Swagger接口分类与各元素排序问题详解](https://blog.csdn.net/dyc87112/article/details/102454051)
  > 
  ## [为什么面向对象糟透了？](https://blog.csdn.net/coderising/article/details/101444370)
  > 为什么面向对象糟透了？
  ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
  > 
- ## [2019 BAT大厂 Android社招最全面试题（面试总结+详细解答！）](https://blog.csdn.net/weixin_44339238/article/details/102464319)
- > 2019 BAT大厂 Android社招最全面试题（面试总结+详细解答！）
  ## [2019年10月全国程序员工资统计，一半以上的职位5个月没招到人。](https://blog.csdn.net/juwikuang/article/details/102326317)
- > 
- ## [国产阿里OCEANBAS勇夺TPC-C冠军，200行代码解读它的速度源头](https://blog.csdn.net/BEYONDMA/article/details/102089673)
- > 
- ## [1024有奖征文|我和CSDN的故事](https://blog.csdn.net/blogdevteam/article/details/102457743)
- > 
- ## [漫画：什么是归并排序？](https://blog.csdn.net/bjweimengshu/article/details/102384930)
  > 
  ## [接私活必备的 10 个开源项目！](https://blog.csdn.net/sinat_33224091/article/details/100980160)
  > 接私活必备的 10 个开源项目！
- ## [中国物联网激荡20年](https://blog.csdn.net/weixin_41033724/article/details/102152677)
+ ## [国产阿里OCEANBAS勇夺TPC-C冠军，200行代码解读它的速度源头](https://blog.csdn.net/BEYONDMA/article/details/102089673)
  > 
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
- ## [SpringBoot注解梳理](https://blog.csdn.net/zhanglong_4444/article/details/102235908)
+ ## [漫画：什么是归并排序？](https://blog.csdn.net/bjweimengshu/article/details/102384930)
  > 
- ## [我和CSDN的故事](https://blog.csdn.net/ZackSock/article/details/102466365)
- > 我和CSDN的故事
+ ## [开发人员提升自己的四种方式](https://blog.csdn.net/csdnnews/article/details/102425401)
+ > 开发人员提升自己的四种方式
+ ## [浅谈量子计算机](https://blog.csdn.net/DespacitoA/article/details/102463934)
+ > 
+ ## [我们该如何高效的学习](https://blog.csdn.net/qq_23853743/article/details/90226411)
+ > 我们该如何高效的学习
 # 人工智能 
- ## [苹果手机误删除了通讯录联系人怎么办？嘘！一般人我不告诉他这个方法！](https://blog.csdn.net/weixin_44454540/article/details/101291979)
- > 苹果手机误删除了通讯录联系人怎么办？嘘！一般人我不告诉他这个方法！
- ## [程序员鄙视链！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/101180547)
- > 程序员鄙视链！ | 每日趣闻
- ## [这段代码囊括程序员的一生！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/101129799)
- > 这段代码囊括程序员的一生！ | 每日趣闻
- ## [峰会回顾|现场干货来袭！](https://blog.csdn.net/nanshanfu/article/details/100776584)
- > 峰会回顾|现场干货来袭！
- ## [类似qq,微信不受监控安全的聊天工具推荐](https://blog.csdn.net/jiangwudidebaba/article/details/100734997)
- > 类似qq,微信不受监控安全的聊天工具推荐
- ## [揭秘程序员给产品经理的备注竟是…… | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100644205)
- > 揭秘程序员给产品经理的备注竟是…… | 每日趣闻
- ## [程序员最常说的谎言是什么？ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100612844)
- > 程序员最常说的谎言是什么？ | 每日趣闻
- ## [程序员必知必会的“从入门到放弃”系列！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100588767)
- > 程序员必知必会的“从入门到放弃”系列！ | 每日趣闻
- ## [mitmproxy证书装不上](https://blog.csdn.net/a6864657/article/details/100246252)
- > mitmproxy证书装不上
- ## [新项目启动，产品经理又“坑”程序员！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100179177)
- > 新项目启动，产品经理又“坑”程序员！ | 每日趣闻
- ## [公司部门和职称](https://blog.csdn.net/qq_42363892/article/details/100359434)
- > 公司部门和职称
- ## [三丰云，免费云主机，免费云服务器使用感受](https://blog.csdn.net/qq_25977035/article/details/91616364)
- > 三丰云，免费云主机，免费云服务器使用感受
- ## [史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)](https://blog.csdn.net/sym134/article/details/93971142)
- > 史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)
- ## [Android——多语言适配](https://blog.csdn.net/weixin_37758967/article/details/97241429)
- > Android——多语言适配
- ## [Fluke Corporation收购工业可靠性领导者普卢福](https://blog.csdn.net/sinat_41698914/article/details/96879521)
- > Fluke Corporation收购工业可靠性领导者普卢福
+ ## [结合OpenCV与TensorFlow进行人脸识别](https://blog.csdn.net/weixin_44678052/article/details/102286945)
+ > 结合OpenCV与TensorFlow进行人脸识别
+ ## [机器学习入门：tensorflow安装](https://blog.csdn.net/weixin_41368740/article/details/102254423)
+ > 机器学习入门：tensorflow安装
+ ## [Python使用tkinter模块实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101934416)
+ > 
+ ## [第二弹！python爬虫批量下载高清大图](https://blog.csdn.net/qq_40693171/article/details/102220448)
+ > 第二弹！python爬虫批量下载高清大图
+ ## [写个最简单的植物大战僵尸修改器吧！c和python](https://blog.csdn.net/weixin_44286745/article/details/102163714)
+ > 写个最简单的植物大战僵尸修改器吧！c和python
+ ## [OCR百度api，python实现图像文字识别](https://blog.csdn.net/weixin_45706382/article/details/102185893)
+ > OCR百度api，python实现图像文字识别
+ ## [python入门教程](https://blog.csdn.net/qq_42756994/article/details/102297015)
+ > python入门教程
+ ## [Python爬虫（二）：Requests库](https://blog.csdn.net/ityard/article/details/102055840)
+ > Python爬虫（二）：Requests库
+ ## [云顶之弈阵容助手-基于遗传算法](https://blog.csdn.net/weixin_39982211/article/details/102306696)
+ > 云顶之弈阵容助手-基于遗传算法
+ ## [用Python解决数据结构与算法问题（一）：Python基础](https://blog.csdn.net/TeFuirnever/article/details/101673308)
+ > 用Python解决数据结构与算法问题（一）：Python基础
+ ## [python爬虫爬取天气数据并图形化显示](https://blog.csdn.net/qq_36419303/article/details/101932854)
+ > python爬虫爬取天气数据并图形化显示
+ ## [Python3使用bencode库解析BT种子](https://blog.csdn.net/qq_43777162/article/details/102328177)
+ > Python3使用bencode库解析BT种子
+ ## [Python爬虫（三）：BeautifulSoup库](https://blog.csdn.net/ityard/article/details/102212536)
+ > Python爬虫（三）：BeautifulSoup库
+ ## [python学习笔记](https://blog.csdn.net/weixin_43590389/article/details/102253345)
+ > python学习笔记
+ ## [个人学习python数据分析基础的小小复盘](https://blog.csdn.net/atuo200/article/details/102312393)
+ > 个人学习python数据分析基础的小小复盘
 # PM 
+ ## [运营人在职场（三）：怕什么来什么，科学 or 玄学？](http://www.woshipm.com/zhichang/2931484.html)
+ > 墨菲定律想必很多人都很熟悉，那么随处可见的墨菲定律究竟有着怎样的科学性？亦或是玄学性呢？这么多倒霉事为什么没发生在别人身上，怎么就发生在我身上？讨厌矫情的...
  ## [创业公司PM和大公司PM的区别是啥？](http://www.chanpin100.com/article/109701)
  > 创业公司PM和大公司PM的区别是啥？
  ## [2019年暑期档中国文娱产业观察](http://www.chanpin100.com/article/109704)
