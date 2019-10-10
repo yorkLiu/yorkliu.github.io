@@ -1,7 +1,7 @@
 ---
 title: 2019-10-10 IT News
 copyright: true
-date: 2019-10-10 12:01:08
+date: 2019-10-10 17:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -62,143 +62,173 @@ Telegram&#27491;&#24335;&#25512;&#20986;&#21152;&#23494;&#38065;&#21253;Grams Wa
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [浑身黑科技!大兴国际机场运作幕后的“英雄”](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=w8MKHjA75whLC7giOiqmS-oClqKvdnuqCFBQrNubhJQIH3*jJFP0HFbS7Ro9NtVYQgiJU7FhWpH-ymsP9eeBTRgOFjtx3fyjyou36fZLonOInCQ1SD4tp8Py79Og2Y*m&new=1)
- > 被誉为“新世界第七大奇迹”之首的北京大兴国际机场在国庆前正式投运，广泛应用各项新技术，包揽了多项世界之最，树立了全球超大型智慧机场标杆，赚足了眼球。大兴国际机场作为全球最大的国际航空枢纽 - 占地30...
- ## [从互联到云端，5G赋能智慧园区，你的贴心助理即将到来!!](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=x-SRUGB2h4AwmKdSUziYSs39JoqW0KqsOxmAjnegB5vYijOEtIPuDumL59PpAJZvKs94jG3*cALz1*Z8orHfk2ZUQFpOsXTiSH4Kdu5aJSWYDv9-5UzQFUxzR1Z7S3pM&new=1)
+ ## [2019胡润百富榜：马云老师仍是首富 丁磊卖考拉翻身 李彦宏、雷军掉队](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=PBV--4R*F-*wyqjRnLa4q*F4gyCaBo36b0gMgdBx7Up*YdzuzbRR5w3IO*tiCW5F9-DwpfpZLANQC1LuNKWK2yIHwRIKe0GtRXEyQ8TUiB5qUTRGfjU9l1njfygenFPg&new=1)
+ > 2019胡润百富榜出炉，退休后的马云以2750亿财富第三次成为中国首富，马化腾财富上涨200亿，以2600亿重返第二；刚刚入局新能源的地产商许家印财富缩水400亿，以2100亿退居第三。2019年胡润百富榜2018年胡润百富榜...
+ ## [数据量飞升的同时需要高性能的支持：这家初创公司如何做好大数据的安全](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=cfR28HZxqlePq4*yPj6k0qbGJolGBo4uYFxZCNM9aStJDeKD6RIFNDluKJEEXhZ4PjO6ra23*c4B4pUourCaIanEFsdk5zqgZqVaAnx3AbD9s8HlmB6EwGwNustbqWSd&new=1)
+ > 数字时代带来了海量的数据，而中国的快速发展和大国人口为大数据的应用提供了一个全球范围内最适宜的环境。大数据环境相比传统数据库环境，不仅仅是数量级上的提升，更需要在保持性能的情况下进行计算——这无疑...
+ ## [OFweek 2019(第十六届)先进激光技术应用峰会暨“维科杯”年度评选颁奖典礼明日举办](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=HmT*e1Kvk6drC3Av4rkeny8CBJbc6GYNiWDe0dP8HhkveXw-iDNdKCiwkHFM67c46CLpMaXw80csTLC-eP6-5CRIRa8Oiv-WU1SBmRk0Y8EUyU-KWrfjr*LM0L5YyZyc&new=1)
+ > 由OFweek维科网主办，OFweek激光网承办，高科会协办的“OFweek2019第十六届中国先进激光技术应用峰会暨‘维科杯’激光行业年度评选颁奖典礼”将于10月11日在深圳马哥孛罗好日子酒店正式举办。本次活动涵括技术及...
+ ## [香港暴徒APP，苹果下架了!](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=QPmepO48Y-n956bTJ035ayB5hAqSqWJP8cKkIyFLk7ohzvunK93R9r*x2IX0tEuTBNuwXpOjvbWm7wP9UAnB4tC5NfGkRzdfZh30lRCqAxFX0EIQOOyDDMVA3cjNmH1A&new=1)
+ > ► 文 观察者网 张晨静接连两日被@人民日报 点名的苹果公司终于想清楚了，于当地时间9日以“违反公司政策和规定”为由，将为香港暴徒“护航”的APP从应用商店里下架了！据路透社报道，苹果公司于当地时间9日将为...
+ ## [回顾2019年 SaaS 趋势报告，这些点你get到了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=V2nyWJBT909XJ4flh-FVmSqyZnZ0A9uT0QG1ILQ9LGzTL8MI0VMTVbpTtyL4poqp8n3Q4Eumm7aoAQiOr9EozwFNx3S8as5UjujYLmnE8RWr3yo1hQf8F820m*hP3W38&new=1)
+ > 近几年，美国自动化SaaS追踪、成本优化和安全服务公司 Blissfully 每年都会分析匿名客户的数据集，以确定SaaS支出和使用的趋势（其主要针对于美国市场）。2019年2月，该机构照例发布了最新报告回顾了近1000家公...
+ ## [潜水、钻洞、上太空?探测机器人哪里都能去|智周报告核心版](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=F7kHBwpSoTPB28-LesNRJJ1NS7kh1b1QzENfdpcC36bZDaq-UK2XQSgepPU78Xebj7f6UByHn3pVyX3XP0WSS2ylvinCUD7CtdETjgEumtVjNqgPmF*dqpUbN2XvA-Kn&new=1)
+ > 人工智能技术已经成为探测机器人领域很重要的一部分，可以为机器人提供非常重要的反馈。比如视觉SLAM算法可以构建环境地图并确认摄像机自身在地图中的位置。图像匹配技术和三维重建技术，可以为机器人定位或转向...
+ ## [EOS新任CEO玛丽·兰格将专注于3D打印的可持续发展](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=n1O2hIvo-FnnIpb3*gfEqk0teXIMkIH1huPcKEadamdzz*DndjI8LQ6H342LE48r8482UhxJdKxGvSocANp*TcZTOtPxGdmyTTf-F6lNx3vpokVp-UZmqRanZz*4ZpD7&new=1)
+ > 德国领先的3D打印机厂商EOS公司任命了新的首席执行官，公司创始人汉斯·兰格博士的女儿玛丽·兰格将担任EOS GmbH公司的领导职务，即将离任的首席执行官阿德里安·凯普勒博士将担任董事总经理一职。兰格今天通过...
+ ## [央视网评丨移动互联时代的常识：便利与安全不应该成为一道单选题](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=adGNfyXITZsGCbddqinuXhrsYHV13aNm*v-gqoa*af1WGxVWLz9b3XpqXHh5EnKGLavKC96iLOd*smSd9*lxKhkqlmco6Ib1bWcmDtuXYaqUdrPc5OCDSw1HN*rQ9D7U&new=1)
+ > 编者按：移动互联网已蔓延至人们生活的每个角落，当我们享受着它带来的无限便捷时，也不得不面对由此而来的纷繁复杂的困扰。“信息茧房”正在筑起共识壁垒，社会焦虑也在被传播放大，网络“泡沫”逐渐被现实社会...
+ ## [高速公路“飞行巡逻警察”来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=svT952Nufomqgzf66yp6bJlCAmBQG5rKiOZCqUaP9NPL4NNBYS4RVO7BF7dnUP9L0nR8cnXKX8Bm8GZ9HLw5kVyX5Uz7HeU0BcuElBVLq72O0ERyvYYoDKmfWnHkowAa&new=1)
+ > 10月1日，由中国联通联合公安部道路交通安全研究中心、兰州市公安局共同研制的全国首套“无人值守5G网联无人机高速巡逻执法系统”在兰州市公安局交通警察支队正式启用，支撑兰临高速0-17KM长下坡隐患路段的交通...
+ ## [日本最具人气的3D打印展?听听中国展商怎么说](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=*ZpJS-DZYuTspY247g1peJbUaY6LQx45Bv3Qu4A0L-y01lkhBQ4*SsOd9XoMcVzZy4TGxCYjrMFQiFTFVSaYjc5MX-15h77laE2LlFU5K99ChZcHDzHQsKHLSNmhKQeZ&new=1)
+ > 第2届 日本国际增材制造及3D打印展（曾用名：次世代3D打印展)日期：2020年2月26日-28日会场：日本千叶幕张国际展览中心*举办于日本工业展内*预计2,300家参展商和80,000名专业观众到场。合作媒体：南极熊3D打印网...
+ ## [罗永浩向老同事道歉；三星漏洞已波及四千万用户；Clojure 1.11 即将发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=6FZTeI9sb*4VENwgiFf4k2oUrTxuYA1Ohv4PNNs7gC8Dn5q*0jUpOBbVGz-ueKTbWlwosxGtTT7Bl3kfxRM8en59hdWyZr5-2-mhIeseMCF37wfBEmsvtqvDeWqkIK*E&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [从互联到云端，5G赋能智慧园区，你的贴心助理即将到来!!](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=x-SRUGB2h4AwmKdSUziYSs39JoqW0KqsOxmAjnegB5u30f7jSxmmsnAwPz3IZqrLA9XnI-DT6Rih1r53vwnmbAHRZ41KwD*de6uVAkEHstID2OgzqFl5xfK8tJRyvqK7&new=1)
  > ▎市场研究丨By：世联评估随着5G商用牌照正式发放，5G网络基础设施建设迎来火热施工期。5G（5th-Generation），即第五代移动电话行动通信标准，也称第五代移动通信技术，是4G之后的延伸。5G关键能力之一是能为大...
- ## [携号转网5省试点情况曝光 工信部不留情面把三大运营商都批](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=-F2r8YVSLl-Te6EkR4VdxQtR0gYtTQMJxq-94JoCSFWNlzLuInSVu3rcONY7Agr1Ib6pxTYdVnS1EGU1oAxRcoXfhAe8x8V5SngQOsHomhYX*2LGzgJ0pEnIP1lQXTMx&new=1)
+ ## [浑身黑科技!大兴国际机场运作幕后的“英雄”](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=w8MKHjA75whLC7giOiqmS-oClqKvdnuqCFBQrNubhJR7kQ8mLeeToWE5ONONsdGjhLj8f2EgWwmRqviYdl9QFXHjLw6PPoJdK5vn2EwsOg7xBYqcUqD0pZojx39sKWIz&new=1)
+ > 被誉为“新世界第七大奇迹”之首的北京大兴国际机场在国庆前正式投运，广泛应用各项新技术，包揽了多项世界之最，树立了全球超大型智慧机场标杆，赚足了眼球。大兴国际机场作为全球最大的国际航空枢纽 - 占地30...
+ ## [携号转网5省试点情况曝光 工信部不留情面把三大运营商都批](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=-F2r8YVSLl-Te6EkR4VdxQtR0gYtTQMJxq-94JoCSFVv5uuAJ8zyRv1kZvR51I8wzp7W*K6WJfF0RuLkaUxVEQYfduCRevfwCqQY1TUeqUZTsk8hvw7*13Afr2fnAdk6&new=1)
  > 运营商财经网  汪莹/文近日，运营商财经网独家获悉，三大运营商在携号转网工作上的系统运行和服务情况，以及工信部调研中三家企业存在的问题。日前，三大运营商已在天津市、海南省、江西省、湖北省、云南省正式...
- ## [湖南联通公布光模块、线路仪器仪表供应商招募结果](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=CvYTRTz*TAH93aeb-zU9oQ2RuSqkWN7ZD-CFvy7s9l7yiJigESGvT3a8aqrLEmLyhK2bu3AruF2HHd6AI6wu-TUGdXdMlt9mpx9gNssxHyhKK2MUJVjZAx6RxY-JW72B&new=1)
+ ## [湖南联通公布光模块、线路仪器仪表供应商招募结果](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=CvYTRTz*TAH93aeb-zU9oQ2RuSqkWN7ZD-CFvy7s9l46-20VDAIJFOP31MQ*hU6c61ZD-IG53NeDxVRfhh1xm7FPuLoBOMss5jOmLFI62NDwz2CKP43Jwe2bRSmabfN7&new=1)
  > 导读     湖南联通公开市场光模块、线路仪器仪表供应商公开招募项目结果公示，太平洋(聊城)光电、迅特通信、天邑康和、共进电子、铭普光磁、德力仪器等讯石会员公司成功上榜。ICCSZ讯 据中国联通官方消息，中国...
- ## [37.88亿!中国移动启动NFV一期集采，部署4/5G融合核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=FRerSXw75rWlkO3dOD9cL*LCQeIzoojWHF5Ee*D12k-QvbdyUHXWkegJl6dVLKVZmHSCj8F*eK4oEZdh1-uHLpjxUyW86NsjP*7xlnifJ65sRP-CCMrKF8Xf5mnu3cQC&new=1)
+ ## [37.88亿!中国移动启动NFV一期集采，部署4/5G融合核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=FRerSXw75rWlkO3dOD9cL*LCQeIzoojWHF5Ee*D12k9lBtFnPmoyuNUI4tks1CzHBUnID0lw8uUv60bYpcGPEM2cKDCQAYGO4hxIQByUsjxjOyQXmnUvUyHade6YCXXC&new=1)
  > 10月9日，中国移动官网发布，启动2019年NFV网络一期工程设备集中采购。本次采购内容为全国8大区/31省公司的分组域网元（vMME、vSAE GW、vPCRF、vDNS）、IMS域网元（vCSCF、vVoLTE AS、vSBC、vENU
- ## [5G预约人数超千万，套餐最低或超100元!你预约了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=jUtpC*mMo*l11q6nBbXMlyZ-mQdXVBTe0PucqvoWmNEU7SkPbK93D0fX*xQY*IOGg6Ad5nCqFRKfJ8bPQHLl2UgZJOBxn4guPMqsrB-YaYZbx7CdFyMMiCb*7UQJaN93&new=1)
+ ## [5G预约人数超千万，套餐最低或超100元!你预约了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=jUtpC*mMo*l11q6nBbXMlyZ-mQdXVBTe0PucqvoWmNEwDniIe7NLi2Emo4bH-*aTaX*Mj8NdjFOmOLRWYybTkA1851p-NUhyjX55a7TBzhohB3KUL9spGAyqEMaJtS08&new=1)
  > 本文转载自2019年10月9日微信公众号“经济日报”（ID：jjrbwx），综合自中国新闻网、光明网、网友评论等，不代表《财经国家周刊》观点。你预约5G了吗？截至9日9时25分，预约三大运营商5G服务的人数超千万，5G套...
- ## [智能家居终于起风了，三派玩家谁能收割市场?](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=8RooP4biFkkltnKlYL7a5dVwdVYig81DFQ1nxnalTw2teSWuT1JHH8GbTAPAe1mYaYXjlf5c8l9eNbeNl5BzkJZkfjS1ckTSjRKU69Iv6gHislV7YM1*Kq2YHAoD1UyK&new=1)
+ ## [智能家居终于起风了，三派玩家谁能收割市场?](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=8RooP4biFkkltnKlYL7a5dVwdVYig81DFQ1nxnalTw3oWBJZKrhgKaRlFbaILSyBaTJhUeJ7w4ukQB5ysor*iPdUEQslyMLCPnUf-p09tlD1fc6DJ7PRvvR0-K6V78ro&new=1)
  > 谁都可以拥有比尔盖茨耗资4000万美元建造的“未来之屋” 。1997年，比尔·盖茨耗资4000万美元建造的大型豪宅“未来之屋”成了华盛顿湖的一大景观，当时“智能家居”概念尚未出现，国内出现了“住宅电脑化”这样...
- ## [智慧民航先行者!华为为民航运行中枢装上“智慧大脑”](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=MXQmJPbjEvrEENtwO8JxFYXBZdi4KojStAfceme05Q-yFuVsPrqD-m05ufYfhyzdJuQgu5KUump9BEI0NOgKwLB7puvniKxG1PPIUmhm8HERx0*3Yu917*r1BLss0W*E&new=1)
+ ## [智慧民航先行者!华为为民航运行中枢装上“智慧大脑”](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=MXQmJPbjEvrEENtwO8JxFYXBZdi4KojStAfceme05Q95cpACTSnUb7MJ6l511LWo7GED1HbBp-ZDYmmaN1tL*dh*SdbNz-1dk3tpQJUD1OPpJGmDHJdP6XA04iGPosxz&new=1)
  > 近期，华为携手中国民航局运行监控中心、合作伙伴共同基于“云计算+大数据+人工智能”等技术构建的民航运行大数据系统投入试运行。这也是华为和中国民用航空局战略合作的重大成果之一，该系统对有效整合民航运行...
- ## [舜智科技总经理张桂凤一行到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=dGXGQaXnEWhMLDNdMrgz4KBt6QzSAoLr1lphSahm9lhR1-C4KjO-XnIgeO8w4Aj*uTPXTHxjXpXY4jPYlwJZs-rOU-RMlsPVOxl8S9FtLtDkn6RIqvZovQ7bwzxGgHHv&new=1)
+ ## [舜智科技总经理张桂凤一行到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1570698004&ver=1903&signature=dGXGQaXnEWhMLDNdMrgz4KBt6QzSAoLr1lphSahm9lhBBJuIghET*sRhjSAAOCSJwNcemJTK6CDWa404Gd-O1VOk8Nnt4BtzUxyvDlw6Hby9GADw0yArSCnxBU9y0*sy&new=1)
  > 近日，南京舜智软件科技有限责任公司总经理张桂凤、经理徐微微到访，云创大数据总经理刘鹏教授、K12教育事业总经理汤鹏以及市场总监程沛沛共同接待了来宾。此次到访，来宾旨在与云创负责人就战略合作进行交流探...
- ## [5G预约用户超千万!这样的资费套餐你满意吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570680003&ver=1903&signature=nHkQfSjzJfOhSWQCHEc1S*6H7uU5oFnWAy9QAqe8KgsrJaGV9o76vb*RCsNW4BBbK7syNVZBIilY*GHq4qXO2r4G7yuGYp5*exdi7c6CwlfTsrx5YUXqcVba88tIKNP0&new=1)
- > 终于！就在今天！三大运营商5G预约用户总人数破千万啦！截止今日下午中国移动5G预约人数为598.67万中国联通5G预约人数为201.52万中国电信5G预约人数为210.74万合计为1010万人次！盆友，你预约5G了吗？随着预约人...
 # IT 技术 
  ## [实现高效云端迁移的优秀实践](http://cloud.51cto.com/art/201910/603875.htm)
  > 实现高效云端迁移的优秀实践
  ## [别逗了，你真以为分库分表就能无限扩容吗？](http://developer.51cto.com/art/201910/603992.htm)
  > 别逗了，你真以为分库分表就能无限扩容吗？
+ ## [盘点 | 8个你可能不知道的深度学习应用案例](http://ai.51cto.com/art/201910/604018.htm)
+ > 盘点 | 8个你可能不知道的深度学习应用案例
+ ## [辨析BI、数据仓库、数据湖和数据中台内涵及差异点](http://news.51cto.com/art/201910/603971.htm)
+ > 辨析BI、数据仓库、数据湖和数据中台内涵及差异点
  ## [如何写入到Linux中的Windows分区？](http://os.51cto.com/art/201910/603952.htm)
  > 如何写入到Linux中的Windows分区？
+ ## [Python新工具：用三行代码提取PDF表格数据](http://news.51cto.com/art/201910/603957.htm)
+ > Python新工具：用三行代码提取PDF表格数据
  ## [谷歌发布含7种语言的全新数据集：有效提升BERT等多语言模型任务精度高达3倍！](http://news.51cto.com/art/201910/603986.htm)
  > 谷歌发布含7种语言的全新数据集：有效提升BERT等多语言模型任务精度高达3倍！
  ## [这项X射线技术让芯片无秘密可言：纳米级还原内部构造](http://news.51cto.com/art/201910/603984.htm)
  > 这项X射线技术让芯片无秘密可言：纳米级还原内部构造
- ## [从平庸到大牛程序员，不能错过9月的这十篇热门文章！](http://news.51cto.com/art/201910/603912.htm)
- > 从平庸到大牛程序员，不能错过9月的这十篇热门文章！
- ## [2020年企业面临的20大数据安全风险](http://netsecurity.51cto.com/art/201910/603923.htm)
- > 2020年企业面临的20大数据安全风险
- ## [只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱](http://zhuanlan.51cto.com/art/201910/603916.htm)
- > 只需五步！哈佛学霸教你用Python分析相亲网站数据，在两万异性中找到真爱
- ## [前端开发真的没有后端工资高？](http://developer.51cto.com/art/201910/604013.htm)
- > 这是来自知乎的问题，是一个大二学生问的，说老师在讲课时说，从工资来看，后端开发要比前端高，并且说，
- ## [面向Google编程的Copy&Paste程序员要小心了！](http://developer.51cto.com/art/201910/604009.htm)
- > 张大胖最近接了一个C++的私活，在编程的时候需要生成一个字母和数字混合的随机字符串，张大胖不知道该怎么
- ## [大型项目该如何分层架构，该和MVC说再见了](http://developer.51cto.com/art/201910/604006.htm)
- > 最近用laravel做自己的个人博客，过程中也思考了一些问题，如何把自己的代码写的更优雅呢，为什么laravel
- ## [企业需要更多的云计算透明度](http://cloud.51cto.com/art/201910/604005.htm)
- > 云计算提供商提高了对其平台的可见性，但是企业仍然需要更多有关信息。如今，很多企业提高了云平台的安全性
- ## [人工智能可实现的视角](http://ai.51cto.com/art/201910/604004.htm)
- > 半个世纪以来，人工智能一直是计算技术发展的梦想，它总是遥不可及。但是有许多方法可以部署产生实际收益的
- ## [智能数据降低业务成本的7种方法](http://bigdata.51cto.com/art/201910/604002.htm)
- > 智能数据可以通过许多有用且功能强大的方式降低企业的运营成本。智能化设备和产品如今构成了现代生活的大部
- ## [AI的时代，你的职业还在吗？](http://ai.51cto.com/art/201910/604003.htm)
- > 目前人工智能(Artificial Intelligence，简称AI)的技术到底发展到啥情况了?如果未来AI在我们社会上全面应用
- ## [网络安全中的AI，炒作与真实并存](http://ai.51cto.com/art/201910/604001.htm)
- > 人工智能（AI）的前景令人信服。给安全经理的警笛声。希望利用自主，自学解决方案的强大功能的公司正在产生
- ## [人工智能改善教育的32种方式](http://ai.51cto.com/art/201910/604000.htm)
- > 在人工智能赋能教育的实践探索上，国外已经有了许多工具和应用，总结起来，可以分为改进教学和改进管理两个
- ## [Facebook开源开发框架Hydra，能够简化、动态编写程序配置](http://news.51cto.com/art/201910/603999.htm)
- > Facebook开源了能够简单配置复杂应用程序的开发框架Hydra，不只能够减少开发者复制贴上样板代码（Boilerpla
- ## [世界知名半导体ST、NXP、Microchip、TI、Renesas公司的MCU和MPU定位、性能及特点](https://blog.csdn.net/ybhuangfugui/article/details/102424318)
- > 世界知名半导体ST、NXP、Microchip、TI、Renesas公司的MCU和MPU定位、性能及特点
+ ## [30秒内便能学会的30个超实用Python代码片段](http://developer.51cto.com/art/201910/604033.htm)
+ > 许多人在数据科学、机器学习、web开发、脚本编写和自动化等领域中都会使用Python，它是一种十分流行的语言
+ ## [精选14条 PyCharm 实用技巧](http://developer.51cto.com/art/201910/604032.htm)
+ > 今天主要跟大家介绍PyCharm的高效使用技巧！以下代码演示是在 Mac 环境下，Windows 也类似，Command 键 相
+ ## [对JVM还有什么不懂的？带你深入浅出JVM！](http://virtual.51cto.com/art/201910/604031.htm)
+ > JVM的启动是通过bootstrap类加载器来加载一个用于初始化的类。在publicstatic void main(String\[\])被执行前
+ ## [软网推荐：Linux中使用命令行查看压缩文档](http://os.51cto.com/art/201910/604030.htm)
+ > 平时我们查看压缩文件的内容，常规的方法是解压后再一一查看。如果压缩包里的文件很多，解压后再查看就非常
+ ## [从源码解密Spark内存管理](http://stor.51cto.com/art/201910/604029.htm)
+ > 我们都知道spark之所以比mapreduce计算的快，是因为他是基于内存的，不用每次计算完都写磁盘，再读取出来进
+ ## [替代Windows系统下CMD的10款命令行工具](http://os.51cto.com/art/201910/604028.htm)
+ > 喜欢用linux系统的或者从事开发编程的朋友可能会经常用到命令行工具，下面会整理一些windows下命令行工具。
+ ## [开发掌握Nginx之一 反向代理、动静分离、负载均衡](http://server.51cto.com/sOS-604027.htm)
+ > Nginx是lgor Sysoev为俄罗斯访问量第二的rambler.ru站点设计开发的。从2004年发布至今，凭借开源的力量，已
+ ## [常见的云安全错误认知以及应对方法！](http://cloud.51cto.com/art/201910/604026.htm)
+ > 随着多云及混合云趋势的发展，过去传统的云安全策略显然已不适应新的云环境。尽管，很多企业一直非常重视云
+ ## [Nature发文：深度学习系统为什么这么好骗？](http://news.51cto.com/art/201910/604022.htm)
+ > 今天的人工智能系统经常会出现莫名其妙的 bug。最新一期《自然》杂志上的这篇文章向我们介绍了深度学习为什
+ ## [Github中文项目排行榜，你永远想不到开发者都用它干了什么](http://news.51cto.com/art/201910/604021.htm)
+ > 没事逛一逛中文项目排行榜，什么下载插件、投资理财、求职面试、买房指南，你会打开 GitHub 的新世界大门。
+ ## [Spring Boot 2.x基础教程：Swagger接口分类与各元素排序问题详解](https://blog.csdn.net/dyc87112/article/details/102454051)
+ > 
  ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
  > 
  ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
  > 
- ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
- > 
- ## [SeleniumWebDriver如何自动化可视化验证图表和绘图(如折线图，饼图，柱状图)](https://blog.csdn.net/zbj18314469395/article/details/101605811)
- > SeleniumWebDriver如何自动化可视化验证图表和绘图(如折线图，饼图，柱状图)
  ## [为什么面向对象糟透了？](https://blog.csdn.net/coderising/article/details/101444370)
  > 为什么面向对象糟透了？
- ## [接私活必备的 10 个开源项目！](https://blog.csdn.net/sinat_33224091/article/details/100980160)
- > 接私活必备的 10 个开源项目！
+ ## [新手程序员成长之路的五本必读书籍（附资源下载）](https://blog.csdn.net/duxinshuxiaobian/article/details/102386988)
+ > 新手程序员成长之路的五本必读书籍（附资源下载）
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
  ## [Git 常用命令总结,掌握这些,轻松驾驭版本管理](https://blog.csdn.net/qianyu6200430/article/details/102385503)
  > Git 常用命令总结,掌握这些,轻松驾驭版本管理
- ## [2019年10月全国程序员工资统计，一半以上的职位5个月没招到人。](https://blog.csdn.net/juwikuang/article/details/102326317)
- > 
- ## [国产阿里OCEANBAS勇夺TPC-C冠军，200行代码解读它的速度源头](https://blog.csdn.net/BEYONDMA/article/details/102089673)
+ ## [深入理解C语言指针](https://blog.csdn.net/ZackSock/article/details/101594794)
  > 
  ## [漫画：什么是归并排序？](https://blog.csdn.net/bjweimengshu/article/details/102384930)
  > 
- ## [浅谈量子计算机](https://blog.csdn.net/DespacitoA/article/details/102463934)
+ ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
  > 
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
- ## [记一次操蛋的方案降级（云上冷热分离的坎坷之路）](https://blog.csdn.net/lycyingO/article/details/102424374)
- > 记一次操蛋的方案降级（云上冷热分离的坎坷之路）
- ## [2019 BAT大厂 Android社招最全面试题（面试总结+详细解答！）](https://blog.csdn.net/weixin_44339238/article/details/102464319)
+ ## [SpringBoot注解梳理](https://blog.csdn.net/zhanglong_4444/article/details/102235908)
+ > 
+ ## [2019年10月全国程序员工资统计，一半以上的职位5个月没招到人。](https://blog.csdn.net/juwikuang/article/details/102326317)
+ > 
+ ## [我们该如何高效的学习](https://blog.csdn.net/qq_23853743/article/details/90226411)
+ > 我们该如何高效的学习
+ ## [中国物联网激荡20年](https://blog.csdn.net/weixin_41033724/article/details/102152677)
+ > 
+ ## [世界上最好的学习法：费曼学习法](https://blog.csdn.net/wo541075754/article/details/101554326)
  > 
  ## [起底方舟编译器的引用计数！](https://blog.csdn.net/csdnnews/article/details/102475119)
  > 整理 | 胡巍巍素材提供 | 华为出品 | CSDN（ID：CSDNnews）10月8日，是中国国庆假期后的第一个工作日，人们告别假日的休闲，再次返回工作岗位，准备为Q4摩拳擦掌。这天早上，大洋彼岸传来消息，美国东部时间10月7日，美国商务部产业安全局（BIS）把28家中国实体加入“实体清...
+ ## [@程序员 天冷了，你准备抱键盘还是抱女朋友取暖？](https://blog.csdn.net/csdnnews/article/details/102481517)
+ > 01恭喜你已经过完了2019年所有的法定节假日有没有一点心寒但随之而来的冷空气更是肉体上的折磨真想说这个天气说好的春夏秋冬的呢为什么我只感受到了夏天和冬天骗子！02手里拿...
 # 人工智能 
- ## [【Java设计模式】抽象工厂](https://blog.csdn.net/qq_42322103/article/details/94960246)
- > 【Java设计模式】抽象工厂
- ## [Ubuntu环境下human-pose-estimation-0001案例演示](https://blog.csdn.net/kan2016/article/details/97637981)
- > Ubuntu环境下human-pose-estimation-0001案例演示
- ## [【Java设计模式】适配器模式](https://blog.csdn.net/qq_42322103/article/details/95372188)
- > 【Java设计模式】适配器模式
- ## [电子礼簿软件](https://blog.csdn.net/u014650759/article/details/81389951)
- > 电子礼簿软件
- ## [【Java设计模式】桥接模式](https://blog.csdn.net/qq_42322103/article/details/95331521)
- > 【Java设计模式】桥接模式
- ## [开篇·吊死在测试这棵歪脖树上](https://blog.csdn.net/a787373009/article/details/100621687)
- > 开篇·吊死在测试这棵歪脖树上
- ## [Maven 打包与spark运行](https://blog.csdn.net/qq_43584847/article/details/97667073)
- > Maven 打包与spark运行
- ## [【Java设计模式】工厂方法](https://blog.csdn.net/qq_42322103/article/details/94898920)
- > 【Java设计模式】工厂方法
- ## [Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！](https://blog.csdn.net/zhiwenyan/article/details/90110136)
- > Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！
- ## [Xmind ZEN 安装使用与试用版的永久使用（非破解）](https://blog.csdn.net/qq_41554005/article/details/90764766)
- > Xmind ZEN 安装使用与试用版的永久使用（非破解）
- ## [Git-【技术干货】工作中Git的使用实践](https://blog.csdn.net/CSDN___LYY/article/details/100939749)
+ ## [GANS的世界2-0：DG-Net(行人重识别ReID)-目录-史上最新无死角讲解](https://blog.csdn.net/weixin_43013761/article/details/102364512)
+ > GANS的世界2-0：DG-Net(行人重识别ReID)-目录-史上最新无死角讲解
+ ## [深度学习入门笔记（十）：正则化](https://blog.csdn.net/TeFuirnever/article/details/101671400)
  > 
- ## [git合并分支](https://blog.csdn.net/weixin_43606158/article/details/100146367)
- > git合并分支
- ## [全中！七大初学者易踩的坑！](https://blog.csdn.net/csdnnews/article/details/100987895)
- > 全中！七大初学者易踩的坑！
- ## [Axure 9注册码，亲测可用](https://blog.csdn.net/weixin_41948075/article/details/92797529)
- > Axure 9注册码，亲测可用
- ## [IDEA Unable to import maven project: See logs for details （maven的坑）](https://blog.csdn.net/Certain_/article/details/90745360)
- > IDEA Unable to import maven project: See logs for details （maven的坑）
+ ## [机器学习入门：tensorflow安装](https://blog.csdn.net/weixin_41368740/article/details/102254423)
+ > 机器学习入门：tensorflow安装
+ ## [结合OpenCV与TensorFlow进行人脸识别](https://blog.csdn.net/weixin_44678052/article/details/102286945)
+ > 结合OpenCV与TensorFlow进行人脸识别
+ ## [“双非计算机专硕”考博历程分享](https://blog.csdn.net/zhouaho2010/article/details/102324083)
+ > “双非计算机专硕”考博历程分享
+ ## [CSDN日报191008：2019年10月全国程序员工资统计；国产阿里OceanBase勇夺TPC-C冠军](https://blog.csdn.net/blogdevteam/article/details/102392404)
+ > 
+ ## [云顶之弈阵容助手-基于遗传算法](https://blog.csdn.net/weixin_39982211/article/details/102306696)
+ > 云顶之弈阵容助手-基于遗传算法
+ ## [AI+BI，真的如想象中的那么美好吗？](https://blog.csdn.net/yuanziok/article/details/102454516)
+ > 
+ ## [用Matplotlib，妈妈再也不担心我没有表情包斗图了](https://blog.csdn.net/duxinshuxiaobian/article/details/102218015)
+ > 用Matplotlib，妈妈再也不担心我没有表情包斗图了
+ ## [十大优秀编程项目，让你的简历金光闪闪](https://blog.csdn.net/duxinshuxiaobian/article/details/102218308)
+ > 
+ ## [Unsupervised Bilingual Word Embedding Agreement for Unsupervised Neural Machine Translation](https://blog.csdn.net/weixin_38937984/article/details/102388490)
+ > Unsupervised Bilingual Word Embedding Agreement for Unsupervised Neural Machine Translation
+ ## [Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders](https://blog.csdn.net/weixin_38937984/article/details/102377224)
+ > Multilingual Unsupervised NMT using Shared Encoder and Language-Specific Decoders
+ ## [解二（三）元一次方程](https://blog.csdn.net/Aoke20020226/article/details/102465280)
+ > 解二（三）元一次方程
+ ## [NBA总裁肖华公开支持火箭队总经理莫雷，但国人这次不会含糊了](https://blog.csdn.net/qq_41590635/article/details/102383526)
+ > NBA总裁肖华公开支持火箭队总经理莫雷，但国人这次不会含糊了
+ ## [我们该如何高效的学习](https://blog.csdn.net/qq_23853743/article/details/90226411)
+ > 我们该如何高效的学习
 # PM 
- ## [电商运营之站内搜索全面指南：filter（高级筛选项）优化](http://www.woshipm.com/operate/2952095.html)
- > 本文为电商站内搜索系列文章之一，不过这次将关注点与侧重点放到了filter（高级筛选项）优化上，，并分析了其中的要点，希望能给你带来启发与思考。01filter（高级筛...
- ## [网易云音乐20届笔试题解析：如何快速吸引4G用户迁移到5G？](http://www.woshipm.com/zhichang/2951807.html)
- > 笔者分享了一个网易云音乐的笔试题，并对其进行了拆解和相应解答，希望给读者一些启发~~网易云音乐的笔试题今天从两个问题进行拆解示范，如果大家有更好的idea欢迎大...
- ## [刘玮冬运营手记 | 运营人如何做好向上管理，分享我的完整方法论](http://www.woshipm.com/operate/2953481.html)
- > 我将在近段时间，撰写一系列关于互联网运营人如何快速成长的指导性文章。这些文章全部来自我工作多年的亲身实践和经验总结，以此来帮助还在运营行业中苦苦挣扎的各位同...
- ## [淘宝 | 商品详情页加搜索框的意义是什么？](http://www.woshipm.com/pd/2952654.html)
- > 本文从用户行为角度进行分析，从用户购买情境中推导出手淘在商品详情页加搜索框的意义。淘宝在8.11.1的版本中做了一项比较大的交互修改，即在商品详情页顶部增加了搜...
- ## [4个方面解答，符号是什么？](http://www.woshipm.com/marketing/2953456.html)
- > 符号是什么？本文笔者立足品牌营销，对符号的概念、作用及其发展进行了分析与讨论，与大家分享。最近认识了很多新朋友，交流后发现，有做媒体的，有做运营的，有做营...
- ## [产品人员， 如何在逆境中反手？](http://www.woshipm.com/pmd/2952011.html)
- > 本文是作者继上篇《N型思维——所有卓越背后的秘密》 与读者分享的一个真实案例。通过深度思考，总结规律，遭遇逆境也有反手的机会。你是不是也经历过逆境？在职场上...
- ## [区块链运营之误解与成长](http://www.woshipm.com/operate/2950834.html)
- > “币圈韭菜、科技新贵、高价薪酬”，这几个词是很多人对区块链运营的刻板印象，而笔者也用亲身经历向我们展现了区块链运营的真实面貌。作为一只2017年加入区块链行业的...
- ## [每一位创业者，都必须学会看这3张财务报表](http://www.woshipm.com/chuangye/2952400.html)
- > 三张财务报表：现金流为正，利润为正，资产增值。我与大家分享过，我们做咨询时，“救命、治病、养生”的基本心法和逻辑。救命，就是活下去。失血过多，关键是立刻止...
+ ## [品牌营销只知道打广告？不如讲好你的产品故事！](http://www.woshipm.com/marketing/2953859.html)
+ > 品牌在营销推广的时候，不能只知道花钱打广告这一种营销方法。想让消费者感受到产品背后的态度和温度，你需要讲好你的产品故事。为了给消费者种草带货，京东新出了一...
+ ## [FMS财务管理系统：应付结算](http://www.woshipm.com/pd/2953588.html)
+ > 本篇文章中，笔者对应付结算各个部分进行了梳理和分析，与大家分享。前面相继介绍了财务系统的组成、财务数据流转、应收管理、质保金、预付款、费用管理以及合同管理...
+ ## [学会“翻译”，打造又漂亮又卖货的文案](http://www.woshipm.com/copy/2954599.html)
+ > 想要消费者更快更好地接收信息，文案就必须担任“翻译”的角色，将“技术语言”、“设计价值”、“品牌理念”等翻译成，消费者听得懂、喜欢看的语言。一、沟通，是文案的最关...
+ ## [那些年，职场菜鸟教会我这些……](http://www.woshipm.com/zhichang/2953998.html)
+ > 职场中，你是否遇到过十分抗拒与其共事的人呢？通过对这类人的特性进行归纳分析后，我们又能找到什么思考点与改进点呢？在我们的日常工作中，和其他人一起合作在所难...
+ ## [界面交互设计总结（二）： 常规功能类](http://www.woshipm.com/pd/2952727.html)
+ > 区别于运营活动类的界面交互设计的，就是常规功能类的界面交互设计，两者之间既有不一样的地方， 也有相似的地方，本期就围绕后者，结合我在实战中的经验，进行一下分析...
+ ## [通用动销 VS 定向动销：在产品的不同阶段如何用好补贴策略？](http://www.woshipm.com/operate/2924101.html)
+ > 补贴策略是产品进行拉新和提高留存的有效手段，但是补贴策略不是一成不变的，需要根据对象的不同、阶段的不同进行调整，才能取得尽可能好的效果。一、补贴概述好产品...
+ ## [对于互联网产品不需要品牌这事，我有一些看法](http://www.woshipm.com/operate/2949880.html)
+ > 传统的品牌打法存在效果滞后、品牌和产品脱离的情况，想要更好的品牌效果，品效合一、效果可量化才是互联网产品最需要的品牌打法。最近和一些做互联网产品品牌的朋友...
+ ## [双11即将来袭，电商大战风起云涌](http://www.woshipm.com/it/2953124.html)
+ > 双11即将来袭，各大电商平台将如何备战？双11大战又会对各平台造成什么影响呢？笔者将为你揭晓。往年每次双11大战，马爸爸总会亲自督战。今年的双11，退休后的马爸爸...
+ ## [拆解拼多多裂变活动：7天新增1700万DAU](http://www.woshipm.com/operate/2951693.html)
+ > 笔者从拼多多裂变活动的基本情况出发，对活动流程进行了梳理，并分析了裂变活动的亮点和存在的问题，与大家分享。一、活动基本情况2019年8月29日，拼多多上线了“天天...
+ ## [企业IP化的8种原型角色](http://www.woshipm.com/marketing/2953713.html)
+ > 很多企业都在说打造IP，希望IP能够对企业的发展起到帮助，仿佛打造IP是个很容易的事情。实际上，不同的企业在IP化这一方面的优势与问题有出入。如何根据企业特色打造相...
+ ## [To B姗姗来迟，来势汹汹](http://www.woshipm.com/it/2954041.html)
+ > 互联网+经济被认为是新的出路，但B端市场的商业模式、商业逻辑、产业属性截然不同，相较于C端，B端业务体量更大，也更复杂。ToB，将是一条更慢、更难，也更值得期待的路...
+ ## [AARRR模型拆解（一）：Acquisition 用户获取](http://www.woshipm.com/operate/2952445.html)
+ > 随着互联网行业的发展，许多产品都实现了从0到1的过程，渐渐地，很多产品的重心，都转移至如何实现从1到100，到10000的过程。而AARRR模型作为一个经典的增长漏斗模型，...
  ## [AI+教育笔记系列（4）_认知篇_案例“AI好老师”智能育人助理](http://www.chanpin100.com/article/109714)
  > 本篇分享的“AI好老师”育人助教系统是北京师范大学，未来教育高精尖创新中心的余胜泉教授团队的科研成果。参考文献：“AI好老师”智能育人助理系统关键技术通过阅读本篇文章，读者可以了解AI助教系统的模块构成，主要包括：知识图谱和智能对话系统技术架构以及涉及的AI技术概念。
  ## [致未来|ofo的破茧成蝶之路](http://www.chanpin100.com/article/109712)
