@@ -1,7 +1,7 @@
 ---
 title: 2019-10-12 IT News
 copyright: true
-date: 2019-10-12 12:01:29
+date: 2019-10-12 17:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -63,32 +63,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Windows版iCloud和iTunes的默认捆绑软件被曝漏洞，你也可能中招!](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=r9a03jMofPH5pzO6f-F5tgDDQlAYIbEOp88RCKL*r7lG8dolT-u*JExRJjT5S77i*wQ-LfYdKmJHvbMBXVxEEvjnTGmm2otmgAIrBOkrRknTPwuoWFld8McXv-fsuqTJ&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，Morphisec Labs的研究人员披露，某黑客组织正在利用Bonjour更新器的零日漏洞进行攻击，很可能影响到了安装Windows版iTunes和iCl
- ## [器件|HUBER+SUHNER同意收购BKtel](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=s17ryIlqYbuUHZENTglG1w4A-rpK7dB7qrlcXSlmuaYIlend-H5RWtamsBv0RWNxFz*bc*3iX8W4CkWb8VyKXFT93t-1NjLxGafgUtWnO6AMrzAFF9u8rCqS6fACQzaK&new=1)
- > 导读     HUBER+SUHNER同意以大约5000万瑞士法郎(5020万美元)的价格收购BKtel公司，后者致力于开发、制造和部署用于宽带网络的光有源和无源器件。此次收购将大大加强HUBER+SUHNER在核心市场WAN /接入网络中
- ## [当你“解放双手”时，或许你会发现还是自己靠谱](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=Ui88tkdVZ0tJjBfxjLXlnrNch3kctETkKgTiXBd57EcU0b1XrL0nv81vNAuRF0NVrwfAe-a8g79bEBVMuAeiE5LBIsKy5y58PAXxnvGSLlSaLYgEaDToyk80s*NjciR2&new=1)
- > 科技的发展在促进人类社会进步的同时也将我们带向了一个未知的世界。在科学技术的快速发展下，以人工智能(AI)为主导的而第四次工业革命将带来颠覆产业发展的模式，人类将进入人工智能时代。届时，人与机器也会建...
- ## [美国第三季度融资、交易量降幅均超15%，经济下行趋势明显?|一周硅谷热闻](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=SGZqQYWitpuXozpghet66lJCiWz07mwbTpSNdiLo5tLXqME-02eLR6CqzO606LeBaHsJI6LUDMdjZtEQRTyDK0ZfprGGYd*p66TumtJJmN1AWr4hRBDSEu4hYpH0PrLk&new=1)
+ ## [关键时刻，我在你身边!一个专属于汽车人的资源管家!!](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=eEHptPrrHhtEUJcSJ0I9MFJ48YqIif9JVh9yECvM4iu9YBSc04PiBg1nIfk*go9wzzU5cNRWYA620yF7uCX3nck8KT4WIIkyIVfBZFXjjh2iKpYXNq2KL8pHuw1KA0Yd&new=1)
+ > 截止目前，圈里已沉淀了近400篇汽车行业优质资料（包括：智能网联、新能源、共享出行及传统汽车行业报告等），同时也汇聚了一大批汽车圈的精英用户。我们在这里分享、学习、成长，也在这里交流，知无不言言无不...
+ ## [通知：2019“天工杯”结构优化设计论坛暨增材制造大赛全国总决赛](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=nUnMdaBXZFpMCdMSzwf6frSjUukqiHnGOR5w8SEEmOh6rywHvNK9fiiBAkyWVWi4Kl0mYq2L4CSzNidhCBi5N7qK1ts5s3PO6w*ILTsPojBGVKVbjC7o7ilLBlunAKPl&new=1)
+ > 为贯彻落实国务院、工信部、发改委等十二部门联合印发《增材制造产业发展行动计划（2017-2020）》精神，发掘我国工业设计人才，展现优秀工业设计作品，促进工业设计成果转化，吸纳集聚工业设计机构，推动增材制...
+ ## [立志成为“钢铁侠”的90后，超酷!](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=FT1CURt6KNKI*R-hXTY9PvKthWwOW*kywfubdCSrlaLnrzGrpnSBTTOWhBVLxudp4HGzcjPMHFViogipwciyeTeOm02S1gtUIUMcIZ9kkAvrpGSZwTbQO5V6ygkAmqj*&new=1)
+ > 秦若峰，重庆人，90后，毕业于重庆邮电大学软件工程专业。两年前，小峰加入中冶赛迪重庆信息技术有限公司（后简称：中冶赛迪信息），担任技术工程师，常年在钢花飞溅、机器轰鸣的钢铁工厂“用汗水挥洒青春”。 ...
+ ## [为云中的数据库创建企业级安全性](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=O4LHoEVxlwTwEB7KkYIYO9MLeaoGPsUOFA*3evroZmpD1tn63-oK1AsT4r4ua4zLKzJ4jJBcI45Tm79EuLkK11Nii6xFA55EFDq*noaeB6AyPfTm1MhfnuvqrdxEXZHP&new=1)
+ > 关键讯息，D1时间送达！各种规模企业的数据库经常受到持续的网络攻击。很多网络入侵通常在更长时间内未被检测到，这意味着数据库需要受到被动和主动安全系统的保护。跨不同平台和云计算提供商托管的数据库和其他...
+ ## [新组网，新安全，首个5G SA云网络发布](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=AZfxkMtBaLtfOU77j9zS7cQMX4l9qnO0pPjBq7TPVP4lrQVN8O16uOgJ5VdHcIdJhPhaoIlNlMeCpCM8QikLp5CNk9ZITHX90TVtOZAcmVZDV5wJ4P8uKXz1-1t74CFC&new=1)
+ > 5G最大的价值在于将连接从人扩展到万物，将服务从2C扩展到2B市场。但无论是4G网络，还是NSA组网下的5G网络，都难以实现这次扩展。4G网络为消费者提供移动宽带服务而生。5G NSA非独立组网依然锚定于4G网络，沿用4...
+ ## [净利润亏损92%“富二代”陈家俊拿什么拯救酷派?](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=bLvZT37Q2P3WQy1MN0FAd6QOn2qrg*GJcX8ZLAWzokA7fpDRzxFE3PDkehNrWhnToHFo67fZy1COMZIX7oEwWTGgijETO0lHVNF8lFhQx2DM51thlBvD40U4*dldBJLf&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相曾经国内“中华酷联”成员之一的酷派集团，如今复牌已接近两个月时间。从今年年初开始，酷派集团经历了高管团队“大换血”、成功复牌、推出新品手机，但这些都未激起...
+ ## [机器学习免费跑分神器：集成各大数据集，连接GitHub就能用，还能验证论文结果](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=kIu10wM*HIYwVNpEVKBJ9nQ0-IxR-R9U8QI*zTkTdVR0Dp43tZbv8MA2gUmwg4txd97zcLw7KsiXsNeF6sTqp7SFqks3fxN93yDFw4*Nkdu2IC6uDam7Ghj3ICP9xNOq&new=1)
+ > 栗子 鱼羊 发自 凹非寺量子位 报道 | 公众号 QbitAI搞机器学习的小伙伴们，免不了要在各种数据集上，给AI模型跑分。现在，Papers with Code (那个以论文搜代码的神器) 团队，推出了自动跑分服务，名叫sotabench
+ ## [\[访谈\]未来RISC-V很可能发展成为世界主流CPU之一](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=C-j9Etyhw8dDqjiu1MJs-qp7gTCNbp3Fz6HS-ti-rEF8KBoTVplFXwN64qOXjYFvypxIvXg5O5cYftvxq8-R7mvprjz64SUySPXYNzLax-vNIZzYBeN8malMcy1RMnv9&new=1)
+ > 编者按RISC-V的发展前景如何？前不久，在兆易创新推出基于RISC-V内核的微控制器GD32V发布会上，倪光南院士认为，未来RISC-V很可能发展成为世界主流CPU之一，从而在CPU领域形成Intel、Arm、RISC-V三分天下的格局...
+ ## [日本最具人气的3D打印展?听听中国展商怎么说](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=nUnMdaBXZFpMCdMSzwf6frSjUukqiHnGOR5w8SEEmOiuodDn0PE8G1reEnSeSiZR-g6VYyiIh5ayg*ikuIq8OMs9LZjxvHiLJloohFyG-xH1EINBpn1lZVYJEQ8R52n6&new=1)
+ > 第2届 日本国际增材制造及3D打印展（曾用名：次世代3D打印展)日期：2020年2月26日-28日会场：日本千叶幕张国际展览中心*举办于日本工业展内*预计2,300家参展商和80,000名专业观众到场。合作媒体：南极熊3D打印网...
+ ## [主动安全·智慧驱动——2019合肥网络安全大会成功召开](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=W90EcPkinoR-tKxn8BhUzHjf0PqQQmc0pjW6QC3AO07TtlQKN-PEPnImWlwKh9TI0VybXI4uviYxQ5BGQo7Yj6NtnGtQ*9CergVbdLneVDghmIQNnIMG9c*ihcRgt05T&new=1)
+ > 10月11日，以“主动安全·智慧驱动”为主题的2019合肥网络安全大会成功召开。本次大会由合肥市人民政府主办，邀请到来自政府机构、学术与产业界的权威专家以及企业、高校代表，1500余名网络安全精英齐聚合肥，探...
+ ## [墨迹科技申请上会被否，证监会：曾收集用户信息变现被责令整改](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=VxVLN64h3iUqKzp7HQfFYR9r5iZWm-1HvMsu5hwcv86y9OH71O4yL3*J6yNZirmdMxQtiOC86zhOXLHCJM-bTGZF1G9xFGBrtyk9EzbeJutF7ELtKXeSBW6CcjD-VkeN&new=1)
+ > 10 月 11 日，据中国证券监督管理委员会（以下简称证监会）发布的《第十八届发审委2019年第142次会议审核结果公告 》称，北京墨迹风云科技股份有限公司（以下简称墨迹科技）（首发）未通过。原因如下：1、发行人...
+ ## [a&s 安防周看点](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=fOOnVKpQXfOw7C105b7IjFran2BfRB-B3qHkL-J6QUYDk0Gx0K6rUxQvjy-f9dWH-Lx0rJnDedx1eEfLxmP3WE1ewGCQc4BMwHxZkcSDTiqPtZJA5QyH-Am41Ub7ux0a&new=1)
+ > 本周看点1、8家商业公司被美列入实体清单；2、工信部：12月1日起办手机号全面实施人像比对；3、广电总局发布AVS2 4K超高清编码标准；4、教育部等七部门要求加快培养家用智能监控等智能设备研发制造人才......一...
+ ## [多因子身份验证的五个趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=T8zIrnozMZEKZf*YmqWMtm4NrRruvIfBz9GlMipTSmyP7FaMa8XIJVxQCccm9TWvNxEKkljYB22Y10vLldFc8FigjGE4lpWYIR6Oa*M3h9U4hpYnMuH5HnQu4frSQzEj&new=1)
+ > 多因子身份验证 (MFA) 的广泛采纳受到技术限制和用户抗拒的阻碍，但其使用一直在增长。为什么呢？分析机构预测，得益于对安全电子支付的需求和威胁、网络钓鱼攻击及重大数据泄露的增多，多因子身份验证 (MFA) 市...
+ ## [美国第三季度融资、交易量降幅均超15%，经济下行趋势明显?|一周硅谷热闻](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=SGZqQYWitpuXozpghet66lJCiWz07mwbTpSNdiLo5tIIAxaSmoR7ctWln6VVPVySXNw8Rp81-cfFWWFMRlYIX3Y-HORpBvxAJfkqqEe7PqPj98Kv7*QqWaF0H8fv8ZIf&new=1)
  > 热点追踪 / 深度探讨 / 实地探访 / 商务合作大家好，一周硅谷热闻又跟大家见面啦！本周研究机构显示第三季度美国风投融资、交易量均大幅下降。大公司方面，沃尔沃宣布跟谷歌合作将配置最新系统，扎克伯格本月要...
- ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=lvgWuFwobRps15j4xsC0IBCttaqYYFqJIVpUadnS-iBxZJPCWGZhyow5MGEIoPdkiJX-p5AsEibjy8Pk0rbzyIksb4bj8WJIUiaa*YykdrgTqP1VBIYo0yl1xDb07aZ2&new=1)
+ ## [华为老总身份彻底曝光，全世界感到害怕!](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=lvgWuFwobRps15j4xsC0IBCttaqYYFqJIVpUadnS-iDI3smv4CSOVpUMW98B0wcWp4NcoGQ-Mg405W6NdRkVP3cp7c6zSy9h2ib4AbdqS8jF493v0IghoLyL2PECSDcY&new=1)
  > 你一定知道华为，但可能还不知道华为有多厉害。一句话说：华为去年的营收，比腾讯、百度、阿里巴巴加一起还多。再加一句就是：它现在是全球最大的通信设备供应商，服务着全球30亿人，业务遍布170多个国家。它一...
- ## [陈春花解读数字化与新产业时代](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=62OKJ8yMnlvF*lOB8W8NBxrMVmIJW-QVs2drUcLiYDow6ZJPBLMxo3B7us3AUDiuGm3wVupxgMs2Bz0N22c-mjLZ3J7uOKkaVGk0m3B9c9Mxi4KJm1T-UM-o0tSFnKA*&new=1)
+ ## [Windows版iCloud和iTunes的默认捆绑软件被曝漏洞，你也可能中招!](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=r9a03jMofPH5pzO6f-F5tgDDQlAYIbEOp88RCKL*r7mZHznrDtJfD44EgjKEYRpx2QSpc6fnVb1CDCNbwF4bhfE01y9eHCiBQ6o4HhZotW9xNboNdBcwBca*s-8NgAfi&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，Morphisec Labs的研究人员披露，某黑客组织正在利用Bonjour更新器的零日漏洞进行攻击，很可能影响到了安装Windows版iTunes和iCl
+ ## [器件|HUBER+SUHNER同意收购BKtel](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=s17ryIlqYbuUHZENTglG1w4A-rpK7dB7qrlcXSlmuab0FJ7noERM5L2uq9EaDZV-8XPJGNQNlmrWPU70jyrRgq8MBkOCIR8Ognf1yHwTs8-I7leV1rjPB4WLwh8vRIB8&new=1)
+ > 导读     HUBER+SUHNER同意以大约5000万瑞士法郎(5020万美元)的价格收购BKtel公司，后者致力于开发、制造和部署用于宽带网络的光有源和无源器件。此次收购将大大加强HUBER+SUHNER在核心市场WAN /接入网络中
+ ## [当你“解放双手”时，或许你会发现还是自己靠谱](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=Ui88tkdVZ0tJjBfxjLXlnrNch3kctETkKgTiXBd57Ece7IET0f7gsJNZlOgeq4gTNVq9JwMSEtbKrIpP4RY8EsoWEPy2V98D4ytCHA4o6f70AGbKhZmZG2r3niosbtH1&new=1)
+ > 科技的发展在促进人类社会进步的同时也将我们带向了一个未知的世界。在科学技术的快速发展下，以人工智能(AI)为主导的而第四次工业革命将带来颠覆产业发展的模式，人类将进入人工智能时代。届时，人与机器也会建...
+ ## [陈春花解读数字化与新产业时代](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=62OKJ8yMnlvF*lOB8W8NBxrMVmIJW-QVs2drUcLiYDoFP5FUja3Oxr*YL*n*WuNDDDRre-f4usf9AZ05xkhHPEDNolQ56idqmGeFfCNmGG1ZVR92KnRPGVWxAGPXM4Gf&new=1)
  > 导读在理解技术和数字对产业带来的影响时，我们必须从认知开始改变，在战略底层逻辑上有一个彻底的改变。当前，企业在发展过程中遇到的最重要的挑战、冲击和机会，就是技术创新和技术发展带来的全新的可能性。基...
- ## [法国同行赞叹：中国无人机创造了“不可思议的故事”](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=dOhRINJ4QqKdxd8V4edGJgNYjbg0x-0l2DMX7rlBef9cNK1KlY2HxFHsIcZo5m32mRB58iTnSsE4SjTYp6yvTWeJwrkvtNZGuN8GqmT0Y08=&new=1)
+ ## [法国同行赞叹：中国无人机创造了“不可思议的故事”](http://mp.weixin.qq.com/s?src=11&timestamp=1570870804&ver=1907&signature=dOhRINJ4QqKdxd8V4edGJgNYjbg0x-0l2DMX7rlBef-kNVaWP1ZB3rY5iEGlravqXVsaDnOyk5qpLXA1gc1QcB1h-zmhliDRkAR-2BYUwOM=&new=1)
  > 参考消息网10月12日报道 港媒称，法国无人机企业阿特利亚公司的项目负责人贝努瓦·吉约说，中国制造的无人机创造了“现代技术不可思议的故事”。据香港亚洲时报网站10月10日报道，吉约在洛杉矶举行的大疆创新Air...
- ## [有图有真相：中国移动兑现承诺，联通迎重磅利好](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=hURjvTrVbOnGLHogemYClG6IzwFxgHwpoABm8fVj2vcAO7mH8XtzJT2T14XE2-SSJPNLGREWmagGr6BBAHbQF2DF0009AS3yOoFOYGIQusOXBb14yB*LJScxo7FLUHRq&new=1)
- > 据通信人家园消息，为了跟中国移动集团策略保持一致，同时完成农村区县GSM900退频5MHz给联通，某地移动公司计划将在10月18日晚全网实施900MHz频率重耕（包括GSM900翻频、FDD900移频、NB移频）。在新获得5M频谱之...
- ## [5G真的可以帮助手机厂商“逆天改命”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=DrEY*2PNvcdoAp9RIHCRb*VV5e2-Mc9GLgv1pEFbA78ygSdqXXeGqs4nLY6yQfnqea6ySzBMy1jl8eomTKHUVt-QUMGJPcFuIskSaorHAkj1BNg7DeuuafgPnWhfdavK&new=1)
- > 【摘要】5G手机的发展仍需多方共同努力，运营商在5G网络建设上持续快速发力，上下游产业链企业不断增强能力输出，手机厂商自身也加强自主创新研发，先将整个5G手机市场培育起来，未来的路才会更好走。| 科 | 技 ...
- ## [为什么Win10的bug比Win7多了这么多?](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=oF-*DSbtopsbcvuMK1B6hbQ*XZgOxTBl296Qet*xpfVSsFcYs*25hYGK-WN8a5F6vgE8SPD75923QiqW93EHA95VvYr1qw7JFkGGnnVXSaIMOCEOnzYHQFlXmN6d0bVj&new=1)
- > 前段时间，有个视频在网上火了起来。 视频里的这位老哥，自称在微软工作了接近 15 年，狠狠批判了一番微软 Windows 10 的开发质量，声情并茂地说了小 20 分钟。这位名叫 Jerry Berg 的老哥展示了自己工作中获得...
- ## [关于时延(5G)那些事，老司机已经给出了答案](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=VD1A06sEYj9UJKniJqmi7BQLZcIIRLDFaOJn2R-WwJLOuEtMyXmZu4wBqZ93ja-tp0uyrcphTXt9trWlROA4jtt7usNXzOmaoA2fRX4hEB6k-NKy9n5Vm13iAoWe9h8v&new=1)
- > 出发去机场，时间不多了。一条路短，但是时常堵车，交叉路口多，常年红黄交替；一条路距离翻倍，但一路绿灯。给司机说最快到达，他果断选择了距离翻倍的道路，不仅快，而且确定性好。这是生活中典型场景。即一定...
- ## [5G手机今年值得买吗?六个问题看完不纠结](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=*RO4oGffP9ws0m*fNvh4JvCWVt98xpKQIXV6ACQ32RLFkt9lDJ9i0SxXOKGUWH0NoM0SOw9*AjBDPNprshttC3Ya23aFjP2lejNhVpsHnv4S19mQLVCGMff2oj3M-gLl&new=1)
- > 2019年我们正式进入5G元年，下半年各大品牌的5G手机也陆续进入市场。但5G手机的到来让近期打算换机的朋友也产生了一些犹豫：是该换5G手机还是继续入手4G手机呢？毕竟5G对于科技爱好者来说吸引力挺强，但产品价格...
- ## [为什么说AR头显并非FOV越大体验感越好?](http://mp.weixin.qq.com/s?src=11&timestamp=1570852804&ver=1907&signature=OimrB52V5RejNBw4VfNLq1WJh-opWd-Eu7VrBZazyeJ*mUVIXmIddqzxHb3nIFRnDG8Km5MYRw6Kzj9GR9s-FWhRAfaxKEMGz77H7zJ-LdP2EJNmW3-*DwhPESXRnvDt&new=1)
- > Esther｜ 编辑上个月，一家名为Kura的美国AR初创公司发布一款全新的轻量级AR眼镜：Gallium。据官网称，Gallium采用一体化设计，机身重量仅80g，采用自研的结构化几何光波导方案，视场角高达150°，透光率达95%，...
 # IT 技术 
  ## [如何通过修复英特尔Rapid Storage Technology驱动程序来提升PC性能？](http://biz.51cto.com/art/201910/604173.htm)
  > 如何通过修复英特尔Rapid Storage Technology驱动程序来提升PC性能？
@@ -106,56 +120,64 @@ categories: IT NEWS
  > Nature发文：深度学习系统为什么这么好骗？
  ## [详解JavaScript运行机制(Event Loop)](http://developer.51cto.com/art/201910/604025.htm)
  > 详解JavaScript运行机制(Event Loop)
+ ## [MySQL数据库入门多实例配置](http://database.51cto.com/art/201910/604188.htm)
+ > 所有的操作都是基于单实例的，mysql多实例在实际生产环境也是非常实用的，因为必须要掌握。
+ ## [CSS实用技巧：文字处理](http://developer.51cto.com/art/201910/604187.htm)
+ > 作为程序员的我们，书写代码也需要大量的技巧。一份良好的代码能让人耳目一新，让人容易理解，同时也让自己
+ ## [MySQL数据库基础篇之入门基础命令](http://database.51cto.com/art/201910/604184.htm)
+ > 在日常工作与学习中，无论是开发、运维、还是测试，对于数据库的学习是不可避免的，同时也是日常工作的必备
+ ## [2019年不错的六个数据分析工具](http://bigdata.51cto.com/art/201910/604183.htm)
+ > 数据科学家是21世纪的热门工作。工欲善其事必先利其器。数据分析工具何其多，究竟用哪样才合适?Lewis Chou
+ ## [Redis缓存击穿、缓存穿透、缓存雪崩](http://database.51cto.com/art/201910/604182.htm)
+ > 本篇文章主要谈谈Redis中很容易出现的三大问题现象：缓存击穿、缓存穿透以及缓存雪崩。不过在介绍这三个问
+ ## [各方观点激辩：我们离5G“爆款”还有多远?](http://network.51cto.com/art/201910/604181.htm)
+ > 或许在2020年可能有所谓的“爆款”、“杀手级”需求出现，但由于5G的对整个经济影响面之广，少数的“爆款”
+ ## [500亿参数，支持103种语言：谷歌推出「全球文字翻译」模型](http://news.51cto.com/art/201910/604178.htm)
+ > 由于缺乏平行数据，小语种的翻译一直是一大难题。来自谷歌的研究者提出了一种能够翻译 103 种语言的大规模
+ ## [Windows服务器主机加固分享](http://netsecurity.51cto.com/art/201910/604180.htm)
+ > 本篇文章主要谈谈Windows服务器主机加固的9大技巧。下面，我们一起来看。
+ ## [如何摆脱「技术思维」的惯性？](http://news.51cto.com/art/201910/604176.htm)
+ > 虽然从标题上看，这篇文章是写给“技术人”的，但 从广义上来说，只要你是一位以理性见长的人，那么这篇文
  ## [对于人工智能的恐惧及其5个解决方法](http://ai.51cto.com/art/201910/604174.htm)
  > 实施人工智能技术的IT领导人可能会感到一些恐惧，这有着充分的理由。人工智能在拥有数十年发展和应用历史的
- ## [企业是否需要高性能计算?](http://cloud.51cto.com/art/201910/604172.htm)
- > 随着成本的下降和用例的增加，高性能计算正在吸引各种类型和各种规模的新用户。其扩展选项包括基于超级计算
- ## [5G预约用户超千万！是“虚火”还是“真旺”？](http://network.51cto.com/art/201910/604170.htm)
- > 十一假期刚过，“中国5G套餐预约数已超千万”的消息就迅速在朋友圈刷屏，这一庞大的数字背后，也引发了业界
- ## [物联网安全的6个提醒](http://iot.51cto.com/art/201910/604169.htm)
- > 物联网安全在2016年就已经成为人们关注的焦点，而在随后的几年中，人们更清醒地认识了物联网安全的发展态势
- ## [智慧物流的畅想](http://www.cioage.com/art/201910/604168.htm)
- > 物流作为供应链的一部分存在于链条的多个环节。经过多年的发展，在增效降本不断升级的目标之下，各行业对供
- ## [它是真实的“盗梦空间”？在这里，一切都可能是数据](http://zhuanlan.51cto.com/art/201910/604171.htm)
- > 和传统的线下综合型商场不同的是，亲橙里从规划之初就定位为数字化商场，通过植入自研的IBOS平台完成建筑内
- ## [刷脸支付叫好不叫座，为啥消费者和商家都不愿用先进科技？](http://mobile.51cto.com/news-604166.htm)
- > 移动支付相信大多数人都不陌生，中国移动支付的普及被人称为“新四大发明”，在中国移动支付产品发展如火如
- ## [揭开JavaScript引擎的面纱](http://developer.51cto.com/art/201910/604164.htm)
- > JavaScript 是一门高级语言，但是最终计算机能理解只有1和0。 那么我们编写的代码是如何被计算机理解的呢？
- ## [区块链与分布式账本技术是一回事吗？](http://blockchain.51cto.com/art/201910/604163.htm)
- > 随着以比特币为代表的加密货币的兴起，“区块链”的概念也成了人们热衷讨论的话题。但与区块链类似的另一个
- ## [理想的AR眼镜不会很快到来，最大的障碍是芯片设计](http://mobile.51cto.com/vrar-604162.htm)
- > 在一款舒适、时尚的眼镜中构建有用的增强现实(AR)，看起来是很简单的任务，但其实需要许多方面的重大技术进
- ## [我所经历的三次裁员](https://blog.csdn.net/mogoweb/article/details/102493424)
- > 
- ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
- > 
  ## [Eclipse快捷键大全](https://blog.csdn.net/hebtu666/article/details/102489305)
  > Eclipse快捷键大全
- ## [生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...](https://blog.csdn.net/kexuanxiu1163/article/details/102385463)
- > 生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...
- ## [2019年10月全国程序员工资统计，一半以上的职位5个月没招到人。](https://blog.csdn.net/juwikuang/article/details/102326317)
+ ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
  > 
  ## [30秒内便能学会的30个超实用Python代码片段](https://blog.csdn.net/duxinshuxiaobian/article/details/102480959)
  > 30秒内便能学会的30个超实用Python代码片段
- ## [德国 IT 薪酬大揭秘！](https://blog.csdn.net/csdnnews/article/details/102383573)
- > 德国 IT 薪酬大揭秘！
- ## [Java String 对象，你真的了解了吗？](https://blog.csdn.net/z694644032/article/details/101267830)
+ ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
  > 
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
- ## [世界上最好的学习法：费曼学习法](https://blog.csdn.net/wo541075754/article/details/101554326)
+ ## [58道JavaScript题，看看你能全对不？](https://blog.csdn.net/liuyan19891230/article/details/102385743)
+ > 58道JavaScript题，看看你能全对不？
+ ## [漫画：什么是归并排序？](https://blog.csdn.net/bjweimengshu/article/details/102384930)
+ > 
+ ## [git 基本配置和使用](https://blog.csdn.net/qq_41485414/article/details/102480640)
  > 
  ## [3分钟内实现人脸检测](https://blog.csdn.net/fendouaini/article/details/102454320)
  > 3分钟内实现人脸检测
- ## [十大优秀编程项目，让你的简历金光闪闪](https://blog.csdn.net/duxinshuxiaobian/article/details/102218308)
- > 
  ## [SQL 性能优化梳理](https://blog.csdn.net/weixin_38405253/article/details/102455552)
  > SQL 性能优化梳理
- ## [抖音上好看的小姐姐，Python给你都下载了](https://blog.csdn.net/lantian_123/article/details/102481677)
- > 抖音上好看的小姐姐，Python给你都下载了
- ## [第二弹！python爬虫批量下载高清大图](https://blog.csdn.net/qq_40693171/article/details/102220448)
- > 第二弹！python爬虫批量下载高清大图
+ ## [Git 常用命令总结,掌握这些,轻松驾驭版本管理](https://blog.csdn.net/qianyu6200430/article/details/102385503)
+ > Git 常用命令总结,掌握这些,轻松驾驭版本管理
+ ## [世界上最好的学习法：费曼学习法](https://blog.csdn.net/wo541075754/article/details/101554326)
+ > 
+ ## [简单粗暴上手TensorFlow 2.0，北大学霸力作，必须人手一册！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/102476415)
+ > 
+ ## [2019年10月全国程序员工资统计，一半以上的职位5个月没招到人。](https://blog.csdn.net/juwikuang/article/details/102326317)
+ > 
+ ## [生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...](https://blog.csdn.net/kexuanxiu1163/article/details/102385463)
+ > 生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ > 
+ ## [如何彻底搞懂面向 Web 开发者的正则表达式？](https://blog.csdn.net/csdnnews/article/details/102522486)
+ > 对于正则表达式，开发者如何跳出云里雾里的谜团？作者 | Chris Achard译者 | 弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：正则表达式能在字符串中查找匹配特定模式的子字符串。在JavaScript中，可以通过斜线 / / 来创建，也可以通过n...
+ ## [为什么我抛弃了 Ubuntu？](https://blog.csdn.net/csdnnews/article/details/102522081)
+ > Ubuntu 是很多开发者优先选择的 Linux 发行版之一，但是本文的作者在使用了十年之后却最终“抛弃”它转投“他人”怀抱。原因何在？作者 | Dave McKay译者 | 弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：十多年来，我一直在使用Ubuntu...
+ ## [揭秘 OceanBase 勇夺 TPC 榜首的王者攻略！](https://blog.csdn.net/csdnnews/article/details/102521874)
+ > 原创： 马超 CSDN 昨天作者 | 马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）前一段时间阿里的OceanBase拿下TPC-C排行榜的冠军消息传来，随即就在圈内引发热议，由于位列第二名的甲骨文实际的测试时间是在2011年。而且两者的性价比还差不多，所以不少网友...
+ ## [“苹果压根不关心开发人员的利益”！](https://blog.csdn.net/csdnnews/article/details/102520643)
+ > 原文链接：https://data.newrank.cn/m/s.html?s=PigpOzA/LTE%3D苹果的生态“封闭”一直备受开发者诟病。近来，苹果最新的操作系统放弃了对32位应用程序的支持，致使一大批软件和游戏库无法在Mac上运行，引来了大批开发者的吐槽。此外，苹果还要求开发人员进行...
  ## [【最强干货】如何在拥抱云原生浪潮中脱颖而出呢？](https://blog.csdn.net/csdnnews/article/details/102512883)
  > 每次听到有人喊着“云原生大势已来，我要积极拥抱”等口号，阿秃我就忍不住想来个素质三连：什么是云原生？核心是啥？怎么拥抱？图片源自网络OK OK anyway，友情科普一...
  ## [.NPT 扩展名格式文件类型及打开方式分析：首次渗入 XR 内容领域](https://blog.csdn.net/csdnnews/article/details/102499153)
@@ -163,54 +185,66 @@ categories: IT NEWS
  ## [助力小程序生态发展  “小程序生态孵化社区”成立](https://blog.csdn.net/csdnnews/article/details/102494776)
  > 今年以来，小程序进入爆发之年，各类小程序平台的出现给急速发展的小程序生态带来了碎片化等问题和挑战。2019年10月10日，由阿里巴巴标准化部主导发起的小程序生态孵化社区在北京正式成立。来自各行各业的小程序技术专家们共同探讨了小程序生态发展，推动解决小程序技术问题，孵化新的标准需求和应用，促进小程序.
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
- > 北京车和家java开发工程师面试题总结
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
+ ## [公链故事难再续？](https://blog.csdn.net/Blockchain_lemon/article/details/102475199)
+ > 公链故事难再续？
+ ## [GOVM挖矿教程](https://blog.csdn.net/lengzhao/article/details/102494094)
+ > GOVM挖矿教程
+ ## [GOVM区块链](https://blog.csdn.net/lengzhao/article/details/102483865)
+ > GOVM区块链
+ ## [1密码学及加密货币概述](https://blog.csdn.net/zhoutianzi12/article/details/102488456)
+ > 1密码学及加密货币概述
+ ## [go语言-Goroutine和通道](https://blog.csdn.net/Ming2017123123/article/details/102510323)
+ > go语言-Goroutine和通道
+ ## [Qt中鼠标滑过控件由箭头变成手型QWidget::setCusor()](https://blog.csdn.net/naibozhuan3744/article/details/102500868)
+ > Qt中鼠标滑过控件由箭头变成手型QWidget::setCusor()
+ ## [C++反射和JavaScript实现](https://blog.csdn.net/liminwang0311/article/details/102473920)
+ > C++反射和JavaScript实现
+ ## [初识共识算法POW、POS、DPOS、PBFT、RAFT](https://blog.csdn.net/The_Time_Runner/article/details/102496541)
+ > 初识共识算法POW、POS、DPOS、PBFT、RAFT
+ ## [区块链作业2-以太坊系统设计思想](https://blog.csdn.net/Passenger317_/article/details/102476443)
+ > 区块链作业2-以太坊系统设计思想
+ ## [mac 上idea 提示 Сannot Run Git xcrun: error: invalid active developer path 解决方法](https://blog.csdn.net/a15835774652/article/details/102476008)
+ > mac 上idea 提示 Сannot Run Git xcrun: error: invalid active developer path 解决方法
+ ## [哈希简介](https://blog.csdn.net/weixin_44389456/article/details/102498355)
+ > 哈希简介
+ ## [pi 下载，注册，挖矿，验证，疑难杂症，一步到位](https://blog.csdn.net/zmkmzmkm01/article/details/102502806)
+ > pi 下载，注册，挖矿，验证，疑难杂症，一步到位
+ ## [区块链的少年天才--小王V神](https://blog.csdn.net/UncleDu183/article/details/102486678)
+ > 区块链的少年天才--小王V神
+ ## [7.3内存池概念、代码实现和详细分析](https://blog.csdn.net/qq_41543888/article/details/90560115)
+ > 7.3内存池概念、代码实现和详细分析
+ ## [OKEX永续合约理解](https://blog.csdn.net/The_Time_Runner/article/details/102488571)
+ > OKEX永续合约理解
 # PM 
- ## [假期的科技包围圈：你用了哪些产品？](http://www.woshipm.com/it/2963367.html)
- > 科技产品的包围，颠覆用户的认知，迈向更远的科技未来。在刚刚过去的国庆长假里，回到家乡的笔者，充分体会到了小乡镇里的科技魅力。忆及两三年前，笔者从一线城市回...
- ## [新社交元年，创业者醒不了的社交梦](http://www.woshipm.com/chuangye/2963344.html)
- > 每个创业者都有一个社交梦？有多少种人际关系，就有多少种社交APP。世间上每一个人都不是孤立存在的，在各种场合、环境下，随着身份的变化，每个人又都会融入不同的...
- ## [产品要“绝对快，相对准”](http://www.woshipm.com/pd/2897525.html)
- > 本文总结了产品要做得“绝对快，相对准”的行动指南：制定目标及数据分析、想法产生并提出假设、排定试验优先级、产品试验执行。最近了解到“绝对快，相对准”射击理论，...
- ## [从一次快闪活动说起，教你如何用4P做正确的复盘](http://www.woshipm.com/zhichang/2958137.html)
- > 你是否一直在复盘：复盘你的人生，复盘你的经历，小到小学的初中测验复盘，大到人生重大转折的选择复盘，多如牛毛的工作日报周报月报复盘，然而你的复盘真的是对的吗？...
- ## [最聪明的投资者画像分析](http://www.woshipm.com/user-research/2959032.html)
- > 本文以《雪球社区KOL用户画像》项目为例，分析了用户画像调研以及其中的注意事项。关于分享今天分享一个完成度较好的项目-《雪球社区KOL用户画像》。KOL（Key Opini...
- ## [损失厌恶心理是如何影响我们的决策？](http://www.woshipm.com/it/2963236.html)
- > 本文主要跟大家谈谈“损失厌恶”这个心理学现象，它在设计中是如何运用，又是如何影响我们的决策，总结一点自己的观点。一、损失厌恶对于损失厌恶，先来做几个实验，来...
- ## [产品经理方法论：业务异常诊断及优化](http://www.woshipm.com/pmd/2962541.html)
- > 产品出现了问题，真的只是产品的问题吗？你是否想到了业务？众所周知，B端产品服务于业务。但回顾最近半年所做需求分析和产品设计过程中，发现一个问题：业务诊断不...
- ## [中台产品系列分析报告（1）：综述](http://www.woshipm.com/it/2951982.html)
- > 中台产品系列分析报告的第一篇报告是综述，将从市场、行业、需求、商业等角度进行整体分析。今天很多人在说中台（包括但不限于数据中台、技术中台、业务中台、组织中...
- ## [共享充电宝的真正挑战是？](http://www.woshipm.com/it/2962861.html)
- > 长期来看共享充电宝必死，这是毋庸置疑的。但至少在5年以内，共享充电宝还会活得不错。所以共享充电宝吃翔的赌局，短期来看也是吃定了。一、共享充电宝又火了今年5月...
+ ## [在下沉市场，重新反思拼多多！](http://www.woshipm.com/it/2965258.html)
+ > 在互联网的下半场，拼多多该如何摘掉外界对负面的评价，构建起竞争优势呢？在笔者看来，关键在供应链！前不久，一篇《我在“下沉市场”的一个月》，让很多人“对下沉市场...
+ ## [精品酒店品牌——中国民宿的星辰大海](http://www.woshipm.com/it/2964471.html)
+ > 中国民宿的星辰大海不是百亿体量的在线共享住宿，而是千亿体量的中高端酒店市场。民宿领域的独角兽不是要去做一个好平台，而是享誉世界的好品牌～	这些年来民宿仿...
+ ## [提升表达能力和提升工作能力，哪一个更重要？](http://www.woshipm.com/zhichang/2965022.html)
+ > 你的表达和实力，哪个更重要？准备地问，你认为哪一个更需要提升？本篇文章就这一个问题进行了分析探讨，与大家分享。大概从Windows 2000开始，系统有一个性能设置，...
+ ## [品效合一，“新消费”洪流下的终极命题！](http://www.woshipm.com/marketing/2948045.html)
+ > 品效合一就是要求消费者立马行动起来，看到消息后立马做出反馈。广告界有一句堪称经典的名言：“我明知道我的广告费有一半是浪费了，但是我从来不知道浪费的是哪一半...
+ ## [如何对开发团队的人员进行绩效管理？](http://www.woshipm.com/zhichang/2963620.html)
+ > 提到绩效管理，很多人可能会想到 OKR、KPI、360考核等等，但是绩效管理和绩效考核是一回事吗？OKR 真的适合用来做绩效考核吗？又应该如何对开发团队的人员进行绩效管理...
+ ## [在热搜榜看愤怒，看名利场](http://www.woshipm.com/it/2964649.html)
+ > 热搜榜成为某种流行和仪式后，开始变得畸形起来，一些追星粉丝会问，“周杰伦微博数据那么差，为什么演唱会门票还难买啊”？作者：思想漪来源：刺猬公社（ID：ciweigon...
+ ## [如何设计更可信的评价体系？](http://www.woshipm.com/pd/2964247.html)
+ > 其他用户的评价是选择一样东西时的重要参考，但是在利益的驱使下，众多无意义的评价出现。为了真正实现评价的作用，评价体系的设计就显得尤为重要。评价体系已然作为...
+ ## [“银发经济”拓荒者：我太难了](http://www.woshipm.com/it/2964472.html)
+ > 与让无数商业大佬、投资人、创业者纷纷高呼看不懂摸不透的95后、00后相比，老年人的世界其实更好理解，只不过掘金者们需要真正沉下心来去理解和感受。由她（他）经济...
+ ## [为什么花了这么多钱，年轻人还是不买账？](http://www.woshipm.com/user-research/2963150.html)
+ > 年轻的外表可以轻易打造，但年轻的内心，却要靠不断的求索、试探和沟通。而在一次次求索中，年轻人的面貌逐渐清晰，品牌的灵魂，也将越发生动。如今，年轻群体的消费...
+ ## [产品分析：Moo音乐，腾讯音娱的新武器？](http://www.woshipm.com/data-analysis/2942128.html)
+ > Moo音乐有什么过人之处可以获得如此不错的口碑？已经用QQ音乐、酷狗音乐、酷我音乐三巨头霸占在线音乐领域大半壁江山的腾讯，为何要费劲推出一个“潮流音乐app”Moo音乐呢...
+ ## [别人家的SaaS为啥就是好用——权限体系设计实战分析](http://www.chanpin100.com/article/109734)
+ > 本文主要介绍B端产品中权限体系的两种设计模式，并赋予实际案例展示供大家参考理解。
+ ## [数据分析的流程有那些？](http://www.chanpin100.com/article/109735)
+ > 想学习数据分析，先学习数据分析流程
+ ## [QQ邮箱的智能提示：你可能忘记了添加附件](http://www.chanpin100.com/article/109728)
+ > 作者：杜昭  公众号：设计的威严
+ ## [案例：知乎中“超级优秀”的问题反馈功能](http://www.chanpin100.com/article/109727)
+ > 作者：杜昭     公众号：设计的威严
+ ## [案例：在这个特殊时刻，用户会很容易答应你的请求](http://www.chanpin100.com/article/109722)
+ > 作者：杜昭     公众号：设计的威严
 
     
