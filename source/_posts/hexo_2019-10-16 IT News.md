@@ -1,21 +1,21 @@
 ---
 title: 2019-10-16 IT News
 copyright: true
-date: 2019-10-16 08:00:58
+date: 2019-10-16 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [直播预告|2019英特尔人工智能与物联网生态合作伙伴峰会正式开启!](http://mp.weixin.qq.com/s?src=11&timestamp=1571184004&ver=1915&signature=48EQgsgBBG*A9OYkUfUbxINsXFMFt9ArM1q4lVfiX60pQbssBQBtal7rO4VcIjn2yfoFr*Eh6CQmGx7YVBXhZiueTNGf46Wxvn5Du3qodqYjZgDedNIKS8inmb-GPJ1B&new=1)
- > 导读：2019年中国物联网行业市场规模将超1.5万亿元人民币，在万物互联的大趋势下，传统行业与物联网行业被拉入同一个产业链，并产生了一系列重大技术变革！英特尔人工智能与物联网生态合作伙伴峰会作为全球物联...
- ## [助力制造业转型升级，IBM与佛山市有着怎样的心得体会?](http://mp.weixin.qq.com/s?src=11&timestamp=1571184004&ver=1915&signature=Clf3Od79A0Grx8wpb4LMlC4xxRGpenGfIqrwAiHY4WN9s*cJ9SAGU3FCmvroWTuRBjtrNMnEHWBe6-2RqdcHT1nvl6hiBfvewnG5JSme2VzznXe1ov12V6iUQ6cOy2Y9&new=1)
- > 近年来随着云计算、大数据、人工智能、物联网等新兴技术的快速发展，中国各行各业的转型升级也迈入了一个全新的时期，其中尤以制造业为甚。众所周知，中国是举世瞩目的制造业大国。来自世界银行的数据显示，自从...
- ## [软件正在重塑汽车 新旧势力争做“颠覆者”](http://mp.weixin.qq.com/s?src=11&timestamp=1571184004&ver=1915&signature=Va6WDHUJVtrle9Zy*WEMD4EiGWL*ubf6TYnk41QVPo0TfMTvE3MaSywBFt4E*hI8mOUZeMNnFbUJ9fiItr-KJtiNnQvtC*tSkb0aweMZgSJtV7RbgIvbRY-yzro4*32c&new=1)
- > 关键行业资讯，第一时间送达！————————　　“新四化”浪潮之下，汽车与交通、高科技、电商、互联网等行业的边界正逐渐模糊。工业时代形成的百年游戏规则开始被打破，尤其智联网汽车赛场，涌入不少新玩家...
- ## [直击MBBF|华为副董事长胡厚崑：5G商用网络已达40个，还需转变思维，克服三大挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1571184004&ver=1915&signature=1HunriU0Uhfyx5d8HFKSwK94krWo3sa0X*q7bEwC4-8jjtIMTNXJMtrhFBk7kbpHQzgcjadqNThEUHxuMLgsATLvUaopIzxq3aMfKWxZRqvmucEtcYBZr2setgYkuUK8&new=1)
- > 10月15日，第十届全球移动宽带论坛在瑞士苏黎世召开。华为副董事长胡厚崑就“5G加速前行”进行了主题发言。他分享了当前全球5G商用进展以及对消费者和行业带来的价值，并强调政府和移动产业都需要转变思维模式，...
- ## [Uber宣布继续裁员约350人丨爱立信收购凯士林移动通信\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1571184004&ver=1915&signature=Go3YatZcgTxD0mBeMS6iUjbAM22rmlVYaRdVPaAkPFhl0Y7XW95gvqsIMKEfbC-*-aAn7zSzWsTDfqnWnxT7RkGoswk1dU1XaI-pD0mAbNq1AcDzu0OfAxE9lAPyE0A0&new=1)
+ ## [Uber宣布继续裁员约350人丨爱立信收购凯士林移动通信\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1571187604&ver=1915&signature=Go3YatZcgTxD0mBeMS6iUjbAM22rmlVYaRdVPaAkPFhl0Y7XW95gvqsIMKEfbC-*VMztyA0bN0XiCNA7sSiFbdexrCWEuzn1T7dWgUeftHLzjlwQK4GkBJTfGiR-ffV3&new=1)
  > 10月15日丨周二【Do说】编辑 | 赵艾虎Uber宣布继续裁员约350人 包括自动驾驶与Uber Eats据TechCrunch消息，Uber CEO Dara Khosrowshahi公司内部信中表示，宣布将裁员350人的计划，其中包括
+ ## [直击MBBF|华为副董事长胡厚崑：5G商用网络已达40个，还需转变思维，克服三大挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1571187604&ver=1915&signature=1HunriU0Uhfyx5d8HFKSwK94krWo3sa0X*q7bEwC4-8jjtIMTNXJMtrhFBk7kbpHZ*fIZ82QPgwCtJt0WV25PB-7XqO5KNrsUYy73INtljegKJ5Yw51sSMxoOAuSDFZt&new=1)
+ > 10月15日，第十届全球移动宽带论坛在瑞士苏黎世召开。华为副董事长胡厚崑就“5G加速前行”进行了主题发言。他分享了当前全球5G商用进展以及对消费者和行业带来的价值，并强调政府和移动产业都需要转变思维模式，...
+ ## [软件正在重塑汽车 新旧势力争做“颠覆者”](http://mp.weixin.qq.com/s?src=11&timestamp=1571187604&ver=1915&signature=Va6WDHUJVtrle9Zy*WEMD4EiGWL*ubf6TYnk41QVPo0TfMTvE3MaSywBFt4E*hI8ycSxe-tsY1zq-cmZqTRFWxbKyeeen8Lt-H0Pvj*OTB*5AOqsu8o88-UcaNMU-Kpm&new=1)
+ > 关键行业资讯，第一时间送达！————————　　“新四化”浪潮之下，汽车与交通、高科技、电商、互联网等行业的边界正逐渐模糊。工业时代形成的百年游戏规则开始被打破，尤其智联网汽车赛场，涌入不少新玩家...
+ ## [直播预告|2019英特尔人工智能与物联网生态合作伙伴峰会正式开启!](http://mp.weixin.qq.com/s?src=11&timestamp=1571187604&ver=1915&signature=48EQgsgBBG*A9OYkUfUbxINsXFMFt9ArM1q4lVfiX60pQbssBQBtal7rO4VcIjn2CO-ecKsYPXWqLAeBpprt6g0podqRTs1TzzM-UAi-kisnX6KM*dHv0aOJ7ENDGMwM&new=1)
+ > 导读：2019年中国物联网行业市场规模将超1.5万亿元人民币，在万物互联的大趋势下，传统行业与物联网行业被拉入同一个产业链，并产生了一系列重大技术变革！英特尔人工智能与物联网生态合作伙伴峰会作为全球物联...
+ ## [助力制造业转型升级，IBM与佛山市有着怎样的心得体会?](http://mp.weixin.qq.com/s?src=11&timestamp=1571187604&ver=1915&signature=Clf3Od79A0Grx8wpb4LMlC4xxRGpenGfIqrwAiHY4WN9s*cJ9SAGU3FCmvroWTuRw30HqR-LHHu*17p4seIAaMrCI-z3XMUuLOEjrPggXMU7-ncEbnym512y5TIhyOxZ&new=1)
+ > 近年来随着云计算、大数据、人工智能、物联网等新兴技术的快速发展，中国各行各业的转型升级也迈入了一个全新的时期，其中尤以制造业为甚。众所周知，中国是举世瞩目的制造业大国。来自世界银行的数据显示，自从...
 # IT 技术 
  ## [值得借鉴!网管员的10个好习惯](http://network.51cto.com/art/201910/604329.htm)
  > 值得借鉴!网管员的10个好习惯
@@ -41,36 +41,36 @@ categories: IT NEWS
  > VPN(Virtual Private Network)即虚拟专用网络，是指利用公共网络主要使用Internet建立私有专用网络从而传输
  ## [CPU怎么保证内存访问冲突？一致性？](http://stor.51cto.com/art/201910/604330.htm)
  > 内存一致性模型(memory consistency model)就是用来描述多线程对共享存储器的访问行为，在不同的内存一致性
- ## [使用蓝图构建Flask项目目录](https://blog.csdn.net/devcloud/article/details/102548744)
- > 使用蓝图构建Flask项目目录
  ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
+ > 
+ ## [MyCat教程【简单介绍】](https://blog.csdn.net/qq_38526573/article/details/102562219)
  > 
  ## [一些实用的GitHub项目](https://blog.csdn.net/qq_36772866/article/details/102384240)
  > 一些实用的GitHub项目
- ## [springboot笔记1——spring相关入门](https://blog.csdn.net/hebtu666/article/details/102555534)
- > springboot笔记1——spring相关入门
- ## [【Linux系统编程】线程的基本操作](https://blog.csdn.net/dengjin20104042056/article/details/52156584)
- > 【Linux系统编程】线程的基本操作
- ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
+ ## [新手程序员成长之路的五本必读书籍（附资源下载）](https://blog.csdn.net/duxinshuxiaobian/article/details/102386988)
+ > 新手程序员成长之路的五本必读书籍（附资源下载）
+ ## [生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...](https://blog.csdn.net/kexuanxiu1163/article/details/102385463)
+ > 生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...
+ ## [记录一次九月份腾讯 Android 面试笔试总结（面试题详细答案解析）](https://blog.csdn.net/weixin_44339238/article/details/102553195)
  > 
- ## [惊！Python能够检测动态的物体颜色！](https://blog.csdn.net/csdnnews/article/details/102559469)
- > 惊！Python能够检测动态的物体颜色！
- ## [Java 2019 生态圈使用报告，这结果你赞同吗？](https://blog.csdn.net/z694644032/article/details/102545461)
- > Java 2019 生态圈使用报告，这结果你赞同吗？
- ## [git 基本配置和使用](https://blog.csdn.net/qq_41485414/article/details/102480640)
- > 
- ## [TensorFlow2.0 学习笔记（二）：多层感知机（MLP）](https://blog.csdn.net/TeFuirnever/article/details/102530785)
- > 
- ## [30秒内便能学会的30个超实用Python代码片段](https://blog.csdn.net/duxinshuxiaobian/article/details/102480959)
- > 30秒内便能学会的30个超实用Python代码片段
  ## [SQL 性能优化梳理](https://blog.csdn.net/weixin_38405253/article/details/102455552)
  > SQL 性能优化梳理
- ## [计算机大数乘法引发的思考](https://blog.csdn.net/dog250/article/details/102520390)
- > 
  ## [58道JavaScript题，看看你能全对不？](https://blog.csdn.net/liuyan19891230/article/details/102385743)
  > 58道JavaScript题，看看你能全对不？
- ## [3分钟内实现人脸检测](https://blog.csdn.net/fendouaini/article/details/102454320)
- > 3分钟内实现人脸检测
+ ## [物联网火爆，开发者却遇到这个大难题！](https://blog.csdn.net/csdnnews/article/details/102559468)
+ > 物联网火爆，开发者却遇到这个大难题！
+ ## [十大优秀编程项目，让你的简历金光闪闪](https://blog.csdn.net/duxinshuxiaobian/article/details/102218308)
+ > 
+ ## [成长的第一步是走出舒适区](https://blog.csdn.net/a724888/article/details/102548517)
+ > 成长的第一步是走出舒适区
+ ## [Python GUI入门(27)-Themed widget](https://blog.csdn.net/craftsman1970/article/details/102555564)
+ > Python GUI入门(27)-Themed widget
+ ## [可视化越做越丑？这五个高级图表效果能瞬间抬升你的逼格](https://blog.csdn.net/yuanziok/article/details/102542342)
+ > 
+ ## [Java8 Lambda表达式详解手册及实例](https://blog.csdn.net/wo541075754/article/details/102530810)
+ > 
+ ## [当程序员这么多年，我学到了25条人生经验](https://blog.csdn.net/Ed7zgeE9X/article/details/102380960)
+ > 当程序员这么多年，我学到了25条人生经验
  ## [网红“AI大佬”被爆论文剽窃，Jeff Dean都看不下去了](https://blog.csdn.net/csdnnews/article/details/102560851)
  > 作者 | 夕颜、Just出品 | AI科技大本营（ID：rgznai100）近日，推特上一篇揭露 YouTube 网红老师 Siraj Raval 新发表论文涉抄袭其他学者的帖子引起了讨论。揭露者是曼彻斯特大学计算机科学系研究员 Andrew M. Webb，他在 Twitter 上详细列举了...
 # 人工智能 
@@ -105,6 +105,14 @@ categories: IT NEWS
  ## [飞Young任意路由器连接\[破解路由器限制\]](https://blog.csdn.net/Nocker888/article/details/88120469)
  > 飞Young任意路由器连接\[破解路由器限制\]
 # PM 
+ ## [转行AI产品经理，第三步怎么走](http://www.woshipm.com/pmd/2977415.html)
+ > 前面两章内容分别从如何选工作城市、选公司、选行业、选领域。改变关系网，开始进入这个行业。算是迈开了转行的第一条腿，今天聊聊第二条腿该怎么迈。转行到AI产品经...
+ ## [从0到1构建电商平台之订单系统（2）：支付订单](http://www.woshipm.com/pd/2972697.html)
+ > 上一篇笔者为大家介绍了订单系统中关于提交订单操作相关的问题：《从0到1构建电商平台之订单系统(1)：提交订单》，提交订单之后，接下来要做的是“支付订单”。电商平台...
+ ## [译文 | 设计思维过程的5个阶段](http://www.woshipm.com/pd/2973266.html)
+ > 文章详细介绍了斯坦福大学Hasso-Plattner设计学院(d.school)提出的五阶段设计思维模型，并对它进行了梳理和分析，与大家分享。设计思维是一种设计方法，它为解决问题...
+ ## [线下课程 | 注册转化率总提不上去？这样做规划迭代产品，转化率最高提升70%！](http://www.woshipm.com/active/2958096.html)
+ > 01产品设计及规划迭代的中心法则，就像张小龙说的“微信在与时俱进”一样，每一款产品的设计及迭代，都会遵循时间所带来的变化，而进行产品调整与更新。一款产品要具有...
  ## [议程公布 | 2019产品经理大会，腾讯/阿里/亚马逊/惠普/网易16位经理人，解读产品经理能力变革](http://www.woshipm.com/active/2977381.html)
  > 上海互联网业，一直是为人津津乐道的话题。有一段时间，“上海错失互联网机遇”“上海为什么没有BAT”等声音，曾一度喧嚣尘上。而全球首个华为5G创新中心、阿里云计算、中...
  ## [一篇文章读懂交互设计7大定律（下）](http://www.chanpin100.com/article/109760)
