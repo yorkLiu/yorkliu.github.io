@@ -1,7 +1,7 @@
 ---
 title: 2019-10-17 IT News
 copyright: true
-date: 2019-10-17 09:00:59
+date: 2019-10-17 10:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,15 +69,25 @@ CRO &#20844;&#21496;&#8220;&#32532;&#33033;&#29983;&#29289;&#8221;&#23436;&#2510
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [无惧压力，华为手机出货量逆势加速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1571274004&ver=1917&signature=jAAX9z68F2hYthy2KLTf6TKGyh7uI4JF6rNRO0UyMDZZPbD09L6xbqSMnxFg8F-2UeQzsBe32jHCz1Mx6lERET-bYw*vOJCwrY78BoNzvn7eCdOW8oC7oPXhliREhvNT&new=1)
- > 华为公布前三季度业绩显示，手机发货量达到1.85亿台，同比增长26%，它并没有直接公布三季度的数据，不过如果与市调机构给出的数据就可以推算得出三季度的出货量同比增速达到28.8%，较二季度的出货量同比增速大幅...
- ## [SpaceX计划再发射3万颗卫星丨网易有道更新招股书\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1571274004&ver=1917&signature=CFup3DaWwjHY-YIq5EXy93Pt7qwhzBuKuHRmwn9QzuGuiQfNzgePxef-RfSJc4jenRanOWs2FhNqLMmr-QvJy*BEpviN341qheon5k4VQwRXxWuw-Vc3vcDzmKcbZaeQ&new=1)
- > 10月16日丨周三【Do说】编辑 | 赵艾虎SpaceX计划再发射3万颗卫星，建设全球卫星互联网美国联邦通信委员会(FCC)已经代表SpaceX，向国际电信联盟(ITU)提交了20份文件，涉及3万颗在低地球轨道运行的小型卫星。ITU太...
- ## [信人还是信机器?调查显示中国88%员工信任机器人超过经理](http://mp.weixin.qq.com/s?src=11&timestamp=1571274004&ver=1917&signature=GNcGOcMTpAm0G16mt90T3iUeflBNfCFCc26mU3lAbDFbZbH-dbVqlMY4vlUGrAarxZiTmjcGgJrbl1G-J0djOVreKx3rXAn14QrAXEXkyKRgv2WDECVPXjbEmzdsYiws&new=1)
- > 这一调查结果基于来自10个国家的8300多名工人的答复，反映了人工智能在工作场所的应用日益增多。近日，根据美国甲骨文公司和研究机构Future Workplace联合发布的一份研究报告（点击文末阅读原文获取报告），人类...
- ## [加速5G商业成功，华为5G设备全球发货超40万](http://mp.weixin.qq.com/s?src=11&timestamp=1571274004&ver=1917&signature=hOJlWxNLPxeLEyoHalfAvV-L2zPihgMrVNh1Wa9psEGjS0-*4NqZoYAxQ43Nrc5rdncTOAgpOZlEKp96QdzV4rYJDTCLsRkCqHTd1qp8OMtRWVgOpkTJJZMRcfrSiKTD&new=1)
+ ## [\[科技早报7点整\]小学生称用照片能开丰巢快递柜 任正非表示外籍人员满足条件可当华为CEO……](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=IS4RqX-55ao2UBEOd4IfhtT9jdgv6yxzutt7I864Xf0Tk0JheFp19B1r7d933Qrh-p1hNgjH9WgjCFy2riZBmheBzui3k6TeAilLaYv5hHUY9pVyWsAFjMdz8fBXsxiI&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第615期1.小学生称用照片能开快递柜，丰巢紧急下线刷脸开锁功能近日，杭州小学生实验发现丰巢快递柜大bug，用照片就能替代刷脸取件，不少市民表示太不安全。随后，丰巢工作人员...
+ ## [加速5G商业成功，华为5G设备全球发货超40万](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=hOJlWxNLPxeLEyoHalfAvV-L2zPihgMrVNh1Wa9psEGjS0-*4NqZoYAxQ43Nrc5ryIEkct4RDF6-WlS63Fgse-cuMwDOhXdBYVL7DX1PMm6tWA8TZ9JSNcITiX71aIcV&new=1)
  > 【瑞士，苏黎世，2019年10月16日】2019全球移动宽带论坛（Global MBB Forum）期间，华为常务董事、运营商BG总裁丁耘指出：个人、家庭和垂直行业对5G的需求真实而迫切，5G已在全球规模部署。运营商可加速发展当期...
+ ## [设备商|华为公司2019年三季度经营业绩发布](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=2HIL4F1Y8LdVBYBSmJ5bmE3-TvzAq-ico1*7k8r3WujRh2LjVfMdetL8Dg7h8J-Sb8UvhIF4gEQvnPwJC7zC3tr0zm5qH-5*EE9TGfcy9ty48xV3X44UNM2PUmbNMFya&new=1)
+ > 导读     华为今日发布2019年三季度经营业绩。截至2019年第三季度，公司实现销售收入6,108亿人民币，同比增长24.4%;净利润率8.7%。    ICCSZ讯 华为今日发布2019年三季度经营业绩。截至2019年第三季度，公司实
+ ## [7点见|华为首次对外出售4G通信芯片；贾跃亭破产前月入9万美元；湖州市停止与蔚来洽谈投资](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=9WtJ4mG46Mk*07*6QiP5lvbIzLjz7phb6VdZONSZ7a8thFWTs9I77A2HC11Er0MIlgNv8KuByiHP2sYCKsHuxPhvxC2V6cyFvCcjdEBiyHwZCmVTaSYlBkfIhkK81Vh6&new=1)
+ > 各位小伙伴们，早上好呀！想问一下小伙伴们秋冬最爱吃的食物都是什么呀？和小七分享一下吧~接下来是早报时间！华为海思首次对外出售4G通信芯片：内部已考虑出售麒麟系列近日，华为旗下芯片公司上海海思技术有限...
+ ## [外媒纷纷关注华为三季度“成绩单”](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=Z1p21cxReutFXhdOUpeKBYOtRNXAQ2xeZTJYv4fEMp32W23grjyxt6NAygiix71lj0qlYGIsdr1qO7nC-MaPiCqZ2rg0vrLi3dTuHyEOGKM=&new=1)
+ > 参考消息网10月17日报道 10月16日，华为对外发布了2019年三季度经营业绩。截至2019年第三季度，华为实现销售收入6108亿人民币，同比增长24.4%；净利润率8.7%。消息一出，引来各家外国媒体的关注。路透社、美国《...
+ ## [无惧压力，华为手机出货量逆势加速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=jAAX9z68F2hYthy2KLTf6TKGyh7uI4JF6rNRO0UyMDZZPbD09L6xbqSMnxFg8F-2SJUHyQlQljV62GTuDujJCqMQdrIJUMGspN94m41dHYRRjlYCs5mQ--ulwi1SC8PQ&new=1)
+ > 华为公布前三季度业绩显示，手机发货量达到1.85亿台，同比增长26%，它并没有直接公布三季度的数据，不过如果与市调机构给出的数据就可以推算得出三季度的出货量同比增速达到28.8%，较二季度的出货量同比增速大幅...
+ ## [SpaceX计划再发射3万颗卫星丨网易有道更新招股书\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=CFup3DaWwjHY-YIq5EXy93Pt7qwhzBuKuHRmwn9QzuGuiQfNzgePxef-RfSJc4jeTpAOJiZfSB0UrEYfGG4Xoa*C-cpkLzKa5R5IGm6wmwdPe7D6guMh7g*N1Y41ITzb&new=1)
+ > 10月16日丨周三【Do说】编辑 | 赵艾虎SpaceX计划再发射3万颗卫星，建设全球卫星互联网美国联邦通信委员会(FCC)已经代表SpaceX，向国际电信联盟(ITU)提交了20份文件，涉及3万颗在低地球轨道运行的小型卫星。ITU太...
+ ## [信人还是信机器?调查显示中国88%员工信任机器人超过经理](http://mp.weixin.qq.com/s?src=11&timestamp=1571277605&ver=1917&signature=GNcGOcMTpAm0G16mt90T3iUeflBNfCFCc26mU3lAbDFbZbH-dbVqlMY4vlUGrAarGrILiTY1wF8oubSUYMMtXeWrXra*qhYW2N28tIglfI48RrTBLAT1J5bNaHWuqJsR&new=1)
+ > 这一调查结果基于来自10个国家的8300多名工人的答复，反映了人工智能在工作场所的应用日益增多。近日，根据美国甲骨文公司和研究机构Future Workplace联合发布的一份研究报告（点击文末阅读原文获取报告），人类...
 # IT 技术 
+ ## [大牛总结的MySQL锁优化，写得太好了！](http://database.51cto.com/art/201910/604421.htm)
+ > 大牛总结的MySQL锁优化，写得太好了！
  ## [开发人员的困境：选择Go还是Rust？](http://developer.51cto.com/art/201910/604391.htm)
  > 开发人员的困境：选择Go还是Rust？
  ## [4 分钟！OpenAI 的机器手学会单手解魔方了，完全自学无需编程](http://news.51cto.com/art/201910/604359.htm)
@@ -92,57 +102,130 @@ CRO &#20844;&#21496;&#8220;&#32532;&#33033;&#29983;&#29289;&#8221;&#23436;&#2510
  > 工作强度超996，失业半年即出局，硅谷为何如此“嗜血”？
  ## [值得借鉴!网管员的10个好习惯](http://network.51cto.com/art/201910/604329.htm)
  > 值得借鉴!网管员的10个好习惯
- ## [在加密货币交易当中，区块链去中心化工具是如何工作的？](http://blockchain.51cto.com/art/201910/604341.htm)
- > 在加密货币交易当中，区块链去中心化工具是如何工作的？
- ## [AI艺术日渐繁荣，未来何去何从？](http://ai.51cto.com/art/201910/604403.htm)
- > 利用人工智能创作而成的画作近年来越来越受瞩目，有的作品甚至能在知名拍卖行拍得高价。但这类作品仍有不少
- ## [九个对Web开发者最有用的Python包，掌握这些，工资至少能涨涨](http://developer.51cto.com/art/201910/604401.htm)
- > Matplotlib，正如其名称所暗示的那样，是一个用来绘制数学函数和模型的库;扩展了Numpy的作用，Matplotlib可
- ## [如何在Windows 10上修复错误0x80246019](http://os.51cto.com/art/201910/604402.htm)
- > 最近，用户抱怨他们无法从Microsoft Store下载应用程序和游戏。 它会下载应用程序，但在安装它们时会引发错
- ## [一文详解被阿里腾讯视作核心机密的大数据平台架构](http://bigdata.51cto.com/art/201910/604400.htm)
- > 提到大数据分析平台，不得不说Hadoop系统，Hadoop到现在也超过10年的历史了，很多东西发生了变化，版本也从
+ ## [如何使Pandas来加速你的代码？](http://developer.51cto.com/art/201910/604424.htm)
+ > Pandas是为一次性处理整个行或列的矢量化操作而设计的―循环遍历每个单元格、行或列并不是这个库的设计用途
+ ## [只因写了一段爬虫，公司200多人被抓！](http://news.51cto.com/art/201910/604423.htm)
+ > 刚从朋友听到这个消息的时候，我有点不太相信，做为一名程序员来讲，谁还没有写过几段爬虫呢？只因写爬虫程
+ ## [如何将照片从SD卡导入Windows 10 PC](http://os.51cto.com/art/201910/604420.htm)
+ > 从数字卡导入图片使您可以轻松地与朋友或同事共享它们。 但是，如果您不知道转移过程，就会发现麻烦。 这是
+ ## [量子力学的核心：薛定谔方程，究竟神奇在哪里？](http://news.51cto.com/art/201910/604422.htm)
+ > 当人们开始从极小的尺度去思考这个世界时，比如：电子绕着原子核旋转，他们意识到一切变得非常奇怪，牛顿定
+ ## [使用Spark Streaming SQL进行PV/UV统计](http://bigdata.51cto.com/art/201910/604417.htm)
+ > 使用Spark Streaming SQL，并结合Redis可以很方便进行PV/UV的统计。本文将介绍通过Streaming SQL消费Loghub
+ ## [还用不靠谱的Ghost？一款真正良心的装系统神器](http://news.51cto.com/art/201910/604419.htm)
+ > 很多朋友仍使用Ghost装系统，但其实Ghost非常不靠谱――你永远也不知道Ghost里面封装了什么乱七八糟的玩意
+ ## [大数据时代下如何打造“智慧交通”](http://bigdata.51cto.com/art/201910/604414.htm)
+ > 当今时代，数据已经渗透到每一个行业和业务职能领域，对于海量数据的挖掘和运用，因为近年来，互联网和信息
+ ## [拜拜 HTTP，哈喽 Reactive：解决云端的大问题](http://news.51cto.com/art/201910/604415.htm)
+ > 如果你认可开发人员置身于云原生微服务世界这个前提，你就明白大多数应用程序是分布式、有弹性的。计算分布
+ ## [开源硬件是未来趋势，Arm 却走了一条与众不同的路](http://news.51cto.com/art/201910/604412.htm)
+ > “开源”一词所代表的不仅仅是技术人员的情怀，它还传达了诸如研究知识共享和社区建设之类的观点。
+ ## [TCP/IP、UDP、HTTP、MQTT、CoAP这五种物联网协议](http://network.51cto.com/art/201910/604411.htm)
+ > 对于软件公司来说，IoT 模式为其硬件设计以及所提供的服务带来决定性的改变。其中影响最大的一个方面是通信
  ## [@程序员：Python 3.8正式发布，重要新功能都在这里](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/102578178)
  > 
  ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
  > 500行代码，教你用python写个微信飞机大战
- ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
- > 
- ## [哨兵 (sentinal) 机制的工作原理](https://blog.csdn.net/universsky2015/article/details/102590330)
- > 哨兵 (sentinal) 机制的工作原理
- ## [springboot2——MyBatis入门](https://blog.csdn.net/hebtu666/article/details/102593083)
- > springboot2——MyBatis入门
  ## [Python实现天气查询功能（外加Excel技巧）](https://blog.csdn.net/ZackSock/article/details/102580920)
  > Python实现天气查询功能（外加Excel技巧）
- ## [一些实用的GitHub项目](https://blog.csdn.net/qq_36772866/article/details/102384240)
- > 一些实用的GitHub项目
- ## [TensorFlow2.0 学习笔记（一）：TensorFlow 2.0 的安装和环境配置以及上手初体验](https://blog.csdn.net/TeFuirnever/article/details/102513712)
+ ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
  > 
  ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
  > 
- ## [Python+OpenCV使用摄像头追踪人脸面部血液变化实现脉搏评估](https://blog.csdn.net/m0_38106923/article/details/102586996)
- > Python+OpenCV使用摄像头追踪人脸面部血液变化实现脉搏评估
- ## [Python搭建代理IP池（一）- 获取 IP](https://blog.csdn.net/weixin_44613063/article/details/102538757)
+ ## [哨兵 (sentinal) 机制的工作原理](https://blog.csdn.net/universsky2015/article/details/102590330)
  > 
  ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
  > 
- ## [深入理解C语言指针](https://blog.csdn.net/ZackSock/article/details/101594794)
- > 
- ## [动画：用动画给面试官解释 TCP 三次握手过程](https://blog.csdn.net/qq_36903042/article/details/102513465)
+ ## [一些实用的GitHub项目](https://blog.csdn.net/qq_36772866/article/details/102384240)
+ > 一些实用的GitHub项目
+ ## [金九银十收获阿里腾讯实习offer，学习、面试经验分享](https://blog.csdn.net/weixin_44339238/article/details/102575524)
+ > 金九银十收获阿里腾讯实习offer，学习、面试经验分享
+ ## [超越Excel，这才是报表的正确打开方式，可惜90%的人都没用过](https://blog.csdn.net/yuanziok/article/details/102580303)
  > 
  ## [新手程序员成长之路的五本必读书籍（附资源下载）](https://blog.csdn.net/duxinshuxiaobian/article/details/102386988)
  > 新手程序员成长之路的五本必读书籍（附资源下载）
+ ## [生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...](https://blog.csdn.net/kexuanxiu1163/article/details/102385463)
+ > 生猛！看 AV 神器来了！实时把画质变成 4k 高清，延时仅3毫秒，登上GitHub 趋势榜！...
+ ## [使用React构建简单项目步骤(Mac 环境)](https://blog.csdn.net/zhanglong_4444/article/details/102579142)
+ > 
+ ## [前端开发大师修炼指南](https://blog.csdn.net/csdnnews/article/details/102577861)
+ > 前端开发大师修炼指南
+ ## [美团面试小感——认知撑起的格局](https://blog.csdn.net/wo541075754/article/details/102581552)
+ > 
+ ## [国际顶级学界和工业界大咖云集、AIoT 实训营，你不可错过的嵌入式 AI 盛会！...](https://blog.csdn.net/csdnnews/article/details/102597652)
+ > 随着物联网和人工智能技术的飞速发展与相互渗透，万物智联的新赛道已经开始显现。据中商产业研究院《2016—2021年中国物联网产业市场研究报告》显示，预计到2020年，中国...
+ ## [2019 年度最佳开源软件出炉，TensorFlow 上榜！](https://blog.csdn.net/csdnnews/article/details/102597663)
+ > 如今，开源渗透到了互联网行业的方方面面，软件开发、云计算、分析、机器学习以及几乎所有新兴领域中最重要的软件都拥有开源身份。基于此，InfoWorld每年都会举行年度最佳开源大奖赛，选出最有趣以及最具创新的开源项目！今年获奖的开源项目都有哪些呢？一起来看一下。作者 |InfoWorld...
  ## [如何在 Python 数据中灵活运用 Pandas 索引？](https://blog.csdn.net/csdnnews/article/details/102597664)
  > 作者 | 周志鹏责编 | 刘静据不靠谱的数据来源统计，学习了Pandas的同学，有超过60%仍然投向了Excel的怀抱，之所以做此下策，多半是因为刚开始用Python处理...
+ ## [巨头垂涎却不能染指，loT 数据库风口已至](https://blog.csdn.net/csdnnews/article/details/102597659)
+ > 作者 | 马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）随着移动端发展走向饱和，现在整个IT行业都期待着“万物互联”的物联网时代所带来的流量红利，前期笔者也曾经撰文介绍国产物联网操作系统的情况（https://blog.csdn.net/BEYONDMA/articl...
+ ## [展望2025多媒体技术与应用趋势](https://blog.csdn.net/csdnnews/article/details/102597660)
+ > 就像6年前，我们预测4G将有哪些杀手级应用一样，本文尝试预测6年后的2025年，在5G甚至是6G下，多媒体技术和应用有哪些颠覆性的改变。本文来自音视频技术社区LiveVi...
+ ## [如何成为一名优秀的初级开发者？](https://blog.csdn.net/csdnnews/article/details/102597662)
+ > “如果你无所作为，那么拥有再多资历也毫无意义。”对于初级开发来说，哪些是必须知道的道理呢？作者 |Ravi Shankar Rajan译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：明年将是我从事编程职业的第15年。我的天，不知不觉已...
+ ## [马云获福布斯终身成就奖；华为推出首款 4G 芯片 Balong 711；PyPy 7.2 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/102597653)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们...
+ ## [行！人工智能玩大了！程序员：太扯，阴谋！你怎么看？](https://blog.csdn.net/csdnnews/article/details/102597655)
+ > 人工智能真的玩大了吗？人工智能行业的人才真的“爆发了？”AI程序员究竟怎么样？A与B薪酬与前景程序员与远方2017年~2018年，是人工智能大火的时候。你会发现，跟朋友...
+ ## [@程序员，物联网发展的三大技术方向](https://blog.csdn.net/csdnnews/article/details/102597657)
+ > 本文整理自《The Future of IOT: 4 Predictions about the Internet of Things》自1999年，自从Kevin As...
+ ## [谁来结束 GUI 程序？| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/102597658)
+ > 作者| dog250责编 | 屠敏出品 | CSDN博客在之前使用Windows XP的时候，都会有这样的经历，即打开一大堆的窗口，在任务栏排的满满的，同样程序的不同程序还可以分组，看似很有条理的样子…不光Windows，Linux桌面、MacOS竟然也学着Windows的样子，也...
+# 人工智能 
+ ## [Java集合](https://blog.csdn.net/lianghecai52171314/article/details/102545796)
+ > Java集合
+ ## [Java8 Lambda表达式详解手册及实例](https://blog.csdn.net/wo541075754/article/details/102530810)
+ > 
+ ## [多线程之死锁详解](https://blog.csdn.net/qq_14996421/article/details/102531725)
+ > 多线程之死锁详解
+ ## [验证码](https://blog.csdn.net/qq_30920479/article/details/102565874)
+ > 验证码
+ ## [springBoot+jpa+jta+atpmikos十分钟实现分布式事务,模拟多数据源](https://blog.csdn.net/qq_33449307/article/details/102550878)
+ > springBoot+jpa+jta+atpmikos十分钟实现分布式事务,模拟多数据源
+ ## [SpringBoot-定时任务](https://blog.csdn.net/qiangzi1103/article/details/102538272)
+ > SpringBoot-定时任务
+ ## [深入理解 Java 虚拟机（四）~ 各种容易混淆的常量池](https://blog.csdn.net/johnny901114/article/details/102537682)
+ > 
+ ## [Java练习题4](https://blog.csdn.net/weixin_40612082/article/details/102549362)
+ > Java练习题4
+ ## [“==” “equals()” “hashCode()” 傻傻分不清](https://blog.csdn.net/ityard/article/details/102526761)
+ > “==” “equals()” “hashCode()” 傻傻分不清
+ ## [HashMap源码解读（jdk1.8）](https://blog.csdn.net/u012211603/article/details/79879944)
+ > HashMap源码解读（jdk1.8）
+ ## [设计模式-----简单工厂设计模式](https://blog.csdn.net/lianghecai52171314/article/details/102560133)
+ > 设计模式-----简单工厂设计模式
+ ## [并发实践-实现生产者消费者的三种方式](https://blog.csdn.net/ThinkWon/article/details/102557126)
+ > 
+ ## [Java基础Day05](https://blog.csdn.net/Riven_x/article/details/102575069)
+ > Java基础Day05
+ ## [12   Java语言学习基础——猜字符小游戏](https://blog.csdn.net/qq_44787898/article/details/102556238)
+ > 12   Java语言学习基础——猜字符小游戏
+ ## [Java开发技术面试考点--JavaSE部分](https://blog.csdn.net/qq_35328319/article/details/102546685)
+ > Java开发技术面试考点--JavaSE部分
 # PM 
+ ## [线上标价高是零售企业在自掘坟墓](http://www.woshipm.com/newretail/2983333.html)
+ > 零售企业固守线下渠道，新消费群体将会越来越远，全渠道才是未来的零售发展方向。目前看，很多企业对线上渠道、线下渠道如何融合，对到店购买、到家购买未来的市场格...
+ ## [电商“二选一”的商业逻辑是什么？](http://www.woshipm.com/chuangye/2981713.html)
+ > 市场自然行为下的“二选一”有着其合理的商业运行法则，不应该成为一些电商平台和商家无休止炒作的话题，更不应该成为一些电商平台借“反垄断”之名制造阴谋论。“二选一从...
+ ## [如何进行需求的收集与挖掘？](http://www.woshipm.com/pd/2965777.html)
+ > 需求的收集与挖掘是产品经理必备技能之一，是一个需求流转的开始。「需求」这个词，想必大家再熟悉不过了。那么在本文开头想问大家一个问题：你们工作中的需求都是哪里...
+ ## [一图让产品经理秒懂市场营销的本质](http://www.woshipm.com/marketing/2979119.html)
+ > 市场营销往往是产品经理较少涉及的领域，产品经理如何在这个领域取得成功，成功扮演“中场”的角色。一、产品经理在市场营销领域的角色定位在帮助企业培养产品经理的过...
+ ## [产品经理必备的三种思维方式](http://www.woshipm.com/pmd/2981572.html)
+ > 本文向我们介绍了三种思维方式——互联网思维、产品思维、系统思维。经常听到思维，产品的思维、互联网思维、思维的名称和名词这么多，那么什么是思维，我们给思维做一...
+ ## [以淘宝为例，电商平台如何提高人货匹配度？](http://www.woshipm.com/pd/2983102.html)
+ > 本文基于“对用户场景细分和深挖，满足用户更多的个性化需求”的原则，从买卖双方的角度，对手淘现有的提高人货匹配度的功能进行分析和改进建议。电商依托互联网的优势...
+ ## [智能硬件产品复盘：智能体温计项目的得与失](http://www.woshipm.com/pd/2981622.html)
+ > 本文笔者根据自身项目经验，详细复盘了智能体温计项目从0到1的全过程，总结了在项目执行过程中所遇到的问题，分享给大家用以参考学习。写在产品复盘之前，笔者从14年1...
+ ## [你的产品是否有被用户绑架过？](http://www.woshipm.com/pd/2983264.html)
+ > 被用户绑架后，产品经理们也将会受到各种约束和限制，产品的革新和迭代将会受阻，革新受阻代表着竞争壁垒的逐渐崩塌。种锚和收锚先说说新项目的事情。新城市项目正...
+ ## [淘直播千亿带货、洗脑广告翻红……“品效合一”长路漫漫](http://www.woshipm.com/marketing/2981587.html)
+ > 过去，我们抓了品牌放了效果，现在却走上只要效果，无视品牌的路子。但这两者的配方比例多少合适？有没有好的路子两者兼顾？“品效合一”是当下圈内的热词。做营销，既...
  ## [那些年，我们在产品上趟过的坑](http://www.woshipm.com/zhichang/2982691.html)
  > 每位产品经理在处理需求和项目的路上，都会遇到无数的坑。在周而复始的挖坑和填坑的过程中，我们散落了青春，也迎来了成长。笔者梳理了一下曾经趟过的10个产品坑，相信...
  ## [线下课程 | “负责的运营团队业绩完成率仅42%，距公司财年还剩2个月，简直焦头烂额……”](http://www.woshipm.com/active/2972349.html)
  > 案例一：“距公司财年还剩2个月，而我肩负的运营团队业绩，完成率仅42%，上半年难，下半年更难……”主负责的业务线产品增长缓慢，环比上期又下降了35%，SEM...
- ## [B2B 之“不可能三角”原则](http://www.woshipm.com/it/2982495.html)
- > 在今天这篇文章中，笔者戴英俊结合之前美菜的经历，以及近期易买工品的融资案例，从 B2B 不可能三角出发，分析了怎么看 B2B 赛道，以及 B2B 的机会在哪里。01最近一...
- ## [千亿级别的品牌启示：小米为什么输给华为？](http://www.woshipm.com/marketing/2978428.html)
- > 笔者以小米的品牌策略为例，向我们讲述了：进入新消费时代后，我们需要不断更新品牌思维，在产品里加入消费主义要素。这是我8月份发的一条朋友圈，有感于经济环境的不...
  ## [人工智能基础之机器学习入门实战](http://www.chanpin100.com/article/109765)
  > 本文主要简单介绍了机器学习的几个类型，机器学习的工具TensorFlow的基本用法，并通过一个简单的机器学习案例实战，使大家对机器学习有个初步的认识。
  ## [怎么做才能有效的进行App推广呢？](http://www.chanpin100.com/article/109764)
