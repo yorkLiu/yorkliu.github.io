@@ -1,7 +1,7 @@
 ---
 title: 2019-10-17 IT News
 copyright: true
-date: 2019-10-17 12:00:59
+date: 2019-10-17 17:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,30 +69,46 @@ CRO &#20844;&#21496;&#8220;&#32532;&#33033;&#29983;&#29289;&#8221;&#23436;&#2510
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Adobe发布紧急更新，以修补多达82个产品漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=gnnqehJzmEyPOzZPmjRL3QzyYScbztSynYies43EaY1bLHUu9qLENgnQyo7wRdx-xbWjjWidd1gIJZEjI2AbHxCXn0hJsPR-p46QhTQQvyoVASUfaejNVo4zvNSWaLin&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com      近日，Adobe针对Experience Manager、Experience Manager Forms、Acrobat and Reader，以及Downloa
- ## [光电所在基于人工智能的运动目标跟踪研究方面取得进展](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=CkPEXSDtnnLLqYcZjpXFak5L9KZjVmkRKvUtsQRZDOghkvscp9EcJ7UracdEGDQX7yRLBDhwH7CA7Ts8F4*yGsaUybjtOqXnzBFm1OuieoxU5OflOG7B*SgLsmWKUXx9&new=1)
- > 目标跟踪是计算机视觉领域一个重要的研究热点，应用范围广，包括无人机监察、无人驾驶、行人与车辆监控等。目标跟踪从上世纪50年代初起源至今，尽管已有大量研究成果，但对于复杂场景的实时目标跟踪依旧难以实现...
- ## [加速5G商业成功，华为5G设备全球发货超40万](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=hOJlWxNLPxeLEyoHalfAvV-L2zPihgMrVNh1Wa9psEF9DoZwTqjVjIrTGJpB5D7WtnHtrtN-L1M5f84roT0POtYxRdjLfzKsfXNxzqJjqBjfWA5YTyfoyLPI8lDg1BI-&new=1)
- > 【瑞士，苏黎世，2019年10月16日】2019全球移动宽带论坛（Global MBB Forum）期间，华为常务董事、运营商BG总裁丁耘指出：个人、家庭和垂直行业对5G的需求真实而迫切，5G已在全球规模部署。运营商可加速发展当期...
- ## [滁州在全省率先启用!事关医保](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=-NBvaswAjPfraBu74mvKiUfGc83y*nwocX*j7o7KlvcY-fFeFAnxMHdqGDC7aouUH817h0kc3*fAxal9Oprvty3kACn4I70SZSatCUnKfcd8xP4o7qO1*9E5hjKzq7pI&new=1)
- > 滁州市医保智能监控中心正式启用         为贯彻落实国家医保智能监控示范点建设现场会和省医保信息化会议精神，市医保局在市委市政府的关心支持下，先行先试，攻坚克难，经系统设计、方案评审、项目招标、工程...
- ## [网易有道将于 10 月 25 日上市；华为前三季度营收 6108 亿元；「罗辑思维」正筹备科创板 IPO|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=K80ZusG2LwIA57iTJqyHxtsM1ZqSDesbg*M5rdE53rT*ydtYR35hsoLekZrq*f7Ac-E4KnTHviULbJqmANUTJWRNrmQ3V-drOV4lTiBESzXjSl7416zbwGGSxcM*tzPs&new=1)
+ ## [分身有术，千里投送，隔空交融!5G时代这样上课?!](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=CAwSWVys2etO1ISODt4CLEw8o2FjN3fpBlYc3lWcA8vuADf*nICxNb74GuVKHbckDBRhwRS7ZuzIcWhVlH9RgO0PkgN38OfSB2mPOVE3XmXGgwMvySJpidDwfyXKy45a&new=1)
+ > 还记得之前的5G远程手术、5G刷脸坐公交吗？5G还能干点啥？和小编一起探索5G新应用吧！这次，我们把目光聚焦在北京邮电大学——中国联通与北京邮电大学合作共建的5G智慧教室项目中，在5G网络环境下，将远在几十公...
+ ## [处理器体系结构 —— 了解CPU的基本原理](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=xJPRuWXMILbcNd0Lo5HPcnojtjU9RdK4UAmDKmjagFbC35kznC7FpArG3-IOyq-xDli*y5ISiclJ7cU5wSc-G4Zs2MdgbPKfnxQnTrv-Wj94vwX*65uHN7SK6dDAw54i&new=1)
+ > Central Processing Unit(CPU)：中央处理器，PC的大脑，是计算机中处理数据的地方，同时也是性能和价格的决定因素。当下CPU的速度竞赛仍如火如荼，但是有一点要注意：CPU的性能绝不仅仅是由MHz或者GHz前面的数字...
+ ## [塑造容器安全未来的五个趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=WKBZM230E8lcYnLTkivg3yZ4sdNRPBDNiPjJl7FcOfQNNOleJvpSRX5sxITeSK-mGtOYqkV*lNqSzdpg*Y5f4dhBfsKYWpxA23g8XWlN9rb*mcZh6zV2*5yOCYnGZyvt&new=1)
+ > 关键讯息，D1时间送达！容器采纳率节节攀升，尤其是在企业生产环境中。NeuVector 首席执行官 Fei Huang 点出指引容器安全未来方向的五个关键趋势。Portworx 行业报告表明，随着主流编排平台生态系统的成熟，生产...
+ ## [嘉士伯的三大致胜配方：微软智能云Azure、SAP以及云为先战略](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=W4iTMuQLCmxP95dhZYTEwHq5nHUZz9-OK*-kKDOVYxZfuLE*wqC9Bap4xB*HggkvpAWR8Lj8ICgo14QOQQESDS6g2KSMCe8cTPUkW-Evo1ZID3Cwy6qCYvofcufXv1D3&new=1)
+ > （本文阅读时间：10分钟）总部位于丹麦哥本哈根的嘉士伯集团是一家拥有171年悠久历史的啤酒酿造企业，他们对啤酒的一切都了如指掌。嘉士伯有着浓厚的创新文化氛围，这种开拓精神也延伸到了其信息技术（IT）战略...
+ ## [长亭科技陈宇森：生存优先，all in销售，深耕价值壁垒|\[经纬低调出品\]](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=98FRwkVnM1JVAtZ8MtWGT3NVNnxouQzCNuWD2*9HsTBn2OR50Xl6JYtBuJGLIJKTdhIWRjebLe5daW2F4SeMOQNFL68VbBWhvRkX8UZHtUCtkd*0OfvH169k3eBjq6Up&new=1)
+ > 10月11日，长亭科技宣布，阿里云拟全资收购长亭科技。收购完成后，长亭科技品牌及团队均保持独立，继续保持独立运营，并在阿里云的技术、资金、业务的全方面支持下全力拓展市场，持续为企业级用户提供更具实力的...
+ ## [29 个国家/地区的 SIM 卡面临 SimJacker 攻击威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=O*ftHYQKjfettJcmkLEcSUy8Dfzy3AivawkUHEqZi8ZGSwbPfz9GNjUZM5hh8R4U7GPUkJILWrMVQLprbSEC-oxVdW5e2Ngp8shWi30PK0KEzCrlnSEzRTDcrMJRkeZO&new=1)
+ > 上个月披露的 SimJakcer 漏洞影响多种 SIM 卡，通过发送一条特别构造的二进制短信，攻击者就可利用该漏洞黑进任意手机。SimJacker 是此类漏洞的统称。该漏洞存在于现代 SIM 卡中，源自身份验证的缺失和内嵌动态 ...
+ ## [Gartner：为在工作场所使用更多人工智能做好准备](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=eQIWPhjWC442jMFzIA1q8YRp0lxaJm7NYwBpEHgAFzmwhC5XCOyKiHY8BCf7VoT2LkBpU*cE-1ZspQUD-Ho*80GP9csYlbY3LZ9j4OajP4AUj5Ex0iVEJUyif3-8VpvZ&new=1)
+ > 关键讯息，D1时间送达！Gartner的分析师在伦敦表示，未来几年，随着企业开始投资于数字化工作场所计划，人工智能将以各种方式广泛应用于办公环境。该公司在伦敦举行的数字工作场所峰会上，分析师们表示，他们预...
+ ## [5G赋能产业深度变革 四川移动打造5G生态“朋友圈”](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=NpuCrq6mhGJL3AxVOwXFczablmJczBfT5RmjfXxgV1kb1ycokhwj-AGR4UgD*3NWd1YQjpz8vm94BuYJhNNs6aUTcCITLtyu*I1AT7KxjXjMzYd1rkDmW0QuhqDVO4n3&new=1)
+ > 如今，5G发展已步入快速道，相比于4G，5G更具革命性，能够为跨领域、全方位、多层次的产业深度融合提供基础设施。在这其中，运营商扮演了5G建设中最为重要的角色，拥有着最庞大用户群体、最广泛网络建设的中国移...
+ ## [任正非：外籍员工可当华为 CEO，但有条件；苹果欲研发“智能戒指”；MySQL 8.0.18 稳定版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=G9ygUyjvwiznXk3atnDze9gHcSYd919WqyfC*xjPNMO4t2tMecv*di5*XkpmJZaE0DzUypppDdMe8ZP2tNxfWS8mAfJbZbomVHA8gYnh571vU*FNPJIiz6AfoUDPY*ai&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [网易有道将于 10 月 25 日上市；华为前三季度营收 6108 亿元；「罗辑思维」正筹备科创板 IPO|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=K80ZusG2LwIA57iTJqyHxtsM1ZqSDesbg*M5rdE53rQQZqRxZL8-EqkQ09rbBme920AgapQaLRHCYEZGdLZP9o2d*qimj7iCMyz7EsZi-cpY2k9LtqSsApnqeDg8xm3y&new=1)
  > 网易有道将于 10 月 25 日上市，丁磊拟增持 2000 万美元北京时间 10 月 16 日早间消息，网易有道周二向美国证券交易委员会（SEC）提交了更新后的 IPO 招股书，将 IPO 发行价区间设定为每股 15 美元至 18 美元，...
- ## [7点见|华为首次对外出售4G通信芯片；贾跃亭破产前月入9万美元；湖州市停止与蔚来洽谈投资](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=9WtJ4mG46Mk*07*6QiP5lvbIzLjz7phb6VdZONSZ7a9FMOuB8eNN7WDZGJgMCganhhwutgrH7mjNxPgI3tcD9b6gLJNJQ659kAwH37Uqv*Z7p-XPaD7cLUanAG*S*AXr&new=1)
+ ## [加速5G商业成功，华为5G设备全球发货超40万](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=hOJlWxNLPxeLEyoHalfAvV-L2zPihgMrVNh1Wa9psEHh*EEz7JdGKj-B7RBtWbIIv4n6egyiLP35*OonkQY4kSMX1SNIOnNMuSkzR4wq00CoimHhi1tzoDDOvC4fooyS&new=1)
+ > 【瑞士，苏黎世，2019年10月16日】2019全球移动宽带论坛（Global MBB Forum）期间，华为常务董事、运营商BG总裁丁耘指出：个人、家庭和垂直行业对5G的需求真实而迫切，5G已在全球规模部署。运营商可加速发展当期...
+ ## [这个王者荣耀机器人，或许能实现你的机甲梦(内含福利)](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=UW7Ss*kM2ZYi1siVE4cwPXpI8KkXnzQ7OdlF*uN6YcwNaVHLRRaRfmuakQdbijvxLmpYZPBW*4HTP-zZ8vQ*zK0iWDhnXStJqFJbqbEHkiGGMf8Y323R8j4nqFwMAioH&new=1)
+ > 如果你也有机甲梦，那么组装一台可以自己遥控的盾山机器人或许完成你的梦想。在让人眼花缭乱的科幻电影中，机甲战斗类绝对是永不过时的类型作品。无论是经典的《高达》《新世纪福音战士》等日系作品，还是《环太...
+ ## [Adobe发布紧急更新，以修补多达82个产品漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=gnnqehJzmEyPOzZPmjRL3QzyYScbztSynYies43EaY07fW1STQkkJNmsXYmutgGMqfoPaHYrcAdgDTYfnfCL8KCEsEukjztwxsbkLIkTmARhUB3ruHv-GmQN8Zzk3eap&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com      近日，Adobe针对Experience Manager、Experience Manager Forms、Acrobat and Reader，以及Downloa
+ ## [光电所在基于人工智能的运动目标跟踪研究方面取得进展](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=CkPEXSDtnnLLqYcZjpXFak5L9KZjVmkRKvUtsQRZDOgqWZsh2ZAh*4iEomFXtWuCBqNaSJrI351qZIv9IvaeteegM8GLNUq7zYXeK-NQkhKP-WZKakZnCRQBzWQ*BQNF&new=1)
+ > 目标跟踪是计算机视觉领域一个重要的研究热点，应用范围广，包括无人机监察、无人驾驶、行人与车辆监控等。目标跟踪从上世纪50年代初起源至今，尽管已有大量研究成果，但对于复杂场景的实时目标跟踪依旧难以实现...
+ ## [滁州在全省率先启用!事关医保](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=-NBvaswAjPfraBu74mvKiUfGc83y*nwocX*j7o7KlvfdOgIXKOsbiPXX5O9PYpJ92rhhdBohPPjBjemTJXx7jXMNIO4aZbGrEYENzx*DSa6KagetVsYxjIOPoaJtlM*m&new=1)
+ > 滁州市医保智能监控中心正式启用         为贯彻落实国家医保智能监控示范点建设现场会和省医保信息化会议精神，市医保局在市委市政府的关心支持下，先行先试，攻坚克难，经系统设计、方案评审、项目招标、工程...
+ ## [7点见|华为首次对外出售4G通信芯片；贾跃亭破产前月入9万美元；湖州市停止与蔚来洽谈投资](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=9WtJ4mG46Mk*07*6QiP5lvbIzLjz7phb6VdZONSZ7a83-vPJqPSWpuNP4H5dUeZRW61DkFPUveXcDw4yG5-GxDtVjIt1pk*a5YfJrX3ATMOBrUxhqySDCzxMXhOAx*KM&new=1)
  > 各位小伙伴们，早上好呀！想问一下小伙伴们秋冬最爱吃的食物都是什么呀？和小七分享一下吧~接下来是早报时间！华为海思首次对外出售4G通信芯片：内部已考虑出售麒麟系列近日，华为旗下芯片公司上海海思技术有限...
- ## [\[科技早报7点整\]小学生称用照片能开丰巢快递柜 任正非表示外籍人员满足条件可当华为CEO……](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=IS4RqX-55ao2UBEOd4IfhtT9jdgv6yxzutt7I864Xf37cFl*UfaUlSxRtIFFo9owtDNnU9peCdN6kLgOslRnTwn75lqIQv4VEtJlb-1JUUiJiQisPUWewfzwxjR9AFlT&new=1)
+ ## [\[科技早报7点整\]小学生称用照片能开丰巢快递柜 任正非表示外籍人员满足条件可当华为CEO……](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=IS4RqX-55ao2UBEOd4IfhtT9jdgv6yxzutt7I864Xf159GIl3mLlMMkP6Hq8KzLCHkSbifPLyhn7phqLMZam2NXkiWB8Sl9rn9gzdLeakM6i65ixuWTvl5NQtHwf0knE&new=1)
  > 早上好，科技圈【一度蜜科技早报】第615期1.小学生称用照片能开快递柜，丰巢紧急下线刷脸开锁功能近日，杭州小学生实验发现丰巢快递柜大bug，用照片就能替代刷脸取件，不少市民表示太不安全。随后，丰巢工作人员...
- ## [设备商|华为公司2019年三季度经营业绩发布](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=2HIL4F1Y8LdVBYBSmJ5bmE3-TvzAq-ico1*7k8r3WujgPDXMo4XDQ1JeJzuM2EWRZ6OM5wDf1Wl3HRmli3vNve0DJSfiLhNHbcjMBuPyvINTvk2cYlviI1oU7OPryD7v&new=1)
+ ## [设备商|华为公司2019年三季度经营业绩发布](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=2HIL4F1Y8LdVBYBSmJ5bmE3-TvzAq-ico1*7k8r3Wui*O-j*jmhPK1HTJJRIMPr3OxdGCOxTPv4Py26nPSKBU1HfZr6P9dDHzb3YOum0hGX8sIRXPkSec2h7mLWnlDdj&new=1)
  > 导读     华为今日发布2019年三季度经营业绩。截至2019年第三季度，公司实现销售收入6,108亿人民币，同比增长24.4%;净利润率8.7%。    ICCSZ讯 华为今日发布2019年三季度经营业绩。截至2019年第三季度，公司实
- ## [外媒纷纷关注华为三季度“成绩单”](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=Z1p21cxReutFXhdOUpeKBYOtRNXAQ2xeZTJYv4fEMp2uiKnT6bFSneLi*g9282vHWWAmQo-YG2o9PwKcHrPUNTf3jMnyJA8EBznDimbM8tc=&new=1)
+ ## [外媒纷纷关注华为三季度“成绩单”](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=Z1p21cxReutFXhdOUpeKBYOtRNXAQ2xeZTJYv4fEMp0*TpG4ODvjAzzFliE-OWHscbZP28V5g8Lg*xKZ4dJRxEp9S2Vgkvb3Z3z257uCNYs=&new=1)
  > 参考消息网10月17日报道 10月16日，华为对外发布了2019年三季度经营业绩。截至2019年第三季度，华为实现销售收入6108亿人民币，同比增长24.4%；净利润率8.7%。消息一出，引来各家外国媒体的关注。路透社、美国《...
- ## [无惧压力，华为手机出货量逆势加速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=jAAX9z68F2hYthy2KLTf6TKGyh7uI4JF6rNRO0UyMDYvHi1OFviFsHzQwxaHxNXZhN95qw*gc9RESK3dVDJO-h9xfmgyqsdFfFDsyglc8UuhwvhK-ztk8n76m8RogvFq&new=1)
+ ## [无惧压力，华为手机出货量逆势加速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1571302805&ver=1917&signature=jAAX9z68F2hYthy2KLTf6TKGyh7uI4JF6rNRO0UyMDacO4Letgrq8dIsa2ON0sTk7QfXlaBvqiIr*mvlES-x0LYhF7Tdafmd4GFREt3-dCAENHEKWGYCcEKKgT9CmTHT&new=1)
  > 华为公布前三季度业绩显示，手机发货量达到1.85亿台，同比增长26%，它并没有直接公布三季度的数据，不过如果与市调机构给出的数据就可以推算得出三季度的出货量同比增速达到28.8%，较二季度的出货量同比增速大幅...
- ## [SpaceX计划再发射3万颗卫星丨网易有道更新招股书\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=CFup3DaWwjHY-YIq5EXy93Pt7qwhzBuKuHRmwn9QzuHqwHBnkC7FezhgZk57*V8gpaWug7NziN9FZ-obN9xSurSwy7Av8KY2ZyXzrGkx4vQrBhbWGQbR1HuBieMU4CBu&new=1)
- > 10月16日丨周三【Do说】编辑 | 赵艾虎SpaceX计划再发射3万颗卫星，建设全球卫星互联网美国联邦通信委员会(FCC)已经代表SpaceX，向国际电信联盟(ITU)提交了20份文件，涉及3万颗在低地球轨道运行的小型卫星。ITU太...
- ## [信人还是信机器?调查显示中国88%员工信任机器人超过经理](http://mp.weixin.qq.com/s?src=11&timestamp=1571284805&ver=1917&signature=GNcGOcMTpAm0G16mt90T3iUeflBNfCFCc26mU3lAbDFz8TubffpMqr*j5O16LaD14ElIISTuDkgOlhRnCgOwE9tDKFG3-7Y4aQuukhaRTwrqM-zZp*TB6HpJ5QBDqqBd&new=1)
- > 这一调查结果基于来自10个国家的8300多名工人的答复，反映了人工智能在工作场所的应用日益增多。近日，根据美国甲骨文公司和研究机构Future Workplace联合发布的一份研究报告（点击文末阅读原文获取报告），人类...
 # IT 技术 
  ## [大牛总结的MySQL锁优化，写得太好了！](http://database.51cto.com/art/201910/604421.htm)
  > 大牛总结的MySQL锁优化，写得太好了！
@@ -110,26 +126,56 @@ CRO &#20844;&#21496;&#8220;&#32532;&#33033;&#29983;&#29289;&#8221;&#23436;&#2510
  > 你用的Windows操作系统是不是盗版？微软知道吗
  ## [Libra盟友纷纷“跳船”，联盟链还有戏吗？](http://blockchain.51cto.com/art/201910/604385.htm)
  > Libra盟友纷纷“跳船”，联盟链还有戏吗？
+ ## [PHP程序员经常忽略的冷门知识点](http://news.51cto.com/art/201910/604450.htm)
+ > 有些时候我们习惯了主流的方法，每一步都按部就班的写代码，殊不知，我们可能会遗漏一些好的想法和知识点，
+ ## [注意：你的网络安全吗？](http://netsecurity.51cto.com/art/201910/604449.htm)
+ > 根据网络信息中心(CNNIC)28日发布的数据显示,截至2018年底,中国网民数已经达到8.29亿，可见规模之大。所以
+ ## [云计算发展白皮书：今年规模达1290亿元](http://news.51cto.com/art/201910/604447.htm)
+ > 10 月 17 日下午消息，近日，国务院发展研究中心发布了《中国云计算产业发展白皮书》。
+ ## [云原生时代的微服务，适合所有人么？](http://developer.51cto.com/art/201910/604445.htm)
+ > 微服务是一种优化资源的体系结构方法，这些资源为复杂、快速、分布式基础设施上的大规模服务和软件提供计算
+ ## [物联网恐成5G网络安全隐忧](http://iot.51cto.com/art/201910/604443.htm)
+ > 5G网络将带给人类更加便利的生活，改变原先工作、沟通、观看影片的方式，然而，快速的网络同时也会让骇客
+ ## [边缘计算技术发展现状与对策](http://news.51cto.com/art/201910/604448.htm)
+ > 本报告为科技部科技创新战略研究专项项目“高新技术领域年度重点创新进展报告”( 编号：ZLY201633) 研究成
+ ## [调查表明云计算快速增长已占IT支出的四分之一](http://cloud.51cto.com/art/201910/604442.htm)
+ > 最近一项针对300多位企业IT高管的IT支出调查确定了持续向云计算转变的一些重大影响。代表拥有2000多名员工
+ ## [5G预约用户数破千万，实则还是“冰火两重天”？](http://network.51cto.com/art/201910/604441.htm)
+ > 在三大运营商不甘人后的广告轰炸和各路媒体有意无意的反复烘托下，截至10月上旬，统计得出国内5G预约用户数
+ ## [工信部：云计算应用落地行动规划有望出台](http://cloud.51cto.com/art/201910/604440.htm)
+ > 据上海证券报消息，工信部正在联合其他部委探讨制定具体行业云计算应用落地的行动规划，为云计算产业落地营
  ## [代码写成这样，老夫无可奈何！](http://developer.51cto.com/art/201910/604439.htm)
  > 你见过最无可奈何的代码是什么？今天，栈长就来总结一下我遇到过的一些神逻辑代码，不一定很全，但我真心写
- ## [大数据和人工智能如何协同工作](http://bigdata.51cto.com/art/201910/604437.htm)
- > 人工智能和机器学习如何帮助组织从大数据中获得更好的业务见解?需要了解人工智能和大数据分析的下一步发展
- ## [TCP粘包、拆包与通信协议详解](http://network.51cto.com/art/201910/604438.htm)
- > 在TCP编程中，我们使用协议(protocol)来解决粘包和拆包问题。本文将详解TCP粘包和半包产生的原因，以及如何
- ## [权衡多云灾难恢复的挑战](http://cloud.51cto.com/art/201910/604436.htm)
- > 很多企业制定了多云备份策略，但这并不意味着应该这样做。企业需要权衡这种方法带来的挑战和潜在收益。
- ## [要不要赶个时髦，去建设一个「 中台 」？](http://developer.51cto.com/art/201910/604435.htm)
- > 很多技术人总是抱怨 新技术/新框架/新概念 太多了，总是学不完，抱怨实在是学不动了。哈哈，这不，最近「
- ## [GitHub趋势榜第一：超强PyTorch目标检测库Detectron2，5天3100星](http://news.51cto.com/art/201910/604434.htm)
- > PyTorch目标检测库Detectron2诞生了，Facebook出品。开源5天，已在GitHub收获3100星，还成了趋势榜第一。
- ## [麻省理工学院开发出组装机器人：未来可建造太空殖民地](http://news.51cto.com/art/201910/604431.htm)
- > 麻省理工学院博士生本杰明・杰内特（Benjamin Jenett）和原子中心的尼尔・格申费尔德教授（Neil Gershenfel
- ## [18个Python脚本可加速你的编码速度](http://developer.51cto.com/art/201910/604432.htm)
- > 在本文中，我们向您介绍一些提示和技巧，以帮助您更快地编写代码。Python的可读性和设计简单性是其广受欢迎
- ## [刷脸取件被小学生“破解”！丰巢紧急下线](http://news.51cto.com/art/201910/604429.htm)
- > 近日，小学生发现刷脸取件bug的话题引发关注！这是真的吗？都市快报《好奇实验室》进行了验证。
- ## [Go语言的中的For循环之大坑](http://developer.51cto.com/art/201910/604428.htm)
- > For循环在我们日常编码中可能用的很多。在很多业务场景中我们都需要用for循环处理。但golang中的for循环有
+ ## [只因写了一段爬虫，公司200多人被抓！](https://blog.csdn.net/ityouknow/article/details/102597598)
+ > 
+ ## [10月17日科技资讯|拼多多用户超 4 亿；苹果欲研发“智能戒指”；MySQL 8.0.18 稳定版发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/102599477)
+ > 
+ ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
+ > 
+ ## [一些实用的GitHub项目](https://blog.csdn.net/qq_36772866/article/details/102384240)
+ > 一些实用的GitHub项目
+ ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
+ > 
+ ## [前端开发大师修炼指南](https://blog.csdn.net/csdnnews/article/details/102577861)
+ > 前端开发大师修炼指南
+ ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
+ > 
+ ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
+ > 500行代码，教你用python写个微信飞机大战
+ ## [@程序员：Python 3.8正式发布，重要新功能都在这里](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/102578178)
+ > 
+ ## [深入理解C语言指针](https://blog.csdn.net/ZackSock/article/details/101594794)
+ > 
+ ## [动画：用动画给面试官解释 TCP 三次握手过程](https://blog.csdn.net/qq_36903042/article/details/102513465)
+ > 
+ ## [红黑树详细分析](https://blog.csdn.net/ThinkWon/article/details/102571535)
+ > 红黑树详细分析
+ ## [30秒内便能学会的30个超实用Python代码片段](https://blog.csdn.net/duxinshuxiaobian/article/details/102480959)
+ > 30秒内便能学会的30个超实用Python代码片段
+ ## [Python实现天气查询功能（外加Excel技巧）](https://blog.csdn.net/ZackSock/article/details/102580920)
+ > Python实现天气查询功能（外加Excel技巧）
+ ## [惊！Python能够检测动态的物体颜色！](https://blog.csdn.net/csdnnews/article/details/102559469)
+ > 惊！Python能够检测动态的物体颜色！
  ## [国际顶级学界和工业界大咖云集、AIoT 实训营，你不可错过的嵌入式 AI 盛会！...](https://blog.csdn.net/csdnnews/article/details/102597652)
  > 随着物联网和人工智能技术的飞速发展与相互渗透，万物智联的新赛道已经开始显现。据中商产业研究院《2016—2021年中国物联网产业市场研究报告》显示，预计到2020年，中国...
  ## [2019 年度最佳开源软件出炉，TensorFlow 上榜！](https://blog.csdn.net/csdnnews/article/details/102597663)
@@ -150,38 +196,31 @@ CRO &#20844;&#21496;&#8220;&#32532;&#33033;&#29983;&#29289;&#8221;&#23436;&#2510
  > 本文整理自《The Future of IOT: 4 Predictions about the Internet of Things》自1999年，自从Kevin As...
  ## [谁来结束 GUI 程序？| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/102597658)
  > 作者| dog250责编 | 屠敏出品 | CSDN博客在之前使用Windows XP的时候，都会有这样的经历，即打开一大堆的窗口，在任务栏排的满满的，同样程序的不同程序还可以分组，看似很有条理的样子…不光Windows，Linux桌面、MacOS竟然也学着Windows的样子，也...
-# 人工智能 
- ## [C语言五子棋人机对战——Windows下基于EasyX且支持键盘操作有人人对战与人机对战模式](https://blog.csdn.net/qq_29916855/article/details/102561035)
- > C语言五子棋人机对战——Windows下基于EasyX且支持键盘操作有人人对战与人机对战模式
- ## [惊！Python能够检测动态的物体颜色！](https://blog.csdn.net/csdnnews/article/details/102559469)
- > 惊！Python能够检测动态的物体颜色！
- ## [菜鸟之保研经验分享](https://blog.csdn.net/weixin_39139505/article/details/102576084)
- > 菜鸟之保研经验分享
- ## [微人事 star 数超 10k，如何打造一个 star 数超 10k 的开源项目](https://blog.csdn.net/u012702547/article/details/102562755)
- > 
- ## [ML岗位面试：上海某公司算法岗位(偏图像算法，制造行业)技术面试考点之AI算法与实际场景结合产生商业价值的头脑风暴](https://blog.csdn.net/qq_41185868/article/details/102577365)
- > ML岗位面试：上海某公司算法岗位(偏图像算法，制造行业)技术面试考点之AI算法与实际场景结合产生商业价值的头脑风暴
- ## [神经网络学习小记录14——slim常用函数与如何训练、保存模型](https://blog.csdn.net/weixin_44791964/article/details/102571830)
- > 神经网络学习小记录14——slim常用函数与如何训练、保存模型
- ## [TensorFlow2.0 学习笔记（一）：TensorFlow 2.0 的安装和环境配置以及上手初体验](https://blog.csdn.net/TeFuirnever/article/details/102513712)
- > 
- ## [人工智能VS机器学习：最大的区别是什么？](https://blog.csdn.net/duxinshuxiaobian/article/details/102563186)
- > 人工智能VS机器学习：最大的区别是什么？
- ## [看完秒懂robots.txt写法和注意事项](https://blog.csdn.net/qq_44036324/article/details/102580943)
- > 看完秒懂robots.txt写法和注意事项
- ## [佛爷带你使用自动编码器（卷积神经网络CNN）构建一个简单的图像检索系统](https://blog.csdn.net/Tong_T/article/details/102566127)
- > 佛爷带你使用自动编码器（卷积神经网络CNN）构建一个简单的图像检索系统
- ## [ML岗位面试：上海某公司算法岗位(偏机器学习，合资制造行业)技术面试考点之电话面试—研究项目的技术考察](https://blog.csdn.net/qq_41185868/article/details/102577359)
- > ML岗位面试：上海某公司算法岗位(偏机器学习，合资制造行业)技术面试考点之电话面试—研究项目的技术考察
- ## [40 岁编程经验 30 年！支付宝资深工程师的程序人生](https://blog.csdn.net/csdnnews/article/details/102547657)
- > 
- ## [TensorFlow2.0 学习笔记（三）：卷积神经网络（CNN）](https://blog.csdn.net/TeFuirnever/article/details/102535379)
- > 
- ## [简单创建一个认识自己的代码1：数据收集](https://blog.csdn.net/weixin_41950324/article/details/102575081)
- > 简单创建一个认识自己的代码1：数据收集
- ## [CSDN日报191015：通过代码分析那个引发的学界震动的Python脚本BUG；Java、框架干货分享](https://blog.csdn.net/blogdevteam/article/details/102567934)
- > 
 # PM 
+ ## [打破偏见，解析品牌经理的两大核心职能](http://www.woshipm.com/marketing/2985455.html)
+ > 品牌是产品和用户进行沟通的一道桥梁。对于传统企业来说，产品开发周期长、生产线变更复杂、产品迭代慢，需要品牌经理这个角色去加强与用户的沟通，通过品牌制造产品的...
+ ## [10年，知乎为何依旧“赚钱难”？](http://www.woshipm.com/it/2985358.html)
+ > 知乎走到F轮，商业化是必然，如何在保证内容质量的前提下赚钱仍然是知乎的难题。拥有2亿多用户和大量优质内容的知乎，在成立10年后依然存在变现难的问题。除了周源自...
+ ## [从三个层面看新零售B端产品如何优化](http://www.woshipm.com/pd/2984974.html)
+ > 新零售产品如何优化，笔者从产品、交互、UI设计三个层面分别进行阐释，文末还有彩蛋~~本期分享新零售产品的优化全过程，从产品、交互、UI设计上层层解析，最后教大家...
+ ## [AI面试官来临，教你三招搞定他](http://www.woshipm.com/ai/2983268.html)
+ > 你永远不知道你的面试官是人还是…人工智能。AI面试官来了，笔者为我们总结了相关的攻略，一起来看看~社畜们的演技巅峰，大多数时候不是奉献给了各种甩锅，就是用在了...
+ ## [打造个人品牌：先做到定位“稳准狠”](http://www.woshipm.com/marketing/2979877.html)
+ > 打造品牌之前，我们更应该做的是树立品牌方向、定位品牌。在定位的道路上，我走过不少弯路，也有着许多思考。曾经我也跟风开过公众号。刚开始充满动力地日更了一个月...
+ ## [各阶段产品经理，如何突破自身瓶颈（ 下 ）](http://www.woshipm.com/pmd/2961512.html)
+ > 目前大学还没有完全对口的产品经理专业，计算机、心理学、工业设计等都属于较为靠近的学科，这些学科会让你，在最初产品经理的岗位上有一定基础。当然，仅靠学校提供的...
+ ## [3000元实现100W+，搭乘营销“经济舱”的三大诀窍](http://www.woshipm.com/marketing/2984637.html)
+ > 如果把营销比作搭乘航班去到一个目的地的话，大多数公司恐怕都要坐着“经济舱”而非“豪华头等舱”，因为它花费更少，而且同样能顺利抵达目的地，达成预期的营销效果。近...
+ ## [﻿如何运营一个蓝领社区类产品？](http://www.woshipm.com/operate/2984604.html)
+ > 蓝领市场规模巨大，笔者作为蓝领社区产品负责人，给出了一些运营方面的建议。目前，笔者所负责的一个蓝领社区类产品即将对外发布，由于是第一个面向C端的应用产品，笔...
+ ## [项目执行要点（2）：项目调研](http://www.woshipm.com/zhichang/2983353.html)
+ > 本文总结了项目调研的各项环节以及其中的要点，希望能给你带来启发，enjoy~一、调研准备甲方行业情况的了解、原网站的分析、同类网站的浏览。要初步明确项目的重点...
+ ## [高效表达的秘诀：结构化思维](http://www.woshipm.com/zhichang/2914583.html)
+ > 不管是在工作中还是在日常生活中，将一个问题准确的表达出来，是一个非常重要的事情。问题表达清楚了，被提问者能够快速的定位问题、思考问题并且寻找问题的解决方案，...
+ ## [小明拿500万创业做老人智能机品牌……](http://www.woshipm.com/chuangye/2983390.html)
+ > 盈亏平衡点计算模型，这是产品未来风险的重要管控模型，能够对产品进行风险评估，及时进行战略调整。最近因为业务需要，在公司做了一份产品盈亏平衡点的计算模板，帮...
+ ## [租房分期，不仅仅是一笔生意](http://www.woshipm.com/it/2984206.html)
+ > 租房，不仅仅是一笔消费交易；租房分期，也不仅仅是一款金融产品。若只把它视作赚钱的乐园，它将示之以乱象和泥潭；唯有注入些社会责任，这个市场才能报之以利润。当...
  ## [​产品中如何把握人性--丰巢快递柜的取件流程分析](http://www.chanpin100.com/article/109772)
  > ​产品中如何把握人性,让我们向套路看齐
  ## [冷启动获取种子用户的方法](http://www.chanpin100.com/article/109773)
