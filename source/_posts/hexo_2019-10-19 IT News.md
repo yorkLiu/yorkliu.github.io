@@ -1,21 +1,23 @@
 ---
 title: 2019-10-19 IT News
 copyright: true
-date: 2019-10-19 08:00:55
+date: 2019-10-19 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [携号转网终于来了，这些事项要注意!](http://mp.weixin.qq.com/s?src=11&timestamp=1571443205&ver=1921&signature=8Mo4ylzv0rhg0yuqLX0Qg1dQvUjb2Qr8t*BQklL37ERSjpCXrMUSxniGV5BWnLCJZGZPjfEULGo4ZUhOccJMPcAY3s-gVwwVuZTk*sPXeMsQZyVIBrjNc6JsSiYQIvkQ&new=1)
+ ## [重磅：轰动全球!未来三年通信行业，会诞生一大批千万富翁!](http://mp.weixin.qq.com/s?src=11&timestamp=1571446804&ver=1921&signature=FcHJSBhFyBTYODtHjlNXgwRn3-KeMj4irOt9jjQClYGyFkiHNrNjZXCp22yFCNHWhuRuqoHZQ2uqCrgx0JfrLKeI1GHAlaDsJlF0XwEQ2L5inGk2BTuO0-xHXra60Vpj&new=1)
+ > 导读马云是中国最成功的企业家之一，虽然他的成功与时势有很大关系，可谓是时势造英雄。马云赶上了中国互联网行业的腾飞，13亿人的消费市场孕育了阿里巴巴。当然马云要有能力、眼光、毅力，才能击败亚马逊腾讯等...
+ ## [携号转网终于来了，这些事项要注意!](http://mp.weixin.qq.com/s?src=11&timestamp=1571446804&ver=1921&signature=8Mo4ylzv0rhg0yuqLX0Qg1dQvUjb2Qr8t*BQklL37ERSjpCXrMUSxniGV5BWnLCJmYGCZo1VnkmBlgz394Dvp0*GzBIh16otVG604PYXM-ODXACKIvJ4UMZNfYQJGA*d&new=1)
  > 携号转网这项服务说了很多年，但一直都没啥大动静，直到今年的政府工作报告上，才终于把全国范围的携号转网服务提上日程。并且在今年3月份，工信部还出台文件指出要深化“携号转网”业务规范办理，不得通过乱七...
- ## [\[装机帮扶站\]第519期：正版软件和盗版有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1571443205&ver=1921&signature=XsvnumgIkWsU6vM4RdV1MNFIXxjSwWNEEVEXrSi-*yGOKXlIQUlTBgTg0HIf9ETD0ZjiKd9jVG0DFLGXbL1El0r*aMePjwF4DCpPOQ4SCZGkVxAMT9Ufz7e6RjYZj9jU&new=1)
- > 【1、概念】盗版，算是一个相对敏感的话题，主要指未经著作权人同意而擅自将其作品复制发行的违法行为。总有人说，国人因为版权意识不强，所以才导致今天盗版软件泛滥的局面。我觉得“经济实力不允许你购买正版...
- ## [研究人员利用随机性来使机器人实现更复杂的目标](http://mp.weixin.qq.com/s?src=11&timestamp=1571443205&ver=1921&signature=QOiHEppz*Efw5x5UkYoSaZrwXehU49lJN1J13w855JVHgBdJgPT6bTrPS0KFyt1wZldPTAq1OM7btg4n1eqNN2aMGlxOqplg3MISOsfm6BYyYF8IIEDsFx1NN8h4EMqB&new=1)
- > 群体机器人背后的理念是利用一大堆简单、便宜、可替换的机器人来代替单一、昂贵、易损坏的单任务机器人，这些机器人可以协同工作来完成同样的任务。不幸的是，如果你想让这些群体机器人做你想让其做的事情，那么...
- ## [宽带三国杀：移动上位，联通失声，电信哭倒](http://mp.weixin.qq.com/s?src=11&timestamp=1571443205&ver=1921&signature=K0k8BS-9SKOjuV-ZMNgjXtqBqoZjbGAaDW61mzvG3*frizwE8i7s6ZOmAHHX3Ku0sDAHiVloowmhj4aLZCPkcNaSqvKnFBY2DBYRIhvVnjqyx*4x0i4yKtgjgk5wKhKw&new=1)
- > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：阿花&gt;&gt;&gt; 长在一颗小星星底下网瘾少年眼里，互联网世界最遥远的距离可能是：中移动 10086 昨天还发短信给我，要免费送一年宽带，赶快装起。而今天，移动表示，活动已取消...
- ## [首个5G电梯安全平台落地，电梯场景走向智慧化](http://mp.weixin.qq.com/s?src=11&timestamp=1571443205&ver=1921&signature=m6dHdbZvOdNgUdYUv-vSFb37PHdqKiG0ZvvWqMPGX2yAr0V19MTNyx6Hh7NJTWAYwXHjuZGuD2C0HoqBjLgkcN2oD3vX9vHcLjYbqDlHXN0zPVIQNeszO3B0ruvGYYfy&new=1)
+ ## [首个5G电梯安全平台落地，电梯场景走向智慧化](http://mp.weixin.qq.com/s?src=11&timestamp=1571446804&ver=1921&signature=m6dHdbZvOdNgUdYUv-vSFb37PHdqKiG0ZvvWqMPGX2yAr0V19MTNyx6Hh7NJTWAYbo-ERgRaggIKqtPwKwLxNr5-zyI1uMIXzDaN53iqexKS-LckRJUVlvEz8LjAkPdQ&new=1)
  > 不久前的一个晚上，因为加班回去晚了，我是公司最后一个下班离开的。但是乘坐电梯时候却发生了一件意外的事情，当电梯刚运行到第三层的时候，突然间猛地向下抖动了两下，电梯也停了，灯也熄灭了，把人吓个半死，...
+ ## [宽带三国杀：移动上位，联通失声，电信哭倒](http://mp.weixin.qq.com/s?src=11&timestamp=1571446804&ver=1921&signature=K0k8BS-9SKOjuV-ZMNgjXtqBqoZjbGAaDW61mzvG3*frizwE8i7s6ZOmAHHX3Ku06CmaVhnefz3xiwxXYcDTDT-HdoPKdEuOGo546p45UT6MiNPSdb7g9xCT6Tr8-0fP&new=1)
+ > 做最有趣有料的科技自媒体&gt;&gt;&gt; 本文作者：阿花&gt;&gt;&gt; 长在一颗小星星底下网瘾少年眼里，互联网世界最遥远的距离可能是：中移动 10086 昨天还发短信给我，要免费送一年宽带，赶快装起。而今天，移动表示，活动已取消...
+ ## [研究人员利用随机性来使机器人实现更复杂的目标](http://mp.weixin.qq.com/s?src=11&timestamp=1571446804&ver=1921&signature=QOiHEppz*Efw5x5UkYoSaZrwXehU49lJN1J13w855JVHgBdJgPT6bTrPS0KFyt1wocUp3te9tBuyjvrJPX-5Zz0ef*ChxnRBb2SengvFXtvesvsc-uPFYZTjRRTMxP7k&new=1)
+ > 群体机器人背后的理念是利用一大堆简单、便宜、可替换的机器人来代替单一、昂贵、易损坏的单任务机器人，这些机器人可以协同工作来完成同样的任务。不幸的是，如果你想让这些群体机器人做你想让其做的事情，那么...
+ ## [\[装机帮扶站\]第519期：正版软件和盗版有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1571446804&ver=1921&signature=XsvnumgIkWsU6vM4RdV1MNFIXxjSwWNEEVEXrSi-*yGOKXlIQUlTBgTg0HIf9ETDkxyUEpi2PYCof6rZcFYuTRyyU7cAJmjTKYM-FxCkXxSosHrqXhTIxcaVKFf5Ejth&new=1)
+ > 【1、概念】盗版，算是一个相对敏感的话题，主要指未经著作权人同意而擅自将其作品复制发行的违法行为。总有人说，国人因为版权意识不强，所以才导致今天盗版软件泛滥的局面。我觉得“经济实力不允许你购买正版...
 # IT 技术 
  ## [化繁为简的五种码农必备工具](http://developer.51cto.com/art/201910/604464.htm)
  > 化繁为简的五种码农必备工具
@@ -41,59 +43,65 @@ categories: IT NEWS
  > IntelliJ IDEA 超实用使用技巧分享
  ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
  > 
+ ## [亚马逊干掉Oracle数据库，谁最受伤？](https://blog.csdn.net/coderising/article/details/102617744)
+ > 亚马逊干掉Oracle数据库，谁最受伤？
+ ## [Kaggle竞赛实战系列（一）：手写数字识别器（Digit Recognizer）得分99.53％、99.91%和100%](https://blog.csdn.net/TeFuirnever/article/details/102579846)
+ > Kaggle竞赛实战系列（一）：手写数字识别器（Digit Recognizer）得分99.53％、99.91%和100%
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [备战面试旺季：2019年Android面试题整理（组件+View+线程+面经）](https://blog.csdn.net/weixin_44339238/article/details/102627325)
+ > 备战面试旺季：2019年Android面试题整理（组件+View+线程+面经）
+ ## [大数据学习之Linux基础](https://blog.csdn.net/qq_43371556/article/details/102563502)
+ > 大数据学习之Linux基础
+ ## [30秒内便能学会的30个超实用Python代码片段](https://blog.csdn.net/duxinshuxiaobian/article/details/102480959)
+ > 30秒内便能学会的30个超实用Python代码片段
  ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
  > 
  ## [HashMap(JDK1.8)源码解析](https://blog.csdn.net/ThinkWon/article/details/98845487)
  > HashMap(JDK1.8)源码解析
- ## [wildfly（JBoss AS）应用服务器快速入门](https://blog.csdn.net/wo541075754/article/details/102631880)
- > wildfly（JBoss AS）应用服务器快速入门
- ## [30秒内便能学会的30个超实用Python代码片段](https://blog.csdn.net/duxinshuxiaobian/article/details/102480959)
- > 30秒内便能学会的30个超实用Python代码片段
- ## [前端开发大师修炼指南](https://blog.csdn.net/csdnnews/article/details/102577861)
- > 前端开发大师修炼指南
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
  ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
  > C语言实现推箱子游戏
- ## [Java String 对象，你真的了解了吗？](https://blog.csdn.net/z694644032/article/details/101267830)
- > 
- ## [redis——相关问题汇总](https://blog.csdn.net/hebtu666/article/details/102580321)
- > 
  ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
  > 
- ## [Python搭建代理IP池（一）- 获取 IP](https://blog.csdn.net/weixin_44613063/article/details/102538757)
- > 
+ ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
+ > 500行代码，教你用python写个微信飞机大战
+ ## [如何一站式打造 AIoT 人才？](https://blog.csdn.net/csdnnews/article/details/102634105)
+ > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）自 2017 年物联网设备数首次超过人口数量后，据预测，到 2025 年，物联网的连接数将超过270 亿，由此...
+ ## [程序员续命指南——急需惊喜与福利](https://blog.csdn.net/csdnnews/article/details/102634097)
+ > 度过了2019年所有节假日的你是不是很想下一个假期来拥抱你来了来了他来了，我们程序员专属的节日——1024他就要来了可惜不放假猝不及防的翻车，我哭的好大声我们程序员就像是...
+ ## [应届生如何成为offer收割机？网友：他凭什么！](https://blog.csdn.net/csdnnews/article/details/102634098)
+ > 最近笔者在知乎刷到一个帖子，其中，这条回答让人印象深刻：网友回答如下：在互联网浪潮的推动下，程序员高薪的职业标签吸引越来越多人的涌入。然而对于身处其中的程序员来说，在得到...
 # 人工智能 
- ## [前端开发应知网站(强烈推荐！)](https://blog.csdn.net/weixin_43606158/article/details/91164392)
- > 前端开发应知网站(强烈推荐！)
- ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ ## [唐僧团队要裁员，你会裁谁？](https://blog.csdn.net/wangxueming/article/details/102561475)
  > 
- ## [Electron安装及打包exe](https://blog.csdn.net/fukaiit/article/details/90964319)
- > Electron安装及打包exe
- ## [开发与学习过程中常用的网站](https://blog.csdn.net/weixin_43170297/article/details/100532302)
- > 开发与学习过程中常用的网站
- ## [threejs基础学习](https://blog.csdn.net/ligaoming_123/article/details/100730614)
- > threejs基础学习
- ## [Webstorm的学习与使用一些见解](https://blog.csdn.net/hdp134793/article/details/81530472)
- > Webstorm的学习与使用一些见解
- ## [Python3.6+selenium2.53.6自动化测试_js操作内嵌DIV](https://blog.csdn.net/dengachao/article/details/97907141)
- > Python3.6+selenium2.53.6自动化测试_js操作内嵌DIV
- ## [html+jQuery实现拖动滑块图片拼图验证码插件，移动端适用](https://blog.csdn.net/u014789708/article/details/95215097)
- > html+jQuery实现拖动滑块图片拼图验证码插件，移动端适用
- ## [iframe标签（页面嵌套）](https://blog.csdn.net/weixin_44540236/article/details/92760494)
- > iframe标签（页面嵌套）
- ## [js数组遍历常用的方法](https://blog.csdn.net/weixin_44135839/article/details/101284200)
- > js数组遍历常用的方法
- ## [前端开发应知网站(强烈推荐！)](https://blog.csdn.net/weixin_43606158/article/details/91164392)
- > 前端开发应知网站(强烈推荐！)
- ## [前端系列（一）：jQuery ajax与Springboot通信将数据库数据渲染到前端表格](https://blog.csdn.net/mu_wind/article/details/94638531)
- > 前端系列（一）：jQuery ajax与Springboot通信将数据库数据渲染到前端表格
- ## [Electron安装及打包exe](https://blog.csdn.net/fukaiit/article/details/90964319)
- > Electron安装及打包exe
- ## [IDEA pycharm webstorm 2019注册码（激活码）真实可用！](https://blog.csdn.net/u013735914/article/details/97898153)
- > IDEA pycharm webstorm 2019注册码（激活码）真实可用！
- ## [前端系列（四）：layui+springboot实现表格数据增删与编辑、刷新](https://blog.csdn.net/mu_wind/article/details/97519334)
- > 前端系列（四）：layui+springboot实现表格数据增删与编辑、刷新
+ ## [5大优秀黑客必逛技术网站](https://blog.csdn.net/weixin_45439324/article/details/102565021)
+ > 5大优秀黑客必逛技术网站
+ ## [感觉自己不会的东西太多了，不知道如何下手？](https://blog.csdn.net/hollis_chuang/article/details/102542347)
+ > 感觉自己不会的东西太多了，不知道如何下手？
+ ## [出名要趁早！](https://blog.csdn.net/singwhatiwanna/article/details/102549659)
+ > 出名要趁早！
+ ## [成长的第一步是走出舒适区](https://blog.csdn.net/a724888/article/details/102548517)
+ > 成长的第一步是走出舒适区
+ ## [失败程序员的十年总结](https://blog.csdn.net/diangangqin/article/details/102531708)
+ > 失败程序员的十年总结
+ ## [新手程序员成长之路的五本必读书籍（附资源下载）](https://blog.csdn.net/duxinshuxiaobian/article/details/102386988)
+ > 新手程序员成长之路的五本必读书籍（附资源下载）
+ ## [程序员邂逅鼓励师的正确姿势！](https://blog.csdn.net/blogdevteam/article/details/102485483)
+ > 
+ ## [从阿里系跳槽国企，平薪50万被媳妇阻拦！吃亏了？](https://blog.csdn.net/julyedu/article/details/102584528)
+ > 从阿里系跳槽国企，平薪50万被媳妇阻拦！吃亏了？
+ ## [百度之星2019决赛摸鱼记](https://blog.csdn.net/Rose_max/article/details/102614317)
+ > 百度之星2019决赛摸鱼记
+ ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
+ > 
+ ## [app的本质](https://blog.csdn.net/weixin_40403930/article/details/102581591)
+ > app的本质
+ ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
+ > 对计算机专业来说学历真的重要吗？
+ ## [C语言这么厉害，它自身又是用什么语言写的？](https://blog.csdn.net/coderising/article/details/101731213)
+ > C语言这么厉害，它自身又是用什么语言写的？
+ ## [世界上最好的学习法：费曼学习法](https://blog.csdn.net/wo541075754/article/details/101554326)
+ > 
 # PM 
  ## [权限管理平台之产品设计思路](http://www.chanpin100.com/article/109771)
  > 本文为一只产品汪设计“权限管理平台”的整体规划到设计思路，“权限管理平台”而非权限管理模块，从构思到实现，难度远远大于在后台系统中的权限模块，欢迎同行朋友一起探讨！
