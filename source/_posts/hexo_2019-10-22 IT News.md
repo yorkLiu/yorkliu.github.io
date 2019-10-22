@@ -1,20 +1,22 @@
 ---
 title: 2019-10-22 IT News
 copyright: true
-date: 2019-10-22 08:00:55
+date: 2019-10-22 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [整治电视开机广告，对高度依赖广告业务的小米是重大打击](http://mp.weixin.qq.com/s?src=11&timestamp=1571702405&ver=1927&signature=FNSLEAcT16Grm2S30R2UX3sHNahZtyCiQRb5ua2fdykE9w8ahZ60WmdCMdCJj3Kq-L*JsW42Mdwcshj*igE1MHqCg6tKPUec1YtP9Kvbr1rw*TeDjOBdL3omFMpo2-dr&new=1)
+ ## [整治电视开机广告，对高度依赖广告业务的小米是重大打击](http://mp.weixin.qq.com/s?src=11&timestamp=1571706004&ver=1927&signature=FNSLEAcT16Grm2S30R2UX3sHNahZtyCiQRb5ua2fdykE9w8ahZ60WmdCMdCJj3Kq0V*ObdgjfL*PUN9zOld2C-of6lAxrIeWRosAkmIlsd3CYwas4Z8WwhrQl0dmdXRZ&new=1)
  > 江苏省消费者保护委员会已依法约谈海信、创维、夏普、长虹、小米、海尔、乐视等7家电视企业，要求提供广告一键关闭功能，这对于高度依赖广告收入的小米来说是一大打击，将对它的互联网服务收入造成重大影响。请...
- ## [数字化转型浪潮中，企业该如何保障网络安全?](http://mp.weixin.qq.com/s?src=11&timestamp=1571702405&ver=1927&signature=gqyPWweORp1H6*GrQAGN3*XGXOJ1wus7-ELa9b6aS-W81G5MICT0JhOae-ZnVwQ1RcQNJIgTp44VylRlj4c3gxJGj8JDtZfqbVOPDkomXSTtGANe2nprtGAW-GU98d*G&new=1)
- > 随着云计算、大数据、人工智能、物联网、5G等新兴技术的飞速发展，一场规模前所未有的数字化转型浪潮正在全国各行各业的企业中轰轰烈烈地上演。然而在越来越多设备连入互联网、越来越多企业开展数字化转型的同时...
- ## [汇总|2019世界VR产业大会四份虚拟现实白皮书(附下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1571702405&ver=1927&signature=0iQz2hMwCnpo0SmG4c-*X4Y-0Y9l2RUg9C6X0BGz2kaIl2IohstwfgI6387VcIPIzTYhU*mVsWTvpFmltNu0nfSUBbHQiAnuqpjl3jpImjehJQSqYHYQ6DdJyIqUQaBL&new=1)
+ ## [汇总|2019世界VR产业大会四份虚拟现实白皮书(附下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1571706004&ver=1927&signature=0iQz2hMwCnpo0SmG4c-*X4Y-0Y9l2RUg9C6X0BGz2kaIl2IohstwfgI6387VcIPI2Nv3caPvLHetYY9RvBbJK4WKBL*XJQOXKSqNXofKr5QG0UYlsAkQpOaHL1eOSBki&new=1)
  > hi188｜ 编辑在2019世界VR产业大会上，赛迪研究院发布了4篇VR系列的白皮书：1，《虚拟现实产业发展白皮书》2，《虚拟现实终端检测白皮书》3，《虚拟现实医疗应用白皮书》4，《超高清视频产业发展白皮书》青亭网...
- ## [特斯拉自动驾驶芯片封神!?福布斯：先搞定这6个问题再说](http://mp.weixin.qq.com/s?src=11&timestamp=1571702405&ver=1927&signature=wd2S2KgBlfQFbv3vlRaHoMFh04GoTqiMvMo4O13H5d8YIIGHbhwvYhnpf5eNBj4tmyEKsxIXqZ7GVZc30rpJt9wHQpkEiQyjiP2Ls4jCcaD-uemSCHLU2wXGp9RkwRot&new=1)
+ ## [数字化转型浪潮中，企业该如何保障网络安全?](http://mp.weixin.qq.com/s?src=11&timestamp=1571706004&ver=1927&signature=gqyPWweORp1H6*GrQAGN3*XGXOJ1wus7-ELa9b6aS-W81G5MICT0JhOae-ZnVwQ1ofSzKHktR1A1HrJWkAoCV5eS*GZ1-lyFzaoH36Evt3iRBYifLliZYxMBpvfMq-Yv&new=1)
+ > 随着云计算、大数据、人工智能、物联网、5G等新兴技术的飞速发展，一场规模前所未有的数字化转型浪潮正在全国各行各业的企业中轰轰烈烈地上演。然而在越来越多设备连入互联网、越来越多企业开展数字化转型的同时...
+ ## [特斯拉自动驾驶芯片封神!?福布斯：先搞定这6个问题再说](http://mp.weixin.qq.com/s?src=11&timestamp=1571706004&ver=1927&signature=wd2S2KgBlfQFbv3vlRaHoMFh04GoTqiMvMo4O13H5d8YIIGHbhwvYhnpf5eNBj4tot1ZUp0SjAPTyI1GNpcpRRln6G4jh*ywC-JzWsdIviRXWTPchT-3R8GMGCY*pxek&new=1)
  > ch共    看点：福布斯：特斯拉自动驾驶芯片的软件、成本、测试、冗余都是问题。车东西 | Juice特斯拉目前已然成为全球最顶尖的电动汽车公司之一，其在电动化和自动化方面都取得了巨大的进展。尤其在自动驾驶方面...
 # IT 技术 
+ ## [使用DC/OS为企业数据科学加速！](http://bigdata.51cto.com/art/201910/604603.htm)
+ > 使用DC/OS为企业数据科学加速！
  ## [四种正确的微服务部署方式](http://developer.51cto.com/art/201910/604596.htm)
  > 四种正确的微服务部署方式
  ## [大佬乌镇发言最全汇总：一个都不能错过](http://news.51cto.com/art/201910/604575.htm)
@@ -29,38 +31,40 @@ categories: IT NEWS
  > 终于有人把“分布式事务”说清楚了！
  ## [成为一个优秀架构师，你必须了解的30条设计原则](http://developer.51cto.com/art/201910/604592.htm)
  > 成为一个优秀架构师，你必须了解的30条设计原则
- ## [“小学生”都能破解丰巢刷脸取件？](http://ai.51cto.com/art/201910/604558.htm)
- > “小学生”都能破解丰巢刷脸取件？
+ ## [超详细的SqlServer数据库触发器总结](http://database.51cto.com/art/201910/604630.htm)
+ > 触发器（trigger）是SQL server 提供给程序员和数据分析员来保证数据完整性的一种方法，它是与表事件相关的
+ ## [物联网运输可以为您带来什么好处？](http://iot.51cto.com/art/201910/604629.htm)
+ > 专家认为，工业物联网在增长和发展方面处于领先地位，而运输业是投资物联网的第二大产业。
+ ## [我与CSDN的这十年——笔耕不辍，青春热血](https://blog.csdn.net/Eastmount/article/details/102599092)
+ > 
+ ## [学会了这些技术，你离BAT大厂不远了](https://blog.csdn.net/z694644032/article/details/100084287)
+ > 学会了这些技术，你离BAT大厂不远了
  ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
  > 程序员必须掌握的核心算法有哪些？
+ ## [100 美元一行代码，开源软件到底咋赚钱？](https://blog.csdn.net/csdnnews/article/details/102634100)
+ > 100 美元一行代码，开源软件到底咋赚钱？
+ ## [黑客入门，从HTB开始](https://blog.csdn.net/neal1991/article/details/102656213)
+ > 黑客入门，从HTB开始
+ ## [Java多线程常用方法](https://blog.csdn.net/hebtu666/article/details/102669903)
+ > Java多线程常用方法
  ## [如何通过个人博客赚钱，走上财务自由？](https://blog.csdn.net/wo541075754/article/details/102662218)
  > 如何通过个人博客赚钱，走上财务自由？
- ## [唏嘘！2019榜单出炉：铁打的Python连续3年第一，它居然跌出前十？](https://blog.csdn.net/csdnnews/article/details/102577855)
- > 唏嘘！2019榜单出炉：铁打的Python连续3年第一，它居然跌出前十？
- ## [Nginx负载均衡/SSL配置](https://blog.csdn.net/Powerful_Fy/article/details/102648436)
- > Nginx负载均衡/SSL配置
- ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
- > 500行代码，教你用python写个微信飞机大战
+ ## [别再翻了，面试二叉树看这 11 个就够了~](https://blog.csdn.net/qq_36903042/article/details/100798101)
+ > 
+ ## [系统地学习正则表达式(一)：基础篇](https://blog.csdn.net/qq_36772866/article/details/102656242)
+ > 
+ ## [快速上手Ajax【一篇文章就搞懂】](https://blog.csdn.net/weixin_44253336/article/details/102646640)
+ > 
+ ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
+ > 
  ## [重学计算机组成原理 - 异常和中断](https://blog.csdn.net/qq_33589510/article/details/102618230)
  > 重学计算机组成原理 - 异常和中断
- ## [只因写了一段爬虫，公司200多人被抓！](https://blog.csdn.net/ityouknow/article/details/102597598)
- > 
- ## [【NLP实战系列】朴素贝叶斯文本分类实战](https://blog.csdn.net/hacker_long/article/details/102656207)
- > 【NLP实战系列】朴素贝叶斯文本分类实战
- ## [唐僧团队要裁员，你会裁谁？](https://blog.csdn.net/wangxueming/article/details/102561475)
- > 
- ## [悟一下动态规划](https://blog.csdn.net/devcloud/article/details/102611016)
- > 悟一下动态规划
- ## [感觉自己不会的东西太多了，不知道如何下手？](https://blog.csdn.net/hollis_chuang/article/details/102542347)
- > 感觉自己不会的东西太多了，不知道如何下手？
- ## [996工作制，还要抽时间提升自己吗？](https://blog.csdn.net/foruok/article/details/102664657)
- > 
- ## [几道经典逻辑推理题，提高你的逻辑思考能力](https://blog.csdn.net/qq_23853743/article/details/102650927)
- > 几道经典逻辑推理题，提高你的逻辑思考能力
- ## [小白学 Python（2）：基础数据类型（上）](https://blog.csdn.net/meteor_93/article/details/102656840)
- > 
- ## [动画：用动画技巧记忆常见笔试 JS 类型转换](https://blog.csdn.net/qq_36903042/article/details/102570680)
- > 
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
+ ## [关系数据库——sql基础1定义](https://blog.csdn.net/hebtu666/article/details/102667744)
+ > 关系数据库——sql基础1定义
+ ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
+ > 500行代码，教你用python写个微信飞机大战
  ## [如何通过 Python 分析中国演员排名？](https://blog.csdn.net/csdnnews/article/details/102674985)
  > 作者 | AJ-Gordon责编 | 刘静出品 | CSDN（ID：CSDNnews）项目背景上个月笔者的一个同学开了间影视投资公司，出于对创业人员的仰慕和影视投资行业的...
  ## [《2019年数据及存储发展研究报告》十大洞察](https://blog.csdn.net/csdnnews/article/details/102674986)
@@ -72,36 +76,36 @@ categories: IT NEWS
  ## [互联网公司还要亏多久？](https://blog.csdn.net/csdnnews/article/details/102674979)
  > 作者 | 黎明本文经授权转载自燃财经（ID：rancaijing）在互联网行业，创办一家上市公司可能只需要三年，但创办一家盈利的公司，可能需要五年甚至更长时间。网易、新浪...
 # 人工智能 
- ## [飞机大战](https://blog.csdn.net/qq_43498110/article/details/102583831)
- > 飞机大战
- ## [jzoj 5904. 【NOIP2018模拟10.15】刺客信条 二分+并查集](https://blog.csdn.net/qq_44343213/article/details/102646466)
- > jzoj 5904. 【NOIP2018模拟10.15】刺客信条 二分+并查集
- ## [五子棋AI算法（一）](https://blog.csdn.net/qq_44732921/article/details/102620510)
- > 五子棋AI算法（一）
- ## [如何看懂Minecraft报错的关键信息。](https://blog.csdn.net/weixin_42576225/article/details/102635567)
- > 如何看懂Minecraft报错的关键信息。
- ## [互动媒体技术——利用p5.js实现动态图形临摹与拓展：炫彩光影的千变万化！](https://blog.csdn.net/TOCcmw99/article/details/102592565)
- > 互动媒体技术——利用p5.js实现动态图形临摹与拓展：炫彩光影的千变万化！
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
- > 
- ## [C语言实现推箱子游戏](https://blog.csdn.net/ZackSock/article/details/101645494)
- > C语言实现推箱子游戏
- ## [三国志英杰传高级玩法](https://blog.csdn.net/xinxin_2011/article/details/102652389)
- > 三国志英杰传高级玩法
- ## [一种双灰度传感器巡黑线方案：完美解决小车循迹时左右摇摆的问题](https://blog.csdn.net/qq_41748900/article/details/102641330)
- > 一种双灰度传感器巡黑线方案：完美解决小车循迹时左右摇摆的问题
- ## [智能巡逻兵](https://blog.csdn.net/abc15837998448/article/details/102647508)
- > 智能巡逻兵
- ## [NOIP2018 Day1T3 赛道修建(二分+贪心)](https://blog.csdn.net/C20180602_csq/article/details/102637607)
- > NOIP2018 Day1T3 赛道修建(二分+贪心)
- ## [python初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/102634027)
- > python初学之人机猜拳游戏
- ## [Processing实现绘制自画像](https://blog.csdn.net/weixin_44239354/article/details/102652951)
- > Processing实现绘制自画像
- ## [c  制作的植物大战僵尸，开源，一代二代结合游戏](https://blog.csdn.net/qq_40630246/article/details/102643196)
- > c  制作的植物大战僵尸，开源，一代二代结合游戏
- ## [HDU - 1847 Good Luck in CET-4 Everybody!(sg函数，水题)](https://blog.csdn.net/qq_45458915/article/details/102647422)
- > HDU - 1847 Good Luck in CET-4 Everybody!(sg函数，水题)
+ ## [下一个比特币蓄势待发，斯坦福PI Network一个国外的手机挖矿项目——“π”币，号称有可能成为手机挖矿的比特币。](https://blog.csdn.net/CBDC2020/article/details/102642226)
+ > 下一个比特币蓄势待发，斯坦福PI Network一个国外的手机挖矿项目——“π”币，号称有可能成为手机挖矿的比特币。
+ ## [LeetCode（406）：根据身高重建队列 Queue Reconstruction by Height（Java）](https://blog.csdn.net/qq_20304723/article/details/102647178)
+ > LeetCode（406）：根据身高重建队列 Queue Reconstruction by Height（Java）
+ ## [第五十五期:区块链将在2020年实现的重大改变](https://blog.csdn.net/weixin_43392489/article/details/102638184)
+ > 第五十五期:区块链将在2020年实现的重大改变
+ ## [数字资产去中心化交易平台搭建区块链跨链钱包开发](https://blog.csdn.net/ruiec999/article/details/102637989)
+ > 数字资产去中心化交易平台搭建区块链跨链钱包开发
+ ## [TTS交易所赚钱攻略](https://blog.csdn.net/ttsweb/article/details/102639537)
+ > TTS交易所赚钱攻略
+ ## [Go: 生成文档和示例代码](https://blog.csdn.net/qq_39969226/article/details/102637591)
+ > Go: 生成文档和示例代码
+ ## [Pi network新一代数字货币和智能网络合约](https://blog.csdn.net/weixin_43198340/article/details/102650989)
+ > Pi network新一代数字货币和智能网络合约
+ ## [Jenkins基础：使用NPM构建前端应用3：使用NodeJS构建前端应用](https://blog.csdn.net/liumiaocn/article/details/102634571)
+ > Jenkins基础：使用NPM构建前端应用3：使用NodeJS构建前端应用
+ ## [docker安装detectron2](https://blog.csdn.net/fengxinzioo/article/details/102636835)
+ > docker安装detectron2
+ ## [使用Advanced Installer为LabVIEW生成的exe制作安装程序](https://blog.csdn.net/jaysur/article/details/102642755)
+ > 使用Advanced Installer为LabVIEW生成的exe制作安装程序
+ ## [小米air13.3安装Ubuntu16.04，无法连接wifi的解决办法](https://blog.csdn.net/qq_36386495/article/details/102641263)
+ > 小米air13.3安装Ubuntu16.04，无法连接wifi的解决办法
+ ## [\[Lisp\] \[Scheme\]\[MacOS\]Scheme语言环境搭建](https://blog.csdn.net/ckxkexing/article/details/102609607)
+ > \[Lisp\] \[Scheme\]\[MacOS\]Scheme语言环境搭建
+ ## [xmrig病毒解决办法](https://blog.csdn.net/Javaer_dog/article/details/102649546)
+ > xmrig病毒解决办法
+ ## [记一次Go爬取小说](https://blog.csdn.net/u013710468/article/details/102640207)
+ > 记一次Go爬取小说
+ ## [Pi Network分析](https://blog.csdn.net/Xiaodaorenjia/article/details/102641946)
+ > Pi Network分析
 # PM 
  ## [都说裂变已死，那是因为你还不知道闭环分享](http://www.chanpin100.com/article/109804)
  > 2018，增长与裂变成为运营人的年度热词；但好景不长，大多数人还没弄明白逻辑，2019，微信给了裂变一记重拳……
@@ -137,7 +141,5 @@ categories: IT NEWS
  > 无论是用户端、还是产品端，都在经历着秩序的建立
  ## [假设检验—这一篇文章就够了](http://www.chanpin100.com/article/109756)
  > 本文主要讲解数据分析中常见问题：假设检验。
- ## [被游戏玩家“种草”的OLED，能否赢得显示的未来？](http://www.chanpin100.com/article/109801)
- > OLED被游戏玩家齐种草，彰显未来显示实力。
 
     
