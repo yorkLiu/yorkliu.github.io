@@ -1,7 +1,7 @@
 ---
 title: 2019-10-28 IT News
 copyright: true
-date: 2019-10-28 10:00:52
+date: 2019-10-28 12:04:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,15 +67,33 @@ SpaceX&#65306;&#23558;&#22312;&#20043;&#21518;&#19977;&#24180;&#24038;&#21491;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [智能用户数据中台背后，易观的蝶变与洞见](http://mp.weixin.qq.com/s?src=11&timestamp=1572228005&ver=1939&signature=d-KiBKUeqOJTKL61jjMCdFZ50-ehSjOZeJInqh3*BkcJSqNxKTlAHtpURGV6TaAcV9WG7CRQ1ac7FaskbbZZusM5EkngbIti6aXYsRMiMAi--nfu*luYqAa14zTaJjRw&new=1)
+ ## [滥用病毒扫描程序会暴露数据?](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=HFEbAhZ9hkEiDpQD74q5UbvPrpt4QsxjrSk8eek1ohlrYmwPdEYUSpSPouuBjCZ0DxSI639-1KjPMbu8-4H2vT0BIyBX*0DWRi7ASIX1Koq483ZIkr2-OC7wAnIjBI2M&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，以色列网络安全公司OTORIO的安全分析师发现，有公司滥用Alphabet子公司Chronicle的杀毒软件VirusTotal来扫描文档，从而导致其工厂蓝
+ ## [用户体验设计的9个未来趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=3LTHrM*4QG7hWTp7fqZ5FjggWcI2hfdEQckU-GdP86Ab4t-PkZ3ALgtPyOI6enC1hqy71jOKW8skI7zP4XgJG4PiZyqvjsQXxElgRt8RFTXjUVl8REJ6hOsMFFHEXcuw&new=1)
+ > 投稿邮箱：iidc@iidc.org.cn设计趋势是一个永不终结的话题，笔者探索总结了用户体验设计的相关趋势，供大家参考和学习。技术正在经历一场革命，产品用户体验甚至UX设计行业也是如此。每年都在技术和用户体验方面...
+ ## [腾讯首次攻破屏下指纹识别技术；苹果新Mac Pro最贵将卖到4.2万；Haxe 4.0发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=Hwu8kLQlyVp7v6qUGwXD-yod6Mskh8njD*YSEM1e9AgpElvVQFPJGWCBcN-7hDGHAiocumH4vcwEhJ9Zd2p5RRZDyIBLSe5daOWrN0Are6-FRJGC28JFPGIHAjb8RAPq&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [习近平主持中央政治局第十八次集体学习并讲话](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=ut9RKKgPHpunx2cvcI0V94Sj54VTgO3LN9Zo62L65JkKI1kn1VzdAOowDk9kO8YmYx9yqBUdPlMlEEIHrwut0s4jVR4r1TABJx4DBUSEpGINNBGGCh77Vwkf-mTeZ6gt&new=1)
+ > 中共中央政治局10月24日下午就区块链技术发展现状和趋势进行第十八次集体学习。中共中央总书记习近平在主持学习时强调，区块链技术的集成应用在新的技术革新和产业变革中起着重要作用。我们要把区块链作为核心技...
+ ## [年薪百万的技术专家都是怎么炼成的?这份微软“秘笈”请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=wzL8JEBUDYzRuAr7pg4DQo5TEnDXyzm9ErgP96Kl3NfSszivcokiLM*7Y25YEtV8YIMWELtLb-*SRrx0GufclcZBfM-hS2Up6UI4eby8Sy7R8MVQcxRkGpqcWNJhVSMK&new=1)
+ > （本文阅读时间：6分钟）话说有江湖的地方就有圈子有圈子的地方就有鄙视链有的圈子鄙视链错综复杂甚至可以细分出多条链路...比如在IT界的圈子里程序猿们就划分出了不同的阵营坊间流传出的程序猿鄙视链是这样的.....
+ ## [集采|广西移动启动2019年康宁G.655光纤光缆采购 规模约302皮长公里](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=2ECL90POL9rmgRSNy4*tC7sPowGSW*imVV8i*rFNoE7H3wrli95HABsrObVrg46LDwNxNUwxpQCADV0oavIvHCZ-gmzBjvFaAbMnGmnAPUGpVUYNpGYhoU*7cYvguI8k&new=1)
+ > 导读     广西移动发布2019年康宁G.655光纤光缆产品采购项目(第三次)竞争性谈判采购公告，项目不划分标包，预估采购规模为302皮长公里，成交人数量为1个，成交份额100%，不设置最高限价。框架协议有效期从签订之...
+ ## [\[科技早报7点整\]男子关灯玩手机致左眼短暂失明 腾讯称1000元就可攻破多种指纹识别……](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=hcc-bLnwBW0NviTHNYJit4BdtartviBvMxorEvO9vCzbQP*YSHjIYm*cnSN6ZrVT7BgBN2fCQQZN-I5s3s9ow6x1Fduf4rks9VbNpQvkD*e7vg8BLa3W2BMHOeA1lWHU&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第625期1.周鸿祎婚礼现场打广告：想不被偷拍用360手机卫士10月27日，360集团举行第七届员工集体婚礼，周鸿祎谈到新婚新人度蜜月住酒店时要小心被偷拍，360手机卫士在手，可安心...
+ ## [意念涨停!这么多区块链概念股，谁的“含链量”最高?](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=8MXglaOQx9PrUGgtrMymyZ-y004i9kfGSjot6yqqdnaYm8mzo95Y9FnXtz5ICXv9PE5elgHO2r0fIzRp12xpQ51VffVmuFVDS8ctsNhDq3EdrinRydCSMHbSQnujYPT-&new=1)
+ > 周五晚间传来的关于区块链的大消息，让美股中的迅雷一夜翻番。与此同时，很多A股区块链概念股已经“意念涨停”，不少公司也在主动放出与区块链有关的信息。让我们来仔细看看，哪些概念股的“含链量”更高？区块...
+ ## [智能用户数据中台背后，易观的蝶变与洞见](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=d-KiBKUeqOJTKL61jjMCdFZ50-ehSjOZeJInqh3*BkdgbU5xVxjbXhvQpNQGAp*yAby6GXbqYtWZSUX-l4l3iF68T7mOzlDMeCcE0hkWNIJU4xkPSQsreMdYvlGNbwLj&new=1)
  > 某诞生于日本京都的工业自动化企业，在中国家用医疗设备市场占据龙头地位，却在今天全球数字化趋势下，受困于如何提升使用者APP的绑定率和转化。抛开部分用户老龄化问题，该企业一直在解决如何让年轻用户迁移到...
- ## [自由携号转网定了!附三大运营商优惠表](http://mp.weixin.qq.com/s?src=11&timestamp=1572228005&ver=1939&signature=*TNxeaiE3aw-bqBtcsluDnRF*6EWkEpCtTeqCyR968Qq1dWVh*Asw7UOZukDZL6pkmoHLMVwFRbkDe7FNLNthNInIQUUy8y2WWCga7JulpI6IKVAtB5DNBv4aYdfX6zX&new=1)
+ ## [自由携号转网定了!附三大运营商优惠表](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=*TNxeaiE3aw-bqBtcsluDnRF*6EWkEpCtTeqCyR968T3s7R9YsQ3DBlisdvNqyV7qF5DBpuQXOaImKcoBfGMg8t1zyvdXA3RS0Fpa2JtNiSTmp*h2auevjGy6reFdpTz&new=1)
  > 工信部相关负责人10月22日在国新办发布会上表示，现在，携号码转网站系统改造已完成，正在中国范围内联调联测。11月底前中国范围内正式提供“携号码转网站”服务。天津市、江西省、海南省、湖北省、云南省5个省...
- ## [挑战华为海思，星宸科技欲夺下IPC芯片市场第一宝座!](http://mp.weixin.qq.com/s?src=11&timestamp=1572228005&ver=1939&signature=sQEkaZMv2VS5NPK3Y2v8aHxdkpq1EqJhnE2qmqYBeYlqgWCq*eO5QnMbpWK1UHQhZChSjonpbqo80lwWaG9oulbtMIqxz-YC2E--hGDUNJl36in42KIUe0CBtOQffYW2&new=1)
+ ## [挑战华为海思，星宸科技欲夺下IPC芯片市场第一宝座!](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=sQEkaZMv2VS5NPK3Y2v8aHxdkpq1EqJhnE2qmqYBeYkCvhlvpJAGlndzo4Dv6RQnWoWP9vwIlQOWzrqsn5FaiHnSrERO7V5g2cP8p1c0Zl88Cy1p6IqXFV3epP7MyGPh&new=1)
  > 10月27日，国内领先的AI Camera系统芯片及解决方案供应商星宸科技（SigmaStar）在深圳举行了以“Leading AI Everywhere”为主题的2019新产品发布会，现场发布了三大产品线的AI芯片新品。商汤科技、艾为智能
- ## [全球首个6G白皮书出炉，7大维度看6G的驱动力与挑战\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1572228005&ver=1939&signature=x3I9FCtXPXYgXUZvzQIsb4*jlHMROOEOwXiF9GeDWapzzWIk6OE2NEJTMPadp4o-Q3rzZRIRiomfwWUepPufSA0nQ-kPTdvOgNa7o9mwNZHwbWnr1FpABawBku8X5kJi&new=1)
+ ## [全球首个6G白皮书出炉，7大维度看6G的驱动力与挑战\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1572235205&ver=1939&signature=x3I9FCtXPXYgXUZvzQIsb4*jlHMROOEOwXiF9GeDWapPtleeQ8gLQb7RUNbIzA-FwAKhqDWz1RBGKyIX6k3h-aAMUOnlf2wuYoeTXAxvbeGecmI8jRGlzb4p6PIpLcUA&new=1)
  > 看点：从七个方面全方位分析6G的驱动因素 、 研究需求 、 挑战和问题等。随着5G逐渐走进千家万户，成为全球标准技术，研究人员必须集中精力开发下一代通信技术，即第六代通信技术6G。按照历史的经验来看，无线通...
 # IT 技术 
+ ## [最近程序员频繁被抓，如何避免面向监狱编程？！](http://zhuanlan.51cto.com/art/201910/604969.htm)
+ > 最近程序员频繁被抓，如何避免面向监狱编程？！
  ## [Keep突然大裁员，回应称“属正常调整”！](http://news.51cto.com/art/201910/604949.htm)
  > Keep突然大裁员，回应称“属正常调整”！
  ## [MySQL性能优化之骨灰级，高阶神技 ！](http://database.51cto.com/art/201910/604945.htm)
@@ -90,26 +108,26 @@ SpaceX&#65306;&#23558;&#22312;&#20043;&#21518;&#19977;&#24180;&#24038;&#21491;&#
  > 盘点AI十大应用领域，看看有你的专业吗？
  ## [管理 | 成功领导远程IT团队的7个技巧](http://developer.51cto.com/art/201910/604870.htm)
  > 管理 | 成功领导远程IT团队的7个技巧
- ## [英国建设下一代IOT基础设施的历史机遇和挑战](http://iot.51cto.com/art/201910/604833.htm)
- > 英国建设下一代IOT基础设施的历史机遇和挑战
- ## [Pylint：让你的Python代码保持一致](http://developer.51cto.com/art/201910/604947.htm)
- > Pylint 是更高层级的 Python 样式强制程序。而 flake8 和 black 检查的是“本地”样式：换行位置、注释的格
- ## [区块链成重要突破口，与币圈无关却与5G有关联](http://news.51cto.com/art/201910/604943.htm)
- > 几乎是一夜之间，区块链就成了更热门的话题，此前，如果我们还在说“物联网、大数据、云计算、人工智能和 5
- ## [OpenJS基金会推出Node.js证书，JS开发者可以“考证”了](http://news.51cto.com/art/201910/604941.htm)
- > OpenJS 基金会近日在其官方博客公布了最新启动的专业认证计划。据介绍，此项认证计划重点关注 Node.js 开
- ## [物联网如何帮助残障人士](http://iot.51cto.com/art/201910/604936.htm)
- > 物联网的出现有望改善残障人士的无障碍性，进而改善数百万人的生活。让我们来看一看物联网为残障人士带来美
- ## [物联网如何推动新服务时代的变革](http://iot.51cto.com/art/201910/604935.htm)
- > 事实上，物联网正在推动现场服务新时代的变革，在这个时代里，客户体验正在成为最终的战略差异化因素。
- ## [QQ for Linux 复活，微信 for Linux 还会远吗？](http://news.51cto.com/art/201910/604940.htm)
- > 腾讯突然发布了沉寂多年的 QQ for Linux 新版本，引起了一阵欢呼。有网友分析腾讯赶在 1024 这个程序员的节
- ## [学生防止黑客入侵的9大技巧](http://netsecurity.51cto.com/art/201910/604934.htm)
- > 互联网的兴起给人们的教育带来了巨大的好处。但是，这也使人们成为黑客和敏感信息盗窃的目标，这就是为什么
- ## [AWS 败了！微软中标 700 亿元的 JEDI 云计算超级大单](http://news.51cto.com/art/201910/604950.htm)
- > 美国五角大楼周五声称，在竞相为美国国防部提供公共云资源的激烈竞争中，微软击败了市场领头羊 AWS，成为了
- ## [Chrome OS 80 将可以直接构建 Android 应用](http://news.51cto.com/art/201910/604944.htm)
- > 在近期 Android Dev Summit 上，Chrome OS 团队宣布 Chrome OS 80 将使 Chromebook 可以直接构建 Android
+ ## [什么是Docker？与虚拟机有什么区别？](http://developer.51cto.com/art/201910/604981.htm)
+ > Docker 是一个开源的应用容器引擎，让开发者可以打包他们的应用以及依赖包到一个可移植的容器中，然后发布
+ ## [内存崩溃了？其实你只需要换一种方式](http://developer.51cto.com/art/201910/604980.htm)
+ > 在上一篇 Java 多线程爬虫及分布式爬虫架构探索 中，我们使用了 JDK 自带的 Set 集合来进行 URL 去重，看上
+ ## [漫画：什么是公有云、私有云和混合云？](http://cloud.51cto.com/art/201910/604971.htm)
+ > 为了方便大家理解，我们尽量用通俗的语言和举例子的方式讲解，并且文中还配备了漫画供大家参考学习。
+ ## [7个Python特殊技巧，助力你的数据分析工作之路](http://developer.51cto.com/art/201910/604973.htm)
+ > 如何提升数据分析能力？Peter Nistrup 根据自身经验列出了 7 个有用工具。本文列举了一些提升或加速日常数
+ ## [带领国产数据库走向世界，POLARDB底层逻辑是什么](http://zhuanlan.51cto.com/art/201910/604966.htm)
+ > 在刚刚结束的乌镇世界互联网大会上，阿里云自主研发的POLARDB云原生数据库当选世界互联网领先科技成果，凭
+ ## [聊聊关于Redis中16个默认数据库的知识](http://stor.51cto.com/art/201910/604961.htm)
+ > Redis是一个字典结构的存储服务器，一个Redis实例提供了多个用来存储数据的字典，客户端可以指定将数据存储
+ ## [最近程序员频繁被抓，如何避免面向监狱编程？！](http://news.51cto.com/art/201910/604963.htm)
+ > 最近，有很多关于程序员被抓甚至被判刑的新闻在朋友圈疯传：&quot;某程序员因为接了个外包，帮别人写了个软件，
+ ## [分布式技术“上位”进行时](http://news.51cto.com/art/201910/604956.htm)
+ > 分布式技术，作为一种专门针对海量数据场景的解决方案，就成为了一剂“特效药”。在基础“疗效”之外，更关
+ ## [Python小工具：3秒钟将视频转换为音频](http://developer.51cto.com/art/201910/604957.htm)
+ > 最近，有读者微信上私聊我，想让我写一篇视频批量转换成音频的文章，我答应了，周末宅家里把这个小工具做出
+ ## [被新闻刷屏了的区块链 它到底是个啥？](http://news.51cto.com/art/201910/604954.htm)
+ > 可能有一些读者有疑问，“区块链”到底是什么？为什么会这么受重视呢？今天，小编就来带大家一起了解一下
  ## [大学四年，看过的优质书籍推荐](https://blog.csdn.net/m0_37907797/article/details/102685204)
  > 大学四年，看过的优质书籍推荐
  ## [Python 调试冷知识](https://blog.csdn.net/csdnnews/article/details/102693778)
@@ -137,74 +155,112 @@ SpaceX&#65306;&#23558;&#22312;&#20043;&#21518;&#19977;&#24180;&#24038;&#21491;&#
  ## [冷眼看中国IT20年发展史](https://blog.csdn.net/BEYONDMA/article/details/102764529)
  > 冷眼看中国IT20年发展史
  ## [10月26日科技资讯|滴滴出行回应导航崩了；微信支付正式上线「向手机号转账」功能；Guns 6.0 发布 | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/102754103)
- > 10月26日科技资讯|滴滴出行回应导航崩了；微信支付正式上线「向手机号转账」功能；Guns 6.0 发布 | 极客头条
+ > 
  ## [单点登录（SSO）](https://blog.csdn.net/u011225629/article/details/102756288)
  > 单点登录（SSO）
+ ## [国际顶级学界业界大咖云集，9 场技术论坛布道，2019 嵌入式智能国际大会强势来袭！...](https://blog.csdn.net/csdnnews/article/details/102774314)
+ > 2019 嵌入式智能国际大会即将来袭！购票官网：https://dwz.cn/z1jHouwE2019年12月6日-8日，2019嵌入式智能国际大会将在深圳华侨城洲际大酒...
  ## [不同业务场景下如何进行数据库水平切分？](https://blog.csdn.net/csdnnews/article/details/102774322)
  > 很多互联网业务，有着数据量大的特点，随着数据量的逐步增加，数据库逐渐成为系统的瓶颈。主从同步读写分离的架构方案只能提升数据库的读性能，对单库数据量的膨胀，以及写性能的瓶颈...
+ ## [程序员为什么非得参加一场编程竞赛？](https://blog.csdn.net/csdnnews/article/details/102774323)
+ > 对于程序员来说，没有参加过编号竞赛的人生是不完整的？作者 |Codersera译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：众所...
  ## [开源项目到底归谁管？](https://blog.csdn.net/csdnnews/article/details/102774318)
  > 致敬为免费提供开源软件而辛苦劳作的开发人员。作者 |JOEL M. MOSKOWITZ译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：当你购买利浦Hue的智能灯或iPhone之类的产品时，你可能会认为编写代码的人获得了报酬。对于直接编写产...
+ ## [2019年程序员薪酬报告：平均年薪超70万！40岁后，这类人不“保值”了](https://blog.csdn.net/csdnnews/article/details/102774319)
+ > Hired 近日发布了《2019 年度薪酬状况报告》，重点结论如下：仅有 23% 的硕士 / 博士表示，高学历带来了高薪，大部分人表示学历不是全部76% 的技术工作者认为...
+ ## [亚马逊的现代应用程序为何这么强大？](https://blog.csdn.net/csdnnews/article/details/102774321)
+ > 创新已经渗透到了亚马逊的DNA中......本文就从微服务、专用数据库、自动化软件发布管道、无服务器操作模型、以及自动化和安全性这五个方面介绍下亚马逊是如何利用应用程序开...
  ## [上海梦醒互联网](https://blog.csdn.net/csdnnews/article/details/102774315)
  > 二十年梦醒，上海的互联网力量开始崛起。作者 |子雨本文经授权转自新摘商业评论“克勒文化”盛行的上海，似乎没大有肥沃的互联网土壤。易趣，大众点评，土豆，饿了么等一众本土互联网企业接连遭遇被卖或关停的结局似乎也佐证了这一点。曾几何时，在野蛮生长，草莽遍地的中国互联网发展史中，海...
  ## [我们凭什么相信 5G 很安全？](https://blog.csdn.net/csdnnews/article/details/102774316)
  > 2G-4G采用的蜂窝技术使用的是微波，而最新的5G蜂窝技术将首次使用毫米波，这将会导致很多人暴露于毫米波辐射之下！作者 |JOEL M. MOSKOWITZ译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：电信行业及其专家指责科学家说，他们...
  ## [你想进BAT吗？告诉你一个秘密，面试成功率能提高到99%！](https://blog.csdn.net/csdnnews/article/details/102774317)
  > 但凡去过大厂面试的人都知道：数据结构面试题必考！而小作坊走出来的小猿，项目经验并不出彩，没有高并发，没有分布式，前端后台服务器和数据库部署在同一台机器上。如果数据结构基础...
- ## [5G伊始，长城宽带或退出宽带市场，千万用户将被甩卖](http://www.lanjingtmt.com/news/detail/44684.shtml)
+ ## [小米将发布CC 9 Pro，1亿像素手机将量产](http://lanjingtmt.com/news/detail/44687.shtml)
+ > 小米手机官方微博宣布，小米CC 9 Pro确认将于11月5日发布，从微博海报来看，小米CC 9 Pro将配备高达1亿像素的相机，这也意味着1亿像素的手机将量产。
+ ## [完美世界Q3净利润4.55亿元，同比降低15%](http://lanjingtmt.com/news/detail/44686.shtml)
+ > 完美世界披露2019年三季报，报告显示，完美世界第三季度营业收入为人民币21.55亿元，同比增长16.77%；归属上市公司股东的净利润为人民币4.55亿元，同比降低15%。
+ ## [5G伊始，长城宽带或退出宽带市场，千万用户将被甩卖](http://lanjingtmt.com/news/detail/44684.shtml)
  > 曾是国内最大民营宽带运营商的长城宽带，近年来业绩连年下滑，投诉量高居不下，经常出现无故断网、实际网速慢、退费不受理等问题。
 # 人工智能 
- ## [Excel，python全都靠边站，这才是数据分析应该有的样子](https://blog.csdn.net/yuanziok/article/details/102717251)
- > Excel，python全都靠边站，这才是数据分析应该有的样子
- ## [GeoServer入门学习：01-开篇](https://blog.csdn.net/gjysk/article/details/102749262)
- > GeoServer入门学习：01-开篇
- ## [扒一扒编程语言排行榜](https://blog.csdn.net/coderising/article/details/102674945)
- > 扒一扒编程语言排行榜
- ## [Hadoop 平台伪分布式模式的构建部署过程？！值得推荐！！](https://blog.csdn.net/weixin_43236191/article/details/102758614)
- > Hadoop 平台伪分布式模式的构建部署过程？！值得推荐！！
- ## [大数据学习之Linux基础](https://blog.csdn.net/qq_43371556/article/details/102563502)
- > 大数据学习之Linux基础
- ## [linux配置本地yum源及网络yum源详细步骤](https://blog.csdn.net/CenCenNA/article/details/102748845)
- > linux配置本地yum源及网络yum源详细步骤
- ## [Docker安装与基础命令](https://blog.csdn.net/qq_43190579/article/details/102757268)
- > Docker安装与基础命令
- ## [什么是大数据 小白必看](https://blog.csdn.net/qq_41369191/article/details/102749622)
- > 什么是大数据 小白必看
- ## [OpenStack 虚拟机热迁移流程图](https://blog.csdn.net/Jmilk/article/details/102757277)
+ ## [安全之路笔记-JDBC对SQL注射的防御](https://blog.csdn.net/weixin_44047795/article/details/102763852)
+ > 安全之路笔记-JDBC对SQL注射的防御
+ ## [不就是SELECT COUNT语句吗，竟然能被面试官虐的体无完肤](https://blog.csdn.net/hollis_chuang/article/details/102657937)
  > 
- ## [seq命令详解](https://blog.csdn.net/lizhimingbdr/article/details/102755112)
- > seq命令详解
- ## [Hive解析Json格式用户日志](https://blog.csdn.net/weixin_45395090/article/details/102747370)
- > Hive解析Json格式用户日志
- ## [学会了这些技术，你离BAT大厂不远了](https://blog.csdn.net/z694644032/article/details/100084287)
- > 学会了这些技术，你离BAT大厂不远了
- ## [hadoop、spark各大数据组件介绍](https://blog.csdn.net/qq_36632174/article/details/102461682)
- > hadoop、spark各大数据组件介绍
- ## [Python程序员表白](https://blog.csdn.net/Yellow_python/article/details/88415433)
- > Python程序员表白
- ## [linux-在cenos上安装大全(nginx/JRE/maven/Tomcat/MYSQL/redis/kafka/es...)](https://blog.csdn.net/hebtu666/article/details/81279572)
- > linux-在cenos上安装大全(nginx/JRE/maven/Tomcat/MYSQL/redis/kafka/es...)
+ ## [MySql数据库学习(一)](https://blog.csdn.net/zkkkkkkk/article/details/102704195)
+ > MySql数据库学习(一)
+ ## [运维与实施课表2](https://blog.csdn.net/qq_28189423/article/details/102523156)
+ > 运维与实施课表2
+ ## [MySQL查询与数据库设计 万能公式 思维导图 MySQL查询 数据库设计规范](https://blog.csdn.net/weixin_44925501/article/details/102714785)
+ > MySQL查询与数据库设计 万能公式 思维导图 MySQL查询 数据库设计规范
+ ## [IDEA 链接数据库](https://blog.csdn.net/sunnyzyq/article/details/102756342)
+ > IDEA 链接数据库
+ ## [MyBatis--配置文件详解](https://blog.csdn.net/cold___play/article/details/102753127)
+ > MyBatis--配置文件详解
+ ## [MyEclipse中jsp连接SQL server，MySQL，Oracle数据库实现用户登录操作](https://blog.csdn.net/weixin_43629997/article/details/102759425)
+ > MyEclipse中jsp连接SQL server，MySQL，Oracle数据库实现用户登录操作
+ ## [拆解跨天时间(mysql游标循环)](https://blog.csdn.net/liminghui4321/article/details/102763052)
+ > 拆解跨天时间(mysql游标循环)
+ ## [面试官:谈谈你对mysql索引的认识？](https://blog.csdn.net/fujiandiyi008/article/details/102617916)
+ > 
+ ## [c3p0连接池基础知识（自用）（待补充）](https://blog.csdn.net/weixin_45348687/article/details/102760429)
+ > c3p0连接池基础知识（自用）（待补充）
+ ## [数据库  Oracel  时间转化](https://blog.csdn.net/qq_36511401/article/details/101344885)
+ > 数据库  Oracel  时间转化
+ ## [JAVA+MYSQL+CSV用正则表达式获取CPU天梯分数](https://blog.csdn.net/moshowgame/article/details/102764989)
+ > JAVA+MYSQL+CSV用正则表达式获取CPU天梯分数
+ ## [ZetCode 数据库教程](https://blog.csdn.net/wizardforcel/article/details/102761237)
+ > ZetCode 数据库教程
+ ## [springboot中application.properties文件redis的配置](https://blog.csdn.net/qq_42859864/article/details/102761785)
+ > springboot中application.properties文件redis的配置
 # PM 
- ## [用户信任产品的三种途径](http://www.woshipm.com/user-research/2185505.html)
- > 一个产品想要为用户提供好的服务，进而提高用户体验，首先要让用户信任这个产品。那么，有哪些途径可以建立用户对于产品的信任感？使用联系方式注册我们的产品；向...
- ## [门店新零售之战：下沉市场门店经营的阵痛与神圣一战](http://www.woshipm.com/newretail/3020559.html)
- > 由于工作关系，对线下门店的接触比较多，见过许多老板，尤其是身在四线、五线城镇的老一辈创业者们。他们或从夫妻小店开成一个割据一方的大店面，乡镇的人们更愿意亲切...
- ## [营销自动化系统实践（1）：什么是营销自动化？](http://www.woshipm.com/pd/3013469.html)
- > 本文为如何搭建营销自动化系统系列的首篇文章，主要从营销自动化系统的客户画像、核心场景、核心价值这三方面来完成这款产品的定义。从本文开始，笔者将以系列文章的...
- ## [字节跳动这七年，重建BAT或成必然？](http://www.woshipm.com/it/3014243.html)
- > BAT还是BAT，但是有些事情已经变了。在中国互联网世界，以百度、阿里、腾讯为组合的“BAT”是三座不可逾越的高山，但随着移动互联网的推进，这种格局正在被重构。进入...
- ## [消费群体细分的3个误区和2个原则](http://www.woshipm.com/operate/3017663.html)
- > 在实践定位理论的企业中，有的成效显著，有的不甚理想。实践成果千差万别的原因在于对定位理论的理解程度，生搬硬套很难有成效。我们从实践中发现，哪种定位概念火，企...
- ## [产品设计，从同理心开始](http://www.woshipm.com/pd/3018634.html)
- > 同理心对设计师来说很重要，尤其是对设计思考者来说，因为它让设计师真正理解和发现用户的潜在需求和情感。同理心（移情）是设计思维和以人为本设计的重要元素。同理...
- ## [运营人的破局与进阶：杠杆化思维](http://www.woshipm.com/operate/3020013.html)
- > 很多人说，运营的工作就是一个打杂的活，复杂的事情多，什么工作都做，不受重视。努力做的事领导永远都看不到，做不好的会被骂的狗血淋头 。在日常工作中，运营如果找不...
- ## [平台数据API对接：产品推进4步走](http://www.woshipm.com/pd/3013990.html)
- > 笔者从平台数据对接出发，一步步梳理了产品推进的路线图：确认业务数据需求、确认关键技术方案、完善产品需求文档，展示了数据从获取到展示的流转过程。业务背景：平...
- ## [你们公司需要怎样的产品经理？](http://www.woshipm.com/pmd/3019974.html)
- > 市场下沉，垂直细分，这些不知何时流行起来的词汇，代表了近些年商业发展的趋势。对于产品经理这个岗位，亦是如此。电商产品经理、社交产品经理、金融产品经理、数据产...
- ## [外卖私域流量：微信社群的运营和羊毛经济](http://www.woshipm.com/operate/3017742.html)
- > 在私域流量的概念依旧横扫所有买卖关系的今时，独立的品牌的社群运营或都早已成熟而常态化，而外卖作为一个BC两端日常渗透在每条大街小巷、拥有极大体量和极高频交互的...
- ## [网络营销：品牌互动营销的传播关键是什么？（附案例分析）](http://www.woshipm.com/marketing/3014780.html)
- > 互动营销，内容为王。只要企业能够稳定且高效的输出优质的内容，目标人群便会自发的聚集起来，随后通过具象的活动，引爆“流量”，使群众形成参与性狂欢，最终营销转化也...
+ ## [文案第11讲 | 好的广播文案，长这个样子](http://www.woshipm.com/copy/3021178.html)
+ > 如何做出好的广播文案呢？笔者归纳了三条经验——寻找好载体、发掘好创意、掌握好节奏。“道路千万条，安全第一条，行车不规范，亲人两行泪”。2019年，《流浪地球》爆火...
+ ## [当产品经理在卖场做产品测试……](http://www.woshipm.com/pmd/3020217.html)
+ > 当一个出入写字楼，整天写需求的产品经理到人流嘈杂的卖场做起产品测试，他会不会得心应手？到公司，打卡，落座工位。匆匆吃完早饭，打开电脑，看邮件，看今天的todo...
+ ## [Vlog之火，将烧往何方？](http://www.woshipm.com/it/3014430.html)
+ > 自从欧阳娜娜带火Vlog这一短视频形式后，不少人期待Vlog成为下一个风口，但是几年过去了，Vlog并没有人们想象中那样大热。在继15s短视频之后，Vlog作为当下最新鲜的内...
+ ## [系统登录的三种方式，哪一种更安全？](http://www.woshipm.com/pd/3020184.html)
+ > 登录是一个高频的动作，笔者抓住这一个小点，分析了系统登录的几种方式和对应的场景。今天谈谈登录。登录即用户输入用户名和密码登录进系统中。B端系统，对于登录的...
+ ## [可用性错误：来自用户体验设计师的6个建议](http://www.woshipm.com/pd/2979772.html)
+ > 我经常想，如何花费极少的精力避免可用性错误。在做了这么多项目之后，我意识到在我准备设计一件东西之前，我犯了很多常见的错误。当我专注于设计时，可用性问题已经悄...
+ ## [造梦迪士尼：现实、童话与名利场的共谋](http://www.woshipm.com/it/3018771.html)
+ > 庞大的迪士尼商业帝国，不止于童话。邮编CA91521，美国加州，伯班克市南布埃纳维塔街500号。一幢红褐色，罗马宫殿风格的大楼伫立于此，外墙正面是7个小矮人的大型石...
+ ## [3个关键点，聊聊我对产品思维的分析与思考](http://www.woshipm.com/pmd/3017483.html)
+ > 常常听到说产品经理要有产品思维，那么，什么是产品思维？笔者对这一问题进行思考，并从三个方面阐述了自己对产品思维的理解，与大家分享。好像从移动互联网时期开始...
+ ## [产品分析报告：爱奇艺，打造“苹果园”生态系统](http://www.woshipm.com/evaluating/3018784.html)
+ > 笔者以一个产品新人的角度，从市场分析、用户分析、产品分析、商业模式、用户反馈五个维度，对爱奇艺进行浅析与展望。产品名称：爱奇艺 V10.8.0体验机型：OPPO R11 ...
+ ## [小红书商业化之路猜想](http://www.woshipm.com/operate/3018034.html)
+ > 小红书翻身仗打得漂亮，未来将探寻更多、更合适变现道路。2019年是小红书商业化的关键年。截止6月6日，小红书月活用户量突破8500万，注册用户数突破2亿。背靠潜力如...
+ ## [揭秘分享 | 汽车金融细分风控场景和反欺诈策略](http://www.woshipm.com/data-analysis/3017803.html)
+ > 笔者从汽车金融的市场规模出发，对具体的风控场景、反欺诈策略等进行了系统的分析，希望通过此文能够加深你对汽车金融反欺诈的认识。我们今天说的汽车金融相关内容，...
+ ## [实例分析：产品运营是如何养孩子的？](http://www.woshipm.com/operate/3016649.html)
+ > 我用过去的90天时间，尝试去解决一个问题：产品运营是什么？人们都说产品经理生孩子，产品运营养孩子，很通俗形象地表明产品与运营的关系；那我下面便从养孩子的角度，...
+ ## [从用户角度分析“什么是运营”](http://www.woshipm.com/operate/2412982.html)
+ > 本文将从用户、用户价值、用户运营三个角度，分享笔者理解中的运营是什么？上一篇文章发完，有同学私下跟我说自己虽然入职写的运营岗位，但在工作之后产生了不知道自...
+ ## [浅谈B端产品设计-总览篇](http://www.chanpin100.com/article/109852)
+ > 总览在手，天下我有。
+ ## [世界上最好的学习法：费曼学习法](http://www.chanpin100.com/article/109851)
+ > 告诉你一个世界上最好的学习方法，如果你还不知道的话。
+ ## [CRM产品平台的设计](http://www.chanpin100.com/article/109850)
+ > 目前我所设计的是营销CRM平台，关注线上线下的会员一体化的数据贯通，及会员数据分析。平台模块会分3大块，会员用户画像管理、会员忠诚度管理、会员数据分析共3块内容。
+ ## [交互设计指南—网页的“搜索”功能该如何设计？](http://www.chanpin100.com/article/109849)
+ > 如果一个网站的内容没有很好地组织，搜索按钮就是一个关键的导航工具。
+ ## [业务建模--竞争优势](http://www.chanpin100.com/article/109848)
+ > 企业利润=需求-设计，厮杀的红海时代早已开启。能带来竞争优势的业务建模，你值得拥有
+ ## [营销自动化系统实践（一）：什么是营销自动化](http://www.chanpin100.com/article/109847)
+ > 按标准产品工作流程逐步介绍如何搭建营销自动化系统
+ ## [社交这一片红海：盘点19个小众社交APP](http://www.chanpin100.com/article/109846)
+ > 社交APP，特别是陌生人社交，已然是杀得眼红手疾。熟人社交需要关系链沉淀，是零和游戏——一家独大之后，很难有所突破。而陌生人社交，可以展开的维度似乎更多。所以我们今天主要来谈谈陌生人社交。从人、媒介、形式三个方面好好分析下当前的陌生人社交的这一片红海。
+ ## [【面试复盘】一个全新的产品交给你，你会怎么做](http://www.chanpin100.com/article/109845)
+ > 面试官问，如果我们的全新的产品交给你，你会怎么做。
+ ## [你凭什么做好互联网？](http://www.chanpin100.com/article/109844)
+ > 曹政这本《你凭什么做好互联网——从技术思维到商业逻辑》是其博文的选集。通过编辑、整理、归类形成了还算完整的体系。
+ ## [时机对了，一切就都对了](http://www.chanpin100.com/article/109843)
+ > 很多项目功能及创新点，尤其在互联网领域里，好的想法需要遇到对的时刻才能真正发挥价值或者发挥更大的价值。
+ ## [【原创】从今天起，开始做个“时间控”式的产品经理](http://www.chanpin100.com/article/109842)
+ > 从今天起，开始做个“时间控”的人，享受时间带来的巨大收益。
+ ## [2019设计之旅40-设计清单分享](http://www.chanpin100.com/article/109841)
+ > 第三四章   交互工具简介设计清单第34期：用时约1分
 
     
