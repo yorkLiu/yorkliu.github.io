@@ -1,21 +1,23 @@
 ---
 title: 2019-10-29 IT News
 copyright: true
-date: 2019-10-29 08:00:56
+date: 2019-10-29 09:00:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [PPT报告|百家争鸣，中国智能制造系统集成市场规模将突破2900亿](http://mp.weixin.qq.com/s?src=11&timestamp=1572307205&ver=1941&signature=a3szmKbn39RKJihkYF0cxZGbDqRudXgWD0hs69yVztE90qaofGF59VN-YIuw6cuzQYZtp2zijI3zk*6JCUPXZGW9hmZKrMXurau4ZuMHrX6hNZR6Ar4meQFeKS9ykuBI&new=1)
- > 智能制造系统集成行业的发展是推动我国制造业转型升级的关键。2018年我国智能制造系统集成市场规模达到1563亿元，同比增长22.7%，预计未来三年年均增速超过20%，2021年市场规模有望突破2900亿元。近日，赛迪顾问...
- ## [航空公司系统是怎样炼成的](http://mp.weixin.qq.com/s?src=11&timestamp=1572307205&ver=1941&signature=2ngd7Pc-rXVD9pxxTqysLKmZI4nqy2K3mvIowEOTpBqzVhh1JGRCacqDY8QljGaN4LB-XUAm1qR2OJqEEjoXlfdonziZtZKsROouq*16nPrEc2sbbyOz-SqdBeKf87bA&new=1)
+ ## [航空公司系统是怎样炼成的](http://mp.weixin.qq.com/s?src=11&timestamp=1572310805&ver=1941&signature=2ngd7Pc-rXVD9pxxTqysLKmZI4nqy2K3mvIowEOTpBqaNn0CZyYv8o551XFduLqkrQ9LYRxt9sCRkP6n-T10iiheMn7v*rZOsWu*ZFT28PLzn8lgapzDUEiDBgY-DT6e&new=1)
  > 刚接触航空业时，觉得自己像刚踏上美洲的弗朗西斯科.皮萨罗，或是刚遇见毛利人的库克船长，仿佛走进了信息技术的蛮荒之地，随便播下一颗“现代技术”种子，就能长出一片跨时代的技术森林。与国内行业解决方案提...
- ## [华为攻入汽车行业：「除了不造车，我们什么都做」](http://mp.weixin.qq.com/s?src=11&timestamp=1572307205&ver=1941&signature=7seVV9d6K-Y6DuqAzB9bBEDdhoWX27F9GXFENoddG8ZGQMN*54wDjMjpl8seBcQ6P9gs632MJpdUb0p0iBpZ-klm*UJQgL6WOtSN0a06h7chOn2Flxs1vwiMX19RKL1M&new=1)
+ ## [华为攻入汽车行业：「除了不造车，我们什么都做」](http://mp.weixin.qq.com/s?src=11&timestamp=1572310805&ver=1941&signature=7seVV9d6K-Y6DuqAzB9bBEDdhoWX27F9GXFENoddG8aP-zPDnaQkiR31f8zAbIJI*i*1ZAk6jNBz12EFoAq8N0bqZDmR*iZleRk99yvI4uPRgv*-ch-tNASyvK1QZ5pm&new=1)
  > 10 月 22 日，华为轮值董事长徐直军在世界智能网联汽车大会上发表了《聚焦 ICT 技术，使能车企“造好”车、造“好车”》的主题演讲。 自 4 月 17 日于上海车展公布智能汽车战略以来，华为一直动作频频。 正非签...
- ## [华为的专利申请量全球第一，不过分析机构认为其专利质量有待提升](http://mp.weixin.qq.com/s?src=11&timestamp=1572307205&ver=1941&signature=eGmdb1v7xhkx7W4H*Z6vNJ491Jaqfe4mdi0H4G*7l2HrdMdF25nquNu-wufJ6EQSYiOgGsm6KmBgxhE73pezMKThmq-0lXxqIAvNX2LsJ2QcmJVVoXJs6bIMKRwmS53f&new=1)
- > 随着华为在通信设备行业取得领导地位，在智能手机等行业也逐渐占据优势，日渐认识到专利的重要性，近几年来对专利无比重视，专利申请量经常位居全球企业前列甚至高居第一名，不过日前有日本市调机构分析华为在20...
- ## [三大运营商前三季度财报公布](http://mp.weixin.qq.com/s?src=11&timestamp=1572307205&ver=1941&signature=elTJihz*kfHIYwdwfp5ULKvCh1iL17OljyYXJP5hg92JCQ-fg9NaxkjfpoNbEMSaWw8L8joqTf9FZZOYtVHvI2-U9m8M2m7boOAf9ywhicnFpLATLwyGkp3RSElL0psd&new=1)
+ ## [三大运营商前三季度财报公布](http://mp.weixin.qq.com/s?src=11&timestamp=1572310805&ver=1941&signature=elTJihz*kfHIYwdwfp5ULKvCh1iL17OljyYXJP5hg93NqZQ4NPbEkjd-HjEiG6EHw5EfJTHsIHjK6sQIUidAe-Gd5EdkX5l2OE5eoQo4jG49OU9jXj-hDUBlE81O6AA4&new=1)
  > 随着中国电信公布前三季度财报，三大运营商前三季度财报全部公布。从财报来看，三大运营商主要数据有所下跌，运营商寒冬似乎更加漫长。 具体而言，中国移动中国移动三季度运营收入为人民币5,667亿元，同比下降0....
+ ## [重磅!5G套餐起步价为129元左右，最高599元封顶!](http://mp.weixin.qq.com/s?src=11&timestamp=1572310805&ver=1941&signature=PfzCSXrkhu6SF9fdwRTKNe6lhVQ85zkJ6spPeAb48d48RKBMPQyQm7p35iTG94D-uTHkGX5wv-f9ySTwNQEjg*U0cRXvrqzehJkQG6TfL2wT7Zs8-1yz4X4IDp5oy1OO&new=1)
+ > 人民网10月28日电（尚晓蒲报道） 5G套餐起步价为129元左右，最高为599元封顶。可加多张副卡，包宽带包电视可供全家使用。三家资费标准与套餐制度趋同，各档5G套餐比相应的4G套餐包的流量要多一些，比4G套餐的性...
+ ## [华为的专利申请量全球第一，不过分析机构认为其专利质量有待提升](http://mp.weixin.qq.com/s?src=11&timestamp=1572310805&ver=1941&signature=eGmdb1v7xhkx7W4H*Z6vNJ491Jaqfe4mdi0H4G*7l2GnEjro84-5bRtBhDl4RApESp*o-e-YLYH9ukjrLuzP6f7HSRqa5Hp10j--yDU-cJodaFbLOIGOFWcpxrBUEfCi&new=1)
+ > 随着华为在通信设备行业取得领导地位，在智能手机等行业也逐渐占据优势，日渐认识到专利的重要性，近几年来对专利无比重视，专利申请量经常位居全球企业前列甚至高居第一名，不过日前有日本市调机构分析华为在20...
+ ## [PPT报告|百家争鸣，中国智能制造系统集成市场规模将突破2900亿](http://mp.weixin.qq.com/s?src=11&timestamp=1572310805&ver=1941&signature=a3szmKbn39RKJihkYF0cxZGbDqRudXgWD0hs69yVztH8kAdq*9IgKoPNOzOkjEoX*FsrBL6hNDExXY-nCGf4HQ*OLLcUHCxjNQDHycjuTPVLzUkJ*ttzY1lUVQbyCH-p&new=1)
+ > 智能制造系统集成行业的发展是推动我国制造业转型升级的关键。2018年我国智能制造系统集成市场规模达到1563亿元，同比增长22.7%，预计未来三年年均增速超过20%，2021年市场规模有望突破2900亿元。近日，赛迪顾问...
 # IT 技术 
  ## [详解语音识别技术的发展](http://ai.51cto.com/art/201910/605012.htm)
  > 详解语音识别技术的发展
@@ -57,71 +59,65 @@ categories: IT NEWS
  > 
  ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
  > HTML CSS整理笔记
- ## [Python全栈（一）基础之8.Python数据结构-元组和字典](https://blog.csdn.net/CUFEECR/article/details/102772574)
- > 
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
- > 
+ ## [小白零基础学习：详解梯度下降算法：完整原理+公式推导+视频讲解](https://blog.csdn.net/zhouaho2010/article/details/102756411)
+ > 小白零基础学习：详解梯度下降算法：完整原理+公式推导+视频讲解
  ## [大白话5分钟带你走进人工智能-第二节概率基础及高斯分布](https://blog.csdn.net/LHWorldBlog/article/details/88649145)
  > 大白话5分钟带你走进人工智能-第二节概率基础及高斯分布
+ ## [Python 调试冷知识](https://blog.csdn.net/csdnnews/article/details/102693778)
+ > Python 调试冷知识
+ ## [Python全栈（一）基础之8.Python数据结构-元组和字典](https://blog.csdn.net/CUFEECR/article/details/102772574)
+ > 
  ## [vmware配置hadoop 实现伪分布式](https://blog.csdn.net/qq_41616600/article/details/102704727)
  > vmware配置hadoop 实现伪分布式
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ > 
  ## [Java HashMap 透析](https://blog.csdn.net/qq_15609303/article/details/102744681)
  > 
- ## [ARM：供给中国 160 亿颗芯片，继续授权华为！](https://blog.csdn.net/csdnnews/article/details/102752202)
- > 
+ ## [程序员不懂浪漫？胡扯！](https://blog.csdn.net/csdnnews/article/details/102693777)
+ > 程序员不懂浪漫？胡扯！
+ ## [体验Linux基本命令（一）](https://blog.csdn.net/ML908/article/details/102756116)
+ > 体验Linux基本命令（一）
  ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
  > 大学四年，分享看过的优质书籍
- ## [大学四年，看过的优质书籍推荐](https://blog.csdn.net/m0_37907797/article/details/102685204)
- > 大学四年，看过的优质书籍推荐
- ## [大白话5分钟带你走进人工智能-第一节开篇介绍以及线性回归简介篇](https://blog.csdn.net/LHWorldBlog/article/details/88088212)
- > 大白话5分钟带你走进人工智能-第一节开篇介绍以及线性回归简介篇
  ## [Python自动化完成tb喵币任务](https://blog.csdn.net/qq_44198436/article/details/102734420)
  > Python自动化完成tb喵币任务
- ## [RSA加密算法原理及其Java实现](https://blog.csdn.net/qq_34826261/article/details/102709266)
- > RSA加密算法原理及其Java实现
  ## [史上最强Tomcat8性能优化](https://blog.csdn.net/ThinkWon/article/details/102744033)
  > 
  ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
  > 
- ## [“上云”很 fashion 的今天，GeekPwn 搞了个比赛……](https://blog.csdn.net/csdnnews/article/details/102791875)
- > 云联万物，大势所趋，小到手机中纷繁多样的智能App，大到时下被广泛热议的人工智能、自动驾驶与5G，以云为主导的基础设施都在落地支持的过程中默默地发光发热，所谓“云强则应用...
- ## [百行代码解读阿里 AloT 芯片平台无剑 100！](https://blog.csdn.net/csdnnews/article/details/102791880)
- > 作者 | 马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）今年以来我国IT厂商都在AIot的底层平台建设方面可谓是捷报频传，在操作系统方面有如像腾讯的T...
- ## [人工智能如何改变物联网？](https://blog.csdn.net/csdnnews/article/details/102791882)
- > 随着廉价传感器和低成本网络连接的出现，物联网设备的数量正在激增——截至2018年，全球联网设备超过170亿台，其中“物联网”设备就超过了70亿台。但是，创建可靠的、安全的...
  ## [爱奇艺知识一年考：引流成效不显著，内容价格无明显优势](http://www.lanjingtmt.com/news/detail/44697.shtml)
  > 如今，爱奇艺知识上线刚满一年，但在业内人士看来，虽有爱奇艺持续引流，但成果并不显著，爱奇艺知识在业内的知名度并不高；同时，在付费课程方面，爱奇艺知识并无明显的内容与价格优势。
 # 人工智能 
- ## [不停服! 怎么迁移数据](https://blog.csdn.net/piaoruiqing/article/details/102769188)
- > 不停服! 怎么迁移数据
- ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
+ ## [天天学JAVA-JAVA基础(2)](https://blog.csdn.net/qq_15127715/article/details/102751999)
+ > 天天学JAVA-JAVA基础(2)
+ ## [2019最新Java面试题，常见面试题及答案汇总](https://blog.csdn.net/jhl19981125/article/details/102757634)
+ > 2019最新Java面试题，常见面试题及答案汇总
+ ## [JDK8 新特性：判空遍历写法](https://blog.csdn.net/sunnyzyq/article/details/102739560)
+ > JDK8 新特性：判空遍历写法
+ ## [深入理解Servlet](https://blog.csdn.net/Mr_wxc/article/details/102730312)
+ > 深入理解Servlet
+ ## [Jedis 基本语法](https://blog.csdn.net/lianghecai52171314/article/details/102768290)
+ > Jedis 基本语法
+ ## [Java HashMap 透析](https://blog.csdn.net/qq_15609303/article/details/102744681)
  > 
- ## [感觉自己不会的东西太多了，不知道如何下手？](https://blog.csdn.net/hollis_chuang/article/details/102542347)
- > 感觉自己不会的东西太多了，不知道如何下手？
- ## [zookeeper和并发概念](https://blog.csdn.net/qq_45042013/article/details/102764106)
- > zookeeper和并发概念
- ## [学会了这些技术，你离BAT大厂不远了](https://blog.csdn.net/z694644032/article/details/100084287)
- > 学会了这些技术，你离BAT大厂不远了
- ## [macos k8s环境下基于filebeat、ElasticSearch、Kibana日志解决方案](https://blog.csdn.net/weixin_43279440/article/details/102762467)
- > macos k8s环境下基于filebeat、ElasticSearch、Kibana日志解决方案
- ## [面试：Dubbo&Zookeeper高频面试题-附加答案](https://blog.csdn.net/xxyybs/article/details/102765349)
- > 面试：Dubbo&amp;Zookeeper高频面试题-附加答案
- ## [SpringBoot整合RibbitMQ](https://blog.csdn.net/BruceLiu_code/article/details/102765884)
- > SpringBoot整合RibbitMQ
- ## [基于flask的restfulAPI实现基本的用户管理项目](https://blog.csdn.net/qq_33196814/article/details/102768517)
- > 基于flask的restfulAPI实现基本的用户管理项目
- ## [Solr集群搭建之SolrCould以及实际项目开发中详细使用步骤](https://blog.csdn.net/qq_15038565/article/details/102768453)
- > Solr集群搭建之SolrCould以及实际项目开发中详细使用步骤
- ## [高并发之——缓存思路](https://blog.csdn.net/l1028386804/article/details/102764916)
- > 高并发之——缓存思路
- ## [LVS+Keepalived+Nginx+Tomcat+Redis主从+sentinel+MySQL主从复制，读写分离实现高可用负载均衡，动静分离和Session会话共享](https://blog.csdn.net/qq_42298432/article/details/102711505)
- > LVS+Keepalived+Nginx+Tomcat+Redis主从+sentinel+MySQL主从复制，读写分离实现高可用负载均衡，动静分离和Session会话共享
- ## [windows 10 32bit 配置Python编程环境](https://blog.csdn.net/wangbingfengf98/article/details/102759498)
- > windows 10 32bit 配置Python编程环境
- ## [Spring Cloud构建微服务架构：服务容错保护之Hystrix服务降级](https://blog.csdn.net/IT_Luobin/article/details/102756503)
- > Spring Cloud构建微服务架构：服务容错保护之Hystrix服务降级
- ## [微服务体系精简总结](https://blog.csdn.net/huxiutao/article/details/101267388)
- > 微服务体系精简总结
+ ## [JAVA 弹幕小游戏 1.0版本](https://blog.csdn.net/ECHONnn/article/details/102720204)
+ > JAVA 弹幕小游戏 1.0版本
+ ## [经典算法（一）：冒泡排序及其优化](https://blog.csdn.net/weixin_43570367/article/details/102763690)
+ > 经典算法（一）：冒泡排序及其优化
+ ## [C调用其他运行程序——以python为例](https://blog.csdn.net/L_J_Kin/article/details/102764711)
+ > C调用其他运行程序——以python为例
+ ## [天天学JAVA-JAVA基础(1)](https://blog.csdn.net/qq_15127715/article/details/102694157)
+ > 天天学JAVA-JAVA基础(1)
+ ## [定时器](https://blog.csdn.net/weixin_43504844/article/details/102754721)
+ > 定时器
+ ## [深入理解static关键字](https://blog.csdn.net/qq_44543508/article/details/102736466)
+ > 深入理解static关键字
+ ## [【Java常见面试题】Java中常用的String方法](https://blog.csdn.net/jhl19981125/article/details/102757085)
+ > 【Java常见面试题】Java中常用的String方法
+ ## [Java  SpringBoot整合WebSocket 实现实时聊天，消息指定推送](https://blog.csdn.net/mrwangyifei/article/details/102755100)
+ > Java  SpringBoot整合WebSocket 实现实时聊天，消息指定推送
+ ## [设计模式----责任链设计模式](https://blog.csdn.net/lianghecai52171314/article/details/102756169)
+ > 设计模式----责任链设计模式
 # PM 
  ## [浅谈B端产品设计-总览篇](http://www.chanpin100.com/article/109852)
  > 总览在手，天下我有。
