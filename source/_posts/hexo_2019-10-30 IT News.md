@@ -1,7 +1,7 @@
 ---
 title: 2019-10-30 IT News
 copyright: true
-date: 2019-10-30 10:01:04
+date: 2019-10-30 12:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,29 +65,49 @@ Twitter CFO&#65306;&#30446;&#21069;&#36824;&#19981;&#25171;&#31639;&#36827;&#208
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [比特大陆上演“宫斗”大戏，嘉楠科技欲赴美IPO实现反超!](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=wEYSWUMKcASKVIsmzuCj3r34C61dl3yNi8I0fNJfpSyebXTYRWHc1xdbplrgz4eLA5BmZePSyzWmZ2HYMS0XmbG-9oaDjoYh6b*ozmqivTfqo1oAMVFNDPvnTLPVV*QD&new=1)
- > 上周，中共中央政治局就区块链技术发展现状和趋势进行第十八次集体学习，强调把区块链作为核心技术自主创新重要突破口，加快推动区块链技术和产业创新发展。一夜之间，区块链站上政策风口。受到“最高级别关注”...
- ## [\[科技早报7点整\]5G套餐价格曝光 腾讯回应被列电信经营不良名单……](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=4Ql3aPmap7NAsoca8o5w-dW9hO0mDLFMTCUjnt91lHgD2hWxXpBeVyTujhF-RI9tXW9jQIJXf58G8-fBJCVdUKuMAJZSD1WRK7*Q177ir30aYn7vGgZT9jENDl-y39Y7&new=1)
- > 早上好，科技圈【一度蜜科技早报】第627期1.5G套餐价格曝光：起步价128元，最高598元据中国移动员工曝料，5G套餐起步价为128元，最高598元，三家运营商资费标准与套餐制度相同。128套餐是30GB流量，198套餐是60G...
- ## [美国慌了?中兴刚刚突然宣布!谁也没想到…](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=2*GmHLDZIop10BTw0YnQzAJAd3w-kRBIhMOPrOtgbtZdJAdq0gMQjxh2LE9cVB8gHJKRsBU7MCakTlBOMPAMkSWC0uC41zAn1KmUCozQbXDT9FabPCCCHkXrMyc333NO&new=1)
- > 一刚刚，中兴突然刷屏了！！北京时间2019年10月28日，中兴通讯正式发布2019年第三季度以及2019年年度业绩报告。财报显示：中兴用了9个月时间，实现了642.41亿元的营收，同比增长9.3%。同时，归属于上市公司普通...
- ## [7点见|运营商5G套餐起步价128元；“携程四君子”罕见同台；字节跳动否认明年赴港上市](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=Uuj7zVF64xRKbrs2tN2NghKkblBKl6o9blGQxl6lnGCA6sx56GY0JmRBynlSf7tEI-z7kIJOZb0ncb8B9*JP1ByojAWFV5FQONJMOCeycLROIZnjBLwGBTx6zMmcuCB4&new=1)
+ ## [上海进博会|3D打印人形机器人有“骨骼”，还会卖萌](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=PsnxlE1azA6HH73wVClwogjriGqn-RQUWXerr21PrHaHbhS0YWdsd6DbSTtYI83J8c4nz8bitXOJ6kj--sbHfarirNzB2skpbN5uwS9T--t*ct60rOsX*Ebav*zXJRRG&new=1)
+ > 会蹬三轮车，能与人对话，一位会笑、会闹，还会害羞卖萌，堪称“机器人界的表情帝”的3D打印人形机器人，将来到第二届进博会参展做客。堪称“机器人界的表情帝”的3D打印人形机器人Roboy10月29日，记者从英飞凌...
+ ## [AI如今成投资热点](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=EK1-a0QN6o0S7oNWkvVvYnUfqU7w6OcUAoDIrqp2Oo20-sR3lkQ4SoPkzEI38*-9yMiI2GoUm-GJcjb1eZuRqbQeAhaiBrG9kJYkOvL637Q2J3TYkPifmsgwJaLGVf8-&new=1)
+ > 现在各方涌入AI领域，让AI投资变得火热。根据IDC和浪潮联合研究发布的《2019—2020中国人工智能计算力发展评估报告》， 中国人工智能市场整体投资将继续保持高增长率，2019年的投资增速将高达59.8%，而针对...
+ ## [影响力与年俱增，第三届“天工杯”引领中国增材制造结构优化潮流](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=X*3XMMBw*SbfXolA2pc639u74kkJfKSfshIXl1bhMXpuM41f7o3WBAc*5jACkNMVJ*CaMD*UwVQIewAt4PiaEbxAjvDKbMGMrgvwhY4AAH-pkwRQs737v8Dga-TlomEX&new=1)
+ > 关注南极熊3D打印2019年10月18日，第三届“天工杯”结构优化设计论坛暨增材制造大赛全国总决赛在北京成功举行。南极熊作为合作媒体，从第一届，到第二届，再到现在的第三届，都到了现场进行报道支持，感受到了“...
+ ## [美女与IT兽视频|零售的世界——在存量中找到增量](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=W1lmCn1KSlC2j*I67U1BDk-QALrargKjCg*hgFnC8YNBOmN29njn-BIWX3yhkVeMcrcSpIqfSo5iy4uKIaRi*2TZtM04UG36NPAHlLTCBO2ufkOFSKB7kR7WGoLeubxP&new=1)
+ > （本文阅读时间：2分钟）美女与IT兽零售业可以说和我们每个人的日常都密切相关，而在智慧零售时代，实体零售升级则存在着更多的可能性。作为一家技术基因的企业，驿氪是如何帮助零售企业突破商业壁垒，借助互联...
+ ## [腾讯云推出首款自研服务器星星海；苹果新款Mac Pro整套配齐超30万；Fedora 31稳定版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=Xfv1bQkemg28ZaNP36t505ReasVbNPRwPh4u-hTizkJxdSaJDbIphx1gwyWT*uEpESO10J36QMq2ko8q4WWZfzy2TZ0a98Qi7drt3oxWIeCFjaI-kiNeQVsETTxfaegk&new=1)
+ > 快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「CSDN 极客头条」，是从 CSDN 网站延伸至官方微信公众号的特别栏目，专注于一天业界事报道。风里雨里，我们将每天为朋友们，播报最新鲜有料的新闻...
+ ## [\[报告\]2019中国汽车金融行业研究(附84页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=jdKDSLyMn0rs0sI0zHSWMGxTeOBiVXO0YHaIxEalcZbmpCX2YD1IeR90DkJ617fVfgZXmkUrf2wfrozrSLUepOU3Xp4jtWdr59V2I0NAvUXwKDASwCvd*Gl3Tj1V3ggo&new=1)
+ > 本报告研究狭义汽车金融，把狭义汽车金融分为零售汽车金融和经销商汽车金融，并从两方面分别描绘参与者现状，探讨汽车金融的科技应用，并以市场现状为引，尽可能发现目前汽车金融面临的挑战和即将出现的发展趋势...
+ ## [5G 套餐费曝光，月租最低 128 元；传阿里云四大业务部升级为事业部；工程院院士倪光南：华为估值位列世界第一|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=okJCzD74-oZeWc6RxAcvF4wl5KGUTzJfGSauo4jfMRRbTxbnxHe4yka1UakPWAyUjffKNrwbDP2LaOSFJfFwvwiV2c6MKhDC46FtEMIWhF2VUejoxhL5ZnYliMREp6XD&new=1)
+ > 特斯拉：前三季度在华汽车销售收入 21.38 亿美元，同比增长 47.96%10 月 30 日，36 氪获悉，特斯拉向美国证券交易委员会递交的文件显示，今年前三季度，特斯拉在中国的汽车销售收入为 21.38 亿美元，较去年同期...
+ ## [狐假虎威，无名黑客试图冒充知名黑客团体成员](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=AtkWzlp8ZHqDPWPFpUnvvBUFEbEtHl5UZcTEdNunVgO8QYOLa9ywJL51EqpOoYhiT3FWrkFA0lG57NY2Hgg5vJXx118MmsXiVnGjknZtSL1U3t0onocEDFvLHlEjW6CX&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，近日研究人员披露，一名黑客一直在冒充俄罗斯黑客集团Fancy Bear。这名黑客以Fancy Bear的名义向金融机构发起DDoS攻击，并想趁机勒索钱
+ ## [7点见|运营商5G套餐起步价128元；“携程四君子”罕见同台；字节跳动否认明年赴港上市](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=Uuj7zVF64xRKbrs2tN2NghKkblBKl6o9blGQxl6lnGCA6sx56GY0JmRBynlSf7tE-1DjQyF62PymLC*cRs-G7ERkz0uzLzD0dbPBsD9-opttFvMd4OG8QKK8y4MuBYSf&new=1)
  > 各位小伙伴们，早上好呀！数据显示，今年羽绒服价格上涨，去年平均售价在700-800元之间的波司登，今年需要1100-1200元才能买到了小七此时特别羡慕广东的朋友，不需要羽绒服，没有这个烦恼接下来是今天的早报时间...
- ## [5G遇到智能驾驶会发生什么?11月1日请走进2019世界智能驾驶峰会](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=YO8C03WV-FqWRiFc42Zl8K6bzV2I60yF*7MySRzWgaTGtiAxXCcYy6IQNYEVDOBno2QqUxAion3PPHxmrcG3SZlrhO5laoGK3rUyVbwXeodmZrO9LbX1yQQ2p2f6H9Sp&new=1)
+ ## [邬贺铨：5G迎来大规模商用，北京将领衔高精尖产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=W2VhZ9zoPC6v67XjUHs0FGQQ8Xlscc1p7JWvNbOjBBF-qtxKYTObl43U9HL1HukZ41l1bfKnnJMU7CBU0r1Vq9mdnMKD-42sPaWDMgQaflF5IY0bz2EkNDzVumJONUPD&new=1)
+ > 智眼看5G科技日报记者 刘艳编者按昔日仓颉作书而天雨粟，鬼夜哭。今日5G与物联网、人工智能并称为第三浪信息技术的核心、关键技术，它们的成熟及商用，正在成为推动人类命运共同体加速实现的强大引擎。特别是5G...
+ ## [比特大陆上演“宫斗”大戏，嘉楠科技欲赴美IPO实现反超!](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=wEYSWUMKcASKVIsmzuCj3r34C61dl3yNi8I0fNJfpSyebXTYRWHc1xdbplrgz4eL64rEJ82k9LrNrZdndnDQp9Qn8NPkSFLZ6373vwL22jr5Pnn0u9kFNK6abNRjP4cl&new=1)
+ > 上周，中共中央政治局就区块链技术发展现状和趋势进行第十八次集体学习，强调把区块链作为核心技术自主创新重要突破口，加快推动区块链技术和产业创新发展。一夜之间，区块链站上政策风口。受到“最高级别关注”...
+ ## [\[科技早报7点整\]5G套餐价格曝光 腾讯回应被列电信经营不良名单……](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=4Ql3aPmap7NAsoca8o5w-dW9hO0mDLFMTCUjnt91lHgD2hWxXpBeVyTujhF-RI9tvgyDeQZWHmlQe*IHanvgU6dHLhgL*T-W0Pnxd8gzz9auCWcn*o11EZFMfk2aTA23&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第627期1.5G套餐价格曝光：起步价128元，最高598元据中国移动员工曝料，5G套餐起步价为128元，最高598元，三家运营商资费标准与套餐制度相同。128套餐是30GB流量，198套餐是60G...
+ ## [美国慌了?中兴刚刚突然宣布!谁也没想到…](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=2*GmHLDZIop10BTw0YnQzAJAd3w-kRBIhMOPrOtgbtZdJAdq0gMQjxh2LE9cVB8gcBGY5ac0tB1MW7MedAXhQdhx21*Pb2CRYik0VwTH*uWIMo3bFDTBTAO7hj2xhynF&new=1)
+ > 一刚刚，中兴突然刷屏了！！北京时间2019年10月28日，中兴通讯正式发布2019年第三季度以及2019年年度业绩报告。财报显示：中兴用了9个月时间，实现了642.41亿元的营收，同比增长9.3%。同时，归属于上市公司普通...
+ ## [5G遇到智能驾驶会发生什么?11月1日请走进2019世界智能驾驶峰会](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=YO8C03WV-FqWRiFc42Zl8K6bzV2I60yF*7MySRzWgaTGtiAxXCcYy6IQNYEVDOBnOQ8ppnxyMwiQs6LB0y2QpxUALDB5N2raORoWKo0ae-9Mg3RrXmQJ3Qk46S2F3qd1&new=1)
  > 5G与智能驾驶和技术每前进一步，它带来的涟漪效应也将被数倍放大。从智能汽车开启的变革将传导至智能交通并推动智慧城市的发展，最终会影响社会变革。而这一切，今天正是起点。每想到此，就会感到身处这一行业的...
- ## [硬蛋供应链|基本半导体 车规级全碳化硅功率模块 斩获第十四届“中国芯”奖项](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=4wNsV0AKFK2N4VCf5KZp4-DdiNJn4fOXQI*oz7YQFYxRtJz3KD1s*Mt3jVAJKXVQ36jPBRUaVS*Wzr1nXPThD1OsPDw*Yxpc2ruXj06QzSnCkOwftIE9Ls9ZWPg5UTar&new=1)
+ ## [硬蛋供应链|基本半导体 车规级全碳化硅功率模块 斩获第十四届“中国芯”奖项](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=4wNsV0AKFK2N4VCf5KZp4-DdiNJn4fOXQI*oz7YQFYxRtJz3KD1s*Mt3jVAJKXVQPELYzSXnM-batL2JKxDgrDeWZlRgOmhQZIJnA2npAriYRlQG4C4pnwDmL5P9nuhJ&new=1)
  > 导读：10月25日，第十四届“中国集成电路产业促进大会”在青岛举办，并现场揭晓了“中国芯”优秀产品征集结果。深圳本土第三代半导体科创企业 - 深圳基本半导体有限公司旗下车规级全碳化硅功率模块（BMB200120P1...
- ## [英德同意采用华为的5G设备，诺基亚和爱立信将更艰难](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=eV3O7MS3cGr*Mf6NiycQ*P71XOqf0hr7B6CE4szfsFT5tvL8GJp0SXGFmUluBxy6aQSojINTQUP4R7LhPBo1jHR-tjV1cMofb0KBBXPyhaW7zjpacy4SkRomYfMpgLvu&new=1)
+ ## [英德同意采用华为的5G设备，诺基亚和爱立信将更艰难](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=eV3O7MS3cGr*Mf6NiycQ*P71XOqf0hr7B6CE4szfsFT5tvL8GJp0SXGFmUluBxy6H4F20Dll6fd0WGEVf5Q7d9jfuPEjA*8XMbxDQqHLfTNByKC1Yj015lf*WsGVUggJ&new=1)
  > 继德国同意采用华为的5G设备后，英国也计划同意采用华为的5G设备，如此一来华为可望延续4G时代它在欧洲市场所取得的竞争优势。这对于欧洲两大通信设备商诺基亚和爱立信来说显然的一个坏消息，这两家企业目前正处...
- ## [华为的敬畏：从北京通信展看“5G引领”](http://mp.weixin.qq.com/s?src=11&timestamp=1572400805&ver=1943&signature=X*FYVy7wf34d3gXq-N3nDJ5kG0jekoonedJvRdGgFH3kpGJahx*iS91qOjnKQJspYHY3pIbrz7VKt0mtKYpDUHnDcZU-VO99tWtJ8YghWtQSyhBI5BqoOMvHSpw7MIeK&new=1)
+ ## [华为的敬畏：从北京通信展看“5G引领”](http://mp.weixin.qq.com/s?src=11&timestamp=1572408005&ver=1943&signature=X*FYVy7wf34d3gXq-N3nDJ5kG0jekoonedJvRdGgFH3kpGJahx*iS91qOjnKQJspoSSRtpLa497Qbp277iEmpHUGxjWYF5sG70uBhAQMWYZthLmGqLkto88fuyX24LMm&new=1)
  > 在这个5G商用元年，即将开幕的中国国际信息通信展览会（PT展）的主角必然是5G。作为我国5G商用牌照正式发放后的一大行业盛会，今年PT展上的5G更加引人关注，因为技术成熟之后5G正面临落地应用、商业模式的探索等...
 # IT 技术 
- ## [放下你手里的代码，小心被抓！](http://news.51cto.com/art/201910/605111.htm)
- > 放下你手里的代码，小心被抓！
  ## [看完这篇还不了解Nginx，那我就哭了！](http://developer.51cto.com/art/201910/605110.htm)
  > 看完这篇还不了解Nginx，那我就哭了！
  ## [如何在Windows 10中执行Windows Defender离线扫描？](http://os.51cto.com/art/201910/605084.htm)
  > 如何在Windows 10中执行Windows Defender离线扫描？
+ ## [放下你手里的代码，小心被抓！](http://news.51cto.com/art/201910/605111.htm)
+ > 放下你手里的代码，小心被抓！
+ ## [KPI过时了？为什么科技公司更偏爱OKR？](http://zhuanlan.51cto.com/art/201910/605107.htm)
+ > KPI过时了？为什么科技公司更偏爱OKR？
  ## [从0到1 手把手教你建一个区块链](http://blockchain.51cto.com/art/201910/605082.htm)
  > 从0到1 手把手教你建一个区块链
  ## [玩了分布式这么久,你不会连Kafka都不清楚吧](http://os.51cto.com/art/201910/605044.htm)
@@ -96,80 +116,122 @@ Twitter CFO&#65306;&#30446;&#21069;&#36824;&#19981;&#25171;&#31639;&#36827;&#208
  > 从7600万个5G连接中，我们发现了7种最有前景的5G物联网应用
  ## [不容错过的AIOps落地关键点指南](http://developer.51cto.com/art/201910/605014.htm)
  > 不容错过的AIOps落地关键点指南
- ## [12306的技术扒光在你面前，100万人如何抢1万张票](http://developer.51cto.com/art/201910/605048.htm)
- > 12306的技术扒光在你面前，100万人如何抢1万张票
- ## [KPI过时了？为什么科技公司更偏爱OKR？](http://zhuanlan.51cto.com/art/201910/605107.htm)
- > 除了KPI，考核员工还有什么方式?OKR是一种简单的管理方法，但是对于其误解和各种疑惑却很多。推崇者把OKR说
- ## [你的 Java 并发程序 Bug，100% 是这几个原因造成的](http://developer.51cto.com/art/201910/605106.htm)
- > 可见性是指一个线程对共享变量进行了修改，其他线程能够立马看到该共享变量更新后的值，这视乎是一个合情合
- ## [为何 Amazon 并购 Oracle 的可能性很大 ？](http://news.51cto.com/art/201910/605108.htm)
- > 2019 年 9 月份 Trefis 团队建议《Trefis 建议：谷歌可以斥资 90 亿美元收购 Nutanix》，最近又建议亚马逊
- ## [JavaScript冒泡排序与选择排序](http://developer.51cto.com/art/201910/605105.htm)
- > 算法与数据结构构成了程序，数据结构用于实现数据的表示、存储、管理，算法通过使用数据完成一定的业务逻
- ## [Python 3.8 已发布，现在是切换至新版本的好时机吗？](http://news.51cto.com/art/201910/605109.htm)
- > 想知道何时切换至 Python 3.8？下文将简要概述切换主要的 Python 版本以及进行切换时可能会遇到的问题。
- ## [把JS代码生成字节码，用字节码技术保护NodeJS源码](http://developer.51cto.com/art/201910/605104.htm)
- > 现在很后端服务都是用NodeJS开发的，比如网站后台、游戏服务器、应用服务等等。但NodeJS的后端，有一个弊
- ## [图文并茂深入了解VLAN工作原理，不能错过干货](http://network.51cto.com/art/201910/605101.htm)
- > 了解了VLAN的划分的几种方法和配置，我非常好奇VLAN是一个怎样的工作过程呢?它是如何做到隔离的功能，带着
- ## [合规指令：主导 2019 安全重点的网络安全较佳实践](http://zhuanlan.51cto.com/art/201910/605103.htm)
- > IDG《2019 安全重点研究》发布于 2019 年 7 月底，揭示未来一年中安全重点的变化趋势。该研究基于对全球 52
- ## [给您的物联网设备加一把安全锁](http://iot.51cto.com/art/201910/605102.htm)
- > 现在的物联网发展越来越快，物联网安全问题也越来越重要，物联网设备的安全认证非常有必要，需要给物联网提
- ## [一文看懂：网址，URL，域名，IP地址，DNS，域名解析](http://network.51cto.com/art/201910/605100.htm)
- > 今天给大家梳理一篇关于网址、URL、IP地址、域名、DNS、域名解析的白话长文，并以简单的提问-解答形式让读
+ ## [区块链成为市场强大风口，万亿市场将爆发，你会投资区块链吗？](http://blockchain.51cto.com/art/201910/605131.htm)
+ > 近期股票市场的区块链板块被爆炒，主要还是因为10月24日到10月27日的区块链相关政策会议，直接导致了股票市
+ ## [Libra项目痛失核心成员，未来可能选择分叉](http://blockchain.51cto.com/art/201910/605129.htm)
+ > 近日，Libra协会初始成员在日内瓦成立大会之后正式确立了项目管理结构。但几天过去，包括Visa、eBay以及Mas
+ ## [需要考虑的工业4.0大数据挑战](http://bigdata.51cto.com/art/201910/605126.htm)
+ > 随着技术的发展，企业必须考虑到工业4.0的大数据挑战。企业实现工业4.0的目标是简单的：很大限度地提高效率
+ ## [微信支付大面积崩溃！官方回应 故障依然](http://mobile.51cto.com/app-show-605127.htm)
+ > 10月29日晚间，微信支付突然大面积出现故障，全国各地网友纷纷反馈无法使用。从网友经历来看，微信支付这次
+ ## [传统数据库环境的5个陷阱](http://database.51cto.com/art/201910/605125.htm)
+ > 遗留的IT在各个角落都充满孤岛和复杂性，既没有效率，也没有足够的可伸缩性来继续运行这些数据库。除了在传
+ ## [我的区块链之路](http://blockchain.51cto.com/art/201910/605124.htm)
+ > 对于大多数人来说区块链就等同于比特币，而事实上区块链包含虚拟币，但虚拟币不是区块链。也许从我20年的工
+ ## [2020年后IT变革的优秀技术展望](http://news.51cto.com/art/201910/605123.htm)
+ > Gartner公司对2020年及以后的主要IT战略进行了预测，这些策略主要侧重于技术的人性化。
+ ## [为什么只靠大数据不能加快企业的决策](http://bigdata.51cto.com/art/201910/605122.htm)
+ > 关于大数据系统也有一些坏消息：这些工具不会帮助企业更快地做出决定。一家中型企业就大数据计划进行合作
+ ## [科普好文：5G技术到底是什么？](http://network.51cto.com/art/201910/605128.htm)
+ > 作为一名80后，从记事起到现在，我和我的家庭经历了从固定电话、拨号上网到宽带入户、提速降费，从网吧聊天
+ ## [5种云计算安全基础知识和优秀实践](http://cloud.51cto.com/art/201910/605119.htm)
+ > 将业务迁移到云端的企业必须承担新的责任，开发新的技能，并实施新的流程。而改善云计算的安全性的第一步是
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [【Windows】Window中的常用快捷键](https://blog.csdn.net/dengjin20104042056/article/details/102761876)
+ > 【Windows】Window中的常用快捷键
+ ## [开源无疆！CSDN 董事长蒋涛、GitHub 副总裁 Thomas Dohmke 即将重磅对话](https://blog.csdn.net/csdnnews/article/details/102793730)
+ > 
+ ## [Android应届毕业生“过五关斩六将”，怒刷千题，让你面试一路畅通！](https://blog.csdn.net/weixin_44339238/article/details/102783622)
+ > Android应届毕业生“过五关斩六将”，怒刷千题，让你面试一路畅通！
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [内存崩溃了？其实你只需要换一种方式](https://blog.csdn.net/z694644032/article/details/102778876)
+ > 
+ ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
+ > 
+ ## [一图看懂py2/py3编码](https://blog.csdn.net/xufive/article/details/102726739)
+ > 
+ ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
+ > 大学四年，分享看过的优质书籍
+ ## [Linux/C/C++ 不可错过的好书](https://blog.csdn.net/hyb612/article/details/102730648)
+ > Linux/C/C++ 不可错过的好书
+ ## [C/C++后端-服务端开发技术博文分类汇总](https://blog.csdn.net/ZYZMZM_/article/details/102717590)
+ > 
+ ## [HTTP协议详解(基础概念  方法  状态码  首部  连接  Cookie  新特性  安全）](https://blog.csdn.net/Summer_Lyf/article/details/102719038)
+ > 
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ > 
+ ## [CRNN+CTC实现不定长验证码识别（keras模型示例）](https://blog.csdn.net/gdhy9064/article/details/102646978)
+ > CRNN+CTC实现不定长验证码识别（keras模型示例）
+ ## [100 个网络基础知识普及，看完成半个网络高手](https://blog.csdn.net/devcloud/article/details/101199255)
+ > 
  ## [开源无疆！CSDN 董事长蒋涛、GitHub 副总裁 Thomas Dohmke 即将重磅对话](https://blog.csdn.net/csdnnews/article/details/102793730)
  > 作者 | 屠敏责编 | 唐小引、胡永波众所周知，作为全球知名的社交编程及代码托管网站 GitHub，自 2008 年推出后，一度受到广大开发者的欢迎与喜爱。根据 2018 年 GitHub 年度报告显示，仅在 2018 年期间，GitHub 上 Pull Requests 数量就已超过 6...
+ ## [这类程序员，钱包要鼓了！](https://blog.csdn.net/csdnnews/article/details/102815151)
+ > 参考：《物联网时代 : 新商业世界的行动解决方案》作者 | 马切伊·克兰兹/中信出版社如果你仔细地观察过去25年里的科技企业，你就会发现变化一直在发生。每隔3-7年，...
+ ## [程序员自学到底有没有用？网友们吵翻了...](https://blog.csdn.net/csdnnews/article/details/102815157)
+ > 最近就有个程序员吐槽说，自己大学没怎么听老师讲课，老师讲的知识要么太旧，要么老师不会讲，自己大部分时间是在网上看视频学的。引发了以下激烈的讨论。很多网友觉得，学校老师的代...
+ ## [漫画：去掉一个数，如何让剩余的数乘积最大？](https://blog.csdn.net/csdnnews/article/details/102815159)
+ > ————— 第二天 —————举个例子，给定如下数组：要删除哪个元素，才能使得剩余元素的乘积最大呢？显然应该删除元素2：剩余元素的乘积 =5 X 8 X 6 X9...
  ## [乐视网召开第四次临时股东会议，用时八分钟无提问环节](http://www.lanjingtmt.com/news/detail/44720.shtml)
  > 今日8时，乐视网第四届董事会第十七次会议2019年第四次临时股东大会于乐融大厦会议室召开。
  ## [中手游即将赴港上市，狂揽IP效果存疑](http://www.lanjingtmt.com/news/detail/44719.shtml)
  > 10月31日，中手游将于港交所主板正式挂牌上市，此次是中手游第三次递交相关文件，终于如愿延续中道而止的上市梦。然而，业内人士分析认为，中手游仍面临着IP游戏的市场表现低于预期、缺乏
 # 人工智能 
- ## [JDBC](https://blog.csdn.net/weixin_44843116/article/details/97136754)
- > JDBC
- ## [PostgreSQL 10（八）主从流复制](https://blog.csdn.net/kk185800961/article/details/100530209)
- > PostgreSQL 10（八）主从流复制
- ## [关系型mysql入门](https://blog.csdn.net/weixin_32682577/article/details/88574191)
- > 关系型mysql入门
- ## [mybatis批量操作](https://blog.csdn.net/qq_38310446/article/details/97113255)
- > mybatis批量操作
- ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
- > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
- ## [SpringBoot swagger2的使用](https://blog.csdn.net/qq_36511401/article/details/101283899)
- > SpringBoot swagger2的使用
- ## [解决Win10下Mysql 的Access denied for user'root'@'localhost' (using password: NO)问题](https://blog.csdn.net/fores_t/article/details/92085383)
- > 解决Win10下Mysql 的Access denied for user&x27;root&x27;@&x27;localhost&x27; (using password: NO)问题
- ## [git合并分支](https://blog.csdn.net/weixin_43606158/article/details/100146367)
- > git合并分支
- ## [ubuntu 首次安装mysql时未设置密码或忘记密码解决方法](https://blog.csdn.net/LXJRQJ/article/details/96832836)
- > ubuntu 首次安装mysql时未设置密码或忘记密码解决方法
- ## [MySQL事务](https://blog.csdn.net/qq_42220174/article/details/100822234)
- > MySQL事务
- ## [hg小技巧](https://blog.csdn.net/ziptop/article/details/80190287)
- > hg小技巧
- ## [TP5  数据库操作方法集锦（超全）](https://blog.csdn.net/weixin_44535476/article/details/100891206)
- > TP5  数据库操作方法集锦（超全）
- ## [ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using passwor:yes) 解决办法](https://blog.csdn.net/longgeaisisi/article/details/100743349)
- > ERROR 1045 (28000): Access denied for user &x27;root&x27;@&x27;localhost&x27; (using passwor:yes) 解决办法
- ## [40 数据库基础](https://blog.csdn.net/weixin_43265998/article/details/96572813)
- > 40 数据库基础
- ## [mysql存储过程及常见问题](https://blog.csdn.net/xjh163/article/details/96987417)
- > mysql存储过程及常见问题
+ ## [【分享】初学者再不用这几个谷歌插件，就别做开发啦！](https://blog.csdn.net/qq_36903042/article/details/102784591)
+ > 【分享】初学者再不用这几个谷歌插件，就别做开发啦！
+ ## [二、node系列之数据接口注册接口的实现（token验证登陆）](https://blog.csdn.net/daxunshuo/article/details/102801909)
+ > 二、node系列之数据接口注册接口的实现（token验证登陆）
+ ## [webpack使用CMD、AMD、CommonJS、ES6区别以及运用](https://blog.csdn.net/weixin_45288512/article/details/102778826)
+ > webpack使用CMD、AMD、CommonJS、ES6区别以及运用
+ ## [利用css制作3D照片墙](https://blog.csdn.net/uiguiytuy/article/details/102763968)
+ > 利用css制作3D照片墙
+ ## [Vue源码剖析（三）patch和Diff算法](https://blog.csdn.net/qq_24073885/article/details/102783458)
+ > Vue源码剖析（三）patch和Diff算法
+ ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
+ > HTML CSS整理笔记
+ ## [jQuery 配合 kendo UI 实现 tree(树状图的展示) 当子节点全部选中的时候就可以直接选择父节点 过滤子节点](https://blog.csdn.net/qq_43596123/article/details/102797987)
+ > jQuery 配合 kendo UI 实现 tree(树状图的展示) 当子节点全部选中的时候就可以直接选择父节点 过滤子节点
+ ## [Html5-CSS之元素的五大居中方式](https://blog.csdn.net/qq_38110274/article/details/102756968)
+ > Html5-CSS之元素的五大居中方式
+ ## [（计算机图形学）Delaunay三角形剖分的HTML+js的浏览器实现](https://blog.csdn.net/qq_41809589/article/details/102808226)
+ > （计算机图形学）Delaunay三角形剖分的HTML+js的浏览器实现
+ ## [边框属性](https://blog.csdn.net/Judicius/article/details/102790216)
+ > 边框属性
+ ## [防止非法链接(Referer)](https://blog.csdn.net/Mr_wxc/article/details/102771030)
+ > 防止非法链接(Referer)
+ ## [HTML+CSS常见选择题](https://blog.csdn.net/Diaos_Code/article/details/102793550)
+ > HTML+CSS常见选择题
+ ## [Java开发需要知道的HTML知识](https://blog.csdn.net/hebtu666/article/details/102799031)
+ > 
+ ## [快速上手Ajax【一篇文章就搞懂】](https://blog.csdn.net/weixin_44253336/article/details/102646640)
+ > 
+ ## [如何清除css样式的浮动](https://blog.csdn.net/Jackewe/article/details/102787773)
+ > 如何清除css样式的浮动
 # PM 
+ ## [产品经理需知晓：决策的意义（二）](http://www.woshipm.com/pmd/3030863.html)
+ > 作为产品经理而言，有时候，我们需要有勇气面对失败，并承认失败，而不是抱有侥幸的心理，期待运气的作用改变计算结果。1.4 决策与决策力我们做出的每一个决策都有可...
+ ## [OTA平台的花式捆绑销售](http://www.woshipm.com/it/3030217.html)
+ > 本文以OTA平台的花式捆绑销售为例，分析了捆包销售的具体操作方式以及背后的门道。最近，我在微博看到这样一则消息：途牛、高铁管家、马蜂窝等平台涉嫌捆绑搭售，被点...
+ ## [结合实例分析：在流量枯竭的今天，如何做增长呢？](http://www.woshipm.com/operate/3029105.html)
+ > 用户、时长总盘子双停滞，大部分行业用户已经到达了顶峰。那么在这个情况下，我们要如何做增长呢？因为不增长，所以增长迫在眉睫！中国移动互联网QuestMobile报告，B...
+ ## [如何输出一份高质量PRD？](http://www.woshipm.com/pmd/3029412.html)
+ > 笔者之前梳理过产品自查表，但是还是有很多小伙伴询问关于PRD的模板和资料。所以本文特地梳理了PRD的内容，希望能给你带来启发与思考。John之前梳理过产品自查表，但...
+ ## [年会设计：服务设计思维的实际应用](http://www.woshipm.com/pd/1885851.html)
+ > 年末将至，各家公司都陆续展开了年会的策划与部署，那么如何做出一场别具一格的年会呢？如何利用服务设计思维让年会设计锦上添花呢？本文将为你带来思考与启发。又到...
+ ## [流量下半场的毒药与解药](http://www.woshipm.com/it/3030194.html)
+ > 在互联网进入下半场的同时，流量也进入了下半场。让我们回顾上半场战役关键词：免费、红利、高增长、高爆发，这个赢家通吃的时代一去不复返。2019年是移动互联网10周...
+ ## [证券产品框架拆解：“最后一公里”的竞争](http://www.woshipm.com/pd/3027442.html)
+ > 笔者结合实际证券交易行为，对证券产品进行产品框架拆解，得出证券产品的发展方向。如果从认知及行为的角度将人的证券交易行为进行抽象，可以得到这样一个模型：目标...
+ ## [以网易FishDesign为例：企业级UI组件库的设计方法与实践](http://www.woshipm.com/pd/3030168.html)
+ > 组件库最大的价值在于提升整个团队的产研效率，使设计质量得以保障的同时提升产品整体的用户体验。产品：这次需求很简单，对比上期只有字段和操作项的差异，把上次的...
  ## [走进春天：用信息架构，来落地产品架构](http://www.woshipm.com/pd/3029235.html)
  > 上一篇，深入探讨了产品的三大类功能。这一篇，主要从信息架构的角度，来探讨一下产品功能的落地问题。这个信息架构的角度，具体而言，就是只包含一级频道的交互设计...
  ## [二手电商之“转转”的焦虑](http://www.woshipm.com/it/3022590.html)
  > 在二手市场竞争中，转转面临着一场持久的拉锯战，它的焦虑或许只增不减。电商自发展以来，平台之间的竞争与角逐就被人所津津乐道。除了天猫、淘宝、京东等主流的行业...
  ## [5个方法玩转社群，600个社群也不在话下](http://www.woshipm.com/operate/3027265.html)
  > 做好一个社群容易，做好六百个以上社群不易，最终能否让每个社群都能够成为一个活跃并对品牌有价值的社群，取决于品牌提供的粉丝体验。笔者实际操盘社群运营，亲身经...
- ## [管理者必修课：提升组织结构驾驭能力](http://www.woshipm.com/zhichang/3022008.html)
- > 评估一个管理者的核心能力，第一是战略能力，第二就是驾驭组织结构的能力。组织结构能力如同古时将军打仗的排兵布阵能力。它是决定是否能打一场胜仗的关键因素，因此组...
- ## [品牌时代：不懂品效统筹，何谈品效合一](http://www.woshipm.com/marketing/3029117.html)
- > 与其争议品效合一，不如研究一下品效统筹。随着互联网、新媒体、社群、粉丝经济、共享经济等新技术、新方法的涌现，企业的增长焦虑不但没有减弱，反而愈演愈烈，甚至...
- ## [5个要点，细数用户增长方法论](http://www.woshipm.com/operate/3026511.html)
- > 在做用户增长为核心的产品运营推广前，我们应从几个方面入手——打造核心功能点、转化方式要清晰、用户反馈与转化、传播渠道要合适、建立病毒式传播规则。2017年，以营...
- ## [线上课程 | 听说那些不具备增长思维的互联网人，将要被淘汰?](http://www.woshipm.com/active/3023265.html)
- > 毫无疑问，从2017年到现在，“拉新”“裂变”“分销”“增长”成了大家讨论最多的话题。这些热门话题背后显现出的是，在流量红利和宏观环境的变化下，大、中、小型公司对于业务...
  ## [微信外链新规正式执行！今后微信裂变、拉新将何去何从？](http://www.chanpin100.com/article/109866)
  > 来了来了！最严厉的微信外链新规它走来了！
  ## [一文看懂NLP里的模型框架Encoder-Decoder和Seq2Seq](http://www.chanpin100.com/article/109864)
