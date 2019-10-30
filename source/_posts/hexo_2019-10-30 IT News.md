@@ -1,22 +1,26 @@
 ---
 title: 2019-10-30 IT News
 copyright: true
-date: 2019-10-30 08:00:54
+date: 2019-10-30 09:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G遇到智能驾驶会发生什么?11月1日请走进2019世界智能驾驶峰会](http://mp.weixin.qq.com/s?src=11&timestamp=1572393605&ver=1943&signature=YO8C03WV-FqWRiFc42Zl8K6bzV2I60yF*7MySRzWgaQjaOpWV3AZ*xIKWymFKwXPBtgpbYzFIfuXqeh4rygZJoHwYJ4Q7pxkaCjeJkfVuxl5gGLFymDZTybcgAc2vv-4&new=1)
+ ## [5G遇到智能驾驶会发生什么?11月1日请走进2019世界智能驾驶峰会](http://mp.weixin.qq.com/s?src=11&timestamp=1572397204&ver=1943&signature=YO8C03WV-FqWRiFc42Zl8K6bzV2I60yF*7MySRzWgaQjaOpWV3AZ*xIKWymFKwXPpe9FySXDCqVsbFoPWs74AutKPVzP5NI9tVbJcN4YbY5jRBukHtM7CjiTnK7LrP3V&new=1)
  > 5G与智能驾驶和技术每前进一步，它带来的涟漪效应也将被数倍放大。从智能汽车开启的变革将传导至智能交通并推动智慧城市的发展，最终会影响社会变革。而这一切，今天正是起点。每想到此，就会感到身处这一行业的...
- ## [华为的敬畏：从北京通信展看“5G引领”](http://mp.weixin.qq.com/s?src=11&timestamp=1572393605&ver=1943&signature=X*FYVy7wf34d3gXq-N3nDJ5kG0jekoonedJvRdGgFH2*BN58xGN8zMHli2JpT3Ewx8XQvq0RxQVtd2I72EKTzqloycjsJ4kR-agwyOcit3s-trzpRoiZTj0B*wQ44bAA&new=1)
- > 在这个5G商用元年，即将开幕的中国国际信息通信展览会（PT展）的主角必然是5G。作为我国5G商用牌照正式发放后的一大行业盛会，今年PT展上的5G更加引人关注，因为技术成熟之后5G正面临落地应用、商业模式的探索等...
- ## [比特大陆上演“宫斗”大戏，嘉楠科技欲赴美IPO实现反超!](http://mp.weixin.qq.com/s?src=11&timestamp=1572393605&ver=1943&signature=wEYSWUMKcASKVIsmzuCj3r34C61dl3yNi8I0fNJfpSykIs7y9*6BXbfql8DF2GurUdzYtnUCt6q73gmT1orUU84OpfpOx2cAnfyS07zSJg-S1Tbr7w5JetxurFOlYxY*&new=1)
+ ## [比特大陆上演“宫斗”大戏，嘉楠科技欲赴美IPO实现反超!](http://mp.weixin.qq.com/s?src=11&timestamp=1572397204&ver=1943&signature=wEYSWUMKcASKVIsmzuCj3r34C61dl3yNi8I0fNJfpSykIs7y9*6BXbfql8DF2GurTyiVE2BWGyJjp-sCLW6H61sbXsxlgee8LF2eu4PZ5ayYVlxt6Su5sxoKzLUgZ0Gd&new=1)
  > 上周，中共中央政治局就区块链技术发展现状和趋势进行第十八次集体学习，强调把区块链作为核心技术自主创新重要突破口，加快推动区块链技术和产业创新发展。一夜之间，区块链站上政策风口。受到“最高级别关注”...
- ## [硬蛋供应链|基本半导体 车规级全碳化硅功率模块 斩获第十四届“中国芯”奖项](http://mp.weixin.qq.com/s?src=11&timestamp=1572393605&ver=1943&signature=4wNsV0AKFK2N4VCf5KZp4-DdiNJn4fOXQI*oz7YQFYy-u4uP1TrdlI20N2aAN7qFEN-IephkHRtEYx6yFOlX8yrnQ7DHO77lg-bYjJuiQXoxZ*dbDrjROskWqNEbSBH6&new=1)
+ ## [硬蛋供应链|基本半导体 车规级全碳化硅功率模块 斩获第十四届“中国芯”奖项](http://mp.weixin.qq.com/s?src=11&timestamp=1572397204&ver=1943&signature=4wNsV0AKFK2N4VCf5KZp4-DdiNJn4fOXQI*oz7YQFYy-u4uP1TrdlI20N2aAN7qFDfrEfeEUaKYGJQvtakn9KpL7nySYckXJlCqB4nafjw799PPvHFvbiwXzseOGHvf5&new=1)
  > 导读：10月25日，第十四届“中国集成电路产业促进大会”在青岛举办，并现场揭晓了“中国芯”优秀产品征集结果。深圳本土第三代半导体科创企业 - 深圳基本半导体有限公司旗下车规级全碳化硅功率模块（BMB200120P1...
- ## [英德同意采用华为的5G设备，诺基亚和爱立信将更艰难](http://mp.weixin.qq.com/s?src=11&timestamp=1572393605&ver=1943&signature=eV3O7MS3cGr*Mf6NiycQ*P71XOqf0hr7B6CE4szfsFQJLDyqMzQKnDrQyLWNfqN9E0mYDGIVlZNyt4BJPImG2I*Vi4nV*K4-Pvu68WfN-uhhe4pE5AQB3WBHLA9ZTXOd&new=1)
+ ## [英德同意采用华为的5G设备，诺基亚和爱立信将更艰难](http://mp.weixin.qq.com/s?src=11&timestamp=1572397204&ver=1943&signature=eV3O7MS3cGr*Mf6NiycQ*P71XOqf0hr7B6CE4szfsFQJLDyqMzQKnDrQyLWNfqN9kxib6P4LtGMVYz9o-nTNvGz0Kgp-jz8G6S2AVRBK*hBxg3OGVhiM7dwsFA35a*NB&new=1)
  > 继德国同意采用华为的5G设备后，英国也计划同意采用华为的5G设备，如此一来华为可望延续4G时代它在欧洲市场所取得的竞争优势。这对于欧洲两大通信设备商诺基亚和爱立信来说显然的一个坏消息，这两家企业目前正处...
+ ## [美国慌了?中兴刚刚突然宣布!谁也没想到…](http://mp.weixin.qq.com/s?src=11&timestamp=1572397204&ver=1943&signature=2*GmHLDZIop10BTw0YnQzAJAd3w-kRBIhMOPrOtgbtY-b8x7NgRGg5Rc87Uc8nEHHLGTNT9s2Y5TH2wPwYL7LbiJTsYoFCJctsanUcYMdUMppsB9fC37qeYj92jb6r*e&new=1)
+ > 一刚刚，中兴突然刷屏了！！北京时间2019年10月28日，中兴通讯正式发布2019年第三季度以及2019年年度业绩报告。财报显示：中兴用了9个月时间，实现了642.41亿元的营收，同比增长9.3%。同时，归属于上市公司普通...
+ ## [华为的敬畏：从北京通信展看“5G引领”](http://mp.weixin.qq.com/s?src=11&timestamp=1572397204&ver=1943&signature=X*FYVy7wf34d3gXq-N3nDJ5kG0jekoonedJvRdGgFH2*BN58xGN8zMHli2JpT3EwCOo*-0Or0ip5jlJ7kZkSEeXY8UZRnI2yTAJtj3EWRf6VCLoq5A6IK5To9gJZazy3&new=1)
+ > 在这个5G商用元年，即将开幕的中国国际信息通信展览会（PT展）的主角必然是5G。作为我国5G商用牌照正式发放后的一大行业盛会，今年PT展上的5G更加引人关注，因为技术成熟之后5G正面临落地应用、商业模式的探索等...
 # IT 技术 
+ ## [如何在Windows 10中执行Windows Defender离线扫描？](http://os.51cto.com/art/201910/605084.htm)
+ > 如何在Windows 10中执行Windows Defender离线扫描？
  ## [从0到1 手把手教你建一个区块链](http://blockchain.51cto.com/art/201910/605082.htm)
  > 从0到1 手把手教你建一个区块链
  ## [玩了分布式这么久,你不会连Kafka都不清楚吧](http://os.51cto.com/art/201910/605044.htm)
@@ -31,8 +35,10 @@ categories: IT NEWS
  > 媒体近距离接触谷歌量子计算机：还要解决哪些问题
  ## [概述语音识别技术的发展及其应用](http://ai.51cto.com/art/201910/605012.htm)
  > 概述语音识别技术的发展及其应用
- ## [又一家明星机器人公司倒掉：曾是全球机器人技术50强](http://news.51cto.com/art/201910/605036.htm)
- > 又一家明星机器人公司倒掉：曾是全球机器人技术50强
+ ## [JavaScript冒泡排序与选择排序](http://developer.51cto.com/art/201910/605105.htm)
+ > 算法与数据结构构成了程序，数据结构用于实现数据的表示、存储、管理，算法通过使用数据完成一定的业务逻
+ ## [把JS代码生成字节码，用字节码技术保护NodeJS源码](http://developer.51cto.com/art/201910/605104.htm)
+ > 现在很后端服务都是用NodeJS开发的，比如网站后台、游戏服务器、应用服务等等。但NodeJS的后端，有一个弊
  ## [图文并茂深入了解VLAN工作原理，不能错过干货](http://network.51cto.com/art/201910/605101.htm)
  > 了解了VLAN的划分的几种方法和配置，我非常好奇VLAN是一个怎样的工作过程呢?它是如何做到隔离的功能，带着
  ## [合规指令：主导 2019 安全重点的网络安全较佳实践](http://zhuanlan.51cto.com/art/201910/605103.htm)
@@ -49,37 +55,72 @@ categories: IT NEWS
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [【Windows】Window中的常用快捷键](https://blog.csdn.net/dengjin20104042056/article/details/102761876)
- > 【Windows】Window中的常用快捷键
- ## [史上最全的中高级JAVA工程师-面试题汇总](https://blog.csdn.net/shengqianfeng/article/details/102572691)
- > 
+ ## [项目实战——基于计算机视觉的物体位姿定位及机械臂抓取（基本原理）](https://blog.csdn.net/qq_32061503/article/details/102796466)
+ > 项目实战——基于计算机视觉的物体位姿定位及机械臂抓取（基本原理）
  ## [ARM：供给中国 160 亿颗芯片，继续授权华为！](https://blog.csdn.net/csdnnews/article/details/102752202)
  > 
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
- > HTML CSS整理笔记
- ## [Linux/C/C++ 不可错过的好书](https://blog.csdn.net/hyb612/article/details/102730648)
- > Linux/C/C++ 不可错过的好书
- ## [Android应届毕业生“过五关斩六将”，怒刷千题，让你面试一路畅通！](https://blog.csdn.net/weixin_44339238/article/details/102783622)
- > Android应届毕业生“过五关斩六将”，怒刷千题，让你面试一路畅通！
- ## [C/C++后端-服务端开发技术博文分类汇总](https://blog.csdn.net/ZYZMZM_/article/details/102717590)
- > 
- ## [【分享】初学者再不用这几个谷歌插件，就别做开发啦！](https://blog.csdn.net/qq_36903042/article/details/102784591)
- > 【分享】初学者再不用这几个谷歌插件，就别做开发啦！
+ ## [本科-人工智能复习题](https://blog.csdn.net/weixin_42859280/article/details/102792884)
+ > 本科-人工智能复习题
  ## [为什么你学不会递归？告别递归，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/102767860)
  > 为什么你学不会递归？告别递归，谈谈我的经验
- ## [阿里资深工程师教你如何优化 Java 代码！](https://blog.csdn.net/csdnnews/article/details/100987866)
- > 阿里资深工程师教你如何优化 Java 代码！
+ ## [ActiveMQ消息队列和SSM整合实际使用流程](https://blog.csdn.net/qq_15038565/article/details/102786835)
+ > ActiveMQ消息队列和SSM整合实际使用流程
+ ## [Hadoop技术(一)分布式文件系统HDFS](https://blog.csdn.net/qq_43371556/article/details/102709669)
+ > 
+ ## [计算机操作系统概述---目标、作用、功能、特性和发展过程](https://blog.csdn.net/qq_34666857/article/details/102792166)
+ > 
+ ## [基于FPGA的超声波测距](https://blog.csdn.net/qq_41467882/article/details/102790652)
+ > 基于FPGA的超声波测距
+ ## [屌丝的眼泪，因为错过的初恋，才搞清楚PNG图片压缩原理](https://blog.csdn.net/weixin_44339238/article/details/102785294)
+ > 屌丝的眼泪，因为错过的初恋，才搞清楚PNG图片压缩原理
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ > 
+ ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
+ > HTML CSS整理笔记
  ## [十年磨一剑?  Linux QQ 终于发布了新版本！](https://blog.csdn.net/qq_35067322/article/details/102734708)
  > 
- ## [内存崩溃了？其实你只需要换一种方式](https://blog.csdn.net/z694644032/article/details/102778876)
- > 
+ ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
+ > 大学四年，分享看过的优质书籍
  ## [开源无疆！CSDN 董事长蒋涛、GitHub 副总裁 Thomas Dohmke 即将重磅对话](https://blog.csdn.net/csdnnews/article/details/102793730)
  > 作者 | 屠敏责编 | 唐小引、胡永波众所周知，作为全球知名的社交编程及代码托管网站 GitHub，自 2008 年推出后，一度受到广大开发者的欢迎与喜爱。根据 2018 年 GitHub 年度报告显示，仅在 2018 年期间，GitHub 上 Pull Requests 数量就已超过 6...
  ## [中手游即将赴港上市，狂揽IP效果存疑](http://www.lanjingtmt.com/news/detail/44719.shtml)
  > 10月31日，中手游将于港交所主板正式挂牌上市，此次是中手游第三次递交相关文件，终于如愿延续中道而止的上市梦。然而，业内人士分析认为，中手游仍面临着IP游戏的市场表现低于预期、缺乏
+# 人工智能 
+ ## [巨头垂涎却不能染指，loT数据库风口已至](https://blog.csdn.net/BEYONDMA/article/details/102764745)
+ > 
+ ## [【小白】【大学】一名嵌入式软件开发小白的单片机学习历程、心路历程、经验分享](https://blog.csdn.net/qq_34981463/article/details/102762581)
+ > 【小白】【大学】一名嵌入式软件开发小白的单片机学习历程、心路历程、经验分享
+ ## [玩转OneNET物联网平台之MQTT服务④ —— 远程控制LED（数量无限制）+ Android App控制](https://blog.csdn.net/dpjcn1990/article/details/102767787)
+ > 玩转OneNET物联网平台之MQTT服务④ —— 远程控制LED（数量无限制）+ Android App控制
+ ## [基于STC89c52rc单片机的红外循迹小车](https://blog.csdn.net/qq_44128141/article/details/102771178)
+ > 基于STC89c52rc单片机的红外循迹小车
+ ## [2019最新lammps分子动力学及vasp第一性原理培训](https://blog.csdn.net/Z9929/article/details/102784419)
+ > 2019最新lammps分子动力学及vasp第一性原理培训
+ ## [咸鱼ZTMS实例—智能车配件](https://blog.csdn.net/weixin_45020839/article/details/102776752)
+ > 咸鱼ZTMS实例—智能车配件
+ ## [ESP8266烧写机智云固件（超详细）](https://blog.csdn.net/weixin_45030703/article/details/102765554)
+ > ESP8266烧写机智云固件（超详细）
+ ## [LED数码管秒表（精确到0.01s）](https://blog.csdn.net/qq_44203948/article/details/102766135)
+ > LED数码管秒表（精确到0.01s）
+ ## [Protocol handler start failed异常解决及端口被占用的排查的方法](https://blog.csdn.net/weixin_44096448/article/details/102773613)
+ > Protocol handler start failed异常解决及端口被占用的排查的方法
+ ## [GitLab从创建到删除项目教程（内含如何配置SSH KEY）](https://blog.csdn.net/pang_ping/article/details/102782764)
+ > GitLab从创建到删除项目教程（内含如何配置SSH KEY）
+ ## [字符串小结](https://blog.csdn.net/mybook1122/article/details/102767722)
+ > 字符串小结
+ ## [RTL Coding Style：Clock信号作为数据输入?](https://blog.csdn.net/qq_43365647/article/details/102768201)
+ > RTL Coding Style：Clock信号作为数据输入?
+ ## [嵌入式(硬件):01---处理器（通用处理器(GPP)、数字信号处理器(DSP)、专用处理器(ASP),ASIC）](https://blog.csdn.net/qq_41453285/article/details/102764129)
+ > 嵌入式(硬件):01---处理器（通用处理器(GPP)、数字信号处理器(DSP)、专用处理器(ASP),ASIC）
+ ## [嵌入式SQLite安装与配置](https://blog.csdn.net/O0o_Or_not/article/details/102771545)
+ > 嵌入式SQLite安装与配置
+ ## [玩转OneNET物联网平台之MQTT服务⑤ —— OneNet智能灯+MVP框架](https://blog.csdn.net/dpjcn1990/article/details/102779915)
+ > 玩转OneNET物联网平台之MQTT服务⑤ —— OneNet智能灯+MVP框架
 # PM 
+ ## [线上课程 | 听说那些不具备增长思维的互联网人，将要被淘汰?](http://www.woshipm.com/active/3023265.html)
+ > 毫无疑问，从2017年到现在，“拉新”“裂变”“分销”“增长”成了大家讨论最多的话题。这些热门话题背后显现出的是，在流量红利和宏观环境的变化下，大、中、小型公司对于业务...
+ ## [5个要点，细数用户增长方法论](http://www.woshipm.com/operate/3026511.html)
+ > 在做用户增长为核心的产品运营推广前，我们应从几个方面入手——打造核心功能点、转化方式要清晰、用户反馈与转化、传播渠道要合适、建立病毒式传播规则。2017年，以营...
  ## [微信外链新规正式执行！今后微信裂变、拉新将何去何从？](http://www.chanpin100.com/article/109866)
  > 来了来了！最严厉的微信外链新规它走来了！
  ## [一文看懂NLP里的模型框架Encoder-Decoder和Seq2Seq](http://www.chanpin100.com/article/109864)
