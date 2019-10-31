@@ -1,7 +1,7 @@
 ---
 title: 2019-10-31 IT News
 copyright: true
-date: 2019-10-31 12:00:58
+date: 2019-10-31 17:01:31
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,33 +67,53 @@ Facebook&#19982;&#33521;&#30417;&#31649;&#26426;&#26500;&#36798;&#25104;&#21327;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [世界最大盗版下载网站陷入瘫痪](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=qnpzuj68TjxVDtGT6-2CbHwCy7Wb9jcTWw9FWs2LyGQqvBKQLKFJFYOjYJgj3tCpvR3qGmrgziB9JLrEBpS6xLeZm06ofDzM0DpNdUtYB5M79nHOlqtbaDRbX*HGmzRr&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，世界最大的BT种子网站海盗湾（Pirate Bay）已经被迫停机了数周时间。有消息称，该网站可能是受到了分布式拒绝服务（DDoS）攻击。      据
- ## [5G正式来了，队友再也不用担心我挂机了](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=qxTgqd8FOnYD9rpVT6dPOYJ7Lnh37KZmP65mDlJzhsjnLjnWlFnunF3zdhElKANClnm8Ryni0IPv5qov*G1iQ*5pxlLSCicsZ9JOnknTWnYIFKpKQyJYt2xB6MOqva2Q&new=1)
- > “5G到底有多快？用了高铁上打游戏卡不？”“我啥时候才能用上5G手机？”“5G比4G牛在哪儿？”……搜索2019年下半年的关键词5G绝对是点击率最高的其中一个10月31日工信部与三大运营商等将举行5G商用启动仪式11月...
- ## [齿科3D打印应用新突破：黑格科技Cast 2.0材料支架包埋铸造方案](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=XCuQxi7KAPMiMIqXl3nd7WFgXusvmW3tLz2d7TaTWnoBHeiRLC4wpqshyWSi8khen*XlR-ymA2mh0JvjlEf7qkonbvEoV2NeTFffRGbtb5TgQM93SjXztN*udCmSLh*g&new=1)
- > 关注南极熊3D打印南极熊导读：2018年A轮融资3.25亿元的中国3D打印应用企业黑格科技，又一次推出革新传统齿科应用的新技术——Cast 2.0材料支架包埋铸造方案。行业应用背景：目前，在口腔修复过程中，可摘局部义...
- ## [内蒙古科峰智能入驻未知大陆，将提供极速3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=msIGt8R006JGttzXz*2C*tEZnMQLXBicoS1UJiJ3sK4XeU4Pih-F7eK4qYrvkbLKANXLYnZD2D95YS9IXoD-5ouSwHCkJG5qlQy4aTSxMRS5cfZ7Bef-tvebJroaW-kV&new=1)
- > 内蒙古科峰智能科技有限公司成立于2018年7月，是由安徽科元三维技术有限公司和内蒙古红山国有资本运营有限责任公司共同出资组建，注册资本6000万元, 位于内蒙古赤峰市红山经济开发区，是一家集3D打印软件和产品...
- ## [5G商用正式开启：三大运营商套餐128元起步，你觉得贵吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=GbvgxYjfAqncMswiO-fyg0cux9iRf-OGXAKFdfUlKfU1WfCeo-va2shSm5s8vNwWhH8udwbbOJyUL4CiQ00iECMt*fwpsN3mYxD1c3n*fyNGi7wIRJBxLAhV5tz606-7&new=1)
- > 10月31日，工信部副部长陈肇雄在2019年中国国际信息通信展览会开幕论坛上，宣布5G商用正式启动。陈肇雄表示：网络设施不断完善 ，网络下载速率提升到全球先进水平， 今年年底将开通13万个5G基站，北京上海等地连...
- ## [被喷了这么多年的长城宽带终于要凉了?](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=Klel*P3l6Y0Fj1hDtGDj2zMwlZPTuffLiSupz74J-98vkqmPK76Sm-UEQWaIjNIEIbOIk064p*51Z*tAXd-zXHUIYsoW2VCKnA1UMlgNKOIAXLNlTYd-s47vPt9c8ZA*&new=1)
- > 说到小区宽带，大部分差友家里肯定都用过移动联通电信（ 御三家 ）提供的宽带服务。但可能有那么一部分差友，因为各种各样的原因，一直用的是像长城宽带这样的「 二级宽带 」。而这种宽带的体验，大部分情况下可...
- ## [业绩|光通信相关上市公司前三季度业绩动态(2)](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=LW*a2XSo-RtiLFfdICHucHi8I0I9JlX*2bXJCr*v9hZpUtV41vXQilI5HVk4Js3n23i7OrpdfGOrFaIqKvuqzwnOpISlsHgWbtqJS6L74sJDuR3ctEUneqa1TNGdlsHU&new=1)
- > 导读     旭创、新易盛、康宁、Inphi多家光通信上市公司发布了2019年三季度经营业绩动态！  中际旭创 Innolight  光模块研发与制造上市公司中际旭创股份有限公司公布2019年第三季度业绩情况，该季度实现营业...
- ## [中国纪录片探访机器人伴侣工厂!2050年人会和机器人结婚吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=JMScSR5fl6Ai1WYfxfXAiJ1fTU8mjI2Am3DNtPS-nTfaO6qq7rxUXakZ78bXem6HrTM0XWB2zkJ*AjRjpEmEM015EyrbzDA*ZJ4sjvBXcMkvo1VYerFXG*EeuEU62TEj&new=1)
- > 看点：机器人伴侣除了在肉体上给人满足，精神方面能否和人类契合？谈到机器人你会想到什么？是充满科幻色彩的大片还是萌萌的动画电影？当你在街头看到有人和机器人边聊天边喝咖啡，或者走进酒吧时坐在你朋友身边...
- ## [华为如果上市真的值1.3万亿美元么?](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=oOyzxqdmojqiq28R-NjG4h4kdu5HuUbyWo*P6A184Ph1d0qGnk44YrDZKd*0yowwYFyf2Om6vI-ZGD1u0xjYo1pAlUIl6Nueno*MuK01L4Pyg2x93JUyCSsvpsMf823S&new=1)
- > 华为没有上市，所以估值的问题一直都是雾里看花，有说是1.7万亿元人民币，有说是1.3万亿美元，如今知名院士倪光南认为华为估值1.3万亿美元没有问题，再次让这个话题成为热点，那么华为真的值1.3万亿美元么？目前...
- ## [5G套餐资费曝光，运营商竟按网速收费?](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=aBb5na6cw5ZBRsKiRDhXDfAoqd9vNKS1SHMHZ*5ty45mPVKW3zvtHr7s-TDNKJr6tNZql5XfqA9HfvmRL2nsa4WIhUikPrTqcF6srWR7vnPptgxg8QYR70Bfz0vtqeIt&new=1)
- > 2019年也是5G元年，经过长期的5G基础设施建设，目前5G网络的覆盖面积已经比较可观，过不了多久就可以正式投入使用。在明天要举行的中国国际信息通信展览会上，三大运营商将会正式公布5G套餐的资费，并于2019年11...
- ## [5G走向规模建设，华为为何高调推自动驾驶网络ADN?](http://mp.weixin.qq.com/s?src=11&timestamp=1572494405&ver=1945&signature=oigZlyIA7ITy1b60YU*D9QjCdVnfsVODp5j1VG2nYg4VEi-JhmSXubhr78QDREe-jpBgHJ4Q4eK27vy1QIgNok8UJeg8w2NV40Z9qe9i4pS3Ai0FGdQlzoFZbVtsogif&new=1)
- > 当前5G炙手可热，AI则是另一个与之媲美的热点。5G+AI更能带来巨大变革。国内三大运营商都看到5G+AI的巨大价值，在积极实践。而华为也在帮助运营商应用AI，实现自动驾驶的网络，以打造最好的5G。在2019 PT展开幕...
+ ## [5G iPhone 稳了，明年发布](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=JeCVhBB380UdG0PeMsje6qjjifbh6a1pokgcgNiWFT2EYBMPCA7b-678VnW84bPYypIxmbvHL*KHUJR*z99JOEsPQrBTNDxjfUHvkgSX1vYYyvV*VtTAbPiF3*-oGcKa&new=1)
+ > 果粉俱乐部让科技更好的服务生活点击上方「蓝字」加入我们昨天苹果又上了热搜，但无关大热的 AirPods Pro 和销量不错的 iPhone 11，而是 5G iPhone。据日经亚洲评论（Nikkei Asian Review）报道，他们从
+ ## [刚刚公布!5G套餐正式上线!](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=KQO6LfERUOv3VaJIVyzkKODKtR89C-3e1GFgVo2v2Xt6cHUFi4hXNXSy2EDOXIotVDx0S6kRaLrPiyTdkEtXKiAGkNwoGUxP247xVscDCjTRmBt6cin0SOEHVALtplso&new=1)
+ > 来源：央视新闻、澎湃新闻、都市快报盼望着，盼望着，5G套餐终于来了！   起步价128元！   就在刚刚，国内首个5G套餐正式公布。中国移动、中国电信和中国联通三家运营商同时叩开5G商用时代的大门，三家套餐的起...
+ ## [首届世界显示产业大会，这些大咖都来!](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=Xp*Vbulb81gytUzmdVLf8Jy9IHOFna31syjrcXAopMWZ22HN8QYeIs7B5wP9rnm15WLYvvTHezDn-20JaR0SgqqNbD8JC5SxPvjiF*siSDodEZpdPl1SCaGwMBK161PE&new=1)
+ > 11月22日-24日全球显示领域规格高、规模大国际化程度高的盛会首届世界显示产业大会将于安徽省合肥市举办大会的主题是“显示美好生活”本次大会包括开幕式+1场主论坛6场分论坛+资本对接会显示技术和应用展多场新...
+ ## [5G时代真来了!三大运营商公布5G商用套餐价格，最低128元30G，11月1日上线!](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=b-s3xdzfp3CzRcapP6ov91Cw*k0DtUX60-fhGAMBWe0wi52aM4POllaJmAp0aqA1KKo5rcvVHWBqff2ksH5Xtu3YvCjRe-vDGXpIJWuFagPAihCMyqsupQQhvK5YTQAf&new=1)
+ > 夜航拍客招募啦！如果您有新闻线索，可以拨打0451-82898289，也可以在微信公众号给我们留言或直接发送您拍摄的照片和视频。也欢迎您加入“夜航拍客”大家庭，微信搜索 yehangpaike 加“新闻夜航”为好友，为我们...
+ ## [万圣节怎么High，你需要这些“鬼”点子](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=fNBcR-4*RsFT7HKSIRw-KE-HD0IV87m-Jq8sI*RUVBN2ZnOofh3RHbAtPDu6r3KNJ2BUj7j4mPGwn2TEu5dPkmrIbg79JywkzFPv9w6twIJxNaMpi6EUvk*hv55cdMi*&new=1)
+ > （本文阅读时间：4分钟）铛~铛~铛~万圣节party的钟声已经敲响潜藏内心的“邪恶”搞怪力量已蠢蠢欲动是时候释放心中的恶魔出来捣蛋了小编整理了如下“鬼混”攻略让我们一起飞向云端，燥起来！云时代“鬼混”，需...
+ ## [全国首批试点城市!雄安正式进入5G时代!5G套餐抢先看→](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=Jh6zKJ65LvUMKJbw9zy6nTjYjHAzYKdhVpXE5Zixa7a3LSgLLXiQeTrtK*h*5MBmQDrpKcvDHW54fMOjWyiR-F8RA8Mf6UyHmN0RHIrDlzZQwaOGza*GVPMmFIBNSyuH&new=1)
+ > 10月31日，中国电信等三家电信运营商在雄安新区举行5G商用首发仪式。自即日起，雄安新区的市民朋友即可在营业厅办理5G套餐业务，标志着雄安新区正式进入5G时代，雄安新区的信息化建设将迎来全面提速。2017年10月...
+ ## [5G手机套餐详情出炉!128元起，最高869元，你用得起吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=y6VInE87tUXG7YR44Z7Otj8r0b25Ldc1w49UIVtuI-SufRGWors1FfINkO4LN8Dcc8T4jMVtbozcQYRcTJIwmeWj91tnnnio0e4MTHKqLzeunqt7m1hzn-Lr6R6dCdHs&new=1)
+ > 10月31日，中国移动、中国联通和中国电信共同启动5G商用计划，三大电信运营商的官方APP上线5G套餐详情，最低套餐价128元/月，最高869元/月。羊城晚报记者第一时间来详细汇总下，以方便大家了解。中国移动5G套餐...
+ ## [碾压99.8%人类对手，三种族都达宗师级!星际AI登上Nature，技术首次完整披露](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=ufDgJF-ttdwWgSRz4GvsbfZFt8aLHUpcC9yHtzomlOL-DWsvQjvqhegrNx8g28MUE3QwQmqS9beXd*1Tdkj6ae7HKNMhWXWIwQrrERutVhAI4plZzubS6jLAli2ais*6&new=1)
+ > 乾明 鱼羊 栗子 发自 凹非寺 量子位 报道 | 公众号 QbitAI仅剩0.2%的星际2玩家，还没有被AI碾压。这是匿名混入天梯的AlphaStar，交出的最新成绩单。同时，DeepMind也在Nature上完整披露了AlphaStar的
+ ## [苹果服务业务2年间增收34亿美元 涨幅达到37%](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=NC7-2D9nxA73Jp3ZnNNVd*xGKR72724msz4WxbRq-AZGxZ76OyAqx6mOdAZTm08bESRqYmTmPQFr700m*9J4aOk5haM16vvaiVunbe4RdGBBVdqlOMiUmUUhy49Sevn0&new=1)
+ > 北京时间10月31日凌晨，苹果公司发布了2019财年第四财季业绩。其中，来自于服务的净营收为125.11亿美元，高于去年同期的105.99亿美元，再次创下历史新高。苹果CEO蒂姆·库克（Tim Cook）评价道，这是苹果公司历...
+ ## [5G来了!手机号用了3年以上的沈阳人快看!你的套餐价要变了!](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=Wnm8D7ixUtXU5PDLrp7Qk8UGqdvKEO2Ewgzd27M1dtUeO4mlC4DSWTuBxBJdY8oVAXFcbuZ9RFVbOEeAxYUO80aYbsOUnPJcwLYpjqGDoO6snQF9LUqsYVN*NBVuMFZB&new=1)
+ > 今天上午全网最重磅的消息就是中国移动、中国联通、中国电信三大运营商公布5G套餐价！自今年6月6日工信部向中国移动、中国电信、中国联通和中国广电颁发5G商用牌照后很多沈阳人都期望能尽快使用5G网络！就在今天...
+ ## [5G套餐来了!联通5G冰激凌套餐,月费129元起!网友,价格还可以……](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=FmIllCjVFKpdY2Lxe9im0h-SiCVolEWn5SYOjF6iCQRFSac0YW2JAIkp1phyFeR*46T*gezQwNaOgvO94Bb*AZS5K0t0iKrPQmrnut5Q18os5hJ9GQ3BZ9LvUUjeppkw&new=1)
+ > 就在今天（10月31日），5G套餐终于亮相了。10月31日，2019中国国际通信展在北京正式拉开帷幕。在开幕论坛上，中国联通宣布正式启动5G商用，并发布5G商用套餐。新鲜出炉的5G套餐分7个档位，分别为129元、159元、1...
+ ## [5G速度慢?移动这些全场景直播足以颠覆你的认知](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=wuFec9XMf3d8Y4nzky*0Loi*SgMMbgG0qWG5s*WLy7c58PS4VExRGKFR7XP*3aUaioGdXT38qNsv5Ow3laPiWdq3-B7MCk2kbYkH*T*8d*Tr5fRjx0XvQZTnkBeWMYBh&new=1)
+ > 今年4月初，韩国运营商SKT电信和美国运营商Verizon几乎同时发布了商用的5G网络。本以为第一波尝鲜的国外用户会按捺不住对5G的喜爱，没想到结果却是纷纷忍不住对全球首个5G网络的各种吐槽！ 回到国内，自从10月底...
+ ## [5G时代真的来了!三大运营商公布5G商用套餐](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=C8qXTPu*R3CYbM3BWUPD5k6eIS6-tvfYmEF4fyvF23NkDiEYePPW1xt2oYfmNIwFiF0GGPNxdjkJ6KLPQP7KrBiko0LoETT*ACbkKJE1nebTQb621ScprDGd2uWqZocH&new=1)
+ > 在10月31日举行的2019年中国国际信息通信展览会上，工信部与三大运营商举行5G商用启动仪式。中国移动、中国联通、中国电信正式公布5G套餐，并于11月1日正式上线5G商用套餐。这标志着我国将正式进入5G商用时代。...
+ ## [5G套餐价格来了!128元起，最高档近600元/月，广州首批开通](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=SSs1BDfdwi2RoTmWJgotVhKmifEftfsbDgsT-uqXZ0*JzXBznywWbpW2vAyFe8coo2UnEMk10WjdHaWCodI4PqdEG47Z2dWNEztsQ*Qlu*ABsF43INcLtemSrArGZ4CY&new=1)
+ > 南都记者获悉，在今早（10月31日）举行的2019中国国际信息通信展览会上，工信部与三大运营商宣布启动5G商用，明天（11月1日）三大运营商将正式上线5G商用套餐。运营商启动5G商用南都记者注意到三大运营商均已在...
+ ## [2020虚拟与增强现实产业金V奖评选报名正式开启](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=A7A98unpkIvig9ghXedBakPzxh*iiyHiQnN8mFeIFpDXLYhJuD5qMihZvWRrCe-8yYRPxSETinZYI4sNMFyN7FX7Z8k-0Z5TYAP8Oy9i*TX5fFhu9sq5hktqa*kEHWai&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱（原创）2019年VR/AR行业充满了新的机遇。2019世界VR产业大会在南昌成功召开，大会以“VR让世界更精彩——VR+5G开启感...
+ ## [今天，正式进入5G时代!三大运营商公布5G套餐价格，最低128元/月!](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=LOJLnx3WJeOZm4T2*WgM8INxKwJme-XVFqQxdBAddGLZxGfMBYwsr46xY7XWVWCOw4hJDbWwuQnQdePEO*5c4F0yqYcDOr8tLzuUMJudpYv9Q4DIwRoqK0JZvdcPmkBd&new=1)
+ > 盼望着，盼望着，5G套餐终于来了！10月31日，三大运营商正式发布5G商用套餐标准。明天（11月1日），5G商用套餐正式上线！听到这个消息，不少网友掩饰不住激动的小心情。无卡顿直播、无延迟游戏、地铁看电影、高...
+ ## [陕西正式步入5G时代!中国移动5G今日正式商用!](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=iwD8HHkHDQtoXN78tzeG5z*L8X4fPyLQAO37bKAGN*qxzHiBAXwktR4LB3gZqHbTfJzQ55SkOIjYpZOm955IaUY5UTIgMqZ31XvkawFhKqYneJzLZMeb1i39df2NRY5M&new=1)
+ > “5G到底有多快？用了高铁上打游戏卡不？”“我啥时候才能用上5G手机？”“5G比4G牛在哪儿？”……搜索2019年下半年的关键词5G绝对是点击率最高的其中一个今天工信部与三大运营商举行5G商用启动仪式11月1日三大...
+ ## [上海5G商用，来啦!资费详情请戳→](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=pY28vrVdzSwXf-hNPyCfk*ED9kO8E3OfABwbDdh2jmGZ4LM6JQp8XXFsxGjvVYbP-hgLVkRd4g94XjWpu61y91FiMBSHxNRwQyNefngoveEH27-bFiLCdVbXJlJLgeAW&new=1)
+ > 今天上午，上海市通信管理局举行了上海5G商用启动仪式，标志着上海步入5G商用时代！5G的资费如何？基站建设情况怎么样？5G有什么优势？赶紧来看看！资 费资费是消费者们最关心的话题，小布了解到，三家运营商5G...
+ ## [5G套餐今天正式上市，比4G首发时多30倍流量，全球已商用国家中性价比最高](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=Me4DJxFCtWlnj4eSlHqVftmrK1uaW11H4ck94-HXzsxogbI9yBRzM7ICv2ZbGtVdJB7gBPbP46kxDOXp3lWYSHrV0v721qoXQXGyDi*RiuPxfXx*S0MpifLeIingLHj5&new=1)
+ > 2019年北京国际通信展，将会在我国通信发展史中深深留下自己的印记，因为它见证了我国通信产业正式进入了5G时代。就在刚刚结束的北京国际通信展开幕式上，我国5G商用启动仪式举行，工信部副部长陈肇雄致辞，中国...
+ ## [5G商用正式启动：最全套餐资费详情都在这里了](http://mp.weixin.qq.com/s?src=11&timestamp=1572512405&ver=1945&signature=JSMN7rshA1HqTAQn1JGlADbv8H4Vtq1grCWsGp*JIMU9SbRi5aOIzot0gj3LWKXiz-ALHjrSL1rlBFGiWMN*Hx70UvCVBPvVyCrk-tN7L602Pg1UZ7reIELvh4aMH*qG&new=1)
+ > 10月31日，在2019年中国国际信息通信展览会开幕论坛上，工信部副部长陈肇雄宣布，5G商用正式启动。陈肇雄表示，今年年底将开通13万个5G基站，北京上海等地连片覆盖。此外，三大运营商也开启5G商用计划，目前5G套...
 # IT 技术 
  ## [Pandas的五项高级功能及使用方法](http://bigdata.51cto.com/art/201910/605195.htm)
  > Pandas的五项高级功能及使用方法
  ## [Redis如何轻松支撑万亿级日访问量？](http://database.51cto.com/art/201910/605189.htm)
  > Redis如何轻松支撑万亿级日访问量？
+ ## [央行万字工作论文：区块链能做什么、不能做什么？](http://blockchain.51cto.com/art/201910/605143.htm)
+ > 央行万字工作论文：区块链能做什么、不能做什么？
  ## [推荐 | 10大搜索引擎工具帮你解决搜索难题](http://developer.51cto.com/art/201910/605181.htm)
  > 推荐 | 10大搜索引擎工具帮你解决搜索难题
  ## [机器学习开发指南（基础篇）](http://ai.51cto.com/art/201910/605056.htm)
@@ -104,58 +124,56 @@ Facebook&#19982;&#33521;&#30417;&#31649;&#26426;&#26500;&#36798;&#25104;&#21327;
  > 面试还没法说透Synchronized底层原理？推荐看看这篇文章！
  ## [纳米机器人，真有传说的那么神吗？](http://news.51cto.com/art/201910/605157.htm)
  > 纳米机器人，真有传说的那么神吗？
- ## [看完这篇还不了解Nginx，那我就哭了！](http://developer.51cto.com/art/201910/605110.htm)
- > 看完这篇还不了解Nginx，那我就哭了！
- ## [MySQL如何实时性能分析，诊断性能瓶颈](http://database.51cto.com/art/201910/605213.htm)
- > spotlight _on_mysql是mysql性能监控一个不错的小工具,它无需在要监控的机器上安装任何软件或客户端,只要提
- ## [IT新的生存技能：接受风险](http://news.51cto.com/art/201910/605211.htm)
- > 在当今的数字业务领域里，IT必须谨慎行事，因为你必须承担一些风险才能进行创新。不过，大多数IT专业人员仍
- ## [真正意义上的可信物联网怎样来实现](http://iot.51cto.com/art/201910/605209.htm)
- > 高速发展的网络科技一直是一把双刃剑。在过去几年里，围绕着Facebook和谷歌的数据隐私丑闻不断，个人敏感信
- ## [Python 之父 Guido van Rossum 宣布退休](http://news.51cto.com/art/201910/605208.htm)
- > Python 之父 Guido van Rossum 在推特公布了自己从 Dropbox 公司离职的消息，并表示已经退休。
- ## [6 大主流 Web 框架优缺点对比](http://developer.51cto.com/art/201910/605210.htm)
- > 是该读些评论和做一些总结的时候了。当我们开始写这个系列博客的时候，我们知道 JavaScript/web 应用框架
- ## [基于 Spring Cloud 与 Vue.js 的前后端一站式部署](http://developer.51cto.com/art/201910/605207.htm)
- > 本文将带大家从一台全新的 CentOS 服务器开始，部署一套完整的前后端分离项目。操作步骤非常详细，新手友好
- ## [一篇文章带你看懂，最近爆火的区块链到底是个啥？](http://blockchain.51cto.com/art/201910/605206.htm)
- > 近日，区块链被公开点名，再次引发网友热议。划重点，区块链不等于比特币！比特币只是区块链技术的一种应用
- ## [从Python代码到APP，你只需要一个小工具：GitHub已超3000星](http://news.51cto.com/art/201910/605205.htm)
- > 机器学习开发者想要打造一款 App 有多难？事实上，你只需要会 Python 代码就可以了，剩下的工作都可以交给
- ## [MongoDB实现问卷/考试设计](http://database.51cto.com/art/201910/605204.htm)
- > MongoDB是一个面向文档存储的数据库。在MongoDB中，一条记录叫做document（文档），由类似于JSON结构的键值
- ## [互联网刚刚年满50，发明它的那个人却「后悔」了](http://news.51cto.com/art/201910/605202.htm)
- > 作为互联网发明者之一，现年 85 岁的加州大学洛杉矶分校（UCLA）计算机科学杰出教授伦纳德・克莱因罗克（Le
- ## [史上最强Tomcat8性能优化](https://blog.csdn.net/ThinkWon/article/details/102744033)
- > 
+ ## [您的物联网战略是什么？](http://iot.51cto.com/art/201910/605241.htm)
+ > 在定义物联网战略时，公司最常见的错误是使其过于模糊。在定义物联网战略时，公司最常见的错误是使其过于模
+ ## [系统小技巧：用好Windows“系统配置”工具](http://os.51cto.com/art/201910/605240.htm)
+ > “系统配置”是Windows 10的实用管理工具之一。我们可以利用该工具提供的基本功能，实现阻止恶意软件运行、
+ ## [CPU官方TDP数据只是逗你玩？教你看CPU真实功耗](http://biz.51cto.com/art/201910/605238.htm)
+ > 很多朋友买电脑的时候，都会关注CPU的功耗。例如买台式机，要根据功耗来配电源，而买笔记本CPU功耗则关系
+ ## [“区块链+”：千钧之力如何释放？](http://blockchain.51cto.com/art/201910/605239.htm)
+ > 区块链最近迎来一波“刷屏”，这既反映出人们对区块链赋能各行业的遐想，更是对区块链作为核心技术自主创新
+ ## [利用物联网寻找新的商业模式](http://iot.51cto.com/art/201910/605236.htm)
+ > 设备连网是数字化的重要组成部分。今天，我们可以断定非连网设备的未来市场机会只会越来越少。我们谈论数字
+ ## [利用计算机视觉和机器学习进行智能回收](http://iot.51cto.com/art/201910/605235.htm)
+ > 各国政府应考虑利用计算机视觉和机器学习实施智能回收，以解决垃圾管理中的重大问题。一些发展中国家在管理
+ ## [Windows 10不好用？你不可不知的Windows 10技巧](http://os.51cto.com/art/201910/605237.htm)
+ > 为什么同样是从Win7升级上去后，有的人用Win10就是用得比较爽？为什么有的人觉得Win10还不如Win7？用得不够
+ ## [为什么说，大数据与行业专家是“共生”关系？](http://bigdata.51cto.com/art/201910/605234.htm)
+ > 在所有人都知道“大数据需要落地”的当下，通过这个低调的案例，我想告诉你：传统产业积累的大数据当然是一
+ ## [2019年Java前景堪忧？看看大数据怎么说](http://developer.51cto.com/art/201910/605232.htm)
+ > 在中国Java的市场永远都是巨大的，但是随着信息的普及，人人都知道Java开发做的时间久了，工资高，所以必然
+ ## [Nginx+Tomcat实现高并发场景的动静分离和负载均衡](http://server.51cto.com/sOS-605233.htm)
+ > Java服务大多是跑在tomcat里，但是众所周知tomcat的并发性能没有优势(tomcat8及以上的版本可能有所改善)，
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [C/C++ 最易受攻击、70% 漏洞无效，揭秘全球开源组件安全现状](https://blog.csdn.net/csdnnews/article/details/100681029)
- > C/C++ 最易受攻击、70% 漏洞无效，揭秘全球开源组件安全现状
- ## [这30个CSS选择器，你必须熟记（上）](https://blog.csdn.net/Ed7zgeE9X/article/details/102812665)
+ ## [10月31日科技资讯|抖音回应视频泄露：草稿不会上传后台；苹果开卖5000元印度版iPhone XR；Jboot 2.2.5发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/102832314)
  > 
- ## [Spring简介、设计理念、优缺点、应用场景](https://blog.csdn.net/ThinkWon/article/details/102810748)
- > Spring简介、设计理念、优缺点、应用场景
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [【本体词条】本体共识机制](https://blog.csdn.net/ontologycoding/article/details/102825179)
+ > 【本体词条】本体共识机制
+ ## [管理程序员的第三年，给大家的一些建议](https://blog.csdn.net/yulianlin/article/details/102784772)
+ > 管理程序员的第三年，给大家的一些建议
  ## [最近程序员频繁被抓，如何避免面向监狱编程！？](https://blog.csdn.net/hollis_chuang/article/details/102776191)
  > 最近程序员频繁被抓，如何避免面向监狱编程！？
- ## [GitHub开源史上最大规模中文知识图谱](https://blog.csdn.net/m0_38106923/article/details/102805399)
- > GitHub开源史上最大规模中文知识图谱
- ## [为什么你学不会递归？告别递归，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/102767860)
- > 为什么你学不会递归？告别递归，谈谈我的经验
- ## [Python 基础（一）：入门必备知识](https://blog.csdn.net/ityard/article/details/102807071)
- > Python 基础（一）：入门必备知识
- ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
- > 大学四年，分享看过的优质书籍
- ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
+ ## [这30个CSS选择器，你必须熟记（上）](https://blog.csdn.net/Ed7zgeE9X/article/details/102812665)
  > 
- ## [Java开发需要知道的HTML知识](https://blog.csdn.net/hebtu666/article/details/102799031)
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
  > 
+ ## [Java 反编译](https://blog.csdn.net/javaforwork/article/details/102577846)
+ > Java 反编译
+ ## [一文搞懂什么是TCP/IP协议](https://blog.csdn.net/petterp/article/details/102779131)
+ > 一文搞懂什么是TCP/IP协议
  ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
  > 学习 Java 应该关注哪些网站？
  ## [中国麻将：世界上最早的区块链项目](https://blog.csdn.net/gao_chun/article/details/102795414)
  > 中国麻将：世界上最早的区块链项目
- ## [ARM：供给中国 160 亿颗芯片，继续授权华为！](https://blog.csdn.net/csdnnews/article/details/102752202)
+ ## [MySQL事务，这篇文章就够了](https://blog.csdn.net/sihai12345/article/details/102815801)
  > 
+ ## [屌丝的眼泪，因为错过的初恋，才搞清楚PNG图片压缩原理](https://blog.csdn.net/weixin_44339238/article/details/102785294)
+ > 屌丝的眼泪，因为错过的初恋，才搞清楚PNG图片压缩原理
+ ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
+ > 有哪些让程序员受益终生的建议
  ## [5G 比 4G 快，不只是因为......](https://blog.csdn.net/csdnnews/article/details/102830315)
  > 【CSDN编者按】对于技术人来说，知其然，更要知其所以然。人们都知道，5G比4G快。那么到底快在哪里？因为什么这么快？我们请到了北邮通信博士崔原豪、知乎大V“甜草莓”来为大家剖析这个问题！作者 |崔原豪责编 | 胡巍巍出品| CSDN（ID：CSDNnews）事实上不是“5G比...
  ## [万份销量，五星好评！这门Python神作刷爆朋友圈！](https://blog.csdn.net/csdnnews/article/details/102830319)
@@ -176,78 +194,60 @@ Facebook&#19982;&#33521;&#30417;&#31649;&#26426;&#26500;&#36798;&#25104;&#21327;
  > 坚持写代码，这是晋级大师的唯一方法。作者 |Roberto译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：初级开发人员：你好！提笔给你写这封信的时候，可能你梦想的开发人员职业生涯才刚刚起步。曾经的我也和你一样，内心充满恐惧与怀疑。...
  ## [这类程序员，钱包要鼓了！](https://blog.csdn.net/csdnnews/article/details/102815151)
  > 参考：《物联网时代 : 新商业世界的行动解决方案》作者 | 马切伊·克兰兹/中信出版社如果你仔细地观察过去25年里的科技企业，你就会发现变化一直在发生。每隔3-7年，...
- ## [三星第三季度营业利润7.8万亿韩元，同比降56%](http://www.lanjingtmt.com/news/detail/44741.shtml)
- > 三星电子发布的第三季度财报显示，报告期内，三星营收为62万亿韩元(约合518亿美元)，同比下滑5.3%；营业利润7.8万亿韩元(约合67亿美元)，同比下滑55.7%。
- ## [首个360城市安全大脑应急领域项目落地，中标金额1.18亿](http://www.lanjingtmt.com/news/detail/44740.shtml)
- > 360（北京奇虎科技有限公司）中标天津市应急管理局应急管理信息化（一期）项目，中标金额1.18亿元。
- ## [淘集集公布重组并购进程：已收到资方书面TS](http://www.lanjingtmt.com/news/detail/44739.shtml)
- > 今日淘集集通过官方微博公布重组并购进程，淘集集方面称，日前公司已收到资方书面TS，签订投资意向书。
- ## [暴风高管全部辞职，深交所要求尽快聘任相关人员](http://www.lanjingtmt.com/news/detail/44738.shtml)
- > 暴风集团除已被批准逮捕的总经理冯鑫外，公司的高级管理人员已全部辞职，协助信息披露事务的证券事务代表也已辞职。
- ## [三大运营商5G套餐出炉：资费128元起](http://www.lanjingtmt.com/news/detail/44737.shtml)
- > 三大电信运营商5G套餐详情出炉，最低套餐价128元/月。
- ## [巨人网络第三季度营收净利均下滑，启动超10亿元股份回购计划](http://www.lanjingtmt.com/news/detail/44736.shtml)
- > 巨人网络第三季度营业收入为6.4亿元，同比减少27.3%，归属于上市公司股东的净利润为2.1亿元，同比减少24.6%。
- ## [苹果第四财季营收640亿美元同比增2%，手机营收同比降9%](http://www.lanjingtmt.com/news/detail/44735.shtml)
- > 在截至2019年9月29日的第四财季，苹果公司营收为640.4亿美元，同比增长2%；净利润为136.86亿美元，同比下降3%。
- ## [网红带货遇上强监管，抖音小红书们短期阵痛后仍将受益](http://www.lanjingtmt.com/news/detail/44734.shtml)
- > 近期，“网红带货”在经历爆发式增长后，正面临着前所未有的监管高压态势。业内人士分析认为，短期内，曾存在打擦边球行为的平台或将经历阵痛，但从长远看，监管趋严将利好平台发展。
 # 人工智能 
- ## [关于电商的认识](https://blog.csdn.net/Mallerly/article/details/102814203)
- > 关于电商的认识
- ## [图像处理  图片二值化和获取不同图像通道的图片](https://blog.csdn.net/qq_36511401/article/details/102808820)
- > 图像处理  图片二值化和获取不同图像通道的图片
- ## [python实战：制作微信动态名片](https://blog.csdn.net/skylibiao/article/details/102815399)
- > python实战：制作微信动态名片
- ## [基于FPGA的超声波测距](https://blog.csdn.net/qq_41467882/article/details/102790652)
- > 基于FPGA的超声波测距
- ## [八皇后问题](https://blog.csdn.net/weixin_43282757/article/details/102791699)
- > 八皇后问题
- ## [互动媒体技术——基于p5.js实现创意动态交互自画像：走进奇妙的歌手音乐世界！](https://blog.csdn.net/TOCcmw99/article/details/102763779)
- > 互动媒体技术——基于p5.js实现创意动态交互自画像：走进奇妙的歌手音乐世界！
- ## [AirPods Pro好在哪](https://blog.csdn.net/weixin_38735568/article/details/102792174)
- > AirPods Pro好在哪
- ## [macOS Catalina 10.15.1 更新发布](https://blog.csdn.net/D_Y925224/article/details/102823057)
- > macOS Catalina 10.15.1 更新发布
- ## [ZYNQ定时器——DT(global timer)全局定时器](https://blog.csdn.net/weixin_41922484/article/details/102823652)
- > ZYNQ定时器——DT(global timer)全局定时器
- ## [用python做语音信号处理](https://blog.csdn.net/YAOHAIPI/article/details/102826051)
- > 用python做语音信号处理
- ## [Qt中TreeModel中读取文件内容进行显示注意事项](https://blog.csdn.net/qq_45484697/article/details/102826454)
- > Qt中TreeModel中读取文件内容进行显示注意事项
- ## [在知网数据库中如何下载pdf格式的硕博士论文](https://blog.csdn.net/qq_43444022/article/details/102815906)
- > 在知网数据库中如何下载pdf格式的硕博士论文
- ## [C语言实现类似QQ聊天界面抖动功能](https://blog.csdn.net/qq_45726626/article/details/102813550)
- > C语言实现类似QQ聊天界面抖动功能
- ## [errno, perrno和strerror](https://blog.csdn.net/wuhuaguo1992/article/details/102800850)
- > errno, perrno和strerror
- ## [GO语音的系列化和反序列化使用和遇到的错误](https://blog.csdn.net/weixin_44001557/article/details/102816811)
- > GO语音的系列化和反序列化使用和遇到的错误
+ ## [用python爬虫制作图片下载器(超有趣!)](https://blog.csdn.net/weixin_44318830/article/details/102807980)
+ > 用python爬虫制作图片下载器(超有趣!)
+ ## [Python简易计算器制作](https://blog.csdn.net/EdisonChenyao/article/details/102776616)
+ > Python简易计算器制作
+ ## [用python做一个男神女神颜值打分系统（程序分析见注释）](https://blog.csdn.net/YJG7D314/article/details/102806244)
+ > 用python做一个男神女神颜值打分系统（程序分析见注释）
+ ## [python3服务器端GPU使用率低怎么回事？](https://blog.csdn.net/SPESEG/article/details/102809751)
+ > python3服务器端GPU使用率低怎么回事？
+ ## [小白学 Python（7）：基础流程控制（上）](https://blog.csdn.net/meteor_93/article/details/102775008)
+ > 小白学 Python（7）：基础流程控制（上）
+ ## [Python自动化完成tb喵币任务](https://blog.csdn.net/qq_44198436/article/details/102734420)
+ > Python自动化完成tb喵币任务
+ ## [Python中几个非常有趣的模块](https://blog.csdn.net/ZackSock/article/details/102720651)
+ > Python中几个非常有趣的模块
+ ## [一图看懂py2/py3编码](https://blog.csdn.net/xufive/article/details/102726739)
+ > 
+ ## [Python 爬虫实现增加播客访问量](https://blog.csdn.net/PY0312/article/details/102734445)
+ > Python 爬虫实现增加播客访问量
+ ## [Python+Appium实现京东双十一自动领金币](https://blog.csdn.net/just__like/article/details/102797008)
+ > Python+Appium实现京东双十一自动领金币
+ ## [python爬虫获取拉钩网在线搜索招聘信息(超实用!)](https://blog.csdn.net/weixin_44318830/article/details/102813267)
+ > python爬虫获取拉钩网在线搜索招聘信息(超实用!)
+ ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
+ > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
+ ## [关于 C/C++循环](https://blog.csdn.net/theorycs/article/details/102811133)
+ > 关于 C/C++循环
+ ## [Python学习日常](https://blog.csdn.net/daaichaoye/article/details/102799343)
+ > Python学习日常
+ ## [【leetcode】--逆波兰表达式求值](https://blog.csdn.net/L19002S/article/details/102817554)
+ > 【leetcode】--逆波兰表达式求值
 # PM 
  ## [北京线下活动 | 从AI、增长、变现、品牌、数据….16个关键词，看产品经理能力变革](http://www.woshipm.com/active/3033964.html)
  > 过去几十年来，互联网持续被用于提升产业的效率，不论是PC时代还是移动时代，互联网涉足的领域——从容易到困难，互联网的边界在不断被拓宽，表现在从 C 端到 B 端、从...
- ## [众多少儿英语品牌，缘何VIPKID成为独角兽？](http://www.woshipm.com/evaluating/3035227.html)
- > VIPKID再获融资，这家独角兽公司成立不到十年，获得十轮融资。成立以来顺风顺水，而今面临双重困难，独角兽之路要如何继续走下去？2019年10月8日，VIPKID获得由腾讯领...
- ## [中台，Who cares?](http://www.woshipm.com/it/3035769.html)
- > 如果一定要把中台当作创业目标，不妨认真思考一下已故的红杉创始人唐·瓦伦丁经常问创业者的一个问题：“Who cares？”如果把中台当作一个方法论或者探索实践，讨论这个...
- ## [什么是小程序矩阵？到底应该怎么玩？](http://www.woshipm.com/operate/3033941.html)
- > 将自有业务或服务切分为多个小程序，每个小程序都针对特定场景和人群提供轻量化服务，并且各个小程序间基于合适的场景做了有机连接的形式就是我们所说的“小程序矩阵”。...
- ## [背LV的人会用拼多多吗？](http://www.woshipm.com/marketing/3034814.html)
- > 背着LV上下班和使用拼多多，这两事情并不矛盾。其中，场景是关键因素。01背LV的人会用拼多多吗？这是一个挺有意思的话题。在许多人眼中LV就是高大上，拼多多就是五...
- ## [在不确定中成事，靠的是斜杠思维](http://www.woshipm.com/kol/3035297.html)
- > 我们处于一个高速变化的时代。过去，一个经验要传承好几代，而在千禧年之后，发生了日新月异的变化。那在不确定的世界里，我们要怎么去拥抱变化？邀您阅读前，先思考...
- ## [3种不同视角下的B端管理产品](http://www.woshipm.com/pd/3033728.html)
- > 一个典型的企业大致需要四类信息化产品辅助管理运营：管理支撑类产品、业务支撑类产品、运营支撑类产品和工具类产品。本文从产品行业、市场架构等视角对管理类产品进行...
- ## [交易平台的常规发展路径：商业+产品](http://www.woshipm.com/pd/3035029.html)
- > 从电商到O2O，交易平台的真相是什么？笔者近10年的工作经历中，有一半多时间是做交易平台（电商+O2O）。前几天在一个同事群里，大家交流起交易平台，又在脑海中唤起了...
- ## [界面设计：为什么你的布局很平庸？](http://www.woshipm.com/pd/3033023.html)
- > 在产品界面设计中，形对设计有很大的影响，每一种样式所传达的感受是不同的：黄金矩形、平行四边形、圆形、三角形以及其他不规则图形。本文笔者对形的运用和相关设计思...
- ## [社交红海：盘点19个小众社交APP](http://www.woshipm.com/evaluating/3033123.html)
- > 社交红海厮杀不断，仍然众多玩家下场。笔者盘点了19个小众社交APP，看看这些小众产品是否真的找到蓝海了呢？社交APP，特别是陌生人社交，已然是杀得眼红手疾。熟人社...
- ## [FMS财务管理系统：审计流程](http://www.woshipm.com/pd/3034384.html)
- > 本文是电商系列的终结篇，笔者在本文介绍了审计流程及注意事项。本篇是介绍财务审计的，作为电商系列的终结篇。后续计划去完成供应链后台的相关系统的梳理与学习，非...
- ## [四个方面聊聊：就医场景的支付](http://www.woshipm.com/pd/3033157.html)
- > 说到就医场景，其实很容易理解，无非就是去医院看病就医，会发生支付的相关环节，以及医院看病就医完后，不在医院购药而去药店购药支付的场景，医院看病就医可以分为门...
+ ## [美团，能做好小程序吗？](http://www.woshipm.com/it/3036467.html)
+ > 今日，美团上线了小程序，并引发了行业热议。不过在巨头入场，竞争火热的情况下， 美团的小程序能做起来吗？互联网领域很讲究先发优势，新的商业赛道一旦出现，大小巨...
+ ## [潜伏200个社群后，我get到了……](http://www.woshipm.com/operate/3033115.html)
+ > 本文以潜伏200个社群的经历为基础，分析了社群出现的需求、分类、好处、基调等内容。费孝通在1948年出版的作品《乡土中国》中就提到过社群概念，大意是社群是基于某个...
+ ## [敏捷开发软件（1）：团队看板](http://www.woshipm.com/pd/3034939.html)
+ > 本文笔者依据工作中项目实践的所思所想，并结合案例等分享了团队看板使用中需要注意的一些问题，供大家一同参考和学习。整个敏捷开发软件里，若是用于敏捷团队管理，...
+ ## [To B运营该怎么做？](http://www.woshipm.com/operate/3034427.html)
+ > 本文为我们介绍了TOB运营是什么？怎么做？并从目标、转化全流程、业务模式、方法论这几点进行了分析。近1年，To B很火，To B运营也很火。2018年下半年开始，以腾讯为...
+ ## [陌生人社交产品的3个组成部分：筛子、信息、人（二）](http://www.woshipm.com/it/3033986.html)
+ > 本文以“soul”app为依托，分析了陌生人社交产品的3个组成部分，并对其进行了梳理总结，与大家分享。文章的文字不多，是尽量精简的结果，信息量是巨大的。社交产品由以...
+ ## [竞品分析报告：老虎证券 VS 富途牛牛](http://www.woshipm.com/evaluating/3009641.html)
+ > 笔者选取了两款互联网证券产品进行对比：老虎证券和富途牛牛。文章重点分析了这两款证券产品的产品策略、产品分析、用户评级和商业模式，与大家分享。一、分析目的&amp;am...
+ ## [数据中台机会对创业公司意味着什么？](http://www.woshipm.com/chuangye/3036287.html)
+ > 无论是叫“数据中台”、“大数据平台”或者“数据PaaS平台”也好，名称不重要。透过现象看本质，一切的平台构建最终目的均要服务于业务，进而给企业带来价值，并力求过程中不...
+ ## [跟大品牌学营销，钱可能打水漂](http://www.woshipm.com/marketing/3035933.html)
+ > 对绝大部分企业来说，模仿大品牌做营销是成功最佳路径。但是如果不在模仿前先看透事情的本质，找到模仿的关键，你很可能会为此付出大代价。前几年杜蕾斯，依靠神级文...
+ ## [视频、社交、现场、消费……「音乐+」能有哪些想象力？](http://www.woshipm.com/it/3035868.html)
+ > 音乐是一门好生意吗？音乐产业走到哪了？我们试图将音乐作为一种对时代的记录和采样，从中观照当代年轻人的精神消费样貌，也试图梳理音乐产业的格局与未来。音乐正在...
+ ## [线上课程 | 转行做运营的他，每天“打杂”，工资却比别人高4K](http://www.woshipm.com/active/3026673.html)
+ > 很多小伙伴常常在转行运营和跳槽面试中碰见这样的问题：自己明明符合岗位需求上的描述，但面试后总是被拒岗位薪资是8K，我的期望才6K，HR居然不要我，还给别人12K的...
  ## [为什么说，大数据与行业专家是“共生”关系？](http://www.chanpin100.com/article/109896)
  > “没在行业里待十年以上，这些标签你打不了。”
  ## [为什么我们更像是在为抖音筛选内容，而非消费内容？未来的社区产品该往哪里走？](http://www.chanpin100.com/article/109895)
@@ -274,17 +274,5 @@ Facebook&#19982;&#33521;&#30417;&#31649;&#26426;&#26500;&#36798;&#25104;&#21327;
  > 写一些产品经理的职场心得，每周三更新。
  ## [九段对话告诉你！数字营销产业链中有哪些角色！](http://www.chanpin100.com/article/109894)
  > 最直白的语言告诉你，数字营销产业链中有哪些主要角色！
- ## [产品经理需知晓：决策与决策力](http://www.chanpin100.com/article/109881)
- > 为你分享我的产品方法，产品知识以及产品经验
- ## [业务建模--愿景](http://www.chanpin100.com/article/109880)
- > 定位目标组织和老大，找到愿景，明确系统的用力方向
- ## [等春天：浅谈产品架构](http://www.chanpin100.com/article/109879)
- > 一趟开往春天的汽车
- ## [B端产品设计指南](http://www.chanpin100.com/article/109878)
- > 这篇文章想和大家探讨产品经理应该如何设计B端产品。
- ## [资源分享｜找不到素材？这份免费APPUIKit资源大礼包送给你！](http://www.chanpin100.com/article/109877)
- > 今天给大家整理了一些优质UI Kit资源，希望能够帮助设计师朋友们以更快更好的方式将设计作品呈现出来。
- ## [2019中国在线自驾游市场专题分析](http://www.chanpin100.com/article/109876)
- > 近年来自由行市场火热，自驾游成为旅游市场主要旅游方式。交通基础设施大力建设、汽车租赁市场日益成熟、车联网技术提升为在线自驾游市场保驾护航。
 
     
