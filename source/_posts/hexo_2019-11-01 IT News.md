@@ -1,10 +1,23 @@
 ---
 title: 2019-11-01 IT News
 copyright: true
-date: 2019-11-01 09:00:53
+date: 2019-11-01 10:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】2019年11月1日 星期五</b></summary><div class="news-list-content"><p>1.&#24494;&#20449;&#26379;&#21451;&#22280;&#24191;&#21578;&#19978;&#32447;&#12300;&#38468;&#36817;&#25512;&#12301;&#65306;3 &#20844;&#37324;&#20869;&#31934;&#20934;&#25237;&#25918;</p>
+<p>2.&#33487;&#23425;&#23567;&#24215;&#20114;&#32852;&#32593;&#20080;&#33756;&#19994;&#21153;&#27491;&#24335;&#19978;&#32447;</p>
+<p>3.&#20140;&#19996;&#21452;11&#39318;&#20221;&#25112;&#25253;&#65306;&#25163;&#26426;&#21697;&#31867;18&#31186;&#38144;&#37327;&#30772;&#19975;&#21488;</p>
+<p>4.&#30334;&#24230;&#22823;&#33041;AI&#24320;&#25918;&#24179;&#21488;&#24050;&#24320;&#25918;218&#39033;AI&#25216;&#26415;&#33021;&#21147;</p>
+<p>5.&#28120;&#38598;&#38598;&#23459;&#24067;&#34701;&#36164;&#36827;&#23637;&#65292;&#24050;&#19982;&#36164;&#26041;&#31614;&#35746;&#25237;&#36164;&#24847;&#21521;</p>
+<p>6.&#22825;&#29483;&#21319;&#32423;&#24179;&#21488;&#8220;&#30450;&#36947;&#8221;&#65292;30&#19975;&#35270;&#38556;&#29992;&#25143;&#21487;&#21442;&#21152;&#21452;11&#24179;&#21488;&#20114;&#21160;&#28216;&#25103;</p>
+<p>7.&#21306;&#22359;&#38142;&#8220;&#22269;&#23478;&#38431;&#8221;&#22830;&#34892;&#36152;&#37329;&#24179;&#21488;&#19978;&#32447;&#19968;&#24180;&#65306;&#19994;&#21153;&#19978;&#38142;3&#19975;&#20313;&#31508;</p>
+<p>8.&#24494;&#20449;&#23567;&#28216;&#25103;&#23457;&#26680;&#26381;&#21153;&#25512;&#20986;&#21152;&#24613;&#23457;&#26680;&#30003;&#35831;&#36890;&#36947;</p>
+<p>9.&#25307;&#32856;&#24179;&#21488;&#8220;Fountain&#8221;&#33719;2300&#19975;&#32654;&#20803;B&#36718;&#34701;&#36164;</p>
+<p>10.&#26053;&#28216;&#26381;&#21153;app&#8220;&#31232;&#39277;&#26053;&#34892;&#8221;&#33719;&#24471;&#20102;8000&#19975;&#20803;A&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
 <details><summary><b>【泡面小镇早报】苏宁互联网买菜业务正式上线</b></summary><div class="news-list-content"><p>&#22836;&#26465;&#26032;&#38395;</p>
 <p>&#38180;&#23376;&#31185;&#25216;&#21457;&#24067;&#22362;&#26524;Pro3, &#21806;&#20215; 2899 &#20803;&#36215;</p>
 <p>31&#26085;&#26202;&#22362;&#26524;&#25163;&#26426;2019&#26032;&#21697;&#21457;&#24067;&#20250;&#22312;&#21271;&#20140;&#24037;&#19994;&#22823;&#23398;&#22885;&#26519;&#21305;&#20811;&#20307;&#32946;&#39302;&#20030;&#34892;&#12290;&#20250;&#19978;&#65292;&#22362;&#26524;&#25163;&#26426;&#35774;&#35745;&#36127;&#36131;&#20154;&#26041;&#36831;&#27491;&#24335;&#21457;&#24067;&#20102;&#22362;&#26524;Pro 3&#25163;&#26426;&#65292;&#20197;&#21450;&#26032;&#31995;&#32479;Smartisan OS 7.0&#12290;&#26032;&#31995;&#32479;&#20351;&#29992;&#20102;&#19982;&#26041;&#27491;&#32852;&#21512;&#25171;&#36896;&#30340;Smartisan T&#40657;&#23383;&#20307;&#65292;&#26032;&#30340;Smartisan Font&#21487;&#36827;&#34892;&#23383;&#20307;&#30340;&#25490;&#29256;&#35843;&#20248;&#12290;</p>
@@ -51,32 +64,37 @@ Q3&#20840;&#29699;&#26234;&#33021;&#25163;&#26426;&#20986;&#36135;&#37327;&#2549
 </div>
                         
 </details>
-<details><summary><b>【起点学院早报】 2019年10月31日 星期四</b></summary><div class="news-list-content"><p>1.&#24191;&#24030;&#21306;&#22359;&#38142;&#26032;&#25919;&#65306;&#23558;&#35774;10&#20159;&#20135;&#19994;&#22522;&#37329;&#65292;&#8220;&#26080;&#24065;&#8221;&#20844;&#26377;&#38142;&#39033;&#30446;&#26368;&#39640;&#34917;1000&#19975;</p>
-<p>2.&#19968;&#25209;&#26032;&#35268;11&#26376;&#26045;&#34892;&#65306;&#32593;&#32476;&#24179;&#21488;&#27844;&#38706;&#29992;&#25143;&#20449;&#24687;500&#26465;&#20197;&#19978;&#21487;&#20837;&#32618;</p>
-<p>3.&#20013;&#22269;&#30005;&#20449;&#27491;&#24335;&#21457;&#24067;&#24037;&#19994;&#20114;&#32852;&#32593;&#24320;&#25918;&#24179;&#21488;&#65292;&#23601;5G&#19982;12&#23478;&#20225;&#19994;&#21512;&#20316;</p>
-<p>4.&#20247;&#27888;&#19982;&#25658;&#31243;&#25104;&#31435;&#20986;&#34892;&#39033;&#30446;&#65292;&#39318;&#25209;&#25237;&#20837;4000&#21488;&#36710;&#36742;</p>
-<p>5.B&#31449;&#19978;&#32447;&#30693;&#35782;&#20184;&#36153;&#35838;&#31243;&#65306;&#39318;&#25209;&#23558;&#19978;&#32447;&#22810;&#38376;&#29420;&#23478;&#35838;&#31243;</p>
-<p>6.&#28023;&#21335;&#30465;&#8220;&#26234;&#24935;&#21307;&#38498;&#8221;APP&#24179;&#21488;&#27491;&#24335;&#19978;&#32447;&#65292;&#35206;&#30422;&#20840;&#30465;31&#23478;&#21307;&#38498;</p>
-<p>7.&#20248;&#37239;&#20869;&#23481;&#24320;&#25918;&#24179;&#21488;&#23459;&#24067;&#19978;&#32447;&#20840;&#32593;&#39318;&#20010;AI&#35266;&#24433;&#24773;&#32490;&#27169;&#25311;&#20135;&#21697;</p>
-<p>8.&#24555;&#25163;&#25512;&#20986;&#30701;&#35270;&#39057;App&#8220;&#24577;&#36190;&#8221;</p>
-<p>9.&#22522;&#22240;&#26816;&#27979;&#25216;&#26415;&#20844;&#21496;&#12300;&#33275;&#21644;&#31185;&#25216;&#12301;&#33719;D1&#36718;&#36229;3&#20159;&#20803;&#34701;&#36164;</p>
-<p>10.&#32959;&#30244;&#25968;&#25454;&#20998;&#26512;&#24179;&#21488;&#12300;&#36830;&#24515;&#21307;&#30103;&#12301;&#23436;&#25104;4000&#19975;&#20803;A+&#36718;&#34701;&#36164;</p>
-</div>
-                        
-</details>
 
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [安博会精华总结|25家企业共话智能安防产业趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1572570004&ver=1947&signature=FL2mK5SPZ*jWNgo*msDwf0vYdg9v2mgXhlp1urRvx7W*cHZAkeRdhQBx4YTTBvuY3MwkYMPc23WjHyd4K2BqmBpYhzPYFWvMxZJulKME8An62zCZBHvXfru8yaUThXPs&new=1)
+ ## [今日正式进入5G时代](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=kqtaT600Q*lwUcRHAUxGp4I*w-mUeP9WPjXrpWcYxo1lsyb83bzugeyeun5Ws88z*WHLFclE7f6xBdX1wviyo3XksJT*y1x4sDukxndKVP2TJ7xntHXx-2igk41QgPSs&new=1)
+ > 本周四（10月31日），三大运营商公布了5G套餐详情，11月1日正式开启5G商用套餐。5G 时代已来。5G 套餐已出，如何选购5G手机，5G基站建设情况如何（信号好不好）？请参考Wind之前的文章《@所有人，5G于下周五正式...
+ ## [7点见|“监控头环”创始人回应质疑；品牌方回应李佳琦“直播翻车”；暴风高管全部辞职](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=Gzrzl208MXN8f-2AEdk5WrCTKS0VocKTtcbZfzUBzYteFo-FNrps1epnzOxgVpUWAf8FMDtmFS7iGkWgkLOy3X5wu-Qo5SU5LLUfZPfGe2pto2nmg9qgzS2PFdDdhRS5&new=1)
+ > 各位小伙伴们，早上好呀！小伙伴们看《主持人大赛》了吗？即兴主持开口就是满分作文的专业水平真的让小七惊了！小七也好想当这样的文化人快来围观“神仙打架”呀，记得告诉小七你pick哪位主持人哦~接下来是今天...
+ ## [\[头条\]“国脉天网”特大网络传销案告破 涉及20余万人冻结资金超亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=5FRI7ihd-t3W5GGbtJlkdoWO23uV58mPisBEmvNmMkVmmYWIE8xGCM60ozVq*l0*tEuMtaLM3lQB4HSl-TZiv-x3X7fU2Ls32aTGq*ocm1tjBYybKLGKDebfSQPj*ny2&new=1)
+ > 近日，鹰鉴（kjpian）从民主与法制周刊了解到，今年6月26日，山东省聊城市警方破获“天网卡”特大传销案，查封冻结涉案资金1.3亿余元，该企业的相关负责人，因涉嫌组织、领导非法传销罪被聊城市警方刑事拘留。鹰...
+ ## [\[报告\]2019长城汽车最新调研分析(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=EVikaEcMJdkHdi11S6PkZLbRiUvWXsLscfey4HUds2NnMM95J3Iv0e5POxT0*iHauBRjBr3PYTgcE4ihXnMAEJP3plikmoFPFjuMzXysc4GrTTmci1UxKdCoTz71KxL8&new=1)
+ > 长城汽车是国内SUV和皮卡龙头，旗下有哈弗、WEY、长城欧拉四大品牌。近年来国内汽车市场增速放缓，2018年下半起单月连续负增长；公司通过优惠延长老产品销售周期、推出新产品系列巩固SUV龙头地位，并抓住年轻化...
+ ## [政策春风助力，技术国际领先，福光股份再攀高峰](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=QyAeF4dHtfFFmFZv2m4Qr1g3VDUQbXupzz9EMYa2sI3ZqV1FknbLY26j-drPW8Rz5aWhPGnWjLZPfTZnUicfkkcTwtDornLQBueiZHvD1VCgpA2wMmRdNuLHg8u55eh0&new=1)
+ > 近期，福建福光股份有限公司（以下简称“福光股份”）成功登陆科创板，并成为福建科创板第一股。据了解，福光股份主要产品为光学镜头、光电系统及光学元组件，分为定制产品和非定制产品，其产品广泛应用于“神舟...
+ ## [安博会精华总结|25家企业共话智能安防产业趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=FL2mK5SPZ*jWNgo*msDwf0vYdg9v2mgXhlp1urRvx7W*cHZAkeRdhQBx4YTTBvuY2EzBXxVapxWuVdtk72JYTAlF4xWJQ4hLrGhmq3pyE6VARvtD6G4siwu*WuSFnY0k&new=1)
  > 2019年安博会告一段落，每一年的安博会对于整个安防产业而言已经成为了一个周期性的节点，既是企业年度创新产品、技术、市场战略落地的成果展示和总结，同时我们也能从中看到企业对于未来的趋势展望和前瞻布局。...
- ## [亨通数据中心系列方案PT展精彩亮相 助力5G时代数据中心升级演进](http://mp.weixin.qq.com/s?src=11&timestamp=1572570004&ver=1947&signature=Xcp20MQfsRpAZaAsqH3AOgEUKRmBD5WuarYx1-u9Ea-DAuK7m*6zXdo6jCQba5WoRzwONrbVFHbJrTMYxBSuXwaqr6AxsUF7sssql*s4JM0Zw-q-c9e9LitcHI0ExE7H&new=1)
+ ## [亨通数据中心系列方案PT展精彩亮相 助力5G时代数据中心升级演进](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=Xcp20MQfsRpAZaAsqH3AOgEUKRmBD5WuarYx1-u9Ea-DAuK7m*6zXdo6jCQba5WowYrGYiZosqa-CuQNJBZqxn86Ql5hEOeOozaSIdy9FllKh51RHYp5gK9GxJ6AqcYl&new=1)
  > 导读     【讯石会员动态】在2019年中国国际信息通信展览会上，亨通光电聚焦5G融合，为实体行业发展注入新动能，隆重展示了分布式数据中心方案、MPO机房方案和高速100G硅光模块，助力5G时代数据中心发展。  IC...
- ## [四天后，全球Lifelong赛事冠军将在此诞生，快来围观全球顶级专家及团队!](http://mp.weixin.qq.com/s?src=11&timestamp=1572570004&ver=1947&signature=NRLY38GsfVo*wvFucGFENKI79Awmvk1sH1kSAKrsOI5cq9zMF*34LeYvWaMf22Br*3e0yDdw-DbLRCQE4CjuHcuYmJHaX-WA1tXnifzCHh0Xmyg-MasXyeViGXPLFyPQ&new=1)
+ ## [四天后，全球Lifelong赛事冠军将在此诞生，快来围观全球顶级专家及团队!](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=NRLY38GsfVo*wvFucGFENKI79Awmvk1sH1kSAKrsOI5cq9zMF*34LeYvWaMf22BrIZKw*mMtHH0yQeOIqf0Q4z3N1BjR2CnlxvuW2ZDoVW2TT7l*nydf8mEMr0Jf8O*i&new=1)
  > 导读：在经过数月的线上开发竞赛后，Lifelong Robotic Vision挑战赛将在11月4日于澳门威尼斯人度假村酒店举行的IROS 2019大会中进行挑战赛研讨会，届时决赛入围团队将报告自己的算法，赛事优胜者将于IROS 2019全
- ## [\[全面详解\]5G套餐正式商用，价格竟然这么贵..](http://mp.weixin.qq.com/s?src=11&timestamp=1572570004&ver=1947&signature=sEXDw7YtueCjZZnIEG-zU*-CVHYccvEuZ*QlxMdBkg8HLB9cr8ODyBRS5HaFaxrj0MfdkVjg*1JeE06IbUzDlg**kyURtIHv8-HUj7PjbZFwOrPSoaqFdG2iu0VI38CQ&new=1)
+ ## [\[全面详解\]5G套餐正式商用，价格竟然这么贵..](http://mp.weixin.qq.com/s?src=11&timestamp=1572573604&ver=1947&signature=sEXDw7YtueCjZZnIEG-zU*-CVHYccvEuZ*QlxMdBkg8HLB9cr8ODyBRS5HaFaxrjCGeUTK*2Vzd96Fxq-o7lYLVmBtgeHEAzwmU-txzooHP18Z8i84y7-hYNMbuRNzIA&new=1)
  > 110月31日，在2019年中国国际信息通信展览会开幕式上，工业和信息化部副部长陈肇雄、中国电信、中国移动、中国联通、中国铁塔董事长共同启动5G商用。11月1日正式上线随着5G商用的启动，中国移动、中国联通、中国...
 # IT 技术 
+ ## [全球500强公司的2100万登录信息惊现于暗网上！](http://netsecurity.51cto.com/art/201911/605253.htm)
+ > 全球500强公司的2100万登录信息惊现于暗网上！
+ ## [微信支付刚崩溃，又有人想搞支付宝...](http://news.51cto.com/art/201911/605250.htm)
+ > 微信支付刚崩溃，又有人想搞支付宝...
+ ## [十大Kubernetes开源监控工具](http://os.51cto.com/art/201911/605242.htm)
+ > 十大Kubernetes开源监控工具
+ ## [漫画说算法之什么是一致性哈希？](http://developer.51cto.com/art/201911/605246.htm)
+ > 漫画说算法之什么是一致性哈希？
  ## [Pandas的五项高级功能及使用方法](http://bigdata.51cto.com/art/201910/605195.htm)
  > Pandas的五项高级功能及使用方法
  ## [Redis如何轻松支撑万亿级日访问量？](http://database.51cto.com/art/201910/605189.htm)
@@ -85,86 +103,102 @@ Q3&#20840;&#29699;&#26234;&#33021;&#25163;&#26426;&#20986;&#36135;&#37327;&#2549
  > 央行万字工作论文：区块链能做什么、不能做什么？
  ## [推荐 | 10大搜索引擎工具帮你解决搜索难题](http://developer.51cto.com/art/201910/605181.htm)
  > 推荐 | 10大搜索引擎工具帮你解决搜索难题
- ## [机器学习开发指南（基础篇）](http://ai.51cto.com/art/201910/605056.htm)
- > 机器学习开发指南（基础篇）
- ## [不给糖果就捣乱，用Python绘制有趣的万圣节南瓜怪](http://developer.51cto.com/art/201910/605187.htm)
- > 不给糖果就捣乱，用Python绘制有趣的万圣节南瓜怪
- ## [面试还没法说透Synchronized底层原理？推荐看看这篇文章！](http://developer.51cto.com/art/201910/605199.htm)
- > 面试还没法说透Synchronized底层原理？推荐看看这篇文章！
- ## [纳米机器人，真有传说的那么神吗？](http://news.51cto.com/art/201910/605157.htm)
- > 纳米机器人，真有传说的那么神吗？
+ ## [IT 人眼里最吃香的技术：软件开发 JavaScript；数据专业 R等](http://news.51cto.com/art/201911/605249.htm)
+ > IT 专业人员面临众多的技术、语言及其他技能，他们需要掌握这些，才能做好现有的工作和找到潜在的新工作
+ ## [腾讯QQ：请珍惜帐号使用权 今年已封停13000多个QQ号](http://mobile.51cto.com/app-show-605251.htm)
+ > 10月31日消息，今天腾讯QQ安全中心发布《关于打击利用QQ进行网络违法犯罪活动行为的公告》称，QQ在维护广大
+ ## [TIOBE 编程语言排行榜：Python何时才能追赶上Java？](http://news.51cto.com/art/201911/605247.htm)
+ > 小编插一句（php是世界上很好的语言）不服来战。TIOBE 编程社区指数是编程语言流行度的指标，该榜单每月更
+ ## [盘点阿里巴巴 33 个开源项目，你用过哪几个？](http://os.51cto.com/art/201911/605248.htm)
+ > 开源展示了人类共同协作，成果分享的魅力，每一次技术发展都是站在巨人的肩膀上，技术诸多创新和发展往往就
+ ## [JVM性能调优监控工具使用详解](http://virtual.51cto.com/art/201911/605244.htm)
+ > 这些问题在日常开发、维护中可能被很多人忽视(比如有的人遇到上面的问题只是重启服务器或者调大内存，而不
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [史上最强Tomcat8性能优化](https://blog.csdn.net/ThinkWon/article/details/102744033)
+ ## [鸿蒙 OS 的到来，能为我们改变什么？](https://blog.csdn.net/csdnnews/article/details/100976779)
  > 
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [L 型程序员，要火！](https://blog.csdn.net/csdnnews/article/details/102815095)
- > L 型程序员，要火！
  ## [wxPython：python首选的GUI库](https://blog.csdn.net/xufive/article/details/82665460)
  > wxPython：python首选的GUI库
- ## [你的 Java 并发程序 Bug，100% 是这几个原因造成的](https://blog.csdn.net/z694644032/article/details/102810473)
- > 
- ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
- > 学习 Java 应该关注哪些网站？
- ## [计算机操作系统概述---目标、作用、功能、特性和发展过程](https://blog.csdn.net/qq_34666857/article/details/102792166)
- > 
- ## [【Windows】Window中的常用快捷键](https://blog.csdn.net/dengjin20104042056/article/details/102761876)
- > 【Windows】Window中的常用快捷键
  ## [\[网络安全自学篇\] 二十二.Web渗透之网站信息、域名信息、端口信息、敏感信息及指纹信息收集](https://blog.csdn.net/Eastmount/article/details/102816621)
  > 
- ## [超详细 LaTex数学公式](https://blog.csdn.net/ViatorSun/article/details/82826664)
- > 超详细 LaTex数学公式
- ## [jquery+ajax+json](https://blog.csdn.net/qq_42346575/article/details/102738364)
- > jquery+ajax+json
- ## [十年磨一剑?  Linux QQ 终于发布了新版本！](https://blog.csdn.net/qq_35067322/article/details/102734708)
+ ## [最近程序员频繁被抓，如何避免面向监狱编程！？](https://blog.csdn.net/hollis_chuang/article/details/102776191)
+ > 最近程序员频繁被抓，如何避免面向监狱编程！？
+ ## [居然要周末加班才解决这个问题](https://blog.csdn.net/FS1360472174/article/details/102828327)
+ > 居然要周末加班才解决这个问题
+ ## [【Tensorflow2.0】Tensorflow2.0的安装教程](https://blog.csdn.net/u011119817/article/details/88309256)
+ > 【Tensorflow2.0】Tensorflow2.0的安装教程
+ ## [计算机操作系统概述---目标、作用、功能、特性和发展过程](https://blog.csdn.net/qq_34666857/article/details/102792166)
+ > 
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
+ > 学习 Java 应该关注哪些网站？
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ > 
+ ## [被曝自研 5G 关键芯片 PA？华为未回应](https://blog.csdn.net/csdnnews/article/details/102830317)
  > 
  ## [这30个CSS选择器，你必须熟记（上）](https://blog.csdn.net/Ed7zgeE9X/article/details/102812665)
  > 
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
- > 
+ ## [JAVA 基础练习题](https://blog.csdn.net/weixin_44397777/article/details/102828592)
+ > JAVA 基础练习题
+ ## [中国麻将：世界上最早的区块链项目](https://blog.csdn.net/gao_chun/article/details/102795414)
+ > 中国麻将：世界上最早的区块链项目
  ## [AirPods Pro 到底「Pro」在哪里?](https://blog.csdn.net/csdnnews/article/details/102841660)
  > 2019 嵌入式智能国际大会即将来袭！购票官网：https://dwz.cn/z1jHouwE（戳链接，即可购买）AirPods Pro一出，又被网友疯狂恶搞。有吐槽AirPods Pro，只是AirPods的复制版本的。有吐槽AirPods Pro，像个吹风机的。...
  ## [车主邦能否靠烧钱做大？补贴换增长模式遭质疑](http://www.lanjingtmt.com/news/detail/44753.shtml)
  > 业内人士称，加油、充电是一门线下零售生意，竞争点应该围绕着存量用户展开，保障油、电的品质，提升安全和服务体验。第三方能源平台以互联网“烧穿价格”的打法来渗透，会逐渐把行业逼向危险的
 # 人工智能 
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [计算机操作系统概述---目标、作用、功能、特性和发展过程](https://blog.csdn.net/qq_34666857/article/details/102792166)
- > 
- ## [项目实战——基于计算机视觉的物体位姿定位及机械臂抓取（基本原理）](https://blog.csdn.net/qq_32061503/article/details/102796466)
- > 项目实战——基于计算机视觉的物体位姿定位及机械臂抓取（基本原理）
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [我的2019计算机保研经历【中南，北理工，北航，南大，浙大】](https://blog.csdn.net/qq_38346791/article/details/91891268)
- > 我的2019计算机保研经历【中南，北理工，北航，南大，浙大】
- ## [PostgreSQL安装+TimescaleDB安装（Windows）](https://blog.csdn.net/weixin_44739010/article/details/102817309)
- > PostgreSQL安装+TimescaleDB安装（Windows）
- ## [程序员必须掌握的十大经典算法](https://blog.csdn.net/Androidyuexia/article/details/102766663)
- > 程序员必须掌握的十大经典算法
- ## [为什么虚拟机上不了网](https://blog.csdn.net/qq_43575301/article/details/102799675)
- > 为什么虚拟机上不了网
- ## [Linux/C/C++ 不可错过的好书](https://blog.csdn.net/hyb612/article/details/102730648)
- > Linux/C/C++ 不可错过的好书
- ## [计算机公开课推荐 2019.8](https://blog.csdn.net/wizardforcel/article/details/102682374)
- > 计算机公开课推荐 2019.8
- ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
- > 大学四年，分享看过的优质书籍
- ## [ICCV 2019大会精华资源最新总结（附2019ICCV1075篇论文全集+部分论文源码集）](https://blog.csdn.net/mrjkzhangma/article/details/102791302)
- > ICCV 2019大会精华资源最新总结（附2019ICCV1075篇论文全集+部分论文源码集）
- ## [Java内存模型(JMM)详解](https://blog.csdn.net/qq_14996421/article/details/102781470)
- > Java内存模型(JMM)详解
- ## [这应该是把计算机网络五层模型讲的最好是文章了，看不懂你打我](https://blog.csdn.net/m0_37907797/article/details/102740903)
- > 
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
+ ## [Android学习笔记：Android基础知识点（不断更新中）](https://blog.csdn.net/MaybeForever/article/details/90612395)
+ > Android学习笔记：Android基础知识点（不断更新中）
+ ## [（6）UDP](https://blog.csdn.net/ymeng9527/article/details/94558230)
+ > （6）UDP
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [Android实现多渠道打包，动态替换包名、Icon、图片等资源，解决因applicationId和BuildConfig路径不匹配的问题](https://blog.csdn.net/woshizisezise/article/details/96303750)
+ > Android实现多渠道打包，动态替换包名、Icon、图片等资源，解决因applicationId和BuildConfig路径不匹配的问题
+ ## [关于Android 10.0适配，看这篇就够了](https://blog.csdn.net/weixin_40611659/article/details/95174124)
+ > 关于Android 10.0适配，看这篇就够了
+ ## [JAVA音视频解决方案----推流,拉流工具使用](https://blog.csdn.net/cuiyaonan2000/article/details/93619513)
+ > JAVA音视频解决方案----推流,拉流工具使用
+ ## [Android8.1 MTK平台 增加定时开关机功能](https://blog.csdn.net/u012932409/article/details/100524321)
+ > Android8.1 MTK平台 增加定时开关机功能
+ ## [在 Android 系统源码中自定义系统服务（Custom System Service in AOSP）](https://blog.csdn.net/Kennethdroid/article/details/101221185)
+ > 在 Android 系统源码中自定义系统服务（Custom System Service in AOSP）
+ ## [一款不用手动打卡，自动调起钉钉上班打卡的App](https://blog.csdn.net/Mr___Xu/article/details/83688678)
+ > 一款不用手动打卡，自动调起钉钉上班打卡的App
+ ## [音乐播放器开源实战项目的阶段总结一](https://blog.csdn.net/myfather103/article/details/90725742)
+ > 音乐播放器开源实战项目的阶段总结一
+ ## [adb下载安装及使用](https://blog.csdn.net/weixin_43927138/article/details/90477966)
+ > adb下载安装及使用
+ ## [安卓的知识点](https://blog.csdn.net/qq_41659081/article/details/88654166)
+ > 安卓的知识点
+ ## [uniapp体验如何？uniapp开发感受及优缺点分析](https://blog.csdn.net/qq_35616850/article/details/94439675)
+ > uniapp体验如何？uniapp开发感受及优缺点分析
+ ## [Android的Handler的简单理解和使用](https://blog.csdn.net/weixin_43548748/article/details/91128791)
+ > Android的Handler的简单理解和使用
+ ## [Android实现真正的344格式化手机号码输入框](https://blog.csdn.net/woshizisezise/article/details/93182107)
+ > Android实现真正的344格式化手机号码输入框
 # PM 
+ ## [2020届秋招：产品运营岗高频笔试题/面试题](http://www.woshipm.com/zhichang/3034735.html)
+ > 正在求职的笔者，在本文总结了产品运营岗的高频笔试题和面试题，分享给大家。今年的秋招已经接近尾声，虽然我目前还没有收到心仪的offer，但是已经参加过很多大大小小...
+ ## [案例分享：RARRA模型下，如何做用户增长？](http://www.woshipm.com/operate/3037467.html)
+ > 本文作者结合实际案例，跟大家分享一下在RARRA模型下，如何做用户增长？从AARRR到RARRA的运营思路转变众所周知，AARRR经典的增长黑客体系，也称之为「海盗法则」，分...
+ ## [以预约挂号流程为例，聊聊业务流程图](http://www.woshipm.com/pd/3036863.html)
+ > 本文从什么是业务流程图、作用、表现形式、如何绘制、常见绘制工具等角度，分析了预约挂号流程中如何绘制业务流程图。在写项目需求文档时，我们会画各种各样的流程。...
+ ## [去培训“被分期”，教育机构成冤大头](http://www.woshipm.com/it/3036330.html)
+ > 教育分期作为不以享乐为目的的消费贷，与大众眼中的消费贷有很大不同。但在实际操作中，学员和教育机构却被摆在了对立面上，双方各执一词，但整个行业被指责是不公平的...
+ ## [腾讯群面题拆解：如何给小咖秀增加功能，让其持续火下去？](http://www.woshipm.com/zhichang/3036632.html)
+ > 今天来和大家分析一个腾讯群面题：给小咖秀增加一个功能，让它持续地火下去。我会根据这个题目和大家发散思考一下小咖秀的未来发展问题~第一步，拆解问题首先看到题...
+ ## [线上课程 | 我想要一份不加班的工作](http://www.woshipm.com/active/2945562.html)
+ > 无效加班，不但不创造价值，反而在大量扼杀我们宝贵的工作时间。我问你啊，世界上哪个国家加班最严重？相信大部分人的答案是：日本。日本的加班是出了名的，据《读卖...
+ ## [证券产品运营规划拆解（上）：用运营提高营收](http://www.woshipm.com/operate/3027379.html)
+ > 证券产品在不同的生命周期需要不同的运营手段，本文中笔者对具体的运营手段进行了阐释。证券产品的运营目标是为了提高营收，但是营收是最终目标，在真正能够提高营收...
+ ## [视角：站在产品的角度分析标签的四大问题](http://www.woshipm.com/pd/3037355.html)
+ > 本文作者结合标签上层应用以及曾经标签开发工作的经历，站在产品的角度总结思考了标签的来源、应用场景、构建流程以及运营维护四大问题。伴随着DT时代的到来，越来越...
+ ## [百度网盘产品分析：探索个人云盘行业的发展方向](http://www.woshipm.com/evaluating/2940187.html)
+ > 百度网盘作为云储存领域的主导产品，未来也将继续主导下去，但是想要带动整个百度系产品的发展，还是任重道远。百度网盘是我们除了使用百度系的搜索引擎服务之外，使...
  ## [量子计算机出炉，或将对传统区块链产生威胁](http://www.woshipm.com/it/3035426.html)
  > 笔者结合自己的思考与分析，向我们介绍了什么是量子计算以及它将对传统区块链产生的威胁。不久前，谷歌公司宣布，它的量子计算机首次完成了一项经典计算机基本无法完...
- ## [为什么说“男色消费”正在崛起？](http://www.woshipm.com/marketing/3037515.html)
- > 试问有哪位小仙女能抵挡住帅哥的“诱惑”呢？在过去，像“中年男人”这样的称谓往往带有一丝贬义词。除此之外，男人还被视为消费能力最弱势的一个群体，不仅远不及女人、...
- ## [产品经理周报第 89 期｜微信：推出“附近推”营销解决方案；“苏宁菜场”正式在北京上线](http://www.woshipm.com/it/3037390.html)
- > 早上好呀，今天又是这一周的最后一天啦最近冷空气来袭，有降温哦，尽管广东地区还在穿短袖，但小编还是感受到凉意了所以，各位小伙伴们要记得及时添衣，谨防感冒哦...
  ## [为什么说，大数据与行业专家是“共生”关系？](http://www.chanpin100.com/article/109896)
  > “没在行业里待十年以上，这些标签你打不了。”
  ## [为什么我们更像是在为抖音筛选内容，而非消费内容？未来的社区产品该往哪里走？](http://www.chanpin100.com/article/109895)
