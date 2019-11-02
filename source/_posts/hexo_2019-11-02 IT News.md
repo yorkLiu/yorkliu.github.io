@@ -1,21 +1,21 @@
 ---
 title: 2019-11-02 IT News
 copyright: true
-date: 2019-11-02 08:01:01
+date: 2019-11-02 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [观点|App违法违规收集使用个人信息的分析与解读](http://mp.weixin.qq.com/s?src=11&timestamp=1572652804&ver=1949&signature=PcBxkDZnlrSlh88UP5VZ5hG6RdJD4aioJBBdmTYLH8ScuKFMss5I9GtkfwpJRjeeClFr99ctb36VmPw*swhcTtqKmQYTPO3Ck12CKPN9zMDWtpGrYgdy8GOvYCdnnRuN&new=1)
- > 本文作者为腾讯守护者计划 安全专家黄汉川、法律专家王京婕，文章原载于《中国信息安全》杂志 2019 年第 3 期移动互联网应用程序（App）的广泛应用，在促进经济社会发展、服务民生的同时，也引发大量存在强制授...
- ## [3名程序员被抓!开发“万能钥匙”APP，撬走3个亿](http://mp.weixin.qq.com/s?src=11&timestamp=1572652804&ver=1949&signature=n3vhWg8DCB2yEgQY71PDea9orCnRkH75B-QqHPNIcazIGc*kS6OY6C-2Q01SODlFMb5MGl4bC2q3oqBt6StE1rP20DqRphguCCyLET-f2uUJ6K7FZYyndWyJi4dpksdw&new=1)
- > 来自：程序员头条 报道又有 3 名程序员被抓！开发“万能钥匙”APP，撬走 3 亿！最近，据央视新闻报道，上海公安机关接到共享单车企业报案，随后破获了一起共享单车万能解锁 App 案，犯罪嫌疑人开发的 App 软件能...
- ## [腾讯烟台新工科研究院执行院长刘志强一行到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1572652804&ver=1949&signature=qQ7D5dGB6xaHQSsaT4hlR4haLcMfl*jdP3nDSc*6xJMK9S80QQxK8R7-vuy8OtnM51w9HAezm52UVSbQ2cHq06RuJp78X0--cVF2tw-YpSe-ldXpefB2NhpVZ-Yh7OPT&new=1)
- > 11月1日下午，腾讯烟台新工科研究院执行院长、鲁东大学产业教授刘志强一行到访，云创大数据总经理刘鹏教授和外联负责人沈大为以及张伟总监共同接待了来宾。此次到访，来宾旨在就未来双方合作与云创方进行沟通探...
- ## [5G正式商用，SA大戏拉开大幕](http://mp.weixin.qq.com/s?src=11&timestamp=1572652804&ver=1949&signature=KqwsBO8zAJSLxFkRHNEMz0maEpyZkaa5vlSSeVKRDVg2WXPdcnKhJ4k2suvkhXsnMPUM7E489ZZ9Ptd8O2*YOdH1T4-NP9VBjc59c5A-fzditOovtVWETFZ5bmV-*laB&new=1)
- > 如果5G是一场比赛，NSA只是热身，SA才是真正的开始。过去几个月来5G商用网络主要采用NSA组网，但随着技术不断成熟，如今画风大变，行业正加速迈进5G SA阶段。NSA只是热身SA才是大戏NSA与SA到底有啥区别？用一张...
- ## [苏宁双十一90秒销售额破10亿元丨苹果第四财季业绩超预期\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1572652804&ver=1949&signature=4i9wW1COlVkBdE5AftkUUfn1Qd*lbAK7a57ULAh*9Dne4NwjhPbPCGpMmxZYTuZAUik2IpDITS7TCowHKDzF0Rj4lkHgbJfKWTjd5JsPXFrRQG3qV69mpfcdWQ6oIOm6&new=1)
+ ## [苏宁双十一90秒销售额破10亿元丨苹果第四财季业绩超预期\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1572656405&ver=1949&signature=4i9wW1COlVkBdE5AftkUUfn1Qd*lbAK7a57ULAh*9Dne4NwjhPbPCGpMmxZYTuZA7d*38wYt0sNIdVyDWl-BCe8J2dbLSyf9AFVbQeGhUxflKjFXsiM1N-ll9wtX7rVi&new=1)
  > 11月1日丨周五【Do说】编辑 | 赵艾虎苏宁双十一90秒销售额破10亿元，一小时整体订单量同比增122%11月1日凌晨，苏宁易购总裁侯恩龙在微头条公布 “双十一全民嘉年华”阶段数据：11月1日1分30秒时销售额已破10亿元...
+ ## [5G正式商用，SA大戏拉开大幕](http://mp.weixin.qq.com/s?src=11&timestamp=1572656405&ver=1949&signature=KqwsBO8zAJSLxFkRHNEMz0maEpyZkaa5vlSSeVKRDVg2WXPdcnKhJ4k2suvkhXsnJHpm9aRaRHlODishk7IGax1I7cPayE2GeG29UfaxL37ryqyUX02TyiCBKeXUrpXV&new=1)
+ > 如果5G是一场比赛，NSA只是热身，SA才是真正的开始。过去几个月来5G商用网络主要采用NSA组网，但随着技术不断成熟，如今画风大变，行业正加速迈进5G SA阶段。NSA只是热身SA才是大戏NSA与SA到底有啥区别？用一张...
+ ## [腾讯烟台新工科研究院执行院长刘志强一行到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1572656405&ver=1949&signature=qQ7D5dGB6xaHQSsaT4hlR4haLcMfl*jdP3nDSc*6xJMK9S80QQxK8R7-vuy8OtnMXFgWlYsxgEqfQ3Z*yvwdY1jzWT8Q8Z9OyS5NfaAZraP7sBsAI*ql735E9QTAEBVq&new=1)
+ > 11月1日下午，腾讯烟台新工科研究院执行院长、鲁东大学产业教授刘志强一行到访，云创大数据总经理刘鹏教授和外联负责人沈大为以及张伟总监共同接待了来宾。此次到访，来宾旨在就未来双方合作与云创方进行沟通探...
+ ## [3名程序员被抓!开发“万能钥匙”APP，撬走3个亿](http://mp.weixin.qq.com/s?src=11&timestamp=1572656405&ver=1949&signature=n3vhWg8DCB2yEgQY71PDea9orCnRkH75B-QqHPNIcazIGc*kS6OY6C-2Q01SODlFojkwcLFohGZLmFwudm5OX8*2v-tcNFWAtAHkMS3yuj1LuSLVO7NK08FtvEA-ZdDj&new=1)
+ > 来自：程序员头条 报道又有 3 名程序员被抓！开发“万能钥匙”APP，撬走 3 亿！最近，据央视新闻报道，上海公安机关接到共享单车企业报案，随后破获了一起共享单车万能解锁 App 案，犯罪嫌疑人开发的 App 软件能...
+ ## [观点|App违法违规收集使用个人信息的分析与解读](http://mp.weixin.qq.com/s?src=11&timestamp=1572656405&ver=1949&signature=PcBxkDZnlrSlh88UP5VZ5hG6RdJD4aioJBBdmTYLH8ScuKFMss5I9GtkfwpJRjeeuwRYDT4lCTxrHehkOG8ujW7ltwsIjwor5CsmX03wAPhPK1l8emsSDwLFp-frnJxc&new=1)
+ > 本文作者为腾讯守护者计划 安全专家黄汉川、法律专家王京婕，文章原载于《中国信息安全》杂志 2019 年第 3 期移动互联网应用程序（App）的广泛应用，在促进经济社会发展、服务民生的同时，也引发大量存在强制授...
 # IT 技术 
  ## [直击案发现场！TCP 10倍延迟的真相是？](http://zhuanlan.51cto.com/art/201911/605268.htm)
  > 直击案发现场！TCP 10倍延迟的真相是？
@@ -37,32 +37,32 @@ categories: IT NEWS
  > 万圣节恐怖表演、内衣检测器......2019 年二十大有趣的机器学习项目盘点
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [数百万的 Android 手机预装了危险的恶意软件！](https://blog.csdn.net/csdnnews/article/details/99506625)
- > 数百万的 Android 手机预装了危险的恶意软件！
- ## [史上最强Tomcat8性能优化](https://blog.csdn.net/ThinkWon/article/details/102744033)
- > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
- > 学习 Java 应该关注哪些网站？
- ## [【Windows】Window中的常用快捷键](https://blog.csdn.net/dengjin20104042056/article/details/102761876)
- > 【Windows】Window中的常用快捷键
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
  ## [中国麻将：世界上最早的区块链项目](https://blog.csdn.net/gao_chun/article/details/102795414)
  > 中国麻将：世界上最早的区块链项目
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
- > 
- ## [Java——快速傅里叶变换FFT的程序实现（时间抽取的基-2FFT、倒位计算、蝶形运算）](https://blog.csdn.net/qq_43499622/article/details/102759545)
- > Java——快速傅里叶变换FFT的程序实现（时间抽取的基-2FFT、倒位计算、蝶形运算）
+ ## [Kotlin 势必取代 Java？](https://blog.csdn.net/csdnnews/article/details/98808698)
+ > Kotlin 势必取代 Java？
  ## [HashMap源码阅读](https://blog.csdn.net/qq_34326321/article/details/102808690)
  > HashMap源码阅读
  ## [最近程序员频繁被抓，如何避免面向监狱编程！？](https://blog.csdn.net/hollis_chuang/article/details/102776191)
  > 最近程序员频繁被抓，如何避免面向监狱编程！？
+ ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
+ > 学习 Java 应该关注哪些网站？
  ## [这30个CSS选择器，你必须熟记（上）](https://blog.csdn.net/Ed7zgeE9X/article/details/102812665)
  > 
  ## [为什么你学不会递归？告别递归，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/102767860)
  > 为什么你学不会递归？告别递归，谈谈我的经验
- ## [面试必备 | 带你彻底搞懂 Python 生成器。](https://blog.csdn.net/u013486414/article/details/102816501)
- > 面试必备 | 带你彻底搞懂 Python 生成器。
+ ## [《吊打面试官》系列-Redis基础](https://blog.csdn.net/qq_35190492/article/details/102841400)
+ > 
+ ## [一文搞懂什么是TCP/IP协议](https://blog.csdn.net/petterp/article/details/102779131)
+ > 一文搞懂什么是TCP/IP协议
+ ## [面试官，不要再问我“Java虚拟机类加载机制”了](https://blog.csdn.net/wo541075754/article/details/102768249)
+ > 
+ ## [单点登录（SSO）](https://blog.csdn.net/u011225629/article/details/102756288)
+ > 
  ## [还有不会用 SQL 的程序员吗？](https://blog.csdn.net/csdnnews/article/details/102867055)
  > 前段时间，我的领导突然发消息给我：大 BOSS 想要知道，最近公司上线了促销功能后产品的销量表现如何？有没有带来新用户增长？对同类产品的销量有没有促进作用？刚收到消息时，...
  ## [如何通过 Python 和 OpenCV 实现目标数量监控？](https://blog.csdn.net/csdnnews/article/details/102867058)
@@ -80,36 +80,36 @@ categories: IT NEWS
  ## [5G 正式商用，开启互联网的下半场？](https://blog.csdn.net/csdnnews/article/details/102852821)
  > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）从1G到5G是部通信进化史，而我们走了40 年：1983年，第一代移动通信1G全球开始商用，直至1989年，中国才开通第一代移动通信，我们晚了6年；1991年，全球步入2G时代，中国在1994年才开始2G商用，我们晚了3年；2001年，全.
 # 人工智能 
- ## [这30个CSS选择器，你必须熟记（上）](https://blog.csdn.net/Ed7zgeE9X/article/details/102812665)
+ ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
+ > AutoSAR系列讲解 - 总目录
+ ## [Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！](https://blog.csdn.net/zhiwenyan/article/details/90110136)
+ > Adobe Acrobat Pro 2019 for mac安装破解版，完美使用！！！
+ ## [Jmeter测试post请求的接口（webapi），json格式](https://blog.csdn.net/qq_27010291/article/details/101053895)
+ > Jmeter测试post请求的接口（webapi），json格式
+ ## [vue+commitlint+husky 代码提交规范&&验证](https://blog.csdn.net/weixin_44314258/article/details/94397435)
+ > vue+commitlint+husky 代码提交规范&amp;&amp;验证
+ ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
+ > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
+ ## [IDEA Unable to import maven project: See logs for details （maven的坑）](https://blog.csdn.net/Certain_/article/details/90745360)
+ > IDEA Unable to import maven project: See logs for details （maven的坑）
+ ## [分享下我的开发工具IDEA与插件](https://blog.csdn.net/weixin_39388918/article/details/97108345)
+ > 分享下我的开发工具IDEA与插件
+ ## [总结一下常用的git 命令](https://blog.csdn.net/SECURE2/article/details/80858963)
+ > 总结一下常用的git 命令
+ ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
+ > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
+ ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
  > 
- ## [web前端开发](https://blog.csdn.net/Evildoerw/article/details/102813034)
- > web前端开发
- ## [Java开发需要知道的HTML知识](https://blog.csdn.net/hebtu666/article/details/102799031)
- > 
- ## [JS原生轮播图（带原理、思考步骤、详情）——WEB(一）](https://blog.csdn.net/Z269571627/article/details/102821928)
- > JS原生轮播图（带原理、思考步骤、详情）——WEB(一）
- ## [手把手教你用JSP+Servlet+Tomcat实现一个最简单的Web应用](https://blog.csdn.net/qq_44336275/article/details/102831017)
- > 手把手教你用JSP+Servlet+Tomcat实现一个最简单的Web应用
- ## [摸鱼前端的自检（一）浏览器渲染过程剖析](https://blog.csdn.net/qq_24073885/article/details/102839248)
- > 摸鱼前端的自检（一）浏览器渲染过程剖析
- ## [我了解的网站优化知识](https://blog.csdn.net/MEIMEI_10/article/details/102814446)
- > 我了解的网站优化知识
- ## [【分享】初学者提高开发效率的20个谷歌插件！](https://blog.csdn.net/qq_36903042/article/details/102784591)
- > 【分享】初学者提高开发效率的20个谷歌插件！
- ## [一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
- > 一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
- ## [HTML入门基础](https://blog.csdn.net/zhaoxuefeng123/article/details/102824347)
- > HTML入门基础
- ## [关于html和css的区别](https://blog.csdn.net/weixin_45814170/article/details/102813098)
- > 关于html和css的区别
- ## [再次梳理AMD、CMD、CommonJS、ES6 Module的区别](https://blog.csdn.net/qq_32262127/article/details/102812491)
- > 再次梳理AMD、CMD、CommonJS、ES6 Module的区别
- ## [html图像与连接（2）&语法](https://blog.csdn.net/wangboyujiayou/article/details/102812489)
- > html图像与连接（2）&amp;语法
- ## [Zeller公式](https://blog.csdn.net/qq_43337394/article/details/102827171)
- > Zeller公式
- ## [element-ui中el-upload结合websocket实现分批批量上传文件](https://blog.csdn.net/zheng_chang_wei/article/details/102793525)
- > element-ui中el-upload结合websocket实现分批批量上传文件
+ ## [Axure 9注册码，亲测可用](https://blog.csdn.net/weixin_41948075/article/details/92797529)
+ > Axure 9注册码，亲测可用
+ ## [IntelliJ IDEA常用的插件](https://blog.csdn.net/qq_37896194/article/details/100705653)
+ > IntelliJ IDEA常用的插件
+ ## [JRebel for IntelliJ  热部署破解方法](https://blog.csdn.net/is_chenzh/article/details/82148157)
+ > JRebel for IntelliJ  热部署破解方法
+ ## [IDEA快速实现接口、查找接口的实现、getSet方法快速生成等等常用快捷键](https://blog.csdn.net/qq_44543508/article/details/100084711)
+ > IDEA快速实现接口、查找接口的实现、getSet方法快速生成等等常用快捷键
+ ## [IntelliJ IDEA（2019）安装和破解。](https://blog.csdn.net/weixin_37569048/article/details/91490654)
+ > IntelliJ IDEA（2019）安装和破解。
 # PM 
  ## [我在浮躁的社交圈里看到一篇优质的分享有多难？](http://www.chanpin100.com/article/109909)
  > “扫码分享朋友圈，获得精美礼品一份哦”这是商家的一种让利传播手段，用户扫码关注，并分享朋友圈，期望产品能在社交圈中露出并传播，可是大部分用户在分享的时候，选的却是仅对自己可见。
