@@ -1,7 +1,7 @@
 ---
 title: 2019-11-05 IT News
 copyright: true
-date: 2019-11-05 10:00:53
+date: 2019-11-05 12:00:51
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,59 +69,67 @@ OKEx&#39318;&#24109;&#25112;&#30053;&#23448;&#24464;&#22372;&#65306;&#24050;&#21
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [第二届中国硅光产业论坛将在完整议程公布 欢迎报名(附参会企业名单)](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=at8b5sBK29PiCBviRyiKcOyLADwfqSiOilo8n3-rZUA8LIAotn-VURV5HSrjS9N1IbEp2608uDduUOJv0c8l9f3Z-J*de3WMOwj5pjIwW7MK2YYUsfPs7glfH1TepMWK&new=1)
- > 导读     2019年11月12日，第二届中国硅光产业论坛即将在武汉隆重举办，会议将邀请来自产业下游互联网内容提供商、设备商及高校科研代表讲述硅光应用。来自知名硅光企业代表，制造平台共同探讨硅光工艺技术、制...
- ## [\[科技早报7点整\]工信部启动App侵害用户权益整治工作 苹果用户吐槽iOS13掉电快……](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=YvseCVESOw3OTkOj*PsaWxOHsTkZ0REiyfoQLb3-2ohTEsI2ku8g4IgomzZNvMnFaCbJY3EoU0WYIxwSqZI3GFRGFMNHG7XTxMISrvsob568Kw94gOHGcjaxZ8K-EYON&new=1)
- > 早上好，科技圈【一度蜜科技早报】第633期1.工信部启动App侵害用户权益整治工作 11月4日，工信部宣布启动App侵害用户权益专项整治工作，将重点针对违规收集个人信息、违规使用个人信息、不合理索取用户权限、为...
- ## [\[报告\]2019年智慧交通行业市场研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=S0HPf5IpgZ5EdWHp-1unNGRhVLdSL0dFKjwSEZ7jGclHMpN9eiGMMdn5GrTMsjyXeG5a51sZmRoRp0k*KppqzpW8yvtp20UTUznRm5t9I*jPLJmv8cjxk-L5AXv4FsUy&new=1)
+ ## [Uber 第三季度净亏同比扩大 18%；中国联通：将推出一波 5G 杀手级应用；「天河二号」算出量子霸权标准|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=1fUYynnvaZkjA-QDJWiK4nDAMwLAoTybXNiuaL72diSpBZlwWuw*Z8Pfkj9XvWEBaQ2GjZ7Ihh8wF1jrqVakAMdK5eGI-vSznmb8nBS2cPQwEN*65QLkovmPGZaB7t0W&new=1)
+ > 「天河二号」算出量子霸权标准谷歌近日发表于《自然》杂志的论文宣布实现了量子霸权。记者 11 月 4 日获悉，在国际上率先开启称霸标准研究的、国防科技大学计算机学院吴俊杰带领的 QUANTA 团队，联合信息工程大...
+ ## [\[报告\]2019年智慧交通行业市场研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=S0HPf5IpgZ5EdWHp-1unNGRhVLdSL0dFKjwSEZ7jGck0qeOBODDpGRqCnxmyHKAFCT*jEqHVrMNVB31x2Gqr6QmBuSILRR7pAStJO4Dn8qx60yqR7THO01mrlwPG7NPW&new=1)
  > 与其相忘江湖，不如点击“蓝字”关注近期，《交通强国建设纲要》的印发在市场上引起强烈的关注。纲要明确指出，大力发展智慧交通，推动大数据、互联网、人工智能、区块链、超级计算等新技术与交通行业深度融合，...
- ## [进博会，买全球!4大细节备受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=JG7yI1SUotohZLX1SQQhLx55jGzVn4iROSiTsgfn6dlGqXYuAewB6WGyum-ejlZFZUYwJSAi1yOK3lc1MgcAtn9xDBoHToROlycyxIr7ft3aMd057wTs6MGpUmhSVpCh&new=1)
+ ## [金属3D打印专用气氛循环过滤系统，浙江拓博TAF-10](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=x3DhU82eJ4OzxYJflQ37ze9yyLY0mTbtB51QDbMrUaTitmL*7os3JDxLKU6qe8UGGx6MDpFnX-c1xLIG351dyYNc5gHAMcC1cLYy6RSgK0ghX8jIy2JPV6odEuxcruvz&new=1)
+ > 关注南极熊3D打印2019年11月，南极熊获悉，浙江拓博已经推出金属3D打印专用气氛循环过滤系统。金属3D打印粉末尘的危害目前金属3D打印主流技术都是利用激光为能量源将粉末熔融成型。当激光进行金属粉末熔化时，会...
+ ## [Gartner：2020年十大战略技术趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=JfTOijx7DSEkMhLE53uShQm32WskQlv4r1GqnZ9TMQEVoUYGORVX7Kv*lGt*x7BgmpDhXRsS23il-89FL*C4SNsP466jbTaflI-3D5W9PFvW3d-cuASHc4QR7Ed6gf9o&new=1)
+ > 随着2019年接近尾声，我们可能会回顾一些曾经被炒作过的趋势，比如区块链或大规模应用的人工智能。但是，当我们还在回顾那些需要缓慢实现的主流趋势时，已经到了考虑即将到来的新年、2020年及以后的时候了。这个...
+ ## [华为敦促澳大利亚解禁5G：不论如何澳洲5G都将是中国造](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=5eAIoKMS7KcfwJ4MIpPCy**5hc4OfkYs7i0V2m21BkIx4*hIYO6I2OXYlktMN*cVzMzFKTxVfvBoSTb7YctVGm7mOHE8MvEK9V7IdzmJDpQ=&new=1)
+ > 据《悉尼先驱晨报》报道，电信设备供应商华为日前向澳大利亚联邦议会众议院提交了一份文件，通过对现状的分析，敦促澳大利亚解除对其5G技术的禁令，否则澳大利亚可能会在全球5G竞赛中落后。华为在这份提交给澳大...
+ ## [第二届中国硅光产业论坛将在完整议程公布 欢迎报名(附参会企业名单)](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=at8b5sBK29PiCBviRyiKcOyLADwfqSiOilo8n3-rZUC*sScCZxMk4fmQxZfauVAAHU6ot2ZleGP5uKsCvDTnNYttoXZv3G1TKOPTiAOhTCI4sJZkvyzWZLBDL6kMlbrZ&new=1)
+ > 导读     2019年11月12日，第二届中国硅光产业论坛即将在武汉隆重举办，会议将邀请来自产业下游互联网内容提供商、设备商及高校科研代表讲述硅光应用。来自知名硅光企业代表，制造平台共同探讨硅光工艺技术、制...
+ ## [进博会，买全球!4大细节备受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=JG7yI1SUotohZLX1SQQhLx55jGzVn4iROSiTsgfn6dkkfT1tUGfXduhB5X-Oy4y2Ud7xrulE8bcrnRxQ0C2pzf0Z*5uDXCIHtN62s7UVgZQHzDuu24kQ3yMW3GTNmd4E&new=1)
  > 电商双11，全民买买买；进博会开幕，买买买全球。第二届中国国际进口博览会11月5日至10日在上海国际会展中心举办。24个国家首次亮相、39个国家再度参展、境内外专业观众注册超50万，参展国家范围遍及五大洲，超...
- ## [多人对讲-解锁骨传导耳机体验新姿势](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=NcvbK6NKbLcmsplPHNVsIEbHGQYJC9aX0vHP6mYBnYR43qJiAStutyUMN-MlhDUEycPn-sUGsoSAzA-V86EyfNjScY4L6vELqdfNRAg8Bw9u8rYbBD2U1yIh7XNzYJuh&new=1)
+ ## [\[科技早报7点整\]工信部启动App侵害用户权益整治工作 苹果用户吐槽iOS13掉电快……](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=YvseCVESOw3OTkOj*PsaWxOHsTkZ0REiyfoQLb3-2oiZWL0rS1hy4lOwJipsVG0KZNB0o5-6xak5myJGVowjdg8kD-z7kVA1MRszn*lrc6Q6tPTcd6S244pKZBxlmSdj&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第633期1.工信部启动App侵害用户权益整治工作 11月4日，工信部宣布启动App侵害用户权益专项整治工作，将重点针对违规收集个人信息、违规使用个人信息、不合理索取用户权限、为...
+ ## [多人对讲-解锁骨传导耳机体验新姿势](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=NcvbK6NKbLcmsplPHNVsIEbHGQYJC9aX0vHP6mYBnYSZFhv3gbsQenIJfKeoRmM32nuUT4H1YYbgqUHXHZAnv7xu1mFi32tDohcCMMZMIhKcHPKoUaVhk41QmKm9AXfS&new=1)
  > 对讲技术是一项伟大的发明20世纪40年代，世界上第一台手持对讲机由摩托罗拉研发出来，并被应用于第二次世纪大战当中，在战争中这种便携式的通信设备发挥了巨大的作用。如今70多年时间过去了，对讲技术仍然没有被...
- ## [我是中国铁塔!](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=6wGt3FB8HfRp0kkkFjkmxF-Oq9JiAl67FkCX4mxIWVmxmTLXE-dDuaciGj7w8qwmwY8Jg*gy8FBC6DdkQ5kuglNb3umk0SplNRJBchYAZZPCP4q9SWUuY1ngvFovOwoW&new=1)
+ ## [我是中国铁塔!](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=6wGt3FB8HfRp0kkkFjkmxF-Oq9JiAl67FkCX4mxIWVmDx6ANLb5c5mAXuQc*eUWrkbZy3g5iaAIDiZZUy3qTBbeAckObi7GpAz17XLeWS-CHcK266o*VBCs4So-Ucdoo&new=1)
  > 中国铁塔最新形象大片出炉啦！我是中国铁塔！ 在加快建设“网络强国”的时代背景下，中国铁塔应势而生，全面建设运营通信铁塔和大型场所室内分布系统，变多家自建铁塔为一家统筹，资源共享，有效减少重复建设，...
- ## [蔚来二手车功能已下线丨每日优鲜新增被执行人信息\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=R-nuySqLdUKlZqgRg0X6ecmcSxomqcgqSamNmNB9q7gFSPZOj7GBMv7s-Bh7hnweAnqUuRT*BovqAHaal6JjXo2SACjb3PVgyxP*uSWpdukqqpsQsyQacw*0qsX7W71X&new=1)
+ ## [蔚来二手车功能已下线丨每日优鲜新增被执行人信息\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=R-nuySqLdUKlZqgRg0X6ecmcSxomqcgqSamNmNB9q7io1uad638NsmBFiZZOdt1*Rmf7j2YJvy0EcjZZUwch-FrE169mlaSlYWKboTqSdxhSwW7CKtqU4jLOURRTQ72H&new=1)
  > 11月04日丨周一【Do说】编辑 | 赵艾虎蔚来二手车功能已下线，称近两天会正式上线据蔚来官方微博消息，蔚来官方二手车今日正式上线。但今日午间，蔚来官方微博的该条信息已删除，并且蔚来App内二手车功能也已经暂...
- ## [基于Chromium的Edge浏览器将于2020年1月15日正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1572919205&ver=1955&signature=p2pYHHSTXEbiUQ-mBATzDuCSP8d9rIizFnV5JuL2PFIYyGp37dBheBmHYd-rLZwG2nF2gtppQBq4XcxwckYnqu7EUaVel6jlK4BYWKUqaSBEK0*4YuBCSoeEgA30ClR*&new=1)
+ ## [基于Chromium的Edge浏览器将于2020年1月15日正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1572926405&ver=1955&signature=p2pYHHSTXEbiUQ-mBATzDuCSP8d9rIizFnV5JuL2PFJngMPKhAu4bKfCKysYrGQJT6q8mQ0DeI2827vzLaVkXPBuchzih7scY5obq*E7mRwUBt6pSCdyLAex23KuK1CF&new=1)
  > 微软今天在Ignite 2019大会上宣布，基于Chromium的Edge浏览器将于明年1月15日全面上市。微软于去年宣布该项目，并在今年4月公开测试。‍‍Edge的LOGO也将发生改变，最初Edge图标旨在使Internet Explor
 # IT 技术 
  ## [“码奴”和“码神”差距在10月的这十篇热门文章](http://news.51cto.com/art/201911/605396.htm)
  > “码奴”和“码神”差距在10月的这十篇热门文章
+ ## [区块链到底是个什么链？五分钟彻底读懂](http://news.51cto.com/art/201911/605341.htm)
+ > 区块链到底是个什么链？五分钟彻底读懂
  ## [微软日本每周只上四天班，销售额提升39.9%！](http://news.51cto.com/art/201911/605398.htm)
  > 微软日本每周只上四天班，销售额提升39.9%！
+ ## [跨专业自学NLP，这个90后撸出了开源类库HanLP，已在GitHub收获1.5W星](http://news.51cto.com/art/201911/605355.htm)
+ > 跨专业自学NLP，这个90后撸出了开源类库HanLP，已在GitHub收获1.5W星
  ## [你对亚马逊托管区块链了解多少？](http://blockchain.51cto.com/art/201911/605348.htm)
  > 你对亚马逊托管区块链了解多少？
- ## [为何企业组织感觉易受内部攻击？](http://netsecurity.51cto.com/art/201911/605332.htm)
- > 为何企业组织感觉易受内部攻击？
- ## [你确定SQL查询都是以SELECT开始的？](http://developer.51cto.com/art/201911/605291.htm)
- > 你确定SQL查询都是以SELECT开始的？
- ## [2019年度Java开发者路线图](http://developer.51cto.com/art/201911/605314.htm)
- > 2019年度Java开发者路线图
- ## [关于Wi-Fi 6、5G和物联网、边缘时代的关键事实](http://iot.51cto.com/art/201911/605308.htm)
- > 关于Wi-Fi 6、5G和物联网、边缘时代的关键事实
- ## [怎么向女朋友解释什么叫区块链？](http://blockchain.51cto.com/art/201911/605320.htm)
- > 怎么向女朋友解释什么叫区块链？
- ## [9个项目助你在2020年成为前端大神！](http://developer.51cto.com/art/201911/605402.htm)
- > DEV的年度热文，读完觉得不错，所以翻译出来供大家参考，个人水平有限，文中可能会有一些翻译错误，可以在
- ## [微软官宣：基于Chromium的Edge即将登陆GNU/Linux平台](http://news.51cto.com/art/201911/605400.htm)
- > 微软正式官宣GNU/Linux平台的新Edge浏览器。在奥兰多举行的Ignite 2019大会上，在State of the Browser这个
- ## [兄弟，这种思路讲解HDFS你肯定没见过，快速入门Hadoop必备](http://bigdata.51cto.com/art/201911/605401.htm)
- > 大数据技术主要要解决的问题的是大规模数据的计算处理问题，那么首先要解决的就是大规模数据的存储问题。
- ## [Visual Studio Online 终于公开上线了](http://news.51cto.com/art/201911/605397.htm)
- > 盼望已久的 Visual Studio Online 终于上线了。今年 5 月份，微软在 Build 2019 开发者大会上宣布了 Web 版
- ## [GitLab，是谁给了你歧视中国程序员的勇气？](http://news.51cto.com/art/201911/605395.htm)
- > 近日，由谷歌投资的全球第二大开源代码托管平台GitLab宣布了一个“封锁令”，禁止给中国/俄罗斯公民提供off
- ## [SQLite真的很容易编译](http://os.51cto.com/art/201911/605399.htm)
- > 我使用 sqlite 运行网站上的所有查询，并且我想在其中一个例子中使用窗口函数。但是我使用的是 Ubuntu 18.0
  ## [重构的艺术：五个小妙招助你写出好代码！](http://developer.51cto.com/art/201911/605391.htm)
- > 编写清晰的代码并没有那么复杂。本教程将向你展示五种改进代码的简单技巧，并提供一些实例。
- ## [11个促进Android应用开发的工具](http://developer.51cto.com/art/201911/605392.htm)
- > Android操作系统在Google Play上拥有大约300万个移动应用，从而成功地引领了全球格局。很多企业Android系
- ## [Java服务，内存OOM问题如何快速定位？](http://zhuanlan.51cto.com/art/201911/605390.htm)
- > OOM的问题，印象中之前写过，这里再总结一些相对通用的方案，希望能帮助到Java技术栈的同学。
- ## [详解MySQL数据库删除所有表的外键约束、禁用外键约束相关脚本](http://database.51cto.com/art/201911/605389.htm)
- > 在实际开发中，数据库中一般不会存在外键，阿里的开发手册中也强制不使用外键与级联操作，一切外键概念必须
+ > 重构的艺术：五个小妙招助你写出好代码！
+ ## [再有人问你为什么MySQL用B+树做索引，就把这篇文章发给她](http://database.51cto.com/art/201911/605365.htm)
+ > 再有人问你为什么MySQL用B+树做索引，就把这篇文章发给她
+ ## [互联网公司甩锅指南，果断收藏](http://news.51cto.com/art/201911/605406.htm)
+ > 互联网公司甩锅指南，果断收藏
+ ## [这一次，终于系统的学习了 JVM 内存结构](http://developer.51cto.com/art/201911/605423.htm)
+ > 最近在看《 JAVA并发编程实践 》这本书，里面涉及到了 Java 内存模型，通过 Java 内存模型顺理成章的了解到
+ ## [Kubernetes 如何打赢容器之战？](http://cloud.51cto.com/art/201911/605421.htm)
+ > 早期的主流做法基本上是租 AWS 或者 OpenStack 的虚拟机，然后把这些虚拟机当作物理机一样，用脚本或者手工
+ ## [RPM包是如何从源RPM制作的](http://os.51cto.com/art/201911/605420.htm)
+ > 在上一篇文章中，我们研究了什么是 RPM 软件包。它们是包含文件和元数据的档案文件。当安装或卸载 RPM 时，
+ ## [一文读懂Python web框架和web服务器之间的关系](http://developer.51cto.com/art/201911/605419.htm)
+ > 我们都知道 Python 作为一门强大的语言，能够适应快速原型和较大项目的制作，因此被广泛用于 web 应用程序
+ ## [开源，基础软件更好的商业模式](http://os.51cto.com/art/201911/605418.htm)
+ > 虽然已经 2019 年，但还是有不少人(甚至是大部分人)，一提到“开源”，想到的就是“免费”与“个人开发的业
+ ## [SpringBoot这样调优，让你的项目飞起来！](http://developer.51cto.com/art/201911/605415.htm)
+ > 作为一名工程师，项目调优这事，是必须得熟练掌握的事情。在SpringBoot项目中，调优主要通过配置文件和配置
+ ## [Firefox 将默认隐藏浏览器中的通知弹窗](http://os.51cto.com/art/201911/605413.htm)
+ > 为了打击垃圾广告并改善网络运行状况，Firefox 将从 72 版本开始默认隐藏浏览器中的弹出式通知，这一版本预
+ ## [优秀的机器学习情绪分析工具（创业公司）TOP5](http://ai.51cto.com/art/201911/605411.htm)
+ > 最佳的情感分析公司和机器学习工具有哪些?以下我们整理了数家目前市场上较为优秀的，基于机器学习的情感分
+ ## [带你初步了解RPM包](http://os.51cto.com/art/201911/605412.htm)
+ > 也许，Fedora 社区追求其促进自由和开源的软件及内容的使命的著名的方式就是开发 Fedora 软件发行版了。因
+ ## [分分钟解决 MySQL 查询速度慢与性能差](http://database.51cto.com/art/201911/605414.htm)
+ > QueriesPerSecond意思是“每秒查询率”，是一台服务器每秒能够相应的查询次数，是对一个特定的查询服务器在
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
  ## [赞，全网开发者都在学的 26 门 AI 课程！](https://blog.csdn.net/csdnnews/article/details/98908044)
@@ -130,14 +138,10 @@ OKEx&#39318;&#24109;&#25112;&#30053;&#23448;&#24464;&#22372;&#65306;&#24050;&#21
  > 磁盘管理命令之partx，lsblk，blkid，partprobe
  ## [源码分析 RocketMQ DLedger 多副本之 Leader 选主](https://blog.csdn.net/prestigeding/article/details/99697323)
  > 源码分析 RocketMQ DLedger 多副本之 Leader 选主
- ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
- > 有哪些让程序员受益终生的建议
  ## [最近程序员频繁被抓，如何避免面向监狱编程！？](https://blog.csdn.net/hollis_chuang/article/details/102776191)
  > 最近程序员频繁被抓，如何避免面向监狱编程！？
  ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
  > 
- ## [redis常用命令大全+案例易懂](https://blog.csdn.net/yuyue_999/article/details/102743322)
- > redis常用命令大全+案例易懂
  ## [中国麻将：世界上最早的区块链项目](https://blog.csdn.net/gao_chun/article/details/102795414)
  > 中国麻将：世界上最早的区块链项目
  ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
@@ -150,8 +154,12 @@ OKEx&#39318;&#24109;&#25112;&#30053;&#23448;&#24464;&#22372;&#65306;&#24050;&#21
  > 2019双十一淘宝天猫刷喵币
  ## [Python自动化完成tb喵币任务](https://blog.csdn.net/qq_44198436/article/details/102734420)
  > Python自动化完成tb喵币任务
+ ## [win10电脑工具整理 - 常用工具！](https://blog.csdn.net/weixin_41599858/article/details/102084565)
+ > win10电脑工具整理 - 常用工具！
  ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
  > 500行代码，教你用python写个微信飞机大战
+ ## [springboot系列知识](https://blog.csdn.net/qq_43270074/article/details/99235913)
+ > springboot系列知识
  ## [拥有自我意识、自我模拟的粒子机器人来了](https://blog.csdn.net/csdnnews/article/details/102908640)
  > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）科幻电影《Her》里讲述这样一个故事：2025年，孤独内向的男主在离婚后遇到一款人工智能操作系统OS1，“她”可通过和人类对话，不断学习和丰富自己的意识和感情，进化的速度令人惊讶。2025年很快就来临，在现实世界中...
  ## [开发者应当熟知的 C 序列化和反序列化](https://blog.csdn.net/csdnnews/article/details/102908646)
@@ -168,83 +176,87 @@ OKEx&#39318;&#24109;&#25112;&#30053;&#23448;&#24464;&#22372;&#65306;&#24050;&#21
  > 做管理并不是唯一的晋级技术领导的途径，你也可以坚定地走工程师道路，成为战略技术领导职位上的一枝独秀。作者 |Keavy McMinn译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：我不想做管理，我曾有过短暂的经历（准确地说是73天），然而我认为做管理并不是我的兴.
  ## [今日头条在消息服务平台和容灾体系建设方面的实践与思考](https://blog.csdn.net/csdnnews/article/details/102908643)
  > 作者|沈辉责编|郭芮本篇文章整理自今日头条的沈辉在 RocketMQ 开发者沙龙中的演讲，主要和大家分享一下，RocketMQ 在微服务架构下的实践和容灾体系建设。沈辉是今日头条的架构师，主要负责 RocketMQ 在头条的落地以及架构设计，参与消息系统的时间大概一年左右。以下是本次分享的议题：今.
+ ## [金句来了！习近平：中国市场这么大，欢迎大家都来看看](http://www.lanjingtmt.com/news/detail/44787.shtml)
+ > 11月5日，第二届中国国际进口博览会在上海国家会展中心举行开幕式，习近平主席出席开幕式并发表主旨演讲。一组海报，看“金句”。
+ ## [罗永浩回应孙宇晨百万年薪聘用邀请：发币我也会，只是没打算做](http://www.lanjingtmt.com/news/detail/44786.shtml)
+ > 对于币圈人士、陪我APP董事长兼CEO孙宇晨的百万年薪聘用邀请，罗永浩在微博回应称，“感谢币圈的朋友们看得起我，但发币我自己也会，只是没打算做”。
  ## [海尔、创维等被约谈，智能电视开机广告为何关不掉？](http://www.lanjingtmt.com/news/detail/44785.shtml)
  > 业内专家表示，因为广告是收费平台最大的一个收费项目，所以短期内各电视厂商不会彻底取消开机广告，但很可能会控制在规定的时长之内。
 # 人工智能 
- ## [程序员鄙视链！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/101180547)
- > 程序员鄙视链！ | 每日趣闻
- ## [类似qq,微信不受监控安全的聊天工具推荐](https://blog.csdn.net/jiangwudidebaba/article/details/100734997)
- > 类似qq,微信不受监控安全的聊天工具推荐
- ## [峰会回顾|现场干货来袭！](https://blog.csdn.net/nanshanfu/article/details/100776584)
- > 峰会回顾|现场干货来袭！
- ## [mitmproxy证书装不上](https://blog.csdn.net/a6864657/article/details/100246252)
- > mitmproxy证书装不上
- ## [什么是B端C端](https://blog.csdn.net/liu_Yudong/article/details/91430871)
- > 什么是B端C端
- ## [公司部门和职称](https://blog.csdn.net/qq_42363892/article/details/100359434)
- > 公司部门和职称
- ## [php开发之Composer包](https://blog.csdn.net/mrtwenty/article/details/97426344)
- > php开发之Composer包
- ## [史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)](https://blog.csdn.net/sym134/article/details/93971142)
- > 史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)
- ## [Fluke Corporation收购工业可靠性领导者普卢福](https://blog.csdn.net/sinat_41698914/article/details/96879521)
- > Fluke Corporation收购工业可靠性领导者普卢福
- ## [Android——多语言适配](https://blog.csdn.net/weixin_37758967/article/details/97241429)
- > Android——多语言适配
- ## [程序员最常说的谎言是什么？ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100612844)
- > 程序员最常说的谎言是什么？ | 每日趣闻
- ## [公司的企业文化 管理](https://blog.csdn.net/qq_27366859/article/details/97150848)
- > 公司的企业文化 管理
- ## [基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现](https://blog.csdn.net/demongwc/article/details/85122172)
- > 基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现
- ## [ 写论文也要告别abandon模式](https://blog.csdn.net/iCloudEnd/article/details/94785803)
- >  写论文也要告别abandon模式
- ## [JavaWeb学生成绩管理系统](https://blog.csdn.net/ylcto/article/details/94730079)
- > JavaWeb学生成绩管理系统
+ ## [Mysql代码生成器转Oracle代码生成](https://blog.csdn.net/weixin_40816738/article/details/91347856)
+ > Mysql代码生成器转Oracle代码生成
+ ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
+ > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
+ ## [SpringBoot swagger2的使用](https://blog.csdn.net/qq_36511401/article/details/101283899)
+ > SpringBoot swagger2的使用
+ ## [SpringBoot之使用PageHelper插件](https://blog.csdn.net/qq_37896194/article/details/96151716)
+ > SpringBoot之使用PageHelper插件
+ ## [sqli—labs（8到10关）盲注](https://blog.csdn.net/qq_44108455/article/details/95366551)
+ > sqli—labs（8到10关）盲注
+ ## [解决Win10下Mysql 的Access denied for user'root'@'localhost' (using password: NO)问题](https://blog.csdn.net/fores_t/article/details/92085383)
+ > 解决Win10下Mysql 的Access denied for user&x27;root&x27;@&x27;localhost&x27; (using password: NO)问题
+ ## [ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using passwor:yes) 解决办法](https://blog.csdn.net/longgeaisisi/article/details/100743349)
+ > ERROR 1045 (28000): Access denied for user &x27;root&x27;@&x27;localhost&x27; (using passwor:yes) 解决办法
+ ## [SQL注入（二）](https://blog.csdn.net/qq_40568770/article/details/92800229)
+ > SQL注入（二）
+ ## [Docker安装mysql](https://blog.csdn.net/cs4380/article/details/89928514)
+ > Docker安装mysql
+ ## [MySQL中添加或插入语句(Insert)的几种使用方式](https://blog.csdn.net/qq_40194399/article/details/94554191)
+ > MySQL中添加或插入语句(Insert)的几种使用方式
+ ## [git合并分支](https://blog.csdn.net/weixin_43606158/article/details/100146367)
+ > git合并分支
+ ## [MySQL实现for循环逐个遍历](https://blog.csdn.net/Bulter1996/article/details/91911136)
+ > MySQL实现for循环逐个遍历
+ ## [MySQl 忘记密码怎么办？](https://blog.csdn.net/weixin_43054397/article/details/90721094)
+ > MySQl 忘记密码怎么办？
+ ## [Linux系统操作（9）：apt命令](https://blog.csdn.net/qq_41554005/article/details/100556444)
+ > Linux系统操作（9）：apt命令
+ ## [常用的HQL语句](https://blog.csdn.net/qq_37896194/article/details/94645276)
+ > 常用的HQL语句
 # PM 
- ## [类图是怎样炼成的？](http://www.woshipm.com/pd/3050920.html)
- > 类图可以用来展示类的结构和与其他类的关系，是一个重要的结构建模的工具。01学过UML的人对类图想必都不陌生，作为结构建模的核心工具，类图充当着沟通现实世界与概...
- ## [用文案打造产品独特性](http://www.woshipm.com/copy/3051789.html)
- > 文案中，谁能打造产品的独特点，占领用户心智，谁就是一款成功的文案。那么如何用文案展现出产品的独特点呢？笔者给出了几个方法，你值得拥有。“独特性”是产品吸引人...
- ## [关于用户访谈，你需要了解这4点](http://www.woshipm.com/user-research/3050465.html)
- > 用户访谈是从用户那里获取信息优化用户体验，测试可用性和激发灵感的好方法。它简单且易于执行，任何可以提出问题并记录答案的人都可以轻松进行。在了解如何进行用户...
- ## [陌陌直播用户体系拆解：如何让用户付费](http://www.woshipm.com/operate/3050402.html)
- > 笔者从四个层面分析了陌陌直播的用户成长路径，对于未来的用户运营有指导意义，分享给大家。本文思维导图：一、陌陌直播产品商业通路和用户价值养成路径MOMO陌陌直...
+ ## [产品经理：需求变更，我太难了！](http://www.woshipm.com/pmd/3052275.html)
+ > 产品经理在项目进行过程中，常常会面临一个重大考验：改需求！这也是产品经理经常被攻击的地方。为什么要改？怎么改？如何处理更改之后产生的新问题？这些都是摆在产品...
+ ## [免费体验课 | 新人一学就能用的Axure操作，更快画出标准、规范原型](http://www.woshipm.com/active/3048390.html)
+ > “老大常说我画的原型好丑”“每次画原型，都被打回来反反复复修改，浪费很多时间”“要给甲方出交互高保真，但很多交互做不出，太难了……”刚做产品经理一段时间的你，在...
+ ## [订单履约：商品配送时效如何展示？](http://www.woshipm.com/pd/3007105.html)
+ > 本文将为大家介绍不同平台计算配送时效的方式，以及订单履约过程中的种种与配送时效相关的问题。	天天问问题：《“次日达”、“半日达”和“1小时达”“2小时达”真的会影响你...
+ ## [如何进行有效需求分析？（一）](http://www.woshipm.com/pmd/3052124.html)
+ > 需求分析让人头秃，笔者针对这个问题展开了通俗易懂的阐释，希望给大家以帮助。你有没有因为需求分析四个字，而感到头发日渐稀少？你有多少个失眠的夜，是在思考领导...
+ ## [销售的本质是把钱收回来](http://www.woshipm.com/marketing/3052419.html)
+ > 销售销售，看似只要把东西卖出去就好了，但更重要的是，能够把钱收回来，还要快速将钱收回来。回款能力，实际上是企业的话语权和议价权。1944年，欧洲前线战事出现了...
+ ## [3个公式，理清用户体验](http://www.woshipm.com/ucd/3050987.html)
+ > 本文从产品可用性、产品易用性和产品好用性等角度重新梳理用户体验，希望对你有所启发。无论是产品经理还是互联网从业者，脱口而出的都是“用户体验”，已经变成了万能...
+ ## [中后台产品经理的业务调研，应该调研什么？](http://www.woshipm.com/pmd/3049692.html)
+ > 中后台产品与业务紧密相连，产品经理需要熟知业务架构和逻辑。其中，业务调研是一个熟悉业务的重要方法。所谓C端，即围绕个体用户衣食住行、吃喝玩乐的产品。与之对应...
+ ## [产品经理需知晓：弃权也是决策](http://www.woshipm.com/pmd/3052165.html)
+ > 决策分为两个方向，积极和消极。而弃权，就是一种消极的决策。同样，看似赌上身家、孤注一掷的决策，也是一种弃权。弃权与决策的风险你上一次对自己的职业规划做出决...
+ ## [网红品牌的3个死因](http://www.woshipm.com/marketing/3051561.html)
+ > 近些年来，网红品牌的意义褒贬不一，但很多人对网红品牌的印象一般是“炒作与短命”，笔者也因此关注到这一点，并进一步分析了网红品牌的“种种死因”。三个月前，我问客...
+ ## [3-5岁产品经理的快速成长路径](http://www.woshipm.com/pmd/3048141.html)
+ > 对3-5岁产品经理来说，他们面对着大量的焦虑以及不知如何解决的问题，笔者给出了三点建议，希望能帮助他们明确快速成长的方法。如果你最近老是这样：处理需求得心应...
+ ## [018 | 团队里有人偷懒，作为领导你该怎么办？](http://www.woshipm.com/zhichang/3047748.html)
+ > “一个和尚打水喝，两个和尚挑水喝，三个和尚没水喝。”为什么？你有没有遇到过团队成员偷懒的情况？比如你们一起组队参加比赛，或者一起完成某个项目目标。但是干着干...
+ ## [iOS 13，暗黑模式不是所有产品都适合](http://www.woshipm.com/pd/3051035.html)
+ > iOS 13带来暗黑模式，这样的设计对于用户体验有什么作用呢？产品如何要适配暗黑模式，有哪些问题需要注意呢？其实是想更新一篇长文，但是呢，为了让自己看起来经常更...
+ ## [解读《5G时代》（2）信息技术革命](http://www.chanpin100.com/article/109945)
+ > 历史就是如此有趣，旧的东西正在消逝，新的东西正在破土而出！
+ ## [以喜马拉雅为例分析如何实现用户规模化增长](http://www.chanpin100.com/article/109944)
+ > 怎么实现用户的规模化增长呢？
+ ## [产品经理需知晓：弃权也是决策](http://www.chanpin100.com/article/109942)
+ > 写写自己的心得，经验和方法，组建了产品经理交流群，与大家一起探讨，一起学习，一起成长。
+ ## [如何进行有效需求分析？（一）](http://www.chanpin100.com/article/109941)
+ > 左脑喜欢逻辑，右脑喜欢故事；最好的陈述一定是起于故事，终于逻辑。
+ ## [如果微信也有「匿名踩」？](http://www.chanpin100.com/article/109940)
+ > 最早在2009年，Facebook推出“like”这个功能后，用户活跃度飙升，这是点赞功能第一次登上社交产品的舞台。在随后的设计中，点赞几乎成为了所有社交媒体的标配，微信更不例外，朋友圈里面的点赞，我们每一个人都用过。
+ ## [请求/获取/推送/几种接口类型的示例](http://www.chanpin100.com/article/109935)
+ > 请求/获取/推送/几种接口类型的示例
+ ## [天猫双11预售首日破亿，口红一哥李佳琦的“套路”让人防不胜防](http://www.chanpin100.com/article/109946)
+ > 没有一个女生可以空手走出李佳琦的直播间！那我们就来看看李佳琦到底有什么魔力？
+ ## [产品设计思考：草稿内容该不该上传平台服务器？](http://www.chanpin100.com/article/109934)
+ > 用户未完成的创作内容该不该保存？该不该上传到平台服务器备份？
+ ## [老铁，你的魂儿丢了没？](http://www.chanpin100.com/article/109933)
+ > 作为产品人，劝你拥有自己的灵魂；不要随波逐流，不要随风摇曳。
  ## [区块链和互联网之间的区别](http://www.chanpin100.com/article/109931)
  > 区块链和传统互联网有哪些区别？
- ## [电商之下：服务类商品订单履约系统如何设计](http://www.chanpin100.com/article/109930)
- > 本文以服务类商品的订单履约为主题，分析了生活服务平台的订单履约系统的架构和核心功能、以及服务履约流程。
- ## [一个合格的App运营者必须知道的七个问题！](http://www.chanpin100.com/article/109928)
- > 关键词需要用逗号分隔吗？App被苹果清榜或者清词了该怎么办？收到苹果的警告信怎么办？这些知识点统统告诉你
- ## [浅谈B端产品设计-工作台篇](http://www.chanpin100.com/article/109927)
- > 手有工作台，心有工作流。
- ## [为什么你每天兢兢业业推广产品，依然收获甚微](http://www.chanpin100.com/article/109926)
- > 作为消费者、作为用户，我们每天都会有自己的事情要做，尽管有些人多，有些人少，但是我们从来都没有计划或者预留过一段时间，是用来接收广告。
- ## [这是一份超详细的支付宝钱包原型模板，免费使用！(支付宝支付跳转)](http://www.chanpin100.com/article/109925)
- > 我们可以借鉴借鉴~
- ## [2019设计之旅41-设计清单分享](http://www.chanpin100.com/article/109924)
- > 第三五章阿里内部资料，怎样理解信息架构？(上)设计清单第35期：用时约1分
- ## [靠吃“豆腐”驱动增长已成为过去，啃“骨头”做增长才是未来](http://www.chanpin100.com/article/109923)
- > 基于中国市场现状，我们该怎样去做增长？
- ## [当他们都在说产品经理门槛低的时候](http://www.chanpin100.com/article/109921)
- > 好看的产品千篇一律，有用的产品万中无一。
- ## [《用户行为数据分析——GrowingIO实战指南》全新发布！](http://www.chanpin100.com/article/109918)
- > 4 年时间，结合 20+ 客户案例，总结出的用户行为分析最佳实践
- ## [断了金手指的爱回收，黑马故事已不好讲](http://www.chanpin100.com/article/109917)
- > 答案其实并不难，随着二手电商市场逐渐的形成双强格局，马太效应下，小平台的竞争力会越来越式微。
- ## [鉴锋：B端公司，如何搭建私域流量矩阵获取大量客户？](http://www.chanpin100.com/article/109916)
- > 分享零一裂变团队作为B端公司的内部获客渠道矩阵
- ## [如何运用无邀请码的模式来提高用户邀请活动效率](http://www.chanpin100.com/article/109915)
- > 本文就从邀请注册流程说起，谈谈如何运用无邀请码的邀请模式来提高邀请注册效率
- ## [通过预约挂号流程，聊一聊业务流程图](http://www.chanpin100.com/article/109914)
- > 在写项目需求文档时，我们会画各种各样的流程。
- ## [编辑类APP如何设计VIP订阅页面呢](http://www.chanpin100.com/article/109913)
- > 最近看了很多国内外编辑类的APP，发现了很多设计地特别不错的VIP订阅页面。对这些页面的总结，有助于提升我们对此类页面的思考，并且提升我们的设计水平。
- ## [解读《5G时代》（1）解读的意义](http://www.chanpin100.com/article/109912)
- > 2019年被称之为5G时代的元年。而每一个时代的更迭，都伴随着新故事的发生。接下来我们一起来看一下，在5G时代会有哪些精彩的故事即将上演吧。
- ## [海尔智家3季报：转型成果显著“副作用”开始递减](http://www.chanpin100.com/article/109911)
- > 从长远来看，“海尔智家”这种出口创牌虽然见效慢，但是后劲强，现在也进入了收益期。
- ## [产品日常需求思考--扫码点餐的实战思路](http://www.chanpin100.com/article/109910)
- > 产品日常需求思考，跟我一步一步走
 
     
