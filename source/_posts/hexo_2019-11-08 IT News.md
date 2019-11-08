@@ -1,18 +1,18 @@
 ---
 title: 2019-11-08 IT News
 copyright: true
-date: 2019-11-08 08:00:49
+date: 2019-11-08 09:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [区块链起强风，嘉楠耘智四战IPO生死未卜](http://mp.weixin.qq.com/s?src=11&timestamp=1573171204&ver=1961&signature=IodrsXtduUCmGT55PlHDtb-CzJ0g5cb3AnXoRzCP7TMACMQNbXDR*ubTVDWBM-6lyj4hIkOnnQrfL6oMEVgtn*d4USqU1yf6KPwmFT0M*xv1g0SWrNadHYxsmGQ0qEKv&new=1)
- > 随着10月24日国家将区块链技术上升为一项发展战略，“区块链”一词立刻在民间引起热潮。虽然“区块链”早已不是什么新鲜词汇，但是通过在微博、知乎等社交平台上的留言来看，还是有很多人对其表示陌生。 百度会...
- ## [5G刚刚商用，6G竞赛就已正式开打!](http://mp.weixin.qq.com/s?src=11&timestamp=1573171204&ver=1961&signature=-ABki9YZVYfQhDZOWNWp1clbN1xQGmWEtFErCsEXX07eyil8v4-EomHUai2c6P9lPb6ZM1HYoPRyofmTi4pTKiFU7FdaynSQQFlv-6ruOJVSVX229itXRSNP78ZYCOK9&new=1)
+ ## [5G刚刚商用，6G竞赛就已正式开打!](http://mp.weixin.qq.com/s?src=11&timestamp=1573174805&ver=1961&signature=-ABki9YZVYfQhDZOWNWp1clbN1xQGmWEtFErCsEXX07eyil8v4-EomHUai2c6P9lHXd2EPPep*HmbppHu08ucYCaGGqAicVBSWh*2PmC3kW*usa3AHYyFhNPV0hwJ04J&new=1)
  > 11月6日消息，国家科技部会同国家发展改革委、教育部、工业和信息化部、中科院、自然科学基金委在北京组织召开了6G技术研发工作启动会。据了解，会议宣布成立国家6G技术研发推进工作组和总体专家组，其中，推进...
- ## [联想二季度中国区PC市场份额重回40%数据中心业务亏损收窄](http://mp.weixin.qq.com/s?src=11&timestamp=1573171204&ver=1961&signature=2CGedA5ln*t4F2v5rB30LS4p3hvusfl3EQdOr1MdMopI2f8MNHingYCKujLTpwxFCX2RxdrF0-wcwmW-B8edgig9wwwS-ZvWW86N0TeV0v4=&new=1)
+ ## [联想二季度中国区PC市场份额重回40%数据中心业务亏损收窄](http://mp.weixin.qq.com/s?src=11&timestamp=1573174805&ver=1961&signature=2CGedA5ln*t4F2v5rB30LS4p3hvusfl3EQdOr1MdMopea2zahui21xiErR8EQjbIZgjL0v*ghRQs-Ag-Idv5BvlKjWXJTruM29Hn5Vbpnfc=&new=1)
  > 经济观察网 记者 钱玉娟 实习记者 骆贝贝 11月初刚迎来35岁生日的联想集团，在今日（7日）公布了2020财年第二财季业绩。数据显示，联想本季营收948亿人民币，实现连续9个季度同比增长。净利润为14.2亿人民币，同...
- ## [双千兆才是真千兆：2C选5G，2H选千兆](http://mp.weixin.qq.com/s?src=11&timestamp=1573171204&ver=1961&signature=jwxoIr1i1Ji8I5mVSppnk9-Qx4SspE4A5nn1tetUCEGwkKbwHmjGXrseQp*zyjT86-TfsDhZUxIEYQWP1VO*P*vkrZ2Ov-5jvDelRaEFqUV4M-cAPKr89kAMAKCpDu7s&new=1)
+ ## [区块链起强风，嘉楠耘智四战IPO生死未卜](http://mp.weixin.qq.com/s?src=11&timestamp=1573174805&ver=1961&signature=IodrsXtduUCmGT55PlHDtb-CzJ0g5cb3AnXoRzCP7TMACMQNbXDR*ubTVDWBM-6l-brbDWSsOQbfE3ZJIsKCp5n6yRBH8TZf1Amkd-l1Dta72hrD-J3QloN-NZDJfPnj&new=1)
+ > 随着10月24日国家将区块链技术上升为一项发展战略，“区块链”一词立刻在民间引起热潮。虽然“区块链”早已不是什么新鲜词汇，但是通过在微博、知乎等社交平台上的留言来看，还是有很多人对其表示陌生。 百度会...
+ ## [双千兆才是真千兆：2C选5G，2H选千兆](http://mp.weixin.qq.com/s?src=11&timestamp=1573174805&ver=1961&signature=jwxoIr1i1Ji8I5mVSppnk9-Qx4SspE4A5nn1tetUCEGwkKbwHmjGXrseQp*zyjT8aU*zNkAL3wbpCwrl1dRT--AJYQCB925-dwysPLNdhKfMfu*9C5lDX6Iw2AS21ZGk&new=1)
  > 在5G套餐推出、正式商用的大背景下，消费者其实对基于千兆网络的8K高清视频、Cloud VR等崭新业务早已闻其声，但迟迟未见其形，因为此前推出的业务体验低于预期。各大应用开发者也在官网，期望通过千兆抓住新的市...
 # IT 技术 
  ## [掌握这些监控报警优化技巧，百万年薪不在话下！](http://netsecurity.51cto.com/art/201911/605543.htm)
@@ -31,36 +31,42 @@ categories: IT NEWS
  > 这3个高级Python函数，不能再被你忽略了！
  ## [“程序员锁死服务器导致公司倒闭”案正式开庭审理](http://news.51cto.com/art/201911/605546.htm)
  > “程序员锁死服务器导致公司倒闭”案正式开庭审理
+ ## [Java架构师：高并发下的流量控制](http://developer.51cto.com/art/201911/605606.htm)
+ > 这个时候如果不做任何保护措施，服务器就会承受很大的处理压力，请求量很高，服务器负载也很高，并且当请求
+ ## [区块链的颠覆力量之二：公信力](http://zhuanlan.51cto.com/art/201911/605603.htm)
+ > 区块链正在打这样的一个天大的赌：能不能让陌生人第一次交易就产生信任?区块链是可以解决信任问题的。
+ ## [网络体检技术大揭秘--下篇](http://network.51cto.com/art/201911/605598.htm)
+ > 二层体检能做到逐跳(每一台设备)的路径跟踪、时延抖动等精度也非常高(如果设备都时钟同步的话精度更高)，但
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
- > 华为EMUI10带来开发者福音：一次开发多端部署
  ## [Java 13 新特性全面解读](https://blog.csdn.net/csdnnews/article/details/101142946)
  > 
- ## [Linux服务器性能评估与优化(二)--内存](https://blog.csdn.net/hguisu/article/details/102620787)
- > Linux服务器性能评估与优化(二)--内存
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [老技术新谈，Java应用监控利器JMX（3）](https://blog.csdn.net/javaforwork/article/details/100133169)
  > 
  ## [这30个CSS选择器，你必须熟记（上）](https://blog.csdn.net/Ed7zgeE9X/article/details/102812665)
  > 
  ## [redis的入门/原理/实战大总结](https://blog.csdn.net/hebtu666/article/details/102924200)
  > 
- ## [面试官：你连RESTful都不知道我怎么敢要你？](https://blog.csdn.net/kebi007/article/details/102927209)
+ ## [手把手教你Android人脸识别登录](https://blog.csdn.net/weixin_45574883/article/details/102874953)
+ > 
+ ## [吃人的那些 Java 名词：对象、引用、堆、栈](https://blog.csdn.net/qing_gee/article/details/100559919)
  > 
  ## [中国麻将：世界上最早的区块链项目](https://blog.csdn.net/gao_chun/article/details/102795414)
  > 中国麻将：世界上最早的区块链项目
- ## [Docker 从入门到掉坑](https://blog.csdn.net/weixin_38405253/article/details/102933087)
- > 
- ## [Spring简介、框架核心、优缺点、应用场景](https://blog.csdn.net/ThinkWon/article/details/102810748)
- > Spring简介、框架核心、优缺点、应用场景
- ## [手把手教你Android人脸识别登录](https://blog.csdn.net/weixin_45574883/article/details/102874953)
+ ## [编写Spring MVC控制器的14个技巧](https://blog.csdn.net/Summer_Lyf/article/details/102911215)
  > 
  ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
  > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [软件测试总结（常见的面试问题）](https://blog.csdn.net/zhangkaiyazky/article/details/102525628)
- > 软件测试总结（常见的面试问题）
+ ## [Vue + Spring Boot 项目实战（十四）：用户认证方案与完善的访问拦截](https://blog.csdn.net/Neuf_Soleil/article/details/102788866)
+ > 
+ ## [用Github上的高星项目，告诉你程序员过双十一的正确姿势](https://blog.csdn.net/BEYONDMA/article/details/102882552)
+ > 
+ ## [2019双十一淘宝天猫刷喵币](https://blog.csdn.net/Hallo_ZM/article/details/102774244)
+ > 2019双十一淘宝天猫刷喵币
  ## [北大毕业 15 年经验架构师，重磅解读 5G 时代的计算平台](https://blog.csdn.net/csdnnews/article/details/102965888)
  > 整理 | 顾钧出品 | CSDN（ID：CSDNnews）5G，物联网，边缘计算，万物互联。这些名词越来越频繁的出现在人们的视野中，话题热度也是不断升高。甚至隐隐有超过云计算的势头。一个很重要的因素在于，针对人的数据连接已经接近完成。这一点可以从我国放缓的互联网/移动互联网用户数，以及用户平均每日.
  ## [阿里巴巴主推的 Flink 为什么火？](https://blog.csdn.net/csdnnews/article/details/102965893)
@@ -80,37 +86,39 @@ categories: IT NEWS
  ## [资本腾挪、断臂求生，债台高筑的优信如何继续前行](http://www.lanjingtmt.com/news/detail/44834.shtml)
  > 今年以来，优信通过借新债还旧债、剥离优质资产等方式缓解资金压力，但业内人士认为其资金紧张的局面没有明显减缓的迹象。如今，优信将业务重心转向C端，债台高筑的优信能讲好这个新故事吗？
 # 人工智能 
- ## [GeoServer入门学习：03-快速入门](https://blog.csdn.net/gjysk/article/details/102931877)
- > GeoServer入门学习：03-快速入门
- ## [RedLock](https://blog.csdn.net/hebtu666/article/details/102924859)
- > RedLock
- ## [校园网共享网络(Netkeeper 飞young )](https://blog.csdn.net/weixin_42016706/article/details/100698560)
- > 校园网共享网络(Netkeeper 飞young )
- ## [摸鱼前端的自检（四）浏览器如何防gank?](https://blog.csdn.net/qq_24073885/article/details/102941041)
- > 摸鱼前端的自检（四）浏览器如何防gank?
- ## [HDFS的安全模式与文件权限检验(5)](https://blog.csdn.net/weixin_44318830/article/details/102923413)
- > HDFS的安全模式与文件权限检验(5)
- ## [HDFS安全模式详解](https://blog.csdn.net/weixin_43893397/article/details/102915849)
- > HDFS安全模式详解
- ## [常见Web安全漏洞--微服务及解决思路](https://blog.csdn.net/qq_28011853/article/details/102926858)
- > 常见Web安全漏洞--微服务及解决思路
- ## [mac mkdir Read-Only filesystem](https://blog.csdn.net/weiyoushi4001/article/details/102928575)
- > mac mkdir Read-Only filesystem
- ## [关于static变量存在周期和函数不可重入的问题](https://blog.csdn.net/qq_42381648/article/details/102909055)
- > 关于static变量存在周期和函数不可重入的问题
- ## [网络安全-加密技术（对称/非对称）](https://blog.csdn.net/JunSIrhl/article/details/102921335)
- > 网络安全-加密技术（对称/非对称）
- ## [软件授权与加密技术简单原理](https://blog.csdn.net/cloudqiu/article/details/102932824)
- > 软件授权与加密技术简单原理
- ## [基于 CenterOS 7 kerberos + zookeeper + kafka 单节点配置](https://blog.csdn.net/qq_19775951/article/details/102939406)
- > 基于 CenterOS 7 kerberos + zookeeper + kafka 单节点配置
- ## [nginx配置文件详解](https://blog.csdn.net/weixin_43178343/article/details/102936474)
- > nginx配置文件详解
- ## [剑指offer 输入两个链表，找出它们的第一个公共结点。](https://blog.csdn.net/qq_39857987/article/details/102928320)
- > 剑指offer 输入两个链表，找出它们的第一个公共结点。
- ## [磁盘空间不足导致的kubernetes 启动失败记录](https://blog.csdn.net/qq_14869093/article/details/90896348)
- > 磁盘空间不足导致的kubernetes 启动失败记录
+ ## [redis的入门/原理/实战大总结](https://blog.csdn.net/hebtu666/article/details/102924200)
+ > 
+ ## [我的java自学经历分享](https://blog.csdn.net/weixin_44001073/article/details/93723137)
+ > 我的java自学经历分享
+ ## [11月6日科技资讯|小米研发团队从400人增至3700人；iOS 13.3“杀后台”问题缓解；FreeBSD 12.1发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/102930053)
+ > 
+ ## [各大公司在GitHub上开源投入排名分析](https://blog.csdn.net/javajiawei/article/details/102780241)
+ > 
+ ## [编写Spring MVC控制器的14个技巧](https://blog.csdn.net/Summer_Lyf/article/details/102911215)
+ > 
+ ## [腾讯性能测试工具——PerfDog使用初体验](https://blog.csdn.net/x947955250/article/details/102926652)
+ > 腾讯性能测试工具——PerfDog使用初体验
+ ## [VScode - 打字炫酷特效震动光效插件(Power Mode)](https://blog.csdn.net/weixin_44198965/article/details/102911760)
+ > VScode - 打字炫酷特效震动光效插件(Power Mode)
+ ## [从浏览器（chrome）进程机制的分析到JavaScript 运行机制之二：输入URL发生了什么](https://blog.csdn.net/nick_chain/article/details/102911357)
+ > 从浏览器（chrome）进程机制的分析到JavaScript 运行机制之二：输入URL发生了什么
+ ## [控制反转(IoC)与依赖注入(DI)详解](https://blog.csdn.net/ThinkWon/article/details/102912332)
+ > 
+ ## [剑指offer全解（上）](https://blog.csdn.net/hebtu666/article/details/102915039)
+ > 
+ ## [学会这4个Excel实用技巧，数据分析立马高人一等](https://blog.csdn.net/yuanziok/article/details/102930105)
+ > 
+ ## [这一次，终于系统的学习了 JVM 内存结构](https://blog.csdn.net/z694644032/article/details/102912321)
+ > 
+ ## [Vue + Spring Boot 项目实战（十四）：用户认证方案与完善的访问拦截](https://blog.csdn.net/Neuf_Soleil/article/details/102788866)
+ > 
+ ## [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://blog.csdn.net/qq_35190492/article/details/102889333)
+ > 
+ ## [玩转单链表](https://blog.csdn.net/qq_42453117/article/details/102925516)
+ > 
 # PM 
+ ## [产品经理要懂技术到什么程度？](http://www.woshipm.com/active/3052693.html)
+ > 作为产品的你，给开发提需求时，肯定听过这几字：实现不了！如果你脸皮够厚的话肯定会反问一句，不就是根据手机壳换个APP主题颜色么，有啥实现不了的……即便开发说：...
  ## [产品经理周报第 90 期｜百度上线匿名社交“听筒”；字节跳动上线借贷App“满分”](http://www.woshipm.com/it/3064098.html)
  > 早上好呀，今天又是这一周的最后一天啦最近冷空气来袭，有降温哦，尽管广东地区还在穿短袖，但小编还是感受到凉意了所以，各位小伙伴们要记得及时添衣，谨防感冒哦...
  ## [失败的产品共同的几点要素](http://www.chanpin100.com/article/109964)
