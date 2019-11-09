@@ -1,26 +1,36 @@
 ---
 title: 2019-11-09 IT News
 copyright: true
-date: 2019-11-09 12:00:54
+date: 2019-11-09 17:01:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [携号转网来了，中国移动慌了?](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=ImcmJ0LrmlLfJTFSPcCeKtXxA0xCpq9qivKtUR8mG0hB7GRXiKQDw73W0iW5C8pwk9KN9F0m4C-FxIsNk2-lPj8WMMID5AciJ9H68KmJAXeuqzvJ*wiox*X3NuC9qxr5&new=1)
- > 历时9年，携号转网终于要在全国范围内开放了。工信部最新消息显示，11月30日前，三大电信运营商将在全国范围内提供携号转网服务。也就是说，最晚到本月底，全国的手机用户，都可以带着自己的手机号，重新选择自...
- ## [全面的IoT安全性解决方案Azure Sphere，圆满亮相进博会!](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=GalWoZ4ar5TGisJ00NfQYN7BPSwnc2Kvx2tTKF*eT90Fu39cP5peiQpzaWo4zb8-lAzZvEbfC-BeB9NgObmSgIj-lEWpRt2-6Ilm5NzfXdujf71T-iOB4Fr3CwWInl8l&new=1)
- > 申耀的科技观察读懂科技，赢取未来！2019年11月5-10日举办的上海进出口博览会上，微软携手合作伙伴共同展示了基于Azure Sphere的解决方案。进博会“科技生活”展区微软展位，Azure Sphere专家，虚位以待，期待有...
- ## [国产高熔点高活性3D打印金属粉末来了，唯特等离子体雾化制粉技术(NPA)](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=Lipr7c0g0hX3fb6fbTRuWKddBrmwynrXyh019KUGwVeyIVcKbbxw3n8RZhESH0DfBMage6nUR9zoegrS83BpgQRN6IZpkTH7HSax74II7rKTi59bMgII-83N-zcUZuQI&new=1)
+ ## [充电，全国一张网还有多远](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=LcvjGXBbJQ0kfaXooV5Axl**HQt*MMaiIbPv4yiwqMAZLLVDcwvwIJwea4ZBB24i7AIfJ6bJtgt0R079EgCGO2Mv0HGn3UZFUhx9dpj7APOVzxolzo5D62r6T97Qi559&new=1)
+ > 充电运营各自为战一直是广大业内人士心中之痛，手机里装着十几二十个APP的用户也总是叫苦不迭。充电打破藩篱、互联互通是市场一致目标，这个愿景何时到来？昨天，立冬初寒的下午，我们心中有了热切的希冀——11...
+ ## [思科重定向漏洞被利用，可通过垃圾邮件跳转到恶意软件下载站点](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=pP-M4yB1GOgHhcMU8o3Ug4T5BnOy8hjm0kvj1wnliWorCftzfeC8iL7lmrRRmuX3VKVXRKx0BWcSL-QLlDMSFsFSJZKDrtogVYY*omiv9xjLEGP8UBXu2bTLfEpgrqg8&new=1)
+ > 宅客频道 11 月 9 日消息，研究人员最新发现一种垃圾邮件传播活动，其伪装成WebEx（WebEx 是思科的子公司，为各种规模的公司创建所需软件解决方案）的会议邀请，并使用思科开放的重定向漏洞将远程访问木马推送给...
+ ## [比尔盖茨为华为发声，批评美国对华“妄想症”](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=gvbi3mAJRQPu7h6PhZQurf30pdHMZqjcg6ZeeppHxtmqy3LOkuCqtGlanzUbjCnCy-1cbViRkfpxpTkT9L1jucoSalFaXQ2rRU1qyFZG7xUPEaB7om6OZELm7gEy*jyz&new=1)
+ > 如果一位程序员的祖母甚至曾祖母是中国人，那么他写的代码可以被信任吗？11月7日，华为心声社区公布了一段微软创始人比尔·盖茨在《纽约时报》活动上就华为问题的对话。对话中，比尔·盖茨抛出了上述问题，并惊...
+ ## [喜讯|云创大数据获评“苏南国家自主创新示范区潜在独角兽企业”](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=P23h6i77x6n47Lu-P1gcegj1PrNPYu36jmplFNi5le7UIAxstQa7CAZumyTd60I3ZUCR1R80qYE-lqkI6nbM2mPFyFLe8GPRTfn*QFLTOVOJV4pF3FfBHsqYHuSpHlM1&new=1)
+ > 11月4日，由江苏省人民政府主办的“第七届中国江苏产学研合作大会”在南京开幕，现场正式发布了苏南国家自主创新示范区独角兽企业、潜在独角兽企业以及瞪羚企业榜单。其中，云创大数据获评“苏南国家自主创新示...
+ ## [马云再谈对钱没有兴趣；比尔·盖茨：微软原本可以击败 Android!TypeScript 3.7 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=zkHn63bhC1cWXrMX-I6TK8lZe-qQgwoQQydGVGt*L6jUXcBP8FMLVcujZjP*ZH8GzdemdJCuTQnTTpmhkAiLb8mEQWfBUWsloHTSZ9fMYrTOoflxm7yw31kcs-KkVdYF&new=1)
+ > 作者 | 唐小引出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些...
+ ## [招聘丨Qualcomm校园宣讲圆满收官，应届生职位持续招聘中](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=wawpMX94CpNPCEOp0C0Qt*2GXh1UUxDP-ZvEupQES0mi6SMndIGqkg4gTw26pwo38UnMSHqjo5-y9wg0XhThLKnb9JGphkzqlBanNeIBiblRIWBqh0z8F2jxcGTEdLSQ&new=1)
+ > 历时将近一个月，Qualcomm秋季校园招聘宣讲会圆满收官。一路走来，收获的满是喜悦与感动。我们的宣讲会团队去到了东南大学、华中科技大学、华南理工大学、成都电子科技大学和西安电子科技大学等名校，与热情的同...
+ ## [国产高熔点高活性3D打印金属粉末来了，唯特等离子体雾化制粉技术(NPA)](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=Lipr7c0g0hX3fb6fbTRuWKddBrmwynrXyh019KUGwVdVQkZSFM0BfOve9qdS6rQL4V4umVS7A5t0PzxW4*k4uwC17erxXUpwq82ldD9xgXg0XjcVGmUg0z8eSspF3qni&new=1)
  > 关注南极熊3D打印导读：在3D打印（增材制造）技术发展的早期阶段，高端金属3D打印粉末的制粉技术一直掌握在欧美等发达国家手中。国外制粉技术的封锁和高端粉末材料的禁运，使得我国在高端金属3D打印领域的应用迟...
- ## [2019世界机器人大会，医疗机器人助力医疗水平再上新台阶!](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=43AWT08kFfeCM-7FHl6dJT4bqeLAtcu1en2wpno7vD*9Z-Xneq39*dWQX7-E6Zqfhzp*MVyvaCMaG2Q8KWOzeYJllLV8OCsQ8q37lEobPGKNj015Ht*-5t4pFaz8AwPE&new=1)
+ ## [2019世界机器人大会，医疗机器人助力医疗水平再上新台阶!](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=43AWT08kFfeCM-7FHl6dJT4bqeLAtcu1en2wpno7vD-m850IgiE1NW9eEb*8ip7NN2GxexRxsgEp9m5y0gsOyuaG76AKRc-ZO6iicoL6Z5QB28Jw7bphMMF5B31Cnx9q&new=1)
  > 2019世界机器人大会在北京亦创国际会展中心开幕啦~走起，小编带您去看几款医疗机器人“达芬奇手术机器人xi”达芬奇手术机器人实现了将医生双眼及双手自然延展到患者体内，而机器人手术系统本身仍然完全由外科医...
- ## [全国一张网还有多远](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=LcvjGXBbJQ0kfaXooV5Axl**HQt*MMaiIbPv4yiwqMCELtfT*A5mepZh1uRuvclEOsMIOcDPBraP69AU6bh2XCSm-rWgIMdcdXZfZTohH2RFf13k7fZQ2emCwKjady3R&new=1)
- > 充电运营各自为战一直是广大业内人士心中之痛，手机里装着十几二十个APP的用户也总是叫苦不迭。充电打破藩篱、互联互通是市场一致目标，这个愿景何时到来？今天这个立冬的初寒的下午，我们心中有了热切的希冀--...
- ## [6G到底有多“6”?这份重量级6G白皮书告诉你——](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=MWKugvivduGvMY-4ad6-VQFIHSojFjnPJu9o76RXaDd93jqkX*DhvJ2Sinf3HgrMF32jx6ViPs4VDcxvAbv2wZGeQp0B8H8Xj7la4k-zs6U=&new=1)
+ ## [携号转网来了，中国移动慌了?](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=ImcmJ0LrmlLfJTFSPcCeKtXxA0xCpq9qivKtUR8mG0iT8jbtl6J2IsujPo8DZwyEaUGTGncc05-GtSMfGxdSRza2tJz-TtzyNws2w2TPHTfDz3TJa1L193FNFU9Y6Wj4&new=1)
+ > 历时9年，携号转网终于要在全国范围内开放了。工信部最新消息显示，11月30日前，三大电信运营商将在全国范围内提供携号转网服务。也就是说，最晚到本月底，全国的手机用户，都可以带着自己的手机号，重新选择自...
+ ## [全面的IoT安全性解决方案Azure Sphere，圆满亮相进博会!](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=GalWoZ4ar5TGisJ00NfQYN7BPSwnc2Kvx2tTKF*eT9358muZbCwCwb7q17ViN0pFwMJ4abzCIrFGwvtPUJIKIDJtwjA304iDWrn5Sg0Zt2QLn39GWkiwHxTw0dBuKgXl&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！2019年11月5-10日举办的上海进出口博览会上，微软携手合作伙伴共同展示了基于Azure Sphere的解决方案。进博会“科技生活”展区微软展位，Azure Sphere专家，虚位以待，期待有...
+ ## [6G到底有多“6”?这份重量级6G白皮书告诉你——](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=MWKugvivduGvMY-4ad6-VQFIHSojFjnPJu9o76RXaDewbMfUVmi8qszMn4zNH2-YlWGcrNTkSDuGkcEUIVKfrmaqd0rtFPUTAQn7gn8C7no=&new=1)
  > 参考消息网11月9日报道 港媒称，第五代移动通讯技术、即所称的5G目前在全球应用还是很初步，大部份地区尚未普及。不过，尽管5G时代没有全面到来，对6G的规划却已提上日程。据《香港经济日报》网站11月7日报道，...
- ## [新奇又好玩!全国发明展开幕，“最强大脑”齐聚佛山!](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=khSrBmayM*P9SjT0YXY6rq0lxrdkldids2Fu7BqAua-S6nVPIdaXEZz82qvvM8aIrGrrsApA2lAI1e2fcpH*HjdNnbisyGdqeik9TpwleofkmPaVsDBILvtcG5j7M0kX&new=1)
+ ## [新奇又好玩!全国发明展开幕，“最强大脑”齐聚佛山!](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=khSrBmayM*P9SjT0YXY6rq0lxrdkldids2Fu7BqAua8iNocK0ZTASkuHAZnjVWFeC8cLP63id9dqO*m0FzwwI4L6P8bTGqBTnQlFFFaET7qM4s*OKuw4wQloj8e3ABiU&new=1)
  > 第二十三届全国发明展览会•一带一路暨金砖国家技能发展与技术创新大赛，于2019年11月7日上午举行开幕式，这是发明展览会连续第三年落户佛山。中国发明协会党委书记、常务副理事长兼秘书长余华荣宣布开幕本届展...
- ## [免费的网速提升?DNS的力量!](http://mp.weixin.qq.com/s?src=11&timestamp=1573272005&ver=1963&signature=*tULSkJIHuGw4bauhIrZIjFYtojvREOP4Z1Ce5UwL6Az6WgWyfi9BmsR5oDXBzURT78jEfIajKkfWgValE2hurJXEcHVYmZgn3JpJwO*n5PvXbecTI2RX0e-sizvb7fk&new=1)
+ ## [免费的网速提升?DNS的力量!](http://mp.weixin.qq.com/s?src=11&timestamp=1573290005&ver=1963&signature=*tULSkJIHuGw4bauhIrZIjFYtojvREOP4Z1Ce5UwL6B9do30anIL1ibkpZNMMJ8hCVuGaovAnnCDLl4zDtNhAQ0FBfL2-fcgY2bn*X9*qt9Atbdy48zc2jXwx2I3Tvgf&new=1)
  > 前段时间房租上涨，我们便搬了新家，当一切都妥当之后却迎来了致命问题——网络状况奇差，无论上什么网站响应都慢得跟电动车没电了一样。没错，今天我们要说的并不是下载速度的“速”，而是网络延迟的“速”，这...
 # IT 技术 
  ## [解读回归测试:类型、选择、挑战和实践](http://developer.51cto.com/art/201911/605618.htm)
@@ -41,36 +51,36 @@ categories: IT NEWS
  > 搞清这些陷阱，NULL和三值逻辑再也不作妖
  ## ["双十一"将至，Check Point强势助力企业迎接安全大考](http://netsecurity.51cto.com/art/201911/605672.htm)
  > 近日，51CTO记者走访了Check Point技术总监王跃霖先生。他表示：&quot;在&quot;双十一&quot;这样的特殊时期，电商、新零售
- ## [白话阿里巴巴Java开发手册高级篇](https://blog.csdn.net/blogdevteam/article/details/102975554)
- > 白话阿里巴巴Java开发手册高级篇
- ## [ROS笔记（31） ArbotiX关节控制器](https://blog.csdn.net/qq_32618327/article/details/99843644)
- > ROS笔记（31） ArbotiX关节控制器
+ ## [【JS 口袋书】第 6 章：JS 对象生命周期的秘密](https://blog.csdn.net/qq449245884/article/details/102597554)
+ > 【JS 口袋书】第 6 章：JS 对象生命周期的秘密
+ ## [团队中的 Git 实践](https://blog.csdn.net/M2l0ZgSsVc7r69eFdTj/article/details/100773494)
+ > 团队中的 Git 实践
+ ## [重磅：硬核前端面试开源项目汇总（进大厂必备）](https://blog.csdn.net/ch834301/article/details/101443719)
+ > 重磅：硬核前端面试开源项目汇总（进大厂必备）
+ ## [​一文读懂OpenStack旗下的StarlingX项目](https://blog.csdn.net/weixin_41033724/article/details/99286437)
+ > ​一文读懂OpenStack旗下的StarlingX项目
  ## [我在快手认识了 4 位工程师，看到了快速发展的公司和员工如何彼此成就！](https://blog.csdn.net/csdnnews/article/details/100912695)
  > 
- ## [三层架构+MVC(六)](https://blog.csdn.net/weixin_44684812/article/details/102797363)
- > 三层架构+MVC(六)
+ ## [用 JS 日期获取当前月的最后一天遇到的坑](https://blog.csdn.net/qq449245884/article/details/100015316)
+ > 
+ ## [LeakCanary源码解析](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/101220052)
+ > 
  ## [分享一个 pycharm 专业版的永久使用方法](https://blog.csdn.net/u012365828/article/details/100961269)
  > 分享一个 pycharm 专业版的永久使用方法
- ## [【图解】以后有面试官问你跳跃表，你就把这篇文章扔给他](https://blog.csdn.net/m0_37907797/article/details/102971476)
- > 
- ## [深度学习笔记（50） 一维到三维推广](https://blog.csdn.net/qq_32618327/article/details/100670583)
- > 
  ## [程序员终极面试指南！](https://blog.csdn.net/csdnnews/article/details/100840863)
  > 程序员终极面试指南！
- ## [无需安装，仅需 1 条指令，秒实现内网穿透的神器，你有用过吗？](https://blog.csdn.net/easylife206/article/details/100981031)
- > 无需安装，仅需 1 条指令，秒实现内网穿透的神器，你有用过吗？
- ## [求小姐姐抠图竟遭白眼？痛定思痛，我决定用 Python 自力更生！](https://blog.csdn.net/u013486414/article/details/102949443)
+ ## [在容器上构建持续部署及最佳实践初探](https://blog.csdn.net/weixin_38748858/article/details/102967540)
  > 
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [视觉SLAM笔记（46） 基本的 VO](https://blog.csdn.net/qq_32618327/article/details/102875250)
+ ## [【程序员的盛宴】GitHub 2019 年度报告有哪些值得关注的？](https://blog.csdn.net/qq_15698613/article/details/102967517)
  > 
- ## [算法学习 day6--二叉搜索树与双向链表](https://blog.csdn.net/qq_14869093/article/details/86366288)
- > 算法学习 day6--二叉搜索树与双向链表
+ ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ > 
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
  ## [谁说 Vim 不好用？](https://blog.csdn.net/csdnnews/article/details/100789223)
  > 谁说 Vim 不好用？
- ## [史上最全的后端技术大全，你都了解哪些技术呢？](https://blog.csdn.net/easylife206/article/details/100516028)
- > 史上最全的后端技术大全，你都了解哪些技术呢？
+ ## [吃人的那些 Java 名词：对象、引用、堆、栈](https://blog.csdn.net/qing_gee/article/details/100559919)
+ > 
  ## [JavaScript 为什么能活到现在？](https://blog.csdn.net/csdnnews/article/details/102982675)
  > 作者 | 司徒正美责编 |郭芮出品 | CSDN（ID：CSDNnews）JavaScript能发展到现在的程度已经经历不少的坎坷，早产带来的某些缺陷是永久性的，因此浏览器才有禁用JavaScript的选项。甚至在jQuery时代有人问出这样的问题，jQuery与JavaScript哪个快？在Ba.
  ## [软件绿色联盟开发者大会惊喜不断，今日还有重磅议程！](https://blog.csdn.net/csdnnews/article/details/102982686)
@@ -92,37 +102,39 @@ categories: IT NEWS
  ## [搜狗CEO强烈推荐，98%好评，这本深度学习宝典刷爆IT圈！](https://blog.csdn.net/csdnnews/article/details/102982680)
  > 最近这段时间，常常有人在后台留言：该不该学深度学习？如何学深度学习？鉴于大家都有这方面的困惑今天就给大家推荐一本巨有影响力的深度学习书火爆到什么地步呢？已荣登京东实用性强...
 # 人工智能 
- ## [高数  一维离散傅里叶变换](https://blog.csdn.net/qq_36511401/article/details/102943287)
- > 高数  一维离散傅里叶变换
+ ## [程序员写个人技术博客的价值与意义](https://blog.csdn.net/ThinkWon/article/details/102980571)
+ > 程序员写个人技术博客的价值与意义
+ ## [想要成为一名优秀的Java程序员，这份文档必读](https://blog.csdn.net/weixin_44563573/article/details/102966198)
+ > 想要成为一名优秀的Java程序员，这份文档必读
+ ## [北漂6年，不忘初心](https://blog.csdn.net/zyy_hbcz/article/details/102921712)
+ > 北漂6年，不忘初心
+ ## [架构师成长之路(3)--如何成为架构师（方法）](https://blog.csdn.net/hguisu/article/details/46687555)
+ > 架构师成长之路(3)--如何成为架构师（方法）
+ ## [提前送给双十一单身猿们的表白神器](https://blog.csdn.net/weixin_44560813/article/details/102956248)
+ > 提前送给双十一单身猿们的表白神器
+ ## [谷歌chrome浏览器 - 关于插件，这一篇就够了](https://blog.csdn.net/sinat_33921105/article/details/102965642)
+ > 谷歌chrome浏览器 - 关于插件，这一篇就够了
+ ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
+ > 在中国程序员是青春饭吗？
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [程序员接私活怎样防止做完了不给钱？](https://blog.csdn.net/DavidGoGo_/article/details/102824354)
+ > 程序员接私活怎样防止做完了不给钱？
  ## [C反射是什么？](https://blog.csdn.net/qq_45195669/article/details/102954322)
  > C反射是什么？
- ## [B站视频下载教程](https://blog.csdn.net/shuangmu_chenglin/article/details/102979896)
- > B站视频下载教程
- ## [什么是反射](https://blog.csdn.net/qq_45835940/article/details/102954411)
- > 什么是反射
- ## [C简单的冒泡排序](https://blog.csdn.net/qq_45846870/article/details/102962256)
- > C简单的冒泡排序
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
- ## [多媒体视频开发_(4) 码率（Bitrate）、帧数（FPS）、分辨率是什么](https://blog.csdn.net/u010368556/article/details/102955233)
- > 多媒体视频开发_(4) 码率（Bitrate）、帧数（FPS）、分辨率是什么
- ## [金山视频云推出QUIC+，畅快直播再升级](https://blog.csdn.net/fqingchan/article/details/102979609)
- > 金山视频云推出QUIC+，畅快直播再升级
- ## [CDC与亚稳态问题](https://blog.csdn.net/qq_43365647/article/details/102979866)
- > CDC与亚稳态问题
- ## [2020年学会了这些技术，你离BAT等一线大厂不远了](https://blog.csdn.net/qq_43253123/article/details/102941029)
- > 2020年学会了这些技术，你离BAT等一线大厂不远了
- ## [录波文件](https://blog.csdn.net/weixin_40077333/article/details/102967428)
- > 录波文件
- ## [图像处理pcb图像的直线提取-直线检测-Hough_Line](https://blog.csdn.net/qq_38190041/article/details/102974595)
- > 图像处理pcb图像的直线提取-直线检测-Hough_Line
- ## [C反射 如何获取和赋值基础](https://blog.csdn.net/weixin_45849943/article/details/102962251)
- > C反射 如何获取和赋值基础
- ## [DSB matlab仿真](https://blog.csdn.net/white_156/article/details/102980716)
- > DSB matlab仿真
- ## [小波变换学习笔记（1）：小波变换的背景与体系](https://blog.csdn.net/qq_43266614/article/details/102961365)
- > 小波变换学习笔记（1）：小波变换的背景与体系
+ ## [从删库到跑路再到活抓系列之 “ rm -rf / ” 与  “ rm -rf /* ”](https://blog.csdn.net/qq_44543508/article/details/102947914)
+ > 从删库到跑路再到活抓系列之 “ rm -rf / ” 与  “ rm -rf /* ”
+ ## [如何理解 Java 中的继承？](https://blog.csdn.net/qing_gee/article/details/102909771)
+ > 
+ ## [从月薪3K的中专生，到身家千万的CTO！人生最大的对手，就是自已](https://blog.csdn.net/yellowzf3/article/details/102739368)
+ > 从月薪3K的中专生，到身家千万的CTO！人生最大的对手，就是自已
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [《程序员健康指南》- 预防背部疼痛](https://blog.csdn.net/DD_PP_JJ/article/details/102971903)
+ > 《程序员健康指南》- 预防背部疼痛
 # PM 
+ ## [互联网医疗产品经理必懂：多维身份验证与角色划分](http://www.woshipm.com/pd/3066541.html)
+ > 本文主要梳理了互联网医疗中多维身份验证与角色划分两者之间的关系与应用场景。由于涉及医疗应用里面数据安全、隐私安全、就诊信息，在智慧医疗领域的多维身份验证与...
  ## [扒一扒双11爆款品牌卖货文案，满满都是套路！](http://www.woshipm.com/marketing/3064127.html)
  > 作者对双十一品牌营销活动“套路”进行了梳理拆解，一起来看看~犹记得，2018年天猫双11成交额：1分钟超51亿！12分14秒超362亿！(超2013年全天成交额)8小时8分52秒超1...
  ## [产品设计方法论：用网络学理解知乎](http://www.woshipm.com/pd/3066135.html)
