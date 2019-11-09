@@ -1,19 +1,19 @@
 ---
 title: 2019-11-09 IT News
 copyright: true
-date: 2019-11-09 08:00:52
+date: 2019-11-09 09:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [新奇又好玩!全国发明展开幕，“最强大脑”齐聚佛山!](http://mp.weixin.qq.com/s?src=11&timestamp=1573257604&ver=1963&signature=khSrBmayM*P9SjT0YXY6rq0lxrdkldids2Fu7BqAua-TCPHG13-rt5IwE-ssRsMwx3p4t5URTsMaXCiTtFYvkTso7tcCJ9-Z*fgSeIa5D9sJenn3zW2wMPoebTSfeNZ3&new=1)
- > 第二十三届全国发明展览会•一带一路暨金砖国家技能发展与技术创新大赛，于2019年11月7日上午举行开幕式，这是发明展览会连续第三年落户佛山。中国发明协会党委书记、常务副理事长兼秘书长余华荣宣布开幕本届展...
- ## [6G到底有多“6”?这份重量级6G白皮书告诉你——](http://mp.weixin.qq.com/s?src=11&timestamp=1573257604&ver=1963&signature=MWKugvivduGvMY-4ad6-VQFIHSojFjnPJu9o76RXaDdCdJXgt2RYt4*lW1Pm3KKj-mxqDIWBEF9VzIkwrbfqiW7*6nHOcztrtoLM8CqQmLs=&new=1)
+ ## [6G到底有多“6”?这份重量级6G白皮书告诉你——](http://mp.weixin.qq.com/s?src=11&timestamp=1573261204&ver=1963&signature=MWKugvivduGvMY-4ad6-VQFIHSojFjnPJu9o76RXaDd8d9FKfjw5gtLEGfvavWa5a8Mva6rLIDJpFDLdbTN2lTLkGahH4IbqLgfMDHQDh-c=&new=1)
  > 参考消息网11月9日报道 港媒称，第五代移动通讯技术、即所称的5G目前在全球应用还是很初步，大部份地区尚未普及。不过，尽管5G时代没有全面到来，对6G的规划却已提上日程。据《香港经济日报》网站11月7日报道，...
- ## [全国一张网还有多远](http://mp.weixin.qq.com/s?src=11&timestamp=1573257604&ver=1963&signature=LcvjGXBbJQ0kfaXooV5Axl**HQt*MMaiIbPv4yiwqMCJTzYyVChLoWC6BJujg2NmPuqlDVxnMt0VHuvvuwaOIzKCgk9r0J3ZHqKOBWhmFCwLMR3t-ChNKvkZc5L5AT91&new=1)
- > 充电运营各自为战一直是广大业内人士心中之痛，手机里装着十几二十个APP的用户也总是叫苦不迭。充电打破藩篱、互联互通是市场一致目标，这个愿景何时到来？今天这个立冬的初寒的下午，我们心中有了热切的希冀--...
- ## [免费的网速提升?DNS的力量!](http://mp.weixin.qq.com/s?src=11&timestamp=1573257604&ver=1963&signature=*tULSkJIHuGw4bauhIrZIjFYtojvREOP4Z1Ce5UwL6CSQSlvYIfCh4nmk-bnZ3yzSoyN5dVDQa9phTF-s1ykFuM3x*iFgMfSNEq39UKylPM6H3d3*CO0QYmOjFW6HJXj&new=1)
+ ## [新奇又好玩!全国发明展开幕，“最强大脑”齐聚佛山!](http://mp.weixin.qq.com/s?src=11&timestamp=1573261204&ver=1963&signature=khSrBmayM*P9SjT0YXY6rq0lxrdkldids2Fu7BqAua9L3bZVBkFuElM3ENryKn9QCTxqS-XsR4GT-nK7HUhL-gqLBeIEbccnglEtnmvqUklNi9KNalCc8rNSGxRypdb4&new=1)
+ > 第二十三届全国发明展览会•一带一路暨金砖国家技能发展与技术创新大赛，于2019年11月7日上午举行开幕式，这是发明展览会连续第三年落户佛山。中国发明协会党委书记、常务副理事长兼秘书长余华荣宣布开幕本届展...
+ ## [免费的网速提升?DNS的力量!](http://mp.weixin.qq.com/s?src=11&timestamp=1573261204&ver=1963&signature=*tULSkJIHuGw4bauhIrZIjFYtojvREOP4Z1Ce5UwL6B-GWgM5tX6UqbPdL*gAm9rt0t3j7PtV*GV1Fo2jWQrk336I1ZQawTHQdq*59lokJCW7ItFkm8ULGrYPDIrVZ31&new=1)
  > 前段时间房租上涨，我们便搬了新家，当一切都妥当之后却迎来了致命问题——网络状况奇差，无论上什么网站响应都慢得跟电动车没电了一样。没错，今天我们要说的并不是下载速度的“速”，而是网络延迟的“速”，这...
+ ## [全国一张网还有多远](http://mp.weixin.qq.com/s?src=11&timestamp=1573261204&ver=1963&signature=LcvjGXBbJQ0kfaXooV5Axl**HQt*MMaiIbPv4yiwqMB2FI-P47UDBLcR74spV99d4f2jwjY1iX37AY6RAos5h7bmebuIhHY*gfK1chlby2npcJAu-cqHmUcku-nyMWhC&new=1)
+ > 充电运营各自为战一直是广大业内人士心中之痛，手机里装着十几二十个APP的用户也总是叫苦不迭。充电打破藩篱、互联互通是市场一致目标，这个愿景何时到来？今天这个立冬的初寒的下午，我们心中有了热切的希冀--...
 # IT 技术 
  ## [解读回归测试:类型、选择、挑战和实践](http://developer.51cto.com/art/201911/605618.htm)
  > 解读回归测试:类型、选择、挑战和实践
@@ -31,36 +31,38 @@ categories: IT NEWS
  > 多少程序员注意到了「中台」的背面？
  ## [搞清这些陷阱，NULL和三值逻辑再也不作妖](http://database.51cto.com/art/201911/605580.htm)
  > 搞清这些陷阱，NULL和三值逻辑再也不作妖
+ ## ["双十一"将至，Check Point强势助力企业迎接安全大考](http://netsecurity.51cto.com/art/201911/605672.htm)
+ > 近日，51CTO记者走访了Check Point技术总监王跃霖先生。他表示：&quot;在&quot;双十一&quot;这样的特殊时期，电商、新零售
  ## [白话阿里巴巴Java开发手册高级篇](https://blog.csdn.net/blogdevteam/article/details/102975554)
  > 白话阿里巴巴Java开发手册高级篇
- ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
- > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ > 
  ## [我在快手认识了 4 位工程师，看到了快速发展的公司和员工如何彼此成就！](https://blog.csdn.net/csdnnews/article/details/100912695)
  > 
- ## [分享一个 pycharm 专业版的永久使用方法](https://blog.csdn.net/u012365828/article/details/100961269)
- > 分享一个 pycharm 专业版的永久使用方法
  ## [《吊打面试官》系列-Redis哨兵、持久化、主从、手撕LRU](https://blog.csdn.net/qq_35190492/article/details/102958250)
  > 
- ## [如何安装2019Pycharm最新版本-详细教程](https://blog.csdn.net/qq_15698613/article/details/86502371)
- > 如何安装2019Pycharm最新版本-详细教程
- ## [吃人的那些 Java 名词：对象、引用、堆、栈](https://blog.csdn.net/qing_gee/article/details/100559919)
- > 
+ ## [听说你在学习 MySQL，送你一份 MySQL 必备资源汇总](https://blog.csdn.net/horses/article/details/99944757)
+ > 听说你在学习 MySQL，送你一份 MySQL 必备资源汇总
  ## [用百度接口实现图片文字识别，并打包成安装包软件](https://blog.csdn.net/CUFEECR/article/details/101173141)
  > 用百度接口实现图片文字识别，并打包成安装包软件
+ ## [吃人的那些 Java 名词：对象、引用、堆、栈](https://blog.csdn.net/qing_gee/article/details/100559919)
+ > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [keepalived+nginx实现高可用集群](https://blog.csdn.net/Powerful_Fy/article/details/102935557)
  > 
  ## [SQL基本语法入门 看这里就够了](https://blog.csdn.net/qq_42080073/article/details/102665305)
  > SQL基本语法入门 看这里就够了
- ## [高并发技术](https://blog.csdn.net/qq_43371556/article/details/102667146)
- > 
- ## [架构师成长之路(3)--如何成为架构师（方法）](https://blog.csdn.net/hguisu/article/details/46687555)
- > 架构师成长之路(3)--如何成为架构师（方法）
- ## [keepalived+nginx实现高可用集群](https://blog.csdn.net/Powerful_Fy/article/details/102935557)
- > 
+ ## [巨杉Tech｜SequoiaDB 巨杉数据库高可用容灾测试](https://blog.csdn.net/SequoiaDB_Official/article/details/100114919)
+ > 巨杉Tech｜SequoiaDB 巨杉数据库高可用容灾测试
  ## [C++控制台打飞机小游戏](https://blog.csdn.net/C20190102/article/details/102727963)
  > C++控制台打飞机小游戏
+ ## [小白学 Python（15）：基础数据结构（集合）（下）](https://blog.csdn.net/meteor_93/article/details/102928249)
+ > 
+ ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
+ > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
  ## [JavaScript 为什么能活到现在？](https://blog.csdn.net/csdnnews/article/details/102982675)
  > 作者 | 司徒正美责编 |郭芮出品 | CSDN（ID：CSDNnews）JavaScript能发展到现在的程度已经经历不少的坎坷，早产带来的某些缺陷是永久性的，因此浏览器才有禁用JavaScript的选项。甚至在jQuery时代有人问出这样的问题，jQuery与JavaScript哪个快？在Ba.
  ## [软件绿色联盟开发者大会惊喜不断，今日还有重磅议程！](https://blog.csdn.net/csdnnews/article/details/102982686)
@@ -82,36 +84,36 @@ categories: IT NEWS
  ## [搜狗CEO强烈推荐，98%好评，这本深度学习宝典刷爆IT圈！](https://blog.csdn.net/csdnnews/article/details/102982680)
  > 最近这段时间，常常有人在后台留言：该不该学深度学习？如何学深度学习？鉴于大家都有这方面的困惑今天就给大家推荐一本巨有影响力的深度学习书火爆到什么地步呢？已荣登京东实用性强...
 # 人工智能 
- ## [磁盘空间不足导致的kubernetes 启动失败记录](https://blog.csdn.net/qq_14869093/article/details/90896348)
- > 磁盘空间不足导致的kubernetes 启动失败记录
- ## [webug4.0靶场之邮箱轰炸](https://blog.csdn.net/syy0201/article/details/93662903)
- > webug4.0靶场之邮箱轰炸
- ## [gdb 命令记录](https://blog.csdn.net/Longyu_wlz/article/details/96726605)
- > gdb 命令记录
- ## [IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）](https://blog.csdn.net/weixin_43272781/article/details/100858230)
- > IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）
- ## [rl: (7) Failed to connect to raw.githubusercontent.com port 443: 拒绝连接](https://blog.csdn.net/StudyLww/article/details/90749682)
- > rl: (7) Failed to connect to raw.githubusercontent.com port 443: 拒绝连接
- ## [自动驾驶（二）---------PID控制调节](https://blog.csdn.net/zhouyy858/article/details/96422899)
- > 自动驾驶（二）---------PID控制调节
- ## [hjr-linux：centos7  ftp搭建与连接](https://blog.csdn.net/hjrcrj/article/details/71516879)
- > hjr-linux：centos7  ftp搭建与连接
- ## [关于微信小程序授权登陆及每次检查是否授权](https://blog.csdn.net/qq_39045645/article/details/100930646)
- > 关于微信小程序授权登陆及每次检查是否授权
- ## [2019年9月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/100550704)
+ ## [我的java自学经历分享](https://blog.csdn.net/weixin_44001073/article/details/93723137)
+ > 我的java自学经历分享
+ ## [面试官：你连RESTful都不知道我怎么敢要你？](https://blog.csdn.net/kebi007/article/details/102927209)
  > 
- ## [Linux grep命令](https://blog.csdn.net/qq_27870421/article/details/92646947)
- > Linux grep命令
- ## [nginx启动命令和停止命令](https://blog.csdn.net/qq_41399976/article/details/93854778)
- > nginx启动命令和停止命令
- ## [分享各大CMS采集资源站网址合集](https://blog.csdn.net/qq_41684621/article/details/96766877)
- > 分享各大CMS采集资源站网址合集
- ## [vc9,vc11,vc14扩展下载链接,环境配置常用链接](https://blog.csdn.net/chailihua0826/article/details/86630080)
- > vc9,vc11,vc14扩展下载链接,环境配置常用链接
- ## [odoo 常用widget](https://blog.csdn.net/jettpj/article/details/97629965)
- > odoo 常用widget
- ## [FastDFS高可用集群架构配置搭建](https://blog.csdn.net/tanhaodi2012/article/details/94369507)
- > FastDFS高可用集群架构配置搭建
+ ## [学会这4个Excel实用技巧，数据分析立马高人一等](https://blog.csdn.net/yuanziok/article/details/102930105)
+ > 
+ ## [11月6日科技资讯|小米研发团队从400人增至3700人；iOS 13.3“杀后台”问题缓解；FreeBSD 12.1发布｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/102930053)
+ > 
+ ## [进程同步机制-----为进程并发执行保驾护航](https://blog.csdn.net/qq_34666857/article/details/102948786)
+ > 
+ ## [sudo rosdep init ERROR: cannot download default sources list from:](https://blog.csdn.net/u013468614/article/details/102917569)
+ > sudo rosdep init ERROR: cannot download default sources list from:
+ ## [用python生成无人机影像的点云、正射影像、数字高程模型等数据](https://blog.csdn.net/weixin_43162240/article/details/102952913)
+ > 用python生成无人机影像的点云、正射影像、数字高程模型等数据
+ ## [redis的入门/原理/实战大总结](https://blog.csdn.net/hebtu666/article/details/102924200)
+ > 
+ ## [光棍节就要到了，要不要给你介绍个 python 对象？](https://blog.csdn.net/xufive/article/details/102946961)
+ > 
+ ## [腾讯性能测试工具——PerfDog使用初体验](https://blog.csdn.net/x947955250/article/details/102926652)
+ > 腾讯性能测试工具——PerfDog使用初体验
+ ## [产品场景化设计](https://blog.csdn.net/weixin_44198965/article/details/102924409)
+ > 产品场景化设计
+ ## [各大公司在GitHub上开源投入排名分析](https://blog.csdn.net/javajiawei/article/details/102780241)
+ > 
+ ## [编写Spring MVC控制器的14个技巧](https://blog.csdn.net/Summer_Lyf/article/details/102911215)
+ > 
+ ## [Java 的操作符——“=”号](https://blog.csdn.net/qing_gee/article/details/102937784)
+ > Java 的操作符——“=”号
+ ## [财务总监的秘密：不用代码和Excel，10分钟做出高大上财务分析](https://blog.csdn.net/yuanziok/article/details/102950413)
+ > 
 # PM 
  ## [人工智能还是人工智障](http://www.chanpin100.com/article/109978)
  > 在日常工作中，我发现很多身边朋友以及互联网从业者同样对人工智能存在不少误解，我尝试结合我过去的一些经验，聊一聊我的看法。
