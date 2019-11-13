@@ -1,7 +1,7 @@
 ---
 title: 2019-11-13 IT News
 copyright: true
-date: 2019-11-13 10:01:00
+date: 2019-11-13 12:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,85 +66,99 @@ SpaceX&#29992;&#8220;&#22235;&#25163;&#28779;&#31661;&#8221;&#25226;&#31532;&#20
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [英特尔甩出视觉推理新杀器，性能超英伟达!大秀首款云端AI商用芯](http://mp.weixin.qq.com/s?src=11&timestamp=1573610404&ver=1971&signature=NRPp8uF7IPl4fE1LX7ffa10kUJ-iwEDP0p4KFR6Qu9JT4uU26ByedXeCmsWB63u9WbcQK03an-sBkOLTNlFthR1tYys1dJK*UtaDHS21VQO42*f1w7CNMxYR7M1nzxWx&new=1)
+ ## [第二届中国硅光产业论坛圆满举办!聚焦硅光创新动态](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=X6djzyzLxsQFwWaagX04ABuvmhSzy3ZwBUFmHvRg95wZLW7izJyoiQfjhVdyToJpCbyN9qFff-PKz0g1EbjR076DTW0vhRqdBFsICfkfbfyGlR4JfKblcgENxzp7KjW4&new=1)
+ > 导读     第二届中国硅光产业论坛在武汉成功举办，论坛汇聚十多位来自国内外硅光工业界和学术界专家，共同探讨硅光技术应用、硅光材料创新和硅光市场前景！      11月12日，第二届中国硅光产业论坛在武汉成功举...
+ ## [从进博会三星无处不在的科技创新，我们看到了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=kko2t-RfiqyYJm8Ih6E2AfoNHZwdANuCEzESfWsdh3nj488dhDCyG1bHuNzrc-hjUpTGtmh*bOxuzD4xAxQMl6f-uJ2GIF860RknszyMfAOfX3ZbKp1IShju8Joc-CDy&new=1)
+ > 在重大技术变革面前，领跑比任何时候都更重要。作者 | 宿艺编辑 | 子淇11月5日-10日，中国在上海举行了2019年最后一场大型主场外交活动，即迄今为止世界上第一个以进口为主题的国家级展会——第二届中国国际进口...
+ ## [苹果AR头显细节全曝光!项目1200人，十年内取代iPhone](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=z1lAVD7rOh*sCzwEOKVnpacDMK9ThW-AzrdpEwhHp0FWltUT4v400twcdhsO7LQqL09UMUPmnuakGm9vXF2OFOaK25cloxUCK2v0a9xW-syy0nblkBZ9lb*PMvOQX61c&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相苹果公司是硅谷最秘密的公司之一，这次竟然一次向如此多的员工介绍产品路线图，非常不同寻常。来源 | 智东西（ID：zhidxcom）据外媒The Information的独家报道，在今...
+ ## [天猫回应“双11数据造假”：已启动司法流程；小米折叠手机专利曝光；ASP.NET感染勒索软件|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=ms9ojUTNWEssg*Xb-oLpIgrix*t3VCyv2*oPhLpkuM5reg45xTS1ITYtFORO*qe*ZYpBs1ZSKiRxGErp6vxGlSbjmxnLBQCYew-C5dCXbqs-kc157uaGY0A2WBKoHfnY&new=1)
+ > 整理 | 郭芮出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值...
+ ## [《华为是谁》纪录短片第一集登陆BBC](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=gNjXxksvSRkTeSfFK0Gpqvh-jf99qzZC2NaU*NSIct550wt36Vr3DJ3MjlJCegCSx8SyhSVWbZtLUPyMxX*ptch3aEfLswR5F*ifrW6Bwtqsi8kDFpNH3Q3v6OnMcfw5&new=1)
+ > 很多人说华为是突然崛起实际上它历经了30年的持续奋斗和磨砺很多人说华为有洪荒之力实际上这只是一群普通人的脚踏实地BBC StoryWorks以独特视角再现了华为的成长历程，首次呈现很多不为人知的故事。第一集《白手...
+ ## [携号转网想转就转?小编自己试了一下](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=cMwxbkiD82ZeNgtPDOFBUo9BUD3WxS8vJZ4fWG5lXw6lE5KQntyAhVbU2fDpQVuxG6-a24pfoV7sCw76GNdVGpwXFdQEOF**KjKVzyXkwGHDpK088BsRn84vl*qk9Aak&new=1)
+ > 工信部发布的携号转网服务正式进入了试运营阶段，全国范围内只要是符合一定条件的三大运营商（ 移动、联通、电信 ）手机用户，想转到哪个网，发送短信确认后，直接带着身份证去对应的营业厅就可以了。这意味着，...
+ ## [教育市场风起云涌，苹果和谷歌如何厮杀?](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=9pyg1TYneUU*y2lepzSt6W*G8cmv**Gf2bT6neQg5dY8hEOz091nrOsdSwmZDcVWuWU7QPzMK*G58b9lHd-wUXQlOgnH29S7CJyx94s7gwlVrzZzkG8KyWq3NX4DXLZ0&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作当中国家长还在纠结如何让孩子远离iPad时，苹果与谷歌已经在教育市场中打得风声四起了。或许提起笔记本电脑或平板电脑，大多数人的反应还是它们属于成年人的办公娱乐...
+ ## [英特尔甩出视觉推理新杀器，性能超英伟达!大秀首款云端AI商用芯](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=NRPp8uF7IPl4fE1LX7ffa10kUJ-iwEDP0p4KFR6Qu9JT4uU26ByedXeCmsWB63u9pZ4ltphtaVQRnz3uEuzZrMuNLoc6vaUtAfj4fa683nirH15Gt4*BA1y9FdqOP3J0&new=1)
  > 看点：芯片大战升级！智东西11月13日消息，北京时间今日凌晨2点，英特尔在旧金山举行2019人工智能峰会，推出代号为Keem Bay的下一代Movidius VPU，可用于边缘媒体、计算机视觉和推理应用，并计划于明年上半年上...
- ## [炸!160个国家和地区创新者朝圣TC深圳](http://mp.weixin.qq.com/s?src=11&timestamp=1573610404&ver=1971&signature=VdBdB9iv9*Tafw5WFWQ2Via8*0cQNs6qqJRKSFifFRH-hrD2Xg2jJhbRX-J3OPEQh6Mlrm1PcIL4BAdcm*JmLr6NFfZJfA65V2GNk-c3xH-i1FgW5R1L11I3bVfrnbXG&new=1)
+ ## [炸!160个国家和地区创新者朝圣TC深圳](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=VdBdB9iv9*Tafw5WFWQ2Via8*0cQNs6qqJRKSFifFRH-hrD2Xg2jJhbRX-J3OPEQzncScdr8ijXruw60J28PD5RyONecCF5WfvVVwmPdOWeG5HCJEkbbSWPsYmCMCOhZ&new=1)
  > 动点科技 | ID：technode11月12日，TechCrunch国际创新峰会在深圳圆满落幕。为期两天的峰会共吸引了约300家创业公司展商，200位投资人，以及10000多来自全球160多个国家和地区的创业者、媒体、学生、大企业、政...
- ## [全球芯片市场上，“两强之争”已打响——](http://mp.weixin.qq.com/s?src=11&timestamp=1573610404&ver=1971&signature=rybUDYbf7h0zUje7OWETp0bpaKTzH6azUEq8n5XJ7KnjbMC72K4BbMISJsgxzu0wKxRT31a0dIdhXEh7Gtk6-WkZ5*pQ1l2GSKGZ7RtGtTU=&new=1)
+ ## [全球芯片市场上，“两强之争”已打响——](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=rybUDYbf7h0zUje7OWETp0bpaKTzH6azUEq8n5XJ7Kk027yBkwoGll2kh1Zb5M8hMoRNa2NQmqiJ3qJenBBjARWltE7pbUGjtjhdsp65bCg=&new=1)
  > 参考消息网11月13日报道 境外媒体报道称，韩国三星电子在半导体代工领域向台积电发起正面挑战。三星将每年花费巨额投资，确定采用新一代生产技术“EUV（极紫外光刻）”的量产体制，用10年左右挑战台积电世界首位...
- ## [数字里的“双11”：巨额交易额背后的创新活力](http://mp.weixin.qq.com/s?src=11&timestamp=1573610404&ver=1971&signature=otS5HJP4HIQ8TrxawBgxYrpYnlKFR3X4FajFCEGrDdjFbuwTRQeibf7P0GO01gtSV42YSqUFToxaJdSggJvAfwOPwr4JsoKTCmtdA3bCzd9P6o0PnQ6WzHoIpM6PCQH8&new=1)
+ ## [数字里的“双11”：巨额交易额背后的创新活力](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=otS5HJP4HIQ8TrxawBgxYrpYnlKFR3X4FajFCEGrDdjFbuwTRQeibf7P0GO01gtSanSK9EdGwjEU-2tkvGOycLM1TKdbtcu9PYzsh8zC8NuuNHfu14T9Xbxlw2QjmGkU&new=1)
  > 第11个“双11”过去了，交易数据在各大平台上又创造了新纪录。数据显示，11日全天，阿里巴巴旗下平台交易额超2684亿元；自11月1日零时至11日24时，京东平台累计下单金额达2044亿元；苏宁易购1小时订单量同比...
- ## [太平洋未来科技发布二代am glass AR眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1573610404&ver=1971&signature=NoSj1*p0s9h*sRrenG2E1JzsXiGO7Kk8vzTFM7-9XoDDDEwkTfVOqurULdDZOeW74jqSp3LNWrOei*Z225XFTOjnbc-CdFffKxGXP77ttIL7lsstriQ8xrpH1A-692CC&new=1)
+ ## [太平洋未来科技发布二代am glass AR眼镜](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=NoSj1*p0s9h*sRrenG2E1JzsXiGO7Kk8vzTFM7-9XoDDDEwkTfVOqurULdDZOeW733YKSyKzJ-NzxvO0lQA7PxJSX*0FsklcpdY*RHeEKnXQ6CQQJZcaSnjjhINJG*pn&new=1)
  > Esther｜ 编辑2019年，AR市场依然在等待一个突破口。但这家公司决心不再等待，而是选择前进，并成功在欢乐谷落地2500台AR眼镜。今天，太平洋未来科技正式发布第二代AR眼镜am glass，还公布了与设计师Percey Lau...
- ## [最强逛展攻略，教你玩转2019中国移动全球合作伙伴大会!](http://mp.weixin.qq.com/s?src=11&timestamp=1573610404&ver=1971&signature=GAbKaBpUJNVLFI5mw*zrBlJSv1Z1V4CqGj9G8mTaOaNZQzBS8QZRyjmIdW2RAs1SClrQY6rE3S59G*-Wuwk1jBadbUjfhJmnA1S*FMLmdiZFHggWcuD-7J0vCxTxSCJN&new=1)
+ ## [最强逛展攻略，教你玩转2019中国移动全球合作伙伴大会!](http://mp.weixin.qq.com/s?src=11&timestamp=1573617604&ver=1971&signature=GAbKaBpUJNVLFI5mw*zrBlJSv1Z1V4CqGj9G8mTaOaNZQzBS8QZRyjmIdW2RAs1SJraY*ZrtDwk6kJ*LvOyVgrDYIv0W8NsbwO-zBwkMhtvfVHU0glQkzWlGfKAp2-gi&new=1)
  > 合作微信：emgz020第七届中国移动全球合作伙伴大会即将盛大开幕！作为5G商用发布之后中国移动首场大型5G活动本次大会打造了广东第一个信号最强、覆盖最密、速率最高5G智慧展馆怎么样，听起来是不是很期待？可是2...
 # IT 技术 
+ ## [终于有篇看的懂的B树文章了！](http://database.51cto.com/art/201911/605881.htm)
+ > 终于有篇看的懂的B树文章了！
+ ## [支付宝历年双十一背后的技术揭秘](http://news.51cto.com/art/201911/605871.htm)
+ > 支付宝历年双十一背后的技术揭秘
  ## [知名企业如何利用大数据分析](http://bigdata.51cto.com/art/201911/605857.htm)
  > 知名企业如何利用大数据分析
+ ## [当新闻报道用上AR 技术，能为读者带来什么？](http://mobile.51cto.com/vrar-605885.htm)
+ > 当新闻报道用上AR 技术，能为读者带来什么？
+ ## [2019年最可怕的黑客事件与安全漏洞](http://netsecurity.51cto.com/art/201911/605861.htm)
+ > 2019年最可怕的黑客事件与安全漏洞
+ ## [意念控制成现实：不开口，不动手，“瘫着”就能打游戏](http://news.51cto.com/art/201911/605864.htm)
+ > 意念控制成现实：不开口，不动手，“瘫着”就能打游戏
  ## [思考 | 一文说透秒杀系统如何设计](http://developer.51cto.com/art/201911/605837.htm)
  > 思考 | 一文说透秒杀系统如何设计
  ## [96秒100亿！如何抗住双11高并发流量？](http://developer.51cto.com/art/201911/605787.htm)
  > 96秒100亿！如何抗住双11高并发流量？
- ## [高管人员最不遵守安全规定？](http://zhuanlan.51cto.com/art/201911/605771.htm)
- > 高管人员最不遵守安全规定？
- ## [去伪存真，区块链应用到底能解决什么实际问题？](http://blockchain.51cto.com/art/201911/605819.htm)
- > 去伪存真，区块链应用到底能解决什么实际问题？
- ## [一束激光冒充人声，110米外黑掉智能音箱，手机电脑平板也中招](http://news.51cto.com/art/201911/605782.htm)
- > 一束激光冒充人声，110米外黑掉智能音箱，手机电脑平板也中招
- ## [盘点十大最新Web UI测试工具](http://developer.51cto.com/art/201911/605758.htm)
- > 盘点十大最新Web UI测试工具
- ## [别再质疑5G的用处了，5G本就不是主要给人用的！](http://network.51cto.com/art/201911/605794.htm)
- > 别再质疑5G的用处了，5G本就不是主要给人用的！
- ## [IBM、英特尔、摩根大通和微软等公司一起制定新的区块链令牌规范](http://blockchain.51cto.com/art/201911/605870.htm)
- > 由企业以太坊联盟(EEA)领导的商业联盟日前表示，他们基于区块链的新令牌规范可以创建符合法规要求的数字货
- ## [支付宝历年双十一背后的技术揭秘](http://news.51cto.com/art/201911/605871.htm)
- > 和过去10年一样，2019年天猫双11又创造了一个全新的纪录。这个数字背后，是数代支付宝工程师们殚精竭虑、不
- ## [告别传统采矿模式，比特币矿工即将迎来新一轮收益提升](http://blockchain.51cto.com/art/201911/605868.htm)
- > 比特币采矿难度的提升与采矿利润率的不断下降，直接导致目前的采矿行业开始由大规模企业所主导。这场号称是
- ## [一文搞懂Web中暗藏的密码学](http://netsecurity.51cto.com/art/201911/605869.htm)
- > 密码学是各种安全应用程序所必需的，现代密码学旨在创建通过应用数学原理和计算机科学来保护信息的机制。但
- ## [意念控制成现实：不开口，不动手，“瘫着”就能打游戏](http://news.51cto.com/art/201911/605864.htm)
- > 脑机连接，探索永不止步。人类对脑机连接的探索注定是一个漫长的过程，但同时也取得了一定瞩目的成就。
- ## [也许，这样理解HTTPS更容易！](http://netsecurity.51cto.com/art/201911/605865.htm)
- > 本文尝试一步步还原HTTPS的设计过程，以理解为什么HTTPS最终会是这副模样。但是这并不代表HTTPS的真实设计
- ## [Linux 下 4 种实时监控日志文件的方法，总有一种适合你](http://os.51cto.com/art/201911/605863.htm)
- > 在 Linux 下如何才能实时查看日志内容呢?有很多工具可以帮助我们在文件持续修改的同时输出文件内容，最常用
- ## [Github上开源的10大Javascript模板引擎，助力前端开发](http://news.51cto.com/art/201911/605866.htm)
- > 目前前端主流的开发框架有Vue、React以及Angular等，但是依然有一部分开发人员并不会去使用这些框架，特别
- ## [2019年最可怕的黑客事件与安全漏洞](http://netsecurity.51cto.com/art/201911/605861.htm)
- > 这是一篇很长的文章，因为就网络安全新闻来说，2019 年就是一场灾难，每周都会有一个或多个重大事件发生。
- ## [注意！你不能不知道的遗留数据库环境的5个缺陷](http://database.51cto.com/art/201911/605860.htm)
- > 遗留IT架构上布满筒仓(Silos)，且复杂度高，因此持续运行数据库的效率及伸缩性不足。在遗留基础架构上运行
+ ## [如何更好的利用区块链API](http://blockchain.51cto.com/art/201911/605889.htm)
+ > 区块链允许数据提供者和消费者直接在单个开放系统中交易信息，而不是订阅世界各地的数十个集中服务，并编写
+ ## [PC党的福音来了 微信Windows版更新：可同步手机浮窗](http://mobile.51cto.com/app-show-605890.htm)
+ > 11月12日消息，日前微信Windows版更新v2.7.1.88版本。本次更新新增“同步手机浮窗”功能，可将手机端微信正
+ ## [华为发放20亿元奖金，抗击美国断供，奖励员工加班奋斗，网友：他们应得的](http://news.51cto.com/art/201911/605891.htm)
+ > 华为在双11这天又上了热搜，不过并不是因为让用户“剁手”，而是因为给员工发钱。
+ ## [互联网企业安全运维实践](http://netsecurity.51cto.com/art/201911/605888.htm)
+ > 安全领域众多，分享这个议题，是因为在之前的工作过程中我们发现像大家非常关心的机密数据泄露 、资产盗窃
+ ## [19个来自2019 React Conf的总结](http://developer.51cto.com/art/201911/605887.htm)
+ > 这篇文章收录了一些这次 React Conf 中，我最喜欢的总结。每一个主题都值得关注。
+ ## [Kafka架构和高可用机制图解，阿里腾讯都在用，看不懂来找我](http://developer.51cto.com/art/201911/605886.htm)
+ > 今天先来说说kafka吧，我看Hbase没什么人看，于是直接跳过，讲大家最喜欢的。
+ ## [从一幅画看浏览器的不同](http://os.51cto.com/art/201911/605883.htm)
+ > 如果你的浏览器会画画，那它会画出怎样一幅画呢?如果浏览的小说文字多，那可能是文字组合多多的黑白图画;如
+ ## [大数据知识图谱实战经验总结](http://bigdata.51cto.com/art/201911/605877.htm)
+ > 大数据具有海量性、多样性、高速性和易变性等特点，映射到大数据平台建设要求，不仅要具备海量数据采集、并
+ ## [C++之父表示不欢迎比特币 认为其主要服务于罪犯](http://news.51cto.com/art/201911/605875.htm)
+ > C++ 创建者 Bjarne Stroustrup 表示，不喜欢比特币是用他所编写的语言写成的。C++ 是一种基本的编程语言，
+ ## [如何在Windows 10中映射网络驱动器](http://os.51cto.com/art/201911/605878.htm)
+ > 映射驱动器可以轻松访问物理上位于另一台计算机上的信息。 映射驱动器是远程硬盘驱动器的简单快捷方式。 通
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [程序猿的 46 个瞬间](https://blog.csdn.net/qq449245884/article/details/102994291)
- > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ > 
  ## [详解 URLLC 前世今生，你 Get 了吗？](https://blog.csdn.net/csdnnews/article/details/102383566)
  > 详解 URLLC 前世今生，你 Get 了吗？
  ## [工厂模式，从第三方登录说起](https://blog.csdn.net/z694644032/article/details/100940148)
  > 
- ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
- > 
- ## [白话Elasticsearch49-深入聚合数据分析之 Percentile Ranks Aggregation-percentiles rank以及网站访问时延SLA统计](https://blog.csdn.net/yangshangwei/article/details/100086129)
- > 白话Elasticsearch49-深入聚合数据分析之 Percentile Ranks Aggregation-percentiles rank以及网站访问时延SLA统计
- ## [【Linux网络编程】网络基础知识](https://blog.csdn.net/dengjin20104042056/article/details/102999764)
+ ## [白话Elasticsearch55-数据建模之对每个用户发表的博客进行分组 （Top Hits Aggregation）](https://blog.csdn.net/yangshangwei/article/details/100176955)
+ > 白话Elasticsearch55-数据建模之对每个用户发表的博客进行分组 （Top Hits Aggregation）
+ ## [11月12日科技资讯|GitLab地域封锁，总监愤而辞职！华为员工回应“双11发20亿奖金”；Rust 1.39.0发布](https://blog.csdn.net/weixin_39786569/article/details/103022397)
  > 
  ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
  > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [【Java】基于TA-Lib技术分析指标研究](https://blog.csdn.net/gavinbj/article/details/102886574)
+ > 
  ## [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
  > 史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
  ## [Python爬取淘宝商品信息](https://blog.csdn.net/u014044812/article/details/100563668)
  > Python爬取淘宝商品信息
- ## [2019诺贝尔经济学奖得主：贫穷的本质是什么？](https://blog.csdn.net/zhongyangzhong/article/details/102578044)
- > 2019诺贝尔经济学奖得主：贫穷的本质是什么？
- ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
- > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
- ## [记一道字节跳动的算法面试题](https://blog.csdn.net/kexuanxiu1163/article/details/100165991)
- > 记一道字节跳动的算法面试题
+ ## [《吊打面试官》系列-Redis终章_凛冬将至 FPX_新王登基](https://blog.csdn.net/qq_35190492/article/details/103004235)
+ > 
+ ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
+ > 500行代码，教你用python写个微信飞机大战
  ## [超燃！支付宝技术双11纪录片《一心一役》全球独家首发](https://blog.csdn.net/csdnnews/article/details/103027874)
  > 和过去10年一样，2019年天猫双11又创造了一个全新的纪录。这个数字背后，是数代支付宝工程师们殚精竭虑、不断突破技术难关。今年双11之前，小编邀请到11位经历双11的技...
  ## [PHP 是生还是死？](https://blog.csdn.net/csdnnews/article/details/103027878)
@@ -159,6 +173,8 @@ SpaceX&#29992;&#8220;&#22235;&#25163;&#28779;&#31661;&#8221;&#25226;&#31532;&#20
  > 整理 |唐小引、郭芮出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。扫描上方二维码进入 CSDN App 可.
  ## [华为双 11 发 20 亿奖金！？](https://blog.csdn.net/csdnnews/article/details/103027892)
  > 11 月 11 日当天，有华为员工在社交网络上爆料称，华为双 11 发放两份特别奖金，一份是阳关普照奖，另外一份是 20亿奖金。该爆料称：“双 11，华为发放两份特别奖...
+ ## [天猫回应双11造假：造谣要付法律责任](http://www.lanjingtmt.com/news/detail/44874.shtml)
+ > 今年双十一，天猫创造了全天交易额2684亿元的记录，不过随后有关“天猫双11数据造假”的传言甚嚣尘上，引发业内关注。对此，天猫公关总监彭美回应称，造谣是要付法律责任的。
  ## [欢聚时代三季度净利润1.099亿元，同比下降83%](http://www.lanjingtmt.com/news/detail/44873.shtml)
  > 欢聚时代今日发布了截至9月30日的2019财年第三季度财报，报告显示，欢聚时代第三季度净营收为人民币68.82亿元，比去年同期的人民币41亿元增长67.8%。
  ## [虎牙2019年Q3净利润2.06亿元，同比增长70.5%](http://www.lanjingtmt.com/news/detail/44872.shtml)
@@ -166,57 +182,37 @@ SpaceX&#29992;&#8220;&#22235;&#25163;&#28779;&#31661;&#8221;&#25226;&#31532;&#20
  ## [倾资源、投重金，屡战屡败的腾讯仍难改写短视频格局](http://www.lanjingtmt.com/news/detail/44871.shtml)
  > 近两年来，腾讯频频征战短视频，试图通过内部赛马的方式收复失地，不过至今仍未有显著成效。腾讯副总裁林松涛曾提到，短视频市场还未饱和，当下的格局并不能代表赛道的未来。
 # 人工智能 
- ## [谈谈游戏服务器单区QPS的计算](https://blog.csdn.net/jiangguilong2000/article/details/90200840)
- > 谈谈游戏服务器单区QPS的计算
- ## [Java 后端架构之路](https://blog.csdn.net/huyunqiang111/article/details/97950780)
- > Java 后端架构之路
- ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
- > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
- ## [sqli-labs第11关到18关](https://blog.csdn.net/qq_44108455/article/details/95459169)
- > sqli-labs第11关到18关
- ## [mysql自动新建分区](https://blog.csdn.net/bck1453925668/article/details/80807490)
- > mysql自动新建分区
- ## [数据库  导入Excel数据](https://blog.csdn.net/qq_36511401/article/details/101302052)
- > 数据库  导入Excel数据
- ## [解决Win10下Mysql 的Access denied for user'root'@'localhost' (using password: NO)问题](https://blog.csdn.net/fores_t/article/details/92085383)
- > 解决Win10下Mysql 的Access denied for user&x27;root&x27;@&x27;localhost&x27; (using password: NO)问题
- ## [ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using passwor:yes) 解决办法](https://blog.csdn.net/longgeaisisi/article/details/100743349)
- > ERROR 1045 (28000): Access denied for user &x27;root&x27;@&x27;localhost&x27; (using passwor:yes) 解决办法
- ## [oracle（游标，存储过程，同义词，程序包，触发器）](https://blog.csdn.net/weixin_45358193/article/details/100538305)
- > oracle（游标，存储过程，同义词，程序包，触发器）
- ## [MySQL中添加或插入语句(Insert)的几种使用方式](https://blog.csdn.net/qq_40194399/article/details/94554191)
- > MySQL中添加或插入语句(Insert)的几种使用方式
- ## [MySQL实现for循环逐个遍历](https://blog.csdn.net/Bulter1996/article/details/91911136)
- > MySQL实现for循环逐个遍历
- ## [\[Err\] 1205 - Lock wait timeout exceeded; try restarting transaction Mysql 报错](https://blog.csdn.net/weixin_42425970/article/details/90551050)
- > \[Err\] 1205 - Lock wait timeout exceeded; try restarting transaction Mysql 报错
- ## [MySQl 忘记密码怎么办？](https://blog.csdn.net/weixin_43054397/article/details/90721094)
- > MySQl 忘记密码怎么办？
- ## [MySQL自增主键详解](https://blog.csdn.net/qq_40378034/article/details/90736544)
- > MySQL自增主键详解
- ## [Could not create connection to database server. Attempted reconnect 3 times.](https://blog.csdn.net/yiye2017zhangmu/article/details/93622976)
- > Could not create connection to database server. Attempted reconnect 3 times.
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 # PM 
- ## [新课首发 | 平均薪资26K，60万人才缺口，数据产品经理到底有多吃香？](http://www.woshipm.com/active/3078346.html)
- > 随着大数据、云计算、人工智能等新兴技术的火热，“数据”一词已然成为业界宠儿。且近年数据量的增多，从数据中获取商业价值，实现数据价值变现已然成为每个企业数据化转...
- ## [一套增长的万能公式，现学现用](http://www.woshipm.com/operate/3078673.html)
- > 万物皆增长，现实与目标总会有差距，因此人人都是增长官。面对增长目标，需要进行拆解和重构，找到合适的实现路径。我一直相信，不管你做啥，某种意义上咱们都是同行...
- ## [高转化率的App推广落地页是怎样炼成的？](http://www.woshipm.com/pd/3079851.html)
- > 本文列举了常见的app推广落地页的形式以及各项常见的衡量指标，并梳理了做这个事项时需要注意的关键点。在移动互联网领域，落地页也称推广页、引导页、着陆页等，一般...
- ## [第三方支付如何依托HIS 厂商切入医院场景？](http://www.woshipm.com/pd/3079457.html)
- > 本文为大家介绍了第三方支付在智慧医疗领域进展、支付流程解析以及巨头对医院第三方支付服务的态度与布局。根据第三方机构统计，第三方支付进行挂号及诊间移动支付的...
- ## [3个维度，教你如何辨别教育产品的“素质”](http://www.woshipm.com/it/3076938.html)
- > 教育产品的最主要的功能是帮助用户更好的学习，所以选择一个好的教育产品对每个人都很重要，如何辨别不同教育产品的质量呢？本文作者从三个维度对教育产品进行了全方位...
- ## [什么是敏捷开发Scrum及其适用场景？](http://www.woshipm.com/pmd/3082114.html)
- > 笔者根据自己对敏捷开发Scrum的理解，总结了敏捷开发从开始到结束的流程以及其适用的场景。一、敏捷开发到底是什么很难用一两句话说清楚敏捷到底是什么，也许因为它...
- ## [适时转型，是延长红人生命周期的不二法门吗？](http://www.woshipm.com/operate/3078476.html)
- > 在这样一个变幻莫测、“唯变所适”的时代里，一成不变的事物必然会被淘汰。一晃眼，2019年已然进入尾声，而自2018年进入爆发期到现在，短视频行业的发展也已经历了几番...
- ## [做产品，不要忘了产品的“度”](http://www.woshipm.com/pd/3039675.html)
- > 产品设计要有“度”，这个“度”分为产品策划与产品设计两个层面，每个层面上都有很多产品经理需要考虑的问题，首先说说什么是产品的度，套用管理学的一句话：产品设计是...
- ## [4个步骤，提升竞品分析质量](http://www.woshipm.com/pd/3079833.html)
- > 产品是用户需求的表现，竞品的背后是不同企业对用户需求的解读，竞品分析则是从多维的角度对比需求表现的好坏，从中汲取营养使自身产品保持核心竞争力。竞品分析的4个...
- ## [用经验价值清单，谈儿童教育产品的游戏化设计](http://www.woshipm.com/pd/3050621.html)
- > 本文从经验价值清单的概念、节点梳理、进阶发展等方面，梳理了如何做儿童教育产品的游戏化设计。近年来儿童教育产品快速发展，体验后发现其中或多或少都会涉及一定的...
  ## [4个步骤提升竞品分析质量](http://www.chanpin100.com/article/110009)
  > 因为无知，所以求知。
  ## [竞品分析|酷狗音乐VS网易云音乐（老牌名宿VS黑马新秀）](http://www.chanpin100.com/article/110008)
