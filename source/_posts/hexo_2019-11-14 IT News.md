@@ -1,7 +1,7 @@
 ---
 title: 2019-11-14 IT News
 copyright: true
-date: 2019-11-14 12:00:58
+date: 2019-11-14 17:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,34 +67,46 @@ K12&#25945;&#32946;&#21697;&#29260;&#8220;&#23569;&#24180;&#24471;&#21040;&#8221
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [携号转网来了!但需要满足这些要求，网友：好比净身出户](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=NMsLVSWGMa5WTkumoWOpqa1ePHeyzzj4a6ejHO6PAfJEWi5h5B37qqb2iX*mrGd8dYRCkZGpjotBRut4N6Cwot4db-RXCq0UC3YpCqiJm*doaBMpyGBc9kdvyi3xa3kl&new=1)
- > 由于很多人对当前使用的卡商（运营商）不满意，很多人都想更换运营商，但又不想换号码，因为换号码成本太高了，所以关于是否可以携号转网的消息，很多人都期待这个答案。根据最新消息报导，工信部的携号转网服务...
- ## [腾讯Q3财报分析：QQ用户下跌，整体营收不及预期|风眼观察](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=sF0ZAYNUXsQtj1C-EGh-X9ucl-2WGMWwmpxYFwVUhD5NkAc*VmQgmvOGw3JfoPZBcBOFFoVDeVqR-d6fU5rJKj-zYYT9K6kuVEp4EauiFM1EXVKtm6c-8tWUids93B6f&new=1)
- > iFeng科技这是《风眼》栏目的第 275篇原创报道马化腾口中的“科技创新驱动公司未来发展”正在逐步成为现实。但是在2B领域，腾讯要摆脱社交基因论，还需要拿出更多令人信服的成果。出品 《风眼》深度报道组 凤凰...
- ## [突发!微软执行副总裁沈向洋离职，硅谷华人高管或已全面失势](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=CQ4prAlqUIbm9Aml7zVBWnPWHt-HK8Uo3PJH0kfocF3BtRFYiYbRG7D0NoK36jV42WnVeUtFJiF75arzV4YqDUnXOGFUgt30Ma3-zACUaKYlWwCAKTcvtX7NAkStBeYH&new=1)
- > 热点追踪 / 深度探讨 / 实地探访 / 商务合作看点：微软EVP兼AI+研究部负责人沈向洋将在2020年2月正式离职，去向未明。智东西11月14日凌晨消息，刚刚，微软CEO纳德拉发送公司内部邮件称，微软集团执行副总裁、微...
- ## [重磅：微软EVP沈向洋离职!曾是华人在美科技圈最高级高管](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=y9QmGlVBJZR1EZabX7vQV3M9VZOhYQb5zQRUUpPs57**wF0VdoMMB0T1PDHVxvhfKvG6TLfJDmSu4ZVpBCt29tBRsMFNKTe-g-7KcnEvq4TGKCNldwJMKW3vl5qaDeyW&new=1)
+ ## [微软最后一个华人高管离职 沈向洋给微软AI留下什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=sF0ZAYNUXsQtj1C-EGh-X9ucl-2WGMWwmpxYFwVUhD6rn5mnl0g7loJhB85-A4dxUmlE6MHHasYOIAin6Gg9mj90Wi6hvIeVVANqrWlI8gkvYZoMxPuh0YorE4B6-uGS&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相出品 | 凤凰网科技 凤凰新闻客户端  作者 | 萧雨就在微软公司的人工智能(AI)业务刚刚起步之际，这家软件巨头却失去了一位关键高管。这位高管帮助微软把AI研究转化成了...
+ ## [“区块链反垄断第一案”及其引发的思考](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=R*7CtxmbumsBIHvFkHzLBiDQ-Wx2lqWzOr7FhbR8hHyDlXjs1H65SbJ3bogZUbTyuaXuxWniu3WQZWBmDOVQdn-hMqd-WpqO83FnKTR3eQs=&new=1)
+ > 陈永伟/文 2018年12月，美国佛罗里达南部地区法院收到了一份诉状。提出起诉的原告是一家名为UnitedCorp的数字电信战略公司，而被告则包括比特大陆（Bitmain）及其执行董事吴忌寒、“Bitcoin.com”公司及其创始人...
+ ## [携号转网看上去很美，但你必须要了解这三点](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=MfaSoWPOIPJzBTRo8rU1M00FCc4nSJcxWa2-NFrON*P3*gVoiVTlALgqYPSYi5vSFOk8UnEQfwcvbzsa0bIPT5A4jj6Z1qa28t0sjhiYhWvw3UJCX0HiIUSyvdxzgLJO&new=1)
+ > 携号转网毫无疑问是好事，但用户需理性选择。作者 | 宿艺编辑 | 子淇携号转网终于要全面开放了。 根据工信部统一部署，2019年12月1日起，三大运营商将会在全国范围内提供携号转网服务。 距离现在仅有约半个月时...
+ ## [这才是未来真正的风口，一文看清13种硬科技投资趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=MmOpGQ76bHawQJ-Vtohgp-i-ZO8U6yfm5kgtuFQdbeaJ1E8uQ1GEnbCArYA1o*nyvCRuM5xZ22ZOkUYEx4mOe5xxW9wZ2VQm0UdFXwiQcH4v2AAbOnJo0V4Wmb*XWxxV&new=1)
+ > 《塔木德》是全球精英成就家庭与事业的教育秘方，通灵的智慧境界，接地气的学习典范，与塔木德为伍，与财智同行:高手+高雅+高尚…《塔木德大讲堂》微信公众号：tmdfhh6新闻爆料+业务合作请加个人微信：wangfangd...
+ ## [5G、AI、无人系统、边缘计算，在这里看懂嵌入式!](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=t5tCiE5wubir7TiSNnfToAyuFuO3TS3U-bLJKOm1rHErUFbG9oIKVCm7E622yNUdk5o*xuUSkg*I7W*jJ1Jihakoq4u65-m2qjZUg-lH6GN6TXQ1RyiLWyg4u4466b-c&new=1)
+ > 立即订票：https://t.csdnimg.cn/otBk随着5G、AI和IoT技术的蓬勃发展，智能连接时代已经来临。新兴的智能终端和解决方案将越来越依赖于嵌入式技术。在网络边缘应用对智能功能的需求不断上升的背景下，尤其是在寻...
+ ## [寒武纪发布边缘AI芯片思元220，性能优于英伟达Xavier NX两倍](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=2sc5VypWmfTdgmtR44w7ToeQGdvI8ek-IElnZaIwFpTXtPUYZaQY-wKHxBlkjAsSJUjnoBwAYx0mDc5fNU9HSwC*sB*ebcAp0fmcU6cdXPz12aJpRj9uGLP6PYClz3GL&new=1)
+ > 按照寒武纪公布的参数，思元 220 参数性能比肩英伟达去年发布的 Jetson 系统级模块——AGX Xavier 和上周发布 Jetson Xavier NX。在功耗上胜出 AGX Xavier，在计算速度上优于 Xavier NX。11
+ ## [重磅：微软EVP沈向洋离职!曾是华人在美科技圈最高级高管](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=y9QmGlVBJZR1EZabX7vQV3M9VZOhYQb5zQRUUpPs579Jccy2kBTCGMLJU5HuT2GWx1Q7LAiOZlRs9WBop1zc0bPOyP5-a0S-HaUE5orKMFfx8zU2ELXvcqa5MD9bEEuF&new=1)
  > 单手乔丹，江湖再见。独家：沈向洋博士，负责微软公司人工智能和微软研究事业部的全球执行副总裁，二十三年老兵，在美国时间11月13日宣布了离职的消息。根据硅星人/PingWest品玩收到的一份微软CEO 萨蒂亚·纳德...
- ## [400万个网络安全岗位仍处空缺状态，相关专业起薪已达60万](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=F88vRHssMdCxTcDBZS8VlX6takJpYdCho8HjQ2ZShFrN-ZiOZ3hmrOFgEfj5gXlSBLFnVJD0N29eJtr3CRv0g4x5TIzkDKAvd7yTV8qfHNu6YlUdHnUMJB6Q56-kmDsO&new=1)
+ ## [教育部确定新增高校专业9个!行业急需~~](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=V26WLr8u3MwfCS9esKXNN4rS524qN1T04NFZRKt3qVwGOivIdhaZN*OwGMh3XMuzTkSBg*7wLxz*JWOMh*sZ*harzdRfwP4HHxX0kSf4DeLMpka04dXAOSrdlMUWK76b&new=1)
+ > 教育部官网消息，根据《普通高等学校高等职业教育（专科）专业设置管理办法》，在相关学校和行业提交增补专业建议的基础上，教育部组织研究确定了2019年度增补专业共9个，现予公布，自2020年起执行。为什么要设...
+ ## [效力微软23年，“微软的中国先生”沈向洋宣布将离职](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=ictmAYBjRjjaEYZo9M2Rp6aM6q3**xQckp1BOqgBDDYJ38NWysjUUZ4yWCo3vYDfvLZ1m4ZLDAwRm-SnXIX8gFcQCKUlhKTd4FjOKsCFDQ-9*J*bTP6fkD85whGnw0M4&new=1)
+ > 腾讯新闻《潜望》 纪振宇 发自硅谷在微软任职超过23年，担任微软人工智能研究部门执行副总裁的沈向洋即将于明年2月离职。13日早间，微软首席执行官纳德拉以公司内部全体邮件的形式公布了这一消息。沈向洋从微软...
+ ## [为什么 CISO 必须重视 PAM](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=ZNVtvrKOqOUx69asKzdAr7odKP*5vCXnGXCu5UPMEKtk8rR--fE9YKdevrcN*8kr7uNFcxtPvqrygYuUDnvVjyiYmBBZqMYFvT8r81UWJU2cDuNWRjTD*EQBzwRikdxw&new=1)
+ > 特权访问管理 (PAM) 由策略和技术组成，这些策略和技术用于对 IT 环境中经提升的用户、账户、进程和系统访问及权限（“特权”）施加控制。通过实现恰当的特权访问控制级别，PAM 帮助公司企业压缩其攻击界面，防...
+ ## [人工智能、智能制造、新一代信息技术……广西36项先进技术亮相高交会](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=MgqMmoAysMpE6cW36njYhZtX052JlTPVxEQA0tvpxeW3XtSCRzrKt*OmXU9nenzYZjmpAkdQOo9QTbqivPna0X0BhpZM*OWBbvj6s*X3kXI=&new=1)
+ > 达到世界领先水平、精准引导激光导弹打击目标的军用激光设备核心元器件；全球第一款可以语音收发微信的全擎在线智能家用汽车新宝骏RM-5，其智能驾驶技术国际一流……在11月13日开幕的第二十一届中国国际高新技术...
+ ## [微软全球执行副总裁沈向洋离职；马云回应双十一数据作假；GitHub 官方终于出 App 了!|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=t5tCiE5wubir7TiSNnfToAyuFuO3TS3U-bLJKOm1rHGjVocjaG2mHato0COF1dKb-M46bTtslTVGWCP6DhmZocEroJn*Yeo08oYpJMgdrbjuWNRUpBSTTXtG*RnCy6dQ&new=1)
+ > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [国产3D打印前处理软件来了，上海Voxeldance](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=NTzppsgXh-1ZGdeBNlU6ETM-GNecaqqb7-hMVKaecL0AR-z*I8kSXokqT0*PG-662LFVv2xv0A4P1yndWCu905semdVf7xNulUr4BxWdMY-UqpEJC*YVH1MEOWILIlv5&new=1)
+ > 关注南极熊3D打印广告导读：目前，大部分的3D打印相关软件都出自国外的公司。南极熊了解到，现在一家来自中国上海的3D打印软件公司，开发了一款名为Voxeldance Additive的增材制造前处理软件，支持多种文件格式...
+ ## [腾讯Q3财报分析：QQ用户下跌，整体营收不及预期|风眼观察](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=sF0ZAYNUXsQtj1C-EGh-X9ucl-2WGMWwmpxYFwVUhD4PA5Zbr0iJK7s7g-5QehEB4l-GKjkslAZRGZcQbjfHcr2F1CUXYpa*3LaH0kSyxBG*FGi1-EIt-hqOq9d3THe5&new=1)
+ > iFeng科技这是《风眼》栏目的第 275篇原创报道马化腾口中的“科技创新驱动公司未来发展”正在逐步成为现实。但是在2B领域，腾讯要摆脱社交基因论，还需要拿出更多令人信服的成果。出品 《风眼》深度报道组 凤凰...
+ ## [突发!微软执行副总裁沈向洋离职，硅谷华人高管或已全面失势](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=CQ4prAlqUIbm9Aml7zVBWnPWHt-HK8Uo3PJH0kfocF0bR-VxekYdIrmHycongZihuTk*CTZR2TH51lIs*zXsEElaXxcflYUYbo-1kgfR8rtBNPL8i3glZ9YA-ye*MjDM&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作看点：微软EVP兼AI+研究部负责人沈向洋将在2020年2月正式离职，去向未明。智东西11月14日凌晨消息，刚刚，微软CEO纳德拉发送公司内部邮件称，微软集团执行副总裁、微...
+ ## [携号转网来了!但需要满足这些要求，网友：好比净身出户](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=NMsLVSWGMa5WTkumoWOpqa1ePHeyzzj4a6ejHO6PAfJqPFLCCvefSmGDj*u06MppK2PgZK2B-OAdwc3MyQ1glsa78XhGG4c44vbWIDbocHUs9fqRveg5SUdEgbmOVD4M&new=1)
+ > 由于很多人对当前使用的卡商（运营商）不满意，很多人都想更换运营商，但又不想换号码，因为换号码成本太高了，所以关于是否可以携号转网的消息，很多人都期待这个答案。根据最新消息报导，工信部的携号转网服务...
+ ## [400万个网络安全岗位仍处空缺状态，相关专业起薪已达60万](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=F88vRHssMdCxTcDBZS8VlX6takJpYdCho8HjQ2ZShFp1VBKT62GTfSeAAUPMnsP2P7UWouZt49Ex9J9Dv3CKb4KIttJhocUy8jJuwkPghWYF79IWEvETpVhzPdoNOJ3b&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，国际信息系统安全认证联盟（简称（ISC）2）发布报告称，网络安全人才缺口已高达407万。其中，北美需要56.1万名相关专业人士，欧洲需要29.1万名相...
- ## [美国3D打印自动化后处理技术公司获B轮2000万美元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=BtKzWLNcjgtdXVIIr1rXCtWIa4WbSkd03rdNQiRGWr0ax4ChMD1B5pdYJryHH26QEx0MzOb9ECXMCwmQe8CugY051e1iv8O2QXRRy-WldB2BRX9kofOO91cEFuf4whaX&new=1)
+ ## [美国3D打印自动化后处理技术公司获B轮2000万美元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=BtKzWLNcjgtdXVIIr1rXCtWIa4WbSkd03rdNQiRGWr0hddt9OwMGzRT0YixSM25QyAKhUlixxX6kA281bgVkoV65P3N*ph89sXpDPlHBKBALHS0YTR5ghWbC-aGhD-IZ&new=1)
  > 总部位于纽约的3D打印自动化后处理公司PostProcess Technologies已完成2000万美元的B轮融资。该公司还透露了扩大其欧洲业务的计划，其中包括在法国建立新的基准测试机构以及欧盟渠道合作伙伴网络。PostProcess的...
- ## [日媒报道称中国争当世界AI创新中心：2030年可达成](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=zhFDYahsWa2XzMncdBcf1bkTQaF2tIi3wOyQPAQ1iTMYflaSjaQGdG0k1Jvdfv5dLmeZUl4cML1MakTW8aL*BLCeTNdWGYZI19i5fWXFE54=&new=1)
+ ## [日媒报道称中国争当世界AI创新中心：2030年可达成](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=zhFDYahsWa2XzMncdBcf1bkTQaF2tIi3wOyQPAQ1iTMOgi0TGRRh30ySU9canxirXzO9jGODKlj6aQKjfuAA524s55EKqtAHyDja2SkyMBA=&new=1)
  > 参考消息网11月14日报道 日媒称，中国提出了一个雄心勃勃的目标，力争在2030年成为“世界主要人工智能（AI）创新中心”。坐拥近14亿人口、易于开展大数据收集的中国已经在AI研发领域占据有利位置。从2019年夏天...
- ## [中国移动启动2020年光纤配线架产品集采](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=qGncc4dn74KaX7dc7RupPUAmOeUSG7ZnUudEZgUYq8iE*HNyfM4qTzwOIVzKROK0YaJgxIYa0y*l8bECnXKyKSfMKoeIW354IZ09RJD2-igmZZfUQIGQFDxXe2ci69hC&new=1)
+ ## [中国移动启动2020年光纤配线架产品集采](http://mp.weixin.qq.com/s?src=11&timestamp=1573722005&ver=1973&signature=qGncc4dn74KaX7dc7RupPUAmOeUSG7ZnUudEZgUYq8he6WkA*u2lBQAGP70*m4b7qD-Ja*91*9x5wxX39rcY8Jjy53GqzXDwGGWLpb2HI*EvmHrVYA5CUPMlSgIMi7Lm&new=1)
  > 摘要：11月12日，中国移动官方公布2020光纤配线架产品集采项目，本次采购光纤配线架产品共计约10.06万架、光纤总配线架产品共计约1.71万架，采购满足期为1年。已知的是，2019年中国移动并未集采光纤配线架，而20...
- ## [\[报告\]全球汽车软件行业展望(附33页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=ld4u-2RbmpsYrmnbvAjbEALYt2POo-aVl70JjH5OcIYsEmpkL5rwvOeNbjGSfEd4kOLYrv9areXiySwD1X*kdH41hPTAqrzgqWQa-g9xQzQI8krvheteJoowBCdz5gR7&new=1)
- > 软件定义汽车（Software Defined Vehicles, SDV），是由百度高级副总裁、自动驾驶事业部总经理王劲提出的概念。其核心思想是，决定未来汽车的是以人工智能为核心的软件技术，而不再是汽车的马力大小，是否真皮沙...
- ## [隔空开灯，你也可以](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=LygSiWtm-GD5wrk6345FYM-*LGa*TCUVigauALlRE5zOX6Z5WR0w7K8ZOS6HglAXPI4MX94OlCCmLPazEM1tm5DZM8JGD-b0iAodQa8ca4rtXRb8s4TOUB*BioUGEptA&new=1)
- > 提起人机交互技术，大家应该都不会陌生，例如可穿戴电子设备、远程医疗监控等。人机交互技术可以有效地将来自人体的各种信号“转换”为机器可以识别的信息，在智慧物联中有着重要应用。 湿度传感器：有效利用指...
- ## [微软「感谢你，Harry!」沈向洋23年后离职微软，继续职业生涯新篇章](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=XAMcYqmVBphnVnI-3COAhCqJZ7bzZh-dErGsTTnAWBzhKbHl5t05yzQs-fl1lYkencIoiMYjmkAsWXXDFHYnf9lSTl3WBqcED0LHakzL-5sdWXgKVI-*jSlvNXX1Sjqz&new=1)
- > 机器之心报道机器之心编辑部微软于今日宣布，该公司执行副总裁、人工智能和研究负责人、23 年的微软老兵沈向洋博士将于 2020 年 2 月 1 日正式离开微软，开启职业生涯新篇章，离职后将继续担任微软 CEO 纳德拉和...
- ## [重磅!5G时代四大关键趋势不可忽视!新一轮的财富风口也即将爆发](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=CNvZCvgXjI-RrhqOmMNJ8x0jjBQitiBX-OMUpjijschZTbfaOPQNWQvrH-IDUubBj*Cttp9nw61RO1XkgnxCK4BGjn0Q-*bt5klpEkm8QmmMtQqFQe*LjrJknjDn9996&new=1)
- > 2019年，我们正在以谨慎的态度进入5G的早期采用阶段。随着一些早期试点部署的开展，少数用户将能够在特定地区率先体验5G。在中国的网络运营商摩拳擦掌迎接5G时代之际，以下四大关键趋势不可忽视：趋势一：更强大...
- ## [众说纷纭，4G到底降速了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=6t1vr6b7q3IrJh-r85iM7md5n0yKtGK9hWPHFVN52qL7QzBggbgMyoSEQxTmCypP5*pbI4f8mU0khc0AtecmyWHH1i2DApvfV0WLIw5-nCOlKWyuasp*m-ING38EWMWb&new=1)
- > 今年很多用户反映4G的速度感觉变慢了，根据20多万人参与的投票结果显示，74.4%的用户认为网速变慢。大家普遍认为这是运营商的套路，对4G网络进行限速，这样的方式来“逼迫”用户升级网络，目的是为了加快5G网络...
- ## [突发!微软最强华人高管离职，曾统领AI业务，在职23年\[附本人回应\]](http://mp.weixin.qq.com/s?src=11&timestamp=1573704005&ver=1973&signature=kfb9ubSBlcoJ9XCWNWagLC3XjaYF23WpNEAVMpaihluE4*jE7Mx3xZqolYmHnVa59-uypWtFB0Q40l*Ifjm-b8E6Dyr*Zzhnm13x4URBjH5McHKnrkLWudP*FEJgyzz3&new=1)
- > 看点：微软EVP兼AI+研究部负责人沈向洋将在2020年2月正式离职，去向未明。智东西11月14日凌晨消息，刚刚，微软CEO纳德拉发送公司内部邮件称，微软集团执行副总裁、微软AI+研究部负责人沈向洋（Harry Shum）将在2...
 # IT 技术 
  ## [我花了10个小时，写出了这篇K8S架构解析](http://cloud.51cto.com/art/201911/605964.htm)
  > 我花了10个小时，写出了这篇K8S架构解析
@@ -112,56 +124,56 @@ K12&#25945;&#32946;&#21697;&#29260;&#8220;&#23569;&#24180;&#24471;&#21040;&#8221
  > 为什么每一位工程师都应该学习分析和编程技能？
  ## [如何用Entity Framework Core捕获审计数据](http://developer.51cto.com/art/201911/605919.htm)
  > 如何用Entity Framework Core捕获审计数据
- ## [如何利用ARP命令解决网络故障](http://netsecurity.51cto.com/art/201911/605968.htm)
- > 在计算机间通信的时候，计算机要知道目的计算机是谁(就像我们人交流一样，要知道对方是谁)，这中间需要涉及
- ## [APP 定位过于频繁，我用反射 + 动态代理揪出元凶](http://developer.51cto.com/art/201911/605967.htm)
- > 定位现在是很多 APP 最基本也不可或缺的能力之一，尤其是对打车、外卖之类的应用来说。但对定位的调用可不
- ## [如何使用cron任务在Linux中计划和自动化任务](http://os.51cto.com/art/201911/605966.htm)
- > cron 任务用于“自动执行的任务”，它有助于简化重复的、有时是乏味的任务的执行。cron 是一个守护进程，可
- ## [有 Bug 不会调试？这篇文章很详细](http://news.51cto.com/art/201911/605963.htm)
- > Debug 用来追踪代码的运行流程，通常在程序运行过程中出现异常，启用 Debug 模式可以分析定位异常发生的位
- ## [深入浅出的分析 Set集合](http://developer.51cto.com/art/201911/605965.htm)
- > 关于 Set 接口，在实际开发中，其实很少用到，但是如果你出去面试，它可能依然是一个绕不开的话题。
- ## [运维数据的统一治理问题是不是运维自动化的先行条件？](http://os.51cto.com/art/201911/605962.htm)
- > 大多数企业的运维都是基于多年的历史发展形成今天的局面，不同年代的不同格局和技术发展导致我们没办法进
- ## [数据传输用上5G，存储不能停在4G](http://stor.51cto.com/art/201911/605960.htm)
- > 凭借超大带宽和超快的传输速度，5G将为海量数据的传输提供便利，为“大块头”数据文件提供“闪送”服务。
- ## [5G、云计算、物联网与边缘计算的相辅相承](http://iot.51cto.com/art/201911/605958.htm)
- > 近日，工信部与三大运营商正式宣布启动5G业务，中国正式进入了5G商用时代。5G跟云计算是什么关系？5G时代商
- ## [如何模拟一次阿里双11秒杀场景的实现？程序员必看](http://database.51cto.com/art/201911/605956.htm)
- > 秒杀活动可以说在互联网上随处可见，从12306抢票，到聚划算抢购，我们生活的方方面面都可以看到秒杀的身影
- ## [如何在CentOS 8/RHEL 8上安装和配置Nagios Core](http://os.51cto.com/art/201911/605957.htm)
- > Nagios 是一个自由开源的网络和警报引擎，它用于监控各种设备，例如网络设备和网络中的服务器。它支持 Linu
+ ## [Windows10：如何对计算机屏幕上的内容进行屏幕截图](http://os.51cto.com/art/201911/605994.htm)
+ > 可以在桌面或应用程序窗口中进行屏幕截图（又称屏幕截图或屏幕抓取），为方便共享打开了许多大门：从在社交
+ ## [MySQL如何正确的使用索引](http://database.51cto.com/art/201911/605990.htm)
+ > 学习索引，主要是写出更快的sql，当我们写sql的时候，需要明确的知道sql为什么会走索引？为什么有些sql不走
+ ## [如果问你：一个TCP连接可以发多少个HTTP请求？你能答上来吗](http://developer.51cto.com/art/201911/605988.htm)
+ > 现代浏览器在与服务器建立了一个 TCP 连接后是否会在一个 HTTP 请求完成后断开？什么情况下会断开？
+ ## [终于有人把数据、信息、算法、统计、概率和数据挖掘都讲明白了！](http://developer.51cto.com/art/201911/605992.htm)
+ > 数据是什么?这几乎成为一个我们熟视无睹的问题。有不少朋友脑子里可能会直接冒出一个词“数字”――“数字
+ ## [本月你最值得关注的数据科学开源项目！](http://news.51cto.com/art/201911/605987.htm)
+ > 今天，和大家推荐6个优秀的开源的数据科学项目，对计算机视觉专家的需求每年都在稳步增长，作为一名数据科
+ ## [雄安新区建设资金区块链系统上线试运行](http://blockchain.51cto.com/art/201911/605985.htm)
+ > 近日，雄安新区区块链创新发展研讨会在雄安市民服务中心举行。河北省委常委、副省长，雄安新区党工委书记、
+ ## [一篇文章教你如何设计一个百万级的消息推送系统](http://news.51cto.com/art/201911/605983.htm)
+ > 先简单说下本次的主题，由于我最近做的是物联网相关的开发工作，其中就不免会遇到和设备的交互。最主要的工
+ ## [Android 编译不得不说的那些事儿](http://mobile.51cto.com/abased-605982.htm)
+ > 作为一名 Android 工程师，我们每天都会经历无数次编译。对于小项目来说，半分钟或者1，2分钟即可编译完成
+ ## [运行JavaScript代码片段的20种工具](http://developer.51cto.com/art/201911/605984.htm)
+ > 接触前端这些年也陆陆续续发现了一些不错的其他选择，再看下浏览器收藏夹，已经有20余种。下面我们使用20种
+ ## [CXO和不懂组织管理的主将都是滥竽充数-唐太宗与魏征漫谈组织](http://news.51cto.com/art/201911/605980.htm)
+ > 在过去一段时间里，我发现只要工作事项涉及跨部门、跨组织的，效率与效果都很差。人力资源部门对组织结构的
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
  ## [25 篇 Java 入门技术博文，送给正在自学的你](https://blog.csdn.net/qing_gee/article/details/102984677)
+ > 
+ ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
+ > 
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [程序员如何从初中级历练为高级开发者？](https://blog.csdn.net/csdnnews/article/details/99786672)
- > 程序员如何从初中级历练为高级开发者？
- ## [【pat乙级】数组元素循环右移问题](https://blog.csdn.net/qq_40315080/article/details/101385754)
- > 【pat乙级】数组元素循环右移问题
- ## [程序猿的 46 个瞬间](https://blog.csdn.net/qq449245884/article/details/102994291)
+ ## [动画：用动画给面试官解释 TCP 三次握手过程](https://blog.csdn.net/qq_36903042/article/details/102513465)
  > 
+ ## [花了 4 天，破解 UNIX 联合创始人 39 年前的密码！](https://blog.csdn.net/csdnnews/article/details/102548474)
+ > 花了 4 天，破解 UNIX 联合创始人 39 年前的密码！
  ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ > 
+ ## [这应该是把计算机网络五层模型讲的最好是文章了，看不懂你打我](https://blog.csdn.net/m0_37907797/article/details/102740903)
  > 
  ## [淘宝准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102994075)
  > 淘宝准点秒杀脚本
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ ## [【git命令小词典】git常用命令清单,涵盖大部分使用场景.](https://blog.csdn.net/qq_37210523/article/details/102609046)
+ > 【git命令小词典】git常用命令清单,涵盖大部分使用场景.
+ ## [100 美元一行代码，开源软件到底咋赚钱？](https://blog.csdn.net/csdnnews/article/details/102634100)
+ > 100 美元一行代码，开源软件到底咋赚钱？
+ ## [\[网络安全自学篇\] 二十五.Web安全学习路线及木马、病毒和防御初探](https://blog.csdn.net/Eastmount/article/details/103018495)
  > 
- ## [iPhone 11 引领芯片新革命？](https://blog.csdn.net/csdnnews/article/details/101048086)
- > iPhone 11 引领芯片新革命？
- ## [华为Lite OS的物联网攻略](https://blog.csdn.net/BEYONDMA/article/details/102987490)
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [Spring 框架之 AOP 原理剖析](https://blog.csdn.net/blogdevteam/article/details/103045864)
+ ## [操作系统——文件系统概述、文件逻辑地址、目录、物理地址](https://blog.csdn.net/songfei_dream/article/details/103048511)
  > 
- ## [【pat乙级】一元多项式求导](https://blog.csdn.net/qq_40315080/article/details/101473264)
- > 【pat乙级】一元多项式求导
- ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
- > 让程序员崩溃的瞬间（非程序员勿入）
  ## [90 后技术宅研发 Magi 一夜爆红，新一代知识化结构搜索新时代来了？](https://blog.csdn.net/csdnnews/article/details/103060442)
  > 整理 | 夕颜出品 | AI科技大本营（ID:rgznai100）11 月 7 日，微信群里突然炸了，大家似乎都在讨论一个叫做 Magi 的搜索引擎，据说搜索结果和现在的搜索引擎很不一样，能够输出以结构化知识呈现的结果。Magi 仿佛“一夜爆红”，访问量剧增，导致自 2012 年就不再更新...
  ## [知乎热议!学完 Python 之后，我的编程能力竟然退化了！](https://blog.csdn.net/csdnnews/article/details/103060447)
@@ -184,6 +196,8 @@ K12&#25945;&#32946;&#21697;&#29260;&#8220;&#23569;&#24180;&#24471;&#21040;&#8221
  > 从手机行业巨头到隐性元件供应商，九年的时间内诺基亚被迫放弃手机业务、裁员数千人、导致了数百万的经济损失。然而，尽管诺基亚发展的低潮期对芬兰来说是一个悲剧，但其所创造的“奥卢奇迹”，却似乎涅槃重生了。作者 |Natasha Frost译者 |苏本如，责编 | 郭芮出品 | CSDN（...
  ## [我有一辆机器人小车，怎么让它跑起来，还会避障、目标跟踪、路径规划？](https://blog.csdn.net/csdnnews/article/details/103046702)
  > 也许，你曾见过能灵活地绕开障碍物的它在桌子边缘“疯狂试探”的它它是谁？没错，它就是是英伟达推出的一款入门级人工智能小车——Jetbot ，估计对机器人，尤其是对车械感兴趣...
+ ## [杨元庆预测2025人工智能市场规模将超6万亿美元](http://www.lanjingtmt.com/news/detail/44902.shtml)
+ > 联想CEO杨元庆在联想2019创新科技大会上发表了开幕演讲，他表示，智能化变革能释放巨大效率红利，让社会服务公平高效，促进经济发展。
  ## [猎豹移动旗下智能服务机器人公司猎户星空获B轮融资，未透露金额](http://www.lanjingtmt.com/news/detail/44897.shtml)
  > 猎豹移动发布2019年第三季度财报后，其董事长兼CEO傅盛宣布，第三季度，猎户星空和外部投资者签署了一项B轮融资协议。与此同时，猎豹移动也将完全行使对猎户星空的购股期权。
  ## [微软全球执行副总裁沈向洋将于2020年正式离职](http://www.lanjingtmt.com/news/detail/44896.shtml)
@@ -195,80 +209,68 @@ K12&#25945;&#32946;&#21697;&#29260;&#8220;&#23569;&#24180;&#24471;&#21040;&#8221
  ## [微博用户账号莫名成刷量工具，流量困境之下急需新故事](http://www.lanjingtmt.com/news/detail/44893.shtml)
  > ​业内普遍认为，在当下的时间节点，微博所展现出的种种刷流量带来的问题，暴露出这款老牌社交产品在尝试突破瓶颈时所遇到的困境，此时的微博很有必要向外界讲述新的故事。
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
- > 北京车和家java开发工程师面试题总结
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
+ ## [python爬虫获取起点中文网人气排行Top100(快速入门,新手必备!)](https://blog.csdn.net/weixin_44318830/article/details/103023563)
+ > python爬虫获取起点中文网人气排行Top100(快速入门,新手必备!)
+ ## [如何利用python制作一个解压缩软件](https://blog.csdn.net/Woo_home/article/details/103012667)
+ > 
+ ## [python爬虫：bilibili弹幕爬取+词云生成](https://blog.csdn.net/johnchang0201/article/details/103004229)
+ > python爬虫：bilibili弹幕爬取+词云生成
+ ## [淘宝准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102994075)
+ > 淘宝准点秒杀脚本
+ ## [Python2寿命只剩一个月啦！还不快赶紧学起Python3酷炫到爆的新特性！](https://blog.csdn.net/weixin_43116910/article/details/103021237)
+ > 
+ ## [python面试基础知识(一)](https://blog.csdn.net/hanguofei/article/details/102987057)
+ > python面试基础知识(一)
+ ## [Python基础第二周--程序设计与数据结构](https://blog.csdn.net/weixin_44888486/article/details/103013815)
+ > Python基础第二周--程序设计与数据结构
+ ## [python----------爬取网页源代码](https://blog.csdn.net/XU441520/article/details/103028527)
+ > python----------爬取网页源代码
+ ## [用Python实现飞机大战](https://blog.csdn.net/qq_43726771/article/details/102935867)
+ > 用Python实现飞机大战
+ ## [正则表达式超详细理解](https://blog.csdn.net/weixin_43331684/article/details/102988442)
+ > 正则表达式超详细理解
+ ## [python3 自编线性回归（4种方法）](https://blog.csdn.net/mengjizhiyou/article/details/103043887)
+ > python3 自编线性回归（4种方法）
+ ## [《python爬爬乐》入门篇：结构类型操作指南](https://blog.csdn.net/xy229935/article/details/103027740)
+ > 《python爬爬乐》入门篇：结构类型操作指南
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [深度学习环境搭建及测试（windows10+anaconda+pytorch(cpu版)）](https://blog.csdn.net/weixin_45638486/article/details/103047361)
+ > 深度学习环境搭建及测试（windows10+anaconda+pytorch(cpu版)）
+ ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
+ > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
 # PM 
  ## [北京的互联网人，真的太难了！テ_デ](http://www.woshipm.com/active/3086550.html)
  > 在过去几年，时常有一些风口，这些风口曾经为北京的互联网科技从业人员划出了一条明确的就职轨迹：在大平台镀金，有一定工作经历后再进入风口的创业公司带团队晋升管理...
- ## [从文案和海报如何抓住用户心理？](http://www.woshipm.com/operate/3086757.html)
- > 笔者以两个实际工作案例来解析，从文案和海报两个方面，如何通过提升细节，提升最终效果。01“咨询量高达5万+的xx常见问题TOP5，这些常识又易被误解的问题，你一定要...
- ## [监管沙盒有局限，监管创新才是硬道理](http://www.woshipm.com/it/3086806.html)
- > 企业常说“拥抱监管不等于等待监管”，科技创新拽着监管走；但未来几年，或许只有“等待监管才算拥抱监管”。近日，河北雄安新区管委会改革发展局副局长朱忠文公开表示，...
- ## [社交产品出海：10亿美金的机会与掘金指南](http://www.woshipm.com/it/3086771.html)
- > 无论海内还是海外，社交始终是众多互联网公司趋之若鹜的领域。而社交出海更是带着无限未来与想象力。社交/社区是互联网行业中最迷人同时也是最难的商业模式，正因如此...
- ## [9块9，到底赚不赚钱？](http://www.woshipm.com/marketing/3087061.html)
- > 很多电商平台上会有九块九的商品，不仅只要九块九，还全国包邮。而这样的定价，会给商家带来盈利吗？你买过9.9元的产品吗？甚至更低，还全国包邮！我就买过许多9.9元...
- ## [互联网摩托行业产品竞调分析报告](http://www.woshipm.com/evaluating/3086312.html)
- > 部分地区禁摩令取消，传统的摩托车市场逐渐复苏。在互联网的场景下，摩托车行业将会有怎样的发展？一、行业分析1.1 市场概述截止2017年底，全国机车保有量为29836万...
- ## [四条“行动召唤”的基本设计原则，抓住用户注意力](http://www.woshipm.com/pd/3084453.html)
- > 通过简单的案例和分析，说明了“行动召唤”对转化率的重要价值，以及如何将其价值最大化。数字产品都在努力争取用户们有限的注意力，现代经济越来越多地围绕人类的注意...
- ## [阿里京东拼多多，论持久战](http://www.woshipm.com/it/3087050.html)
- > 双11后，三分天下，难有后来者。01今年的双11，过分精彩。阿里成交额达2684亿，依然保持强劲增长，得益于下沉组合拳（淘宝直播+淘宝特价版+聚划算+省钱专区），新买...
- ## [直播+营销，远不止是薇娅和李佳琦](http://www.woshipm.com/operate/3083397.html)
- > 品牌对于“品销合一”的需求从未如此强大，依靠底价hold住全场的基础操作或许可能在接下来一段时间内继续保持领先，但直播的想象力一定不会仅限于此。“在39号链接，（大...
- ## [对行车记录仪的一些思考](http://www.woshipm.com/pd/3084802.html)
- > 麻雀虽小五脏俱全，行车记录仪也是如此，看似小巧，其中功能不可小觑。本人距离上次发布文章已经有一年之久了，期间公司也换了一家，现在做ToB的行车记录仪。本篇文...
- ## [区块链与互联网的信息博弈](http://www.woshipm.com/blockchain/3087056.html)
- > 移动互联网开始衰退，区块链网络刚刚起航。01双11数据多么荣光依旧，也无法掩盖移动互联网的势衰倾向。如火如荼的5G大背景下，供应链溯源、资讯去中心化以及分散式...
- ## [经验越丰富的产品经理，越难找工作。](http://www.chanpin100.com/article/110020)
- > 十年经验的产品经理，比0经验的产品新人更难找工作
- ## [共享与人性——滴滴无法摆脱的束缚](http://www.chanpin100.com/article/110019)
- > 滴滴的恶在于：没有解决好滴滴过快的增长与过慢的应急处理机制建设之间的矛盾。
- ## [五个要点，助你应对需求变更！](http://www.chanpin100.com/article/110018)
- > 最近在研究需求分析专题，正好发一下自己对于需求变更的知识总结！
- ## [双十一被花式薅羊毛，亏损上千万不成问题](http://www.chanpin100.com/article/110017)
- > 双十一的第十一个年头，大家已经非常默契地自觉打开了双十一模式——抢红包找合伙人组队盖楼；眼巴巴看好各家淘宝店活动，开着比价网站拿出计算器算商品的优惠幅度；最后还要凌晨不睡觉，等在电脑前抢着给购物车里好不容易挑出来的便宜东西付钱。
- ## [青少儿英语赛道格局初定，存量博弈能靠“下沉市场”吗？](http://www.chanpin100.com/article/110016)
- > 青少儿英语教育行业在强需求驱动下保持着快速、稳定的增长。打造外教名师、引进正版教材、深耕课程体系……头部厂商们围绕各个维度积极巩固竞争优势，进入下半场的青少儿英语教育行业也呈现出更多新特点；未来，市场下沉带来的用户红利将成为行业新一轮增长的核心引擎。同时，布局AI和大数据助力个性化教育落地、围绕性价
- ## [App推广运营：聚合资讯类产品的复盘](http://www.chanpin100.com/article/110015)
- > 经手的一个不太成功的项目，亮点有限一直憋着没说，现在记录一下权当作业吧。具体哪个产品就不说名字了，基本就是复制趣头条，所以是个聚合资讯类产品。
- ## [你未能留住用户，可能是因为产品做得太好，又或者是和产品毫无关系](http://www.chanpin100.com/article/110014)
- > 为什么明明感觉很爽，却还是放弃了？是我的吃鸡游戏做得不够好吗？其实这是大部分人在过年时候的真实写照，如果一定要说存在差异，无非就是游戏的种类和接下来的娱乐项目。因为不是打牌就是看电视、不是看电影就是打PS4。
- ## [10W网红大战5亿网民，网红直播带货还能走多远？](http://www.chanpin100.com/article/110013)
- > 今年天猫双11预售首日，近10万名淘宝主播开播，近2万家品牌采用了直播销售。相比去年，淘宝直播已经引导增长超过15倍。直播业务已经能够为阿里巴巴创造每年1000亿GMV。
- ## [会工具懂方法，但分析还是没思路？这5点让你拥有数据分析思维](http://www.chanpin100.com/article/110012)
- > 掌握了很多数据分析的工具和方法，但面对问题还是不知道如何解决？你需要升级你的数据分析思维
- ## [招聘产品经理，面试官要准备什么？](http://www.chanpin100.com/article/110011)
- > 面试产品经理前，你需要知道面试官是怎样想的。
- ## [推荐一些可以提高你逻辑思维能力的好书](http://www.chanpin100.com/article/110010)
- > 产品经理看那些书籍可以锻炼逻辑思维？
+ ## [产品体验报告：西瓜直播](http://www.woshipm.com/evaluating/3086688.html)
+ > 本文作者对西瓜直播进行产品体验分析输出此份文档。该文档由几个板块构成：产品概述、需求分析和产品体验，供大家参考和学习。概述体验产品：西瓜直播（西瓜视频入...
+ ## [阿里“下沉”战术的背后思考](http://www.woshipm.com/it/3086903.html)
+ > 双十一活动打破了圈层，千人千面的运营完成了拉新转化，聚划算的高效连接了供需双方，这些共同构成了阿里的下沉战术。而同时阿里基于自己的这些资源，反作用于用户、生...
+ ## [为什么经验越丰富的产品经理，越难找到工作？](http://www.woshipm.com/zhichang/3084256.html)
+ > 本文作者从今年行业情况出发，对找工作难背后的原因进行了分析梳理，一起来看看。2019年，大家找工作都不容易，很多朋友被求职问题所困扰，有的潇洒裸辞，3个月后惶惶...
+ ## [做好数据分析的6步曲](http://www.woshipm.com/data-analysis/3088950.html)
+ > 本文将围绕实际的数据分析步骤，细化地来讲讲具体是如何进行分析。美国前邮政部长，美国百货商店之父，约翰·华纳梅克（John Wanamaker）感叹到：“我在广告上的投资有...
+ ## [从电视购物到直播电商，带货时代品牌营销何去何从？](http://www.woshipm.com/marketing/3085088.html)
+ > 直播电商只是那些初创品牌为了打开市场，判断消费者喜好，做消费人去细分，老品牌尝试数字化转型，或冲一波销量增长的权宜之计，最终品牌行为应该回归到品牌营销的基本...
+ ## [达尔文说：“剁手”是天生的](http://www.woshipm.com/it/3087936.html)
+ > 愿你为双11的满载而归而欢喜，愿你双11即便啥都没买也高兴。双11之后天天都在上演人间惨剧：还没等我后悔，快递就到了。无论是安慰自己“花掉的钱只是换一种方式陪你...
+ ## [通过快手直播电商，看“产业链+产业带”模式](http://www.woshipm.com/it/3085832.html)
+ > 本文试图从产业互联网的角度来深度剖析“直播电商”在“产业链+产业带”纵深发展过程中起到的重要推动作用，并结合“快手电商1106购物节”的落地实践，更清晰地理解“产业链+产...
+ ## [产品经理方法论：如何进行需求定义？](http://www.woshipm.com/pmd/3076507.html)
+ > 项目需求需要把握项目整体的方向和宏观的需求，本文作者从自己的实战经验出发，结合实际案例，对项目需求进行分析梳理，并记录了自己的相关思考，与大家分享。项目从...
+ ## [业务中台实战：需要怎样的产品经理？](http://www.woshipm.com/pmd/2621657.html)
+ > 本文将根据笔者所做项目为例分析，业务中台需要产品经理具备何种能力。中台，最近因2019腾讯全球数字生态大会再次被大家讨论的火热。众所周知，阿里是国内最先实施...
+ ## [互联网巨头纷纷聚焦校园社交，不谋而合挖微信、QQ的“墙角”？](http://www.chanpin100.com/article/110028)
+ > 巨头们都在搞校园社交，能否从微信QQ虎口夺食？
+ ## [产品经理如何提升自己的市场价值呢？](http://www.chanpin100.com/article/110025)
+ > 通过分析冰山模型各个要素的投入产出比，说明如何才能最大化的提高我们的市场价值。
+ ## [产品人：切勿深居宫中，多体察民情、多躬亲、多罪己！！！](http://www.chanpin100.com/article/110024)
+ > 身为产品人，不能一直深居宫中，要多思考用户，多成为用户。
+ ## [那些刷屏的9元微信群课程，值不值得买？](http://www.chanpin100.com/article/110023)
+ > 不知道你最近会不会有这种感觉。经常关注的大V又发新推文了，这次的标题依然很吸引人，不看有可能会吃亏，手指一点，滑到最下，发现这是一则广告。
+ ## [面试产品经理，你要准备什么？](http://www.chanpin100.com/article/110022)
+ > 知道这些，大幅提升你的面试通过率。
+ ## [行业热点｜微信上线“群接龙”新玩法，设计中有哪些类似功能？](http://www.chanpin100.com/article/110021)
+ > 微信群接龙功能，通过直接生成可输入的表单，简化了用户的操作流程，省略了重复的操作步骤。在一些设计工具中，同样有着类似的实用功能~
 
     
