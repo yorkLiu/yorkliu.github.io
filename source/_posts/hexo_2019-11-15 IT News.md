@@ -1,7 +1,7 @@
 ---
 title: 2019-11-15 IT News
 copyright: true
-date: 2019-11-15 10:00:50
+date: 2019-11-15 12:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -76,60 +76,64 @@ IoT&#20844;&#21496;&#8221;&#32511;&#31859;&#32852;&#21019;&#8220;&#23436;&#25104
  > 选择AWS、Azure或Google云平台的10个挑剔理由
  ## [纵观十大区块链平台，从中选择一个最合适的！](http://blockchain.51cto.com/art/201911/606007.htm)
  > 纵观十大区块链平台，从中选择一个最合适的！
+ ## [程序员的自我救赎，使用Python开发性格分析工具](http://developer.51cto.com/art/201911/606005.htm)
+ > 程序员的自我救赎，使用Python开发性格分析工具
  ## [我花了10个小时，写出了这篇K8S架构解析](http://cloud.51cto.com/art/201911/605964.htm)
  > 我花了10个小时，写出了这篇K8S架构解析
  ## [免费在线制图神器！不上水印支持中文版，GitHub标星已破1万2](http://news.51cto.com/art/201911/605954.htm)
  > 免费在线制图神器！不上水印支持中文版，GitHub标星已破1万2
  ## [九大高效的前端测试工具与框架](http://developer.51cto.com/art/201911/605856.htm)
  > 九大高效的前端测试工具与框架
- ## [2019年臭名昭著的勒索软件，网络钓鱼和僵尸网络](http://netsecurity.51cto.com/art/201911/605941.htm)
- > 2019年臭名昭著的勒索软件，网络钓鱼和僵尸网络
- ## [IT编程开发十几年从码农到高管者给年轻人的建议](http://news.51cto.com/art/201911/606025.htm)
- > 本人生在农村普通农民家庭，经过努力总算走出了大山，考上了沿海某重点大学软件工程专业。自2005年毕业以来
- ## [腾讯正式开源图计算框架Plato，十亿级节点图计算进入分钟级时代](http://news.51cto.com/art/201911/606021.htm)
- > 腾讯开源再次迎来重磅项目，14日，腾讯正式宣布开源高性能图计算框架Plato，这是在短短一周之内，开源的第
- ## [将OpenJDK迁移到GitHub，这个主意不错！](http://zhuanlan.51cto.com/art/201911/606019.htm)
- > 这个月的OpenJDK社区出现了一个新的JEP(JDK Enhancement Proposal) ， 即JEP 369 ： 把OpenJDK的源代码迁移
- ## [GitHub终于推出手机版App，方便开发者与用户互动](http://news.51cto.com/art/201911/606022.htm)
- > GitHub在Universal年度大会上发布了数项重要更新，GitHub移动版App今天正式推出，另外之前代码搜索、打赏功
- ## [被鄙视的币圈走向消亡？区块链进入生态“卡位战”时代](http://news.51cto.com/art/201911/606020.htm)
- > 每一次历史性的变革都会孕育着巨大的创新和市场机会，由此就会带来行业的升级迭代。但创新能否成功的关键是
- ## [MySQL锁会不会，你就差看一看咯](http://database.51cto.com/art/201911/606018.htm)
- > 本文章向大家介绍MySQL锁详细讲解，包括数据库锁基本知识、表锁、表读锁、表写锁、行锁、MVCC、事务的隔离
- ## [阿里程序员，排查Java问题常用的工具单](http://news.51cto.com/art/201911/606023.htm)
- > 平时的工作中经常碰到很多疑难问题的处理，在解决问题的同时，有一些工具起到了相当大的作用，在此书写下来
- ## [红遍全网的SD-WAN，到底是什么？](http://network.51cto.com/art/201911/606017.htm)
- > 作为一个热门概念，SD-WAN近年以来频繁地出现在我们的视野当中。很多人说，它是未来发展潜力的通信技术之一
+ ## [物联网发展的三大技术方向！了解了它们，下一个十年不再慌张！](http://iot.51cto.com/art/201911/606039.htm)
+ > 自1999年，自从Kevin Ashton首次提出物联网以来，物联网发展快速。据研究机构IDC公司预测，到2020年，物联
+ ## [看美国国防部如何提高网络空间安全](http://zhuanlan.51cto.com/art/201911/606038.htm)
+ > 全球威胁格局正在不断演变，通过数字现代化战略来应对大国的竞争成了各国国防部的当务之急。
+ ## [企业采用托管数据中心躲不开的那些坑！](http://server.51cto.com/Datacenter-606035.htm)
+ > 无论是哪种情况，任何一家企业在面临有关扩展IT运营优秀方式的问题时，都需要决定是要建立新的内部部署数据
+ ## [企业是否应该在云原生平台上全力以赴?](http://cloud.51cto.com/art/201911/606034.htm)
+ > 企业使用特定平台的专用存储、计算、数据库等功能,这听起来很理想，但可能意味着需要运行双重系统。
+ ## [MySQL中的SQL优化建议那么多，该如何有的放矢](http://database.51cto.com/art/201911/606036.htm)
+ > 今天早上看到同事的一个优化需求，优化的时间其实不多，但是对于这条SQL的优化思考了很多，希望有一些参考
+ ## [电脑屏幕太小不够用？这有妙招！](http://developer.51cto.com/art/201911/606033.htm)
+ > 今天我们来介绍 Vim 的分屏功能。为什么需要分屏功能？其实需求场合有很多。比如，我现在屏幕很大，但我们
+ ## [实现最简单的分布式任务调度框架](http://developer.51cto.com/art/201911/606031.htm)
+ > 前段时间，公司要改造现有的单节点调度为分布式任务调度，然后就研究了目前市面上主流的开源分布式任务调度
+ ## [关于 HITP 代理，你还需要了解这些，不然面试你是过不去的！](http://developer.51cto.com/art/201911/606030.htm)
+ > 百度百科是这么解释的：代理客户机的 HTTP 访问，主要代理浏览器访问网页，它的端口一般为80、8080、3128等
+ ## [比失业更严重：人工智能的新进展](http://ai.51cto.com/art/201911/606027.htm)
+ > 刘慈欣有一部短篇小说，叫做《镜子》，讲了这么一个故事：一位气象局的软件工程师，意外用超弦计算机开发出
+ ## [认知智能加速落地 新一代智能搜索应运而生](http://ai.51cto.com/art/201911/606029.htm)
+ > 目前，随着人工智能技术的快速发展，得益于自然语言理解、知识图谱等技术的支撑，传统的信息检索正在向新一
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [Alpine容器中运行Karma的测试用例](https://blog.csdn.net/liumiaocn/article/details/102904459)
- > 
- ## [​哪些开发问题最让程序员“头秃”？我们分析了Stack Overflow的11000个问题](https://blog.csdn.net/csdnnews/article/details/102634094)
- > ​哪些开发问题最让程序员“头秃”？我们分析了Stack Overflow的11000个问题
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [京东准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102993939)
- > 京东准点秒杀脚本
- ## [shell一文入门通](https://blog.csdn.net/hebtu666/article/details/103049768)
- > 
- ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
  ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
  > 
- ## [11月14日科技资讯|微软执行副总裁沈向洋离职；马云回应双十一数据作假；GitHub 官方终于出 App 了！ | 极客头条](https://blog.csdn.net/weixin_39786569/article/details/103062448)
+ ## [三年一跳槽、拒绝“唯学历”，火速 Get 这份程序员求生指南！](https://blog.csdn.net/csdnnews/article/details/102617768)
+ > 三年一跳槽、拒绝“唯学历”，火速 Get 这份程序员求生指南！
+ ## [shell一文入门通](https://blog.csdn.net/hebtu666/article/details/103049768)
  > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [synchronized使用和原理全解](https://blog.csdn.net/hebtu666/article/details/103057476)
- > 
+ ## [代码英雄之云间战争：寡头时代，路在何方？](https://blog.csdn.net/csdnnews/article/details/100550178)
+ > 代码英雄之云间战争：寡头时代，路在何方？
  ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
  > 
- ## [网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
- > 网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
+ ## [算符优先系列之(一)Firstvt和Lastvt集](https://blog.csdn.net/weixin_44141870/article/details/103074555)
+ > 算符优先系列之(一)Firstvt和Lastvt集
+ ## [Vue数据双向绑定原理（vue2向vue3的过渡）](https://blog.csdn.net/qq_39045645/article/details/103049776)
+ > 
  ## [分享靠写代码赚钱的一些门路](https://blog.csdn.net/lantian_123/article/details/101488841)
  > 分享靠写代码赚钱的一些门路
  ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
  > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
+ ## [云栖大会上阿里巴巴没说的数字经济逻辑](https://blog.csdn.net/csdnnews/article/details/101969897)
+ > 云栖大会上阿里巴巴没说的数字经济逻辑
+ ## [500行代码，教你用python写个微信飞机大战](https://blog.csdn.net/u012365828/article/details/102559913)
+ > 500行代码，教你用python写个微信飞机大战
  ## [谈谈能带来高薪报酬的软件技术](https://blog.csdn.net/csdnnews/article/details/103078003)
  > 在职业发展初期，薪水并不一定是最重要的因素，但它是你付出的回报，并且反映出雇主对特定技能的重视/认可程度。作者 |Fahim ul Haq译者 |风车云马，责编 | 刘静出品 | CSDN（ID：CSDNnews）以下为译文：作为一名软件开发人员，无论是经验丰富...
  ## [一场高质量的技术盛会怎样炼成？「2019中国大数据技术大会」蓄势待发，还不快上车？...](https://blog.csdn.net/csdnnews/article/details/103078012)
@@ -150,64 +154,70 @@ IoT&#20844;&#21496;&#8221;&#32511;&#31859;&#32852;&#21019;&#8220;&#23436;&#25104
  > 作者 | Google团队译者 | 凯隐编辑 | Jane出品 | AI科技大本营（ID：rgznai100）本文中，Google 团队提出了一种文本语音合成（text to speech）神经系统，能通过少量样本学习到多个不同说话者（speaker）的语音特征，并合成他们的讲话音...
  ## [新手入坑自动驾驶，我是这么学习的......](https://blog.csdn.net/csdnnews/article/details/103078008)
  > 它是谁？没错，它就是是英伟达推出的一款入门级人工智能小车——Jetbot ，估计对机器人，尤其是对车械感兴趣的朋友们一定对它不陌生。组装完成后能够通过摄像头自主识别障碍物...
+ ## [朱文佳担任今日头条CEO，此前曾被曝出直接向张一鸣汇报](http://www.lanjingtmt.com/news/detail/44915.shtml)
+ > 据媒体报道，在今日头条生机大会上，朱文佳以今日头条CEO的身份进行开场演讲。
+ ## [中移动副总裁简勤：中移动5G终端超过百万，预约用户1000万](http://www.lanjingtmt.com/news/detail/44914.shtml)
+ > 中移动副总裁简勤表示，作为5G建设主力军，在5G发展中实现了领跑，中移动已建成5G基站近5万个，实现了50个城市商用，销售了百万部5G终端，5G预约客户数超1000万。
+ ## [阿里CEO张勇：赴港上市是阿里的新起点](http://www.lanjingtmt.com/news/detail/44913.shtml)
+ > 阿里董事局主席兼首席执行官张勇今日发布致投资者的信，他表示，阿里启动了在香港的上市，这是阿里一个新的起点。为实现战略目标，阿里会继续坚定推行三大战略：全球化、内需、大数据和云计算。
+ ## [杨杰：中移动将聚焦14个重点行业打造100个5G应用示范](http://www.lanjingtmt.com/news/detail/44912.shtml)
+ > 在中国移动合作伙伴大会上，中移动董事长杨杰表示，进入5G时代，中移动充分借鉴4G运营成功经验，实施“5G+”计划，统筹规划、周密部署、积极推动5G发展各项工作。
+ ## [阿里赴港上市进展：拟以每股不超过188港元发售5亿股](http://www.lanjingtmt.com/news/detail/44911.shtml)
+ > 阿里将于11月15日至11月20日招股，拟发行5亿股普通股新股；其中包括香港发售股份数目1250万股及国际发售股份数目4.875亿股，公开发售价将不超过每股香港发售股份188港元。
  ## [虎牙押注小程序与虚拟主播，能否找到下一增长点](http://www.lanjingtmt.com/news/detail/44910.shtml)
  > 从行业的竞争情况来看，虎牙早已不安于现状：过去，虎牙在与斗鱼差异化竞争时强调移动端，但如今在手机上它所面对的除了斗鱼，还有抖音快手。再者，PC端围绕打赏所延伸出的玩法创新近些年也已
 # 人工智能 
- ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
+ ## [web 前端性能优化汇总](https://blog.csdn.net/qq_34927733/article/details/103051612)
+ > web 前端性能优化汇总
+ ## [JS贪吃蛇小游戏](https://blog.csdn.net/weixin_40693643/article/details/103048198)
+ > JS贪吃蛇小游戏
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [UE4中使用Sqlite数据库操作步骤](https://blog.csdn.net/object__/article/details/102785739)
- > UE4中使用Sqlite数据库操作步骤
- ## [华为Lite OS的物联网攻略](https://blog.csdn.net/BEYONDMA/article/details/102987490)
+ ## [前端开发学习常用网站网址及介绍（都是免费的）](https://blog.csdn.net/qq_35713752/article/details/103036084)
+ > 前端开发学习常用网站网址及介绍（都是免费的）
+ ## [新手前端HTML笔记 知识点(2)](https://blog.csdn.net/IDtangjiasanshao/article/details/103035369)
+ > 新手前端HTML笔记 知识点(2)
+ ## [京东准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102993939)
+ > 京东准点秒杀脚本
+ ## [24 - JavaScript 事件对象Event和冒泡](https://blog.csdn.net/Yuanriver/article/details/103051709)
+ > 24 - JavaScript 事件对象Event和冒泡
+ ## [提前送给双十一单身猿们的表白神器](https://blog.csdn.net/weixin_44560813/article/details/102956248)
+ > 提前送给双十一单身猿们的表白神器
+ ## [html入门基础笔记(简单实用)](https://blog.csdn.net/weixin_44490662/article/details/103023351)
+ > html入门基础笔记(简单实用)
+ ## [html基础总结](https://blog.csdn.net/weixin_43745003/article/details/103063481)
+ > html基础总结
+ ## [递归](https://blog.csdn.net/IT_Mr_wu/article/details/103064755)
+ > 递归
+ ## [Vue数据双向绑定原理（vue2向vue3的过渡）](https://blog.csdn.net/qq_39045645/article/details/103049776)
  > 
- ## [手把手教你打造自己的4G数传模块](https://blog.csdn.net/weixin_43053387/article/details/103026843)
- > 手把手教你打造自己的4G数传模块
- ## [NB-IoT模组低功耗设计:DRX、eDRX和PSM](https://blog.csdn.net/m0_38106923/article/details/103042112)
+ ## [js知识点汇总](https://blog.csdn.net/hebtu666/article/details/102886995)
  > 
- ## [SAE1939-1 用于公路设备的控制及通信网络推荐操作规程](https://blog.csdn.net/weixin_38931082/article/details/103024677)
- > SAE1939-1 用于公路设备的控制及通信网络推荐操作规程
- ## [Ubuntu14.04下搭建esp32与esp8266共存的编译环境](https://blog.csdn.net/ll2549/article/details/103028288)
- > Ubuntu14.04下搭建esp32与esp8266共存的编译环境
- ## [CoAP和MQTT介绍和对比](https://blog.csdn.net/jxzdsw/article/details/103043190)
- > CoAP和MQTT介绍和对比
- ## [stm32 按键控制灯（使用固件库）](https://blog.csdn.net/qq_44885018/article/details/103050388)
- > stm32 按键控制灯（使用固件库）
- ## [java及opencv实现调用本地摄像头、网络摄像头完成人脸检测、人脸收集、人脸识别、性别识别](https://blog.csdn.net/yuejie2/article/details/89486945)
- > java及opencv实现调用本地摄像头、网络摄像头完成人脸检测、人脸收集、人脸识别、性别识别
- ## [铅酸蓄电池IEC60896安全标准测试项目解析](https://blog.csdn.net/weixin_45874693/article/details/103050294)
- > 铅酸蓄电池IEC60896安全标准测试项目解析
- ## [P2822 \[NOIP2016\]组合数问题](https://blog.csdn.net/qq_42723595/article/details/103021595)
- > P2822 \[NOIP2016\]组合数问题
- ## [功率放大器匹配简略](https://blog.csdn.net/Micro_ET/article/details/103058069)
- > 功率放大器匹配简略
- ## [MIUI 11](https://blog.csdn.net/cloudqiu/article/details/103058292)
- > MIUI 11
- ## [一种基于STM32F1 MCU的增量型编码器测速的方法](https://blog.csdn.net/Terrys0518/article/details/103021628)
- > 一种基于STM32F1 MCU的增量型编码器测速的方法
+ ## [Nginx 静态资源访问配置](https://blog.csdn.net/sunnyzyq/article/details/103063857)
+ > 
+ ## [Jmeter性能测试](https://blog.csdn.net/weixin_44954642/article/details/103054387)
+ > Jmeter性能测试
 # PM 
- ## [硅谷增长黑客实战手册：如何识别最有价值客户群？](http://www.woshipm.com/it/3088921.html)
- > 本文为我们介绍了为什么要梳理最有价值客户群？以及如何进行梳理的流程步骤？此文为《硅谷增长黑客实战手册》 第一章 细分市场1.1 识别最有价值客户群如果你在一家处...
- ## [数据分析常见指标及影响因素](http://www.woshipm.com/data-analysis/3090464.html)
- > 产品经理需要掌握一定数据分析能力，这里持续总结日常工作中用到的数据分析方法，本篇先简单聊一下数据指标的应用。几种通用型数据指标无论是对于什么样的产品，我认...
- ## [线下课程 | 我小小运营菜鸟，老板突然要我负责运营项目，怎么办？](http://www.woshipm.com/active/3043749.html)
- > 随着用户量的增加，老板逐渐意识到，团队中需要有运营这个角色，但是没有沉淀运营经验，新人该如何做呢？从客服到运营，也是一脸蒙圈杉杉在客服部工作了6个月，由于...
- ## [《跨界联名营销指南》](http://www.woshipm.com/marketing/3090634.html)
- > 当一个文化符号还无法诠释一种生活方式或者再现一种综合消费体验时，就需要几种文化符号联合起来进行诠释和再现，而这些文化符号的载体，就是不同的品牌。前不久的优...
- ## [详解交易型电商/内容型电商中的消费者行为差异](http://www.woshipm.com/it/3085494.html)
- > 本文列举了交易型电商与内容型电商的对比，以及他们的消费者交易行为的四大区别。No1  ：单独评估vs联合评估消费者看到一个产品的时候，有两种典型场景：￼在内容电...
- ## [2013年的时候，张一鸣在想什么？](http://www.woshipm.com/it/3088761.html)
- > 2013年的时候，今日头条以为只能做成新媒体。前两天凑巧拿到了一份今日头条2012年-2013年期间B轮融资的BP，看了一遍发现亮点果然不少。熟悉头条的朋友，应该知道B轮...
- ## [YouTube揭秘：5秒广告远比120秒赚得多](http://www.woshipm.com/marketing/3088306.html)
- > 爱奇艺、优酷、腾讯视频，谁的片头广告最长？上个周末，打开某艺正准备看部电影，显示 Adblock 误伤了视频源不能正常播放。关掉插件，接踵而来的是整整 5 段、120 S的...
- ## [B端渠道运营的闭环分析：流量思维是关键](http://www.woshipm.com/operate/3084303.html)
- > 产业互联网正发力B端下沉市场，B端渠道运营首要解决的就是获客问题，关键在于打破流量壁垒。流量本身解决的就是获客问题。一方面可以利用流量思维，来提高企业的获客...
- ## [预约挂号功能是如何实现的？ 统一号源池是重点！](http://www.woshipm.com/pd/3089207.html)
- > 本文梳理了预约挂号功能如何实现的以及核心功能解析。互联网医疗产品经理，与纯互联网的产品经理有很大差异，因为除了必须了解互联网之外，还必须深入地了解就医流程...
- ## [蔚来的困境，或源于错误的消费预期](http://www.woshipm.com/it/3088109.html)
- > 笔者通过层层分析，认为蔚来的困境50%来源于为建立了错误的消费预期，并结合这点原因给出了自己的思考与建议。01巨额亏损、销量不佳、CFO离职、股价低迷……造车新势力...
- ## [存量时代的会员体系升维运营](http://www.woshipm.com/operate/3084955.html)
- > 存量时代，会员体系还是要做服务型会员权益，提升核心竞争力，回归效率的提升。流量枯竭，存量用户运营拼多多或许是流量红利时代的最后一个电商机会，往后的电商就是...
- ## [7种定义方法，应对你的设计挑战](http://www.woshipm.com/pd/3088588.html)
- > 本文介绍了7种定义方法，他们能帮助你讲述正确的故事，映射和挖掘用户的想法和需求，构建角色并将其沉浸到场景和故事中。你已经从启发性的共情研究活动中收集了成堆的...
+ ## [一款好的产品，有哪些底层逻辑？](http://www.woshipm.com/pmd/3091404.html)
+ > 什么样的产品是一个好的产品？好的产品有哪些底层逻辑？文章对什么是好的产品进行了分析梳理并总结，一起来看看~一、问题的抛出在北大创业营扬州数字经济班课堂上，...
+ ## [网易严选体验报告：好生活，没那么贵](http://www.woshipm.com/evaluating/3091444.html)
+ > 笔者对网易严选进行了多个层面的体验分析，就体现“性价比”和“优质生活商品”两个产品关键词，并给出了相关建议。本文将从以下几个方面进行分析：产品定位市场分析...
+ ## [关于滴滴顺风车的安全策略，我有几点思考](http://www.woshipm.com/pd/3090317.html)
+ > 本文作者从产品经理的角度出发，对滴滴顺风车安全策略方面提出了自己的思考并进行了分析总结，与大家分享。滴滴顺风车公布新试运营方案后，引起了各界全民大讨论，抛...
+ ## [实例解析：互联网的12种黑暗设计](http://www.woshipm.com/pd/3087492.html)
+ > 用户体验设计是一门创造独特奇妙体验的学问，但设计的产出并不都是美好而阳光的。即便是本质上亲和用户的设计产业也会有黑暗的一面，而且这些黑暗的充满欺骗性的设计手...
+ ## [沙子掺不进了，下沉市场得加水](http://www.woshipm.com/it/3091318.html)
+ > “挤海绵”形容下沉市场还不形象，在一个放满石头的杯子里掺沙子、加水才更精确。国外媒体对双十一这种中国消费节日时刻保持着警惕。去年纽约时报中文网对双十一的评价...
+ ## [Uber如何利用设计心理学来完善用户体验？](http://www.woshipm.com/pd/3084398.html)
+ > 利用峰终定理，优步致力于解决客户最大的痛点，不断优化客户体验优步运用科学解决了他们最大的痛点。我认为优步与众不同，此前没有可以借鉴的模式。——优步创始人特拉...
+ ## [腾讯微信九宫格迎来新住客——腾讯健康](http://www.woshipm.com/operate/3089153.html)
+ > 微信可以无缝地导入个人实名身份、支付、信用、社交网络等安全可信的网络公共设施，九宫格则为“腾讯健康”提供强有力的了流量获取渠道。去年9月，腾讯调整了组织架构，...
+ ## [那些 “不太聪明” 的有趣商业策略玩法！](http://www.woshipm.com/marketing/3091097.html)
+ > 小孩才企图说服客户，大人都在用策略。商业策略不是标准化的产物，营销运营更没有完美解决方案。但这个行业有一个很有趣的现象，我们经常会看到一些看起来 “不太聪明”...
+ ## [用户增长前置，突破用户增长的怪圈](http://www.woshipm.com/marketing/3088531.html)
+ > 要实现产品持续健康的增长，必须在进行具体的增长行为之前就要思考增长。我们常常看到很多产品在短时间内获得了不错的增长，但是用户又很快地流失了，最后产品也死亡...
+ ## [从阿里的2684亿双11战绩，看社交电商的发展机会](http://www.woshipm.com/it/3089183.html)
+ > 本文从三个维度分析了社交电商的发展历程以及盈利模式的探索。刚刚过去的双11，天猫、京东、苏宁等传统电商平台纷纷亮出了自己的成绩单，阿里以2684亿再次刷新了这...
  ## [互联网巨头纷纷聚焦校园社交，不谋而合挖微信、QQ的“墙角”？](http://www.chanpin100.com/article/110028)
  > 巨头们都在搞校园社交，能否从微信QQ虎口夺食？
  ## [产品经理如何提升自己的市场价值呢？](http://www.chanpin100.com/article/110025)
