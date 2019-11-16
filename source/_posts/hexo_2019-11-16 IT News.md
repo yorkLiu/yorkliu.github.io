@@ -1,11 +1,13 @@
 ---
 title: 2019-11-16 IT News
 copyright: true
-date: 2019-11-16 12:01:07
+date: 2019-11-16 17:01:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 技术 
+ ## [打造技术管理者的高端交流圈，LeaTech全球CTO领导力峰会重磅登场!](http://network.51cto.com/art/201911/606090.htm)
+ > 打造技术管理者的高端交流圈，LeaTech全球CTO领导力峰会重磅登场!
  ## [也许，这样理解OAuth原理更容易！](http://network.51cto.com/art/201911/606024.htm)
  > 也许，这样理解OAuth原理更容易！
  ## [API安全的发展趋势展望](http://netsecurity.51cto.com/art/201911/606016.htm)
@@ -20,38 +22,36 @@ categories: IT NEWS
  > 我花了10个小时，写出了这篇K8S架构解析
  ## [免费在线制图神器！不上水印支持中文版，GitHub标星已破1万2](http://news.51cto.com/art/201911/605954.htm)
  > 免费在线制图神器！不上水印支持中文版，GitHub标星已破1万2
- ## [九大高效的前端测试工具与框架](http://developer.51cto.com/art/201911/605856.htm)
- > 九大高效的前端测试工具与框架
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
  ## [25 篇 Java 入门技术博文，送给正在自学的你](https://blog.csdn.net/qing_gee/article/details/102984677)
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
  ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
  > 
+ ## [java学习路线导航【教学视频+博客+书籍整理】](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > java学习路线导航【教学视频+博客+书籍整理】
  ## [羞，Java 字符串拼接竟然有这么多姿势](https://blog.csdn.net/qing_gee/article/details/103060599)
- > 
- ## [如何利用python制作一个解压缩软件](https://blog.csdn.net/Woo_home/article/details/103012667)
  > 
  ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
  > 
+ ## [数据库优化 - 实例优化](https://blog.csdn.net/jianzhang11/article/details/102739839)
+ > 数据库优化 - 实例优化
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [SpringBoot打成war包在tomcat或wildfly下运行](https://blog.csdn.net/wo541075754/article/details/103066870)
+ ## [这些技术轮子，让监控落地成为现实！](https://blog.csdn.net/javaforwork/article/details/103021352)
  > 
- ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
- > YouTube排名第一的励志英文演讲《Dream(梦想)》
- ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
+ ## [synchronized使用和原理全解](https://blog.csdn.net/hebtu666/article/details/103057476)
  > 
- ## [二叉树（从建树、遍历到存储）Java](https://blog.csdn.net/dabusiGin/article/details/102785510)
- > 二叉树（从建树、遍历到存储）Java
- ## [吐血推荐珍藏的Visual Studio Code插件](https://blog.csdn.net/K_Ohaha/article/details/103040607)
+ ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
  > 
- ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
- > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
+ ## [国内供应链市场达百万亿，顺丰DHL如何用数据如何撬动这块“大蛋糕？”](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/101196646)
+ > 国内供应链市场达百万亿，顺丰DHL如何用数据如何撬动这块“大蛋糕？”
+ ## [【记录】一次项目架构的设计](https://blog.csdn.net/qq_42322103/article/details/103053369)
+ > 
+ ## [Nginx 下载安装与配置](https://blog.csdn.net/sunnyzyq/article/details/103042622)
+ > 
  ## [中国云市场生变：华为云 Q2 份额超 AWS，IaaS+PaaS 迎来整体增长](https://blog.csdn.net/csdnnews/article/details/103094603)
  > 云计算成为显学，云厂商成为科技舞台上的绝对主角。11月7日，IDC再发《中国公有云服务市场（2019上半年）跟踪》报告。这一次的报告显然更加引人关注，不仅因为中国云市场挑...
  ## [CCTV 报道深圳高交会上的物联网城市应急感知网络](https://blog.csdn.net/csdnnews/article/details/103086313)
@@ -69,37 +69,43 @@ categories: IT NEWS
  ## [Chronicle 已死，凶手是谷歌！](https://blog.csdn.net/csdnnews/article/details/103083090)
  > Chronicle，一家属于谷歌的网络安全的初创公司，它本应彻底颠覆整个行业，如今却正在逐渐崩溃。作者 |Lorenzo Franceschi-Bicchierai，Joseph Cox译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：2018年初，谷歌的母公司.
 # 人工智能 
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
- ## [傅里叶变换  一维快速傅里叶变换（快速的一维离散傅里叶变换、分治法）](https://blog.csdn.net/qq_36511401/article/details/102969124)
- > 傅里叶变换  一维快速傅里叶变换（快速的一维离散傅里叶变换、分治法）
- ## [idea 2019.2 版本的破 解（亲测有用，(^.^)）](https://blog.csdn.net/lswaone/article/details/103049375)
- > idea 2019.2 版本的破 解（亲测有用，(^.^)）
- ## [Qt仿腾讯视频简易播放器 【源码开源】](https://blog.csdn.net/ly305750665/article/details/103055551)
- > Qt仿腾讯视频简易播放器 【源码开源】
- ## [简谈C语言中的复数](https://blog.csdn.net/eclipse9527/article/details/103041829)
- > 简谈C语言中的复数
- ## [Django第一周第三天](https://blog.csdn.net/weixin_43495473/article/details/103065815)
- > Django第一周第三天
- ## [嵌入式调试时间戳](https://blog.csdn.net/qq_33901011/article/details/103069817)
- > 嵌入式调试时间戳
- ## [基于Matlab在线式三维还原及其非接触测量（一）](https://blog.csdn.net/qq_42571003/article/details/103054083)
- > 基于Matlab在线式三维还原及其非接触测量（一）
- ## ["regex.h"的基本使用](https://blog.csdn.net/xiongzixun/article/details/103070606)
- > &quot;regex.h&quot;的基本使用
- ## [简单的二维数组相加](https://blog.csdn.net/qq_45846870/article/details/103057025)
- > 简单的二维数组相加
- ## [C 将DataGridView中的数据导入到Csv文件中](https://blog.csdn.net/weixin_44713908/article/details/103074447)
- > C 将DataGridView中的数据导入到Csv文件中
- ## [MacOS High Sierra（10.13.6）上安装xcode10.2.1](https://blog.csdn.net/baidu_34248947/article/details/103028537)
- > MacOS High Sierra（10.13.6）上安装xcode10.2.1
- ## [性能优化篇（1）：几种简单的访存优化手段](https://blog.csdn.net/wohenfanjian/article/details/103031337)
- > 性能优化篇（1）：几种简单的访存优化手段
- ## [243、Java基础20 - 数组【排序】 2019.11.13](https://blog.csdn.net/youyouwuxin1234/article/details/103053041)
- > 243、Java基础20 - 数组【排序】 2019.11.13
- ## [java中获取视频时间方法](https://blog.csdn.net/kang_tian/article/details/103049685)
- > java中获取视频时间方法
+ ## [《精通javascript》读书笔记](https://blog.csdn.net/qq_24242805/article/details/97925647)
+ > 《精通javascript》读书笔记
+ ## [React教学—02.React的基本使用](https://blog.csdn.net/qq_45043019/article/details/96373398)
+ > React教学—02.React的基本使用
+ ## [前端面试高频考点](https://blog.csdn.net/zhongqw_00/article/details/96562621)
+ > 前端面试高频考点
+ ## [js学习](https://blog.csdn.net/weixin_43653691/article/details/95522094)
+ > js学习
+ ## [Web教程---EL表达式和JSTL](https://blog.csdn.net/weixin_43854673/article/details/94431472)
+ > Web教程---EL表达式和JSTL
+ ## [Rails](https://blog.csdn.net/weixin_44828107/article/details/96758413)
+ > Rails
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ > 
+ ## [IDEA pycharm webstorm 2019注册码（激活码）真实可用！](https://blog.csdn.net/u013735914/article/details/97898153)
+ > IDEA pycharm webstorm 2019注册码（激活码）真实可用！
+ ## [VSCode详细使用教程](https://blog.csdn.net/weixin_45601379/article/details/100550421)
+ > VSCode详细使用教程
+ ## [前端js导出接口数据到Excel](https://blog.csdn.net/flysnownet/article/details/100987024)
+ > 前端js导出接口数据到Excel
+ ## [windows 安装gitbook并使用gitbook editor可视化工具](https://blog.csdn.net/bocai_xiaodaidai/article/details/100696500)
+ > windows 安装gitbook并使用gitbook editor可视化工具
+ ## [关于各种Vue UI框架中加载进度条的正确使用](https://blog.csdn.net/qq_39045645/article/details/100663575)
+ > 关于各种Vue UI框架中加载进度条的正确使用
+ ## [JS手动实现一个new操作符](https://blog.csdn.net/q1424966670/article/details/92839918)
+ > JS手动实现一个new操作符
+ ## [iframe标签（页面嵌套）](https://blog.csdn.net/weixin_44540236/article/details/92760494)
+ > iframe标签（页面嵌套）
+ ## [google map v3 api](https://blog.csdn.net/qq_37168342/article/details/93163721)
+ > google map v3 api
 # PM 
+ ## [中国风投：挂满「低垂果实」的黄金10年](http://www.woshipm.com/it/3094259.html)
+ > 狂飙突进的造富神话。	过去10年，马云和李开复鲜有交集的两种人生中，共同的标签是投资人。从9月延迟到11月，创新工场10周年活动最终还是决定举办。现场，《奇葩说...
+ ## [每个人的心里都住着一个“李佳琦”](http://www.woshipm.com/it/3094728.html)
+ > “李佳琦”成为一个代名词，如何才能有更多的李佳琦，让李佳琦成为常态。如果我们重新将时针拨回到火热的双十一，除了各大电商平台借助不同的宣传渠道进行营销和宣传之...
+ ## [如何判断一个对话机器人有多智能？](http://www.woshipm.com/ai/3092186.html)
+ > 有些对话机器人总让人崩溃，也许是智能级别不够高。本文，就来一起看看如何判断一个机器人的智能程度。随着智能对话技术的发展，对话机器人越来越多地出现在人们的日...
  ## [线上课程 | 活动第一天就要凉凉？！他是如何靠数据分析翻盘的？](http://www.woshipm.com/active/3084621.html)
  > 我又想辞职了…尤其是：在写日报、周报、月报，需要统计分析数据的时候；在数据出现异常，领导问我原因而我根本找不出来的时候；在手上有一堆数据，却不知道...
  ## [Netflix如何利用设计心理学来完善用户体验？](http://www.woshipm.com/pd/3084346.html)
@@ -110,35 +116,5 @@ categories: IT NEWS
  > 曾几何时，奥数分风靡全国，并成为父母们的课外班必报课程之一。如此，奥数分已弱，但是少儿编程的风又将刮起。“未来的文盲就是现在不懂编程的小孩！”、“不会写代码的...
  ## [互联网保险产品分析之众安在线](http://www.woshipm.com/evaluating/3090075.html)
  > 本文从三个模块对互联网保险产品-众安在线进行了分析。模块一（公司篇）1. 公司概要众安在线财产保险股份有限公司（简称：“ 众安在线”） 成立于 2013 年 11 月，是...
- ## [疯跑结束，在线英语赛道拐点已至](http://www.woshipm.com/it/3094164.html)
- > 本文分析了在线英语赛道的所遇的危机与转折点，以及各大玩家的应对策略。英语培训行业正在经历新的拐点。创立于1998年的韦博英语，在第21个年头陷入到了崩盘的境地...
- ## [最新！2019双11购物节盘点](http://www.woshipm.com/data-analysis/3092538.html)
- > 走过了十年，“双11”更加璀璨。第11个“双11”，更多的商家、品牌、平台、消费者、电视台、主播等等各方参与者都纷至沓来，不仅催生了不断翻新的数字，也持续刺激着众...
- ## [跟拼多多学社交裂变，成为站在红包身后的"套路王"](http://www.chanpin100.com/article/110046)
- > 今年双十一，虽然拼多多没有官宣平台玩法，但早就启动的&quot;百亿补贴&quot;让它成为&quot;双十一大战&quot;不可忽视的神秘力量。10月24日盘中，拼多多股价大涨近13%到40美元，创上市以来新高，单日市值也一举超过京东成为中国第四大互联网公司，仅次于阿里巴巴、腾讯和美团。
- ## [摹客食堂｜产品经理需要懂技术吗？](http://www.chanpin100.com/article/110045)
- > 产品经理防揍指南
- ## [产品思维｜B端产品设计指南](http://www.chanpin100.com/article/110043)
- > 产品路上并不孤独，愿你我共勉。
- ## [产品经理成长阶梯：看看你现在是哪个级别？](http://www.chanpin100.com/article/110041)
- > 青铜、黄金、钻石、王者，你在哪个段位？
- ## [小程序让体验好了，也让产品更难做了](http://www.chanpin100.com/article/110040)
- > 上周，一个腾讯媒体研究院的朋友找我体验了一把他们的新产品，我把体验的过程用文字记录下来，也算是一次正儿八经的产品评测。 关于小程序，相比起以往的H5页面、客户端开发，小程序的响应速度确实快了很多，体验也提升了不少，甚至在开发流程上，也省下不少的人力物力。
- ## [产品失败后的反思](http://www.chanpin100.com/article/110039)
- > 产品的失败，身为产品经理，我有着不可推卸的责任！做对的事情比把事情做对更重要，在错误的道路上如果不停下来进行思考，只会越走越远。抒发完内心的感慨，我想跟大家一起分享一下我们走过的错误以及反思过后的总结。
- ## [分享一张思维导图教你如何高效学习！看懂了吗？](http://www.chanpin100.com/article/110038)
- > 如何高效学习想必是每一个人都想知道的，甚至有些学者穷极一生，就为了找出最高效的学习方法。其实写这篇文章，小编或多或少也能想起我在寻找高效的学习方法的一些足迹，零零散散。
- ## [纯分享思维导图时间线梳理，让你看懂《三体》](http://www.chanpin100.com/article/110035)
- > 或许大多数人都看过新年首映的《流浪地球》，它的火热，开启了2019科幻元年，科幻这个浪漫遥远小众的领域迅速为大众所关注。它改编自刘慈欣的同名小说《流浪地球》，电影的改编已经非常通俗易懂，但是影片里还有许多观众不易懂的烧脑细节。更何况是阅读刘慈欣成名原著《三体》了！
- ## [《孙子兵法·三十六计谋略大全》读书笔记，快收藏吧](http://www.chanpin100.com/article/110034)
- > 《孙子兵法·三十六计谋略大全》集历代兵法、智谋之大成，不独于军事领域、政治斗争中应用实施，在整个社会生活、经济外交、人际往来之中都有极强的实用性。本书从《孙子兵法》和《三十六计》两个方面进行阐述。如下MindMaster制作的思维导图所示，左侧《孙子兵法》一共十三篇。右侧《三十六计》，为瞒天过海、围
- ## [产品经理的刻意练习](http://www.chanpin100.com/article/110033)
- > 杰出并非一种天赋，而是一种人人都可以学习的技巧，成为杰出人物的关键，在于刻意练习。
- ## [零工经济是为人们带来福利，还是增加了“剥削”？](http://www.chanpin100.com/article/110032)
- > 自由职业者并非真的“自由”。
- ## [一个创业老总的大学创业分享](http://www.chanpin100.com/article/110031)
- > 创业的经历分享
- ## [如何建立一个App用户增长机制](http://www.chanpin100.com/article/110030)
- > 互联网人口红利的持续衰减，互联网用户数量的增速越来越低，甚至是没有增长或者是负增长。在移动互联网早期，可能随随便便做个App项目，用户的增长都不会太差，但是放到现在却变得非常艰难。
 
     
