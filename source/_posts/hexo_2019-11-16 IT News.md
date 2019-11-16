@@ -1,7 +1,7 @@
 ---
 title: 2019-11-16 IT News
 copyright: true
-date: 2019-11-16 08:01:03
+date: 2019-11-16 09:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -24,32 +24,32 @@ categories: IT NEWS
  > 九大高效的前端测试工具与框架
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
- ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ ## [25 篇 Java 入门技术博文，送给正在自学的你](https://blog.csdn.net/qing_gee/article/details/102984677)
  > 
- ## [羞，Java 字符串拼接竟然有这么多姿势](https://blog.csdn.net/qing_gee/article/details/103060599)
+ ## [Linux文件操作高频使用命令](https://blog.csdn.net/gexiaoyizhimei/article/details/100122368)
+ > Linux文件操作高频使用命令
+ ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
  > 
  ## [如何利用python制作一个解压缩软件](https://blog.csdn.net/Woo_home/article/details/103012667)
  > 
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ ## [羞，Java 字符串拼接竟然有这么多姿势](https://blog.csdn.net/qing_gee/article/details/103060599)
  > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
- > YouTube排名第一的励志英文演讲《Dream(梦想)》
- ## [【Linux网络编程】网络基础知识](https://blog.csdn.net/dengjin20104042056/article/details/102999764)
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
  > 
- ## [微软全球执行副总裁沈向洋：人工智能的机遇和挑战](https://blog.csdn.net/csdnnews/article/details/100179297)
+ ## [关于大一的生活](https://blog.csdn.net/weixin_45520075/article/details/102751258)
+ > 关于大一的生活
+ ## [【数据分析】豆瓣电影Top250爬取的数据的可视化分析](https://blog.csdn.net/qq_41856814/article/details/103080110)
+ > 【数据分析】豆瓣电影Top250爬取的数据的可视化分析
+ ## [栈溢出原理与实现](https://blog.csdn.net/superchickenchicken/article/details/102695335)
+ > 栈溢出原理与实现
+ ## [synchronized使用和原理全解](https://blog.csdn.net/hebtu666/article/details/103057476)
  > 
- ## [程序员体验AI换脸就不要用ZAO了，详解Github周冠军项目Faceswap的变脸攻略](https://blog.csdn.net/BEYONDMA/article/details/100594136)
+ ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
  > 
- ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
- > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
  ## [分享靠写代码赚钱的一些门路](https://blog.csdn.net/lantian_123/article/details/101488841)
  > 分享靠写代码赚钱的一些门路
  ## [中国云市场生变：华为云 Q2 份额超 AWS，IaaS+PaaS 迎来整体增长](https://blog.csdn.net/csdnnews/article/details/103094603)
@@ -68,6 +68,37 @@ categories: IT NEWS
  > 从2017年开始，人工智能便波澜不断，无论是从BAT高调布局AI，还是从年薪50万招聘AI应届生，炽手可热形容AI工程师一点都不过分。百度推出“少帅计划”,针对30岁以下...
  ## [Chronicle 已死，凶手是谷歌！](https://blog.csdn.net/csdnnews/article/details/103083090)
  > Chronicle，一家属于谷歌的网络安全的初创公司，它本应彻底颠覆整个行业，如今却正在逐渐崩溃。作者 |Lorenzo Franceschi-Bicchierai，Joseph Cox译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：2018年初，谷歌的母公司.
+# 人工智能 
+ ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
+ > 从入门到精通，Java学习路线导航
+ ## [傅里叶变换  一维快速傅里叶变换（快速的一维离散傅里叶变换、分治法）](https://blog.csdn.net/qq_36511401/article/details/102969124)
+ > 傅里叶变换  一维快速傅里叶变换（快速的一维离散傅里叶变换、分治法）
+ ## [idea 2019.2 版本的破 解（亲测有用，(^.^)）](https://blog.csdn.net/lswaone/article/details/103049375)
+ > idea 2019.2 版本的破 解（亲测有用，(^.^)）
+ ## [Qt仿腾讯视频简易播放器 【源码开源】](https://blog.csdn.net/ly305750665/article/details/103055551)
+ > Qt仿腾讯视频简易播放器 【源码开源】
+ ## [简谈C语言中的复数](https://blog.csdn.net/eclipse9527/article/details/103041829)
+ > 简谈C语言中的复数
+ ## [Django第一周第三天](https://blog.csdn.net/weixin_43495473/article/details/103065815)
+ > Django第一周第三天
+ ## [嵌入式调试时间戳](https://blog.csdn.net/qq_33901011/article/details/103069817)
+ > 嵌入式调试时间戳
+ ## [基于Matlab在线式三维还原及其非接触测量（一）](https://blog.csdn.net/qq_42571003/article/details/103054083)
+ > 基于Matlab在线式三维还原及其非接触测量（一）
+ ## ["regex.h"的基本使用](https://blog.csdn.net/xiongzixun/article/details/103070606)
+ > &quot;regex.h&quot;的基本使用
+ ## [简单的二维数组相加](https://blog.csdn.net/qq_45846870/article/details/103057025)
+ > 简单的二维数组相加
+ ## [C 将DataGridView中的数据导入到Csv文件中](https://blog.csdn.net/weixin_44713908/article/details/103074447)
+ > C 将DataGridView中的数据导入到Csv文件中
+ ## [MacOS High Sierra（10.13.6）上安装xcode10.2.1](https://blog.csdn.net/baidu_34248947/article/details/103028537)
+ > MacOS High Sierra（10.13.6）上安装xcode10.2.1
+ ## [性能优化篇（1）：几种简单的访存优化手段](https://blog.csdn.net/wohenfanjian/article/details/103031337)
+ > 性能优化篇（1）：几种简单的访存优化手段
+ ## [243、Java基础20 - 数组【排序】 2019.11.13](https://blog.csdn.net/youyouwuxin1234/article/details/103053041)
+ > 243、Java基础20 - 数组【排序】 2019.11.13
+ ## [java中获取视频时间方法](https://blog.csdn.net/kang_tian/article/details/103049685)
+ > java中获取视频时间方法
 # PM 
  ## [跟拼多多学社交裂变，成为站在红包身后的"套路王"](http://www.chanpin100.com/article/110046)
  > 今年双十一，虽然拼多多没有官宣平台玩法，但早就启动的&quot;百亿补贴&quot;让它成为&quot;双十一大战&quot;不可忽视的神秘力量。10月24日盘中，拼多多股价大涨近13%到40美元，创上市以来新高，单日市值也一举超过京东成为中国第四大互联网公司，仅次于阿里巴巴、腾讯和美团。
