@@ -1,7 +1,7 @@
 ---
 title: 2019-11-16 IT News
 copyright: true
-date: 2019-11-16 10:00:57
+date: 2019-11-16 12:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -24,31 +24,31 @@ categories: IT NEWS
  > 九大高效的前端测试工具与框架
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
  ## [25 篇 Java 入门技术博文，送给正在自学的你](https://blog.csdn.net/qing_gee/article/details/102984677)
  > 
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [BeanUtils常用方法](https://blog.csdn.net/han12398766/article/details/100172849)
- > BeanUtils常用方法
  ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
  > 
  ## [羞，Java 字符串拼接竟然有这么多姿势](https://blog.csdn.net/qing_gee/article/details/103060599)
  > 
- ## [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
- > LeetCode解题汇总目录
  ## [如何利用python制作一个解压缩软件](https://blog.csdn.net/Woo_home/article/details/103012667)
+ > 
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
  > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ ## [SpringBoot打成war包在tomcat或wildfly下运行](https://blog.csdn.net/wo541075754/article/details/103066870)
  > 
- ## [敲开通往架构师的门](https://blog.csdn.net/K_Ohaha/article/details/103075419)
+ ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
+ > YouTube排名第一的励志英文演讲《Dream(梦想)》
+ ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
  > 
  ## [二叉树（从建树、遍历到存储）Java](https://blog.csdn.net/dabusiGin/article/details/102785510)
  > 二叉树（从建树、遍历到存储）Java
- ## [微软全球执行副总裁沈向洋：人工智能的机遇和挑战](https://blog.csdn.net/csdnnews/article/details/100179297)
+ ## [吐血推荐珍藏的Visual Studio Code插件](https://blog.csdn.net/K_Ohaha/article/details/103040607)
  > 
  ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
  > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
@@ -69,37 +69,45 @@ categories: IT NEWS
  ## [Chronicle 已死，凶手是谷歌！](https://blog.csdn.net/csdnnews/article/details/103083090)
  > Chronicle，一家属于谷歌的网络安全的初创公司，它本应彻底颠覆整个行业，如今却正在逐渐崩溃。作者 |Lorenzo Franceschi-Bicchierai，Joseph Cox译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：2018年初，谷歌的母公司.
 # 人工智能 
- ## [使用 python快速在局域网内搭建http传输文件服务](https://blog.csdn.net/qq_42362440/article/details/103043866)
- > 使用 python快速在局域网内搭建http传输文件服务
- ## [Linux 常用命令](https://blog.csdn.net/qq_34927733/article/details/103055352)
- > Linux 常用命令
- ## [Nginx 下载安装与配置](https://blog.csdn.net/sunnyzyq/article/details/103042622)
- > 
- ## [vim 入门到提高](https://blog.csdn.net/longjiang321/article/details/103005823)
- > vim 入门到提高
- ## [ubuntu cpu频率控制 (这招儿不管用可以顺着网线爬过来打我)](https://blog.csdn.net/step_a/article/details/103063130)
- > ubuntu cpu频率控制 (这招儿不管用可以顺着网线爬过来打我)
- ## [docker多容器间免密集群搭建](https://blog.csdn.net/weixin_43696563/article/details/103068092)
- > docker多容器间免密集群搭建
- ## [mysql主从复制](https://blog.csdn.net/q976282479/article/details/103045239)
- > mysql主从复制
- ## [华硕FL8000U拆换机械硬盘](https://blog.csdn.net/weixin_41548145/article/details/103075135)
- > 华硕FL8000U拆换机械硬盘
- ## [视觉SLAM理论与实践1](https://blog.csdn.net/whut_chengjun/article/details/103069881)
- > 视觉SLAM理论与实践1
- ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
- > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
- ## [测试csdn文章发布编辑器](https://blog.csdn.net/MisterGu/article/details/103069697)
- > 测试csdn文章发布编辑器
- ## [Ubuntu Server 18.04 网络设置不生效的解决](https://blog.csdn.net/qq_41554005/article/details/103041984)
- > Ubuntu Server 18.04 网络设置不生效的解决
- ## [linux：最常见的linux命令（centOS 7.6）](https://blog.csdn.net/Dakshesh/article/details/102588364)
- > linux：最常见的linux命令（centOS 7.6）
- ## [进程和计划任务管理|linux](https://blog.csdn.net/weixin_45724795/article/details/103027291)
- > 进程和计划任务管理|linux
- ## [Linux运维--SElinux详解](https://blog.csdn.net/qq_35887546/article/details/103058693)
- > Linux运维--SElinux详解
+ ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
+ > 从入门到精通，Java学习路线导航
+ ## [傅里叶变换  一维快速傅里叶变换（快速的一维离散傅里叶变换、分治法）](https://blog.csdn.net/qq_36511401/article/details/102969124)
+ > 傅里叶变换  一维快速傅里叶变换（快速的一维离散傅里叶变换、分治法）
+ ## [idea 2019.2 版本的破 解（亲测有用，(^.^)）](https://blog.csdn.net/lswaone/article/details/103049375)
+ > idea 2019.2 版本的破 解（亲测有用，(^.^)）
+ ## [Qt仿腾讯视频简易播放器 【源码开源】](https://blog.csdn.net/ly305750665/article/details/103055551)
+ > Qt仿腾讯视频简易播放器 【源码开源】
+ ## [简谈C语言中的复数](https://blog.csdn.net/eclipse9527/article/details/103041829)
+ > 简谈C语言中的复数
+ ## [Django第一周第三天](https://blog.csdn.net/weixin_43495473/article/details/103065815)
+ > Django第一周第三天
+ ## [嵌入式调试时间戳](https://blog.csdn.net/qq_33901011/article/details/103069817)
+ > 嵌入式调试时间戳
+ ## [基于Matlab在线式三维还原及其非接触测量（一）](https://blog.csdn.net/qq_42571003/article/details/103054083)
+ > 基于Matlab在线式三维还原及其非接触测量（一）
+ ## ["regex.h"的基本使用](https://blog.csdn.net/xiongzixun/article/details/103070606)
+ > &quot;regex.h&quot;的基本使用
+ ## [简单的二维数组相加](https://blog.csdn.net/qq_45846870/article/details/103057025)
+ > 简单的二维数组相加
+ ## [C 将DataGridView中的数据导入到Csv文件中](https://blog.csdn.net/weixin_44713908/article/details/103074447)
+ > C 将DataGridView中的数据导入到Csv文件中
+ ## [MacOS High Sierra（10.13.6）上安装xcode10.2.1](https://blog.csdn.net/baidu_34248947/article/details/103028537)
+ > MacOS High Sierra（10.13.6）上安装xcode10.2.1
+ ## [性能优化篇（1）：几种简单的访存优化手段](https://blog.csdn.net/wohenfanjian/article/details/103031337)
+ > 性能优化篇（1）：几种简单的访存优化手段
+ ## [243、Java基础20 - 数组【排序】 2019.11.13](https://blog.csdn.net/youyouwuxin1234/article/details/103053041)
+ > 243、Java基础20 - 数组【排序】 2019.11.13
+ ## [java中获取视频时间方法](https://blog.csdn.net/kang_tian/article/details/103049685)
+ > java中获取视频时间方法
 # PM 
+ ## [线上课程 | 活动第一天就要凉凉？！他是如何靠数据分析翻盘的？](http://www.woshipm.com/active/3084621.html)
+ > 我又想辞职了…尤其是：在写日报、周报、月报，需要统计分析数据的时候；在数据出现异常，领导问我原因而我根本找不出来的时候；在手上有一堆数据，却不知道...
+ ## [Netflix如何利用设计心理学来完善用户体验？](http://www.woshipm.com/pd/3084346.html)
+ > 解码让用户沉迷背后的科学。“如果星巴克的秘方是人们拿到拿铁时露出的微笑，那么奈飞的秘方就是网站可以主动的适应每个人不同的喜好和品味。”——奈飞CEO 里德·黑斯廷斯...
+ ## [2019，我们被“黑”科技薅过的羊毛？](http://www.woshipm.com/it/3092075.html)
+ > 本文盘点了2019年来，以“黑”科技为名的所谓高科技是如何收割一波又一波韭菜与羊毛的。14秒破10亿。1分36秒破100亿。1小时3分59秒破1000亿。……在刚刚过去的双十一...
+ ## [少儿编程，复写奥数兴衰史？](http://www.woshipm.com/it/3093984.html)
+ > 曾几何时，奥数分风靡全国，并成为父母们的课外班必报课程之一。如此，奥数分已弱，但是少儿编程的风又将刮起。“未来的文盲就是现在不懂编程的小孩！”、“不会写代码的...
  ## [互联网保险产品分析之众安在线](http://www.woshipm.com/evaluating/3090075.html)
  > 本文从三个模块对互联网保险产品-众安在线进行了分析。模块一（公司篇）1. 公司概要众安在线财产保险股份有限公司（简称：“ 众安在线”） 成立于 2013 年 11 月，是...
  ## [疯跑结束，在线英语赛道拐点已至](http://www.woshipm.com/it/3094164.html)
