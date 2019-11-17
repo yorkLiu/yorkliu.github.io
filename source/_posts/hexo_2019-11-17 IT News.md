@@ -1,7 +1,7 @@
 ---
 title: 2019-11-17 IT News
 copyright: true
-date: 2019-11-17 09:01:02
+date: 2019-11-17 10:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -26,30 +26,30 @@ categories: IT NEWS
  > 重磅！云+X 案例征集正式启动啦！
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [《吊打面试官》系列-Redis常见面试题（带答案）](https://blog.csdn.net/qq_35190492/article/details/103041932)
- > 
+ ## [别翻了，这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析【JVM篇二】](https://blog.csdn.net/qq_44543508/article/details/102983363)
+ > 别翻了，这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析【JVM篇二】
  ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
  > 
- ## [springboot、spring、springMVC、filter、AOP](https://blog.csdn.net/weixin_38876845/article/details/100080390)
- > springboot、spring、springMVC、filter、AOP
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ > 
  ## [招人！入职阿里仅1年，我和做AI的程序员薪资翻了2倍！](https://blog.csdn.net/csdnnews/article/details/100763946)
  > 招人！入职阿里仅1年，我和做AI的程序员薪资翻了2倍！
  ## [11月15日科技资讯|华为首款可折叠屏5G手机今日开售；GitHub将开源代码库保存在北极；Win10禁用WEP加密｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/103079991)
  > 
- ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
- > 
- ## [HR和程序员能不能相亲相爱](https://blog.csdn.net/caoz/article/details/102994053)
- > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [HR和程序员能不能相亲相爱](https://blog.csdn.net/caoz/article/details/102994053)
+ > 
+ ## [SpringBoot打成war包在tomcat或wildfly下运行](https://blog.csdn.net/wo541075754/article/details/103066870)
+ > 
  ## [一文读懂平衡二叉树 | 技术头条](https://blog.csdn.net/csdnnews/article/details/102383570)
  > 一文读懂平衡二叉树 | 技术头条
- ## [时区是怎么划分的？世界各时区的时间如何统一表达？GMT、UTC、UNIX有什么区别？](https://blog.csdn.net/zgdwxp/article/details/102728563)
- > 时区是怎么划分的？世界各时区的时间如何统一表达？GMT、UTC、UNIX有什么区别？
+ ## [C++工具库](https://blog.csdn.net/dadan1314/article/details/90757755)
+ > C++工具库
+ ## [8000字干货：那些很厉害的人是怎么构建知识体系的](https://blog.csdn.net/foruok/article/details/101678953)
+ > 
  ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
  > 
  ## [开发运维已死，无运维万岁](https://blog.csdn.net/csdnnews/article/details/103105300)
@@ -59,35 +59,35 @@ categories: IT NEWS
  ## [开发人员在编写 HTML 和 CSS 时最常犯的六大错误](https://blog.csdn.net/csdnnews/article/details/103105304)
  > 生活中犯错误是正常的，没有人不会犯错误，更何况是开发人员呢？今天我们就来卡看看开发人员在编写 HTML 和 CSS 时最常犯的六大错误有哪些。作者 |Stas Melnikov译者 |弯月，责编 | 刘静出品 | CSDN（ID：CSDNnews）以下为译文：用placeholder属性代替lab.
 # 人工智能 
- ## [前端开发学习常用网站网址及介绍（都是免费的）](https://blog.csdn.net/qq_35713752/article/details/103036084)
- > 前端开发学习常用网站网址及介绍（都是免费的）
- ## [开题——我的第一个网站(1)](https://blog.csdn.net/yangwohenmai1/article/details/102794305)
- > 开题——我的第一个网站(1)
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
- ## [乌镇世界区块链大会回顾：从Defi到MOV](https://blog.csdn.net/phil_code/article/details/103063861)
+ ## [11月15日科技资讯|华为首款可折叠屏5G手机今日开售；GitHub将开源代码库保存在北极；Win10禁用WEP加密｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/103079991)
  > 
- ## [蚂蚁金服 Service Mesh 大规模落地系列 - 核心篇](https://blog.csdn.net/SOFAStack/article/details/103077762)
+ ## [GitHub App终于来了，iPhone用户可尝鲜，「同性交友」更加便捷](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103077324)
  > 
- ## [Go开发 之 GoLand还是VsCode](https://blog.csdn.net/u014597198/article/details/103084815)
- > Go开发 之 GoLand还是VsCode
- ## [编写单链表、双链表、循环单链表、有序单链表（JavaScript语言描述）](https://blog.csdn.net/weixin_43896318/article/details/103091126)
- > 编写单链表、双链表、循环单链表、有序单链表（JavaScript语言描述）
- ## [使用truffle框架部署并测试以太坊智能合约](https://blog.csdn.net/asdliman0110/article/details/103084083)
- > 使用truffle框架部署并测试以太坊智能合约
- ## [ETC Fans发起人杜超：我眼中区块链未来的十年](https://blog.csdn.net/chaintiao/article/details/103069215)
- > ETC Fans发起人杜超：我眼中区块链未来的十年
- ## [多数人不知道的比特币的十个疯狂事实](https://blog.csdn.net/lanhubiji/article/details/103078089)
- > 多数人不知道的比特币的十个疯狂事实
- ## [Ubuntu下安装微信(非网页版)、TIM、QQ](https://blog.csdn.net/weixin_43056275/article/details/103082020)
- > Ubuntu下安装微信(非网页版)、TIM、QQ
- ## [3c链社是什么](https://blog.csdn.net/v15626454451/article/details/103074875)
- > 3c链社是什么
- ## [备考必读：详解SFC对虚拟资产平台的监管立场书 III & IV](https://blog.csdn.net/Coinsuper/article/details/103081699)
- > 备考必读：详解SFC对虚拟资产平台的监管立场书 III &amp; IV
- ## [SHA256算法C++实现](https://blog.csdn.net/LucainY/article/details/103066247)
- > SHA256算法C++实现
- ## [链表学习笔记](https://blog.csdn.net/qq_35988274/article/details/103029654)
- > 链表学习笔记
+ ## [重磅！腾讯正式开源图计算框架 Plato，十亿级节点图计算进入分钟级时代](https://blog.csdn.net/tangxiaoyin/article/details/103065784)
+ > 
+ ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
+ > 
+ ## [产品定位的方法与案例，遵循 "大而全不如小而精" 理念](https://blog.csdn.net/weixin_44198965/article/details/103062524)
+ > 产品定位的方法与案例，遵循 &quot;大而全不如小而精&quot; 理念
+ ## [Open Relation Extraction: Relational Knowledge Transfer论文解析](https://blog.csdn.net/weixin_40400177/article/details/103067608)
+ > Open Relation Extraction: Relational Knowledge Transfer论文解析
+ ## [MapReduce当中的计数器](https://blog.csdn.net/weixin_43563705/article/details/103070211)
+ > MapReduce当中的计数器
+ ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
+ > YouTube排名第一的励志英文演讲《Dream(梦想)》
+ ## [感谢 CSDN 让我认识你 -- 一位出众的博主](https://blog.csdn.net/weixin_43129750/article/details/103064937)
+ > 感谢 CSDN 让我认识你 -- 一位出众的博主
+ ## [算法快学笔记（十六）：动态规划](https://blog.csdn.net/sun7545526/article/details/103053180)
+ > 
+ ## [python爬虫：bilibili弹幕爬取+词云生成](https://blog.csdn.net/johnchang0201/article/details/103004229)
+ > python爬虫：bilibili弹幕爬取+词云生成
+ ## [提前送给双十一单身猿们的表白神器](https://blog.csdn.net/weixin_44560813/article/details/102956248)
+ > 提前送给双十一单身猿们的表白神器
+ ## [写1行代码影响1000000000人，这是个什么项目？](https://blog.csdn.net/weixin_44326589/article/details/103079337)
+ > 
+ ## [GitHub标星近1万：只需5秒音源，这个网络就能实时“克隆”你的声音](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103059937)
+ > 
+ ## [【数据库】 第一范式，第二范式，第三范式](https://blog.csdn.net/Houke_Zou/article/details/103057251)
+ > 【数据库】 第一范式，第二范式，第三范式
 
     
