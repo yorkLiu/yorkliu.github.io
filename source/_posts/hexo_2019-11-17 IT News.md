@@ -1,7 +1,7 @@
 ---
 title: 2019-11-17 IT News
 copyright: true
-date: 2019-11-17 08:00:50
+date: 2019-11-17 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -24,34 +24,34 @@ categories: IT NEWS
  > 免费在线制图神器！不上水印支持中文版，GitHub标星已破1万2
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [【CMake】CMakeLists.txt的超傻瓜手把手教程（附实例源码）](https://blog.csdn.net/qq_38410730/article/details/102477162)
- > 【CMake】CMakeLists.txt的超傻瓜手把手教程（附实例源码）
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
+ > python学习目录
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [HR和程序员能不能相亲相爱](https://blog.csdn.net/caoz/article/details/102994053)
+ ## [《吊打面试官》系列-Redis常见面试题（带答案）](https://blog.csdn.net/qq_35190492/article/details/103041932)
  > 
  ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
  > 
- ## [python！！每日早上八点自动向QQ邮箱发送天气预报邮件](https://blog.csdn.net/weixin_45081575/article/details/102886718)
- > python！！每日早上八点自动向QQ邮箱发送天气预报邮件
- ## [浅析视频云行业及实现技术](https://blog.csdn.net/Jmilk/article/details/100186753)
- > 
- ## [STM32F103+RTT从零开始（三）—— S50门禁卡复制](https://blog.csdn.net/junzia/article/details/102224285)
- > 
+ ## [springboot、spring、springMVC、filter、AOP](https://blog.csdn.net/weixin_38876845/article/details/100080390)
+ > springboot、spring、springMVC、filter、AOP
+ ## [招人！入职阿里仅1年，我和做AI的程序员薪资翻了2倍！](https://blog.csdn.net/csdnnews/article/details/100763946)
+ > 招人！入职阿里仅1年，我和做AI的程序员薪资翻了2倍！
  ## [11月15日科技资讯|华为首款可折叠屏5G手机今日开售；GitHub将开源代码库保存在北极；Win10禁用WEP加密｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/103079991)
- > 
- ## [Java 每日算法，三个线程按顺序打印](https://blog.csdn.net/csdn_aiyang/article/details/101462392)
- > Java 每日算法，三个线程按顺序打印
- ## [【Ubuntu】Tensorflow对训练后的模型做8位（uint8）量化转换](https://blog.csdn.net/huachao1001/article/details/101285133)
- > 【Ubuntu】Tensorflow对训练后的模型做8位（uint8）量化转换
- ## [羞，Java 字符串拼接竟然有这么多姿势](https://blog.csdn.net/qing_gee/article/details/103060599)
- > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
  ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
  > 
+ ## [HR和程序员能不能相亲相爱](https://blog.csdn.net/caoz/article/details/102994053)
+ > 
  ## [让程序员崩溃的瞬间（非程序员勿入）](https://blog.csdn.net/ybhuangfugui/article/details/100913641)
  > 让程序员崩溃的瞬间（非程序员勿入）
+ ## [一文读懂平衡二叉树 | 技术头条](https://blog.csdn.net/csdnnews/article/details/102383570)
+ > 一文读懂平衡二叉树 | 技术头条
+ ## [时区是怎么划分的？世界各时区的时间如何统一表达？GMT、UTC、UNIX有什么区别？](https://blog.csdn.net/zgdwxp/article/details/102728563)
+ > 时区是怎么划分的？世界各时区的时间如何统一表达？GMT、UTC、UNIX有什么区别？
+ ## [别在学习框架了，那些让你起飞的计算机基础知识。](https://blog.csdn.net/m0_37907797/article/details/102618796)
+ > 
  ## [开发运维已死，无运维万岁](https://blog.csdn.net/csdnnews/article/details/103105300)
  > 在如今的IT发展趋势中，开发运维（DevOps ）这个词非常流行。这个词是几年前随着单页应用程序（SPA）的盛行而开始火爆起来的。然而，在接下来的几年中，你将听到一个新的流行语：无运维（NoOps）。作者 |Daniele Fontani译者 |弯月，责编 | 刘静出品 | CSDN（ID：CSD.
  ## [2025 年全球数据量高达175ZB，开发者如何挑战数据洪流？](https://blog.csdn.net/csdnnews/article/details/103105303)
@@ -59,35 +59,35 @@ categories: IT NEWS
  ## [开发人员在编写 HTML 和 CSS 时最常犯的六大错误](https://blog.csdn.net/csdnnews/article/details/103105304)
  > 生活中犯错误是正常的，没有人不会犯错误，更何况是开发人员呢？今天我们就来卡看看开发人员在编写 HTML 和 CSS 时最常犯的六大错误有哪些。作者 |Stas Melnikov译者 |弯月，责编 | 刘静出品 | CSDN（ID：CSDNnews）以下为译文：用placeholder属性代替lab.
 # 人工智能 
- ## [stm32的DMA+ADC多通道数据采集](https://blog.csdn.net/qq_40459947/article/details/103092270)
- > stm32的DMA+ADC多通道数据采集
- ## [Web前端组态软件--------目前开源可用的可视化编辑软件](https://blog.csdn.net/XU441520/article/details/103073202)
- > Web前端组态软件--------目前开源可用的可视化编辑软件
- ## [Ubuntu 安装配置NFS服务器 嵌入式开发必备的共享文件夹传输](https://blog.csdn.net/MoDa_Li/article/details/103085030)
- > Ubuntu 安装配置NFS服务器 嵌入式开发必备的共享文件夹传输
- ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
+ ## [前端开发学习常用网站网址及介绍（都是免费的）](https://blog.csdn.net/qq_35713752/article/details/103036084)
+ > 前端开发学习常用网站网址及介绍（都是免费的）
+ ## [开题——我的第一个网站(1)](https://blog.csdn.net/yangwohenmai1/article/details/102794305)
+ > 开题——我的第一个网站(1)
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [乌镇世界区块链大会回顾：从Defi到MOV](https://blog.csdn.net/phil_code/article/details/103063861)
  > 
- ## [stm32 用中断实现按键点灯和蜂鸣器鸣叫（固件库版）](https://blog.csdn.net/qq_44885018/article/details/103070394)
- > stm32 用中断实现按键点灯和蜂鸣器鸣叫（固件库版）
- ## [射频芯片layout实战注意](https://blog.csdn.net/mzldxf/article/details/102750929)
- > 射频芯片layout实战注意
- ## [参照STM32时钟树配置STM32CubeMX Clock Configuration（STM32L011G4U6为例）](https://blog.csdn.net/m0_38106923/article/details/103060860)
+ ## [蚂蚁金服 Service Mesh 大规模落地系列 - 核心篇](https://blog.csdn.net/SOFAStack/article/details/103077762)
  > 
- ## [第一个STM32工程](https://blog.csdn.net/qq_40870548/article/details/102998297)
- > 第一个STM32工程
- ## [网络之旅(二)](https://blog.csdn.net/qq_43701555/article/details/103066195)
- > 网络之旅(二)
- ## [给Matlab添加工具箱Toolbox的方法（有截图详细讲解）（R2019b）](https://blog.csdn.net/qq_41554005/article/details/103061307)
- > 给Matlab添加工具箱Toolbox的方法（有截图详细讲解）（R2019b）
- ## [vue-element-admin 使用过程中踩坑](https://blog.csdn.net/weixin_42442713/article/details/103085235)
- > vue-element-admin 使用过程中踩坑
- ## [STM32CubeMx开发之路—12使用ADC和DAC](https://blog.csdn.net/weixin_41294615/article/details/103086872)
- > STM32CubeMx开发之路—12使用ADC和DAC
- ## [ResNeXt50 网络结构](https://blog.csdn.net/SPESEG/article/details/103088612)
- > ResNeXt50 网络结构
- ## [CCTV 报道深圳高交会上的物联网城市应急感知网络](https://blog.csdn.net/csdnnews/article/details/103086313)
- > CCTV 报道深圳高交会上的物联网城市应急感知网络
- ## [开发者说：当垃圾箱有了智慧](https://blog.csdn.net/devcloud/article/details/103061815)
- > 开发者说：当垃圾箱有了智慧
+ ## [Go开发 之 GoLand还是VsCode](https://blog.csdn.net/u014597198/article/details/103084815)
+ > Go开发 之 GoLand还是VsCode
+ ## [编写单链表、双链表、循环单链表、有序单链表（JavaScript语言描述）](https://blog.csdn.net/weixin_43896318/article/details/103091126)
+ > 编写单链表、双链表、循环单链表、有序单链表（JavaScript语言描述）
+ ## [使用truffle框架部署并测试以太坊智能合约](https://blog.csdn.net/asdliman0110/article/details/103084083)
+ > 使用truffle框架部署并测试以太坊智能合约
+ ## [ETC Fans发起人杜超：我眼中区块链未来的十年](https://blog.csdn.net/chaintiao/article/details/103069215)
+ > ETC Fans发起人杜超：我眼中区块链未来的十年
+ ## [多数人不知道的比特币的十个疯狂事实](https://blog.csdn.net/lanhubiji/article/details/103078089)
+ > 多数人不知道的比特币的十个疯狂事实
+ ## [Ubuntu下安装微信(非网页版)、TIM、QQ](https://blog.csdn.net/weixin_43056275/article/details/103082020)
+ > Ubuntu下安装微信(非网页版)、TIM、QQ
+ ## [3c链社是什么](https://blog.csdn.net/v15626454451/article/details/103074875)
+ > 3c链社是什么
+ ## [备考必读：详解SFC对虚拟资产平台的监管立场书 III & IV](https://blog.csdn.net/Coinsuper/article/details/103081699)
+ > 备考必读：详解SFC对虚拟资产平台的监管立场书 III &amp; IV
+ ## [SHA256算法C++实现](https://blog.csdn.net/LucainY/article/details/103066247)
+ > SHA256算法C++实现
+ ## [链表学习笔记](https://blog.csdn.net/qq_35988274/article/details/103029654)
+ > 链表学习笔记
 
     
