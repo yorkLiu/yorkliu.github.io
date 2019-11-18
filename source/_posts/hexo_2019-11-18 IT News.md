@@ -1,7 +1,7 @@
 ---
 title: 2019-11-18 IT News
 copyright: true
-date: 2019-11-18 12:00:58
+date: 2019-11-18 17:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -64,6 +64,9 @@ Windows 10 Mobile &#36208;&#21521;&#32456;&#28857; 12 &#26376; 10 &#26085;&#2057
 
 <p>&nbsp;</p>
 
+# IT 新闻 
+ ## [谷歌“夜莺计划”收集数百万健康隐私数据，患者并不知情](http://mp.weixin.qq.com/s?src=11&timestamp=1574067603&ver=1981&signature=sKhThABaq0mcVpjKV0*6tIkOgxfQaqCaByJru8qzjXxL1JveJftM8rNRmRWdCDWn45ZujHK8gSGmveGfJy8Y7YFIIlZkedw*m0M7VSi5PiJe0zJtkbX4e27MXu1Rp1lr&new=1)
+ > 据《华尔街日报》周一报道，谷歌正在通过与美国第二大医疗保健系统Ascension的合作， 使用其搜索和人工智能技术来分析Ascension里有关数百万美国人的详细健康数据。总部设在密苏里州的Ascension卫生中心成立于19...
 # IT 技术 
  ## [抗住双11的秒杀系统如何设计？](http://developer.51cto.com/art/201911/606106.htm)
  > 抗住双11的秒杀系统如何设计？
@@ -81,56 +84,58 @@ Windows 10 Mobile &#36208;&#21521;&#32456;&#28857; 12 &#26376; 10 &#26085;&#2057
  > 吐血整理！14个编写Spring MVC控制器的实用小技巧
  ## [谷歌新模型刷新ImageNet纪录，第一作者是上海交大毕业生](http://news.51cto.com/art/201911/606112.htm)
  > 谷歌新模型刷新ImageNet纪录，第一作者是上海交大毕业生
- ## [物联网云平台改善应用开发的四种方式](http://iot.51cto.com/art/201911/606146.htm)
- > 对于具有分布式、不可预测的物联网流量的企业来说，云计算是关键的物联网资源。企业如何从其云计算提供商工
- ## [企业的业务在云平台之间的迁移到底有多难?](http://cloud.51cto.com/art/201911/606145.htm)
- > 如果企业对自己的应用程序和服务以及每个云计算提供商所提供的内容有着充分的了解，那么其云迁移将比其想象
- ## [在CentOS/RHEL系统上生成补丁合规报告的Bash脚本](http://os.51cto.com/art/201911/606144.htm)
- > 如果你运行的是大型 Linux 环境，那么你可能已经将 Red Hat 与 Satellite 集成了。如果是的话，你不必担心
- ## [物联网资产跟踪浅谈](http://iot.51cto.com/art/201911/606142.htm)
- > 物联网跟踪系统会让您的企业受益吗？请继续阅读以找出答案。物联网资产跟踪是许多行业中快速增长的现象。预
- ## [您需要物联网设备管理平台的5个原因](http://iot.51cto.com/art/201911/606141.htm)
- > 尽管物联网设备管理对物联网的成功起着至关重要的作用，但它很容易被忽视，原因很简单，企业，尤其是那些开
- ## [7 个有助于 AI 技术的优秀开源工具](http://ai.51cto.com/art/201911/606140.htm)
- > 人工智能是一种紧跟未来道路的卓越技术。在这个不断发展的时代，它吸引了所有跨国组织的关注。谷歌、IBM、F
- ## [如何学习一门新的语言](http://developer.51cto.com/art/201911/606137.htm)
- > 首先要说，这并不是一篇教你如何学习的文章，因为到今天为止我也没有找到一种通用的方法来解决如何学习的问
- ## [如何将Windows 10 PC变成无线显示器](http://os.51cto.com/art/201911/606133.htm)
- > Windows 10无线显示功能在扩展视觉工作空间的同时扩展了PC的多功能性。 您可以将PC连接为无线显示器，以接
- ## [新手也能看懂的线程池学习总结](http://developer.51cto.com/art/201911/606139.htm)
- > 池化技术相比大家已经屡见不鲜了，线程池、数据库连接池、Http 连接池等等都是对这个思想的应用。池化技术
- ## [什么是边缘计算及其重要性？](http://network.51cto.com/art/201911/606134.htm)
- > 边缘计算正在改变世界上数百万台设备处理，处理和传递数据的方式。联网设备（IoT）的爆炸性增长，以及需要
+ ## [调查发现：企业越关注安全 攻击成本越高](http://netsecurity.51cto.com/art/201911/606169.htm)
+ > 据最新的调查报告指出，当一家企业在网络安全板块上保持关注，并不断基于渗透测试、漏洞评估展开持续性
+ ## [Redis持久化的几种方式――深入解析RDB](http://database.51cto.com/art/201911/606168.htm)
+ > Redis 的读写都是在内存中，所以它的性能较高，但在内存中的数据会随着服务器的重启而丢失，为了保证数据不
+ ## [怎么向女朋友解释什么叫区块链_技术栈微信半月刊第53期](http://news.51cto.com/art/201911/606167.htm)
+ > 51CTO技术栈微信半月刊第五十三期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一
+ ## [固态硬盘与机械硬盘比强在哪？看完秒懂](http://biz.51cto.com/art/201911/606166.htm)
+ > 相信很多玩家都遇到过这样的情况，电脑用一段时间之后感觉变得很慢，想升级电脑却又不知道更换哪个硬件。
+ ## [如何在页面关闭或跳转时优雅的发送Ajax请求](http://developer.51cto.com/art/201911/606164.htm)
+ > 有时候我们需要在用户离开页面的时候，做一些上报来记录用户行为或者埋点，又或者是发送到服务器的ajax请求
+ ## [详解如何使用Nginx来为一台服务器部署多个Web Server](http://server.51cto.com/-606165.htm)
+ > 最近捣鼓了不少时间，起初想到要弄这个就是因为 node 直接起 server 的方式有点暴力，因为占用了 80 端口就
+ ## [用autoplank在多个显示器上使用Plank扩展坞](http://os.51cto.com/art/201911/606163.htm)
+ > autoplank 是用 Go 语言编写的小型工具，它为 Plank 扩展坞增加了多显示器支持，而无需创建多个扩展坞。
+ ## [我是世界上的编程语言，100斤！](http://zhuanlan.51cto.com/art/201911/606162.htm)
+ > 文章中每个基本概念所对应的重量完全是从我个人的杜撰，各位看一看，乐一乐就好，不用较真。 限于我的能力
+ ## [开发必备，5个很棒的开源Flutter UI套件](http://news.51cto.com/art/201911/606157.htm)
+ > Flutter是Google的应用程序开发框架，用于创建跨平台的移动应用程序（在iOS和Android中）。诸如Hot Reload
+ ## [看不懂同事的代码？超强的 Stream 流操作姿势还不学习一下](http://news.51cto.com/art/201911/606156.htm)
+ > 我们都知道 Lambda 和 Stream 是 Java 8 的两大亮点功能，在前面的文章里已经介绍过 Lambda 相关知识，这次
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
+ > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
  ## [25 篇 Java 入门技术博文，送给正在自学的你](https://blog.csdn.net/qing_gee/article/details/102984677)
  > 
  ## [京东准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102993939)
  > 京东准点秒杀脚本
  ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
  > 
- ## [11月15日科技资讯|华为首款可折叠屏5G手机今日开售；GitHub将开源代码库保存在北极；Win10禁用WEP加密｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/103079991)
+ ## [三位物理学家与陶哲轩证明的惊天定理，原来早在教科书里吗？](https://blog.csdn.net/BEYONDMA/article/details/103102158)
  > 
- ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ ## [Spring Boot 2 实战：使用 Spring Boot Admin 监控你的应用](https://blog.csdn.net/qq_35067322/article/details/102645455)
+ > 
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [漫话：什么是 https ?这应该是全网把 https 讲的最好的一篇文章了](https://blog.csdn.net/m0_37907797/article/details/102759257)
+ > 
+ ## [11月15日科技资讯|华为首款可折叠屏5G手机今日开售；GitHub将开源代码库保存在北极；Win10禁用WEP加密｜极客头条](https://blog.csdn.net/weixin_39786569/article/details/103079991)
  > 
  ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
  > YouTube排名第一的励志英文演讲《Dream(梦想)》
- ## [没事爱在线上制造故障？这位程序媛有话说](https://blog.csdn.net/csdnnews/article/details/103019535)
+ ## [硬件内存模型到 Java 内存模型，这些硬核知识你知多少？](https://blog.csdn.net/z694644032/article/details/103022953)
  > 
- ## [synchronized使用和原理全解](https://blog.csdn.net/hebtu666/article/details/103057476)
- > 
- ## [别翻了，这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析【JVM篇二】](https://blog.csdn.net/qq_44543508/article/details/102983363)
- > 别翻了，这篇文章绝对让你深刻理解java类的加载以及ClassLoader源码分析【JVM篇二】
- ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
- > 大学四年，分享看过的优质书籍
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 11月8日，由中国信息通信研究院、中国通信标准化协会、中国互联网协会、可信区块链推进计划联合主办，科技行者协办的2019可信区块链峰会将在北京悠唐皇冠假日酒店开幕。　　区块链技术被认为是继蒸汽机、电力、互联网之后，下一代颠覆性的核心技术。如果说蒸汽机释放了人类的生产力，电力解决了人类基本的生活...
  ## [风波中的滴滴：离无人驾驶落地还有多远？](https://blog.csdn.net/csdnnews/article/details/103116295)
  > 作者 |杨雪梅本文经授权转载自新浪科技（ID：techsina）“预计很快，不会太远”。在2019世界人工智能大会期间，滴滴CTO张博对于滴滴自动驾驶汽车的落地透露了这样的信息。他表示，未来将在上海再部署30辆测试车，待测试成熟后将全面推广。滴滴CEO程维也提及，滴滴剥离了无人驾驶公司，希望推动无.
  ## [22w+的人选择了这款蓝牙耳机](https://blog.csdn.net/csdnnews/article/details/103116299)
@@ -142,13 +147,15 @@ Windows 10 Mobile &#36208;&#21521;&#32456;&#28857; 12 &#26376; 10 &#26085;&#2057
  ## [北大教授张大庆：无线感知，让你变老也优雅](https://blog.csdn.net/csdnnews/article/details/103116297)
  > 受访者 | 张大庆记者 | 胡巍巍出品 | CSDN（ID：CSDNnews）在国内高校中，北大的校庆日很特殊——5月4日。这一天，也是青年节。北大，是五四运动的策源地。...
  ## [@程序员，如何在编程面试中脱颖而出？](https://blog.csdn.net/csdnnews/article/details/103116298)
- > 如果能多了解一些面试的基本知识，可以帮助你在面试中对自身有更准确的定位，并且能提升你的面试技巧。作者 |edA‑qa mort‑ora‑y译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：由于不知道面试官对面试者的衡量标准，许多我曾面试过的候选人在面试中表现得差.
+ > 如果能多了解一些面试的基本知识，可以帮助你在面试中对自身有更准确的定位，并且能提升你的面试技巧。作者 |edA‑qa mort‑ora‑y译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：由于不知道面试官对面试者的衡量标准，许多我曾面试过...
  ## [PyTorch攻势凶猛，程序员正在抛弃TensorFlow？](https://blog.csdn.net/csdnnews/article/details/103116305)
  > 译者 | 夕颜出品 | AI科技大本营（ID:rgznai100）自 2012 年深度学习重新获得重视以来，许多机器学习框架便争相成为研究人员和行业从业人员的新宠。从早期的学术成果 Caffe 和 Theano ，到背靠庞大工业支持的 PyTorch 和 TensorFlow，大量的选择让我们很难.
  ## [世界500强的科技从业者，依旧逃不出买房难的宿命](https://blog.csdn.net/csdnnews/article/details/103116296)
- > 没有人、没有家，谈何梦想？作者 |孙媛 王潇宵本文经授权转载自猎云网（ID:ilieyun）住房短缺问题十分严重，深深影响到了全美各处的科技中心。就在Facebook宣布继谷歌之后投资10亿美元“安家费”，不少国内的互联网创业群众都表示“酸”了。再高的工资都比不上逆天的房价，就算是年薪百万的硅谷码.
+ > 没有人、没有家，谈何梦想？作者 |孙媛 王潇宵本文经授权转载自猎云网（ID:ilieyun）住房短缺问题十分严重，深深影响到了全美各处的科技中心。就在Facebook宣布继谷歌之后投资10亿美元“安家费”，不少国内的互联网创业群众都表示“酸”了。再高的工资都比不上逆天的房价，就...
  ## [如何伪装成一个彻头彻尾的程序员？](https://blog.csdn.net/csdnnews/article/details/103116303)
  > “我骗过商人，使他们让我担任技术联合创始人；我愚弄过工程师，让他们向我咨询通用人工智能......而我的秘诀是：这不取决于你知道什么，而取决于你展示了什么。”本文的作者声称自己是位深谙此道的资深“伪装者”，并表示：做一个冒牌的大人物总比做一个真实的无名小卒好。作者 |Sten Sootla译者 |.
+ ## [格力电器：手机业务由子公司经营，折叠屏手机还在研究阶段](http://www.lanjingtmt.com/news/detail/44929.shtml)
+ > 针对格力手机未来的发展，格力电器董秘望靖东在临时股东大会上表示，未来格力手机业务不会放在母公司，相关申请主体会在放在子公司，由子公司经营。
  ## [金山集团雷军：WPS要坚持全球化战略，深入企业服务市场](http://www.lanjingtmt.com/news/detail/44928.shtml)
  > 对于金山办公未来的发展方向，雷军表示，自己在金山集团主要干三件事，战略、使命和文化，就是要确保金山使命的传承。
  ## [摩拜单车再次宣布涨价，起步价升至1.5元](http://www.lanjingtmt.com/news/detail/44927.shtml)
@@ -158,59 +165,37 @@ Windows 10 Mobile &#36208;&#21521;&#32456;&#28857; 12 &#26376; 10 &#26085;&#2057
  ## [裁员关厂风波肆起、显示屏遭质疑，三星能否靠5G绝地求生](http://www.lanjingtmt.com/news/detail/44925.shtml)
  > 近年来，面对国产手机品牌的竞争，三星曾引以为豪的手机业务遭遇滑铁卢。三星在5G技术领域持续布局多年，然而其营业利润却出现了持续下跌趋势，5G技术能否扭转其业绩的颓势呢。
 # 人工智能 
- ## [程序员鄙视链！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/101180547)
- > 程序员鄙视链！ | 每日趣闻
- ## [mitmproxy证书装不上](https://blog.csdn.net/a6864657/article/details/100246252)
- > mitmproxy证书装不上
- ## [JavaWeb学生成绩管理系统](https://blog.csdn.net/ylcto/article/details/94730079)
- > JavaWeb学生成绩管理系统
- ## [公司部门和职称](https://blog.csdn.net/qq_42363892/article/details/100359434)
- > 公司部门和职称
- ## [峰会回顾|现场干货来袭！](https://blog.csdn.net/nanshanfu/article/details/100776584)
- > 峰会回顾|现场干货来袭！
- ## [类似qq,微信不受监控安全的聊天工具推荐](https://blog.csdn.net/jiangwudidebaba/article/details/100734997)
- > 类似qq,微信不受监控安全的聊天工具推荐
- ## [Java设计模式-组合模式](https://blog.csdn.net/cblstc/article/details/91788768)
- > Java设计模式-组合模式
- ## [什么是B端C端](https://blog.csdn.net/liu_Yudong/article/details/91430871)
- > 什么是B端C端
- ## [中创向心力：职业院校如何严格职业技能等级考核与证书发放？](https://blog.csdn.net/weixin_44086521/article/details/94601755)
- > 中创向心力：职业院校如何严格职业技能等级考核与证书发放？
- ## [php开发之Composer包](https://blog.csdn.net/mrtwenty/article/details/97426344)
- > php开发之Composer包
- ## [程序员最常说的谎言是什么？ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/100612844)
- > 程序员最常说的谎言是什么？ | 每日趣闻
- ## [Android——多语言适配](https://blog.csdn.net/weixin_37758967/article/details/97241429)
- > Android——多语言适配
- ## [公司的企业文化 管理](https://blog.csdn.net/qq_27366859/article/details/97150848)
- > 公司的企业文化 管理
- ## [基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现](https://blog.csdn.net/demongwc/article/details/85122172)
- > 基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现
- ## [Fluke Corporation收购工业可靠性领导者普卢福](https://blog.csdn.net/sinat_41698914/article/details/96879521)
- > Fluke Corporation收购工业可靠性领导者普卢福
+ ## [@渗透测试之信息收集](https://blog.csdn.net/Froglets/article/details/103102252)
+ > @渗透测试之信息收集
+ ## [Linux系统安全（包含系统引导，登录控制，用户提权和密码破解等）](https://blog.csdn.net/weixin_42953006/article/details/103108074)
+ > Linux系统安全（包含系统引导，登录控制，用户提权和密码破解等）
+ ## [Linux系统管理：账户安全控制及应用实验](https://blog.csdn.net/weixin_45726050/article/details/103102993)
+ > Linux系统管理：账户安全控制及应用实验
+ ## [2. django的配置文件settings](https://blog.csdn.net/weixin_44024393/article/details/103106844)
+ > 2. django的配置文件settings
+ ## [我的java基础学习易错点和易忘点总结（三）多线程](https://blog.csdn.net/ym15229994318ym/article/details/103111505)
+ > 我的java基础学习易错点和易忘点总结（三）多线程
+ ## [安装操作系统的了解](https://blog.csdn.net/qq_44762986/article/details/103100295)
+ > 安装操作系统的了解
+ ## [渗透测试初级面试题](https://blog.csdn.net/qq_38867330/article/details/103102952)
+ > 渗透测试初级面试题
+ ## [MongoDB副本集搭建(超级详细)](https://blog.csdn.net/c66p0/article/details/103106401)
+ > MongoDB副本集搭建(超级详细)
+ ## [UNCTF babyheap](https://blog.csdn.net/qq_37433000/article/details/103103059)
+ > UNCTF babyheap
+ ## [实现可重入锁](https://blog.csdn.net/m1615404392/article/details/103112217)
+ > 实现可重入锁
+ ## [网聚云联IPv6改造及实施方案](https://blog.csdn.net/Bruce_9527/article/details/103107158)
+ > 网聚云联IPv6改造及实施方案
+ ## [SqlServer设置特定用户操作特定表(插入、删除、更新、查询 的权限设置)](https://blog.csdn.net/willingtolove/article/details/103086778)
+ > SqlServer设置特定用户操作特定表(插入、删除、更新、查询 的权限设置)
+ ## [Mybatis使用{}与${}获取参数值的区别](https://blog.csdn.net/weixin_44706385/article/details/103099884)
+ > Mybatis使用{}与${}获取参数值的区别
+ ## [区块链+产品溯源落地方案——基于SunlightDB数据库](https://blog.csdn.net/Dreamcode/article/details/103107837)
+ > 区块链+产品溯源落地方案——基于SunlightDB数据库
+ ## [读者写者问题的写者优先算法](https://blog.csdn.net/wwangzai/article/details/103096769)
+ > 读者写者问题的写者优先算法
 # PM 
- ## [机器人编笑话把你逗笑了，人类的噩梦来临了](http://www.woshipm.com/ai/3100074.html)
- > 人工智能威胁你的工作，在人类层面来说还不是什么大问题，这种技术是可见的、可预测的。但如果你被人工智能编的笑话逗笑了，这才是令人害怕的，这已经涉及人类的情感层...
- ## [B端运营如何量化指标？](http://www.woshipm.com/operate/3099926.html)
- > 前段时间写过一篇关于如何构建B运营体系的文章，在构建完运营体系后，下一步的工作应该就是如何建立量化运营，不然所有的运营工作，无法开展、评估及优化。从体系上看，...
- ## [小蓝星推荐榜上线，回顾知乎变现之路](http://www.woshipm.com/operate/3093787.html)
- > 从上线直播功能到最近的“小蓝星”，知乎一直在不断尝试着不同的商业变现之路。本文作者对知乎在商业化进程上做过的尝试进行了梳理分析，与大家分享。双11前夕，知乎App...
- ## [产品心理学019 | 为什么开会容易变成“一言堂”](http://www.woshipm.com/zhichang/3099384.html)
- > 你是否常常面临这样的场景，会议上自己并不同意某个决策，却不自觉跟随大家的决策，明明有看法却没能提出。这其中，很多时候是群体思维齐了压制作用。团队开会是企业...
- ## [交互设计的价值观：是什么？有什么价值？](http://www.woshipm.com/pd/3098576.html)
- > 在日常的交互设计中，无意和有意之间，我们常常会受到流行趋势的影响。但流行毕竟是一时的，真正能让我们的设计与众不同的点是什么呢？本文作者从交互设计的价值观出发...
- ## [复盘校园市场两年的尝试与成长：切准需求，逐步增长](http://www.woshipm.com/chuangye/3097143.html)
- > 校园市场商机诱人，校园电商真得好做吗？笔者是一名大三学生，从大一开始参与校园创业项目，已是一名两岁的创业人。这篇文章将会复盘过去两年的创业历程，谈一谈自己...
- ## [如何进行有效需求分析（3）：流程篇](http://www.woshipm.com/pmd/3099635.html)
- > 欢迎来到大型情感类专题：如何进行有效需求分析——业务流程篇！大家可以看到本篇文章的标题，与前两篇内容不太一样了。这是因为，自己也画了几年的流程图了，但时至今日...
- ## [关于深色主题设计的8个小技巧](http://www.woshipm.com/pd/3099850.html)
- > 深色主题成为趋势，相应设计也需要做出合适的改变。深色模式成为2020年的新趋势，Android推出了两种深色模式，分别叫Force Dark Mode和System Dark Mode。随着苹果和...
- ## [产品经理如何更好地做决策？](http://www.woshipm.com/pmd/3099017.html)
- > 决策常常有，最后逼出了选择困难症。笔者以决策为题，从三个维度分析了如何做决策。实际上，很多时候的决策都没有想象中那么重要。这样的场景对你来说是不是很熟悉？...
- ## [我所见过的那些「低效」产品经理](http://www.woshipm.com/pmd/3099046.html)
- > 就在前期准备的过程，不断和同事、合作伙伴磨合的过程中，我发现了很多行业里、职场里的诟病，这些诟病最大的危害不仅能浪费你最宝贵的时间，还分分钟能带你跑偏，让你...
- ## [UI设计师：C端产品首页改版方法复盘](http://www.woshipm.com/pd/3087442.html)
- > 作者从UI设计师的角度出发，对一次C端产品首页改版进行了复盘分析，希望额能帮助大家更好的完成首页用户改版，与大家分享。一、前景市场环境变化日益更新，更加的激...
  ## [如果面试被问及推荐机制，看了这篇你就稳了](http://www.chanpin100.com/article/110071)
  > 推荐机制究竟是怎么工作的呢？利弊各自是什么呢？
  ## [三年产品经理的转正述职报告](http://www.chanpin100.com/article/110070)
