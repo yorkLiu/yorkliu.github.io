@@ -1,7 +1,7 @@
 ---
 title: 2019-11-19 IT News
 copyright: true
-date: 2019-11-19 10:00:57
+date: 2019-11-19 12:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,46 +65,34 @@ WPS &#19978;&#24066;&#24403;&#22825;&#32929;&#20215;&#19978;&#28072;&#36817; 200
 <p>&nbsp;</p>
 
 # IT 技术 
- ## [一文搞懂神经网络](http://ai.51cto.com/art/201911/606086.htm)
- > 一文搞懂神经网络
- ## [全面讲解分布式数据库架构设计特点](http://database.51cto.com/art/201911/606170.htm)
- > 全面讲解分布式数据库架构设计特点
- ## [抗住双11的秒杀系统如何设计？](http://developer.51cto.com/art/201911/606106.htm)
- > 抗住双11的秒杀系统如何设计？
- ## [可怕！爱在朋友圈晒自拍的妹子们一定要看!](http://netsecurity.51cto.com/art/201911/606114.htm)
- > 可怕！爱在朋友圈晒自拍的妹子们一定要看!
- ## [解析四种大数据文件格式](http://bigdata.51cto.com/art/201911/606105.htm)
- > 解析四种大数据文件格式
- ## [P6跨级晋升P8，再到P10，我的11年前端成长之路](http://developer.51cto.com/art/201911/606108.htm)
- > P6跨级晋升P8，再到P10，我的11年前端成长之路
- ## [数据处理遇到麻烦不要慌，5个优雅的Numpy函数助你走出困境](http://zhuanlan.51cto.com/art/201911/606103.htm)
- > 数据处理遇到麻烦不要慌，5个优雅的Numpy函数助你走出困境
- ## [防火墙自动化如何帮助预防错误配置引起的安全泄密?](http://netsecurity.51cto.com/art/201911/606102.htm)
- > 防火墙自动化如何帮助预防错误配置引起的安全泄密?
- ## [\[5G百科\] 参数集和命理学的神秘关系](http://network.51cto.com/art/201911/606211.htm)
- > 话说蜉蝣君头一次看到5G参数集的英文“Numerology”的时候，莫名地感到有些诡异。这个单词看起来有些邪性，
- ## [项目中的if else太多了，该怎么重构？](http://news.51cto.com/art/201911/606209.htm)
- > if else过多的话，一般都是用策略模式来进行重构，策略模式也非常的简单。
- ## [NLP极简入门指南，助你通过面试，踏入NLP的大门](http://ai.51cto.com/art/201911/606210.htm)
- > 弱人工智能的时代已经到来，人们每天的生活都离不开算法所提供的服务。比如：资讯类APP是根据用户偏好做的
- ## [鸿蒙系统是否用于手机？华为董事长：20日将发布鸿蒙整体战略](http://news.51cto.com/art/201911/606208.htm)
- > 今年8月9日的开发者大会上，华为宣布了鸿蒙HarmonyOS系统，首发产品是智慧屏，其他设备未来也有可能会升级
- ## [3种不走寻常路的黑客攻击泄露&如何保护自己？](http://netsecurity.51cto.com/art/201911/606206.htm)
- > 数据泄露和黑客攻击现在已经成为我们日常生活中的常见部分，除非您是网络安全专业人员或您的个人数据受到威
- ## [区块链的颠覆力量之三：金融业](http://zhuanlan.51cto.com/art/201911/606204.htm)
- > 区块链对金融业的改造，主要体现在四个方面，分别是：验证客户身份、资产数字化、支付清算一体化和法规重构
- ## [面试问Kafka，这一篇全搞定](http://os.51cto.com/art/201911/606207.htm)
- > 应大部分的小伙伴的要求，今天这篇咱们用大白话带你认识 Kafka。
- ## [给需要关心安全的技术人员的一些建议](http://netsecurity.51cto.com/art/201911/606202.htm)
- > 网络安全事件频发，安全事故的危害越来越大，互联网从业者需要越来越注重安全问题。这里分享一些心得给刚刚
- ## [Java并发编程（JUC）模拟AND型信号量](http://developer.51cto.com/art/201911/606203.htm)
- > AND型信号量可能大家都听说过并可能都有一定的理解，但是你有使用过么?今天就使用Java来模拟实现!
- ## [分享几个不过时的DOS命令，需要的请收藏](http://netsecurity.51cto.com/art/201911/606201.htm)
- > DOS命令虽然离我们越来越远，但即便在Windows年代，以下几个DOS命令还是非常实用的。
+ ## [物联网是解决“小”数据问题的关键](http://iot.51cto.com/art/201911/606228.htm)
+ > 大数据问题并不是物联网要解决的唯一问题.物联网非常适合解决您的小数据问题
+ ## [物联网平台：自建还是购买](http://iot.51cto.com/art/201911/606227.htm)
+ > 您应该自建还是购买物联网平台？只有在了解了自己的具体需求和能力后，您才能做出正确决定。
+ ## [我国网络安全的特点、成就、趋势](http://netsecurity.51cto.com/art/201911/606226.htm)
+ > 我国的网民数量和网络规模均居世界第一，网络已经深度融入人们的学习、生活、工作。大数据、云计算、物联网
+ ## [女朋友背着我，用 Python 偷偷隐藏了她的行踪](http://developer.51cto.com/art/201911/606225.htm)
+ > 女朋友会 Python 是多么可怕的一件事！上篇文章发布之后，一位朋友告诉忽略了一件事，假设女朋友会 Python
+ ## [未来的物联网将具备无处不在，无所不包的网络接入](http://iot.51cto.com/art/201911/606224.htm)
+ > 连接无处不在、无所不包物联网作为信息系统向物理世界的延伸，拓展了人类认知和控制物理世界的能力，已经被
+ ## [Python 实现docx文件的读写操作](http://developer.51cto.com/art/201911/606223.htm)
+ > 我们在做一些数据统计或分析的时候，有时会接触到Execl 格式或者Word 格式的文件。Execl格式的数据提取和解
+ ## [区块链和物联网将如何重塑建筑业？](http://iot.51cto.com/art/201911/606222.htm)
+ > 物联网正在快速推动建筑行业资产和流程的数字化。建设项目通常很复杂，涉及许多法规和标准。信任和验证存在
+ ## [漫谈数据中心的演变和发展](http://server.51cto.com/Datacenter-606220.htm)
+ > 数据中心如今已成为维系现代社会结构的粘合剂，无论是用信用卡购物、向朋友发送消息，还是订购比萨饼，实际
+ ## [给 AI 讲故事，如何教它脑补画面？](http://ai.51cto.com/art/201911/606221.htm)
+ > 视觉想象力是人与生俱来的， AI 能否拥有类似的能力呢?比如：给出一段故事情节，如何让机器展开它的想象力
+ ## [32个常用 Python 实现](http://developer.51cto.com/art/201911/606218.htm)
+ > 今天我们来看看32个常用的 Python 实现。
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
  ## [MySQL数据库—SQL汇总](https://blog.csdn.net/qq_37969433/article/details/102637226)
  > MySQL数据库—SQL汇总
+ ## [html-css笔记](https://blog.csdn.net/qq_42835910/article/details/103103040)
+ > html-css笔记
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
  > 有哪些让程序员受益终生的建议
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
@@ -127,12 +115,16 @@ WPS &#19978;&#24066;&#24403;&#22825;&#32929;&#20215;&#19978;&#28072;&#36817; 200
  > 史上最全的mysql基础教程
  ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
  > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
- > 学习 Java 应该关注哪些网站？
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 11月8日，由中国信息通信研究院、中国通信标准化协会、中国互联网协会、可信区块链推进计划联合主办，科技行者协办的2019可信区块链峰会将在北京悠唐皇冠假日酒店开幕。　　区块链技术被认为是继蒸汽机、电力、互联网之后，下一代颠覆性的核心技术。如果说蒸汽机释放了人类的生产力，电力解决了人类基本的生活...
+ ## [京东数科陈生强：块数据平台将成为智能城市数字化的管理中心](http://www.lanjingtmt.com/news/detail/44939.shtml)
+ > 京东数科CEO陈生强日前在2019京东全球科技探索者大会上表示，雄安不仅将是一个现代化的物理之城，更将是一个前所未有的数字之城。
+ ## [最高法发布大数据报告：利用微信实施网络诈骗超半数](http://www.lanjingtmt.com/news/detail/44938.shtml)
+ > 《报告》显示，2016年至2018年网络犯罪案件已结4.8万余件，案件量及在全部刑事案件总量中的占比均呈逐年上升趋势，到2018年，案件量显著增加，同比升幅为50.91%。
+ ## [小米雷军：明年是5G手机市场起飞元年，将发布10款5G手机](http://www.lanjingtmt.com/news/detail/44937.shtml)
+ > 小米集团创始人兼CEO雷军在MIDC 2019小米开发者大会上表示，5G是行业的一个机会，小米将全力推动5G手机的研发和推广，在 12 月份发布小米首款双膜 5G 手机 Redmi
+ ## [58同城2019年Q3营收42.5亿元，同比增长17.4%](http://www.lanjingtmt.com/news/detail/44936.shtml)
+ > 报告期内，58同城营收42.58亿元，同比增长17.4%；非美国会计准则下归属于58同城股东的净利润为10.18亿元，同比增长20.7%。
  ## [腾讯推出信息流内容服务“腾讯看点”，DAU超1.85亿](http://www.lanjingtmt.com/news/detail/44935.shtml)
  > 日前，腾讯发布了信息流内容服务品牌——腾讯看点。
  ## [B站Q3净亏损同比扩大65%至4.06亿，月活用户1.28亿](http://www.lanjingtmt.com/news/detail/44934.shtml)
@@ -140,68 +132,44 @@ WPS &#19978;&#24066;&#24403;&#22825;&#32929;&#20215;&#19978;&#28072;&#36817; 200
  ## [移动用户办理宽带业务后遇恶意软件，客服推诿遭质疑](http://www.lanjingtmt.com/news/detail/44933.shtml)
  > 杨先生对蓝鲸TMT记者爆料称，自安装了中国移动免费宽带之后，不到三个月，电视就因为弹出的软件页面死机而无法使用，而这不排除与移动赠送的机顶盒有关。
 # 人工智能 
- ## [专业导论-课后总结-2019.11.14-V1.0](https://blog.csdn.net/weixin_45892170/article/details/103112699)
- > 专业导论-课后总结-2019.11.14-V1.0
- ## [图像处理  傅里叶滤波](https://blog.csdn.net/qq_36511401/article/details/103105056)
- > 图像处理  傅里叶滤波
- ## [iOS——图像显示原理以及UI流畅性优化方案](https://blog.csdn.net/qq_42347755/article/details/103101766)
- > iOS——图像显示原理以及UI流畅性优化方案
- ## [微电子电路——反相器延迟时间](https://blog.csdn.net/qq_40851744/article/details/103113542)
- > 微电子电路——反相器延迟时间
- ## [c语言库函数总结----math.h库](https://blog.csdn.net/Kroner/article/details/103091810)
- > c语言库函数总结----math.h库
- ## [Mac环境用Shell脚本编译最新版ffmpeg-4.2.1](https://blog.csdn.net/isJoker/article/details/103108648)
- > Mac环境用Shell脚本编译最新版ffmpeg-4.2.1
- ## [wxPython整点报时](https://blog.csdn.net/weixin_43069875/article/details/103098529)
- > wxPython整点报时
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
- ## [iZotope Nectar 3 for Mac人声处理方法](https://blog.csdn.net/a055350/article/details/103098564)
- > iZotope Nectar 3 for Mac人声处理方法
- ## [人脸识别驱动usb继电器开关灯（一）（vc++）](https://blog.csdn.net/ganggangwawa/article/details/103107269)
- > 人脸识别驱动usb继电器开关灯（一）（vc++）
- ## [使用wps2019的表格验证数据造假与否（本福特定律）](https://blog.csdn.net/winniezhang/article/details/103096129)
- > 使用wps2019的表格验证数据造假与否（本福特定律）
- ## [和大家分享一下我作为大学生收藏的网站](https://blog.csdn.net/m0_38020435/article/details/103098905)
- > 和大家分享一下我作为大学生收藏的网站
- ## [数字信号处理（二）窗函数法设计FIR数字滤波器](https://blog.csdn.net/weixin_44566643/article/details/103109690)
- > 数字信号处理（二）窗函数法设计FIR数字滤波器
- ## [java中同步的访问共享的可变数据](https://blog.csdn.net/liu_12345_liu/article/details/103102888)
- > java中同步的访问共享的可变数据
- ## [Opencv之图像金字塔：高斯金字塔和拉普拉斯金字塔](https://blog.csdn.net/u013289254/article/details/103108554)
- > Opencv之图像金字塔：高斯金字塔和拉普拉斯金字塔
+ ## [Android优秀文章总结](https://blog.csdn.net/weixin_37292229/article/details/76192197)
+ > Android优秀文章总结
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [关于Android 10.0适配，看这篇就够了](https://blog.csdn.net/weixin_40611659/article/details/95174124)
+ > 关于Android 10.0适配，看这篇就够了
+ ## [android studio的安装，史上最详细(超多图)！！](https://blog.csdn.net/qq_41976613/article/details/91432304)
+ > android studio的安装，史上最详细(超多图)！！
+ ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
+ > Android studio 3.5安装详解
+ ## [adb下载安装及使用](https://blog.csdn.net/weixin_43927138/article/details/90477966)
+ > adb下载安装及使用
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+ ## [Android——微信自动回复实现](https://blog.csdn.net/qq_22770457/article/details/101072143)
+ > 
+ ## [Android高级程序员必备系列](https://blog.csdn.net/u013095264/article/details/89338932)
+ > Android高级程序员必备系列
+ ## [OKHTTP3版本差异引发冲突](https://blog.csdn.net/shexiaoxiaoniu/article/details/92771722)
+ > OKHTTP3版本差异引发冲突
+ ## [未知的USB设备（设备描述符请求失败）的解决办法！！！！希望可以帮到你](https://blog.csdn.net/Knowledge_dai/article/details/90737855)
+ > 未知的USB设备（设备描述符请求失败）的解决办法！！！！希望可以帮到你
+ ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
+ > 小米airdots双耳串联问题解决
+ ## [xilinx  vivado 百度云分享  vivado2019.1  2018.3   2018.2  2017.4](https://blog.csdn.net/weixin_40377195/article/details/93683488)
+ > xilinx  vivado 百度云分享  vivado2019.1  2018.3   2018.2  2017.4
+ ## [Error:No such property: GradleVersion for class: JetGradlePlugin](https://blog.csdn.net/qq_34895720/article/details/97243371)
+ > Error:No such property: GradleVersion for class: JetGradlePlugin
+ ## [【Android】【系统适配】解决此应用专为旧版Android打造问题](https://blog.csdn.net/u013718730/article/details/94583439)
+ > 【Android】【系统适配】解决此应用专为旧版Android打造问题
 # PM 
- ## [动笔写文案前，你要先懂文案的三项策略](http://www.woshipm.com/copy/3101049.html)
- > 在如何提高文案水平这个话题上，有无数人的发言与观点。但是笔者认为一味强调文案写作技巧只是一部分，更重要的应该是着眼于全局，了解文案创作的三项策略。文者，贯...
- ## [海外销售业务流程分析之财务](http://www.woshipm.com/pd/2825553.html)
- > 本文继前面介绍客户管理、产品管理之后，接着介绍财务管理相关知识，这里简要说下，笔者参与的系统不是专门的财务管理系统，而是仅涉及部分财务相关业务流程，在此总结...
- ## [如何设计通用商品管理系统？](http://www.woshipm.com/pd/3092505.html)
- > 一个逻辑清楚的后台，才能打造流畅的电商体验。凡是涉及到购物，必然是建立在商品的基础之上。作为交易的基础，商品管理可以说是电商系统最中重要的部分，它是连接前...
- ## [免费公开课｜产品经理的AI启蒙课，3天解构人工智能产品和AI产品经理](http://www.woshipm.com/active/3092474.html)
- > 如果你是关注行业趋势的产品经理，那你一定不难察觉：随着算法、算力和数据条件的成熟，人工智能领域进入高速发展阶段。2017年，国务院下发新一代人工智能发展规划，...
- ## [5阶段法，搞定产品优先级](http://www.woshipm.com/pmd/3103899.html)
- > 本文将通过一个案例跟大家解析，产品生命周期的五个阶段到底是什么？如何利用这五个阶段来搞定产品的优先级？怎么判断这个版本该做增长类功能还是留存类功能？做产品...
- ## [用户运营实战（二）：会员价值认知及体系搭建](http://www.woshipm.com/operate/2205787.html)
- > 在上一篇文章中，我们梳理了关于用户成长激励的六大运营模块，每个模块在实际运营过程中，都可以独立按照体系化的标准建设，只不过链路有长有短，有轻有重；今天我们就...
- ## [英语教育往事：一部商业的进化史](http://www.woshipm.com/it/3099466.html)
- > 从国家战略到商业，变了味的英语培训行业该如何自救？一、萌芽1842年8月29日，停泊在南京下关江面的英国军舰皋华丽号上，清朝政府钦差大臣耆英、伊里布与英国代表...
- ## [这届双11，5亿人的“阿拉丁神灯”](http://www.woshipm.com/it/3094220.html)
- > 本文介绍了从下沉市场、新品和好货、百亿补贴三个维度，对双十一进行了观察与分析。当所有消费利好因素都聚集在同一天的24小时内，会发生什么？超5亿参与者、12.92亿...
- ## [用文字梳理产品价值观这门玄学](http://www.woshipm.com/pmd/3094406.html)
- > 本文将用浅显的语言解析抽象又玄学的产品价值观是什么？01价值观是个很玄学的东西，在我刚做产品的时候，我甚至没有想过这个事情。但当经历了不同的产品业务，项目的...
- ## [如果面试被问及推荐机制，看了这篇你就稳了](http://www.chanpin100.com/article/110071)
- > 推荐机制究竟是怎么工作的呢？利弊各自是什么呢？
- ## [三年产品经理的转正述职报告](http://www.chanpin100.com/article/110070)
- > 自己是工作五年有余，产品三年有余，本文是自己转正时总结的述职报告PPT，有需要PPT下载的，可到公众号内自行下载，公众号：晓庄同学产品笔记。
- ## [如何让用户进行产品的口碑传播](http://www.chanpin100.com/article/110069)
- > 用户之所以对一款产品进行传播，在传播过程中建立产品的口碑，都是因为产品让用户产生了想要分享的感受。抓住这种感受，并且进行反复练习，就能知道如何让大众进行口碑传播。
- ## [大数据解读iOS13热搜规律：热搜推荐逻辑有章可循？](http://www.chanpin100.com/article/110068)
- > iOS 13的App Store中游戏产品更易被推荐？热搜推荐逻辑有章可循？
- ## [如何进行有效需求分析？（3）流程篇](http://www.chanpin100.com/article/110067)
- > 信息系统的核心价值之一是支持业务，而业务支持的核心是对业务流程的固化、优化和重构。
- ## [做自己的事业，你需要有一种检察官精神](http://www.chanpin100.com/article/110066)
- > 在韩国，大部分的年轻人并不想去创业，更不奢望成为CEO，毕竟对他们来说这有点空中楼阁的味道。
- ## [产品经理：开启视角从洞察做起](http://www.chanpin100.com/article/110065)
- > 产品经理的成长过程中犹如武功修炼，不仅仅只是身强力壮，还需要修炼各种心法与武功套路。
+ ## [那些没有在追求用户数量的金融产品经理，都在追求什么？](http://www.chanpin100.com/article/110078)
+ > 我爸很久之前曾经问我：微信又不收费，它是怎么赚钱的？你们公司又是怎么赚钱的？
+ ## [竞品分析报告：流利说•英语](http://www.chanpin100.com/article/110077)
+ > 本文旨在通过研究语言教育市场趋势，以有道口语、金山词霸两个语言教育工具app与“英语流利说”app进行产品定位、功能和策略等方面的对比分析，探讨“英语流利说”下一步发展方向，给出具体的迭代策略，为之后“英语流利说”app下一版本需求优化提供决策辅助。
+ ## [如何模块化设计B端系统？](http://www.chanpin100.com/article/110076)
+ > 咱们都希望能做出一个可复用性强、灵活性好的B端系统出来。那么，模块化设计就是其中一个很好的方法
+ ## [产品经理如何进行无授权领导](http://www.chanpin100.com/article/110075)
+ > 产品经理如何打造自身的影响力
 
     
