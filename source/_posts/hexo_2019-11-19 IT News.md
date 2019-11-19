@@ -1,7 +1,7 @@
 ---
 title: 2019-11-19 IT News
 copyright: true
-date: 2019-11-19 08:00:54
+date: 2019-11-19 09:00:51
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -26,6 +26,8 @@ categories: IT NEWS
  > 之前看完了第10名到第6名的选手，今天就来看看对物联网(IoT)前五名分别是哪些威胁吧!
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
+ ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
+ > 程序员实用工具网站
  ## [MySQL数据库—SQL汇总](https://blog.csdn.net/qq_37969433/article/details/102637226)
  > MySQL数据库—SQL汇总
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
@@ -48,48 +50,54 @@ categories: IT NEWS
  > 兼职程序员一般可以从什么平台接私活？
  ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
  > 史上最全的mysql基础教程
- ## [《吊打面试官》系列-秒杀系统设计](https://blog.csdn.net/qq_35190492/article/details/103105780)
- > 
  ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
  > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
- ## [学习 Java 应该关注哪些网站？](https://blog.csdn.net/qing_gee/article/details/102781522)
- > 学习 Java 应该关注哪些网站？
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 11月8日，由中国信息通信研究院、中国通信标准化协会、中国互联网协会、可信区块链推进计划联合主办，科技行者协办的2019可信区块链峰会将在北京悠唐皇冠假日酒店开幕。　　区块链技术被认为是继蒸汽机、电力、互联网之后，下一代颠覆性的核心技术。如果说蒸汽机释放了人类的生产力，电力解决了人类基本的生活...
+ ## [B站Q3净亏损同比扩大65%至4.06亿，月活用户1.28亿](http://www.lanjingtmt.com/news/detail/44934.shtml)
+ > 本季度，B站月均活跃用户达1.28亿，同比增长38%；移动端月均活跃用户首度破亿，同比增长43%达1.14亿。B站月均付费用户数同比增长124%，达到795万。
  ## [移动用户办理宽带业务后遇恶意软件，客服推诿遭质疑](http://www.lanjingtmt.com/news/detail/44933.shtml)
  > 杨先生对蓝鲸TMT记者爆料称，自安装了中国移动免费宽带之后，不到三个月，电视就因为弹出的软件页面死机而无法使用，而这不排除与移动赠送的机顶盒有关。
 # 人工智能 
- ## [前端工程师必看，这些浏览器奇淫功能你知道吗？](https://blog.csdn.net/weixin_44198965/article/details/103110697)
- > 前端工程师必看，这些浏览器奇淫功能你知道吗？
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ ## [Python全详解--大纲（全网最清晰学习思路）](https://blog.csdn.net/zhongqi2513/article/details/103091010)
+ > Python全详解--大纲（全网最清晰学习思路）
+ ## [你的童年有俄罗斯方块吗？教你用 Python 实现俄罗斯方块！](https://blog.csdn.net/ityard/article/details/103058315)
+ > 你的童年有俄罗斯方块吗？教你用 Python 实现俄罗斯方块！
+ ## [机器学习实战——KNN算法及机器学习初识](https://blog.csdn.net/weixin_44568780/article/details/103054851)
+ > 机器学习实战——KNN算法及机器学习初识
+ ## [python 网络爬虫（慕课网）](https://blog.csdn.net/AdamCY888/article/details/103094373)
+ > python 网络爬虫（慕课网）
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [web 前端性能优化汇总](https://blog.csdn.net/qq_34927733/article/details/103051612)
- > web 前端性能优化汇总
- ## [js笔记](https://blog.csdn.net/qq_42835910/article/details/103103116)
- > js笔记
- ## [JavaScript基础知识及写法](https://blog.csdn.net/H_eartbeat/article/details/103102782)
- > JavaScript基础知识及写法
- ## [JavaScript请求后台数据的几种常用方式](https://blog.csdn.net/lianghecai52171314/article/details/103095814)
- > JavaScript请求后台数据的几种常用方式
- ## [CSS3中的动画](https://blog.csdn.net/chenyiboke/article/details/103094377)
- > CSS3中的动画
- ## [OpenLayers 6 通过在ol.source.ImageCanvas中获取VectorContext对象高效率绘制海量要素（支持点、线、面）](https://blog.csdn.net/nudtcadet/article/details/103108260)
- > OpenLayers 6 通过在ol.source.ImageCanvas中获取VectorContext对象高效率绘制海量要素（支持点、线、面）
- ## [京东准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102993939)
- > 京东准点秒杀脚本
- ## [BFC原理在CSS中的应用](https://blog.csdn.net/qq_43624878/article/details/103101817)
- > BFC原理在CSS中的应用
- ## [HTML5 - 文字跑马灯标签(marquee)屏幕滚动文字](https://blog.csdn.net/weixin_44198965/article/details/103087001)
- > HTML5 - 文字跑马灯标签(marquee)屏幕滚动文字
- ## [小程序点击事件插入激励视频广告实例（小白应该也能懂）](https://blog.csdn.net/qq_39653624/article/details/103108787)
- > 小程序点击事件插入激励视频广告实例（小白应该也能懂）
- ## [手写react-router-dom](https://blog.csdn.net/weixin_44775548/article/details/102951604)
- > 手写react-router-dom
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
- > 
- ## [JavaScript中原型和原型链（图解）](https://blog.csdn.net/zsl15039718107/article/details/103099411)
- > JavaScript中原型和原型链（图解）
+ ## [爬取百度文库内容(Selenium+BeautifulSoup)](https://blog.csdn.net/qq_41417974/article/details/103101601)
+ > 爬取百度文库内容(Selenium+BeautifulSoup)
+ ## [Python的多线程与多进程](https://blog.csdn.net/go121015603/article/details/103101077)
+ > Python的多线程与多进程
+ ## [python面试基础知识(二)](https://blog.csdn.net/hanguofei/article/details/103102172)
+ > python面试基础知识(二)
+ ## [Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）](https://blog.csdn.net/weixin_43943977/article/details/102691392)
+ > Python——画一棵漂亮的樱花树（不同种樱花+玫瑰+圣诞树喔）
+ ## [python 机器学习 预处理和主成分分析(PCA)](https://blog.csdn.net/huangjiaaaaa/article/details/103107820)
+ > python 机器学习 预处理和主成分分析(PCA)
+ ## [Linux中的awk命令](https://blog.csdn.net/gdkyxy2013/article/details/103097964)
+ > Linux中的awk命令
+ ## [基于Python的大数据分析基础（七）---数据可视化之Seaborn，Pandas可视化功能，networkx网络图，folium绘制地图](https://blog.csdn.net/qq_36853469/article/details/103099275)
+ > 基于Python的大数据分析基础（七）---数据可视化之Seaborn，Pandas可视化功能，networkx网络图，folium绘制地图
+ ## [python3 用地面站点实测降雨数据校正TRMM/3B43遥感降雨数据](https://blog.csdn.net/qq_37970770/article/details/103097974)
+ > python3 用地面站点实测降雨数据校正TRMM/3B43遥感降雨数据
+ ## [机器学习实战——决策树算法](https://blog.csdn.net/weixin_44568780/article/details/103097205)
+ > 机器学习实战——决策树算法
+ ## [一起学Python吧~基础知识汇总](https://blog.csdn.net/qq_43417559/article/details/103046611)
+ > 一起学Python吧~基础知识汇总
 # PM 
+ ## [英语教育往事：一部商业的进化史](http://www.woshipm.com/it/3099466.html)
+ > 从国家战略到商业，变了味的英语培训行业该如何自救？一、萌芽1842年8月29日，停泊在南京下关江面的英国军舰皋华丽号上，清朝政府钦差大臣耆英、伊里布与英国代表...
+ ## [这届双11，5亿人的“阿拉丁神灯”](http://www.woshipm.com/it/3094220.html)
+ > 本文介绍了从下沉市场、新品和好货、百亿补贴三个维度，对双十一进行了观察与分析。当所有消费利好因素都聚集在同一天的24小时内，会发生什么？超5亿参与者、12.92亿...
+ ## [用文字梳理产品价值观这门玄学](http://www.woshipm.com/pmd/3094406.html)
+ > 本文将用浅显的语言解析抽象又玄学的产品价值观是什么？01价值观是个很玄学的东西，在我刚做产品的时候，我甚至没有想过这个事情。但当经历了不同的产品业务，项目的...
  ## [如果面试被问及推荐机制，看了这篇你就稳了](http://www.chanpin100.com/article/110071)
  > 推荐机制究竟是怎么工作的呢？利弊各自是什么呢？
  ## [三年产品经理的转正述职报告](http://www.chanpin100.com/article/110070)
