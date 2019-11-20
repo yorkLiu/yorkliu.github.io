@@ -1,7 +1,7 @@
 ---
 title: 2019-11-20 IT News
 copyright: true
-date: 2019-11-20 12:01:00
+date: 2019-11-20 17:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -84,28 +84,30 @@ NASA&#23459;&#24067;SpaceX&#12289;&#34013;&#33394;&#36215;&#28304;&#31561;&#2011
  > 为什么9102年了，我们还要清理iOS缓存？
  ## [官方原版下载！Windows 10 v1909简体中文ISO镜像](http://os.51cto.com/art/201911/606250.htm)
  > 官方原版下载！Windows 10 v1909简体中文ISO镜像
- ## [保护供应链免受网络攻击的5个关键措施](http://netsecurity.51cto.com/art/201911/606316.htm)
- > 美国安全培训与研究机构SANS研究所最近确定了确保企业供应链安全的关键组件，而这是行业专家认为它们很重要
- ## [你这个Python异教徒！](http://zhuanlan.51cto.com/art/201911/606311.htm)
- > 由于这个笑话的模式比较精巧：两个人不断地寻找共同点，最后却由于微不足道的，毫不起眼的不同引发了一场血
- ## [如何打开物联网这扇财富大门](http://iot.51cto.com/art/201911/606310.htm)
- > 1995年，北京中关村首体的路口出现了一个巨大的广告牌，上面写着“中国人离信息高速公路还有多远”（下图）
- ## [迈向无密码世界的第一步](http://zhuanlan.51cto.com/art/201911/606307.htm)
- > 无密码身份验证的主要挑战是建立一个不依赖密码的数字身份，用来证明用户是其声称的人，并作为用户在数字世
- ## [独家分享！5个鲜为人知的Pandas技巧](http://developer.51cto.com/art/201911/606309.htm)
- > Pandas为Python营造了一个高水平的操作环境，还提供了便于操作的数据结构和分析工具
- ## [携号转网：你，转网了吗？](http://network.51cto.com/art/201911/606305.htm)
- > 近日和不少手机用户交流时，可以看到他们的转网回复短信中，都存在着各种各样的难题，有些服务动辄“2025、
- ## [超详细的MySQL handler相关状态参数解释](http://database.51cto.com/art/201911/606306.htm)
- > MySQL“自古以来”都有一个神秘的HANDLER命令，而此命令非SQL标准语法，可以降低优化器对于SQL语句的解析与
- ## [如何在Windows 10中恢复已删除的管理员帐户](http://os.51cto.com/art/201911/606301.htm)
- > Win10附带两种类型的用户帐户。 一个是标准或来宾用户，另一个是管理员帐户。 即使您是计算机的所有者，出
- ## [如何保护网络不被黑客攻击泄露个人信息？](http://netsecurity.51cto.com/art/201911/606302.htm)
- > 数据泄露和黑客攻击现在已经成为我们日常生活中的常见部分，除非您是网络安全专业人员或您的个人数据受到
- ## [3分钟学会MySQL数据库的逻辑架构原理](http://database.51cto.com/art/201911/606298.htm)
- > 这篇文章主要是从mysql数据库的逻辑架构来认识掌握mysql的原理。只要是稍微有一点计算机的相关知识相信都能
+ ## [支付宝一大波新功能上线：彻底离不开了](http://mobile.51cto.com/app-show-606344.htm)
+ > 在国内，支付宝已经成为名副其实的国民级APP，除了用来手机支付外，各种民生功能也非常齐全，解决了很多不
+ ## [网络保险的残酷真相：没有什么保险能弥补研发成本](http://netsecurity.51cto.com/art/201911/606343.htm)
+ > 如果公司知识产权遭黑客攻击被盗，没有哪种保险能弥补公司耗在研发上的几百万美元。网络保险策略旨在覆盖
+ ## [CPU跑分你看懂了吗？这些评测软件代表了啥？](http://biz.51cto.com/art/201911/606341.htm)
+ > 才能知道你的电脑系统到底强不强大?要比较的话就得有标准，有标准就要有分数，然后就是――不服跑个分?
+ ## [2020年6个新兴的人工智能和机器学习趋势](http://ai.51cto.com/art/201911/606340.htm)
+ > 人工智能解决方案市场继续快速增长，带来了数百亿美元的收入。研究公司9月份发布的一份报告称，到2023年，
+ ## [区块链的颠覆力量之四：分布式智能身份认证系统](http://blockchain.51cto.com/art/201911/606339.htm)
+ > 之前的文章中，我们已经阐述了政府信息管理中如果引入区块链的方式，但在日常生活中，我们最难处理的可能并
+ ## [NVIDIA悄悄启用多GPU新渲染模式：抗衡Intel？](http://biz.51cto.com/art/201911/606338.htm)
+ > 无论AMD CrossFire还是NVIDIA SLI，这种多GPU互连技术在发展多年后，几乎同步被两家厂商给基本放弃了，支持
+ ## [Java程序员必备：异常的十个关键知识点](http://developer.51cto.com/art/201911/606342.htm)
+ > 总结了Java异常十个关键知识点，面试或者工作中都有用哦，加油。异常是指阻止当前方法或作用域继续执行的问
+ ## [《双子杀手》票房扑街又怎样？李安开创的“AI易容术”，甩那些磨皮换脸大片几条街](http://ai.51cto.com/art/201911/606337.htm)
+ > 不管怎么说，《双子杀手》的卖点仍然在于“120帧+4K+3D+数字人物”的视觉尝试，电影以何种方式逼近真实，以
+ ## [最新计算机技能需求排名出炉：Python仅排第三，第一你猜得到吗？](http://news.51cto.com/art/201911/606336.htm)
+ > 除了编程语言之外，要想找一份计算机相关的工作，还需要很多其他方面的技能。最近，来自美国求职公司 Indee
+ ## [维护基础设施，欺骗技术是关键](http://netsecurity.51cto.com/art/201911/606335.htm)
+ > 欺骗技术显然是安全堆栈中不可缺少的部分。将其添加到上游和下游安全控制中可减少与安全性设计和操作差距相
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
+ ## [连不上 GitHub 的朝鲜，也开发出了人脸识别技术](https://blog.csdn.net/HyperAI/article/details/103141055)
+ > 
  ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
  > 
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
@@ -114,26 +116,26 @@ NASA&#23459;&#24067;SpaceX&#12289;&#34013;&#33394;&#36215;&#28304;&#31561;&#2011
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [BMP、GIF、TIFF、PNG、JPG和SVG格式图像的特点](https://blog.csdn.net/m0_38106923/article/details/101937827)
- > 
- ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
- > 
  ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [没事爱在线上制造故障？这位程序媛有话说](https://blog.csdn.net/csdnnews/article/details/103019535)
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ > 
+ ## [Android Gradle （二）签名配置和依赖管理](https://blog.csdn.net/itachi85/article/details/102792059)
  > 
  ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
  > 
- ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
- > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
- ## [GitHub标星近1万：只需5秒音源，这个网络就能实时“克隆”你的声音](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103059937)
+ ## [《吊打面试官》系列-秒杀系统设计](https://blog.csdn.net/qq_35190492/article/details/103105780)
  > 
  ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
  > 史上最全的mysql基础教程
- ## [《吊打面试官》系列-秒杀系统设计](https://blog.csdn.net/qq_35190492/article/details/103105780)
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [GitHub标星近1万：只需5秒音源，这个网络就能实时“克隆”你的声音](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103059937)
  > 
+ ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
+ > 大学四年，分享看过的优质书籍
+ ## [杭州趣链张帅：趣链拥有大厂都没有的优势](https://blog.csdn.net/csdnnews/article/details/103165480)
+ > 11月8日，由中国信息通信研究院、中国互联网协会、中国通信标准化协会和可信区块链推进计划联合主办的2019可信区块链峰会在京召开。CSDN借此机会，群访了杭州趣链科技市场总监张帅。趣链：专门做区块链云平台趣链专注做区块链底层技术，成立时间不长，2016年才成立，之前是在学校里的一个...
  ## [开启手机新时代，智领5G未来：中国电信首款5G定制高端机震撼登场](https://blog.csdn.net/csdnnews/article/details/103153500)
  > 2019年11月19日，中国电信首款专属定制5G手机心系天下三星W20 5G在武汉汉秀剧场正式发布。心系天下三星W20 5G在传承精湛工艺与奢华设计的同时，更是搭载了引领未来的5G网络和折叠屏设计，将品质匠心传承至5G时代，开启全新纪元。从2008年的心系天下W699，到今天发布的心系天下三星...
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
@@ -158,6 +160,10 @@ NASA&#23459;&#24067;SpaceX&#12289;&#34013;&#33394;&#36215;&#28304;&#31561;&#2011
  > 【作者注】开源软件（OSS）运动已经创造了一些对我们来说至关重要，而且广泛使用的技术，包括操作系统、网页浏览器和数据库等等。可以说，如果没有开源软件，我们的世界将无法运转，或者至少无法像如今这样良好地运转。虽然开源带来了惊人的技术创新，但商业创新，尤其是最近“软件即服务”（SAAS- softwa.
  ## [当代刻板程序员生态图鉴！网友：哈哈哈太真实了](https://blog.csdn.net/csdnnews/article/details/103143620)
  > 当代刻板程序员实录：优衣库格子衬衫，深蓝色系为主，区别在于格子大小和密度的不同。发型一般分两种：精神程序员寸头（主要是懒得洗头），还有一种就是像爱因斯坦一样，凌乱蓬松美...
+ ## [阿里将于11月26日上市，港交所宣布推阿里期货及期权](http://www.lanjingtmt.com/news/detail/44962.shtml)
+ > 港交所于今日宣布，阿里巴巴将于11月26日上市，并同步推出阿里巴巴期货及期权，为投资者提供更多选择。
+ ## [美团买菜入深圳首开9家站点，主打30分钟送达](http://www.lanjingtmt.com/news/detail/44957.shtml)
+ > 美团买菜宣布在深圳正式上线，首批共开出9家站点，覆盖龙岗、宝安、南山、龙华、罗湖等区域，为社区居民提供“手机下单，最快30分钟送达”的手机买菜便民服务。
  ## [快手宣布与2020央视春晚达成独家互动合作](http://www.lanjingtmt.com/news/detail/44954.shtml)
  > 据悉，快手成为中央广播电视总台2020年《春节联欢晚会》独家互动合作伙伴，开展今年的春晚红包互动。因此，快手成为首家参与春晚红包活动的短视频平台。
  ## [饿了么口碑回应孵化“饿鲜达”：系与菜场联营合作的初步探索](http://www.lanjingtmt.com/news/detail/44953.shtml)
@@ -171,57 +177,57 @@ NASA&#23459;&#24067;SpaceX&#12289;&#34013;&#33394;&#36215;&#28304;&#31561;&#2011
  ## [斗鱼虎牙抢占游戏陪玩市场，盈利模式单一、色情擦边球问题待解](http://www.lanjingtmt.com/news/detail/44948.shtml)
  > 随着斗鱼、虎牙等直播平台的入局，陪玩业务渐成体系。但与此同时，陪玩行业也暗藏着一些“灰色地带”，平台用美女主播打“擦边球”的乱象频发。而且，因陪玩行业的特殊性，盈利模式较单一且利润
 # 人工智能 
- ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
- > 
- ## [用51单片机(STC89C52RC、STC12C5A60S2、STC15W104)驱动MzLH03-12864液晶显示模块](https://blog.csdn.net/weixin_42268054/article/details/103121050)
- > 用51单片机(STC89C52RC、STC12C5A60S2、STC15W104)驱动MzLH03-12864液晶显示模块
- ## [USRP B210 软件定义的无线网络支撑设备](https://blog.csdn.net/Jmilk/article/details/103122112)
- > 
- ## [Matlab如何实现建立ROS节点并进行实时通讯](https://blog.csdn.net/gophae/article/details/103148308)
- > Matlab如何实现建立ROS节点并进行实时通讯
- ## [笔记本内置键盘的外接改造（上篇）](https://blog.csdn.net/weixin_45860876/article/details/103115122)
- > 笔记本内置键盘的外接改造（上篇）
- ## [Qt数据库和SQLite介绍](https://blog.csdn.net/BadAyase/article/details/103124274)
- > Qt数据库和SQLite介绍
- ## [个人阅读书籍推荐（不断更新）](https://blog.csdn.net/dpjcn1990/article/details/103135487)
- > 个人阅读书籍推荐（不断更新）
- ## [NODEMCU远程连接本地Blynk server](https://blog.csdn.net/armcsdn/article/details/103140780)
- > NODEMCU远程连接本地Blynk server
- ## [EasyEarth三维可视化解决方案——智慧园区](https://blog.csdn.net/EasyEarth/article/details/103137929)
- > EasyEarth三维可视化解决方案——智慧园区
- ## [封装threejs，让3D可视化开发不再复杂的webgl可视化平台-ThingJS](https://blog.csdn.net/qq_42739428/article/details/103135705)
- > 封装threejs，让3D可视化开发不再复杂的webgl可视化平台-ThingJS
- ## [Python搜寻蓝牙：一次搜索](https://blog.csdn.net/qq_43776408/article/details/103140939)
- > Python搜寻蓝牙：一次搜索
- ## [STM32 SPI设备实现及驱动分析（裸机 &&RT-Thread）](https://blog.csdn.net/qq_43745917/article/details/103110387)
- > STM32 SPI设备实现及驱动分析（裸机 &amp;&amp;RT-Thread）
- ## [Python初学者常见错误问题汇总](https://blog.csdn.net/baidu_41692782/article/details/103140726)
- > Python初学者常见错误问题汇总
- ## [Qt滑块图片验证码](https://blog.csdn.net/ly305750665/article/details/103149312)
- > Qt滑块图片验证码
- ## [爱普生EPSON实时时钟芯片-RX8900SA](https://blog.csdn.net/Davidysw/article/details/103142080)
- > 爱普生EPSON实时时钟芯片-RX8900SA
+ ## [Android自定义控件(六)——文字波浪加载效果](https://blog.csdn.net/liyuanjinglyj/article/details/103111603)
+ > Android自定义控件(六)——文字波浪加载效果
+ ## [Android Q 适配指南](https://blog.csdn.net/aiwusheng/article/details/103125117)
+ > Android Q 适配指南
+ ## [vue（2.x，3.0）配置跨域代理](https://blog.csdn.net/weixin_44218559/article/details/103135945)
+ > vue（2.x，3.0）配置跨域代理
+ ## [前端将文件/图片传给后端](https://blog.csdn.net/weixin_39363320/article/details/103138561)
+ > 前端将文件/图片传给后端
+ ## [Android 4.4版本后无法拦截短信问题](https://blog.csdn.net/weixin_37587365/article/details/103144132)
+ > Android 4.4版本后无法拦截短信问题
+ ## [Kleene Inversion    AtCoder - 5165](https://blog.csdn.net/qq_43470233/article/details/103130729)
+ > Kleene Inversion    AtCoder - 5165
+ ## [Android数据库升级解决方案](https://blog.csdn.net/qq_29078329/article/details/103147546)
+ > Android数据库升级解决方案
+ ## [React-Navigation导航各版本安装步骤对比及注意事项](https://blog.csdn.net/wayne214/article/details/103120450)
+ > React-Navigation导航各版本安装步骤对比及注意事项
+ ## [Kotlin 语法学习笔记（上）](https://blog.csdn.net/qq_19154605/article/details/103090029)
+ > Kotlin 语法学习笔记（上）
+ ## [vue 使用qrcode生成二维码功能](https://blog.csdn.net/qq_37210523/article/details/103138851)
+ > vue 使用qrcode生成二维码功能
+ ## [Android自定义控件(五)——圆形头像最简单的实现方式](https://blog.csdn.net/liyuanjinglyj/article/details/103107352)
+ > Android自定义控件(五)——圆形头像最简单的实现方式
+ ## [android帧动画详解](https://blog.csdn.net/yuhang01/article/details/103147706)
+ > android帧动画详解
+ ## [Client error attempting to change layout margins of a private view](https://blog.csdn.net/autom_lishun/article/details/103141695)
+ > Client error attempting to change layout margins of a private view
+ ## [android主流型号手机本地录音路径](https://blog.csdn.net/weixin_39462001/article/details/103120138)
+ > android主流型号手机本地录音路径
+ ## [使用 NDK 移植 Linux C/C++ 程序到 Android 系统](https://blog.csdn.net/shangsongwww/article/details/103147251)
+ > 使用 NDK 移植 Linux C/C++ 程序到 Android 系统
 # PM 
+ ## [去产业互联网的红海掘金！](http://www.woshipm.com/it/3111685.html)
+ > 产业互联网的红海，谁能享受其中红利？当流量红利见顶，越来越多的人开始将目光投向了广阔的尚未被深度改变的行业端。尽管互联网时代深度改变了人们的消费行为和习惯...
+ ## [写作是一场修行](http://www.woshipm.com/kol/3111095.html)
+ > 11月16日人人都是产品经理举办的线下作者交流会已完美落幕，平安科技高级产品经理 阿翘分享了关于写作到底是怎样的一场修行之旅，以下是全部内容~我的写作历程我从15...
+ ## [万字长文 | 68款宠物APP产品分析：宠物行业的巨浪淘沙](http://www.woshipm.com/evaluating/3105692.html)
+ > 作者将宠物相关的APP产品进行分类，并选其类型的代表进行分析，让我们了解了宠物行业在不同领域中的发展及业务情况。在继上一篇68款宠物APP分析（上）文章后这次推出...
+ ## [成立1年2个月的“活动抽奖”，如何做到5000万增长？](http://www.woshipm.com/operate/3105170.html)
+ > 文章从获客、促活、留存3个纬度对抽奖产品“活动抽奖”的增长模式进行了剖析，让大家更加了解这款抽奖工具的增长模式。关于抽奖，可能大家会联想到，抓阄、转盘等方式，...
+ ## [DAPU广告片的6大营销常识错误](http://www.woshipm.com/marketing/3108631.html)
+ > 文章从营销角度，对DAPU广告片进行了梳理，分析并总结了它的六大营销常识错误，一起来看看~双11前夕，作为经常被比作“中国版无印良品”的DAPU（大朴），奋然爆出了一段...
+ ## [绿洲产品分析：在嘈杂中开辟内容净土](http://www.woshipm.com/evaluating/3109073.html)
+ > 笔者对绿洲进行了产品分析，着重分析其功能设计，并就体验中发现的问题提出改进建议。绿洲究竟能不能在一片嘈杂的社交软件中开辟一片净土，让我们拭目以待。一、产品...
+ ## [B端技术常识：同步异步接口模式](http://www.woshipm.com/pd/3085570.html)
+ > 本文介绍程序设计中常见的同步、异步接口模式，并通过设计案例让大家理解两种模式如何融入到产品设计中。在软件开发中，接口是一个非常重要的概念。所谓接口，是指两...
+ ## [公开课 | 没有数据/产品/项目经验，如何入行数据产品经理](http://www.woshipm.com/active/3103652.html)
+ > 近年来，随着大数据、人工智能、精细化运营的不断被重视，各大公司对于数据的处理和分析应用，越来越普及了。在这种背景下，其中有一个与数据相关的岗位在各大招聘网...
+ ## [美国版乐视：“Magic Leap”，硅谷的下一个坏血骗局？](http://www.woshipm.com/it/3109752.html)
+ > 资本的纵容和营销的疯狂让硅谷的“骗子”越来越多，Magic Leap会是下一个乐视吗？2015年声名赫赫的Theranos 死于《华尔街日报》的一篇报道，那个扬言“一滴血”改变世界的...
  ## [APP年末增长大戏背后的数据逻辑](http://www.woshipm.com/data-analysis/3106232.html)
  > 数据在增长中起着重要的作用，反映了产品增长的实际情况，也反映出背后的问题。刚刚结束的“双十一”比往年还要热闹一些。在大戏上演的20多天里，电商巨头旗下的APP们，...
- ## [Excel函数篇：十个函数解决80%职场需求](http://www.woshipm.com/zhichang/3070452.html)
- > 文章为B端产品经理根据入职1年来工作所需，结合Excel线上课程所学，总结沉淀的常用函数文档。身为产品经理，数据分析是发现、解决问题的重要途径，也已经成为了一项重...
- ## [从无障碍思维出发，提升用户体验](http://www.woshipm.com/user-research/3104425.html)
- > 什么是无障碍思维？如何提升？具体如何使用？文章主要从这三点出发，对无障碍思维进行了梳理分析，与大家分享。概念说明：一种不需要定制就能满足于各类需要用户群体...
- ## [机器的深度学习究竟有多“深”？](http://www.woshipm.com/ai/3088025.html)
- > 每次提起深度学习，没有接触过的人会处于一种模糊臆想状态，认为其遥不可及。本文旨在摘下深度学习“高大上”的面纱，用一些简化的模型和通俗的比喻阐述其中的概念。深...
- ## [如何做B端，才能让用户爱不释手？](http://www.woshipm.com/pd/3108960.html)
- > 让用户爱上产品，才能不释手。产品区分B端和C端，B端是区别于C端的叫法。C端针对所有用户，任何人都可以使用，没有门槛。B端针对部分用户，其他用户没有必要或者无...
- ## [这些房产互联网产品，如何进行优化？](http://www.woshipm.com/evaluating/3108744.html)
- > 笔者研究房产互联网产品，对其分类和业务逻辑做了归纳总结，并提出建议，希望加深从业者对房产流通领域的了解，对自己的产品做出更准确的判断。“越是理性能力完备的行...
- ## [如何设计出更好的按钮？](http://www.woshipm.com/pd/3109862.html)
- > 本文列举了如何设计出更好的按钮的七个要点，希望能给你带来思考与启发。按钮是触发它所描述功能的可交互元素。如果一个按钮上写着“保存”，点它十有八九会有类似保存...
- ## [多数电商产品，不应该做“购物车”](http://www.woshipm.com/pd/3109927.html)
- > 购物车并不是电商的必备功能，不满足条件的电商产品，不应该实现购物车功能。上周给大家分享了基于可视化页面的产品分析方法：排位分析法，但有的功能是由多个页面构...
- ## [两年后台产品经理工作，我把这些讲给你听（上）](http://www.woshipm.com/pd/3109916.html)
- > 2017年入职，2019离职，2年社交产品后台的工作，让我对后台产品有了很多思考与总结；汇总成这3万字，分上中下三篇发布，此为上篇。希望能对大家有所帮助。最近在找工...
- ## [实操总结：积分系统是如何设计与落地的？](http://www.woshipm.com/pd/3107970.html)
- > 本文从积分系统的最开始定义、目标确立、框架搭建、交互和UI 设计及数据埋点等方面进行了梳理和总结。项目背景整个项目想借助积分的作用，来提高平台的用户粘性，促...
  ## [多数电商产品，不应该做“购物车”](http://www.chanpin100.com/article/110096)
  > 购物车并不是电商的必备功能，不满足条件的电商产品，不应该实现购物车功能
  ## [DAPU“色情”广告片竟然犯了六大营销常识错误](http://www.chanpin100.com/article/110095)
