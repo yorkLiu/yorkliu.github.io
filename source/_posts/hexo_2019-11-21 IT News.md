@@ -1,7 +1,7 @@
 ---
 title: 2019-11-21 IT News
 copyright: true
-date: 2019-11-21 10:00:53
+date: 2019-11-21 12:01:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,42 +70,42 @@ STEAM&#25945;&#32946;&#35299;&#20915;&#26041;&#26696;&#26381;&#21153;&#21830;&#8
 <p>&nbsp;</p>
 
 # IT 技术 
+ ## [监控系统哪家强？EMonitor与CAT大比拼！](http://netsecurity.51cto.com/art/201911/606386.htm)
+ > 监控系统哪家强？EMonitor与CAT大比拼！
  ## [白话Entity Framework Core数据验证](http://developer.51cto.com/art/201911/606353.htm)
  > 白话Entity Framework Core数据验证
- ## [打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场](http://news.51cto.com/art/201911/606090.htm)
- > 打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场
+ ## [可怕！4.68亿个人信息泄露，7家涉案公司被查！](http://netsecurity.51cto.com/art/201911/606389.htm)
+ > 可怕！4.68亿个人信息泄露，7家涉案公司被查！
  ## [现在人人都要准备的2020年六个事关职业生涯的技术趋势](http://news.51cto.com/art/201911/606322.htm)
  > 现在人人都要准备的2020年六个事关职业生涯的技术趋势
+ ## [打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场](http://news.51cto.com/art/201911/606090.htm)
+ > 打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场
  ## [多次尝试学习，终于搞懂了微服务架构](http://developer.51cto.com/art/201911/606286.htm)
  > 多次尝试学习，终于搞懂了微服务架构
  ## [一张思维导图，包罗全面监控体系建设要点](http://news.51cto.com/art/201911/606299.htm)
  > 一张思维导图，包罗全面监控体系建设要点
  ## [Ocado如何使用机器学习来减少食物浪费、解决饥饿问题？](http://ai.51cto.com/art/201911/606154.htm)
  > Ocado如何使用机器学习来减少食物浪费、解决饥饿问题？
- ## [苹果裁员调整，盛世背面！什么才是苹果AI的护城河](http://news.51cto.com/art/201911/606267.htm)
- > 苹果裁员调整，盛世背面！什么才是苹果AI的护城河
- ## [一文带你深入了解Redis的持久化方式及其原理](http://stor.51cto.com/art/201911/606288.htm)
- > 一文带你深入了解Redis的持久化方式及其原理
- ## [58同城实时计算平台架构实践](http://news.51cto.com/art/201911/606387.htm)
- > 本文主要介绍58同城实时计算平台技术演进，以及基于Flink打造的一站式实时计算平台Wstream，涵盖很多实践经
- ## [在Ubuntu 19.10上入门ZFS文件系统](http://os.51cto.com/art/201911/606383.htm)
- > Ubuntu 19.10 的主要新特性之一就是 ZFS。现在你可以很容易的无需额外努力就可以在 Ubuntu 系统上安装 ZFS
- ## [必看！5大IT基础设施监控工具，速来！](http://netsecurity.51cto.com/art/201911/606382.htm)
- > 服务器和网络监控工具的目标是确保IT服务 24x7 小时全天候稳定运行，并在出现任何问题时告警给IT支持人员。
- ## [Google 描绘 Android 支持主线 Linux 内核的计划](http://news.51cto.com/art/201911/606381.htm)
- > 在年度内核开发者峰会 Linux Plumbers Conference 上，Google 开发者讲述了 Android 如何支持主线 Linux 内
- ## [大数据公司又被查，爬虫程序员在内20余人被抓！](http://bigdata.51cto.com/art/201911/606385.htm)
- > 近日江苏淮安警方依法打击了 7 家涉嫌侵犯公民个人信息犯罪的公司，涉嫌非法缓存公民个人信息 1 亿多条。
- ## [改了配置，不想重启，怎么整？](http://zhuanlan.51cto.com/art/201911/606379.htm)
- > 不重启服务，重新载入配置的常见方式有3这么几种，不难但很使用，花1分钟和大家说一说。
- ## [90后技术宅与他的非主流另类搜索引擎Magi](http://news.51cto.com/art/201911/606377.htm)
- > 最近，一个名叫 Magi 的搜索引擎成了重点关注对象，据称这个搜索引擎和我们常见的搜索引擎很不一样，有一种
- ## [物联网的未来：无源传输网络简介](http://iot.51cto.com/art/201911/606375.htm)
- > 在未来物联网中，网络节点可以是无源的(battery free)，即节点自身不配备或不主要依赖电池等电源设备，而是
- ## [AI能不能找到“梅姨”？](http://news.51cto.com/art/201911/606384.htm)
- > 近日，一张“梅姨”的彩色照片在网上被疯传，多地热心人士报警称自己发现了“梅姨”，但事情又突然反转，公
- ## [企业在2020年可能会将区块链重点转移到集成和互操作性](http://blockchain.51cto.com/art/201911/606380.htm)
- > 随着有关区块链的宣传和炒作逐渐降温，很多企业在分布式账本技术方面削减技术力量，但一些非技术挑战和互操
+ ## [List有序，Set无序，真的是这样嘛？](http://developer.51cto.com/art/201911/606405.htm)
+ > 今天说一说集合，在面试的时候出现的频率非常高，开发中使用的频率也非常高。经常听到有人说List是有序，Se
+ ## [云迁移可能失败的5种方式以及成功的5种方式](http://cloud.51cto.com/art/201911/606401.htm)
+ > 通过将应用程序迁移到云平台中，企业可以提高安全性、数据访问、可扩展性和IT灵活性。将业务迁移到云平台还
+ ## [Kubernetes 用了，延迟高了 10 倍，问题在哪？](http://news.51cto.com/art/201911/606403.htm)
+ > 当我们团队将业务迁移至 Kubernetes 之后，一旦出现问题，总有人觉得“这是迁移之后的阵痛”，并把矛头指向
+ ## [企业上云所面临的几个痛点](http://cloud.51cto.com/art/201911/606398.htm)
+ > 各行各业都张开双臂迎接云端时代的来临，但是在享受云服务的同时，许多企业也担心云服务安全及无法掌握的风
+ ## [IPv4 到 IPv6 过渡的这些知识点，你一定得知道](http://network.51cto.com/art/201911/606399.htm)
+ > 网络是我们工程师的基础技能之一， 毕竟没有网络我们什么也干不了。从各大公司的招聘要求上看，网络也是重
+ ## [百度万亿流量的转发引擎BFE开源了](http://news.51cto.com/art/201911/606397.htm)
+ > BFE（Baidu Front End，百度统一前端）是百度的统一七层流量转发平台。BFE平台目前已接入百度大部分流量，
+ ## [带你了解下MyBatis的动态SQL！](http://database.51cto.com/art/201911/606396.htm)
+ > MyBatis的强大特性之一便是它的动态SQL，以前拼接的时候需要注意的空格、列表最后的逗号等，现在都可以不用
+ ## [Github标星10.5K，这本2019年才出版的Go新书，可以免费下载了](http://news.51cto.com/art/201911/606395.htm)
+ > 2009年11月，Google发布了Go语言，纵观这几年来的发展趋势，Go语言已经成为云计算、云存储时代最重要的基础
+ ## [MySQL优化项目中常用的19条](http://database.51cto.com/art/201911/606393.htm)
+ > 关于MySQL优化方法，网上有不少资料和方法，但是不少质量参差不齐，有些总结的不够到位，内容冗杂。偶尔看
+ ## [深入浅出百亿请求高可用Redis(codis)分布式集群揭秘](http://news.51cto.com/art/201911/606392.htm)
+ > 本文主要讲解codis是如何做到对业务无感知，平滑迁移，迁移性能高，迁移异常处理，高可用以及常见的redis的
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
  ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
@@ -119,6 +119,8 @@ STEAM&#25945;&#32946;&#35299;&#20915;&#26041;&#26696;&#26381;&#21153;&#21830;&#8
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [4个技巧，教你如何用excel绘制出高大上的图表](https://blog.csdn.net/yuanziok/article/details/103166087)
  > 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
@@ -134,8 +136,6 @@ STEAM&#25945;&#32946;&#35299;&#20915;&#26041;&#26696;&#26381;&#21153;&#21830;&#8
  > 史上最全的mysql基础教程
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [一文带你深入了解 Redis 的持久化方式及其原理](https://blog.csdn.net/z694644032/article/details/103145196)
- > 
  ## [HUAWEI HiAI 3.0 分布式，瑜伽、开车还能这么玩......](https://blog.csdn.net/csdnnews/article/details/103170511)
  > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）几年前的我，是个瑜伽控。有次在健身房，听瑜伽老师说，瑜伽鸽子式，可以锻炼到胸、腰、腿，一石三鸟的动作，谁不想练？但是因为比较难，老师并不打算在大课上教。我找来的网上的图文教程，结果练成了这样......（额，还...
  ## [@程序员，你真的了解内存吗？](https://blog.csdn.net/csdnnews/article/details/103170534)
@@ -156,63 +156,81 @@ STEAM&#25945;&#32946;&#35299;&#20915;&#26041;&#26696;&#26381;&#21153;&#21830;&#8
  > 近日，华为20亿奖励员工的新闻频频刷屏。其中20亿奖金不是面向所有的华为员工，20亿奖金包涉及到的是研发体系、造AI芯片和建设生态的员工。从5G开始部署以来，华为获得了来...
  ## [不为人知的 35 个 More Effective C++ 改善编程与设计的最佳方法 | 原力计划](https://blog.csdn.net/csdnnews/article/details/103170539)
  > 作者| fengbingchun责编 | 屠敏出品 | CSDN 博客Scott Meyers大师Effective三部曲：Effective C++、More Effective C++、Effective STL，这三本书出版已很多年，后来又出版了Effective Modern C++。这里.
+ ## [腾讯游戏品牌升级：Spark More/去发现，无限可能](http://www.lanjingtmt.com/news/detail/44970.shtml)
+ > 据腾讯游戏官方微信订阅号消息，腾讯游戏对外发布全新品牌体系，沿用9年的品牌主张“用心创造快乐”升级为“Spark More/去发现，无限可能”。
  ## [网易2019年Q3净收入146.4亿元，同比增长11%](http://www.lanjingtmt.com/news/detail/44968.shtml)
  > 报告期内，网易净收入为146.4亿元，同比增加11%。基于非美国通用会计准则，持续经营净利润为47.3亿元，同比增长74%。
  ## [阿里赴港上市在即，投资价值与增长空间几何](http://www.lanjingtmt.com/news/detail/44967.shtml)
  > 对广大中小投资者而言，眼下需要考虑的关键问题在于，在美上市五年、股价几乎翻倍的阿里，其赴港上市后的投资价值究竟如何？有哪些优势与挑战？未来增长空间有多大？
 # 人工智能 
- ## [Hadoop各组件详解（Hive篇 不定时更新版本）](https://blog.csdn.net/qq_43733123/article/details/103139053)
- > Hadoop各组件详解（Hive篇 不定时更新版本）
- ## [阿里数据总监手把手教学：如何面向企业做一次有价值的数据分析](https://blog.csdn.net/yuanziok/article/details/103136583)
+ ## [底层新增物理按键，上层处理流程](https://blog.csdn.net/qq_34211365/article/details/103169774)
+ > 底层新增物理按键，上层处理流程
+ ## [vue（2.x，3.0）配置跨域代理](https://blog.csdn.net/weixin_44218559/article/details/103135945)
+ > vue（2.x，3.0）配置跨域代理
+ ## [EditText实现单行输入，字体大小随输入的字数而改变](https://blog.csdn.net/yrw1310305589/article/details/103161738)
+ > EditText实现单行输入，字体大小随输入的字数而改变
+ ## [View事件分发笔记](https://blog.csdn.net/FortM/article/details/103071542)
+ > View事件分发笔记
+ ## [Android自定义控件(六)——文字波浪加载效果](https://blog.csdn.net/liyuanjinglyj/article/details/103111603)
+ > Android自定义控件(六)——文字波浪加载效果
+ ## [Flutter从0到1构建大前端应用（三）：Flutter基础](https://blog.csdn.net/Mrxuchen/article/details/103140411)
+ > Flutter从0到1构建大前端应用（三）：Flutter基础
+ ## [明远智睿 myzr 安卓5.1 源代码编译](https://blog.csdn.net/Nyiragongo/article/details/103148261)
+ > 明远智睿 myzr 安卓5.1 源代码编译
+ ## [OCR(图片识别)之 百度 VS 谷歌](https://blog.csdn.net/qq471208499/article/details/103164984)
+ > OCR(图片识别)之 百度 VS 谷歌
+ ## [关闭ADB检查以及React Native Paper的使用](https://blog.csdn.net/weixin_43870742/article/details/103155098)
+ > 关闭ADB检查以及React Native Paper的使用
+ ## [C++ 一行一行的倒读txt](https://blog.csdn.net/qq_40671789/article/details/103170991)
+ > C++ 一行一行的倒读txt
+ ## [InputReader读取底层事件](https://blog.csdn.net/qq_34211365/article/details/103162869)
+ > InputReader读取底层事件
+ ## [cocos creator - WebView内部页面的交互和层级问题](https://blog.csdn.net/qq_28299311/article/details/103162026)
+ > cocos creator - WebView内部页面的交互和层级问题
+ ## [tpshop多商户源码 tpshop分销商城及开发文档教程](https://blog.csdn.net/QQ__3327926505/article/details/97640484)
+ > tpshop多商户源码 tpshop分销商城及开发文档教程
+ ## [Android Jetpack架构组件（三）一文带你了解Lifecycle（原理篇）](https://blog.csdn.net/itachi85/article/details/103155296)
  > 
- ## [reduce端join与map端join算法实现](https://blog.csdn.net/weixin_43563705/article/details/103130293)
- > reduce端join与map端join算法实现
- ## [机器学习——HMM(隐马尔可夫模型的基本概念)(一)](https://blog.csdn.net/weixin_37763870/article/details/103124120)
- > 机器学习——HMM(隐马尔可夫模型的基本概念)(一)
- ## [HIVE的安装部署](https://blog.csdn.net/weixin_43833543/article/details/103146601)
- > HIVE的安装部署
- ## [MapReduce如何调优](https://blog.csdn.net/L00918/article/details/103135101)
- > MapReduce如何调优
- ## [python3爬虫系列08之新版动态智联招聘并存取数据库进行可视化分析](https://blog.csdn.net/ITBigGod/article/details/103132810)
- > python3爬虫系列08之新版动态智联招聘并存取数据库进行可视化分析
- ## [14.Hadoop之MapReduce（二）](https://blog.csdn.net/qq_43742212/article/details/103130919)
- > 14.Hadoop之MapReduce（二）
- ## [安装hive并配置hive，大数据必备技能](https://blog.csdn.net/qq_41369191/article/details/103147968)
- > 安装hive并配置hive，大数据必备技能
- ## [MapReduce一次读取多个文件](https://blog.csdn.net/qq_45765882/article/details/103123215)
- > MapReduce一次读取多个文件
- ## [自定义inputFormat合并小文件](https://blog.csdn.net/weixin_43563705/article/details/103135228)
- > 自定义inputFormat合并小文件
- ## [Hadoop MapReduce：自定义OutputFormat和RecordWriter](https://blog.csdn.net/qq_43733123/article/details/103138584)
- > Hadoop MapReduce：自定义OutputFormat和RecordWriter
- ## [HIVE的安装部署与环境变量的配置](https://blog.csdn.net/weixin_43563705/article/details/103150376)
- > HIVE的安装部署与环境变量的配置
- ## [MapReduce运行时报错:java.lang.InstantiationException](https://blog.csdn.net/weixin_43563705/article/details/103123094)
- > MapReduce运行时报错:java.lang.InstantiationException
- ## [Hive介绍](https://blog.csdn.net/weixin_42518541/article/details/103145150)
- > Hive介绍
+ ## [前端将文件/图片传给后端](https://blog.csdn.net/weixin_39363320/article/details/103138561)
+ > 前端将文件/图片传给后端
 # PM 
- ## [线下课程 | 团队从3个人到30人，运营负责人如何将业务与管理两手抓？](http://www.woshipm.com/active/3103856.html)
- > 5年职场老司机，挑战依然无处不在已经傍晚12点了。周睿和他的运营团队还在会议室跟老板过月度汇报。10月整体运营转化数据环比9月下降25%，主要由于智能手环这条业务...
- ## [35岁，是产品经理的职业分水岭吗？](http://www.woshipm.com/pmd/3112679.html)
- > 35岁是我们的职业分水岭，是个问题，但可以解决。“35岁”，这个年龄在2019年成为了圈子内的热议话题，年轻的产品人对此噗之以鼻，只有年近35岁，或者已经35岁的产品人...
- ## [以“分享红包”为例：如何拆解业务与设计产品？](http://www.woshipm.com/pd/3112819.html)
- > 互联网公司在搭建好核心业务后，往往会为了业务的增长催生各种营销活动，而优惠券是非常常见的一种营销方式。本文我们针对“分享红包”，讲解一下该如何拆解业务与设计产...
- ## [MCN聚拢腰部网红，闷声发大财](http://www.woshipm.com/it/3106822.html)
- > 腰部的网红也许没有双11，但捧腰部网红的MCN机构，却有五环外的超级红利。双11是狂欢节，也是口红一哥李佳琦和淘宝第一主播薇娅的年度大决战。但在全网站外达人机构TO...
- ## [腾讯版「探探」推出，巨头再试水陌生人社交](http://www.woshipm.com/it/3113071.html)
- > 腾讯社交棋盘上，再落一子。依靠微信、QQ两款巨量流量产品，腾讯雄踞熟人社交帝国，在陌生人社交领域，腾讯也伸出了新触角。此前Tech星球曾在报道中独家提及，腾讯内...
- ## [多数电商产品，不应该做“购物车”](http://www.chanpin100.com/article/110096)
- > 购物车并不是电商的必备功能，不满足条件的电商产品，不应该实现购物车功能
- ## [DAPU“色情”广告片竟然犯了六大营销常识错误](http://www.chanpin100.com/article/110095)
- > 色情广告是营销饥渴时偷吃的流量禁果。
- ## [创业指南来了！《不是谁都能创业》笔记精华思维导图值得一看](http://www.chanpin100.com/article/110093)
- > 随着党和国家“大众创业，万众创新”的大力号召，或许已有许多千千万万的准创业者想要开拓自己的一番事业了。
- ## [淘宝天猫店是如何运营的，思维导图告诉你](http://www.chanpin100.com/article/110091)
- > 自2003年成立的淘宝网，时至今日已有16年了。在这一十六年的时间里，淘宝这一网络购物平台见证了许多起起伏伏，有人通过努力拼搏、正确的经营方法，获得了成功，但是同样也有人因为经营不善、错误的营销方式只能无奈黯然退场。但当时的他们都是在摸着石头过河，并不能像我们一样进行回望判断。
- ## [思维导图助你阅读《资本的规则》纯分享](http://www.chanpin100.com/article/110090)
- > 资本一词自诞生之日起，便引得世人的注目，只不过这词太让人眼花缭乱了。虽然人们对之趋之若鹜，但大多数人是知其名，不知其然，知其然者，又有许多不知其所以然，能知其所以然者仍是较少数的。
- ## [快收藏一张思维导图带你读懂《金融市场学》](http://www.chanpin100.com/article/110089)
- > 你了解金融市场吗？很多人可能会觉得有交易的地方就有金融市场，但是你知道金融市场又有哪些细分的市场或者说金融市场又分为哪些呢？接下来，我们将通过一张MindMaster思维导图读懂《金融市场学》这本书。
+ ## [历时3个月，我们在两家淘系女装店铺探索私域真相](http://www.woshipm.com/marketing/3111432.html)
+ > 笔者花了三个月，服务两家淘系女装店铺，实践私域流量池的搭建和运营，带你揭开淘系店铺关于私域流量的真相，也许都不是你想的那样。私域流量，是2019年最火的商业新...
+ ## [万字长文解密抖音生态，为何成为现象级产品？](http://www.woshipm.com/evaluating/3111502.html)
+ > 本文结合笔者对抖音的研究，探析为何抖音能够让C端用户沉迷，让B端品牌追逐，让电商团长们死磕？从去年4月份开始关注、研究抖音，陆陆续续写了很多的心得体会，但从没...
+ ## [AI产品经理的必修课：物联网通讯的设计方法](http://www.woshipm.com/pd/3019097.html)
+ > 本文主要从5大方面具体介绍了关于物联网通讯的相关知识，分别是什么是物联网通信、物联网通信有哪些通信技术、有哪些协议、协议是如何选择的以及物联网通讯技术选型考量...
+ ## [Uber产品分析：复杂中定义简单的设计](http://www.woshipm.com/pd/3100080.html)
+ > 随着 Uber 扩展到东南亚、拉丁美洲和中东，它面临一个主要问题：在这些新拓市场上，原本助力其成为强大企业的设计方法并没有那么有效。任何一款骑行共享设备应用界面...
+ ## [如何准备一场高效的需求评审会议？](http://www.woshipm.com/pd/3113781.html)
+ > 需求评审会议对整个项目想影响至关重要，作为产品经理，我们应该本着对项目和研发团队负责的态度，认真准备，以提高需求评审会议的效率。准备不充分的需求评审会议，...
+ ## [互联网圈子：你混哪座山头？](http://www.woshipm.com/user-research/3114071.html)
+ > 总之圈子不是重点，入局的人才是。圈子之间，进退都有好处。圈子之间，进退都有好处。六年前，三月的杭州开始有一丝闷热，羊肠马路上一辆大巴缓缓驶过，身穿绿色上衣...
+ ## [网文IP恩仇录](http://www.woshipm.com/it/3111199.html)
+ > 本文从网红兴盛之时起，开始梳理了网文史上的种种大事件与恩怨录。2003年，被称作是网络文学空前繁盛的一年。那是一个杂志、出版社、BBS论坛与专业文学网站并存的年...
+ ## [用数据与算法，复制出下一个“李佳琦”很难](http://www.woshipm.com/it/3112143.html)
+ > 在李佳琦爆红背后，或许有无数人想要通过技术与算法制造出下一个李佳琦，本文经过层层分析后觉得有点难。“顶级流量”，一般是娱乐公司、平台打造出来的拥有绝对人气的...
+ ## [痛点和需求，这次彻底搞清楚！](http://www.woshipm.com/pmd/3113141.html)
+ > 不管是作为产品还是运营、开发，“痛点”和“需求”使用相当高频。但是，每当我问他们，你觉得需求和痛点的区别是什么？很多人都是闪烁其词，大概知道那个意思，但是不知道...
+ ## [昨晚，3亿人睡不着](http://www.woshipm.com/it/3113469.html)
+ > 失眠市场至少千亿，而睡眠市场超过万亿。任何功能的改善和技术的提升，都会为创业者提供新的机会。祝各位，今夜好梦！昨晚几点睡的，失眠了没有？相关数据显示，中国...
+ ## [产品思维之用户篇](http://www.chanpin100.com/article/110107)
+ > 系列文章，聊聊我的产品观与产品策划的方法，第一篇从用户开始
+ ## [确保产品有效增长，看这四个关键指标就够了](http://www.chanpin100.com/article/110106)
+ > 世界著名投资艺术家巴菲特先生曾对他的司机说过这么一段话：“把你想做的20件事写出来，排个序，形成一个目标清单，然后只保留前五个目标，把最后的15个目标归为一类，并提醒自己无论如何都不要在这些目标里浪费时间。”
+ ## [35岁,是产品经理的职业分水岭【推荐阅读】](http://www.chanpin100.com/article/110104)
+ > 35岁是我们的职业分水岭，是个问题，但可以解决。
+ ## [陌陌：放心，我绝不会让你的朋友发现你在用陌陌的](http://www.chanpin100.com/article/110103)
+ > 陌陌教你如何轻松获取用户的通讯录权限
+ ## [案例分析｜价值2684亿的品牌LOGO设计有哪些亮点？](http://www.chanpin100.com/article/110102)
+ > 一年一度的双11购物狂欢节已落幕，2684亿的成交额新纪录让天猫再次登上热搜。对于细节的极致追求是天猫成功的秘诀之一，这一点在LOGO设计上是如何体现的呢？一起来看看吧~
+ ## [产品交互设计：应该做什么？不应该做什么？](http://www.chanpin100.com/article/110100)
+ > 满满是交互设计的干货！
+ ## [B端产品经理如何更好的了解需求？](http://www.chanpin100.com/article/110098)
+ > B端产品经理挖掘需求指南
+ ## [如何打造高质量社群？](http://www.chanpin100.com/article/110097)
+ > 打造高质量社群，是个技术活儿
+ ## [产品经理，你还陷在沟通困境里吗？](http://www.chanpin100.com/article/110105)
+ > 所有的工作里，80%是沟通，其次才是个人技能。在创业公司待久了，越发同意这个观点。
 
     
