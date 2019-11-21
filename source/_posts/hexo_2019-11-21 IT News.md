@@ -1,7 +1,7 @@
 ---
 title: 2019-11-21 IT News
 copyright: true
-date: 2019-11-21 12:01:07
+date: 2019-11-21 17:01:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,72 +70,72 @@ STEAM&#25945;&#32946;&#35299;&#20915;&#26041;&#26696;&#26381;&#21153;&#21830;&#8
 <p>&nbsp;</p>
 
 # IT 技术 
+ ## [51CTO全球CTO领导力峰会首发《2019年CTO发展报告》](http://news.51cto.com/art/201911/606409.htm)
+ > 51CTO全球CTO领导力峰会首发《2019年CTO发展报告》
  ## [监控系统哪家强？EMonitor与CAT大比拼！](http://netsecurity.51cto.com/art/201911/606386.htm)
  > 监控系统哪家强？EMonitor与CAT大比拼！
+ ## [Kubernetes用了，延迟高了10倍，问题在哪？](http://news.51cto.com/art/201911/606403.htm)
+ > Kubernetes用了，延迟高了10倍，问题在哪？
  ## [白话Entity Framework Core数据验证](http://developer.51cto.com/art/201911/606353.htm)
  > 白话Entity Framework Core数据验证
+ ## [云迁移可能失败的5种方式以及成功的5种方式](http://cloud.51cto.com/art/201911/606401.htm)
+ > 云迁移可能失败的5种方式以及成功的5种方式
+ ## [如何回答性能优化的问题，才能打动阿里面试官？](http://zhuanlan.51cto.com/art/201911/606366.htm)
+ > 如何回答性能优化的问题，才能打动阿里面试官？
  ## [可怕！4.68亿个人信息泄露，7家涉案公司被查！](http://netsecurity.51cto.com/art/201911/606389.htm)
  > 可怕！4.68亿个人信息泄露，7家涉案公司被查！
  ## [现在人人都要准备的2020年六个事关职业生涯的技术趋势](http://news.51cto.com/art/201911/606322.htm)
  > 现在人人都要准备的2020年六个事关职业生涯的技术趋势
- ## [打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场](http://news.51cto.com/art/201911/606090.htm)
- > 打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场
- ## [多次尝试学习，终于搞懂了微服务架构](http://developer.51cto.com/art/201911/606286.htm)
- > 多次尝试学习，终于搞懂了微服务架构
- ## [一张思维导图，包罗全面监控体系建设要点](http://news.51cto.com/art/201911/606299.htm)
- > 一张思维导图，包罗全面监控体系建设要点
- ## [Ocado如何使用机器学习来减少食物浪费、解决饥饿问题？](http://ai.51cto.com/art/201911/606154.htm)
- > Ocado如何使用机器学习来减少食物浪费、解决饥饿问题？
- ## [List有序，Set无序，真的是这样嘛？](http://developer.51cto.com/art/201911/606405.htm)
- > 今天说一说集合，在面试的时候出现的频率非常高，开发中使用的频率也非常高。经常听到有人说List是有序，Se
- ## [云迁移可能失败的5种方式以及成功的5种方式](http://cloud.51cto.com/art/201911/606401.htm)
- > 通过将应用程序迁移到云平台中，企业可以提高安全性、数据访问、可扩展性和IT灵活性。将业务迁移到云平台还
- ## [Kubernetes 用了，延迟高了 10 倍，问题在哪？](http://news.51cto.com/art/201911/606403.htm)
- > 当我们团队将业务迁移至 Kubernetes 之后，一旦出现问题，总有人觉得“这是迁移之后的阵痛”，并把矛头指向
- ## [企业上云所面临的几个痛点](http://cloud.51cto.com/art/201911/606398.htm)
- > 各行各业都张开双臂迎接云端时代的来临，但是在享受云服务的同时，许多企业也担心云服务安全及无法掌握的风
- ## [IPv4 到 IPv6 过渡的这些知识点，你一定得知道](http://network.51cto.com/art/201911/606399.htm)
- > 网络是我们工程师的基础技能之一， 毕竟没有网络我们什么也干不了。从各大公司的招聘要求上看，网络也是重
- ## [百度万亿流量的转发引擎BFE开源了](http://news.51cto.com/art/201911/606397.htm)
- > BFE（Baidu Front End，百度统一前端）是百度的统一七层流量转发平台。BFE平台目前已接入百度大部分流量，
- ## [带你了解下MyBatis的动态SQL！](http://database.51cto.com/art/201911/606396.htm)
- > MyBatis的强大特性之一便是它的动态SQL，以前拼接的时候需要注意的空格、列表最后的逗号等，现在都可以不用
- ## [Github标星10.5K，这本2019年才出版的Go新书，可以免费下载了](http://news.51cto.com/art/201911/606395.htm)
- > 2009年11月，Google发布了Go语言，纵观这几年来的发展趋势，Go语言已经成为云计算、云存储时代最重要的基础
- ## [MySQL优化项目中常用的19条](http://database.51cto.com/art/201911/606393.htm)
- > 关于MySQL优化方法，网上有不少资料和方法，但是不少质量参差不齐，有些总结的不够到位，内容冗杂。偶尔看
- ## [深入浅出百亿请求高可用Redis(codis)分布式集群揭秘](http://news.51cto.com/art/201911/606392.htm)
- > 本文主要讲解codis是如何做到对业务无感知，平滑迁移，迁移性能高，迁移异常处理，高可用以及常见的redis的
+ ## [人工智能会在未来成为冷血的种族灭绝杀手吗？](http://ai.51cto.com/art/201911/606451.htm)
+ > 我们对于人类未来最持久的恐惧之一便是人工智能会有潜能逃脱我们的掌控并且灭绝我们。撇开天网与HAL9000不
+ ## [Java Springboot 开源微服务架构管理后台搭建实战](http://news.51cto.com/art/201911/606450.htm)
+ > 观看本文之前，默认读者已经是工作中的同学了，最起码懂得开发工具怎么用，如果不会，就可以略过过程，直接
+ ## [Windows常见故障和解决方法](http://os.51cto.com/art/201911/606448.htm)
+ > 有时候，某个程序可能会禁用掉Windows开始菜单里的搜索区域，并导致其无法访问。如果你碰到了此类情况，那
+ ## [为什么5G时代Wi-Fi不会消亡反而将更加重要？](http://news.51cto.com/art/201911/606447.htm)
+ > 2019年，韩国、美国、中国等国家的运营商相继推出了5G的商用服务，让不少人都认为5G的普及将会导致Wi-Fi消
+ ## [苹果关注Windows用户需求 预计引入新应用](http://os.51cto.com/art/201911/606446.htm)
+ > 消息显示，苹果似乎正为Windows开发新的媒体应用程序。早在2018年苹果就在微软商店发布了iTunes，但随着该
+ ## [网易员工拒绝被辞退，HR怒怼：听话主动离职，别找事，结果蒙了](http://news.51cto.com/art/201911/606445.htm)
+ > 在职场上，很多时候并不是你工作努力就能够得到很好的结果。现实就是这样，当你没打算离职的时候，也许公司
+ ## [5G来了，这10大常见事物会在未来消失](http://network.51cto.com/art/201911/606444.htm)
+ > 大家好，我是学姐。最近大家发现了吧，5G在悄悄的到来了。科技发展太快了，5G的到来，注定会淘汰掉一些东西
+ ## [害怕部署机器学习模型？这里有一篇手把手教程](http://news.51cto.com/art/201911/606449.htm)
+ > 机器学习模型的部署可能会让初学者感到害怕，甚至对那些有经验的人来说也是如此。
+ ## [新一年的云计算预测](http://cloud.51cto.com/art/201911/606442.htm)
+ > 很多企业正在分享他们的客户对2020年云计算的深刻见解，希望能注意到。绝大多数人都遵循“云计算将在2020年
+ ## [2020年应对数字化颠覆的6个建议](http://www.cioage.com/art/201911/606440.htm)
+ > 根据Gartner的数据，数字化转型曾被视为一种竞争优势，但如今已成为了一项重大挑战。Gartner为企业能够在20
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
  ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
  > 
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
  > 有哪些让程序员受益终生的建议
- ## [史上最全正则表达式语法，文末附常用表达式！](https://blog.csdn.net/William0318/article/details/102775217)
- > 史上最全正则表达式语法，文末附常用表达式！
- ## [Java世界最常用的工具类库](https://blog.csdn.net/zzti_erlie/article/details/103102151)
- > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ ## [史上最全正则表达式语法，文末附常用表达式！](https://blog.csdn.net/William0318/article/details/102775217)
+ > 史上最全正则表达式语法，文末附常用表达式！
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [4个技巧，教你如何用excel绘制出高大上的图表](https://blog.csdn.net/yuanziok/article/details/103166087)
+ ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
+ > HTML CSS整理笔记
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [《吊打面试官》系列-消息队列基础](https://blog.csdn.net/qq_35190492/article/details/103153444)
- > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [Java世界最常用的工具类库](https://blog.csdn.net/zzti_erlie/article/details/103102151)
  > 
  ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
  > 史上最全的mysql基础教程
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
+ ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
+ > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
  ## [HUAWEI HiAI 3.0 分布式，瑜伽、开车还能这么玩......](https://blog.csdn.net/csdnnews/article/details/103170511)
  > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）几年前的我，是个瑜伽控。有次在健身房，听瑜伽老师说，瑜伽鸽子式，可以锻炼到胸、腰、腿，一石三鸟的动作，谁不想练？但是因为比较难，老师并不打算在大课上教。我找来的网上的图文教程，结果练成了这样......（额，还...
  ## [@程序员，你真的了解内存吗？](https://blog.csdn.net/csdnnews/article/details/103170534)
@@ -156,64 +156,74 @@ STEAM&#25945;&#32946;&#35299;&#20915;&#26041;&#26696;&#26381;&#21153;&#21830;&#8
  > 近日，华为20亿奖励员工的新闻频频刷屏。其中20亿奖金不是面向所有的华为员工，20亿奖金包涉及到的是研发体系、造AI芯片和建设生态的员工。从5G开始部署以来，华为获得了来...
  ## [不为人知的 35 个 More Effective C++ 改善编程与设计的最佳方法 | 原力计划](https://blog.csdn.net/csdnnews/article/details/103170539)
  > 作者| fengbingchun责编 | 屠敏出品 | CSDN 博客Scott Meyers大师Effective三部曲：Effective C++、More Effective C++、Effective STL，这三本书出版已很多年，后来又出版了Effective Modern C++。这里.
- ## [腾讯游戏品牌升级：Spark More/去发现，无限可能](http://www.lanjingtmt.com/news/detail/44970.shtml)
+ ## [联想thinkplus解决方案中心开业，提供一站式IT服务](http://lanjingtmt.com/news/detail/44976.shtml)
+ > 据悉，thinkplus解决方案中心的进驻，将为园区内成长型企业带来一站式的近场IT解决方案及服务。
+ ## [北京移动回应宽带业务遇用户质疑：正视、解决问题](http://lanjingtmt.com/news/detail/44975.shtml)
+ > 据了解，11月19日当天，北京移动相关负责人就带队至杨先生家中核实情况。最终北京移动为杨先生更换了新机顶盒，为投诉处理过程中产生的问题向用户道歉，并将保证今后的服务水平。
+ ## [雷军：小米研发和生产旗舰手机的试研工厂将于12月正式投产](http://lanjingtmt.com/news/detail/44973.shtml)
+ > 小米集团董事长雷军在世界5G大会上表示，在距离亦庄国际会展中心不到十分钟车程的地方，小米建设的未来工厂即将建成，预计12月底正式投产。
+ ## [2019中国网络诚信大会将于 12月2日在西安举行](http://lanjingtmt.com/news/detail/44971.shtml)
+ > 本次网络诚信大会将努力营造人人建言献策、人人参与网络诚信建设的良好氛围，打通人与人之间，个人与政府、媒体、企业之间的“诚信最后一公里”，营造诚实守信的网络空间环境，助力国家治理体系
+ ## [腾讯游戏品牌升级：Spark More/去发现，无限可能](http://lanjingtmt.com/news/detail/44970.shtml)
  > 据腾讯游戏官方微信订阅号消息，腾讯游戏对外发布全新品牌体系，沿用9年的品牌主张“用心创造快乐”升级为“Spark More/去发现，无限可能”。
- ## [网易2019年Q3净收入146.4亿元，同比增长11%](http://www.lanjingtmt.com/news/detail/44968.shtml)
+ ## [网易2019年Q3净收入146.4亿元，同比增长11%](http://lanjingtmt.com/news/detail/44968.shtml)
  > 报告期内，网易净收入为146.4亿元，同比增加11%。基于非美国通用会计准则，持续经营净利润为47.3亿元，同比增长74%。
- ## [阿里赴港上市在即，投资价值与增长空间几何](http://www.lanjingtmt.com/news/detail/44967.shtml)
+ ## [阿里赴港上市在即，投资价值与增长空间几何](http://lanjingtmt.com/news/detail/44967.shtml)
  > 对广大中小投资者而言，眼下需要考虑的关键问题在于，在美上市五年、股价几乎翻倍的阿里，其赴港上市后的投资价值究竟如何？有哪些优势与挑战？未来增长空间有多大？
 # 人工智能 
- ## [底层新增物理按键，上层处理流程](https://blog.csdn.net/qq_34211365/article/details/103169774)
- > 底层新增物理按键，上层处理流程
- ## [vue（2.x，3.0）配置跨域代理](https://blog.csdn.net/weixin_44218559/article/details/103135945)
- > vue（2.x，3.0）配置跨域代理
- ## [EditText实现单行输入，字体大小随输入的字数而改变](https://blog.csdn.net/yrw1310305589/article/details/103161738)
- > EditText实现单行输入，字体大小随输入的字数而改变
- ## [View事件分发笔记](https://blog.csdn.net/FortM/article/details/103071542)
- > View事件分发笔记
- ## [Android自定义控件(六)——文字波浪加载效果](https://blog.csdn.net/liyuanjinglyj/article/details/103111603)
- > Android自定义控件(六)——文字波浪加载效果
- ## [Flutter从0到1构建大前端应用（三）：Flutter基础](https://blog.csdn.net/Mrxuchen/article/details/103140411)
- > Flutter从0到1构建大前端应用（三）：Flutter基础
- ## [明远智睿 myzr 安卓5.1 源代码编译](https://blog.csdn.net/Nyiragongo/article/details/103148261)
- > 明远智睿 myzr 安卓5.1 源代码编译
- ## [OCR(图片识别)之 百度 VS 谷歌](https://blog.csdn.net/qq471208499/article/details/103164984)
- > OCR(图片识别)之 百度 VS 谷歌
- ## [关闭ADB检查以及React Native Paper的使用](https://blog.csdn.net/weixin_43870742/article/details/103155098)
- > 关闭ADB检查以及React Native Paper的使用
- ## [C++ 一行一行的倒读txt](https://blog.csdn.net/qq_40671789/article/details/103170991)
- > C++ 一行一行的倒读txt
- ## [InputReader读取底层事件](https://blog.csdn.net/qq_34211365/article/details/103162869)
- > InputReader读取底层事件
- ## [cocos creator - WebView内部页面的交互和层级问题](https://blog.csdn.net/qq_28299311/article/details/103162026)
- > cocos creator - WebView内部页面的交互和层级问题
- ## [tpshop多商户源码 tpshop分销商城及开发文档教程](https://blog.csdn.net/QQ__3327926505/article/details/97640484)
- > tpshop多商户源码 tpshop分销商城及开发文档教程
- ## [Android Jetpack架构组件（三）一文带你了解Lifecycle（原理篇）](https://blog.csdn.net/itachi85/article/details/103155296)
- > 
- ## [前端将文件/图片传给后端](https://blog.csdn.net/weixin_39363320/article/details/103138561)
- > 前端将文件/图片传给后端
+ ## [Android实训（一）小记](https://blog.csdn.net/qq_39312230/article/details/92795719)
+ > Android实训（一）小记
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [关于Android 10.0适配，看这篇就够了](https://blog.csdn.net/weixin_40611659/article/details/95174124)
+ > 关于Android 10.0适配，看这篇就够了
+ ## [xilinx  vivado 百度云分享  vivado2019.1  2018.3   2018.2  2017.4 （包含license）](https://blog.csdn.net/weixin_40377195/article/details/93683488)
+ > xilinx  vivado 百度云分享  vivado2019.1  2018.3   2018.2  2017.4 （包含license）
+ ## [android studio的安装，史上最详细(超多图)！！](https://blog.csdn.net/qq_41976613/article/details/91432304)
+ > android studio的安装，史上最详细(超多图)！！
+ ## [Android优秀文章总结](https://blog.csdn.net/weixin_37292229/article/details/76192197)
+ > Android优秀文章总结
+ ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
+ > Android studio 3.5安装详解
+ ## [Android实现真正的344格式化手机号码输入框](https://blog.csdn.net/woshizisezise/article/details/93182107)
+ > Android实现真正的344格式化手机号码输入框
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+ ## [ERROR: SSL peer shut down incorrectly错误解决(Android Studio)](https://blog.csdn.net/czc514/article/details/91355183)
+ > ERROR: SSL peer shut down incorrectly错误解决(Android Studio)
+ ## [自定义布局和Llistview](https://blog.csdn.net/qq_39312230/article/details/92981967)
+ > 自定义布局和Llistview
+ ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
+ > 小米airdots双耳串联问题解决
+ ## [在 Android 系统源码中自定义系统服务（Custom System Service in AOSP）](https://blog.csdn.net/Kennethdroid/article/details/101221185)
+ > 在 Android 系统源码中自定义系统服务（Custom System Service in AOSP）
+ ## [【Android】【系统适配】解决此应用专为旧版Android打造问题](https://blog.csdn.net/u013718730/article/details/94583439)
+ > 【Android】【系统适配】解决此应用专为旧版Android打造问题
+ ## [2019 Android手机系统版本分布情况](https://blog.csdn.net/Coo123_/article/details/91445527)
+ > 2019 Android手机系统版本分布情况
 # PM 
- ## [历时3个月，我们在两家淘系女装店铺探索私域真相](http://www.woshipm.com/marketing/3111432.html)
- > 笔者花了三个月，服务两家淘系女装店铺，实践私域流量池的搭建和运营，带你揭开淘系店铺关于私域流量的真相，也许都不是你想的那样。私域流量，是2019年最火的商业新...
- ## [万字长文解密抖音生态，为何成为现象级产品？](http://www.woshipm.com/evaluating/3111502.html)
- > 本文结合笔者对抖音的研究，探析为何抖音能够让C端用户沉迷，让B端品牌追逐，让电商团长们死磕？从去年4月份开始关注、研究抖音，陆陆续续写了很多的心得体会，但从没...
- ## [AI产品经理的必修课：物联网通讯的设计方法](http://www.woshipm.com/pd/3019097.html)
- > 本文主要从5大方面具体介绍了关于物联网通讯的相关知识，分别是什么是物联网通信、物联网通信有哪些通信技术、有哪些协议、协议是如何选择的以及物联网通讯技术选型考量...
- ## [Uber产品分析：复杂中定义简单的设计](http://www.woshipm.com/pd/3100080.html)
- > 随着 Uber 扩展到东南亚、拉丁美洲和中东，它面临一个主要问题：在这些新拓市场上，原本助力其成为强大企业的设计方法并没有那么有效。任何一款骑行共享设备应用界面...
- ## [如何准备一场高效的需求评审会议？](http://www.woshipm.com/pd/3113781.html)
- > 需求评审会议对整个项目想影响至关重要，作为产品经理，我们应该本着对项目和研发团队负责的态度，认真准备，以提高需求评审会议的效率。准备不充分的需求评审会议，...
- ## [互联网圈子：你混哪座山头？](http://www.woshipm.com/user-research/3114071.html)
- > 总之圈子不是重点，入局的人才是。圈子之间，进退都有好处。圈子之间，进退都有好处。六年前，三月的杭州开始有一丝闷热，羊肠马路上一辆大巴缓缓驶过，身穿绿色上衣...
- ## [网文IP恩仇录](http://www.woshipm.com/it/3111199.html)
- > 本文从网红兴盛之时起，开始梳理了网文史上的种种大事件与恩怨录。2003年，被称作是网络文学空前繁盛的一年。那是一个杂志、出版社、BBS论坛与专业文学网站并存的年...
- ## [用数据与算法，复制出下一个“李佳琦”很难](http://www.woshipm.com/it/3112143.html)
- > 在李佳琦爆红背后，或许有无数人想要通过技术与算法制造出下一个李佳琦，本文经过层层分析后觉得有点难。“顶级流量”，一般是娱乐公司、平台打造出来的拥有绝对人气的...
- ## [痛点和需求，这次彻底搞清楚！](http://www.woshipm.com/pmd/3113141.html)
- > 不管是作为产品还是运营、开发，“痛点”和“需求”使用相当高频。但是，每当我问他们，你觉得需求和痛点的区别是什么？很多人都是闪烁其词，大概知道那个意思，但是不知道...
- ## [昨晚，3亿人睡不着](http://www.woshipm.com/it/3113469.html)
- > 失眠市场至少千亿，而睡眠市场超过万亿。任何功能的改善和技术的提升，都会为创业者提供新的机会。祝各位，今夜好梦！昨晚几点睡的，失眠了没有？相关数据显示，中国...
+ ## [6个方法，让消费者更想买你的产品](http://www.woshipm.com/marketing/3116267.html)
+ > 如何让消费者更想要你的产品？作者立足消费者需求，从6个方面对这个问题进行了探究分析，供大家一同参考和学习。上一篇文章讲到了把产品卖出去，至少要解决四个问题：...
+ ## [科学让你变蠢了吗？](http://www.woshipm.com/it/3115375.html)
+ > “像所有年轻人一样，我想成为一个天才，幸好嘲笑打断了我的梦想。”——劳伦斯·达雷尔《克利亚》请允许我抱着极大的善意嘲笑科学。不，嘲笑那些以科学取代思辨的人。...
+ ## [撰写后台需求文档需要注意的那些事儿](http://www.woshipm.com/pmd/3111154.html)
+ > 很多产品经理在撰写后台的需求文档时会一脸懵，很多时候不知道怎么开始，这篇文章主要根据自己工作中对后台的理解和需求文档撰写经验进行分享。人员较小的公司，会要...
+ ## [睡眠经济：一场悲喜交加的新生意？](http://www.woshipm.com/it/3115123.html)
+ > 随着数量庞大的睡眠问题人群而来的是巨大的睡眠产业市场。“我工作第二年就出现睡眠问题了，到现在每天睡眠时间不足5小时，中途还会醒五六次。”互联网公司HR小刘无奈地...
+ ## [一切设计，首先服务于内容](http://www.woshipm.com/pd/3112905.html)
+ > 我们常说：好的设计是为了更好地服务用户。文章对此却有不同的看法，作者认为设计要服务于内容，并对此进行了分析探究，与大家分享。2009年的夏末，还是少年的我最大...
+ ## [我的产品观：感知用户需要明确目标群体](http://www.woshipm.com/pmd/3115640.html)
+ > 解决问题和感知问题是产品经理最基本的能力，解决问题的能力很好理解，但什么是感知用户的能力？作者认为感知能力最主要是需要找到感知对象，具体如何做？文章对此进行...
+ ## [盲盒已疯，95后终将成韭菜？](http://www.woshipm.com/it/3111122.html)
+ > 盲盒大热，Z世代陷入疯狂。他们，是被割的韭菜，还是助力IP发展？盲盒已经疯了，“天要让其灭亡，必先使其疯狂”，不知是否也会在风口上疯狂的盲盒身上发挥作用。在刚...
+ ## [一套产品评估指标，让产品理论落地](http://www.woshipm.com/pmd/3113347.html)
+ > 做产品有很多指导方法论，从很多角度解读了如何做一个更好的产品。但是，理论和实践总是隔着一定的距离，将理论落地需要有一套详尽的方法论。笔者针对这个问题构建了一...
+ ## [2020 UX／UI 设计的5个趋势](http://www.woshipm.com/pd/3115125.html)
+ > 文章对移动端和Web端应用中UX／UI的未来相关趋势进行了梳理和分析，与大家分享。我们距离进入21世纪的第三个十年还有不到几个月的时间，而2020年将会带来用户体验和用...
+ ## [用议论文三要素，搞定需求分析（上）](http://www.woshipm.com/pmd/3113543.html)
+ > 如何进行有效的需求分析？作者从议论文三要素出发，对需求分析进行了分析与探讨，与大家分享。软件开发流程大概分为需求阶段、设计阶段、编码阶段、测试阶段、运维阶...
+ ## [线上课程 | “产品新人有必要做好Axure原型吗”，我差点因此丢了工作！](http://www.woshipm.com/active/3101707.html)
+ > “我都从事产品工作一年多了，竟然还比不过一个只有半年实习经验的应届生。领导还跟我说，比起我那点不值钱的工作经验，公司更愿意培养新人，让我再加把劲……”“这1个月...
  ## [产品思维之用户篇](http://www.chanpin100.com/article/110107)
  > 系列文章，聊聊我的产品观与产品策划的方法，第一篇从用户开始
  ## [确保产品有效增长，看这四个关键指标就够了](http://www.chanpin100.com/article/110106)
