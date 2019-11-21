@@ -1,11 +1,13 @@
 ---
 title: 2019-11-21 IT News
 copyright: true
-date: 2019-11-21 08:00:58
+date: 2019-11-21 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 技术 
+ ## [白话Entity Framework Core数据验证](http://developer.51cto.com/art/201911/606353.htm)
+ > 白话Entity Framework Core数据验证
  ## [打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场](http://news.51cto.com/art/201911/606090.htm)
  > 打造技术管理者的高端交流圈，51CTO全球技术领导力峰会重磅登场
  ## [现在人人都要准备的2020年六个事关职业生涯的技术趋势](http://news.51cto.com/art/201911/606322.htm)
@@ -20,41 +22,43 @@ categories: IT NEWS
  > 苹果裁员调整，盛世背面！什么才是苹果AI的护城河
  ## [一文带你深入了解Redis的持久化方式及其原理](http://stor.51cto.com/art/201911/606288.htm)
  > 一文带你深入了解Redis的持久化方式及其原理
- ## [为什么大部分人做不了架构师？这两点是关键](http://zhuanlan.51cto.com/art/201911/606270.htm)
- > 为什么大部分人做不了架构师？这两点是关键
+ ## [如何在CentOS 8上安装和配置Postfix邮件服务器](http://os.51cto.com/art/201911/606367.htm)
+ > Postfix 是一个自由开源的 MTA（邮件传输代理），用于在 Linux 系统上路由或传递电子邮件。在本指南中，你
+ ## [如何回答性能优化的问题，才能打动阿里面试官？](http://zhuanlan.51cto.com/art/201911/606366.htm)
+ > 日常工作中，我们多少都会遇到应用的性能问题。在阿里面试中，性能优化也是常被问到的题目，用来考察是否有
  ## [为何物联网移动应用对用户体验如此重要？](http://iot.51cto.com/art/201911/606362.htm)
  > 物联网可以使用智能设备创建非常智能的环境。结合使用户能够远程控制这些设备的移动应用程序，该技术是该时
  ## [Linux less命令详解(9个实用案例演示)](http://os.51cto.com/art/201911/606365.htm)
  > 本文主要讲解linux less命令，详细解释该命令的作用与演示相关用法。
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [Linux文件操作高频使用命令](https://blog.csdn.net/gexiaoyizhimei/article/details/100122368)
- > Linux文件操作高频使用命令
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
- > 史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
+ ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
  > 
- ## [BMP、GIF、TIFF、PNG、JPG和SVG格式图像的特点](https://blog.csdn.net/m0_38106923/article/details/101937827)
+ ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
+ > 有哪些让程序员受益终生的建议
+ ## [史上最全正则表达式语法，文末附常用表达式！](https://blog.csdn.net/William0318/article/details/102775217)
+ > 史上最全正则表达式语法，文末附常用表达式！
+ ## [Java世界最常用的工具类库](https://blog.csdn.net/zzti_erlie/article/details/103102151)
  > 
- ## [高级软件工程师教会我的那些事儿](https://blog.csdn.net/csdnnews/article/details/101952383)
- > 高级软件工程师教会我的那些事儿
- ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
- > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
- ## [MySQL数据库—SQL汇总](https://blog.csdn.net/qq_37969433/article/details/102637226)
- > MySQL数据库—SQL汇总
- ## [黑客入门，从HTB开始](https://blog.csdn.net/neal1991/article/details/102656213)
- > 黑客入门，从HTB开始
- ## [动画：用动画给女朋友讲解 TCP 四次分手过程](https://blog.csdn.net/qq_36903042/article/details/102656641)
- > 动画：用动画给女朋友讲解 TCP 四次分手过程
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [SQL基本语法入门 看这里就够了](https://blog.csdn.net/qq_42080073/article/details/102665305)
- > SQL基本语法入门 看这里就够了
- ## [如何优化MySQL千万级大表，我写了6000字的解读](https://blog.csdn.net/yangjianrong1985/article/details/102675334)
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [面试最后一问：你有什么问题想问我吗？](https://blog.csdn.net/dyc87112/article/details/102676581)
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
+ > HTML CSS整理笔记
+ ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
+ > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
+ ## [《吊打面试官》系列-消息队列基础](https://blog.csdn.net/qq_35190492/article/details/103153444)
+ > 
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [Vue + Spring Boot 项目实战（十四）：用户认证方案与完善的访问拦截](https://blog.csdn.net/Neuf_Soleil/article/details/102788866)
+ > 
+ ## [Android Jetpack架构组件（三）一文带你了解Lifecycle（原理篇）](https://blog.csdn.net/itachi85/article/details/103155296)
  > 
  ## [HUAWEI HiAI 3.0 分布式，瑜伽、开车还能这么玩......](https://blog.csdn.net/csdnnews/article/details/103170511)
  > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）几年前的我，是个瑜伽控。有次在健身房，听瑜伽老师说，瑜伽鸽子式，可以锻炼到胸、腰、腿，一石三鸟的动作，谁不想练？但是因为比较难，老师并不打算在大课上教。我找来的网上的图文教程，结果练成了这样......（额，还是马赛克一下吧）正确姿势，应.
@@ -78,37 +82,6 @@ categories: IT NEWS
  > 作者| fengbingchun责编 | 屠敏出品 | CSDN 博客Scott Meyers大师Effective三部曲：Effective C++、More Effective C++、Effective STL，这三本书出版已很多年，后来又出版了Effective Modern C++。这里.
  ## [阿里赴港上市在即，投资价值与增长空间几何](http://www.lanjingtmt.com/news/detail/44967.shtml)
  > 对广大中小投资者而言，眼下需要考虑的关键问题在于，在美上市五年、股价几乎翻倍的阿里，其赴港上市后的投资价值究竟如何？有哪些优势与挑战？未来增长空间有多大？
-# 人工智能 
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
- > 
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
- > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
- ## [IDEA Unable to import maven project: See logs for details （maven的坑）](https://blog.csdn.net/Certain_/article/details/90745360)
- > IDEA Unable to import maven project: See logs for details （maven的坑）
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [vue-element-admin完整项目实例](https://blog.csdn.net/weixin_42614447/article/details/91494053)
- > vue-element-admin完整项目实例
- ## [有逼格的代码 之 【使用Stream代替for循环】1-2](https://blog.csdn.net/qq_26462567/article/details/93598773)
- > 有逼格的代码 之 【使用Stream代替for循环】1-2
- ## [JRebel for IntelliJ  热部署破解方法](https://blog.csdn.net/is_chenzh/article/details/82148157)
- > JRebel for IntelliJ  热部署破解方法
- ## [IntelliJ IDEA（2019）安装和破解。](https://blog.csdn.net/weixin_37569048/article/details/91490654)
- > IntelliJ IDEA（2019）安装和破解。
- ## [CI/CD是什么？](https://blog.csdn.net/asstsui/article/details/89554013)
- > CI/CD是什么？
- ## [软件工程基础 简答题 哈工程](https://blog.csdn.net/weixin_43870649/article/details/94146383)
- > 软件工程基础 简答题 哈工程
- ## [IT界大佬告诉你，程序员接私活的7大平台利器](https://blog.csdn.net/qq_43202482/article/details/84832222)
- > IT界大佬告诉你，程序员接私活的7大平台利器
- ## [win10企业版2016长期服务版激活方法](https://blog.csdn.net/fengqingtao2008/article/details/96724477)
- > win10企业版2016长期服务版激活方法
- ## [打开MPP格式文件的十种方法](https://blog.csdn.net/zhangrui_fslib_org/article/details/50326993)
- > 打开MPP格式文件的十种方法
- ## [推荐10款最好的Python开发编辑器](https://blog.csdn.net/ajian6/article/details/92798273)
- > 推荐10款最好的Python开发编辑器
 # PM 
  ## [多数电商产品，不应该做“购物车”](http://www.chanpin100.com/article/110096)
  > 购物车并不是电商的必备功能，不满足条件的电商产品，不应该实现购物车功能
@@ -122,23 +95,5 @@ categories: IT NEWS
  > 资本一词自诞生之日起，便引得世人的注目，只不过这词太让人眼花缭乱了。虽然人们对之趋之若鹜，但大多数人是知其名，不知其然，知其然者，又有许多不知其所以然，能知其所以然者仍是较少数的。
  ## [快收藏一张思维导图带你读懂《金融市场学》](http://www.chanpin100.com/article/110089)
  > 你了解金融市场吗？很多人可能会觉得有交易的地方就有金融市场，但是你知道金融市场又有哪些细分的市场或者说金融市场又分为哪些呢？接下来，我们将通过一张MindMaster思维导图读懂《金融市场学》这本书。
- ## [思维导图之行政组织结构设计内容，你还没收藏吗？](http://www.chanpin100.com/article/110087)
- > 所谓行政组织结构就是要素与层级构成的结构，可以分为横向结构与纵向结构，对于行政组织结构设计，应了解以下两大内容：基本内容和主要内容
- ## [分析《运营之光》思维导图，运营工作者必看书籍](http://www.chanpin100.com/article/110085)
- > 运营是对运营过程的计划、组织、实施和控制，是与产品生产和服务创造密切相关的各项管理工作的总称。世界上有那么多人在做运营，为什么却只有少数人可以做好？本文将用MindMaster思维导图向您介绍一下黄有璨先生是如何一步步了解运营是什么？运营有什么内容？运营如何做好？并且将了解到的运营内容进行总结归纳。
- ## [「CTA行为召唤按钮」的一些设计规则](http://www.chanpin100.com/article/110084)
- > 关于如何设计一款真正具有行为召唤的按钮，实现具体的动态行为交互，设计师一方面需要了解CTA的重要性，另一方面更要着重注意影响其表现的所有细节。
- ## [经验分享｜如何提升界面设计的可读性？](http://www.chanpin100.com/article/110083)
- > 本文的写作目的主要有两点，其一，探究在设计中，影响Web和App界面可读性和易读性的因素有哪些；其二，提出相应的解决办法，即如何提升界面设计的可读性。
- ## [做产品，最怕的就是不了解用户需求](http://www.chanpin100.com/article/110081)
- > 用户，我跪着看你特别帅。
- ## [一文看懂Attention（本质原理+3大优点+5大类型）](http://www.chanpin100.com/article/110082)
- > Attention 正在被越来越广泛的得到应用。尤其是 BERT 火爆了之后。Attention 到底有什么特别之处？他的原理和本质是什么？Attention都有哪些类型？本文将详细讲解Attention的方方面面。
- ## [产品经理为什么有必要学点AI知识呢？](http://www.chanpin100.com/article/110080)
- > 现在的弱人工智能就像地球早期软泥中的氨基酸，可能突然之间就形成了生命。
- ## [“懒人经济”大爆发！冲击万亿家政市场，技术及制度变革是关键](http://www.chanpin100.com/article/110079)
- > 前景广阔，痛点仍在！揭秘家政服务行业如何破局，撬动万亿市场红利
- ## [一张思维导图读懂《营销管理》马上收藏吧](http://www.chanpin100.com/article/110088)
- > 想必大家或多或少有接触过营销，因为只要你从事买卖，就会有营销。甚至个人本事就是一个品牌，每天你在与其他人交往中，其实也是一种营销。而谈到营销。就必须读读世界营销之父——菲利普·科特勒博士这本“定义级”的经典巨著《营销管理》。接下来，我们将通过一张MindMaster的思维导图提炼这本书的精华，进而更
 
     
