@@ -1,7 +1,7 @@
 ---
 title: 2019-11-22 IT News
 copyright: true
-date: 2019-11-22 12:02:13
+date: 2019-11-22 17:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -64,65 +64,77 @@ TikTok&#33268;&#20449;&#32654;&#22269;&#22269;&#20250;&#65306;&#20877;&#27425;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [微软获批可向华为出口软件；英特尔因CPU短缺向PC厂商道歉；Spring Tools 4.4.2 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=q21VdIJOAMDH9Az-AcIq55pnpPSkgc7Tkp4hNerIV1OdsjrDApQ0qeM6AnwF7hZDA4FlK2J6y8wqH9hlUDkTRRax1yLklKOD7Ra-tLprXiHgqCQiN8XMwZ1LUgIshF*i&new=1)
+ ## [漏洞管理项目最佳实践](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=53IhQP4F5-yVFAONu0pZCE8JyQ*3kI5ciLDisWyyEhrmGynzWvz5DMI5pNikCsskMUsRm0wMqDf3sQN2zBlCIRZB*wvzWmKFV71x3YrxaXaMHqyg-ppJc7-z-eP5kdt9&new=1)
+ > 若建立在可满足所有利益相关者信息需求的成熟基本目标之上，若其输出能够绑定企业目标，若能够减少企业的总体风险，那么企业的漏洞管理项目就能发挥出其全部潜力。此类漏洞管理技术能够检测风险，但需要人与过程...
+ ## [俄罗斯立法要求智能设备预装国产软件，否则不得销售](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=irNdPbWA0r3609yd-7BZ24sgALyuKuTpP30PHoncM50ICjig5RVOpyGKnEk71zHwEgB0XYpBgyCvyO5jKeI2-ypay171VBCqDqjaA3qz81I=&new=1)
+ > 据英国广播公司(BBC)报道，俄罗斯下议院11月21日通过一项法案，将禁止未预装俄罗斯国产软件的智能手机、电脑等设备在俄罗斯境内销售。这项法案规定，如果智能手机、电脑、智能电视等设备未预装俄罗斯国产软件，...
+ ## [不用遛还会干家务、做保镖…!一大波四足机器狗来了](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=OORKVzi3lRfMon4Zt2CeK2mR0hy1XwV-dT1v6PZqC0UjdsrZ3ye5mo*jV45tdGPk6Un5qYuPa-fRwAbpuYtgLX4Vr1-1M9BO*CTasxdnQgYDbhrJGKYhH8-wgMfidHiu&new=1)
+ > 看点：四足机器狗正闯入你的生活！准备好了吗？还记得《黑镜》里机器狗猎杀人类的恐怖场景么，电视剧的情节已经离我们越来越近了……最近几个月里，四足机器人不断成为热门话题，各家频频晒出四足机器人的看家绝...
+ ## [穿着AI新衣的“区块链第一股”：融资规模缩水9成 AI收入不足1%](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=CUNJw4BBWs-SHb6CmchrFumOALON6JP9UfD42MxjA*XB1--n8Va*rKRaCbBSOnesKiSVe2sfHcBTVUBX0CPwf31SbRn91iuqQphCV*0SrCLeyXoI3AgHPJDymRkHAYbh&new=1)
+ > AI傍身，矿机厂商们的路也没有变得好走。记者 | 南柯编辑 | 吴晋娜““区块链第一股”终于在轮番提交招股书的矿机厂商中尘埃落定。全球第二大比特币矿机生产商嘉楠耘智以嘉楠科技为名于美东时间11月21日赴美上市...
+ ## [新：3E沉积技术同时支持金属丝和粉末，Meltio桌面级金属3D 打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=DTvAxynRCSmJZfVmv2Zzv8sy38tpyQlcd2Sx5C33gdBt5*Jz-T99KTOMU8HdhY6o95J4WrDwHQ4p7eUANlEtDIhrIQaZu1vY--WnNWbasOdkYevw3Vx7NUvdPoy*sp85&new=1)
+ > 关注南极熊，知晓3D打印天下事2019年11月19日，目前全球规模最大的3D打印专业展会FORMNEXT在德国法兰克福举行，全球超800家3D打印厂商参展，中国展商超70家。为了满足中国数十万熊友对全球3D打印发展最新情况的...
+ ## [华为副总裁杨瑞凯：预计今年公司总收入增长10%以上](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=*MWsRHq7vR2HVsekS5LRzoCWBPxgY5vkLBYwAoj49pEnAK7UfN-UCnYs3GPe5voN3mZEtSwEe5MKOD-h0e6DliDSr1fddrL1u3qynldtSS8=&new=1)
+ > 经济观察网 实习记者 王方圆 “预计华为今年全年总收入将超8000亿人民币，全年增长10%以上；2018年的研发投入达到1000亿元人民币，今年预计会达到1200亿元人民币。”11月21日，在首届华为·宜春城市大数据与人工...
+ ## [微软：已获得美商务部批准，向华为出口软件](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=irNdPbWA0r3609yd-7BZ24sgALyuKuTpP30PHoncM52*QYWDeInlrdyzQ7cP9qD*vc-Lc3lRpmHXDN-Nu26ezGgyoUd6F6VSEeO-M2YyWpE=&new=1)
+ > 据路透社11月21日报道，美国微软公司(Microsoft)周四表示，已经获得美国政府批准的向中国华为技术有限公司出口软件的许可。微软在声明中表示：“11月20日，美国商务部批准了微软向华为出口大众市场软件的申请。...
+ ## [微软获批可向华为出口软件；英特尔因CPU短缺向PC厂商道歉；Spring Tools 4.4.2 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=q21VdIJOAMDH9Az-AcIq55pnpPSkgc7Tkp4hNerIV1MGXawPIKw4TcpUL9fuIbVyOIHdEeFnn*EHyO9RSfuvkv96a3nfCXm7wTk6Dm8ZnzDMR*RbRhPTs8ZYUu*i4kdH&new=1)
  > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
- ## [特朗普称已要求苹果公司帮助美国建设5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=irNdPbWA0r3609yd-7BZ24sgALyuKuTpP30PHoncM52cNRBgNKSBFmJ5Obq-kxb*OIVqBOw4Fzuq1dilIwfViPtHafTpd3ylz0JnyLA6L-4=&new=1)
+ ## [特朗普称已要求苹果公司帮助美国建设5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=irNdPbWA0r3609yd-7BZ24sgALyuKuTpP30PHoncM53701*uG4D*mF-3--*CrNUJtsOfRg93SVHFs-MU5jcwiJYt2U*wRaEGrC4zXJvqKlQ=&new=1)
  > 据俄罗斯卫星网21日报道，美国总统唐纳德·特朗普通过推特宣布，他已要求苹果公司CEO蒂姆·库克（Tim Cook）参与全国高速5G网络的建设。特朗普称，这家美国科技巨头拥有做好这项工作所需的一切。美国政府此前禁...
- ## [联通用户数出现负增长不一定是坏事](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=GxRhHEJWcwiMHHFSGwgXXRaTSNA6VKvwUHSwIhQlL-NUFm4xsWYMXBJRm3GGpPyakBNPla3k06cnt-883lGG-OowgOrWFnUIQ98jqum6nrDnteDUAMFCLoWO-XnDZ1hj&new=1)
+ ## [联通用户数出现负增长不一定是坏事](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=GxRhHEJWcwiMHHFSGwgXXRaTSNA6VKvwUHSwIhQlL-NXDNrNyv0Hf5luJQQTSHugiEieN7kV-zOUy6Y5L0L8lOA-UAs*SwApIpbwsfj*o8L*DUXmqhmG-*5-4q18A7Y*&new=1)
  > 11月20日，中国联通公布了10月运营数据。移动业务方面，中国联通本月移动出账用户净减261万户，累计到达3.22119亿户。其中，4G用户本月净增60.6万户，累计到达2.51751亿户。固网业务方面，中国联通固网宽带用户...
- ## [“智能”“智慧”成世界5G大会关键词 专家预测2025年中国将成全球最大5G市场](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=4eL8r6qCsa5LuzUptMgEvnkIPR31OzBAdNyzpPSYzC4NiqzDrPXWlQGll5Nto9WiU2mEMpK94qPWSueydYmGhvAA9Dm43zSVitrOhGGTKvo=&new=1)
+ ## [“智能”“智慧”成世界5G大会关键词 专家预测2025年中国将成全球最大5G市场](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=4eL8r6qCsa5LuzUptMgEvnkIPR31OzBAdNyzpPSYzC7BziKfBGSc5h*51Nlm77AEXZT1tZSi5LzYv*qJrayVXE-ziXpW-axPVjUcjNAtIKc=&new=1)
  > 本报见习记者 李正    首届世界5G大会正在举行。《证券日报》记者在两万平米的展厅内采访时注意到，被展商提及最多的两个词就是“智慧”和“智能”。    在半导体企业紫光展锐的展览区，紫光展...
- ## [穿越平行宇宙!硬核大神用Ps满足你对赛博朋克的所有幻想!](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=qK3rQH4ODQ-jDGGGSIWR5snUDF237ZuKmKxKDmev7efI34mvc6elj27mO1rbhl2lu3*e1r1fwj7u6chT7BMmLr5KjmrLJujHJ-VjfjDBcV2qjGj8BuhGGNtsQywMvrcf&new=1)
+ ## [穿越平行宇宙!硬核大神用Ps满足你对赛博朋克的所有幻想!](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=qK3rQH4ODQ-jDGGGSIWR5snUDF237ZuKmKxKDmev7ecx-u5h5vpV4OVeZcUVSK9*QDlMtKWwhahl4yS-ihtFXWfVt9px-0F6I91DncmG6TWVJZnPtXuUS1-71kLYxFvG&new=1)
  > 来源：杰视帮  ID：jacksean003来自俄罗斯的硬核设计师Evgeny Zubkov启动了一个名叫：“ARBONGRAD 1999”的项目通过设计描绘了一个来自某个平行宇宙中的1990年代的地球在这个平行地球中你会发现各种脑洞大开的
- ## [美国新法规将阻止美国公司在俄罗斯、中国存储个人数据](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=tB62XpmplcXczbOfJSewoN5Uai1jN*lz1*KyDn7evH6S*h1bPOAJcreEgze*W998XlHcATTUGux5Dn3*P5umHe7dVc-1Kx4I*17SUuvRA-grMZ8DmAtyJ0CQixMy0ExN&new=1)
+ ## [美国新法规将阻止美国公司在俄罗斯、中国存储个人数据](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=tB62XpmplcXczbOfJSewoN5Uai1jN*lz1*KyDn7evH7ZL2xAy2K6y1ALSsdvWmIk*4A85na5PQ*wphUBRUHaryU2tKnNHnexy24psvWpIliWhgpdPFEpvvE*2b-Jwb0n&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，美国参议员Josh Hawley提出《 2019年国家安全和个人数据保护法》，该法案将要求各高科技公司仅能收集其运营所需的用户数据，而绝不可将数据传输...
- ## [中国科技成果转化率与美国差距有多大，问题在哪里?|观点](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=S1blVsecCsVt9Ee273cMHc0WxOrsH70ae1lvZVMTDshP4zjlLJ2esDjUVusODHr67UXcamLIUwvoT4jhoSUSCD*F3lEBEfYHgLdHBPrM9ffEnBLXha31FTNzCc1xIZEX&new=1)
+ ## [中国科技成果转化率与美国差距有多大，问题在哪里?|观点](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=S1blVsecCsVt9Ee273cMHc0WxOrsH70ae1lvZVMTDshVE*FXRQbtHU0nYHl4Ub13eeM8AreVm*CUAxeOPX2xpGYbgTR6I8X-g07AaMDYhgUSET1AU7yGxTSNYhO6fx0z&new=1)
  > pixabay.com 导 语目前科技成果转化率并没有一个确切的数据来源，本文将科技成果转化率限定为专利转化率，基于统计数据和论文文献，推算出中美两国的科技成果转化率数值分别为6%和50%；以 “科技成果转化效率” ...
- ## [5G已来，6G也开始“探路”了](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=89tV9tcL1o5SyAm7cgGdF7KoNFMj42t2hAXKWFisy4gVnB*1EX9sqN6lvPP7Wl8rsPcPuZ1OpKNvbM5pBlCc7qLt*JzVRuGSCGEc4zFS9jQXN5ehpEsMXZGaMzn6-clD&new=1)
+ ## [5G已来，6G也开始“探路”了](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=89tV9tcL1o5SyAm7cgGdF7KoNFMj42t2hAXKWFisy4jNcVUDViBLKAnCjWvEQz1zan3ZWVvQ4Vdtd*VRPnjSmcYIRaeY1fsp4PNSAnkY4p3xD*eIhnCK7v8oCHTTVoad&new=1)
  > 科技日报记者 刘园园世界5G大会正在北京召开。业内专家在畅谈5G的同时，也开始关注下一代网络技术——6G。应用范围将进一步拓展“5G商用刚刚开始，预期6G的商用可能在大约10年以后。目前业内对6G的探索主要集中...
- ## [2019年全球光纤光缆大会|筑起全球光纤通信发展新的里程碑](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=zIyv90cu-jMoKHlRkwQxQsmy5XkPQFm5YSIFGgMeHqDaYrHlw6kyOjlcTeyYhab3*bWu7PyKr6c2bu859m90bXJBZPy2-Iemls2boTh0X7t52GjdDAjztzYyfVgE1BGn&new=1)
+ ## [2019年全球光纤光缆大会|筑起全球光纤通信发展新的里程碑](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=zIyv90cu-jMoKHlRkwQxQsmy5XkPQFm5YSIFGgMeHqAjZty5-x82q0rs4wziq456DjZdhODNfNXDYg-DjIImuL2RKAz4W9No9yWQNpvcArOksITQBgI1bdNXTyh*mIS5&new=1)
  > 导读：2019年全球光纤光缆大会在上海国际会议中心隆重举行。 本次会议以“智联无限，纤领未来”为主题，为全球光通信企业搭建和谐健康暨联合创新的发展平台。大会汇集30余场专业主题演讲，报告涵盖光纤网络、海...
- ## [\[报告\]2019中国豪华车市场发展白皮书(附48页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=RogrMSeofavfRCPmEWB4KuhKOrNXNFblG0qynLIOlRrCpOZeAV8wFh-8p02iRehUYdPBqMAoaeCqM5UYtW6RFYKV5zIDEXEW62wde5qmMsSGmKp91UIySHqgjuljkI7d&new=1)
+ ## [\[报告\]2019中国豪华车市场发展白皮书(附48页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=RogrMSeofavfRCPmEWB4KuhKOrNXNFblG0qynLIOlRqP52Zpwrtapn*ICLGzLzJ6*G6MwL5yPlpMLJQ3a7KOgF9eRKIZfcW-bXrvIm17u0QctKZzlKzdH68Khq-z2RJ5&new=1)
  > 本次调研采用创新的场景化调研模式，通过车辆静态对比、长途动态试驾方式，更加真实反映用户对豪华车使感官及使用体验等多方面的评价与反馈。同时，还采用了线上调研、线下访谈等多元化的研究方式，且覆盖丰富多...
- ## [在铁路通信系统中，GSM-R与时延抗争的“成长史”](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=*4VK2QTdxcj1d6U*DxTKM2tKQ*tK7TVnfsYv1T*8hfUPFxZo1dz7sUKQM2exQY7prPo8n9JYl-beiZSfptTUX3o3eah*j9m0UKWBKnbIAx44MG7Rj6ctMyeWIko-wqp6&new=1)
+ ## [在铁路通信系统中，GSM-R与时延抗争的“成长史”](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=*4VK2QTdxcj1d6U*DxTKM2tKQ*tK7TVnfsYv1T*8hfXA4RvIE-2d9BlTBJn4g7O-C14KPLjQzuuUwSPtw81zGBsfREHDNrVJYDroPrhJ-CVT0goqRoYsVZ2sJqf6SoZ4&new=1)
  > “哐当哐当哐当~~”当我们坐在一辆飞驰的火车上车厢里，有的乘客在打电话“喂，我刚上车，别担心了...”乘务员拿着对讲机，确认车厢情况“13号车厢，没有需要补票的...”列车长和即将停靠的站点地勤核对消息“是...
- ## [\[科技早报7点整\]王思聪要求乐视网回购部分股权 美国宣布首次实现人类假死 ……](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=KVLFvzO4fzoUBTfdkezAnouteLKD-KEkqPaies-ggaSdYKV4b8gHv8ymPzYaye5pTA*2VMacas0cvPusA5Itpy73YOSXVsqfiy2YjjypAH4fPCjD5TeiBeXViWarocjN&new=1)
+ ## [\[科技早报7点整\]王思聪要求乐视网回购部分股权 美国宣布首次实现人类假死 ……](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=KVLFvzO4fzoUBTfdkezAnouteLKD-KEkqPaies-ggaTF9N8knSgbVl8FnhAFtkIc-6BJNnSKth4W29qbQhlLZhx5-I00Ek9*f5uzycYkyIouec9QO*33CbJbJsDi-kjP&new=1)
  > 早上好，科技圈【一度蜜科技早报】第650期1.乐视网：被王思聪要求回购A轮和B轮股权乐视网公告称，于近日收到《北京仲裁委员会裁决书》，作为被申请人之一，被要求回购北京普思投资有限公司因投资乐视体育而持有...
- ## [境外媒体：美国巨头或将发布最新芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=voT5mUkH7ga-MxzgiFq1ZZXa7rUrjXiti1WDPDTaaKU10Fs3JnNis*j8-OIZ8X-Qq03TyZv9uAXo06ddDCeaEZQ*TTGvNGUkUdWTl*4H3qg=&new=1)
+ ## [境外媒体：美国巨头或将发布最新芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1574413201&ver=1989&signature=voT5mUkH7ga-MxzgiFq1ZZXa7rUrjXiti1WDPDTaaKUaehmVA1A0RIH*RXH7-hi4Av4HcDwZ1r854sRwjk-1bg--xYxyRv0FjMjwBKcQ0j0=&new=1)
  > 参考消息网11月22日报道 境外媒体报道称，2020年安卓旗舰手机的“最佳核心”之一——骁龙865（暂定名称）芯片，即将要正式现身了吗？近日，高通宣布直播本届骁龙技术高峰会，有消息称，高峰会中也将分享高通公司...
- ## [为了快速响应全球用户请求，汇量科技选择了上云](http://mp.weixin.qq.com/s?src=11&timestamp=1574395201&ver=1989&signature=1mvnUcaUcQe4nidhlUIICzlVMtzF2SBTLkIZ3ZKdrjTcF0zEbJTE*r*cIp4DJAxFsnhIUJnCVORjV9DVzboue92fyhhVSYS2jS3syDenYgINjP1cffglwgTOTKWZZI9U&new=1)
- > “简单极致，极具伸缩性，是我对AWS的理解。使用AWS，让汇量科技能够快速扩展、快速创新，从2017年到2019年，汇量科技的日均广告请求量从180亿次增长到500多亿次，最高峰值达1000亿次，我们的IT运维依然能够从容...
 # IT 技术 
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
- > 
  ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
+ > 
+ ## [人工智能的“天罗地网”](https://blog.csdn.net/csdnnews/article/details/102031101)
+ > 
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
  > 有哪些让程序员受益终生的建议
- ## [深入理解ArrayList](https://blog.csdn.net/Woo_home/article/details/103177912)
- > 
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [杭州趣链张帅：趣链拥有大厂都没有的优势](https://blog.csdn.net/csdnnews/article/details/103165480)
- > 
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [js中对象遍历的几种方式](https://blog.csdn.net/JGD313/article/details/100855044)
- > js中对象遍历的几种方式
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [「本体解读」混合型共识的先驱——VBFT](https://blog.csdn.net/ontologycoding/article/details/102825390)
- > 「本体解读」混合型共识的先驱——VBFT
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [BMP、GIF、TIFF、PNG、JPG和SVG格式图像的特点](https://blog.csdn.net/m0_38106923/article/details/101937827)
+ ## [杭州趣链张帅：趣链拥有大厂都没有的优势](https://blog.csdn.net/csdnnews/article/details/103165480)
  > 
+ ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
+ > 大学四年，分享看过的优质书籍
+ ## [深入理解ArrayList](https://blog.csdn.net/Woo_home/article/details/103177912)
+ > 
+ ## [一文搞懂什么是TCP/IP协议](https://blog.csdn.net/petterp/article/details/102779131)
+ > 一文搞懂什么是TCP/IP协议
+ ## [为什么你学不会递归？告别递归，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/102767860)
+ > 为什么你学不会递归？告别递归，谈谈我的经验
+ ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
+ > 史上最全的mysql基础教程
  ## [一个数据的乔迁奇遇记](https://blog.csdn.net/csdnnews/article/details/103193682)
  > 如今随着信息时代的到来，以云计算、大数据、人工智能为代表的新晋技术与应用实现了爆发式的增长。新数据时代，数据在数据形态、部署环境、应用模式和价值需求等方面均出现了更为精细...
  ## [只需三种手段，将传统的网站的性能提高 24%！](https://blog.csdn.net/csdnnews/article/details/103193691)
@@ -145,40 +157,52 @@ TikTok&#33268;&#20449;&#32654;&#22269;&#22269;&#20250;&#65306;&#20877;&#27425;&#
  > 在选择编辑器时，想必很多人对 vim 嗤之以鼻，但实际上，从一定角度来看，你也能发现别样的风采。本文的目的并不在于强推荐大家使用 vim，而是通过作者将Vim 作为 Web 开发项目的主编辑器案例中，让我们发现一些不同之处。作者|Fidel Sanchez-Bueno译者 | 弯月，责...
  ## [他：32岁，公司骨干技术，月薪1万，加班猝死](https://blog.csdn.net/csdnnews/article/details/103193687)
  > 你，一个程序员。已经是周五凌晨一点了，再过三天就要上线了，刚写完了今天临时加的需求，你站在工位打开滴滴，准备打车回家，凌晨一点的西二旗拼车和凌晨一点的工体拼车等待位数不相...
+ ## [《5G青年空降手册》报告：5G未来三大趋势，呈现八大场景](http://www.lanjingtmt.com/news/detail/44986.shtml)
+ > 荣耀联合华为X Labs、青年志联合发布《5G青年空降手册》，该手册预测5G未来三大趋势，呈现年轻人八大生活场景。
  ## [网易交出业务重整后的首份财报，电商、游戏之后需寻新支点](http://www.lanjingtmt.com/news/detail/44984.shtml)
  > 正如网易在2019年第一季度的财报电话会议中所表示，网易未来所聚焦的方向将是游戏、电商、音乐及教育。对于这家老牌互联网巨头来说，其正在经历一场蜕变。
 # 人工智能 
- ## [悲痛！又一个华为外包程序员加班猝死，谁要为 996 买单？](https://blog.csdn.net/DevolperFront/article/details/103154488)
- > 悲痛！又一个华为外包程序员加班猝死，谁要为 996 买单？
- ## [业余时间研究了下微信小程序版的街机游戏模拟器，8090后的童年回忆啊](https://blog.csdn.net/shinenet/article/details/103137610)
- > 业余时间研究了下微信小程序版的街机游戏模拟器，8090后的童年回忆啊
- ## [你的童年有俄罗斯方块吗？教你用 Python 实现俄罗斯方块！](https://blog.csdn.net/ityard/article/details/103058315)
- > 你的童年有俄罗斯方块吗？教你用 Python 实现俄罗斯方块！
- ## [一个年轻程序员的思索，解决学习速度慢的问题，技术和知识的区别，人生选择方向的问题](https://blog.csdn.net/qq_40666620/article/details/103157273)
- > 一个年轻程序员的思索，解决学习速度慢的问题，技术和知识的区别，人生选择方向的问题
- ## [unity3dC小白上手简单易懂（一）制作红绿灯【超简易版】](https://blog.csdn.net/W_Chelsea/article/details/103180322)
- > unity3dC小白上手简单易懂（一）制作红绿灯【超简易版】
- ## [c++实现贪吃蛇详解(附代码)](https://blog.csdn.net/peng1874/article/details/103169973)
- > c++实现贪吃蛇详解(附代码)
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [cf 601 E2. Send Boxes to Alice (Hard Version)](https://blog.csdn.net/weixin_44017995/article/details/103164488)
- > cf 601 E2. Send Boxes to Alice (Hard Version)
- ## [自考总结-2019下半年](https://blog.csdn.net/qq_41306240/article/details/103156210)
- > 自考总结-2019下半年
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
+ ## [摸鱼前端的自检（六）你不知道的web性能优化](https://blog.csdn.net/qq_24073885/article/details/103160186)
+ > 摸鱼前端的自检（六）你不知道的web性能优化
+ ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
  > 
- ## [2019 CCF CSP-J2 题解](https://blog.csdn.net/xiaopengyou232/article/details/103168884)
- > 2019 CCF CSP-J2 题解
- ## [实习日记——Day13](https://blog.csdn.net/skyejy/article/details/103164222)
- > 实习日记——Day13
- ## [Roguelike横板动作类游戏开发总结](https://blog.csdn.net/qq_41526338/article/details/103176357)
- > Roguelike横板动作类游戏开发总结
- ## [（个人日记）写游戏没满一年我裸辞了](https://blog.csdn.net/zhufanhui6290/article/details/103110313)
- > （个人日记）写游戏没满一年我裸辞了
- ## [开题——我的第一个网站(1)](https://blog.csdn.net/yangwohenmai1/article/details/102794305)
- > 开题——我的第一个网站(1)
+ ## [《程序员必备的开发常识（精品）》](https://blog.csdn.net/qq_44894205/article/details/103181343)
+ > 《程序员必备的开发常识（精品）》
+ ## [28 - JavaScript 特效：scroll家族和缓动动画](https://blog.csdn.net/Yuanriver/article/details/103148097)
+ > 28 - JavaScript 特效：scroll家族和缓动动画
+ ## [vue面试题7](https://blog.csdn.net/weixin_45679977/article/details/103154020)
+ > vue面试题7
+ ## [ES6的Promise解决的哪些问题,以及使用方法和原理](https://blog.csdn.net/weixin_44238796/article/details/103159716)
+ > ES6的Promise解决的哪些问题,以及使用方法和原理
+ ## [服务器端返回统一格式的数据](https://blog.csdn.net/lianghecai52171314/article/details/103160934)
+ > 服务器端返回统一格式的数据
+ ## [BFC(Block Formatting Context) 及其如何工作](https://blog.csdn.net/jnshu_it/article/details/83900381)
+ > BFC(Block Formatting Context) 及其如何工作
+ ## [（前端）float属性 与position(定位)](https://blog.csdn.net/bocai_xiaodaidai/article/details/103175844)
+ > （前端）float属性 与position(定位)
+ ## [3d正方体旋转相册](https://blog.csdn.net/SAKURE2210866448/article/details/103108002)
+ > 3d正方体旋转相册
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://blog.csdn.net/ch834301/article/details/103055389)
+ > 
+ ## [前端开发学习常用网站网址及介绍（都是免费的）](https://blog.csdn.net/qq_35713752/article/details/103036084)
+ > 前端开发学习常用网站网址及介绍（都是免费的）
+ ## [提前送给双十一单身猿们的表白神器](https://blog.csdn.net/weixin_44560813/article/details/102956248)
+ > 提前送给双十一单身猿们的表白神器
+ ## [《用前女友的素材资源搭建素材网》](https://blog.csdn.net/qq_44894205/article/details/103187616)
+ > 《用前女友的素材资源搭建素材网》
 # PM 
+ ## [教育行业实操分享：从零开始做教育行业的运营流程（中）](http://www.woshipm.com/operate/3121721.html)
+ > 在上一篇文章中分享了项目前期的东西，项目和人群，主要针对市场、人群来写，前期的工作做完之后就是产品、方案和诱饵制作。本篇主要针对围绕产品分析、梳理方案和诱饵...
+ ## [85后的互联网人，集体30岁+](http://www.woshipm.com/it/3121544.html)
+ > 年轻时，想要大房子，开好车，有迷人的伴侣。这些都是很好的想法，但要搞清楚，这是欲望不是理想。很小的时候，看着那些30岁的大人，觉得他们很成熟，大概就是那些刚...
+ ## [产品经理与用户的关系，是我懂你](http://www.woshipm.com/kol/3121546.html)
+ > 2019年10月19-20日，人人都是产品经理举办的【 2019上海产品经理大会】完美落幕。腾讯用户研究与体验设计中心总经理  陈妍，她为我们带来《懂用户——腾讯产品的基本态度...
+ ## [互联网明星公司招黑简史](http://www.woshipm.com/it/3121078.html)
+ > 在争议中穿越迷雾，这是成为巨头的代价。今日获悉，两位小红书博主对自媒体大号“圈少爷”、“电商头条”、“美貌研习社”等发起诉讼，称其恶意捏造和发布博主“涉黄”内容，...
+ ## [线下课程 | 做运营，如何高质量地完成运营工作？](http://www.woshipm.com/active/3059238.html)
+ > 运营方案想破脑袋，连续爆肝一星期，被老板驳回只需5分钟。不就是个运营方案吗，为什么这么难啊？！运营思维的转变，不是一朝一夕的我是小雅，工作2年，在leader的带...
  ## [如何科学地调研小众人群？](http://www.woshipm.com/user-research/3120389.html)
  > 如何让一些小众用户、小众群体为自己所用呢？怎么去研究这类群体、以及怎么去收集他们的信息呢？互联网时代的“长尾理论”，让我们重新认识了小众用户、小众产品、亚文...
  ## [我付费买的裂变干货，竟然是……](http://www.woshipm.com/operate/3117540.html)
@@ -189,18 +213,6 @@ TikTok&#33268;&#20449;&#32654;&#22269;&#22269;&#20250;&#65306;&#20877;&#27425;&#
  > 作为一名京东产品狗，每天日常工作是什么样的？我一直在问“产品经理，还是我曾经的梦想吗？”“产品经理是距离CEO最近的职位”这句话曾经是激励我一心追求做产品的源动...
  ## [一道腾讯产品面试题：在场景中思考问题](http://www.woshipm.com/pmd/3113158.html)
  > 有些面试者，因为急于表现自己的能力反而没有抓住重点，最后表现平平。笔者借一道面试题，强调了在场景中思考，抓流程细节的观点。最近面试了一些产品经理，给John的...
- ## [全方面解读：社区类产品设计如何迭代？](http://www.woshipm.com/pd/3117472.html)
- > 社区产品作为一个复杂的产品形态，要解读它必定是个复杂的事情，那么本文我会用最通俗易懂的语言来和大家解读一下社区产品和部分功能思路，也欢迎各位大大们一起指正探...
- ## [激战下沉市场：看不见的厮杀与肉搏](http://www.woshipm.com/it/3117872.html)
- > 下沉市场存在互联网基础薄弱、用户消费挑剔等各种难题。然而，面临流量红利消失的互联网大厂，还是认准了这片待开发的新兴市场。在过去一年中，密集调动资源攻克下沉市...
- ## [线上课程 | AI入侵各行各业，你还在用传统方法做互联网产品吗？](http://www.woshipm.com/active/3103800.html)
- > 为什么说AI时代已经到来？刚刚过去的双11，天猫的订单峰值达到54.4万笔/秒。54.4万笔订单会产生多少数据？其数据量相当于40960部电影。如果你每天看10部电影的话，可...
- ## [如何优化产品体验？](http://www.woshipm.com/pd/3101619.html)
- > 本文围绕产品体验为主题，分析了如何优化的要点，并用股票产品做了例子，方便大家理解。产品目标在前接到需求后，不要急于去做，我们在前期，应明确一个目标，基于产...
- ## [两年后台产品经理工作，我把这些讲给你听（中）](http://www.woshipm.com/pd/3110051.html)
- > 2017年入职，2019离职，2年社交产品后台的工作，让我对后台产品有了很多思考与总结；汇总成这3万字，分上中下三篇发布，此为中篇。希望能对大家有所帮助。接上篇，继...
- ## [产品经理周报第 92 期｜曹操顺风车全国上线；知乎百科启动公共编辑计划](http://www.woshipm.com/it/3117716.html)
- > 早上好呀，今天又是这一周的最后一天啦这周大家是不是在反复收包裹中度过的呢~尽管双十一已经过去了，但是不要着急，双十二马上就要来了到了年底，还想要留点钱钱的...
  ## [数据视角：“她时代”来临游戏江湖巾帼不让须眉](http://www.chanpin100.com/article/110121)
  > 在网络上曾经流行一句话，“购物赚女人的钱，游戏赚男人的钱”。而随着游戏行业的发展，越来越多的女性也成为游戏的“铁粉”。自2018年初“旅行青蛙”和“恋与制作人”打开“潘多拉的盒子”以来，加之“她经济”的蓬勃发展，“女性向游戏”正逐渐升温......
  ## [为什么数据指标在涨，业务却停滞不前](http://www.chanpin100.com/article/110120)
