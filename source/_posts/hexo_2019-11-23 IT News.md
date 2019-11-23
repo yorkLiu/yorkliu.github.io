@@ -1,68 +1,54 @@
 ---
 title: 2019-11-23 IT News
 copyright: true
-date: 2019-11-23 08:00:58
+date: 2019-11-23 09:03:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [CSDN创始人蒋涛：开发者是泛终端生态的第一推动力](http://mp.weixin.qq.com/s?src=11&timestamp=1574467202&ver=1991&signature=ejodIgBVKtcCKZ47TfWyquzDKN9VgGIz*ntfK*SPYMAlgmQEeCWBHIjbOaT6I9WunbQ4Y4wLDfuz149quitaUjnNr3449fvM88Il5tK50Ulrvai3fM2R0wFo4iZt9oyC&new=1)
+ ## [CSDN创始人蒋涛：开发者是泛终端生态的第一推动力](http://mp.weixin.qq.com/s?src=11&timestamp=1574470801&ver=1991&signature=ejodIgBVKtcCKZ47TfWyquzDKN9VgGIz*ntfK*SPYMDsUGTTBVANpqI*p8JynwKczCivwAnv2k7vsjuveLfxXnL6lij5NRh9u*FARm*QgIZJ61MctskFSmihoTnYoZwJ&new=1)
  > 演讲者 | 蒋涛整理 | 胡巍巍，责编 | 唐小引出品 | CSDN（ID：CSDNnews）1842年，英国诗人拜伦的女儿阿达·洛芙莱斯（Ada Lovelace），编写出历史上首款电脑程序，并于1843年公布世界上第一套算法。阿达·洛芙
- ## [嘉楠科技纳斯达克上市丨WeWork裁员2400人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1574467202&ver=1991&signature=suyZAzUxpoIMGoL1BiXY-hAEKr4fF2AJLgVbtL8yT1meWQPJMLcwmau11*PUjvZOHZvfl4cPliONkpB-Hb1AV00Mrz0AHcBCZyweKGjKEwNUznC8954iug9ij-nhxyO3&new=1)
- > 7月11日周四【Do说】编辑 | 赵艾虎嘉楠科技纳斯达克上市：开盘报12.6美元 较发行价涨40%美国东部时间11月21日，嘉楠科技(以下简称“嘉楠”)在纳斯达克挂牌上市，股票代码“CAN”，开盘价报12.60美元，较发行价9...
- ## [首届世界显示产业大会在合肥召开(附视频新闻)](http://mp.weixin.qq.com/s?src=11&timestamp=1574467202&ver=1991&signature=fjN8QlWmE-VEqHl9npx9nHPFQWnXSeKv3ehdYbU*IF8QmIlUp*tvy-vqdUwk5uhrUgXVw7BZBlJ1wS-*8AsXnogsWYeIP2ytwgzQZV0QBrN6ec4y5PUSeJ7bmNr3SX5b&new=1)
- > 作为工业和信息化部、中国国际贸易促进委员会、安徽省人民政府联合主办的第十三届中国（合肥）国际家用电器暨消费电子博览会的重要板块，首届世界显示产业大会于11月22日在合肥开幕。本次大会的主题是“显示美好...
- ## [融合·创新|英特尔智能机器人产学研合作研讨会启动](http://mp.weixin.qq.com/s?src=11&timestamp=1574467202&ver=1991&signature=dve6vRHEqqFYDSqbcw8Vsq1aXsm3O3egupUNCC09UKDSomKuUqwhY7iXKm*-jIK8jI6ywjTmkkWBCZgEYIuhDYUl0wO*jxCiDBblJSlsNcb4s4j3CYB4KJoURiHXpcFd&new=1)
+ ## [融合·创新|英特尔智能机器人产学研合作研讨会启动](http://mp.weixin.qq.com/s?src=11&timestamp=1574470801&ver=1991&signature=dve6vRHEqqFYDSqbcw8Vsq1aXsm3O3egupUNCC09UKDsUcu6PI7haASznRUh*ZBTzbRAUs7aBoJHAo9a88KJbc40lioz1vEPV*nW277LdHfMqnSxV7aRj5ksDjj43pYj&new=1)
  > 自2015年机器人创新生态持续发展，坚持以技术创新、市场加速和专业化服务为理念，目前已签约300+家机器人公司，汇聚1000+家核心供应商，连接20000+位线上活跃开发者；2019年生态再拓创新疆界，推动产学研融合，...
- ## [太突然!北京突然宣布!整个微信都在刷屏!!](http://mp.weixin.qq.com/s?src=11&timestamp=1574467202&ver=1991&signature=xhdecuWVRdDhbwN5UjYurwFolxuvzfpVcwBOVXOiEC*yd9k5saQhmr6mk8c*Bc022zj7n03wOe0eeWcTDHZIbUGHPtbY5rxqHONv1mXB0b2oQ059pcYe6AmhMSbwS*9B&new=1)
+ ## [首届世界显示产业大会在合肥召开(附视频新闻)](http://mp.weixin.qq.com/s?src=11&timestamp=1574470801&ver=1991&signature=fjN8QlWmE-VEqHl9npx9nHPFQWnXSeKv3ehdYbU*IF-X05cl3KJKp1opQGtIvF43AHZFacnsPDizfNWjIpCgiUkl5NOTEN6BijLXcvRF7syOb0HPt14Cs1*jU01YC7vE&new=1)
+ > 作为工业和信息化部、中国国际贸易促进委员会、安徽省人民政府联合主办的第十三届中国（合肥）国际家用电器暨消费电子博览会的重要板块，首届世界显示产业大会于11月22日在合肥开幕。本次大会的主题是“显示美好...
+ ## [嘉楠科技纳斯达克上市丨WeWork裁员2400人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1574470801&ver=1991&signature=suyZAzUxpoIMGoL1BiXY-hAEKr4fF2AJLgVbtL8yT1mR5-tQWIZXnYTixrkRoXwdPaGlxxyGXawMnRiYOqFUcYbaZI8nZuQRtt-irXnCrZJ5jPgMxNKY7QNQXMo2Kiak&new=1)
+ > 7月11日周四【Do说】编辑 | 赵艾虎嘉楠科技纳斯达克上市：开盘报12.6美元 较发行价涨40%美国东部时间11月21日，嘉楠科技(以下简称“嘉楠”)在纳斯达克挂牌上市，股票代码“CAN”，开盘价报12.60美元，较发行价9...
+ ## [太突然!北京突然宣布!整个微信都在刷屏!!](http://mp.weixin.qq.com/s?src=11&timestamp=1574470801&ver=1991&signature=xhdecuWVRdDhbwN5UjYurwFolxuvzfpVcwBOVXOiEC-caH96i3ul7VimOQbZS7LTbpELTaA8-52G*DxenkXJScEQPhDUqa0g1Z96VOZKzotH8fV0tbN3UFUBZNlMeDTe&new=1)
  > 来源：互联网热点一这是激动人心的一刻，刚刚北京传来大消息！北京时间2019年11月21日，将成为中国科技发展史上一个具有里程碑意义的时刻，因为就在这一天，在中国首都北京，全球第一届5G大会正式召开！这场由北...
 # IT 技术 
- ## [爬了7000+条内衣信息，只为探究妹纸们的偏好！](http://bigdata.51cto.com/art/201911/606480.htm)
- > 爬了7000+条内衣信息，只为探究妹纸们的偏好！
- ## [面向AI开发公司的几大机器学习框架（2020年版）](http://ai.51cto.com/art/201911/606458.htm)
- > 面向AI开发公司的几大机器学习框架（2020年版）
- ## [程序设计的5个底层逻辑，决定你能走多快](http://developer.51cto.com/art/201911/606464.htm)
- > 程序设计的5个底层逻辑，决定你能走多快
- ## [虚拟女友亦能摸！新研究登上Nature，头号玩家场景实现](http://news.51cto.com/art/201911/606470.htm)
- > 虚拟女友亦能摸！新研究登上Nature，头号玩家场景实现
- ## [软件开发最终会使自己过时吗](http://developer.51cto.com/art/201911/606457.htm)
- > 软件开发最终会使自己过时吗
- ## [4个低效开发人员必有的坏习惯，你中枪了吗？](http://news.51cto.com/art/201911/606472.htm)
- > 4个低效开发人员必有的坏习惯，你中枪了吗？
- ## [51CTO全球CTO领导力峰会首发《2019年CTO发展报告》](http://news.51cto.com/art/201911/606409.htm)
- > 51CTO全球CTO领导力峰会首发《2019年CTO发展报告》
- ## [监控系统哪家强？EMonitor与CAT大比拼！](http://netsecurity.51cto.com/art/201911/606386.htm)
- > 监控系统哪家强？EMonitor与CAT大比拼！
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
- > 有哪些让程序员受益终生的建议
+ ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
+ > 对计算机专业来说学历真的重要吗？
  ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [5G 正式商用，开启互联网的下半场？](https://blog.csdn.net/csdnnews/article/details/102852821)
+ > 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [XML - 读懂&简单使用](https://blog.csdn.net/qq_41922608/article/details/100972477)
+ > XML - 读懂&amp;简单使用
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
- > 
- ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
- > 
- ## [5G 正式商用，开启互联网的下半场？](https://blog.csdn.net/csdnnews/article/details/102852821)
  > 
  ## [Java程序员必备：异常的十个关键知识点](https://blog.csdn.net/weiwenhou/article/details/103170223)
  > 
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
  > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
- > 大学四年，分享看过的优质书籍
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ ## [大学四年，分享看过的优质书籍](https://blog.csdn.net/qq_36903042/article/details/102770331)
+ > 大学四年，分享看过的优质书籍
+ ## [Linux下vim的安装及配置](https://blog.csdn.net/lzyws739307453/article/details/102662825)
+ > Linux下vim的安装及配置
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [一文搞懂什么是TCP/IP协议](https://blog.csdn.net/petterp/article/details/102779131)
- > 一文搞懂什么是TCP/IP协议
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [百度举办区块链论坛，携手多伙伴加速区块链产业落地](https://blog.csdn.net/csdnnews/article/details/103210136)
+ > 中国已明确要把区块链作为核心技术自主创新的重要突破口。10月25日，新华社、人民日报等多家集体发布《加快推动区块链技术和产业创新发展》报道，提出加大投入力度，着力攻克一批关键核心技术，加快推动区块链技术和产业创新发展。11月21日，百度智能云携手麦思博，特邀浦发银行、Intel、宇信科技、火币...
  ## [CSDN创始人蒋涛：开发者是泛终端生态的第一推动力](https://blog.csdn.net/csdnnews/article/details/103209863)
  > 演讲者 | 蒋涛整理 | 胡巍巍，责编 | 唐小引出品 | CSDN（ID：CSDNnews）1842年，英国诗人拜伦的女儿阿达·洛芙莱斯（Ada Lovelace），编...
  ## [小米新生态总监董红光：致力打造智能服务开放平台](https://blog.csdn.net/csdnnews/article/details/103209869)
@@ -78,37 +64,39 @@ categories: IT NEWS
  ## [程序员是如何处理密码的？](https://blog.csdn.net/csdnnews/article/details/103209865)
  > 数据大爆炸时代，信息泄露事件屡见不鲜。作为程序员，从自身做起，有什么加固信息保护的方法吗？事实上，复杂且好记的密码就是必备手段之一。作者|Nathilia Pierce译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：如今，密码仍然是主要的身份验证方式——以某种.
 # 人工智能 
- ## [今天，我28岁了](https://blog.csdn.net/weixin_44135121/article/details/103135864)
- > 今天，我28岁了
- ## [悲痛！又一个华为外包程序员加班猝死，谁要为 996 买单？](https://blog.csdn.net/DevolperFront/article/details/103154488)
- > 悲痛！又一个华为外包程序员加班猝死，谁要为 996 买单？
- ## [《程序员必备的开发常识（精品）》](https://blog.csdn.net/qq_44894205/article/details/103181343)
- > 《程序员必备的开发常识（精品）》
- ## [eclipse安装教程配置，程序员教你快速eclipse安装教程](https://blog.csdn.net/aa541505/article/details/103188929)
- > eclipse安装教程配置，程序员教你快速eclipse安装教程
- ## [毕业两年的收获](https://blog.csdn.net/gaowei15750194853/article/details/103166510)
- > 毕业两年的收获
- ## [程序员兼职可以从什么平台接私活？](https://blog.csdn.net/wo541075754/article/details/103119342)
- > 程序员兼职可以从什么平台接私活？
- ## [业余时间研究了下微信小程序版的街机游戏模拟器，8090后的童年回忆啊](https://blog.csdn.net/shinenet/article/details/103137610)
- > 业余时间研究了下微信小程序版的街机游戏模拟器，8090后的童年回忆啊
- ## [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://blog.csdn.net/ch834301/article/details/103055389)
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
- > YouTube排名第一的励志英文演讲《Dream(梦想)》
- ## [年轻时应养成的好习惯](https://blog.csdn.net/ccnu027cs/article/details/103156588)
- > 年轻时应养成的好习惯
- ## [自考感悟](https://blog.csdn.net/qizhi666/article/details/103169300)
- > 自考感悟
- ## [一个年轻程序员的思索，解决学习速度慢的问题，技术和知识的区别，人生选择方向的问题](https://blog.csdn.net/qq_40666620/article/details/103157273)
- > 一个年轻程序员的思索，解决学习速度慢的问题，技术和知识的区别，人生选择方向的问题
- ## [自考总结](https://blog.csdn.net/zjx828/article/details/103171020)
- > 自考总结
- ## [提前送给双十一单身猿们的表白神器](https://blog.csdn.net/weixin_44560813/article/details/102956248)
- > 提前送给双十一单身猿们的表白神器
- ## [2019下半年自考总结](https://blog.csdn.net/aaaPostcard/article/details/103155352)
- > 2019下半年自考总结
+ ## [《吊打面试官》系列-秒杀系统设计](https://blog.csdn.net/qq_35190492/article/details/103105780)
+ > 
+ ## [歌谣致学习编程的你们](https://blog.csdn.net/weixin_43392489/article/details/103166184)
+ > 歌谣致学习编程的你们
+ ## [10亿数据秒级展示，FineBI5.0的大数据支撑有个“幕后BOSS”！](https://blog.csdn.net/hualalalalali/article/details/103185515)
+ > 10亿数据秒级展示，FineBI5.0的大数据支撑有个“幕后BOSS”！
+ ## [Hive基本概念](https://blog.csdn.net/L00918/article/details/103156638)
+ > Hive基本概念
+ ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
+ > 
+ ## [日均350000亿接入量，腾讯TubeMQ性能超过Kafka](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103154032)
+ > 
+ ## [SpringMVC的执行流程，详细](https://blog.csdn.net/weixin_44362137/article/details/103190909)
+ > SpringMVC的执行流程，详细
+ ## [MySQL之——CentOS 7.6 下MySQL8.0.16编译安装（升级gcc+升级cmake+编译安装MySQL 8.x）](https://blog.csdn.net/l1028386804/article/details/103175168)
+ > MySQL之——CentOS 7.6 下MySQL8.0.16编译安装（升级gcc+升级cmake+编译安装MySQL 8.x）
+ ## [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
+ > 史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
+ ## [还在收集资料？我这里有个github汇总](https://blog.csdn.net/lycyingO/article/details/102693626)
+ > 还在收集资料？我这里有个github汇总
+ ## [Hive>Hive基本介绍 和 Hive的数据存储](https://blog.csdn.net/qq_44509920/article/details/103178003)
+ > Hive&gt;Hive基本介绍 和 Hive的数据存储
+ ## [SpringBoot整合Dubbo](https://blog.csdn.net/qq_45193833/article/details/103178280)
+ > SpringBoot整合Dubbo
+ ## [hive基本概念](https://blog.csdn.net/youyigebug/article/details/103178905)
+ > hive基本概念
+ ## [学会了这些技术，你离BAT大厂不远了](https://blog.csdn.net/z694644032/article/details/100084287)
+ > 学会了这些技术，你离BAT大厂不远了
 # PM 
+ ## [领导力：产品经理的软实力](http://www.woshipm.com/pmd/3116780.html)
+ > 领导力和管理更多的是内功的体现，而很多理论知识和方法是功法，不一定非要按照教科书去做，很多时候你需要一套自己的功法，你只要将自己的团队带领走向成功，那么你就...
  ## [未来10年，B端产品如何发展？](http://www.chanpin100.com/article/110122)
  > 过去的5-10年是消费升级，实现了消费场景的数字化和互联化，那么未来十年，B端产品如何发展？
  ## [数据视角：“她时代”来临游戏江湖巾帼不让须眉](http://www.chanpin100.com/article/110121)
