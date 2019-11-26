@@ -1,103 +1,95 @@
 ---
 title: 2019-11-26 IT News
 copyright: true
-date: 2019-11-26 08:00:49
+date: 2019-11-26 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [重磅!2019混合云影响力TOP榜单出炉：中国电信行业绝对领跑!](http://mp.weixin.qq.com/s?src=11&timestamp=1574726404&ver=1997&signature=cmu0W5xxLYD-VQXl1Vdxw6mTrVkeOri3DdE5M5HAbze7sF6ZrnLB*EvGuPRMUEVoC9yNLAIe0LNchOs2eGUqoyHBEZE7oDLMQj7OUOb19rZXA59G6BBqAUf7ouBJdNmS&new=1)
- > （榜单来源 ：互联网周刊 作者 南溪）天翼混合云为您提供两全其美的解决方案面向国内政企以及跨国企业，帮助企业用户能够快速、安全、平滑地将自身固有的IT环境延升至天翼云混合云的模式，并能够统一、高效的进...
- ## [华为电脑终于又能搭载正版 Windows 系统了!](http://mp.weixin.qq.com/s?src=11&timestamp=1574726404&ver=1997&signature=PcdVYn8mWSfJ4sAiK7ZUS6-x1iL1FVKyDl7u9edBj2UTUxpE5H9XIyHBdEUYbDxdPH5p0DiWU4dOQWz7VQKgngqeOduUDtbBsnquP*XTLWKjKo8BJKyVipiYy6vsOApX&new=1)
+ ## [华为电脑终于又能搭载正版 Windows 系统了!](http://mp.weixin.qq.com/s?src=11&timestamp=1574730003&ver=1997&signature=PcdVYn8mWSfJ4sAiK7ZUS6-x1iL1FVKyDl7u9edBj2VtfUykAjY1-YH7NFlqb4oxJ8F4*c78fvbQCzaVgqV61HVy*hRJ9wLhTzZCJk3Nlo4OukGbOZnIIfTlyISDwKb2&new=1)
  > 整理 | 刘静出品 | CSDN（ID：CSDNnews）微软已经获得向华为出口软件的许可证我们是否还停留在华为被美国列入“实体管制名单”的事件中？然而就在2019年11月21日，据路透社报道，美国科技行业的“龙头老大”微软...
- ## [GES2019大会揭秘：多元化视角聚焦未来教育](http://mp.weixin.qq.com/s?src=11&timestamp=1574726404&ver=1997&signature=s-6acu7xRP8hVQ2mF0OCS1tR9b5GLmBDUj7TbvmukYiYvLpF7n2*pVvY1Pm8U1xSSb06H0zSYmOOpJPTmmnU5p*fHlVBHawOd4yeQKZ5rDo=&new=1)
+ ## [重磅!2019混合云影响力TOP榜单出炉：中国电信行业绝对领跑!](http://mp.weixin.qq.com/s?src=11&timestamp=1574730003&ver=1997&signature=cmu0W5xxLYD-VQXl1Vdxw6mTrVkeOri3DdE5M5HAbzf5aqHUvWbBht25xnp49syXUX7TvWpVqPhknQ8E6eafO3ufsHbj0sHjKKkhXCXux3tF6wzMafHLsxnuUU7sMYrz&new=1)
+ > （榜单来源 ：互联网周刊 作者 南溪）天翼混合云为您提供两全其美的解决方案面向国内政企以及跨国企业，帮助企业用户能够快速、安全、平滑地将自身固有的IT环境延升至天翼云混合云的模式，并能够统一、高效的进...
+ ## [GES2019大会揭秘：多元化视角聚焦未来教育](http://mp.weixin.qq.com/s?src=11&timestamp=1574730003&ver=1997&signature=s-6acu7xRP8hVQ2mF0OCS1tR9b5GLmBDUj7TbvmukYh7aUs0PGZ4Sl3sBW9XY9gDlrBnJNeEhUI4-s*sFdZbp3VkouRwd6w0Lt2BembuF1U=&new=1)
  > 经济观察网 记者 李静 AI能赋予教育怎样的效果？11月25日，出现在“GES2019未来教育大会”上的好未来教育集团联合创始人兼总裁白云峰用了——“Amazing！”来形容。白云峰分别以发生在15年前、10年前和3年前的三...
 # IT 技术 
- ## [很遗憾，没有一篇文章能讲清楚ZooKeeper](http://os.51cto.com/art/201911/606571.htm)
- > 很遗憾，没有一篇文章能讲清楚ZooKeeper
- ## [代码详解：如何用Python快速制作美观、炫酷且有深度的图表](http://developer.51cto.com/art/201911/606561.htm)
- > 代码详解：如何用Python快速制作美观、炫酷且有深度的图表
- ## [数字化时代，云智能重新定义云的未来](http://cloud.51cto.com/art/201911/606513.htm)
- > 数字化时代，云智能重新定义云的未来
- ## [Java I/O体系从原理到应用，这一篇说清楚了](http://os.51cto.com/art/201911/606549.htm)
- > Java I/O体系从原理到应用，这一篇说清楚了
- ## [工作5年，别人成了架构师，你还在基层打滚](http://news.51cto.com/art/201911/606573.htm)
- > 工作5年，别人成了架构师，你还在基层打滚
- ## [微软PowerShell 7.0的五大新变化！](http://developer.51cto.com/art/201911/606459.htm)
- > 微软PowerShell 7.0的五大新变化！
- ## [高级程序员到底长什么样子？](http://news.51cto.com/art/201911/606572.htm)
- > 高级程序员到底长什么样子？
- ## [WPS上市！创始人是身价10亿的天才程序员，雷军喊他师父！](http://news.51cto.com/art/201911/606575.htm)
- > WPS上市！创始人是身价10亿的天才程序员，雷军喊他师父！
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
- > LeetCode解题汇总目录
- ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
+ ## [红模仿的博文大全：开发技术集合（包含Qt实用技术、树莓派、三维、OpenCV、OpenGL、单片机、软硬结合等等）持续更新中...](https://blog.csdn.net/qq21497936/article/details/102478062)
  > 
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
+ > 有哪些让程序员受益终生的建议
+ ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
  > 
  ## [【Java面试】史上最全的JAVA专业术语面试100问](https://blog.csdn.net/qq_26465035/article/details/103160711)
  > 【Java面试】史上最全的JAVA专业术语面试100问
- ## [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
- > 史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ > 
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
+ ## [网络安全基础扫盲](https://blog.csdn.net/wangyaninglm/article/details/74179007)
+ > 网络安全基础扫盲
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
- > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
- ## [Python 植物大战僵尸代码实现(1):图片加载和显示切换](https://blog.csdn.net/marble_xu/article/details/100129768)
- > Python 植物大战僵尸代码实现(1):图片加载和显示切换
- ## [小白学 Python（24）：Excel 基础操作（下）](https://blog.csdn.net/meteor_93/article/details/103135021)
+ ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
  > 
+ ## [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
+ > 史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
+ ## [TCP三次握手原理](https://blog.csdn.net/magic_1024/article/details/102676075)
+ > TCP三次握手原理
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ > 
+ ## [华为电脑终于又能搭载正版 Windows 系统了！](https://blog.csdn.net/csdnnews/article/details/103249033)
+ > 整理| 刘静出品 | CSDN（ID：CSDNnews）微软已经获得向华为出口软件的许可证我们是否还停留在华为被美国列入“实体管制名单”的事件中？然而就在2019年11月21日，据路透社报道，美国科技行业的“龙头老大”微软（Microsoft）宣布，已经从美国商务部获得了美国政府颁发的向华为出口软.
  ## [收下这份说明书，原来迈进智能计算的大门如此简单](https://blog.csdn.net/csdnnews/article/details/103249034)
  > 近年来，随着云计算如火如荼的发展，上云已经成为当前企业发展的必然选择。在云计算领域里，计算是最大颗粒度的产品，所有上层的解决方案都离不开底层计算的支持。据Gartner数...
  ## [AI+大数据顶级技术盛会倒计时10天，6.6折票限时特惠！](https://blog.csdn.net/csdnnews/article/details/103249253)
  > 2019年12月5-7日，由中国计算机学会主办，CCF 大数据专家委员会承办，CSDN、中科天玑数据科技股份有限公司协办的中国大数据技术大会（BDTC 2019）将于北京...
+ ## [15 年经验专家解读 IIoT 的挑战及应对思路！](https://blog.csdn.net/csdnnews/article/details/103249030)
+ > 作者 |耿兴元责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）不久前，由美国前总统奥巴马旗下公司发行的纪录片《美国工厂》的热播让外界关注到了美国制造业的种种问题。这个纪录片讲的是中国企业家曹德旺“出海”在美国开工厂的经历故事，纪录片反映了工会、员工福利与企业利润之间的复杂纠缠，高昂的人.
  ## [Android 支持主线 Linux 内核指日可待？](https://blog.csdn.net/csdnnews/article/details/103249031)
  > 整理 | 郭芮作为当前市场上唯一能与 iOS 抗衡的移动操作系统，基于 Linux 开发的Android 系统重要性不言而喻。但是为了使其更加适应智能手机的需求，华为、三星以及谷歌自己等 OEM 厂商，乃至高通和联发科等芯片厂商，其实都在Android系统的底层方面进行了大量的修改。这也就不可避免.
+ ## [Google 是如何做 Code Review 的？| 原力计划](https://blog.csdn.net/csdnnews/article/details/103249221)
+ > 作者|帅昕 xindoo责编 | 屠敏出品 | CSDN 博客我和几个小伙伴一起翻译了Google前一段时间放出来的Google’s Engineering Practices documentation（https://github.com/google/eng-practices），翻译后的G.
+ ## [2019 年，C 还值得学习吗？](https://blog.csdn.net/csdnnews/article/details/103249222)
+ > 世界上只有少数几种语言是多功能的，而没有一个像C那样干净整洁。作者|Arctek译者 |谭开朗，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：最直接的答案是：值得。但我想你不是来找这样的答案对吗？你可能在考虑2019年该学习哪门语言？又或者你是新手，想驻足于编程这一汪洋大.
  ## [三星等厂商逐鹿折叠屏手机，价格高、技术不成熟等不容忽视](http://www.lanjingtmt.com/news/detail/45007.shtml)
  > 业内人士分析认为，在供货量少及部分用户对折叠屏手机热捧的叠加效应下，出现折叠屏手机“秒售罄”甚至被炒至数十万高价的现象，但对消费者而言，价格高昂、技术不成熟等问题依旧不容忽视。
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
- > 北京车和家java开发工程师面试题总结
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
+ ## [JMeter、JDK配置安装及使用](https://blog.csdn.net/weixin_39332529/article/details/103222115)
+ > JMeter、JDK配置安装及使用
+ ## [手把手教你vim/Gvim中自动标注作者、时间、注释等信息（2019-11-24亲测可用）](https://blog.csdn.net/qq_15062763/article/details/103223067)
+ > 手把手教你vim/Gvim中自动标注作者、时间、注释等信息（2019-11-24亲测可用）
+ ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
+ > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
+ ## [现网小工程之PXE自动装机、DNS域名解析与HTTPD服务部署](https://blog.csdn.net/QwQNightmare/article/details/103223956)
+ > 现网小工程之PXE自动装机、DNS域名解析与HTTPD服务部署
+ ## [Linux文件操作高频使用命令](https://blog.csdn.net/gexiaoyizhimei/article/details/100122368)
+ > Linux文件操作高频使用命令
+ ## [【Linux】静态库和动态库的生成与使用](https://blog.csdn.net/weixin_43939593/article/details/103223183)
+ > 【Linux】静态库和动态库的生成与使用
+ ## [Linux下发布java项目](https://blog.csdn.net/qq_35529931/article/details/103224177)
+ > Linux下发布java项目
+ ## [Java线上排错---反编译文件](https://blog.csdn.net/u012829124/article/details/103216954)
+ > Java线上排错---反编译文件
+ ## [centos7 安装jdk1.8环境](https://blog.csdn.net/ZhouXianBiao/article/details/103211320)
+ > centos7 安装jdk1.8环境
+ ## [记一次准生产问题----cpu拉满排查](https://blog.csdn.net/sltylzx/article/details/103212480)
+ > 记一次准生产问题----cpu拉满排查
+ ## [【Linux】pip is configured with locations that require TLS/SSL, however the ssl module in Python is no](https://blog.csdn.net/CSDN_fzs/article/details/103220535)
+ > 【Linux】pip is configured with locations that require TLS/SSL, however the ssl module in Python is no
+ ## [Ubuntu16.04 + TITAN XP 深度学习服务器环境搭建（驱动安装，CUNN7.6.5, CUDA9.0） （避坑篇）](https://blog.csdn.net/weixin_41055137/article/details/103211459)
+ > Ubuntu16.04 + TITAN XP 深度学习服务器环境搭建（驱动安装，CUNN7.6.5, CUDA9.0） （避坑篇）
+ ## [Redis设置开机启动（systemctl管理服务）](https://blog.csdn.net/renfeigui0/article/details/102969187)
+ > Redis设置开机启动（systemctl管理服务）
+ ## [Linux网络服务-----NFS共享存储服务](https://blog.csdn.net/qq_42761527/article/details/103226080)
+ > Linux网络服务-----NFS共享存储服务
+ ## [Linux基础：systemctl和journalctl常用命令](https://blog.csdn.net/fly910905/article/details/103223030)
+ > Linux基础：systemctl和journalctl常用命令
 # PM 
  ## [后台系统设计——角色权限](http://www.chanpin100.com/article/110136)
  > 一个完整的后台系统，必定需要一套良好的角色权限控制体系。
