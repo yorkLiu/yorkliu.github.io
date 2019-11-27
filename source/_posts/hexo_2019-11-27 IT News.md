@@ -1,52 +1,40 @@
 ---
 title: 2019-11-27 IT News
 copyright: true
-date: 2019-11-27 08:00:55
+date: 2019-11-27 09:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [独家：中国电信办公厅名称使用多年后突然改名 原因居然是这个](http://mp.weixin.qq.com/s?src=11&timestamp=1574812804&ver=1999&signature=s*JoXKxs85Sg*JvQsJGjL217YOg4frmUPU2mA4rbE87Mve9x0QADj28gWq9H*nmOVZZQQ-ve2I-IgIOjSD0wwWguMWvDoYi0Fy**CduamAP83T7AENyohLktidLwigBP&new=1)
+ ## [独家：中国电信办公厅名称使用多年后突然改名 原因居然是这个](http://mp.weixin.qq.com/s?src=11&timestamp=1574816404&ver=1999&signature=s*JoXKxs85Sg*JvQsJGjL217YOg4frmUPU2mA4rbE87Mve9x0QADj28gWq9H*nmOnQ7*JSfW1MqSM2QsvFCQz-hHj54BYBYP9ns2VE2XNW5Vvf8IgxzyHQ52TTPz87Cb&new=1)
  > 运营商财经网 康锐 /文知情人士向运营商财经网独家透露，中国电信集团核心要害部门之一的办公厅已更名为办公室，原因据称为“去机关化”。这也是中国电信成立以来这个部门第二次更换名称。集团办公厅改叫办公室...
- ## [Linux Lite发行版升级Linux Kernel 5.4正式版](http://mp.weixin.qq.com/s?src=11&timestamp=1574812804&ver=1999&signature=mgiBiOWlkdreaoAH9mrQpfm96iWfMCGV5Po5nxVlqeL1HAZYnQ2ZU9eCuN--k*NGHwvNfJEXU2MDD0GVaFGvmZsvxqwd1qzvX5pcVsz-HCn-VVaSgQ7Hg-XrLHgmGAuJ&new=1)
+ ## [Linux Lite发行版升级Linux Kernel 5.4正式版](http://mp.weixin.qq.com/s?src=11&timestamp=1574816404&ver=1999&signature=mgiBiOWlkdreaoAH9mrQpfm96iWfMCGV5Po5nxVlqeL1HAZYnQ2ZU9eCuN--k*NGL-06kHPZVsEzrDUQ-qx96rPsmdEZBUC-UT5SefTp04dAISfeaSiSnVWuF3aB5ibZ&new=1)
  > 11月24日，Linus Torvalds宣布5.4正式版之后，Linux Lite创始人Jerry Bezencon为所有尚处于支持状态的Linux Lite提供了5.4内核并分发给用户。原有Linux Lite 4.x和3.x等尚处于支
 # IT 技术 
- ## [从Spring 应用上下文获取 Bean 的常用姿势](https://blog.csdn.net/qq_35067322/article/details/102926894)
- > 
- ## [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://blog.csdn.net/ch834301/article/details/103055389)
- > 
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
- > 
- ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
- > 有哪些让程序员受益终生的建议
- ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
- > 
- ## [java学习路线导航【教学视频+博客+书籍整理】](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > java学习路线导航【教学视频+博客+书籍整理】
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
- > 
- ## [小白学 Python（24）：Excel 基础操作（下）](https://blog.csdn.net/meteor_93/article/details/103135021)
- > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
- ## [2019年一线大厂最全JVM面试100问！你能答对多少？](https://blog.csdn.net/Design407/article/details/103127198)
- > 
- ## [动画图解：十大经典排序算法动画与解析，看我就够了！（配代码完全版）](https://blog.csdn.net/kexuanxiu1163/article/details/103051357)
- > 
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
- ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
- > 
+ ## [支持百亿请求的微博广告运维技术实践](http://os.51cto.com/art/201911/606716.htm)
+ > 支持百亿请求的微博广告运维技术实践
+ ## [大型科技团队的管理 | 51CTO LeaTech峰会分享实录](http://zhuanlan.51cto.com/art/201911/606713.htm)
+ > 大型科技团队的管理 | 51CTO LeaTech峰会分享实录
+ ## [刚来的大神彻底干掉了代码中的if else...](http://developer.51cto.com/art/201911/606706.htm)
+ > 刚来的大神彻底干掉了代码中的if else...
+ ## [2020年DevOps的七大发展趋势](http://developer.51cto.com/art/201911/606658.htm)
+ > 2020年DevOps的七大发展趋势
+ ## [一日千星的「机器学习系统设计指南」，这个英伟达小姐姐的项目火了](http://news.51cto.com/art/201911/606739.htm)
+ > 一日千星的「机器学习系统设计指南」，这个英伟达小姐姐的项目火了
+ ## [什么技能产品经理不会提，但技术人必须懂？](http://zhuanlan.51cto.com/art/201911/606668.htm)
+ > 什么技能产品经理不会提，但技术人必须懂？
+ ## [使用GitHub Actions将代码部署到Azure！](http://os.51cto.com/art/201911/606657.htm)
+ > 使用GitHub Actions将代码部署到Azure！
+ ## [热点 | 互联网裁员的“正确姿势”](http://news.51cto.com/art/201911/606682.htm)
+ > 热点 | 互联网裁员的“正确姿势”
  ## [华为荣耀首款双模 5G 手机来了！](https://blog.csdn.net/csdnnews/article/details/103268209)
  > 作者 | 唐小引发自北工大文中所有图片均为作者拍摄出品 | CSDN（ID：CSDNnews）整个智能手机市场都在等待 5G。所有智能手机厂商都在抢夺 5G。在价格方面，...
  ## [百度大脑语音能力引擎论坛定档 11.28，邀你一同解码 AI 语音的奥秘](https://blog.csdn.net/csdnnews/article/details/103268214)
  > 生活工作中，我们总是和各种声音打交道，而声音也成为人们传情达意的重要媒介之一。你有想过，机器也能听懂我们的声音，甚至与我们交谈吗？其实这些正在发生：打开手机语音搜索查天气...
  ## [全球 42 亿 IPv4 地址宣告耗尽！](https://blog.csdn.net/csdnnews/article/details/103268216)
  > 整理 | 郭芮IPv4 是互联网的核心，也是使用最广泛的网际协议版本。长期以来，全球 IPv4 地址耗尽令人担忧，今天这一时刻终于来临——负责英国、欧洲、中东和部分中亚地区互联网资源分配的欧洲网络协调中心（RIPE NCC）宣布，其最后的 IPv4 地址空间储备池在 11 月 25 日 UTC +.
+ ## [倪光南：中国 5G 有望成为世界第一](https://blog.csdn.net/csdnnews/article/details/103268210)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）在古代，80岁叫耄耋之年，也叫杖朝之年，意思是年过八十，就可以拄着拐杖上朝。生于1939年的倪光南，今年刚好80岁，精力却充沛得好像四十岁。为给安徽卫视录节目，他拷给工作人员10G素材、一本书、以及装满剪报和文件的公文包。节目中有一个演讲.
  ## [我构建应用的这十年......](https://blog.csdn.net/csdnnews/article/details/103268213)
  > “经过怀疑、黑暗、光明，最终让我柳暗花明又一村。”作者| Lukáš Petr，iOS应用开发译者 | 弯月，责编 | maozz出品 | CSDN（ID：CSDNnews）以下为译文：10年前，2009年11月9日，我买了第一台MacBook Pro，并开始了构建应用之旅。虽然当时的我什么都不懂.
  ## [杭州趣链张帅：区块链应用落地，融合产业高速发展](https://blog.csdn.net/csdnnews/article/details/103253726)
@@ -59,38 +47,46 @@ categories: IT NEWS
  > 作者 | 晶少责编 | 阿秃出品 | CSDN云计算（ID：CSDNcloud）就在一年一度震撼人心的双11前夕，有消息称前段时间火爆到瞬间刷屏的OceanBase已经完...
  ## [Python2 倒计时，还不快来掌握 Python3 酷炫的新特性？ | 原力计划](https://blog.csdn.net/csdnnews/article/details/103253599)
  > 作者| 云爬虫技术研究笔记责编 |郭芮出品 | CSDN 博客Python3.8已经发布近一个月了，距离Python3.0第一个版本发布也将超过10年了。相信很多人还...
+ ## [暴风影音官网宕机数日，辉煌不再的暴风已千疮百孔](http://www.lanjingtmt.com/news/detail/45027.shtml)
+ > 最近半年，暴风集团一直风波不断，继实控人冯鑫被批捕、公司高管全部离职且面临退市风险后，近日又有网友反应，暴风旗下的王牌产品暴风影音无法正常使用，更为严峻的是，该部门还存在人员流失严
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
- > 北京车和家java开发工程师面试题总结
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
+ ## [MySQL 学习笔记（一）](https://blog.csdn.net/qq_44483394/article/details/96489065)
+ > MySQL 学习笔记（一）
+ ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
+ > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
+ ## [C链接SQLServer数据库通用类库](https://blog.csdn.net/u014780302/article/details/100139836)
+ > C链接SQLServer数据库通用类库
+ ## [mybatis 批量插入、批量修改多个字段、批量更新状态-Mybatis](https://blog.csdn.net/han12398766/article/details/85240815)
+ > mybatis 批量插入、批量修改多个字段、批量更新状态-Mybatis
+ ## [MySQL：Explain详解](https://blog.csdn.net/weixin_38569499/article/details/93141842)
+ > MySQL：Explain详解
+ ## [解决Win10下Mysql 的Access denied for user'root'@'localhost' (using password: NO)问题](https://blog.csdn.net/fores_t/article/details/92085383)
+ > 解决Win10下Mysql 的Access denied for user&x27;root&x27;@&x27;localhost&x27; (using password: NO)问题
+ ## [MySQL中添加或插入语句(Insert)的几种使用方式](https://blog.csdn.net/qq_40194399/article/details/94554191)
+ > MySQL中添加或插入语句(Insert)的几种使用方式
+ ## [CentOS7 安装 MariaDB 10.2.4](https://blog.csdn.net/hongzhen91/article/details/94380484)
+ > CentOS7 安装 MariaDB 10.2.4
+ ## [MySQL自增主键详解](https://blog.csdn.net/qq_40378034/article/details/90736544)
+ > MySQL自增主键详解
+ ## [MySQL实现for循环逐个遍历](https://blog.csdn.net/Bulter1996/article/details/91911136)
+ > MySQL实现for循环逐个遍历
+ ## [springboot 连接MySQL的时候报错The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrec](https://blog.csdn.net/m0_37822490/article/details/100940070)
+ > springboot 连接MySQL的时候报错The server time zone value &x27;ÖÐ¹ú±ê×¼Ê±¼ä&x27; is unrec
+ ## [SpringBoot2.1.0 + Sharding-JDBC4.0.0实现数据分片Demo](https://blog.csdn.net/u011212394/article/details/101101633)
+ > SpringBoot2.1.0 + Sharding-JDBC4.0.0实现数据分片Demo
+ ## [Linux系统操作（9）：apt命令](https://blog.csdn.net/qq_41554005/article/details/100556444)
+ > Linux系统操作（9）：apt命令
+ ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
+ > oracle 获取第一条数据
+ ## [c实现简单学生信息管理系统](https://blog.csdn.net/yang_shuai_/article/details/91049611)
+ > c实现简单学生信息管理系统
 # PM 
+ ## [从10000+条吐槽，分析微信读书「故事」模块](http://www.woshipm.com/evaluating/3137765.html)
+ > 本文首先分析了万条吐槽背后的用户心理，以及招致吐槽的微信读书「故事」模块的特色与现状，并进一步分析了优化建议。背景微信读书自4.0.0版本引入「故事」模块，基...
+ ## [内容社区分析：抖音/快手/微博/B站的内容生态和商业逻辑](http://www.woshipm.com/it/3115594.html)
+ > 本文围绕抖音/快手/微博/B站的用户画像、平台生态、粉丝关系等方面，对其内容生态和商业逻辑进行了分析。今天主要是研究抖音、快手、微博、b站这4个内容社区的内容生...
+ ## [复盘：首页改版上线的经验教训](http://www.woshipm.com/pmd/3137812.html)
+ > 本文以笔者亲历的一次需求跟进经历为题，分析了其中关键环节、不当之处以及相应的改进策略。这是我第二次跟进比较大的项目，由于涉及到官网首页的改版，领导断然不会...
  ## [微博：我猜，你想要评论这条微博了](http://www.chanpin100.com/article/110151)
  > 在「关注」的信息流页面，如果你在当前微博停顿超过5s，就会弹出快捷评论的入口。
  ## [腾讯版“探探”上线，聊聊陌生人社交背后的需求](http://www.chanpin100.com/article/110150)
