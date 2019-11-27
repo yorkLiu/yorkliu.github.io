@@ -1,92 +1,170 @@
 ---
 title: 2019-11-27 IT News
 copyright: true
-date: 2019-11-27 09:01:06
+date: 2019-11-27 10:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2019年11月27日 星期三</b></summary><div class="news-list-content"><p>1.&#24494;&#20449;&#25512;&#20986;&#8220;&#33150;&#35759;QQ&#8221;&#23567;&#31243;&#24207;&#65292;&#21487;&#26597;&#30475;&#28040;&#24687;&#20294;&#19981;&#33021;&#22238;&#22797;</p>
+<p>2.&#25945;&#32946;&#37096;&#22996;&#25176;&#21271;&#20140;&#20013;&#21307;&#33647;&#22823;&#23398;&#25104;&#31435;&#20840;&#22269;&#20013;&#21307;&#33647;&#25945;&#32946;&#21457;&#23637;&#20013;&#24515;</p>
+<p>3.&#25238;&#38899;&#27491;&#24335;&#25512;&#20986;&#21019;&#20316;&#32773;&#23398;&#38498;&#65292;&#23448;&#26041;&#35838;&#31243;&#39318;&#24230;&#25581;&#31192;&#25238;&#38899;&#36816;&#33829;&#25915;&#30053;</p>
+<p>4.&#25340;&#22810;&#22810;&#19978;&#32447;&#30452;&#25773;&#8220;&#21334;&#36135;&#8221;&#23545;&#26631;&#28120;&#23453;&#30452;&#25773;&#65292;&#39318;&#22330;&#30452;&#25773;&#23558;&#20110;27&#26085;&#26202;8&#28857;&#24320;&#22987;</p>
+<p>5.&#24555;&#25163;&#23459;&#24067;200&#20159;&#27969;&#37327;&#25206;&#25345;&#38899;&#20048;&#20027;&#25773;</p>
+<p>6.&#8220;&#21335;&#21271;&#33337;&#8221;&#21512;&#20307;&#65306;&#20840;&#29699;&#26368;&#22823;&#36896;&#33337;&#38598;&#22242;&#20013;&#22269;&#33337;&#33334;&#38598;&#22242;&#26377;&#38480;&#20844;&#21496;&#25104;&#31435;</p>
+<p>7.&#30693;&#20046;&#21551;&#21160;&#8220;&#32844;&#19994;&#25925;&#20107;&#22823;&#36187;&#8221;&#65292;&#33719;&#22870;&#20316;&#21697;&#21487;&#20986;&#29256;&#25293;&#21095;</p>
+<p>8.&#38463;&#37324;&#24052;&#24052;&#26102;&#38548;7&#24180;&#37325;&#36820;&#39321;&#28207;&#19978;&#24066;&#65292;&#24066;&#20540;4&#19975;&#20159;&#28207;&#20803;&#36229;&#33150;&#35759;&#25104;&#26032;&#8220;&#28207;&#32929;&#20043;&#29579;&#8221;</p>
+<p>9.&#26234;&#33021;&#36816;&#32500;&#20135;&#21697;&#25552;&#20379;&#21830;&#12300;&#25806;&#21019;&#31185;&#25216;&#12301;&#23436;&#25104;&#20159;&#20803;&#32423;B&#36718;&#34701;&#36164;</p>
+<p>10.&#22269;&#20869;&#29289;&#32852;&#32593;&#25805;&#20316;&#31995;&#32479;&#30740;&#21457;&#21830;&#12300;&#30591;&#36187;&#24503;&#31185;&#25216;&#12301;&#23436;&#25104;&#36817;&#20159;&#20803;B&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [独家：中国电信办公厅名称使用多年后突然改名 原因居然是这个](http://mp.weixin.qq.com/s?src=11&timestamp=1574816404&ver=1999&signature=s*JoXKxs85Sg*JvQsJGjL217YOg4frmUPU2mA4rbE87Mve9x0QADj28gWq9H*nmOnQ7*JSfW1MqSM2QsvFCQz-hHj54BYBYP9ns2VE2XNW5Vvf8IgxzyHQ52TTPz87Cb&new=1)
+ ## [器件|深圳光为25G DWDM SFP28在客户系统传输80公里](http://mp.weixin.qq.com/s?src=11&timestamp=1574820004&ver=1999&signature=Wp6jWxN7J2oMFlhf5OS6S6rjDIY7*AbH7YaeRIApaveg94EwesiKxZV1ZH1VluC6S*eTLY6WK*gp3nO749tifvE0tzHco8MrWH0w-sXDUpADsFLXwa5io2877Fi4yJO4&new=1)
+ > 导读：深圳光为携手与客户一起成功调试80公里DWDM OTN系统。该系统使用光为光通信的DWDM SFP28光模块，一根光纤最多可以传输80个波长。在80公里光纤传输中，经过光纤放大器、色散补偿模块和可调衰减器等器件，最...
+ ## [未知大陆入驻Partner 产城共享空间设立福田运营中心](http://mp.weixin.qq.com/s?src=11&timestamp=1574820004&ver=1999&signature=ZrtMVxEa*yb66RiE2R8vMRH4pE1wG0QnbHHnPk0Enu26i1W49pd3Ge*SJ6bShJXDbtaJELgoGGLnO-V9*Ks9rpG4SyijsuJ0d23BXMJBc-160OwlgoVGSf*BmfY2jOsn&new=1)
+ > 2019年11月26日，未知大陆(UNLANDS)正式入驻Partner 产城共享空间(深圳市福田区天安数码城科技创业园B座3楼)，同时挂牌成立福田运营中心，将与战略合作伙伴同路创意集团共同推进3D打印技术在传统行业的应用，积...
+ ## [报告显示：中国云专业服务商份额约占全球30%](http://mp.weixin.qq.com/s?src=11&timestamp=1574820004&ver=1999&signature=KHZa0xObImIGvhDzu-AMKdEDeEvt35v5XWiv2tr6d0xaZOVZPUyH9usgjo-8qWXBT-crmDVYdfNSS5ocWVq4YLuVYcTxAia*VFmwcoCglVM=&new=1)
+ > 参考消息网11月27日报道 台媒关注到国际数据公司（IDC）近期发布的云服务报告，据该报告指出，2019年上半年，大陆云专业服务市场规模为55.8亿元（人民币，下同）。据台湾《工商时报》11月26日报道，IDC报告还预...
+ ## [独家：中国电信办公厅名称使用多年后突然改名 原因居然是这个](http://mp.weixin.qq.com/s?src=11&timestamp=1574820004&ver=1999&signature=s*JoXKxs85Sg*JvQsJGjL217YOg4frmUPU2mA4rbE86g7f2-thx6C6kUdwMfsE4IQYDYqQZuRWnZ3bD41CdIece-nYfTuiC0L3GIkKQYjLMNpgVYtOTGVMJjhsHmYsux&new=1)
  > 运营商财经网 康锐 /文知情人士向运营商财经网独家透露，中国电信集团核心要害部门之一的办公厅已更名为办公室，原因据称为“去机关化”。这也是中国电信成立以来这个部门第二次更换名称。集团办公厅改叫办公室...
- ## [Linux Lite发行版升级Linux Kernel 5.4正式版](http://mp.weixin.qq.com/s?src=11&timestamp=1574816404&ver=1999&signature=mgiBiOWlkdreaoAH9mrQpfm96iWfMCGV5Po5nxVlqeL1HAZYnQ2ZU9eCuN--k*NGL-06kHPZVsEzrDUQ-qx96rPsmdEZBUC-UT5SefTp04dAISfeaSiSnVWuF3aB5ibZ&new=1)
+ ## [Linux Lite发行版升级Linux Kernel 5.4正式版](http://mp.weixin.qq.com/s?src=11&timestamp=1574820004&ver=1999&signature=mgiBiOWlkdreaoAH9mrQpfm96iWfMCGV5Po5nxVlqeK1ON78rGWblOC8jKaSqqw*HyqFPqYjd7hX0q9T6HV7lk4JvRGMowDQfEBunmwhd3-urD4dpk3ScJOlhf1E5*-c&new=1)
  > 11月24日，Linus Torvalds宣布5.4正式版之后，Linux Lite创始人Jerry Bezencon为所有尚处于支持状态的Linux Lite提供了5.4内核并分发给用户。原有Linux Lite 4.x和3.x等尚处于支
 # IT 技术 
- ## [支持百亿请求的微博广告运维技术实践](http://os.51cto.com/art/201911/606716.htm)
- > 支持百亿请求的微博广告运维技术实践
- ## [大型科技团队的管理 | 51CTO LeaTech峰会分享实录](http://zhuanlan.51cto.com/art/201911/606713.htm)
- > 大型科技团队的管理 | 51CTO LeaTech峰会分享实录
- ## [刚来的大神彻底干掉了代码中的if else...](http://developer.51cto.com/art/201911/606706.htm)
- > 刚来的大神彻底干掉了代码中的if else...
- ## [2020年DevOps的七大发展趋势](http://developer.51cto.com/art/201911/606658.htm)
- > 2020年DevOps的七大发展趋势
- ## [一日千星的「机器学习系统设计指南」，这个英伟达小姐姐的项目火了](http://news.51cto.com/art/201911/606739.htm)
- > 一日千星的「机器学习系统设计指南」，这个英伟达小姐姐的项目火了
- ## [什么技能产品经理不会提，但技术人必须懂？](http://zhuanlan.51cto.com/art/201911/606668.htm)
- > 什么技能产品经理不会提，但技术人必须懂？
- ## [使用GitHub Actions将代码部署到Azure！](http://os.51cto.com/art/201911/606657.htm)
- > 使用GitHub Actions将代码部署到Azure！
- ## [热点 | 互联网裁员的“正确姿势”](http://news.51cto.com/art/201911/606682.htm)
- > 热点 | 互联网裁员的“正确姿势”
+ ## [Bliss OS 12进入开发阶段：可在桌面设备上安装Android 10系统](http://news.51cto.com/art/201911/606801.htm)
+ > Bliss OS是一个基于Android-x86项目的开源操作系统，能让您在任意Linux，Windows或Chromebook PC或平板电
+ ## [酷极了！5分钟用Python理解人工智能优化算法](http://developer.51cto.com/art/201911/606797.htm)
+ > 梯度下降是神经网络中流行的优化算法之一。一般来说，我们想要找到最小化误差函数的权重和偏差。梯度下降算
+ ## [如何在Windows 10上使用设备管理器错误代码检查和修复硬件问题](http://os.51cto.com/art/201911/606798.htm)
+ > 在本Win10指南中，我们将引导您完成确定计算机上安装的硬件状态以及解决和解决常见问题的步骤。
+ ## [你真的了解 API 网关吗？一文说清微服务网关和企业级应用网关之差异与融合](http://network.51cto.com/art/201911/606794.htm)
+ > 时间来到互联网时代，很多公司为了适应业务系统的灵活多变的业务需求，基于HTTP和JSON的架构风格逐渐成为企
+ ## [美国单身程序员写了一款交友App：里面就只有他自己](http://news.51cto.com/art/201911/606799.htm)
+ > 当下，交友类的 APP 层出不穷。然而，对于 32 岁的美国程序员 Aaron Smith 来说，他有一些特别想法。
+ ## [沃尔沃将区块链技术引入供应链，实现原材料来源跟踪！](http://blockchain.51cto.com/art/201911/606795.htm)
+ > 沃尔沃汽车近日宣布，将利用甲骨文提供的区块链平台追踪钴材料的来源。
+ ## [Java线程的生老病死](http://developer.51cto.com/art/201911/606793.htm)
+ > Java 中实现并发的主要手段就是多线程。线程是操作系统里的一个概念，Java 语言里的线程本质上就是操作系
+ ## [永别了，Java的“小苹果”!](http://zhuanlan.51cto.com/art/201911/606791.htm)
+ > 1995年， Java之父James Gosling和Sun公司科学办公室主任John Gage一起前往蒙特利，去参加一个TED会议，两
+ ## [JavaScript是什么？能达到什么效果？](http://developer.51cto.com/art/201911/606789.htm)
+ > 学习前端的同学都知道，前端web开发最基础的三要素：HTML、CSS、JS。其中，JS就是JavaScript的缩写。那么本
+ ## [有态度的网易（暴力裁员），难道这就是网易的“态度”？](http://news.51cto.com/art/201911/606790.htm)
+ > 我相信大家都看了这篇文章《网易裁员，让保安把身患绝症的我赶出公司，我在网易亲身经历的噩梦》，在微信、
+ ## [GitHub 上能挖矿的神仙技巧 - 如何发现优秀开源项目](https://blog.csdn.net/ch834301/article/details/103055389)
+ > 
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ > 
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ > 
+ ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
+ > 有哪些让程序员受益终生的建议
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [2019年一线大厂最全JVM面试100问！你能答对多少？](https://blog.csdn.net/Design407/article/details/103127198)
+ > 
+ ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
+ > 
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [小白学 Python（24）：Excel 基础操作（下）](https://blog.csdn.net/meteor_93/article/details/103135021)
+ > 
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
+ > 
+ ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
+ > python学习目录
+ ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
+ > 
+ ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
+ > 
  ## [华为荣耀首款双模 5G 手机来了！](https://blog.csdn.net/csdnnews/article/details/103268209)
  > 作者 | 唐小引发自北工大文中所有图片均为作者拍摄出品 | CSDN（ID：CSDNnews）整个智能手机市场都在等待 5G。所有智能手机厂商都在抢夺 5G。在价格方面，...
  ## [百度大脑语音能力引擎论坛定档 11.28，邀你一同解码 AI 语音的奥秘](https://blog.csdn.net/csdnnews/article/details/103268214)
  > 生活工作中，我们总是和各种声音打交道，而声音也成为人们传情达意的重要媒介之一。你有想过，机器也能听懂我们的声音，甚至与我们交谈吗？其实这些正在发生：打开手机语音搜索查天气...
+ ## [装机量 2 亿，这款国产物联网操作系统为何是“小而美”？](https://blog.csdn.net/csdnnews/article/details/103268215)
+ > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）随着万物互联时代的到来，物联网设备呈喷井式发展，据Strategy Analytics联网家庭设备（CHD）研究服务发布的《全球联网和物联网设备预测更新》指出，截至2018年底，全球联网设备数量达到220亿。其高级副总裁David Ker.
  ## [全球 42 亿 IPv4 地址宣告耗尽！](https://blog.csdn.net/csdnnews/article/details/103268216)
- > 整理 | 郭芮IPv4 是互联网的核心，也是使用最广泛的网际协议版本。长期以来，全球 IPv4 地址耗尽令人担忧，今天这一时刻终于来临——负责英国、欧洲、中东和部分中亚地区互联网资源分配的欧洲网络协调中心（RIPE NCC）宣布，其最后的 IPv4 地址空间储备池在 11 月 25 日 UTC +.
+ > 整理 | 郭芮IPv4 是互联网的核心，也是使用最广泛的网际协议版本。长期以来，全球 IPv4 地址耗尽令人担忧，今天这一时刻终于来临——负责英国、欧洲、中东和部分中亚地区互联网资源分配的欧洲网络协调中心（RIPE NCC）宣布，其最后的 IPv4 地址空间储备池在 11 月 25 日 U...
  ## [倪光南：中国 5G 有望成为世界第一](https://blog.csdn.net/csdnnews/article/details/103268210)
- > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）在古代，80岁叫耄耋之年，也叫杖朝之年，意思是年过八十，就可以拄着拐杖上朝。生于1939年的倪光南，今年刚好80岁，精力却充沛得好像四十岁。为给安徽卫视录节目，他拷给工作人员10G素材、一本书、以及装满剪报和文件的公文包。节目中有一个演讲.
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）在古代，80岁叫耄耋之年，也叫杖朝之年，意思是年过八十，就可以拄着拐杖上朝。生于1939年的倪光南，今年刚好80岁，精力却充沛得好像四十岁。为给安徽卫视录节目，他拷给工作人员10G素材、一本书、以及装满剪报和文件的公文包。...
+ ## [仅剩 7 天！「2019 嵌入式智能国际大会」8.3 折特惠票限时抢购！](https://blog.csdn.net/csdnnews/article/details/103268211)
+ > 8.3折特惠票仅剩7天立即抢购：https://t.csdnimg.cn/otBk还有10天，大伙期待的「2019嵌入式智能国际大会」正式开幕了！2019年12月6日-7...
+ ## [程序员是如何做到随时随地编程的？](https://blog.csdn.net/csdnnews/article/details/103268212)
+ > 好奇那些抱着电脑就可以随时随地工作的人，他们的电脑为什么看起来比我们强大那么多？本文就来告诉大家，软件工程师是如何做到能在各个地方随时工作的——下文将为小伙伴揭秘，大家可以学起来哦。作者|Tigran Bayburtsyan译者 |苏本如 ，责编 | maozz出品 | CSDN（ID：CSDNn.
  ## [我构建应用的这十年......](https://blog.csdn.net/csdnnews/article/details/103268213)
  > “经过怀疑、黑暗、光明，最终让我柳暗花明又一村。”作者| Lukáš Petr，iOS应用开发译者 | 弯月，责编 | maozz出品 | CSDN（ID：CSDNnews）以下为译文：10年前，2009年11月9日，我买了第一台MacBook Pro，并开始了构建应用之旅。虽然当时的我什么都不懂.
  ## [杭州趣链张帅：区块链应用落地，融合产业高速发展](https://blog.csdn.net/csdnnews/article/details/103253726)
  > 杭州趣链科技市场总监张帅春夏秋冬，是季节上的划分。对技术而言，也有它的春夏秋冬。当下，全球主要国家，都在加快布局区块链技术发展，我国也正在高度重视区块链技术发展。相信你一定知道了！国家层面已经给区块链定调：区块链技术的集成应用在新的技术革命和产业变革中起着重要的作用。要把区块链作为核心技...
  ## [网易发“暴力裁员”内部说明；京东负责不幸员工的孩子费用到22岁；Linux kernel 5.4发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103255047)
- > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都...
+ > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。扫描上方二维码进入 CSDN App 可以收听御姐萌妹 Style 的人工...
  ## [现实！GitHub上线围剿Python计划，已有4万人跟进，你呢？](https://blog.csdn.net/csdnnews/article/details/103253592)
  > 人红是非多，最近Python就遇到了这样的问题。与国际技术社区上一片「形势大好」对比鲜明的是，国内技术圈却一直存在对Python，「力挺」和「吃瓜」两派阵营，针锋相对，最...
  ## [TPC-C 中跑赢 Oracle 的 OceanBase，双 11 处理峰值达 6100 万次/秒！](https://blog.csdn.net/csdnnews/article/details/103253598)
- > 作者 | 晶少责编 | 阿秃出品 | CSDN云计算（ID：CSDNcloud）就在一年一度震撼人心的双11前夕，有消息称前段时间火爆到瞬间刷屏的OceanBase已经完...
+ > 作者 | 晶少责编 | 阿秃出品 | CSDN云计算（ID：CSDNcloud）就在一年一度震撼人心的双11前夕，有消息称前段时间火爆到瞬间刷屏的OceanBase已经完成了Oracle模式的研发，助力银行和金融机构原先使用Oracle的业务可以平滑迁移到OB上，据悉目前已有银行领域的...
  ## [Python2 倒计时，还不快来掌握 Python3 酷炫的新特性？ | 原力计划](https://blog.csdn.net/csdnnews/article/details/103253599)
  > 作者| 云爬虫技术研究笔记责编 |郭芮出品 | CSDN 博客Python3.8已经发布近一个月了，距离Python3.0第一个版本发布也将超过10年了。相信很多人还...
+ ## [OPPO发布ColorOS 7，5G 手机Reno3 首搭载](http://www.lanjingtmt.com/news/detail/45028.shtml)
+ > OPPO宣布即将在12月发布的双模5G 手机 OPPO Reno3 系列将是首个搭载 ColorOS 7 上市的新机系列。
  ## [暴风影音官网宕机数日，辉煌不再的暴风已千疮百孔](http://www.lanjingtmt.com/news/detail/45027.shtml)
  > 最近半年，暴风集团一直风波不断，继实控人冯鑫被批捕、公司高管全部离职且面临退市风险后，近日又有网友反应，暴风旗下的王牌产品暴风影音无法正常使用，更为严峻的是，该部门还存在人员流失严
 # 人工智能 
- ## [MySQL 学习笔记（一）](https://blog.csdn.net/qq_44483394/article/details/96489065)
- > MySQL 学习笔记（一）
- ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
- > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
- ## [C链接SQLServer数据库通用类库](https://blog.csdn.net/u014780302/article/details/100139836)
- > C链接SQLServer数据库通用类库
- ## [mybatis 批量插入、批量修改多个字段、批量更新状态-Mybatis](https://blog.csdn.net/han12398766/article/details/85240815)
- > mybatis 批量插入、批量修改多个字段、批量更新状态-Mybatis
- ## [MySQL：Explain详解](https://blog.csdn.net/weixin_38569499/article/details/93141842)
- > MySQL：Explain详解
- ## [解决Win10下Mysql 的Access denied for user'root'@'localhost' (using password: NO)问题](https://blog.csdn.net/fores_t/article/details/92085383)
- > 解决Win10下Mysql 的Access denied for user&x27;root&x27;@&x27;localhost&x27; (using password: NO)问题
- ## [MySQL中添加或插入语句(Insert)的几种使用方式](https://blog.csdn.net/qq_40194399/article/details/94554191)
- > MySQL中添加或插入语句(Insert)的几种使用方式
- ## [CentOS7 安装 MariaDB 10.2.4](https://blog.csdn.net/hongzhen91/article/details/94380484)
- > CentOS7 安装 MariaDB 10.2.4
- ## [MySQL自增主键详解](https://blog.csdn.net/qq_40378034/article/details/90736544)
- > MySQL自增主键详解
- ## [MySQL实现for循环逐个遍历](https://blog.csdn.net/Bulter1996/article/details/91911136)
- > MySQL实现for循环逐个遍历
- ## [springboot 连接MySQL的时候报错The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrec](https://blog.csdn.net/m0_37822490/article/details/100940070)
- > springboot 连接MySQL的时候报错The server time zone value &x27;ÖÐ¹ú±ê×¼Ê±¼ä&x27; is unrec
- ## [SpringBoot2.1.0 + Sharding-JDBC4.0.0实现数据分片Demo](https://blog.csdn.net/u011212394/article/details/101101633)
- > SpringBoot2.1.0 + Sharding-JDBC4.0.0实现数据分片Demo
- ## [Linux系统操作（9）：apt命令](https://blog.csdn.net/qq_41554005/article/details/100556444)
- > Linux系统操作（9）：apt命令
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [c实现简单学生信息管理系统](https://blog.csdn.net/yang_shuai_/article/details/91049611)
- > c实现简单学生信息管理系统
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [前端开发学习常用网站网址及介绍（都是免费的）](https://blog.csdn.net/qq_35713752/article/details/103036084)
+ > 前端开发学习常用网站网址及介绍（都是免费的）
+ ## [Vue公众号退出微信浏览器](https://blog.csdn.net/m0_37508531/article/details/103072573)
+ > Vue公众号退出微信浏览器
+ ## [布隆过滤器Bloom filter](https://blog.csdn.net/znping/article/details/103243278)
+ > 布隆过滤器Bloom filter
+ ## [Hyperledger Composer和Hyperledger Fabric的关系、区别及概念](https://blog.csdn.net/u013288190/article/details/103233649)
+ > Hyperledger Composer和Hyperledger Fabric的关系、区别及概念
+ ## [最佳线程数实战](https://blog.csdn.net/wenniuwuren/article/details/103241969)
+ > 最佳线程数实战
+ ## [让读写文档变得更简单 - Markdown](https://blog.csdn.net/qq_41694291/article/details/103223082)
+ > 让读写文档变得更简单 - Markdown
+ ## [windows下安装Java及配置环境变量（看这里一定可以装好）](https://blog.csdn.net/qq_43959822/article/details/103057313)
+ > windows下安装Java及配置环境变量（看这里一定可以装好）
+ ## [如何安装好cl /gcc ，运行C/C+文件](https://blog.csdn.net/Ayydead/article/details/103221511)
+ > 如何安装好cl /gcc ，运行C/C+文件
+ ## [数字货币大跌与DolphinDB学习紧迫性之间的逻辑](https://blog.csdn.net/The_Time_Runner/article/details/103222166)
+ > 数字货币大跌与DolphinDB学习紧迫性之间的逻辑
+ ## [其他 | 1. Markdown个人总结](https://blog.csdn.net/qq_45791147/article/details/102718381)
+ > 其他 | 1. Markdown个人总结
+ ## [2019年区块链发展驶入快车道 幸运岛链LKC稳步推进生态应用建设](https://blog.csdn.net/luckyskc/article/details/103224047)
+ > 2019年区块链发展驶入快车道 幸运岛链LKC稳步推进生态应用建设
+ ## [vs2008 Debugx64平台提示无法启动应用程序.exe](https://blog.csdn.net/ayl666/article/details/103236949)
+ > vs2008 Debugx64平台提示无法启动应用程序.exe
+ ## [Zero Forex - 为什么越来越多的人看好外汇？](https://blog.csdn.net/Tifa03/article/details/103233761)
+ > Zero Forex - 为什么越来越多的人看好外汇？
+ ## [Flutter SDK path 修改](https://blog.csdn.net/perfectnihil/article/details/103237454)
+ > Flutter SDK path 修改
 # PM 
- ## [从10000+条吐槽，分析微信读书「故事」模块](http://www.woshipm.com/evaluating/3137765.html)
- > 本文首先分析了万条吐槽背后的用户心理，以及招致吐槽的微信读书「故事」模块的特色与现状，并进一步分析了优化建议。背景微信读书自4.0.0版本引入「故事」模块，基...
- ## [内容社区分析：抖音/快手/微博/B站的内容生态和商业逻辑](http://www.woshipm.com/it/3115594.html)
- > 本文围绕抖音/快手/微博/B站的用户画像、平台生态、粉丝关系等方面，对其内容生态和商业逻辑进行了分析。今天主要是研究抖音、快手、微博、b站这4个内容社区的内容生...
- ## [复盘：首页改版上线的经验教训](http://www.woshipm.com/pmd/3137812.html)
- > 本文以笔者亲历的一次需求跟进经历为题，分析了其中关键环节、不当之处以及相应的改进策略。这是我第二次跟进比较大的项目，由于涉及到官网首页的改版，领导断然不会...
+ ## [走遍大江南北，我们发现下沉市场用户具有这些特征    ​](http://www.woshipm.com/it/3140050.html)
+ > 不管什么特征，下沉市场用户只是一个泛称，细究其里，下沉市场用户纷繁多样。所以，本文即从用户分层的角度跟大家解构下庞大而复杂的下沉市场。最近，我们用了三周的...
+ ## [实战分享：下沉用户的运营方法和场景](http://www.woshipm.com/operate/3137047.html)
+ > 本文对下沉用户进行了需求画像分析，并结合他们的需求特征进行了运营方法与场景的归纳与总结。01 下沉市场用户需求画像以拼多多、趣头条、今日头条极速版的崛起，下...
+ ## [交互例推：好设计看得见（2）](http://www.woshipm.com/ucd/3135110.html)
+ > 《交互例推：好设计看得见》是我在体验互联网产品过程中对一些产品设计案例进行交互推导与分析的专题集合。他山之石可以攻玉，关注这些好设计，给自己的设计思路带来启...
+ ## [互联网生活的底层逻辑：连接、赋能、破界](http://www.woshipm.com/it/2700909.html)
+ > 互联网的底层逻辑就是以一种更高效的形式来满足了我们的需要，让我们的生活和生产更加的智能和高效。底层逻辑是什么？如果给它一个释义的话，那应该是：最初的意图或...
+ ## [在线音乐，二十而立](http://www.woshipm.com/it/3135659.html)
+ > 如何依靠互联网的力量，将音乐内容、音乐生产者和音乐消费者有效整合为可持续发展的生态链，持续挖掘音乐消费场景的商业潜力，依然是中国在线音乐的考验与命题。从199...
+ ## [一招带你了解交互设计前沿理论](http://www.woshipm.com/ucd/3139844.html)
+ > 在我们日常生活中到处都充满着交互设计，有时候你在使用某个APP的时候，你觉得很好用，而有的却很难有，这是为什么呢？本文通过了两个实际案例，跟大家讲解了交互设计语...
+ ## [经验分享：我的产品入行之路](http://www.woshipm.com/pmd/3135011.html)
+ > 作者回顾了自己的产品入行经历，总结了非常有用的工作经验，与大家分享。2019年临近年底了，我坐在电脑前开始对这一年的回顾和复盘。从大三暑假开始实习到现在毕业半...
+ ## [B端产品的安全性设计](http://www.woshipm.com/pd/3137867.html)
+ > 在B端产品中，为了确保企业内部数据的安全性，我们应如何设计去满足其不同业务情况下的需求。本文将安全性需求分为三类，通过用户、职责、职位给出其对应的解决方案。...
+ ## [2020，AI算法市场能火起来吗？](http://www.woshipm.com/ai/3138429.html)
+ > 对于AI 算法市场来说，2020年，它将在探索中等待，也在等待中探索。	2019的存量只剩一个多月，各种年度总结即将蜂拥而至。回头看看这一年的AI发展，或许八个字的总...
+ ## [如何让贵的产品也卖爆？这里有9个文案方法！](http://www.woshipm.com/copy/3139871.html)
+ > 绝大多数人对于价格是敏感的，一旦觉得贵，就可能放弃购买。那我们该怎么办呢？如何让他更能接受这个产品？有兴趣有需求不等于会购买！这谁都知道。从心动到最终购买...
  ## [微博：我猜，你想要评论这条微博了](http://www.chanpin100.com/article/110151)
  > 在「关注」的信息流页面，如果你在当前微博停顿超过5s，就会弹出快捷评论的入口。
  ## [腾讯版“探探”上线，聊聊陌生人社交背后的需求](http://www.chanpin100.com/article/110150)
