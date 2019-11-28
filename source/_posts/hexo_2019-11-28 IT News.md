@@ -1,64 +1,48 @@
 ---
 title: 2019-11-28 IT News
 copyright: true
-date: 2019-11-28 08:00:54
+date: 2019-11-28 09:00:49
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [台积电/三星/英特尔的先进制程之战](http://mp.weixin.qq.com/s?src=11&timestamp=1574899204&ver=2001&signature=sKCx3S377zTHRp5EbKmtOr6iEORVCh2X4kdlkofRA7IwW3XMWh25NaNSRdAqfxnO4L-qmZlpz5Iqu4qULj-P09V9D3ltRe2-lunSnQWfCE46Fx44lx0BAOrJ2WmuQuyy&new=1)
- > 2019年11月27日，由集邦咨询（TrendForce）主办的MTS2020存储产业趋势峰会在深圳召开。在今天的活动上，来自集邦咨询多位分析师分享了对于明年DRAM及NAND Flash市场的分析和预测。此外，来自集邦咨询旗下的拓璞...
- ## [独家：揭秘甘肃移动的剧变 为何吕宗英接任总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1574899204&ver=2001&signature=xtvdJsLHOmJTkAIJJ8awGX21IFplmJzpTIWkEhNPkyYmkJU7i4liuzMdb-rDdt8rOl42VTnHugCN*DyTu4U2T12P4urAQxCKV6lcHFEhF3qFKCdoOqWBe7KpitMkickq&new=1)
- > 运营商财经网 吴碧慧 汪莹/文 近日，运营商财经网独家获悉，辽宁移动纪委书记吕宗英升任甘肃移动总经理。这也折射中国移动一些省公司今年来业绩不佳。 甘肃移动的情况不佳甘肃移动的一把手原本为彭晓川，其担任...
- ## [注意!哈尔滨使用这些号段的手机号码暂时不能办理此业务!](http://mp.weixin.qq.com/s?src=11&timestamp=1574899204&ver=2001&signature=duTRLXiqxX98cMRAqIByNmR1JBxsrVQgGG3JhK1sC51BYUiu2m8o2F0EPpx1Q*14Jk7GRXJuY7KiAVqR*P67auooagGjAFckvaajh57qbi41JxNQArSPj8FGguZuLj6s&new=1)
+ ## [注意!哈尔滨使用这些号段的手机号码暂时不能办理此业务!](http://mp.weixin.qq.com/s?src=11&timestamp=1574902804&ver=2001&signature=duTRLXiqxX98cMRAqIByNmR1JBxsrVQgGG3JhK1sC53tNOyzRcjuza2AcXNhmAstcvraqDj47hLorhRbp1-SYpAqlsO-zClSS3mXZZJBM6RRR1*XVjjbupgXQYtIEhzd&new=1)
  > 黑龙江省携号转网正式上线 3步即可看看哪些号段暂不能转27日“携号转网”服务正式上线。“携号转网” 是指在同一本地网范围内，蜂窝移动通信用户变更签约的基础电信业务经营者，而用户号码保持不变的一项服务。...
+ ## [台积电/三星/英特尔的先进制程之战](http://mp.weixin.qq.com/s?src=11&timestamp=1574902804&ver=2001&signature=sKCx3S377zTHRp5EbKmtOr6iEORVCh2X4kdlkofRA7LEQz6HRa9*evC3kvAkG*N4AmMLRRGEAiA0AWUxH0gSSdxto7foosrbx7mls3hFmMcO0QDU8C1EPdkUhUTARxgl&new=1)
+ > 2019年11月27日，由集邦咨询（TrendForce）主办的MTS2020存储产业趋势峰会在深圳召开。在今天的活动上，来自集邦咨询多位分析师分享了对于明年DRAM及NAND Flash市场的分析和预测。此外，来自集邦咨询旗下的拓璞...
+ ## [独家：揭秘甘肃移动的剧变 为何吕宗英接任总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1574902804&ver=2001&signature=xtvdJsLHOmJTkAIJJ8awGX21IFplmJzpTIWkEhNPkyYPEQ5933t0Ed*SBHnmigFxQd6WplaNZ3t4VJmCt4P29t7DVHtv3GlYPYRY*tcfUewDF6HJKhdX22EOEIe0ksWN&new=1)
+ > 运营商财经网 吴碧慧 汪莹/文 近日，运营商财经网独家获悉，辽宁移动纪委书记吕宗英升任甘肃移动总经理。这也折射中国移动一些省公司今年来业绩不佳。 甘肃移动的情况不佳甘肃移动的一把手原本为彭晓川，其担任...
 # IT 技术 
- ## [值得关注的五大SQL数据库恢复软件](http://database.51cto.com/art/201911/606842.htm)
- > 值得关注的五大SQL数据库恢复软件
- ## [看完这篇，你也能设计一个高性能的“秒杀”系统](http://news.51cto.com/art/201911/606852.htm)
- > 看完这篇，你也能设计一个高性能的“秒杀”系统
- ## [几十亿数据查询3秒返回，ES性能优化实战！](http://bigdata.51cto.com/art/201911/606800.htm)
- > 几十亿数据查询3秒返回，ES性能优化实战！
- ## [机器人武器化来临？美国警方带波士顿动力机器狗出警](http://news.51cto.com/art/201911/606826.htm)
- > 机器人武器化来临？美国警方带波士顿动力机器狗出警
- ## [Linux下查明用户属于哪个组的5种方法](http://os.51cto.com/art/201911/606659.htm)
- > Linux下查明用户属于哪个组的5种方法
- ## [盘点 | 2019年值得关注的43起技术收购](http://news.51cto.com/art/201911/606811.htm)
- > 盘点 | 2019年值得关注的43起技术收购
- ## [终于可以携号转网，三大运营商做了10年，技术难点到底在哪？](http://network.51cto.com/art/201911/606721.htm)
- > 终于可以携号转网，三大运营商做了10年，技术难点到底在哪？
- ## [安全 | 从赎金角度看勒索病毒演变](http://netsecurity.51cto.com/art/201911/606815.htm)
- > 安全 | 从赎金角度看勒索病毒演变
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [【Java面试】史上最全的JAVA专业术语面试100问](https://blog.csdn.net/qq_26465035/article/details/103160711)
+ > 
  ## [网络安全基础扫盲](https://blog.csdn.net/wangyaninglm/article/details/74179007)
  > 网络安全基础扫盲
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [Linux系统常见命令](https://blog.csdn.net/gaoshiyuba/article/details/102779726)
- > Linux系统常见命令
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
  > 有哪些让程序员受益终生的建议
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
+ > 
  ## [27 个提升开发幸福度的 VsCode 插件](https://blog.csdn.net/qq449245884/article/details/103169986)
  > 
- ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
  ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
  > 
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [数据库优化 - 实例优化](https://blog.csdn.net/jianzhang11/article/details/102739839)
- > 数据库优化 - 实例优化
- ## [Java程序员必备：异常的十个关键知识点](https://blog.csdn.net/weiwenhou/article/details/103170223)
+ ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
  > 
+ ## [讲给后台程序员看的前端系列教程(24)——浮动](https://blog.csdn.net/lfdfhl/article/details/100656773)
+ > 讲给后台程序员看的前端系列教程(24)——浮动
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
  ## [6.6折票仅剩3天 | BDTC 2019全日程公布，哪些是你感兴趣的话题？](https://blog.csdn.net/csdnnews/article/details/103286502)
  > 2019年12月5-7日，由中国计算机学会主办，CCF 大数据专家委员会承办，CSDN、中科天玑数据科技股份有限公司协办的中国大数据技术大会（BDTC 2019）将于北京...
  ## [不少人暗搓搓的准备春招了，我有一些好东东和招聘信息给你](https://blog.csdn.net/csdnnews/article/details/103286503)
@@ -75,38 +59,44 @@ categories: IT NEWS
  > 整理| 刘静出品 | CSDN（ID：CSDNnews）自2018年3月份以来，社交网络用户隐私泄露等问题一直都备受关注，当时有报道称，剑桥分析公司(Cambridge...
  ## [Java 开发者最困惑的四件事](https://blog.csdn.net/csdnnews/article/details/103272299)
  > 掌握 Java 绝非易事，因为许多概念非常晦涩，非常复杂。作者 | Himanshu Verma译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）...
+ ## [OTA巨头Q3业绩喜忧参半，途牛掉队明显或跌出一线阵营](http://www.lanjingtmt.com/news/detail/45040.shtml)
+ > 近年来，随着线上流量红利的消失以及消费品质的升级，OTA平台不断向线下发展探索，并以自己的方式拓展线下渠道，但业内人士表示，线下渠道的扩展致使平台运营成本大幅增加，导致有OTA平台
 # 人工智能 
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
- > （经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路
- ## [来自一个刚入坑不久的程序媛吐槽，别忘了点赞哦》_《](https://blog.csdn.net/weixin_39418338/article/details/103225129)
- > 来自一个刚入坑不久的程序媛吐槽，别忘了点赞哦》_《
- ## [网易患病员工被保安赶出公司，程序员该如何应对中年危机？](https://blog.csdn.net/csdnsevenn/article/details/103248445)
- > 网易患病员工被保安赶出公司，程序员该如何应对中年危机？
- ## [网易就暴力辞退员工事件道歉，网友：无法接受！](https://blog.csdn.net/weixin_45924494/article/details/103252161)
- > 网易就暴力辞退员工事件道歉，网友：无法接受！
- ## [写代码什么是最重要的？](https://blog.csdn.net/weixin_45488131/article/details/103232003)
- > 写代码什么是最重要的？
- ## [傲慢与无知，请警惕伪需求的陷阱！](https://blog.csdn.net/weixin_44198965/article/details/103195964)
- > 傲慢与无知，请警惕伪需求的陷阱！
- ## [《编译原理之美》结课了](https://blog.csdn.net/gongwx/article/details/103245144)
- > 《编译原理之美》结课了
- ## [2019小结，期待2020](https://blog.csdn.net/u012882327/article/details/103241686)
- > 2019小结，期待2020
- ## [网易暴力裁员的背后，是屠宰场](https://blog.csdn.net/u013174702/article/details/103243889)
- > 网易暴力裁员的背后，是屠宰场
- ## [《程序员必备的开发常识（精品）》](https://blog.csdn.net/qq_44894205/article/details/103181343)
- > 《程序员必备的开发常识（精品）》
- ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
- > YouTube排名第一的励志英文演讲《Dream(梦想)》
- ## [从学生到IT职场人](https://blog.csdn.net/qq_41788153/article/details/103232704)
- > 从学生到IT职场人
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
- > 有哪些让程序员受益终生的建议
- ## [C语言中sizeof和strlen的区别](https://blog.csdn.net/weixin_43831728/article/details/103255620)
- > C语言中sizeof和strlen的区别
+ ## [【真相】网易暴力裁员事件 企业暴力开除重病员工事件绝非孤例](https://blog.csdn.net/weixin_45924573/article/details/103253235)
+ > 【真相】网易暴力裁员事件 企业暴力开除重病员工事件绝非孤例
+ ## [前端开发学习常用网站网址及介绍（都是免费的）](https://blog.csdn.net/qq_35713752/article/details/103036084)
+ > 前端开发学习常用网站网址及介绍（都是免费的）
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [（OS实训&vim基础）Linux下命令行编译并运行C源码](https://blog.csdn.net/weixin_44593822/article/details/103246440)
+ > （OS实训&amp;vim基础）Linux下命令行编译并运行C源码
+ ## [什么是前端？](https://blog.csdn.net/qq_45021603/article/details/103261092)
+ > 什么是前端？
+ ## [多地下发监管文件，虚拟货币行业再去泡沫](https://blog.csdn.net/Odaily_/article/details/103248709)
+ > 多地下发监管文件，虚拟货币行业再去泡沫
+ ## [区块链（三）基于本地以太坊客户端搭建多节点私链](https://blog.csdn.net/qq_27997547/article/details/103258549)
+ > 区块链（三）基于本地以太坊客户端搭建多节点私链
+ ## [杭州趣链张帅：区块链应用落地，融合产业高速发展](https://blog.csdn.net/csdnnews/article/details/103253726)
+ > 
+ ## [【每日早报】2019/11/26](https://blog.csdn.net/Moria233/article/details/103250169)
+ > 【每日早报】2019/11/26
+ ## [GO WEB IRIS入门 安装iris](https://blog.csdn.net/Magic_Ninja/article/details/103231287)
+ > GO WEB IRIS入门 安装iris
+ ## [Zero Forex ★ 外汇交易中的交割是什么？](https://blog.csdn.net/Tifa03/article/details/103255778)
+ > Zero Forex ★ 外汇交易中的交割是什么？
+ ## [区块链分析报告](https://blog.csdn.net/Zsysu_it/article/details/103236404)
+ > 区块链分析报告
+ ## [布隆过滤器Bloom filter](https://blog.csdn.net/znping/article/details/103243278)
+ > 布隆过滤器Bloom filter
+ ## [vue.4.0 修改默认的端口号](https://blog.csdn.net/m0_38044453/article/details/103242445)
+ > vue.4.0 修改默认的端口号
+ ## [Hyperledger Composer和Hyperledger Fabric的关系、区别及概念](https://blog.csdn.net/u013288190/article/details/103233649)
+ > Hyperledger Composer和Hyperledger Fabric的关系、区别及概念
 # PM 
+ ## [淘宝省钱专区的挽回弹窗设计分析](http://www.woshipm.com/pd/3141068.html)
+ > 本文针对淘宝省钱专区的挽回弹窗进行了分析，并与拼多多的对应弹窗做了对比，总结了淘宝弹窗设计的不足之处。淘宝省钱专区：挽回弹窗设计最近逛淘宝的时候，刚进入首...
+ ## [电商风控：聊聊反骗赔对抗经验](http://www.woshipm.com/pd/3143046.html)
+ > 本文简单介绍了电商领域的反骗赔工作经验，希望能够给你带来一些帮助。前言提到电商风控有哪些风险类型，我们首先会想到的是爬虫、作弊、刷单这些。而提到骗赔，我们...
  ## [​网易“暴力”裁员背后，员工如何自保](http://www.chanpin100.com/article/110158)
  > 这次事情最大积极作用是，推进了员工对自己权益的维护。
  ## [职场压力大，人人都想再就业](http://www.chanpin100.com/article/110157)
