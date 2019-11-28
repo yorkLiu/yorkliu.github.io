@@ -1,7 +1,7 @@
 ---
 title: 2019-11-28 IT News
 copyright: true
-date: 2019-11-28 10:00:53
+date: 2019-11-28 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,31 +70,43 @@ Facebook&#23459;&#24067;&#25910;&#36141;VR&#38899;&#20048;&#28216;&#25103;&#2432
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [7点见|小米Q3收入536.6亿元；ofo退押金需额外消费；1999元AirPods Pro供不应求](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=5ozXRMNb7ITOEvf4a1mvvBWTrtOpwrVzOy6lKyI7ESfscnUOFK0J71JxKAtQjsmYPplyI6csjXqTcfIG5FO6NSIGIn2OoiAjURPntTKe55FaeJVTxI-HHjdwO*HXEeYg&new=1)
+ ## [外媒称，中国某品牌儿童手表暴露了5000多个孩子的位置](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=StYXYAFe77S8UfFwbNNGSTBReYtImOrdNCSLskbPKwEB5Ku3JTQcUUSavW8ybaahQtA9Ui3BO27pc29VKvZm3M5oPxYwe1FFLxr*tCWt9EBwQgObkn3-a*lQ-Mg-bqb5&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，近日，反病毒测试有限责任公司AV-TEST曝光了一款售价35美元的国产儿童智能手表，其中包含的漏洞能导致5000多名儿童及其父母的个人详细信息...
+ ## [突破屏幕的边界，AR/VR还能否将虚拟照进现实?](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=3SeaCARF8A2TnQjJhimR-G0LgLPg6DyvBt*T1fzHffYP3zLJY8xVhFHMz6aSZBTkUdUS8wyw74BqCNujFR6HbQRrjeaR2v1Y*vRcro2lZNr3RaQ0KEtb7Vs3ediMHzTQ&new=1)
+ > 提及AR/VR，你首先会想到什么？感官升级、技术泡沫还是那一个又一个略显笨重的头戴式仪器？ 2016年，所谓的“AR/VR元年”，资本大量注入相关产业，科技公司跃跃欲试，抢滩技术前沿。2017年，超过一半的AR/VR企业...
+ ## [瞭望|国产工业软件遭遇三不管、四困境](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=sH6r4MhLQyO7kK6xSHwLzDL9Im5BLPSUZfaF9Y2bhg35hm8Axl9-0Cb-QMzCPDY2PieWm6k5WIpunsYy413iV*SCSuW2GGG56d03s9En1InECaIB1P3edQEH3ue06mJ9&new=1)
+ > ◆ 社会各层面对工业软件的重要性缺乏足够认识：工业领域，普遍倾向“拿来主义”，直接引进国外软件，忽视自主开发高校，相关专业课程设置也普遍“重应用、轻研发”，主要讲授国外知名软件的使用操作某些主管部...
+ ## [GMTC全球大前端技术大会(深圳)2019 腾讯IMWeb团队讲师阵容公布](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=GaWPo3qv9vGpyW*cGN0Io-N1Is1w5r7qYKgmOm6Tp6EoYvNhX3xDHoWGzDnteSMlqCk86omoMPUKb0MiKePMXPyxLiY--87gHQFmO8x*S*OWN0gS8rEwjcOKVuTXK-xc&new=1)
+ > GMTC全球大前端技术大会是由极客邦科技旗下InfoQ中国主办的技术盛会，关注前端、移动、AI应用等多个技术领域，促进全球技术交流，推动国内技术升级。GMTC为期4天，包括两天的会议和两天的培训课，主要面向各行业...
+ ## [「携号转网」全国实施；小米发第三季度财报：前三季度利润超去年全年；暴风集团网页和客户端均停止服务|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=Lh9sih6f7W2Le*OKlXb53eGyxqhwuCxzzXUBCnk*4LsBfGx9i2RaedtajjOlKkJkQB33onng-FqgPfu5oeUMvOUCW8QhevuyE8REK9Jb-Rd-lPiA3p*--z0QXOwRO32h&new=1)
+ > 「携号转网」昨日起全国实施，工信部表示运营商不得干涉用户选择11 月 27 日，工业和信息化部召开携号转网启动仪式。此前，工信部要求三大运营商于 11 月 30 日前在全国范围内正式提供该服务。工信部表示，11 月...
+ ## [7点见|小米Q3收入536.6亿元；ofo退押金需额外消费；1999元AirPods Pro供不应求](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=5ozXRMNb7ITOEvf4a1mvvBWTrtOpwrVzOy6lKyI7ESdQIOAoURUYlBkZWgo3xRP3eVjWbiupU0Q7bAI6UQcjP09HQXf6yAoorRdfVoH7XC6-YwMa7gtPUQp6OFMpDvze&new=1)
  > 各位小伙伴们，早上好呀！明年5月1日起，北京开始实施垃圾分类新规。根据规定，北京市垃圾分类分为厨余垃圾、可回收物、有害垃圾、其他垃圾。个人“犯规”不听劝阻将面临最高200元罚款。北京人的“噩梦”要来了...
- ## [FTTx|Openreach在华为诺基亚之外寻求第三家FTTP供应商](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=yRPBv2yH2kN8QVdCBhLBMftg0Z2ONpT5bk*8OzwLWLTlLTFMOfWgdDRRjcQmTVmXZdniV7nH934ElBG0lIiwL*gn0poYfVXd4IXJc5Vq*8UJbkZGsKwK*u6xrIvjDyJv&new=1)
+ ## [烘焙圈子：“以码赋能链接未来”~中国软包装打码新势力!](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=Bj47gJXIsBBS7BjZjM3IACDuZMz-9-lfS7X5oNhA17*16dniMEnJinXB9du4aEIKirrINSRL24GiepuPf9hPJBc*fwNy6NjDs0Gvxa*qci6fNNpf8Uwc02Yowws7RLIo&new=1)
+ > “标识物联世界”，万物互联，物联网标识行业未来能发挥很重大的作用，因此IMU联盟所体现的价值也将会很大。物联网的世界离不开标识，而做好基于标识的生态链是非常不易的，因此联盟一定要有使命感。数字经济下...
+ ## [FTTx|Openreach在华为诺基亚之外寻求第三家FTTP供应商](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=yRPBv2yH2kN8QVdCBhLBMftg0Z2ONpT5bk*8OzwLWLQtuUpmyGz-Ekb0wtxmYnuEU-x5IxaPUTFX3mKjQm7eBF6c5XBCRcLKeRuyumYyGFUYlFt7YzTkgFFcfYBMZJ6r&new=1)
  > 导读：彭博社和路透社消息称，英国电信(BT)宽带接入网络子公司Openreach正在华为和诺基亚之外寻求第三家FTTP设备供应商，而ADTRAN和思科是最有可能的目标。  ICCSZ讯 据彭博社和路透社报道，英国电信(BT)宽带...
- ## [英特尔芯片缺货台厂将受惠?台媒观点突变——](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=S5AVWboOqnoZuWhmyiJTfG3aF6DpQSm1CN46nEAlw5gBTqVA27*vpYqyGwwkZlhtW7mHswE-GBIQr16o8xrFYZoMFf09YIuXzUxIx9l9swY=&new=1)
+ ## [英特尔芯片缺货台厂将受惠?台媒观点突变——](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=S5AVWboOqnoZuWhmyiJTfG3aF6DpQSm1CN46nEAlw5jVhO-r4Quyr2gY6NmbCyatYt*HBsK*Uc68YDJ00RD0vlRQ9nRNjJW4TG2Avtk*iOk=&new=1)
  > 参考消息网11月28日报道 美国英特尔公司电脑芯片产能吃紧，引发行业供应短缺。上周，不止一家台湾媒体认为台积电最有可能成为英特尔电脑芯片委外代工首选。但本周，台媒的风向变了。据台湾中时电子报网站11月27...
- ## [\[科技早报7点整\]ofo退押金新招 14岁少年打赏主播6万多元 阿里谢源获世界级荣誉……](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=LifTkPU5vtbSXTiH9Xz83UvBMw4PD4pvLoky1OReiSeSI4eIa01i286pwli*q3hkvjiFWmPqKiIe4l28ll6P6xXC3QvfuIpNqUpo12hm5uLu9DnUkeXFReZTmkzJ5CRz&new=1)
+ ## [\[科技早报7点整\]ofo退押金新招 14岁少年打赏主播6万多元 阿里谢源获世界级荣誉……](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=LifTkPU5vtbSXTiH9Xz83UvBMw4PD4pvLoky1OReiSdyx8xWn8OalHEeAZB0aNCCB6dGdnCkxsNn*Hd1aYy7sth2ardY0DHl6zEC96XC8K4FPR*WXcIKGHT72OHCDhn7&new=1)
  > 早上好，科技圈【一度蜜科技早报】第655期1.电子产品正在废掉农村娃，引发价值观混乱等问题调查显示，农村孩子使用电子产品时间高于城市孩子。由于缺乏管束、课外生活单调，越来越多农村孩子正沉迷于电子产品，...
- ## [注意!哈尔滨使用这些号段的手机号码暂时不能办理此业务!](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=duTRLXiqxX98cMRAqIByNmR1JBxsrVQgGG3JhK1sC53tNOyzRcjuza2AcXNhmAstYHrnSnKsMFjTcpe9UZiIZewIdlRjS1-ulTaYFZL25zSpqrHxSMM6lxntvsXEbFQr&new=1)
+ ## [注意!哈尔滨使用这些号段的手机号码暂时不能办理此业务!](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=duTRLXiqxX98cMRAqIByNmR1JBxsrVQgGG3JhK1sC53G3Ry6eASAGKrigjGMYfiMqwa4VUqGojywxDEPhp9T8VtmUi2XtFdf04M2M2cG-kkm-Pjz0uGksK-okAj61d7v&new=1)
  > 黑龙江省携号转网正式上线 3步即可看看哪些号段暂不能转27日“携号转网”服务正式上线。“携号转网” 是指在同一本地网范围内，蜂窝移动通信用户变更签约的基础电信业务经营者，而用户号码保持不变的一项服务。...
- ## [台积电/三星/英特尔的先进制程之战](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=sKCx3S377zTHRp5EbKmtOr6iEORVCh2X4kdlkofRA7LEQz6HRa9*evC3kvAkG*N4tXtv4BDGtEf-XdD*lo7FByZS3JYba9lFQjfojALwYivm7kawhMVBUf7Q25QT25Hp&new=1)
+ ## [台积电/三星/英特尔的先进制程之战](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=sKCx3S377zTHRp5EbKmtOr6iEORVCh2X4kdlkofRA7Kcaa0kSD33SokyuHlkVY-igCVfrr9*cwzc-eddjo83HhQbHxCq19mej0YEIewUhvAhF*A9pD5Ik1df8NehvEMS&new=1)
  > 2019年11月27日，由集邦咨询（TrendForce）主办的MTS2020存储产业趋势峰会在深圳召开。在今天的活动上，来自集邦咨询多位分析师分享了对于明年DRAM及NAND Flash市场的分析和预测。此外，来自集邦咨询旗下的拓璞...
- ## [独家：揭秘甘肃移动的剧变 为何吕宗英接任总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1574906405&ver=2001&signature=xtvdJsLHOmJTkAIJJ8awGX21IFplmJzpTIWkEhNPkyYPEQ5933t0Ed*SBHnmigFxVl*lBOH1lpDfg4kchGzV5e5gU2iEUcHMaTkCcNSlRDqmGoHAcGFVbgl4eeOwAsnH&new=1)
+ ## [独家：揭秘甘肃移动的剧变 为何吕宗英接任总经理](http://mp.weixin.qq.com/s?src=11&timestamp=1574913604&ver=2001&signature=xtvdJsLHOmJTkAIJJ8awGX21IFplmJzpTIWkEhNPkyZ6morZBcnm1pqKduJ4Y4kc*WAxyjCed16NZEZUvh*1U-AnOsanfbh9sdnADRz22yeYGXJpCgCFhAjVdp90Xk4D&new=1)
  > 运营商财经网 吴碧慧 汪莹/文 近日，运营商财经网独家获悉，辽宁移动纪委书记吕宗英升任甘肃移动总经理。这也折射中国移动一些省公司今年来业绩不佳。 甘肃移动的情况不佳甘肃移动的一把手原本为彭晓川，其担任...
 # IT 技术 
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
  > 有哪些让程序员受益终生的建议
+ ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
+ > 华为EMUI10带来开发者福音：一次开发多端部署
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
  ## [网络安全基础扫盲](https://blog.csdn.net/wangyaninglm/article/details/74179007)
  > 网络安全基础扫盲
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
- > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！](https://blog.csdn.net/m0_37609579/article/details/103108301)
@@ -115,6 +127,8 @@ Facebook&#23459;&#24067;&#25910;&#36141;VR&#38899;&#20048;&#28216;&#25103;&#2432
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
  ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
  > 
+ ## [拒绝成为比尔·盖茨的“万维网之父”，又要干大事！](https://blog.csdn.net/csdnnews/article/details/103286500)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）世界永远都需要凛然大义的人！今年64岁的万维网之父蒂姆·伯纳斯·李(Tim Berners-Lee，以下简称“伯纳斯·李”)，近日启动“修复”互联网的计划。他旗下的万维网基金会，已经和微软、Google、Fac...
  ## [6.6折票仅剩3天 | BDTC 2019全日程公布，哪些是你感兴趣的话题？](https://blog.csdn.net/csdnnews/article/details/103286502)
  > 2019年12月5-7日，由中国计算机学会主办，CCF 大数据专家委员会承办，CSDN、中科天玑数据科技股份有限公司协办的中国大数据技术大会（BDTC 2019）将于北京...
  ## [不少人暗搓搓的准备春招了，我有一些好东东和招聘信息给你](https://blog.csdn.net/csdnnews/article/details/103286503)
@@ -135,53 +149,67 @@ Facebook&#23459;&#24067;&#25910;&#36141;VR&#38899;&#20048;&#28216;&#25103;&#2432
  > 整理| 刘静出品 | CSDN（ID：CSDNnews）自2018年3月份以来，社交网络用户隐私泄露等问题一直都备受关注，当时有报道称，剑桥分析公司(Cambridge Analytica)不正当地获取了多达8700万名Facebook用户的个人资料，而该公司之所以想要这些用户数据，部...
  ## [Java 开发者最困惑的四件事](https://blog.csdn.net/csdnnews/article/details/103272299)
  > 掌握 Java 绝非易事，因为许多概念非常晦涩，非常复杂。作者 | Himanshu Verma译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）...
+ ## [央视市场研究：短视频平台已成为电视媒体开设账号增长最快的平台](http://www.lanjingtmt.com/news/detail/45042.shtml)
+ > 日前，在北京举行的中国电视大会上，CTR（央视市场研究）媒体融合研究院执行副院长姜涛称，38家省级以上电视台在同步完善各自在社交平台和视频平台上的布局。
+ ## [暴风回应官网及App无法打开：因拖欠费用合作方终止提供服务](http://www.lanjingtmt.com/news/detail/45041.shtml)
+ > 近日有网友爆料，暴风影音官网及App无法打开，对此，暴风集团发公告回应称，因拖欠合作方机房服务器托管费用，导致公司网站及手机客户端不能正常服务。
  ## [OTA巨头Q3业绩喜忧参半，途牛掉队明显或跌出一线阵营](http://www.lanjingtmt.com/news/detail/45040.shtml)
  > 近年来，随着线上流量红利的消失以及消费品质的升级，OTA平台不断向线下发展探索，并以自己的方式拓展线下渠道，但业内人士表示，线下渠道的扩展致使平台运营成本大幅增加，导致有OTA平台
 # 人工智能 
- ## [Adobe Audition去除噪声（以去除Audiojungle水印为例）](https://blog.csdn.net/deng_xj/article/details/103193336)
+ ## [vue相关的UI库和插件](https://blog.csdn.net/qq_39025670/article/details/100009478)
+ > vue相关的UI库和插件
+ ## [js 数组的基本运算](https://blog.csdn.net/yw_hard/article/details/89788531)
+ > js 数组的基本运算
+ ## [web前端之iframe基本](https://blog.csdn.net/qq_34425377/article/details/96284883)
+ > web前端之iframe基本
+ ## [访问一个网页，浏览器至少发起几次http请求](https://blog.csdn.net/qq_21430819/article/details/100627941)
+ > 访问一个网页，浏览器至少发起几次http请求
+ ## [layui数据表格不能自适应大小](https://blog.csdn.net/molihuakai_118/article/details/92426747)
+ > layui数据表格不能自适应大小
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
  > 
- ## [深入分析讲解异或](https://blog.csdn.net/weixin_45519387/article/details/103232656)
- > 深入分析讲解异或
- ## [YUV色彩空间浅析](https://blog.csdn.net/longjiang321/article/details/103151201)
- > YUV色彩空间浅析
- ## [第一周任务总结（快速幂）](https://blog.csdn.net/innominate/article/details/103244629)
- > 第一周任务总结（快速幂）
- ## [海康威视 java B/S 开发 流程](https://blog.csdn.net/qq_36720088/article/details/82893924)
- > 海康威视 java B/S 开发 流程
- ## [AD8361检波器 功率检波器 均值检波 功率计 原理图和PCB](https://blog.csdn.net/Elecdemo/article/details/103256266)
- > AD8361检波器 功率检波器 均值检波 功率计 原理图和PCB
- ## [JAVA网络编程（二）](https://blog.csdn.net/weixin_45739322/article/details/103256952)
- > JAVA网络编程（二）
- ## [绘制直线、矩阵——MFC基于单文档的应用(1)](https://blog.csdn.net/weixin_43237242/article/details/103038779)
- > 绘制直线、矩阵——MFC基于单文档的应用(1)
- ## [面试常考排序算法精华总结 python3.7实现](https://blog.csdn.net/weixin_41504611/article/details/103255905)
- > 面试常考排序算法精华总结 python3.7实现
- ## [2019宣传部第四次部门培训——PR进阶以及玻璃滑动效果的实现](https://blog.csdn.net/NOTFOUND_Liu/article/details/103242623)
- > 2019宣传部第四次部门培训——PR进阶以及玻璃滑动效果的实现
- ## [Qt实用技巧：使用OpenCV库的视频播放器(支持播放器操作，如暂停、恢复、停止、时间、进度条拽托等)](https://blog.csdn.net/qq21497936/article/details/103235954)
- > 
- ## [最新版乐优商城笔记、源码、资料](https://blog.csdn.net/Hellowenpan/article/details/103241878)
- > 最新版乐优商城笔记、源码、资料
- ## [PotPlayer播放蓝光片源及如何硬解码和音频源码输出](https://blog.csdn.net/meicyGz/article/details/103263122)
- > PotPlayer播放蓝光片源及如何硬解码和音频源码输出
- ## [Android开发-在Android里接入阿里云推流SDK实现直播推流的功能](https://blog.csdn.net/fukaimei/article/details/103237654)
- > Android开发-在Android里接入阿里云推流SDK实现直播推流的功能
- ## [二维码的实现原理和实现过程\[纠错码编码\]](https://blog.csdn.net/bosaidongmomo/article/details/103232449)
- > 二维码的实现原理和实现过程\[纠错码编码\]
+ ## [VSCode详细使用教程](https://blog.csdn.net/weixin_45601379/article/details/100550421)
+ > VSCode详细使用教程
+ ## [Webstorm的学习与使用一些见解](https://blog.csdn.net/hdp134793/article/details/81530472)
+ > Webstorm的学习与使用一些见解
+ ## [IDEA pycharm webstorm 2019注册码（激活码）真实可用！](https://blog.csdn.net/u013735914/article/details/97898153)
+ > IDEA pycharm webstorm 2019注册码（激活码）真实可用！
+ ## [spring 项目中使用 ajax](https://blog.csdn.net/wujing1_1/article/details/95944179)
+ > spring 项目中使用 ajax
+ ## [推荐几个非常不错的富文本编辑器](https://blog.csdn.net/qq_38200194/article/details/100129740)
+ > 推荐几个非常不错的富文本编辑器
+ ## [ttf2imgpng](https://blog.csdn.net/Savannah008/article/details/94437686)
+ > ttf2imgpng
+ ## [知到（智慧树）刷网课代码](https://blog.csdn.net/qq_43419016/article/details/96599858)
+ > 知到（智慧树）刷网课代码
+ ## [iframe标签（页面嵌套）](https://blog.csdn.net/weixin_44540236/article/details/92760494)
+ > iframe标签（页面嵌套）
+ ## [js中的foreach用法](https://blog.csdn.net/fanfan_h/article/details/91406310)
+ > js中的foreach用法
 # PM 
- ## [​网易“暴力”裁员背后，员工如何自保](http://www.chanpin100.com/article/110158)
- > 这次事情最大积极作用是，推进了员工对自己权益的维护。
- ## [职场压力大，人人都想再就业](http://www.chanpin100.com/article/110157)
- > 请将自己打造成最好的产品！
- ## [电商支付，打赏支付，钱包充值提现的原型模板都在这儿了！可直接使用！](http://www.chanpin100.com/article/110156)
- > 汇总各大app支付页面，灵感碰撞到一起就直接复用吧~
- ## [这是一份超详细的支付宝钱包原型模板，免费使用！(支付宝支付跳转)](http://www.chanpin100.com/article/110155)
- > 超级实用的支付宝钱包原型模板，直接复用即刻~
- ## [野生产品如何正规化？](http://www.chanpin100.com/article/110154)
- > 野生产品该如何快速正规化，又该如何练就一身适用于绝大多数互联网公司的能力。
- ## [3分钟讲明白5G技术](http://www.chanpin100.com/article/110153)
- > 产品经理白话5G技术要点，一定能明白。
- ## [产品设计｜10个新手UI设计师常犯的错误，你中招了吗？](http://www.chanpin100.com/article/110152)
- > 关于产品设计的一些误区分享
+ ## [下一代社交网络是怎样的？](http://www.woshipm.com/it/3145718.html)
+ > 在社交媒体纵深覆盖全世界的当下，人与社交的关系呈现出怎样的特点？5G、AI、VR等技术，又将对社交媒体产生怎样的影响？越来越多人离不开智能手机，越来越多智能穿戴...
+ ## [2019社交媒体内容趋势报告：市场现状、兴趣偏好及互动行为](http://www.woshipm.com/it/3143424.html)
+ > 2019年的社交媒体世界是什么趋势，用户的行为发生了什么样的变化？哪些社交平台最受欢迎？文章对这些问题进行了解答，一起来看看~近日，GlobalWebIndex (GWI) 发布了2...
+ ## [4个方面对比，快手、抖音、微视差异分析](http://www.woshipm.com/operate/3143757.html)
+ > 文章从内容分发、内容生产、社区氛围和变现途径4个方面对短视频产品快手、抖音和微视进行了对比分析，探究了决定抖音和快手差距持续拉大的背后因素。短视频作为时下最...
+ ## [讲好故事，让你获得更多机会](http://www.woshipm.com/zhichang/3145291.html)
+ > 讲故事，是一种推销自我的手段，也是引起共鸣的方法。前些日子，我拜访了一位蛮有意思的前辈，从他那里学来一个词——“同频”，他的口头禅是“算法，让你找到更多同频的人...
+ ## [8个步骤，高效推进产品设计评审](http://www.woshipm.com/pd/3141270.html)
+ > 作者介绍了进行设计评审时可以提升评审效率，帮助设计师和与会者更好的进行沟通，并顺利推进项目的一些方法，希望对您有所启发。设计作品的展示方式和设计本身一样重...
+ ## [设计规范 | 详解Android TV用户界面设计](http://www.woshipm.com/pd/3144055.html)
+ > 文章对比电视界面，从主屏幕和应用程序两个方面对Android TV的用户界面设计进行了详细梳理，与大家分享。与移动端设备不同，用户一般在3米外使用电视。因此电视界面设...
+ ## [深度解码直播电商的底层秘密，这是你学不会的李佳琦](http://www.woshipm.com/operate/3141293.html)
+ > 从一个美妆导购到一个头部美妆主播，李佳琦的成功除了自身的积累，还有碰上风口的幸运。当然，更重要的是李佳琦本人和团队的底层逻辑，他们，在玩转淘宝直播、玩转流量...
+ ## [拼多多崛起的背后：破坏性技术变革](http://www.woshipm.com/operate/3143576.html)
+ > 在巨头环伺的电商领域，拼多多何以发现市场空白再造一个巨头？这背后又怎样的理论支撑？如何发现成为下一个“拼多多”的机会？本文不讨论下沉的具体玩法，不讨论社交电...
+ ## [学学抖音，打造一款让人上瘾的产品](http://www.woshipm.com/pd/3143808.html)
+ > 抖音现在已经成为国民级产品，很多人刷起抖音就会停不下来。那么，有没有可能借鉴其中原理，打造一款让用户上瘾的产品？大家回忆一下，这样的一个情景是不是经常发生...
+ ## [如何在生活中培养产品思维？](http://www.chanpin100.com/article/110161)
+ > 本文将以生活中的3个小场景为例，去带动你的产品思维。
+ ## [后流量红利时代，小程序增长必须要做的三件事](http://www.chanpin100.com/article/110160)
+ > 优质小程序的增长三要素
+ ## [拓展思维边界，找到产品突破口](http://www.chanpin100.com/article/110159)
+ > 你的认知就是杯子里的水，水满则溢，如何收集溢出来的水，用什么容器收集？想明白这个问题，你就突破了认知的边界。
 
     
