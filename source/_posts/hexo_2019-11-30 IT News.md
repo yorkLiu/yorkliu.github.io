@@ -1,66 +1,52 @@
 ---
 title: 2019-11-30 IT News
 copyright: true
-date: 2019-11-30 12:02:05
+date: 2019-11-30 17:02:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [重磅!中国移动又有重要人事调整..](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=YvJkhMji*OAGRNtRm5h5sqgv9i9LuhL0JOtBeZ7jah33oebThu5OjT8LJn1ulMZXqvJ97z-hlxsVZE9VOb3jnamdI*ZH*ZXeEeXXwmAjEKZ8BmJbxbedVob7kWwh13tv&new=1)
- > 近日，运营商财经网独家获悉，辽宁移动纪委书记吕宗英升任甘肃移动总经理。这也折射中国移动一些省公司今年来业绩不佳。 甘肃移动的情况不佳甘肃移动的一把手原本为彭晓川，其担任甘肃移动总经理仅一年多，如今...
- ## [广西启动企业首席技术官培养计划](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=sxgR-SHLtxMMXwBORO1gG4jqGRqol-RI*JtNblRItqgMkqfKGH-Be1RM01ckNOBsYbKV9zv241b-jCKBAZLwCwkO9As1jgW0Ja28T7q-Vqw=&new=1)
+ ## [2019最新汽车研究报告汇总(含自动驾驶仿真蓝皮书/网约车/智能座舱/欧洲电动车/2025大众战略转型及物流行业研究等)](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=TqWx6D5R87st0XXnpA6hJHEO*BB7BoSrjBVa6SojNa3Co7KRwevyifhPYL4fsldisoY0Lx0hHitpLIYvvu*fNQ7DnFXuEcPpA0WFIlLE-eQaLUd*u1TqwHgNg1qWTy4L&new=1)
+ > 此前，汽车之地为大家分别整理了9份2019中国新能源车市场研究分析报告、7份2019中国乘用车市场洞报告、12份5G产业研究报告、9份整车企业业务研究、7份新能源汽车行业深度研究、9份自动驾驶行业深度研究和6份车企...
+ ## [今日科技圈：三星折叠平板专利图曝光 中国、韩国领先5G网络布局](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=r6dlsy*mDdyWNSHSQvhR-mzCGjFiGvG455iF1LbLZc636PTLLZ3a3rzdfV5vdCOno0BCckkPz7zbAvkiry0GFCfU*HgK1r5WLxAo6RuEB7K4S56FnvuIB4t15oYU5lHM&new=1)
+ > 三星折叠平板专利图曝光 还有什么不能折？Letsgodigital近日曝光了三星一款折叠平板电脑的设计专利。Letsgodigital曝光三星折叠平板电脑的专利图片三星折叠平板电脑的设计示意这种Foldable面板尺寸要比Galaxy Fo
+ ## [没有节操的黑客组织排行，看这些就对了](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=IQwzaBwtVCsNRJzEE-C2JIBjh2P1lIizT*QzM7eJfYFhvLkyn9MF2FMuQ3npQghc7yoPzru44GBoGR8X-n0ZJnLRikiMIeYuk1mkgREgs-gYoIZflhTBv19mT0W9j-Rj&new=1)
+ > 我不生产钱，但我是金钱的搬运工，你见过专门针对 ATM 机的黑客吗？有些黑客为了钱，有些黑客则是“爱国”，但别国很生气，你爱国可以，别朝我们国家的核工业伸出黑手啊！还有些黑客口味很重啊，保险、咨询、采...
+ ## [再次告别黎万强，小米“长大”了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=gRwVIjBGuIvGM1MV1T6sv-xKnfwQvJFLp4xhOlArDoi9dnX-qtsbb6MiwCdtRoKU6FxUYsI8Wn15-Gc7Fx7JkoOFnLkbZtLifIc9gI0Il3qNjkeukBccFQ8jWoPhykIE&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相人事变化总是意味着一个公司的业务、战略调整。如何让联合创始人在不同阶段都能发挥不同的作用，是公司发展到一定阶段都要着手解决的问题。来源 | 投中网（ID：China-...
+ ## [中国电信2019年优秀工程设计评选，18家设计单位获奖!](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=Yj8gx7KXwvnAnGuFM2h8maKRC3CFlzujYCStsu6biuwRiq8FIER98N8C*5TaBBfnca1r6tK*37D6*upEjkPTWg6zbYGsC8OD8dm7GOLGlm2xe2D7Tm1vp4YOjPn*39sH&new=1)
+ > 日前，中国电信公示2019年优秀工程设计评选结果。本次评优共收到来自各设计单位申报的工程设计207项，涉及传输、数据、核心网、业务平台、无线等多个专业，在评优委员会组织下，经过合规性审查、初步评审、终审...
+ ## [黑客最爱：Kali增添重要新功能](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=-tEVoN2E0RprP49g2C00awMVMHlxXa7x*ue-S5xBPgsc0Uc7CWe2DPrt6WaX8d5u-VbRn82JpeS4RI7yhwZDd3AYmIwrKVTj23tu*NK8luDBpJ4PjYAkTOF5KJsBnj0c&new=1)
+ > Kali Linux（主要被各色帽子黑客用于渗透测试、网络安全评估和其他安全探索的 Linux 发行版）有了全新工具集。Kali Linux 2019.4 是 2019 年最终版本。该黑客最爱工具为用户呈现几个相当重要的新特性。下面我们...
+ ## [60天700万台!华为Mate30系列如何成为国内首个“爆款5G手机”?](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=Xqc-SobguxULg1jRBOUmaDqDT*ysIN8KYzF6RMC7Mrc4qiv10i3F-m0m3lrSne1yYU2Rm3LA3hvP40qius*6zdE2xI3AGNDxGQN9u8XnJZadOqpITDXVkeWYBiHZWFq5&new=1)
+ > 唯有充分满足现有需求和长周期使用，用户才能放心地更换5G手机。作者 | 宿艺编辑 | 子淇 上市仅两个月，华为Mate30系列5G版就坐实了国内首个“爆款5G手机”。11月25日，华为消费者业务CEO余承东对外公布了Mate30...
+ ## [让携号转网不再难!但你得了解这几大限制](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=RGxYybgK8gyqA2HF8GPgOLm9NxvwdTA3UN8Ay64J2usIdlBAtPzyQ5ugbnCP6-1g0NdJJPhouKOxkY0zk67Eidc0wGsGmQWPgtYHahucj4K3J7djQ8D2w2Bjn5KB3JmH&new=1)
+ > 目前，全国携号转网服务已经正式启动，全国携号转网系统正式上线运行。这意味着，全国范围内符合条件的用户都可以在号码不变的情况下，自由选择运营商。而在此前的试点城市中，从试点开始截至11月26日结束，全国...
+ ## [广西启动企业首席技术官培养计划](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=sxgR-SHLtxMMXwBORO1gG4jqGRqol-RI*JtNblRItqiUJXAeLdqK78V1lplMKP6k1QhKWgDeg4wtthV0qwyocBM490DgYNVsuO7QMRePL*0=&new=1)
  > 高新企业高速和持续发展的核心在于不断地进行技术创新，因此，企业技术领军人才尤为重要。11月28日，自治区科技厅召开座谈会，我区启动企业首席技术官的培养计划。▲会议现场。企业中的CEO（首席执行官）和CFO（...
- ## [韩国加密货币交易所遭到黑客攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=eC9nncVWrQ*jmE3qZx0Q5503gcgbBapQyuNYmGoMZgK45HyAg1yO2ArAFQXVxcfDtNLPeQPLwELAQVWAl*iTcFyFScqqauyU7a2cDNgIWZvXZb2MBg19TVPvZnH64IZ8&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，韩国加密货币交易所Upbit发布公告称，黑客从该交易所中盗取了价值4850万美元的加密货币。目前，该交易所的加密货币存取服务已被暂停。据了解，黑...
- ## [再见，快递小哥?!](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=ahoqhVuYDbixfbATMRtnZjBZqPVz25nVDRsRVzYLb6G-PAMOp5AccY7fipmob*Q61NwJrDETnnnFjBXAeVKDoN6CiVpUfrrc4LhftlkFf9dUF18pz*HdvpGSnMRt6AL4&new=1)
+ ## [跟随科学家们走进5G新时代——周末讲坛](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=l*-mpIB2oof25zmzx6zAXGdll4Pfw804Np4cgXOnWD-vNv7UbgabmKb6nQCnMJdt5AJO2oCBl2IRm4blfsHClSbd-*ywkThpbCXbm6sHDyxmI*SR2Rv8YeHrwp0O0rU6&new=1)
+ > 迎接5G的洪流，我们准备好了吗？5G作为新通讯时代的敲门砖，却面临着极大的考验。5G究竟有多快？5G携号转网怎么操作？中国5G怎样在芯片争夺战、别国的打压和高昂的套餐价格下顽强生长呢？全网最高智商综艺节目《...
+ ## [再见，快递小哥?!](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=ahoqhVuYDbixfbATMRtnZjBZqPVz25nVDRsRVzYLb6HDlaPqcpga5vB6dUKyPL92QweMFKxBMz0RnNL*bkLIiuE2XGg23OVF4H8vT93-CiZLCPGqiSbzy*o4CCrf7ulD&new=1)
  > 如果问当代年轻人，最离不开的三大巨头是什么那无疑就是：wifi、快递和外卖。刚刚过去的“双11”，由于快递业务量暴增，还有快递小哥累到“跑路”！但这个时代变化之快让人无法想象你有想过或许有一天我们要跟亲...
- ## [因为5G技术的推广，2020年全球智能手机市场将复苏](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=NwtqPpBkcWpq6qSFGmMHFtWNax4ODXn24YkDg5lQasD6vhjc6dwlSmwLsWwWr9HFBm6ki1SZ252zu0AESDRN-P2rp5A4dXuLR7U3iuqXtJE=&new=1)
+ ## [重磅!中国移动又有重要人事调整..](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=YvJkhMji*OAGRNtRm5h5sqgv9i9LuhL0JOtBeZ7jah3PXyWtIBVhD5FMHsLxBvYh8RdEzWWcTtAvRelPEgi19wTPSPw1uc1IyaRFPRqhcy8qR7Olv3xLSbk9ZvodqbQE&new=1)
+ > 近日，运营商财经网独家获悉，辽宁移动纪委书记吕宗英升任甘肃移动总经理。这也折射中国移动一些省公司今年来业绩不佳。 甘肃移动的情况不佳甘肃移动的一把手原本为彭晓川，其担任甘肃移动总经理仅一年多，如今...
+ ## [韩国加密货币交易所遭到黑客攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=eC9nncVWrQ*jmE3qZx0Q5503gcgbBapQyuNYmGoMZgLi-s-Y7dzQdVIISDwnIlY*BGkB3If5ebcSvVsPPluS793iIsdaKIQ8Wfp6XzD5Plc2DlqaSn*bHEMhnLbkyzOx&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，韩国加密货币交易所Upbit发布公告称，黑客从该交易所中盗取了价值4850万美元的加密货币。目前，该交易所的加密货币存取服务已被暂停。据了解，黑...
+ ## [因为5G技术的推广，2020年全球智能手机市场将复苏](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=NwtqPpBkcWpq6qSFGmMHFtWNax4ODXn24YkDg5lQasBaMsxBKb4l9B6hGvzkt3MRVcTm5EIW3C-g2WKTwbOtFLgD8XXfNe30c78DVzl5dmc=&new=1)
  > 参考消息网11月30日报道 外媒称，美国市场分析机构国际数据公司（IDC）预测，全球智能手机市场在连续三年表现萎缩后将于2020年回暖，这得益于5G技术在中国的积极推广。据俄罗斯卫星通讯社11月27日报道，分析师预...
- ## [贵阳携手腾讯 打造数智贵阳“未来城市”](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=EaEDV3KlarRgZz9jBxTQwRUahEKGQcG2bOLGLFxWzR0BOw21X31tjhUNgjmyPXM7x9nUr6HRynVfSxOO1OkNy4Lq4zpLCj9SMLWlA0WhqOQ=&new=1)
+ ## [贵阳携手腾讯 打造数智贵阳“未来城市”](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=EaEDV3KlarRgZz9jBxTQwRUahEKGQcG2bOLGLFxWzR3WB18bfS58ZUtWS3S2I1ze4MKvOb7bj-Jh*XQWc36UseqNUpyvqcf44JwjCqzJqvE=&new=1)
  > 本报讯 继合作推进“中国数谷”建设和深化建设“数智贵阳”之后，11月29日，贵阳市政府和深圳市腾讯计算机系统有限公司（以下简称“腾讯”）再度携手，双方签订战略合作补充协议。根据协议，双方将采取...
- ## [区块链的安全丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=-BiknIxcWMgRRxNYc2G8ewQkk6vxHMMOV-e8zEMh9WRYIbR9jUI07oLq72UwJUdDY5O-VQYkHvThm-FvrVTlt*DaMqQf8PXE3j1Dk6uC*1XTfNCgIpVPY7CSmrlTRobq&new=1)
+ ## [区块链的安全丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=-BiknIxcWMgRRxNYc2G8ewQkk6vxHMMOV-e8zEMh9WTgmUOsa5jG0zusDZEhwuVZFcztm1d8-*xyNWQrNh9nEKgqC9caOWN7JDvM2ffwEpQxTmKoUUhxQDCqvDjOf-1w&new=1)
  > 一、起源小白：东哥，最近“区块链”这个词在网络上出现的频率很高呀，我一打开手机，隔三差五总能在新闻头条中看到这个字眼。大东：小白啊，那你知道区块链这个热词到底是什么意思吗？咱们今天就好好唠一唠区块...
- ## [5G赋能智慧码头成效尽显 联通助力青岛港全自动码头(二期)投入运营](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=bbCPrxhyZJ5UWM1alWTBw*Z1eBc*2VKVzAEu7fwiTtKCO4uTYd7VHNQZ7PmirOctuchrNIbSLZl-fzUSL9s5m70MS4q-9l4*WGVp7qtb34v7myY3BRTri3Ky1ZkrD*b1&new=1)
+ ## [5G赋能智慧码头成效尽显 联通助力青岛港全自动码头(二期)投入运营](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=bbCPrxhyZJ5UWM1alWTBw*Z1eBc*2VKVzAEu7fwiTtI5mXMoRL2sxE2dCwQEUK2SGjbWpnJbrHuew4B9LN7uFK2afPJbR09TueDTtMmknwrkdxDjiG362jkqLWVaD27g&new=1)
  > 11月28日上午，由青岛港集团主办的山东港口青岛全自动化集装箱码头（二期）运营启动仪式在青岛前湾港码头举行，中国联通受邀参加启动仪式。中国联通政企客户事业部副总经理刘胜友参加仪式并致辞，山东联通韩冰副...
- ## [被低估的“阿卡林省”江西，能后发先至吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=jA*jxlKyIhjvQuykD8GmXS292mNCEYfhPvedNQ9A4B1QEzDlN93L3ZM0RpGuv0M*xnKaLSnNOmVDKXlBdtzIvEtTVFKbdNb7hJ5pFZ0oh6TKTy2FBZqmI-hKEcuZd2Bw&new=1)
+ ## [被低估的“阿卡林省”江西，能后发先至吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=jA*jxlKyIhjvQuykD8GmXS292mNCEYfhPvedNQ9A4B1Ni9lGg9VbDIUCImrGLMu4arMeaRNE-zt55aUaQmfJ3U015uFo24BQjyawuWgLnFQirL3pcimCZ1rMwyid2w7u&new=1)
  > · 这是第3015篇原创首发文章 字数 3k+ ·· 关注秦朔朋友圈 ID：qspyq2015 ·在网络上，江西被称为“阿卡林省”。阿卡林是日本动漫《摇曳百合》的主人公之一，但由于该角色在剧中的存在感弱到被忽视，毫无主角...
- ## [泛娱乐产业扬起“5G+云+AI”之帆!](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=b-brMShr*XUC4Ru-eDTpmmqrlTmQSjZCpyf6oMyCpwQjVyl3NREF7dYo1mPR64u2NGQQ6tZ7RHVplWpwH6T*dNpC-cXRQpxaqAaO5H9UIDcrIAMXSC*dzhbOwfhhQzO7&new=1)
+ ## [泛娱乐产业扬起“5G+云+AI”之帆!](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=b-brMShr*XUC4Ru-eDTpmmqrlTmQSjZCpyf6oMyCpwQjYnsu6-xhfPq4EVHPw1Kdb4xuWnCYsCaSn5iQcHiM-3yRWAuOwYDW0WBMUxhmwhettNNIXYNJn61Jp2hCF0p9&new=1)
  > 随着技术的演进与发展，不仅带动了泛娱乐产业的不断洗牌和升级，也为玩家带来越来越好的游戏体验，同时推动泛娱乐产业发展模式的不断升级：玩家从单机游戏到大型在线网络游戏，再到手机游戏；游戏节目传播模式从...
- ## [极致探索还是即刻享受?老王和米家资深用户聊了聊](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=9iTbZq*8s6kbGFxlr9GYx*JvZX*Xq2*iLQwD4ktQowfpUG0MBJ3jed9lPtf5xjxGw7LN7bURFlXTUnwyJnwalZnCJt4Oc0pLVaO1aK-dVEhW-QZswm8rrhdLp7hnCzA*&new=1)
+ ## [极致探索还是即刻享受?老王和米家资深用户聊了聊](http://mp.weixin.qq.com/s?src=11&timestamp=1575104405&ver=2005&signature=9iTbZq*8s6kbGFxlr9GYx*JvZX*Xq2*iLQwD4ktQoweAXkfa-9HP7ZlRuS98LxA1NIqcxHUFwHXA-IAqxin6CJNrJIbKFi1wx0HwRH8NbQSh-Es1mo1u-1xeTGSERb7d&new=1)
  > 王自如心中未来之家是什么样子的？为了满足科技的内核、优雅的设计以及人性的温度，我们是如何搭建未来之家的系统？同时，米家作为国内智能家居系统的代表，又有哪些思考和借鉴的意义？这次，关于智能家居系统这...
- ## [华为发布核心网自动驾驶网络白皮书丨共享汽车途歌无财产可执行\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575084604&ver=2005&signature=Z5ejCbxqL8TUZtJYIoUyywTc7BjO7XvpyVloZfEv5aeDUKhNjwJ6u8w4Ic91xjxjLO7wcNNqG4hlumdx9NAmejiZoUMtxop*yMv1cdZeoBktHbBHXzMqnGjHqAA3AFFJ&new=1)
- > 11月29日丨周五【Do说】编辑 | 赵艾虎华为发布核心网自动驾驶网络白皮书近日，华为正式发布《华为核心网自动驾驶网络白皮书》，在业界率先提出了面向5G的核心网自动驾驶网络的理念、目标和构架，为5G核心网向自...
 # IT 技术 
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [一些提高工作效率的黑科技软件和网站](https://blog.csdn.net/qq_28299311/article/details/103198917)
- > 一些提高工作效率的黑科技软件和网站
- ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
- > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
- > 
- ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
- > 
- ## [华为云再“祭”神器！](https://blog.csdn.net/csdnnews/article/details/103085624)
- > 
- ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
- > 
- ## [使用 Docker 部署 Spring Boot 项目](https://blog.csdn.net/ityouknow/article/details/102908587)
- > 
- ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
- > 
- ## [17张图带你解析红黑树的原理！保证你能看懂！](https://blog.csdn.net/Design407/article/details/103164753)
- > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
- ## [11月29日科技资讯|携号转网移动用户转出最多；微软称 8 万台电脑感染病毒；TensorFlow 2.1 rc0 发布](https://blog.csdn.net/weixin_39786569/article/details/103306056)
- > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
- > 
  ## [8 年经验面试官解读程序员的技能瓶颈，以及突破瓶颈的忠告 | CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/103320120)
  > 作者 | 胡书敏责编 | 伍杏玲出品 | CSDN博客我在做技术面试官的时候，面试对象大多数是初级开发和高级开发，偶尔也会面试架构师。我发现，IT人的工资固然和相关技术的使用年限有关，但...
  ## [Python 爬取 6271 家死亡公司数据，一眼看尽十年创业公司消亡史！](https://blog.csdn.net/csdnnews/article/details/103320121)
@@ -79,38 +65,15 @@ categories: IT NEWS
  > 无论你是刚入编程的小白，还是已经浸润编程数年的资深人员。相信这篇文章都会给你带来不一样的启发，前人的经验永远是我们最容易看到的捷径。作者|Erik Dietrich译者 |弯月，责编...
  ## [Java 9 ← 2017，2019 → Java 13 ，Java 两年来都经历了什么？| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/103306974)
  > 作者| Hollis责编 | maozz出品| CSDN 博客距离 2019 年结束，只剩下 35 天了。你做好准备迎接 2020 年了吗？一到年底，人就特别容易陷入回忆和比较之中，...
-# 人工智能 
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
- > 
- ## [互联网行业常用术语](https://blog.csdn.net/qq_35436516/article/details/101025570)
- > 互联网行业常用术语
- ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
- > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [python+selenium自动化测试-1概述](https://blog.csdn.net/qq_24601279/article/details/100661067)
- > python+selenium自动化测试-1概述
- ## [git合并分支](https://blog.csdn.net/weixin_43606158/article/details/100146367)
- > git合并分支
- ## [阿里maven私服配置和作品上传](https://blog.csdn.net/qq_26462567/article/details/100098735)
- > 阿里maven私服配置和作品上传
- ## [后台管理侧边栏列表](https://blog.csdn.net/weixin_43195512/article/details/97840346)
- > 后台管理侧边栏列表
- ## [会阻碍程序员成长的细节](https://blog.csdn.net/qq_43652509/article/details/91838682)
- > 会阻碍程序员成长的细节
- ## [IDEA Unable to import maven project: See logs for details （maven的坑）](https://blog.csdn.net/Certain_/article/details/90745360)
- > IDEA Unable to import maven project: See logs for details （maven的坑）
- ## [自己搭建一个jQuery的项目](https://blog.csdn.net/weixin_43606158/article/details/96363065)
- > 自己搭建一个jQuery的项目
- ## [在官网下载nodejs和git速度慢的解决方案](https://blog.csdn.net/weixin_43606158/article/details/100609856)
- > 在官网下载nodejs和git速度慢的解决方案
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [Java程序员必备工具](https://blog.csdn.net/songzehao/article/details/100565134)
- > Java程序员必备工具
- ## [IntelliJ IDEA（2019）安装和破解。](https://blog.csdn.net/weixin_37569048/article/details/91490654)
- > IntelliJ IDEA（2019）安装和破解。
 # PM 
+ ## [从产品角度，看“用户增长的三个阶段”](http://www.woshipm.com/operate/3155376.html)
+ > 随着互联网进入下半场，谈论增长的人越来越多，无论是从微信裂变到小程序，还是从微商到社交电商，本质都是在追求一种低成本高效获客的方式。今天我也凑个热闹，来聊聊...
+ ## [教你5招，轻松打造系统图标规范](http://www.woshipm.com/pd/3156369.html)
+ > 系统图标设计能准确反映出品牌的个性理念，并最有效传达企业品牌形象。作者从自身工作经验出发，分享了打造系统图标的5大步骤。今天我们聊聊如何做系统图标规范，大家...
+ ## [好的文案人，不是文字的搬运工](http://www.woshipm.com/copy/3156248.html)
+ > 作者从自身经验出发，分享了自己对文案行业的现状和文案人发展的思考和建议。我入行的时候，也顶礼膜拜广告史上那些神一样的文案作品。奥格威的劳斯莱斯长文案、伯恩...
+ ## [互联网发明50年，没人知道你是一条狗吗？](http://www.woshipm.com/it/3155850.html)
+ > 互联网技术的发达，让我们的联系与沟通越来越方便，信息搜索也变得更快捷。但是隐藏在背后的一些问题，或许更值得我们警惕。技术或许能研究透，但人性永远摸不清。01...
  ## [跟风退潮，互联网家装才刚启程](http://www.woshipm.com/it/3155647.html)
  > 互联网家装已经落幕的论调是错误的，真正落幕的是鼓吹互联网家装的人。当鼓噪与狂热不再，告别流量，互联网家装才刚启程。当互联网红利消失殆尽，很多人开始逃离互联...
  ## [行业分析如何快速入门？](http://www.woshipm.com/evaluating/3154898.html)
@@ -125,14 +88,6 @@ categories: IT NEWS
  > 产品诞生后，会经历不同的生命周期：从新生到成长、再到成熟，最后进入衰老。不同阶段，产品经理如何开展工作？本文作者对此进行了分析探究。由于B端产品都面向商业的...
  ## [思考总结：谈谈卡片式设计](http://www.woshipm.com/pd/3154475.html)
  > 本文作者结合实际项目中的得到了一些思考进行总结并归纳出一些卡片式设计的小知识点，同时希望自己通过本次的总结进行知识沉淀，以及跟大家一起探讨下卡片式的设计。...
- ## [二次元短视频出圈：如何打造一枚成功的二次元IP？](http://www.woshipm.com/it/3153968.html)
- > 二次元是一种文化概念，它可以借助文字、图片、短视频等多种形式，来触达、吸引更多人群。跟大众短视频相比，二次元视频降低了普通人接触二次元但视频的门槛。想要打造...
- ## [搜索产品指南：必须知道的几件事](http://www.woshipm.com/pd/3151620.html)
- > 搜索产品有很多，其中有哪些需要注意的问题？在技术之外，我们还需要知道什么？搜索本身是一个比较技术的事情，小白产品想要学习搜索的产品知识，就会发现各大论坛上...
- ## [这届新中产，为何爱借钱？](http://www.woshipm.com/it/3150990.html)
- > 债台高筑的新中产，我们只能从中看出过度贷款吗？年轻人越来越习惯借钱，习惯地理所当然；人们痛惜年轻人爱借钱，也痛惜地理所当然。人们讲，是消费主义误导了年轻人...
- ## [B端产品经理：行业深耕，我总结了4点心得](http://www.woshipm.com/pmd/3150173.html)
- > 相比于C端产品经理，B端产品经理的工作有时候更富有挑战性。本文作者回顾了自己的工作经历，总结了产品路上的感想与建议，与大家分享。吐槽的说，B端产品经理的工作有...
  ## [可以优化App用户体验的方案](http://www.chanpin100.com/article/110182)
  > 当我们了解到一个群体的感受，比如说用户对产品的评价，一个用户的主观差评，可能是特例，但是多个用户给差评时，就已经能够客观的反映出一些事实。因此，尽管用户体验是主观的，但是也丝毫不影响我们对它的重视。
  ## [校招生如何拿到产品spoffer？](http://www.chanpin100.com/article/110180)
