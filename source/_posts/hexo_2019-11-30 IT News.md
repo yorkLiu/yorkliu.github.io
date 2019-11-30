@@ -1,52 +1,52 @@
 ---
 title: 2019-11-30 IT News
 copyright: true
-date: 2019-11-30 08:00:50
+date: 2019-11-30 09:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [因为5G技术的推广，2020年全球智能手机市场将复苏](http://mp.weixin.qq.com/s?src=11&timestamp=1575072005&ver=2005&signature=NwtqPpBkcWpq6qSFGmMHFtWNax4ODXn24YkDg5lQasB7qCcvHnJaCr3WVdfwwYvzAtMUdRC7*fs1wEAD9el-hKBWpkcCMn-Xu50hZHetzHI=&new=1)
- > 参考消息网11月30日报道 外媒称，美国市场分析机构国际数据公司（IDC）预测，全球智能手机市场在连续三年表现萎缩后将于2020年回暖，这得益于5G技术在中国的积极推广。据俄罗斯卫星通讯社11月27日报道，分析师预...
- ## [华为发布核心网自动驾驶网络白皮书丨共享汽车途歌无财产可执行\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575072005&ver=2005&signature=Z5ejCbxqL8TUZtJYIoUyywTc7BjO7XvpyVloZfEv5aeeNg2SgLsMCd29BVuFOVLd9EFgLiWvTMuJvZap-YlIoO1W13*ckuinsclYZfMWmttqcFJxARJ5V1-cegRyk5*R&new=1)
- > 11月29日丨周五【Do说】编辑 | 赵艾虎华为发布核心网自动驾驶网络白皮书近日，华为正式发布《华为核心网自动驾驶网络白皮书》，在业界率先提出了面向5G的核心网自动驾驶网络的理念、目标和构架，为5G核心网向自...
- ## [泛娱乐产业扬起“5G+云+AI”之帆!](http://mp.weixin.qq.com/s?src=11&timestamp=1575072005&ver=2005&signature=b-brMShr*XUC4Ru-eDTpmmqrlTmQSjZCpyf6oMyCpwRvA99E-3Nr71LWqNESuxEzNzJyNNhi9L2f3izqqxiPbJQbHk4p6MxNaCCoaLPu3w7ymqiMEkCQRR7q3N-mfNHj&new=1)
- > 随着技术的演进与发展，不仅带动了泛娱乐产业的不断洗牌和升级，也为玩家带来越来越好的游戏体验，同时推动泛娱乐产业发展模式的不断升级：玩家从单机游戏到大型在线网络游戏，再到手机游戏；游戏节目传播模式从...
- ## [极致探索还是即刻享受?老王和米家资深用户聊了聊](http://mp.weixin.qq.com/s?src=11&timestamp=1575072005&ver=2005&signature=9iTbZq*8s6kbGFxlr9GYx*JvZX*Xq2*iLQwD4ktQowc6K*7fHY0pGLG6OXreBBS799jdbCJ67s16ft-mKiLUrtGw0ZwE130YbrktgEkr*KsAYbhKcws*aQb003ugPCeQ&new=1)
+ ## [极致探索还是即刻享受?老王和米家资深用户聊了聊](http://mp.weixin.qq.com/s?src=11&timestamp=1575073805&ver=2005&signature=9iTbZq*8s6kbGFxlr9GYx*JvZX*Xq2*iLQwD4ktQowc6K*7fHY0pGLG6OXreBBS7DBH2LWyIvO9*TVYL6Occh3IY-uIWvHIE9KUk2LWQosFE0YuerQ*q1U07*RMDVyKO&new=1)
  > 王自如心中未来之家是什么样子的？为了满足科技的内核、优雅的设计以及人性的温度，我们是如何搭建未来之家的系统？同时，米家作为国内智能家居系统的代表，又有哪些思考和借鉴的意义？这次，关于智能家居系统这...
- ## [被低估的“阿卡林省”江西，能后发先至吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1575072005&ver=2005&signature=jA*jxlKyIhjvQuykD8GmXS292mNCEYfhPvedNQ9A4B2Mzpb78ootyegmvIY7RHZV1mmuC32Rnz2YaRLj40pO-PHRQ5TtoyhbVjNUxfxYzXAxaxEFoBWLBHSxgIoE5Kro&new=1)
+ ## [被低估的“阿卡林省”江西，能后发先至吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1575073805&ver=2005&signature=jA*jxlKyIhjvQuykD8GmXS292mNCEYfhPvedNQ9A4B2Mzpb78ootyegmvIY7RHZVIIBTQQJcUWPWjxBN8VuFtMJ7P0l4bh35otf0yh-n599nHmNfeciHDOIwHKyostcI&new=1)
  > · 这是第3015篇原创首发文章 字数 3k+ ·· 关注秦朔朋友圈 ID：qspyq2015 ·在网络上，江西被称为“阿卡林省”。阿卡林是日本动漫《摇曳百合》的主人公之一，但由于该角色在剧中的存在感弱到被忽视，毫无主角...
+ ## [华为发布核心网自动驾驶网络白皮书丨共享汽车途歌无财产可执行\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575073805&ver=2005&signature=Z5ejCbxqL8TUZtJYIoUyywTc7BjO7XvpyVloZfEv5aeeNg2SgLsMCd29BVuFOVLdiVKj2zcYSchFGGah6apzzj6CTFyO8nZhK3oatqeJCm6affqGoPV-MoofN44PRKa8&new=1)
+ > 11月29日丨周五【Do说】编辑 | 赵艾虎华为发布核心网自动驾驶网络白皮书近日，华为正式发布《华为核心网自动驾驶网络白皮书》，在业界率先提出了面向5G的核心网自动驾驶网络的理念、目标和构架，为5G核心网向自...
+ ## [因为5G技术的推广，2020年全球智能手机市场将复苏](http://mp.weixin.qq.com/s?src=11&timestamp=1575073805&ver=2005&signature=NwtqPpBkcWpq6qSFGmMHFtWNax4ODXn24YkDg5lQasBUH-HC18jsLhCMjDjmCjJfa4ZIk2fMTxWhfq-Lntw-Fyfxm5hSMKY8w60ZTSfAfAA=&new=1)
+ > 参考消息网11月30日报道 外媒称，美国市场分析机构国际数据公司（IDC）预测，全球智能手机市场在连续三年表现萎缩后将于2020年回暖，这得益于5G技术在中国的积极推广。据俄罗斯卫星通讯社11月27日报道，分析师预...
+ ## [泛娱乐产业扬起“5G+云+AI”之帆!](http://mp.weixin.qq.com/s?src=11&timestamp=1575073805&ver=2005&signature=b-brMShr*XUC4Ru-eDTpmmqrlTmQSjZCpyf6oMyCpwRvA99E-3Nr71LWqNESuxEzlBg4DxUrHtw3uk1QXdm0NdSbafakd34Wv9hitwZuAXpU1LcxAu1v61pZa*cjdF6I&new=1)
+ > 随着技术的演进与发展，不仅带动了泛娱乐产业的不断洗牌和升级，也为玩家带来越来越好的游戏体验，同时推动泛娱乐产业发展模式的不断升级：玩家从单机游戏到大型在线网络游戏，再到手机游戏；游戏节目传播模式从...
 # IT 技术 
  ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
  > 比特币原理详解
- ## [挑战10个最难的Java面试题（附答案）【上】](https://blog.csdn.net/devcloud/article/details/100698417)
- > 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [一些提高工作效率的黑科技软件和网站](https://blog.csdn.net/qq_28299311/article/details/103198917)
+ > 一些提高工作效率的黑科技软件和网站
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
  ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
- ## [为什么需要 Redis 哨兵？](https://blog.csdn.net/csdnnews/article/details/103231811)
+ ## [华为云再“祭”神器！](https://blog.csdn.net/csdnnews/article/details/103085624)
  > 
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [2019年Spring Boot面试都问了什么？快看看这22道面试题！](https://blog.csdn.net/Design407/article/details/103263416)
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ > 
+ ## [使用 Docker 部署 Spring Boot 项目](https://blog.csdn.net/ityouknow/article/details/102908587)
  > 
  ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
  > 
+ ## [17张图带你解析红黑树的原理！保证你能看懂！](https://blog.csdn.net/Design407/article/details/103164753)
+ > 
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
- > 
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
  ## [8 年经验面试官解读程序员的技能瓶颈，以及突破瓶颈的忠告 | CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/103320120)
  > 作者 | 胡书敏责编 | 伍杏玲出品 | CSDN博客我在做技术面试官的时候，面试对象大多数是初级开发和高级开发，偶尔也会面试架构师。我发现，IT人的工资固然和相关技术的使用年限有关，但...
  ## [Python 爬取 6271 家死亡公司数据，一眼看尽十年创业公司消亡史！](https://blog.csdn.net/csdnnews/article/details/103320121)
@@ -66,36 +66,36 @@ categories: IT NEWS
  ## [Java 9 ← 2017，2019 → Java 13 ，Java 两年来都经历了什么？| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/103306974)
  > 作者| Hollis责编 | maozz出品| CSDN 博客距离 2019 年结束，只剩下 35 天了。你做好准备迎接 2020 年了吗？一到年底，人就特别容易陷入回忆和比较之中，...
 # 人工智能 
- ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
+ ## [量子算命，在线掷筊：一个IBM量子云计算机的应用实践，代码都有了](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103270669)
  > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
  > 
- ## [拒绝成为比尔·盖茨的“万维网之父”，又要干大事！](https://blog.csdn.net/csdnnews/article/details/103286500)
- > 拒绝成为比尔·盖茨的“万维网之父”，又要干大事！
- ## [广    义    表](https://blog.csdn.net/bit16Girl/article/details/103288866)
- > 广    义    表
- ## [11月28日科技资讯|ofo 退押金出新招；Bootstrap 4.4.0 发布](https://blog.csdn.net/weixin_39786569/article/details/103289828)
+ ## [自学编程、玩 vlog，90 后程序员们的冠军之路](https://blog.csdn.net/tangxiaoyin/article/details/103292298)
+ > 自学编程、玩 vlog，90 后程序员们的冠军之路
+ ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
+ > （经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
  > 
- ## [【图解】记一次手撕算法面试：字节跳动的面试官把我四连击了](https://blog.csdn.net/m0_37907797/article/details/103267435)
- > 
- ## [网络编程原理](https://blog.csdn.net/Fe_cow/article/details/103292795)
- > 网络编程原理
- ## [扎心了，程序员的2017到2019](https://blog.csdn.net/kebi007/article/details/103285558)
- > 扎心了，程序员的2017到2019
- ## [Unity（二） c常用数据结构解析回顾](https://blog.csdn.net/qq_36648510/article/details/103261319)
- > Unity（二） c常用数据结构解析回顾
- ## [2019广西普法考试云平台自动登录考试python](https://blog.csdn.net/AnYeZhiYin/article/details/103246462)
- > 2019广西普法考试云平台自动登录考试python
- ## [性能优化（3）：NEON快速入门指南](https://blog.csdn.net/wohenfanjian/article/details/103283319)
- > 性能优化（3）：NEON快速入门指南
- ## [Git学习笔记（教程）四](https://blog.csdn.net/qq_44475551/article/details/103299891)
- > Git学习笔记（教程）四
- ## [程序员需要了解的硬核知识之汇编语言(一)](https://blog.csdn.net/qq_36894974/article/details/103273900)
- > 
- ## [倪光南：中国 5G 有望成为世界第一](https://blog.csdn.net/csdnnews/article/details/103268210)
- > 倪光南：中国 5G 有望成为世界第一
- ## [互联网公司的裁员，能玩出多少种花样？](https://blog.csdn.net/xianaoshi/article/details/103248846)
- > 
+ ## [从没感觉到线性代数的求矩阵特征值那么有用！](https://blog.csdn.net/python_LC_nohtyp/article/details/103291227)
+ > 从没感觉到线性代数的求矩阵特征值那么有用！
+ ## [Java学习经验与总结（01）](https://blog.csdn.net/shionagi/article/details/103253619)
+ > Java学习经验与总结（01）
+ ## [微机原理学习笔记](https://blog.csdn.net/qq_41259552/article/details/103291027)
+ > 微机原理学习笔记
+ ## [大数据概述:大数据技术为什么快?---传统数据与大数据处理方式对比](https://blog.csdn.net/weixin_43563705/article/details/103283779)
+ > 大数据概述:大数据技术为什么快?---传统数据与大数据处理方式对比
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
+ > 对计算机专业来说学历真的重要吗？
+ ## [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
+ > LeetCode解题汇总目录
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [论文“Structure-from-Motion Revisited” 对ISFM改进的理解](https://blog.csdn.net/Z5122/article/details/103287832)
+ > 论文“Structure-from-Motion Revisited” 对ISFM改进的理解
+ ## [shell-----简单商城平台购物脚本---循环、条件的混合使用](https://blog.csdn.net/qq_42761527/article/details/103281558)
+ > shell-----简单商城平台购物脚本---循环、条件的混合使用
 # PM 
  ## [可以优化App用户体验的方案](http://www.chanpin100.com/article/110182)
  > 当我们了解到一个群体的感受，比如说用户对产品的评价，一个用户的主观差评，可能是特例，但是多个用户给差评时，就已经能够客观的反映出一些事实。因此，尽管用户体验是主观的，但是也丝毫不影响我们对它的重视。
