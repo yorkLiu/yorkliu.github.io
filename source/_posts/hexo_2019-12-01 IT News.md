@@ -1,22 +1,26 @@
 ---
 title: 2019-12-01 IT News
 copyright: true
-date: 2019-12-01 09:01:04
+date: 2019-12-01 10:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [RMS指责：GitHub对Linux等自由软件造成了伤害](http://mp.weixin.qq.com/s?src=11&timestamp=1575162005&ver=2007&signature=cvn8E25YhW-2vPpjOdou*39g7Zf3jtSDeZIpHzWuh9fU*JUsDOzoSaa3ScT9*siCWjlJkwtjqRxaZvLfzo4ECpcShKSQG8JW4WcrA8gz30jLKtegUmGYwVPjrBT1NDuW&new=1)
- > RMS 当然不会无端指责 GitHub，事情的起因是一名开发者在 GNU 邮件列表发布了一封主题为“RMS: users request you perhaps program HURD: they fear the path the li
- ## [聚·管院|李越伦：219项专利，让创新落地](http://mp.weixin.qq.com/s?src=11&timestamp=1575162005&ver=2007&signature=vBpyY1gcPjlmqa46X-iwoPXyJrwCEXWwYqMYg4s4z*RISkkuaLlQIoMchvaFk9x97tpcMMOHxLINDHbgQCITZhm4ZHGir-zRSbjr*1AxqH4rxuJCmAIQP7Hy4E-0AVrQ&new=1)
- > 复旦管院于2008年启动了年度校友评选，旨在发现和表彰各领域中有成就的校友。“扎根中国、致力创新、践行使命、服务社会”——复旦大学管理学院一以贯之的责任与追求是年度校友脱颖而出的标杆。经过候选人征集、...
- ## [入股视频科技公司，「字节跳动」蓄力智能硬件|独家](http://mp.weixin.qq.com/s?src=11&timestamp=1575162005&ver=2007&signature=qKf00MfuwIAH2MzMsPxzCJWuBm9oiKvepW8xzaNUIJhdp8cNLs6GBrD1ijYe-7ib*p98nIyjG0XM6Mo60EfKD3vcdf4uElcXqx0y8qJi9cFPIg6k6aBPCMWbnYwAI-BS&new=1)
- > 儿童电话手表所需要的实时高清视频通话、AI定位等技术都与踪视通现有的技术积累无缝吻合。值得一提的是，华为、小米等手机厂商都已经在切入这一市场，同样有手机业务的字节跳动有很大可能会加入战局。作者 | 齐...
- ## [从小米人事变动谈引入人才与自主培养人才哪个更重要](http://mp.weixin.qq.com/s?src=11&timestamp=1575162005&ver=2007&signature=xK-Bk97H4GbE4udzUFueydSFQNAdN2YqjsWbLJVYEWCpHctoV4vvkE5ZYEP4mysdAmCGUoxb-6oizQQwJQymIQjai8910Ogl9TKieIgnShGsrMBS18T7ssDGISxVbM1I&new=1)
+ ## [从小米人事变动谈引入人才与自主培养人才哪个更重要](http://mp.weixin.qq.com/s?src=11&timestamp=1575163804&ver=2007&signature=xK-Bk97H4GbE4udzUFueydSFQNAdN2YqjsWbLJVYEWCpHctoV4vvkE5ZYEP4mysdcM3HxM1AcFlHhuUlfBH40rPNkaOt*2cb1CFqZviY2IkXMFaGXICeTq4NV-27YpAv&new=1)
  > 这几年小米一直都在进行人事调整，其中的主基调是人才年轻化，通过引入外来人才和自主培养的年轻领导者给管理层带来新鲜的血液，最新一轮调整后老将黎万强等人离开，至此小米七位创始人中已有三位（黎万强、周光...
- ## [重磅!刚刚，官方公布携号转网最新数据!(附日报明细)](http://mp.weixin.qq.com/s?src=11&timestamp=1575162005&ver=2007&signature=4ulZCm5MCAWfKCZpGMen0ErQp0hH*UZY7OU*rqN7vNuA6NyFXGyREvAB7zrVRAsf4wAOROGK3-pjNF62GSxNPso5L3K6Wd052NmEyW8qHe-pv8yQ*40I8MFcsWPFjxRw&new=1)
+ ## [入股视频科技公司，「字节跳动」蓄力智能硬件|独家](http://mp.weixin.qq.com/s?src=11&timestamp=1575163804&ver=2007&signature=qKf00MfuwIAH2MzMsPxzCJWuBm9oiKvepW8xzaNUIJhdp8cNLs6GBrD1ijYe-7ibjicQpsV6b6Q96j8PXoN5jv48bt*jnpWWsp2-A-9Is*6ctACD7HOT3du5lsA6OGFY&new=1)
+ > 儿童电话手表所需要的实时高清视频通话、AI定位等技术都与踪视通现有的技术积累无缝吻合。值得一提的是，华为、小米等手机厂商都已经在切入这一市场，同样有手机业务的字节跳动有很大可能会加入战局。作者 | 齐...
+ ## [聚·管院|李越伦：219项专利，让创新落地](http://mp.weixin.qq.com/s?src=11&timestamp=1575163804&ver=2007&signature=vBpyY1gcPjlmqa46X-iwoPXyJrwCEXWwYqMYg4s4z*RISkkuaLlQIoMchvaFk9x9oV8YxojvgrPpE8Yut5rZyyjH9nutvG5fqLx5*WlOM9H*QFmS9PMNp-keRyqoBqvW&new=1)
+ > 复旦管院于2008年启动了年度校友评选，旨在发现和表彰各领域中有成就的校友。“扎根中国、致力创新、践行使命、服务社会”——复旦大学管理学院一以贯之的责任与追求是年度校友脱颖而出的标杆。经过候选人征集、...
+ ## [重磅!刚刚，官方公布携号转网最新数据!(附日报明细)](http://mp.weixin.qq.com/s?src=11&timestamp=1575163804&ver=2007&signature=4ulZCm5MCAWfKCZpGMen0ErQp0hH*UZY7OU*rqN7vNuA6NyFXGyREvAB7zrVRAsf6Ebtcytv5XK2d8MyGWOt8QBvSI3UeShaUbMn9H2LfmDhvnjZfqLWczPRcUiWMo3j&new=1)
  > 【工信部数据：携号转网近半转入电信移动转出最多】工信部相关负责人27日透露：截至11月26日，中国电信、中国移动、中国联通转出用户数占全部转出用户的比例分别是16.3%、57.6%和26.1%，转入占比是49.3%、28.1...
+ ## [RMS指责：GitHub对Linux等自由软件造成了伤害](http://mp.weixin.qq.com/s?src=11&timestamp=1575163804&ver=2007&signature=cvn8E25YhW-2vPpjOdou*39g7Zf3jtSDeZIpHzWuh9fU*JUsDOzoSaa3ScT9*siCs0ow2Cj3*Q3MEmSkNW5OFr6OlCXSf*tFwwPlEaQ44c6X4sQckZpfI4UfuNy6ndl1&new=1)
+ > RMS 当然不会无端指责 GitHub，事情的起因是一名开发者在 GNU 邮件列表发布了一封主题为“RMS: users request you perhaps program HURD: they fear the path the li
 # IT 技术 
+ ## [面试官，不要再问我三次握手和四次挥手](https://blog.csdn.net/hyg0811/article/details/102366854)
+ > 
+ ## [99%的人不知道搜索引擎的6个技巧](https://blog.csdn.net/kebi007/article/details/103268254)
+ > 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
@@ -43,10 +47,6 @@ categories: IT NEWS
  > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
  ## [Java 那些最常用的工具类库 | 原力计划](https://blog.csdn.net/csdnnews/article/details/103331614)
  > 作者 |Java 识堂责编 | 屠敏出品 | CSDN（ID：CSDNnews）Apache CommonsApache Commons有很多子项目，常用的项目如下：BeanUtil...
  ## [腾讯再出新招！社交新产品“有记”已上线？](https://blog.csdn.net/csdnnews/article/details/103331617)
@@ -70,35 +70,35 @@ categories: IT NEWS
  ## [20 个最常用的 Git 命令用法说明及示例](https://blog.csdn.net/csdnnews/article/details/103331621)
  > 在这篇文章中，我将介绍在使用 Git 时最常使用的 20 个命令。作者|Sahiti Kappagantula译者 |弯月，责编 | 屠敏出品| CSDN（ID：CSDNnews...
 # 人工智能 
- ## [为了和偶遇的小姐姐开黑，我费尽心思查到了她的QQ](https://blog.csdn.net/flyfor2013/article/details/103248309)
- > 为了和偶遇的小姐姐开黑，我费尽心思查到了她的QQ
- ## [java实现俄罗斯方块游戏（swing练习）](https://blog.csdn.net/qq_33831360/article/details/103283304)
- > java实现俄罗斯方块游戏（swing练习）
- ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
- > 
- ## [闲的发慌](https://blog.csdn.net/qq_41788153/article/details/103269044)
- > 闲的发慌
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [为什么人人都应该玩儿点儿DIY？](https://blog.csdn.net/weixin_45881772/article/details/103294803)
- > 为什么人人都应该玩儿点儿DIY？
- ## [C 别踩白块儿](https://blog.csdn.net/Cocksuck/article/details/103308375)
- > C 别踩白块儿
- ## [C打字游戏（2）](https://blog.csdn.net/weixin_45787511/article/details/103304245)
- > C打字游戏（2）
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
- > 
- ## [codeforces1260D  A Game with Traps（二分+贪心）](https://blog.csdn.net/qq_43627087/article/details/103299126)
- > codeforces1260D  A Game with Traps（二分+贪心）
- ## [Codeforces - A Game with Traps](https://blog.csdn.net/weixin_43826249/article/details/103291316)
- > Codeforces - A Game with Traps
- ## [手把手教你将小程序项目跑起来【真自律小程序】](https://blog.csdn.net/shine_a/article/details/103315089)
- > 手把手教你将小程序项目跑起来【真自律小程序】
- ## [游戏行业指标](https://blog.csdn.net/chantisan/article/details/103286704)
- > 游戏行业指标
- ## [APP推广工具（总结）](https://blog.csdn.net/weixin_41937552/article/details/103307660)
- > APP推广工具（总结）
- ## [实习日记——Day18](https://blog.csdn.net/skyejy/article/details/103274837)
- > 实习日记——Day18
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 
     
