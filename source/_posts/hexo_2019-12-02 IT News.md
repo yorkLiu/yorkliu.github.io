@@ -1,7 +1,7 @@
 ---
 title: 2019-12-02 IT News
 copyright: true
-date: 2019-12-02 10:00:57
+date: 2019-12-02 12:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -75,21 +75,33 @@ O2O&#20108;&#25163;&#20132;&#26131;&#24179;&#21488;&#8220;&#38405;&#37051;&#8221
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [印度5G怎么了?运营商没什么热情……](http://mp.weixin.qq.com/s?src=11&timestamp=1575250205&ver=2009&signature=7xPlMbJkSIYEp910lHV1L-Ptwr1WXn1OLi01g2WXL*wZGgWEAV7kWWfO5GQgkOCeIt-oHgMZg-3LBqXtXGUk*pXeviyXONJ1DjbxlwXKvsk=&new=1)
- > 参考消息网12月2日报道 港媒称，印度移动运营商协会表示，由于频谱不足和基础价格过高，移动运营商可能会将5G网络部署至少推迟5年。尽管印度政府希望5G频谱拍卖能在明年初举行，但电信运营商对此却没什么热情。...
- ## [倒数3天!探索产学研新边界，英特尔智能机器人产学研合作研讨会招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1575250205&ver=2009&signature=nCoWzZYMsKdvFEmS5lidM9wZeXQRRU8dueyRQiGMh0E*d3z5ecqhGl4sFDPGBRR84fXtnvr1-t41bAPS-QPM02BK5l2RVCSmfLxRoR3Tutd8581ex2-BOQ*SLvKwpDQo&new=1)
- > 自2015年机器人创新生态持续发展，坚持以技术创新、市场加速和专业化服务为理念，目前已签约300+家机器人公司，汇聚1000+家核心供应商，连接20000+位线上活跃开发者；2019年生态再拓创新疆界，推动产学研融合，...
- ## [IIWeekly|A 轮融资 260 亿元，服务 BAT 的腾龙数据为什么这么「贵」?](http://mp.weixin.qq.com/s?src=11&timestamp=1575250205&ver=2009&signature=dRZ9-j2t-MOcsGRnV3Er85eX93zNUm1PLZWIWjMDuWFyCSG2j6xJbhT9opshxAVQoWlOpEqfCHrrPppObZG9YvmAzn8L32gXlyp1jny3UBSZCbw4tJGX48BHBMvqWfZj&new=1)
- > ·BAT 位列今年国内AI 云服务厂商前三 ·百度大脑发布语音交互的新技术 ·YC 中国将停止运营 ·亚马逊因云计算订单起诉美国国防部A 轮融资 260 亿元，服务 BAT 的腾龙数据为什么这么「贵」？11 月 28 日，中国本...
- ## [关注|国家信息光电子创新中心发布“创芯”成果 建设一流平台](http://mp.weixin.qq.com/s?src=11&timestamp=1575250205&ver=2009&signature=kOXVh*OTRfYZ5RlzpfWM1RYWbx2KqP41lSasTkFByywSpSXmPBiybGlHbE-gCSrapcx4PpcIjFKiZanDTO2JJyFejiRD6MeA8722RTG7vEpM5HSj3fcsLyswVpsuj5z6&new=1)
+ ## [美军解密“人机融合”计划，“超级士兵”或于2050年进入战场!|硅谷科技前沿周报](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=847rIRywIEy-6ZSJHbFa3-CAbV-4IZkKsNuEW5B3NbVBYWacYgJ1SXLZLt5OYRyIVHE-DYu5y1B9Xob79HZsiRFVrTRXFcvBtmaVJ24I9CfhahnNivX-kfUZJdk08MR9&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作大家好，一周硅谷热闻及技术前沿洞察又跟大家见面啦！在技术领域，美国军方解密了“人机结合”计划，将改造出“超级士兵”并于2050年投入战场？此外，华尔街发布研究...
+ ## [华为前员工被告敲诈勒索，刑拘 251 天；水滴筹：线下服务团队全面暂停；黑五网购销售额新纪录：74 亿美元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=dRZ9-j2t-MOcsGRnV3Er85eX93zNUm1PLZWIWjMDuWH2wbm9czJsHsjHvoqG0XKZHOz0iK7vUdYBeupgsa4rdssDPGjcezM-kOLbjU9ct2lxVmglx6iReKApdPmhMako&new=1)
+ > 水滴筹回应「随意填写筹款金额」：线下服务团队全面暂停11 月 30 日，梨视频一则《卧底水滴筹：医院扫楼，筹款每单提成》的视频曝光了水滴筹志愿者变身「顾问」做地推一事。这些水滴筹「顾问」们在各个医院「扫...
+ ## [可手机APP约车 实地集团的这款L4级无人驾驶通勤车落地社区](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=HGTnlNBua*2cChf11GTuCc4ghByQ9P6EK4ERO9XQlm50p3xejCj*EYbsKzoTIXzyYi6AA*ysOw0mni2E6e2X8uSqChOAxBiSdHgBtVqJkguGMvR9Ef0dtvanM86SfL1F&new=1)
+ > 近日，央视《新闻30分》报道了实地集团在实地·广州常春藤举行了hachi auto无人驾驶通勤车开放体验活动，这也是实地集团无人驾驶技术首次投入社区运营。 hachi auto实现社区场景下低速L4级无人驾驶hachi auto目...
+ ## [谷歌发布关于国家黑客的攻击报告](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=4EYcB*3o4ftt9E8VMnRAlz2mYmyqzRnUOgjXSGPeUCmUgu-9lHnD9pYJ9k-TRe6bx-iPe4EeY2YfKJOdkqOVJL0ymHtlGxgFVOQaDosAbfXqPg9ZplfkO0zN2VjZJXyZ&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，谷歌研究人员发布报告称，今年第三季度有1.2万名用户遭到了由政府支持的黑客攻击。其中，超过90％的用户受到了网络钓鱼攻击：黑客试图诱导受害者...
+ ## [我省典型经验做法 获国务院通报表扬](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=nD3F308AaLJYaDaT66VlbP0BNt715nhceo6Xnb9vPZoLTtaSnBwW4vpDC3sMvu4FmsgwazLdUm9a4h6G8hpK-QPsfoS3**CVJ1aVIvAvamM=&new=1)
+ > 本报讯 日前，国务院办公厅关于对国务院第六次大督查发现的典型经验做法给予表扬的通报发布，贵州省统筹“一云一网一平台”建设提升“一网通办”效能在列。　　贵州省建设的“一云一网一平台”，从政府数据...
+ ## [关注|国家信息光电子创新中心发布“创芯”成果 建设一流平台](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=kOXVh*OTRfYZ5RlzpfWM1RYWbx2KqP41lSasTkFByywSpSXmPBiybGlHbE-gCSraa6xjzoFba43Y3*5QWOnBjFxmEuL5fR4DGPoOznNEEPyJmuRKYNrfCniyuCBfSkx4&new=1)
  > 导读       11月12日，由国家信息光电子创新中心主办的第二届中国硅光产业论坛在武汉成功举办。国家信息光电子创新中心副董事长毛浩在会上发表开幕致辞，傅焰峰博士发表《国家信息光电子创新中心建设与发展》的...
- ## [深度：关于中国电信、中国联通5G网络的几点思考](http://mp.weixin.qq.com/s?src=11&timestamp=1575250205&ver=2009&signature=fAPzExPRHVKyT65jbYz0Gpqzb1gqAMfmPq8WB3i4ugIxIm7vSc76gY2EO1KHY0QRStRvjwoIuIrY-4zD6lJIIp0Nz402YBTnu0Kqi*WcUHlKxu7wy6zDnau*Lme7S6ue&new=1)
+ ## [印度5G怎么了?运营商没什么热情……](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=7xPlMbJkSIYEp910lHV1L-Ptwr1WXn1OLi01g2WXL*z4uBnPs4hbGY6ixKPvcu-14NUjSOfNCRrFZ2NpDFb-BdNbJ0tWAAKwpkAdOq7E85w=&new=1)
+ > 参考消息网12月2日报道 港媒称，印度移动运营商协会表示，由于频谱不足和基础价格过高，移动运营商可能会将5G网络部署至少推迟5年。尽管印度政府希望5G频谱拍卖能在明年初举行，但电信运营商对此却没什么热情。...
+ ## [倒数3天!探索产学研新边界，英特尔智能机器人产学研合作研讨会招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=nCoWzZYMsKdvFEmS5lidM9wZeXQRRU8dueyRQiGMh0E*d3z5ecqhGl4sFDPGBRR8YqhseRKOQ9C8iKCBFbYEcWPvoQ0r*4hMuGb0q19Ji0pHqSjXsOPF2mUNMpRfJ7nV&new=1)
+ > 自2015年机器人创新生态持续发展，坚持以技术创新、市场加速和专业化服务为理念，目前已签约300+家机器人公司，汇聚1000+家核心供应商，连接20000+位线上活跃开发者；2019年生态再拓创新疆界，推动产学研融合，...
+ ## [IIWeekly|A 轮融资 260 亿元，服务 BAT 的腾龙数据为什么这么「贵」?](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=dRZ9-j2t-MOcsGRnV3Er85eX93zNUm1PLZWIWjMDuWFyCSG2j6xJbhT9opshxAVQXckYv9VVWYtnglQycNGVSBGEUOy0FX30Y2WeLDbioIPz-*650W*jU45Qea6Z-p3x&new=1)
+ > ·BAT 位列今年国内AI 云服务厂商前三 ·百度大脑发布语音交互的新技术 ·YC 中国将停止运营 ·亚马逊因云计算订单起诉美国国防部A 轮融资 260 亿元，服务 BAT 的腾龙数据为什么这么「贵」？11 月 28 日，中国本...
+ ## [深度：关于中国电信、中国联通5G网络的几点思考](http://mp.weixin.qq.com/s?src=11&timestamp=1575259204&ver=2009&signature=fAPzExPRHVKyT65jbYz0Gpqzb1gqAMfmPq8WB3i4ugIxIm7vSc76gY2EO1KHY0QRNYjxci6bKp3ydvJO2hm7Ii1GT7iSDfQ0sAEGdziCqVpDmgb8vq7s7iBG*cx*WBkY&new=1)
  > 作者ID robertf来源 C114 通信人家园据了解，中国电信与中国联通终于扭转了建网思路，坐下来一起协商5G共建事宜，早就从4G就开始考虑的事，虽然姗姗来迟但总算开始了。主要是两家都缺钱，不像移动那么财大气粗，...
 # IT 技术 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
+ ## [MySQL数据库—SQL汇总](https://blog.csdn.net/qq_37969433/article/details/102637226)
+ > MySQL数据库—SQL汇总
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
  ## [《吐血整理》-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
@@ -98,13 +110,13 @@ O2O&#20108;&#25163;&#20132;&#26131;&#24179;&#21488;&#8220;&#38405;&#37051;&#8221
  > 兼职程序员一般可以从什么平台接私活？
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ > 
  ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
  > 
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [花了20分钟，给女朋友们写了一个web版群聊程序](https://blog.csdn.net/zzti_erlie/article/details/101060892)
  > 
  ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
  > 
@@ -113,8 +125,6 @@ O2O&#20108;&#25163;&#20132;&#26131;&#24179;&#21488;&#8220;&#38405;&#37051;&#8221
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
- > 
- ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
  > 
  ## [程序员并不适合创业，请不要无脑崇拜！](https://blog.csdn.net/csdnnews/article/details/103342131)
  > 【CSDN编者按】创业，多么富有感染力的一个词。对于我们IT界的人来说，我们身怀绝技，我们吃苦耐劳，是不是就意味着我们有着比其他人更好的优势呢？下面我们就以这位程序员的视角来看一下程序员创业可能遇到的问题吧。作者 |王晔倞责编|maozz我曾写过一篇名为 我是技术男，也曾创业过，...
@@ -136,57 +146,69 @@ O2O&#20108;&#25163;&#20132;&#26131;&#24179;&#21488;&#8220;&#38405;&#37051;&#8221
  > 作者| 苏琦本文经授权转自燃财经（ID:rancaijing）“15年前，我来美国要200万，被30家VC拒了。15年来我没放弃，这次来纽约就是想多要点钱回去。”这是2014年9月阿里...
  ## [中国有什么拿得出手的开源软件产品？｜原力计划](https://blog.csdn.net/csdnnews/article/details/103342132)
  > 作者| dotNET匠人责编 |郭芮出品 | CSDN 博客在知乎上，有个问题问“中国有什么拿得出手的开源软件产品（在 GitHub 等社区受欢迎度较好的）？”事实上，还不少呢~本人...
+ ## [寒武纪运营主体注册资本约增24222%至3.6亿元](http://www.lanjingtmt.com/news/detail/45074.shtml)
+ > 近日，寒武纪运营主体中科寒武纪科技股份有限公司注册资本由原来的约148万元增至3.6亿元，增幅约24222%。
+ ## [被非法羁押一年后，孟晚舟发文：客户和供应商给予支持和信任](http://www.lanjingtmt.com/news/detail/45073.shtml)
+ > 在被加拿大拘押一周年之际，华为“心声社区”发布了一封孟晚舟写于加拿大温哥华的公开信。
+ ## [工信部约谈小米、用友等18家垃圾信息问题严重企业](http://www.lanjingtmt.com/news/detail/45071.shtml)
+ > 11月29日，工信部针对部分移动转售企业垃圾信息严重扰民问题，集体约谈了18家移动转售企业，小米、用友、迪信通在列。
  ## [网易探探加码社交投入，多场景社交能否成下一增长点](http://www.lanjingtmt.com/news/detail/45070.shtml)
  > 业内认为，网易等巨头纷纷入局，意味着传统的社交应用正在向多场景社交应用转型，多场景社交将为平台商业变现提供更多可能，或将成为下一增长点。
 # 人工智能 
- ## [JavaWeb学生成绩管理系统](https://blog.csdn.net/ylcto/article/details/94730079)
- > JavaWeb学生成绩管理系统
- ## [mitmproxy证书装不上](https://blog.csdn.net/a6864657/article/details/100246252)
- > mitmproxy证书装不上
- ## [Java设计模式-组合模式](https://blog.csdn.net/cblstc/article/details/91788768)
- > Java设计模式-组合模式
- ## [ 写论文也要告别abandon模式](https://blog.csdn.net/iCloudEnd/article/details/94785803)
- >  写论文也要告别abandon模式
- ## [类似qq,微信不受监控安全的聊天工具推荐](https://blog.csdn.net/jiangwudidebaba/article/details/100734997)
- > 类似qq,微信不受监控安全的聊天工具推荐
- ## [程序员鄙视链！ | 每日趣闻](https://blog.csdn.net/csdnsevenn/article/details/101180547)
- > 程序员鄙视链！ | 每日趣闻
- ## [峰会回顾|现场干货来袭！](https://blog.csdn.net/nanshanfu/article/details/100776584)
- > 峰会回顾|现场干货来袭！
- ## [公司部门和职称](https://blog.csdn.net/qq_42363892/article/details/100359434)
- > 公司部门和职称
- ## [php开发之Composer包](https://blog.csdn.net/mrtwenty/article/details/97426344)
- > php开发之Composer包
- ## [基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现](https://blog.csdn.net/demongwc/article/details/85122172)
- > 基于ASP.NET和SQL SERVER数据库的招聘网站设计与实现
- ## [什么是B端C端](https://blog.csdn.net/liu_Yudong/article/details/91430871)
- > 什么是B端C端
- ## [史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)](https://blog.csdn.net/sym134/article/details/93971142)
- > 史上最精简教程-教育邮箱注册JetBrains产品(webstorm、phpstorm、pycharm、idea等)
- ## [Android——多语言适配](https://blog.csdn.net/weixin_37758967/article/details/97241429)
- > Android——多语言适配
- ## [公司的企业文化 管理](https://blog.csdn.net/qq_27366859/article/details/97150848)
- > 公司的企业文化 管理
- ## [Fluke Corporation收购工业可靠性领导者普卢福](https://blog.csdn.net/sinat_41698914/article/details/96879521)
- > Fluke Corporation收购工业可靠性领导者普卢福
+ ## [Hierarchical Clustering Must Read Papers](https://blog.csdn.net/weixin_40400177/article/details/103326971)
+ > Hierarchical Clustering Must Read Papers
+ ## [11月30日科技资讯|网易裁员事件双方和解；PHP 7.4.0 发布](https://blog.csdn.net/weixin_39786569/article/details/103322015)
+ > 
+ ## [\[Python人工智能\] 二.TensorFlow基础及一元直线预测案例](https://blog.csdn.net/Eastmount/article/details/103322331)
+ > 
+ ## [win10安装Anaconda+tensorflow2.0-CPU+Pycharm](https://blog.csdn.net/Mrweng1996/article/details/103332500)
+ > win10安装Anaconda+tensorflow2.0-CPU+Pycharm
+ ## [基于Anaconda的tensorflow与OpenCV的安装（Ubuntu环境下）](https://blog.csdn.net/weixin_44332147/article/details/103323557)
+ > 基于Anaconda的tensorflow与OpenCV的安装（Ubuntu环境下）
+ ## [最优路径算法（python）](https://blog.csdn.net/qq_43241439/article/details/103286176)
+ > 最优路径算法（python）
+ ## [模型上线后，如何做好模型监控](https://blog.csdn.net/weixin_43931438/article/details/103333956)
+ > 模型上线后，如何做好模型监控
+ ## [一图看懂Python生态圈图像格式转换](https://blog.csdn.net/xufive/article/details/103313966)
+ > 
+ ## [Python实战：使用selenium刷访问量](https://blog.csdn.net/m1090760001/article/details/103329077)
+ > Python实战：使用selenium刷访问量
+ ## [selenium.common.exceptions.WebDriverException: Message: 'chromedriver'解决](https://blog.csdn.net/weixin_44318830/article/details/103339273)
+ > selenium.common.exceptions.WebDriverException: Message: &x27;chromedriver&x27;解决
+ ## [General Idea Must Read Papers](https://blog.csdn.net/weixin_40400177/article/details/103326505)
+ > General Idea Must Read Papers
+ ## [决策树ID3详解（西瓜案例）](https://blog.csdn.net/qq_37344125/article/details/103327909)
+ > 决策树ID3详解（西瓜案例）
+ ## [Python深浅copy](https://blog.csdn.net/weixin_43509127/article/details/103336594)
+ > Python深浅copy
+ ## [C多窗体传递数据](https://blog.csdn.net/qq_38275604/article/details/103335873)
+ > C多窗体传递数据
+ ## [深度学习part1：神经网络的构建与理解](https://blog.csdn.net/qq_45603919/article/details/103331515)
+ > 深度学习part1：神经网络的构建与理解
 # PM 
- ## [人工智能助手的对话设计指南](http://www.woshipm.com/pd/3160125.html)
- > 本文列举了人工智能助手的对话设计的8个设计要点与注意事项。在给别的东西起名的时候，设计师是最富有想象力的人。就在前几天，我发现几乎所有的菜单都是以食物来命...
- ## [产品设计：商城中的优惠券和促销活动](http://www.woshipm.com/pd/3158125.html)
- > 在电商业务中经常可以看到各种优惠促销的手法，常见的有：优惠券、促销活动、秒杀活动、拼团活动、预售活动等等，本文就对常见的营销方式相关的产品功能进行详细的说明...
- ## [对用户来说，交互设计价值观的意义是什么？](http://www.woshipm.com/pd/3159603.html)
- > 上一篇，分享了对交互设计价值观的理解，更多是从从业者的视角出发。这一篇，会从用户的视角出发，探讨一下这四个价值观的价值。对用户而言，这四个价值观有什么价值...
- ## [如何进行有效需求分析（4）：场景篇](http://www.woshipm.com/pmd/3159964.html)
- > 欢迎来到大型情感类专题：如何进行有效需求分析——业务场景篇！场景二字，或许我们再熟悉不过了，在整个产品的实现过程中，它都是这么的如影随形。场景是很具体的，因为...
- ## [思考，让你从产品困局突围](http://www.woshipm.com/pmd/3154431.html)
- > 作为产品人，思考最重要且最根本的竞争力。曾经何时，觉得产品经理都是以会写PPT，口才好，原型画得精美为优秀产品经理的标配。可随着接触的工作越来越多，明白了想要...
- ## [企业内训 | 安防行业巨头B端产品经理转型之路](http://www.woshipm.com/it/3156664.html)
- > 纵观安防产业过去几十年的发展历程，从开始的被动监控演变到如今的智能分析，发展重心逐渐朝AI，大数据，云计算等互联网创新技术发展。推动安防行业互联网化发展的主力...
- ## [如何用故事设计的方法做需求分析？](http://www.woshipm.com/pd/3157243.html)
- > 笔者从写小说、设计故事的思路出发，类比了如何用这一思路做需求分析。故事的起点平时我会写一些超短篇的小小说来练练笔，因此如何通过设计故事情节来突出我想要表达...
- ## [字节跳动面试题：如何向盲人描述黄色？](http://www.woshipm.com/zhichang/3157596.html)
- > 本文以5W1H为方法，引出了如何解答这道题的思路，此外笔者将结合产品思路和面试技巧来尝试作答。最近，看到一道很有意思的字节跳动的面试题：如何给盲人描述黄色 ？...
- ## [成为K12专家第一步，市场调研不能少](http://www.woshipm.com/pmd/3142403.html)
- > K12教育机构这么多，如何为自己的学校引来更多流量，市场调研在这时就成为了首要工作。弄清楚了市场，才能更好地进行下一步。市场调研是指什么？运用科学的方法、系...
+ ## [起点学院5周年公开课丨12月9场关于产品/运营/增长的行业直播分享，快来免费预约！](http://www.woshipm.com/it/3159441.html)
+ > 12月的上半月，被我们承包啦！2019年12月，我们终于迎来了起点学院5周年庆！作为人人都是产品经理旗下的教育品牌，起点学院，不知不觉已经陪伴大家5年啦！5年，你可...
+ ## [3问产品经理](http://www.woshipm.com/pmd/3161089.html)
+ > 2019年10月19-20日，人人都是产品经理举办的【 2019上海产品经理大会】完美落幕。饿了么高级产品专家 刘潇老师，她为我们带来《从基石到武器，业务系统的进阶之路》阅...
+ ## [数据产品经理：从埋点系统搭建到数据可视化落地](http://www.woshipm.com/pmd/3161181.html)
+ > 这些都是本文作者在数据分析这条路上踩过的坑，作者进行复盘与反思，供大家学习与参考。。数据是产品的宝藏，数据分析就是产品设计中，挖宝藏的过程。「数据分析指...
+ ## [如何应对不断变化的B2B用户购买旅程？（1）](http://www.woshipm.com/it/3157892.html)
+ > 本文重点探讨B2B以业绩为导向的用户购买旅程，聚焦到线索生命周期管理（LLM），了解潜客在与公司的互动中的流程、需求和感知，明确用户购买旅程中的关键时刻。截至201...
+ ## [分销代理模式：为什么要做培训？](http://www.woshipm.com/it/3157776.html)
+ > 本文从分销代理模式做培训的必要性以及如何做展开了说明。仅以个人的经验来说，除了现金流。分销代理模式的社交电商，还要有这三板斧：供应链、团队长和培训。但是大...
+ ## [展望2020年的长视频与剧集行业：尘埃落定？一切才刚开始……](http://www.woshipm.com/it/3160843.html)
+ > 长视频行业的竞争格局已经尘埃落定了吗？一切恐怕才刚刚开始。长视频行业：已经定局还是刚刚开始？近年来，长视频行业的竞争格局似乎稳定了：爱奇艺、腾讯视频、优酷...
+ ## [人生运营术：做自己的COO](http://www.woshipm.com/zhichang/3160186.html)
+ > 把自己的人生当作一款产品来运营，做自己的首席运营官，让运营改变人生。上周发布了我原创的《一学即会的人生运营术》后，很多朋友留言，点赞并收藏，这次我就继这个...
+ ## [Banner轮播图有哪些设计要点？](http://www.woshipm.com/pd/3160875.html)
+ > 本文从产品设计角度列举了以及相应注意事项。作为日常交通工具，地铁站内每天人来人往，人们总是被站内各种各样的广告给吸引，绚丽的色彩，突出的文案，无论行路多么...
+ ## [交互设计如何“展开诱惑”？](http://www.woshipm.com/ucd/3160715.html)
+ > 在使用某些产品的时候，不经意间会发现一些交互上的小心机，这些都是设计师留下的“诱惑”。交互设计是产品让人怦然心动的基础。一、你的设计有趣吗？要试着在设计中...
+ ## [数据可视化设计经验分享：城市GDP大屏案例【进阶篇】](http://www.woshipm.com/pd/3160593.html)
+ > 本期分享城市GDP大屏数据可视化设计，通过设计让表格里杂乱的数据更好的可视化呈现；通过数据的背景定义设计主题；通过分类数据构图布局页面；通过黄金比例让元素间更有...
+ ## [深度解析：产品冷启动背后的运营策略](http://www.woshipm.com/operate/3158099.html)
+ > 冷启动——在社交产品内，用户建立有效关系并持续产生内容及互动前，产品所处的状态。本文作者结合相关冷启动的案例，对冷启动背后的运营策略进行了分析，供大家参考学习...
+ ## [“小年糕+”称霸小程序排行榜，它凭什么和拼多多竞争？](http://www.woshipm.com/operate/3139142.html)
+ > 一个银发人群工具小程序，何以长期占据小程序TOP榜单前五？  这个名为“小年糕+”的小程序，有着怎样的产品和运营套路？阿拉丁指数每个月都会发布一期微信小程序TOP榜单...
 
     
