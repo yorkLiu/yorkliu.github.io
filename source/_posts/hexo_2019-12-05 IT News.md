@@ -1,7 +1,7 @@
 ---
 title: 2019-12-05 IT News
 copyright: true
-date: 2019-12-05 09:00:53
+date: 2019-12-05 10:01:42
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -63,15 +63,27 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [携号转网各地大揭秘：三大运营商普遍叫苦，员工直言没见过这样的行业!](http://mp.weixin.qq.com/s?src=11&timestamp=1575507604&ver=2015&signature=zC2cgX37T6Vg74KuOw8-KNnm-4itTMUVA6N9MXW2KxWHXF1bTjf1lK0FfEwGzBpHsazoGsfHLTntsvKii38y0KELql2MKeWEBaqgtTnPh4qENEBQpzpXPUKZI*TvBKCR&new=1)
+ ## [严重扰民，十分恶劣!工信部约谈小米、迪信通等18家企业](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=2r13SpauO8R4NAe9M-FtCPw28npY1VCtUw18kCWnxYwIIIZ-W6YBFakweK-JJN-ohAUMS0A8o8DRHzD5H4N9uRVhvvhTd5fB20l7ZmPQoFAwjqBK*cJ1lMT5C66CpCXy&new=1)
+ > 文／《财经国家周刊》记者 李瑶约谈不见效的话，是时候考虑更强硬有效的监管措施了。工信部网站公布的信息显示，近期，工信部针对部分移动转售企业垃圾信息严重扰民问题，集体约谈了小米科技、迪信通等18家移动...
+ ## [讯石推荐|第六届讯石英雄榜正式启动 诚邀您上榜!](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=UBqgQNOVgrQ77fsSCjhr--s6m7H96yfL8LCWVscE09*Ww2WzvRA7zPBs15gk8WrnPnWYQH1pVC-Hh6b*JXU*7E-uJ9*mbsEfTtq-br6lp-90uQ97fWEsvG3QqDw9K7aG&new=1)
+ > 导读     12月2日，第六届讯石英雄榜——《2019年光通信最具竞争力产品》正式启动，诚邀广大光通信企业踊跃报名。讯石英雄榜是展示企业技术实力的平台，欢迎满怀雄心壮志的光通信企业们积极报名参选“讯石2019年...
+ ## [7点见|董明珠：美的和小米是小偷加小偷；国行任天堂Switch发布；高通暗讽华为不是真5G](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=z7b3vjbHb0yiOmwTf2N3HWOBD1v6JcXW4UK9qoZG-TJvlzZ1lcc7U5dXg8vYTJsc-o-0ZW9y-ri-by8HLI*YlguA7tqTEv3U4sTtAJB4dIelv5A7LFqzOzGbXRqHMD6T&new=1)
+ > 各位小伙伴们，早上好呀！又到一年年底，年度盘点词汇即将出现。我和我的祖国、国庆、盘、区块链、5G、柠檬精、都挺好、我太南了、夸夸群、雨女无瓜、哪吒、燃……你觉得今年最热门词汇是什么？哪些有你的故事？...
+ ## [高通下一代旗舰骁龙865正式发布：外挂「真5G」，小米10将首发](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=Jqym8rC*ZZCArXXwpzqQ-cG3GOjfprpNSSVWfgJxEovEcRCoBibsRi4JJ95cz71QKd2SFrJwuFLffO4WlUJm-Vb2khdT*utjnT5EifGhaHszVV281LsSwkZRArQUgYsw&new=1)
+ > 机器之心报道机器之心编辑部今日凌晨，高通发布骁龙 865 旗舰芯片，通过外挂二代 5G 模组的方式支持 5G，同时率先支持了毫米波通信方式。与此同时，高通还发布了中高端芯片骁龙 765 系列，后者内置 5G 基带。图...
+ ## [携号转网各地大揭秘：三大运营商普遍叫苦，员工直言没见过这样的行业!](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=zC2cgX37T6Vg74KuOw8-KNnm-4itTMUVA6N9MXW2KxULUHSYbAEAzswkHRtp7YmQLne1leG2yzTbP1W-NLp*3UlUFgxlp-Vk1JPyxF8cG9B3DUoXHqQKLwAaLwomtjT9&new=1)
  > 来源 运营商财经网近日，运营商财经网独家获悉了三大运营商携号转网的数据，截至27日，三大运营商转携成功数达到15226人，中国电信净携入3174人，中国移动净携入-1694人，联通净携入-1480人。同时，各个省份的携...
- ## [美国巨头发布最新芯片，将用于中国品牌手机——](http://mp.weixin.qq.com/s?src=11&timestamp=1575507604&ver=2015&signature=BI7S8uE0OvzQHRrupWzXi1P6MEUpfv3yg6cRjMU4Ot5Pv2xOwLK54gncPcvCd*7TdDq0khWi5yQfgvFV4BBqwbVeg68xFWJXbbnUklzAnIk=&new=1)
+ ## [美国巨头发布最新芯片，将用于中国品牌手机——](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=BI7S8uE0OvzQHRrupWzXi1P6MEUpfv3yg6cRjMU4Ot4h1UDfSyVwpEFozmWBZK2XKCNKd3JQ-q-abcux1udTvJzs*Q4InRNRkQyOEEJgiKo=&new=1)
  > 参考消息网12月5日报道 境外媒体报道称，高通在美国夏威夷举办年度技术高峰会，并于当地时间12月3日正式宣布，推出两款全新5G芯片骁龙865以及骁龙765/765G。据台湾中时电子报12月4日报道，高通移动业务副总裁亚...
- ## [哈尔滨地铁将“刷脸”“刷手”就能进站，站内还有机器人服务，方便!](http://mp.weixin.qq.com/s?src=11&timestamp=1575507604&ver=2015&signature=BirCvigbcuBeMdIWZKTTof-CCz0tiJ8SrXZT8wrCQiU1nnLJUTmQdfk-nLNVvy8Q0DxqNEl7ZiwTVdxkTI7z-7RjJ6K*H7C-Ynd2T9cS4nq-GkYwjfXnArzEtb2fe7vu&new=1)
+ ## [哈尔滨地铁将“刷脸”“刷手”就能进站，站内还有机器人服务，方便!](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=BirCvigbcuBeMdIWZKTTof-CCz0tiJ8SrXZT8wrCQiWZFsiBJvM6sO2N5eFOBpdfwElw64pPY6yemZjwzHNPspZ*kqZYWS4w1g5dijyS-f-kLkLxHcQilN9qt*pSeESb&new=1)
  > 4日，哈尔滨轨道交通“智慧地铁”项目专家评审会召开，据介绍，新建的地铁2号线开通后计划使用无感支付，刷脸、刷手就能进站，既有的1号线支付系统将逐步升级。4日，哈尔滨地铁集团邀请国内顶尖行业专家团队对哈...
- ## [劈柴正式全权接管谷歌，硅谷要被印度人掌握了?](http://mp.weixin.qq.com/s?src=11&timestamp=1575507604&ver=2015&signature=0MXE7co7QH9RF-KF9SrJnX9QtNyaWLBRinintLqjcCubki5SkdvWKz3xqnlAjGo6veEi5iJPhIzA6KS-mbY4Uz8E-StImZ8oqW2bJI5rAnBYdTm*W0oWnLIH97CGivw9&new=1)
+ ## [劈柴正式全权接管谷歌，硅谷要被印度人掌握了?](http://mp.weixin.qq.com/s?src=11&timestamp=1575511204&ver=2015&signature=0MXE7co7QH9RF-KF9SrJnX9QtNyaWLBRinintLqjcCts4JetZDEt5OjrTmTUc6BW3ulUwod11EKGSsRNgoI91QYrI4DPQJy6DsoWhOTA9mpQhMK7ieeeZjV0IFFzZq99&new=1)
  > 今天硅谷科技圈出了个大事件。。。谷歌母公司 Alphabet 的 CEO 换人了，变成了现在的谷歌 CEO 劈柴哥 （ Sundar Pichai ）。谷歌是怎么建立的，差友们应该有印象吧？1996 年，两位小伙（ 大佬 ）拉里·佩奇（ L
 # IT 技术 
+ ## [5G和物联网掀起革命浪潮，提供新价值](http://network.51cto.com/art/201912/607257.htm)
+ > 5G和物联网掀起革命浪潮，提供新价值
+ ## [时域音频分离模型登GitHub热榜，效果超传统频域方法](http://news.51cto.com/art/201912/607232.htm)
+ > 时域音频分离模型登GitHub热榜，效果超传统频域方法
  ## [全球数字货币战争的三条战线](http://blockchain.51cto.com/art/201912/607201.htm)
  > 全球数字货币战争的三条战线
  ## [HTTPS原理看了很多，这个是最清晰的！](http://netsecurity.51cto.com/art/201912/607179.htm)
@@ -84,10 +96,20 @@ categories: IT NEWS
  > 这句简单的SQL，如何加索引？颠覆了我多年的认知
  ## [AI公司成人礼：自由撞上996，技术理想撞上落地战争](http://news.51cto.com/art/201912/607231.htm)
  > AI公司成人礼：自由撞上996，技术理想撞上落地战争
- ## [5G的7大用途，你知道几个？](http://zhuanlan.51cto.com/art/201912/607174.htm)
- > 5G的7大用途，你知道几个？
- ## [漫话：是时候说说到底什么是IPv4和IPv6了](http://network.51cto.com/art/201912/607212.htm)
- > 漫话：是时候说说到底什么是IPv4和IPv6了
+ ## [GitHub 长期被中国人“霸榜”？看完榜单我呆了...](http://news.51cto.com/art/201912/607260.htm)
+ > 不管在什么时候看 GitHub Trending，基本上都能看到很多由中国开发者创建的 repo，最极端的时候，甚至出现
+ ## [probie 菜鸟翻译工具开源了](http://news.51cto.com/art/201912/607256.htm)
+ > 菜鸟翻译是我从事开发者多年一直想要的一款工具，他可以让英语差的开发者也能写出标准的代码，并且可以看
+ ## [这是什么神仙数据 Windows 7占比不降反升](http://os.51cto.com/art/201912/607252.htm)
+ > Win7系统，是微软公司开发的，推出至今已有11年时间，然而微软官微表示，微软将于2020年1月14日对Windows 7
+ ## [通信的未来研究方向，究竟在哪里？](http://network.51cto.com/art/201912/607254.htm)
+ > 这个大会是由中国通信学会主办的，相对于MWC和PT展来说，更具学术色彩。与会的嘉宾，基本上都是ICT领域的权
+ ## [【5G百科】5G是怎么实现TDD的？](http://network.51cto.com/art/201912/607251.htm)
+ > 本期5G百科的主题是：5G是怎么实现TDD的? 首先我们先看看一些基本概念，明确下TDD和FDD的区别，以及实现TDD
+ ## [Bash脚本实现每次登录到Shell时可以查看Linux系统信息](http://os.51cto.com/art/201912/607253.htm)
+ > Linux 中有很多可以查看系统信息如处理器信息、生产商名字、序列号等的命令。你可能需要执行多个命令来收集
+ ## [细数那些年遇到过Mybatis的这些坑！案例+解决方案](http://os.51cto.com/art/201912/607250.htm)
+ > 大多数开发者应该都使用过Hibernate或者Mybatis的框架，或多或少都踩过一些坑!
  ## [工控网络安全学习路线](http://netsecurity.51cto.com/art/201912/607249.htm)
  > 对于我国而言，工业控制系统安全所面临的重要问题是自主可控的问题，我国在工控领域对国外设备和技术的依赖
  ## [记住一个小公式，轻松计算大型OSPF网络中的邻接关系数量](http://network.51cto.com/art/201912/607248.htm)
@@ -98,6 +120,8 @@ categories: IT NEWS
  > 兼职程序员一般可以从什么平台接私活？
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
+ ## [在r语言中使用GAM（广义相加模型）进行电力负荷时间序列分析](https://blog.csdn.net/qq_19600291/article/details/103256725)
+ > 在r语言中使用GAM（广义相加模型）进行电力负荷时间序列分析
  ## [《吐血整理》系列-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
@@ -106,64 +130,76 @@ categories: IT NEWS
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [AJAX大总结](https://blog.csdn.net/hebtu666/article/details/103325397)
+ > 
  ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
  > python学习目录
  ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
  > 
- ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
+ ## [SpringCloud Alibaba微服务实战二 - 服务注册](https://blog.csdn.net/jianzhang11/article/details/103370622)
  > 
- ## [基于SkyWalking的分布式跟踪系统 - 异常告警](https://blog.csdn.net/jianzhang11/article/details/102982814)
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [Java 浅拷贝、深拷贝，你知多少？](https://blog.csdn.net/z694644032/article/details/103383214)
+ ## [【超详细总结】腾讯面试题：一条 sql 语句执行的很慢的原因有哪些？](https://blog.csdn.net/m0_37907797/article/details/103347579)
  > 
  ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
  > 比特币原理详解
- ## [Python快速编程入门课后习题答案](https://blog.csdn.net/lzyws739307453/article/details/103220758)
- > Python快速编程入门课后习题答案
- ## [2019年Spring Boot面试都问了什么？快看看这22道面试题！](https://blog.csdn.net/Design407/article/details/103263416)
- > 
- ## [BAT程序员必备技能调研，你中了几招？](https://blog.csdn.net/csdnnews/article/details/103397287)
- > 程序员想进入腾讯、华为，必备的技能都有哪些？至少你需要有分析问题的能力、设计解决方案的能力、编码实施的能力、排除故障的能力、以及扎实的数学基础。不过，程序员能力强弱，最后拼的是数学...
- ## [大横琴科技联合阿里云发布全国首个跨境服务创新平台琴澳通](https://blog.csdn.net/csdnnews/article/details/103384149)
- > 12月3日，阿里云广东峰会期间，大横琴科技公司联合阿里云发布了全国首个跨境服务创新平台。基于该平台，全国首个跨境服务APP“琴澳通”也正式发布。“琴澳通”将为澳门企业及个人提供服务，推动澳门和广东两地的产业经济联动，数字化升级。通过跨境多维大数据服务云平台，琴澳通可以连接横琴和澳门特区政府...
- ## [泡着枸杞写bug的三流程序员凭什么逆袭到一线大厂?你不服不行!](https://blog.csdn.net/csdnnews/article/details/103397275)
- > 最近经常有朋友提及，想要入门深度学习，该如何学习？关于深度学习，网上的资料很多，不过貌似大部分都不太适合初学者。我曾经是一名三流程序员，每天的工作内容就是在前人留下的 bug 上写新的...
+ ## [房多多2019年第三季度财报出炉，净利润同比增204.9%](http://www.lanjingtmt.com/news/detail/45111.shtml)
+ > 房多多发布2019年第三季度财报显示，第三季度收入为9.48亿元人民币（约1.326亿美元），同比增长71.9%。
  ## [呆萝卜、妙生活接连折戟，生鲜电商迎来新一轮洗牌期](http://www.lanjingtmt.com/news/detail/45110.shtml)
  > 近日，生鲜电商平台呆萝卜总部遭供应商围堵，其杭州中心已正式关闭。而另一社区生鲜电商平台妙生活日前也被曝正大量关店。业内人士分析认为，生鲜电商不断“烧钱”的模式难以为继，行业已迎来新
 # 人工智能 
- ## [hive表中的数据导出:表数据的导出7种方式](https://blog.csdn.net/weixin_45737446/article/details/103345425)
- > hive表中的数据导出:表数据的导出7种方式
- ## [Sqoop --增量导入，更新导出（updateonly模式），（allowinsert模式）](https://blog.csdn.net/weixin_44036154/article/details/103345069)
- > Sqoop --增量导入，更新导出（updateonly模式），（allowinsert模式）
- ## [Sqoop安装详细步骤（小白也看的懂）](https://blog.csdn.net/weixin_44466534/article/details/103345283)
- > Sqoop安装详细步骤（小白也看的懂）
- ## [看完这篇还不会用Git，那我就哭了！](https://blog.csdn.net/qq_27276045/article/details/103282071)
- > 
- ## [阿里正式开源通用算法平台Alink，“双11”将天猫推荐点击率提升4％](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103320352)
- > 阿里正式开源通用算法平台Alink，“双11”将天猫推荐点击率提升4％
- ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
- > 
- ## [天天学JAVA-JAVA资源分享(此文持续更新)](https://blog.csdn.net/qq_15127715/article/details/102848858)
- > 天天学JAVA-JAVA资源分享(此文持续更新)
- ## [Linux常用命令总结](https://blog.csdn.net/KH_FC/article/details/103343971)
- > Linux常用命令总结
- ## [shell脚本部署mysql主从](https://blog.csdn.net/yinhangtian/article/details/103352238)
- > shell脚本部署mysql主从
- ## [关于CSDN"原力计划"活动说明](https://blog.csdn.net/blogdevteam/article/details/102701500)
- > 关于CSDN&quot;原力计划&quot;活动说明
- ## [hive表中加载数据方式:表数据的导入五种方式](https://blog.csdn.net/weixin_45737446/article/details/103345358)
- > hive表中加载数据方式:表数据的导入五种方式
- ## [HIVE --管理表（表分隔符，外部表，分区表，分桶表，hive载入数据，导出数据）](https://blog.csdn.net/weixin_44036154/article/details/103300274)
- > HIVE --管理表（表分隔符，外部表，分区表，分桶表，hive载入数据，导出数据）
- ## [22 Mac 下安装压力测试工具JMeter](https://blog.csdn.net/qq_20042935/article/details/103348702)
- > 22 Mac 下安装压力测试工具JMeter
- ## [Linux文件操作高频使用命令](https://blog.csdn.net/gexiaoyizhimei/article/details/100122368)
- > Linux文件操作高频使用命令
- ## [学会了这些技术，你离BAT大厂不远了](https://blog.csdn.net/z694644032/article/details/100084287)
- > 学会了这些技术，你离BAT大厂不远了
+ ## [一些提高工作效率的黑科技软件和网站](https://blog.csdn.net/qq_28299311/article/details/103198917)
+ > 一些提高工作效率的黑科技软件和网站
+ ## [免费获取CSDN超级会员，随意更换博客皮肤，了解一下？（勿点）](https://blog.csdn.net/tonglin12138/article/details/103350095)
+ > 免费获取CSDN超级会员，随意更换博客皮肤，了解一下？（勿点）
+ ## [SMPTE ST 2110 概论（二）](https://blog.csdn.net/Cidd0422/article/details/103343678)
+ > SMPTE ST 2110 概论（二）
+ ## [MFC5 基本图形绘制](https://blog.csdn.net/weixin_43871207/article/details/103349138)
+ > MFC5 基本图形绘制
+ ## [已解决(新)最新抖音无水印解析原理再分析过程，抖音快手api](https://blog.csdn.net/chl191623691/article/details/103329468)
+ > 已解决(新)最新抖音无水印解析原理再分析过程，抖音快手api
+ ## [论代码规范的重要性](https://blog.csdn.net/weixin_45228755/article/details/103348238)
+ > 论代码规范的重要性
+ ## [NVR录像机RTSP协议实时流转RTMP协议直播流推送方案EasyRTMPLive运行报0xc000007b错误的原因解析](https://blog.csdn.net/TsingSee/article/details/103348402)
+ > NVR录像机RTSP协议实时流转RTMP协议直播流推送方案EasyRTMPLive运行报0xc000007b错误的原因解析
+ ## [数字图像处理复习](https://blog.csdn.net/qq_39431829/article/details/103350365)
+ > 数字图像处理复习
+ ## [Visual Studio 2019 16.3.10 初体验](https://blog.csdn.net/admans/article/details/103346426)
+ > Visual Studio 2019 16.3.10 初体验
+ ## [数字电路实验（十四）——CPU综合设计（10）](https://blog.csdn.net/qq_40851744/article/details/103352963)
+ > 数字电路实验（十四）——CPU综合设计（10）
+ ## [nodeJs入门到精通完整视频分享](https://blog.csdn.net/ActivedKid/article/details/103346123)
+ > nodeJs入门到精通完整视频分享
+ ## [用android实现GB28181的视音频前端设备](https://blog.csdn.net/wangjie_jack/article/details/102968738)
+ > 用android实现GB28181的视音频前端设备
+ ## [海康工业相机 SDK （C ）二次开发 -------适配Gray图像和RGB图像](https://blog.csdn.net/qq_41653486/article/details/103349208)
+ > 海康工业相机 SDK （C ）二次开发 -------适配Gray图像和RGB图像
+ ## [线程与线程同步心得](https://blog.csdn.net/qq_42516974/article/details/103344828)
+ > 线程与线程同步心得
+ ## [图像处理与分析 && 计算机视觉 && 医学图像](https://blog.csdn.net/Co_zy/article/details/100983627)
+ > 图像处理与分析 &amp;&amp; 计算机视觉 &amp;&amp; 医学图像
 # PM 
- ## [2019中国开放银行发展专题分析（案例篇）](http://www.woshipm.com/evaluating/3171726.html)
- > 未来，5G规模商用将真正实现万物互联，加速银行数字化开放变革。在全球开放银行热潮下，中国各银行机构纷纷布局开放银行战略，有转向重金融服务弱化银行实体的趋势，...
+ ## [如何让登录体验更佳：10个页面设计技巧和例子](http://www.woshipm.com/pd/3160778.html)
+ > 登录页面设计是网站用户体验流程的关键部分。好的设计有助于推动访问者访问你的网站，并把新用户进行转化。它也给返回用户一个简单的方式登录到您的网站。以下案例中...
+ ## [1个模型+5大步骤，10倍提升电商转化率](http://www.woshipm.com/operate/3170021.html)
+ > 先有商品转化率的提升，再有提高单个用户的消费能力，最后才是想办法增加商品流量。双十二即将来临，很多商家都在紧张地筹备着，想着如何增加流量，如何提高商品的客...
+ ## [增长实战：从运营自媒体开始](http://www.woshipm.com/operate/3173803.html)
+ > 由少到多就是增长，一切增长的根源从实践而来，继而总结为相似的理论。增长不是玄学，笔者在一年前接触到自媒体，并开始业余以自媒体为载体，开始了一段时间的创业，...
+ ## [7个营销关键词，告别2019](http://www.woshipm.com/marketing/3175204.html)
+ > 2019年就要过去，回顾这一年，营销行业又发生了什么变化？2019年的营销关键词其实只有一个：难。甲方面对着快速变化的用户口味，难以适从；乙方面对着行业的丛林法则...
+ ## [盲目跟风做裂变活动——吃力不讨好](http://www.woshipm.com/operate/3174635.html)
+ > 本文分析了盲目跟风做裂变活动的坏处，以及如何根据自身公司做调整。01我不知道你们朋友圈长什么样子，也不知道你们有没有买过朋友圈的课程，我们暂且不说是否买过。...
+ ## [如何度量产品的易学性？](http://www.woshipm.com/pd/3175128.html)
+ > 本文介绍了产品的易学性对那些日常被使用的界面设计是多么重要，以及如何进行产品的易学性的测试。什么是产品易学性（学习难度）？易学性是产品易用性的五大衡量维度...
+ ## [情感化交互设计：关于游戏](http://www.woshipm.com/ucd/3160898.html)
+ > 游戏往往非常注意交互设计，因为比起其他产品，游戏需要频繁的互动操作，更重视用户的情感因素。说到游戏，你脑海里会浮现出什么？王者荣耀？英雄联盟？开心消消乐？...
+ ## [竞品分析：nice好赞 VS 毒APP，球鞋交易平台的未来发展](http://www.woshipm.com/evaluating/3147171.html)
+ > 本文作者对两大球鞋交易平台nice和毒进行了对比分析，发现其中的问题，并提出了改进意见。球鞋交易，不能只是球鞋交易。随着潮流文化的普及，诸如《中国有嘻哈》、《...
+ ## [起点学院5周年公开课丨转岗/入门运营必知：一定要做好这2项准备](http://www.woshipm.com/active/3153293.html)
+ > 对于正在转行及想要入门运营的小伙伴，一定对以下问题很好奇：运营人的正确成长路径是什么？不同阶段的职级和薪资大致是个什么情况？对于创业公司与大厂，成长之路...
+ ## [产品经理工作指南（下）](http://www.woshipm.com/pmd/1300545.html)
+ > 在《产品经理工作指南（上）》中，我们谈到了产品评估、产品需求、产品结构及流程三部分内容，接下来在本文中继续为大家讲述关于原型设计及逻辑规则的自查。四、原型...
  ## [腾讯社交“全家桶”固防or攻击？](http://www.chanpin100.com/article/110230)
  > 腾讯也早就意识到未雨绸缪的重要性
  ## [麦奇教育科技王朝成：数字AI助力在线教育](http://www.chanpin100.com/article/110229)
