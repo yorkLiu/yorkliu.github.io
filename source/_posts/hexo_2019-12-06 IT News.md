@@ -1,19 +1,19 @@
 ---
 title: 2019-12-06 IT News
 copyright: true
-date: 2019-12-06 08:00:50
+date: 2019-12-06 09:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [宝马将放弃收取CarPlay订阅费丨三星考虑推出Galaxy Bud+\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575590404&ver=2017&signature=bujfHJ8er011fqYn86FJuO*Xb6CQuOvQLzjenZ4jnWbO-6QkG8rkMJdIWPBSu*Rn-pDYdY7iXdxx0xrdgqTCcFPfOr*fbPR8OeMkrnmiRph1g5nLgD7ZAO7l0Aha-yi9&new=1)
- > 12月05日丨周四【Do说】编辑 | 赵艾虎宝马将放弃收取CarPlay订阅费据Engadget消息，宝马表示，它将不再对在美国配备苹果CarPlay的汽车收取订阅费。虽然苹果对CarPlay不收费，但将这项技术集成到信息娱乐系统中确...
- ## [历时5年Vitis正式面世，赛灵思转型软件平台公司](http://mp.weixin.qq.com/s?src=11&timestamp=1575590404&ver=2017&signature=78xjouBePvFn8F-T9Ukib8dvDtNn6hZMav-aVIdYJlm4Jcu8eeq7jyDNP6WpVSxDQI87-WUD9ypohyshddH8i84P4RIdmQyCSlDEQfDrs5O7tiBN6ir6Xk*5Z6ACaM50&new=1)
+ ## [历时5年Vitis正式面世，赛灵思转型软件平台公司](http://mp.weixin.qq.com/s?src=11&timestamp=1575592205&ver=2017&signature=78xjouBePvFn8F-T9Ukib8dvDtNn6hZMav-aVIdYJlm4Jcu8eeq7jyDNP6WpVSxDkxMDFufjXDR*ux-s2XHHNnrOmBN71IWT6Tt7wc0SwyrfaDx*yCXGBf1-YZtmTic*&new=1)
  > 12月3日，赛灵思在北京召开2019赛灵思开发者大会（2019XDF）亚洲站，赛灵思总裁兼CEO Victor Peng及相关高管分享了公司启动“三大战略”，推动公司“转型”一年多来所取得的重大成就。同时，还首度面向亚洲市场...
- ## [「大数据+」依然火热!BDTC首日爆点有点多!](http://mp.weixin.qq.com/s?src=11&timestamp=1575590404&ver=2017&signature=pKXD-dAC38Ap8Dx1NQb-lEcQQS1qiah*GBXQP5h*TIKfvbvmgCA4W2hWtzULbZWkv8FnjAWCS6TcED7NE-Hmvab2mArIS0BwS52puxdeyEkPr1pW6MVoLQvBGchMM0Ld&new=1)
+ ## [「大数据+」依然火热!BDTC首日爆点有点多!](http://mp.weixin.qq.com/s?src=11&timestamp=1575592205&ver=2017&signature=pKXD-dAC38Ap8Dx1NQb-lEcQQS1qiah*GBXQP5h*TIKfvbvmgCA4W2hWtzULbZWkwuoNDPmI7MWBgwsKGHSB*1Psd1GX7ptMQOGDCG9nAXMpiDSYoRKzrpUXeQBFsnJ8&new=1)
  > 2019 年 12 月 5 日，由中国计算机学会（CCF）主办，CCF 大数据专家委员会承办，CSDN、中科天玑数据科技股份有限公司协办的中国大数据技术大会（BDTC 2019）在北京长城饭店拉开序幕。已经走过十余载的 BDTC，从...
- ## [不做思维跃迁，无从超级带货](http://mp.weixin.qq.com/s?src=11&timestamp=1575590404&ver=2017&signature=*HSZ62jJAnIUNd3uCuwcx8Go4PJ9kgduS0DOj5IMCAxI-vvjH5uPogCeO7rB4WtmMRjauxI8-aqmFcvrlw8Fb4Q7u8yxxoMJeP2X3R1*h*qJzGistL4jg6iRrDo0FUO8&new=1)
+ ## [不做思维跃迁，无从超级带货](http://mp.weixin.qq.com/s?src=11&timestamp=1575592205&ver=2017&signature=*HSZ62jJAnIUNd3uCuwcx8Go4PJ9kgduS0DOj5IMCAxI-vvjH5uPogCeO7rB4WtmTsJnMW8-47OJIAwo5DvwtdNPxGtEiphXYiD5O5Ki2cfo77B6Q1eAVFNsXdPWjYaW&new=1)
  > “有流量、很精准、高转化”，拥有这些特征的拼多多、今日头条、小红书、知乎、快手已经成为带货的新一代主流互联网平台，也成了传统行业重视、企业争相投放广告、互联网业内竞争激烈的地方。面对新一代的这些平...
+ ## [宝马将放弃收取CarPlay订阅费丨三星考虑推出Galaxy Bud+\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575592205&ver=2017&signature=bujfHJ8er011fqYn86FJuO*Xb6CQuOvQLzjenZ4jnWbO-6QkG8rkMJdIWPBSu*Rn95oDALkwys3*OMkXyJ8NtX4SVDldW*fYFIFgK6TXHtxQDXJvqa28wTKG4rfYvQbG&new=1)
+ > 12月05日丨周四【Do说】编辑 | 赵艾虎宝马将放弃收取CarPlay订阅费据Engadget消息，宝马表示，它将不再对在美国配备苹果CarPlay的汽车收取订阅费。虽然苹果对CarPlay不收费，但将这项技术集成到信息娱乐系统中确...
 # IT 技术 
  ## [从re:Invent 2019看AWS的创新之道 - Scale up +Scale out](http://cloud.51cto.com/art/201912/607300.htm)
  > 从re:Invent 2019看AWS的创新之道 - Scale up +Scale out
@@ -31,75 +31,91 @@ categories: IT NEWS
  > 时域音频分离模型登GitHub热榜，效果超传统频域方法
  ## [全球数字货币战争的三条战线](http://blockchain.51cto.com/art/201912/607201.htm)
  > 全球数字货币战争的三条战线
- ## [2019工程伦理慕课答案（2019秋）习题及期末答案](https://blog.csdn.net/qq_41082953/article/details/102978337)
- > 2019工程伦理慕课答案（2019秋）习题及期末答案
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [首次使用物联网设备进行的 Wi-Fi 6 试用测试宣布成功](http://news.51cto.com/art/201912/607333.htm)
+ > Wi-Fi 联盟曾宣布推出了 Wi-Fi 6 认证计划，该计划旨在统一使用 Wi-Fi 6 设备的标准，参与认证的制造商可在
+ ## [如何理解Session、Cookie、Token三者的区别与联系](http://network.51cto.com/art/201912/607331.htm)
+ > 本文将从Web应用 由传统身份验证到基于Token的身份验证的演变过程的角度，介绍Session、Cookie、Token。
+ ## [11 月全球 Web 服务器调查报告：nginx 表现最佳](http://news.51cto.com/art/201912/607332.htm)
+ > Netcraft 公司官网每月公布的全球 Web 服务器调查报告“Web Server Survey”是当前人们了解全球网站数量以
+ ## [盘点：2019年最炙手可热的10家大数据初创公司](http://bigdata.51cto.com/art/201912/607330.htm)
+ > 那些希望为客户提供业务分析、数据管理、数据科学和机器学习最新软件和服务以应对大数据挑战的解决方案提供
+ ## [十年回顾：2010年以来重大网络安全事件盘点](http://netsecurity.51cto.com/art/201912/607329.htm)
+ > 二十一世纪的第二个十年即将过去，在过去十年里有哪些重要网络安全事件发生，小编带大家一起来回顾一下。
+ ## [想查看微信好友撤回的消息？Python帮你搞定](https://blog.csdn.net/qq_42453117/article/details/103334456)
  > 
+ ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
+ > 
+ ## [全网阅读过20k的Java集合框架常见面试题总结！](https://blog.csdn.net/qq_34337272/article/details/103159162)
+ > 
+ ## [论文读不懂怎么办？](https://blog.csdn.net/nkwshuyi/article/details/102927220)
+ > 
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
- > 
- ## [《吐血整理》系列-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
  ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
  > python学习目录
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
+ ## [《吐血整理》系列-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
+ > 
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ > 
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
+ > 
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
- > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
- ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
- > 
+ ## [Python 分析到底是谁操纵《庆余年》上了热搜？](https://blog.csdn.net/csdnnews/article/details/103415746)
+ > 作者 |A字头责编 | 毛中政庆余年电视剧终于在前两天上了，这两天赶紧爬取数据看一下它的表现。庆余年《庆余年》是作家猫腻的小说。这部从2007年就开更的作品拥有固定的书迷群体，也在文...
  ## [程序员请收好：10个非常有用的 Visual Studio Code 插件!](https://blog.csdn.net/csdnnews/article/details/103415750)
  > 一个插件列表，可以让你的程序员生活变得轻松许多。作者|Daan译者 |Elle出品 | CSDN（ID：CSDNnews）以下为译文：无论你是经验丰富的开发人员还是刚刚开始第一份工...
  ## [华为生产不含美国芯片的手机！](https://blog.csdn.net/csdnnews/article/details/103415743)
  > 整理| Elle出品 | CSDN（ID：CSDNnews）背景2019年5月，美国商务部正式把华为列入了“实体清单”，即禁止美企向华为出售相关技术和产品除非获得政府许可，此通告一出，...
+ ## [程序员必须掌握的 CPU 硬核干货！](https://blog.csdn.net/csdnnews/article/details/103415747)
+ > 作者 | cxuan责编 | maozz大家都是程序员，大家都是和计算机打交道的程序员，大家都是和计算机中软件硬件打交道的程序员，大家都是和CPU打交道的程序员，所以，不管你是玩儿硬件的...
  ## [重磅！Google推出了AI人体图像分割工具，惊呆了小伙伴.....](https://blog.csdn.net/csdnnews/article/details/103415741)
  > 近期，Google官方推出了使用TensorFlow.js的人体图像分割工具BodyPix 2.0，对该工具进行了一次重大升级，加入多人支持，并提高了准确率。BodyPix能将图像分割为...
+ ## [“给微软的 10 条建议！”](https://blog.csdn.net/csdnnews/article/details/103415742)
+ > 整理| Elle出品 | CSDN（ID：CSDNnews）比尔.盖茨这个人我相信大家应该是对他耳熟能详的，他是微软公司的创始人，软件版权制度的受益者，世界上的头号富翁。但是对于理查德...
  ## [爱奇艺会员费蓄势涨价，能否靠用户解囊止亏？](http://www.lanjingtmt.com/news/detail/45126.shtml)
  > 近日，爱奇艺杨向华表示，中国视频平台的定价与国外相比普遍偏低，有一定调价空间。若爱奇艺会员费上调，未来是否会面临用户流失，能否让持续亏损的爱奇艺止亏等问题值得关注。
 # 人工智能 
- ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
- > 
- ## [【图解】给面试官解释TCP的三次握手与四次挥手-Web运用原理及网络基础](https://blog.csdn.net/qq_36232611/article/details/103344054)
- > 
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
- > 
- ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
- > 
- ## [计算机考研，这样选学校才是正解](https://blog.csdn.net/harvic880925/article/details/103193905)
- > 
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [初识TCP/IP](https://blog.csdn.net/qq_41949320/article/details/89645729)
- > 初识TCP/IP
- ## [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
- > LeetCode解题汇总目录
- ## [c++从入门到精通（汇总）](https://blog.csdn.net/qq_41543888/article/details/100862578)
- > c++从入门到精通（汇总）
- ## [电脑软件技巧](https://blog.csdn.net/feiying0canglang/article/details/102732438)
- > 电脑软件技巧
- ## [二分查找法](https://blog.csdn.net/Java_Road_Far/article/details/90922656)
- > 二分查找法
- ## [BZOJ3132 上帝造题的七分钟题解（树状数组+差分）](https://blog.csdn.net/hzk_cpp/article/details/87347568)
- > BZOJ3132 上帝造题的七分钟题解（树状数组+差分）
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
+ ## [Nginx 虚拟主机](https://blog.csdn.net/zhengzhaoyang122/article/details/93793377)
+ > Nginx 虚拟主机
+ ## [Linux安装与卸载Tomcat8(详细图文教程)](https://blog.csdn.net/han12398766/article/details/87731270)
+ > Linux安装与卸载Tomcat8(详细图文教程)
+ ## [IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）](https://blog.csdn.net/weixin_43272781/article/details/100858230)
+ > IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）
+ ## [Mac OSX上安装yarn配置环境变量](https://blog.csdn.net/weixin_43606158/article/details/100630193)
+ > Mac OSX上安装yarn配置环境变量
+ ## [青瓜视频双端APP全套源码带教程完美搭建（据说价值很高）](https://blog.csdn.net/weixin_44212888/article/details/100589778)
+ > 青瓜视频双端APP全套源码带教程完美搭建（据说价值很高）
+ ## [Linux安装MySQL5.7](https://blog.csdn.net/qq_37598011/article/details/93489404)
+ > Linux安装MySQL5.7
+ ## [vuex里面的this.$store.dispatch方法](https://blog.csdn.net/lemonC77/article/details/95077691)
+ > vuex里面的this.$store.dispatch方法
+ ## [分享各大CMS采集资源站网址合集](https://blog.csdn.net/qq_41684621/article/details/96766877)
+ > 分享各大CMS采集资源站网址合集
+ ## [nginx启动命令和停止命令](https://blog.csdn.net/qq_41399976/article/details/93854778)
+ > nginx启动命令和停止命令
+ ## [Linux： cp 复制文件、文件夹到文件夹](https://blog.csdn.net/weixin_43731793/article/details/91129813)
+ > Linux： cp 复制文件、文件夹到文件夹
+ ## [make 命令出现："make:*** No targets specified and no makefile found.Stop."](https://blog.csdn.net/shun35/article/details/94576800)
+ > make 命令出现：&quot;make:*** No targets specified and no makefile found.Stop.&quot;
+ ## [【解决方案】During handling of the above exception, another exception occurred:](https://blog.csdn.net/weixin_40313634/article/details/100825533)
+ > 【解决方案】During handling of the above exception, another exception occurred:
+ ## [迅雷 应版权方要求，文件无法下载 解决方法](https://blog.csdn.net/bookanddream/article/details/97562276)
+ > 迅雷 应版权方要求，文件无法下载 解决方法
+ ## [PHP知识简介](https://blog.csdn.net/weixin_43606158/article/details/97576970)
+ > PHP知识简介
+ ## [RabbitMQ启动出现的问题与解决办法](https://blog.csdn.net/wangming520liwei/article/details/80989903)
+ > RabbitMQ启动出现的问题与解决办法
 # PM 
  ## [产品经理周报第 94 期｜拼多多在App端和小程序上线火车票业务；B站发布2019年度弹幕：“AWSL”](http://www.woshipm.com/it/3179237.html)
  > 早上好呀，今天又是周五啦最近全国各地都在降温，有的地方已经开始下雪啦就连在广东的小编也开始穿上了棉袄子，大家记得注意添衣保暖哦那这周，互联网有发生什么事...
