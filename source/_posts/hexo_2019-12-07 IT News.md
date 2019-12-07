@@ -1,22 +1,36 @@
 ---
 title: 2019-12-07 IT News
 copyright: true
-date: 2019-12-07 10:01:26
+date: 2019-12-07 12:03:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Wi-Fi是否会被5G取代?](http://mp.weixin.qq.com/s?src=11&timestamp=1575682205&ver=2019&signature=X3uc*CVCxM5vNRM5rljBuGNPbSzxjpfPeXyJwhR9L0HjZ7a32buQsQVAsdBVTy9fMa0bZl0B9nL8qXRf5Rk2Kv81Z-Aqsjy8k3lseEAQUSwq6zG0JmPJviU0Y1JfyvXO&new=1)
- > 共生还是竞争？从2G到4G早有答案伴随在移动网络带宽、时延的不断提升，总有人认为现在的移动网络已经完全够用了，Wi-Fi会被市场淘汰。但Wi-Fi却一直成为室内网络连接的首选方案，并且在多个业务场景，这种地位无...
- ## [从长江存储招标结果，看国产半导体设备产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1575682205&ver=2019&signature=dqeS2qSbA66umApPWJO0Iq1fX*0idGmyun74yxuLjIUPqjBP9gozbE2BnHd-rqsWuFWnHhvzgg5gdzj5MvBOTgOHEBJYFvdHeM7A8E*TAz8bSiSuHisQ*lWlQrtsGQGp&new=1)
- > 在国家密集政策与资金双重支持下，我国集成电路装备企业迎来了发展契机，取得了显著的阶段性成果。梳理国内规划产能最大的长江存储项目招标数据发现，以北方华创、中微公司等为代表的国内厂商在刻蚀设备、PVD、...
- ## [强势发力海外市场，Nreal携手德国电信推动B端落地方案](http://mp.weixin.qq.com/s?src=11&timestamp=1575682205&ver=2019&signature=AjOg3NCGbKtLN-uGlicmcEpGQdW4K9JDTWck*bvZfxJ3mJxGtkOUIIU0ysuYrLxR*f23k9ccTLoJ0ZujZ21LKKw*kBxKU21h9QlpKemdca8MSL0ju7EzJY3VzXhxLC6V&new=1)
- > 专注于消费端市场的Nreal，开始将目光投向行业客户。正文共 3962 字 9 图；预计阅读时间 12 分钟 随着MR在企业端应用渗透率的提升，越来越多的企业开始在生产工作中导入该技术，其中不乏世界知名企业。如GE运输...
- ## [福利!福利!!福利来啦!!(和人人相关，小编亲测有效)](http://mp.weixin.qq.com/s?src=11&timestamp=1575682205&ver=2019&signature=Caz2YawVbkn*10O7iAAPVG1mq5wl7xXacuSwX5pNA3W3dUjDz*DAr3ewsXeH81z4WQ4oJJxdQvjPH64MmTvO1XYAUXWRT6zc5S8clmcuBn5aHws2Xb*KVNZKpQgVLTyb&new=1)
- > 福利！福利！！福利来啦！！！即日起，新用户下载京东交通卡立得15元大礼包，还有5折周卡优惠券哦，此产品目前正在邀请友好用户测试阶段，欢迎大家体验！京东免充值交通卡支持全国252个“交通部互联互通城市”的...
- ## [双域隔离技术何以助力物联网安全?|人物志](http://mp.weixin.qq.com/s?src=11&timestamp=1575682205&ver=2019&signature=g-IJpiSgmBhtsvXiraVE6Q3cCDcpO7MqEUMtoyjoiAOSz5WWwJw6ldoDerOMH4SQc*OXbdxdDU3us7EF*Hr09AL1LhA96vxQwsiv23n5KaR*Pimvh-yjVV-m3oqPZP3z&new=1)
+ ## [传 ofo 年底裁员超 50%；Vivo 支持谷歌 Fuchsia OS；Spring Boot 2.2.2 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=g-IJpiSgmBhtsvXiraVE6Q3cCDcpO7MqEUMtoyjoiAN3xK6tAyJBOkfEvShqfluk41YfOR6Ex58pM3jzGKEt6B-iuc9E6mQcl4Ush0-U7X8wQUW2Y-Hp3wbYGgElBzEk&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [刘鹏教授在人工智能教育发展论坛作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=8rxvCiIJhBTuZAbs6rI4YLgUOpiHkNOmtssTfv0D5e2OPmQ5M7IaT6v44shBEeXpfLAWe8vZqBiUx7UIPdgSe-FNZ4tCBUxKsVt8-UCNXljKLxh6XTjPjPigbXYjm4jY&new=1)
+ > 12月6日，由武汉市教育科学研究院、汉阳区人民政府主办，武汉市教育科学研究院现代教育技术中心、汉阳区教育局、汉阳区科学技术协会、武汉市第三中学承办，武汉市青少年创客教育联盟协办的“知音汇聚 智创未来”...
+ ## [ofo 年底裁员超 50%，将再次搬家；360 拟非公开发行股票，募资超百亿；虎牙 CFO 沙大川辞职|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=PpFqLNun7YZ8T6AYiTf0UNWDuPY4Gjmb0wzgHzgIK3dt57bOwtdu*CIuAnWd5H64SJ72zCrlk9omIGcVbGD5pfA7C12iGvAyJAFbl2Es-AsE1rRc0Bq0-DR5NB4ye0jh&new=1)
+ > 360 拟非公开发行 13.5 亿股股票，募资超百亿元资金北京时间 12 月 6 日消息，据 360 公司 12 月 5 日晚发布的公告，360 拟非公开发行不超过 13.5 亿股，募集资金不超过 108 亿元，安全研发及基础设施类和商业化
+ ## [美国数据中心供应商CyrusOne遭受勒索软件攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=w-wq00Lg6sdofs825QcmgrvBaTEVEWIPKP2gmpIY3gEb1RadHyRGob7HdWeAnlAWmlp4oe7aZjEEeHFk8*iBo*y2rGbKyMqx7nzirj48X1UDFAKiERt-6OEj6XY-jmMn&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，美国知名数据中心提供商CyrusOne遭受Sodinokibi（又称REvil）勒索软件攻击，导致其服务中断。尽管该公司尚未透露任何细节，但金融和经纪公司F
+ ## [市大数据局举行 区块链专题讲座](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=lwEwyurBEmEWObsUnpI1pkxKlmUzFKOpciu4D6T*MaWotVxKMCHkEkvl3mTFV8sbEn-naG*CHERm-ZSaU3qUzk7B-WbA4tLlbroNew-VLEA=&new=1)
+ > 本报讯 11月29日，贵阳市大数据发展管理局举行“全球区块链技术现状与发展趋势”专题讲座，市大数据局各处室负责人、各事业单位主要负责人，市大数据集团、国家工程实验室、贵州省邮电设计院代表等数十人参...
+ ## [CIH病毒爆发事件丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=7*YJ9Xs0Jxcg1GIJBYV8tN4nxYj5NBBexkA8cCiC9H9ofyvbekf*nPxgrxFIh8fj43vYZuk68u2-7ok5wt8qumnMczKtbvyWnbloJrT5umUphfbxCtElgsPrQdrCnUox&new=1)
+ > 一、世界电脑病毒日大东：我来考考你， 你知道每年的4月26日是什么节日吗？小白：这个我知道！是世界知识产权日！大东：可以啊，还有呢？小白：还有？emmmm……这我就不知道了。大东：每年的4月26日也是世界电脑...
+ ## [黑格科技完成6000万美金B1轮融资，由阿联酋科技巨头G42集团投资](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=so5P0*VB8LtaES44GK8k5NOBSC055-pqaQ8tzDj5FTkV24fEUI19rKSJgfWSToIfSJF3LQg5wRKOy3mmCgbiqa3bjKj3CJjXPELjKpFzBwlwTsqejxyznGSKka8qYsC2&new=1)
+ > 关注南极熊，知晓3D打印天下事南极熊导读：现在是冬天，都已经下雪了；但有人用钱在3D打印行业燃起了熊熊大火！2019年12月6日，南极熊获悉，黑格科技正式对外公布完成6000万美金的B1轮融资，投资方为阿联酋科技...
+ ## [双域隔离技术何以助力物联网安全?|人物志](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=g-IJpiSgmBhtsvXiraVE6Q3cCDcpO7MqEUMtoyjoiAOSz5WWwJw6ldoDerOMH4SQlRELPA6M2zH73uDwPq2i4*W7MRtRJHOdqlH1N0TH5CN7c3JpV4q93vySfQUW-8mN&new=1)
  > 受访者 | 邹鹏程采访者 | 伍杏玲出品 | CSDN（ID：CSDNnews）2017年，全球物联网设备数量首次超过人口数量，物联网时代已来临。随着AI、云计算等技术的发展，如今当我们在谈 IoT 技术时，通常谈的是“AIoT”，即...
- ## [内蒙三大运营商携号转网出现戏剧性局面：用户几乎无换网需求?](http://mp.weixin.qq.com/s?src=11&timestamp=1575682205&ver=2019&signature=uyQIzR1MA51DUSQcyeIbwk8QI876zefQu5a9wzG8fjruapDqlFMT6yRLjalJdvrG19NNmxe6X2SJ2k-EAUAS8Z8vPMdYuoTqT3PxcqeY7E5Q87VyFW-R5FNvlsjf59ud&new=1)
+ ## [福利!福利!!福利来啦!!(和人人相关，小编亲测有效)](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=Caz2YawVbkn*10O7iAAPVG1mq5wl7xXacuSwX5pNA3W3dUjDz*DAr3ewsXeH81z4d*qdsWfD6UTPUXiSzO4POXkiVgIWXBL4ZQ8JICrf-QX-VTPf1L9pZSngWIm9kYa-&new=1)
+ > 福利！福利！！福利来啦！！！即日起，新用户下载京东交通卡立得15元大礼包，还有5折周卡优惠券哦，此产品目前正在邀请友好用户测试阶段，欢迎大家体验！京东免充值交通卡支持全国252个“交通部互联互通城市”的...
+ ## [Wi-Fi是否会被5G取代?](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=X3uc*CVCxM5vNRM5rljBuGNPbSzxjpfPeXyJwhR9L0HjZ7a32buQsQVAsdBVTy9fBZbh2yzkp9D4hPUrHGnj9yYiSCfM1FGTtRhcxgtYtZ0c*dU3ffFboJymv6mMM7W0&new=1)
+ > 共生还是竞争？从2G到4G早有答案伴随在移动网络带宽、时延的不断提升，总有人认为现在的移动网络已经完全够用了，Wi-Fi会被市场淘汰。但Wi-Fi却一直成为室内网络连接的首选方案，并且在多个业务场景，这种地位无...
+ ## [从长江存储招标结果，看国产半导体设备产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=dqeS2qSbA66umApPWJO0Iq1fX*0idGmyun74yxuLjIUPqjBP9gozbE2BnHd-rqsWLVo*UzTpnpRSAVGJowh34*LgSsEBMOkk8ygCeDj9jrcUW-TKSeystj5j8rZzlUt5&new=1)
+ > 在国家密集政策与资金双重支持下，我国集成电路装备企业迎来了发展契机，取得了显著的阶段性成果。梳理国内规划产能最大的长江存储项目招标数据发现，以北方华创、中微公司等为代表的国内厂商在刻蚀设备、PVD、...
+ ## [强势发力海外市场，Nreal携手德国电信推动B端落地方案](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=AjOg3NCGbKtLN-uGlicmcEpGQdW4K9JDTWck*bvZfxJ3mJxGtkOUIIU0ysuYrLxRTUR0Au8tTUs62p2NlFYGtxRzE0F4XWs9Cc777IJDb15Qm1pllEZR-atMAbayhkm-&new=1)
+ > 专注于消费端市场的Nreal，开始将目光投向行业客户。正文共 3962 字 9 图；预计阅读时间 12 分钟 随着MR在企业端应用渗透率的提升，越来越多的企业开始在生产工作中导入该技术，其中不乏世界知名企业。如GE运输...
+ ## [内蒙三大运营商携号转网出现戏剧性局面：用户几乎无换网需求?](http://mp.weixin.qq.com/s?src=11&timestamp=1575689404&ver=2019&signature=uyQIzR1MA51DUSQcyeIbwk8QI876zefQu5a9wzG8fjruapDqlFMT6yRLjalJdvrGo6H5IdxSbVHXJtky2ND5qxpIM4P6nl9MXxuLLFBoOTyIk454Jr0jLLQ73ueClp2G&new=1)
  > 运营商财经网 吴碧慧/文 近日，运营商财经网独家获知一则内蒙古地区携号转网的数据，11月27日当天截止18点，内蒙古电信携入用户为8户，携出11户；内蒙古移动携入用户18户，携出为6户；内蒙古联通携入用户8户，携...
 # IT 技术 
  ## [网站上线前的终极测试清单](http://developer.51cto.com/art/201912/607355.htm)
@@ -37,9 +51,13 @@ categories: IT NEWS
  > 首次使用物联网设备进行的Wi-Fi 6试用 测试宣布成功
  ## [在我们睡觉的时候，程序能不能自动查 bug？](https://blog.csdn.net/TiDB_PingCAP/article/details/103400867)
  > 
- ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
- > 从入门到精通，Java学习路线导航
+ ## [想查看微信好友撤回的消息？Python帮你搞定](https://blog.csdn.net/qq_42453117/article/details/103334456)
+ > 
+ ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
+ > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [你是怎么变自律的？](https://blog.csdn.net/harvic880925/article/details/103303776)
  > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
@@ -53,8 +71,6 @@ categories: IT NEWS
  > python学习目录
  ## [利用Python分析《庆余年》人物图谱和微博传播路径](https://blog.csdn.net/weixin_43931438/article/details/103333465)
  > 
- ## [Spring Boot: Spring Doc生成OpenAPI3.0文档](https://blog.csdn.net/Developlee/article/details/103232840)
- > 
  ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
@@ -62,8 +78,6 @@ categories: IT NEWS
  ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
  > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [用 Python 实现植物大战僵尸代码！](https://blog.csdn.net/csdnnews/article/details/103431713)
  > 作者 | marble_xu责编 | 毛中政出品 | CSDN博客功能介绍最近一直在给这个植物大战僵尸游戏添加新的植物和僵尸, 因为网上的图片资源有限，能加的植物和僵尸比较少， 目前进展...
@@ -86,52 +100,44 @@ categories: IT NEWS
  ## [京东设立京东云与AI事业部，周伯文任负责人](http://www.lanjingtmt.com/news/detail/45137.shtml)
  > 日前，京东集团宣布设立京东云与AI事业部，整合原京东云、人工智能、IoT三大事业部的架构与职责，由京东集团副总裁周伯文担任负责人，向京东集团董事局主席兼CEO刘强东汇报。
 # 人工智能 
- ## [谈一谈华为与爱国情怀](https://blog.csdn.net/weixin_45344338/article/details/103368364)
- > 谈一谈华为与爱国情怀
- ## [IK分词器的介绍、安装、测试](https://blog.csdn.net/lfylucky/article/details/103410626)
- > IK分词器的介绍、安装、测试
- ## [为直男癌患者写的VBScript表白程序](https://blog.csdn.net/weixin_43896318/article/details/103337684)
- > 为直男癌患者写的VBScript表白程序
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [你是怎么变自律的？](https://blog.csdn.net/harvic880925/article/details/103303776)
+ ## [一张图生成定制版二次元人脸头像，还能“模仿”你的表情](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103342381)
  > 
  ## [私藏的18个黑科技网站，想找什么软件就找什么软件！！！](https://blog.csdn.net/sinat_33921105/article/details/103307419)
  > 私藏的18个黑科技网站，想找什么软件就找什么软件！！！
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
+ ## [ICLR2019最佳论文: ON LSTM (RNN阵营对抗Attention的利器)](https://blog.csdn.net/lthirdonel/article/details/103409961)
+ > ICLR2019最佳论文: ON LSTM (RNN阵营对抗Attention的利器)
+ ## [KMeans、LVQ、GaussianMixture几种聚类方法的Python实现以及标签映射（Kuhn-Munkres匈牙利算法）问题的解决(详细并附完整代码)](https://blog.csdn.net/McQueen_LT/article/details/103410503)
+ > KMeans、LVQ、GaussianMixture几种聚类方法的Python实现以及标签映射（Kuhn-Munkres匈牙利算法）问题的解决(详细并附完整代码)
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ ## [2020互联网大厂硕士生薪资出炉！来源OfferShow爆料整理！](https://blog.csdn.net/pcwl1206/article/details/103389326)
+ > 2020互联网大厂硕士生薪资出炉！来源OfferShow爆料整理！
+ ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
  > 
  ## [YouTube排名第一的励志英文演讲《Dream(梦想)》](https://blog.csdn.net/qq_41946557/article/details/103036123)
  > YouTube排名第一的励志英文演讲《Dream(梦想)》
  ## [送给单身猿们的表白神器](https://blog.csdn.net/weixin_44560813/article/details/102956248)
  > 送给单身猿们的表白神器
- ## [通俗易懂地给女朋友讲：线程池的内部原理](https://blog.csdn.net/heihaozi/article/details/102882698)
- > 通俗易懂地给女朋友讲：线程池的内部原理
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [一个老鸟发的公司内部整理的 Android 学习路线图](https://blog.csdn.net/weixin_44339238/article/details/102822826)
- > 一个老鸟发的公司内部整理的 Android 学习路线图
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
+ ## [死磕C语言指针](https://blog.csdn.net/wydyd110/article/details/102851022)
+ > 死磕C语言指针
+ ## [python 程序员进阶之路：从新手到高手的100个模块](https://blog.csdn.net/xufive/article/details/102676755)
+ > 
+ ## [图论：SPFA 算法详解( 算法竞赛入门到进阶) HDU 2544 链式前向星 【提供ACM模板+图解，不会都难！】](https://blog.csdn.net/weixin_42429718/article/details/103412050)
+ > 图论：SPFA 算法详解( 算法竞赛入门到进阶) HDU 2544 链式前向星 【提供ACM模板+图解，不会都难！】
+ ## [2018上海科技大学991数据结构与算法](https://blog.csdn.net/SwustLpf/article/details/103142267)
+ > 2018上海科技大学991数据结构与算法
+ ## [matplotlib基本使用](https://blog.csdn.net/weixin_45639174/article/details/102925248)
+ > matplotlib基本使用
+ ## [线性回归、lasso回归、岭回归以及弹性网络的系统解释](https://blog.csdn.net/liuzhiwei_Sta/article/details/103409777)
+ > 线性回归、lasso回归、岭回归以及弹性网络的系统解释
 # PM 
+ ## [电商营销中台的优惠券如何设计？](http://www.woshipm.com/pd/3182967.html)
+ > 本文是作者在两年的营销产品岗自己逐渐摸索出来的一套产品架构，也希望和大家一起深入交流，此篇文档不涉及公司具体业务，仅从产品讲述如何搭建一套较为完整的优惠券系...
+ ## [当代互联网鸿沟：年轻的设计者 VS 年老的使用者](http://www.woshipm.com/pd/3181483.html)
+ > 65 岁及以上的用户在使用网站和应用程序时面临着独特的挑战，这一群体对互联网的需求正在上升，互联网环境也愈发需要考虑老年用户的偏好、习惯与核心诉求。在许多经济...
  ## [起点学院5周年公开课丨互联网To B新时代已开启，B端产品经理如何自我升级？](http://www.woshipm.com/active/3153354.html)
  > 互联网20年，人口流量红利逐渐消失，大家都不得不从粗放的外部规模增长，走向通过内部用技术管理提升自己的实力，进而寻求增长。腾讯作为互联网巨头，开始拥抱产业互...
  ## [需求分析是什么&案例解析](http://www.woshipm.com/pmd/3176698.html)
  > 本文将需求分为两类——工具类需求、用户端需求；并进一步给出了两个案例方便理解。前言关于需求分析无疑是产品经理的一项必备基础功，也是每个产品经理可能工作大部分...
- ## [设计技巧｜用好视觉分隔符，让你的设计变“高级”](http://www.chanpin100.com/article/110269)
- > 以下内容由摹客团队翻译整理，仅供学习交流。
- ## [CRM产品设计（二）](http://www.chanpin100.com/article/110268)
- > 全域CRM会员用户画像部分针对会员做群组条件的筛选；并针对群组会员做数据分析；有了群组的用户画像便于做智能营销的触达
- ## [用户活跃的提升技巧有哪些？](http://www.chanpin100.com/article/110267)
- > 众所周知，用户活跃度不单只与质量有关，还会与粉丝的数量有着很大的关联。在这一点之上，用户活跃的一些技巧，希望能是大家有更深刻的认识！我们往往不可以轻易去忽视。因此，要值得引起我们的注意和重视。下面我们来了解一些技巧，希望能是大家有更深刻的认识！
- ## [讨好型人格的人不适合做产品经理](http://www.chanpin100.com/article/110266)
- > 如何改变自己的讨好型人格？
- ## [刚入行三年的产品经理怎么管理项目进度？](http://www.chanpin100.com/article/110265)
- > 从13年开始使用MS project做产品项目管理，先后在几家公司，因为团队风格不同，尝试过几种不同的工具，这些工具要么就是太复杂，效率不高，要么就是同步协调性不够。
- ## [设计技巧｜新手设计如何又快又高效？10个省时妙计帮你解决](http://www.chanpin100.com/article/110264)
- > 以下是小编平时设计过程中总结的省时技巧，希望能对大家有所帮助~
 
     
