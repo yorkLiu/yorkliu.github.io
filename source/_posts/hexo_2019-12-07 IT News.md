@@ -1,21 +1,21 @@
 ---
 title: 2019-12-07 IT News
 copyright: true
-date: 2019-12-07 08:00:53
+date: 2019-12-07 09:00:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [内蒙三大运营商携号转网出现戏剧性局面：用户几乎无换网需求?](http://mp.weixin.qq.com/s?src=11&timestamp=1575675005&ver=2019&signature=uyQIzR1MA51DUSQcyeIbwk8QI876zefQu5a9wzG8fjp*rjhD5We-LXVIgbN3Vu98MPcW*t1ztt-B1PXdOaHiDGh2DUDLNByS0TeZe2wLtpCl0Hn3k8M6LilzFlKn-clP&new=1)
- > 运营商财经网 吴碧慧/文 近日，运营商财经网独家获知一则内蒙古地区携号转网的数据，11月27日当天截止18点，内蒙古电信携入用户为8户，携出11户；内蒙古移动携入用户18户，携出为6户；内蒙古联通携入用户8户，携...
- ## [从长江存储招标结果，看国产半导体设备产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1575675005&ver=2019&signature=dqeS2qSbA66umApPWJO0Iq1fX*0idGmyun74yxuLjIUchxVxR1AA79PosYBbV2ESSkACK-7*48a1OIbFXstKMU9Y7k7NeLrZ-gO8-j60w9p6mrIj0T-lv-IJSZB44vsY&new=1)
+ ## [从长江存储招标结果，看国产半导体设备产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1575678605&ver=2019&signature=dqeS2qSbA66umApPWJO0Iq1fX*0idGmyun74yxuLjIUchxVxR1AA79PosYBbV2ESFqdnI763eubBh*t-PAj574i3aWC8xMAZpa5QbL96Q0DBaSVNiU5Xq095fZ3obcBp&new=1)
  > 在国家密集政策与资金双重支持下，我国集成电路装备企业迎来了发展契机，取得了显著的阶段性成果。梳理国内规划产能最大的长江存储项目招标数据发现，以北方华创、中微公司等为代表的国内厂商在刻蚀设备、PVD、...
- ## [Wi-Fi是否会被5G取代?](http://mp.weixin.qq.com/s?src=11&timestamp=1575675005&ver=2019&signature=X3uc*CVCxM5vNRM5rljBuGNPbSzxjpfPeXyJwhR9L0Gx-GIuXvTGg13M8e411MDyJM5u1M9snGd1XY01nP3JDnybe0uncAA5dCCmPwhqJUvAwWgiyidztdKuxhqt4cUJ&new=1)
+ ## [内蒙三大运营商携号转网出现戏剧性局面：用户几乎无换网需求?](http://mp.weixin.qq.com/s?src=11&timestamp=1575678605&ver=2019&signature=uyQIzR1MA51DUSQcyeIbwk8QI876zefQu5a9wzG8fjp*rjhD5We-LXVIgbN3Vu98d3s1pOuxb-dJn5TrpcfogaNUWJ5R2cew7NNBcrFu47jPoBxW66hCohFct9ZPru-1&new=1)
+ > 运营商财经网 吴碧慧/文 近日，运营商财经网独家获知一则内蒙古地区携号转网的数据，11月27日当天截止18点，内蒙古电信携入用户为8户，携出11户；内蒙古移动携入用户18户，携出为6户；内蒙古联通携入用户8户，携...
+ ## [Wi-Fi是否会被5G取代?](http://mp.weixin.qq.com/s?src=11&timestamp=1575678605&ver=2019&signature=X3uc*CVCxM5vNRM5rljBuGNPbSzxjpfPeXyJwhR9L0Gx-GIuXvTGg13M8e411MDyDID58m1i8RBbP7iMAgxz8JwnXyMJ-KQ6odBqK7ed9I3sV5jAtrJshBbHH25C1Vmp&new=1)
  > 共生还是竞争？从2G到4G早有答案伴随在移动网络带宽、时延的不断提升，总有人认为现在的移动网络已经完全够用了，Wi-Fi会被市场淘汰。但Wi-Fi却一直成为室内网络连接的首选方案，并且在多个业务场景，这种地位无...
- ## [双域隔离技术何以助力物联网安全?|人物志](http://mp.weixin.qq.com/s?src=11&timestamp=1575675005&ver=2019&signature=g-IJpiSgmBhtsvXiraVE6Q3cCDcpO7MqEUMtoyjoiAOVWFoqKqeXybXdIY75zWHNhrMfHXm1aa4LDlqEOjxhOe0L8UMJuX8aXseVpcaSpU7rX*ihU8Rlt3G61KZOfmHO&new=1)
- > 受访者 | 邹鹏程采访者 | 伍杏玲出品 | CSDN（ID：CSDNnews）2017年，全球物联网设备数量首次超过人口数量，物联网时代已来临。随着AI、云计算等技术的发展，如今当我们在谈 IoT 技术时，通常谈的是“AIoT”，即...
- ## [强势发力海外市场，Nreal携手德国电信推动B端落地方案](http://mp.weixin.qq.com/s?src=11&timestamp=1575675005&ver=2019&signature=AjOg3NCGbKtLN-uGlicmcEpGQdW4K9JDTWck*bvZfxIsTilbW1ASGAMZAccieBGqAICZKUvJxTyyWk*shtjuM9eSLbDgWE8FpchCw8A61KnMWVOIxjiqzDRmDvxJQswO&new=1)
+ ## [强势发力海外市场，Nreal携手德国电信推动B端落地方案](http://mp.weixin.qq.com/s?src=11&timestamp=1575678605&ver=2019&signature=AjOg3NCGbKtLN-uGlicmcEpGQdW4K9JDTWck*bvZfxIsTilbW1ASGAMZAccieBGq46ty-X52gcTtuzlWP0NB0DWBk8mx6o5rySyU-o1k9H9SEO90cew8RXtIHcFaDYbb&new=1)
  > 专注于消费端市场的Nreal，开始将目光投向行业客户。正文共 3962 字 9 图；预计阅读时间 12 分钟 随着MR在企业端应用渗透率的提升，越来越多的企业开始在生产工作中导入该技术，其中不乏世界知名企业。如GE运输...
+ ## [双域隔离技术何以助力物联网安全?|人物志](http://mp.weixin.qq.com/s?src=11&timestamp=1575678605&ver=2019&signature=g-IJpiSgmBhtsvXiraVE6Q3cCDcpO7MqEUMtoyjoiAOVWFoqKqeXybXdIY75zWHN9SBtDLdlg4*H-R3KJOebDWK-AORTs9GYRKt35sZ9imH6XMp72ysd0zd-0YewspHh&new=1)
+ > 受访者 | 邹鹏程采访者 | 伍杏玲出品 | CSDN（ID：CSDNnews）2017年，全球物联网设备数量首次超过人口数量，物联网时代已来临。随着AI、云计算等技术的发展，如今当我们在谈 IoT 技术时，通常谈的是“AIoT”，即...
 # IT 技术 
  ## [网站上线前的终极测试清单](http://developer.51cto.com/art/201912/607355.htm)
  > 网站上线前的终极测试清单
@@ -33,17 +33,19 @@ categories: IT NEWS
  > 复制粘贴一时爽：传播最广的一段Java代码曝出Bug
  ## [首次使用物联网设备进行的Wi-Fi 6试用 测试宣布成功](http://news.51cto.com/art/201912/607333.htm)
  > 首次使用物联网设备进行的Wi-Fi 6试用 测试宣布成功
- ## [想查看微信好友撤回的消息？Python帮你搞定](https://blog.csdn.net/qq_42453117/article/details/103334456)
+ ## [【图解】记一次手撕算法面试：字节跳动的面试官把我四连击了](https://blog.csdn.net/m0_37907797/article/details/103267435)
  > 
- ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
+ ## [99%的人不知道搜索引擎的6个技巧](https://blog.csdn.net/kebi007/article/details/103268254)
  > 
+ ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
+ > 从入门到精通，Java学习路线导航
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
- > HTML CSS整理笔记
- ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
- > python学习目录
- ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ ## [计算机考研，这样选学校才是正解](https://blog.csdn.net/harvic880925/article/details/103193905)
+ > 
+ ## [为什么你学不会递归？告别递归，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/102767860)
+ > 为什么你学不会递归？告别递归，谈谈我的经验
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
@@ -51,18 +53,16 @@ categories: IT NEWS
  > 
  ## [《吐血整理》系列-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [python学习目录](https://blog.csdn.net/qq_43517653/article/details/102961003)
+ > python学习目录
+ ## [Spring Boot: Spring Doc生成OpenAPI3.0文档](https://blog.csdn.net/Developlee/article/details/103232840)
  > 
  ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
- > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
  ## [用 Python 实现植物大战僵尸代码！](https://blog.csdn.net/csdnnews/article/details/103431713)
  > 作者 | marble_xu责编 | 毛中政出品 | CSDN博客功能介绍最近一直在给这个植物大战僵尸游戏添加新的植物和僵尸, 因为网上的图片资源有限，能加的植物和僵尸比较少， 目前进展...
  ## [芯原创始人戴伟民：嵌入式人工智能与芯粒的历史机遇](https://blog.csdn.net/csdnnews/article/details/103431714)
@@ -79,37 +79,6 @@ categories: IT NEWS
  > 对于每一个工程师，似乎都在工作、学习中遇到以下这几样问题：毕业季找工作的时候，即使是名校毕业，企业也都会优先考虑数学专业的毕业生，因为数学越好，越容易上手；每次找工作的时候，都想从小公司...
  ## [云与开源谁吃谁？](https://blog.csdn.net/csdnnews/article/details/103419689)
  > 物竞天择适者生存，云与开源不仅仅是谁吃谁的问题。环境在变化，历史在发展，引出的更多的是我们对于谁能更好的适应这个环境问题的思考......作者|CHARLES FITZGERALD译...
-# 人工智能 
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [IDEA 基本且实用的配置](https://blog.csdn.net/wozniakzhang/article/details/89703065)
- > IDEA 基本且实用的配置
- ## [git 合作开发教程](https://blog.csdn.net/ion_L/article/details/82531585)
- > git 合作开发教程
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
- > 
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [Gradle的使用教程](https://blog.csdn.net/qq_22172133/article/details/81513955)
- > Gradle的使用教程
- ## [在官网下载nodejs和git速度慢的解决方案](https://blog.csdn.net/weixin_43606158/article/details/100609856)
- > 在官网下载nodejs和git速度慢的解决方案
- ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
- > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
- ## [Git基本常用操作](https://blog.csdn.net/gdsgdh308227363/article/details/88717412)
- > Git基本常用操作
- ## [二、安装 Maven](https://blog.csdn.net/Java_Road_Far/article/details/94036617)
- > 二、安装 Maven
- ## [git合并分支](https://blog.csdn.net/weixin_43606158/article/details/100146367)
- > git合并分支
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [git版本仓库介绍](https://blog.csdn.net/weixin_43606158/article/details/91475080)
- > git版本仓库介绍
- ## [JRebel for IntelliJ  热部署破解方法](https://blog.csdn.net/is_chenzh/article/details/82148157)
- > JRebel for IntelliJ  热部署破解方法
- ## [vue-element-admin完整项目实例](https://blog.csdn.net/weixin_42614447/article/details/91494053)
- > vue-element-admin完整项目实例
 # PM 
  ## [设计技巧｜用好视觉分隔符，让你的设计变“高级”](http://www.chanpin100.com/article/110269)
  > 以下内容由摹客团队翻译整理，仅供学习交流。
