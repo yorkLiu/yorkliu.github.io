@@ -1,22 +1,26 @@
 ---
 title: 2019-12-08 IT News
 copyright: true
-date: 2019-12-08 09:01:07
+date: 2019-12-08 10:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G时代需要多少智慧杆?看完吓一跳](http://mp.weixin.qq.com/s?src=11&timestamp=1575766805&ver=2021&signature=u-6opRlw86vuZqOjvnZ*06JpMX0YbHLJ-47ys*kFHk7MDnMtMvniQ3nb4rqONNXH6-2VNOOjAAUxsJgixyRdFLTcyi6Z0z0IPmctV8YtMg0TY2pcWkWD1KSkoezaAwUk&new=1)
- > 5G时代基站越来越密集，城市站址资源将面临空前紧张，无论从站址还是高度、间距等因素考虑，路灯都是5G基站设备的最佳载体。5G时代，路灯和基站天生一对。但如果像下面这些图片那样，仅仅简单粗暴地将基站和路灯...
- ## [还说运营商垄断?看看都被逼成什么样了!](http://mp.weixin.qq.com/s?src=11&timestamp=1575766805&ver=2021&signature=XzSUEp8c0eKNRVt43B4dLvLPMtSwY0rQ5pPqVHma79S2MS2m7Vg6Oo-8n1YFt0WmslE1*gudlgi6JkqUb9o5aq*DxlcWasDIHtjdmFhx-kvnxPLj2ElBWUmNjxpofkOB&new=1)
- > 中移动的杨杰总，今年说了不少接地气的大实话，得到不少同行的点赞。2019年11月22日，在北京举行的“第十九届中国年度管理大会”，对当下消费者对中国移动的一些误解作出解释与回应。他表示，这几年运营商干的确...
- ## [5G已来，中国移动将如何赋能千行百业?](http://mp.weixin.qq.com/s?src=11&timestamp=1575766805&ver=2021&signature=UNutcLLEGsPar-Wc8nA6gSU9ab2zBtLE2EGs28JIiCthpNjUZ-SMUXlGMOAwXE16IGoUmRKxC4-lwaT*kb210SgzQ-dw1YwclluV9SEZ65SAt92LGNWFDy554JIM--VB&new=1)
- > 5G以超乎所有人想象的速度来了！5G的到来在赋予电信运营商政企业务新的机会与增长空间的同时，也带来了新的使命与责任。作为一项革命性的技术，5G的价值将更多地体现在赋能千行百业的2B场景中。正如国家工信部部...
- ## [贵州携号转网数据公布 没想到贵州移动比联通净携出多](http://mp.weixin.qq.com/s?src=11&timestamp=1575766805&ver=2021&signature=vwCm9FnouEomKNNNATaDh43vQuHVKfg7GZzelWXf5uwL6msp2iX8VvkJdyGCtxIVyNJXI3tCVJZDsTvuuiV0dbEXn9bwufD2VWYDAHicjFAx008HytpzItq8O0hGq6ZU&new=1)
- > 运营商财经网 吴碧慧/文 日前，运营商财经网独家获悉一则关于贵州运营商用户携号转网情况，从中可以看出，贵州手机用户对于携号转网的需求并不大，用户之间的流转情况也并不明显，远比预期少的多。据数据显示，1...
- ## [中国软件设新操作系统公司，苹果稳坐高端手机市场，马云说好老板比好公司重要，vivo参与谷歌新系统开发，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1575766805&ver=2021&signature=Tmdi7Q1tbblzgN2W9f2nHoPnYXa0IIYV4Bgykyyyt17EndUQ*iorAVTFOjjbybpaYBXbfg5huYS3qlO5aKC9AxPPlX6qXQTOcKvYudt*xENYejXlRCe5gJQsFLBBXZb6&new=1)
+ ## [中国软件设新操作系统公司，苹果稳坐高端手机市场，马云说好老板比好公司重要，vivo参与谷歌新系统开发，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=Tmdi7Q1tbblzgN2W9f2nHoPnYXa0IIYV4Bgykyyyt16pVM-EbtcXRaG3npoAPcZXg797csDWF15cMrByte**Tn0*kIUZbETjNW*sZVICYmmzvZwNhx0RTLZ-Xd9VzLuW&new=1)
  > 今天是12月7日农历十一月十二最近励志早睡早起结果下班回家刷刷手机再一抬头发现天亮了下面是今天的其他大新闻  中国软件整合中标软件和天津麒麟  设新操作系统公司 （ 新浪财经 ）中国软件将整合旗下两家操作...
- ## [中国移动超2亿元存储集采：为何偏爱软硬一体机?](http://mp.weixin.qq.com/s?src=11&timestamp=1575766805&ver=2021&signature=wvAsd0vr9Yvei7pa6okq1ApLgq0vZMrZmNHxCyGF1KmbKx2eKK6Mg3v7XozFHmJkrhlpusOQMLfGr9JjrHY7HIGzwQeA5Bg8aFnf8w9kNC-cHfAnyJkXGv-4I7X0UX02&new=1)
+ ## [“万物互联·泛在智能”2019 嵌入式智能国际大会烧脑开幕!](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=cmIwHGD3RHZSzhOKqa*I-urcU26UW0ibIHdEFhV*eqoNKKJWYHTNd9fGScss5T0srlqbV0Z20zYeAyQyv9W3OZxEJGp6WBbXfH-MZI2ErIFnuNP2v00gnFY9SkxyYo85&new=1)
+ > 12月6日，以“万物互联·泛在智能”为主题的「2019嵌入式智能国际大会」在深圳市人才研修院隆重开幕。本次大会由哈尔滨工业大学（深圳）、清华大学国际研究生院、CSDN、嵌入式视觉联盟(USA)联合主办，深圳哈工大...
+ ## [5G时代需要多少智慧杆?看完吓一跳](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=u-6opRlw86vuZqOjvnZ*06JpMX0YbHLJ-47ys*kFHk4bwCA0ZWVNU2Vi2bTR2irQcr9aIcBfm6XTymHGfPC0ii1F*CTd3VuMoucsdhQKDHQAnxouqmchH*QawvwvTDGC&new=1)
+ > 5G时代基站越来越密集，城市站址资源将面临空前紧张，无论从站址还是高度、间距等因素考虑，路灯都是5G基站设备的最佳载体。5G时代，路灯和基站天生一对。但如果像下面这些图片那样，仅仅简单粗暴地将基站和路灯...
+ ## [还说运营商垄断?看看都被逼成什么样了!](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=XzSUEp8c0eKNRVt43B4dLvLPMtSwY0rQ5pPqVHma79THkNVMfRZJO--cqajY7Ar*84MX3JtBaIv1C3s*k*YIp44Gun9KKv*9-x1UnwNmoP7sBdl-DRJSrm9qIsObTDtm&new=1)
+ > 中移动的杨杰总，今年说了不少接地气的大实话，得到不少同行的点赞。2019年11月22日，在北京举行的“第十九届中国年度管理大会”，对当下消费者对中国移动的一些误解作出解释与回应。他表示，这几年运营商干的确...
+ ## [\[科技早报7点整\]六六再次发文质疑中国电信 贾跃亭否认隐匿资产并考虑回国量产FF91……](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=w0i*PC-UdjKTV8MJjM6WJy7D2o3tKm-5fu1y0jJxfzUmXCZZf9JFW0lKeoGARubYvSBnT7pu1dUh1UBSM9YJ-*ngZcjVXmJQ15mXyJVn*PuHw3m0nli18L9-yA1w*ZlO&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第665期1.六六再次发文质疑中国电信：发微博因投诉无门近日，作家六六再次在微博公开发声，表明自己与中国电信争论焦点，拒绝中国电信退副卡和钱，发微博是因为投诉无门。六六...
+ ## [5G已来，中国移动将如何赋能千行百业?](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=UNutcLLEGsPar-Wc8nA6gSU9ab2zBtLE2EGs28JIiCsXgQ*B8mKvMVZzSW2v4cM*PcVlg-YkFASyRkh6zc2DNelK*rYdbBaapMKVW2HOzJg7oqIjH88mDXKkz9lEvLK8&new=1)
+ > 5G以超乎所有人想象的速度来了！5G的到来在赋予电信运营商政企业务新的机会与增长空间的同时，也带来了新的使命与责任。作为一项革命性的技术，5G的价值将更多地体现在赋能千行百业的2B场景中。正如国家工信部部...
+ ## [贵州携号转网数据公布 没想到贵州移动比联通净携出多](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=vwCm9FnouEomKNNNATaDh43vQuHVKfg7GZzelWXf5uwHNXRWboW5NI7tkPiF5cRlvupxwg*osuVIZDZY6*DKCO-ckR0n2mtHvfo4Efd*Fa5-UhtlUBMiW5TXFwbf5mtb&new=1)
+ > 运营商财经网 吴碧慧/文 日前，运营商财经网独家获悉一则关于贵州运营商用户携号转网情况，从中可以看出，贵州手机用户对于携号转网的需求并不大，用户之间的流转情况也并不明显，远比预期少的多。据数据显示，1...
+ ## [中国移动超2亿元存储集采：为何偏爱软硬一体机?](http://mp.weixin.qq.com/s?src=11&timestamp=1575770405&ver=2021&signature=wvAsd0vr9Yvei7pa6okq1ApLgq0vZMrZmNHxCyGF1KkNjbV3mXW5mgi4yZ5qSn14tVqy2-kN5NwsSeNSXroAXGTzphQk-zRI9Y5PdmBn5L03l4W-iErkgzdq*hIDNH6x&new=1)
  > 近期，中国移动集团公布了2019年分布式块存储集采候选人名单，至此中国移动集团史上第一次分布式块存储集采，历时大半年终于落下帷幕。此次集采结果也在存储和IT界引起了轰动。因为中国移动此次集采规模大，影响...
 # IT 技术 
  ## [网站上线前的终极测试清单](http://developer.51cto.com/art/201912/607355.htm)
@@ -35,8 +39,6 @@ categories: IT NEWS
  > 复制粘贴一时爽：传播最广的一段Java代码曝出Bug
  ## [首次使用物联网设备进行的Wi-Fi 6试用 测试宣布成功](http://news.51cto.com/art/201912/607333.htm)
  > 首次使用物联网设备进行的Wi-Fi 6试用 测试宣布成功
- ## [在我们睡觉的时候，程序能不能自动查 bug？](https://blog.csdn.net/TiDB_PingCAP/article/details/103400867)
- > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
  ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
@@ -59,11 +61,13 @@ categories: IT NEWS
  > 
  ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [AJAX大总结](https://blog.csdn.net/hebtu666/article/details/103325397)
- > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
+ > 
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ > 
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [Rust 入坑指南 | CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/103441836)
  > 作者| Jackyzhe责编 | 屠敏出品 | CSDN（ID：CSDNnews）随着我们的坑越来越多，越来越大，我们必须要对各种坑进行管理了。Rust为我们提供了一套坑务管理系统，方...
@@ -76,35 +80,38 @@ categories: IT NEWS
  ## [程序员都应该了解的一种数据格式之 JSON](https://blog.csdn.net/csdnnews/article/details/103441830)
  > 作者 | 猪哥责编 | maozzJSON的诞生原因是因为XML整合到HTML中各个浏览器实现的细节不尽相同，所以道格拉斯·克罗克福特（Douglas Crockford） 和 奇普·莫...
 # 人工智能 
- ## [MySQL数据库总结](https://blog.csdn.net/weixin_43691058/article/details/103175678)
- > 
- ## [explain 用法详解](https://blog.csdn.net/jiamengmengya/article/details/103410982)
- > explain 用法详解
- ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
- > 
- ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
- > 史上最全的mysql基础教程
- ## [MySQL：存储过程，函数，触发器](https://blog.csdn.net/weixin_45730091/article/details/103401705)
- > MySQL：存储过程，函数，触发器
- ## [SQL开发规范](https://blog.csdn.net/guanfengliang1988/article/details/103411291)
- > SQL开发规范
- ## [MySql触发器，可用于小型项目日志记录、数据同步](https://blog.csdn.net/qq_37336110/article/details/103417441)
- > MySql触发器，可用于小型项目日志记录、数据同步
- ## [MySQL的简单查询语句(十五)](https://blog.csdn.net/yjltx1234csdn/article/details/103416888)
- > MySQL的简单查询语句(十五)
- ## [MySQL 5.7.28安装教程--稳](https://blog.csdn.net/YueYingGuang/article/details/103410868)
- > MySQL 5.7.28安装教程--稳
- ## [SQL技术内幕：SQL编程](https://blog.csdn.net/qq_34417408/article/details/103417810)
- > SQL技术内幕：SQL编程
- ## [mysql 触发器错误 Can't update table in stored function/trigger because it is already used by state（已解决）](https://blog.csdn.net/Late_whale/article/details/103411805)
- > mysql 触发器错误 Can&x27;t update table in stored function/trigger because it is already used by state（已解决）
- ## [Oracle游标Cursor一些例子](https://blog.csdn.net/qq_16171671/article/details/103416835)
- > Oracle游标Cursor一些例子
- ## [MySQL数据库调优](https://blog.csdn.net/weixin_45496601/article/details/103412463)
- > MySQL数据库调优
- ## [通过各种简单案例，让你彻底搞懂 MySQL 中的锁机制与 MVCC](https://blog.csdn.net/horses/article/details/103324323)
- > 
- ## [关于mybatis生成的方法insertSelective、insert、updateByPrimaryKeySelective、updateByPrimaryKey区别](https://blog.csdn.net/qq_34537547/article/details/103411117)
- > 关于mybatis生成的方法insertSelective、insert、updateByPrimaryKeySelective、updateByPrimaryKey区别
+ ## [webView系列（十一）----webview网页调试之setWebContentsDebuggingEnabled使用](https://blog.csdn.net/freak_csh/article/details/95585148)
+ > webView系列（十一）----webview网页调试之setWebContentsDebuggingEnabled使用
+ ## [关于Android 10.0适配，看这篇就够了](https://blog.csdn.net/weixin_40611659/article/details/95174124)
+ > 关于Android 10.0适配，看这篇就够了
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [Android实现多渠道打包，动态替换包名、Icon、图片等资源，解决因applicationId和BuildConfig路径不匹配的问题](https://blog.csdn.net/woshizisezise/article/details/96303750)
+ > Android实现多渠道打包，动态替换包名、Icon、图片等资源，解决因applicationId和BuildConfig路径不匹配的问题
+ ## [进程间通信特性介绍](https://blog.csdn.net/shanbl_linux_android/article/details/100600570)
+ > 进程间通信特性介绍
+ ## [android studio的安装，史上最详细(超多图)！！](https://blog.csdn.net/qq_41976613/article/details/91432304)
+ > android studio的安装，史上最详细(超多图)！！
+ ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
+ > 小米airdots双耳串联问题解决
+ ## [Android Doze模式适配实验记录](https://blog.csdn.net/gaoxiaoweiandy/article/details/95778748)
+ > Android Doze模式适配实验记录
+ ## [【Android】蓝牙开发——经典蓝牙（附Demo源码）](https://blog.csdn.net/qq_38950819/article/details/95338625)
+ > 【Android】蓝牙开发——经典蓝牙（附Demo源码）
+ ## [一款不用手动打卡，自动调起钉钉上班打卡的App](https://blog.csdn.net/Mr___Xu/article/details/83688678)
+ > 一款不用手动打卡，自动调起钉钉上班打卡的App
+ ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
+ > Android studio 3.5安装详解
+ ## [苹果(iPhone)手机不越狱修改定位方法](https://blog.csdn.net/u013368878/article/details/91492540)
+ > 苹果(iPhone)手机不越狱修改定位方法
+ ## [【Android】【系统适配】解决此应用专为旧版Android打造问题](https://blog.csdn.net/u013718730/article/details/94583439)
+ > 【Android】【系统适配】解决此应用专为旧版Android打造问题
+ ## [xilinx  vivado 百度云分享 vitis vivado 2019.2 2019.1 2018.3  2018.2 2017.4 （包含license）](https://blog.csdn.net/weixin_40377195/article/details/93683488)
+ > xilinx  vivado 百度云分享 vitis vivado 2019.2 2019.1 2018.3  2018.2 2017.4 （包含license）
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+# PM 
+ ## [Facebook Pay推出——Facebook再次征战社交电商](http://www.woshipm.com/it/3184657.html)
+ > 本文介绍了 Facebook 推出的支付工具，以及背后反映出的 Facebook 对社交电商梦的再次追逐。支付工具 Facebook Pay 的出现，意味着世界社交巨头 Facebook 将再次征...
 
     
