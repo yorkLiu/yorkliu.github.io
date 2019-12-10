@@ -1,22 +1,24 @@
 ---
 title: 2019-12-10 IT News
 copyright: true
-date: 2019-12-10 08:00:48
+date: 2019-12-10 09:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [高通支持5G毫米波的背后是美国谋取更多5G技术话语权](http://mp.weixin.qq.com/s?src=11&timestamp=1575936005&ver=2025&signature=hlTqisWXuJ8Km*nnHX**M9TILrMnStmYepY0k5ScQZtFb8pQ5u8eJ9WSYrhApP4NoTW3Kz8CAZ1wqxdzSMucDPlbD4FPnlTStSAA*XxR8eS6vx9UcxlA0mUZgglRSRfq&new=1)
- > 高通发布的旗舰芯片骁龙865并没集成5G基带，手机企业采用该芯片需要外挂其5G基带X55，这意味着它在5G手机芯片技术上落后于华为、三星和联发科。高通当然不会承认它在5G芯片技术上落后，强调其5G基带芯片X55为全...
- ## [上鸿蒙，刚刚，华为突然宣布!](http://mp.weixin.qq.com/s?src=11&timestamp=1575936005&ver=2025&signature=MbzKW8KnMaaDu2OE9nAKhHcvPlZQ9CAqQKm2fhXGrwzOqIJDOWQb*Lj0b1MexlnNvkUuuxwTrYVzYMPgRy5iZfzoRUXuu96xwanTocGG0EazJ1tTlGy8L2bbD1xPa3a2&new=1)
- > 作者：张生来源：鸣金网（ID：mingjin-wang）于无声处听惊雷，华为又一个“B计划”公开！ 一全面推进，鸿蒙将正式登场！ 今天上午，华为消费者业务总裁王成录宣布：明年华为除了手机、平板和电脑，其他终端产品...
- ## [亚马逊CTO沃格斯：AWS如何通过自定义硬件提升云端性能](http://mp.weixin.qq.com/s?src=11&timestamp=1575936005&ver=2025&signature=ZL-5g4sFZ03fogptfqQDgKA-kabn9CFwGZw7RCWrRv2UQktLjM9zYQOGa9G0TA4I4Z2wGuLAExl0dJDyTQ9X0*nbbpxCSlyJXkaiU3MpIPSuawYjTIYvoYVvA0Xuk2qx&new=1)
- > 在re:Invent大会上，亚马逊的CTO沃格纳•沃格尔斯（Werner Vogels）详细介绍了AWS如何通过部署自定义硬件来创建与裸金属性能相近的实例。AWS reInvent已经成为每年最值得关注的科技盛会之一，对于技术人员而言，...
- ## [奥迪裁员仅限于德国两工厂丨丰田“官宣”拆分中国业务\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575936005&ver=2025&signature=iCEpK3M4CCo7Rgj2MzURqDwgzyvRK652x-RAOrdKCL78lODmI8FHNo4KSGs-IVpxbXbmscQebJ6Z8ojT86ObDvghcEo-Hv9SEZE0qeYa1qHM4n9uEhfVs5JgOsYD1fZ4&new=1)
- > 12月09日丨周一【Do说】编辑 | 赵艾虎奥迪裁员仅限于德国两工厂，不涉及中国市场奥迪中国新任总裁武佳碧在接受采访时表示，奥迪德国总部采取的人员调整是一种人才转型举措，此次人员调整仅限于德国两个工厂，不...
- ## [GOG上线下载网络改善测试页面](http://mp.weixin.qq.com/s?src=11&timestamp=1575936005&ver=2025&signature=qXA2RP4piktJet8Whm7Zf63vYocEUkUEudidcI91b7NwQLXTumMzZGrdvmoMye34JzvjnZOxunaKjbgM57IXEItD38OYrvfqCt4gG07K6BboMxRFq6LQk1H0mp7skjCp&new=1)
+ ## [GOG上线下载网络改善测试页面](http://mp.weixin.qq.com/s?src=11&timestamp=1575937805&ver=2025&signature=qXA2RP4piktJet8Whm7Zf63vYocEUkUEudidcI91b7NwQLXTumMzZGrdvmoMye342R3SjKsQNPHMhX2Sf*aI9fMR1tbwctbtWvZCpatowiBpk9DnlRPNmc2NHRm77LVk&new=1)
  > GOG在官方微博上发布公告称：上线了改善GOG在中国下载体验的测试网页。该测试能收集到不同互联网服务商的信息，以便对世界各地的下载地点进行基准测试，提升下载体验。测试完成的用户可获官方赠送《赛博朋克2077...
+ ## [奥迪裁员仅限于德国两工厂丨丰田“官宣”拆分中国业务\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1575937805&ver=2025&signature=iCEpK3M4CCo7Rgj2MzURqDwgzyvRK652x-RAOrdKCL78lODmI8FHNo4KSGs-IVpxQMNDALLu3k9BudXXMX4kBWwwf8lhcg**9ccrMjkBKFQSkDwdZtr8PEIO8ptUygkk&new=1)
+ > 12月09日丨周一【Do说】编辑 | 赵艾虎奥迪裁员仅限于德国两工厂，不涉及中国市场奥迪中国新任总裁武佳碧在接受采访时表示，奥迪德国总部采取的人员调整是一种人才转型举措，此次人员调整仅限于德国两个工厂，不...
+ ## [上鸿蒙，刚刚，华为突然宣布!](http://mp.weixin.qq.com/s?src=11&timestamp=1575937805&ver=2025&signature=MbzKW8KnMaaDu2OE9nAKhHcvPlZQ9CAqQKm2fhXGrwzOqIJDOWQb*Lj0b1MexlnNIco8h8l*xVYFS50e3sgHBih9AoTb9KNE7QzLf0CKHIIdQxtHKNi3v5RVRPdJGkxP&new=1)
+ > 作者：张生来源：鸣金网（ID：mingjin-wang）于无声处听惊雷，华为又一个“B计划”公开！ 一全面推进，鸿蒙将正式登场！ 今天上午，华为消费者业务总裁王成录宣布：明年华为除了手机、平板和电脑，其他终端产品...
+ ## [亚马逊CTO沃格斯：AWS如何通过自定义硬件提升云端性能](http://mp.weixin.qq.com/s?src=11&timestamp=1575937805&ver=2025&signature=ZL-5g4sFZ03fogptfqQDgKA-kabn9CFwGZw7RCWrRv2UQktLjM9zYQOGa9G0TA4IHnV-lkRXM2PUzRDDWvpDwEO8dc8Wvnh-4x77fHPaInomhppZ*JCSiYtgn32ExHXq&new=1)
+ > 在re:Invent大会上，亚马逊的CTO沃格纳•沃格尔斯（Werner Vogels）详细介绍了AWS如何通过部署自定义硬件来创建与裸金属性能相近的实例。AWS reInvent已经成为每年最值得关注的科技盛会之一，对于技术人员而言，...
+ ## [高通支持5G毫米波的背后是美国谋取更多5G技术话语权](http://mp.weixin.qq.com/s?src=11&timestamp=1575937805&ver=2025&signature=hlTqisWXuJ8Km*nnHX**M9TILrMnStmYepY0k5ScQZtFb8pQ5u8eJ9WSYrhApP4NtpUoVw47cvsC6YyJUnEU8fodnltypTHQaW*AeYZZt88X2yJGEqTzgGCq0bqCd2-e&new=1)
+ > 高通发布的旗舰芯片骁龙865并没集成5G基带，手机企业采用该芯片需要外挂其5G基带X55，这意味着它在5G手机芯片技术上落后于华为、三星和联发科。高通当然不会承认它在5G芯片技术上落后，强调其5G基带芯片X55为全...
 # IT 技术 
+ ## [关于Kata容器的那些事](http://stor.51cto.com/art/201912/607444.htm)
+ > 关于Kata容器的那些事
  ## [Netty架构原理，不怕你看不懂！](http://os.51cto.com/art/201912/607393.htm)
  > Netty架构原理，不怕你看不懂！
  ## [花30万挖来的高级程序员，真的值吗?](http://news.51cto.com/art/201912/607394.htm)
@@ -31,15 +33,23 @@ categories: IT NEWS
  > GraphQL，API的新工具规范
  ## [微软总裁：大量工程师13个月无双休加班才抢到百亿美元云计算合同](http://news.51cto.com/art/201912/607397.htm)
  > 微软总裁：大量工程师13个月无双休加班才抢到百亿美元云计算合同
- ## [33岁程序员，年薪30万：“幸亏我被裁了”！](http://news.51cto.com/art/201912/607395.htm)
- > 33岁程序员，年薪30万：“幸亏我被裁了”！
- ## [想查看微信好友撤回的消息？Python帮你搞定](https://blog.csdn.net/qq_42453117/article/details/103334456)
- > 
+ ## [中小型企业5种网络攻击预防方法](http://netsecurity.51cto.com/art/201912/607460.htm)
+ > 小型企业的网络攻击预防必须非常重视其网络安全性。由于安全性较弱，黑客现在正在积极地进行有针对性的网络
+ ## [2019年全球十大流行勒索病毒](http://netsecurity.51cto.com/art/201912/607459.htm)
+ > 勒索病毒已经成为了网络安全最大的威胁，利用勒索病毒进行攻击的网络犯罪活动也是全球危害最大的网络犯罪组
+ ## [Linux CPU性能优化方法](http://os.51cto.com/art/201912/607458.htm)
+ > 在Linux系统中，由于成本的限制，往往会存在资源上的不足，例如 CPU、内存、网络、IO 性能。本文，就对 Lin
+ ## [分享一份精心总结的数据库范式图解，值得收藏](http://database.51cto.com/art/201912/607457.htm)
+ > 相信很多朋友每次看数据库范式总是感觉有点绕，网上虽然也有很多资料，不过相信大家还是比较喜欢看图来理解
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [想查看微信好友撤回的消息？Python帮你搞定](https://blog.csdn.net/qq_42453117/article/details/103334456)
  > 
  ## [华为云再“祭”神器！](https://blog.csdn.net/csdnnews/article/details/103085624)
  > 
- ## [Docker基础与实战，看这一篇就够了](https://blog.csdn.net/jianzhang11/article/details/103221150)
+ ## [基于SkyWalking的分布式跟踪系统 - 异常告警](https://blog.csdn.net/jianzhang11/article/details/102982814)
+ > 
+ ## [Streams：深入理解Redis5.0新特性](https://blog.csdn.net/weixin_44280696/article/details/103391884)
  > 
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
@@ -49,51 +59,51 @@ categories: IT NEWS
  > 
  ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
  > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
+ > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
+ ## [HTML CSS整理笔记](https://blog.csdn.net/Lin16819/article/details/102759862)
+ > HTML CSS整理笔记
  ## [十大排序算法图解](https://blog.csdn.net/u012999810/article/details/103310661)
  > 十大排序算法图解
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
- > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [Python快速编程入门课后习题答案](https://blog.csdn.net/lzyws739307453/article/details/103220758)
- > Python快速编程入门课后习题答案
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
+ ## [淘集集陨落启示录：社交电商红利已过，需提高造血能力](http://www.lanjingtmt.com/news/detail/45153.shtml)
+ > 从异军突起到陨落，淘集集只花了16个月时间。当前的关键问题是，淘集集宣告破产后需要面对和解决哪些问题、淘集集员工及商家的境遇究竟如何。
 # 人工智能 
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [实习5个月的回首](https://blog.csdn.net/qq_41434746/article/details/103411142)
- > 实习5个月的回首
- ## [python制作飞船大战](https://blog.csdn.net/liuzuoping/article/details/103334002)
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
- ## [Sudoku数独](https://blog.csdn.net/Lonelyooacz/article/details/79949260)
- > Sudoku数独
- ## [cf 1067D Computer Game](https://blog.csdn.net/tidiyd/article/details/83449495)
- > cf 1067D Computer Game
- ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
+ ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
+ > 史上最全的mysql基础教程
+ ## [工作问题总结20191201](https://blog.csdn.net/weixin_44348427/article/details/103336395)
+ > 工作问题总结20191201
+ ## [SQL语法（MYSQL）](https://blog.csdn.net/weixin_41249041/article/details/87776976)
+ > SQL语法（MYSQL）
+ ## [pg主从复制（一）——流复制机制](https://blog.csdn.net/Hehuyi_In/article/details/102679951)
+ > pg主从复制（一）——流复制机制
+ ## [MySQL数据库总结](https://blog.csdn.net/weixin_43691058/article/details/103175678)
  > 
- ## [\[NOIP\] \[LCA\] \[贪心\] NOIP2012Day2 疫情控制(blockade)](https://blog.csdn.net/HeRaNO/article/details/51571071)
- > \[NOIP\] \[LCA\] \[贪心\] NOIP2012Day2 疫情控制(blockade)
- ## [爬坑记：论开发习惯的重要性。。。](https://blog.csdn.net/qq_43186095/article/details/103106551)
- > 爬坑记：论开发习惯的重要性。。。
- ## [拼图游戏](https://blog.csdn.net/weixin_45743799/article/details/103416500)
- > 拼图游戏
- ## [单例模式](https://blog.csdn.net/qq_41940658/article/details/103416055)
- > 单例模式
- ## [Unity学习笔记：Unity编辑器相关知识](https://blog.csdn.net/qq_39332021/article/details/103401624)
- > Unity学习笔记：Unity编辑器相关知识
- ## [强烈推荐！古言小说系列，《归德侯府》和《恰逢雨连天》真心好看](https://blog.csdn.net/sun520912/article/details/101611475)
- > 强烈推荐！古言小说系列，《归德侯府》和《恰逢雨连天》真心好看
- ## [工作之外的闲暇时光(玩魔方)](https://blog.csdn.net/czh500/article/details/103412208)
- > 工作之外的闲暇时光(玩魔方)
- ## [虚幻4--UE4是什么？](https://blog.csdn.net/xirinianshao/article/details/103417331)
- > 虚幻4--UE4是什么？
- ## [【CCF】201712-2游戏](https://blog.csdn.net/weixin_43614026/article/details/103418806)
- > 【CCF】201712-2游戏
+ ## [MySQL的简单查询语句(十五)](https://blog.csdn.net/yjltx1234csdn/article/details/103416888)
+ > MySQL的简单查询语句(十五)
+ ## [MYSQL零基础入门安装到精通系列教程](https://blog.csdn.net/mysql012/article/details/103365513)
+ > MYSQL零基础入门安装到精通系列教程
+ ## [后端学习-学生成绩管理系统(html+ajax+servlet实现)](https://blog.csdn.net/LeeGe666/article/details/103417231)
+ > 后端学习-学生成绩管理系统(html+ajax+servlet实现)
+ ## [SQL基础语句（详解版）](https://blog.csdn.net/CZXY18ji/article/details/103176522)
+ > SQL基础语句（详解版）
+ ## [实验六：JDBC数据库操作](https://blog.csdn.net/qq_43545471/article/details/103417009)
+ > 实验六：JDBC数据库操作
+ ## [图解MySQL的join关键字(7大分类,一目了然)](https://blog.csdn.net/weixin_44318830/article/details/103202827)
+ > 图解MySQL的join关键字(7大分类,一目了然)
+ ## [数据库和Redis系列1--MySQL基础看这一篇足够了](https://blog.csdn.net/qq_31994231/article/details/103334826)
+ > 数据库和Redis系列1--MySQL基础看这一篇足够了
+ ## [java连接mysql数据库操作](https://blog.csdn.net/weixin_44768806/article/details/103420640)
+ > java连接mysql数据库操作
+ ## [SQL技术内幕：SQL编程](https://blog.csdn.net/qq_34417408/article/details/103417810)
+ > SQL技术内幕：SQL编程
 # PM 
  ## [收藏！载入史册的18个国外“增长黑客案例”](http://www.chanpin100.com/article/110297)
  > 海外经典增长案例
