@@ -1,20 +1,22 @@
 ---
 title: 2019-12-11 IT News
 copyright: true
-date: 2019-12-11 08:01:16
+date: 2019-12-11 09:01:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [不再更新，微软手机操作系统黯然退场……](http://mp.weixin.qq.com/s?src=11&timestamp=1576020604&ver=2027&signature=Fwf-3n0ciu34vwa1aLf0lrzUIAK4vZH9jmfLIegNSz7Vmm1rA8t6ddxomt4lCsCIEquFDT9BpJUYoNGJGYUjCkBnU8ZC9hNQAVOI4L86rV0=&new=1)
+ ## [不再更新，微软手机操作系统黯然退场……](http://mp.weixin.qq.com/s?src=11&timestamp=1576024205&ver=2027&signature=Fwf-3n0ciu34vwa1aLf0lrzUIAK4vZH9jmfLIegNSz7Qe4sVDEqiXNd9eCA4ByL1TVrT5OyfBRc5inHGaioNvx8lxKOwEy3*cWc-x0eXZ*c=&new=1)
  > 参考消息网12月11日报道 台湾媒体报道称，曾经被市调机构看好，有机会挑战苹果iOS以及安卓的第三大手机操作系统Windows 10 Mobile，12月10日正式走到了生命的终点。按照微软方面的规划，2019月12月10日后，Windo...
- ## [联通在线联合华为推动5G搞了个大事情!](http://mp.weixin.qq.com/s?src=11&timestamp=1576020604&ver=2027&signature=8hf5JXoE9c7oJhY0-QdhJ5625xBVB6IUrJ3R5q*cQcwIYa51HmZzhP39k7qTo5UDWIFVelgU6*-0pSMoLz0L9A-T2*chB12MCcltTwq11-uVeHPZ1l2woD-jgx8D-nox&new=1)
+ ## [联通在线联合华为推动5G搞了个大事情!](http://mp.weixin.qq.com/s?src=11&timestamp=1576024205&ver=2027&signature=8hf5JXoE9c7oJhY0-QdhJ5625xBVB6IUrJ3R5q*cQcwIYa51HmZzhP39k7qTo5UDi6lZgb48sHs*igbGu-JztaRbh73Gz7QQ-UfuAYYLxQ9blhkduqr5QFFK4QCEDyGn&new=1)
  > 12月10日，联通在线信息科技有限公司（以下简称“联通在线”）“5G创新大会”在南京召开。会上，联通在线宣布携手华为成立“5G数字内容应用联合创新实验室“，共同推动5G内容生态的升级和发展，同时正式揭牌启动...
- ## [刚刚，“被公关部逼出来”的OPPO掌门人用“川普”发出5G时代最强音!](http://mp.weixin.qq.com/s?src=11&timestamp=1576020604&ver=2027&signature=0dlAb4MjH8WD5rOCVpeH8GglNh6IwPjxaw6RN26ABnpkdCWFTTaKl5geQ-k11U24g62g5CPOJxMYdB5cQMfhMq1ofNAlkViq6ZyJgQrdV2tzqwE1rKlWMxO5esPzLz3w&new=1)
+ ## [刚刚，“被公关部逼出来”的OPPO掌门人用“川普”发出5G时代最强音!](http://mp.weixin.qq.com/s?src=11&timestamp=1576024205&ver=2027&signature=0dlAb4MjH8WD5rOCVpeH8GglNh6IwPjxaw6RN26ABnpkdCWFTTaKl5geQ-k11U24sSD*0VZLGQrmozpxZNyhFwLT6wi5NYhf9uJZEfJrZbRJkAKPDzLlBconOunHSJOC&new=1)
  > 这是一个黑科技大爆炸，所谓奇点临近的年代。去年，我公开总结了未来十年的五大技术趋势ABCD5，即：AI-人工智能、BlockChain-区块链、Cloud computing-云计算、Big Data-大数据、5G。各大科技公司和互联网企业
 # IT 技术 
  ## [无服务器备份是企业可行的数据保护方式](http://stor.51cto.com/art/201912/607446.htm)
  > 无服务器备份是企业可行的数据保护方式
+ ## [盘点ES7、ES8、ES9、ES10新特性](http://developer.51cto.com/art/201912/607537.htm)
+ > 盘点ES7、ES8、ES9、ES10新特性
  ## [Python正则表达式急速入门](http://developer.51cto.com/art/201912/607491.htm)
  > Python正则表达式急速入门
  ## [运维工程师心法：6 大技能让你告别背锅](http://news.51cto.com/art/201912/607490.htm)
@@ -27,40 +29,38 @@ categories: IT NEWS
  > 关于Kata容器的那些事
  ## [盘点 | 2019年优秀的10家DevOps初创公司](http://developer.51cto.com/art/201912/607462.htm)
  > 盘点 | 2019年优秀的10家DevOps初创公司
- ## [在Linux终端快速检测网站是否宕机的6个方法](http://os.51cto.com/art/201912/607483.htm)
- > 在Linux终端快速检测网站是否宕机的6个方法
  ## [企业感染恶意软件的处理建议](http://netsecurity.51cto.com/art/201912/607538.htm)
  > 企业网络感染恶意软件可能会造成关键信息系统或数据的破坏，直接威胁正常业务的运行。为了应对这样的情况，
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [《吊打面试官》系列-Redis双写一致性、并发竞争、线程模型](https://blog.csdn.net/qq_35190492/article/details/103004235)
  > 
  ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
  > 从入门到精通，Java学习路线导航
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [Python 进阶必备：线程模块 threading](https://blog.csdn.net/xufive/article/details/102993666)
+ ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [《吐血整理》系列-顶级程序员工具集](https://blog.csdn.net/qq_35190492/article/details/103246772)
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
+ ## [Python 进阶必备：线程模块 threading](https://blog.csdn.net/xufive/article/details/102993666)
  > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
+ ## [温暖的AI](https://blog.csdn.net/qq_42030777/article/details/103463135)
+ > 温暖的AI
+ ## [python基础教程目录，从入门到上手的](https://blog.csdn.net/adrry01/article/details/103475937)
+ > python基础教程目录，从入门到上手的
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [《吊打面试官》系列-Redis双写一致性、并发竞争、线程模型](https://blog.csdn.net/qq_35190492/article/details/103004235)
  > 
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
  > 
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
+ ## [AES加密算法工作原理](https://blog.csdn.net/s_lisheng/article/details/103470462)
+ > 
  ## [「刷新 CTO」微软与 CSDN 的 CTO 转型思想汇](https://blog.csdn.net/csdnnews/article/details/103485675)
  > 回首正处于飞速发展中数字化时代，我们亲眼见证着大数据正成为这个时代的基石、AI 演变为新型的基础设施、区块链为安全加固了防火墙……无数的现实证明，这些技术最终在市场价值变现的过程中为我们...
  ## [干货收藏！史上最强 Tomcat 8 性能优化来啦！| 原力计划](https://blog.csdn.net/csdnnews/article/details/103485679)
@@ -85,7 +85,42 @@ categories: IT NEWS
  > 新一年度的编程语言榜单来了，如果你每年都在看，会发现编程榜单跟娱乐圈的“金鹰节”一类的颁奖节目很像，有很多新秀获奖得主，更会见证许多老牌“明星”的蓦然暗淡，令人不胜唏嘘。比如，曾被网友盛...
  ## [80% 的 Android 应用正使用加密流量！](https://blog.csdn.net/csdnnews/article/details/103470830)
  > 本文带你了解谷歌对加密流量以及对Android应用程序执行API级别的要求，来看看这些数据未来可能的变化趋势吧。作者|Paul Sawers译者 |谭开朗，责编 | 毛中政出品 |...
+ ## [京东方净利持续下滑，聚集IoT能否助其“过冬”](http://www.lanjingtmt.com/news/detail/45161.shtml)
+ > 近日，京东方董事长陈炎顺在2019年全球创新伙伴大会上表示，将启用全新的产业合作平台——BOE智慧系统创新中心，同时，宣布京东方将布局智慧出行、零售、医工等更多物联网应用场景。
+# 人工智能 
+ ## [《SQL必知必会》学习笔记（sqlite）](https://blog.csdn.net/w526482656/article/details/93403864)
+ > 《SQL必知必会》学习笔记（sqlite）
+ ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
+ > oracle 获取第一条数据
+ ## [SpringBoot系列（9）：Mybatis之注解版](https://blog.csdn.net/mu_wind/article/details/100152077)
+ > SpringBoot系列（9）：Mybatis之注解版
+ ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
+ > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
+ ## [MYSQL登录错误：Access denied for user 'root'@'localhost' (using password:YES)](https://blog.csdn.net/sz15732624895/article/details/92835640)
+ > MYSQL登录错误：Access denied for user &x27;root&x27;@&x27;localhost&x27; (using password:YES)
+ ## [CF 982C](https://blog.csdn.net/qq_37520038/article/details/96480889)
+ > CF 982C
+ ## [MySQL基础—06：数据库连接池](https://blog.csdn.net/jingzhi111/article/details/93996860)
+ > MySQL基础—06：数据库连接池
+ ## [解决Win10下Mysql 的Access denied for user'root'@'localhost' (using password: NO)问题](https://blog.csdn.net/fores_t/article/details/92085383)
+ > 解决Win10下Mysql 的Access denied for user&x27;root&x27;@&x27;localhost&x27; (using password: NO)问题
+ ## [MySQL中添加或插入语句(Insert)的几种使用方式](https://blog.csdn.net/qq_40194399/article/details/94554191)
+ > MySQL中添加或插入语句(Insert)的几种使用方式
+ ## [centos7.3环境下搭建oracle11G dataguard总结](https://blog.csdn.net/liufeili/article/details/95452385)
+ > centos7.3环境下搭建oracle11G dataguard总结
+ ## [用layui实现下拉框select多选,取值](https://blog.csdn.net/gs981600308/article/details/96997967)
+ > 用layui实现下拉框select多选,取值
+ ## [Linux系统操作（9）：apt命令](https://blog.csdn.net/qq_41554005/article/details/100556444)
+ > Linux系统操作（9）：apt命令
+ ## [Mysql系列（一）:含逻辑处理的sql语句，如查询结果为null的转为0](https://blog.csdn.net/mu_wind/article/details/93976316)
+ > Mysql系列（一）:含逻辑处理的sql语句，如查询结果为null的转为0
+ ## [springboot 连接MySQL的时候报错The server time zone value 'ÖÐ¹ú±ê×¼Ê±¼ä' is unrec](https://blog.csdn.net/m0_37822490/article/details/100940070)
+ > springboot 连接MySQL的时候报错The server time zone value &x27;ÖÐ¹ú±ê×¼Ê±¼ä&x27; is unrec
+ ## [mysql根据json字段内容作为查询条件（包括json数组），检索数据](https://blog.csdn.net/qq_21187515/article/details/90760337)
+ > mysql根据json字段内容作为查询条件（包括json数组），检索数据
 # PM 
+ ## [功能点调研：花椒直播页 VS 映客直播页](http://www.woshipm.com/pmd/3195448.html)
+ > 本文作者从体验者的身份出发，从3个方面对花椒直播和映客直播两款产品进行了功能点调研，与大家分享。为什么会做这样一个对比呢？目的是练习产品学习中的【功能点调研...
  ## [产品经理年终盛会 | 阿里/腾讯等16位大厂实战派、独角兽企业高管，解读产品经理能力模型](http://www.woshipm.com/event/3174054.html)
  > 会议介绍我们生活中的点点滴滴都已经被互联网产品所渗透，吃穿住行，听音乐看电影，几乎每个生活细节，都能找到对应的互联网产品。移动互联网的最大特点是变化极快，...
  ## [关于B端产品，你不得不知道的那些事](http://www.chanpin100.com/article/110306)
