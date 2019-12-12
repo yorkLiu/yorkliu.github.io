@@ -1,7 +1,7 @@
 ---
 title: 2019-12-12 IT News
 copyright: true
-date: 2019-12-12 10:01:51
+date: 2019-12-12 12:02:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,89 +68,103 @@ AI&#25945;&#32946;&#21697;&#29260;&#8220;&#36138;&#24515;&#31185;&#25216;&#8221;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [再见了，万达!国内突然宣布!大转折全面爆发!](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=P9IHFt4c6xTmLLPnNcjGB2w2JginOf0A8a9-bF13Y2nhoPdAVuoIrBVR4bhTpSlIVJ5U1rKgpZ883zL*ZVKhh*dLdCvMj2Els8x8kWoZL8jV8Ctd7VbDLc3WiTQt5wHk&new=1)
- > 近日，苏宁易购宣布，万达百货的37家门店将正式更名为苏宁易购广场，并将其打造为智慧零售广场。据悉，第一家改造门店将在5月底亮相。再见了，王健林；再见了，万达百货！我的人生里，已没有了你......万达的现...
- ## [雷军、李彦宏、丁磊、周鸿祎最看好这些新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=E7ablfstZk5y*ZDAgsHYEMEkY4IdeDwpBBlQqO7YVEiLUtB8lhAwVydrI-cHlDcEjd9JYapsfyVKG-mt*dN0UMViwXCB8QbgpoeH7ARtBICSfw*Xa8djTMYaGpA1zbuY&new=1)
- > 今天是管理思想自我升维第158天！在充满不确定性的全球经济大背景下，数字经济对于带动全球经济复苏，有着非常重要的意义；技术创新，将是拉动新一轮经济增长的强劲动力。5G时代的到来，可能会彻底改变中国互联...
- ## [2019 ACM Fellow 名单出炉，新晋陶大程、谢源等7位华人，中科大、中科院、MSRA科学家入选](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=zqvAnx5Xb-C0D-wieA7edXdA0hul3yzAhuBB0YxjJNkikN9NHkApPw09*DA8rq0GilFJqYcOjLBZMa7T35OjmAiY6RywrzIgBjxubw5rev2jZDNdqRXUjOA0GMHtutRL&new=1)
- > 机器之心报道机器之心编辑部刚刚，2019 年度 ACM Fellow 名单正式公布，共 58 人入选。陶大程、谢源、李向阳等华人科学家代表成为新晋 ACM Fellow。ACM（Association for Computing Machi
- ## [新品首发丨华工正源行业首发25GBASE DSFP](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=lMjVBEBmoPn1McUwA0dEJqSqI63xa5fSfTWgTwIYCsQhyPCnHT8HHW3NdVHUWrFdT-h8L-H71i3wQZORApE4yg*h03l-dr9gJn66t21RRnaGYObkfZO8ocshFtrhMrht&new=1)
+ ## [头条将推出直播答题节目头号英雄；华为 5000 万元成立云计算公司；趣头条否认数据造假等指控，将启动诉讼|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=AjD3eZr0BrtOGA977wqN61ftfsLA0lj*CWhaioZ5P1W84HuWhSU0xYFjF8G21SnSU3bjEvBqemg7dO2Lf2MwIb-4KEMrh5nLsWkM6uJFfRUFDSRCkK**WFP8CA4lq9ZU&new=1)
+ > 趣头条回应做空：坚决否认数据造假等指控，将启动诉讼12 月 11 日早间消息，市场研究机构 WolfpackResearch 发布做空报告，指控国内资讯阅读平台趣头条存在欺诈行为。报告称，2018 年趣头条 74% 的销售额是虚假...
+ ## [超大型金属3D打印的成本已如此低廉?12米长钢桥、6米大屏风··](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=RXNwEDkUwhCi2QFpApqOEmDIEajbfVnVPmfryHbq0eGtM52rMsfbnCmkvFoYPxhqQFD7YQmZOeoJca7jMjOpQ0TF0rhHLshA9uBwqN-znqkNowhWCeaY6VqL11whUnI0&new=1)
+ > 南极熊导读：12米长钢桥、6米大屏风······这些普通生活中的物件，居然都已经被使用电弧金属3D打印技术制造出来了。可能很多熊友都会好奇：金属3D打印成本已经如此低廉了吗？这会不会是杀鸡用牛刀、大炮打...
+ ## [刚结束枪击事件，网络攻击又使美国彭萨科拉市的网络瘫痪](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=jAm7kAzbX7rLaU-SELjWcYACc3q-lPF2zl9o7VYMhjwEQKBms0D1bvJ2tOAfSFqWoUIJi4N*DRG5Eb3-Bgia-QqM3XYRT1CRJQu4k9E5UeRbVY*Ph3kLN2JKMoRNkllk&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，针对包括美国在内的世界各地城镇的网络攻击突然急剧增加，而最近受害严重的地区是——美国佛罗里达州的彭萨科拉市。大规模网络攻击使佛罗里达州...
+ ## [华为在贵安新区成立云计算公司](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=GODFRiWOTTiYF1RYI0FClcX5VbjAcgDor0KOHmiSIJtBAPEAObIWbT-SF0CkNGpdXKBYycxuqtM53D2HaD6fwnXfwcn6ejHnaKCxiAjUtDM=&new=1)
+ > 本报综合消息 12月11日，天眼查信息显示，12月6日华为成立了一家名为华为云计算技术有限公司（华为云计算公司）的全资子公司，注册资本为5000万元人民币。　　天眼查信息显示：华为云计算公司法定代表人为华...
+ ## [前瞻：2020年上海TCT亚洲3D打印展将有哪些看点?](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=1ZKUw4zjwX9MBmF-YL6x3*VpAgfPrajLcY4eyIInkFB4C6gKB4sLx1UTO-FDDEqQjHNwwtvOk0MdGUWOKJ8qfX4Y1AMgKsDw-OAZqmyY-IVEFEZOJV4kC-t94AI8mjjR&new=1)
+ > 增材制造与数字化制造技术的行业盛会，TCT亚洲展——亚洲3D打印、增材制造展览会将于2020年2月19日-21日登陆上海新国际博览中心，本次展会展商数量和展会面积继续增长10%，汇集超过300家知名国内外增材制造企业...
+ ## [新品首发丨华工正源行业首发25GBASE DSFP](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=lMjVBEBmoPn1McUwA0dEJqSqI63xa5fSfTWgTwIYCsS2WaZgrLrW7G2Ua1E7SGBJOcwwQFN9rpgbc6SPZlNhb*1*rPC7WXRam8mF3SAl1CxU5Ru6JeOZBiFfRHeMW-MO&new=1)
  > 导读：国内领先的5G光模块厂商华工正源正式宣布批量发售25GBASE DSFP产品，业内首发。      ICCSZ讯 国内领先的5G光模块厂商华工正源正式宣布批量发售25GBASE DSFP产品，业内首发。该产品符合DSFP MSA标准，
- ## [摩尔定律的续命药：EUV光刻技术到底是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=wbfq8qFIiBOK9Jf4CdHg7crY6h897mP7aMANH29xoAqi3yliCKFj5GsPimAyJ3kUZIy9sLcwVrK8vbHFr2Ked420H5TXPF1chzXk0HW69t2H2kQxeubjpt3Gkgvbqo*Y&new=1)
+ ## [再见了，万达!国内突然宣布!大转折全面爆发!](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=P9IHFt4c6xTmLLPnNcjGB2w2JginOf0A8a9-bF13Y2lSjyf0FxOsOptsjFQ-rzY-xw01YpqEG-Z2sqttlMdrcvBhKuUf77PnbaTrHkGXP6plBhjyNr0ALCcIoXDO3nzH&new=1)
+ > 近日，苏宁易购宣布，万达百货的37家门店将正式更名为苏宁易购广场，并将其打造为智慧零售广场。据悉，第一家改造门店将在5月底亮相。再见了，王健林；再见了，万达百货！我的人生里，已没有了你......万达的现...
+ ## [雷军、李彦宏、丁磊、周鸿祎最看好这些新趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=E7ablfstZk5y*ZDAgsHYEMEkY4IdeDwpBBlQqO7YVEi-Of6gHxpGEurDp2OcNxZhK06hmX6oKmxYzPXmaYZwshbM2e45kuBzhnpuXq8rLQIh5RPyU9nk5pePZPbNpjVh&new=1)
+ > 今天是管理思想自我升维第158天！在充满不确定性的全球经济大背景下，数字经济对于带动全球经济复苏，有着非常重要的意义；技术创新，将是拉动新一轮经济增长的强劲动力。5G时代的到来，可能会彻底改变中国互联...
+ ## [2019 ACM Fellow 名单出炉，新晋陶大程、谢源等7位华人，中科大、中科院、MSRA科学家入选](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=zqvAnx5Xb-C0D-wieA7edXdA0hul3yzAhuBB0YxjJNmNLjaXh2oVf57SLoWvtJRb0VTR4FJlydmvAJfikVw-zovWKapjkRPOqFIbgdEZJ9aH42Zb1j1gBgt2IAjHj8cJ&new=1)
+ > 机器之心报道机器之心编辑部刚刚，2019 年度 ACM Fellow 名单正式公布，共 58 人入选。陶大程、谢源、李向阳等华人科学家代表成为新晋 ACM Fellow。ACM（Association for Computing Machi
+ ## [摩尔定律的续命药：EUV光刻技术到底是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=wbfq8qFIiBOK9Jf4CdHg7crY6h897mP7aMANH29xoArhcDjOPKdUfBoBUvla70*4DYjT2UyHsTlX1tx0Z6bC8e4brp58GZQEPKzFbOveWyI5QyR6b3pvOSQ6qZeUc8mV&new=1)
  > 半个多世纪以来，半导体行业按照摩尔定律不断发展，驱动了一系列的科技创新、社会改革以及生产效率的提高。随着器件尺寸越来越逼近物理极限，摩尔定律对新一代工艺节点研发是否依然奏效是现在全行业都在关注的问...
- ## [极智硬核，让未来多一种可能](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=97Cwi*F7CdzXxlZHFN8UOGqmn5Xv8JFiJ-vbddqc06xdC6o8d9JqBDR6DMyZGulEbCXHhvY3ybKCjRVwCwv0-0YBt7vrTtgF5MKZT46Mouj1jx2bl1rsCbsOfYyoFpXd&new=1)
+ ## [极智硬核，让未来多一种可能](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=97Cwi*F7CdzXxlZHFN8UOGqmn5Xv8JFiJ-vbddqc06y7AEEsUdWnobS8OnO3a9vFuLjObgGIqQ7bbkW61OPetyra4-TaaWj**BzRzS3n0Z4F3lMTCnc1hR2IBDsiG68q&new=1)
  > 最近几年，随着硬件科技的飞速发展，我们周遭使用的数码产品也从单纯的拼硬件堆配置向产品体验过渡，将硬件和智能系统完美结合，打造出硬核智能体验。今天小编就来和你盘点下那些将硬件和智能系统完美结合的硬核...
- ## [基站数量是美国的十倍，中国5G基站发展现状](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=6R8a84R8KsG*fw8OpjtGGQ0e1IiVe9eUOWXjFKOdqCfRqZE3480AynQ4S7IQIcpAlwHW7NteP*F9H5NkWfcQMEVYgC1KOjuk7G4ALGrUslAMnJUAxzsmUbPe*MoU*kZ6&new=1)
+ ## [基站数量是美国的十倍，中国5G基站发展现状](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=6R8a84R8KsG*fw8OpjtGGQ0e1IiVe9eUOWXjFKOdqCdipVbgjXgJq81PX3Xgm9xxYAeTuAbYLpDt5rKppCGbEb1llNoCCs7nynzhvrroiLznc6c25ZbCcUMeL4o69avi&new=1)
  > 目前我国5G基站数量已经达到10万，是美国的10倍左右。除了中国，韩国在基站建设上也比较厉害，中国跟韩国同属于5G基站建设的第一梯队，目前的话甚至韩国会稍微领先一些，韩国今年发力比较猛，但是中国的高峰建设...
- ## [美国无线电频谱战略规划解析](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=LzhkM3c09Ae3BU*gCEBYMx54ULhY8jkU9u6j7iOfMsOKaQoge099B7zQPZrwarTGkqGhZ7eKNq3xsV8HUcinEeG9ax7I9AAxyJcN3-De8CizqPL7eIRPix5vzegdEuF4&new=1)
+ ## [美国无线电频谱战略规划解析](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=LzhkM3c09Ae3BU*gCEBYMx54ULhY8jkU9u6j7iOfMsP3rzyAW4VJDWOTi2NN2e5xpBPSp7U1JOT1wnHmDiENP3wFOV*yIFawK2hKUysfOM9SVW3q0SIDP1fvvSYZyo9W&new=1)
  > 来源：中国无线电  作者：国家无线电监测中心 董洁 李丕兰 【摘要】本文介绍了美国无线电频谱战略规划提出的背景，对其主要内容进行解析，以期对我国无线电频谱战略规划提供参考。0 引言 随着无线电技术与业务的...
- ## [5G 手机越出越多，到底该什么时候买?](http://mp.weixin.qq.com/s?src=11&timestamp=1576114205&ver=2029&signature=H76wgRbFpTjzGaseX-o0eMlzMVj06hD6J32WhgfvrDJhAFFB00QbezNrkDtwJu4ajEPnjOFMyyjcYW-oKd3oxGJU7a517E2-zAp20SpEdvYWN6nJ-SeUH4Yr5w16iAu1&new=1)
+ ## [5G 手机越出越多，到底该什么时候买?](http://mp.weixin.qq.com/s?src=11&timestamp=1576121405&ver=2029&signature=H76wgRbFpTjzGaseX-o0eMlzMVj06hD6J32WhgfvrDKSpJfVSUbUoZD4cD9kzwRkzhf4UQEvbrQbzacNgRPan7yaK6yczlQjp-qgkVOUcWRurMn8HRXonXPRoeeHPxDz&new=1)
  > 上世纪 90 年代初，一种叫“大哥大”的奢侈品进入了我们的生活，从此开启了通讯技术迭代的真香之路。 不用电话线也能打电话颠覆了人们的认知 虽然这时候还用的模拟讯号传输（ 俗称 1G 通讯 ），通话质量不咋地，...
 # IT 技术 
- ## [为Docker容器保驾护航的8款工具!](http://netsecurity.51cto.com/art/201912/607619.htm)
- > 为Docker容器保驾护航的8款工具!
+ ## [滴滴为啥值3600亿？看它的数据中台就知道了](http://database.51cto.com/art/201912/607632.htm)
+ > 滴滴为啥值3600亿？看它的数据中台就知道了
+ ## [为Docker容器保驾护航的8款工具](http://netsecurity.51cto.com/art/201912/607619.htm)
+ > 为Docker容器保驾护航的8款工具
  ## [数据库十年巅峰对决，谁才是真正的王者?](http://database.51cto.com/art/201912/607595.htm)
  > 数据库十年巅峰对决，谁才是真正的王者?
  ## [黑客入侵你Linux服务器的一万种玩法...](http://os.51cto.com/art/201912/607541.htm)
  > 黑客入侵你Linux服务器的一万种玩法...
- ## [GitHub或正式登陆中国！全球最大开源软件平台拟设中国分公司](http://news.51cto.com/art/201912/607545.htm)
- > GitHub或正式登陆中国！全球最大开源软件平台拟设中国分公司
  ## [观脉科技CTO苗权：稳扎稳打SD-WAN市场 常备不懈布局5G](http://network.51cto.com/art/201912/607543.htm)
  > 观脉科技CTO苗权：稳扎稳打SD-WAN市场 常备不懈布局5G
+ ## [GitHub或正式登陆中国！全球最大开源软件平台拟设中国分公司](http://news.51cto.com/art/201912/607545.htm)
+ > GitHub或正式登陆中国！全球最大开源软件平台拟设中国分公司
  ## [盘点ES7、ES8、ES9、ES10的新特性](http://developer.51cto.com/art/201912/607537.htm)
  > 盘点ES7、ES8、ES9、ES10的新特性
  ## [IDC预测下一个五年：程序员将增长50%，过半500强都要卖软件](http://news.51cto.com/art/201912/607552.htm)
  > IDC预测下一个五年：程序员将增长50%，过半500强都要卖软件
- ## [无服务器备份是企业可行的数据保护方式](http://stor.51cto.com/art/201912/607446.htm)
- > 无服务器备份是企业可行的数据保护方式
- ## [GitHub 标星 1.6w+项目 HelloGitHub，让开发更简单的开源启蒙手册！](http://news.51cto.com/art/201912/607617.htm)
- > 最近，一个 GitHub 标星 1.6w+的项目火了起来，它叫做 HelloGitHub。听名字不难猜到，这个项目源于 『Hello
- ## [社交“扎堆”年：微信地位，牢不可破？](http://news.51cto.com/art/201912/607616.htm)
- > 回看2019的社交市场，新产品持续推出。截至目前，阿里巴巴、字节跳动、百度、京东、网易、搜狐等新老巨头纷
- ## [你的云还是手动挡的吗？云计算和基础设施自动化不可或缺的五大工具](http://cloud.51cto.com/art/201912/607615.htm)
- > 作为有着十多年经验的软件开发公司的技术顾问，我尝试并测试了多种工具来帮助组织满足其总体IT要求。根据我
- ## [Hello World的秘密 你知道吗？](http://zhuanlan.51cto.com/art/201912/607618.htm)
- > 系统调用不同于普通的函数调用，是操作系统提供的接口，需要从用户态进入内核态才能完成，虽然没有发生进程
- ## [除了快，5G 有哪些关键技术？](http://network.51cto.com/art/201912/607612.htm)
- > 5G不仅仅只是网速更快，更多的是生活方式的颠覆，对各行各业都会起到催化作用。5G里不仅仅只有大带宽，而是
- ## [微软首款 Office 应用程序登陆 Linux](http://news.51cto.com/art/201912/607621.htm)
- > 今年 9 月时，微软曾确认正在为 Linux 构建 Teams 客户端。时隔两个多月，微软在官方博客中宣布 Microsoft
- ## [世界上危险的7种技术发展趋势，你了解吗？](http://netsecurity.51cto.com/art/201912/607611.htm)
- > 正在进行的技术革命带来的巨大好处比潜在的危害要容易得多。预测性练习需要向前看，以了解未来的攻击者与技
- ## [微软将中止支持 .NET Core 2.2，建议开发者升级至 .NET Core 3.1](http://news.51cto.com/art/201912/607614.htm)
- > Current 版本 .NET Core 2.2 将在 12 月 23 日结束生命周期，开发者应更新到长期支持版本 .NET Core 3.1
- ## [物联网12大安全挑战](http://iot.51cto.com/art/201912/607610.htm)
- > 随着越来越多的企业采用物联网，将会出现许多新的安全漏洞。风险增加可能归因于设备局限，以及错过了增强安
+ ## [2019年最值得推荐的23款免费安全工具](http://zhuanlan.51cto.com/art/201912/607646.htm)
+ > 以下我们整理了 2019年最优秀的23款免费安全工具，覆盖从密码破解到漏洞管理、网络分析到安全通讯多个领域
+ ## [如何监测多云环境](http://cloud.51cto.com/art/201912/607645.htm)
+ > 企业将工作负载迁移到云平台将面临许多挑战，尤其是在保持可见性和避免停机方面。
+ ## [一文详解JVM内存模型，从线程共享到本地方法栈再到Java堆](http://virtual.51cto.com/art/201912/607643.htm)
+ > JVM 内存模型与 JAVA 内存模型不是同一个概念。JVM 内存模型是从运行时数据区的结构的角度描述的概念;而 JA
+ ## [明年1月14日后仍坚守Win7 SP1的用户：微软将全屏警告之](http://os.51cto.com/art/201912/607642.htm)
+ > 服役10年后，微软定于2020年1月14日结束对这一经典操作系统的一切支持，宣告正式谢幕。相信一些Win7用户已
+ ## [从操作系统层面理解Linux下的网络IO模型，这么讲你还不懂？](http://os.51cto.com/art/201912/607641.htm)
+ > 从操作系统层面怎么理解网络I/O呢? 计算机的世界有一套自己定义的概念。如果不明白这些概念，就无法真正明
+ ## [技术选型之Docker容器引擎](http://cloud.51cto.com/art/201912/607638.htm)
+ > 最近对Docker和Kubernetes进行了一番学习，前两天做了一次技术分享，回去听了一遍自己演讲的录音，发现单单
+ ## [从操作系统层面理解Linux下的网络IO模型，一篇抵十篇](http://os.51cto.com/art/201912/607640.htm)
+ > 任何编程语言都会遇到这种CPU处理速度和I/O速度不匹配的问题!在网络编程中如何进行网络I/O优化： 怎么高效
+ ## [一份微服务架构手稿图，彻底搞定微服务核心原理](http://developer.51cto.com/art/201912/607639.htm)
+ > 微服务的概念最早在 2012 年提出，在 Martin Fowler 的大力推广下，微服务在 2014 年后得到了大力发展。今
+ ## [以卡通的方式了解Kubernetes](http://cloud.51cto.com/art/201912/607636.htm)
+ > 最近，我开始了Kubernetes之旅，希望更好地了解其内部。 我在这些方面做了一个演讲。
+ ## [记一次生产数据库MyISAM存储引擎转为Innodb过程](http://database.51cto.com/art/201912/607635.htm)
+ > 今天主要分享最近对某个数据库做的数据迁移，其中包括存储引擎转换、数据库编码转换。
+ ## [加油吧，原力计划升级版来了！](https://blog.csdn.net/CSDNfreshnews/article/details/103497664)
+ > 加油吧，原力计划升级版来了！
+ ## [程序员：这10种糟糕的程序命名，你遇到过几个？](https://blog.csdn.net/kebi007/article/details/103450528)
+ > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
  ## [从入门到精通，Java学习路线导航](https://blog.csdn.net/qq_42453117/article/details/100655512)
  > 从入门到精通，Java学习路线导航
+ ## [C、C++ 不得宠，微软正开发新的编程语言！](https://blog.csdn.net/csdnnews/article/details/103471738)
+ > 
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
  ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
  > 
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [微信小程序云开发入门（一）](https://blog.csdn.net/qq_24468953/article/details/103260437)
- > 微信小程序云开发入门（一）
- ## [\[网络安全自学篇\] 二十九.文件上传漏洞和IIS6.0解析漏洞及防御原理（二）](https://blog.csdn.net/Eastmount/article/details/103452557)
+ ## [JackHttp --  HTTPS 为什么是安全的?](https://blog.csdn.net/zhanggang740/article/details/103469680)
  > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [Python解析照片EXIF信息，获取坐标位置](https://blog.csdn.net/m0_38106923/article/details/103452168)
- > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
- ## [C语言之文件操作](https://blog.csdn.net/Luosec/article/details/103362560)
- > C语言之文件操作
- ## [用原生js+html写一个像素鸟游戏](https://blog.csdn.net/z1783883121/article/details/103461597)
- > 用原生js+html写一个像素鸟游戏
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
+ ## [面试编程岗，期望40K，为什么老板给我翻倍？](https://blog.csdn.net/csdnnews/article/details/103504850)
+ > 临近年底，互联网正在经历优化升级，不少公司出现了裁员新闻，也有很多人纷纷转型、跳槽。那么 IT领域内，什么样的工作比较好？最近笔者看笔者在网上看到一个被裁员的帖子，但仍被震撼到了，也许答...
  ## [开发者请注意！2020年的大前端发展趋势已出炉！ | 原力计划](https://blog.csdn.net/csdnnews/article/details/103502275)
  > 作者|xiangzhihong8责编 |Elle出品 | CSDN 博客迅速发展的前端开发，在每⼀年，都为开发者带来了新的关键词。2019 年已步⼊尾声，2020 年前端发展的关键词⼜将有哪些呢？发展的方向又会是什么呢？参考2019年大前端的发展，不出意外，前端依旧会围绕⼩程序、超级A...
  ## [国产数据库年终大盘点！](https://blog.csdn.net/csdnnews/article/details/103502276)
@@ -169,60 +183,64 @@ AI&#25945;&#32946;&#21697;&#29260;&#8220;&#36138;&#24515;&#31185;&#25216;&#8221;
  > 前几天，《百度沸点：2019年度科技热词》终于来了！百度沸点：2019年度科技热词 AI排名第一2019年可以说是AI全面落地和商用的一年，产业智能化成为各个行业重点关注的发展方向，交通...
  ## [如何从零开始制作智能桌宠？](https://blog.csdn.net/csdnnews/article/details/103502272)
  > 作者 | 李秋键责编 | maozz出品 | CSDN（ID：CSDNnews）引言：是否还记得曾经风靡全国的QQ宠物呢，那个又调皮又可爱的QQ企鹅，偶尔还会生病撒娇，需要培养的虚拟宠物，你是否还记得它的样子呢。它是腾讯公司推出的第一款QQ宠物系列游戏，也是运营了很久的系列宠物游戏。...
- ## [中电信交叉套餐规则复杂遭诟病，作家六六维权十日未果](http://lanjingtmt.com/news/detail/45171.shtml)
+ ## [中电信交叉套餐规则复杂遭诟病，作家六六维权十日未果](http://www.lanjingtmt.com/news/detail/45171.shtml)
  > 近日，六六在微博投诉中国电信，称其购买家庭网络时被强迫拿一部免费送十几个G流量的手机，每个月赠送的额定流量不用完就扣款。次日中国电信称，与机主进行沟通并解决了问题。
 # 人工智能 
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [\[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活](https://blog.csdn.net/qq_40128367/article/details/84778361)
- > \[Office全家桶\] Office 2019 专业版 安装包 + 破解工具 + 一键激活
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
+ ## [毕业设计，管理系统，大学生毕业设计应该这么做](https://blog.csdn.net/youngogo/article/details/103178769)
+ > 毕业设计，管理系统，大学生毕业设计应该这么做
+ ## [Ｂ站收藏 6.1w+！GitHub 标星 3.9k+！这门神课拯救了我薄弱的计算机基础](https://blog.csdn.net/u013486414/article/details/103457523)
  > 
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [JRebel for IntelliJ  热部署破解方法](https://blog.csdn.net/is_chenzh/article/details/82148157)
- > JRebel for IntelliJ  热部署破解方法
- ## [idea2018.3 install and active配置+GitHub上传项目clone项目](https://blog.csdn.net/su1573/article/details/87915472)
- > idea2018.3 install and active配置+GitHub上传项目clone项目
- ## [Process finished with exit code 1](https://blog.csdn.net/weixin_41217541/article/details/95165461)
- > Process finished with exit code 1
- ## [pycharm2019 专业版激活方法](https://blog.csdn.net/Darren1921/article/details/96858356)
- > pycharm2019 专业版激活方法
- ## [git版本回退的几种方式](https://blog.csdn.net/weixin_41715077/article/details/93025522)
- > git版本回退的几种方式
- ## [2019报表工具价格对比](https://blog.csdn.net/terry_chengq/article/details/97756498)
- > 2019报表工具价格对比
- ## [win10企业版2016长期服务版激活方法](https://blog.csdn.net/fengqingtao2008/article/details/96724477)
- > win10企业版2016长期服务版激活方法
- ## [Gradle的使用教程](https://blog.csdn.net/qq_22172133/article/details/81513955)
- > Gradle的使用教程
- ## [CI/CD是什么？](https://blog.csdn.net/asstsui/article/details/89554013)
- > CI/CD是什么？
- ## [git 合作开发教程](https://blog.csdn.net/ion_L/article/details/82531585)
- > git 合作开发教程
- ## [解决idea中maven项目的pom文件不会自动下载jar包问题 + 更新不完整依赖命令](https://blog.csdn.net/zhang33565417/article/details/97634921)
- > 解决idea中maven项目的pom文件不会自动下载jar包问题 + 更新不完整依赖命令
+ ## [来自一个工作一年零九个月java程序员的自我介绍](https://blog.csdn.net/xiaocainiao000/article/details/103457034)
+ > 来自一个工作一年零九个月java程序员的自我介绍
+ ## [大学两年，写了这篇几十万字的干货总结](https://blog.csdn.net/hebtu666/article/details/103438056)
+ > 
+ ## [ACM入门知识-----ACM赛事介绍](https://blog.csdn.net/sinat_26523761/article/details/103463128)
+ > ACM入门知识-----ACM赛事介绍
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
+ > 对计算机专业来说学历真的重要吗？
+ ## [你说你懂计算机网络，那这些你都知道吗](https://blog.csdn.net/qq_36894974/article/details/103500199)
+ > 你说你懂计算机网络，那这些你都知道吗
+ ## [ACM——数论](https://blog.csdn.net/weixin_45697774/article/details/103500327)
+ > ACM——数论
+ ## [IT必备酷站](https://blog.csdn.net/Cloud_YC_Wei/article/details/103497443)
+ > IT必备酷站
+ ## [FPN最全论文解析！只需一文全面掌握！](https://blog.csdn.net/weixin_40400177/article/details/103451860)
+ > FPN最全论文解析！只需一文全面掌握！
+ ## [计算机视觉大型攻略 —— SLAM(1)概率模型与EKF](https://blog.csdn.net/plateros/article/details/103461233)
+ > 计算机视觉大型攻略 —— SLAM(1)概率模型与EKF
+ ## [matlab实验代码(总）](https://blog.csdn.net/weixin_42060896/article/details/103498702)
+ > matlab实验代码(总）
+ ## [脑机接口20年论文集汇总](https://blog.csdn.net/zyb228107/article/details/103497994)
+ > 脑机接口20年论文集汇总
 # PM 
- ## [文案新人，我建议你干点什么？](http://www.woshipm.com/copy/3204272.html)
- > 时间已经过去，老手无处可哭，新手赶紧动起来，这些对文案新人的建议，一定要记得。经常有人给我留言：“老贼，我是一枚文案新人，现在很迷茫不知道做什么，你有什么...
- ## [评论区设计策略——让你的评论FUN起来](http://www.woshipm.com/pd/3204875.html)
- > 本文主要从审核机制、排序算法、评论运营、个性化推荐切入，思考如何让评论区更有趣。对一个互联网产品来说，好的评论运营逻辑可以营造强大的社区氛围，助力增长，如...
- ## [客户生命周期营销：唤醒沉睡客户与二次营销](http://www.woshipm.com/user-research/3201052.html)
- > 建立客户生命周期营销机制，能够准确、有效地跟踪用户购买路程与路径，达成精准营销的效果。我们在《客户生命周期营销：你的投放预算分布合理吗？》（←点击查看），解...
- ## [关于列表头像设计，你了解多少？](http://www.woshipm.com/pd/3204350.html)
- > 消息列表模块是大家常见的APP功能了，但是你真的了解这个功能吗？本文作者从3个角度对消息列表模块进行了分析探究，希望通过此文能够加深你对列表头像设计的认识。消...
- ## [如何提供设计反馈？与你分享5个技巧](http://www.woshipm.com/pd/3101791.html)
- > 这是一篇关于设计反馈和团队管理的文章，更多的聚焦在如何更好的在工作中沟通协作，以及如何激发团队的潜力，希望会对大家的工作有所帮助。最近思考最多的一个主题是...
  ## [起点学院5周年公开课丨产品运营/增长转化/业务操盘，哪一个是运营人的未来？](http://www.woshipm.com/active/3198452.html)
  > 很多朋友经常会感到，为什么自己明明是运营岗，但是日常的工作却是销售或者客服等等，难道是自己的技能树点歪了？前期可能会出现很多公司会把销售、客服等基础岗位包...
- ## [社交电商的发展历程与未来](http://www.woshipm.com/it/3204684.html)
- > 本文盘点了社交电商的发展历程以及它的发展特征。电商可以说是基于互联网技术手段的商业应用形式，是改变人类生活方式的一次互联网革命，也是相对于传统经济的新经济...
- ## [2020年的互联网行业10个猜想](http://www.woshipm.com/it/3204817.html)
- > 2020年对于互联网行业，以及其他所有行业来说，将是非常艰难的一年。又到了一年年底，按照惯例，所有专业或不专业的组织/个人都在忙着发表“2019年总结”和“2020年前瞻”...
- ## [常见的产品非人性“套路”](http://www.woshipm.com/pd/3204545.html)
- > 本文承接上一篇文章《用一些小套路，让用户离不开你的产品》，谈谈如何设置产品非人性“套路”。如何设置产品“套路”关于产品套路笔者是不推荐大量使用的，大量使用的话...
- ## [百度贴吧或无后——这一届兴趣社区怎么了？](http://www.woshipm.com/it/3202661.html)
- > 本文盘点了一些兴趣社区产品为何从风靡一时沦为现在的不温不火，并进一步分析了新兴趣社区产品的机会点。或许很多人都忘了，在20年前，大家为什么上网。“我要看新闻”...
+ ## [群面的5种突发情况，该如何应对？](http://www.woshipm.com/zhichang/3177820.html)
+ > 群面作为一种当下考验综合能力的面试方式，由于面试者众多，思维方式存在差异，往往也会出现比较具有矛盾和争议的局面。面对这种情况，身为面试者，该如何化解呢？正...
+ ## [风口上的印尼Fintech市场：发展现状与未来趋势](http://www.woshipm.com/it/3203909.html)
+ > 文章对印尼互联网市场的发展现状进行了评述，并对未来发展趋势进行了分析和展望。东南亚地区的互联网经济已达到新的里程碑，今年首次达到1000亿美元，同比增长39％，...
+ ## [产品经理必备技能包含哪些？](http://www.woshipm.com/pmd/1629849.html)
+ > 今天是从整体的角度来讲述产品经理职业技能，来聊聊大家一个痛点，产品经理到底需要掌握哪些技能？今天，想和大家聊一聊产品经理的必备技能。想聊这个话题，是因为最...
+ ## [QQ看点日报内容优化——基于BERT的热点召回系统](http://www.woshipm.com/pd/3205720.html)
+ > 基于BERT搭建了看点日报热点召回系统，大大提升了看点日报热点内容量等核心指标，本文将会详解看点日报热点召回系统的总体框架及核心方法。一、业务背景看点日报旨在...
+ ## [如何结合财务设计FMS系统？](http://www.woshipm.com/pd/3205444.html)
+ > 本文介绍了一些关于结合财务设计FMS系统的设计要点和可供参考的经验分享。前言前面介绍的财务进销存系统都是基于功能模块进行考虑的，包括应收、应付、财务报表、...
+ ## [为什么李佳琦直播卖货要限量限价？](http://www.woshipm.com/marketing/3204656.html)
+ > 这篇文章简要聊聊一个有趣的营销问题，为什么在一些营销活动中要限价或者限量，为什么一些没采取限价或限量策略的产品突然崩盘？进而从特殊现象总结一般规律。在微观...
+ ## [如何进行用户分层才合理？](http://www.woshipm.com/operate/3203072.html)
+ > 用户分层是业务运作的结果，用户分层是应用于业务运作。因此看似简单的分层，只要和业务结合起来，就很容易解释清楚，也很容易定位到问题。有同学问：领导让做用户分...
+ ## [四个字，说透互联网运营的核心逻辑](http://www.woshipm.com/operate/3204682.html)
+ > 互联网运营的核心逻辑到底是什么呢？答案：用户习惯。​开篇我们探究一个起因：为什么要用几个字去说清楚一种工作性质？	因为同一种性质的工作，方法多样，路径...
+ ## [6条实用运营思维，避开运营那些坑](http://www.woshipm.com/operate/3201757.html)
+ > 本文总结了运营工作中需要掌握的六个运营思维，以及执行过程中的要点&amp;需要避的坑。最近工作变动较大，难得有时间静下来认真阅读、输出。今天正好把过去一段时间的...
+ ## [To B企业如何为客户“赋能”？](http://www.woshipm.com/pmd/1014729.html)
+ > 本文以比雷埃夫斯港的重建为例，分析了To B企业为客户“赋能”的秘诀与要点。这周听播客，了解到中远集团接手一个破败的希腊港口——比雷埃夫斯港，并用不到10年的时间将...
+ ## [对品牌传播而言，少比多更重要](http://www.woshipm.com/marketing/3205102.html)
+ > 有些品牌总是贪多，结果广撒网却没有网到鱼。在品牌传播这件事上，想得多不如做得少。之前聊过聚焦的话题，其实无论是对品牌还是个人发展而言，聚焦都是重要命题。西...
  ## [硅谷一线增长实践者曲卉：数据驱动增长的道与术](http://www.chanpin100.com/article/110316)
  > 数据驱动增长的体系与基础、流程，如果你掌握了，应用起来，其实就像一个自动传送带一样，你不需要费太大的劲就可以事半功倍。
  ## [走进春天：用信息架构，来落地产品架构](http://www.chanpin100.com/article/110315)
