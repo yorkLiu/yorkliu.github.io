@@ -1,7 +1,7 @@
 ---
 title: 2019-12-13 IT News
 copyright: true
-date: 2019-12-13 09:01:13
+date: 2019-12-13 10:02:16
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,13 +70,17 @@ IT&#21150;&#20844;&#35774;&#22791;&#36816;&#33829;&#21830;&#8220;&#23567;&#29066
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [德国新闻|德国电信商选了华为!Telefónica计划让华为搭档诺基亚，共建德国5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1576197006&ver=2031&signature=7GJUJiaz9F1IZLH-noxmLD9yrjWwe*61eJofG9*T1yNrk3ylRgqdtN3r3CtPM2XM2YI56Tag71aCVqObgBM-Kkbs0a8pYGw1BYBZClX43WtFGX4Owz38B*JS2dUIfsv0&new=1)
+ ## [德国新闻|德国电信商选了华为!Telefónica计划让华为搭档诺基亚，共建德国5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1576202405&ver=2031&signature=7GJUJiaz9F1IZLH-noxmLD9yrjWwe*61eJofG9*T1yO*hvyN-LFW5qKjEsu45-rC0dP1AAZlWAdc33SgSjbzNrLW-L3Houq0OKj*-VyL5*ywep1uSebIh*j1J86s5rOD&new=1)
  > 尽管德国政府仍在激烈争论是否要将华为排除在本国5G网络建设之外，但电信运营商已经率先用脚投票了： 11日，德国三大电信运营商之一、Telefónica（西班牙电信）德国公司宣布了一项投资计划：该公司计划把自己的...
- ## [双12有礼 华为NOVA6 5G重磅首发!](http://mp.weixin.qq.com/s?src=11&timestamp=1576197006&ver=2031&signature=OtKx-3jsEwBsJbZ**G9PUsJlZpQQKI9atZvNQUnRK6G6HpqicMBRfigqozUrL2HmcWrF3UQeciQm2OoKUu9m3WQcy*5wM1EPJdZMhkNU1UawlbDO9ljpN-iJf6VjrHPe&new=1)
+ ## [7点见|孙宇晨微博疑似被封；12306网购车票时间延长半小时；比尔盖茨客串美剧《硅谷》饰演本人](http://mp.weixin.qq.com/s?src=11&timestamp=1576202405&ver=2031&signature=pTHqYkPQX5w5YpDe*YfPrfigb15faZzNlCfWHblN0Tmxnn8W3hHv5DeUAQdYD409dXbMrddNZjjHYfPNI9hxyf25KKuK5viLTge7pthGIAVHd21wPZy2G51ao296LLh2&new=1)
+ > 各位小伙伴们，早上好呀！春运火车票昨天起售啦，12306的网购车票办理时间也延长至晚11：30了，小伙伴们都买票了吗？什么时候放假回家呢？接下来是今天的早报时间！币圈大佬孙宇晨微博疑似被封，曾因炒作巴菲特...
+ ## [双12有礼 华为NOVA6 5G重磅首发!](http://mp.weixin.qq.com/s?src=11&timestamp=1576202405&ver=2031&signature=OtKx-3jsEwBsJbZ**G9PUsJlZpQQKI9atZvNQUnRK6Ga2R4AIG1THFsgAwS6LIqlI4tSyMUu2ezTmkA7E1MFFH1OLryOqqUb8SdoDN6bPLprlcODMe2E*KGNMHP5ONnK&new=1)
  > 嘘！给你们说一个“鬼故事”前方高能预警！请做好万全准备！！..................2019年已进入最后一个月的倒计时模式12月的到来也意味着双12即将来临眼看着气势汹汹的双11刚过去双12又举着“买买买”旗号冲了过...
- ## [转型To B、押注安全，昔日手机巨头黑莓开始布局自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1576197006&ver=2031&signature=*CmDFy1phQcZEE2ZShdVcXHJYXLOTWGfx5Xyjn82NoBLcE-nzvQ1KpmVyS6XTvcgrVNJGbIEnu7YHkJ2jDCNYba-HXHTmHtF1*J3D9RWYzA=&new=1)
+ ## [转型To B、押注安全，昔日手机巨头黑莓开始布局自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1576202405&ver=2031&signature=*CmDFy1phQcZEE2ZShdVcXHJYXLOTWGfx5Xyjn82NoBuHRuAuBQx1ybTvQDKNtedYIb74yB2c4hZEvjSx4qKe--jU9dx3s4pGrVUHFI9whk=&new=1)
  > 经济观察网记者 陈伊凡 许多人以为，黑莓（NYSE：BB），这个曾经手机界的王者将被急剧变化的商业社会抛弃，但其实，黑莓正在一个全新的领域拓展新的业务——企业安全，这意味着从硬件转向软件，从ToC到ToB的双重...
 # IT 技术 
+ ## [不了解Cookie、Session、Token？一文给你整明白](http://netsecurity.51cto.com/art/201912/607701.htm)
+ > 不了解Cookie、Session、Token？一文给你整明白
  ## [基础普及之什么是分布式SQL](http://database.51cto.com/art/201912/607676.htm)
  > 基础普及之什么是分布式SQL
  ## [【大咖来了 第7期】智能导购对话机器人实践](http://ai.51cto.com/art/201912/607656.htm)
@@ -91,60 +95,70 @@ IT&#21150;&#20844;&#35774;&#22791;&#36816;&#33829;&#21830;&#8220;&#23567;&#29066
  > 2019年值得推荐的23款免费安全工具
  ## [一份微服务架构手稿图，彻底搞定微服务核心原理](http://developer.51cto.com/art/201912/607639.htm)
  > 一份微服务架构手稿图，彻底搞定微服务核心原理
- ## [为Docker容器保驾护航的8款工具](http://netsecurity.51cto.com/art/201912/607619.htm)
- > 为Docker容器保驾护航的8款工具
+ ## [5G浪潮之下，网络安全所面临的机遇与挑战](http://netsecurity.51cto.com/art/201912/607704.htm)
+ > 5G是一把双刃剑。在未来大国博弈中，5G技术革命决定了一个国家能走多快，而5G安全防御能力则注定了这个国家
+ ## [刺激2019：从AWS和阿里云看云计算疯狂的一年](http://news.51cto.com/art/201912/607699.htm)
+ > 云计算从业者有个不成文的条约：国外看 AWS，国内看阿里云。如果说 re:Invent 是开发者的天堂，那云栖大会
+ ## [2020年十大IT技术工种](http://news.51cto.com/art/201912/607698.htm)
+ > 自动化，机器人技术，人工智能的重大发展带来了更高的生产率，更高的效率，安全性得到大幅提升，同时也给人
+ ## [解开 HTTP/2 的面纱：HTTP/2 是如何建立连接的](http://network.51cto.com/art/201912/607697.htm)
+ > 超文本传输协议(HTTP)是一种非常成功的协议。但是，HTTP/1.1 使用底层传输的 方式，其中有几个特性对今天的
+ ## [架构师详解：从0-1构建大数据平台](http://news.51cto.com/art/201912/607703.htm)
+ > 如今大数据在各行业的应用越来越广泛：运营基于数据关注运营效果，产品基于数据分析关注转化率情况，开发基
+ ## [麻省理工、IBM合推新型数据集，“为计算机视觉黄金时代做准备”](http://news.51cto.com/art/201912/607705.htm)
+ > 近日，麻省理工学院和 IBM 研究人员组成的团队，共同创建了一个与之不同的图像识别数据集 ObjectNet，难倒
+ ## [高并发系统中的限流应该如何做？](http://developer.51cto.com/art/201912/607695.htm)
+ > 在开发高并发系统时有三把利器用来保护系统：缓存、降级和限流。本文结合作者的一些经验介绍限流的相关概念
+ ## [币圈大佬何一、孙宇晨微博账号已被封杀](http://news.51cto.com/art/201912/607700.htm)
+ > 据报道，波场创始人@孙宇晨和币安联合创始人何一@何一 Miss 的微博账号疑似被关闭，相关页面显示该账号因被
+ ## [天才少年刚毕业就拿到华为200万年薪：主攻非易失内存系统](http://news.51cto.com/art/201912/607702.htm)
+ > 近日，一位华为科技大学的学生刚毕业就拿到华为200万年薪引发网友关注。今天，“刚毕业就年薪200万”的话
  ## [Flink与Spark Streaming谁的拳头更硬](http://bigdata.51cto.com/art/201912/607694.htm)
  > 流数据(或数据流)是指在时间分布和数量上无限的一系列动态数据集合体，数据的价值随着时间的流逝而降低，因
- ## [APP应用的安全保护指南](http://netsecurity.51cto.com/art/201912/607693.htm)
- > 随着移动应用使用率的大幅增长，其被攻击的风险也在增加。根据Gartner的一项研究，“75%的移动应用程序将无
- ## [数据科学家应该避免的5种统计陷阱（附链接）](http://zhuanlan.51cto.com/art/201912/607692.htm)
- > 这里有五个统计谬误，或者称之为陷阱，数据科学家应该重视并绝对避免它们。做不到这一点对数据结果和数据科
- ## [如何缓解网络上的内部威胁](http://netsecurity.51cto.com/art/201912/607691.htm)
- > “内部威胁”是什么样子?它们是什么类型，它们的增长方式以及组织如何防御它们。我们还将查看一些最近的示
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
- > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [从零开始的WTL入门教程](https://blog.csdn.net/importIng/article/details/103513996)
- > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
+ > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
- > 
+ ## [SpringData快速入门](https://blog.csdn.net/qq_42453117/article/details/103513280)
+ > SpringData快速入门
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
- ## [记一次Vue框架升级](https://blog.csdn.net/u011064099/article/details/103513410)
+ ## [Android 10 手势导航源码分析](https://blog.csdn.net/qq_26825819/article/details/103248456)
  > 
- ## [Redis介绍、安装、持久化、数据类型、常用操作、安全设置](https://blog.csdn.net/Powerful_Fy/article/details/103491749)
- > Redis介绍、安装、持久化、数据类型、常用操作、安全设置
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
  ## [Vue组件的操作-自定义组件，动态组件，递归组件](https://blog.csdn.net/qq_36232611/article/details/103514880)
  > Vue组件的操作-自定义组件，动态组件，递归组件
+ ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ > 
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [python学习方法总结(内附python全套学习资料)](https://blog.csdn.net/qq_42554007/article/details/102802719)
+ > python学习方法总结(内附python全套学习资料)
  ## [政企上云正当时，华为云12.12大促助力中小企业数字转型升级](https://blog.csdn.net/csdnnews/article/details/103516225)
  > 随着5G时代的来临，其速率快、低时延、广连接的特征将加速进入万物互联的时代，而其背后大量的数据，就需要强大的计算和存储能力支撑。而有能力支撑这些多场景复杂运算和数据存储需求的，正是云计算...
  ## [操作系统兴衰史](https://blog.csdn.net/csdnnews/article/details/103516227)
- > 提及桌面操作系统，想必众人熟知如今占据全球市场第一的 Windows、以及苹果的 OS X、开源的 Linux 等，谁还能记得由蓝色巨头 IBM 和微软曾经耗费很大精力开发的 OS/2 ...
+ > 提及桌面操作系统，想必众人熟知如今占据全球市场第一的 Windows、以及苹果的 OS X、开源的 Linux 等，谁还能记得由蓝色巨头 IBM 和微软曾经耗费很大精力开发的 OS/2 操作系统。OS/2 是第一个运行于 X86 体系的 PC 之上的 32 位操作系统，对此，有网友评价道，在 ...
  ## [20行 Python 代码爬取王者荣耀全英雄皮肤 | 原力计划](https://blog.csdn.net/csdnnews/article/details/103516237)
  > 作者|wangweijun责编 |Elle出品 | CSDN 博客引言王者荣耀大家都玩过吧，没玩过的也应该听说过，作为时下最火的手机MOBA游戏，咳咳，好像跑题了。我们今天的重点是...
  ## [支付宝也崩溃，中心化支付体系尚能饭否？](https://blog.csdn.net/csdnnews/article/details/103516219)
- > 作者 |beyondma责编 | Elle出品 | CSDN（ID：CSDNnews）12月5日17点左右，许多地方的网友反应，支付宝出现账号无法正常支付、无法收到验证码、无法登录等...
+ > 作者 |beyondma责编 | Elle出品 | CSDN（ID：CSDNnews）12月5日17点左右，许多地方的网友反应，支付宝出现账号无法正常支付、无法收到验证码、无法登录等一系列问题。随即支付宝发表声明称“支付宝的机房网络出现了短暂抖动，影响了部分用户的使用体验。...
  ## [Android 10 vs iOS 13，逐鹿手机操作系统之王！](https://blog.csdn.net/csdnnews/article/details/103516229)
- > 两大操作系 Android 和 iOS 大比拼。作者 |Harshit Ameta译者 |风车云马，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：几十年来，...
+ > 两大操作系 Android 和 iOS 大比拼。作者 |Harshit Ameta译者 |风车云马，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：几十年来，Android和iOS一直鹿逐手机操作系统之沙场！这两种操作系统都是举世闻名的，它们是迄今为止...
  ## [了不起的 Unicode！](https://blog.csdn.net/csdnnews/article/details/103516231)
  > 本文精心挑选了许多优秀的Unicode小技巧、软件包和资源。译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：Unicode非常了不起！在Unicod...
  ## [学编程不如学自动化？](https://blog.csdn.net/csdnnews/article/details/103504848)
- > 全民编程时代，你是否想过编码的最终目的何在？或许是为了更方便地实现一些事情，或许是为了提高效率，然而与其一步一步自学编程，本文作者表示，不如直接利用已有的工具来实现自动化。作者 |Er...
+ > 全民编程时代，你是否想过编码的最终目的何在？或许是为了更方便地实现一些事情，或许是为了提高效率，然而与其一步一步自学编程，本文作者表示，不如直接利用已有的工具来实现自动化。作者 |Erik Dietrich译者 |弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）...
  ## [面试编程岗，期望40K，为什么老板给我翻倍？](https://blog.csdn.net/csdnnews/article/details/103504850)
  > 临近年底，互联网正在经历优化升级，不少公司出现了裁员新闻，也有很多人纷纷转型、跳槽。那么 IT领域内，什么样的工作比较好？最近笔者看笔者在网上看到一个被裁员的帖子，但仍被震撼到了，也许答...
  ## [库克：苹果从没有垄断；微信搜索升级；微软发布首款支持 Linux 的 Office 应用 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103504851)
@@ -185,6 +199,14 @@ IT&#21150;&#20844;&#35774;&#22791;&#36816;&#33829;&#21830;&#8220;&#23567;&#29066
  ## [MFC中使用GDI+ 显示图片](https://blog.csdn.net/qwq1503/article/details/103500029)
  > MFC中使用GDI+ 显示图片
 # PM 
+ ## [就业指南 | 5个用户体验职业发展方向](http://www.woshipm.com/zhichang/3102043.html)
+ > 用户体验的概念越来越被人重视，越来越多人选择用户体验领域作为自己的职业。但仍有很多人对用户体验领域的职业有诸多疑问和迷茫，这篇文章将给希望进入这一领域的小白...
+ ## [免费课程 | 新人必学：产品设计中不可忽略的12种状态设计](http://www.woshipm.com/active/3198369.html)
+ > 从事产品工作，少不了做一些产品设计工作，尤其是在跟UI对接工作上，常常需要进行一些状态设计的对接、沟通。而UI设计团队通常先设计组件，多数界面机会是各种组件的...
+ ## [2020年，流量不值得焦虑](http://www.woshipm.com/it/3208746.html)
+ > 呼风唤雨的互联网流量思维，到如今将走向何方？2020年，互联网流量红利大幕即将落下，“吃不起”的流量或致品牌界饿殍遍野。2019年中国移动互联网用户规模超过11.3亿，...
+ ## [产品经理协同框架：责任阶梯](http://www.woshipm.com/pmd/3208728.html)
+ > 在互联网团队中，任何一个产品经理协同的核心在于，如何做到“双赢”，即在实现好的产品下共同友好合作。产品经理岗位的要求里都会提到“沟通能力”、“项目协作”、“跟进迭代...
  ## [产品经理周报第 95 期｜阿里虎牙上线“古桃”“花夏”，主打汉服社交功能；12306业务办理时间延长至夜间11点30](http://www.woshipm.com/it/3208590.html)
  > 早上好呀，今天又是周五啦最近全国各地都在降温，有的地方已经开始下雪啦就连在广东的小编也开始穿上了棉袄子，大家记得注意添衣保暖哦那这周，互联网有发生什么事...
  ## [案例分析：从用户体验角度看运营活动裂变增长](http://www.chanpin100.com/article/110324)
