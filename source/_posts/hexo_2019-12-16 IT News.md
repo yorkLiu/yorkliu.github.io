@@ -1,7 +1,7 @@
 ---
 title: 2019-12-16 IT News
 copyright: true
-date: 2019-12-16 10:02:13
+date: 2019-12-16 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,144 +74,170 @@ NASA&#31216;&#30331;&#26376;&#28779;&#31661;&#26680;&#24515;&#32423;&#32452;&#35
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Waymo收购人工智能公司Latent Logic丨三星否认折叠屏手机销量破百万\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576459805&ver=2037&signature=Aa0ueVPUXXuXh1HJDh2k8Lqmxp50kJjvVXWew*Ig5erxrfPmtpNBc6SLJ5PnfV8kgvA5eYn9kJo*Khq9jXjjMi0I*oeSES3rc1*QCK-U5-EJFb7psr-nA8c0ltsvRu*I&new=1)
- > 12月15日丨周日【Do说】编辑 | 赵艾虎Waymo收购人工智能公司Latent Logic，进军英国据网易科技援引英国《卫报》报道，近日，Waymo收购了英国一家专门从事自动驾驶汽车测试的人工智能(AI)公司——Latent Logic
- ## [400亿大单落地!中国移动公示31省通信工程设计集采结果](http://mp.weixin.qq.com/s?src=11&timestamp=1576459805&ver=2037&signature=Z2OMdFCP5bYyLz9DZjU0jolMhjSR3Ll*8Lbh3eWpAM3RG9UwLO82h1v7LmkZoNxNKuMSTtUj7ncQYjXRjmWyoqzF2HCrIK678jx7NR264cgI6ClHGbV2eF*nvepYrO91&new=1)
+ ## [刚刚，400亿大单落地!中国移动公示31省通信工程设计集采结果](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=djZBciqTrjN5-twSyyl8RRkb*XLWpc8jxUBjcyVl-7BSipwAmiBs6BsgvBfZ3yjF*Nl-znGwIaUpGiCrDncRmqyBcnYwkLUEBFnDBMTkUQiF-RFsWcY5pKEAThukIvcO&new=1)
  > 百亿级大单终于落地！12月15日，中国移动公示《2020年至2021年通信工程设计与可行性研究集中采购 》中标候选人。本次集采于11月12日启动，采购规模庞大，涉及31个省公司和15个直属单位、专业公司，涵盖了无线网(...
- ## [本周大新闻|OPPO发布AR眼镜，Magic Leap 1企业版套件来袭](http://mp.weixin.qq.com/s?src=11&timestamp=1576459805&ver=2037&signature=pCLWkbQRWsDBbn9*akDHTn8JfScGswC10uDYXDeOvKzLbbUqXOPRnlf6Yd6gIyk3MJYFOBl6nVm*XClfWKK9d1ByWpu-axrMWUfqJ-HWr6wqBNCVj08ckBaYDgc7xBfN&new=1)
- > Esther｜ 编辑本周大新闻，AR方面，OPPO发布首款自研AR眼镜，外形酷似HoloLens，可能主打观影和游戏应用；Magic Leap 1企业版套件来袭，系统较之前有所升级，配备企业及管理平台；Magic Leap 2预计于2021
- ## [刚刚，400亿大单落地!中国移动公示31省通信工程设计集采结果](http://mp.weixin.qq.com/s?src=11&timestamp=1576459805&ver=2037&signature=djZBciqTrjN5-twSyyl8RRkb*XLWpc8jxUBjcyVl-7A*ATiwUq646XK5ynnKD5-I8rjTy85bf8AaXwSs*UpysVbkjZrC2wNWckP6IzQD5WfmTvBl5VBahz5piUkpx5L5&new=1)
- > 百亿级大单终于落地！12月15日，中国移动公示《2020年至2021年通信工程设计与可行性研究集中采购 》中标候选人。本次集采于11月12日启动，采购规模庞大，涉及31个省公司和15个直属单位、专业公司，涵盖了无线网(...
- ## [湖南携号转网数令人意外：用户转网率比邻省低得多](http://mp.weixin.qq.com/s?src=11&timestamp=1576459805&ver=2037&signature=SOpkCRPGL95pndObllj*T-KrOdVGlmvmGklKk76G0WDzp*y0jS9sT0h9M*X8Uzv*H*Bj-BLOV6fRe-pGC1KFtEr2*IZQrAv8d0bTLTzXtRR3Mm3O1hP92xXu2hQu-Jc7&new=1)
+ ## [小米卢伟冰回应「低价误国」说法；人民日报批视频网站 VIP 额外付费；水滴筹：太原车祸筹款报道严重偏离事实|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=6fVQNbYnsyLqTDIKvfaaiYe*K-qTx8NXzOJLkiurqjvsyq7HjLgC0kb5KYAMCsTdYec9toLeCPi16x-fGCayZFQ0RmhcP3ykfRRz9*ehaOSEs69VyEJA9RS0cBGMNazE&new=1)
+ > 水滴筹回应太原车祸筹款事件：报道严重偏离事实12 月 15 日下午消息，近日，因为一起车祸筹款事件，水滴筹再次遭遇媒体报道质疑。 据山西科教融媒体报道，太原市发生一起车祸，遭遇事件的一家三口中，父母当场身...
+ ## [湖南携号转网数令人意外：用户转网率比邻省低得多](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=SOpkCRPGL95pndObllj*T-KrOdVGlmvmGklKk76G0WBhQhRt4qT83mWwUX033t17lLYlNcpEVt3pAjMqejJW92RokQX0lTpGiIgkREkbnjSMytG*NgHp7birrMl*0nng&new=1)
  > 运营商财经网 吴碧慧/文 近日，运营商财经网独家获悉湖南地区携号转网相关数据。数据显示，11月27日当天截止下午18点，湖南电信携入用户57户，携出16户；湖南移动携入用户14户，携出48户；湖南联通携入用户13户...
- ## [招聘丨Qualcomm技术支持团队放大“招”，快来pick专属职位](http://mp.weixin.qq.com/s?src=11&timestamp=1576459805&ver=2037&signature=QVXxG7Bh8ujPLLJf1XIzf5k2SXte8QbxkuFNjhoptNl3Fs75qzY6yH0TMWXF7lzKlxxZIHwims-2X0s-3eziEHfXbyvHiXJqVEZ9Dyb5KF91sloybpV1VOsxPM-ifSu4&new=1)
+ ## [议程公布!2020年讯石“创芯时代”邳州论坛暨年度总结大会隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=SV5ozaWF1xGfQmdgHp2s-FQyWCNuSXzBuMpjIJNb7udsRibY19vz-Rzb60HF*7DWWktwG8XRLm1Hu7rn4yPItE0no6L6*CBcyAs-2lqji49vhctV3Td9ikmXUVqyoDgl&new=1)
+ > 导读     白驹过隙，时光荏苒！20年代新征程即将开启！2020年1月4日，《2020年讯石“创芯时代”邳州论坛暨年度总结大会》隆重来袭，同时，大会议程正式公布，欢迎关注！  ICCSZ讯 白驹过隙，时光荏苒!转眼间21...
+ ## [全城恐慌、断电断网!新奥尔良拉响计算机勒索病毒警报!](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=Dr76R26HaOXH9bZthT3kUhYupxjgu6rEtoDjEvnKw2s9mHLeuZSNG4YeB6P**HiBt8-vxAbnJjfbxidTSn453o*Kv4uElZKYDUez6r3dpSwIK1WlPnqqNMXSXVhOb6h8&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com没有枪声，没有硝烟，却能让一座城陷入恐慌，这就是新世纪的战场。 新奥尔良，位于美国路易斯安那州南部的一座海港城市，目前正在应对一场网络攻击战。在近日...
+ ## [Waymo收购人工智能公司Latent Logic丨三星否认折叠屏手机销量破百万\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=Aa0ueVPUXXuXh1HJDh2k8Lqmxp50kJjvVXWew*Ig5eqklRO7IYdzbWvkwdQagaHZwDRMe-oNh*xDLCO3PKLeqyJB5hfYW5NV-jHKiMMolJ0KJBsef0atRrGG-z1Lz4BM&new=1)
+ > 12月15日丨周日【Do说】编辑 | 赵艾虎Waymo收购人工智能公司Latent Logic，进军英国据网易科技援引英国《卫报》报道，近日，Waymo收购了英国一家专门从事自动驾驶汽车测试的人工智能(AI)公司——Latent Logic
+ ## [400亿大单落地!中国移动公示31省通信工程设计集采结果](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=Z2OMdFCP5bYyLz9DZjU0jolMhjSR3Ll*8Lbh3eWpAM1Py*9*e4ewMSryLgBydRGBIn-2-xK9WRSCxyZ8Jqs9iOYalTq9IA0FyTI8sr4zDewEoOEX3Whpok3kFqqGE3O5&new=1)
+ > 百亿级大单终于落地！12月15日，中国移动公示《2020年至2021年通信工程设计与可行性研究集中采购 》中标候选人。本次集采于11月12日启动，采购规模庞大，涉及31个省公司和15个直属单位、专业公司，涵盖了无线网(...
+ ## [本周大新闻|OPPO发布AR眼镜，Magic Leap 1企业版套件来袭](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=pCLWkbQRWsDBbn9*akDHTn8JfScGswC10uDYXDeOvKwQSc0ba76PRU2iSgZW*gJKQh*xkLxJT6NR56Y1qvTt*10JR7aWDgJKWU9OqnGXH8F0QiA0VItblRMvBjs9-Mzf&new=1)
+ > Esther｜ 编辑本周大新闻，AR方面，OPPO发布首款自研AR眼镜，外形酷似HoloLens，可能主打观影和游戏应用；Magic Leap 1企业版套件来袭，系统较之前有所升级，配备企业及管理平台；Magic Leap 2预计于2021
+ ## [招聘丨Qualcomm技术支持团队放大“招”，快来pick专属职位](http://mp.weixin.qq.com/s?src=11&timestamp=1576467004&ver=2037&signature=QVXxG7Bh8ujPLLJf1XIzf5k2SXte8QbxkuFNjhoptNk5CbnZbaD7GQaiw8To*VLdSK7NEb1criO34uw6ywq4SoTxosuzkqWXlwhSomWOlX8-rK5kKOw2NdUMTqopIjM*&new=1)
  > 一角硬币大小的芯片可以做什么？比如，赋能方寸大小的手机，开启更加智能、人性化的移动体验；为XR终端提供支持，解锁更加逼真的沉浸式XR体验；助力笔记本终端实现始终在线、始终连接的PC体验；......身材虽小，...
 # IT 技术 
- ## [39岁大龄码农找工作，没想到会这么残酷！](http://news.51cto.com/art/201912/607781.htm)
- > 39岁大龄码农找工作，没想到会这么残酷！
+ ## [2020企业机器学习行情报告：七大发现](http://ai.51cto.com/art/201912/607803.htm)
+ > 2020企业机器学习行情报告：七大发现
  ## [因为不会Redis的scan命令，我被开除了](http://stor.51cto.com/art/201912/607780.htm)
  > 因为不会Redis的scan命令，我被开除了
- ## [突发！Nginx之父被警方带走！](http://news.51cto.com/art/201912/607778.htm)
- > 突发！Nginx之父被警方带走！
+ ## [如何保障云上数据安全？一文详解云原生全链路加密](http://developer.51cto.com/art/201912/607779.htm)
+ > 如何保障云上数据安全？一文详解云原生全链路加密
  ## [前端架构React、Angular与Vue的全面比较](http://developer.51cto.com/art/201912/607677.htm)
  > 前端架构React、Angular与Vue的全面比较
+ ## [故事 | 一位MIT的女教授改变了编程](http://news.51cto.com/art/201912/607796.htm)
+ > 故事 | 一位MIT的女教授改变了编程
+ ## [39岁大龄码农找工作，没想到会这么残酷！](http://news.51cto.com/art/201912/607781.htm)
+ > 39岁大龄码农找工作，没想到会这么残酷！
+ ## [史上最烂的项目，最后负责人还进了监狱...](http://news.51cto.com/art/201912/607801.htm)
+ > 史上最烂的项目，最后负责人还进了监狱...
  ## [软件漏洞悬赏：大生意!](http://netsecurity.51cto.com/art/201912/607714.htm)
  > 软件漏洞悬赏：大生意!
- ## [不了解Cookie、Session、Token？一文给你整明白](http://netsecurity.51cto.com/art/201912/607701.htm)
- > 不了解Cookie、Session、Token？一文给你整明白
- ## [刺激2019：从AWS和阿里云看云计算疯狂的一年](http://news.51cto.com/art/201912/607699.htm)
- > 刺激2019：从AWS和阿里云看云计算疯狂的一年
- ## [架构师详解：从0到1构建大数据平台](http://news.51cto.com/art/201912/607703.htm)
- > 架构师详解：从0到1构建大数据平台
- ## [Nginx 之父被抓，程序员一定要警惕，背后的原因竟然是……](http://news.51cto.com/art/201912/607793.htm)
- > 俄罗斯警方在 12 日突击搜查了 NGINX 公司在莫斯科的办公室。12 日，有一名 NGINX 的员工在推特上发布了搜
- ## [60个Chrome神器收集：快速成为B站老司机，一键分析网站技术栈](http://news.51cto.com/art/201912/607791.htm)
- > 让WebP图片下载为PNG格式，从Github批量下载表情包，一键滚动截屏整个网页，助你快速成为B站老司机，一键分
- ## [24个必知必会的系统管理员面试问题](http://os.51cto.com/art/201912/607788.htm)
- > 作为一个经常与计算机打交道的极客，在硕士毕业后在 IT 行业选择我的职业是很自然的选择。因此，我认为走上
- ## [PHP 到底是不是宇宙第一？TIOBE 排行榜来证明！](http://news.51cto.com/art/201912/607790.htm)
- > 做为一名程序员，都比较关注其使用编程语言的热度，一方面编程语言的热度决定了它拥有多大的市场，另一方面
- ## [请你们不要调侃中台，它是我们赖以生存的镰刀](http://developer.51cto.com/art/201912/607789.htm)
- > 在这个世界上有两种人，一种人性情诙谐，喜欢开玩笑，另一种人万事较真，做事喜欢一板一眼。
- ## [Kafka 里面的信息是如何被消费的？](http://developer.51cto.com/art/201912/607786.htm)
- > 作为一个爬虫工程师，Kafka 对你而言就是一个消息队列，你只需要掌握如何向里面写入数据，以及如何读取数据
- ## [Jeff Dean谈2020年机器学习趋势：多任务和多模态会有大进展](http://news.51cto.com/art/201912/607792.htm)
- > 2020年，机器学习将会往何处去？加拿大温哥华举办的NeurIPS期间，在接受外媒VB采访时，Jeff Dean交出了自己
- ## [一个字符串中到底能有多少个字符？我竟然算错了](http://developer.51cto.com/art/201912/607783.htm)
- > 依照Java的文档， Java中的字符内部是以UTF-16编码方式表示的，最小值是 \\u0000 (0),最大值是\\uffff(6553
- ## [前后端分离开发，HTTP API 认证授权术](http://netsecurity.51cto.com/art/201912/607785.htm)
- > 这个世界还是比较复杂的，除了用户访问，还有用户委托的第三方的应用，还有企业和企业间的调用，这里，我想
- ## [如何在 Linux 中找出 CPU 占用高的进程](http://os.51cto.com/art/201912/607782.htm)
+ ## [AI辅助开发比人工编写代码快180多倍，程序员是喜还是忧？](http://news.51cto.com/art/201912/607817.htm)
+ > 如今，开发人员的准入门槛比以往任何时候都要高。重复性的任务占据了软件开发的大部分时间，并且很容易出错
+ ## [这本最新免费开源的Nginx电子书，赶紧收藏了！](http://news.51cto.com/art/201912/607816.htm)
+ > Nginx是一款轻量级的Web 服务器/反向代理服务器及电子邮件（IMAP/POP3）代理服务器，并在一个BSD-like 协议
+ ## [网络安全市场急缺的六种非技术专业人才](http://netsecurity.51cto.com/art/201912/607813.htm)
+ > 信息安全企业和企业 IT 部门在招募安全人才的时候，往往本着来之能战，开箱即用的筛选原则，因此计算机科学
+ ## [物联网趋势2020：你需要知道的4件事](http://iot.51cto.com/art/201912/607814.htm)
+ > 智能家居物联网设备越来越受欢迎。到2021年，美国的智能家居数量预计将达到家庭总数的28％。上升趋势的部分
+ ## [2020年物联网及边缘计算发展预测](http://iot.51cto.com/art/201912/607812.htm)
+ > 在人们对2019年进行回顾并为未来做好准备的时候，行业专家对2020年物联网和边缘计算的发展趋势进行了预测。
+ ## [如何在Linux中找出CPU占用高的进程](http://os.51cto.com/art/201912/607809.htm)
  > 在之前的文章中我们已经讨论过 如何在 Linux 中找出内存消耗最大的进程。你可能也会遇到在 Linux 系统中找
- ## [树莓派 + OpenALPR 实现车牌识别](https://blog.csdn.net/weixin_40973138/article/details/102877817)
- > 树莓派 + OpenALPR 实现车牌识别
+ ## [Linux发行版对比：Red Hat与Ubuntu](http://os.51cto.com/art/201912/607811.htm)
+ > Red Hat Enterprise Linux(RHEL)和Ubuntu是企业中最流行的两种Linux发行版。尽管如此，这两种Linux版本之间
+ ## [大数据帮助选择理想虚拟主机的10种方法](http://bigdata.51cto.com/art/201912/607810.htm)
+ > 大数据可以帮助企业选择理想的虚拟主机，人们需要了解使用大数据帮助实现的方法。
+ ## [人工智能是否正在颠覆行为变革营销领域？](http://ai.51cto.com/art/201912/607808.htm)
+ > 随着人工智能在人们的日常生活中变得越来越重要，行为营销也在不断发展。人们需要了解更多有关此内容。
+ ## [2020年预测：将是网络犯罪即服务年吗？](http://netsecurity.51cto.com/art/201912/607806.htm)
+ > 行业媒体eWEEK对2020年预测：我们还看到了有关人工智能和机器学习“中毒”的预测，这可能会引起新的网络安
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
+ ## [JavaScript故事+超详解var、let和const的区别与用途](https://blog.csdn.net/Jasper917/article/details/103465825)
+ > JavaScript故事+超详解var、let和const的区别与用途
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [CKA考试习题：存储管理-普通卷、PV、PVC](https://blog.csdn.net/fly910905/article/details/103551558)
- > CKA考试习题：存储管理-普通卷、PV、PVC
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
+ ## [JS与HTML、CSS实现2048小游戏（六）](https://blog.csdn.net/qq_40421109/article/details/103549669)
+ > JS与HTML、CSS实现2048小游戏（六）
+ ## [吴恩达深度学习课程-神经网络和深度学习-第2周-个人学习笔记](https://blog.csdn.net/jackhh1/article/details/103539988)
+ > 吴恩达深度学习课程-神经网络和深度学习-第2周-个人学习笔记
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ > 
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
  ## [Springboot登录会话过期,重定向到登录界面](https://blog.csdn.net/dummyo/article/details/103552283)
  > Springboot登录会话过期,重定向到登录界面
+ ## [简易通讯录管理系统（C++实现）](https://blog.csdn.net/qq_44530108/article/details/103550762)
+ > 简易通讯录管理系统（C++实现）
+ ## [用51单片机演奏民歌茉莉花](https://blog.csdn.net/dai19981003/article/details/103552883)
+ > 用51单片机演奏民歌茉莉花
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [MATLAB线性方程组求解](https://blog.csdn.net/s0302017/article/details/103549159)
+ > MATLAB线性方程组求解
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
  ## [PostgreSQL目录结构之base目录](https://blog.csdn.net/weixin_39992480/article/details/102825345)
  > PostgreSQL目录结构之base目录
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
- ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
- > 
- ## [软件设计师的成长之路](https://blog.csdn.net/csdnnews/article/details/103555942)
- > “无论你下一步决定做什么，犯错都没关系，你还年轻。”作者 |Arne Laponin译者 |风车云马，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：2017年...
  ## [对话阿里云叔同：释放云价值，让容器成为“普适”技术](https://blog.csdn.net/csdnnews/article/details/103555945)
- > 作者 |刘丹受访者 |丁宇出品 | CSDN云计算（ID：CSDNcloud）云改变了IT业态和市场格局，催生了应用大发展的时代，企业可以更加专注于构建符合其愿景的、更具生命力的业务...
+ > 作者 |刘丹受访者 |丁宇出品 | CSDN云计算（ID：CSDNcloud）云改变了IT业态和市场格局，催生了应用大发展的时代，企业可以更加专注于构建符合其愿景的、更具生命力的业务创新。全面使用云服务构建软件的时代已经到来，在这个大背景下，云原生的概念被提出并迅速具象化，而以容器为代...
  ## [HTML + CSS 为何得不到编程界的认可？](https://blog.csdn.net/csdnnews/article/details/103555946)
- > 如果我在用HTML+CSS编程，那么，我能算是名开发人员吗？作者 |Amadou Ibrahim译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：有...
+ > 如果我在用HTML+CSS编程，那么，我能算是名开发人员吗？作者 |Amadou Ibrahim译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：有好多次，别人说我算不上程序员，因为我在用HTML + CSS编程。我非常伤心，因为别人都不认...
  ## [图灵奖得主 Bengio：深度学习不会被取代！](https://blog.csdn.net/csdnnews/article/details/103555943)
- > 编译 | Just出品 | AI科技大本营在1990年代那个漫长而寒冷的AI寒冬期，大多数人认为神经网络是一条研究的死胡同，Yoshua Bengio等研究者却仍坚持不懈地进行着该领域的...
+ > 编译 | Just出品 | AI科技大本营在1990年代那个漫长而寒冷的AI寒冬期，大多数人认为神经网络是一条研究的死胡同，Yoshua Bengio等研究者却仍坚持不懈地进行着该领域的研究。最终他们的努力开花结果。由于对深度学习做出的巨大贡献，他与Yann Lecun和Geofrey...
  ## [程序员相亲竟然因为这个被拒绝了......](https://blog.csdn.net/csdnnews/article/details/103555944)
  > 之前在网络上看到一个程序员写他的相亲经历这个程序员的相亲经历蛮悲催的这位程序员约自己的相亲对象出来吃饭由于之前晚上刚加班了一夜眼看约会的时间快到了这位程序员就没有回家换衣服和洗头直接奔向...
  ## [朝九晚五的工作值得留恋吗？](https://blog.csdn.net/csdnnews/article/details/103555949)
- > “虽然每个人的工作经历各有不同，而且每个人的故事也千变万化，但我认为有几段朝九晚五的工作经历实际上是一件好事。”作者 |Anna Grigoryan译者 |弯月，责编 | 郭芮出品 ...
- ## [微信地位，牢不可破？](https://blog.csdn.net/csdnnews/article/details/103555947)
- > 作者|李楠本文经授权转自新浪科技QQ与微信接连称霸社交赛道20年后，新的临界点似乎已经到来。回看2019的社交市场，新产品持续推出。截至目前，阿里巴巴、字节跳动、百度、京东、网易、搜...
+ > “虽然每个人的工作经历各有不同，而且每个人的故事也千变万化，但我认为有几段朝九晚五的工作经历实际上是一件好事。”作者 |Anna Grigoryan译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：如今，远程办公和自由职业的比例逐年增高。几...
  ## [大佬需要接班人](https://blog.csdn.net/csdnnews/article/details/103555950)
  > 作者|孔明明本文经授权转自燃财经“一代人终将老去，但总有人正年轻。”美国时间2019年12月3日下午，Google两位创始人拉里·佩奇（Larry Page）和谢尔盖·布林（Serg...
  ## [分析了 3000 份 Bug 记录，可以发现什么？](https://blog.csdn.net/csdnnews/article/details/103555957)
  > 为了进一步了解软件开发团队处理bug的流程，我们随机抽取了过去的两个月中上传到我们数据库中的3000个bug记录......作者 |Dan Makarov译者 |弯月，责编 | 郭芮...
+ ## [联想杨元庆发内部信：将优化5G产品，力求在新领域实现领先](http://www.lanjingtmt.com/news/detail/45201.shtml)
+ > 联想集团董事长兼CEO杨元庆发布内部信表示，尽管全球各地充满不确定因素，但联想在2019年依然取得了强劲业绩。
+ ## [孟玮出任巨人网络首席财务官，曾为中金公司董事总经理](http://www.lanjingtmt.com/news/detail/45198.shtml)
+ > 公开资料显示，加入巨人网络之前，孟玮在中国国际金融股份有限公司担任董事总经理及传媒互联网首席分析师。在此之前，孟玮亦在东方证券、京东商城、艾瑞咨询等公司从事证券分析、战略研究等工作
  ## [B站重金投入电竞赛事直播，究竟有何野心？](http://www.lanjingtmt.com/news/detail/45197.shtml)
  > 如果不是B站在电竞直播上的一次“突然发力”，部分人甚至还未意识到，这家与二次元紧密捆绑在一起的公司，如今在电竞的道路上已经行进至如此之深。
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
- > 北京车和家java开发工程师面试题总结
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
+ ## [纹波电压](https://blog.csdn.net/weixin_46025029/article/details/103549650)
+ > 纹波电压
+ ## [LLC变换记（一）](https://blog.csdn.net/weixin_44278530/article/details/103338411)
+ > LLC变换记（一）
+ ## [京东API开发系列：item_get京东获得JD商品详情 API 返回值说明](https://blog.csdn.net/Andyfu2019/article/details/103549438)
+ > 京东API开发系列：item_get京东获得JD商品详情 API 返回值说明
+ ## [用51单片机演奏民歌茉莉花](https://blog.csdn.net/dai19981003/article/details/103552883)
+ > 用51单片机演奏民歌茉莉花
+ ## [QT绘制区域(ROI)框（矩形框和椭圆框）](https://blog.csdn.net/qq_40732350/article/details/103538593)
+ > QT绘制区域(ROI)框（矩形框和椭圆框）
+ ## [VS2019编写简单的C程序示例](https://blog.csdn.net/csdn_wangchong/article/details/103546291)
+ > VS2019编写简单的C程序示例
+ ## [数字图像处理｜Matlab-频域增强实验-彩色图像的频域滤波器-用高斯低通滤波器对彩色图像进行滤波操作](https://blog.csdn.net/qq_43571150/article/details/103543675)
+ > 数字图像处理｜Matlab-频域增强实验-彩色图像的频域滤波器-用高斯低通滤波器对彩色图像进行滤波操作
+ ## [\[LeetCode\] 378、有序矩阵中第K小的元素](https://blog.csdn.net/ft_sunshine/article/details/103546595)
+ > \[LeetCode\] 378、有序矩阵中第K小的元素
+ ## [3D Machine Learning Multiple Objects Detection](https://blog.csdn.net/weixin_40400177/article/details/103540733)
+ > 3D Machine Learning Multiple Objects Detection
+ ## [JAVA版归并排序详解（通俗图解）](https://blog.csdn.net/weixin_44106912/article/details/103552208)
+ > JAVA版归并排序详解（通俗图解）
+ ## [av_image_fill_arrays详解](https://blog.csdn.net/longjiang321/article/details/103536067)
+ > av_image_fill_arrays详解
+ ## [processing编程习作：《代码本色》chp0-4（互动媒体技术作业）](https://blog.csdn.net/weixin_44123437/article/details/103537299)
+ > processing编程习作：《代码本色》chp0-4（互动媒体技术作业）
+ ## [FFmpeg拉取rtmp流转udp输出播放](https://blog.csdn.net/yao_hou/article/details/103267569)
+ > FFmpeg拉取rtmp流转udp输出播放
+ ## [【OpenWRT】增加第三方开源库 -  二维码开源库 zbar](https://blog.csdn.net/lovemengx/article/details/103538727)
+ > 【OpenWRT】增加第三方开源库 -  二维码开源库 zbar
+ ## [python提取语音信号MFCC](https://blog.csdn.net/YAOHAIPI/article/details/103548674)
+ > python提取语音信号MFCC
 # PM 
+ ## [增长第一步：明确增长目标](http://www.woshipm.com/operate/3218819.html)
+ > 本文通过借鉴《增长黑客》一书中提到的基本增长等式并结合作者的工作经历，阐述了制定明确的增长目标的必要性以及如何制定，并提出了几点在制定增长目标时应该要注意的...
+ ## [数据分析体系是什么？该怎么搭建？](http://www.woshipm.com/data-analysis/3218587.html)
+ > 有同学问：经常听到“搭建运营分析体系、搭建业绩监控体系、搭建商品分析体系”等等要求。可到底数据分析体系是什么？似乎经常看到的，只有AARRR五个字母，又语焉不详。到...
+ ## [解构用户场景，真正满足用户需求](http://www.woshipm.com/user-research/3218636.html)
+ > 用户场景不是一成不变的，解构用户场景，找到其中的“特定”。我们常说用户场景，可用户场景到底由哪些因素组成呢？用户的需求就是产品所提供的服务，这样才能形成产品...
+ ## [毕业一年，想跳槽要掌握的5个面经要点](http://www.woshipm.com/zhichang/3214907.html)
+ > 现在，年轻人跳槽似乎是一种趋势。很多毕业不久的同学频繁跳槽，面对这个现象，本文作者尝试进行分析并给出相关建议。如果要跳槽，你要怎么做？在笔者接触的圈子里，...
+ ## [我想了，30种微信红包玩法](http://www.woshipm.com/operate/3217540.html)
+ > 习惯的力量很可怕，导致有时候，不愿意改变或尝试。一、微信红包该创新了微信红包自2014年1月27日上线至今，产生的作用巨大，如：加强了亲友、同事、同学等之间的...
+ ## [微博，助力现象级红人的社交舆论场](http://www.woshipm.com/it/3212133.html)
+ > 淘宝直播、快手、知乎、B站……不同的平台会诞生不同特质的红人，而反过来，这些平台也会受到这些特质红人的青睐。不同平台的数据可能有区别，但最后他们都将回到微博这个...
+ ## [区块链如何助力智慧体育？](http://www.woshipm.com/blockchain/3213548.html)
+ > 本文分析了区块链+体育的困局，如何针对性突破让区块链助力智慧体育。2009年1月，神秘的中本聪用他的第一版软件挖掘出了创世区块，开启了比特币的时代，随着比特币价...
+ ## [中美网红是如何养成的？「爆品公式」告诉你](http://www.woshipm.com/operate/3218324.html)
+ > 李子柒红到了YouTube，这不是文化输出，而是共同的“爆品公式”在起作用。最近，李子柒的热度很高，各种登上微博热搜。讨论她“是不是文化输出”的话题热度高达8亿，连人...
+ ## [产品的价值：始于用户，存于商业，终于自己](http://www.woshipm.com/pmd/3216898.html)
+ > 本文从公司、用户和你自己三个角度来谈谈产品的价值，enjoy~昆哥是我的同事，工位在我隔壁，因为坐得近，平时会一起吃吃饭。昆哥告诉我，他09年开始做产品，经历过腾...
+ ## [设计师的述职报告，如何包装自己的价值？](http://www.woshipm.com/pd/3210153.html)
+ > 又到年底了，年终述职报告你写了么？本文作者从设计师的角度出发，分享了包装自己的设计价值的方法，供大家一同学习和参考。在设计师的职业生涯里，总有一道绕不开的...
+ ## [这届年轻人连穷都不怕，还会怕冷？](http://www.woshipm.com/it/3214786.html)
+ > 不是年轻人更理解未来，而是他们构成了未来。当代年轻人的操作骚起来，让人十分震惊。这不，在刚刚结束的淘宝双十二里，根据数据统计，活动的前1小时，60万条打底裤...
  ## [处理badcase，产品经理不做“传话筒”](http://www.woshipm.com/pmd/3217844.html)
  > 作者分享了自己处理badcase的过程，完整走完case处理流程，基本上就能形成一个闭环，避免自己成为处理问题的“传话筒”。一个产品经理在日常工作中不可避免的内容就是处...
- ## [线下课程 | 2019年最后1个月，让广州小伙伴最惊喜的是……](http://www.woshipm.com/active/3192857.html)
- > 2015年，我觉得在腾讯的运营“窝在家里”太久，已经不清楚外面的天是怎样的天，所以决定走出去看看外面的运营经理在做什么。——《互联网运营实战训练营》@主讲老师潘至鹏...
- ## [ofo们为何搭建不起三级火箭？](http://www.woshipm.com/it/3216770.html)
- > 本文以小米、360的例子分析了什么是三级火箭模式，以及剖析了ofo们搭建不起三级火箭的原因。2014年，戴威和他的北大校友共同创立了ofo。沉寂几年后，终于在2017年迎...
- ## [作为运营，一定要知道的数据真相](http://www.woshipm.com/operate/3216381.html)
- > 运营人，要学会从数据里发现运营的可优化点，对流量、对人群、对产品进行分层运营，以起到更好的效果。运营涉及的定义实在是太广又太细了，仿佛方方面面都离不开运营...
+ ## [城市出行行业数字化升级](http://www.chanpin100.com/article/110339)
+ > 2019年7-8月，中国网约车市场活跃用户规模分别为8198.5万，8155.6万人，行业活跃用户规模降幅持续收窄，并于2019年9月迎来增长拐点，月度活跃用户规模提振6.3个百分点。
+ ## [“尝鲜”和“个性”，你不懂当代大学生的“懒、宅、玩”](http://www.chanpin100.com/article/110338)
+ > 说起大学生,浮现在大家脑海里的是一副怎样的形象?是“爱学习，学习使我快乐”还是“肥宅追剧，不想努力”。不过毫无疑问的是，在网络与线上社交发达的今天，大学生既是积极的消费者,又是流行文化的践行者。接下来就让我们一起走进大学生的“数字生活“。
 
     
