@@ -1,7 +1,7 @@
 ---
 title: 2019-12-17 IT News
 copyright: true
-date: 2019-12-17 10:01:10
+date: 2019-12-17 12:00:50
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -77,81 +77,91 @@ Windows Phone 8.1&#24212;&#29992;&#21830;&#24215;&#27491;&#24335;&#20851;&#38381
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [“广东联通5G”又刷屏了!国内多家主流媒体争相报道!直呼“太牛了”!](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=obVP9AWKZgkY*VDNot8qzXgYVuX*S1L2EZoT-QtyQ86jI63rMpI2*QvcMaCi1w3PTPhStXWaQLo-O4nKxqUnSM4ILN01GFtb*mxJ3MZStK8zFOqD9pCOiAHWq71QfIFE&new=1)
- > 来源：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
- ## [一上黄网就中毒，可能不是你的错。](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=9og5SyAC24PheUHuEaAIybiQtMVtWjDJLGbVD4eKjHK1mGK**liW0wIOaNQF35DW1Bk3AhyAUKUVWliuTf0yOBzzOkW9M5UXd9*uP253JjwQRuLIE7Gaj8eE3ygZdq0q&new=1)
+ ## [一上黄网就中毒，可能不是你的错。](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=9og5SyAC24PheUHuEaAIybiQtMVtWjDJLGbVD4eKjHIkd7EKyVS967bin-zsOgfNadHaQKa09W0BbWh9el50eogbXmpr2ZhynGRmCPWbJXOEiSVrdoOwg9RVee9LSG*M&new=1)
  > 如果你是个网龄超过二十年的「 老差友 」，想必在学生时代遇到过下面这种情况 ——某天，因为学习需要，我们打开了电脑，准备上网查点儿资料。结果突然有一行绘声绘色的内容出现在了网页当中。既然是出现在学习...
- ## [\[报告\]2019中国共享汽车平台创新白皮书(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=Wjz7T3Mn0TFDsFeMo1eFmYRagHl9S1wJ49sfecaf-QLLgb8f5cehVmxpkKr6ENktfl-SKidKnQodNBxotVIw2KVUeUT-EoYvHkEg8fgjX*RMbSyCH6nqRskD4Ls8m-5X&new=1)
- > 共享汽车已在全球数千城市部署：共享汽车主要覆盖城市分布在欧美、中国、印度等国家或地区，其中Turo覆盖的城市最多，达到了5500个城市，zipcar和Getaround分别为500、300城，中国的GoFun出行覆盖了80座城市。共...
- ## [谷歌首次对外公布地图数据丨亚马逊加入交换机开源项目\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=6ShR0F-ZFpR3T780hg06iCOTxrVmTBfXanPUs8bWEb05J02i3Ij5UtrTEFfBEUuXELik2-4T08M4--FSeHN2kTMVKOjkY2**nZ2AHwbdWpVzJybNs40f*cgRvxs6UWkr&new=1)
- > 12月16日丨周一【Do说】编辑 | 赵艾虎谷歌首次对外公布地图数据 覆盖98%人类居住地根据外媒CNET报道，谷歌在当地时间12月13日披露了谷歌地图的相关数据，这也是谷歌首次对外披露它们为绘制世界地图所做的努力。...
- ## [国产统一操作系统 UOS 来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=QNhpjaU-OJRp1GVG5wkyPrrr4djEknlWJ9c1m-6CpofOC*3EPNsH3RXMmqZV1ZfM*Qy7ld3zI0vwyA3tEA7HBsQtDIam0-XjeP61Ry8MI2oZT0dReeBEE1si56tNqf89&new=1)
+ ## [2019贵州高校大数据 与人工智能技能应用大赛落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=X725iFAQ6d6s7r-bzJ33fgLwBDpwSICfxTuQ9LhnZ2mMnaUuHXgx9VUDNr-rlEeXG2La8dmyHLLyE1rpM0oNU6MTl*bq086Zd7vnqZFonho=&new=1)
+ > 本报讯 12月16日，主题为“一码当先”的2019贵州高校大数据与人工智能技能应用大赛总决赛暨颁奖典礼在贵阳举行。经过近3个月的激烈角逐，最终，贵州师范学院CRUD队获大赛一等奖，奖金5万元；贵州民族大学G&amp;K...
+ ## [国产统一操作系统 UOS 来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=QNhpjaU-OJRp1GVG5wkyPrrr4djEknlWJ9c1m-6CpofBy9DiayxKPsro8SLEpPPftDlAX*V0RnfqQukw3voNMPN1W09kqIkfu2808HTJTK6EgPzItFAm0XFVMS7nQ9xA&new=1)
  > 最近这两个月，有关国产统一操作系统 UOS 的消息成为科技圈热点。在中美贸易摩擦以及美国对华为禁售打压之后，大家的居安思危思维也迅速从硬件领域扩展到软件领域，谷歌对华为中止合作，微软下架华为笔记本的事...
- ## [中国电信新组建的最大部门揭秘 两个部门都合并进来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=do1-dR7f0vhZJ8mLFsMPSsqMMU6e8rTzukoT7IILHnr1*zfX44ar1j8ysGvle1y6XXL0IVfHfNHeZlLxJr7u8nXXBN7f6UhGlEMyQ5tacONH5vbDnve9TDLg8raOX*iF&new=1)
+ ## [运营商|中国移动集采15万台路由器和交换机 10G多模光模块最高限价95元](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=89hRmKckj9GaGrpXwaxyVoIPG0EJW0UtWyN3Bd-n9ENkPa2etI3HPI12rDCr8lv8DZdmYhm*efzDtQ8DJ*yzAA1sNT-kdBhYKvqjqoCsC9AhyuSQcMiWgNoUj603bBrp&new=1)
+ > 导读：中国移动发布2020-2021年低端路由器和低端交换机集采项目公告，拟采购低端路由器及低端交换机规模共计150000台，采购满足期为1年。其中，低端路由器，数量46000台；低端三层交换机，数量32000台；二层交换...
+ ## [\[报告\]2019中国共享汽车平台创新白皮书(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=Wjz7T3Mn0TFDsFeMo1eFmYRagHl9S1wJ49sfecaf-QIBCnbU4bXcZiSbmfYvYTiQrrf2*pKa6EGifByp2FJ*KKlhaW5CZ05EaTg1Sg5Wuz-5rRyMJZc9-E-TGVJqMpUH&new=1)
+ > 共享汽车已在全球数千城市部署：共享汽车主要覆盖城市分布在欧美、中国、印度等国家或地区，其中Turo覆盖的城市最多，达到了5500个城市，zipcar和Getaround分别为500、300城，中国的GoFun出行覆盖了80座城市。共...
+ ## [“广东联通5G”又刷屏了!国内多家主流媒体争相报道!直呼“太牛了”!](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=obVP9AWKZgkY*VDNot8qzXgYVuX*S1L2EZoT-QtyQ87HQwzAu2K9Zk7eMeY*wmZxqNc-qyi-1SpgFC2TKafx-umF2jofJPtQ0iZw-XZp2ZL-HobmAp7lz4RZlyAaVJ9Y&new=1)
+ > 来源：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
+ ## [谷歌首次对外公布地图数据丨亚马逊加入交换机开源项目\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=6ShR0F-ZFpR3T780hg06iCOTxrVmTBfXanPUs8bWEb1lWjdqt2LUd1ZF7Q52nHxw7fok99O2MKoijh10dH5viX232akMsLxP-YGQxASniDq1G65Rpru5ugNUF72-vLGg&new=1)
+ > 12月16日丨周一【Do说】编辑 | 赵艾虎谷歌首次对外公布地图数据 覆盖98%人类居住地根据外媒CNET报道，谷歌在当地时间12月13日披露了谷歌地图的相关数据，这也是谷歌首次对外披露它们为绘制世界地图所做的努力。...
+ ## [中国电信新组建的最大部门揭秘 两个部门都合并进来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576553404&ver=2039&signature=do1-dR7f0vhZJ8mLFsMPSsqMMU6e8rTzukoT7IILHnpmERYhmixjKGkYq5ujAxqUvCiwrBi--B6GA51sjVKhRaKRERysGajTNSGVPwyUjszdSdA8oG4mI95LSVWJkYk7&new=1)
  > 运营商财经网 康锐 /文 知情人士向运营商财经网透露，轰轰烈烈的中国电信集团公司总部机构改革已拉开序幕，其中包括撤销网络运行维护事业部、企业信息化事业部，这两个部门的人刨除与网络安全相关的人员和处室后...
 # IT 技术 
  ## [别再问“分库分表”了，再问就崩溃了！](http://database.51cto.com/art/201912/607882.htm)
  > 别再问“分库分表”了，再问就崩溃了！
+ ## [2019年的最后一个月，这里有6种你必须要知道的最新剪枝技术](http://news.51cto.com/art/201912/607840.htm)
+ > 2019年的最后一个月，这里有6种你必须要知道的最新剪枝技术
  ## [医疗诊断类AI项目落地的十步走](http://ai.51cto.com/art/201912/607867.htm)
  > 医疗诊断类AI项目落地的十步走
+ ## [运维必看：从零开始搭建“大后台”技术栈](http://news.51cto.com/art/201912/607883.htm)
+ > 运维必看：从零开始搭建“大后台”技术栈
+ ## [深度学习已成强弩之末？Bengio等大牛NeurlPS2019上支招](http://news.51cto.com/art/201912/607884.htm)
+ > 深度学习已成强弩之末？Bengio等大牛NeurlPS2019上支招
  ## [使Kubernetes变得更好的11种工具](http://cloud.51cto.com/art/201912/607863.htm)
  > 使Kubernetes变得更好的11种工具
+ ## [Python如何实现微信群万人同步直播？](http://developer.51cto.com/art/201912/607861.htm)
+ > Python如何实现微信群万人同步直播？
  ## [10个优秀实践技巧，实现有效的微服务架构](http://developer.51cto.com/art/201912/607862.htm)
  > 10个优秀实践技巧，实现有效的微服务架构
- ## [2020企业机器学习行情报告：七大发现](http://ai.51cto.com/art/201912/607803.htm)
- > 2020企业机器学习行情报告：七大发现
- ## [因为不会Redis的scan命令，我被开除了](http://stor.51cto.com/art/201912/607780.htm)
- > 因为不会Redis的scan命令，我被开除了
- ## [如何保障云上数据安全？一文详解云原生全链路加密](http://developer.51cto.com/art/201912/607779.htm)
- > 如何保障云上数据安全？一文详解云原生全链路加密
- ## [前端架构React、Angular与Vue的全面比较](http://developer.51cto.com/art/201912/607677.htm)
- > 前端架构React、Angular与Vue的全面比较
- ## [运维必看：从零开始搭建“大后台”技术栈](http://news.51cto.com/art/201912/607883.htm)
- > 在创业公司，没有大公司那些完善的基础设施，需要我们从开源界，从云服务商甚至有些需要自己去组合，去拼装
- ## [Java与Python：你应该选择哪个？](http://developer.51cto.com/art/201912/607885.htm)
- > 让我们比较一下世界上两种最受欢迎、最强大的编程语言：Java 和 Python！这两种语言有巨大的社区支持和库来
- ## [仅1年GitHub Star数翻倍，Flink 做了什么？](http://os.51cto.com/art/201912/607881.htm)
- > Apache Flink 是公认的新一代开源大数据计算引擎，其流水线运行系统既可以执行批处理程序也可以执行流处理
- ## [深度学习已成强弩之末？Bengio等大牛NeurlPS2019上支招](http://news.51cto.com/art/201912/607884.htm)
- > NeurlPS 2019上，多位专家讨论到AI的未来，认为深度学习算法的瓶颈已经出现。
- ## [使用split命令分割Linux文件](http://os.51cto.com/art/201912/607880.htm)
- > 一些简单的 Linux 命令能让你根据需要分割以及重新组合文件，来适应存储或电子邮件附件大小的限制。
- ## [如何解决物联网项目常见的挑战？](http://iot.51cto.com/art/201912/607876.htm)
- > 物联网解决方案面临着重重挑战。在这些挑战中，IoT解决方案提供商处于连接性，电源，安全性和集成领域。在
- ## [浅谈lambda表达式](http://developer.51cto.com/art/201912/607878.htm)
- > Java8发布已经有一段时间了，这次发布的改动比较大，很多人将这次改动与Java5的升级相提并论。
- ## [SSD vs.HDD：如何在固态驱动器和硬盘驱动器之间进行选择](http://stor.51cto.com/art/201912/607874.htm)
- > 如今，越来越多的IT团队实现从机械硬盘(HDD)到固态硬盘(SSD)的过渡。这是目前的选择和优秀实践。
- ## [你还想if/else用多久？来学学这几种改进方式吧](http://developer.51cto.com/art/201912/607875.htm)
- > 一般来说我们正常的后台管理系统都有所谓的角色的概念，不同管理员权限不一样，能够行使的操作也不一样。
- ## [详解微服务架构中的数据一致性](http://developer.51cto.com/art/201912/607873.htm)
- > 在微服务中，一个逻辑上原子操作可以经常跨越多个微服务。即使是单片系统也可能使用多个数据库或消息传递解
- ## [Python如何实现24个微信大群（共万人）同步转发直播？](https://blog.csdn.net/u014044812/article/details/103550611)
+ ## [开放与封闭之争：百度和谷歌AI平台谁更胜一筹？](http://news.51cto.com/art/201912/607896.htm)
+ > 人工智能被认为是下一次技术革命，但它又与如前数次技术革命不甚相同，在技术本身的实现难度、产业影响深度
+ ## [服务端高并发分布式架构演进之路](http://developer.51cto.com/art/201912/607895.htm)
+ > 本文以淘宝作为例子，介绍从一百个到千万级并发情况下服务端的架构的演进过程，同时列举出每个演进阶段会遇
+ ## [Jvm原理分析，看了都说好](http://virtual.51cto.com/art/201912/607897.htm)
+ > JVM是Java Virtual Machine(Java虚拟机)的缩写，是通过在实际的计算机上仿真模拟各种计算机功能来实现的。
+ ## [如何在Windows 10的事件查看器中启用打印日志记录](http://os.51cto.com/art/201912/607894.htm)
+ > windows 10中的事件查看器使您可以查看所有最近打印的文档的完整日志。 因此，如果您想检查打印作业，请在w
+ ## [工信部科技司司长：芯片OS不突破 AI就是空中楼阁](http://news.51cto.com/art/201912/607898.htm)
+ > 近年来我国人工智能产业呈现出了蓬勃发展的良好态势。但与此同时，我国人工智能的基础技术还有较大的欠缺，
+ ## [PHP 到底排第几？TIOBE 排行榜来证明！](http://developer.51cto.com/art/201912/607892.htm)
+ > 做为一名程序员，都比较关注其使用编程语言的热度，一方面编程语言的热度决定了它拥有多大的市场，另一方面
+ ## [帮助你排序文本文件的Awk命令行或脚本](http://os.51cto.com/art/201912/607893.htm)
+ > Awk 是一个强大的工具，可以执行某些可能由其它常见实用程序（包括 sort）来完成的任务。
+ ## [MySQL查询语句很慢？可以试试几种SQL优化](http://database.51cto.com/art/201912/607890.htm)
+ > 无论什么数据库，多表连接的查询成本都是比较高的，因此对于高并发应用，应该尽量减少有连接的查询，多表连
+ ## [记住这两幅重要的图](http://zhuanlan.51cto.com/art/201912/607889.htm)
+ > 今天给大家分享两幅图，它们是如此的重要，以至于你看到的很多软件的设计都和他们相关， 可以说图中展示的
+ ## [聊一聊CDMA消亡史](http://network.51cto.com/art/201912/607886.htm)
+ > “取鸡狗马之血来！” 艾文・雅各布斯博士神情严肃，目光如炬。昏黄的灯光照射在他的身上，在雪白的墙壁上
+ ## [硬核！ 逛了4年Github ，一口气把我收藏的 Java 开源项目分享给你！](https://blog.csdn.net/qq_34337272/article/details/103456234)
+ > 硬核！ 逛了4年Github ，一口气把我收藏的 Java 开源项目分享给你！
+ ## [私藏的18个黑科技网站，想找什么软件就找什么软件！！！](https://blog.csdn.net/sinat_33921105/article/details/103307419)
+ > 私藏的18个黑科技网站，想找什么软件就找什么软件！！！
+ ## [Ｂ站收藏 6.1w+！GitHub 标星 3.9k+！这门神课拯救了我薄弱的计算机基础](https://blog.csdn.net/u013486414/article/details/103457523)
  > 
- ## [如果HR再问红黑树，你就把《算法导论》拿出来批判一番](https://blog.csdn.net/m0_37816922/article/details/103568966)
- > 如果HR再问红黑树，你就把《算法导论》拿出来批判一番
- ## [Excel中ROUND、ROUNDUP、ROUNDDOWN函数详解](https://blog.csdn.net/wzh0709zml/article/details/103557755)
- > Excel中ROUND、ROUNDUP、ROUNDDOWN函数详解
- ## [最简单的RecyclerView Item动画全解析](https://blog.csdn.net/weixin_42229694/article/details/103513003)
- > 最简单的RecyclerView Item动画全解析
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ ## [java(多线程入门)](https://blog.csdn.net/qq_40947597/article/details/103558645)
+ > java(多线程入门)
+ ## [python面试知识总结（二）——模块、包与数据类型](https://blog.csdn.net/liuzuoping/article/details/103553861)
+ > python面试知识总结（二）——模块、包与数据类型
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [python入门笔记](https://blog.csdn.net/shizhihua11/article/details/103509996)
+ > python入门笔记
+ ## [Leetcode题目分类指南(单独刷题或学习算法书籍配合使用)](https://blog.csdn.net/locallucky/article/details/103553602)
+ > Leetcode题目分类指南(单独刷题或学习算法书籍配合使用)
+ ## [Redis常见面试题(精简版)](https://blog.csdn.net/ThinkWon/article/details/103522351)
  > 
- ## [SSM框架JSP使用Layui实现layer弹出层](https://blog.csdn.net/linyuguang666/article/details/103570624)
- > SSM框架JSP使用Layui实现layer弹出层
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ ## [2019年总结：Java中高级面试题228道系列（6）](https://blog.csdn.net/Design407/article/details/103533912)
+ > 2019年总结：Java中高级面试题228道系列（6）
+ ## [双11猫晚直播：看阿里文娱如何“擒住”高并发、多视角、低卡顿！](https://blog.csdn.net/csdnnews/article/details/103545244)
  > 
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
- ## [python爬取前程无忧宁波职位薪酬进行初步分析](https://blog.csdn.net/gfwt1990/article/details/103564608)
- > python爬取前程无忧宁波职位薪酬进行初步分析
- ## [计算图：反向传播的实现基础](https://blog.csdn.net/qq_32789231/article/details/103542919)
- > 计算图：反向传播的实现基础
- ## [JAVA8 最实用的新特性详解！](https://blog.csdn.net/xjk_nb/article/details/103497697)
- > JAVA8 最实用的新特性详解！
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [Java8特性详解（一）：行为参数化](https://blog.csdn.net/LIZHONGPING00/article/details/103555516)
  > 
+ ## [年底了，整理了一份程序员面试必看的文章合集](https://blog.csdn.net/a724888/article/details/103547835)
+ > 年底了，整理了一份程序员面试必看的文章合集
+ ## [《程序人生》风雨十年-从大学到技术专家我做了啥？](https://blog.csdn.net/qq_35190492/article/details/103451144)
+ > 
+ ## [Java多线程基础详解](https://blog.csdn.net/qq_36251309/article/details/103538791)
+ > Java多线程基础详解
+ ## [Julia 向 Python 宣战！](https://blog.csdn.net/csdnnews/article/details/103573225)
+ > 近两年，凭借动态特性和易于扩展性，Python 在企业级应用程序、机器学习/人工智能模型、数据科学等工作中，备受开发者青睐，其火热程度早已超越了编程语言界的老牌兵 Java。而 Python 有朝一日会成为今朝的 Java 吗？对此，本文作者发文表示，30 岁的 Python 正面临着来自编程语言.
  ## [你有真正理解 Java 的类加载机制吗？| 原力计划](https://blog.csdn.net/csdnnews/article/details/103573231)
  > 作者|宜春责编 |Elle出品 | CSDN 博客你是否真的理解Java的类加载机制？点进文章的盆友不如先来做一道非常常见的面试题，如果你能做出来，可能你早已掌握并理解了Java的...
  ## [第三届《麻省理工科技评论》EmTech China峰会召开，全球新兴科技智慧风暴席卷京城](https://blog.csdn.net/csdnnews/article/details/103566050)
@@ -159,63 +169,97 @@ Windows Phone 8.1&#24212;&#29992;&#21830;&#24215;&#27491;&#24335;&#20851;&#38381
  ## [物联网时代下，如何打造智慧新社区？](https://blog.csdn.net/csdnnews/article/details/103573219)
  > 受访者 | 孙云雷采访者 | 伍杏玲出品 | CSDN（ID：CSDNnews）近几年，智慧城市建设受到广泛关注：据德勤发布的《超级智能城市》管理咨询报告显示，目前全球已启动或在建的智慧...
  ## [史上最全排序算法总结 | 原力计划](https://blog.csdn.net/csdnnews/article/details/103573222)
- > 作者 |铁猴责编 | 屠敏出品 | CSDN 博客简介本文对常见排序算法进行总结。排序算法冒泡排序该算法比较简单，几乎所有语言涉及到算法时，都会涉及到冒泡算法。算法思路：比较相邻的元...
+ > 作者 |铁猴责编 | 屠敏出品 | CSDN 博客简介本文对常见排序算法进行总结。排序算法冒泡排序该算法比较简单，几乎所有语言涉及到算法时，都会涉及到冒泡算法。算法思路：	比较相邻的元素。如果第一个比第二个大，就交换他们两个。			对每一对相邻元...
  ## [可重构计算芯片是未来吗？开发者如何抓住这一机会](https://blog.csdn.net/csdnnews/article/details/103573224)
  > 2019 年 6 月，AI 芯片创业公司清微智能首款可重构计算架构 AI 芯片实现量产的消息在业内迅速传开，可重构计算架构芯片再次引发一波讨论的热潮。经历过十多年的技术积累，这枚小小的芯...
  ## [VS Code 成主宰、Vue 备受热捧！2019 前端开发趋势必读](https://blog.csdn.net/csdnnews/article/details/103573230)
  > 前端在生产和开发中占据着越来越重要的地位，PC 端、手机端、桌面端、智能手表端等等设备都离不开前端的身影。本文将围绕框架、编程语言、工具、React、Vue 等方面，全面回顾 2019 年前端与 Web 开发的大事。作者 |Trey Huffine译者 |弯月，责编 | 郭芮出品 ...
+ ## [Nginx 之父被捕，程序员如何避免面向起诉编程？| CSDN 博文精选](https://blog.csdn.net/csdnnews/article/details/103573217)
+ > 作者|beyondmaNginx (读作Engine x) 是一个高性能的HTTP和反向代理Web服务器，同时也集成了IMAP/POP3/SMTP服务，是GitHub上star数过万的明星项目（GitHub地址：https://github.com/nginx/nginx）。Nginx是由...
  ## [小米卢伟冰回应“低价误国”；国产统一操作系统 UOS 正全面适配；Vue 2.6.11 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103573218)
  > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
  ## [让 API 端点的响应速度提高 50 倍！](https://blog.csdn.net/csdnnews/article/details/103573220)
  > 本文为大家讲解如何将API 端点请求的响应速度提高50倍的。作者 |Bill Franklin译者 |明明如月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：...
+ ## [腾讯上线匿名社交APP“灯遇交友”](http://www.lanjingtmt.com/news/detail/45215.shtml)
+ > 据媒体报道，近日，腾讯推出全新匿名情感社交产品“灯遇交友”，产品定位是采用匿名的方式去记录内心真实的情感聊天产品。
  ## [英特尔以20亿美元收购AI芯片制造商Habana Labs](http://www.lanjingtmt.com/news/detail/45213.shtml)
  > 该公司总部位于以色列，是一家为数据中心提供可编程深度学习加速器的厂商。
  ## [音悦tai时隔半年再传倒闭，成也粉丝败也粉丝](http://www.lanjingtmt.com/news/detail/45212.shtml)
  > 分析人士指出，与QQ音乐、网易云音乐等音乐综合类平台相比，专注于MV音乐分享的音悦tai，既缺少资本加持，也受限于品类过于单一。
 # 人工智能 
- ## [开发中必知必会的常用Linux命令](https://blog.csdn.net/weixin_45124488/article/details/103537407)
- > 开发中必知必会的常用Linux命令
- ## [(Linux无线网卡WIFI上网 一 )USB-WIFI驱动移植](https://blog.csdn.net/yaomianfa/article/details/103551789)
- > (Linux无线网卡WIFI上网 一 )USB-WIFI驱动移植
- ## [【服务器】CentOS 7.6 安装 Weblogic](https://blog.csdn.net/qq_43427482/article/details/103551570)
- > 【服务器】CentOS 7.6 安装 Weblogic
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [开发手机群控系统(自动化配置篇)](https://blog.csdn.net/lkjlsj/article/details/103538945)
- > 开发手机群控系统(自动化配置篇)
- ## [Docker基础教程一——CentOS6.5 Docker的安装以及问题总结 No package docker-io.Cannot connect to the Docker daemon.](https://blog.csdn.net/qq_34430649/article/details/103549725)
- > Docker基础教程一——CentOS6.5 Docker的安装以及问题总结 No package docker-io.Cannot connect to the Docker daemon.
- ## [Linux中配置Redis外网访问](https://blog.csdn.net/y506798278/article/details/103537899)
- > Linux中配置Redis外网访问
- ## [UEFI+GPT模式下在同一块固态硬盘上安装win10和Ubuntu 16.04双系统](https://blog.csdn.net/csdnwsq/article/details/103540629)
- > UEFI+GPT模式下在同一块固态硬盘上安装win10和Ubuntu 16.04双系统
- ## [nginx服务网站](https://blog.csdn.net/weixin_45310323/article/details/103542529)
- > nginx服务网站
- ## [在服务器CentOS7版本安装Nginx](https://blog.csdn.net/weixin_41800884/article/details/103545128)
- > 在服务器CentOS7版本安装Nginx
- ## [阿里centos7服务器配置FTP服务器](https://blog.csdn.net/qq_26870933/article/details/103549315)
- > 阿里centos7服务器配置FTP服务器
- ## [编译安装nginx时配置开机自启](https://blog.csdn.net/KH_FC/article/details/103537100)
- > 编译安装nginx时配置开机自启
- ## [Linux下如何查看JDK安装路径](https://blog.csdn.net/qq_43255017/article/details/103547520)
- > Linux下如何查看JDK安装路径
- ## [Ubuntu18.0下的pwn环境配置01](https://blog.csdn.net/ATFWUS/article/details/103548992)
- > Ubuntu18.0下的pwn环境配置01
- ## [【Linux】CentOS 7.6 安装 JDK](https://blog.csdn.net/qq_43427482/article/details/103551984)
- > 【Linux】CentOS 7.6 安装 JDK
+ ## [微信支付  复制就可用](https://blog.csdn.net/qq_40811171/article/details/103552040)
+ > 微信支付  复制就可用
+ ## [java三大特性之一----------继承](https://blog.csdn.net/GreenHand_itroad/article/details/103553093)
+ > java三大特性之一----------继承
+ ## [Spring Boot从入门到放弃-自定义拦截器](https://blog.csdn.net/qq_37857921/article/details/103545938)
+ > Spring Boot从入门到放弃-自定义拦截器
+ ## [Java多线程基础详解](https://blog.csdn.net/qq_36251309/article/details/103538791)
+ > Java多线程基础详解
+ ## [【超全必看】Java并发编程基础学习总结笔记（附实例代码）【上】](https://blog.csdn.net/qq_41112238/article/details/103505842)
+ > 【超全必看】Java并发编程基础学习总结笔记（附实例代码）【上】
+ ## [Redis实现高并发分布式锁](https://blog.csdn.net/baidu_41937166/article/details/103548121)
+ > Redis实现高并发分布式锁
+ ## [高并发基础（一）](https://blog.csdn.net/weixin_43200014/article/details/103499415)
+ > 高并发基础（一）
+ ## [jdk动态代理与Cglib动态代理的例子](https://blog.csdn.net/ye_J_yeHao/article/details/103559645)
+ > jdk动态代理与Cglib动态代理的例子
+ ## [Java 多线程基础（二）](https://blog.csdn.net/Meldoy_mgh/article/details/103550692)
+ > Java 多线程基础（二）
+ ## [使用Hutool Java工具类库 导出Excel 超级简单](https://blog.csdn.net/qq_38593865/article/details/103548850)
+ > 使用Hutool Java工具类库 导出Excel 超级简单
+ ## [Java基础-集合体系结构详细总结笔记（Collection、List、ArrayList、LinkedList、Vector）](https://blog.csdn.net/JunSIrhl/article/details/103562695)
+ > Java基础-集合体系结构详细总结笔记（Collection、List、ArrayList、LinkedList、Vector）
+ ## [Mybatis核心处理层源码阅读分析（mybatis初始化）](https://blog.csdn.net/qq_38038396/article/details/103498456)
+ > Mybatis核心处理层源码阅读分析（mybatis初始化）
+ ## [Java程序员面试经常问到的30道基础题，出的频率非常高，最好全都背下来理解](https://blog.csdn.net/zlbdmm/article/details/103507651)
+ > Java程序员面试经常问到的30道基础题，出的频率非常高，最好全都背下来理解
+ ## [SpringBoot常见面试题](https://blog.csdn.net/BackZero333/article/details/103544942)
+ > SpringBoot常见面试题
+ ## [LinkedList和ArrayList区别](https://blog.csdn.net/AAAhxz/article/details/103537051)
+ > 
 # PM 
- ## [致敬引路人丨人人都是产品经理2019年度作者评选](http://www.woshipm.com/active/3219966.html)
- > 正是因为有着乐于分享的引路人带领我们探索着产品这个领域，产品经理这个职业才能得到飞速发展；而我们大家的支持与感谢，就是对引路人最大的敬意与感谢。每天看文章...
+ ## [腾讯再战匿名社交，漂流瓶复活？](http://www.woshipm.com/it/3220993.html)
+ > 腾讯加快了社交试水的步伐。2019年年初，王欣上线了一款名为马桶MT的匿名社交App。对此，马化腾曾在朋友圈评价道：“负能量的匿名社交是旗帜鲜明地反对的，没得说。”...
+ ## [4步教你如何优质决策？](http://www.woshipm.com/pmd/3220768.html)
+ > 本文从决策的定义、分类、框架、建议等维度，结合产品经理实际工作的情况，给出关于决策的一些建议，仅供参考。在电视剧《亮剑》里，李云龙被坂田联队围困，陷入了重...
+ ## [如何进行有效需求分析（5）：数据篇](http://www.woshipm.com/pmd/3220530.html)
+ > 针对管理支持的数据分析，今天我们一起来探究一下事后阶段的数据分析，有着怎样的奥秘。欢迎来到大型情感类专题：如何进行有效需求分析：数据篇。我们在需求分析系列...
+ ## [LBS在陌生人社交产品中的应用](http://www.woshipm.com/pd/3216886.html)
+ > 最近在研究社交相关产品的设计，研究的过程发现LBS对于社交软件的发展影响甚大。本文就LBS的概念、社交软件引入LBS的历史及目前市面上社交产品相关LBS的设计3个方面来进...
+ ## [如何控制B端产品的需求边界？](http://www.woshipm.com/pmd/3218280.html)
+ > 碰到一味加需求的甲方爸爸，产品人需要学会拒绝，控制需求边界，才能控制产品的上线时间，把握产品效能。最近，隔壁项目组开发花了一个月，但是验收却花了两个多月的...
+ ## [硅谷一线增长实践者曲卉：数据驱动增长的道与术](http://www.woshipm.com/data-analysis/3201155.html)
+ > 以下内容是根据曲卉在是在友盟+举办的2019UBDC全域大数据峰会上的演讲，在不改变原义的基础上整理编辑的内容。数据驱动增长的体系与基础、流程，如果你掌握了，应用...
+ ## [小公司的大战略与小战术](http://www.woshipm.com/chuangye/3221243.html)
+ > 战略并不是高不可攀的，战术也并不是羞于启齿的。定方向，建班子，带队伍。在小公司而言，选择一个正确的方向，招到靠谱的执行者，沿着方向去前行，结果必然不会差到哪...
+ ## [交互设计：如何做到周到？](http://www.woshipm.com/ucd/3217013.html)
+ > 前两篇，探讨了个人对交互设计价值观的理解，以及其对从业者和用户的价值。这一篇，我们就来探讨一下，如何做到之前提到的 4 点价值观，先从“周到“开始。仅为一家之言。...
  ## [用户研究的有些事，产品经理必须知道](http://www.woshipm.com/pmd/3221799.html)
  > 有些公司配有专门的用户研究团队，笔者建议产品经理一定要亲身参与到用户研究中，不能完全外包给用研团队，甚至很多时候需要主导用户研究。客户的一手信息对产品经理的...
+ ## [如何做好内容产品的学习体验设计？](http://www.woshipm.com/pd/3207254.html)
+ > 内容产品虽然定位在内容，但是也不能忽略体验方面的设计，作者从学习体验的设计角度出发，讲述如何做好一个内容产品。之前说过，对一个教育项目来讲，其“内容”往往是...
  ## [一文读懂用户属性、事件、埋点](http://www.woshipm.com/pmd/3221187.html)
  > 本文适于新人阅读，作者简略说明了用户属性、事件、埋点的定义与使用方法。用户属性、事件、埋点是产品工作中常见的名词，但是对于新接触这些概念的同学来说，其实并...
  ## [5G时代下的智慧体育](http://www.woshipm.com/it/3213553.html)
  > 2020年启动5G商用服务，5G时代近在眼前，而体育产业的发展压力颇大，5G是否能够带来更多机会呢？2013年2月，当4G通信刚刚正式开始推进商用，欧盟就已经宣布，将拨款50...
- ## [当互联网家装沦为话柄，新航海时代或将启幕](http://www.woshipm.com/it/3217895.html)
- > 对互联网家装来说， 一味依靠流量时不可取的，崛起本质还在于重归产品与服务。当互联网的模式红利开始消散，越来越多的人开始对“互联网+”模式产生怀疑，甚至开始认为...
- ## [你想知道的房产SaaS产品，都在这里](http://www.woshipm.com/pd/3220743.html)
- > 近些年来，房产SaaS产品不断发展，从管理系统到营销小程序，产品的发展不断提高中介公司的信息和人员管理能力，同时用户的购房租房体验也在不断提高。这篇文章就来分析...
+ ## [营销人必看！2020年数字营销有可能出现的5大趋势](http://www.chanpin100.com/article/110363)
+ > 关于2020年数字营销5点趋势预测
+ ## [OFO们为何搭建不起三级火箭？](http://www.chanpin100.com/article/110362)
+ > 前期发展集聚了大量头部流量的ofo们，为何没能组建三级火箭趁势而起？
+ ## [每日一淘的高速增长与复购是怎样炼成的？](http://www.chanpin100.com/article/110361)
+ > 本文根据每日一淘产品总监白翠艳在神策 2019 数据驱动大会上发表的《每日一淘的高速增长与复购是怎样炼成的》主题演讲整理而成。本文将为你重点介绍每日一淘在实际业务中总结出的增长经验，包含以下内容： 搭建社交人货场每日一淘的增长模型复购驱动力
+ ## [数据分析必备思维之：逻辑思维](http://www.chanpin100.com/article/110360)
+ > 简单介绍了一下数据分析中的逻辑思维
+ ## [【绝对干货】169份2019年度互联网各行业市场研究报告](http://www.chanpin100.com/article/110358)
+ > 作为产品经理，必可少的研究便是行业调研。
+ ## [《庆余年》超前点播，会员再付50元，臭不要脸？](http://www.chanpin100.com/article/110357)
+ > 如何平衡用户体验和产品目标？
+ ## [从互联网数据中心的“外延”，看中国数字经济的崛起](http://www.chanpin100.com/article/110356)
+ > 某种意义上，中国数字经济迅猛发展的底层作用力之一，就是深藏在城市角落，终日低调运作，不断静默闪烁的各个数据中心。
+ ## [2019中国共享汽车平台创新白皮书](http://www.chanpin100.com/article/110347)
+ > 共享汽车在全球部署数千城，主要分布在欧美、中国、印度，B2C、C2C模式同步发展。过去一年，“创新”成为中国共享汽车行业关键词。大多参与者开始尝试变“轻”车辆和运维，推行低成本扩张；并融合AI、区块链等新技术升级车辆和平台智能网联能力，赋能产业上下游与自身运营效率。
+ ## [2019中国跨境支付行业年度分析](http://www.chanpin100.com/article/110345)
+ > 本文重点分析跨境支付行业，涉及政策环境，市场环境，商业模式等。分析内容将按照行业从业人士关心的包括行业规模、现有政策解读、政策趋势判断、金融科技对跨境支付领域影响等方面进行逐一论述。
  ## [2019中国互联网少儿数理思维教育行业洞察](http://www.chanpin100.com/article/110344)
  > 未来，头部厂商们将以数理思维教育为轴，深耕技术与教研，丰富教育内容与场景，打造综合性素质教育平台，为行业带来更多价值增长点。
  ## [博物馆观众调研报告：10亿流量拥抱科技升级](http://www.chanpin100.com/article/110355)
@@ -238,11 +282,5 @@ Windows Phone 8.1&#24212;&#29992;&#21830;&#24215;&#27491;&#24335;&#20851;&#38381
  > 随着移动游戏用户增长趋缓，整体市场进入综合能力竞争时代，但在产品、用户需求等方面依旧有较大的发展空间，拥有一定积累的发行商将继续发力市场竞争。
  ## [2019年最新生鲜电商APP榜单|行业积极拓展市场，数字零售蓬勃发展](http://www.chanpin100.com/article/110342)
  > 10月，生鲜电商行业活跃人数达到2567.8万，环比上升2.1%，相较于去年同期1939.3万的活跃人数，同比增长32.4%。
- ## [手机地图行业数字化进程分析](http://www.chanpin100.com/article/110341)
- > 根据易观千帆检测数据显示，截至2019年9月底，今年第三季度手机地图APP市场整体活跃用户规模为7.84亿人，环比下降1.9%，同比上涨3.9%。
- ## [城市出行行业数字化升级](http://www.chanpin100.com/article/110339)
- > 2019年7-8月，中国网约车市场活跃用户规模分别为8198.5万，8155.6万人，行业活跃用户规模降幅持续收窄，并于2019年9月迎来增长拐点，月度活跃用户规模提振6.3个百分点。
- ## [“尝鲜”和“个性”，你不懂当代大学生的“懒、宅、玩”](http://www.chanpin100.com/article/110338)
- > 说起大学生,浮现在大家脑海里的是一副怎样的形象?是“爱学习，学习使我快乐”还是“肥宅追剧，不想努力”。不过毫无疑问的是，在网络与线上社交发达的今天，大学生既是积极的消费者,又是流行文化的践行者。接下来就让我们一起走进大学生的“数字生活“。
 
     
