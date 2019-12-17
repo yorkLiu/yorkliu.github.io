@@ -1,7 +1,7 @@
 ---
 title: 2019-12-17 IT News
 copyright: true
-date: 2019-12-17 09:01:05
+date: 2019-12-17 10:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -77,21 +77,27 @@ Windows Phone 8.1&#24212;&#29992;&#21830;&#24215;&#27491;&#24335;&#20851;&#38381
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [一上黄网就中毒，可能不是你的错。](http://mp.weixin.qq.com/s?src=11&timestamp=1576544404&ver=2039&signature=9og5SyAC24PheUHuEaAIybiQtMVtWjDJLGbVD4eKjHK1mGK**liW0wIOaNQF35DWZf5aQAkX27CqQhAhNq2N6CJb2H6sl4o9B5iqmVTY5kc9Bv6rQ*Pv4H4yNaLv5nxi&new=1)
- > 如果你是个网龄超过二十年的「 老差友 」，想必在学生时代遇到过下面这种情况 ——某天，因为学习需要，我们打开了电脑，准备上网查点儿资料。结果突然有一行绘声绘色的内容出现在了网页当中。既然是出现在学习...
- ## [国产统一操作系统 UOS 来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576544404&ver=2039&signature=QNhpjaU-OJRp1GVG5wkyPrrr4djEknlWJ9c1m-6CpofOC*3EPNsH3RXMmqZV1ZfMsqMLO1DO12XwgSMy3IG3ns-fYiTAVVUFtP2UPKb8kpKjVi3cyy*lsa2Hb8nryMx3&new=1)
- > 最近这两个月，有关国产统一操作系统 UOS 的消息成为科技圈热点。在中美贸易摩擦以及美国对华为禁售打压之后，大家的居安思危思维也迅速从硬件领域扩展到软件领域，谷歌对华为中止合作，微软下架华为笔记本的事...
- ## [中国电信新组建的最大部门揭秘 两个部门都合并进来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576544404&ver=2039&signature=do1-dR7f0vhZJ8mLFsMPSsqMMU6e8rTzukoT7IILHnr1*zfX44ar1j8ysGvle1y60MlxC*ptAKRfB*lVWwhCpW3UzRfp7ceZgx3qdu6Vzh2UpT4FdppsD1HdHsJrQhld&new=1)
- > 运营商财经网 康锐 /文 知情人士向运营商财经网透露，轰轰烈烈的中国电信集团公司总部机构改革已拉开序幕，其中包括撤销网络运行维护事业部、企业信息化事业部，这两个部门的人刨除与网络安全相关的人员和处室后...
- ## [“广东联通5G”又刷屏了!国内多家主流媒体争相报道!直呼“太牛了”!](http://mp.weixin.qq.com/s?src=11&timestamp=1576544404&ver=2039&signature=obVP9AWKZgkY*VDNot8qzXgYVuX*S1L2EZoT-QtyQ86jI63rMpI2*QvcMaCi1w3PIOQhatDmg6uJ3rMPEipnLXVUXuT7HT7nNiObolE2BzMSUlTycTYrDwtdm0WHjL*i&new=1)
+ ## [“广东联通5G”又刷屏了!国内多家主流媒体争相报道!直呼“太牛了”!](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=obVP9AWKZgkY*VDNot8qzXgYVuX*S1L2EZoT-QtyQ86jI63rMpI2*QvcMaCi1w3PTPhStXWaQLo-O4nKxqUnSM4ILN01GFtb*mxJ3MZStK8zFOqD9pCOiAHWq71QfIFE&new=1)
  > 来源：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
- ## [谷歌首次对外公布地图数据丨亚马逊加入交换机开源项目\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576544404&ver=2039&signature=6ShR0F-ZFpR3T780hg06iCOTxrVmTBfXanPUs8bWEb05J02i3Ij5UtrTEFfBEUuXj9EwkZde5Hn031vvFLsWosyKq1NF5fTyss*UwRwvErmSDa4g5-NGFN*PPBxUnJQy&new=1)
+ ## [一上黄网就中毒，可能不是你的错。](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=9og5SyAC24PheUHuEaAIybiQtMVtWjDJLGbVD4eKjHK1mGK**liW0wIOaNQF35DW1Bk3AhyAUKUVWliuTf0yOBzzOkW9M5UXd9*uP253JjwQRuLIE7Gaj8eE3ygZdq0q&new=1)
+ > 如果你是个网龄超过二十年的「 老差友 」，想必在学生时代遇到过下面这种情况 ——某天，因为学习需要，我们打开了电脑，准备上网查点儿资料。结果突然有一行绘声绘色的内容出现在了网页当中。既然是出现在学习...
+ ## [\[报告\]2019中国共享汽车平台创新白皮书(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=Wjz7T3Mn0TFDsFeMo1eFmYRagHl9S1wJ49sfecaf-QLLgb8f5cehVmxpkKr6ENktfl-SKidKnQodNBxotVIw2KVUeUT-EoYvHkEg8fgjX*RMbSyCH6nqRskD4Ls8m-5X&new=1)
+ > 共享汽车已在全球数千城市部署：共享汽车主要覆盖城市分布在欧美、中国、印度等国家或地区，其中Turo覆盖的城市最多，达到了5500个城市，zipcar和Getaround分别为500、300城，中国的GoFun出行覆盖了80座城市。共...
+ ## [谷歌首次对外公布地图数据丨亚马逊加入交换机开源项目\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=6ShR0F-ZFpR3T780hg06iCOTxrVmTBfXanPUs8bWEb05J02i3Ij5UtrTEFfBEUuXELik2-4T08M4--FSeHN2kTMVKOjkY2**nZ2AHwbdWpVzJybNs40f*cgRvxs6UWkr&new=1)
  > 12月16日丨周一【Do说】编辑 | 赵艾虎谷歌首次对外公布地图数据 覆盖98%人类居住地根据外媒CNET报道，谷歌在当地时间12月13日披露了谷歌地图的相关数据，这也是谷歌首次对外披露它们为绘制世界地图所做的努力。...
+ ## [国产统一操作系统 UOS 来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=QNhpjaU-OJRp1GVG5wkyPrrr4djEknlWJ9c1m-6CpofOC*3EPNsH3RXMmqZV1ZfM*Qy7ld3zI0vwyA3tEA7HBsQtDIam0-XjeP61Ry8MI2oZT0dReeBEE1si56tNqf89&new=1)
+ > 最近这两个月，有关国产统一操作系统 UOS 的消息成为科技圈热点。在中美贸易摩擦以及美国对华为禁售打压之后，大家的居安思危思维也迅速从硬件领域扩展到软件领域，谷歌对华为中止合作，微软下架华为笔记本的事...
+ ## [中国电信新组建的最大部门揭秘 两个部门都合并进来了](http://mp.weixin.qq.com/s?src=11&timestamp=1576548004&ver=2039&signature=do1-dR7f0vhZJ8mLFsMPSsqMMU6e8rTzukoT7IILHnr1*zfX44ar1j8ysGvle1y6XXL0IVfHfNHeZlLxJr7u8nXXBN7f6UhGlEMyQ5tacONH5vbDnve9TDLg8raOX*iF&new=1)
+ > 运营商财经网 康锐 /文 知情人士向运营商财经网透露，轰轰烈烈的中国电信集团公司总部机构改革已拉开序幕，其中包括撤销网络运行维护事业部、企业信息化事业部，这两个部门的人刨除与网络安全相关的人员和处室后...
 # IT 技术 
+ ## [别再问“分库分表”了，再问就崩溃了！](http://database.51cto.com/art/201912/607882.htm)
+ > 别再问“分库分表”了，再问就崩溃了！
  ## [医疗诊断类AI项目落地的十步走](http://ai.51cto.com/art/201912/607867.htm)
  > 医疗诊断类AI项目落地的十步走
  ## [使Kubernetes变得更好的11种工具](http://cloud.51cto.com/art/201912/607863.htm)
  > 使Kubernetes变得更好的11种工具
+ ## [10个优秀实践技巧，实现有效的微服务架构](http://developer.51cto.com/art/201912/607862.htm)
+ > 10个优秀实践技巧，实现有效的微服务架构
  ## [2020企业机器学习行情报告：七大发现](http://ai.51cto.com/art/201912/607803.htm)
  > 2020企业机器学习行情报告：七大发现
  ## [因为不会Redis的scan命令，我被开除了](http://stor.51cto.com/art/201912/607780.htm)
@@ -100,57 +106,51 @@ Windows Phone 8.1&#24212;&#29992;&#21830;&#24215;&#27491;&#24335;&#20851;&#38381
  > 如何保障云上数据安全？一文详解云原生全链路加密
  ## [前端架构React、Angular与Vue的全面比较](http://developer.51cto.com/art/201912/607677.htm)
  > 前端架构React、Angular与Vue的全面比较
- ## [故事 | 一位MIT的女教授改变了编程](http://news.51cto.com/art/201912/607796.htm)
- > 故事 | 一位MIT的女教授改变了编程
- ## [39岁大龄码农找工作，没想到会这么残酷！](http://news.51cto.com/art/201912/607781.htm)
- > 39岁大龄码农找工作，没想到会这么残酷！
+ ## [运维必看：从零开始搭建“大后台”技术栈](http://news.51cto.com/art/201912/607883.htm)
+ > 在创业公司，没有大公司那些完善的基础设施，需要我们从开源界，从云服务商甚至有些需要自己去组合，去拼装
+ ## [Java与Python：你应该选择哪个？](http://developer.51cto.com/art/201912/607885.htm)
+ > 让我们比较一下世界上两种最受欢迎、最强大的编程语言：Java 和 Python！这两种语言有巨大的社区支持和库来
+ ## [仅1年GitHub Star数翻倍，Flink 做了什么？](http://os.51cto.com/art/201912/607881.htm)
+ > Apache Flink 是公认的新一代开源大数据计算引擎，其流水线运行系统既可以执行批处理程序也可以执行流处理
+ ## [深度学习已成强弩之末？Bengio等大牛NeurlPS2019上支招](http://news.51cto.com/art/201912/607884.htm)
+ > NeurlPS 2019上，多位专家讨论到AI的未来，认为深度学习算法的瓶颈已经出现。
+ ## [使用split命令分割Linux文件](http://os.51cto.com/art/201912/607880.htm)
+ > 一些简单的 Linux 命令能让你根据需要分割以及重新组合文件，来适应存储或电子邮件附件大小的限制。
  ## [如何解决物联网项目常见的挑战？](http://iot.51cto.com/art/201912/607876.htm)
  > 物联网解决方案面临着重重挑战。在这些挑战中，IoT解决方案提供商处于连接性，电源，安全性和集成领域。在
+ ## [浅谈lambda表达式](http://developer.51cto.com/art/201912/607878.htm)
+ > Java8发布已经有一段时间了，这次发布的改动比较大，很多人将这次改动与Java5的升级相提并论。
  ## [SSD vs.HDD：如何在固态驱动器和硬盘驱动器之间进行选择](http://stor.51cto.com/art/201912/607874.htm)
  > 如今，越来越多的IT团队实现从机械硬盘(HDD)到固态硬盘(SSD)的过渡。这是目前的选择和优秀实践。
  ## [你还想if/else用多久？来学学这几种改进方式吧](http://developer.51cto.com/art/201912/607875.htm)
  > 一般来说我们正常的后台管理系统都有所谓的角色的概念，不同管理员权限不一样，能够行使的操作也不一样。
- ## [「微服务架构」微服务架构中的数据一致性](http://developer.51cto.com/art/201912/607873.htm)
+ ## [详解微服务架构中的数据一致性](http://developer.51cto.com/art/201912/607873.htm)
  > 在微服务中，一个逻辑上原子操作可以经常跨越多个微服务。即使是单片系统也可能使用多个数据库或消息传递解
- ## [Linux下连接windows下的oracle数据库](http://os.51cto.com/art/201912/607872.htm)
- > 在Linux上安装完oracle Client后，通过SQLPLUS命令连接我的笔记本上Oracle数据库(Windows操作系统)，但是总
- ## [2020 安全预算保卫战：争取和增加预算的五个途径](http://zhuanlan.51cto.com/art/201912/607871.htm)
- > CISO和安全主管若想做出类似的投资以对抗安全疲劳，不妨看看我展示来年网络安全投资重要性和赢取来年预算谈
- ## [一文读懂 JavaScript 中的 this 关键字](http://developer.51cto.com/art/201912/607870.htm)
- > this 是一个令无数 JavaScript 编程者又爱又恨的知识点。它的重要性毋庸置疑，然而真正想掌握它却并非易事
- ## [10个优秀实践技巧，实现有效的微服务架构](http://zhuanlan.51cto.com/art/201912/607869.htm)
- > 去年有人提出了微服务将疯狂至死，微服务的争论从未停止过。今天，小芯给大家带来的是不能不提系列――正确
- ## [专访理想汽车安全负责人徐超：智能汽车的信息安全风险分析与实践](http://netsecurity.51cto.com/art/201912/607868.htm)
- > 自1886年汽车诞生，至今已经有130多年。从前，我们只是认为汽车是一个交通运输工具，从没想到过，有一天汽
- ## [智能手环的漏洞挖掘](https://blog.csdn.net/sun8890446/article/details/103568003)
- > 智能手环的漏洞挖掘
- ## [HuskyLens人工智能摄像头](https://blog.csdn.net/m0_38106923/article/details/103481085)
- > HuskyLens人工智能摄像头
- ## [Linux 进程间通信----共享内存](https://blog.csdn.net/qq_41071068/article/details/103556910)
- > Linux 进程间通信----共享内存
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [Python如何实现24个微信大群（共万人）同步转发直播？](https://blog.csdn.net/u014044812/article/details/103550611)
  > 
+ ## [如果HR再问红黑树，你就把《算法导论》拿出来批判一番](https://blog.csdn.net/m0_37816922/article/details/103568966)
+ > 如果HR再问红黑树，你就把《算法导论》拿出来批判一番
+ ## [Excel中ROUND、ROUNDUP、ROUNDDOWN函数详解](https://blog.csdn.net/wzh0709zml/article/details/103557755)
+ > Excel中ROUND、ROUNDUP、ROUNDDOWN函数详解
+ ## [最简单的RecyclerView Item动画全解析](https://blog.csdn.net/weixin_42229694/article/details/103513003)
+ > 最简单的RecyclerView Item动画全解析
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [数据结构与算法--稀疏数组 Python实现稀疏数组 稀疏数组 python描述](https://blog.csdn.net/storyfull/article/details/103550341)
- > 数据结构与算法--稀疏数组 Python实现稀疏数组 稀疏数组 python描述
- ## [MyBatis框架（8.0）](https://blog.csdn.net/qazcsw123/article/details/103562933)
- > MyBatis框架（8.0）
+ ## [SSM框架JSP使用Layui实现layer弹出层](https://blog.csdn.net/linyuguang666/article/details/103570624)
+ > SSM框架JSP使用Layui实现layer弹出层
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
- ## [计算机网络  第五章 ——传输层](https://blog.csdn.net/yangwenqi666/article/details/103564078)
- > 计算机网络  第五章 ——传输层
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
  ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
  > 比特币原理详解
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
- ## [loam和blam的 gtsam 安装的坑](https://blog.csdn.net/shanpenghui/article/details/103564736)
- > loam和blam的 gtsam 安装的坑
- ## [activiti6超详细教程](https://blog.csdn.net/weixin_42443924/article/details/103567145)
- > activiti6超详细教程
- ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
+ ## [python爬取前程无忧宁波职位薪酬进行初步分析](https://blog.csdn.net/gfwt1990/article/details/103564608)
+ > python爬取前程无忧宁波职位薪酬进行初步分析
+ ## [计算图：反向传播的实现基础](https://blog.csdn.net/qq_32789231/article/details/103542919)
+ > 计算图：反向传播的实现基础
+ ## [JAVA8 最实用的新特性详解！](https://blog.csdn.net/xjk_nb/article/details/103497697)
+ > JAVA8 最实用的新特性详解！
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [你有真正理解 Java 的类加载机制吗？| 原力计划](https://blog.csdn.net/csdnnews/article/details/103573231)
  > 作者|宜春责编 |Elle出品 | CSDN 博客你是否真的理解Java的类加载机制？点进文章的盆友不如先来做一道非常常见的面试题，如果你能做出来，可能你早已掌握并理解了Java的...
@@ -163,47 +163,57 @@ Windows Phone 8.1&#24212;&#29992;&#21830;&#24215;&#27491;&#24335;&#20851;&#38381
  ## [可重构计算芯片是未来吗？开发者如何抓住这一机会](https://blog.csdn.net/csdnnews/article/details/103573224)
  > 2019 年 6 月，AI 芯片创业公司清微智能首款可重构计算架构 AI 芯片实现量产的消息在业内迅速传开，可重构计算架构芯片再次引发一波讨论的热潮。经历过十多年的技术积累，这枚小小的芯...
  ## [VS Code 成主宰、Vue 备受热捧！2019 前端开发趋势必读](https://blog.csdn.net/csdnnews/article/details/103573230)
- > 前端在生产和开发中占据着越来越重要的地位，PC 端、手机端、桌面端、智能手表端等等设备都离不开前端的身影。本文将围绕框架、编程语言、工具、React、Vue 等方面，全面回顾 2019 ...
+ > 前端在生产和开发中占据着越来越重要的地位，PC 端、手机端、桌面端、智能手表端等等设备都离不开前端的身影。本文将围绕框架、编程语言、工具、React、Vue 等方面，全面回顾 2019 年前端与 Web 开发的大事。作者 |Trey Huffine译者 |弯月，责编 | 郭芮出品 ...
  ## [小米卢伟冰回应“低价误国”；国产统一操作系统 UOS 正全面适配；Vue 2.6.11 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103573218)
  > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
  ## [让 API 端点的响应速度提高 50 倍！](https://blog.csdn.net/csdnnews/article/details/103573220)
  > 本文为大家讲解如何将API 端点请求的响应速度提高50倍的。作者 |Bill Franklin译者 |明明如月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：...
+ ## [英特尔以20亿美元收购AI芯片制造商Habana Labs](http://www.lanjingtmt.com/news/detail/45213.shtml)
+ > 该公司总部位于以色列，是一家为数据中心提供可编程深度学习加速器的厂商。
  ## [音悦tai时隔半年再传倒闭，成也粉丝败也粉丝](http://www.lanjingtmt.com/news/detail/45212.shtml)
  > 分析人士指出，与QQ音乐、网易云音乐等音乐综合类平台相比，专注于MV音乐分享的音悦tai，既缺少资本加持，也受限于品类过于单一。
 # 人工智能 
- ## [Nginx之父被捕，程序员如何避免面向起诉编程](https://blog.csdn.net/BEYONDMA/article/details/103548161)
- > 
- ## [一个奇鸽的作者又要停更了？我的好友又 停更了?](https://blog.csdn.net/yigemuhan/article/details/103541871)
- > 一个奇鸽的作者又要停更了？我的好友又 停更了?
- ## [《Dotnet9》系列-开源C Winform控件库1《HZHControls》强力推荐](https://blog.csdn.net/HenryMoore/article/details/103542274)
- > 《Dotnet9》系列-开源C Winform控件库1《HZHControls》强力推荐
- ## [CSDN付费专栏上线，写文章变现的机会来了！](https://blog.csdn.net/blogdevteam/article/details/103487612)
- > 
- ## [我是如何从月薪4500努力到年薪30W-上篇](https://blog.csdn.net/qq_33242907/article/details/103531250)
- > 我是如何从月薪4500努力到年薪30W-上篇
- ## [C语言：在文件的指定位置实现局部修改，而无需重写文件的其他部分](https://blog.csdn.net/Nolikecake/article/details/103536679)
- > C语言：在文件的指定位置实现局部修改，而无需重写文件的其他部分
- ## [大学三年来，学开发我用它们。](https://blog.csdn.net/qq_42410605/article/details/103540414)
- > 大学三年来，学开发我用它们。
- ## [一周随笔（1215）](https://blog.csdn.net/qq_41761591/article/details/103545681)
- > 一周随笔（1215）
- ## [私藏的18个黑科技网站，想找什么软件就找什么软件！！！](https://blog.csdn.net/sinat_33921105/article/details/103307419)
- > 私藏的18个黑科技网站，想找什么软件就找什么软件！！！
- ## [通俗易懂地给女朋友讲：线程池的内部原理](https://blog.csdn.net/heihaozi/article/details/102882698)
- > 通俗易懂地给女朋友讲：线程池的内部原理
- ## [程序员接私活怎样防止做完了不给钱？](https://blog.csdn.net/DavidGoGo_/article/details/102824354)
- > 程序员接私活怎样防止做完了不给钱？
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
- > 有哪些让程序员受益终生的建议
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [还担心学习AI没有数学基础吗？读完它们，你就有了！！！](https://blog.csdn.net/weixin_42788078/article/details/103541827)
- > 还担心学习AI没有数学基础吗？读完它们，你就有了！！！
+ ## [开发中必知必会的常用Linux命令](https://blog.csdn.net/weixin_45124488/article/details/103537407)
+ > 开发中必知必会的常用Linux命令
+ ## [(Linux无线网卡WIFI上网 一 )USB-WIFI驱动移植](https://blog.csdn.net/yaomianfa/article/details/103551789)
+ > (Linux无线网卡WIFI上网 一 )USB-WIFI驱动移植
+ ## [【服务器】CentOS 7.6 安装 Weblogic](https://blog.csdn.net/qq_43427482/article/details/103551570)
+ > 【服务器】CentOS 7.6 安装 Weblogic
+ ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
+ > linux系列之常用运维命令整理笔录
+ ## [开发手机群控系统(自动化配置篇)](https://blog.csdn.net/lkjlsj/article/details/103538945)
+ > 开发手机群控系统(自动化配置篇)
+ ## [Docker基础教程一——CentOS6.5 Docker的安装以及问题总结 No package docker-io.Cannot connect to the Docker daemon.](https://blog.csdn.net/qq_34430649/article/details/103549725)
+ > Docker基础教程一——CentOS6.5 Docker的安装以及问题总结 No package docker-io.Cannot connect to the Docker daemon.
+ ## [Linux中配置Redis外网访问](https://blog.csdn.net/y506798278/article/details/103537899)
+ > Linux中配置Redis外网访问
+ ## [UEFI+GPT模式下在同一块固态硬盘上安装win10和Ubuntu 16.04双系统](https://blog.csdn.net/csdnwsq/article/details/103540629)
+ > UEFI+GPT模式下在同一块固态硬盘上安装win10和Ubuntu 16.04双系统
+ ## [nginx服务网站](https://blog.csdn.net/weixin_45310323/article/details/103542529)
+ > nginx服务网站
+ ## [在服务器CentOS7版本安装Nginx](https://blog.csdn.net/weixin_41800884/article/details/103545128)
+ > 在服务器CentOS7版本安装Nginx
+ ## [阿里centos7服务器配置FTP服务器](https://blog.csdn.net/qq_26870933/article/details/103549315)
+ > 阿里centos7服务器配置FTP服务器
+ ## [编译安装nginx时配置开机自启](https://blog.csdn.net/KH_FC/article/details/103537100)
+ > 编译安装nginx时配置开机自启
+ ## [Linux下如何查看JDK安装路径](https://blog.csdn.net/qq_43255017/article/details/103547520)
+ > Linux下如何查看JDK安装路径
+ ## [Ubuntu18.0下的pwn环境配置01](https://blog.csdn.net/ATFWUS/article/details/103548992)
+ > Ubuntu18.0下的pwn环境配置01
+ ## [【Linux】CentOS 7.6 安装 JDK](https://blog.csdn.net/qq_43427482/article/details/103551984)
+ > 【Linux】CentOS 7.6 安装 JDK
 # PM 
  ## [致敬引路人丨人人都是产品经理2019年度作者评选](http://www.woshipm.com/active/3219966.html)
  > 正是因为有着乐于分享的引路人带领我们探索着产品这个领域，产品经理这个职业才能得到飞速发展；而我们大家的支持与感谢，就是对引路人最大的敬意与感谢。每天看文章...
+ ## [用户研究的有些事，产品经理必须知道](http://www.woshipm.com/pmd/3221799.html)
+ > 有些公司配有专门的用户研究团队，笔者建议产品经理一定要亲身参与到用户研究中，不能完全外包给用研团队，甚至很多时候需要主导用户研究。客户的一手信息对产品经理的...
+ ## [一文读懂用户属性、事件、埋点](http://www.woshipm.com/pmd/3221187.html)
+ > 本文适于新人阅读，作者简略说明了用户属性、事件、埋点的定义与使用方法。用户属性、事件、埋点是产品工作中常见的名词，但是对于新接触这些概念的同学来说，其实并...
+ ## [5G时代下的智慧体育](http://www.woshipm.com/it/3213553.html)
+ > 2020年启动5G商用服务，5G时代近在眼前，而体育产业的发展压力颇大，5G是否能够带来更多机会呢？2013年2月，当4G通信刚刚正式开始推进商用，欧盟就已经宣布，将拨款50...
+ ## [当互联网家装沦为话柄，新航海时代或将启幕](http://www.woshipm.com/it/3217895.html)
+ > 对互联网家装来说， 一味依靠流量时不可取的，崛起本质还在于重归产品与服务。当互联网的模式红利开始消散，越来越多的人开始对“互联网+”模式产生怀疑，甚至开始认为...
  ## [你想知道的房产SaaS产品，都在这里](http://www.woshipm.com/pd/3220743.html)
  > 近些年来，房产SaaS产品不断发展，从管理系统到营销小程序，产品的发展不断提高中介公司的信息和人员管理能力，同时用户的购房租房体验也在不断提高。这篇文章就来分析...
  ## [2019中国互联网少儿数理思维教育行业洞察](http://www.chanpin100.com/article/110344)
