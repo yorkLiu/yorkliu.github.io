@@ -1,22 +1,26 @@
 ---
 title: 2019-12-19 IT News
 copyright: true
-date: 2019-12-19 08:00:51
+date: 2019-12-19 09:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [澳门北京大学生异地合唱同一首歌，5G成幕后功臣](http://mp.weixin.qq.com/s?src=11&timestamp=1576711805&ver=2043&signature=IJkkJNyQARvRRJAvAc*5R0s7aw8fgD2SidEQMd8jX6azpSuQXZ7PpcTGc8TR0OJP9NRDYf4Lg-KD9O9YrbjEx8ypCmtXMR2NisT658fGkB1ErexaAGTnM-lSAsMv1EPq&new=1)
- > 成绩值得庆贺，未来更可期待。你可知macau不是我真姓我离开你太久了，母亲但是他们掳去的是我的肉体你依然保管我内心的灵魂那三百年来，梦寐不忘的生母啊请叫儿的乳名，叫我一声澳门母亲啊，母亲我要回来，母亲...
- ## [百度Apollo的“长沙实践”](http://mp.weixin.qq.com/s?src=11&timestamp=1576711805&ver=2043&signature=6bU1NwzfZOAWZB3n4VA8V9p23gDa3QnxTU8bezEncjpyU1hSZw*lsqh7kNJC0UOYr-xHel3X8woanEXU0I4LoUGjde5yCQ9RH11o27lifSCbGgCEplb10X1IQomFTp2Z&new=1)
- > 12月18日，百度Apollo在长沙召开首届生态大会。这次大会上，Apollo不仅升级了自动驾驶平台，还全新发布了车路协同、智能车联两大开放平台。至此，以Apollo为基础的自动驾驶生态已经基本建成，百度在长沙走出了一...
- ## [亲身经历携号转网：套路太深，我太难了!](http://mp.weixin.qq.com/s?src=11&timestamp=1576711805&ver=2043&signature=BwAFbFPvBC6t6RRSN02e*jRvgF5LKx0s2BQipolMC8bvgZ8RGNvvSe2Odilwtsjg-5hdi6tlvknZ-qI7i80sYizNzu5M-dS*x98mCUUiSSI2X4yhXoy1eo5SD9DEgOz-&new=1)
- > 来源 读者投稿携号转网套路居然这么多！本人是一个移动五年的老用户，最近感觉移动网速越来越不理想，所以就想换家运营商，但奈何支付宝、微信、银行卡等都跟手机号关联，所以一直在等着携号转网的实行。 在新闻...
- ## [当AI激活数据，恰如爱数携手华为](http://mp.weixin.qq.com/s?src=11&timestamp=1576711805&ver=2043&signature=9g6H3GJ7amToR2Uu90n6mB9zXVfAiNhUmCgLQaakgHuoahm9vqpztu4lfH5k58zEO4Hgth3IpcvvcM9iFkyL82ntvsPl2Hx3kCLKPtpHRDnTH1xJsH6m-PkxZcysaADp&new=1)
+ ## [当AI激活数据，恰如爱数携手华为](http://mp.weixin.qq.com/s?src=11&timestamp=1576715405&ver=2043&signature=9g6H3GJ7amToR2Uu90n6mB9zXVfAiNhUmCgLQaakgHuoahm9vqpztu4lfH5k58zEKJzvA821htrbZU9iJIf4oA2Y0kOutXGLZ-8WXZYypsfBGDUCOWe9CVsnWIbG44hc&new=1)
  > 身处大数据时代，海量数据每年都在飞速增长。当人工智能成功激活数据，世界将会变成怎样？以人工智能技术为主导、正在全球开展得如火如荼的第四次工业革命，已经为我们揭示了这个问题的答案。但是在多模态数据智...
- ## [VR、AR新时代，5G第一批应用即将到来](http://mp.weixin.qq.com/s?src=11&timestamp=1576711805&ver=2043&signature=u7eKmxqemgGaW9O44SbZW8AlYjC-ay5A89OKZ1aBAhrlf8RZX-tNNv6cMkxdfuMeymhIxDU0G9O*3*gMGLIjRu2ZztiO3d*-*xQcJwYxMot2l*Id9*gf9waimuGTaK1t&new=1)
+ ## [亲身经历携号转网：套路太深，我太难了!](http://mp.weixin.qq.com/s?src=11&timestamp=1576715405&ver=2043&signature=BwAFbFPvBC6t6RRSN02e*jRvgF5LKx0s2BQipolMC8bvgZ8RGNvvSe2OdilwtsjgNic2tkng0a9I7E48iUKeHzCl6Tpse4KaeVvgfEkO7UtSosPUXBiDumg1RgtI5f-G&new=1)
+ > 来源 读者投稿携号转网套路居然这么多！本人是一个移动五年的老用户，最近感觉移动网速越来越不理想，所以就想换家运营商，但奈何支付宝、微信、银行卡等都跟手机号关联，所以一直在等着携号转网的实行。 在新闻...
+ ## [议程速看!2020年讯石“创芯时代”邳州论坛暨年度总结大会隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1576715405&ver=2043&signature=e8vEtdQRcXMbbW1ge8Ue0a4BIfcfwMS-XGYAtghb1ESvjMAtrbd*yB2QpQLWjIIs4nG2N1xSbXizdznvlzuWOOzeSLMTzjvnF1AkFee7wX8BG-veaaIOk7M8vYYVzq*j&new=1)
+ > 导读     白驹过隙，时光荏苒！20年代新征程即将开启！2020年1月4日，《2020年讯石“创芯时代”邳州论坛暨年度总结大会》隆重来袭，同时，大会议程正式公布，欢迎关注！  ICCSZ讯 白驹过隙，时光荏苒!转眼间21...
+ ## [百度Apollo的“长沙实践”](http://mp.weixin.qq.com/s?src=11&timestamp=1576715405&ver=2043&signature=6bU1NwzfZOAWZB3n4VA8V9p23gDa3QnxTU8bezEncjpyU1hSZw*lsqh7kNJC0UOYP3QAkcweyxy5wrnizMV9rIpdUTEWpYKnc-PgRL7cd*RGbIEuGa6X9locPx4Ip8*i&new=1)
+ > 12月18日，百度Apollo在长沙召开首届生态大会。这次大会上，Apollo不仅升级了自动驾驶平台，还全新发布了车路协同、智能车联两大开放平台。至此，以Apollo为基础的自动驾驶生态已经基本建成，百度在长沙走出了一...
+ ## [VR、AR新时代，5G第一批应用即将到来](http://mp.weixin.qq.com/s?src=11&timestamp=1576715405&ver=2043&signature=u7eKmxqemgGaW9O44SbZW8AlYjC-ay5A89OKZ1aBAhrlf8RZX-tNNv6cMkxdfuMeWLt20XhLVfj1n1A*FNb7GgsGJedJUry-C2wP9uhvtUN7nOBIOg7X5GLhtH2ZYi*W&new=1)
  > 随着5G建设的进行，新产品和新技术的不断成熟，VR/AR再度获得高度关注，VR/AR经历了从热炒，低谷，到复苏的过程。目前VR/AR的瓶颈包括网络带宽和速率的限制，硬件技术不够成熟，以及内容应用的匮乏。2012年，谷...
+ ## [澳门北京大学生异地合唱同一首歌，5G成幕后功臣](http://mp.weixin.qq.com/s?src=11&timestamp=1576715405&ver=2043&signature=IJkkJNyQARvRRJAvAc*5R0s7aw8fgD2SidEQMd8jX6azpSuQXZ7PpcTGc8TR0OJPCl4kTqy8B5bqBsGPuxoAXmUfGpjq5rFRJ4Zvu25ANhasqHJlu8VIE4rky2nItbZY&new=1)
+ > 成绩值得庆贺，未来更可期待。你可知macau不是我真姓我离开你太久了，母亲但是他们掳去的是我的肉体你依然保管我内心的灵魂那三百年来，梦寐不忘的生母啊请叫儿的乳名，叫我一声澳门母亲啊，母亲我要回来，母亲...
 # IT 技术 
+ ## [2020年软件测试的五大趋势](http://developer.51cto.com/art/201912/607939.htm)
+ > 2020年软件测试的五大趋势
  ## [Redis，Nginx，Netty为什么这么香？](http://news.51cto.com/art/201912/607949.htm)
  > Redis，Nginx，Netty为什么这么香？
  ## [展望2020年：关于区块链的十大预测](http://blockchain.51cto.com/art/201912/607951.htm)
@@ -31,35 +35,33 @@ categories: IT NEWS
  > 物联网年：2020年8个数据导向的发展趋势
  ## [2019大型网络攻击事件频发，AI能挡住每39秒一次的攻击吗？](http://news.51cto.com/art/201912/607931.htm)
  > 2019大型网络攻击事件频发，AI能挡住每39秒一次的攻击吗？
- ## [8岁上海小学生B站教编程惊动苹果，库克亲送生日祝福](http://news.51cto.com/art/201912/607932.htm)
- > 8岁上海小学生B站教编程惊动苹果，库克亲送生日祝福
+ ## [NumPy入门讲座（3）：操作数组](https://blog.csdn.net/xufive/article/details/103575529)
+ > 
  ## [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://blog.csdn.net/qq_35190492/article/details/102889333)
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ > 
+ ## [【技巧总结】位运算装逼指南](https://blog.csdn.net/m0_37907797/article/details/103120886)
+ > 
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
- ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
- > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [通俗易懂地给女朋友讲：线程池的内部原理](https://blog.csdn.net/heihaozi/article/details/102882698)
- > 通俗易懂地给女朋友讲：线程池的内部原理
- ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [在阿里，40岁的奋斗姿势](https://blog.csdn.net/yunqiinsight/article/details/103252083)
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
  > 
- ## [程序员接私活怎样防止做完了不给钱？](https://blog.csdn.net/DavidGoGo_/article/details/102824354)
- > 程序员接私活怎样防止做完了不给钱？
- ## [《程序人生》系列-这个程序员只用了20行代码就拿了冠军](https://blog.csdn.net/qq_35190492/article/details/103081052)
- > 《程序人生》系列-这个程序员只用了20行代码就拿了冠军
- ## [阿里靠什么武功秘籍渡过“双十一“的天量冲击](https://blog.csdn.net/BEYONDMA/article/details/103213493)
- > 
- ## [腾讯算法面试题：64匹马8个跑道需要多少轮才能选出最快的四匹？](https://blog.csdn.net/qq_21118431/article/details/102925078)
- > 腾讯算法面试题：64匹马8个跑道需要多少轮才能选出最快的四匹？
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [谁是蒋涛?](https://blog.csdn.net/csdnnews/article/details/103607696)
  > 作者/许志宏责编/Aholiab出品/区块链大本营（blockchain_camp）本文作者许志宏，雪球和知乎证券市场小有名气的KOL，也是蒋涛的投资项目负责人之一。2015年3月的时候...
