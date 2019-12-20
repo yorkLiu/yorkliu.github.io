@@ -1,7 +1,7 @@
 ---
 title: 2019-12-20 IT News
 copyright: true
-date: 2019-12-20 10:00:49
+date: 2019-12-20 12:04:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,83 +68,89 @@ Facebook&#20005;&#25511;&#30005;&#23376;&#28895;&#21697;&#29260;&#20256;&#25773;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [暴风集团收关注函丨HTC证实新一轮裁员\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=o-T53*4nkotyGoSJs5*EY0kchReqwn*1bBCo7sp1ICftn*gOi3KdQ8PKVXYmia3JzI4U7fDl9BygXj9hqHdkckV2wgRe6qlX*rbEmopJQUsrqgsF4XUt3hfzSQ27*tAG&new=1)
- > 12月19日丨周四【Do说】编辑 | 赵艾虎暴风集团收关注函暴风集团收深交所关注函，要求说明“风行网已收购暴风TV，双方目前正在做内容整合”的媒体报道是否属实，如是，补充披露股权收购或业务合作的具体情况。NAS...
- ## [一个更开放的英伟达，将如何实现自动驾驶?](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=5TBpOCMNqErLqU-UoH8vC90eTUvGlDUbMoDsB7EdpEmE6cjBnBbBbavZl*JYOEmGafSlbqe*KJUHdXtE637FgjDVGkWmA2ZLFo484f452Q-wlMT-XB2E7R*b647*DVhh&new=1)
- > 朋友圈又扩大了自从 2016 年开始，GTC China 就成了 NVIDIA「皮衣教主」黄仁勋每年和中国市场沟通的重要平台。关注科技行业的人可能都知道，NVIDIA 是从显卡以及芯片起家。但在自动驾驶领域，NVIDIA 由于在软件...
- ## [国家电网5G网络建设方案：利用广电700/60MHz建11.31万座基站](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=HscGQ2HOzGmVq*m5MquLcb1W-oev6TiK6OgJfVLwQawulr8y7pm1wr*1qFzZy2RBx9Nj4z1dVUqOa60wAjjEwwJgejkS-shMdOEG4G90Yw3rsRVuxbskSWoDvFkWmD7P&new=1)
+ ## [海外巨头计划出售资产，这家A股公司意外涨停，背后什么逻辑?](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=klYJJwqM*pIMXOriBdtOMRvPZxFurF6d0Yioq1gXd1U0Uat8TQ72mGNOOk8-xs4IQaE6raGlljOZCOBObWeylqORjJ6ujszmqr4ZrPd67NWbEW1cDhrW*iui-H67CSsG&new=1)
+ > 权威、深度、实用的财经资讯都在这里12月19日，有媒体报道，全球半导体巨头博通正考虑出售其射频（RF）无线芯片部门，苹果有意接盘。就上述报道，上证报记者采访业内人士获悉，博通确实有意出售其射频部门，但鉴...
+ ## [来自承包商的报复式攻击!](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=Sg17h5UAkoHp9AOO-6YempLNJhQMn7VDwna6A1Gr2CzfdMwD6vAyWZ0r7CtJ0ZR2k3u2-pgZLF8EoJ2D-gQgIf0thl3hWXVFsytQi3gxbrqjrhp9DeZ9N7PYaO9Yrtoi&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       近日，据外媒报道，一英国航空公司的IT承包商因对该公司的IT基础设施发动网络攻击而被判处10年监禁。 调查显示，该男子是因为2017年的一次纪律处分而怀...
+ ## [百度起诉今日头条；腾讯云超 8000 名员工获 iPhone 11 Pro 奖励；PHP 7.4.1 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=zKY*YZ45PZMFA6iaFdfKJtJMKt9G9O82ocr1ttyC4oJDGJZLx4GhLHpvtHsefANJ99APlxF7daKpOsNTfETGtuWqRy2p1yW3EDo40b*1VXuAmnePLYP0JfNN5nOCNqr3&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [高通：用十年赌一个未来](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=038UeRCEoug*07uK0IpjySJaQWle-XFPrjcSonb6Kyi2AbjWhVsAynYHbDlNakOFHTtK4one4w-ZQZt*TsDx0KQrE68gSngDFfkbi9P4PmJp8l-9iY5CoeeuyLmzYEVK&new=1)
+ > 即将给人们带来极大便利的 5G，在高通要追溯到上个世纪。对于华为、三星、一加、OPPO、Vivo 和小米手机的用户，第五代移动通讯技术的时代正在到来。据统计，截至今天，来自各大知名终端设备品牌，已经和正在开发...
+ ## [国家电网5G网络建设方案：利用广电700/60MHz建11.31万座基站](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=HscGQ2HOzGmVq*m5MquLcb1W-oev6TiK6OgJfVLwQawjoHmJl*8opuPWpSredw0T0jJrcbFmiAlLvyyUoiJmMyYM8BKpxBZkL39mBgeK2hXHjWcD7Takk9X13nA5iy2Y&new=1)
  > 导读：国家电网拟利用中国广电700MHz频段、60MHz频谱资源开展5G网络建设，其《国家电网5G网络建设方案》获得网络曝光。国网的5G网络建设内容分为六个部分：核心网建设、承载网建设、基站建设、网管及支撑系统建...
- ## [5G覆盖全国可能要6年以后，4G与5G将长时间共存](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=L8DYwwWvDgAHoobjUkTBCHQf7r5IRUgXFDWZT9lmwhrHVODEsK1SDt22G5WuULR4jQZ5ryWiHWJXYgOLbOHqIWYv6MpkVVENmxGD0M1-h8SY-3gKHc6QaZiAmsq*rMOr&new=1)
- > 工业和信息化部原部长、中国工业经济联合会会长李毅中在“看2020财经峰会”上表示5G覆盖全国需要600万基站，耗资最高1.5万亿元，预计覆盖全国要6-7年时间，如此4G与5G将共存相当长时间。华为今年宣传它的balong5...
- ## [\[科技早报7点整\]手机信号突降2G后余额被窃 自拍多了可能会生病……](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=M8xWJRvnJ6XNTkWBYPZ3FZVp6ODJJ84XvaOfMFK5NAnDjr28ASNEiqQLOyEeoUjnbH13l7z9A1fPdR24mkFoLr8pzFsx2XA9YmjRSQCFrRfQKNWx*rTAUNXUYl70PcdB&new=1)
+ ## [暴风集团收关注函丨HTC证实新一轮裁员\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=o-T53*4nkotyGoSJs5*EY0kchReqwn*1bBCo7sp1ICfA0QAiNbZoDOOnFVmhjaNx*z-oX8zMwM*7Zzar9aulog6BnE*dIjamzprk3klyDbl1Abk*Uhz1U2PqOdpw1pke&new=1)
+ > 12月19日丨周四【Do说】编辑 | 赵艾虎暴风集团收关注函暴风集团收深交所关注函，要求说明“风行网已收购暴风TV，双方目前正在做内容整合”的媒体报道是否属实，如是，补充披露股权收购或业务合作的具体情况。NAS...
+ ## [\[科技早报7点整\]手机信号突降2G后余额被窃 自拍多了可能会生病……](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=M8xWJRvnJ6XNTkWBYPZ3FZVp6ODJJ84XvaOfMFK5NAnexlp59ZH4bnB7R76Z9-XMXQ7Yyr*Ho8XYzxxB-nVTHiWuk2AGEd04Nwx-1en-h3EKpfmIwpMqebh2wBDPqWWO&new=1)
  > 早上好，科技圈【一度蜜科技早报】第677期1.手机信号突降2G后余额被窃 近日，网友反应手机突然从4G变成2G，后接到来自银行、第三方支付和移动公司各类短信验证码，相关账户余额“凭空蒸发”。专家建议睡觉前可关...
- ## [从拍照到智能交互：摄像头进化三部曲](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=V2E-Uc2Fyx4u4FJG4rhl-TxYieDnPMpbh92M47o5cvkD0xrOhkgYMJL0UGkXZvFl4ir1y4amDY4vYSmPjTqUSz0lYXp3ipUr1euUe0ou29c=&new=1)
+ ## [一个更开放的英伟达，将如何实现自动驾驶?](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=5TBpOCMNqErLqU-UoH8vC90eTUvGlDUbMoDsB7EdpEkpy2xCzr9eCgLHbDlWprf*hW00pgXCGn7daPP3g5b7WwSYOcCLce1iXphVP6utT4JeIcZ0b4BAkP0C3ZjCi-5J&new=1)
+ > 朋友圈又扩大了自从 2016 年开始，GTC China 就成了 NVIDIA「皮衣教主」黄仁勋每年和中国市场沟通的重要平台。关注科技行业的人可能都知道，NVIDIA 是从显卡以及芯片起家。但在自动驾驶领域，NVIDIA 由于在软件...
+ ## [5G覆盖全国可能要6年以后，4G与5G将长时间共存](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=L8DYwwWvDgAHoobjUkTBCHQf7r5IRUgXFDWZT9lmwhqRcm0rdmwFhFotBKVNoJWAhEth1*weAA3lMSLdrSqXU649H*7B0XVgwY9MoiwvxLFj4tHhQ1UJ*BqPlphgGAwW&new=1)
+ > 工业和信息化部原部长、中国工业经济联合会会长李毅中在“看2020财经峰会”上表示5G覆盖全国需要600万基站，耗资最高1.5万亿元，预计覆盖全国要6-7年时间，如此4G与5G将共存相当长时间。华为今年宣传它的balong5...
+ ## [从拍照到智能交互：摄像头进化三部曲](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=V2E-Uc2Fyx4u4FJG4rhl-TxYieDnPMpbh92M47o5cvmthQDfGygZom73eYqX5WHXUNAnj5WqBkm4BKiuu*JOg9HW2ZpxlsUz0rdmyio0z2E=&new=1)
  > 从 11 万像素的手机到最前沿的谷歌眼镜，从拍照到智能交互，摄像头在硬件和软件上的飞跃，已经远远超出了 15 年前第一台拍照手机面世时的想象。那个时候，手机只能打电话，而智能交互，只出现在科幻小说里。摄像...
- ## [本田Honda CONNECT迭代背后的中国逻辑](http://mp.weixin.qq.com/s?src=11&timestamp=1576807205&ver=2045&signature=B1-wp327F2I4ScFGDm1sqQGXff23jfbieGVdvCRj*7hBIenZAjYzFw4JQ-w-PVmHJs5jF5wEF*edido5N*O3UKBI3PNOkcxkjP2DOg-fBatRBIi4GHrfpCqjFJLWNxy*&new=1)
+ ## [本田Honda CONNECT迭代背后的中国逻辑](http://mp.weixin.qq.com/s?src=11&timestamp=1576814405&ver=2045&signature=B1-wp327F2I4ScFGDm1sqQGXff23jfbieGVdvCRj*7jd*vn3uHGWgqvC3*rZ8USWlAJctAUB1JFITO*-dlVCZhD69ENcSMMZLa2Yl83Nd-Y2n6smgPSwQAPY1NWWunic&new=1)
  > 导语“一日本田，终身本田”，这是本田粉的口头禅。技术宅本田从VTEC到地球梦发动机，从“买发动机送车”再到无敌的i-MMD混动系统，本田每一项新技术革新都深入到粉丝的内心。而在如今全球汽车领域智能化、网联...
 # IT 技术 
+ ## [使用这8款工具将微服务部署在Azure上](http://developer.51cto.com/art/201912/608108.htm)
+ > 使用这8款工具将微服务部署在Azure上
  ## [灵魂一问：一个TCP连接可以发多少个HTTP请求？](http://network.51cto.com/art/201912/608099.htm)
  > 灵魂一问：一个TCP连接可以发多少个HTTP请求？
  ## [五招监控云账号劫持活动](http://netsecurity.51cto.com/art/201912/607981.htm)
  > 五招监控云账号劫持活动
+ ## [爬了7W条视频评论，李子柒凭什么火遍全球？](http://news.51cto.com/art/201912/608106.htm)
+ > 爬了7W条视频评论，李子柒凭什么火遍全球？
+ ## [2019年Reddit机器学习板块17个热门项目：最新代码、资源应有尽有](http://news.51cto.com/art/201912/608105.htm)
+ > 2019年Reddit机器学习板块17个热门项目：最新代码、资源应有尽有
  ## [惊魂48小时，阿里工程师如何紧急定位线上内存泄露？](http://zhuanlan.51cto.com/art/201912/608095.htm)
  > 惊魂48小时，阿里工程师如何紧急定位线上内存泄露？
+ ## [程序员想搞点副业太难了：谷歌已将个人项目归属问题写进雇佣协议](http://news.51cto.com/art/201912/608104.htm)
+ > 程序员想搞点副业太难了：谷歌已将个人项目归属问题写进雇佣协议
  ## [2020年SD-WAN:值得关注的六大趋势](http://news.51cto.com/art/201912/608030.htm)
  > 2020年SD-WAN:值得关注的六大趋势
- ## [赔偿N+5，三星手机彻底退出中国制造！](http://news.51cto.com/art/201912/608022.htm)
- > 赔偿N+5，三星手机彻底退出中国制造！
- ## [AI能忆起昨天的你了 但触景生情还有点难](http://ai.51cto.com/art/201912/608002.htm)
- > AI能忆起昨天的你了 但触景生情还有点难
- ## [面试突然问Java多线程原理，我哭了！](http://developer.51cto.com/art/201912/608021.htm)
- > 面试突然问Java多线程原理，我哭了！
- ## [CMU本科生开源文言文编程语言，数天2K星](http://news.51cto.com/art/201912/608000.htm)
- > CMU本科生开源文言文编程语言，数天2K星
- ## [生产事故（MongoDB数据分布不均解决方案）](http://database.51cto.com/art/201912/608098.htm)
- > 很明显可以看到我们这个集合的数据严重分布不均匀。涉及到此次事故的集合一共有三个，总数据量加起来接近30
- ## [十个 Linux 新手管理员易犯错误](http://database.51cto.com/art/201912/608096.htm)
- > 如果您是Linux的新手，那么一些常见错误很可能会给您带来麻烦。提前了解它们，您就可以再逐渐熟悉Linux时避
- ## [5G赋能智慧交通 车联网将走向历史新阶段](http://www.cioage.com/art/201912/608094.htm)
- > 工信部苗部长表示，智慧交通是5G的重要应用场景，“红绿灯”将不仅是颜色，同时也将使用5G信号与智能网联汽
- ## [谷歌官方突然决定，苹果猝不及防，安卓系统将迎来“大换血”](http://news.51cto.com/art/201912/608101.htm)
- > 众所周知，如今手机的三大操作系统为：苹果的iOS、谷歌的安卓系统、微软的Windows Phone。由于Windows Pho
- ## ["全国垃圾分类"服务上线微信 目前覆盖全国46个城市](http://www.cioage.com/art/201912/608093.htm)
- > 据微信城市服务消息，12月1日，《生活垃圾分类标志》标准正式实施。为进一步普及生活垃圾分类知识，方便居
- ## [避免神经网络过拟合的5种技术](http://news.51cto.com/art/201912/608102.htm)
- > 最近一年我一直致力于深度学习领域。这段时间里，我使用过很多神经网络，比如卷积神经网络、循环神经网络、
- ## [面试官：“最后再写道算法吧，就用单链表做个加法...”](http://zhuanlan.51cto.com/art/201912/608091.htm)
- > 两数相加这道题，处理的就是最简单的数学加法运算，只是它是建立在链表的基础之上，所以难度在于对链表的处
- ## [在Linux上使用Ksnip注释截图](http://os.51cto.com/art/201912/608090.htm)
- > 我最近从 MacOS 切换到了 Elementary OS，这是一个专注于易用性和隐私性的 Linux 发行版。作为用户体验设计
- ## [2020年 我要这样写代码](http://developer.51cto.com/art/201912/608089.htm)
- > 在 9102 年年初，一位室友问我一个问题，如何才能够提升写代码的能力?可惜的是: 当时仅仅回复了一些自己的
- ## [PC 已死，云 PC 取而代之](http://biz.51cto.com/art/201912/608087.htm)
- > ZDNet 的 Ed Bott 最近指出，十年前人们是如何预测 PC 的死亡的，只是为了表明台式 PC 仍然活着而且还很好
+ ## [消息队列Broker主从架构详细设计方案，这一篇就搞定主从架构](http://developer.51cto.com/art/201912/608121.htm)
+ > 今天我们就来一起学习下消息队列设计的第二个底层模块， Broker 的架构设计。
+ ## [下次打死我也不敢随便改SerialVersionUID了](http://developer.51cto.com/art/201912/608118.htm)
+ > 序列化是一种对象持久化的手段。普遍应用在网络传输、RMI等场景中。类通过实现 java.io.Serializable 接口
+ ## [开发环境下的 Kubernetes 容器网络演进之路](http://zhuanlan.51cto.com/art/201912/608117.htm)
+ > 使用 Docker+Kubernetes 来简化开发人员的工作流，使应用更加快速地迭代，缩短发布周期，在很多研发团队中
+ ## [读懂 2020，AI 安防「术」与「势」丨年终盘点](http://news.51cto.com/art/201912/608115.htm)
+ > 过去一年，AI安防市场有实体经济的挣扎、AI新秀的锐利、资产泡沫的疯狂、相互之间的利益重构。
+ ## [未来一年IT技术的发展趋势](http://cloud.51cto.com/art/201912/608111.htm)
+ > 随着岁末年初的到来，现在是展望未来一年行业发展趋势的时候，以便企业为做出明智的决定做好准备。
+ ## [Facebook构建自主操作系统 减少对安卓系统依赖](http://news.51cto.com/art/201912/608116.htm)
+ > 12 月 20 日消息，据外媒报道，Facebook 不希望其 Oculus 或增强现实（AR）眼镜等硬件受制于谷歌。因为它们
+ ## [Fortinet收购SOAR方案商CyberSponse，进一步提升Security Fabric架构安全运营能力](http://netsecurity.51cto.com/art/201912/608110.htm)
+ > 近日，Fortinet宣布收购安全编排，自动化和响应(SOAR)平台提供商CyberSponse，进一步提升Security Fabric架
+ ## [数据中台应该包含什么？你知道吗？](http://developer.51cto.com/art/201912/608114.htm)
+ > 数据中台最早是阿里提出的，但真正火起来是 2018 年，我们能感受到行业文章谈论数据中台的越来越多。大量的
+ ## [英伟达年底放大招！发布超强图像生成器StyleGAN2](http://news.51cto.com/art/201912/608107.htm)
+ > 今年年初，英伟达（NVIDIA）的研究工程师们公开了StyleGAN的源代码，并将其作为生成对抗网络的基于Style的
+ ## [我们是怎样将网站加载时间减少 24% 的？](http://news.51cto.com/art/201912/608103.htm)
+ > 本文针对 SwissDev Jobs 网站的优化实践，介绍我们是如何把网站加载时间减少24% 的。
+ ## [Java中生成唯一ID的方法](https://blog.csdn.net/peterwanghao/article/details/103615746)
+ > 
  ## [Python爬虫小白教程（三）——使用正则表达式分析网页](https://blog.csdn.net/weixin_44547562/article/details/103617416)
  > Python爬虫小白教程（三）——使用正则表达式分析网页
+ ## [程序员们有些什么好玩儿的程序分享？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103617113)
+ > 程序员们有些什么好玩儿的程序分享？
  ## [《吊打面试官》系列-Redis哨兵、持久化、主从、手撕LRU](https://blog.csdn.net/qq_35190492/article/details/102958250)
  > 
  ## [netty模型简介 一](https://blog.csdn.net/qq_33000453/article/details/103611001)
  > netty模型简介 一
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://blog.csdn.net/qq_35190492/article/details/102889333)
- > 
+ ## [数据仓库实践杂谈（七）——数据标准化](https://blog.csdn.net/cfy_fantasyxx/article/details/103617098)
+ > 数据仓库实践杂谈（七）——数据标准化
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
- ## [操作系统笔记第四章【存储器管理】](https://blog.csdn.net/King8611/article/details/103622848)
- > 操作系统笔记第四章【存储器管理】
- ## [数据库分库分表大全](https://blog.csdn.net/lj_1129/article/details/103613932)
- > 数据库分库分表大全
+ ## [《数据密集型应用系统设计》笔记二：第二章 数据模型与查询语言](https://blog.csdn.net/weixin_43902592/article/details/103579497)
+ > 《数据密集型应用系统设计》笔记二：第二章 数据模型与查询语言
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [数据结构与算法（六）——循环队列的顺序存储结构](https://blog.csdn.net/weixin_45160969/article/details/103611695)
- > 数据结构与算法（六）——循环队列的顺序存储结构
- ## [为啥国人偏爱Mybatis，而老外喜欢Hibernate/JPA呢？](https://blog.csdn.net/m0_37609579/article/details/102961765)
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [Nginx-入门](https://blog.csdn.net/y472360651/article/details/103618010)
- > Nginx-入门
  ## [为开源做贡献，我们要做一次最具挑战的尝试！](https://blog.csdn.net/csdnnews/article/details/103620708)
  > 开源20年是本土参与极少的，无论在产业上，还是在治理上，均是几乎都是空白，至少截止到今天是这样一个客观现实。那么，这究竟是什么原因了呢？
  ## [还有 2 天，这场大咖云集的启智开发者大会即将启动！](https://blog.csdn.net/csdnnews/article/details/103626118)
@@ -165,48 +171,84 @@ Facebook&#20005;&#25511;&#30005;&#23376;&#28895;&#21697;&#29260;&#20256;&#25773;
  > 不知不觉间，2020 年即将于十几天之后到来，作为技术圈中你，准备好迎接最新的变化了吗？在本文中，我们将以编程界最常用的编程语言 Java 为例，分享最为主流的技术与工具。作者|divyesh.aegis译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）...
  ## [行！人工智能玩大了！程序员：太牛！你怎么看？](https://blog.csdn.net/csdnnews/article/details/103626116)
  > 人工智能真的玩大了吗？人工智能行业的人才真的“爆发了？”AI程序员究竟怎么样？中国AI前景分析程序员与远方最新参考，是12月2日出炉的《人工智能技术专利深度分析报告》。中国AI专利，已...
+ ## [拼多多启动年货节，将发放40亿元红包](http://www.lanjingtmt.com/news/detail/45269.shtml)
+ > 拼多多今日宣布，联手商家与农副产品品牌共同启动“年货节”。
  ## [2019年度盘点二丨共享单车监管趋严，试水电商失利，涨价不止](http://www.lanjingtmt.com/news/detail/45266.shtml)
  > 作为监管层和用户层的关注焦点，（退）押金今年依然继续成为共享单车行业的关键词，但从整个行业来看，大部分企业已经告别押金继续前行。随着摩拜、ofo逐渐淡出视野，剩下的企业仍在继续探寻
 # 人工智能 
- ## [做程序媛这几年，感受？体验？](https://blog.csdn.net/hq_nuan/article/details/103576218)
- > 做程序媛这几年，感受？体验？
- ## [听说你还在纠结自己没访问量？成不了“博客专家”？](https://blog.csdn.net/hebtu666/article/details/103598169)
- > 听说你还在纠结自己没访问量？成不了“博客专家”？
- ## [超模脸、网红脸、萌娃脸...换头像不重样？我开源了5款人脸生成器](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103590520)
- > 超模脸、网红脸、萌娃脸...换头像不重样？我开源了5款人脸生成器
- ## [NumPy入门讲座（1）：基本概念](https://blog.csdn.net/xufive/article/details/103567312)
+ ## [Android小游戏 打地鼠](https://blog.csdn.net/xj531/article/details/80271761)
+ > Android小游戏 打地鼠
+ ## [炉石传说 开包模拟器 Java](https://blog.csdn.net/weixin_42216393/article/details/103599020)
+ > 炉石传说 开包模拟器 Java
+ ## [蚂蚁森林自动收能量](https://blog.csdn.net/SummerCloudXT/article/details/103591536)
+ > 蚂蚁森林自动收能量
+ ## [【Unity3D】29行代码实现一个简单的角色移动脚本](https://blog.csdn.net/q764424567/article/details/103610183)
  > 
- ## [深度学习之手撕深度神经网络DNN代码（基于numpy）](https://blog.csdn.net/TeFuirnever/article/details/103581471)
+ ## [android 表白APP（创意）](https://blog.csdn.net/qq_35628095/article/details/80455799)
+ > android 表白APP（创意）
+ ## [Unity与Android的简单交互](https://blog.csdn.net/qq_45071375/article/details/103594096)
+ > Unity与Android的简单交互
+ ## [gym-102452 香港区域赛部分题解](https://blog.csdn.net/KXL5180/article/details/103613858)
+ > gym-102452 香港区域赛部分题解
+ ## [JS与HTML、CSS实现2048小游戏（六）](https://blog.csdn.net/qq_40421109/article/details/103549669)
+ > JS与HTML、CSS实现2048小游戏（六）
+ ## [3D弹球](https://blog.csdn.net/weixin_43863320/article/details/103594328)
+ > 3D弹球
+ ## [关于JavaScript中Class类的关键字使用](https://blog.csdn.net/Wendymwz/article/details/103602751)
+ > 关于JavaScript中Class类的关键字使用
+ ## [Java基础——Java之旅](https://blog.csdn.net/OrangePeel_2019/article/details/103604249)
+ > Java基础——Java之旅
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
  > 
- ## [十年后，每天 24 小时离不开传感技术](https://blog.csdn.net/csdnnews/article/details/103590685)
- > 
- ## [综述：OCR简单入门](https://blog.csdn.net/MrCharles/article/details/103590189)
- > 
- ## [CV：基于keras利用算法MobilenetV2实现局部相似域的多人二维姿态实时估计(詹姆斯扣篮+美女跳舞)](https://blog.csdn.net/qq_41185868/article/details/103584982)
- > CV：基于keras利用算法MobilenetV2实现局部相似域的多人二维姿态实时估计(詹姆斯扣篮+美女跳舞)
- ## [OpenCV输出图像到文件：imwrite()函数。在OpenCV中生成一幅png图片，并写入当前工程目录](https://blog.csdn.net/cfl997/article/details/103582304)
- > OpenCV输出图像到文件：imwrite()函数。在OpenCV中生成一幅png图片，并写入当前工程目录
- ## [CSDN最新精品专栏已诞生：给读者更优质内容，给创作人更好的“回报”](https://blog.csdn.net/blogdevteam/article/details/103573712)
- > 
- ## [想做数据化转型，为什么必须要上企业级BI？](https://blog.csdn.net/nayun123/article/details/103596420)
- > 想做数据化转型，为什么必须要上企业级BI？
- ## [\[Python人工智能\] 五.Tensorboard可视化基本用法及绘制整个神经网络](https://blog.csdn.net/Eastmount/article/details/103569858)
- > 
- ## [kaggle竞赛练手（ CIFAR-10 - Object Recognition in Images）](https://blog.csdn.net/weixin_43162240/article/details/103594249)
- > kaggle竞赛练手（ CIFAR-10 - Object Recognition in Images）
- ## [写给机器学习初学者：到底什么是机器学习 | 愿所有初学爱好者不再迷茫。](https://blog.csdn.net/CxsGhost/article/details/103590017)
- > 写给机器学习初学者：到底什么是机器学习 | 愿所有初学爱好者不再迷茫。
- ## [机器学习可以揭露股票背后的规律，进行市场预测吗？](https://blog.csdn.net/duxinshuxiaobian/article/details/103562981)
- > 机器学习可以揭露股票背后的规律，进行市场预测吗？
+ ## [飞机大战python小游戏](https://blog.csdn.net/qq_44053966/article/details/103591305)
+ > 飞机大战python小游戏
+ ## [hero in maze (广度优先搜索 Java实现)](https://blog.csdn.net/qq_29434345/article/details/103612004)
+ > hero in maze (广度优先搜索 Java实现)
 # PM 
- ## [高性价比怎么成了新品牌的噩梦？](http://www.woshipm.com/marketing/3233151.html)
- > 高性价比梦想虽好，但“一分钱一分货”才是商品市场的常态。2019年新消费巨浪一度刷屏，高性价比成了新消费行业的“王道”，很多新品牌激动不已。但是，年双11电商数据显...
- ## [六年技术人的转行之路](http://www.woshipm.com/pmd/3232630.html)
- > 从程序员到产品经理，本文作者收获颇多，借此文对个人经历做个总结和复盘，也希望能够给大家一点思考和启发。大家好，作者本硕均是计算机专业科班出身，毕业后一直从...
- ## [如何打造“迪士尼”级别的用户体验？](http://www.woshipm.com/user-research/3232260.html)
- > 作者阐述自己对于“I.C.A.R.E”五大原则的看法，看看如何打造“迪士尼”级别的用户体验。《绝佳体验》一书由布鲁斯·莱夫勒 和 布莱恩·T·丘奇合著而成，其中提到各类原则就...
- ## [产品经理周报第 96 期｜微信内测“商品橱窗”功能；搜狗发布名为“点点输入”的特殊输入法](http://www.woshipm.com/it/3232721.html)
- > 早上好呀，今天又是周五啦最近全国各地都在降温，有的地方已经开始下雪啦就连在广东的小编也开始穿上了棉袄子，大家记得注意添衣保暖哦那这周，互联网有发生什么事...
+ ## [UX案例研究：Access银行手机APP](http://www.woshipm.com/pd/3225832.html)
+ > 作者借对Access银行手机APP的UX研究，设想如何响应来自用户的用户体验问题，使得大量用户能够留存。关于存取银行今天的Access银行是尼日利亚最大的银行，也是非洲领...
+ ## [复盘：如何搭建大转盘活动？](http://www.woshipm.com/pd/3227141.html)
+ > 本文作者结合项目过程中总结了些经验，分享大转盘活动设计思路和经验，就如何搭建大转盘活动做一次全面复盘，希望能为你提供一条完整思路和收获。2019年上半年一直致...
+ ## [深度拆解：千万日活的刷宝赚到钱了吗？](http://www.woshipm.com/operate/3223102.html)
+ > 文章从商业模型的角度，对刷宝的运营策略进行了分析探究，并总结了刷宝存在的一些问题，与大家分享。好久没输出硬核文章了，咱们初心不能忘~这篇文章，Super试图上升...
+ ## [轻松筹增长战略的底层逻辑](http://www.woshipm.com/operate/3234229.html)
+ > 不得不承认，这是一个真实的风口。今天我们来解析轻松筹的增长战略，主要集中在偏早期创业阶段。一、增长3阶段6要素增长分为三个阶段：从0～1、从1～10、从10~100...
+ ## [喧嚣之下，社交电商转型的必然与方向](http://www.woshipm.com/it/3226562.html)
+ > 站在社交电商发展的十字路口，转型或许是一种必然和趋势。找到真正可以给社交电商带来持续长久发展的新动能，或许才是它真正告别平庸的关键所在。当经济下行压力开始...
+ ## [2019 运营方法论听多了，来听听我的](http://www.woshipm.com/operate/3207114.html)
+ > 2019年就要过去了，好的不好的都已成定局。那么，在复盘总结过后，2020年，让自己过的更开心一点~还有个十几天就正式阔别2019年了，这一年是个多事之秋，贸易战你来我...
+ ## [​ 如何用增长思维找工作（引流篇）](http://www.woshipm.com/zhichang/3231307.html)
+ > 用增长的思维来找工作，有什么不一样的地方呢？企业招人和求职者找工作，这两种心态和女生想买一瓶不脱妆的粉底液没什么区别，都是一种用户需求。企业作为“用户”，想...
+ ## [从特斯拉到江小白，它们如何开创蓝海？](http://www.woshipm.com/chuangye/3229529.html)
+ > 本文以大量真实商业案例入手，分析了如何开创商业与产品的蓝海，并分析了特斯拉到江小白是如何开创蓝海的？一、序言我在几年前第一次读到蓝海战略时，极为震撼，被他...
+ ## [人体辅助，AI落地的另一种可能](http://www.woshipm.com/ai/3228328.html)
+ > 想要实现残障人士的“残而不障”，人体辅助是一条被忽略的垂直赛道，这也是AI落地的一种可行方式。（说明：本文并非创业报道，而是对具体场景的需求分析。为避免产生相...
+ ## [用“用户故事地图”高效进行需求组织和迭代规划](http://www.woshipm.com/zhichang/3227451.html)
+ > “用户故事地图”以直观易变的方式进行项目的良好沟通，大多数人看重的是地图的形式部分，横向是讲述大故事的部分，纵向是逐步的细化。但是最关键的是产品的构思框架，让...
+ ## [不做产品经理了，能去做什么？](http://www.chanpin100.com/article/110401)
+ > 那么真到了不能再做产品经理的时候，那我们能去做什么？该怎么办？顺着下面的问题，你也许能找到自己的答案。
+ ## [产品经理都应该读的一本书](http://www.chanpin100.com/article/110398)
+ > 只是就是力量，让我们一起来学习吧～
+ ## [UE设计技能树-U.S-KANO模型（下）](http://www.chanpin100.com/article/110392)
+ > 从实际运用角度，阐述如何使用kano模型分析法……
+ ## [UE设计技能树-U.S-KANO模型分析法](http://www.chanpin100.com/article/110391)
+ > 从概念角度举例分析了kano模型分析，方便用户理解认知。
+ ## [产品经理必掌握的基础算法](http://www.chanpin100.com/article/110389)
+ > 算法是一个相当不错的朋友，当你骄傲时让你冷静，当你自卑时给你信心，当你迷茫时给你方向。
+ ## [有这些特征的公司一般都要996](http://www.chanpin100.com/article/110384)
+ > 入职这些公司要慎重
+ ## [如何利用首页，进行流量转换](http://www.chanpin100.com/article/110383)
+ > 缺少发现美的眼睛
+ ## [反省](http://www.chanpin100.com/article/110382)
+ > 近期关于自己对生活、对学习、对工作这几种维度的思考。反省是每天要做的事，其实每天反思下，日后就会进步很多。
+ ## [苹果开发者账户申请及付费问题已解决！附上详细流程！](http://www.chanpin100.com/article/110380)
+ > 来自苹果官方！开发者付费难题解决办法！附上操作流程！
+ ## [资深程序员大喊，我不想努力了。在场所有人都笑了](http://www.chanpin100.com/article/110377)
+ > 更好的合作，提高工作效率。
+ ## [如何准备一场需求评审会](http://www.chanpin100.com/article/110372)
+ > 产品经理，你害怕开需求评审会吗？
  ## [生鲜电商生死路--呆萝卜历险记](http://www.chanpin100.com/article/110376)
  > 生鲜电商生死路，呆萝卜启示
  ## [Boss直聘产品分析报告](http://www.chanpin100.com/article/110385)
