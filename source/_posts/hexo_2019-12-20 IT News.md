@@ -1,21 +1,21 @@
 ---
 title: 2019-12-20 IT News
 copyright: true
-date: 2019-12-20 08:01:25
+date: 2019-12-20 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [本田Honda CONNECT迭代背后的中国逻辑](http://mp.weixin.qq.com/s?src=11&timestamp=1576798205&ver=2045&signature=B1-wp327F2I4ScFGDm1sqQGXff23jfbieGVdvCRj*7gMm5FPZBTbrw-XasteP4PHdfx-Y74YDg3EndQyyfrzU*KVTNngHG8Mn*F1-CfDjAZOX6WttOuAG2UMI*4GapeD&new=1)
- > 导语“一日本田，终身本田”，这是本田粉的口头禅。技术宅本田从VTEC到地球梦发动机，从“买发动机送车”再到无敌的i-MMD混动系统，本田每一项新技术革新都深入到粉丝的内心。而在如今全球汽车领域智能化、网联...
- ## [一个更开放的英伟达，将如何实现自动驾驶?](http://mp.weixin.qq.com/s?src=11&timestamp=1576798205&ver=2045&signature=5TBpOCMNqErLqU-UoH8vC90eTUvGlDUbMoDsB7EdpEmI824BK4N6WI1KeMdS1Vdk8QmzSIMEGoeKxIq0rdUXBnvV5Z3APwVyvVYP3T1Kw1sN*OvlY6-0dcaabL2ClrQq&new=1)
- > 朋友圈又扩大了自从 2016 年开始，GTC China 就成了 NVIDIA「皮衣教主」黄仁勋每年和中国市场沟通的重要平台。关注科技行业的人可能都知道，NVIDIA 是从显卡以及芯片起家。但在自动驾驶领域，NVIDIA 由于在软件...
- ## [5G覆盖全国可能要6年以后，4G与5G将长时间共存](http://mp.weixin.qq.com/s?src=11&timestamp=1576798205&ver=2045&signature=L8DYwwWvDgAHoobjUkTBCHQf7r5IRUgXFDWZT9lmwhr8amQrnx8jRrl4DiTdr7IW70o1gzAFjvw56QfllFk-XPu7*JP-Y5TiP0kQYCeAt7tqotFhD3iDtNc4PxEey92Z&new=1)
- > 工业和信息化部原部长、中国工业经济联合会会长李毅中在“看2020财经峰会”上表示5G覆盖全国需要600万基站，耗资最高1.5万亿元，预计覆盖全国要6-7年时间，如此4G与5G将共存相当长时间。华为今年宣传它的balong5...
- ## [暴风集团收关注函丨HTC证实新一轮裁员\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576798205&ver=2045&signature=o-T53*4nkotyGoSJs5*EY0kchReqwn*1bBCo7sp1ICe9ykCevJDLwEOk4LiZmb-1E09mLfdzs7AqccaQrAS4RkKYyuoxN6DmWBZN6zgR*xxWWL2aOZiRPGqR2JOxzn*i&new=1)
- > 12月19日丨周四【Do说】编辑 | 赵艾虎暴风集团收关注函暴风集团收深交所关注函，要求说明“风行网已收购暴风TV，双方目前正在做内容整合”的媒体报道是否属实，如是，补充披露股权收购或业务合作的具体情况。NAS...
- ## [从拍照到智能交互：摄像头进化三部曲](http://mp.weixin.qq.com/s?src=11&timestamp=1576798205&ver=2045&signature=V2E-Uc2Fyx4u4FJG4rhl-TxYieDnPMpbh92M47o5cvmiDgqKyU31WfQ01KZb9nW24Kvy7e96iVEIYFEurAIIm7scBcdVKD2aOKdNibfV9dc=&new=1)
+ ## [从拍照到智能交互：摄像头进化三部曲](http://mp.weixin.qq.com/s?src=11&timestamp=1576803604&ver=2045&signature=V2E-Uc2Fyx4u4FJG4rhl-TxYieDnPMpbh92M47o5cvm3yNBTJ-xfLRhYuJJ0qU9fru4ue-vagg4bu4-UWLh5uX0JPGE3lYhjEay5UGIVnis=&new=1)
  > 从 11 万像素的手机到最前沿的谷歌眼镜，从拍照到智能交互，摄像头在硬件和软件上的飞跃，已经远远超出了 15 年前第一台拍照手机面世时的想象。那个时候，手机只能打电话，而智能交互，只出现在科幻小说里。摄像...
+ ## [暴风集团收关注函丨HTC证实新一轮裁员\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1576803604&ver=2045&signature=o-T53*4nkotyGoSJs5*EY0kchReqwn*1bBCo7sp1ICftn*gOi3KdQ8PKVXYmia3Jdhoes88r0ZkNDlAi7ccuKSv7R-dZLTVZMaZlG0wIuXX8uqhQASrMRzbXg3b1ia6Y&new=1)
+ > 12月19日丨周四【Do说】编辑 | 赵艾虎暴风集团收关注函暴风集团收深交所关注函，要求说明“风行网已收购暴风TV，双方目前正在做内容整合”的媒体报道是否属实，如是，补充披露股权收购或业务合作的具体情况。NAS...
+ ## [一个更开放的英伟达，将如何实现自动驾驶?](http://mp.weixin.qq.com/s?src=11&timestamp=1576803604&ver=2045&signature=5TBpOCMNqErLqU-UoH8vC90eTUvGlDUbMoDsB7EdpEmE6cjBnBbBbavZl*JYOEmGAT68PKdN2adGYWGcxagJiKKqPQPVtcWEWW2XbJYYr8VdfpL*97qbOdmLHcyFJ45D&new=1)
+ > 朋友圈又扩大了自从 2016 年开始，GTC China 就成了 NVIDIA「皮衣教主」黄仁勋每年和中国市场沟通的重要平台。关注科技行业的人可能都知道，NVIDIA 是从显卡以及芯片起家。但在自动驾驶领域，NVIDIA 由于在软件...
+ ## [5G覆盖全国可能要6年以后，4G与5G将长时间共存](http://mp.weixin.qq.com/s?src=11&timestamp=1576803604&ver=2045&signature=L8DYwwWvDgAHoobjUkTBCHQf7r5IRUgXFDWZT9lmwhrHVODEsK1SDt22G5WuULR4yhPk4ib4Pn9WBE14f12t9wa7O7IwQM1NfmpnpoLJ7HKkHOqlqy1t0KI0fICdt2MB&new=1)
+ > 工业和信息化部原部长、中国工业经济联合会会长李毅中在“看2020财经峰会”上表示5G覆盖全国需要600万基站，耗资最高1.5万亿元，预计覆盖全国要6-7年时间，如此4G与5G将共存相当长时间。华为今年宣传它的balong5...
+ ## [本田Honda CONNECT迭代背后的中国逻辑](http://mp.weixin.qq.com/s?src=11&timestamp=1576803604&ver=2045&signature=B1-wp327F2I4ScFGDm1sqQGXff23jfbieGVdvCRj*7hBIenZAjYzFw4JQ-w-PVmHKwS6*1ljalMD*4YLIqgARGoKITR5XOVg1PUsIoJRxazPTyVr9Tihr8zarYB*uF42&new=1)
+ > 导语“一日本田，终身本田”，这是本田粉的口头禅。技术宅本田从VTEC到地球梦发动机，从“买发动机送车”再到无敌的i-MMD混动系统，本田每一项新技术革新都深入到粉丝的内心。而在如今全球汽车领域智能化、网联...
 # IT 技术 
  ## [2020年SD-WAN:值得关注的六大趋势](http://news.51cto.com/art/201912/608030.htm)
  > 2020年SD-WAN:值得关注的六大趋势
@@ -33,40 +33,50 @@ categories: IT NEWS
  > 2020年软件测试的五大趋势
  ## [五招监控云账号劫持活动](http://netsecurity.51cto.com/art/201912/607981.htm)
  > 五招监控云账号劫持活动
+ ## [在Linux上使用Ksnip注释截图](http://os.51cto.com/art/201912/608090.htm)
+ > 我最近从 MacOS 切换到了 Elementary OS，这是一个专注于易用性和隐私性的 Linux 发行版。作为用户体验设计
+ ## [2020年 我要这样写代码](http://developer.51cto.com/art/201912/608089.htm)
+ > 在 9102 年年初，一位室友问我一个问题，如何才能够提升写代码的能力?可惜的是: 当时仅仅回复了一些自己的
+ ## [PC 已死，云 PC 取而代之](http://biz.51cto.com/art/201912/608087.htm)
+ > ZDNet 的 Ed Bott 最近指出，十年前人们是如何预测 PC 的死亡的，只是为了表明台式 PC 仍然活着而且还很好
+ ## [微信放大招了 微信重磅新功能圈子体验](http://mobile.51cto.com/app-show-608088.htm)
+ > 微信早已经不是一个单纯的IM。从微信4.X开始，微信就附带有强烈的社交属性，“朋友圈”的加入令腾讯一举冲
+ ## [MySQL索引八大法则之上篇](http://database.51cto.com/art/201912/608085.htm)
+ > 索引优化的目的主要是让索引不失效，走正确的索引，今天主要分享的是最近整理的索引八大法则上篇，看完的话
  ## [2019年APT回顾与思考](http://netsecurity.51cto.com/art/201912/608084.htm)
  > 在这一年里，APT进行了哪些活动？我们可以从中学到什么？这不是一个容易回答的问题，因为研究人员对APT攻击
  ## [浅析Docker容器安全管控方法](http://zhuanlan.51cto.com/art/201912/608083.htm)
  > ，本文将对 Docker 容器生命周期的安全问题及相应的改善方法进行若干探讨，挂一漏万，抛砖引玉，希望各位读
  ## [“123456”连续七年霸榜，2019最糟糕密码榜单出炉](http://netsecurity.51cto.com/art/201912/608082.htm)
  > 又到年底，听说 SplashData 公布了2019年最烂密码榜单TOP 100，我都不用点开都能想到“123456”第一名稳如X
- ## [为啥国人偏爱Mybatis，而老外喜欢Hibernate/JPA呢？](https://blog.csdn.net/m0_37609579/article/details/102961765)
- > 
- ## [调用removeViewInternal、removeView 屏幕还是显示被删除界面 的解决方法和源码分析](https://blog.csdn.net/xx326664162/article/details/103616005)
- > 调用removeViewInternal、removeView 屏幕还是显示被删除界面 的解决方法和源码分析
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [一篇文章搞懂算法基础](https://blog.csdn.net/chenjianandiyi/article/details/103623962)
- > 一篇文章搞懂算法基础
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
- ## [Docker容器监控](https://blog.csdn.net/qq_36414013/article/details/103620475)
- > Docker容器监控
- ## [7分钟3个例子理解代理模式，面试多加29分](https://blog.csdn.net/vandavidchou/article/details/103568394)
- > 7分钟3个例子理解代理模式，面试多加29分
  ## [Dubbo操作流程与操作原理](https://blog.csdn.net/Riven666/article/details/103619178)
  > Dubbo操作流程与操作原理
- ## [Soft Labels for Ordinal Regression阅读笔记](https://blog.csdn.net/weixin_44529634/article/details/103621820)
- > Soft Labels for Ordinal Regression阅读笔记
- ## [Springboot集成App支付宝支付](https://blog.csdn.net/tanglin423/article/details/103615703)
- > Springboot集成App支付宝支付
- ## [吐血整理 Java笔试题知识点](https://blog.csdn.net/OliverND/article/details/103620645)
- > 吐血整理 Java笔试题知识点
- ## [Spark GraphX图计算实例](https://blog.csdn.net/qq_40579464/article/details/103622196)
- > Spark GraphX图计算实例
- ## [Gradle进阶：6:结合容器进行构建](https://blog.csdn.net/liumiaocn/article/details/103614201)
- > Gradle进阶：6:结合容器进行构建
- ## [2020年大前端发展趋势](https://blog.csdn.net/xiangzhihong8/article/details/103233487)
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [为啥国人偏爱Mybatis，而老外喜欢Hibernate/JPA呢？](https://blog.csdn.net/m0_37609579/article/details/102961765)
+ > 
+ ## [使用 scala 实现双向链表](https://blog.csdn.net/u012468376/article/details/103620840)
+ > 使用 scala 实现双向链表
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [数据库分库分表大全](https://blog.csdn.net/lj_1129/article/details/103613932)
+ > 数据库分库分表大全
+ ## [非递归求解迷宫所有路径问题遇到的BUG](https://blog.csdn.net/qq1060228856/article/details/103619353)
+ > 非递归求解迷宫所有路径问题遇到的BUG
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [手把手创建自己的数据集：类似cifar10数据结构的数据集](https://blog.csdn.net/weixin_40437821/article/details/103603700)
+ > 手把手创建自己的数据集：类似cifar10数据结构的数据集
+ ## [A Style-Based Generator Architecture for Generative Adversarial Networks 翻译1&2](https://blog.csdn.net/OpenSceneGraph/article/details/103619342)
+ > A Style-Based Generator Architecture for Generative Adversarial Networks 翻译1&amp;2
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [ElasticSearch 电商搜索实现](https://blog.csdn.net/mushang8923/article/details/103614738)
+ > ElasticSearch 电商搜索实现
+ ## [调用removeViewInternal、removeView 屏幕还是显示被删除界面 的解决方法和源码分析](https://blog.csdn.net/xx326664162/article/details/103616005)
+ > 调用removeViewInternal、removeView 屏幕还是显示被删除界面 的解决方法和源码分析
  ## [为开源做贡献，我们要做一次最具挑战的尝试！](https://blog.csdn.net/csdnnews/article/details/103620708)
  > 开源20年是本土参与极少的，无论在产业上，还是在治理上，均是几乎都是空白，至少截止到今天是这样一个客观现实。那么，这究竟是什么原因了呢？
  ## [还有 2 天，这场大咖云集的启智开发者大会即将启动！](https://blog.csdn.net/csdnnews/article/details/103626118)
@@ -87,37 +97,8 @@ categories: IT NEWS
  > 不知不觉间，2020 年即将于十几天之后到来，作为技术圈中你，准备好迎接最新的变化了吗？在本文中，我们将以编程界最常用的编程语言 Java 为例，分享最为主流的技术与工具。作者|di...
  ## [行！人工智能玩大了！程序员：太牛！你怎么看？](https://blog.csdn.net/csdnnews/article/details/103626116)
  > 人工智能真的玩大了吗？人工智能行业的人才真的“爆发了？”AI程序员究竟怎么样？中国AI前景分析程序员与远方最新参考，是12月2日出炉的《人工智能技术专利深度分析报告》。中国AI专利，已...
-# 人工智能 
- ## [Android小游戏 打地鼠](https://blog.csdn.net/xj531/article/details/80271761)
- > Android小游戏 打地鼠
- ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
- > android studio安装教程
- ## [android 表白APP（创意）](https://blog.csdn.net/qq_35628095/article/details/80455799)
- > android 表白APP（创意）
- ## [分享到微信列表、朋友圈、微信小程序，分享到qq、qq空间、分享qq小程序，分享到微博](https://blog.csdn.net/weixin_45248288/article/details/103579814)
- > 分享到微信列表、朋友圈、微信小程序，分享到qq、qq空间、分享qq小程序，分享到微博
- ## [Android自定义View——过滤表情等规则的EditText](https://blog.csdn.net/wangsf789/article/details/103585508)
- > Android自定义View——过滤表情等规则的EditText
- ## [蓝牙发送超过20个字节出错（BLE设备发送超过20个字节）](https://blog.csdn.net/baidu_40537062/article/details/103583923)
- > 蓝牙发送超过20个字节出错（BLE设备发送超过20个字节）
- ## [VS2019 Xamarin.Android开发蓝牙通讯](https://blog.csdn.net/qq_37290697/article/details/103601985)
- > VS2019 Xamarin.Android开发蓝牙通讯
- ## [ormlite-android-5.1.jar和ormlite-core-5.1.jar增删改查](https://blog.csdn.net/weixin_43409994/article/details/103586902)
- > ormlite-android-5.1.jar和ormlite-core-5.1.jar增删改查
- ## [Android 集成科大讯飞语音听写功能](https://blog.csdn.net/weixin_44554456/article/details/103593757)
- > Android 集成科大讯飞语音听写功能
- ## [Android评分RationBar控件](https://blog.csdn.net/qq_16592085/article/details/103603906)
- > Android评分RationBar控件
- ## [Android 常用路径的获取](https://blog.csdn.net/qq471208499/article/details/103591522)
- > Android 常用路径的获取
- ## [蚂蚁森林自动收能量](https://blog.csdn.net/SummerCloudXT/article/details/103591536)
- > 蚂蚁森林自动收能量
- ## [Android数据解析技术之JSONObject以及GSON应用实例](https://blog.csdn.net/qq_42432673/article/details/103578886)
- > Android数据解析技术之JSONObject以及GSON应用实例
- ## [axio深入实例以及配置](https://blog.csdn.net/qq_36521981/article/details/103584787)
- > axio深入实例以及配置
- ## [自学者安卓小设计——模仿朋友圈](https://blog.csdn.net/qq_44980268/article/details/103583976)
- > 自学者安卓小设计——模仿朋友圈
+ ## [2019年度盘点二丨共享单车监管趋严，试水电商失利，涨价不止](http://www.lanjingtmt.com/news/detail/45266.shtml)
+ > 作为监管层和用户层的关注焦点，（退）押金今年依然继续成为共享单车行业的关键词，但从整个行业来看，大部分企业已经告别押金继续前行。随着摩拜、ofo逐渐淡出视野，剩下的企业仍在继续探寻
 # PM 
  ## [产品经理周报第 96 期｜微信内测“商品橱窗”功能；搜狗发布名为“点点输入”的特殊输入法](http://www.woshipm.com/it/3232721.html)
  > 早上好呀，今天又是周五啦最近全国各地都在降温，有的地方已经开始下雪啦就连在广东的小编也开始穿上了棉袄子，大家记得注意添衣保暖哦那这周，互联网有发生什么事...
