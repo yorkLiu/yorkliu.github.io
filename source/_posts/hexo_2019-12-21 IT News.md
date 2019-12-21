@@ -1,17 +1,17 @@
 ---
 title: 2019-12-21 IT News
 copyright: true
-date: 2019-12-21 09:00:44
+date: 2019-12-21 10:02:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[行业前沿\]3D打印最新五大趋势，你都知道哪些?](http://mp.weixin.qq.com/s?src=11&timestamp=1576890005&ver=2046&signature=XjO1Z-aOQ8Vpw62Mqvs9f9yE0TjD-Sqap78QIzHwaUllG8NU9mBGYYJJTFV0BscM2gLBASc802YhmsGWkCCas2j1We3dE7oCUTEcX1*AmIRas**PwH7zKTEWiXO2b1am&new=1)
- > 精彩内容在过去的三十年中，我们看到3D打印从一种只能勉强打印基本几何形状的新生技术，发展成一项能够改变各个行业并挑战传统制造工艺的革命性技术。我们以三十年3D打印经验为基础，展望2020年定义行业的主题和...
- ## [天玑1000有多能打?-MediaTek高管系列访谈](http://mp.weixin.qq.com/s?src=11&timestamp=1576890005&ver=2046&signature=z1gfARsCYJBQ6cj2U8ERgnNRA3Qexkbpd*ZNHpErmYdKPjH-Q75bnlDNp8*2yvjrA66pVdqU3k9RN5FMPlJfZVXnyQ2y4OokT3D4RaPIy9KCFDWhxsLxT5WlYc-XWFgh&new=1)
- > 2019年末发布的天玑1000，被业界认为是MediaTek在5G时代重回高端战场的诚意之作。这颗夺得多项世界第一的芯片，究竟藏了多少黑科技？这期的访谈里，王自如将和MediaTek无线通信专家一起，详细剖析这颗被MediaTek...
- ## [5G还没来，2G和3G先死了](http://mp.weixin.qq.com/s?src=11&timestamp=1576890005&ver=2046&signature=TiHrkYpRSTew7WdIP*XGkyDGcBnYFMOyKoVojr3zW6uwhPJ9b5YMjV5WNhFuH870vTGKeDXWBMROWisxLse3Ssc9JdR*KJvcvy13Pq0eAfEixJIArsKRAeE1721bKA58&new=1)
+ ## [5G还没来，2G和3G先死了](http://mp.weixin.qq.com/s?src=11&timestamp=1576893605&ver=2046&signature=TiHrkYpRSTew7WdIP*XGkyDGcBnYFMOyKoVojr3zW6uwhPJ9b5YMjV5WNhFuH870n6o58516x2n9IIUV7NyfiUMXxf4Ebb4lmXGdxMVYlbDGlmXXEFmrjapplFWoAgbt&new=1)
  > 不知道大家有没有想过一个问题。在这个 4G 走入千家万户，5G 势如破竹的当下。曾经的 2G、3G 网，过得还好吗？前些天的一则消息，突然挑动了机哥的神经：电信要对 CDMA 痛下杀手了！简单总结上图：从 2020 年开...
+ ## [天玑1000有多能打?-MediaTek高管系列访谈](http://mp.weixin.qq.com/s?src=11&timestamp=1576893605&ver=2046&signature=z1gfARsCYJBQ6cj2U8ERgnNRA3Qexkbpd*ZNHpErmYdKPjH-Q75bnlDNp8*2yvjrdsAAD3sUJv330UoKZBr6ZrQYyIDy9v1FW*JITsL5cuB5FJmS9kSXtcK-8GNIHYxC&new=1)
+ > 2019年末发布的天玑1000，被业界认为是MediaTek在5G时代重回高端战场的诚意之作。这颗夺得多项世界第一的芯片，究竟藏了多少黑科技？这期的访谈里，王自如将和MediaTek无线通信专家一起，详细剖析这颗被MediaTek...
+ ## [\[行业前沿\]3D打印最新五大趋势，你都知道哪些?](http://mp.weixin.qq.com/s?src=11&timestamp=1576893605&ver=2046&signature=XjO1Z-aOQ8Vpw62Mqvs9f9yE0TjD-Sqap78QIzHwaUllG8NU9mBGYYJJTFV0BscMhE6GFSk3OsJqCs8vIo8K-lYakQTCkiRVuFXhnfWMXrA13FkNVkg4XHN0kCd3s7He&new=1)
+ > 精彩内容在过去的三十年中，我们看到3D打印从一种只能勉强打印基本几何形状的新生技术，发展成一项能够改变各个行业并挑战传统制造工艺的革命性技术。我们以三十年3D打印经验为基础，展望2020年定义行业的主题和...
 # IT 技术 
  ## [使用这8款工具将微服务部署在Azure上](http://developer.51cto.com/art/201912/608108.htm)
  > 使用这8款工具将微服务部署在Azure上
@@ -74,37 +74,45 @@ categories: IT NEWS
  ## [程序员一年稳赚50w，却被群嘲只造改bug！TA说：2020年我的愿望是........](https://blog.csdn.net/csdnnews/article/details/103640745)
  > 2020年，我的愿望是升职加薪奔小康！哈哈哈哈最近，笔者在经常后台看到小伙伴留言在问，想学Python，但不知道如何入门？其实对于这个问题，真是仁者见仁智者见智。有句老话说的好“一千个读...
 # 人工智能 
- ## [Spring Boot从入门到放弃-全局异常处理器](https://blog.csdn.net/qq_37857921/article/details/103594394)
- > Spring Boot从入门到放弃-全局异常处理器
- ## [RabbitMq基础入门,使用IDEA+Springboot+RabbitMq实现延时队列--取消超时订单](https://blog.csdn.net/weixin_44951037/article/details/103611021)
- > RabbitMq基础入门,使用IDEA+Springboot+RabbitMq实现延时队列--取消超时订单
- ## [使用这些高效Java工具类享受开发乐趣](https://blog.csdn.net/weixin_45124488/article/details/103577050)
- > 使用这些高效Java工具类享受开发乐趣
- ## [Spring Boot 学习（1）初识Spring Boot](https://blog.csdn.net/weixin_43570367/article/details/103586170)
- > Spring Boot 学习（1）初识Spring Boot
- ## [Springboot中@Value的使用](https://blog.csdn.net/qq_34928194/article/details/103603106)
- > Springboot中@Value的使用
- ## [深入java8的集合1：ArrayList的实现原理](https://blog.csdn.net/weixin_42694887/article/details/103574257)
- > 深入java8的集合1：ArrayList的实现原理
- ## [Java优雅编码（持续更新）](https://blog.csdn.net/jichao138168/article/details/103609318)
- > Java优雅编码（持续更新）
- ## [Spring 学习，看松哥这一篇万余字干货就够了！](https://blog.csdn.net/u012702547/article/details/103574899)
+ ## [攻防世界新手题（PWN——level0）](https://blog.csdn.net/weixin_43713800/article/details/103607077)
+ > 攻防世界新手题（PWN——level0）
+ ## [Java类文件加密、类文件保护](https://blog.csdn.net/ziqidonglai66/article/details/103597838)
+ > Java类文件加密、类文件保护
+ ## [信息安全学习（不断更新），希望可以坚持下去。](https://blog.csdn.net/sun8890446/article/details/95322010)
+ > 信息安全学习（不断更新），希望可以坚持下去。
+ ## [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://blog.csdn.net/qq_35190492/article/details/102889333)
  > 
- ## [RabbitMQ基础入门--SpringBoot + RabbitMQ 实现延时队列](https://blog.csdn.net/wl921/article/details/103614794)
- > RabbitMQ基础入门--SpringBoot + RabbitMQ 实现延时队列
- ## [java生成图片验证码](https://blog.csdn.net/linyuguang666/article/details/103570368)
- > java生成图片验证码
- ## [炉石传说 开包模拟器 Java](https://blog.csdn.net/weixin_42216393/article/details/103599020)
- > 炉石传说 开包模拟器 Java
- ## [SpringBoot+RabbitMQ实现延时队列](https://blog.csdn.net/weixin_44990033/article/details/103616093)
- > SpringBoot+RabbitMQ实现延时队列
- ## [SpringBoot之【mybatisplus】快速上手](https://blog.csdn.net/qq_39846820/article/details/103595702)
- > SpringBoot之【mybatisplus】快速上手
- ## [Java基础-线程（进程、创建、方法、synchronized并发）-详细学习笔记](https://blog.csdn.net/JunSIrhl/article/details/103605069)
- > Java基础-线程（进程、创建、方法、synchronized并发）-详细学习笔记
- ## [RabbitMQ延时队列](https://blog.csdn.net/IT_liangchaowei/article/details/103615114)
- > RabbitMQ延时队列
+ ## [网络安全实验室-基础关-WP](https://blog.csdn.net/weixin_45369385/article/details/103590205)
+ > 网络安全实验室-基础关-WP
+ ## [Apache网页与安全优化—防盗链](https://blog.csdn.net/weixin_45682995/article/details/103600946)
+ > Apache网页与安全优化—防盗链
+ ## [MySQL在Windows上的安装及配置](https://blog.csdn.net/ACE_GJH/article/details/103620018)
+ > MySQL在Windows上的安装及配置
+ ## [NRF51822蓝牙服务（8）——动态密码配对](https://blog.csdn.net/SammySum/article/details/103602599)
+ > NRF51822蓝牙服务（8）——动态密码配对
+ ## [https://b23.tv/av...【相关研究】](https://blog.csdn.net/Enderman_xiaohei/article/details/103613549)
+ > https://b23.tv/av...【相关研究】
+ ## [HCNA练习拓扑](https://blog.csdn.net/gangplankav8d/article/details/103610427)
+ > HCNA练习拓扑
+ ## [腾讯云Linux服务器SSH密码正确但有时能登录有时不能登录，提示“Access denied”的问题](https://blog.csdn.net/j326214730/article/details/103600433)
+ > 腾讯云Linux服务器SSH密码正确但有时能登录有时不能登录，提示“Access denied”的问题
+ ## [HashMap知识总结](https://blog.csdn.net/pic_good_life/article/details/103598915)
+ > HashMap知识总结
+ ## [阿里云ACA试题-云安全典型题19道](https://blog.csdn.net/qq_43303887/article/details/94602516)
+ > 阿里云ACA试题-云安全典型题19道
+ ## [JUC（二）——深入理解锁机制](https://blog.csdn.net/qq_41939020/article/details/103609086)
+ > JUC（二）——深入理解锁机制
+ ## [php使用最新qq企业邮箱smtp服务发送邮件需要开启ssl、开启客户端专用密码](https://blog.csdn.net/eclothy/article/details/103612782)
+ > php使用最新qq企业邮箱smtp服务发送邮件需要开启ssl、开启客户端专用密码
 # PM 
+ ## [互联网“新知”风口：小而美的知识满足](http://www.woshipm.com/it/3226288.html)
+ > 小而美的知识满足，价值消费正成为全局用户的新共识。根据企鹅智库发布的数据，视频在资讯用户的渗透率接近3/4，视频资讯在其每天资讯消费的占比超过半数的用户达到45...
+ ## [后流量时代，垂直类APP如何零基础探索产品商业化](http://www.woshipm.com/pmd/3236594.html)
+ > 过往的两个月时间，在UGC业务进入轨道以后，我被抽调到一个新的业务线，带领小组实现产品的商业化探索，也就是俗称：盈利，变现。从原本的强调用户体验到强调ROI、CPM等...
+ ## [设计管理的核心价值与关键要务](http://www.woshipm.com/pd/3236843.html)
+ > 笔者为我们分析了产品生命周期两个阶段的核心价值导向，认清关键要务的存在，避免被事情牵着鼻子走。在做设计管理的过程中，经常会遇到两个关键词，一个叫核心价值、...
+ ## [B端产品形态的闭环设计](http://www.woshipm.com/pd/3236758.html)
+ > 作为产品经理，一定要清楚产品的业务形态，它将帮助你分析和做好一款产品，避免以后陷入持续“填坑”的尴尬处境。因此本文针对展开了分析说明，希望对你有所帮助。01 了...
  ## [不做产品经理了，能去做什么？](http://www.chanpin100.com/article/110401)
  > 那么真到了不能再做产品经理的时候，那我们能去做什么？该怎么办？顺着下面的问题，你也许能找到自己的答案。
  ## [产品经理都应该读的一本书](http://www.chanpin100.com/article/110398)
