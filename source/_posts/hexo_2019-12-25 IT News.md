@@ -1,7 +1,7 @@
 ---
 title: 2019-12-25 IT News
 copyright: true
-date: 2019-12-25 10:00:52
+date: 2019-12-25 12:02:05
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,95 +67,91 @@ Line&#19982;&#38597;&#34382;&#26085;&#26412;&#31614;&#35746;&#21512;&#24182;&#21
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [报名突破200人!2020年讯石“创芯时代”邳州论坛暨年度总结大会火热报名中!](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=AyLyYfa0sqNfx65Inu33XKzXKGqt2uzF1aquAAr5*9VVQcssto47f7TwBMqlJUuaTr5Ar-GW*OUZrpLGF8CrHno4YTXqimN-0b2sf29rP7l9vr8UCLB5*XuyoUNUgQSJ&new=1)
- > 导读     2020年1月4日，《2020年讯石“创芯时代”邳州论坛暨年度总结大会》即将举办。截至24日，超过75家企业申请参会，报名人数突破200人。大会火热报名中，欢迎关注！        白驹过隙，时光荏苒!转眼间21世...
- ## [\[科技早报7点整\]支付宝、游戏账号等成90后新遗产 英媒称AI或助人类逆转衰老……](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=2PC1IhOWjFvixueGzhW-X-AeFRbaZ9FDpg7hou9zhNKSDSny94SRUo0YcpKOm-BlTF7W7SJ5BeBDepQjQ76RcmKdhm*mHgY2DEqN8oOdqfYO4gjgSdI5KWb63HtUicG*&new=1)
- > 早上好，科技圈【一度蜜科技早报】第682期1.支付宝、游戏账号等成90后新遗产，继承人多为父母 最近，一名90后将自己的支付宝、游戏账号等数字财产写入遗嘱，引发热议。数据显示，截至今年8月底，90后立遗嘱的人...
- ## [刚刚，广电获发192号段，联通获发196号段](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=LJRPsBCrwFRCaPZsSHDJ6Kk5DlMEjn9zDi4HYcSUlwABwLnd-k4K2HlTZeeOcswE4NiidvpNUYO-JfMO5WVu4-wud88xzF5IK1POEJo98fxlzMQs5lKDiOTsRdfmClDv&new=1)
- > 为加快5G商用步伐，切实促进我国公众移动通信市场持续健康发展，依据《中华人民共和国电信条例》《电信网码号资源管理办法》等有关法规规章，工业和信息化部将于近期分别向中国电信集团有限公司、中国移动通信集...
- ## [西媒盘点未来十年或改变世界的十件事：疯狂程度不逊20世纪](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUlEL9Z0uLQ-q0uu6sx6M3yfTnSeferoAYWqNQobJLxajndwP7iy7pdEDKqCcye0Et8=&new=1)
+ ## [苹果再砸1000万保护用户隐私，谁发现漏洞奖励谁](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=VNTtcnb1pfcdaDXFOLHRXCCD4juEiAqL3*r0splGOgwCzOLMVLGFvO2zUIKM-5mjCZUWZFHI0m*5Mvg5jYWwhzOWXJ0HQuan-KOyYnea0QIJTPBBAB1vyRaXTmMyOmiu&new=1)
+ > 忘了从什么时候开始，我们的行为已经被大数据掌握了。比较直观感受的是你总能接收到一些精准推送的广告信息，不管你是在百度或其他有搜索引擎的平台搜索过什么，你再打开微信、京东、苏宁等APP，广告就会给你推...
+ ## [\[报告\]2019年中国城市绿色配送行业研究(附95页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=AT7BBE8yE9vrZG6AYfzf0bwgD84RC1uTQdKux2VfqijnWbeUOnA-VywwyFLSof6Q3tLjsGqVSELJjvoX1J0qpsGu*TkP5ara9ftQ5B6u*IjJBxf4dNP9zBetmQ8gR2aQ&new=1)
+ > 日前，2019年12月19日-20日，由交通运输部规划研究院和中物联物流装备委员会联合举办的2019年城市绿色货运配送示范工程交流研讨会暨第三届城市新能源物流车应用发展研讨会在南京顺利召开。为了更深入展现新能源...
+ ## [应用金属3D打印，零件值得被重新设计](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=CYI1YwMjAxJ5EVOh353NGG1z9YDDosgO4UG7WAuUrVlJGpBgrEBRmodz3S0Ts8ThNcqk1frjTUQSHDE1h801DZ9XHVrV72blz89dEl3bzts6CNS5S46zNDljnCe0BsmZ&new=1)
+ > 关注南极熊，知晓3D打印天下事随着越来越多制造厂商认识到金属增材制造 (AM) 工艺相比于传统设计和制造技术的优势，专业的金属增材制造服务市场迅速发展起来。3D Metalforge是一家新兴的增材制造企业，致力于为...
+ ## [自曝遭受网络攻击!美国阿拉斯加拉文航空公司取消航班](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=sk4V119gYwll4X9D0LAewlS9yZxUgMt0z7JP6Y2LYHW052rjyqdR4*fJ99rgto4is*F6fWauK67lHt143EfqgSVLm-H5YPCKmnKC2J2BKs0Yt4LPUvH0vtJmuIe6cd7Q&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com近日，美国阿拉斯加拉文航空 RavnAir宣布，公司计算机网络遭受恶意攻击，导致其在假日出行高峰期间，取消了至少六次航班。该公司发言人Debbie Reinwand表示，...
+ ## [入选十大年度榜样品牌，中国移动为什么“能”?](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=audKx**dyukVGyaYPTBVVSOTai3VGlvTDjo*maqSWumO5ZOOzz6X5Tao0jZZ8NJ92o7hrdvs9WAlrEfHVp9N7tltkpfZS3bcM5Ky4ct2G8E=&new=1)
+ > 品牌是企业的重要资产，是企业发展水平的重要体现。中央广播电视总台2019中国品牌强国盛典发布了“十大年度榜样品牌”，中国移动成功入选。我国有注册商标超过1800万个，从浩如烟海的同行者中脱颖而出，中国...
+ ## [俄罗斯成功断开互联网](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=neGeTITjA2GpJlCqTYjOiWvTdcihajZ9-Gy7EvKx6HvjPNeXw830qosnbaIxS8DYTb4er9H1ukDJe*XD9*22lACbnKYQ3*7O-xX91oY4yGLs*xKE2v4Vn-V5uUChVyK7&new=1)
+ > 据俄罗斯政府声称，RuNet断网测试很成功。 俄罗斯政府周一宣布，它已完成了一系列测试，测试期间使该国成功地断开全球互联网。测试从上周开始进行了多天，涉及俄罗斯政府机构、本地互联网服务提供商以及俄罗斯本...
+ ## [西媒盘点未来十年或改变世界的十件事：疯狂程度不逊20世纪](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUmWNwrRTVNYT01Q*EN4sgZStcjRBSxS7mEfzcjamsUn6bNKfvSAwO5zRmD6BC217Hk=&new=1)
  > 参考消息网12月23日报道 西班牙《国家报》网站12月21日发表文章盘点了未来十年可能发生的十件事：跟银行说再见、手表里的医生、无人驾驶、量子计算机、增强现实影院……文章称，如果以下预测得以实现，那么21世...
- ## [7点见|王思聪限制消费令已撤销；工信部核发4个新手机号段；华为辟谣将发布石墨烯电池手机](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=LqgL*enKtABgVIx6FHatATkZ9UzyemMLVNy2yLW0Whn8UCM94flR73NnkRbgP*ZI2e07u9UIxNzsFOvD5THVQEV3B-*G6xTd9Weii8qkpcMIfDJXWP2JNx78v*MZkobl&new=1)
+ ## [报名突破200人!2020年讯石“创芯时代”邳州论坛暨年度总结大会火热报名中!](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=AyLyYfa0sqNfx65Inu33XKzXKGqt2uzF1aquAAr5*9UCq9LYllNNYcDC8kMPcqTFDivF3JE7*3tY15Sau6fXx6vhVazq0BS-5vtiOQbqmGeM8GfBnNwYfkuPlOxlTslF&new=1)
+ > 导读     2020年1月4日，《2020年讯石“创芯时代”邳州论坛暨年度总结大会》即将举办。截至24日，超过75家企业申请参会，报名人数突破200人。大会火热报名中，欢迎关注！        白驹过隙，时光荏苒!转眼间21世...
+ ## [\[科技早报7点整\]支付宝、游戏账号等成90后新遗产 英媒称AI或助人类逆转衰老……](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=2PC1IhOWjFvixueGzhW-X-AeFRbaZ9FDpg7hou9zhNJm2oerGLEIkngyaWgHm7qRGutwZ2s-Ww34n8QWII4nFi2kkyVtEz2Kfy*8pmkL61k9G1YbgvCRJAppw-rbcapP&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第682期1.支付宝、游戏账号等成90后新遗产，继承人多为父母 最近，一名90后将自己的支付宝、游戏账号等数字财产写入遗嘱，引发热议。数据显示，截至今年8月底，90后立遗嘱的人...
+ ## [刚刚，广电获发192号段，联通获发196号段](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=LJRPsBCrwFRCaPZsSHDJ6Kk5DlMEjn9zDi4HYcSUlwC3xpEr3I84HrBwQ0yreShbNjqCRghD9mT6JesfiOUTl*3SxBUJm54S1xjJNGaiIsUE4fCcECqlLWRsOjjRcpUm&new=1)
+ > 为加快5G商用步伐，切实促进我国公众移动通信市场持续健康发展，依据《中华人民共和国电信条例》《电信网码号资源管理办法》等有关法规规章，工业和信息化部将于近期分别向中国电信集团有限公司、中国移动通信集...
+ ## [7点见|王思聪限制消费令已撤销；工信部核发4个新手机号段；华为辟谣将发布石墨烯电池手机](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=LqgL*enKtABgVIx6FHatATkZ9UzyemMLVNy2yLW0Whlf7cuqE872N5S73ZdDp7LR*MqdRY0WR*mmIgEhwRaI0gmYhMNZ0XRxs5F7J2AOE7jhRciIt5m56uLXuViFENaY&new=1)
  > 各位小伙伴们，早上好呀！近日，电影《中国女排》的预告片释出了，电影将再现新一代女排队员从被挖掘到重夺奥运冠军的激动瞬间。朱婷本人将本色出演剧中的朱婷，小伙伴们期待吗？ok，接下来是今天的早报时间！上...
- ## [走进河北广播电视台：天翼云+5G让传统媒体实现突破!](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=HffiTbj5uo0PJtBZhpXYpBoQQHA2cIzyMhcoKjO1d0o9ZU088OSxQOxnlk6Si-AETob9SH*xwn-uAQtxzSmbysU1TcJjjwPCjXRsRdjqPL7SW4h7JowYq-ai6SihwVTz&new=1)
+ ## [走进河北广播电视台：天翼云+5G让传统媒体实现突破!](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=HffiTbj5uo0PJtBZhpXYpBoQQHA2cIzyMhcoKjO1d0ploroeUooIlsNcehT5ff5jrDo51AVC437CZhksMgAR7bfRXpcjRM6818P-laj*NfvwQPk3u*Uj0tTeN1XFhfbO&new=1)
  > 当前，消费者用手机观看影视剧、娱乐节目等已成常态，大大减少了开电视频率。这让传统电视台收视率不断下降。随着5G+云+AI时代的到来，VR等新的获得信息途径出现，使得节目制作以及观看习惯再次发生变化。 在新...
- ## [德媒解析：德国“工业4.0”为何步履维艰](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUn71gpJeagVZFai-dBpdT232pFdMXsoOe*P9AMmHgg2bJaBdRGMW0sfzghr1pnXgrQ=&new=1)
+ ## [德媒解析：德国“工业4.0”为何步履维艰](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUkgrAAf9B5t3J-aZMcOlujQTWSIPEnxAsE5tFN6FwTct3J95gv4lrvcWiy5VXEWJiU=&new=1)
  > 参考消息网12月23日报道 德媒称，当前，德国“工业4.0”要想在广泛领域取得突破，仍然存在许多障碍。德国《商报》12月19日刊发了该报慕尼黑编辑部主任阿克塞尔·赫普纳的一篇文章。文章称，这是德国工业界最雄心...
- ## [物联网十大企业，你都了解吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=KeDehvBC12oX95DfKO8AIK*d*TMlqmKpEf5CsT*UU14uiKjijIKrUVgROIwnQfnMYnWZMD8r*4cWAaouYQHmqwQltQUFW1Y68q1PqrEafV6AlctLJ1836AgNEUu4HinQ&new=1)
+ ## [物联网十大企业，你都了解吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=KeDehvBC12oX95DfKO8AIK*d*TMlqmKpEf5CsT*UU16D-x42-Vw6wX8mjpDKIJ4SANsnhzgq0SIdvtmyJYWVdmmdFIK1UvADYaIaN5YTZ04ySCTnJIfbk1u6GgvlElnF&new=1)
  > 物联网作为全新的连接方式，近年来呈现突飞猛进的发展态势。小米集团董事长兼CEO雷军表示，物联网的大规模应用与新一轮科技与产业变革融合发展，预计2022年，中国物联网行业市场规模将超7.24万亿元。据统计，201...
- ## [热烈欢迎维示泰克技术有限公司入驻深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=IC8RJOSyfNC93vTd71T2tRrWVkBZQKaa2Y2UUw-p9ta4Pr1mXZNnKUiYCl3AdbOraW5FcXsLieUC7NVOgLEKuf0ylli0ZEmYAgi6HaH5FNJjbtt*Y4hfsZD9g8cmWSuQ&new=1)
+ ## [热烈欢迎维示泰克技术有限公司入驻深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=IC8RJOSyfNC93vTd71T2tRrWVkBZQKaa2Y2UUw-p9tYnpbFHZmscPzSJkz5DMFFChd06egczjJ-wgjHG9ncJk*fHjKv2S9dEriPZYw*MkomR34NIdAmo4u1vfzLwN71l&new=1)
  > 深圳维示泰克技术有限公司（Weistek）成立于2011年5月，以帮助每一个人实现“随心创意、自由表达”为理念，专注于高速桌面3D打印机、3D打印材料、3D打印创做教育平台的研发和应用普及，是全球十大桌面3D打印机品...
- ## [SpaceX完成降落伞测试丨Facebook丢失2.67亿用户数据\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=WHGYUACmRwGjXDD7XWoxNlk56t2rakZ4RP2CKl8twT2jhCXijgca3giQruR5woAaJx3M5JmFPBQvabncO6ae7SmsR4KCLWfEUgy0vDyGnEbBaGyngCEWppc8O*xdjjcz&new=1)
+ ## [SpaceX完成降落伞测试丨Facebook丢失2.67亿用户数据\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=WHGYUACmRwGjXDD7XWoxNlk56t2rakZ4RP2CKl8twT01AXvRGXBWOOpDPBHmHm3e63n43T1l3H71jJAt*iAxpxBFlYhbiB5dkczvXBwrMPyPQhPmNtq65DslmHFUbBEr&new=1)
  > 12月24日丨周二【Do说】编辑 | 赵艾虎SpaceX完成降落伞测试，离载人飞行更近一步埃隆·马斯克(Elon Musk)旗下的美国太空探索技术公司SpaceX今天宣布，美国时间12月22日，公司已连续第十次成功完成降落伞系统的测...
- ## [IBM宣称：电池研发取得新突破——](http://mp.weixin.qq.com/s?src=11&timestamp=1577237406&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUn5QLQJ5WX6*OICBnPmtOhf9A0L*IkPMjVXlu3B-lTs7d3Dl72eNGPsX6pCl3DVFHQ=&new=1)
+ ## [IBM宣称：电池研发取得新突破——](http://mp.weixin.qq.com/s?src=11&timestamp=1577244605&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUnAym2d9qCjWmfvz5L3yhNrR4Bm2LCUtkWAmE*US5g6G*OdWLEt3qZtOYOZ3WD3J6c=&new=1)
  > 参考消息网12月23日报道 台媒称，美国科技公司IBM宣称已研发出一种电池设计，采用从海水萃取而成的材料，无需使用成本高昂的钴，为迫切寻找替代矿物原料的企业带来好消息。据台湾《经济日报》12月20日报道，IBM...
 # IT 技术 
- ## [7个令人兴奋的JavaScript新特性](http://developer.51cto.com/art/201912/608339.htm)
- > 7个令人兴奋的JavaScript新特性
- ## [过去十年的九项优秀开源创新](http://os.51cto.com/art/201912/608337.htm)
- > 过去十年的九项优秀开源创新
- ## [苏宁砍价团高可用、高并发架构实践](http://developer.51cto.com/art/201912/608271.htm)
- > 苏宁砍价团高可用、高并发架构实践
- ## [波士顿动力CEO：不排斥军方订单，就想你粗暴地对待机器狗](http://news.51cto.com/art/201912/608270.htm)
- > 波士顿动力CEO：不排斥军方订单，就想你粗暴地对待机器狗
- ## [Kubernetes如何改变了混合云的面貌？](http://cloud.51cto.com/art/201912/608247.htm)
- > Kubernetes如何改变了混合云的面貌？
- ## [2020年网络安全趋势：值得关注的9个威胁](http://netsecurity.51cto.com/art/201912/608283.htm)
- > 2020年网络安全趋势：值得关注的9个威胁
- ## [变大、变大、再变大：长此以往，AI研究是死路一条？](http://zhuanlan.51cto.com/art/201912/608304.htm)
- > 变大、变大、再变大：长此以往，AI研究是死路一条？
- ## [Gartner高级研究总监陈勇：数字化成为业务常态，CIO如何帮助企业赢在拐点](http://news.51cto.com/art/201912/608244.htm)
- > Gartner高级研究总监陈勇：数字化成为业务常态，CIO如何帮助企业赢在拐点
- ## [高并发性能测试，IT人员必备技能](http://news.51cto.com/art/201912/608364.htm)
- > 创建多个并发线程、模拟多个访问者同时对某一URL进行访问,可对任何基于url的资源进行并发性能测试.
- ## [以Docker为代表的传统容器到了生死存亡之际](http://news.51cto.com/art/201912/608361.htm)
- > 当云原生将容器技术作为下一代云计算的基础之一时，并不意味着容器本身停止了演化。事实上，以 Docker 为代
- ## [美国5G出新招，欲借Open RAN翻身](http://network.51cto.com/art/201912/608358.htm)
- > 英国《金融时报》报道，五角大楼正在敦促美国电信设备商携手合作，共同开发5G技术。美国国防部研发主管已要
- ## [2019 年 10 大优秀 Python 支持库](http://developer.51cto.com/art/201912/608359.htm)
- > 欢迎回来，这是我们第五次推出年度优秀 Python 支持库榜单。在这里，我们列出了隐匿于开源世界里的瑰宝，既
- ## [HTTPS 灵魂三拷问：你一定看得懂的原理解析](http://netsecurity.51cto.com/art/201912/608357.htm)
- > 随着 HTTPS 建站的成本下降，现在大部分的网站都已经开始用上 HTTPS 协议。
- ## [Spring Cloud 2020 年路线图](http://news.51cto.com/art/201912/608360.htm)
- > Spring Cloud 开发团队公布了 Spring Cloud 2020 年的路线图，并对 Spring Cloud Greenwich 和 Hoxton 的生
- ## [5G协议总体介绍，值得收藏！](http://network.51cto.com/art/201912/608356.htm)
- > 5G NR相关的技术规范，自然是3GPP定义的。这个系统设计从手机到基站的方方面面，内容庞大而复杂。
- ## [620家竞争对手，百亿美元市场，物联网平台仍在“大洗牌”阶段|IoT Analytics最新报告](http://iot.51cto.com/art/201912/608355.htm)
- > 近日，专注于物联网、M2M和工业4.0领域的知名市场研究机构IoT Analytics对物联网平台报告进行了更新，发布
- ## [2019改变网络安全市场格局的十大并购案](http://zhuanlan.51cto.com/art/201912/608354.htm)
- > 安全牛根据影响力、代表性和并购规模，梳理择选出对未来几年网络安全市场发展产生重大影响的年度十大并购案
- ## [物联网十大技术，你了解吗？](http://iot.51cto.com/art/201912/608352.htm)
- > 对于物联网产业的从业人士而言，在物联网领域中却不得不了解十个关键词，通过这十个关键词，从而能更好的构
+ ## [2020年数据存储的几大发展趋势](http://stor.51cto.com/art/201912/608384.htm)
+ > 专家预测，未来一年发展趋势和技术进步可能会对数据存储市场产生重大影响。随着存储行业专家对2020年的展望
+ ## [面试官：负载均衡的算法你了解不？](http://developer.51cto.com/art/201912/608383.htm)
+ > 上一篇文章我讲了关于负载均衡的三种算法，轮询法，随机法，最小连接法，这三种负载均衡的算法，但是关于负
+ ## [谨防Python攻破电脑桌面](http://developer.51cto.com/art/201912/608381.htm)
+ > 如何才能看一个人的桌面呢，都说Python很厉害，就来做一个利用移动端访问电脑来查看电脑的界面的神器！
+ ## [企业计算基础设施的混合](http://cloud.51cto.com/art/201912/608380.htm)
+ > 在信息技术领域，混合云（或云计算基础设施）被定义为内部互连、共享和云资源，同时使用集体资源。
+ ## [5G已至，边缘数据中心基础设施风向哪吹？](http://server.51cto.com/Datacenter-608379.htm)
+ > 5G时代，在网络边缘部署服务器节点，就近提供高效、智能的计算、存储和网络资源，成为最有效的解决方案。
+ ## [2020年的数据安全：更好地处理暗数据](http://netsecurity.51cto.com/art/201912/608378.htm)
+ > 如今，各行业厂商都在处理和存储海量数据，而研究表明，全球数据总量每两年翻一番，2013年达到4.4ZB，而到2
+ ## [保险行业云计算标准发布](http://cloud.51cto.com/art/201912/608376.htm)
+ > 日前，中国保险行业协会联合中国通信标准化协会在京正式发布《保险行业云计算场景和总体框架》、《保险行业
+ ## [2019年部分IT人员的年终奖将被互联网泡沫冲掉](http://news.51cto.com/art/201912/608375.htm)
+ > 前两日，腾讯给云计算团队成员每人发了苹果11手机，燃爆了整个IT行业。其他公司还一直都沉默着……
+ ## [PySpark源码解析，教你用Python调用高效Scala接口，搞定大规模数据分析](http://news.51cto.com/art/201912/608377.htm)
+ > 相较于Scala语言而言，Python具有其独有的优势及广泛应用性，因此Spark也推出了PySpark，在框架上提供了利
+ ## [如何通过人工智能和大数据改变客户之旅](http://ai.51cto.com/art/201912/608373.htm)
+ > 人工智能在许多领域都很重要。它允许领导者和创新者探索并达到新的竞争优势水平，为企业和客户节省成本和时
  ## [【搞定 Java 并发面试】面试最常问的 Java 并发基础常见面试题总结！](https://blog.csdn.net/qq_34337272/article/details/103205981)
  > 
  ## [2019工程伦理慕课答案（2019秋）习题及期末答案](https://blog.csdn.net/qq_41082953/article/details/102978337)
  > 2019工程伦理慕课答案（2019秋）习题及期末答案
  ## [解读！10篇人机交互领域高引论文合集](https://blog.csdn.net/AMiner2006/article/details/103015167)
  > 
- ## [Apache和nginx实现动静分离](https://blog.csdn.net/double_happy111/article/details/103684230)
- > Apache和nginx实现动静分离
+ ## [Python学习之路 （第二天） 爬虫简单实现小结](https://blog.csdn.net/weixin_38422258/article/details/103688643)
+ > Python学习之路 （第二天） 爬虫简单实现小结
+ ## [HTML+CSS制作二级菜单栏](https://blog.csdn.net/weixin_36732046/article/details/103682337)
+ > HTML+CSS制作二级菜单栏
+ ## [数据预处理总结 Python](https://blog.csdn.net/LL_QQ63/article/details/103687164)
+ > 数据预处理总结 Python
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
  ## [《吊打面试官》系列-Redis基础知识](https://blog.csdn.net/qq_35190492/article/details/102841400)
  > 
- ## [数据结构&&课程设计&&哈夫曼编译码器](https://blog.csdn.net/weixin_44110581/article/details/103685016)
- > 数据结构&amp;&amp;课程设计&amp;&amp;哈夫曼编译码器
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [京东大数据研究院首席数据官刘晖：聚焦银发经济，2019中老年线上消费趋势！](https://blog.csdn.net/AgeClub/article/details/103688278)
- > 京东大数据研究院首席数据官刘晖：聚焦银发经济，2019中老年线上消费趋势！
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [论文读不懂怎么办？](https://blog.csdn.net/nkwshuyi/article/details/102927220)
  > 
+ ## [\[数据结构与算法-理论\]二分查找](https://blog.csdn.net/sougou_1323/article/details/103685932)
+ > \[数据结构与算法-理论\]二分查找
+ ## [论文解读：Deep Image Prior](https://blog.csdn.net/shinian1987/article/details/103641148)
+ > 论文解读：Deep Image Prior
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
- ## [Python爬虫实战——反爬机制的解决策略【阿里】](https://blog.csdn.net/WoLykos/article/details/103684209)
- > Python爬虫实战——反爬机制的解决策略【阿里】
- ## [Resources与AssetBundle的无缝切换加载](https://blog.csdn.net/tqy19921202/article/details/103683369)
- > Resources与AssetBundle的无缝切换加载
  ## [为什么我们最终抛弃 Chromium 选择了 Firefox ？](https://blog.csdn.net/csdnnews/article/details/103692084)
  > 浏览器是用来显示在万维网或局域网等内的文字、图像及其他信息的软件，它还可以让用户与这些文件进行交互操作。本文中将介绍为什么我们认为有必要创建自己的浏览器，为什么我们选择了 Firefox 以及为什么我们认为这是正确的决定。译者 |弯月责编 | Elle出品 | CSDN（ID：CS...
  ## [从入门到深入：移动平台模型裁剪与优化的技术探索与工程实践](https://blog.csdn.net/csdnnews/article/details/103692089)
@@ -176,59 +172,67 @@ Line&#19982;&#38597;&#34382;&#26085;&#26412;&#31614;&#35746;&#21512;&#24182;&#21
  > 出自程序员之手的 JavaScript 代码，该如何变成计算机所能理解的机器语言呢？本文将带你走进 JavaScript 引擎内部，一探究竟。作者 |Lydia Hallie译者 |弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：JavaScri...
  ## [8年Python程序员，去2线城市大厂面试崩了……网友：太真实！](https://blog.csdn.net/csdnnews/article/details/103692424)
  > 最近在某瓜视频上，一条“程序员面试vlog”的短视频火了。在青岛这样的二线城市，能数得出来的大厂，大概就是海尔、海信、奥克斯了。而他去面试的，就是海信。说来也传奇，他原来所在的公司，整个...
+ ## [工信部核发4个19开头新号段，以加快5G商用](http://www.lanjingtmt.com/news/detail/45310.shtml)
+ > 日前，工信部发布通告称，为加快5G商用步伐，正式向中国电信、中国移动、中国联通、中国广电网络核发190、197、196、192号段公众移动通信网网号。
+ ## [交友软件“闲聊”组织网络赌博涉嫌犯罪，警方调查取证中](http://www.lanjingtmt.com/news/detail/45309.shtml)
+ > 24日晚间，舟山市公安局网络安全保卫支队在其官方微博“舟山网警巡查执法”发布案情通报：12月23日，舟山市公安局普陀区分局对涉嫌帮助信息网络犯罪活动罪的深圳小水滴网络科技有限公司依
  ## [企业微信升级至3.0版本的内在逻辑与四大要点](http://www.lanjingtmt.com/news/detail/45306.shtml)
  > 企业微信对外发布了全新升级的3.0版本，本次更新，是企业微信今年最重要的一次版本升级，也是其进一步强化与微信生态互通能力的尝试。那么，企业微信这一次版本更新究竟有何考量，其内在逻辑
 # 人工智能 
- ## [《程序人生》请照顾好自己，周末病魔差点一套带走我。](https://blog.csdn.net/qq_35190492/article/details/103657160)
- > 《程序人生》请照顾好自己，周末病魔差点一套带走我。
- ## [这是用c语言编写的学生管理系统](https://blog.csdn.net/qq_46070108/article/details/103657439)
- > 这是用c语言编写的学生管理系统
- ## [mysql的in查询参数限制，多少数据量会造成性能下降？什么时候创建临时表合适？](https://blog.csdn.net/LJFPHP/article/details/103656726)
+ ## [\[Python人工智能\] 九.gensim词向量Word2Vec安装及《庆余年》中文短文本相似度计算](https://blog.csdn.net/Eastmount/article/details/103647573)
  > 
- ## [职工管理系统](https://blog.csdn.net/qq_43513350/article/details/103654420)
- > 职工管理系统
- ## [计算机网络——初始TCP](https://blog.csdn.net/qq_36963950/article/details/102566935)
- > 计算机网络——初始TCP
- ## [C++高性能内存池，支持动态分配内存块](https://blog.csdn.net/qq_33700123/article/details/103651472)
- > C++高性能内存池，支持动态分配内存块
- ## [MySQL锁技术详解](https://blog.csdn.net/yahuuqq1314/article/details/103655537)
- > MySQL锁技术详解
- ## [数据库系统概论(第五版) 王珊 第六章课后习题答案](https://blog.csdn.net/qq_37857921/article/details/103671233)
- > 数据库系统概论(第五版) 王珊 第六章课后习题答案
- ## [秒杀设计方案（一篇文章秒杀面试官）](https://blog.csdn.net/weixin_43122090/article/details/103652202)
- > 秒杀设计方案（一篇文章秒杀面试官）
- ## [从0到1 教你用jmeter做性能测试](https://blog.csdn.net/qq_42756994/article/details/103651917)
- > 从0到1 教你用jmeter做性能测试
- ## [浅谈linux防火墙之iptables](https://blog.csdn.net/lpb2019/article/details/103653695)
- > 浅谈linux防火墙之iptables
- ## [文件上传(电商青橙项目)](https://blog.csdn.net/TZ845195485/article/details/103652326)
- > 文件上传(电商青橙项目)
- ## [GitHub 上的 12306 抢票神器，助力回家过年](https://blog.csdn.net/meteor_93/article/details/103643065)
- > GitHub 上的 12306 抢票神器，助力回家过年
- ## [《C++大学教程》 前3章 笔记](https://blog.csdn.net/qq_34122861/article/details/103649031)
- > 《C++大学教程》 前3章 笔记
- ## [IOS版微信新功能！朋友圈评论支持表情包](https://blog.csdn.net/weixin_43931438/article/details/103665690)
- > IOS版微信新功能！朋友圈评论支持表情包
+ ## [滴滴开源在2019：十大重点项目盘点，DoKit客户端研发助手首破1万Star](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103676074)
+ > 
+ ## [学的快还是忘的快](https://blog.csdn.net/q464042566/article/details/103671838)
+ > 学的快还是忘的快
+ ## [12月23日科技资讯|华为证实 P40 将没有 Google 服务；Python 3.8.1 发布](https://blog.csdn.net/weixin_39786569/article/details/103662083)
+ > 
+ ## [自动驾驶（五十八）---------自动驾驶2019年终盘点](https://blog.csdn.net/zhouyy858/article/details/103664171)
+ > 自动驾驶（五十八）---------自动驾驶2019年终盘点
+ ## [DL之SSD：基于tensorflow利用SSD算法实现目标检测(21类)](https://blog.csdn.net/qq_41185868/article/details/103668991)
+ > DL之SSD：基于tensorflow利用SSD算法实现目标检测(21类)
+ ## [jieba库的基本使用](https://blog.csdn.net/weixin_44766179/article/details/103661059)
+ > jieba库的基本使用
+ ## [内存泄漏分析](https://blog.csdn.net/weixin_38148680/article/details/103688623)
+ > 内存泄漏分析
+ ## [久等了！商业智能（BI）白皮书正式发布（内含福利）](https://blog.csdn.net/nayun123/article/details/103680582)
+ > 久等了！商业智能（BI）白皮书正式发布（内含福利）
+ ## [控制装置与仪表(二)](https://blog.csdn.net/ncepu_Chen/article/details/103542589)
+ > 控制装置与仪表(二)
+ ## [2019年总结，平凡的我仍在平凡的生活](https://blog.csdn.net/huangliniqng/article/details/103644237)
+ > 2019年总结，平凡的我仍在平凡的生活
+ ## [大学四年，我把私藏「B站」 20 个学习 UP 主贡献出来！](https://blog.csdn.net/qq_36903042/article/details/103651690)
+ > 大学四年，我把私藏「B站」 20 个学习 UP 主贡献出来！
+ ## [跳槽是涨薪的最快途径？](https://blog.csdn.net/csdnsevenn/article/details/103675731)
+ > 跳槽是涨薪的最快途径？
+ ## [动漫美少女生成神器、猫的门禁...2019年十七大最佳机器学习项目 |年度盘点①...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103659323)
+ > 动漫美少女生成神器、猫的门禁...2019年十七大最佳机器学习项目 |年度盘点①...
+ ## [职场中你忽略的细节，都是别人晋升的秘密](https://blog.csdn.net/z694644032/article/details/103660866)
+ > 职场中你忽略的细节，都是别人晋升的秘密
 # PM 
- ## [设计图表的六项原则](http://www.woshipm.com/pd/3251864.html)
- > 本文分享了数据可视化图表的六项设计原则，希望对你有所启发。2017年8月，一组由Google充满激情的设计师，研究人员和工程师共同创建了一套全面的数据可视化指南，涵盖...
- ## [牛肉哥在抖音崛起，超强带货能力靠的是什么？](http://www.woshipm.com/operate/3246724.html)
- > 双11带货GMV达6500万，屡次创造带货佳绩的牛肉哥是靠什么成为“抖音带货王”的？在一个月以前的双11盛典中，正善牛肉哥以高达1.3亿的直播热度击败了红人“呗呗兔”，夺得...
- ## [2020的短视频要走向何方？](http://www.woshipm.com/it/3252036.html)
- > 本文我们就从短视频形式的本质与需求上分析，短视频为什么能在短短数年内爆发式增长？以及2020年短视频行业又将面临怎样的机遇与挑战？2019年最火的娱乐方式是什么?...
- ## [企业微信叫板钉钉，凭什么？](http://www.woshipm.com/it/3249930.html)
- > 企业微信凭什么敢叫板钉钉等企业移动办公工具？文章梳理了企业微信的发展历程，并对各个阶段的亮点进行了分析，最后总结了企业微信的核心优势，对这一问题进行了解答。...
- ## [电商系统：仓储软件功能的简单设计](http://www.woshipm.com/pd/3248340.html)
- > 在进行系统设计的时候，过度完善的场景和复杂的系统设计往往并不是最好的设计，以简单的思维去设计规划相关的系统，或许才是好设计的标准。前言电商系统中有物流、信...
- ## [2018-2019年，抖音做出了什么的改变？](http://www.woshipm.com/it/3240120.html)
- > 本文介绍了2019年一年，抖音短视频发生了什么变化？抖音在未来将怎么做？即将进入2020年新的一年，抖音从2017年爆火以来一直是各类实时热榜的前几年，2018年更是多次...
- ## [美团外卖杀人事件：告别“速度崇拜”？更应告别“压榨”](http://www.chanpin100.com/article/110432)
- > 依赖强压榨实现的“降本提效”，让骑手们承担了非常多的合理和不合理的责任，或许这才是酿成这悲剧的根源。
- ## [《跟任何人都聊得来》思维导图精华版](http://www.chanpin100.com/article/110429)
- > 人际沟通不管是在生活上还是在职场上，都是一门重要的学问。市面上有各种各样的书籍资料、课程教我们去进行人际沟通，其实所有的技巧都避不开交谈之道：真正的在意对方，将对方放在你的心上。《跟任何人都聊得来》是一个名叫麦克·贝克特尔的美国人写的，书中阐述了许多人际沟通方面的技巧，接下来我们通过MindMast
- ## [为什么高性价比会成为新品牌的噩梦](http://www.chanpin100.com/article/110428)
- > 高性价比梦想虽好，但“一分钱一分货”才是商品市场的常态。
- ## [有意识的提升用户生命力，能极大的改善产品的数据表现。](http://www.chanpin100.com/article/110425)
- > 提升产品日活数据最好的方法并不是增加更多的新用户，而是增加更多的老用户，也就是提升用户的生命力。
+ ## [解析爆款制造机-今日头条的社区生态](http://www.woshipm.com/it/3248834.html)
+ > 作为字节跳动旗下的爆款应用之一，今日头条堪称信息流应用的典范，其本身也带有字节系的原生特点。相比较于传统的新闻资讯类，今日头条的特点在于强大的推荐机制+去中...
+ ## [腾讯多媒体实验室：基于三维卷积神经网络的全参考视频质量评估算法](http://www.woshipm.com/it/3250976.html)
+ > 本文提及的项目是基于腾讯多媒体实验室与北大深圳研究生院李革教授团队的高校联合项目，并通过文章简要回顾了目前学术界和工业界视频质量评估方向的发展状况。腾讯有...
+ ## [2020新媒体商业创新路线图](http://www.woshipm.com/it/3247211.html)
+ > 你独特的洞察和商业逻辑，才是真正属于你的创新路线图。多年以前，”定位之父”杰克·特劳特讲过哥伦布的例子：别人都是往东寻找印度，哥伦布却往西寻找，虽...
+ ## [跨境电商结算必知必会的那些事儿](http://www.woshipm.com/pd/3248744.html)
+ > 跨境结算是一件比较复杂的事情，作者就结算环节谈几个必须关注的问题，希望能够给大家提供帮助。现在阿里、京东、网易都有自己的跨境业务，其他一些小平台也陆续杀进...
+ ## [想要制作有吸引力的用户画像，你需要了解这几点](http://www.woshipm.com/user-research/3198022.html)
+ > 本文通过深入的了解用户画像的知识点，剖析里面的逻辑，深入到设计理念中，探讨用户画像是如何为产品服务并对产品负责的。用户画像可以使产品的服务对象更加聚焦，更...
+ ## [微信红包发错了不能退回，这个设计合理吗？](http://www.woshipm.com/pd/3250958.html)
+ > 发错了微信红包，却不能撤回，这究竟是为什么呢？微信作为国民级APP，几乎每个智能手机里都有一个微信。微信的功能从聊天，分享生活，到支付，购物，出行，每次迭代都...
+ ## [抖音想做知识平台，仍需跨越四重阻碍](http://www.woshipm.com/it/3234810.html)
+ > 本文认为：抖音想要走知识平台的路子并不顺利，以为这种说法背后的原因，即面临的四重障碍。12月18日，在抖音“2019DOU知创作者大会”上，字节跳动副总裁张羽现场表示，...
+ ## [用设计思维，做好年终工作总结](http://www.woshipm.com/zhichang/3251376.html)
+ > 2019年即将结束，大家应该都在忙着年终总结和明年计划。本文作者从实际工作出发，结合自身经验，分享了用设计思维做好年终总结的思路方法，供大家借鉴。又到了很多公...
+ ## [4岁产品经理的成长复盘](http://www.woshipm.com/pmd/3239355.html)
+ > 笔者梳理了入行4年来，她是如何进行产品经理的职业定位、职业素养培养、技能发展、未来规划的。希望对你有所启发。2019年3月 入行四年，感恩如初在2014年参加“和君商...
+ ## [企业微信属于企业，还是属于员工自己？](http://www.woshipm.com/operate/3240195.html)
+ > 企业微信3.0的大版本更新，让很多运营人看到了希望，那么该如何玩转这些功能呢？12月20号企业微信发布3.0大版本更新，也是微信今年以来最重要的产品功能更新。万千运...
+ ## [企业微信3.0：是谁的流量红利？](http://www.woshipm.com/it/3246541.html)
+ > To B产品服务，可能是存量时代继下沉市场后，互联网的最后一次数字流量红利。“腾讯没有梦想”、“天下苦微信久矣”，近两年聊到腾讯，总避不开这些话题。原因在产业互联...
+ ## [用最简模型，看广告出路](http://www.woshipm.com/marketing/3249688.html)
+ > 互联网三大基础商业（变现）模式：电商、游戏、广告，我们可以通过一个极简的模型，一窥其利弊、窘境，与可能的出路。一、极简模型以双方是否需求（或接受）对方为衡...
 
     
