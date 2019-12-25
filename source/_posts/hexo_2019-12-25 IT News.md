@@ -1,22 +1,28 @@
 ---
 title: 2019-12-25 IT News
 copyright: true
-date: 2019-12-25 08:00:51
+date: 2019-12-25 09:00:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [热烈欢迎维示泰克技术有限公司入驻深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577230205&ver=2055&signature=IC8RJOSyfNC93vTd71T2tRrWVkBZQKaa2Y2UUw-p9ta4Pr1mXZNnKUiYCl3AdbOrLtCpzxOoBBFbSDXFJ67edZ-9PvXeP-PE3X4JHkyIIBc*MQgoflKPMjH1AVZqfbtA&new=1)
- > 深圳维示泰克技术有限公司（Weistek）成立于2011年5月，以帮助每一个人实现“随心创意、自由表达”为理念，专注于高速桌面3D打印机、3D打印材料、3D打印创做教育平台的研发和应用普及，是全球十大桌面3D打印机品...
- ## [SpaceX完成降落伞测试丨Facebook丢失2.67亿用户数据\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1577230205&ver=2055&signature=WHGYUACmRwGjXDD7XWoxNlk56t2rakZ4RP2CKl8twT2jhCXijgca3giQruR5woAawtgeECpUMESu2aF**PKrLYFdvczGnB*Ji9HyNfBPxyYNmbsPwojIVRelxVvVjU6u&new=1)
- > 12月24日丨周二【Do说】编辑 | 赵艾虎SpaceX完成降落伞测试，离载人飞行更近一步埃隆·马斯克(Elon Musk)旗下的美国太空探索技术公司SpaceX今天宣布，美国时间12月22日，公司已连续第十次成功完成降落伞系统的测...
- ## [物联网十大企业，你都了解吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1577230205&ver=2055&signature=KeDehvBC12oX95DfKO8AIK*d*TMlqmKpEf5CsT*UU14uiKjijIKrUVgROIwnQfnMpjG*BPj16OUtcwZ6KeGULYEVqnnLTLYsyD0z9y24Ac9xephMkR0jmoiXW1WO*YlY&new=1)
- > 物联网作为全新的连接方式，近年来呈现突飞猛进的发展态势。小米集团董事长兼CEO雷军表示，物联网的大规模应用与新一轮科技与产业变革融合发展，预计2022年，中国物联网行业市场规模将超7.24万亿元。据统计，201...
- ## [走进河北广播电视台：天翼云+5G让传统媒体实现突破!](http://mp.weixin.qq.com/s?src=11&timestamp=1577230205&ver=2055&signature=HffiTbj5uo0PJtBZhpXYpBoQQHA2cIzyMhcoKjO1d0o9ZU088OSxQOxnlk6Si-AEU1a6GHiSLn*V*QA48WR8lWAUvf9UnbRyI6UveEuP5lzNnTcbpdk2kYMtO7IEfCv3&new=1)
+ ## [走进河北广播电视台：天翼云+5G让传统媒体实现突破!](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=HffiTbj5uo0PJtBZhpXYpBoQQHA2cIzyMhcoKjO1d0o9ZU088OSxQOxnlk6Si-AErCNxPEC1DEIItv6BKWEWvkCGpsgjdRQrnWDDHI1xEECsbHqtRhJK96p2oahN0u1V&new=1)
  > 当前，消费者用手机观看影视剧、娱乐节目等已成常态，大大减少了开电视频率。这让传统电视台收视率不断下降。随着5G+云+AI时代的到来，VR等新的获得信息途径出现，使得节目制作以及观看习惯再次发生变化。 在新...
- ## [IBM宣称：电池研发取得新突破——](http://mp.weixin.qq.com/s?src=11&timestamp=1577230205&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUm1XFHZ5zpplni3cIY3yCuJEFbmlw29-nR3gx9yvbfnaq8JHepCvQaAducDhc34qFk=&new=1)
+ ## [刚刚，广电获发192号段，联通获发196号段](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=LJRPsBCrwFRCaPZsSHDJ6Kk5DlMEjn9zDi4HYcSUlwABwLnd-k4K2HlTZeeOcswEeWd3m0tbnm2LqQpRW2kWe36BOPqVynpDLCRwTBgD1l--XWtD54wCDzlb7UVNOS95&new=1)
+ > 为加快5G商用步伐，切实促进我国公众移动通信市场持续健康发展，依据《中华人民共和国电信条例》《电信网码号资源管理办法》等有关法规规章，工业和信息化部将于近期分别向中国电信集团有限公司、中国移动通信集...
+ ## [德媒解析：德国“工业4.0”为何步履维艰](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUmFlGUORfPGPdtkPRKRf*-*jHAwyolIuk6rqxlghhTl73Q8yMQES6jwkRDn8gqhp6I=&new=1)
+ > 参考消息网12月23日报道 德媒称，当前，德国“工业4.0”要想在广泛领域取得突破，仍然存在许多障碍。德国《商报》12月19日刊发了该报慕尼黑编辑部主任阿克塞尔·赫普纳的一篇文章。文章称，这是德国工业界最雄心...
+ ## [物联网十大企业，你都了解吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=KeDehvBC12oX95DfKO8AIK*d*TMlqmKpEf5CsT*UU14uiKjijIKrUVgROIwnQfnM6QgayLxbHMqDu4EjIROiqrFKhmXe3c3TNDwj0NeB4hMODe8gqPtg*1PtnYzW-92o&new=1)
+ > 物联网作为全新的连接方式，近年来呈现突飞猛进的发展态势。小米集团董事长兼CEO雷军表示，物联网的大规模应用与新一轮科技与产业变革融合发展，预计2022年，中国物联网行业市场规模将超7.24万亿元。据统计，201...
+ ## [热烈欢迎维示泰克技术有限公司入驻深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=IC8RJOSyfNC93vTd71T2tRrWVkBZQKaa2Y2UUw-p9ta4Pr1mXZNnKUiYCl3AdbOrKv9htK4-so3jNslCdZ5ymxzhDdrAcpz6Pl1b4ncTGyqJcQLvRROFrobqUN3mYMVo&new=1)
+ > 深圳维示泰克技术有限公司（Weistek）成立于2011年5月，以帮助每一个人实现“随心创意、自由表达”为理念，专注于高速桌面3D打印机、3D打印材料、3D打印创做教育平台的研发和应用普及，是全球十大桌面3D打印机品...
+ ## [SpaceX完成降落伞测试丨Facebook丢失2.67亿用户数据\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=WHGYUACmRwGjXDD7XWoxNlk56t2rakZ4RP2CKl8twT2jhCXijgca3giQruR5woAaTlCC6dPEo1rNwmgIomlV1v9jakO-p7kxIiGdwKJbs4SdllaMV09Za8wHN8VSX7Ev&new=1)
+ > 12月24日丨周二【Do说】编辑 | 赵艾虎SpaceX完成降落伞测试，离载人飞行更近一步埃隆·马斯克(Elon Musk)旗下的美国太空探索技术公司SpaceX今天宣布，美国时间12月22日，公司已连续第十次成功完成降落伞系统的测...
+ ## [IBM宣称：电池研发取得新突破——](http://mp.weixin.qq.com/s?src=11&timestamp=1577233806&ver=2055&signature=q4xM0wUJEVb4q6ud3BArCtIMPvBgn911XiPAhvZVgUkGU-H4lZNQWP06HMiWYPVWKPUoq2-YLbxDSpVwUBvDC8MeLXMT3QHXsAgeakj4a8U=&new=1)
  > 参考消息网12月23日报道 台媒称，美国科技公司IBM宣称已研发出一种电池设计，采用从海水萃取而成的材料，无需使用成本高昂的钴，为迫切寻找替代矿物原料的企业带来好消息。据台湾《经济日报》12月20日报道，IBM...
 # IT 技术 
+ ## [过去十年的优秀开源创新](http://os.51cto.com/art/201912/608337.htm)
+ > 过去十年的优秀开源创新
  ## [苏宁砍价团高可用、高并发架构实践](http://developer.51cto.com/art/201912/608271.htm)
  > 苏宁砍价团高可用、高并发架构实践
  ## [波士顿动力CEO：不排斥军方订单，就想你粗暴地对待机器狗](http://news.51cto.com/art/201912/608270.htm)
@@ -31,38 +37,38 @@ categories: IT NEWS
  > Gartner高级研究总监陈勇：数字化成为业务常态，CIO如何帮助企业赢在拐点
  ## [着急回家过年，12306又崩了！](http://news.51cto.com/art/201912/608276.htm)
  > 着急回家过年，12306又崩了！
- ## [每天处理千亿级日志量，Kafka是如何做到的?](http://os.51cto.com/art/201912/608174.htm)
- > 每天处理千亿级日志量，Kafka是如何做到的?
- ## [java 面向对象 购物车](https://blog.csdn.net/zhudun8916/article/details/103686918)
- > java 面向对象 购物车
- ## [Linux下C对进程的操作](https://blog.csdn.net/qq_41861259/article/details/103682935)
- > Linux下C对进程的操作
- ## [你需要打好线性表的基础——数据结构](https://blog.csdn.net/qq_43919400/article/details/103683002)
- > 你需要打好线性表的基础——数据结构
- ## [【Unity3D日常】Editor自定义插件，\[InitializeOnLoad\]属性使用](https://blog.csdn.net/q764424567/article/details/103686374)
- > 【Unity3D日常】Editor自定义插件，\[InitializeOnLoad\]属性使用
- ## [论文解读：Deep Image Prior](https://blog.csdn.net/shinian1987/article/details/103641148)
- > 论文解读：Deep Image Prior
- ## [Java中的反射](https://blog.csdn.net/JewaveOxford/article/details/103612415)
- > Java中的反射
- ## [RDKit | 基于RDKit和SMARTS的化学反应处理](https://blog.csdn.net/u012325865/article/details/103680157)
- > RDKit | 基于RDKit和SMARTS的化学反应处理
- ## [android 追加写入数据到文件](https://blog.csdn.net/qq_33209777/article/details/103686966)
- > android 追加写入数据到文件
- ## [计算与数据结构篇 - 链表](https://blog.csdn.net/xuezhiwu001/article/details/103685956)
- > 计算与数据结构篇 - 链表
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ ## [物联网十大技术，你了解吗？](http://iot.51cto.com/art/201912/608352.htm)
+ > 对于物联网产业的从业人士而言，在物联网领域中却不得不了解十个关键词，通过这十个关键词，从而能更好的构
+ ## [今天我面试了一位年龄 46 岁的程序员，结果我倒吸一口凉气](https://blog.csdn.net/briblue/article/details/103609814)
  > 
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ ## [12月24日科技资讯|12306 回应软件崩了；微信发布新版本，朋友圈可“斗图”；Ant Design 3.26.4 发布](https://blog.csdn.net/weixin_39786569/article/details/103678253)
  > 
- ## [Python学习之路 （第二天） 爬虫简单实现小结](https://blog.csdn.net/weixin_38422258/article/details/103688643)
- > Python学习之路 （第二天） 爬虫简单实现小结
- ## [京东大数据研究院首席数据官刘晖：聚焦银发经济，2019中老年线上消费趋势！](https://blog.csdn.net/AgeClub/article/details/103688278)
- > 京东大数据研究院首席数据官刘晖：聚焦银发经济，2019中老年线上消费趋势！
- ## [各语言版本的web简易实现及框架列举](https://blog.csdn.net/lyndon_li/article/details/103689750)
- > 各语言版本的web简易实现及框架列举
+ ## [git安装、使用、建立github远程仓库、克隆远程仓库](https://blog.csdn.net/Powerful_Fy/article/details/103664165)
+ > 
+ ## [从设计模式到恋爱宝典，程序员们的福利来了！](https://blog.csdn.net/zlbdmm/article/details/103636229)
+ > 从设计模式到恋爱宝典，程序员们的福利来了！
+ ## [来来来！一次搞定各种数据库 SQL 执行计划：MySQL、Oracle、SQL Server、PostgreSQL 以及 SQLite](https://blog.csdn.net/horses/article/details/103579177)
+ > 
+ ## [私藏的18个黑科技网站，想找什么软件就找什么软件！！！](https://blog.csdn.net/sinat_33921105/article/details/103307419)
+ > 私藏的18个黑科技网站，想找什么软件就找什么软件！！！
+ ## [文言文编程火了，可我完全学不懂](https://blog.csdn.net/z_kqiang/article/details/103646976)
+ > 文言文编程火了，可我完全学不懂
+ ## [你真的了解Linux shell命令吗？](https://blog.csdn.net/lzyws739307453/article/details/103666282)
+ > 你真的了解Linux shell命令吗？
+ ## [考研前夕 — 成人的世界里没有那么多童话](https://blog.csdn.net/qq_17776287/article/details/103625443)
+ > 考研前夕 — 成人的世界里没有那么多童话
+ ## [python语法基础及一些易错点](https://blog.csdn.net/qq_44891434/article/details/103583238)
+ > python语法基础及一些易错点
+ ## [吐血整理 Java笔试题知识点](https://blog.csdn.net/OliverND/article/details/103620645)
+ > 吐血整理 Java笔试题知识点
+ ## [2020最新前端经典面试试题](https://blog.csdn.net/weixin_42981560/article/details/103581873)
+ > 2020最新前端经典面试试题
+ ## [校园网搭建](https://blog.csdn.net/zhudun8916/article/details/103686269)
+ > 校园网搭建
+ ## [Ｂ站收藏 6.1w+！GitHub 标星 3.9k+！这门神课拯救了我薄弱的计算机基础](https://blog.csdn.net/u013486414/article/details/103457523)
+ > 
+ ## [自整常用 linux 命令（持续更新...）](https://blog.csdn.net/z_ruitao/article/details/103583030)
+ > 自整常用 linux 命令（持续更新...）
  ## [从入门到深入：移动平台模型裁剪与优化的技术探索与工程实践](https://blog.csdn.net/csdnnews/article/details/103692089)
  > （由CSDN下载自视觉中国）可以看到，通过机器学习技术，软件或服务的功能和体验得到了质的提升。比如，我们甚至可以通过启发式引擎智能地预测并调节云计算分布式系统的节点压力，以此改善服务的弹...
  ## [为什么 Kubernetes 是微服务发展的必然产物？](https://blog.csdn.net/csdnnews/article/details/103692090)
@@ -78,36 +84,36 @@ categories: IT NEWS
  ## [企业微信升级至3.0版本的内在逻辑与四大要点](http://www.lanjingtmt.com/news/detail/45306.shtml)
  > 企业微信对外发布了全新升级的3.0版本，本次更新，是企业微信今年最重要的一次版本升级，也是其进一步强化与微信生态互通能力的尝试。那么，企业微信这一次版本更新究竟有何考量，其内在逻辑
 # 人工智能 
- ## [数据库系统概论(第五版) 王珊 第二章课后习题答案](https://blog.csdn.net/qq_37857921/article/details/103667886)
- > 数据库系统概论(第五版) 王珊 第二章课后习题答案
- ## [JDBC数据库连接七步走](https://blog.csdn.net/u010572412/article/details/103652768)
- > JDBC数据库连接七步走
- ## [mysql备份脚本及遇到的坑](https://blog.csdn.net/qq_31415875/article/details/103663836)
- > mysql备份脚本及遇到的坑
- ## [MySQL 选择题（九）](https://blog.csdn.net/bbvjx1314/article/details/103652749)
- > MySQL 选择题（九）
- ## [来来来！一次搞定各种数据库 SQL 执行计划：MySQL、Oracle、SQL Server、PostgreSQL 以及 SQLite](https://blog.csdn.net/horses/article/details/103579177)
- > 
- ## [Mysql索引与 Sql语句优化](https://blog.csdn.net/qcl108/article/details/103658215)
- > Mysql索引与 Sql语句优化
- ## [MySQL - 存储过程](https://blog.csdn.net/m_nanle_xiaobudiu/article/details/103673679)
- > MySQL - 存储过程
- ## [MySQL数据库零基础教学\[超详细\]](https://blog.csdn.net/E699A8/article/details/103625085)
- > MySQL数据库零基础教学\[超详细\]
- ## [图书管理系统数据库设计](https://blog.csdn.net/qq_43575301/article/details/103656548)
- > 图书管理系统数据库设计
- ## [MySQL数据库总结](https://blog.csdn.net/weixin_43691058/article/details/103175678)
- > 
- ## [数据库系统概论(第五版) 王珊 第一章课后习题答案](https://blog.csdn.net/qq_37857921/article/details/103667832)
- > 数据库系统概论(第五版) 王珊 第一章课后习题答案
- ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
- > 
- ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
- > 史上最全的mysql基础教程
- ## [MySQL 选择题（七）](https://blog.csdn.net/bbvjx1314/article/details/103652717)
- > MySQL 选择题（七）
- ## [数据库使用存储过程的优缺点](https://blog.csdn.net/conconbenben/article/details/103655760)
- > 数据库使用存储过程的优缺点
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 # PM 
  ## [美团外卖杀人事件：告别“速度崇拜”？更应告别“压榨”](http://www.chanpin100.com/article/110432)
  > 依赖强压榨实现的“降本提效”，让骑手们承担了非常多的合理和不合理的责任，或许这才是酿成这悲剧的根源。
