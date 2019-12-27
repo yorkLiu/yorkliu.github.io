@@ -1,7 +1,7 @@
 ---
 title: 2019-12-27 IT News
 copyright: true
-date: 2019-12-27 10:01:05
+date: 2019-12-27 12:01:45
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -73,63 +73,71 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [设备|中兴通讯技术(简讯)：5G前传方案分析](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=TBTF8co5zYD7*4z1M0QbKWXLN75d9pl5-Yv-7IFL8ubKh93jNymkjwAst8zvVOL7m2STdVsdxZwliomoJb2d*m4g3A3N3cLbTdXr0PXcEmsUVBqS-Iv4Sf9vnkPaYfeh&new=1)
+ ## [设备|中兴通讯技术(简讯)：5G前传方案分析](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=TBTF8co5zYD7*4z1M0QbKWXLN75d9pl5-Yv-7IFL8ubKh93jNymkjwAst8zvVOL787gTz2dzLuwGP*EOy0yFmMAbmyjkbhoZqFdJlhU5UIT4jGd45x6EME72plbnbbd1&new=1)
  > 导读     5G前传对承载网的带宽和时延均提出了更为严苛的要求，目前优先使用25Gbps eCPRI接口，时延要求低于100μs。前传承载方案主要包括传统的光纤直驱方案、无源WDM方案、半有源WDM方案和有源WDM/OTN方案。中...
- ## [转型者的阵痛与重生](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=M2lcoN15I8rCAVWubPy2xARflDCZp4VsSrmwYf3xE7VS*LLMIIj1E2TsUOvXI08WTdrmIfLECC55gkQTYDTNo6GipZogxUDA5l19ihaGctHICctQTYd4SVXZkFddCkJ0&new=1)
- > （本文阅读时间：9分钟）通过前几期和张总一起参加微软AI商学院的课程，相信您对企业转型需要注意的各个方面已经有了一个大致的了解。那么，面对瞬息万变的市场环境，企业应该如何拨开迷雾，制定适合自己的AI战...
- ## [“龙芯”发布新一代处理器](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=AQFiuly3MWXn0Tv0OCrVpBR8s3woHzMNjIYMsNOcxrcHsSJrOKitg*GEWd7RMiUBjEDd41kei7LrwIPaHGHwoN8*42IuYT1qpL0pC58N07CNY*SGzSu1xzPuXVF5ttnB&new=1)
- > 作为“中国芯”的代表之一，“龙芯”日前发布自主研发的新一代通用处理器（CPU），单核通用处理性能大幅提升，并实现了CPU和主板升级均不影响操作系统兼容性。　　龙芯中科技术有限公司董事长、中国科学院计算技...
- ## [航天科工自主研发的金属3D打印机通过CE认证](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=4GkTb5FnmJ3YfwX1B7bssfJj*9BgaIB-6J3YPWOs26iQE0eGKmOo9bkoRzf2Gs9erNOPgHOY12A5Z*b8cg5vhFOcqvgJsH0v70Goh*a10T-SwbNqzjuOY8YV-L6EBjK9&new=1)
+ ## [航天科工自主研发的金属3D打印机通过CE认证](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=4GkTb5FnmJ3YfwX1B7bssfJj*9BgaIB-6J3YPWOs26iQE0eGKmOo9bkoRzf2Gs9e7yvm9WQTg6Sh5EVhA4EAADZyWnaHxNnb2ts4hFYbXzsDu35koTopktUvNEHoAcK7&new=1)
  > 近日，中国航天科工增材制造技术创新中心正式收到自主研发的工业级金属打印机ASA-260M的CE认证证书。这标志着该中心自研装备具备了销往欧盟的资质，为进军国际市场，早日实现国际化经营奠定了坚实基础。ASA-260M...
- ## [外媒：中国工业机器人使用率猛增 未来5年或有5%的工人被取代](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=PQOaksSn8t2IBBoGzxBAVkAX50iIicGptfgC7N8n2M9UV944WDic8pSTgL93yr3woVkWT074TtIGUDfujid1hAn6ByzlAEGEMTzNSd1SRvU=&new=1)
+ ## [E年盘点原来它们是2019年网络威胁的罪魁祸首!](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=ovl161wmWCdNiYkI0YFT5mI3-OARaJwtbCAzK5rsJex8V39nXp039jCfkq6MiQBXK0gjAvAW4CTZ*mP3f6B5XIw2osadJEzS5fkQXTCMjbaqOCoFT983yzw*NJQQ4xFO&new=1)
+ > 春去秋来，始于年也止于年，2019 又即将为我们画上一圈年轮。小E选择在此时做一个 &quot; 落入俗套 &quot; 但却 &quot; 意义重大 &quot; 的  E年盘点 专题。在过去的 365 天里，小E感激你的每一次阅读、评论、点赞和转发。这一年网...
+ ## [外媒：中国工业机器人使用率猛增 未来5年或有5%的工人被取代](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=PQOaksSn8t2IBBoGzxBAVkAX50iIicGptfgC7N8n2M8rzNg05RChxi*ieJceBummtBjA0J7vrOsSmjAiAeeYvrmpzxd4vegEz*Qkg*3XnDM=&new=1)
  > 参考消息网12月27日报道 外媒称，武汉大学质量发展战略研究院在对中国国内近2000家企业进行调查后发布报告称，未来5年，中国近5%的劳动人口的岗位将被机器人取代。据伊朗法尔斯通讯社12月24日报道，调查发现，机...
- ## [美智库发布报告：《美国在人工智能时代的行动蓝图》](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=IkTEBXZFwq2Gpv*C7BWvphgsjW8xQSGYRjK*zKHjKDlveqB0q5X*taAc9BTpGC4AESkcx6Jf-7IS*XuaIgeY*X-cMcIe0KBeml2S3IOJ8Ra7iGqDNO7fx6IxYL*EjEk7&new=1)
+ ## [“龙芯”发布新一代处理器](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=AQFiuly3MWXn0Tv0OCrVpBR8s3woHzMNjIYMsNOcxrcHsSJrOKitg*GEWd7RMiUB9cE-3pp*fbh3pEX9Z4hV8yeKxVjF7rgs1oLDTcClaPnuy5nyAgEBRbrRC1rCq410&new=1)
+ > 作为“中国芯”的代表之一，“龙芯”日前发布自主研发的新一代通用处理器（CPU），单核通用处理性能大幅提升，并实现了CPU和主板升级均不影响操作系统兼容性。　　龙芯中科技术有限公司董事长、中国科学院计算技...
+ ## [转型者的阵痛与重生](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=M2lcoN15I8rCAVWubPy2xARflDCZp4VsSrmwYf3xE7VS*LLMIIj1E2TsUOvXI08WXWVKBCh1Bgtf-4onhepIJRn4A1utlV5nvTcamM76fXIsFGj*PTz1tH3rme*gNnct&new=1)
+ > （本文阅读时间：9分钟）通过前几期和张总一起参加微软AI商学院的课程，相信您对企业转型需要注意的各个方面已经有了一个大致的了解。那么，面对瞬息万变的市场环境，企业应该如何拨开迷雾，制定适合自己的AI战...
+ ## [美智库发布报告：《美国在人工智能时代的行动蓝图》](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=IkTEBXZFwq2Gpv*C7BWvphgsjW8xQSGYRjK*zKHjKDlveqB0q5X*taAc9BTpGC4ABZY6RbL0sTkpmY-wZUSrI5A*K8On3NNfUYqsVljEF986KHyVa5RCE8kBjOK9ZCgQ&new=1)
  > 来源：新美国安全中心12月17日，新美国安全中心发布报告《美国人工智能世纪：行动蓝图》，指出先进计算、量子科学、人工智能、合成生物学、5G、增材制造等技术的快速进步正在改变技术运行机制，其中人工智能将产...
- ## [AI改变生活!2019年影响最大的10类产品都在这了](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=1Sr5Vo0B-QjLLzQ5VS-EOKwfoiFfGFf33CZBqdGG9PCXxrcun1eJZ84hUWRZLz4R8VLixnVR8DTAP0j42r4ZqXri4kaxKAYuz2Lj3YYsgzYm5b99YauHFJNBAghNxhac&new=1)
+ ## [AI改变生活!2019年影响最大的10类产品都在这了](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=1Sr5Vo0B-QjLLzQ5VS-EOKwfoiFfGFf33CZBqdGG9PCXxrcun1eJZ84hUWRZLz4RFFLh3WlPyhGsXD7h2uoe7Kb-YI*1fAsGgcX7jelgEMvvSAV1mKzVs6nWbrJc3Wcv&new=1)
  > 人工智能服务生活的新时代正逐渐拉开序幕，AI技术赋能的硬件产品在家庭和工作场所中帮助大众解决了诸多繁杂事务，并影响其他生活领域。随着AI技术被消费者所接受，相信未来消费市场对人工智能开发服务的需求也将...
- ## [19万华为人都在用的智能工作平台，你也可以用了](http://mp.weixin.qq.com/s?src=11&timestamp=1577411250&ver=2059&signature=R84t4vaCY8g39uRT9*mj7bnIhtvJN8F5-HX-Eni53n4R6PDaJ3AIpsSq*AEEVv*TUxS9Gu0ECS8V*7Jud1l1a7Xk*8MmYr9tqPHVk2tsYjf7vBSMWccQTCbmH8Lheau4&new=1)
+ ## [19万华为人都在用的智能工作平台，你也可以用了](http://mp.weixin.qq.com/s?src=11&timestamp=1577417406&ver=2059&signature=R84t4vaCY8g39uRT9*mj7bnIhtvJN8F5-HX-Eni53n4R6PDaJ3AIpsSq*AEEVv*T0eLAQTWrpQIcnsktzjUg0aWDKLGa3Kg2rDeUU5yo0UWD2*paJFAkjhhClsxAs5Dv&new=1)
  > 2019年12月26日，华为云在北京发布智能工作平台WeLink。华为云副总裁、联接与协同业务总裁薛浩表示：“华为云WeLink源自华为数字化转型实践，是更懂企业的智能工作平台，具备智能高效、安全可靠、开放共赢三大核...
 # IT 技术 
+ ## [这样“撩”大数据，小白都能看懂！](http://bigdata.51cto.com/art/201912/608528.htm)
+ > 这样“撩”大数据，小白都能看懂！
+ ## [吴恩达团队盘点2019AI大势：自动驾驶寒冬、Deepfake已成魔](http://news.51cto.com/art/201912/608530.htm)
+ > 吴恩达团队盘点2019AI大势：自动驾驶寒冬、Deepfake已成魔
  ## [Azure平台上的五大实用工具](http://cloud.51cto.com/art/201912/608503.htm)
  > Azure平台上的五大实用工具
+ ## [2020年数据中心技术发展的三个方向](http://server.51cto.com/Datacenter-608471.htm)
+ > 2020年数据中心技术发展的三个方向
+ ## [清华天才王垠受邀面试阿里P9被毙后手撕P10面试官赵海平！](http://news.51cto.com/art/201912/608531.htm)
+ > 清华天才王垠受邀面试阿里P9被毙后手撕P10面试官赵海平！
  ## [存储级内存不会取代DRAM或NAND](http://stor.51cto.com/art/201912/608496.htm)
  > 存储级内存不会取代DRAM或NAND
  ## [决战春运之巅，我们用这个项目抢到了火车票](http://developer.51cto.com/art/201912/608506.htm)
  > 决战春运之巅，我们用这个项目抢到了火车票
- ## [Java多线程优化都不会，怎么拿Offer?](http://developer.51cto.com/art/201912/608461.htm)
- > Java多线程优化都不会，怎么拿Offer?
- ## [云会“杀死”运维吗？解读运维的刺激2019](http://news.51cto.com/art/201912/608462.htm)
- > 云会“杀死”运维吗？解读运维的刺激2019
- ## [云世界的七大新悖论，您是否也遇到了？](http://cloud.51cto.com/art/201912/608416.htm)
- > 云世界的七大新悖论，您是否也遇到了？
- ## [5G下的智能制造：智能工厂自动化新模式](http://network.51cto.com/art/201912/608400.htm)
- > 5G下的智能制造：智能工厂自动化新模式
- ## [真工程师：20块钱做了张「名片」，可以跑Linux和Python](http://news.51cto.com/art/201912/608394.htm)
- > 真工程师：20块钱做了张「名片」，可以跑Linux和Python
- ## [传统交换机难匹配万物互联，Aruba CX下一代交换平台重装上阵](http://network.51cto.com/art/201912/608526.htm)
- > 2020年即将到来，一个非常重要的机会就是边缘计算，Aruba认为可以利用数据方面的智能为客户提供更多边缘智
- ## [今年的数据泄露，有可能超越有史以来的记录吗？](http://netsecurity.51cto.com/art/201912/608523.htm)
- > 2019年即将结束，似乎每周我们都能看到大量有关数据泄露的新闻，报道还在源源不断地涌现。从2017年到2018年
- ## [Windows系统如何阻止某个程序联网！只要简单几步设置！](http://os.51cto.com/art/201912/608520.htm)
- > 有一些软件或者后台程序会偷偷在使用网络，甚至自动下载东西，严重占有网络资源，导致我们的网络环境变差，
- ## [负载均衡的算法你了解不？](http://developer.51cto.com/art/201912/608521.htm)
- > 关于负载均衡的三种算法，轮询法，随机法，最小连接法，这三种负载均衡的算法，但是关于负载均衡还有其他的
- ## [原生线程池这么强大，Tomcat 为何还需扩展线程池？](http://developer.51cto.com/art/201912/608518.htm)
- > Tomcat/Jetty 是目前比较流行的 Web 容器，两者接受请求之后都会转交给线程池处理，这样可以有效提高处理的
- ## [GitHub上最全中华古诗词数据库又火了](http://news.51cto.com/art/201912/608525.htm)
- > 近期，GitHub 上最全中华古诗词数据库再次登上热榜，又火了一把。
- ## [如何保护个人信息安全？HTTPS证书可以](http://netsecurity.51cto.com/art/201912/608515.htm)
- > 互联网普及的大数据时代，个人隐私很容易会被泄露。近年来，中国网民由于个人隐私信息泄露的事件层出不穷，
- ## [细思极恐-你真的会写Java吗?](http://developer.51cto.com/art/201912/608516.htm)
- > 自2013年毕业后，今年已经是我工作的第4个年头了，总在做java相关的工作，终于有时间坐下来，写一篇关于jav
- ## [Android 11新改进曝光：取消单文件4GB大小限制](http://news.51cto.com/art/201912/608519.htm)
- > 据XDA论坛爆料，谷歌可能会在Android 11.0上取消经典的4GB文件大小限制。
+ ## [AI如何监测宇航员在太空中的健康状态](http://ai.51cto.com/art/201912/608480.htm)
+ > AI如何监测宇航员在太空中的健康状态
+ ## [Gartner公布2019年十大策略性科技趋势](http://news.51cto.com/art/201912/608545.htm)
+ > Gartner归结出在将来的三到五年间可能颠覆数据分析产业的十项科技趋势，并建议数据分析工作者应评估这些趋
+ ## [WEB应用程序保证网络安全的五大基本特征](http://netsecurity.51cto.com/art/201912/608544.htm)
+ > 根据Verizon 2019数据泄露调查报告，43%的网络攻击针对的是小企业。考虑到潜在攻击的严重性和普遍性，随机
+ ## [高级架构师如何仅用6步，就为企业量身打造一套高可用系统？](http://os.51cto.com/art/201912/608543.htm)
+ > 对于用户量较大的系统以及系统稳定性要求极高的企业，每一次计划外的系统停机都是严重事故。想要降低计划外
+ ## [高并发服务器逻辑处理瓶颈，如何解决？](http://server.51cto.com/sOS-608546.htm)
+ > 并发，在操作系统中，是指一个时间段中有几个程序都处于已启动运行到运行完毕之间，且这几个程序都是在同一
+ ## [2020年及以后的5个最关键的ERP趋势](http://news.51cto.com/art/201912/608542.htm)
+ > 随着企业资源计划(ERP)的应用和发展进入新的十年，新技术将紧密结合在一起，并推动软件向前发展，企业资源
+ ## [物联网时代隐私安全立法要有震慑作用](http://netsecurity.51cto.com/art/201912/608541.htm)
+ > 在互联网时代也有偷拍，但实际上为害有限，因为它需要特定的执行者、特定的硬件、特定的时间还有特定的销售
+ ## [8个物联网安全策略和专家建议](http://iot.51cto.com/art/201912/608539.htm)
+ > 物联网安全性与IT安全性不同。行业专家有关如何很大程度地减少与物联网相关的网络风险的经验进行了分享。
+ ## [记一次生产数据库因磁盘空间满而引起的死锁故障及解决过程](http://database.51cto.com/art/201912/608537.htm)
+ > 今天主要介绍一次因磁盘空间满导致的事故及解决方法。下面，我们一起来看。
+ ## [物联网网关协议选择：HTTP VS MQTT](http://iot.51cto.com/art/201912/608540.htm)
+ > 在物联网的世界里面，典型的网络架构如下，首先是终端的设备或者传感器采集到信号或者信息，对于不能上inte
+ ## [物联网协议LWM2M MQTT与CoAP区别和联系](http://iot.51cto.com/art/201912/608536.htm)
+ > MQTT(Message Queuing Telemetry Transport，消息队列遥测传输)是IBM开发的一个即时通讯协议，有可能成为物
  ## [Java I/O体系从原理到应用，这一篇全说清楚了](https://blog.csdn.net/u014714618/article/details/103060472)
  > 
- ## [STM32如何计算RTC时钟异步预分频和同步预分频](https://blog.csdn.net/m0_38106923/article/details/103720814)
- > STM32如何计算RTC时钟异步预分频和同步预分频
- ## [Python基础语法全体系 | 流程控制（分支结构与循环结构）](https://blog.csdn.net/ZYZMZM_/article/details/103607086)
- > 
+ ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
+ > 华为EMUI10带来开发者福音：一次开发多端部署
+ ## [2019年常见Elasticsearch 面试题答案详细解析（下）](https://blog.csdn.net/Design407/article/details/103716880)
+ > 2019年常见Elasticsearch 面试题答案详细解析（下）
+ ## [计算与数据结构篇 - 排序(冒泡/插入/选择)](https://blog.csdn.net/xuezhiwu001/article/details/103721738)
+ > 计算与数据结构篇 - 排序(冒泡/插入/选择)
+ ## [Spring 最常用的几大类常用注解总结，史上最强整理！](https://blog.csdn.net/weixin_45560122/article/details/103717239)
+ > Spring 最常用的几大类常用注解总结，史上最强整理！
  ## [Vue + Spring Boot 项目实战（十五）：动态加载后台菜单](https://blog.csdn.net/Neuf_Soleil/article/details/103114893)
  > 
  ## [《吊打面试官》系列-Redis基础知识](https://blog.csdn.net/qq_35190492/article/details/102841400)
@@ -140,20 +148,16 @@ categories: IT NEWS
  > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [深入理解JavaScript中的执行环境（execution context）](https://blog.csdn.net/lihchweb/article/details/103715826)
- > 深入理解JavaScript中的执行环境（execution context）
- ## [Linux关于定时任务设置](https://blog.csdn.net/Ming_Ba/article/details/103704388)
- > Linux关于定时任务设置
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [实例学习Ansible系列（21）从标准输出获取循环的列表](https://blog.csdn.net/liumiaocn/article/details/103709505)
- > 实例学习Ansible系列（21）从标准输出获取循环的列表
- ## [数据库事务的四大特征和隔离级别](https://blog.csdn.net/weixin_44397907/article/details/103718858)
- > 数据库事务的四大特征和隔离级别
- ## [nginx入门教程（一）](https://blog.csdn.net/qq_28224459/article/details/103722994)
- > nginx入门教程（一）
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [《吊打面试官》系列-缓存雪崩、击穿、穿透](https://blog.csdn.net/qq_35190492/article/details/102889333)
+ > 
+ ## [华为交换机划分vlan, 配置trunk中继链路, 配置链路聚合, 配置静态路由 ,三层交换机基本配置](https://blog.csdn.net/xiaohu_leehom/article/details/103721684)
+ > 华为交换机划分vlan, 配置trunk中继链路, 配置链路聚合, 配置静态路由 ,三层交换机基本配置
  ## [华为PLC-IoT生态联盟成立，携手合作伙伴共赢智慧物联新时代](https://blog.csdn.net/csdnnews/article/details/103726879)
  > \[中国，东莞，2019年12月19日\]12月19日，由华为发起的“华为PLC-IoT生态联盟”在东莞正式成立，来自电力、交通、金融、消防等多个行业共43家产业伙伴在大会现场共同见证了联盟成立。PLC-IoT（Power Line Carrier over Internet of Things）...
  ## [易观发布全新易观方舟智能用户运营产品套件及ARGO成长模型](https://blog.csdn.net/csdnnews/article/details/103726841)
@@ -172,65 +176,73 @@ categories: IT NEWS
  > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
  ## [把自己朝九晚五的工作自动化了，有错吗？](https://blog.csdn.net/csdnnews/article/details/103725062)
  > 用代码让自己工作开启自动化之际，是否意味着自己将面临被解雇的风险？作者 |Brian Merchant译者 |谭开朗，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：2016年，Reddit上出现了一个匿名的帖子，内容是：“从大约六年前到现在，我在工作...
+ ## [中国移动2019年建设开通超5万个5G基站](http://www.lanjingtmt.com/news/detail/45337.shtml)
+ > 日前，中国移动董事长杨杰做工作报告时指出，2019年已建设开通5G基站超5万个，在50个城市提供5G商用服务。
+ ## [腾讯发反舞弊通报：60余人被辞退，10余人被移送司法机关](http://www.lanjingtmt.com/news/detail/45335.shtml)
+ > 腾讯集团发布反舞弊通报，2019年前三季度，腾讯反舞弊调查部共发现查处违反“高压线”案件40余起，其中60余人因触犯“高压线”被辞退。
  ## [哈啰顺风车宣布设立8000万元春运基金](http://www.lanjingtmt.com/news/detail/45334.shtml)
  > 日前哈啰顺风车宣布，将设立8000万元“春运基金”鼓励更多车主和用户在春运期间分享空座、绿色出行。
  ## [《庆余年》超前点播引众怒，折射爱腾与付费会员的双重博弈](http://www.lanjingtmt.com/news/detail/45333.shtml)
  > 近日，腾讯视频、爱奇艺视频推出的《庆余年》VIP超前点播规则引发众多网友不满，一时间，两大在线视频平台成为众矢之的。
 # 人工智能 
- ## [创业笔记备份](https://blog.csdn.net/weixin_43606158/article/details/100971057)
- > 创业笔记备份
- ## [购买安装和配置最新idea教程2019](https://blog.csdn.net/qq_37909508/article/details/97818824)
- > 购买安装和配置最新idea教程2019
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [SSM整合之企业级后台管理系统(2) - 搭建集成开发环境](https://blog.csdn.net/u012586848/article/details/100928720)
- > SSM整合之企业级后台管理系统(2) - 搭建集成开发环境
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [电子礼簿软件](https://blog.csdn.net/u014650759/article/details/81389951)
- > 电子礼簿软件
- ## [Selenium教程系列（一）：介绍](https://blog.csdn.net/kingzhsh/article/details/100175342)
- > Selenium教程系列（一）：介绍
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
+ ## [《庆余年》里的五竹，到底是不是机器人？](https://blog.csdn.net/csdnnews/article/details/103707829)
+ > 《庆余年》里的五竹，到底是不是机器人？
+ ## [12月25日科技资讯|华为辟谣将发布石墨烯电池手机；梁建章回应携程杀熟；GitLab 12.6 发布](https://blog.csdn.net/weixin_39786569/article/details/103705050)
  > 
- ## [Process finished with exit code 1](https://blog.csdn.net/weixin_41217541/article/details/95165461)
- > Process finished with exit code 1
- ## [win10企业版2016长期服务版激活方法](https://blog.csdn.net/fengqingtao2008/article/details/96724477)
- > win10企业版2016长期服务版激活方法
- ## [JRebel for IntelliJ  热部署破解方法](https://blog.csdn.net/is_chenzh/article/details/82148157)
- > JRebel for IntelliJ  热部署破解方法
- ## [CI/CD是什么？](https://blog.csdn.net/asstsui/article/details/89554013)
- > CI/CD是什么？
- ## [解决idea中maven项目的pom文件不会自动下载jar包问题 + 更新不完整依赖命令](https://blog.csdn.net/zhang33565417/article/details/97634921)
- > 解决idea中maven项目的pom文件不会自动下载jar包问题 + 更新不完整依赖命令
- ## [CAD快速看图vip破解版，vip功能永久完美使用，分享一下~](https://blog.csdn.net/bailatu888/article/details/94381748)
- > CAD快速看图vip破解版，vip功能永久完美使用，分享一下~
- ## [IDea配置总结（更新于201912）](https://blog.csdn.net/libusi001/article/details/100070715)
- > IDea配置总结（更新于201912）
+ ## [自动驾驶（五十九）---------模糊逻辑](https://blog.csdn.net/zhouyy858/article/details/103701226)
+ > 自动驾驶（五十九）---------模糊逻辑
+ ## [【读书笔记】《人工智能基础——高中版》](https://blog.csdn.net/weixin_39304956/article/details/103705437)
+ > 【读书笔记】《人工智能基础——高中版》
+ ## [滴滴叶杰平：年运送乘客百亿次，AI如何“服务”出行领域？| BDTC 2019](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103708094)
+ > 滴滴叶杰平：年运送乘客百亿次，AI如何“服务”出行领域？| BDTC 2019
+ ## [2019年，CSDN有哪些值得学习的专栏？](https://blog.csdn.net/csdngkk/article/details/103682497)
+ > 2019年，CSDN有哪些值得学习的专栏？
+ ## [多线程排序-真香](https://blog.csdn.net/hyb612/article/details/103705632)
+ > 
+ ## [搞懂这三个指标，数据分析起码少费一半力](https://blog.csdn.net/yuanziok/article/details/103709861)
+ > 搞懂这三个指标，数据分析起码少费一半力
+ ## [腾讯云突破1000亿的瓶颈是什么？](https://blog.csdn.net/weixin_42704903/article/details/103697139)
+ > 腾讯云突破1000亿的瓶颈是什么？
+ ## [一题算法|求随机数索引](https://blog.csdn.net/z694644032/article/details/103700178)
+ > 一题算法|求随机数索引
+ ## [线性回归、Lasso回归、岭回归预测北京PM2.5浓度](https://blog.csdn.net/weixin_43060843/article/details/103719911)
+ > 线性回归、Lasso回归、岭回归预测北京PM2.5浓度
+ ## [跳槽是涨薪的最快途径？](https://blog.csdn.net/csdnsevenn/article/details/103675731)
+ > 跳槽是涨薪的最快途径？
+ ## [学的快还是忘的快](https://blog.csdn.net/q464042566/article/details/103671838)
+ > 学的快还是忘的快
+ ## [分页存储方式管理模拟 C++实现](https://blog.csdn.net/ajffaj/article/details/103701333)
+ > 分页存储方式管理模拟 C++实现
+ ## [什么是人工智能？人工智能、机器学习、深度学习三者之间有什么关系吗？](https://blog.csdn.net/jxq0816/article/details/103715257)
+ > 什么是人工智能？人工智能、机器学习、深度学习三者之间有什么关系吗？
 # PM 
- ## [2020，工业设计的五大趋势？](http://www.woshipm.com/pd/3257460.html)
- > 来自2020的工业设计速递——2019剩下不到一个星期。相信大家的收藏夹、邮件箱、通知栏早被2019的各种盘点塞满；而且随着新年的钟声越来越近，各种关于2020的趋势预测也...
- ## [从场、人、货聊聊：什么是新零售？](http://www.woshipm.com/newretail/3258686.html)
- > 通俗地说，零售就是我们怎么让货、产品和用户之间产生关系，如何把产品卖给用户，或者反过来说，如何去为用户找到产品。这两年有一个概念特别火，那就是新零售。可到...
- ## [企业微信和个人微信的10个区别](http://www.woshipm.com/pd/3256631.html)
- > 微信，是腾讯公司推出的一个为智能终端提供即时通讯服务的免费应用程序。企业微信，是腾讯微信团队为企业打造的高效办公平台。改版说两句：微信改版：让大家慢慢的成...
- ## [建议收藏：最全UI/ UX设计指南](http://www.woshipm.com/pd/3260026.html)
- > 本文旨在收集用于创建Web和移动应用程序设计中，UX和UI设计过程的所有理论。设计决定了大多数软件产品的成功。软件开发为各种网站和应用程序产品的设计提供了新的方法...
- ## [深度解析互联网健身赛道：究竟是冰山还是火焰？](http://www.woshipm.com/it/3259667.html)
- > 挑战与机遇通常相伴相随，从互联网产品过往发展路径可以看出，所有垂类产品进入更大发展阶段都会遭遇的共性问题，成功度过瓶颈期的公司会迎来更大的发展空间。如今，机...
- ## [2019年，MCN机构们活得怎么样了？](http://www.woshipm.com/it/3259350.html)
- > 2016年，从Papi酱2200万元一集的贴片广告开始，MCN开始成为炙手可热的创业赛道。经历四年野蛮生长，全国涌现出近7000家MCN机构，2019年即将成为过去时，MCN机构们活得怎...
- ## [产品经理周报第 97 期｜微信公众号系统出现大范围瘫痪；天猫年货节将于1月2日启动](http://www.woshipm.com/it/3259706.html)
- > 早上好呀，今天又是周五啦不知道大家有没有抢好春运回家的票呢？今天已经要购买大年初一的啦没有买到票的小伙伴们，要多注意12306哦最近天气较冷，大家也要多注意添...
+ ## [产品经理必备之如何进行需求分析？](http://www.woshipm.com/pmd/3240627.html)
+ > 本文讨论的需求分析是指从用户提出的需求出发，挖掘用户内心真正的目标，并转化成产品需求的过程。如今产品经理逐渐发展出诸如数据产品经理、电商产品经理、金融产品...
+ ## [产品周期不可缺少的流程：被遗忘的产品立项](http://www.woshipm.com/pmd/3260042.html)
+ > 在需求评审之后，不知道大伙有没有产品立项的观念？本文作者总结了产品立项的4点好处以及具体方法，希望看完后你能对产品立项有更清楚的认识。01 被遗忘的产品立项节...
+ ## [ToB的生意真相，你看到几个？](http://www.woshipm.com/it/3261438.html)
+ > 所谓真相，无非是各种尝试之后还剩下的、尚未发现是错的东西。一、确定你做的是ToB生意？概念上，所有的互联网公司都是SaaS公司，而用户为企业的软件公司都是ToB公司...
+ ## [深度长文（一）：什么是产品架构？](http://www.woshipm.com/pd/3261211.html)
+ > 一切脱离业务的架构都是耍流氓，产品更是如此。本文主要先跟大家整体讲一下产品架构的基本概念和方法~enjoy。我们常常会看到“产品架构”这个词，甚至能看到有些公司专...
+ ## [关于获客成本，你需要知道这几点](http://www.woshipm.com/operate/3256255.html)
+ > 文章结合场景实例，对获客成本进行了详解，希望本文的总结，能够为大家提供一些参考。优秀的营销专家们通常会帮助其所在的企业获得远期成长。然而，他们似乎也会周期...
+ ## [会员制：打败盗版内容的杀手锏](http://www.woshipm.com/it/3259994.html)
+ > 盗版与互联网是一对连体婴，会员制背后才有一把手术刀！腾讯视频的《庆余年》先是因为“VVIP”事件被各路网友口诛笔伐，紧接着又被曝出全集泄露事件。盗版的流出让部分...
+ ## [小程序背后：巨头们各自为阵的四大移动新生态](http://www.woshipm.com/it/3261080.html)
+ > 小程序领域还没有形成类似智能手机市场这样的固化格局，但是构建小程序生态的腾讯、阿里、百度、字节跳动，和没有构建起这种小程序生态的其他玩家，当然也会拉开越来越...
+ ## [Excel数据透视表篇：4个方面出发，解决80%职场需求](http://www.woshipm.com/zhichang/3239207.html)
+ > 文章为B端产品经理根据入职1年来工作所需，结合Excel线上课程所学，总结沉淀的数据透视表文档。作者尝试用两篇（函数篇+透视表篇）讲述初阶产品Excel80%职场需求，接...
+ ## [创新的5种可能性：没有创新的企业，都是“套利”](http://www.woshipm.com/chuangye/3260993.html)
+ > 只有创新，才有利润，否则都只是“套利”，钱赚不长久，也不会丰厚。常有人问我类似的问题：利润来自于哪里？或者是这么问吧，怎样赚更多的利润（钱）？我说只有创新，...
+ ## [3个阶段，解析运营活动类产品的设计要点](http://www.woshipm.com/pd/3251592.html)
+ > 本文从活动前、活动中、活动后三个部分，对运营活动类产品进行要点分析与问题点分析，希望对你有所启发。产品有偏工具类产品和偏运营活动类产品。本篇文章介绍一些做...
+ ## [聊聊中台：如何规划中台产品线？](http://www.woshipm.com/pd/3258821.html)
+ > 本文以阿里中台为例出发，分析了业务中台应该如何合理规划产品线。13年马云参观supercell，学习所谓的“大中台架构”，据此调整阿里巴巴的组织结构，以避免了大公司常见...
+ ## [对互联网营销/运营人来说，如何快速成长、打造核心竞争力？](http://www.woshipm.com/zhichang/3260184.html)
+ > 本文介绍了互联网营销运营的重要性、如何搭建相关能力体系与对应技能。这个文章，除了希望能帮助大家快速成长为具备核心竞争力、独当一面的互联网营销/运营人，和在现...
  ## [B端产品设计之路(上)](http://www.chanpin100.com/article/110452)
  > 近年来，互联网进入下半场，C端流量红利逐渐消退，很多企业转向了B端服务，随之而来的是产品设计者的转型，现在越来越多的C端产品设计师开始涉足到B端产品的设计，这是一个知识迁移的过程，需要认识到这2类产品的特点和区别，才能够快速适应这个迁移的过程。
  ## [出海App：怎么取一个洋气的英文名字](http://www.chanpin100.com/article/110449)
  > 这是一份「怎么取App英文名字」的总结，但是思路也可以用在中文取名里面。
- ## [解构私域流量（2）：如何构建微信私域闭环？](http://www.chanpin100.com/article/110446)
- > 2019，微信想和你一起，赚别人的钱。
- ## [打好AI这副牌，运营商如何做好智能化落地？](http://www.chanpin100.com/article/110445)
- > 随着5G及AI时代的到来，通信行业的竞争也越发激烈，各大运营商都希望能在每个业务中通过AI+方式为客户提供更优质的服务，提升用户满意度，保留更多的用户。本文将结合AI中的NLP模型在通信运营商实际生产环境中的构建落地，从而达到为通信业务用户服务增值增效，同时保留维系客户的应用目标进行阐述。
- ## [App短信引流：如何唤醒沉默/流失用户](http://www.chanpin100.com/article/110444)
- > 现在的互联网红利消失殆尽，App想要获取新增用户变得越来越难了，并且多数的App的卸载量都在提高，所以不少的互联网产品把目光放在了如何唤醒那些沉默和已经流失的用户身上。引流、召回用户的方式有很多，而短信召回、引流是相对有效的方式之一。
 
     
