@@ -1,18 +1,18 @@
 ---
 title: 2019-12-29 IT News
 copyright: true
-date: 2019-12-29 08:00:48
+date: 2019-12-29 09:01:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [三大运营商压力陡增的2019：利润困境、携号转网添堵、5G建网缺钱](http://mp.weixin.qq.com/s?src=11&timestamp=1577575805&ver=2063&signature=EAbOn7f4ZMB29q9ogswSLNiIkb8EHu6h88yeZTFRM9YQkheZDCOc6n1pn*MfSVh3IeRGNZgCfPY-qTEPHo3nzRYnQ*oyhSaVWMrmc6*l*cEm5bDaU7Sf5kwOXLTM2NB4&new=1)
- > 运营商财经网 吴碧慧/文2019年即将接近尾声，这对三大运营商而言，今年一年既是5G发展元年，也是自身经营压力陡增的一年。不仅收入、利润没了快速增长，甚至出现前所未有的下滑，而携号转网让三大运营商竞争矛盾...
- ## [加速公司发展，英众科技启动IPO上市](http://mp.weixin.qq.com/s?src=11&timestamp=1577575805&ver=2063&signature=tO0xceQI0vEpakFxzbfsRo*6jWRDbUjSPN-shUxKjtgGho0WXn68ebyfaOyivSqxymj8sdaECF4tzhA-nZ-FAykekLMA0hyHk240gd0E0LML-VJJjx150yA56z*NX5E6&new=1)
- > 2019年12月28日，英众世纪智能科技有限公司举行IPO上市启动会。会上，英众科技与国泰君安证券、上海锦天城律师事务所、天健会计师事务所三家机构签订正式合作协议，标志着英众科技IPO工作的正式启动。英众科技将...
- ## [俄媒：5G，原来你是这样的——](http://mp.weixin.qq.com/s?src=11&timestamp=1577575805&ver=2063&signature=je-Lo1o-VFJV-3uFJu6efqUjpnQPBSVH4e3nW7gfzs424YASI*Xunn4f5rZ*3L0CDCS6OEHmzBGzCAxmLT4sinigGgJhVsX98pHFJ4w5VUs=&new=1)
+ ## [俄媒：5G，原来你是这样的——](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=je-Lo1o-VFJV-3uFJu6efqUjpnQPBSVH4e3nW7gfzs4zMX57l9A0k0FeCwInSPQPqLArDl0UTzE4jIsqwr2X8eZSyYecRFjqzql77US-m2w=&new=1)
  > 参考消息网12月29日报道 即将告别的2019年，注定要被5G浓浓地画上一笔。这一年里，无论是5G商用还是围绕5G技术的各种国际竞争，每件事都格外引人注目。5G也定然在各种2019年盘点里占有一席之地。比如俄罗斯卫星...
- ## [盘点2019：5G商用，一个新时代终于来临](http://mp.weixin.qq.com/s?src=11&timestamp=1577575805&ver=2063&signature=KHnTxMrZtf0kGSC29RUTYIOyb-bDc-QLoAtKyFGYgJBDYo9KQiQip4hfqYb*laFMAEnd3wEdm3-MwFB2nn9ij7Kz-kZtoPRCsyfTLIRSnrUFxF4Q0D1rRcpqDHRPs8db&new=1)
+ ## [三大运营商压力陡增的2019：利润困境、携号转网添堵、5G建网缺钱](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=EAbOn7f4ZMB29q9ogswSLNiIkb8EHu6h88yeZTFRM9aW-kHhVd-X9xeenZiaRMSdq*C6vDSkIoM-yHyNGGqn1Ka2tiGmZC1m48Tn6NZKsHX*XfF8r7*EeO6lSj7Vv3OP&new=1)
+ > 运营商财经网 吴碧慧/文2019年即将接近尾声，这对三大运营商而言，今年一年既是5G发展元年，也是自身经营压力陡增的一年。不仅收入、利润没了快速增长，甚至出现前所未有的下滑，而携号转网让三大运营商竞争矛盾...
+ ## [加速公司发展，英众科技启动IPO上市](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=tO0xceQI0vEpakFxzbfsRo*6jWRDbUjSPN-shUxKjtiXQmdm-i1925WxCDH3az4Tf-K6WkWevbxS7XfMBLppGeLrlQa-9vfslJHg64vKLtm3Qp9T5pnXRE2m0bGvtoLO&new=1)
+ > 2019年12月28日，英众世纪智能科技有限公司举行IPO上市启动会。会上，英众科技与国泰君安证券、上海锦天城律师事务所、天健会计师事务所三家机构签订正式合作协议，标志着英众科技IPO工作的正式启动。英众科技将...
+ ## [盘点2019：5G商用，一个新时代终于来临](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=KHnTxMrZtf0kGSC29RUTYIOyb-bDc-QLoAtKyFGYgJC8Cbnv4LhQjO1pI5G-KY5u8SHxZOAdQyaHZCxVWX3VpBI0bddw3EBj3lXsfPii9dJcUvaKkKNaNbts6x0Qv9KG&new=1)
  > 2019年11月1日，5G在国内正式商用，那一天，一个新时代的帷幕逐渐被拉起。　　那么，5G对于我们普通用户来说意味着什么呢？仅仅是更快的网速吗？　　说5G之前，不如我们先聊聊十年前的一些事，那时候出门要带钱...
 # IT 技术 
  ## [【大咖来了 第9期】数据安全之数据库安全黄金法则](http://bigdata.51cto.com/art/201912/608580.htm)
@@ -31,68 +31,64 @@ categories: IT NEWS
  > 存储级内存不会取代DRAM或NAND
  ## [决战春运之巅，我们用这个项目抢到了火车票](http://developer.51cto.com/art/201912/608506.htm)
  > 决战春运之巅，我们用这个项目抢到了火车票
- ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
- > 华为EMUI10带来开发者福音：一次开发多端部署
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [体系结构与操作系统拾遗](https://blog.csdn.net/qiuxuewei2012/article/details/103747632)
- > 体系结构与操作系统拾遗
- ## [Netty高性能架构之Reactor模式](https://blog.csdn.net/qq_38526573/article/details/103744941)
- > Netty高性能架构之Reactor模式
- ## [洛谷.T1538_迎新舞会之数字舞蹈.cpp](https://blog.csdn.net/qq_45836372/article/details/103743475)
- > 洛谷.T1538_迎新舞会之数字舞蹈.cpp
  ## [用python爬取历史天气数据](https://blog.csdn.net/huatmpa/article/details/103740764)
  > 用python爬取历史天气数据
+ ## [java实现查询热点信息并发送至qq邮箱](https://blog.csdn.net/qq_37991944/article/details/103651197)
+ > java实现查询热点信息并发送至qq邮箱
+ ## [java优化代码常见套路](https://blog.csdn.net/qq_43517653/article/details/103741824)
+ > java优化代码常见套路
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [《Classification of Trash for Recyclability Status》论文笔记](https://blog.csdn.net/weixin_42994580/article/details/103747750)
- > 《Classification of Trash for Recyclability Status》论文笔记
- ## [带你彻底掌握 Lambda 表达式（上）](https://blog.csdn.net/shansusu/article/details/103746706)
- > 带你彻底掌握 Lambda 表达式（上）
- ## [pytorch 自学笔记 01](https://blog.csdn.net/weixin_38298363/article/details/103747313)
- > pytorch 自学笔记 01
- ## [springcloud实战项目总结](https://blog.csdn.net/what_where/article/details/103742954)
- > springcloud实战项目总结
  ## [mycat的分片算法](https://blog.csdn.net/qq_20143059/article/details/103507097)
  > mycat的分片算法
+ ## [数据库篇-权限](https://blog.csdn.net/qq_37181122/article/details/103742745)
+ > 数据库篇-权限
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [《TCP/IP 卷1》笔记：ARP协议](https://blog.csdn.net/wengfuying5308/article/details/103745005)
- > 《TCP/IP 卷1》笔记：ARP协议
- ## [Android点击button触发Toast事件，弹出一个小小的消息框,几秒钟之后自动消失](https://blog.csdn.net/YENTERTAINR/article/details/103743046)
- > Android点击button触发Toast事件，弹出一个小小的消息框,几秒钟之后自动消失
- ## [逐步实现智慧人居，AIoT 是如何做到的？](https://blog.csdn.net/csdnnews/article/details/103750342)
- > 受访者 | 许振斌记者 | 唐小引编辑 | 屠敏出品 | CSDN（ID：CSDNnews）1930 年，知名英国经济学家凯恩斯曾发表了一篇具有预言性质的文章《我们后代在经济上的可能前景...
-# 人工智能 
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [git放弃本地修改:](https://blog.csdn.net/weixin_43970743/article/details/100983738)
- > git放弃本地修改:
- ## [创业笔记备份](https://blog.csdn.net/weixin_43606158/article/details/100971057)
- > 创业笔记备份
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
+ ## [从数组到链表1](https://blog.csdn.net/Eumenides_Suki/article/details/103747525)
+ > 从数组到链表1
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [购买安装和配置最新idea教程2019](https://blog.csdn.net/qq_37909508/article/details/97818824)
- > 购买安装和配置最新idea教程2019
- ## [Selenium教程系列（一）：介绍](https://blog.csdn.net/kingzhsh/article/details/100175342)
- > Selenium教程系列（一）：介绍
- ## [Process finished with exit code 1](https://blog.csdn.net/weixin_41217541/article/details/95165461)
- > Process finished with exit code 1
- ## [电子礼簿软件](https://blog.csdn.net/u014650759/article/details/81389951)
- > 电子礼簿软件
- ## [SSM整合之企业级后台管理系统(2) - 搭建集成开发环境](https://blog.csdn.net/u012586848/article/details/100928720)
- > SSM整合之企业级后台管理系统(2) - 搭建集成开发环境
- ## [SpringBoot系列：Spring Boot 依赖环境、项目结构与项目demo](https://blog.csdn.net/mu_wind/article/details/94294138)
- > SpringBoot系列：Spring Boot 依赖环境、项目结构与项目demo
- ## [win10企业版2016长期服务版激活方法](https://blog.csdn.net/fengqingtao2008/article/details/96724477)
- > win10企业版2016长期服务版激活方法
- ## [IDEA快速实现接口、查找接口的实现、getSet方法快速生成等等常用快捷键](https://blog.csdn.net/qq_44543508/article/details/100084711)
- > IDEA快速实现接口、查找接口的实现、getSet方法快速生成等等常用快捷键
- ## [CI/CD是什么？](https://blog.csdn.net/asstsui/article/details/89554013)
- > CI/CD是什么？
- ## [JRebel for IntelliJ  热部署破解方法](https://blog.csdn.net/is_chenzh/article/details/82148157)
- > JRebel for IntelliJ  热部署破解方法
+ ## [雅思机考经验（上海机考中心）](https://blog.csdn.net/DSTJWJW/article/details/103741312)
+ > 雅思机考经验（上海机考中心）
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [我们开发的基于kaldi的嵌入式语音识别系统升级成深度学习啦](https://blog.csdn.net/david_tym/article/details/103748878)
+ > 我们开发的基于kaldi的嵌入式语音识别系统升级成深度学习啦
+# 人工智能 
+ ## [window Nginx+Tomcat 集群搭建](https://blog.csdn.net/qq_24892029/article/details/81391311)
+ > window Nginx+Tomcat 集群搭建
+ ## [IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）](https://blog.csdn.net/weixin_43272781/article/details/100858230)
+ > IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）
+ ## [Python3.6+selenium2.53.6自动化测试_is_radio](https://blog.csdn.net/dengachao/article/details/97119320)
+ > Python3.6+selenium2.53.6自动化测试_is_radio
+ ## [分享各大CMS采集资源站网址合集](https://blog.csdn.net/qq_41684621/article/details/96766877)
+ > 分享各大CMS采集资源站网址合集
+ ## [keepalived+nginx实现高可用](https://blog.csdn.net/wlh525/article/details/96979792)
+ > keepalived+nginx实现高可用
+ ## [vuex里面的this.$store.dispatch方法](https://blog.csdn.net/lemonC77/article/details/95077691)
+ > vuex里面的this.$store.dispatch方法
+ ## [解决前端跨域：has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header...](https://blog.csdn.net/qq_40088443/article/details/100887770)
+ > 解决前端跨域：has been blocked by CORS policy: No &x27;Access-Control-Allow-Origin&x27; header...
+ ## [mysql导出导入linux脚本sh](https://blog.csdn.net/u013015301/article/details/96984765)
+ > mysql导出导入linux脚本sh
+ ## [centos7安装redis并设置开机启动](https://blog.csdn.net/qq_43106863/article/details/95205134)
+ > centos7安装redis并设置开机启动
+ ## [make 命令出现："make:*** No targets specified and no makefile found.Stop."](https://blog.csdn.net/shun35/article/details/94576800)
+ > make 命令出现：&quot;make:*** No targets specified and no makefile found.Stop.&quot;
+ ## [迅雷 应版权方要求，文件无法下载 解决方法](https://blog.csdn.net/bookanddream/article/details/97562276)
+ > 迅雷 应版权方要求，文件无法下载 解决方法
+ ## [常用稳定公共NTP时间同步服务器](https://blog.csdn.net/weixin_42588262/article/details/82501488)
+ > 常用稳定公共NTP时间同步服务器
+ ## [使用Docker搭建Jenkins到自动构建，自动部署（全过程，避免踩坑版）！](https://blog.csdn.net/ma726518972/article/details/94738790)
+ > 使用Docker搭建Jenkins到自动构建，自动部署（全过程，避免踩坑版）！
+ ## [\[HTTP协议\]基础篇](https://blog.csdn.net/weixin_40964820/article/details/95202899)
+ > \[HTTP协议\]基础篇
+ ## [微信小程序毕业设计、微信小程序商城毕业设计](https://blog.csdn.net/u013818205/article/details/94600000)
+ > 微信小程序毕业设计、微信小程序商城毕业设计
 
     
