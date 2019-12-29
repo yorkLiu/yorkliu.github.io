@@ -1,18 +1,22 @@
 ---
 title: 2019-12-29 IT News
 copyright: true
-date: 2019-12-29 09:01:59
+date: 2019-12-29 10:02:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [俄媒：5G，原来你是这样的——](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=je-Lo1o-VFJV-3uFJu6efqUjpnQPBSVH4e3nW7gfzs4zMX57l9A0k0FeCwInSPQPqLArDl0UTzE4jIsqwr2X8eZSyYecRFjqzql77US-m2w=&new=1)
- > 参考消息网12月29日报道 即将告别的2019年，注定要被5G浓浓地画上一笔。这一年里，无论是5G商用还是围绕5G技术的各种国际竞争，每件事都格外引人注目。5G也定然在各种2019年盘点里占有一席之地。比如俄罗斯卫星...
- ## [三大运营商压力陡增的2019：利润困境、携号转网添堵、5G建网缺钱](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=EAbOn7f4ZMB29q9ogswSLNiIkb8EHu6h88yeZTFRM9aW-kHhVd-X9xeenZiaRMSdq*C6vDSkIoM-yHyNGGqn1Ka2tiGmZC1m48Tn6NZKsHX*XfF8r7*EeO6lSj7Vv3OP&new=1)
+ ## [丰田公司推出新机器人：可远程操控照顾老人](http://mp.weixin.qq.com/s?src=11&timestamp=1577583005&ver=2063&signature=je-Lo1o-VFJV-3uFJu6efqUjpnQPBSVH4e3nW7gfzs4uSN*8ni3KL9ZKRmSqZlUOP1HwK6H8XdN6dMf3ls-4K7cJCa43ft-TZ3IUFJnpG7w=&new=1)
+ > 参考消息网12月29日报道 日媒称，人口日益老龄化，对具体帮助的需求日益增多，但缺乏提供帮助的资金和看护人。日本的丰田汽车公司认为，它们能解决这个问题。据路透社12月19日报道，18日，在东京国际机器人展览...
+ ## [\[科技早报7点整\]美情报公司指责中国量子技术 蔚来发布轿跑SUV车型EC6……](http://mp.weixin.qq.com/s?src=11&timestamp=1577583005&ver=2063&signature=iMtGdIZfad3bdf2-QUYEt0ovjjbUtukDOnAXoCAjqVqjdukV-vpzPSM4ddLYRaK-oK4CxhysaMDk9eDwro4dsMIFoo-m6qBkE0iwAYr8eQCNDc86nz4NqTq4WJlR8q8B&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第686期1.董明珠的带货能力有多强？今年开网店已卖3.5亿元格力电器董事长董明珠称，她开的网店今年以来已经卖出了3.5亿元的销售额。她还表示，“企业家是对社会做贡献，一定是...
+ ## [三大运营商压力陡增的2019：利润困境、携号转网添堵、5G建网缺钱](http://mp.weixin.qq.com/s?src=11&timestamp=1577583005&ver=2063&signature=EAbOn7f4ZMB29q9ogswSLNiIkb8EHu6h88yeZTFRM9aW-kHhVd-X9xeenZiaRMSduE1Rpm4HY9npcavJK07YtS0RxXzgUSHHXBDVR5Vq4ddrlZj7nEXEMxQOUWLIb3MI&new=1)
  > 运营商财经网 吴碧慧/文2019年即将接近尾声，这对三大运营商而言，今年一年既是5G发展元年，也是自身经营压力陡增的一年。不仅收入、利润没了快速增长，甚至出现前所未有的下滑，而携号转网让三大运营商竞争矛盾...
- ## [加速公司发展，英众科技启动IPO上市](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=tO0xceQI0vEpakFxzbfsRo*6jWRDbUjSPN-shUxKjtiXQmdm-i1925WxCDH3az4Tf-K6WkWevbxS7XfMBLppGeLrlQa-9vfslJHg64vKLtm3Qp9T5pnXRE2m0bGvtoLO&new=1)
+ ## [俄媒：5G，原来你是这样的——](http://mp.weixin.qq.com/s?src=11&timestamp=1577583005&ver=2063&signature=je-Lo1o-VFJV-3uFJu6efqUjpnQPBSVH4e3nW7gfzs4qefD3Utg9QNCXSIhNbzvw44ovHPB0drfy8goM-rX1xruG3zE*OMcjpSE398UHpnI=&new=1)
+ > 参考消息网12月29日报道 即将告别的2019年，注定要被5G浓浓地画上一笔。这一年里，无论是5G商用还是围绕5G技术的各种国际竞争，每件事都格外引人注目。5G也定然在各种2019年盘点里占有一席之地。比如俄罗斯卫星...
+ ## [加速公司发展，英众科技启动IPO上市](http://mp.weixin.qq.com/s?src=11&timestamp=1577583005&ver=2063&signature=tO0xceQI0vEpakFxzbfsRo*6jWRDbUjSPN-shUxKjtiXQmdm-i1925WxCDH3az4TvqE3x8maeUnZzruxu61Ha3CQL6nmPrf-uEtcQ0mbWcLhWfWXhgaZIMoTEQshEgvO&new=1)
  > 2019年12月28日，英众世纪智能科技有限公司举行IPO上市启动会。会上，英众科技与国泰君安证券、上海锦天城律师事务所、天健会计师事务所三家机构签订正式合作协议，标志着英众科技IPO工作的正式启动。英众科技将...
- ## [盘点2019：5G商用，一个新时代终于来临](http://mp.weixin.qq.com/s?src=11&timestamp=1577581206&ver=2063&signature=KHnTxMrZtf0kGSC29RUTYIOyb-bDc-QLoAtKyFGYgJC8Cbnv4LhQjO1pI5G-KY5u8SHxZOAdQyaHZCxVWX3VpBI0bddw3EBj3lXsfPii9dJcUvaKkKNaNbts6x0Qv9KG&new=1)
+ ## [盘点2019：5G商用，一个新时代终于来临](http://mp.weixin.qq.com/s?src=11&timestamp=1577583005&ver=2063&signature=KHnTxMrZtf0kGSC29RUTYIOyb-bDc-QLoAtKyFGYgJC8Cbnv4LhQjO1pI5G-KY5uldYmzaoqgl3DsVIUu2l9TeOa8GTVhCA7hugSBfwYfj4RmuV7rMuTycm86IHSO4U3&new=1)
  > 2019年11月1日，5G在国内正式商用，那一天，一个新时代的帷幕逐渐被拉起。　　那么，5G对于我们普通用户来说意味着什么呢？仅仅是更快的网速吗？　　说5G之前，不如我们先聊聊十年前的一些事，那时候出门要带钱...
 # IT 技术 
  ## [【大咖来了 第9期】数据安全之数据库安全黄金法则](http://bigdata.51cto.com/art/201912/608580.htm)
@@ -33,62 +37,64 @@ categories: IT NEWS
  > 决战春运之巅，我们用这个项目抢到了火车票
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [用python爬取历史天气数据](https://blog.csdn.net/huatmpa/article/details/103740764)
- > 用python爬取历史天气数据
- ## [java实现查询热点信息并发送至qq邮箱](https://blog.csdn.net/qq_37991944/article/details/103651197)
- > java实现查询热点信息并发送至qq邮箱
- ## [java优化代码常见套路](https://blog.csdn.net/qq_43517653/article/details/103741824)
- > java优化代码常见套路
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [mycat的分片算法](https://blog.csdn.net/qq_20143059/article/details/103507097)
- > mycat的分片算法
- ## [数据库篇-权限](https://blog.csdn.net/qq_37181122/article/details/103742745)
- > 数据库篇-权限
+ ## [【网站密码管理不用愁】运用篇 • 自动化定时签到脚本，再也不用担心忘记网站签到](https://blog.csdn.net/nilvya/article/details/103727758)
+ > 【网站密码管理不用愁】运用篇 • 自动化定时签到脚本，再也不用担心忘记网站签到
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [HTML中img标签base64显示图片](https://blog.csdn.net/gdkyxy2013/article/details/103748351)
+ > HTML中img标签base64显示图片
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [从数组到链表1](https://blog.csdn.net/Eumenides_Suki/article/details/103747525)
- > 从数组到链表1
+ ## [Android中优雅的线程切换写法（二）](https://blog.csdn.net/w366549434/article/details/103748081)
+ > Android中优雅的线程切换写法（二）
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [雅思机考经验（上海机考中心）](https://blog.csdn.net/DSTJWJW/article/details/103741312)
- > 雅思机考经验（上海机考中心）
+ ## [c/c++：UDP（udp通信、广播、组播），本地套接字](https://blog.csdn.net/qq_35883464/article/details/103741461)
+ > c/c++：UDP（udp通信、广播、组播），本地套接字
  ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
  > 比特币原理详解
- ## [我们开发的基于kaldi的嵌入式语音识别系统升级成深度学习啦](https://blog.csdn.net/david_tym/article/details/103748878)
- > 我们开发的基于kaldi的嵌入式语音识别系统升级成深度学习啦
+ ## [Android 双向滑动表格控件实现--FormLayoutManager](https://blog.csdn.net/DNWalter/article/details/103744584)
+ > Android 双向滑动表格控件实现--FormLayoutManager
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ > 
+ ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ > 
+ ## [Java基础——反射](https://blog.csdn.net/xuecheng2003/article/details/103743918)
+ > Java基础——反射
+ ## [BootStrap-bable-treegrid树形表格的使用](https://blog.csdn.net/qq_40205116/article/details/103740104)
+ > BootStrap-bable-treegrid树形表格的使用
+ ## [逐步实现智慧人居，AIoT 是如何做到的？](https://blog.csdn.net/csdnnews/article/details/103750342)
+ > 受访者 | 许振斌记者 | 唐小引编辑 | 屠敏出品 | CSDN（ID：CSDNnews）1930 年，知名英国经济学家凯恩斯曾发表了一篇具有预言性质的文章《我们后代在经济上的可能前景...
 # 人工智能 
- ## [window Nginx+Tomcat 集群搭建](https://blog.csdn.net/qq_24892029/article/details/81391311)
- > window Nginx+Tomcat 集群搭建
- ## [IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）](https://blog.csdn.net/weixin_43272781/article/details/100858230)
- > IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）
- ## [Python3.6+selenium2.53.6自动化测试_is_radio](https://blog.csdn.net/dengachao/article/details/97119320)
- > Python3.6+selenium2.53.6自动化测试_is_radio
- ## [分享各大CMS采集资源站网址合集](https://blog.csdn.net/qq_41684621/article/details/96766877)
- > 分享各大CMS采集资源站网址合集
- ## [keepalived+nginx实现高可用](https://blog.csdn.net/wlh525/article/details/96979792)
- > keepalived+nginx实现高可用
- ## [vuex里面的this.$store.dispatch方法](https://blog.csdn.net/lemonC77/article/details/95077691)
- > vuex里面的this.$store.dispatch方法
- ## [解决前端跨域：has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header...](https://blog.csdn.net/qq_40088443/article/details/100887770)
- > 解决前端跨域：has been blocked by CORS policy: No &x27;Access-Control-Allow-Origin&x27; header...
- ## [mysql导出导入linux脚本sh](https://blog.csdn.net/u013015301/article/details/96984765)
- > mysql导出导入linux脚本sh
- ## [centos7安装redis并设置开机启动](https://blog.csdn.net/qq_43106863/article/details/95205134)
- > centos7安装redis并设置开机启动
- ## [make 命令出现："make:*** No targets specified and no makefile found.Stop."](https://blog.csdn.net/shun35/article/details/94576800)
- > make 命令出现：&quot;make:*** No targets specified and no makefile found.Stop.&quot;
- ## [迅雷 应版权方要求，文件无法下载 解决方法](https://blog.csdn.net/bookanddream/article/details/97562276)
- > 迅雷 应版权方要求，文件无法下载 解决方法
- ## [常用稳定公共NTP时间同步服务器](https://blog.csdn.net/weixin_42588262/article/details/82501488)
- > 常用稳定公共NTP时间同步服务器
- ## [使用Docker搭建Jenkins到自动构建，自动部署（全过程，避免踩坑版）！](https://blog.csdn.net/ma726518972/article/details/94738790)
- > 使用Docker搭建Jenkins到自动构建，自动部署（全过程，避免踩坑版）！
- ## [\[HTTP协议\]基础篇](https://blog.csdn.net/weixin_40964820/article/details/95202899)
- > \[HTTP协议\]基础篇
- ## [微信小程序毕业设计、微信小程序商城毕业设计](https://blog.csdn.net/u013818205/article/details/94600000)
- > 微信小程序毕业设计、微信小程序商城毕业设计
+ ## [incepter、hive 中日期操作函数的总结](https://blog.csdn.net/weixin_42493346/article/details/95480947)
+ > incepter、hive 中日期操作函数的总结
+ ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
+ > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
+ ## [Navicat 修改连接地址后，如何找回保存的查询记录](https://blog.csdn.net/S2T11Enterprise/article/details/101288845)
+ > Navicat 修改连接地址后，如何找回保存的查询记录
+ ## [MySQL中添加或插入语句(Insert)的几种使用方式](https://blog.csdn.net/qq_40194399/article/details/94554191)
+ > MySQL中添加或插入语句(Insert)的几种使用方式
+ ## [用layui实现下拉框select多选,取值](https://blog.csdn.net/gs981600308/article/details/96997967)
+ > 用layui实现下拉框select多选,取值
+ ## [Oracle外键约束](https://blog.csdn.net/shafatutu/article/details/95916966)
+ > Oracle外键约束
+ ## [Java Web学习笔记06：利用JDBC访问数据库](https://blog.csdn.net/howard2005/article/details/100696831)
+ > Java Web学习笔记06：利用JDBC访问数据库
+ ## [SpringBoot系列（9）：Mybatis之注解版](https://blog.csdn.net/mu_wind/article/details/100152077)
+ > SpringBoot系列（9）：Mybatis之注解版
+ ## [sql 行转列，列转行整合](https://blog.csdn.net/jungeCSND/article/details/101060085)
+ > sql 行转列，列转行整合
+ ## [Linux系统操作（9）：apt命令](https://blog.csdn.net/qq_41554005/article/details/100556444)
+ > Linux系统操作（9）：apt命令
+ ## [mybatis 的 insert](https://blog.csdn.net/yinlell/article/details/94733362)
+ > mybatis 的 insert
+ ## [Hive操作——删除表(drop、truncate)](https://blog.csdn.net/a_drjiaoda/article/details/94433005)
+ > Hive操作——删除表(drop、truncate)
+ ## [Collecting package metadata (current_repodata.json): done Solving environment: failed](https://blog.csdn.net/lancecrazy/article/details/96180736)
+ > Collecting package metadata (current_repodata.json): done Solving environment: failed
+ ## [MPP架构数据库优化总结——华为LibrA与GreenPlum](https://blog.csdn.net/alionsss/article/details/101106401)
+ > MPP架构数据库优化总结——华为LibrA与GreenPlum
+ ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
+ > mysql 8.0.17 解压版安装教程
 
     
