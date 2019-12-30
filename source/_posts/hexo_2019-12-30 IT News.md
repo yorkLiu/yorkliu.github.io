@@ -1,20 +1,22 @@
 ---
 title: 2019-12-30 IT News
 copyright: true
-date: 2019-12-30 08:00:49
+date: 2019-12-30 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国移动2020年度工作会议召开 杨杰称2019“总体平稳、稳中向好”](http://mp.weixin.qq.com/s?src=11&timestamp=1577662205&ver=2065&signature=pf7EDISkyYn7lu53mtZC7k4uj0BrZTzdTnwVAbPpjBmzYTwFLs2PArzrGFC*-K-2VGd*LZh2-T9fQ-ZbowHUEDwUwt8u-lC4vjIwqG1fgXH3YDciNUykoeRdvIeSdsYP&new=1)
- > 运营商财经网讯 中国移动在12月26日召开了2020年度工作会议，会上，中国移动董事长杨杰总结了2019年情况，称中国移动在2019年应对了多重影响，但在大体量和高基数基础上保持了企业发展总体平稳、稳中向好。全年4...
- ## [\[C114周报\]中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万](http://mp.weixin.qq.com/s?src=11&timestamp=1577662205&ver=2065&signature=w0KdiwH*nenIh-cP4vgo2n*nQnFm4m8HEXGDV9QUqsWKkxne4UbDcUCzbfIJHVKvRQc-PagLr*0mbP7xc4tSfAxTswgmyvxk67gHgbTMFlpZCZ1UpVhN4hd-FVMTgrkm&new=1)
+ ## [\[C114周报\]中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万](http://mp.weixin.qq.com/s?src=11&timestamp=1577667606&ver=2065&signature=w0KdiwH*nenIh-cP4vgo2n*nQnFm4m8HEXGDV9QUqsWKkxne4UbDcUCzbfIJHVKv2eO-qEhY6IKnF-5cJMkdOFRIMJR024v*DWpfmT-eA1UQCX28hgVMhyZVgVtgo8d0&new=1)
  > 周报WEEKLY本周热点有中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万• 第075期 •中国广电获得“192”号段12月24日12月24日，工信部发布重要通告称，正式向中国电...
- ## [性爱机器人已过时!能生孩子的机器人，正马不停蹄的赶来!](http://mp.weixin.qq.com/s?src=11&timestamp=1577662205&ver=2065&signature=2yXlDfTV-J*cXly0aNFoPWNgLBsDcUqU3m6kKlwg21N*ZHvOTHrWU-fDbqz54cc-CJnLjzfY2kB5HwLhZaSYjfmyOLtOa8bO4ivjic*UHm09qHjAd8MezCMyRqAbS9aV&new=1)
- > 问题：怎么才能每天都收到这种文章呢？？答案：点击手指上方的蓝色字体，再点击关注即可！来源：网络一百年前，苏联作家叶甫盖尼·伊万诺维奇·扎米亚京创作了小说《我们》，故事中的未来人类成了如同机器一般的...
- ## [全面解读工信部52号文：LoRa的2020年前景依然黯淡](http://mp.weixin.qq.com/s?src=11&timestamp=1577662205&ver=2065&signature=rDG*q0lTJ0UmFhdQmmn18tgezsqUEIIRqhPHkdo*AGQTgsRBIAxva7KFk*YaOq8H5*ZG198wYujd2NRBeUmjaybvmpIAY1TlmvbnTRG5vNLO3MN*aYcJlvEe9HsDcPp1&new=1)
+ ## [全面解读工信部52号文：LoRa的2020年前景依然黯淡](http://mp.weixin.qq.com/s?src=11&timestamp=1577667606&ver=2065&signature=rDG*q0lTJ0UmFhdQmmn18tgezsqUEIIRqhPHkdo*AGQTgsRBIAxva7KFk*YaOq8H7Nint5E0dE6brTKK-kx2HAocaBd-Csv-8-KeoGY93dXi0OMwGGZldw5ajZ1eNn5Y&new=1)
  > 2020年来临，业界有了很多对物联网各大技术的盘点和展望文章。我们看到，许多文章都提到了2019年11月28日，工业和信息化部发布的2019年第52号文《微功率短距离无线电发射设备目录和技术要求》。依然像以前一样，...
+ ## [中国移动2020年度工作会议召开 杨杰称2019“总体平稳、稳中向好”](http://mp.weixin.qq.com/s?src=11&timestamp=1577667606&ver=2065&signature=pf7EDISkyYn7lu53mtZC7k4uj0BrZTzdTnwVAbPpjBmzYTwFLs2PArzrGFC*-K-2-QsocyI5g97nzmWyv4jhvh3xAUk9rMCChzo0W9h*LUR3viAgVCqpRaQMg8ewRAmX&new=1)
+ > 运营商财经网讯 中国移动在12月26日召开了2020年度工作会议，会上，中国移动董事长杨杰总结了2019年情况，称中国移动在2019年应对了多重影响，但在大体量和高基数基础上保持了企业发展总体平稳、稳中向好。全年4...
+ ## [性爱机器人已过时!能生孩子的机器人，正马不停蹄的赶来!](http://mp.weixin.qq.com/s?src=11&timestamp=1577667606&ver=2065&signature=2yXlDfTV-J*cXly0aNFoPWNgLBsDcUqU3m6kKlwg21N*ZHvOTHrWU-fDbqz54cc-hFnF*kL63GS1bIFejNGPsfrxA*WF2zattvv7mZltwyuVv*XuWsx0vxsbeR8A3NpL&new=1)
+ > 问题：怎么才能每天都收到这种文章呢？？答案：点击手指上方的蓝色字体，再点击关注即可！来源：网络一百年前，苏联作家叶甫盖尼·伊万诺维奇·扎米亚京创作了小说《我们》，故事中的未来人类成了如同机器一般的...
 # IT 技术 
+ ## [太空数据即服务准备腾飞](http://network.51cto.com/art/201912/608598.htm)
+ > 太空数据即服务准备腾飞
  ## [【大咖来了 第9期】数据安全之数据库安全黄金法则](http://bigdata.51cto.com/art/201912/608580.htm)
  > 【大咖来了 第9期】数据安全之数据库安全黄金法则
  ## [这样“撩”大数据，小白都能看懂！](http://bigdata.51cto.com/art/201912/608528.htm)
@@ -29,38 +31,38 @@ categories: IT NEWS
  > 清华天才王垠受邀面试阿里P9被毙后手撕P10面试官赵海平！
  ## [存储级内存不会取代DRAM或NAND](http://stor.51cto.com/art/201912/608496.htm)
  > 存储级内存不会取代DRAM或NAND
- ## [决战春运之巅，我们用这个项目抢到了火车票](http://developer.51cto.com/art/201912/608506.htm)
- > 决战春运之巅，我们用这个项目抢到了火车票
- ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
- > 
+ ## [网络地址转换协议(NAT)及其应用实例](http://network.51cto.com/art/201912/608599.htm)
+ > 当在专用网内部的一些主机本来已经分配到了本地IP地址(即仅在本专用网内使用的专用地址)，但现在又想和因特
+ ## [H5项目性能优化注意事项](https://blog.csdn.net/qq_25506089/article/details/103753381)
+ > H5项目性能优化注意事项
+ ## [数据结构课设--医院排号系统](https://blog.csdn.net/weixin_45409198/article/details/103756283)
+ > 数据结构课设--医院排号系统
+ ## [浅析网站PV/UV统计系统的原理及其设计](https://blog.csdn.net/qinyuanpei/article/details/103753604)
+ > 浅析网站PV/UV统计系统的原理及其设计
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [Hyperledger Fabric区块链供应链金融实战2](https://blog.csdn.net/Yt7589/article/details/103752606)
- > Hyperledger Fabric区块链供应链金融实战2
- ## [JPress一个包罗万象的后台管理系统](https://blog.csdn.net/huaairen/article/details/103757371)
- > JPress一个包罗万象的后台管理系统
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [c++矩阵求逆的lu分解实现](https://blog.csdn.net/qq_16125223/article/details/103753972)
+ > c++矩阵求逆的lu分解实现
+ ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [Python TCPServer 多线程多客户端通信](https://blog.csdn.net/qq_31362767/article/details/103758119)
- > Python TCPServer 多线程多客户端通信
- ## [Linux(内核剖析):06---进程之线程介绍](https://blog.csdn.net/qq_41453285/article/details/103743253)
- > Linux(内核剖析):06---进程之线程介绍
+ ## [Spring Cloud入门-Bus消息总线(Hoxton版本)](https://blog.csdn.net/ThinkWon/article/details/103753372)
+ > Spring Cloud入门-Bus消息总线(Hoxton版本)
+ ## [DCC-GARCH模型用R语言详细实现步骤](https://blog.csdn.net/qq_36303521/article/details/103751415)
+ > DCC-GARCH模型用R语言详细实现步骤
+ ## [\[原理\] 说说Web请求的过程](https://blog.csdn.net/lidelin10/article/details/103754719)
+ > \[原理\] 说说Web请求的过程
+ ## [C++实现Linux下串口的读写](https://blog.csdn.net/BLUCEJIE/article/details/103753635)
+ > C++实现Linux下串口的读写
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [DDD提升我的开发效率](https://blog.csdn.net/baiyejianxin/article/details/103756000)
- > DDD提升我的开发效率
- ## [数据结构之——平衡二叉树（内容详解）](https://blog.csdn.net/m0_37914588/article/details/103754959)
- > 数据结构之——平衡二叉树（内容详解）
- ## [数据库篇-权限](https://blog.csdn.net/qq_37181122/article/details/103742745)
- > 数据库篇-权限
- ## [永兴的笔记-OpenCV简单绘图](https://blog.csdn.net/m0_43505377/article/details/103746386)
- > 永兴的笔记-OpenCV简单绘图
- ## [ViewPager的使用](https://blog.csdn.net/weixin_43605701/article/details/103753499)
- > ViewPager的使用
- ## [kurento RtpEndpoint获取rtp流](https://blog.csdn.net/Martin_chen2/article/details/102923326)
- > kurento RtpEndpoint获取rtp流
- ## [ROS与QT学习（二）：qt_ros的初步使用](https://blog.csdn.net/JIEJINQUANIL/article/details/103757022)
- > ROS与QT学习（二）：qt_ros的初步使用
+ ## [深度优先搜索算法(DFS)](https://blog.csdn.net/ChenZIDu/article/details/103753804)
+ > 深度优先搜索算法(DFS)
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
+ > 兼职程序员一般可以从什么平台接私活？
  ## [你的学习方法真的有效吗？](https://blog.csdn.net/csdnnews/article/details/103760160)
  > 2020年，你有什么愿望吗？不管怎样，都希望我们都不要忘了为自己充电。随着新媒体的发展潜移默化的改变了我们的学习方式，公众号风头很甚这些年，公众号遍地生根，你一定关注了很多，但哪些才是真...
  ## [35岁真的是一个坎吗？听完35岁码农的话，我放心了！](https://blog.csdn.net/csdnnews/article/details/103760159)
@@ -68,36 +70,36 @@ categories: IT NEWS
  ## [2019年度盘点四|彩电显示技术遍地开花，高清大屏或成突破点](http://www.lanjingtmt.com/news/detail/45348.shtml)
  > 对彩电企业而言，2019年的关键词既包括转型与自救，又包括AIoT与高清大屏显示技术。而这一年依然被业内认为是彩电行业的寒冬。
 # 人工智能 
- ## [12款好用的Visual Studio插件，最后一款良心推荐](https://blog.csdn.net/kebi007/article/details/103735669)
+ ## [【使用教程】面向回家编程-12306智能刷票，订票](https://blog.csdn.net/weixin_41638860/article/details/103734001)
+ > 【使用教程】面向回家编程-12306智能刷票，订票
+ ## [补充50道Java面试题，看着都很熟悉，能不能回答道点上？](https://blog.csdn.net/zlbdmm/article/details/103736163)
+ > 补充50道Java面试题，看着都很熟悉，能不能回答道点上？
+ ## [2019个人年度总结：平凡的我，仍然在平淡的生活里打拼，寻找未来的曙光。](https://blog.csdn.net/xh870189248/article/details/103718961)
+ > 2019个人年度总结：平凡的我，仍然在平淡的生活里打拼，寻找未来的曙光。
+ ## [Git 从入门到精通](https://blog.csdn.net/weixin_42710693/article/details/103735054)
+ > Git 从入门到精通
+ ## [根据机器的CPU、主板、MAC地址生成唯一的激活码，授权认证](https://blog.csdn.net/dagon123/article/details/103738045)
+ > 根据机器的CPU、主板、MAC地址生成唯一的激活码，授权认证
+ ## [学校的C语言题型](https://blog.csdn.net/Donsll/article/details/103724009)
+ > 学校的C语言题型
+ ## [java中的反射机制](https://blog.csdn.net/weixin_44027155/article/details/103738551)
+ > java中的反射机制
+ ## [实战开发支付SDK —— 对接微信支付看这一篇文章就够啦（含源码）](https://blog.csdn.net/weixin_38111957/article/details/103677760)
+ > 实战开发支付SDK —— 对接微信支付看这一篇文章就够啦（含源码）
+ ## [Skr-Eric的爬虫课堂（一）——爬虫的介绍和请求模块](https://blog.csdn.net/Skr_Eric/article/details/103735477)
+ > Skr-Eric的爬虫课堂（一）——爬虫的介绍和请求模块
+ ## [面向功利编程，面向Star开源? 一个开发者的2019反思总结](https://blog.csdn.net/mq2553299/article/details/103724606)
  > 
- ## [JS实现页面倒计时](https://blog.csdn.net/qq_37857921/article/details/103710451)
- > JS实现页面倒计时
- ## [校园综合平台-微信小程序版（整整两个月暑假的成果啊 (•ิ_•ิ)）](https://blog.csdn.net/weixin_44225182/article/details/103691495)
- > 校园综合平台-微信小程序版（整整两个月暑假的成果啊 (•ิ_•ิ)）
- ## [前端学习路线图](https://blog.csdn.net/webicketang/article/details/103702535)
- > 前端学习路线图
- ## [c操作Word，生成试卷（包含Latex公式）](https://blog.csdn.net/weixin_41746243/article/details/103731174)
- > c操作Word，生成试卷（包含Latex公式）
- ## [高效率工具：web前端开发VScode必备插件大全(欲其善其事必先利其器)](https://blog.csdn.net/weixin_44198965/article/details/103747866)
- > 高效率工具：web前端开发VScode必备插件大全(欲其善其事必先利其器)
- ## [纯HTML、CSS完成品优购电商项目](https://blog.csdn.net/weixin_45257157/article/details/103615130)
- > 纯HTML、CSS完成品优购电商项目
- ## [超好看的3D烟花代码](https://blog.csdn.net/yangaoyuan1999/article/details/103703840)
- > 超好看的3D烟花代码
- ## [2019年最新前端面试题，自我梳理（JS和CSS部分）](https://blog.csdn.net/weixin_45928135/article/details/103708963)
- > 2019年最新前端面试题，自我梳理（JS和CSS部分）
- ## [vue 加载目录下所有文件](https://blog.csdn.net/weixin_40438455/article/details/103741882)
- > vue 加载目录下所有文件
- ## [某校专业认证系统开发总结（基于vue开发）](https://blog.csdn.net/qq_42367749/article/details/103737708)
- > 某校专业认证系统开发总结（基于vue开发）
- ## [花了20分钟，给女朋友们写了一个web版群聊程序](https://blog.csdn.net/zzti_erlie/article/details/101060892)
- > 
- ## [了不起的前端性能优化](https://blog.csdn.net/HiSen_CSDN/article/details/103663778)
- > 了不起的前端性能优化
- ## [前端开发知识点梳理（面试必备）](https://blog.csdn.net/guang_s/article/details/94554681)
- > 前端开发知识点梳理（面试必备）
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
+ ## [【MySQL笔记】正确的理解MySQL中让你想到就烦的各种锁（一）](https://blog.csdn.net/SnailMann/article/details/88353099)
+ > 【MySQL笔记】正确的理解MySQL中让你想到就烦的各种锁（一）
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [成功解决NotFoundError (see above for traceback): Failed to create a directory: ; No such file or directo](https://blog.csdn.net/qq_41185868/article/details/103738771)
+ > 成功解决NotFoundError (see above for traceback): Failed to create a directory: ; No such file or directo
+ ## [Spring依赖注入实现工厂模式](https://blog.csdn.net/Conquer__EL/article/details/103734776)
+ > Spring依赖注入实现工厂模式
+ ## [XDOJ2018期末部分（含螺旋矩阵）](https://blog.csdn.net/qq_39679772/article/details/103733460)
+ > XDOJ2018期末部分（含螺旋矩阵）
 # PM 
  ## [5000字精华笔记丨如何搭建可闭环、可沉淀、可持续的企业级数据赋能体系？](http://www.chanpin100.com/article/110458)
  > 对于所有企业来说，数据决定了基于算力、算法等能做出哪些场景和应用
