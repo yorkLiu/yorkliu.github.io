@@ -1,7 +1,7 @@
 ---
 title: 2019-12-30 IT News
 copyright: true
-date: 2019-12-30 10:01:19
+date: 2019-12-30 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -73,75 +73,95 @@ AI&#20844;&#21496;&#8220;&#28145;&#23578;&#31185;&#25216;&#8221;&#33719;600&#199
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [\[科技早报7点整\]华为美国高管回击《华尔街日报》不实报道 大众发“充电机器人”概念……](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=yio8cazk-HhnvNhKLLjN12uOgiKCeP9j4i6HPN18CyO2r3nEXLd4-XcU5yTeoWEgi9PiNboAHbPolq3KCiy3FbUTlPN7JtJqpbibMGza3PR3TbaVIXhE5Y-ZedtApSXV&new=1)
- > 早上好，科技圈【一度蜜科技早报】第687期1.加速包可能没用，12306已屏蔽多个抢票软件随着春运火车票进入销售高峰，市面上一些抢票软件也进入了更多人的视野。不过12306方面表示，表示由于抢票软件的使用会降低...
- ## [中国移动2020年度工作会议召开 杨杰称2019“总体平稳、稳中向好”](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=pf7EDISkyYn7lu53mtZC7k4uj0BrZTzdTnwVAbPpjBmzYTwFLs2PArzrGFC*-K-2*ZqYJtCSA1vNSZBH6tqiN642*RldssLp9TksZ-d1CiUEkVn8Yu9dFXD-z3WuJEk-&new=1)
- > 运营商财经网讯 中国移动在12月26日召开了2020年度工作会议，会上，中国移动董事长杨杰总结了2019年情况，称中国移动在2019年应对了多重影响，但在大体量和高基数基础上保持了企业发展总体平稳、稳中向好。全年4...
- ## [2019年光通信行业热点回顾：十条放不下](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=jotzerCyTGqanLA5TZX8K5PBphu1chuYyp93q83z4ta52cA4-AcYOhexqAEnvV1QKJ7JvrSohNmF8NVcVTyEadOebOmqKNwXwXAVEPTGKo4KeENXWkZF7F47ZIpu1sqC&new=1)
- > 导读     即将过去的2019年，光通信行业同仁经历了由年初以来的激动不安，到年末的平静淡然，明白市场变化万象，企业生存也有无限可能。整理回顾发现，2019年光通信热点事件多到十条根本罗列不完，因此摘取其中...
- ## [手机用户当心!拍照前，您的照片或许已被窃取](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=owpgVemenKQTM1AXenbG6RaIBDiMzm2077L4H6SprQFNt2kIPx5mbRvHmjQazmZXMMBQ-jhBy*U1gPDiqkW6aORza21PIv8NBrdQYOHnxRotM1iutMvf8ZnhCt8vP5q3&new=1)
+ ## [手机用户当心!拍照前，您的照片或许已被窃取](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=owpgVemenKQTM1AXenbG6RaIBDiMzm2077L4H6SprQH0dsnpN*RVxfNTVRn2GtIb0Hbw5lYzsyFw-HuRlFFmtfPNrX4DuraAHJpfS1FergGbbT4rryYWCIU89gOWvlbQ&new=1)
  > 最近，研究人员发现了一种针对安卓手机的新型用户隐私窃取攻击方案RRA（即手机资源竞争攻击，Resource Race Attacks）。这种攻击并不直接窃取存储在手机上的隐私信息，而是在用户使用手机（例如使用摄像头拍照）...
- ## [\[C114周报\]中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=w0KdiwH*nenIh-cP4vgo2n*nQnFm4m8HEXGDV9QUqsWKkxne4UbDcUCzbfIJHVKvDUTwFPggrtcVIZcKeTTyMC2*0m3tEme5g9MNyMQpf36g3qEHrANGZW2ra*unqu3k&new=1)
+ ## [2019年光通信行业热点回顾：十条放不下](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=jotzerCyTGqanLA5TZX8K5PBphu1chuYyp93q83z4tZngT3TdbxEoMyVLEP8A4owTK*baxBNHPe6YmcwIGhu7YY0ucH6oq9w6E0led*H-Yc2o1mJ8nrHPjYrGwCzZj8E&new=1)
+ > 导读     即将过去的2019年，光通信行业同仁经历了由年初以来的激动不安，到年末的平静淡然，明白市场变化万象，企业生存也有无限可能。整理回顾发现，2019年光通信热点事件多到十条根本罗列不完，因此摘取其中...
+ ## [\[科技早报7点整\]华为美国高管回击《华尔街日报》不实报道 大众发“充电机器人”概念……](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=yio8cazk-HhnvNhKLLjN12uOgiKCeP9j4i6HPN18CyMr*0bYmnZ9rSMbC46Ny0xAWGqN-DmrnYzoRYY4mOnjjGzqkomresCaiogmXnAn9nf9h0HbqjmTFI7c-P4cwlxv&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第687期1.加速包可能没用，12306已屏蔽多个抢票软件随着春运火车票进入销售高峰，市面上一些抢票软件也进入了更多人的视野。不过12306方面表示，表示由于抢票软件的使用会降低...
+ ## [南极熊带你参观安徽繁昌春谷3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=iKfOegVF-Id5BUe87ce8xy6e06CZ1iTBuxbuuMn2Oe2P3ap-6jOwTMdrfDgmAhdI3iHhZlBvtjn1CTupT0Bart01Zdzhe09hGuGqPldGm2qVjl2Tr17HI8OUkNHaFcsk&new=1)
+ > 关注南极熊，知晓3D打印天下事2020年春谷3D打印产业年会期间，南极熊与一批同行共同参观了繁昌春谷3D打印产业园，对于还没有去过繁昌的熊友，可以通过南极熊视角的视频来了解这座“3D打印第一城”。或许，你会看...
+ ## [2020展望：PSI、DP、SMC数据隐私的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=FybMSV5cXBN6iZektzMMhmv6zI3HBBPdICz1x5CBgMea1PNL6eyy4M5lFGEToeY6Bw6K8l3sb1F-TnUWfkD1mOAIZP1fgYpVyq67XKObiVsRBukhomv0M0uPplkCV1UW&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，随着社会的数字化进程，数据隐私越来越受到大家的重视。《通用数据保护条例》(简称 GDPR)和《2018年加州消费者隐私法案》（简称 CCPA）等...
+ ## [中国移动2020年度工作会议召开 杨杰称2019“总体平稳、稳中向好”](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=pf7EDISkyYn7lu53mtZC7k4uj0BrZTzdTnwVAbPpjBkuOwU5q3WrHjQjorgKbKL8zJaRjl-hN-2wEUt092spuLZDDHa8tFg8*rlnHVMpsyVJ135VHhrVmN98-OF1GRI9&new=1)
+ > 运营商财经网讯 中国移动在12月26日召开了2020年度工作会议，会上，中国移动董事长杨杰总结了2019年情况，称中国移动在2019年应对了多重影响，但在大体量和高基数基础上保持了企业发展总体平稳、稳中向好。全年4...
+ ## [\[C114周报\]中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=w0KdiwH*nenIh-cP4vgo2n*nQnFm4m8HEXGDV9QUqsX5ZgST3eT9YgCPuuxXymUXtqKjq0wFPAHbObub*fLlJoe*BTTI*x9sVzFJU1PwRPtOYKU-H8CkVNUmf9TfU8A9&new=1)
  > 周报WEEKLY本周热点有中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万• 第075期 •中国广电获得“192”号段12月24日12月24日，工信部发布重要通告称，正式向中国电...
- ## [全面解读工信部52号文：LoRa的2020年前景依然黯淡](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=rDG*q0lTJ0UmFhdQmmn18tgezsqUEIIRqhPHkdo*AGQTgsRBIAxva7KFk*YaOq8Hr2twi6wue2cUbSiX1I4LUkQwHtTpUnO3TGnRj9mBB5bi0dih9T9bZpYYPgbU74Aa&new=1)
+ ## [全面解读工信部52号文：LoRa的2020年前景依然黯淡](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=rDG*q0lTJ0UmFhdQmmn18tgezsqUEIIRqhPHkdo*AGSNV*VVhU5BhuXKpro-sFZ1xxGp3SYFXydwYbcPoZtdgkA8OclGI8G6xITIASwactv2NWgPhMefuYFGCD-Nov*0&new=1)
  > 2020年来临，业界有了很多对物联网各大技术的盘点和展望文章。我们看到，许多文章都提到了2019年11月28日，工业和信息化部发布的2019年第52号文《微功率短距离无线电发射设备目录和技术要求》。依然像以前一样，...
- ## [性爱机器人已过时!能生孩子的机器人，正马不停蹄的赶来!](http://mp.weixin.qq.com/s?src=11&timestamp=1577669406&ver=2065&signature=2yXlDfTV-J*cXly0aNFoPWNgLBsDcUqU3m6kKlwg21N*ZHvOTHrWU-fDbqz54cc-uzA*e*0unLC4qur*gGYDfxZmYGMHChSk5P0SwjPWqEwbxq4NtEAw4xTGkHtWPphq&new=1)
+ ## [性爱机器人已过时!能生孩子的机器人，正马不停蹄的赶来!](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=2yXlDfTV-J*cXly0aNFoPWNgLBsDcUqU3m6kKlwg21MId63IaYlUHWjY1fQKP1U51-vOZyHNGfQ0wsbTnl6u67BsBIPpgqmKIvssNQymlx*f0TWKvnUrEM6hAh4Giwlb&new=1)
  > 问题：怎么才能每天都收到这种文章呢？？答案：点击手指上方的蓝色字体，再点击关注即可！来源：网络一百年前，苏联作家叶甫盖尼·伊万诺维奇·扎米亚京创作了小说《我们》，故事中的未来人类成了如同机器一般的...
 # IT 技术 
- ## [一战赚了1090亿，恐怖的张一鸣！](http://news.51cto.com/art/201912/608604.htm)
- > 一战赚了1090亿，恐怖的张一鸣！
- ## [35岁是道坎？在阿里，40岁的奋斗姿势](http://news.51cto.com/art/201912/608601.htm)
- > 35岁是道坎？在阿里，40岁的奋斗姿势
- ## [为什么我们放弃Zabbix采用Prometheus？](http://netsecurity.51cto.com/art/201912/608600.htm)
- > 为什么我们放弃Zabbix采用Prometheus？
- ## [太空数据即服务准备腾飞](http://network.51cto.com/art/201912/608598.htm)
- > 太空数据即服务准备腾飞
  ## [如何为多个Web API提供授权方法](http://developer.51cto.com/art/201912/608589.htm)
  > 如何为多个Web API提供授权方法
+ ## [为什么我们放弃Zabbix采用Prometheus？](http://netsecurity.51cto.com/art/201912/608600.htm)
+ > 为什么我们放弃Zabbix采用Prometheus？
+ ## [35岁是道坎？在阿里，40岁的奋斗姿势](http://news.51cto.com/art/201912/608601.htm)
+ > 35岁是道坎？在阿里，40岁的奋斗姿势
+ ## [太空数据即服务准备腾飞](http://network.51cto.com/art/201912/608598.htm)
+ > 太空数据即服务准备腾飞
+ ## [2020年重要的20个网络安全预测](http://netsecurity.51cto.com/art/201912/608624.htm)
+ > 2020年重要的20个网络安全预测
+ ## [一战赚了1090亿，恐怖的张一鸣！](http://news.51cto.com/art/201912/608604.htm)
+ > 一战赚了1090亿，恐怖的张一鸣！
  ## [【大咖来了 第9期】数据安全之数据库安全黄金法则](http://bigdata.51cto.com/art/201912/608580.htm)
  > 【大咖来了 第9期】数据安全之数据库安全黄金法则
  ## [这样“撩”大数据，小白都能看懂！](http://bigdata.51cto.com/art/201912/608528.htm)
  > 这样“撩”大数据，小白都能看懂！
- ## [吴恩达团队盘点2019AI大势：自动驾驶寒冬、Deepfake已成魔](http://news.51cto.com/art/201912/608530.htm)
- > 吴恩达团队盘点2019AI大势：自动驾驶寒冬、Deepfake已成魔
- ## [NeurIPS 2019：谷歌提出改进机器学习分布外异常检测新方法](http://news.51cto.com/art/201912/608608.htm)
- > 谷歌在 NeurIPS 2019 论文中提出并发布了针对基因组序列 OOD 检测的现实基准数据集，进而提出一种基于似然
- ## [微软开源 2019：“讨好”开发者，当开源圈的“万人迷”](http://news.51cto.com/art/201912/608602.htm)
- > 本文就来和大家一起回顾微软在 2019 年与开源相关的重要事件 ―― 主要是引发较多关注和广泛讨论的新闻。
- ## [网络地址转换协议(NAT)及其应用实例](http://network.51cto.com/art/201912/608599.htm)
- > 当在专用网内部的一些主机本来已经分配到了本地IP地址(即仅在本专用网内使用的专用地址)，但现在又想和因特
- ## [关于 2020 年的前端趋势预测](http://news.51cto.com/art/201912/608603.htm)
- > 根据对前端发展现状的观察，和对一些已有调查的研究，前端开发者 Roberto Hernandez 在其个人专栏中对接下
- ## [抢不到回家的票，还真不是12306技术不行](http://news.51cto.com/art/201912/608606.htm)
- > 作为世界上公认规模最大、特定时段最繁忙的实时交易系统之一，能在绝大部分时间保证平稳运行，12306 已经
+ ## [关于Jvm类加载机制，这一篇就够了](http://virtual.51cto.com/art/201912/608628.htm)
+ > 一个月没更新了，这个月发生了太多的事情，导致更新的频率大大降低，不管怎样收拾心情，技术的研究不能落下
+ ## [如何升级到Https？一个脚本帮你搞定，且永久免费](http://netsecurity.51cto.com/art/201912/608627.htm)
+ > 现在很多站长都会考虑将自己的站点从http升级到https，不仅是基于安全的考虑，有的也是因为第三方平台的限
+ ## [2020年重要的20个网络安全预测](http://netsecurity.51cto.com/art/201912/608626.htm)
+ > 又到了岁末年初，网络安全厂商、业界专家、行业杂志对于2020年以及未来10年的网络安全发展进行预测或评论。
+ ## [当物联网撞上5G：比较大的矛盾点是什么？](http://iot.51cto.com/art/201912/608623.htm)
+ > 不少企业已经在利用物联网的数据来处理一些问题。随着5G的推出，数十亿的物联网设备所产生的数据量将出现爆
+ ## [使用KDE Plasma定制Linux桌面](http://os.51cto.com/art/201912/608625.htm)
+ > 本文是 24 天 Linux 桌面特别系列的一部分。如果你认为没有太多自定义桌面的需要，KDE Plasma 可能适合你。
+ ## [详解GPU技术关键参数和应用场景](http://biz.51cto.com/art/201912/608622.htm)
+ > 随着云计算，大数据和人工智能技术发展，边缘计算发挥着越来越重要的作用，补充数据中心算力需求。
+ ## [2020年首席信息官的五大战略重点](http://www.cioage.com/art/201912/608620.htm)
+ > 随着2019年即将结束，首席信息官将他们的精力转向数字化进程的下一个阶段。许多IT主管会提升他们的员工体验
+ ## [每个互联网人都应该收藏的网站](http://developer.51cto.com/art/201912/608619.htm)
+ > 作为一名互联网人必须要知道的网站,建议收藏
+ ## [从 0 到 70% 的市场份额：Google Chrome 如何发展至今](http://os.51cto.com/art/201912/608618.htm)
+ > 互联网的前景从 2008 年起大为不同，人们使用互联网的方式开始发生变化，谷歌抓住了一个机会，为开放的 Web
+ ## [针对9个多云管理平台的评估](http://cloud.51cto.com/art/201912/608617.htm)
+ > 人们需要了解云计算工具和服务的优点和缺点，可以帮助其管理混合云和多云环境。企业开展业务可以采用一个
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
+ ## [使用ensp搭建简单校园网拓扑](https://blog.csdn.net/weixin_43996007/article/details/103753692)
+ > 使用ensp搭建简单校园网拓扑
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
+ ## [C++实现Linux下串口的读写](https://blog.csdn.net/BLUCEJIE/article/details/103753635)
+ > C++实现Linux下串口的读写
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
+ ## [2019.12.29日常总结兼差分与前缀和略讲](https://blog.csdn.net/ZHUYINGYE_123456/article/details/103753209)
+ > 2019.12.29日常总结兼差分与前缀和略讲
  ## [winform图片添加水印](https://blog.csdn.net/chonbi/article/details/103753470)
  > winform图片添加水印
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
  ## [【03】链式存储--二叉树](https://blog.csdn.net/qq_42701294/article/details/103756697)
  > 【03】链式存储--二叉树
+ ## [\[原理\] 说说Web请求的过程](https://blog.csdn.net/lidelin10/article/details/103754719)
+ > \[原理\] 说说Web请求的过程
  ## [数据结构(5)--单链表的基本操作](https://blog.csdn.net/weixin_44858668/article/details/103754632)
  > 数据结构(5)--单链表的基本操作
  ## [JS数组常用的一些方法](https://blog.csdn.net/weixin_43523913/article/details/103753606)
  > JS数组常用的一些方法
+ ## [Android开发-SQLite注册登录模块（注册）](https://blog.csdn.net/qq_41858698/article/details/103753447)
+ > Android开发-SQLite注册登录模块（注册）
+ ## [java socket 聊天小程序](https://blog.csdn.net/sinat_28809019/article/details/103756863)
+ > java socket 聊天小程序
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
- ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
- > 兼职程序员一般可以从什么平台接私活？
- ## [三艘船](https://blog.csdn.net/Kirizaki/article/details/103758073)
- > 三艘船
- ## [PyQt(Python+Qt)学习随笔：Qt Designer中图像资源的使用及资源文件的管理](https://blog.csdn.net/LaoYuanPython/article/details/102800581)
- > 
- ## [js动态表格创建](https://blog.csdn.net/qq_42736234/article/details/103747537)
- > js动态表格创建
+ ## [我的 CDMA 往事](https://blog.csdn.net/csdnnews/article/details/103760156)
+ > 作者 |小枣君本文经授权转自鲜枣课堂（ID: xzclasscom）CDMA要和我们说再见了。根据最新的消息，中国电信已明确要求从2020年起，所有5G终端不允许存在CDMA频段和制...
+ ## [女朋友：你能给我讲讲单例模式吗？](https://blog.csdn.net/csdnnews/article/details/103760158)
+ > 作者 | 静幽水责编| Elle问题背景某公司老板在招程序员时承诺帮助解决单身问题，给程序员分配一个女朋友，于是单身的小强毫不犹豫就去应聘了，并被顺利录用。那么我们怎么用代码来模拟一下...
  ## [你的学习方法真的有效吗？](https://blog.csdn.net/csdnnews/article/details/103760160)
  > 2020年，你有什么愿望吗？不管怎样，都希望我们都不要忘了为自己充电。随着新媒体的发展潜移默化的改变了我们的学习方式，公众号风头很甚这些年，公众号遍地生根，你一定关注了很多，但哪些才是真...
  ## [函数式编程，我心中的 C 位！](https://blog.csdn.net/csdnnews/article/details/103759897)
@@ -154,69 +174,77 @@ AI&#20844;&#21496;&#8220;&#28145;&#23578;&#31185;&#25216;&#8221;&#33719;600&#199
  > 作者 |努力码稿的小浪本文经授权转自新浪科技（ID: techsina）2020年将至，故宫也马上600岁了。12月19日上午，故宫博物院年接待观众数量首次突破1900万人次。故宫已...
  ## [详解 TCP 连接的“ 三次握手 ”与“ 四次挥手 ”](https://blog.csdn.net/csdnnews/article/details/103759900)
  > 作者 | AhuntSun责编| ElleTCP connection客户端与服务器之间数据的发送和返回的过程当中需要创建一个叫TCP connection的东西；由于TCP不存在连接的概念，只存在请求和响应，请求和响应都是数据包，它们之间都是经过由TCP创建的一个从客户端...
+ ## [华米CEO黄汪发全员信：未来将搭建数据平台构筑全球健康生态](http://www.lanjingtmt.com/news/detail/45353.shtml)
+ > 今日凌晨，华米科技创始人、董事长兼首席执行官黄汪发布全员信。黄汪在信中确认了公司未来的战略目标.。
+ ## [今日头条回应百度关于搜索排序不公的起诉：一直支持品牌保护](http://www.lanjingtmt.com/news/detail/45352.shtml)
+ > 今日头条发布说明中称，已经接到百度公司关于搜索排序不公的起诉，自上线以来，头条搜索一直支持品牌保护。
+ ## [四部门联合印发办法：9种行为被认为APP违规收集使用个人信息](http://www.lanjingtmt.com/news/detail/45351.shtml)
+ > 《方法》提出，征得用户同意前就开始收集个人信息或打开可收集个人信息的权限等行为可被认定为“未经用户同意收集使用个人信息”。
  ## [2019年度盘点四|彩电显示技术遍地开花，高清大屏或成突破点](http://www.lanjingtmt.com/news/detail/45348.shtml)
  > 对彩电企业而言，2019年的关键词既包括转型与自救，又包括AIoT与高清大屏显示技术。而这一年依然被业内认为是彩电行业的寒冬。
 # 人工智能 
- ## [SQL语法快速学习](https://blog.csdn.net/qq_43969123/article/details/103723251)
- > SQL语法快速学习
- ## [zip压缩脚本（linux）](https://blog.csdn.net/u013015301/article/details/103730390)
- > zip压缩脚本（linux）
- ## [MySQL数据库总结](https://blog.csdn.net/weixin_43691058/article/details/103175678)
+ ## [全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!](https://blog.csdn.net/weixin_44318830/article/details/103739987)
+ > 全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!
+ ## [DL之LSTM：基于tensorflow框架利用LSTM算法对气温数据集训练并回归预测](https://blog.csdn.net/qq_41185868/article/details/103746235)
+ > DL之LSTM：基于tensorflow框架利用LSTM算法对气温数据集训练并回归预测
+ ## [如何搭建个人网站（内容详细，适合新手）](https://blog.csdn.net/weixin_43188825/article/details/103731725)
+ > 如何搭建个人网站（内容详细，适合新手）
+ ## [高等数学——变限积分求导](https://blog.csdn.net/tonglin12138/article/details/103748244)
+ > 高等数学——变限积分求导
+ ## [永兴的笔记-OpenCV基础图像处理1（python）](https://blog.csdn.net/m0_43505377/article/details/103747756)
+ > 永兴的笔记-OpenCV基础图像处理1（python）
+ ## [Ubuntu16配置object detection API](https://blog.csdn.net/weixin_41571247/article/details/103754181)
+ > Ubuntu16配置object detection API
+ ## [国产开源项目年度盘点](https://blog.csdn.net/BEYONDMA/article/details/103752034)
  > 
- ## [主子表编辑问题的思考](https://blog.csdn.net/u011189668/article/details/103742222)
- > 主子表编辑问题的思考
- ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ ## [2019年，CSDN有哪些值得学习的专栏？](https://blog.csdn.net/csdngkk/article/details/103682497)
+ > 2019年，CSDN有哪些值得学习的专栏？
+ ## [炫酷的启动方式——如何定制Spring Boot的Banner](https://blog.csdn.net/weixin_45124488/article/details/103746634)
+ > 炫酷的启动方式——如何定制Spring Boot的Banner
+ ## [UNIX(编程-进程处理):30---僵死进程、孤儿进程（SIGCLD、SIGHCLD信号处理）](https://blog.csdn.net/qq_41453285/article/details/103738733)
+ > UNIX(编程-进程处理):30---僵死进程、孤儿进程（SIGCLD、SIGHCLD信号处理）
+ ## [HandAI开源项目，拉近人和摄影的距离：基于手势识别完成不同的拍摄行为](https://blog.csdn.net/qq_34914551/article/details/103746527)
+ > HandAI开源项目，拉近人和摄影的距离：基于手势识别完成不同的拍摄行为
+ ## [朴素贝叶斯和半朴素贝叶斯（AODE）分类器Python实现（完整代码）](https://blog.csdn.net/McQueen_LT/article/details/103747332)
+ > 朴素贝叶斯和半朴素贝叶斯（AODE）分类器Python实现（完整代码）
+ ## [BP神经网络简单入门~](https://blog.csdn.net/qq_44916823/article/details/103751549)
+ > BP神经网络简单入门~
+ ## [OpenCV基础教程——绘图函数【简单易懂】](https://blog.csdn.net/Gary_ghw/article/details/103753115)
+ > OpenCV基础教程——绘图函数【简单易懂】
+ ## [这6个编程语言排行榜，据说全都知道的人不足1% | 年终榜单大盘点](https://blog.csdn.net/alitech2017/article/details/103730286)
  > 
- ## [期末复习之数据库](https://blog.csdn.net/weixin_45026839/article/details/103725842)
- > 期末复习之数据库
- ## [VBA学习笔记2-数据结构类型ArrayList](https://blog.csdn.net/lyfegf/article/details/103746134)
- > VBA学习笔记2-数据结构类型ArrayList
- ## [Mysql多表连接查询实例详解](https://blog.csdn.net/knight_zhou/article/details/103733555)
- > Mysql多表连接查询实例详解
- ## [应用程序无法正常启动 0xc000007b错误](https://blog.csdn.net/qq_26902237/article/details/103747835)
- > 应用程序无法正常启动 0xc000007b错误
- ## [Redis简介](https://blog.csdn.net/qq_44680160/article/details/103738570)
- > Redis简介
- ## [说说 Oracle 的 CASE 表达式](https://blog.csdn.net/deniro_li/article/details/103745660)
- > 说说 Oracle 的 CASE 表达式
- ## [sql 语句增删改查使用](https://blog.csdn.net/mengshirui_/article/details/103741929)
- > sql 语句增删改查使用
- ## [内连接、左外连接、右外连接、全外连接区别](https://blog.csdn.net/qq_44868502/article/details/103745741)
- > 内连接、左外连接、右外连接、全外连接区别
- ## [oracle循环删除表的存储过程](https://blog.csdn.net/u013015301/article/details/103713581)
- > oracle循环删除表的存储过程
- ## [MYSQL的存储过程详解与实际应用](https://blog.csdn.net/jiachongduo/article/details/103735928)
- > MYSQL的存储过程详解与实际应用
 # PM 
- ## [设计师的2019年终总结，分享10点思考](http://www.woshipm.com/pd/3270589.html)
- > 作为一名设计师，笔者总结了2019年里，自己对于设计师专业技能与个人成长的10点思考。2019已逼近年关，用“年关”这个词形容这一年，一点都不过。不全是年龄的缘故，主...
- ## [社交败局：为什么没有新时代的船？](http://www.woshipm.com/it/3268784.html)
- > 目前网上大多数社交相关文章大多是基于某产品陈诉事实或复盘，缺乏更多前瞻性的观点、思想，关于新时代社交这方面大多仍处于摸爬滚打阶段。由此本人前后反复思辨数周外...
- ## [实战手册：用RFM模型做行为细分](http://www.woshipm.com/pmd/3267187.html)
- > 作者详细阐述如何在项目中运用RFM模型进行行为细分，从而为产品、市场营销和支持投资提供信息。大约100年多前，MBA项目刚创立不久，梅尔文T.科普兰教授开始在哈佛商学...
- ## [请问：你所从事的产品是否有增长属性？](http://www.woshipm.com/pmd/3269655.html)
- > 比起工作加班与否、薪资多少，更重要的是要考虑所从事的产品是否有增长属性，有了增长属性，其余的要素基本也就不在话下。作者结合自己的面试经历阐述如何辨别产品的增...
- ## [如何制定品牌战略？](http://www.woshipm.com/zhichang/3269979.html)
- > 本文从三个部分，拆解了品牌战略是什么？它是由什么组成的？给我们带来的启示又是什么？现状绝大多数品牌并没有战略的规划和指引，只是看着同行干什么，自己慌头慌脑...
- ## [2019年，有意思的商业现象](http://www.woshipm.com/it/3263619.html)
- > 2019年，经济的下半场，面对流量红利的退去，获客的艰难不言而喻，我们还是从中找到了一些有意思的商业现象。“最近看CPI都到4.5了！大家似乎没有太大的影响呀，坚强。...
- ## [如何写一份让需求方满意的「解决方案」?](http://www.woshipm.com/pmd/3269048.html)
- > 本文从六个要点出发，介绍了解决方案的结构是什么样的？并用案例做了具体说明。对于智慧医疗领域的项目经理、产品经理、商务BD来说，写解决方案是必不可少的工作，解...
- ## [5000字精华笔记丨如何搭建可闭环、可沉淀、可持续的企业级数据赋能体系？](http://www.chanpin100.com/article/110458)
- > 对于所有企业来说，数据决定了基于算力、算法等能做出哪些场景和应用
- ## [《开发故事思维》思维导图](http://www.chanpin100.com/article/110468)
- > 开发故事思维也叫开发故事创意，由英文developing story ideas翻译过来，由美国作家迈克尔拉毕哥创作，本书在豆瓣评分有8.3，非常值得一读。每个人都有令人动听的故事可以讲，但如何把故事动听地讲出来呢？这是本书的主旨，作者从四个方面进行讲解，全方位挖掘适合虚构类与非虚构类作品的创作法，
- ## [《一个人的电商》读书笔记](http://www.chanpin100.com/article/110465)
- > 这本《一个人的电商》就是作为电商运营者必读的书籍，在这个互联网的时代，电子商务就是最好的代表。毕竟电子商务有着非常好的前景，它是作为现代服务行业当中的一个重要产业，电子商务的模式也有不少，其中B2C就是最典型的代表之一。
- ## [产品设计中如何编写产品规范？其实只要注意这五点就行](http://www.chanpin100.com/article/110464)
- > 来看看国外产品老司机如何编写产品规范的吧~
- ## [《启示录》——运用思维导图带给你新的启示](http://www.chanpin100.com/article/110460)
- > 通过MindMaster思维导图，打开《启示录》的大门。通过思维导图系统化的梳理，对产品知识理解和掌握更进一步。
- ## [朋友圈评论表情包功能关闭！背后有哪些玄机？](http://www.chanpin100.com/article/110459)
- > 朋友圈评论表情包功能关闭！微信回复：仅为灰度测试
- ## [市场调研15个案例](http://www.chanpin100.com/article/110457)
- > 做产品第一步是明确用户需求，通过一段时间的学习，整理了一些调研案例与大家分享。
- ## [俞军产品经理5个能力](http://www.chanpin100.com/article/110456)
- > 产品经理的5个能力
+ ## [2年实战分享：大公司和小公司做产品有何差异？](http://www.woshipm.com/pmd/3269083.html)
+ > 当我经历过一个成熟的中型公司后，紧接着又进入一个创业型公司，从一个二三十人的产品团队到一个只有两三个人的产品团队，就愈发感受到在两种量级公司做产品的差异了。...
+ ## [如何搭建一个资料共享的中台](http://www.woshipm.com/pd/3270211.html)
+ > 作者通过一个简单案例，阐述如何在中台搭建过程中使用中台方法论，希望能够给你帮助。今天举个贴近生活的中台搭建的案例，让大家更好理解中台方法论。前面我们有说到...
+ ## [译文 |  设计思维：20种行之有效的构思方法](http://www.woshipm.com/pd/3268986.html)
+ > 构思是设计思维过程的核心。实际上有数百种进行构思的方法，例如头脑风暴、书面头脑风暴、Brainwalk和原型设计。部分方法只是在原方法基础上进行了重新命名或稍加修改。...
+ ## [产品体验报告 | “新”当当与“旧”孔网](http://www.woshipm.com/evaluating/3259751.html)
+ > 本文主要从产品现状、市场现状、产品分析几个角度切入，对当当和孔夫子旧书网各自的核心功能进行了体验分析，对比分析购物流程，全面解析了当前产品的现状，与大家一起...
+ ## [鬼话连篇数据中台（一）：透过中台看数据中台](http://www.woshipm.com/pd/3271456.html)
+ > 如何想方设法持续提高企业对⽤户的响应⼒才是建设背后最核心的逻辑，更好服务前台规模化创新，进而更好响应服务，不管是中台还是平台能够有显著成效就好。不管是传统...
+ ## [API接口设计，需要注意这4点](http://www.woshipm.com/pd/2772820.html)
+ > 原则上API接口设计一般出现在开发的详细设计中，但是随着诸多公司建立开放平台，产品经理也逐渐需要能理解API接口，尤其是做平台性的产品，还要学会定义接口。本文就关...
+ ## [产品经理如何排列需求的优先级？](http://www.woshipm.com/pmd/3269124.html)
+ > 上一篇文章讲产品经理如何对单个需求进行可行性分析，然而在实际工作中，产品经理往往会面临多个需求。在对每个需求进行可行性分析后，就需要对保留下来的需求进行优先...
+ ## [想做好用户画像？制作用户标签是你要做的第一步](http://www.woshipm.com/user-research/3270982.html)
+ > 用户标签，是一个非常基础的，估计人人都听过的，但是却经常弄混淆的概念。它是用户画像、精准营销、个性推荐、智能投放等等各种系统的砖石。本文对此进行了系统分析，...
+ ## [海外贸易报关流程分析](http://www.woshipm.com/pd/2603830.html)
+ > 文章对海外贸易中的单证流程进行了解读，主要包括5个方面：付款方式、信用证、发货管控、报关流程和风险流程，供大家参考。前面几篇文章，主要讲述了客户、产品以及财...
+ ## [产品经理年终述职报告：总结过去，展望未来](http://www.woshipm.com/pmd/3271534.html)
+ > 2019即将过去，相信很多小伙伴们都在忙碌地享受着2019最后的狂欢，抑或是提前感受到了2019曲终人散的孤单。在此之际，让我们一起来总结一下吧，年终述职报告不仅仅是工...
+ ## [用户增长≠裂变，我对用户增长的几点看法](http://www.woshipm.com/operate/3263215.html)
+ > 裂变拉新不应该是运营的唯一工作，做用户增长也不等于是裂变。用户增长在考虑增量的同时更要考虑存量的问题。公司想要做用户增长，需要结合实际特征、所处环境具体讨论...
+ ## [5条营销小技巧，让用户爱上你的促销活动](http://www.woshipm.com/marketing/3271432.html)
+ > 你是否曾为打折降价活动无人参与而头疼呢？原因在于没有让用户有“占便宜”的感觉，作者总结自己的5条小技巧，帮助你打造让用户“占便宜”的促销互动。用户需要的不一定是...
+ ## [产品人核心能力维度是什么？](http://www.chanpin100.com/article/110472)
+ > 就产品人能力维度就行叙述，希望得到大家的反馈意见，互相进步~
+ ## [工作体验实录：在大公司和小公司做产品经理究竟有什么不同？](http://www.chanpin100.com/article/110470)
+ > 做产品究竟应该去大公司还是小公司呢？
+ ## [一篇文章教你如何与领导沟通](http://www.chanpin100.com/article/110469)
+ > 我们在工作与生活中，也许会遇到做出的事情达不到领导的要求，甚至做一些完全不是领导所要求的内容，在我们看来可能是出力不讨好的行为，但在领导看来，我们做事是否周全是个人能力的直观体现。这一副思维导图分为四个部分，它总结了我们如何与领导沟通，以及如何有效地避免说错话办错事，做到文中总结这几个方面可以有效地
+ ## [如何理解用户](http://www.chanpin100.com/article/110473)
+ > 你知道这样理解你的用户么？
 
     
