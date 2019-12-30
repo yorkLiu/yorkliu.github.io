@@ -1,7 +1,7 @@
 ---
 title: 2019-12-30 IT News
 copyright: true
-date: 2019-12-30 12:01:01
+date: 2019-12-30 17:02:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -73,91 +73,111 @@ AI&#20844;&#21496;&#8220;&#28145;&#23578;&#31185;&#25216;&#8221;&#33719;600&#199
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [手机用户当心!拍照前，您的照片或许已被窃取](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=owpgVemenKQTM1AXenbG6RaIBDiMzm2077L4H6SprQH0dsnpN*RVxfNTVRn2GtIb0Hbw5lYzsyFw-HuRlFFmtfPNrX4DuraAHJpfS1FergGbbT4rryYWCIU89gOWvlbQ&new=1)
- > 最近，研究人员发现了一种针对安卓手机的新型用户隐私窃取攻击方案RRA（即手机资源竞争攻击，Resource Race Attacks）。这种攻击并不直接窃取存储在手机上的隐私信息，而是在用户使用手机（例如使用摄像头拍照）...
- ## [2019年光通信行业热点回顾：十条放不下](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=jotzerCyTGqanLA5TZX8K5PBphu1chuYyp93q83z4tZngT3TdbxEoMyVLEP8A4owTK*baxBNHPe6YmcwIGhu7YY0ucH6oq9w6E0led*H-Yc2o1mJ8nrHPjYrGwCzZj8E&new=1)
- > 导读     即将过去的2019年，光通信行业同仁经历了由年初以来的激动不安，到年末的平静淡然，明白市场变化万象，企业生存也有无限可能。整理回顾发现，2019年光通信热点事件多到十条根本罗列不完，因此摘取其中...
- ## [\[科技早报7点整\]华为美国高管回击《华尔街日报》不实报道 大众发“充电机器人”概念……](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=yio8cazk-HhnvNhKLLjN12uOgiKCeP9j4i6HPN18CyMr*0bYmnZ9rSMbC46Ny0xAWGqN-DmrnYzoRYY4mOnjjGzqkomresCaiogmXnAn9nf9h0HbqjmTFI7c-P4cwlxv&new=1)
- > 早上好，科技圈【一度蜜科技早报】第687期1.加速包可能没用，12306已屏蔽多个抢票软件随着春运火车票进入销售高峰，市面上一些抢票软件也进入了更多人的视野。不过12306方面表示，表示由于抢票软件的使用会降低...
- ## [南极熊带你参观安徽繁昌春谷3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=iKfOegVF-Id5BUe87ce8xy6e06CZ1iTBuxbuuMn2Oe2P3ap-6jOwTMdrfDgmAhdI3iHhZlBvtjn1CTupT0Bart01Zdzhe09hGuGqPldGm2qVjl2Tr17HI8OUkNHaFcsk&new=1)
- > 关注南极熊，知晓3D打印天下事2020年春谷3D打印产业年会期间，南极熊与一批同行共同参观了繁昌春谷3D打印产业园，对于还没有去过繁昌的熊友，可以通过南极熊视角的视频来了解这座“3D打印第一城”。或许，你会看...
- ## [2020展望：PSI、DP、SMC数据隐私的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=FybMSV5cXBN6iZektzMMhmv6zI3HBBPdICz1x5CBgMea1PNL6eyy4M5lFGEToeY6Bw6K8l3sb1F-TnUWfkD1mOAIZP1fgYpVyq67XKObiVsRBukhomv0M0uPplkCV1UW&new=1)
+ ## [2020年重要的20个网络安全预测](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=FPTFbW70xijJE5zxR-hbXJF2i6I7NLxAtUA3-bRViAJszuUhmnDFQ-cOL-omKbbEj7gkBwK1ProCkxB6jWJr1USKXr8Txg41rAFfIElytXcZed9YiHpP7NwoBvznabSo&new=1)
+ > 关键讯息，D1时间送达！又到了岁末年初，网络安全厂商、业界专家、行业杂志对于2020年以及未来10年的网络安全发展进行预测或评论。无论人们将这称为网络安全预测、在线风险趋势还是安全预测，人们都需要为2020年...
+ ## [瞄准智能家居实现百万级出货量，前Marvell中国芯片研发高管突围AI芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=o91GCxS8bG9mCr9VMlKPb8Rd*ur58SPjeRslyLSremOSzheZWJMV7byIv3FhkvtCauLShju8rI4wo1B3-b4EPNpiDMLLjqXIC3iJvZUJ9ECLyZRBHzrj5uLunyVPFXOw&new=1)
+ > 在拥挤的语音 AI 芯片赛道，他们拥有自研的全栈式技术能力，先将目标瞄准智能家居市场，通过语音芯片打开人机交互的入口，再铺向更多的应用场景。撰文 | 力琴正在播放电视剧的电视机旁，放着一个电路板，即内含...
+ ## [热点聚焦|聚焦边缘计算安全 加快“边云”协同发展](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=uQJchKnz*F7EjVR5bKSKf37hLl4FT0UM-fB63o6mpU35Y1OPrEuAcDUQ0J3fxXlURO62ZWXcsRB2slg7IODJX7ZGV2wOEehoDbAHkOvu*8KsYHxl9IDgnZ1OHIBMmUAs&new=1)
+ > 伴随着5G时代到来，各种新兴应用不断涌现，这些应用在带来大量待处理数据的同时，也对数据处理的实时性提出了很高的要求，处理速度甚至需要达到“毫秒级”，这对传统云端的计算力提出了很大挑战。在此背景下，边...
+ ## [聚焦B端市场，年营收超4亿：专访影创科技创始人兼董事长孙立](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=5c5Kq6tub1OG6u8lqQV2wqGs4wNTi5ddQwyjGFGOSkifwA-oV0Q638oCw5t12q3Ji4NhhE7tXffJIFM9utVDOxzK3qm7iXwJHg-Qac8r0AwUFCnbwgndcQZjwk-9Tej8&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜丹哥说VR（原创）2019年，国内领先的XR硬件厂商影创科技交出了一份异常出色的成绩单：其B端市场营收超4亿人民币，并成为高通...
+ ## [奇安信接任冬奥会“守夜人”](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=9dS-2L995CBq-1HYK7YVbsqDGqOtF-2RK3NJC8nDDbwuyWtzt*VNThfrtDAjSDHJee96jfoRZePyUECQeMX8kJLRtfy7HbBh0psNc84P68U6X*c8EV-JLeE64O*XFb1s&new=1)
+ > 每一届奥运会，面临的安全威胁都是上一届的N倍2018 年 2 月 9 日晚，平昌冬奥会开幕式在即，奥组委技术部门却发现，奥运会 IT 基础架构骨干网络的域服务器大面积瘫痪！紧接着，是开幕场馆的 WIFI 全部掉线，现场...
+ ## [2020年首席信息官的五大战略重点](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=1SON-OExEOjZ6uXE1QAcpQbBSkvMXROmr6dgiF8QrqJ3E5gjNx780FZdF3j2UP4mHYt9LHPwgzeEGzER52tOJAZ3xXDzmUBa8l61OcvH8M*Riy2lKLHwz-7BqXAgETHE&new=1)
+ > 关键讯息，D1时间送达！随着2019年即将结束，首席信息官将他们的精力转向数字化进程的下一个阶段。许多IT主管会提升他们的员工体验(EX)，从而改善整体客户体验(CX)。来自医疗、零售和科技领域的IT主管分享了他们...
+ ## [罗永浩回应被“Sharklet 科技解约”；12306 已屏蔽多个抢票软件；FreeDB 将关闭|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=MJg92VmcByul50gq6rJyCxVwYR6dxWimyoi8WEVorPobdLGg6115Fp*yrjgLi1aFVaLRXiBQJO0zaefD14dFWjf5En1K3mgn67U5AB1uqkWPIOZIBuEZFaUnvQ*9A61w&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [\[报告\]2019中国汽车高价值用户研究(附62页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=ny*vq6d4x7buF0x4Ajjc33ib4MJXqqi3ZEasT8S7SNA071Yh8OAYzDbgnBTinR6jJOnu8moJwvDfTLg8z5HM7mil*E6CWjIxkPpHq0JwajoicE6QSLjr7KhLMLTnEIYH&new=1)
+ > 近两年中国汽车市场销售整体疲软，增速呈下滑趋势，“寒冬”成为被媒体频繁提及的词汇。车市的“寒冬”，不仅波及国内自主品牌，也波及到了一些合资品牌，个别车企还面临着资金链断裂，濒临破产的窘迫境地。但扑...
+ ## [赋能数字城市建设!AOC为中国电子(海南)成果体验厅提供全屏视讯保障](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=q60fpU0rmC9sMQzFZuFw*EfqItykbXW7o0tRgSqE2ISu2Ycg-RDKygvDj6BUgXaV1Kwo4UjVpqFIqJgb5YgDQiFsZ5mIE19kyAcnJNI9E1PEnV2ymPe5wGqJey5*yM-F&new=1)
+ > 为加快推进网络强国建设，中国电子CEC于海南生态软件园内建设成果体验厅，全面展示了中国电子旗下PK体系（基于国产飞腾Phytium CPU和麒麟Kylin操作系统的技术和产业体系）及数字健康、数字政务、数字交通等现代...
+ ## [2020展望：PSI、DP、SMC数据隐私的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=FybMSV5cXBN6iZektzMMhmv6zI3HBBPdICz1x5CBgMcu7nL0tP6wjQOhRQbB4UhcfMgJ8a*7pqrMzhr0amQqM05SEWGRN5agnhwY5y4xVsru398XMooJloulh1MmmKPo&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       据外媒报道，随着社会的数字化进程，数据隐私越来越受到大家的重视。《通用数据保护条例》(简称 GDPR)和《2018年加州消费者隐私法案》（简称 CCPA）等...
- ## [中国移动2020年度工作会议召开 杨杰称2019“总体平稳、稳中向好”](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=pf7EDISkyYn7lu53mtZC7k4uj0BrZTzdTnwVAbPpjBkuOwU5q3WrHjQjorgKbKL8zJaRjl-hN-2wEUt092spuLZDDHa8tFg8*rlnHVMpsyVJ135VHhrVmN98-OF1GRI9&new=1)
+ ## [盘点2019十大国内科技新闻，这是中国创新路上的里程碑](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=IlAWpBTM0TwgjCcnVniEmaGB5JpRm98eRm1tw7Bx4j20i9ZxNy-wtn*ZU8rCZbn7dV2aAwBY4zfzwQu-2YOBpPyRPs*iV7cSsN-8*lfAzNGJyV8R6n6lTMYfMBtYGILX&new=1)
+ > 科技日报记者 陆成宽 高博29日，由科技日报社主办，部分两院院士和媒体人士共同评选出的2019年国内、国际十大科技新闻揭晓。入选的2019年国内十大科技新闻分别是：“嫦娥四号”实现人类首次月背软着陆；5G商用牌...
+ ## [手机用户当心!拍照前，您的照片或许已被窃取](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=owpgVemenKQTM1AXenbG6RaIBDiMzm2077L4H6SprQF01WTv91LvhE5-Op9pxS8q*-I9IIDq0HF0PnpJP-6dS9PxaNKzwQiTsQLjxsH0myZqi8XfcFPJw9RQThsEZPtU&new=1)
+ > 最近，研究人员发现了一种针对安卓手机的新型用户隐私窃取攻击方案RRA（即手机资源竞争攻击，Resource Race Attacks）。这种攻击并不直接窃取存储在手机上的隐私信息，而是在用户使用手机（例如使用摄像头拍照）...
+ ## [2019年光通信行业热点回顾：十条放不下](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=jotzerCyTGqanLA5TZX8K5PBphu1chuYyp93q83z4taOcPxVTTBkyjcQLGksRVI0mRf9WUia6uzHjtXZonpkhCnIsyfJkwxt7KSYuVdx7SlKprcOXoP0qwpvRYJA08yZ&new=1)
+ > 导读     即将过去的2019年，光通信行业同仁经历了由年初以来的激动不安，到年末的平静淡然，明白市场变化万象，企业生存也有无限可能。整理回顾发现，2019年光通信热点事件多到十条根本罗列不完，因此摘取其中...
+ ## [\[科技早报7点整\]华为美国高管回击《华尔街日报》不实报道 大众发“充电机器人”概念……](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=yio8cazk-HhnvNhKLLjN12uOgiKCeP9j4i6HPN18CyORSipqeP*a1y61DxgTwPxUMiIJGyCkmOe-7byWpUZQwr3U6zdqWE*SsB21BaYDTe1WhSfFKZA5odHJsJpEt8g7&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第687期1.加速包可能没用，12306已屏蔽多个抢票软件随着春运火车票进入销售高峰，市面上一些抢票软件也进入了更多人的视野。不过12306方面表示，表示由于抢票软件的使用会降低...
+ ## [南极熊带你参观安徽繁昌春谷3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=iKfOegVF-Id5BUe87ce8xy6e06CZ1iTBuxbuuMn2Oe0hEZQ6XJHOgzrw39OONPvVmrEQKQT5HZr1tNp2oSGTVAiDgoQ9hWDhzIS3HALH1unFBsH9nbBg2mtJqxtG4bV5&new=1)
+ > 关注南极熊，知晓3D打印天下事2020年春谷3D打印产业年会期间，南极熊与一批同行共同参观了繁昌春谷3D打印产业园，对于还没有去过繁昌的熊友，可以通过南极熊视角的视频来了解这座“3D打印第一城”。或许，你会看...
+ ## [中国移动2020年度工作会议召开 杨杰称2019“总体平稳、稳中向好”](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=pf7EDISkyYn7lu53mtZC7k4uj0BrZTzdTnwVAbPpjBk0xpmqqUW2Q*9qv-a0TGKet0YxeMICU-1ZVuXXcarLw*cyqvu46A-cr5Jdo0egdZhkG1xyi2rolLr-M4WeSt2M&new=1)
  > 运营商财经网讯 中国移动在12月26日召开了2020年度工作会议，会上，中国移动董事长杨杰总结了2019年情况，称中国移动在2019年应对了多重影响，但在大体量和高基数基础上保持了企业发展总体平稳、稳中向好。全年4...
- ## [\[C114周报\]中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=w0KdiwH*nenIh-cP4vgo2n*nQnFm4m8HEXGDV9QUqsX5ZgST3eT9YgCPuuxXymUXtqKjq0wFPAHbObub*fLlJoe*BTTI*x9sVzFJU1PwRPtOYKU-H8CkVNUmf9TfU8A9&new=1)
+ ## [\[C114周报\]中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=w0KdiwH*nenIh-cP4vgo2n*nQnFm4m8HEXGDV9QUqsWGe9JTVr7v4KzvPmP44bwUHRakT1-BMMLDNbYdwuGQd9sqQWcSaVgaE8dItJl4kyo1kCYc8P24HwV--OpvOFWL&new=1)
  > 周报WEEKLY本周热点有中国广电获得“192”号段；电信联通已开通2.7万个5G共享基站；年底5G套餐签约用户数将超300万• 第075期 •中国广电获得“192”号段12月24日12月24日，工信部发布重要通告称，正式向中国电...
- ## [全面解读工信部52号文：LoRa的2020年前景依然黯淡](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=rDG*q0lTJ0UmFhdQmmn18tgezsqUEIIRqhPHkdo*AGSNV*VVhU5BhuXKpro-sFZ1xxGp3SYFXydwYbcPoZtdgkA8OclGI8G6xITIASwactv2NWgPhMefuYFGCD-Nov*0&new=1)
+ ## [全面解读工信部52号文：LoRa的2020年前景依然黯淡](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=rDG*q0lTJ0UmFhdQmmn18tgezsqUEIIRqhPHkdo*AGRxU6nPSZOYK4AH0nPrapI*OBcILD**jA5jn8S*xC6VL*7DDxEIbHhJe5c7jAxVX4qN3yV0YxdjVchm-6PbCydg&new=1)
  > 2020年来临，业界有了很多对物联网各大技术的盘点和展望文章。我们看到，许多文章都提到了2019年11月28日，工业和信息化部发布的2019年第52号文《微功率短距离无线电发射设备目录和技术要求》。依然像以前一样，...
- ## [性爱机器人已过时!能生孩子的机器人，正马不停蹄的赶来!](http://mp.weixin.qq.com/s?src=11&timestamp=1577676606&ver=2065&signature=2yXlDfTV-J*cXly0aNFoPWNgLBsDcUqU3m6kKlwg21MId63IaYlUHWjY1fQKP1U51-vOZyHNGfQ0wsbTnl6u67BsBIPpgqmKIvssNQymlx*f0TWKvnUrEM6hAh4Giwlb&new=1)
+ ## [性爱机器人已过时!能生孩子的机器人，正马不停蹄的赶来!](http://mp.weixin.qq.com/s?src=11&timestamp=1577696405&ver=2065&signature=2yXlDfTV-J*cXly0aNFoPWNgLBsDcUqU3m6kKlwg21M60woM3*jL*EpL22WZBSWVWXtFwlzi9yDHdfGcXtGTGzEBCCe-z1OaGjyV2e1mjqYt-ZA27*ENj1fRRxuEda0X&new=1)
  > 问题：怎么才能每天都收到这种文章呢？？答案：点击手指上方的蓝色字体，再点击关注即可！来源：网络一百年前，苏联作家叶甫盖尼·伊万诺维奇·扎米亚京创作了小说《我们》，故事中的未来人类成了如同机器一般的...
 # IT 技术 
+ ## [一战赚了1090亿，恐怖的张一鸣！](http://news.51cto.com/art/201912/608604.htm)
+ > 一战赚了1090亿，恐怖的张一鸣！
  ## [如何为多个Web API提供授权方法](http://developer.51cto.com/art/201912/608589.htm)
  > 如何为多个Web API提供授权方法
  ## [为什么我们放弃Zabbix采用Prometheus？](http://netsecurity.51cto.com/art/201912/608600.htm)
  > 为什么我们放弃Zabbix采用Prometheus？
+ ## [人脸识别技术总结：从传统方法到深度学习](http://ai.51cto.com/art/201912/608577.htm)
+ > 人脸识别技术总结：从传统方法到深度学习
  ## [35岁是道坎？在阿里，40岁的奋斗姿势](http://news.51cto.com/art/201912/608601.htm)
  > 35岁是道坎？在阿里，40岁的奋斗姿势
  ## [太空数据即服务准备腾飞](http://network.51cto.com/art/201912/608598.htm)
  > 太空数据即服务准备腾飞
  ## [2020年重要的20个网络安全预测](http://netsecurity.51cto.com/art/201912/608624.htm)
  > 2020年重要的20个网络安全预测
- ## [一战赚了1090亿，恐怖的张一鸣！](http://news.51cto.com/art/201912/608604.htm)
- > 一战赚了1090亿，恐怖的张一鸣！
- ## [【大咖来了 第9期】数据安全之数据库安全黄金法则](http://bigdata.51cto.com/art/201912/608580.htm)
- > 【大咖来了 第9期】数据安全之数据库安全黄金法则
- ## [这样“撩”大数据，小白都能看懂！](http://bigdata.51cto.com/art/201912/608528.htm)
- > 这样“撩”大数据，小白都能看懂！
- ## [关于Jvm类加载机制，这一篇就够了](http://virtual.51cto.com/art/201912/608628.htm)
- > 一个月没更新了，这个月发生了太多的事情，导致更新的频率大大降低，不管怎样收拾心情，技术的研究不能落下
- ## [如何升级到Https？一个脚本帮你搞定，且永久免费](http://netsecurity.51cto.com/art/201912/608627.htm)
- > 现在很多站长都会考虑将自己的站点从http升级到https，不仅是基于安全的考虑，有的也是因为第三方平台的限
- ## [2020年重要的20个网络安全预测](http://netsecurity.51cto.com/art/201912/608626.htm)
- > 又到了岁末年初，网络安全厂商、业界专家、行业杂志对于2020年以及未来10年的网络安全发展进行预测或评论。
- ## [当物联网撞上5G：比较大的矛盾点是什么？](http://iot.51cto.com/art/201912/608623.htm)
- > 不少企业已经在利用物联网的数据来处理一些问题。随着5G的推出，数十亿的物联网设备所产生的数据量将出现爆
- ## [使用KDE Plasma定制Linux桌面](http://os.51cto.com/art/201912/608625.htm)
- > 本文是 24 天 Linux 桌面特别系列的一部分。如果你认为没有太多自定义桌面的需要，KDE Plasma 可能适合你。
- ## [详解GPU技术关键参数和应用场景](http://biz.51cto.com/art/201912/608622.htm)
- > 随着云计算，大数据和人工智能技术发展，边缘计算发挥着越来越重要的作用，补充数据中心算力需求。
- ## [2020年首席信息官的五大战略重点](http://www.cioage.com/art/201912/608620.htm)
- > 随着2019年即将结束，首席信息官将他们的精力转向数字化进程的下一个阶段。许多IT主管会提升他们的员工体验
- ## [每个互联网人都应该收藏的网站](http://developer.51cto.com/art/201912/608619.htm)
- > 作为一名互联网人必须要知道的网站,建议收藏
- ## [从 0 到 70% 的市场份额：Google Chrome 如何发展至今](http://os.51cto.com/art/201912/608618.htm)
- > 互联网的前景从 2008 年起大为不同，人们使用互联网的方式开始发生变化，谷歌抓住了一个机会，为开放的 Web
- ## [针对9个多云管理平台的评估](http://cloud.51cto.com/art/201912/608617.htm)
- > 人们需要了解云计算工具和服务的优点和缺点，可以帮助其管理混合云和多云环境。企业开展业务可以采用一个
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [使用ensp搭建简单校园网拓扑](https://blog.csdn.net/weixin_43996007/article/details/103753692)
- > 使用ensp搭建简单校园网拓扑
+ ## [放飞自我，用3个终端命令提高工作效率](http://developer.51cto.com/art/201912/608592.htm)
+ > 放飞自我，用3个终端命令提高工作效率
+ ## [微信不能发送超25MB视频？三组技巧轻松搞定](http://mobile.51cto.com/app-show-608664.htm)
+ > 微信视频众所周知，微信对于所发送的视频大小是有限制的，如果你的视频超过25M，肯定会看到下面这个提示。
+ ## [Web服务器Nginx环境下如何实现安全证书Https的配置](http://server.51cto.com/sOS-608663.htm)
+ > SSL证书是一种数字证书，使用Secure Socket Layer协议在浏览器和web服务器之间建立一条安全通道，从而实现
+ ## [使用光标修复Windows 10黑屏](http://os.51cto.com/art/201912/608661.htm)
+ > 如果您有权访问任务管理器，它将使事情变得简单。 您会发现，这很关键，因为它将利用任务管理器来帮助我们
+ ## [专治各种套路，《App违法违规收集使用个人信息行为认定方法》正式发布](http://netsecurity.51cto.com/art/201912/608659.htm)
+ > 12月30日，为落实《网络安全法》等法律法规，《App违法违规收集使用个人信息行为认定方法》正式发布，为认
+ ## [什么是连接池？如何实现连接池？](http://developer.51cto.com/art/201912/608658.htm)
+ > 连接池正是是解决这个问题最常用的方法，其思想非常简单，即是在服务启动的时候，先建立好若干连接，当有请
+ ## [如何在Ubuntu和其他Linux发行版中启动、停止和重启服务](http://os.51cto.com/art/201912/608656.htm)
+ > 今天，我将向你展示两种管理服务的方式。你将学习在 Ubuntu 或任何其他 Linux 发行版中启动、停止和重启服
+ ## [微软将改变个人版Windows 10收费方式：从买断向订阅转变](http://os.51cto.com/art/201912/608655.htm)
+ > 为了尽快达到10亿装机量的目标，微软给了Windows用户免费升级Win10的机会，直到现在Win7/8.1洗白正版Win10
+ ## [一行代码简化Python异常信息：错误清晰指出，排版简洁美观](http://news.51cto.com/art/201912/608654.htm)
+ > 即使是Python，报错时也令人头大。看着这一堆乱麻，不知道是该怀疑人生，还是怀疑自己手残。
+ ## [刚刚，贺建奎因“基因编辑婴儿”被判三年有期徒刑](http://news.51cto.com/art/201912/608653.htm)
+ > 贺建奎，张仁礼，覃金洲等 3 名被告人因共同非法实施以生殖为目的的人类遗传基因编辑和生殖医疗活动，构成
+ ## [盘点2019之公有云：拼技术、拼成本、拼效能，不断垒高的云服务门槛](http://cloud.51cto.com/art/201912/608651.htm)
+ > 今天的公有云市场正处于高速增长态势，根据IDC最新发布的《中国公有云服务市场(2019上半年)跟踪报告，2019
+ ## [Tutorial教程：知错就改，错了就罚，论训练深度学习如何选择损失函数](https://blog.csdn.net/MrCharles/article/details/103708339)
+ > Tutorial教程：知错就改，错了就罚，论训练深度学习如何选择损失函数
+ ## [国产开源项目年度盘点](https://blog.csdn.net/BEYONDMA/article/details/103752034)
+ > 
+ ## [自学系列 | 就谈兴趣！](https://blog.csdn.net/qq_36903042/article/details/103752660)
+ > 自学系列 | 就谈兴趣！
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [C++实现Linux下串口的读写](https://blog.csdn.net/BLUCEJIE/article/details/103753635)
- > C++实现Linux下串口的读写
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ ## [常见的排序排序排序算法](https://blog.csdn.net/weixin_45399846/article/details/103752428)
+ > 常见的排序排序排序算法
+ ## [字节跳动面经](https://blog.csdn.net/weixin_43846428/article/details/103023744)
+ > 字节跳动面经
+ ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
+ > linux系列之常用运维命令整理笔录
+ ## [【Linux】数据库管理](https://blog.csdn.net/weixin_43997530/article/details/103634828)
+ > 【Linux】数据库管理
+ ## [winform+GDI画验证码](https://blog.csdn.net/chonbi/article/details/103753694)
+ > winform+GDI画验证码
+ ## [Netty案例介绍-群聊案例实现](https://blog.csdn.net/qq_38526573/article/details/103754088)
+ > Netty案例介绍-群聊案例实现
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [2019.12.29日常总结兼差分与前缀和略讲](https://blog.csdn.net/ZHUYINGYE_123456/article/details/103753209)
- > 2019.12.29日常总结兼差分与前缀和略讲
- ## [winform图片添加水印](https://blog.csdn.net/chonbi/article/details/103753470)
- > winform图片添加水印
- ## [【03】链式存储--二叉树](https://blog.csdn.net/qq_42701294/article/details/103756697)
- > 【03】链式存储--二叉树
- ## [\[原理\] 说说Web请求的过程](https://blog.csdn.net/lidelin10/article/details/103754719)
- > \[原理\] 说说Web请求的过程
- ## [数据结构(5)--单链表的基本操作](https://blog.csdn.net/weixin_44858668/article/details/103754632)
- > 数据结构(5)--单链表的基本操作
- ## [JS数组常用的一些方法](https://blog.csdn.net/weixin_43523913/article/details/103753606)
- > JS数组常用的一些方法
- ## [Android开发-SQLite注册登录模块（注册）](https://blog.csdn.net/qq_41858698/article/details/103753447)
- > Android开发-SQLite注册登录模块（注册）
- ## [java socket 聊天小程序](https://blog.csdn.net/sinat_28809019/article/details/103756863)
- > java socket 聊天小程序
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
- > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
+ ## [Java基础学习总结02——变量与运算符](https://blog.csdn.net/qq_41445580/article/details/103742872)
+ > Java基础学习总结02——变量与运算符
+ ## [数据结构之——二叉搜索树](https://blog.csdn.net/m0_37914588/article/details/103752481)
+ > 数据结构之——二叉搜索树
+ ## [第一讲：高性能计算基础知识讲解](https://blog.csdn.net/swingwang/article/details/103755410)
+ > 第一讲：高性能计算基础知识讲解
+ ## [JSP基础总结](https://blog.csdn.net/weixin_45480785/article/details/103753763)
+ > JSP基础总结
  ## [我的 CDMA 往事](https://blog.csdn.net/csdnnews/article/details/103760156)
  > 作者 |小枣君本文经授权转自鲜枣课堂（ID: xzclasscom）CDMA要和我们说再见了。根据最新的消息，中国电信已明确要求从2020年起，所有5G终端不允许存在CDMA频段和制...
  ## [女朋友：你能给我讲讲单例模式吗？](https://blog.csdn.net/csdnnews/article/details/103760158)
@@ -174,6 +194,10 @@ AI&#20844;&#21496;&#8220;&#28145;&#23578;&#31185;&#25216;&#8221;&#33719;600&#199
  > 作者 |努力码稿的小浪本文经授权转自新浪科技（ID: techsina）2020年将至，故宫也马上600岁了。12月19日上午，故宫博物院年接待观众数量首次突破1900万人次。故宫已...
  ## [详解 TCP 连接的“ 三次握手 ”与“ 四次挥手 ”](https://blog.csdn.net/csdnnews/article/details/103759900)
  > 作者 | AhuntSun责编| ElleTCP connection客户端与服务器之间数据的发送和返回的过程当中需要创建一个叫TCP connection的东西；由于TCP不存在连接的概念，只存在请求和响应，请求和响应都是数据包，它们之间都是经过由TCP创建的一个从客户端...
+ ## [格力折叠式屏幕手机专利获授权](http://www.lanjingtmt.com/news/detail/45357.shtml)
+ > 天眼查数据显示，近日，珠海格力电器股份有限公司新增专利信息，其于2019年4月24日申请的折叠式屏幕手机专利已成功授权。
+ ## [北京颁发首批自动驾驶载人测试牌照，百度拿下首批共40张](http://www.lanjingtmt.com/news/detail/45355.shtml)
+ > 北京市自动驾驶测试管理联席工作小组颁发首批自动驾驶车辆道路载人测试通知书。百度Apollo率先拿下40 张自动驾驶载人测试牌照。
  ## [华米CEO黄汪发全员信：未来将搭建数据平台构筑全球健康生态](http://www.lanjingtmt.com/news/detail/45353.shtml)
  > 今日凌晨，华米科技创始人、董事长兼首席执行官黄汪发布全员信。黄汪在信中确认了公司未来的战略目标.。
  ## [今日头条回应百度关于搜索排序不公的起诉：一直支持品牌保护](http://www.lanjingtmt.com/news/detail/45352.shtml)
@@ -183,61 +207,59 @@ AI&#20844;&#21496;&#8220;&#28145;&#23578;&#31185;&#25216;&#8221;&#33719;600&#199
  ## [2019年度盘点四|彩电显示技术遍地开花，高清大屏或成突破点](http://www.lanjingtmt.com/news/detail/45348.shtml)
  > 对彩电企业而言，2019年的关键词既包括转型与自救，又包括AIoT与高清大屏显示技术。而这一年依然被业内认为是彩电行业的寒冬。
 # 人工智能 
- ## [全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!](https://blog.csdn.net/weixin_44318830/article/details/103739987)
- > 全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!
- ## [DL之LSTM：基于tensorflow框架利用LSTM算法对气温数据集训练并回归预测](https://blog.csdn.net/qq_41185868/article/details/103746235)
- > DL之LSTM：基于tensorflow框架利用LSTM算法对气温数据集训练并回归预测
- ## [如何搭建个人网站（内容详细，适合新手）](https://blog.csdn.net/weixin_43188825/article/details/103731725)
- > 如何搭建个人网站（内容详细，适合新手）
- ## [高等数学——变限积分求导](https://blog.csdn.net/tonglin12138/article/details/103748244)
- > 高等数学——变限积分求导
- ## [永兴的笔记-OpenCV基础图像处理1（python）](https://blog.csdn.net/m0_43505377/article/details/103747756)
- > 永兴的笔记-OpenCV基础图像处理1（python）
- ## [Ubuntu16配置object detection API](https://blog.csdn.net/weixin_41571247/article/details/103754181)
- > Ubuntu16配置object detection API
- ## [国产开源项目年度盘点](https://blog.csdn.net/BEYONDMA/article/details/103752034)
- > 
- ## [2019年，CSDN有哪些值得学习的专栏？](https://blog.csdn.net/csdngkk/article/details/103682497)
- > 2019年，CSDN有哪些值得学习的专栏？
- ## [炫酷的启动方式——如何定制Spring Boot的Banner](https://blog.csdn.net/weixin_45124488/article/details/103746634)
- > 炫酷的启动方式——如何定制Spring Boot的Banner
- ## [UNIX(编程-进程处理):30---僵死进程、孤儿进程（SIGCLD、SIGHCLD信号处理）](https://blog.csdn.net/qq_41453285/article/details/103738733)
- > UNIX(编程-进程处理):30---僵死进程、孤儿进程（SIGCLD、SIGHCLD信号处理）
- ## [HandAI开源项目，拉近人和摄影的距离：基于手势识别完成不同的拍摄行为](https://blog.csdn.net/qq_34914551/article/details/103746527)
- > HandAI开源项目，拉近人和摄影的距离：基于手势识别完成不同的拍摄行为
- ## [朴素贝叶斯和半朴素贝叶斯（AODE）分类器Python实现（完整代码）](https://blog.csdn.net/McQueen_LT/article/details/103747332)
- > 朴素贝叶斯和半朴素贝叶斯（AODE）分类器Python实现（完整代码）
- ## [BP神经网络简单入门~](https://blog.csdn.net/qq_44916823/article/details/103751549)
- > BP神经网络简单入门~
- ## [OpenCV基础教程——绘图函数【简单易懂】](https://blog.csdn.net/Gary_ghw/article/details/103753115)
- > OpenCV基础教程——绘图函数【简单易懂】
- ## [这6个编程语言排行榜，据说全都知道的人不足1% | 年终榜单大盘点](https://blog.csdn.net/alitech2017/article/details/103730286)
- > 
+ ## [Tutorial教程：知错就改，错了就罚，论训练深度学习如何选择损失函数](https://blog.csdn.net/MrCharles/article/details/103708339)
+ > Tutorial教程：知错就改，错了就罚，论训练深度学习如何选择损失函数
+ ## [Stm32 学习笔记（2）Eclipse 开发环境搭建](https://blog.csdn.net/rocshaw/article/details/103747950)
+ > Stm32 学习笔记（2）Eclipse 开发环境搭建
+ ## [4G EPS 中的 PDN Connection](https://blog.csdn.net/Jmilk/article/details/103750009)
+ > 4G EPS 中的 PDN Connection
+ ## [解决关闭deepin 15.11“自动索引内置磁盘”后仍然卡顿的问题](https://blog.csdn.net/yingliechangkong/article/details/103752054)
+ > 解决关闭deepin 15.11“自动索引内置磁盘”后仍然卡顿的问题
+ ## [I/O引脚](https://blog.csdn.net/qq_46059677/article/details/103748653)
+ > I/O引脚
+ ## [物联网开发 11 ESP32 和 ESP8266 比较](https://blog.csdn.net/aa120515692/article/details/103741190)
+ > 物联网开发 11 ESP32 和 ESP8266 比较
+ ## [简单单周期MIPS指令处理器设计Verilog实现](https://blog.csdn.net/qq_42856290/article/details/103751066)
+ > 简单单周期MIPS指令处理器设计Verilog实现
+ ## [利用C++中STL解决水果店问题](https://blog.csdn.net/qq_25953411/article/details/103750657)
+ > 利用C++中STL解决水果店问题
+ ## [基于SIM7600的4GDTU设计（一）](https://blog.csdn.net/switch_love_case/article/details/103723485)
+ > 基于SIM7600的4GDTU设计（一）
+ ## [毕业设计日志（6）](https://blog.csdn.net/weixin_39541632/article/details/103755844)
+ > 毕业设计日志（6）
+ ## [mmu页表机制](https://blog.csdn.net/nwpu053883/article/details/103747864)
+ > mmu页表机制
+ ## [STM32G07x  FT_c管脚(PA8/PB15/PD0/PD2)输入高电平检测问题](https://blog.csdn.net/Orion1977/article/details/103751183)
+ > STM32G07x  FT_c管脚(PA8/PB15/PD0/PD2)输入高电平检测问题
+ ## [ESP8266开发问题——V2.0转V3.0版本](https://blog.csdn.net/qq_37914492/article/details/103756433)
+ > ESP8266开发问题——V2.0转V3.0版本
+ ## [C语言文件读写基本操作](https://blog.csdn.net/qq_33904382/article/details/103740785)
+ > C语言文件读写基本操作
+ ## [NB-IoT使用CoAP协议接入华为IoT平台教程](https://blog.csdn.net/u011525592/article/details/103747178)
+ > NB-IoT使用CoAP协议接入华为IoT平台教程
 # PM 
- ## [2年实战分享：大公司和小公司做产品有何差异？](http://www.woshipm.com/pmd/3269083.html)
- > 当我经历过一个成熟的中型公司后，紧接着又进入一个创业型公司，从一个二三十人的产品团队到一个只有两三个人的产品团队，就愈发感受到在两种量级公司做产品的差异了。...
- ## [如何搭建一个资料共享的中台](http://www.woshipm.com/pd/3270211.html)
- > 作者通过一个简单案例，阐述如何在中台搭建过程中使用中台方法论，希望能够给你帮助。今天举个贴近生活的中台搭建的案例，让大家更好理解中台方法论。前面我们有说到...
- ## [译文 |  设计思维：20种行之有效的构思方法](http://www.woshipm.com/pd/3268986.html)
- > 构思是设计思维过程的核心。实际上有数百种进行构思的方法，例如头脑风暴、书面头脑风暴、Brainwalk和原型设计。部分方法只是在原方法基础上进行了重新命名或稍加修改。...
- ## [产品体验报告 | “新”当当与“旧”孔网](http://www.woshipm.com/evaluating/3259751.html)
- > 本文主要从产品现状、市场现状、产品分析几个角度切入，对当当和孔夫子旧书网各自的核心功能进行了体验分析，对比分析购物流程，全面解析了当前产品的现状，与大家一起...
- ## [鬼话连篇数据中台（一）：透过中台看数据中台](http://www.woshipm.com/pd/3271456.html)
- > 如何想方设法持续提高企业对⽤户的响应⼒才是建设背后最核心的逻辑，更好服务前台规模化创新，进而更好响应服务，不管是中台还是平台能够有显著成效就好。不管是传统...
- ## [API接口设计，需要注意这4点](http://www.woshipm.com/pd/2772820.html)
- > 原则上API接口设计一般出现在开发的详细设计中，但是随着诸多公司建立开放平台，产品经理也逐渐需要能理解API接口，尤其是做平台性的产品，还要学会定义接口。本文就关...
- ## [产品经理如何排列需求的优先级？](http://www.woshipm.com/pmd/3269124.html)
- > 上一篇文章讲产品经理如何对单个需求进行可行性分析，然而在实际工作中，产品经理往往会面临多个需求。在对每个需求进行可行性分析后，就需要对保留下来的需求进行优先...
- ## [想做好用户画像？制作用户标签是你要做的第一步](http://www.woshipm.com/user-research/3270982.html)
- > 用户标签，是一个非常基础的，估计人人都听过的，但是却经常弄混淆的概念。它是用户画像、精准营销、个性推荐、智能投放等等各种系统的砖石。本文对此进行了系统分析，...
- ## [海外贸易报关流程分析](http://www.woshipm.com/pd/2603830.html)
- > 文章对海外贸易中的单证流程进行了解读，主要包括5个方面：付款方式、信用证、发货管控、报关流程和风险流程，供大家参考。前面几篇文章，主要讲述了客户、产品以及财...
- ## [产品经理年终述职报告：总结过去，展望未来](http://www.woshipm.com/pmd/3271534.html)
- > 2019即将过去，相信很多小伙伴们都在忙碌地享受着2019最后的狂欢，抑或是提前感受到了2019曲终人散的孤单。在此之际，让我们一起来总结一下吧，年终述职报告不仅仅是工...
- ## [用户增长≠裂变，我对用户增长的几点看法](http://www.woshipm.com/operate/3263215.html)
- > 裂变拉新不应该是运营的唯一工作，做用户增长也不等于是裂变。用户增长在考虑增量的同时更要考虑存量的问题。公司想要做用户增长，需要结合实际特征、所处环境具体讨论...
- ## [5条营销小技巧，让用户爱上你的促销活动](http://www.woshipm.com/marketing/3271432.html)
- > 你是否曾为打折降价活动无人参与而头疼呢？原因在于没有让用户有“占便宜”的感觉，作者总结自己的5条小技巧，帮助你打造让用户“占便宜”的促销互动。用户需要的不一定是...
+ ## [2019年，产品人不好过](http://www.woshipm.com/pmd/3272728.html)
+ > 回顾2019 ，展望2020，产品经理一直在路上。过去一年，我接触了很多产品经理，他们来自不同行业，从事着不同细分领域的产品工作。他们有的来自 BAT 和 TMD 等头部公...
+ ## [公开课 | 0经验小白如何成为增长型产品经理](http://www.woshipm.com/online/3272751.html)
+ > 相信很多0经验，想入行产品经理的小伙伴在搜索产品JD的过程中，也都看见过“增长黑客”、“增长型产品经理”这类岗位，其高薪诱惑+具有挑战性的岗位性质吸引了很多同学。...
+ ## [为什么12306时不时要崩那么一下？](http://www.woshipm.com/pd/3272521.html)
+ > 12306承载的流量，不是一个双十一可以相比的。012019年即将过去，过年回家的火车票，你们买到了吗？我知道你们很多人都没有买到，我能感受到你们内心的绝望。前几...
+ ## [3个月涨粉300万的抖音实战方法论](http://www.woshipm.com/operate/3266139.html)
+ > 本文提炼了抖音涨粉的4个关键词：定位、算法、对标、复利。不知不觉做抖音一年多了，抖音的热点一直在变，但总归有些东西是不变的。写这篇分享的想法，源于年初朋友...
+ ## [洞察用户生命力的意义](http://www.woshipm.com/user-research/3272160.html)
+ > 洞察用户生命力的魅力，产品内部发生的细微变化都会通过生命力特征反馈出来，而任何一些微小的可能性，也会透过生命力特征明朗的显示出来。它将成为你实施数据增长的利...
+ ## [SaaS平台：数据列表设计](http://www.woshipm.com/pd/3269758.html)
+ > 本文以SaaS平台的数据筛选及数据列表作为分析的对象，结合案例，对数据列表的设计进行了探究。我们知道，数据列表承载着业务上的数据。针对不同场景、不同业务、不同...
+ ## [游戏化产品中的核心：世界观搭建](http://www.woshipm.com/pd/3272267.html)
+ > 笔者以系列专题的形式，和大家逐步聊聊游戏化的那些事～本文是第一篇，就是游戏化产品中最基本且最核心的一环——世界观搭建。随着移动互联网存量时代的来临，用户的留...
+ ## [2019年，我的营销思考与总结](http://www.woshipm.com/marketing/3272113.html)
+ > 营销是什么？每个人都有每个人的看法。本文作者认为营销是选择信息和发送信息，并对此观点进行了分析阐述，与大家分享。时间过得真快，转眼间2019年就要结束了，2020...
+ ## [SaaS创业路线图（68）：设计公司组织架构的思考框架](http://www.woshipm.com/chuangye/3272123.html)
+ > 临近年底连续写了2篇年度规划的文字，今天再追加一篇，关于组织架构设计的。enjoy~曾经有一个公司超过400人的销售运营负责人找到我，说她希望替换掉现有CRM，尽快上一...
+ ## [产品分析 | 快看漫画：你指尖下的二次元世界](http://www.woshipm.com/evaluating/3270641.html)
+ > 这是作者的第一篇产品分析报告，通过六个层面的分析对快看漫画APP提出了现存问题的相应建议，并自行绘制了原型图。通过详细的分析，我们可以知道快看漫画何以处于行业领...
+ ## [“四次工业革命”的代表性技术/应用/意义](http://www.woshipm.com/it/3269975.html)
+ > 本文总结列举了四次工业革命分别为哪四次，它们对应的代表性技术、应用和意义。前几天，有朋友在总结“四次工业革命”带来的变化，我也跟着讨论了几句。后来，感觉到这...
  ## [产品人核心能力维度是什么？](http://www.chanpin100.com/article/110472)
  > 就产品人能力维度就行叙述，希望得到大家的反馈意见，互相进步~
  ## [工作体验实录：在大公司和小公司做产品经理究竟有什么不同？](http://www.chanpin100.com/article/110470)
