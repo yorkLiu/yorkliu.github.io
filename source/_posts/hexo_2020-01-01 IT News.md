@@ -1,20 +1,48 @@
 ---
 title: 2020-01-01 IT News
 copyright: true
-date: 2020-01-01 10:02:03
+date: 2020-01-01 17:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [53 岁张亚勤官宣：正式加入清华，开启人生 3.0 模式](http://mp.weixin.qq.com/s?src=11&timestamp=1577844006&ver=2069&signature=VAU7Xaw3YeDndQAK1KYUow4PNcLPQjT8fgu07HG3qV1UgFWmv4-Civ8kh0qFzENGTTrjYSNZF*BnZqXodE4WwNhsIFNYxgnMWEuXA-0ETuvq9df4iMLBw*tgqcF7Z3nY&new=1)
- > 清华大学微信公众号今日发文称，美国艺术与科学院院士、澳大利亚技术科学与工程院院士张亚勤正式加盟清华大学。他被聘为清华大学智能科学讲席教授，将在清华大学车辆与运载学院、计算机系和相关院系开展科研、教...
- ## [2019，5G给文娱行业带来的N个可能](http://mp.weixin.qq.com/s?src=11&timestamp=1577844006&ver=2069&signature=tuR4f8FEVNit99K6vPzR8XpOl0NAxk8rMGTh*ToKN39zZh56NJtUE3wWKUJpvvEd61Oywlml6uNYuUvHhojnvwHB9QGfPiWeOzGY*qXutIc*JIqtwRxhIPxW3boXsVKG&new=1)
- > 导读5G大潮已来，从实践中看，5G技术已在主题报道、体育赛事、电竞、电影、综艺、活动盛典等诸多细分领域展开应用，运营商、广电、视频网站均已在5G领域抢先布局试图挖掘新一轮市场红利，5G正从黑科技变得触手可...
- ## [强强联合!广西应急安防无人机技术力争全国领先](http://mp.weixin.qq.com/s?src=11&timestamp=1577844006&ver=2069&signature=pI3fhyp5jRfdmmhfETyKMBgso9Y3RhPQXWeYgb9sJZx2n4NQD1JE4XPLE5Jm7JPVLh97f9D6MkHa1gx2pzuGUOI2uTgZN8xU347wglGz3yu72lbU0XlG6KDgPnY92*Gh&new=1)
+ ## [2019 年被“杀”死的那些技术!](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=L30IxMGKFhhxyROGmFhyJarwIx*Cdq8kz-uL8cqjPEb9zuXHK2GUMHlfcfQlgofHNpDePwA44e5rtuMFEPv3HnneoHyVnyRP3fel*JDSSrG0DOHo5xcsdWI0AuDldULq&new=1)
+ > 死亡终将降临在我们每个人身上，即使是那些曾经伟大的硅谷巨头——以下就是2019年曾经火过一阶段但又最终走向衰落的应用程序、设备和网站。作者 | Chloe Albanesius译者 | 杨诗琴，责编 | 郭芮出品 | CSDN（ID：...
+ ## [未知大陆与卓信盈投资控股签订战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=cqiVRWgW8vGxVk7D60ICsyGE3NLTNQzYv90mT1868LFXu14OF2bZPchmGrKMCAumWdYhoGpBCDf5Q2vzHr20aAyosejrYqrum9zjw83*snJaB9EY91mjhuUzHVkwjduJ&new=1)
+ > 2019年12月31日下午，未知大陆与深圳市卓信盈投资控股有限公司签订战略合作协议，双方将在3D打印技术应用、产业地产共建、优质项目投资等多方面展开合作，出席本次签约仪式的有未知大陆 CEO 李荣岳、卓信盈投资...
+ ## [2019年回顾系列：你应该的知道科学技术新突破](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=t6uAXKx9yNQ*6CvAIs23uPWNn*qzq78xPeg1ppkV298IMwiu1SgBM39c2CWnQ7eUcFwiPBm4XTOS*CFEwqf3BN*A4ZL849*Rr9Ea0qXnhD-R7rIeAbJUoqFoUmzINwP*&new=1)
+ > 2019年是一个特别的年份，从明天开始我们就将迈入21世纪的下一个十年，站在这个转折点，我们更多地需要看到接下来的十年，人类的科学技术将要走向哪个方向。站在今年的最后一天，我们一起来回顾这一年中那些重要...
+ ## [割接迎新年!辛苦了，通信人](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=TeMCreKcj*tfuZPdAU7rbnGIt9N3Lzsti0aW1ZBGJRvptfN8B5SDdpRh47bqq0Fgb3OcfsoiySJPcDi0ibCLlHoL7WxlZ2BSuIoueR0jnSTKcbRfmMQwRmFM2wrykCWr&new=1)
+ > 这个时候本来应该写点新年祝福话的，但昨天一则留言深深触动了我...这位手握拳头连续做出4个加油姿势，并背负着全村希望的兄弟太可爱了。为了开通5G，从2019年12月31日早上一直工作到2020年1月1日凌晨00：30！这...
+ ## [与5G、AI融合 北斗三号系统前景引外媒关注](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=MYZS21X1AMKD5vnoaXaIFYzmDICGYe4f3*AYrKPlZJpFkjT6WKFmATqXMREAHFJsnBuKDTx-Y5M6zJqoP5dhNZX6L-F*EpKcPuEM35oL6Oo=&new=1)
+ > 参考消息网12月29日报道 外媒称，中国2020年6月前将建成中国版全球定位系统（GPS）北斗卫星导航系统，开始提供包括高精度定位等的综合服务。中国拟实现北斗导航系统与5G通信的融合，与美国在高科技领域上的争夺...
+ ## [\[报告\]2019汽车年轻群体洞察与需求分析(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=MSvKdeCRoZqgcaDBR1D*8sL8zQ-KMAf7UqrI7t*IxcR3u6Egfd9oqujFINBYEUZWGk0LrLQYmEwVKzb5NJw2bBzzbc5*dRS1k8JX0talNEB4Sj0GIJgikUa5plzmx9fv&new=1)
+ > 以小撬大，90后已成为快速崛起的消费主力聚焦90后汽车消费新势力，把握需求，传递价值尼尔森持续创新，助力汽车厂商深耕90后年轻市场时代造就独特的90后群体，品牌如何精细化运作90后市场？研究对象定义研究设计...
+ ## [BBS 往事：人们在互联网尚未普及之前的「连接」](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=bFiY9tRB8Tzela8g*6DiEbA4NTdJM38iRy8UFyiKe7cz92a*pNhGBu*i74oMXoFqQzXErG7zXguOeTSsdKWfsYYmc6B9*4loqrU8HFHEMDot8NKqfvVAp-9KNfNq2QlX&new=1)
+ > Suess 的离世让人们再一次想起，在 1978 年的那场暴风雪中，先驱们悄然发起的一场「互联网」连接革命。「在人与人之间在线交流这件事上，一切都可以追溯到 Randy 和他的 BBS。」计算机史学家 Jason Scott 这样悼...
+ ## [2020年首日迎密码法 小E支招如何避免“口令套路”](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=x9BcwuaakP0oTgRH-1ndkBvDNEfoY5wvEQzylHVqs17TJEsKqNXunmkAmvMY529LUcPRe8Uu*sSHxcASN74n07rI-tkf7SSLqQBVsAh-QwaBSnFZxaQNFmmoPCE22lrm&new=1)
+ > 今天，是2020新年的第一天，同时也是我国首部《中华人民共和国密码法》正式施行的第一天。此次密码法的颁布填补了我国在密码保护法律上的空白，是我国密码领域的首部综合性、基础性法律，表示着我国向以法治护航...
+ ## [2020号外!华为中国企业业务合作伙伴政策正式发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=z7pL18le3rWQrk-2BxMulKZGk-xx4l*0NUoRgOWPwnH5Hmnz7Qly-0oWZ77LdguKadSrIbW2R8z5hZZxQZLGbjLqJGy0hhU28Fu*9tJ5iXPUhgtg0b9ohZEr3iTB56CU&new=1)
+ > 2020，砥砺奋进！诚邀您莅临华为中国生态大会2020洞悉合作新政策，共启生态新篇章！
+ ## [叮咚!2020，新十年辉煌入场券!](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=BNCdvO-cGCot7KR-0yhAFAymqY72RyzFLZaLiarM8tptgEZw-S8ZH6gLeDni*UQPRs2ShFH*lwomcwV5MkTVc2aWVRM*Ln3Rdx8dehHBYMLRFLz*mzenn3abW3jfOq0e&new=1)
+ > 科技予力，微软与您共创未来!
+ ## [云创以炫酷软件和饕餮美食喜迎新年!](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=QKaiAJRGENIpFj-Gfg3CrzXf37aA7qCw6lDNYahOxSCAu81WNw8NNuEeIIrGeCvanDPrXLs1g1HTQ5dM1WFNcdu8DcQCcyrJx39Vzrcvmi9LBCAs*i9FjTHzpy4dKut-&new=1)
+ > 在2020年即将到来之际，云创人在2019年的最后一天，在冬日暖阳里品视觉盛宴，尝美食大餐，享受了一番诗酒趁年华的惬意。（云创人大合照）视觉盛宴31日上午，万众期待的大数据可视化大赛终于来啦。来自平台部、人...
+ ## [a&s 传媒祝全体读者新年快乐!](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=WDP1M6Z-4TFysxJaXZSakHtrfjpdxE*BEkIpRFnFie46LAbRY8Np3JzzhIzLWAfFAIyuxexl2HDg6fvrHqyHw-i2ZcXFCaVbGDpSWEFPwuNlmYdNZHmyrbjAmdriBAeC&new=1)
+ > 喜迎元旦2019年a&amp;s传媒大事件回顾2月25日，【大安防供需平台】小程序正式发布9月21日，2019人工智能创新应用国际会议圆满召开10月27日，第16届a&amp;s中国安防十大品牌榜单公布10月27日，2019a&amp;s中国百大集成商榜单...
+ ## [强强联合!广西应急安防无人机技术力争全国领先](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=pI3fhyp5jRfdmmhfETyKMBgso9Y3RhPQXWeYgb9sJZxRckinfkzzCTqzhb0yxYM9OycBW*2vEc9*HKIGojDKqAW*pyfJOrl8xoIC1TTyRKOIiMraMzfPUzdJDlZR*VQN&new=1)
  > 新年快乐今天是2020年1月1日新的一年，正式拉开帷幕祝大家新年快乐，健康平安！在刚刚过去的昨天即2019年最后一天这个特殊的日子里广西两大行业先锋的手紧紧地握在了一起当天上午，一份名为“应急安防无人机应用...
- ## [2020，不止不行。](http://mp.weixin.qq.com/s?src=11&timestamp=1577844006&ver=2069&signature=PqSzoL6mLQR8IVivcv9lqNuseXFr0Q3YTsceMbN0XCP*lzLur-wSL2T2YHmyBQOkSOySGfNtXwGcg4gY18YSh2k6mzmxLws*WtSbh2LR7MFRX3LcHJUGwg0GTAJUjuCE&new=1)
+ ## [入选贵阳市智慧治理 典型应用示范项目](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=v5nOIUKU3aSB0ZbMCp72EPT2zxzXVuTH895xJ8Tn*YjiQZhunALACu2LwkRZ7f2JRR0nFywvnlsr7-ZJyfZaq4oQZF*hiKR0wpdr213ODMo=&new=1)
+ > 本报讯 记者从云岩区了解到，贵阳市2019年智慧治理智慧民生典型应用示范项目评选结果已于近日正式公示。经各主管部门推荐和专家评审，云岩区国资监管大数据平台系统入选2019年贵阳市智慧治理典型应用示范项...
+ ## [南极熊实地探访，首登央视的3D砂型打印方案提供商“易普特”](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=omsKM6gA3GeS1GqUVsDXF2rBJYP8lLnira3kN-tWYj7nUYARKL8O649Xv-u8UqeiIzRVy*uLBo8YlPtfh1*AfDM26HA3GZk2EpiQrjHdaM0SjISSGS9YMWpqa6YbBiRu&new=1)
+ > 关注南极熊，知晓3D打印天下事2019年12月31日，易普特位于古都洛阳的3D打印中心首登央视CCTV 7。在这个7300平方米的厂房内，7台爱司凯自主研发的3DP（粉末粘合）技术砂型3D打印机正在有序的进行打印工作，其生产...
+ ## [2020，不止不行。](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=PqSzoL6mLQR8IVivcv9lqNuseXFr0Q3YTsceMbN0XCNih8xtwAyMSX1Pan07F5bF96YzvZkxKEPnh1EmW9LpQ4Lop3G5wnXsXtwD7Wpe609I7iI47RLY1o0AS4JMUiKv&new=1)
  > 点下这篇推送的发送按钮时，差评君思绪万千 —— 2019 年过去了。今年的科技互联网圈其实发生了不少波折，例如 P2P 网贷大规模被查，基因编辑婴儿成为刑事案件，一波互联网公司倒闭、裁员。。。有人说今年是科技...
- ## [告别 2019，我们如何开启下一个十年?](http://mp.weixin.qq.com/s?src=11&timestamp=1577844006&ver=2069&signature=4y9-r4y7giEAYpIyqa5hzbMkoEEyclXQuGRzq-fLhZLTlYnuacIl6TzMaiyYeaTSXrubrgjupfo3nR2j5tn8im*u1UZUKbboVKRoHdf*vHJO*lDW0wssRvrYbBjrtikm&new=1)
+ ## [53 岁张亚勤官宣：正式加入清华，开启人生 3.0 模式](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=VAU7Xaw3YeDndQAK1KYUow4PNcLPQjT8fgu07HG3qV0NY74foRowNbZ2PBn4Ba7WMnxRvNGB-V5Q9YHl4ALz0c0jb9OFREWfbv7DjZMbTmXshW5h63B9FVzzQQjy3GoW&new=1)
+ > 清华大学微信公众号今日发文称，美国艺术与科学院院士、澳大利亚技术科学与工程院院士张亚勤正式加盟清华大学。他被聘为清华大学智能科学讲席教授，将在清华大学车辆与运载学院、计算机系和相关院系开展科研、教...
+ ## [2019，5G给文娱行业带来的N个可能](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=tuR4f8FEVNit99K6vPzR8XpOl0NAxk8rMGTh*ToKN38sO3rPja2ElZrQGl57dYkLEwrsDWa-LqElMwiAw89bjeIkG2eaVin*AajFk*cTvTpKATB81Lffjnoefp-3obmf&new=1)
+ > 导读5G大潮已来，从实践中看，5G技术已在主题报道、体育赛事、电竞、电影、综艺、活动盛典等诸多细分领域展开应用，运营商、广电、视频网站均已在5G领域抢先布局试图挖掘新一轮市场红利，5G正从黑科技变得触手可...
+ ## [告别 2019，我们如何开启下一个十年?](http://mp.weixin.qq.com/s?src=11&timestamp=1577867405&ver=2069&signature=4y9-r4y7giEAYpIyqa5hzbMkoEEyclXQuGRzq-fLhZIUZ1L0upCJAZaopNIWgxX9Im-4ttcYgkj7ojaONkl26svF-zAmQdhsfosFF16URtPvCFqo1cQxeVDF*4EI0DgP&new=1)
  > 盛宴将至，军备竞赛已经开始。头图来源 | 视觉中国张楠推迟了换手机的打算。她2017年中买的上一款手机，三千多，安卓手机中比较贵的价格，算是工作三年后的一次犒赏。用到现在，换了次屏幕，外壳有些磕碰，此外...
 # IT 技术 
  ## [为什么大公司一定要使用微服务？](http://developer.51cto.com/art/201912/608683.htm)
@@ -35,107 +63,89 @@ categories: IT NEWS
  > 如何为多个Web API提供授权方法
  ## [那些年我们踩过的坑，SQL 中的空值陷阱！](https://blog.csdn.net/horses/article/details/103722592)
  > 那些年我们踩过的坑，SQL 中的空值陷阱！
- ## [自学编程的一些感慨](https://blog.csdn.net/Woo_home/article/details/103777878)
- > 自学编程的一些感慨
- ## [程序员必知必会的零拷贝技术](https://blog.csdn.net/lsgqjh/article/details/103786526)
- > 程序员必知必会的零拷贝技术
- ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
+ ## [Python基础语法全体系 | 文件IO与常用文件操作模块](https://blog.csdn.net/ZYZMZM_/article/details/103736356)
  > 
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [多线程并发 (三) 锁 synchronized、volatile](https://blog.csdn.net/WangRain1/article/details/103770264)
- > 多线程并发 (三) 锁 synchronized、volatile
- ## [C语言：数字益智小游戏](https://blog.csdn.net/qq_25004761/article/details/103788344)
- > C语言：数字益智小游戏
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ ## [《大厂面试》面试官看了直呼想要的简历](https://blog.csdn.net/qq_35190492/article/details/103761746)
  > 
- ## [C程序员经常遇到的30道基础面试题，想你所想](https://blog.csdn.net/zlbdmm/article/details/103788924)
- > C程序员经常遇到的30道基础面试题，想你所想
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』](https://blog.csdn.net/m0_37907797/article/details/102885087)
+ > 写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』
+ ## [阿里技术 2019 年度热文 Top10 出炉，你错过哪些？](https://blog.csdn.net/alitech2017/article/details/103780942)
+ > 阿里技术 2019 年度热文 Top10 出炉，你错过哪些？
+ ## [查漏补缺：2020年搞定SpringCloud面试（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103769154)
+ > 查漏补缺：2020年搞定SpringCloud面试（含答案和思维导图）
+ ## [掌握这些，ArrayList就不用担心了！](https://blog.csdn.net/sinat_33921105/article/details/103773539)
  > 
- ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
- > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [石渊友的​2019年终总结](https://blog.csdn.net/qq_40232851/article/details/103784505)
- > 石渊友的​2019年终总结
- ## [操作系统的存储器管理](https://blog.csdn.net/qq_41861259/article/details/103774493)
- > 操作系统的存储器管理
- ## [C WPF发票打印](https://blog.csdn.net/HenryMoore/article/details/103787348)
- > C WPF发票打印
- ## [@程序员，2020年，这类程序员要做好苦日子准备了！](https://blog.csdn.net/csdnnews/article/details/103790096)
- > “我懒只是因为怕麻烦，不是我没能力。”这话我们都说过，但是我想说一个真相是，因为你懒得做，本该属于你的钱都被别人挣走了！你仔细琢磨一下，哪一个挣钱的商品，不是帮人“节省时间”的呢？朋友今...
- ## [如何将 Redis 的内存优化？](https://blog.csdn.net/csdnnews/article/details/103790498)
- > 作者 |阿文责编 | Elle出品 | CSDN（ID：CSDNnews）双十一、双十二都是买买买的节奏，但是你知道吗？像京东、淘宝这样的电子商城是如何扛得住几亿的请求吗？下面是一个电...
- ## [JavaScript 败北，TypeScript 大势所趋？](https://blog.csdn.net/csdnnews/article/details/103790097)
- > 由于TypeScript的先天优势，TypeScript越来越受欢迎。那问题来了：TypeScript 和 JavaScript 究竟哪个更好？JavaScript真的会败北吗？作者 |...
- ## [“微软让我损失了两亿美金！”](https://blog.csdn.net/csdnnews/article/details/103790496)
- > 我想和你分享我自己的血泪教训：一个让我错失2亿美元的错误。请记得，千万不要犯我犯过的错误。作者 |Garry Tan译者 |王艳妮，责编 | 郭芮出品 | CSDN（ID：CSDNn...
- ## [4599 的 iPhone 11，拼多多如何从「真香」到「更香」](https://blog.csdn.net/csdnnews/article/details/103790500)
- > 每个工作日的早高峰，北京五环外的西二旗，每小时都有 2.5 万人涌出地铁站，这让西二旗成为这座城市最忙碌的地铁站。交通部门的数据显示，根据 2017 年典型工作日，IC 卡乘客早高峰前 ...
- ## [4000个“不会数学”的程序员出现大反转！居然能学AI，玩算法，搞逻辑！背后原因首次曝光...](https://blog.csdn.net/csdnnews/article/details/103790511)
- > 不懂数学的程序员，尤其是在工作之后的一些瞬间，有多少次让你感受到数学的重要性？我们来看2个例子：写一行代码会用数学的程序员：我能分析代码算法的时间复杂度与空间复杂度，不用写就知道这个算法...
- ## [老码农肺腑直言：为什么我不建议你学Python？](https://blog.csdn.net/csdnnews/article/details/103790493)
- > 关于Python，我们听到最多的一句话就是：代码简洁。目前来看，代码量上C:Java:Python=100:10:1。Python简洁度完胜，但这却也是他的“死亡缺点”！今天想跟大家分享...
+ ## [Spring Boot 学习（12）springboot 整合 swagger2](https://blog.csdn.net/weixin_43570367/article/details/103788518)
+ > Spring Boot 学习（12）springboot 整合 swagger2
+ ## [Mybatis框架相关知识详解](https://blog.csdn.net/S_mengyong/article/details/103752928)
+ > Mybatis框架相关知识详解
+ ## [JAVA面试208道实用题，答案持续更新整理。](https://blog.csdn.net/qq_22062405/article/details/103400240)
+ > JAVA面试208道实用题，答案持续更新整理。
+ ## [Java中23种设计模式](https://blog.csdn.net/JewaveOxford/article/details/103083241)
+ > Java中23种设计模式
+ ## [如何搭建个人网站（内容详细，适合新手）](https://blog.csdn.net/weixin_43188825/article/details/103731725)
+ > 如何搭建个人网站（内容详细，适合新手）
+ ## [2019年Java中高级面试题总结（7），228道系列查漏补缺！](https://blog.csdn.net/Design407/article/details/103549488)
+ > 2019年Java中高级面试题总结（7），228道系列查漏补缺！
+ ## [小白学 Python 爬虫（25）：爬取股票信息](https://blog.csdn.net/meteor_93/article/details/103676762)
+ > 小白学 Python 爬虫（25）：爬取股票信息
+ ## [实战开发支付SDK —— 对接微信支付看这一篇文章就够啦（含源码）](https://blog.csdn.net/weixin_38111957/article/details/103677760)
+ > 实战开发支付SDK —— 对接微信支付看这一篇文章就够啦（含源码）
 # 人工智能 
- ## [软件工程重点解答题](https://blog.csdn.net/qq_41280600/article/details/103751203)
- > 软件工程重点解答题
- ## [如何快速把多个mp4和m4a合并 - 无需安装](https://blog.csdn.net/qq_31070811/article/details/103760300)
- > 如何快速把多个mp4和m4a合并 - 无需安装
- ## [心电信号的特征提取、分析与处理](https://blog.csdn.net/aclplr/article/details/103752321)
- > 心电信号的特征提取、分析与处理
- ## [电磁兼容的PCB设计（一）](https://blog.csdn.net/qq_42312125/article/details/103755956)
- > 电磁兼容的PCB设计（一）
- ## [DSP复习笔记（8）——TMS320F28335软件环境](https://blog.csdn.net/weixin_43830248/article/details/103733248)
- > DSP复习笔记（8）——TMS320F28335软件环境
- ## [DCC-GARCH模型用R语言详细实现步骤](https://blog.csdn.net/qq_36303521/article/details/103751415)
- > DCC-GARCH模型用R语言详细实现步骤
- ## [windows下python调用dll的方法](https://blog.csdn.net/wolfcsharp/article/details/103751494)
- > windows下python调用dll的方法
- ## [面试题之TCP与UDP的区别](https://blog.csdn.net/Weixiaohuai/article/details/103751658)
- > 面试题之TCP与UDP的区别
- ## [OV7670 FIFO 30W摄像头介绍（三） --- STM32F103驱动OV7670代码介绍](https://blog.csdn.net/XiaoXiaoPengBo/article/details/103760618)
- > OV7670 FIFO 30W摄像头介绍（三） --- STM32F103驱动OV7670代码介绍
- ## [高通骁龙865之camera性能深度分析（二）](https://blog.csdn.net/icamera0/article/details/103750814)
- > 高通骁龙865之camera性能深度分析（二）
- ## [基于TDengine-ver-1.6.4.4在windows 10下cmake+msys2编译(windows cgo 使用)](https://blog.csdn.net/weixin_44456979/article/details/103753664)
- > 基于TDengine-ver-1.6.4.4在windows 10下cmake+msys2编译(windows cgo 使用)
- ## [C++初学体验](https://blog.csdn.net/qq_46027518/article/details/103773787)
- > C++初学体验
- ## [Java Web 图书管理系统](https://blog.csdn.net/u014033586/article/details/103762698)
- > Java Web 图书管理系统
- ## [idea使用Java工作流](https://blog.csdn.net/weixin_37813118/article/details/103762356)
- > idea使用Java工作流
- ## [FIFO的时序和应用——FPGA的个人笔记](https://blog.csdn.net/a133760/article/details/103756036)
- > FIFO的时序和应用——FPGA的个人笔记
+ ## [每个开发人员都会遭遇的“中年危机”——我太难了](https://blog.csdn.net/duxinshuxiaobian/article/details/103767996)
+ > 每个开发人员都会遭遇的“中年危机”——我太难了
+ ## [【LintCode题解|隐藏个人信息】](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103769712)
+ > 【LintCode题解|隐藏个人信息】
+ ## [Tutorial教程：知错就改，错了就罚，论训练深度学习如何选择损失函数](https://blog.csdn.net/MrCharles/article/details/103708339)
+ > 
+ ## [全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!](https://blog.csdn.net/weixin_44318830/article/details/103739987)
+ > 全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!
+ ## [智能信息处理技术研讨会（天津大学）个人记录](https://blog.csdn.net/Rebornrn/article/details/103656660)
+ > 智能信息处理技术研讨会（天津大学）个人记录
+ ## [10年代的最后狂想（算是一周年总结？）](https://blog.csdn.net/weixin_43798170/article/details/103773872)
+ > 10年代的最后狂想（算是一周年总结？）
+ ## [如何搭建个人网站（内容详细，适合新手）](https://blog.csdn.net/weixin_43188825/article/details/103731725)
+ > 如何搭建个人网站（内容详细，适合新手）
+ ## [永兴的笔记-OpenCV-5图像滤波（python）](https://blog.csdn.net/m0_43505377/article/details/103763705)
+ > 永兴的笔记-OpenCV-5图像滤波（python）
+ ## [Python基础练习之基于numpy的数据分析与统计](https://blog.csdn.net/qq_43003358/article/details/103770805)
+ > Python基础练习之基于numpy的数据分析与统计
+ ## [2019年，CSDN有哪些值得学习的专栏？](https://blog.csdn.net/csdngkk/article/details/103682497)
+ > 2019年，CSDN有哪些值得学习的专栏？
+ ## [2020年来了，关于人工智能你必须了解的这些事……](https://blog.csdn.net/duxinshuxiaobian/article/details/103768273)
+ > 2020年来了，关于人工智能你必须了解的这些事……
+ ## [CWinfrom实现Skyline画直线功能](https://blog.csdn.net/qq_45361524/article/details/103772902)
+ > CWinfrom实现Skyline画直线功能
+ ## [动漫美少女生成神器、猫的门禁...2019年十七大最佳机器学习项目 |年度盘点①...](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103659323)
+ > 动漫美少女生成神器、猫的门禁...2019年十七大最佳机器学习项目 |年度盘点①...
+ ## [非线性滤波之EKF的研究与实现——INS/GPS组合导航仿真数据的生成](https://blog.csdn.net/tsuibeyond/article/details/103759772)
+ > 非线性滤波之EKF的研究与实现——INS/GPS组合导航仿真数据的生成
+ ## [【机器学习】（四）决策树](https://blog.csdn.net/qq_38962621/article/details/103774187)
+ > 【机器学习】（四）决策树
 # PM 
- ## [瑞幸的商业逻辑：超级用户的转化](http://www.woshipm.com/chuangye/3275285.html)
- > 瑞幸是一个上市速度被称超火箭的公司，其商业模式可以说是全新的。作者从商业的角度来分析瑞幸的商业逻辑，从流量思维和超级用户思维两方面进行阐述，对瑞幸未来的变现...
- ## [视频行业的会员是真·会员特权吗？](http://www.woshipm.com/pd/3275312.html)
- > 针对已有的老用户，做好已有用户的留存以及已有用户的价值挖掘非常重要，这对于已经亏损多年的视频行业来说更加重要。未来付费的道路还有很长，提升VIP用户的价值仍然还...
- ## [实例解析：实体零售的单店模型和连锁模型](http://www.woshipm.com/it/3277095.html)
- > 本文结合作者的从业经历，和近几年对新零售企业的观察和研究，详细拆解和分析了实体零售的单店模型和连锁模型。enjoy~经营线下实体店和电商的最大不同，需要先算清楚“...
- ## [春节营销，如何脱离“节日”束缚，回归品牌建设？](http://www.woshipm.com/marketing/3275360.html)
- > 节日营销不可不做，但是不能当成品牌的绝对保障，不过也是营销的一种罢了。2020年已经到来，也意味着农历新年这个古老节日即将到来。春节作为超强IP，本身自带极大的...
- ## [如何组织一场成功的需求评审？](http://www.woshipm.com/pmd/3245959.html)
- > 在需求评审中被diss几乎是每个产品经理都会遇到的问题，要想在评审的时候被diss得越来越少，产品经理必须做好充分的提前准备工作。需求评审对于产品经理可以说是家常...
- ## [心得分享：push用户召回（直播社交方向）](http://www.woshipm.com/operate/3276496.html)
- > 本文从工作实践出发，结合案例等分享了push用户召回相关的非常有价值的知识，供大家一同参考和学习。本文结构：01 push是什么对于增长产品来说push是一个贯穿整体...
- ## [2020年的产品经理修炼指南](http://www.woshipm.com/pmd/3276062.html)
- > 又是一年过去，我们进入了 202X 的时代。对2019年感到失望的你，需要看到未来更多的可能性，当然，所有的可能性都建立在自身的成长基础上。作者借此文，希望能够为大家...
- ## [洞察用户生命力的意义](http://www.chanpin100.com/article/110479)
- > 数据背后的秘密，便在于洞察用户的生命力。
- ## [你会做用户调研吗？超完整的调研框架攻略来了！](http://www.chanpin100.com/article/110474)
- > 本文以游戏直播调研为基调，整理最完整的用户调研要素干货！
- ## [用户拉新运营应该怎样做呢？](http://www.chanpin100.com/article/110476)
- > 对于积分兑换商城运营或者各种平台来说，拉新引流只至关重要的第一步工作，如果没有新鲜的血液进行流淌，则会是很难去保持整个平台的稳定性，包括了用户的活跃率、留存等。
- ## [得到APP竞品分析](http://www.chanpin100.com/article/110485)
- > 「得到」，是提供最省时间的高效知识服务类产品。
- ## [中年产品经理境况实录：聊聊我身边的那些产品经理们](http://www.chanpin100.com/article/110480)
- > 人到中年，产品经理的出路在哪呢？
- ## [创业维艰的时代，中小创业者寻求创新突破的四种可能性](http://www.chanpin100.com/article/110482)
- > 创新最重要的是我们面对痛苦，起心动念。
- ## [2020年春节营销，如何脱离“节日”束缚，回归最本质的品牌建设](http://www.chanpin100.com/article/110486)
- > 春节就要到了，节日营销即将打响，但品牌不要被“节日”绑架了
+ ## [公开课 | 0经验小白如何成为增长型产品经理](http://www.woshipm.com/online/3278313.html)
+ > 相信很多0经验，想入行产品经理的小伙伴在搜索产品JD的过程中，也都看见过“增长黑客”、“增长型产品经理”这类岗位，其高薪诱惑+具有挑战性的岗位性质吸引了很多同学。...
+ ## [数据产品三部曲：数据产品的前世（1）](http://www.woshipm.com/data-analysis/3276199.html)
+ > 笔者从企业信息化的发展历程开始盘点，从决策支持系统讲到商业智能，再讲到数据产品是如何诞生的。这篇文章第一次外发是在2017年左右，当时这个系列确实写完了，因为...
+ ## [设计过程中的决策技巧](http://www.woshipm.com/pd/3277389.html)
+ > 设计过程中最浪费时间的莫过于决策过程，建立标准的目的就是为了减少决策时间，提升效率。今天这篇文章旨在告诉大家一些设计过程中的决策技巧，不仅看完马上就能用上，...
+ ## [埋点设计指南：拆解拼多多双十二营销活动（下）](http://www.woshipm.com/pd/3277813.html)
+ > 上文分享了此次拼多多双12案例的一些相关活动信息，包括业务的数据需求，以及埋点方面的基础认知。可以温故一下案例需求：埋点设计指南：拆解拼多多双十二营销活动（上...
+ ## [从5个热搜出发，看2019全球AI发展这一年](http://www.woshipm.com/ai/3277476.html)
+ > 回顾2019年，AI技术的发展正在改变世界科技走向。2019这一年，作为“第四次工业革命”技术核心之一的AI，依然是全球科技热点，而且似乎更热了。你看，在刚刚过去的Neur...
+ ## [阿里社交再布局：“图钉”上线，对标美图秀秀](http://www.woshipm.com/it/3275165.html)
+ > 绝不放弃，阿里巴巴的社交梦能实现吗？2013年11月21日晚上10点39分，马云（ID为风清扬）在来往上发布了一条语音时长为36秒的内容，连续8天，马云都在来往上进行了打卡...
+ ## [短视频2020：风继续吹，竞争还没有结束](http://www.woshipm.com/it/3275323.html)
+ > 短视频的风口还远远没有过去，2020年，竞争才刚开始。回顾过去的2019年，整个移动互联网大盘增长在进一步放缓，3月份同比增速更是首次跌破了4%。但短视频依然是移动...
+ ## [谁在需求匿名社交？](http://www.woshipm.com/it/3277168.html)
+ > 2019年，匿名社交，引得企业纷纷下水，连坐拥微信和QQ的腾讯都推出了五款社交软件，用以巩固护城河。但是，匿名社交虽然旺旺增长迅速，却总是不可避免走向滑铁卢。产品...
+ ## [分享我的产品策划流程，希望对你也有用](http://www.woshipm.com/pmd/3275584.html)
+ > 本文笔者梳理拆解了自己的产品策划流程，并给出了自己对各流程的思考，希望能够给你带来一定的启发。记得刚开始做产品出需求方案的时候，上来就开始画原型写文档，在...
+ ## [大师教你写文案：一条好文案的从0到1](http://www.woshipm.com/copy/3276033.html)
+ > 作者从3位文案大师的观点出发，梳理了一条好文案从0到1的过程并对每个过程进行了深度分析，供大家一同参考和学习。本文部分内容融合了空手/李叫兽/东东枪老师的观点，...
+ ## [SaaS创业路线图（69）：一场抢人“血案”背后的制度设计逻辑](http://www.woshipm.com/chuangye/3277344.html)
+ > 在企业里，应该要公平，还是要效率？1. 一场抢人大战4年前，在我带的团队从100多人扩张到全国600人的过程中，曾经发生过一场抢人“血案”。今天我就拿这个例子，与大家...
+ ## [产品体验报告：拼多多如何让人上瘾？](http://www.woshipm.com/evaluating/3275204.html)
+ > 拼多多深谙人性的痛点与爽点，牢牢掌握了用户的心理，并富有行动力与创造力的将其应用于产品的各个环节。与其说它是一款电商软件，不如说它是一本通晓人性的教科书，精...
 
     
