@@ -1,24 +1,26 @@
 ---
 title: 2020-01-04 IT News
 copyright: true
-date: 2020-01-04 10:01:30
+date: 2020-01-04 12:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [运营商为推5G弃4G?网友集体反映4G网速变慢，工信部正式回应!](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=Jz8OEVni5-6GzrvViVkIQUn7tj2x7rEB49PUxOeQF92YDhx0SIyX1VZTj5EiG0hyToMC7GpWg6uvtV09sVMwJkfPsslZv7tzFqUYtb2cHvWM6HJbhSK90htUDxjYr9Wi&new=1)
+ ## [运营商为推5G弃4G?网友集体反映4G网速变慢，工信部正式回应!](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=Jz8OEVni5-6GzrvViVkIQUn7tj2x7rEB49PUxOeQF92PQin*U9ktPhjexO9RxoRlcM-ZpexV4lqhcuf70zCG9HCwIZmOR0daEliGsAkPm4oWrrOrrDk9KK28gQ*KJwya&new=1)
  > 小智说过，今年是5G元年，从2019年下半年，几乎所有手机厂商都开始转投5G手机，4G手机陷入被淘汰的边缘，而今年开始更是如此，在2000元以上的新机里，可能都不会再有4G手机发布，全部都是5G新机。而1000元以上20...
- ## [美媒：日本喜欢用机器人 但深知“机器”离不开“人”](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=C7jye6WQeRDd5m*fXR97oPsOz-u0CZFSZR3kCRQH5quEAjQfoPfAr0SV2cdJm2xA2zbfg8eCOn3ttYKmBGrsJmt51VES1-Y*Nu7r7*rlVpM=&new=1)
- > 参考消息网1月4日报道 美媒称，日本希望机器人和其他类型的自动化机器能够帮助其解决人口结构问题以及迫在眉睫的劳动力短缺。但事实证明，一些看似技术成熟、可以用机器人来取代人工的工作实际上很难外包给一台...
- ## [独家：中国电信联通共建共享5G工作组曝光 原来是这样设置内部机构](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=5Mc4hSlBFg2JE-8KaMOSXbTKlwmAKzA3EdvIDAMy4wZkKgMkVvvTlJOaeJ-G8uRujELtud25LpdSZ7juAKQuHoAyVFpv77XxcFk2LEImQpzilUM4JKz0rKKPl1Piwa2j&new=1)
- > 运营商财经网 吴碧慧/文 日前，运营商内部人士向运营商财经网透露，中国电信和中国联通为确保实现5G高质量发展和双方的互利共赢，经研究，决定由双方公司共同组建5G共建共享组织机构。目前总体原则及机构设置等...
- ## [刚刚，中国广电获4.9GHz 5G试验频率许可，在16个城市部署5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=RPT8QAmldcacf0fIZEyob9asAMFj0nv5NII040Bht3jguNHpOTjF5op1n3le1kZODILTJFBzTMFGSuz906W-0-ngQYv1pIdiNCI288BM7PH4BetxmuaIFAuvR5suT3Ks&new=1)
+ ## [刚刚，中国广电获4.9GHz 5G试验频率许可，在16个城市部署5G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=RPT8QAmldcacf0fIZEyob9asAMFj0nv5NII040Bht3hCJv8XafSMDovXOkY2jGUVjWY41ZUKZiYWGaRy14vVgNP50-WGYwM-vDSS5Dotn4cR08SMwyUPH6*ijsZFxNCD&new=1)
  > 昨天下午，工信部网站发布：为中国广电许可4.9GHz频段5G试验频率。近日，工业和信息化部依申请向中国广播电视网络有限公司（以下简称中国广电）颁发4.9GHz频段5G试验频率使用许可，同意其在北京等16个城市部署5G...
- ## [苹果股价周四收盘破300美元丨曹操出行在巴黎启动公测\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=*0ZW63nNvNGwXXTjAhah5SfHZcmt27hehGwVevWboiiSMnzvMnuOu2IUPoO0q4q-LSrxwrM931abT9ZfaBerBhstB372TUxCn9UrpHbjoXt30IIwLr-HWQUOc0JU*jt8&new=1)
+ ## [美媒：日本喜欢用机器人 但深知“机器”离不开“人”](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=C7jye6WQeRDd5m*fXR97oPsOz-u0CZFSZR3kCRQH5qu7bV0nO*h31Zcmwaz1q0svNFo0pzKzpxTuvScIvse5AAh42hA9Y*0A-w0P5m7Z4M0=&new=1)
+ > 参考消息网1月4日报道 美媒称，日本希望机器人和其他类型的自动化机器能够帮助其解决人口结构问题以及迫在眉睫的劳动力短缺。但事实证明，一些看似技术成熟、可以用机器人来取代人工的工作实际上很难外包给一台...
+ ## [星巴克API密钥被曝泄露 曝光者获巨额奖金](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=tsx6-CGuc0kwTdGA9BjQmLl386UcXEJmzTleI9crLWqoUYnRXC0lBtYLjI*Fb-nVQLj0ZaoipLJF4R3YvY0MnoJO6mUSwHwP8-dzp6OHe2wTpXWzE3z*NjUJYQE9SU12&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com近日，据外国媒体报道，一漏洞赏金猎人在公共GitHub存储库中发现星巴克的一个API密钥被暴露，并通过HackerOne漏洞赏金平台报告了该漏洞，获得了4000美元的赏金...
+ ## [独家：中国电信联通共建共享5G工作组曝光 原来是这样设置内部机构](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=5Mc4hSlBFg2JE-8KaMOSXbTKlwmAKzA3EdvIDAMy4wYnEwoo-z1A40DTtf-*-yNVIgCyeqXJb2nUnwwFRfSSrmO54WUjqKeM8SkUb*yJACy6GXIY3OpZL9fqE65kqDzy&new=1)
+ > 运营商财经网 吴碧慧/文 日前，运营商内部人士向运营商财经网透露，中国电信和中国联通为确保实现5G高质量发展和双方的互利共赢，经研究，决定由双方公司共同组建5G共建共享组织机构。目前总体原则及机构设置等...
+ ## [苹果股价周四收盘破300美元丨曹操出行在巴黎启动公测\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=*0ZW63nNvNGwXXTjAhah5SfHZcmt27hehGwVevWboigSAXKQWPRUnAcGm0VPSqY*cCWSsGu2RJbahxfwDV1RE79MG4Qv5PfLDoAtC-DGtpPgUy2upNlQbtHPHB0XAt*j&new=1)
  > 1月03日丨周五【Do说】编辑 | 赵艾虎苹果股价周四收盘破300美元，创历史新高周四收盘，苹果公司报收300.35美元，涨幅2.28%，这是苹果股价首次突破300美元大关，续创历史新高。据悉，苹果公司股价在2019全年大涨...
- ## [刚刚，三大运营商、中国铁塔人均薪酬曝光!你拖后腿了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=fvqdcC8b7ACjusWwQXqcBOd5OzXa14RlIdEkeNjs6qBLzckG9xlvvB5MzZVP5Kv-NR3a2CYIEjdojZ3E0AGVIkodKJdKpwwEbMlRL1o1qoeNa2Xt8YrpxuJPwzP-DgAm&new=1)
+ ## [刚刚，三大运营商、中国铁塔人均薪酬曝光!你拖后腿了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=fvqdcC8b7ACjusWwQXqcBOd5OzXa14RlIdEkeNjs6qA0VFFbbEtOs36DlEvPntfIgLon5VPgfI4lURzK*2GdeKw6dRB7tHPDBMOyJ2XQQ8WR7wtezhsGhkdB11KgKqb3&new=1)
  > 来源 通信产业网 互联网圈圈2019年刚刚过去，这一年通信行业从业人员薪酬怎么样？生存状态如何？近日《通信产业报》全媒体以100家通信企业为样本(主要是上市通信企业)，基于企业最新年报通过分析这100家企业的员...
- ## [不断申请专利 苹果欲押注“声音”——](http://mp.weixin.qq.com/s?src=11&timestamp=1578101405&ver=2075&signature=C7jye6WQeRDd5m*fXR97oPsOz-u0CZFSZR3kCRQH5quTXU2f9SF*KNJu-Wa6BBaiLVUTUkLpJY1nEyO8doCV2Nt3QCv-e*hZHd8RCv4**Rk=&new=1)
+ ## [不断申请专利 苹果欲押注“声音”——](http://mp.weixin.qq.com/s?src=11&timestamp=1578110406&ver=2075&signature=C7jye6WQeRDd5m*fXR97oPsOz-u0CZFSZR3kCRQH5quj9KJvUI-Ad8rDGb2trSsrLuRna8aRAgnahsubSfsLvKZIqaaXzFzCavdyhWbMP9M=&new=1)
  > 参考消息网1月4日报道 俄罗斯卫星通讯社1月1日援引美国商业内幕网站的消息称，美国苹果公司获得处理音频信号系统的专利，这项专利将可以在虚拟现实设备上使用。报道称，在美国专利商标局的档案中发现一个名为“...
 # IT 技术 
  ## [2020薪资翻倍，全靠12月的这十篇热门文章！](http://news.51cto.com/art/202001/608820.htm)
@@ -37,6 +39,30 @@ categories: IT NEWS
  > 2020年流行“低科技”攻击
  ## [福布斯公布42条网络安全行业趋势预测](http://netsecurity.51cto.com/art/202001/608774.htm)
  > 福布斯公布42条网络安全行业趋势预测
+ ## [【python】Python学到什么程度可以面试工作（解答一）](https://blog.csdn.net/qq_38410730/article/details/103734035)
+ > 【python】Python学到什么程度可以面试工作（解答一）
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ > 
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ > 
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [java面试问题记录](https://blog.csdn.net/qq_34707456/article/details/103819952)
+ > java面试问题记录
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [从0.1加0.2不等于0.3谈Python浮点数的前世今生](https://blog.csdn.net/xufive/article/details/103816159)
+ > 从0.1加0.2不等于0.3谈Python浮点数的前世今生
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ > 
+ ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ > 
  ## [10万人参加过的公开课（大数据、AI、云计算、5G、物联网），你都学了吗？](https://blog.csdn.net/csdnnews/article/details/103826176)
  > CSDN技术公开课有奖评选开始啦~~听过课的小伙伴们，哪位讲师的分享让你获益匪浅？记得给TA投票哦！投票后获取入群方式，参与抽奖，奖品很丰厚哦~~进入付费时代，如今我们看似只要招招手，一...
  ## [听说你还不会写观察者模式?](https://blog.csdn.net/csdnnews/article/details/103826178)
@@ -60,47 +86,59 @@ categories: IT NEWS
  ## [GitHub Action 有风险？！](https://blog.csdn.net/csdnnews/article/details/103826171)
  > GitHub 的 action 中有可能插入了恶意代码，即便有些加了标签。作者 |Julien Renaux译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以...
 # 人工智能 
- ## [六年码农生涯的 2019 总结：君子坐而论道，少年起而行之](https://blog.csdn.net/ZuoYueLiang/article/details/103799951)
- > 
- ## [你好2020，再见2019（年终总结）](https://blog.csdn.net/qq_14996421/article/details/103799498)
- > 你好2020，再见2019（年终总结）
- ## [《程序人生》深漂程序猿2019的一年](https://blog.csdn.net/qq_16855077/article/details/103800085)
- > 《程序人生》深漂程序猿2019的一年
- ## [20、30、40岁年轻人,2020年的建议](https://blog.csdn.net/Mac_cm/article/details/103783162)
- > 20、30、40岁年轻人,2020年的建议
- ## [自学编程的一些感慨](https://blog.csdn.net/Woo_home/article/details/103777878)
- > 自学编程的一些感慨
- ## [2020年新年寄语](https://blog.csdn.net/m0_37609579/article/details/103784240)
- > 2020年新年寄语
- ## [一分钟制作精美HTML邮件格式的元旦祝福邮件](https://blog.csdn.net/ccbill/article/details/103779908)
- > 一分钟制作精美HTML邮件格式的元旦祝福邮件
- ## [2019年还剩1天，我从外包公司离职了](https://blog.csdn.net/kebi007/article/details/103759171)
- > 
- ## [一份让你效率翻倍的年终总结](https://blog.csdn.net/vi_young_95/article/details/103798348)
- > 
- ## [我的2019年程序员生涯回忆录](https://blog.csdn.net/yanluandai1985/article/details/103793741)
- > 我的2019年程序员生涯回忆录
- ## [给迷茫的计算机系大学生的一封信 JAVA](https://blog.csdn.net/qq_37561309/article/details/103774203)
- > 给迷茫的计算机系大学生的一封信 JAVA
- ## [一个大二博主的一年来写博的年终总结与未来展望——致2019努力的自己，也致2020更好的自己](https://blog.csdn.net/weixin_44586473/article/details/103767113)
- > 一个大二博主的一年来写博的年终总结与未来展望——致2019努力的自己，也致2020更好的自己
- ## [QQ音乐爬虫(with scrapy)/QQ Music Spider](https://blog.csdn.net/kingsonyoung/article/details/103802946)
- > QQ音乐爬虫(with scrapy)/QQ Music Spider
- ## [2020 不忘初心 继续前行](https://blog.csdn.net/weixin_39706415/article/details/103799027)
- > 2020 不忘初心 继续前行
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
+ ## [Vue 中 axios 拦截器的封装](https://blog.csdn.net/weixin_44781409/article/details/103806752)
+ > Vue 中 axios 拦截器的封装
+ ## [年度巨献-Android 读书心得](https://blog.csdn.net/u010194271/article/details/103683020)
+ > 年度巨献-Android 读书心得
+ ## [Android - DataBinding源码解读（内存消耗和双向绑定原理分析）](https://blog.csdn.net/LucasXu01/article/details/103807451)
+ > Android - DataBinding源码解读（内存消耗和双向绑定原理分析）
+ ## [vue-cli框架搭建,vant官方推荐rem适配方案](https://blog.csdn.net/qq_40745143/article/details/103798984)
+ > vue-cli框架搭建,vant官方推荐rem适配方案
+ ## [Android实现APP内悬浮框效果](https://blog.csdn.net/true100/article/details/103808327)
+ > Android实现APP内悬浮框效果
+ ## [必读！！只需10分钟，NAS变身赚钱神器！](https://blog.csdn.net/IPFS_Newb/article/details/103805736)
+ > 必读！！只需10分钟，NAS变身赚钱神器！
+ ## [C++ 酒店管理系统](https://blog.csdn.net/kksc1099054857/article/details/103798347)
+ > C++ 酒店管理系统
+ ## [Banner轮播控件](https://blog.csdn.net/utomi/article/details/103809899)
+ > Banner轮播控件
+ ## [android开发——推箱子小游戏（前序）](https://blog.csdn.net/weixin_44702572/article/details/103796724)
+ > android开发——推箱子小游戏（前序）
+ ## [Android调试App之Monkey稳定性测试](https://blog.csdn.net/u011466469/article/details/103805374)
+ > Android调试App之Monkey稳定性测试
+ ## [vscode eslint自动格式化，新版本配置](https://blog.csdn.net/Lun_dy/article/details/103824030)
+ > vscode eslint自动格式化，新版本配置
+ ## [JNI/NDK入门指南之JNI多线程回调Java方法](https://blog.csdn.net/tkwxty/article/details/103814984)
+ > JNI/NDK入门指南之JNI多线程回调Java方法
+ ## [ViewPager动态添加删除及刷新页面](https://blog.csdn.net/songzi1228/article/details/103806625)
+ > ViewPager动态添加删除及刷新页面
+ ## [Android中Webview实现长按保存图片、并添加到媒体扫描器](https://blog.csdn.net/qq_41466437/article/details/103800033)
+ > Android中Webview实现长按保存图片、并添加到媒体扫描器
+ ## [自定义ListView，既可以与Scrollview嵌套使用正常显示，也可以独立使用正常滑动](https://blog.csdn.net/qiantanlong/article/details/103805889)
+ > 自定义ListView，既可以与Scrollview嵌套使用正常显示，也可以独立使用正常滑动
 # PM 
+ ## [产品实战派 | 100位产品汪的新年茶话会](http://www.woshipm.com/event/3286601.html)
+ > 会议介绍不知不觉间，2020已经到来；过去一年，你有怎样的思考感悟，新的一年，又有哪些努力方向？1月12日（周日），在杭州，我们想邀请你，赴一场产品经理的开年聚会...
+ ## [运营心理学，这4个原理让你的用户听话](http://www.woshipm.com/operate/3283076.html)
+ > 用户行为都是被设计出来的。本文作者结合实际案例，非常好地阐释了4个心理学原理在产品运营中的应用，供大家参考学习。如果把产品看成是一个公园，那么用户运营的任务...
+ ## [1小时破300万/月销售额过亿，新国货为何能强势崛起？](http://www.woshipm.com/marketing/3286429.html)
+ > 当我们都在感叹资本寒冬经济萧条时，新国货为何还能强势崛起，打造傲人的成绩呢？它背后的逻辑又是什么？买国货、用国货、晒国货，已经成为“国潮青年”的一种日常生活...
+ ## [服务蓝图：你需要了解的B端产品业务分析方法论](http://www.woshipm.com/pd/3285697.html)
+ > 与C端产品面向普通用户（Customer）不同，B端产品主要面向业务（Business）。本文基于B端产品的使用场景，以在线教育产品教学服务场景中的“学员服务”业务为例，介绍了B...
+ ## [像经营IP一样，经营自己的2020](http://www.woshipm.com/marketing/3286254.html)
+ > 2020年，我们需要做的，是按照IP思维，将自己、自己的产品、自己的品牌孵化并打造成IP，是像经营IP一样经营自己的2020年。2020年一定是非常残酷、撕裂、苦中作乐的一...
+ ## [订单信息与状态流转，看这一篇就够了](http://www.woshipm.com/pd/3285410.html)
+ > 前言订单产生后，接下来会继续进行一系列流转，最后送到用户手里。在每个环节都有对应的操作，数据信息也要求其完成性，可以根据订单的每个状态变化，来计算分析，进而...
+ ## [中国智能音箱迈过早期成熟期](http://www.woshipm.com/ai/3285461.html)
+ > 本文总结梳理了智能音箱在早熟期的变化以及未来发展趋势。速度往往会让市场处在快速迭代之中，很多门槛在不经意间就悄然走过。中国智能音箱战场在2019年跨越了三道门...
+ ## [读懂此文，抖音能火不再是玄学](http://www.woshipm.com/operate/3284250.html)
+ > 抖音是现在的一大流量平台，在这里有人靠一个短视频就火了，但是也有人始终没有火起来。那么，抖音的推荐策略究竟是怎么运行的，真的一切都是玄学吗？想象一下，站在...
  ## [使用有效策略，让用户留下来](http://www.woshipm.com/operate/3284758.html)
  > 为什么购物或视频都会给我们推荐一些商品和视频内容？为什么我们如此的沉迷抖音无法自拔？作为一枚互联网人，可能大家都知道并且熟知策略这个词，对它又爱又恨。用户...
  ## [生鲜电商平台的产品定价机制（1）](http://www.woshipm.com/pd/3285800.html)
  > 本文分析了生鲜电商中不同的产品类型——毛菜、精装菜、净菜的定价机制，以及毛利率。一、蔬菜的分类及定价关键因素先说一下关于蔬菜的分类：毛菜、精装菜和净菜。B2B...
  ## [UI设计，让我们和细节较劲](http://www.woshipm.com/pd/3285316.html)
  > 在UI设计师的开发流程中，UI设计就是在和细节计较，不断重复从讨论初稿到最终上线的过程，给用户带来更好的体验。如图所示，UI设计师在APP开发过程中最常见的一个问题...
- ## [从电商时代到新零售时代，社交电商承上启下](http://www.woshipm.com/newretail/3284236.html)
- > 社交电商的发展模式得到了资本的关注，缓解了电商落幕的尴尬，但是从长期来看，这种换汤不换药的发展模式终将会变成过去时。如果你让一个做社交电商的人来形容一下自...
- ## [2019产业AI速写：城市篇](http://www.woshipm.com/ai/3285640.html)
- > 2020年，城市AI命题显然会有一定的进展。但客观来说，这个进展将主要来自于云服务市场更深度走向城市场景和政府市场，为此提供更多专业化、针对化的AI整体解决方案。...
  ## [用户体验提升具体应该如何落地？](http://www.chanpin100.com/article/110504)
  > 如果你在工作中遇见一些自己无法解决的问题，不妨参与我的问答直播，一起来探讨。
  ## [如何产出一个体验超赞的产品需求文档？（附PRD模版）](http://www.chanpin100.com/article/110501)
