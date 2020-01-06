@@ -1,7 +1,7 @@
 ---
 title: 2020-01-06 IT News
 copyright: true
-date: 2020-01-06 12:01:52
+date: 2020-01-06 17:01:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -67,31 +67,43 @@ Wi-Fi 6E&#26631;&#20934;&#20844;&#24067;&#65306;&#25903;&#25345;6GHz&#39057;&#27
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [E观察:2019-2020年网络安全形势回顾与展望(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=s9AUqOkaoFVBxM5XXBrOVQ2KThKqWjKWFQuGmnG9NmDEdYTE0mHKYdpE570HaLRdgnNuu7zBVlRvzQWacaeJI0KBV-LgjcAG7fl9sppjYtDoBQmO77DScj-Crb-WJrHL&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com引言2019年，虽然我国在网络安全领域取得了新的成就，但全球网络空间的情况依旧纷繁复杂。人工智能、区块链、5G、量子通信等具有颠覆性的战略性新技术突飞猛进...
- ## [FF 遭前总法律顾问索赔 1 亿美元；三星官宣 Galaxy S20，下月发布；支付宝将于今天发布年账单|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=0EFI6xzSekGzRrcH-FwopXdVc2XWchnuSbXMBp5ztz1KeHQEkEgisW1Y50KooYs5wJnPzxP3wOBjmwyeJ00OlWEN3RM5g*8jxj5VG44ZsADwn*yWsBlXnfVR0*FX-eNT&new=1)
- > FF 遭前高管索赔 1 亿美元，贾跃亭造车梦再遭变数北京时间 1 月 5 日消息，据 21 世纪经济报报道，当地时间 1 月 3 日，法拉第未来（下称：FF）被其前总法律顾问刘洪起诉，要求赔偿 1.06 亿美元。据了解，刘洪于...
- ## [深入布局自主可控 航锦科技切入北斗3代核心芯片领域](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=T5Kf*SbP1uLLELwhHCgHkV0jPH6GUgt6wQzK47V2LepJ5SkKxzdR3f-WMjc-ufDr5CBW7BIuUVRxZuIZFw3T6YReTvWlPIvKIg5ZKoIrCtY=&new=1)
- > 本报记者 李勇    1月5日晚间，航锦科技公告称，全资子公司长沙韶光于当日与武汉英之园科技发展有限公司（以下简称“英之园”）签署相关股权转让协议，拟以4000万元购买英之园持有的武汉导航与位置...
- ## [首发|又获投近千万美金：这位博士把扫地机玩出花 一代产品卖出数万台](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=SE31pPk3x80gy3uTaraUhqLn6iXTAuAsK4lppC8cgwx8YqQ1HqEuPaGpoV1ivdakXL1T1s8zPHQ9UmfSmbdiEaFygiKgs1HdC6pO1eSWvvnAA4CRiuzySx*2wI*SbA2s&new=1)
+ ## [只需3天 3D打印就能“私人定制”膝关节](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=p4KqiHqdElvkyDF3VKHUo1VOLmqDQfq9hKB4uzLGYbHxvm5Ec3TqsV0LSRQnVDIFn9bQyjksRzAeW-I29vWhsQUImu5pq2fN4MKuVw2-IbcuocyCheDjC3-MFKSyX0OM&new=1)
+ > 去商场买衣服只能选型号，但是去裁缝店做衣服会更加合身，定制医疗也是这样。1月1日，国家药监局和国家卫健委联合发布的《定制式医疗器械监督管理规定（试行）》正式实施，我国3D打印医疗器械将迎来蓬勃发展。近...
+ ## [CES十年回顾：从诺基亚没落到中国公司崛起](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=qAZDQtPfS0IStDgOU8m8G1v-jwOgtfYzeR9E6oYMWP2qk2ELr0vRDlPZhJv3LSgk6tvV2ermIosWmPmnv71999vMv1kDEgC5-sPhT1bMjkzzjsiQ0lgSc7ZMWR8iLROi&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相CES 2020即将开幕出品 | 凤凰网科技 凤凰新闻客户端编译整理 | 箫雨又是一年CES(国际消费电子展)。CES 2020将于1月7日在赌城拉斯维加斯开幕。在这次展会上，人们不仅...
+ ## [连线：伊朗有能力对美国发起网络攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=uX8vko5nbPrVfTB4SbVVLn2-boMurZ70kL6ISNm5BWHvu*KTOouALnFldofpnOptBLW5n756Up4IlKQarE4Uos*39FYP7RZ*Jq8-JfR9JOPO4o41lQbpB-0TrOzbtKd0&new=1)
+ > 从数据破坏攻击到工控制系统攻击，伊朗拥有强大网络攻击武器库。1 月 3 日，据中国日报网报道，美国无人机在巴格达用导弹暗杀了伊朗少将苏莱马尼 (Qasem Soleimani)。Wired 杂志撰文指出，此举将招来伊朗黑客部...
+ ## [\[报告\]Tesla2.0时代：零部件国产化率提升、销量增长与生态产品(附43页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=Vq49OCjdZmuqXpq5-9YhTAr-fdyUqbRL7N54ZpEafNLllKt2l6nCuGswyBRQhot*0t7JeTUeEtmovjDUxcD4iVwFE3sYjnjdUstLIv-ukh09CCtE**OD5g9Xg70hXoMB&new=1)
+ > 2019年12月30日，特斯拉高层在国产Model 3交付仪式上表示，目前下线车辆的零部件国产化率达到30%，明年年中可达80%，年底实现全国产化。以下为报告节选：文│天风证券本报告共计：43页。如欲获取完整版PDF文件，...
+ ## [首发|又获投近千万美金：这位博士把扫地机玩出花 一代产品卖出数万台](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=SE31pPk3x80gy3uTaraUhqLn6iXTAuAsK4lppC8cgwwD3QQKry4vT4GC5usc6ikgX9HkNEg3CkGd2aP6up4mdjez3j1Wkg4CR-1BAcWcQe-nxcFoE9qVP7IvElpk01u-&new=1)
  > Trifo的最终目的是打造一个AI家庭机器人，成为连接消费者和家庭生活的纽带。记 者 | 刘小倩编 辑 | 吴晋娜““懒人经济”的风潮下，机器人的出现似乎拥有了更多的可能性。用户还没有回到家，就能通过APP操作机器...
- ## [小辣椒手机创始人王晓雁加入小米；手机 QQ 可显示对方实时电量；Git Extensions 3.3.1 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=vlitBlhWia2f7cTAbkKagMLVw8dVtn6qLcKIX4bgCtcw90UvbA00Zd2DyOH*tsGz-F-EwFNtg-heMAzWrsDrvOZouxgFT3ZDkk4FBISM6T3x3i20k372ejvaJy502zKq&new=1)
+ ## [CIO们在2020年及未来的目标](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=UMV87eGPJ8w*KNchlU1eC7clLp3mMIlmSAqSaDKqwv3ZFCS*EchIImDEFnhrPWhH1i0iMkpHRFgiEWeQM*EGIbYVvJ-uLIv*9rWn5*eYzcCWdz2zoHKqHhENK9wtYOBU&new=1)
+ > 关键讯息，D1时间送达！随着近10年来的变化，每个CIO都应该思考一个问题：在未来10年，这个角色将走向何方?CIO们认为，他们需要为许多挑战做好准备。网络安全不出所料地成为了最常被提及的话题。CIO们强调网络安...
+ ## [遥感技术进口或受限 业内建言全面开展国产替代](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=T5Kf*SbP1uLLELwhHCgHkV0jPH6GUgt6wQzK47V2LepFL**SGsZtvXZp7nKmonUQ6MUb08ZceEtX-EnNQ8H9r3ad1vOv2o-avQmtjVNdLl8=&new=1)
+ > 本报记者 李乔宇    日前，据海外媒体报道，特朗普政府在周五（1月3日）采取措施限制人工智能类软件出口，1月6日生效。规定中提出“根据将于周一生效的新规定，出口某些地理空间图像软件的美国公司...
+ ## [小辣椒手机创始人王晓雁加入小米；手机 QQ 可显示对方实时电量；Git Extensions 3.3.1 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=vlitBlhWia2f7cTAbkKagMLVw8dVtn6qLcKIX4bgCtd**3Gd2gvSniZmIPIec5xv9DILgEVuOtRPaSPPJga3zWD3gpFys6FUpI955RVq1akfFQxjFo7cMrNo20**afKe&new=1)
  > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
- ## [7点见|库克2019财年薪酬缩水至1.25亿美元；国产Model 3仍有降价空间；微信银联银行三方支付打通](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=s8m0PRfm7izhCwTl5fC1vwTCmA3HKpycfcSwJ-1O0lBl7lLpJ0lpZ5jhampW6uev4tIrd-ld9H1z7FJG2rDMWYcUftxTpL3M3CfAfpEYCUZCLzIk5z41Bffp0PnIxiAk&new=1)
+ ## [E观察:2019-2020年网络安全形势回顾与展望(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=s9AUqOkaoFVBxM5XXBrOVQ2KThKqWjKWFQuGmnG9NmApLcryzn6kwIZELLDSjBmIYolzbyau*xDRiAMJiv13s7HRkxUmGWKqkKvwCNz6Q7v8TrhdDtAfnVTRZf8lHwUK&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com引言2019年，虽然我国在网络安全领域取得了新的成就，但全球网络空间的情况依旧纷繁复杂。人工智能、区块链、5G、量子通信等具有颠覆性的战略性新技术突飞猛进...
+ ## [FF 遭前总法律顾问索赔 1 亿美元；三星官宣 Galaxy S20，下月发布；支付宝将于今天发布年账单|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=0EFI6xzSekGzRrcH-FwopXdVc2XWchnuSbXMBp5ztz0XDG56*bm7QXddldZGlj8XFxqBo4m64aor-k7ZWEAVB9wx*Dzol0LDAN6bBtOx7StJ-9XoQ85sg5*XHRfrt3I4&new=1)
+ > FF 遭前高管索赔 1 亿美元，贾跃亭造车梦再遭变数北京时间 1 月 5 日消息，据 21 世纪经济报报道，当地时间 1 月 3 日，法拉第未来（下称：FF）被其前总法律顾问刘洪起诉，要求赔偿 1.06 亿美元。据了解，刘洪于...
+ ## [深入布局自主可控 航锦科技切入北斗3代核心芯片领域](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=T5Kf*SbP1uLLELwhHCgHkV0jPH6GUgt6wQzK47V2LeqNaQ6k1m0GhKmmzmolF4KNwj97wP-9Z0hl1st44qmrlfTuZPUP0lC-oVbnEkAUtHY=&new=1)
+ > 本报记者 李勇    1月5日晚间，航锦科技公告称，全资子公司长沙韶光于当日与武汉英之园科技发展有限公司（以下简称“英之园”）签署相关股权转让协议，拟以4000万元购买英之园持有的武汉导航与位置...
+ ## [7点见|库克2019财年薪酬缩水至1.25亿美元；国产Model 3仍有降价空间；微信银联银行三方支付打通](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=s8m0PRfm7izhCwTl5fC1vwTCmA3HKpycfcSwJ-1O0lDUc2Ca-puMA9RU1yvg2kF8q1HBjo65uQ4Ai9jnYqaMUAeOTIqbc3VN4TZ6h*rsvf2rUiv8x4StZhcKwuz0HcK5&new=1)
  > 各位小伙伴们，早上好呀！近日我国部分地区有暴雪蓝色预警，你看到2020年的第一场雪了吗？小伙伴们和今年的初雪之夜都有什么故事？来评论区告诉小七吧~ok，接下来是今天的早报时间！苹果营收未达标，库克奖金缩...
- ## [小趋势：18家多激光金属3D打印厂商，剑指高效率/大尺寸/批量制造](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=X3hLiocXuDPBP2UP1brGetH79Sjc7Vln4eMhaGOsot-gQR6EqRAuVZD6bEYav1jxYFkzwF3FphnqTTcJfC9nX9e3TZphzYO75*n61LNBLniTSe8-MiHr-LX2X2Db2DWH&new=1)
+ ## [小趋势：18家多激光金属3D打印厂商，剑指高效率/大尺寸/批量制造](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=X3hLiocXuDPBP2UP1brGetH79Sjc7Vln4eMhaGOsot9XD18VSP6gzwOAe3krJpIGX5Hhgh5qHN70oczt65TQHCIoV4e-Z4iP9pTp1s97jExM4vv-BwbtU4eO21xUklPZ&new=1)
  > 关注南极熊，知晓3D打印天下事导读：随着金属3D打印往生产环节进行应用，对效率的要求越来越高。多激光成为金属3D打印实现高效率、大尺寸及批量制造的升级成型工艺，是粉末床激光成型工艺发展的新趋势。南极熊注...
- ## [讯石“创芯时代”邳州论坛暨年度总结大会成功举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=isidBw7Qw1XINmGIcKQt3qxROfjCUS0DPSK4Irix52cuI0x8x1jmKXXmWE50qsVhaYtG0wjjfkCfU7I6eok9KqGsW9xYg1n8ovwpJI0X9hxDAma8nBBHTNBDn8LqbuTz&new=1)
+ ## [讯石“创芯时代”邳州论坛暨年度总结大会成功举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=isidBw7Qw1XINmGIcKQt3qxROfjCUS0DPSK4Irix52eQjXalPgZZBQcVRTaDBqbqOpCsx6KKudDL*jfBzXH3UYkqFChv-hEbluBdcDZmB2DLCb2mn*f0O7bat5nsvn0f&new=1)
  > 导读：1月4日，汇聚光通信产业链300余人，超过144家企业参会的《2020年讯石“创芯时代”邳州论坛暨年度总结大会》成功举办，寓意2020光通讯与芯片产业发展的美好愿景。本次大会由深圳市讯石信息咨询有限公司和邳...
- ## [美国游说无效 印度5G测试华为获准参与](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=G2Dl0L1zBBNQ6fGzgAr3HfwEIckVAinE5x2h7iCFLYlVKmtHz5HaPINMW36XSK61XmZNvoa5zkNQXHmb9fzIZ9KA6Wz0WemnL7fjqW-gvG8=&new=1)
+ ## [美国游说无效 印度5G测试华为获准参与](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=G2Dl0L1zBBNQ6fGzgAr3HfwEIckVAinE5x2h7iCFLYneiRYh5g71L2rekxI2M2bHbZtT3Z6hMGvs3QQeXKIA1c6lIblA4ZjR6TLt85Eb1ZA=&new=1)
  > 参考消息网1月6日报道 境外媒体称，印度通信、电子和信息技术部长拉维·尚卡尔·普拉萨德在2019年12月30日宣布，为了能够更快地在印度推出5G服务，决定让所有的业者都参与当地的5G测试，当中也包括华为。台湾iTh...
- ## [2020年，我依然在联通工作!请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=ZkAMbe7P7cgdvKx-4WbMEy3Zc4VCG9*yGiaoWs*5Xum1j5kdh1Dqs5GYyLFBgCcDSLPW5CGO101iZi1Tk0sWAWtMQ97FlU3YCFDVM7QN6NHvPwN7fKcgqc6zNdI1lLSm&new=1)
+ ## [2020年，我依然在联通工作!请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=ZkAMbe7P7cgdvKx-4WbMEy3Zc4VCG9*yGiaoWs*5XumpMho1C--bkelVXIptqjcGlhCnVXYI8vjenPMmegdB1iws7CMxhXBuezjK7fWtZrRJjOSIxWiTbjEagsU1Z*FM&new=1)
  > 感谢过去的一年大家的支持和信赖2020年，我依然在中国联通工作！请放心找我！从事通信工作多年不忘初心、砥砺前行只为让更多的朋友体验联通高品质网络服务2020年我建议您为自己办一张联通5G卡，不为别的，只为提...
- ## [IBM中国工程师在美遭抢劫身亡，运营商携铁塔公司联合声明警惕5G建设诈骗，爱贝信息公司被查，就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=IwbILsDp0VP32-rEz*uxXjo1TnJJVLa*u2sown014C1w*5APJYwpjcnXvkdUdy5Byaq3SspmJLjZroGBiZDnJ7vbvYAfIvW1tnQyt2BaFUs20Y9vtcUC5MIXfDr01Ipp&new=1)
+ ## [IBM中国工程师在美遭抢劫身亡，运营商携铁塔公司联合声明警惕5G建设诈骗，爱贝信息公司被查，就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=IwbILsDp0VP32-rEz*uxXjo1TnJJVLa*u2sown014C234tBaEIsHdAlt9Xf1aKm*WgG3KVOnEbhPxO61X*RJIij1*pGygJ0U1NraHEInUwffUIG9MZ2glQLoA1LXX*mw&new=1)
  > 今天是1月5日农历十二月十一马上就是电商平台的年货节了反正一年到头都是活动呗你们只管搞反正我都没钱下面是今天的其他大新闻 IBM 中国工程师在美遭抢劫身亡 ( IT之家 ) 据多家美国地方媒体的报道，12 月 31 ...
- ## [详解5G R17标准议题：中国话语权再提升](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=OP*eiUxpzLB*vVtwZZoSn-fstXqaKd3Brw4DLj4xRLfuLVgoEd26PfJW0VB3vJ30lCMKc2OB9uohTn26eOPZ5gNbF*8X*QSds35jEwo3TiXXsAvz9JI7sKIsQa6wqxzZ&new=1)
+ ## [详解5G R17标准议题：中国话语权再提升](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=OP*eiUxpzLB*vVtwZZoSn-fstXqaKd3Brw4DLj4xRLe4-*s60oPFiv1--Em7fm9nUgZTYGD5OqPEAmIJbK5swWINTramI-PPCWWcgpdy9*lcFW8oIPGrJWIQuTqRQzJy&new=1)
  > 导语：在2G、3G、4G、5G无线通信发展中，标准制定扮演着极为重要的角色。以前我们无线产业之所以落后，处于跟随状态，是因为无线标准几乎都是欧美等国外制定，我们没有太多存在感。直到4G、5G，这样的情况发生巨...
- ## [中国电信新组建云网运营部曝光：刘志勇任总经理多达19个处和中心](http://mp.weixin.qq.com/s?src=11&timestamp=1578281406&ver=2079&signature=Y9ymqPvZ*Nrhg6CNJpawwHC8P6XO3LV2RgKF3wkOj-tXt1ptVozxlB6B4iX4hgNouaA6wP270-yKrdV0Cw*vPskXYYlhaUzFOqcDR1ZJ*nULvZ537AYZiqLvHTZTk5UL&new=1)
+ ## [中国电信新组建云网运营部曝光：刘志勇任总经理多达19个处和中心](http://mp.weixin.qq.com/s?src=11&timestamp=1578299406&ver=2079&signature=Y9ymqPvZ*Nrhg6CNJpawwHC8P6XO3LV2RgKF3wkOj-v3lvOY3DCgatCgI1QTT7TP94tpdk*iFP2IhNOHIhqGrMIlHgTJAXUlqbW4m8eowe3JXG7MYWiNqNvrac6XfuCw&new=1)
  > 运营商财经网  康钊 /文知情人士向运营商财经网独家透露，中国电信新成立的云网运营部（数据中心）的负责人已确定，原中国电信系统集成公司总经理刘志勇任云网运营部总经理，部门副总经理多达5个。而部门非常庞...
 # IT 技术 
  ## [一次迁移引发的“血案”，最终赔偿29亿！](http://news.51cto.com/art/202001/608887.htm)
@@ -110,44 +122,48 @@ Wi-Fi 6E&#26631;&#20934;&#20844;&#24067;&#65306;&#25903;&#25345;6GHz&#39057;&#27
  > 英特尔首次披露薪资详情，年薪最高145万，60万是转折点
  ## [2020年企业网络安全7个危险迹象](http://netsecurity.51cto.com/art/202001/608859.htm)
  > 2020年企业网络安全7个危险迹象
- ## [2020年的10个数据和分析趋势](http://bigdata.51cto.com/art/202001/608910.htm)
- > 如今，数据分析技术渗透到数字企业的各个方面，人们需要注意其未来几年的发展趋势。
- ## [从TCP/IP协议谈Linux内核参数优化](http://os.51cto.com/art/202001/608909.htm)
- > 在硬件资源有限的情况下，最大的压榨服务器性能，提高服务器的并发处理能力，是很多技术人员思考的问题，除
- ## [Java虚拟机：Jvm概念和原理详解以及GC机制的分析](http://virtual.51cto.com/art/202001/608908.htm)
- > 程序计数器(Program Counter Register):也叫PC寄存器，是一块较小的内存空间，它可以看做是当前线程所执行
- ## [人们如何让转移到云端成为现实](http://cloud.51cto.com/art/202001/608905.htm)
- > 如果做得正确，那么云计算将为现实世界提供更多的选择、创新和控制。近年来，围绕云计算的主题讨论有了显著
- ## [物联网未来的何去何从？](http://iot.51cto.com/art/202001/608904.htm)
- > 如何有效地应用物联网系统，必须依据现今科技的4大趋势及目前7大技术领域，来评估未来物联网的利基点，现在
- ## [复杂分布式架构下的计算治理之路](http://developer.51cto.com/art/202001/608907.htm)
- > 在当前的复杂分布式架构环境下，服务治理已经大行其道。但目光往下一层，从上层 APP、Service，到底层计算
- ## [35岁被裁员，“保鲜期”短的程序员如何转型？更新知识、坚持学习](http://news.51cto.com/art/202001/608903.htm)
- > 互联网公司裁员，在2019年年末，再次成为人们的焦点。各家互联网大厂，宁可损失数以亿计的现金，也要将工作
- ## [12月份Github上热门的JavaScript开源项目](http://developer.51cto.com/art/202001/608901.htm)
- > 12月份GitHub上最热门的JavaScript开源项目排行已经出炉啦，这个月JavaScript相关的开源项目不仅有古诗词数
- ## [这三种编程语言将成为2020年5G物联网时代的“守护神”](http://iot.51cto.com/art/202001/608899.htm)
- > 物联网设备的普及度持续上升。在当前阶段，我们与物联网的合作伙伴关系更加牢固。物联网的这一阶段提供了较
- ## [美国宣布限制AI软件出口中国：无人机、自动驾驶首当其冲](http://ai.51cto.com/art/202001/608902.htm)
- > 2020来了，技术管制有改善吗?放弃幻想吧。路透社最新消息，美国最新出口管制措施已经上膛：这次专门针对AI
+ ## [2008至今，Chrome如何成长为霸主](http://os.51cto.com/art/202001/608927.htm)
+ > 十一年后的现在，Chrome 在浏览器市场稳居第一，占有率接近 70%。谷歌是如何在这些年里使 Chrome 从零进入
+ ## [感谢AMD竞争 Intel终于将CPU性能提升了100%多](http://biz.51cto.com/art/202001/608925.htm)
+ > 这周的CES展会上，不出意外的话Intel将推出十代酷睿桌面版Comet Lake-S系列处理器及400系芯片组，让人想不
+ ## [人社部拟发布16个新职业 人工智能训练师等入围](http://ai.51cto.com/art/202001/608924.htm)
+ > 中新网客户端1月2日电 (李金磊)经人社部同意，中国就业培训技术指导中心近日发布《关于拟发布新职业信息公
+ ## [使用Netty通信时，遇到TCP粘包拆包问题如何解决？答案如此简单](http://network.51cto.com/art/202001/608922.htm)
+ > 我们使用TCP协议在传输数据的时候，如果数据块比较大，就会考虑将其切分。把一个大的数据包进行切割成一个
+ ## [如何把你的老爷机重新利用起来](http://os.51cto.com/art/202001/608923.htm)
+ > 我进行电脑翻新已经有二十年了。在这篇文章里，我会分享一下电脑翻新的技巧。此处讨论的范围包括双核笔记本
+ ## [Redis两种持久化机制RDB和AOF详解](http://stor.51cto.com/art/202001/608921.htm)
+ > redis是一个内存数据库，数据保存在内存中，但是我们都知道内存的数据变化是很快的，也容易发生丢失。幸好
+ ## [这个极客的Linux命令用起来，批量执行工具得心应手](http://developer.51cto.com/art/202001/608919.htm)
+ > 我们经常遇到这样的业务场景，我们开发了一个线上工具，需要在Linux操作系统下面执行处理某些事情，例如我
+ ## [JavaScript 引擎运行原理](http://developer.51cto.com/art/202001/608918.htm)
+ > JavaScript 很酷，但是 JS 引擎是如何才能理解我们编写的代码呢?作为 JS 开发人员，我们通常不需要自己处理
+ ## [2019年Linux与开源如何统治技术圈](http://developer.51cto.com/art/202001/608917.htm)
+ > 2019 年，Linux 与开源疯狂发展，ZDNet 专栏作者 Steven J. Vaughan-Nichols 梳理了 5 个年度大事件，从中
+ ## [一个短信验证码功能引发的总结思考](http://developer.51cto.com/art/202001/608916.htm)
+ > 从简单的功能探寻背后的技术奥秘。技术就是在生活中~昨天看到一个地址，新用户免费领取X登读书APP的14天会
+ ## [2020年一线城市程序员工资大调查](https://blog.csdn.net/juwikuang/article/details/103840385)
+ > 
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [\[享学Jackson\] 八、jackson-databind数据绑定基础配置之BaseSettings、MapperConfig、MapperConfigBase](https://blog.csdn.net/f641385712/article/details/103838244)
- > \[享学Jackson\] 八、jackson-databind数据绑定基础配置之BaseSettings、MapperConfig、MapperConfigBase
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [Ozone数据读取过程分析](https://blog.csdn.net/Androidlushangderen/article/details/103841373)
  > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
- > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
- > 
  ## [Wireshark lua 插件简介](https://blog.csdn.net/javajiawei/article/details/103835729)
  > Wireshark lua 插件简介
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [java-极光短信以及通知回调整合](https://blog.csdn.net/weixin_39984161/article/details/103720137)
+ > java-极光短信以及通知回调整合
+ ## [新工作，新环境，新征程](https://blog.csdn.net/net_building/article/details/103745413)
+ > 新工作，新环境，新征程
+ ## [“一百万行 Python 代码对任何人都足够了”！](https://blog.csdn.net/csdnnews/article/details/103855914)
+ > 作者 | Jake Edge译者 | Kolen出品 | AI科技大本营（ID: rgznai100）编程语言通常对其操作过程的各个方面都有或明或暗的限制。诸如标识符的最大长度或变量可以...
  ## [Java 发展简史：初生遇低谷，崛起于互联网](https://blog.csdn.net/csdnnews/article/details/103849686)
  > 作者 |泰斗贤若如责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）Java 起源与诞生20世纪90年代，单片式计算机系统诞生，单片式计算机系统不仅廉价，而且功能强大，使用它可以大幅度提升消费性电子产品的智能化程度。SUN公司为了抢占市场先机，在1991年成立了一个由...
  ## [达摩院 2020 预测：工业互联网超融合来袭！](https://blog.csdn.net/csdnnews/article/details/103849903)
@@ -155,60 +171,78 @@ Wi-Fi 6E&#26631;&#20934;&#20844;&#24067;&#65306;&#25903;&#25345;6GHz&#39057;&#27
  ## [一文学会排列组合](https://blog.csdn.net/csdnnews/article/details/103849907)
  > 作者 |码海责编| Elle前言上一篇「一文学会递归解题」一文颇受大家好评，各大号纷纷转载，让笔者颇感欣慰，不过笔者注意到后台有读者有如下反馈确实，相信很多人（包括我自己）都有类似...
 # 人工智能 
+ ## [面试官常问的 数据库 问题（一）](https://blog.csdn.net/qq_44641053/article/details/103774234)
+ > 面试官常问的 数据库 问题（一）
+ ## [数据库](https://blog.csdn.net/zff13673839907/article/details/103836958)
+ > 数据库
+ ## [SQL语句大全](https://blog.csdn.net/qq_43647359/article/details/103831354)
+ > SQL语句大全
  ## [MySQL数据库及注入方法](https://blog.csdn.net/qq_36119192/article/details/100862012)
  > MySQL数据库及注入方法
- ## [SpringBoot系列（9）：Mybatis之注解版](https://blog.csdn.net/mu_wind/article/details/100152077)
- > SpringBoot系列（9）：Mybatis之注解版
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your](https://blog.csdn.net/taiguolaotu/article/details/95171923)
- > sql语句 异常 Err\] 1064 - You have an error in your SQL syntax; check the manual that corresponds to your
- ## [制作一个简单的员工管理系统](https://blog.csdn.net/sakuyaPOI/article/details/101221298)
- > 制作一个简单的员工管理系统
- ## [Tensorflow中tf.nn.conv2d方法](https://blog.csdn.net/Juicewyh/article/details/97510754)
- > Tensorflow中tf.nn.conv2d方法
- ## [Oracle数据库学习笔记（oracle 11g持续更新...）](https://blog.csdn.net/Mr_C_python/article/details/100939206)
- > Oracle数据库学习笔记（oracle 11g持续更新...）
- ## [价值十个亿的淘宝搜索功能](https://blog.csdn.net/weixin_43968234/article/details/100163100)
- > 价值十个亿的淘宝搜索功能
- ## [MPP架构数据库优化总结——华为LibrA与GreenPlum](https://blog.csdn.net/alionsss/article/details/101106401)
- > MPP架构数据库优化总结——华为LibrA与GreenPlum
- ## [JdbcTemplate使用](https://blog.csdn.net/songguopeng/article/details/85012924)
- > JdbcTemplate使用
- ## [mySQL常用操作及基础知识](https://blog.csdn.net/u011208984/article/details/97641550)
- > mySQL常用操作及基础知识
- ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
- > mysql 8.0.17 解压版安装教程
- ## [用layui实现下拉框select多选,取值](https://blog.csdn.net/gs981600308/article/details/96997967)
- > 用layui实现下拉框select多选,取值
- ## [linux odoo docker常用运维命令表](https://blog.csdn.net/qq_32394351/article/details/101056652)
- > linux odoo docker常用运维命令表
- ## [Collecting package metadata (current_repodata.json): done Solving environment: failed](https://blog.csdn.net/lancecrazy/article/details/96180736)
- > Collecting package metadata (current_repodata.json): done Solving environment: failed
+ ## [MySQL数据库基本概念介绍](https://blog.csdn.net/weixin_42953006/article/details/103809631)
+ > MySQL数据库基本概念介绍
+ ## [SQL查询执行的流程](https://blog.csdn.net/qq_40495860/article/details/103842367)
+ > SQL查询执行的流程
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ > 
+ ## [Oracle数据库常用函数总结](https://blog.csdn.net/m1090760001/article/details/103832301)
+ > Oracle数据库常用函数总结
+ ## [mysql数据库管理](https://blog.csdn.net/weixin_45682995/article/details/103809283)
+ > mysql数据库管理
+ ## [Mysql5.7 使用存储过程 分段生成 亿级 测试数据](https://blog.csdn.net/lizhou828/article/details/103841040)
+ > Mysql5.7 使用存储过程 分段生成 亿级 测试数据
+ ## [数据库的第一范式、第二范式、第三范式，BCNF范式](https://blog.csdn.net/guagua_M/article/details/103835502)
+ > 数据库的第一范式、第二范式、第三范式，BCNF范式
+ ## [Oracle第四章单行函数理解+剖析](https://blog.csdn.net/weixin_44366366/article/details/103834072)
+ > Oracle第四章单行函数理解+剖析
+ ## [MySQL数据库总结](https://blog.csdn.net/weixin_43691058/article/details/103175678)
+ > 
+ ## [简单解决springboot 中自封框架未集成双数据源方案之一](https://blog.csdn.net/shiXiaoChenblog/article/details/103841782)
+ > 简单解决springboot 中自封框架未集成双数据源方案之一
+ ## [Oracle数据库建表并设置主键自增](https://blog.csdn.net/weixin_43330884/article/details/103844553)
+ > Oracle数据库建表并设置主键自增
 # PM 
- ## [产品设计方案撰写指南（一）：结构设计](http://www.woshipm.com/pd/3281377.html)
- > 作者打算用一系列文章来有重点的介绍产品设计方案的几大板块，不只是和大家探讨应该套用怎样的模板，更重要的是帮助大家理解产品设计时应该注意的要点。需要时刻记住，...
- ## [数据跨境流通的因果与新机](http://www.woshipm.com/data-analysis/3290521.html)
- > 数据跨境流通，在未来或是趋势所在，它带来的暗流，会比我们想象中更加汹涌。在2019年中，让所有旅行爱好者感到“震撼全家”的一桩新闻，相信就是美国签证的“社交媒体审...
- ## [产品经理的2019年终总结：职业发展与学习规划](http://www.woshipm.com/pmd/3283366.html)
- > 2019年过去了，你有哪些得失？总结过去，展望未来，本文作者非常详细地回顾了自己过去一年的职业变化和学习情况：在错误中学习，在反思中进步。推荐产品经理阅读。201...
- ## [以「哔哩哔哩」为例，教你三步建立需求池](http://www.woshipm.com/pd/2714670.html)
- > 本文以「哔哩哔哩」为例，讲解了如何进行需求挖掘、需求优先级排序、需求池建立等内容。前言需求池，顾名思义就是把很多需求放在一起的东西，在规划版本时，从池子里...
- ## [用户画像，岂止是一块敲门砖](http://www.woshipm.com/user-research/3293039.html)
- > 用户画像的作用在今天有了更广泛的应用，有效帮助识别用户，做出正确决策。假如无像可画，第三方服务商就会是一个很好的选择。个推基于用户场景，建立了可参考的标准标...
- ## [电商产品经理：如何构建自己的核心能力？](http://www.woshipm.com/pmd/3290575.html)
- > 产品经理的时代远没有落幕，有的只是被时代赋予的更大价值，以及随之而来的误解或重生。随着移动互联网的发展，加上产品经理能力体系的非标准化，我们已经从一个“人人...
- ## [作为产品经理，如何深度挖掘用户需求？](http://www.woshipm.com/pmd/3292703.html)
- > 作为产品经理，领导总让我们挖掘用户需求，咋个挖掘法？ 特别是手头还没什么数据，最多只有一个用户购货记录，感觉挖不出东西。本文对此系统解答一下。做用户需求挖掘上...
- ## [多抓鱼的购物车锁定功能，用户真的需要吗？](http://www.woshipm.com/pd/3288820.html)
- > 多抓鱼上线的购物车锁定功能，经过提案的形式最终上线。对于这个功能的出现，用户态度不一，这是真正的用户需求吗？所谓提案，真的能代表用户态度吗？最近笔者在使用...
- ## [漫画社交：看漫画也能发弹幕了？](http://www.woshipm.com/evaluating/3288198.html)
- > 本文分为三个部分对漫画弹幕进行了优缺点分析，并进一步给出了优化建议。本文目录：0. 前言1. 弹幕是否适合漫画社交1.1 视频弹幕的特点1.2 漫画弹幕的表现1.3 漫...
- ## [2020年，关于产品经理的一点思考](http://www.woshipm.com/pmd/3290699.html)
- > 本文主要是想自我剖析2020年从产品经理的角度上，应该“做什么”和“怎么做”。John检验自己是否成长的两个关键指标：年前定的目标是否达到？2019年初定了10条指标，完...
- ## [微信网页版，为什么要二维码登录？](http://www.woshipm.com/evaluating/3290020.html)
- > 本文将眼光聚焦到微信网页版&amp;PC端的二维码登录现象，分析了笔者对设置二维码登录原因的可能性分析。最近在临摹一个微信网页版的产品，开始绘制登录页面时，就陷入...
- ## [需求评审会后，产品经理的工作有哪些？](http://www.woshipm.com/pmd/3292429.html)
- > 开需求评审会后，需求评审达成一致，进入研发阶段。没有需求设计的产品应该充当什么角色、干些什么呢？目录：一、需求评审后所处阶段首先一个小产品功能落地到使...
+ ## [蚂蚁金服护城河——阿里巴巴新零售下的供应链金融](http://www.woshipm.com/it/3290594.html)
+ > 本文结合蚂蚁金服，总结分析了什么是新零售、新金融、以及蚂蚁金服的三板斧与护城河。一、前言“未来的十年、二十年，没有电子商务这一说，只有新零售……纯电商的时代...
+ ## [车载应用产业格局分析——行业中，谁是你的伙伴？](http://www.woshipm.com/it/3277047.html)
+ > 当预付费变成后付费、当 ToB 业务变成 ToC 业务、当个位数的转化率可能放大数十倍的杠杆，车载应用付费下载是否能得到产业上下游的支持，谁将是其中最强议价者，谁又将...
+ ## [交互设计：如何做到品质？](http://www.woshipm.com/ucd/3291098.html)
+ > 上一篇，探讨了交互设计如何做到周到，这一篇探讨下如何做到品质，即交互设计的高品质。一家之言，未必全面，甚至未必正确。欢迎交流探讨。01 怎样算是品质？首先，...
+ ## [资深从业者的思考笔记：关于产品&运营的关系](http://www.woshipm.com/pmd/3293779.html)
+ > 对于很多刚工作的运营or产品的萌新们，其实心里一直会有一个问题，产品到底是怎么去工作的？运营又是怎么工作的？运营思维和产品思维分别是什么？在这里将会为大家分享...
+ ## [一份合格的产品方案，需要注意这10个方面](http://www.woshipm.com/pmd/3289833.html)
+ > 这篇则系统说明了编写需求文档过程中的思考维度与注意事项，是『方案设计/需求文档』总结的第四篇，也是完结篇，相信读透这四篇文章，一个小白也能写出80分以上的需求文...
+ ## [重新理解创业：一名创业者的中途复盘（2018~2019)](http://www.woshipm.com/chuangye/3293737.html)
+ > 最近，我看了周航的《重新理解创业：一个创业者的途中思考》深有感触。人们都爱讲、也爱听成功的故事。但在创业途中不可能一帆风顺，而那些失败后的反思才是弥足珍贵的...
+ ## [提高工作效能的7个方法，与你分享](http://www.woshipm.com/zhichang/1713484.html)
+ > 在平时的工作中，总有一些人能高质量高效率完成任务，他们是怎么做到的呢？文章总结了7个提高效能的方法，与大家分享。01你有没有偶尔感觉到工作量太多，事情总是做...
+ ## [产品秘籍（一）：登门槛心法，让用户接受你的无理取闹](http://www.woshipm.com/pd/3293584.html)
+ > 登门槛，步步心机，让用户在不知不觉中步入产品的“陷阱”，最终达成产品的预期运营效果。1966年，美国社会心理学家弗里德曼曾经做过一个实验：他让助手们随机邀请一些...
+ ## [教育机构布局短视频，解决获客成本高问题](http://www.woshipm.com/operate/3290445.html)
+ > 本文为我们分析了教育机构面临的获客痛点，以及如何使用短视频帮助教育机构更好地获客，并借助案例分析帮你更好地理解。如今在短视频平台刷到教育机构自制的内容已经...
+ ## [优秀的产品经理每天都在做什么？](http://www.woshipm.com/zhichang/3290141.html)
+ > 产品经理的日常工作比较杂，大到市场调研，产品需求策划，小到需求跟进，写文案写PPT发推送等等。如果不能科学的管理自己的工作时间，既拉低了工作效率，同时也浪费了成...
+ ## [「对方正在输入…」的提示，给聊天带来什么影响？](http://www.woshipm.com/pd/3293966.html)
+ > 看着微信对话界面的「对方正在输入…」，你是否急于知道对方的输入内容？大部分时候，虽然只有十几秒，但是却感觉过了数分钟。这个功能，究竟有没有起到即时反馈的作用呢...
+ ## [美团外卖快餐业务分析](http://www.woshipm.com/evaluating/3288176.html)
+ > 文章对美团外卖的快餐业务进行了系统的分析，希望通过此文能够加深你对外卖行业的认识，了解美团外卖行业、及外卖需求、产品设计、运营策略。美国这个国家商业周期非...
+ ## [学交互设计，这份超全学习清单给你准备好了](http://www.chanpin100.com/article/110506)
+ > 交互设计超全学习清单：3本书，2个播客，6门视频课程，8个优秀网站
+ ## [人人网：你们的批评我听了，只是晚了10年](http://www.chanpin100.com/article/110505)
+ > “我回来了，我变了”“是啊，那又怎样”
+ ## [没有活动策划时产品如何设计活动逻辑](http://www.chanpin100.com/article/110499)
+ > 这篇文章写出来不是说产品怎么策划活动，关于策划活动，怎么策划活动这个话题有大量的文章可以供大家参考，我要说的是，当所在的公司没有活动运营的时候，运营头脑风暴，奇思妙想的策划出来活动后，给到产品经理，我们怎么能充分的策划好活动，并补充各种逻辑，达到运营对活动的预期，最终实现共赢的局面。
+ ## [满足个性化理财需求，金融产品智能营销需要考虑哪些要素？](http://www.chanpin100.com/article/110497)
+ > 详解个性化理财服务中的关键要素
+ ## [朝阳行业的鉴别方法](http://www.chanpin100.com/article/110493)
+ > 如何发现朝阳行业？
+ ## [产品设计：对可用性测试的8种误解，你中枪了吗？](http://www.chanpin100.com/article/110492)
+ > 8种对可用性测试的误解，你占了几个？
+ ## [2020“时间的朋友”跨年演讲缩减版](http://www.chanpin100.com/article/110491)
+ > 你的规模，你的沉淀，就是你的基本盘。
+ ## [再见2019，您好2020](http://www.chanpin100.com/article/110490)
+ > 今天是2019年的最后一天，对2020做期许。这遍文章是对自己的2019年的回顾过去以及对2020年的期许。
+ ## [2019年中国手游市场广告买量与变现报告（变现篇）](http://www.chanpin100.com/article/110478)
+ > 中国移动游戏市场的广告变现潜力高，不同广告形式有哪些特点？
 
     
