@@ -1,14 +1,40 @@
 ---
 title: 2020-01-07 IT News
 copyright: true
-date: 2020-01-07 09:00:56
+date: 2020-01-07 10:01:43
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2020年1月7日 星期二</b></summary><div class="news-list-content"><p>1. &#38463;&#37324;&#19978;&#32447;&#23432;&#25252;&#29983;&#21629;&#39033;&#30446;&#65292;&#21033;&#29992;&#20154;&#24037;&#26234;&#33021;&#25216;&#26415;&#24182;&#32852;&#21160;&#21830;&#23478;&#12289;&#20844;&#23433;&#12289;&#31532;&#19977;&#26041;&#26426;&#26500;&#24314;&#31435;&#33258;&#26432;&#24178;&#39044;&#26426;&#21046;</p>
+<p>2.&#20840;&#22269;&#39318;&#22330;&#21306;&#22359;&#38142;&#25216;&#26415;&#33021;&#21147;&#27979;&#35797;&#65288;&#21021;&#32423;&#65289;&#25512;&#20986;&#65292;&#39041;&#21457;&#20013;&#22269;&#30005;&#23376;&#23398;&#20250;&#19987;&#19994;&#25216;&#26415;&#33021;&#21147;&#35777;&#20070;</p>
+<p>3.&#20154;&#27665;&#32593;&#20154;&#27665;&#26234;&#20113;&#23458;&#25143;&#31471;&#19978;&#32447;&#12298;&#26368;&#32654;&#35838;&#26412;&#12299;&#65292;&#20026;&#20013;&#22269;&#32654;&#32946;&#25945;&#32946;&#21457;&#23637;&#21161;&#21147;</p>
+<p>4.&#20140;&#19996;&#25512;&#8220;&#20080;1&#24471;18&#8221;&#36229;&#32423;&#32852;&#21517;&#21345;&#65306;&#28085;&#30422;&#33150;&#35759;&#35270;&#39057;&#12289;&#25658;&#31243;&#31561;&#20250;&#21592;&#26435;&#30410;</p>
+<p>5.&#33756;&#40479;&#20840;&#29699;&#36816;&#26032;&#31361;&#30772;&#65306;&#32852;&#21512;&#28023;&#20851;&#29575;&#20808;&#25171;&#36890;&#36328;&#22659;&#30005;&#21830;&#20986;&#21475;&#36864;&#36135;&#36890;&#36947;</p>
+<p>6.B&#31449;&#25512;&#20986;&#8220;&#26102;&#23578;&#26143;&#35745;&#21010;&#8221;&#65292;&#25307;&#21215;&#26102;&#23578;&#21338;&#20027;&#20837;&#39547;&#65292;&#25311;50&#20159;&#27969;&#37327;&#36896;&#8220;&#26102;&#23578;&#29233;&#35910;&#8221;</p>
+<p>7.&#30334;&#24230;&#36229;&#32423;&#38142;&#23459;&#24067;&#19978;&#32447;&#8220;&#36229;&#32423;&#38142;&#24320;&#25918;&#32593;&#32476;&#8221;&#65292;&#24050;&#24341;&#20837;7&#23478;&#36229;&#32423;&#33410;&#28857;</p>
+<p>8.&#20140;&#19996;PLUS&#20250;&#21592;&#20844;&#24067;&#8220;JDP&#35745;&#21010;&#8221;&#65306;&#32852;&#21512;&#24179;&#21488;&#12289;&#21697;&#29260;&#21450;&#32447;&#19979;&#21830;&#23478;&#31561;&#20849;&#21516;&#25171;&#36896;&#20184;&#36153;&#20250;&#21592;&#29983;&#24577;&#65292;2020&#24180;&#23558;&#25237;&#20837;100&#20159;</p>
+<p>9.&#28526;&#29260;&#31038;&#20132;&#38646;&#39135;&#21697;&#29260;&#25552;&#20379;&#21830;&#12300;&#21333;&#36523;&#31918;&#12301;&#23436;&#25104;A+&#36718;4000&#19975;&#34701;&#36164;</p>
+<p>10.&#20013;&#23567;&#23398;&#22312;&#32447;&#30452;&#25773;&#32593;&#26657;&#12300;&#22823;&#31859;&#32593;&#26657;&#12301;&#33719;&#24471;8000&#19975;&#32654;&#20803;A&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [三星折叠OLED面板将对外出售丨大众推出移动充电概念机器人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578358806&ver=2081&signature=inQZPlJbRtsayiqU27U5OJXn5NnmxZtzfzf0XI0N9hDLaZNGk4sFlhXj5i94rsuG3E-R*DfB4ChfM-vHmz5-ku-sieRY5eHNPp9LuHDjMRel8NDuCAw80NevENRlvdrc&new=1)
+ ## [德媒警告：德国5G若排除华为将带来沉重后果](http://mp.weixin.qq.com/s?src=11&timestamp=1578360605&ver=2081&signature=a4aV0FFyb40gB*N1o0PueZVGKI*lVmiz0ltqyx-rsyunaD15YUa1du1sMqrGXpHHy*nu9yZSlFx8WL62wGjEeT3ly*8gzKASzd-k*1Nn8Is=&new=1)
+ > 参考消息网1月7日报道 德媒称，是否要将中国电信巨头华为排除出德国5G建设，仍然牵扯着德国的神经。德国《世界报》1月4日的报道说，如果从一开始就排除华为，这将带来严重后果。包括会经常断网，客户需支付高额...
+ ## [重磅!移动与广电合建一张5G网络已基本确定!](http://mp.weixin.qq.com/s?src=11&timestamp=1578360605&ver=2081&signature=8wKCIfGyk3fBlFh8h2egZOMdAEmYju*dY*mapyoac9kKwNFvi10upb6JVHwbdpHPmnxiBIqQBgpZNg0tQD6DxaGtLyjQtRwZgAU149bJz2qlUp2FWklnqeb5Df0lG4J5&new=1)
+ > 移动与广电合建一张5G网络的主要原因是为了节省预谱资源，6G时代四家合建一张6G网络！移动与广电两家频谱基本一样，两家频率靠的很近，5G滤波器新技术支持移动广电合建一张5G网，主要从节省频谱资源考虑。5G频谱...
+ ## [高铁站行李搬运机器人：乘客你大胆地往前走](http://mp.weixin.qq.com/s?src=11&timestamp=1578360605&ver=2081&signature=N9bUUSucK5tr1F-cVKyCOUSAAKH0rcCBGazqa1fWe41SbqVnJ0HjqzMxfRsLFCMg36awWYQDxNbvmUY2Fbrxn-5USemqL44VN7iV*y5wxDF0WD2PwdUz8bFG38cDPRjJ&new=1)
+ > 2019年12月30日，中国首条智能化高速铁路“京张高铁”正式开通。中国科学院自动化所与铁科院电子所联合研发的高铁站行李搬运机器人在清河站投入试用，这是铁总首款投放使用的高铁站行李搬运机器人。图：高铁行李...
+ ## [三星折叠OLED面板将对外出售丨大众推出移动充电概念机器人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578360605&ver=2081&signature=inQZPlJbRtsayiqU27U5OJXn5NnmxZtzfzf0XI0N9hAJIbIbObYZbE2kU0LhhGfA9yAj6309iJ-gYxAOx1sE3klv*2y3oLkJJuu1-ivckUDSiTN5MNNAN6zTj9HX9nxs&new=1)
  > 1月06日丨周一【Do说】编辑 | 赵艾虎三星折叠OLED面板将对外出售 华为是首家客户据外媒报道，继三星电子之后，华为将成为三星显示器折叠式手机面板的第二个客户。这也意味着，三星显示器将改变内部直供模式，正...
 # IT 技术 
+ ## [我的天，你们公司的“微服务”简直就是反人类…](http://developer.51cto.com/art/202001/608964.htm)
+ > 我的天，你们公司的“微服务”简直就是反人类…
+ ## [VirtualBox、VMWare与Hyper-V大比拼](http://virtual.51cto.com/art/202001/608841.htm)
+ > VirtualBox、VMWare与Hyper-V大比拼
  ## [Apache中将HTTP重定向至HTTPS](http://server.51cto.com/sOS-608930.htm)
  > Apache中将HTTP重定向至HTTPS
  ## [一次迁移引发的“血案”，最终赔偿29亿！](http://news.51cto.com/art/202001/608887.htm)
@@ -21,22 +47,26 @@ categories: IT NEWS
  > 阿里是如何抗住双11的？看完这篇你就明白了!
  ## [AI无处不在？零售业中，10个激动人心的AI实际应用](http://ai.51cto.com/art/202001/608893.htm)
  > AI无处不在？零售业中，10个激动人心的AI实际应用
- ## [2020年不可不知的十大大数据技术](http://bigdata.51cto.com/art/202001/608803.htm)
- > 2020年不可不知的十大大数据技术
- ## [英特尔首次披露薪资详情，年薪最高145万，60万是转折点](http://news.51cto.com/art/202001/608884.htm)
- > 英特尔首次披露薪资详情，年薪最高145万，60万是转折点
- ## [聊一聊优秀的代码都是如何分层的？](http://developer.51cto.com/art/202001/608954.htm)
- > 看起来简单，很多人其实并没有把他们职责划分开，在很多代码中,controller做的逻辑比service还多,service往
- ## [Python每日一练之如何计算你的应发奖金？](http://developer.51cto.com/art/202001/608952.htm)
- > 今天主要分享一个python实例，大家有兴趣也可以做一下。下面，我们一起来看。
- ## [排名前20位的创新物联网软件](http://iot.51cto.com/art/202001/608951.htm)
- > 下面，我们将介绍您现在可以在项目中使用的20种优秀物联网软件。我们的选择是基于新兴的物联网趋势，并且为
- ## [钓鱼邮件中招？你不是唯一的受害者](http://zhuanlan.51cto.com/art/202001/608950.htm)
- > 领导指示大家，最近要”提高警惕，谨言慎点“，提高保密意识，切勿泄漏商业机密，邮件中的链接，点击之前需
- ## [2020年改变世界的十大技术趋势](http://news.51cto.com/art/202001/608949.htm)
- > 2019，毫无疑问是过去十年最差的一年，但一个好消息是，2020年可能是未来十年最差的一年。人们面临最糟糕的
- ## [盘点：2019年十大网络安全新闻](http://netsecurity.51cto.com/art/202001/608948.htm)
- > 2019年网络安全行业经历了几次大规模的数据泄露事件，有多位新任CEO掌舵，若干激进的并购活动，增长快速的
+ ## [数据库分库分表后，带来的这个难题，如何解决？](http://database.51cto.com/art/202001/608963.htm)
+ > 在此之前我们介绍了数据库的分库分表问题，分库分表可以给我们带来非常好的扩展性与性能上的提升，但也随之
+ ## [“量子霸权”难实现：很难造出真正有用的量子计算机](http://news.51cto.com/art/202001/608962.htm)
+ > 据国外媒体报道，谷歌曾在 2019 年秋天宣布，其量子计算机的计算速度远远超过了目前最顶尖的超级计算机，可
+ ## [TIOBE 1 月榜单：C 获得“2019 年度编程语言”称号](http://news.51cto.com/art/202001/608960.htm)
+ > TIOBE 公布了 2020 年最新一期的编程语言排行榜。上个月我们预测 Java, C, Python 和 C 将有机会获得“年
+ ## [一讲了解Serverless，以腾讯地图、微信小程序为例](http://server.51cto.com/sOS-608961.htm)
+ > Serverless从去年开始尤其是最近特别火，因为确实能够解决我们的一些业务问题。我会借助腾讯云Serverless产
+ ## [女子车祸后开始“改造”自己：左手芯片开门、右手可刷 NFC，这些“生物黑客”有多疯狂？](http://news.51cto.com/art/202001/608966.htm)
+ > 近日，据DailyMail报道，一位女工程师将家门钥匙和LED灯植入到自己的皮肤内，她想要通过植入来改善自己的身
+ ## [基于Kubernetes的服务网格介绍](http://server.51cto.com/Micro-608959.htm)
+ > Kubernetes已经解决了容器编排的问题，对于云原生生态圈来说，剩下的问题是如何使微服务的交付更有效和更有
+ ## [Linus Torvalds 礼貌的批评一位开发者的博文](http://news.51cto.com/art/202001/608965.htm)
+ > 2018 年，Linux 作者 Linus Torvalds 在因语言礼貌问题备受非议之后宣布反省一段时间，接受礼貌训练的 Torv
+ ## [Linux useradd 命令介绍](http://os.51cto.com/art/202001/608958.htm)
+ > 任何计算机系统中，添加用户都是最重要的事之一；本文着重介绍如何在 Linux 系统中添加用户。
+ ## [Windows 10 即将「被订阅」：关于订阅制的痛并快乐](http://os.51cto.com/art/202001/608957.htm)
+ > 在 Ignite 2019 大会上，推出的 Azure Arc 能够让企业在任何基础设施平台上部署 Azure 云服务。再比如全面
+ ## [得数据者得天下：这三个故事，揭示“数”的威力](http://bigdata.51cto.com/art/202001/608956.htm)
+ > 在未来的大数据时代，获取财富，寻找爱情，改善社会治理都将被大数据重新赋能。目标“黄金屋”、“颜如玉”
  ## [清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐](https://blog.csdn.net/cxyshenghuozhi/article/details/103857992)
  > 清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐
  ## [给迷茫的计算机系大学生的一封信 JAVA](https://blog.csdn.net/qq_37561309/article/details/103774203)
@@ -47,64 +77,88 @@ categories: IT NEWS
  > 大学四年，我把私藏「B站」 20 个学习 UP 主贡献出来！
  ## [机器学习（01）——机器学习简介](https://blog.csdn.net/songfei_dream/article/details/103834812)
  > 机器学习（01）——机器学习简介
- ## [阿里巴巴向全社会开放黑科技：“泡在水里”的服务器](https://blog.csdn.net/alitech2017/article/details/103859969)
- > 阿里巴巴向全社会开放黑科技：“泡在水里”的服务器
- ## [【python】Python学到什么程度可以面试工作（解答一）](https://blog.csdn.net/qq_38410730/article/details/103734035)
- > 
  ## [写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』](https://blog.csdn.net/m0_37907797/article/details/102885087)
  > 写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』
- ## [C、C++ 不得宠，微软正开发新的编程语言！](https://blog.csdn.net/csdnnews/article/details/103471738)
+ ## [【python】Python学到什么程度可以面试工作（解答一）](https://blog.csdn.net/qq_38410730/article/details/103734035)
  > 
+ ## [一次看完2019技术好文，快收藏！](https://blog.csdn.net/alitech2017/article/details/103802899)
+ > 一次看完2019技术好文，快收藏！
  ## [Python基础语法全体系 | 文件IO与常用文件操作模块](https://blog.csdn.net/ZYZMZM_/article/details/103736356)
  > 
  ## [《大厂面试》面试官看了直呼想要的简历](https://blog.csdn.net/qq_35190492/article/details/103761746)
- > 
- ## [大数据面试题(九)----Spark面试题](https://blog.csdn.net/silentwolfyh/article/details/103865243)
- > 大数据面试题(九)----Spark面试题
- ## [2020 年软件开发趋势预测，Java 将占主导，Python 将要吞噬世界。](https://blog.csdn.net/alitech2017/article/details/103858311)
  > 
  ## [Python 访问 MySQL 的正确姿势](https://blog.csdn.net/xufive/article/details/103856837)
  > 
  ## [linux内核的一些知识点（下）](https://blog.csdn.net/wangyangzhizhou/article/details/103850465)
  > 
+ ## [面试官刁难：Java字符串可以引用传递吗？](https://blog.csdn.net/qing_gee/article/details/103814019)
+ > 
+ ## [达摩院2020十大科技趋势发布：多个技术领域将现颠覆性突破](https://blog.csdn.net/weixin_44326589/article/details/103850582)
+ > 
+ ## [SpringBoot系列之profiles配置多环境用法介绍](https://blog.csdn.net/u014427391/article/details/102931424)
+ > 
+ ## [达摩院 2020 预测：感知智能的“天花板”和认知智能的“野望”](https://blog.csdn.net/csdnnews/article/details/103867270)
+ > 作者 |Just出品 |AI科技大本营（ID:rgznai100）“感知智能与认知智能是相辅相成的关系。认知智能需要感知系统来进行信号处理和概念识别，而感知系统也需要认知系统的反馈来决定如何进行更有效的提取和识别。”1月2日，阿里巴巴达摩院发布2020十大科技趋势（https://da...
+ ## [微软斥资 260 亿美元收购了 LinkedIn 后却无所作为？](https://blog.csdn.net/csdnnews/article/details/103867272)
+ > 过去，微软的许多收购都出现过失误。那么现在呢？作者 | Jordan Novet译者 |弯月，责编 | Elle出品 | CSDN（ID：CSDNnews）以下为译文：2016年6月13日，微软宣布斥资262亿美元收购 LinkedIn，并在当天的演示文档中向投资者介绍了 ...
  ## [“不会Linux，怎么当程序员？”骨灰级程序员：干啥都不行。](https://blog.csdn.net/csdnnews/article/details/103867269)
  > 说起优秀程序员的必备技能，我想大家都可以说很多，比如：数据结构、算法、数学、编程语言等等。但是，你可能会忽略了每一个程序员都应该掌握的技能：Linux。想一想，我们日常学习、求职、工作场...
  ## [跟风 Google 只是东施效颦？！](https://blog.csdn.net/csdnnews/article/details/103867271)
- > “试图通过复制和粘贴来模仿另一个生态系统，充其量不过是将公司当前的问题演变成其他问题，甚至会导致问题越来越多......”作者 |Bruce Taylor译者 |弯月，责编 | 郭芮...
+ > “试图通过复制和粘贴来模仿另一个生态系统，充其量不过是将公司当前的问题演变成其他问题，甚至会导致问题越来越多......”作者 |Bruce Taylor译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：最近在伦敦的一次技术聚会上，我听到有...
  ## [“一百万行 Python 代码对任何人都足够了”！](https://blog.csdn.net/csdnnews/article/details/103855914)
  > 作者 | Jake Edge译者 | Kolen出品 | AI科技大本营（ID: rgznai100）编程语言通常对其操作过程的各个方面都有或明或暗的限制。诸如标识符的最大长度或变量可以...
+ ## [程序员要为降薪做好准备！](https://blog.csdn.net/csdnnews/article/details/103855920)
+ > 也许很多人都意识到了程序员的高工资很有可能是暂时的......因此有必要对未来的工作做出明确的计划，以防失业后无法找到可与先前匹敌的高薪工作。作者 |Jeff Kaufman译者 |王艳妮，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：如果考虑到工作...
 # 人工智能 
  ## [清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐](https://blog.csdn.net/cxyshenghuozhi/article/details/103857992)
  > 清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐
- ## [访问一个网站会经历哪些流程](https://blog.csdn.net/javajiawei/article/details/80991929)
- > 访问一个网站会经历哪些流程
- ## [HCIE之路---1.4学习华为防火墙](https://blog.csdn.net/qq_45519920/article/details/103837631)
- > HCIE之路---1.4学习华为防火墙
- ## [中小型商城系统的每日运维总结](https://blog.csdn.net/wf824284257/article/details/103831854)
- > 中小型商城系统的每日运维总结
- ## [K8S原理剖析：安全原理剖析和实践](https://blog.csdn.net/fly910905/article/details/103836967)
+ ## [python爬虫考试复习提纲](https://blog.csdn.net/Newbie___/article/details/103832050)
+ > python爬虫考试复习提纲
+ ## [我终于懂得如何使用matplotlib进行画图](https://blog.csdn.net/youku1327/article/details/103833954)
  > 
- ## [辽宁省计算机二级-如何绕过证书进行填报](https://blog.csdn.net/weixin_40539952/article/details/103840851)
- > 辽宁省计算机二级-如何绕过证书进行填报
- ## [web安全之xss漏洞01_基础入门](https://blog.csdn.net/qq_41086511/article/details/103828672)
- > web安全之xss漏洞01_基础入门
- ## [基于 Ubuntu 搭建 WordPress 个人博客](https://blog.csdn.net/countyo/article/details/103839851)
- > 基于 Ubuntu 搭建 WordPress 个人博客
- ## [DDOS攻击为什么瞄准了APP？](https://blog.csdn.net/qq_780662763/article/details/103834907)
- > DDOS攻击为什么瞄准了APP？
- ## [String stringBuffer StringBuilder 的区别](https://blog.csdn.net/qq_42685333/article/details/103836328)
- > String stringBuffer StringBuilder 的区别
- ## [常用FTP命令](https://blog.csdn.net/ls70868670/article/details/103837971)
- > 常用FTP命令
- ## [加密、签名、证书的区别和使用](https://blog.csdn.net/a57565182/article/details/103846552)
- > 加密、签名、证书的区别和使用
- ## [华佗村女开发员的加密模块,非常实用免费分享](https://blog.csdn.net/john_dwh/article/details/103844031)
- > 华佗村女开发员的加密模块,非常实用免费分享
- ## [一个简单的项目Java后端框架（springboot+maven包括shiro，验证码的生成与使用，异常处理，跨域处理）](https://blog.csdn.net/xainyuyjz/article/details/103843568)
- > 一个简单的项目Java后端框架（springboot+maven包括shiro，验证码的生成与使用，异常处理，跨域处理）
- ## [为什么我用QQ进我的网页和我用浏览器进我的网页，两者显示的结果不一样](https://blog.csdn.net/qq_44224698/article/details/103839183)
- > 为什么我用QQ进我的网页和我用浏览器进我的网页，两者显示的结果不一样
+ ## [微信好友特征数据分析及可视化](https://blog.csdn.net/qq_40507857/article/details/103835711)
+ > 微信好友特征数据分析及可视化
+ ## [爬虫福利二 之 妹子图网MM批量下载](https://blog.csdn.net/PY0312/article/details/101087356)
+ > 爬虫福利二 之 妹子图网MM批量下载
+ ## [python与mysql数据库交互](https://blog.csdn.net/weixin_41261833/article/details/103832017)
+ > python与mysql数据库交互
+ ## [基于python+selenium的二次封装](https://blog.csdn.net/weixin_44954642/article/details/103841345)
+ > 基于python+selenium的二次封装
+ ## [python版飞机大战](https://blog.csdn.net/weixin_45651291/article/details/103832498)
+ > python版飞机大战
+ ## [6行Python代码实现进度条效果（Progress、tqdm、alive-progress​​​​​​​和PySimpleGUI库）](https://blog.csdn.net/m0_38106923/article/details/103814795)
+ > 
+ ## [Python 基础（十五）：枚举](https://blog.csdn.net/ityard/article/details/103829565)
+ > Python 基础（十五）：枚举
+ ## [python那些事.No1](https://blog.csdn.net/weixin_39815001/article/details/103779788)
+ > python那些事.No1
+ ## [全网目前最全python例子（附源码）](https://blog.csdn.net/chenjianandiyi/article/details/103766263)
+ > 全网目前最全python例子（附源码）
+ ## [python操作键盘实现截图，在调用百度API识别文字后自动存入Excel表实例分析](https://blog.csdn.net/yw8886484/article/details/103832315)
+ > python操作键盘实现截图，在调用百度API识别文字后自动存入Excel表实例分析
+ ## [全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!](https://blog.csdn.net/weixin_44318830/article/details/103739987)
+ > 全网最全Python学习路线图+14张思维导图,让python初学者不走弯路!
+ ## [Python3 全自动更新已安装的模块](https://blog.csdn.net/COCO56/article/details/103830128)
+ > Python3 全自动更新已安装的模块
 # PM 
+ ## [近年商业模式解析：上半场靠投机，下半场靠努力](http://www.woshipm.com/chuangye/3295450.html)
+ > 本文分为三个部分进行了分析——上半场有哪些传奇的商业模式？为什么这些模式不能带来产品的长久？下半场可行的路径是什么？《双城记》有一句话是这么说的：“这是最好的...
+ ## [新解roi：投入产出比](http://www.woshipm.com/operate/3295442.html)
+ > 为什么很多企业资金链断掉后，就倒闭了，原因是创始人初期对创业的roi评估不充分。本文作者从两个角度来重新解析roi，enjoy~Roi指的是投资回报率，我们做运营的应该都...
+ ## [干货 | 如何构建UI组件设计规范](http://www.woshipm.com/pd/3293943.html)
+ > 通过本文，你将学习到 Uber、Pinterest、Shopify 和Airbnb 等知名网站如何利用组件构建统一的UI / UX 设计规范。Airbnb通过react-sketchapp将设计与开发之间的组件协...
+ ## [2019年终总结：从0-1的2B产品搭建复盘](http://www.woshipm.com/pd/3295187.html)
+ > 本文笔者简述了一款“2B”ERP生产制造产品的搭建思路，以此作为2019年的总结，也希望给读者带来一些启发。B端产品所处环境复杂，往往一开始接触的时候就如同走进了森林...
+ ## [产品分析 | 哔哩哔哩，年轻人的文化社区](http://www.woshipm.com/evaluating/3293063.html)
+ > bilibili的成功是人们文化观念的改变，年轻用户的推崇，产品本身的特色等因素促成的。成功绝非偶然。所以本文对bilbili的现状进行了分析并对功能进行了优化，如有不对，...
+ ## [李子柒“文化输出”舆论之争](http://www.woshipm.com/it/3292906.html)
+ > 网红千万种，李子柒成了引起“文化输出”舆论的那一个。虽然看客态度不一，但是，“李子柒”已然成为一名合格的中国文化推广者。李子柒，一个在Youtube上获得世界各地网友...
+ ## [产品设计方案大观园（二）：硬件设计篇](http://www.woshipm.com/pd/3281379.html)
+ > 上一篇《产品设计方案撰写指南（一）：结构设计》中我们说到，只有理解背后的道理，借助框架模板，通过反复的训练才可以提高产品设计方案的撰写水平，并且和大家探讨了...
+ ## [做好社群运营，你需要打造好“人设”](http://www.woshipm.com/operate/3295172.html)
+ > 在社群运营中，打造好人设，可以明确在用户中的地位，将产品拟人化，让用户知道你是谁。优质的人设能够提升用户好感度，提高用户体验效果。一、为什么要打造人设社群...
+ ## [战略执行需要避免的5大误区](http://www.woshipm.com/zhichang/3290589.html)
+ > 企业制定了战略，但是到执行的时候却困难重重，这是为什么呢？本文分析了战略执行中企业需要避免走入的5个误区，供大家参考学习。01自从20世纪80年代，迈克尔·波特的...
  ## [设计经验｜网页设计中最常用的5种配图](http://www.chanpin100.com/article/110516)
  > 网页设计如何配图？
  ## [云集产品体验报告](http://www.chanpin100.com/article/110512)
