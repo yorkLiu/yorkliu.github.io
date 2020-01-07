@@ -1,14 +1,16 @@
 ---
 title: 2020-01-07 IT News
 copyright: true
-date: 2020-01-07 08:00:47
+date: 2020-01-07 09:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [三星折叠OLED面板将对外出售丨大众推出移动充电概念机器人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578355206&ver=2081&signature=inQZPlJbRtsayiqU27U5OJXn5NnmxZtzfzf0XI0N9hDLaZNGk4sFlhXj5i94rsuG2ssGQsq3g7RQtThqGke1*gOztWemkfStLYuGLMZQvpT*mut66eN93V8qju1sETN0&new=1)
+ ## [三星折叠OLED面板将对外出售丨大众推出移动充电概念机器人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578358806&ver=2081&signature=inQZPlJbRtsayiqU27U5OJXn5NnmxZtzfzf0XI0N9hDLaZNGk4sFlhXj5i94rsuG3E-R*DfB4ChfM-vHmz5-ku-sieRY5eHNPp9LuHDjMRel8NDuCAw80NevENRlvdrc&new=1)
  > 1月06日丨周一【Do说】编辑 | 赵艾虎三星折叠OLED面板将对外出售 华为是首家客户据外媒报道，继三星电子之后，华为将成为三星显示器折叠式手机面板的第二个客户。这也意味着，三星显示器将改变内部直供模式，正...
 # IT 技术 
+ ## [Apache中将HTTP重定向至HTTPS](http://server.51cto.com/sOS-608930.htm)
+ > Apache中将HTTP重定向至HTTPS
  ## [一次迁移引发的“血案”，最终赔偿29亿！](http://news.51cto.com/art/202001/608887.htm)
  > 一次迁移引发的“血案”，最终赔偿29亿！
  ## [毕业10年才懂，解决问题的能力原来这么重要](http://news.51cto.com/art/202001/608882.htm)
@@ -23,31 +25,47 @@ categories: IT NEWS
  > 2020年不可不知的十大大数据技术
  ## [英特尔首次披露薪资详情，年薪最高145万，60万是转折点](http://news.51cto.com/art/202001/608884.htm)
  > 英特尔首次披露薪资详情，年薪最高145万，60万是转折点
- ## [2020年企业网络安全7个危险迹象](http://netsecurity.51cto.com/art/202001/608859.htm)
- > 2020年企业网络安全7个危险迹象
- ## [【CMake】CMake的configure_file指令](https://blog.csdn.net/qq_38410730/article/details/103741579)
- > 【CMake】CMake的configure_file指令
- ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
- > 华为EMUI10带来开发者福音：一次开发多端部署
- ## [大数据面试题(二)----HDFS面试题](https://blog.csdn.net/silentwolfyh/article/details/103863381)
- > 大数据面试题(二)----HDFS面试题
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [聊一聊优秀的代码都是如何分层的？](http://developer.51cto.com/art/202001/608954.htm)
+ > 看起来简单，很多人其实并没有把他们职责划分开，在很多代码中,controller做的逻辑比service还多,service往
+ ## [Python每日一练之如何计算你的应发奖金？](http://developer.51cto.com/art/202001/608952.htm)
+ > 今天主要分享一个python实例，大家有兴趣也可以做一下。下面，我们一起来看。
+ ## [排名前20位的创新物联网软件](http://iot.51cto.com/art/202001/608951.htm)
+ > 下面，我们将介绍您现在可以在项目中使用的20种优秀物联网软件。我们的选择是基于新兴的物联网趋势，并且为
+ ## [钓鱼邮件中招？你不是唯一的受害者](http://zhuanlan.51cto.com/art/202001/608950.htm)
+ > 领导指示大家，最近要”提高警惕，谨言慎点“，提高保密意识，切勿泄漏商业机密，邮件中的链接，点击之前需
+ ## [2020年改变世界的十大技术趋势](http://news.51cto.com/art/202001/608949.htm)
+ > 2019，毫无疑问是过去十年最差的一年，但一个好消息是，2020年可能是未来十年最差的一年。人们面临最糟糕的
+ ## [盘点：2019年十大网络安全新闻](http://netsecurity.51cto.com/art/202001/608948.htm)
+ > 2019年网络安全行业经历了几次大规模的数据泄露事件，有多位新任CEO掌舵，若干激进的并购活动，增长快速的
+ ## [清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐](https://blog.csdn.net/cxyshenghuozhi/article/details/103857992)
+ > 清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐
+ ## [给迷茫的计算机系大学生的一封信 JAVA](https://blog.csdn.net/qq_37561309/article/details/103774203)
+ > 给迷茫的计算机系大学生的一封信 JAVA
+ ## [《算法学习》 一：为什么要学习算法？时间复杂度](https://blog.csdn.net/qq_16855077/article/details/103843807)
+ > 《算法学习》 一：为什么要学习算法？时间复杂度
+ ## [大学四年，我把私藏「B站」 20 个学习 UP 主贡献出来！](https://blog.csdn.net/qq_36903042/article/details/103651690)
+ > 大学四年，我把私藏「B站」 20 个学习 UP 主贡献出来！
+ ## [机器学习（01）——机器学习简介](https://blog.csdn.net/songfei_dream/article/details/103834812)
+ > 机器学习（01）——机器学习简介
+ ## [阿里巴巴向全社会开放黑科技：“泡在水里”的服务器](https://blog.csdn.net/alitech2017/article/details/103859969)
+ > 阿里巴巴向全社会开放黑科技：“泡在水里”的服务器
+ ## [【python】Python学到什么程度可以面试工作（解答一）](https://blog.csdn.net/qq_38410730/article/details/103734035)
  > 
- ## [爬虫江湖的恩怨情仇](https://blog.csdn.net/m0_37609579/article/details/103222671)
- > 爬虫江湖的恩怨情仇
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ ## [写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』](https://blog.csdn.net/m0_37907797/article/details/102885087)
+ > 写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』
+ ## [C、C++ 不得宠，微软正开发新的编程语言！](https://blog.csdn.net/csdnnews/article/details/103471738)
  > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ ## [Python基础语法全体系 | 文件IO与常用文件操作模块](https://blog.csdn.net/ZYZMZM_/article/details/103736356)
  > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ ## [《大厂面试》面试官看了直呼想要的简历](https://blog.csdn.net/qq_35190492/article/details/103761746)
  > 
- ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
+ ## [大数据面试题(九)----Spark面试题](https://blog.csdn.net/silentwolfyh/article/details/103865243)
+ > 大数据面试题(九)----Spark面试题
+ ## [2020 年软件开发趋势预测，Java 将占主导，Python 将要吞噬世界。](https://blog.csdn.net/alitech2017/article/details/103858311)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ ## [Python 访问 MySQL 的正确姿势](https://blog.csdn.net/xufive/article/details/103856837)
  > 
- ## [西游记团队中如果需要裁掉一个人，会先裁掉谁？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/103214104)
- > 
- ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
+ ## [linux内核的一些知识点（下）](https://blog.csdn.net/wangyangzhizhou/article/details/103850465)
  > 
  ## [“不会Linux，怎么当程序员？”骨灰级程序员：干啥都不行。](https://blog.csdn.net/csdnnews/article/details/103867269)
  > 说起优秀程序员的必备技能，我想大家都可以说很多，比如：数据结构、算法、数学、编程语言等等。但是，你可能会忽略了每一个程序员都应该掌握的技能：Linux。想一想，我们日常学习、求职、工作场...
@@ -56,36 +74,36 @@ categories: IT NEWS
  ## [“一百万行 Python 代码对任何人都足够了”！](https://blog.csdn.net/csdnnews/article/details/103855914)
  > 作者 | Jake Edge译者 | Kolen出品 | AI科技大本营（ID: rgznai100）编程语言通常对其操作过程的各个方面都有或明或暗的限制。诸如标识符的最大长度或变量可以...
 # 人工智能 
- ## [计算机软件设计师（中级）](https://blog.csdn.net/wen123abx/article/details/89856180)
- > 计算机软件设计师（中级）
- ## [idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5](https://blog.csdn.net/hnu_zzt/article/details/97767545)
- > idea创建第一个maven项目报错：Cannot resolve plugin org.apache.maven.plugins:maven-clean-plugin:2.5
- ## [win10企业版2016长期服务版激活方法](https://blog.csdn.net/fengqingtao2008/article/details/96724477)
- > win10企业版2016长期服务版激活方法
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [AutoSAR系列讲解 - 总目录](https://blog.csdn.net/xyfx_fhw/article/details/94611533)
- > AutoSAR系列讲解 - 总目录
- ## [IDEA安装后的配置](https://blog.csdn.net/SIMBA1949/article/details/90107383)
- > IDEA安装后的配置
- ## [java学习：在给学生演示用Myeclipse10.7.1工具生成War时，意外报错：SECURITY: INTEGRITY CHECK ERROR](https://blog.csdn.net/atgfg/article/details/83310698)
- > java学习：在给学生演示用Myeclipse10.7.1工具生成War时，意外报错：SECURITY: INTEGRITY CHECK ERROR
- ## [解决Intellij IDEA2019 版本及以上无法破解 Key is invalid.问题](https://blog.csdn.net/baidu_30594023/article/details/97393748)
- > 解决Intellij IDEA2019 版本及以上无法破解 Key is invalid.问题
- ## [pycharm2019 专业版激活方法](https://blog.csdn.net/Darren1921/article/details/96858356)
- > pycharm2019 专业版激活方法
- ## [SCPPO（十）:网站发布中的问题锦集—手动发布网站](https://blog.csdn.net/u012829124/article/details/52004806)
- > SCPPO（十）:网站发布中的问题锦集—手动发布网站
- ## [IDEA 2019.1.2 破解教程，(学习使用)](https://blog.csdn.net/u013346208/article/details/97623482)
- > IDEA 2019.1.2 破解教程，(学习使用)
- ## [软件工程期末考试复习题](https://blog.csdn.net/qq_41814324/article/details/95237670)
- > 软件工程期末考试复习题
- ## [eclipse汉化的两种方式](https://blog.csdn.net/Aoutlaw/article/details/97618940)
- > eclipse汉化的两种方式
- ## [Process finished with exit code 1](https://blog.csdn.net/weixin_41217541/article/details/95165461)
- > Process finished with exit code 1
- ## [Windows 10安装IntelliJ IDEA 2019.1.3 x64激活码(永久正版授权)](https://blog.csdn.net/jimbooks/article/details/96456667)
- > Windows 10安装IntelliJ IDEA 2019.1.3 x64激活码(永久正版授权)
+ ## [清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐](https://blog.csdn.net/cxyshenghuozhi/article/details/103857992)
+ > 清华毕业生开发新特效编程语言，99行代码实现《冰雪奇缘》，网友：大神碉堡！创世的快乐
+ ## [访问一个网站会经历哪些流程](https://blog.csdn.net/javajiawei/article/details/80991929)
+ > 访问一个网站会经历哪些流程
+ ## [HCIE之路---1.4学习华为防火墙](https://blog.csdn.net/qq_45519920/article/details/103837631)
+ > HCIE之路---1.4学习华为防火墙
+ ## [中小型商城系统的每日运维总结](https://blog.csdn.net/wf824284257/article/details/103831854)
+ > 中小型商城系统的每日运维总结
+ ## [K8S原理剖析：安全原理剖析和实践](https://blog.csdn.net/fly910905/article/details/103836967)
+ > 
+ ## [辽宁省计算机二级-如何绕过证书进行填报](https://blog.csdn.net/weixin_40539952/article/details/103840851)
+ > 辽宁省计算机二级-如何绕过证书进行填报
+ ## [web安全之xss漏洞01_基础入门](https://blog.csdn.net/qq_41086511/article/details/103828672)
+ > web安全之xss漏洞01_基础入门
+ ## [基于 Ubuntu 搭建 WordPress 个人博客](https://blog.csdn.net/countyo/article/details/103839851)
+ > 基于 Ubuntu 搭建 WordPress 个人博客
+ ## [DDOS攻击为什么瞄准了APP？](https://blog.csdn.net/qq_780662763/article/details/103834907)
+ > DDOS攻击为什么瞄准了APP？
+ ## [String stringBuffer StringBuilder 的区别](https://blog.csdn.net/qq_42685333/article/details/103836328)
+ > String stringBuffer StringBuilder 的区别
+ ## [常用FTP命令](https://blog.csdn.net/ls70868670/article/details/103837971)
+ > 常用FTP命令
+ ## [加密、签名、证书的区别和使用](https://blog.csdn.net/a57565182/article/details/103846552)
+ > 加密、签名、证书的区别和使用
+ ## [华佗村女开发员的加密模块,非常实用免费分享](https://blog.csdn.net/john_dwh/article/details/103844031)
+ > 华佗村女开发员的加密模块,非常实用免费分享
+ ## [一个简单的项目Java后端框架（springboot+maven包括shiro，验证码的生成与使用，异常处理，跨域处理）](https://blog.csdn.net/xainyuyjz/article/details/103843568)
+ > 一个简单的项目Java后端框架（springboot+maven包括shiro，验证码的生成与使用，异常处理，跨域处理）
+ ## [为什么我用QQ进我的网页和我用浏览器进我的网页，两者显示的结果不一样](https://blog.csdn.net/qq_44224698/article/details/103839183)
+ > 为什么我用QQ进我的网页和我用浏览器进我的网页，两者显示的结果不一样
 # PM 
  ## [设计经验｜网页设计中最常用的5种配图](http://www.chanpin100.com/article/110516)
  > 网页设计如何配图？
