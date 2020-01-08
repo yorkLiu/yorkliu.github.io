@@ -1,7 +1,7 @@
 ---
 title: 2020-01-08 IT News
 copyright: true
-date: 2020-01-08 12:01:32
+date: 2020-01-08 17:01:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,19 +66,39 @@ NASA&#21457;&#29616;&#39318;&#20010;&#21487;&#33021;&#36866;&#21512;&#20154;&#31
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [德国自行车供应商Canyon Bicycles遭勒索软件攻击 内部文件被加密](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=8WcQc-ugqeKuw2sqGPbbQMereyMlFNCxfSU5Few24GENSs3GGCU2Ib3vE0vDejCLLnQIAST3zBuhKRwtDdcbYVV1D6KMQRhyoWHRH7qvRBI6RA1KwZh6cP7yv*yWdEdT&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       E安全1月8日讯，据外媒报道，近日，著名德国自行车生产商Canyon 表示，其IT基础架构遭受了勒索软件攻击，攻击者加密了公司内所有文件的访问权限。 该公...
- ## [啥?索尼造车了?](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=D5EeOTK1w*XspV-UJGlua7R4z5waSqPMttTduStX6cmRou8SwOT2U7-QuL8MPvTFfYXg6ST0KHgdUcvjYlkoeaZoO7eUkfmyTV-2S45Sjh9NAiCItW5cLc*6RYQQUO67&new=1)
- > 什么鬼。“有没有PlayStation 5”，“会不会发布新的降噪耳机”，“今年又会有什么黑科技”......这是大部分国内外媒体参加索尼CES 2020前的疑问。发布会现场，伴随着索尼公布了PS5的小部分硬件规格，甚至仅仅是...
- ## [\[报告\]2019-2020中国汽车行业营销报告(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=xuY*nI9X*FVWENRgYJBzZqvuIT82Bxq-4QNX6x2R4X3kSROL4o8NKv3SEEUdzCfgrj6ZCI4NE9FFI3pGnRy4yGE5OFY5CxoWO1hKjqGRrm7bvAKNKhtZnKKp0DYVMy1Q&new=1)
+ ## [国产特斯拉背后的「马斯克之魂」](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=hhQRpxl2m1i0kum*7BK0Ys8HLXTvFTxjFzHT59F-c4pRjJbQUWFKQ4Hl5hrLkdb4LbmeF68GJ0nedgIF0pzh47nE*SzrFprjYD-c1jY4soYUGud7B2eO7RRP-uC2eUl3&new=1)
+ > 「没有你们（上海市政府以及特斯拉老车主）的支持，就没有特斯拉的今天。」特斯拉 CEO 埃隆马斯克说到。1 月 7 日，位于上海的特斯拉超级工厂，国产特斯拉 Model 3 正式开启大规模交付。选在这个日子并不是偶然...
+ ## [威胁情报：网络安全的下一个引爆点](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=AQUcR87BVqXXgERvslHLLu1d*OCldI7aazkK4tkSsi0svIOyaB4NO5d03dJ3Zk7mPph*kHhzl5b8-T47R7tz-2sjlU*2w2p3ZmReM9oHpOFGMrXgDA3cIJOtBmgrHUr8&new=1)
+ > 威胁情报就像圣经，每个人都在谈论它，但很少有人读懂它，更少有人践行它。2020 年，众所周知的 “灰犀牛年”、奥运年、大选年、周期年、冲突年…… 同时也是企业数字化转型和颠覆性技术集体发力的第三次数字革...
+ ## [为避免政府过度「插手」，美国白宫提出十条AI监管规范，公众、灵活性、技术风险等成关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=wbDj2JeKIUogsivtzgqtGyaDZ3wmypoqCg3Bk0A*4ekufrdcGimPodTJ6ReeSZiZntWKR8Zxga1GHgYzifIXsBjuFjJ2w6ObVxw35iy88fbfd6Avb4IS4qJfFjq0Ycr7&new=1)
+ > 该项包含监管意味的指导文件由美国第四任首席技术 Michael Kratsios 主导推进，将在今年的 CES 上正式宣布，目的在于限制主管机关「过度插手」，并表示希望欧洲当局同样能够避免采取激进措施。文件涉及十条指导...
+ ## [移动开发已进入 App 工厂时代!](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=Tg-cbNB*4pqIcN2e1T5aSVO7A2vtCTm7U*bcrJol045rV5hfPqQtqnuTpbrPqe4eIv85PvTvuzj1ETsPJrfyk*ElQZqAt3zO0C36cljKDfokdUF6L*j0CcTX2o7vACDf&new=1)
+ > 导语：App工厂，顾名思义，是一个能根据各种素材和组织形式生成App的工厂。更专业一点的描述，是根据一个具有完备组件库以及这些组件的依赖关系，组合成一个个App。以往的单App研发架构，由于每次打包编译、版本...
+ ## [CES|三星“人造人”亮相!有情感，有记忆，绝不是AI助手](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=PJt6JI3pTXqI*tW-pHeVGSomeQxpQ*tvYl4P1VkH0u5lZTfx52BZTzThVjcB2fXHevs8EEr9xwsTfAGh1N9LHWfh*4OwKKjthGdv7ZURQdptb-O68Mc*8qNMnuI7raMX&new=1)
+ > iFeng科技凤凰网科技官方账号，带你直击真相来源 | IT之家在CES 2020展会上，一家诞生于三星技术和高级研究实验室（又名STAR实验室）的神秘公司首次亮相。该公司将其最新的技术描述为“一种通过计算机所创建的虚...
+ ## [Qualcomm推出车对云服务，支持汽车OTA升级和按需服务及特性](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=6yXO83E8jsnnsd6Y6C9cK4j92CJjrFHbNDZ6vtoKbBX66pyFNbgxE5awCAz7atqm4HYGIYETj2kA1shGvhcTkL*J4Wyagzhz*i5YuGYM59JpdiG8v3xSVS5lMLdLQ9E-&new=1)
+ > Qualcomm要闻—Qualcomm推出车对云服务，支持汽车OTA升级和按需服务及特性—2020年1月6日，拉斯维加斯—Qualcomm今日推出全新Qualcomm车对云服务（Car-to-Cloud Service），这是公司首款面向Q
+ ## [一文读懂：学Linux，到底学什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=tGjTbxRSyNOeAdX8L8G5JO4fGMDSfWU9*cX5mFHDSmL9B9XnTcoy2jUNbCY-APW9F*s5Lnd5Tu*0DiCL6AB-3DkiBwxv0rdXJz3SDGIOKj1*GvaAguWunSq19PiLfOMO&new=1)
+ > 我们常常听到很多人说要学学Linux，或者被人告知说应该学学Linux。那么，学Linux，到底要学什么？为什么要学Linux在回答学什么之前，我们先看看为什么要学。首先我们需要认识到的是，很多服务器使用的是Linux系...
+ ## [2020年网络安全的五大预测](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=Lv8eaP-lvX4PiS9D87HaEAORvIUw3ZWUJ*APvFqsaUOVIhjtu9wBYOmerdskwDhryGqyaQMBObnfeQ4UfPdaW8JMDyytkl*v3kin7Vqj9ZRnTgg1-iwdY4hYZih1SL8-&new=1)
+ > 关键讯息，D1时间送达！对于网络安全人员来说，至关重要的是在应对网络威胁时获得主动权，而不是被动地对威胁做出反应。在不断变化的威胁形势下，只是填补安全漏洞或为以前的威胁设计安全态势已经远远不够。对于...
+ ## [自主设计制作4台3D打印机，浙大这位姑娘火了](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=S1egT8Rwi2boRFXf*ZCMKDzFLuEyoZ5Ww3hp3BbBkHRVNZb9xFhow6H444VArUWjzckmS5zIjtR*I8jz6HbQ2-M7FtfArZfin-HT1SxXvI0WW3OxaB0r0eFdJvfnVsZ3&new=1)
+ > 把电锯、微型机床当作“玩具”，自主设计制作4台3D打印机，大三所获绩点、主修专业绩点双项第一，走上讲台，她用自己所学为同学们授课，退居台后，她用摄像机记录美好生活，这位姑娘就是2018-2019学年浙江大学竺...
+ ## [\[报告\]2019-2020中国汽车行业营销报告(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=xuY*nI9X*FVWENRgYJBzZqvuIT82Bxq-4QNX6x2R4X04LR09Q9nMIGPyLj*3mZsXEAANZOLpe2vU0ApLDum1-wD1B1Q6uhnPMTsufivvSpFmbGG89xwIGfk4*c-2jhM2&new=1)
  > 2019年，国内汽车市场更是以负增长开头。面对更加年轻一代的消费群体，传统车企从产品设计到品牌定位如何调整？面临流量成本不断上涨的现状，汽车行业营销应该如何布局？Morketing研究院通过对国内汽车生产制造...
- ## [讯石专访|住友电工：针对G.654.E光纤推出高精度纤芯对准光纤熔接机——TYPE-82C](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=QkrvNTT3Do6XudiwTHdAi9nKRK55Ghal84uuMppGgmiaLzQx-0JTAsSSigngLLqtaorCH*3XEhM0TKdZp-vqDGQOOPXRRJFa9k8RWqCrgjNVLMHnX972I4oELVztZhUf&new=1)
+ ## [啥?索尼造车了?](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=D5EeOTK1w*XspV-UJGlua7R4z5waSqPMttTduStX6cmaE19Ry0saBCTl--n72fLWsQJeitOJb-wbAEu*p7O6VqStld-ZSiiTNk0*DStJBdRiRdyJGfT-dahbMYMXxsDr&new=1)
+ > 什么鬼。“有没有PlayStation 5”，“会不会发布新的降噪耳机”，“今年又会有什么黑科技”......这是大部分国内外媒体参加索尼CES 2020前的疑问。发布会现场，伴随着索尼公布了PS5的小部分硬件规格，甚至仅仅是...
+ ## [联通在线与网易达成战略合作 携手共赢5G时代](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=gdRFMTIiBmO6NF*eni6XHPX3cdP0LSHfd9Zml3tzLnWmmvl35xUFm*zw7NHkLpZyV-D93zEihaiZxPq4KlmFs1iIVr0XoQIVTR1L6zRVZ1yCM7KKNolMSs*ir4eNB1vP&new=1)
+ > 联通在线信息科技有限公司（简称“联通在线”）与网易签署战略合作意向书，双方将在内容创新、技术研发、管理流程和企业文化方面进行深度合作。联通在线将充分发挥其在大数据分析和精准营销上的优势，联合网易在...
+ ## [德国自行车供应商Canyon Bicycles遭勒索软件攻击 内部文件被加密](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=8WcQc-ugqeKuw2sqGPbbQMereyMlFNCxfSU5Few24GH3HMEwZSPnfwss7wWphVa0L72yaKCqbSG7lWFvWjTR5BKjcGh6DV717EgT1wUxV3-f7KeicJpINgMht5EK1075&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       E安全1月8日讯，据外媒报道，近日，著名德国自行车生产商Canyon 表示，其IT基础架构遭受了勒索软件攻击，攻击者加密了公司内所有文件的访问权限。 该公...
+ ## [讯石专访|住友电工：针对G.654.E光纤推出高精度纤芯对准光纤熔接机——TYPE-82C](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=QkrvNTT3Do6XudiwTHdAi9nKRK55Ghal84uuMppGgmigLz2M3e-32IUBQ2LDLjuS757ReLP374oZ-1iM83HAkL3sqvAXV0VgsvZ0*ihdrBJgzxaaep2XkcjZY-7NpJ61&new=1)
  > 导读     讯石拜访住友电工子公司——住亚贸易，了解住友电工的发展历史及光通信领域产品情况及其G.654.E新型光纤及熔接技术。据悉，TYPE-82C是住友电工生产的一款最适用高速光传输骨干网工程的高精度纤芯对准光...
- ## [头顶诸多光环 优刻得网上路演热闹非凡](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=YlV8RH4ozDovjAljRffr5xTqBVjixqQZgDtv6SYvpqoRXLPm0UAcdsF5fPtgZSGKHxV9*J1TpBPNuLBU2AT81EuQ2nzBA9beCpenP3XdWQQ=&new=1)
+ ## [头顶诸多光环 优刻得网上路演热闹非凡](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=YlV8RH4ozDovjAljRffr5xTqBVjixqQZgDtv6SYvpqrFCYIX7N6IuqAv-j7xEmssIqlUWfVemXwPktRwIsp8PwjU1T3xOpoTSSDHAvUJAho=&new=1)
  > 头顶科创板云计算第一股、同股不同权第一股等诸多“光环”，优刻得备受市场关注，其网上路演的场面自然热闹非凡。　　1月7日，优刻得网上路演在上证路演中心举行，短短3个小时，投资者提出了145个问题，涉及...
- ## [德国新闻|华为技术是关键!德媒警告：禁用华为将使德国网络建设落后数年!](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=m35c-yrUMKCYQfAZCxf5f*RJz9V7LUNKNeah3d58Dy*8M7U528Qem4ClC3VbcO*nrjRV8*8ZblUAZqar9VvPYgtJCDy2HTCrj8mXFR8FJsfZAdj0bnG0Yu7RAY8N5co*&new=1)
+ ## [德国新闻|华为技术是关键!德媒警告：禁用华为将使德国网络建设落后数年!](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=m35c-yrUMKCYQfAZCxf5f*RJz9V7LUNKNeah3d58Dy-2D9mwjFtCWDJq0Yt2RC2F2mOlmthdnhnfqQ-SSrxnRtFj775Kd3V9VW1l8K2zwFUhHH5uTIEmQ-u8v33L1C-z&new=1)
  > 本月3号，《世界报》刊文指出，不少政界人士以保护德国移动通信网络安全为由，反对华为参与德国5G网络建设。然而，华为一旦被禁用，德国网络也将陷入困境。经常性断网将成为每个德国用户不得不经历的“痛苦过程...
- ## [课程预告|AI赋能下的商用机器人图像智能与应用-科沃斯商用](http://mp.weixin.qq.com/s?src=11&timestamp=1578455008&ver=2083&signature=I7ELy4FCSbEiz*TiIE321dP8EikOWyRyqP-qsN9cJrdk4DyP7HD7rqf98KzMXff3**QdiGO9EquaPMYqRnJtbHq5W5v8f03DE-3pMRsVo3Mexwwkgm2l85ZQKMt9VJ50&new=1)
+ ## [课程预告|AI赋能下的商用机器人图像智能与应用-科沃斯商用](http://mp.weixin.qq.com/s?src=11&timestamp=1578474005&ver=2083&signature=I7ELy4FCSbEiz*TiIE321dP8EikOWyRyqP-qsN9cJrcOGo0ZGJSmWegQ9IbMEE87M31tOt0-IRfccKHSN4trpKJpQ6L*V31gSquGyeUpX15KkcAqDZvzS-rIu-4rrWv*&new=1)
  > 导读：《机器人大家说》经过4年来的积累，已经累积为数万位机器人领域从业者提供知识服务，而在19年年末，我们联合知名服务机器人企业科沃斯商用机器人，正式推出《机器人大家说 × 科沃斯商用》专题课程。《机...
 # IT 技术 
  ## [知识图谱不复杂，我来帮你理一理！](http://developer.51cto.com/art/202001/609033.htm)
@@ -97,48 +117,54 @@ NASA&#21457;&#29616;&#39318;&#20010;&#21487;&#33021;&#36866;&#21512;&#20154;&#31
  > 自动驾驶2019关键词：蛰伏过冬与曲线救国
  ## [阿里产品专家：高情商的技术人，如何做沟通？](http://zhuanlan.51cto.com/art/202001/609042.htm)
  > 阿里产品专家：高情商的技术人，如何做沟通？
- ## [您有一封CIO的新年寄语，请查收](http://www.cioage.com/art/202001/609063.htm)
- > 值此佳节，我们精选了10位CIO的新年祝福带给您，祝您心想事成、万事如意。CIO的名字用昵称隐藏了哦，您能
- ## [对2020年物联网网络安全的预测](http://iot.51cto.com/art/202001/609062.htm)
- > 尽管2019年可能并没有发生NotPetya和WannCry这样的灾难性攻击事件，但仍有很多事件得到了道德黑客以及网络
- ## [TCP 三次握手背的滚瓜乱熟，那意外情况呢？丢包了呢？故意不回复 ACK 呢？](http://network.51cto.com/art/202001/609060.htm)
- > 当我们聊到 TCP 协议的时候，聊的最多的就是三次握手与四次挥手，但是你有没有想过，三次握手或者四次挥手
- ## [Redis 中的 “SOS”，不对，是SDS](http://stor.51cto.com/art/202001/609059.htm)
- > 身为一名有追求的程序员，阿粉我的理解是光会吃老本是不行的，所以我一直也在学习，今天大家就跟我一起来了
- ## [启动云计算事件响应策略的5个步骤](http://cloud.51cto.com/art/202001/609057.htm)
- > 云计算事件响应策略对于在云中运行负载的企业来说是必要，企业需要了解这些最佳实践，以确保其团队做好充分
- ## [混合云的快速指南](http://cloud.51cto.com/art/202001/609056.htm)
- > 混合云模型为企业提供了一种利用公共云和私有云优势的方法。混合云带来了两全其美的优势。
- ## [定义2020年的五种网络风险](http://netsecurity.51cto.com/art/202001/609055.htm)
- > 对于那些负责保护公司数据的人们来说，当今广阔的威胁前景令人不知所措，导致疲惫和倦怠的程度有所提高。但
- ## [阿里达摩院 vs Gartner：2020科技趋势预测，你更信谁？](http://news.51cto.com/art/202001/609052.htm)
- > 现在回首，达摩院去年的趋势预测正确率还是很高的。而就在前不久 Gartner 也发布了《2020 年十大策略科技趋
- ## [5G现安全漏洞 大部分可被修复](http://netsecurity.51cto.com/art/202001/609051.htm)
- > 5G网络所具备的大带宽、广连接、低时延等特征，让万物可联、万物可算，也让信息触手可及、智能无处不在。
- ## [硬盘太慢！内存太慢！网络太慢！全靠我来拯救！](http://zhuanlan.51cto.com/art/202001/609054.htm)
- > 俗话说，计算机编程的任何问题，都可以通过增加一个抽象层来解决，这句话用在我身上就太合适了。
- ## [深度学习的应用与实践](https://blog.csdn.net/qq_36556893/article/details/103242730)
+ ## [为啥国人偏爱 Mybatis，而老外喜欢 Hibernate/JPA 呢？](http://developer.51cto.com/art/202001/609080.htm)
+ > 关于 SQL 和 ORM 的争论，永远都不会终止，我也一直在思考这个问题。昨天又跟群里的小伙伴进行了一番讨论
+ ## [MIT推出预测代码速度新工具Ithemal，纯文本自动学习，无需手动添加特征](http://news.51cto.com/art/202001/609077.htm)
+ > 麻省理工学院的研究人员建立了一个新的基准测试工具，可以准确预测给定代码在计算机芯片上执行所花费的时
+ ## [把Vi改造成Vim的作者，现在又让Vim快了70倍](http://os.51cto.com/art/202001/609076.htm)
+ > Vim 编辑器的创建者 Bram Moolenaar 最初开发了 Vim 以作为 Vi 编辑器的“增强版”，而现在，他希望通过一
+ ## [写 Python 到底用什么编辑器好？鹅厂程序猿吵翻了](http://developer.51cto.com/art/202001/609078.htm)
+ > 不管你是 Python 新手还是老鸟，肯定纠结过一个问题：到底用什么编辑器写 Python 代码好?今天，他二哥在调
+ ## [CES现场芯片巨头上演开年大战！AMD、英特尔、英伟达、高通震撼对决](http://news.51cto.com/art/202001/609075.htm)
+ > 一年一度科技圈的开年大戏“CES”正在美国拉斯维加斯上演。包括AMD、英特尔、英伟达和高通在内的芯片巨头展
+ ## [保障数据高可用也要「狡兔三窟」](http://stor.51cto.com/art/202001/609073.htm)
+ > 复制，是把每次写入的数据多保存 N 份，这样在出故障的时候可以用来恢复，同时也可以进行读写分离，缓解读
+ ## [Kubernetes设计的4个原则](http://developer.51cto.com/art/202001/609074.htm)
+ > 今天我要带给大家的是2018年底，在西雅图举办的Kubecon的一场分享，来自谷歌K8s团队的工程师Saad Ali分享的
+ ## [如何在Windows 10中安排系统还原点](http://os.51cto.com/art/202001/609072.htm)
+ > 系统还原是Windows操作系统中最关键但被低估的功能之一。还原点可以帮助计算机立即恢复工作状态，并节省大
+ ## [物联网安全：我们可以从最近的威胁中学到什么呢？](http://iot.51cto.com/art/202001/609070.htm)
+ > 物联网比以往任何时候都更能保证企业的灵活性和功能性。更多的连接设备有助于帮助企业简化供应链运作，提高
+ ## [2020年难以避免的五大类网络风险](http://netsecurity.51cto.com/art/202001/609069.htm)
+ > 对于数据安全而言，2019年是糟糕的一年。根据Ponemon Institute的《 2019年数据泄露成本报告》，平均的数据
+ ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [Centos7.3 卸载 Nginx（彻底卸载） 并重新安装 Nginx（RPM源yum安装）](https://blog.csdn.net/qq_41684621/article/details/103880247)
- > Centos7.3 卸载 Nginx（彻底卸载） 并重新安装 Nginx（RPM源yum安装）
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ > 
+ ## [多线程并发 (五) ReentrantLock 使用和源码](https://blog.csdn.net/WangRain1/article/details/103869222)
+ > 
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [2019年总结：始不垂翅，终能奋翼](https://blog.csdn.net/baimafujinji/article/details/103883974)
+ > 
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ > 
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
+ ## [\[学院\]_\[WTL运行Setup.js安装项目向导找不到VisualStudio的解决办法\]](https://blog.csdn.net/infoworld/article/details/103879702)
+ > \[学院\]_\[WTL运行Setup.js安装项目向导找不到VisualStudio的解决办法\]
  ## [SQL-小白最佳入门sql查询一](https://blog.csdn.net/youku1327/article/details/102979381)
- > 
- ## [面试官如何考察你的思维方式？](https://blog.csdn.net/zhongyangzhong/article/details/103154699)
- > 
- ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
  > 
  ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
  > 
+ ## [华为举办HDC.Cloud媒体预沟通会，为开发者提供ICT“黑土地”](https://blog.csdn.net/csdnnews/article/details/103893372)
+ > 【中国，北京，2020年1月8日】今日，华为在北京举行了华为开发者大会2020（Cloud）媒体预沟通会，华为技术有限公司高级副总裁、Cloud &amp; AI产品与服务 CTO张顺茂在会上表示，ICT技术正在改变各行各业，华为愿为开发者提供ICT“黑土地”，实现改变世界、创造美好未来的愿景。...
  ## [十大新兴前端框架大盘点](https://blog.csdn.net/csdnnews/article/details/103884117)
  > 作者 |司徒正美责编 |伍杏玲出品 | CSDN（ID：CSDNnews）2019年在整体上，前端的主流框架没有太大的变化，业务代码仍由三大框架（React、Vue、Angular）所主宰着，打包工具一般仍使用webpack、Rollup.js，状态管理器还是Redux、MobX。...
  ## [Ubuntu 的十年回顾](https://blog.csdn.net/csdnnews/article/details/103884137)
@@ -158,54 +184,68 @@ NASA&#21457;&#29616;&#39318;&#20010;&#21487;&#33021;&#36866;&#21512;&#20154;&#31
  ## [揭秘！女程序员为啥更赚钱？这4个大招，用Python做副业躺赚](https://blog.csdn.net/csdnnews/article/details/103884121)
  > 关于穷，去年有了一个更学术的说法：隐形贫困人口。就是因为有太多“种草达人”，让我们为了物质生活超前消费，再加上不理财的话，那简直是雪上加霜。看到知乎上面最近有一个很火的问题：“90后的你...
 # 人工智能 
- ## [深入源码分析Handler 消息机制 、Looper、MessageQueue 消息同步屏障、IdleHandler、Message 复用](https://blog.csdn.net/xx326664162/article/details/103858163)
- > 
- ## [H5吸顶效果实现](https://blog.csdn.net/qq_42179237/article/details/103871851)
- > H5吸顶效果实现
- ## [【Android自定义View】Bitmap的绘制和颜色滤镜](https://blog.csdn.net/ljx1400052550/article/details/103863728)
- > 【Android自定义View】Bitmap的绘制和颜色滤镜
- ## [Android 拨打电话代码实现 （附加 ：AOP切面实现方式）](https://blog.csdn.net/qq_37492806/article/details/103851017)
- > Android 拨打电话代码实现 （附加 ：AOP切面实现方式）
- ## [为什么 APP 纷纷开发“暗黑模式”？优酷最佳实践总结](https://blog.csdn.net/alitech2017/article/details/103851605)
- > 
- ## [大一寒假训练六（二分查找）【更新完成】](https://blog.csdn.net/ljw_study_in_CSDN/article/details/86141144)
- > 大一寒假训练六（二分查找）【更新完成】
- ## [Android源码阅读方式——教你如何找到ActivityManagerService](https://blog.csdn.net/qq_27752085/article/details/103862424)
- > Android源码阅读方式——教你如何找到ActivityManagerService
- ## [Android9（API>=28）时的网络请求问题](https://blog.csdn.net/u013970897/article/details/103850514)
- > Android9（API&gt;=28）时的网络请求问题
- ## [Android Lost RAM的统计方法](https://blog.csdn.net/conconbenben/article/details/103859778)
- > Android Lost RAM的统计方法
- ## [IOC容器之Unity与AutoFac](https://blog.csdn.net/qq_34482621/article/details/103728924)
- > IOC容器之Unity与AutoFac
- ## [基于智慧教室|无纸化会议的新选择：RTMP解决方案](https://blog.csdn.net/renhui1112/article/details/103860259)
- > 基于智慧教室|无纸化会议的新选择：RTMP解决方案
- ## [AutoService注解无法生成META-INF文件](https://blog.csdn.net/cpcpcp123/article/details/103871815)
- > AutoService注解无法生成META-INF文件
- ## [Android Studio --- > \[学习笔记\]RadioButton、CheckBox、ImageView、ListView、TCP的三次握手](https://blog.csdn.net/piano9425/article/details/103878287)
- > Android Studio --- &gt; \[学习笔记\]RadioButton、CheckBox、ImageView、ListView、TCP的三次握手
- ## [4）Learning diary for Flutter about android](https://blog.csdn.net/u011334510/article/details/103880645)
- > 4）Learning diary for Flutter about android
- ## [Ionic打包问题记录](https://blog.csdn.net/u013318615/article/details/103868482)
- > Ionic打包问题记录
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+ ## [android 自定义view（侧拉删除）](https://blog.csdn.net/wk_beicai/article/details/100133701)
+ > android 自定义view（侧拉删除）
+ ## [导出苹果安装包IPA的几种方法](https://blog.csdn.net/aluoshiyi/article/details/100172523)
+ > 导出苹果安装包IPA的几种方法
+ ## [Android实现多渠道打包，动态替换包名、Icon、图片等资源，解决因applicationId和BuildConfig路径不匹配的问题](https://blog.csdn.net/woshizisezise/article/details/96303750)
+ > Android实现多渠道打包，动态替换包名、Icon、图片等资源，解决因applicationId和BuildConfig路径不匹配的问题
+ ## [Android Studio 3.5版本新特性](https://blog.csdn.net/qijingwang/article/details/100113503)
+ > Android Studio 3.5版本新特性
+ ## [RecyclerView安卓androidx.widget.RecyclerView](https://blog.csdn.net/qq_39326574/article/details/98098520)
+ > RecyclerView安卓androidx.widget.RecyclerView
+ ## [NetworkSecurityConfig: No Network Security Config specified, using platform default](https://blog.csdn.net/Jianchi0001/article/details/101193036)
+ > NetworkSecurityConfig: No Network Security Config specified, using platform default
+ ## [解决 Android Studio：Failed to resolve: com.android.support:appcompat-v7:29.+ 错误](https://blog.csdn.net/bjxqmy/article/details/100174900)
+ > 解决 Android Studio：Failed to resolve: com.android.support:appcompat-v7:29.+ 错误
+ ## [Android Studio 安装APK在虚拟机时报 Installation failed due to: 'null' 解决](https://blog.csdn.net/qq_38436214/article/details/100727172)
+ > Android Studio 安装APK在虚拟机时报 Installation failed due to: &x27;null&x27; 解决
+ ## [flutter MediaQuery获取屏幕宽度高度密度通知栏高度等屏幕信息](https://blog.csdn.net/ruoshui_t/article/details/95456751)
+ > flutter MediaQuery获取屏幕宽度高度密度通知栏高度等屏幕信息
+ ## [分享两个超实用的Android开源UI框架——QMUI和XUI](https://blog.csdn.net/qq_17798399/article/details/95808568)
+ > 分享两个超实用的Android开源UI框架——QMUI和XUI
+ ## [Day10：照相机与fileprovider机制](https://blog.csdn.net/qq_34178710/article/details/97631704)
+ > Day10：照相机与fileprovider机制
+ ## [Android实战派-RxJava3.x(一)    入门](https://blog.csdn.net/KyungLip/article/details/100542493)
+ > Android实战派-RxJava3.x(一)    入门
+ ## [android之获取设备唯一标识符](https://blog.csdn.net/generallizhong/article/details/100191376)
+ > android之获取设备唯一标识符
+ ## [android 常见面试题（二）](https://blog.csdn.net/wk_beicai/article/details/101197583)
+ > android 常见面试题（二）
 # PM 
- ## [基于商业地产的管理系统设计思路——租赁管理(二)](http://www.woshipm.com/pd/2390748.html)
- > 本文作者从三个方面分享了商业地产行业的管理系统设计框架：租赁管理、租金架构设计与计算以及租赁合同的变更及补充协议签订。截至2019年3月，全国5万㎡以上的存量购...
- ## [6大玩法，引爆春节营销](http://www.woshipm.com/marketing/3296766.html)
- > 春节，是中国人一年来最热闹、氛围最为火热的节日。而对于品牌营销来说，春节也是营销发力、大做文章的好时机。元旦初始，春节将至！对中国人来说，“春节”是一年中最...
- ## [菜鸟PM眼中的“道”与“术”](http://www.woshipm.com/pmd/3299797.html)
- > 本篇以一个菜鸟赛季产品经理的视角，从“道”和“术”角度展开讨论。“道”即世界观——怎么看待产品经理的世界；“术”即方法论——怎么做好产品经理（之我见）。道：怎么看...
- ## [农商行崛起：借力金融科技，实现弯道超车](http://www.woshipm.com/it/3300484.html)
- > 本文总结了农村金融机构发展概况、优势劣势，以及它在未来的发展趋势。在茅山山脉之西，碧波荡漾的固城湖、石臼湖之东的高淳，高淳农商行客户经理李经理吃完早饭，开...
- ## [我对 B 端产品的认知](http://www.woshipm.com/pmd/3299431.html)
- > 本文用最浅显直白的方式帮你了解B端产品类型。让在产品坑边徘徊的你，更近一步了解B端产品的基本常识，也独家分享一些个人的产品价值观。产品的服务对象B 是 busines...
- ## [产业互联网浪潮已至，如何在新时代淘金？](http://www.woshipm.com/it/3297568.html)
- > 新变化的出现昭示着我们仅仅只是简单地复制互联网时代的发展模式已经难以奏效，找到产业互联网时代的淘金秘籍，才不会仅仅只是看客与跟风者，而是变成真正意义上的造风...
- ## [刷脸支付可以，骗钱就不对了！](http://www.woshipm.com/it/3300596.html)
- > 2019年，刷脸支付频频刮风。2020年，刷脸支付的骗局还在上演。今天我不是来拆台的，也不是说刷脸支付怎么不好。而是时隔一年多时间，发现还有人拿着刷脸支付来骗钱，...
- ## [Facebook如何设计优秀产品？](http://www.woshipm.com/pd/3297430.html)
- > 这篇文章我翻译于17年5月12日，但是在工作中，我还是常常会把它再读一遍，每次总有新的收获，对手头在做的一些项目起到指导意义。后来，我索性把它的链接加入到了公司wi...
- ## [从支付宝年度账单，看我们对账单产品的需求](http://www.woshipm.com/pd/3300773.html)
- > 本文结合支付宝推出的年度账单“不准”现象，给出了一系列分析与思考，最后解释了我们想要什么的账单产品。年底年初，支付宝每年都会推出一个年度账单来算算你一年里都...
+ ## [产品分析：微信读书，当阅读成为一种社交方式](http://www.woshipm.com/evaluating/3285730.html)
+ > 本文作者从五个方面对微信读书进行了分析：竞品分析、产业链、业务模式、产品迭代和产品结构，希望通过此文能够加深你对微信读书产品的认识。微信读书是一款基于微信...
+ ## [数据分析，如何赋能业务？](http://www.woshipm.com/data-analysis/3301802.html)
+ > 二营长，你他娘的意大利炮呢！新年了，很多同学在做工作规划，有很多公司都提出要求，要“数据分析赋能业务/赋能销售/赋能运营”……到底啥玩意是赋能，咋个赋能法？？？...
+ ## [重磅发布！2019年公众号地区年榜来啦](http://www.woshipm.com/it/3301796.html)
+ > 西瓜数据发布2019年微信公众号地区年榜，分别从广告价值指数、周期内公众号发文次数、发文篇数、总阅读数、平均阅读数、总点赞数、总留言数等方面进行展示公众号数据，...
+ ## [3个方法，用产品设计减少“选择瘫痪”](http://www.woshipm.com/pd/3298970.html)
+ > 本文主要介绍了在电商平台或内容平台中，由于内容或选项太多而导致的选择困难甚至选择瘫痪，并且给出了一些相关的例子，说明如何通过设计进行优化和避免。希望对你有所...
+ ## [汽车后市场+互联网：从冲突里看到机会](http://www.woshipm.com/it/3299238.html)
+ > 汽车后市场的规模日益壮大，问题也伴随着大量需求蜂拥而至，互联网在冲突里看到机会。互联网是骑兵，骑兵贵在神速。从搜索、网购、外卖再到打车战无不胜；但在汽车界...
+ ## [营销真的变难了吗？](http://www.woshipm.com/marketing/3301718.html)
+ > 2020年营销人的第一课就是——别再说难，别再为自己的失败找宏观层面的借口。当营销人说“难”的时候，他们大多数在为自己的失败或迷茫找借口。我们曾写过，2019年营销行...
+ ## [2个策略，应对临时需求变更](http://www.woshipm.com/pmd/2780965.html)
+ > 频繁的需求变更对团队和产品都是巨大的消耗和打击，作为产品经理，如何让团队能够相对轻松的应对变更？大家好，我是白白。产品经理在实际工作中会遇到很多坑，有些是...
+ ## [新媒体运营（01）：构建运营思维](http://www.woshipm.com/operate/3300699.html)
+ > 新媒体运营是一个“养孩子”的过程，需要一套复杂的体系化的过程。作者阐述了自己的新媒体运营概念及对运营人员的要求，想要实现这些要求，运营人员需要意识地培养自己的...
+ ## [有趣的关系强度、结构洞、制度理论](http://www.woshipm.com/it/3301344.html)
+ > 好久以前发现了这三个有趣的理论，关系强度理论、结构洞理论、制度理论。它们源自社会学，今天已经广泛延伸到了商业经济领域。下面我想用最原汁原味的语言写它们，浓缩...
+ ## [从业务流程分析：电商订单模块设计要点](http://www.woshipm.com/pd/3299447.html)
+ > 商品订单是各种经济业务中最常见、重要的凭证，是会计核算的依据，是经济交易双方是否履约的证明。因此，在电商生态系统中，订单管理模块尤其重要。本文将以B2C平台为例...
+ ## [TO B 产品经理的系统思维，这3个要点要注意](http://www.woshipm.com/pmd/3299668.html)
+ > 系统思维是TO B 产品经理必备的思维之一，利用好系统思维为客户提供有价值的服务，需要注意流程、系统和效率三个要点。刘润老师的一念之间前阵子刘润老师写了一篇文...
+ ## [数据扫盲（2）：新增用户与留存到底是啥？](http://www.woshipm.com/pmd/3300404.html)
+ > 对数据基本功的扎实了解，是沟通的桥梁，本文作者对常见的数据指标进行了分析，希望通过此文能够加深你对基础数据指标的认识。01 新增用户如果大家看过咱们系列的第...
+ ## [运营须知道的电商产品通识](http://www.chanpin100.com/article/110525)
+ > 电商行业的促销形式大概分为几种：满减，满赠，换购，折扣，但设计多样化活动时是否可以满足正常的业务逻辑？是否会提出一些不可实现的需求？是否提出的需求不满足用户场景？希望读完本文大家可以有一点感悟。
+ ## [春节营销应该怎么做？来看看这6个刷过屏的营销玩法](http://www.chanpin100.com/article/110524)
+ > 吐血推荐6种必火的春节刷屏营销玩法，晚了就被别人用了！
+ ## [独立负责项目两年，我的产品原则及方法论](http://www.chanpin100.com/article/110523)
+ > 一个产品经理的几点总结
+ ## [深度体验【小红书】app](http://www.chanpin100.com/article/110521)
+ > 深度体验小红书app，了解目前互联网top10的互联网产品。如果时间允许我会持续每周更新一版产品体验结果报告
 
     
