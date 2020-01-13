@@ -1,7 +1,7 @@
 ---
 title: 2020-01-13 IT News
 copyright: true
-date: 2020-01-13 10:00:50
+date: 2020-01-13 12:00:51
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -68,23 +68,31 @@ FMCW&#28608;&#20809;&#38647;&#36798;&#25216;&#26415;&#30740;&#21457;&#21830;&#20
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [5G 重新点燃热情 CES 上 AR/VR 越来越接地气了|动察](http://mp.weixin.qq.com/s?src=11&timestamp=1578879004&ver=2093&signature=qLJO3UQEg-iGYsLYonP-qd-5rxN0WPcoQUYEpRokFuBnGTuSP1bhhnKP5CiEQGCVBC1BvWMs9Z72RNpeK0dxlWGQRyWEZYis4jQU6am2z2*O0upOB-rQ2Qof7t6p2i-U&new=1)
- > 文 | 动点科技作者 |  翟子瑶一月初的拉斯维加斯，来自世界各地的十几万人涌入这座城市，出现在城市的北部和各大卖场。他们形色匆匆，脖子上挂着绿色带子的牌子，当地人早已司空见惯——规模宏大的 CES（国际消...
- ## [本周大新闻|CES2020 AR/VR全汇总，微显示/3D显示/3D捕捉成亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1578879004&ver=2093&signature=1ub5-iXyaaRxl4brq1Q6Z4kzh4y7LJQwK5YFmJFVMrcMOYnNoMOoSGE3sfjFNsxl7NhZcS7QesluHDOhMVaV5Nf5p4mPDHG-2ct8kM0V41rRk0bMAF59FtBH9vUuG*Df&new=1)
- > hi188｜ 编辑本周，正值CES 2020大会，我们已经在周三、周四发布了两篇当天的AR/VR汇总，但还是有遗漏，因此本周末的大新闻就带来CES 2020上AR/VR的全汇总。首先，AR方面，三星AR眼镜首次曝光，其伴随GEMS智能健...
- ## [从烟花禁放到云计算，我们终将适应变化\[宁宇专栏-339\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578879004&ver=2093&signature=27mbhSu6ZB1sBYvzj35ytAWYVs41-xH2tcowVzLkVEpOrte9Fzlw9MXJ2x8aQXsvjVMWTB0X4K3qC-hNIY5reftFTr6HtyP7QKggYT8li-CR*nhich1PLHwLVyfAIM2b&new=1)
- > 【摘要】云计算的推广，靠的是厂商的推动，还是技术的发展，或者依托客户进步的思想和成功的案例，也可能，也只是用时间就可以解决的问题。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑...
- ## [\[C114周报\]首批5G标准发布；中移动5G套餐用户302万；2019年中国5G手机出货1377万](http://mp.weixin.qq.com/s?src=11&timestamp=1578879004&ver=2093&signature=adBG3ritghrQQqs5q21D4PPiRwTD1wRYc40B0nhOOSVUoTKFhRHrXxcA*DojX6rbvc28XpA4fzOkzRazcuWrZIw6X0kg98CkdWH79s6LKyteFgAol0*qU5Ih62DSl-VF&new=1)
+ ## [实地探访北京3D打印眼镜店，全球门店数已达600家](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=AQWmpQmqJraT-JB3CWHKi7NfBH1HXb2a6P1dfc-HBKwg6gzjSufPRbRk35f0cR5PlgFW922BMsNhDnjR88Scz3k7tSwQ7wJhu6us9r-RkuyDo*Fe8wN3xCqrEUov28uW&new=1)
+ > 关注南极熊，知晓3D打印天下事导读：3D打印眼镜，正在成为下一个消费级应用趋势；中国创业项目“佩极3D打印眼镜”已经有600家加盟店，镜架单价在千元人民币。2020年1月10日，南极熊在北京实地探访了一个3D打印眼...
+ ## [苹果上线周迅主演的新春短片《女儿》；腾讯 NBA 视频转图文直播；聚美优品收到私有化要约，购买价格拟每股 20 美元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=hbWZEkxw5CEBvqyofJmRClMLKKBcK4xYkKhnYDLnq2xNgyNe0nkJ-0ZI0MR0k*aVl5IGQN3uUsXw*vpvXSv4hK0VHAlK0Sv0crQthbc13TioWbVsnD2xcSdsI3gtjIIZ&new=1)
+ > 今日起微软停止支持 Windows 71 月 14 日，微软停止对 Windows 7 的官方支持。微软停止对 Windows 7 支持之后，不会在为 Windows 7 提供任何技术支持，也不会提供软件更新和安全更新及修复。也就是说，后续
+ ## [钓鱼攻击威胁选举人隐私安全? 2020年美国大选危机四伏](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=tmvz7dTeC92NpTEgfO*d0o98FgusV51zmY1Vx7BKcGE73RzJCJkJiap6CIhaIiEwdoPDLiej8o9uKV2ZvMTHEYe6PZsJG1107x6J8ORZ8UQwxep1lNXMAnHx6f1OQ949&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全1月12日讯，据外媒报道，近日，随着国际政治局势变得越来越紧张, 美国网络安全研究人员表示，2020年的美国大选将会面临更多网络威胁，美国很难忽视网络攻...
+ ## [\[C114周报\]首批5G标准发布；中移动5G套餐用户302万；2019年中国5G手机出货1377万](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=adBG3ritghrQQqs5q21D4PPiRwTD1wRYc40B0nhOOSWFKiAwPL0KHGJxXBzTLO37qJIvTyfthtVjpHc7l7UJqwD-Bd4Fn4wYw8-CvspyDSiv1KvQucnD*VegZwrJuyie&new=1)
  > 周报WEEKLY本周热点有首批5G标准发布；中国移动5G套餐用户302万；2019年中国5G手机出货1377万部• 第077期 •首批5G标准发布1月9日在中国通信标准化协会举办的“中国5G标准发布及产业推动大会上，中国首批14项5G...
- ## [在CES上，研究机构发现了三大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1578879004&ver=2093&signature=39mdNjrLJHHRmor6KchEyPVLE7z46moLnuNrvMajNlS*Tm6RrjJVJhkDUbcFX-SEwJodCPV2ssKyAYofWZXMEvN8ei1PAmgf-NrCmLeM30U=&new=1)
+ ## [从烟花禁放到云计算，我们终将适应变化\[宁宇专栏-339\]](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=27mbhSu6ZB1sBYvzj35ytAWYVs41-xH2tcowVzLkVEpZJOa9I48RjY7uELYYERoW3B4hRkpR1EStYd9BTFVlFgliGQ6Ij-c-olwMrsaf3VuMpLD9GH3aqmOzHuWMyUjl&new=1)
+ > 【摘要】云计算的推广，靠的是厂商的推动，还是技术的发展，或者依托客户进步的思想和成功的案例，也可能，也只是用时间就可以解决的问题。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑...
+ ## [5G 重新点燃热情 CES 上 AR/VR 越来越接地气了|动察](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=qLJO3UQEg-iGYsLYonP-qd-5rxN0WPcoQUYEpRokFuDtMMay3HUeRvB27hGrytktKBtLWsrMqv9D4jPO*PC5dOdygDxVAuDdJhHAq4VFiF8DGujEA4ynj5b44uhk7Wag&new=1)
+ > 文 | 动点科技作者 |  翟子瑶一月初的拉斯维加斯，来自世界各地的十几万人涌入这座城市，出现在城市的北部和各大卖场。他们形色匆匆，脖子上挂着绿色带子的牌子，当地人早已司空见惯——规模宏大的 CES（国际消...
+ ## [本周大新闻|CES2020 AR/VR全汇总，微显示/3D显示/3D捕捉成亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=1ub5-iXyaaRxl4brq1Q6Z4kzh4y7LJQwK5YFmJFVMreodLJT4Tlf*jhDyVQxz03FySKu6fniw954c*5KEqCQRpH2tmDYEsx38DiXxmox-aXERkxInrMQU84Dzk7teWMh&new=1)
+ > hi188｜ 编辑本周，正值CES 2020大会，我们已经在周三、周四发布了两篇当天的AR/VR汇总，但还是有遗漏，因此本周末的大新闻就带来CES 2020上AR/VR的全汇总。首先，AR方面，三星AR眼镜首次曝光，其伴随GEMS智能健...
+ ## [在CES上，研究机构发现了三大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1578886204&ver=2093&signature=39mdNjrLJHHRmor6KchEyPVLE7z46moLnuNrvMajNlR*9VfeCmJY0UI5nTUcmoBEBEXgvs24yXGg-1zejQAwTUGF4xLKqG9eZcMX3jIlNHs=&new=1)
  > 参考消息网1月13日报道 作为消费电子产业未来发展趋势的风向标，2020年美国消费电子展（CES）吸引了全球媒体、企业和研究机构的目光。台湾中时电子报1月10日刊登了台湾“产业情报研究所”（MIC）对2020年CES的观...
 # IT 技术 
- ## [阿里资深Leader：组建技术团队的一些思考](http://news.51cto.com/art/202001/609244.htm)
- > 阿里资深Leader：组建技术团队的一些思考
- ## [如何使用Osquery在Linux上监控文件完整性？](http://os.51cto.com/art/202001/609160.htm)
- > 如何使用Osquery在Linux上监控文件完整性？
+ ## [如果构建支持百万并发量的企业级聊天架构](http://developer.51cto.com/art/202001/609258.htm)
+ > 如果构建支持百万并发量的企业级聊天架构
  ## [腾讯万亿级日志量下，ES如何做到秒级响应？](http://developer.51cto.com/art/202001/609241.htm)
  > 腾讯万亿级日志量下，ES如何做到秒级响应？
+ ## [如何使用Osquery在Linux上监控文件完整性？](http://os.51cto.com/art/202001/609160.htm)
+ > 如何使用Osquery在Linux上监控文件完整性？
+ ## [阿里资深Leader：组建技术团队的一些思考](http://news.51cto.com/art/202001/609244.htm)
+ > 阿里资深Leader：组建技术团队的一些思考
  ## [扎心了！新年遇到的第一个Bug！](http://developer.51cto.com/art/202001/609173.htm)
  > 扎心了！新年遇到的第一个Bug！
  ## [开发者常见的十种不良编程习惯](http://developer.51cto.com/art/202001/609155.htm)
@@ -93,42 +101,44 @@ FMCW&#28608;&#20809;&#38647;&#36798;&#25216;&#26415;&#30740;&#21457;&#21830;&#20
  > 2020年值得你去尝试的JavaScript测试框架
  ## [2020年物联网带给汽车行业的六大变革](http://iot.51cto.com/art/202001/609163.htm)
  > 2020年物联网带给汽车行业的六大变革
- ## [2019年网络安全事件回顾（国际篇）](http://netsecurity.51cto.com/art/202001/609166.htm)
- > 2019年网络安全事件回顾（国际篇）
+ ## [看完知乎轮子哥的编程之路，我只想说，收下我的膝盖。。。](http://news.51cto.com/art/202001/609263.htm)
+ > 以前经常有人问我，要怎么样才可以去微软。其实我从来没有想过这个问题，所以那个时候的答案自然就是微软的
+ ## [GitHub上星数排行前6的VUE框架，看看有没有你需要的](http://news.51cto.com/art/202001/609259.htm)
+ > 使用vue-cli3构建、首屏加载等待动画、五款主题、内置UEditor富文本编辑器、分离的路由和菜单设置、可折叠
+ ## [20年前偷懒修复的千年虫bug归来 程序员：该来的总会来](http://news.51cto.com/art/202001/609256.htm)
+ > 新的十年开始了。二十年前，在千禧之年钟声敲响的时候，诸多 Y2K 应急队的程序员坐在电脑前惴惴不安，他们
+ ## [为什么 TCP 会被 UDP 取代](http://network.51cto.com/art/202001/609260.htm)
+ > 为什么这么设计(Why&x27;s THE Design)是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇
+ ## [如何打造“智能助理”？阿里对话开发平台这样做](http://developer.51cto.com/art/202001/609253.htm)
+ > 一个合格的智能助理能够帮你预约开会时间，处理日常办公需求，还能打电话提醒你要还信用卡了，作为用户或者
  ## [超强通用编译器优化工具！MIT打造，准确率是传统方法5倍](http://news.51cto.com/art/202001/609247.htm)
  > 新代码在自家芯片上运行状况如何？英特尔自己都没有别人家的新工具清楚。这就是MIT耗时一年提出的研究成果
  ## [一个退休程序员，用高中几何方法，让百年数学难题逼近理论极限](http://news.51cto.com/art/202001/609245.htm)
  > 试想一下，如果你的裤子破了好几个洞，每个洞形状各异，但是宽度都不超过1厘米。该如何设计一个通用的补丁
  ## [2019年排名Top 100的Java类库――在分析了30073份源码之后得出的结论](http://zhuanlan.51cto.com/art/202001/609250.htm)
  > 最近，OveOps公布了《The 2019 edition of the Top 100 Java packages from GitHub》，作者查看了这份榜单
- ## [打造国际领先数据安全技术，天空卫士再获过亿投资、落户北京经开区](http://netsecurity.51cto.com/art/202001/609232.htm)
- > 2020年1月9日，国产新安全技术厂商天空卫士在北京召开“迁址北京经开区暨B+轮融资成功”新闻发布会，正式宣
- ## [Sweet Home 3D开放源码室内设计](http://os.51cto.com/art/202001/609238.htm)
- > Sweet Home 3D 是一个开源的（GPLv2）室内设计应用程序，可以帮助你绘制你的住宅平面图，然后定义、重新调
- ## [谷歌被曝2500亿美元收购Salesforce！拆分云业务，反击亚马逊微软](http://news.51cto.com/art/202001/609246.htm)
- > 现在，谷歌被曝开出如此天价，一举收购企业服务之王Salesforce，并进一步并转旗下谷歌云业务，用“云+AI”
- ## [Google的量子计算机2020年会盗走比特币吗？](http://news.51cto.com/art/202001/609248.htm)
- > 2019年9月，谷歌宣布实现了量子霸权，他们在一台 53 比特的量子计算机上仅用 3分 20 秒便完成了在超级计算
- ## [支付宝集五福开始了！新增全家福、最多奖48888元](http://mobile.51cto.com/app-show-609237.htm)
- > 1月13日腊月十九，一年一度的支付宝集五福活动开始啦，将一直持续到1月24日大年三十。每年的支付宝集五福既
- ## [看完这几道 JavaScript 面试题，让你与考官对答如流（上）](http://developer.51cto.com/art/202001/609240.htm)
- > undefined 和 null 有什么区别？在理解undefined和null之间的差异之前，我们先来看看它们的相似类。
- ## [2020年，GCC 项目代码终于从 SVN 完全切换至 Git](http://news.51cto.com/art/202001/609249.htm)
- > 经过数月的延误，GCC 计划在刚过去的周末里将项目的大型代码仓库从 SVN 切换至 Git。
+ ## [CES 2020 上的 AI 读心术](http://news.51cto.com/art/202001/609251.htm)
+ > 在今年的消费电子展(Consumer Electronics Show)上，脱颖而出、成为最具变革性创新的产品，不是自动驾驶汽
+ ## [诞生21年后 谷歌人设要崩了？](http://news.51cto.com/art/202001/609255.htm)
+ > 2020年，皮查伊履新Alphabet的新任CEO，却在经历谷歌的巨变。近日，谷歌老员工的口中吐槽不断……“谷歌越
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [《面试宝典》二 如何实现一个单例及优化](https://blog.csdn.net/qq_16855077/article/details/103944840)
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [深深的码丨Java HashMap 透析](https://blog.csdn.net/qq_15609303/article/details/102744681)
  > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
- > 
+ ## [vue从零搭建一个前中后台权限管理模板](https://blog.csdn.net/weixin_42565137/article/details/103944409)
+ > vue从零搭建一个前中后台权限管理模板
  ## [NLP文本分类任务实验总结](https://blog.csdn.net/asialee_bird/article/details/100730539)
  > NLP文本分类任务实验总结
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
  ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
  > 
+ ## [理解熵，交叉熵和交叉熵损失](https://blog.csdn.net/fendouaini/article/details/103946238)
+ > 理解熵，交叉熵和交叉熵损失
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
  ## [faiss(2)：理解product quantization算法](https://blog.csdn.net/shenziheng1/article/details/102881474)
@@ -141,47 +151,79 @@ FMCW&#28608;&#20809;&#38647;&#36798;&#25216;&#26415;&#30740;&#21457;&#21830;&#20
  > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
+ ## [铁打的春晚，流水的互联网公司](https://blog.csdn.net/csdnnews/article/details/103951884)
+ > 作者|杨雪梅本文经授权转自新浪科技与春节有关的特色有很多，吃年夜饭、放鞭炮、看春晚、拜年，但最能点燃大多数人兴奋点的，可能还属红包。如果春晚一定要有红包，那必定少不了财大气粗的互联网...
+ ## [12306 出招抢票软件，技术黄牛生意要“黄”？](https://blog.csdn.net/csdnnews/article/details/103951886)
+ > 加速包实际上只是抢票软件企业的一种“空手套白狼”的营销工具。作者 |步清尘本文经授权转自猎云网（ID:ilieyun）这个春运，黄牛党们的生意不太好做。不管是平台型第三方抢票软件的付...
+ ## [张小龙的进化](https://blog.csdn.net/csdnnews/article/details/103951887)
+ > 作者 |孟亚娜本文经授权转自燃财经（ID:rancaijing）“其实我是故意不来现场的”。2020年微信公开课PRO现场，张小龙缺席了。这是自2016年以来，他首次缺席微信公开课P...
  ## [“不会Linux，怎么当程序员？”面试官：等着被淘汰吧！](https://blog.csdn.net/csdnnews/article/details/103951880)
  > 说起优秀程序员的必备技能，我想大家都可以说很多，比如：数据结构、算法、数学、编程语言等等。但是，你可能会忽略了每一个程序员都应该掌握的技能：Linux。想一想，我们日常学习、求职、工...
  ## [2020 年，大火的 Python 和 JavaScript 是否会被取而代之？](https://blog.csdn.net/csdnnews/article/details/103951883)
  > Python 和 JavaScript 是目前最火的两大编程语言，但是2020 年，什么编程语言将会取而代之呢？作者 |Richard Kenneth Eng译者 |明明如月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：Python 和 JavaS...
+ ## [利用 Python 制作酷炫的飞船大战！｜原力计划](https://blog.csdn.net/csdnnews/article/details/103951889)
+ > 作者|AI进阶者责编 | 郭芮出品 | CSDN 博客本文用Python来实现一个飞船大战的游戏，话不多说，直入主题！创建飞船类importpygamefrompygame.s...
  ## [达摩院 2020 预测：模块化降低芯片设计门槛 | 问底中国 IT 技术演进](https://blog.csdn.net/csdnnews/article/details/103951878)
  > 作者 |伍杏玲出品 | CSDN（ID：CSDNnews）如今我们生活处处离不开芯片技术：手机、电脑、家电、火车、机器人……可以说芯片是信息产业的“心”。其实早在2010年，《关于加快培育和发展战略性新兴产业的决定》中指出，将继承电路产业作为新一代信息技术产业的重要组成部分，是国家未来重点...
+ ## [只十分钟，唾手可得的工作机会就被我搞砸了！](https://blog.csdn.net/csdnnews/article/details/103951879)
+ > “事已至此，我已无法回头了......这样糟糕的表现可能会对面试结果造成很大的负面影响，尤其是如果你还让这种表现影响到后续的面试过程的话。”作者 |Albino Tonnina译者 |...
+ ## [2020 年技术趋势一览：AutoML、联邦学习、云寡头时代的终结](https://blog.csdn.net/csdnnews/article/details/103951881)
+ > 作者 | Roberto Sannazzaro，Ben Longstaff译者 | 夕颜出品 | AI科技大本营（ID:rgznai100）在 2020 年来临之际，新年前夕往往是人们...
 # 人工智能 
- ## [CSDN：2019年度CSDN博客之星评选竞赛——105号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！](https://blog.csdn.net/qq_41185868/article/details/103920300)
- > CSDN：2019年度CSDN博客之星评选竞赛——105号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！
- ## [AliGraph：一个工业级的图神经网络平台](https://blog.csdn.net/alitech2017/article/details/103925726)
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [LNMP-WordPress 站点搭建](https://blog.csdn.net/YouOops/article/details/103934631)
+ > LNMP-WordPress 站点搭建
+ ## [2020年1月全国程序员工资统计，平均工资13632元。](https://blog.csdn.net/juwikuang/article/details/103925462)
  > 
- ## [为2020年的第一场雪锦上添花：用 matplotlib 绘制雪花和雪景](https://blog.csdn.net/xufive/article/details/103888070)
+ ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [​想知道与你最般配的伴侣长什么样？这个“夫妻相”生成器要火](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103900752)
- > ​想知道与你最般配的伴侣长什么样？这个“夫妻相”生成器要火
- ## [不会找对象？教你两招再试试【适用于Java攻城狮】](https://blog.csdn.net/qq_15609303/article/details/103899341)
- > 不会找对象？教你两招再试试【适用于Java攻城狮】
- ## [相见恨晚的超实用网站](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 相见恨晚的超实用网站
- ## [综述：神经网络的优化-优化器，动量，自适应学习率，批量归一化](https://blog.csdn.net/MrCharles/article/details/103911389)
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [\[Python人工智能\] 十四.循环神经网络LSTM RNN回归案例之sin曲线预测](https://blog.csdn.net/Eastmount/article/details/103914851)
+ ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
  > 
- ## [准确率、查准率、查全率、f-score、auc、roc、p-r曲线](https://blog.csdn.net/lilong_csdn/article/details/103910761)
- > 准确率、查准率、查全率、f-score、auc、roc、p-r曲线
- ## [LaTex学习——Texlive及texstudio的下载与安装](https://blog.csdn.net/abcwsp/article/details/103932154)
- > LaTex学习——Texlive及texstudio的下载与安装
- ## [【目标追踪】基于高斯混合学习的视频背景减法](https://blog.csdn.net/weixin_44936889/article/details/103917569)
- > 【目标追踪】基于高斯混合学习的视频背景减法
- ## [北邮计院复试攻略](https://blog.csdn.net/dongtinglu/article/details/103939375)
- > 北邮计院复试攻略
- ## [kmeans及python图解实现](https://blog.csdn.net/qq_35027690/article/details/103922286)
- > kmeans及python图解实现
- ## [线性代数(11): 坐标转换](https://blog.csdn.net/zaishuiyifangxym/article/details/103937365)
- > 线性代数(11): 坐标转换
- ## [著名的香农定理，也就如此？——信息也有单位](https://blog.csdn.net/weixin_43275558/article/details/103933410)
- > 著名的香农定理，也就如此？——信息也有单位
+ ## [babel源码解析一](https://blog.csdn.net/vv_bug/article/details/103823257)
+ > babel源码解析一
+ ## [一、安卓系统架构全面分析](https://blog.csdn.net/weixin_38019025/article/details/103947480)
+ > 一、安卓系统架构全面分析
+ ## [软件开发篇1：MFC、MVC、中间件、python与C++主从通信](https://blog.csdn.net/qq446293528/article/details/103936124)
+ > 软件开发篇1：MFC、MVC、中间件、python与C++主从通信
+ ## [一年看完64本书后最大的收获：读书无用](https://blog.csdn.net/maoyeqiu/article/details/103947817)
+ > 一年看完64本书后最大的收获：读书无用
+ ## [windows下安装Redis](https://blog.csdn.net/qq_45808264/article/details/103945726)
+ > windows下安装Redis
+ ## [.NET MVC5专题（控制器工厂实现Unity【IOC】容器注入）](https://blog.csdn.net/weixin_41181778/article/details/103947482)
+ > .NET MVC5专题（控制器工厂实现Unity【IOC】容器注入）
+ ## [MHA高可用配置及故障切换](https://blog.csdn.net/weixin_45682995/article/details/103939072)
+ > MHA高可用配置及故障切换
+ ## [分布式事务](https://blog.csdn.net/maomaoqiukqq/article/details/103946750)
+ > 分布式事务
+ ## [Spring MVC架构流程（请求处理流程）](https://blog.csdn.net/a772304419/article/details/103946807)
+ > Spring MVC架构流程（请求处理流程）
 # PM 
- ## [如何让你的方案一直很靠谱？](http://www.woshipm.com/pd/3314602.html)
- > 如何能保证一直产出高标准的方案是每个产品经理都需要思考的问题。方案设计是需要经过大量思考的，但我们不能乱想、硬想，不能指望灵光乍现来保证工作质量，而是应该有...
- ## [复盘的五大命脉](http://www.woshipm.com/zhichang/3316245.html)
- > 复盘，是向自己学习的最佳方法，也是能力提升的捷径。捷径是最远的路，但每一步都算数。最近看到一个项目的复盘，这个项目距离预期目标还差的很远，但这个项目的回顾...
+ ## [学文案就是学品牌！](http://www.woshipm.com/copy/3317169.html)
+ > 不懂品牌和策略，不会洞察和概念提炼，那你就只是个文字搬运工。去年有一个很有争议的汽车广告，凯迪拉克CT6的“没有后驱，不算豪华”。据我观察，观者争议的地方有三...
+ ## [B站，挑起跨年晚会新战争！](http://www.woshipm.com/it/3315276.html)
+ > 本文分析了跨年晚会在流量争夺站上的价值与意义，并解释了B站是如何在跨年晚会上大获用户好评，成功出圈。B站（哔哩哔哩bilibili）举办的2019-2020年跨年晚会，火出了...
+ ## [旅游APP竞品分析报告：携程vs去哪儿旅行vs飞猪出境游](http://www.woshipm.com/evaluating/3288926.html)
+ > 本文从产品定位、产品结构、用户画像、需求分析、功能分析、UI设计等角度，做出了一份携程、去哪儿旅行、飞猪出境游的竞品分析报告。一、调研背景和目的1. 调研背景...
+ ## [线下课程 | 产品经理2.0时代已来，你需要做哪些准备？](http://www.woshipm.com/offline/3317293.html)
+ > 产品经理2.0、产品经理下半场、全栈产品经理、包括前阵子很火的中台产品经理，这些词汇，其实背后都有着潜台词：作为一名产品经理，你不仅要懂产品，更要懂业务、懂市...
+ ## [解决好这3个问题，产品新人少走弯路](http://www.woshipm.com/zhichang/3314007.html)
+ > 本文作者从工作实践出发，根据团队中的实际情况总结了新人产品经理容易遇到的几点问题，适合0~2年的产品经理阅读。新人容易遇到的问题，今天先谈三类：不开口提问...
+ ## [微信小程序搜索优化指南](http://www.woshipm.com/pd/3314626.html)
+ > 有流量抢夺的的地方就会自然有战场，小程序搜索能力升级后，现在用户可通过关键词的搜索即可直达小程序页面内的服务，这将缩短用户使用小程序所提供的服务之间的时间，...
+ ## [如何做好快闪店的体验式营销？](http://www.woshipm.com/pd/3314157.html)
+ > 因为公司业务发展的需要，所以要在展会上展出技术能力或者成品。考虑到受众及效果，我对能快速抓人眼球的快闪店做了考察，基于专业的敏感做了分析，详情请见正文：01 ...
+ ## [适配深色模式，用之前你需要了解这几点](http://www.woshipm.com/pd/3313666.html)
+ > 深色模式最近风头正热，大家都用上了吗？本文作者从产品经理的角度出发，对人们为什么喜欢深色模式、深色模式适配现状以及深色模式的搭配思路进行了分析，与大家分享。...
+ ## [如何选择产品最优路径：以行情交易终端产品为例](http://www.woshipm.com/pd/3251164.html)
+ > 产品设计最重要的不是产品经理知道产品需要做成什么，而是产品经理知道如何找到一条最优的产品路径，以最小的代价，最少的时间，实现出本阶段内最佳状态的产品。	01...
+ ## [产品分析报告：共享衣橱行业，缘何衣二三成为独角兽？](http://www.woshipm.com/evaluating/3308211.html)
+ > 本文本着熟悉行业的目的，重点从五个方面对衣二三进行了分析：竞品分析、产业链、业务模式、产品迭代和产品结构，希望通过此文能够加深对共享衣橱行业和衣二三产品的认...
+ ## [分拆朋友圈：从社交切入内容，可行吗？](http://www.woshipm.com/pd/3310648.html)
+ > ​竞争不仅是在同一市场对份额的争夺，也包括直接挤压这个市场，给对手更低的天花板。2019年已过，最近两年最热的赛道短视频，作为视频媒介的普及化形态，毫无疑问决定...
+ ## [如何用“客户价值主张”模型分析产品价值？](http://www.woshipm.com/pmd/3307388.html)
+ > “用户价值主张”通过三步法来分析一个产品的产品价值，帮助企业找到与其他竞品竞争中的突破口，快速锚定产品的竞争优势，巩固自身在行业中的生态位。从传统互联网时代...
 
     
