@@ -1,22 +1,24 @@
 ---
 title: 2020-01-14 IT News
 copyright: true
-date: 2020-01-14 08:00:49
+date: 2020-01-14 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2019，通信人的江湖，讲了哪些故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1578960004&ver=2095&signature=YmtjRmOyYn6B2N3fTDegYx8JM-R1kGxU2uZcIxVjBt7bwCJVRd90EJpXqQyMyqHA90xTgy9UikQo3tdLfzcJcFLngd1DGJn7opHLvzZ7KNCAucB-*QVbLBdY0ced*uwR&new=1)
- > 【摘要】对于通信人来说，这一年有难到想哭的时候，也有值得欢呼的时候，是时候，简单回顾下了——| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：归田杂谈投稿邮箱：631255063@qq.com岁月不居 时节如流...
- ## [乐视电视强植开机广告不可关闭，江苏消保委提公益诉讼](http://mp.weixin.qq.com/s?src=11&timestamp=1578960004&ver=2095&signature=Zey0Z9Gbeq7CEw9YgZLb7h685oUaQ*KtpZ1IMXPbNucsVW2V9kaX75JbsTB7TLB1ULQ8UVBYpmiqWYWO6IEsDYb-Y34PqVd30ssu-xsJ3eZSIGpq4iAV9mEMAwfeN1JZ&new=1)
+ ## [乐视电视强植开机广告不可关闭，江苏消保委提公益诉讼](http://mp.weixin.qq.com/s?src=11&timestamp=1578961804&ver=2095&signature=Zey0Z9Gbeq7CEw9YgZLb7h685oUaQ*KtpZ1IMXPbNucsVW2V9kaX75JbsTB7TLB1GbchSxSxjf2AuDEWu-Yx8LdzJydx39T3FD7Q2--sGMAG7B97DnYIgMfbnNBN0RX6&new=1)
  > 针对乐视品牌智能电视强行植入开机广告且不可关闭，涉嫌侵犯消费者权益问题，江苏省消费者权益保护委员会（下简称“江苏省消保委”）出手，提起了消费民事公益诉讼。记者从江苏省消保委获悉，该公益诉讼于2019年...
- ## [各国美化基站长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1578960004&ver=2095&signature=QnN6kt9u6FpM2C6BaoaJSWT20EJbLv121KVGYT7WSJbAWKKoVe4TjfZGKMM-UrXvTtcTpwR2U0pVHg50dVrvloYChRLL5kKqcJQ3HwKvSdyk5yomh6h1vKytLORM1zUf&new=1)
- > 随着移动通信技术不断发展，2G、3G、4G和5G网络不断叠加，基站越来越多，基站上的设备和天线也越来越多，这给城市环境带来了越来越大的压力。为了避免影响市容，基站开始与周边环境融为一体，变得越来越美。今天...
- ## [中国广电网络换帅!宋起柱接棒赵景春任董事长，5G时代新改革动作可期](http://mp.weixin.qq.com/s?src=11&timestamp=1578960004&ver=2095&signature=wDz80EYieiahMKlld0*pW0YVvkNbut-7jzHs6QMR4g27F9gq4D*PrkC693LdiR2fp1LEf7yDJIRc2DSOubvJ5b7LsKF7EStThMHi4WauVst0z0fy9YOvFA*G28ajrmYd&new=1)
+ ## [中国广电网络换帅!宋起柱接棒赵景春任董事长，5G时代新改革动作可期](http://mp.weixin.qq.com/s?src=11&timestamp=1578961804&ver=2095&signature=wDz80EYieiahMKlld0*pW0YVvkNbut-7jzHs6QMR4g27F9gq4D*PrkC693LdiR2fvEOf5Sy9gPLhReuQ*04UuGcFeZhVQEhM7AbKIxesytmtlPOuSoN2j91VdQDgFrm4&new=1)
  > 13日上午，原湖北省通信管理局局长、党组书记宋起柱接替赵景春，担任中国广播电视网络有限公司董事长。宋起柱（资料图）公开资料显示，宋起柱毕业于北京邮电大学，博士学位，曾任国家无线电监测中心副主任、国家...
- ## [曝2020年财经TMT“领秀榜”获奖名单 看完后你会肃然起敬](http://mp.weixin.qq.com/s?src=11&timestamp=1578960004&ver=2095&signature=pgM4x8AkYDIwKxM2n20ubuf0OOS595rpJKd-wbSJWJuDtCh*eWJWm4nkU-Jx3O7ssLkSScg0AbDKqQ8RVUlJnjQnIkVZ6bFp*JGHYYtjitbnjpjmw2V5NBsY7C6zQUAK&new=1)
+ ## [2019，通信人的江湖，讲了哪些故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1578961804&ver=2095&signature=YmtjRmOyYn6B2N3fTDegYx8JM-R1kGxU2uZcIxVjBt7bwCJVRd90EJpXqQyMyqHAvmeRNfuKqP0m8GHTwliV7j8dzfbOxR6h1DNf6IAkXGAi3mnPtmTsOeEFOY-BiTqW&new=1)
+ > 【摘要】对于通信人来说，这一年有难到想哭的时候，也有值得欢呼的时候，是时候，简单回顾下了——| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：归田杂谈投稿邮箱：631255063@qq.com岁月不居 时节如流...
+ ## [各国美化基站长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1578961804&ver=2095&signature=QnN6kt9u6FpM2C6BaoaJSWT20EJbLv121KVGYT7WSJbAWKKoVe4TjfZGKMM-UrXvYgbxWOmkMc7ZFu*XbeEDmaqMK0KKEy4WbnZ*ZJH12H99rYltyJgYxVJISILCzgBa&new=1)
+ > 随着移动通信技术不断发展，2G、3G、4G和5G网络不断叠加，基站越来越多，基站上的设备和天线也越来越多，这给城市环境带来了越来越大的压力。为了避免影响市容，基站开始与周边环境融为一体，变得越来越美。今天...
+ ## [曝2020年财经TMT“领秀榜”获奖名单 看完后你会肃然起敬](http://mp.weixin.qq.com/s?src=11&timestamp=1578961804&ver=2095&signature=pgM4x8AkYDIwKxM2n20ubuf0OOS595rpJKd-wbSJWJuDtCh*eWJWm4nkU-Jx3O7syhK7D8kh559WVRMstEeBXlhz2BWUsNxA1uWz8lbHyQFh*X698auB63Hy98OaYi6U&new=1)
  > 1月12日，由运营商财经网主办的2020年财经TMT“领秀榜”盛典在京正式召开，会上，颁发了2020年财经TMT“领秀榜”获奖企业名单。这些获奖企业一半以上是三大运营商及各省公司、专业公司、地市分公司、业务基地。...
 # IT 技术 
+ ## [细说.NET的七种缓存](http://developer.51cto.com/art/202001/609309.htm)
+ > 细说.NET的七种缓存
  ## [【大咖来了 第10期】零门槛构建弹性大数据云分析平台](http://ai.51cto.com/art/202001/609310.htm)
  > 【大咖来了 第10期】零门槛构建弹性大数据云分析平台
  ## [如果构建支持百万并发量的企业级聊天架构](http://developer.51cto.com/art/202001/609258.htm)
@@ -31,32 +33,40 @@ categories: IT NEWS
  > 如何使用Osquery在Linux上监控文件完整性？
  ## [20年前偷懒修复的千年虫bug归来 程序员：该来的总会来](http://news.51cto.com/art/202001/609256.htm)
  > 20年前偷懒修复的千年虫bug归来 程序员：该来的总会来
- ## [阿里资深Leader：组建技术团队的一些思考](http://news.51cto.com/art/202001/609244.htm)
- > 阿里资深Leader：组建技术团队的一些思考
- ## [HI3559学习（四）-- YOLOV3实时识别](https://blog.csdn.net/yunge812/article/details/103938693)
- > HI3559学习（四）-- YOLOV3实时识别
- ## [TCP/IP卷一:38---单播、任播、组播、广播总体概述](https://blog.csdn.net/qq_41453285/article/details/103959757)
- > TCP/IP卷一:38---单播、任播、组播、广播总体概述
- ## [伴随你成长的“咒语”：​简单胜于复杂？](https://blog.csdn.net/duxinshuxiaobian/article/details/103955133)
- > 伴随你成长的“咒语”：​简单胜于复杂？
+ ## [Python重要的5大功能，​要是能早点了解就好了！](http://developer.51cto.com/art/202001/609314.htm)
+ > 即使你是一名从其他语言转换过来的程序员，用更加抽象的Python编写代码对你来说也绝对是一次不同的体验。为
+ ## [物联网改善动物生活的6种方式](http://iot.51cto.com/art/202001/609313.htm)
+ > 物联网改变了人类互动和生存的方式，但人类并不孤独。这里有6个动物如何获得物联网好处的例子。
+ ## [从通信到控制：保护物联网设备的十大策略](http://iot.51cto.com/art/202001/609312.htm)
+ > 总部位于俄亥俄州的网络安全服务公司（Cyber Security Services）发布了其十大战略清单，以供组织保护其脆
+ ## [2020年5大物联网挑战和机遇](http://iot.51cto.com/art/202001/609311.htm)
+ > 物联网（IoT）现已成为工业技术对话的重要组成部分。尽管如此，人们对这项技术及其应用的热情并没有减弱。
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [SQL-小白最佳入门sql查询一](https://blog.csdn.net/youku1327/article/details/102979381)
+ > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [\[享学Jackson\] 十、jackson-databind序列化之ObjectMapper序列化原理、匹配序列化器原理](https://blog.csdn.net/f641385712/article/details/103865114)
- > \[享学Jackson\] 十、jackson-databind序列化之ObjectMapper序列化原理、匹配序列化器原理
- ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [结构体与指针（一）](https://blog.csdn.net/ZackSock/article/details/103023991)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [TCP/IP卷一:37---ICMP之（与ICMP相关的攻击）](https://blog.csdn.net/qq_41453285/article/details/103959098)
+ > TCP/IP卷一:37---ICMP之（与ICMP相关的攻击）
+ ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
  > 
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
+ ## [操作系统（15）-Linux的用户权限](https://blog.csdn.net/m0_37609579/article/details/103132000)
+ > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ ## [【技巧总结】位运算装逼指南](https://blog.csdn.net/m0_37907797/article/details/103120886)
  > 
- ## [通俗易懂地给女朋友讲：线程池的内部原理](https://blog.csdn.net/heihaozi/article/details/102882698)
- > 通俗易懂地给女朋友讲：线程池的内部原理
  ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
  > 是的，华为也有扫地僧！2020年2月11-12日，“养在深闺人不知”的华为2012实验室扫地僧们，将在华为开发者大会2020（Cloud）上，和大家见面。到时，你可以和扫地僧们，吃一个洋...
  ## [DQN 自主学习玩转 AI 俄罗斯方块](https://blog.csdn.net/csdnnews/article/details/103966443)
@@ -68,37 +78,39 @@ categories: IT NEWS
  ## [阿里云、腾讯云、UCloud 、华为云云主机对比测试报告](https://blog.csdn.net/csdnnews/article/details/103966819)
  > 在2020年初之际，国内专业的云资源选型服务平台CloudBest旗下监测实验室，针对业界4家主流的云服务提供商，包括阿里云、腾讯云、UCloud与华为云进行了横向评测。本次测试在尽量保...
 # 人工智能 
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [数据结构与算法分析（第一周）](https://blog.csdn.net/qq_45899209/article/details/103944728)
- > 数据结构与算法分析（第一周）
- ## [《计算机网络》 第一章  计算机网络体系结构](https://blog.csdn.net/Rhao999/article/details/103944650)
- > 《计算机网络》 第一章  计算机网络体系结构
- ## [大学两年，写了这篇几十万字的干货总结](https://blog.csdn.net/hebtu666/article/details/103438056)
+ ## [【python】web网络请求学习](https://blog.csdn.net/uk_51/article/details/89061304)
+ > 【python】web网络请求学习
+ ## [VSCode详细使用教程](https://blog.csdn.net/weixin_45601379/article/details/100550421)
+ > VSCode详细使用教程
+ ## [JS中的this指向情况汇总](https://blog.csdn.net/a715167986/article/details/100666116)
+ > JS中的this指向情况汇总
+ ## [关于全栈项目【臻美短视频】总结](https://blog.csdn.net/qq_39045645/article/details/100151993)
+ > 关于全栈项目【臻美短视频】总结
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
  > 
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
- > 
- ## [相见恨晚的超实用网站](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 相见恨晚的超实用网站
- ## [【操作系统】 Operation System 第三章：连续式内存分配](https://blog.csdn.net/iwanderu/article/details/103934647)
- > 【操作系统】 Operation System 第三章：连续式内存分配
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
- ## [北邮计院复试攻略](https://blog.csdn.net/dongtinglu/article/details/103939375)
- > 北邮计院复试攻略
- ## [写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』](https://blog.csdn.net/m0_37907797/article/details/102885087)
- > 写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』
- ## [CSDN：2019年度CSDN博客之星评选竞赛——105号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！](https://blog.csdn.net/qq_41185868/article/details/103920300)
- > CSDN：2019年度CSDN博客之星评选竞赛——105号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！
- ## [初识C语言](https://blog.csdn.net/weixin_43831728/article/details/103935955)
- > 初识C语言
- ## [回顾2019，展望2020](https://blog.csdn.net/weixin_45490023/article/details/103942973)
- > 回顾2019，展望2020
- ## [为了更好的读源码，你必须搞定这些java基础知识！（位运算，进制转换和原码，反码和补码）](https://blog.csdn.net/sinat_33921105/article/details/103942264)
- > 
+ ## [推荐几个非常不错的富文本编辑器](https://blog.csdn.net/qq_38200194/article/details/100129740)
+ > 推荐几个非常不错的富文本编辑器
+ ## [八斗大数据十](https://blog.csdn.net/JggAkk/article/details/84107506)
+ > 八斗大数据十
+ ## [Echarts用到的一些配置项](https://blog.csdn.net/u012720337/article/details/83650489)
+ > Echarts用到的一些配置项
+ ## [Proxy error: Could not proxy request /api2/users/login from localhost:8080 to localhost:3000 (ENOTFO](https://blog.csdn.net/Reagan_/article/details/97498160)
+ > Proxy error: Could not proxy request /api2/users/login from localhost:8080 to localhost:3000 (ENOTFO
+ ## [jquery ajax格式](https://blog.csdn.net/cyycaoyang/article/details/51321510)
+ > jquery ajax格式
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [vue spa项目转服务器渲染](https://blog.csdn.net/developer_qi/article/details/96769840)
+ > vue spa项目转服务器渲染
+ ## [用h5video和h5stream实现监控视频的播放--rtsp流](https://blog.csdn.net/Lemontree_fu/article/details/100591814)
+ > 用h5video和h5stream实现监控视频的播放--rtsp流
+ ## [如何绕过：浏览器调试的时候进入Paused in debugger的状态](https://blog.csdn.net/qq_37462361/article/details/100934355)
+ > 如何绕过：浏览器调试的时候进入Paused in debugger的状态
+ ## [VSCode 使用教程--编写调试C/C++程序](https://blog.csdn.net/qq_39552181/article/details/90726407)
+ > VSCode 使用教程--编写调试C/C++程序
 # PM 
+ ## [线上课程 | 从传统行业转岗产品经理，她拿到年薪18万+offer](http://www.woshipm.com/online/3320627.html)
+ > 很多毕业1-2年的同学都会问：“没有互联网行业的工作经验，还有希望转产品经理吗？”答案是肯定的。大家好，我是小雅，趁着拿到offer的热乎劲，今天来分享一下我转岗...
  ## [用户体验设计之路（一）我们不是作图仔](http://www.chanpin100.com/article/110560)
  > 嗨，你在别人眼中是“作图仔”么？
  ## [累死你的不是工作，而是工作方式](http://www.chanpin100.com/article/110556)
