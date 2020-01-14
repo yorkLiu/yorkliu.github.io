@@ -1,7 +1,7 @@
 ---
 title: 2020-01-14 IT News
 copyright: true
-date: 2020-01-14 10:00:51
+date: 2020-01-14 12:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -61,55 +61,55 @@ B&#31449;2019&#24180;&#39740;&#30044;&#21306;&#24180;&#32456;&#30424;&#28857;&#6
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [乐视电视强植开机广告不可关闭，江苏消保委提公益诉讼](http://mp.weixin.qq.com/s?src=11&timestamp=1578965405&ver=2095&signature=Zey0Z9Gbeq7CEw9YgZLb7h685oUaQ*KtpZ1IMXPbNucsVW2V9kaX75JbsTB7TLB1Nc8DfZ9OnjazJ4OF4eP2LHABUECkPfJwbElJZg00FVcTUpLo6wQD8*B0tG0aOrZK&new=1)
- > 针对乐视品牌智能电视强行植入开机广告且不可关闭，涉嫌侵犯消费者权益问题，江苏省消费者权益保护委员会（下简称“江苏省消保委”）出手，提起了消费民事公益诉讼。记者从江苏省消保委获悉，该公益诉讼于2019年...
- ## [各国美化基站长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1578965405&ver=2095&signature=QnN6kt9u6FpM2C6BaoaJSWT20EJbLv121KVGYT7WSJbAWKKoVe4TjfZGKMM-UrXv4YiTaBU8DP*lUARR3ckT48e5IFgjI6XisCqKibc1dseYD-pgSSyVAEAilZj6O9vR&new=1)
- > 随着移动通信技术不断发展，2G、3G、4G和5G网络不断叠加，基站越来越多，基站上的设备和天线也越来越多，这给城市环境带来了越来越大的压力。为了避免影响市容，基站开始与周边环境融为一体，变得越来越美。今天...
- ## [中国广电网络换帅!宋起柱接棒赵景春任董事长，5G时代新改革动作可期](http://mp.weixin.qq.com/s?src=11&timestamp=1578965405&ver=2095&signature=wDz80EYieiahMKlld0*pW0YVvkNbut-7jzHs6QMR4g27F9gq4D*PrkC693LdiR2fbDugDNRaZm0bE9swVlYVOnMF*GvmwXZn7h**e39fode3p-ssPaxuXCDnDahC0AK3&new=1)
- > 13日上午，原湖北省通信管理局局长、党组书记宋起柱接替赵景春，担任中国广播电视网络有限公司董事长。宋起柱（资料图）公开资料显示，宋起柱毕业于北京邮电大学，博士学位，曾任国家无线电监测中心副主任、国家...
- ## [会员动态|美国Inphi COLORZ100G硅光模块出货量突破10万只](http://mp.weixin.qq.com/s?src=11&timestamp=1578965405&ver=2095&signature=FuFxWrS*u2M7gX2UFpaGlk7klqfZQrI3Ug0gZ8QmdLsUQdI7s3Rtpg1QLLtdf5zUQtSG2W68MMLXd*tqprH3oiA0Xbg-sVvdeYtLOjLJ4np3lsrE6*UKLY8b6Wr7B38m&new=1)
+ ## [会员动态|美国Inphi COLORZ100G硅光模块出货量突破10万只](http://mp.weixin.qq.com/s?src=11&timestamp=1578972604&ver=2095&signature=FuFxWrS*u2M7gX2UFpaGlk7klqfZQrI3Ug0gZ8QmdLusVrN33jlJ10YCtp7auh1MO3XjmajLX6xqmo6YmcFlNKwz3LepD4fHDrNSWunYHgX*boNj-toWD*aJGOiUzJsZ&new=1)
  > 导读：讯石会员美国Inphi宣布COLORZ光模块出货量超过10万只，这进一步扩大公司在数据中心互连市场中的领导地位。COLORZ是业界首款最低功耗和最具成本效益的100G硅光PAM4平台解决方案，采用QSFP28封装，可支持80...
- ## [曝2020年财经TMT“领秀榜”获奖名单 看完后你会肃然起敬](http://mp.weixin.qq.com/s?src=11&timestamp=1578965405&ver=2095&signature=pgM4x8AkYDIwKxM2n20ubuf0OOS595rpJKd-wbSJWJuDtCh*eWJWm4nkU-Jx3O7slfmY*bH5AOuVnzWo6RfhMS6p3eQx9rL0KRX-84LVousaDSipQma6Vx3PW6THENKr&new=1)
+ ## [各国美化基站长啥样?](http://mp.weixin.qq.com/s?src=11&timestamp=1578972604&ver=2095&signature=QnN6kt9u6FpM2C6BaoaJSWT20EJbLv121KVGYT7WSJZ8XtiMoKh-cIJ-dkjcbkUmuT1QdfI21oTj6eAhOzQV8lovl6cI4PffvFHfdFLcOkFOn*e0uqgBXFk8JDIj0F-z&new=1)
+ > 随着移动通信技术不断发展，2G、3G、4G和5G网络不断叠加，基站越来越多，基站上的设备和天线也越来越多，这给城市环境带来了越来越大的压力。为了避免影响市容，基站开始与周边环境融为一体，变得越来越美。今天...
+ ## [乐视电视强植开机广告不可关闭，江苏消保委提公益诉讼](http://mp.weixin.qq.com/s?src=11&timestamp=1578972604&ver=2095&signature=Zey0Z9Gbeq7CEw9YgZLb7h685oUaQ*KtpZ1IMXPbNuf*53A-cFMFmGWQo-FLFquDMfJD7cji61ZoF8kSHuM8LAd4GB00*z7*05aJACxdJX8JSMFtnkU2M16IJ-1-YemE&new=1)
+ > 针对乐视品牌智能电视强行植入开机广告且不可关闭，涉嫌侵犯消费者权益问题，江苏省消费者权益保护委员会（下简称“江苏省消保委”）出手，提起了消费民事公益诉讼。记者从江苏省消保委获悉，该公益诉讼于2019年...
+ ## [曝2020年财经TMT“领秀榜”获奖名单 看完后你会肃然起敬](http://mp.weixin.qq.com/s?src=11&timestamp=1578972604&ver=2095&signature=pgM4x8AkYDIwKxM2n20ubuf0OOS595rpJKd-wbSJWJsUxlixXQ2Z6wPRF5oSbQFQZczcRZk2bf5EELQcAs*sm8FL8FfH7KmaiyvLg4oMZhg6zKljNqiGtJm3Xn4SyIkv&new=1)
  > 1月12日，由运营商财经网主办的2020年财经TMT“领秀榜”盛典在京正式召开，会上，颁发了2020年财经TMT“领秀榜”获奖企业名单。这些获奖企业一半以上是三大运营商及各省公司、专业公司、地市分公司、业务基地。...
- ## [2019，通信人的江湖，讲了哪些故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1578965405&ver=2095&signature=YmtjRmOyYn6B2N3fTDegYx8JM-R1kGxU2uZcIxVjBt7bwCJVRd90EJpXqQyMyqHAl0ONHXPVmzfm18*eL135ME9b8SnVO1HVA387lH4c-NLXm31xQ4WJ-WGIxWl91xH4&new=1)
+ ## [中国广电网络换帅!宋起柱接棒赵景春任董事长，5G时代新改革动作可期](http://mp.weixin.qq.com/s?src=11&timestamp=1578972604&ver=2095&signature=wDz80EYieiahMKlld0*pW0YVvkNbut-7jzHs6QMR4g2qzLrAH9WfgGz5Hf8Rb1PmNhaP3pepLENXTTz6yFiS-hIiDPwwS4xxyCHfN14EsYxLqwbCLLZDl9E75sjsBgsf&new=1)
+ > 13日上午，原湖北省通信管理局局长、党组书记宋起柱接替赵景春，担任中国广播电视网络有限公司董事长。宋起柱（资料图）公开资料显示，宋起柱毕业于北京邮电大学，博士学位，曾任国家无线电监测中心副主任、国家...
+ ## [2019，通信人的江湖，讲了哪些故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1578972604&ver=2095&signature=YmtjRmOyYn6B2N3fTDegYx8JM-R1kGxU2uZcIxVjBt6n6gipuNYO8EI4Y6oKXptk49bM330*W8H3CCrmJ5GAEJrArJ8I*21lYO9sgV7Ac05xtli3XFolIywx7o1hEQcQ&new=1)
  > 【摘要】对于通信人来说，这一年有难到想哭的时候，也有值得欢呼的时候，是时候，简单回顾下了——| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：归田杂谈投稿邮箱：631255063@qq.com岁月不居 时节如流...
 # IT 技术 
+ ## [一杯茶的时间，上手Zabbix](http://netsecurity.51cto.com/art/202001/609326.htm)
+ > 一杯茶的时间，上手Zabbix
+ ## [七种可能改变IT的“疯狂”技术](http://news.51cto.com/art/202001/609342.htm)
+ > 七种可能改变IT的“疯狂”技术
  ## [不是高级码农也没事，五招帮您提高网站性能](http://developer.51cto.com/art/202001/609308.htm)
  > 不是高级码农也没事，五招帮您提高网站性能
+ ## [全球最“贵”数据保护法案CCPA生效十天后，哪些影响值得关注？](http://zhuanlan.51cto.com/art/202001/609337.htm)
+ > 全球最“贵”数据保护法案CCPA生效十天后，哪些影响值得关注？
+ ## [2020年十大网络安全预测，出现民族国家威胁](http://netsecurity.51cto.com/art/202001/609315.htm)
+ > 2020年十大网络安全预测，出现民族国家威胁
  ## [细说.NET的七种缓存](http://developer.51cto.com/art/202001/609309.htm)
  > 细说.NET的七种缓存
+ ## [再见Windows 7！微软正式停止Windows 7操作系统更新](http://os.51cto.com/art/202001/609325.htm)
+ > 再见Windows 7！微软正式停止Windows 7操作系统更新
  ## [【大咖来了 第10期】零门槛构建弹性大数据云分析平台](http://ai.51cto.com/art/202001/609310.htm)
  > 【大咖来了 第10期】零门槛构建弹性大数据云分析平台
- ## [如果构建支持百万并发量的企业级聊天架构](http://developer.51cto.com/art/202001/609258.htm)
- > 如果构建支持百万并发量的企业级聊天架构
- ## [2019年ML & NLP领域的十大研究热点](http://news.51cto.com/art/202001/609281.htm)
- > 2019年ML &amp; NLP领域的十大研究热点
- ## [每张图片自带BGM？牛津小哥开源神器，实现任意图像转换声谱图](http://news.51cto.com/art/202001/609282.htm)
- > 每张图片自带BGM？牛津小哥开源神器，实现任意图像转换声谱图
- ## [腾讯万亿级日志量下，ES如何做到秒级响应？](http://developer.51cto.com/art/202001/609241.htm)
- > 腾讯万亿级日志量下，ES如何做到秒级响应？
- ## [如何使用Osquery在Linux上监控文件完整性？](http://os.51cto.com/art/202001/609160.htm)
- > 如何使用Osquery在Linux上监控文件完整性？
- ## [Windows 7停更：Win 10再香，仍有近5亿人“死守”Win 7](http://os.51cto.com/art/202001/609323.htm)
- > 微软正式停止了对Windows 7系统的更新维护服务。服务停止后，微软不会再对Windows 7有相关的技术支持、软件
- ## [澳洲大火募捐平台遭黑客入侵，网络现在有多不安全？](http://netsecurity.51cto.com/art/202001/609321.htm)
- > ​从 2019 年 9 月开始至今，一场持续了 100 多天的大火一直在澳大利亚的土地上肆虐，2 万多只考拉在
- ## [深入理解Nginx及使用Nginx实现负载均衡](http://developer.51cto.com/art/202001/609322.htm)
- > 正向代理是代理客户端，也就是客户端能真正接触到的，比如访问外网时需要使用VPN软件，在这个软件中用户可
- ## [很全的Tomcat实战调优方案，提升性能必备](http://server.51cto.com/sOS-609320.htm)
- > Tomcat的默认配置，性能并不是最优的，我们可以通过优化tomcat以此来提高网站的并发能力。提高Tomcat的性能
- ## [2020 年值得关注的 5 个 Kubernetes 趋势](http://news.51cto.com/art/202001/609318.htm)
- > 随着 Kubernetes 的采用率不断增长，IT 领域在接下来的这一年里应当关注什么？
- ## [浅析基于 Serverless 的前后端一体化框架](http://server.51cto.com/sOS-609319.htm)
- > Serverless 是一种“无服务器架构”模式，它无需关心程序运行环境、资源及数量，只需要将精力聚焦到业务逻
- ## [每个极客都应该知道的Linux技巧!](http://os.51cto.com/art/202001/609317.htm)
- > 如果你想提高效率而又不用做这些搜集资料的跑腿活儿，那我们已经收集了20多条简单易学的Linux技巧，以帮助
- ## [2020年SD-branch的七个关键发展](http://network.51cto.com/art/202001/609316.htm)
- > 软件定义的分支(SD-branch)技术可以为部署速度、操作简便性和成本方面提供显著优势。到2020年，提供SD-bran
- ## [2020年十大网络安全预测](http://netsecurity.51cto.com/art/202001/609315.htm)
- > 当审视2020年网络安全预测时，我们会看到好消息和坏消息。首先，坏消息是：现有威胁将进一步恶化，并且将出
- ## [Python重要的5大功能，​要是能早点了解就好了！](http://developer.51cto.com/art/202001/609314.htm)
- > 即使你是一名从其他语言转换过来的程序员，用更加抽象的Python编写代码对你来说也绝对是一次不同的体验。为
+ ## [谷歌公布 iOS 12.4 漏洞详情：黑客可远程控制 iPhone](http://netsecurity.51cto.com/art/202001/609354.htm)
+ > 2019 年 7 月 22 日，苹果发布的 iOS 12. 4 版本修补了六个安全漏洞。当时，发现漏洞的研究员 Natalie Silv
+ ## [VR & AR 凉而复热了](http://mobile.51cto.com/vrar-609352.htm)
+ > 外媒 VentureBeat 记者 Jeremy Horwitz 亲临 CES 现场，经过一番考察，认为 AR、VR 仍有蓬勃发展之势。以下
+ ## [AMD速龙3000U揭秘：128SP、最小巧的Zen APU](http://biz.51cto.com/art/202001/609351.htm)
+ > CES 2020大会上，AMD 7nm工艺和Zen2架构的锐龙4000U/锐龙4000H系列、64核心128线程的撕裂者3990X都大出风
+ ## [IBM研究实验室开源SysFlow以应对云威胁](http://os.51cto.com/art/202001/609349.htm)
+ > IBM研究实验室近日宣布发布开源安全工具包SysFlow，用于查找云和容器环境中的漏洞。SysFlow旨在解决网络保
+ ## [Intel十代酷睿桌面版集中曝光：i3超越七代i7](http://biz.51cto.com/art/202001/609348.htm)
+ > CES 2020上我们听说了十代酷睿移动高性能版Comet Lake-H，甚至是下一代10nm Tiger Lake，但唯独没有面向桌
+ ## [SSD为什么越用越慢？答案来了](http://biz.51cto.com/art/202001/609346.htm)
+ > 1月14日，Intel官微又双来科普了。此次科普的问题时：“有很多小伙伴发现SSD会越用越慢，原因是什么?”In
+ ## [苹果悄悄下调了设备回收价格 但影响大吗](http://mobile.51cto.com/news-609344.htm)
+ > 「Apple Trade In 换购计划」是苹果推出的一项「以旧换新」活动，你可以用符合条件的设备来换购，并且在购
+ ## [通过超融合基础设施将人工智能推向边缘](http://ai.51cto.com/art/202001/609340.htm)
+ > 存储技术的破坏是持续不断的，超融合基础设施（HCI）市场也不例外。根据市场分析机构MarketsAndMarkets公司
+ ## [什么叫内存溢出？内存泄漏的定义又是什么？使用中如何避免？](http://stor.51cto.com/art/202001/609341.htm)
+ > 内存泄露是指无用对象(不再使用的对象)持续占有内存或无用对象的内存得不到及时释放，从而造成的内存空间的
+ ## [数据中心未来的六个转变](http://network.51cto.com/art/202001/609339.htm)
+ > 行业专家密切关注数据困境的各个方面，更深入地探讨特定的问题和主题。但是，企业需要为数据中心的变化以及
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
@@ -128,68 +128,92 @@ B&#31449;2019&#24180;&#39740;&#30044;&#21306;&#24180;&#32456;&#30424;&#28857;&#6
  > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [泛化能力](https://blog.csdn.net/qq_44587855/article/details/103930626)
- > 泛化能力
+ ## [Flask框架之操作session](https://blog.csdn.net/weixin_44733660/article/details/103964257)
+ > Flask框架之操作session
  ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
  > 
  ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
  > 
  ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
  > 是的，华为也有扫地僧！2020年2月11-12日，“养在深闺人不知”的华为2012实验室扫地僧们，将在华为开发者大会2020（Cloud）上，和大家见面。到时，你可以和扫地僧们，吃一个洋...
+ ## [Oracle 抄袭亚马逊的 API 是侵权吗？](https://blog.csdn.net/csdnnews/article/details/103966442)
+ > 那么，Oracle 侵犯了亚马逊的版权吗？作者|CHARLES DUAN译者 |弯月，责编 | Elle出品 | CSDN（ID：CSDNnews）以下为译文：美国最高法院将在今年...
  ## [DQN 自主学习玩转 AI 俄罗斯方块](https://blog.csdn.net/csdnnews/article/details/103966443)
  > 作者 |李秋键责编 |Elle出品 | CSDN（ID：CSDNnews）自从20世纪80年代以来，游戏AI产生巨大的变化，诞生了“自主思考型AI”,游戏中的NPC会在游戏中观察及分...
  ## [PHP 可能在未来十年内消失？](https://blog.csdn.net/csdnnews/article/details/103966816)
  > 犹记得，据 2001 年 7 月的 PHP 官方文档描述，“PHP 是有史以来最好的语言，没有之一。它快速，非常强大，而且免费。&quot;不过，随着时间的迭代，不少开发者发现所谓世界上最...
- ## [春节倒计时：过年回家的车票，你抢到了吗？](https://blog.csdn.net/csdnnews/article/details/103966439)
- > 还有一周，就是春节假期。你是否已经准备好返乡的车票？过年回家就是最美的旅行，不管此时离家有多远，不管此刻与家里的温差有多大，总有一种温暖等你回家。小编诚意推荐以下几个优质公众号能拓宽你的...
+ ## [我们教授编程的方式统统不对！](https://blog.csdn.net/csdnnews/article/details/103966438)
+ > 优秀的工程师都懂得如何与他人合作与交流，但是，我们培训了太多独来独往的程序员......作者 |Nathan Esquenazi译者 |弯月，责编 | 郭芮出品 | CSDN（ID：...
  ## [阿里云、腾讯云、UCloud 、华为云云主机对比测试报告](https://blog.csdn.net/csdnnews/article/details/103966819)
  > 在2020年初之际，国内专业的云资源选型服务平台CloudBest旗下监测实验室，针对业界4家主流的云服务提供商，包括阿里云、腾讯云、UCloud与华为云进行了横向评测。本次测试在尽量保...
+ ## [苹果官网以旧换新价格暴跌；戴威退出 ofo 法人代表及高管；TensorFlow 2.1.0 发布| 极客头条...](https://blog.csdn.net/csdnnews/article/details/103966434)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
 # 人工智能 
- ## [面试官：子线程 真的不能更新UI ？](https://blog.csdn.net/hfy8971613/article/details/103939085)
- > 面试官：子线程 真的不能更新UI ？
- ## [如何从头开始开发一个微信小程序（非云开发）](https://blog.csdn.net/love1793912554/article/details/103939222)
- > 如何从头开始开发一个微信小程序（非云开发）
- ## [Android studio 开发第一篇 APP项目创建](https://blog.csdn.net/Ace_bb/article/details/103933433)
- > Android studio 开发第一篇 APP项目创建
- ## [Android hardware按键触感功能实现](https://blog.csdn.net/sundesheng125/article/details/7450977)
- > Android hardware按键触感功能实现
- ## [kruskal](https://blog.csdn.net/ln2037/article/details/103940832)
- > kruskal
- ## [一、安卓系统架构全面分析](https://blog.csdn.net/weixin_38019025/article/details/103947480)
- > 一、安卓系统架构全面分析
- ## [Android Retrofit 源码系列（二）~ 自定义 CallAdapter](https://blog.csdn.net/johnny901114/article/details/103944895)
+ ## [一年看完64本书后最大的收获：读书无用](https://blog.csdn.net/maoyeqiu/article/details/103947817)
+ > 一年看完64本书后最大的收获：读书无用
+ ## [减少网络暴力，从你我他做起。](https://blog.csdn.net/weixin_44135121/article/details/103948757)
+ > 减少网络暴力，从你我他做起。
+ ## [实习中的程序员](https://blog.csdn.net/weixin_44519467/article/details/103942131)
+ > 实习中的程序员
+ ## [随便写写，随意聊聊](https://blog.csdn.net/li_wen01/article/details/103946280)
+ > 随便写写，随意聊聊
+ ## [学习路线](https://blog.csdn.net/qq_41523392/article/details/103934178)
+ > 学习路线
+ ## [程序员的天堂还是地狱：论东南亚博彩工厂](https://blog.csdn.net/MrCharles/article/details/103931784)
+ > 程序员的天堂还是地狱：论东南亚博彩工厂
+ ## [良心推荐，我珍藏的一些Chrome插件](https://blog.csdn.net/qq_34337272/article/details/103928638)
+ > 良心推荐，我珍藏的一些Chrome插件
+ ## [程序员必须关注的质量上乘的网站或论坛](https://blog.csdn.net/weixin_44793294/article/details/103934746)
+ > 程序员必须关注的质量上乘的网站或论坛
+ ## [今天一个大龄同事被辞退了，顿时让我思绪万千。程序员32岁是一个坎，大龄程序员的出路到底在哪？](https://blog.csdn.net/weixin_43570367/article/details/103913267)
  > 
- ## [React-Native 环境搭建和使用模拟器调试](https://blog.csdn.net/weixin_43835425/article/details/103947699)
- > React-Native 环境搭建和使用模拟器调试
- ## [电商项目功能实现思路加简易代码](https://blog.csdn.net/BadSuperman/article/details/103939344)
- > 电商项目功能实现思路加简易代码
- ## [【Linux驱动技巧篇】如何创建sysfs文件节点？](https://blog.csdn.net/crow_ch/article/details/103949177)
- > 【Linux驱动技巧篇】如何创建sysfs文件节点？
- ## [ios UITableView行内嵌横向UICollectionView](https://blog.csdn.net/qq_41586150/article/details/103936692)
- > ios UITableView行内嵌横向UICollectionView
- ## [FormLayoutManager -- 单方向滑动的recyclerview](https://blog.csdn.net/DNWalter/article/details/103926224)
- > FormLayoutManager -- 单方向滑动的recyclerview
- ## [Github Actions 使用指南和Android 持续集成示例](https://blog.csdn.net/xx326664162/article/details/103921480)
- > Github Actions 使用指南和Android 持续集成示例
- ## [Android广播基础详解-看完对广播有一个深入的理解](https://blog.csdn.net/qq_43139259/article/details/103932522)
- > Android广播基础详解-看完对广播有一个深入的理解
- ## [android--新闻阅读器实现源码](https://blog.csdn.net/qq_42363032/article/details/103933248)
- > android--新闻阅读器实现源码
+ ## [Effective STL第1条：慎重选择容器类型](https://blog.csdn.net/qq_41453285/article/details/103944370)
+ > Effective STL第1条：慎重选择容器类型
+ ## [《华为内训》](https://blog.csdn.net/cherishy_/article/details/103944513)
+ > 《华为内训》
+ ## [关于软件测试浅谈一下我的发展](https://blog.csdn.net/JimboYan/article/details/103948249)
+ > 关于软件测试浅谈一下我的发展
+ ## [互联网人每天要面对多少变态需求？](https://blog.csdn.net/xianaoshi/article/details/103900636)
+ > 
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [结婚这件大事](https://blog.csdn.net/FS1360472174/article/details/103933132)
+ > 结婚这件大事
 # PM 
- ## [流量稀缺时代，如何进行有效用户增长](http://www.woshipm.com/operate/3319989.html)
- > 在流量日渐昂贵的时代，身边产品、运营、市场等岗位同事，时常陷入焦虑，频繁提及用户增长，但是对于具体应该怎么做好用户增长，却苦于无从下手。本篇将结合笔者的实际...
- ## [关于有声文娱产品的产品发展规划](http://www.woshipm.com/pd/3315576.html)
- > 本文从市场调研、用户研究、产品方向、运营服务等角度，分享了关于有声文娱产品的产品发展规划，希望对你有所帮助。这篇内容是我在去年十月份完成的一份关于产品未来...
- ## [从5个方面聊聊，如何正确使用NPS？](http://www.woshipm.com/it/3315895.html)
- > NPS 是一个非常有用的工具，正确使用它能应用于业务增长，获得最大的收益。本文作者就如何正确使用NPS进行了分析总结，与大家分享。一、什么是 NPS？NPS（Net Promot...
- ## [知识星球产品分析报告：付费知识困局下如何破局](http://www.woshipm.com/evaluating/3314634.html)
- > 作者对知识星球进行了分析，通过多维度的体验分析阐述在知识付费大环境困顿的情况下，知识星球应该如何破局。一、体验环境设备：iPhone X操作系统：iOS 13.3体验...
- ## [微信、支付宝等9大主流平台小程序调研报告](http://www.woshipm.com/pd/3314276.html)
- > 2020年，小程序或许会成为下一个风口广场，这个风口不再是前几年非常爆发式的红利收割了，而是更聚焦于头部的几大互联网巨头的小程序之争了。一、调研背景及目的1.1 ...
- ## [手把手带你从零搭建人力资源系统（5）：劳动关系](http://www.woshipm.com/pd/3271105.html)
- > 本文将从人力资源管理六大模块之一的——劳动关系入手，结合企业管理过程中的实际情况浅谈劳动关系相关的全流程产品设计方案。首先我们来明确一下劳动关系相关的几个概...
- ## [线上课程 | 从传统行业转岗产品经理，她拿到年薪18万+offer](http://www.woshipm.com/online/3320627.html)
- > 很多毕业1-2年的同学都会问：“没有互联网行业的工作经验，还有希望转产品经理吗？”答案是肯定的。大家好，我是小雅，趁着拿到offer的热乎劲，今天来分享一下我转岗...
+ ## [瑞幸咖啡，并不是卖咖啡的！](http://www.woshipm.com/it/3320626.html)
+ > 本文将分析瑞幸咖啡是如何在一个传统领域、靠一套新的玩法、短时间打造出一套新的模式的。瑞幸一直是一家比较高调的企业。高调就会引起关注。关注就会有理解的、信任...
+ ## [2019微信年度数据报告的分析洞察](http://www.woshipm.com/evaluating/3310778.html)
+ > 上一篇写了2019抖音的年度数据分析，这几天微信又发布了2019年度数据，那么这次我们来看看从微信的年度数据报告又能有什么发现。01 微信月活跃用户我找到从2011年开...
+ ## [扒了16个APP的年度报告H5后，我发现这几点秘密](http://www.woshipm.com/pd/3315394.html)
+ > 本文分析了为什么是音乐APP首先推出年度报告？现在的年度报告都是怎么做的？年度报告的作用是什么？怎样做好一份年度报告？如果没记错，最开始做年度报告的APP应该是...
+ ## [内向性格的人，也可以做好产品经理](http://www.woshipm.com/pmd/3314039.html)
+ > 一般在我们的印象中，产品经理都是非常擅长表达沟通的人。性格内向的人似乎天生就被摈弃在行业外，事实真的是这样吗？如果你想成为产品经理，刚好你性格又内向，不妨读...
+ ## [一文了解 AI 商品模型训练平台](http://www.woshipm.com/ai/3320134.html)
+ > AI平台的初衷永远是提高开发效率，加快算法迭代周期。通过产品化AI技术，让运营人员能够更贴近技术，更好地指导赋能业务场景，给客户带来更好的技术体验和产品体验。...
+ ## [7个要点，认识母婴新零售](http://www.woshipm.com/newretail/3317044.html)
+ > 母婴新零售是什么？本文作者从七个方面对这一问题进行了解答，与大家分享。母婴行业这几年有个概念特别火，那就是新零售。可到底什么是新零售？跟母婴行业又有什么关...
+ ## [从产品视角看《佐藤可士和的超级整理术》](http://www.woshipm.com/pmd/3319143.html)
+ > 作者通读《佐藤可士和的超级整理术》一书，从产品经理的角度阐述其中的主要要点，与大家分享，希望能够在生活和工作中进行应用，将大有裨益。最近在整理电子书，准备...
+ ## [Google 是如何设计深色模式的？](http://www.woshipm.com/pd/3318213.html)
+ > 读完这篇 Google Dark Mode 的设计规范，你会知道为什么说很多 APP 的 Dark Mode 都是存在很大问题的，包括 beta 版微信和网易云音乐。如果读完之后你还对上句话存在怀...
+ ## [微博“撑腰”的绿洲，为什么做不起来？](http://www.woshipm.com/it/3296980.html)
+ > 在短视频、直播、音频这几类竞争激烈的内容领域中，绿洲避其锋芒，从图文社交做起无可厚非。不过，运营方式“简单粗暴”，并且和同为图文社交产品的小红书没多大差异，这...
+ ## [用这样的文案，让用户下单](http://www.woshipm.com/copy/3305008.html)
+ > 拿到什么样的文案，你愿意下单？针对这个问题，作者阐述了六种方法，一起来看文案如何激发购买欲望。在当今的社会环境下，每个人手里的钱是有限的。所以，在挑选商品...
+ ## [奶妈级教程｜如何做好数据分析前置工作](http://www.woshipm.com/data-analysis/3317995.html)
+ > 通过数据，可以发现许多深层的问题，从而优化产品决策。那么，怎么才能做好一次好的数据分析工作呢？作者详细阐述了数据分析的前置工作，提出了一些方法和建议。本文...
+ ## [下班前，请给我这100张原型图](http://www.chanpin100.com/article/110564)
+ > 前两天，设计圈火了，某CEO要求设计师一天之内完成150张设计图，引起了公愤，虽然我不是设计师，但产品经理也会遇到过类似的问题。
+ ## [【超全】2020年网页设计趋势预测，准不准，你说了才算！！！](http://www.chanpin100.com/article/110568)
+ > 【超全】2020年网页设计趋势预测，准不准，你说了才算！！！
+ ## [七步法则，从容应对老板期望“出尔反尔”](http://www.chanpin100.com/article/110566)
+ > 需求管理的本质，是期望管理。
+ ## [以场景赋能，破解拓客与留客焦虑，实现金融机构数字化转型](http://www.chanpin100.com/article/110567)
+ > 本文从场景思维入手，解析金融机构如何通过激活低频场景、“借力”高频场景破解拓客与留客焦虑
+ ## [产品经理项目实录：怎样从0到1做一款微信小程序（1）](http://www.chanpin100.com/article/110565)
+ > 万字长文解构微信小程序
+ ## [巧用技巧，提升B端产品粘性](http://www.chanpin100.com/article/110563)
+ > B端和C端都需要用户粘性
  ## [用户体验设计之路（一）我们不是作图仔](http://www.chanpin100.com/article/110560)
  > 嗨，你在别人眼中是“作图仔”么？
  ## [累死你的不是工作，而是工作方式](http://www.chanpin100.com/article/110556)
