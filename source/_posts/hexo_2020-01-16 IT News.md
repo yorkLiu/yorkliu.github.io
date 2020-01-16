@@ -1,7 +1,7 @@
 ---
 title: 2020-01-16 IT News
 copyright: true
-date: 2020-01-16 10:01:03
+date: 2020-01-16 12:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -63,19 +63,33 @@ POCT&#21270;&#23398;&#21457;&#20809;&#24179;&#21488;&#8220;&#22825;&#28145;&#213
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [造车公司开始集体对城市下手啦，他们怎么想的?](http://mp.weixin.qq.com/s?src=11&timestamp=1579140004&ver=2099&signature=hNB-nvSrWeeRZslsWJT4-7fHLwix7Ac2d3iCUclk3BwSSzfNXKwg9ZE7e*oRie8q7PTonRuOS-Y6*ZWxMFHI7dXjrQDQt*GPz7kxTWQ04vWBTpSmNA5QrxsaCPxo-x2Z&new=1)
+ ## [美国国家安全局NSA发现Windows 10重大漏洞 微软发补丁紧急修补](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=TyXN13HxhUG4UMUlK3jZy9LqWc71DzEuINUTni6My7m-uA-cm*MXOJpwC*fGy3uk*bVK43-l1Z0jLfWNTukU2FsARpjBWRbS77GvlpB5cfxfrt3BO2IGZYpNeKUQ3CIg&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       E安全1月15日讯，据外媒报道，美国国家安全局（NSA）发现Windows 10中存在一个严重漏洞CVE-2020-0601，该漏洞可能会使用户遭受监视或严重数据
+ ## [微信正灰度测试订阅号付费功能；特朗普要求解锁恐袭嫌犯 iPhone，苹果拒绝；华为 5G 手机出货量破 690 万|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=QTkvWkTM6B2zh1H5nwN6e9ZfB6klimIuBhFJn2vDfqs6FnWNVasVcOFe6uooneaQN4O3y0HrBfrKo7YIQOC7N227I0aQE6JdpXnZDtBOjfGne3QmBFBWTP6w6rOLKavm&new=1)
+ > 据介绍，运营者可在 1 到 208 元里的 35 个价格档位选择合适的定价，暂时不支持运营者自定义价格。订阅号付费内容支持 iOS 端与安卓端用户购买，iOS 端通过苹果 IAP 支付，安卓用户则通过微信支付进行付费。微信...
+ ## [全球80名增材制造大咖预测2020年3D打印趋势(一)](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=zAYgSdvnMFPFmFYLgXAdBt4zaOLFdgfrFjshVQ3knbAA04YUcXZ81hLQlkq7Eqg4NRklhtGSsDdl*2*hu8QmsOEsg1JIz8FJe0Xsoh1MU0tsYP7YuP4Wx*8*YB5I5Me6&new=1)
+ > 关注南极熊，知晓3D打印天下事马上要到2020年的春节了，相信作为3D打印从业者的你对于2020年3D打印行业的发展趋势一定非常关注，因为这可能关系到你的人生职业规划。2020年1月14日，南极熊注意到国外媒体邀请了8...
+ ## [2020北京部委央企及大型企业CIO年会成功召开 企业数字化转型白皮书同期发布](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=8AZPAS0jPF-5PadwYIyxE-Q-v4NG5SxpkRpI00NAyGOKAFYQ01wVoFxzQYqNbbwsXBjW3WazZF39xYrfNX26uiKOHEvksaa4yyuatPzSQc4bO54Yh6fv3vob9HbyTlMi&new=1)
+ > 关键讯息，D1时间送达！随着互联网主体逐渐渗透到企业和全产业链条、全生命周期，互联网对To B的革命正在拉开序幕。如何收获数字化红利实现升级转型，已经成为传统企业面对崭新数字经济的挑战和机遇。2020年北京...
+ ## [NGOF|中国联通沈世奎：5G前传技术及应用白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=4Of-xI0cwSaCQqmQz-9T5rdnkf2q150g6Nl*u4ZEizOxbq2JuLikA7Z6EAMtFvMHQUd33O6yMxgfGYksT3rumm5G8CwGo5pqyfAvyYGGIKob5d0**uI8nmf0Mvj4hefc&new=1)
+ > 导读：中国联通网络技术研究院高级工程师沈世奎发表了题为《5G前传技术及应用白皮书》的演讲，分析了5G网络的发展、5G前传需求、5G前传技术方案，前传网络建设与统一管控的应用建议与展望。ICCSZ讯 1月8日，协同...
+ ## [造车公司开始集体对城市下手啦，他们怎么想的?](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=hNB-nvSrWeeRZslsWJT4-7fHLwix7Ac2d3iCUclk3BwSSzfNXKwg9ZE7e*oRie8qZ4MjxlN77EmMzjg4S8OqsofQB5ZBDHmbMeBEx-ILVVzYTCAY8hbyA4um7bbsmKTm&new=1)
  > 在 CES 2020 上，「索尼造车」的新闻攫取了太多的关注，但让我觉得更酷的却是丰田的未来城市计划。他们将在位于富士山脚下的丰田汽车东富士工厂的土地上，建造一个名为「Woven City」、占地超过 1000 亩的「未来...
- ## [2019年全球半导体销售冠军宝座易主——](http://mp.weixin.qq.com/s?src=11&timestamp=1579140004&ver=2099&signature=qLx7wFEPnC-wZyoZlcPCs8BIu-bRFkfNEypEA10tZOXVh0ISyPfDEE84v8b7Ag20DQQlupHEECHJORoDlg6q5LdIav*so6ff6qQuDHG0OHg=&new=1)
+ ## [2019年全球半导体销售冠军宝座易主——](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=qLx7wFEPnC-wZyoZlcPCs8BIu-bRFkfNEypEA10tZOW-zl3fKTlx4j1oZEJj7Mrh4fOsdcSb*tLWUD4ZIDbW9TkFvzLEaRzwYS3nm5ktAFY=&new=1)
  > 参考消息网1月16日报道 日媒称，美国咨询公司高德纳（Gartner）1月14日发布了2019年的半导体厂商销售额排行榜，在2017～2018年连续排在榜首的韩国三星电子由于主力产品存储器的行情恶化而退居第2，美国英特尔时...
- ## [手机市场下行，荣耀份额上扬，2020年5G将主导市场变局](http://mp.weixin.qq.com/s?src=11&timestamp=1579140004&ver=2099&signature=7MAVHVBWxHcl3WEZOCAjuRGsVIuARXo11vvSyr1*L72LbbpgmSOfNIvYAuI5zK6qS9wYBLMt57WKTjnUJ3J3Ozt*CZN*Smo7cjAU7Z2b-nDNrRfljw4AVtDPgCIb5-Zl&new=1)
+ ## [手机市场下行，荣耀份额上扬，2020年5G将主导市场变局](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=7MAVHVBWxHcl3WEZOCAjuRGsVIuARXo11vvSyr1*L72LbbpgmSOfNIvYAuI5zK6qidwSqifGB23HLWjo6Ja0Geg1tqvUiFlsvAUJ7SnWn4V-qwAMqPv7QE8UUOcVvt-8&new=1)
  > 2019年已经过去，媒体评选这一年最核心的关键词就是“南”。对于中国手机行业来说，也是如此，数据表明，2019年中国手机市场大盘下滑10%，除了华为和荣耀之外的品牌大都有不同程度的下滑，据第三方调研机构GfK的...
- ## [特斯拉市值逼近1000亿美元丨诺基亚在芬兰裁员180人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1579140004&ver=2099&signature=b7j24lfaz9Lkx3SnuxMp9SkLv1s1LwejYLQV5PQX2*Dl6ThFAQgYIITKwFruHxao4f0tnaSBiqq1UnYpkx2oHI7XdmD1sfUVWT-BwfYA876wJ6y2cPozwypyHdpC32QR&new=1)
+ ## [特斯拉市值逼近1000亿美元丨诺基亚在芬兰裁员180人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=b7j24lfaz9Lkx3SnuxMp9SkLv1s1LwejYLQV5PQX2*Dl6ThFAQgYIITKwFruHxaotnBiye2Z8j58uHEzrS5Rbdz2pRWC0khtW9pCTQTD6*NnzAzEf4k*h0TInrI81Ml5&new=1)
  > 1月15日丨周三【Do说】编辑 | 赵艾虎特斯拉市值逼近1000亿美元，马斯克有望获得近10亿美元股票奖励据国外媒体报道，电动汽车厂商特斯拉的股价在周一大涨，市值已逼近1000亿美元，而根据此前的薪酬激励方案，特斯...
- ## [重磅!刚刚，中国联通推出5G+AI智能服务应用!](http://mp.weixin.qq.com/s?src=11&timestamp=1579140004&ver=2099&signature=zNDQR80mxnPZ35VcU9Ji87h0ZTwlGW8Gpc79xFTOIzpSvYrCRfmgxy*OMGEWWY1vQgkjM06eTmZD8-moi8SC-5A*4up*r8nEyhdG8tPlIf9VcW3nsHtLHl5ZzIkdiD3R&new=1)
+ ## [重磅!刚刚，中国联通推出5G+AI智能服务应用!](http://mp.weixin.qq.com/s?src=11&timestamp=1579147204&ver=2099&signature=zNDQR80mxnPZ35VcU9Ji87h0ZTwlGW8Gpc79xFTOIzpSvYrCRfmgxy*OMGEWWY1vbOYxePtq7Va*ktlqhXucTP8x56gqoBjpyo714L6dAMEZTIy-i8tiCoR-o1DSMcgn&new=1)
  > 随着5G套餐正式发布，与5G相关的业务也在陆续上线中。近日运营商情报记者发现，中国联通在“5G会员随心选权益专区”中免费推出了一款“沃留言”（AI助理）产品。据了解，这款产品可以帮助用户自动识别并智能化处...
 # IT 技术 
  ## [自古帝王多短命，假如皇帝也懂负载均衡算法...](http://developer.51cto.com/art/202001/609461.htm)
  > 自古帝王多短命，假如皇帝也懂负载均衡算法...
+ ## [如何通过AI和ML实现文档自动化](http://ai.51cto.com/art/202001/609396.htm)
+ > 如何通过AI和ML实现文档自动化
+ ## [在Kubernetes上实现无服务器的5种方法](http://server.51cto.com/Micro-609477.htm)
+ > 在Kubernetes上实现无服务器的5种方法
  ## [2019年这些美国公司为软件工程师开出的薪水最高](http://news.51cto.com/art/202001/609454.htm)
  > 2019年这些美国公司为软件工程师开出的薪水最高
  ## [机器学习如何推动数据中心发展？](http://server.51cto.com/Datacenter-609451.htm)
@@ -86,18 +100,26 @@ POCT&#21270;&#23398;&#21457;&#20809;&#24179;&#21488;&#8220;&#22825;&#28145;&#213
  > 如何在物联网的边缘计算中使用Kafka
  ## [人工智能还是人工智障？那些想不到的大型算法翻车现场](http://news.51cto.com/art/202001/609418.htm)
  > 人工智能还是人工智障？那些想不到的大型算法翻车现场
- ## [可现学现用的10个Python技巧](http://developer.51cto.com/art/202001/609366.htm)
- > 可现学现用的10个Python技巧
- ## [2019年世界各地具有里程碑意义的加密货币税收政策](http://blockchain.51cto.com/art/202001/609410.htm)
- > 2019年世界各地具有里程碑意义的加密货币税收政策
- ## [Windows 7退役，这些Linux发行版可以替代](http://os.51cto.com/art/202001/609464.htm)
- > Windows 7 已经正式退役，有些人不愿意放弃这一版本，同时疯狂吐槽目前的主流版本 Windows 10，但是安全问
- ## [Windows 7退役，这些Linux发行版可以替代](http://os.51cto.com/art/202001/609462.htm)
- > 不管怎样，这里推荐几款与 Windows 7 体验类似的 Linux 发行版，给大家多一些选择。
- ## [2020 云原生 7 大趋势预测](http://cloud.51cto.com/art/202001/609460.htm)
- > 过去的几年，是云原生技术和理念得到广泛接受的几年。在这个快速发展的领域，预测未来显得尤其困难，但是我
- ## [数据隐私不仅仅是指机密性](http://netsecurity.51cto.com/art/202001/609459.htm)
- > 考虑到数据使用的方式，我们需要将更多的精力放在保护数据的完整性和可用性上。
+ ## [详解Zookeeper的工作机制、数据结构、选举+监听机制、API应用](http://os.51cto.com/art/202001/609482.htm)
+ > 分布式和集中式系统相比，有很多优势，比如更强的计算能力，存储能力，避免单点故障等问题。但是由于在分布
+ ## [从SpringBoot构建十万博文聊聊缓存穿透，并发量过大该如何抗压？](http://stor.51cto.com/art/202001/609480.htm)
+ > 在博客系统中，为了提升响应速度，加入了 Redis 缓存，把文章主键 ID 作为 key 值去缓存查询，如果不存在对
+ ## [290家公司都在用的任务调度系统，还在Github上开源了](http://news.51cto.com/art/202001/609478.htm)
+ > 今天，和大家介绍一个轻量级分布式任务调度平台，开发迅速、学习简单、轻量级、易扩展，290家公司都在用。
+ ## [服务之间的调用为啥不直接用 HTTP 而用 RPC？](http://network.51cto.com/art/202001/609479.htm)
+ > RPC(Remote Procedure Call)―远程过程调用，它是一种通过网络从远程计算机程序上请求服务，而不需要了解底
+ ## [再见了，Windows 7时代！你的青春，属于哪个微软版本？](http://os.51cto.com/art/202001/609476.htm)
+ > 2009年7月14日，微软Windows 7操作系统正式开发完成，并于10月22日正式发布。昨天(1月14日)，微软公司正式
+ ## [如何使数据中心现代化以提高其可持续性](http://server.51cto.com/Datacenter-609474.htm)
+ > 网络连通性和数据处理如今驱动着现代经济的发展，对数字解决方案的需求不断增长。与此同时，人们对气候变化
+ ## [自动化将推动2020年的云治理](http://cloud.51cto.com/art/202001/609472.htm)
+ > 随着人们进入2020年，应该考虑云治理世界中的未来发展。似乎可以肯定的是，在IT治理方面，仍然需要在分散化
+ ## [受”误解“的Java AIO](http://developer.51cto.com/art/202001/609475.htm)
+ > 为什么说 AIO 受”误解“，虽然这个”误解“被打上了双引号，但还是不得不承认它的发展状况并不好。AIO 是
+ ## [苹果开始反击：硬怼美国总统 要为解锁iPhone打官司](http://news.51cto.com/art/202001/609467.htm)
+ > 据外媒报道称，苹果正在准备与美国联邦调查局（FBI）进行一场法律战，原因是FBI要求苹果帮助他们破解破解彭
+ ## [从STGW流量下降探秘内核收包机制](http://zhuanlan.51cto.com/art/202001/609469.htm)
+ > 在STGW现网运营中，出现了一起流量突然下降的Case，此时我们的健康拨测机制探测到失败，并且用户侧重试次数
  ## [走进高并发（二）Java并行程序基础](https://blog.csdn.net/Lammonpeter/article/details/103196807)
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
@@ -106,16 +128,18 @@ POCT&#21270;&#23398;&#21457;&#20809;&#24179;&#21488;&#8220;&#22825;&#28145;&#213
  > 
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
+ ## [剑指Offer对答如流系列 - 斐波那契数列](https://blog.csdn.net/qq_42322103/article/details/103995056)
+ > 剑指Offer对答如流系列 - 斐波那契数列
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [【技巧总结】位运算装逼指南](https://blog.csdn.net/m0_37907797/article/details/103120886)
- > 
+ ## [LVS负载均衡——基础原理](https://blog.csdn.net/ML908/article/details/103990711)
+ > LVS负载均衡——基础原理
  ## [Mybatis学习（2）史上最全的 自定义mybatis](https://blog.csdn.net/weixin_43570367/article/details/103244430)
  > 
- ## [走进Golang之运行与Plan9汇编](https://blog.csdn.net/hel12he/article/details/103271937)
+ ## [redis使用工具类](https://blog.csdn.net/weixin_42505835/article/details/103993868)
+ > redis使用工具类
+ ## [【技巧总结】位运算装逼指南](https://blog.csdn.net/m0_37907797/article/details/103120886)
  > 
- ## [Codeforces 1288E Messenger Simulator（BIT）](https://blog.csdn.net/qq_45228537/article/details/103995558)
- > Codeforces 1288E Messenger Simulator（BIT）
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
@@ -138,55 +162,85 @@ POCT&#21270;&#23398;&#21457;&#20809;&#24179;&#21488;&#8220;&#22825;&#28145;&#213
  > 说起优秀程序员的必备技能，我想大家都可以说很多，比如：数据结构、算法、数学、编程语言等等。但是，你可能会忽略了每一个程序员都应该掌握的技能：Linux。想一想，我们日常学习、求职、工作场...
  ## [程序员构建总是出问题，怎么办？](https://blog.csdn.net/csdnnews/article/details/103998390)
  > 构建这一问题，到底是哪个环节出了 Bug？作者 |Gilad Bracha译者 |弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：我总是听到程序员谈论构建...
+ ## [微信可直接转账到 QQ；小米联合中国联通推出当前最便宜 5G 套餐；Git 2.25.0 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103998393)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
 # 人工智能 
- ## [oracle 获取第一条数据](https://blog.csdn.net/laybarbarian/article/details/97766751)
- > oracle 获取第一条数据
- ## [Navicat 连接 docker 容器mysql 报1251错误 解决办法](https://blog.csdn.net/nbxinjian/article/details/100136786)
- > Navicat 连接 docker 容器mysql 报1251错误 解决办法
- ## [用layui实现下拉框select多选,取值](https://blog.csdn.net/gs981600308/article/details/96997967)
- > 用layui实现下拉框select多选,取值
- ## [mysql相关知识汇总学习](https://blog.csdn.net/ab601026460/article/details/54017607)
- > mysql相关知识汇总学习
- ## [mysql远程连接数据库报错1130: Host '192.168.61.128' is not allowed to connect to this MySQL server](https://blog.csdn.net/weixin_42260957/article/details/97925418)
- > mysql远程连接数据库报错1130: Host &x27;192.168.61.128&x27; is not allowed to connect to this MySQL server
- ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
- > mysql 8.0.17 解压版安装教程
- ## [在MySQL登录时出现Access denied for user 'root'@'localhost' (using password: YES) 拒绝访问，并可修改MySQL密码](https://blog.csdn.net/zoucui/article/details/96996554)
- > 在MySQL登录时出现Access denied for user &x27;root&x27;@&x27;localhost&x27; (using password: YES) 拒绝访问，并可修改MySQL密码
- ## [linux odoo docker常用运维命令表](https://blog.csdn.net/qq_32394351/article/details/101056652)
- > linux odoo docker常用运维命令表
- ## [pod报错"Back-off restarting failed container"解决办法](https://blog.csdn.net/sqhren626232/article/details/101013390)
- > pod报错&quot;Back-off restarting failed container&quot;解决办法
- ## [HDU - 1698   区间修改 + 线段树](https://blog.csdn.net/qq_41280600/article/details/100822214)
- > HDU - 1698   区间修改 + 线段树
- ## [Mysql8 和mysql 5.7 的区别](https://blog.csdn.net/qq_39787367/article/details/97760284)
- > Mysql8 和mysql 5.7 的区别
- ## [MySQL数据库及注入方法](https://blog.csdn.net/qq_36119192/article/details/100862012)
- > MySQL数据库及注入方法
- ## [【数据库-MySql】\[Err\] 1062 - Duplicate entry '1-1' for key 'PRIMARY'](https://blog.csdn.net/chenlu5201314/article/details/100521863)
- > 【数据库-MySql】\[Err\] 1062 - Duplicate entry &x27;1-1&x27; for key &x27;PRIMARY&x27;
- ## [Oracle数据库学习笔记（oracle 11g持续更新...）](https://blog.csdn.net/Mr_C_python/article/details/100939206)
- > Oracle数据库学习笔记（oracle 11g持续更新...）
- ## [MyBatis 中 ${}和 {}千万不要乱用](https://blog.csdn.net/tanhongwei1994/article/details/97380767)
- > MyBatis 中 ${}和 {}千万不要乱用
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 # PM 
- ## [文案写作：如何构建写作框架&优化表达内容？](http://www.woshipm.com/copy/3324796.html)
- > 如今，人们获取信息的方式趋于多样化，但文字在日常沟通中的作用没有减弱，需要深度投入的文字阅读，仍是人们获取有效信息的重要渠道。因此，如何通过文字进行沟通（写...
- ## [如何从产品架构层面去定义一个SaaS产品？](http://www.woshipm.com/pd/3327803.html)
- > 如果给你做一个SaaS产品，如何从产品架构层面去设计？老王前段时间去面试了一家做SaaS产品的公司，虽然后来没什么消息，但是面试过程中面试官问的一个问题让老王印象...
- ## [译文 | 用哪些指标量化你的设计效果？](http://www.woshipm.com/pd/3324736.html)
- > 量化分析可以用最直观的数据来反映效果，常常用于用户、市场等方面，在看似没有标准的设计领域，用哪些指标、如何使用？才能知道设计效果究竟怎么样呢？为什么我们需...
- ## [商业世界的4种底层逻辑：自然、机制、多样性和营销](http://www.woshipm.com/kol/3298609.html)
- > 2019年12月21-22日，人人都是产品经理举办的【 2019深圳产品经理大会】完美落幕。纷享销客天使投资人，前执行总裁@吴昊老师，为我们带来《SaaS在中国的演进路线，以及商...
- ## [线上课程丨10年腾讯产品人，解密鹅厂产品经理生存指南](http://www.woshipm.com/online/3327940.html)
- > BAT大厂是不少0经验小白梦想中的职场起点。但之所以是梦想中，就是因为拿到这些大厂offer真的太难了。根据数据统计，腾讯的实习岗位，从网申到最后拿到实习offer的...
- ## [职场空窗期该如何解释？](http://www.chanpin100.com/article/110573)
- > 职场空窗期怎么办？
- ## [为什么一过节，手机上的App就变得熟悉又陌生？](http://www.chanpin100.com/article/110572)
- > 互联网产品节日营销常用的产品方法
- ## [产品经理项目实录：怎样从0到1做一款微信小程序（2）](http://www.chanpin100.com/article/110571)
- > 万字长文解构微信小程序
- ## [从产品视角看《佐藤可士和的超级整理术》](http://www.chanpin100.com/article/110569)
- > “愉快而迅速地做好工作，不但让他人开心，自己也得到快乐。”
+ ## [展望2020：5G一旦落地，产品创业者可能都得“换个脑”](http://www.woshipm.com/it/3325712.html)
+ > 与4G相比，5G的产品模式、杀手级应用、爆发场景会是怎样的？一、从概念到正式商用5g是一个热词，街头随便一个路人都会告诉你，5g要来了，大势所趋！但5g究竟可以为生...
+ ## [如何搭建数据治理体系？](http://www.woshipm.com/data-analysis/3325369.html)
+ > 本文作者对《主数据驱动的数据治理：原理、技术与实践》一书中数据治理体系的搭建进行了梳理总结，与大家分享。针对于数据治理的定义，我们从狭义上去理解只是仅仅对...
+ ## [移动App如何设计广告位？从这4个角度出发](http://www.woshipm.com/marketing/3324903.html)
+ > 文章主要围绕移动App上广告位如何设计进行了分析探讨，作者从4个角度对这个问题进行了解答，与大家分享。记得当年面试商业产品经理时，面试官拿着手机问我，你会选择...
+ ## [译文丨你的APP设计，需要改进这五点](http://www.woshipm.com/pd/3325933.html)
+ > 想要让你的产品成为常青树，运营是一方面，设计更是基础。无论如何，都需要让产品跟随时代，而不是用过时的功能或者设计来应付了事。作为一个APP设计者，我们需要每隔...
+ ## [案例拆解：兰蔻新春游园会活动火爆全国的营销秘诀](http://www.woshipm.com/marketing/3321705.html)
+ > 作者拆解了兰蔻的新春游园会活动，对其火爆全国的营销方法进行了梳理分析，与大家分享。最近，兰蔻新春游园会空降深圳，可赏灯、贴剪纸、迎福、送祝福…，鲜艳的...
+ ## [Soul产品分析报告：心灵社交能走多远](http://www.woshipm.com/evaluating/3324364.html)
+ > 本文从五个角度展开了这篇Soul产品分析报告，希望对你有所启发。本文将从以下几个方面进行分析：产品功能拆解竞品分析用户分析用户调研功能优化方案1. Soul产...
+ ## [公开课 | 0经验小白，如何备战年后产品经理面试](http://www.woshipm.com/online/3328925.html)
+ > 还有一个月左右将迎来【金二银三】产品经理招聘高峰，从去年的数据来看，春节后各大互联网企业放出的产品经理岗位招聘数达到全年的60%+。如果你是即将毕业的在校大学生...
+ ## [直播带货？一群大忽悠包装的光鲜数据，背后隐藏着猫腻](http://www.woshipm.com/it/3326272.html)
+ > 直播带货只是表面光鲜的包装，消费者往往追求的还是：低廉的价格，不错的质量，优质的服务。最近直播带货都被神化了，各界媒体吹风点火，大肆宣扬直播风口：快做猪吧...
+ ## [千亿市场规模的汽车融资租赁，能作出改变吗？](http://www.woshipm.com/it/3325818.html)
+ > 本文总结了汽车融资租赁究竟是什么、它的发展历程、行业背景以及发展问题点。核 心 要 点：汽车融资租赁是一种新型的大额分期购车方式，简而言之是“先租后买”。相...
+ ## [网易云音乐与B站，可能是唯二的两个意外](http://www.woshipm.com/operate/3327866.html)
+ > 受到Z世代热爱的网易云音乐与B站拥有相同的特质，各自打造了独特的社区文化。本文探讨了社区文化在当下的发展潜力，也许社区本身就是一座富矿。2020开年，我们来聊两...
+ ## [B 站40万人围观：谁在操纵我们的钱包？](http://www.woshipm.com/it/3326410.html)
+ > 消费时代，精明的商家不断激发消费者的多巴胺，消费带来源源不断的快感。01一大早鼠标坏了。10年前在同济读大学的时候，一个对电子产品颇有研究的同学就告诉我，这...
+ ## [实战帖：电商平台如何拆单](http://www.chanpin100.com/article/110587)
+ > 复盘最近的电商拆单工作经历，从原因、流程等方面进行分析，也让大家不再踩坑。
+ ## [短说整合运营系统案例分析：如何搭建健康论坛？](http://www.chanpin100.com/article/110588)
+ > 大健康领域的发展一片明亮，在未来依旧是一个强大的需求，只有与人有关，需求量也会逐渐增大。而随着政策的改动，影响着整个行业的发展，大健康领域将是一个不会落伍的需求点。短说整合运营系统作为想天软件今后主打的产品，在开发过程中以商业的角度转变为运营的角度，理念与设计更加贴合运营。
+ ## [2019中国移动健康用户数字行为专题分析](http://www.chanpin100.com/article/110589)
+ > 全文主要研究对象是2019年健康领域线上用户，文章通过对2019年健康线上用户的属性、触媒习惯、兴趣爱好等领域的剖析，了解用户的生活形态和价值观变化。
+ ## [对比分析：京东VS淘宝，从购物车形态分析营销策略](http://www.chanpin100.com/article/110586)
+ > 购物车，一个耳熟能详的词，也是电商中一个重要的功能，这个模块是一个一个独立性高，复杂度高，由多个页面页面构成的功能，其中包括物流、拆单、价格、库存等多种因素。现在大部分目前主流电商平台都有购物车，但不同平台对购物车重视程度并不相同，本文针对购物车模块做了一个竞品分析，一起来看看。
+ ## [流量变现-移动App如何设计广告位](http://www.chanpin100.com/article/110585)
+ > 本文主要和你聊聊，移动App上广告位如何设计，以下是一些工作中个人积累的经验，我尽量用白话表述，有不对与不完善的地方，欢迎留言指正和补充。
+ ## [大厂方法论：以「哔哩哔哩」为例，教你三步建立自己的需求池](http://www.chanpin100.com/article/110583)
+ > 需求分析方法论~
+ ## [产品认知的U型曲线：到底怎么做产品分析或竞品分析？](http://www.chanpin100.com/article/110580)
+ > 产品分析或竞品分析是一个老生常谈的问题
+ ## [做好需求分析需要注意的几个关键点](http://www.chanpin100.com/article/110579)
+ > “接需求”是产品经理工作中必不可少的一环，文章中笔者会结合自己的亲身经历，讲述做好需求分析的几个关键点，希望能给刚入行和打算入行的朋友们一点儿启发。
+ ## [年度巨献|2019移动广告平台调研分析报告，查收年度受欢迎的广告平台](http://www.chanpin100.com/article/110578)
+ > App Growing 向全国广大移动广告优化师发起调研，回收有效问卷数2437份，分析、撰写此《2019移动广告平台调研分析报告》，从优化师人群概述、广告平台测评两大角度进行详细阐述，希望对广告平台的建设发展、优化师选择广告平台提供借鉴。
+ ## [产品经理基础：商业模式分析](http://www.chanpin100.com/article/110577)
+ > 商业模式并非单指盈利模式，是一个综述概念。产品经理应该如何进行商务模式分析。
+ ## [机器人做的中餐，能好吃吗？](http://www.chanpin100.com/article/110575)
+ > 现阶段企业对机器人的最大用途，就是四个字，降本增效，所以只要企业一旦觉得机器人比人工更省成本，就会为它们买单。
+ ## [2019年直营电商行业广告投放市场洞察](http://www.chanpin100.com/article/110574)
+ > App Growing 基于所追踪的直营电商广告情报，整理出2019年直营电商行业的广告投放市场洞察，希望给广告主提供选品及运营参考。
 
     
