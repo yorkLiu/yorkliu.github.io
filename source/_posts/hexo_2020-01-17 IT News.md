@@ -1,18 +1,24 @@
 ---
 title: 2020-01-17 IT News
 copyright: true
-date: 2020-01-17 08:00:53
+date: 2020-01-17 09:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [展望2020，盘点手机产业链形成的五大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1579219204&ver=2101&signature=IEY9UtzyL7hMzRHb1Ak52UmnerG6iqAQYsVBrD4lRBYu5BuQ2EfsOJDnG-QkyiZLE-0P-5tcHkOJz42mCn6ckWc78pOR6Q0LAHSzGWLWk7f7vg4VkK34pVHUe1siTQp*&new=1)
- > 纵观整个手机产业链，基于寻求差异化的目的所产生的新品层出不穷，集微网结合当前市场需求以及行业发展方向，为大家梳理出这些具有市场潜力的新产品和新技术将给2020年产业链带来的变化。作者｜GY   校对｜范蓉...
- ## [三大运营商拉开了高管提拔序幕 第一个公布结果的是邵广禄调电信](http://mp.weixin.qq.com/s?src=11&timestamp=1579219204&ver=2101&signature=ODvAAZw1S0K7MR1Zh39lfyURqnJu12lSOtK2Gm5CGH3qJE4trss*FqlwaYFq7rgqbYvkM7cbXapiwl2B5valn*KlKHdj5wW6cQUnR2fuO3xWAesbd2szNEYr46Fzl3jw&new=1)
+ ## [三大运营商拉开了高管提拔序幕 第一个公布结果的是邵广禄调电信](http://mp.weixin.qq.com/s?src=11&timestamp=1579222804&ver=2101&signature=ODvAAZw1S0K7MR1Zh39lfyURqnJu12lSOtK2Gm5CGH2RhwS11EmCgc3r9V7Ipj*UMZJ*6YWBd8nRFZ9BLDd4pJDwnBP6f1Fwgyp8cftDLwsKfi9AU1oH9nIefiDqY73T&new=1)
  > 运营商财经网 康钊/文1月18日早上，中国联通大厅异常热闹，几百人欢送中国联通副总经理邵广禄，因为他于该日调任中国电信集团任专职副书记。而此举具有重大意义，意味着三大运营商新一轮集团层面高层领导变更拉...
- ## [华为在英宣布两千万英镑投资计划丨小红书关闭上海所有线下体验店\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1579219204&ver=2101&signature=XZYSUdk8Qo*jlj2Y73oQDq*7PyvzVG**cXsebXIZTGtJgUJNIW9GOKfdtRZQoUiSXixdk-lrP7MOhxFhiaQMTIYooOyqDU3E5jYEB4klBcRZoVLTG2x2r-lH5GNr2fR-&new=1)
+ ## [华为在英宣布两千万英镑投资计划丨小红书关闭上海所有线下体验店\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1579222804&ver=2101&signature=XZYSUdk8Qo*jlj2Y73oQDq*7PyvzVG**cXsebXIZTGt8I8UNq9pKWWo71G42WB2Wab1VBUVimfUC*UPgM1w3lwBS3Ggpo*5mORpeauH48l3MaUELhJbtKCn2ojbC79b6&new=1)
  > 1月16日丨周四【Do说】编辑 | 赵艾虎华为在英宣布两千万英镑投资计划，加速发展手机生态系统当地时间1月15日，首届华为英国与爱尔兰开发者大会在英国首都伦敦举行。活动期间，华为宣布了一项价值2,000万英镑的投...
+ ## [展望2020，盘点手机产业链形成的五大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1579222804&ver=2101&signature=IEY9UtzyL7hMzRHb1Ak52UmnerG6iqAQYsVBrD4lRBYbIbgJnwlZXfTqptNIU6fi4r3lI8wduxus6DIxbbSbMsuEl3Y6OxWmYqi9VI0JQ3wWkePNHlTpa90eTWx67Au1&new=1)
+ > 纵观整个手机产业链，基于寻求差异化的目的所产生的新品层出不穷，集微网结合当前市场需求以及行业发展方向，为大家梳理出这些具有市场潜力的新产品和新技术将给2020年产业链带来的变化。作者｜GY   校对｜范蓉...
 # IT 技术 
+ ## [我最青睐的5种Linux系统管理工具](http://os.51cto.com/art/202001/609375.htm)
+ > 我最青睐的5种Linux系统管理工具
+ ## [让人头疼的WAS内存溢出，看银行运维人员如何优雅的解决](http://news.51cto.com/art/202001/609536.htm)
+ > 让人头疼的WAS内存溢出，看银行运维人员如何优雅的解决
+ ## [很可怕！NSA、GitHub 被恶搞：Windows 的锅](http://news.51cto.com/art/202001/609537.htm)
+ > 很可怕！NSA、GitHub 被恶搞：Windows 的锅
  ## [自古帝王多短命，假如皇帝也懂负载均衡算法...](http://developer.51cto.com/art/202001/609461.htm)
  > 自古帝王多短命，假如皇帝也懂负载均衡算法...
  ## [piwheels是如何为树莓派用户节省时间的](http://os.51cto.com/art/202001/609471.htm)
@@ -23,78 +29,90 @@ categories: IT NEWS
  > 在Kubernetes上实现无服务器的5种方法
  ## [微软留后手：Windows 7仍可免费升级Windows 10！附操作方式](http://os.51cto.com/art/202001/609485.htm)
  > 微软留后手：Windows 7仍可免费升级Windows 10！附操作方式
- ## [2019年这些美国公司为软件工程师开出的薪水最高](http://news.51cto.com/art/202001/609454.htm)
- > 2019年这些美国公司为软件工程师开出的薪水最高
- ## [机器学习如何推动数据中心发展？](http://server.51cto.com/Datacenter-609451.htm)
- > 机器学习如何推动数据中心发展？
- ## [学MySQL，这篇万字总结，真的够用了](http://database.51cto.com/art/202001/609409.htm)
- > 学MySQL，这篇万字总结，真的够用了
+ ## [期末高数有救了！AI帮你解方程](http://news.51cto.com/art/202001/609538.htm)
+ > 近日，Facebook AI宣布建立了第一个使用符号推理解决高级数学方程式的AI系统，准确率碾压Mathematica和Matl
+ ## [2020年：有关物联网的六个预测，你觉得准吗？（上）](http://iot.51cto.com/art/202001/609534.htm)
+ > 今天我们也来凑个热闹，预测一下在即将到来的这一年中，与物联网相关的几个关键技术和市场的走势。回头看看
+ ## [下一个十年，隐蔽且威胁无边的关键基础设施攻击](http://netsecurity.51cto.com/art/202001/609532.htm)
+ > 关键基础设施攻击的危险性不言而喻，威胁也常常是一波未平一波又起。在收集整理大量事件后，零日对关键基础
  ## [【实战】无线AC+AP部署方案](http://network.51cto.com/art/202001/609530.htm)
  > 无线局域网的出现使有线网络所遇到的问题迎刃而解，它可以使用户任意对有线网络进行扩展和延伸。
  ## [关于物联网不可不知的二三事](http://iot.51cto.com/art/202001/609529.htm)
  > “物联网”(IoT)正频繁的出现在我们的日常生活中。新闻热搜、影视作品，甚至不少短信和邮件中都有“物联网
- ## [\[网络安全自学篇\] 四十.phpMyAdmin 4.8.1后台文件包含漏洞复现及详解（CVE-2018-12613）](https://blog.csdn.net/Eastmount/article/details/103925419)
- > \[网络安全自学篇\] 四十.phpMyAdmin 4.8.1后台文件包含漏洞复现及详解（CVE-2018-12613）
+ ## [72岁男子通过意念喝可乐打麻将：全靠脑机接口技术](http://news.51cto.com/art/202001/609533.htm)
+ > 据浙江媒体报道称，目前正在浙江大学医学院附属第二医院就诊的72岁张先生，完成了一项“壮举”，用意念喝可
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [推荐一些有趣的在线编程游戏](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104011567)
- > 推荐一些有趣的在线编程游戏
- ## [Java8 stream 中利用 groupingBy 进行多字段分组求和](https://blog.csdn.net/fly910905/article/details/104005444)
- > 
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
  ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
  > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
  > 
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [【技巧总结】位运算装逼指南](https://blog.csdn.net/m0_37907797/article/details/103120886)
+ > 
+ ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ > 
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
+ > 
+ ## [情感识别难？图神经网络创新方法大幅提高性能](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/102948111)
+ > 
  ## [项目中的if else太多了，该怎么重构？](https://blog.csdn.net/zzti_erlie/article/details/102988486)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
- > 
- ## [通俗易懂地给女朋友讲：线程池的内部原理](https://blog.csdn.net/heihaozi/article/details/102882698)
- > 通俗易懂地给女朋友讲：线程池的内部原理
- ## [西游记团队中如果需要裁掉一个人，会先裁掉谁？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/103214104)
- > 
+ ## [如何建立“开箱即用”的数据安全防护系统 | 专家对话](https://blog.csdn.net/csdnnews/article/details/104013068)
+ > 2019年，多起重大数据泄露事件几乎席卷全球用户。从上半年的苹果iOS 12.1重大漏洞曝光导致FaceTime通话可被窃听，到以“注重隐私”为卖点的美国邮件服务提供商 VFEmail ...
+ ## [2020 及以后的八大最显著技术趋势！](https://blog.csdn.net/csdnnews/article/details/104013069)
+ > 今年的潮流话题都有哪些呢？作者 |Andrew Smith译者 |王艳妮，责编 | Elle出品 | CSDN（ID：CSDNnews）以下为译文：2020年新年伊始，新技术和新方法...
+ ## [探究 Spring 的定时任务配置](https://blog.csdn.net/csdnnews/article/details/104013070)
+ > 作者 |郭朝兴责编 |Elle出品 | CSDN（ID：CSDNnews）最近在项目开发中进行了一些Spring定时任务的开发工作，在开发过程中对Spring定时任务的配置方式进行了...
+ ## [漫画：什么是字符串匹配算法？](https://blog.csdn.net/csdnnews/article/details/104013421)
+ > ————— 第二天 —————什么意思呢？让我们来举一个例子：在上图中，字符串B是A的子串，B第一次在A中出现的位置下标是2（字符串的首位下标是0），所以返回 2。我们再看另一个例子...
+ ## [为什么 k8s 在阿里能成功？| 问底中国 IT 技术演进](https://blog.csdn.net/csdnnews/article/details/104013423)
+ > 本文描述了阿里巴巴在容器管理领域的技术演进历程，解读了为什么 k8s 最终能够大获成功的原因，以及到今年双11阿里巴巴内部的 k8s 应用情况。内容着重描述了阿里巴巴基于 k8s 的云原...
+ ## [在抖音上刷到AI程序员的工资条后，我笑了，别吹了！](https://blog.csdn.net/csdnnews/article/details/104013066)
+ > 2020年，程序员会怎么样？A与B ，薪酬与前景程序员与远方2017年~2018年，是人工智能大火的时候。你会发现，跟朋友聊天不谈人工智能，聊天的bigger都上不去。作为一个前景明朗的...
+ ## [如何实现自动化前端开发？](https://blog.csdn.net/csdnnews/article/details/104013067)
+ > IDE不仅是文本编辑器，还是编译器、生成器、调试器和集成器。作者 |Nicolus Rotich译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：每...
 # 人工智能 
- ## [两种方法实现轮播图效果](https://blog.csdn.net/QuiltKing/article/details/103977782)
- > 两种方法实现轮播图效果
- ## [看这玩意复习你还会挂科？《web开发1篇》](https://blog.csdn.net/hebtu666/article/details/103976055)
- > 看这玩意复习你还会挂科？《web开发1篇》
- ## [Vue 知识点汇总（上）--附案例代码及项目地址](https://blog.csdn.net/wuyxinu/article/details/103965753)
- > Vue 知识点汇总（上）--附案例代码及项目地址
- ## [JavaScript 清空(All)数组的三种方式](https://blog.csdn.net/weixin_44198965/article/details/103980057)
- > JavaScript 清空(All)数组的三种方式
- ## [网页性能优化之图片懒加载](https://blog.csdn.net/qq_14996421/article/details/103968679)
- > 网页性能优化之图片懒加载
- ## [ES6新特性的学习和使用](https://blog.csdn.net/qq_32599479/article/details/103960087)
- > ES6新特性的学习和使用
- ## [WEB前端资源项目整合](https://blog.csdn.net/fu983531588/article/details/89356250)
- > WEB前端资源项目整合
- ## [你所不知道的良心网站第二弹](https://blog.csdn.net/weixin_43943548/article/details/103945950)
- > 你所不知道的良心网站第二弹
- ## [学习路线](https://blog.csdn.net/qq_41523392/article/details/103934178)
- > 学习路线
- ## [关于position:fixed的问题](https://blog.csdn.net/weixin_45725020/article/details/103979805)
- > 关于position:fixed的问题
- ## [学习html看这一篇就够用了](https://blog.csdn.net/qq_34691097/article/details/103945321)
- > 学习html看这一篇就够用了
- ## [01React第一个页面](https://blog.csdn.net/ldc121xy716/article/details/103968389)
- > 01React第一个页面
- ## [原生js实现动画过渡效果](https://blog.csdn.net/QuiltKing/article/details/103995836)
- > 原生js实现动画过渡效果
- ## [Layui数据表格data无法渲染多层嵌套JSON数据格式相关问题](https://blog.csdn.net/Mr_FengMou/article/details/103989856)
- > Layui数据表格data无法渲染多层嵌套JSON数据格式相关问题
- ## [Vue 知识点汇总（下）--附案例代码及项目地址](https://blog.csdn.net/wuyxinu/article/details/103966175)
- > Vue 知识点汇总（下）--附案例代码及项目地址
+ ## [记录Nginx的升级实践以及实现的三种方法详解](https://blog.csdn.net/knight_zhou/article/details/103968295)
+ > 记录Nginx的升级实践以及实现的三种方法详解
+ ## [OWASP top10 2017 最新版](https://blog.csdn.net/deng_menglihua/article/details/103984825)
+ > OWASP top10 2017 最新版
+ ## [\[网络安全自学篇\] 三十九.hack the box渗透之DirBuster扫描路径及Sqlmap高级注入用法（三）](https://blog.csdn.net/Eastmount/article/details/103963573)
+ > 
+ ## [人人都要懂点密码学](https://blog.csdn.net/qq_38646470/article/details/103982071)
+ > 
+ ## [12306APP找回密码操作后账户被注销BUG](https://blog.csdn.net/e1951/article/details/103978625)
+ > 12306APP找回密码操作后账户被注销BUG
+ ## [容器镜像安全扫描工具推荐——镜界容器镜像漏洞扫描器可支持与harbor镜像仓库无缝集成](https://blog.csdn.net/Dosecnews/article/details/103975111)
+ > 容器镜像安全扫描工具推荐——镜界容器镜像漏洞扫描器可支持与harbor镜像仓库无缝集成
+ ## [使用xshell登录阿里云](https://blog.csdn.net/qq_41593680/article/details/103985525)
+ > 使用xshell登录阿里云
+ ## [Gateway 一些简单概念](https://blog.csdn.net/weixin_40991408/article/details/103991172)
+ > Gateway 一些简单概念
+ ## [haproxy](https://blog.csdn.net/weixin_46152207/article/details/103988257)
+ > haproxy
+ ## [Java面试那点事——基础200113](https://blog.csdn.net/qq_33945246/article/details/103967581)
+ > Java面试那点事——基础200113
+ ## [一种构建网络安全知识图谱的实用方法——贾焰](https://blog.csdn.net/fufu_good/article/details/103974238)
+ > 一种构建网络安全知识图谱的实用方法——贾焰
+ ## [详解五种单例模式](https://blog.csdn.net/weixin_39147889/article/details/103996455)
+ > 详解五种单例模式
+ ## [中间人攻击](https://blog.csdn.net/superfjj/article/details/103983707)
+ > 中间人攻击
+ ## [web相关知识](https://blog.csdn.net/weixin_43691058/article/details/103995010)
+ > web相关知识
+ ## [tuxedo下bin目录下buildserver权限不足导致gcc: warning:....o: linker input file unused because linking not done](https://blog.csdn.net/Mr_Riverstones/article/details/103984414)
+ > tuxedo下bin目录下buildserver权限不足导致gcc: warning:....o: linker input file unused because linking not done
 # PM 
- ## [产品经理周报第 100 期｜微信支付上线2020年春节跨境支付优惠；百度App春节发5亿现金红包](http://www.woshipm.com/it/3332144.html)
- > 早上好呀，今天又是周五啦这是过年前最后一篇周报啦~过几天就要放假回家咯，大家有没有做好准备呢？那小编在这里先跟大家说声新年快乐呀大家春节在家要好好的休息...
  ## [实战帖：电商平台如何拆单](http://www.chanpin100.com/article/110587)
  > 复盘最近的电商拆单工作经历，从原因、流程等方面进行分析，也让大家不再踩坑。
  ## [短说整合运营系统案例分析：如何搭建健康论坛？](http://www.chanpin100.com/article/110588)
