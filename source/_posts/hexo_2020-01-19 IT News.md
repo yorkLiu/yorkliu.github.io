@@ -1,21 +1,23 @@
 ---
 title: 2020-01-19 IT News
 copyright: true
-date: 2020-01-19 09:00:45
+date: 2020-01-19 10:00:49
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [新晋院士张平：5G能走多远，通信测试企业就能走多远](http://mp.weixin.qq.com/s?src=11&timestamp=1579395604&ver=2105&signature=j8mvCUg3agU7yGt-Fvu2D9Bdyb1*rw9xzWm0-zwbmYP4uovqUn6v*VImdntEpS5EiseXHBKizaIcms6atJrdkyOUhJUZGVl84V3UCL1ttU4aGhevEDQT4FSAoSBcGsP2&new=1)
- > 在北京邮电大学新科研楼一间普通办公室里，利用院士午休时间，记者对新晋的中国工程院院士张平做了专访。张平教授现担任北京邮电大学网络与交换技术国家重点实验室主任，长期从事移动通信理论研究和技术创新工作...
- ## [说了三个月，华为OpenEuler操作系统源码正式公开了](http://mp.weixin.qq.com/s?src=11&timestamp=1579395604&ver=2105&signature=lyqcoJAyxDLKjzBG29i-TEUZnR8CVFJG5CByqUKyCK5MqW0gJqweC0K8c5wOZ6oB4YnTvg9GDOzXxPnJgksDyOFg94AGuvw1Yg17pnPl1bG4uYN*MclCuLb48aiHJaqU&new=1)
- > 作者：开源最前线（ID：OpenSourceTop） 链接：https://gitee.com/openeuler在2019年9月17日openEuler被宣布要在年底开源，近日，Euler操作系统终于正式开放源代码、镜像及开发测试环境。华
- ## [130款科技产品，致敬时代|2019年度](http://mp.weixin.qq.com/s?src=11&timestamp=1579395604&ver=2105&signature=njw565dtzJj3cOnJ35BNddcXgZTntGnvSE69SNKD4gesQ1yabP0QOtu28Uwt2C49*jzcZy9uQ4D0MmzCV46782XJ5GQkGP87P0jggrTXTCLl1ykOTjJQC8pldvuVfcSQ&new=1)
- > 2019年已经结束，转眼间，我们已经进入到20年代。对科技和互联网行业而言，这是一个承上启下的重要时间节点。过去一年多的时间里，5G技术在消费级领域出现并应用，除了手机，还将对物联网等各行各业产生深远的影...
- ## [盘点诺基亚2019](http://mp.weixin.qq.com/s?src=11&timestamp=1579395604&ver=2105&signature=C1DkbwFQLczeJapkLTbEUh9D8RyYjwwoJXrwd8-clTLp6fh*M3sBzUwWiIzBCis0eEYNlJrXbFi2ZN10narv-Yx9RTBRoGwI4herVg0a9RhMSCPRRhQan4rhYzgoK1qo&new=1)
+ ## [盘点诺基亚2019](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=C1DkbwFQLczeJapkLTbEUh9D8RyYjwwoJXrwd8-clTLp6fh*M3sBzUwWiIzBCis0a8*Vs-2b0X5BLAoNl5-pzCtOuv2-7FmfvvKWpVFKGDcySflkbejQActSAs6hlPXP&new=1)
  > 63份5G商用合同、100多个5G协议的成绩单异常亮眼，同时也让我们再一次领略到百年企业的魅力所在--技术果然是第一生产力！坐拥2000多项5G必要专利，让诺基亚再度成为行业领军者。2019年诺基亚进一步完善5G端到端...
- ## [坏掉的机器人怎么办?机器人：没事，我自己修|科技袁周虑第39期](http://mp.weixin.qq.com/s?src=11&timestamp=1579395604&ver=2105&signature=q9xFdlqnuoeCb7a4pQTunOuX4hF4Bs2GcIpROnd9UnDZXlUR9yFpzuYcvgdg8Q8qCk6E0gBDXbT1F*UwI3nrKVtb-JseR6pfGjueNFTggMptLEgRqWi8qmfCfWnZvh1I&new=1)
+ ## [新晋院士张平：5G能走多远，通信测试企业就能走多远](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=j8mvCUg3agU7yGt-Fvu2D9Bdyb1*rw9xzWm0-zwbmYP4uovqUn6v*VImdntEpS5E9A9vp21eqvTOXwBamFSZvqS-VY95yymeuNi2FPwdrvwigNCEE2-Qubj3OBGGUqsP&new=1)
+ > 在北京邮电大学新科研楼一间普通办公室里，利用院士午休时间，记者对新晋的中国工程院院士张平做了专访。张平教授现担任北京邮电大学网络与交换技术国家重点实验室主任，长期从事移动通信理论研究和技术创新工作...
+ ## [130款科技产品，致敬时代|2019年度](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=njw565dtzJj3cOnJ35BNddcXgZTntGnvSE69SNKD4gesQ1yabP0QOtu28Uwt2C49UT4AtgOAG-OEf6KcVSGeEHxQwOjKCS*HW3nPuCw7I*Fzd75TAnuSIBV56MV6hi*Z&new=1)
+ > 2019年已经结束，转眼间，我们已经进入到20年代。对科技和互联网行业而言，这是一个承上启下的重要时间节点。过去一年多的时间里，5G技术在消费级领域出现并应用，除了手机，还将对物联网等各行各业产生深远的影...
+ ## [坏掉的机器人怎么办?机器人：没事，我自己修|科技袁周虑第39期](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=q9xFdlqnuoeCb7a4pQTunOuX4hF4Bs2GcIpROnd9UnDZXlUR9yFpzuYcvgdg8Q8qIYgC0A91sUDcuobXE0WesnXS032ftVSCgcAyKEVG2Zq9wgitoq5B6Zw1me3*Uwlm&new=1)
  > 关注风云之声提升思维层次导读本期科技袁周虑话题：自体维修机器人；CES2020；国家最高科学技术奖揭晓；苔丝发现首颗类地宜居行星；天眼通过验收。注：风云之声内容可以通过语音播放啦！读者们可下载讯飞有声APP...
+ ## [\[科技早报7点整\]官方称电信靓号过户强制低消属于市场行为 近三万人应征日本富豪女友游月球……](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=fhI26f4ismOqspt5HdQjNDBYBnbaGLee2*SXAayNnONSFlNP8TBPXGnOq9G8WF7maOHtS-SNkHGPxEBjjqRRjk*NoR7Yf0WcDxeDSMArvO5zc0ntArTmRMgcD2IPyfmS&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第706期1.多家培训机构被关停后，量子速读改头换面线上忽悠日前，教育部发文叫停以“量子波动速读”“全脑培训”等为名违规开展培训，此前活跃的校外培训机构已关门停业。但个...
+ ## [说了三个月，华为OpenEuler操作系统源码正式公开了](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=lyqcoJAyxDLKjzBG29i-TEUZnR8CVFJG5CByqUKyCK5MqW0gJqweC0K8c5wOZ6oB7ZPFw1S7s1lYeUYtqwjBPvIKOwhDxwyhwVbqJfTW3ePBPz2tRiwcAAIAXF54I20k&new=1)
+ > 作者：开源最前线（ID：OpenSourceTop） 链接：https://gitee.com/openeuler在2019年9月17日openEuler被宣布要在年底开源，近日，Euler操作系统终于正式开放源代码、镜像及开发测试环境。华
 # IT 技术 
  ## [“跳槽”还是“卧槽”，你想好了吗？](http://news.51cto.com/art/202001/609584.htm)
  > “跳槽”还是“卧槽”，你想好了吗？
@@ -33,34 +35,6 @@ categories: IT NEWS
  > 2020年，5G和边缘计算将如何发展？
  ## [定位技术在智慧城市中的应用](http://iot.51cto.com/art/202001/609549.htm)
  > 定位技术在智慧城市中的应用
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [Python调用百度API实现语音识别（二）](https://blog.csdn.net/weixin_38753698/article/details/103220987)
- > 
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
- > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
- > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
- > 
- ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
- > 
- ## [SQL-小白最佳入门sql查询一](https://blog.csdn.net/youku1327/article/details/102979381)
- > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
- > 
- ## [Android Material Design 之 Activity 跳转水波纹扩散动画](https://blog.csdn.net/smile_Running/article/details/104024391)
- > Android Material Design 之 Activity 跳转水波纹扩散动画
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
- > 
  ## [Pandas 数据处理三板斧，你会几板？](https://blog.csdn.net/csdnnews/article/details/104035585)
  > 作者| 易执责编 | Elle在日常的数据处理中，经常会对一个DataFrame进行逐行、逐列和逐元素的操作，对应这些操作，Pandas中的map、apply和applymap可以解决...
  ## [我们为什么用 Go 编写机器学习架构，却不用 Python？](https://blog.csdn.net/csdnnews/article/details/104035584)
