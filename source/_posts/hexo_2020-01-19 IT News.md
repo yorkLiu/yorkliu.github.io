@@ -1,24 +1,59 @@
 ---
 title: 2020-01-19 IT News
 copyright: true
-date: 2020-01-19 10:00:49
+date: 2020-01-19 12:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2020年1月19日 星期日</b></summary><div class="news-list-content"><p>1.&#24494;&#20449;&#65306;&#20844;&#20247;&#21495;&#25991;&#31456;&#25903;&#25345;&#21457;&#25918;&#23450;&#21046;&#32418;&#21253;&#23553;&#38754;&#65292;&#27599;&#31687;&#26368;&#22810;&#25554;3&#27454;</p>
+<p>2.&#24555;&#25163;&#20844;&#24067;&#26149;&#26202;&#32418;&#21253;&#32454;&#33410;&#65306;&#20849;&#21457;&#20116;&#36718;&#32418;&#21253;&#65292;&#21333;&#20010;&#32418;&#21253;&#26368;&#22823;&#36798;2020&#20803;</p>
+<p>3.&#19978;&#28023;&#24066;&#24464;&#27719;&#20844;&#35777;&#22788;&#21457;&#24067;&#8220;&#27719;&#23384;&#8221;&#21306;&#22359;&#38142;&#30005;&#23376;&#25968;&#25454;&#23384;&#20648;&#24179;&#21488;</p>
+<p>4.&#37038;&#25919;&#19994;&#23492;&#36882;&#26032;&#35268;&#65306;&#24555;&#36882;&#33829;&#19994;&#22330;&#25152;&#31561;&#24212;&#20840;&#22825;&#20505;&#35270;&#39057;&#30417;&#25511;</p>
+<p>5.&#32487;&#32852;&#25163;&#25512;&#27468;&#21518;&#65292;&#24555;&#25163;&#19982;&#33150;&#35759;&#38899;&#20048;&#36798;&#25104;&#36229;&#22823;&#35268;&#27169;&#29256;&#26435;&#21512;&#20316;</p>
+<p>6.&#20013;&#22269;&#32852;&#36890;&#65306;&#19982;&#20013;&#20132;&#26234;&#36816;&#25171;&#36896;&#8220;&#32447;&#19978;&#32447;&#19979;&#19968;&#20307;&#21270;&#8221;&#26234;&#24935;&#36816;&#36755;&#26381;&#21153;</p>
+<p>7.&#20132;&#36890;&#36816;&#36755;&#37096;&#65306;&#27491;&#22312;&#24320;&#21457;&#39640;&#36895;&#20844;&#36335;&#25910;&#36153;&#27979;&#31639;APP&#25110;&#23567;&#31243;&#24207;</p>
+<p>8.&#20013;&#22269;&#30005;&#31454;&#20154;&#25165;&#32570;&#21475;&#36798;50&#19975;&#65292;&#23558;&#21046;&#23450;&#22269;&#23478;&#32844;&#19994;&#25216;&#33021;&#26631;&#20934;</p>
+<p>9.&#24425;&#33394;&#38544;&#24418;&#30524;&#38236;&#21697;&#29260;&#12300;4iNLOOK&#32654;&#30446;&#32654;&#20339;&#12301;&#23436;&#25104;&#36817;2&#20159;&#20803;&#34701;&#36164;</p>
+<p>10.&#20225;&#19994;&#22521;&#35757;&#24179;&#21488;&#21270;&#26041;&#26696;&#26381;&#21153;&#21830;&#12300;&#20113;&#23398;&#22530;&#12301;&#23436;&#25104;1&#20159;&#32654;&#20803;D&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】 2020年1月17日 星期五</b></summary><div class="news-list-content"><p>1.&#20140;&#19996;&#8220;&#23478;&#24237;&#21495;&#8221;&#21151;&#33021;&#27491;&#24335;&#19978;&#32447;&#65292;&#35753;&#29238;&#27597;&#32593;&#36141;&#26356;&#36731;&#26494;</p>
+<p>2.&#29305;&#26031;&#25289;&#23558;&#22312;&#20013;&#22269;&#35774;&#31435;&#35774;&#35745;&#30740;&#21457;&#20013;&#24515;&#65292;&#25171;&#36896;&#21407;&#21019;&#8220;&#20013;&#22269;&#39118;&#8221;&#29305;&#26031;&#25289;</p>
+<p>3.&#20140;&#19996;&#19982;&#20154;&#27665;&#26085;&#25253;&#26032;&#23186;&#20307;&#28145;&#20837;&#21512;&#20316;&#65292;&#8220;&#20113;+AI&#8221;&#39537;&#21160;&#20256;&#23186;&#19994;&#26234;&#33021;&#21270;&#21319;&#32423;</p>
+<p>4.&#20013;&#31185;&#38498;&#35745;&#31639;&#25152;&#21457;&#24067;&#22269;&#20135;&#32534;&#31243;&#35821;&#35328;&#8220;&#26408;&#20848;&#8221;</p>
+<p>5.&#39640;&#24503;&#25171;&#36710;&#65306;&#8220;&#19968;&#38190;&#20840;&#32593;&#21483;&#36710;&#8221;&#24050;&#35206;&#30422;&#20840;&#22269;&#22478;&#24066;</p>
+<p>6.&#20013;&#22269;&#8220;&#39640;&#38081;&#31532;&#19968;&#32929;&#8221;&#20140;&#27818;&#39640;&#38081;&#25104;&#21151;&#30331;&#38470;A&#32929;&#65292;&#39318;&#26085;&#19978;&#28072;38.73%</p>
+<p>7.&#32654;&#22242;&#25171;&#36710;&#23558;&#34987;&#32422;&#35848;&#65292;&#27818;&#28040;&#20445;&#22996;&#65306;&#8220;&#20986;&#31199;&#36710;&#24863;&#35874;&#36153;&#8221;&#20405;&#29359;&#20844;&#24179;&#20132;&#26131;&#26435;</p>
+<p>8. &#20013;&#22269;&#39318;&#23478;&#22806;&#36164;&#29420;&#36164;&#20445;&#38505;&#25511;&#32929;&#20844;&#21496;&#23433;&#32852;(&#20013;&#22269;)&#22312;&#19978;&#28023;&#27491;&#24335;&#24320;&#19994;</p>
+<p>9.&#20840;&#26632;&#20840;&#22330;&#26223;AI&#26234;&#33021;&#35821;&#38899;&#25216;&#26415;&#26381;&#21153;&#21830;&#12300;&#21451;&#26480;&#26234;&#26032;&#12301;&#23436;&#25104;&#25968;&#21315;&#19975;Pre-A&#36718;&#34701;&#36164;</p>
+<p>10.&#22609;&#26009;&#20135;&#19994;&#32508;&#21512;&#26381;&#21153;&#24179;&#21488;&#12300;&#32858;&#22609;&#20113;&#12301;&#23436;&#25104;&#21315;&#19975;&#20803;&#32423;&#22825;&#20351;&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [盘点诺基亚2019](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=C1DkbwFQLczeJapkLTbEUh9D8RyYjwwoJXrwd8-clTLp6fh*M3sBzUwWiIzBCis0a8*Vs-2b0X5BLAoNl5-pzCtOuv2-7FmfvvKWpVFKGDcySflkbejQActSAs6hlPXP&new=1)
- > 63份5G商用合同、100多个5G协议的成绩单异常亮眼，同时也让我们再一次领略到百年企业的魅力所在--技术果然是第一生产力！坐拥2000多项5G必要专利，让诺基亚再度成为行业领军者。2019年诺基亚进一步完善5G端到端...
- ## [新晋院士张平：5G能走多远，通信测试企业就能走多远](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=j8mvCUg3agU7yGt-Fvu2D9Bdyb1*rw9xzWm0-zwbmYP4uovqUn6v*VImdntEpS5E9A9vp21eqvTOXwBamFSZvqS-VY95yymeuNi2FPwdrvwigNCEE2-Qubj3OBGGUqsP&new=1)
- > 在北京邮电大学新科研楼一间普通办公室里，利用院士午休时间，记者对新晋的中国工程院院士张平做了专访。张平教授现担任北京邮电大学网络与交换技术国家重点实验室主任，长期从事移动通信理论研究和技术创新工作...
- ## [130款科技产品，致敬时代|2019年度](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=njw565dtzJj3cOnJ35BNddcXgZTntGnvSE69SNKD4gesQ1yabP0QOtu28Uwt2C49UT4AtgOAG-OEf6KcVSGeEHxQwOjKCS*HW3nPuCw7I*Fzd75TAnuSIBV56MV6hi*Z&new=1)
- > 2019年已经结束，转眼间，我们已经进入到20年代。对科技和互联网行业而言，这是一个承上启下的重要时间节点。过去一年多的时间里，5G技术在消费级领域出现并应用，除了手机，还将对物联网等各行各业产生深远的影...
- ## [坏掉的机器人怎么办?机器人：没事，我自己修|科技袁周虑第39期](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=q9xFdlqnuoeCb7a4pQTunOuX4hF4Bs2GcIpROnd9UnDZXlUR9yFpzuYcvgdg8Q8qIYgC0A91sUDcuobXE0WesnXS032ftVSCgcAyKEVG2Zq9wgitoq5B6Zw1me3*Uwlm&new=1)
- > 关注风云之声提升思维层次导读本期科技袁周虑话题：自体维修机器人；CES2020；国家最高科学技术奖揭晓；苔丝发现首颗类地宜居行星；天眼通过验收。注：风云之声内容可以通过语音播放啦！读者们可下载讯飞有声APP...
- ## [\[科技早报7点整\]官方称电信靓号过户强制低消属于市场行为 近三万人应征日本富豪女友游月球……](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=fhI26f4ismOqspt5HdQjNDBYBnbaGLee2*SXAayNnONSFlNP8TBPXGnOq9G8WF7maOHtS-SNkHGPxEBjjqRRjk*NoR7Yf0WcDxeDSMArvO5zc0ntArTmRMgcD2IPyfmS&new=1)
+ ## [\[科技早报7点整\]官方称电信靓号过户强制低消属于市场行为 近三万人应征日本富豪女友游月球……](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=fhI26f4ismOqspt5HdQjNDBYBnbaGLee2*SXAayNnOMivoDmBWfZh874TJ6DFoU7EDqt2KfyGoMWzXEtcwoQ*bczpyFtkzGPh0SvagkDNSvRG-hm-z0pSvnUXN9NKDWK&new=1)
  > 早上好，科技圈【一度蜜科技早报】第706期1.多家培训机构被关停后，量子速读改头换面线上忽悠日前，教育部发文叫停以“量子波动速读”“全脑培训”等为名违规开展培训，此前活跃的校外培训机构已关门停业。但个...
- ## [说了三个月，华为OpenEuler操作系统源码正式公开了](http://mp.weixin.qq.com/s?src=11&timestamp=1579399204&ver=2105&signature=lyqcoJAyxDLKjzBG29i-TEUZnR8CVFJG5CByqUKyCK5MqW0gJqweC0K8c5wOZ6oB7ZPFw1S7s1lYeUYtqwjBPvIKOwhDxwyhwVbqJfTW3ePBPz2tRiwcAAIAXF54I20k&new=1)
+ ## [2019年我的3D数字化创业经历反思，应用“下沉”](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=so8PGUr1UelHtq8cbTtFj-ieFPTbYND*N0hWoMMnMkOPQRTGcrFffulfJdKcThyIlvIru4jlF46p9riSEXDFpOhS*6N2IU3vs7b4DCMRDJCFo4JJcwYOpQLdA0KYTbjn&new=1)
+ > 关注南极熊，知晓3D打印天下事南极熊导读：本文是辽宁大连一个做3D打印相关业务的企业（大连众益工业技术有限公司），其创始人兼总经理魏宏亮，对自己在2019年的3D数字化创业经历进行了总结反思。因为是来自一线...
+ ## [130款科技产品，致敬时代|2019年度](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=njw565dtzJj3cOnJ35BNddcXgZTntGnvSE69SNKD4geTpmZGt-GrbeHP9f*iu9SX0-3l0baIQd0cokRfMydc5AXeB5wbdNk6qoCvVhboLyUF5ss75XqGO5lzMJQ8MoXJ&new=1)
+ > 2019年已经结束，转眼间，我们已经进入到20年代。对科技和互联网行业而言，这是一个承上启下的重要时间节点。过去一年多的时间里，5G技术在消费级领域出现并应用，除了手机，还将对物联网等各行各业产生深远的影...
+ ## [新型恶意软件JhoneRAT现身 频繁针对中东地区](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=u9EUat3QuYnJKZB6DISBgcXaNPjlaIx*F8uzRJMw179bt2d6zqd8J91w8pEtgq*-a5e-r6Bvez2CdH9Ydb2kl7NM6xu7rQWZ9QnDdXlyAiO-u63mNb*Irwb2wU-E31ZN&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全1月18日讯，据外媒报道，近日，思科Talos的网络安全研究人员发现了一种新型远程控制木马JhoneRAT。一旦下载，RAT就会在受害者的计算机上收集信息，并且还...
+ ## [坏掉的机器人怎么办?机器人：没事，我自己修|科技袁周虑第39期](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=q9xFdlqnuoeCb7a4pQTunOuX4hF4Bs2GcIpROnd9UnBmllNy420N*XGskusjc6E*PzgJrlthZJCKbbVuqi78ryI26iHTIlrRWMuOJMWMkbfKHQLR9NdmtSUCPk-Yfenn&new=1)
+ > 关注风云之声提升思维层次导读本期科技袁周虑话题：自体维修机器人；CES2020；国家最高科学技术奖揭晓；苔丝发现首颗类地宜居行星；天眼通过验收。注：风云之声内容可以通过语音播放啦！读者们可下载讯飞有声APP...
+ ## [盘点诺基亚2019](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=C1DkbwFQLczeJapkLTbEUh9D8RyYjwwoJXrwd8-clTI6sulp4nkGHpSCbSbPjwE2WREUeUbgkCBN2Xu0H9dbrjbYcfWktNiGl*-DdFMzsjIHn3ku60VYOV6ApxnL4rR1&new=1)
+ > 63份5G商用合同、100多个5G协议的成绩单异常亮眼，同时也让我们再一次领略到百年企业的魅力所在--技术果然是第一生产力！坐拥2000多项5G必要专利，让诺基亚再度成为行业领军者。2019年诺基亚进一步完善5G端到端...
+ ## [新晋院士张平：5G能走多远，通信测试企业就能走多远](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=j8mvCUg3agU7yGt-Fvu2D9Bdyb1*rw9xzWm0-zwbmYNKlYUu7Kk*FBwe-Hoo*UzOK3XMzUqzbTr7voevDQ9v-t3COTCOKIKpXrJ8jbvk5q1ikya58jCjRHWIDWQGzoTg&new=1)
+ > 在北京邮电大学新科研楼一间普通办公室里，利用院士午休时间，记者对新晋的中国工程院院士张平做了专访。张平教授现担任北京邮电大学网络与交换技术国家重点实验室主任，长期从事移动通信理论研究和技术创新工作...
+ ## [说了三个月，华为OpenEuler操作系统源码正式公开了](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=lyqcoJAyxDLKjzBG29i-TEUZnR8CVFJG5CByqUKyCK7PrCMgD37NURtRNvNOZW6UkOwr6wPqD8UlV97qAcurZZvy8TDq3Ozqke0HzE6ccKzHMEIGa2WzJrzj1ILPHS6h&new=1)
  > 作者：开源最前线（ID：OpenSourceTop） 链接：https://gitee.com/openeuler在2019年9月17日openEuler被宣布要在年底开源，近日，Euler操作系统终于正式开放源代码、镜像及开发测试环境。华
 # IT 技术 
+ ## [上海失独妈妈用AI“复活”了年仅14岁女儿......](http://ai.51cto.com/art/202001/609626.htm)
+ > 上海失独妈妈用AI“复活”了年仅14岁女儿......
  ## [“跳槽”还是“卧槽”，你想好了吗？](http://news.51cto.com/art/202001/609584.htm)
  > “跳槽”还是“卧槽”，你想好了吗？
  ## [收拢图片，可以优化内存避免 OOM，但是收拢不是说说而已！(以Glide举例)](http://zhuanlan.51cto.com/art/202001/609590.htm)
@@ -33,8 +68,42 @@ categories: IT NEWS
  > 如何将Microsoft Teams安装在Linux上？
  ## [2020年，5G和边缘计算将如何发展？](http://network.51cto.com/art/202001/609580.htm)
  > 2020年，5G和边缘计算将如何发展？
- ## [定位技术在智慧城市中的应用](http://iot.51cto.com/art/202001/609549.htm)
- > 定位技术在智慧城市中的应用
+ ## [掌握这六步，搭建机器学习项目](http://ai.51cto.com/art/202001/609629.htm)
+ > 机器学习覆盖的范围十分广泛。这篇文章将整体描述机器学习适用的典型问题，提供实现机器学习项目雏形的框架
+ ## [程序员要搞明白CDN，这篇应该够了](http://network.51cto.com/art/202001/609628.htm)
+ > 最近在了解边缘计算，发现我们经常听说的CDN也是边缘计算里的一部分。那么说到CDN，好像只知道它中文叫做内
+ ## [由Session到Token的身份验证演变过程理解Session、Cookie、Token](http://netsecurity.51cto.com/art/202001/609627.htm)
+ > 本文将从Web应用 由传统身份验证到基于Token的身份验证的演变过程的角度，介绍Session、Cookie、Token。
+ ## [入职阿里5年，他如何破解“技术债”？](http://news.51cto.com/art/202001/609625.htm)
+ > 当你埋下的坑越来越多，不知道哪天哪位同学就会踩上一颗雷。特别赞同“人最大的恐惧就是未知，当技术债可说
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [Python调用百度API实现语音识别（二）](https://blog.csdn.net/weixin_38753698/article/details/103220987)
+ > 
+ ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
+ > linux系列之常用运维命令整理笔录
+ ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ > 
+ ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ > 
+ ## [SQL-小白最佳入门sql查询一](https://blog.csdn.net/youku1327/article/details/102979381)
+ > 
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ > 
+ ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ > 
+ ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ > 
+ ## [来，干了这碗鸡汤](https://blog.csdn.net/meteor_93/article/details/104029362)
+ > 来，干了这碗鸡汤
  ## [Pandas 数据处理三板斧，你会几板？](https://blog.csdn.net/csdnnews/article/details/104035585)
  > 作者| 易执责编 | Elle在日常的数据处理中，经常会对一个DataFrame进行逐行、逐列和逐元素的操作，对应这些操作，Pandas中的map、apply和applymap可以解决...
  ## [我们为什么用 Go 编写机器学习架构，却不用 Python？](https://blog.csdn.net/csdnnews/article/details/104035584)
@@ -44,35 +113,54 @@ categories: IT NEWS
  ## [滴滴章文嵩：一个人的 20 年开源热情和国内互联网开源运动](https://blog.csdn.net/csdnnews/article/details/104035581)
  > 作者 | Just出品 | AI科技大本营（ID:rgznai100）开源热情就是好玩儿。说起他在22年前的第一款开源软件LVS（Linux Virtual Server），章文嵩这样描...
 # 人工智能 
- ## [微信域名防封跳转系统详解，域名总是被微信屏蔽应该这样做](https://blog.csdn.net/monkeyapi/article/details/90519211)
- > 微信域名防封跳转系统详解，域名总是被微信屏蔽应该这样做
- ## [shell脚本实现telnet测试服务端口](https://blog.csdn.net/qq_28837695/article/details/95699427)
- > shell脚本实现telnet测试服务端口
- ## [IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）](https://blog.csdn.net/weixin_43272781/article/details/100858230)
- > IDM——服务器响应显示您没有权限下载此文件（百度网盘下载问题）
- ## [mac系统搭建Go开发环境](https://blog.csdn.net/why444216978/article/details/100979704)
- > mac系统搭建Go开发环境
- ## [分享各大CMS采集资源站网址合集](https://blog.csdn.net/qq_41684621/article/details/96766877)
- > 分享各大CMS采集资源站网址合集
- ## [解决前端跨域：has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header...](https://blog.csdn.net/qq_40088443/article/details/100887770)
- > 解决前端跨域：has been blocked by CORS policy: No &x27;Access-Control-Allow-Origin&x27; header...
- ## [react--dangerouslySetInnerHTML](https://blog.csdn.net/qq_42813491/article/details/93224735)
- > react--dangerouslySetInnerHTML
- ## [JAVA音视频解决方案----搭建RTMP流服务(放弃NGINX-RTMP,换成SRS)](https://blog.csdn.net/cuiyaonan2000/article/details/93618816)
- > JAVA音视频解决方案----搭建RTMP流服务(放弃NGINX-RTMP,换成SRS)
- ## [Linux网络之curl命令详解](https://blog.csdn.net/lixinkuan328/article/details/100569985)
- > Linux网络之curl命令详解
- ## [eclipse汉化的两种方式](https://blog.csdn.net/Aoutlaw/article/details/97618940)
- > eclipse汉化的两种方式
- ## [域名被微信屏蔽拦截的原因和防封方案](https://blog.csdn.net/monkeyapi/article/details/87876791)
- > 域名被微信屏蔽拦截的原因和防封方案
- ## [PHP 图片上传加文字水印接口形式返回之imagettftext和问题总结](https://blog.csdn.net/weixin_41818665/article/details/97019508)
- > PHP 图片上传加文字水印接口形式返回之imagettftext和问题总结
- ## [国内外常用稳定公共NTP时间同步服务器](https://blog.csdn.net/weixin_42588262/article/details/82501488)
- > 国内外常用稳定公共NTP时间同步服务器
- ## [file_get_contents分段读取文件](https://blog.csdn.net/raoxiaoya/article/details/94572746)
- > file_get_contents分段读取文件
- ## [CTF之302重定向](https://blog.csdn.net/Deep___Learning/article/details/100799946)
- > CTF之302重定向
+ ## [C++输入 / 输出运算符的重载-详细解释](https://blog.csdn.net/weixin_45494811/article/details/104030914)
+ > C++输入 / 输出运算符的重载-详细解释
+ ## [vue   微信支付  支付宝支付](https://blog.csdn.net/qq_40630064/article/details/104018082)
+ > vue   微信支付  支付宝支付
+ ## [Android Material Design 之 Activity 跳转水波纹扩散动画](https://blog.csdn.net/smile_Running/article/details/104024391)
+ > Android Material Design 之 Activity 跳转水波纹扩散动画
+ ## [Android智能指针 （二）](https://blog.csdn.net/zhiyanzhai563/article/details/104028698)
+ > Android智能指针 （二）
+ ## [春招Android开发面试经验（字节跳动，腾讯，vivo，CVTE）附面试问题整理文档，内推渠道，咨询方式](https://blog.csdn.net/Wolf_South/article/details/104028405)
+ > 春招Android开发面试经验（字节跳动，腾讯，vivo，CVTE）附面试问题整理文档，内推渠道，咨询方式
+ ## [OpenCV-Android教程-OpenCV Manager 环境搭建](https://blog.csdn.net/qq_18604209/article/details/104033262)
+ > OpenCV-Android教程-OpenCV Manager 环境搭建
+ ## [Android 8.0 Activity启动流程分析](https://blog.csdn.net/zhangying1994/article/details/104029685)
+ > Android 8.0 Activity启动流程分析
+ ## [Cutting Sticks](https://blog.csdn.net/qq_42971794/article/details/104032681)
+ > Cutting Sticks
+ ## [信鸽推送集成华为渠道通知干货](https://blog.csdn.net/u012922981/article/details/104017861)
+ > 信鸽推送集成华为渠道通知干货
+ ## [\[RK3288\]修改开机视屏播放，解决Android音量无法调节问题](https://blog.csdn.net/qq_43350462/article/details/104028567)
+ > \[RK3288\]修改开机视屏播放，解决Android音量无法调节问题
+ ## [Flutter环境配置及问题解决](https://blog.csdn.net/weixin_43870742/article/details/104014701)
+ > Flutter环境配置及问题解决
+ ## [Telegram之导入项目、初步认识](https://blog.csdn.net/Ydecube/article/details/102874289)
+ > Telegram之导入项目、初步认识
+ ## [常用的app测试工具推荐](https://blog.csdn.net/dzreal93/article/details/104021467)
+ > 常用的app测试工具推荐
+ ## [Android跑马灯控件，可水平滚动和垂直滚动](https://blog.csdn.net/SkySmile1992/article/details/104017124)
+ > Android跑马灯控件，可水平滚动和垂直滚动
+ ## [Android App修改字体大小，且不随系统字体大小更改](https://blog.csdn.net/chy555chy/article/details/104015552)
+ > Android App修改字体大小，且不随系统字体大小更改
+# PM 
+ ## [用户激活：拆解瑞幸咖啡新用户激活流程](http://www.woshipm.com/operate/3337546.html)
+ > 产品拉新上，方式是多种多样的，在你产品本身口碑传播开来后，如何做好流量转化，就是新用户激活的重要性。一、Aha时刻一个产品的拉新环节，是多种方式并存的；新用...
+ ## [当洗牌成为终章，社交电商还有明天吗？](http://www.woshipm.com/it/3337261.html)
+ > 逐渐沦为概念的社交电商，注定是短命的。但是，作为一种后互联网时代的产物，社交电商未来的发展并不会因为洗牌而消失，反而会进化成为一种全新的事物。当流量红利见...
+ ## [千万级产品的用户运营体系长啥样？](http://www.woshipm.com/operate/3337028.html)
+ > 笔者在本文探讨拥护精益运营的底层逻辑，一起来看看，如何构建一个用户运营体系吧~在之前文章《拆解用户生命周期，发现它与正态分布曲线之美》，笔者从用户生命周期的...
+ ## [9年互联网史：我抓取了 14000 多篇科技媒体文章后有这几点发现](http://www.woshipm.com/it/3338996.html)
+ > 本文抓取了极客公园 2011-2019 的全部文章并统计了词频，来看看有哪些新奇的发现~微信之父张小龙早年曾有一条“饭否”，说自己作为产品经理不知道当时的一个热词“SoLoMo...
+ ## [产品经理必须掌握的五个心理学原理](http://www.woshipm.com/pmd/3337405.html)
+ > 产品经理可以利用行为心理学的原理来了解产品创意潜在的优势和缺陷，并最终为用户创造有影响力和令人满意的产品。本文会介绍一些心理学原理，帮助我们理解人类认知过程...
+ ## [2020年，哪些创业「伪风口」暴露了？](http://www.woshipm.com/it/3338014.html)
+ > 雷军说，站在风口上，猪都能起飞。下文将要写到的付费自习室、网红实体店、O2O项目、无人零售。还有自动驾驶、人工智能、在线英语、影视娱乐、社交大起义——2020年的创业...
+ ## [内容付费后，微信内容生态将会有什么变化？](http://www.woshipm.com/it/3335865.html)
+ > 从微信的“进化史”来看，支付功能、公众平台以及小程序是微信产品进化的三个节点。内容付费，会是下一个进化节点吗？三年之后，它来了……未来它还会走吗？1月15日，微...
+ ## [以在线教育公司为例，如何做一款财务对账产品？](http://www.woshipm.com/pd/3338772.html)
+ > 笔者以一个虚构的在线教育公司的对账业务为背景，分享了怎么做对账产品以及对应的设计要点。财务同学每月月初都需要核对上个自然月微信、支付宝等金融收款账户的交易...
+ ## [春节借势，离不开这七大主题](http://www.woshipm.com/marketing/3333289.html)
+ > 春节，是中国最重要的传统节日之一，每个品牌会推出自己的春节主题内容以吸引用户关注。本文阐述了春节营销常用的主题，供大家参考。转眼，渐近年关，春节，是中国最...
 
     
