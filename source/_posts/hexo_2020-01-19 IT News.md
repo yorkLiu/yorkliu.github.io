@@ -1,7 +1,7 @@
 ---
 title: 2020-01-19 IT News
 copyright: true
-date: 2020-01-19 12:00:58
+date: 2020-01-19 17:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,22 +35,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [\[科技早报7点整\]官方称电信靓号过户强制低消属于市场行为 近三万人应征日本富豪女友游月球……](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=fhI26f4ismOqspt5HdQjNDBYBnbaGLee2*SXAayNnOMivoDmBWfZh874TJ6DFoU7EDqt2KfyGoMWzXEtcwoQ*bczpyFtkzGPh0SvagkDNSvRG-hm-z0pSvnUXN9NKDWK&new=1)
- > 早上好，科技圈【一度蜜科技早报】第706期1.多家培训机构被关停后，量子速读改头换面线上忽悠日前，教育部发文叫停以“量子波动速读”“全脑培训”等为名违规开展培训，此前活跃的校外培训机构已关门停业。但个...
- ## [2019年我的3D数字化创业经历反思，应用“下沉”](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=so8PGUr1UelHtq8cbTtFj-ieFPTbYND*N0hWoMMnMkOPQRTGcrFffulfJdKcThyIlvIru4jlF46p9riSEXDFpOhS*6N2IU3vs7b4DCMRDJCFo4JJcwYOpQLdA0KYTbjn&new=1)
- > 关注南极熊，知晓3D打印天下事南极熊导读：本文是辽宁大连一个做3D打印相关业务的企业（大连众益工业技术有限公司），其创始人兼总经理魏宏亮，对自己在2019年的3D数字化创业经历进行了总结反思。因为是来自一线...
- ## [130款科技产品，致敬时代|2019年度](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=njw565dtzJj3cOnJ35BNddcXgZTntGnvSE69SNKD4geTpmZGt-GrbeHP9f*iu9SX0-3l0baIQd0cokRfMydc5AXeB5wbdNk6qoCvVhboLyUF5ss75XqGO5lzMJQ8MoXJ&new=1)
- > 2019年已经结束，转眼间，我们已经进入到20年代。对科技和互联网行业而言，这是一个承上启下的重要时间节点。过去一年多的时间里，5G技术在消费级领域出现并应用，除了手机，还将对物联网等各行各业产生深远的影...
- ## [新型恶意软件JhoneRAT现身 频繁针对中东地区](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=u9EUat3QuYnJKZB6DISBgcXaNPjlaIx*F8uzRJMw179bt2d6zqd8J91w8pEtgq*-a5e-r6Bvez2CdH9Ydb2kl7NM6xu7rQWZ9QnDdXlyAiO-u63mNb*Irwb2wU-E31ZN&new=1)
+ ## [中科院「木兰」开发者为夸大行为道歉，「首款国产编程语言」实为「换皮 Python」](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=R8b2H4Mss8wJ6lrIHz86zDUHoReirQ7ry88Uqk2oGVJhh7XxL5*rAO8XCVJAXzsK-7UsEt-lSx86iHC93iPuJZn6z1D3vD3VqlnWnTjCcry07ZG7**KTPg*zwPBJddvI&new=1)
+ > 近日，由中科院计算所团队「完全自主设计、开发和实现」的「木兰」编程语言被质疑是 Python 语言的套壳产品。该套编程语言宣称定位于面向智能物联应用，称其能够实现编程语言自主可控，是智能物联时代的 C 语言...
+ ## [当制造业遇到 Dynamics 365，会产生怎样的化学反应?](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=9pTIvtBJinflqlPMGVwF-VCeVlRfv6gvtD8QPupYoztoDGVcuUWtZHzQ7rXIIJD6VAQ*AQoBpiw1oR2-ywlc9P5ivkm*6kOnjSUbdRU3kMA0FNnFBRTG3MF1hsluOjgm&new=1)
+ > （本文阅读时间：8 分钟）进入数字经济时代，数字化转型可以帮助各行各业重构业务流程、重构用户体验、重构产品和服务、重构商业模式。而这一系列的“重构”，得益于科技的飞速更迭和管理方法的创新升级。2019 ...
+ ## [Windows 10 再香，国内超一半用户「死守」停更的 Windows 7](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=YdXm4V3R-Rb2-9Z1ikz0XXcF0B6eMfAtnD01ml*JOK2wfJENc37M2v8NnA8sYIIhmKrw8dWKl82q7sUrExppyGXC07JBQYsNVH*4LP9Boz5pB*mm6FGOBt1Y0wdbCLY1&new=1)
+ > 作者 | 杨雪梅来源 | 新浪科技（ID：techsina）属于Windows 7的时代结束了。近日，微软正式停止了对Windows 7系统的更新维护服务。服务停止后，微软不会再对Windows 7有相关的技术支持、软件更新或程序修正，用...
+ ## [天津镭明激光将在上海召开LiM-X400A金属3D打印机发布会](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=l-rAl4F-FnUGduZiuE2HA6RdXmiRgH3jWnOG4O2R0MGfLX09*NX641GProIwPMi4jz80wnUIk72bIGpp6Fn2lrulPkFFLWh1z7bEMMNmI5v66-l4ZxN7tIZiET8QDHcj&new=1)
+ > 天津镭明激光将于2020年2月19日召开自主研发激光选区设备LiM-X400A新品发布会。时间：2020年2月19日 下午14：30地点：上海证大美爵酒店 · 3F海蓝厅LiM-X400A金属3D打印机发布会流程安排14:00-14：30
+ ## [过去20年美国最重要的21项发明](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=vMPBRxj6*YEQyKjIt*lEu0mHPVrQdu5fYfih09hNjlgMV*wea*V87ghwrpkyu2CZS9Lcf9lumeqIjEDNAwes6HcR2GcKHbT76m4eKP1fEWeg8jvIjQZxcmOjcinv2vXc&new=1)
+ > 投资银行在线是一个资本与项目对接的互联网金融平台，围绕“早期投资、私募股权融资、项目并购退出”提供一站式金融服务。如果您有靠谱的项目，请将商业计划书发送到: bp@pelist.com。自人类进入21世纪以来，我...
+ ## [Python2 已终结，入手Python 3，你需要这30个技巧](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=YWKAtjzidheK63MVJL1QZr8wZ5-zAZJUEiXc9sSLh5hfG2BSbbUeeBRleW6W4lEGbUMbdkcam48Sx4L3NF1m3IGzAyVhDeybCk0UW9zgvc6eu1PL*7XxBiTzVXRjfVxP&new=1)
+ > 选自medium作者：Erik-Jan van Baaren机器之心编译参与：王子嘉、一鸣Python2 在今年和我们说拜拜了，Python3 有哪些有趣而又实用的技巧呢？这篇教程有 30 个你会喜欢的方法。勤劳的程序员们，这里有 30 条
+ ## [英媒：美打压华为将损害欧洲电信业 竞争对手也无法受益](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=EpL6NCJX-P47xRqgGm*VheM-jhXrQ5**Bm3Hr*Wxus9rXPgPj3AfCHePKYym53BSCIXKkVHWYHFBwd5wD7f*NeAFzBLu8FTb4xiBL59B90Y=&new=1)
+ > 参考消息网1月19日报道 英媒称，穆迪分析公司的分析人士说，限制使用华为设备的政治压力与日俱增，这将损害欧洲电信业，因为它们可能面临更高的零部件成本。据英国《每日电讯报》网站1月17日报道，分析人士称，...
+ ## [孙正义下重金的机械臂独角兽梦碎：估值最高40亿美元，做披萨太难吃，只好去做披萨盒](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=5IBbaMtuKfI2dg9mu01Fir*YJJ-zV3GrMwv4lgjvxzwRBv3His5Gk1DS5dcpK1XPIegszUmG29UIxQVG*2B4KY7sRxGYRrzTuvi75Oz6TKSD-jm8fTvkY9Vbr6jVLY-7&new=1)
+ > 乾明 十三 发自 凹非寺 量子位 报道 | 公众号 QbitAI寒潮一来，也能知道谁在裸泳。2020刚开年，硅谷又一家明星机器人公司倒下，名叫Zume，一度以“机器人+披萨”而知名的公司，还获得了孙正义旗下软银愿景投资。...
+ ## [深度|5G千亿蛋糕来袭，设备商如何出牌?](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=YVGEiqFOWVcq2wcp6QGzQFdfUpwZpxky635w7FRElwgCivJCMK84GrYiCJDe-XJz4cVAmShbYf8*AWitQUn-oxP*w0cXIS8teelhxvrLQZ7j20maEIMI-WNL72vJNL7s&new=1)
+ > 年关将至，刚下过一场雪的北京寒意袭人，中国移动国际信息港却分外热闹。这座距北京市中心25公里的园区内，每天进出数百人，包括一些外国技术专家，大多神色匆匆，迅速地钻进8层的红色写字楼里。巨大的机器嗡嗡...
+ ## [金V启航 筑梦未来 2020虚拟与增强现实产业年会暨金V奖颁奖盛典圆满举行](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=AvQMnZddt2GpKLxh94cA1xs1W9lFOd-6Bu8ZL0IyCAEkc4f*k5D5ZZvRCambEWUw6WKnpUn1oN0l*OiltAAEdmaPb9GHpM*JXhiAmKJ8mh4VYu7TArXaMwHDko9kW*qs&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱（原创）2020年1月17日，由93913虚拟现实网和邀界网主办，鸿威会展集团、亚洲VR&amp;AR博览会联合主办，VRCORE、VRPLAY、
+ ## [华米不再只是一家“表厂”](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=tGSMVXbIYdXu1laLgRuxUDVxTyEHztFzCwPhbSpjqaubZJWYpO3MGdyUBwG21NPOmG41ZlGvT1LuSpBlHXRu2WGrFh9F2fYdiyZnQft0TEBMgmoBkPh3HW0kGKsPLLFS&new=1)
+ > 大健康。在华米CES 2020发布会上，华米再一次强调了那个愿景。在这场名为“跃过山丘”的发布会上，除去两款手表——户外智能手表Amazfit T-Rex、基础智能手表Amazfit Bip S外，华米向全世界媒体介绍了四款围绕“...
+ ## [新型恶意软件JhoneRAT现身 频繁针对中东地区](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=u9EUat3QuYnJKZB6DISBgcXaNPjlaIx*F8uzRJMw17*hKdTHluQgG6CoASVoL8mvHgJjwKxo0B72dxu9MhuCFNT8Osj1nC3TxnI3v9dBbhjyMwAJ4I9BLhRs4zg1qzaw&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全1月18日讯，据外媒报道，近日，思科Talos的网络安全研究人员发现了一种新型远程控制木马JhoneRAT。一旦下载，RAT就会在受害者的计算机上收集信息，并且还...
- ## [坏掉的机器人怎么办?机器人：没事，我自己修|科技袁周虑第39期](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=q9xFdlqnuoeCb7a4pQTunOuX4hF4Bs2GcIpROnd9UnBmllNy420N*XGskusjc6E*PzgJrlthZJCKbbVuqi78ryI26iHTIlrRWMuOJMWMkbfKHQLR9NdmtSUCPk-Yfenn&new=1)
+ ## [智能门禁系统引入贵阳社区](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=RfLqc-rpZw05B3Aw2dvbbaqqI7o8Ix3HG2lfu56FuHC5H4-N7OJ-hmj7r6xjocMo0nQ1r6j1Lro3T*ySPx5O4Q9*qu-YTSUpyn4T21c41DI=&new=1)
+ > 本报讯 为提升融媒体转型升级，贵阳日报传媒集团旗下子公司——贵州启程传媒有限公司近日与贵阳维诺德信息科技有限公司达成战略合作协议，独家代理“够近物联”智能社区门禁广告系统项目，这标志着贵阳...
+ ## [2020年DevSecOps安全团队的六大目标](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=iI0OQzpbuxV64zTxz9MO*fBPOwtk9FmGdGd2mMH0*yKJY9J73xKqzZsm1Cc19XlCV3Sld0g4gF5is*iB9AB-k*F-MsJ3Ccd6HHEcOUA0X8dJO77UECeCaA17X9r9ksf4&new=1)
+ > 2020 年，“敏捷安全” 将解决数字化转型中困扰企业多年的安全问题。随着企业改变其技术基础设施和软件交付模式，以保持市场领先优势， IT 交付领域正在经历巨大的变化。这推动了 DevOps 实践、云原生技术、容器...
+ ## [2019年我的3D数字化创业经历反思，应用“下沉”](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=so8PGUr1UelHtq8cbTtFj-ieFPTbYND*N0hWoMMnMkPgYF*zSR-Rq0GndFg53WTx-VSUjemk**Rnc4ge3*VDQdas7y0coQXYqKUow2A0gcDmVOPUi20DlZr5ede*70np&new=1)
+ > 关注南极熊，知晓3D打印天下事南极熊导读：本文是辽宁大连一个做3D打印相关业务的企业（大连众益工业技术有限公司），其创始人兼总经理魏宏亮，对自己在2019年的3D数字化创业经历进行了总结反思。因为是来自一线...
+ ## [\[科技早报7点整\]官方称电信靓号过户强制低消属于市场行为 近三万人应征日本富豪女友游月球……](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=fhI26f4ismOqspt5HdQjNDBYBnbaGLee2*SXAayNnOM-CLd9HyU6McQtDf-dPyM7dIlp9pvqvr84mfWjdIW4mZfkKjEEu4Z3EnS82IE75PwHiabvKypIRCXUc2ofF2Bo&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第706期1.多家培训机构被关停后，量子速读改头换面线上忽悠日前，教育部发文叫停以“量子波动速读”“全脑培训”等为名违规开展培训，此前活跃的校外培训机构已关门停业。但个...
+ ## [130款科技产品，致敬时代|2019年度](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=njw565dtzJj3cOnJ35BNddcXgZTntGnvSE69SNKD4gdcEGDBPamv9gMGu*LJPDX6bZ0KqxKj5iTPscvV7dHSexOpPnZ1iM*fLiQ-YUtWCmSXNcfFIhLU4gBsfz1K-GH-&new=1)
+ > 2019年已经结束，转眼间，我们已经进入到20年代。对科技和互联网行业而言，这是一个承上启下的重要时间节点。过去一年多的时间里，5G技术在消费级领域出现并应用，除了手机，还将对物联网等各行各业产生深远的影...
+ ## [坏掉的机器人怎么办?机器人：没事，我自己修|科技袁周虑第39期](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=q9xFdlqnuoeCb7a4pQTunOuX4hF4Bs2GcIpROnd9UnBrLgrs0mjuGe7nuaJ9Q0SZPKHcTIk2VwoMbSBezUP7C67Z1QMFiJg2OIEq1ixHV5BKaK2QK8klYHmVyOtiYnBw&new=1)
  > 关注风云之声提升思维层次导读本期科技袁周虑话题：自体维修机器人；CES2020；国家最高科学技术奖揭晓；苔丝发现首颗类地宜居行星；天眼通过验收。注：风云之声内容可以通过语音播放啦！读者们可下载讯飞有声APP...
- ## [盘点诺基亚2019](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=C1DkbwFQLczeJapkLTbEUh9D8RyYjwwoJXrwd8-clTI6sulp4nkGHpSCbSbPjwE2WREUeUbgkCBN2Xu0H9dbrjbYcfWktNiGl*-DdFMzsjIHn3ku60VYOV6ApxnL4rR1&new=1)
+ ## [盘点诺基亚2019](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=C1DkbwFQLczeJapkLTbEUh9D8RyYjwwoJXrwd8-clTL5FzRBQvKLZ5M8mZ2beLKehF0m7tdsN6UKorWJ2GM9cHXQCC3ej3PUXLvmmkynKaq7yCNs6TnnZatcXg5m3kr9&new=1)
  > 63份5G商用合同、100多个5G协议的成绩单异常亮眼，同时也让我们再一次领略到百年企业的魅力所在--技术果然是第一生产力！坐拥2000多项5G必要专利，让诺基亚再度成为行业领军者。2019年诺基亚进一步完善5G端到端...
- ## [新晋院士张平：5G能走多远，通信测试企业就能走多远](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=j8mvCUg3agU7yGt-Fvu2D9Bdyb1*rw9xzWm0-zwbmYNKlYUu7Kk*FBwe-Hoo*UzOK3XMzUqzbTr7voevDQ9v-t3COTCOKIKpXrJ8jbvk5q1ikya58jCjRHWIDWQGzoTg&new=1)
+ ## [新晋院士张平：5G能走多远，通信测试企业就能走多远](http://mp.weixin.qq.com/s?src=11&timestamp=1579424405&ver=2105&signature=j8mvCUg3agU7yGt-Fvu2D9Bdyb1*rw9xzWm0-zwbmYP7QrZoBlpl8AxvDsjkBadeMnaF*MgI4eQD7NPFtfWmS2WVuH-pIP5ftBemYMqOPjZ-6hFFPZiicPOkGDfcilyf&new=1)
  > 在北京邮电大学新科研楼一间普通办公室里，利用院士午休时间，记者对新晋的中国工程院院士张平做了专访。张平教授现担任北京邮电大学网络与交换技术国家重点实验室主任，长期从事移动通信理论研究和技术创新工作...
- ## [说了三个月，华为OpenEuler操作系统源码正式公开了](http://mp.weixin.qq.com/s?src=11&timestamp=1579404604&ver=2105&signature=lyqcoJAyxDLKjzBG29i-TEUZnR8CVFJG5CByqUKyCK7PrCMgD37NURtRNvNOZW6UkOwr6wPqD8UlV97qAcurZZvy8TDq3Ozqke0HzE6ccKzHMEIGa2WzJrzj1ILPHS6h&new=1)
- > 作者：开源最前线（ID：OpenSourceTop） 链接：https://gitee.com/openeuler在2019年9月17日openEuler被宣布要在年底开源，近日，Euler操作系统终于正式开放源代码、镜像及开发测试环境。华
 # IT 技术 
  ## [上海失独妈妈用AI“复活”了年仅14岁女儿......](http://ai.51cto.com/art/202001/609626.htm)
  > 上海失独妈妈用AI“复活”了年仅14岁女儿......
@@ -76,34 +100,36 @@ categories: IT NEWS
  > 本文将从Web应用 由传统身份验证到基于Token的身份验证的演变过程的角度，介绍Session、Cookie、Token。
  ## [入职阿里5年，他如何破解“技术债”？](http://news.51cto.com/art/202001/609625.htm)
  > 当你埋下的坑越来越多，不知道哪天哪位同学就会踩上一颗雷。特别赞同“人最大的恐惧就是未知，当技术债可说
+ ## [傲慢与无知，请警惕伪需求的陷阱！](https://blog.csdn.net/weixin_44198965/article/details/103195964)
+ > 傲慢与无知，请警惕伪需求的陷阱！
+ ## [前端 | 2. 正则](https://blog.csdn.net/qq_45791147/article/details/102716271)
+ > 前端 | 2. 正则
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [Python调用百度API实现语音识别（二）](https://blog.csdn.net/weixin_38753698/article/details/103220987)
+ ## [Spring Cloud 微服务开发：入门、进阶与源码剖析 —— 通篇概述](https://blog.csdn.net/meteor_93/article/details/104019446)
+ > Spring Cloud 微服务开发：入门、进阶与源码剖析 —— 通篇概述
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
- > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
- ## [数据库优化 - SQL优化](https://blog.csdn.net/jianzhang11/article/details/102867120)
+ ## [Android Retrofit 源码系列（四）~ 文件上传](https://blog.csdn.net/johnny901114/article/details/104032454)
+ > Android Retrofit 源码系列（四）~ 文件上传
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [SQL-小白最佳入门sql查询一](https://blog.csdn.net/youku1327/article/details/102979381)
- > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
  > 
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
- ## [来，干了这碗鸡汤](https://blog.csdn.net/meteor_93/article/details/104029362)
- > 来，干了这碗鸡汤
+ ## [Python Networkx基础知识及使用总结](https://blog.csdn.net/CUFEECR/article/details/103007712)
+ > 
+ ## [Mybatis学习（2）史上最全的 自定义mybatis](https://blog.csdn.net/weixin_43570367/article/details/103244430)
+ > 
  ## [Pandas 数据处理三板斧，你会几板？](https://blog.csdn.net/csdnnews/article/details/104035585)
  > 作者| 易执责编 | Elle在日常的数据处理中，经常会对一个DataFrame进行逐行、逐列和逐元素的操作，对应这些操作，Pandas中的map、apply和applymap可以解决...
  ## [我们为什么用 Go 编写机器学习架构，却不用 Python？](https://blog.csdn.net/csdnnews/article/details/104035584)
@@ -113,54 +139,60 @@ categories: IT NEWS
  ## [滴滴章文嵩：一个人的 20 年开源热情和国内互联网开源运动](https://blog.csdn.net/csdnnews/article/details/104035581)
  > 作者 | Just出品 | AI科技大本营（ID:rgznai100）开源热情就是好玩儿。说起他在22年前的第一款开源软件LVS（Linux Virtual Server），章文嵩这样描...
 # 人工智能 
- ## [C++输入 / 输出运算符的重载-详细解释](https://blog.csdn.net/weixin_45494811/article/details/104030914)
- > C++输入 / 输出运算符的重载-详细解释
- ## [vue   微信支付  支付宝支付](https://blog.csdn.net/qq_40630064/article/details/104018082)
- > vue   微信支付  支付宝支付
- ## [Android Material Design 之 Activity 跳转水波纹扩散动画](https://blog.csdn.net/smile_Running/article/details/104024391)
- > Android Material Design 之 Activity 跳转水波纹扩散动画
- ## [Android智能指针 （二）](https://blog.csdn.net/zhiyanzhai563/article/details/104028698)
- > Android智能指针 （二）
- ## [春招Android开发面试经验（字节跳动，腾讯，vivo，CVTE）附面试问题整理文档，内推渠道，咨询方式](https://blog.csdn.net/Wolf_South/article/details/104028405)
- > 春招Android开发面试经验（字节跳动，腾讯，vivo，CVTE）附面试问题整理文档，内推渠道，咨询方式
- ## [OpenCV-Android教程-OpenCV Manager 环境搭建](https://blog.csdn.net/qq_18604209/article/details/104033262)
- > OpenCV-Android教程-OpenCV Manager 环境搭建
- ## [Android 8.0 Activity启动流程分析](https://blog.csdn.net/zhangying1994/article/details/104029685)
- > Android 8.0 Activity启动流程分析
- ## [Cutting Sticks](https://blog.csdn.net/qq_42971794/article/details/104032681)
- > Cutting Sticks
- ## [信鸽推送集成华为渠道通知干货](https://blog.csdn.net/u012922981/article/details/104017861)
- > 信鸽推送集成华为渠道通知干货
- ## [\[RK3288\]修改开机视屏播放，解决Android音量无法调节问题](https://blog.csdn.net/qq_43350462/article/details/104028567)
- > \[RK3288\]修改开机视屏播放，解决Android音量无法调节问题
- ## [Flutter环境配置及问题解决](https://blog.csdn.net/weixin_43870742/article/details/104014701)
- > Flutter环境配置及问题解决
- ## [Telegram之导入项目、初步认识](https://blog.csdn.net/Ydecube/article/details/102874289)
- > Telegram之导入项目、初步认识
- ## [常用的app测试工具推荐](https://blog.csdn.net/dzreal93/article/details/104021467)
- > 常用的app测试工具推荐
- ## [Android跑马灯控件，可水平滚动和垂直滚动](https://blog.csdn.net/SkySmile1992/article/details/104017124)
- > Android跑马灯控件，可水平滚动和垂直滚动
- ## [Android App修改字体大小，且不随系统字体大小更改](https://blog.csdn.net/chy555chy/article/details/104015552)
- > Android App修改字体大小，且不随系统字体大小更改
+ ## [网络基础（一）](https://blog.csdn.net/wolfGuiDao/article/details/104017662)
+ > 网络基础（一）
+ ## [RedHat基础入门(二)](https://blog.csdn.net/gd_9988/article/details/104021574)
+ > RedHat基础入门(二)
+ ## [Linux 精华汇总（shell命令）](https://blog.csdn.net/fzl_blog/article/details/104027544)
+ > Linux 精华汇总（shell命令）
+ ## [GitBush中ls cat mv  touch的使用](https://blog.csdn.net/Guo1009/article/details/104024794)
+ > GitBush中ls cat mv  touch的使用
+ ## [Docker自定义一个Tomcat镜像](https://blog.csdn.net/qq_32599479/article/details/104007248)
+ > Docker自定义一个Tomcat镜像
+ ## [Tomcat集群搭建部署](https://blog.csdn.net/aaronszm/article/details/104015962)
+ > Tomcat集群搭建部署
+ ## [Windows，VmWare，Centos（Ubuntu）之间的关系图解——史上最通俗易懂](https://blog.csdn.net/qq_44891295/article/details/104024125)
+ > Windows，VmWare，Centos（Ubuntu）之间的关系图解——史上最通俗易懂
+ ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
+ > linux系列之常用运维命令整理笔录
+ ## [VMware centos7配置以及SecureCRT连接](https://blog.csdn.net/bibiboyx/article/details/104020808)
+ > VMware centos7配置以及SecureCRT连接
+ ## [Ubuntu下正确姿势使用GDB调试Android Native进程](https://blog.csdn.net/tkwxty/article/details/104027151)
+ > Ubuntu下正确姿势使用GDB调试Android Native进程
+ ## [63-Ubuntu-NGINX 系统参数优化](https://blog.csdn.net/dushansao/article/details/104015852)
+ > 63-Ubuntu-NGINX 系统参数优化
+ ## [kali linux中修改yum源、更新国内源教程（附中科大、浙大、清华等源）](https://blog.csdn.net/weixin_43996007/article/details/104018276)
+ > kali linux中修改yum源、更新国内源教程（附中科大、浙大、清华等源）
+ ## [浅谈红帽linux挑战赛(二)](https://blog.csdn.net/gd_9988/article/details/104030048)
+ > 浅谈红帽linux挑战赛(二)
+ ## [windows中的文件共享](https://blog.csdn.net/qq_44159028/article/details/104022577)
+ > windows中的文件共享
+ ## [linux 常用命令汇总](https://blog.csdn.net/fzl_blog/article/details/104025860)
+ > linux 常用命令汇总
 # PM 
- ## [用户激活：拆解瑞幸咖啡新用户激活流程](http://www.woshipm.com/operate/3337546.html)
- > 产品拉新上，方式是多种多样的，在你产品本身口碑传播开来后，如何做好流量转化，就是新用户激活的重要性。一、Aha时刻一个产品的拉新环节，是多种方式并存的；新用...
- ## [当洗牌成为终章，社交电商还有明天吗？](http://www.woshipm.com/it/3337261.html)
- > 逐渐沦为概念的社交电商，注定是短命的。但是，作为一种后互联网时代的产物，社交电商未来的发展并不会因为洗牌而消失，反而会进化成为一种全新的事物。当流量红利见...
- ## [千万级产品的用户运营体系长啥样？](http://www.woshipm.com/operate/3337028.html)
- > 笔者在本文探讨拥护精益运营的底层逻辑，一起来看看，如何构建一个用户运营体系吧~在之前文章《拆解用户生命周期，发现它与正态分布曲线之美》，笔者从用户生命周期的...
- ## [9年互联网史：我抓取了 14000 多篇科技媒体文章后有这几点发现](http://www.woshipm.com/it/3338996.html)
- > 本文抓取了极客公园 2011-2019 的全部文章并统计了词频，来看看有哪些新奇的发现~微信之父张小龙早年曾有一条“饭否”，说自己作为产品经理不知道当时的一个热词“SoLoMo...
- ## [产品经理必须掌握的五个心理学原理](http://www.woshipm.com/pmd/3337405.html)
- > 产品经理可以利用行为心理学的原理来了解产品创意潜在的优势和缺陷，并最终为用户创造有影响力和令人满意的产品。本文会介绍一些心理学原理，帮助我们理解人类认知过程...
- ## [2020年，哪些创业「伪风口」暴露了？](http://www.woshipm.com/it/3338014.html)
- > 雷军说，站在风口上，猪都能起飞。下文将要写到的付费自习室、网红实体店、O2O项目、无人零售。还有自动驾驶、人工智能、在线英语、影视娱乐、社交大起义——2020年的创业...
- ## [内容付费后，微信内容生态将会有什么变化？](http://www.woshipm.com/it/3335865.html)
- > 从微信的“进化史”来看，支付功能、公众平台以及小程序是微信产品进化的三个节点。内容付费，会是下一个进化节点吗？三年之后，它来了……未来它还会走吗？1月15日，微...
- ## [以在线教育公司为例，如何做一款财务对账产品？](http://www.woshipm.com/pd/3338772.html)
- > 笔者以一个虚构的在线教育公司的对账业务为背景，分享了怎么做对账产品以及对应的设计要点。财务同学每月月初都需要核对上个自然月微信、支付宝等金融收款账户的交易...
- ## [春节借势，离不开这七大主题](http://www.woshipm.com/marketing/3333289.html)
- > 春节，是中国最重要的传统节日之一，每个品牌会推出自己的春节主题内容以吸引用户关注。本文阐述了春节营销常用的主题，供大家参考。转眼，渐近年关，春节，是中国最...
+ ## [内容付费的生与死](http://www.woshipm.com/it/3339406.html)
+ > 人们常说内容为王，知识无价，但却往往愿意为情绪买单，不愿意为思考付费。1月15日，微信订阅号付费开始灰度内测，目前只支持个人订阅号开通付费功能，媒体、政府、企...
+ ## [大多数人对AI的理解，都是错的](http://www.woshipm.com/ai/3339440.html)
+ > 在新时代，人工智能对营销或是品牌服务有没有帮助？阅读前，先思考：AI在哪方面无法超越人类？AI能在营销或品牌服务中的哪些要点上发挥作用？近些年我一直在研究...
+ ## [AI漫谈：电梯调度运行逻辑](http://www.woshipm.com/ai/3339186.html)
+ > 电梯到底是如何调度，来满足不同楼层的请求？早上被窝内外的温差导致你比平常晚起了20分钟，你飞快洗脸刷牙，穿鞋的同时叫了一辆网约车。路上堵了半天，一下车你就飞...
+ ## [想要构建高质量的用户画像，先回答这5个问题](http://www.woshipm.com/user-research/3337987.html)
+ > 如果说有什么能力是产品经理最需要具备的核心能力，那么答案一定是“了解用户”，而要说如何体现产品经理对用户了解的程度，那一定是能输出一份合格的用户画像。一、为...
+ ## [AI产业化落地过程中，我的体验设计思考](http://www.woshipm.com/ai/3339192.html)
+ > 作者从自己的AI项目经历中总结出一些面临的挑战和相关的思考，AI探索过程充满了各种可能性，过往的知识架构需要能灵活运用，痛苦却也有趣。2018年伊始进入公司AI部门...
+ ## [产品经理如何选择一个健康的职场环境？](http://www.woshipm.com/zhichang/3335256.html)
+ > 对于在电脑前辛苦奋斗的产品经理来说，拥有一个健康的工作环境是很重要的。很多产品经理选择工作的标准不仅仅是薪酬福利，在工作环境方面也有着自己的要求。如何选择一...
+ ## [OCR在NLP场景中的应用](http://www.woshipm.com/ai/3207432.html)
+ > 在NLP的产品体系中，OCR是关于文档、文件处理的基础步骤，是无法回避和绕开的。关于OCR的基础知识，也就成了NLP产品经理必不可少的知识储备了——只有产品详细地了解了关...
+ ## [“我的家”背后，支付宝的真正目的是什么？](http://www.woshipm.com/operate/3337937.html)
+ > 当集五福变成了一个全民的过年固定活动，还有多少增长的可能？阿里巴巴从未在拉新这件事上松懈过，集五福的“我的家”就是这么一个手段。一年一度的支付宝“集五福”活动...
+ ## [年夜饭，怎么吃？](http://www.woshipm.com/marketing/3337766.html)
+ > 餐馆、外卖、半成品，哪种年夜饭吃着更香？了解到年夜饭的预定之火爆，作者对年夜饭市场进行了一定的研究，也知道原来还有这么多种的年夜饭形式，也基于此进行了一些会...
+ ## [走进SaaS业务（2）：SaaS模型的基本方程](http://www.woshipm.com/pd/3338326.html)
+ > SaaS（Software-as-a-service，软件即服务）是一种软件计费和交付模型，它优于传统的软件许可证销售方法，有着重新构建的业务模型和独特的实践体系。但是许多SaaS从业者...
+ ## [扭曲数据的9大手段，数据分析师速看！](http://www.woshipm.com/data-analysis/3338969.html)
+ > 文章梳理总结了最常见的扭曲数据的九大手段，大家先牢记于心。很有可能你会在年终总结、年度规划、活动评估等场合遇到它们。提前了解，也好早早应对。做数据分析，有...
+ ## [我在零售巨头做新零售（三）：用户运营](http://www.woshipm.com/operate/3338234.html)
+ > 商业的本质离不开用户，任何商业模式的路径都是基于“用户”开展，互联网行业非但不例外且显的尤为重要，做运营实为做流量运营，做产品实为做用户体验，做新技术实为做用...
 
     
