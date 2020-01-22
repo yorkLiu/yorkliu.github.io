@@ -1,21 +1,25 @@
 ---
 title: 2020-01-22 IT News
 copyright: true
-date: 2020-01-22 09:00:58
+date: 2020-01-22 10:00:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刚刚，中国电信再爆重大调整，要求1月底前完成](http://mp.weixin.qq.com/s?src=11&timestamp=1579654804&ver=2111&signature=C-OjbS*aa6J4AqVwhSP7h1v0BrY*T7s*H1JmMi4O8dyGWV3T08qIkpNKGoU3njuCnRBIOE*Q1g1xRTa-h6ovJ9z60jhDFOOxcyQKm89nEu*dFnmHK5fAVulnC7PmqDLz&new=1)
- > 在2019年对旗下三大专业研究院进行改革的设计之后，中国电信已要求，确保在2020年1月底前完成专业院调整等改革工作。中国电信原有技术部和北京、上海、广州三大研究院，但2019年时，中国电信成立了集团层面的中...
- ## [眼花缭乱的通信圈已经开始深度竞合](http://mp.weixin.qq.com/s?src=11&timestamp=1579654804&ver=2111&signature=rG2U-Y7ZeF55gjMyhmNl0iwbAR03N7mzJcRRQO57Ex3r-h7muku5KQkmbrKmzsU2prB-ZUErjkHn-flvjsmoD9tHdEs5Fy674pUIDnTSqxU-EaAHNFUEL-mfp3MdwCSs&new=1)
- > 最近的几条新闻成功占领广大通信行业从业者的朋友圈。无论是疯狂传播的中国移动和中国电信总经理人选，还是中国广电换帅资深通信界人士，亦或是中国联通副总裁调任中国电信副书记都已经刷屏。虽然部分信息并未得...
- ## [刚刚，中国电信内部重大调整，要求1月底前..](http://mp.weixin.qq.com/s?src=11&timestamp=1579654804&ver=2111&signature=zbpYsbGly5lEhON7LagDNt3njIGethyvmFACyzCybhg*vVBN2xf4udazUi3a2pjq5Pj9DGfZ2gJXSCFD6gKG7GfUeXyW-BH4WZJ2vSNjZ9fGJC48eAqd8LLANJGmjIio&new=1)
+ ## [机器人送快递?那只是福特自动化战略展现出来的一角](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=TPfOpBrvAOsClVv6XT1Bot7v6nrJ6ai2wekWBLocbpg0Mk*wLJ-6yeuF6SWBGcCKmxbldzSe31ru5gq-IMVguvPbswj71tnjSMsCi2ge4pKq4xP67NGeMjojkCF9-LEB&new=1)
+ > 还记得去年有这么一段视频，视频中两位工作人员将机器人带到实验室，测试它在工作中的抗击打和承受能力。他们先是用冰球棒、弹力球攻击机器人，然后用酒瓶砸它，用喷雾喷它，用喇叭干扰它，用鞭子抽它，甚至连开...
+ ## [刚刚，中国电信内部重大调整，要求1月底前..](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=zbpYsbGly5lEhON7LagDNt3njIGethyvmFACyzCybhg*vVBN2xf4udazUi3a2pjqLrM1qwu3lOBOqPbAfTlKZVMFnoFXEbLdBH0vdXFfltvU09-hEFnINUfaE8FiNwlu&new=1)
  > 来源 运营商财经网 吴碧慧在2019年对旗下三大专业研究院进行改革的设计之后，中国电信已要求，确保在2020年1月底前完成专业院调整等改革工作。中国电信原有技术部和北京、上海、广州三大研究院，但2019年时，中...
- ## [吹日本，到底需不需要打草稿?|烦日吹](http://mp.weixin.qq.com/s?src=11&timestamp=1579654804&ver=2111&signature=myyxOrWEQgn8Ga55HGwB2tz*sFwbC96yvUNX91YGmyo4*abQE1pNnwPda7zlEHOAAxS*Nw2*ItsWMPPln6Qo2OZswo8UMxUMb1yPZ-MFIMgAVlMrE8nlQ3z3hZzHlxxJ&new=1)
- > 关注风云之声提升思维层次导读是神马支撑某些人孜孜不倦地吹捧日本呢？注：风云之声内容可以通过语音播放啦！读者们可下载讯飞有声APP，听公众号，查找“风云之声”，即可在线收听~某宇宙级通讯社社长又在情不自...
- ## [在群雄争霸的云计算市场，创业者还有机会吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1579654804&ver=2111&signature=MvD9tccJbjwE9fpJLnOJ0nJhy3lh0fr8Ssg0JffBMqQp1lflzQHGQ-gc1agnn5ryigi-EUEFmxQCSwbL4-oMyBUt9k*9XofnJvQqPFTNNmBaIOI3VM8zC4sSFK0giDBm&new=1)
+ ## [器件|天孚通信拟全资收购合资子公司天孚精密 提升公司产品协同效应](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=VxwI6QV26G1yNYFHarEjIfLgLpqG7bq59c8nXAN3PClQeCUTE1hX7o7N1lIXoS1LvnE*Scs9hATAgoMQMV8HOc*fU3d2ibqpPUkp-usJS6SkuZOW2iZXz9MpW0EO5*eP&new=1)
+ > 导读：领先的光器件供应商天孚通信拟收购天孚精密其他股东持有的80%股权，使天孚精密成为天孚通信的全资子公司，有利于天孚通信抓住5G市场发展机遇，稳步推进光通信LENS业务的发展并进行战略布局。在丰富公司产...
+ ## [在群雄争霸的云计算市场，创业者还有机会吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=MvD9tccJbjwE9fpJLnOJ0nJhy3lh0fr8Ssg0JffBMqQp1lflzQHGQ-gc1agnn5ryHXhBOg7DfLuxROZpFYWOFnDB0AqAsXWbUOCXqyE*7GCSwZmJn6*H7PV6mfvCUzIl&new=1)
  > 伴随着企业数字化转型大潮席卷全球，云计算服务正在成为越来越多企业日常业务开展中不可或缺的“水电煤”。而市场的飞速发展，也使得全球云计算市场也变得风起云涌，呈现出群雄争霸的格局。看看国际市场：亚马逊...
+ ## [刚刚，中国电信再爆重大调整，要求1月底前完成](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=C-OjbS*aa6J4AqVwhSP7h1v0BrY*T7s*H1JmMi4O8dyGWV3T08qIkpNKGoU3njuCExurTCPMKvJtoJtKZXf6ZKc-u7H1DzGF254sJnQMrufVXlervbCidqRzYADMb7a-&new=1)
+ > 在2019年对旗下三大专业研究院进行改革的设计之后，中国电信已要求，确保在2020年1月底前完成专业院调整等改革工作。中国电信原有技术部和北京、上海、广州三大研究院，但2019年时，中国电信成立了集团层面的中...
+ ## [眼花缭乱的通信圈已经开始深度竞合](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=rG2U-Y7ZeF55gjMyhmNl0iwbAR03N7mzJcRRQO57Ex3r-h7muku5KQkmbrKmzsU2oIu-t5jcFMDmKRzh-a2E3svXaoCmIxBBg2dfhjLoeu*M4v2qriYRg35bTrIQzJz2&new=1)
+ > 最近的几条新闻成功占领广大通信行业从业者的朋友圈。无论是疯狂传播的中国移动和中国电信总经理人选，还是中国广电换帅资深通信界人士，亦或是中国联通副总裁调任中国电信副书记都已经刷屏。虽然部分信息并未得...
+ ## [吹日本，到底需不需要打草稿?|烦日吹](http://mp.weixin.qq.com/s?src=11&timestamp=1579658405&ver=2111&signature=myyxOrWEQgn8Ga55HGwB2tz*sFwbC96yvUNX91YGmyo4*abQE1pNnwPda7zlEHOAv5s5sfKMtJbgGzgWM8J4briEvdePuqXPzRfHAJqOHm6s6Nb1jQ8J1ORSmpIFouCc&new=1)
+ > 关注风云之声提升思维层次导读是神马支撑某些人孜孜不倦地吹捧日本呢？注：风云之声内容可以通过语音播放啦！读者们可下载讯飞有声APP，听公众号，查找“风云之声”，即可在线收听~某宇宙级通讯社社长又在情不自...
 # IT 技术 
  ## [为什么阿里P8、P9技术大牛反复强调“结构化思维”？](http://news.51cto.com/art/202001/609652.htm)
  > 为什么阿里P8、P9技术大牛反复强调“结构化思维”？
@@ -33,29 +37,33 @@ categories: IT NEWS
  > 在Kubernetes上实现无服务器化的五种方式
  ## [为什么我们要放弃迁移到微服务？](http://developer.51cto.com/art/202001/609582.htm)
  > 为什么我们要放弃迁移到微服务？
+ ## [\[网络安全自学篇\] 四十一.中间人攻击和ARP欺骗原理详解及漏洞还原](https://blog.csdn.net/Eastmount/article/details/103898463)
+ > \[网络安全自学篇\] 四十一.中间人攻击和ARP欺骗原理详解及漏洞还原
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [\[享学Jackson\] 十四、深入理解Jackson的Module模块化设计及原理分析](https://blog.csdn.net/f641385712/article/details/104056580)
+ > \[享学Jackson\] 十四、深入理解Jackson的Module模块化设计及原理分析
+ ## [Python 植物大战僵尸代码实现(2):植物卡片选择和种植](https://blog.csdn.net/marble_xu/article/details/103100614)
+ > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
- > 
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
  ## [SQL-小白最佳入门sql查询一](https://blog.csdn.net/youku1327/article/details/102979381)
  > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
- > 
  ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
  > 
- ## [【巨杉数据库SequoiaDB】点燃深秋，巨杉数据库亮相DTC数据技术嘉年华大会](https://blog.csdn.net/SequoiaDB_Official/article/details/103121458)
- > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
+ ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
+ > 比特币原理详解
+ ## [前端工程师的 2018 年总结](https://blog.csdn.net/ch834301/article/details/85138830)
+ > 前端工程师的 2018 年总结
+ ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
  ## [为什么说阿里巴巴已进化成为一家世界级的科技公司？](https://blog.csdn.net/csdnnews/article/details/104067229)
  > 作者 |刘学辉、刘国华本文经授权转载自砺石商业评论（ID：libusiness）作为阿里巴巴核心技术载体的阿里云，已经从最初Iaas层的IT基础设施领域，延伸到芯片、服务器与数据库等硬...
@@ -64,37 +72,41 @@ categories: IT NEWS
  ## [大厂HR年底绷不住了：怎么招程序员这么难，尤其搞这项技术的！！](https://blog.csdn.net/csdnnews/article/details/104067011)
  > 力与力之间的作用一定是相互的。当我们感觉找工作难的时候，其实企业和HR也在每天崩溃：“怎么招程序员这么难？”以Python程序员为例，很多大牛都能拿到10～20万的年薪，但是很多企业却根...
 # 人工智能 
- ## [作为一名大学生，如何在B站上快乐的学习？](https://blog.csdn.net/sinat_33921105/article/details/104031977)
- > 作为一名大学生，如何在B站上快乐的学习？
- ## [【超全汇总】学习数据结构与算法，计算机基础知识，看这篇就够了](https://blog.csdn.net/m0_37907797/article/details/104029002)
- > 【超全汇总】学习数据结构与算法，计算机基础知识，看这篇就够了
- ## [计算机相关的名词解释](https://blog.csdn.net/a29562268/article/details/104029643)
- > 计算机相关的名词解释
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [「Python网络编程」如何让蔡徐坤同时唱跳rap篮球/初识多线程（二）](https://blog.csdn.net/qq_43462005/article/details/104041484)
- > 「Python网络编程」如何让蔡徐坤同时唱跳rap篮球/初识多线程（二）
- ## [2019年终总结——痛苦又幸运](https://blog.csdn.net/weixin_43828968/article/details/104041189)
- > 2019年终总结——痛苦又幸运
- ## [大学两年，写了这篇几十万字的干货总结](https://blog.csdn.net/hebtu666/article/details/103438056)
- > 
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
- > 
- ## [为什么要学数据结构？](https://blog.csdn.net/qq_14996421/article/details/103135914)
- > 
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [信息产业的生态链](https://blog.csdn.net/dongdong7_77/article/details/104032860)
- > 信息产业的生态链
- ## [CPU工作原理](https://blog.csdn.net/my___sunshine/article/details/104036595)
- > CPU工作原理
- ## [能否被2整除引发的思考](https://blog.csdn.net/weixin_42126427/article/details/104036912)
- > 能否被2整除引发的思考
+ ## [2020 启程 ● 万般滋味 ● 皆是生活 ● 小学篱笆旁的蒲公英 是记忆里有味道的风景](https://blog.csdn.net/WangRain1/article/details/104042797)
+ > 2020 启程 ● 万般滋味 ● 皆是生活 ● 小学篱笆旁的蒲公英 是记忆里有味道的风景
+ ## [vue   微信支付  支付宝支付](https://blog.csdn.net/qq_40630064/article/details/104018082)
+ > vue   微信支付  支付宝支付
+ ## [如何判断app中的页面是H5页面还是原生页面](https://blog.csdn.net/SwTesting/article/details/104038534)
+ > 如何判断app中的页面是H5页面还是原生页面
+ ## [号牌号码识别，支持新能源车牌，离线识别，喜欢就收下吧](https://blog.csdn.net/ccc920123/article/details/104048831)
+ > 号牌号码识别，支持新能源车牌，离线识别，喜欢就收下吧
+ ## [Android日志获取工具](https://blog.csdn.net/jackeysun6032/article/details/104049151)
+ > Android日志获取工具
+ ## [关于键盘Fragment监听KeyEvent事件【android菜鸟踩坑记录】](https://blog.csdn.net/Liu_Rechar/article/details/104051598)
+ > 关于键盘Fragment监听KeyEvent事件【android菜鸟踩坑记录】
+ ## [unipush实现ios、android推送教程](https://blog.csdn.net/gaofenglxx/article/details/104044108)
+ > unipush实现ios、android推送教程
+ ## [Android MVVM架构--MVVMSmart开源框架](https://blog.csdn.net/hubianyu/article/details/104038391)
+ > Android MVVM架构--MVVMSmart开源框架
+ ## [Android 调用微信H5支付遇到的大坑](https://blog.csdn.net/u012850536/article/details/104040182)
+ > Android 调用微信H5支付遇到的大坑
+ ## [Mr.Smile填坑记——安卓P、安卓10 Google原生设置中音量条调节的3个bug](https://blog.csdn.net/Keep_Holding_On/article/details/104038099)
+ > Mr.Smile填坑记——安卓P、安卓10 Google原生设置中音量条调节的3个bug
+ ## [(003)RN开发VSCode配置RN以及常用快捷键](https://blog.csdn.net/shifang07/article/details/104038419)
+ > (003)RN开发VSCode配置RN以及常用快捷键
+ ## [ios 网络请求](https://blog.csdn.net/qq_41586150/article/details/104043981)
+ > ios 网络请求
+ ## [React Native 0.60以上集成code push热更新](https://blog.csdn.net/hxl517116279/article/details/104053110)
+ > React Native 0.60以上集成code push热更新
+ ## [原生Android_APP目录结构分析](https://blog.csdn.net/qq_15769939/article/details/104048514)
+ > 原生Android_APP目录结构分析
+ ## [【Android】 自定义属性之：attr、declare-styleable、style、theme、TypedArray 的基本使用](https://blog.csdn.net/qq_42470947/article/details/104035323)
+ > 【Android】 自定义属性之：attr、declare-styleable、style、theme、TypedArray 的基本使用
 # PM 
+ ## [产品经理懂点技术：什么是前后端，两者如何分工？](http://www.woshipm.com/pmd/3341163.html)
+ > 不懂技术的产品经理可能在遇上bug时都不知道去找谁，本文说明产品前后端如何划分，相关问题属于哪个“端”，适合初级产品人阅读。产品汪在验自己产品时，经常遇上bug了...
+ ## [进击的编程猫：产品驱动增长](http://www.woshipm.com/kol/3305348.html)
+ > 在人人都是产品经理举办的【 2019深圳产品经理大会】上，编程猫合伙人&amp;产品总监马子超进行了精彩分享，他的分享主题是《进击的编程猫：产品驱动增长》我的分享主...
  ## [创建高端品牌的5个原则及3个要点](http://www.woshipm.com/marketing/3345443.html)
  > 对于企业来说，只有明确用户购买高端品牌的驱动力后，才能从根源出发去探寻如何创建高端品牌以及对应的原则、要点。2019年1月8日，良品铺子创始人兼董事长杨红春先生...
 
