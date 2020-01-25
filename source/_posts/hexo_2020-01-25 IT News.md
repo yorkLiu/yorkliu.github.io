@@ -1,22 +1,28 @@
 ---
 title: 2020-01-25 IT News
 copyright: true
-date: 2020-01-25 12:00:55
+date: 2020-01-25 17:02:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [AOC拟向“武汉小汤山急救医院”捐赠所需显示设备](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=uyw0lPjcHx8413ftnd1to-EjK57xZsBg8rPgDV9dIIv*a2jgL3W7Kc2vV0ucVU2GgssL2mcC3v8z2gXAkcm42m2hrvKTyCBmA2ZoWREjaYsn82tJ8dQnUhqU4UMbO*Br&new=1)
- > 武汉疫情牵动着每个人的心！为抗击新型肺炎，武汉艾德蒙科技股份有限公司拟向&quot;武汉小汤山急救医院&quot;捐赠所需显示设备（显示器/电视/电脑一体机/商用屏等）。同心协力，守护平安！同时，还请全体员工、广大用户以...
- ## [外媒除夕爆料：美国防部反对进一步打压华为!商务部不得不撤回新规；网友：比春晚还精彩](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=i9dWPQU04FrBS*zn0WTpURWY5ngsA3j-6S7wlB1tztZg-dKNo7IWFCCTkbj0BP0JNrUwKB3obtbmyEUdDQRWBCvItLH0*IcMitVOjCc9ciyN*UYSmvrNp36HRLeU4dOj&new=1)
+ ## [大年初一，数你最快](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=Wh0jXCSWNy467l33EwMoeaLpOzsnyDyhZMqyZZ5mmOxCICRBwikiDsEissbJKaTDqFsDbu7fl3cQF5NH79wpt9cxDJIwjWuAdJHJQ1GEIGAI6Do1AGG7S3N2TAswiNYP&new=1)
+ > 鼠年新春，恭贺新禧骁龙助你快到飞起骁龙X55 5G调制解调器高速、低时延的连接性能红包大战，数你最快还有高通骁龙定制红包封面助你在红包大战中脱颖而出快到文末扫码领取初一全新高通骁龙865 移动平台配合骁龙X5...
+ ## [中国电信武汉分公司开通首个蔡甸火神山5G基站 提前完成无线网4G、5G覆盖工程建设](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=ZznCsYzktLahcur1quNHK-932Umy31m705Zpk0aoXkLQ-D0Oi1fMOx4mhs*3P0S9AE-vZ5rTI-xmO-j4E7amazz0YCVenjLRHj0Ic0gsbcQ=&new=1)
+ > 【环球网综合报道】1月25日，中国电信武汉分公司已于24日晚开通蔡甸火神山第一个5G基站：张家渡5G基站。武汉蔡甸火神山医院是参照2003年抗击非典期间北京小汤山医院模式建设的一座用于阻击肺炎疫情蔓延的医院。1...
+ ## [外媒除夕爆料：美国防部反对进一步打压华为!商务部不得不撤回新规；网友：比春晚还精彩](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=i9dWPQU04FrBS*zn0WTpURWY5ngsA3j-6S7wlB1tztZIVcff-vHmDL3Bf3uIaEvkbhdbMIIkEZgnYLOIEvcPMoZsTrnQiiX8ZnyyCv*Sr8rMl0*VptxcCq6EfsJei-yX&new=1)
  > 乾明 郭一璞 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAI进一步打压限制华为，实在执行不下去了。中国大年三十传来消息，美国国防部、财务部，开始明确反对进一步打压限制华为。刚刚，华尔街日报、纽约时报等...
- ## [TECH4ALL@DAVOS：AI赋能儿童成长](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=Y8Cb*LXk6oPfKBJc1*dUHBs6xbHn1zt1IbMMS4pMjXQJVjwoODKAcwjeaIhlYc6iSdVSNiSJgXbb3pmviSScXq-OGyZYekX5-ELFBdJoamwAS3IbUSH-bKgya2Gr64Wu&new=1)
- > 【瑞士，达沃斯，2020年1月23日】“特别高兴AI技术和应用的创新能够为孩子们带来成长的乐趣。这就是‘TECH4ALL’的目标之一，让特殊人不特殊，让普通人不普通，让更多的个人、家庭和组织享受到数字世界的美好。...
- ## [伊朗黑客涉嫌入侵欧洲能源公司 可能已窃取大量敏感数据](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=LrhHql02zKPYUWZepdANtaJ-5DOhDadgsOEdoq2p-4L6AFbLAPkGp7r44bU9ABhx5stkTtJ3glKT1W4*3K1x3Z7FUzwgLbd-cNdsbcVTFbEdO*l1w6WqJVizbTQ4meDC&new=1)
+ ## [2G到5G我们究竟经历了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=j*x1c8fQW7s9XJPIvGrvDyI6CnORoDIHGpSthXYDawGNHCQZF5t2l*458Pv5u5UupstgAoNZYQVbHdOhNhoeVXGDQaoGJKjwgBzFokvKbgTfoCC2AfZYbexBf3Me5OR3&new=1)
+ > //▼热门推荐
+ ## [伊朗黑客涉嫌入侵欧洲能源公司 可能已窃取大量敏感数据](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=LrhHql02zKPYUWZepdANtaJ-5DOhDadgsOEdoq2p-4I1J2eXIyPlqmcXu4GpTOAQ1KfP8ILOAwMkjDS99TFdNEpoelGg5FwpKRVhwckayqVdtsUtdQJ2RLKd8PQ2CiWO&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全1月24日讯，据外媒报道，近日一场涉嫌与伊朗政府有联系的黑客攻击活动将对欧洲能源部发起网络入侵攻击，此次攻击被认为旨在收集与欧洲能源相关的敏感信息...
- ## [5G时代已来，但运营商正面临诸多难题，需耗费巨资却业绩下滑](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=nsKlnlmv11NZBBiM3v-G*pHLWc0wOHJeZOkCmcB7SJT8bdQRC9JoNZCcC2ZDNyOQrFIpqn4S5mz6*hhaEWWm51FpuxezDZ6jct0VXL7e*SG8z1fbIkVHPJZhlcXQxAT5&new=1)
+ ## [5G时代已来，但运营商正面临诸多难题，需耗费巨资却业绩下滑](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=nsKlnlmv11NZBBiM3v-G*pHLWc0wOHJeZOkCmcB7SJRkgUqre8gWFqxcEZKocNYc9Lizo260bsZY1sUXScooY5nKKxjl-kWh8bqfT9H3Ps6tVxzbdawdWBktJiJ5L7KM&new=1)
  > 近日工信部发布的数据显示，2019年中国三大运营商建设了13万座5G基站，与4G时代相比无疑进展相当缓慢，其实这也是运营商的无奈，在5G时代到来之际，三大运营商都面临着诸多难题。首先是5G网络的建设难度太大，前...
- ## [申请CVE的姿势总结](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=Mm29xl3IaMBWRM76qjkTex7BO9FenUiRXDsq5dav1kBXyZ7eKPS8Z4Rze3OuKUKvE-Wt2-QFXPbOdy2RnlFXzHYNOCRIqJ9agzHMeES6HF5t8bcilhi7-nuoKplIm*cy&new=1)
+ ## [TECH4ALL@DAVOS：AI赋能儿童成长](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=Y8Cb*LXk6oPfKBJc1*dUHBs6xbHn1zt1IbMMS4pMjXTXVTye*UnbbILn3H91sxLtv9EfMjUJ6pbvRMhyV-XEqOw59GVvGm4cU7QX6W8-huNM7fKl3zJVH6s*mjs8bK*m&new=1)
+ > 【瑞士，达沃斯，2020年1月23日】“特别高兴AI技术和应用的创新能够为孩子们带来成长的乐趣。这就是‘TECH4ALL’的目标之一，让特殊人不特殊，让普通人不普通，让更多的个人、家庭和组织享受到数字世界的美好。...
+ ## [AOC拟向“武汉小汤山急救医院”捐赠所需显示设备](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=uyw0lPjcHx8413ftnd1to-EjK57xZsBg8rPgDV9dIIu-BLg4lqZZgCMUxbX8XMspmghoO7AN*tC8WItzgPVNkrAyfRB7ik3mxKU3*LOwYGX7TjPuZC-jf3LpSoFdHDMC&new=1)
+ > 武汉疫情牵动着每个人的心！为抗击新型肺炎，武汉艾德蒙科技股份有限公司拟向&quot;武汉小汤山急救医院&quot;捐赠所需显示设备（显示器/电视/电脑一体机/商用屏等）。同心协力，守护平安！同时，还请全体员工、广大用户以...
+ ## [申请CVE的姿势总结](http://mp.weixin.qq.com/s?src=11&timestamp=1579941069&ver=2117&signature=Mm29xl3IaMBWRM76qjkTex7BO9FenUiRXDsq5dav1kCeAiDugUSW1VGW7-jnGpe1fKUTCFFT6-rbH3VStehK5Zc7PIvJ3itNDgn7UHUlBKPapazdwpEVVtKWjgjqEJO7&new=1)
  > 什么是CVE？CVE的全称叫做“Common Vulnerabilities &amp; Exposures”中文含义是公共漏洞和暴露。它作为披露漏洞的平台，受到国内外关注。CVE会提供编号作为漏洞对应的字符串式特征，有很多企业倾向于用多少高质量...
 # IT 技术 
  ## [为什么阿里P8、P9技术大牛反复强调“结构化思维”？](http://news.51cto.com/art/202001/609652.htm)
@@ -35,36 +41,6 @@ categories: IT NEWS
  > 在Kubernetes上实现无服务器化的五种方式
  ## [为什么我们要放弃迁移到微服务？](http://developer.51cto.com/art/202001/609582.htm)
  > 为什么我们要放弃迁移到微服务？
- ## [面对疫情，AI能做什么](https://blog.csdn.net/BEYONDMA/article/details/104075388)
- > 面对疫情，AI能做什么
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
- > 
- ## [网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
- > 网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
- ## [大屏监控系统实战（11）-10分钟投票增量曲线制作（一）](https://blog.csdn.net/m0_37609579/article/details/104080640)
- > 大屏监控系统实战（11）-10分钟投票增量曲线制作（一）
- ## [死磕YOLO系列，YOLOv1 的大脑、躯干和手脚](https://blog.csdn.net/briblue/article/details/103149407)
- > 
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
- > 
- ## [01背包问题除了动态规划还有别的解法吗？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104075003)
- > 01背包问题除了动态规划还有别的解法吗？
- ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
- > 比特币原理详解
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
- > 
- ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
- > 
- ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
- > 
  ## [春晚亲民，快手上行：探秘春晚红包的另一种打开方式](https://blog.csdn.net/csdnnews/article/details/104082159)
  > 作者 | 徐威龙责编 |邓晓娟出品 | CSDN（ID：CSDNnews）高轩暧春色，邃阁媚朝光。彤庭飞彩旆，翠幌曜明珰。——元日再过几个小时，一年一度的央视「春节联欢晚会」就要开始...
  ## [召唤新一代超参调优开源新神器，集十大主流模块于一身](https://blog.csdn.net/csdnnews/article/details/104082160)
@@ -84,35 +60,35 @@ categories: IT NEWS
  ## [互联网大厂春节礼盒鄙视链](https://blog.csdn.net/csdnnews/article/details/104082339)
  > 来源 | 超人测评（ID：chaorencp）撰文| 阿泽编辑 | 雨哥拍摄 | 塔塔视觉 | 火山酱2020年，新的一年，新的比拼。对于互联网公司来说，除了立Flag，制定新一年的目...
 # 人工智能 
- ## [RHEL7(Centos7)下使用shell脚本一键部署服务(二)](https://blog.csdn.net/gd_9988/article/details/104079707)
- > RHEL7(Centos7)下使用shell脚本一键部署服务(二)
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [day 003 Linux之文件相关命令](https://blog.csdn.net/qq_44686266/article/details/104081168)
- > day 003 Linux之文件相关命令
- ## [linux查找字符串所在行，输出行号](https://blog.csdn.net/Olivia_Vang/article/details/104076272)
- > linux查找字符串所在行，输出行号
- ## [Docker之配置DNS服务](https://blog.csdn.net/weixin_46192300/article/details/104080026)
- > Docker之配置DNS服务
- ## [177. docker镜像的分层与优化](https://blog.csdn.net/chengyinwu/article/details/104079679)
- > 177. docker镜像的分层与优化
- ## [qmake 3.1（Qt 5.14.0使用）用户手册5——运行qmake](https://blog.csdn.net/xuyouqiang1987/article/details/104077870)
- > qmake 3.1（Qt 5.14.0使用）用户手册5——运行qmake
- ## [linux 安装中文字体](https://blog.csdn.net/li_yan_sring/article/details/104079398)
- > linux 安装中文字体
- ## [Hikey970（arm64 Debain9）](https://blog.csdn.net/jiaoqiao123/article/details/104077142)
- > Hikey970（arm64 Debain9）
- ## [（4.4）Docker的安装与使用](https://blog.csdn.net/u011436427/article/details/104080231)
- > （4.4）Docker的安装与使用
- ## [VNC远程连接树莓派](https://blog.csdn.net/u010811062/article/details/104079342)
- > VNC远程连接树莓派
- ## [通过X11转发以查看服务器主机上运行的GUI图形界面应用程序(on Ubuntu Server 18.04.3 LTS)](https://blog.csdn.net/GongMeiyan/article/details/104080166)
- > 通过X11转发以查看服务器主机上运行的GUI图形界面应用程序(on Ubuntu Server 18.04.3 LTS)
- ## [Linux安装Maven](https://blog.csdn.net/hon_vin/article/details/104079995)
- > Linux安装Maven
- ## [Kali常用命令（持续更新）](https://blog.csdn.net/weixin_43369654/article/details/104079761)
- > Kali常用命令（持续更新）
- ## [使用wok(kimchi)插件管理KVM](https://blog.csdn.net/weixin_46192300/article/details/104080088)
- > 使用wok(kimchi)插件管理KVM
+ ## [Fibonacci思想的灵活应用（洛谷P1011题题解，Java语言描述）](https://blog.csdn.net/weixin_43896318/article/details/104079789)
+ > Fibonacci思想的灵活应用（洛谷P1011题题解，Java语言描述）
+ ## [在eclipse上配置tomcat（包括解决找不到server，配置8.0以上版本）](https://blog.csdn.net/qq_24297143/article/details/104073920)
+ > 在eclipse上配置tomcat（包括解决找不到server，配置8.0以上版本）
+ ## [【Java 常用类】（7）java.util.regex.Pattern、Matcher的常用方法](https://blog.csdn.net/weixin_44034328/article/details/104079875)
+ > 【Java 常用类】（7）java.util.regex.Pattern、Matcher的常用方法
+ ## [JSP的EL表达式应用（IDEA)](https://blog.csdn.net/qq_42013035/article/details/104079926)
+ > JSP的EL表达式应用（IDEA)
+ ## [Java第十六篇：详述变量（局部变量、实例变量和静态变量）](https://blog.csdn.net/H_W_1212/article/details/104079892)
+ > Java第十六篇：详述变量（局部变量、实例变量和静态变量）
+ ## [HashMap源码及面试知识点](https://blog.csdn.net/qq_38423105/article/details/104080530)
+ > HashMap源码及面试知识点
+ ## [Java小程序：同时开启多个线程并让其打印各自内容](https://blog.csdn.net/weixin_43960713/article/details/104079918)
+ > Java小程序：同时开启多个线程并让其打印各自内容
+ ## [215. 数组中的第K个最大元素 BFPRT最牛解法](https://blog.csdn.net/hebtu666/article/details/104079514)
+ > 215. 数组中的第K个最大元素 BFPRT最牛解法
+ ## [排序算法-插入排序](https://blog.csdn.net/qq_43162613/article/details/104079672)
+ > 排序算法-插入排序
+ ## [AOP的动态代理机制](https://blog.csdn.net/weixin_44730681/article/details/104080770)
+ > AOP的动态代理机制
+ ## [根据特殊EOF的序列判断比赛输赢（洛谷P1042题题解，Java语言描述）](https://blog.csdn.net/weixin_43896318/article/details/104078684)
+ > 根据特殊EOF的序列判断比赛输赢（洛谷P1042题题解，Java语言描述）
+ ## [1064 朋友数 (20分)](https://blog.csdn.net/weixin_44034328/article/details/104080797)
+ > 1064 朋友数 (20分)
+ ## [1072 开学寄语 (20分)](https://blog.csdn.net/weixin_44034328/article/details/104080813)
+ > 1072 开学寄语 (20分)
+ ## [1053 住房空置率 (20分)](https://blog.csdn.net/weixin_44034328/article/details/104080782)
+ > 1053 住房空置率 (20分)
+ ## [ApplicationContext的三个实现类](https://blog.csdn.net/weixin_43691058/article/details/104080907)
+ > ApplicationContext的三个实现类
 
     
