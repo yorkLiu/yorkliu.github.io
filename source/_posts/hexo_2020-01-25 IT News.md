@@ -1,20 +1,20 @@
 ---
 title: 2020-01-25 IT News
 copyright: true
-date: 2020-01-25 09:00:50
+date: 2020-01-25 10:00:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [TECH4ALL@DAVOS：AI赋能儿童成长](http://mp.weixin.qq.com/s?src=11&timestamp=1579912205&ver=2117&signature=Y8Cb*LXk6oPfKBJc1*dUHBs6xbHn1zt1IbMMS4pMjXQC3CDbh1UO0LJ*ADKKciu7CG7ZtZJzbbWrVupTg1blYI3qt3ye0tdkGT5q2zO8K27r7GSm4HN7uxr9jlPIYSar&new=1)
- > 【瑞士，达沃斯，2020年1月23日】“特别高兴AI技术和应用的创新能够为孩子们带来成长的乐趣。这就是‘TECH4ALL’的目标之一，让特殊人不特殊，让普通人不普通，让更多的个人、家庭和组织享受到数字世界的美好。...
- ## [5G时代已来，但运营商正面临诸多难题，需耗费巨资却业绩下滑](http://mp.weixin.qq.com/s?src=11&timestamp=1579912205&ver=2117&signature=nsKlnlmv11NZBBiM3v-G*pHLWc0wOHJeZOkCmcB7SJSGGDXS6ysSH6z81eRobSPVzLvpb4ArmuDMPA4RtVs4QJlWrkrIWttHY2mCsM-y3ymeoZOghOiGoqMFc42cxLyq&new=1)
+ ## [5G时代已来，但运营商正面临诸多难题，需耗费巨资却业绩下滑](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=nsKlnlmv11NZBBiM3v-G*pHLWc0wOHJeZOkCmcB7SJSGGDXS6ysSH6z81eRobSPVP-kWJpFw8uJMa5PEI5izkVIUunNqYb07aczE2718173r0XAt3sA0C9YlAVoy6D3n&new=1)
  > 近日工信部发布的数据显示，2019年中国三大运营商建设了13万座5G基站，与4G时代相比无疑进展相当缓慢，其实这也是运营商的无奈，在5G时代到来之际，三大运营商都面临着诸多难题。首先是5G网络的建设难度太大，前...
- ## [外媒除夕爆料：美国防部反对进一步打压华为!商务部不得不撤回新规；网友：比春晚还精彩](http://mp.weixin.qq.com/s?src=11&timestamp=1579912205&ver=2117&signature=i9dWPQU04FrBS*zn0WTpURWY5ngsA3j-6S7wlB1tztYpHXc2BuGbNjJ4AwVXXugymh5h6LqQ5dNe9lKef8bQQunfS3hhNETO*N9sGe1n0glEsl6J281JV9Vo5Q7ZQaWa&new=1)
- > 乾明 郭一璞 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAI进一步打压限制华为，实在执行不下去了。中国大年三十传来消息，美国国防部、财务部，开始明确反对进一步打压限制华为。刚刚，华尔街日报、纽约时报等...
- ## [申请CVE的姿势总结](http://mp.weixin.qq.com/s?src=11&timestamp=1579912205&ver=2117&signature=Mm29xl3IaMBWRM76qjkTex7BO9FenUiRXDsq5dav1kC8ytPK6tl36pchrHb4WjuthA2TEZ5BU4UaIidi61iE6sPUeqMGSrkYeskl296UKC3lUuG8PtBRuFb54oEA-xQA&new=1)
+ ## [申请CVE的姿势总结](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=Mm29xl3IaMBWRM76qjkTex7BO9FenUiRXDsq5dav1kC8ytPK6tl36pchrHb4WjutZT5F9FO1g8JtMoKXmQsQ2dCgM5E9jsnz*gd0hl2kJ9b0bKwv4FX-53N0b8dr7-qw&new=1)
  > 什么是CVE？CVE的全称叫做“Common Vulnerabilities &amp; Exposures”中文含义是公共漏洞和暴露。它作为披露漏洞的平台，受到国内外关注。CVE会提供编号作为漏洞对应的字符串式特征，有很多企业倾向于用多少高质量...
- ## [AOC拟向“武汉小汤山急救医院”捐赠所需显示设备](http://mp.weixin.qq.com/s?src=11&timestamp=1579912205&ver=2117&signature=uyw0lPjcHx8413ftnd1to-EjK57xZsBg8rPgDV9dIIuUP1WQI6Vtum2TQFrbatRJ*ogihy2*7-Y3urYzxNyvo-1tMhU-WcFhukjs1t8fSjtgrSmrh*t6UgbuWyyRlDox&new=1)
+ ## [外媒除夕爆料：美国防部反对进一步打压华为!商务部不得不撤回新规；网友：比春晚还精彩](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=i9dWPQU04FrBS*zn0WTpURWY5ngsA3j-6S7wlB1tztYpHXc2BuGbNjJ4AwVXXugyZ3WX1QaArXtsGUGOI0Mb-x4cROcVTYnA0Wq2wtDN4i7kqLBaoOC6k8EZ0*s3H8Uf&new=1)
+ > 乾明 郭一璞 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAI进一步打压限制华为，实在执行不下去了。中国大年三十传来消息，美国国防部、财务部，开始明确反对进一步打压限制华为。刚刚，华尔街日报、纽约时报等...
+ ## [TECH4ALL@DAVOS：AI赋能儿童成长](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=Y8Cb*LXk6oPfKBJc1*dUHBs6xbHn1zt1IbMMS4pMjXQC3CDbh1UO0LJ*ADKKciu7KYDgKlF8iSdF1oLxeQJB5IIeCpDDlL6e-p9XTCHF4Aett*6U2GWHcnmjXpt00Aep&new=1)
+ > 【瑞士，达沃斯，2020年1月23日】“特别高兴AI技术和应用的创新能够为孩子们带来成长的乐趣。这就是‘TECH4ALL’的目标之一，让特殊人不特殊，让普通人不普通，让更多的个人、家庭和组织享受到数字世界的美好。...
+ ## [AOC拟向“武汉小汤山急救医院”捐赠所需显示设备](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=uyw0lPjcHx8413ftnd1to-EjK57xZsBg8rPgDV9dIIuUP1WQI6Vtum2TQFrbatRJnYN7*kAZRqbDQLZfqo**aVgnAtl54Eetjdwr2oRNse-dji8cZN40GfAA1Uro86-G&new=1)
  > 武汉疫情牵动着每个人的心！为抗击新型肺炎，武汉艾德蒙科技股份有限公司拟向&quot;武汉小汤山急救医院&quot;捐赠所需显示设备（显示器/电视/电脑一体机/商用屏等）。同心协力，守护平安！同时，还请全体员工、广大用户以...
 # IT 技术 
  ## [为什么阿里P8、P9技术大牛反复强调“结构化思维”？](http://news.51cto.com/art/202001/609652.htm)
@@ -35,12 +35,10 @@ categories: IT NEWS
  > 为什么我们要放弃迁移到微服务？
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [C++(数据结构与算法):66---平衡搜索树总体概述](https://blog.csdn.net/qq_41453285/article/details/104077107)
+ > C++(数据结构与算法):66---平衡搜索树总体概述
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
- ## [2020年新目标](https://blog.csdn.net/java_wxid/article/details/104079593)
- > 2020年新目标
- ## [漫游 Apache IoTDB 2019](https://blog.csdn.net/qiaojialin/article/details/104075357)
- > 漫游 Apache IoTDB 2019
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
  > 
  ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
@@ -57,8 +55,6 @@ categories: IT NEWS
  > 比特币原理详解
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [如何重建深层神经网络的可塑性？](https://blog.csdn.net/duxinshuxiaobian/article/details/104073942)
- > 如何重建深层神经网络的可塑性？
  ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
  > 
  ## [程序员把地府后台管理系统做出来了，还有3.0版本！12月7号最新消息：已在开发中有github地址](https://blog.csdn.net/m0_37609579/article/details/103108301)
@@ -82,35 +78,35 @@ categories: IT NEWS
  ## [互联网大厂春节礼盒鄙视链](https://blog.csdn.net/csdnnews/article/details/104082339)
  > 来源 | 超人测评（ID：chaorencp）撰文| 阿泽编辑 | 雨哥拍摄 | 塔塔视觉 | 火山酱2020年，新的一年，新的比拼。对于互联网公司来说，除了立Flag，制定新一年的目...
 # 人工智能 
- ## [用Python写春联：抒写最真诚的祝福和最美好的祈愿](https://blog.csdn.net/xufive/article/details/104059396)
+ ## [web前端开发零基础入门教程](https://blog.csdn.net/HAOXUAN168/article/details/104072496)
+ > web前端开发零基础入门教程
+ ## [jQuery 控制页面](https://blog.csdn.net/lesileqin/article/details/104067441)
+ > jQuery 控制页面
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [学习Python的第二步：Pycharm的安装教程（超详细）](https://blog.csdn.net/qq_43706969/article/details/104066392)
- > 学习Python的第二步：Pycharm的安装教程（超详细）
- ## [《奇巧淫技》系列-python！！每天早上八点自动发送天气预报邮件到QQ邮箱](https://blog.csdn.net/weixin_45081575/article/details/102886718)
- > 《奇巧淫技》系列-python！！每天早上八点自动发送天气预报邮件到QQ邮箱
- ## [python专题文件操作](https://blog.csdn.net/youku1327/article/details/104068124)
- > python专题文件操作
- ## [一起来理解Python中的装饰器的本质](https://blog.csdn.net/Rabbit_Gray/article/details/104067732)
- > 一起来理解Python中的装饰器的本质
- ## [Python的6种基本数据的简单操作](https://blog.csdn.net/qq_42388523/article/details/104070661)
- > Python的6种基本数据的简单操作
- ## [Python框架Django实现简单注册登录功能](https://blog.csdn.net/ChenHuang1998/article/details/104068776)
- > Python框架Django实现简单注册登录功能
- ## [详细讲解Python遍历目录的文件夹（dir）、文件（file）的三种方法：os.listdir、os.walk和os.scandir](https://blog.csdn.net/qq_39839807/article/details/104070761)
- > 详细讲解Python遍历目录的文件夹（dir）、文件（file）的三种方法：os.listdir、os.walk和os.scandir
- ## [第一个项目：用python获取qq账号和密码](https://blog.csdn.net/m0_46219202/article/details/104070493)
- > 第一个项目：用python获取qq账号和密码
- ## [Python绘图，圣诞树，花，爱心  |  Turtle篇](https://blog.csdn.net/qq_34409973/article/details/104048903)
- > Python绘图，圣诞树，花，爱心  |  Turtle篇
- ## [Python2.x安装及环境变量配置](https://blog.csdn.net/zafkiel_/article/details/104070775)
- > Python2.x安装及环境变量配置
- ## [Python Plotly武汉新型肺炎发展动态——桑基图](https://blog.csdn.net/lly1122334/article/details/104068908)
- > Python Plotly武汉新型肺炎发展动态——桑基图
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [使用Python实现多项式系数卷积乘法](https://blog.csdn.net/zk593826/article/details/104069035)
- > 使用Python实现多项式系数卷积乘法
- ## [Python格式化输出、转义字符、结束符](https://blog.csdn.net/weixin_43717681/article/details/104071747)
- > Python格式化输出、转义字符、结束符
+ ## [JS—轮播图](https://blog.csdn.net/yadibaibai/article/details/104070208)
+ > JS—轮播图
+ ## [三阶魔方CFOP cross总结](https://blog.csdn.net/Mzt_C_Y/article/details/104070906)
+ > 三阶魔方CFOP cross总结
+ ## [jQuery](https://blog.csdn.net/Ciel_Y/article/details/104065862)
+ > jQuery
+ ## [word中实现图表的自动编号、编号的一键更新等功能](https://blog.csdn.net/lianshaohua/article/details/104067602)
+ > word中实现图表的自动编号、编号的一键更新等功能
+ ## [jQuery入门](https://blog.csdn.net/Shirley_0513/article/details/104071950)
+ > jQuery入门
+ ## [网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
+ > 网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
+ ## [充实文档——略缩语列表   文献来源链接   快捷键清单](https://blog.csdn.net/weixin_44307065/article/details/104067512)
+ > 充实文档——略缩语列表   文献来源链接   快捷键清单
+ ## [网页CSS字体渐变](https://blog.csdn.net/weixin_45673401/article/details/104066802)
+ > 网页CSS字体渐变
+ ## [vue项目实战之图片画廊组件的实现](https://blog.csdn.net/qq_43624878/article/details/104072649)
+ > vue项目实战之图片画廊组件的实现
+ ## [ES6与ReactJS学习笔记](https://blog.csdn.net/fechinchu/article/details/104066779)
+ > ES6与ReactJS学习笔记
+ ## [Vue 过渡 & 动画](https://blog.csdn.net/lamp_yang_3533/article/details/104067445)
+ > Vue 过渡 &amp; 动画
+ ## [梁一文寒假学习报告](https://blog.csdn.net/liangyiliangyiyi/article/details/104071959)
+ > 梁一文寒假学习报告
 
     
