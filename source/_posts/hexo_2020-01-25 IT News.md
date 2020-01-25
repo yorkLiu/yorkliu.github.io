@@ -1,21 +1,23 @@
 ---
 title: 2020-01-25 IT News
 copyright: true
-date: 2020-01-25 10:00:50
+date: 2020-01-25 12:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G时代已来，但运营商正面临诸多难题，需耗费巨资却业绩下滑](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=nsKlnlmv11NZBBiM3v-G*pHLWc0wOHJeZOkCmcB7SJSGGDXS6ysSH6z81eRobSPVP-kWJpFw8uJMa5PEI5izkVIUunNqYb07aczE2718173r0XAt3sA0C9YlAVoy6D3n&new=1)
- > 近日工信部发布的数据显示，2019年中国三大运营商建设了13万座5G基站，与4G时代相比无疑进展相当缓慢，其实这也是运营商的无奈，在5G时代到来之际，三大运营商都面临着诸多难题。首先是5G网络的建设难度太大，前...
- ## [申请CVE的姿势总结](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=Mm29xl3IaMBWRM76qjkTex7BO9FenUiRXDsq5dav1kC8ytPK6tl36pchrHb4WjutZT5F9FO1g8JtMoKXmQsQ2dCgM5E9jsnz*gd0hl2kJ9b0bKwv4FX-53N0b8dr7-qw&new=1)
- > 什么是CVE？CVE的全称叫做“Common Vulnerabilities &amp; Exposures”中文含义是公共漏洞和暴露。它作为披露漏洞的平台，受到国内外关注。CVE会提供编号作为漏洞对应的字符串式特征，有很多企业倾向于用多少高质量...
- ## [外媒除夕爆料：美国防部反对进一步打压华为!商务部不得不撤回新规；网友：比春晚还精彩](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=i9dWPQU04FrBS*zn0WTpURWY5ngsA3j-6S7wlB1tztYpHXc2BuGbNjJ4AwVXXugyZ3WX1QaArXtsGUGOI0Mb-x4cROcVTYnA0Wq2wtDN4i7kqLBaoOC6k8EZ0*s3H8Uf&new=1)
- > 乾明 郭一璞 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAI进一步打压限制华为，实在执行不下去了。中国大年三十传来消息，美国国防部、财务部，开始明确反对进一步打压限制华为。刚刚，华尔街日报、纽约时报等...
- ## [TECH4ALL@DAVOS：AI赋能儿童成长](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=Y8Cb*LXk6oPfKBJc1*dUHBs6xbHn1zt1IbMMS4pMjXQC3CDbh1UO0LJ*ADKKciu7KYDgKlF8iSdF1oLxeQJB5IIeCpDDlL6e-p9XTCHF4Aett*6U2GWHcnmjXpt00Aep&new=1)
- > 【瑞士，达沃斯，2020年1月23日】“特别高兴AI技术和应用的创新能够为孩子们带来成长的乐趣。这就是‘TECH4ALL’的目标之一，让特殊人不特殊，让普通人不普通，让更多的个人、家庭和组织享受到数字世界的美好。...
- ## [AOC拟向“武汉小汤山急救医院”捐赠所需显示设备](http://mp.weixin.qq.com/s?src=11&timestamp=1579915880&ver=2117&signature=uyw0lPjcHx8413ftnd1to-EjK57xZsBg8rPgDV9dIIuUP1WQI6Vtum2TQFrbatRJnYN7*kAZRqbDQLZfqo**aVgnAtl54Eetjdwr2oRNse-dji8cZN40GfAA1Uro86-G&new=1)
+ ## [AOC拟向“武汉小汤山急救医院”捐赠所需显示设备](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=uyw0lPjcHx8413ftnd1to-EjK57xZsBg8rPgDV9dIIv*a2jgL3W7Kc2vV0ucVU2GgssL2mcC3v8z2gXAkcm42m2hrvKTyCBmA2ZoWREjaYsn82tJ8dQnUhqU4UMbO*Br&new=1)
  > 武汉疫情牵动着每个人的心！为抗击新型肺炎，武汉艾德蒙科技股份有限公司拟向&quot;武汉小汤山急救医院&quot;捐赠所需显示设备（显示器/电视/电脑一体机/商用屏等）。同心协力，守护平安！同时，还请全体员工、广大用户以...
+ ## [外媒除夕爆料：美国防部反对进一步打压华为!商务部不得不撤回新规；网友：比春晚还精彩](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=i9dWPQU04FrBS*zn0WTpURWY5ngsA3j-6S7wlB1tztZg-dKNo7IWFCCTkbj0BP0JNrUwKB3obtbmyEUdDQRWBCvItLH0*IcMitVOjCc9ciyN*UYSmvrNp36HRLeU4dOj&new=1)
+ > 乾明 郭一璞 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAI进一步打压限制华为，实在执行不下去了。中国大年三十传来消息，美国国防部、财务部，开始明确反对进一步打压限制华为。刚刚，华尔街日报、纽约时报等...
+ ## [TECH4ALL@DAVOS：AI赋能儿童成长](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=Y8Cb*LXk6oPfKBJc1*dUHBs6xbHn1zt1IbMMS4pMjXQJVjwoODKAcwjeaIhlYc6iSdVSNiSJgXbb3pmviSScXq-OGyZYekX5-ELFBdJoamwAS3IbUSH-bKgya2Gr64Wu&new=1)
+ > 【瑞士，达沃斯，2020年1月23日】“特别高兴AI技术和应用的创新能够为孩子们带来成长的乐趣。这就是‘TECH4ALL’的目标之一，让特殊人不特殊，让普通人不普通，让更多的个人、家庭和组织享受到数字世界的美好。...
+ ## [伊朗黑客涉嫌入侵欧洲能源公司 可能已窃取大量敏感数据](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=LrhHql02zKPYUWZepdANtaJ-5DOhDadgsOEdoq2p-4L6AFbLAPkGp7r44bU9ABhx5stkTtJ3glKT1W4*3K1x3Z7FUzwgLbd-cNdsbcVTFbEdO*l1w6WqJVizbTQ4meDC&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全1月24日讯，据外媒报道，近日一场涉嫌与伊朗政府有联系的黑客攻击活动将对欧洲能源部发起网络入侵攻击，此次攻击被认为旨在收集与欧洲能源相关的敏感信息...
+ ## [5G时代已来，但运营商正面临诸多难题，需耗费巨资却业绩下滑](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=nsKlnlmv11NZBBiM3v-G*pHLWc0wOHJeZOkCmcB7SJT8bdQRC9JoNZCcC2ZDNyOQrFIpqn4S5mz6*hhaEWWm51FpuxezDZ6jct0VXL7e*SG8z1fbIkVHPJZhlcXQxAT5&new=1)
+ > 近日工信部发布的数据显示，2019年中国三大运营商建设了13万座5G基站，与4G时代相比无疑进展相当缓慢，其实这也是运营商的无奈，在5G时代到来之际，三大运营商都面临着诸多难题。首先是5G网络的建设难度太大，前...
+ ## [申请CVE的姿势总结](http://mp.weixin.qq.com/s?src=11&timestamp=1579923005&ver=2117&signature=Mm29xl3IaMBWRM76qjkTex7BO9FenUiRXDsq5dav1kBXyZ7eKPS8Z4Rze3OuKUKvE-Wt2-QFXPbOdy2RnlFXzHYNOCRIqJ9agzHMeES6HF5t8bcilhi7-nuoKplIm*cy&new=1)
+ > 什么是CVE？CVE的全称叫做“Common Vulnerabilities &amp; Exposures”中文含义是公共漏洞和暴露。它作为披露漏洞的平台，受到国内外关注。CVE会提供编号作为漏洞对应的字符串式特征，有很多企业倾向于用多少高质量...
 # IT 技术 
  ## [为什么阿里P8、P9技术大牛反复强调“结构化思维”？](http://news.51cto.com/art/202001/609652.htm)
  > 为什么阿里P8、P9技术大牛反复强调“结构化思维”？
@@ -33,10 +35,10 @@ categories: IT NEWS
  > 在Kubernetes上实现无服务器化的五种方式
  ## [为什么我们要放弃迁移到微服务？](http://developer.51cto.com/art/202001/609582.htm)
  > 为什么我们要放弃迁移到微服务？
+ ## [面对疫情，AI能做什么](https://blog.csdn.net/BEYONDMA/article/details/104075388)
+ > 面对疫情，AI能做什么
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [C++(数据结构与算法):66---平衡搜索树总体概述](https://blog.csdn.net/qq_41453285/article/details/104077107)
- > C++(数据结构与算法):66---平衡搜索树总体概述
  ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
  > linux系列之常用运维命令整理笔录
  ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
@@ -45,12 +47,16 @@ categories: IT NEWS
  > 
  ## [网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
  > 网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
+ ## [大屏监控系统实战（11）-10分钟投票增量曲线制作（一）](https://blog.csdn.net/m0_37609579/article/details/104080640)
+ > 大屏监控系统实战（11）-10分钟投票增量曲线制作（一）
  ## [死磕YOLO系列，YOLOv1 的大脑、躯干和手脚](https://blog.csdn.net/briblue/article/details/103149407)
  > 
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
+ ## [01背包问题除了动态规划还有别的解法吗？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104075003)
+ > 01背包问题除了动态规划还有别的解法吗？
  ## [比特币原理详解](https://blog.csdn.net/zcg_741454897/article/details/102796022)
  > 比特币原理详解
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
@@ -78,35 +84,35 @@ categories: IT NEWS
  ## [互联网大厂春节礼盒鄙视链](https://blog.csdn.net/csdnnews/article/details/104082339)
  > 来源 | 超人测评（ID：chaorencp）撰文| 阿泽编辑 | 雨哥拍摄 | 塔塔视觉 | 火山酱2020年，新的一年，新的比拼。对于互联网公司来说，除了立Flag，制定新一年的目...
 # 人工智能 
- ## [web前端开发零基础入门教程](https://blog.csdn.net/HAOXUAN168/article/details/104072496)
- > web前端开发零基础入门教程
- ## [jQuery 控制页面](https://blog.csdn.net/lesileqin/article/details/104067441)
- > jQuery 控制页面
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [JS—轮播图](https://blog.csdn.net/yadibaibai/article/details/104070208)
- > JS—轮播图
- ## [三阶魔方CFOP cross总结](https://blog.csdn.net/Mzt_C_Y/article/details/104070906)
- > 三阶魔方CFOP cross总结
- ## [jQuery](https://blog.csdn.net/Ciel_Y/article/details/104065862)
- > jQuery
- ## [word中实现图表的自动编号、编号的一键更新等功能](https://blog.csdn.net/lianshaohua/article/details/104067602)
- > word中实现图表的自动编号、编号的一键更新等功能
- ## [jQuery入门](https://blog.csdn.net/Shirley_0513/article/details/104071950)
- > jQuery入门
- ## [网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
- > 网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
- ## [充实文档——略缩语列表   文献来源链接   快捷键清单](https://blog.csdn.net/weixin_44307065/article/details/104067512)
- > 充实文档——略缩语列表   文献来源链接   快捷键清单
- ## [网页CSS字体渐变](https://blog.csdn.net/weixin_45673401/article/details/104066802)
- > 网页CSS字体渐变
- ## [vue项目实战之图片画廊组件的实现](https://blog.csdn.net/qq_43624878/article/details/104072649)
- > vue项目实战之图片画廊组件的实现
- ## [ES6与ReactJS学习笔记](https://blog.csdn.net/fechinchu/article/details/104066779)
- > ES6与ReactJS学习笔记
- ## [Vue 过渡 & 动画](https://blog.csdn.net/lamp_yang_3533/article/details/104067445)
- > Vue 过渡 &amp; 动画
- ## [梁一文寒假学习报告](https://blog.csdn.net/liangyiliangyiyi/article/details/104071959)
- > 梁一文寒假学习报告
+ ## [RHEL7(Centos7)下使用shell脚本一键部署服务(二)](https://blog.csdn.net/gd_9988/article/details/104079707)
+ > RHEL7(Centos7)下使用shell脚本一键部署服务(二)
+ ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
+ > linux系列之常用运维命令整理笔录
+ ## [day 003 Linux之文件相关命令](https://blog.csdn.net/qq_44686266/article/details/104081168)
+ > day 003 Linux之文件相关命令
+ ## [linux查找字符串所在行，输出行号](https://blog.csdn.net/Olivia_Vang/article/details/104076272)
+ > linux查找字符串所在行，输出行号
+ ## [Docker之配置DNS服务](https://blog.csdn.net/weixin_46192300/article/details/104080026)
+ > Docker之配置DNS服务
+ ## [177. docker镜像的分层与优化](https://blog.csdn.net/chengyinwu/article/details/104079679)
+ > 177. docker镜像的分层与优化
+ ## [qmake 3.1（Qt 5.14.0使用）用户手册5——运行qmake](https://blog.csdn.net/xuyouqiang1987/article/details/104077870)
+ > qmake 3.1（Qt 5.14.0使用）用户手册5——运行qmake
+ ## [linux 安装中文字体](https://blog.csdn.net/li_yan_sring/article/details/104079398)
+ > linux 安装中文字体
+ ## [Hikey970（arm64 Debain9）](https://blog.csdn.net/jiaoqiao123/article/details/104077142)
+ > Hikey970（arm64 Debain9）
+ ## [（4.4）Docker的安装与使用](https://blog.csdn.net/u011436427/article/details/104080231)
+ > （4.4）Docker的安装与使用
+ ## [VNC远程连接树莓派](https://blog.csdn.net/u010811062/article/details/104079342)
+ > VNC远程连接树莓派
+ ## [通过X11转发以查看服务器主机上运行的GUI图形界面应用程序(on Ubuntu Server 18.04.3 LTS)](https://blog.csdn.net/GongMeiyan/article/details/104080166)
+ > 通过X11转发以查看服务器主机上运行的GUI图形界面应用程序(on Ubuntu Server 18.04.3 LTS)
+ ## [Linux安装Maven](https://blog.csdn.net/hon_vin/article/details/104079995)
+ > Linux安装Maven
+ ## [Kali常用命令（持续更新）](https://blog.csdn.net/weixin_43369654/article/details/104079761)
+ > Kali常用命令（持续更新）
+ ## [使用wok(kimchi)插件管理KVM](https://blog.csdn.net/weixin_46192300/article/details/104080088)
+ > 使用wok(kimchi)插件管理KVM
 
     
