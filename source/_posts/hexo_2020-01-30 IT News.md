@@ -1,21 +1,31 @@
 ---
 title: 2020-01-30 IT News
 copyright: true
-date: 2020-01-30 10:01:22
+date: 2020-01-30 12:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智能制造的核心在于研发的智能化!](http://mp.weixin.qq.com/s?src=11&timestamp=1580347805&ver=2127&signature=Rd6nmpsrgkgj-Jy-xx1LhtK9ynE4lhWvye9rSvjLLyHuzPG1YyQ4F2uKTDyW3yTTa4RApwcCfl3svg7pzSVjQfR3VmAEpe5tvYYGTHqup-uzME4VIncB6HUCdystsBjE&new=1)
- > 精彩内容研发是创新的源泉，工业发展没有研发不行......文/ 中国航空工业集团信息技术中心原首席顾问 宁振波当前全球经济体系正面临着深刻变革和重构，以云计算、大数据、人工智能及5G通讯技术为代表的新兴技术...
- ## [MediaTek天玑产品全面布局，推动5G发展](http://mp.weixin.qq.com/s?src=11&timestamp=1580347805&ver=2127&signature=wwHZ1zveXn2oKe8ZH481CgUcLYEYEP9ibmAvaTCFMPl0Z6LeQNeiAzD9iXdC3hkT0eJeJwgwD2CciL2QCtN5bdrmTxYkX-d7TUPgTxLhvn7r8*Vt8KaKH7EIFg0y0dPW&new=1)
- > 在5G时代，MediaTek开启全新5G移动平台——天玑系列。同步覆盖旗舰与中高端市场，多维产品布局为市场和用户提供更多选择。技术领先-驱动行业多元发展功能性高度集成：集成全球最先进5G基带：5G对整体的技术、芯...
- ## [听说软件都要改订阅付费了啊，怎么办?](http://mp.weixin.qq.com/s?src=11&timestamp=1580347805&ver=2127&signature=pNUk0kaw3sz07BXz6J3pPKhDSpYYyl2dfJAyEhrxWRuBrX8IV6MlFESDvcF-ZbXu4KArEXpSGDuYZd9mQf8235xZNpAaIQCwYPUDdARQXF3N9hDrFvLzZadoodlpxIX1&new=1)
+ ## [免费通话、欠费免停，广西通信部门多举措保障疫情防控通信](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=bOloycLhrwefo*6Jgb9gnPHxDcmVkYwkHP3TIqPcHHs1Sx68bnHh22ye9qZzoLxSSDgmzVcBstgRvIMwK3GWxlo3bzRff*fhLe2PmW35iKo=&new=1)
+ > 广西启动重大突发公共卫生事件I级响应后，我区通信部门结合疫情发展，全面启动应急预案，多措并举，严格落实疫情防控工作。南宁电信积极参与广西支援湖北抗疫医疗队行动，主动为医疗队所有医护人员免费提供3个月...
+ ## [用科技抗击疫情!红外、5G、机器人、DNA测序技术正在发挥什么作用?](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=3Hghc6FD7j5BAmj4y8bZJAZteKrhVFkyPjoTIlNCPpw*YIKqrNzRHK4YatYRkyPg5Ww6TIi6dcgjLXH5Bu3lbAEX6ALjpiRkZMxaS8ftszQYeeWUOkXwONqP7Poe7xq*&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作来源：雷锋网新型冠状病毒感染的肺炎疫情在继续扩散。截至 2020 年 1 月 26 日 24 时，国家卫生健康委收到 30 个省（区、市）累计报告确诊病例 2744 例，现有重症病例...
+ ## [英特尔处理器中发现新型推测执行漏洞CacheOut 或将跨线程泄漏数据](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=blZbeb3VLhwvKb4wjL-q0gY4rxLB4WnSHXDpDdXLZvHjFfzSbiHO9A384rkz37sMaSzMJuRKZSM5A4-Dh9fWHUw5UaB5HWdH*A9CL5LKhx9b0EHLhvNEpDkk*tK7BCz5&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com     E安全1月30日讯，据外媒报道，近日，澳大利亚阿德莱德大学和美国密歇根大学的研究人员公布了一种新发现的针对英特尔处理器的新型Spectre式推测执行攻击漏...
+ ## [“大东话安全”热门原创文章盘点(下)丨初六](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=BCdlelosVLORNeKLoxhbRb96A0Sbllp7zVihl48KP6WdMLAO4HlqDk53SnPrrry7ku9hV9Z8qcF3xKznPh1qgEZBiZMlWY44ux6QkcfQ*6hOgmFQGCJA*g1NmhMj7DOy&new=1)
+ > “大东话安全”专栏登陆中科院之声已经2年多了，至今已发布近百篇，其中入选“中科院之声十大热门原创文章”的文章达20篇。因此，本期我们继续盘点回顾下这些热门文章的精彩。 11、一大波“僵尸车队”正在靠近 ...
+ ## [我们发布了1000个3D打印视频，等你来看](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=XxA-TtxtrFwnH4dvbqGN2q6CypuVLCFTta32yw8LacYQ0NxVafaPLjL9pKuWFxzM8JDEvFC4AWvrh0n0TfweGlB5OAzAHRsTL8OPjske2JxFFCOAKdPoAXf5CO*fIwia&new=1)
+ > 尊敬的熊友，先祝你在2020年健康平安。开年推迟上班期间，建议少外出，注意防护。近期有不少用户在后台对南极熊表示，“想找个打发时间的方式，顺便学点东西，希望好好看看3D打印有关的视频。”好吧，3D打印视频...
+ ## [听说软件都要改订阅付费了啊，怎么办?](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=pNUk0kaw3sz07BXz6J3pPKhDSpYYyl2dfJAyEhrxWRvReWp0tbGyvtl9lDZKakVqTlhVg4j6gty5G9KOIJxFmImTRoD8umjtJ9iFfyngc2KklTLiL4M9mEJaAY6oxZdM&new=1)
  > 那还能怎么办？选一个买呗。软件对人类的影响，就像吃饭一样已经不可缺少，吃饭要花钱，用软件肯定也得花钱啊（道理很简单，其实是软件开发者要吃饭...）。Billey 是一款非常简单易用的记录并管理在线订阅付费服...
- ## [三大运营商向疫区捐款金额出炉 移动最多电信居中均被赞](http://mp.weixin.qq.com/s?src=11&timestamp=1580347805&ver=2127&signature=mj9qZRVTgszZhtRWaEK-JoOllagNa5*KPQQj27Pr01p2nhZkidY-P-Gp*-r3OTMkZYaCnOLirxVNDxIHR8GZ9KTMx89HM9SIp9NoZMTUsO*T2D35JYoYTS0biOjOfjcx&new=1)
- > 运营商财经网八卦叨/文三大通信运营商的捐款金额出来了，还真是有钱的多出，没钱的少捐。  之前工行、建行、农行、中行四大银行的武汉疫区捐款引热议：怎么金额出奇一致？人们以为，三大通信运营商也会学四大银...
- ## [微信自带摄像头检测，再也不怕酒店偷拍!](http://mp.weixin.qq.com/s?src=11&timestamp=1580347805&ver=2127&signature=BCTAuViHPL8lbV68qd1xgtuaMo23p780bhgmNXjqgqOUykW1ZLgGc5Iugva6iCt09RQFLrn-KwEIcjQJ1-1j9CRt83krb822tpg09Ix0j51SzxhhIsDLgvdYctZ2OIm-&new=1)
+ ## [智能制造的核心在于研发的智能化!](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=Rd6nmpsrgkgj-Jy-xx1LhtK9ynE4lhWvye9rSvjLLyHNZ7lUTYwHJRyLdseMWKmEd1iEqKqNfLkMNKe8ZX4xMom6NEF8uUzES2i7jw5xuSYu6lO6bD8AgEQQ2eL5nVBI&new=1)
+ > 精彩内容研发是创新的源泉，工业发展没有研发不行......文/ 中国航空工业集团信息技术中心原首席顾问 宁振波当前全球经济体系正面临着深刻变革和重构，以云计算、大数据、人工智能及5G通讯技术为代表的新兴技术...
+ ## [微信自带摄像头检测，再也不怕酒店偷拍!](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=BCTAuViHPL8lbV68qd1xgtuaMo23p780bhgmNXjqgqN*bYE1erXPlHuPRQ8DToTkiOq1Oi9YiEtuuDPe8m71zPyQm39lA40V1omBG9FhgZ8kIkFML8SpuM2AtuP13PBZ&new=1)
  > 随着科技越来越发达，现在的摄像头也越做越小，特别是针孔摄像头让人防不胜防。现在出门住酒店住民宿，都要小心提防，因为很多不起眼的小地方都会暗藏摄像头，包括插座孔、电视机、螺丝钉等。所以，今天小黑就来...
+ ## [MediaTek天玑产品全面布局，推动5G发展](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=wwHZ1zveXn2oKe8ZH481CgUcLYEYEP9ibmAvaTCFMPnKyY*Z*sH442r4VLpa0p7lqXR*eoc0kl3WcJVsFWdMrjRF1AbiqTTNIgPzGPrqPH-WD767db8nGj923C9db-MK&new=1)
+ > 在5G时代，MediaTek开启全新5G移动平台——天玑系列。同步覆盖旗舰与中高端市场，多维产品布局为市场和用户提供更多选择。技术领先-驱动行业多元发展功能性高度集成：集成全球最先进5G基带：5G对整体的技术、芯...
+ ## [三大运营商向疫区捐款金额出炉 移动最多电信居中均被赞](http://mp.weixin.qq.com/s?src=11&timestamp=1580356805&ver=2127&signature=mj9qZRVTgszZhtRWaEK-JoOllagNa5*KPQQj27Pr01r2FpsKnkKJj9UPirhDazsXp3nrMW3PxOjCwG6gdqxI04ZU5hgkwXpx*LWmNejKya5wloJETINObG-70Po*TJ5N&new=1)
+ > 运营商财经网八卦叨/文三大通信运营商的捐款金额出来了，还真是有钱的多出，没钱的少捐。  之前工行、建行、农行、中行四大银行的武汉疫区捐款引热议：怎么金额出奇一致？人们以为，三大通信运营商也会学四大银...
 # IT 技术 
  ## [为什么阿里P8、P9技术大牛反复强调“结构化思维”？](http://news.51cto.com/art/202001/609652.htm)
  > 为什么阿里P8、P9技术大牛反复强调“结构化思维”？
@@ -33,6 +43,22 @@ categories: IT NEWS
  > 在Kubernetes上实现无服务器化的五种方式
  ## [为什么我们要放弃迁移到微服务？](http://developer.51cto.com/art/202001/609582.htm)
  > 为什么我们要放弃迁移到微服务？
+ ## [国产UOS操作系统体验：打开20MB文档耗时不到1秒](http://news.51cto.com/art/202001/609739.htm)
+ > 随着UOS统一操作系统的发布，国产OS正在改变以往一盘散沙的局面，多个项目都在整合，试图做大做强，并在一
+ ## [互联金融：物联网进入银行业](http://iot.51cto.com/art/202001/609738.htm)
+ > 在未来的几年里，金融机构非常想知道这么多的物联网设备如何帮助他们的业务。让我们来谈谈金融服务中的一些
+ ## [QinQ基础，VLAN双层TAG，一分钟了解下](http://network.51cto.com/art/202001/609737.htm)
+ > QinQ 是 802.1Q in 802.1Q 的简称，是基于 IEEE 802.1Q 技术的一种比较简单的二层 VPN 协议。
+ ## [对标Eureka的AP一致性，Nacos如何实现Raft算法](http://network.51cto.com/art/202001/609736.htm)
+ > 为了提高理解性，Raft 将一致性算法分为了几个部分，包括领导选取(leader selection)、日志复制(log replic
+ ## [百度：免费开放LinearFold算法，可将RNA分析从55分钟缩短至27秒](http://news.51cto.com/art/202001/609740.htm)
+ > 1 月 30 日消息根据百度官方的消息，百度免费开放 LinearFold 算法，可将病毒 RNA 分析从 55 分钟缩短至 27
+ ## [物联网对汽车零售业意味着什么](http://iot.51cto.com/art/202001/609733.htm)
+ > 本质上，在汽车中，物联网促进车辆与其周围环境之间的联系，以及客户与汽车经销商之间的联系。
+ ## [预测分析――如何帮助美国渡过流感爆发期？](http://ai.51cto.com/art/202001/609732.htm)
+ > 在武汉新型肺炎持续扩散的同时，美国流感也引起了广泛关注。每一年的流感高发期及其对美国公共健康的影响，
+ ## [使用公钥/私钥对设定免密的Linux登录方式](http://os.51cto.com/art/202001/609731.htm)
+ > 使用一组公钥/私钥对让你不需要密码登录到远程 Linux 系统或使用 ssh 运行命令，这会非常方便，但是设置过
  ## [开发者在行动！中国防疫开源项目登上 GitHub TOP 榜](https://blog.csdn.net/csdnnews/article/details/104104178)
  > 开发者在行动！中国防疫开源项目登上 GitHub TOP 榜
  ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
@@ -59,10 +85,10 @@ categories: IT NEWS
  > 
  ## [python学习方法总结(内附python全套学习资料)](https://blog.csdn.net/qq_42554007/article/details/102802719)
  > python学习方法总结(内附python全套学习资料)
+ ## [Qt实践录：串口调试助手](https://blog.csdn.net/subfate/article/details/104107132)
+ > Qt实践录：串口调试助手
  ## [MySQL(InnoDB剖析):09---InnoDB的启动、关闭、恢复](https://blog.csdn.net/qq_41453285/article/details/104106764)
  > MySQL(InnoDB剖析):09---InnoDB的启动、关闭、恢复
- ## [so easy！ 10行代码写个"狗屁不通"文章生成器](https://blog.csdn.net/lantian_123/article/details/103172069)
- > 
  ## [疫情肆虐下，程序员们都在哪里？](https://blog.csdn.net/csdnnews/article/details/104111253)
  > 这个春节，程序员都在哪里？
  ## [@程序员，早知道假期这样你会干什么?](https://blog.csdn.net/csdnnews/article/details/104112063)
@@ -77,36 +103,5 @@ categories: IT NEWS
  > 作者 | 天元浪子责编 | 胡巍巍近日，在笔者的微信群里，白垩老师问如何用Python画武汉肺炎疫情地图。白垩老师是研究海洋生态与地球生物的学者，国家重点实验室成员，于不惑之年学习Pyt...
  ## [漫话：如何给女朋友解释什么是 3PC？](https://blog.csdn.net/csdnnews/article/details/104112067)
  > 作者 | 漫话编程本文经授权转载自漫话编程（ID：mhcoding）责编 | 胡巍巍一顿愉快的小火锅之后，悠哉悠哉的回家了，于是只能开始新一轮的家庭科普了。分布式一致性幸好在《漫话：如何...
-# 人工智能 
- ## [最新迅雷iOS下载beta版2020，内测企业证书版下载安装](https://blog.csdn.net/m0_46228985/article/details/104091984)
- > 最新迅雷iOS下载beta版2020，内测企业证书版下载安装
- ## [原生html贪吃蛇](https://blog.csdn.net/tomorrow_shoe/article/details/104090879)
- > 原生html贪吃蛇
- ## [HTML和HTML5，css和css3的区别有那些?](https://blog.csdn.net/m0_46156566/article/details/104092162)
- > HTML和HTML5，css和css3的区别有那些?
- ## [Servlet 文件下载提示保存文件 Content-Disposition ：attachment和inline的区别](https://blog.csdn.net/qq_37698425/article/details/104094882)
- > Servlet 文件下载提示保存文件 Content-Disposition ：attachment和inline的区别
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
- > 
- ## [网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）](https://blog.csdn.net/qq_44210563/article/details/102826406)
- > 网页实现一个简单的音乐播放器（大佬别看。(⊙﹏⊙)）
- ## [JavaScript-DOM(Window)编程知识点整理](https://blog.csdn.net/MrLsss/article/details/104092193)
- > JavaScript-DOM(Window)编程知识点整理
- ## [HTML5   canvas样式和颜色](https://blog.csdn.net/weixin_44307065/article/details/104089727)
- > HTML5   canvas样式和颜色
- ## [vue过滤器以及自定义指令](https://blog.csdn.net/qq_25884515/article/details/104092467)
- > vue过滤器以及自定义指令
- ## [渡一教育《淘宝项目开发笔记五》](https://blog.csdn.net/qq_44152977/article/details/104091166)
- > 渡一教育《淘宝项目开发笔记五》
- ## [React学习路线](https://blog.csdn.net/qiqiyiyi_/article/details/104086457)
- > React学习路线
- ## [HTML](https://blog.csdn.net/Mr_Happy_/article/details/104091178)
- > HTML
- ## [Echarts中使用Ajax请求武汉疫情数据绘制全国疫情分布地图](https://blog.csdn.net/ssjdoudou/article/details/104095458)
- > Echarts中使用Ajax请求武汉疫情数据绘制全国疫情分布地图
- ## [分享一个很不错的壁纸工具（chrome插件/PC端/安卓/IOS）](https://blog.csdn.net/w1590191166/article/details/104095209)
- > 分享一个很不错的壁纸工具（chrome插件/PC端/安卓/IOS）
- ## [Vue基础05v-on事件监听加分减分](https://blog.csdn.net/weixin_46146313/article/details/104094411)
- > Vue基础05v-on事件监听加分减分
 
     
