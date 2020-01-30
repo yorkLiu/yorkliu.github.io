@@ -1,21 +1,21 @@
 ---
 title: 2020-01-30 IT News
 copyright: true
-date: 2020-01-30 08:00:50
+date: 2020-01-30 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [MediaTek天玑产品全面布局，推动5G发展](http://mp.weixin.qq.com/s?src=11&timestamp=1580340644&ver=2127&signature=wwHZ1zveXn2oKe8ZH481CgUcLYEYEP9ibmAvaTCFMPl0Z6LeQNeiAzD9iXdC3hkTTZYSB7fShbyBGTQ3vqtvYIK0oPvl5gFiCW3VXGZauorvpagJqBPsqTU3EzpcJc0a&new=1)
+ ## [MediaTek天玑产品全面布局，推动5G发展](http://mp.weixin.qq.com/s?src=11&timestamp=1580346005&ver=2127&signature=wwHZ1zveXn2oKe8ZH481CgUcLYEYEP9ibmAvaTCFMPl0Z6LeQNeiAzD9iXdC3hkTmCb7kE5mu*MuB9DhbRdbf8aBkhmmY-9VIH8lDlE8SBoivrd3w-MO9cryzuvL5--0&new=1)
  > 在5G时代，MediaTek开启全新5G移动平台——天玑系列。同步覆盖旗舰与中高端市场，多维产品布局为市场和用户提供更多选择。技术领先-驱动行业多元发展功能性高度集成：集成全球最先进5G基带：5G对整体的技术、芯...
- ## [微信自带摄像头检测，再也不怕酒店偷拍!](http://mp.weixin.qq.com/s?src=11&timestamp=1580340644&ver=2127&signature=BCTAuViHPL8lbV68qd1xgtuaMo23p780bhgmNXjqgqOUykW1ZLgGc5Iugva6iCt0lNiiqpWp8PhU1s-8rBgTAuo*1MoDAW6Hmt*Yc2hgFbuHAv7vS4SoUONBMyauFjzs&new=1)
- > 随着科技越来越发达，现在的摄像头也越做越小，特别是针孔摄像头让人防不胜防。现在出门住酒店住民宿，都要小心提防，因为很多不起眼的小地方都会暗藏摄像头，包括插座孔、电视机、螺丝钉等。所以，今天小黑就来...
- ## [三大运营商向疫区捐款金额出炉 移动最多电信居中均被赞](http://mp.weixin.qq.com/s?src=11&timestamp=1580340644&ver=2127&signature=mj9qZRVTgszZhtRWaEK-JoOllagNa5*KPQQj27Pr01p2nhZkidY-P-Gp*-r3OTMkHogIb8avqfsnpiP*5GV-2uFiNL1Y38PqdQxZDhSbvoazSV1t-Qg6IWKjESrLusLd&new=1)
- > 运营商财经网八卦叨/文三大通信运营商的捐款金额出来了，还真是有钱的多出，没钱的少捐。  之前工行、建行、农行、中行四大银行的武汉疫区捐款引热议：怎么金额出奇一致？人们以为，三大通信运营商也会学四大银...
- ## [智能制造的核心在于研发的智能化!](http://mp.weixin.qq.com/s?src=11&timestamp=1580340644&ver=2127&signature=Rd6nmpsrgkgj-Jy-xx1LhtK9ynE4lhWvye9rSvjLLyHuzPG1YyQ4F2uKTDyW3yTT*cJWOnnMK4M1NPbOlp69tzYYQatdE2iZdyiw6Awqdq6mcuMUSKYSh513NzIjCsjj&new=1)
- > 精彩内容研发是创新的源泉，工业发展没有研发不行......文/ 中国航空工业集团信息技术中心原首席顾问 宁振波当前全球经济体系正面临着深刻变革和重构，以云计算、大数据、人工智能及5G通讯技术为代表的新兴技术...
- ## [听说软件都要改订阅付费了啊，怎么办?](http://mp.weixin.qq.com/s?src=11&timestamp=1580340644&ver=2127&signature=pNUk0kaw3sz07BXz6J3pPKhDSpYYyl2dfJAyEhrxWRuBrX8IV6MlFESDvcF-ZbXurcG0BrzJg5O4xtMUX4IsaTHjJ*Nh-kYPoZtvy6whr6HsZkFAljn3sQnqOIUyldCh&new=1)
+ ## [听说软件都要改订阅付费了啊，怎么办?](http://mp.weixin.qq.com/s?src=11&timestamp=1580346005&ver=2127&signature=pNUk0kaw3sz07BXz6J3pPKhDSpYYyl2dfJAyEhrxWRuBrX8IV6MlFESDvcF-ZbXuGZgCPxBWtiI1RJmi*xIWCPbxtq1jRInkO-aF7upeixgPK8Lpuq*hwZng8QenFTNA&new=1)
  > 那还能怎么办？选一个买呗。软件对人类的影响，就像吃饭一样已经不可缺少，吃饭要花钱，用软件肯定也得花钱啊（道理很简单，其实是软件开发者要吃饭...）。Billey 是一款非常简单易用的记录并管理在线订阅付费服...
+ ## [智能制造的核心在于研发的智能化!](http://mp.weixin.qq.com/s?src=11&timestamp=1580346005&ver=2127&signature=Rd6nmpsrgkgj-Jy-xx1LhtK9ynE4lhWvye9rSvjLLyHuzPG1YyQ4F2uKTDyW3yTTigrR5SKU-etOO10r0K5AD8CSHhQeARdVVN024gz*g2kHNONP7NULf4tjKTFIU79E&new=1)
+ > 精彩内容研发是创新的源泉，工业发展没有研发不行......文/ 中国航空工业集团信息技术中心原首席顾问 宁振波当前全球经济体系正面临着深刻变革和重构，以云计算、大数据、人工智能及5G通讯技术为代表的新兴技术...
+ ## [三大运营商向疫区捐款金额出炉 移动最多电信居中均被赞](http://mp.weixin.qq.com/s?src=11&timestamp=1580346005&ver=2127&signature=mj9qZRVTgszZhtRWaEK-JoOllagNa5*KPQQj27Pr01p2nhZkidY-P-Gp*-r3OTMkZAmTMlzy37kNWAULjickrr7Onr9hEInT8sM5-I7neilvdpvW7JwStOTsA3uvq4R3&new=1)
+ > 运营商财经网八卦叨/文三大通信运营商的捐款金额出来了，还真是有钱的多出，没钱的少捐。  之前工行、建行、农行、中行四大银行的武汉疫区捐款引热议：怎么金额出奇一致？人们以为，三大通信运营商也会学四大银...
+ ## [微信自带摄像头检测，再也不怕酒店偷拍!](http://mp.weixin.qq.com/s?src=11&timestamp=1580346005&ver=2127&signature=BCTAuViHPL8lbV68qd1xgtuaMo23p780bhgmNXjqgqOUykW1ZLgGc5Iugva6iCt07pjNwtB3TWteVtKJPm3uMo*bmBd6SfHQF2Kt84dlDaMb3UPOCg-29pxiaZXQQV7L&new=1)
+ > 随着科技越来越发达，现在的摄像头也越做越小，特别是针孔摄像头让人防不胜防。现在出门住酒店住民宿，都要小心提防，因为很多不起眼的小地方都会暗藏摄像头，包括插座孔、电视机、螺丝钉等。所以，今天小黑就来...
 # IT 技术 
  ## [为什么阿里P8、P9技术大牛反复强调“结构化思维”？](http://news.51cto.com/art/202001/609652.htm)
  > 为什么阿里P8、P9技术大牛反复强调“结构化思维”？
@@ -35,34 +35,36 @@ categories: IT NEWS
  > 为什么我们要放弃迁移到微服务？
  ## [开发者在行动！中国防疫开源项目登上 GitHub TOP 榜](https://blog.csdn.net/csdnnews/article/details/104104178)
  > 开发者在行动！中国防疫开源项目登上 GitHub TOP 榜
- ## [开发者在行动！中国防疫开源项目登上 GitHub TOP 榜](https://blog.csdn.net/csdnnews/article/details/104104178)
- > 
- ## [Python十大装B语法](https://blog.csdn.net/xufive/article/details/102856921)
- > 
- ## [springcloud-zuul初级篇](https://blog.csdn.net/youku1327/article/details/104108108)
- > springcloud-zuul初级篇
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
- > 
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
- > 
  ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
  > 
- ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
+ ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
+ > linux系列之常用运维命令整理笔录
+ ## [网络（8）-HTTP、Socket、TCP、UDP的区别和联系](https://blog.csdn.net/m0_37609579/article/details/103192012)
  > 
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
+ ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
+ > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [2019年11月中国大陆编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/102876985)
+ ## [go 学习笔记之咬文嚼字带你弄清楚 defer 延迟函数](https://blog.csdn.net/weixin_38171180/article/details/103147997)
  > 
- ## [2020第一本书《自私的基因》](https://blog.csdn.net/Julialove102123/article/details/100169072)
- > 2020第一本书《自私的基因》
- ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
- > 究竟你适不适合买Mac？
- ## [Spring之路(29)–Spring JDBC多种数据源DataSource配置实例](https://blog.csdn.net/woshisangsang/article/details/104105247)
- > Spring之路(29)–Spring JDBC多种数据源DataSource配置实例
- ## [关于ppa源404的一个解决方法](https://blog.csdn.net/moxiaomomo/article/details/104108900)
- > 关于ppa源404的一个解决方法
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [【C++100问】深入理解理解顶层const和底层const](https://blog.csdn.net/TeFuirnever/article/details/103011514)
+ > 
+ ## [【Linux系统编程】线程基本操作](https://blog.csdn.net/dengjin20104042056/article/details/102959805)
+ > 
+ ## [剑指offer(60-67题)详解](https://blog.csdn.net/qq_40693171/article/details/104109141)
+ > 剑指offer(60-67题)详解
+ ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ > 
+ ## [python学习方法总结(内附python全套学习资料)](https://blog.csdn.net/qq_42554007/article/details/102802719)
+ > python学习方法总结(内附python全套学习资料)
+ ## [疫情肆虐下，程序员们都在哪里？](https://blog.csdn.net/csdnnews/article/details/104111253)
+ > 这个春节，程序员都在哪里？
  ## [@程序员，早知道假期这样你会干什么?](https://blog.csdn.net/csdnnews/article/details/104112063)
  > 你肯定没想到，这个假期竟然是这样过吧。要是可以预知未来，你会给宅在家里的假期，做怎么样的安排呢？数葡萄干也好、喊对面邻居唱歌也好，都不如静下心来读几本书充充电，没准儿新学到的知识，就能让...
  ## [疫情之下「在家办公模式」开启，你该选择哪些远程协同工具？| 特稿](https://blog.csdn.net/csdnnews/article/details/104112064)
@@ -76,35 +78,35 @@ categories: IT NEWS
  ## [漫话：如何给女朋友解释什么是 3PC？](https://blog.csdn.net/csdnnews/article/details/104112067)
  > 作者 | 漫话编程本文经授权转载自漫话编程（ID：mhcoding）责编 | 胡巍巍一顿愉快的小火锅之后，悠哉悠哉的回家了，于是只能开始新一轮的家庭科普了。分布式一致性幸好在《漫话：如何...
 # 人工智能 
- ## [Centos7 网卡配置及静态IP配置](https://blog.csdn.net/qq_19734597/article/details/104090993)
- > Centos7 网卡配置及静态IP配置
- ## [linux系列之常用运维命令整理笔录](https://blog.csdn.net/u014427391/article/details/102785219)
- > linux系列之常用运维命令整理笔录
- ## [实验报告3：Linux正确关机的方法（超详细版）](https://blog.csdn.net/weixin_44015669/article/details/104095005)
- > 实验报告3：Linux正确关机的方法（超详细版）
- ## [shell的一些文件操作](https://blog.csdn.net/nirendao/article/details/104092939)
- > shell的一些文件操作
- ## [【Linux】常见指令总结（三）](https://blog.csdn.net/weixin_43550839/article/details/104094302)
- > 【Linux】常见指令总结（三）
- ## [Redis - 持久化](https://blog.csdn.net/qq_40885085/article/details/104090345)
- > Redis - 持久化
- ## [Linux文件简述](https://blog.csdn.net/qq_42526171/article/details/104092153)
- > Linux文件简述
- ## [zabbix源码编译](https://blog.csdn.net/Wt1611058180/article/details/104088329)
- > zabbix源码编译
- ## [MySQL-CentOS7通过YUM安装MySQL5.7.29](https://blog.csdn.net/yangshangwei/article/details/104089669)
- > MySQL-CentOS7通过YUM安装MySQL5.7.29
- ## [linux安装redis时遇到的fatal error: stdlib.h: No such file or directory](https://blog.csdn.net/weixin_37551036/article/details/104094618)
- > linux安装redis时遇到的fatal error: stdlib.h: No such file or directory
- ## [解决Control+Alt+F1 - F6黑屏的问题](https://blog.csdn.net/jumpingpig/article/details/104092944)
- > 解决Control+Alt+F1 - F6黑屏的问题
- ## [centos7  zookeeper 完整 安装 、 启动 、 关闭 、 查看状态 教程](https://blog.csdn.net/jrgdspuwij/article/details/104094844)
- > centos7  zookeeper 完整 安装 、 启动 、 关闭 、 查看状态 教程
- ## [实验报告4： Linux文件权限与目录配置1（超详细版）](https://blog.csdn.net/weixin_44015669/article/details/104095074)
- > 实验报告4： Linux文件权限与目录配置1（超详细版）
- ## [树莓派4b串口SSH登录 出现乱码](https://blog.csdn.net/liwuxin1/article/details/104092981)
- > 树莓派4b串口SSH登录 出现乱码
- ## [【Linux】常见指令总结（一）](https://blog.csdn.net/weixin_43550839/article/details/104055478)
- > 【Linux】常见指令总结（一）
+ ## [2020  我把大学四年ACM模板分享了出来【总结】 ACMer一定要来看！](https://blog.csdn.net/weixin_42429718/article/details/104091170)
+ > 2020  我把大学四年ACM模板分享了出来【总结】 ACMer一定要来看！
+ ## [BIOS的启动原理学习--加载引导程序](https://blog.csdn.net/weixin_43590389/article/details/104094234)
+ > BIOS的启动原理学习--加载引导程序
+ ## [Kobe Bryant crash report](https://blog.csdn.net/Dontla/article/details/104091542)
+ > Kobe Bryant crash report
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [相见恨晚的超实用网站](https://blog.csdn.net/qq_43901693/article/details/100606828)
+ > 相见恨晚的超实用网站
+ ## [大学两年，写了这篇几十万字的干货总结](https://blog.csdn.net/hebtu666/article/details/103438056)
+ > 
+ ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
+ > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
+ ## [matlab绘制三维曲线基础](https://blog.csdn.net/weixin_45545092/article/details/104092648)
+ > matlab绘制三维曲线基础
+ ## [信号与系统1-关于卷积的那些事](https://blog.csdn.net/PollyZBL/article/details/104089906)
+ > 信号与系统1-关于卷积的那些事
+ ## [2020发财纸大计](https://blog.csdn.net/qq_41739364/article/details/104091973)
+ > 2020发财纸大计
+ ## [【数据结构与算法】（1）算法概述](https://blog.csdn.net/weixin_44034328/article/details/104092209)
+ > 【数据结构与算法】（1）算法概述
+ ## [输入URL到页面呈现中间发生了什么？](https://blog.csdn.net/long19981231/article/details/104090413)
+ > 输入URL到页面呈现中间发生了什么？
+ ## [关于相关国企央企求职心得](https://blog.csdn.net/oliezhang/article/details/104091378)
+ > 关于相关国企央企求职心得
+ ## [关联mysql失败_Server returns invalid timezone. Go to 'Advanced' tab and set 'serverTimezon'](https://blog.csdn.net/qq_42013035/article/details/104092059)
+ > 关联mysql失败_Server returns invalid timezone. Go to &x27;Advanced&x27; tab and set &x27;serverTimezon&x27;
+ ## [【OpenCV（C++）】图像变换：霍夫变换](https://blog.csdn.net/weixin_43645790/article/details/104092491)
+ > 【OpenCV（C++）】图像变换：霍夫变换
 
     
