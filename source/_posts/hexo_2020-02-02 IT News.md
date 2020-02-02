@@ -1,21 +1,21 @@
 ---
 title: 2020-02-02 IT News
 copyright: true
-date: 2020-02-02 09:00:50
+date: 2020-02-02 10:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [更正：12月SteamVR数据统计，新增Vive Cosmos数据](http://mp.weixin.qq.com/s?src=11&timestamp=1580605204&ver=2133&signature=NGbuS6dwupH6RbplqiKULcR3Zn222lJ0Vbvp36vDwa4kifrS7O8X5J55SK6UaqdcND3HNcPh-RR-6Tf0njZ3z2jmMjOLUPciYPoJdxQUsavW0YqK7tPSs0XjTZK9BcuT&new=1)
+ ## [更正：12月SteamVR数据统计，新增Vive Cosmos数据](http://mp.weixin.qq.com/s?src=11&timestamp=1580608805&ver=2133&signature=NGbuS6dwupH6RbplqiKULcR3Zn222lJ0Vbvp36vDwa4kifrS7O8X5J55SK6UaqdcWdGB7Nd6B5aec5iF9JG0had3j*N-LOcN2d1OKh2j4hHEkBqg40CXGDTUNytRGeKp&new=1)
  > hi188｜ 编辑前不久，Steam更正了12月份的Steam VR数据统计，因此我们也重新发布了更正版SteamVR在2019年12月份的统计数据（原文）。虽然已经进入2020年2月份，但这个数据更改还是值得关注的。另外，Valve还未发
- ## [中国芯片取得重大进展，可望摆脱对美国芯片的依赖](http://mp.weixin.qq.com/s?src=11&timestamp=1580605204&ver=2133&signature=nNUeLa-9g5HeiiHvMtoGcCW5699-1aGyo0rKxQKIePisBWwJza7NMNG8NAWa-7NPF*iCzsNgA7U9er0in*ON3uD50xZoR-p*e117kEgFdj9DkbnUn5qy3WJ5TfM4WZrO&new=1)
+ ## [中国芯片取得重大进展，可望摆脱对美国芯片的依赖](http://mp.weixin.qq.com/s?src=11&timestamp=1580608805&ver=2133&signature=nNUeLa-9g5HeiiHvMtoGcCW5699-1aGyo0rKxQKIePisBWwJza7NMNG8NAWa-7NP-NII7EUBYgIaZx2JP7AqtS6ZfG29n*CaL-oCHgOGTgpT5FdU5kNzQILjHrOz7Co*&new=1)
  > 中国芯片企业兆芯宣布其开发的面对桌面PC的KX-U6780A处理器正式面向公众市场发售，其为八核X86 CPU，可以兼容Intel的指令集，意味着它可以安装当前广受消费者欢迎的Windows系统，这是中国芯片产业的重大进步，中...
- ## [常见的机器学习算法，你知道几个?](http://mp.weixin.qq.com/s?src=11&timestamp=1580605204&ver=2133&signature=F3dXSW1NbMICHHplRTs3lbtKqRmrD*Je8gZAhdi*9dBmdbDDOZ3G03CoA4w-jdeClHOQeJFyvw3qi3IxDxCRTXS9lBekja-utV7D4Yg25ya2w9u*ydPj0KDeI4l*0fly&new=1)
- > 诞生于1956年的人工智能，由于受到智能算法、计算速度、存储水平等因素的影响，在六十多年的发展过程中经历了多次高潮和低谷。最近几年，得益于数据量的上涨、运算力的提升，特别是机器学习新算法的出现，人工智...
- ## [拒绝抢跑5G的苹果，究竟在等什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1580605204&ver=2133&signature=bjqswhSMmNqXt4TiPIvHDRsgPAFpVVE2AMc9ZJCe4vyyhE9B2yXwZdJavzO4ziYZOPzPEWs0BMsihTM9Zn4wnareeUKnIOgL7TC*BuoCdWU1mvhNDHmF3sMgpX5MkF-5&new=1)
+ ## [拒绝抢跑5G的苹果，究竟在等什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1580608805&ver=2133&signature=bjqswhSMmNqXt4TiPIvHDRsgPAFpVVE2AMc9ZJCe4vyyhE9B2yXwZdJavzO4ziYZh0Uy9moQ742DG-CHXuxxXbd5lrqH0*EMOEAeXp7g3op*r3FSEfYBrl3Am2jj3df-&new=1)
  > 中国手机巨头品牌华为、小米、OPPO、VIVO均已推出5G手机，但苹果的5G手机却还只存在于传说中。因此不少人认为：苹果将在5G竞争中落后，甚至最终会落败。如果把苹果单纯定义为一家手机品牌厂商，那么这个观点无可...
- ## [利用驱动人生升级通道传播的木马手工查杀记](http://mp.weixin.qq.com/s?src=11&timestamp=1580605204&ver=2133&signature=I2sjj*YeJLzNMfTS8kQP6U7teb9yGTC1zuS92SHHjpK75NkzVLw1t-G600ufXFYpu*0rlmjkurC*9ZrBa339olXsiP7oC29418xzIp2T1vFv*FkD7tH9GlAvgatx6yY2&new=1)
+ ## [利用驱动人生升级通道传播的木马手工查杀记](http://mp.weixin.qq.com/s?src=11&timestamp=1580608805&ver=2133&signature=I2sjj*YeJLzNMfTS8kQP6U7teb9yGTC1zuS92SHHjpK75NkzVLw1t-G600ufXFYpvs7gQjX8GlApTR9Lci2WOStF*5h6PX*8L*FJfjCX8UnskRiW*ufnAFUR0VH*fdDT&new=1)
  > 一、 背景介绍驱动人生木马在1月24日的基础上再次更新，将攻击组件安装为计划任务、服务并启动。本次手工查杀主要针对该木马。相关文章：https://www.freebuf.com/column/195250.html最近在应急过程中，某单位
+ ## [常见的机器学习算法，你知道几个?](http://mp.weixin.qq.com/s?src=11&timestamp=1580608805&ver=2133&signature=F3dXSW1NbMICHHplRTs3lbtKqRmrD*Je8gZAhdi*9dBmdbDDOZ3G03CoA4w-jdeCk1dN-XslcQEHd8IHOk3gvsgLdP1O06VS4mKAnKrdn1UYJNSBbo*DOFziVDth9ZUl&new=1)
+ > 诞生于1956年的人工智能，由于受到智能算法、计算速度、存储水平等因素的影响，在六十多年的发展过程中经历了多次高潮和低谷。最近几年，得益于数据量的上涨、运算力的提升，特别是机器学习新算法的出现，人工智...
 # IT 技术 
  ## [疫情面前，我们是否需要远程办公？](http://zhuanlan.51cto.com/art/202002/609772.htm)
  > 疫情面前，我们是否需要远程办公？
@@ -33,7 +33,13 @@ categories: IT NEWS
  > 上海失独妈妈用AI“复活”了年仅14岁女儿......
  ## [“跳槽”还是“卧槽”，你想好了吗？](http://news.51cto.com/art/202001/609584.htm)
  > “跳槽”还是“卧槽”，你想好了吗？
- ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
+ ## [软件安全策略分享](http://netsecurity.51cto.com/art/202002/609788.htm)
+ > 我想作为一个信息安全从业者，无论是在渗透测试、代码审计亦或是其他安全服务中都会接触到各种各样的漏洞。
+ ## [了解不同类型的聊天机器人](http://ai.51cto.com/art/202002/609787.htm)
+ > 如果您认为所有聊天机器人都是一样的，那您就错了。聊天机器人是为许多不同的功能而创建，例如协助、交易、
+ ## [医疗物联网增长的4个因素](http://iot.51cto.com/art/202002/609786.htm)
+ > 医疗领域中的物联网为行业所有利益相关方提供了一系列好处，但挑战依然存在。以下是导致医疗行业物联网采用
+ ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
@@ -41,8 +47,6 @@ categories: IT NEWS
  > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [leetocde 225. 用队列实现栈](https://blog.csdn.net/hebtu666/article/details/104135284)
- > leetocde 225. 用队列实现栈
  ## [SOFAMosn 如何提高 GoLang 的转发性能](https://blog.csdn.net/xunzaosiyecao/article/details/102994298)
  > 
  ## [经典算法（5）杨辉三角](https://blog.csdn.net/weixin_43570367/article/details/102900775)
@@ -51,6 +55,10 @@ categories: IT NEWS
  > 
  ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
  > 
+ ## [剑指Offer对答如流系列 - 求1+2+…+n](https://blog.csdn.net/qq_42322103/article/details/104133774)
+ > 剑指Offer对答如流系列 - 求1+2+…+n
+ ## [分治法--一维最接近点对问题](https://blog.csdn.net/weixin_44721537/article/details/104138343)
+ > 分治法--一维最接近点对问题
  ## [Julia处理高斯光束的光斑图像](https://blog.csdn.net/m0_37816922/article/details/103229776)
  > 
  ## [张小龙-年薪近3亿的微信之父，他是如何做到的？](https://blog.csdn.net/jxq0816/article/details/103201600)
