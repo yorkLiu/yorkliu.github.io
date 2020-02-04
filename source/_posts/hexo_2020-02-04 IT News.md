@@ -1,22 +1,24 @@
 ---
 title: 2020-02-04 IT News
 copyright: true
-date: 2020-02-04 08:00:50
+date: 2020-02-04 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国手机企业库存高达6000万，市场正常后或大规模降价促销](http://mp.weixin.qq.com/s?src=11&timestamp=1580774404&ver=2137&signature=h7FsBVbFXtEajMNgpvCU2cBJ6NnSC9CGOx2jrr3Xf9MleXcQedUZYbP8riJJnAMval3Sn*h1msMD*yUvsJrn9-VxZadbkQq0*9Z2G2bjGfsSyTFyyl-pA2oCD82G-lXw&new=1)
- > 媒体报道指由于新型肺炎疫情的影响，春节这个购物旺季的手机销量下滑最高接近六成，导致中国手机企业的库存水平可能高达6000万部，让中国手机企业承受着巨大的压力，或许市场正常后中国手机企业会被迫大幅降价销...
- ## [新媒：韩国5G测算出最新数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1580774404&ver=2137&signature=xQ5fKMN*9hYq07o9p1pIz-5CWiUsFGRNWvD1XGovVa*HMSOrJFy1Kxdmm3mdVNXlOVmYkU3ad6f7z209wr*9CwuFSbr4k5Jrt2nB6WT8jyg=&new=1)
- > 参考消息网2月4日报道 新加坡媒体报道称，韩国电信监管机构最新数据显示，在推出新技术不到一年的时间里，韩国的5G网络现在承载着该国所有无线网络流量的近四分之一。据新加坡《联合早报》网站2月2日报道，根据...
- ## [全中国都在抗击疫情，这些辣鸡却在散播病毒](http://mp.weixin.qq.com/s?src=11&timestamp=1580774404&ver=2137&signature=PXf3hC9A1q21eEfPTRSdO2EqKVjdxCqX4mshx7GSyTIYk-2Q32dQoq7TVsc*H0VgnYLbum49RCV4E0lH-FEiRWC28ez9125RvuoVe*EWTFeOuPAr4XQbz1YD-OoLwmXk&new=1)
- > 今年过年，待在家里，就是对社会最好的贡献。在家能干啥？不少人肯定和机哥一样，玩手机、玩电脑度日。没想到啊，老老实实在家用电脑，外面病毒是防住了，但互联网上的病毒，防不胜防。冠状病毒来势汹汹，黑客们...
- ## [2020疫情下的中国科技企业：逆行、战斗，以及同样需要被关怀](http://mp.weixin.qq.com/s?src=11&timestamp=1580774404&ver=2137&signature=dl-uYNSz1jwmM0K6LUzU-twBtDsAo7uDU-EYWlpyz*sKmGDfzAOJllYUYB7yXlIGyDEZ4QaV--kbLkgMZThJQSbDskscYoFQZWns1-JsM6HCXp-pcAGrOOniFAXYkoNg&new=1)
+ ## [2020疫情下的中国科技企业：逆行、战斗，以及同样需要被关怀](http://mp.weixin.qq.com/s?src=11&timestamp=1580776204&ver=2137&signature=dl-uYNSz1jwmM0K6LUzU-twBtDsAo7uDU-EYWlpyz*sKmGDfzAOJllYUYB7yXlIGwOZyAF7hNRaukPS5IZ3wvxNyZkjJF6Gh1n2YA-QSCcWIaVT6WVu2qdOSu8PmoutP&new=1)
  > 每一个企业的捐款都出于自愿，无需比较与苛责。每一个企业的善意，都值得被记录。作者 | 宿艺编辑 | 子淇2020年的春节期间，很多人在朋友圈中留言盼望“重启”。这应该是过去十年“最难”的一个春天。 一场突如...
- ## [中国移动12月用户增长数据不容乐观：尤其是有线宽带用户数净减不少](http://mp.weixin.qq.com/s?src=11&timestamp=1580774404&ver=2137&signature=eNAawQmkVZTHM7p0LSkkPd-NRWYz6ZD86*ZG526NAMhge98MCMtR2vxLT84etVnEeSH8u0zFHOYu4LjP5keHVWGq5jc0jAo38EqlfqGMV-Ra3pVE8OjQv3arhYcrGEPv&new=1)
+ ## [中国手机企业库存高达6000万，市场正常后或大规模降价促销](http://mp.weixin.qq.com/s?src=11&timestamp=1580776204&ver=2137&signature=h7FsBVbFXtEajMNgpvCU2cBJ6NnSC9CGOx2jrr3Xf9MleXcQedUZYbP8riJJnAMvJDnrZN-ameAW7GVvPq3lcOOaaIW*KbdQZd27Wv5lLbnhuGCK6VDTqH0kC9lnJ9bY&new=1)
+ > 媒体报道指由于新型肺炎疫情的影响，春节这个购物旺季的手机销量下滑最高接近六成，导致中国手机企业的库存水平可能高达6000万部，让中国手机企业承受着巨大的压力，或许市场正常后中国手机企业会被迫大幅降价销...
+ ## [新媒：韩国5G测算出最新数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1580776204&ver=2137&signature=xQ5fKMN*9hYq07o9p1pIz-5CWiUsFGRNWvD1XGovVa-wuMJiFhl*57usgKuBWkFXLlR2DwOF-NSHAU13UtvUJ2IHk1yQBdHhVHEIV0k6Qkk=&new=1)
+ > 参考消息网2月4日报道 新加坡媒体报道称，韩国电信监管机构最新数据显示，在推出新技术不到一年的时间里，韩国的5G网络现在承载着该国所有无线网络流量的近四分之一。据新加坡《联合早报》网站2月2日报道，根据...
+ ## [全中国都在抗击疫情，这些辣鸡却在散播病毒](http://mp.weixin.qq.com/s?src=11&timestamp=1580776204&ver=2137&signature=PXf3hC9A1q21eEfPTRSdO2EqKVjdxCqX4mshx7GSyTIYk-2Q32dQoq7TVsc*H0Vg0IUt1zSmAHrZcTMN*2u8aC4dfayFL0XT3ErELD9Xagu1ndyAKNrFecAbIBVpcqbM&new=1)
+ > 今年过年，待在家里，就是对社会最好的贡献。在家能干啥？不少人肯定和机哥一样，玩手机、玩电脑度日。没想到啊，老老实实在家用电脑，外面病毒是防住了，但互联网上的病毒，防不胜防。冠状病毒来势汹汹，黑客们...
+ ## [中国移动12月用户增长数据不容乐观：尤其是有线宽带用户数净减不少](http://mp.weixin.qq.com/s?src=11&timestamp=1580776204&ver=2137&signature=eNAawQmkVZTHM7p0LSkkPd-NRWYz6ZD86*ZG526NAMhge98MCMtR2vxLT84etVnEniTOGdE-DkPc8zuCqVKIMGA20cwO8f4bXQBypga2WU83y-xm4VgS4DqRuh20psas&new=1)
  > 运营商财经网 吴碧慧/文 近日，中国移动公布了2019年12月份运营数据。当月，中国移动移动用户净增373.2万户，累计达到9.50277亿户；4G用户净增498.5万户，累计达到7.58014亿户；有线宽带用户净减60.9万户，累计...
 # IT 技术 
+ ## [口碑扑街？Python告诉你《妈》到底在哪里?](http://news.51cto.com/art/202002/609862.htm)
+ > 口碑扑街？Python告诉你《妈》到底在哪里?
  ## [Denodo虚拟化平台入门指南](http://developer.51cto.com/art/202002/609816.htm)
  > Denodo虚拟化平台入门指南
  ## [火神山医院正式交付！三天开5G，九天建好信息系统，IT企业做了什么？](http://news.51cto.com/art/202002/609827.htm)
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 如何使用5种机器学习算法对罕见事件进行分类
  ## [Linux Kernel 5.6开发者已准备好应对2038年问题](http://os.51cto.com/art/202002/609795.htm)
  > Linux Kernel 5.6开发者已准备好应对2038年问题
- ## [疫情面前，我们是否需要远程办公？](http://zhuanlan.51cto.com/art/202002/609772.htm)
- > 疫情面前，我们是否需要远程办公？
+ ## [能源物联网：智能应对全球电力短缺问题](http://iot.51cto.com/art/202002/609864.htm)
+ > 电力公司一直在寻找能够帮助他们优化流程和远程管理资产的技术，而物联网就是这样一种技术，可以帮助他们实
  ## [未来十年，人人有望在家远程办公？](https://blog.csdn.net/csdnnews/article/details/104164520)
  > 在当前疫情肆虐的大环境之下，新的一周开启，不少公司都选择了远程办公的模式，而这种方法具有什么样的特点？会成为一种主流的工作模式吗？作者 | Chris Herd整理 | 弯月，责编 | ...
  ## [“数学不好，干啥都不行！”骨灰级程序员：其实你们都是瞎努力](https://blog.csdn.net/csdnnews/article/details/104164526)
@@ -42,36 +44,36 @@ categories: IT NEWS
  ## [面对新型肺炎疫情，AI 能做什么？](https://blog.csdn.net/csdnnews/article/details/104164519)
  > 作者 |beyondma出品 | CSDN博客根据最新的新型冠状病毒疫情通报，截至2月2日22时，国家卫生健康委公布确诊病例14489例，累计死亡病例304例，另有疑似病例19544例...
 # 人工智能 
- ## [卫星影像起底臭名昭著的武汉*华*南*海*鲜*批发市场](https://blog.csdn.net/qq_46071146/article/details/104133358)
- > 卫星影像起底臭名昭著的武汉*华*南*海*鲜*批发市场
- ## [聊一聊 MySQL 数据库中的那些锁](https://blog.csdn.net/z694644032/article/details/104135542)
- > 聊一聊 MySQL 数据库中的那些锁
- ## [避免死锁-----银行家算法详解](https://blog.csdn.net/qq_34666857/article/details/104131832)
- > 避免死锁-----银行家算法详解
- ## [内部类、final与垃圾回收，面试时你一说，面试官就知道](https://blog.csdn.net/sxeric/article/details/104130291)
- > 内部类、final与垃圾回收，面试时你一说，面试官就知道
- ## [Openssh 服务的部署及安全优化](https://blog.csdn.net/FYRXP/article/details/104131189)
- > Openssh 服务的部署及安全优化
- ## [手写一个ReentrantLock锁](https://blog.csdn.net/Wonder_Coder/article/details/104136248)
- > 手写一个ReentrantLock锁
- ## [SQL Injection基础知识_03](https://blog.csdn.net/weixin_43712064/article/details/104132764)
- > SQL Injection基础知识_03
- ## [4G EPS 中建立 UE 和 MME 之间的 NAS（非接入服务）信令连接](https://blog.csdn.net/Jmilk/article/details/104136551)
+ ## [HTML标签汇总（基础和格式部分）](https://blog.csdn.net/qq_41696334/article/details/104138837)
+ > HTML标签汇总（基础和格式部分）
+ ## [听说想当黑客的都玩过这个Monyer游戏（1~14攻略）](https://blog.csdn.net/qq_45899321/article/details/104114991)
+ > 听说想当黑客的都玩过这个Monyer游戏（1~14攻略）
+ ## [块级元素和行内元素，行内块元素](https://blog.csdn.net/qq_37391214/article/details/104138408)
+ > 块级元素和行内元素，行内块元素
+ ## [web前端实现——登录页面](https://blog.csdn.net/qq_45714923/article/details/104127720)
+ > web前端实现——登录页面
+ ## [静态网页入门讲解，制作属于你自己的网页（五）](https://blog.csdn.net/weixin_44018540/article/details/104134555)
+ > 静态网页入门讲解，制作属于你自己的网页（五）
+ ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
- ## [\[网络安全自学篇\] 四十二.DNS欺骗和钓鱼网站原理详解及漏洞还原](https://blog.csdn.net/Eastmount/article/details/104065639)
+ ## [我花了一夜用数据结构给女朋友写个H5走迷宫游戏](https://blog.csdn.net/qq_40693171/article/details/100716766)
  > 
- ## [【计算机网络】网络安全](https://blog.csdn.net/MarcoAsensio/article/details/104138851)
- > 【计算机网络】网络安全
- ## [CVE-Search环境配置及使用](https://blog.csdn.net/EdwinBalance/article/details/103942083)
- > CVE-Search环境配置及使用
- ## [No.39-VulnHub-Billy Madison: 1.1-Walkthrough渗透学习](https://blog.csdn.net/qq_34801745/article/details/104131036)
- > No.39-VulnHub-Billy Madison: 1.1-Walkthrough渗透学习
- ## [出现VMware Workstation 无法连接到虚拟机。请确保您有权运行该程序、访问该程序使用的所有目录以及访问所有临时文件目录..............](https://blog.csdn.net/hewenqing1/article/details/104138322)
- > 出现VMware Workstation 无法连接到虚拟机。请确保您有权运行该程序、访问该程序使用的所有目录以及访问所有临时文件目录..............
- ## [7、以太坊智能合约（安全审计 和 测试工具）](https://blog.csdn.net/u013538542/article/details/104136402)
- > 7、以太坊智能合约（安全审计 和 测试工具）
- ## [Android之协议通信安全](https://blog.csdn.net/u010343650/article/details/104132498)
- > Android之协议通信安全
+ ## [【学习笔记】HTML](https://blog.csdn.net/qq_44190995/article/details/104136180)
+ > 【学习笔记】HTML
+ ## [Java EE基础（18）：JSP语法 + JSP指令（3大指令） + JSP动作](https://blog.csdn.net/weixin_44034328/article/details/104133434)
+ > Java EE基础（18）：JSP语法 + JSP指令（3大指令） + JSP动作
+ ## [你真的懂循环吗](https://blog.csdn.net/w_xiaolin/article/details/104135709)
+ > 你真的懂循环吗
+ ## [git之客户端clone远程仓库进行开发（三）](https://blog.csdn.net/qq_40435493/article/details/104137206)
+ > git之客户端clone远程仓库进行开发（三）
+ ## [前端初学者～](https://blog.csdn.net/qq_45491408/article/details/104138527)
+ > 前端初学者～
+ ## [标准流文档](https://blog.csdn.net/qq_37391214/article/details/104138468)
+ > 标准流文档
+ ## [HTML5+CSS3+JavaScript学习笔记](https://blog.csdn.net/weixin_43410827/article/details/104094294)
+ > HTML5+CSS3+JavaScript学习笔记
+ ## [HTML中click()和onclick()的本质区别与案例和解释](https://blog.csdn.net/weixin_45673401/article/details/104129624)
+ > HTML中click()和onclick()的本质区别与案例和解释
 # PM 
  ## [疫情下生鲜电商的答卷](http://www.chanpin100.com/article/110655)
  > 面对受感染的危险以及高价菜的不满，生鲜电商是如何为用户们谱写出一份满意的答案的。
