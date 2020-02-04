@@ -1,7 +1,7 @@
 ---
 title: 2020-02-04 IT News
 copyright: true
-date: 2020-02-04 12:01:29
+date: 2020-02-04 17:01:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,25 +35,43 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [全中国都在抗击疫情，这些辣鸡却在散播病毒](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=PXf3hC9A1q21eEfPTRSdO2EqKVjdxCqX4mshx7GSyTIsZ3V*K9OdKEQZzXLjQ8-s3b7TFz6rkx0vL0KY2sL1ecB6chij-KFCYt1RiNfMEs3*aPpJaYzKP-hE4TCcCz6D&new=1)
- > 今年过年，待在家里，就是对社会最好的贡献。在家能干啥？不少人肯定和机哥一样，玩手机、玩电脑度日。没想到啊，老老实实在家用电脑，外面病毒是防住了，但互联网上的病毒，防不胜防。冠状病毒来势汹汹，黑客们...
- ## [听说有运营商换了“诸侯”，何许人也?](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=IRMu1kmTjJMro3-JztPpI5H10yR5uM9UBiNpUhTc5GJguj1RezIuFOjoQAvQbUyKOITiag4YDBRt*BC*PjXmsyGWMx8Fk-D9xXSgFCuCIWmPuMj7OqNZj8AIqXNnag8V&new=1)
- > 去年12月，传出浙江电信总经理韩臻聪跨行跳槽华泰证券的消息。这一消息随着华泰证券的一则公告，落下实锤。浙江是互联网大省、通信大省，是沿海经济发达地区，对这样一个省公司领导的配备，集团公司总部往往都比...
- ## [新媒：韩国5G测算出最新数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=xQ5fKMN*9hYq07o9p1pIz-5CWiUsFGRNWvD1XGovVa8HV3ImHT81lkgsecw9Ymu13SJmfrx*Tm7D4VsaZgx21L*kiiC4kE-QkZHnAUl9Bvk=&new=1)
- > 参考消息网2月4日报道 新加坡媒体报道称，韩国电信监管机构最新数据显示，在推出新技术不到一年的时间里，韩国的5G网络现在承载着该国所有无线网络流量的近四分之一。据新加坡《联合早报》网站2月2日报道，根据...
- ## [关于云创大数据2月培训&合作伙伴大会暂时取消的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=goEjJPrpoTE5RSqDgkCt-u5bVxRYIBw3gw0GciSLoHaqqq4mAd6oETabZTtZ6-0*fQVtZptAUTC1OoE0nnZnm4HMqguwoZ8Rf0VWWjG8C21*v7*5NijeOwB2Q*gm2eUV&new=1)
+ ## [2020年值得关注的四大安全趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=CW6g6VWCcGP2p5ksoWCODLkjZUqRVG5HzqJSfICLoFCkhgz7KK5BzxnB0me1Ao6TfFMkw2wwXodP5ASNwzKx9tee0q1corXeC1AUNw6p2EWnBuai0I3QJXLKAYTQLRn5&new=1)
+ > 关键讯息，D1时间送达！企业需要努力增强其安全状况，这是安全实现现代化趋势的一部分，因为安全专家和IT领导者已经认识到这样一个事实，即传统的网络边界防御和其他长期策略本身并不能在当今的IT环境中完全消除...
+ ## [痛中思痛：大安全时代EOC与SOC酝酿变法](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=53NfHuCUAujXaOA4JcdxFTIl4WeDO-Da1YLXDE4QZtIDYJvy9Dk-EVvCOotC1UJ7U1jB7ScXQpuW9Z8a7Tddf9evvsv0j0UAsrACN1gsoeBMvuEGUtq39Dsxx0S*Um2f&new=1)
+ > 面对新冠肺炎的巨大危机，迄今为止拥有绝对流量、话语权和数据规模的互联网和2C科技企业似乎并未（能）充分发挥价值。事实表明，面对紧急公共安全事件，靠2C流量、影响力、自组织、自媒体和大数据是远远不够的，...
+ ## [G+热成像体温筛查平台：疫情防控第一道防线](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=4TFYnR6DxETtyqPtC9bcHzsUCrSV50bBV7waHa*tss4f6gfDsbT8-dFznvtEUbGpvvbvcvEuUlBXFuZzNaedChYXPmS0wHN1mydy0aHU8LBiyIU9NEsgMf0GXZsbsrdg&new=1)
+ > 随着春节后工厂复工、学校开学，各地都将迎来大规模人员流动，为了对流动人员进行快速有效的体温筛查，中国联通推出5G+热成像人体测温信息化平台，平台结合当下生物识别技术、热成像测温技术、视频智能分析及5G...
+ ## [松下展示全球最高强度的蓝色激光精细加工解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=j07FEeQiz9OHgInc1mrl82e-pui0CvzO92Ifrqk7154Uy6HVBvxJ-KfQeGxg12MYOhamAc7*Npoyil*1k59hEVCu2-x9R05ZwV*6h47X64e3MNKUH0bBKdyoSQG1Qeei&new=1)
+ > 在日本大阪的一次演示中，松下展示了迄今为止强度最高的蓝色激光。借助波长光束合并（WBC）和直接二极管激光器（DDL）等技术，该公司成功地打造出了单体的高强度蓝光束。随着技术的不断完善，其能够在光束质量保...
+ ## [开卷知新|邬贺铨院士：5G，当代移动通信技术制高点](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=t42ASfXa6jCVFhAJPGkT1TorL01jCMX6LE4JZmr9Bkvoy8p99Rqh5*H5KpI03eiiU5w2EHlwa17Ree6sE85oPxWpV0cniJIUPCREBKEeX3dkmMPwYNx1QzNdlPUXmuLn&new=1)
+ > 图①：5G无人机体验。图②：5G+AI铁路智慧机务系统。图③：5G微公交。资料图片目前全球97%的人口生活在有移动蜂窝信号覆盖的地方，说移动通信技术改变人类社会毫不为过。而5G，正是当代移动通信技术的制高点，也...
+ ## [大幅面双激光SLS 3D打印机，盈普三维将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=PWhu2AnFRRZDqcwoznGu5tv9-*idALP3hBq9zGeePljkqIWoFgRBYIWDZkESUUBUO68WG4VnSyqoLGyd2w3soeAi9QYoDCcVBvPN**CCBXDZc2ptoFtlIA0ZOJRPaA62&new=1)
+ > 由于新型冠状病毒感染的肺炎疫情控制需要，上海已启动重大突发公共卫生事件一级响应机制，各类大型公共活动将取消。将于2020年2月19日-21举办的2020 亚洲3D打印、增材制造展览会（TCT亚洲展）延期，延期后的具体...
+ ## [关于云创大数据2月培训&合作伙伴大会暂时取消的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=goEjJPrpoTE5RSqDgkCt-u5bVxRYIBw3gw0GciSLoHZ2W74YqmYogXGRbqWO3uIt-PTd2xWh1hCu*QsO38N*FFNG-ARMvXG2ecErja-Ix4DZY6Tf2rQ4yJK84dVWm58h&new=1)
  > 基于目前新型冠状病毒感染的肺炎疫情防控形势，为保障参会来宾的健康安全，云创大数据将暂时取消原计划于2月份在南京举办的三场大会：1、2020全国高校大数据人工智能师资免费培训班1期（2月11-14日）2、2020全国...
- ## [微软推出Xbox 漏洞赏金计划 奖励高达20000美元](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=VNcDohgFSUZaSL34h3SYbnYZ2Mg2p2p6ol9Mzvg39uERbzI3ktdrvOKi1lDYnupNmcXtdujKiv*73mcWwd2HArWWbEO6X9ifgZtqXZiC5WGrKiqZkCVisTl-rNR6Kh4h&new=1)
+ ## [黑莓手机将停售；三大运营商：疫情防控期间用户欠费不停机；Chrome 测试移除搜索结果页网址|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=4XlUc*54dskPmzhP2duhdM5qJA7Ki9IenN4zRG8PO0AFFh*yJbn69m5yOHyF9lE82KzS255zDRXo8WFOamlVaAZWiGNBhIZOwd3D-5QQfGSP48j*Zt4snaRS7qZOn*I9&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [听说有运营商换了“诸侯”，何许人也?](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=IRMu1kmTjJMro3-JztPpI5H10yR5uM9UBiNpUhTc5GJI8QsjGtDyz6sN5iCqEyVRcEeHJoN0norkAumuEiPIOy8IoVerMoQtipwnwew3eOR0yadJxpoXWGROwfqrbyen&new=1)
+ > 去年12月，传出浙江电信总经理韩臻聪跨行跳槽华泰证券的消息。这一消息随着华泰证券的一则公告，落下实锤。浙江是互联网大省、通信大省，是沿海经济发达地区，对这样一个省公司领导的配备，集团公司总部往往都比...
+ ## [微软推出Xbox 漏洞赏金计划 奖励高达20000美元](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=VNcDohgFSUZaSL34h3SYbnYZ2Mg2p2p6ol9Mzvg39uEyfFX3tPc3d4BoRbUeyb69WLFHFaTMjWJvFZBAByVEGn1X3CrdM-NSwBbfizfhAZT590Qe6Wquiu-4fgXe5OJO&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全2月4日讯，据外媒报道，Microsoft安全响应中心（MSRC）宣布为Xbox游戏平台推出漏洞赏金计划，该计划针对的是Xbox Live网络服务中的远程执行代码漏洞，悬
- ## [中国移动12月用户增长数据不容乐观：尤其是有线宽带用户数净减不少](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=eNAawQmkVZTHM7p0LSkkPd-NRWYz6ZD86*ZG526NAMiELcCPVeQsswgkHf*hm-cwsXj-QYCvoE-AxvPydDWwdXmQhMp3iCQjunuQ0GWZrLW7UO1h5Cd5ts54rbSsVXy0&new=1)
+ ## [新媒：韩国5G测算出最新数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=xQ5fKMN*9hYq07o9p1pIz-5CWiUsFGRNWvD1XGovVa9xPYvH0-1MNlMQYflohdFe0BFzdJYdfC6lwuIlrQjmkp52cVl-h0QosUtQVIY9q5Q=&new=1)
+ > 参考消息网2月4日报道 新加坡媒体报道称，韩国电信监管机构最新数据显示，在推出新技术不到一年的时间里，韩国的5G网络现在承载着该国所有无线网络流量的近四分之一。据新加坡《联合早报》网站2月2日报道，根据...
+ ## [全中国都在抗击疫情，这些辣鸡却在散播病毒](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=PXf3hC9A1q21eEfPTRSdO2EqKVjdxCqX4mshx7GSyTKogwCJG60pIVMbE3ChthKkYxjnKzPCHSCTSX6IlpEN4Sq*iSKogz-FGDE14EXs4Rkvvkts1lUMBqkPQl2Rm08W&new=1)
+ > 今年过年，待在家里，就是对社会最好的贡献。在家能干啥？不少人肯定和机哥一样，玩手机、玩电脑度日。没想到啊，老老实实在家用电脑，外面病毒是防住了，但互联网上的病毒，防不胜防。冠状病毒来势汹汹，黑客们...
+ ## [中国移动12月用户增长数据不容乐观：尤其是有线宽带用户数净减不少](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=eNAawQmkVZTHM7p0LSkkPd-NRWYz6ZD86*ZG526NAMhbiTDzxqUazPkziaqHOWSKtE7nBPYOlkHOPcsR9V93yq6Frfvw9eKh7Lr3E0S9jTOnUxzmfI036*H4p-EXSWlc&new=1)
  > 运营商财经网 吴碧慧/文 近日，中国移动公布了2019年12月份运营数据。当月，中国移动移动用户净增373.2万户，累计达到9.50277亿户；4G用户净增498.5万户，累计达到7.58014亿户；有线宽带用户净减60.9万户，累计...
- ## [中国手机企业库存高达6000万，市场正常后或大规模降价促销](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=h7FsBVbFXtEajMNgpvCU2cBJ6NnSC9CGOx2jrr3Xf9O47khnlmnoQjhhOMdC7WRK-ItJADHwSECvBuw0GczBnVNroW-Cp*YiJSwlZx*57VTx9HVLBZOUbd*IKGoaNWJZ&new=1)
+ ## [中国手机企业库存高达6000万，市场正常后或大规模降价促销](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=h7FsBVbFXtEajMNgpvCU2cBJ6NnSC9CGOx2jrr3Xf9Oz7s15DWVAUUDwb1OdkdojVL71Y0LF3qL3oR-GplP*THQuer5s6RaumsiIIR0*98tp*oqss-sSW9S3EXvrWSrE&new=1)
  > 媒体报道指由于新型肺炎疫情的影响，春节这个购物旺季的手机销量下滑最高接近六成，导致中国手机企业的库存水平可能高达6000万部，让中国手机企业承受着巨大的压力，或许市场正常后中国手机企业会被迫大幅降价销...
- ## [2020疫情下的中国科技企业：逆行、战斗，以及同样需要被关怀](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=dl-uYNSz1jwmM0K6LUzU-twBtDsAo7uDU-EYWlpyz*uNdAvs7EMktqhLWeq4Book2RCfF5SEIa-IlZem839PabIkiyH*HBKfZ9*-AxT*RzWegCX8DqeXkWI9NuKqltbs&new=1)
+ ## [2020疫情下的中国科技企业：逆行、战斗，以及同样需要被关怀](http://mp.weixin.qq.com/s?src=11&timestamp=1580805004&ver=2137&signature=dl-uYNSz1jwmM0K6LUzU-twBtDsAo7uDU-EYWlpyz*svEAeZtvt4LdGIRb5oXdoPGrNWcsSEV1r-LOSdHPUE6*Dvrr1Bc6ZpSnSkxgjpzAP1dqkgg8hwM-Sa1UiyqBOS&new=1)
  > 每一个企业的捐款都出于自愿，无需比较与苛责。每一个企业的善意，都值得被记录。作者 | 宿艺编辑 | 子淇2020年的春节期间，很多人在朋友圈中留言盼望“重启”。这应该是过去十年“最难”的一个春天。 一场突如...
 # IT 技术 
+ ## [五招帮你优化混合云管理](http://cloud.51cto.com/art/202002/609888.htm)
+ > 五招帮你优化混合云管理
  ## [《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发](http://news.51cto.com/art/202002/609885.htm)
  > 《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发
+ ## [10万人的大场馆如何“画座位”？](http://news.51cto.com/art/202002/609861.htm)
+ > 10万人的大场馆如何“画座位”？
  ## [适合物联网开发者的五大VS Code扩展](http://iot.51cto.com/art/202002/609863.htm)
  > 适合物联网开发者的五大VS Code扩展
  ## [警惕利用“新冠病毒”名义的网络钓鱼攻击](http://netsecurity.51cto.com/art/202002/609865.htm)
@@ -64,32 +82,30 @@ categories: IT NEWS
  > Denodo虚拟化平台入门指南
  ## [火神山医院正式交付！三天开5G，九天建好信息系统，IT企业做了什么？](http://news.51cto.com/art/202002/609827.htm)
  > 火神山医院正式交付！三天开5G，九天建好信息系统，IT企业做了什么？
- ## [新来的实习生不小心删库了，吓得我虎躯一震！](http://database.51cto.com/art/202002/609808.htm)
- > 新来的实习生不小心删库了，吓得我虎躯一震！
- ## [年后跳槽到阿里，我有话想说......](http://zhuanlan.51cto.com/art/202002/609809.htm)
- > 年后跳槽到阿里，我有话想说......
- ## [5G网络对身体有危害吗？科学事实解答疑惑](http://network.51cto.com/art/202002/609887.htm)
- > 5G对人体有害的言论甚嚣尘上。甚至还有某互联网企业CEO公开发表过5G有害论，那么5G到底有没有害呢？今天我
- ## [开工第一天，钉钉、企业微信集体“崩溃”...](http://news.51cto.com/art/202002/609886.htm)
- > 今日是春节假期结束后的第一个工作日，不少企业规定 2 月 3日到 7 日可以在家远程办公。
- ## [2020年值得关注的四大安全趋势](http://netsecurity.51cto.com/art/202002/609884.htm)
- > 2020年全球企业安全领域的主要趋势是什么?人们在2020年需要关注四个安全问题。
- ## [大数据预测：2020年将带来什么](http://bigdata.51cto.com/art/202002/609883.htm)
- > 每到岁末年初，行业专家就会对未来一年的技术发展进行预测，而如今，一切始于大数据问题最关键的方面：数据
- ## [5G将何时扭转制造行业？](http://network.51cto.com/art/202002/609881.htm)
- > 5G不仅提供比Wi-Fi和4G LTE更快的连接和更多的带宽，而且还提供更好的连接性，较低的延迟，并支持一个位置
- ## [网络攻击者将业务中断作为主要攻击目标](http://netsecurity.51cto.com/art/202002/609880.htm)
- > 在2019年期间，CrowdStrike调查的事件中有36％最常见的是勒索软件，破坏性恶意软件或拒绝服务攻击，这表明
- ## [疫情影响下，中国互联网行业会走向何方？](http://news.51cto.com/art/202002/609879.htm)
- > 一个月前，大家都在积极准备过年回家大团圆，气氛一片祥和，红包大战玩得不亦乐乎。但短短一个月后，新冠状
- ## [为什么多云安全是企业的下一个大挑战](http://cloud.51cto.com/art/202002/609878.htm)
- > 如今几乎每个企业都部署了三到五个不同的云计算服务。随着人们对安全性和法规遵从性的日益重视，管理这些不
- ## [2020年11大优秀VueJS开发工具](http://developer.51cto.com/art/202002/609870.htm)
- > Vue JS 最近变得越来越流行，主要是因为它在学习和开发应用程序方面都提供了很多便利。无论你是经验丰富的
- ## [2 月 DB-Engines 数据库排行：SQLite 进入前 10](http://news.51cto.com/art/202002/609874.htm)
- > DB-Engines 数据库流行度排行榜已发布 2 月更新，前 20 的排名情如下。
- ## [简明易理解的@SpringBootApplication注解源码解析（包含面试提问）](https://blog.csdn.net/Ccww_/article/details/103195526)
+ ## [库克官宣iPhone12，5G功能基本确定](http://mobile.51cto.com/news-609908.htm)
+ > 近日，在苹果2020年第一季度财报电话会议中，苹果CEO库克表示对即将推出的新产品充满期待。另外，库克在接
+ ## [我建议你别基于k8s用写应用 No.178](http://server.51cto.com/Review-609910.htm)
+ > k8s 集群会对你的应用进行滚动升级，你不需要害怕升级的时候因为同时重启的问题导致服务不可用，它都帮你
+ ## [QQ和微信的输入栏为什么不一样？来看这篇深度分析！](http://mobile.51cto.com/app-show-609907.htm)
+ > 很多问题，并没有绝对的标准，重要的是，我们是否有主动去思考其背后的逻辑。iOS 13.3 版本的 iMessage 功
+ ## [史上超大“云办公”实验开始，你参加了吗？](http://news.51cto.com/art/202002/609911.htm)
+ > 云办公第一天，一切顺利？在掉线的慌乱中开始，还是猝不及防镜头前见同事略感尴尬？
+ ## [2020年人工智能在云平台的应用将呈现爆炸式增长](http://ai.51cto.com/art/202002/609905.htm)
+ > 埃森哲公司分析师认为，云平台是企业将在2020年获得更多创新的场所。如果埃森哲公司分析师预测得到证实，则
+ ## [为什么现在是让私有云取代本地基础设施的时候](http://cloud.51cto.com/art/202002/609903.htm)
+ > 通过克服内部部署的挑战，企业可以构建私有云解决方案，将性能、成本和安全性融合在一起以满足他们的精确需
+ ## [大白话带你认识JVM](http://developer.51cto.com/art/202002/609906.htm)
+ > JVM 是 Java Virtual Machine 的缩写，它是一个虚构出来的计算机，一种规范。通过在实际的计算机上仿真模拟
+ ## [保护我方医务人员！机器人能送药治病消毒，保护医生护士不被传染](http://news.51cto.com/art/202002/609909.htm)
+ > 纵使病毒人传人，但救助病人、为隔离者提供服务、医院消毒这些阻断传播的工作，还是要人类医生护士冒着感染
+ ## [git高级用法小抄](http://developer.51cto.com/art/202002/609900.htm)
+ > 如果你觉得 git 很迷惑人，那么这份小抄正是为你准备的！请注意我有意跳过了 git commit、git pull/push 之
+ ## [为什么在做微服务设计的时候需要DDD？](http://developer.51cto.com/art/202002/609901.htm)
+ > 随着对充血模型的领域认知的加深，我越加感觉到DDD的重要性。
+ ## [\[网络安全自学篇\] 四十五.病毒详解及批处理病毒制作（自启动、修改密码、定时关机、蓝屏、进程关闭）](https://blog.csdn.net/Eastmount/article/details/104146757)
  > 
+ ## [阿里架构师花近十年时间整理出来的Java核心知识pdf（Java岗）](https://blog.csdn.net/kxkxyzyz/article/details/104158088)
+ > 阿里架构师花近十年时间整理出来的Java核心知识pdf（Java岗）
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
@@ -98,24 +114,26 @@ categories: IT NEWS
  > 
  ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
  > 
+ ## [从Python取数到BI分析，它只用10分钟就做出了疫情可视化](https://blog.csdn.net/yuanziok/article/details/104167163)
+ > 从Python取数到BI分析，它只用10分钟就做出了疫情可视化
  ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
  > 
- ## [Adobe Audition去除噪声（以去除Audiojungle水印为例）](https://blog.csdn.net/deng_xj/article/details/103193336)
- > 
- ## [ipvsadm 命令](https://blog.csdn.net/yulei_qq/article/details/104154781)
- > ipvsadm 命令
  ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
  > 究竟你适不适合买Mac？
- ## [河北湖南河南湖北福建浙江陕西看墓地风水的大师2020年最新排行](https://blog.csdn.net/qq_20046505/article/details/104159003)
- > 河北湖南河南湖北福建浙江陕西看墓地风水的大师2020年最新排行
- ## [LINUX命令全称英语](https://blog.csdn.net/Abner_LYS/article/details/104159989)
- > LINUX命令全称英语
- ## [PID算法的一些理解](https://blog.csdn.net/weixin_43604927/article/details/104160619)
- > PID算法的一些理解
- ## [JavaWeb  解决JSP中文乱码最新](https://blog.csdn.net/xunxue1523/article/details/104160555)
- > JavaWeb  解决JSP中文乱码最新
- ## [Android系统中APP安装到手机后的文件分析](https://blog.csdn.net/csdn_zhangchunfeng/article/details/104157733)
- > Android系统中APP安装到手机后的文件分析
+ ## [MySQL学习笔记（16）--关系型数据库设计范式](https://blog.csdn.net/qq_39323164/article/details/104162675)
+ > MySQL学习笔记（16）--关系型数据库设计范式
+ ## [Activiti流程定义缓存源码分析1](https://blog.csdn.net/qq_30739519/article/details/104160353)
+ > Activiti流程定义缓存源码分析1
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [STM32F103C8T6串口通讯代码配置](https://blog.csdn.net/ZuoYoPaPa/article/details/104160006)
+ > STM32F103C8T6串口通讯代码配置
+ ## [Android之Fragment应用——一个简易版的新闻应用](https://blog.csdn.net/qq_39438055/article/details/104152342)
+ > Android之Fragment应用——一个简易版的新闻应用
+ ## [疫情期间不忽略障碍群体刚需、仍坚持做无障碍的倡议书](https://blog.csdn.net/csdnnews/article/details/104169465)
+ > 疫情期间我们与你同在：关爱障碍群体刚需，坚持做无障碍的倡议书新型冠状病毒感染的肺炎疫情发生以来，障碍群体（视障者、听障者、肢体残障者、读写障碍者、老年人等）也一样积极响应号召，战疫情，不出门，戴口罩，通过互联网了解疫情实况、学习如何防控。疫情期间，障碍群体与全国人民一样，在隔离期有更强烈的信息...
+ ## [远程办公一晃一天，环境搭建履步维艰](https://blog.csdn.net/csdnnews/article/details/104168992)
+ > 作者 | 三级狗责编 | 胡巍巍出品 | CSDN博客相信刚刚过去的一天对大多数职场人来说，都是紧张而又刺激的一天。有人恨不得这辈子永远都在家办公，有人恨不得现在就去公司上班。大多数程序员来说，过去的一天时间占比最大的工作，就是远程环境搭建。我也一样，有幸经历了有生以来第一次...
  ## [捐赠3亿元驰援疫情后，腾讯再出2亿元发起“战疫开发者公益联盟”](https://blog.csdn.net/csdnnews/article/details/104163213)
  > 2月3日，腾讯宣布设立2亿元资金池，发起“战疫开发者公益联盟”，旨在联合更多服务商和开发者，为抗击疫情服务。这是继腾讯基金会捐赠3亿人民币，设立第一期新型肺炎疫情防控基金后，腾讯助力各地抗击疫情的又一新举措。腾讯作为发起方，将在微信开放社区上线服务专区，并提供资金和资源支持服务商和开发者为政府...
  ## [捐款捐物捐技术，14 家科技巨头抗疫在行动！](https://blog.csdn.net/csdnnews/article/details/104164229)
@@ -132,31 +150,68 @@ categories: IT NEWS
  > 作者 |beyondma出品 | CSDN博客根据最新的新型冠状病毒疫情通报，截至2月2日22时，国家卫生健康委公布确诊病例14489例，累计死亡病例304例，另有疑似病例19544例...
  ## [科技驰援背后：技术没有假期！](https://blog.csdn.net/csdnnews/article/details/104164523)
  > 作者 | 杨雪梅本文经授权转载自新浪科技（ID：techsina）受新型冠状病毒肺炎疫情影响，近日，十多个省市陆续传出延期复工的消息。其中各大互联网企业也早就公布了复工安排。总体来看，“...
+# 人工智能 
+ ## [Flutter(十三)——事件处理：手势识别与事件通知](https://blog.csdn.net/liyuanjinglyj/article/details/104132153)
+ > Flutter(十三)——事件处理：手势识别与事件通知
+ ## [iOS自定义过渡动画](https://blog.csdn.net/WxqHUT/article/details/104147918)
+ > iOS自定义过渡动画
+ ## [OpenGL ES for Android 绘制旋转的地球](https://blog.csdn.net/mengks1987/article/details/104157802)
+ > 
+ ## [\[汇总\]Haxe编程概念](https://blog.csdn.net/moxiaomomo/article/details/104160889)
+ > \[汇总\]Haxe编程概念
+ ## [Android——fragment简单使用](https://blog.csdn.net/qq_43567345/article/details/104146289)
+ > Android——fragment简单使用
+ ## [自定义Toast的使用及效果](https://blog.csdn.net/zk2000416/article/details/104161319)
+ > 自定义Toast的使用及效果
+ ## [B. Array Sharpening](https://blog.csdn.net/weixin_43982216/article/details/104156011)
+ > B. Array Sharpening
+ ## [Mac系统编译ffmpeg](https://blog.csdn.net/qq_29342787/article/details/104156468)
+ > Mac系统编译ffmpeg
+ ## [Codeforces Round 616 (Div. 2)B. Array Sharpening](https://blog.csdn.net/Fiveneves/article/details/104157256)
+ > Codeforces Round 616 (Div. 2)B. Array Sharpening
+ ## [Android系统中APP安装到手机后的文件分析](https://blog.csdn.net/csdn_zhangchunfeng/article/details/104157733)
+ > Android系统中APP安装到手机后的文件分析
+ ## [安卓okhttpUtils下载文件(安装包)并打开(安装)实例](https://blog.csdn.net/qq_38280150/article/details/104154927)
+ > 安卓okhttpUtils下载文件(安装包)并打开(安装)实例
+ ## [Android Handler的源码分析](https://blog.csdn.net/xk7298/article/details/104141352)
+ > Android Handler的源码分析
+ ## [Android学习笔记（二）:相对布局管理器(RelativeLayout)](https://blog.csdn.net/weixin_44480874/article/details/104156276)
+ > Android学习笔记（二）:相对布局管理器(RelativeLayout)
+ ## [2020学习计划](https://blog.csdn.net/m0_37988298/article/details/104156246)
+ > 2020学习计划
+ ## [Flutter学习笔记（四）——静态资源、打包成apk](https://blog.csdn.net/qq_42182367/article/details/104156552)
+ > Flutter学习笔记（四）——静态资源、打包成apk
 # PM 
- ## [优秀项目经理的六脉神剑](http://www.woshipm.com/zhichang/3354850.html)
- > 对周期长、规模大、涉及人员多的项目来说，优秀的项目经理能对项目成功起到非常大的作用与贡献，那么优秀的项目经理一般都是怎么管控、协调项目进行的呢？本文将为你带...
- ## [数据分析（4）：分布分析法&用户留存分析法](http://www.woshipm.com/data-analysis/3356715.html)
- > 前面几篇文章我们先后聊了对比分析法、多维度拆解法、漏斗观察法。这一篇我们着重聊聊分布分析法和用户留存分析法。一、分布分析法1. 常见的群体划分有哪些？（1）...
- ## [智能时代下的客服系统（一）：工单系统之框架篇](http://www.woshipm.com/pd/3355435.html)
- > 本文将针对如何用一套系统，满足内部各方痛点的同时，提升客户满意度的角度来跟大家探讨一下，如何进行工单系统的框架搭建。在互联网增长红利日渐减少的大背景下，越...
- ## [活动复盘：做好一场直播活动，需要注意这3点](http://www.woshipm.com/operate/3355089.html)
- > 如何在1天内，做一个曝光度超200W+的直播？本文作者对自己负责的一场直播活动进行了复盘，分享了需要注意的3个要点，供大家一同参考和学习。现在的直播潮，想要做一个...
- ## [一个老产品的心路历程](http://www.woshipm.com/pmd/3355426.html)
- > 一个产品经理的经历可以分为三个阶段：无知者无畏、初出茅庐、渐行渐远。近日，心中一直颇不平静，像如今这样的日子，17年前也曾经历，只不过那时候我还是一个高一的...
- ## [一篇文章带你了解短信推送机制](http://www.woshipm.com/pd/3353719.html)
- > 本文主要是帮助大家从应用角度了解下短信推送流程、介绍短信行业的一些常规知识，在为企业自身搭建短信平台时，提供一些经验。一、短信推送定义与常识1.1 短信推送...
- ## [给新手产品经理的4条建议](http://www.woshipm.com/zhichang/3348430.html)
- > 产品经理是一个对于综合能力要求比较高的岗位，作者入行两年，处于产品经理职业生涯的早期阶段，在此整理分享了4条建议，希望能对新手产品经理有一定的帮助。一、积极...
- ## [人类认知对设计规律有这些影响](http://www.woshipm.com/pd/3197962.html)
- > 数字产品之间的交互是我们生活中不可或缺的一部分，产品能够理解人类行为非常重要。理解人类的认知并将简单的设计规律应用于设计过程中，会对用户体验产生重大而积极的...
- ## [十大平台春节抢红包策略分析研究](http://www.woshipm.com/operate/3351185.html)
- > 本文是一次深度拆解、分析研究文，看看红包是怎么激发全民热情，刺激用户增长、留存与营收，以及DAU指标等。每到春节，红包策略都是最常见的增长策略，今年也不例外。...
- ## [重启2020，我们还能“多快好省”地点外卖吗？](http://www.woshipm.com/it/3356180.html)
- > 春节“家里蹲”的肥宅计划，也因外卖的停顿而打了一个打趔趄。本狐所在的小区，已经开始将外卖小哥拦截在大门外。经历了一次步行五分钟的取餐行动之后，只会“烧开水泡面...
- ## [11条建议，帮产品经理学会向上管理](http://www.woshipm.com/zhichang/3356923.html)
- > 很多人对向上管理总有一些误区，而笔者就对这些错误观点进行了纠正，并强调了向上管理在产品经理职场发展，工作能力提升等方面的帮助。作为产品经理，关于做向上管理...
- ## [跨境支付（二）：行业综述](http://www.woshipm.com/pd/3354716.html)
- > 本文给大家简单的介绍了关于跨境支付的一些行业的相关信息，一起来看看~一、相关定义1.1 跨境支付指两个或两个以上国家或地区之间因国际贸易、国际投资及其他方面所...
+ ## [几点思考：百度网盘后续发展的3个方向](http://www.woshipm.com/operate/3359487.html)
+ > 从多家网盘厮杀到一枝独秀，百度网盘的发展任重道远。本文作者结合产品价值链，对百度网盘的后续发展进行了思考分析，总结了3个迭代方向，一起来看看。百度网盘在18年...
+ ## [塞满钱包的会员卡仅仅是一张会员卡吗？](http://www.woshipm.com/it/3357976.html)
+ > 会员体系设计不应该只围绕钱和服务，还要围绕一个用户在生态中的种种价值。这样的闭环，才能做到服务好用户，并且能够降低运营成本给到用户真正他想要的，而你自然也会...
+ ## [公开课 | 疫情VS春招，产品小白如何轻松拿offer？](http://www.woshipm.com/online/3363866.html)
+ > 当突如其来的疫情碰上如约而至的年后求职黄金时段，很多想入行产品经理的小伙伴开始担心：企业整体延期复工，春招会不会取消？想趁开年换工作跳槽/转行会不会更难？...
+ ## [OA系统设计（1）：流程](http://www.woshipm.com/pd/3353975.html)
+ > 笔者有OA系统的设计经验，本系列将分篇章总结OA中最核心的功能，希望能尽可能全面地记录笔者的经验，和感兴趣的读者交流分享。OA系统对于提升企业和政府单位的办公效...
+ ## [系统产品规划，需要考虑这些因素](http://www.woshipm.com/pd/3358728.html)
+ > 本文作者为大家梳理了系统产品规划时需要考虑的一些因素：人货场的关系、成本中心和利润中心，以及企业的架构建模。2020年已经过去1/12了，这段时间每天都在关注着疫...
+ ## [从李佳琦直播带货，解析背后的供应链价值](http://www.woshipm.com/it/3353335.html)
+ > 直播带货并非一种独立存在的带货渠道，在层层解析后，我们能发现直播带货背后其实是一套完整的供应链模式。而放眼其他行业，我们会发现供应链在行业中有着不可比拟的作...
+ ## [Fogg行为设计模型在产品设计中的应用](http://www.woshipm.com/pd/3363418.html)
+ > 从Fogg行为设计模型中，我们能拆解出动机、能力、触发要素等关键要点，并在该行为设计模型影响下得到一些产品设计的思考与启发。“设计是人为的，为人的行为”，设计的...
+ ## [VR将如何发展？是玩具、镜子还是艺术？](http://www.woshipm.com/it/3354697.html)
+ > 相比于现阶段，VR仍有极为广阔、长远的发展空间，而要想跨越现有阶段，实现技术突破与创新，VR还有一段路要走。在上一篇文章里，我们回顾了人类社会几种主要媒介的...
+ ## [设计师如何做体验走查？](http://www.woshipm.com/pd/3361442.html)
+ > 对设计师来说，检验设计成果最行之有效的办法就是体验走查。那么具体如何操作呢？如何实现体验走查呢？本文将为你揭晓答案。一、体验走查是每个设计师的日常工作之一...
+ ## [内容平台如何更好服务作者？](http://www.woshipm.com/operate/3358655.html)
+ > 如果文章是产品，平台则是运营商，他们的目的是如何更好地为作者带来收益。本文从作者、内容分发两个角度出发，对微信公众平台、头条和知识星球三个文章平台进行了分析...
+ ## [互联网时代，我们注定娱乐至死？](http://www.woshipm.com/it/3346885.html)
+ > 媒介即信息，媒介即力量，媒介能改变我们的认知方式与价值观。概述媒介即信息。深入一种文化的最有效途径是了解这种文化中用于会话的工具。把握了传播媒介，就会把握...
+ ## [丁香医生VS搜狗：疫情动态哪家强？](http://www.woshipm.com/evaluating/3358836.html)
+ > 随着新型冠状病毒的愈演愈烈，1月21日，朋友圈被丁香医生的全国疫情动态刷屏了，1月29日，搜狗的同程患者查询上了百度热搜。同样是作为一款热点产品，两者功能相近，又...
+ ## [移动阅读时代，文娱行业个性化推荐难点解析](http://www.chanpin100.com/article/110660)
+ > 如何
+ ## [从SARS到新型冠状病毒，社交网络在疫情中扮演了什么角色？](http://www.chanpin100.com/article/110659)
+ > 突如其来的肺炎疫情为鼠年春节加上了一层不同以往的滤镜，全国各地的假日安排被紧急暂停。我们终于实现了坐在家里为祖国&quot;做贡献&quot;，通过各种平台渠道了解抗疫时期的大大小小每一件事。
+ ## [0-3岁的产品经理必懂的数据分析方法（2）-多维度折解法](http://www.chanpin100.com/article/110657)
+ > 多维度拆解法是数据分析里最重要的一种分析方法~
  ## [疫情下生鲜电商的答卷](http://www.chanpin100.com/article/110655)
  > 面对受感染的危险以及高价菜的不满，生鲜电商是如何为用户们谱写出一份满意的答案的。
  ## [定义一场细致的需求评审](http://www.chanpin100.com/article/110654)
@@ -191,11 +246,5 @@ categories: IT NEWS
  > 你的面试准备好了吗？没关系，我这里统统为你准备好了
  ## [产品经理常见面试题（一）——基本知识篇](http://www.chanpin100.com/article/110634)
  > 你的面试有着落了吗？是面试时表现的不够好？还是面试官的问题没有回答上来？
- ## [“量变”，并不总是能引起“质变”](http://www.chanpin100.com/article/110632)
- > 这次也想和大家探讨一下我们成长的一个核心原理，也就是量变引起质变。
- ## [短说社区论坛系统内容形式设计说明；你是做短内容还是长内容社区？](http://www.chanpin100.com/article/110631)
- > 阅读提醒：文本全长约3000字，阅读需5~10分钟。主讲内容：短说社区论坛系统内容形式设计说明；你是做短内容还是长内容社区？到了短说社区论坛系统产品这一代，我们前期由于技术的限制，采用长短一致的做法。后期会逐步过渡到长短发布分离。设计模式上，我们摈弃了长内容短内容分离的模式。采用了统一的主体归类模式
- ## [4个技巧带你闯过产品经理第一关：需求评审](http://www.chanpin100.com/article/110630)
- > 如果你还害怕需求评审，一定要看一看！闯过产品经理第一关。
 
     
