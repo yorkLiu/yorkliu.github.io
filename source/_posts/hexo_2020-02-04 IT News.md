@@ -1,7 +1,7 @@
 ---
 title: 2020-02-04 IT News
 copyright: true
-date: 2020-02-04 10:02:15
+date: 2020-02-04 12:01:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,19 +35,29 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [中国手机企业库存高达6000万，市场正常后或大规模降价促销](http://mp.weixin.qq.com/s?src=11&timestamp=1580781605&ver=2137&signature=h7FsBVbFXtEajMNgpvCU2cBJ6NnSC9CGOx2jrr3Xf9O47khnlmnoQjhhOMdC7WRKo98A1ZCxLfWtQ3UAxN0XMnHeiw3nvYAtnFVSA9pphhDSRPIhn7C-1eVB9G4Gz*hz&new=1)
- > 媒体报道指由于新型肺炎疫情的影响，春节这个购物旺季的手机销量下滑最高接近六成，导致中国手机企业的库存水平可能高达6000万部，让中国手机企业承受着巨大的压力，或许市场正常后中国手机企业会被迫大幅降价销...
- ## [中国移动12月用户增长数据不容乐观：尤其是有线宽带用户数净减不少](http://mp.weixin.qq.com/s?src=11&timestamp=1580781605&ver=2137&signature=eNAawQmkVZTHM7p0LSkkPd-NRWYz6ZD86*ZG526NAMiELcCPVeQsswgkHf*hm-cwHu1XljOpH7O9wUKXVFP5Wdo1QWKPgbInh6yvqteDUmDINuHqc4MTKfV9F1hUNE8w&new=1)
- > 运营商财经网 吴碧慧/文 近日，中国移动公布了2019年12月份运营数据。当月，中国移动移动用户净增373.2万户，累计达到9.50277亿户；4G用户净增498.5万户，累计达到7.58014亿户；有线宽带用户净减60.9万户，累计...
- ## [全中国都在抗击疫情，这些辣鸡却在散播病毒](http://mp.weixin.qq.com/s?src=11&timestamp=1580781605&ver=2137&signature=PXf3hC9A1q21eEfPTRSdO2EqKVjdxCqX4mshx7GSyTIsZ3V*K9OdKEQZzXLjQ8-s-Iy4JLzlfJ5WOfgk0qJwbqbbD-OX9XOBh39g8XdzNVQKBC42PoYbDmdBkT4q0kOu&new=1)
+ ## [全中国都在抗击疫情，这些辣鸡却在散播病毒](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=PXf3hC9A1q21eEfPTRSdO2EqKVjdxCqX4mshx7GSyTIsZ3V*K9OdKEQZzXLjQ8-s3b7TFz6rkx0vL0KY2sL1ecB6chij-KFCYt1RiNfMEs3*aPpJaYzKP-hE4TCcCz6D&new=1)
  > 今年过年，待在家里，就是对社会最好的贡献。在家能干啥？不少人肯定和机哥一样，玩手机、玩电脑度日。没想到啊，老老实实在家用电脑，外面病毒是防住了，但互联网上的病毒，防不胜防。冠状病毒来势汹汹，黑客们...
- ## [2020疫情下的中国科技企业：逆行、战斗，以及同样需要被关怀](http://mp.weixin.qq.com/s?src=11&timestamp=1580781605&ver=2137&signature=dl-uYNSz1jwmM0K6LUzU-twBtDsAo7uDU-EYWlpyz*uNdAvs7EMktqhLWeq4BooktM0cjEccSx6hL-z6Rg-CRveOLdwxTWFyDQvPiCgSOljMGo1utt7dT7qd8EGpRPuy&new=1)
- > 每一个企业的捐款都出于自愿，无需比较与苛责。每一个企业的善意，都值得被记录。作者 | 宿艺编辑 | 子淇2020年的春节期间，很多人在朋友圈中留言盼望“重启”。这应该是过去十年“最难”的一个春天。 一场突如...
- ## [新媒：韩国5G测算出最新数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1580781605&ver=2137&signature=xQ5fKMN*9hYq07o9p1pIz-5CWiUsFGRNWvD1XGovVa954CydwwUPgPd56lE9*1YlyHCNmIZj1Z4jntkPK71DmS3Fj9T6BY5qNc7pysvRo5s=&new=1)
+ ## [听说有运营商换了“诸侯”，何许人也?](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=IRMu1kmTjJMro3-JztPpI5H10yR5uM9UBiNpUhTc5GJguj1RezIuFOjoQAvQbUyKOITiag4YDBRt*BC*PjXmsyGWMx8Fk-D9xXSgFCuCIWmPuMj7OqNZj8AIqXNnag8V&new=1)
+ > 去年12月，传出浙江电信总经理韩臻聪跨行跳槽华泰证券的消息。这一消息随着华泰证券的一则公告，落下实锤。浙江是互联网大省、通信大省，是沿海经济发达地区，对这样一个省公司领导的配备，集团公司总部往往都比...
+ ## [新媒：韩国5G测算出最新数据……](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=xQ5fKMN*9hYq07o9p1pIz-5CWiUsFGRNWvD1XGovVa8HV3ImHT81lkgsecw9Ymu13SJmfrx*Tm7D4VsaZgx21L*kiiC4kE-QkZHnAUl9Bvk=&new=1)
  > 参考消息网2月4日报道 新加坡媒体报道称，韩国电信监管机构最新数据显示，在推出新技术不到一年的时间里，韩国的5G网络现在承载着该国所有无线网络流量的近四分之一。据新加坡《联合早报》网站2月2日报道，根据...
+ ## [关于云创大数据2月培训&合作伙伴大会暂时取消的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=goEjJPrpoTE5RSqDgkCt-u5bVxRYIBw3gw0GciSLoHaqqq4mAd6oETabZTtZ6-0*fQVtZptAUTC1OoE0nnZnm4HMqguwoZ8Rf0VWWjG8C21*v7*5NijeOwB2Q*gm2eUV&new=1)
+ > 基于目前新型冠状病毒感染的肺炎疫情防控形势，为保障参会来宾的健康安全，云创大数据将暂时取消原计划于2月份在南京举办的三场大会：1、2020全国高校大数据人工智能师资免费培训班1期（2月11-14日）2、2020全国...
+ ## [微软推出Xbox 漏洞赏金计划 奖励高达20000美元](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=VNcDohgFSUZaSL34h3SYbnYZ2Mg2p2p6ol9Mzvg39uERbzI3ktdrvOKi1lDYnupNmcXtdujKiv*73mcWwd2HArWWbEO6X9ifgZtqXZiC5WGrKiqZkCVisTl-rNR6Kh4h&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全2月4日讯，据外媒报道，Microsoft安全响应中心（MSRC）宣布为Xbox游戏平台推出漏洞赏金计划，该计划针对的是Xbox Live网络服务中的远程执行代码漏洞，悬
+ ## [中国移动12月用户增长数据不容乐观：尤其是有线宽带用户数净减不少](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=eNAawQmkVZTHM7p0LSkkPd-NRWYz6ZD86*ZG526NAMiELcCPVeQsswgkHf*hm-cwsXj-QYCvoE-AxvPydDWwdXmQhMp3iCQjunuQ0GWZrLW7UO1h5Cd5ts54rbSsVXy0&new=1)
+ > 运营商财经网 吴碧慧/文 近日，中国移动公布了2019年12月份运营数据。当月，中国移动移动用户净增373.2万户，累计达到9.50277亿户；4G用户净增498.5万户，累计达到7.58014亿户；有线宽带用户净减60.9万户，累计...
+ ## [中国手机企业库存高达6000万，市场正常后或大规模降价促销](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=h7FsBVbFXtEajMNgpvCU2cBJ6NnSC9CGOx2jrr3Xf9O47khnlmnoQjhhOMdC7WRK-ItJADHwSECvBuw0GczBnVNroW-Cp*YiJSwlZx*57VTx9HVLBZOUbd*IKGoaNWJZ&new=1)
+ > 媒体报道指由于新型肺炎疫情的影响，春节这个购物旺季的手机销量下滑最高接近六成，导致中国手机企业的库存水平可能高达6000万部，让中国手机企业承受着巨大的压力，或许市场正常后中国手机企业会被迫大幅降价销...
+ ## [2020疫情下的中国科技企业：逆行、战斗，以及同样需要被关怀](http://mp.weixin.qq.com/s?src=11&timestamp=1580787057&ver=2137&signature=dl-uYNSz1jwmM0K6LUzU-twBtDsAo7uDU-EYWlpyz*uNdAvs7EMktqhLWeq4Book2RCfF5SEIa-IlZem839PabIkiyH*HBKfZ9*-AxT*RzWegCX8DqeXkWI9NuKqltbs&new=1)
+ > 每一个企业的捐款都出于自愿，无需比较与苛责。每一个企业的善意，都值得被记录。作者 | 宿艺编辑 | 子淇2020年的春节期间，很多人在朋友圈中留言盼望“重启”。这应该是过去十年“最难”的一个春天。 一场突如...
 # IT 技术 
+ ## [《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发](http://news.51cto.com/art/202002/609885.htm)
+ > 《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发
  ## [适合物联网开发者的五大VS Code扩展](http://iot.51cto.com/art/202002/609863.htm)
  > 适合物联网开发者的五大VS Code扩展
+ ## [警惕利用“新冠病毒”名义的网络钓鱼攻击](http://netsecurity.51cto.com/art/202002/609865.htm)
+ > 警惕利用“新冠病毒”名义的网络钓鱼攻击
  ## [口碑扑街？Python告诉你《妈》到底在哪里?](http://news.51cto.com/art/202002/609862.htm)
  > 口碑扑街？Python告诉你《妈》到底在哪里?
  ## [Denodo虚拟化平台入门指南](http://developer.51cto.com/art/202002/609816.htm)
@@ -58,32 +68,32 @@ categories: IT NEWS
  > 新来的实习生不小心删库了，吓得我虎躯一震！
  ## [年后跳槽到阿里，我有话想说......](http://zhuanlan.51cto.com/art/202002/609809.htm)
  > 年后跳槽到阿里，我有话想说......
- ## [新型冠状病毒肺炎可能给中国互联网带来的十大变化](http://news.51cto.com/art/202002/609789.htm)
- > 新型冠状病毒肺炎可能给中国互联网带来的十大变化
- ## [如何使用5种机器学习算法对罕见事件进行分类](http://ai.51cto.com/art/202002/609730.htm)
- > 如何使用5种机器学习算法对罕见事件进行分类
+ ## [5G网络对身体有危害吗？科学事实解答疑惑](http://network.51cto.com/art/202002/609887.htm)
+ > 5G对人体有害的言论甚嚣尘上。甚至还有某互联网企业CEO公开发表过5G有害论，那么5G到底有没有害呢？今天我
+ ## [开工第一天，钉钉、企业微信集体“崩溃”...](http://news.51cto.com/art/202002/609886.htm)
+ > 今日是春节假期结束后的第一个工作日，不少企业规定 2 月 3日到 7 日可以在家远程办公。
+ ## [2020年值得关注的四大安全趋势](http://netsecurity.51cto.com/art/202002/609884.htm)
+ > 2020年全球企业安全领域的主要趋势是什么?人们在2020年需要关注四个安全问题。
+ ## [大数据预测：2020年将带来什么](http://bigdata.51cto.com/art/202002/609883.htm)
+ > 每到岁末年初，行业专家就会对未来一年的技术发展进行预测，而如今，一切始于大数据问题最关键的方面：数据
+ ## [5G将何时扭转制造行业？](http://network.51cto.com/art/202002/609881.htm)
+ > 5G不仅提供比Wi-Fi和4G LTE更快的连接和更多的带宽，而且还提供更好的连接性，较低的延迟，并支持一个位置
+ ## [网络攻击者将业务中断作为主要攻击目标](http://netsecurity.51cto.com/art/202002/609880.htm)
+ > 在2019年期间，CrowdStrike调查的事件中有36％最常见的是勒索软件，破坏性恶意软件或拒绝服务攻击，这表明
+ ## [疫情影响下，中国互联网行业会走向何方？](http://news.51cto.com/art/202002/609879.htm)
+ > 一个月前，大家都在积极准备过年回家大团圆，气氛一片祥和，红包大战玩得不亦乐乎。但短短一个月后，新冠状
+ ## [为什么多云安全是企业的下一个大挑战](http://cloud.51cto.com/art/202002/609878.htm)
+ > 如今几乎每个企业都部署了三到五个不同的云计算服务。随着人们对安全性和法规遵从性的日益重视，管理这些不
  ## [2020年11大优秀VueJS开发工具](http://developer.51cto.com/art/202002/609870.htm)
  > Vue JS 最近变得越来越流行，主要是因为它在学习和开发应用程序方面都提供了很多便利。无论你是经验丰富的
- ## [记某次一位老工程师的网络故障排障经历](http://network.51cto.com/art/202002/609871.htm)
- > 我以前在对某大楼局域网进行维护时，曾经遇到过物理连接不当，而造成楼层交换机无法ping通的故障现象。这种
- ## [转任管理岗位后，还要不要从事编码工作？](http://news.51cto.com/art/202002/609868.htm)
- > 随着工作年限的增加，不少工作出色的小伙伴就会提拔到 teamleader 的位置，带领大家做事，角色发生转变后
- ## [在 Python 中接管键盘中断信号](http://developer.51cto.com/art/202002/609867.htm)
- > 假设有这样一个需求，你需要从 Redis 中持续不断读取数据，并把这些数据写入到 MongoDB 中。
- ## [病毒与故障：漫谈计算机软件的故障应对](http://developer.51cto.com/art/202002/609866.htm)
- > 近期肆虐的新型冠状病毒，已然成为大众视野的焦点。笔者，最近趁过年之际也看了一些相关新闻和书籍，其中，
- ## [警惕利用“新型冠状病毒”名义的网络钓鱼攻击](http://netsecurity.51cto.com/art/202002/609865.htm)
- > 疫情当前，不容“黑客”妄行。笔者整理了几类比较典型的攻击案例，借此希望帮助大家更好地识别虚假、恶意信
- ## [能源物联网：智能应对全球电力短缺问题](http://iot.51cto.com/art/202002/609864.htm)
- > 电力公司一直在寻找能够帮助他们优化流程和远程管理资产的技术，而物联网就是这样一种技术，可以帮助他们实
+ ## [2 月 DB-Engines 数据库排行：SQLite 进入前 10](http://news.51cto.com/art/202002/609874.htm)
+ > DB-Engines 数据库流行度排行榜已发布 2 月更新，前 20 的排名情如下。
  ## [简明易理解的@SpringBootApplication注解源码解析（包含面试提问）](https://blog.csdn.net/Ccww_/article/details/103195526)
  > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
  ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
  > 
- ## [阿里架构师花近十年时间整理出来的Java核心知识pdf（Java岗）](https://blog.csdn.net/kxkxyzyz/article/details/104158088)
- > 阿里架构师花近十年时间整理出来的Java核心知识pdf（Java岗）
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
  ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
@@ -92,76 +102,61 @@ categories: IT NEWS
  > 
  ## [Adobe Audition去除噪声（以去除Audiojungle水印为例）](https://blog.csdn.net/deng_xj/article/details/103193336)
  > 
- ## [arduino（2）：使用ESP8266的 I2C接口，加上PCA9685 芯片控制舵机进行旋转](https://blog.csdn.net/freewebsys/article/details/104139532)
- > arduino（2）：使用ESP8266的 I2C接口，加上PCA9685 芯片控制舵机进行旋转
- ## [VIM 快捷操作](https://blog.csdn.net/iotisan/article/details/104157863)
- > VIM 快捷操作
+ ## [ipvsadm 命令](https://blog.csdn.net/yulei_qq/article/details/104154781)
+ > ipvsadm 命令
  ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
  > 究竟你适不适合买Mac？
- ## [Linux系统python2与python3共存](https://blog.csdn.net/qq_36119192/article/details/104161308)
- > Linux系统python2与python3共存
- ## [5G NR帧结构](https://blog.csdn.net/dxpqxb/article/details/104157692)
- > 5G NR帧结构
- ## [R-CNN算法（论文部分翻译+个人总结）](https://blog.csdn.net/qq_30146937/article/details/104153042)
- > R-CNN算法（论文部分翻译+个人总结）
- ## [如何解决Microsoft Visual C++ 14.0 is required（安装 Visual C++ ）](https://blog.csdn.net/heyy259/article/details/104158000)
- > 如何解决Microsoft Visual C++ 14.0 is required（安装 Visual C++ ）
+ ## [河北湖南河南湖北福建浙江陕西看墓地风水的大师2020年最新排行](https://blog.csdn.net/qq_20046505/article/details/104159003)
+ > 河北湖南河南湖北福建浙江陕西看墓地风水的大师2020年最新排行
+ ## [LINUX命令全称英语](https://blog.csdn.net/Abner_LYS/article/details/104159989)
+ > LINUX命令全称英语
+ ## [PID算法的一些理解](https://blog.csdn.net/weixin_43604927/article/details/104160619)
+ > PID算法的一些理解
+ ## [JavaWeb  解决JSP中文乱码最新](https://blog.csdn.net/xunxue1523/article/details/104160555)
+ > JavaWeb  解决JSP中文乱码最新
+ ## [Android系统中APP安装到手机后的文件分析](https://blog.csdn.net/csdn_zhangchunfeng/article/details/104157733)
+ > Android系统中APP安装到手机后的文件分析
  ## [捐赠3亿元驰援疫情后，腾讯再出2亿元发起“战疫开发者公益联盟”](https://blog.csdn.net/csdnnews/article/details/104163213)
  > 2月3日，腾讯宣布设立2亿元资金池，发起“战疫开发者公益联盟”，旨在联合更多服务商和开发者，为抗击疫情服务。这是继腾讯基金会捐赠3亿人民币，设立第一期新型肺炎疫情防控基金后，腾讯助力各地抗击疫情的又一新举措。腾讯作为发起方，将在微信开放社区上线服务专区，并提供资金和资源支持服务商和开发者为政府...
  ## [捐款捐物捐技术，14 家科技巨头抗疫在行动！](https://blog.csdn.net/csdnnews/article/details/104164229)
- > 整理 | 胡巍巍出品 | CSDN（ID：CSDNnews）“隔离病毒，但却没有隔离爱。”2020年春晚，央视主持人白岩松，在临时增加的情景报告节目《爱是桥梁》中，如是鼓励道。纵有封城，...
+ > 整理 | 胡巍巍出品 | CSDN（ID：CSDNnews）“隔离病毒，但却没有隔离爱。”2020年春晚，央视主持人白岩松，在临时增加的情景报告节目《爱是桥梁》中，如是鼓励道。纵有封城，纵有病毒，科技公司们的那份爱，汩汩流动在初春。这份爱，不仅体现在捐款上，也体现在捐赠的物品和技术上。...
  ## [未来十年，人人有望在家远程办公？](https://blog.csdn.net/csdnnews/article/details/104164520)
- > 在当前疫情肆虐的大环境之下，新的一周开启，不少公司都选择了远程办公的模式，而这种方法具有什么样的特点？会成为一种主流的工作模式吗？作者 | Chris Herd整理 | 弯月，责编 | ...
+ > 在当前疫情肆虐的大环境之下，新的一周开启，不少公司都选择了远程办公的模式，而这种方法具有什么样的特点？会成为一种主流的工作模式吗？作者 | Chris Herd整理 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：远程办公不可避免虽然我们...
  ## [“数学不好，干啥都不行！”骨灰级程序员：其实你们都是瞎努力](https://blog.csdn.net/csdnnews/article/details/104164526)
  > 想必很多程序员都听过这段话：一流程序员靠数学，二流程序员靠算法，末流程序员靠百度。懂的人其实都知道，其实就是程序员的真实写照。想一想，我们日常学习、求职、工作时，你一定也因为数学不好而发...
  ## [和疫情赛跑 30 天，湖北武汉的程序员们怎么样了？](https://blog.csdn.net/csdnnews/article/details/104156759)
  > 不出门、不串门，疫情肆虐下，湖北、武汉的程序员们这 30 天里都是如何度过的？
  ## [Web 爬虫现已合法？](https://blog.csdn.net/csdnnews/article/details/104164521)
- > 技术无罪？江湖传言，互联网上50%以上的流量都是由爬虫创造的，很多人都表示：无爬虫就无互联网的繁荣。也正因为此，网上各种爬虫教程风靡不绝，惹各路大神小白观之参与之。但是，无节制的背后往往...
+ > 技术无罪？江湖传言，互联网上50%以上的流量都是由爬虫创造的，很多人都表示：无爬虫就无互联网的繁荣。也正因为此，网上各种爬虫教程风靡不绝，惹各路大神小白观之参与之。但是，无节制的背后往往隐藏着风险，类似“只因写了一段爬虫，公司200多人被抓！”、“程序员爬虫竟构成犯罪？”等报道也时有发生。关于爬虫.
  ## [面对新型肺炎疫情，AI 能做什么？](https://blog.csdn.net/csdnnews/article/details/104164519)
  > 作者 |beyondma出品 | CSDN博客根据最新的新型冠状病毒疫情通报，截至2月2日22时，国家卫生健康委公布确诊病例14489例，累计死亡病例304例，另有疑似病例19544例...
-# 人工智能 
- ## [STM32F1 GPIO工作原理](https://blog.csdn.net/visual_eagle/article/details/104135706)
- > STM32F1 GPIO工作原理
- ## [2020电赛模拟题：自制积分式直流数字电压表](https://blog.csdn.net/smart_99/article/details/104136575)
- > 2020电赛模拟题：自制积分式直流数字电压表
- ## [stm32串口通信usart1收发代码](https://blog.csdn.net/qq_41840148/article/details/104137296)
- > stm32串口通信usart1收发代码
- ## [准备一下，来打开MaixPy 的大门吧](https://blog.csdn.net/zhazhawoaini/article/details/104131568)
- > 准备一下，来打开MaixPy 的大门吧
- ## [【物联网】(二) 从零开始如何使用http协议接入OneNet 之 简单快速了解HTTP协议](https://blog.csdn.net/qq_18994119/article/details/104133615)
- > 【物联网】(二) 从零开始如何使用http协议接入OneNet 之 简单快速了解HTTP协议
- ## [Kali Linux环境使用aircrack破译WiFi密码](https://blog.csdn.net/weixin_42708321/article/details/104122027)
- > Kali Linux环境使用aircrack破译WiFi密码
- ## [STM32串口接收中断卡死无法接收数据问题及解决办法（已解决）](https://blog.csdn.net/wuyusheng314/article/details/104135990)
- > STM32串口接收中断卡死无法接收数据问题及解决办法（已解决）
- ## [5G离我们还有多远](https://blog.csdn.net/liyazhen2011/article/details/104138290)
- > 5G离我们还有多远
- ## [STM32开发笔记97: C++语言命名规范](https://blog.csdn.net/qingwufeiyang12346/article/details/104133409)
- > STM32开发笔记97: C++语言命名规范
- ## [zigbee入网过程分析（mac层分析），附Ubiqua抓包](https://blog.csdn.net/m_pfly_fish/article/details/103759635)
- > zigbee入网过程分析（mac层分析），附Ubiqua抓包
- ## [史上最全的arduino实验集锦](https://blog.csdn.net/weixin_46020788/article/details/104136175)
- > 史上最全的arduino实验集锦
- ## [STM32F1学习笔记](https://blog.csdn.net/qq_43558184/article/details/104134344)
- > STM32F1学习笔记
- ## [基于SPWM的逆变器程序应用及自制电路](https://blog.csdn.net/smart_99/article/details/104126615)
- > 基于SPWM的逆变器程序应用及自制电路
- ## [网络编程1   请求时间客户端程序](https://blog.csdn.net/xizi_ghq/article/details/104130134)
- > 网络编程1   请求时间客户端程序
- ## [M5311接入onenet（MQTT方式）](https://blog.csdn.net/qq_44370363/article/details/104136201)
- > M5311接入onenet（MQTT方式）
+ ## [科技驰援背后：技术没有假期！](https://blog.csdn.net/csdnnews/article/details/104164523)
+ > 作者 | 杨雪梅本文经授权转载自新浪科技（ID：techsina）受新型冠状病毒肺炎疫情影响，近日，十多个省市陆续传出延期复工的消息。其中各大互联网企业也早就公布了复工安排。总体来看，“...
 # PM 
- ## [“网瘾”爸妈辈日常：看小说、刷视频，低价抢购靠直播](http://www.woshipm.com/user-research/3354614.html)
- > 小时候，我们总会被爸妈打上“网瘾少年”“手机中毒患者”的标签，而现在这个标签对象产生了翻天覆地的变化，那就是曾经对我们“指指点点”的父母。核 心 要 点 ：下沉市...
- ## [大数据揭秘：野味到底被谁吃了？](http://www.woshipm.com/data-analysis/3353915.html)
- > 究竟是哪些地方的哪些人更“钟情”于野味？此刻，一定会有不少人后悔当初吃了那些野味。肺炎疫情的爆发，牵动着每一个人的心。当钟南山院士在接受采访时表示，新型冠状...
- ## [我在零售巨头做新零售（六）：腾讯智慧零售](http://www.woshipm.com/newretail/3354492.html)
- > 智慧零售指的是线上线下双应用，用智能技术提高整体业务运营效率。线上大数据模型共享，赋能线下获客拉新，而线下获客模型的建立反作用于线上的精细化触达。智慧零售...
- ## [「微信视频号」详细版体验记录](http://www.woshipm.com/it/3354529.html)
- > 春节前，微信推出了视频号内测申请，笔者在申请到内测资格后，向我们展示了整个开通流程与视频号的体验流程。21日，微信开放“短内容”内测申请。短内容即“视频号”。内...
- ## [「视频号」深度分析，微信短内容杀手锏（上）](http://www.woshipm.com/evaluating/3348318.html)
- > 微信上新增的视频号，里面有着怎样的玄机？2018年，微信上线“看一看”，大众曾认为这是对标抖音、快手的短视频信息流，但事实证明“看一看”是公众号文章信息流。2020年...
+ ## [优秀项目经理的六脉神剑](http://www.woshipm.com/zhichang/3354850.html)
+ > 对周期长、规模大、涉及人员多的项目来说，优秀的项目经理能对项目成功起到非常大的作用与贡献，那么优秀的项目经理一般都是怎么管控、协调项目进行的呢？本文将为你带...
+ ## [数据分析（4）：分布分析法&用户留存分析法](http://www.woshipm.com/data-analysis/3356715.html)
+ > 前面几篇文章我们先后聊了对比分析法、多维度拆解法、漏斗观察法。这一篇我们着重聊聊分布分析法和用户留存分析法。一、分布分析法1. 常见的群体划分有哪些？（1）...
+ ## [智能时代下的客服系统（一）：工单系统之框架篇](http://www.woshipm.com/pd/3355435.html)
+ > 本文将针对如何用一套系统，满足内部各方痛点的同时，提升客户满意度的角度来跟大家探讨一下，如何进行工单系统的框架搭建。在互联网增长红利日渐减少的大背景下，越...
+ ## [活动复盘：做好一场直播活动，需要注意这3点](http://www.woshipm.com/operate/3355089.html)
+ > 如何在1天内，做一个曝光度超200W+的直播？本文作者对自己负责的一场直播活动进行了复盘，分享了需要注意的3个要点，供大家一同参考和学习。现在的直播潮，想要做一个...
+ ## [一个老产品的心路历程](http://www.woshipm.com/pmd/3355426.html)
+ > 一个产品经理的经历可以分为三个阶段：无知者无畏、初出茅庐、渐行渐远。近日，心中一直颇不平静，像如今这样的日子，17年前也曾经历，只不过那时候我还是一个高一的...
+ ## [一篇文章带你了解短信推送机制](http://www.woshipm.com/pd/3353719.html)
+ > 本文主要是帮助大家从应用角度了解下短信推送流程、介绍短信行业的一些常规知识，在为企业自身搭建短信平台时，提供一些经验。一、短信推送定义与常识1.1 短信推送...
+ ## [给新手产品经理的4条建议](http://www.woshipm.com/zhichang/3348430.html)
+ > 产品经理是一个对于综合能力要求比较高的岗位，作者入行两年，处于产品经理职业生涯的早期阶段，在此整理分享了4条建议，希望能对新手产品经理有一定的帮助。一、积极...
+ ## [人类认知对设计规律有这些影响](http://www.woshipm.com/pd/3197962.html)
+ > 数字产品之间的交互是我们生活中不可或缺的一部分，产品能够理解人类行为非常重要。理解人类的认知并将简单的设计规律应用于设计过程中，会对用户体验产生重大而积极的...
+ ## [十大平台春节抢红包策略分析研究](http://www.woshipm.com/operate/3351185.html)
+ > 本文是一次深度拆解、分析研究文，看看红包是怎么激发全民热情，刺激用户增长、留存与营收，以及DAU指标等。每到春节，红包策略都是最常见的增长策略，今年也不例外。...
+ ## [重启2020，我们还能“多快好省”地点外卖吗？](http://www.woshipm.com/it/3356180.html)
+ > 春节“家里蹲”的肥宅计划，也因外卖的停顿而打了一个打趔趄。本狐所在的小区，已经开始将外卖小哥拦截在大门外。经历了一次步行五分钟的取餐行动之后，只会“烧开水泡面...
+ ## [11条建议，帮产品经理学会向上管理](http://www.woshipm.com/zhichang/3356923.html)
+ > 很多人对向上管理总有一些误区，而笔者就对这些错误观点进行了纠正，并强调了向上管理在产品经理职场发展，工作能力提升等方面的帮助。作为产品经理，关于做向上管理...
+ ## [跨境支付（二）：行业综述](http://www.woshipm.com/pd/3354716.html)
+ > 本文给大家简单的介绍了关于跨境支付的一些行业的相关信息，一起来看看~一、相关定义1.1 跨境支付指两个或两个以上国家或地区之间因国际贸易、国际投资及其他方面所...
  ## [疫情下生鲜电商的答卷](http://www.chanpin100.com/article/110655)
  > 面对受感染的危险以及高价菜的不满，生鲜电商是如何为用户们谱写出一份满意的答案的。
  ## [定义一场细致的需求评审](http://www.chanpin100.com/article/110654)
