@@ -1,30 +1,63 @@
 ---
 title: 2020-02-05 IT News
 copyright: true
-date: 2020-02-05 09:01:03
+date: 2020-02-05 10:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2020年2月5日 星期三</b></summary><div class="news-list-content"><p>1. &#25945;&#32946;&#37096;&#65306;&#21407;&#35745;&#21010;&#27491;&#24335;&#24320;&#23398;&#21069;&#19981;&#35201;&#25552;&#21069;&#24320;&#22987;&#26032;&#23398;&#26399;&#35838;&#31243;&#32593;&#19978;&#25945;&#23398;</p>
+<p>2.&#20013;&#22269;&#25903;&#20184;&#28165;&#31639;&#21327;&#20250;&#65306;&#23545;&#30123;&#24773;&#28041;&#21450;&#30340;&#29305;&#23450;&#20154;&#21592;&#37319;&#21462;&#24310;&#38271;&#20449;&#29992;&#21345;&#36824;&#27454;&#26399;&#12289;&#20813;&#25910;&#36829;&#32422;&#37329;&#12289;&#25552;&#20379;&#24449;&#20449;&#20445;&#25252;&#31561;&#25514;&#26045;</p>
+<p>3.&#24212;&#23545;&#32954;&#28814;&#30123;&#24773;&#65292;&#20013;&#22269;&#38081;&#36335;12306&#32771;&#34385;&#25512;&#20986;&#38548;&#21495;&#21806;&#31080;</p>
+<p>4.&#38025;&#38025;&#32852;&#21512;&#38463;&#37324;&#20581;&#24247;&#25512;&#20986;&#38450;&#30123;&#31934;&#28789;&#65292;&#21161;&#21147;&#20225;&#19994;&#30123;&#24773;&#38450;&#25511;</p>
+<p>5.&#39640;&#24503;&#22320;&#22270;&#19978;&#32447;&#8220;&#26080;&#25509;&#35302;&#8221;&#33647;&#21697;&#37197;&#36865;&#23567;&#31243;&#24207;&#65292;&#35206;&#30422;&#20840;&#22269;&#36229;200&#20010;&#22478;&#24066;</p>
+<p>6.&#24494;&#21338;&#35268;&#33539;&#26032;&#20896;&#30149;&#27602;&#32954;&#28814;&#27714;&#21161;&#20449;&#24687;&#65306;&#38656;&#19978;&#20256;&#35786;&#26029;&#20070;&#31561;&#20449;&#24687;</p>
+<p>7.&#26377;&#36190;&#21457;&#24067;&#8220;&#21313;&#39033;&#20030;&#25514;&#8221;&#21161;&#21830;&#23478;&#20849;&#28193;&#38590;&#20851;&#65292;&#24182;&#21457;&#24067;&#36830;&#38145;&#38376;&#24215;&#36716;&#32447;&#19978;&#32463;&#33829;&#26041;&#26696;</p>
+<p>8.&#26103;&#35270;AI&#27979;&#28201;&#31995;&#32479;&#19978;&#32447;&#65292;&#35782;&#21035;&#35823;&#24046;&#20302;&#20110;0.3&#8451;&#65292;&#22312;&#28023;&#28096;&#22320;&#38081;&#31449;&#31561;&#22330;&#25152;&#35797;&#28857;&#24212;&#29992;</p>
+<p>9.&#29454;&#32856;HRO&#183;&#21195;&#21402;&#20154;&#21147;&#25512;&#20986;&#30123;&#26102;&#8220;&#21592;&#24037;&#20849;&#20139;&#8221;&#35745;&#21010;</p>
+<p>10.&#21355;&#20581;&#22996;&#65306;&#20840;&#22269;&#26032;&#22411;&#20896;&#29366;&#30149;&#27602;&#24863;&#26579;&#30340;&#32954;&#28814;&#30149;&#27515;&#29575;2.1%</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院 早报】 2020年2月4日 星期二</b></summary><div class="news-list-content"><p>1.&#20132;&#36890;&#36816;&#36755;&#37096;&#31561;&#22810;&#37096;&#38376;&#65306;&#20005;&#26684;&#25511;&#21046;&#20132;&#36890;&#36816;&#36755;&#24037;&#20855;&#23458;&#24231;&#29575;&#65292;&#36710;&#21410;&#21518;&#37096;&#35774;&#32622;&#30041;&#35266;&#21306;</p>
+<p>2.&#22269;&#23478;&#21355;&#20581;&#22996;&#22238;&#24212;&#25239;&#30123;&#26032;&#33647;&#36827;&#23637;&#65306;&#27491;&#24320;&#23637;&#20020;&#24202;&#35797;&#39564;</p>
+<p>3.&#23383;&#33410;&#36339;&#21160;&#26071;&#19979;&#21150;&#20844;&#22871;&#20214;&#39134;&#20070;&#25512;&#20986;&#8220;&#32447;&#19978;&#21150;&#20844;&#23460;&#8221;&#65292;&#25903;&#25345;&#26368;&#22810;50&#20154;&#21516;&#26102;&#22312;&#32447;</p>
+<p>4.&#28404;&#28404;&#22312;&#21271;&#20140;&#32452;&#24314;&#8220;&#21307;&#25252;&#20445;&#38556;&#36710;&#38431;&#8221;&#65292;&#20813;&#36153;&#26381;&#21153;&#21307;&#21153;&#24037;&#20316;&#32773;</p>
+<p>5. &#32654;&#22242;&#21333;&#36710;&#21457;&#36215;&#8220;&#26080;&#24046;&#21035;&#28040;&#27602;&#8221;&#65292;&#25152;&#26377;&#20849;&#20139;&#21333;&#36710;&#20840;&#37096;&#28040;&#27602;</p>
+<p>6.&#20140;&#27818;&#20986;&#21488;&#30123;&#24773;&#38450;&#25511;&#26399;&#38388;&#20225;&#19994;&#20943;&#36127;&#25919;&#31574;&#65306;&#36820;&#36824;&#22833;&#19994;&#20445;&#38505;&#12289;&#24310;&#32564;&#31038;&#20445;</p>
+<p>7.&#24040;&#20154;&#32593;&#32476;&#21457;&#24067;&#32593;&#32476;&#28216;&#25103;&#19994;&#21153;&#21457;&#23637;&#35268;&#21010;&#65292;&#24067;&#23616;&#20113;&#28216;&#25103;</p>
+<p>8.Keep&#19982;&#22810;&#23478;&#36816;&#21160;&#21697;&#29260;&#25171;&#36896;&#8220;&#20551;&#26399;&#36816;&#21160;&#30452;&#25773;&#22823;&#20840;&#8221;&#19987;&#26639;</p>
+<p>9.&#33150;&#35759;&#35838;&#22530;&#25512;&#20986;&#8220;&#32769;&#24072;&#26497;&#36895;&#29256;&#8221;&#65306;&#28085;&#30422;15&#27454;&#25945;&#23398;&#24037;&#20855;&#65292;10&#31186;&#22312;&#32447;&#24320;&#35838;</p>
+<p>10.&#27773;&#36710;&#20869;&#39280;&#31995;&#32479;&#30740;&#21457;&#21830;&#12300;&#24310;&#38155;&#20255;&#19990;&#36890;&#12301;&#33719;&#25112;&#30053;&#25237;&#36164;3.79&#20159;&#32654;&#20803;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [中国电信2019年12月4G用户数增加 宽带用户数增长情况让人奇怪](http://mp.weixin.qq.com/s?src=11&timestamp=1580862604&ver=2139&signature=wKmACEnnfyRGIBj7mt67M9A6zDsjd59I-YVqrRRmlWO1lQF1Bk92fRKhQFy4DlxBeTgLhSL5LmSuAyAnrv*fq25T3rMQfydjn9udUb096nSgulyNXepPU49nD3ce6CdG&new=1)
+ ## [中国电信2019年12月4G用户数增加 宽带用户数增长情况让人奇怪](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=wKmACEnnfyRGIBj7mt67M9A6zDsjd59I-YVqrRRmlWO1lQF1Bk92fRKhQFy4DlxB1FN714BWm6Q79SmfjbUEmbTiGxzMz33BltbPEhhrUTG4D*oJVsT*uPTkJLOOVUnT&new=1)
  > 运营商财经网讯 1月21日，中国电信公布了2019年12月运营数据，结果并不如人意。数据显示，中国电信12月移动用户数净增118万户，累计达到3.36亿户；4G用户数当月净增124万户，累计到达2.81亿户。而从11月运营数据...
- ## [重磅!中关村连夜征集138项黑科技加入肺炎阻击战](http://mp.weixin.qq.com/s?src=11&timestamp=1580862604&ver=2139&signature=Mbsujn2Q24JGv49-ES4wALEGrIazXreXgEGazoyybqf*YMnLg4gf3NPDrTB4elQTuKw2HXvG4sg*PfRjdgiyfhpNuxRqKU7YFI56ooLAxFycSndJJXfnWlWqoCVkRfTM&new=1)
+ ## [面对疫情，华为在干什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=Qx4*mflZX7qhpEpGZhSX*Unl*hnhocRhfnBJ8fDHsPFFMG0mx1AqjA4wdCqDa8D3psVGa*a1FSAuBeVZjey4U0geoSZQcbkFtUVF26RscZJWIfgSyZEzF7TcDEtgww7x&new=1)
+ > 面对灾难，优秀的企业应该如何作为？其他企业应从中得到什么启示？疫情之时，华为在干什么？2020年1月26日，华为宣布：向武汉市慈善总会捐赠3000万元人民币用于疫情防控。同时，向所有战斗在最前线的医务、防疫...
+ ## [重磅!中关村连夜征集138项黑科技加入肺炎阻击战](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=Mbsujn2Q24JGv49-ES4wALEGrIazXreXgEGazoyybqf*YMnLg4gf3NPDrTB4elQTZXMqUJlqRAsOtHUTlN-EebVS1E4kioD-tabs8Lb1hw8DBQcG1RFF2V2KOOA6kOkP&new=1)
  > 看点：中关村驰援武汉！AI企业亮剑，响应工信部号召。“疫情防控急需就是动员令，就是冲锋号。”今天，工信部向人工智能相关学（协）会、联盟、企事业单位号召，充分发挥人工智能赋能效用，协力抗击新型冠状病毒...
- ## [AGST-LTE 无线宽带多媒体数字集群通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1580862604&ver=2139&signature=rjERFxtSe7NWgZXkOah6LhD7Kqx3lmjt6kBbpIKc2sEnt2H9PWmQ1djCXGlOyf8KCPXgCOMMb2AblnzYipJdSMTRTcWdVcByoyjUiaxZ7iRVDfKKf4uyFr3mNNzWso0C&new=1)
- > AGST-LTE 无线宽带多媒体数字集群通信系统1 系统简介AGST-LTE 无线宽带多媒体数字集群通信系统(简称 LTE 宽带集群系统)是一 套遵循 TD-LTE 技术体制，符合 B-TrunC 数字宽带集群标准，完全自主研 制生产基站侧
- ## [“智斗”疫情，哪些通信黑科技在使劲?](http://mp.weixin.qq.com/s?src=11&timestamp=1580862604&ver=2139&signature=DAZREqeSCX4BwUiryljQvFVS0jGS0Rm4InuB4yCfpBNJrZcpi7R5GmxKc2lLkQgnh4XlR8i2yaAlbO53TX7Q0Mpt*FA3RGhwtFLQUaBdt2kFFKjr4c*tFweznr0FomSK&new=1)
+ ## [“这几天都是双11”远程办公刚需爆棚](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=i5S9eDeGA7yvT*4cvYT7aghFcTOOzycJXjol7KlNXGb7zLnvDD9hVzqAchOxlv3TTtkTv3PTwBYw0mg4NPQ3BCix76uD4Mpy4SmhkTroxi8=&new=1)
+ > 2月3日开工第一天，数百万企业使用企业微信，达到去年同期的3倍。同期，包括钉钉、企业微信、猿辅导在内的多个在线办公及教育网站遭遇限流，随后又被紧急修复。　　记者注意到，受新型冠状病毒感染的肺炎疫...
+ ## [“智斗”疫情，哪些通信黑科技在使劲?](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=DAZREqeSCX4BwUiryljQvFVS0jGS0Rm4InuB4yCfpBNJrZcpi7R5GmxKc2lLkQgnjAupexAuSmMk1hM0vL6LErsxrJN4SCd9zH*GV8KQrvSB*5xpqrIxI9Y5Y4DxgWum&new=1)
  > 【摘要】抗击重大疫情中，远程医疗、 5G与人工智能、大数据、云计算等的应用结合，展示了黑科技的力量。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：通信产业网本文来源：通信产业网（ccidcom）杂谈...
- ## [对美国国家安全造成威胁?华为中兴“怒怼”FCC](http://mp.weixin.qq.com/s?src=11&timestamp=1580862604&ver=2139&signature=abPiZPVFOajPx8ly8qhWs*CdT77bRBCSgT6LWMuoWVjFOvp88zYmmjug9Tc5hDlqAT-43nCCjEZmf3V46bsbyZgVoxQyeXkU5-fyq4FHOvjH7o4J24EhrNEK79nopf6a&new=1)
+ ## [AGST-LTE 无线宽带多媒体数字集群通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=rjERFxtSe7NWgZXkOah6LhD7Kqx3lmjt6kBbpIKc2sEnt2H9PWmQ1djCXGlOyf8Kv6mlqMcBH-x-0SM4HTvUCUMTqFt00KxfJqM3I3RmtOabeVsD5l6c1s6YFayML60u&new=1)
+ > AGST-LTE 无线宽带多媒体数字集群通信系统1 系统简介AGST-LTE 无线宽带多媒体数字集群通信系统(简称 LTE 宽带集群系统)是一 套遵循 TD-LTE 技术体制，符合 B-TrunC 数字宽带集群标准，完全自主研 制生产基站侧
+ ## [对美国国家安全造成威胁?华为中兴“怒怼”FCC](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=abPiZPVFOajPx8ly8qhWs*CdT77bRBCSgT6LWMuoWVjFOvp88zYmmjug9Tc5hDlq3FwMIqYerUjKxBUhL3kSb3AgSM0XhjFTT2SNyGW1KbwvZRd7h0q99EZht8QIgZR9&new=1)
  > 今（4）日消息，针对去年11月，美国联邦通信委员会（FCC）宣布禁止美国电信运营商使用政府项目资金购买中国华为和中兴公司的设备一事，华为、中兴做出回应。作者｜Vivian   校对｜Jurnan集微网原创文章，转载请...
 # IT 技术 
  ## [请别再把深度学习与机器学习混为一谈了！](http://ai.51cto.com/art/202002/609927.htm)
  > 请别再把深度学习与机器学习混为一谈了！
- ## [在Linux或MacOS上运行Windows程序的6个方法](http://os.51cto.com/art/202002/609926.htm)
- > 在Linux或MacOS上运行Windows程序的6个方法
- ## [疫情传播与爆发仿真程序：千万别出门！](http://news.51cto.com/art/202002/609925.htm)
- > 疫情传播与爆发仿真程序：千万别出门！
  ## [偷偷告诉你，互联网公司理想的技术架构！](http://developer.51cto.com/art/202002/609924.htm)
  > 偷偷告诉你，互联网公司理想的技术架构！
+ ## [疫情传播与爆发仿真程序：千万别出门！](http://news.51cto.com/art/202002/609925.htm)
+ > 疫情传播与爆发仿真程序：千万别出门！
+ ## [在Linux或MacOS上运行Windows程序的6个方法](http://os.51cto.com/art/202002/609926.htm)
+ > 在Linux或MacOS上运行Windows程序的6个方法
  ## [手机怎么知道5G基站的存在?(小区搜索和SSB简介)](http://stor.51cto.com/art/202002/609915.htm)
  > 手机怎么知道5G基站的存在?(小区搜索和SSB简介)
  ## [保护我方医务人员！机器人能送药治病消毒，保护医生护士不被传染](http://news.51cto.com/art/202002/609909.htm)
@@ -33,46 +66,68 @@ categories: IT NEWS
  > 五招帮你优化混合云管理
  ## [《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发](http://news.51cto.com/art/202002/609885.htm)
  > 《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发
- ## [2020年，四步突破数据科学](http://bigdata.51cto.com/art/202002/609933.htm)
- > 如果打算今年进入数据科学领域，这是个很棒的决定。该领域广受认可，而且好找工作，工资也不错，就连管理部
- ## [关于云的十大迷思](http://cloud.51cto.com/art/202002/609932.htm)
- > 尽管在过去的五年中，云计算的普及度已显著提升，但一些自云计算诞生以来就已存在的迷思一直延续至今。此外
- ## [数字化家庭：借助物联网和人工智能使家用电器更智能](http://iot.51cto.com/art/202002/609931.htm)
- > 随着数字技术在日常生活中的不断进步和应用，人们对智能家电的需求也在不断增加。借助物联网和人工智能等技
+ ## [如何修复Windows 10损坏的系统文件？](http://os.51cto.com/art/202002/609944.htm)
+ > 这些系统文件被损坏的原因有很多，在大多数情况下，几乎不可能手动修复损坏的文件。不要烦恼，因为我们在这
+ ## [我珍藏的Bash秘籍](http://os.51cto.com/art/202002/609943.htm)
+ > 在本文中，我分享了我最喜欢的这些助手命令，对于我经常遗忘的事情，它们很有用，也希望这可以帮助到你，以
+ ## [程序员硬核劝告：现在还不是出门的时候](http://news.51cto.com/art/202002/609945.htm)
+ > 憋疯了？在家宅不下去了？想出去透透气了？千万别！虽然你对疫情已经麻木了，觉得没什么大碍了。
+ ## [数据科学入门选R还是Python？这次你自己挑](http://developer.51cto.com/art/202002/609946.htm)
+ > 如果你想学习数据科学，你首先需要做的就是掌握一些基本的数据处理，并开始学习编程，当你没有在电脑前的时
+ ## [你的假期应用AI书单：想学好人工智能，从这6本书开始吧~](http://ai.51cto.com/art/202002/609941.htm)
+ > 如果你是一个想要了解如何在组织中使用人工智能，以及部署这一新兴技术的最佳方法的商业领袖或数据专业人士
+ ## [疫情“大考”面前须善用大数据](http://bigdata.51cto.com/art/202002/609940.htm)
+ > 当前，大数据技术已被用来锁定感染源及密切接触人群，及时发现潜在感染者，为疫情防控提供决策依据。
+ ## [抗击疫情，中国三大运营商提供了哪些5G技术支持？](http://network.51cto.com/art/202002/609938.htm)
+ > 众所周知，随着社会各产业发展的需求变化，5G、AI以及大数据等新技术风口密集爆发，为传统行业赋能全新价值
+ ## [跟我学 “Linux” 小程序Web版开发（三）：云开发相关数据调用](http://developer.51cto.com/art/202002/609942.htm)
+ > 在完成了界面的实现后，接下来可以开始进行和云开发相关的数据对接。完成数据对接后，应用基础就打好了，接
+ ## [开发者必看！KISS、DRY和需要遵守的编码原则](http://developer.51cto.com/art/202002/609935.htm)
+ > 开始编程时遇到的第一个挑战是编写功能代码。但成为开发者后，编程技能也会随之增长。本文将会介绍助你实现
+ ## [物联网常见攻击汇总](http://iot.51cto.com/art/202002/609934.htm)
+ > 来这篇文章我要给大家提出一些从网络涉及到物联网的攻击，这些攻击通常来自于每个网络的常见和特定攻击，并
+ ## [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](https://blog.csdn.net/dyc87112/article/details/104173736)
+ > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
+ ## [标记——整理回收](https://blog.csdn.net/luliuliu1234/article/details/104058259)
+ > 标记——整理回收
  ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
  > 
  ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
  > 
- ## [Java中有哪些解析XML的类库？有什么特点？](https://blog.csdn.net/meism5/article/details/104175859)
- > Java中有哪些解析XML的类库？有什么特点？
+ ## [CPU 是什么？](https://blog.csdn.net/weixin_39966065/article/details/104173300)
+ > CPU 是什么？
  ## [全国计算机三级网络技术20天保过指南](https://blog.csdn.net/m0_46153949/article/details/104168820)
  > 全国计算机三级网络技术20天保过指南
+ ## [抗击新型肺炎病毒，基因行业在行动](https://blog.csdn.net/xxxie_/article/details/104175249)
+ > 抗击新型肺炎病毒，基因行业在行动
  ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
  > 究竟你适不适合买Mac？
- ## [Python基础知识点梳理](https://blog.csdn.net/m0_46245938/article/details/104160793)
- > Python基础知识点梳理
- ## [Python ---（九）Tkinter窗口组件:Scale](https://blog.csdn.net/w15977858408/article/details/104165231)
- > Python ---（九）Tkinter窗口组件:Scale
- ## [CentOS8容器管理工具Podman](https://blog.csdn.net/kongxx/article/details/104174024)
- > CentOS8容器管理工具Podman
- ## [Python实战：抓取肺炎疫情实时数据，画2019-nCoV疫情地图](https://blog.csdn.net/weixin_35770067/article/details/104172396)
- > Python实战：抓取肺炎疫情实时数据，画2019-nCoV疫情地图
- ## [用JS求1+2+3+...+n](https://blog.csdn.net/qq_34226407/article/details/104173265)
- > 用JS求1+2+3+...+n
- ## [LeetCode：779 第K个语法符号 递归解法](https://blog.csdn.net/weixin_44176696/article/details/104171273)
- > LeetCode：779 第K个语法符号 递归解法
- ## [docker镜像私服搭建详细解说](https://blog.csdn.net/qq_39379806/article/details/104173577)
- > docker镜像私服搭建详细解说
- ## [HTML网页小例子](https://blog.csdn.net/weixin_44759938/article/details/104170800)
- > HTML网页小例子
- ## [9、以太坊智能合约开发（暂停运行合约和合约升级）](https://blog.csdn.net/u013538542/article/details/104163497)
- > 9、以太坊智能合约开发（暂停运行合约和合约升级）
+ ## [python数据分析与展示学习笔记（5）分割绘图区域——画饼图、直方图和散点图](https://blog.csdn.net/weixin_42040221/article/details/104171227)
+ > python数据分析与展示学习笔记（5）分割绘图区域——画饼图、直方图和散点图
+ ## [Network topology design at 27,000 km/hour](https://blog.csdn.net/weixin_43116425/article/details/104092082)
+ > Network topology design at 27,000 km/hour
+ ## [VUE生命周期总结以及created和mounted比较](https://blog.csdn.net/xxwyxlf/article/details/104175421)
+ > VUE生命周期总结以及created和mounted比较
+ ## [windows版sourceTree 免登录安装，小白教程，超级简单](https://blog.csdn.net/RedaTao/article/details/104171068)
+ > windows版sourceTree 免登录安装，小白教程，超级简单
+ ## [ESP8266学习笔记（17）——搭建环境、编译烧写（RTOS SDK）](https://blog.csdn.net/qq_36347513/article/details/104175273)
+ > ESP8266学习笔记（17）——搭建环境、编译烧写（RTOS SDK）
+ ## [战疫，微软资深高管的十余年远程办公管理经验](https://blog.csdn.net/csdnnews/article/details/104177785)
+ > 微软的传奇不止于员工从不需要上下班打卡，而是整个企业年复一年、日复一日的跨国协同。微软的员工分布在全球各地，它是如何协同全球员工，打造全世界市值万亿美元的公司。出品 | 微软科技（ID：...
  ## [为什么机器学习在嵌入式系统中会失败？](https://blog.csdn.net/csdnnews/article/details/104177788)
  > 作者 |Andrew Zhuravchak译者 |弯月封图 | CSDN 下载自 VCG出品 | CSDN（ID：CSDNnews）如今，机器学习已到达巅峰，并在各个领域得到了应用。...
  ## [疫情当下，你是在家里躺着刷抖音？还是在做这些？](https://blog.csdn.net/csdnnews/article/details/104177789)
  > 2020年本来可以是很开心的一年没想到一开头就给了我们一个重重的一击疫情的出现让我们非常的恐慌新型病毒肺炎让我们无处可躲原来热闹的新年因为疫情让我们逼不得已只能待在家里走亲访友更是不可能...
+ ## [刚刚，阿里云上线六大“战疫情”项目](https://blog.csdn.net/csdnnews/article/details/104177793)
+ > 作者 | Just出品 | CSDN 云计算（CSDNcloud）抗击新冠肺炎，一线互联网大厂在行动。疫情发生以来，诸多科技公司都在思考如何利用技术来帮助抗击疫情，其中，阿里巴巴也是首当...
+ ## [疫情期间我们与你同在：关爱障碍群体刚需，坚持做无障碍的倡议书](https://blog.csdn.net/csdnnews/article/details/104177783)
+ > 【CSDN编者按】新型冠状病毒感染的肺炎疫情发生以来，障碍群体（视障者、听障者、肢体残障者、读写障碍者、老年人等）也一样积极响应号召，战疫情，不出门，戴口罩，通过互联网了解疫情实况、学习...
+ ## [看完这篇垃圾回收，和面试官扯皮没问题了](https://blog.csdn.net/csdnnews/article/details/104177786)
+ > 作者 |码海来源|码海（ID:seaofcode）责编 | 伍杏玲Java 相比 C/C++ 最显著的特点便是引入了自动垃圾回收 (下文统一用 GC 指代自动垃圾回收)，它解决了 ...
+ ## [远程会议总卡顿？8 个“小白”办法一看就会！](https://blog.csdn.net/csdnnews/article/details/104177787)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）今天是在家办公的第二天，洗头了吗？刷牙了吗？远程会议中的你，有状态吗？很多人说，通过远程会议，看到了同事穿睡衣的样子。还有的领...
  ## [疫情期间不忽略障碍群体刚需、仍坚持做无障碍的倡议书](https://blog.csdn.net/csdnnews/article/details/104169465)
  > 疫情期间我们与你同在：关爱障碍群体刚需，坚持做无障碍的倡议书新型冠状病毒感染的肺炎疫情发生以来，障碍群体（视障者、听障者、肢体残障者、读写障碍者、老年人等）也一样积极响应号召，战疫情，不出门，戴口罩，通过互联网了解疫情实况、学习如何防控。疫情期间，障碍群体与全国人民一样，在隔离期有更强烈的信息...
  ## [远程办公一晃一天，环境搭建履步维艰](https://blog.csdn.net/csdnnews/article/details/104168992)
@@ -84,37 +139,49 @@ categories: IT NEWS
  ## [魔幻！过年在家，Java和Python程序员比工资打起来了...](https://blog.csdn.net/csdnnews/article/details/104177784)
  > Python真的野蛮生长到不行了？最近，笔者在某网站刷到一条信息，两个程序员在家比工资，竟然打起来了！原因就是从事5年开发的Java程序员竟然工资输给了工作仅2年的Python程序员！从...
 # 人工智能 
- ## [计算机视觉零基础入门 P2 笔记 （上）](https://blog.csdn.net/tdh2017/article/details/104162145)
- > 计算机视觉零基础入门 P2 笔记 （上）
- ## [PAT甲级 英文单词汇总](https://blog.csdn.net/qq_42437577/article/details/104154945)
- > PAT甲级 英文单词汇总
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 130 个相见恨晚的超实用网站，一次性分享出来
- ## [2020年春节期间在家如何下载中英文论文](https://blog.csdn.net/qq_30229253/article/details/104152301)
- > 2020年春节期间在家如何下载中英文论文
- ## [树，森林与二叉树的相互转化，树的遍历](https://blog.csdn.net/So_cute_SJM/article/details/104151234)
- > 树，森林与二叉树的相互转化，树的遍历
- ## [大学两年，写了这篇几十万字的干货总结](https://blog.csdn.net/hebtu666/article/details/103438056)
- > 
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
- > 
- ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
- > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
- ## [记录一些自己常用的网站](https://blog.csdn.net/Albert992/article/details/104160728)
- > 记录一些自己常用的网站
- ## [【保研经验】关于保研我们需要知道什么，准备什么？](https://blog.csdn.net/ReadAir/article/details/104154511)
- > 【保研经验】关于保研我们需要知道什么，准备什么？
- ## [【机器学习】机器学习和深度学习概念入门（上）](https://blog.csdn.net/weixin_42429718/article/details/104160867)
- > 【机器学习】机器学习和深度学习概念入门（上）
- ## [window共享设置（smb）及MAC下无法访问的问题分析](https://blog.csdn.net/master336/article/details/104151223)
- > window共享设置（smb）及MAC下无法访问的问题分析
+ ## [Android 开发中问题收集（六）：将自己应用添加到微信和QQ其他应用列表](https://blog.csdn.net/baidu_31956557/article/details/100125376)
+ > Android 开发中问题收集（六）：将自己应用添加到微信和QQ其他应用列表
+ ## [解决Android studio升级到3.5的一些问题](https://blog.csdn.net/qq_33208896/article/details/100100255)
+ > 解决Android studio升级到3.5的一些问题
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
+ > 小米airdots双耳串联问题解决
+ ## [手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费](https://blog.csdn.net/ccyhq/article/details/100545145)
+ > 手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费
+ ## [无需越狱iphone 微信双开分身免费获取方法](https://blog.csdn.net/wik_123/article/details/100914872)
+ > 无需越狱iphone 微信双开分身免费获取方法
+ ## [解决WH1000XM3连接电脑无法使用麦克风问题](https://blog.csdn.net/weixin_37993251/article/details/100627133)
+ > 解决WH1000XM3连接电脑无法使用麦克风问题
+ ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
+ > Android studio 3.5安装详解
+ ## [从零开始的立绘拆包教程](https://blog.csdn.net/Conyrol/article/details/96781786)
+ > 从零开始的立绘拆包教程
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+ ## [Android Basic](https://blog.csdn.net/wwwsssZheRen/article/details/100589632)
+ > Android Basic
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [手机如何搞定网易云音乐的代理？实现VIP免费听歌！](https://blog.csdn.net/liliangpin/article/details/101044268)
+ > 手机如何搞定网易云音乐的代理？实现VIP免费听歌！
+ ## [Android面试题大全（中高级）](https://blog.csdn.net/amogin/article/details/81450434)
+ > Android面试题大全（中高级）
+ ## [Unity安卓 Failed to extract resources needed byIL2CPP](https://blog.csdn.net/weixin_43149049/article/details/100706190)
+ > Unity安卓 Failed to extract resources needed byIL2CPP
 # PM 
+ ## [如何搭建完美的产品初始团队？](http://www.woshipm.com/chuangye/3354194.html)
+ > 如何搭建完美的初始团队？本篇文章围绕初始团队的金三角模型进行了梳理分析，与大家分享。成也萧何败萧何，一个好的初始团队能让初创公司起飞，也能让它堕落。所以，...
+ ## [运营人2020跳槽指南](http://www.woshipm.com/zhichang/3361917.html)
+ > 不管经济如何走，只要我们的人生曲线是往上走的就行。马云说过，员工跳槽的原因只有两个，钱给少了或者干的不爽。有视野的人看问题就是不一样，一句话就把员工离职的...
+ ## [产品经理懂点技术之：4K/8K](http://www.woshipm.com/pmd/3360870.html)
+ > 近年来，4K、8K超高清可谓火爆，连2020年的央视春晚，都出现了他们的身影。本文将简单介绍一下什么是分辨率、4k/8k的创新、难点及前景的内容。分辨率与像素分辨率又...
+ ## [我在零售巨头做新零售（七）：多触点运营](http://www.woshipm.com/newretail/3358415.html)
+ > 在腾讯智慧零售连接方向和企业内容战略化方向明确后，整合全渠道业务，线上线下相互赋能，多触点运营是推动新零售的下一步工作。腾讯智慧零售的超级连接概念逐步渗透...
+ ## [AI驱动下，用产品思维来布局面向未来的营销](http://www.woshipm.com/kol/3302115.html)
+ > 在人人都是产品经理举办的【 2019深圳产品经理大会】上，腾讯市场总监、《内容引爆增长》作者王子乔，他的分享主题是《AI驱动下，用产品化思维布局未来营销》在过去的...
+ ## [客户旅程：整体战略如何推动获利增长？](http://www.woshipm.com/user-research/3198283.html)
+ > 本文分享了什么是客户旅程，以及如何绘制旅程和如何使用它来降低成本、增加收入并创造更好的客户体验。概述：以客户为业务核心的公司比竞争对手更具利润。最大的增长...
  ## [李子柒的口碑营销研究](http://www.woshipm.com/marketing/3358783.html)
  > 网络红人之所以能够获得关注，其流量变现的产品成为爆款背后的原因有许多，本文选以口碑营销作为理论基础，对李子柒进行口碑营销的研究。一、绪论近年来，互联网经济...
  ## [线上课程丨宅在家里太无聊？不如想想年后怎么晋升涨薪？](http://www.woshipm.com/online/3365693.html)
