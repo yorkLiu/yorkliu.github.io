@@ -1,7 +1,7 @@
 ---
 title: 2020-02-05 IT News
 copyright: true
-date: 2020-02-05 10:01:16
+date: 2020-02-05 12:01:53
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,19 +35,27 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [中国电信2019年12月4G用户数增加 宽带用户数增长情况让人奇怪](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=wKmACEnnfyRGIBj7mt67M9A6zDsjd59I-YVqrRRmlWO1lQF1Bk92fRKhQFy4DlxB1FN714BWm6Q79SmfjbUEmbTiGxzMz33BltbPEhhrUTG4D*oJVsT*uPTkJLOOVUnT&new=1)
- > 运营商财经网讯 1月21日，中国电信公布了2019年12月运营数据，结果并不如人意。数据显示，中国电信12月移动用户数净增118万户，累计达到3.36亿户；4G用户数当月净增124万户，累计到达2.81亿户。而从11月运营数据...
- ## [面对疫情，华为在干什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=Qx4*mflZX7qhpEpGZhSX*Unl*hnhocRhfnBJ8fDHsPFFMG0mx1AqjA4wdCqDa8D3psVGa*a1FSAuBeVZjey4U0geoSZQcbkFtUVF26RscZJWIfgSyZEzF7TcDEtgww7x&new=1)
+ ## [Twitter API被滥用以将用户名与电话号码匹配](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=5AQFMNv2QKMSfv267jm5RsZyYRUhBBzou29trp-xqJbCF79dyVHcVGe6GW8Kp0HQEBTHbMAzt4b-hFFLHEMSvz*jOjdH3AeqKFPojjg7-d*g05FN9A7CjSE-IqfNzntd&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com       E安全2月5日讯，据外媒报道，近日，有安全研究人员发现黑客组织正在利用社交网络Twitter的应用程序编程接口（API）将用户名与电话号码进行匹配。Twitte...
+ ## [已连续5个季度亏损，西部数据2019全年亏损额超10亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=acQ3u9ZAtu8fJ*6kc3oB8**8I5InfVOyCmvWLiwQTyxEapAKnjv0d*NVpiB12tJwPq67GQ8OzqihRkA8V3bOQ1-fbTtH2ZcSgAS-4MkgMAsYQBTI9hb7cj1TLH5vMrpA&new=1)
+ > 受全球经济放缓及NAND Flash价格大幅度波动的影响，西部数据上季度亏损高达1.39亿美元，已连续累积5个季度亏损，2019全年累积亏损高达11.93亿美元。西部数据预计2020年NAND Flash产业供应将低于30%，市场供需将...
+ ## [从新冠疫情看智慧城市建设的重要性](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=m2Ky-KK*Rj35Fshkzz9XoVSI5G*XlCT2Uhi**a0eX76d7mEj73vbE0lBT291eTpOCHzu-1r6fEUJxMWkoC983bs8CKxHMrZymf-GY*n6SgIwWSHeY36h2pSKNeD2GWRV&new=1)
+ > 摘要 每一次突发事件都是考验领导者的智慧，考验城市的综合治理水平。在城市规模日益扩大、城镇化率越来越高的今天，传统的城市治理模式越来越难以适应，依靠技术手段科学治理城市显得越来越重要。关键词：智慧...
+ ## [辅助疫情研判、创新诊疗模式……国家卫健委要求加强信息化支撑新型冠状病毒感染的肺炎疫情防控工作](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=Id8su31VT9LPu4tb14-TErnzM*3TuaS*6eACd-3dOtGEiqu*CJdEk590QLEMsR72Li-enTKAdf1WmwTpMmeKvL63SvqOsw-mPfmPGphIFOw32cpYXpe*MJgXUIGrSK88&new=1)
+ > 2020年2月4日，国家卫健委规划发展与信息化司发布通知，要求各地充分发挥信息化在辅助疫情研判、创新诊疗模式、提升服务效率等方面提升信息化支撑作用，切实做好疫情发现、防控和应急处置工作（以下简称“通知”...
+ ## [面对疫情，华为在干什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=Qx4*mflZX7qhpEpGZhSX*Unl*hnhocRhfnBJ8fDHsPEyzvy*ESu*oYyb-Ykn-tvSfFtwLW68xscN4ry7TdG4kdnIdIb8YPh-IFcet9*ciYtp2v3F7znCJ8yDJHBV-k2m&new=1)
  > 面对灾难，优秀的企业应该如何作为？其他企业应从中得到什么启示？疫情之时，华为在干什么？2020年1月26日，华为宣布：向武汉市慈善总会捐赠3000万元人民币用于疫情防控。同时，向所有战斗在最前线的医务、防疫...
- ## [重磅!中关村连夜征集138项黑科技加入肺炎阻击战](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=Mbsujn2Q24JGv49-ES4wALEGrIazXreXgEGazoyybqf*YMnLg4gf3NPDrTB4elQTZXMqUJlqRAsOtHUTlN-EebVS1E4kioD-tabs8Lb1hw8DBQcG1RFF2V2KOOA6kOkP&new=1)
+ ## [重磅!中关村连夜征集138项黑科技加入肺炎阻击战](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=Mbsujn2Q24JGv49-ES4wALEGrIazXreXgEGazoyybqcJIeV2*l*dc8TbRumLC5UiXYcepmf7n2wdEsoZmm7klixBnKDrLkFAeUg4DDerCSHWG2k1D38qXHhp-aAO8fnW&new=1)
  > 看点：中关村驰援武汉！AI企业亮剑，响应工信部号召。“疫情防控急需就是动员令，就是冲锋号。”今天，工信部向人工智能相关学（协）会、联盟、企事业单位号召，充分发挥人工智能赋能效用，协力抗击新型冠状病毒...
- ## [“这几天都是双11”远程办公刚需爆棚](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=i5S9eDeGA7yvT*4cvYT7aghFcTOOzycJXjol7KlNXGb7zLnvDD9hVzqAchOxlv3TTtkTv3PTwBYw0mg4NPQ3BCix76uD4Mpy4SmhkTroxi8=&new=1)
+ ## [中国电信2019年12月4G用户数增加 宽带用户数增长情况让人奇怪](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=wKmACEnnfyRGIBj7mt67M9A6zDsjd59I-YVqrRRmlWNqmpaQt5bdxHa-yX6Log866Ig-297P2IICvwcqN7mRFw9BuSutPhzn*fK5wyerJaMEARNWDm2g0ftHeSITZD03&new=1)
+ > 运营商财经网讯 1月21日，中国电信公布了2019年12月运营数据，结果并不如人意。数据显示，中国电信12月移动用户数净增118万户，累计达到3.36亿户；4G用户数当月净增124万户，累计到达2.81亿户。而从11月运营数据...
+ ## [“这几天都是双11”远程办公刚需爆棚](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=i5S9eDeGA7yvT*4cvYT7aghFcTOOzycJXjol7KlNXGa0tpWD0gZ3JO9zb-hU9n0yc86k7AJbE10m3u8emxPjRIaCF9gHbHdsxASyPFqx7NA=&new=1)
  > 2月3日开工第一天，数百万企业使用企业微信，达到去年同期的3倍。同期，包括钉钉、企业微信、猿辅导在内的多个在线办公及教育网站遭遇限流，随后又被紧急修复。　　记者注意到，受新型冠状病毒感染的肺炎疫...
- ## [“智斗”疫情，哪些通信黑科技在使劲?](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=DAZREqeSCX4BwUiryljQvFVS0jGS0Rm4InuB4yCfpBNJrZcpi7R5GmxKc2lLkQgnjAupexAuSmMk1hM0vL6LErsxrJN4SCd9zH*GV8KQrvSB*5xpqrIxI9Y5Y4DxgWum&new=1)
+ ## [“智斗”疫情，哪些通信黑科技在使劲?](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=DAZREqeSCX4BwUiryljQvFVS0jGS0Rm4InuB4yCfpBPUd4jJTzV7Dd*RreGpIXhsZzCTnLfzI6rMYDePDJKMDYBw-jpIr6mO9dJ-N9igFeC2X3zB0tpu1DHPmfQzSEFm&new=1)
  > 【摘要】抗击重大疫情中，远程医疗、 5G与人工智能、大数据、云计算等的应用结合，展示了黑科技的力量。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：通信产业网本文来源：通信产业网（ccidcom）杂谈...
- ## [AGST-LTE 无线宽带多媒体数字集群通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=rjERFxtSe7NWgZXkOah6LhD7Kqx3lmjt6kBbpIKc2sEnt2H9PWmQ1djCXGlOyf8Kv6mlqMcBH-x-0SM4HTvUCUMTqFt00KxfJqM3I3RmtOabeVsD5l6c1s6YFayML60u&new=1)
+ ## [AGST-LTE 无线宽带多媒体数字集群通信系统](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=rjERFxtSe7NWgZXkOah6LhD7Kqx3lmjt6kBbpIKc2sESAUldybIHLkiPiW5xcAczUiXtzswzRI6TAkiCwlVh2ZxnmQGfoSPm00x0r2VEPkI2AeW3BgVLXATCzIAmfebb&new=1)
  > AGST-LTE 无线宽带多媒体数字集群通信系统1 系统简介AGST-LTE 无线宽带多媒体数字集群通信系统(简称 LTE 宽带集群系统)是一 套遵循 TD-LTE 技术体制，符合 B-TrunC 数字宽带集群标准，完全自主研 制生产基站侧
- ## [对美国国家安全造成威胁?华为中兴“怒怼”FCC](http://mp.weixin.qq.com/s?src=11&timestamp=1580866250&ver=2139&signature=abPiZPVFOajPx8ly8qhWs*CdT77bRBCSgT6LWMuoWVjFOvp88zYmmjug9Tc5hDlq3FwMIqYerUjKxBUhL3kSb3AgSM0XhjFTT2SNyGW1KbwvZRd7h0q99EZht8QIgZR9&new=1)
+ ## [对美国国家安全造成威胁?华为中兴“怒怼”FCC](http://mp.weixin.qq.com/s?src=11&timestamp=1580874757&ver=2139&signature=abPiZPVFOajPx8ly8qhWs*CdT77bRBCSgT6LWMuoWVg37xF2ut9XYsW*v4Qyo6mhlM57doCFLydcQMWjGf1Giz4gZ0EfV7iHw11zT*ljYrrc9rf6eJvXCvYNJktau1Go&new=1)
  > 今（4）日消息，针对去年11月，美国联邦通信委员会（FCC）宣布禁止美国电信运营商使用政府项目资金购买中国华为和中兴公司的设备一事，华为、中兴做出回应。作者｜Vivian   校对｜Jurnan集微网原创文章，转载请...
 # IT 技术 
  ## [请别再把深度学习与机器学习混为一谈了！](http://ai.51cto.com/art/202002/609927.htm)
@@ -66,68 +74,70 @@ categories: IT NEWS
  > 五招帮你优化混合云管理
  ## [《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发](http://news.51cto.com/art/202002/609885.htm)
  > 《柳叶刀》最新文章：主要城市疫情将滞后武汉1-2周爆发
+ ## [你要问我应用层？我就和你扯扯扯](http://network.51cto.com/art/202002/609970.htm)
+ > 网络应用是计算机网络存在的理由，一批早起的网络应用主要有电子邮件、远程访问、文件传输等，但是随着计算
+ ## [物联网设备安全吗?应该问自己7个问题](http://iot.51cto.com/art/202002/609966.htm)
+ > 本文将探讨企业在采用物联网设备时应该问自己的几个问题，并提供一些答案，以帮助其使物联网设备尽可能地安
+ ## [公共部门和私营部门采用云计算面临的四个常见挑战](http://cloud.51cto.com/art/202002/609964.htm)
+ > 进入2020年，很多组织都将继续面临四个关键的云计算挑战，即资源、网络安全、数据主权，以及选择云计算提供
+ ## [2020年的5个云计算发展趋势](http://cloud.51cto.com/art/202002/609962.htm)
+ > 2020年云计算市场竞争将更加激烈，供应商需要了解企业在云应用中的实际情况。以下是2020年需要关注的五种云
+ ## [全球浏览器市场份额出炉 谷歌Chrome屠榜 国产UC浏览器名列前茅](http://os.51cto.com/art/202002/609968.htm)
+ > 近日，国外统计公司Statcounter公布了全球浏览器市场份额调查数据。在全球范围内，无论是移动端还是桌面端
+ ## [疫情下，采购人需要应对的十大挑战](http://cloud.51cto.com/art/202002/609957.htm)
+ > 面对来势汹汹的新型肺炎疫情，春节假期本有的美好已然泡汤不说，面对线上复工，一件件紧急棘手的工作摆在企
+ ## [用数据告诉你，新型冠状病毒传染性有多强_技术栈微信半月刊第58期](http://news.51cto.com/art/202002/609954.htm)
+ > 51CTO技术栈微信半月刊第五十八期，为您分享最热门，最前沿关于开发架构、系统运维、大数据、人工智能等一
+ ## [2020年美国总统大选会受国外黑客干扰？](http://netsecurity.51cto.com/art/202002/609952.htm)
+ > 美国大选不仅可以说是全球舞台上非常有影响力的选举，而且在2016年总统大选期间对克林顿竞选者约翰・波德斯
  ## [如何修复Windows 10损坏的系统文件？](http://os.51cto.com/art/202002/609944.htm)
  > 这些系统文件被损坏的原因有很多，在大多数情况下，几乎不可能手动修复损坏的文件。不要烦恼，因为我们在这
  ## [我珍藏的Bash秘籍](http://os.51cto.com/art/202002/609943.htm)
  > 在本文中，我分享了我最喜欢的这些助手命令，对于我经常遗忘的事情，它们很有用，也希望这可以帮助到你，以
- ## [程序员硬核劝告：现在还不是出门的时候](http://news.51cto.com/art/202002/609945.htm)
- > 憋疯了？在家宅不下去了？想出去透透气了？千万别！虽然你对疫情已经麻木了，觉得没什么大碍了。
- ## [数据科学入门选R还是Python？这次你自己挑](http://developer.51cto.com/art/202002/609946.htm)
- > 如果你想学习数据科学，你首先需要做的就是掌握一些基本的数据处理，并开始学习编程，当你没有在电脑前的时
- ## [你的假期应用AI书单：想学好人工智能，从这6本书开始吧~](http://ai.51cto.com/art/202002/609941.htm)
- > 如果你是一个想要了解如何在组织中使用人工智能，以及部署这一新兴技术的最佳方法的商业领袖或数据专业人士
- ## [疫情“大考”面前须善用大数据](http://bigdata.51cto.com/art/202002/609940.htm)
- > 当前，大数据技术已被用来锁定感染源及密切接触人群，及时发现潜在感染者，为疫情防控提供决策依据。
- ## [抗击疫情，中国三大运营商提供了哪些5G技术支持？](http://network.51cto.com/art/202002/609938.htm)
- > 众所周知，随着社会各产业发展的需求变化，5G、AI以及大数据等新技术风口密集爆发，为传统行业赋能全新价值
- ## [跟我学 “Linux” 小程序Web版开发（三）：云开发相关数据调用](http://developer.51cto.com/art/202002/609942.htm)
- > 在完成了界面的实现后，接下来可以开始进行和云开发相关的数据对接。完成数据对接后，应用基础就打好了，接
- ## [开发者必看！KISS、DRY和需要遵守的编码原则](http://developer.51cto.com/art/202002/609935.htm)
- > 开始编程时遇到的第一个挑战是编写功能代码。但成为开发者后，编程技能也会随之增长。本文将会介绍助你实现
- ## [物联网常见攻击汇总](http://iot.51cto.com/art/202002/609934.htm)
- > 来这篇文章我要给大家提出一些从网络涉及到物联网的攻击，这些攻击通常来自于每个网络的常见和特定攻击，并
- ## [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](https://blog.csdn.net/dyc87112/article/details/104173736)
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [\[网络安全自学篇\] 四十五.病毒详解及批处理病毒制作（自启动、修改密码、定时关机、蓝屏、进程关闭）](https://blog.csdn.net/Eastmount/article/details/104146757)
  > 
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
  > 
- ## [标记——整理回收](https://blog.csdn.net/luliuliu1234/article/details/104058259)
- > 标记——整理回收
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ ## [Python爬虫入门教程 18-100 煎蛋网XXOO图片抓取](https://blog.csdn.net/hihell/article/details/83506308)
+ > Python爬虫入门教程 18-100 煎蛋网XXOO图片抓取
+ ## [作为一个程序员，CPU的这些硬核知识你必须会！](https://blog.csdn.net/sinat_33921105/article/details/104066631)
+ > 作为一个程序员，CPU的这些硬核知识你必须会！
+ ## [强烈推荐10本程序员在家读的书](https://blog.csdn.net/qing_gee/article/details/104085756)
  > 
- ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
+ ## [Python全栈（四）高级编程技巧之5.Socket编程-基本概念、UDP发送与接收数据](https://blog.csdn.net/CUFEECR/article/details/104147766)
  > 
- ## [CPU 是什么？](https://blog.csdn.net/weixin_39966065/article/details/104173300)
- > CPU 是什么？
- ## [全国计算机三级网络技术20天保过指南](https://blog.csdn.net/m0_46153949/article/details/104168820)
- > 全国计算机三级网络技术20天保过指南
- ## [抗击新型肺炎病毒，基因行业在行动](https://blog.csdn.net/xxxie_/article/details/104175249)
- > 抗击新型肺炎病毒，基因行业在行动
- ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
- > 究竟你适不适合买Mac？
- ## [python数据分析与展示学习笔记（5）分割绘图区域——画饼图、直方图和散点图](https://blog.csdn.net/weixin_42040221/article/details/104171227)
- > python数据分析与展示学习笔记（5）分割绘图区域——画饼图、直方图和散点图
- ## [Network topology design at 27,000 km/hour](https://blog.csdn.net/weixin_43116425/article/details/104092082)
- > Network topology design at 27,000 km/hour
- ## [VUE生命周期总结以及created和mounted比较](https://blog.csdn.net/xxwyxlf/article/details/104175421)
- > VUE生命周期总结以及created和mounted比较
- ## [windows版sourceTree 免登录安装，小白教程，超级简单](https://blog.csdn.net/RedaTao/article/details/104171068)
- > windows版sourceTree 免登录安装，小白教程，超级简单
- ## [ESP8266学习笔记（17）——搭建环境、编译烧写（RTOS SDK）](https://blog.csdn.net/qq_36347513/article/details/104175273)
- > ESP8266学习笔记（17）——搭建环境、编译烧写（RTOS SDK）
+ ## [移动端程序员跳槽如何做好面试题准备，将面试成功率提高80%？](https://blog.csdn.net/weixin_44339238/article/details/104161568)
+ > 移动端程序员跳槽如何做好面试题准备，将面试成功率提高80%？
+ ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
+ > 
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [\[数据结构与算法\] 邂逅栈](https://blog.csdn.net/qq_43371556/article/details/103949397)
+ > 
+ ## [OpenGL ES for Android 绘制旋转的地球](https://blog.csdn.net/mengks1987/article/details/104157802)
+ > 
+ ## [《阿里巴巴Java开发手册》码出高效详解（一）- 为什么要学习阿里编码手册](https://blog.csdn.net/qq_33589510/article/details/104126215)
+ > 
+ ## [从Python取数到BI分析，它只用10分钟就做出了疫情可视化](https://blog.csdn.net/yuanziok/article/details/104167163)
+ > 从Python取数到BI分析，它只用10分钟就做出了疫情可视化
+ ## [Python全栈（四）高级编程技巧之6.Socket编程-TCP客户端和服务端](https://blog.csdn.net/CUFEECR/article/details/104156563)
+ > 
  ## [战疫，微软资深高管的十余年远程办公管理经验](https://blog.csdn.net/csdnnews/article/details/104177785)
- > 微软的传奇不止于员工从不需要上下班打卡，而是整个企业年复一年、日复一日的跨国协同。微软的员工分布在全球各地，它是如何协同全球员工，打造全世界市值万亿美元的公司。出品 | 微软科技（ID：...
+ > 微软的传奇不止于员工从不需要上下班打卡，而是整个企业年复一年、日复一日的跨国协同。微软的员工分布在全球各地，它是如何协同全球员工，打造全世界市值万亿美元的公司。出品 | 微软科技（ID：mstech2014）CSDN 经授权分享2020 年鼠年春节假期已过，本来要收心上班了。但势头...
  ## [为什么机器学习在嵌入式系统中会失败？](https://blog.csdn.net/csdnnews/article/details/104177788)
  > 作者 |Andrew Zhuravchak译者 |弯月封图 | CSDN 下载自 VCG出品 | CSDN（ID：CSDNnews）如今，机器学习已到达巅峰，并在各个领域得到了应用。...
  ## [疫情当下，你是在家里躺着刷抖音？还是在做这些？](https://blog.csdn.net/csdnnews/article/details/104177789)
  > 2020年本来可以是很开心的一年没想到一开头就给了我们一个重重的一击疫情的出现让我们非常的恐慌新型病毒肺炎让我们无处可躲原来热闹的新年因为疫情让我们逼不得已只能待在家里走亲访友更是不可能...
  ## [刚刚，阿里云上线六大“战疫情”项目](https://blog.csdn.net/csdnnews/article/details/104177793)
- > 作者 | Just出品 | CSDN 云计算（CSDNcloud）抗击新冠肺炎，一线互联网大厂在行动。疫情发生以来，诸多科技公司都在思考如何利用技术来帮助抗击疫情，其中，阿里巴巴也是首当...
+ > 作者 | Just出品 | CSDN 云计算（CSDNcloud）抗击新冠肺炎，一线互联网大厂在行动。疫情发生以来，诸多科技公司都在思考如何利用技术来帮助抗击疫情，其中，阿里巴巴也是首当其冲。今天，阿里云上线了“战疫情”专题页面，其中囊括了目前所有阿里推出的抗击疫情公益项目，主要包...
  ## [疫情期间我们与你同在：关爱障碍群体刚需，坚持做无障碍的倡议书](https://blog.csdn.net/csdnnews/article/details/104177783)
- > 【CSDN编者按】新型冠状病毒感染的肺炎疫情发生以来，障碍群体（视障者、听障者、肢体残障者、读写障碍者、老年人等）也一样积极响应号召，战疫情，不出门，戴口罩，通过互联网了解疫情实况、学习...
+ > 【CSDN编者按】新型冠状病毒感染的肺炎疫情发生以来，障碍群体（视障者、听障者、肢体残障者、读写障碍者、老年人等）也一样积极响应号召，战疫情，不出门，戴口罩，通过互联网了解疫情实况、学习如何防控。疫情期间，障碍群体与全国人民一样，在隔离期有更强烈的信息无障碍需求，特别是疫情地区的障碍人士。由深圳市.
  ## [看完这篇垃圾回收，和面试官扯皮没问题了](https://blog.csdn.net/csdnnews/article/details/104177786)
- > 作者 |码海来源|码海（ID:seaofcode）责编 | 伍杏玲Java 相比 C/C++ 最显著的特点便是引入了自动垃圾回收 (下文统一用 GC 指代自动垃圾回收)，它解决了 ...
+ > 作者 |码海来源|码海（ID:seaofcode）责编 | 伍杏玲Java 相比 C/C++ 最显著的特点便是引入了自动垃圾回收 (下文统一用 GC 指代自动垃圾回收)，它解决了 C/C++ 最令人头疼的内存管理问题，让程序员专注于程序本身，不用关心内存回收这些恼人的问题，这也是 Ja...
  ## [远程会议总卡顿？8 个“小白”办法一看就会！](https://blog.csdn.net/csdnnews/article/details/104177787)
- > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）今天是在家办公的第二天，洗头了吗？刷牙了吗？远程会议中的你，有状态吗？很多人说，通过远程会议，看到了同事穿睡衣的样子。还有的领...
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）今天是在家办公的第二天，洗头了吗？刷牙了吗？远程会议中的你，有状态吗？很多人说，通过远程会议，看到了同事穿睡衣的样子。还有的领导，提前跟同事说，给你们三十分钟，都去洗洗头再来开会昂！真贴心无疑了！话说昨天是2月3日，也...
  ## [疫情期间不忽略障碍群体刚需、仍坚持做无障碍的倡议书](https://blog.csdn.net/csdnnews/article/details/104169465)
  > 疫情期间我们与你同在：关爱障碍群体刚需，坚持做无障碍的倡议书新型冠状病毒感染的肺炎疫情发生以来，障碍群体（视障者、听障者、肢体残障者、读写障碍者、老年人等）也一样积极响应号召，战疫情，不出门，戴口罩，通过互联网了解疫情实况、学习如何防控。疫情期间，障碍群体与全国人民一样，在隔离期有更强烈的信息...
  ## [远程办公一晃一天，环境搭建履步维艰](https://blog.csdn.net/csdnnews/article/details/104168992)
@@ -139,53 +149,59 @@ categories: IT NEWS
  ## [魔幻！过年在家，Java和Python程序员比工资打起来了...](https://blog.csdn.net/csdnnews/article/details/104177784)
  > Python真的野蛮生长到不行了？最近，笔者在某网站刷到一条信息，两个程序员在家比工资，竟然打起来了！原因就是从事5年开发的Java程序员竟然工资输给了工作仅2年的Python程序员！从...
 # 人工智能 
- ## [Android 开发中问题收集（六）：将自己应用添加到微信和QQ其他应用列表](https://blog.csdn.net/baidu_31956557/article/details/100125376)
- > Android 开发中问题收集（六）：将自己应用添加到微信和QQ其他应用列表
- ## [解决Android studio升级到3.5的一些问题](https://blog.csdn.net/qq_33208896/article/details/100100255)
- > 解决Android studio升级到3.5的一些问题
- ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
- > android studio安装教程
- ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
- > 小米airdots双耳串联问题解决
- ## [手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费](https://blog.csdn.net/ccyhq/article/details/100545145)
- > 手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费
- ## [无需越狱iphone 微信双开分身免费获取方法](https://blog.csdn.net/wik_123/article/details/100914872)
- > 无需越狱iphone 微信双开分身免费获取方法
- ## [解决WH1000XM3连接电脑无法使用麦克风问题](https://blog.csdn.net/weixin_37993251/article/details/100627133)
- > 解决WH1000XM3连接电脑无法使用麦克风问题
- ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
- > Android studio 3.5安装详解
- ## [从零开始的立绘拆包教程](https://blog.csdn.net/Conyrol/article/details/96781786)
- > 从零开始的立绘拆包教程
- ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
- > 完美解决：Project needs to be converted to androidx.* dependencies
- ## [Android Basic](https://blog.csdn.net/wwwsssZheRen/article/details/100589632)
- > Android Basic
- ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
- > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
- ## [手机如何搞定网易云音乐的代理？实现VIP免费听歌！](https://blog.csdn.net/liliangpin/article/details/101044268)
- > 手机如何搞定网易云音乐的代理？实现VIP免费听歌！
- ## [Android面试题大全（中高级）](https://blog.csdn.net/amogin/article/details/81450434)
- > Android面试题大全（中高级）
- ## [Unity安卓 Failed to extract resources needed byIL2CPP](https://blog.csdn.net/weixin_43149049/article/details/100706190)
- > Unity安卓 Failed to extract resources needed byIL2CPP
+ ## [Bootstrap Table数据表格的使用指南](https://blog.csdn.net/qq_40205116/article/details/97031023)
+ > Bootstrap Table数据表格的使用指南
+ ## [计算文件 MD5](https://blog.csdn.net/tangran0526/article/details/100888776)
+ > 计算文件 MD5
+ ## [VSCode详细使用教程](https://blog.csdn.net/weixin_45601379/article/details/100550421)
+ > VSCode详细使用教程
+ ## [推荐几个非常不错的富文本编辑器](https://blog.csdn.net/qq_38200194/article/details/100129740)
+ > 推荐几个非常不错的富文本编辑器
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [在官网下载nodejs和git速度慢的解决方案](https://blog.csdn.net/weixin_43606158/article/details/100609856)
+ > 在官网下载nodejs和git速度慢的解决方案
+ ## [如何绕过：浏览器调试的时候进入Paused in debugger的状态](https://blog.csdn.net/qq_37462361/article/details/100934355)
+ > 如何绕过：浏览器调试的时候进入Paused in debugger的状态
+ ## [学习资源推荐](https://blog.csdn.net/qq_42813491/article/details/90213353)
+ > 学习资源推荐
+ ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ > 
+ ## [Vue tinymce富文本编辑器整合](https://blog.csdn.net/liub37/article/details/83310879)
+ > Vue tinymce富文本编辑器整合
+ ## [BootstrapValidator，简单而实用的表单验证插件](https://blog.csdn.net/qq_40205116/article/details/97027846)
+ > BootstrapValidator，简单而实用的表单验证插件
+ ## [web前端知识集合——javascript基础篇之javascript背景历史和运行环境（一）](https://blog.csdn.net/qq_42231156/article/details/95592133)
+ > web前端知识集合——javascript基础篇之javascript背景历史和运行环境（一）
+ ## [webpack 错误 Module build failed (from ./node_modules/css-loader/dist/cjs.js): CssSyntaxError](https://blog.csdn.net/u011944141/article/details/100164652)
+ > webpack 错误 Module build failed (from ./node_modules/css-loader/dist/cjs.js): CssSyntaxError
+ ## [django+ajax实现前后端分离登录功能](https://blog.csdn.net/weixin_39142498/article/details/100124243)
+ > django+ajax实现前后端分离登录功能
+ ## [关于template标签用法总结(含vue中的用法总结)](https://blog.csdn.net/u010510187/article/details/100356624)
+ > 关于template标签用法总结(含vue中的用法总结)
 # PM 
- ## [如何搭建完美的产品初始团队？](http://www.woshipm.com/chuangye/3354194.html)
- > 如何搭建完美的初始团队？本篇文章围绕初始团队的金三角模型进行了梳理分析，与大家分享。成也萧何败萧何，一个好的初始团队能让初创公司起飞，也能让它堕落。所以，...
- ## [运营人2020跳槽指南](http://www.woshipm.com/zhichang/3361917.html)
- > 不管经济如何走，只要我们的人生曲线是往上走的就行。马云说过，员工跳槽的原因只有两个，钱给少了或者干的不爽。有视野的人看问题就是不一样，一句话就把员工离职的...
- ## [产品经理懂点技术之：4K/8K](http://www.woshipm.com/pmd/3360870.html)
- > 近年来，4K、8K超高清可谓火爆，连2020年的央视春晚，都出现了他们的身影。本文将简单介绍一下什么是分辨率、4k/8k的创新、难点及前景的内容。分辨率与像素分辨率又...
- ## [我在零售巨头做新零售（七）：多触点运营](http://www.woshipm.com/newretail/3358415.html)
- > 在腾讯智慧零售连接方向和企业内容战略化方向明确后，整合全渠道业务，线上线下相互赋能，多触点运营是推动新零售的下一步工作。腾讯智慧零售的超级连接概念逐步渗透...
- ## [AI驱动下，用产品思维来布局面向未来的营销](http://www.woshipm.com/kol/3302115.html)
- > 在人人都是产品经理举办的【 2019深圳产品经理大会】上，腾讯市场总监、《内容引爆增长》作者王子乔，他的分享主题是《AI驱动下，用产品化思维布局未来营销》在过去的...
- ## [客户旅程：整体战略如何推动获利增长？](http://www.woshipm.com/user-research/3198283.html)
- > 本文分享了什么是客户旅程，以及如何绘制旅程和如何使用它来降低成本、增加收入并创造更好的客户体验。概述：以客户为业务核心的公司比竞争对手更具利润。最大的增长...
- ## [李子柒的口碑营销研究](http://www.woshipm.com/marketing/3358783.html)
- > 网络红人之所以能够获得关注，其流量变现的产品成为爆款背后的原因有许多，本文选以口碑营销作为理论基础，对李子柒进行口碑营销的研究。一、绪论近年来，互联网经济...
- ## [线上课程丨宅在家里太无聊？不如想想年后怎么晋升涨薪？](http://www.woshipm.com/online/3365693.html)
- > 经常有人问，如果我转行做产品经理，那么我能拿多少薪资？或者，我已经做了这么久的产品基础工作了，为什么还不给我涨薪呢？如上图，产品从业经验和薪资随之增长，但...
+ ## [「数据分析师」职场进阶指南：避免沦为取数工具人](http://www.woshipm.com/data-analysis/3364276.html)
+ > 对数据分析师来说，要想避免沦为取数、跑数的工具人命运，就明确并巩固自己的优势与价值。因此明确数据分析师的成长路径、能力要求、能力提升方法就显得格外重要。而笔...
+ ## [产品经理，警惕你的能力陷阱！](http://www.woshipm.com/pmd/3361130.html)
+ > 很多时候影响我们的是看不见的，看的见的我们能够很好的去掌控。愿你能够不要忘记因为什么开始，不要在中途迷失自己的方向，能够成为更好的自己。现实中很多产品经理...
+ ## [12306的放票逻辑是什么？](http://www.woshipm.com/pd/3359943.html)
+ > 作者从自己的一个购票经历出发，探究分析了购票网站12306的放票逻辑，并从三个方面进行了总结，与大家分享。今天准备买黄冈到广州的开学车票，然后发现余票很充足，但...
+ ## [万字长文解析：如何做好TO B产品？](http://www.woshipm.com/pd/3360568.html)
+ > 这个被修昔底德陷阱笼罩的资本世界，并不会手捧鲜花迎接来我们的成功。历史之势从来不是无心为之，那这次为什么是TO B呢？要如何做好TO B 产品呢？本文是作者对自己五年...
+ ## [2020，国货彩妆的四点猜想](http://www.woshipm.com/it/3365361.html)
+ > 过去的一年中，国货崛起的观点经常被提及，而彩妆作为国潮中的支柱产业更是取得了不俗的成绩。基于往期成绩，本文也对国货彩妆在2020年的表现展开了新的思考与期待。...
+ ## [写给产品小白：年后求职黄金期，如何提升产品入行机会？](http://www.woshipm.com/online/3365991.html)
+ > 随着疫情的发展，很多想在春季求职产品经理的小伙伴，除了在家关注疫情的进展，就是在担忧今年【金二银三】产品求职该怎么办——不论你是刚领完年终奖，准备转岗/跳槽产品...
+ ## [从数据挖掘角度看，国货美妆HEDONE的小红书投放策略](http://www.woshipm.com/operate/3359733.html)
+ > 内容营销不仅成功地向用户传递了品牌心智，更有效支撑了店铺销售额的增长。HEDONE在小红书平台上的投放以数据为导向，不断追求投放的性价比。那文章主要跟大家讨论HEDON...
+ ## [设计思考：双击对方的微信头像，为什么会晃？](http://www.woshipm.com/pd/3362697.html)
+ > 在微信里，快速双击对方的头像，头像会晃动一下，这个隐藏很深的功能有什么意义？本文作者从场景和设计原则两个方面对此进行了分析探究。在微信里，快速双击对方的头...
+ ## [新世代下，关于产品需求新趋势的思考](http://www.woshipm.com/pmd/3345957.html)
+ > 供需关系的改变，移动互联网和物联网的发展，客户观念变化对整个商业生态的改变和颠覆巨大无比，产品作为商业中最重要的部分，首当其冲。传统的部分关于产品开发及营销...
+ ## [校招面试官：校招面试你为什么失败了？](http://www.woshipm.com/zhichang/3362682.html)
+ > 你有校招面试失败了的经历吗？以前的面试经历大多是从面试者的角度，本文从面试官的视角，梳理解析了校招面试需要注意的几个要点，供大家一同参考和学习。土豆在BAT从...
+ ## [做一个产品，8+3+4+5](http://www.woshipm.com/pmd/3359162.html)
+ > 我先简单的介绍一下我自己，我是一个入行多年的产品老人，有企业信息化类、电商全流程业务类的工作经验，目前是一名物流供应链领域的产品经理。今天是我在互联网平台的...
  ## [当疫情过后，“远程办公”命运几何？](http://www.chanpin100.com/article/110664)
  > “两张办公桌距离越远，他们就越没可能交流，若两张办公桌距离超过30米，他们定期交流的可能性接近于零？”
  ## [产品经理常见面试题（三）——需求/项目管理篇](http://www.chanpin100.com/article/110663)
