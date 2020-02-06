@@ -1,24 +1,57 @@
 ---
 title: 2020-02-06 IT News
 copyright: true
-date: 2020-02-06 10:01:03
+date: 2020-02-06 12:08:20
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】2020年2月6日 星期四</b></summary><div class="news-list-content"><p>1.&#20013;&#22830;&#24191;&#25773;&#30005;&#35270;&#24635;&#21488;&#19982;&#32593;&#26131;&#26377;&#36947;&#31934;&#21697;&#35838;&#20849;&#25512;&#8220;&#30123;&#24773;&#38450;&#25511;&#29256;&#24320;&#23398;&#31532;&#19968;&#35838;&#8221;</p>
+<p>2.&#25903;&#20184;&#23453;&#23459;&#24067;&#26071;&#19979;&#30693;&#35782;&#31649;&#29702;&#24037;&#20855;&#35821;&#38592;&#20813;&#36153;&#24320;&#25918;</p>
+<p>3.&#25658;&#31243;&#21457;&#24067;&#8220;&#21516;&#34957;&#8221;&#35745;&#21010;&#65292;10&#20159;&#20803;&#25903;&#25345;&#22522;&#37329;&#19982;&#21512;&#20316;&#20249;&#20276;&#20849;&#28193;&#38590;&#20851;</p>
+<p>4.&#38463;&#37324;&#24052;&#24052;&#21628;&#21505;&#20840;&#29699;&#20013;&#23567;&#20225;&#19994;&#20849;&#21516;&#25239;&#30123;&#65292;&#24320;&#36890;&#8220;&#38450;&#30123;&#30452;&#37319;&#20840;&#29699;&#23547;&#28304;&#24179;&#21488;&#8221;</p>
+<p>5.&#24494;&#20449;&#25903;&#20184;&#25658;&#25163;&#24494;&#20445;&#25512;&#20986;&#8220;&#26032;&#20896;&#32954;&#28814;&#20013;&#23567;&#21830;&#23478;&#20445;&#38556;&#8221;&#65292;&#30830;&#35786;&#21487;&#33719;&#27599;&#22825;1000&#20803;&#20303;&#38498;&#34917;&#36148;</p>
+<p>6.&#38081;&#36335;&#37096;&#38376;&#65306;2&#26376;6&#26085;&#21069;&#36141;&#31080;&#22343;&#21487;&#20813;&#36153;&#36864;&#65292;&#32452;&#32455;&#36710;&#20869;&#20998;&#25955;&#23601;&#22352;</p>
+<p>7.&#25945;&#32946;&#37096;&#65306;&#32452;&#32455;22&#20010;&#22312;&#32447;&#35838;&#31243;&#24179;&#21488;&#20813;&#36153;&#24320;&#25918;&#22312;&#32447;&#35838;&#31243;2.4&#19975;&#20313;&#38376;</p>
+<p>8.&#38463;&#37324;&#20877;&#21457;&#26368;&#20005;&#21475;&#32617;&#31105;&#20196;&#65306;&#35753;&#30123;&#24773;&#26399;&#38388;&#20316;&#24694;&#32773;&#20542;&#23478;&#33633;&#20135;</p>
+<p>9.&#20140;&#19996;&#20581;&#24247;&#32852;&#21512;&#20013;&#22269;&#32852;&#36890;&#25512;&#20986;&#8220;&#25239;&#20987;&#20896;&#29366;&#30149;&#27602; &#32447;&#19978;&#20581;&#24247;&#25903;&#25588;&#8221;&#27963;&#21160;</p>
+<p>10.&#20844;&#20851;&#27963;&#21160;&#21450;&#23186;&#20171;&#25512;&#24191;&#26381;&#21153;&#25552;&#20379;&#21830;&#8220;BC&#38598;&#22242;&#8221;&#33719;&#25112;&#30053;&#25237;&#36164;3600&#19975;&#32654;&#20803;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】 2020年2月5日 星期三</b></summary><div class="news-list-content"><p>1. &#25945;&#32946;&#37096;&#65306;&#21407;&#35745;&#21010;&#27491;&#24335;&#24320;&#23398;&#21069;&#19981;&#35201;&#25552;&#21069;&#24320;&#22987;&#26032;&#23398;&#26399;&#35838;&#31243;&#32593;&#19978;&#25945;&#23398;</p>
+<p>2.&#20013;&#22269;&#25903;&#20184;&#28165;&#31639;&#21327;&#20250;&#65306;&#23545;&#30123;&#24773;&#28041;&#21450;&#30340;&#29305;&#23450;&#20154;&#21592;&#37319;&#21462;&#24310;&#38271;&#20449;&#29992;&#21345;&#36824;&#27454;&#26399;&#12289;&#20813;&#25910;&#36829;&#32422;&#37329;&#12289;&#25552;&#20379;&#24449;&#20449;&#20445;&#25252;&#31561;&#25514;&#26045;</p>
+<p>3.&#24212;&#23545;&#32954;&#28814;&#30123;&#24773;&#65292;&#20013;&#22269;&#38081;&#36335;12306&#32771;&#34385;&#25512;&#20986;&#38548;&#21495;&#21806;&#31080;</p>
+<p>4.&#38025;&#38025;&#32852;&#21512;&#38463;&#37324;&#20581;&#24247;&#25512;&#20986;&#38450;&#30123;&#31934;&#28789;&#65292;&#21161;&#21147;&#20225;&#19994;&#30123;&#24773;&#38450;&#25511;</p>
+<p>5.&#39640;&#24503;&#22320;&#22270;&#19978;&#32447;&#8220;&#26080;&#25509;&#35302;&#8221;&#33647;&#21697;&#37197;&#36865;&#23567;&#31243;&#24207;&#65292;&#35206;&#30422;&#20840;&#22269;&#36229;200&#20010;&#22478;&#24066;</p>
+<p>6.&#24494;&#21338;&#35268;&#33539;&#26032;&#20896;&#30149;&#27602;&#32954;&#28814;&#27714;&#21161;&#20449;&#24687;&#65306;&#38656;&#19978;&#20256;&#35786;&#26029;&#20070;&#31561;&#20449;&#24687;</p>
+<p>7.&#26377;&#36190;&#21457;&#24067;&#8220;&#21313;&#39033;&#20030;&#25514;&#8221;&#21161;&#21830;&#23478;&#20849;&#28193;&#38590;&#20851;&#65292;&#24182;&#21457;&#24067;&#36830;&#38145;&#38376;&#24215;&#36716;&#32447;&#19978;&#32463;&#33829;&#26041;&#26696;</p>
+<p>8.&#26103;&#35270;AI&#27979;&#28201;&#31995;&#32479;&#19978;&#32447;&#65292;&#35782;&#21035;&#35823;&#24046;&#20302;&#20110;0.3&#8451;&#65292;&#22312;&#28023;&#28096;&#22320;&#38081;&#31449;&#31561;&#22330;&#25152;&#35797;&#28857;&#24212;&#29992;</p>
+<p>9.&#29454;&#32856;HRO&#183;&#21195;&#21402;&#20154;&#21147;&#25512;&#20986;&#30123;&#26102;&#8220;&#21592;&#24037;&#20849;&#20139;&#8221;&#35745;&#21010;</p>
+<p>10.&#21355;&#20581;&#22996;&#65306;&#20840;&#22269;&#26032;&#22411;&#20896;&#29366;&#30149;&#27602;&#24863;&#26579;&#30340;&#32954;&#28814;&#30149;&#27515;&#29575;2.1%</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [华为 VR Glass vs Goovis Young 这就是“我全都要”的感觉?](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=aEqAL5qpPP1G1bQIwoVb9pk*L24Odi2CpKTyG2q4WKY0IatV3shiKvca2wWWc67H9NaXsEpkp8izm0iOKWxTjoOz5b67DR*hV2BjdTxP*FsXEagclRDG0F*E8iwrWXQv&new=1)
- > 今年春节宅在家里，又不好跟长辈们抢电视看，电影院又没得去，囧妈又史无前例的网络免费放映，于是乎想起来在今年CES上，路过的一家深圳企业，看到几个用户摆弄手里类似VR眼镜的产品。VR放在2020年也不是什么稀...
- ## [\[科技早报7点整\]何小鹏称没看到特斯拉高估值的逻辑 谷歌证实自己拍的视频会出现在别人手机中……](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=Lgk*Kq5feao-fwrDj1KybV9yZZiOFL*KdEZoemmGgx8v3RJU3Q48Fw3HtdRZY9gqO8jNq0TogtcwTAufuF2iaff25IgwzKaQdExPyJqNhPDJKEOJgCu1gDLJ3BIiLNFy&new=1)
- > 早上好，科技圈【一度蜜科技早报】第712期1.教育部：组织 22 个平台免费开放在线课程 2.4 万余门针对疫情对高校正常开学和课堂教学造成的影响，教育部日前印发相关指导意见表示，截至 2 月 2 日，教育部组织 22 ...
- ## [没有GMS服务的华为Mate30能用吗?老外挑战后无奈了!](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=UgaRekQZnr1a5xWrz1mI8XRY0sfjaA9ABoqF7duOt6mDzQKsJCvhg8f7VSW0cUbwgtLcG5Q6S9TD85-F*OYbybyvjRbZojPPx8ZSBw62o1r49Us03QDzM22V8AZSJjGS&new=1)
- > 就在昨天，小智跟大家说了国际知名数据机构IDC放出了最新数据，华为手机在市场份额，出货量和同比增长率上已经全面超越了苹果，正式成为全球第二大手机厂商，实现了大嘴哥余承东几年前吹下的牛。然而我们都知道...
- ## [疫情紧迫!中国铁塔紧急通告：请大家务必..](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=7deeI1kFuyl7WlI3gVaWQHYL-NNrg1gZtqmb8Xvc8MmujM0wM2CWs7Ce*PCAYx3SdQryAHW4KxBLlhl3B23yAMuJJj8*rE9Cncs2YUWUh9squaYdsNe*walBYGF*myVO&new=1)
+ ## [高级进阶指南：240秒看懂5G天线](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=pppLFQ*khNwoEEzdarw1DoXUv5M6*MIepeGL3jTrTcHXKjdd2RREwOWuHofhHst8Ak82hQXRrTU1AN2qarOXLebVORXOTBGXIh2Lrul4lL7OkbvPbiheQrU3wfsKCcQ0&new=1)
+ > 5G天线的特征之一是使用了MIMO和波束赋形技术，而如何整合这两个技术曾经使研发人员伤透了“头发”，直到5G毫米波技术的出现……
+ ## [疫情紧迫!中国铁塔紧急通告：请大家务必..](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=7deeI1kFuyl7WlI3gVaWQHYL-NNrg1gZtqmb8Xvc8MkdRBPP8eM8bUxBMnc0WtdRjlc58*D9*b5gVNh4fa9l-TH8AmICMz5lDESZWci0KjwzqFhThEAKS89umLCp3ZqY&new=1)
  > 各乡镇区办村街，各位业主：基站是与水电暖一样的基础设施，铁塔公司是保障通信畅通、维护基站安全的中央企业。当前疫情严峻，我们进村街是为保障您能打电话、刷微信、上网购......我们的车辆和人员都每天上岗前...
- ## [高级进阶指南：240秒看懂5G天线](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=pppLFQ*khNwoEEzdarw1DoXUv5M6*MIepeGL3jTrTcFPe04WcCcL59cuNrg*GUcNsE36CH*W7KvvdYpYubIbXwpUAB5EEuOit8CCX7LSvrdOYhHSwbO1W6yLkZYJrqiB&new=1)
- > 5G天线的特征之一是使用了MIMO和波束赋形技术，而如何整合这两个技术曾经是研发人员伤透了“头发”，直到5G毫米波技术的出现……
- ## [抗击新冠肺炎，人工智能厉害还是小区大妈的人厉害?](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=tv2A3LjT8itLrdNNtAE-fi5Jd1hNjiRV-nTcxrLsURwMDIf35CtmAFGv3njN0TWaD86mA5tOTRMKIAMVGdqXGKuXm*NHPltdo2Qj5IiWZvysBjQXze5pOyljehLgV71e&new=1)
+ ## [美军海军陆战队正建新的“监管型”网络部队](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=fz-E3IO7RZBxReten0VWQXTwPdaGaJWwkEJ*2w18QtSQQTIMosmlQXiASIdIO7k8wpP9wLX9HtPFqTEai26o3YKTYO5jimDu8anXWdlFi49rO9xYlAGfwaW1NgkJ6lpf&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全2月6日讯，据外媒报道，美国海军陆战队（USMC）正在建立新的网络营和连，以加强对其网络的监督和指挥控制。报道称，这些新的网络营队和联队是美军减少负...
+ ## [阿里再发最严口罩禁令；铁路再次调整免费退票；iOS 13.4 测试版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=AUYY3hJDTghC53qe-rZ9ChqX4AoWg5hekEwWIuM2N5HT5OJoRXt5SAabNIvNtPTE9qaoQ6E8S5gemecPspKDrle49ZIHwtypOCLsIXO2c8glgVhnhy5YItsez*X0m9xc&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [\[科技早报7点整\]何小鹏称没看到特斯拉高估值的逻辑 谷歌证实自己拍的视频会出现在别人手机中……](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=Lgk*Kq5feao-fwrDj1KybV9yZZiOFL*KdEZoemmGgx-Tq061pgVsjQAj8aVAe7z7aWBmyduNagkeiVRqL-7d2oACIVGbD0V06kOFu8k23LAw-OxoFfzmfnPClxb3aRr3&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第712期1.教育部：组织 22 个平台免费开放在线课程 2.4 万余门针对疫情对高校正常开学和课堂教学造成的影响，教育部日前印发相关指导意见表示，截至 2 月 2 日，教育部组织 22 ...
+ ## [没有GMS服务的华为Mate30能用吗?老外挑战后无奈了!](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=UgaRekQZnr1a5xWrz1mI8XRY0sfjaA9ABoqF7duOt6nnAh1hLOqSRsKmbyUquim0O8DdcA8CzSPHYZdV-Ce6a*sYUavKAQA8Vd6RAzvoxCYKC73eB9w8jCXfSWwHvbUJ&new=1)
+ > 就在昨天，小智跟大家说了国际知名数据机构IDC放出了最新数据，华为手机在市场份额，出货量和同比增长率上已经全面超越了苹果，正式成为全球第二大手机厂商，实现了大嘴哥余承东几年前吹下的牛。然而我们都知道...
+ ## [华为 VR Glass vs Goovis Young 这就是“我全都要”的感觉?](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=aEqAL5qpPP1G1bQIwoVb9pk*L24Odi2CpKTyG2q4WKadTLHz1J3bnLa9SKulpudj3h7UMIIrGOMl5F7Q2I7dP7YG-lrG3y80OpYLK0ybEMwVoRVV0dmxklXucoqEEvpa&new=1)
+ > 今年春节宅在家里，又不好跟长辈们抢电视看，电影院又没得去，囧妈又史无前例的网络免费放映，于是乎想起来在今年CES上，路过的一家深圳企业，看到几个用户摆弄手里类似VR眼镜的产品。VR放在2020年也不是什么稀...
+ ## [抗击新冠肺炎，人工智能厉害还是小区大妈的人厉害?](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=tv2A3LjT8itLrdNNtAE-fi5Jd1hNjiRV-nTcxrLsURxv7RU2brt-iqxn8CuymW40Ztv27WZUzrxJhz2GCNCgidAeUxi3xFlbeFjsvAVFHx7NuYtxQpLJVQU95hPyxI9h&new=1)
  > 【摘要】科技应该 比人厉害！如果没有比人厉害，那是人的问题。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：陈志刚本文来源：水煮通信（shuizhutongxin）杂谈投稿邮箱：631255063@qq.com人工智能，在
- ## [5G、人工智能、大数据，诸多黑科技助力打好这场防疫战](http://mp.weixin.qq.com/s?src=11&timestamp=1580952604&ver=2141&signature=XKWOEQce*wgcY04UjlP2dDR8Y34O0EA*gn537o1Q*lgImDEQ8D2ZCyn0XYPUqeoOu7ufq84mvu4UuoEGDXPUSiHyLhLHjYJPSK00nFTBtRxWyGoYm2G382TT04RzxjdZ&new=1)
+ ## [5G、人工智能、大数据，诸多黑科技助力打好这场防疫战](http://mp.weixin.qq.com/s?src=11&timestamp=1580961656&ver=2141&signature=XKWOEQce*wgcY04UjlP2dDR8Y34O0EA*gn537o1Q*liXLwI12hJkJQY2XX6OrqRGe6yXIjrRX*vhlQ*AQQ0EkIdviNU7CdRGKY7RvByDmOHkbaHk3are3OiVVS0E5*aG&new=1)
  > Lab观察导读现在的新型冠状病毒慌的一匹……文/白杨相信这段时间，很多人在朋友圈刷到过，各类营销号关于“欧洲黑死病”、病毒消灭印第安土著之类的文章。的确，病毒在人类文明进程中起到的影响，比战争还要残酷...
 # IT 技术 
  ## [不容错过！ES2020的七大新特性](http://developer.51cto.com/art/202002/610022.htm)
@@ -37,108 +70,126 @@ categories: IT NEWS
  > 深度学习火了那么多年，到底怎么搞？使用Numpy快速入门
  ## [偷偷告诉你，互联网公司理想的技术架构！](http://developer.51cto.com/art/202002/609924.htm)
  > 偷偷告诉你，互联网公司理想的技术架构！
- ## [企业需要在2020年制定勒索软件恢复计划](http://netsecurity.51cto.com/art/202002/610041.htm)
- > 很多企业没有足够的时间进行准备的一个方面是制定勒索软件恢复计划。在2020年，计划、准备和实践勒索软件恢
- ## [大数据如何筑起肺炎扩散的“隔离墙”？](http://bigdata.51cto.com/art/202002/610040.htm)
- > 2020年伊始是那么的不同，肺炎疫情让很多城市按下暂停键，大家避免见面。我们从未像现在这样，离得那么远
- ## [如何应对管理多云环境的挑战](http://cloud.51cto.com/art/202002/610039.htm)
- > 毫无疑问，管理多云环境时面临的比较大的挑战是其治理和合规性。每个云平台都配备了自己独特的管理和报告工
- ## [程序员经典面试题，消息队列的作用，你能说出几个？](http://news.51cto.com/art/202002/610038.htm)
- > 今年疫情严峻，希望早日控制住，有不少的朋友都打算年后找份新的工作，正好趁着这个时候好好学习，提升下自
- ## [共渡疫情，51CTO免费开放价值1000万精品在线课程！](http://news.51cto.com/art/202002/609981.htm)
- > 没有一个冬天不可逾越，没有一个春天不会来临！在开局如此艰难的 2020，我们需要收起焦虑情绪，勇敢面对危
+ ## [&& ，|| 超越了我的认知](http://developer.51cto.com/art/202002/610059.htm)
+ > 这节课程主要学习 JavaScript 中的 &amp;&amp; 、||、! 和 !!，如果使用不当可能会引发bug。下面，我们一起来看。
+ ## [1月份Github上热门Python开源项目！](http://developer.51cto.com/art/202002/610058.htm)
+ > 1月份GitHub上最热门的Python开源项目排行已经出炉啦，一起来看看上榜详情。
+ ## [2020年2月前端开发者实用干货合集](http://news.51cto.com/art/202002/610061.htm)
+ > 马上要上班开工了，先给大家来一波实用的设计和开发类的干货素材合集吧！
+ ## [研究人员如何利用区块链平台的优势](http://blockchain.51cto.com/art/202002/610056.htm)
+ > 随着区块链技术的应用，研究人员需要了解其使用区块链平台的诸多优势。但是，区块链技术究竟对研究人员有何
+ ## [2020年的5个SaaS发展趋势](http://cloud.51cto.com/art/202002/610053.htm)
+ > 如今，客户需求促使云计算供应商提供互操作，从而创建了多渠道体验的枢纽。而云计算和软件即服务改变了桌面
+ ## [应对疫情，制造业IT团队可以多做些什么？](http://news.51cto.com/art/202002/610052.htm)
+ > 突如其来的新型冠状病毒引起的肺炎疫情肆虐全国，牵动着世界的心。为了疫情防控，需要避免人口大规模流动和
+ ## [4 个总结来看 SRE 与运维的思考](http://news.51cto.com/art/202002/610051.htm)
+ > 运维部门要保障产品业务稳定性，开发部门要想随时随地快速上线新功能，而线上的故障往往是由新的变更导致的
+ ## [硬件黑客破解之固件分析](http://netsecurity.51cto.com/art/202002/610050.htm)
+ > 固件分析，一种深入硬件底层（芯片级）的技术破解方法，经常被用于系统攻防对抗、硬件破解、逆向分析等实际
+ ## [疫情当下，更要守好个人信息安全防线](http://netsecurity.51cto.com/art/202002/610055.htm)
+ > 当前方的战士正在阻击疫情，后方的公众个人信息安全防线却在动摇。公众知情权和个人隐私权的权衡，成为当下
+ ## [抗疫阻击战 人工智能有「技」可施吗？](http://news.51cto.com/art/202002/610049.htm)
+ > 过去，我们一直在讨论人工智能将如何服务医疗行业，如今新冠肺炎爆发，最现实的问题摆在了技术和企业面前
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [Java坑人面试题系列: 包装类（中级难度）](https://blog.csdn.net/renfufei/article/details/104163518)
+ > 
+ ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
+ > 
+ ## [\[网络安全自学篇\] 四十五.病毒详解及批处理病毒制作（自启动、修改密码、定时关机、蓝屏、进程关闭）](https://blog.csdn.net/Eastmount/article/details/104146757)
+ > 
+ ## [使用 Angular 打造微前端架构的 ToB 企业级应用](https://blog.csdn.net/weixin_44280696/article/details/103271062)
+ > 
+ ## [深度学习入门笔记（十五）：深度学习框架（TensorFlow和Pytorch之争）](https://blog.csdn.net/TeFuirnever/article/details/104118073)
+ > 
+ ## [强烈推荐10本程序员在家读的书](https://blog.csdn.net/qing_gee/article/details/104085756)
+ > 
+ ## [作为一个程序员，CPU的这些硬核知识你必须会！](https://blog.csdn.net/sinat_33921105/article/details/104066631)
+ > 作为一个程序员，CPU的这些硬核知识你必须会！
+ ## [@程序员，如何花式构建线程？](https://blog.csdn.net/csdnnews/article/details/104075273)
+ > @程序员，如何花式构建线程？
+ ## [Spring Boot 2.x基础教程：使用JdbcTemplate访问MySQL数据库](https://blog.csdn.net/dyc87112/article/details/104173736)
+ > 
+ ## [破14亿，Python分析我国存在哪些人口危机！](https://blog.csdn.net/u014044812/article/details/104076639)
+ > 破14亿，Python分析我国存在哪些人口危机！
+ ## [从淘汰边缘到阿里资深前端技术专家，他总结了 8 点](https://blog.csdn.net/alitech2017/article/details/104178980)
+ > 
  ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
+ ## [Spring框架|Bean的生命周期](https://blog.csdn.net/weixin_43691058/article/details/104092245)
+ > Spring框架|Bean的生命周期
+ ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
  > 
- ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
- > 
- ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
- > 究竟你适不适合买Mac？
- ## [SpringBoot--缓存详解](https://blog.csdn.net/cold___play/article/details/104181850)
- > SpringBoot--缓存详解
- ## [排序——选择排序（Selection sort）](https://blog.csdn.net/justidle/article/details/104183070)
- > 排序——选择排序（Selection sort）
- ## [160个常用黑客命令速查手册](https://blog.csdn.net/cunzher/article/details/104184505)
- > 160个常用黑客命令速查手册
- ## [功能测试总结-导入excel](https://blog.csdn.net/xiaona0523/article/details/104182157)
- > 功能测试总结-导入excel
- ## [UNIX基础知识介绍](https://blog.csdn.net/weixin_44816732/article/details/104185816)
- > UNIX基础知识介绍
- ## [基于python爬虫的天气查询程序](https://blog.csdn.net/qq_42138454/article/details/104187412)
- > 基于python爬虫的天气查询程序
- ## [Linux之shopt设置shell行为](https://blog.csdn.net/lzghxjt/article/details/104186994)
- > Linux之shopt设置shell行为
- ## [小程序通过API获取位置信息 微信API  百度地图API](https://blog.csdn.net/weixin_44307065/article/details/104185858)
- > 小程序通过API获取位置信息 微信API  百度地图API
- ## [利用8421码进行进制之间的转换](https://blog.csdn.net/belongtocode/article/details/104188949)
- > 利用8421码进行进制之间的转换
- ## [PCB上的过孔（寄生参数及注意事项）](https://blog.csdn.net/AirCity123/article/details/104184480)
- > PCB上的过孔（寄生参数及注意事项）
- ## [node.js学习（七）-node.js和express构建网站1](https://blog.csdn.net/Study_Live_Sun/article/details/103906800)
- > node.js学习（七）-node.js和express构建网站1
- ## [东北方言编程，程序员咋这么招人稀罕！](https://blog.csdn.net/csdnnews/article/details/104191357)
- > 作者 | 唐小引出品 | 程序人生（ID：coder_life）从春节到在家办公的这段时间里，在家的父母一直在追《乡村爱情12》，从 2006 年第一部到今天，这部东北剧已经连续 14 ...
- ## [疫情之下，互联网产品逆势爆发](https://blog.csdn.net/csdnnews/article/details/104191359)
- > 作者 | 唐亚华 闫丽娇本文经授权转载自燃财经（ID：rancaijing）一场肆虐全国的新型冠状病毒肺炎疫情，让大多数线下商业一夜之间歇业。蜗居家中，线上业态反倒迎来了意想不到的爆发。...
- ## [远程办公绝非远程监控，该如何挖掘远程办公的红利？](https://blog.csdn.net/csdnnews/article/details/104191365)
- > 这次疫情的波及范围远远超出了所有人的想象，目前看来，员工返回公司集中工作短期之内无法实现，远程办公自然被紧急提上了日程。远程开工第三天，不断有网友爆出“远程办公”变成“远程监控”。如何实...
- ## [TIOBE 2 月编程语言排行榜：Objective-C 的出路在何方？](https://blog.csdn.net/csdnnews/article/details/104191354)
- > 整理 | 屠敏出品 | CSDN（ID：CSDNnews）有竞争才会有进步，在第四次工业革命到来之际，随着物联网、人工智能、自动化、区块链、XR 等技术的逐渐成熟，底层工具篇中的编程语言...
- ## [远程办公下，如何完成自动化测试与研发协作？](https://blog.csdn.net/csdnnews/article/details/104191356)
- > 作者 | 王涛，巨杉数据库联合创始人、CTO责编 | 唐小引封图 | CSDN 下载自 VCG出品 | CSDN（ID：CSDNnews）刚刚过去的这个春节，新型冠状病毒突如其来地横扫大...
- ## [疫情肆虐下，程序员用代码告诉你为什么千万不要出门！](https://blog.csdn.net/csdnnews/article/details/104191358)
- > 这两天，一个视频火了起来。视频地址：https://www.bilibili.com/video/av86478875/这是一个使用 Java 语言编写的肺炎仿真程序，从统计学的角度来说...
- ## [搜狗输入法回应误推地震信息；近亿人在钉钉上报健康情况；Rust 1.41.0发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104191352)
- > 整理 |郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术...
- ## [远程办公第一天遇尴尬：企业通讯软件集体罢工、全天开视频](https://blog.csdn.net/csdnnews/article/details/104191353)
- > 作者 | 阿文责编 | 伍杏玲出品 | 程序人生（ID：coder_life）受新型冠状病毒性肺炎的疫情影响，各地实施了严格的控制手段：封村、封路、封小区、暂停省际、县级、村级班车等措施...
 # 人工智能 
- ## [(Python)从零开始,简单快速学机器仿人视觉Opencv---运用三：物体运动跟踪](https://blog.csdn.net/qq_19408097/article/details/104138585)
- > (Python)从零开始,简单快速学机器仿人视觉Opencv---运用三：物体运动跟踪
- ## [从Python取数到BI分析，它只用10分钟就做出了疫情可视化](https://blog.csdn.net/yuanziok/article/details/104167163)
- > 从Python取数到BI分析，它只用10分钟就做出了疫情可视化
- ## [使用计算机（AI）预测肺炎疫情全国确诊人数](https://blog.csdn.net/dengtonglong/article/details/104162088)
- > 使用计算机（AI）预测肺炎疫情全国确诊人数
- ## [2020年学习计划](https://blog.csdn.net/liyazhen2011/article/details/104159751)
- > 2020年学习计划
- ## [新型肺炎确诊人数趋势拟合，兼谈数值优化方法](https://blog.csdn.net/robot_learner/article/details/104151429)
- > 新型肺炎确诊人数趋势拟合，兼谈数值优化方法
- ## [字节跳动面试--二面算法题复盘](https://blog.csdn.net/qq_41645895/article/details/104166741)
- > 字节跳动面试--二面算法题复盘
- ## [Python倒底有什么魔力，为什么全民都掀起了学习热潮？](https://blog.csdn.net/ITHHH777/article/details/104168167)
- > Python倒底有什么魔力，为什么全民都掀起了学习热潮？
- ## [PyCharm GUI界面开发和exe文件生成](https://blog.csdn.net/qq_41291730/article/details/104155213)
- > PyCharm GUI界面开发和exe文件生成
- ## [python数据编程之任何在Python中如何创建数据库](https://blog.csdn.net/haoxun04/article/details/104161959)
- > python数据编程之任何在Python中如何创建数据库
- ## [基于python的新型冠状肺炎患病人数预测](https://blog.csdn.net/qq_46098574/article/details/104166880)
- > 基于python的新型冠状肺炎患病人数预测
- ## [ROS与Arduino：用Twist消息+用键盘+用Xbox one手柄 控制小车](https://blog.csdn.net/weixin_44827364/article/details/104156116)
- > ROS与Arduino：用Twist消息+用键盘+用Xbox one手柄 控制小车
- ## [python自动化测试之异常及日志操作实例分析](https://blog.csdn.net/haoxun03/article/details/104175711)
- > python自动化测试之异常及日志操作实例分析
- ## [2020武汉新型肺炎数据分析](https://blog.csdn.net/weixin_44986459/article/details/104157987)
- > 2020武汉新型肺炎数据分析
- ## [阿里达摩院出手抗疫：AI算法加持，疑似病例基因分析缩短至半小时](https://blog.csdn.net/QbitAI/article/details/104151648)
- > 阿里达摩院出手抗疫：AI算法加持，疑似病例基因分析缩短至半小时
- ## [Python入门_给小白的学习指南](https://blog.csdn.net/zbp_12138/article/details/104112852)
- > Python入门_给小白的学习指南
+ ## [使用 ASP.NET 为自己做一个相亲网站](https://blog.csdn.net/lesileqin/article/details/104181640)
+ > 使用 ASP.NET 为自己做一个相亲网站
+ ## [MySQL数据库介绍及安装](https://blog.csdn.net/weixin_44816732/article/details/104173717)
+ > MySQL数据库介绍及安装
+ ## [Mybatis  增删改查   CRUD 四类](https://blog.csdn.net/qq_44758351/article/details/104183533)
+ > Mybatis  增删改查   CRUD 四类
+ ## [陈伟视频6~10集总结](https://blog.csdn.net/aqiuisme/article/details/104165677)
+ > 陈伟视频6~10集总结
+ ## [MySQL数据库总结](https://blog.csdn.net/weixin_43691058/article/details/103175678)
+ > 
+ ## [浅谈＜＜EOF作用与用法](https://blog.csdn.net/kim5659/article/details/104175018)
+ > 浅谈＜＜EOF作用与用法
+ ## [数据库学习之MySQL (十七）—— SQL99 主查询 与 子查询 子查询分类之WHERE的子查询](https://blog.csdn.net/weixin_43178828/article/details/104170939)
+ > 数据库学习之MySQL (十七）—— SQL99 主查询 与 子查询 子查询分类之WHERE的子查询
+ ## [Windows10下安装MySQL8.0.19](https://blog.csdn.net/weixin_43774371/article/details/104187953)
+ > Windows10下安装MySQL8.0.19
+ ## [mysql，及postgresql 等SQL语句优化和大表优化解决方案](https://blog.csdn.net/as4589sd/article/details/104151857)
+ > mysql，及postgresql 等SQL语句优化和大表优化解决方案
+ ## [（二）mysql8.0（ZIP）、sqlyog安装](https://blog.csdn.net/weixin_43350051/article/details/104180976)
+ > （二）mysql8.0（ZIP）、sqlyog安装
+ ## [c语言与星星金字塔的碰撞哦](https://blog.csdn.net/weixin_46253007/article/details/104172296)
+ > c语言与星星金字塔的碰撞哦
+ ## [Oracle11g忘记用户名和密码怎么办？](https://blog.csdn.net/weixin_44337241/article/details/104181720)
+ > Oracle11g忘记用户名和密码怎么办？
+ ## [mysql指引（五）：join关联查询底层原理（下）](https://blog.csdn.net/zhou307/article/details/104172743)
+ > mysql指引（五）：join关联查询底层原理（下）
+ ## [MySQLexplain之Extra介绍](https://blog.csdn.net/qq_39885372/article/details/104177922)
+ > MySQLexplain之Extra介绍
+ ## [dao层、service层、事务的理解](https://blog.csdn.net/weixin_42995083/article/details/104186934)
+ > dao层、service层、事务的理解
 # PM 
+ ## [流量方请求广告的2个技术](http://www.woshipm.com/pd/3366806.html)
+ > 在互联网广告领域，流量方（publisher）追求的是广告收益最大化，如何请求广告对于收益也是很重要的一部分，本篇文章主要梳理分析了流量方请求广告的两个技术：waterfal...
+ ## [产品核心工作方法：如何找到推动产品增长的需求点？](http://www.woshipm.com/pmd/3366678.html)
+ > 高质量的需求决策，是充满不确定性的产品探索中的前进燃料。这里，我们就重点讲一下，怎样做出高质量的需求决策，找到总能推动产品增长的需求点。俞军说，产品经理的...
+ ## [固定流量规模，用ecpm公式提升广告变现能力](http://www.woshipm.com/marketing/3366542.html)
+ > 根据ecpm概念，给一个固定规模的流量，如何提升广告变现能力？一、ecpm概念ecpm=ctr*cpc单价*1000，也可以变形为 收入=展示量*点击率*点击单价。二、提升广告变现能...
+ ## [疫情期间，旅行社该如何应对？](http://www.woshipm.com/it/3366568.html)
+ > 疫情之下，要说哪个行业受到的影响大、损失多的，那必定少不了旅游业这个行业。在行业人惶惶不安的时候，多数人认为旅游业今年看来是凉了，但是笔者却提出一个不一样的...
+ ## [用户故事：如何在敏捷开发中助力产品需求策划？](http://www.woshipm.com/pd/3368134.html)
+ > 产品经理的日常主要工作就是与需求打交道，如何能够快速准确地洞察用户或客户的需求，让功能直击用户痛点是很多产品经理的愿望。而笔者就发现，利用用户故事，可以有效...
+ ## [人工智能技术，能够为“心理疫情”做些什么](http://www.woshipm.com/ai/3368246.html)
+ > 疫情之下，我们不仅要应对病毒，也要关注大众的心理问题。面对新型肺炎造成的心理压力，AI技术在心理关怀中正发挥着越来越重要的作用。伴随着新型肺炎的“全民防疫”过...
+ ## [提高产品转化率，经营好“用户价值”](http://www.woshipm.com/operate/3359397.html)
+ > 想要提高产品的销售额，转化率和用户价值是重点。本文从拉新、转化和留存三个方面，对如何提高转化率和经营好用户价值进行了分析总结，供大家一同学习和参考。成功的...
+ ## [求职指南：疫情期间，如何准备求职产品经理？](http://www.woshipm.com/zhichang/3363479.html)
+ > 对互联网行业来说，春季招聘高峰期就在二三月份。不过今年由于疫情影响，招聘事项一再延后，不少小伙伴很担心、很焦虑求职问题。而本文就梳理了大家的几大疑惑，予以解...
+ ## [SaaS 微信生态获客（二）：从0到10W+，B2B社群运营全流程实战复盘](http://www.woshipm.com/operate/3365799.html)
+ > 对于B端获客来说，微信生态是很重要的一个环节。本文作者从微信生态出发，结合实际案例对B2B 社群运营的全流程进行了梳理分析，与大家分享。前 言：之前有写过一篇文...
  ## [人们谈论的「模型」究竟是什么？](http://www.woshipm.com/it/3365994.html)
  > 「模型」这个词可以说是和闭环、赋能、产业互联网、打法、去中心化等并列近年热门（hui bao)词汇了。词汇本无措，是人们用错了地方才让词汇背了锅，今天我们来聊下「模...
  ## [从交易成本的角度聊聊在线教育](http://www.woshipm.com/it/3361822.html)
  > 在线教育不管怎么说，始终是一门生意，是生意就存在交易。于是本文将从交易成本的角度来聊聊在线教育。什么是交易成本，简而言之，完成一笔交易，交易双方在买卖前后...
- ## [微信读书为什么要做替身书架呢？](http://www.woshipm.com/pd/3085402.html)
- > 微信读书是一款基于微信社交关系，主打社交的阅读类App。它的目标用户是以学生、白领为代表。那么，微信读书为什么要做替身书架呢？微信读书IOS在前段时间更新了版本4...
- ## [2020年度计划：从认知到迭代](http://www.woshipm.com/zhichang/3368016.html)
- > 如果说我明天就失忆的话，我会留给自己八个字：认知、思考、实践、迭代。带着对 2020 年即将面临的挑战的焦虑，带着对疫情的担忧，我开始慢慢敲下这篇 2020 年计划。...
- ## [从数据产品经理视角，聊聊科学的AB Test](http://www.woshipm.com/pd/3357576.html)
- > 随着ab测试在互联网行业用户增长方面的推广，各家都搭建了自己的ab测试平台（不限于BAT） 或者 购买了ab测试服务。今天就来看下AB测试的前世今生，能为企业解决什么问题...
- ## [打开大门的新能源产业互联网](http://www.woshipm.com/kol/3311893.html)
- > 2019年12月21-22日，人人都是产品经理举办的【 2019深圳产品经理大会】完美落幕。万帮新能源投资集团/星星充电集团副总裁 易鹏宇老师，他为我们带来《打开大门的新能源...
- ## [数据产品负责人揭秘：如何拿到大厂数据产品offer？](http://www.woshipm.com/online/3368752.html)
- > 最近，我们收到一个咨询case：​小风，是互联网公司用户端产品经理，工作还停留在页面设计的阶段，互联网发展到现在这个程度，基本上各个功能已经定型，所以想转做数据...
+ ## [线上教育发展势头猛烈走向成熟应该打好这两张牌](http://www.chanpin100.com/article/110680)
+ > 春节后的首个交易日，A股跌幅超过很多人预期，线上教育板块迎来逆势大涨。疫情之下&quot;停课不停学&quot;，让沉寂已久的在线教育迎来爆发，未来线上教育或成为教育行业的风口。
+ ## [谷歌欲坐稳“万亿市值俱乐部”，两驾新马车动力还差点事](http://www.chanpin100.com/article/110679)
+ > 过于依赖广告营收，新业务开拓不利，正在成为谷歌能否坐稳万亿市值俱乐部的隐患。
+ ## [27万人云蹦迪，从"宅草莓不是音乐节"看线上线下联动可能性](http://www.chanpin100.com/article/110677)
+ > 最近，在疫情的阴霾笼罩之下，人们正常的出行需求和娱乐需求大多都转到了线上。比如音乐节被迫转向线上，而其在线上的表现则以直观的数据反映出线上音乐节的发展潜力。
+ ## [数据异常如何分析？](http://www.chanpin100.com/article/110676)
+ > 在数据分析的过程中，一定要搞明白每一次数据涨跌的原因~
+ ## [关于“需求分析”方法，了解一下？](http://www.chanpin100.com/article/110674)
+ > 汪叔对“需求分析”的定义是：“对需求（问题）进行识别并进行分析与定位，寻找最优解，并制定可行性方案”
+ ## [产品经理需要了解的SQL基础](http://www.chanpin100.com/article/110673)
+ > 产品经理需要了解的SQL基础信息
+ ## [关于今年疫情事件引发的商业领域变化思考](http://www.chanpin100.com/article/110672)
+ > 年前，写了篇关于春节红包大战的文章，当时就提到一个现象，众多互联网企业都越来越看中春节万家团圆看春晚这个节日场景，然后基于次场景进行自家产品的广告宣传，实现拉新、激活等目的。然而，因为一个突然出现的疫情，万众人民关注的团圆盛宴被打断了，每个人都心系疫情防控情况，日夜难安。于此同时更有诸多的企业和普通
+ ## [如何请求广告-浅谈waterfall与headerbidding技术](http://www.chanpin100.com/article/110670)
+ > 如何请求广告对于收益也是很重要的一部分，本篇主要讲下，流量方请求广告的两个技术 waterfall和head bidding。
  ## [产品面试系列——如何回答估算问题](http://www.chanpin100.com/article/110668)
  > 本文是产品面试系列第二篇。产品面试系列文章旨在通过结构化思维和具体案例解决你在面试中遇到的问题。
  ## [产品经理，警惕你的能力陷阱！](http://www.chanpin100.com/article/110667)
