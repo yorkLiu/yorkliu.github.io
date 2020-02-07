@@ -1,22 +1,57 @@
 ---
 title: 2020-02-07 IT News
 copyright: true
-date: 2020-02-07 09:00:49
+date: 2020-02-07 10:02:44
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院 早报】 2020年2月7日 星期五</b></summary><div class="news-list-content"><p>1.&#39640;&#24503;&#22320;&#22270;&#65306;&#32852;&#21512;&#20132;&#31649;&#37096;&#38376;&#22312;&#19978;&#28023;&#12289;&#37325;&#24198;&#12289;&#37073;&#24030;&#12289;&#33487;&#24030;&#19978;&#32447;&#8220;&#20837;&#22659;&#30331;&#35760;&#8221;&#21151;&#33021;</p>
+<p>2.&#38463;&#37324;&#20581;&#24247;&#22312;&#28120;&#23453;App&#19978;&#32447;&#8220;&#20080;&#33647;&#19981;&#20986;&#38376;&#8221;&#26381;&#21153;</p>
+<p>3.&#38463;&#37324;&#65306;&#24050;&#19982;&#20840;&#22269;28&#30465;&#24066;&#21512;&#20316;&#19978;&#32447;&#8220;&#25968;&#23383;&#38450;&#30123;&#31995;&#32479;&#8221;</p>
+<p>4.&#19978;&#27773;&#36890;&#29992;&#20116;&#33777;&#32852;&#21512;&#20379;&#24212;&#21830;&#36716;&#20135;&#21475;&#32617;&#65292;&#21475;&#32617;&#26085;&#20135;&#37327;&#21487;&#36798;170&#19975;</p>
+<p>5.&#21326;&#20026;OPPO&#23567;&#31859;vivo&#25171;&#36896;&#26032;&#24179;&#21488;&#65292;&#23545;&#26631;&#35895;&#27468;Play&#21830;&#24215;</p>
+<p>6.&#38463;&#37324;&#26412;&#22320;&#29983;&#27963;&#25512;&#34013;&#28023;&#23601;&#19994;&#20849;&#20139;&#24179;&#21488;&#65292;&#39318;&#25209;&#25307;&#25910;1&#19975;&#21517;&#39569;&#25163;</p>
+<p>7.&#28165;&#21326;&#12289;&#21271;&#22823;&#19978;&#32447;&#25238;&#38899;&#30452;&#25773;&#35838;&#65292;&#35838;&#31243;&#20849;&#35745;&#20116;&#26399;</p>
+<p>8.&#38081;&#36335;&#37096;&#38376;&#65306;&#32440;&#36136;&#36710;&#31080;&#36864;&#31080;&#26102;&#38388;&#26242;&#24310;&#38271;&#33267;3&#26376;31&#26085;</p>
+<p>9.&#33487;&#23425;&#21147;&#36992;&#30334;&#36135;&#21830;&#25143;&#20837;&#39547;&#32447;&#19978;&#24179;&#21488;</p>
+<p>10. mRNA&#33647;&#29289;&#24179;&#21488;&#12300;&#26031;&#24494;&#29983;&#29289;&#12301;&#33719;&#21531;&#23454;&#29983;&#29289;&#21315;&#19975;&#20803;&#25237;&#36164;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】2020年2月6日 星期四</b></summary><div class="news-list-content"><p>1.&#20013;&#22830;&#24191;&#25773;&#30005;&#35270;&#24635;&#21488;&#19982;&#32593;&#26131;&#26377;&#36947;&#31934;&#21697;&#35838;&#20849;&#25512;&#8220;&#30123;&#24773;&#38450;&#25511;&#29256;&#24320;&#23398;&#31532;&#19968;&#35838;&#8221;</p>
+<p>2.&#25903;&#20184;&#23453;&#23459;&#24067;&#26071;&#19979;&#30693;&#35782;&#31649;&#29702;&#24037;&#20855;&#35821;&#38592;&#20813;&#36153;&#24320;&#25918;</p>
+<p>3.&#25658;&#31243;&#21457;&#24067;&#8220;&#21516;&#34957;&#8221;&#35745;&#21010;&#65292;10&#20159;&#20803;&#25903;&#25345;&#22522;&#37329;&#19982;&#21512;&#20316;&#20249;&#20276;&#20849;&#28193;&#38590;&#20851;</p>
+<p>4.&#38463;&#37324;&#24052;&#24052;&#21628;&#21505;&#20840;&#29699;&#20013;&#23567;&#20225;&#19994;&#20849;&#21516;&#25239;&#30123;&#65292;&#24320;&#36890;&#8220;&#38450;&#30123;&#30452;&#37319;&#20840;&#29699;&#23547;&#28304;&#24179;&#21488;&#8221;</p>
+<p>5.&#24494;&#20449;&#25903;&#20184;&#25658;&#25163;&#24494;&#20445;&#25512;&#20986;&#8220;&#26032;&#20896;&#32954;&#28814;&#20013;&#23567;&#21830;&#23478;&#20445;&#38556;&#8221;&#65292;&#30830;&#35786;&#21487;&#33719;&#27599;&#22825;1000&#20803;&#20303;&#38498;&#34917;&#36148;</p>
+<p>6.&#38081;&#36335;&#37096;&#38376;&#65306;2&#26376;6&#26085;&#21069;&#36141;&#31080;&#22343;&#21487;&#20813;&#36153;&#36864;&#65292;&#32452;&#32455;&#36710;&#20869;&#20998;&#25955;&#23601;&#22352;</p>
+<p>7.&#25945;&#32946;&#37096;&#65306;&#32452;&#32455;22&#20010;&#22312;&#32447;&#35838;&#31243;&#24179;&#21488;&#20813;&#36153;&#24320;&#25918;&#22312;&#32447;&#35838;&#31243;2.4&#19975;&#20313;&#38376;</p>
+<p>8.&#38463;&#37324;&#20877;&#21457;&#26368;&#20005;&#21475;&#32617;&#31105;&#20196;&#65306;&#35753;&#30123;&#24773;&#26399;&#38388;&#20316;&#24694;&#32773;&#20542;&#23478;&#33633;&#20135;</p>
+<p>9.&#20140;&#19996;&#20581;&#24247;&#32852;&#21512;&#20013;&#22269;&#32852;&#36890;&#25512;&#20986;&#8220;&#25239;&#20987;&#20896;&#29366;&#30149;&#27602; &#32447;&#19978;&#20581;&#24247;&#25903;&#25588;&#8221;&#27963;&#21160;</p>
+<p>10.&#20844;&#20851;&#27963;&#21160;&#21450;&#23186;&#20171;&#25512;&#24191;&#26381;&#21153;&#25552;&#20379;&#21830;&#8220;BC&#38598;&#22242;&#8221;&#33719;&#25112;&#30053;&#25237;&#36164;3600&#19975;&#32654;&#20803;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [AR眼镜、微型相机受益，哈佛博士后研究出超薄微透镜](http://mp.weixin.qq.com/s?src=11&timestamp=1581035405&ver=2143&signature=sGh8D2TvTGxmjOMW03EgYmBLBkeA2NZ27RiE-MTXgQwMtGw*86ZQ4PBNUf4tcwLM6R6cdB9XeAzCFGHvFtWe3MZ-ZwbMxG2BY1wzlqaiGDyvlF4umT-33hJPZ8a3dFd5&new=1)
- > Esther｜ 编辑轻量化，一直是AR眼镜追求的方向之一。目前，高分辨率、高亮度的Micro LED等微型显示模组（光源）的大小已经可以缩减到毫米级别，但缩小光学透镜的体积一直是一大难题，而这也是让AR眼镜向“普通眼...
- ## [高通射频前端业务的逆袭：从默默无闻，到涉嫌垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1581035405&ver=2143&signature=fKpDCst3EeGgaD4-hbiVPxbtFScNSAUUhveXx2lG3sB5naNuiPeYXemaP3gObSOHPpAFYaq0LkNAR42zfzN10UZezPt*P1fqaTJFrhPGFZ8rtJjBK*2UOgbDhdJ*4RG4&new=1)
- > 据外媒报道，高通当地时间周三表示，欧盟反垄断机构欧盟委员会正在对该公司进行反垄断调查，查证其是否利用在5G射频芯片领域的市场优势在欧盟国家从事反竞争行为。高通在其提交给美国证券交易委员会（SEC）的10-...
- ## [华为大动作：就12项专利侵权，起诉美国Verizon](http://mp.weixin.qq.com/s?src=11&timestamp=1581035405&ver=2143&signature=XpHrsK0d1WXh7k*4ecqYOXxLfNLF4m32dnH6H7vNBr8o-mPaV3EWh-qK123lCqf5IQ56sV7fefF3ORvNGtX769oJNPO-RO1FLiAV7sD7EkcsVFws-rdx-bU4*uAJOnuF&new=1)
- > 2月6日，华为公司宣布在美国德克萨斯州东区和西区法院向美国运营商Verizon提起诉讼，请求法院认定Verizon侵犯了华为在美国授权的12项专利，同时要求Verizon就其专利侵权行为对华为进行赔偿。据悉，这12项专利包...
- ## [关于线上直播2020云创大数据教育行业合作伙伴大会的通知!](http://mp.weixin.qq.com/s?src=11&timestamp=1581035405&ver=2143&signature=S3Nhu8WY-p17Xf0qkk9a8lpV*6vKoV27c8yBv-AyvoAdBcRwMnaxYMF*mT5sm4Uw7tBhKfAwPhz5C8fjFRgl57Q*9xudmi4lR-qoYfrVvAgl7w*WnYq3Afsyuc70p2OM&new=1)
- > 在新型冠状病毒肺炎疫情防控之下，为了向合作伙伴搭建交流与学习平台，原计划于2月15日在南京·云创大数据培训基地举办的2020云创大数据教育行业合作伙伴大会将调整为线上举办，并以网络直播的方式呈现。欢迎点...
- ## [中国邮政捐的金额跟三大运营商这么像 要与移动电信看齐?](http://mp.weixin.qq.com/s?src=11&timestamp=1581035405&ver=2143&signature=eewHgPsWpxvSwAeFUqTPbRnv*3fUe6aRjrWOlZ4sX1jiLn4lxE-xkqrRbBxzqtqhkwE4zJaCqQmw4VQauZVLajgliLVnMBiQyju9Q8IscTjjHO1GONmDF0ogMipSutEM&new=1)
+ ## [中国邮政捐的金额跟三大运营商这么像 要与移动电信看齐?](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=eewHgPsWpxvSwAeFUqTPbRnv*3fUe6aRjrWOlZ4sX1jiLn4lxE-xkqrRbBxzqtqhcoSKgB0aJWHVfYm1robiI9TL8GpjOBWHnxdQJSLidzLYlv*KURaA15MFi40bSmPT&new=1)
  > 运营商财经网 苏佳/文新兴冠状病毒肺炎疫情发生以来，捐赠的物资越多，快递行业的压力就越大。只是没想到的是，中国邮政集团加上邮储银行的捐款，居然跟中国移动一样多。中国邮政早年与中国电信、中国移动都是一...
+ ## [华为大动作：就12项专利侵权，起诉美国Verizon](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=XpHrsK0d1WXh7k*4ecqYOXxLfNLF4m32dnH6H7vNBr8o-mPaV3EWh-qK123lCqf5ui-55*8V8uzfvWL*Qr9jhQnLQ00*h1fDrwQtKHIva3r*ZpZj*5n5QCiDYBsSiFCc&new=1)
+ > 2月6日，华为公司宣布在美国德克萨斯州东区和西区法院向美国运营商Verizon提起诉讼，请求法院认定Verizon侵犯了华为在美国授权的12项专利，同时要求Verizon就其专利侵权行为对华为进行赔偿。据悉，这12项专利包...
+ ## [\[科技早报7点整\]郑州一滴滴司机确诊新冠肺炎 美联储称正考虑发行央行数字货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=UlfbPu3uPeLlxHXRHTqFJli7GERi*Tger-30cwPnFTCLA34EremslyYB6wsLmOG6R8bklZ9p3Tur0O47vDFwQTjJpvbvC6iF5cpkl5rqG*G939AlnQKeOPNO1EavIEXT&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第713期1.清华、北大上线抖音直播课，课程共计五期据清华大学官方抖音号消息，2 月 3 日起三天内，清华大学将通过抖音平台直播公开课，课程共计五期，涵盖国际关系、公众表达、...
+ ## [关于线上直播2020云创大数据教育行业合作伙伴大会的通知!](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=S3Nhu8WY-p17Xf0qkk9a8lpV*6vKoV27c8yBv-AyvoAdBcRwMnaxYMF*mT5sm4UwcrI9DVxbmG-D1q320ZRiRxNHsd-5HD8khUNkcTO2oTZpotfzno701bTfvLoVsmAm&new=1)
+ > 在新型冠状病毒肺炎疫情防控之下，为了向合作伙伴搭建交流与学习平台，原计划于2月15日在南京·云创大数据培训基地举办的2020云创大数据教育行业合作伙伴大会将调整为线上举办，并以网络直播的方式呈现。欢迎点...
+ ## [AR眼镜、微型相机受益，哈佛博士后研究出超薄微透镜](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=sGh8D2TvTGxmjOMW03EgYmBLBkeA2NZ27RiE-MTXgQwMtGw*86ZQ4PBNUf4tcwLMnxtzviwYDsL80a69Pu5BRWW7neFK1fRrr95f8Si8iGtB5lLakukPja5XnqF9wn6s&new=1)
+ > Esther｜ 编辑轻量化，一直是AR眼镜追求的方向之一。目前，高分辨率、高亮度的Micro LED等微型显示模组（光源）的大小已经可以缩减到毫米级别，但缩小光学透镜的体积一直是一大难题，而这也是让AR眼镜向“普通眼...
+ ## [高通射频前端业务的逆袭：从默默无闻，到涉嫌垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=fKpDCst3EeGgaD4-hbiVPxbtFScNSAUUhveXx2lG3sB5naNuiPeYXemaP3gObSOHbuTHD8vwaPtuRrFsinu9rhefWdggnsqlVrjqa7f6YOCPblgQgJyY1LxxpszuK2Gd&new=1)
+ > 据外媒报道，高通当地时间周三表示，欧盟反垄断机构欧盟委员会正在对该公司进行反垄断调查，查证其是否利用在5G射频芯片领域的市场优势在欧盟国家从事反竞争行为。高通在其提交给美国证券交易委员会（SEC）的10-...
 # IT 技术 
+ ## [25种能够助力企业线上业务发展的优秀API](http://news.51cto.com/art/202002/610021.htm)
+ > 25种能够助力企业线上业务发展的优秀API
+ ## [我们研究了763病例，还原病毒向全国扩散的路径](http://bigdata.51cto.com/art/202002/610091.htm)
+ > 我们研究了763病例，还原病毒向全国扩散的路径
  ## [如何使用ExifTool提取文件的元数据](http://os.51cto.com/art/202002/610034.htm)
  > 如何使用ExifTool提取文件的元数据
  ## [一段网上找的代码突然爆了，项目出现大Bug!](http://developer.51cto.com/art/202002/610094.htm)
@@ -29,76 +64,88 @@ categories: IT NEWS
  > 不容错过！ES2020的七大新特性
  ## [阿里面试官：分别说说微信和淘宝扫码登录背后的实现原理？](http://developer.51cto.com/art/202002/609988.htm)
  > 阿里面试官：分别说说微信和淘宝扫码登录背后的实现原理？
- ## [疫情之下，如何设计百万并发的IM系统?](http://os.51cto.com/art/202002/610033.htm)
- > 疫情之下，如何设计百万并发的IM系统?
- ## [我用Python处理3万多条数据，只要几秒钟……](http://developer.51cto.com/art/202002/610062.htm)
- > 我用Python处理3万多条数据，只要几秒钟……
- ## [vs2019生成dll,并调用](https://blog.csdn.net/weixin_42435145/article/details/104199125)
- > vs2019生成dll,并调用
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [世界坐标系,相机坐标系和图像坐标系的转换(Python)](https://blog.csdn.net/guyuealian/article/details/104184551)
- > 世界坐标系,相机坐标系和图像坐标系的转换(Python)
- ## [iOS  Bug 太多，苹果终于坐不住了！](https://blog.csdn.net/csdnnews/article/details/103221097)
+ ## [职场人接下来会很难！以及我的5个建议](http://news.51cto.com/art/202002/610106.htm)
+ > 突如其来的疫情，席卷着神州大地，疫情蔓延、企业复工延迟、员工无法回城上班，让许多企业老板们面临巨大的
+ ## [Redis哨兵的配置和原理](http://database.51cto.com/art/202002/610104.htm)
+ > 哨兵是一个独立的进行，在一个一主多从的Redis系统中，可以使用多个哨兵监控整个Redis系统，哨兵之间也会互
+ ## [数据安全实践之数据资产管理](http://netsecurity.51cto.com/art/202002/610103.htm)
+ > 在企业安全建设中，资产管理是很多安全工作的基础。而数据资产管理可以帮助我们更准确的发现安全风险，执行
+ ## [这类邮件一定要小心！将软件伪装为冠状病毒信息](http://netsecurity.51cto.com/art/202002/610102.htm)
+ > 近日，随着冠状病毒继续在全球蔓延，IBM X-Force和卡巴斯基的研究人员发现，黑客将恶意软件伪装成有关冠状
+ ## [如何成功实施云转型策略](http://cloud.51cto.com/art/202002/610101.htm)
+ > IT机构Unisys公司的一项研究显示，很大一部分组织尚未从云迁移中获得实质性收益。没有人曾承诺过云迁移会很
+ ## [2020 年 JVM 生态报告：Kotlin 成为第二受欢迎的 JVM 语言](http://news.51cto.com/art/202002/610105.htm)
+ > 2020 年 JVM 生态报告已于近日发布，该报告由 Snyk 和 The Java Magazine（Oracle 的双月刊）联合推出，旨
+ ## [这款3D打印机真心赞 烧伤患者全靠它了！](http://biz.51cto.com/art/202002/610100.htm)
+ > 据悉，加拿大多伦多大学工程学院和桑尼布鲁克医院的研究团队研发了一种新型的手持式3D皮肤打印机，可以在大
+ ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [\[网络安全自学篇\] 四十五.病毒详解及批处理病毒制作（自启动、修改密码、定时关机、蓝屏、进程关闭）](https://blog.csdn.net/Eastmount/article/details/104146757)
- > 
- ## [为什么你学不过动态规划？告别动态规划，谈谈我的经验](https://blog.csdn.net/m0_37907797/article/details/103231054)
- > 
- ## [强烈推荐10本程序员在家读的书](https://blog.csdn.net/qing_gee/article/details/104085756)
- > 
- ## [破14亿，Python分析我国存在哪些人口危机！](https://blog.csdn.net/u014044812/article/details/104076639)
- > 破14亿，Python分析我国存在哪些人口危机！
- ## [\[数据结构与算法\] 排序算法](https://blog.csdn.net/qq_43371556/article/details/104113941)
- > \[数据结构与算法\] 排序算法
- ## [Java坑人面试题系列: 包装类（中级难度）](https://blog.csdn.net/renfufei/article/details/104163518)
- > 
- ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
- > 
- ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
- > 
- ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
- > 这个世界上人真的分三六九等，你信吗？
- ## [\[数据结构与算法\] 邂逅栈](https://blog.csdn.net/qq_43371556/article/details/103949397)
- > 
- ## [关于2020年个人项目【臻美_疫情实时大数据报告】（项目开源）](https://blog.csdn.net/qq_39045645/article/details/104108261)
- > 关于2020年个人项目【臻美_疫情实时大数据报告】（项目开源）
- ## [8 天扩容超 100 万核，腾讯会议正在刷新历史](https://blog.csdn.net/csdnnews/article/details/104201196)
- > 8 天紧急扩容超过 10 万台云主机，投入的计算资源超过 100 万核，这在腾讯云的历史上尚属首次，这应该也是中国云计算史上前所未有的记录。
- ## [十大类疫情服务紧缺  阿里广发英雄帖抗疫小程序开发者最高可获50万元奖励](https://blog.csdn.net/csdnnews/article/details/104199326)
- > 全民积极响应国家抗击新冠肺炎疫情的号召，正催生出越来越多新的互联网服务缺口。基于对用户、政府、企事业单位抗疫服务需求的紧缺情况调查，支付宝今日面向社会各界开发者发布“10大疫情期最急需服务开发清单”，号召更多开发者投入进来开发更多服务，解决社会问题。据了解，清单涵盖了口罩预约、疫情上报、社区出入管.
+ ## [每天盯着地图看？不如学习制作疫情分析地图](https://blog.csdn.net/qq_41306364/article/details/104198760)
+ > 每天盯着地图看？不如学习制作疫情分析地图
+ ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
+ > 究竟你适不适合买Mac？
+ ## [6. 爬到的数据存哪里](https://blog.csdn.net/Theo93/article/details/104196474)
+ > 6. 爬到的数据存哪里
+ ## [下载AndroidStudio和AndroidSDK，并设置Window和Unity的安卓环境](https://blog.csdn.net/f_957995490/article/details/104198407)
+ > 下载AndroidStudio和AndroidSDK，并设置Window和Unity的安卓环境
+ ## [如何绘制深度学习-目标检测评估指标P-R（precision-recall）曲线？如何计算AP（average-precision）？](https://blog.csdn.net/Dontla/article/details/104197408)
+ > 如何绘制深度学习-目标检测评估指标P-R（precision-recall）曲线？如何计算AP（average-precision）？
+ ## [计算机网络复习题0204](https://blog.csdn.net/lap2004/article/details/104202106)
+ > 计算机网络复习题0204
+ ## [ICMP协议详解](https://blog.csdn.net/JAVA_I_want/article/details/104201292)
+ > ICMP协议详解
+ ## [尚硅谷 day10 Java 排序算法和二维数组](https://blog.csdn.net/qq_41818801/article/details/104202348)
+ > 尚硅谷 day10 Java 排序算法和二维数组
+ ## [【python爬虫专项（2）】网页结构剖析](https://blog.csdn.net/lys_828/article/details/104197102)
+ > 【python爬虫专项（2）】网页结构剖析
+ ## [常用存储器介绍](https://blog.csdn.net/qq_38351824/article/details/104195261)
+ > 常用存储器介绍
+ ## [C++经典例题求n以内的质数高效编程](https://blog.csdn.net/weixin_42212753/article/details/104193884)
+ > C++经典例题求n以内的质数高效编程
+ ## [PyTorch学习笔记——多分类问题 代码分析](https://blog.csdn.net/qq_44625150/article/details/104200293)
+ > PyTorch学习笔记——多分类问题 代码分析
+ ## [二分答案算法超详细教程](https://blog.csdn.net/weixin_44179892/article/details/104197011)
+ > 二分答案算法超详细教程
+ ## [储能变电站互动系统通讯协议 (征求意见稿)](https://blog.csdn.net/AlphaGQ/article/details/104201129)
+ > 储能变电站互动系统通讯协议 (征求意见稿)
 # 人工智能 
- ## [单片机C语言 -- 基于结构体的面向对象编程技巧](https://blog.csdn.net/weixin_39902512/article/details/104168424)
- > 单片机C语言 -- 基于结构体的面向对象编程技巧
- ## [ESP8266学习笔记（17）——搭建环境、编译烧写（RTOS SDK）](https://blog.csdn.net/qq_36347513/article/details/104175273)
- > ESP8266学习笔记（17）——搭建环境、编译烧写（RTOS SDK）
- ## [计算机编程语言排行榜 TIOBE编程语言排行榜2020年最新版](https://blog.csdn.net/wuyongmao/article/details/100015336)
- > 计算机编程语言排行榜 TIOBE编程语言排行榜2020年最新版
- ## [第一章 物联网概述](https://blog.csdn.net/aa120515692/article/details/104172039)
- > 第一章 物联网概述
- ## [STM32F1x CubeMX教程（二）定时器基本使用](https://blog.csdn.net/weixin_43116606/article/details/104182407)
- > STM32F1x CubeMX教程（二）定时器基本使用
- ## [Operating Systems 书名（中文）：操作系统： 设计及实现（第二版）](https://blog.csdn.net/weixin_45495531/article/details/104181457)
- > Operating Systems 书名（中文）：操作系统： 设计及实现（第二版）
- ## [java 后台生成16位ID](https://blog.csdn.net/qq_44758351/article/details/104183652)
- > java 后台生成16位ID
- ## [2020年目标之一 整理出书  命名为《深入浅出Arduino ESP8266开发》](https://blog.csdn.net/dpjcn1990/article/details/104165264)
- > 2020年目标之一 整理出书  命名为《深入浅出Arduino ESP8266开发》
- ## [ESP32 物联网开发框架 ESP-IDF 版本推荐（持续更新）](https://blog.csdn.net/qq_20515461/article/details/104170563)
- > ESP32 物联网开发框架 ESP-IDF 版本推荐（持续更新）
- ## [arduino（4）：使用ESP8266，了解下相关芯片生产厂商，安信可的开发板子。](https://blog.csdn.net/freewebsys/article/details/104159870)
- > arduino（4）：使用ESP8266，了解下相关芯片生产厂商，安信可的开发板子。
- ## [智能小车的蓝牙模块学习（二）](https://blog.csdn.net/painting520/article/details/104173509)
- > 智能小车的蓝牙模块学习（二）
- ## [开源软件如何赚钱](https://blog.csdn.net/CatherineJChen/article/details/104173570)
- > 开源软件如何赚钱
- ## [leetcode122. 买卖股票的最佳时机 II](https://blog.csdn.net/hebtu666/article/details/104171796)
- > leetcode122. 买卖股票的最佳时机 II
- ## [STM32串口下载程序](https://blog.csdn.net/lengyuefeng212/article/details/104178386)
- > STM32串口下载程序
- ## [Verilog之预备知识](https://blog.csdn.net/yijiancmy/article/details/104167913)
- > Verilog之预备知识
+ ## [(数据库原理)数据库的范式理论总结](https://blog.csdn.net/qq_38115310/article/details/95855646)
+ > (数据库原理)数据库的范式理论总结
+ ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
+ > mysql 8.0.17 解压版安装教程
+ ## [面试 SQL整理 常见的SQL面试题：经典50题](https://blog.csdn.net/u010565545/article/details/100785261)
+ > 面试 SQL整理 常见的SQL面试题：经典50题
+ ## [linux odoo docker常用运维命令表](https://blog.csdn.net/qq_32394351/article/details/101056652)
+ > linux odoo docker常用运维命令表
+ ## [SQL建表查询优化的30个小技巧（收藏）](https://blog.csdn.net/weixin_39076203/article/details/97056851)
+ > SQL建表查询优化的30个小技巧（收藏）
+ ## [Oracle数据库学习笔记（oracle 11g持续更新...）](https://blog.csdn.net/Mr_C_python/article/details/100939206)
+ > Oracle数据库学习笔记（oracle 11g持续更新...）
+ ## [重装系统之提示在EFI系统上，Windows只能安装到GPT磁盘](https://blog.csdn.net/qq_43020645/article/details/100120770)
+ > 重装系统之提示在EFI系统上，Windows只能安装到GPT磁盘
+ ## [pod报错"Back-off restarting failed container"解决办法](https://blog.csdn.net/sqhren626232/article/details/101013390)
+ > pod报错&quot;Back-off restarting failed container&quot;解决办法
+ ## [mysql相关知识汇总学习](https://blog.csdn.net/ab601026460/article/details/54017607)
+ > mysql相关知识汇总学习
+ ## [SSM之mybatis：修改了Mybatis的xml文件不生效](https://blog.csdn.net/qq_41623154/article/details/100974491)
+ > SSM之mybatis：修改了Mybatis的xml文件不生效
+ ## [(数据库原理)数据库的完整性总结](https://blog.csdn.net/qq_38115310/article/details/95810455)
+ > (数据库原理)数据库的完整性总结
+ ## [pytorch:model.train和model.eval用法和区别](https://blog.csdn.net/qq_38410428/article/details/101102075)
+ > pytorch:model.train和model.eval用法和区别
+ ## [windows10安装mysql数据库小结](https://blog.csdn.net/weixin_42260623/article/details/101059912)
+ > windows10安装mysql数据库小结
+ ## [ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate](https://blog.csdn.net/lxw1844912514/article/details/100975571)
+ > ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate
+ ## [ORA-01017: invalid username/password; logon denied  无法使用密码登录oracle  centos linux redhat](https://blog.csdn.net/Alan1921/article/details/100146505)
+ > ORA-01017: invalid username/password; logon denied  无法使用密码登录oracle  centos linux redhat
 # PM 
+ ## [互联网时代，品牌“网红化”能够带来哪些好处？](http://www.woshipm.com/marketing/3371150.html)
+ > 近几年，网红经济概念非常火热，并为企业与品牌带来了不少收益与正向影响。那么品牌“网红化”为什么能有这么大的好处呢？背后有什么原理呢？让我们看看笔者的分析吧。...
+ ## [产品经理如何进行需求管理？](http://www.woshipm.com/pmd/3369691.html)
+ > 需求管理是产品经理日常工作之一，在管理需求的过程中通常会遇到开发资源不足，老板说这个需求很紧急需要插队，市场说再不实现这个需求商家就不买单了等等情况。遇到这...
+ ## [GPT-2：OpenAI的NLP商业化野望](http://www.woshipm.com/ai/3368266.html)
+ > 文章回顾了近几年NLP的升级历程，从三个阶段的发展带我们梳理了NLP演进的脉络。自然语言处理（NLP）技术正在生活的方方面面改变着我们的生活。客厅的智能音箱在跟你每...
  ## [我们认真研究了朋友圈广告，发现了爆款刷屏的小秘密](http://www.woshipm.com/marketing/3370700.html)
  > 不知不觉间，朋友圈广告上线已有4年，微信的流量优势，促成了广告业务的繁荣稳定，也让朋友圈广告成为用户社交场景里的常见元素。不过，4年来朋友圈广告也经历了很大的...
  ## [线上教育发展势头猛烈走向成熟应该打好这两张牌](http://www.chanpin100.com/article/110680)
