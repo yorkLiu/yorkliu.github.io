@@ -1,7 +1,7 @@
 ---
 title: 2020-02-07 IT News
 copyright: true
-date: 2020-02-07 10:02:44
+date: 2020-02-07 12:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,134 +35,168 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [中国邮政捐的金额跟三大运营商这么像 要与移动电信看齐?](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=eewHgPsWpxvSwAeFUqTPbRnv*3fUe6aRjrWOlZ4sX1jiLn4lxE-xkqrRbBxzqtqhcoSKgB0aJWHVfYm1robiI9TL8GpjOBWHnxdQJSLidzLYlv*KURaA15MFi40bSmPT&new=1)
- > 运营商财经网 苏佳/文新兴冠状病毒肺炎疫情发生以来，捐赠的物资越多，快递行业的压力就越大。只是没想到的是，中国邮政集团加上邮储银行的捐款，居然跟中国移动一样多。中国邮政早年与中国电信、中国移动都是一...
- ## [华为大动作：就12项专利侵权，起诉美国Verizon](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=XpHrsK0d1WXh7k*4ecqYOXxLfNLF4m32dnH6H7vNBr8o-mPaV3EWh-qK123lCqf5ui-55*8V8uzfvWL*Qr9jhQnLQ00*h1fDrwQtKHIva3r*ZpZj*5n5QCiDYBsSiFCc&new=1)
+ ## [新的勒索软件EKANS 针对工业控制系统](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=9rQ2gLeI0b4kp7TtUqTcvd5Y6BqT0QsrnO7LLYrGBmnBYps0uX4hDPxifAfZynQh1yMxJv4iX3h5Riv98nm1McteJQGu2y2Uzu73ytfHdD5sK9CT7WRtKW1YjLS25HiK&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全2月7日讯，据外媒报道，一个名为EKAN的勒索软件（也称为Snake）于2019年12月首次出现，并且正在针对工业控制系统（ICS）发动勒索软件攻击。 据悉，自EKAN...
+ ## [百度地图可查49城患者活动轨迹；谷歌申请新操作系统商标；VS Code 1.42发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=LGD9R06MX1dwr*pZ7Q356SMnVK2Q9bpHqpW7GiIju7pItxANa9w8EbC0fT6IN89Oc-doDGzGgzSAoao2zINtuDt4BdQyMPaT1qEqypAZFooYZC4EPRZFnVhMcfq3KCnt&new=1)
+ > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [“不见面”办事 战“疫”有“数”](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=hIdpNEKqA46LH6KroOU18yIFtwNA5i*tn-GqhtAi58Pr5gbgYQBXM92mTeSP8uWtiC-MlAoYzZIFUWrCfQ-eBg-I8moAvlkIwQC3DKkMMJA=&new=1)
+ > 本报讯 疫情当前，每天手机查询“疫情大数据地图”、坐在家里网端“上班”，成为非常时期贵州人新的办公办事场景。数据显示，疫情期间，贵州政务服务网PC端已开展各类服务1009.16万次，针对4270个网上申...
+ ## [双光子3D打印技术突破，“分光束”实现1000万体素/秒创纪录](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=Q186LwAyGbNgxj3EBwsjI9zhsBm*EMUMI3bAt-4EdxAEDxIkHzX53pefAjdxj2kL9jHd-1YqsV88JnvO6KRFaGeNfl5DYm3T3PUjC-g8dfHxxKLsS5dbG3ObsfM3HYyc&new=1)
+ > 南极熊导读：可以实现微纳级超高精细度的双光子3D打印技术取得重大突破。△比1欧元硬币还小的高复杂度零件（60立方毫米），实现了高精细度的3D打印，内部含有3000亿个体素南极熊获悉，2020年1月，一篇论文《Rapi...
+ ## [华为大动作：就12项专利侵权，起诉美国Verizon](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=XpHrsK0d1WXh7k*4ecqYOXxLfNLF4m32dnH6H7vNBr*xgSC8d7LWSHx5hBfs7yiDzwJ8B7AcYLRHUmsSqo9LuF5zxgJJmBh5aSvdMm53pTaJABjh0zgrxKKQpLkFPKaI&new=1)
  > 2月6日，华为公司宣布在美国德克萨斯州东区和西区法院向美国运营商Verizon提起诉讼，请求法院认定Verizon侵犯了华为在美国授权的12项专利，同时要求Verizon就其专利侵权行为对华为进行赔偿。据悉，这12项专利包...
- ## [\[科技早报7点整\]郑州一滴滴司机确诊新冠肺炎 美联储称正考虑发行央行数字货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=UlfbPu3uPeLlxHXRHTqFJli7GERi*Tger-30cwPnFTCLA34EremslyYB6wsLmOG6R8bklZ9p3Tur0O47vDFwQTjJpvbvC6iF5cpkl5rqG*G939AlnQKeOPNO1EavIEXT&new=1)
- > 早上好，科技圈【一度蜜科技早报】第713期1.清华、北大上线抖音直播课，课程共计五期据清华大学官方抖音号消息，2 月 3 日起三天内，清华大学将通过抖音平台直播公开课，课程共计五期，涵盖国际关系、公众表达、...
- ## [关于线上直播2020云创大数据教育行业合作伙伴大会的通知!](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=S3Nhu8WY-p17Xf0qkk9a8lpV*6vKoV27c8yBv-AyvoAdBcRwMnaxYMF*mT5sm4UwcrI9DVxbmG-D1q320ZRiRxNHsd-5HD8khUNkcTO2oTZpotfzno701bTfvLoVsmAm&new=1)
+ ## [关于线上直播2020云创大数据教育行业合作伙伴大会的通知!](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=S3Nhu8WY-p17Xf0qkk9a8lpV*6vKoV27c8yBv-AyvoDStzQYGg7l-f3I8veYa7b5a5n1*DLYpBxaFAIV7crrs*VPtE0s6peqv4doyj8uP9Hz-121mqBShyoyyS7Qq6x9&new=1)
  > 在新型冠状病毒肺炎疫情防控之下，为了向合作伙伴搭建交流与学习平台，原计划于2月15日在南京·云创大数据培训基地举办的2020云创大数据教育行业合作伙伴大会将调整为线上举办，并以网络直播的方式呈现。欢迎点...
- ## [AR眼镜、微型相机受益，哈佛博士后研究出超薄微透镜](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=sGh8D2TvTGxmjOMW03EgYmBLBkeA2NZ27RiE-MTXgQwMtGw*86ZQ4PBNUf4tcwLMnxtzviwYDsL80a69Pu5BRWW7neFK1fRrr95f8Si8iGtB5lLakukPja5XnqF9wn6s&new=1)
+ ## [\[科技早报7点整\]郑州一滴滴司机确诊新冠肺炎 美联储称正考虑发行央行数字货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=UlfbPu3uPeLlxHXRHTqFJli7GERi*Tger-30cwPnFTC8Fb0kVmwlMrTgtx2xo*7iTB*-allxI78Zsof7YLK2BbQ6j*oy*NhNXICi*7nDyedxH2b2dXj6CgwIkz-KrF2D&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第713期1.清华、北大上线抖音直播课，课程共计五期据清华大学官方抖音号消息，2 月 3 日起三天内，清华大学将通过抖音平台直播公开课，课程共计五期，涵盖国际关系、公众表达、...
+ ## [中国邮政捐的金额跟三大运营商这么像 要与移动电信看齐?](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=eewHgPsWpxvSwAeFUqTPbRnv*3fUe6aRjrWOlZ4sX1iSDdw-k82OevyQaqFDpDcYiJxGbfLrh8Wjv5FlInbqq1dxF5FtW633xTGHyRT6Fd9EyVUB5Zc3KYqGsO5ytay1&new=1)
+ > 运营商财经网 苏佳/文新兴冠状病毒肺炎疫情发生以来，捐赠的物资越多，快递行业的压力就越大。只是没想到的是，中国邮政集团加上邮储银行的捐款，居然跟中国移动一样多。中国邮政早年与中国电信、中国移动都是一...
+ ## [AR眼镜、微型相机受益，哈佛博士后研究出超薄微透镜](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=sGh8D2TvTGxmjOMW03EgYmBLBkeA2NZ27RiE-MTXgQzjtM82LGQZwV9hLDhfVZs2527q3iwsgwi2jzpypU0CasxVkJfKCUXBBNqVB09n-qR8ejF5kQ8GtUM3BlfM-Vhp&new=1)
  > Esther｜ 编辑轻量化，一直是AR眼镜追求的方向之一。目前，高分辨率、高亮度的Micro LED等微型显示模组（光源）的大小已经可以缩减到毫米级别，但缩小光学透镜的体积一直是一大难题，而这也是让AR眼镜向“普通眼...
- ## [高通射频前端业务的逆袭：从默默无闻，到涉嫌垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1581039004&ver=2143&signature=fKpDCst3EeGgaD4-hbiVPxbtFScNSAUUhveXx2lG3sB5naNuiPeYXemaP3gObSOHbuTHD8vwaPtuRrFsinu9rhefWdggnsqlVrjqa7f6YOCPblgQgJyY1LxxpszuK2Gd&new=1)
+ ## [高通射频前端业务的逆袭：从默默无闻，到涉嫌垄断!](http://mp.weixin.qq.com/s?src=11&timestamp=1581046485&ver=2143&signature=fKpDCst3EeGgaD4-hbiVPxbtFScNSAUUhveXx2lG3sAOOP7jfu7VMZiLroxOmkli*8nQWyv4fhcNXk0hXxWCa2U7XZcjPuonmlupBWJIGBj6dyOz9at2*ZUhATahmHBQ&new=1)
  > 据外媒报道，高通当地时间周三表示，欧盟反垄断机构欧盟委员会正在对该公司进行反垄断调查，查证其是否利用在5G射频芯片领域的市场优势在欧盟国家从事反竞争行为。高通在其提交给美国证券交易委员会（SEC）的10-...
 # IT 技术 
  ## [25种能够助力企业线上业务发展的优秀API](http://news.51cto.com/art/202002/610021.htm)
  > 25种能够助力企业线上业务发展的优秀API
  ## [我们研究了763病例，还原病毒向全国扩散的路径](http://bigdata.51cto.com/art/202002/610091.htm)
  > 我们研究了763病例，还原病毒向全国扩散的路径
+ ## [微软这次“巨硬”，Windows并入硬件部门，由“Surface之父”领导](http://news.51cto.com/art/202002/610117.htm)
+ > 微软这次“巨硬”，Windows并入硬件部门，由“Surface之父”领导
  ## [如何使用ExifTool提取文件的元数据](http://os.51cto.com/art/202002/610034.htm)
  > 如何使用ExifTool提取文件的元数据
+ ## [IEEE 2020年12大技术趋势：边缘计算、量子计算、AI、数字孪生等](http://news.51cto.com/art/202002/610107.htm)
+ > IEEE 2020年12大技术趋势：边缘计算、量子计算、AI、数字孪生等
  ## [一段网上找的代码突然爆了，项目出现大Bug!](http://developer.51cto.com/art/202002/610094.htm)
  > 一段网上找的代码突然爆了，项目出现大Bug!
  ## [人类终于创造了惰性人工智能……](http://ai.51cto.com/art/202002/610067.htm)
  > 人类终于创造了惰性人工智能……
  ## [4个总结来看SRE与运维的思考](http://news.51cto.com/art/202002/610051.htm)
  > 4个总结来看SRE与运维的思考
- ## [不容错过！ES2020的七大新特性](http://developer.51cto.com/art/202002/610022.htm)
- > 不容错过！ES2020的七大新特性
- ## [阿里面试官：分别说说微信和淘宝扫码登录背后的实现原理？](http://developer.51cto.com/art/202002/609988.htm)
- > 阿里面试官：分别说说微信和淘宝扫码登录背后的实现原理？
- ## [职场人接下来会很难！以及我的5个建议](http://news.51cto.com/art/202002/610106.htm)
- > 突如其来的疫情，席卷着神州大地，疫情蔓延、企业复工延迟、员工无法回城上班，让许多企业老板们面临巨大的
- ## [Redis哨兵的配置和原理](http://database.51cto.com/art/202002/610104.htm)
- > 哨兵是一个独立的进行，在一个一主多从的Redis系统中，可以使用多个哨兵监控整个Redis系统，哨兵之间也会互
- ## [数据安全实践之数据资产管理](http://netsecurity.51cto.com/art/202002/610103.htm)
- > 在企业安全建设中，资产管理是很多安全工作的基础。而数据资产管理可以帮助我们更准确的发现安全风险，执行
- ## [这类邮件一定要小心！将软件伪装为冠状病毒信息](http://netsecurity.51cto.com/art/202002/610102.htm)
- > 近日，随着冠状病毒继续在全球蔓延，IBM X-Force和卡巴斯基的研究人员发现，黑客将恶意软件伪装成有关冠状
- ## [如何成功实施云转型策略](http://cloud.51cto.com/art/202002/610101.htm)
- > IT机构Unisys公司的一项研究显示，很大一部分组织尚未从云迁移中获得实质性收益。没有人曾承诺过云迁移会很
- ## [2020 年 JVM 生态报告：Kotlin 成为第二受欢迎的 JVM 语言](http://news.51cto.com/art/202002/610105.htm)
- > 2020 年 JVM 生态报告已于近日发布，该报告由 Snyk 和 The Java Magazine（Oracle 的双月刊）联合推出，旨
- ## [这款3D打印机真心赞 烧伤患者全靠它了！](http://biz.51cto.com/art/202002/610100.htm)
- > 据悉，加拿大多伦多大学工程学院和桑尼布鲁克医院的研究团队研发了一种新型的手持式3D皮肤打印机，可以在大
+ ## [谷歌地图迎来15周年重大更新 界面重新设计 新增贴心功能](http://mobile.51cto.com/app-show-610128.htm)
+ > 昨日，恰逢谷歌地图15周年生日，谷歌地图便迎来重大更新。不仅仅界面重新设计，还添加了许多贴心功能。
+ ## [做了1000次Code Review，我学到这3点经验](http://news.51cto.com/art/202002/610127.htm)
+ > Code Review 是保证代码质量的重要手段。Steven Heidel 曾在 LinkedIn 负责 Code Review，他在本文总结了
+ ## [Chrome 80发布，新特性将对用户产生深远影响](http://os.51cto.com/art/202002/610124.htm)
+ > Chrome 80 是一个具有里程碑意义的版本，因为此版本对浏览器的操作方式进行了两项重大更改，这些变化将在未
+ ## [新一轮大数据保护革命的五大趋势](http://bigdata.51cto.com/art/202002/610121.htm)
+ > 俗话说，技术是一把双刃剑。这种双重性在未来10年将变得更加突出，甚至表明如何应用技术以及贯穿其中的数据
+ ## [如何使用Windows 10快捷方式](http://os.51cto.com/art/202002/610122.htm)
+ > 下面是有关如何在Windows中使用快捷方式的指南，其中列出了一些更常用的快捷方式以及您可能第一次听到和看
+ ## [再来一个吊打百度网盘的开源神器，还是99年妹子开发的](http://news.51cto.com/art/202002/610125.htm)
+ > 百度网盘大家都很熟悉，大家都知道百度网盘如果不开会员就会被限速，以为99年的在校女大学生iikira用Go撸了
+ ## [从数组与链表到单链表的反转，一文带你吃透](http://developer.51cto.com/art/202002/610123.htm)
+ > 既然数组和链表，常常会拿到一起做比较。那咱们今天就先来说说数组和链表。
+ ## [13家专注于威胁防御的物联网安全公司](http://iot.51cto.com/art/202002/610120.htm)
+ > 随着物联网的扩展，威胁和潜在威胁不断增加。幸运的是，高级物联网安全性市场也在不断扩大，这13家公司对安
+ ## [疫情下每日统计体温怎么做？别再傻傻群接龙了](http://news.51cto.com/art/202002/610118.htm)
+ > 由于新冠肺炎疫情，全国中小学及幼儿园都已经延期开学了，老师们也会每天两次在微信群里询问每位孩子的健康
+ ## [秒懂抽象类和接口到底是什么垃圾](http://news.51cto.com/art/202002/610119.htm)
+ > 这几天给别人讲JavaSE基础，又把面向对象看了一遍，讲的时候发现一个问题，就是当时讲抽象类和接口的时候说
+ ## [自定义View开篇，必须跨过的一道坎儿](https://blog.csdn.net/huangliniqng/article/details/104188427)
+ > 
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 
- ## [每天盯着地图看？不如学习制作疫情分析地图](https://blog.csdn.net/qq_41306364/article/details/104198760)
- > 每天盯着地图看？不如学习制作疫情分析地图
+ ## [初识STM32F407芯片](https://blog.csdn.net/aa120515692/article/details/104202343)
+ > 初识STM32F407芯片
  ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
  > 究竟你适不适合买Mac？
- ## [6. 爬到的数据存哪里](https://blog.csdn.net/Theo93/article/details/104196474)
- > 6. 爬到的数据存哪里
- ## [下载AndroidStudio和AndroidSDK，并设置Window和Unity的安卓环境](https://blog.csdn.net/f_957995490/article/details/104198407)
- > 下载AndroidStudio和AndroidSDK，并设置Window和Unity的安卓环境
- ## [如何绘制深度学习-目标检测评估指标P-R（precision-recall）曲线？如何计算AP（average-precision）？](https://blog.csdn.net/Dontla/article/details/104197408)
- > 如何绘制深度学习-目标检测评估指标P-R（precision-recall）曲线？如何计算AP（average-precision）？
- ## [计算机网络复习题0204](https://blog.csdn.net/lap2004/article/details/104202106)
- > 计算机网络复习题0204
- ## [ICMP协议详解](https://blog.csdn.net/JAVA_I_want/article/details/104201292)
- > ICMP协议详解
- ## [尚硅谷 day10 Java 排序算法和二维数组](https://blog.csdn.net/qq_41818801/article/details/104202348)
- > 尚硅谷 day10 Java 排序算法和二维数组
- ## [【python爬虫专项（2）】网页结构剖析](https://blog.csdn.net/lys_828/article/details/104197102)
- > 【python爬虫专项（2）】网页结构剖析
- ## [常用存储器介绍](https://blog.csdn.net/qq_38351824/article/details/104195261)
- > 常用存储器介绍
- ## [C++经典例题求n以内的质数高效编程](https://blog.csdn.net/weixin_42212753/article/details/104193884)
- > C++经典例题求n以内的质数高效编程
- ## [PyTorch学习笔记——多分类问题 代码分析](https://blog.csdn.net/qq_44625150/article/details/104200293)
- > PyTorch学习笔记——多分类问题 代码分析
- ## [二分答案算法超详细教程](https://blog.csdn.net/weixin_44179892/article/details/104197011)
- > 二分答案算法超详细教程
- ## [储能变电站互动系统通讯协议 (征求意见稿)](https://blog.csdn.net/AlphaGQ/article/details/104201129)
- > 储能变电站互动系统通讯协议 (征求意见稿)
+ ## [计算机网络复习 ---- IP地址分类](https://blog.csdn.net/weixin_44816732/article/details/104174775)
+ > 计算机网络复习 ---- IP地址分类
+ ## [第8关 带着小饼干登陆](https://blog.csdn.net/Theo93/article/details/104201468)
+ > 第8关 带着小饼干登陆
+ ## [一阶RC低通滤波器详解（仿真+matlab+C语言实现）](https://blog.csdn.net/u010632165/article/details/104193681)
+ > 一阶RC低通滤波器详解（仿真+matlab+C语言实现）
+ ## [Python 数据结构之堆栈的实现](https://blog.csdn.net/haeasringnar/article/details/104167921)
+ > Python 数据结构之堆栈的实现
+ ## [SLAM专题（10）-- G2O图优化从入门到放弃（一）](https://blog.csdn.net/hhaowang/article/details/104192877)
+ > SLAM专题（10）-- G2O图优化从入门到放弃（一）
+ ## [菜鸟入门github上传本地项目](https://blog.csdn.net/qq_41281601/article/details/104199237)
+ > 菜鸟入门github上传本地项目
+ ## [Hive分桶分区](https://blog.csdn.net/ThreeAspects/article/details/104197840)
+ > Hive分桶分区
+ ## [DAY9  算法提高  成绩排序（1）（2）](https://blog.csdn.net/OWCYKH/article/details/104201050)
+ > DAY9  算法提高  成绩排序（1）（2）
+ ## [Python面试一百题——字符串与正则表达式](https://blog.csdn.net/qq_36551226/article/details/104186894)
+ > Python面试一百题——字符串与正则表达式
+ ## [哈夫曼树及其应用](https://blog.csdn.net/wmy0217_/article/details/104200273)
+ > 哈夫曼树及其应用
+ ## [搭建校园网的经验步骤](https://blog.csdn.net/weixin_43527478/article/details/104202402)
+ > 搭建校园网的经验步骤
+ ## [官宣了！受疫情影响，程序员可免费领这些！](https://blog.csdn.net/csdnnews/article/details/104204877)
+ > 亲爱的CSDN家人们：疫情当前，这个春节有点“寒”。截止2月6号8:30分，新型冠状病毒在全国已确诊28018名（数据来源：人民日报2.6日发布通告），疑似病例已达24702名，受其影响...
+ ## [特斯拉市值站上万亿元大关，BBA如何在“自动驾驶”上做空它？](https://blog.csdn.net/csdnnews/article/details/104204878)
+ > 来源| 新智驾文 | 利荣，责编 |Carol出品 | CSDN（ID：CSDNnews）火火火火火。特斯拉的市值一路狂飙。2月4日，在最新一轮暴涨后，马斯克都忍不住推出“大火”表情包，庆祝创下已近万亿市值。目前特斯拉的市值，在汽车行业中排名第二，仅次于丰田，超越了大众汽车。...
+ ## [天才？骗子？解析Deep Tech](https://blog.csdn.net/csdnnews/article/details/104205166)
+ > 来源|hackernoon编译 |火火酱，责编 | Carol出品 | CSDN（ID：CSDNnews）“Deep Tech”（深度科技）这一概念，在中西方文化中并没有统一的定义。一般意义上，深科技可以理解为高深、深度高科技，是一种对人类社会的发展和进步具有重大影响的前沿科学技术。...
+ ## [8 天扩容超 100 万核，腾讯会议正在刷新历史](https://blog.csdn.net/csdnnews/article/details/104201196)
+ > 8 天紧急扩容超过 10 万台云主机，投入的计算资源超过 100 万核，这在腾讯云的历史上尚属首次，这应该也是中国云计算史上前所未有的记录。
+ ## [十大类疫情服务紧缺  阿里广发英雄帖抗疫小程序开发者最高可获50万元奖励](https://blog.csdn.net/csdnnews/article/details/104199326)
+ > 全民积极响应国家抗击新冠肺炎疫情的号召，正催生出越来越多新的互联网服务缺口。基于对用户、政府、企事业单位抗疫服务需求的紧缺情况调查，支付宝今日面向社会各界开发者发布“10大疫情期最急需服务开发清单”，号召更多开发者投入进来开发更多服务，解决社会问题。据了解，清单涵盖了口罩预约、疫情上报、社区出入管.
+ ## [巨杉数据库 v5.0 Beta 正式发布！](https://blog.csdn.net/csdnnews/article/details/104204868)
+ > 2020年疫情的出现对众多企业运营造成了严重的影响。面对突发状况，巨杉利用长期积累的远程研发协作体系，仍然坚持进行技术创新，按照已有规划推进研发工作，正式推出了巨杉数据库(Sequoia...
+ ## [计算机编程的 20 年变迁！](https://blog.csdn.net/csdnnews/article/details/104204875)
+ > 技术在更迭，科技在变化。20 年前，或许只是处于概念型的技术，如今早已深入落地我们的日常生活中，而从计算机编程角度来看，在互联网发展的 20 年间，究竟有哪些根本性的变化？本文即将揭晓答...
+ ## [GitHub 标星 14000+，阿里开源的 SEATA 如何应用到极致？](https://blog.csdn.net/csdnnews/article/details/104204876)
+ > 作者简介：袁鸣凯，家乐福技术总监， 高知特有限技术公司中国区架构师，HP上海研发技术专家，夸客金融首席架构师，现任家乐福中国区技术总监。多年互联网、企业级SOA、微服务、全渠道中台方面的架构设计实战经验，曾先后参与过Metlife、CIGNA（信诺保险）内部开发设计安全规范制定，以及参与过JAVA.
+ ## [阿里再发最严口罩禁令；铁路再次调整免费退票；iOS 13.4 测试版发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104204866)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
+ ## [阿里达摩院又火了！引入AI确诊肺炎提速16倍，仅需半小时！网友神回复了](https://blog.csdn.net/csdnnews/article/details/104204869)
+ > 针对新型冠状病毒的确诊，全国大多数医院基本都采用核酸检测。果壳网发文称：从病人样本送到实验室即刻开始测试，到出检测报告，差不多需要8个小时。但是8个小时太长，在现在这种病毒传播速度下，让...
+ ## [我们为什么需要远程办公？](https://blog.csdn.net/csdnnews/article/details/104204870)
+ > 近日，国内因疫情原因，很多企业延长了假期，同时也组织团队成员们开启了远程办公的模式。实际上，远程办公并非是一种新兴的概念，早在上次的工业革命中就已诞生，但迟迟未能普及，这究竟是何原因导致？在什么样的基础设施之上，远程办公正在以我们难以想象的速度崛起？作者 |Chris Herd译者 |...
 # 人工智能 
- ## [(数据库原理)数据库的范式理论总结](https://blog.csdn.net/qq_38115310/article/details/95855646)
- > (数据库原理)数据库的范式理论总结
- ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
- > mysql 8.0.17 解压版安装教程
- ## [面试 SQL整理 常见的SQL面试题：经典50题](https://blog.csdn.net/u010565545/article/details/100785261)
- > 面试 SQL整理 常见的SQL面试题：经典50题
- ## [linux odoo docker常用运维命令表](https://blog.csdn.net/qq_32394351/article/details/101056652)
- > linux odoo docker常用运维命令表
- ## [SQL建表查询优化的30个小技巧（收藏）](https://blog.csdn.net/weixin_39076203/article/details/97056851)
- > SQL建表查询优化的30个小技巧（收藏）
- ## [Oracle数据库学习笔记（oracle 11g持续更新...）](https://blog.csdn.net/Mr_C_python/article/details/100939206)
- > Oracle数据库学习笔记（oracle 11g持续更新...）
- ## [重装系统之提示在EFI系统上，Windows只能安装到GPT磁盘](https://blog.csdn.net/qq_43020645/article/details/100120770)
- > 重装系统之提示在EFI系统上，Windows只能安装到GPT磁盘
- ## [pod报错"Back-off restarting failed container"解决办法](https://blog.csdn.net/sqhren626232/article/details/101013390)
- > pod报错&quot;Back-off restarting failed container&quot;解决办法
- ## [mysql相关知识汇总学习](https://blog.csdn.net/ab601026460/article/details/54017607)
- > mysql相关知识汇总学习
- ## [SSM之mybatis：修改了Mybatis的xml文件不生效](https://blog.csdn.net/qq_41623154/article/details/100974491)
- > SSM之mybatis：修改了Mybatis的xml文件不生效
- ## [(数据库原理)数据库的完整性总结](https://blog.csdn.net/qq_38115310/article/details/95810455)
- > (数据库原理)数据库的完整性总结
- ## [pytorch:model.train和model.eval用法和区别](https://blog.csdn.net/qq_38410428/article/details/101102075)
- > pytorch:model.train和model.eval用法和区别
- ## [windows10安装mysql数据库小结](https://blog.csdn.net/weixin_42260623/article/details/101059912)
- > windows10安装mysql数据库小结
- ## [ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate](https://blog.csdn.net/lxw1844912514/article/details/100975571)
- > ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate
- ## [ORA-01017: invalid username/password; logon denied  无法使用密码登录oracle  centos linux redhat](https://blog.csdn.net/Alan1921/article/details/100146505)
- > ORA-01017: invalid username/password; logon denied  无法使用密码登录oracle  centos linux redhat
+ ## [160个常用黑客命令速查手册](https://blog.csdn.net/cunzher/article/details/104184505)
+ > 160个常用黑客命令速查手册
+ ## [【内网穿透硬盘】外网环境通过FRP实现硬盘远程管理（以路由器挂载为例）](https://blog.csdn.net/deng_xj/article/details/104190679)
+ > 
+ ## [Linux的基本指令](https://blog.csdn.net/kxindouhao5491/article/details/104179958)
+ > Linux的基本指令
+ ## [rsync学习笔记](https://blog.csdn.net/weixin_38889300/article/details/104172972)
+ > rsync学习笔记
+ ## [浅谈"技术运营"和"运维"](https://blog.csdn.net/weixin_43291459/article/details/104178322)
+ > 浅谈&quot;技术运营&quot;和&quot;运维&quot;
+ ## [linux指令-ln](https://blog.csdn.net/meism5/article/details/104188929)
+ > linux指令-ln
+ ## [Linux基础（第一周）](https://blog.csdn.net/FlamencaH/article/details/104193784)
+ > Linux基础（第一周）
+ ## [MySQL的简介和安装](https://blog.csdn.net/fhdsece/article/details/104190395)
+ > MySQL的简介和安装
+ ## [运维之道  |  SSH 自动化集群管理、自动化脚本管理](https://blog.csdn.net/VillianTsang/article/details/104187032)
+ > 运维之道  |  SSH 自动化集群管理、自动化脚本管理
+ ## [fastDFS分布式文件系统介绍和安装](https://blog.csdn.net/weixin_44816732/article/details/104183493)
+ > fastDFS分布式文件系统介绍和安装
+ ## [Linux常用指令学习笔记](https://blog.csdn.net/qq_42679237/article/details/104154686)
+ > Linux常用指令学习笔记
+ ## [Linux 入门（三）zip压缩与tar打包](https://blog.csdn.net/fengyang182/article/details/104179446)
+ > Linux 入门（三）zip压缩与tar打包
+ ## [Linux测试环境简单使用教程](https://blog.csdn.net/Z875983491/article/details/104184554)
+ > Linux测试环境简单使用教程
+ ## [Nginx网页优化（版本、缓存时间、日志分隔、连接超时）](https://blog.csdn.net/weixin_45726050/article/details/104188882)
+ > Nginx网页优化（版本、缓存时间、日志分隔、连接超时）
+ ## [VM虚拟机+Ubuntu环境配置+各种问题](https://blog.csdn.net/SouthWooden/article/details/104178738)
+ > VM虚拟机+Ubuntu环境配置+各种问题
 # PM 
+ ## [大师级的心智模式成长模型](http://www.woshipm.com/zhichang/3369584.html)
+ > 有很多人会问，看过很多道理，为什么还是掌握不好，过不好这一生呢？笔者给出了答案——知识是别人的，心智是自己的。只有觉知到心智模式，才是自我超越的起点。去年，...
+ ## [大话PM | 产品设计，如何搞定业务异常？](http://www.woshipm.com/pd/3371660.html)
+ > 本文作者从自己的实际工作出发，结合案例对业务异常的情况、预防方案和解决方案进行了梳理分析和总结，供大家一同学习和参考。由于疫情影响，在延长的假期中抽空回顾...
+ ## [美图秀秀产品体验报告丨工具类产品的转型之路](http://www.woshipm.com/evaluating/3345497.html)
+ > 美图秀秀是一款集拍照修图、视频剪辑、社区生活于一身的新型社交产品。目前，美图秀秀以“创建我的生活方式”为定位，全面升级为新型社交平台。那么，这条转型之路，美图...
+ ## [团队协作：如何克服逃避责任、无视集体成就的障碍？](http://www.woshipm.com/zhichang/3328572.html)
+ > 上一篇文章和大家分享了团队协作惧怕冲突、工作不明确的障碍，本文将分享团队协作中逃避责任和无视集体成就的障碍，希望对你也有帮助。第四大障碍：逃避责任责任感是...
+ ## [全民远程办公，华为云WeLink与飞书的后发优势如何？](http://www.woshipm.com/evaluating/3364204.html)
+ > 当远程办公成为工作必不可少的一部分，企业本身线上化、数字化以及智能化的也完成了大半，真正进入“所有公司都是互联网公司”的社会。对于现在特殊时期，全面远成办公，...
+ ## [新冠肺炎之下，社交媒体的力量与风险](http://www.woshipm.com/it/3369541.html)
+ > 进入社交媒体时代后，每个人都成了自发媒体，拥有筛选、创作、传播的力量。而新冠肺炎疫情发生后，这些人也不断传播、发酵，影响、重塑疫情相关的认知和行动。那么这种...
+ ## [“华与华”实操案例背后的4个品牌方法论](http://www.woshipm.com/marketing/3371222.html)
+ > 对营销人来说，“华与华”可谓是营销策划领域最顶尖的机构，它凭借足够强劲的专业能力，打造了国内一个又一个知名品牌，并助力这些品牌取得了不俗的商业成绩。因此，笔者...
+ ## [设计师 VS 产品经理：如何客观面对合作问题？](http://www.woshipm.com/zhichang/3369957.html)
+ > 本文作者通过这篇文章，从设计师和产品经理的不同视角出发，梳理了双方合作中感触最深的几个问题，希望对你有所帮助~我是谁？初次见面，先做个自我介绍。我叫以以，...
+ ## [策略产品经理如何发现问题？（上）](http://www.woshipm.com/pmd/3370401.html)
+ > 产品经理的核心只有一个，那就是发现和解决问题。我们往往更加关注解决问题的方式方法，而忽略了发现问题的能力。优秀的产品经理，必须具备独到准确的发现问题的能力...
+ ## [用户增长策略的独孤九剑](http://www.woshipm.com/operate/3370689.html)
+ > 一个好的用户增长策略一定是长期的、稳定的，那有哪些被证明是长期，稳定，有效的「增长策略」呢？产品的「用户增长」是所有互联网企业最头疼的问题：没有获客，就...
  ## [互联网时代，品牌“网红化”能够带来哪些好处？](http://www.woshipm.com/marketing/3371150.html)
  > 近几年，网红经济概念非常火热，并为企业与品牌带来了不少收益与正向影响。那么品牌“网红化”为什么能有这么大的好处呢？背后有什么原理呢？让我们看看笔者的分析吧。...
- ## [产品经理如何进行需求管理？](http://www.woshipm.com/pmd/3369691.html)
- > 需求管理是产品经理日常工作之一，在管理需求的过程中通常会遇到开发资源不足，老板说这个需求很紧急需要插队，市场说再不实现这个需求商家就不买单了等等情况。遇到这...
- ## [GPT-2：OpenAI的NLP商业化野望](http://www.woshipm.com/ai/3368266.html)
- > 文章回顾了近几年NLP的升级历程，从三个阶段的发展带我们梳理了NLP演进的脉络。自然语言处理（NLP）技术正在生活的方方面面改变着我们的生活。客厅的智能音箱在跟你每...
- ## [我们认真研究了朋友圈广告，发现了爆款刷屏的小秘密](http://www.woshipm.com/marketing/3370700.html)
- > 不知不觉间，朋友圈广告上线已有4年，微信的流量优势，促成了广告业务的繁荣稳定，也让朋友圈广告成为用户社交场景里的常见元素。不过，4年来朋友圈广告也经历了很大的...
- ## [线上教育发展势头猛烈走向成熟应该打好这两张牌](http://www.chanpin100.com/article/110680)
- > 春节后的首个交易日，A股跌幅超过很多人预期，线上教育板块迎来逆势大涨。疫情之下&quot;停课不停学&quot;，让沉寂已久的在线教育迎来爆发，未来线上教育或成为教育行业的风口。
- ## [谷歌欲坐稳“万亿市值俱乐部”，两驾新马车动力还差点事](http://www.chanpin100.com/article/110679)
- > 过于依赖广告营收，新业务开拓不利，正在成为谷歌能否坐稳万亿市值俱乐部的隐患。
- ## [27万人云蹦迪，从"宅草莓不是音乐节"看线上线下联动可能性](http://www.chanpin100.com/article/110677)
- > 最近，在疫情的阴霾笼罩之下，人们正常的出行需求和娱乐需求大多都转到了线上。比如音乐节被迫转向线上，而其在线上的表现则以直观的数据反映出线上音乐节的发展潜力。
- ## [数据异常如何分析？](http://www.chanpin100.com/article/110676)
- > 在数据分析的过程中，一定要搞明白每一次数据涨跌的原因~
- ## [关于“需求分析”方法，了解一下？](http://www.chanpin100.com/article/110674)
- > 汪叔对“需求分析”的定义是：“对需求（问题）进行识别并进行分析与定位，寻找最优解，并制定可行性方案”
- ## [产品经理需要了解的SQL基础](http://www.chanpin100.com/article/110673)
- > 产品经理需要了解的SQL基础信息
- ## [关于今年疫情事件引发的商业领域变化思考](http://www.chanpin100.com/article/110672)
- > 年前，写了篇关于春节红包大战的文章，当时就提到一个现象，众多互联网企业都越来越看中春节万家团圆看春晚这个节日场景，然后基于次场景进行自家产品的广告宣传，实现拉新、激活等目的。然而，因为一个突然出现的疫情，万众人民关注的团圆盛宴被打断了，每个人都心系疫情防控情况，日夜难安。于此同时更有诸多的企业和普通
- ## [如何请求广告-浅谈waterfall与headerbidding技术](http://www.chanpin100.com/article/110670)
- > 如何请求广告对于收益也是很重要的一部分，本篇主要讲下，流量方请求广告的两个技术 waterfall和head bidding。
 
     
