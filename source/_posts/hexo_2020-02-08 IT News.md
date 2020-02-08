@@ -1,20 +1,20 @@
 ---
 title: 2020-02-08 IT News
 copyright: true
-date: 2020-02-08 08:00:51
+date: 2020-02-08 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [京东物流完成武汉智能配送第一单丨富士康开始生产口罩\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1581118205&ver=2145&signature=RhyHgi-MjxggMmYAKPKfmloYlqrFYIjB-yhtvNC*xf95U0PjrvEr4ROTwQANh1upE8-zPyP6oOgGe5QhacL4cCkMeeOB46BDHNgHTUgyUP-hi3puSaMZMUFM0wSRnODo&new=1)
- > 2月07日丨周五【Do说】编辑 | 赵艾虎京东物流完成武汉智能配送第一单2月6日，在武汉市青山区吉林街上，京东物流智能配送机器人穿过建设二路路口，顺利将医疗物资送到了武汉第九医院。这是疫情爆发后武汉智能配送...
- ## [爱立信退展、中兴取消发布：新冠疫情下的MWC20，你还去吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1581118205&ver=2145&signature=1xSBpVroCH7nLMCloaJQEtKpguGzuJWQRUaBuyHnLZpBjYO1fNDwfSksnXvAiGL*Nd52dwD27UuPKjgVwDn3vRdSPHhy01eM7QXusMsehXB4w5-3CL5Jk3q8soujjvcR&new=1)
+ ## [爱立信退展、中兴取消发布：新冠疫情下的MWC20，你还去吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1581123604&ver=2145&signature=1xSBpVroCH7nLMCloaJQEtKpguGzuJWQRUaBuyHnLZpA1H2lNjNRhRxZLSAsghklkry-bAZPgxK4GLvkr7Oz8ULy44bDY4wSavbdmVtqbS-pnVDOBAMdjXbzKxfvlux4&new=1)
  > 今日，爱立信宣布将退出即将举办的MWC20。近期，新型肺炎疫情肆虐。这对即将于2月24-27日在西班牙巴塞罗那举办的MWC20（世界移动大会，俗称巴展）带来不小影响，尤其是中国参展企业和观众。疫情肆虐，影响出行据...
- ## [中国电信前省公司一把手因病不幸逝世!](http://mp.weixin.qq.com/s?src=11&timestamp=1581118205&ver=2145&signature=8rL1MfvlFsN08eykI3tfeExMXf9GiP4Lky7gw0QuPvEvGXyxIIZsj2ECohUINwXylHzY8Pm1fglRx8OZsXRgVJo3H2o0feko3Whpec8AqBO5wrOHg0lZ7XgvdHcJInQB&new=1)
- > 深切悼念赵俊达同志原云南电信总经理、云南省政府原参事赵俊达同志于2020年2月6日零时在昆明因心脏病突发不幸逝世！赵俊达先同志在电信任职期间为人宽厚，爱岗敬业，一双铁肩承重担。与同事们工作在第一线，同吃...
- ## [抗击疫情，以“数”战“疫”!](http://mp.weixin.qq.com/s?src=11&timestamp=1581118205&ver=2145&signature=hzVVUeQG3ShfiIqBMIZzNKe1GS*cZb**AH8U6PYpi2hylqtddRmoK3kticGwr92rbUkn4Gs7ktDeyFa4v4n0Uge7OU1hGleZwVbQJjc3YeiCQptaMGnMH0Rchwfs06eh&new=1)
+ ## [抗击疫情，以“数”战“疫”!](http://mp.weixin.qq.com/s?src=11&timestamp=1581123604&ver=2145&signature=hzVVUeQG3ShfiIqBMIZzNKe1GS*cZb**AH8U6PYpi2i109s4R3yf*gt2jaBsVLb5trmffrTU0Qojx5Js2rai2L3ezs-08au4S7Mbl0kzyjgWYsfP50q0dO4wQbQEABR*&new=1)
  > 与时间赛跑，与病毒较量，一场没有硝烟的战“疫”正在全国打响。“疫情防控工作是一项极其严肃的政治任务，拖延不得、懈怠不得、马虎不得，我们要运用大数据有效支撑服务疫情联防联控、精准施策。”工业和信息化...
- ## [远程办公效率低?这些工具或许能帮到你](http://mp.weixin.qq.com/s?src=11&timestamp=1581118205&ver=2145&signature=AiNCSd4FrItLjlBrrZhmbFWNlqHnjudslYxzvfc9OTVk9u-zXr9VOSNwgQGNYXYcWNPfU32l3Gq8ar0yJk4KrdHbg7gulFHNv4CIB0a385oKu9NIYuV2UzbS685Y6loo&new=1)
+ ## [中国电信前省公司一把手因病不幸逝世!](http://mp.weixin.qq.com/s?src=11&timestamp=1581123604&ver=2145&signature=8rL1MfvlFsN08eykI3tfeExMXf9GiP4Lky7gw0QuPvEu*bHz5wjs*7p5RXY78s88p9aOFGIzI-YzwwucnnEXiplgv6x9iogoJK*WL19PnzWuEsx-NfnhBiwmwFIwbAAu&new=1)
+ > 深切悼念赵俊达同志原云南电信总经理、云南省政府原参事赵俊达同志于2020年2月6日零时在昆明因心脏病突发不幸逝世！赵俊达先同志在电信任职期间为人宽厚，爱岗敬业，一双铁肩承重担。与同事们工作在第一线，同吃...
+ ## [京东物流完成武汉智能配送第一单丨富士康开始生产口罩\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1581123604&ver=2145&signature=RhyHgi-MjxggMmYAKPKfmloYlqrFYIjB-yhtvNC*xf8vXdK6hP5hTLkNCgEUFDwYSkqCjVXkIGL2Vwcq2bxZ0Jka5LBF6A0CYRsEeUrsbT5IgZrh7cu4NgoDw**r7xGF&new=1)
+ > 2月07日丨周五【Do说】编辑 | 赵艾虎京东物流完成武汉智能配送第一单2月6日，在武汉市青山区吉林街上，京东物流智能配送机器人穿过建设二路路口，顺利将医疗物资送到了武汉第九医院。这是疫情爆发后武汉智能配送...
+ ## [远程办公效率低?这些工具或许能帮到你](http://mp.weixin.qq.com/s?src=11&timestamp=1581123604&ver=2145&signature=AiNCSd4FrItLjlBrrZhmbFWNlqHnjudslYxzvfc9OTW6hk*db9QRmoAgVMP1JJyRrUDrkeK3cGQd*DI7h81iRzU94mGqZPckWUWFb2OLnkx-vtfoK*1o*jo0wgYYqUrQ&new=1)
  > 今天你远程办公了吗？从2月3日开始，有许多企业选择远程办公方式，减少人员聚集。在家办公的第四天，不知道各位使用的远程办公工具还流畅吗？工作效率怎么样？接下来就给大家推荐几款有助于提升工作效率的工具，...
 # IT 技术 
  ## [25种能够助力企业线上业务发展的优秀API](http://news.51cto.com/art/202002/610021.htm)
@@ -33,38 +33,69 @@ categories: IT NEWS
  > IEEE 2020年12大技术趋势：边缘计算、量子计算、AI、数字孪生等
  ## [一段网上找的代码突然爆了，项目出现大Bug!](http://developer.51cto.com/art/202002/610094.htm)
  > 一段网上找的代码突然爆了，项目出现大Bug!
- ## [CSS 背景设置](https://blog.csdn.net/qq_41696334/article/details/104187505)
- > CSS 背景设置
- ## [网络爬虫之正则表达式](https://blog.csdn.net/Deep___Learning/article/details/104211483)
- > 网络爬虫之正则表达式
- ## [题解 P1637 【三元上升子序列】](https://blog.csdn.net/steve95/article/details/104215638)
- > 题解 P1637 【三元上升子序列】
- ## [第2章：基础知识——《知识图谱概念与技术》肖仰华](https://blog.csdn.net/fufu_good/article/details/104202671)
- > 第2章：基础知识——《知识图谱概念与技术》肖仰华
+ ## [数据库开发——MySQL——简单介绍和安装](https://blog.csdn.net/weixin_43336281/article/details/104207927)
+ > 数据库开发——MySQL——简单介绍和安装
+ ## [自定义View二篇，如何自定义一个规范的ViewGroup](https://blog.csdn.net/huangliniqng/article/details/104208227)
+ > 
+ ## [常用的渗透测试工具总结](https://blog.csdn.net/qq_41901122/article/details/104215011)
+ > 常用的渗透测试工具总结
+ ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
+ > 究竟你适不适合买Mac？
+ ## [Windows更新1909实时防护打不开的问题](https://blog.csdn.net/weixin_43870742/article/details/104210952)
+ > Windows更新1909实时防护打不开的问题
  ## [MySQL数据库集群实战（3）——MySQL主从复制之半同步复制](https://blog.csdn.net/CapejasmineY/article/details/104199957)
  > MySQL数据库集群实战（3）——MySQL主从复制之半同步复制
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [Python基础知识详解  从入门到精通（四）列表、元组、字典、集合](https://blog.csdn.net/GuanFuXinCSDN/article/details/104210975)
- > Python基础知识详解  从入门到精通（四）列表、元组、字典、集合
- ## [AttributeError: ‘NoneType’ object has no attribute ‘data’](https://blog.csdn.net/happyeveryday62/article/details/104215273)
- > AttributeError: ‘NoneType’ object has no attribute ‘data’
- ## [TabBar设置](https://blog.csdn.net/weixin_44307065/article/details/104207508)
- > TabBar设置
- ## [oracle 数据库 iot 之一](https://blog.csdn.net/ctypyb2002/article/details/104212622)
- > oracle 数据库 iot 之一
- ## [N 个小球放 M 个盒子问题汇总](https://blog.csdn.net/a40850273/article/details/104216227)
- > N 个小球放 M 个盒子问题汇总
- ## [Linux 入门（六）软件安装](https://blog.csdn.net/fengyang182/article/details/104211949)
- > Linux 入门（六）软件安装
- ## [POJ 3259 Wormholes 【Floyd判断负环】](https://blog.csdn.net/weixin_44339734/article/details/104212575)
- > POJ 3259 Wormholes 【Floyd判断负环】
- ## [Android——ViewPager和Fragment混合使用](https://blog.csdn.net/qq_43567345/article/details/104214320)
- > Android——ViewPager和Fragment混合使用
- ## [Rxjs中concat, concatAll, concatMap及concatMapTo的理解及应用](https://blog.csdn.net/qq470603823/article/details/104214422)
- > Rxjs中concat, concatAll, concatMap及concatMapTo的理解及应用
+ ## [算法篇  干货！！！  小学生算术   打卡第二天](https://blog.csdn.net/qq_45748475/article/details/104212486)
+ > 算法篇  干货！！！  小学生算术   打卡第二天
+ ## [消息中间件之RabbitMQ专题一：docker安装RabbitMQ](https://blog.csdn.net/weixin_36586564/article/details/104210267)
+ > 消息中间件之RabbitMQ专题一：docker安装RabbitMQ
+ ## [linux/kali NAT网络连接修复](https://blog.csdn.net/qq_43390703/article/details/104213695)
+ > linux/kali NAT网络连接修复
+ ## [集成运算放大器之积分电路搭建](https://blog.csdn.net/qq_36229876/article/details/104215836)
+ > 集成运算放大器之积分电路搭建
+ ## [CentOS7设置固定IP(亲测好用)](https://blog.csdn.net/qq_41686190/article/details/104210255)
+ > CentOS7设置固定IP(亲测好用)
+ ## [python编程从入门到实践 答案 9-13 -- 9-15](https://blog.csdn.net/weixin_40892578/article/details/104214985)
+ > python编程从入门到实践 答案 9-13 -- 9-15
+ ## [用python实现中文词云完整流程(wordcloud、jieba)](https://blog.csdn.net/qq_30841655/article/details/104199778)
+ > 用python实现中文词云完整流程(wordcloud、jieba)
+ ## [试客联盟某加密参数js逆向分析](https://blog.csdn.net/gklcsdn/article/details/104214574)
+ > 试客联盟某加密参数js逆向分析
+ ## [SVM+Sift+K-means花朵分类(Matlab)](https://blog.csdn.net/weixin_42486554/article/details/104210827)
+ > SVM+Sift+K-means花朵分类(Matlab)
  ## [这是我见过最卡通的 Python 算法了，通俗易懂](https://blog.csdn.net/csdnnews/article/details/104218201)
  > 普通程序员，不学算法，也可以成为大神吗？对不起，这个，绝对不可以。可是算法好难啊~~看两页书就想睡觉……所以就不学了吗？就一直当普通程序员吗？如果有一本算法书，看着很轻松……又有代码示例...
+# 人工智能 
+ ## [阿里架构师花近十年时间整理出来的Java核心知识pdf（Java岗）](https://blog.csdn.net/kxkxyzyz/article/details/104158088)
+ > 阿里架构师花近十年时间整理出来的Java核心知识pdf（Java岗）
+ ## [别再问我Nginx是什么，拿去不谢](https://blog.csdn.net/qq_41907816/article/details/104186429)
+ > 别再问我Nginx是什么，拿去不谢
+ ## [解读MVC和JavaWeb的经典三层结构](https://blog.csdn.net/belongtocode/article/details/104189023)
+ > 解读MVC和JavaWeb的经典三层结构
+ ## [三分钟入坑指北  Docsify   Serverless Framework 快速创建个人博客系统](https://blog.csdn.net/weixin_42409476/article/details/104183673)
+ > 三分钟入坑指北  Docsify   Serverless Framework 快速创建个人博客系统
+ ## [接口设计之幂等性设计](https://blog.csdn.net/qq_36011946/article/details/104200262)
+ > 接口设计之幂等性设计
+ ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
+ > 为什么说程序员做外包没前途？
+ ## [Kotlin学习笔记（六）：Kotlin中常见的操作符](https://blog.csdn.net/qq_39240270/article/details/104201648)
+ > Kotlin学习笔记（六）：Kotlin中常见的操作符
+ ## [一线技术管理者究竟在管什么事？](https://blog.csdn.net/XinLiangTalk/article/details/104177569)
+ > 一线技术管理者究竟在管什么事？
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [分布式文件系统GFS、HDFS的比较](https://blog.csdn.net/leftfist/article/details/104168141)
+ > 分布式文件系统GFS、HDFS的比较
+ ## [SpringBoot和Spring，SpringMVC三者的关系](https://blog.csdn.net/qq_44891295/article/details/104184773)
+ > SpringBoot和Spring，SpringMVC三者的关系
+ ## [Kafka概述](https://blog.csdn.net/a805814077/article/details/104185506)
+ > Kafka概述
+ ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ > 
+ ## [【电赛】2019电赛纸张计数显示装置Github仓库说明](https://blog.csdn.net/qq_39492932/article/details/104190621)
+ > 【电赛】2019电赛纸张计数显示装置Github仓库说明
+ ## [Jeesite使用自动代码生成器生成代码流程步骤](https://blog.csdn.net/Difficult_Name/article/details/104196191)
+ > Jeesite使用自动代码生成器生成代码流程步骤
 # PM 
  ## [0-3岁产品经理必懂的数据分析方法（3）-漏斗观察法](http://www.chanpin100.com/article/110687)
  > 干货！
