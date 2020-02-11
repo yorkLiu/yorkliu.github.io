@@ -1,10 +1,23 @@
 ---
 title: 2020-02-11 IT News
 copyright: true
-date: 2020-02-11 12:01:44
+date: 2020-02-11 17:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】2020年02月11日 星期二</b></summary><div class="news-list-content"><p class="p1">1.&#26368;&#39640;&#27861;&#31561;&#22235;&#37096;&#38376;&#65306;&#21700;&#25260;&#30123;&#24773;&#38450;&#25511;&#24613;&#38656;&#21697;&#20215;&#26684;&#65292;&#21487;&#20197;&#38750;&#27861;&#32463;&#33829;&#32618;&#23450;&#32618;</p>
+<p class="p1">2.&#30334;&#24230;&#25512;&#20986;&#8220;&#20849;&#24230;&#35745;&#21010;&#8221;&#65306;AI&#25216;&#26415;&#12289;&#33829;&#38144;&#36171;&#33021;&#20840;&#38754;&#25206;&#25345;&#20013;&#23567;&#20225;&#19994;</p>
+<p class="p1">3.&#38463;&#37324;&#24052;&#24052;&#21457;&#24067;&#21578;&#21830;&#23478;&#20070;&#65292;&#25552;&#20986;&#20845;&#22823;&#26041;&#38754;&#20108;&#21313;&#26465;&#21830;&#23478;&#25206;&#21161;&#25514;&#26045;</p>
+<p class="p1">4.&#22269;&#23478;&#37038;&#25919;&#23616;&#65306;13&#23478;&#24555;&#36882;&#20225;&#19994;&#24674;&#22797;&#27491;&#24120;&#36816;&#33829;&#65292;&#36880;&#27493;&#24674;&#22797;&#20135;&#33021;</p>
+<p class="p1">5.&#25340;&#22810;&#22810;&#19978;&#32447;&#8220;&#25239;&#30123;&#20892;&#36135;&#8221;&#19987;&#21306;&#65292;&#35774;&#31435;5&#20159;&#20803;&#19987;&#39033;&#20892;&#20135;&#21697;&#34917;&#36148;</p>
+<p class="p1">6.&#24037;&#20449;&#37096;&#21457;&#25918;5G&#23460;&#20869;&#39057;&#29575;&#35768;&#21487;&#65292;&#32852;&#36890;&#12289;&#30005;&#20449;&#12289;&#24191;&#30005;&#19977;&#23478;&#20849;&#20139;&#20849;&#24314;</p>
+<p class="p1">7.&#21306;&#22359;&#38142;&#24904;&#21892;&#25424;&#36192;&#28335;&#28304;&#24179;&#21488;&#8220;&#21892;&#36394;&#8221;&#27491;&#24335;&#19978;&#32447;</p>
+<p class="p1">8. &#21360;&#35937;&#31508;&#35760;&#19978;&#32447;&#20869;&#23481;&#24179;&#21488;&#8220;&#21360;&#35937;&#35782;&#22530;&#8221;&#65292;&#40723;&#21169;&#29992;&#25143;&#20256;&#36882;&#24120;&#35782;&#12289;&#30693;&#35782;&#12289;&#35265;&#35782;</p>
+<p class="p1">9.&#21307;&#23398;&#24433;&#20687;&#35786;&#26029;&#26381;&#21153;&#26426;&#26500;&#12300;&#20840;&#26223;&#21307;&#23398;&#24433;&#20687;&#12301;&#33719;B&#36718;6&#20159;&#20803;&#34701;&#36164;</p>
+<p class="p1">10.&#21307;&#33647;&#36830;&#38145;&#38646;&#21806;&#21830;&#12300;&#36797;&#23425;&#25104;&#22823;&#26041;&#22278;&#12301;&#33719;&#25112;&#30053;&#25237;&#36164;13.4&#20159;&#20154;&#27665;&#24065;</p>
+</div>
+                        
+</details>
 <details><summary><b>【泡面小镇早报】节后复工企业招聘需求同比下降七成</b></summary><div class="news-list-content"><h3>&#22836;&#26465;&#26032;&#38395;</h3>
 <p><strong>&#20840;&#22269;&#20154;&#22823;&#24120;&#22996;&#20250;&#27861;&#24037;&#22996;&#24050;&#21551;&#21160;&#37326;&#29983;&#21160;&#29289;&#20445;&#25252;&#27861;&#20462;&#25913;&#24037;&#20316;</strong></p>
 <p>&#20840;&#22269;&#20154;&#22823;&#24120;&#22996;&#20250;&#27861;&#24037;&#22996;&#24050;&#32463;&#37096;&#32626;&#21551;&#21160;&#37326;&#29983;&#21160;&#29289;&#20445;&#25252;&#27861;&#30340;&#20462;&#25913;&#24037;&#20316;&#65292;&#25311;&#23558;&#20462;&#25913;&#37326;&#29983;&#21160;&#29289;&#20445;&#25252;&#27861;&#22686;&#21152;&#21015;&#20837;&#24120;&#22996;&#20250;&#20170;&#24180;&#30340;&#31435;&#27861;&#24037;&#20316;&#35745;&#21010;&#65292;&#24182;&#21152;&#24555;&#21160;&#29289;&#38450;&#30123;&#27861;&#31561;&#27861;&#24459;&#30340;&#20462;&#25913;&#36827;&#31243;&#12290;&#21516;&#26102;&#65292;&#20840;&#22269;&#20154;&#22823;&#24120;&#22996;&#20250;&#27861;&#24037;&#22996;&#36824;&#27491;&#22312;&#30740;&#31350;&#20110;&#36817;&#26399;&#30001;&#24120;&#22996;&#20250;&#20316;&#20986;&#19968;&#20010;&#26377;&#20851;&#27861;&#24459;&#38382;&#39064;&#30340;&#20915;&#23450;&#12290;&#20840;&#22269;&#20154;&#22823;&#24120;&#22996;&#20250;&#27861;&#24037;&#22996;&#32463;&#27982;&#27861;&#23460;&#20027;&#20219;&#29579;&#29790;&#36154;&#23545;&#27492;&#34920;&#31034;&#65292;&#26377;&#24517;&#35201;&#36827;&#19968;&#27493;&#34917;&#20805;&#23436;&#21892;&#37326;&#29983;&#21160;&#29289;&#20445;&#25252;&#27861;&#31561;&#30456;&#20851;&#27861;&#24459;&#27861;&#35268;&#65292;&#25193;&#22823;&#27861;&#24459;&#35843;&#25972;&#33539;&#22260;&#65292;&#21152;&#22823;&#25171;&#20987;&#21644;&#24809;&#27835;&#20081;&#25429;&#28389;&#39135;&#37326;&#29983;&#21160;&#29289;&#34892;&#20026;&#30340;&#21147;&#24230;&#12290;</p>
@@ -58,23 +71,43 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [LG 出售中国总部大楼；苹果延长疫情期间 Apple 设备保修期；Linux 5.6 新特性|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=aUhIytXCLAFuX274eLPlRaMvpFy6nWiPKbsevCayi3wo6nYDv-ZtVsYBTgZ9srVJ4lueEQCaD108alAJwaTkDXJydE4TNXY0WEniZpUEToItsb9**LtXdWY7DxPT9nwS&new=1)
- > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
- ## [远程办公爆发，阿里等巨头集体发力，云上市场超出想象](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=X*AyCQDrgMnnrjAB8mJLnK9G42190YtSmYyA8lHxwfwECJvCFJ-Wz6D7q5h*F6GouaPZNlKFsT66MTtrjEyUvyV7YnE6oJWxV0AN6hxYvsw4VjobbRc6hSxOYlY*mltK&new=1)
- > 在这次疫情影响下，远程办公、远程学习、在线问诊等线上服务需求短期内大爆发。但就目前体验来看，能承担起几亿玩家同时实景在线的，也就证券交易系统这一家，这次事件不仅仅是短期板块催化，更是一次非常好的用...
- ## [评论|疫情防控影响光通信复工 但焦虑与机会并存发展](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=zig7881rWywAfdZMRqUhWn58jQ62SRU34sDq*ELN3mqiBZE2H3uzcSEAJjcCwlWQRvEAHmiTWmpmvrFNfOi6hYRaV5ecvGF4k*TND9Vfz7I9bP6uxANSK1vKbmKju-UJ&new=1)
- > 新闻导读疫情防控和企业正常运作存在一些“矛盾”。光通信厂商普遍面临着复工焦虑，但多数企业仍然看好2020年市场前景。结合光通信厂商的普通反馈，讯石认为当前疫情对光通讯产业短期一季度造成的负面影响已经无...
- ## [在线办公安全特辑二:抗“疫”期间"云办公"安全风险应对措施企业篇](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=ZRnz8i9QAgZ6aQPI3crdDB*EtU1BSg1AdDln6x8pqmLS4upDoj6Jx6JKfJuVH36FkRTKLxI0Yqi237TGncYtauxbRoJQshWPTaRLitb9uhJB3sk9*O9grGHV6pYPfVJf&new=1)
+ ## [特殊情报员紧急上岗：2小时排查万户家庭，服务近300个社区|AI战疫](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=wAdMi9KibCCCOykfNWh08bzmlXS*vWe3*2AO98kMdIuxCnrrvD8*dQgu-yDEfHfEIPfR77UvcTxyqy*9*E1d-LodSfgoy3yzWb33VzNy5vqTsiwFwps1oCTbDwlT4IWM&new=1)
+ > 日益成熟的人工智能，正成为抗击新冠肺炎疫情战线上一群特别的「逆行者」。无论是加速前期的疫情科研攻关，还是协助一线的疫情诊疗和现场防控，以及后端的信息化平台搭建，都已经出现了人工智能技术和解决方案的...
+ ## [细思极恐!疫情下“嚣张”的黑客们竟趁火打劫医疗机构、政府机构](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=2iJ-*s4yDoqwUexLflix8JFRt4MfSJfr7KVPpY0H7SOhzG0xEkZ9Wh4nM-DsnzkglFLum7O2ewoOBJTnrXfyOztZO42-wqCKefY2yc4y2*eIPuqYLblKmg4F7pdGZQV8&new=1)
+ > 2020 实在是太难了。开年之初，新冠肺炎以迅雷不及掩耳之势迅速攻击了全人类，截止目前，确诊病例 35982 例，累计治愈出院病例 3281 例，累计死亡病例 908 例，而这些数字还在以不可知的速度上涨着，疫情的拐点...
+ ## [致5G终端产业链合作伙伴的一封公开信](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=uqe7JBn4DqX6BYrnQdTgwxfwr4DAR7urgV7ZfZoWFMGOqkSnsox1ZAO433ympTRJ1rLjDJ3*eakSyr*IWoYVTpVk9gl*HQV*EtneCyFORMxq7gWtMcu8hAdyxwjpB3ir&new=1)
+ > 日前，中国联通终端团队发出《致5G终端产业链合伙伴的一封公开信》，愿与终端产业链合作伙伴们同力协契、共克时艰、共迎发展！来源：中国联通
+ ## [外媒：疫情使中国广泛运用机器人，成自动化技术水平最高国家](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=ODHFo-Q3ZBKJWiWSdfUmgikWLacQyljQb73CNS6UDi7UUVHVVhSFG7A*TCoE4IWm6Zb-jpWuKtQHKnMDXZGoYVMf-znYfLVevIZ-UGSTOqA=&new=1)
+ > 新冠肺炎的爆发使中国的医疗界空前忙碌，也促使相当多医院更快地采纳机器人作为医疗助手。在中国的城区医院里，越来越多的远程遥控机器人可以进行远距离视频通信、监视病人、递送医疗物资。它们在抑制病毒传播上...
+ ## [抗击疫情时刻准备着! 广东联通“沃厅”线上服务守护居民购物安全!](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=PsrbinY7UuAHn7BEqqIW3mXgyHeseruooyuPSS6YQfqXf6W1ikgRSRwIBobLn33DWRhcgg3Q*0PyuSv2C19lCopja1k86Rudv*E8heE9flKmkCDTxsx01mASWF9bM1SJ&new=1)
+ > 随着疫情的肆虐，足不出户成为当下市民最好的选择，而这也给那些准备出门购买手机、手环、充电宝等智能产品的市民带来许多困扰。为解决这部分群众的困扰，广东联通推出线上“沃厅”服务，市民只需动动手指，心仪...
+ ## [Velodyne Lidar高层变动：Mathew Rekow成为新任首席技术官](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=QIhBZU0ECpKI*Oqg-04zi65DX3O8P6GP46VKtsc286AMQN*djvacNp7tI76Q8GfCALT7eA9V2Ix3JtoK*ulikMHSTfn7t1ZdqNQbljZmDEbUbiXlJ*7Vdji2tKE7EKWd&new=1)
+ > Velodyne Lidar， Inc．于日前宣布任命Mathew Rekow为新的首席技术官（CTO）。Rekow接替Anand Gopalan担任首席技术官，后者于近日被任命为Velodyne首席执行官。作为首席技术官，Rekow将领导
+ ## [IEEE2020年12大技术趋势排行榜出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=J5SWkprzaYtZoDQkz5TthpnhP5PtRgNigPi8IgxmSlnVq26xAC0FYz3341FkhX*psqeuEYhtmeAqtevqFy*-zV09yRoQ5trNIPogWnvQcPxY10lllZnzyirD6HWoGydt&new=1)
+ > IEEE计算机协会自2015年以来一直在预测技术趋势，其年度预测因权威性而受到广泛关注。在每年年底，协会还使用计分卡或报告卡对年度预测进行评级，这个评级也吸引了与预测本身一样广泛的受众。以下是对2020年12大...
+ ## [无人机巡检光伏电站的几个要点，4G背包聚合图传技术方案解析](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=Swa*qDSMPpbQ3N0wwUGAB*TApAG3HTm00dT094-nva-q3Ncpy1b*oDbGWjvtr-3iaNdlw4UBOa2JEF-f77Np0syRJorBlPDEmAA7Y7UZ15dytL-VbXLfoYwVLN8DILap&new=1)
+ > 光伏电站是指与电网相连并向电网输送电力的光伏发电系统，属国家鼓励的绿色能源项目。可以分为带蓄电池的和不带蓄电池的并网发电系统。光伏电站高达数万片的光伏面板组件在运行过程中难免出现缺陷，影响发电量，...
+ ## [800多元的3D打印凉鞋，新的蓝海市场?](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=fDZf3-OqK0qZV7PbiIu515lfW1XHtIIatNt4dinFUr7MAruWaFihWD*fZ9kraFBXJN8kwOgKuiBY56vEmzOvzan7p9K0TRIIOASDJ8z2UcPRjhly1omupkqT4DovlN53&new=1)
+ > 导读：南极熊尝试给几个女生看了这款3D打印的凉鞋，她们都喜欢得想掏钱买了。如果这是一个好应用，前景无限广阔啊。3D打印技术通过制造鞋垫和鞋中底进入鞋类行业。南极熊曾经报道过不少的案例，其中所使用到的3D...
+ ## [在线办公安全特辑二:抗“疫”期间"云办公"安全风险应对措施企业篇](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=ZRnz8i9QAgZ6aQPI3crdDB*EtU1BSg1AdDln6x8pqmKJrzYxMxwndmx9WpwK5d5k-pX35RPva*5ubhtgwcAHa7m3wXFsJ1V*jbqGGSOhveeA9-8n9SSXYGsexbIWOKBB&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com疫情期间，为响应国家号召，远程办公的使用持续升温。据统计，春节后开工的第一周，已有数百万企业通过使用企业微信、钉钉等平台启动远程办公。同时，在应对远...
- ## [扩散!机器人抗疫方案库全面助力返工潮!\[公共环境监测篇\]](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=aTvaNNeaytJqV3gjeLbayz3lfTI8A*Lbdiah7zjYULogh5KlLGmMBIaH8IZ-Hhvh9Tg2dP6wYjQicq2MfAqkGycnx3FRscm906Gq1rmMjQGzDnJh37*VgZHQaCpU9r62&new=1)
+ ## [远程办公爆发，阿里等巨头集体发力，云上市场超出想象](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=X*AyCQDrgMnnrjAB8mJLnK9G42190YtSmYyA8lHxwfz2WCwsFd2*Es0njlW42we*AcOuQ6c7gvD336BMVDBTU*wejru7YxdTPIPNH8R4Lh7r0M7FirefJARzW0A5-W5x&new=1)
+ > 在这次疫情影响下，远程办公、远程学习、在线问诊等线上服务需求短期内大爆发。但就目前体验来看，能承担起几亿玩家同时实景在线的，也就证券交易系统这一家，这次事件不仅仅是短期板块催化，更是一次非常好的用...
+ ## [\[报告\]2020年1月中国汽车保值率研究(附16页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=VZErUMCcJKtKrxKPXwkG69zQWKTDK0jd7kpyP8V4v-Qpa0DpPlK4bu8j8sG3UVxT4U8vG*DDPzapSZu8dvGKQyPT11oTR2-LHQOgjJS-gDAo8MKcn15w4Poc*-ZVHbiR&new=1)
+ > 2020年2月7日，中国汽车流通协会联合精真估共同发布《2020年1月中国汽车保值率报告》。1月线上车源量受春节因素和肺炎疫情因素双重影响，大幅下挫；新增车源减少的同时，存量同样难以成交。二手车交易周期将大幅...
+ ## [LG 出售中国总部大楼；苹果延长疫情期间 Apple 设备保修期；Linux 5.6 新特性|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=aUhIytXCLAFuX274eLPlRaMvpFy6nWiPKbsevCayi3w8git79Ymaic7uErU05kiQtUXmJZk2GWohf1R88OddZbVUe5TeOd02Vt*ddCjKEsfXxIhBkzKNl-JfmpZ1RPYP&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [评论|疫情防控影响光通信复工 但焦虑与机会并存发展](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=zig7881rWywAfdZMRqUhWn58jQ62SRU34sDq*ELN3mrx25CTt4BdQkRzg--fvxaTjXU4-I5S9daG71q1BeA6LL8BQ4ACLTAOONk83-S8P-2ZPGBqnUIf1ht*4hTie6Lw&new=1)
+ > 新闻导读疫情防控和企业正常运作存在一些“矛盾”。光通信厂商普遍面临着复工焦虑，但多数企业仍然看好2020年市场前景。结合光通信厂商的普通反馈，讯石认为当前疫情对光通讯产业短期一季度造成的负面影响已经无...
+ ## [扩散!机器人抗疫方案库全面助力返工潮!\[公共环境监测篇\]](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=aTvaNNeaytJqV3gjeLbayz3lfTI8A*Lbdiah7zjYULo0OpPax1w0Vu4tcYiIqO0cRfzwVB7QI338SaNH3xjoJtSm506g07Ct-8BXPAxXkIME6AXrPXylweQc1HUtidFn&new=1)
  > 导读：2月10日迎来了第一波的返工潮，在这场全民战“疫”中，除了肩负最大责任的医护人员和研发病毒“解药”的科研机构，人工智能、机器人技术也开始登上舞台，并扮演着重要角色。以下是由英特尔&amp;硬蛋机器人创新...
- ## [工业和信息化部许可中国电信、中国联通、中国广电共同使用5G系统室内频率](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=GIztciHU*MPzi0iZMqvewHsyEB7XdyQIcUVyRJfpUKQ22wKKvkTPh*P6ncWpp8CDWNOXrSbGegU0fvbwhldbG-mHNQcMnWmexnT7mzyjzxc=&new=1)
+ ## [工业和信息化部许可中国电信、中国联通、中国广电共同使用5G系统室内频率](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=GIztciHU*MPzi0iZMqvewHsyEB7XdyQIcUVyRJfpUKTAuvZ8hHgNUSw*4Wz-4v-Z5nf8OAgk77myZnv3aTPbuye5ny2orDTvIXsfcWfB-hg=&new=1)
  > 上证报中国证券网（记者 李雁争）近日，工业和信息化部分别向中国电信、中国联通、中国广电颁发无线电频率使用许可证，同意三家企业在全国范围共同使用3300-3400MHz频段频率用于5G室内覆盖。　　工信部表示...
- ## [NEWS|开拓新市场——新大陆软件公司成功中标中国移动集团陕西分公司IDC支撑管理平台软件项目](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=PozS11MkuJ-IjLS*e3ciNe1pWZYQOAth9dFfslCbM9FQaet1BfX0YxGgR*Lcz3GzTAS2EIRdumwFE89*5pZk0pfMfCvBz*nXM7nUGmFeCbvVFrat5ZXJ0s9mqJppRqLO&new=1)
+ ## [NEWS|开拓新市场——新大陆软件公司成功中标中国移动集团陕西分公司IDC支撑管理平台软件项目](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=PozS11MkuJ-IjLS*e3ciNe1pWZYQOAth9dFfslCbM9HP0gAVPRAZbnoWmOnmmYaTiZ4SSWwZHiIFRBK3iHHIq73QZs-BhQjjDbA1Ua*eLHULU8PoEOKRAbOdFodKddP0&new=1)
  > 本刊讯：新大陆软件公司日前中标中国移动集团陕西分公司IDC支撑管理平台软件项目，这是新大陆软件公司首次中标中国移动集团陕西分公司项目，为开拓陕西新市场打下坚实的基础。据了解，中国移动集团陕西分公司IDC...
- ## [牛!热成像测温、无人车消毒、线上提前打卡，张江人工智能岛复工战疫](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=oPRrNGwp4qtLSCMZgiT3HJoEmXJtEsj8bm-bYLgxbV84ZjiXCtMSEPePzTDjj-NfGX4JO1usrGvU8x8VhLdceJTwA*o2stZQIY0f10ttLPNSRuliISVoySz1**cfWhVY&new=1)
+ ## [牛!热成像测温、无人车消毒、线上提前打卡，张江人工智能岛复工战疫](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=oPRrNGwp4qtLSCMZgiT3HJoEmXJtEsj8bm-bYLgxbV8BgRJmJDm7*Ek3I5WCgs3n8ttyAehfmXvo037iviLHSQZZ*rZfgp5lId5uCMaGPuDVevajn0fGKvfa80*128Dl&new=1)
  > 复工首日 2020年 2 月 10 日           今天，在张江人工智能岛上，出现了不少特殊的“抗疫卫士”， “智慧化”运用正在我们身边发挥着最大的防疫功能效用。快和小布一起来一探究竟吧↓热成像人体测温：开展无感...
- ## [受疫情冲击 北京5G基站咱无法施工](http://mp.weixin.qq.com/s?src=11&timestamp=1581391857&ver=2151&signature=9FeoaZ1keO*MYH-oCskwhKtuO10MOa*zCW-7faHFNQKk0IA365DdauMRTixVceULhNvQFZiMuzBBvfcvCQ0QlveaIDGcxLwv7T7PAZfHWqA=&new=1)
+ ## [受疫情冲击 北京5G基站咱无法施工](http://mp.weixin.qq.com/s?src=11&timestamp=1581409854&ver=2151&signature=9FeoaZ1keO*MYH-oCskwhKtuO10MOa*zCW-7faHFNQLZHZuNzUwyT-a0Br-f2rFh-PAvEzjR6FhiPzvYQ6uJJDnHUNPCTUesR2NIuvhB6Ks=&new=1)
  > 经济观察网 记者 沈怡然 2月10日，经济观察网记者从多位北京5G基站施工队处获悉，因施工人员不足、建设单位不开放等原因，目前北京市5G基站建设无法施工。相比4G基站，5G基站的建设密度更大，在市内高流量区域，...
 # IT 技术 
  ## [值得推荐的25种能够助力企业线上业务发展的优秀API](http://news.51cto.com/art/202002/610268.htm)
@@ -93,51 +126,53 @@ categories: IT NEWS
  > 全球开发者调查报告：IT人最想学习Go和Python、美国开发者收入最高
  ## [心态崩了!一觉醒来，公司倒闭了...](http://news.51cto.com/art/202002/610294.htm)
  > 心态崩了!一觉醒来，公司倒闭了...
- ## [特斯拉嫌弃 Python，追捧 C++](http://news.51cto.com/art/202002/610308.htm)
- > 近年来，发展势头之迅猛唯一能与AI相匹敌的现象就是Python编程语言。对于许多在纷纷设立数据科学和机器学习
- ## [大规模DDoS攻击降低了伊朗25％的互联网连接率](http://netsecurity.51cto.com/art/202002/610309.htm)
- > 伊朗再次受到网络攻击，大规模的DDos攻击摧毁了伊朗很大一部分的互联网访问权限。
- ## [2020年实现物联网安全的7个步骤](http://iot.51cto.com/art/202002/610306.htm)
- > 企业的安全团队应该采取一些措施和步骤，为2020年物联网面临不断发展的安全威胁做好准备。
- ## [微软宣布：免费开放微软云办公、云桌面、云远程方案](http://news.51cto.com/art/202002/610307.htm)
- > 微软宣布，即日起尚未使用Microsoft Teams远程办公套件的企业用户可申请6个月免费的国际版Office 365 E1服
- ## [代码开源！超好用的《机器学习实用指南》第二版终于来了](http://news.51cto.com/art/202002/610304.htm)
- > 早在去年的这个时候，红色石头就发文给大家推荐过一本非常棒的机器学习实用指南书籍《Hands-On Machine Lea
- ## [2020年云迁移面临的挑战](http://cloud.51cto.com/art/202002/610301.htm)
- > 云计算技术如今越来越受欢迎，但是希望在竞争中脱颖而出的企业在今年必须克服云迁移面临的挑战。
- ## [2020年云计算行业将出现新的联盟和新的安全问题](http://cloud.51cto.com/art/202002/610299.htm)
- > 调研机构Forrester公司的Dave Bartoletti分享了2020年的三个关键云计算预测。下面，我们一起来看。
- ## [XML 之父 Tim Bray：谷歌为什么要搞 Android？](http://news.51cto.com/art/202002/610298.htm)
- > XML 之父 Tim Bray 近日发布了一篇博客《Why Google Did Android》，以其早年亲自了解的情况分享了谷歌当年
- ## [我们应该怎么样编写 Go 语言库，有哪些标准可以参考？](http://developer.51cto.com/art/202002/610293.htm)
- > 不久前我和朋友们想出一个主意，准备合并我们的 IRC bots，并用 Go 重写它们。为了防止重写大部分现有功能
- ## [微软分享超大基于Transformer架构的语言生成模型](http://news.51cto.com/art/202002/610300.htm)
- > 微软 AI＆Research 今天分享了有史以来最大的基于 Transformer 架构的语言生成模型 Turing NLG（下文简称为
+ ## [政府机构全面替换Windows：韩国预计6年](http://os.51cto.com/art/202002/610343.htm)
+ > 微软停止Windows 7技术支持后，可谓引起两股“轩然大波”。
+ ## [凯哥讲数据中台\[009\]2020数据中台的七个趋势](http://bigdata.51cto.com/art/202002/610339.htm)
+ > 行业称2019年为数据中台元年，为什么数据中台会备受关注，2019年我做了一个数据中台的行业调研，到现在为止
+ ## [一个“神奇”的5G基站，6扇区18个AAU设备...](http://news.51cto.com/art/202002/610337.htm)
+ > 值得思考的是，5G时代多频段、多制式、多通道共存，已经让铁塔天面空间很紧张了，再来一个“多扇区”，岂不
+ ## [现在的编程和二十年前有什么不同？](http://developer.51cto.com/art/202002/610336.htm)
+ > 软件业的发展一日千里，二十年已经是沧海桑田
+ ## [微软表示已修复Windows10搜索功能故障：附解决办法](http://os.51cto.com/art/202002/610335.htm)
+ > 据外媒报道称，微软方面已经表示，Windows 10搜索功能出现故障的事情，已经被他们完全修复。
+ ## [各大互联网公司架构演进之路汇总 | 2020最新最全](http://news.51cto.com/art/202002/610333.htm)
+ > 在互联网行业中，有两种优秀的技术人，一种是热衷于分享技术的，一种是热衷于学习别人的技术分享的，而在技
+ ## [了解身边疫情事件与距离UC上线新功能：确诊病例小区动态地图](http://mobile.51cto.com/app-show-610334.htm)
+ > 2月10日消息，阿里巴巴旗下智能信息服务平台UC推出“确诊病例小区分布”功能，以地图形式定位用户周边的确
+ ## [DevOps 2020：值得关注的九大发展趋势](http://news.51cto.com/art/202002/610328.htm)
+ > 软件开发一路走来先后经历了不同发展阶段，从以往的瀑布式方法到敏捷交付，再到 DevOps，软件开发从未停止
+ ## [函数中的 this 不止有 72 变](http://developer.51cto.com/art/202002/610320.htm)
+ > 在课程 连接你、我、他 ―― this 中我们学习了 this，最后留了一个问题，如何修改 this 的指向，今天一起
+ ## [2020年图机器学习的新趋势](http://ai.51cto.com/art/202002/610327.htm)
+ > 2020年才刚刚开始，但我们已经在最新的研究论文中看到了图机器学习(GML)的趋势。以下是我对2020年GML的重要
  ## [连登 GitHub TOP 榜，中国开发者在行动！](https://blog.csdn.net/csdnnews/article/details/104253118)
  > 中国开发者对于疫情的整体关注程度及防护方向。
 # PM 
- ## [淘宝VS京东：盘点“购物车”功能的差异](http://www.woshipm.com/evaluating/3288546.html)
- > 由于用户画像的不同以及平台定位的不同，虽然同为电商平台，但是京东与淘宝在“购物车”功能的设计上存在有一定的差异与变化。前些天晚上在逛淘宝买衣服的时候，同时也...
- ## [识破面试套路，避免被骗方案](http://www.woshipm.com/zhichang/3354915.html)
- > 面试的时候怎么判断对方是不是在骗方案？怎样避免被套路？文章围绕这两个问题从多个方面进行了分析总结，希望大家在求职过程中避免浪费无谓的时间，不给习惯于不劳而获...
- ## [关于美容院领域的行业分析](http://www.woshipm.com/it/3380820.html)
- > 在以女性为目标用户的美容行业中，美容院领域算是离生活最近的一项美容服务了，那么在这个领域中又存在哪些入局点呢？SaaS系统该如何进入美容院细分领域呢？一、背景...
- ## [做好需求梳理，请牢记这3个要点！](http://www.woshipm.com/data-analysis/3383016.html)
- > 需求没做对，一年全白费！新年开工，从做好需求梳理开始。根据数据分析输出的成果反推需求梳理，需要注意3个要点：临时取数的规范、注意取数报表和取数模型。这两周很...
- ## [产品经理容易犯的关键错误（上）：认知错误](http://www.woshipm.com/pmd/3382892.html)
- > 产品经理作为互联网行业蓬勃发展时应运而生出现的一个岗位，吸引了越来越多人加入。由于缺少产品经理相关专业课程，因此大多数产品经理是在摸索中成长，在这个过程中会...
- ## [疫情之下，品牌营销的挑战与应对](http://www.woshipm.com/marketing/3380516.html)
- > 在本次疫情中，不少行业都受到了冲击与营销，而对营销行业来说，这次疫情也将不断促使行业进行模式与结构的优化与迭代。作为一位营销行业从业者，上周已经开始了在家...
- ## [在线教育，集体裸考](http://www.woshipm.com/it/3376523.html)
- > 在新冠肺炎疫情出现后，中小学生只能呆在家中，无法出门，而在线教育由于线上教学、教资等特点使得它热度高涨，但是经过疫情的考验，人们发现在线教育的优点与成绩或...
- ## [批量新增功能的价值&实现方法](http://www.woshipm.com/pd/3378331.html)
- > 在涉及范围广、信息庞杂的业务系统中，做好批量新增功能有助于高效增加信息，同时又不至于对系统的正常运行造成阻碍。一、背景在加入K公司的第三周，接到第三个需求...
- ## [消费领域信息分享平台「一分钱」APP的产品分析报告](http://www.woshipm.com/evaluating/3379712.html)
- > 一分钱成立于2015年12月，是一家集海外导购、媒体、本地资讯生活、社区属性为一体的消费领域信息分享网站，致力于解决有地域、语言限制的法国本地华人和到当地自由行用...
- ## [远程办公，昙花一现？](http://www.woshipm.com/it/3380908.html)
- > 近期，多数企业都进行了在家办公的操作，当人们鼓吹在家办公的一众好处时，笔者通过理性思考与众多事实分析后，认为远程办公其实没有那么完美。这一两周，如果你买了...
- ## [如何打造高绩效的团队？](http://www.woshipm.com/zhichang/3379346.html)
- > 对于职场人来说，一套优秀的团队管理策略能够有效发挥每个成员的能力，并且将团队成果的效益最大化。	团队管理不是一种玄学，而是一套持迭代的系统。通过持续对管...
+ ## [需求方法论（1）：需求的理解/来源/挖掘/记录](http://www.woshipm.com/pmd/2951465.html)
+ > 对于产品经理来说，大多数的日常都是围绕需求展开的——沟通需求、实现需求等。那么对于需求这一内容，如果做好正确理解，相信会对后续实现提供很大帮助。我写这篇文章...
+ ## [竞品分析 | 滴滴 VS 嘀嗒 VS 帮邦行：网约车市场的生存法则是？](http://www.woshipm.com/evaluating/3382237.html)
+ > 作者分别选取了在网约车市场中排名第一具有成熟的运营模式的滴滴打车、社交型拼车第一的嘀嗒拼车和城际拼车模式比较成熟的帮邦行三款网约车产品进行竞品分析，从行业、...
+ ## [品牌年轻化的3个套路](http://www.woshipm.com/marketing/3383669.html)
+ > 品牌年轻化是营销行业中的流行词汇之一，不过在观点流行背后，我们不该盲从，而是理性分析背后的原因以及背后的可行性操作。最近几年品牌年轻化成为了一个热点，消费...
+ ## [基于TensorFolw的人工智能影像诊断平台工作原理解析](http://www.woshipm.com/ai/3381692.html)
+ > 文章对TensorFolw人工智能影像诊断平台的工作原理进行了解析，希望这篇文章能够帮助你更好地理解 Tensorflow。使用人工智能来辅助病理医生对样本进行诊断，不仅能够大...
+ ## [致5岁以下的产品经理：学会从产品工具人阶段升级](http://www.woshipm.com/pmd/3383423.html)
+ > 对刚入门以及初级产品经理来说，这个阶段的工作更多是画原型图、写需求文档，而在不断的重复中，不少产品产生了“产品经理只是一个工具人？”的困惑。笔者认为，工具人阶...
+ ## [社区类产品中，短内容&长内容的对比分析](http://www.woshipm.com/pd/3382574.html)
+ > 当前社区产品的内容大多可以分为短内容和长内容两种，并且在此类产品的功能设计中也有对应的三条设计原则。详见正文。本文主要与大家分享一下我所总结的当前常见的社...
+ ## [产品运营初期，先回答这3个问题](http://www.woshipm.com/operate/3382078.html)
+ > 运营初期的核心目标是检验：检验用户是否真的需要你的产品？你的产品是否符合市场？你的产品是否达到产品/市场契合点？大家都知道运营是一个产品必不可少的一个环节，...
+ ## [疫情之下，在线教育行业如何实现产品突围与稳步增长？](http://www.woshipm.com/it/3380737.html)
+ > 抗疫时局下“停课不停学”的举措推广，进一步引爆了在线教育市场的新增长。如何在短时间内协同满足资深用户的使用习惯和新增用户的需求，基于产品定位重新规划远期目标，...
+ ## [线上课程丨同样宅在家里，那些厉害的人都在做什么？](http://www.woshipm.com/online/3383647.html)
+ > 宅在家里，只能睡懒觉玩游戏吗？不！要知道，那些真正厉害的人，就算宅在家里，也都在养精蓄锐，充实自己。这次，起点学院为想要转岗入行产品的同学以及刚刚入门产品...
+ ## [疫情当头，下沉市场众生相](http://www.woshipm.com/it/3381970.html)
+ > 平日里，关于下沉市场的用户画像分析与行业分析不绝于耳。今天，本文就再次以下沉市场为主题，聊聊疫情背后下沉市场的杂陈百味。01 疫情期间下沉市场“众生相”“春节期...
+ ## [产品“任务体系”的目的与要素](http://www.woshipm.com/pd/3380679.html)
+ > 在产品设计中，利用任务体系的设置可以达到引导用户体验产品核心价值、提高产品活跃度、培养用户使用习惯等好处。在使用互联网产品的过程中，经常会遇到任务体系，最...
+ ## [即时通讯软件如何流量变现？各国“微信”大PK](http://www.woshipm.com/operate/3380863.html)
+ > 当即时通讯巨头们通过免费“连接”服务形成网络效应后，它们的赚钱方法却不太一样。即时通讯软件可以说是互联网时代的基础设施了，从全球范围看，虽然各类即时通讯软件...
  ## [让甲方爸爸更满意--解读“客户成功”](http://www.chanpin100.com/article/110706)
  > 介绍“客户成功“理念，助力客户成功，实现自身公司成功！
  ## [“春节档”打败腾讯吃鸡游戏和王者荣耀的竟然是它！](http://www.chanpin100.com/article/110705)
