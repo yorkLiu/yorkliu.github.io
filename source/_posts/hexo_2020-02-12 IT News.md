@@ -1,7 +1,7 @@
 ---
 title: 2020-02-12 IT News
 copyright: true
-date: 2020-02-12 12:00:59
+date: 2020-02-12 17:03:07
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,29 +66,49 @@ Facebook&#32487;&#32493;&#21457;&#21147;AI&#65292;&#25910;&#36141;&#21019;&#2022
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [\[报告\]2019年12月全国二手车市场分析(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=XuBG2C6nHcaMCPRYKxWjHqA0c7FQpbCOKH9sE5yIMIiy8nlKJHgkfW09uoZ6sw1HoXsTHBNzr-IA0MYGN3GbDQT0bZc6eULEvbG7kl-th-S*XRIgOmkBNgZZmfzWvi8S&new=1)
- > 2019年12月，全国二手车市场交易量168.64万辆，交易量环比增长21.88%。交易金额为1039.27亿元。以下为报告节选：文│中国汽车流通协会本报告共计：37页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”...
- ## [在线办公安全特辑三:抗“疫”期间"云办公"安全风险应对措施员工篇](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=YrBKnD5AAYI9HimRdRJd4YDexMNzWQOSdCKKEGc3Cw9n48khE0D48PgV0-LXdqAbLRQBl7vdEyJEkHbkM2T10ZiNn11KrRv5OHwF7hXT2cnz7WsiTIA*oK65LwOcLPuX&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com疫情期间，为响应国家号召，远程办公的使用持续升温。据统计，春节后开工的第一周，已有数百万企业通过使用企业微信、钉钉等平台启动远程办公。同时，在应对远...
- ## [汇溪成流，共克时艰——微软追加捐赠4478万元现金、技术与服务，继续全力支持疫情防控](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=hJY6Yo0GnF7OZP7R2lcr94-jugQwHl-sDDd3-YhedbEPU1s19bAMtPOz5MkPEO4T*DW2P2Biip2qyduLcF34tKAMCLCRvlXMuig0jij40HrgH7QSM6pQi0uKawy1BzkN&new=1)
- > （本文阅读时间：3 分钟）2020年2月11日，北京——微软宣布，发起包含现金捐款，及微软产品、服务和解决方案在内的第二批捐赠，累计捐赠总额超过4578万元人民币，全力支持抗击新型冠状病毒疫情。这第二批捐赠包...
- ## [企业微信再次升级；滴滴网约车欲加装防护隔离膜；Firefox 73发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=HA*S*4AF1RFKUtKy0geY*0UG6HcG-*bopznn0HpR7BiEMqLSfdU4QVbKdp*lUXmjpRY7npnCZ0Zpxao1T0f1AFQ8qXAuTg-*5SIOTxNzNVLAkyVfVBfNnjvjycD*2rae&new=1)
+ ## [李铁：以疫情防控为契机，建立新的大数据服务体系](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=KzQDXPLFQcTKNTWjL-wUACQQF9ajUdv4-8H-4XcJT09eZpCd1jj*lwbVWjnVdDawbaCewLN3gIHWfS0vHTkRZeG39DAj*NhFuFlAFWXAeEi3Bcv0r10-C3NHmBbovReP&new=1)
+ > 经过这次疫情危机，一些互联网大数据企业可以利用新的数据源展开商业和社会服务;政府也可以把数据服务交给市场，建立新的数据源管理方式，提高应对城市和社会治理，以及各种突发性危机的效率，并降低成本这次防...
+ ## [无人机下乡战疫：热血飞手为6亿平米土地筑起「防护墙」](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=HMn-OzOi*mqb0iMj0j0MjJKbxNavjRpJwkivYRtDKEBCi1QIWJXlOO0PUrQZHQ8z6FEJXCREHt6-uYVwRQG7rC6LKNReIK-umdNPyQgI-4FQW*ohgoJWCmo8IoRpcapb&new=1)
+ > 日益成熟的人工智能，正成为抗击新冠肺炎疫情战线上一群特别的「逆行者」。无论是加速前期的疫情科研攻关，还是协助一线的疫情诊疗和现场防控，以及后端的信息化平台搭建，都已经出现了人工智能技术和解决方案的...
+ ## [需要关注数据安全的四个新挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=YBX90RcCR4mZ0FEXHGF*O9FS24vo7l9Gn3vWs9LikIwFoQa*lO-3*gVqZ4AAHFs5F1NQj9Ng61PT4uvT9g4XSNnZSM4ft4I*wipUBAL4aRVlYrVt4exGPefdnfqrV4By&new=1)
+ > 关键讯息，D1时间送达！数据是信息安全的基础，但是数据的兴起带来了新的挑战和新的机遇。为了满足这些要求，安全性需要改变与数据的关系。数据是信息安全的基础，但是数据的兴起带来了新的挑战和新的机遇。为了...
+ ## [疫情新增人数逐步降低 激光企业复工情况如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=JdrlvSUAP4k2SmB7L*DAw8b9sdLz61zRp08mZFQaTHCjuFIN-YT8bqv45-D3ILV-wi5csWXWqC1kLBWA6wrVLM-OoeECeMJLPosC5FXwIo7PNByFQfHppATfk331iRoU&new=1)
+ > 今年1月爆发的新型冠状病毒肺炎对各产业造成了很大冲击。为尽可能控制疫情扩散，各地政府均推迟了复工时间，其中疫情重灾区湖北省要求各类企业复工时间不早于2月13日24时，其余各地政府要求各类企业复工时间不早...
+ ## [闻泰科技：中国最大的功率半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=iMdAg7Aprmrz*NzWW2oPXL*bL-usyOT25ujIueakF94IpF8IdtAa7V73ecniNbxghqfU9iyZZ4YbmudWk9pTTRJdY2q2Dk2OR26aBsNnPXG9jMl0PmwZ1W4Q5a0KB78i&new=1)
+ > 去年年底，安世半导体董事会完成了改选及相应的变更登记，闻泰科技董事长张学政正式就任安世半导体董事长。据此，闻泰科技已完全从北京建广资产管理有限公司(JAC Capital)获得安世半导体（Nexperia）的控股权。...
+ ## [从操作系统到XR内容制作工具：说说 Nibiru“1+3”计划](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=uBWMe9gFs2uoJpl0Kit8EX5UhugJEWRiPkOC-NEHnSJtds84RsCtpJq7HfPODWFBf0ACHVdaryV7Xw5n8R3Zbp8aIfb39J9fIpsyDiszfaywm-T*aGDdEJQXME7RLUS3&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜丹哥说VR（原创）刚刚过去的周末适逢2020年的元宵节，从传统的意义来讲，过了正月十五，春节就算是正式结束了，大部分人也将...
+ ## [网络安全的“核脏弹”：史上最危险域名即将出售](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=7qKHb8eq5gmsLdhgyjhYN1wKeU*OT2ZoqD1aLDDR3g-RYg50FDpRo5t8mUs1q6UiUwvbXsMCJtQi4khFwMTGfav6Y50cM7hqu0Ue70AHL1NAD258u5Pr3MzD71OjvR7l&new=1)
+ > 安全牛点评谁掌握了Corp.com，谁就拥有了被动攻击全球企业网络的超级僵尸网络，不计其数的企业内部设备，瞬间都会主动投怀送抱，成为这个僵尸网络的肉鸡。是什么让Corp.com成为史上最危险的域名？其拥有者为何要...
+ ## [英特尔QLC SSD累计产量破千万!读取密集型应用为其主战场](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=V2owGQtoD8gw29wZSK8CtI7h3DP0*AfRNtT7WofeURIjdzL7fI3as206LSd-kios8URi3TURzBXNwIXZgh7Bb-nQqcef5cnwbbguziXz8b-2DEN*lLF9DT8MgPgWw9Jz&new=1)
+ > 近日，英特尔宣布于2018年底开始在大连工厂生产的基于QLC 3D NAND SSD已经累计生产1000万个，标志着QLC朝着成为大容量存储的主流技术又近了一步。英特尔客户SSD战略规划和产品营销总监Dave Lundell表示，许多公...
+ ## [科技战疫丨一天15幢，打印的隔离屋来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=DPxtgeFYkzG*-Z8KMPPh9SqutsgbkifcdlDc3VzTzBQtkRzUFgA*0aJ4FMNLKcfy7y4aGAnN*dgk22i6tH-SdkyZzrePufNXHOb3a2-tuq6f4Qe5J7CHfBg*7Lqkf04c&new=1)
+ > 在湖北，如何创造出更多的安全、可隔离的空间，是战疫成功的关键因素之一。3D打印技术在危急时刻，发挥了神奇的作用。2月11日上午，装载着15个3D打印隔离屋的车队，浩浩荡荡从上海出发了。记者了解到，首批15间3...
+ ## [企业微信再次升级；滴滴网约车欲加装防护隔离膜；Firefox 73发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=HA*S*4AF1RFKUtKy0geY*0UG6HcG-*bopznn0HpR7Bg0WYD8V2DP1Z8S*9DaQFOoiYyRHpnsFs2ZueC0YQWj8Ofj-deqXLNJG-uyGB1hzu2LsgdAXVftDMzIOsNjkTMa&new=1)
  > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
- ## [\[科技早报7点整\]数百家中国企业寻求共 574 亿元贷款 吉利要量产“N95 口罩”标准汽车……](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=pn91qIK0zKJOOkY9pDLfPUzzSzAYOZPLUI-dP0-3ROvJl1YEULErr6KYI4EZ7*2F30-7JISAZTCrw1g7VCP-DBRUgyXq2xK9OI3xECZ*XePWQV2knqT4Zo3OEvQu3G0L&new=1)
+ ## [在线办公安全特辑三:抗“疫”期间"云办公"安全风险应对措施员工篇](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=YrBKnD5AAYI9HimRdRJd4YDexMNzWQOSdCKKEGc3Cw9-v*LL2EXPNir3INjbo7-qpS5tLsG0CFEGENWeM5bnJhkeBvcIhsD2MPdzNYPnDaJs0oNWLstc4lL1jVXfopW8&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com疫情期间，为响应国家号召，远程办公的使用持续升温。据统计，春节后开工的第一周，已有数百万企业通过使用企业微信、钉钉等平台启动远程办公。同时，在应对远...
+ ## [汇溪成流，共克时艰——微软追加捐赠4478万元现金、技术与服务，继续全力支持疫情防控](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=hJY6Yo0GnF7OZP7R2lcr94-jugQwHl-sDDd3-YhedbFXFLkGFuxjulHQNz12MbC8oghfu8uZAVRXVa8Q8YNSEb*-fgfmineyE7YQoSddGJdWWG4ZmSVreg9LzoAYaaGS&new=1)
+ > （本文阅读时间：3 分钟）2020年2月11日，北京——微软宣布，发起包含现金捐款，及微软产品、服务和解决方案在内的第二批捐赠，累计捐赠总额超过4578万元人民币，全力支持抗击新型冠状病毒疫情。这第二批捐赠包...
+ ## [\[报告\]2019年12月全国二手车市场分析(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=XuBG2C6nHcaMCPRYKxWjHqA0c7FQpbCOKH9sE5yIMIhmYWb65U48NtHOvp47jxqTd4xKdQcbemHzD77ZaUndxLWLtCyWjpjELTV6Us5W4Q2bVxDE2uyoxDorsalk33Vg&new=1)
+ > 2019年12月，全国二手车市场交易量168.64万辆，交易量环比增长21.88%。交易金额为1039.27亿元。以下为报告节选：文│中国汽车流通协会本报告共计：37页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”...
+ ## [\[科技早报7点整\]数百家中国企业寻求共 574 亿元贷款 吉利要量产“N95 口罩”标准汽车……](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=pn91qIK0zKJOOkY9pDLfPUzzSzAYOZPLUI-dP0-3ROuAYmmlw7pvd0RntnFankOKHxo3bdgelQFUGUzlMaXHX-DHeyEAMcx0JjZKg3f1cIY28F9-vTGgp1RSCIXMsl4k&new=1)
  > 早上好，科技圈【一度蜜科技早报】第718期1.滴滴将在网约车内加装防护隔离膜近日，有乘客在乘坐滴滴时发现，车内包起塑料隔膜，仿佛置身蔬菜大棚。滴滴回应称，安装隔膜是为了防止飞沫，目前正在试行中，已陆续...
- ## [北京移动：今年5G建设计划会受到疫情影响 对设备厂家供货做调整](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=6kZkDOJmWHqW9UM2KP-dqK8Sqtr7lL9KPMuRTkv1NIp9cPPg-Zec0Je4GgK9SRoM1nRCXobsxY19RozlsYvtxZBUaSCJRt*1M7d8oAEaIaA=&new=1)
+ ## [北京移动：今年5G建设计划会受到疫情影响 对设备厂家供货做调整](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=6kZkDOJmWHqW9UM2KP-dqK8Sqtr7lL9KPMuRTkv1NIqQFurr*hhLgDxDuZzvQxlQd8vsJ9ZWZ1-*1jvAiOVTKByF0RrwM170qK8BRTLNAy0=&new=1)
  > 经济观察网 记者 沈怡然 当前受疫情冲击，北京5G基站暂无法施工，针对此，北京移动在2月11日回应经济观察网称，今年5G建设计划会受到疫情影响，公司将在5G基站施工力量方面和设备厂家供货方面进行调整。稳步推进...
- ## [“才..才不是怕你们人类感染才帮忙送东西的”|科技袁周虑第43期](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=J471Naoq6dzIAxRDEOUVCMjjkifONIi0e9R7tcinpSC44alMQYmunE4TyTWeCN4Hqqiq0iQVDW1XhO5YIFCnYplWakXrCfwnnpe8o5K88wAhN8HzTlCdPq2jCGXMC3It&new=1)
+ ## [“才..才不是怕你们人类感染才帮忙送东西的”|科技袁周虑第43期](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=J471Naoq6dzIAxRDEOUVCMjjkifONIi0e9R7tcinpSCCbd2lVtFsONoe4S6eAnDdpXtZpyfLfCs0eAa-zB2XHnCOpkX*81eQJxwu6DAROYVYc15ZOBPar0qWQXKPlYta&new=1)
  > 关注风云之声提升思维层次导读本期【科技袁周虑】：无人送货小车；Nature最新研究解决生物难题：压力如何导致白发；参宿四；2020年自然指数更新,中国科大跃居全国高校首位。注：风云之声内容可以通过语音播放啦...
- ## [陈肇雄带队赴北京经济技术开发区信创园调研疫情防控和复工复产情况](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=1qdInGRBb7Nk*wTxeRqn0as-bXDW5fQU1McQAY6Z761f37pNexDBTGjnpvULkM0Q4OSMvYv6CFiAtG1vWOg7NHH0l2nIOmPUDszHR4FwQUyzkGgrPHYq8ubnrvqQMGlM&new=1)
+ ## [陈肇雄带队赴北京经济技术开发区信创园调研疫情防控和复工复产情况](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=1qdInGRBb7Nk*wTxeRqn0as-bXDW5fQU1McQAY6Z7625y7xwwmjAtxHNPbj1PMscpnaliai2MpRmkGd7S65Z7jBff6p1StqXg3eY69vMlJ4fLgoIjszN35uX1RPkoAaA&new=1)
  > 2月11日，工业和信息化部副部长陈肇雄、北京市市委常委、副市长殷勇一行到北京经济技术开发区信息技术应用创新产业园，调研疫情防控工作，推进企业复工复产。　　陈肇雄一行走访了龙芯中科、同方计算机、工信部...
- ## [疫情这么可怕，MWC 还能去吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1581478250&ver=2153&signature=0gWARkQTJYH2r7QrMSks5kKEheGF9AK0AvL*UPUeU42zQkIpCzh6n-eAARaGCswCCcL*GikEkdYelTlxmYHtPPhtxxqpkU5DN4oxqTBiFnMXXw*dm2BFficdwUYNyHqG&new=1)
+ ## [疫情这么可怕，MWC 还能去吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1581496205&ver=2153&signature=0gWARkQTJYH2r7QrMSks5kKEheGF9AK0AvL*UPUeU43xCHIskGamFrrNQIWK2YetpwPdZTfsVflwacabDQs2xt2dNTr5DLAQXrd7yK0YLuZfctuGnOX253kB1CSEoGNz&new=1)
  > 你可以来 MWC 谈生意，但是谈成了可千万别握手。原本应该在开年给科技行业注入一针兴奋剂的世界移动通信大会（MWC），因为新冠肺炎疫情的爆发，愈加显得没了定数。两周后，大会依然会如期在巴塞罗那举办，但参会...
 # IT 技术 
  ## [细说C中有意思的枚举：转换、标志和属性](http://developer.51cto.com/art/202002/610367.htm)
  > 细说C中有意思的枚举：转换、标志和属性
  ## [惊讶！我定的日志规范被CTO在全公司推广了](http://developer.51cto.com/art/202002/610365.htm)
  > 惊讶！我定的日志规范被CTO在全公司推广了
+ ## [DevOps 2020：值得关注的九大发展趋势](http://news.51cto.com/art/202002/610328.htm)
+ > DevOps 2020：值得关注的九大发展趋势
  ## [性能最高提升480倍：Arm推出2款新AI边缘计算芯片设计](http://news.51cto.com/art/202002/610387.htm)
  > 性能最高提升480倍：Arm推出2款新AI边缘计算芯片设计
  ## [如何从SaaS应用程序查询和提取数据？](http://cloud.51cto.com/art/202002/610329.htm)
@@ -99,53 +119,51 @@ Facebook&#32487;&#32493;&#21457;&#21147;AI&#65292;&#25910;&#36141;&#21019;&#2022
  > 如何对付在Instgram打比特币欺诈广告的骗子？
  ## [实践 | 如何进行Linux启动时间优化](http://os.51cto.com/art/202002/610372.htm)
  > 实践 | 如何进行Linux启动时间优化
- ## [值得推荐的25种能够助力企业线上业务发展的优秀API](http://news.51cto.com/art/202002/610268.htm)
- > 值得推荐的25种能够助力企业线上业务发展的优秀API
- ## [多机房多活架构，究竟怎么玩？](http://zhuanlan.51cto.com/art/202002/610398.htm)
- > 如前文所述，如果将单机房“全连接”架构复制到多机房，会有大量跨机房调用，极大增加请求时延，是业务无法
- ## [​掌握2020年数据科学10大技能，帮你进入顶级数据公司](http://news.51cto.com/art/202002/610397.htm)
- > 新的一年，随着新技术趋势和更重大挑战出现，技术基础必须夯实。下面是小芯整理出来的最新鲜的2020年数据科
- ## [在家办公的同学们，试试这几款好用的网盘工具](http://news.51cto.com/art/202002/610396.htm)
- > ​最近的疫情形势还是非常严峻，很多朋友都开启了在家办公的模式，相信大部分人都要面临这样一种尴尬
- ## [物联网未来的何去何从？](http://iot.51cto.com/art/202002/610395.htm)
- > 如何有效地应用物联网系统，必须依据现今科技的4大趋势及目前7大技术领域，来评估未来物联网的利基点，现在
- ## [物联网应用区别于软件应用在于基于数据和产品的服务](http://iot.51cto.com/art/202002/610393.htm)
- > 在文章《物联网普及后将是智能服务世界》一文中，介绍了德国提出的Smart Service Welt【智能服务世界】，而
- ## [紫光云：以数字孪生为基础，构建生态共同体，打造建筑产业数字引擎](http://server.51cto.com/News-610392.htm)
- > 建筑产业的数字化转型并非仅仅是指规划、设计、建造、施工的建筑产业链数字化，还包括建成之后的运维与经营
- ## [需要关注数据安全的四个新挑战](http://netsecurity.51cto.com/art/202002/610391.htm)
- > 数据量上升及其持续增长应该是不言而喻的。数据被视为一种资产，它拥有更具价值的信息。数据的增长给信息安
- ## [拒绝低效！Python教你爬虫公众号文章和链接](http://developer.51cto.com/art/202002/610390.htm)
- > 上一篇文章整理了的公众号所有文章的导航链接，其实如果手动整理起来的话，是一件很费力的事情，因为公众号
- ## [从成功的云迁移中吸取的10个经验教训](http://cloud.51cto.com/art/202002/610389.htm)
- > 尽管将业务迁移到云平台(数字化转型和简化IT环境)比以往任何时候都容易，但这可能是一个挑战。为了简化这一
- ## [企业需要员工选择计划的诸多理由](http://news.51cto.com/art/202002/610388.htm)
- > 企业让员工自己选择硬件平台可以获得提高生产率、留住员工和其他的巨大好处。
+ ## [疫情防控期间，云服务迎来跨越式发展机遇](http://cloud.51cto.com/art/202002/610434.htm)
+ > 当前，信息通信业全力发挥5G、大数据、云计算、人工智能等信息技术综合优势，高效助力全国疫情防控。无论是
+ ## [2020年的云计算，四强争霸还是赢家通吃？](http://cloud.51cto.com/art/202002/610433.htm)
+ > 近日，谷歌母公司Alphabet首次公布了谷歌云计算业务的数据，这一举动将云计算行业重新推到了聚光灯下。众所
+ ## [是什么让数据科学家从优秀变得伟大？](http://bigdata.51cto.com/art/202002/610432.htm)
+ > 人们对数据科学家能给我们带来什么的期望已经改变，越来越多的公司逐渐认识到，训练机器学习模型只是在数据
+ ## [小米OV成立「环球开发者服务联盟」，意义何在？](http://mobile.51cto.com/news-610430.htm)
+ > 据路透社报道，中国的小米、华为、OPPO 和 vivo 正联手打造一个平台，让中国以外的开发者可以将其应用同时
+ ## [关键时刻岂容他人妄为 境外黑客声称将攻击我国](http://netsecurity.51cto.com/art/202002/610429.htm)
+ > 国家互联网应急中心近日发布了《关于近期境外黑客组织拟对我国视频监控系统发起攻击的预警通报》，警示国内
+ ## [Ovum观点：智慧城市变现需要创新的融资和商业模式](http://www.cioage.com/art/202002/610428.htm)
+ > 来自Ovum的最新研究报告称，智慧城市是一个已经引起许多炒作的垂直领域。但是，迄今为止，该领域的进展处于
+ ## [2020年了，折叠屏手机还是「昂贵的花瓶」吗？](http://mobile.51cto.com/news-610427.htm)
+ > 在 2020 年接下来的时间中，还会有更多采用折叠屏技术的手机出现，这其中也许还会有更多令人惊叹的新创意，
+ ## [F5林耕详解2020应用交付三大新趋势，未来F5将以用户为生态边界](http://network.51cto.com/art/202002/610424.htm)
+ > 洞察到应用交付领域这些变化之后，林耕在2020年将带领F5的技术团队做更大的战略调整。据他透露，他已经制定
+ ## [解剖KVM的内部是如何运作的？](http://virtual.51cto.com/art/202002/610423.htm)
+ > kvm已经是内核模块，被看作是一个标准的linux 字符集设备（/dev/kvm）。Qemu通过libkvm应用程序接口，用fd
+ ## [一张分布式KVM系统架构图看懂什么是分布式KVM](http://virtual.51cto.com/art/202002/610421.htm)
+ > 众所周知，在指挥中心、控制中心等场景，光纤KVM是部署控制系统的最优解。但是对于大量在的中小型指挥中心
  ## [防控疫情，我们在行动——爱奇艺战“疫”全纪录](https://blog.csdn.net/csdnnews/article/details/104274703)
  > 2020年春节前夕，一场突如其来的新冠肺炎疫情悄然袭来，实时更新的疫情数据牵动着每一个中国人的心。爱奇艺密切关注疫情发展情况，积极履行社会责任，承担网络视听媒体的责任担当，爱奇艺社会责任通过湖北慈善总会向武汉市等疫情严重地区捐赠1000万元，驰援疫情防控工作，按照湖北省新型冠状病毒感染的肺炎疫情防.
 # PM 
- ## [产品设计的10点深入思考](http://www.woshipm.com/pd/3385282.html)
- > 产品设计中，不只是要把场景、对象、流程、原型、功能等捋顺了设计出成果就好，更重要的是学会深入思考以上内容的种种本质与意义。产品原型设计，是一个从无到有的过...
- ## [面试官教你写简历：4步提高你的简历成功率](http://www.woshipm.com/zhichang/3385512.html)
- > 一份好的简历对于求职的重要性不言而喻，本文作者以面试官的角度出发，结合自己的经验和相关案例，分享了写出好简历的四个步骤，希望对大家有所帮助。在这个特殊的求...
- ## [大厂布局、月薪30K起，如何入行数据产品抢占红利得高薪？](http://www.woshipm.com/online/3385698.html)
- > 2015年7月，时任阿里巴巴CEO的张勇提出“全面启动阿里巴巴集团2018年中台战略“后，正式把数据产品这一概念带入了互联网人的视线中。几年的时间内，各大巨头公司都开始着...
- ## [远程办公vs集中办公，孰优孰劣？](http://www.woshipm.com/it/3378281.html)
- > 近期关于远程办公与集中办公的对比分析有很多，那么这二者都有什么特征与优缺点呢？我们又该采取什么样的态度看待这两种方式呢？办公信息化已经普及很久了，远程办公...
- ## [产品经理的自我修炼（4）：如何培养产品设计与规划能力？](http://www.woshipm.com/pmd/3385431.html)
- > 产品规划与设计能力需要有对用户需求、市场环境等有自己的理解，能从散乱的需求中找到问题的根本。文章结合相关案例 ，对如何培养产品经理产品设计和规划能力进行了分析...
- ## [如何设计好一场抽奖活动？](http://www.woshipm.com/pd/3384616.html)
- > 本文对如何设计好抽奖类活动进行了分析探讨，并总结分享了设计抽奖类活动需要注意的几个关注点：设计要点、概率设计和风险设置。在各种产品中经常看到抽奖设计，抽奖...
- ## [行业分析：医疗信息化新生儿之智慧医疗](http://www.woshipm.com/it/3378443.html)
- > 我国的医疗信息化距今已推行近30年，不过现在看来，信息化过程中还存在着不少问题。而智慧医院的推行，将有利于改进信息化过程中的问题。一、医疗信息化现状1. 系统...
- ## [6个关键步骤，解读绩效考核体系设计](http://www.woshipm.com/pd/3385239.html)
- > 关于不同类型、不同规模、不同战略的公司以及不同工种、不同考核时期，都需要有针对性的设计出与之匹配的绩效考核体系。那么在设计这种绩效考核体系中，总思路是什么呢...
- ## [数据分析（7）路径挖掘分析法 & 行为序列分析法](http://www.woshipm.com/data-analysis/3385345.html)
- > 对产品经理来说，数据分析能力是非常重要的一项必备技能，那么这项技能又该如何落地，如何进行实际运用呢？作者在前面的文章中介绍了七种数据分析的方法，本篇文章聊聊...
- ## [透过《奇葩说》论点，看背后的多元思维模型](http://www.woshipm.com/zhichang/3383684.html)
- > 《奇葩说》是一场以辩论为基调的综艺节目，里面最引人入胜的就是各位辩手和导师的论点，一个辩题，每个人都能从不同的角度提出自己的论点，而这背后是多元次思维的应用...
- ## [远程办公难常态化，但自由职业的暗潮可能会来](http://www.woshipm.com/it/3384185.html)
- > 目前，大多数能够实行线上办公的企业都在以远程办公的形式运作着。而在远程办公背后也展现出不少雇员与老板之间的博弈，并在多种因素的加持下，导致远程办公难以常态化...
+ ## [AI 医学影像辅助诊断的商业模式分析](http://www.woshipm.com/ai/3386622.html)
+ > AI+医疗是近些年来非常热门、资本也非常关注的领域，不过作为大众眼中的“香饽饽”，AI+医疗真的赚到钱了吗？它又该如何实现盈利 呢？大部分AI医学领域都是创业型公司，...
+ ## [新拟态——国外设计师分析的全新UI趋势](http://www.woshipm.com/pd/3386232.html)
+ > 相信最近很多小伙伴在逛Dribbble时候，发现最近流行一波新的设计风格，和以往不同的是，这次趋势又回到之前拟物化了，但它与纯拟物化还是有区别的，现在它有一个流行词...
+ ## [增长的旋律：AARRR模式的深入思考](http://www.woshipm.com/operate/3386403.html)
+ > 近几年来，增长概念十分火热，围绕增长展开的讨论也不绝于耳。那么理论流行之下，我们又该如何将观点内化为自己的认知，应用于实践之中呢？本文将为你揭晓答案。此疫...
+ ## [短视频之战：2020年，内容变革在持续](http://www.woshipm.com/it/3385168.html)
+ > 微信视频号，会是你翻盘的最后机会吗？文章从内容本质和内容运营出发，探讨了创作者如何把握内容方向，做好内容运营并展望了短视频的未来发展。按照惯例，先上个图捋...
+ ## [全网播放量超1亿，涨粉320万，回形针的科普视频是如何做到的？](http://www.woshipm.com/it/3386450.html)
+ > 前段时间，回形针制作的《关于新冠肺炎的一切》视频大火特火，全网观看量就超过了1亿，为大量恐惧、焦虑的网友们做了一次硬核科普。前段时间，你的朋友圈一定被名为《...
+ ## [产品经理，你不能只会画原型](http://www.woshipm.com/pmd/3383979.html)
+ > 产品经理可以根据公司的要求按需掌握技能，会画原型只是基础工作，不同阶段的产品经理或许有着不同的技能要求，但是最后考验的是综合实力和对用户和发展方向的把握，一...
+ ## [万字分享：2020年，运营人如何成为超级个体？](http://www.woshipm.com/operate/3385040.html)
+ > 本文作者从自己工作实践出发，结合相关案例，从运营人能力、成长型思维、副业赚钱和人生规划四个方面对运营人如何获得快速成长进行了解答，希望能对大家有所帮助。注...
+ ## [工作效率低？这个锅远程办公不背](http://www.woshipm.com/zhichang/3385223.html)
+ > 近期，多数企业都进行了在家办公的操作。有人说远程办公效率变低了，事实真的如此吗？作者认为：并不是远程办公使工作效率变低了，是因为团队平时效率就很低使得远程办...
+ ## [互联网技术正在改变内容产业](http://www.woshipm.com/it/3385768.html)
+ > 对文娱产业来说，持续升级变革的互联网技术正在不断改变文娱产业的呈现方式与传播方式，例如VR、5G、互动剧等技术就在不断影响文娱产品的表现形式。谁也没想到，2020...
+ ## [如何启动和扩展平台业务？（1）：启动平台业务，先限定市场范围](http://www.woshipm.com/operate/3383314.html)
+ > 本系列分享来自当今17个最大的平台业务公司洞见，包括Airbnb、DoorDash、Thumbtack、Etsy、Uber等：如何启动并扩展市场，在这些文章中，作者将分享对当今最成功的平台公...
+ ## [现阶段下，内容媒体的特征与发展趋势](http://www.woshipm.com/it/3385699.html)
+ > 随着科技技术的不断升级变革以及互联网产品的不断革新，信息不再是一种稀有产物，人人皆可创作、传播使得媒体行业看似地位日渐衰微。不过，理性思考一下，事实真的如此...
  ## [0~3岁产品经理必懂的数据分析方法（4）-分布分析法&用户留存分析法](http://www.chanpin100.com/article/110718)
  > 干货~
  ## [产品经理像专业人员一样执行“需求分析”！](http://www.chanpin100.com/article/110716)
