@@ -1,7 +1,7 @@
 ---
 title: 2020-02-13 IT News
 copyright: true
-date: 2020-02-13 12:09:28
+date: 2020-02-13 17:02:43
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,35 +66,51 @@ GSMA&#65306;&#19990;&#30028;&#31227;&#21160;&#36890;&#20449;&#22823;&#20250;&#23
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [GSMA正式宣布取消MWC2020举办](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=jT3h-0wlBD4Ct5mJJ7YE*aseOdcnmdNRa81rv4sKV*tv*KHAR4CXlU840*hEbrcdCbh8AQaAL9R0iI3gxLLTyDqCA8xIZg9dnIxuldTn3btz99zVSI7wbIOWdFxuELXi&new=1)
- > 今日凌晨，GSMA官网发布来自GSMA CEO John Hoffman的声明公告，正式宣布取消MWC2020大会的举办。▍其官网全文内容如下：自2006年在巴塞罗那举行第一届世界移动大会以来，GSMA已经召集了整个移动行业、政府、官员...
- ## [受新冠病毒疫情影响，MWC 2020宣布取消](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=50O82UdFhVCO5MvzeHyMmzZpck8dTan*jVSYzmAt4v9rn1agtTa2SKQXiNC4UPJ3vQjLUsPeBARV*q1r9b*NYKh6U2p*yLdycs0DWCl069RqpNFKSZ4zs5w9If5bJlSy&new=1)
+ ## [2020 年，远程办公太难?技术大佬齐支招!](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=*4EuQ-LiGeOjv0haSByIQLNxcwPQjIclwhfB-wpPhdNOVE1wRZsfybNcZO95EozshexhLiia1OEKepc-KoEmwc3skFVHYCstgYx1J5mDwmesr8DvZ0EYwTNo4x7MwDVJ&new=1)
+ > 在新型冠状病毒疫情肆虐下，国内不少企业启用远程办公的模式。根据各种研究和报告表明，大部分上班族均希望远程办公。据 Buffer在《远程办公现状》报告中指出，99%的受访者表示，希望以某种形式进行远程办公。到...
+ ## [中国科技公司的抗疫“黑科技”到底有多强?|风眼观察](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=AcQEbwWq7937dKbyzlp167qytQb*xMOCCzatCOPgJOWoTr7xxLnov*yru7CZ3M2BqPwSfTtltgo6SW6aJxANb7HRnsDvxtMkTepCdwPXCIDatXAI5LcTsN9uuhkXdpmV&new=1)
+ > 出品 《风眼》深度报道组 凤凰网科技 凤凰新闻客户端作者  于雷  编辑 于浩微信编辑 杨倩编者按 一场突如其来的新型冠状病毒肺炎在2020年初席卷了全球，抗击疫情，社会各界都在积极应对，贡献自己的力量。2月4日...
+ ## [MWC20因疫情取消，产业影响有多大?](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=R6ZWNN7pc8tz3M4oYfzkOW6KNOFjWJwG*yL2a98jz74JZScmSfsHLYloqym5Szc77Kf-7fn9ob094eWKnIODjxys4jgYlz89KFC5FnhOqU2pRXAYWdLgnpsrQDU6Wm7W&new=1)
+ > 2月13日，全球移动通信系统协会GSMA 官网发布声明表示，受全球对新冠肺炎疫情等其他情况的担忧影响，协会决定取消2020年2月底在巴塞罗那举行的世界移动通信大会（MWC）。MWC已经举办十多届，是每年参展人数达到1...
+ ## [风口浪尖下的在家办公——1星好评还是来了](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=qfmtgpdXCLOZvMA*Urh3sp8qpL6El6ZNC0zja-yvwv2qJrAQA9kgYKPjd18Nz4ebliwtdcND0B3Fb8rptDVD4jAhl1qxsQPmiDXhEKeF*DlMy2Srl5xgTows6wtyLXGf&new=1)
+ > 导语：三十年河东、三十年河西，莫欺中年穷。今天惨淡的钉钉，在苹果、华为、OPPO、1+等各大手机厂商的应用商店里荣获了1星下士的荣誉，而获得这样的赞誉离不开疫情期间无法上课的各类教育界人士的共同努力，特...
+ ## [受新冠病毒疫情影响，MWC 2020宣布取消](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=50O82UdFhVCO5MvzeHyMmzZpck8dTan*jVSYzmAt4v8s663RedncEn6tbUGQjf2OjU8gcV-EJRQPH11dEdT8KByx6on5WRrf*sqlSrCrCee*kFRETGFu7UalHmCv-hNK&new=1)
  > 关键时刻，第一时间送达2月13日消息，GSMA今天在召开内部会议后宣布，受新型冠状病毒肺炎疫情影响，MWC2020世界移动通信展会宣布取消。GSMA CEO John Hoffman表示，由于新型冠状病毒肺炎疫情全球蔓延，GSMA已不...
- ## [MWC 2020宣布取消](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=w-1vSQvwdOlmpFfo7-PrqMJBQgMYy4uksVEFINhsoC2JpydUN*j-EwUrYd3TtP7*Yn8BcxaHp1BKHfeUxooDcB3**C9G6Ovb1aGCVJN*U6Db0Vkfm3fi8x70DCUzremk&new=1)
- > 几个小时前，GSMA官方宣布取消计划于2月24日-2月27日在巴塞罗那举行的2020年世界移动通信大会（MWC 2020)。2020年2月12日，巴塞罗那：自2006年在巴塞罗那召开第一届移动世界大会以来，GSMA召集了整个生态系统的...
- ## [通知：3D打印行业视频直播平台来了，大量干货发布](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=TPxFGXDu*zi8X0Hcujs-eBxKmN7qHBHuKhrR5r4fVdTgbOVL2C3MNEgrRgy8mcMAExMP07v1oi2eak8L4svchZ6gMMDykEY2B1j2HbHHCfG90TOT-XmYlHgQUicTiOzU&new=1)
- > 为了方便读者更好了解学习3D打印，2020年2月，南极熊特别推出3D打印行业视频直播平台。欢迎全球各大3D打印厂商，来合作举办线上研讨会、新品发布会、大咖演讲、课程教学等；同时南极熊将发布大量行业研究报告，...
- ## [2020年的20项IT决议](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=RDlZVVmLHGPFVj1dnGoqYfsm8Va7H5BRsRXTvDWtgGTStj6etcmCk1tB4WO-T1ns8L*9NKR7E3oqRSwiJGBAzU5hy0o0WF-*fJcuRVza-ShAbsgBAOSamQW-wwN2ioIS&new=1)
+ ## [宅在家中，听节物联网测试讲座充实自己](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=D46nQHUcQf6HEq-rFH6hsFrdsrI5MS4qwq1lNgi3jlv521vNRfJyY-eAQf2DCMWa0QLMSvdg36VWvXzqbTI*rHqx6Rd528AGuIE6zvpGsVPInmsuC8qoBy5NUqC1PKQq&new=1)
+ > 活动简介Keysight 物联网测试技术系列讲座观看任一研讨会视频且提交调查问卷轻松赢取礼品活动时间2020年2月13日-3月12日参与用户观看研讨会视频且提交问卷的用户可以参与抽奖每位用户只能参与一次规则和奖品长按...
+ ## [AI战「疫」：百度开源业界首个口罩人脸检测及分类模型](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=DQuYyOfCKnf5xOs53uLLRIESxuqwWD-ToGku-SDyGsuELhgPtXNWFZmNQhR5-8PSxrrq8Um6QnT4usYpQUl4leMsZq-L2mVIb67MvwBSS1cyoFnXpx-CQxnhv*H4pIQI&new=1)
+ > 机器之心原创参与：泽南、思开工上班，各地应该如何做好疫情防护？人工智能技术正在为抗击新冠肺炎疫情的工作提供必要的帮助。2019 新冠肺炎疫情爆发，让人们的出行发生了很大的变化——自 1 月 24 日武汉宣布封...
+ ## [受疫情影响 世界移动通信大会MWC2020宣布取消](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=2LXdBrKIs0BXq*u3rbbyF9b8hJXL0iQjFiF4Y9y*wpgHBinKLIW6wydUndOWbtoC7MmYyvmkIHmfesLnyDg5oQAxj8UHpSaZZYgK95mgJDDJR-Y3-5qwbd*Mpxvw0o52&new=1)
+ > 2月13日凌晨，GSMA在召开内部会议后宣布，受新型冠状病毒肺炎疫情影响，2020年世界移动通信大会（MWC2020）确定取消。GSMA CEO 约翰·霍夫曼（John Hoffman ）表示，由于新型冠状病毒肺炎疫情全球蔓延，GSMA已不
+ ## [刚刚，“疫”外取消，MWC2020真的凉了!](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=ja81V2MoNdgpO2d2CLYKPPQ7D27-BBXX4tg4O3Ey4nXdbYjkPDcmNtldP5NbvC5qybHvKd7Lj*v6rT84yUs2vw1Y476Ezb6RDGsnQfMwFKTQMX5Caqx2va7Fzz*8aGQS&new=1)
+ > 2月13日凌晨，GSMA在召开内部会议后宣布，受新型冠状病毒肺炎疫情影响，正式取消MWC2020（2020年世界移动通信大会），GSMA CEO约翰·霍夫曼（John Hoffman）表示，未来GSMA和主办城市将共同努力，办好明年的MWC
+ ## [2020年的20项IT决议](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=RDlZVVmLHGPFVj1dnGoqYfsm8Va7H5BRsRXTvDWtgGRylKjNKp-ZJfbBVq9pxutLtOill4*P1uUD-ixC9Dr1bFjOZPJpZUhc98oAvoyP4LGbhOr3SLNhmBils06UcCyE&new=1)
  > 关键讯息，D1时间送达！新的十年经历了比以往更快的科技变化。在制定能够跟上这一变化的战略议程时，IT主管们必须要权衡一系列的优先工作事项。新的十年经历了比以往更快的科技变化。在制定能够跟上这一变化的战...
- ## [美国国防部新网安标准一：网安成熟度模型框架分析和进程级别](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=WxF8YkQYFtIHbMauyNnxlTLS8NftREvlMdRtOw83V8*hMW*WYpbW6GW7EK*NoJBSSNXSjmfZkk0G7f5EMj591KBiSZEZzD5NPmOvy4nXLMOMxlBCZBgGll3HdzMiWV8C&new=1)
+ ## [安全就是生产力：53家网络安全企业抗疫榜](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=4WZBrB69wy9SsPAltwCHdZ*uSgJC56gaZos*0QS9UeCRiEG*YOSqnehXucG8l-vqeltSWk7bAEOs9CLpELh07EJ6vBEojOfS7WjdZY0ZpXMZdT4Pu*VUvF1PVnsCKgPB&new=1)
+ > 当下新型冠状病毒感染肺炎疫情防控工作已进入“中盘战斗”的关键时期，互联网信息科技和网络安全技术在维系社会经济运转和疫情防控协调指挥方面正发挥着至关重要的作用。 虽然新冠病毒已经给中国经济和人民健康...
+ ## [正业科技三连板引质疑 研发口罩设备是炒作还是企业担当?](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=pp5T4FeNA0kbJ1xXuSbKSkaKTT7YNWr0viZ*QyGVVuEK2-j3oAy10xdZhHF3M3smQi98w6SYcbEiN8VTXO2SsZ26*R2z2pCNZtAXUds**F-KjFHcLimRgWQ2-b*CVkRu&new=1)
+ > 2月10日-12日，正业科技股价连续三个交易日收于涨停板，这一异常波动受到了深圳证券交易所的关注。深交所要求正业科技说明公司口罩全自动生产设备的具体研发情况，并说明公司是否存在迎合市场热点，炒作公司股价...
+ ## [GSMA正式宣布取消MWC2020举办](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=jT3h-0wlBD4Ct5mJJ7YE*aseOdcnmdNRa81rv4sKV*uh1xJWX3XKmlD7nlzTOifKy-20PusDyi4QjCJahvcuO3aKxJYvU3doIEq9shWomKajBRX94316EkjaKkjr0goI&new=1)
+ > 今日凌晨，GSMA官网发布来自GSMA CEO John Hoffman的声明公告，正式宣布取消MWC2020大会的举办。▍其官网全文内容如下：自2006年在巴塞罗那举行第一届世界移动大会以来，GSMA已经召集了整个移动行业、政府、官员...
+ ## [MWC 2020宣布取消](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=w-1vSQvwdOlmpFfo7-PrqMJBQgMYy4uksVEFINhsoC1vsEUz5aB85wAgo9-CFNQsU*oOcTFpeEn0wgh2jJgGf5fZ2SXW4O39y2zSGitmhDoLFM83v-jRbB9XK-KQpB4A&new=1)
+ > 几个小时前，GSMA官方宣布取消计划于2月24日-2月27日在巴塞罗那举行的2020年世界移动通信大会（MWC 2020)。2020年2月12日，巴塞罗那：自2006年在巴塞罗那召开第一届移动世界大会以来，GSMA召集了整个生态系统的...
+ ## [通知：3D打印行业视频直播平台来了，大量干货发布](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=TPxFGXDu*zi8X0Hcujs-eBxKmN7qHBHuKhrR5r4fVdRjn*lFXIO2s3jNAuQqOa0VteVB2OrHDJ1fS9SUEgWO9w5sran991FwO9RcVOWqdzEJLCAiORfJO7J*KUwVhexF&new=1)
+ > 为了方便读者更好了解学习3D打印，2020年2月，南极熊特别推出3D打印行业视频直播平台。欢迎全球各大3D打印厂商，来合作举办线上研讨会、新品发布会、大咖演讲、课程教学等；同时南极熊将发布大量行业研究报告，...
+ ## [美国国防部新网安标准一：网安成熟度模型框架分析和进程级别](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=WxF8YkQYFtIHbMauyNnxlTLS8NftREvlMdRtOw83V8-P7HDPJ1NJfGzS9qOm-5wA7UXCR23rP0nO2NIjoDMp0*stztAeeXrL3uTR*q7V5KMq0NK0udmN0Qqfk0js1uiD&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全2月13日讯，据外媒报道，于2020年1月31日，美国国防部发布了新的网络安全标准——《网络安全成熟度模型认证1.0版》(简称CMMC 1.0)。美国防部表示，到2026
- ## [评论|疫情改变了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=UzsKaMYx9u1McV0csaeyutwp9fbNKSY3sK45L2RhgUlQfpFisXCoRl0FWqET9M0-TehYCw4pRFcIlUTfvlg4qPcqOShW7wwoGfWkQLD*HFFBAqoGoiENw5qxCZPOoEws&new=1)
+ ## [评论|疫情改变了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=UzsKaMYx9u1McV0csaeyutwp9fbNKSY3sK45L2RhgUmVasjpAd--w7jIvRTYp5jfZUghDirRaivq2Rp-HnlX2ux09FGMvxBQsVaZUcNfDnInbfhJf91LhZ2Oz5PKeGYk&new=1)
  > 新闻导读受新型冠状病毒（2019-nCoV）疫情影响，诸多行业企业在2020年春节颗粒无收，在现金流、租金、违约金和人力成本等多重压力下，中小企业能否度过此次危机？2020年进入5G建设加速期，设备商受益确定性强，...
- ## [\[科技早报7点整\]教育部回应停课不停学 甘薇向贾跃亭索赔近40亿](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=hvxeQxY-5-Wpa*lBJaTKy1edB9l40y57-f2WxzrmU8SAvsWgGLAgwQ0JuD6PKyMJt1ouJde-h5RwV6NOHNmAhBq2Xoat0soBAM2e47WpXRjezLuiUh2FGrREdfqZlhmT&new=1)
+ ## [\[科技早报7点整\]教育部回应停课不停学 甘薇向贾跃亭索赔近40亿](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=hvxeQxY-5-Wpa*lBJaTKy1edB9l40y57-f2WxzrmU8STNwYc6IfVIk2GdBNIwMT-KdEry02uF6OEsk32B81dw-kwXecV0UonFCDAQt9QzWVmEDWxHQVO5A5F6yIHBdhv&new=1)
  > 早上好，科技圈【一度蜜科技早报】第719期1.教育部回应停课不停学：不得强求学生每天上网打卡教育部、工信部联合印发通知，指出：对小学低年级上网学习不作统一硬性要求，由家长和学生自愿选择，对其他学段学生...
- ## [疫情冲击中国5G:运营商集采和建设延后，将会“报复性”加速?(六专家解读)](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=1DD0Tkp4eMwVMqOYmp7DILMUS2SdbbqECwf61N7PGq-HI9MRvGi7PzCJYrWaxNj6hn9dTMGZoa-YY9zFVu*qIGmF1c2F2T0wwjjTVYRtgGBn1SNzx*utwyapP9JrhP6G&new=1)
+ ## [疫情冲击中国5G:运营商集采和建设延后，将会“报复性”加速?(六专家解读)](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=1DD0Tkp4eMwVMqOYmp7DILMUS2SdbbqECwf61N7PGq99RkWxJ5csRKw38Z1nCLKOhAMKls6BtuX**wpJiSzGHb-ewqLMMJDY0BIDu5R30BiiszxoYE3NlGJDm0UHBYXa&new=1)
  > 疫情持续多日，对ICT产业影响深远。尽管5G在抗疫工作中频频亮相，但难掩2020年伊始我国乃至全球5G建设速度放缓的事实。5G是2020年移动通信行业发展的主角。根据全球移动供应商协会（GSA）的统计，截至2019年底，...
- ## [消息确定了，美国在欧洲围堵华为再遭重大挫败!](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=VmaA4e4CFoNRITFBter-7ukXOrGWxdmubvHYqSQ71ootfRN6j4H8fLy1S9czqiuEIXGKGJ4zxPApHEha0xeqeaV3Xw6tqXlpz6vMqc9kEKkpAnGZ2PkqazSGm79wGgv-&new=1)
+ ## [消息确定了，美国在欧洲围堵华为再遭重大挫败!](http://mp.weixin.qq.com/s?src=11&timestamp=1581582659&ver=2155&signature=VmaA4e4CFoNRITFBter-7ukXOrGWxdmubvHYqSQ71opzc0JZA74bSFrVRFZ3y9vNeYC2nLFiLigTlalpn8q55ah5S**EQ*Edtn8Q6vThRyKhcn9miVpEOdmjB0r95wnM&new=1)
  > 媒体报道指，欧洲市场再增两个国家确定支持华为，土耳其主要电信服务商之一的Turkcell与华为签署协议；德国议会主要党派基民盟/基社盟联盟于2月11日星期二举行了投票，反对将华为从德国5G网络中排除出去。请输入...
- ## [爱立信、诺基亚等30家企业宣布退出，今年巴展会凉?](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=w-1vSQvwdOlmpFfo7-PrqMJBQgMYy4uksVEFINhsoC0DhBPlmjZBz5-VwXu3RlU6QOjAZ1DCl0POXi-OpRphzVy20RBI7KvOWCkkdmC6mIBT2ETCaM0Lu0WHQ7HrsBbo&new=1)
- > 受新冠状病毒疫情影响，越来越多的企业宣布取消参加于2月24日在巴塞罗那举行的2020年世界移动大会（MWC 2020）。到目前为止，已确认不参加MWC 2020的企业至少有30家，列表如下：1）2月5日：LG2月5日，LG官网宣布...
- ## [疫情之下 AI 机器人如何实现“无接触”操作?|科技向善](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=VLOLIhP9MASEhvRNFfPb3N9qXXr-uYg2DPOqYMyKQyQ-*t89BW73WSHgn-735cpxm0ufU55muV7uxu5IFS7TvU7ujzAJo47ZF7*leTCybL6gBypUVBcgdSr8ndWFMFNf&new=1)
- > 文 | 动点科技作者 |  陈静科技向善动点科技发起“科技向善”公益活动，致力于让国内外读者第一时间了解到科技公司在抗击疫情中所做的努力。疫情之战正处在关键时期，为了阻隔病毒传播，避免人与人之间的密切接...
- ## [\[芯调查\]退出MWC爱立信325万美元展位费泡汤 中国厂商亏多少?](http://mp.weixin.qq.com/s?src=11&timestamp=1581566458&ver=2155&signature=71DYpCbBjQu8GuTIaQTnnsR30T52q*YlF4FkBpvkiFz-TJ5SfLl8HC32vgA0yzQbnjBPZp8g8Uo2PHYIYcVUHjIPWtRhNYTbk3Z2BFoStUiyPSvMPS*PL1Zi2cGPTcT*&new=1)
- > 受到流行的新型冠状病毒疫情的影响，即将于2月24日在西班牙巴塞罗那举行的世界移动通信大会MWC 2020正在成为漩涡的中心。作者｜Lane   校对｜范蓉集微网原创文章，转载请留言集微网·爱集微APP，各大主流应用商...
 # IT 技术 
  ## [致Linux运维：当你的服务器被黑了，一定要看是不是犯了这5点错误](http://news.51cto.com/art/202002/610492.htm)
  > 致Linux运维：当你的服务器被黑了，一定要看是不是犯了这5点错误
+ ## [7个可用于自建电商站点的开源解决方案](http://os.51cto.com/art/202002/610477.htm)
+ > 7个可用于自建电商站点的开源解决方案
  ## [2020年度最热门的编程语言盘点](http://developer.51cto.com/art/202002/610455.htm)
  > 2020年度最热门的编程语言盘点
  ## [新来个技术总监，禁止我们使用Lombok!](http://news.51cto.com/art/202002/610448.htm)
@@ -107,28 +123,26 @@ GSMA&#65306;&#19990;&#30028;&#31227;&#21160;&#36890;&#20449;&#22823;&#20250;&#23
  > 用这些免费的应用程序改善优化Windows 10 PC
  ## [阿里工程师开发弹幕新玩法，网友不淡定了……](http://developer.51cto.com/art/202002/610417.htm)
  > 阿里工程师开发弹幕新玩法，网友不淡定了……
- ## [7个可用于自建电商站点的开源解决方案](http://os.51cto.com/art/202002/610477.htm)
- > 7个可用于自建电商站点的开源解决方案
- ## [一键抠图，毛发毕现：这个GitHub项目助你快速PS](http://news.51cto.com/art/202002/610497.htm)
- > 抠图是 PS 中的一项常用技术。但是要做到完美地将图像中的目标选取出来往往费时费力。近日，一个名为 PyMa
- ## [选择正确人工智能数据存储的6个准则](http://stor.51cto.com/art/202002/610495.htm)
- > 企业选择错误的人工智能存储平台可能会产生严重影响。因此，人们需要了解可能影响企业选择人工智能数据存储
- ## [受新冠疫情冲击，世界最大手机展MWC官宣取消，33年首次！](http://news.51cto.com/art/202002/610494.htm)
- > 33年来头一次，MWC取消了！在痛失索尼、爱立信、英伟达、亚马逊等顶级参展商后，原定于在巴塞罗那举行的202
- ## [无服务器计算的12个趋势和好处](http://server.51cto.com/Micro-610493.htm)
- > 根据调研机构Gartner公司的预测，到2020年，全球20%的组织将实现无服务器化。无服务器计算引发了企业运营方
- ## [伊朗卫星发射失败：太空物联网布局失败！](http://iot.51cto.com/art/202002/610491.htm)
- > 据媒体报道，2月9日，伊朗塞曼省霍梅尼航天中心，伊朗自主研发的“凤凰”号太空运载火箭，搭载具有彩色摄
- ## [又是搞砸Mybatis源码的一天](http://developer.51cto.com/art/202002/610490.htm)
- > 源码一章肯定是讲不完的，所以阿粉会分成几个章节，并且讲源码的话，代码肯定比较多，比较干，所以请大家事
- ## [混合云环境的优秀应用程序、工作负载和策略指南](http://cloud.51cto.com/art/202002/610488.htm)
- > 如今，几乎每家公司的开发人员都需要快速的IT响应时间、自助服务部署以及良好的用户体验。当涉及到业务线(L
- ## [1月份Github上热门的JavaScript开源项目](http://developer.51cto.com/art/202002/610487.htm)
- > 1月份GitHub上最热门的JavaScript开源项目排行已经出炉啦，一起来看看上榜详情。
- ## [关于5G，你要知道的那些事，还不快来了解下](http://network.51cto.com/art/202002/610483.htm)
- > 早在1g时代我们只能接打电话。2g时代可以打电话发短信，玩早期的qq，但网络十分不稳定。3g时代带给我们很
- ## [物联网产值竟能超过美国GDP？论物联网数据预测的各种面孔](http://iot.51cto.com/art/202002/610484.htm)
- > 对于物联网产业发展来说，总是像算命一样预测多年后的世界，却不能在短期内给出充分、翔实的分析，不能给予
+ ## [2020 年了，深度学习接下来到底该怎么走？](http://news.51cto.com/art/202002/610525.htm)
+ > 机器学习资深从业者 Ajit Rajasekharan 在本文中汇集了深度学习领域各路大佬的想法，并分享了他本人的一些
+ ## [AI战「疫」：百度开源口罩人脸检测及分类模型](http://news.51cto.com/art/202002/610523.htm)
+ > 2 月 13 日，百度飞桨宣布开源业界首个口罩人脸检测及分类模型。基于此模型，可以在公共场景检测大量的人脸
+ ## [2020年，比较适合AI的5种编程语言](http://ai.51cto.com/art/202002/610519.htm)
+ > AI系统的开发必须有计算机代码，而计算机程序的开发有不同类型的编程语言可以选择。本文分析哪些编程语言最
+ ## [开发者撰文：.NET 从昨日辉煌到如今逐渐没落](http://news.51cto.com/art/202002/610524.htm)
+ > 开发者 Stefan Dobrev 在博客发表了名为《The Sad State of .NET》的文章，分析了 .NET 为何从曾经的辉煌变
+ ## [实操：从Oracle到GaussDB的数据迁移](http://database.51cto.com/art/202002/610522.htm)
+ > 最近某省运营商O域核心业务系统的数据库计划从Oracle迁移至GaussDB，数据库服务器也从SUN小型机转到华为Tai
+ ## [5G室内覆盖为何要这三家共建共享？](http://news.51cto.com/art/202002/610516.htm)
+ > 2月10日，工信部发布消息称，已同意中国电信、中国联通、中国广电共同使用3300-3400MHz频段频率用于5G室内
+ ## [1月份Github上最热门的JavaScript开源项目](http://developer.51cto.com/art/202002/610514.htm)
+ > 1月份GitHub上最热门的JavaScript开源项目排行已经出炉啦，一起来看看上榜详情：
+ ## [好机会，我要帮女同事解决Maven冲突问题](http://developer.51cto.com/art/202002/610511.htm)
+ > 其实在工作中经常会遇到这种冲突的问题，比如：Caused by:java.lang.NoSuchMethodError 这个异常信息也是冲
+ ## [情人节来了，教你个用 Python 表白的技巧](http://developer.51cto.com/art/202002/610508.htm)
+ > 2020年，这个看起来如此浪漫的年份，你还是一个人吗？难不成我还能是一条狗？18年的时候，写过一篇介绍如何
+ ## [在这个特殊的时候 这项行业迎来跨越式发展机遇](http://cloud.51cto.com/art/202002/610507.htm)
+ > 前，信息通信业全力发挥5G、大数据、云计算、人工智能等信息技术综合优势，高效助力全国疫情防控。无论是“
  ## [有了 Service Mesh，还需要 API 网关吗？](https://blog.csdn.net/csdnnews/article/details/104292241)
  > 作者 |helight本文经授权转载自大数据与微服务应用（ID：helight_tech）这篇博文还是围绕 API 网关和服务网格的。虽然现在2020年了，围绕这个话题依然有大量的困惑。我之所以选择写这个话题是，为了帮助大家带来真正具体的解释，有助于澄清分歧，重合的地方以及何时使用哪一种方...
  ## [170 亿参数加持，微软发布史上最大 Transformer 模型 T-NLG！](https://blog.csdn.net/csdnnews/article/details/104284473)
@@ -154,30 +168,6 @@ GSMA&#65306;&#19990;&#30028;&#31227;&#21160;&#36890;&#20449;&#22823;&#20250;&#23
  ## [企业微信再次升级；滴滴网约车欲加装防护隔离膜；Firefox 73发布 | 极客头条](https://blog.csdn.net/csdnnews/article/details/104284457)
  > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
 # PM 
- ## [生鲜电商的市场分析报告](http://www.woshipm.com/evaluating/3230894.html)
- > 电商领域有句话：“得生鲜者得天下。”不过生鲜市场看上去很美，做起来却并不容易——生鲜电商4000多家入局者，4%盈亏平衡，88%亏损，70%巨额亏损，最终只有1%实现了盈利。...
- ## [“立扫把”刷屏事件——大众“无聊”的行为艺术](http://www.woshipm.com/marketing/3385851.html)
- > 这几天，一场“立扫把”的“行为艺术”又成功在各类社交媒体上刷屏了。笔者也就此现象惊进行了分析，并认为“立扫把”不过是“无聊下”的集体喧嚣。2020年，一个在科幻小说中...
- ## [如何用AARRR模型谈恋爱？](http://www.woshipm.com/operate/3389280.html)
- > 本文以AARRR模型为基础，结合星巴克、luckin coffee、拼多多等，总结了目前传统及互联网企业中最常见的用户全生命周期营销手段，与大家分享。在用户运营体系中，有一...
- ## [线上课程 | 入门产品经理太难？这是我的学习心得](http://www.woshipm.com/online/3389461.html)
- > 你好，我是Adams，产品经理就业特训营优秀学员。课程结束后仅用10天拿到深圳某互联网科技公司产品助理offer，年前已经成功入职。嘿嘿，先晒一下Offer~在这个普天同庆...
- ## [落后的商品评价体系配不上新零售](http://www.woshipm.com/newretail/3389075.html)
- > 为了新零售行业更好更快发展，电商需要对落后的商品评价体系进行改造优化，建立熟人评价体系或许是一个好的想法，最关键的是信任。疫情之下，受公共交通停运等因素影...
- ## [五类UX工作坊的应用方法](http://www.woshipm.com/pd/3387916.html)
- > 设计过程中，涉及不同角色、不同岗位之间的沟通、协作时，我们可以根据场景与需求的特点，采取相对应的UX工作坊形式，以便实现高效的沟通协作。在设计过程中，当不同...
- ## [以SaaS产品为例，通过场景和价值判断需求](http://www.woshipm.com/pmd/3388524.html)
- > 与C端产品不同，SaaS产品通过挖掘并实现业务场景中的需求而存在。那么做产品前，我们又要如何挖掘需求呢？笔者认为可以从回归场景与价值判断两部分做起。在做SaaS产品...
- ## [如何启动和扩展平台业务？（2）：早期先启动供给侧还是需求侧？](http://www.woshipm.com/operate/3383375.html)
- > 本系列由Airbnb增长负责人分享来自当今17个最大的平台业务公司洞见，包括Airbnb、DoorDash、Thumbtack、Etsy、Uber等：如何启动并扩展平台。在这些文章中，作者将分享对...
- ## [产品需求文档：滴滴快车业务](http://www.woshipm.com/evaluating/3384287.html)
- > 文章从产品架构、全局变量、产品流程、页面流程及页面详细说明几个方面深度研究了滴滴出行中的“快车”功能业务，并总结了对滴滴的三点建议，与大家分享。一、文档概述...
- ## [微信视频号将走向何处？](http://www.woshipm.com/evaluating/3388778.html)
- > 微信开创视频号，是腾讯在微视后对短视频的再次押注与发力。而视频号这类短内容，也是微信视频创作从熟人的双向关系链转移到侧重单向关系链上。自从微信公开课，小龙...
- ## [4层会议发言结构，助力推动跨部门合作](http://www.woshipm.com/zhichang/3384828.html)
- > 很多人都有类似的经历，当需要其他部门同事配合完成工作，项目需要跨团队协作时，总是会遇到重重难题。如果没有做好沟通，可能会影响后续项目进程。如何在会议上发言，...
- ## [搭建后台系统权限系统的经验总结](http://www.woshipm.com/it/3386374.html)
- > 关于讨论后台系统中的权限系统的文章与理论有很多，而笔者就结合自己的认知与项目经验，与大家分享搭建权限系统的要点。作为后台产品经理，相信大家都有接触过权限系...
  ## [只选1个，你认为产品经理的核心能力是什么？](http://www.chanpin100.com/article/110723)
  > 无论从应聘者角度看面试者，还是作为面试者，如果只能选一条，我认为产品经理最核心的能力应该是：“看清楚问题本质”的能力
  ## [如何学习线性思维？](http://www.chanpin100.com/article/110721)
