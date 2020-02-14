@@ -1,7 +1,7 @@
 ---
 title: 2020-02-14 IT News
 copyright: true
-date: 2020-02-14 10:01:55
+date: 2020-02-14 12:02:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -43,16 +43,16 @@ SaaS&#20844;&#21496;&#8220;Negotiatus&#8221;&#23436;&#25104;1000&#19975;&#32654;
 </div>
                         
 </details>
-<details><summary><b>【起点学院早报】2020年02月13日 星期四</b></summary><div class="news-list-content"><p>1.&#25945;&#32946;&#37096;&#65306;&#22269;&#23478;&#20013;&#23567;&#23398;&#32593;&#32476;&#20113;&#24179;&#21488;2&#26376;17&#26085;&#24320;&#36890;&#65292;&#20379;&#23398;&#29983;&#20813;&#36153;&#20351;&#29992;</p>
-<p>2.&#39640;&#24503;&#22320;&#22270;&#19978;&#32447;&#22320;&#38081;&#23458;&#27969;&#28385;&#36733;&#24773;&#20917;&#26597;&#35810;&#21151;&#33021;</p>
-<p>3.&#20013;&#38134;&#21327;&#65306;&#38134;&#34892;&#19994;&#20449;&#36151;&#25903;&#25345;&#36817;3500&#20159;&#20803;&#21161;&#21147;&#30123;&#24773;&#38450;&#25511;&#21644;&#22797;&#24037;&#22797;&#20135;</p>
-<p>4.&#28120;&#23453;&#30452;&#25773;&#25512;&#20986;&#8220;&#20113;&#21457;&#24067;&#20250;&#8221;&#65292;&#23567;&#31859;10&#23558;&#32431;&#30452;&#25773;&#21457;&#24067;</p>
-<p>5.&#24555;&#25163;&#21457;&#36215;&#8220;&#19981;&#22914;&#20113;&#36454;&#36842;&#8221;&#65292;&#22812;&#24215;&#21322;&#23567;&#26102;&#22280;&#31881;30&#19975;</p>
-<p>6.&#32654;&#22242;&#37202;&#24215;&#25512;&#20986;&#8220;&#36820;&#24037;&#23433;&#24515;&#20303;&#8221;&#65292;&#24110;&#36820;&#24037;&#20154;&#21592;&#35299;&#20915;&#20020;&#26102;&#20303;&#23487;&#38590;&#39064;</p>
-<p>7.&#22269;&#38081;&#38598;&#22242;&#65306;&#31105;&#21806;&#26080;&#24231;&#36710;&#31080;&#65292;&#39184;&#36710;&#19981;&#20877;&#25509;&#24453;&#23601;&#39184;&#21644;&#36141;&#29289;</p>
-<p>8.&#32654;&#22242;&#65306;100&#20159;&#20248;&#24800;&#21033;&#29575;&#36151;&#27454;&#27491;&#24335;&#24320;&#36890;&#32511;&#33394;&#36890;&#36947;&#65292;&#39318;&#25209;&#28246;&#21271;&#21830;&#25143;&#24050;&#33719;&#25903;&#25345;</p>
-<p>9.&#39640;&#26032;&#25216;&#26415;&#20225;&#19994;&#12300;&#22825;&#38082;&#20113;&#31185;&#12301;&#33719;&#25112;&#30053;&#25237;&#36164;3200&#19975;&#20803;&#34701;&#36164;</p>
-<p>10.&#26234;&#33021;&#36153;&#25511;SaaS&#26381;&#21153;&#21830;&#12300;&#31616;&#32422;&#36153;&#25511;&#12301;&#33719;B&#36718;&#25968;&#21315;&#19975;&#20803;&#34701;&#36164;</p>
+<details><summary><b>【起点学院早报】2020年2月14日 星期五</b></summary><div class="news-list-content"><p>1.&#33756;&#40479;&#20379;&#24212;&#38142;&#32852;&#21512;&#29289;&#27969;&#20249;&#20276;&#21457;&#24067;&#26149;&#23395;&#25307;&#21215;&#20196;&#65292;&#38754;&#21521;&#20840;&#22269;&#24320;&#25918;2&#19975;&#20010;&#23703;&#20301;</p>
+<p>2.&#28145;&#22323;&#8220;&#24748;&#36175;&#8221;&#26032;&#20896;&#32954;&#28814;&#24212;&#24613;&#31185;&#30740;&#25915;&#20851;&#65292;&#39033;&#30446;&#21487;&#33719;&#20159;&#20803;&#32423;&#22870;&#21169;</p>
+<p>3.&#30334;&#24230;&#23459;&#24067;&#20813;&#36153;&#24320;&#28304;&#19994;&#20869;&#39318;&#20010;&#21475;&#32617;&#20154;&#33080;&#26816;&#27979;&#21450;&#20998;&#31867;&#27169;&#22411;</p>
+<p>4.&#33487;&#23425;&#26131;&#36141;&#25512;&#20986;&#8220;&#36229;&#24215;&#25773;&#35745;&#21010;&#8221;&#65292;25&#19975;&#21592;&#24037;&#19978;&#32447;&#30452;&#25773;</p>
+<p>5.&#32593;&#26131;&#21551;&#21160;&#26080;&#25509;&#35302;&#25307;&#32856;&#65292;&#36229;2600&#20010;&#32844;&#20301;&#23545;&#22806;&#24320;&#25918;</p>
+<p>6.&#30334;&#24230;&#22320;&#22270;&#19978;&#32447;&#8220;&#30123;&#24773;&#23567;&#21306;&#8221;&#22320;&#22270;&#65292;200&#20313;&#20010;&#22478;&#24066;&#21487;&#26597;</p>
+<p>7.&#32593;&#36151;&#26426;&#26500;&#25509;&#20837;&#22830;&#34892;&#24449;&#20449;&#31995;&#32479;&#65292;&#22833;&#20449;&#24809;&#25106;&#26426;&#21046;&#36827;&#19968;&#27493;&#23436;&#21892;</p>
+<p>8.&#30334;&#24230;&#32852;&#21512;&#26524;&#22771;&#65306;&#19978;&#32447;&#8220;&#25298;&#32477;&#37326;&#21619;&#8221;&#25628;&#32034;&#39029;&#29305;&#25928;&#24425;&#34507;&#21644;&#30334;&#24230;&#30334;&#31185;&#35789;&#26465;</p>
+<p>9.&#21019;&#26032;&#33402;&#26415;&#25945;&#32946;&#38598;&#22242;&#12300;&#22799;&#21152;&#20799;&#12301;&#23436;&#25104;&#27719;&#31441;&#36164;&#26412;&#25945;&#32946;&#22522;&#37329;&#25968;&#21315;&#19975;&#32423;&#25237;&#36164;</p>
+<p>10.&#38068;&#26032;&#26448;&#26009;&#30740;&#21457;&#29983;&#20135;&#21830;&#12300;&#21326;&#21451;&#34914;&#24030;&#12301;&#33719;&#25112;&#30053;&#25237;&#36164;8.05&#20159;&#20154;&#27665;&#24065;</p>
 </div>
                         
 </details>
@@ -60,107 +60,149 @@ SaaS&#20844;&#21496;&#8220;Negotiatus&#8221;&#23436;&#25104;1000&#19975;&#32654;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Σco领导力丨华为“智简”云存储助力江苏省中医院构筑PACS影像仓库](http://mp.weixin.qq.com/s?src=11&timestamp=1581645605&ver=2157&signature=5jmJEDv5CwHhLnwQnHCxANTPIAeNmJY6jCDJjculBnysrVc6IU8I71Q43EKr9vLfNTgfaPRhGZpCHGlLMnW34ftu8czk51WYF1qfy8U59xp6NYbbNXveFcGaM8so534R&new=1)
- > 什么是Σco领导力？或许每个人都有不同的理解。我们无需去定义它，因为我们有更好的诠释——华为携手伙伴助力各行业客户实现数字化、智能化的成功故事，今日聚焦江苏省中医院。江苏省中医院（南京中医药大学附...
- ## [韩国三大运营商最新财报出炉：5G助收入增长](http://mp.weixin.qq.com/s?src=11&timestamp=1581645605&ver=2157&signature=btze-n5ykzC2e5O-L8y2i7NcPAcWKa4*qO87gRSPe1KJkHPgGiPKbGmewTzeTo*eFADRZFY01XoGx08fxdPHXMHZKzqK-gwbhzuwpyz174ZzNYFtbCa0FCRHnqp6psZ9&new=1)
+ ## [独家发布-高功率光纤激光器制造商GW完成B轮亿元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=gwg2L2I0K3obKpIIdrNB7rU0P4tRN*BCgNlwSKEKHa-J*hWqO*gP2RLDVX6p0PonlhzlFcPAXox7sVjivjQ28OH-yYxlv9oYkdGTQXUxul1RgyVC8UcrdW5plehzytP5&new=1)
+ > 随着工业光纤激光器应用迈入万瓦时代，非接触式的激光加工以其高效率、高精度、柔性化正在加速替代传统接触式的机械加工并引领整个装备行业的转型升级。976nm泵浦技术以更高光电转化效率成为万瓦光纤激光主流技...
+ ## [\[报告\]2020年1月汽车工业经济运行情况：新能源汽车仅销4.4万辆 大降54.4%(附26页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=klgjTadDXMGPvAIWKjeLFP2a473ibEaFIvBat960GOi6EMfDgpwIPVnwUuRxY2GVtmkvXEKgE6Sp5OvdgtWIE2PI-JuhxhB6EWnuhd3s0q4vA4x0ytYWWhFofk-m*siy&new=1)
+ > 2020年元月，根据中汽协会重点企业集团统计数据预计，汽车产销分别完成178.3万辆和194.1万辆，环比分别下降33.5%和27.0%，同比分别下降24.6%和18.0%。今年春节假期在元月份，有效工作日17天，比去年减少5天；另...
+ ## [全球5款先进金属3D打印火箭最新进展](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=l*EvzTsFW1L9dTCMsxVoF19Dv5MHvBL3a9HNEiv80Rf3SE6lF8STyK08Esb4Dymx0RWMumXncYN05F6z*bz4kdqC05HZ-NXeQUtoXvK4y31GD4NGQpHla*v41T2lxaaJ&new=1)
+ > 南极熊导读：在航天领域，应用3D打印技术来制造火箭正在变得流行起来，具有不错的效率和承载能力。下面我们一起来看看全球5款先进金属3D打印火箭最新进展。3D打印先进的火箭——改变航空航天业这台3D打印机由多...
+ ## [雷军谈小米10售价：不贵，交个朋友；百度开源首个口罩人脸检测模型；优麒麟18.04.4 LTS发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=ihympHOrNHTYgyY2EOF56HmTy4hzz3*dS1x*VQmy6cnFoH*eobpSDEHYB5a-pO0v-b0lNAGekdI6T4pNoVCTWNNQUBKdb7P2UmB61dqSU9orrv8OIl3UbG4kNYPR*4Za&new=1)
+ > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [美国国防部新网安标准二：网安成熟度等级划分和新增变化](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=HdfNpoBvxt6L6lcH78b1UEGTqzMb3WUzxxQi5MkWJ1ovubTcKtqqqmfWSIVXLIicRfU12aIGDM7XRsW2yNO-3OwaXN8VUGtZeHr0AzrlkoEL55X*qkZi-YPg9ym79f2E&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.comE安全2月14日讯，据外媒报道，于2020年1月31日，美国国防部发布了新的网络安全标准——《网络安全成熟度模型认证1.0版》(简称CMMC 1.0)。美国防部表示，到2026
+ ## [韩国三大运营商最新财报出炉：5G助收入增长](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=btze-n5ykzC2e5O-L8y2i7NcPAcWKa4*qO87gRSPe1LWaLW7kOGKBTaPFOO5XDb-R9GgoRA4uV*nhjfKwhMQ7YaNg-XYcCh5MWsKBvwSD7m8sUk7oOdDoudX9JjXH1YB&new=1)
  > 近日，韩国三大运营商KT、LG U+和SKT陆续发布财报，引起业界高度重视。因为，韩国是全球第一个5G商用的国家，发展5G不遗余力。 截至2019年底，韩国三家运营商合计部署约19万站（AAU设备），完成韩国主要85个城市...
- ## [三大运营商捐款物居央企前列：中移动已被算成了与国家电网并列第二](http://mp.weixin.qq.com/s?src=11&timestamp=1581645605&ver=2157&signature=kCGHur3p3oEdqJhBR2UMHV7n0OT0WMeU8uJ4d4wLZRRugzt4jELg29ZdWN4eaMB5BrnsmW*iEv-DVXFkSX7-CII-Yi8EsBoA2FOh8nA*DT7LjWIZKckM0uI9*bQxL1Z3&new=1)
+ ## [Σco领导力丨华为“智简”云存储助力江苏省中医院构筑PACS影像仓库](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=5jmJEDv5CwHhLnwQnHCxANTPIAeNmJY6jCDJjculBnyNLhZPIPdfek*H6OgRbeiGx6pIwpJJLy8MRcAl4pReBp3x0MZFRfcCPfGmbkAlQWdmzBc-UQULmL7S2NrF6mup&new=1)
+ > 什么是Σco领导力？或许每个人都有不同的理解。我们无需去定义它，因为我们有更好的诠释——华为携手伙伴助力各行业客户实现数字化、智能化的成功故事，今日聚焦江苏省中医院。江苏省中医院（南京中医药大学附...
+ ## [三大运营商捐款物居央企前列：中移动已被算成了与国家电网并列第二](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=kCGHur3p3oEdqJhBR2UMHV7n0OT0WMeU8uJ4d4wLZRSW1iHyqM3oMfBs8D3uVo70iWT6iihaXes0zB*M3HHP7yjMRNl09X8nhsj96DGWK76OpZDjyOuYZwCIKDtfRQBp&new=1)
  > 运营商财经网  八卦叨 /文近日，三大运营商都宣布了自己的捐款金额，让广大员工长出一口气，因为捐款金额还算拿得出手，不至于让人觉得丢面子，而且，在不少媒体的计算方式中，中国移动已被统计成央企捐款捐物第...
- ## [可供对接|抗疫机器人助力前线疫区，7大技术方案一览\[疫区医院支援篇\]](http://mp.weixin.qq.com/s?src=11&timestamp=1581645605&ver=2157&signature=quKrfLtHz9LcjeOg*uisgrcYFRZ2WDjqcJiiYeP5iATEns*R1rqa*ichMykPEG5EVo9KTXHlpvIqJiuVpqQB-J7ZnwVBrzUPZb-EpXnXsLgRxrRg8Y9hAAcluFpRFGXQ&new=1)
+ ## [可供对接|抗疫机器人助力前线疫区，7大技术方案一览\[疫区医院支援篇\]](http://mp.weixin.qq.com/s?src=11&timestamp=1581652805&ver=2157&signature=quKrfLtHz9LcjeOg*uisgrcYFRZ2WDjqcJiiYeP5iAQ3u0YAmkdrtIbBxs1w2NpUnITXyVVSOXrWYRtBZU-H4RRMFLbDbMv3WhHi259N2v3V0HjgHSq6*72K2UbzaOXX&new=1)
  > 导读：在新疫情影响下的服务场景中，各种类型的服务机器人扮演着不同的角色，尤其是在抗疫前线医院中的体感检测、导诊、物资配送、送餐、消毒杀菌、诊断手术等场景中，机器人可以有效的替代人员进行作业，减少和...
 # IT 技术 
  ## [从旁观者到CTO：我在Cloud Foundry基金会的五年经历](http://os.51cto.com/art/202002/610469.htm)
  > 从旁观者到CTO：我在Cloud Foundry基金会的五年经历
  ## [微服务中如何设计高扩展、易维护的“数据网格”？](http://developer.51cto.com/art/202002/610538.htm)
  > 微服务中如何设计高扩展、易维护的“数据网格”？
+ ## [TCP三次握手、四次挥手出现意外情况时，如何保证稳定可靠？](http://network.51cto.com/art/202002/610542.htm)
+ > TCP三次握手、四次挥手出现意外情况时，如何保证稳定可靠？
  ## [Windows 和 Linux 互操作性：看一看 Samba](http://os.51cto.com/art/202002/610458.htm)
  > Windows 和 Linux 互操作性：看一看 Samba
+ ## [危机！危机！疫情是“危”，5G是“机”](http://network.51cto.com/art/202002/610540.htm)
+ > 危机！危机！疫情是“危”，5G是“机”
+ ## [作为一个技术Leader，要如何去提升团队的技术氛围](http://news.51cto.com/art/202002/610561.htm)
+ > 作为一个技术Leader，要如何去提升团队的技术氛围
  ## [致Linux运维：当你的服务器被黑了，一定要看是不是犯了这5点错误](http://news.51cto.com/art/202002/610492.htm)
  > 致Linux运维：当你的服务器被黑了，一定要看是不是犯了这5点错误
  ## [2020年度最热门的编程语言盘点](http://developer.51cto.com/art/202002/610455.htm)
  > 2020年度最热门的编程语言盘点
- ## [新来个技术总监，禁止我们使用Lombok!](http://news.51cto.com/art/202002/610448.htm)
- > 新来个技术总监，禁止我们使用Lombok!
- ## [面对疫情：区块链入场，如何解决物资分配难？](http://blockchain.51cto.com/art/202002/610465.htm)
- > 面对疫情：区块链入场，如何解决物资分配难？
- ## [用什么库写 Python 命令行程序？看这一篇就够了](http://developer.51cto.com/art/202002/610489.htm)
- > 用什么库写 Python 命令行程序？看这一篇就够了
- ## [企业如何在数据中心行业脱颖而出](http://server.51cto.com/Datacenter-610551.htm)
- > 行业媒体采访了数据中心行业专家RackNerd公司创始人Dustin Cisneros，他对如何在竞争激烈的数据中心市场里
- ## [编写高质量箭头函数的5个优秀做法](http://developer.51cto.com/art/202002/610550.htm)
- > 箭头功能值得流行。它的语法简洁明了，使用词法绑定绑定 this，它非常适合作为回调。在本文中，通过了解决
- ## [约会网站用户中有27％的人被骗](http://netsecurity.51cto.com/art/202002/610548.htm)
- > 今天虽然是情人节，但是小编还要播报一条屠戮单身狗的消息：英国银行业警告，在过去一年，有超过四分之一（
- ## [2020年2月编程语言排行榜](http://news.51cto.com/art/202002/610547.htm)
- > TIOBE公布了2月份编程语言排行榜。相比上个月编程语言Top 5并没有太大的变化，其中Java依旧稳坐榜首，随后
- ## [智能仓储：主要好处和应用](http://iot.51cto.com/art/202002/610545.htm)
- > 智能仓储使用物联网、仓储管理软件和其他技术来自动化工作流程并提高效率。
- ## [Python编写规范——书写不规范,tool猿两行泪](https://blog.csdn.net/weixin_43417682/article/details/104300239)
- > Python编写规范——书写不规范,tool猿两行泪
- ## [启舰原创文章列表](https://blog.csdn.net/harvic880925/article/details/103303786)
- > 启舰原创文章列表
- ## [一文理解精确率Precision、召回率Recall以及ROC曲线](https://blog.csdn.net/hesongzefairy/article/details/104295431)
- > 一文理解精确率Precision、召回率Recall以及ROC曲线
- ## [C语言数字图像处理---HSV颜色空间与颜色变换](https://blog.csdn.net/Trent1985/article/details/104297992)
- > C语言数字图像处理---HSV颜色空间与颜色变换
- ## [Lua源码分析 - 主流程篇 - 协程的实现（10）](https://blog.csdn.net/initphp/article/details/104296906)
- > Lua源码分析 - 主流程篇 - 协程的实现（10）
- ## [全国计算机等级考试二级Ｃ语言程序设计考点整理](https://blog.csdn.net/xz4923/article/details/103970781)
- > 全国计算机等级考试二级Ｃ语言程序设计考点整理
- ## [疫情期间：强烈推荐程序员必备阿里面试的300+面试题含答案解析](https://blog.csdn.net/sinat_37903468/article/details/104299545)
- > 疫情期间：强烈推荐程序员必备阿里面试的300+面试题含答案解析
- ## [快速开发一个问卷调查云应用(后端)](https://blog.csdn.net/starshus/article/details/104300312)
- > 快速开发一个问卷调查云应用(后端)
- ## [（九）EGE示例之2048](https://blog.csdn.net/qq_39151563/article/details/104283217)
- > （九）EGE示例之2048
- ## [python深度学习第一讲——用python写神经网络](https://blog.csdn.net/qq_32146369/article/details/104298411)
- > python深度学习第一讲——用python写神经网络
- ## [MySQL进阶六：连接查询](https://blog.csdn.net/Triple_WDF/article/details/104302170)
- > MySQL进阶六：连接查询
- ## [数据结构——线索化二叉树和哈夫曼树](https://blog.csdn.net/weixin_45525272/article/details/104300789)
- > 数据结构——线索化二叉树和哈夫曼树
- ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
- > 
- ## [python爬虫——requests+xpath 爬取8684公交查询网站](https://blog.csdn.net/weixin_44321116/article/details/104294550)
- > python爬虫——requests+xpath 爬取8684公交查询网站
- ## [tiny4412之内存控制器寄存器配置(DDR3 SDRAM)（三）](https://blog.csdn.net/shenlong1356/article/details/104300462)
- > tiny4412之内存控制器寄存器配置(DDR3 SDRAM)（三）
+ ## [网络连接故障解决思路，网卡、驱动、ＩＰ地址，３者关系最为特殊](http://biz.51cto.com/art/202002/610569.htm)
+ > 电脑没网很多人都遇到过，可是他们并不会解决，没有网络是一种很头疼的事，有的可能是网络本身存在一定的问
+ ## [在三线城市工作爽吗？](http://news.51cto.com/art/202002/610568.htm)
+ > 我是一名程序员，从正值青春年华的 24 岁回到三线城市洛阳工作，至今已经 6 年有余。一不小心又暴露了自己
+ ## [防止物联网数据泄露的终极检查表](http://iot.51cto.com/art/202002/610567.htm)
+ > 物联网已经成功地融入了我们生活工作的方方面面。同时，这也就意味着，对这种和谐状态的任何破坏都会造成或
+ ## [人工智能和区块链如何在2020年彻底改变移动应用产业?](http://ai.51cto.com/art/202002/610563.htm)
+ > 2020年也不例外。移动应用行业将以明显的方式增长。人们需要了解人工智能行业将发生什么变化，以及企业在新
+ ## [Python开发者小工具，可视化py转exe](http://news.51cto.com/art/202002/610564.htm)
+ > auto-py-to-exe是一个简单小工具，用一个简单的小界面图形化的方式将.py转换成exe
+ ## [IPv6邻居发现，地址重复检测，及路由器发现机制，一分钟了解下](http://network.51cto.com/art/202002/610565.htm)
+ > IPv6 邻居发现协议使用五种类型的 ICMPv6 消息，实现下面一些功能：地址解析、验证邻居是否可达、重复地址
+ ## [8个物联网安全策略和专家建议](http://iot.51cto.com/art/202002/610560.htm)
+ > 物联网安全性与IT安全性有所不同，行业专家就如何将物联网相关网络风险降到很低提出了建议。
+ ## [14种交通物联网解决日常问题的方法](http://iot.51cto.com/art/202002/610559.htm)
+ > 物联网是一个庞大且不断增长的连接物网络，它正在影响包括运输在内的越来越多的行业。 它远远超出了Uber，L
+ ## [体验未来操作系统：微软7年磨一剑的Windows 10X测试](http://news.51cto.com/art/202002/610562.htm)
+ > 7年前微软发布了Windows 8操作系统和Surface平板电脑，并未收到很好的效果。
+ ## [数据中心技能差距vs.不断增加的数据法规](http://network.51cto.com/art/202002/610558.htm)
+ > 数据中心项目在采用新的配置时需要承担新的任务，因此很容易由于效率低下的流程和长期缺乏熟练的技术人员而
+ ## [京东到家交易系统的演进之路](https://blog.csdn.net/Ture010Love/article/details/104292933)
+ > 京东到家交易系统的演进之路
+ ## [面试时被问技术栈底层 , 机智小伙反秀面试官一脸](https://blog.csdn.net/qq_37977176/article/details/104300076)
+ > 面试时被问技术栈底层 , 机智小伙反秀面试官一脸
+ ## [Vue数据代理检测（源码）](https://blog.csdn.net/ligang2585116/article/details/104302281)
+ > Vue数据代理检测（源码）
+ ## [【数据挖掘重要笔记day17】pandas中的绘图函数+线形图+柱状图+直方图+随机百分比密度图+箱线图+散布图](https://blog.csdn.net/qq_35456045/article/details/104300683)
+ > 【数据挖掘重要笔记day17】pandas中的绘图函数+线形图+柱状图+直方图+随机百分比密度图+箱线图+散布图
+ ## [HTML5大前端学习过程第一周（Day03）](https://blog.csdn.net/SB_Hunter/article/details/104300206)
+ > HTML5大前端学习过程第一周（Day03）
+ ## [MySQL explain命令详解](https://blog.csdn.net/IT_GJW/article/details/104281566)
+ > MySQL explain命令详解
+ ## [黑客常用dos命令整理](https://blog.csdn.net/weixin_42566183/article/details/104300492)
+ > 黑客常用dos命令整理
+ ## [了解Cisco CGMP协议和RGMP协议-IELAB](https://blog.csdn.net/spccie/article/details/104297262)
+ > 了解Cisco CGMP协议和RGMP协议-IELAB
+ ## [系统学习 ----正则表达式](https://blog.csdn.net/weixin_46097280/article/details/104295639)
+ > 系统学习 ----正则表达式
+ ## [jdb财神捕鱼如何打财神？鼠年独创爆财神技巧放水规律非你莫属！](https://blog.csdn.net/qq_38477011/article/details/104298702)
+ > jdb财神捕鱼如何打财神？鼠年独创爆财神技巧放水规律非你莫属！
+ ## [Python协程](https://blog.csdn.net/Weiai_520/article/details/104300959)
+ > Python协程
+ ## [详解微信小程序页面间传递信息的三种方式](https://blog.csdn.net/baidu_41860619/article/details/104301212)
+ > 详解微信小程序页面间传递信息的三种方式
+ ## [安装win10电脑总结](https://blog.csdn.net/happymood911/article/details/104297710)
+ > 安装win10电脑总结
+ ## [STM32 printf 和 scanf 函数重定向](https://blog.csdn.net/guaizaiguaizai/article/details/104301568)
+ > STM32 printf 和 scanf 函数重定向
+ ## [语义分割文献(paper),代码(code)学习汇总](https://blog.csdn.net/weixin_33566282/article/details/104293081)
+ > 语义分割文献(paper),代码(code)学习汇总
+ ## [沙迦美国大学科研副校长赵伟：揭秘工业 4.0 核心技术 CPS 的前世今生 | 人物志...](https://blog.csdn.net/csdnnews/article/details/104305600)
+ > 受访者 | 赵伟采访者 | 伍杏玲出品 | CSDN（ID：CSDNnews）2013年，德国在《工业4.0实施建议》中将CPS（Cyber-Physical Systems，信息物理系...
+ ## [Julia 语言可重用性高竟源于缺陷和不完美？](https://blog.csdn.net/csdnnews/article/details/104305939)
+ > 【编者按】关于Julia编程语言，最值得注意的最大优势之一就是程序包的编写方式。你几乎总是可以在自己的软件中重用他人的类型或方法，而不会出现问题。通常来说，从高层角度来说，对于所有编程语...
  ## [有了 Service Mesh，还需要 API 网关吗？](https://blog.csdn.net/csdnnews/article/details/104292241)
  > 作者 |helight本文经授权转载自大数据与微服务应用（ID：helight_tech）这篇博文还是围绕 API 网关和服务网格的。虽然现在2020年了，围绕这个话题依然有大量的困惑。我之所以选择写这个话题是，为了帮助大家带来真正具体的解释，有助于澄清分歧，重合的地方以及何时使用哪一种方...
  ## [大地震！某大厂“硬核”抢人，放话：只要AI人才，高中毕业都行！](https://blog.csdn.net/csdnnews/article/details/104305935)
  > 特斯拉创始人马斯克，在2019年曾许下很多承诺，其中一个就是：2019年底实现完全的自动驾驶。虽然这个承诺又成了flag，但是不妨碍他今年继续为这个承诺努力。这不，就在上周一，马斯克之间...
+ ## [统一操作系统 UOS 官网正式上线；旷视回应“戴口罩人脸识别”；IntelliJ IDEA 2019.3.3 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104305936)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
+ ## [数据分析如何揭示冠状病毒的真相？](https://blog.csdn.net/csdnnews/article/details/104305937)
+ > 来源 |hackernoon编译 | 火火酱，责编 |Carol出品 | CSDN云计算（ID：CSDNcloud）最近几天，似乎所有人都陷入了对新型冠状病毒(2019-nCoV)深...
+ ## [字节跳动 5 万人远程办公的背后，飞书的演进之路](https://blog.csdn.net/csdnnews/article/details/104305601)
+ > 封图、作者 | 唐小引出品 | CSDN（ID：CSDNnews）2005 年，22 岁的张一鸣刚刚毕业，便拉起团队，开发了一款面向企业的 IAM 协同办公系统。尽管这次初创业已然失利，...
 # 人工智能 
- ## [STM32 ADC](https://blog.csdn.net/naruhina/article/details/104262918)
- > STM32 ADC
- ## [Arduino IDE里添加自定义板子](https://blog.csdn.net/qq_28738985/article/details/104279346)
- > Arduino IDE里添加自定义板子
- ## [win10系统安装教程（U盘PE+UEFI安装）](https://blog.csdn.net/weixin_41964258/article/details/102322630)
- > win10系统安装教程（U盘PE+UEFI安装）
- ## [单片机常用芯片系列（二）——DS18B20详解](https://blog.csdn.net/qq_41909909/article/details/104240153)
- > 单片机常用芯片系列（二）——DS18B20详解
- ## [STC15单片机实战项目 - 项目需求](https://blog.csdn.net/weixin_39902512/article/details/104275585)
- > STC15单片机实战项目 - 项目需求
- ## [什么是低功耗蓝牙技术](https://blog.csdn.net/caoshen2014/article/details/104268028)
- > 什么是低功耗蓝牙技术
- ## [STM32初始化函数的另外一种写法](https://blog.csdn.net/aa120515692/article/details/104265697)
- > STM32初始化函数的另外一种写法
- ## [吞吐量与带宽（7）](https://blog.csdn.net/qq_44762986/article/details/104258873)
- > 吞吐量与带宽（7）
- ## [链接器lds文件简介](https://blog.csdn.net/rikeyone/article/details/104267605)
- > 链接器lds文件简介
- ## [树莓派上云-天工物接入](https://blog.csdn.net/qq_41830158/article/details/104268048)
- > 树莓派上云-天工物接入
- ## [自建基于STM32与ESP8266的物联网服务器](https://blog.csdn.net/naruhina/article/details/104237504)
- > 自建基于STM32与ESP8266的物联网服务器
- ## [使用Blinker+NodeMCU接入语音助手控制多路接口](https://blog.csdn.net/qq_44343584/article/details/104280667)
- > 使用Blinker+NodeMCU接入语音助手控制多路接口
- ## [marlin2.0应用到STM32实践](https://blog.csdn.net/xiaoyuanwuhui/article/details/104265514)
- > marlin2.0应用到STM32实践
- ## [Cadence每日一学_11 | OrCAD原理图DRC检查、BOM表导出、PDF导出、网表导出](https://blog.csdn.net/Mculover666/article/details/104280873)
- > Cadence每日一学_11 | OrCAD原理图DRC检查、BOM表导出、PDF导出、网表导出
- ## [Linux嵌入式工程师养成手册-----前言](https://blog.csdn.net/a568713197/article/details/104282797)
- > Linux嵌入式工程师养成手册-----前言
+ ## [解决Android studio升级到3.5的一些问题](https://blog.csdn.net/qq_33208896/article/details/100100255)
+ > 解决Android studio升级到3.5的一些问题
+ ## [Android 开发中问题收集（六）：将自己应用添加到微信和QQ其他应用列表](https://blog.csdn.net/baidu_31956557/article/details/100125376)
+ > Android 开发中问题收集（六）：将自己应用添加到微信和QQ其他应用列表
+ ## [无需越狱iphone 微信双开分身免费获取方法](https://blog.csdn.net/wik_123/article/details/100914872)
+ > 无需越狱iphone 微信双开分身免费获取方法
+ ## [手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费](https://blog.csdn.net/ccyhq/article/details/100545145)
+ > 手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费
+ ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
+ > Android studio 3.5安装详解
+ ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
+ > 小米airdots双耳串联问题解决
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+ ## [解决WH1000XM3连接电脑无法使用麦克风问题](https://blog.csdn.net/weixin_37993251/article/details/100627133)
+ > 解决WH1000XM3连接电脑无法使用麦克风问题
+ ## [导出苹果安装包IPA的几种方法](https://blog.csdn.net/aluoshiyi/article/details/100172523)
+ > 导出苹果安装包IPA的几种方法
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [钉钉小程序 H5应用开发 实用工具及常用技巧集合](https://blog.csdn.net/qq_31061615/article/details/100139216)
+ > 钉钉小程序 H5应用开发 实用工具及常用技巧集合
+ ## [Android studio 创建aidl文件无法生成Java文件或Java文件为空(没有内容)](https://blog.csdn.net/printf123scanf/article/details/100523774)
+ > Android studio 创建aidl文件无法生成Java文件或Java文件为空(没有内容)
+ ## [Android小项目——社交类app（低仿微信）](https://blog.csdn.net/yy2017220302028/article/details/100568254)
+ > Android小项目——社交类app（低仿微信）
+ ## [APP调用第三方(微信)登录（最详细的实现流程）](https://blog.csdn.net/qq_34817440/article/details/100654042)
+ > APP调用第三方(微信)登录（最详细的实现流程）
+ ## [电脑录屏没有声音该怎么办](https://blog.csdn.net/doublerich/article/details/100739262)
+ > 电脑录屏没有声音该怎么办
 # PM 
+ ## [“3+4”文案法宝：写好文案开头，让用户一直读下去](http://www.woshipm.com/copy/3391450.html)
+ > 一份文案，如果开头没有吸引住用户，让他读下去。那后面的内容就算写得再好，也全废了，达不到吸引用户甚至是达成转化目的。你是不是有过下面的困惑：文案第一段或者...
+ ## [用户需求：依附于用户，存在于场景](http://www.woshipm.com/pmd/3389780.html)
+ > 找用户需求不能为了让产品显得高端而强行捆绑一些前沿技术，忽略了用户的使用场景。产品经理要通过需求分析，找到用户本质的需求。熟悉业务是我们工作的基本条件，而...
+ ## [交互设计师如何接手“春节集卡瓜分亿元”项目？](http://www.woshipm.com/pd/3390959.html)
+ > 今年春节，各大平台都推出了集卡抽奖活动，并且通过这场活动达到了非常可观的拉新促活效果，那么我们可以从中学习到哪些玩法与设计亮点呢？作为一名运营类产品的交互...
+ ## [谈谈SaaS产品、后端产品和B端产品的产品关注点](http://www.woshipm.com/pmd/3391275.html)
+ > B端产品、后端产品和SaaS产品的概念和产品关注点有何异同？本文对此进行了分析总结，与大家分享。粗略地说，互联网队伍里，除了C端产品，余下的主要就是泛B端产品。但...
+ ## [特殊时期，零售业如何做好私域流量运营？](http://www.woshipm.com/operate/3393025.html)
+ > 在当前的特殊时期，企业需要更加重视用户运营，重视打造价值用户。做好重点客户的筛选，做好服务，努力保证客户需求。一场突如其来的疫情，把社群（微信群）卖货、到...
+ ## [疫情期间，如何用AARRR规划社区电商功能？](http://www.woshipm.com/pd/3386183.html)
+ > 疫情之下， 人们为了避免外出造成交叉感染，纷纷选择宅在家里进行远程办公。在这趋势下，更多人开始选择生鲜电商产品采购食品。那么面对大量的用户人数与需求，社区电商...
  ## [如何启动和拓展平台型业务（3）：12种驱动供给侧增长的杠杆](http://www.woshipm.com/operate/3392858.html)
  > 本系列由Airbnb增长负责人分享来自当今17个最大的平台业务公司洞见，包括Airbnb、DoorDash、Thumbtack、Etsy、Uber等：如何启动并扩展平台。在这些文章中，作者将分享对...
  ## [疫情之下，直播再一次成为风口](http://www.woshipm.com/it/3389135.html)
@@ -173,13 +215,5 @@ SaaS&#20844;&#21496;&#8220;Negotiatus&#8221;&#23436;&#25104;1000&#19975;&#32654;
  > 非功能性需求，指的是隐藏在功能需求背后以及开发需要考虑的的需求，也叫作“跨功能需求”。工作这么几年来，见得最多的场景是 QA 小伙伴满办公室追着开发报 bug，有时...
  ## [药店口罩预约小程序的MVP设计](http://www.woshipm.com/pd/3391339.html)
  > 疫情当前，购买口罩成为社会公众日常生活的新需求，本文以微信小程序为载体，设计药店口罩预约最小可行性产品。一、产品定位用于药店为广大消费者提供便捷的口罩、消...
- ## [业务订单的设计流程详解（2）](http://www.woshipm.com/pd/3392865.html)
- > 本文主要说明订单功能在产品设计中常见的信息架构与设计思路，希望帮助未接触过订单模块的产品经理对于设计流程有大致的了解。一、订单信息设计在完成了流程和状态的...
- ## [即将开课｜这里有一套微信小程序产品设计法则，2020年产品人必备！](http://www.woshipm.com/online/3392967.html)
- > 如果你是关注行业趋势的产品经理，那你一定不难察觉：首先，互联网开始趋于存量竞争，而微信把大半的开发力量都投在了小程序上，张小龙对小程序的期待大于服务号、订阅...
- ## [只选1个，你认为产品经理的核心能力是什么？](http://www.chanpin100.com/article/110723)
- > 无论从应聘者角度看面试者，还是作为面试者，如果只能选一条，我认为产品经理最核心的能力应该是：“看清楚问题本质”的能力
- ## [如何学习线性思维？](http://www.chanpin100.com/article/110721)
- > 从学习线性思维开始，逐步建立自己的思维模型库。
 
     
