@@ -1,21 +1,21 @@
 ---
 title: 2020-02-15 IT News
 copyright: true
-date: 2020-02-15 09:01:20
+date: 2020-02-15 10:00:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [想要证明自己最近14天没有到过疫情严重的地方?发个短信就能知道!你试过没有?](http://mp.weixin.qq.com/s?src=11&timestamp=1581726605&ver=2159&signature=QPg8Z-1DlQYmnzH3HXVoX00CEdRxaDiekfbh0QP-APu9cerl5g9b3R0sY6TtLyjWabInWIaFugsHSbQuncMRTDQN2zMo7WM06f07W*MZ3TPjP*JNP7-kzglLYIKXQ5at&new=1)
- > 2月14日，在工业和信息化部召开的媒体通气会上，工信部信息通信管理局局长韩夏称，目前，三家基础电信企业根据疫情防控的需要，在得到用户授权的情况下，基于电信大数据分析，向用户提供本人“14天内到访地查询...
- ## [小米在技术研发上永远跟不上华为，因研发投入占比实在太低了](http://mp.weixin.qq.com/s?src=11&timestamp=1581726605&ver=2159&signature=8oJofOjIxdqF-kpcWX6tuZrugAjVty4lPrM7MBakOgiHdZu1SDJuSSLqeXd5DyNdYubBpVD3e38oN5n9uOE6lDU-5EJWmXGWW2TP3xPgr0NUAFQVuykLOFePOvU-xWQ7&new=1)
+ ## [小米在技术研发上永远跟不上华为，因研发投入占比实在太低了](http://mp.weixin.qq.com/s?src=11&timestamp=1581730205&ver=2159&signature=8oJofOjIxdqF-kpcWX6tuZrugAjVty4lPrM7MBakOgh*cMHiWjBzanbDcyiGa3C3JCbW7HNbMJCX2mCW7GN3NeMHm5magTyF5Y7BFWE7qO7KmpSZuAVf9-OSW*W34fbW&new=1)
  > 小米预估2019年的营收突破2000亿元，然而技术研发投入仅有70亿元，研发投入占营收的比例只有3.5%，相比之下华为的研发投入占比超过10%，两者在研发投入方面的差距如此大，也就难怪小米在技术研发能力远远不如华...
- ## [疫情下的华为：原本想做一只鹰 现在却是“老母鸡”](http://mp.weixin.qq.com/s?src=11&timestamp=1581726605&ver=2159&signature=Q5BT-B6jC0BWULQXzhz2zS2fF0ISSC3fOJUAYkVLTh5U5y6dBKJZqRZSfPED*D2KnvoT8AjrChh6nwQOj17xitm5B5*BdzUR-TBrzO5eEmcu0I2wqNLkgiTz4qs1z8Aw&new=1)
- > 2019年的华为并不好过。2018年12月，准备登机的华为首席财务官孟晚舟被加方拘捕，美方则会在孟晚舟被捕后60天，提出正式引渡申请。然而，这对于美国而言，只是第一手，但正是因为这件事，不仅让华为成为全球的重...
- ## [并购|中际旭创拟收购储翰科技股份 初步估值5.7亿](http://mp.weixin.qq.com/s?src=11&timestamp=1581726605&ver=2159&signature=cTlbEJq*IEF623eLJLurwJjQCnQwrxZqX8rNyh-KVLEXcKh3JKDQ483ONI5JkrpO1OFfMOBycSYdp-XqCLTpfBLzlRlyD2Z1IuTZIlo-ZPzWyR3BBpd4V3J6cKYS0sea&new=1)
+ ## [并购|中际旭创拟收购储翰科技股份 初步估值5.7亿](http://mp.weixin.qq.com/s?src=11&timestamp=1581730205&ver=2159&signature=cTlbEJq*IEF623eLJLurwJjQCnQwrxZqX8rNyh-KVLGXJ1yYfHENROIsA7m9xaM30PeRBeCRTUZlUDs2vT9TgppAeWKJkAS-cpGJWDaXX2itrzwR96SyUuF*Uf2ErYec&new=1)
  > 新闻导读光模块巨头中际旭创拟收购成都储翰科技的全部或部分(最终不少于 51%)股份，收购定价初步估值人民币57,150万元。这将提升中际旭创在全球数据中心与电信光模块市场的竞争能力，对长远发展产生积极影响，符...
- ## [聚焦·要闻|开拓新市场——新大陆软件公司成功中标中国移动集团陕西分公司IDC支撑管理平台软件项目](http://mp.weixin.qq.com/s?src=11&timestamp=1581726605&ver=2159&signature=eGhyOAWWY9FFv5*tyeP45TjH1zQJePPgHXyqJUASxwp3SqW7YUw1RV0kXIa8qloTSgzjJvSYPjic4GZN0aYCsx9p0uKm49gCx7kP9ZqkLunMAPANjm58ZVBnI3Rj2rBe&new=1)
+ ## [想要证明自己最近14天没有到过疫情严重的地方?发个短信就能知道!你试过没有?](http://mp.weixin.qq.com/s?src=11&timestamp=1581730205&ver=2159&signature=QPg8Z-1DlQYmnzH3HXVoX00CEdRxaDiekfbh0QP-APvuGWhlNsMznUc83yceNawVtSr0lbX6KCWQKB9AFKK3hyIbPADP8NeJm6Z0wsir3uzVM9Ro7uI*i7vLdKHLn5DS&new=1)
+ > 2月14日，在工业和信息化部召开的媒体通气会上，工信部信息通信管理局局长韩夏称，目前，三家基础电信企业根据疫情防控的需要，在得到用户授权的情况下，基于电信大数据分析，向用户提供本人“14天内到访地查询...
+ ## [聚焦·要闻|开拓新市场——新大陆软件公司成功中标中国移动集团陕西分公司IDC支撑管理平台软件项目](http://mp.weixin.qq.com/s?src=11&timestamp=1581730205&ver=2159&signature=eGhyOAWWY9FFv5*tyeP45TjH1zQJePPgHXyqJUASxwosdA9s8LoFsb4ij*wauGaNZ2qzPRdQvU79kLzG4-z-toBcA5yP3Q3KiHllX5Jg9HwOh1XsE-yWr0YgVu6ufbjM&new=1)
  > 点击图片查看详情开拓新市场——新大陆软件公司成功中标中国移动集团陕西分公司IDC支撑管理平台软件项目新大陆国通星驿获中国银联多项表彰新大陆北京亚大公司获中国银行软件中心“最具服务精神奖”抗疫进行时抗...
+ ## [疫情下的华为：原本想做一只鹰 现在却是“老母鸡”](http://mp.weixin.qq.com/s?src=11&timestamp=1581730205&ver=2159&signature=Q5BT-B6jC0BWULQXzhz2zS2fF0ISSC3fOJUAYkVLTh7kA2P4XT5YMykEWUMuZJBD2VKfu88idFBKKhXVQAaV5md*835XC4kwwZvgkYE2nimdj2JFk-wlaFBV4HZ2mwJ-&new=1)
+ > 2019年的华为并不好过。2018年12月，准备登机的华为首席财务官孟晚舟被加方拘捕，美方则会在孟晚舟被捕后60天，提出正式引渡申请。然而，这对于美国而言，只是第一手，但正是因为这件事，不仅让华为成为全球的重...
 # IT 技术 
  ## [再问你一遍，你真的了解分布式事务吗？](http://database.51cto.com/art/202002/610618.htm)
  > 再问你一遍，你真的了解分布式事务吗？
@@ -33,36 +33,36 @@ categories: IT NEWS
  > TCP三次握手、四次挥手出现意外情况时，如何保证稳定可靠？
  ## [Windows 和 Linux 互操作性：看一看 Samba](http://os.51cto.com/art/202002/610458.htm)
  > Windows 和 Linux 互操作性：看一看 Samba
+ ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
+ > B 站上有哪些很好的学习资源?
+ ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
+ > 
  ## [面试官问我：什么是消息队列？什么场景需要他？用了会出现什么问题？](https://blog.csdn.net/qq_35190492/article/details/103153444)
  > 
- ## [javascript中各种语句和控制结构编写javascript程序](https://blog.csdn.net/webxuexi168/article/details/104318674)
- > javascript中各种语句和控制结构编写javascript程序
- ## [python面试必看（1）](https://blog.csdn.net/qq_45785397/article/details/104317296)
- > python面试必看（1）
- ## [Dev C++ 实现Hello World](https://blog.csdn.net/weixin_45743799/article/details/104316589)
- > Dev C++ 实现Hello World
- ## [2020 Java面试题最新(九数据存储篇)](https://blog.csdn.net/weixin_43291173/article/details/104315639)
- > 2020 Java面试题最新(九数据存储篇)
- ## [深度学习中矩阵求导公式整理](https://blog.csdn.net/Kobaayyy/article/details/104317646)
- > 深度学习中矩阵求导公式整理
- ## [2020程序员面试必备！58道精选面试题，这样学习，大厂没问题！](https://blog.csdn.net/Aerfa789/article/details/104319956)
- > 2020程序员面试必备！58道精选面试题，这样学习，大厂没问题！
- ## [使用VMware来安装ipa程序](https://blog.csdn.net/winniezhang/article/details/104316799)
- > 使用VMware来安装ipa程序
- ## [情人节闲着无聊写个python程序](https://blog.csdn.net/youyudexiaowangzi/article/details/104318934)
- > 情人节闲着无聊写个python程序
- ## [清晰直观地理解LSTM的结构](https://blog.csdn.net/Nin7a/article/details/104318737)
- > 清晰直观地理解LSTM的结构
- ## [常用cmd命令学习](https://blog.csdn.net/weixin_42043407/article/details/104308859)
- > 常用cmd命令学习
- ## [Dive into deep learning Task 01 打卡](https://blog.csdn.net/qq_42281101/article/details/104315166)
- > Dive into deep learning Task 01 打卡
- ## [内核与驱动_05_注册表](https://blog.csdn.net/qq_35156596/article/details/104315320)
- > 内核与驱动_05_注册表
- ## [Total Hamming Distance](https://blog.csdn.net/Czyaun/article/details/103944196)
- > Total Hamming Distance
- ## [switch case 求图形面积--C语言](https://blog.csdn.net/weixin_45661800/article/details/104320390)
- > switch case 求图形面积--C语言
+ ## [3万字总结，Mysql优化之精髓](https://blog.csdn.net/xinzhifu1/article/details/104228470)
+ > 3万字总结，Mysql优化之精髓
+ ## [作为一个程序员，内存和磁盘的这些事情，你不得不知道啊！！！](https://blog.csdn.net/sinat_33921105/article/details/104142623)
+ > 作为一个程序员，内存和磁盘的这些事情，你不得不知道啊！！！
+ ## [在家远程办公效率低？那你一定要收好这个「在家办公」神器！](https://blog.csdn.net/csdnnews/article/details/104137953)
+ > 在家远程办公效率低？那你一定要收好这个「在家办公」神器！
+ ## [破14亿，Python分析我国存在哪些人口危机！](https://blog.csdn.net/u014044812/article/details/104076639)
+ > 破14亿，Python分析我国存在哪些人口危机！
+ ## [如何优雅地打印一个Java对象？](https://blog.csdn.net/qing_gee/article/details/104206866)
+ > 
+ ## [Python爬虫爬取淘宝，京东商品信息](https://blog.csdn.net/qq_43764365/article/details/103539728)
+ > Python爬虫爬取淘宝，京东商品信息
+ ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
+ > 
+ ## [Java工作4年来应聘要16K最后没要,细节如下。。。](https://blog.csdn.net/HarderXin/article/details/103971493)
+ > Java工作4年来应聘要16K最后没要,细节如下。。。
+ ## [雷火神山直播超两亿，Web播放器事件监听是怎么实现的？](https://blog.csdn.net/jdcdev_/article/details/104208023)
+ > 雷火神山直播超两亿，Web播放器事件监听是怎么实现的？
+ ## [TCP的三次握手](https://blog.csdn.net/weixin_40605573/article/details/104315553)
+ > TCP的三次握手
+ ## [从Python手中夺回第三名 c++语言卷土重来热度回升](https://blog.csdn.net/cool99781/article/details/104317562)
+ > 从Python手中夺回第三名 c++语言卷土重来热度回升
+ ## [C语言入门总结——Linux C编程一站式学习](https://blog.csdn.net/qq_41403559/article/details/104313744)
+ > C语言入门总结——Linux C编程一站式学习
  ## ["不会Linux，干啥都费劲！”资深程序员：别再瞎努力了！](https://blog.csdn.net/csdnnews/article/details/104322822)
  > 学习过Linux都知道，它不像Windows是靠鼠标点击操作，而是靠指令和参数进行操控。如果你没系统的学习过它，那么工作时难免要遇到下面这些问题：1）面试开发，因为不会Linux的一个简...
  ## [移动端AI应用太抢手，高通这次要送开发者20万+的SUV](https://blog.csdn.net/csdnnews/article/details/104322812)
@@ -99,6 +99,10 @@ categories: IT NEWS
  ## [Python新型冠状病毒疫情数据自动爬取+统计+发送报告+数据屏幕（四）数据屏幕](https://blog.csdn.net/qq_42768234/article/details/104273611)
  > Python新型冠状病毒疫情数据自动爬取+统计+发送报告+数据屏幕（四）数据屏幕
 # PM 
+ ## [交互设计：信息设计中的层级与层级感](http://www.woshipm.com/pd/3395851.html)
+ > 在做信息设计时，我们会发现——信息是无限的、但是容器是有限的，那么我们在设计的时候，如何处理这一矛盾呢？如何让这二者达成最大程度的和谐并存呢？交互设计中讨论...
+ ## [万物皆IP，让爆款有章可循](http://www.woshipm.com/marketing/3397201.html)
+ > 在当今信息碎片化甚至粉末化的时代，十个营销人，九个说营销越来越难做了。产品的同质化、营销要求的个性化、市场的价格竞争、线上流量的高成本、大众对传播的不信任、...
  ## [疫情突发下的年轻产品求职自救策略](http://www.chanpin100.com/article/110730)
  > 2020年的求职会更加的困难，给你一份求职宝典。
  ## [疫情之下，百度APP为何迅猛增长](http://www.chanpin100.com/article/110729)
