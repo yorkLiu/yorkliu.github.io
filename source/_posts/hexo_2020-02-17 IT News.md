@@ -1,7 +1,7 @@
 ---
 title: 2020-02-17 IT News
 copyright: true
-date: 2020-02-17 12:03:19
+date: 2020-02-17 17:02:10
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -72,93 +72,113 @@ YouTube TV&#23459;&#24067;3&#26376;&#36215;&#19981;&#25509;&#21463;&#33529;&#265
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [集邦咨询：疫情对全球高科技业影响深度评析](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=j*P1zMatx2HZrwJouSx7a682FS4h3xF43rJqdUW0xNa*dpIWsPinfqd8Z27njBTW0QgahADDrkZPwaVvaM6SnlDUXxUzzrvVj6-4z-skmQZ4AElU1YZ-Jywcv7d5mb9Z&new=1)
+ ## [一文看懂976nm泵浦技术的前生今世](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=q2rZXOGGnnXKDytsXJmFH4vc-4QTfTbyJJBJwSuSEg1Puk1astMS4Xl73Q*MbRxS*WDtvj-cgpNp2dg071*dC9vIWnLbYHm9Te8Z8yaOIdvH4qDPyXuluFMR6ipzYE8S&new=1)
+ > 976nm泵浦光纤激光器因其高性能使一直是定向能激光应用首选，以美国为代表的各国近三十年几十亿美元的投入也极大推动了光纤激光技术的高速发展和工业应用的普及，但是国内光纤激光器产业由于历史原因一直没有解...
+ ## [全民抗“疫”背后 智能电力巡检提供有力支撑](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=CR3gmMTav-BzFvKS0*SnsC6BKkdQCwFW*d0mDrpB9qsmy7oJmFHjmi8YANzKUKh5b9-qobOC2moqtxjyaccTtywRErm56v-M1TDhTVDq1YN821PzrVoJxvqnynsx9CAB&new=1)
+ > 疫情期间，宅在家里，做好防护措施，阻断病毒更大规模的传播，或许是普通人力所能及且非常有用的措施，据国家广播电视总局数据显示：1月25日至2月9日，每户每日平均看电视时长为7小时。不过，普通人宅在家中看剧...
+ ## [全国3D打印企业复工调研表(含调研结果)](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=MD-psgsUAV9ahgEsFQfRGerdtM2X0rqqcQ4eI2DvW-JnvE9VlEJwuu5Yd7QIL5J0PzhPTE2brphnJXoLLHLc5BgfDheoEQ5XxUpQhQclptqkQorF8*jCKFM*vT1x34fU&new=1)
+ > 作为3D打印企业，您今天复工了吗？请选择，并查看结果。友情提示：复工是指办公室正常办公，在线远程不算哈。
+ ## [央企担当!上海联通用“新”牢筑“上海堡垒”多样化个性化智慧应用助力复产复工](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=iQOVV8MR4vKdTntrDPO1RCdKt7bsYmldBTQUrWM1RRwpT8iMw1xnUdxDi8brLojp03kPPSy7aZeFM3ZMe2gsCkAj4eSlNNm8ZsPmR-A-oBwBCbrPSpBeQMygdXT0By*W&new=1)
+ > 日早上9点，南京西路商圈中信泰富广场写字楼大堂入口，只见一台神秘的测温机器，在自动识别每个路过者的体温。“一旦体温异常，设备会马上告警。”中信泰富广场物业表示，上海联通的这套红外热成像体温检测系统...
+ ## [三天开通!火神山医院5G基站建设为何那么快?](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=1rGCxnZBG4MoRRUBxKaFUXhH2RW8fmgJzehh-woehWOykxy5wSmsiRoNIi2b5DTNw82RidA6F624eUqL4vqQ9gh4ORRPkXtvcvdkwdfQ3MBQz9w8kKJxFv2FmnwwN9wl&new=1)
+ > 疫情之下，最美不过逆向而行的白衣天使们，但与过去任何一次灾情发生时一样，这一次我们通信业也没有缺席。2月2日，为更好的收治患者，武汉火神山医院在10天内落成。与此同时，火神山医院4G/5G网络也开通了，借...
+ ## [G Suite vs.Office 365：最适合企业的办公套件是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=nUIFaXSd-gJavujpy6-xCtau3BotWxXvHFGxqL-874k2Gls45wcuc-gs7QRksUtAhZrdBGvcfALY66SMbiQxrfQjCG7ivlZ26CgoZRb25TsCOwbgS*J4DVo8ydRdm4V6&new=1)
+ > 关键讯息，D1时间送达！选择办公套件在以往是一件很简单的事情，但是谷歌公司推出的功能强大且功能丰富的办公套件G Suite如今成为微软公司Office的强劲对手。以下将详细分析这两个套件的优缺点，以帮助用户确定...
+ ## [光辉城市的Mars2020：XR在建筑设计领域的最佳实践](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=4qT2B6Sd*eWBvnHrrG0I3M97gUvLZnViVnz5BTz9jfVKeuwM5adWRdsebqzszwLX5w*deGkuXVKzraRmSJHRvyDlh30z00Z3-2HDqG5XwAtqhEO7QjiA1czxbuBflu-X&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜丹哥说VR（原创）本周受到疫情影响，我继续在家办公，回顾从2019年到今年年初的一些优秀XR行业应用。继上一篇《从操作系统到...
+ ## [小米回应 50 亿疫情贷款申请；爱奇艺 App 崩溃；OpenSSH 8.2 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=6yiQHwQMEtT3CcRNAO-Bfg7EOZRAt-AhNdKDYqG1X-3uTITicifv0udW64zo3eG9dTDvoozc9GgtfhFAJ8B2ECK-FeG5t3kLXrMNhLCmf4ACYp5AjtVzlOPYjNW6Bkyl&new=1)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [美国首次披露朝鲜国家黑客的七种武器](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=*SqeetnTwG4rROzkGVwfelPYex4dVvVeR6aIq8aXCwZFYilYCZ8Hiv3REGVZTP2QgGGHxL3SW0DARqZ*DY3qckw50Ii7H26B-*UPX1jLtMwc6jeAtfi4I5yizpy4tx2B&new=1)
+ > 上周五美国五角大楼、联邦调查局和国土安全部披露了朝鲜的黑客行动，并首次向公共恶意软件库提供了该活动中使用的七种恶意软件的技术细节。五角大楼美国网络司令部的一个分支——美国网络国家任务部队（Cyber Na...
+ ## [社交软件拿华为说事拒为美国政府开“后门”，但反道出尴尬的真相](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=Guc2tNPv1S79px2lah21Pcu7srxKZ-y7W5sE0yX7b0H5NokvW45nwK01aK9zUyKFMjLW3Q5SxYdy*Rt51Iv15beIx4cx77ai1esAm5VZjJU=&new=1)
+ > 据澳大利亚《商业内幕》网站2月13日报道，美国社交软件WhatsApp及其母公司Facebook一直在与美国政府的要求做斗争，还拿华为的例子来说事。美国政府要求WhatsApp提供执法部门渗透加密消息的方法。《华尔街日报》...
+ ## [集邦咨询：疫情对全球高科技业影响深度评析](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=j*P1zMatx2HZrwJouSx7a682FS4h3xF43rJqdUW0xNamPAJskaxfTjRQR8Ul0dCgshzZ0gd-1c-qn2CeArK1DOgnMWVsc4cxCDMrYFWPrydMhxJFnWXLT2ltnmx9vuIt&new=1)
  > 针对疫情对科技产业的影响，全球市场研究机构集邦咨询及旗下拓墣产业研究院整理截至2020年2月14日各关键零部件及下游产业的状况，分析如下：半导体在晶圆代工方面，厂房自动化的程度较封测领域高，冲击相较封测...
- ## [2020 RSA Conference 关于网安未来十大趋势预测](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=SThRlPmnL3k1CB2ch5VTyLJxh*WdkwzLSwRp4t*YAoO6MtvKiSpdkp7k7VTSpimZ7tpDY-VIQDReELRSY8g4Jj8EwdbKSAZp97hXzpvwNY6KzdGNyiWju-*Hqq0nhY4W&new=1)
+ ## [2020 RSA Conference 关于网安未来十大趋势预测](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=SThRlPmnL3k1CB2ch5VTyLJxh*WdkwzLSwRp4t*YAoO6-kPq9SW-n7f2TuLmfHObz7GNfizreCikp8dUJVOwsw1iXRVlFmYdecs3RS8I0xjS3G7gdKvMnxA3mcp1WfaF&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全2月17日讯，据外媒报道，每年世界各地的网络安全行业领军人物都会申请在RSA大会上发言。今年，根据RSA组委会表示收到了2400份申请，他们通过对整体参...
- ## [如何在线上办公中突围?博昇光电光纤HDMI带你寻找答案](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=9wpemftQZV5ZJtLGyVTiLJC82cQlVh6Tlr3n6YZdZtUem5Rh7PQd0gaG5YtMKxjV1oTFj6JePCcE-lAM38gpFlPz1vjsH2L8sUw2GWCozLG1y0ncgzFAE7HsrFanbbb1&new=1)
+ ## [如何在线上办公中突围?博昇光电光纤HDMI带你寻找答案](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=9wpemftQZV5ZJtLGyVTiLJC82cQlVh6Tlr3n6YZdZtUWmtBg4mymtlES8Ffx-mr2-7onL5yeqBOT36Y95NTq7jsKRH7OCGR1vhet-RPhySdTaxjYmaLhuKfw1DWrsGPC&new=1)
  > 新闻导读线上办公、线上教育的热潮持续，手机投屏线需求增加，博昇光电推出的USB-C TO HDMI2.0 AOC光纤连接线是市面上 成熟、富有竞争力的高清互连方案。可以简单方便的让手机上的信息映射到电视，投影。     ...
- ## [为将军山医院 搭建信息“生命线”](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=RhfntlezwOFqsc5AHlNhYgV8iDBAKG3e6M*hKLxc0MbjNX9-13ux2H58TtOwFETlOJsN-FdDZGjBGfBEFXFRHY5-DKv5YSDOaw3ptqw-mFM=&new=1)
+ ## [为将军山医院 搭建信息“生命线”](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=RhfntlezwOFqsc5AHlNhYgV8iDBAKG3e6M*hKLxc0MZN27dtuyf7ziMMNL3AHYcbEuC6yUHgFL8*oBPR9ncyd9d-v1P-dzBfNuXwtV5KJJ4=&new=1)
  > 根据省委、省政府，贵阳市委、市政府关于新冠肺炎疫情防控工作的总体部署和安排，为主动应对新冠肺炎疫情，省应对新型冠状病毒感染的肺炎疫情防控领导小组决定修建贵阳市公共卫生救治中心将军山院区，作...
- ## [\[科技早报7点整\]杭州健康码将推广至全国 美团、小米回应申请抗疫专项贷款……](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=lD68eDqXla0JtMXUG9t1CJ2gdVFFxbOqNyTMw-drkQtcaouTIHVcj0kVkVh--fuEu-vwLFJxjlqRj3etPRIrMy3*ecRQAgmIZfqfFCPNrCCcpSeIttGH3wmR5gu0Wket&new=1)
+ ## [\[科技早报7点整\]杭州健康码将推广至全国 美团、小米回应申请抗疫专项贷款……](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=lD68eDqXla0JtMXUG9t1CJ2gdVFFxbOqNyTMw-drkQuI9uQ02gI2ukFbDhBL29n4uHZCmQ3EKE0znNy-Q1Gfo*25edxNQwWx3ken-2OozxOySzo0a054xuA97ePGtgAR&new=1)
  > 早上好，科技圈【一度蜜科技早报】第722期1.杭州健康码将推广至全国，累计发放人数超过 651万在国务院办公厅电子政务办的指导下，支付宝正加快研发全国统一的疫情防控健康码系统，并将于下周上线。2 月 11 日，...
- ## [本周大新闻|美军拟再采购4万台IVAS头显，迪士尼公布米老鼠AR游戏](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=2pq2zTSFjlifeETQEvO7zlezHhkd5dIQUTF4zFxgDqzbyTkIJQjTQHIxq85YUYXFNEssexxJanjro3ijOcRNMo3yHYm4PYP6Uf2LRTQatYoWxWqLJD7lEnzZOchWQJpv&new=1)
+ ## [本周大新闻|美军拟再采购4万台IVAS头显，迪士尼公布米老鼠AR游戏](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=2pq2zTSFjlifeETQEvO7zlezHhkd5dIQUTF4zFxgDqyCNK0ivEYmmreUyLkkix3aPNsyqnED0J05ijKOdORMEMqpXgj8ZsCKY1xpSMIXQ13MZ2cOEtcz1QSvI4CiA2Bg&new=1)
  > hi188｜ 编辑本周大新闻，AR方面，2020年美军计划采购4万台IVAS头显；苹果ARKit的WebAR模式加入快捷支付功能；迪士尼为度假村推出米老鼠AR游戏；Magic Leap开发者日5月举办；3D平台Sketchfab用户突破30
- ## [\[C114周报\]GSMA取消MWC2020举办；中国广电、电信与联通共用5G室内频段；海能达被判赔付摩托罗拉$7.65亿](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=clrL0Y-ourcZ6Bq5krQpZWcMaNThjQAGlV7r*7Ya2VlDmqgwaxv3uAPqk-craIoaKlErvwL0kwrA61FImfCx0QxzTsUUMMpZIj-Lf6AWptoVpsv2BUvmr8*t6Kbw5*V9&new=1)
+ ## [\[C114周报\]GSMA取消MWC2020举办；中国广电、电信与联通共用5G室内频段；海能达被判赔付摩托罗拉$7.65亿](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=clrL0Y-ourcZ6Bq5krQpZWcMaNThjQAGlV7r*7Ya2VlorZ8*a3KzYzlQ6T1X*Wps0efSGgok84A51ON7rNzwLp-VMCotUwENrHxm46Ot-PLlXADFobE2kD06bFxZvAUw&new=1)
  > 周报WEEKLY本周热点有GSMA取消MWC2020举办；广电、电信与联通共用5G室内频段；海能达被判赔付摩托罗拉$7.65亿• 第080期 •GSMA取消MWC2020举办2月13日世界移动大会的主办方GSMA正式宣布：GSMA决定取消举
- ## [关于举办“江苏省云计算技能线上邀请赛”的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=5ya-5YH3DBKEMfvAZLJkAfkHNfPfC8bnO73sMLdiaK-nMWzytj7h5k4rq9RGn5SbBDWm49VFbCdVkAR*Gh55T4LIgSIn9LLWDH0jl324jg4lKAVhcTsxrAMkOzsa7KyS&new=1)
+ ## [关于举办“江苏省云计算技能线上邀请赛”的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=5ya-5YH3DBKEMfvAZLJkAfkHNfPfC8bnO73sMLdiaK8TflEuwTbM2j1hG4vq1z*z*G2yzdgwM3XId0OPfYKrQhUoTdtbn9D8TWr8P4TkzzXTCRD*ryxDLdpA8D94zDDt&new=1)
  > 在《平安就业，迎接春暖花开——致全国返岗劳动者的一封信》中，人社部明确表示，目前疫情防控处于关键时期，“暂不工作的，请先充充电。大家可以参加各类线上学习培训课程，储备些知识，学习些技能，很快就能用...
- ## [综合指挥中心建设方案整体设计说明](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=FDl56mGGyHn6Or2RZQZI-S1IvixXvV2a7WjDwJQGnr71y5RzYbDA7hAZzxuylCPW-iBD1CIlSo7Dks3o43*e3C4WsUlbg29eytWdMA*b6CglqnFv0*dP-Xhg67WkmMPS&new=1)
+ ## [综合指挥中心建设方案整体设计说明](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=FDl56mGGyHn6Or2RZQZI-S1IvixXvV2a7WjDwJQGnr5AX423QCLWDjpM0eEudF6WlX8KDi3chcg2583f-GpBEPeviXIn1THsj9grZkkaEfib5MaxeFnuAJ545jf88lEA&new=1)
  > 综合指挥中心是一个集预案、视频、图片、语音、地理位置等信息为一体，以信息网络为基础，各系统有机互动为特点的城市信息化基础设施。通过集成的视频监控系统、GIS信息系统、网络通讯系统和应急联动系统将公安...
- ## [重磅!刚刚，天翼云荣获政务云最高奖!](http://mp.weixin.qq.com/s?src=11&timestamp=1581910205&ver=2163&signature=QepGa*rqOOt*oRbuHvpCslETl6V*bIAYHME-Zo2q4QZphErHWIbNmEvqyz6I4erxDTcxtp2OKhMgwa12eIpk3EQfF1XuKOh*ashioMWSeD-5j-ysCq7j9Ur67-RcHby3&new=1)
+ ## [重磅!刚刚，天翼云荣获政务云最高奖!](http://mp.weixin.qq.com/s?src=11&timestamp=1581928206&ver=2163&signature=QepGa*rqOOt*oRbuHvpCslETl6V*bIAYHME-Zo2q4QZwf6H*7ykfcmDUNDE6kdRNwoyGXzEMnNoCZbSowGDD1eHxphV80gLQ*7j0CqjkMAE2c95FOrr5*3kcfNMkPbDj&new=1)
  > 2020年2月16日，在《互联网周刊》发布2019年政务云解决方案提供商排行榜中，中国电信天翼云位列TOP 1。 随着国家大力推动“互联网+政务系统”，云计算在政务领域的覆盖不断加深，政务云正在成为关乎国计民生的信...
 # IT 技术 
  ## [为Angular打造的优秀甘特图方案](http://developer.51cto.com/art/202002/610659.htm)
  > 为Angular打造的优秀甘特图方案
+ ## [疫情之下，这是你也能上手的Python新冠病毒传播建模教程（附代码）](http://news.51cto.com/art/202002/610701.htm)
+ > 疫情之下，这是你也能上手的Python新冠病毒传播建模教程（附代码）
  ## [为什么Python在数据科学领域比R更受欢迎呢？](http://developer.51cto.com/art/202002/610657.htm)
  > 为什么Python在数据科学领域比R更受欢迎呢？
  ## [17年前阿里全员隔离，马云是怎么熬过非典的？](http://news.51cto.com/art/202002/610647.htm)
  > 17年前阿里全员隔离，马云是怎么熬过非典的？
  ## [确保Kubernetes在大规模环境下安全的3个要点](http://cloud.51cto.com/art/202002/610633.htm)
  > 确保Kubernetes在大规模环境下安全的3个要点
+ ## [9个非常实用的网络调试命令，你会用几个呢？](http://developer.51cto.com/art/202002/610700.htm)
+ > 9个非常实用的网络调试命令，你会用几个呢？
  ## [网络“生死”战：谈医疗行业的网络安全隐患](http://netsecurity.51cto.com/art/202002/610674.htm)
  > 网络“生死”战：谈医疗行业的网络安全隐患
- ## [再问你一遍，你真的了解分布式事务吗？](http://database.51cto.com/art/202002/610618.htm)
- > 再问你一遍，你真的了解分布式事务吗？
- ## [【大咖来了 第12期】AI和大数据系统在电子竞技数据处理平台中的应用](http://ai.51cto.com/art/202002/610605.htm)
- > 【大咖来了 第12期】AI和大数据系统在电子竞技数据处理平台中的应用
- ## [【大咖来了 第11期】IT管理者的自我认知和沟通管理](http://ai.51cto.com/art/202002/610604.htm)
- > 【大咖来了 第11期】IT管理者的自我认知和沟通管理
- ## [ARM架构PC难成主流，只因系统和性能拖了后腿](http://biz.51cto.com/art/202002/610697.htm)
- > 最近的一大热门是ARM架构PC，借由ARM架构芯片的低耗高能，带来续航更长更具竞争力的产品。从微软2016年演示
- ## [如何首次构建云数据仓库](http://bigdata.51cto.com/art/202002/610698.htm)
- > 对很多组织来说，如何首次成功地构建云数据仓库是一个难题，因此需要了解一些知识和技巧。
- ## [对于前端工程师，永不过时的技能是什么？](http://news.51cto.com/art/202002/610696.htm)
- > 放眼前端这几年的发展，经历了移动互联网时代的爆发，出现了以 Angular、React、Vue 为代表的三大前端框架
- ## [美国首次披露朝鲜国家黑客的七种武器](http://zhuanlan.51cto.com/art/202002/610694.htm)
- > 上周五美国五角大楼、联邦调查局和国土安全部披露了朝鲜的黑客行动，并首次向公共恶意软件库提供了该活动中
- ## [面试了一个 46 岁的程序员，我思绪万千](http://news.51cto.com/art/202002/610699.htm)
- > 最近一直忙于面试，人事推给了我一份简历，职位是算法工程师，年龄是 46 岁，我揉了揉眼睛后再看看，确实是
- ## [2020年云计算发展的五个主要趋势](http://cloud.51cto.com/art/202002/610691.htm)
- > 云计算如今已经从行业颠覆者发展成为当今企业IT的基础，而云计算领域的变化速度并未显现出任何滞后发展的迹
- ## [Java删除Excel中的行和列](http://developer.51cto.com/art/202002/610690.htm)
- > Excel是日常工作中常用的办公软件之一。在制作表格的时候，有时需要在工作表中插入一个或多个行和列，同时
- ## [2020年需要关注的10种企业IT转型趋势](http://network.51cto.com/art/202002/610688.htm)
- > 通讯服务提供商Verizon公司日前分享了2020年可能重塑IT行业的潜在技术驱动力的见解。
- ## [阿里达摩院再造AI抗疫技术：20秒判读CT影像，识别准确率达96%](http://news.51cto.com/art/202002/610695.htm)
- > 阿里方面最新消息，达摩院联合阿里云针对新冠肺炎临床诊断研发了一套全新AI诊断技术。
- ## [GitHub开源新命令行工具：在终端里创建、管理PR成现实](http://news.51cto.com/art/202002/610692.htm)
- > GitHub 的官方开源命令行工具来了。名字很正式，叫做 GitHub CLI，别名 gh。
- ## [谁要的数据结构作业?](https://blog.csdn.net/qq_40968179/article/details/104345642)
- > 谁要的数据结构作业?
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
+ ## [图文 | 你女朋友也能看懂的 Kubernetes！](http://cloud.51cto.com/art/202002/610639.htm)
+ > 图文 | 你女朋友也能看懂的 Kubernetes！
+ ## [加速算力的迭代优化 AI芯片需破解落地难题](http://ai.51cto.com/art/202002/610741.htm)
+ > AI芯片怎样支撑多姿多彩的人工智能应用落地?评测标准进展如何?今年的亮点、看点又在哪?科技日报记者采访了
+ ## [如何使用 Rust 来构建微服务？](http://news.51cto.com/art/202002/610740.htm)
+ > Rust 是一门很棒的语言，也是我在 2019 年和 2020 年（截止当前）学的最多的语言。Rust 几乎可以和任何语
+ ## [分布式系统的时间问题](http://developer.51cto.com/art/202002/610742.htm)
+ > 本文主要回顾了计算机系统演进过程中的时间问题，特别是古典分布式系统的时间问题，以及由时间带来的顺序问
+ ## [软件工程师就业新趋势：10年以上经验面试机会反倒少，VR/AR需求暴增14倍](http://news.51cto.com/art/202002/610729.htm)
+ > 近日，招聘公司Hired发布了年度软件工程师报告。Hired在2019年全年，审核了1万家公司向9.8万名求职者，发出
+ ## [这些好用却最不被看好的Python库，你知道多少？](http://developer.51cto.com/art/202002/610733.htm)
+ > 今天，小芯就将努力当一个“好伯乐”，简洁明了地为大家介绍那些不被看好的Python库，发掘出它们的无限潜能
+ ## [这些好用却最不被看好的Python库，你知道多少？](http://developer.51cto.com/art/202002/610733.htm)
+ > 今天，小芯就将努力当一个“好伯乐”，简洁明了地为大家介绍那些不被看好的Python库，发掘出它们的无限潜能
+ ## [互联网巨头集体封杀，AI换脸能走多远？](http://news.51cto.com/art/202002/610730.htm)
+ > 在前几日，Twitter和Facebook等互联网巨头表示，将对AI换脸等虚假视频进行打击。比如将对任何“明显且欺骗
+ ## [笨蛋！连0.2这么简单的数字都搞不定！你被炒了！](http://developer.51cto.com/art/202002/610724.htm)
+ > 计算机的本质决定了它是一个二进制的世界，人类熟悉的十进制数字需要转行成二进制才能被计算机处理。但是这
+ ## [动态地址分配DHCP，IP地址管理方式及分配原则，一分钟了解下](http://network.51cto.com/art/202002/610720.htm)
+ > DHCP(Dynamic Host Configuration Protocol，动态主机配置协议)用来为网络设备动态地分配 IP地址等网络配置
+ ## [机器学习第一步，这是一篇手把手的随机森林入门实战](http://news.51cto.com/art/202002/610736.htm)
+ > 到了 2020 年，我们已经能找到很多好玩的机器学习教程。本文则从最流行的随机森林出发，手把手教你构建一个
+ ## [5 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家](https://blog.csdn.net/eson_15/article/details/104347476)
+ > 5 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家
+ ## [《密码学系列》—— 分组密码](https://blog.csdn.net/qq_38646470/article/details/104353384)
  > 
- ## [破14亿，Python分析我国存在哪些人口危机！](https://blog.csdn.net/u014044812/article/details/104076639)
- > 破14亿，Python分析我国存在哪些人口危机！
- ## [Python爬虫爬取淘宝，京东商品信息](https://blog.csdn.net/qq_43764365/article/details/103539728)
- > Python爬虫爬取淘宝，京东商品信息
- ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
- > 
- ## [Java工作4年来应聘要16K最后没要,细节如下。。。](https://blog.csdn.net/HarderXin/article/details/103971493)
- > Java工作4年来应聘要16K最后没要,细节如下。。。
- ## [Knowledge Graph  |（1）图数据库Neo4j简介与入门](https://blog.csdn.net/u012325865/article/details/104347288)
- > Knowledge Graph  |（1）图数据库Neo4j简介与入门
+ ## [几个步骤让你学会JAVA的适配器模式](https://blog.csdn.net/jiohfgj/article/details/104353888)
+ > 几个步骤让你学会JAVA的适配器模式
  ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
  > 究竟你适不适合买Mac？
- ## [高斯分布基础知识及scipy实现](https://blog.csdn.net/winycg/article/details/104345134)
- > 高斯分布基础知识及scipy实现
- ## [matplotlib.pyplot.plot 详解](https://blog.csdn.net/koala_cola/article/details/104347544)
- > matplotlib.pyplot.plot 详解
- ## [Java基础-blank server的实现思路](https://blog.csdn.net/L333333333/article/details/104346580)
- > Java基础-blank server的实现思路
- ## [MarkDown语法进阶](https://blog.csdn.net/redhatforyou/article/details/104341437)
- > MarkDown语法进阶
- ## [【从原理的视角】傅里叶级数以及三角表达式、虚指数表达式，Matlab仿真程序](https://blog.csdn.net/malcolm_110/article/details/104341338)
- > 【从原理的视角】傅里叶级数以及三角表达式、虚指数表达式，Matlab仿真程序
- ## [利用MATLAB对图像中物体进行计数](https://blog.csdn.net/Schofiled/article/details/104345051)
- > 利用MATLAB对图像中物体进行计数
+ ## [震惊，Python破解BiliBili滑块验证码，完美避开人机识别](https://blog.csdn.net/Mingyueyixi/article/details/104345623)
+ > 震惊，Python破解BiliBili滑块验证码，完美避开人机识别
+ ## [Spring IoC模拟](https://blog.csdn.net/OVO_LQ_Start/article/details/104346474)
+ > Spring IoC模拟
+ ## [Docker基础认识](https://blog.csdn.net/pannubi/article/details/104342030)
+ > Docker基础认识
+ ## [QT简单入门实例1【qt连接sqlserver】](https://blog.csdn.net/Sun_tian/article/details/104343108)
+ > QT简单入门实例1【qt连接sqlserver】
+ ## [前端知识总结（1）：TCP 三次握手 四次挥手](https://blog.csdn.net/qq_42317011/article/details/104345851)
+ > 前端知识总结（1）：TCP 三次握手 四次挥手
+ ## [计算机网络总结（1）](https://blog.csdn.net/Chakra_Z06/article/details/104343668)
+ > 计算机网络总结（1）
+ ## [403. 青蛙过河](https://blog.csdn.net/weixin_37748689/article/details/104344456)
+ > 403. 青蛙过河
+ ## [蒙特卡诺法的matlab实现](https://blog.csdn.net/qq_43786066/article/details/104334355)
+ > 蒙特卡诺法的matlab实现
+ ## [机器学习：Adaboost算法(原理+python实现）](https://blog.csdn.net/weixin_45288820/article/details/104343736)
+ > 机器学习：Adaboost算法(原理+python实现）
+ ## [（Python 3）opencv相机标定](https://blog.csdn.net/sf9898/article/details/104342352)
+ > （Python 3）opencv相机标定
+ ## [Excel 信息录入（登记人员信息录入，打字慢如何快速输入数据，数据列的格式调整）](https://blog.csdn.net/weixin_43329700/article/details/104345257)
+ > Excel 信息录入（登记人员信息录入，打字慢如何快速输入数据，数据列的格式调整）
  ## [区块链如何击败 AI、云计算成为最受欢迎技能？](https://blog.csdn.net/csdnnews/article/details/104352151)
  > 作者 | Avi Mizrahi译者 | 风车云马责编 | 唐小引出品 | 区块链大本营（ID：blockchain_camp）如果你计划今年找一份新的职业，或者想提高你在就业市场上的...
  ## [年过20载，超1000万人在用，还说要被淘汰？](https://blog.csdn.net/csdnnews/article/details/104352152)
@@ -180,57 +200,73 @@ YouTube TV&#23459;&#24067;3&#26376;&#36215;&#19981;&#25509;&#21463;&#33529;&#265
  ## [十年开发教会我的那些事儿](https://blog.csdn.net/csdnnews/article/details/104352185)
  > 如果你永远不失败，那么也永远得不到成长。作者 |JS dev Ray译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：在过去十年的职业生涯中，我个人...
 # 人工智能 
- ## [网易严选交易系统的演进之路](https://blog.csdn.net/Ture010Love/article/details/104340778)
- > 网易严选交易系统的演进之路
- ## [疫情期间推迟上班，却被炒鱿鱼，但我们可以靠这套java面试题逆袭](https://blog.csdn.net/Ppikaqiu/article/details/104331837)
- > 疫情期间推迟上班，却被炒鱿鱼，但我们可以靠这套java面试题逆袭
- ## [Redis(3)-高可用与集群](https://blog.csdn.net/YouOops/article/details/104331658)
- > Redis(3)-高可用与集群
- ## [如何搭建个人网站](https://blog.csdn.net/weixin_44307065/article/details/104338972)
- > 如何搭建个人网站
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [美团外卖持续交付的前世今生](https://blog.csdn.net/MeituanTech/article/details/104330513)
- > 美团外卖持续交付的前世今生
- ## [面试官问我：什么是消息队列？什么场景需要他？用了会出现什么问题？](https://blog.csdn.net/qq_35190492/article/details/103153444)
+ ## [2020美国大学生数学建模(MCM/ICM)A题数据及参考资料](https://blog.csdn.net/qq_39542714/article/details/104331800)
+ > 2020美国大学生数学建模(MCM/ICM)A题数据及参考资料
+ ## [基于Python的face_recognition库实现人脸识别](https://blog.csdn.net/qaswzh/article/details/104333203)
+ > 基于Python的face_recognition库实现人脸识别
+ ## [网络爬虫——实用框架Scrapy 从入门到精通第一天](https://blog.csdn.net/xiaozhezhe0470/article/details/104342648)
+ > 网络爬虫——实用框架Scrapy 从入门到精通第一天
+ ## [「 LaTex 」编写矩阵 与 常用的省略号代码](https://blog.csdn.net/Robot_Starscream/article/details/104336359)
+ > 「 LaTex 」编写矩阵 与 常用的省略号代码
+ ## [2020美赛A题解题思路方法：向北运动](https://blog.csdn.net/gzn00417/article/details/104323125)
+ > 2020美赛A题解题思路方法：向北运动
+ ## [Milvus带你实现轻松搭建以图搜图系统](https://blog.csdn.net/weixin_44839084/article/details/103884272)
  > 
- ## [8年经验面试官详解 Java 面试秘诀](https://blog.csdn.net/csdnnews/article/details/103154693)
+ ## [蚁群算法——初步了解](https://blog.csdn.net/qq_44620773/article/details/104333979)
+ > 蚁群算法——初步了解
+ ## [AI算法之Attention机制](https://blog.csdn.net/Mind_programmonkey/article/details/104335488)
  > 
- ## [Redis基础的问与答](https://blog.csdn.net/qq_37868757/article/details/104326669)
- > Redis基础的问与答
- ## [SpringCloudAlibaba - 分布式流量防卫兵Sentinel](https://blog.csdn.net/AkiraNicky/article/details/104183130)
- > SpringCloudAlibaba - 分布式流量防卫兵Sentinel
- ## [百度代码配置化实践：配置化是业务架构三化之一](https://blog.csdn.net/Ture010Love/article/details/104340379)
- > 百度代码配置化实践：配置化是业务架构三化之一
- ## [Java全套知识体系](https://blog.csdn.net/s3219153/article/details/104344944)
- > Java全套知识体系
- ## [微服务负载均衡 — Ribbon&Feign(Ribbon介绍与测试、Feign介绍与测试)](https://blog.csdn.net/weixin_43508544/article/details/104334391)
- > 微服务负载均衡 — Ribbon&amp;Feign(Ribbon介绍与测试、Feign介绍与测试)
- ## [简述移动通信网络的演进之路](https://blog.csdn.net/Jmilk/article/details/104341311)
- > 简述移动通信网络的演进之路
- ## [支付服务架构调用流程以及一些要点记录](https://blog.csdn.net/Goligory/article/details/104328268)
- > 支付服务架构调用流程以及一些要点记录
+ ## [2020美赛E题解题思路（Drowning in Plastic）](https://blog.csdn.net/qq_42037420/article/details/104326401)
+ > 2020美赛E题解题思路（Drowning in Plastic）
+ ## [服务器基础知识（一）](https://blog.csdn.net/weixin_41940427/article/details/104331339)
+ > 服务器基础知识（一）
+ ## [python numpy模块教程与使用numpy进行机器学习相关用法示例](https://blog.csdn.net/qq_38863413/article/details/104314009)
+ > python numpy模块教程与使用numpy进行机器学习相关用法示例
+ ## [tensorflow学习笔记——常用的激活函数](https://blog.csdn.net/qq_40692109/article/details/104343894)
+ > tensorflow学习笔记——常用的激活函数
+ ## [Python 面向对象之类class和对象基本用法示例](https://blog.csdn.net/haoxun05/article/details/104349661)
+ > Python 面向对象之类class和对象基本用法示例
+ ## [2020美赛D题解题思路方法：团队合作策略](https://blog.csdn.net/gzn00417/article/details/104323128)
+ > 2020美赛D题解题思路方法：团队合作策略
+ ## [2020年美赛E题模型建立思路](https://blog.csdn.net/weixin_41673576/article/details/104345370)
+ > 2020年美赛E题模型建立思路
 # PM 
- ## [产品经理2020进阶指南：如何养成你开挂的职业技能树？](http://www.woshipm.com/pmd/3393576.html)
- > “一千个公司有一千种不同的产品经理”，在不同行业、不同企业、不同阶段，有不同团队认知时，产品经理的具体分工定位是不同的。那么，产品经理要如何养成开挂的职业技能...
- ## [公开课 | 「金三银四」将至，小白如何打磨好产品求职简历？](http://www.woshipm.com/online/3403285.html)
- > 每年「金三银四」都有大批新人求职产品经理，虽然大家的经历、背景不同，却总会遭遇——“简历各种被PASS，面试邀约几乎为0”的尴尬。其实，对于0经验想要入行/转岗产品经...
- ## [云蹦迪、云睡觉，虚火一场？](http://www.woshipm.com/it/3397174.html)
- > 无聊催生的一次狂欢，「云经济」还能爽多久？1月9日开始，每天5小时，连续三天“云蹦迪”直播后，北京知名夜店ONE THIRD在抖音赚到了332.36万打赏，单日超过100万元，直...
- ## [产品评审会时，你别再被一句“在这呢”忽悠了](http://www.woshipm.com/pd/3397192.html)
- > 在这呢……在这呢……再这呢……一个产品评审会出现的最高频的词汇！虽然你的东西确实做了，但其实隐患也在这句“在这呢！”中开始诞生了！某年某月某日某公司XXXX产品评审会...
- ## [谣言问题，如何用产品思维来解决？](http://www.woshipm.com/pmd/3396422.html)
- > 泛滥的谣言不仅浪费了网民大量的注意力，更可恨的是容易给民众带来恐慌。除了鄙视和唾弃，我们有必要思考为什么谣言极具市场？谣言是否能够被消灭？是否拥有好的方法治...
- ## [设计师的专业设计规划，要如何撰写？](http://www.woshipm.com/zhichang/3395825.html)
- > 对于设计师而言，这份设计年度规划要怎么撰写，怎样才能实现专业性，这都是学问。今天在这里分享一下自己的经验。年度规划对于职业人员而言并不陌生，无论哪个行业哪...
- ## [用户体验设计之路（二）：需求到界面的距离](http://www.woshipm.com/pd/3402910.html)
- > 嗨，你现在还在被别人认为是“作图仔”么？上一篇文章我们沟通了，如果不想被打上“作图仔”的标签，那我们就需要从头到尾参与并且亲手进行需求分析了，只有这样，我们才能...
- ## [折叠世界，我们未来的生存空间](http://www.woshipm.com/it/3378628.html)
- > 折叠世界，一个创业者、产品经理、营销人都需要知道的大趋势。在科幻小说《北京折叠》中，人们分别生活在三个不同的空间里，第一空间，五百万人口，生存时间是从清晨...
- ## [2020中国旅游的第一个变化：重新理解流量](http://www.woshipm.com/it/3397408.html)
- > 作为大环境里的商业单元要做的就是理解变化、拥抱变化，才能真正活在未来。本文就给大家分享一下作者所看到的旅游行业的第一个变化，重新理解流量。武汉疫情已经持续...
- ## [线上活动｜不能出门的日子里，你该长点新本事了](http://www.woshipm.com/it/3401536.html)
- > 一个多月前，几乎没有人会想到，我们会以这种形式迎来一年开局。曾经以为，在家随时摸鱼，睁眼就是工位，躺着赚钱是梦想中的幸福日子……从来没有像今天这样，如此怀念...
+ ## [产品分析 | 洋码头和跨境电商行业现状分析](http://www.woshipm.com/evaluating/3394823.html)
+ > 为什么洋码头在群雄逐鹿的跨境电商竞争市场中能够夺得先机，在竞争越发激烈的跨境电商市场中洋码头为何能继续保持较高的发展速度。本人作为洋码头的用户之一，在本篇文...
+ ## [首页运营攻略（下）：首页运营技巧](http://www.woshipm.com/operate/3393101.html)
+ > 本文对首页各类资源的玩法和背后逻辑、容易掉进去的坑进行分享，同时谈谈首页资源布局策略、流量倍增技巧和落地页承接等与首页入口效率高度相关的运营技巧。以下为整...
+ ## [疫情之下，对电商行业的几点思考](http://www.woshipm.com/it/3398024.html)
+ > 在这次疫情的影响下，互联网行业受到的影响相对较小，甚至可以说互联网行业将直接承接部分原属于传统行业的市场份额（流量+销售额）。那么，在这次疫情影响下，电商行业...
+ ## [C端个人征信APP产品评析](http://www.woshipm.com/evaluating/3393394.html)
+ > 个人征信产品分为B端和C端两大类。B端主要是标准API及多样化的定制产品，而C端则是通过APP等产品载体提供服务，今天我们仅探讨后者。近年来，由于普惠金融业务的快速...
+ ## [六大场景，看懂声纹识别技术怎样“抗疫防疫”](http://www.woshipm.com/pd/3398200.html)
+ > 在新冠肺炎疫情发生后，为实现更好的管控防治效果，人工智能等诸多技术手段正在助力抗击疫情，彰显着科技硬实力的力量。在这场全民参与，全科技保卫的防控之战中，声纹...
+ ## [线上课程｜2020年才开始做新媒体运营，还有没有前途？](http://www.woshipm.com/online/3404449.html)
+ > 2012年8月17日，微信公众平台上线，至今已经快八年。公众号成立的初衷，可能只是给定位为社交工具的微信，做一个内容领域上的拓展尝试。却未曾想，最后引发了一场新媒...
+ ## [0成本运营一个知乎账号的逻辑和方法](http://www.woshipm.com/operate/3398023.html)
+ > 本文主要跟大家复盘一下如何运营好一个知乎号，在整个运营的过程中采取了哪些方法，而这些方法又起到了怎样的作用，一起来看看~知乎从19年9月份开始运营，到目前为止...
+ ## [面试总结：面头条用户产品的几点收获和建议](http://www.woshipm.com/zhichang/1454726.html)
+ > 人生需要沉淀，宁静才能致远。从面试完到现在，心情久久不能平复。期间有过失落和气馁，但是事实已经是这样了，只有勇敢面对，好好复盘，同样的问题下次不要再犯，才...
+ ## [“价格”的秘密：为什么优衣库的价格总让你感觉很划算？](http://www.woshipm.com/operate/3397451.html)
+ > 被称为“亚洲最会卖衣服”的优衣库，究竟有怎样的魔力，让各位愉快地“剁手”呢？下面为大家逐一揭开优衣库价格的“秘密”。经常逛优衣库的人都知道，优衣库内所有商品的价...
+ ## [“关于新冠肺炎的一切”刷屏背后：国内科普内容的进化与升级](http://www.woshipm.com/it/3397521.html)
+ > 科普之难，不只难在传播科学本身。对于很多人而言，真理与否其实并不重要，为自己当下面对的问题找到一个解决方案，为生活寻找价值，获得群体认同感、归属感才是终极命...
+ ## [供应链：WMS库内管理设计](http://www.woshipm.com/pd/3399933.html)
+ > 仓库系统的设计基本可以分为五个大模块，出库、入库、库内、基础资料、策略。本篇主要针对于库内管理进行分享，希望可以帮助到有这方面需求的朋友。不同于出入库偏重...
+ ## [疫情当前，RPA可以做些什么](http://www.chanpin100.com/article/110747)
+ > 危机、变革、机遇
+ ## [用户体验设计之路（二）需求到界面的距离](http://www.chanpin100.com/article/110745)
+ > 需求与界面之间是存在距离的，这个距离就是设计规划，这是一个单独的阶段！
+ ## [产品面试系列——如何回答改进一款产品](http://www.chanpin100.com/article/110744)
+ > 面试官通常会让你自己选择一款产品，如“挑一个产品。如果要你来设计，你会怎么改进这个产品”，或者面试官会指定一款产品，如“如果要你来设计，你会怎么改进某产品”。无论是哪一种说法，解决这类问题都是有章可循的。
+ ## [深度：AI医学影像辅助诊断商业模式分析](http://www.chanpin100.com/article/110742)
+ > 说来忏愧，“我”还在烧钱！
+ ## [面试前中后如何做好准备和总结？](http://www.chanpin100.com/article/110741)
+ > 因为最近经历了3场产品面试，希望这边文章能帮到大家做好面试前中后的准备和总结。
+ ## [0-3岁的产品经理必懂的数据分析方法（6）-归因查找法](http://www.chanpin100.com/article/110740)
+ > 归因查找的作用是帮我们找出一件事件发生的主要原因是什么~
+ ## [为什么说b端产品经理都爱表格功能？](http://www.chanpin100.com/article/110743)
+ > 分享——产品经理们最爱的表格功能！
  ## [《关于AppleWatchseries5产品分析》](http://www.chanpin100.com/article/110739)
  > 无摘要
 
