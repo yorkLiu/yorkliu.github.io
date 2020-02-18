@@ -1,7 +1,7 @@
 ---
 title: 2020-02-18 IT News
 copyright: true
-date: 2020-02-18 12:01:32
+date: 2020-02-18 17:02:18
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,93 +65,113 @@ IT&#22521;&#35757;&#21697;&#29260;&#8220;51CTO&#8221;&#33719;&#39640;&#25104;&#3
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [美国高级军官在RSAC上表示：CMMC计划对美国网安发展至关重要](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=epwmM3HoPbMh529McjP5ybdnkmC1pzfuew9loOe6FbVhEg5YNfEV8B7FxN6FmfB59pIUbbxe3PMJVoQMs911F4F5ocsVUB1MFvUalFKYZNIcsW0GHdnT*nSqwL-BqoKG&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全2月18日讯，美国海军退役的四星军官James Stavridis与其同事Juliette Kayyem将在RSAC 2020会议上发表主题演讲。据了解，从2009
- ## [8点见|蛋壳称不会趁疫情大发横财；大搜车否认裁员70%；华为HMS将在欧洲亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=gJogLGWTECK-nX06q4tNQIKpoA3w06assYLrZb5gHJgVmM9nd0-kcwmJWiss5FJoCSKeGp2MrnM7*8tOd0P4FemBD7b5iAUBz-aYSHilNpqAD96inv2mv3BtnnkqqGGP&new=1)
+ ## [微软“一站式防疫信息实时互动开源项目“正式发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=Zz0IPJXNcGGLU-JutbuJYC4LVEHzSmGq38b0lH9ymcDLLfsxde0qzcKjC1aB5MmLlTPEyMG0BM3A5Ppx-P*OOSQUi8q2FQShha-EZ-i0vkVZ3HqmG53S65VaNx0DX0tr&new=1)
+ > （本文阅读时间：4 分钟）当前新冠病毒感染的肺炎疫情防控正处于关键期，使用即时消息软件进行企业信息发布，容易遗漏关键信息，员工从不同渠道接收到海量新闻，混杂其中，重点不明。安全准确的企业政策集中、及...
+ ## [iPhone 12 5G基带确认：未来4年都稳得一批](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=JmcLb2yXiv4-lrNfoSThEvXYx2nO337flpBKl2sfUjSYPLJBFdEZduH6KJ3VAzBuj037-OSI01EwkLKoSMmNuA40g8y-QAGYIyPt8KVUMklqSjxTJ5RnB6m*uMJSo0vd&new=1)
+ > 去年4月16日，苹果与高通和解，了结了双方因专利授权费而起、持续了两年多的法律大战，双方撤回了全球范围内的全部诉讼，苹果同意一次性向高通支付相关的费用，双方达成了多年的专利授权协议和芯片供应协议。虽...
+ ## [人工智能大显身手，机器人能“走”得更快吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=lvv-Z9KMUSI3HyE-*MJ0o30wWaPF5EoezWzzNA9SUGyBScRvZBK8aHR7peLR0hkKBAiXW1N6b5TTqbc71rU2*YMrZulO5W7GQjzUtXL9Tcqlj3C-kMBhn7zs5yA47FnZ&new=1)
+ > 疫情揭开了人工智能真实的需求场景，也对人工智能企业的技术实力提出了考验。机器人能“走”得更快些吗？文｜《中国企业家》记者 武昭含编辑｜李薇图片来源｜被访者新冠肺炎疫情依旧严峻。在这场生死时速的战“...
+ ## [从技术风口到行业应用，开启区块链与产业深度融合之路](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=KpbauTw0*BLDydHd7WCGemeSjNwZd9B7zCQ0GnNwD1N2rMP8asyH4VZTEqcYi9T-b9N*SHC-SBLNT82bDii9cUe9roSCAxz*wN3L3gQnU*jP0gktUq9bQzZ3a-cT0vyd&new=1)
+ > 刚刚走过的2019，作为年度热词的区块链技术经历里程碑巨变与发展的一年。区块链集体学习讲话将区块链技术发展上升到国家战略层级，也引发了各行各业对区块链前所未有的重视。 2019年，我们欣喜地看到区块链已经...
+ ## [阳光总在风雨后-2020年将是我国半导体产业发展元年](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=h8DSm1r9wdd7Mip8PySUTwunqB32vJAIKAZqtRi5J21vROHFnBwjIifw8x09lATDuIad8gsqvltao1HeCMrDuwjzcdRB2g-rvMFUZALGD7kDlps-SJMkyxBDOjo9YAHh&new=1)
+ > 本文作者：中国半导体行业协会副理事长 于燮康 随着中美经贸关系的阶段性缓和，全球企业和市场信心开始有所增强，尤其是新能源汽车和电子、计算机和通信——将迎来周期性的修复。然而正当中国和全球经济出现企稳...
+ ## [从“浮云”到“冰山”：华为云安全的绝世“五功”](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=WtxNI8ngmOmxb4fWMV6x4fqa8O5NihFWSmIPy3XkefHP5Lb4Ljp85R0KJDQK7vsxQjeRZ4DIKEuTKN2fNviGOHXAjNz1J2Aen6f8DpAnjIqXNb7wBBpOa0*XW7P98L-T&new=1)
+ > 当企业评估云的安全水平时，往往聚焦在云安全服务及云服务的安全特性上，而忽略了云安全中更重要的部分——云基础设施安全。如果把云安全比作“冰山”，那它们属于“冰山”上的可见部分。而“冰山”水下90%部分...
+ ## [下一代终端设备如何提高安全性?](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=IriYQLvUNtfcoW3sblqmGqB7Y74Q30WJXjLqHlSNWdnmH0OUHMBd3oPXPxLf2jEi1ZcUU2-NkiMlCkf0bRiOQLNppd0gHBE*EXPtp9F30rMmXvganCHgUEZpeOra8p8L&new=1)
+ > 关键讯息，D1时间送达！随着大量终端设备(尤其是智能手机和平板电脑)的部署，安全仍然是大多数企业最关心的问题之一。人们还看到了向设备、内部部署数据中心、混合云方法分发企业应用程序的趋势，这些方法为实现...
+ ## [算法攻破人脸识别「口罩」难题，两天落地千人小区准确率达97%|AI 战疫](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=dVkpaXhqafzjx5QdGctNBwhVWLM4RAHzGh74h**iFpbDoORPClgVLfQEQISeoAkddPMRR3E2UaeP82OYuJnD-lgji9k29jsgj8XiaazxklIhNSvq2oFGeLHI6NOPsuoW&new=1)
+ > 日益成熟的人工智能，正成为抗击新冠肺炎疫情战线上一群特别的「逆行者」。无论是加速前期的疫情科研攻关，还是协助一线的疫情诊疗和现场防控，以及后端的信息化平台搭建，都已经出现了人工智能技术和解决方案的...
+ ## [热点聚焦|2020智能安防持续发展 面临哪些机遇与挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=EDbiahJJ6Q3xXzNqx0mLzLS350JKy5IMvEzSD-W2i8-N3EN6g97z3d-xHPlZIMILDhJMj7EA4Rp2bHeAEUa*2xQhM-UMES7HIt1kVWETnrmHmSAz8iONKLQfcKKH*rEF&new=1)
+ > 据艾瑞咨询统计到十三五收官之年——2020年，智能安防增速将开始稳定，届时市场规模可达到453亿元。那么，在2020年，智能安防行业或许会遇到哪些机遇、又面临什么挑战呢？ 智能安防面临的机遇技术是推动智能安防...
+ ## [基础设施和运营的5大热门趋势和4个趋冷趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=0peuiynz4zpHVawEun9o4Kdk0Inq4D8H2szM930TZjShRgvNQ4zjXat8qZcNUERtLHsOcXhQ8SerXF05FL263qdGVxtE7p-9r9bEba35K5e2RiLCKu5-r*iYNIzIh23-&new=1)
+ > 关键讯息，D1时间送达！在基础设施和生产系统运营方面，稳定性至上。随着越来越多的企业寻求更高的安全性和更快的速度，在不牺牲可靠性的情况下，变革依然持续。IT世界在不断变化，不断出现新的工具和战略来颠覆...
+ ## [激增1400%，XR工程师已成美国硅谷最热门职位](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=W7ZF3ZWePEu2GW2cTZg7mF42LPazGFEDY-CXBxr1GQyvzU72dN8jZ-copDKEfjfStPTj6zOA0mhTfipvlT8EFir03*iLOuBXYPsfFM3f4YSNG*REtpIHizKREHnXynyM&new=1)
+ > 今年对区块链工程师的需求增长从去年的517％的暴跌至9％。正文共 1520 字 5 图；预计阅读时间 6 分钟 （VRPinea2020年2月18日电）近日，美国硅谷知名人才招聘网站Hired发布最新软件工程师职业状况报告，增强现实...
+ ## [8点见|蛋壳称不会趁疫情大发横财；大搜车否认裁员70%；华为HMS将在欧洲亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=gJogLGWTECK-nX06q4tNQIKpoA3w06assYLrZb5gHJiyEXMel2Ih0JR0drE44CY*VS4OINH1WRWolg5Y6cnv0icJcc4iUtBHDChJYcHenYvo-IZBUgECJkV4hMJKq6N9&new=1)
  > 各位小伙伴们，早上好呀！话说你们公司已经开工了吗？最近有一种观点，线上办公的流行，传统形态的办公室未来或将不复存在。你觉得办公室有存在的必要吗？在家办公的日子里，你想念办公室吗，为什么呢？评论区聊...
- ## [百度移动平台关闭安卓渠道；苹果将推 iPhone SE 2 代；微软开源 Scalar|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=KpbauTw0*BLDydHd7WCGemeSjNwZd9B7zCQ0GnNwD1P9DS4-K-UIOECfRUr3CLBnp6v2iz97UpLhJ0V291Ikzu8UOtMy4Yz8JpeS7koL*UnP*8a4eC69R7XfEj5pcV3T&new=1)
+ ## [百度移动平台关闭安卓渠道；苹果将推 iPhone SE 2 代；微软开源 Scalar|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=KpbauTw0*BLDydHd7WCGemeSjNwZd9B7zCQ0GnNwD1MLTR1m5gY9ywlkq3Co9QO-MjvGkoWNLR5Zrgod00XK0XHfE*xQGfmz*lR*qEtMe4ZMsDo2df2JaXaq4uwTBON8&new=1)
  > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
- ## [\[报告\]从产品布局看特斯拉市场战略(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=yjz*8xdEVCQixCj3afyipB*Njqa8LHQ9Fu3gYJuRde7bZzo7-GABRzLj1BsswW0tPdvWBjolK9*m8-xhZ5iFXHZeiEWi12DbWddFUsaLmIakD0cYDNd5bs-xtQ7cb18M&new=1)
+ ## [影创科技携手高通举办2020 Qualcomm XR 创新应用挑战赛](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=8*Vy6YMvWkGzpGfQqj--58HVoj4e*F3d7fR5LIiI1XRcFng-k6UQUpRklVWXzOnKTVdjR3WdFr8yIOElfdp2--qt5nwplUK*k6F-slJvRU5Se7A-W-FkYL-R1tjiW5Xa&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱沉浸式计算平台扩展现实核心技术厂商美国高通公司宣布，与全球知名3D内容创作引擎 Unity以及专注于AR/VR技术的国际领...
+ ## [美国高级军官在RSAC上表示：CMMC计划对美国网安发展至关重要](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=epwmM3HoPbMh529McjP5ybdnkmC1pzfuew9loOe6FbX5HoI*iW1Xh6z6gjrKrJ5ES82t2KVlqUr-EVU-g4QN5ntvqIoUoGKQQ2QuqwzfvA9OyCdQrX1Ye8OhHVmuHRC*&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全2月18日讯，美国海军退役的四星军官James Stavridis与其同事Juliette Kayyem将在RSAC 2020会议上发表主题演讲。据了解，从2009
+ ## [\[报告\]从产品布局看特斯拉市场战略(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=yjz*8xdEVCQixCj3afyipB*Njqa8LHQ9Fu3gYJuRde6DFdvNpUxxvUBd5yvK6fKiHeDZHzmJ6uWfJcxCWHSBX23KJezwETPR6x3YlIaudaV5cL9Mfi7i-7j2bt-aBsmD&new=1)
  > 新能源汽车产业正由政策驱动转向供给驱动，2020年是供给端剧变的元年，特斯拉国产化带来的供给端质变将撬动需求。我们判断2020年行业将从2.0时代迈入3.0时代，类比手机发展史，爆款车型的出现将推动行业从导入期...
- ## [\[科技早报7点整\]外交部回应美情报机构被爆窃取120国机密 比尔盖茨称特斯拉不错但我买了保时捷……](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=MBAJzK5svdhx*CHOmQva2bkCZ3aOFxUmM68y6hRsTkFMM4pv4ssUiBtbBpuctoEl3Q71-aWNysK1e8d1Bbwit7olDStZ3rpD1N2qC82mOO0evM7HenjRDNuupaFubPhe&new=1)
+ ## [\[科技早报7点整\]外交部回应美情报机构被爆窃取120国机密 比尔盖茨称特斯拉不错但我买了保时捷……](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=MBAJzK5svdhx*CHOmQva2bkCZ3aOFxUmM68y6hRsTkH-qteRT9WNpE-MaO4s17mtEr18kvUuKHKMYBIrPo4mbP3014jT0BtbNhZXMXERsRQ1RsKyPa6i6ACIWmT49Rg*&new=1)
  > 早上好，科技圈【一度蜜科技早报】第723期1.外交部回应美情报机构被爆窃取120国机密：“黑客帝国”耿爽表示，一个每天收集全球各地近50亿条移动电话纪录、窥探德国总理默克尔手机长达十多年之久、每年控制中国境...
- ## [关于举办“云计算在线培训练兵”的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=ky0Sglwf3YcN2bnSqPVFxQEehGAaOjQxI-B2*KKHukkV-Ldyk-uUm0ovymkkNan843YQq36dLJMM3qy5GBXJEmdirup2ydpuEEDU7J68jxgXGa-ZsB1o7imbvd6qbpB2&new=1)
+ ## [关于举办“云计算在线培训练兵”的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=ky0Sglwf3YcN2bnSqPVFxQEehGAaOjQxI-B2*KKHukkc9bsSuk1xztCtpQDSH0hWKm4ec57vDIHkKluafdyJfxn4NVEIPMCv7uGYW7Rl2yZXms6rTy6W7D5BCYnq-ln2&new=1)
  > 在《平安就业，迎接春暖花开——致全国返岗劳动者的一封信》中，人社部明确表示，目前疫情防控处于关键时期，“暂不工作的，请先充充电。大家可以参加各类线上学习培训课程，储备些知识，学习些技能，很快就能用...
- ## [科技“抗疫”：100个科技应用案例](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=pLpxnhceoF8lnNJs2pNLSBe0Pvr2jmLiV6k2KfgFVxGpF3y*0b2QMkY2VmTNsdYxKWHneac6AHa-Ey016E2DuDD7u1oa5p1iDjplAca2olAVqkESSLenTzlnnkvOz4L0&new=1)
+ ## [科技“抗疫”：100个科技应用案例](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=pLpxnhceoF8lnNJs2pNLSBe0Pvr2jmLiV6k2KfgFVxHH5ZP8n4yk-kK1hu0-LU5YCPNqiQJut9KmGQC0hw14pqwDHGCLcTwttednc17NqzMXIo49OJRiaAuA4hsnPha3&new=1)
  > 来源 | 零壹财经作者 | 赵静 杨雅 陈成新型冠状病毒疫情牵动亿万人心，打赢防疫抗疫这场攻坚战是当前各界最重要的任务。而战胜疫病离不开科技的支撑。2月3日，中央政治局疫情防控工作会议强调要加大科研攻关力度...
- ## [史上最高高达机器人即将问世横滨港](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=k3hqvGP5X1RK9ZmPwePVBJF5JF4shQRr-H4iLOjZ0qKDAk0FSYwKHaoH5jNqCFTRVP1e96lXmFBugRnd3K6UEtBCXhcFQoCjtL1u-hz6swlqwYTDUXwgyzfDSw9eVkVH&new=1)
+ ## [史上最高高达机器人即将问世横滨港](http://mp.weixin.qq.com/s?src=11&timestamp=1582014605&ver=2165&signature=k3hqvGP5X1RK9ZmPwePVBJF5JF4shQRr-H4iLOjZ0qI*zfI5MWPBNlSGXg34LG0maU1V-pteAw5Yn9RZ8u9VcQ5fAx*--K8FS9VfLlnZfPMGRFNMhq*PIMqrhQUo4KPT&new=1)
  > Image: Gundam Global Challenge几十年来，日本一直拥有强大的机器人文化，这要归功于（至少在一定程度上）Gundam（高达）系列的成功。高达系列是双足类人机器人，由乘坐其中的人控制，在非常多不同的电视剧，视...
- ## [盘点抗击新冠肺炎的十大黑科技|凰家体验](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=41vTftTpTFNzbYNOo36cVymoV*i0vyoOF5GHxo5a-XFMdgAZkUad0goNGD4ND010VRzh-7zypfFD*FZSDaxbcj63zQ1NAuDuH1y2hMBsLVfFTQ7VD7W6qHHWLE*dA2jk&new=1)
- > 新冠肺炎来势汹汹不少人没来及过节就投入到了抗疫第一线而创造的科学技术也参与了抗疫不论是半个月时间造起“火神山”“雷神山”两座医院还是警察叔叔用无人机喊你回家戴口罩这其中都离不开科技的助力那么今天就...
- ## [三天开通!火神山医院5G基站建设为何那么快?](http://mp.weixin.qq.com/s?src=11&timestamp=1581998405&ver=2165&signature=3r3TuLz3hPymixU578pnx0FsCSiKkq2bJynnKUafEcBGHQ*BUHyc6cG8sfwenLA*8y7n7N6FpT6l9YgylBnbNsSMSmhAviTj*9VcJ0-4pajy1kVquotzMNkVSy6QrxJB&new=1)
- > 【摘要】这背后是怎样做到的？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：网优雇佣军本文来源：网优雇佣军（hr_opt）杂谈投稿邮箱：631255063@qq.com疫情之下，最美不过逆向而行的白衣天使们，但与...
 # IT 技术 
+ ## [面试官：“看你简历上写熟悉Handler机制，那聊聊IdleHandler吧？”](http://news.51cto.com/art/202002/610817.htm)
+ > 面试官：“看你简历上写熟悉Handler机制，那聊聊IdleHandler吧？”
  ## [儿童学编程有哪些优秀的网站与在线课程？](http://developer.51cto.com/art/202002/610755.htm)
  > 儿童学编程有哪些优秀的网站与在线课程？
+ ## [中美领军全球AI竞赛，人工智能被高估了么？](http://ai.51cto.com/art/202002/610810.htm)
+ > 中美领军全球AI竞赛，人工智能被高估了么？
  ## [在家办公这些天整理的Kafka知识点大全](http://bigdata.51cto.com/art/202002/610747.htm)
  > 在家办公这些天整理的Kafka知识点大全
  ## [我希望在成为Linux系统管理员之前知道的10点](http://os.51cto.com/art/202002/610754.htm)
  > 我希望在成为Linux系统管理员之前知道的10点
+ ## [为什么给Java代码加个空行，class文件就翻脸不认人了？](http://developer.51cto.com/art/202002/610749.htm)
+ > 为什么给Java代码加个空行，class文件就翻脸不认人了？
+ ## [微软新一代Windows稳了：Windows 10瞬间不香](http://os.51cto.com/art/202002/610760.htm)
+ > 微软新一代Windows稳了：Windows 10瞬间不香
  ## [应对多种场景，运维人是如何做好业务活动保障的](http://news.51cto.com/art/202002/610780.htm)
  > 应对多种场景，运维人是如何做好业务活动保障的
- ## [为Angular打造的优秀甘特图方案](http://developer.51cto.com/art/202002/610659.htm)
- > 为Angular打造的优秀甘特图方案
- ## [疫情之下，这是你也能上手的Python新冠病毒传播建模教程（附代码）](http://news.51cto.com/art/202002/610701.htm)
- > 疫情之下，这是你也能上手的Python新冠病毒传播建模教程（附代码）
- ## [为什么Python在数据科学领域比R更受欢迎呢？](http://developer.51cto.com/art/202002/610657.htm)
- > 为什么Python在数据科学领域比R更受欢迎呢？
- ## [17年前阿里全员隔离，马云是怎么熬过非典的？](http://news.51cto.com/art/202002/610647.htm)
- > 17年前阿里全员隔离，马云是怎么熬过非典的？
- ## [关于区块链的预测和IT领导者的数据](http://blockchain.51cto.com/art/202002/610800.htm)
- > 区块链引入了替代方法来跟踪和管理客户数据。IT领导者需要了解去中心化技术的发展方向，否则就有落后的风险
- ## [外媒预测苹果将于 3 月 31 日举行春季发布会](http://mobile.51cto.com/news-610798.htm)
- > 现在可以肯定的是苹果会在第一季度推出一款类似于 iPhone 8 的中低端机型来填充市场分额，但对于以何种形式
- ## [下一代终端设备如何提高安全性?](http://netsecurity.51cto.com/art/202002/610797.htm)
- > 人工智能和行为分析是提高设备和后端系统安全级别的关键技术，并且也是采用物联网设备和服务的先决条件。那
- ## [物联网病毒是怎么回事？](http://iot.51cto.com/art/202002/610799.htm)
- > 物联网病毒没有那么可怕，自互联网诞生以来就必然会出现这种情况。做好预防，找好安全合作伙伴，发现情况正
- ## [Python带你免费看优酷会员收费视频](http://developer.51cto.com/art/202002/610796.htm)
- > 今天给大家介绍如何观看优酷的收费视频。
- ## [抱歉，我觉得程序员副业赚钱并不靠谱](http://news.51cto.com/art/202002/610794.htm)
- > 我最近看到不少关于程序员副业赚钱的文章，其中出的点子有这些。
- ## [人工智能的未来及对ERP系统的四个新要求](http://ai.51cto.com/art/202002/610790.htm)
- > 在未来五年内，人工智能将对企业及其商业模式产生重大影响。调研机构普华永道公司第22届全球首席执行官年度
- ## [2020年十大前沿科技，了解一下](http://news.51cto.com/art/202002/610793.htm)
- > 根据麦肯锡的研究，到2030年，将有近三分之一的美国人需要另谋出路，以应对科学技术的飞速发展。科技的进步
- ## [如何克服云计算的网络安全挑战](http://cloud.51cto.com/art/202002/610789.htm)
- > 云计算环境复杂多样，这妨碍了部署和维护核心安全控制的一致方法。企业必须意识到并履行其分担保护云计算服
- ## [全民宅家办公 远程协作办公软件该如何选择？](http://biz.51cto.com/art/202002/610787.htm)
- > 如果说你在办公中经常使用office办公套件进行办公，那么微软Teams无疑是更好的选择。因为它可以无缝结合Wor
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
- > 
- ## [作为一个程序员，内存和磁盘的这些事情，你不得不知道啊！！！](https://blog.csdn.net/sinat_33921105/article/details/104142623)
- > 作为一个程序员，内存和磁盘的这些事情，你不得不知道啊！！！
- ## [在家远程办公效率低？那你一定要收好这个「在家办公」神器！](https://blog.csdn.net/csdnnews/article/details/104137953)
- > 在家远程办公效率低？那你一定要收好这个「在家办公」神器！
- ## [破14亿，Python分析我国存在哪些人口危机！](https://blog.csdn.net/u014044812/article/details/104076639)
- > 破14亿，Python分析我国存在哪些人口危机！
- ## [如何优雅地打印一个Java对象？](https://blog.csdn.net/qing_gee/article/details/104206866)
- > 
- ## [Python爬虫爬取淘宝，京东商品信息](https://blog.csdn.net/qq_43764365/article/details/103539728)
- > Python爬虫爬取淘宝，京东商品信息
- ## [Qt实用技巧：使用OpenCV库的视频播放器(支持播放器操作，如暂停、恢复、停止、时间、进度条拽托等)](https://blog.csdn.net/qq21497936/article/details/103235954)
- > 
- ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
- > 
- ## [AI 医生“战疫”在前线](https://blog.csdn.net/csdnnews/article/details/104218194)
- > 
- ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
- > 
- ## [Java工作4年来应聘要16K最后没要,细节如下。。。](https://blog.csdn.net/HarderXin/article/details/103971493)
- > Java工作4年来应聘要16K最后没要,细节如下。。。
- ## [前后端开发人员必备Chrome插件](https://blog.csdn.net/DBC_121/article/details/104333883)
- > 前后端开发人员必备Chrome插件
+ ## [机械硬盘怎么选，SMR还是PMR？看完这篇你就知道](http://biz.51cto.com/art/202002/610830.htm)
+ > 随着诸如SSD等各种更快的存储设备出现，机械硬盘如今往往担任了大容量仓储的使命，对容量的需求高过一切。
+ ## [这回终于弄清楚了，CPU到底是选散装还是盒装](http://biz.51cto.com/art/202002/610829.htm)
+ > 最后还是那句话，购买硬件要选择正规渠道，一味贪便宜反而容易吃大亏。而且CPU基本上也是遵循一分价钱一分
+ ## [2020 年编程语言盘点展望：Java 老兵不死，Kotlin 蓄势待发](http://developer.51cto.com/art/202002/610828.htm)
+ > 在进入新的十年之际，各行各业都在进行盘点与展望。SegmentFault 作为开发者社区与科技行业的垂直媒体，一
+ ## [初识Redis，看这一篇就够了](http://stor.51cto.com/art/202002/610826.htm)
+ > Redis （全称： Remote Dictionary Server 远程字典服务）是一个开源的使用 ANSI C语言 编写、支持网络、可
+ ## [深入探索Redis持久化原理](http://database.51cto.com/art/202002/610825.htm)
+ > Redis是一个内存数据库，为了保证数据的持久化，redis提供了两种持久化方式RDB和AOF，
+ ## [时间序列数据存储的体系结构](http://stor.51cto.com/art/202002/610824.htm)
+ > 表存储是支持多种数据模型的通用分布式NoSQL数据库。 当前可用的数据模型包括宽列（BigTable）和时间轴（消
+ ## [计算机网络中数据链路层常见的知识点，你还记得吗？](http://developer.51cto.com/art/202002/610822.htm)
+ > 对数据链路层进行讲解，数据链路层的知识点不管是面试还是你期末考试，就开始变得比较多了。如果你之前学过
+ ## [美国欲施压台积电限制供货华为，不惜切断全球芯片供应链](http://news.51cto.com/art/202002/610821.htm)
+ > 根据华尔街日报，特朗普政府正在权衡对中国的新贸易限制，试图对台积电施压来进一步打击华为。
+ ## [研究型AI面试怎么过？Reddit网友谷歌面试经验分享](http://news.51cto.com/art/202002/610820.htm)
+ > 大多数学生在求职前，都会经历实习的过程，那么面试就必不可少。
+ ## [如何模拟超过5万的并发用户](http://developer.51cto.com/art/202002/610811.htm)
+ > 本文将从负载测试的角度，描述了做一次流畅的5万用户并发测试需要做的事情.
+ ## [docker基础之常用命令](https://blog.csdn.net/kaihuishang666/article/details/104364349)
+ > docker基础之常用命令
+ ## [Windows下的cmd小技巧](https://blog.csdn.net/qq_42582489/article/details/104358734)
+ > Windows下的cmd小技巧
  ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
  > 究竟你适不适合买Mac？
- ## [2020美赛A题赛后总结](https://blog.csdn.net/qq_40103496/article/details/104363448)
- > 2020美赛A题赛后总结
+ ## [mybatis黑马：增删改查(CRUD)操作](https://blog.csdn.net/JH39456194/article/details/104358383)
+ > mybatis黑马：增删改查(CRUD)操作
+ ## [牛客网华为机试【删除字符串中出现次数最少的字符】](https://blog.csdn.net/FBB360JAVA/article/details/104359423)
+ > 牛客网华为机试【删除字符串中出现次数最少的字符】
+ ## [Python基础知识详解  从入门到精通（九）生成exe文件（可执行）、pyc、pyo文件](https://blog.csdn.net/GuanFuXinCSDN/article/details/104361980)
+ > Python基础知识详解  从入门到精通（九）生成exe文件（可执行）、pyc、pyo文件
+ ## [JAVA实现经典坦克大战及源代码下载](https://blog.csdn.net/a1275302036/article/details/54232751)
+ > JAVA实现经典坦克大战及源代码下载
+ ## [使用原生js和css制作钟表(附源码)](https://blog.csdn.net/qq_43063656/article/details/104358425)
+ > 使用原生js和css制作钟表(附源码)
+ ## [一条链接即可让黑客跟踪你的位置！ | Seeker工具使用](https://blog.csdn.net/weixin_42608762/article/details/104236278)
+ > 一条链接即可让黑客跟踪你的位置！ | Seeker工具使用
+ ## [Redis六：Redis哨兵模式（Redis Sentinel）](https://blog.csdn.net/qq_36386908/article/details/104331662)
+ > Redis六：Redis哨兵模式（Redis Sentinel）
+ ## [Python 电影评分分析](https://blog.csdn.net/c1z2w3456789/article/details/104361914)
+ > Python 电影评分分析
+ ## [精简《JavaScript高级程序设计》五、引用类型Function](https://blog.csdn.net/weixin_44523860/article/details/104363545)
+ > 精简《JavaScript高级程序设计》五、引用类型Function
+ ## [数据结构和算法(五)Java实现双向链表](https://blog.csdn.net/yuan_xw/article/details/104361533)
+ > 数据结构和算法(五)Java实现双向链表
+ ## [hive创表后，查看表注释是乱码的](https://blog.csdn.net/qq_37554565/article/details/104364618)
+ > hive创表后，查看表注释是乱码的
+ ## [《童年》读后感](https://blog.csdn.net/aaaPostcard/article/details/104364492)
+ > 《童年》读后感
  ## [阿里云河源数据中心正式开服  疫情期间曾2小时扩容1万台云服务器](https://blog.csdn.net/csdnnews/article/details/104371323)
  > 2月18日，阿里云在官网宣布，河源数据中心正式对外提供服务。这是华南地区规模最大的绿色数据中心，可容纳超过30万台服务器，作为深圳地域的新可用区为华南地区上百万企业客户提供领先的云计算、人工智能、物联网等服务。据悉，河源数据中心采用了目前业内最先进的硬件设备，并大规模应用飞天操作系统、...
  ## [细数Python三大“罪”！为什么编程能力比我好10倍的人都在夸它？](https://blog.csdn.net/csdnnews/article/details/104368455)
@@ -179,59 +199,61 @@ IT&#22521;&#35757;&#21697;&#29260;&#8220;51CTO&#8221;&#33719;&#39640;&#25104;&#3
  ## [如何使用 Python 构建一个“谷歌搜索”系统？ | 内附代码](https://blog.csdn.net/csdnnews/article/details/104368452)
  > 来源 |hackernoon编译 | 武明利，责编 | Carol出品|AI科技大本营（ID:rgznai100）在这篇文章中，我将向您展示如何使用Python构建自己的答案查找系...
 # 人工智能 
- ## [CSS盒模型 ╰(‵□′)╯So Easy!](https://blog.csdn.net/weixin_40693643/article/details/101108186)
- > CSS盒模型 ╰(‵□′)╯So Easy!
- ## [VSCode详细使用教程](https://blog.csdn.net/weixin_45601379/article/details/100550421)
- > VSCode详细使用教程
- ## [推荐几个非常不错的富文本编辑器](https://blog.csdn.net/qq_38200194/article/details/100129740)
- > 推荐几个非常不错的富文本编辑器
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [webstorm提示TypeError: this.cliEngine is not a constructor](https://blog.csdn.net/qq_20567691/article/details/101152933)
- > webstorm提示TypeError: this.cliEngine is not a constructor
- ## [关于template标签用法总结(含vue中的用法总结)](https://blog.csdn.net/u010510187/article/details/100356624)
- > 关于template标签用法总结(含vue中的用法总结)
- ## [智慧树自动刷课代码脚本--Javascript、Jquery](https://blog.csdn.net/weixin_43792401/article/details/100676077)
- > 智慧树自动刷课代码脚本--Javascript、Jquery
- ## [Vue tinymce富文本编辑器整合](https://blog.csdn.net/liub37/article/details/83310879)
- > Vue tinymce富文本编辑器整合
- ## [Vue面试题](https://blog.csdn.net/qq_40861561/article/details/101039899)
- > Vue面试题
- ## [计算文件 MD5](https://blog.csdn.net/tangran0526/article/details/100888776)
- > 计算文件 MD5
- ## [vue用js获取当前定位（高德地图）](https://blog.csdn.net/weixin_43953710/article/details/100537315)
- > vue用js获取当前定位（高德地图）
- ## [new FormData() - FormData对象的作用及用法](https://blog.csdn.net/AlbenXie/article/details/100103709)
- > new FormData() - FormData对象的作用及用法
- ## [GitHub开源的10个超棒后台管理面板](https://blog.csdn.net/m0_38106923/article/details/101050788)
+ ## [2020美赛A题解题思路（Moving North）](https://blog.csdn.net/qq_42037420/article/details/104323275)
+ > 2020美赛A题解题思路（Moving North）
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 在三线城市工作爽吗？
+ ## [GitHub上重要的几个搜索技巧](https://blog.csdn.net/zhixingwu/article/details/104346555)
+ > GitHub上重要的几个搜索技巧
+ ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
  > 
- ## [pyecharts数字显示千位符](https://blog.csdn.net/jerurry/article/details/100655035)
- > pyecharts数字显示千位符
- ## [js回调函数：js先执行完一个函数后再执行下面的逻辑或者方法](https://blog.csdn.net/qq_37581708/article/details/101103075)
- > js回调函数：js先执行完一个函数后再执行下面的逻辑或者方法
+ ## [努力做个中年程序员](https://blog.csdn.net/w90/article/details/104334062)
+ > 努力做个中年程序员
+ ## [小白也会用的情人节表白神器](https://blog.csdn.net/qq_41479464/article/details/104316059)
+ > 小白也会用的情人节表白神器
+ ## [记录每天背的单词，准备考研。（2月15日）](https://blog.csdn.net/qq_41501472/article/details/104324766)
+ > 记录每天背的单词，准备考研。（2月15日）
+ ## [计算机研一保研学生教你大学四年学习、竞赛、出国规划](https://blog.csdn.net/Ema1997/article/details/104345904)
+ > 计算机研一保研学生教你大学四年学习、竞赛、出国规划
+ ## [更快学习编程的7个重要技巧](https://blog.csdn.net/Gnglas/article/details/104340362)
+ > 更快学习编程的7个重要技巧
+ ## [豆瓣高分JAVA书籍，你都读过吗？](https://blog.csdn.net/robot_sh/article/details/104343217)
+ > 豆瓣高分JAVA书籍，你都读过吗？
+ ## [思考：你的工作是否有反脆弱性？](https://blog.csdn.net/wo541075754/article/details/104345669)
+ > 思考：你的工作是否有反脆弱性？
+ ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
+ > 
+ ## [一句话成为心上人“特别的存在”](https://blog.csdn.net/weixin_43329700/article/details/104360488)
+ > 一句话成为心上人“特别的存在”
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
+ > 对计算机专业来说学历真的重要吗？
 # PM 
+ ## [需求文档：没有标准、只有沟通](http://www.woshipm.com/pd/3401196.html)
+ > 虽然标准的文档在一定程度上能够在这些内容表述清楚，通过原型具现出来。但是切记，这些还是需要根据当前公司文化来，按需输出。一味追求所谓标准的需求文档，不去思考...
+ ## [如何优化人机对话对引导，促成用户满意度增长？](http://www.woshipm.com/pd/3400352.html)
+ > 2019年上半年，客服机器人首轮对话引导，进行了设计优化，用户满意度显著增长。而在这个设计过程中，也收获了一次全面成长。本文希望通过文章沉淀分享，互相学习成长。...
+ ## [防疫物资预约的后台逻辑](http://www.woshipm.com/pd/3400978.html)
+ > 目前，各地陆续上线了防疫物资预约产品，用来同意调度防疫物资。本文按照时间维度，结合业务流程，对防疫物资预约的后台逻辑、数据处理进行说明。当前，新型肺炎疫情...
+ ## [实战案例讲解：用户画像如何应用？](http://www.woshipm.com/operate/3400619.html)
+ > 本文独创用户运营5步实战法，每一步环环相扣，从实际业务场景出发，搭建相应的用户模型，并输出目标用户群和画像，进而制定精准营销策略进行营销，以提升用户的生命周期...
+ ## [疫情借势营销：微保好评，平安好医生作死，美的恰到好处！](http://www.woshipm.com/marketing/3400693.html)
+ > 这次疫情，基本上涉及到社会中的每一个人，关注度高且可持续时间也相对较长。很多企业自然也不会错过这样的机会，但多数情况下都踩了雷。本文结合微保、平安好医生、美...
+ ## [需求ROI评估：B端产品经理怎么做需求优先级排序？](http://www.woshipm.com/pmd/3400568.html)
+ > 关于需求的优先级排序的问题，每一次产品经理的招聘都必然会被问到，而我们听得最多的答案关键词之一必定有ROI这家伙，那到底该如何量化且合理的评估这个指标呢？希望这...
+ ## [我们做了一个重要决定，把最核心的6场课免费开放](http://www.woshipm.com/it/3403861.html)
+ > 马云曾说：“经济形势好时，要向外攻；经济形势不好时，要练内功。”2020年我们面临着一个共同的敌人—新型冠状病毒。新型冠状病毒来势汹汹，受疫情影响，企业推迟开工...
+ ## [出海，我们的下一个职业成长机遇](http://www.woshipm.com/zhichang/3400631.html)
+ > 出发吧！向着伟大航路！出海是我逃不出的“宿命”“请填写一下入职志愿信息”，华为的HR在我顺利通过了一轮笔试和三轮面试以后递给我了一张表格。我扫了一眼，看到在市场...
+ ## [凿渠造舟：视频会议的昨天与明天](http://www.woshipm.com/it/3400414.html)
+ > 在远程办公中，视频会议、电话会议成了其中一个最重要的组成部分。突然密集的需求可以让我们重新审视远程视频会议这一产品，它曾经走过怎样的发展路途，在当今又承受了...
+ ## [产品体验报告 ︳一淘产品定位及商业模式的竞争力分析（上）](http://www.woshipm.com/evaluating/3399776.html)
+ > 一淘App是阿里巴巴旗下官方促销导购平台的手机端App，本文结合作者的实际使用情况，对比其他导购电商产品综合分析和总结一淘的当前市场竞争力。本文主要围绕「一淘」A...
  ## [数据可视化大屏案例分析](http://www.woshipm.com/pd/3400384.html)
  > 很多UI设计师突然会接到公司数据可视化设计的需求，如果不了解数据可视化设计，肯定是一头雾水，不知从何入手。我尝试简要的把我近期做过的案例进行记录分享，不足之处...
  ## [疫情下，上半年“求职”还有机会吗？](http://www.woshipm.com/zhichang/3400363.html)
  > 还有两周，就是“金三银四”了，相信很多产品朋友都很挣扎，一方面理智告诉我们，今年的金三银四大概没有了，另一方面感性告诉我们，也许影响没有那么严重，也许运气好还...
- ## [对于“项目管理”的一些理解](http://www.woshipm.com/pmd/3400324.html)
- > 项目管理是管理自己，影响他人。管理方式与技巧只是形式，真正要懂得的是理解人心。因人而异，因地制宜，对于不同的情况采取不同的方式和应对方法。好了，说到做到，...
- ## [产品经理，你要如何先学会生存？](http://www.woshipm.com/pmd/3400154.html)
- > 动物界有规则，人在企业的组织内也有规则制度，学会保护自己，赢得生存。那对于产品经理来说，要如何先学会生存呢？很多人看过动物世界，或者相关自然类纪录片。时间...
- ## [运营人，如何跨行业开展运营工作？](http://www.woshipm.com/operate/3400148.html)
- > 跨行业的运营，不管是跳槽也好，公司内部转岗也好，都是对于一个运营人员的一次新的挑战，也是对于一个成熟的运营人的一个基本功的验证。跨行业做运营应该具备什么样的...
- ## [2020年的5种UI趋势](http://www.woshipm.com/ucd/3399247.html)
- > 与时尚一样，网页设计也有其趋势，并且每年都在变化。我们将趋势分为两个方面：用户界面（UI）和用户体验（UX）。在这里，您会发现将在2020年蓬勃发展的界面设计趋势和...
- ## [棉花行业的效率问题，如何伴随产业互联网得到提高？](http://www.woshipm.com/it/3312237.html)
- > B2B行业的棉花电商平台，一直都希望以“科技+服务”来赋能棉花产业，解决行业中存在已久的痛点，提升整个行业的效率。近年来，棉花电商进入竞合阶段，行业龙头开始加速...
- ## [经验分享：如何做好产品可行性分析？](http://www.woshipm.com/pmd/3399425.html)
- > 全方位的产品可行性分析，可以最大限度避免产品后期经不住市场考验，避免投入过多人力、物力、财力而收效甚微。作为一名产品经理，会面对千奇百怪的需求，也会面对无...
- ## [干货：如何精准运营推送？](http://www.woshipm.com/operate/3399755.html)
- > 通过对用户移动设备进行主动的消息推送，第一时间就能吸引用户的注意力，并促使用户借此点开产品去往对应的页面。这种方法是用户分群运营中最常见的，成本最低，最容易...
- ## [以集五福为例：如何策划一场超级营销？](http://www.woshipm.com/marketing/3399721.html)
- > 在流量的黑森林里，只有超级营销才能穿过黑暗，发出耀眼的光亮。什么叫超级营销呢？\[超级营销\] 即互联网时代的大整合营销，是指将企业所有的产品技术、运营服务、公...
- ## [增长案例丨为 Keep 设计一场增长实验](http://www.woshipm.com/operate/3399582.html)
- > 每套方法论都有自己的逻辑闭环和不同的适用场景，也存在在执行时仍然存在的困惑，根据自己遇到的困惑，拆解输出的方法论理解消化后输出自己的方法论，才是最合适的做法...
  ## [靠谱PM的方法论：全面&深入思考](http://www.chanpin100.com/article/110754)
  > 只有惊喜，没有意外。持续稳定的输出，是靠谱PM的特质。
  ## [居家隔离带来的互联网产品红利之“豆果美食”](http://www.chanpin100.com/article/110753)
@@ -244,17 +266,5 @@ IT&#22521;&#35757;&#21697;&#29260;&#8220;51CTO&#8221;&#33719;&#39640;&#25104;&#3
  > 写作初心:提升自我，帮助有缘人。
  ## [疫情当前，RPA可以做些什么](http://www.chanpin100.com/article/110747)
  > 危机、变革、机遇
- ## [用户体验设计之路（二）需求到界面的距离](http://www.chanpin100.com/article/110745)
- > 需求与界面之间是存在距离的，这个距离就是设计规划，这是一个单独的阶段！
- ## [产品面试系列——如何回答改进一款产品](http://www.chanpin100.com/article/110744)
- > 面试官通常会让你自己选择一款产品，如“挑一个产品。如果要你来设计，你会怎么改进这个产品”，或者面试官会指定一款产品，如“如果要你来设计，你会怎么改进某产品”。无论是哪一种说法，解决这类问题都是有章可循的。
- ## [深度：AI医学影像辅助诊断商业模式分析](http://www.chanpin100.com/article/110742)
- > 说来忏愧，“我”还在烧钱！
- ## [面试前中后如何做好准备和总结？](http://www.chanpin100.com/article/110741)
- > 因为最近经历了3场产品面试，希望这边文章能帮到大家做好面试前中后的准备和总结。
- ## [0-3岁的产品经理必懂的数据分析方法（6）-归因查找法](http://www.chanpin100.com/article/110740)
- > 归因查找的作用是帮我们找出一件事件发生的主要原因是什么~
- ## [为什么说b端产品经理都爱表格功能？](http://www.chanpin100.com/article/110743)
- > 分享——产品经理们最爱的表格功能！
 
     
