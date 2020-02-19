@@ -1,7 +1,7 @@
 ---
 title: 2020-02-19 IT News
 copyright: true
-date: 2020-02-19 12:13:43
+date: 2020-02-19 17:01:57
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,35 +69,51 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [用户可以查验短信 作为本人行程证明](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=pObwvug4*sCgQmy6ZKa9G6LagjhQcSYPwhdJoomBt1mT9LAGPzTfM1DH*uPEJhIzWwdOfZJ-O2Vq-lTS1PIdfe0U9fP*SifXTPwZWu2qcng=&new=1)
- > 据新华社电 记者18日从工信部获悉，在工信部统一组织下，中国电信、中国移动、中国联通为全国手机用户免费提供本人到访地短信查询服务。用户可通过编写“CXMYD”发送至10001、10086或者10010并按运营商...
- ## [数字科技助力疫情防控，机器人如何成就智慧物业?](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=KN0G04s8jxAjcjkg0vJxnJCBN18fP6f4PA04bLBINgLpDHqedyniILLzfLB72pZnSGoFkekt57Hv07J9lYcO4CyoR0ggsHlCnzsdTmFoTMtF1*IU8BcKLhJbpkM7zykJ&new=1)
- > ▎世联研究丨By：世联评估价值研究院摘要2003年的“非典”，推动了中国电商等数字产业的发展，此次新冠肺炎疫情也必将带动中国数字经济进入更高层次和更快发展。本文借鉴在此次疫情防控中，数字科技在医院和社区...
- ## [工信部发布疫情期间信息安保重要通知](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=K-GFmhZTr3pd6Kdfga3WIlkKf*sOdXtFTlslvo9W4AzJDH1oxLTu15mS9s9h8VDGBD-EaAA4dhzDiepamaDzTDs1vyZO4Fcy4Ivxc3G8HLTJP-H0A5NhFr8wLkls9IEi&new=1)
+ ## [2020年搞深度学习需要什么样的GPU：请上48G显存](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=91rjC3a2zRkROwpzUKWFoIU2cE-kZ*f-Pp-oajejongDzJ0u4-*DrM1Z8bCf8Eobhyyz9KUL8Fm0agGdYUYOeQ7bkCyAOLIxef-mCbDsibQVIyRBMF6zwWEV-tIsn-KY&new=1)
+ > 机器之心报道参与：思、泽南、jamin2020 年，什么样的 GPU 才是人工智能训练的最佳选择？本文给出的结论似乎告诉我们，开发深度学习距离「普通人」越来越远了。众所周知，当今业界性能最强（SOTA）的深度学习模...
+ ## [现在是寻求与新的企业技术供应商合作的时候了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=ZuebP7iK8hn5nUJ5icfiYu3Q4JmrT*CMIqZ2MGG5*PO7IMmOvni8lpHcLYrHEhKfZuThxI*v4AlJ4mlQOQeCG22EFMxi*q4GMmE3n-J4W8prnaibyKttlOzGaipUVTKk&new=1)
+ > 关键讯息，D1时间送达！很多企业可能与其IT供应商建立了长期关系。无论如何，很难与已建立的技术联盟中断关系。当然在多云时代，供应商锁定仍然是一个不利因素。很多企业可能与其IT供应商建立了长期关系。无论如...
+ ## [HTC与你一同防疫](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=EhNzwKA8I9tkMBpG1jNit1qCDXFeqU7tm7z2evW4Ir7UqRq2zfDnHHhR3akvu-dsUQFnFsdwP3ueJFOZOpT*jZy7ZOyD2mlL8-lZqShqtPT6YaO75640CmIyG*dza9v6&new=1)
+ > 93913.com眼见即为真实（点击底部“阅读原文”，了解更多最新资讯）来源｜93913作者｜VRの酱为助力抵抗疫情冲击，全球智能型手机与虚拟现实创新设计领导者HTC宣布于2月19日起，中国用户可限期免费订阅VIVEPORT无...
+ ## [异构计算崛起，GPU加速计算服务器FP5468G2应运而生](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=u8Phky1HZMb20A0eqiAmNCze3S18779Z1cgmKmEbHDt8Ym-E8y5oZ-Ays8NhPwJPokur1OpdR-8txQmc1q4aM2qpL*7lDGalf4EEgHwfrFuhLIwRTk-v87lynnKowQRo&new=1)
+ > Inspur Power Systems - 浪潮商用机器
+ ## [瞭望丨除了健康码，大数据、工业互联网还能如何助力抗疫?](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=5wMbb*2suMA7OypsJss3epoKprVo*4NojK-3lRQ3AOhDqq3sWKoutOYPpBb64jLrnXN5wuddxk5DnxNi2L6aCnw42Q3aIRSP7aWjGo5D9u2XWbwNdPVNnqhwCnCzMt*v&new=1)
+ > ◆ 我国大数据和工业互联网已发展数年，它们在疫情中发挥了什么作用？对我国应急体系有何影响？又有哪些短板还要补齐？◆ 瞭望本条微信两篇文章《催动工业互联网加速成熟》、《大数据助战抗疫应急》描述情况、作...
+ ## [3D打印人体骨骼?这家哈佛大学孵化的公司要为中国医生开发自己的软件平台](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=9rqBDs0VHOLdtTgOcMZEWKNyiQl*OICDSPZzfOBz81J7bKLPCK06f6ruKyHhUYAASAz7RYxV5W9vrNAw1kKeBIJ*xzUn3jZ2xcmzE2zMzwChzia63tlg-vaVTiVS-uY4&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作我们每个人都是独一无二的。从瞳孔、指纹、牙齿，到深藏于身体的骨骼。意外创伤、其他疾病引发的骨头坏死、甚至是因工作姿势不良等引起的颈椎、腰椎劳损等病痛长期折...
+ ## [热点聚焦|复工如何避免间接接触?人脸识别门禁实现硬核防控](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=G6s3U0NgZRb2A510lrDjiWmigJKmNpuvOB5JD4DSRKd348VbcnOJTD2Uu8v6WzGT8Z14-9Mh8m6m1AdmVlCa9yInZkLN4gVvwf6GfpINSMnvw5Uqe44RKbIJME70iffq&new=1)
+ > 随着返工日的临近，全国各地陆续恢复生产和工作，与此同时，疫情预防的工作也不可松懈。据悉，新型冠状病毒的传播方式主要为飞沫传播和间接接触，当下，人人出门都会佩戴口罩，并且经常洗手，可以有效预防飞沫传...
+ ## [巧在疫情前夕 这家钉钉系智能办公企业获投数千万：2千人公司客户100家](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=U1wODB4UFPT8Sb6GTVJYzfuHtN*B-fv93cBUe5qalV1GMRQKG2KgUhCVit1P8LUazGcMRTyRFKjbmr*XufPL1lCb0mQNsAsfo5fg0sm9z39CR3yIHlYP9YD*APeoN1sx&new=1)
+ > 孔尧说，做硬件并不是难点，但如何让硬件与企业管理融合起来才是难题。记 者 | 城北杨公编 辑 | 吴晋娜“疫情之后，智能办公大火。巧在疫情前夕（1月7日），这家公司获得了毅达资本、联通创投的数千万A轮融资，...
+ ## [申请向华为发货未果，美国FPGA芯片之王赛灵思被迫裁员](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=8j2uH*LTOud83Qdx0MrefvokBB6jwf3SX3ePgxtrW1ie1yORhOfN9LhFFzauMfNwx85ODDtEQZg0W1E2EjSlnIeR99lEO-4d-W6vxTS8Nss=&new=1)
+ > 美国IT媒体TheRegister网站2月16日发表文章, 主题为：在美国国内如何感受到中美贸易战：在利润丰厚的华为销售渠道受阻后，Xilinx(赛灵思)公司开始裁员。硅谷公司赛灵思开始一轮小规模裁员，这是美国政府对这家FP...
+ ## [金融业必备!全线上企业身份认证来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=c8XLIDYZoXORdFPrUBbpTFk0BEl8YwXiaZT6USK0cSrSb3cBjBbvaGSiCUe6Ka7nq0K6tDNnZ2YypJTcoh8qs357Ur8lWOh9XyRBh2YAk408skHZZJCzq6AG36aGP4Mp&new=1)
+ > 当前，关于新冠病毒的这场全民“战疫”仍在持续，2月10号起各地企业陆续恢复办公，开启“在线办公”模式，同时企业也面临着部分业务需要见面才能办理的难题。在办理银行企业开户、企业报税、社保公积金等业务时...
+ ## [一次说清疫情结束之后科技圈的八大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=DYWhrYwKI6c1Y0bQ1nultuPCBeXsv*qLPSQpZCzhiFoNOI0qxLwnXPJXYsIZAxz4dcxFy2FtaPD-3qjE48yj305jA9PG44a5K6C2UMpAZ1OQIoa11Ngq2kDc8JapnsFt&new=1)
+ > 2020年开年，一场冠状病毒引发的疫情打乱了人们的生活节奏，疫情的发展也成了大家当下最为关注的问题。笔者也不例外，作为北漂一族，笔者在1月28日到达北京之后，就一直自行在家隔离，心情也在隔离期间，从最开...
+ ## [工信部发布疫情期间信息安保重要通知](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=K-GFmhZTr3pd6Kdfga3WIlkKf*sOdXtFTlslvo9W4Aye33dNK4f8icwEoytXrwgm3QhjFVCLcnGJ4e1A*roXDJ5yjeWDLPa-U1o6EY1AvPEu1wUfW3QBd6wIsGVZD65e&new=1)
  > 通知提出，要确保疫情防控期间网络基础设施安全，防止发生重大网络安全事件。一、全力保障重点地区重点用户网络系统安全      （一）加强重点用户网络安全技术支撑。充分发挥信息通信行业网络、技术和队伍优势，...
- ## [解析：大型SLM金属3D打印机装备的研制难题，镭明激光](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=3FS0n48eaaYfQ-nzXQXRGi7-0Q5hZrxcyPX4RF8uxmQ80-*-K0jUmU38JU3BbWxjB2nzRQ0vA4Ap7kDiOvVlgygNkoTt70sgzsUiKq*vTRn2-Qucdui484buwo8HAmYa&new=1)
+ ## [解析：大型SLM金属3D打印机装备的研制难题，镭明激光](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=3FS0n48eaaYfQ-nzXQXRGi7-0Q5hZrxcyPX4RF8uxmRVfwJB86ldB2BPmg5ia54HmFoNAxaxumbjXTg-HLqZQD*pXjj3L7akuJ1HH-ExEE8jyc2BYYs3UmKF9NeAOqxj&new=1)
  > 南极熊导读：随着产业应用的深入，下游需求客户对金属3D打印的要求越来越多，其中尺寸上的“大”是一个非常重要的诉求。大幅面大纵深的3D打印机需求增涨迅猛。2020年2月，南极熊获悉，天津镭明激光作为一家专业...
- ## [7点见|苹果或于下月发布廉价版新iPhone；运营商短信可提供“行程证明”](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=AkLpnd0G0ts4q*b8ONB8R8DbbxSa3X14RoYJcPeeuXEaBNe45QIm1YfwL*RXsM6qa02U-5N9ZAroLvqNu4VZHBowzdKixkh3AkQIMR*CcS0Ii-DCyf6OdesOueVUbl8e&new=1)
+ ## [用户可以查验短信 作为本人行程证明](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=pObwvug4*sCgQmy6ZKa9G6LagjhQcSYPwhdJoomBt1kLHKbtPBWYvr2GIhf8UrAUH1IiDXfSm*iDLe0O3hmR*kVmE-MwfrBCx5O1nCBOgS0=&new=1)
+ > 据新华社电 记者18日从工信部获悉，在工信部统一组织下，中国电信、中国移动、中国联通为全国手机用户免费提供本人到访地短信查询服务。用户可通过编写“CXMYD”发送至10001、10086或者10010并按运营商...
+ ## [数字科技助力疫情防控，机器人如何成就智慧物业?](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=KN0G04s8jxAjcjkg0vJxnJCBN18fP6f4PA04bLBINgKwleuSM08IUm25gix9aroa83kNBSXmCamcvU5eIiEeuV-EKdLvS0wpQeBBGUTb3gnrlB76dYEGns8psofIOnPO&new=1)
+ > ▎世联研究丨By：世联评估价值研究院摘要2003年的“非典”，推动了中国电商等数字产业的发展，此次新冠肺炎疫情也必将带动中国数字经济进入更高层次和更快发展。本文借鉴在此次疫情防控中，数字科技在医院和社区...
+ ## [7点见|苹果或于下月发布廉价版新iPhone；运营商短信可提供“行程证明”](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=AkLpnd0G0ts4q*b8ONB8R8DbbxSa3X14RoYJcPeeuXEEi3iNBgHvtozmRduoAU4n8S48w0Yybl59hOvm875QoyxOj*DP8wASCKjSZP9GDrEuEGsQzu7s4gXZUieBE4Ff&new=1)
  > 各位小伙伴们，早上好呀！昨日，某公司员工网上爆料称，公司突然要求全体员工在公司吃住，为期一个月，公司提供独立帐篷&amp;行军床、一日三餐＋水果＋口罩，如果有特殊情况要回家，安排车接送，或者报销来回车费。...
- ## [\[报告\]BCG：新冠肺炎疫情对中国汽车产业的影响(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=n9RclHJ4YAUOvSO59DyFxRT0DsulnNGrN4CsUTOBC3fYmAEsJb9EGp02VX5JA87HbtIeZkYuGj2XxK3mVAThIaMJWbmeGl6LtnemMlL91bvlERaTpjNiD0LbzOHn-g9J&new=1)
+ ## [\[报告\]BCG：新冠肺炎疫情对中国汽车产业的影响(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=n9RclHJ4YAUOvSO59DyFxRT0DsulnNGrN4CsUTOBC3dueIKzjXvEsu4Nc-SNEgkggnlYM9pCqIeeyFX-Mz5lyxA*tu-fN7SmfyBhi3-8jmP7uwIxC0iN*F5BfHZz0nL2&new=1)
  > 2020年2月14日，BCG波士顿咨询最新发布《疫情对中国汽车产业的影响》。报告显示，汽车行业也面临着劳动力短缺所带来的全国乃至全球供应链风险。作为零部件出口大国，中国此次全国性延迟复工也会加深全球汽车供应...
- ## [\[科技早报7点整\]淘宝起诉假冒口罩店铺索赔百万 美国考虑切断全球芯片供应商向华为出货……](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=e3t68N5xsCEQQXc3HvBNy6MeWs8CYDWBE7IQCecsP9-niaKkRkDpQMOb1l5QCoDBSeqOoftyXw5sjE7sgmuGmvWse*AnlNVfns203leaqBTqhaIAgCon3llmqUKeWoh9&new=1)
+ ## [\[科技早报7点整\]淘宝起诉假冒口罩店铺索赔百万 美国考虑切断全球芯片供应商向华为出货……](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=e3t68N5xsCEQQXc3HvBNy6MeWs8CYDWBE7IQCecsP9-CMA82W-Xv0IrTopi2uNzAWxFvd011lvUhxDssHYmejy1LZ3fFDDiDG*VRXNRiz8bKo2PrVG5wQKM*F8cFj-tK&new=1)
  > 早上好，科技圈【一度蜜科技早报】第724期1.工信部提醒：短信可以为您提供“行程证明”为支持复产复工，帮助返岗复工的用户证明自己近期所到访过的地区，协助流动人员的行程查验，在工业和信息化部统一组织下，...
- ## [美国第三次延长华为临时通用许可证时间 这次仅有45天](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=1pPsVW3t8PN3*GJ0Y4t34ATdsvhsCRVtAmnUhF*3sbBvxj7W5wHbkwCU5bG5WSWpg3GS2usNCAzCj3A*SIPin*rMY32MFlb32P0okSNeu*DTtHL6yUxy-BepJjIyCRGX&new=1)
+ ## [美国第三次延长华为临时通用许可证时间 这次仅有45天](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=1pPsVW3t8PN3*GJ0Y4t34ATdsvhsCRVtAmnUhF*3sbD8aWJ685KudmKMr8fTN0M*syc0bPTtDiK-Mp1p6AEz*m82fN7z-UKh31fYfwaEOSgtr3Bhom*JMIb2vRSSGOdH&new=1)
  > 导读：lightwave消息，美国商务部产业安全局(BIS)已为华为技术有限公司及其非美国分支机构继续发布第三次的临时通用许可证(TGL)，以让华为继续购买美国组件和相关技术。美国商务部表示将用45天的时间来确定是...
- ## [远程办公开启中国To B元年](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=004tRuyR9NPZp8Frb4i2hq01H9Wxoe8XGLdYQXBmYyIf-zZBKcNqws2K9IFLguy7uljmwiUvMFkYC9HzoohfuxdiHOeNkqOmCytrtsCrHjpihx3f-MvAbnnaXXkg-We0&new=1)
+ ## [远程办公开启中国To B元年](http://mp.weixin.qq.com/s?src=11&timestamp=1582101062&ver=2167&signature=004tRuyR9NPZp8Frb4i2hq01H9Wxoe8XGLdYQXBmYyLyyhqmwgwOyFEdurtA2T9hvBttXy4A1zBMXdSywllKc4eiPIb4FOihB86Jhep8rXnJ-BhYQI*kfR4JAxvVh55m&new=1)
  > 疫情无情夺走了众多无辜百姓的生命，也让很多中小企业以及千万家庭的经济生活变得更加艰难……在众多企业无法正常复工的情况下，一场浩浩荡荡的远程办公打响了抗疫战。 不过远程办公持续才刚刚一周左右的时间，...
- ## [Qualcomm推出第三代5G调制解调器及射频系统](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=lx4NV-m*lBSJYPnsYrj9u2OKidRx7kKtLEdPof0PAXzOUgzco950kqZX65rEGloOX7NKnnFttUjuVBftgYUrCghncfnCeOnYDvnc9QShyyoeF5-q*Znt-u9cy-8n2P5o&new=1)
- > Qualcomm要闻—Qualcomm 骁龙 X60 5G调制解调器及射频系统采用全球首个5纳米5G基带，并首次支持5G毫米波和6GHz以下聚合，为全球运营商提供前所未有的频谱部署灵活性，为全球消费者带来增强的5G性能。- 2020年2月...
- ## [发一条5个字母的短信，可以提供行程证明!](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=pObwvug4*sCgQmy6ZKa9GxBPtEZ4lsEA423cjY6I3VohhY684wa6xd8m26OyOqVyjr8SO2LrtyoA8m8jf6Q4wJO1QQlvigq-4TuqVSg*pdUe2hEZq1Qq5mbR1L8ztn6u&new=1)
- > 2月18日，来自工信部官方微博@工信微报的信息：为支持复产复工，帮助返岗复工的用户证明自己近期所到访过的地区，协助用工单位、社区管理进行流动人员的行程查验，在工业和信息化部统一组织下，中国电信、中国移...
- ## [从进口替代走向弯道超车 华峰测控上市志在国际领先](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=Bii5ywPVEjRlSZ8jEyfPdHHzVADuGXNo4VXRdFjSVghCNSDLQBfEWfFTBb8QsXILjQEgffMIUvKCmmgJ00wk1H-FGcl2NgL*W-vvdw*pvCMJG*QL1DjttK6JrswT9nqZ&new=1)
- > 文 | 挖贝网 黄伟_从2018年4月的中兴断供到2019年5月的华为断供，美国政府频频对我国企业釜底抽“芯”，凸显了作为我国信息产业基础和核心的半导体产业整体落后。2019年2月13日，美国政府宣布将允许美国公司继续...
- ## [户均7小时 疫情能否刺激彩电市场回暖](http://mp.weixin.qq.com/s?src=11&timestamp=1582084805&ver=2167&signature=jJZbPXImofeFYehO4f83u0egrUi9nLfuttSwKGky86bHinTnuWeIPBs5zwsoDRlOBfQzpmIkt7ST*CWugee3s4vm1yk04qp9a*W8BbsxtLv2qVPT5mKOQTieij9-ojTQ&new=1)
- > 由于疫情的蔓延，人们不得不“禁足”在家中，但百无聊赖的生活却让日渐沉寂的电视活跃起来。2月16日，最新发布的数据显示，春节期间每日户均观看电视机时长近7小时，创下了近几年的新高。诚然，随着年轻人花在手...
 # IT 技术 
  ## [如何在软件开发中避免出现漏洞](http://developer.51cto.com/art/202002/610868.htm)
  > 如何在软件开发中避免出现漏洞
+ ## [Hulu如何扩展InfluxDB使其支持每秒百万TPS](http://database.51cto.com/art/202002/610882.htm)
+ > Hulu如何扩展InfluxDB使其支持每秒百万TPS
  ## [Nginx为什么快到根本停不下来？](http://developer.51cto.com/art/202002/610841.htm)
  > Nginx为什么快到根本停不下来？
  ## [工业互联网三年内必死？看完这份工业数字化转型，你会有答案](http://www.cioage.com/art/202002/610837.htm)
@@ -110,58 +126,56 @@ categories: IT NEWS
  > 震惊！No-SQL正淘汰SQL？
  ## [钉钉在线“求饶”，大声喊爸爸！](http://news.51cto.com/art/202002/610852.htm)
  > 钉钉在线“求饶”，大声喊爸爸！
- ## [面试官：“看你简历上写熟悉Handler机制，那聊聊IdleHandler吧？”](http://news.51cto.com/art/202002/610817.htm)
- > 面试官：“看你简历上写熟悉Handler机制，那聊聊IdleHandler吧？”
- ## [2020年，企业级SaaS被疫情“按了暂停键”？](http://cloud.51cto.com/art/202002/610878.htm)
- > 在抗击疫情期间，一封由238家SaaS企业签署的公开信在网上流传，主要内容是“现金流量吃紧，希望国家及各界
- ## [Wi-Fi 6为什么能多人使用而不拥挤？英特尔科普来了](http://network.51cto.com/art/202002/610877.htm)
- > 日前，英特尔官方针对&quot;Wi-Fi6为什么能多人使用而不拥挤&quot;的问题进行了解答。英特尔通过两张示意图进行了讲解
- ## [AR/VR行业应用什么进展，Unity一篇报告就清楚](http://mobile.51cto.com/vrar-610876.htm)
- > 2020年开始，意味着AR/VR行业也将迎来一个新的十年，在这个转折点可以看到AR/VR技术已经从初步试验阶段步入
- ## [再见！iPhone越狱已死](http://mobile.51cto.com/news-610875.htm)
- > 随着越狱需求的减少，PP助手在iPhone上出现的频率越来越少。最近小雷看到一条新闻，PP助手将于2020年2月28
- ## [谷歌新一轮裁员，云计算部门 50 人首当其冲](http://cloud.51cto.com/art/202002/610874.htm)
- > 根据《华尔街日报》 2 月 14 日的报道，谷歌云正打算削减一些工作岗位，调整谷歌云对国际市场的关注程度，
- ## [带有面部识别的口罩可解锁 iPhone ，网友：duck 不必](http://news.51cto.com/art/202002/610873.htm)
- > 近日，产品设计师 Danielle Baskin 发布了一款带有面部信息的口罩，让人们带着口罩也能用 Face ID 解锁手机
- ## [为什么给Java代码加个空行，class文件就翻脸不认人了？](http://developer.51cto.com/art/202002/610879.htm)
- > 想说爱我就那么难么?怎么这么多的废话呢?这次探讨的主要问题是，给Java源文件加个空行之后，它生成的字节码
- ## [书本上学不到：万台服务器下运维怎样做好监控？](http://news.51cto.com/art/202002/610871.htm)
- > 智能运维其实比较好的落地点是在监控领域，因为监控领域有大量的数据作为基础，可以做大量的智能分析和处理
- ## [人工智能在网络安全运维服务中的应用](http://netsecurity.51cto.com/art/202002/610870.htm)
- > 近年来，国内外网络安全形势趋于复杂，关系到国民经济命脉的关键信息基础设施在传统模式下得不到有效保护。
- ## [笔记本玩游戏发热怎么办？别学我用嘴吹 教你正确姿势](http://biz.51cto.com/art/202002/610869.htm)
- > 笔记本一直以来都是非常火爆的科技产品，这是因为笔记本的便携性是台式机无法比拟的，体积小，出行携带方便
- ## [终于明白阿里百度这样的大公司，为什么面试经常拿ThreadLocal考验求职者了](https://blog.csdn.net/X8i0Bev/article/details/101086604)
- > 终于明白阿里百度这样的大公司，为什么面试经常拿ThreadLocal考验求职者了
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [《奇巧淫技》系列-python！！每天早上八点自动发送天气预报邮件到QQ邮箱](https://blog.csdn.net/weixin_45081575/article/details/102886718)
+ ## [2020程序员技能展望：平均年薪5.4万美元，雇主最看重JavaScript，小公司青睐全才](http://news.51cto.com/art/202002/610904.htm)
+ > 随着市场需求的变化，最受欢迎编程语言的头把交椅从早年的 C++，到 Java 再到如今的 JavaScript、Python，
+ ## [疫情期间都用上哪些热点技术？AI、5G、RTC，大数据纷纷登场](http://news.51cto.com/art/202002/610900.htm)
+ > 2020年这场突入其来的疫情，在AI、5G、RTC、大数据等科技技术的帮助下，从技术和数据的维度对疫情期间的预
+ ## [2020年搞深度学习需要什么样的GPU：请上48G显存](http://zhuanlan.51cto.com/art/202002/610902.htm)
+ > 在 lambda 最新的一篇显卡横向测评文章中，开发者们探讨了哪些 GPU 可以再不出现内存错误的情况下训练模型
+ ## [常见的八类监控项目组网系统图，一文了解清楚](http://server.51cto.com/Cabling-610899.htm)
+ > 做为一个做监控项目的弱电人，心中不得不有几张常见监控系统图，只有了解组网系统图后，做监控项目的各个环
+ ## [只需一行代码，你的纯文本秒变Markdown](http://news.51cto.com/art/202002/610901.htm)
+ > 只要你有纯文本编辑器，加上一条语句，瞬间它就可以成为 Markdown 编辑器。
+ ## [我们为什么需要图数据库？](http://database.51cto.com/art/202002/610898.htm)
+ > 当前，互联网数据呈指数级增长，但是以更快速度增加的是数据之间的关系。企业的 CIO 和 CTO 不仅要管理大量
+ ## [Excel狂魔？单元格做计算机视觉：人脸检测、OCR都不在话下](http://news.51cto.com/art/202002/610903.htm)
+ > 计算机视觉是什么？过于专业，一步劝退？在普通人看来，计算机视觉是软件开发者才能涉足的领域，需要用到
+ ## [换血！重写旧系统的一场噩梦被我亲手终结](http://developer.51cto.com/art/202002/610896.htm)
+ > 不少工程师对旧项目和代码库谈之色变。但如果旧代码反复遭到黑客入侵，那就躲无可躲，必须提出有效的方案解
+ ## [5项人工智能实例，令人惊叹](http://ai.51cto.com/art/202002/610894.htm)
+ > 为了让人工智能成为主流，科学家和研究人员付出了更多的努力。正因如此，这项独创性技术不仅已经融入了人们
+ ## [看我如何把Redis使用优化到极致](http://stor.51cto.com/art/202002/610897.htm)
+ > 我们在使用hashtag特性时，一定要注意，不能把key的离散性变得非常差。
+ ## [关于研发效能提升的思考](https://blog.csdn.net/huver2007/article/details/103260847)
  > 
- ## [死磕YOLO系列，YOLOv1 的大脑、躯干和手脚](https://blog.csdn.net/briblue/article/details/103149407)
+ ## [【多线程高并发编程】Callable源码分析](https://blog.csdn.net/qq_16855077/article/details/104382709)
  > 
- ## [知乎高赞：中国有什么拿得出手的开源软件产品？(整理自本人原创回答)](https://blog.csdn.net/yanglr2010/article/details/103173344)
+ ## [大学四年自学走来，这些珍藏的「实用工具/学习网站」我全贡献出来了](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
- ## [20行Python代码爬取王者荣耀全英雄皮肤](https://blog.csdn.net/qq_42453117/article/details/103190981)
+ ## [如何写一篇技术博客，谈谈我的看法](https://blog.csdn.net/Java_3y/article/details/103232659)
  > 
- ## [简明易理解的@SpringBootApplication注解源码解析（包含面试提问）](https://blog.csdn.net/Ccww_/article/details/103195526)
+ ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
  > 
- ## [西游记团队中如果需要裁掉一个人，会先裁掉谁？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/103214104)
+ ## [【图解算法面试】记一次面试：说说游戏中的敏感词过滤是如何实现的？](https://blog.csdn.net/m0_37907797/article/details/103272967)
  > 
- ## [Python语言高频重点汇总](https://blog.csdn.net/qq_38727847/article/details/103222616)
- > Python语言高频重点汇总
- ## [究竟你适不适合买Mac？](https://blog.csdn.net/qq_45036710/article/details/103226451)
- > 究竟你适不适合买Mac？
- ## [程序员一般通过什么途径接私活？](https://blog.csdn.net/qing_gee/article/details/103231927)
+ ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [ES6基础-ES6的扩展](https://blog.csdn.net/qq_36232611/article/details/103242196)
+ ## [带你涨姿势的认识一下 Kafka 消费者](https://blog.csdn.net/qq_36894974/article/details/103268467)
  > 
- ## [Python爬虫爬取淘宝，京东商品信息](https://blog.csdn.net/qq_43764365/article/details/103539728)
- > Python爬虫爬取淘宝，京东商品信息
- ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
+ ## [【搞定 Java 并发面试】面试最常问的 Java 并发基础常见面试题总结！](https://blog.csdn.net/qq_34337272/article/details/103205981)
  > 
- ## [Java工作4年来应聘要16K最后没要,细节如下。。。](https://blog.csdn.net/HarderXin/article/details/103971493)
- > Java工作4年来应聘要16K最后没要,细节如下。。。
+ ## [特征工程系列：空间特征构造以及文本特征构造](https://blog.csdn.net/zhaodedong/article/details/103248897)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [安排上！数据科学中必须了解的Python基础库](https://blog.csdn.net/duxinshuxiaobian/article/details/103236496)
+ > 
+ ## [LCD 设备驱动框架分析及核心结构](https://blog.csdn.net/weiqifa0/article/details/103248727)
+ > 
+ ## [快速搭建 SpringCloud 微服务开发环境的脚手架](https://blog.csdn.net/a419240016/article/details/103272117)
+ > 
+ ## [【设计模式】单例模式的八种写法分析](https://blog.csdn.net/qq_44543508/article/details/103249751)
+ > 
  ## [科技战疫丨SENSORO灵思智能安全服务助力疫情防控](https://blog.csdn.net/csdnnews/article/details/104377346)
  > “滴滴滴，请佩戴口罩！请佩戴口罩！” 灵思智能摄像机检测到未佩戴人员即刻预警并发出语音提醒。“验证通过！” 灵思智能门禁系统在人们佩戴口罩的状态下实现人脸有效识别与验证。疫情当前，防护为重，效率就是生命。SENSORO 复工伊始，员工需全程佩戴口罩，但这并不影响疫情防控工作的顺利开...
  ## [全国首个凭“码”出行城市，深圳全面实施人员通行认证管理](https://blog.csdn.net/csdnnews/article/details/104378464)
@@ -193,60 +207,76 @@ categories: IT NEWS
  ## [浅谈程序的内存布局](https://blog.csdn.net/csdnnews/article/details/104386212)
  > 作者 |herongwei责编 | 屠敏前言1、什么是 User space 与 Kernel space？2、什么是栈区？3、什么是堆区？4、malloc 算法是如何实现的？5、Li...
 # 人工智能 
- ## [漏洞复现篇——Apache的解析漏洞](https://blog.csdn.net/weixin_45728976/article/details/104364213)
- > 漏洞复现篇——Apache的解析漏洞
- ## [【JDK1.8源码剖析】Collection接口](https://blog.csdn.net/qq_42322103/article/details/104377199)
- > 【JDK1.8源码剖析】Collection接口
- ## [【软件推荐】电脑屏幕录制软件Bandicam（班迪录屏）](https://blog.csdn.net/qq_41856733/article/details/104364043)
- > 【软件推荐】电脑屏幕录制软件Bandicam（班迪录屏）
- ## [新知mfcc语音识别esp8266继电器开关灯（成为一个DIYer,八）](https://blog.csdn.net/ganggangwawa/article/details/104362794)
- > 新知mfcc语音识别esp8266继电器开关灯（成为一个DIYer,八）
- ## [在线问答：如何把微信聊天记录写入文件？](https://blog.csdn.net/askdevteam/article/details/104379594)
+ ## [IT小公司管理的几点思考](https://blog.csdn.net/zzmlake/article/details/104341749)
+ > IT小公司管理的几点思考
+ ## [「 LaTex 」 如何调整图片的位置](https://blog.csdn.net/Robot_Starscream/article/details/104283560)
+ > 「 LaTex 」 如何调整图片的位置
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 在三线城市工作爽吗？
+ ## [2020美赛A题解题思路（Moving North）](https://blog.csdn.net/qq_42037420/article/details/104323275)
+ > 2020美赛A题解题思路（Moving North）
+ ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
  > 
- ## [我又拿起了《Kotlin核心编程》](https://blog.csdn.net/Agg_bin/article/details/104375560)
- > 我又拿起了《Kotlin核心编程》
  ## [大学生为什么要写博客？意义？](https://blog.csdn.net/zhutubaocsdn/article/details/104364717)
  > 大学生为什么要写博客？意义？
+ ## [GitHub上重要的几个搜索技巧](https://blog.csdn.net/zhixingwu/article/details/104346555)
+ > GitHub上重要的几个搜索技巧
  ## [小白也会用的情人节表白神器](https://blog.csdn.net/qq_41479464/article/details/104316059)
  > 小白也会用的情人节表白神器
- ## [展讯平台手机camera驱动移植_2](https://blog.csdn.net/qq_41188615/article/details/104369793)
- > 展讯平台手机camera驱动移植_2
- ## [LOADRUNNER12性能测试](https://blog.csdn.net/sharep_/article/details/104316763)
- > LOADRUNNER12性能测试
- ## [VMware15.5.1+macos catalina 10.5+unlocker 3.1 解决unlocker下载文件报错问题](https://blog.csdn.net/g707175425/article/details/104359951)
- > VMware15.5.1+macos catalina 10.5+unlocker 3.1 解决unlocker下载文件报错问题
- ## [GTK+Sqlite3 注册功能和登录功能的实现](https://blog.csdn.net/sanla1/article/details/104377494)
- > GTK+Sqlite3 注册功能和登录功能的实现
- ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 130 个相见恨晚的超实用网站，一次性分享出来
- ## [SAP系统中各Client设置说明](https://blog.csdn.net/ot512csdn/article/details/104369601)
- > SAP系统中各Client设置说明
- ## [.fans域名建站助力汽车行业的“粉丝经济”风潮](https://blog.csdn.net/weixin_38354951/article/details/104360129)
- > .fans域名建站助力汽车行业的“粉丝经济”风潮
+ ## [你和那些优秀的人差距在哪里？](https://blog.csdn.net/qq_26542493/article/details/104364163)
+ > 你和那些优秀的人差距在哪里？
+ ## [致我终将找到的兴趣](https://blog.csdn.net/weixin_44682554/article/details/104359985)
+ > 致我终将找到的兴趣
+ ## [绘画作品回顾](https://blog.csdn.net/qq_41973664/article/details/104373804)
+ > 绘画作品回顾
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [努力做个中年程序员](https://blog.csdn.net/w90/article/details/104334062)
+ > 努力做个中年程序员
+ ## [宅家里的26天多，我成功转了个行](https://blog.csdn.net/cyhlili100/article/details/104359771)
+ > 宅家里的26天多，我成功转了个行
+ ## [2020美赛A题解题思路（Moving North）](https://blog.csdn.net/qq_42037420/article/details/104323275)
+ > 2020美赛A题解题思路（Moving North）
 # PM 
+ ## [数据埋点的艺术](http://www.woshipm.com/data-analysis/3405281.html)
+ > 在上一篇文章讲了数据分析的前置工作，这篇将详细介绍一下如何完成完成数据埋点的梳理和交接（细化到执行层面）。定义数据埋点及其交接主要分为四个部分，梳理数据需...
+ ## [疫情当下，对在线旅游的一点幻想](http://www.woshipm.com/it/3390753.html)
+ > 春江水暖鸭先知，旅游业本身作为一个高度环境敏感性行业，非常容易遭受境内外突发事件的冲击和影响。那如果将旅游放在线上，它有会有怎样的发展呢？疫情之下的“冰”与“...
+ ## [PRD分享 | 喜马拉雅产品需求文档](http://www.woshipm.com/pd/3378648.html)
+ > 在移动互联网用户增长红利逐渐消失的今天，拓展业务边界以及增加用户粘性，将会是移动音频相关产品未来一两年的重要发展方向。本文优化方向分为游戏（海龟汤及互动音频...
+ ## [汽车金融服务客户端，该如何进行渠道选择？](http://www.woshipm.com/operate/3404494.html)
+ > 当我们搭建汽车金融客户平台的时候，我们面对了很多的客户端渠道，不管是微信的公众号，小程序，还是自己的APP和官网，都可以作为选择的对象。站在客户的角度，什么样的...
+ ## [如何对APP进行数据分析？](http://www.woshipm.com/data-analysis/3404561.html)
+ > 结合作者多年的APP数据分析经验，给大家讲解一些APP数据分析的思路。记住，只聊思路，不聊实操，希望对一些对APP数据分析感兴趣的伙伴有所帮助。有一个朋友跟我说，他...
+ ## [数据分析必备思维之：问题思维](http://www.woshipm.com/data-analysis/3220236.html)
+ > 数据分析问题是业务人员和数据分析人员之间的纽带，学会提一个好问题是分析问题的基础。但究竟什么样的问题算是一个好问题。日常工作中，我们经常会遇到一些很奇葩的...
+ ## [B端设计：导航菜单的设计5步法](http://www.woshipm.com/pd/3400979.html)
+ > 导航菜单对于用户的使用来说尤为重要，本文是我从实际工作出发，结合自身产品和过去经验对于导航进行的一次全面总结在任意一个B端后台系统中，导航菜单都是不可或缺的...
+ ## [疫情过后，在线教育是否是大梦一场？](http://www.woshipm.com/it/3402749.html)
+ > 这个特殊时期在线教育实现了普惠，全国家校师生集体电子设备开课，看着华丽的新增用户和DAU，这个市场和用户被教育的程度突飞猛进，但是那又怎样？潮水也会褪去，搁浅的...
+ ## [中国咖啡业态分析](http://www.woshipm.com/it/3400486.html)
+ > 当下消费者对咖啡的需求包含三个层次：生理需求、情感需求和社交需求。速溶咖啡仅能满足生理需求，而现磨咖啡能提供更好的口感，不仅能满足最初的生理需求，还能通过精...
+ ## [总结：运营前辈们多年遇“坑”心得](http://www.woshipm.com/operate/3400311.html)
+ > 坑无处不在，当我们遇到坑的时候，要做的是迎难而上，解决问题。今天我们一起看看运营前辈们多年战“坑”的心路历程吧~说到坑，我们常常第一反应会有：怕、惨、立马警惕...
  ## [超级传播者，社交裂变模型下的疫情管控](http://www.woshipm.com/it/3403924.html)
  > 本文将通过互联网营收模型的演进历程，结合不同疾病的传播扩散机制，展现不同阶段互联网营收的核心特征和不同疾病的关键防控机制，一作科普，二作探究，以求为当前严峻...
  ## [如何用小红书打造出爆款网红产品？](http://www.woshipm.com/operate/3404084.html)
  > 本文按照打造爆款网红产品的流程来进行讲解：确定小红书在产品推广中的作用；确定产品输出的调性和卖点；选择与产品调性相匹配的达人；制定推广计划及跟踪执行效果。...
- ## [疫情下，我如何思考运营这件事？](http://www.woshipm.com/operate/3402990.html)
- > 当流量红利过去，需要进入到全新的“路况环境中”的时候，这中间有一个相当难熬的过渡期，这时候，考验的就是精细化的运营能力，只有这时候，你才发现哪哪都是问题了。...
- ## [项目管理工作对于产品经理，是杂活吗？](http://www.woshipm.com/pmd/3403649.html)
- > 项目管理工作对于产品经理，是杂活吗？当然不是，有做“杂活”的体验，大多是没有找对方法，效率不够高。不仅不是杂活，而且还会给工作、自身带来很多附带的价值。刚开...
- ## [线上课程 | “有优秀原先作品的优先考虑”，新人不会Axure原型，怎么拿offer](http://www.woshipm.com/online/3411001.html)
- > 随着互联网行业的火热，越来越多非技术人才涌入互联网。产品经理凭借着高薪、高发展、相较于技术岗位的低门槛，当仁不让地成为了互联网最热门的非技术岗位。前些年，...
- ## [倒推产品需求文档：饿了么（外卖主逻辑）](http://www.woshipm.com/pd/3393697.html)
- > 本PRD文档粗略地分析了在线餐饮订购的市场现状及外卖APP“饿了么”的产品定位和目标用户，并根据分析出的功能和信息结构图，对外卖订购的简要主逻辑绘制了原型图。最后根...
- ## [社区登记工具产品PRD](http://www.woshipm.com/pd/3396819.html)
- > 本人用在起点学院这段时间学习的东西，做了一个比较简单的PRD，是用于提高社区人员方便登记信息效率，有助监控社区人员动向。一起来看看~最近疫情期间，看到很多社区...
- ## [对比3家平台，我总结了疫情数据可视化的8点经验](http://www.woshipm.com/evaluating/3402099.html)
- > 开年以来，随着疫情方面的数据逐渐增多，一些互联网公司也纷纷发布一些可视化的数据产品服务，让用户可以实时并直观了解最新情况，可谓一个便民利器。而本文，则通过丁...
- ## [产品经理，别再只会说“需求就是人们想要的”了](http://www.woshipm.com/pmd/3397524.html)
- > 我们做产品要解决的问题绝不仅仅是“可以满足用户需求”，而是“让用户对你的产品有需求”。作为嘴边最常被提起的一个词，“需求”是什么似乎不言而喻。于是我们常常按照自...
- ## [B端项目丨项目演示应该注意什么？](http://www.woshipm.com/pd/3403137.html)
- > 台上一分钟台下十年功，一次成功的演示背后可能是自己十次的预演。本文是作者经过演示后的几点总结，分享给大家，希望能对你有所帮助。B端的产品经理不仅要熟悉用户的...
- ## [案例研究：电子商务平台设计的5个阶段](http://www.woshipm.com/pd/3399268.html)
- > 在本文中，将带您了解在设计思维过程的5个阶段中，我们所采用的不同技术-从情用户到测试我们的原型-以及我们的发现。我们在Ironhack阿姆斯特丹UX / UI设计训练营的第...
- ## [棉花行业的进销存策略，对库存有何影响？](http://www.woshipm.com/operate/875083.html)
- > 进销存系统在满足基本业务需求之余，因为其所属不同的行业可能会有所不同， 而且由于其内部驱动因素所不同，相应的框架结构也有所不同。皮棉采购背景每月集团计划部...
+ ## [如何学习系统思维？](http://www.chanpin100.com/article/110763)
+ > 建立系统思维，解决系统问题。
+ ## [移动互联网“战疫”报告：办公通讯增幅为去年增幅的65倍，旅游出行跌幅为去年跌幅的3.4倍](http://www.chanpin100.com/article/110762)
+ > 今年这个特殊的春节相较于去年，游戏行业增幅15%，是2019年的2倍；影视增幅8%，是去年的3倍左右；办公通讯上涨明显，增幅150%，网上药店活跃设备增幅由负转正，增幅61%；旅游与汽车的降幅是去年的3-4倍，分别下跌55%及29%。
+ ## [推荐系统“体检”：如何评估推荐系统的“健康”状况？](http://www.chanpin100.com/article/110760)
+ > 您的推荐系统也需要一次全面体检。
+ ## [疫情之下，重新审视ToG行业的“光荣与梦想”](http://www.chanpin100.com/article/110759)
+ > 人工智能，大数据，云计算是新时代的“水电煤”——但当特殊时期来临，当全社会急迫地想将“水电煤”转变为新能量时，才发现一切并没有那么简单。
+ ## [疫情之下，企业如何实现新旧动能转化？](http://www.chanpin100.com/article/110758)
+ > 6 个步骤，打造企业的专属免疫力
+ ## [一文看懂词嵌入wordembedding（2种算法+其他文本表示比较）](http://www.chanpin100.com/article/110757)
+ > word embedding 是文本表示的一类方法。跟 one-hot 编码和整数编码的目的一样，不过​他有更多的优点。
+ ## [【小编亲历】10个新手UI设计师常犯错误，小编已中招，你呢？](http://www.chanpin100.com/article/110756)
+ > 【小编亲历】10个新手UI设计师常犯错误，小编已中招，你呢？
+ ## [一场睡觉直播1857万人围观？！疫情面前怎么选KOL才能完成ROI？](http://www.chanpin100.com/article/110766)
+ > 2020的魔幻开场，是1星好评的钉钉，是宅家工作14天的社畜，是各路转战线上的实业大军，是一场拥有1857万人观看价值7.6万元的睡觉直播……我们终于实现了在家就能为祖国做贡献的理想，而「谁家的圆三」则替我们实现了躺着睡觉也能赚钱的梦想。
 
     
