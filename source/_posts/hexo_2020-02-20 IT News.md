@@ -1,7 +1,7 @@
 ---
 title: 2020-02-20 IT News
 copyright: true
-date: 2020-02-20 12:02:38
+date: 2020-02-20 17:01:52
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -66,27 +66,41 @@ INS&#21338;&#20027;&#21697;&#29260;&#8220;Gisou&#8221;&#23436;&#25104;&#25968;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [高性能3D打印替代注塑?白皮书下载](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=2PFVYLRzCd77UzZ-VSA31QINgHD9VS9*0f5x6-y4CdjVmG1fM03HU1X45FSU4jPrVddh4kJl9AuaNNaEF*tAScV9B5I825vNHEzrP4Y5vEX9cs*o*FL8TH2GNKbjyYCy&new=1)
- > 小广告:《通知：3D打印行业视频直播平台来了，大量干货发布》南极熊导读：注塑工艺作为主流制造方式为生活和制造业各环节提供了成千上万的塑料制品，从发明至今近150年来关于注塑成型有一件事从未改变：对模具的...
- ## [8点见|华为回应“美国禁止联邦机构购买华为产品”；当当网回应：员工尚未确诊](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=h6Eyvo*oBwdA7sQvZEGDPlNxs7EqeVK9xzTdzDlSVzKmbBsGtplpkXU3en2HEN0RGE3u2J8cbqtSLxfNfGr60o2aHmA1zZ2FhrqQO6jdNmtJIpQmKBWqhyUssTACQSNx&new=1)
- > 各位，早上好呀！昨日，有媒体报道称：巴菲特表示，比特币只对交易有用，没有实际价值，他认为购买比特币的人最终总会卖掉它，“美元能够存储价值，但比特币却不能，因此它与贝壳没有什么不同。” 你同意巴菲特...
- ## [RSA大会召开在即 戴尔宣布以20.75亿美元将RSA出售](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=bVub7iou8B4IUjqUlBboLQ8BSpUEvyVE9lVF5tEc-vhXIWY0EP2CvPmkF1pKVFBnu*IXVRo26q7ZoEQIW9*GSt9YiuMZEDuLCoyFdyBfKT5F6ZvMxiJm9Yt79xfGEoR2&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全2月20日讯，近日据外媒报道，戴尔技术公司于官网表示，将以20.75亿美元的价格将RSA出售给以Symphony Technology集团为首的财团，以简化其公司自
- ## [每分钟测温300人?探索触景无限AI技术抗疫之路。](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=ryugaLBkrLyQGNgLZQzumZvkLZbAI20JElhHY7N0NIZFhnUW1s*we9zmdRQnfz2xRsLku7VBhpHXRwwtuabKVBcHPCnPAXVtWff5DWwHxO72IQz8gH5PbJ8jYWR1SACw&new=1)
- > 导读：在上周我们连续发布了多篇机器人技术抗疫方案库推文，受到了业内的关注，而在本周我们将继续深入探索，技术如何在前线发挥作用。为此我们将开启抗疫方案企业采访计划，挖掘前线抗疫核心需求，探索技术抗疫...
- ## [美国税局起诉Facebook丨华为将举办线上发布会\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=mpIRzTCPjNsmiC6cISbDgS30*H9X4qJ-BvuLMutjD45gpMWcVF3GlHd1uG32mLslgxxgTUWZyi4nSAzgB-W3oJMknH1coTAvm*uz9ueeefhqjSjsl8lvesjp0XmBj25W&new=1)
- > 2月19日丨周三【Do说】编辑 | 赵艾虎美国税局起诉Facebook，指控其欠税90亿美元据外媒报道，Facebook公司本周二在旧金山法庭开始面对一桩税务诉讼。美国国税局(Internal Revenue Service, IRS)指控
- ## [三大运营商2019年成绩单出炉：移动各方面第一但电信笑得最甜](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=Lwa1E96cV6Y9f7QSg9nVcDAC1KxPfE6aVDQMYnBBGIOO11j5kRuJuMdlcRbDs6q2tNgzFcXddAYoVscWFxz0n5caKRr07CTrR1enZ3nOr4BPGEvLBl8ARUlxnzGbNVxq&new=1)
+ ## [热点聚焦|打通多方需求 B端公寓成智能锁突破口](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=dmg2TKWE-iA-uO*PlVtOKIemaJCbn2ifhvGMQpWglaHO50shSzViB8UyPcSf7ZqLwlL7QqC6WpihFbJlgJT8heNlGd1a4GsrOM2JYAWPZZZehWTaNni*efUWpRf-dAt6&new=1)
+ > 我国长短租公寓的发展带给智能门锁行业巨大的机遇。据鲸准研究院数据显示，2018年，房地产开发商精装房预装智能锁比例已经达到30%。截至2018年6月底，中国3000万套B端运营的住房租赁公寓，智能门锁市场渗透率10%...
+ ## [中国移动已是全球规模最大的5G运营商](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=VmMTuvrODAn-YEuzn4BjAbxsRl27GlrcQIoIw6EMUZFHQaXbtHOSOx3u7aTgBEU4KSJ-XQv3osNB0LRpCwjeqByPJuJTJqzXVDQsHKnuEsow2lUj2auSA3UVRSD6jwZp&new=1)
+ > 近日，据媒体报道，截至1月底，中国移动已开通5G基站7.4万个，发展670余万5G套餐客户。掐指一算，这一数字意味着中国移动已超越韩国运营商，成为全球规模最大的5G运营商。来看一看韩国的5G网络规模...▲韩国5G基...
+ ## [中国联通多措并举切实帮扶产业链合作伙伴与中小微企业复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=-P71F*RBeDvp3C7x28XKr1P1eDAr5NMey2wqSk*IjTOvanzSLjo0lXqvlmWf-17oEN-20Jo-Zg54vC2hC1851230XSXQJVy6rcQP-MJfq7A9aqQYEOU41DkND**AhCj6&new=1)
+ > 新冠肺炎疫情影响下，不同程度的停工、停产、停业令国内经济面临诸多挑战，也对居民收入产生了连锁反应。如何在抵抗疫情冲击之余，守护好老百姓的“钱袋子”？中国联通拿出了自己的行动方案--旗下招联金融以100...
+ ## [分支机构的游戏规则改变者：Wi-Fi 6、4G、5G和SD-WAN](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=9EXCnwCOYnHouejOepnSrqoikWEMCb7VkuCYc-lFduVkNF54fSgOdu5eXpVsM8sdkFNgMBXGfGgYFzv6K6*dEySYINNv2D2XBAnRQ8kczVeoaMQ30S7J8tmxlMr6WNjn&new=1)
+ > 关键讯息，D1时间送达！如今，云计算服务的使用量不断增长，并且正在改变分支机构在WAN处理数据的模式和数量，但是无线蜂窝服务以及智能化的软件定义广泛网(SD-WAN)可以帮助保持流量和成本的一致性。如今，云计...
+ ## [零信任才是GPS安全的“特效药”](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=qNo2y9VIBKAK0v4JefIdveTuvXhFICEoNawjfIbSc6NlDKMxPiPSO680NIY9r18MbQ2hPvDU*CabsFbMKauogCpvRPcZa9B9etqjBwGXgX2AR1LC2Gd2xyC1wLy31eBw&new=1)
+ > 围绕大数据和人工智能时代GPS和地理信息系统GIS相关应用的重要性不断提升，安全问题日益突出，全球卫星定位系统竞争局势正在不断升温。种种迹象表明，GPS正面临一次重大安全变革。禁令凸显GPS战略价值和安全问题...
+ ## [iPhone 9或于4月3日发布；复制粘贴之父Larry Tesler去世；Android 11开发者预览版来了!|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=mnI91jP6YYzdAVHYvE0vGB9TfJN2ai6CsDb-5Ud*1EISiVArzViqjsqY4fNPLJb3bPkVN*zZ33bTJNFuzFVftcMu3cjUkDBQUbc9CuB32Amqn7ogVVvoXSwQgAoJdUv4&new=1)
+ > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
+ ## [Markforged从军事支持的非盈利组织中获得未公开投资](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=gUfmRFqnvc2Ju3-2VzJCbl0iRXCqVuZ4kHlbdrbiiLdp3nZe2l0sJH-EB8*jBz8MnA6f-f4GfIQp4HZByEaemuxfSkls4zJtxIQMG3-uVfNVqZ2DevAoDkSM*Bc7TVt8&new=1)
+ > 金属和碳纤维3D打印专家Markforged最近从In-Q-Tel获得了一笔未公开的投资，In-Q-Tel是一家致力于识别和推进可支持美国军事部门任务的技术的非营利组织。新的财务关系将扩大美国军方已经广泛使用Markforged的工业...
+ ## [三大运营商2019年成绩单出炉：移动各方面第一但电信笑得最甜](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=Lwa1E96cV6Y9f7QSg9nVcDAC1KxPfE6aVDQMYnBBGIP*0bWC-ovqMLNZut927ZpbH0-*Ypu74svqy7SvhqNtHmdwNwDGB1uN60f24mVhubnpH1wBxyY6*7iy3ECDx9PQ&new=1)
  > 运营商财经网 八卦叨 /文近日，三大运营商公布了2019年全年数据，从中可看出，相对而言，中国电信4G用户增长同比增加最多，中国移动的宽带增长最快，而中国联通的增长不乐观，实际上是用户数负增长。 中国电信相...
- ## [闭馆?延迟?OFweek2020物联网在线展给你别样的展会!](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=8KBnwNpLJ5FkF5Ja*DDZlR38drmSHavT0io*k9bFCeWZk-CZB7Fir0e1AU0mq5gzIK6eogNrnijHCluRAwVAfCnU*5NrbNQBOmBfktBj6UgqtVD2MuGUV4WS0GIMezaq&new=1)
+ ## [8点见|华为回应“美国禁止联邦机构购买华为产品”；当当网回应：员工尚未确诊](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=h6Eyvo*oBwdA7sQvZEGDPlNxs7EqeVK9xzTdzDlSVzJMbRLVMZVMx5z5uBW0Osk-TY2ovxWXlScU0cXztGcjNATBRLhh8sYTodr32Mt6pgwSLafz63VKT6i3rj59lAIJ&new=1)
+ > 各位，早上好呀！昨日，有媒体报道称：巴菲特表示，比特币只对交易有用，没有实际价值，他认为购买比特币的人最终总会卖掉它，“美元能够存储价值，但比特币却不能，因此它与贝壳没有什么不同。” 你同意巴菲特...
+ ## [RSA大会召开在即 戴尔宣布以20.75亿美元将RSA出售](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=bVub7iou8B4IUjqUlBboLQ8BSpUEvyVE9lVF5tEc-viLO3cOwNVxuVNvJUoC5pzm5o9bK3z037pAOtIargd-BoRFsuGLHoTEmpHPWqolgpP3l9l4yGDpNIcUjW8T6b4B&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全2月20日讯，近日据外媒报道，戴尔技术公司于官网表示，将以20.75亿美元的价格将RSA出售给以Symphony Technology集团为首的财团，以简化其公司自
+ ## [每分钟测温300人?探索触景无限AI技术抗疫之路。](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=ryugaLBkrLyQGNgLZQzumZvkLZbAI20JElhHY7N0NIZn4bi7XFKZ9fwg79MQeMh5UpOwgOEVFjxyC1wWgkr9Ld7VNBJo8nGq0ne-nKXTWZ-iig1a8wlr2vkbup0dlS6g&new=1)
+ > 导读：在上周我们连续发布了多篇机器人技术抗疫方案库推文，受到了业内的关注，而在本周我们将继续深入探索，技术如何在前线发挥作用。为此我们将开启抗疫方案企业采访计划，挖掘前线抗疫核心需求，探索技术抗疫...
+ ## [美国税局起诉Facebook丨华为将举办线上发布会\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=mpIRzTCPjNsmiC6cISbDgS30*H9X4qJ-BvuLMutjD47CuwN6y5Nvfjg7lYXmPinne*jnEHviWxEMYyHOEKzHE3GuqdKcfrXWEYIHxXk7vMnZvMSMbP5enGODt-vDCJLM&new=1)
+ > 2月19日丨周三【Do说】编辑 | 赵艾虎美国税局起诉Facebook，指控其欠税90亿美元据外媒报道，Facebook公司本周二在旧金山法庭开始面对一桩税务诉讼。美国国税局(Internal Revenue Service, IRS)指控
+ ## [闭馆?延迟?OFweek2020物联网在线展给你别样的展会!](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=8KBnwNpLJ5FkF5Ja*DDZlR38drmSHavT0io*k9bFCeXUE0-sHBo*RntsxS0wfUZuz05z5W-eH6TLKzAan2GnHlGsTt42ZcppJ8HJLgGaIsFmyae6p-B9ICBJFi1ovt-9&new=1)
  > 近年来，随着我国把物联网产业提升为国家重点战略，物联网产业得到社会各界广泛关注，大数据、云计算、5G、脑科学、深度学习等新理论、新技术、新产品在整个经济社会发展中呈现一片繁荣态势，与此同时发展的还有...
- ## [为了搞死华为，这些人已经疯了](http://mp.weixin.qq.com/s?src=11&timestamp=1582169458&ver=2169&signature=k3Yv6LUEVZcu3zaz103ro-RQaLeAUOfRVG31n-7Kb9XMATyDisT4i*vNkzFFxClY0zlquPIRbAwKiErf1wRDPQ7YTiXPfdirweSyRaIOKVxgWJz*gCXGOZntd5t8lrIO&new=1)
+ ## [为了搞死华为，这些人已经疯了](http://mp.weixin.qq.com/s?src=11&timestamp=1582187405&ver=2169&signature=k3Yv6LUEVZcu3zaz103ro-RQaLeAUOfRVG31n-7Kb9Whuf5Tega1SMgd2njvcC41gJp4sgedE0oaflDSA4nbmb6yWTHt-t4OXSext54AmVEN8lKMbPKYA5SP*xwh9Ics&new=1)
  > 不知不觉，华为和美国之间的博弈，已经来到第九个月。从开后门、妨碍司法到欺诈行为，美国前前后后给华为罗织了几十项罪名，还派政客到世界各国游说，打算进行围追堵截。但是嚯，成效方面就比较一般。很多国家还...
 # IT 技术 
  ## [谈谈网络应用的12个商业聊天机器人](http://news.51cto.com/art/202002/610906.htm)
  > 谈谈网络应用的12个商业聊天机器人
  ## [不会高并发系统限流，肯定进不了大厂！](http://developer.51cto.com/art/202002/610908.htm)
  > 不会高并发系统限流，肯定进不了大厂！
+ ## [漫画 | 假装自己是Python高手，学会这十招就可以](http://developer.51cto.com/art/202002/610943.htm)
+ > 漫画 | 假装自己是Python高手，学会这十招就可以
  ## [AI技术将如何推动制药行业发展？](http://ai.51cto.com/art/202002/610912.htm)
  > AI技术将如何推动制药行业发展？
  ## [如何使用Windows 10 Sandbox更安全地上网冲浪？](http://virtual.51cto.com/art/202002/610918.htm)
@@ -97,57 +111,55 @@ INS&#21338;&#20027;&#21697;&#29260;&#8220;Gisou&#8221;&#23436;&#25104;&#25968;&#
  > 知识普及 | 5G专网的7大部署方案
  ## [2020年7个新的物联网趋势及重要变化](http://iot.51cto.com/art/202002/610921.htm)
  > 2020年7个新的物联网趋势及重要变化
- ## [如何在软件开发中避免出现漏洞](http://developer.51cto.com/art/202002/610868.htm)
- > 如何在软件开发中避免出现漏洞
- ## [入门篇！大白话带你认识 Kafka！](http://database.51cto.com/art/202002/610945.htm)
- > 前言“Kafka 是我在疫情期间在游戏之余学的。虽然之前用过 ActiveMQ 和 RabbitMQ，但是在 Kafka 这门技术面
- ## [你并不在意的 HTTPS 证书吊销机制，或许会给你造成灾难性安全问题！](http://network.51cto.com/art/202002/610944.htm)
- > 即使HTTPS通讯中，丢了密钥也…嗯?如果HTTPS证书私钥丢了，会怎样?是不是也没法防范这个私钥被利用了?想到
- ## [漫画，假装自己是Python高手，学会这十招就可以](http://developer.51cto.com/art/202002/610943.htm)
- > Python是一门简单易学，而且功能非常强大的语言，目前是火的一大糊涂，据说除了生孩子啥都干。
- ## [远程办公安全威胁升级，疫情下企业如何自保？](http://news.51cto.com/art/202002/610942.htm)
- > 身份认证安全的 AI 化，是未来的一个大的趋势。相信很多安全从业人员对最近两年IDaaS在业界的兴起都耳熟能
- ## [什么是云防火墙](http://netsecurity.51cto.com/art/202002/610941.htm)
- > 以一个新闻网站应用系统的全生命周期流程为例，通常一个应用系统需要部署多套，分别在开发环境、测试环境、
- ## [为什么大多数人永远不会真正成功？](http://news.51cto.com/art/202002/610940.htm)
- > 前几天看到一个叫做《为什么大多数人永远不会真正成功?》的视频，我本来以为是鸡汤，耐着性子看了一个开头
- ## [你写这样的代码，不怕同事打你嘛？](http://developer.51cto.com/art/202002/610938.htm)
- > 假设看到了这样的代码，你是否一口老血喷在屏幕上?现在的问题是，面对如此代码，这么复杂的逻辑，能否优化?
- ## [数据分析实战：利用Python对心脏病数据集进行分析](http://developer.51cto.com/art/202002/610939.htm)
- > 我们都很害怕生病，但感冒发烧这种从小到大的疾病我们已经麻木了，因为一星期他就会好，但是随着长大，各种
- ## [用了固态硬盘电脑照样卡！原来是这几个地方出了问题](http://biz.51cto.com/art/202002/610936.htm)
- > 2020年，闪存原厂的技术已经十分完备，产品的良率开始提升，制造成本开始下降。所以固态硬盘现如今已经成为
- ## [2020年的7个关键RPA趋势：从人工智能启用到更具战略性的扩展](http://ai.51cto.com/art/202002/610932.htm)
- > 机器人流程自动化(RPA)服务商Blue Prism公司EMEA地区首席技术官Peter Walker对使企业可以体验采用机器人流
- ## [Spring Boot面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397299)
- > Spring Boot面试题（2020最新版）
- ## [【图解算法面试】记一次面试：说说游戏中的敏感词过滤是如何实现的？](https://blog.csdn.net/m0_37907797/article/details/103272967)
- > 
- ## [leetcode617. 合并二叉树（SQL)](https://blog.csdn.net/hebtu666/article/details/104401211)
- > leetcode617. 合并二叉树（SQL)
+ ## [RabbitMQ和Kafka的比较](http://developer.51cto.com/art/202002/610974.htm)
+ > 这篇文章会先介绍一下基本的异步消息模式，然后再介绍一下RabbitMQ和Kafka以及他们的内部结构信息。第二部
+ ## [为什么所有人都想要使用Kubernetes？](http://cloud.51cto.com/art/202002/610973.htm)
+ > 首先让我们了解一下Kubernetes是如何解决在大多数在云端部署应用时碰到的问题，它是如何支持我们的基础设施
+ ## [浅谈大数据平台安全风险与建设](http://bigdata.51cto.com/art/202002/610972.htm)
+ > 大数据平台安全伴随着大数据平台而生。随着互联网和大数据应用的普及，新闻头条上发布的数据泄露、滥用、诈
+ ## [iOS 13.4 beta 2 中都有哪些新功能？](http://mobile.51cto.com/iphone-610971.htm)
+ > 苹果在 2 月 20 日凌晨推出了 iOS/iPadOS 13.4 的第二个开发者测试版，在两周前的首个测试版中，新增了多个
+ ## [不同场景/框架下，如何干掉恶心的 SQL 注入？](http://developer.51cto.com/art/202002/610970.htm)
+ > 文章主要内容包括：1、Java 持久层技术/框架简单介绍.2、不同场景/框架下易导致 SQL 注入的写法.3、如何避
+ ## [运维必看：HTTPS 证书是如何为网站正名的](http://os.51cto.com/art/202002/610962.htm)
+ > HTTPS解决两个问题：加密传输保证客户端和服务器之间的信息不是明文传输，保证信息的机密性身份认证HTT
+ ## [微软大幅改善Windows 10更新体验，自主控制安装驱动程序](http://os.51cto.com/art/202002/610959.htm)
+ > 微软正在采取措施，以改善Windows 10上的整体的Windows Update体验。微软一直在努力寻找正确更新Windows系
+ ## [大数据能预测疫情何时结束吗？来看看专家的回应](http://bigdata.51cto.com/art/202002/610958.htm)
+ > 19日，《工业和信息化部办公厅关于运用新一代信息技术支撑服务疫情防控和复工复产工作的通知》发布，支持运
+ ## [我国首颗5G卫星通信试验成功，未来可期](http://network.51cto.com/art/202002/610956.htm)
+ > 近日，我国首颗5G卫星的通信试验取得了成功。这颗5G卫星的通信能力达到了10Gbps，这次通讯试验也是其在轨3
+ ## [物联网“未来已来” 哪一领域能率先“上车”？](http://iot.51cto.com/art/202002/610954.htm)
+ > 物联网中哪项技术可以较快地产生效果、提供投资回报？智能照明可以算是一例。据Gartner报告显示，在物联网
  ## [大学四年自学走来，这些珍藏的「实用工具/学习网站」我全贡献出来了](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
  ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
  > 
- ## [Jmeter函数分类及自定义开发](https://blog.csdn.net/smooth00/article/details/103199295)
+ ## [地图上覆盖物压盖的优化](https://blog.csdn.net/GISShiXiSheng/article/details/104401496)
+ > 地图上覆盖物压盖的优化
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [防劝退！数据结构和算法难理解？可视化动画带你轻松透彻理解！](https://blog.csdn.net/u013486414/article/details/103199260)
+ ## [%AppData%\Roaming\Microsoft\Crypto\RSA滿了](https://blog.csdn.net/moshowgame/article/details/104399462)
+ > %AppData%\Roaming\Microsoft\Crypto\RSA滿了
+ ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
+ > 
+ ## [新程序员七宗罪](https://blog.csdn.net/fendouaini/article/details/103252444)
  > 
  ## [【搞定 Java 并发面试】面试最常问的 Java 并发基础常见面试题总结！](https://blog.csdn.net/qq_34337272/article/details/103205981)
  > 
- ## [SpringBoot1.5.10的JDBC自动配置原理](https://blog.csdn.net/qq_40845019/article/details/104393420)
- > SpringBoot1.5.10的JDBC自动配置原理
  ## [Python 植物大战僵尸代码实现(2):植物卡片选择和种植](https://blog.csdn.net/marble_xu/article/details/103100614)
  > 
- ## [2019年Spring Boot面试都问了什么？快看看这22道面试题！](https://blog.csdn.net/Design407/article/details/103263416)
+ ## [字节跳动面试官这样问消息队列：分布式事务、重复消费、顺序消费，我整理了一下](https://blog.csdn.net/qq_35190492/article/details/103232854)
  > 
- ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
+ ## [程序员需要了解的硬核知识之汇编语言(一)](https://blog.csdn.net/qq_36894974/article/details/103273900)
  > 
- ## [Vue快速实现通用表单验证](https://blog.csdn.net/qinyuanpei/article/details/103260622)
+ ## [Java源码分析 AbstractList的迭代器实现(Itr和ListItr)](https://blog.csdn.net/anlian523/article/details/103059566)
  > 
- ## [神经⽹络可以计算任何函数的可视化证明](https://blog.csdn.net/source_code13/article/details/103221107)
+ ## [shell脚本：备份数据库、代码上线](https://blog.csdn.net/Powerful_Fy/article/details/103215151)
  > 
- ## [新程序员七宗罪](https://blog.csdn.net/fendouaini/article/details/103252444)
+ ## [多线程-最全面的介绍java并发编程中遇到的各种锁](https://blog.csdn.net/youku1327/article/details/103152479)
+ > 
+ ## [【设计模式】单例模式的八种写法分析](https://blog.csdn.net/qq_44543508/article/details/103249751)
  > 
  ## [10 万阿里人都爱用的网红工具，语雀如何“用保护钱包的技术在保护文档安全​”？...](https://blog.csdn.net/csdnnews/article/details/104404227)
  > 受访者 | 袁锋（花名：苏千）采访者 | 伍杏玲出品 | CSDN（ID：CSDNnews）在新型冠状病毒疫情下，国内不少企业选择了远程办公的模式。上班族们感叹终于可以“一台电脑、一部手...
@@ -173,81 +185,34 @@ INS&#21338;&#20027;&#21697;&#29260;&#8220;Gisou&#8221;&#23436;&#25104;&#25968;&#
  > Golang和Python究竟哪种语言更适合AI工程师？Python很出色，但对于AI编程来说，Golang或许更合适。作者 |Michael lyam译者 |孙薇，责编 | 郭芮出...
  ## [@开发者，这个 GitHub 项目可以褥羊毛！](https://blog.csdn.net/csdnnews/article/details/104404223)
  > 作者|阿文责编 | 郭芮出品 | CSDN（ID：CSDNnews）给开发者送福利，免费送将近 10000 人民币？GitHub 有一个区块链项目 Handshake 正在面向Git...
-# 人工智能 
- ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
- > 
- ## [腾讯、阿里、百度、字节跳动最新复工时间，最晚3月2日回公司上班](https://blog.csdn.net/cxyshenghuozhi/article/details/104372413)
- > 腾讯、阿里、百度、字节跳动最新复工时间，最晚3月2日回公司上班
- ## [「 LaTex 」 如何调整图片的位置](https://blog.csdn.net/Robot_Starscream/article/details/104283560)
- > 「 LaTex 」 如何调整图片的位置
- ## [数据结构KMP算法配图详解（超详细）](https://blog.csdn.net/weixin_46007276/article/details/104372119)
- > 数据结构KMP算法配图详解（超详细）
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
- > 在三线城市工作爽吗？
- ## [高考真的能改变命运吗？](https://blog.csdn.net/qq_45748475/article/details/104382168)
- > 高考真的能改变命运吗？
- ## [智能语音识别--方案实现--具体过程](https://blog.csdn.net/queque_heiya/article/details/104392614)
- > 智能语音识别--方案实现--具体过程
- ## [IT小公司管理的几点思考](https://blog.csdn.net/zzmlake/article/details/104341749)
- > IT小公司管理的几点思考
- ## [小白也会用的情人节表白神器](https://blog.csdn.net/qq_41479464/article/details/104316059)
- > 小白也会用的情人节表白神器
- ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
- > 
- ## [人生感悟之——因果关系](https://blog.csdn.net/w1857518575/article/details/104389790)
- > 人生感悟之——因果关系
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [对计算机专业来说学历真的重要吗？](https://blog.csdn.net/harvic880925/article/details/101511637)
- > 对计算机专业来说学历真的重要吗？
- ## [除了这一生，我们没有别的时间](https://blog.csdn.net/mumuxi709/article/details/104379294)
- > 除了这一生，我们没有别的时间
- ## [世界上热度最持久的编程语言，一旦精通它绝不会失业](https://blog.csdn.net/CatherineJChen/article/details/104388047)
- > 世界上热度最持久的编程语言，一旦精通它绝不会失业
 # PM 
+ ## [经验总结：B端产品的数据权限设计](http://www.woshipm.com/pd/3408583.html)
+ > 上一篇给大家介绍了“功能权限”设计，本篇主要介绍“数据权限”设计，做B端用户中心近半年，从一头雾水到产品上线，总结出来一些经验，希望能够给到大家一些帮助。“功能...
+ ## [产品讲技术 | 带你看懂什么是计算机视觉（一）](http://www.woshipm.com/pd/3395770.html)
+ > 做为一名5岁的AI产品汪，刚好利用春节（疫情）假期在家整理了一些CV的文章，发现网上的资料质量参差不齐，内容缺斤少两，小白很难甄别/读懂，想对CV有一个系统的认识很...
+ ## [2C数据 or 2B数据，哪个更好玩？](http://www.woshipm.com/data-analysis/3408458.html)
+ > 如果非要说2C和2B的数据，哪个更好玩，哪个更能做出价值？前几日收到个有意思的问题：“相比2C数据的海量、花样多，2B数据少、沉淀少，是不是2B的数据注定就不那么有意...
+ ## [项目复盘：智慧课堂改版](http://www.woshipm.com/pd/2823936.html)
+ > 教学触控一体机在全国众多学校应用已经很普及了，无尘授课、是教学设备的应用主流。本次智慧课堂需把产品的未来版本规划、功能布局考虑到方案中去，将未来版本结构搭建...
+ ## [叮咚买菜产品分析 | 叮咚，你的菜到了](http://www.woshipm.com/evaluating/3406004.html)
+ > 叮咚买菜为何可以在死亡率高的生鲜大战中存活下来，并且一直保持快速的发展？在本篇文章中将对叮咚买菜的现状作出分析，可以让你更加深入的了解到以前置仓为代表的叮咚...
+ ## [线上课程丨特殊时期，招聘调整，已经辞职打算转产品的人该怎么办？](http://www.woshipm.com/online/3415007.html)
+ > 因为疫情影响，停工通知一出，大部分企业就已经开始对本年度的招聘计划进行了延迟、缩招等调整。这种情况下，打算转岗产品的同学心里只有一个“慌”字，因为对于转岗计划...
+ ## [疫情催生新经济：共享员工酝酿而生](http://www.woshipm.com/it/3407416.html)
+ > 未来的你可能不只属于一家公司了。最近，以盒马、沃尔玛、京东、苏宁等巨头为代表的一些企业推出的“共享员工”模式引发了业界的广泛关注。据悉自2月3日盒马率先实施“...
+ ## [如何通过产品上的精妙设计，实现用户增长？](http://www.woshipm.com/operate/3407525.html)
+ > 最近在知乎看到1个增长相关的话题，刚好和自己的工作相关性很大，也整理一下自己的思路吧。互联网从业者应该都有这样一个感觉，一个新用户的获取成本越来越大了，从几...
+ ## [一个小故事告诉你，如何写好数据分析报告？](http://www.woshipm.com/data-analysis/3407540.html)
+ > 给你一份数据，你能完美的出一份数据报告吗？本文结合一个小故事，来告诉大家如何写好一份数据分析报告，enjoy~本故事纯属虚构。故事发生在花果山，主人公是一只初入...
+ ## [分享你的独居生活：独居APP产品设计方案](http://www.woshipm.com/pd/3402575.html)
+ > 独居青年，也被称作“空巢青年”，伴随着经济发展的不均衡和人口迁移而生，是城市化进程中的必然现象。本文讨论了这个群体的情感需求，并尝试提出一个App设计方案。产品...
  ## [疫情之下，线上办公如何解决沟通问题？](http://www.woshipm.com/it/3406926.html)
  > 疫情之下，多数公司实施了线上办公的方式。虽然互联网连接了人和人，缩短了人和人的“距离”。但是始终不及线下办公方式人和人的“距离”更近。“距离”的增加必然会导致沟通...
  ## [深度解析 | 俞军的产品方法论](http://www.woshipm.com/pmd/3402762.html)
  > 俞军老师开创的则是将经济学、心理学融合到实践中的产品学派。本文将对俞军的产品方法论进行解读。作为中国最有影响力的产品经理之一，俞军的经历是难以复制的。尤其...
- ## [如何避开面试中的五大失误？](http://www.woshipm.com/zhichang/3407580.html)
- > 由于疫情影响，身边不止一个产品经理和我倾诉今年找工作比往年困难很多。值此寒冬，特制作面试锦囊相授。这篇文章将从面试中的【关键失误】谈起，是我在面试大量候选...
- ## [经验复盘：如何让交互文档开口说话？](http://www.woshipm.com/ucd/3405551.html)
- > 这篇文章是为产品和交互设计师初阶的小伙伴们总结的一份学习工作经验复盘：如何让交互文档开口说话？交互文档的受众交互文档是一名交互设计师或者产品经理产出的最基...
- ## [线上课程 | 这里有一套私域流量实操方法，引流、转化、复购统统搞定！](http://www.woshipm.com/online/3413947.html)
- > 上周末，和小我一届的学妹闪闪吃饭，聊到她现在的工作，感受到了她深深的无奈和迷茫。闪闪现在在一家初创公司，公司不到10个人，做金融方面的知识培训。她的老板清华...
- ## [历史进程中的在线教育：一个互联网风口的轮回记](http://www.woshipm.com/it/3406998.html)
- > 在一个高达万亿人民币规模的市场前景下，没有人会轻易放弃吃下更大蛋糕的野心。一切充满变数。而历史的车轮持续滚动，行业的硝烟已经愈浓。核心要点：受疫情影响，...
- ## [2020营销业者破局关键：对客户精致服务、对团队精细运营](http://www.woshipm.com/marketing/3406959.html)
- > 所有逆风时刻，都是超常规发展、甩开对手的好机会。好公司更容易成于逆境，逆风生巨木。当前时期，国内营销行业面临一些重大考验——街上的人越来越少，看不见消费者。...
- ## [你怕地图上的感染小红点？看看流行病学地图的来龙去脉](http://www.woshipm.com/it/3406785.html)
- > 疫病地图这种统计工具的本质就是，将空间地理和感染病人密度这两个变量结合在一起，通过密集程度就可判断出感染者在地理空间上的共性和疾病的传播轨迹，从而可以针对性...
- ## [结合《疯传》增长理论，探讨炒鞋是如何“疯传”的？](http://www.woshipm.com/marketing/3406478.html)
- > 本文不谈“炒鞋”泡沫，只结合《疯传》一书的增长理论，通过研究毒App增长的历程，来讨论如何让你的产品“疯传”。“70后炒股，80后炒房，90后炒币，00后炒鞋”“ 我25岁，...
- ## [标签栏？工具栏？傻傻分不清楚](http://www.woshipm.com/pd/3406461.html)
- > 这是标签栏组件总结的第三期，也是最后一期了。本文我们着陆在真实的产品上，看看这些产品是如何升华标签栏的。三期主题预览图：我们在前两期的归纳里，分别解析了...
- ## [拍卖行业角逐！阿里拍卖体验及优化建议](http://www.woshipm.com/evaluating/3401695.html)
- > 在拍卖行业，很多企业开始将线上线下结合在一起，但是其他行业不同的是，拍卖行业更负责。更有意思，也更符合大资产的交易趋势。因此，谁能在拍卖方面深得民心，谁就把...
- ## [疫情下，如何通过企业微信对企业进行开源节流？](http://www.woshipm.com/it/3402227.html)
- > 在这一次疫情的影响下，远程办公彻底地“火”了。那么在这样的环境下，企业如何通过企业微信来进行开源节流呢？2020年是注定是一个难忘的春节，疫情肆虐之下，各界人民...
  ## [解构私域流量（四）：如何经营企业私域？](http://www.chanpin100.com/article/110769)
  > 企业搭建私域流量体系，是用微信体系？还是自建体系？结合案例，我们聊聊～
  ## [微信放大招：视频号来了，这是另外一个朋友圈？](http://www.chanpin100.com/article/110768)
  > 腾讯再次重拳出击短视频
- ## [警惕！功能优化反成了挖坑](http://www.chanpin100.com/article/110764)
- > 不要让产品优化成了挖坑
- ## [如何学习系统思维？](http://www.chanpin100.com/article/110763)
- > 建立系统思维，解决系统问题。
- ## [移动互联网“战疫”报告：办公通讯增幅为去年增幅的65倍，旅游出行跌幅为去年跌幅的3.4倍](http://www.chanpin100.com/article/110762)
- > 今年这个特殊的春节相较于去年，游戏行业增幅15%，是2019年的2倍；影视增幅8%，是去年的3倍左右；办公通讯上涨明显，增幅150%，网上药店活跃设备增幅由负转正，增幅61%；旅游与汽车的降幅是去年的3-4倍，分别下跌55%及29%。
- ## [推荐系统“体检”：如何评估推荐系统的“健康”状况？](http://www.chanpin100.com/article/110760)
- > 您的推荐系统也需要一次全面体检。
- ## [疫情之下，重新审视ToG行业的“光荣与梦想”](http://www.chanpin100.com/article/110759)
- > 人工智能，大数据，云计算是新时代的“水电煤”——但当特殊时期来临，当全社会急迫地想将“水电煤”转变为新能量时，才发现一切并没有那么简单。
- ## [疫情之下，企业如何实现新旧动能转化？](http://www.chanpin100.com/article/110758)
- > 6 个步骤，打造企业的专属免疫力
- ## [一文看懂词嵌入wordembedding（2种算法+其他文本表示比较）](http://www.chanpin100.com/article/110757)
- > word embedding 是文本表示的一类方法。跟 one-hot 编码和整数编码的目的一样，不过​他有更多的优点。
- ## [【小编亲历】10个新手UI设计师常犯错误，小编已中招，你呢？](http://www.chanpin100.com/article/110756)
- > 【小编亲历】10个新手UI设计师常犯错误，小编已中招，你呢？
 
     
