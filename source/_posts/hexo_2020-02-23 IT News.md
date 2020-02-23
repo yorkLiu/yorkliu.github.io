@@ -1,19 +1,23 @@
 ---
 title: 2020-02-23 IT News
 copyright: true
-date: 2020-02-23 10:00:56
+date: 2020-02-23 12:02:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [抗衡傲慢自大的谷歌，华为正一步步将之变成现实](http://mp.weixin.qq.com/s?src=11&timestamp=1582421404&ver=2175&signature=wgzazdDCt8rBpTl2AhkubhHhAzD15ysx5IZEItlCkw-mEpCIM3JpGGg-Cwbwo0-VwKCCHsU2rZdFKxWZxh*slE1cTT6MoiRNRmDg1-VCWIyspf244xQkfTUFQJz0dyES&new=1)
- > 华为已上线其HMS服务，预计2月24日将再进一步，推出搭载HMS服务的智能手机荣耀V30，这意味着华为迈出了对抗谷歌最坚实的一步，华为的做法很可能推翻谷歌在智能手机市场一家独大的局面。傲慢自大的谷歌惹众怒。谷...
- ## [中国电信1月运营数据公开：移动用户好歹是正增长但宽带竟负增长](http://mp.weixin.qq.com/s?src=11&timestamp=1582421404&ver=2175&signature=L1VqAEV2j6MYv7InbffDocVsDHGLQLsfXp0zMwoNZnH6M*vXuKDQxayE1kyzchGjtQJiM97*t6GsEk3HSy*wf0-D0Du8wSz5bRDHywLfxvskwSPhn8fZNS92ZWRHVCd1&new=1)
+ ## [普惠将3D打印技术用于飞机引擎维护和大修](http://mp.weixin.qq.com/s?src=11&timestamp=1582428650&ver=2175&signature=-ivlv2fBPPBwbz0NcFIBg4gbzCdrOAu6lrNPhmAGBf80ZQ2cg*OVbq27lMjZsZeTyHgVwneCssaU4*i*Wk-jDVO*WMgna5uzI0fmrpQhJqOSKaCqUbIyPkfF0BDoeQvu&new=1)
+ > 美国航空航天制造商普惠公司和总部位于新加坡的工程公司意法半导体工程公司宣布，用于3D打印航空发动机零部件的工艺已实现工业化，用于商用发动机的维护、修理和大修（MRO）。双方还公布了使用该工艺的首个应用...
+ ## [中国电信1月运营数据公开：移动用户好歹是正增长但宽带竟负增长](http://mp.weixin.qq.com/s?src=11&timestamp=1582428650&ver=2175&signature=L1VqAEV2j6MYv7InbffDocVsDHGLQLsfXp0zMwoNZnH6M*vXuKDQxayE1kyzchGj*s9ontDJNhF44gD*C5zaANknMFQGNbEwA3eHE*5hs8nqQTi7OEmBxkd34LbyZwVS&new=1)
  > 运营商财经网 吴碧慧/文 近日，中国电信公布了今年1月份的运营数据，其中用户数虽呈现增长模式，但增速远不及去年同期；另外在有线宽带方面，用户数竟出现了下降的情况。运营商财经网获悉，今年1月中国电信移动...
- ## [全程高能，华为2020伦敦发布会精彩回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1582421404&ver=2175&signature=35owsyCry1F6tQ4Q3xnaJfmilgfW8hONFkSUdyQ6OcrQBWI0zCMc*xUNQGlWD9SJKd4MZgxT8R19qtyFmaWR66cDP-ybZfia8Ayl-1RL-zGYB6AunVk3P-zIS1nK-7xz&new=1)
- > 2月20-21日伦敦再一次成为整个智能世界的焦点华为2020产品与解决方案发布会在此召开最前沿的思想、最尖端的技术最智慧的大脑齐聚一堂首先通过一支新鲜出炉的大片带大家一网打尽发布会上的那些精彩瞬间整场发布会...
- ## [工信部：加快5G SA网络建设步伐，切实发挥“稳投资”作用](http://mp.weixin.qq.com/s?src=11&timestamp=1582421404&ver=2175&signature=Sdu0HkvI*RWLvD7QTgrxZyqHHduI3kCmCixW-HcJE0uq9pL0IhD*-i0Lv38Lj*zv-*3EP3WG4ThSz*CRAggSJDIsiqi5JPbu6iWR*WrPkQJzePsU7NiU3SPiGa0SJm3u&new=1)
+ ## [工信部：加快5G SA网络建设步伐，切实发挥“稳投资”作用](http://mp.weixin.qq.com/s?src=11&timestamp=1582428650&ver=2175&signature=Sdu0HkvI*RWLvD7QTgrxZyqHHduI3kCmCixW-HcJE0uq9pL0IhD*-i0Lv38Lj*zvMTxS*-jEa*81t8k1re8SzJV0JuTARVh2ztv4RHHGubm54UQ3ASVudEpQLH3iWfSl&new=1)
  > 今日下午，工业和信息化部召开加快推进5G发展、做好信息通信业复工复产工作电视电话会议。会议强调，信息通信业是全面支撑经济社会发展的战略性、基础性和先导性行业，信息通信业做好复工复产工作，对于全国企业...
+ ## [抗衡傲慢自大的谷歌，华为正一步步将之变成现实](http://mp.weixin.qq.com/s?src=11&timestamp=1582428650&ver=2175&signature=wgzazdDCt8rBpTl2AhkubhHhAzD15ysx5IZEItlCkw-mEpCIM3JpGGg-Cwbwo0-VY9dsIX8oiuANOCjz*AsAxlEsx-6yC5rd1F47bqDwCdMqt3QlVYG5Zz8K8e18WuqN&new=1)
+ > 华为已上线其HMS服务，预计2月24日将再进一步，推出搭载HMS服务的智能手机荣耀V30，这意味着华为迈出了对抗谷歌最坚实的一步，华为的做法很可能推翻谷歌在智能手机市场一家独大的局面。傲慢自大的谷歌惹众怒。谷...
+ ## [加快5G商用步伐!工信部今天开会提出具体要求，涉及一大批上市公司业务!](http://mp.weixin.qq.com/s?src=11&timestamp=1582428650&ver=2175&signature=vQ4o5pZnPGyZ4leCetn70d7o9POk8aO08TNKHIPmKrFFM11Zpoou1fmlmmpIQdCZ-GimQTdTe7RJ*Z6TNwVoPEdyHlQqWS8wZeY8Oc4y6xoq*Ya8BHHqrQb28rIcYlcu&new=1)
+ > 权威、深度、实用的财经资讯都在这里图源：工业和信息化部官网2月22日，工业和信息化部召开加快推进5G发展、做好信息通信业复工复产工作电视电话会议。工业和信息化部总经济师王新哲出席会议并讲话，中国电信、...
+ ## [全程高能，华为2020伦敦发布会精彩回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1582428650&ver=2175&signature=35owsyCry1F6tQ4Q3xnaJfmilgfW8hONFkSUdyQ6OcrQBWI0zCMc*xUNQGlWD9SJyi6VYjSfWtHof8Wkui9uBwgkndaND44bdWiLDLTLK6vesqVewpqcGfh4d1*4Hn6e&new=1)
+ > 2月20-21日伦敦再一次成为整个智能世界的焦点华为2020产品与解决方案发布会在此召开最前沿的思想、最尖端的技术最智慧的大脑齐聚一堂首先通过一支新鲜出炉的大片带大家一网打尽发布会上的那些精彩瞬间整场发布会...
 # IT 技术 
  ## [好机会，我用Python给女同事头像戴上口罩！](http://developer.51cto.com/art/202002/611071.htm)
  > 好机会，我用Python给女同事头像戴上口罩！
@@ -31,36 +35,36 @@ categories: IT NEWS
  > 为什么所有人都想要使用Kubernetes？
  ## [如何使用Python中的asyncio？](http://developer.51cto.com/art/202002/610994.htm)
  > 如何使用Python中的asyncio？
- ## [新年新气象，接个私活赚点生活费？说说这里的弯弯绕](https://blog.csdn.net/u012702547/article/details/104423890)
- > 新年新气象，接个私活赚点生活费？说说这里的弯弯绕
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [Orange：一个基于 Python 的数据挖掘和机器学习平台](https://blog.csdn.net/horses/article/details/104375024)
- > Orange：一个基于 Python 的数据挖掘和机器学习平台
- ## [为什么大多数人永远不会真正成功？](https://blog.csdn.net/coderising/article/details/104421819)
- > 为什么大多数人永远不会真正成功？
- ## [【安卓】唠点儿你不一定知道的小知识](https://blog.csdn.net/zheng_weichao/article/details/104349868)
+ ## [JavaScript 中， 5 种增加代码可读性的最佳实践](https://blog.csdn.net/qq449245884/article/details/103272119)
  > 
- ## [用树莓派做一个人脸识别开锁应用](https://blog.csdn.net/Tencent_TEG/article/details/104404312)
- > 用树莓派做一个人脸识别开锁应用
- ## [C语言写个贪吃蛇游戏](https://blog.csdn.net/weiqifa0/article/details/104404355)
- > C语言写个贪吃蛇游戏
- ## [皮肤问题不要怕，RethNet模型帮你解决它！](https://blog.csdn.net/duxinshuxiaobian/article/details/104341321)
- > 皮肤问题不要怕，RethNet模型帮你解决它！
- ## [\[Python人工智能\] 十四.循环神经网络LSTM RNN回归案例之sin曲线预测](https://blog.csdn.net/Eastmount/article/details/103914851)
+ ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
+ > B 站上有哪些很好的学习资源?
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/qq_35190492/article/details/103246772)
  > 
- ## [有没有简单一点的 Python 小例子或小项目？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104361693)
- > 有没有简单一点的 Python 小例子或小项目？
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [超详细的网络抓包神器 Tcpdump 使用指南](https://blog.csdn.net/alex_yangchuansheng/article/details/104285825)
- > 超详细的网络抓包神器 Tcpdump 使用指南
- ## [Spring MVC面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397427)
- > Spring MVC面试题（2020最新版）
- ## [深度前沿：对话管理模型研究最新进展](https://blog.csdn.net/alitech2017/article/details/103809475)
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [GitBook学习入门教程](https://blog.csdn.net/qq_23853743/article/details/103435804)
- > GitBook学习入门教程
+ ## [面试还搞不懂redis，快看看这40道面试题（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103242874)
+ > 
+ ## [Java程序员2020年最新进入 BATJ华为等大厂必读书单及技能](https://blog.csdn.net/qq_33589510/article/details/104058151)
+ > Java程序员2020年最新进入 BATJ华为等大厂必读书单及技能
+ ## [使用easyexcel导出时行高不自动调整的解决](https://blog.csdn.net/m0_37609579/article/details/104448374)
+ > 使用easyexcel导出时行高不自动调整的解决
+ ## [【超详细分析】关于三次握手与四次挥手面试官想考我们什么？](https://blog.csdn.net/m0_37907797/article/details/103252306)
+ > 
+ ## [作为一个程序员，CPU的这些硬核知识你必须会！](https://blog.csdn.net/sinat_33921105/article/details/104066631)
+ > 
+ ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
+ > 
+ ## [动态规划入门到熟悉，看不懂来打我啊](https://blog.csdn.net/hebtu666/article/details/100585136)
+ > 
+ ## [2019年Spring Boot面试都问了什么？快看看这22道面试题！](https://blog.csdn.net/Design407/article/details/103263416)
+ > 
+ ## [ThreadLocal 类的简单使用](https://blog.csdn.net/Woo_home/article/details/104069209)
+ > ThreadLocal 类的简单使用
+ ## [作为一个程序员，内存和磁盘的这些事情，你不得不知道啊！！！](https://blog.csdn.net/sinat_33921105/article/details/104142623)
+ > 作为一个程序员，内存和磁盘的这些事情，你不得不知道啊！！！
+ ## [\[HTML\] HTML常用基础标签](https://blog.csdn.net/LIZHONGPING00/article/details/104099959)
+ > 
  ## [结束 Java、Python 之战，如何学习所有编程语言？](https://blog.csdn.net/csdnnews/article/details/104454151)
  > 【编者按】编程语言之争不胜良久，从古老的 C 到 Java、Python、PHP 以及一些新兴语言，在数百种编程语言之间，排名本身已然打得火热，而许多开发者亦会争论于哪一种是最好的编程语...
  ## [Excel弱爆了！这个工具30分钟完成了我一天的工作量！](https://blog.csdn.net/csdnnews/article/details/104454158)
@@ -70,37 +74,41 @@ categories: IT NEWS
  ## [全面学习 Python 包，你 Get 了吗？](https://blog.csdn.net/csdnnews/article/details/104454147)
  > 作者 | Python编程时光责编 | 屠敏为什么需要对项目分发打包？平常我们习惯了使用 pip 来安装一些第三方模块，这个安装过程之所以简单，是因为模块开发者为我们默默地为我们做了所有...
 # 人工智能 
- ## [Centos7安装geth、搭建私有链、部署solidity合约、调用合约函数](https://blog.csdn.net/sda1_hacker/article/details/104427270)
- > Centos7安装geth、搭建私有链、部署solidity合约、调用合约函数
- ## [程序员在 Github 上疯狂薅羊毛！](https://blog.csdn.net/xmt1139057136/article/details/104421889)
- > 程序员在 Github 上疯狂薅羊毛！
- ## [分享11个好用的BT资源下载网址](https://blog.csdn.net/LagerSwan/article/details/104427342)
- > 分享11个好用的BT资源下载网址
- ## [比特币钱包地址获取与交易入门](https://blog.csdn.net/oscar999/article/details/104405277)
- > 比特币钱包地址获取与交易入门
- ## [ipfs, libp2p, swarm notify](https://blog.csdn.net/m0_37889044/article/details/104410024)
- > ipfs, libp2p, swarm notify
- ## [@开发者，这个 GitHub 项目可以褥羊毛！](https://blog.csdn.net/csdnnews/article/details/104404223)
- > @开发者，这个 GitHub 项目可以褥羊毛！
- ## [2019年博客之星评选活动之晋级TOP20博主名单](https://blog.csdn.net/blogdevteam/article/details/104411514)
- > 2019年博客之星评选活动之晋级TOP20博主名单
- ## [ubuntu19.10 相关软件安装](https://blog.csdn.net/CANGYE0504/article/details/104422654)
- > ubuntu19.10 相关软件安装
- ## [\[C++\]STL-函数对象基础知识](https://blog.csdn.net/renboyu010214/article/details/104426122)
- > \[C++\]STL-函数对象基础知识
- ## [2020年计算机大一学生的成长之路——从无到有](https://blog.csdn.net/liuyangdashuaibi/article/details/104426496)
- > 2020年计算机大一学生的成长之路——从无到有
- ## [并发机制:CSP vs Actor模型以及Golang实现](https://blog.csdn.net/qq_32702033/article/details/104415434)
- > 并发机制:CSP vs Actor模型以及Golang实现
- ## [Linux 文件/目录管理](https://blog.csdn.net/qq_44467578/article/details/104417831)
- > Linux 文件/目录管理
- ## [Node.js 和 webpack 下载安装——小白教程](https://blog.csdn.net/qwe122343/article/details/104403353)
- > Node.js 和 webpack 下载安装——小白教程
- ## [【笔记】密码学与安全技术概要总结（二）](https://blog.csdn.net/cbwem/article/details/104407712)
- > 【笔记】密码学与安全技术概要总结（二）
- ## [WebAssembly Summit 总结：不要因为走得太远，而忘记为什么出发](https://blog.csdn.net/weixin_44597631/article/details/104418934)
- > WebAssembly Summit 总结：不要因为走得太远，而忘记为什么出发
+ ## [immutable在redux中的使用](https://blog.csdn.net/qqzjyywxa/article/details/104442374)
+ > immutable在redux中的使用
+ ## [前端工程师的武功秘籍Mark--持续更新](https://blog.csdn.net/qq_40685048/article/details/104440080)
+ > 前端工程师的武功秘籍Mark--持续更新
+ ## [Js运动](https://blog.csdn.net/weixin_44928961/article/details/104444090)
+ > Js运动
+ ## [最简单的例子让你轻松理解JavaScript闭包](https://blog.csdn.net/weixin_45717379/article/details/104437915)
+ > 最简单的例子让你轻松理解JavaScript闭包
+ ## [实现继承的多种方式及其优缺点](https://blog.csdn.net/weixin_44540855/article/details/104442931)
+ > 实现继承的多种方式及其优缺点
+ ## [php 图片上传($_FILES)](https://blog.csdn.net/weixin_44198965/article/details/104445590)
+ > php 图片上传($_FILES)
+ ## [react简单介绍和使用入门](https://blog.csdn.net/qq_46381614/article/details/104449744)
+ > react简单介绍和使用入门
+ ## [js正则](https://blog.csdn.net/Maohei997/article/details/104438913)
+ > js正则
+ ## [让innerHTML中的script脚本执行起来](https://blog.csdn.net/html168/article/details/104443127)
+ > 让innerHTML中的script脚本执行起来
+ ## [HTML相比XHTML有什么特点](https://blog.csdn.net/webxuexi168/article/details/104433815)
+ > HTML相比XHTML有什么特点
+ ## [Html网页页面head区规范知识](https://blog.csdn.net/webxuexi168/article/details/104433764)
+ > Html网页页面head区规范知识
+ ## [语义化你的HTML标签和属性](https://blog.csdn.net/webxuexi168/article/details/104433843)
+ > 语义化你的HTML标签和属性
+ ## [网页制作中用到的各度量单位的比较](https://blog.csdn.net/html168/article/details/104443189)
+ > 网页制作中用到的各度量单位的比较
+ ## [使用自定义HTML标签来进行网页设计](https://blog.csdn.net/webxuexi168/article/details/104447747)
+ > 使用自定义HTML标签来进行网页设计
+ ## [web前端学习过程中如何控制框架页内中链接的目标](https://blog.csdn.net/webxuexi168/article/details/104447759)
+ > web前端学习过程中如何控制框架页内中链接的目标
 # PM 
+ ## [算法产品，5“W”1“H”](http://www.woshipm.com/pmd/3401974.html)
+ > 以“供应链领域”的算法产品经理梳理需求的逻辑为例，来看看算法产品经理平时的工作都是做些什么？算法的应用场景兴起，使之与其对应的算法工程师也在职场上兴起，但在...
+ ## [营销业，如何面对疫情考验？](http://www.woshipm.com/marketing/3406724.html)
+ > 营销行业遭遇了不可抗拒的黑天鹅事件，但几个月之后，社会和商业活动将会重新迸发活力，一定程度的消费反弹将是大概率事情。用户和消费者不会消失，这是非常确定的。...
  ## [产品经理如何面对一句话需求？](http://www.woshipm.com/pmd/3414153.html)
  > 无论需求大小、是否是一句话，只要我们能基于这句话产生疑问，通过不断设问圈定需求范围，再针对每个问题的答案给出解决方案，问题就能迎刃而解。今天的思考，源于一...
 
