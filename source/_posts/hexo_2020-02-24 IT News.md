@@ -1,7 +1,7 @@
 ---
 title: 2020-02-24 IT News
 copyright: true
-date: 2020-02-24 10:01:09
+date: 2020-02-24 12:01:50
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -71,25 +71,31 @@ K12&#25945;&#32946;&#26426;&#26500;&#8220;&#23478;&#36745;&#22521;&#20248;&#8221
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [一位机器人的“终极哲学之问”](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=cHRWfwRvo3ly-PsOCqJozluxNg-lLPrlG30STlf6xX7klpPmxbE-SZwJxdJf4RUijRSgk*0VR1eSw62cjDvdlGyMhvXv8aCLwVHZomhdB4x7sG05B7LV*8Yl4QV12qsy&new=1)
- > 引子 | 哲学之问我在哪儿？我从哪里来？又往何处去？——一位迷路人的内心哲学之问1、什么是SLAM？家里新添置了一台扫地机器人，老妈对它啧啧称奇：一个盘子大小的机器，刚进门就直接开工，简直是任劳任怨。那是...
- ## [疫情来袭 无人驾驶行业发展或迎来拐点](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=dl2f-G3Wy7uraziyBXZ0CUlbzEfacZy3c6-TXziJg*ZQR-nN2lP-tQ6hUxSYXTCxbEZAWrAKtPqDdI0G*j5uKqaQsrsCLtBKdUvLtFm5sq0Y4cK-D6MU7zna*X6abEcg&new=1)
+ ## [疫情来袭 无人驾驶行业发展或迎来拐点](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=dl2f-G3Wy7uraziyBXZ0CUlbzEfacZy3c6-TXziJg*aSNMw-KQ1Y7WBvjt3nlQUBGCh7sJCnZXEHm8GJupO7K7mgzL1G-lqjaiQDFhLuzP5e3MwIVTDomlmf-r6Zi5B2&new=1)
  > 说到无人驾驶概念相关联的产物时，多数人会想到的就是可以解放相关工作人员，同时比人类操作更安全、便于车队协同配合等。不过在此次疫情之中，像无人配送车、无人机等这些无人驾驶概念相关联的产物，在疫情这个...
- ## [本周大新闻|谷歌秘密研发AR眼镜，JDI发布短焦VR专用LCD屏幕](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=UVuJ4qH5T0N-sBnzu4qDRYzDR7MQhYOMLLhsL1gK1T71rp8CpQ0JWhBnJnvV-oo0GxW3-MH-fR-uqI11lM2jzqQnZWXraa-V0*cFHAa-40vmy7Z4652LFecRMaNJ4slf&new=1)
- > hi188｜编辑本周大新闻，AR方面，外媒透露谷歌正在秘密研发AR眼镜，并且内部已把重点从VR移至AR；微软将在5月举行MR开发者大会；招聘信息显示，Magic Leap已成立日本分部；Spatial与Nreal建立合作推出5G AR远程...
- ## [说一套做一套?河北某运营商携号转网阻碍用户通话被告到省通管局](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=3FaejbfUo9va4rEN6uKh0HpPvxpu4kvQWwKTu0vurW6tQh7F-*AVHGei9HvJlo0JPEcKbZCBKzRRqxSibZPbjAyV7ne-7qr3zqG4f3pLNeXFV39H1oSgwMc0Z7DRP8zx&new=1)
- > 运营商财经网 郭彭琪/文日前，河北某运营商因携号转网问题被告到了河北省通管局，被要求通管局制止其违规行为。运营商财经网独家获悉，2019年12月30日，河北省通管局收到一份《关于要求规范携号转网服务行为维护...
- ## [中国联通打出“组合拳”加快5G建设复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=W9ih*iv8gU14NHQOqpRcJmmROx6qoK3YAYYm2AQLAjHVoNc3N3AyG1AdZPo7*JJIWBcjgYaYWb6uHAT0IcRZroKtA1L1IN0RgUwYh3ZDaIE=&new=1)
+ ## [一位机器人的“终极哲学之问”](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=cHRWfwRvo3ly-PsOCqJozluxNg-lLPrlG30STlf6xX6gbAq57919cRY8T86-I6ZqAGq7BEsEAWBFK5SjwnBcD9fUiN9RYOPxNlNdUyWvReEz6ASMnfPuWkoVhl1mmlif&new=1)
+ > 引子 | 哲学之问我在哪儿？我从哪里来？又往何处去？——一位迷路人的内心哲学之问1、什么是SLAM？家里新添置了一台扫地机器人，老妈对它啧啧称奇：一个盘子大小的机器，刚进门就直接开工，简直是任劳任怨。那是...
+ ## [7点见|当当网员工感染细节公布，已致82人隔离；猎豹回应被谷歌下架](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=q*LCUGohOQhtNu0hGmWB-zP0yUZWl0r6PdSoL78sbLOhQIB7v5t-kOqbUx0QIC8tMGy6FCk6TBF*wak-c-UuGf6Y9cDZJt3Dpf4FPtyPa6YDkNxfK6MrwzH8jIB3QrNc&new=1)
+ > 各位各位小伙伴们，早上好！这个周末，西湖景区等景区迎来结束临时封闭后的首个周末，加上温度适宜，聚集的人一下子多起来。消息称有超5000人涌向西湖断桥。对此，小七想说：疫情还未结束，大家还需注意，安全第...
+ ## [前瞻|2020 RSA Conference：网络安全的根本是人在保护人](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=0KwVUytJsl5ayNgnqJMuf3DipDwSFYdmov9k6JCXR2vb23aLjrLWF0Mk23*ROtRwc-quXx3-00C9ByUdAc7ybmkS2G82u48Jowp-8ZL8ap8T70G2sUk*yKGqRazL*g8f&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   自1995年以来，RSA 大会以与信息安全有关的特定贡献或特定内容为基础，每年选择确定一个独特的主题，这个独特的主题有助于RSA的故事设计和在整个活动过程中...
+ ## [中国联通打出“组合拳”加快5G建设复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=W9ih*iv8gU14NHQOqpRcJmmROx6qoK3YAYYm2AQLAjH6OU31T3-3N2kzqZ97WCFh7qRuWCbBghKHEd2wLfkbZsS97S2K7s2JXTt82SOPOxw=&new=1)
  > 上证报记者2月23日从中国联通获悉，近日，中国联通研究提出了加速5G网络建设的一揽子工作举措，并且正迅速落地实施。中国联通提出，要在今年三季度力争完成全国25万个基站建设，较原定计划提前一个季度完成...
- ## [3家中标!中国移动5G SA核心网设备集采结果出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=G5HMJ1O4qRwslWiOxYTD*rNtRfRN4aqObg94T4qaqowynb-fx1NjhU*9pY-5iNZO-dJbYsIPoEoKuFKTmV4praQeRi8u-lL3yfllvJ7N3Tl*BfklHIT6UaBqXQCbvW9L&new=1)
+ ## [本周大新闻|谷歌秘密研发AR眼镜，JDI发布短焦VR专用LCD屏幕](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=UVuJ4qH5T0N-sBnzu4qDRYzDR7MQhYOMLLhsL1gK1T5POvxpnlU5J3Aq1CZEgAi12c3RpMTvVNtcriJW5ML8RcD2RFPdrHUEadqVLiXRb6oP0XO-QJ3gyjEoRbw3DEPX&new=1)
+ > hi188｜编辑本周大新闻，AR方面，外媒透露谷歌正在秘密研发AR眼镜，并且内部已把重点从VR移至AR；微软将在5月举行MR开发者大会；招聘信息显示，Magic Leap已成立日本分部；Spatial与Nreal建立合作推出5G AR远程...
+ ## [说一套做一套?河北某运营商携号转网阻碍用户通话被告到省通管局](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=3FaejbfUo9va4rEN6uKh0HpPvxpu4kvQWwKTu0vurW4eh1ujbCeTdJfApUSJeAaJsg9lh10lH10RSPG6bRu0a*O1c2zZIg8oI6VMS3-9zzWfin-fSYWfWl4n9qiWUn-S&new=1)
+ > 运营商财经网 郭彭琪/文日前，河北某运营商因携号转网问题被告到了河北省通管局，被要求通管局制止其违规行为。运营商财经网独家获悉，2019年12月30日，河北省通管局收到一份《关于要求规范携号转网服务行为维护...
+ ## [3家中标!中国移动5G SA核心网设备集采结果出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=G5HMJ1O4qRwslWiOxYTD*rNtRfRN4aqObg94T4qaqoz7lNo0ZLb6V7AoculKz*qZHEcwZRyrhEIXzmrm1H4YsF9TzHEjx4T5pURpWb8tDnKJa6Naoq02fTXY7sl*HqnN&new=1)
  > 近日，中国移动公示《2020年5G SA核心网移动用户数据设备集中采购》中标候选人，结果如下：根据之前的招标信息，本次采购产品为全国17城市的四融合UDM/UDR设备及NFV虚拟层设备(含虚拟层软件、SDN软硬件、管理与...
- ## [11部委印发《智能汽车创新发展战略》!鼓励科技公司入局，智能汽车时代来了](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=gxlUOG0jpJR9AaE9iv8HACwFjMIrvddwG*ZvGctts6ou1uPO8KoB5CXc48d2ZFT0rPEEHnLPvM9YsdtFJGMLzrfHLEGqVsKBIrXbPwy34LxlwG5l3836kpThRitL6TBt&new=1)
+ ## [11部委印发《智能汽车创新发展战略》!鼓励科技公司入局，智能汽车时代来了](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=gxlUOG0jpJR9AaE9iv8HACwFjMIrvddwG*ZvGctts6oSg155VAJaMWOd7iMTgi6Q5AAa9*7MA*z0fE1RfYNisk0NTehKmPLy6AY*ZKidnYEixrjXV*ch87SC2doN9ZNe&new=1)
  > 2020开年，国家强势助推智能汽车发展。车东西 ｜ 诺亚车东西2月23日消息，据财新等国内媒体报道，发改委、工信部等11部委日前联合印发的《智能汽车创新发展战略》文件（以下简称《战略》），为智能汽车产业的未...
- ## [疫情过后，运营商格局巨变的日子将要来到!](http://mp.weixin.qq.com/s?src=11&timestamp=1582507804&ver=2177&signature=sD-WU5ek5FtzBy-2gy7b9*lUIwIwUpVs5EuL-mh8t0eQkkP8LdvZwC3RHx5Nf3PDoIJB7uUjIVFOJm*rhl57GPtw0IqoLPgCPRPiGgUpX8S-t1Z4JPcjS5-Br8iR8RS2&new=1)
+ ## [疫情过后，运营商格局巨变的日子将要来到!](http://mp.weixin.qq.com/s?src=11&timestamp=1582515004&ver=2177&signature=sD-WU5ek5FtzBy-2gy7b9*lUIwIwUpVs5EuL-mh8t0d1BfXMwoBnp*Hpj-TAZ9dSD*4WaB-Ayaowb-g-GbLHFSyMB2ZxeRQ*GXIn1C*CAqrHy*G-HiDQLYHoUeLIYuHs&new=1)
  > 来源 付老师讲竞聘之前一直等阿里投资中国广电建设5G的消息，但是等来了国家电网和中国广电合作推进5G系统的事情，虽然不是阿里，但是我们说电信运营商巨变的日子就要到了。 015G目前有4个牌照，显然是多了！ 虽...
 # IT 技术 
  ## [普通端到端加密可能并不那么安全](http://netsecurity.51cto.com/art/202002/611113.htm)
  > 普通端到端加密可能并不那么安全
+ ## [疫情当前，才知道AI原来是这么好用](http://ai.51cto.com/art/202002/611096.htm)
+ > 疫情当前，才知道AI原来是这么好用
  ## [从华为到阿里，我的15年职场历程](http://news.51cto.com/art/202002/611084.htm)
  > 从华为到阿里，我的15年职场历程
  ## [炸了！技术总监“删库跑路”被判刑两年多](http://developer.51cto.com/art/202002/611108.htm)
@@ -98,62 +104,72 @@ K12&#25945;&#32946;&#26426;&#26500;&#8220;&#23478;&#36745;&#22521;&#20248;&#8221
  > 如何在谷歌云平台中创建虚拟机？
  ## [好机会，我用Python给女同事头像戴上口罩！](http://developer.51cto.com/art/202002/611071.htm)
  > 好机会，我用Python给女同事头像戴上口罩！
+ ## [绿色机器人如何帮助环境可持续发展](http://iot.51cto.com/art/202002/611111.htm)
+ > 绿色机器人如何帮助环境可持续发展
  ## [情绪快失控，当当网被曝又有员工感染？](http://news.51cto.com/art/202002/611060.htm)
  > 情绪快失控，当当网被曝又有员工感染？
- ## [一个技术总监的忠告：精通那么多技术为何还是做不好一个项目？](http://news.51cto.com/art/202002/611031.htm)
- > 一个技术总监的忠告：精通那么多技术为何还是做不好一个项目？
- ## [从物理、技术和管理三个方面初探混合云安全](http://cloud.51cto.com/art/202002/610968.htm)
- > 从物理、技术和管理三个方面初探混合云安全
- ## [一大波 Windows 全新图标来袭！每一枚都很精致](http://os.51cto.com/art/202002/611122.htm)
- > 从2018年开始，微软开始重新设计旗下的产品图标，截止目前，已经改头换面的产品包括Office 系列图标、Skype
- ## [2020 年为什么要选择 Go 并放弃 Python](http://developer.51cto.com/art/202002/611120.htm)
- > 过去一段时间，Go 语言中文网推过挺多 Python 相关的公众号，很多人诧异：为什么推的都是 Python 的呢？其
- ## [网络丢包怎么办？这些解决办法不得不知](http://network.51cto.com/art/202002/611119.htm)
- > 在做弱电项目中，我们经常会出现网络比较卡、监控有几路画面不显示、网络时正常，时不正常等问题，这些故障
- ## [5G能拯救运营商开年的负增长吗？](http://network.51cto.com/art/202002/611118.htm)
- > 虽然尚未全面复工，但是三大运营商都如期公布了2020开年的经营数据。除了中国联通告别持续多个月份的用户“
- ## [我们需要什么样的数据架构？](http://developer.51cto.com/art/202002/611117.htm)
- > 在大数据和数据科学的新时代，对企业而言，一定要有与业务流程保持一致的中心化数据架构，该架构能随业务增
- ## [GitHub 发布 2019 年度透明度报告](http://news.51cto.com/art/202002/611124.htm)
- > GitHub 上周发布了 2019 年度的透明度报告（Transparency Report），主要是向公众告知其在 2019 年的用户
- ## [初识《关键信息基础设施网络安全保护基本要求》：基于等保，高于等保](http://netsecurity.51cto.com/art/202002/611115.htm)
- > 等保2.0刚刚实施不久，接踵而来的是《关键信息基础设施网络安全保护基本要求》。当前网络安全无论是技术还
- ## [疫情期间自我提升指南：十大资源，为你铺平数据科学家之路！](http://zhuanlan.51cto.com/art/202002/611114.htm)
- > 今天，文摘菌就为你带来了十大资源，更为你安排好了学习顺序。从小白起步级，到大师进阶级，涵盖十分广泛。
- ## [删库了，我们一定要跑路吗？](https://blog.csdn.net/z694644032/article/details/104463920)
- > 删库了，我们一定要跑路吗？
- ## [【C++100问】深度总结STL基本容器的使用](https://blog.csdn.net/TeFuirnever/article/details/104438908)
- > 
- ## [\[Python图像处理\] 二十八.OpenCV快速实现人脸识别及视频中的人脸](https://blog.csdn.net/Eastmount/article/details/104463173)
- > \[Python图像处理\] 二十八.OpenCV快速实现人脸识别及视频中的人脸
- ## [认清现实|别再忽悠大学生创业了](https://blog.csdn.net/weixin_43691058/article/details/104447094)
- > 
- ## [面试官：Java的重写和重载有什么区别？](https://blog.csdn.net/qing_gee/article/details/104423979)
- > 面试官：Java的重写和重载有什么区别？
- ## [Spring面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397516)
- > 
- ## [出不了门的日子，我选择在 GitHub 上快乐的打游戏](https://blog.csdn.net/u013486414/article/details/104408924)
- > 
- ## [Java程序员都需要懂的「反射」](https://blog.csdn.net/Java_3y/article/details/104352964)
- > 
- ## [Orange：一个基于 Python 的数据挖掘和机器学习平台](https://blog.csdn.net/horses/article/details/104375024)
- > Orange：一个基于 Python 的数据挖掘和机器学习平台
- ## [如何快速打好Java基础？](https://blog.csdn.net/qing_gee/article/details/104273480)
- > 
- ## [【大厂智力题】瓶水有毒问题](https://blog.csdn.net/qq_42322103/article/details/104440440)
- > 【大厂智力题】瓶水有毒问题
+ ## [Linux大文件重定向和管道的效率对比](http://os.51cto.com/art/202002/611152.htm)
+ > 大家先看一下二个命令，假如huge_dump.sql文件很大，然后猜测一下哪种导入方式效率会更高一些?
+ ## [网吧电脑为什么不卡？这个千古谜题我来揭晓 不卡很正常](http://biz.51cto.com/art/202002/611150.htm)
+ > 在早些年，网吧行业可谓是非常的景气，但是在近几年，网吧的生意变得非常的惨淡，越来越多的玩家都选择在
+ ## [大数据正在塑造2020年这些巨大的数字营销趋势](http://bigdata.51cto.com/art/202002/611148.htm)
+ > 2020年数字营销趋势的增长在很大程度上受到大数据的影响。人们需要了解大数据将如何产生影响，以及为什么如
+ ## [如何优雅地删除 Linux 中的垃圾文件](http://os.51cto.com/art/202002/611149.htm)
+ > 不知道大家是否也跟我一样，是一只要把的自己电脑文件安排的条理有序，把没用的文件会及时删掉的程序猿呢？
+ ## [IT 人，如何构建自己的时间管理系统？](http://news.51cto.com/art/202002/611147.htm)
+ > 我整合了自己这半年来对时间管理的所思所想和经历。没想到在和其他小伙伴们交流中对这方面的内容有了更加全
+ ## [基础设施即代码模板是许多云计算基础设施弱点的根源](http://cloud.51cto.com/art/202002/611144.htm)
+ > 一份新的调查报告表明，在云计算部署中，基础设施即代码(IaC)模板配置错误的比例很高，这使它们容易受到攻
+ ## [家里突然断网了，我们怎么办？](http://network.51cto.com/art/202002/611146.htm)
+ > 网络的确让我们的生活更加美好，但是太容易的美好总是太脆弱，新时代的世界末日，就是当你家网断的那一秒…
+ ## [举国抗疫迎大考，中软国际交出“教科书”答卷！秘密就在华为云WeLink？](http://cloud.51cto.com/art/202002/611145.htm)
+ > 2020年，全球企业数字化转型的进程仍在继续。突发而至的肺炎疫情对于企业而言更像一道超纲必考题，在没有标
+ ## [机器学习所需的工程量未来会大大减少](http://ai.51cto.com/art/202002/611141.htm)
+ > 未来，构建 ML 产品将更加有趣，并且这些系统会工作得更好。随着 ML 自动化工具的不断改进，数据科学家和 M
+ ## [电梯维护人手少？物联网给出解决方法](http://iot.51cto.com/art/202002/611138.htm)
+ > 电梯是人们接触和使用最频繁的特种设备，我国已保有电梯561万台，电梯保有量、年产量和新增量均为世界第一
  ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
  > B 站上有哪些很好的学习资源?
- ## [图解快速排序](https://blog.csdn.net/Woo_home/article/details/104233052)
- > 图解快速排序
- ## [用树莓派做一个人脸识别开锁应用](https://blog.csdn.net/Tencent_TEG/article/details/104404312)
- > 用树莓派做一个人脸识别开锁应用
- ## [Python 爬取考研数据：所有 985 高校、六成 211 高校均可调剂！](https://blog.csdn.net/csdnnews/article/details/104421408)
- > Python 爬取考研数据：所有 985 高校、六成 211 高校均可调剂！
+ ## [一篇文章让你深入理解线程、多线程、进程、多进程](https://blog.csdn.net/qq_44717317/article/details/104459999)
+ > 
+ ## [网络基础 tcp的三次握手和四次挥手](https://blog.csdn.net/bleeding_sky/article/details/104471578)
+ > 
+ ## [剑指Offer(Python多种思路实现):包含min函数的栈](https://blog.csdn.net/weixin_44151089/article/details/104471358)
+ > 
+ ## [剑指Offer(Python多种思路实现):从上到下打印二叉树](https://blog.csdn.net/weixin_44151089/article/details/104471364)
+ > 
+ ## [C语言中常用的6个字符串处理函数](https://blog.csdn.net/csdn_wangchong/article/details/104471928)
+ > 
+ ## [剑指Offer(Python多种思路实现):二叉树中和为某一值的路径](https://blog.csdn.net/weixin_44151089/article/details/104471386)
+ > 
+ ## [剑指Offer——面试题51：数组中的逆序对](https://blog.csdn.net/qq_35340189/article/details/104472139)
+ > 
+ ## [ArrayList源码分析(JDK1.8 个人理解)](https://blog.csdn.net/fh667788123/article/details/104469709)
+ > 
+ ## [JVM面试题这一篇就够了](https://blog.csdn.net/zxm1306192988/article/details/104468586)
+ > 
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
+ > 
+ ## [作为一个程序员，CPU的这些硬核知识你必须会！](https://blog.csdn.net/sinat_33921105/article/details/104066631)
+ > 
+ ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
+ > 
+ ## [2019年Spring Boot面试都问了什么？快看看这22道面试题！](https://blog.csdn.net/Design407/article/details/103263416)
+ > 
+ ## [\[HTML\] HTML常用基础标签](https://blog.csdn.net/LIZHONGPING00/article/details/104099959)
+ > 
+ ## [一行命令自动给图片戴上口罩，硬核操作！](https://blog.csdn.net/csdnnews/article/details/104471149)
+ > 作者|Prodesire来源 | Prodesire（ID：Prodesire）2019 年底开始蔓延的新型肺炎疫情牵动人心，作为个体，我们力所能及的就是尽量待在家中少出门。看到一些...
+ ## [凿渠造舟：视频会议的昨天与明天](https://blog.csdn.net/csdnnews/article/details/104471151)
+ > 作者 |我堂堂一个熊猫来源 |脑极体（ID：unity007）在因疫情延期开工的行业中，绝大部分都在上周和本周开始恢复工作，其中远程办公仍然是主流。尤其对于上周已经开始远程办公的小伙...
+ ## [黑科技抗疫，Python 开发者大集结！](https://blog.csdn.net/csdnnews/article/details/104471153)
+ > 2020年初，突如其来的新型冠状病毒肺炎打乱了所有人的节奏，但社会各界迅速团结起来，为抗击疫情贡献出自己的力量。除了捐款捐物外，很多科技公司运用5G、大数据、AI、云计算等新互联网技术，...
  ## [一文详解 Java 的几把 JVM 级锁](https://blog.csdn.net/csdnnews/article/details/104471154)
  > 作者 | 楚昭来源 |阿里巴巴中间件（ID：Aliware_2018）在计算机行业有一个定律叫&quot;摩尔定律&quot;，在此定律下，计算机的性能突飞猛进，而且价格也随之越来越便宜，...
  ## [新的边缘架构兴起，Serverless 的发展方向在哪？](https://blog.csdn.net/csdnnews/article/details/104471148)
  > 【编者按】逻辑和数据的自动分布将为终端用户带来最小的延迟，而无需为开发人员担心维护、扩展或配置问题。作者 | Brecht De Rooms译者 |明明如月，责编 | 夕颜出品 |C...
+ ## [破14亿，Python分析我国存在哪些人口危机！](https://blog.csdn.net/csdnnews/article/details/104471158)
+ > 作者 | 猪哥来源 | 裸睡的猪（ID:IT--Pig）责编|夕颜2020年1月17日，国家统计局发布了2019年国民经济报告，报告中指出我国人口突破14亿。猪哥的朋友圈被14亿人口...
  ## [从鲁班造木鸢到智能控制，图解世界无人机发展简史](https://blog.csdn.net/csdnnews/article/details/104471195)
  > 来源 |ABINGE责编 | 夕颜【End】CSDNx巨杉大学联合认证学习，免费开放！“分布式数据库集训营”帮助您从零开始学习分布式数据库、分布式架构知识，现在加入活动，完成课程还将专...
  ## [程序员亲测，认真学习这个开源项目就能拿到字节跳动的 offer！](https://blog.csdn.net/csdnnews/article/details/104471146)
@@ -167,8 +183,6 @@ K12&#25945;&#32946;&#26426;&#26500;&#8220;&#23478;&#36745;&#22521;&#20248;&#8221
  > MySql命令行基本语法
  ## [python mysql 存储过程 快速生成千万级测试数据](https://blog.csdn.net/ClassmateLin/article/details/100512822)
  > python mysql 存储过程 快速生成千万级测试数据
- ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
- > mysql 8.0.17 解压版安装教程
  ## [面试 SQL整理 常见的SQL面试题：经典50题](https://blog.csdn.net/u010565545/article/details/100785261)
  > 面试 SQL整理 常见的SQL面试题：经典50题
  ## [gitee新建项目上传到gitee仓库](https://blog.csdn.net/yonggandess/article/details/98121530)
@@ -179,32 +193,44 @@ K12&#25945;&#32946;&#26426;&#26500;&#8220;&#23478;&#36745;&#22521;&#20248;&#8221
  > 【数据库-MySql】\[Err\] 1062 - Duplicate entry &x27;1-1&x27; for key &x27;PRIMARY&x27;
  ## [pod报错"Back-off restarting failed container"解决办法](https://blog.csdn.net/sqhren626232/article/details/101013390)
  > pod报错&quot;Back-off restarting failed container&quot;解决办法
- ## [Oracle 面试题汇总](https://blog.csdn.net/u011868279/article/details/100546885)
- > Oracle 面试题汇总
+ ## [mysql 8.0.17 解压版安装教程](https://blog.csdn.net/u014722022/article/details/100170664)
+ > mysql 8.0.17 解压版安装教程
  ## [SQL server怎么查找某个时间段（多个时间段）的第一个值 或 最后一个值（这里举例查找每小时的第一个值）（Convert详细方法）](https://blog.csdn.net/a1439775520/article/details/100945095)
  > SQL server怎么查找某个时间段（多个时间段）的第一个值 或 最后一个值（这里举例查找每小时的第一个值）（Convert详细方法）
- ## [Mysql中使用json格式存储数据好吗？](https://blog.csdn.net/zhongzhen7355/article/details/100092893)
- > Mysql中使用json格式存储数据好吗？
- ## [com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value异常解决方案](https://blog.csdn.net/syc000666/article/details/100580972)
- > com.mysql.cj.exceptions.InvalidConnectionAttributeException: The server time zone value异常解决方案
- ## [MQ消息丢失和消息重复的解决方案和实战](https://blog.csdn.net/u011414629/article/details/101166442)
- > MQ消息丢失和消息重复的解决方案和实战
- ## [SQL实现MYSQL到HIVE建表语句的转换（异构数据源DDL转换）](https://blog.csdn.net/colby_chenlun/article/details/100131940)
- > SQL实现MYSQL到HIVE建表语句的转换（异构数据源DDL转换）
- ## [mysql学习之旅（九）——多表连接查询的介绍](https://blog.csdn.net/weixin_38377637/article/details/100152892)
- > mysql学习之旅（九）——多表连接查询的介绍
+ ## [MySQL存储引擎](https://blog.csdn.net/weixin_44367006/article/details/100995160)
+ > MySQL存储引擎
+ ## [ORA-01017: invalid username/password; logon denied  无法使用密码登录oracle  centos linux redhat](https://blog.csdn.net/Alan1921/article/details/100146505)
+ > ORA-01017: invalid username/password; logon denied  无法使用密码登录oracle  centos linux redhat
+ ## [Oracle 面试题汇总](https://blog.csdn.net/u011868279/article/details/100546885)
+ > Oracle 面试题汇总
+ ## [数据库id自增重排序问题](https://blog.csdn.net/qq_28406091/article/details/100135964)
+ > 数据库id自增重排序问题
+ ## [ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate](https://blog.csdn.net/lxw1844912514/article/details/100975571)
+ > ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate
+ ## [关系模型中的三类完整性约束：实体完整性、参照完整性和用户定义完整性](https://blog.csdn.net/qq_42884482/article/details/100150177)
+ > 关系模型中的三类完整性约束：实体完整性、参照完整性和用户定义完整性
 # PM 
- ## [智能问答系统产品设计详解](http://www.woshipm.com/pd/3414748.html)
- > 本文通过基于问答对的问答型机器人作为引入，逐步分解其设计流程，用通俗易懂的语言描述问答型机器人的产品设计思路。问答系统的概述我想大家肯定看过很多关于自然语...
- ## [To B 业务如何获取客户？](http://www.woshipm.com/operate/3419809.html)
- > 在To B业务中，获客永远是整套运营转化流程的第一步也是最重要的一步——后续的留存、转化说的再多，没有初始获取的客户，那就是空谈一场。我之前写过一篇文章《To B运...
- ## [为什么26元的口罩，会让人觉得比20元的还便宜？](http://www.woshipm.com/it/3414699.html)
- > 消费者要的不是便宜，而是占便宜的感觉。——乔布斯本以为，今年最让人唏嘘的是猪肉，平时只要十几块钱一斤，硬是涨到了三十几块一斤，你有多久没有大口吃肉了？没想...
- ## [“无接触”复工，高端餐饮的线上新机遇](http://www.woshipm.com/it/3415099.html)
- > 疫情之下，高端餐饮商家纷纷拥抱外卖。“无接触”复工，会是高端餐饮的线上新机遇吗？美团外卖开启“商家上线绿色通道”后，仅一周之内成功上线的商家就超过3000家，其中...
- ## [信息时代，互联网人怎么保持大脑的高效运转](http://www.woshipm.com/it/3414684.html)
- > 认知心理学研究表明，受限于大脑容量、能量供给等因素，我们大脑所能利用的资源是一定的。那么，在信息时代，互联网人怎么保持大脑的高效运转呢？纵观整个人类文明，...
- ## [即将开课｜腾讯、阿里等公司招聘AI产品经理，这些能力是面试重点](http://www.woshipm.com/online/3425927.html)
- > 众所周知，面对疫情来袭，隔离是最有效的预防和控制手段，也成为牵引商业模式变革的重要变量。2003年非典，隔离使电子商务趁机崛起，对后续十几年的中国商业社会带来了...
+ ## [万字解析：如何提前成为高级PM？](http://www.woshipm.com/pmd/2207364.html)
+ > 扎心一问：上了那么多PM高级课，你高级了吗？点进来验证一下。缘起到了三月份，就是入行 PM 的第五个年头了。17年、18年，上了两次PM进阶课，第一次在线课，第二次...
+ ## [疫情期间，为什么你的订单到货那么慢？](http://www.woshipm.com/pmd/3419008.html)
+ > 受到疫情影响，大多数人都将购买需求转移到了线上。同时由于暴涨的订单数量、还在恢复中的物流运输等因素，导致用户的收货时间缓慢甚至是发货时间、收货时间延后。那么...
+ ## [卓越产品经理的三个评价标准](http://www.woshipm.com/pmd/3419608.html)
+ > 对产品经理来说，什么是考验产品经理核心能力的关键呢？答案众说纷纭。而在本文中，笔者也尝试结合自己的实践经验与认知，给出答案以及优秀产品经理的三个评价标准。...
+ ## [产品、运营人的王牌思维：认知失调](http://www.woshipm.com/operate/3416192.html)
+ > 本文前面内容多为案例和认知失调的发生情况和满足条件，后面是在产品设计和运营中可能的运用到的现象，希望大家仔细阅读~01你在注册账号/参加活动的时候，会让你填写...
+ ## [棉花信息平台的产品分析&功能趋势](http://www.woshipm.com/pd/871685.html)
+ > 近些年来，“互联网＋”始终是线上与线下产业结合并赋能发展的趋势所在。其中，棉花信息平台就利用互联网与线下棉花产业的连接，提供质量查询、棉花商城、采供需求、企业...
+ ## [客户体验诊断，3步掌握！](http://www.woshipm.com/operate/3415743.html)
+ > 客户体验诊断，就是站在客户视角，去检查客户在与企业的接触过程中，各项体验是否良好。隔离期，很多企业的生意都清淡了不少，这是不是意味着可以乘机放松下。并不是...
+ ## [设计师如何通过AB test，让运营无话可说？](http://www.woshipm.com/zhichang/3415186.html)
+ > 因为职业的不同，审美的不同，在交付设计稿的时候，总会被要求反复修改，有时候甚至觉得修改的地方让人不可思议。那么，面对这种情况，设计师应该如何处理呢？也许你可...
+ ## [新课上线| 为什么90%的运营新人，面对工作时无从下手？](http://www.woshipm.com/online/3426594.html)
+ > “leader昨天交待的那个转化文案还没有定稿，今天又追加了个运营班级群的任务……根本不知道要怎么开始啊”如果你身边有运营新人或者你自己本身就是，那么这样的吐槽你一定...
+ ## [直播减肥增肌，线上健身究竟是不是一门好生意？](http://www.woshipm.com/it/3415093.html)
+ > 对于健身行业而言，在线直播健身为其提供了一个新的增长切口，用精品内容引发一个新的浪潮。可以预见，在线内容市场潜力巨大，必将还会吸引更多的企业加入进来。当84...
+ ## [互联网时代的乐评人为什么不讨喜？](http://www.woshipm.com/it/3414335.html)
+ > 一味以商业导向为评论的中心，或者是盲目地以受众的喜好为批评的中心，某种程度上都未必有可取之处。如何利用好媒体这把“双刃剑”，捍卫音乐评论的话语体系、理论体系和...
+ ## [产品面试系列——如何回答产品指标变化](http://www.chanpin100.com/article/110783)
+ > 产品经理的一项核心职责是分析产品的各种指标进而判断产品未来发展的趋势。
 
     
