@@ -1,22 +1,26 @@
 ---
 title: 2020-02-25 IT News
 copyright: true
-date: 2020-02-25 08:00:53
+date: 2020-02-25 09:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [OPPO加入自研芯片战团丨良品铺子今日上交所上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582587004&ver=2179&signature=WKPJqKjEEl54AJovjaeGZa3WMq7aakv4Q4oaNDG7r2lbr4vzt-*Qozgo2dnTIo82IsqdU-Zk2821bK9qGtWDLsw5xx10yCt29qoiI9x5cftw1sG8C84TbDOXJUIUEEV2&new=1)
- > 2月24日丨周一【Do说】编辑 | 赵艾虎OPPO加入自研芯片战团，启动代号“马里亚纳计划”OPPO启动代号“马里亚纳计划”，正式加入自研SoC芯片战团。实际上，手机厂商自研SoC芯片并不新鲜。从2014年起，先后有小米、...
- ## [重磅!《5G确定性网络行业白皮书》发布：助力运营商新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1582587004&ver=2179&signature=mW0R8mulDckPV4FGDcMAlxhJ5zf5ueDDxNINzD6GZgIz9PNsolWcCSCa9leNISTE4Ho82GZSLOa*g0j1BNXK-*Gsg8YjFaJSZPT-8k6VteO5zKuEDvoAfueEZ6tn7QUq&new=1)
- > 2020年是5G商用第二年，电信运营商除了建5G网络，将更多精力投入到面向政企需求的5G垂直行业（5G 2B）业务发展上（包括智慧港口、智能制造、智能电网、VR/AR等）。在近期的战“疫”工作中，我们看到5G远程医疗、...
- ## [建一个5G基站要花多少钱?](http://mp.weixin.qq.com/s?src=11&timestamp=1582587004&ver=2179&signature=r6Dqi3N78c*vyRzm2rRVHEZtI4jBngmwjClfG8FJu6Pln2uFNVpFpHalRqlSzn3o4Ff3A2aA77O7jbw*uZx7yFADnw8Y-cE-VHK2oO0s4s100FdSE-L2TyrBTpEAYcrp&new=1)
- > 建设一个5G基站要花多少钱？这一直是运营商和设备商秘而不宣的数字。由于我国5G基站还未规模部署，没有公开数据，我们也一直不敢妄加猜测。不过，近日全球最先规模商用5G网络的韩国运营商终于公开了这一数字。韩...
- ## [华为今晚甩出大招，谷歌也要震](http://mp.weixin.qq.com/s?src=11&timestamp=1582587004&ver=2179&signature=J7kinPRfe38-JPqV0hTtt1KbyknhBevsOOoFW*xJrLmIuaoGUhLFbFeai7E4jdnOlCOZksW8MBKxeuxT9*Tx0pi1Kl1Yh0eawxy4CaL25AWHIYg06zJF9jofkF*DOVRE&new=1)
+ ## [华为今晚甩出大招，谷歌也要震](http://mp.weixin.qq.com/s?src=11&timestamp=1582592404&ver=2179&signature=J7kinPRfe38-JPqV0hTtt1KbyknhBevsOOoFW*xJrLm8GBsSnwXkdM94VYEyGDK4bOgIDJscT6E5cBfL22xoGKsM76blwJxdSjWgDPMLYILLVJPf7Lewqguvn8mX57ku&new=1)
  > 今天，华为发布了Mate Xs，不对，是将Mate X重新发布一次~~~虽然不是孪生兄弟，但大哥和弟弟外观一毛一样，只剩升级了屏幕、铰链、处理器、拍照等四块。1、折叠屏可以在8、6.6、6.38英寸三种尺寸间变化。2、双层...
- ## [余承东：华为5G手机全球出货量已突破1000万台](http://mp.weixin.qq.com/s?src=11&timestamp=1582587004&ver=2179&signature=y38POh8v0bvBmvOEihDoc*PaUPJzXx8LRf1j4ovOVyUwJAX71gTmqj5ZgnSuNNX2RQkA3MGl180TBqtVhqv4FQdd9tP*lHkE7xH1FzG9isM=&new=1)
+ ## [余承东：华为5G手机全球出货量已突破1000万台](http://mp.weixin.qq.com/s?src=11&timestamp=1582592404&ver=2179&signature=y38POh8v0bvBmvOEihDoc*PaUPJzXx8LRf1j4ovOVyUomMfy3im0e**wJ5WO*EM0fsh4-KpMsibkGczg48A85aJ8ekgjrhd3YBSJD1Q8MBM=&new=1)
  > 经济观察网 记者 钱玉娟 北京时间2月24日晚9点，华为在西班牙巴塞罗那举行了一场线上终端产品和战略发布会。在会上，华为消费者业务CEO余承东透露，华为终端在2019年收入8500亿人民币，同比增长18%，手机出货量...
+ ## [OPPO加入自研芯片战团丨良品铺子今日上交所上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582592404&ver=2179&signature=WKPJqKjEEl54AJovjaeGZa3WMq7aakv4Q4oaNDG7r2ktvqiuzAbIol6-qNB2DJtVWyjq-4TbbbXWcBsXzxWfOiCLsE6dDKmX8x*snE5MU3QlYF2pHx0nntHyuqmvTo-O&new=1)
+ > 2月24日丨周一【Do说】编辑 | 赵艾虎OPPO加入自研芯片战团，启动代号“马里亚纳计划”OPPO启动代号“马里亚纳计划”，正式加入自研SoC芯片战团。实际上，手机厂商自研SoC芯片并不新鲜。从2014年起，先后有小米、...
+ ## [重磅!《5G确定性网络行业白皮书》发布：助力运营商新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1582592404&ver=2179&signature=mW0R8mulDckPV4FGDcMAlxhJ5zf5ueDDxNINzD6GZgINUcbqMFm-tmih03PN-cSQnohRt8TGbZhgWKP8dHVCZDc9PbjZoEAdZ5xPsEHb4Dh4Q3ljLEGhJMrHM2205d1e&new=1)
+ > 2020年是5G商用第二年，电信运营商除了建5G网络，将更多精力投入到面向政企需求的5G垂直行业（5G 2B）业务发展上（包括智慧港口、智能制造、智能电网、VR/AR等）。在近期的战“疫”工作中，我们看到5G远程医疗、...
+ ## [建一个5G基站要花多少钱?](http://mp.weixin.qq.com/s?src=11&timestamp=1582592404&ver=2179&signature=r6Dqi3N78c*vyRzm2rRVHEZtI4jBngmwjClfG8FJu6Pad7Hw6cpcsurGsuPBLIAiaqrya7*S8rIweiCZFgNvAVXsm4tTAQbIF3CMBNfGOxnxOk4-iAE3XEdFEHG27Rxb&new=1)
+ > 建设一个5G基站要花多少钱？这一直是运营商和设备商秘而不宣的数字。由于我国5G基站还未规模部署，没有公开数据，我们也一直不敢妄加猜测。不过，近日全球最先规模商用5G网络的韩国运营商终于公开了这一数字。韩...
 # IT 技术 
+ ## [值得选用的十三种优秀React JS框架](http://developer.51cto.com/art/202002/611073.htm)
+ > 值得选用的十三种优秀React JS框架
+ ## [Netty、Kafka中的零拷贝技术到底有多牛?](http://developer.51cto.com/art/202002/611180.htm)
+ > Netty、Kafka中的零拷贝技术到底有多牛?
  ## [普通端到端加密可能并不那么安全](http://netsecurity.51cto.com/art/202002/611113.htm)
  > 普通端到端加密可能并不那么安全
  ## [疫情当前，才知道AI原来是这么好用](http://ai.51cto.com/art/202002/611096.htm)
@@ -29,10 +33,6 @@ categories: IT NEWS
  > 如何在谷歌云平台中创建虚拟机？
  ## [好机会，我用Python给女同事头像戴上口罩！](http://developer.51cto.com/art/202002/611071.htm)
  > 好机会，我用Python给女同事头像戴上口罩！
- ## [绿色机器人如何帮助环境可持续发展](http://iot.51cto.com/art/202002/611111.htm)
- > 绿色机器人如何帮助环境可持续发展
- ## [情绪快失控，当当网被曝又有员工感染？](http://news.51cto.com/art/202002/611060.htm)
- > 情绪快失控，当当网被曝又有员工感染？
  ## [这是未来的Windows 10X：一步步教你体验Windows 10X](http://os.51cto.com/art/202002/611207.htm)
  > 好消息是，微软已于近期开放了Win10X模拟器的下载，让我们可以提早对这款操作系统一探究竟。接下来，小编就
  ## [5G时代，运营商的边缘计算困局](http://network.51cto.com/art/202002/611206.htm)
@@ -41,36 +41,36 @@ categories: IT NEWS
  > 蜂窝物联网是一种将物理设备(如传感器)与互联网连接起来的方式，它将物理设备(如传感器)与智能手机搭载在同
  ## [10个痛点：IT部门如何面对边缘计算](http://network.51cto.com/art/202002/611204.htm)
  > 从网络和集成到故障转移、资产管理和安全，IT部门需要做大量工作来确保对边缘技术的充分支持。以下是工作的
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [一次看完2019技术好文，快收藏！](https://blog.csdn.net/alitech2017/article/details/103802899)
- > 一次看完2019技术好文，快收藏！
- ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
+ ## [GitHub 标星 1.6w+，我发现了一个宝藏项目，作为编程新手有福了！](https://blog.csdn.net/u013486414/article/details/103274892)
  > 
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [未来 Android 开发的从业方向](https://blog.csdn.net/ZuoYueLiang/article/details/103999166)
- > 未来 Android 开发的从业方向
- ## [史上最牛逼的 Eclipse 快捷键，提高开发效率！](https://blog.csdn.net/weixin_43570367/article/details/104263892)
- > 史上最牛逼的 Eclipse 快捷键，提高开发效率！
- ## [这6个编程语言排行榜，据说全都知道的人不足1% | 年终榜单大盘点](https://blog.csdn.net/alitech2017/article/details/103730286)
+ ## [Spring源码在编译过程中的几个问题](https://blog.csdn.net/u011342403/article/details/104485313)
+ > Spring源码在编译过程中的几个问题
+ ## [【图解算法面试】记一次面试：说说游戏中的敏感词过滤是如何实现的？](https://blog.csdn.net/m0_37907797/article/details/103272967)
  > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [直接把别人网站的 js css html 扒下来的 Chrome 插件【强烈推荐】](https://blog.csdn.net/ch834301/article/details/103951912)
- > 直接把别人网站的 js css html 扒下来的 Chrome 插件【强烈推荐】
- ## [APP-细说APP网络深度优化与网络安全](https://blog.csdn.net/u014220518/article/details/103893281)
- > APP-细说APP网络深度优化与网络安全
- ## [芯科技之LM2596介绍](https://blog.csdn.net/dyq1995/article/details/103521916)
- > 芯科技之LM2596介绍
- ## [2020十大科技趋势展望](https://blog.csdn.net/BEYONDMA/article/details/103836436)
+ ## [【多线程并发编程】六 什么是线程安全？](https://blog.csdn.net/qq_16855077/article/details/104477155)
+ > 【多线程并发编程】六 什么是线程安全？
+ ## [程序员需要了解的硬核知识之汇编语言(一)](https://blog.csdn.net/qq_36894974/article/details/103273900)
  > 
- ## [kubernetesv1.17集群生态搭建笔记](https://blog.csdn.net/weixin_43116910/article/details/104175177)
+ ## [互联网公司分布式系统架构演进之路](https://blog.csdn.net/zzti_erlie/article/details/103271071)
  > 
+ ## [面试官：关于Java性能优化，你有什么技巧](https://blog.csdn.net/weixin_38405253/article/details/103270494)
+ > 
+ ## [OpenCV-Python 绘图功能 | 七](https://blog.csdn.net/fendouaini/article/details/103274088)
+ > 
+ ## [阿里P8数据架构师：顶级开发者都在用什么数据库？](https://blog.csdn.net/yuanziok/article/details/103269827)
+ > 
+ ## [单片机I/O控制方式（UART中断和DMA中断的区别）](https://blog.csdn.net/m0_38106923/article/details/103268993)
+ > 
+ ## [语音信号预加重及matlab实现](https://blog.csdn.net/weixin_42846157/article/details/104482892)
+ > 语音信号预加重及matlab实现
+ ## [Kali-Linux 2020.1修改Root用户密码](https://blog.csdn.net/weixin_46192679/article/details/104474829)
+ > Kali-Linux 2020.1修改Root用户密码
+ ## [为啥国人偏爱Mybatis，而老外喜欢Hibernate/JPA呢？](https://blog.csdn.net/m0_37609579/article/details/102961765)
+ > 
+ ## [Spring Alibaba Cloud使用Seata实现分布式事务(二)之原理分析](https://blog.csdn.net/qq_34936541/article/details/103274666)
+ > 
+ ## [除了 MIT 6.824，还有哪些高质量的「分布式系统」学习资料？](https://blog.csdn.net/TiDB_PingCAP/article/details/104484325)
+ > 除了 MIT 6.824，还有哪些高质量的「分布式系统」学习资料？
  ## [手把手带你深入解析静态分派 & 动态分派原理 | 原力计划](https://blog.csdn.net/csdnnews/article/details/104489654)
  > 本文将会带你了解行为方法分派，从而帮助你在行为分派时进行一些功能操作。具体将会讲解行为分派的类型：静态&amp; 动态行为分派，希望对大家有帮助。作者 |Carson_Ho本文系CS...
  ## [耐克为何不接受加密货币付款？](https://blog.csdn.net/csdnnews/article/details/104489655)
@@ -84,36 +84,36 @@ categories: IT NEWS
  ## [我眼中的分布式系统可观测性](https://blog.csdn.net/csdnnews/article/details/104489657)
  > 作者 |黄东旭责编 | 郭 芮今天的文章我想从下面这张模糊的照片说起，相信很多小伙伴对这张照片并不陌生，这是去年人类第一次拍摄的 M87 中心黑洞的照片。从1915年，爱因斯坦提出...
 # 人工智能 
- ## [认清现实|别再忽悠大学生创业了](https://blog.csdn.net/weixin_43691058/article/details/104447094)
+ ## [leetcode1083. 销售分析 II（SQL）](https://blog.csdn.net/hebtu666/article/details/104437593)
+ > leetcode1083. 销售分析 II（SQL）
+ ## [Python 进阶（五）：数据库操作之 SQLite](https://blog.csdn.net/ityard/article/details/104338259)
+ > Python 进阶（五）：数据库操作之 SQLite
+ ## [SQL Server从入门到精通（一）](https://blog.csdn.net/m0_46315852/article/details/104458943)
+ > SQL Server从入门到精通（一）
+ ## [MySQL（一）](https://blog.csdn.net/qq_39683777/article/details/104458300)
+ > MySQL（一）
+ ## [LeetCode力扣刷题数据库（180）：连续出现的数字](https://blog.csdn.net/qq_35456045/article/details/104465212)
+ > LeetCode力扣刷题数据库（180）：连续出现的数字
+ ## [数据库基础概念](https://blog.csdn.net/qq_37857921/article/details/104450659)
+ > 数据库基础概念
+ ## [java毕业设计_车辆紧急救援系统](https://blog.csdn.net/biyesheji_/article/details/104453555)
+ > java毕业设计_车辆紧急救援系统
+ ## [【数据库】作业1————SQLserver安装及使用、新建数据库、新建表、在表中完成增删改查](https://blog.csdn.net/weixin_46366744/article/details/104415111)
+ > 【数据库】作业1————SQLserver安装及使用、新建数据库、新建表、在表中完成增删改查
+ ## [SQL server的安装和基本操作](https://blog.csdn.net/heart_yyf/article/details/104459242)
+ > SQL server的安装和基本操作
+ ## [mysql连接不上（步骤详细，确保0基础也能轻松看懂）](https://blog.csdn.net/weixin_45591597/article/details/104448439)
  > 
- ## [回忆是一杯毒酒，让人肝肠寸断](https://blog.csdn.net/solaraceboy/article/details/104448603)
- > 回忆是一杯毒酒，让人肝肠寸断
- ## [新年新气象，接个私活赚点生活费？说说这里的弯弯绕](https://blog.csdn.net/u012702547/article/details/104423890)
- > 新年新气象，接个私活赚点生活费？说说这里的弯弯绕
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [鹅厂程序员在家撸码的十大姿势](https://blog.csdn.net/Tencent_TEG/article/details/104421881)
- > 鹅厂程序员在家撸码的十大姿势
- ## [【大厂智力题】瓶水有毒问题](https://blog.csdn.net/qq_42322103/article/details/104440440)
- > 【大厂智力题】瓶水有毒问题
- ## [浏览器内核以及代表作品](https://blog.csdn.net/qq_43690340/article/details/104462748)
- > 浏览器内核以及代表作品
- ## [如何高效学习的一点思考](https://blog.csdn.net/shengqianfeng/article/details/104439535)
- > 如何高效学习的一点思考
- ## [react简单介绍和使用入门](https://blog.csdn.net/qq_46381614/article/details/104449744)
- > react简单介绍和使用入门
- ## [盘点抖音上的整蛊程序，会了这些谁还敢跟你玩？小心没朋友啦](https://blog.csdn.net/weixin_45728976/article/details/104457548)
- > 盘点抖音上的整蛊程序，会了这些谁还敢跟你玩？小心没朋友啦
- ## [这个世界上人真的分三六九等，你信吗？](https://blog.csdn.net/harvic880925/article/details/104176042)
- > 
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [数据结构与算法动态可视化！！！](https://blog.csdn.net/weixin_44225901/article/details/104467538)
- > 数据结构与算法动态可视化！！！
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [2020-02-22](https://blog.csdn.net/a836222080/article/details/104444525)
- > 2020-02-22
+ ## [leetcode1082. 销售分析 I （SQL）](https://blog.csdn.net/hebtu666/article/details/104437422)
+ > leetcode1082. 销售分析 I （SQL）
+ ## [Oracle数据库下载、安装、卸载教程](https://blog.csdn.net/weixin_42047611/article/details/104442898)
+ > Oracle数据库下载、安装、卸载教程
+ ## [linux安装mysql8.0.18](https://blog.csdn.net/weixin_45114726/article/details/104449841)
+ > linux安装mysql8.0.18
+ ## [MySQL-④数据库和表的基本操作（1）](https://blog.csdn.net/weixin_43823808/article/details/104457608)
+ > MySQL-④数据库和表的基本操作（1）
+ ## [mysql系列【你不知道的索引优化】(面试必问)](https://blog.csdn.net/qq_42827680/article/details/104464016)
+ > mysql系列【你不知道的索引优化】(面试必问)
 # PM 
  ## [全民战“疫”，网络视频的内容与传播价值闪耀](http://www.chanpin100.com/article/110796)
  > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。本文为【全民“宅”家，数字化防疫指南】第 8 篇
