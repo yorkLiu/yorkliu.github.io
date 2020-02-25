@@ -1,7 +1,7 @@
 ---
 title: 2020-02-25 IT News
 copyright: true
-date: 2020-02-25 10:01:40
+date: 2020-02-25 12:02:11
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -70,73 +70,59 @@ MR&#19968;&#20307;&#26426;&#21021;&#21019;&#20844;&#21496;&#8220;LYNX&#8221;&#23
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [华为今晚甩出大招，谷歌也要震](http://mp.weixin.qq.com/s?src=11&timestamp=1582594243&ver=2179&signature=J7kinPRfe38-JPqV0hTtt1KbyknhBevsOOoFW*xJrLm8GBsSnwXkdM94VYEyGDK4lGvzaRv3cSWpafs*V**j7IFsY-ehvDewrEnC5Uvbcak6CALhHrZYNfzoj8Mq0yQo&new=1)
- > 今天，华为发布了Mate Xs，不对，是将Mate X重新发布一次~~~虽然不是孪生兄弟，但大哥和弟弟外观一毛一样，只剩升级了屏幕、铰链、处理器、拍照等四块。1、折叠屏可以在8、6.6、6.38英寸三种尺寸间变化。2、双层...
- ## [重磅!《5G确定性网络行业白皮书》发布：助力运营商新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1582594243&ver=2179&signature=mW0R8mulDckPV4FGDcMAlxhJ5zf5ueDDxNINzD6GZgINUcbqMFm-tmih03PN-cSQW8VM4hEZFkw*bTHNMFXvoWinyNqhPcO8iuUq2RQ8NAyRZEI6x-hy-jOaFpxchRNk&new=1)
- > 2020年是5G商用第二年，电信运营商除了建5G网络，将更多精力投入到面向政企需求的5G垂直行业（5G 2B）业务发展上（包括智慧港口、智能制造、智能电网、VR/AR等）。在近期的战“疫”工作中，我们看到5G远程医疗、...
- ## [建一个5G基站要花多少钱?](http://mp.weixin.qq.com/s?src=11&timestamp=1582594243&ver=2179&signature=r6Dqi3N78c*vyRzm2rRVHEZtI4jBngmwjClfG8FJu6Pad7Hw6cpcsurGsuPBLIAiYLhRmdJab2GJkUuMpADtueIKkX4-yvkUX-76Fbfaf56TiyeA4W54EzTHg9C1u2tY&new=1)
- > 建设一个5G基站要花多少钱？这一直是运营商和设备商秘而不宣的数字。由于我国5G基站还未规模部署，没有公开数据，我们也一直不敢妄加猜测。不过，近日全球最先规模商用5G网络的韩国运营商终于公开了这一数字。韩...
- ## [余承东：华为5G手机全球出货量已突破1000万台](http://mp.weixin.qq.com/s?src=11&timestamp=1582594243&ver=2179&signature=y38POh8v0bvBmvOEihDoc*PaUPJzXx8LRf1j4ovOVyXuoG42PB6TjRJT5fh7tmXloNvURbBQTZgivTyhX7Pqsd*NxiOCLScYBe7l0ptysJs=&new=1)
+ ## [2020 RSAC创新沙盒冠军出炉 Security.AI下一个网安新锐](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=ZugqixT6AOK6A5jW5llK4CNphq1*7za5UazxQFplP-LUXywOprgZL9as9Jp9Z330lvfKb1zQKnTV2KQAIF74ZVzRDnRqLQt3GZY7UWcE94EUZ52f47v2JZnSQYALanvW&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全2月25日讯，于美国时间24日16:15分，也就是北京时间25日早上8:15分，RSAC组委会宣布2020年RSAC创新沙盒的冠军是Security.AI，该公司成
+ ## [华为Mate Xs开箱：掰一下才知道它还是变了](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=F3RHjHiXxcdV2wVH5OJnVVJVOSQ7LBjzHWX9rxLkO5-mWpaJKOwkGsSYCrtOICRkB1BvDJcLxJUjADTDvbcLGg5Hl1FZaXWWbbbjz5EDy*NAX4d-KH8Q4DreMWDZEPmG&new=1)
+ > 我们在第一时间对华为Mate Xs进行了上手体验，虽说在外观上区别与上代不大，但铰链结构和处理器都进行了升级，上一代存在的问题还有没有？新铰链手感如何？快点戳视频一探究竟！想看深度报道，请微信搜索“iFeng...
+ ## [一文读懂华为移动服务：和谷歌的区别在哪，是救命良药?](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=EOb-uV05hSrgtWJeRR8v3rixQgbqqMl4WAQcdlsLHKM0MEHKk7o1HWH70g02ir58o7xdTEUw8gOTFjlxX3O2539BujUwuXoraWT9lFcGCxQ=&new=1)
+ > 2019年5月16 日，华为公司及旗下的68家附属公司被美国商务部添加到美国商务实体名单中，此后所有受《美国出口管理条例》管辖的物品，向华为出口、再出口或进行境内转让都必须获得许可，随后，谷歌公司宣布停止与...
+ ## [余承东：华为5G手机全球出货量已突破1000万台](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=y38POh8v0bvBmvOEihDoc*PaUPJzXx8LRf1j4ovOVyVAUuSTUu4a2Hq74p8godd6wzZxz10PN5-4Ie7pJLfA8xPwUiTPwbcTCF0arPmFkJI=&new=1)
  > 经济观察网 记者 钱玉娟 北京时间2月24日晚9点，华为在西班牙巴塞罗那举行了一场线上终端产品和战略发布会。在会上，华为消费者业务CEO余承东透露，华为终端在2019年收入8500亿人民币，同比增长18%，手机出货量...
- ## [OPPO加入自研芯片战团丨良品铺子今日上交所上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582594243&ver=2179&signature=WKPJqKjEEl54AJovjaeGZa3WMq7aakv4Q4oaNDG7r2ktvqiuzAbIol6-qNB2DJtVmevJs7iC4akV8BAmo7OJydTgwv4VCKmgM-ZTOi*gPnftj-l79zBTz-sjTsixXqmM&new=1)
+ ## [重磅!《5G确定性网络行业白皮书》发布：助力运营商新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=mW0R8mulDckPV4FGDcMAlxhJ5zf5ueDDxNINzD6GZgIiVeiBXtuX7Oo2IjGMcMwr1QmSH6wQTbxa1j7qM6XaBlk286qz6XHZB-I0KoEqABHu4wJ4NhNBhvdXInVS6MDK&new=1)
+ > 2020年是5G商用第二年，电信运营商除了建5G网络，将更多精力投入到面向政企需求的5G垂直行业（5G 2B）业务发展上（包括智慧港口、智能制造、智能电网、VR/AR等）。在近期的战“疫”工作中，我们看到5G远程医疗、...
+ ## [OPPO加入自研芯片战团丨良品铺子今日上交所上市\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=WKPJqKjEEl54AJovjaeGZa3WMq7aakv4Q4oaNDG7r2nyAc4pLmor9UnEnzXY7f64gclB9FPMC3gPx7cWozQlI4vJ50NFi5hIainHDDJU5cikgRI8vWaOKAON*WEzNWFq&new=1)
  > 2月24日丨周一【Do说】编辑 | 赵艾虎OPPO加入自研芯片战团，启动代号“马里亚纳计划”OPPO启动代号“马里亚纳计划”，正式加入自研SoC芯片战团。实际上，手机厂商自研SoC芯片并不新鲜。从2014年起，先后有小米、...
+ ## [华为今晚甩出大招，谷歌也要震](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=J7kinPRfe38-JPqV0hTtt1KbyknhBevsOOoFW*xJrLlya0Rk8aMQMYxsDK6-5rmIvqh*A0BXTAYuuHcBrpmvj2l84oofYp0Drz7hd9roLdDbgWNUzsHGgJTFvRp6WsHP&new=1)
+ > 今天，华为发布了Mate Xs，不对，是将Mate X重新发布一次~~~虽然不是孪生兄弟，但大哥和弟弟外观一毛一样，只剩升级了屏幕、铰链、处理器、拍照等四块。1、折叠屏可以在8、6.6、6.38英寸三种尺寸间变化。2、双层...
+ ## [建一个5G基站要花多少钱?](http://mp.weixin.qq.com/s?src=11&timestamp=1582603204&ver=2179&signature=r6Dqi3N78c*vyRzm2rRVHEZtI4jBngmwjClfG8FJu6M8k*hhjD9zu5xEp79PvmA7K61vKoF3LuEHLwvmTrMq1eOtA2XMhefVtkM3*xWfUSLhdGYJ7bVwDY9qoOLAIO97&new=1)
+ > 建设一个5G基站要花多少钱？这一直是运营商和设备商秘而不宣的数字。由于我国5G基站还未规模部署，没有公开数据，我们也一直不敢妄加猜测。不过，近日全球最先规模商用5G网络的韩国运营商终于公开了这一数字。韩...
 # IT 技术 
+ ## [Linux基金会评出10大常用的开源软件](http://os.51cto.com/art/202002/611188.htm)
+ > Linux基金会评出10大常用的开源软件
  ## [区块链：新型冠状肺炎，对不起，我来晚了](http://blockchain.51cto.com/art/202002/611212.htm)
  > 区块链：新型冠状肺炎，对不起，我来晚了
- ## [值得选用的十三种优秀React JS框架](http://developer.51cto.com/art/202002/611073.htm)
- > 值得选用的十三种优秀React JS框架
  ## [Netty、Kafka中的零拷贝技术到底有多牛?](http://developer.51cto.com/art/202002/611180.htm)
  > Netty、Kafka中的零拷贝技术到底有多牛?
- ## [普通端到端加密可能并不那么安全](http://netsecurity.51cto.com/art/202002/611113.htm)
- > 普通端到端加密可能并不那么安全
+ ## [值得选用的十三种优秀React JS框架](http://developer.51cto.com/art/202002/611073.htm)
+ > 值得选用的十三种优秀React JS框架
+ ## [一文读懂即将引爆的TinyML：在边缘侧实现超低功耗机器学习](http://news.51cto.com/art/202002/611223.htm)
+ > 一文读懂即将引爆的TinyML：在边缘侧实现超低功耗机器学习
+ ## [古有照妖镜，今有换脸识别机，微软CVPR 2020力作，让伪造人脸无处遁形](http://news.51cto.com/art/202002/611215.htm)
+ > 古有照妖镜，今有换脸识别机，微软CVPR 2020力作，让伪造人脸无处遁形
  ## [疫情当前，才知道AI原来是这么好用](http://ai.51cto.com/art/202002/611096.htm)
  > 疫情当前，才知道AI原来是这么好用
  ## [从华为到阿里，我的15年职场历程](http://news.51cto.com/art/202002/611084.htm)
  > 从华为到阿里，我的15年职场历程
- ## [炸了！技术总监“删库跑路”被判刑两年多](http://developer.51cto.com/art/202002/611108.htm)
- > 炸了！技术总监“删库跑路”被判刑两年多
- ## [如何在谷歌云平台中创建虚拟机？](http://virtual.51cto.com/art/202002/611064.htm)
- > 如何在谷歌云平台中创建虚拟机？
+ ## [惊呆！200行代码就能实现的隐身术你见过么？](http://news.51cto.com/art/202002/611225.htm)
+ > 最近，猿妹在GitHub上发现一个名为Real-Time-Person-Removal的神器，可以实时去除视频中的人物。
+ ## [为什么会发生云迁移故障以及如何预防](http://cloud.51cto.com/art/202002/611222.htm)
+ > 企业如今向云平台迁移的应用程序比以往任何时候都要多，但其中的许多计划都失败了。企业应该学习如何避免在
+ ## [安全在数字化转型中的作用是什么?](http://netsecurity.51cto.com/art/202002/611218.htm)
+ > 随着安全在数字战略中重新获得优先地位，很多企业的首席信息安全官(CISO)正在将安全责任分散到组织中，并致
+ ## [Python 从业十年是种什么体验？老程序员的一篇万字经验分享](http://news.51cto.com/art/202002/611224.htm)
+ > 出于某些原因，想记录一下我过去数年使用 Python 的经验和一些感悟。毕竟算是一门把我带入互联网行业的语言
+ ## [SECURITI.ai荣获RSA Conference 2020创新沙盒冠军](http://netsecurity.51cto.com/art/202002/611221.htm)
+ > 当地时间2月24日，万众瞩目的RSAC2020在美国旧金山正式开幕。在有着“网络安全风向标”之称的创新沙盒环节
+ ## [阿里技术总监：从Java技术转向管理有哪些陷阱？](http://news.51cto.com/art/202002/611220.htm)
+ > 从一个开发转型管理的路上，有哪些陷阱？本文来自阿里技术总监的一次分享，摘要了主要的4点。
  ## [区块链：新型冠状肺炎，对不起，我来晚了](http://blockchain.51cto.com/art/202002/611212.htm)
- > 从2019年12月8日第一例不明原因肺炎到疫情爆发至今，在这场全国人民打响的“战疫”中，陆续出现了一些比较
+ > 从2019年12月8日第一例不明原因肺炎开始，在这一场全民疫情阻击战中，一系列科技手段成为了“战疫”得力助
+ ## [我是如何在 3 天内零成本完成 AI 小程序开发的](http://news.51cto.com/art/202002/611219.htm)
+ > 基于对 AI 的爱好与兴趣，我走上了独自钻研机器学习的道路。和所有热爱 AI 的人们一样，在一段孤独的摸索旅
  ## [这是未来的Windows 10X：一步步教你体验Windows 10X](http://os.51cto.com/art/202002/611207.htm)
  > 好消息是，微软已于近期开放了Win10X模拟器的下载，让我们可以提早对这款操作系统一探究竟。接下来，小编就
- ## [5G时代，运营商的边缘计算困局](http://network.51cto.com/art/202002/611206.htm)
- > 随着5G的不断发展，未来5G将广泛应用于各行各业，不过，这也给运营商的承载网络带来了四大新挑战。为了构建
- ## [什么是蜂窝物联网（Cellular IoT）？](http://iot.51cto.com/art/202002/611205.htm)
- > 蜂窝物联网是一种将物理设备(如传感器)与互联网连接起来的方式，它将物理设备(如传感器)与智能手机搭载在同
- ## [10个痛点：IT部门如何面对边缘计算](http://network.51cto.com/art/202002/611204.htm)
- > 从网络和集成到故障转移、资产管理和安全，IT部门需要做大量工作来确保对边缘技术的充分支持。以下是工作的
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [UDP socket查询高速缓存](https://blog.csdn.net/dog250/article/details/104219341)
- > UDP socket查询高速缓存
- ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
- > 
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
- > 
- ## [直接把别人网站的 js css html 扒下来的 Chrome 插件【强烈推荐】](https://blog.csdn.net/ch834301/article/details/103951912)
- > 直接把别人网站的 js css html 扒下来的 Chrome 插件【强烈推荐】
- ## [如何快速打好Java基础？](https://blog.csdn.net/qing_gee/article/details/104273480)
- > 
- ## [Java JWT开源库综述](https://blog.csdn.net/chszs/article/details/103581054)
- > 
- ## [史上最牛逼的 Eclipse 快捷键，提高开发效率！](https://blog.csdn.net/weixin_43570367/article/details/104263892)
- > 史上最牛逼的 Eclipse 快捷键，提高开发效率！
- ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
- > 
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [Python爬虫5.2 — scrapy框架pipeline模块的使用](https://blog.csdn.net/Zhihua_W/article/details/103615741)
- > 
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
+ ## [又一起删库跑路事件 ―― 微盟系统遭遇运维破坏](http://news.51cto.com/art/202002/611214.htm)
+ > 来自微盟官网的消息，微盟的业务系统数据库（包括主备）遭遇其公司运维人员的删除。
  ## [AI 口罩督查官诞生，识别率高达 85%！](https://blog.csdn.net/csdnnews/article/details/104489652)
  > 作者 | 马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews ）在英国脱欧后，谷歌计划让英国用户的账号脱离欧盟的隐私监管政策，改用美国司法标准。尽管这样的修改让数千万英国用户...
  ## [400本以上电子书、1000门以上课程会员免费看，快来领取！](https://blog.csdn.net/csdnnews/article/details/104489653)
@@ -163,46 +149,31 @@ MR&#19968;&#20307;&#26426;&#21021;&#21019;&#20844;&#21496;&#8220;LYNX&#8221;&#23
  > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
  ## [我眼中的分布式系统可观测性](https://blog.csdn.net/csdnnews/article/details/104489657)
  > 作者 |黄东旭责编 | 郭 芮今天的文章我想从下面这张模糊的照片说起，相信很多小伙伴对这张照片并不陌生，这是去年人类第一次拍摄的 M87 中心黑洞的照片。从1915年，爱因斯坦提出...
-# 人工智能 
- ## [ios12屏蔽更新描述文件文件失效](https://blog.csdn.net/Li060703/article/details/104451205)
- > ios12屏蔽更新描述文件文件失效
- ## [C++Fstream文件流与freopen重定向教程](https://blog.csdn.net/EricNTH/article/details/104449149)
- > C++Fstream文件流与freopen重定向教程
- ## [kali手机内核编译汇总](https://blog.csdn.net/qq_29705179/article/details/104454936)
- > kali手机内核编译汇总
- ## [Eclipse开发NDK](https://blog.csdn.net/dreams_deng/article/details/104445081)
- > Eclipse开发NDK
- ## [Android开发技巧（三）—— 创建定时任务](https://blog.csdn.net/qq_41205771/article/details/104446141)
- > 
- ## [解决webpack打包静态资源(样式)无法添加厂商前缀-webkit -moz -ms -o的问题](https://blog.csdn.net/qq_34115899/article/details/104456593)
- > 解决webpack打包静态资源(样式)无法添加厂商前缀-webkit -moz -ms -o的问题
- ## [Android启动优化](https://blog.csdn.net/sushineboy/article/details/104452861)
- > Android启动优化
- ## [Android状态机StateMachine使用举例及源码解析](https://blog.csdn.net/aiwusheng/article/details/104445661)
- > Android状态机StateMachine使用举例及源码解析
- ## [组合计数 （四）1.递归 2. 快速幂求逆元 3.卢卡斯定理 4.阶乘分解加大数据乘法运算](https://blog.csdn.net/qq_45432665/article/details/104459079)
- > 组合计数 （四）1.递归 2. 快速幂求逆元 3.卢卡斯定理 4.阶乘分解加大数据乘法运算
- ## [Android实现图片自动切换](https://blog.csdn.net/weixin_45457983/article/details/104464922)
- > Android实现图片自动切换
- ## [第二天](https://blog.csdn.net/weixin_43976418/article/details/104466997)
- > 第二天
- ## [CTU Open Contest 2019   J. Beer Vision](https://blog.csdn.net/bjfu170203101/article/details/104448821)
- > CTU Open Contest 2019   J. Beer Vision
- ## [2-21 第1周总结](https://blog.csdn.net/baidu_24285051/article/details/104437547)
- > 2-21 第1周总结
- ## [Android AIDL使用介绍(3) 浅说AIDL背后的Binder](https://blog.csdn.net/lansoul1987/article/details/104459345)
- > Android AIDL使用介绍(3) 浅说AIDL背后的Binder
- ## [AS用lamda表达式制作一个简单的butoon事件](https://blog.csdn.net/s56564/article/details/104458012)
- > AS用lamda表达式制作一个简单的butoon事件
 # PM 
- ## [新冠肺炎疫情下，智慧城市可以起到怎样的作用？](http://www.woshipm.com/it/3412744.html)
- > 智慧城市核心是“智慧”，城市像人一样有智慧。智慧城市主要就是靠大数据的能力来实现“智慧”，它具有强大的分析能力。那么，在这次的新冠肺炎下，如果是充分利用智慧城市...
- ## [“被冲锋”的在线医疗，未来该如何定位？](http://www.woshipm.com/it/3419947.html)
- > 一场突然来袭的疫情，把一直不温不火的在线医疗推到了大众面前，平安好医生、春雨医生、丁香园、微医等多家在线医疗服务平台也顺势走到大众面前，不少媒体评论认为认为...
- ## [一个法则，帮你应对「产品介绍」的三大坑](http://www.woshipm.com/zhichang/3407850.html)
- > 在发布新产品、新活动或者向投资人介绍产品的时候，都面临过类似的问题：如何简洁描述自家产品，吸引用户？而在这背后，其实就是一个信息表达，促使行动的过程。一句...
- ## [新形势下，如何在“过剩”市场讨生活？](http://www.woshipm.com/it/3418078.html)
- > 过剩市场，是典型的充分竞争市场。企业在充分竞争的市场里经营，要么成本领先，要么与众不同，做不到这两点，必然陷入同质化的红海。节后在家办公，陈年的粽子、大米...
+ ## [以视频类APP为例：看如何搭建数据指标体系](http://www.woshipm.com/operate/3424576.html)
+ > 在精细化运营的过程中，为自己的产品搭建一套数据指标体系，对于促进产品和业务增长是至关重要的。而数据指标的建立是为数据分析和业务服务的，在实际操作过程中，需要...
+ ## [来！谈谈疫情带给我的认知升级](http://www.woshipm.com/it/3424083.html)
+ > 本文讲解的认知升级，主要沿着：理解——认可——遵循的框架，讲了什么是克制力，克制力有什么好处，以及克制力提升的三大建议：进化、做门神、做管理。enjoy~疫情爆发已...
+ ## [下载10个电商App后，我终于买到了5个口罩](http://www.woshipm.com/it/3424575.html)
+ > 大规模复工在即，你的口罩准备好了吗？1月22晚，当我所在的贵州“十八线”小乡镇口罩彻底脱销后，我真正陷入了口罩“焦虑”。在此时，淘宝、京东、叮当快药等电商平台，...
+ ## [区块链时代需要流量思维吗？](http://www.woshipm.com/blockchain/3422125.html)
+ > 对项目来说，使用活跃度决定了它存活与否。这句话放在区块链上同样适用——如果没有用户的持续使用、没有流量注入，忽视流量思维在区块链时代中的应用，那么区块链项目如...
+ ## [如何从0到1搭建搜索系统（一）](http://www.woshipm.com/pd/3422975.html)
+ > 梦寐以求的在家办公居然在这种情况下实现了？！假期越来越长，眼睛一睁一闭假期又多几天……闲来无事趁着周末把产品如何入门搜索给大家写写。本文会先简单介绍一下搜索系...
+ ## [渠道为王，还是流量为王？](http://www.woshipm.com/it/3424433.html)
+ > 丰富的流量是一片大草原，渠道是奶牛——任何奶牛都可以付点钱吃草，但是奶牛产下的牛奶、牛奶制成的奶制品，才是价值所在。此前一篇文章中，明确提出：品牌重要性 = 消...
+ ## [企业复工后，如何4步打造线上营销？](http://www.woshipm.com/marketing/3424327.html)
+ > 根据过去多年的互联网品牌传播案例沉淀，我们在线上领域传播的基础数据分析提出以下建议，希望更多企业能够在疫情期间，利用线上平台实现特殊时期的品牌推广工作，更好...
+ ## [产品日活DAU下降，我们该如何分析？](http://www.woshipm.com/operate/3417138.html)
+ > 在产品运营中，产品指标往往反映了产品状态与用户使用情况，而“日活”就是一个非常重要的产品指标，面对日活的异常波动，我们需要多方位进行分析，并对出现的问题进行及...
+ ## [洞察——产品战略的基础](http://www.woshipm.com/pmd/3424383.html)
+ > 产品战略，对产品发展有着非常大的影响——产品战略是否足够优秀或者是否具备前瞻性，甚至能决定一个产品的生死。那么对产品经理来说，我们又该如何把控产品战略，制定对...
+ ## [小程序矩阵：三种模型与思考](http://www.woshipm.com/chuangye/3424305.html)
+ > 目前大多数做小程序矩阵的企业都是在已有的成熟业务上，对业务逻辑和细分场景进行拆分，规划小程序矩阵。而对于是否要做小程序矩阵，也要根据公司的剧情情况来决定。...
+ ## [在闲鱼“捡垃圾”成为一种热潮](http://www.woshipm.com/it/3424241.html)
+ > 在闲鱼上，人们可以找到循规蹈矩的购物、一手商品交易之外的快感。刷闲鱼，既是休闲放松，又是狩猎。购买那些低价二手商品，既是消费，又是赌博。我们在电子游戏中时...
+ ## [野蛮生长的B端产品，如何挖掘新需求源？](http://www.woshipm.com/pmd/3422838.html)
+ > 继消费互联网的浪潮后，重效率、重企业服务等方向的B端产品也在不断崛起中，但是对于大多数没有经历系统培训、没有体系化知识框架的B端产品经理来说，往往会卡在产品需...
  ## [全民战“疫”，网络视频的内容与传播价值闪耀](http://www.chanpin100.com/article/110796)
  > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。本文为【全民“宅”家，数字化防疫指南】第 8 篇
  ## [在线职业教育缓解“宅”家焦虑，用户体验与服务闭环是发展关键](http://www.chanpin100.com/article/110795)
@@ -227,7 +198,5 @@ MR&#19968;&#20307;&#26426;&#21021;&#21019;&#20844;&#21496;&#8220;LYNX&#8221;&#23
  > 好想要一个既能做原型也能文档编辑的软件啊！
  ## [BAT互联网医疗小程序对比分析](http://www.chanpin100.com/article/110784)
  > BAT互联网医疗小程序的对比分析
- ## [产品面试系列——如何回答产品指标变化](http://www.chanpin100.com/article/110783)
- > 产品经理的一项核心职责是分析产品的各种指标进而判断产品未来发展的趋势。
 
     
