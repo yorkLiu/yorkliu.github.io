@@ -1,7 +1,7 @@
 ---
 title: 2020-02-26 IT News
 copyright: true
-date: 2020-02-26 12:01:20
+date: 2020-02-26 17:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,31 +69,47 @@ Uber&#23558;&#22312;&#32593;&#32422;&#36710;&#39030;&#25237;&#25918;&#24191;&#21
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [中国为什么将“标准智能汽车体系”基本形成时间推迟5年?丨汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=P*5EqdO1yYIi0PYupfO1H7nkFaL6YA7YZ1V0Sm6majLnAOUVtt25gnMdv0ynEwxC8qLyJlUkf1dG1KXwfV3zKI6it3t*v7jCmAXBM1jEupV7ux1ahvCGO4-Pf3OmBkrG&new=1)
- > 作者 | 田大鹏       编辑 |王鑫● ● ● 2月12日，由国家发改委、工信部、公安部、交通部等11部委联合盖章，出台《智能汽车创新发展战略》（以下简称“《战略》”）正式对外发布。相关专家认为中国标准智能汽车...
- ## [华为发布第二代5G折叠屏手机丨字节跳动扩大春招规模\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=wQfE*GW-PVY1t3A6Jw0Qc4wStefQal5ygric2HgV9IGkLOwMsZtx*v74CX5dBmOl8XRKTmWvhNYotdqQFrG0Hn5lFuonPkhCPoKM9DUPv24NssmwvzBDrgBfR1iJPexJ&new=1)
- > 2月25日丨周二【Do说】编辑 | 赵艾虎华为第二代5G折叠屏手机Mate Xs发布 售价2499欧元北京时间2月24日晚，华为在西班牙巴塞罗那正式发布了旗下第二代 5G折叠屏手机HUAWEI Mate Xs，仍然采用独创的鹰翼外折叠设计...
- ## [旷视因港股IPO申请失效“更新材料”业内判断其抢跑物流智能化成市场中长期看点](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=3dwadDYE12xyB7agCJeo79qjr5uGqn-c3JCT86DjWd4ekz1C1W-JlicBrsDVRXrc9fBKXskMGHiCZl0iqCMbWXu3fp7pwwIM92BeSbP0HQo=&new=1)
- > 经济观察网 记者 钱玉娟 2月25日，在旷视科技向港交所提交上市初始申请6个月后，进程状态显示为“失效”。对此，旷视科技25日作出回应称，上市进程仍在正常推进中，正在更新材料。上市进程再推延据了解，旷视科...
- ## [新产品|韩国ETRI开发200GBPS QSFP-DD收发器，传输速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=z3L2i9tuGun-cx6zfEjQmj9eEjYE7O2Kui4WYkcYC5Pph1nFoei9NFZDO0i5j0OH-*2o6VT7byeeNitnf53KwCnH3XsnRBrgfIUzj4iE636zt2*vW0klOROMAJ0Ssk7b&new=1)
- > 新闻导读韩国电子与电信研究院(ETRI)已成功开发出一种以QSFP-DD(四方小尺寸可插拔双密度)外形的紧凑型200Gbps光收发器，传输大约100 GB的超高清4K影片大约需要四秒钟。ICCSZ讯 (编译：Anton) 韩国的研究人员已经
- ## [微信上线「行程查询」服务；钉钉 CEO 回应被打「一星」；Go 1.14 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=PbSJxtyWMzt9JlczghJOiX734PkVE8t0V0ymdjCyiAxNC*Wo0Ll5mgb4k50MAYM-hhxD4TKYnnNmdvh-gwCA0NiNnTrwJUXOcO-PGcdgPj-YlfWRRYnNJICLpK1bhAEx&new=1)
+ ## [原厂优先配置产能，存储涨价的重要源头，企业级数据中心究竟是何方神圣](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=wMmTIHOsy*8iryRaUW9aPU*0FgPTt6Ho2FbdWhF2l3JfPcZQ9RnRFIZh935zlT9JfnFyIc4nIns55Naghx7Ay*tliFnlBtZEcm4*FpX9*gGSKubQVQ4KbVtwV8vk6WCJ&new=1)
+ > 2019年产业寒冬终于度过，然而，2020年开年并不平凡，“新型冠状病毒”疫情备受全球关注。全民禁足，工厂开工和开学大范围延期，国家和各行业大量人力、物力、财力用于抗击疫情，已对交通运输业，住宿和餐饮业，...
+ ## [指静脉识别趋于成熟 渗透率还有很大发展空间](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=90K0qY*9WfqGpLRX09hctrtymZ7RmgYMoF8I-GBpPCZ68TLtqVPTjiP7wQzu2pInRUlPFIkg5TFKOnbBUhnG5CXezu4F25ckFeucxvp2haV6mGbwZuStIlaD7GCHBtGF&new=1)
+ > 近年来，人工智能领域硕果累累，生物识别技术也迎来了发展机遇期，无论是技术还是市场，都取得了长足的进步。在这一领域中，除“当红炸子鸡”人脸识别、指纹识别以外，指静脉识别也开始发力。 指静脉技术趋于成...
+ ## [高通发布XR2 5G参考设计，Facebook高管谈论AR必须依赖5G](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=eOxF3*F6WgMVMiC1si7NxIVqI6kjowu-2koqEuwVgATcIp-wxe2phdfRi*N8zpPpmkJyPGyjdsd8ZuJvma166pCfu7-4cxL9Ec9FwrsTyqb8cJGzAA32k7nf6*uIeqqh&new=1)
+ > hi188｜编辑2月26日青亭网报道，在今天凌晨举行的高通线上发布会中，高通正式发布了基于XR2的参考设计，其中共有三款，分别是：高通XR2 5G参考设计（第四代），还有两款与歌尔合作的高完成度AR和VR参考设计。骁...
+ ## [疯狂的石头，内乱的小米](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=w90RIF5nXrY9RifHEXeSDOuvCuxwAdZiQAU2P*oBqo2kuyW-dWYTUv77e82giZYpIbqDmpBWaVtif0nhFNqhfePxdWx0zELC22ivnGFSsO8BHmgYYyfi*82QD5Cjg-BO&new=1)
+ > 作者：裕丰出品：IT爆料汇“一屋不扫，何以扫天下？” 最近，石头科技成功登陆科创板，这是继华米、云米之后，小米扶持的第三家生态链上市公司。 石头科技成立于2014年7月，主营业务为扫地机器人的研发、生产和...
+ ## [疫情之下的VR线下娱乐，何去何从?](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=ravu6ak8P8pjdymzhGm9pwnofe-cFawfDJHZkCiR1544*xNYQwmmtSNaEUHyb-SPbI72cgFMXIi6QlUv38HsSpcJZNa6MtzUtaJbkzMgdlbslatCE9FKUnnSdHdL24Mn&new=1)
+ > 疫情之前，这是门生意；疫情之中，这是门赔本买卖。正文共 1609 字 5 图；预计阅读时间 5 分钟 （VRPinea2020年2月26日电）这次新冠肺炎的疫情之中，因为隔绝传染源的原因。实体经济依旧采取全面闭店的状态，虽...
+ ## [1月国内市场5G手机出货量546.5万部](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=aR2wbbOLluNQeUKLbPWFA4Gcr37bUBkBmnfWgJK69qpOiQOqc8zRv8Z5z8XuRvzVUcYpRK1qa3x7wts5dfsbWDI2WAB56mdcVqrFjDrqTkM=&new=1)
+ > 新华社北京2月26日电 记者26日从工信部获悉，2020年1月国内手机市场总体出货量2081.3万部，其中5G手机546.5万部。此外，国产品牌手机出货量占同期手机出货量的88.0%，上市新机型占同期手机上市新机型数量的9...
+ ## [微信上线「行程查询」服务；钉钉 CEO 回应被打「一星」；Go 1.14 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=PbSJxtyWMzt9JlczghJOiX734PkVE8t0V0ymdjCyiAxcqOmU7*uqAWWUkbD3vJ*Ttcb77aOJSVOlvL8FFyCdealzihDhhHmBS-ttq5f-GYBM15pnvhr87gE9Z7-2m01D&new=1)
  > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻...
- ## [昨天，华为亮剑](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=APpljQbV6KA73HePUUosIVhMs439Pm6qJZ0JVB3SVZc9dxCuvoo6we2zWFpkjiN68Y3eSqxdEEntWtXSXnbJhkuqMvSKHOecU7uPEPVbEAsjXiFZGuWwsJ365qt0OHSw&new=1)
+ ## [2020年的数字化转型状态](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=WRsDREvkX9Du5IVrGHZY61YZ0V1NZinsp*HI-ivroyK1a4Dj0wYFSMXP-3lx4o*OZS-rOmFbcvE7p9DsZYYvhM0VTOSSjFJiLtpzQrOOYw2PFxkxJfTZzT9e7v4ECfTp&new=1)
+ > 关键讯息，D1时间送达！多家IT网络媒体对企业在过去10年来开展数字化转型获得的经验教训进行了总结，这为那些着手实施数字化转型计划的企业提供了发展路线图，他们从各种角度进行了剖析。多家IT网络媒体对企业在...
+ ## [旷视因港股IPO申请失效“更新材料”业内判断其抢跑物流智能化成市场中长期看点](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=3dwadDYE12xyB7agCJeo79qjr5uGqn-c3JCT86DjWd5cMQY0jGlcs*m9JFMKX7ockGL72eUll01Gx52Hd4qGZTPWnmk-BnKIQO-L-ut61dc=&new=1)
+ > 经济观察网 记者 钱玉娟 2月25日，在旷视科技向港交所提交上市初始申请6个月后，进程状态显示为“失效”。对此，旷视科技25日作出回应称，上市进程仍在正常推进中，正在更新材料。上市进程再推延据了解，旷视科...
+ ## [中国为什么将“标准智能汽车体系”基本形成时间推迟5年?丨汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=P*5EqdO1yYIi0PYupfO1H7nkFaL6YA7YZ1V0Sm6majJcRPGbkNRONQcJvf5P65V4UA8oMk1BOwZx40Yo3zOCMNQyPXx2G-iFWXtNknQgzBiEVf-1Eq5Ytn4IGJp-f8gL&new=1)
+ > 作者 | 田大鹏       编辑 |王鑫● ● ● 2月12日，由国家发改委、工信部、公安部、交通部等11部委联合盖章，出台《智能汽车创新发展战略》（以下简称“《战略》”）正式对外发布。相关专家认为中国标准智能汽车...
+ ## [新产品|韩国ETRI开发200GBPS QSFP-DD收发器，传输速度提高一倍](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=z3L2i9tuGun-cx6zfEjQmj9eEjYE7O2Kui4WYkcYC5PPoRmmQo5J4ouRuaJ9yBh1lGNK9UjEDDFGuP1Hf8gM5kPluFQiO4mf8jb0YoAGPbeBJI5KJKYIS2r5x6IE2fa4&new=1)
+ > 新闻导读韩国电子与电信研究院(ETRI)已成功开发出一种以QSFP-DD(四方小尺寸可插拔双密度)外形的紧凑型200Gbps光收发器，传输大约100 GB的超高清4K影片大约需要四秒钟。ICCSZ讯 (编译：Anton) 韩国的研究人员已经
+ ## [华为发布第二代5G折叠屏手机丨字节跳动扩大春招规模\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=wQfE*GW-PVY1t3A6Jw0Qc4wStefQal5ygric2HgV9IFSbDL131Zlc8tN-0bldZYQA*IwFCvyElX8E*iOFfmwoLU8*E9fXzm1MMXuI57wkiItuec4uSn7x*iugpLKSb8M&new=1)
+ > 2月25日丨周二【Do说】编辑 | 赵艾虎华为第二代5G折叠屏手机Mate Xs发布 售价2499欧元北京时间2月24日晚，华为在西班牙巴塞罗那正式发布了旗下第二代 5G折叠屏手机HUAWEI Mate Xs，仍然采用独创的鹰翼外折叠设计...
+ ## [昨天，华为亮剑](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=APpljQbV6KA73HePUUosIVhMs439Pm6qJZ0JVB3SVZfCgbdtSy*gN*9PC12paJRvcI*h1Z2vzhG1l3w7gZh5AkP-ncqQ0dTuENOw1Yv3DLruxvBG1D6KL5Fl9hLAhvMs&new=1)
  > 来源：华尔街见闻（ID：wallstreetcn） 作者曹泽熙，文中观点不构成投资建议。 HMS一出，苹果和谷歌垄断的日子一去不复返了。昨晚，华为欧洲新品发布会在朋友圈刷屏：华为开始要卖近2万元的折叠屏手机了！昨天在...
- ## [对于 5G 和全球来说，华为为什么如此重要?](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=rIGxj0XT-t4RSkJ*QR3fO9zRrpbCqUvr9euff3fIfZfex6LvhWN6qQBdV292*7dChfBDZx-nSlFmRFVTy5pbwZXf*19llyY1S670wv91A0tVwrt5PkKnSn9F0Zc0oKzB&new=1)
+ ## [对于 5G 和全球来说，华为为什么如此重要?](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=rIGxj0XT-t4RSkJ*QR3fO9zRrpbCqUvr9euff3fIfZfZg5IgTAsJ6BlTxHFtkjyot*9HMDL7Y3JY5hcBzhyGb4Mux7Q3bu1m0YUOgvJafjvTRhZxNWu33KgpvOsDHvL7&new=1)
  > 在世界范围内，华为并不是唯一的5G供应商，为什么大多数国家最终还是选择了华为？头图来源 | 视觉中国2020年将是5G全球开启更大规模部署的关键一年，在这场5G网络的建设中，华为正在扮演越来越关键的角色。华为...
- ## [独家!22家AI创企复工背后：抗疫下的道阻与希望](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=vkxxsC9w427A1VnC6kj7HPcunq*fw4pQ0RD8FxZkLpIlEiYkA8Hc7DMrU5wbKLwdqjUe3dIIdeFe19l9X4DwwvO4Ti1NmMwMns8JEyk4jHoC9o*BD1fqnR2vJwUe*9sw&new=1)
+ ## [独家!22家AI创企复工背后：抗疫下的道阻与希望](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=vkxxsC9w427A1VnC6kj7HPcunq*fw4pQ0RD8FxZkLpKnxPoreaAobnS-gukubaXYe8*f1sEEeCjRz5lHR2TPOpkSH1*QIeXrfgm58L8VCJkw4dFN*uW7QWzC7UHK-kH6&new=1)
  > 看点：顶住压力硬核开工！22家AI创企复工实录。“在家办公又难又烦！”一位来自AI创企的工程师吐槽道。盼望已久的在家办公美好时光，谁知跟想象中不一样。“以前代码有bug，到人家工位上聊几句就解了，现在变远...
- ## [从搜索职位到人才管理，透视2020年中国HRSaaS市场竞争基本盘](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=0RqP6S4GNylvD-DsH5b*BmjNwGXXEAbafujpAUIG5ZQtQVeNL3KtJQ54KyNcq5yyGO4bI6Y0xFOdQcvOBIuFsCkqapP5474G-UvH*OOKfGvMBNKNGKanKGkvvcAweHbd&new=1)
+ ## [从搜索职位到人才管理，透视2020年中国HRSaaS市场竞争基本盘](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=0RqP6S4GNylvD-DsH5b*BmjNwGXXEAbafujpAUIG5ZTq*mbqDmvOWjRI89PyHm0DF*NwGAX9ZzGyOL*1HxVU6rrq7NMJpQl7VN18hSmseWWakMZureslZmtJ2vrg-U5S&new=1)
  > 【编者按】HRSaaS一直是人力资源服务行业的焦点，CDP作为人力资本管理服务创新机构，秉承“成就企业、造福员工”的品牌理念，通过将科技与服务的结合，于近日带来了一款全新的HRSaaS软件——WorkLife ，这款APP...
- ## [小米入股翱捷科技的背后：9个月时间投资了6家半导体企业](http://mp.weixin.qq.com/s?src=11&timestamp=1582687818&ver=2181&signature=AR0snRfklcRLc3y2iLJPE2*XM9RE8w-VLpA5yS1mr6Gx6Dzvki*heCFM4K1oYB0pC84ZLYqMGS98Wt1s9BiuS4*07uO0DnRYh2iXhL-J84iVUo*TL6R819xgceelsmh5&new=1)
+ ## [小米入股翱捷科技的背后：9个月时间投资了6家半导体企业](http://mp.weixin.qq.com/s?src=11&timestamp=1582705841&ver=2181&signature=AR0snRfklcRLc3y2iLJPE2*XM9RE8w-VLpA5yS1mr6HRXQAwm8h8m5f3lolIpgZCrI11oc9kthfRhMq-PZ8q2n0JEtTNl3fg8EdYyh6U4Q8aCbkzw5m3lwCIzH3twvmV&new=1)
  > 虽然自2017年澎湃S1发布之后，小米就再没有推出新的自研芯片，不过小米在芯片领域的布局却并未停止。去年4月，在小米将旗下的全资子公司松果电子团队进行重组，其中部分团队分拆组建新公司南京大鱼半导体，并独...
 # IT 技术 
  ## [抗击疫情 IT科技企业不做“局外人”！细节揭秘](http://network.51cto.com/art/202002/611314.htm)
  > 抗击疫情 IT科技企业不做“局外人”！细节揭秘
  ## [每天14点遭遇惊魂时刻，如何一步一步揪出真凶？](http://developer.51cto.com/art/202002/611284.htm)
  > 每天14点遭遇惊魂时刻，如何一步一步揪出真凶？
+ ## [企业为采用无服务器计算准备好了吗?](http://server.51cto.com/Datacenter-611335.htm)
+ > 企业为采用无服务器计算准备好了吗?
  ## [浅谈Chatbot的架构模型和响应机制](http://developer.51cto.com/art/202002/611190.htm)
  > 浅谈Chatbot的架构模型和响应机制
  ## [干货！从0到1教你打造一个令人上瘾的聊天机器人？](http://news.51cto.com/art/202002/611301.htm)
@@ -102,120 +118,144 @@ Uber&#23558;&#22312;&#32593;&#32422;&#36710;&#39030;&#25237;&#25918;&#24191;&#21
  > 别错过这些多云管理工具和贴士
  ## [突发！又一起恶意删库事件，涉事员工已被拘留](http://news.51cto.com/art/202002/611285.htm)
  > 突发！又一起恶意删库事件，涉事员工已被拘留
- ## [Linux基金会评出10大常用的开源软件](http://os.51cto.com/art/202002/611188.htm)
- > Linux基金会评出10大常用的开源软件
- ## [区块链：新型冠状肺炎，对不起，我来晚了](http://blockchain.51cto.com/art/202002/611212.htm)
- > 区块链：新型冠状肺炎，对不起，我来晚了
- ## [特殊时期让远程办公在企业中迅速普及](http://biz.51cto.com/art/202002/611337.htm)
- > 在疫情防控的特殊时期，你是否习惯了这种不一样的“宅生活”？春节过后企业开始逐渐复工，很多企业都选择了
- ## [景区游览实名登记：物联网迎来新商机](http://iot.51cto.com/art/202002/611336.htm)
- > 近日，文化和旅游部下发《旅游景区恢复开放疫情防控措施指南》，要求各地旅游景区继续实施疫情防控，实行实
- ## [企业为采用无服务器计算准备好了吗?](http://server.51cto.com/Datacenter-611335.htm)
- > 与任何颠覆性技术一样，无服务器计算的应用也充满了期望和炒作。人们需要了解真相，并确定新技术是否适合自
- ## [一个运维的存在感：微盟36小时事件，我们该反思什么？](http://network.51cto.com/art/202002/611334.htm)
- > 今日，微盟发布有关微盟系统故障通告。通告指出，2月23日19点，系统监控报警，服务出现故障，大面积服务集
- ## [简化复杂网络的三种策略](http://network.51cto.com/art/202002/611332.htm)
- > SD-WAN、Wi-Fi 6和5G等创新技术可以使网络做更多的事情，但也使其应用变得更加复杂。而采用软件、机器学习
- ## [直击RSA 2020大会，看业界大佬如何“搅局”网络安全市场](http://netsecurity.51cto.com/art/202002/611331.htm)
- > 作为网络安全行业风向标，从1991年至今，RSA大会已经走过29个年头。RSA大会主题一年一变，从去年的“Better
- ## [直击RSAC 2020创新沙盒总决赛 周鸿直播开“谈”](http://netsecurity.51cto.com/art/202002/611330.htm)
- > 昨日，360推出“锵锵四人‘谈’RSAC 2020沙盒总决赛”高端对话节目。直播由常青藤精英资本创始合伙人GISELL
- ## [边缘计算vs云计算：哪个更高效?](http://network.51cto.com/art/202002/611327.htm)
- > 以下将讨论边缘计算是否会取代云计算这一问题。另外，也可以了解边缘计算和云计算技术的各自优缺点。并深入
- ## [四种使用物联网和人工智能加速获取价值的有效方法](http://iot.51cto.com/art/202002/611328.htm)
- > 最近，话题转向企业如何才能更快，更有效地获取和利用物联网计划的见解。物联网和人工智能的结合为企业实现
- ## [选择合适的云计算提供商的13个关键因素](http://cloud.51cto.com/art/202002/611322.htm)
- > 如今，包括医疗保健机构在内的各种组织正在采用云平台存储数据以及经济高效地托管应用程序。可扩展性、敏捷
- ## [Python漫画爬虫开源 66漫画 AJAX，包含数据库连接，图片下载处理](https://blog.csdn.net/weixin_38429598/article/details/104503617)
- > 
- ## [麻烦你先搞懂这几个问题，简历再写熟悉数据库！！！](https://blog.csdn.net/a724888/article/details/104506486)
- > 
- ## [Python的内置类属性](https://blog.csdn.net/mall_lucy/article/details/104505199)
- > 
- ## [Python-深拷贝与浅拷贝](https://blog.csdn.net/weixin_44653585/article/details/104458154)
+ ## [2020年你必须了解的移动应用开发趋势](http://news.51cto.com/art/202002/611271.htm)
+ > 2020年你必须了解的移动应用开发趋势
+ ## [苹果建议不要滑动关闭后台程序：否则会影响电池寿命](http://mobile.51cto.com/news-611367.htm)
+ > 据外媒报道，苹果公司表示，在iPhone上滑动关闭应用程序可能会缩短iPhone电池寿命，并使设备变慢。
+ ## [WiFi 6井喷开始](http://network.51cto.com/art/202002/611365.htm)
+ > 相比于现在最流行的WiFi 5，WiFi 6速度更快、支持并发设备更多、时延更低、功耗更低。WiFi 6使用了OFDMA技
+ ## [2019年利用率较高的十大漏洞](http://zhuanlan.51cto.com/art/202002/611366.htm)
+ > 近日，安全研究人员的一份报告分析了代码存储库、地下论坛帖子、暗网站点、闭源报告和数据集(包括向流行的
+ ## [狂赚1200亿，差点收购苹果，影响千万程序员，那个叫做太阳的公司却陨落了！](http://developer.51cto.com/art/202002/611368.htm)
+ > 今年3月，一出超级大戏，将在美国高院上演――Oracle(甲骨文) 和Google(谷歌) 长达10年、索赔88亿美元的诉
+ ## [重塑云原生，2020年云原生的四大关键趋势](http://cloud.51cto.com/art/202002/611363.htm)
+ > 对于云原生社区而言，2019年无疑是关键的一年，层出不穷的新闻让人们眼花缭乱，难以从中甄别正在发生的事情
+ ## [IP路由基础，直连路由，静态路由，动态路由，FIB，一分钟了解下](http://network.51cto.com/art/202002/611364.htm)
+ > 在网络中路由器根据所收到的报文的目的地址选择一条合适的路径，并将报文转发到下一个路由器。
+ ## [搜狗发布AI录音笔新品 引领录音笔行业“新声态”](http://network.51cto.com/art/202002/611360.htm)
+ > 搜狗此次发布的4款AI录音笔，是搜狗诸多AI黑科技在录音笔产品上的又一次落地应用，将带来录音笔产品形态的
+ ## [实时可视化Debug：VS Code 开源新工具，一键解析代码结构](http://news.51cto.com/art/202002/611359.htm)
+ > DeBug 太枯燥？让 VS Code 画个图，自动帮你理清数据结构与代码思路，这就是 Reddit 2K 多点赞的开源新工具
+ ## [Spring Boot项目优化和JVM调优](http://developer.51cto.com/art/202002/611362.htm)
+ > 作为一名工程师，项目调优这事，是必须得熟练掌握的事情。在 Spring Boot 项目中，调优主要通过配置文件和
+ ## [实时离线一体化助力渠道分析系统](http://zhuanlan.51cto.com/art/202002/611361.htm)
+ > 本文实现了一种实时计算与离线计算一体化的解决方案，为渠道新增数据提供实时、准确、高效的数据支撑。本文
+ ## [\[享学Netflix\] 十五、Netflix Archaius和Spring Cloud的集成：spring-cloud-starter-netflix-archaius](https://blog.csdn.net/f641385712/article/details/104486647)
+ > \[享学Netflix\] 十五、Netflix Archaius和Spring Cloud的集成：spring-cloud-starter-netflix-archaius
+ ## [玩转 SpringBoot 2.x 之 RedisTemplate 操作](https://blog.csdn.net/ljk126wy/article/details/104449805)
  > 
  ## [如何把握跳槽时机，实现成功涨薪？](https://blog.csdn.net/lingshengxueyuan/article/details/104504685)
  > 如何把握跳槽时机，实现成功涨薪？
- ## [python：尽量用最少的代码实现2048小游戏](https://blog.csdn.net/rusi__/article/details/104505872)
- > 
- ## [linux软件管理](https://blog.csdn.net/qq_46399980/article/details/104505792)
- > 
- ## [Java-EE的动态网页技术JSP](https://blog.csdn.net/qq_34504626/article/details/104505884)
- > 
- ## [为啥国人偏爱Mybatis，而老外喜欢Hibernate/JPA呢？](https://blog.csdn.net/m0_37609579/article/details/102961765)
- > 
- ## [eclipse中部署第一个JSP项目（详细）](https://blog.csdn.net/weixin_42223850/article/details/104499821)
- > eclipse中部署第一个JSP项目（详细）
- ## [如何用Python自带的Tkinter库实现一个简单的贪吃蛇——一个菜鸟的自娱自乐](https://blog.csdn.net/xiaoyaozizai_19/article/details/104485956)
- > 如何用Python自带的Tkinter库实现一个简单的贪吃蛇——一个菜鸟的自娱自乐
- ## [kmp算法c++代码实现（完整版详解）](https://blog.csdn.net/xxxxxiao123/article/details/104498728)
- > kmp算法c++代码实现（完整版详解）
- ## [Python基础以及常见问题的处理方式（附所有详细代码，欢迎留言交流和补充）](https://blog.csdn.net/js_jjs/article/details/104426590)
- > Python基础以及常见问题的处理方式（附所有详细代码，欢迎留言交流和补充）
- ## [计算机网络--07时延计算习题课](https://blog.csdn.net/weixin_44154650/article/details/104497720)
- > 计算机网络--07时延计算习题课
- ## [笔记 局域网中的以太网和无线局域网](https://blog.csdn.net/MrBlake/article/details/104501431)
- > 笔记 局域网中的以太网和无线局域网
+ ## [nvidia-rapids︱cuGraph(NetworkX-like)关系图模型](https://blog.csdn.net/sinat_26917383/article/details/104506332)
+ > nvidia-rapids︱cuGraph(NetworkX-like)关系图模型
+ ## [词汇课程——一词多义与合成词（3）](https://blog.csdn.net/qq_35082030/article/details/104502403)
+ > 词汇课程——一词多义与合成词（3）
+ ## [在docker中让java程序支持https双向认证](https://blog.csdn.net/puhaiyang/article/details/104505874)
+ > 在docker中让java程序支持https双向认证
+ ## [Linux入门之文件系统01（Ubuntu）](https://blog.csdn.net/qq_42452450/article/details/104497974)
+ > Linux入门之文件系统01（Ubuntu）
+ ## [IT人士如何提高软件下载的速度](https://blog.csdn.net/lxn1214/article/details/104498696)
+ > IT人士如何提高软件下载的速度
+ ## [（三）兴趣对于工作的重要性](https://blog.csdn.net/u014797658/article/details/104501457)
+ > （三）兴趣对于工作的重要性
+ ## [采用递归算法求解汉诺塔问题](https://blog.csdn.net/qq_45691220/article/details/104504743)
+ > 采用递归算法求解汉诺塔问题
+ ## [解决共享文件夹不显示以及VMware-tools的重装问题](https://blog.csdn.net/haifeng_gu/article/details/104503399)
+ > 解决共享文件夹不显示以及VMware-tools的重装问题
+ ## [Python梦幻水族馆 源代码免费下载](https://blog.csdn.net/avskya/article/details/104506189)
+ > Python梦幻水族馆 源代码免费下载
+ ## [利用css实现浮雕效果示例代码](https://blog.csdn.net/html168/article/details/104503019)
+ > 利用css实现浮雕效果示例代码
+ ## [合根植物 java（并查集）](https://blog.csdn.net/weixin_41499217/article/details/104502899)
+ > 合根植物 java（并查集）
+ ## [C生成Excel出现8000401a的错误的另一种解决办法。](https://blog.csdn.net/aquayhy/article/details/104503953)
+ > C生成Excel出现8000401a的错误的另一种解决办法。
+ ## [华为面向全球发布HMS Core 4.0意味着什么？](https://blog.csdn.net/csdnnews/article/details/104519361)
+ > 作者 | CSDN App​封图付费下载自图虫在2020年世界移动通信大会（简称“MWC”）宣布取消后，华为迅速调整策略，将原定于在MWC举办的新品发布会，改为线上举行。整个发布会仅用了一个小时便介绍了华为Mate Xs、华为路由AX3系列智能路由器、华为5G CPE Pro 2路...
  ## [千亿市场空间开启！网络安全开启新纪元步入黄金时代](https://blog.csdn.net/csdnnews/article/details/104512441)
  > 热点事件：网络安全行业盛会RSAC2020于2月24日至28日正在旧金山召开。截至18日，共有全球529家机构报名参展。从会议中各主题演讲和参展机构所涉安全领域的关键词来统计，云安全、数据安全、网络安全、黑客与威胁是出现频率排名前四位的热词，人工智能与机器学习新进入本届热词TOP10。最近世界...
+ ## [华为最新 5G 折叠机 MateXs 发布，起售价 19000 多元](https://blog.csdn.net/csdnnews/article/details/104509484)
+ > 作者 | 胡巍巍出品 | 程序人生（ID：coder_life）哈哈哈哈哈，感觉余承东胖了，and中年人的时髦也很到位，这次穿的是超流行的灯草绒西服哦。因为是线上直播，一开始他的声音，回...
+ ## [一文读懂 JavaScript 和 Python 九大语义区别](https://blog.csdn.net/csdnnews/article/details/104509485)
+ > 作者 |Ruqayyah Sara译者 |弯月，责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）我是一名全栈开发。前几天我一直在研究算法和数据结构，因为对于程序员而言，最...
+ ## [以微盟故障来细说数据安全](https://blog.csdn.net/csdnnews/article/details/104509486)
+ > 作者 |王晓波责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）【CSDN 编者按】23日，微盟系统出现故障，大面积服务集群无法响应，生产环境及数据遭受严重破坏。据官方通告称...
+ ## [远程办公是一阵“过渡风”还是会“继续燃烧”？](https://blog.csdn.net/csdnnews/article/details/104509513)
+ > 受中国新型冠状病毒肺炎感疫情的影响，2月伊始，「远程办公」成为所有人关心与讨论的热门话题之一。在现实驱动之下，企业如何协同与高效办公成为重点问题中的焦点。在中国企业与「远程办公」正面相遇...
  ## [业界唯一集成AI加速的服务器处理器，全新第二代至强巩固英特尔数据中心领导者地位](https://blog.csdn.net/csdnnews/article/details/104498757)
  > 英特尔今天宣布英特尔®至强®可扩展平台正式迎来针对性能和性价比优化的全新英特尔®至强®可扩展处理器。作为业界部署最广泛的服务器平台，英特尔至强可扩展平台目前已累计销售超过3000万颗芯片。今天所发布的新款处理器主要面向英特尔在云、网络和边缘领域的主流至强可扩展处理器客户。主流OxM厂商即日起将发售.
+ ## [程序员别埋头苦干了，花时间学点薪资谈判技巧多赚一个亿可好？](https://blog.csdn.net/csdnnews/article/details/104509480)
+ > 本文作者是一名经验丰富的国际IT项目经理，他给程序员同胞们带来几个能让你在相同工作经验的条件下得到更高薪水offer的谈判策略，学起来吧！作者 | Ravi Rajan译者 | 香槟超新...
  ## [程序员的基本功：为什么非要用 Python 做数据分析？Excel 不好吗？](https://blog.csdn.net/csdnnews/article/details/104509483)
  > Python能够这么火其中一个重要的原因是数据分析带起来的。Python的优点有很多，要是能运用到工作中，会发现工作的效率大大提升，当然涨薪也是再正常不过的事情。互联网公司很多人都喜欢用...
+ ## [远程办公是巨头游戏？十倍扩容，他们如何做到百万级并发流量](https://blog.csdn.net/csdnnews/article/details/104509515)
+ > 作者 | Just出品 |CSDN（CSDNnews）据说，远程办公工具是2020年的第一个风口。疫情发生后，除了Zoom这样深耕视频会议多年的软件，钉钉、企业微信、飞书等一大批互联...
+ ## [​新冠疫情给 CTO 们带来的几点启示](https://blog.csdn.net/csdnnews/article/details/104509516)
+ > 作者 | 梁宇宁、Gavin Bu责编 | 唐小引头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）看到这篇文章的时候，作为 CTO 尤其是在中国的你，是否...
+ ## [清华、北大、985 高校教师之间有啥关系？Neo4j 创建知识图谱一查便知](https://blog.csdn.net/csdnnews/article/details/104509517)
+ > 本文主要讲解知识图谱及Neo4j图数据库的用法，是作者学习《Neo4j基础入门》书籍的在线笔记，同时以高校网络安全方向教师的关系图谱为例，重点介绍了图数据库查询语句的基本用法。非常基础的...
+ ## [华为发布近2万元折叠屏手机Mate Xs；iPhone 12或支持WiFi新标；Electron 6.1.8发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104509479)
+ > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
  ## [确认！别再相信Python了！ 程序员：就你敢说...](https://blog.csdn.net/csdnnews/article/details/104509481)
  > @程序员你有没有感觉到，Python最近已经刷屏到爆炸了？细分析Python之所以刷屏，主要是因为人红是非多，在编程界它是一种特殊的存在，有人认为，只有用Python才能优雅写代码，提高...
+ ## [我是如何在六个月内学会 Python 的？](https://blog.csdn.net/csdnnews/article/details/104509482)
+ > 从一个没有编程经验的药学专业学生到在新加坡工作的数据科学家。作者 |Benjamin Lau译者 |王艳妮，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：坦白...
+ ## [IntelliJ IDEA 的这个接口调试工具真是太好用了！](https://blog.csdn.net/csdnnews/article/details/104509490)
+ > 作者 | tan日拱一兵责编 | 屠敏抗击疫情，在家办公。工作照常干，领导需要几个新功能接口开发。以前在公司办公，通常开发完的功能没什么问题，暴露出 Swagger 接口文档，直接找旁边...
 # 人工智能 
- ## [Flutter Camera插件使用入门](https://blog.csdn.net/qq_39816031/article/details/104486122)
- > 
- ## [Q妹带你赚外快：这些Java问题赏金等你来领取](https://blog.csdn.net/askdevteam/article/details/104499694)
- > 
- ## [Android Studio 3.6 正式版终于发布了](https://blog.csdn.net/renyuzhuo0/article/details/104499589)
- > Android Studio 3.6 正式版终于发布了
- ## [\[Android\]\[frameworks\]\[HIDL\]使用HIDL新建虚拟HAL以实现system_server与native进程双向通信（一）——服务端](https://blog.csdn.net/u014175785/article/details/104502216)
- > \[Android\]\[frameworks\]\[HIDL\]使用HIDL新建虚拟HAL以实现system_server与native进程双向通信（一）——服务端
- ## [Codeforces Round 624 (Div. 3)  F. Moving Points /详解](https://blog.csdn.net/JiangHxin/article/details/104499978)
- > Codeforces Round 624 (Div. 3)  F. Moving Points /详解
- ## [js 和Android 混合开发原理](https://blog.csdn.net/qq_42714690/article/details/104486050)
- > js 和Android 混合开发原理
- ## [混合App开发原理](https://blog.csdn.net/monthover/article/details/104489011)
- > 混合App开发原理
- ## [CTU Open Contest 2019 F题 Beer Marathon（思维题）](https://blog.csdn.net/qq_42968686/article/details/104470772)
- > CTU Open Contest 2019 F题 Beer Marathon（思维题）
- ## [LinearLayout中gravity与 layout_gravity。](https://blog.csdn.net/weixin_44696542/article/details/104498846)
- > LinearLayout中gravity与 layout_gravity。
- ## [LoseWeight-减肥健身App开源版](https://blog.csdn.net/devallever/article/details/104480461)
- > LoseWeight-减肥健身App开源版
- ## [C数据结构与算法-栈应用-01：判断括号匹配问题](https://blog.csdn.net/ATFWUS/article/details/104476952)
- > C数据结构与算法-栈应用-01：判断括号匹配问题
- ## [解决移动端上拍照图片的方向和压缩图片](https://blog.csdn.net/qq_35481871/article/details/104491063)
- > 解决移动端上拍照图片的方向和压缩图片
- ## [android studio 关于把图片放在mipmap中的问题](https://blog.csdn.net/qq_38066103/article/details/104498585)
- > android studio 关于把图片放在mipmap中的问题
- ## [Android性能优化(一)App启动时间优化](https://blog.csdn.net/Easyhood/article/details/104496525)
- > Android性能优化(一)App启动时间优化
- ## [Android基础------Activity基础](https://blog.csdn.net/weixin_44616792/article/details/104497725)
- > Android基础------Activity基础
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [北京车和家java开发工程师面试题总结](https://blog.csdn.net/qq_25605637/article/details/94873604)
+ > 北京车和家java开发工程师面试题总结
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
 # PM 
- ## [疫情面前，对产品研发是机会还是诱惑？](http://www.woshipm.com/it/3421118.html)
- > 灾难面前我们应该结合自身实际去为社会做贡献；热点面前我们应该适可而止的去蹭热度；“机会”面前我们应该认真的分析到底是机会还是诱惑。作为产品研发，如何在机会面前...
- ## [阿里达摩院设计师分享：智能客服对话机器人的设计全流程](http://www.woshipm.com/pd/3427424.html)
- > 随着智能技术的不断发展与深入，对话机器人的应用越来越普遍，展现了高效、24小时在线沟通等效果，一定程度上弥补了人工客服的不足。那么，对设计师来说，这类智能客服...
- ## [B端新媒体运营如何提升写作能力？](http://www.woshipm.com/copy/3429513.html)
- > 与C端新媒体运营不同，B端新媒体运营需要尽可能避免俏皮诙谐的文风，并且要尽可能传达观点、传递有价值的内容，并利用中央路径方法获取企业的认同与信任，实现转化。...
- ## [如何在1个月内，抖音播放量达到637w？](http://www.woshipm.com/operate/3414098.html)
- > 在抖音上，要怎样才能使得单个视频的播放量能达到上百万呢？这其中需要一些什么样的技巧呢？2020年1月6日，抖音发布《2019抖音数据报告》。报告指出，截至2020年1月5...
- ## [像苹果Google一样做设计语言，带你了解全流程（上）](http://www.woshipm.com/pd/3429129.html)
- > 总结规范一款设计语言的意义很明确，那就是解决团队内部的统一性与效率问题，并通过统一的设计语言打造统一的品牌符号形象，捕捉用户认知与记忆点。那么我们又该如何总...
- ## [案例解析：电商大屏数据可视化设计经验分享！](http://www.woshipm.com/pd/3427159.html)
- > 本文结合大量实际案例，来与大家分享电商类大屏设计的经验，带你了解电商大屏的设计技法与思考。数据可视化大屏设计大多以蓝色调为主，因为蓝色比较容易营造大屏所追...
- ## [线上课程 | 想入职美团的数据产品经理，你需要具备什么能力？](http://www.woshipm.com/online/3435421.html)
- > ​2020年，小风在互联网行业做了3年典型的功能型产品经理，互联网发展到现在这个程度，基本各个功能已经定型了。随着公司战略的调整，开始了被动接需求的日子，从前端到...
- ## [如何进行疫情实时新闻的MVP设计？](http://www.woshipm.com/pd/3422520.html)
- > 实时新闻和消息公开是最好的疫苗，及时的信息获取让我们理性认识疫情发展，不陷入恐慌中。目前丁香园、腾讯、支付宝和网易做的疫情实时新闻产品在市面上是不错的，其中...
- ## [做UGC成长激励前，要想明白三件事](http://www.woshipm.com/operate/3426697.html)
- > UGC成长激励体系，就是为了3个提高——忠诚度、活跃度、黏度。而在这之前，必须要想明白的三件事情是——为什么？是什么？怎么做？一、为什么要激励UGC成长？UGC，用户生...
- ## [如何优雅地做一名金融主播？](http://www.woshipm.com/operate/3416517.html)
- > 由于疫情的影响，大家都宅在家里开始进行了云办公，而对于金融行业而言，同样也是面向镜头，开始了他们的主播生活。那么，在这个情况下，要如何优雅地做一名金融主播呢...
+ ## [顾客买了你的产品后，真正的营销才刚刚开始](http://www.woshipm.com/marketing/3417971.html)
+ > 顾客买了你的东西后，并不意味着你和这个顾客的关系就结束了，就不用对他营销了。不是的，而应该是前面的铺垫后让消费者最终买了你的产品，你接下来的营销工作更为重要...
+ ## [产品经理10大基础技能（3）：读懂数据仓库](http://www.woshipm.com/data-analysis/3430158.html)
+ > 一般产品经理需要懂到数据库，但数据产品经理不仅要懂得数据库还要懂到数据仓库！本篇讲解产品经理为什么要懂数据仓库？数据产品经理如何构建数据仓库？构建数据仓库...
+ ## [实例解析：收银台支付流程介绍](http://www.woshipm.com/pd/3430676.html)
+ > 本文主要以app端的聚合收银台为例进行介绍（大家可以直接用京东app的收银台为例子进行理解），来看看收银台的支付流程到底是怎样的。一、收银台及支付方式介绍（1）...
+ ## [如何让产品光明正大地涨价？](http://www.woshipm.com/pd/3430013.html)
+ > 生活中，大家大多都遭遇过TONY老师理发涨价、爱去的餐馆涨价等经历……不过，在商户的套路之下，有时我们不仅没觉得自己亏，甚至还觉得自己血赚！？这究竟是为什么呢？这...
+ ## [从远程办公看未来的工作方式：自律者得自由](http://www.woshipm.com/it/3431303.html)
+ > 未来好的办公软件、远程管理，一定不是比拼文档好不好用、视频流不流畅，而是“任务督导”——给出明确的时间节点，把任务分解得更细化、把目标制定的更明确。现今，在家...
+ ## [B端产品经理：如何做好新业务的需求调研？](http://www.woshipm.com/pmd/3430012.html)
+ > 需求调研是产品经理的重要的一项工作内容。而对B端产品经理说，做一款新产品的话，就不可避免接触一个全新业务领域，那么面对全然陌生的业务，产品经理又该怎么捕捉到有...
+ ## [全民居家都带不动的AI健身，到底是不是伪命题？](http://www.woshipm.com/ai/3429599.html)
+ > 宅在家里运动，成为了现时期解决变胖的最佳解决方案。而此前热闹非凡的“智能健身”“AI私教”等等功能，似乎都没有派上大用场。全民奉命居家都带不动的AI，之于健身产业到...
+ ## [提问：交互设计行业饱和了吗](http://www.woshipm.com/ucd/3427860.html)
+ > 交互设计行业饱和了吗，这是一个总会被问到的问题，所以我就专门写一篇文章来解答这个疑惑了。先阐述观点，交互设计完全没有到达一个饱和的程度。但是我的回答不想仅...
+ ## [基于25W+知乎数据，我挖掘出这些人群特征和内容偏好（一）](http://www.woshipm.com/data-analysis/2855617.html)
+ > 本文作者基于25W+知乎数据，挖掘出与话题相关的人群特征和内容偏好，一起来看看~本次对话题进行分析的重点在于：男、女性用户的话题关注差异话题频繁项集和关联规...
+ ## [喜马拉雅简要产品分析报告](http://www.woshipm.com/evaluating/3425505.html)
+ > 本文为喜马拉雅产品的分析报告，主要是从行业背景、用户以及产品功能的模块下手，结合音频直播行业的未来趋势和作者自己对流行文化的见解，来对喜马拉雅作出的分析和建...
+ ## [soul产品分析报告](http://www.chanpin100.com/article/110820)
+ > soul产品分析报告
  ## [用户体验之如何设计一个完美的新手引导流程？(附带案例)](http://www.chanpin100.com/article/110818)
  > 用户体验之如何设计一个完美的新手引导流程？(附带案例)
  ## [App推送怎样做到想用户所想，解用户所需？](http://www.chanpin100.com/article/110817)
@@ -228,33 +268,5 @@ Uber&#23558;&#22312;&#32593;&#32422;&#36710;&#39030;&#25237;&#25918;&#24191;&#21
  > 那感觉，不敢相信！
  ## [如何对复杂的项目工作进行分解？](http://www.chanpin100.com/article/110812)
  > 随着商业社会的发展，现代企业的愿景和商业目标越来越宏大。无论是整体的战略规划，还是传统KPI方法、最近几年大受欢迎的 OKR...都离不开“分解”的艺术。
- ## [数据产品经理10大基础技能（3）读懂数据仓库](http://www.chanpin100.com/article/110803)
- > 本篇讲解产品经理为什么要懂数据仓库？数据产品经理如何构建数据仓库？构建数据仓库以后如何利用数据仓库赋能产品业务？最后讲解数据仓库产品的未来是什么样子？
- ## [如何过好这一生？10个见解值得思考](http://www.chanpin100.com/article/110785)
- > 如果懂的10个道理就能过好这一生，那么这些道理...
- ## [产品经理10大基础技能（2）：读透模型](http://www.chanpin100.com/article/110701)
- > 本篇文章着重介绍产品经理如何理解模型？在团队建立模型的过程中产品经理应该懂哪些知识点？然后用口罩需求量的案例展示建立模型的过程和思路。
- ## [《被讨厌的勇气》启发自我的幸福感](http://www.chanpin100.com/article/110722)
- > 心的幸福，是好产品的灵魂...
- ## [样式上新|非常时期，这份防疫模板请收下](http://www.chanpin100.com/article/110808)
- > 疫情之下，如何开展营销活动，不妨试试这个防疫模板
- ## [重磅！苹果要求开发者6月30日前需提交游戏版号！无版号游戏大限将至？](http://www.chanpin100.com/article/110809)
- > 游戏行业再起波澜！版号重压下还有多少生存空间？
- ## [停课不停学浪潮下，线下教育机构如何转型线上，突出疫情重围](http://www.chanpin100.com/article/110806)
- > 互动、内容、招生、场景线上化，助力线下教育机构在疫情期间快速转型线上
- ## [2020中国汽车分时租赁市场白皮书](http://www.chanpin100.com/article/110805)
- > 随着政策利好及有本无车一族对汽车分时租赁的接受度逐步提升，该模式已成为城市居民交通出行的有效增补。过去一年行业虽历经洗牌，但不乏少数具有竞争力的玩家持续深入洞察用户需求，并在供给、运营、营销与技术多层面实现突破创新，推动行业向高效进阶。未来几年，行业逐渐步入监管规范阶段，并由大规模扩张转向精细化运营
- ## [产品经理的数学题：疫情给经济造成多大损失？](http://www.chanpin100.com/article/110804)
- > 为什么要操心经济
- ## [试试这几个方法，给自己的产品优雅地涨涨价](http://www.chanpin100.com/article/110802)
- > 在通货膨胀、上游成本上涨、资金流紧张以及公司老板给予的重压之下，产品设计者应该如何优雅的调整产品价格呢？
- ## [【产品设计师必看】提高Banner点击率的15个设计技巧！](http://www.chanpin100.com/article/110801)
- > 一些关于banner设计的小技巧~
- ## [你的产品为什么市场效果不好？](http://www.chanpin100.com/article/110800)
- > 产品市场不好的几个原因
- ## [战“疫”有力，手机银行多举措输出金融及疫情防护服务](http://www.chanpin100.com/article/110798)
- > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。本文为【全民“宅”家，数字化防疫指南】第 10 篇,将以工行手机银行为案例分析疫
- ## [生鲜电商涨势明显，巨头入局抢占“社区化服务”新场景](http://www.chanpin100.com/article/110797)
- > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。本文为【全民“宅”家，数字化防疫指南】第 9 篇
 
     
