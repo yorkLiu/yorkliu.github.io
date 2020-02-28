@@ -1,7 +1,7 @@
 ---
 title: 2020-02-28 IT News
 copyright: true
-date: 2020-02-28 10:00:59
+date: 2020-02-28 12:08:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -81,16 +81,16 @@ AI&#23569;&#20799;&#33521;&#35821;&#24179;&#21488;&#8220;&#21486;&#21658;&#35838
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Σco领导力丨华为联合竹间免费推出全场景疫情防控AI机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1582853404&ver=2185&signature=bOmz10KkTxORsAkbXZu*I9czeumCvn3nho9t96NHZ36uLA*NbZt73mJrqVHhaUJ*55*j93OreXCyFr*bga8gsAg3-FjNnZ6*EVStzQ6ohU2Xea8e35bSCXmDf*eHHxKG&new=1)
+ ## [Σco领导力丨华为联合竹间免费推出全场景疫情防控AI机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=bOmz10KkTxORsAkbXZu*I9czeumCvn3nho9t96NHZ366b4yZB8BCtWLj0Bb7YoczWKuH*0glVVgutv-*hkbWDHNl-CavfOfEw8VqZDRZuweX*k0eIJSDxm8mqacMg*qE&new=1)
  > 什么是Σco领导力？或许每个人都有不同的理解。我们无需定义，因为我们有更好的诠释——华为通过持续的压强投入，引领技术革新，打造生态黑土地，激发生态创新，引领行业数字化转型，今日聚焦竹间智能。为能在...
- ## [工信部调整互联网结算标准，运营商中谁将获益最大?](http://mp.weixin.qq.com/s?src=11&timestamp=1582853404&ver=2185&signature=aK3*8X8v7WNF8O1utvknJsoCXUkibHKmwaorLR3shHtDmqlPsZ3a4jXw4RHnkYGzuZb0whs99PKG-JoGYVNOPiazFuECC-*ossJfytyUF7x4GacAKa0z-E5H4i9WsV76&new=1)
- > 近日，工信部发布《关于调整互联网骨干网网间结算政策的通知》（简称《通知》）。《通知》包括6项内容，涉及取消中国移动向中国电信和中国联通的结算费用,中国广电和中信网络支付的结算费用下调30%以上、公益性...
- ## [到底要为WiFi-6付出多少成本?你根本想不到](http://mp.weixin.qq.com/s?src=11&timestamp=1582853404&ver=2185&signature=ShfEQiLK0d9UWJayILOCZCMOQULE7qx94H0e6NqvoEweCBh2u7als94y5O4DvSZp6DFiwxTQZRAIa3zneUVJJfGcePEYxI9-G1hdZOVAd*CJNzdgWrhjufCSCrS6ENg*&new=1)
- > 不可否认，WiFi-6的普及一定是一场历史性的网络革命，不过，就普通消费者而言，WiFi-6目前会对他们的生活有多少的改善？有多大的必要去更换现在的设备？尤其在使用成本持续上升的情况下，这还真是一个疑问。...
- ## [紫光、台积电谈6nm芯片工艺：没有2亿美元不要做](http://mp.weixin.qq.com/s?src=11&timestamp=1582853404&ver=2185&signature=X6R*ykCveTZImKNI5XtqpKcnnsiuJpU*155o8aslWL-GfTNzt2HsZ9a6iPizVV338fAFNSpc34Z3cp78Ztg8J-gK3ni-9vnZbTWJSwBBh0g=&new=1)
- > 经济观察网 记者 沈怡然 针对最新发布的5G芯片，2月26日，紫光展锐CEO楚庆在春季发布会上表示，该款芯片采用6nm工艺，技术难度提升了70%，相对上一代12nm芯片，资金投入增加了4倍，希望给手机厂商一个忠告，没有...
- ## [“疫”外强音：这家电视2019年全球销量突破3200万台?](http://mp.weixin.qq.com/s?src=11&timestamp=1582853404&ver=2185&signature=*w6IdU7vXf4vO28fmM86jt-I7xPdO1GnsY9DZ1Fr*50ioUiSDUozWmkjqXqiatwaaXCMRvG2Jxb7D4n0I9SSUl*H1WxLZOanP-gTGGDeiGk0PehIrdDyYRtB29O7znCD&new=1)
+ ## [“疫”外强音：这家电视2019年全球销量突破3200万台?](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=*w6IdU7vXf4vO28fmM86jt-I7xPdO1GnsY9DZ1Fr*50cNB-VOdVOTmisDHEF0c9IjAwShyT1o0yltDSSzcDicRKHdOLIYLucjd19tlvCQSh*Ncl9isR3c39ZjOA-LVmv&new=1)
  > 疫情之下，中国经济蒙受重大损失，家电业面临市场疲软与疫情叠加的双重压力，很多家电厂商背负不能承受之重，大声疾呼：活下去就是最大的胜利！然而，就在这一片悲观的叹息声中，2月27日TCL在2020春季新品发布会...
+ ## [紫光、台积电谈6nm芯片工艺：没有2亿美元不要做](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=X6R*ykCveTZImKNI5XtqpKcnnsiuJpU*155o8aslWL9-wa-gWzsydAZZDdP6MG1NmQaSIRaRL6MV8LLFHtYBE8euwdpz4-olwavXwWvmvAQ=&new=1)
+ > 经济观察网 记者 沈怡然 针对最新发布的5G芯片，2月26日，紫光展锐CEO楚庆在春季发布会上表示，该款芯片采用6nm工艺，技术难度提升了70%，相对上一代12nm芯片，资金投入增加了4倍，希望给手机厂商一个忠告，没有...
+ ## [到底要为WiFi-6付出多少成本?你根本想不到](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=ShfEQiLK0d9UWJayILOCZCMOQULE7qx94H0e6NqvoEwBT3RC12duCye2tR1X3*TB8v8hvaNlnwVUBg7TfouLr0o2QHUUFpXM1qHauAAQG-to3yAsjSiKiQo8eLAEZxTj&new=1)
+ > 不可否认，WiFi-6的普及一定是一场历史性的网络革命，不过，就普通消费者而言，WiFi-6目前会对他们的生活有多少的改善？有多大的必要去更换现在的设备？尤其在使用成本持续上升的情况下，这还真是一个疑问。...
+ ## [工信部调整互联网结算标准，运营商中谁将获益最大?](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=aK3*8X8v7WNF8O1utvknJsoCXUkibHKmwaorLR3shHuztwDGorsQHQ5eHVnFGSxrcsgOyNmq60-F7vhBENyVuUZikDAyrgHEzYc53r90OUEnNszd22QlGZuRYKPH7FAM&new=1)
+ > 近日，工信部发布《关于调整互联网骨干网网间结算政策的通知》（简称《通知》）。《通知》包括6项内容，涉及取消中国移动向中国电信和中国联通的结算费用,中国广电和中信网络支付的结算费用下调30%以上、公益性...
 # IT 技术 
  ## [一个Bug损失200亿！如何搭建业务异常检测系统？](http://ai.51cto.com/art/202002/611472.htm)
  > 一个Bug损失200亿！如何搭建业务异常检测系统？
@@ -98,68 +98,70 @@ AI&#23569;&#20799;&#33521;&#35821;&#24179;&#21488;&#8220;&#21486;&#21658;&#35838
  > 连环画解析“单点登录”原理，保证你能看懂！
  ## [如何重写 C 中的 Object 虚方法](http://developer.51cto.com/art/202002/611465.htm)
  > 如何重写 C 中的 Object 虚方法
+ ## [浙江10万只鸭子出征巴基斯坦灭蝗？未来我们或将用物联网技术解决生态环境危机](http://iot.51cto.com/art/202002/611478.htm)
+ > 浙江10万只鸭子出征巴基斯坦灭蝗？未来我们或将用物联网技术解决生态环境危机
  ## [网络安全：这十招可帮助你的网络远离黑客](http://netsecurity.51cto.com/art/202002/611388.htm)
  > 网络安全：这十招可帮助你的网络远离黑客
+ ## [全球自动驾驶年度“实力”榜出炉，百度超越Waymo排第一，Waymo：我反对评测标准](http://news.51cto.com/art/202002/611499.htm)
+ > 全球自动驾驶年度“实力”榜出炉，百度超越Waymo排第一，Waymo：我反对评测标准
  ## [AI测温：复工潮里筑起的第一道防疫“屏障”](http://ai.51cto.com/art/202002/611399.htm)
  > AI测温：复工潮里筑起的第一道防疫“屏障”
  ## [四种优秀的数据库设计工具](http://database.51cto.com/art/202002/611381.htm)
  > 四种优秀的数据库设计工具
- ## [快来！建立你的第一个Python聊天机器人项目](http://developer.51cto.com/art/202002/611371.htm)
- > 快来！建立你的第一个Python聊天机器人项目
- ## [混沌工程：苏宁系统稳定性之道](http://os.51cto.com/art/202002/611375.htm)
- > 混沌工程：苏宁系统稳定性之道
- ## [编写Dockerfile的优秀实践](http://developer.51cto.com/art/202002/611485.htm)
- > 虽然 Dockerfile 简化了镜像构建的过程，并且把这个过程可以进行版本控制，但是很多人构建镜像的时候，都有
- ## [教你如何将Pandas迭代速度加快150倍？](http://developer.51cto.com/art/202002/611484.htm)
- > 面对现实吧，Python的速度在与C语言或Go语言相比时，的确引发了不少口水战。这让笔者一段时间以来，一直对P
- ## [“冠状病毒”引发的移动安全事件](http://netsecurity.51cto.com/art/202002/611486.htm)
- > 武汉冠状病毒爆发及蔓延引发人们对全球公共卫生危机的广泛担忧，威胁行为者利用人类的恐惧情感――尤其是当
- ## [一个基本的面试问题：可以解释一下什么是闭包吗？](http://developer.51cto.com/art/202002/611483.htm)
- > 在计算机科学中，闭包是一个有自己环境的函数，，并且在该环境中至少有一个变量。
- ## [RSA大会的唇枪舌战：美国华为禁令背后的供应链安全探讨](http://netsecurity.51cto.com/art/202002/611482.htm)
- > 在一场小组会议中，华为高管CSO Andy Purdy和美国国防部官员Katie Arrington同台谈论关于华为技术是否为政
- ## [如何防止您的登录证书成为自动攻击工具的目标](http://netsecurity.51cto.com/art/202002/611481.htm)
- > 目前，全球各国都在共同努力阻止新型冠状病毒疫情的蔓延。如同新冠肺炎的流行过程一样，轻视网络“卫生”同
- ## [7个需要避免的IT重组错误](http://network.51cto.com/art/202002/611480.htm)
- > 为了应对数字计划，IT领导者不得不重新思考和重组工作应该完成的方式。但推动变革的意义远远不止于彻底改革
- ## [为什么制造业是边缘计算的优秀用例之一](http://network.51cto.com/art/202002/611479.htm)
- > 随着物联网设备变得越来越普遍，边缘计算正在迅速进入各个行业。最有前途的边缘计算用例之一是在工业制造业
- ## [浙江10万只鸭子出征巴基斯坦灭蝗？未来我们或将用物联网技术解决生态环境危机](http://iot.51cto.com/art/202002/611478.htm)
- > “国绍1号”苗鸭“出征”巴基斯坦的事虽是确定的，但现在去救急救不了，“鸭子军队”虽然实力强大，但其实
- ## [物联网产品开发的秘密](http://iot.51cto.com/art/202002/611477.htm)
- > 您希望公司进入物联网产品开发领域？我们不怪您，毕竟，物联网是科技产业中最令人兴奋的创新部分之一，具有
- ## [一个“/”键，封锁了整个互联网](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103633705)
+ ## [疫情当下，五位安全大咖带你做好远程办公安全防护](http://netsecurity.51cto.com/art/202002/611495.htm)
+ > 2020年开年，新型冠状病毒肺炎疫情让中国各行业企业陷入了两难境地：一方面，企业需要生存，生产复工不能耽
+ ## [Salesforce宣布以13.3亿美元全现金收购云服务商Vlocity](http://cloud.51cto.com/art/202002/611504.htm)
+ > 2月26日消息，据国外媒体报道，美国云计算公司Salesforce日前宣布，以13.3亿美元全现金收购云服务商云服务
+ ## [在家办公，阿里人如何写周报？](http://biz.51cto.com/art/202002/611505.htm)
+ > 周报是写给老板的，也是写给同事的，更是写给自己的。
+ ## [统一通信市场趋势推动支出增长](http://network.51cto.com/art/202002/611502.htm)
+ > 随着越来越多的企业顺应最新的统一通信市场趋势(如云计算协作工具和嵌入式通信)，内部部署统一通信(UC)的数
+ ## [浅谈人工智能在人脸识别应用方面的优缺点](http://ai.51cto.com/art/202002/611501.htm)
+ > 自上世纪50年图灵的一篇论文《机器人会思考吗？》开启人工智能的大门，人工智能的研究便一时成为科学、资本
+ ## [首席信息官需要解决的混合云挑战](http://cloud.51cto.com/art/202002/611497.htm)
+ > 企业的IT团队需要采用一种标准化的应用程序开发方法，才能真正从混合云中获益。而容器和Kubernetes可能是实
+ ## [老码农的「锦囊」：10个编程技巧、5个纠错步骤，让你的编程之路少点坎坷](http://zhuanlan.51cto.com/art/202002/611498.htm)
+ > 本文作者 Jeff Hale 是 Medium 社区中非常有名的人工智能和技术领域的专栏作家。在这篇文章里，他给所有的
+ ## [2020年中国智能物联网（AIoT）白皮书](http://iot.51cto.com/art/202002/611496.htm)
+ > 智能物联网（AIoT）是2018年兴起的概念，指系统通过各种信息传感器实时采集各类信息（一般是在监控、互动、
+ ## [HackerOne去年发放超过8200万美元的赏金，联邦政府参与度大幅上涨](http://netsecurity.51cto.com/art/202002/611492.htm)
+ > 2019年，由黑客驱动的漏洞赏金平台HackerOne支付的漏洞奖金几乎是前几年总和的两倍，达到8200万美元。
+ ## [新的LTE网络缺陷可能使攻击者冒充4G移动用户](http://netsecurity.51cto.com/art/202002/611493.htm)
+ > 鲁尔大学波鸿分校和纽约大学阿布扎比分校的一组学者发现了4G LTE和5G网络中的安全漏洞，这些漏洞可能允许黑
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
- ## [Spring Boot2 系列教程(三十)Spring Boot 整合 Ehcache](https://blog.csdn.net/u012702547/article/details/103470085)
+ ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
+ > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [蚂蚁金服 Service Mesh 大规模落地系列 - 质量篇](https://blog.csdn.net/SOFAStack/article/details/104191459)
+ > 蚂蚁金服 Service Mesh 大规模落地系列 - 质量篇
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
+ ## [Linux系统编程——基础命令总结](https://blog.csdn.net/asialee_bird/article/details/98772584)
  > 
- ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
- ## [Helm部署和体验jenkins](https://blog.csdn.net/boling_cavalry/article/details/103670976)
- > 
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
- > 
- ## [自学系列 | 就谈兴趣！](https://blog.csdn.net/qq_36903042/article/details/103752660)
- > 自学系列 | 就谈兴趣！
- ## [技术总监灵魂一问：精通那么多技术，为何还是做不好一个项目？](https://blog.csdn.net/siyuanwai/article/details/104288364)
- > 
- ## [还看不懂同事代码？快来补一波 Java 7 语法特性](https://blog.csdn.net/u013735734/article/details/103885103)
- > 
- ## [2020新年计划：完成上个十年立下的计划？ | Alfred数据室](https://blog.csdn.net/weixin_38753103/article/details/103760017)
- > 2020新年计划：完成上个十年立下的计划？ | Alfred数据室
- ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
- > 
- ## [在家办公？3招帮你提升效率20%，速转给同事，收藏！](https://blog.csdn.net/yellowzf3/article/details/104140559)
- > 
- ## [12月10日科技资讯|朱啸虎回应“美团滴滴合并”；小米成世界第四大手机制造商；Ant Design 3.26.1 发布](https://blog.csdn.net/weixin_39786569/article/details/103475291)
- > 
- ## [剑指Offer 图解 | 寻找旋转排序数组中的最小值](https://blog.csdn.net/kexuanxiu1163/article/details/104035419)
- > 剑指Offer 图解 | 寻找旋转排序数组中的最小值
- ## [【搞定Jvm面试】 JDK监控和故障处理工具揭秘](https://blog.csdn.net/qq_34337272/article/details/103644552)
- > 
- ## [你说你懂计算机网络，那这些你都知道吗](https://blog.csdn.net/qq_36894974/article/details/103500199)
+ ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
+ > B 站上有哪些很好的学习资源?
+ ## [漫画：“排序算法” 大总结](https://blog.csdn.net/bjweimengshu/article/details/103573147)
+ > 漫画：“排序算法” 大总结
+ ## [如何快速打好Java基础？](https://blog.csdn.net/qing_gee/article/details/104273480)
  > 
  ## [两成开发者月薪超 1.7 万、算法工程师最紧缺！ | 中国开发者年度报告](https://blog.csdn.net/csdnnews/article/details/104538091)
  > 整理 | 郭芮责编 | 唐小引出品 | CSDN（ID：CSDNnews）“求知若饥，虚心若愚”——这个原本出自《全球概览》的俳句，因为乔布斯在斯坦福大学毕业演讲中的引用而备受推崇，流传成为 IT 界的至理名言之一。在编程界，亦有“代码胜于雄辩”、“Done is better tha...
+ ## [再获国际顶级荣誉，平头哥首席科学家谢源荣获2020年度IEEE CS技术成就奖](https://blog.csdn.net/csdnnews/article/details/104552341)
+ > 2月28日，国际电气电子工程师学会计算机协会（IEEE CS）公布了2020年度技术成就奖（IEEE CS Technical Achievement Award）名单，阿里巴巴达摩院高级研究员、平头哥首席科学家谢源获得该奖项，这是其当选IEEE、AAAS、ACM三大国际顶级学会的会士(Fello.
  ## [2 亿人远程办公，不得不“强制升级”了！ | 刷新 CTO](https://blog.csdn.net/csdnnews/article/details/104548679)
  > 扫描上方二维码直达精彩回顾整理 | 伍杏玲出品 | CSDN（ID：CSDNnews）在春节后的这个 2 月里，国内超2亿人开启远程办公模式。大家从一开始的“大型云办公软件车祸” “...
  ## [疫情病毒全部“抹杀”？用数据模型来解读传播抑制的效果差异！](https://blog.csdn.net/csdnnews/article/details/104549206)
@@ -185,6 +187,30 @@ AI&#23569;&#20799;&#33521;&#35821;&#24179;&#21488;&#8220;&#21486;&#21658;&#35838
  ## [华为Mate Xs预约超53万，售价16999元；微软前工程师因盗窃数字货币被判20年；FSF将推代码托管平台 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104549213)
  > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
 # PM 
+ ## [豆瓣读书推荐策略的阶段性调研](http://www.woshipm.com/evaluating/3441076.html)
+ > 调研豆瓣读书的书籍详情页，【喜欢这本书的人也喜欢这个】推荐模块的效果，一起来看看~一、理想态1.1 定义理想态给用户推荐相关且用户潜在感兴趣的书籍，吸引用户进...
+ ## [10 年产品人的成长故事](http://www.woshipm.com/pmd/3438353.html)
+ > 从一个不懂电脑的产品小白，到负责C端产品、B端产品，最后成为产品负责人。笔者的十年经历，讲述了产品人的成长以及人与产品的连接。缘起你好！见字如面，我是四月。...
+ ## [以语言交换产品为例：看产品设计从0到1全流程](http://www.woshipm.com/pd/3437844.html)
+ > 笔者近期做了一个从0到1孵化产品的项目，写这篇文章的主要目的是复盘在整个项目中产品经理的工作流程和应有的思考，其次是用这个文章让大家把每一块散点的技能串联起来...
+ ## [公募基金的互联网转型，该往哪走？](http://www.woshipm.com/it/3432656.html)
+ > 笔者作为一个非直接从业人员，仅从兴趣角度出发，从自身理解和公开信息进行个人观察和研究，来看公募基金的互联网转型，该往哪走。公募基金作为面向普通大众的投资途...
+ ## [从0到1设计产品，你需要了解这些内容](http://www.woshipm.com/pd/3439980.html)
+ > 对于设计师来说，如果你接到了从0到1设计一款产品的任务时，千万不要直接开干，动手前最好从产品、展示、团队上想清楚了要怎么做。从零开始设计一款产品时，很容易出...
+ ## [以趣头条为例，拆解单用户价值模型](http://www.woshipm.com/pmd/3432728.html)
+ > 本文主要对单用户价值模型的各要素进行了拆解，并分析了各个要素的计算方式与优化方向。各位小伙伴也可以对照一下自己负责的产品处于什么状态，从哪些因素去优化？怎么...
+ ## [新课上线丨面试一张嘴就露馅，如何扎实产品基本功？](http://www.woshipm.com/online/3445176.html)
+ > 每一个“优秀”的产品经理都是从“磕磕绊绊”的产品新人开始的。在没有产品经验的新人阶段，虽然热情十足，对产品经理的职位充满向往，但是到了面试的时候，总是或多或少的...
+ ## [钉钉：不疯魔不成活](http://www.woshipm.com/chuangye/3439532.html)
+ > 提及钉钉创立期间的各种事迹，“疯狂”可能是最准确的形容词了。这个词不仅适用于钉钉CEO无招，同样也适用于他的产品团队。从育空地区的道森出发，结束于西北特区的因纽...
+ ## [用户界面设计师，如何在应用程序上做创新设计？](http://www.woshipm.com/pd/3436760.html)
+ > 当设计师们有扎实的界面设计基础以及DS经历，做起界面行云流水，却发现我们的设计趋同性严重。当我们摒弃各个类别应用程序的TOP3logo，已然分不清谁是谁。那么应用程序...
+ ## [B端产品，如何平衡通用化和个性化？](http://www.woshipm.com/pmd/3444667.html)
+ > 对于B端产品来说，个性化需求是非常头疼的一个问题。那么，面对这类需求，应该如何合理的去处理呢？怎么才能平衡通用化和个性化？作为一个B端的产品经理，我相信大家...
+ ## [我的B端产品经理工作流](http://www.woshipm.com/pmd/3438644.html)
+ > 相对于C端来说，目前对于B端产品经理的工作流程、整体方法论的讨论还在少数，即使有也都是针对某一个细化部分进行展开，缺少从整体上去总结。于是笔者作为一个B端产品经...
+ ## [二元化的在线音乐：开山挖矿 VS 蓄水养鱼](http://www.woshipm.com/it/3443641.html)
+ > 如果做一个对比的话，腾讯音乐和网易云音乐在商业化变现时都选择性瞄准了“社交娱乐”，只是腾讯音乐的重心在于“娱乐”，音乐扮演了驱动消费者进行娱乐化消费的燃料；网易...
  ## [原来这就是UI设计师的门槛](http://www.chanpin100.com/article/110831)
  > 本文主要分享 UI 设计师入行的一些个人经验指南，希望可以带给新入行业的设计师一点帮助！
  ## [手游买量也需版号？字节跳动这是要动真格了？！](http://www.chanpin100.com/article/110827)
