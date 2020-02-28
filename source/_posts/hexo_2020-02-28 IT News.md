@@ -1,7 +1,7 @@
 ---
 title: 2020-02-28 IT News
 copyright: true
-date: 2020-02-28 12:08:04
+date: 2020-02-28 17:02:35
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -81,21 +81,31 @@ AI&#23569;&#20799;&#33521;&#35821;&#24179;&#21488;&#8220;&#21486;&#21658;&#35838
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Σco领导力丨华为联合竹间免费推出全场景疫情防控AI机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=bOmz10KkTxORsAkbXZu*I9czeumCvn3nho9t96NHZ366b4yZB8BCtWLj0Bb7YoczWKuH*0glVVgutv-*hkbWDHNl-CavfOfEw8VqZDRZuweX*k0eIJSDxm8mqacMg*qE&new=1)
- > 什么是Σco领导力？或许每个人都有不同的理解。我们无需定义，因为我们有更好的诠释——华为通过持续的压强投入，引领技术革新，打造生态黑土地，激发生态创新，引领行业数字化转型，今日聚焦竹间智能。为能在...
- ## [“疫”外强音：这家电视2019年全球销量突破3200万台?](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=*w6IdU7vXf4vO28fmM86jt-I7xPdO1GnsY9DZ1Fr*50cNB-VOdVOTmisDHEF0c9IjAwShyT1o0yltDSSzcDicRKHdOLIYLucjd19tlvCQSh*Ncl9isR3c39ZjOA-LVmv&new=1)
+ ## [重磅报告：“新冠肺炎疫情”3D打印企业调研分析](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=xgZBZ2usch*b7JNnU9xukvju9G21*WomgmVEfNIV3WZguAfW6-vxqI9vZarjqziVoeg0WCzJYnG74bpxdAmxWiGwbT9piA3m3mwDRqoYL8ESPnVuV8FoX-*aDvLpfrak&new=1)
+ > 前言：本报告已由中国增材制造产业联盟呈递工信部，由中国医疗器械行业协会3D打印医疗器械专委会呈递中国药监局、科技部。进入2020年以来，受“新冠肺炎疫情”的影响，国内增材制造（3D打印）企业无法按时复工复...
+ ## [科峰智能为青少年棋类公开赛打造专属3D打印奖杯](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=ELVjdwk8O9GrQWDpoH0frv9hihRJ6TgiwHsM9tRYsgUePd9hWqLSetfJudVpNt9mHdqwKZmy1ViUzZfppuGGfxq-Aa3PVm1EBba8fT3NkpSFGhgKfFdiWl0NquHkNxQx&new=1)
+ > 内蒙古科峰智能科技有限公司与赤峰市青少年宫合作，为2020年赤峰市第二届青少年棋类公开赛打造专属奖杯。奖杯设计理念：奖杯整体设计采用奔跑的人，寓意乐观积极向上，代表着我们这一代朝气蓬勃，奋发向上的少年...
+ ## [“疫”外强音：这家电视2019年全球销量突破3200万台?](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=*w6IdU7vXf4vO28fmM86jt-I7xPdO1GnsY9DZ1Fr*50kURb6ycKsPSKkunblOlZKp-4c-K1QxQtdyEn6QpoTnK*KuiBG35eFupoDN5IeFQr17DK0nLYpHiwvk17NHHvN&new=1)
  > 疫情之下，中国经济蒙受重大损失，家电业面临市场疲软与疫情叠加的双重压力，很多家电厂商背负不能承受之重，大声疾呼：活下去就是最大的胜利！然而，就在这一片悲观的叹息声中，2月27日TCL在2020春季新品发布会...
- ## [紫光、台积电谈6nm芯片工艺：没有2亿美元不要做](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=X6R*ykCveTZImKNI5XtqpKcnnsiuJpU*155o8aslWL9-wa-gWzsydAZZDdP6MG1NmQaSIRaRL6MV8LLFHtYBE8euwdpz4-olwavXwWvmvAQ=&new=1)
- > 经济观察网 记者 沈怡然 针对最新发布的5G芯片，2月26日，紫光展锐CEO楚庆在春季发布会上表示，该款芯片采用6nm工艺，技术难度提升了70%，相对上一代12nm芯片，资金投入增加了4倍，希望给手机厂商一个忠告，没有...
- ## [到底要为WiFi-6付出多少成本?你根本想不到](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=ShfEQiLK0d9UWJayILOCZCMOQULE7qx94H0e6NqvoEwBT3RC12duCye2tR1X3*TB8v8hvaNlnwVUBg7TfouLr0o2QHUUFpXM1qHauAAQG-to3yAsjSiKiQo8eLAEZxTj&new=1)
+ ## [百款VR游戏收入破百万美金，对于VR内容生态真的是好事吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=5tXqCjlSt92ImmoQ-WyLK6mbBU*Lg1GF6BLSY*aqbGSEX5ZWOMP-Nmq331AkxrggtRsI0Hk9R7dHYa1Dt61TRCDznKqZBZhLdgqP-xVVGcZf6mNNwCETMNHEua8FX27j&new=1)
+ > 在超过1000万美元收入的产品中知名IP和多平台发布成为最核心的成功因素文 | 缪健（VRPinea2020年2月28日电）近期，由惠普集团投资的VR领域风险投资基金The Venture Reality Fund合伙人Tipatat Ch
+ ## [\[科技早报7点整\]神舟电脑宣布将自己开发神舟商城 手机App无授权就能监听电话……](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=GaA8LOIe7D42J1oBWhBK9aFskFjpimGOt4MsXqElIZaCoxK1Vckyln-4gXPHxjUAvrkNA*4cjZdtebLQhA5l59T*8pgOFhVUHIZIlzrZH7MqCasRvoGxVOJQEEDr4iGG&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第733期1.神舟电脑宣布将自己开发神舟商城，现在开始招聘神舟电脑官方微博宣布，将开发自己的神舟商城，现在面向全社会高薪诚聘优秀的开发人才。此前神舟电脑表示，与京东是普...
+ ## [Σco领导力丨华为联合竹间免费推出全场景疫情防控AI机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=bOmz10KkTxORsAkbXZu*I9czeumCvn3nho9t96NHZ34iB1LcnoJqqkqyXL04ZVc-lKKYM1kJVR0mlPDV8Ei5qfNMdc0MroVk*mYENxcmQrl-exoBjS4AuafFfuAnV7KA&new=1)
+ > 什么是Σco领导力？或许每个人都有不同的理解。我们无需定义，因为我们有更好的诠释——华为通过持续的压强投入，引领技术革新，打造生态黑土地，激发生态创新，引领行业数字化转型，今日聚焦竹间智能。为能在...
+ ## [到底要为WiFi-6付出多少成本?你根本想不到](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=ShfEQiLK0d9UWJayILOCZCMOQULE7qx94H0e6NqvoEzlgyXhUpNWoWo-HEw2jLdA7imW9Y28jNoMGDjzW9kTEC-tWFxervX9c1eaZ3K8Eo0hO8DVb5MD-WSSIrvg0WOm&new=1)
  > 不可否认，WiFi-6的普及一定是一场历史性的网络革命，不过，就普通消费者而言，WiFi-6目前会对他们的生活有多少的改善？有多大的必要去更换现在的设备？尤其在使用成本持续上升的情况下，这还真是一个疑问。...
- ## [工信部调整互联网结算标准，运营商中谁将获益最大?](http://mp.weixin.qq.com/s?src=11&timestamp=1582862404&ver=2185&signature=aK3*8X8v7WNF8O1utvknJsoCXUkibHKmwaorLR3shHuztwDGorsQHQ5eHVnFGSxrcsgOyNmq60-F7vhBENyVuUZikDAyrgHEzYc53r90OUEnNszd22QlGZuRYKPH7FAM&new=1)
+ ## [紫光、台积电谈6nm芯片工艺：没有2亿美元不要做](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=X6R*ykCveTZImKNI5XtqpKcnnsiuJpU*155o8aslWL9VKJKxq6osZcSXrayraf5n9ra*4rP3OmP6rXirhta*cnAWCsX643yH7xqYlSKwrZw=&new=1)
+ > 经济观察网 记者 沈怡然 针对最新发布的5G芯片，2月26日，紫光展锐CEO楚庆在春季发布会上表示，该款芯片采用6nm工艺，技术难度提升了70%，相对上一代12nm芯片，资金投入增加了4倍，希望给手机厂商一个忠告，没有...
+ ## [工信部调整互联网结算标准，运营商中谁将获益最大?](http://mp.weixin.qq.com/s?src=11&timestamp=1582880404&ver=2185&signature=aK3*8X8v7WNF8O1utvknJsoCXUkibHKmwaorLR3shHtQsS79qNola0X9y87FTgdjlCL7e6-MA7jk6yZVxEztjx4WkmstZ79jkFO**Fil1f2JuDCtaVa-npC4sMls10Et&new=1)
  > 近日，工信部发布《关于调整互联网骨干网网间结算政策的通知》（简称《通知》）。《通知》包括6项内容，涉及取消中国移动向中国电信和中国联通的结算费用,中国广电和中信网络支付的结算费用下调30%以上、公益性...
 # IT 技术 
  ## [一个Bug损失200亿！如何搭建业务异常检测系统？](http://ai.51cto.com/art/202002/611472.htm)
  > 一个Bug损失200亿！如何搭建业务异常检测系统？
  ## [连环画解析“单点登录”原理，保证你能看懂！](http://developer.51cto.com/art/202002/611473.htm)
  > 连环画解析“单点登录”原理，保证你能看懂！
+ ## [老码农的「锦囊」：10个编程技巧、5个纠错步骤，让你的编程之路少点坎坷](http://zhuanlan.51cto.com/art/202002/611498.htm)
+ > 老码农的「锦囊」：10个编程技巧、5个纠错步骤，让你的编程之路少点坎坷
  ## [如何重写 C 中的 Object 虚方法](http://developer.51cto.com/art/202002/611465.htm)
  > 如何重写 C 中的 Object 虚方法
  ## [浙江10万只鸭子出征巴基斯坦灭蝗？未来我们或将用物联网技术解决生态环境危机](http://iot.51cto.com/art/202002/611478.htm)
@@ -106,60 +116,60 @@ AI&#23569;&#20799;&#33521;&#35821;&#24179;&#21488;&#8220;&#21486;&#21658;&#35838
  > 全球自动驾驶年度“实力”榜出炉，百度超越Waymo排第一，Waymo：我反对评测标准
  ## [AI测温：复工潮里筑起的第一道防疫“屏障”](http://ai.51cto.com/art/202002/611399.htm)
  > AI测温：复工潮里筑起的第一道防疫“屏障”
- ## [四种优秀的数据库设计工具](http://database.51cto.com/art/202002/611381.htm)
- > 四种优秀的数据库设计工具
- ## [疫情当下，五位安全大咖带你做好远程办公安全防护](http://netsecurity.51cto.com/art/202002/611495.htm)
- > 2020年开年，新型冠状病毒肺炎疫情让中国各行业企业陷入了两难境地：一方面，企业需要生存，生产复工不能耽
- ## [Salesforce宣布以13.3亿美元全现金收购云服务商Vlocity](http://cloud.51cto.com/art/202002/611504.htm)
- > 2月26日消息，据国外媒体报道，美国云计算公司Salesforce日前宣布，以13.3亿美元全现金收购云服务商云服务
- ## [在家办公，阿里人如何写周报？](http://biz.51cto.com/art/202002/611505.htm)
- > 周报是写给老板的，也是写给同事的，更是写给自己的。
- ## [统一通信市场趋势推动支出增长](http://network.51cto.com/art/202002/611502.htm)
- > 随着越来越多的企业顺应最新的统一通信市场趋势(如云计算协作工具和嵌入式通信)，内部部署统一通信(UC)的数
- ## [浅谈人工智能在人脸识别应用方面的优缺点](http://ai.51cto.com/art/202002/611501.htm)
- > 自上世纪50年图灵的一篇论文《机器人会思考吗？》开启人工智能的大门，人工智能的研究便一时成为科学、资本
- ## [首席信息官需要解决的混合云挑战](http://cloud.51cto.com/art/202002/611497.htm)
- > 企业的IT团队需要采用一种标准化的应用程序开发方法，才能真正从混合云中获益。而容器和Kubernetes可能是实
- ## [老码农的「锦囊」：10个编程技巧、5个纠错步骤，让你的编程之路少点坎坷](http://zhuanlan.51cto.com/art/202002/611498.htm)
- > 本文作者 Jeff Hale 是 Medium 社区中非常有名的人工智能和技术领域的专栏作家。在这篇文章里，他给所有的
- ## [2020年中国智能物联网（AIoT）白皮书](http://iot.51cto.com/art/202002/611496.htm)
- > 智能物联网（AIoT）是2018年兴起的概念，指系统通过各种信息传感器实时采集各类信息（一般是在监控、互动、
- ## [HackerOne去年发放超过8200万美元的赏金，联邦政府参与度大幅上涨](http://netsecurity.51cto.com/art/202002/611492.htm)
- > 2019年，由黑客驱动的漏洞赏金平台HackerOne支付的漏洞奖金几乎是前几年总和的两倍，达到8200万美元。
- ## [新的LTE网络缺陷可能使攻击者冒充4G移动用户](http://netsecurity.51cto.com/art/202002/611493.htm)
- > 鲁尔大学波鸿分校和纽约大学阿布扎比分校的一组学者发现了4G LTE和5G网络中的安全漏洞，这些漏洞可能允许黑
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
+ ## [苹果准备在 iOS 密不透风的高墙上开扇窗](http://news.51cto.com/art/202002/611533.htm)
+ > 据彭博社报道，苹果正考虑在 iOS(包括 iPad OS)中加入新功能，允许用户将其他 App 设置成「系统默认 App」
+ ## [携号转网为什么这么难？](http://network.51cto.com/art/202002/611531.htm)
+ > 根据对河南、山东两省多个城市的暗访督查，督查人员发现携号转网存在人为设置系统障碍、违规增设在网优惠服
+ ## [基于 MySQL Binlog 实现可配置的异构数据同步](http://zhuanlan.51cto.com/art/202002/611530.htm)
+ > 使用 Elasticsearch 存储业务数据可以很好的解决我们在业务中的搜索需求。而数据进行异构存储后，随之而来
+ ## [那些神一样的程序员](http://news.51cto.com/art/202002/611528.htm)
+ > 你觉得谁是最厉害的程序员, 为什么
+ ## [iOS系统真的需要升级？iOS系统升级情况分析](http://mobile.51cto.com/hot-611524.htm)
+ > 每到iOS新系统推出之后，是否需要第一时间升级，可能已经成为很多人纠结的问题。那么，iOS系统真的需要升级
+ ## [面试官：谈谈你对SpringAOP的了解？请加上这些内容，绝对加分！](http://developer.51cto.com/art/202002/611527.htm)
+ > 众所周知，一旦提到AOP，相信大家都是条件反射的想到JDK代理和CGLib代理，没错，这两个代理都是在运行时内
+ ## [怎样才能实现软件架构的“代代相传”？](http://news.51cto.com/art/202002/611525.htm)
+ > 软件设计面对的环境日趋复杂。对这种日趋复杂、难以驾驭的状况，很多软件人希望能有所改善。而标准化对提升
+ ## [如何用10行代码完成目标检测](http://developer.51cto.com/art/202002/611522.htm)
+ > 人工智能的一个重要领域是计算机视觉。计算机视觉是计算机和软件系统能够识别和理解图像和场景的科学。计算
+ ## [Wi-Fi网络中5G和2.4G是什么？有何区别？](http://network.51cto.com/art/202002/611520.htm)
+ > 最近搭载了新一代Wi-Fi 6技术的产品越来越多，使得Wi-Fi话题愈发火爆。很多人知道Wi-FiI协议的升级可以提升
+ ## [一行代码安装，TPU也能运行PyTorch，修改少量代码即可快速移植](http://news.51cto.com/art/202002/611519.htm)
+ > 对于PyTorch开发者来说，Google Colab上的TPU资源不能用，恐怕是最遗憾的事情了。Google的云计算资源眼看着
+ ## [写给大忙人看的操作系统](https://blog.csdn.net/qq_36894974/article/details/104554120)
  > 
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [蚂蚁金服 Service Mesh 大规模落地系列 - 质量篇](https://blog.csdn.net/SOFAStack/article/details/104191459)
- > 蚂蚁金服 Service Mesh 大规模落地系列 - 质量篇
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [Linux系统编程——基础命令总结](https://blog.csdn.net/asialee_bird/article/details/98772584)
- > 
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
- > 
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [漫画：“排序算法” 大总结](https://blog.csdn.net/bjweimengshu/article/details/103573147)
- > 漫画：“排序算法” 大总结
- ## [如何快速打好Java基础？](https://blog.csdn.net/qing_gee/article/details/104273480)
- > 
+ ## [opencv中Candy边缘检测详解](https://blog.csdn.net/qq_39507748/article/details/104542565)
+ > opencv中Candy边缘检测详解
+ ## [Python进程、线程、协程](https://blog.csdn.net/qq_41773806/article/details/104541554)
+ > Python进程、线程、协程
+ ## [3.3 数据定义](https://blog.csdn.net/qq_37208863/article/details/104545369)
+ > 3.3 数据定义
+ ## [使用anaconda 3安装tensorflow 1.15.0 （win10环境）](https://blog.csdn.net/qq_41793080/article/details/104546053)
+ > 使用anaconda 3安装tensorflow 1.15.0 （win10环境）
+ ## [用Excel函数提高效率](https://blog.csdn.net/zengmingen/article/details/104542011)
+ > 用Excel函数提高效率
+ ## [使用python的turtle函数绘制滑稽表情](https://blog.csdn.net/qq_45684803/article/details/104545937)
+ > 使用python的turtle函数绘制滑稽表情
+ ## [SSM框架整合坑](https://blog.csdn.net/XINGXINGR/article/details/104543689)
+ > SSM框架整合坑
+ ## [考研复试 | 机试刷题记录](https://blog.csdn.net/cat_xing/article/details/104520613)
+ > 考研复试 | 机试刷题记录
+ ## [python+pyqt5+selenium的web自动化小工具，还在逐步完善：（一）UI界面的完善](https://blog.csdn.net/qq_24414933/article/details/104538249)
+ > python+pyqt5+selenium的web自动化小工具，还在逐步完善：（一）UI界面的完善
+ ## [利用天行、网易实时数据可视化肺炎疫情数据，展示Pyecharts多样图表页面](https://blog.csdn.net/weixin_35770067/article/details/104541502)
+ > 利用天行、网易实时数据可视化肺炎疫情数据，展示Pyecharts多样图表页面
+ ## [Markdown编辑器-Typora使用总结](https://blog.csdn.net/sinat_36831051/article/details/104543065)
+ > Markdown编辑器-Typora使用总结
+ ## [没有ORM框架时如何操作数据库及其中的缺点](https://blog.csdn.net/abckingaa/article/details/104541889)
+ > 没有ORM框架时如何操作数据库及其中的缺点
+ ## [ubuntu+nvidia显卡驱动安装+（顺带）解决rviz卡顿/CPU使用率过高问题/compiz占用CPU过高问题](https://blog.csdn.net/Wenyue_Wang/article/details/104541687)
+ > ubuntu+nvidia显卡驱动安装+（顺带）解决rviz卡顿/CPU使用率过高问题/compiz占用CPU过高问题
+ ## [学习笔记(04):Python 面试100讲（基于Python3.x）-请详细描述print函数的用法](https://blog.csdn.net/Smile_Lai/article/details/104544516)
+ > 学习笔记(04):Python 面试100讲（基于Python3.x）-请详细描述print函数的用法
  ## [两成开发者月薪超 1.7 万、算法工程师最紧缺！ | 中国开发者年度报告](https://blog.csdn.net/csdnnews/article/details/104538091)
  > 整理 | 郭芮责编 | 唐小引出品 | CSDN（ID：CSDNnews）“求知若饥，虚心若愚”——这个原本出自《全球概览》的俳句，因为乔布斯在斯坦福大学毕业演讲中的引用而备受推崇，流传成为 IT 界的至理名言之一。在编程界，亦有“代码胜于雄辩”、“Done is better tha...
+ ## [高通发布 5G 基带芯片 X60：5nm 制程，2021 年上市](https://blog.csdn.net/csdnnews/article/details/104558253)
+ > 【编者按】2020年2月18日，高通发布骁龙X60 5G调制解调器，这也是目前全球首个5nm 5G基带，并且首次支持5G毫米波和6GHz以下的FDD和TDD频段。那么，这款基带相较于X50和X55有什么区别？它的发布有哪些意义？来听听北邮通信博士、芬兰阿尔托大学联合培养博士、知乎通信领域优秀回答者.
  ## [再获国际顶级荣誉，平头哥首席科学家谢源荣获2020年度IEEE CS技术成就奖](https://blog.csdn.net/csdnnews/article/details/104552341)
  > 2月28日，国际电气电子工程师学会计算机协会（IEEE CS）公布了2020年度技术成就奖（IEEE CS Technical Achievement Award）名单，阿里巴巴达摩院高级研究员、平头哥首席科学家谢源获得该奖项，这是其当选IEEE、AAAS、ACM三大国际顶级学会的会士(Fello.
  ## [2 亿人远程办公，不得不“强制升级”了！ | 刷新 CTO](https://blog.csdn.net/csdnnews/article/details/104548679)
@@ -186,42 +196,73 @@ AI&#23569;&#20799;&#33521;&#35821;&#24179;&#21488;&#8220;&#21486;&#21658;&#35838
  > 作者 | 刘军责编 | 屠敏从编程开发的角度来说，Apache Dubbo （以下简称 Dubbo）首先是一款 RPC 服务框架，它最大的优势在于提供了面向接口代理的服务编程模型，对开发...
  ## [华为Mate Xs预约超53万，售价16999元；微软前工程师因盗窃数字货币被判20年；FSF将推代码托管平台 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104549213)
  > 整理 | 郭芮快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技...
+# 人工智能 
+ ## [2年经验教你怎么准备前端面试 -\[阿里巴巴\]](https://blog.csdn.net/xg987599519/article/details/104514195)
+ > 2年经验教你怎么准备前端面试 -\[阿里巴巴\]
+ ## [两成开发者月薪超 1.7 万、算法工程师最紧缺！ | 中国开发者年度报告](https://blog.csdn.net/csdnnews/article/details/104538091)
+ > 两成开发者月薪超 1.7 万、算法工程师最紧缺！ | 中国开发者年度报告
+ ## [Python 爬取人民网领导留言板留言（一）：单进程版+selenium模拟](https://blog.csdn.net/CUFEECR/article/details/104515322)
+ > Python 爬取人民网领导留言板留言（一）：单进程版+selenium模拟
+ ## [IDEA上传项目到GitHub仓库详细步骤](https://blog.csdn.net/qq_40985788/article/details/104521945)
+ > IDEA上传项目到GitHub仓库详细步骤
+ ## [Hadoop2.7.2 编译64位源码（小白都能看的懂！！！全网最详细！！！）](https://blog.csdn.net/qq_43733123/article/details/104534926)
+ > Hadoop2.7.2 编译64位源码（小白都能看的懂！！！全网最详细！！！）
+ ## [Linux_如何处理系统日志和系统轮转](https://blog.csdn.net/z983229712/article/details/104544694)
+ > Linux_如何处理系统日志和系统轮转
+ ## [有哪些高质量的自学网站？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104499956)
+ > 有哪些高质量的自学网站？
+ ## [Linux  日志管理](https://blog.csdn.net/lxfqianfeng/article/details/104541243)
+ > Linux  日志管理
+ ## [](https://blog.csdn.net/qq_36936730/article/details/104524803)
+ > 
+ ## [使用yarn create umi安装Ant Design Pro时报错TypeError: self.env.emit is not a function](https://blog.csdn.net/weixin_44337323/article/details/104539574)
+ > 使用yarn create umi安装Ant Design Pro时报错TypeError: self.env.emit is not a function
+ ## [Python统计列表中的重复项出现的次数的方法](https://blog.csdn.net/haoxun05/article/details/104545768)
+ > Python统计列表中的重复项出现的次数的方法
+ ## [机器学习之逻辑回归（一）：逻辑回归的原理、模型、激活函数的使用、损失函数、优化方法（附手写案例）](https://blog.csdn.net/qq_35456045/article/details/104531363)
+ > 机器学习之逻辑回归（一）：逻辑回归的原理、模型、激活函数的使用、损失函数、优化方法（附手写案例）
+ ## [Elastic：菜鸟上手指南](https://blog.csdn.net/UbuntuTouch/article/details/102728604)
+ > Elastic：菜鸟上手指南
+ ## [Hadoop HDFS完全分布式环境搭建以及技术详解（保证没接触过大数据的小白看完就能独自把集群搭起来，并对HDFS有详细的认知）](https://blog.csdn.net/weixin_44022416/article/details/104517759)
+ > Hadoop HDFS完全分布式环境搭建以及技术详解（保证没接触过大数据的小白看完就能独自把集群搭起来，并对HDFS有详细的认知）
+ ## [Windows下VMware Workstations Pro15.5.0安装macOS Catalina 10.15虚拟机（详细教程）](https://blog.csdn.net/qq_41855420/article/details/102750895)
+ > Windows下VMware Workstations Pro15.5.0安装macOS Catalina 10.15虚拟机（详细教程）
 # PM 
- ## [豆瓣读书推荐策略的阶段性调研](http://www.woshipm.com/evaluating/3441076.html)
- > 调研豆瓣读书的书籍详情页，【喜欢这本书的人也喜欢这个】推荐模块的效果，一起来看看~一、理想态1.1 定义理想态给用户推荐相关且用户潜在感兴趣的书籍，吸引用户进...
- ## [10 年产品人的成长故事](http://www.woshipm.com/pmd/3438353.html)
- > 从一个不懂电脑的产品小白，到负责C端产品、B端产品，最后成为产品负责人。笔者的十年经历，讲述了产品人的成长以及人与产品的连接。缘起你好！见字如面，我是四月。...
- ## [以语言交换产品为例：看产品设计从0到1全流程](http://www.woshipm.com/pd/3437844.html)
- > 笔者近期做了一个从0到1孵化产品的项目，写这篇文章的主要目的是复盘在整个项目中产品经理的工作流程和应有的思考，其次是用这个文章让大家把每一块散点的技能串联起来...
- ## [公募基金的互联网转型，该往哪走？](http://www.woshipm.com/it/3432656.html)
- > 笔者作为一个非直接从业人员，仅从兴趣角度出发，从自身理解和公开信息进行个人观察和研究，来看公募基金的互联网转型，该往哪走。公募基金作为面向普通大众的投资途...
- ## [从0到1设计产品，你需要了解这些内容](http://www.woshipm.com/pd/3439980.html)
- > 对于设计师来说，如果你接到了从0到1设计一款产品的任务时，千万不要直接开干，动手前最好从产品、展示、团队上想清楚了要怎么做。从零开始设计一款产品时，很容易出...
- ## [以趣头条为例，拆解单用户价值模型](http://www.woshipm.com/pmd/3432728.html)
- > 本文主要对单用户价值模型的各要素进行了拆解，并分析了各个要素的计算方式与优化方向。各位小伙伴也可以对照一下自己负责的产品处于什么状态，从哪些因素去优化？怎么...
- ## [新课上线丨面试一张嘴就露馅，如何扎实产品基本功？](http://www.woshipm.com/online/3445176.html)
- > 每一个“优秀”的产品经理都是从“磕磕绊绊”的产品新人开始的。在没有产品经验的新人阶段，虽然热情十足，对产品经理的职位充满向往，但是到了面试的时候，总是或多或少的...
- ## [钉钉：不疯魔不成活](http://www.woshipm.com/chuangye/3439532.html)
- > 提及钉钉创立期间的各种事迹，“疯狂”可能是最准确的形容词了。这个词不仅适用于钉钉CEO无招，同样也适用于他的产品团队。从育空地区的道森出发，结束于西北特区的因纽...
- ## [用户界面设计师，如何在应用程序上做创新设计？](http://www.woshipm.com/pd/3436760.html)
- > 当设计师们有扎实的界面设计基础以及DS经历，做起界面行云流水，却发现我们的设计趋同性严重。当我们摒弃各个类别应用程序的TOP3logo，已然分不清谁是谁。那么应用程序...
- ## [B端产品，如何平衡通用化和个性化？](http://www.woshipm.com/pmd/3444667.html)
- > 对于B端产品来说，个性化需求是非常头疼的一个问题。那么，面对这类需求，应该如何合理的去处理呢？怎么才能平衡通用化和个性化？作为一个B端的产品经理，我相信大家...
- ## [我的B端产品经理工作流](http://www.woshipm.com/pmd/3438644.html)
- > 相对于C端来说，目前对于B端产品经理的工作流程、整体方法论的讨论还在少数，即使有也都是针对某一个细化部分进行展开，缺少从整体上去总结。于是笔者作为一个B端产品经...
- ## [二元化的在线音乐：开山挖矿 VS 蓄水养鱼](http://www.woshipm.com/it/3443641.html)
- > 如果做一个对比的话，腾讯音乐和网易云音乐在商业化变现时都选择性瞄准了“社交娱乐”，只是腾讯音乐的重心在于“娱乐”，音乐扮演了驱动消费者进行娱乐化消费的燃料；网易...
- ## [原来这就是UI设计师的门槛](http://www.chanpin100.com/article/110831)
- > 本文主要分享 UI 设计师入行的一些个人经验指南，希望可以带给新入行业的设计师一点帮助！
- ## [手游买量也需版号？字节跳动这是要动真格了？！](http://www.chanpin100.com/article/110827)
- > 摆在游戏开发者面前的是非常残酷的现实
- ## [深度测评推荐5款美食APP！豆果美食最佳!](http://www.chanpin100.com/article/110826)
- > 我根据应用宝上的美食类APP下载量排行，下载了五款美食APP，这五款APP单渠道下载量均在千万级别以上，比较具有代表性，所以针对这五款APP做了亲自体验测评后推荐。
- ## [产品经理装逼词汇](http://www.chanpin100.com/article/110825)
- > 产品经理必知词汇
- ## [想要提升App消息推送的打开率，先了解背后的原理吧！](http://www.chanpin100.com/article/110824)
- > 提升App到达率也就是提高App的在线活跃用户数、增加离线App的消息推送、同时结合用户画像，投其所好的推送消息，才能让用户持续产生依赖性。
- ## [淘宝天猫店如何做运营？看完这个思维导图你就知道了！](http://www.chanpin100.com/article/110823)
- > 淘宝经营离不开一样东西——爆款，爆款是我们经营发展中必须打造的，可以激发我们店铺的生命力，作者在书中为我们梳理了打造爆款的7大步骤，可以让我们更轻松地打造出爆款。
+ ## [为什么你的销售团队互联网化失败？](http://www.woshipm.com/it/3416835.html)
+ > 销售是最难带的队伍，尤其在互联网时代，销售还要互联网转型，销售场景一变，管理方式没跟上，就会瞬间丧失战斗力，销售的底薪成本反而让销售部成为了成本部门。以前不...
+ ## [B端产品的需求应该怎么理解？](http://www.woshipm.com/pd/3443051.html)
+ > 很多情况下，客户并不是真正的用户，所给的需求也是较为模糊的，客户不是专业人士，在表达的时候往往可能词不达意，那么面对这类需求，B端产品应该如何理解？B端产品...
+ ## [“先试穿再购买”的电商平台订单模块的重构心得](http://www.woshipm.com/pd/1023161.html)
+ > 当原有系统过于冗杂且原有功能不再适用当前需求时，重构系统的需求油然而生。于是笔者就和我们分享了订单管理模块重构的心得。从事电商行业，是一个女装类自营电商平...
+ ## [用户增长的道、法、术（上）：用户增长之“道”](http://www.woshipm.com/operate/3436855.html)
+ > 在人口红利锐减的当下， 每一个产品都格外注重用户，并力图通过各项手段实现用户增长。本文也就如何做用户增长展开讨论，不过本文暂且先不说具体方法论，而是着重分析我...
+ ## [2020，全民直播元年](http://www.woshipm.com/it/3442946.html)
+ > 在疫情防控的宅经济“催熟”下，直播模式今年迅速在各行各业得到应用，无论年龄、背景、性别和区域，这期间我们每一个人都在不同场景下被普及了直播，这已经成为一股席卷...
+ ## [内容营销的个人浅见：是未来也是复古](http://www.woshipm.com/marketing/3443611.html)
+ > 作为一个B端的产品经理，工作近五年来，见证了信息流短视频的崛起，B站up主的花式恰饭，自己也玩过一个小小的内容营销小程序。我认为，内容营销是趋势，也是返璞归真。...
+ ## [揭开“QQ音乐”交互设计的面纱](http://www.woshipm.com/ucd/3443955.html)
+ > 我本人一直是网易云音乐的忠实粉丝用户，这么多年以来用的第一款移动端音乐平台就是网易云音乐。但是记忆里的QQ音乐貌似更加地具有回忆感，所以我也想看一看这个时代下...
+ ## [如何一分钱不花，让用户主动分享帮你获客？](http://www.woshipm.com/operate/3435400.html)
+ > 通过用户分享、口碑推荐手段，获得客户质量都比较高，并且获客成本相对较低。不过由于操作难度大以及没有掌握正确的推广方法，导致通过用户分享获新客的规模并不大，那...
+ ## [考拉海购，是如何成为跨境电商行业“巨头”的？](http://www.woshipm.com/evaluating/3441359.html)
+ > 笔者本着以熟悉跨境电商行业的目的进行分析，从行业、竞品、产业链、核心业务、产品迭代、产品结构、运营等方面对考拉海购进行了分析，希望对你了解跨境电商有所帮助。...
+ ## [产品经理打怪升级之旅：关于职级晋升的一些方法和技巧（上篇）](http://www.woshipm.com/pmd/3443627.html)
+ > 本文是关于作者的自己的一些方法和经验总结，分享给那些同样在晋级路上挣扎的伙伴，希望对你有用~始料未及的超长假期，让我们在急速奔跑中放慢了脚步，也得以有时间慢...
+ ## [线上课程丨零基础，无经验？产品求职简历这么写，HR照样要你！](http://www.woshipm.com/online/3446328.html)
+ > 一、你的简历，有没有突出的你优势？尽管今年的招聘季有些特殊，但不少人已经开始投简历、线上面试了。师妹楠楠也是今年求职产品经理的一员。本来她是做UI的，在工作...
+ ## [教育转型需求下的市场分析报告](http://www.woshipm.com/evaluating/3435496.html)
+ > 对当前的教育体系来说，它需要数字化转型，打破传统教育，进行有效突破，才能为国家、社会、行业输送源源不断的高质量人才。备注：本文所有观点仅代表个人立场，与本...
+ ## [“会员体系”核心价值与设计方法](http://www.chanpin100.com/article/110841)
+ > “会员体系”作为提升用户活跃，提高单个用户的生命周期价值的有效方式，已经被越来越多的产品所重视。产品建立”会员体系“的核心价值和如何建立”会员体系“是需要设计者思考的重要问题。这篇文章介绍了作者自身对于这两个问题的思考和观点。
+ ## [如何通过裂变营销低成本的获取流量？](http://www.chanpin100.com/article/110838)
+ > 随着互联网行业的不断发展，互联网的人口红利已经消失殆尽，流量的获取成本越来越高，如何以最低的成本获取流量，成为了众多企业最头疼的问题。裂变营销是一种低成本、高精准的获客方式，跟传统的App推广方式相比，这种方式更加强调分享，通过让老用户（或者潜在用户）的分享行为不断吸引新用户，扩大用户基础，增强品牌
+ ## [B端产品经理需要具备的能力](http://www.chanpin100.com/article/110836)
+ > 做好B端产品设计，哪些能力是需要建立的！
+ ## [读书记录之《产品之旅：产品经理的方法论与实战进阶》](http://www.chanpin100.com/article/110835)
+ > 《产品之旅：产品经理的方法论与实战进阶》是一本很适合产品人看的书，它详细的介绍了产品经理的工作和部分理念。前半部分重点对需求和项目以及产品入门进行讲解，可以细看。对比日常工作，给了自己很好对的反省和复盘。
+ ## [web前端知识框架很难？用这个思维导图试试！](http://www.chanpin100.com/article/110834)
+ > 前端所需掌握技术多且杂，需要投入一定的精力在上面进行学习。
+ ## [航空类产品竞品分析（移动端篇）](http://www.chanpin100.com/article/110833)
+ > 航空类产品竞品分析（移动端篇）--重新投稿。
 
     
