@@ -1,22 +1,22 @@
 ---
 title: 2020-02-29 IT News
 copyright: true
-date: 2020-02-29 10:01:40
+date: 2020-02-29 12:02:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [返工前后，AOC智能会议平板带来高效远程办公体验!](http://mp.weixin.qq.com/s?src=11&timestamp=1582939803&ver=2187&signature=U4NpAATveKSMMKrJH2fvIwINJ2docrEE5NBGEVe*eJFPG9XRzRH22yPPXN1h2cgefLybnkZexLqN6JFZJDvZihC-aea18htdb4fwlw5mEgRM*d4I2OCscSX6AhZSHux9&new=1)
- > 愈发严峻的疫情时期，在家办公成企业保障运营效率的必要手段。“云上班”的日子里，如何确保工作效率，如何在人员非集中的情况下实现在线协作？部分企业人员也已陆续复工，如何在非常时期实现安全办公，快速高效...
- ## [2020会是Apollo元年吗?疫情下关于百度财报的思考](http://mp.weixin.qq.com/s?src=11&timestamp=1582939803&ver=2187&signature=B5Rl9Zot4Ow*-ZD3Hl4ahLV9QyTARa-SahgxhAvRXWnWWT9FRjbkThDxNCIBPswDQ65876lo1oZG21XTCM4vdLu3TmgxPsq*9wWnrFiNKCiCAxIaBrmrhqRKpdYmodhO&new=1)
- > 今日，百度对外发布了截至2019年12月31日的Q4季度财报，据财报显示，Q4季度百度实现营收达289亿元人民币，归属百度的净利润达到92亿元人民币 (非美国通用会计准则)，同比增长95%。2019年年营收为1074亿元人民币...
- ## [大招又至!高通骁龙 X60 详解!](http://mp.weixin.qq.com/s?src=11&timestamp=1582939803&ver=2187&signature=F0Bm3GZlpeyjYA4xG7O1BIGg2jknq5jHJfWeemarmxCEUCbA3mztocNNRumMj23jMLt-vGlosuy*0zYvdPHRoaqqF3FpxITscH8hcUw8ElPjtZGuojiufSmto9VcGPtC&new=1)
- > 2月26号凌晨，高通在美国圣迭戈总部正式向媒体展示了他们的第三代5G解决方案——骁龙X60调制解调器及射频系统。骁龙X60采用全球首个5纳米制程5G基带芯片，功耗更低、性能也更强，可以实现最高7.5Gbps的下行速度...
- ## [关于河南省、山东省部分地方电信企业携号转网政策落实不到位的督查情况通报](http://mp.weixin.qq.com/s?src=11&timestamp=1582939803&ver=2187&signature=iZgBkFnJ1YeZiUw4-V0HloAK*kHxwaXq4F2*Xp7b-5m3Q51vTeM2HD4wq7P4CJHq3uv*WcInngCd-QRDsz8iSKZ5h94AlQR04Y9a-BUyj2kcNwMo6gGC1cp3oYzzgVZ2&new=1)
- > 党中央、国务院高度重视网络提速降费工作。2019年《政府工作报告》明确提出在全国实行携号转网。2019年11月27日，携号转网服务正式在全国范围内推行。根据国务院“互联网+督查”平台收到的问题线索，2020年1月上...
- ## [史无前例!黑龙江280万中小学生将网上开课，通信、教育、流量……这样保障](http://mp.weixin.qq.com/s?src=11&timestamp=1582939803&ver=2187&signature=-wS*CVAAND*CFzmilfSSfMJy2rxRnWAs29em4JY8iodGeZklJkA8N5BoUziFm7uZdgV0m5YKuHM5JSodsVgtpMlc3*8lde7oGu8R9EtG7gvIIn0kLf0DiDi3e4G7G8h3&new=1)
+ ## [史无前例!黑龙江280万中小学生将网上开课，通信、教育、流量……这样保障](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=-wS*CVAAND*CFzmilfSSfMJy2rxRnWAs29em4JY8iocQNHkx6LXvAgdt3X7*qsbGH7KaOW8PyqsU1DzaAcwt2-6SJITZKeE6xc6LhAJDZnu32O7WPG4C84tmG2YXa*0M&new=1)
  > 2月28日下午，省通信管理局、省教育厅联合召开全省中小学“停课不停学”通信服务保障工作视频会议，就贯彻落实教育部办公厅、工信部办公厅联合印发《关于中小学延期开学期间“停课不停学”有关工作安排的通知》...
- ## [招聘丨加入Qualcomm Modem团队，做最酷的工作!](http://mp.weixin.qq.com/s?src=11&timestamp=1582939803&ver=2187&signature=0MGxMBNp1JVRnqBLhHMqOc9-fTQji-JP457wicZUvXC5o51wsg6ApaUF1v1n3aDZabpc6IO4aTDEMEQnkm6otuvDbirL4oUI732pUQsO08yBCi4LzT7K**dM51mYLIE0&new=1)
+ ## [返工前后，AOC智能会议平板带来高效远程办公体验!](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=U4NpAATveKSMMKrJH2fvIwINJ2docrEE5NBGEVe*eJFd4FTRrrMKk-dUEtaJE2FaDONnw-we3xFUTW6PdXojE6sqVVmXW9xWPp8EYMjg-bhz0wBLRci8ss*Ych2BG8IK&new=1)
+ > 愈发严峻的疫情时期，在家办公成企业保障运营效率的必要手段。“云上班”的日子里，如何确保工作效率，如何在人员非集中的情况下实现在线协作？部分企业人员也已陆续复工，如何在非常时期实现安全办公，快速高效...
+ ## [大招又至!高通骁龙 X60 详解!](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=F0Bm3GZlpeyjYA4xG7O1BIGg2jknq5jHJfWeemarmxAGNMPnbwwtltd3FJieo5f8d8tlOMRveQistoFiYV2uUr-8V3QSkpL-BR8Ia2aYt6hIlrYKP-Brm7GNrJ85Mom*&new=1)
+ > 2月26号凌晨，高通在美国圣迭戈总部正式向媒体展示了他们的第三代5G解决方案——骁龙X60调制解调器及射频系统。骁龙X60采用全球首个5纳米制程5G基带芯片，功耗更低、性能也更强，可以实现最高7.5Gbps的下行速度...
+ ## [2020会是Apollo元年吗?疫情下关于百度财报的思考](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=B5Rl9Zot4Ow*-ZD3Hl4ahLV9QyTARa-SahgxhAvRXWmJ3ay4nrg1vwAepn4*cOnQIY4TNVNTG69nksnd8vyW7R-Qi2gHPoD4sn5wjvVYft5t4QmPHJ0RgQRnhDVjsRY3&new=1)
+ > 今日，百度对外发布了截至2019年12月31日的Q4季度财报，据财报显示，Q4季度百度实现营收达289亿元人民币，归属百度的净利润达到92亿元人民币 (非美国通用会计准则)，同比增长95%。2019年年营收为1074亿元人民币...
+ ## [关于河南省、山东省部分地方电信企业携号转网政策落实不到位的督查情况通报](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=iZgBkFnJ1YeZiUw4-V0HloAK*kHxwaXq4F2*Xp7b-5nKZ5LwNjkUrKpj2aKzHx-4euhYRoPol9Z9YZp1qrmzQwqUnWJydxJfiP7LR8nodUdq1xp7mpiMayM-OvpTj32g&new=1)
+ > 党中央、国务院高度重视网络提速降费工作。2019年《政府工作报告》明确提出在全国实行携号转网。2019年11月27日，携号转网服务正式在全国范围内推行。根据国务院“互联网+督查”平台收到的问题线索，2020年1月上...
+ ## [招聘丨加入Qualcomm Modem团队，做最酷的工作!](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=0MGxMBNp1JVRnqBLhHMqOc9-fTQji-JP457wicZUvXAbsavwsQLXjQJoFccMNYSHHnL3WVeYBJjb9qWod9EKBfNu4FRDwwRLoa-GAFbCYALjHIhc-CJIthcwr3ikipQC&new=1)
  > 移动互联时代，连接已然是移动性的核心，关乎我们每个人。5G正在全球快速普及，助力全球5G部署，Qualcomm一直在路上。通过提供骁龙5G调制解调器及射频系统，我们能够支持OEM厂商快速开发先进的5G终端。我们最新...
 # IT 技术 
  ## [搞懂这些Redis知识点，吊打面试官！](http://stor.51cto.com/art/202002/611544.htm)
@@ -47,36 +47,36 @@ categories: IT NEWS
  > 暖通空调行业和物联网的融合提供了卓越的以客户为中心的服务，使远程设备控制成为第一步。进一步的发展将导
  ## [智能工厂面临的5大挑战以及应对之道](http://iot.51cto.com/art/202002/611546.htm)
  > 我们已经知道，边缘化的AI和IoT是加快工厂转型的关键，但是，如何催化这些技术的更快速采用并避免飞行员炼
- ## [浅谈基于51单片机的红外循迹小车](https://blog.csdn.net/qq_44086987/article/details/104564157)
- > 浅谈基于51单片机的红外循迹小车
- ## [基于Python的拼写检查器（附详细代码和注释）](https://blog.csdn.net/qq_35456045/article/details/104562884)
- > 基于Python的拼写检查器（附详细代码和注释）
- ## [Obtain The String（sdau19训练）](https://blog.csdn.net/qq_45949914/article/details/104559610)
- > Obtain The String（sdau19训练）
- ## [协议   ---ISO/OSI协议模型详解](https://blog.csdn.net/xxx0028/article/details/104561535)
- > 协议   ---ISO/OSI协议模型详解
- ## [（八）【Matlab】Simulink系统仿真](https://blog.csdn.net/weixin_44378835/article/details/104499557)
- > （八）【Matlab】Simulink系统仿真
- ## [YOLOv3配置(Ubuntu版本 附weight资源)](https://blog.csdn.net/qq_41722524/article/details/104084757)
- > YOLOv3配置(Ubuntu版本 附weight资源)
- ## [重装纯净版WIN10](https://blog.csdn.net/qq_44199087/article/details/104559636)
- > 重装纯净版WIN10
- ## [机器学习项目（一）工业离散制造过程中的符合率业务需求问题](https://blog.csdn.net/qq_33357094/article/details/104563721)
- > 机器学习项目（一）工业离散制造过程中的符合率业务需求问题
- ## [Markdown语法学习整理](https://blog.csdn.net/qq_40089907/article/details/104560176)
- > Markdown语法学习整理
- ## [C++ x86 x64 类内类外子类化](https://blog.csdn.net/qq121007124/article/details/104561614)
- > C++ x86 x64 类内类外子类化
- ## [java初阶代码2.28](https://blog.csdn.net/Gudao98/article/details/104563565)
- > java初阶代码2.28
- ## [刘忠雨 深入浅出图神经网络 GCN实战代码](https://blog.csdn.net/qq_32768743/article/details/104564330)
- > 刘忠雨 深入浅出图神经网络 GCN实战代码
- ## [实现超市收银找零程序（C语言）](https://blog.csdn.net/qq_43121993/article/details/104564448)
- > 实现超市收银找零程序（C语言）
- ## [deepin 安装JRE/JDK](https://blog.csdn.net/weixin_44123547/article/details/104562626)
- > deepin 安装JRE/JDK
- ## [计算机网络学习整理(1)](https://blog.csdn.net/MRcheng12138/article/details/104556837)
- > 计算机网络学习整理(1)
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
+ > 
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
+ > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
+ ## [Linux系统编程——基础命令总结](https://blog.csdn.net/asialee_bird/article/details/98772584)
+ > 
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [关于增量学习的一点总结思考](https://blog.csdn.net/shinian1987/article/details/102983510)
+ > 关于增量学习的一点总结思考
+ ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
+ > B 站上有哪些很好的学习资源?
+ ## [【2020 Java基础快速学习路线】写了很久，这是一份最适合普通大众、非科班的路线](https://blog.csdn.net/qing_gee/article/details/104273480)
+ > 
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [跨表查询经常有，何为跨表更新？](https://blog.csdn.net/yusimiao/article/details/104152026)
+ > 跨表查询经常有，何为跨表更新？
+ ## [20道你必须要背会的微服务面试题，面试一定会被问到](https://blog.csdn.net/weixin_43570367/article/details/103809848)
+ > 
  ## [AI持续赋能，搜狗S1会给录音笔行业带来哪些新变化？](https://blog.csdn.net/csdnnews/article/details/104568275)
  > 作者 | 持续赋能的出品 | CSDN（ID：CSDNnews）2月26日，在以“同舟共记”为主题的“2020搜狗AI录音笔新品线上发布会”上，搜狗重磅推出S1、E1、S1故宫宫廷联名款...
  ## [高通发布 5G 基带芯片 X60：5nm 制程，2021 年上市](https://blog.csdn.net/csdnnews/article/details/104558253)
@@ -84,37 +84,47 @@ categories: IT NEWS
  ## [再获国际顶级荣誉，平头哥首席科学家谢源荣获2020年度IEEE CS技术成就奖](https://blog.csdn.net/csdnnews/article/details/104552341)
  > 2月28日，国际电气电子工程师学会计算机协会（IEEE CS）公布了2020年度技术成就奖（IEEE CS Technical Achievement Award）名单，阿里巴巴达摩院高级研究员、平头哥首席科学家谢源获得该奖项，这是其当选IEEE、AAAS、ACM三大国际顶级学会的会士(Fello.
 # 人工智能 
- ## [Hadoop2.7.2 编译64位源码（小白都能看的懂！！！全网最详细！！！）](https://blog.csdn.net/qq_43733123/article/details/104534926)
- > Hadoop2.7.2 编译64位源码（小白都能看的懂！！！全网最详细！！！）
- ## [Linux_如何处理系统日志和系统轮转](https://blog.csdn.net/z983229712/article/details/104544694)
- > Linux_如何处理系统日志和系统轮转
- ## [Linux  日志管理](https://blog.csdn.net/lxfqianfeng/article/details/104541243)
- > Linux  日志管理
- ## [linux基础之计划任务篇](https://blog.csdn.net/weixin_45508789/article/details/104543246)
- > linux基础之计划任务篇
- ## [linux 基础  --进程管理  ps](https://blog.csdn.net/m0_46393435/article/details/104533659)
- > linux 基础  --进程管理  ps
- ## [IDEA部署项目到远程tomcat](https://blog.csdn.net/qq_40985788/article/details/104512354)
- > IDEA部署项目到远程tomcat
- ## [Linux 计划任务](https://blog.csdn.net/weixin_43273856/article/details/104544796)
- > Linux 计划任务
- ## [linux_日志管理和轮转](https://blog.csdn.net/estarhao/article/details/104545746)
- > linux_日志管理和轮转
- ## [win下cmd常用命令以及netstat简析](https://blog.csdn.net/Alexz__/article/details/104500244)
- > win下cmd常用命令以及netstat简析
- ## [入门linux基础之进程管理篇](https://blog.csdn.net/qq_44972651/article/details/104542517)
- > 入门linux基础之进程管理篇
- ## [Windows下VMware Workstations Pro15.5.0安装macOS Catalina 10.15虚拟机（详细教程）](https://blog.csdn.net/qq_41855420/article/details/102750895)
- > Windows下VMware Workstations Pro15.5.0安装macOS Catalina 10.15虚拟机（详细教程）
- ## [Linux之用户管理](https://blog.csdn.net/m0_46400195/article/details/104540730)
- > Linux之用户管理
- ## [学习Linux运维的个人笔记：Linux基本介绍（一）](https://blog.csdn.net/weixin_44903608/article/details/104537274)
- > 学习Linux运维的个人笔记：Linux基本介绍（一）
- ## [最详细的Ubuntu18配置px4_ros_gazebo仿真](https://blog.csdn.net/weixin_43568893/article/details/104533500)
- > 最详细的Ubuntu18配置px4_ros_gazebo仿真
- ## [Linux-计划任务相关分享](https://blog.csdn.net/weixin_46299169/article/details/104541950)
- > Linux-计划任务相关分享
+ ## [android 常见面试题（二）](https://blog.csdn.net/wk_beicai/article/details/101197583)
+ > android 常见面试题（二）
+ ## [Android小项目——社交类app（低仿微信）](https://blog.csdn.net/yy2017220302028/article/details/100568254)
+ > Android小项目——社交类app（低仿微信）
+ ## [手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费](https://blog.csdn.net/ccyhq/article/details/100545145)
+ > 手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费
+ ## [无需越狱iphone 微信双开分身免费获取方法](https://blog.csdn.net/wik_123/article/details/100914872)
+ > 无需越狱iphone 微信双开分身免费获取方法
+ ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
+ > 完美解决：Project needs to be converted to androidx.* dependencies
+ ## [android studio报错Error: Gradle project sync failed. Please fix your project and try again.](https://blog.csdn.net/qq_36721220/article/details/100769359)
+ > android studio报错Error: Gradle project sync failed. Please fix your project and try again.
+ ## [APP调用第三方(微信)登录（最详细的实现流程）](https://blog.csdn.net/qq_34817440/article/details/100654042)
+ > APP调用第三方(微信)登录（最详细的实现流程）
+ ## [解决WH1000XM3连接电脑无法使用麦克风问题](https://blog.csdn.net/weixin_37993251/article/details/100627133)
+ > 解决WH1000XM3连接电脑无法使用麦克风问题
+ ## [Win10连接Bose QC30蓝牙耳机  已配对但连接不成功](https://blog.csdn.net/yl_best/article/details/100038040)
+ > Win10连接Bose QC30蓝牙耳机  已配对但连接不成功
+ ## [电脑录屏没有声音该怎么办](https://blog.csdn.net/doublerich/article/details/100739262)
+ > 电脑录屏没有声音该怎么办
+ ## [StartService和stopService播放音乐](https://blog.csdn.net/qq_45393395/article/details/100546229)
+ > StartService和stopService播放音乐
+ ## [app稳定性、遍历工具](https://blog.csdn.net/qq_38204134/article/details/90058971)
+ > app稳定性、遍历工具
+ ## [adb工具下载及配置使用](https://blog.csdn.net/u013925378/article/details/100891207)
+ > adb工具下载及配置使用
+ ## [ActivityRecord、TaskRecord、ActivityStack、ActivityDisplay、ActivityStackSupervisor到底是干嘛的？](https://blog.csdn.net/jiejingguo/article/details/100188576)
+ > ActivityRecord、TaskRecord、ActivityStack、ActivityDisplay、ActivityStackSupervisor到底是干嘛的？
+ ## [Google WebRtc Android 使用详解(包括客户端和服务端代码)](https://blog.csdn.net/yin13753884368/article/details/100820613)
+ > Google WebRtc Android 使用详解(包括客户端和服务端代码)
 # PM 
+ ## [知乎分析报告：用知识连接社区](http://www.woshipm.com/evaluating/3445883.html)
+ > 通过对同领域优秀产品的学习，能够帮助我们更高效、更明确地推进产品模式与设计。于是笔者在业务方向社区化后，选择了知乎作为分析对象，并试图从中找到学习之处。最...
+ ## [旅程映射，构建移动应用的用户体验](http://www.woshipm.com/pd/3436781.html)
+ > 旅程映射分为4条泳道：阶段、动作、思想、心态/情绪。省略大多数流程细节，反映了用户的思想，思考和情感。旅程映射创建了一个完整的体验视图，正是这一过程将不同的...
+ ## [从运营到产品到PMO，我是如何实现职能转型的？](http://www.woshipm.com/zhichang/2674042.html)
+ > 转型是每个职场人在面临职场分岔路的时候不可避免的选择，而当职能角色与以往不同，发生改变后，我们又该如何适应呢？我们的能力又该如何提升呢？不知不觉，从通信切...
+ ## [下一波增长红利：“银发”市场](http://www.woshipm.com/it/3445010.html)
+ > 面对“银发族”巨大的消费需求，以及当前市场空缺，品牌商家应该怎么做，才能抓住这波红利呢？说到“银发族”，相信大部分人的印象都是：衰老、保守、古板、身体还不好……...
+ ## [细分市场下，金融产品怎么做数字化匹配？](http://www.woshipm.com/pmd/3446569.html)
+ > 当我们的客户以金融产品的方式购买车辆的时候，每个人都有不同的选择，在我们提供的金融产品的范围内，有的客户满意，有的客户并不如心意。如何让每一个客户都能够开心...
  ## [做直播带货，你需要掌握6点营销能力](http://www.woshipm.com/it/3416764.html)
  > 企业要想做好视频类营销，到底需要踩准哪些点呢？本文为大家介绍了六大要点，希望对你有所启发。疯狂的直播带货数据2017年，主播薇娅抓住了淘宝直播的新风口，成为第...
  ## [善用KANO模型，做需求分类与评估优先级](http://www.woshipm.com/pd/3442791.html)
