@@ -1,22 +1,40 @@
 ---
 title: 2020-02-29 IT News
 copyright: true
-date: 2020-02-29 12:02:28
+date: 2020-02-29 17:02:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [史无前例!黑龙江280万中小学生将网上开课，通信、教育、流量……这样保障](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=-wS*CVAAND*CFzmilfSSfMJy2rxRnWAs29em4JY8iocQNHkx6LXvAgdt3X7*qsbGH7KaOW8PyqsU1DzaAcwt2-6SJITZKeE6xc6LhAJDZnu32O7WPG4C84tmG2YXa*0M&new=1)
- > 2月28日下午，省通信管理局、省教育厅联合召开全省中小学“停课不停学”通信服务保障工作视频会议，就贯彻落实教育部办公厅、工信部办公厅联合印发《关于中小学延期开学期间“停课不停学”有关工作安排的通知》...
- ## [返工前后，AOC智能会议平板带来高效远程办公体验!](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=U4NpAATveKSMMKrJH2fvIwINJ2docrEE5NBGEVe*eJFd4FTRrrMKk-dUEtaJE2FaDONnw-we3xFUTW6PdXojE6sqVVmXW9xWPp8EYMjg-bhz0wBLRci8ss*Ych2BG8IK&new=1)
- > 愈发严峻的疫情时期，在家办公成企业保障运营效率的必要手段。“云上班”的日子里，如何确保工作效率，如何在人员非集中的情况下实现在线协作？部分企业人员也已陆续复工，如何在非常时期实现安全办公，快速高效...
- ## [大招又至!高通骁龙 X60 详解!](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=F0Bm3GZlpeyjYA4xG7O1BIGg2jknq5jHJfWeemarmxAGNMPnbwwtltd3FJieo5f8d8tlOMRveQistoFiYV2uUr-8V3QSkpL-BR8Ia2aYt6hIlrYKP-Brm7GNrJ85Mom*&new=1)
- > 2月26号凌晨，高通在美国圣迭戈总部正式向媒体展示了他们的第三代5G解决方案——骁龙X60调制解调器及射频系统。骁龙X60采用全球首个5纳米制程5G基带芯片，功耗更低、性能也更强，可以实现最高7.5Gbps的下行速度...
- ## [2020会是Apollo元年吗?疫情下关于百度财报的思考](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=B5Rl9Zot4Ow*-ZD3Hl4ahLV9QyTARa-SahgxhAvRXWmJ3ay4nrg1vwAepn4*cOnQIY4TNVNTG69nksnd8vyW7R-Qi2gHPoD4sn5wjvVYft5t4QmPHJ0RgQRnhDVjsRY3&new=1)
- > 今日，百度对外发布了截至2019年12月31日的Q4季度财报，据财报显示，Q4季度百度实现营收达289亿元人民币，归属百度的净利润达到92亿元人民币 (非美国通用会计准则)，同比增长95%。2019年年营收为1074亿元人民币...
- ## [关于河南省、山东省部分地方电信企业携号转网政策落实不到位的督查情况通报](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=iZgBkFnJ1YeZiUw4-V0HloAK*kHxwaXq4F2*Xp7b-5nKZ5LwNjkUrKpj2aKzHx-4euhYRoPol9Z9YZp1qrmzQwqUnWJydxJfiP7LR8nodUdq1xp7mpiMayM-OvpTj32g&new=1)
+ ## [微信小程序直播正式公测；刘强东 2020 年已卸任 8 家公司高管；React 16.13.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=GUspeVwSGOi28ODG79K38BPcVsCelH3NMgCPgp2Vj7Y6IcaMUR51cJHtYjgOsJKgW8T9QCQkuE-OQ9heVAAm-l*GqlHoI6s2*dAzuOI2Zc3d9s9qH-w8MVjODsOJGlT-&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自视觉中国快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值...
+ ## [“沈阳云课”第一周课表来啦!关于“云课”试播你想知道的都在这里!](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=EJI9m1iK6WdyqaXqYKNDURCmsIK7sYbwljZTDU0iWLoSEq-5MRmvUQ3nX8zu6pslygGUolrahwCiaazlnx4-uWcQY2MLdC40YCMHeQa*1WdJNwhZ*v3UJdhCnkSN1CzR&new=1)
+ > 沈阳市中小学校线上教学和线上辅导将于3月2日开始，为方便学生和家长选择适合的收看方式，保障如期顺利收看“沈阳云课”，特于3月1日进行试播。一起来了解一下吧！一、试播时间3月1日（周日）上午8:30-下午14:00...
+ ## [李铁：疫情过后，我们需要什么样的智慧城市?](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=QXYlSwkrIV1zxag2jnLQldeHzNyk6ZADaOZ98-YlUDQVohjfEXhSEbJBTZenrd8xZ*-noXdjFpCJBvYOYCOdbQNO23XiXLaZuhpVRnAs1DzsfaGZuKh81yV4*hz1-h9t&new=1)
+ > 在疫情大灾面前，这么多智慧城市项目失灵，关键在于政府主导的思维模式，并没有适应互联网和信息革命带来的变化，也没有意识到，真正的智慧城市是需要开放市场来支撑的图/Unsplash文 | 李铁涉及几乎所有城市、覆...
+ ## [\[报告下载\]2020汽车行业精选报告大全：428篇报告，超20309页高清版PDF文件，光速收藏!](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=cNrIQaWkz3DEyAUMsdbAB1l7RMJhtO06l32rTBYFkoWT16QmYeqFVc9totQJG5LLeutz3B*pie-ZLVaToXETv0tB1*xXbkVUY5w4cq0vUVFBILFWF15NofDNAj*sY33t&new=1)
+ > 汽车行业428篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享428份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [Facebook、微软、苹果在2月疫情笼罩下都做了啥?](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=Q4XZZU*o1sMZDrTXN8*Js07eEOhi2xDWEzBod*w5PUBEfBAEilOjvaUTO33Y8mF9VH7takhUIkw7np5uml1Kiwq8fPDYRxmd5AWuE7EShEIXmhEONZ*YRKpoXA374Ni5&new=1)
+ > 科学认真做防护，有条不紊谋发展。文 | 慧梅（VRPinea 2月29日电）2020年2月，在全国新型冠状病毒肺炎的影响下，全国经济严重下滑，踽踽独行地XR行业自然也受到较大的影响。此前，VRPinea曾在《进退失距，新冠肺...
+ ## [字节跳动：头条搜索应用未正式上线；爱奇艺：「随刻」主要对标 YouTube；苹果将推内置触控板的 iPad 键盘套|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=nyCd40O0wrVui73Rzl3Y*PaLB5ML6pF8-RPnuYOmjBGc6XgP0hyjZtLDaUBSCcm8GGfBtLXQ3upsBPS60JRdE0BWJugtcgOzOwGdxRoI*ozjzCBmBc1hCz975U-W0VIM&new=1)
+ > 比尔·盖茨：新冠肺炎可能成为百年不遇的大流行病2 月 29 日凌晨，盖茨基金会微信公众号发布《比尔·盖茨：新冠肺炎可能成为百年不遇的大流行病》一文，本文最初发表于《新英格兰医学杂志》，作者为比尔·盖茨。...
+ ## [码字的协同办公还好说，码代码的该如何协同?](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=hbdClBGJdLeuM5x9ozxWxVGyvl0MdFdgU*LEbc-cefT6V8*sKXpe5eWz4jvxwpnW*7xogfh2IahWfN0Y0KnRyFyd23eyibxY-fwc72y8Ek-EppLJwu2TcsSlg0E3Cq5*&new=1)
+ > （本文阅读时间：9分钟）在疫情防控和隔离的要求下，一时间大家纷纷开始通过远程方式进行协同办公。洗个头，画个妆，美美得在视频会议中露脸，你就是全屏幕 zui 靓的仔左手茶杯，右手鼠标，快速处理完邮件，可以...
+ ## [RSAC专家分享：欧洲网络安全法案分析及其对厂家的影响](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=JwKC3-4-h0uB5NDdUFI8plAuGfW5-faC*xSefQHzFyJsPHGem4-xsqyhpGhNYTiOVuID22U5fzDt8J8uLc3LoTqBNpcxYxvJNAXL*YLqRFteqTnGYzFdKe57IuZb9gw1&new=1)
+ > 由来自德国国家信息安全研究中心的Dr. Norbert Pohlmann主席主持的讨论会“欧洲网络安全法案(CSA)及其对相关网安公司的影响”吸引了来自美国乃至全球网络公司的关注。参与讨论会的还有来自欧洲联盟网络安全机构(...
+ ## [关于河南省、山东省部分地方电信企业携号转网政策落实不到位的督查情况通报](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=iZgBkFnJ1YeZiUw4-V0HloAK*kHxwaXq4F2*Xp7b-5mdoq57iC*d1HQmqynnBunZ88S2itdmYeoGEpxqKywLVibPicptuBQjgPwsRKrb3F8eIqznwibrIDB0CRIcpMif&new=1)
  > 党中央、国务院高度重视网络提速降费工作。2019年《政府工作报告》明确提出在全国实行携号转网。2019年11月27日，携号转网服务正式在全国范围内推行。根据国务院“互联网+督查”平台收到的问题线索，2020年1月上...
- ## [招聘丨加入Qualcomm Modem团队，做最酷的工作!](http://mp.weixin.qq.com/s?src=11&timestamp=1582947004&ver=2187&signature=0MGxMBNp1JVRnqBLhHMqOc9-fTQji-JP457wicZUvXAbsavwsQLXjQJoFccMNYSHHnL3WVeYBJjb9qWod9EKBfNu4FRDwwRLoa-GAFbCYALjHIhc-CJIthcwr3ikipQC&new=1)
+ ## [直播：国产4D打印材料来了，eSUN易生重磅新品](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=XZMJC5bDZMCjtPHgJshRF-4xMSNE5lFZ*41w4V4gApr7rdedyUzU9U09ItUIPzqv4nZpA-e1901HT23d1spTKaRkyad27C4nMC6ATxYRzKm4fC344ealm18iwhZ0JLjU&new=1)
+ > 又一个视频直播来了：可变现的国产4D打印材料，FDM 3D打印机用户都可以玩！主题：eSUN易生4D打印耗材【e4D-1】介绍会时间：2020年3月4日下午14:00-15:00直播讲师：陈德振，eSUN易生 3D医疗事业部研发副经理直播...
+ ## [史无前例!黑龙江280万中小学生将网上开课，通信、教育、流量……这样保障](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=-wS*CVAAND*CFzmilfSSfMJy2rxRnWAs29em4JY8ioeU04OBAfsgLwGF8JIQcO9AlKB3CyeCvVxHC5xLo3piyadwuSTfXn9tUBQFLFHZ*vUa1FbS2zbaPfSCCCTOf0c*&new=1)
+ > 2月28日下午，省通信管理局、省教育厅联合召开全省中小学“停课不停学”通信服务保障工作视频会议，就贯彻落实教育部办公厅、工信部办公厅联合印发《关于中小学延期开学期间“停课不停学”有关工作安排的通知》...
+ ## [大招又至!高通骁龙 X60 详解!](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=F0Bm3GZlpeyjYA4xG7O1BIGg2jknq5jHJfWeemarmxDpTpf-IEzZvCTvwL7vOyfjH2KvT4w52fQbQUrZO-*IvEdy*HZKLsBlnczkVEHgzd9gbBKt3ri-sGVkAAb-etVq&new=1)
+ > 2月26号凌晨，高通在美国圣迭戈总部正式向媒体展示了他们的第三代5G解决方案——骁龙X60调制解调器及射频系统。骁龙X60采用全球首个5纳米制程5G基带芯片，功耗更低、性能也更强，可以实现最高7.5Gbps的下行速度...
+ ## [返工前后，AOC智能会议平板带来高效远程办公体验!](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=U4NpAATveKSMMKrJH2fvIwINJ2docrEE5NBGEVe*eJH3nXwGfcRQ35jWiII9x2OhoFMtD7JSXh4mjrlG2rnXG-2QkOZ65C4*fwxg6JJ*ksH73aTmhk83P3OOLKvcRGjO&new=1)
+ > 愈发严峻的疫情时期，在家办公成企业保障运营效率的必要手段。“云上班”的日子里，如何确保工作效率，如何在人员非集中的情况下实现在线协作？部分企业人员也已陆续复工，如何在非常时期实现安全办公，快速高效...
+ ## [2020会是Apollo元年吗?疫情下关于百度财报的思考](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=B5Rl9Zot4Ow*-ZD3Hl4ahLV9QyTARa-SahgxhAvRXWnf5IokSHp3zP6QO1QuWUzfMIgnXR8MfP2ybrI9tpPUmhFWWgLr-BXV4ePL5jesmwg3a*1HrEP79QtF3VpFNwVY&new=1)
+ > 今日，百度对外发布了截至2019年12月31日的Q4季度财报，据财报显示，Q4季度百度实现营收达289亿元人民币，归属百度的净利润达到92亿元人民币 (非美国通用会计准则)，同比增长95%。2019年年营收为1074亿元人民币...
+ ## [招聘丨加入Qualcomm Modem团队，做最酷的工作!](http://mp.weixin.qq.com/s?src=11&timestamp=1582965018&ver=2187&signature=0MGxMBNp1JVRnqBLhHMqOc9-fTQji-JP457wicZUvXCxSeaSVb5eEOp6VSalixdqfbUdKV3WwSrlNraIYOVepQ9P5wbTQHOT2jxCUqa5nIaUS69Vp9HPtCVbyKlKdbkN&new=1)
  > 移动互联时代，连接已然是移动性的核心，关乎我们每个人。5G正在全球快速普及，助力全球5G部署，Qualcomm一直在路上。通过提供骁龙5G调制解调器及射频系统，我们能够支持OEM厂商快速开发先进的5G终端。我们最新...
 # IT 技术 
  ## [搞懂这些Redis知识点，吊打面试官！](http://stor.51cto.com/art/202002/611544.htm)
@@ -35,48 +53,56 @@ categories: IT NEWS
  > 浙江10万只鸭子出征巴基斯坦灭蝗？未来我们或将用物联网技术解决生态环境危机
  ## [网络安全：这十招可帮助你的网络远离黑客](http://netsecurity.51cto.com/art/202002/611388.htm)
  > 网络安全：这十招可帮助你的网络远离黑客
- ## [为什么企业都需要虚拟化？向SD-WAN过渡有哪些挑战？](http://network.51cto.com/art/202002/611551.htm)
- > 虚拟化集中了整个管理，并可以帮助您理想地利用可访问的资源。以下是虚拟化业务的几个原因。
- ## [5种方式 让人工智能确保敏感信息安全](http://netsecurity.51cto.com/art/202002/611550.htm)
- > 我们越是利用人工智能技术来提供安全防护，就越有可能与高水准的黑客进行作战。下面是利用AI技术保护数据安
- ## [FBI透露，近六年里支付给勒索攻击者的赎金超过1.4亿美金](http://netsecurity.51cto.com/art/202002/611549.htm)
- > 通过对收集到的勒索软件、比特币钱包和赎金记录的分析，FBI透露称，在过去6年的时间里受害者向勒索软件攻击
- ## [物联网的四大定位技术](http://iot.51cto.com/art/202002/611548.htm)
- > 根据物联网的特征，结合信息科学的观点，围绕信息的流动过程，可以归纳出物联网处理信息的功能。
- ## [物联网在暖通空调中的作用](http://iot.51cto.com/art/202002/611547.htm)
- > 暖通空调行业和物联网的融合提供了卓越的以客户为中心的服务，使远程设备控制成为第一步。进一步的发展将导
- ## [智能工厂面临的5大挑战以及应对之道](http://iot.51cto.com/art/202002/611546.htm)
- > 我们已经知道，边缘化的AI和IoT是加快工厂转型的关键，但是，如何催化这些技术的更快速采用并避免飞行员炼
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
- > 
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [Linux系统编程——基础命令总结](https://blog.csdn.net/asialee_bird/article/details/98772584)
- > 
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [关于增量学习的一点总结思考](https://blog.csdn.net/shinian1987/article/details/102983510)
- > 关于增量学习的一点总结思考
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [【2020 Java基础快速学习路线】写了很久，这是一份最适合普通大众、非科班的路线](https://blog.csdn.net/qing_gee/article/details/104273480)
- > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [跨表查询经常有，何为跨表更新？](https://blog.csdn.net/yusimiao/article/details/104152026)
- > 跨表查询经常有，何为跨表更新？
- ## [20道你必须要背会的微服务面试题，面试一定会被问到](https://blog.csdn.net/weixin_43570367/article/details/103809848)
- > 
+ ## [写给互联网大厂员工的真心话：2020年，别瞎折腾！](http://news.51cto.com/art/202002/611567.htm)
+ > 在过去的两年中，对于身边还在大厂工作的朋友，倪叔给出的工作建议都是:能不出来就尽量不要出来，在整个行
+ ## [手机线下店恢复营业两星期，关于销量他只说了这四个字](http://mobile.51cto.com/news-611565.htm)
+ > 进入2月下旬以来，各手机大厂的老总们奋勇上线、频频站台，直播平台、微博、抖音、快手、朋友圈火力全开。
+ ## [《代码整洁之道》：5大基本要点](http://developer.51cto.com/art/202002/611566.htm)
+ > 常常有小伙伴推荐罗伯特・C・马丁的《代码整洁之道(Clean Code)》。今天我们就来了解一下这本书，它值不值
+ ## [iPhone需不需要清后台？这本来就不该有争议](http://mobile.51cto.com/news-611564.htm)
+ > 几年前，网络上关于iPhone为什么比安卓机流畅的话题几乎成了日经贴。具体原因，除了底层代码编译机制不同外
+ ## [企业数据安全如何做 专家给你5条建议](http://bigdata.51cto.com/art/202002/611562.htm)
+ > 近年来，企业由于自身的安全防护机制不严谨，引发的数据安全事件频发。抛开事件本身的人为因素不谈，如何从
+ ## [冠状病毒下的全球经济，2020年会是转折点么？](http://zhuanlan.51cto.com/art/202002/611563.htm)
+ > 在冠状病毒爆发期间，中国不得不与外界隔离起来，上海作为中国经济活动的命脉，一场罕见的经济冬眠正在从上
+ ## [远程办公秘籍：企业微信的“硬核”功能，你Get了吗？](http://mobile.51cto.com/app-show-611561.htm)
+ > 你在抱怨，为何高效率的沟通如此之难?一边是疫情防控，一边是复工复产，如何做到鱼和熊掌兼得，不少企业选
+ ## [K8S集群入门：运行一个应用程序究竟需要多少集群？](http://developer.51cto.com/art/202002/611559.htm)
+ > 如果你使用Kubernetes作为应用程序的操作平台，那么你应该会遇到一些有关使用集群的方式的基本问题。本文将
+ ## [仅需60秒，使用k3s创建一个多节点K8S集群！](http://cloud.51cto.com/art/202002/611558.htm)
+ > 最近，我一直在Kubernetes上进行各种测试和部署。因此，我不得不一次又一次创建和销毁Kubernetes集群，有的
+ ## [DevOps已死, NoOps长存](http://os.51cto.com/art/202002/611557.htm)
+ > 时下的IT趋势中，DevOps 正是一个热语。它起源于几年前SPA (单页面应用) 的前端应用.我认为常态的IT技术适
+ ## [围观各大企业如何活用人工智能，并运用实践？](https://blog.csdn.net/duxinshuxiaobian/article/details/104553922)
+ > 围观各大企业如何活用人工智能，并运用实践？
+ ## [转行Java能学会吗？零基础学习Java的学习路线](https://blog.csdn.net/qfyangsheng/article/details/104559930)
+ > 转行Java能学会吗？零基础学习Java的学习路线
+ ## [计算机组成原理笔记](https://blog.csdn.net/weixin_43958728/article/details/104535860)
+ > 计算机组成原理笔记
+ ## [网络协议TCp、Udp介绍](https://blog.csdn.net/qq_27419187/article/details/104558982)
+ > 网络协议TCp、Udp介绍
+ ## [学习Linux运维的个人笔记：安装Centos7（二）](https://blog.csdn.net/weixin_44903608/article/details/104556634)
+ > 学习Linux运维的个人笔记：安装Centos7（二）
+ ## [微信小程序短视频去水印解析](https://blog.csdn.net/jx_521/article/details/94457443)
+ > 微信小程序短视频去水印解析
+ ## [终于解决win10系统任务栏右下角网络标志不见的问题](https://blog.csdn.net/qq_32107283/article/details/104559870)
+ > 终于解决win10系统任务栏右下角网络标志不见的问题
+ ## [7 页面静态化](https://blog.csdn.net/A1342772/article/details/104557993)
+ > 7 页面静态化
+ ## [Linux 入门基础——常用命令（二）](https://blog.csdn.net/weixin_43275558/article/details/104551689)
+ > Linux 入门基础——常用命令（二）
+ ## [I2C总线详解](https://blog.csdn.net/u010067603/article/details/104562952)
+ > I2C总线详解
+ ## [动手写操作系统10----内存管理实现](https://blog.csdn.net/u014106644/article/details/104444678)
+ > 动手写操作系统10----内存管理实现
+ ## [python常用模块（json,hashlib,base64）](https://blog.csdn.net/qq_44907926/article/details/104561226)
+ > python常用模块（json,hashlib,base64）
+ ## [C++和C语言面试问题（持续更新）](https://blog.csdn.net/qq_38173631/article/details/104558494)
+ > C++和C语言面试问题（持续更新）
+ ## [刘忠雨 深入浅出图神经网络 GCN实战代码](https://blog.csdn.net/qq_32768743/article/details/104564330)
+ > 刘忠雨 深入浅出图神经网络 GCN实战代码
+ ## [数据结构知识点](https://blog.csdn.net/weixin_43790779/article/details/104552455)
+ > 数据结构知识点
  ## [AI持续赋能，搜狗S1会给录音笔行业带来哪些新变化？](https://blog.csdn.net/csdnnews/article/details/104568275)
  > 作者 | 持续赋能的出品 | CSDN（ID：CSDNnews）2月26日，在以“同舟共记”为主题的“2020搜狗AI录音笔新品线上发布会”上，搜狗重磅推出S1、E1、S1故宫宫廷联名款...
  ## [高通发布 5G 基带芯片 X60：5nm 制程，2021 年上市](https://blog.csdn.net/csdnnews/article/details/104558253)
@@ -84,36 +110,36 @@ categories: IT NEWS
  ## [再获国际顶级荣誉，平头哥首席科学家谢源荣获2020年度IEEE CS技术成就奖](https://blog.csdn.net/csdnnews/article/details/104552341)
  > 2月28日，国际电气电子工程师学会计算机协会（IEEE CS）公布了2020年度技术成就奖（IEEE CS Technical Achievement Award）名单，阿里巴巴达摩院高级研究员、平头哥首席科学家谢源获得该奖项，这是其当选IEEE、AAAS、ACM三大国际顶级学会的会士(Fello.
 # 人工智能 
- ## [android 常见面试题（二）](https://blog.csdn.net/wk_beicai/article/details/101197583)
- > android 常见面试题（二）
- ## [Android小项目——社交类app（低仿微信）](https://blog.csdn.net/yy2017220302028/article/details/100568254)
- > Android小项目——社交类app（低仿微信）
- ## [手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费](https://blog.csdn.net/ccyhq/article/details/100545145)
- > 手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费
- ## [无需越狱iphone 微信双开分身免费获取方法](https://blog.csdn.net/wik_123/article/details/100914872)
- > 无需越狱iphone 微信双开分身免费获取方法
- ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
- > 完美解决：Project needs to be converted to androidx.* dependencies
- ## [android studio报错Error: Gradle project sync failed. Please fix your project and try again.](https://blog.csdn.net/qq_36721220/article/details/100769359)
- > android studio报错Error: Gradle project sync failed. Please fix your project and try again.
- ## [APP调用第三方(微信)登录（最详细的实现流程）](https://blog.csdn.net/qq_34817440/article/details/100654042)
- > APP调用第三方(微信)登录（最详细的实现流程）
- ## [解决WH1000XM3连接电脑无法使用麦克风问题](https://blog.csdn.net/weixin_37993251/article/details/100627133)
- > 解决WH1000XM3连接电脑无法使用麦克风问题
- ## [Win10连接Bose QC30蓝牙耳机  已配对但连接不成功](https://blog.csdn.net/yl_best/article/details/100038040)
- > Win10连接Bose QC30蓝牙耳机  已配对但连接不成功
- ## [电脑录屏没有声音该怎么办](https://blog.csdn.net/doublerich/article/details/100739262)
- > 电脑录屏没有声音该怎么办
- ## [StartService和stopService播放音乐](https://blog.csdn.net/qq_45393395/article/details/100546229)
- > StartService和stopService播放音乐
- ## [app稳定性、遍历工具](https://blog.csdn.net/qq_38204134/article/details/90058971)
- > app稳定性、遍历工具
- ## [adb工具下载及配置使用](https://blog.csdn.net/u013925378/article/details/100891207)
- > adb工具下载及配置使用
- ## [ActivityRecord、TaskRecord、ActivityStack、ActivityDisplay、ActivityStackSupervisor到底是干嘛的？](https://blog.csdn.net/jiejingguo/article/details/100188576)
- > ActivityRecord、TaskRecord、ActivityStack、ActivityDisplay、ActivityStackSupervisor到底是干嘛的？
- ## [Google WebRtc Android 使用详解(包括客户端和服务端代码)](https://blog.csdn.net/yin13753884368/article/details/100820613)
- > Google WebRtc Android 使用详解(包括客户端和服务端代码)
+ ## [【mysql知识点整理】 --- mysql索引底层数据结构](https://blog.csdn.net/nrsc272420199/article/details/104511925)
+ > 
+ ## [Mysql5.7安装](https://blog.csdn.net/weixin_44000328/article/details/104277852)
+ > Mysql5.7安装
+ ## [](https://blog.csdn.net/horses/article/details/104451843)
+ > 
+ ## [MySQL子查询](https://blog.csdn.net/qq_37857921/article/details/104557870)
+ > MySQL子查询
+ ## [数据库知识点总结](https://blog.csdn.net/AAAhxz/article/details/104537403)
+ > 数据库知识点总结
+ ## [【数据结构】二叉树之堆](https://blog.csdn.net/qq_41286373/article/details/104531519)
+ > 【数据结构】二叉树之堆
+ ## [MySQL 数据库的提速器-写缓存（Change Buffer）](https://blog.csdn.net/z694644032/article/details/104532860)
+ > MySQL 数据库的提速器-写缓存（Change Buffer）
+ ## [我以为我对数据库索引十分了解，直到我遇到了阿里面试官。](https://blog.csdn.net/qq_35190492/article/details/104346265)
+ > 
+ ## [数据库原理的基本概念](https://blog.csdn.net/weixin_44664131/article/details/104511789)
+ > 数据库原理的基本概念
+ ## [数据库的一些基本概念加个人理解](https://blog.csdn.net/qq_45265330/article/details/104536366)
+ > 数据库的一些基本概念加个人理解
+ ## [MySQL基础学习1](https://blog.csdn.net/lolly1023/article/details/104555359)
+ > MySQL基础学习1
+ ## [MySQL 命令基本操作 (持续更新)](https://blog.csdn.net/qq_35699073/article/details/104542993)
+ > MySQL 命令基本操作 (持续更新)
+ ## [开发中你不得不知的一些英文缩写（专业术语）](https://blog.csdn.net/weixin_39309402/article/details/104560405)
+ > 开发中你不得不知的一些英文缩写（专业术语）
+ ## [Mysql下载安装（maven配置）](https://blog.csdn.net/zyzy123321/article/details/104556790)
+ > Mysql下载安装（maven配置）
+ ## [为什么我不建议在C中用下划线_开头来表示私有字段](https://blog.csdn.net/qq_37925422/article/details/104547879)
+ > 为什么我不建议在C中用下划线_开头来表示私有字段
 # PM 
  ## [知乎分析报告：用知识连接社区](http://www.woshipm.com/evaluating/3445883.html)
  > 通过对同领域优秀产品的学习，能够帮助我们更高效、更明确地推进产品模式与设计。于是笔者在业务方向社区化后，选择了知乎作为分析对象，并试图从中找到学习之处。最...
@@ -129,17 +155,5 @@ categories: IT NEWS
  > 企业要想做好视频类营销，到底需要踩准哪些点呢？本文为大家介绍了六大要点，希望对你有所启发。疯狂的直播带货数据2017年，主播薇娅抓住了淘宝直播的新风口，成为第...
  ## [善用KANO模型，做需求分类与评估优先级](http://www.woshipm.com/pd/3442791.html)
  > 产品设计过程中，各方都会提出对应的需求，那么产品经理又该如何抉择，对需求优先级进行排序呢？笔者认为使用KANO模型会是不错的办法。在项目中，设计需求从四面八方...
- ## [“会员体系”核心价值与设计方法](http://www.chanpin100.com/article/110841)
- > “会员体系”作为提升用户活跃，提高单个用户的生命周期价值的有效方式，已经被越来越多的产品所重视。产品建立”会员体系“的核心价值和如何建立”会员体系“是需要设计者思考的重要问题。这篇文章介绍了作者自身对于这两个问题的思考和观点。
- ## [如何通过裂变营销低成本的获取流量？](http://www.chanpin100.com/article/110838)
- > 随着互联网行业的不断发展，互联网的人口红利已经消失殆尽，流量的获取成本越来越高，如何以最低的成本获取流量，成为了众多企业最头疼的问题。裂变营销是一种低成本、高精准的获客方式，跟传统的App推广方式相比，这种方式更加强调分享，通过让老用户（或者潜在用户）的分享行为不断吸引新用户，扩大用户基础，增强品牌
- ## [B端产品经理需要具备的能力](http://www.chanpin100.com/article/110836)
- > 做好B端产品设计，哪些能力是需要建立的！
- ## [读书记录之《产品之旅：产品经理的方法论与实战进阶》](http://www.chanpin100.com/article/110835)
- > 《产品之旅：产品经理的方法论与实战进阶》是一本很适合产品人看的书，它详细的介绍了产品经理的工作和部分理念。前半部分重点对需求和项目以及产品入门进行讲解，可以细看。对比日常工作，给了自己很好对的反省和复盘。
- ## [web前端知识框架很难？用这个思维导图试试！](http://www.chanpin100.com/article/110834)
- > 前端所需掌握技术多且杂，需要投入一定的精力在上面进行学习。
- ## [航空类产品竞品分析（移动端篇）](http://www.chanpin100.com/article/110833)
- > 航空类产品竞品分析（移动端篇）--重新投稿。
 
     
