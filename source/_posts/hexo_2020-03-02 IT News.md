@@ -1,10 +1,23 @@
 ---
 title: 2020-03-02 IT News
 copyright: true
-date: 2020-03-02 10:01:16
+date: 2020-03-02 12:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2020年3月2日 星期一</b></summary><div class="news-list-content"><p>1.&#24494;&#21338;&#20877;&#27425;&#21457;&#21147;&#30701;&#35270;&#39057;&#65292;&#25512;&#20986;&#26032;&#20135;&#21697;&#8220;&#23567;&#35270;&#39057;&#21512;&#38598;&#27969;&#8221;</p>
+<p>2.&#24494;&#20449;&#23567;&#31243;&#24207;&#30452;&#25773;&#27491;&#24335;&#24320;&#21551;&#20844;&#27979;&#65292;&#21830;&#23478;&#21487;&#23454;&#29616;&#32447;&#19978;&#32463;&#33829;&#38381;&#29615;</p>
+<p>3.&#28246;&#21335;&#30465;&#20154;&#31038;&#21381;&#27491;&#24335;&#19978;&#32447;&#8220;&#28248;&#23601;&#19994;&#8221;&#24494;&#20449;&#23567;&#31243;&#24207;&#65292;&#32473;&#21153;&#24037;&#20154;&#21592;&#25645;&#24314;&#19968;&#31449;&#24335;&#27714;&#32844;&#24179;&#21488;</p>
+<p>4.&#28120;&#23453;&#25512;&#20813;&#36153;&#8220;0&#36134;&#26399;&#8221;&#26381;&#21153;&#65306;&#32593;&#21830;&#38134;&#34892;&#23558;&#20026;&#21830;&#23478;&#22443;&#36164;&#36229;500&#20159;</p>
+<p>5.&#23383;&#33410;&#36339;&#21160;&#25512;&#20986;&#8220;&#39134;&#20070;&#20250;&#35758;&#8221;&#29420;&#31435;App&#65292;&#25903;&#25345;&#26368;&#22810;100&#26041;&#21516;&#26102;&#22312;&#32447;</p>
+<p>6.&#20132;&#36890;&#36816;&#36755;&#37096;&#65306;&#20840;&#38754;&#26242;&#20572;&#31163;&#27721;&#12289;&#31163;&#37122;&#12289;&#36827;&#20986;&#20140;&#36328;&#22478;&#32593;&#32422;&#36710;&#12289;&#39034;&#39118;&#36710;&#19994;&#21153;</p>
+<p>7.&#21326;&#20026;&#25628;&#32034;App&#28023;&#22806;&#27979;&#35797;&#19978;&#32447;&#65306;&#38656;HMS&#26381;&#21153;&#65292;&#26377;&#26395;&#30331;&#38470;AppGallery</p>
+<p>8.&#32593;&#20449;&#21150;&#36817;&#26399;&#21457;&#24067;&#12298;&#32593;&#32476;&#20449;&#24687;&#20869;&#23481;&#29983;&#24577;&#27835;&#29702;&#35268;&#23450;&#12299;&#65306;&#31105;&#27490;&#32593;&#32476;&#26292;&#21147;&#12289;&#20154;&#32905;&#25628;&#32034;&#12289;&#27969;&#37327;&#36896;&#20551;&#31561;&#34892;&#20026;</p>
+<p>9.&#30005;&#26799;&#29289;&#32852;&#32593;&#26381;&#21153;&#21830;&#12300;&#26032;&#20877;&#28789;&#31185;&#25216;&#12301;&#33719;C++&#36718;5&#20159;&#20803;&#34701;&#36164;</p>
+<p>10.&#20108;&#25163;&#22882;&#20360;&#21697;&#30452;&#25773;&#30005;&#21830;&#28192;&#36947;&#21697;&#29260;&#12300;&#22915;&#40060;&#12301;&#23436;&#25104;&#25968;&#21315;&#19975;&#32654;&#20803;A&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
 <details><summary><b>【泡面小镇早报】微信全面封禁字节跳动旗下办公产品飞书</b></summary><div class="news-list-content"><p>&#27873;&#38754;&#22836;&#26465;</p>
 <p>&#24494;&#20449;&#20840;&#38754;&#23553;&#31105;&#23383;&#33410;&#36339;&#21160;&#26071;&#19979;&#21150;&#20844;&#20135;&#21697;&#39134;&#20070; &#21253;&#25324;&#22495;&#21517;&#21644;API</p>
 <p>&#23383;&#33410;&#36339;&#21160;&#26071;&#19979;&#21150;&#20844;&#22871;&#20214;&#39134;&#20070;&#21457;&#24067;&#23448;&#26041;&#20844;&#21578;&#31216;&#65292;&#39134;&#20070;&#30456;&#20851;&#22495;&#21517;&#26080;&#25925;&#34987;&#24494;&#20449;&#20840;&#38754;&#23553;&#31105;&#65292;&#24182;&#19988;&#34987;&#21333;&#26041;&#38754;&#20851;&#38381;&#24494;&#20449;&#20998;&#20139;API&#25509;&#21475;&#12290;&#30456;&#20851;&#22495;&#21517;&#38142;&#25509;&#22312;&#24494;&#20449;&#20869;&#22343;&#26080;&#27861;&#25171;&#24320;&#65292;&#26174;&#31034;&#8220;&#22914;&#38656;&#27983;&#35272;&#65292;&#35831;&#38271;&#25353;&#32593;&#22336;&#22797;&#21046;&#21518;&#20351;&#29992;&#27983;&#35272;&#22120;&#35775;&#38382;&#8221;&#65292;&#32780;&#22312;&#39134;&#20070;&#20869;&#20063;&#26080;&#27861;&#30452;&#25509;&#36339;&#36716;&#24494;&#20449;&#20998;&#20139;&#65292;&#26174;&#31034;&#8220;&#26410;&#33719;&#24471;&#20998;&#20139;&#26435;&#38480;&#8221;&#12290;&#22312;&#27809;&#26377;&#20219;&#20309;&#36890;&#30693;&#30340;&#24773;&#20917;&#19979;&#65292;&#24494;&#20449;&#24320;&#25918;&#24179;&#21488;&#30340;API&#25509;&#21475;&#20063;&#21521;&#39134;&#20070;&#20851;&#38381;&#12290;&#22312;&#39134;&#20070;&#21644;&#39134;&#20070;&#20250;&#35758;App&#20869;&#65292;&#26080;&#27861;&#30452;&#25509;&#36339;&#36716;&#20998;&#20139;&#20108;&#32500;&#30721;&#21517;&#29255;&#12289;&#20250;&#35758;&#38142;&#25509;&#31561;&#20869;&#23481;&#21040;&#24494;&#20449;&#65292;&#26174;&#31034;&#8220;&#30001;&#20110;&#24403;&#21069;&#20998;&#20139;&#30340;&#24212;&#29992;&#26410;&#33719;&#24471;&#20998;&#20139;&#26435;&#38480;&#8221;&#12290;</p>
@@ -69,83 +82,87 @@ SpaceX&#26143;&#38469;&#39134;&#33337;SN1&#21407;&#22411;&#21457;&#29983;&#29190
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [终于证实了，手机App正在偷听你说话](http://mp.weixin.qq.com/s?src=11&timestamp=1583112631&ver=2191&signature=v22NGkm0fsljQ2u7-LjgvwPzTtPaK*uZUDcncIDLe8hAd*-1HYGs-hCg85cfrVIIaawyY9iNDR8qhUceVllc4papBeC423f0ua412-ZKEQ34JVu2kzJ04vjuB-qccbnL&new=1)
- > 智能手机与我们相伴那么久，它的一些零部件，我们都熟悉了。屏幕、摄像头、麦克风等等，基本能如数家珍。伴随着对智能机的了解，一些担忧也浮出水面。对于摄像头、麦克风，我们最常担心的问题，就是隐私泄露。想...
- ## [\[C114周报\]工信部调整网间结算标准；联通年内5G手机销售目标6000万台；光通信盛会OFC 2020遇危机](http://mp.weixin.qq.com/s?src=11&timestamp=1583112631&ver=2191&signature=n3mHPEcZ-crozz7H14zsLjrhWjRFdTjcc3fRqPlwu1Q2WJv5CTGKVvycok6GDyRpTlQwgCwvLbrSjE7uEMnoIha2a3keXTZq7bniRkHEnvJ9ZHi0u65jyJIyHYiLn6dk&new=1)
+ ## [\[C114周报\]工信部调整网间结算标准；联通年内5G手机销售目标6000万台；光通信盛会OFC 2020遇危机](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=n3mHPEcZ-crozz7H14zsLjrhWjRFdTjcc3fRqPlwu1RH6ao8-3DZuJP6phv5N8hFf6yl3Y60vOZW-jN9UkTpgWpeEoN9f2IC9bnvZQfchDsDsT4yXrVks0BrIUPN6rry&new=1)
  > 周报WEEKLY本周热点有工信部调整网间结算标准；联通年内5G手机销售目标6000万台；光通信盛会OFC 2020遇危机• 第082期 •工信部调整网间结算标准2月26日工业和信息化部发布了一份关于调整互联网骨干网网间结算政...
- ## [直击抗疫前线|达闼科技：5G云端机器人全面发力，疫情下的“奇兵”](http://mp.weixin.qq.com/s?src=11&timestamp=1583112631&ver=2191&signature=A9fk0OfAKj1F5Gs90aQzpwA56NBxVru2M6mGFItPsnmomwATzuIHK301MBHaTmXj*scX1VPM3*GsibyzSlvHZ2aKs*j2SfWEpFq-M6ZU1batdvRnZg-AbEy67mlWYIKg&new=1)
- > 导读：近几周我们连续发布了多篇机器人技术抗疫方案库推文，受到了业内的关注，而在本周我们将继续深入探索，技术如何在前线发挥作用。为此我们将开启抗疫方案企业采访计划，挖掘前线抗疫核心需求，探索技术抗疫...
- ## [全国首张宽带电视牌照落地 广电系能否抢占5G风口](http://mp.weixin.qq.com/s?src=11&timestamp=1583112631&ver=2191&signature=39w0SIV52Gcd8JbLxHi-vaT9i-yBGRnvA9n8bVQP5XF9crB-R7-JEFlJ*ywBXwBpIL-k*E8Ip8iM1fUrdjg*RTYH7CTDK0aQ*ElhqxoEER1LEFSa3oSN6ppl82513g1b&new=1)
+ ## [公网对讲机是什么?工作原理是怎么样的](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=OLjAcFGV3ZNxtXvyrTMurztecoQxI4wTbYbUJtLvx9bx4D2EAV8fttGWq6mNMgef44K9omVF6P9lv3pzy7kvcKcOMStDUzn5T90VmTaXZ0L00K45E0syH-HnW852xkF7&new=1)
+ > 所谓的插卡对讲机就是公网对讲机，或者叫全国对讲机，插卡对讲机是基于通信公司的基站平台衍生出的副产品。基于基站信道时隙空闲传输语音信号，其原理和微信极为相似，但是微信有个弊端就是对方说话不能马上接听...
+ ## [知识战“疫”|董明珠、陈东升推荐，未来十年三个核心增长本质是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=ow5Qpg4775oMPldgeQ4UrZTwIu8uzuF6xy8wED5cWPqZTMHCvI0z8BHaJbnD28MQjvpHNVjD4nrqLu-nxvZATjb*qfISIKQF6Gvcyk54uZmdW*xjRQx1svYTliEqvw8i&new=1)
+ > 在这场突如其来的危机背后，商业竞争的逻辑已经悄然改变。编辑 | 刘梦羽头图制作 | 王超 3月的第一天，“华为杀入车机，鸿蒙大军将至”的一篇文章引发了关注。不过，华为进军汽车行业已经不是什么新闻。2019年4...
+ ## [全国首张宽带电视牌照落地 广电系能否抢占5G风口](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=39w0SIV52Gcd8JbLxHi-vaT9i-yBGRnvA9n8bVQP5XGwSt1ljZXe7X3asqrv1WRCUiCVbpsgVj1kZ29E6eb16JeQtecAdeJlRPlRKkIk2OP38wz6kjeIkJ4pwIsPyctc&new=1)
  > 广电宽带电视最大的特色是使用5G移动网络的接入方式，使用户既能在电视机终端，又能在新媒体终端收看宽带电视。近日，湖北广电董事曾柏林在投资者交流会上透露，有关部门与中国广电早前对各省进行考察评估，最终...
- ## [不限速网盘，轻松跑满你家宽带](http://mp.weixin.qq.com/s?src=11&timestamp=1583112631&ver=2191&signature=p2C9LEYwk0GAJJx0PHfNmehud6JdzaOKC1g4EZo0Lrvq59JXBEZjSbubCjBOjg3j0kE-qJKz-OhMlTZqr*xtsuXYtKo9s0aAu57EfqsUJ1Mk-Zttcvl7y1OWcYSk7wsF&new=1)
+ ## [终于证实了，手机App正在偷听你说话](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=v22NGkm0fsljQ2u7-LjgvwPzTtPaK*uZUDcncIDLe8iXewoNa82V1mKKt6PquG22Z2-yKbTsAYIgH8XlSsyGg2XnpG7zSBqGo*LMsjOfwSPj6xCe3iPsCx7lJ-ZcxtEg&new=1)
+ > 智能手机与我们相伴那么久，它的一些零部件，我们都熟悉了。屏幕、摄像头、麦克风等等，基本能如数家珍。伴随着对智能机的了解，一些担忧也浮出水面。对于摄像头、麦克风，我们最常担心的问题，就是隐私泄露。想...
+ ## [直击抗疫前线|达闼科技：5G云端机器人全面发力，疫情下的“奇兵”](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=A9fk0OfAKj1F5Gs90aQzpwA56NBxVru2M6mGFItPsnkOnr4SOYaOUZR2ver-b87udSr1AALqTxg3Rq3fZUq6lqMQcZzmRu1XNHt9P1TXKJdoIdwas*UWz44S6GjyL6Ls&new=1)
+ > 导读：近几周我们连续发布了多篇机器人技术抗疫方案库推文，受到了业内的关注，而在本周我们将继续深入探索，技术如何在前线发挥作用。为此我们将开启抗疫方案企业采访计划，挖掘前线抗疫核心需求，探索技术抗疫...
+ ## [不限速网盘，轻松跑满你家宽带](http://mp.weixin.qq.com/s?src=11&timestamp=1583121603&ver=2191&signature=p2C9LEYwk0GAJJx0PHfNmehud6JdzaOKC1g4EZo0LrvKwIZnhK0uJlsN9nQsqkT5FX6ZyZIwPhDmrOUEnT8hV5OlAWxQ*XSzGEdKT3j6PRZmJGTWklixPdCaAL2q0D8O&new=1)
  > 奶牛快传 是一款无需注册即可使用的大文件临时传输服务，未注册用户支持最大 2GB 文件，72小时保存时效，登录后无限文件大小，168小时保存时效。国内线路，速度飞快，最重要的是，不限速。@Appinn青小蛙非常喜欢...
 # IT 技术 
- ## [没说过这句“口头禅”，不配做程序员！](http://news.51cto.com/art/202003/611605.htm)
- > 没说过这句“口头禅”，不配做程序员！
- ## [精通那么多技术，为何还是写出一堆“屎山”？](http://developer.51cto.com/art/202003/611601.htm)
- > 精通那么多技术，为何还是写出一堆“屎山”？
  ## [机器视觉是工业4.0和物联网的关键技术](http://iot.51cto.com/art/202003/611529.htm)
  > 机器视觉是工业4.0和物联网的关键技术
+ ## [精通那么多技术，为何还是写出一堆“屎山”？](http://developer.51cto.com/art/202003/611601.htm)
+ > 精通那么多技术，为何还是写出一堆“屎山”？
  ## [设计微服务架构时应避免的五个错误](http://developer.51cto.com/art/202003/611468.htm)
  > 设计微服务架构时应避免的五个错误
+ ## [在阿里，新人如何快速上手项目管理？](http://news.51cto.com/art/202003/611615.htm)
+ > 在阿里，新人如何快速上手项目管理？
+ ## [如果新冠病毒是在亚美尼亚爆发会发生什么？程序员用Python进行模拟](http://zhuanlan.51cto.com/art/202003/611598.htm)
+ > 如果新冠病毒是在亚美尼亚爆发会发生什么？程序员用Python进行模拟
  ## [搞懂这些Redis知识点，吊打面试官！](http://stor.51cto.com/art/202002/611544.htm)
  > 搞懂这些Redis知识点，吊打面试官！
  ## [微盟十亿血泪教训：技术漏洞和管理问题是你欠不起的债](http://news.51cto.com/art/202002/611540.htm)
  > 微盟十亿血泪教训：技术漏洞和管理问题是你欠不起的债
  ## [一个Bug损失200亿！如何搭建业务异常检测系统？](http://ai.51cto.com/art/202002/611472.htm)
  > 一个Bug损失200亿！如何搭建业务异常检测系统？
- ## [连环画解析“单点登录”原理，保证你能看懂！](http://developer.51cto.com/art/202002/611473.htm)
- > 连环画解析“单点登录”原理，保证你能看懂！
- ## [大数据时代经济学研究的创新与变革](http://bigdata.51cto.com/art/202003/611608.htm)
- > 21世纪以来，随着信息技术快速发展，人们获取、存储、分析数据的能力不断增强，全球数据呈现爆发式增长、
- ## [职业抱负：首席信息官们为职业提升创造新途径](http://www.cioage.com/art/202003/611606.htm)
- > 首席信息官职位越来越被视为一个通向其他高级运营和管理岗位的垫脚石。那么，如今要晋升到最高管理层需要具
- ## [你家的无线路由器安全吗？](http://netsecurity.51cto.com/art/202003/611607.htm)
- > 要确保家中无线路由器尽可能的安全，其实只需要在使用无线路由器时，养成以下的好习惯，就可以很好地保护家
- ## [成功的企业架构师所具备的七个特征](http://news.51cto.com/art/202003/611603.htm)
- > 在数字化转型的时代，企业需要那些能够规划和构建具有前瞻性系统基础架构的人员。以下将介绍如何找到这些潜
- ## [四个优秀实践，引导你写出高质量JavaScript模块](http://developer.51cto.com/art/202003/611602.htm)
- > 使用 ES2015 模块，您可以将应用程序代码分成可重用的、封装的、专注于单一任务的模块。这很好，但是如何构
- ## [如何避免常见的物联网实施错误](http://iot.51cto.com/art/202003/611600.htm)
- > 在这篇文章中，我们将深入探讨一些最常见的物联网实施错误，以及如何确保这些错误不会在您的企业中发生。
- ## [免费开源软件的潜在安全风险](http://netsecurity.51cto.com/art/202003/611599.htm)
- > Linux基金会和哈佛大学创新科学实验室的研究人员进行了广泛调查和深入研究，得出了有关企业内常用的免费开
- ## [如果新冠病毒是在亚美尼亚爆发会发生什么？程序员用Python进行模拟](http://zhuanlan.51cto.com/art/202003/611598.htm)
- > 在这篇文章中，我们将讨论当流行病袭击一个城市时会发生什么，应该立即采取什么措施，以及这对城市规划、政
- ## [浅谈OWASP TOP10](http://netsecurity.51cto.com/art/202003/611597.htm)
- > 随着我们的软件变得愈加重要、复杂且相互关联，实现应用程序安全的难度也呈指数级增长。而现代软件开发过程
- ## [关于Python中的列表理解](http://developer.51cto.com/art/202003/611596.htm)
- > 列表理解通常在Python中用于编写单行语句，这些语句通过循环访问可迭代对象来创建新列表或字典。本文将首先
+ ## [微盟：数据已全面找回 准备1.5亿元赔付拨备金](http://netsecurity.51cto.com/art/202003/611629.htm)
+ > 3月1日晚间，微盟集团再次发布公告称，数据已经全部找回，将于3月3日上午9点恢复正式上线，同时也公布了详
+ ## [企业区块链应用程序的两个关键问题](http://blockchain.51cto.com/art/202003/611628.htm)
+ > 很多架构师在使用区块链技术之前需要考虑一些关键问题，而这些问题与数据隐私和区块链类型有关。
+ ## [面向未来的数据中心是什么样的?](http://server.51cto.com/Datacenter-611626.htm)
+ > 在全球范围内，最终用户和组织正在生成和使用前所未有的大量数据。但是，要了解全球范围内数据的增长速度以
+ ## [从脑机接口到量子计算：未来10年的十大科技趋势](http://news.51cto.com/art/202003/611627.htm)
+ > 近期，全球著名股权众筹与风险投资平台OurCrowd的合伙人Stav Erez和高级投资合伙人Eli Nir分享了他们关于未
+ ## [中国移动的5G规划目标已经明确](http://network.51cto.com/art/202003/611625.htm)
+ > 在2月28日的通信世界全媒体举办的“复工复产背景下，5G如何‘加速跑’”线上论坛中，中国移动研究院无线与
+ ## [一个运维的存在感：微盟36小时事件，我们该反思什么？_IT技术周刊第618期](http://news.51cto.com/art/202003/611624.htm)
+ > 技术资讯尽在IT技术周刊
+ ## [大数据将如何改变金融业](http://bigdata.51cto.com/art/202003/611622.htm)
+ > 在过去几年中，消费者数据的可访问性和价值有了实质性的增长。如今，几乎所有组织都在收集和分析来自客户的
+ ## [超越谷歌MobileNet！华为提出端侧神经网络架构GhostNet｜已开源](http://news.51cto.com/art/202003/611621.htm)
+ > 同样精度，速度和计算量均少于此前SOTA算法。这就是华为诺亚方舟实验室提出的新型端侧神经网络架构GhostNet
+ ## [远程办公真的和想象的一样吗？](http://biz.51cto.com/art/202003/611619.htm)
+ > 亿欧智库预测，2020年我国的远程办公市场规模有望达到448.5亿元，但远程办公人口渗透率还不足1%，此次疫情
+ ## [2月份Github上热门的开源项目](http://developer.51cto.com/art/202003/611616.htm)
+ > 2月份GitHub上最热门的开源项目排行已经出炉啦，一起来看看上榜详情。
+ ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
+ > 
+ ## [换个组被一键清零，大厂换组hard模式了解一下](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104194058)
+ > 换个组被一键清零，大厂换组hard模式了解一下
+ ## [自学系列 | 就谈兴趣！](https://blog.csdn.net/qq_36903042/article/details/103752660)
+ > 自学系列 | 就谈兴趣！
  ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
+ ## [【已解决】Redis连接——Could not connect to Redis at 127.0.0.1:6379: Connection refused](https://blog.csdn.net/qq_44543508/article/details/103595088)
+ > 【已解决】Redis连接——Could not connect to Redis at 127.0.0.1:6379: Connection refused
+ ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
+ > 
+ ## [大厂扎推开启春招，谷歌甚至放出了秋季实习岗位…](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104002320)
+ > 大厂扎推开启春招，谷歌甚至放出了秋季实习岗位…
+ ## [动画：面试官问我 JS「变量提升」我头皮发麻，最后把这篇动画甩给了他](https://blog.csdn.net/qq_36903042/article/details/103502696)
+ > 
+ ## [Netty堆外内存泄漏排查，这一篇全讲清楚了](https://blog.csdn.net/u014714618/article/details/103813736)
+ > 
  ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
  > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [Idea 中最常用的10款插件（提高开发效率），一定要学会使用！](https://blog.csdn.net/weixin_43570367/article/details/103978005)
+ ## [把自然语言文本转换为向量 | NLP基础](https://blog.csdn.net/YeJuliaLi/article/details/103516236)
+ > 把自然语言文本转换为向量 | NLP基础
+ ## [LintCode题解|翻转矩阵后的得分](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103701760)
+ > LintCode题解|翻转矩阵后的得分
+ ## [行为者网络理论（ANT，Actor Network Theory）：一切皆是映射](https://blog.csdn.net/universsky2015/article/details/103798098)
  > 
- ## [2019 年博客总结](https://blog.csdn.net/isea533/article/details/103791629)
- > 2019 年博客总结
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
- ## [Linux系统编程——基础命令总结](https://blog.csdn.net/asialee_bird/article/details/98772584)
- > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
  ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
  > Java学习的正确打开方式
- ## [【程序人生】程序员接私活常用平台汇总](https://blog.csdn.net/dengjin20104042056/article/details/103930275)
- > 【程序人生】程序员接私活常用平台汇总
- ## [我以为我对数据库索引十分了解，直到我遇到了阿里面试官。](https://blog.csdn.net/qq_35190492/article/details/104346265)
- > 
- ## [文档写作利器：Markdown](https://blog.csdn.net/xcbeyond/article/details/104303577)
- > 
+ ## [外国人眼里的李子柒难道不一样？ | Alfred数据室](https://blog.csdn.net/weixin_38753103/article/details/103625892)
+ > 外国人眼里的李子柒难道不一样？ | Alfred数据室
  ## [一机难求：折叠手机是未来趋势还是小众需求？](https://blog.csdn.net/csdnnews/article/details/104604044)
  > 作者 |张俊本文经授权转载自新浪科技（ID：techsina）“大家预测下，这次Mate Xs能炒到几万？”华为刚刚发布新一代折叠屏手机Mate Xs，数码爱好者们便在论坛里开始预测起...
  ## [来！喝杯可乐！让你秒懂 MVP 架构模式 | 原力计划](https://blog.csdn.net/csdnnews/article/details/104604045)
@@ -171,37 +188,51 @@ SpaceX&#26143;&#38469;&#39134;&#33337;SN1&#21407;&#22411;&#21457;&#29983;&#29190
  ## [Cloud 已死，本地部署万岁！](https://blog.csdn.net/csdnnews/article/details/104604340)
  > 计算在客户端/服务端模式和瘦客户机模型之间来回地摇摆，云（cloud）也会遭受同样的命运吗？作者 |Thomas Jardinet译者 |明明如月，责编 | 郭芮出品 | CSDN（...
 # 人工智能 
- ## [手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费](https://blog.csdn.net/ccyhq/article/details/100545145)
- > 手机LR软件：安卓版Lightroom cc4.4最新中文版-已解锁免费
- ## [无需越狱iphone 微信双开分身免费获取方法](https://blog.csdn.net/wik_123/article/details/100914872)
- > 无需越狱iphone 微信双开分身免费获取方法
- ## [解决WH1000XM3连接电脑无法使用麦克风问题](https://blog.csdn.net/weixin_37993251/article/details/100627133)
- > 解决WH1000XM3连接电脑无法使用麦克风问题
- ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
- > 完美解决：Project needs to be converted to androidx.* dependencies
- ## [电脑录屏没有声音该怎么办](https://blog.csdn.net/doublerich/article/details/100739262)
- > 电脑录屏没有声音该怎么办
- ## [APP调用第三方(微信)登录（最详细的实现流程）](https://blog.csdn.net/qq_34817440/article/details/100654042)
- > APP调用第三方(微信)登录（最详细的实现流程）
- ## [Win10连接Bose QC30蓝牙耳机  已配对但连接不成功](https://blog.csdn.net/yl_best/article/details/100038040)
- > Win10连接Bose QC30蓝牙耳机  已配对但连接不成功
- ## [adb工具下载及配置使用](https://blog.csdn.net/u013925378/article/details/100891207)
- > adb工具下载及配置使用
- ## [StartService和stopService播放音乐](https://blog.csdn.net/qq_45393395/article/details/100546229)
- > StartService和stopService播放音乐
- ## [app稳定性、遍历工具](https://blog.csdn.net/qq_38204134/article/details/90058971)
- > app稳定性、遍历工具
- ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
- > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
- ## [修改安卓系统应用,将自己的app变成系统应用](https://blog.csdn.net/u012930316/article/details/100740399)
- > 修改安卓系统应用,将自己的app变成系统应用
- ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
- > Android~adb卸载系统预装应用（亲测有效）
- ## [手机如何搞定网易云音乐的代理？实现VIP免费听歌！](https://blog.csdn.net/liliangpin/article/details/101044268)
- > 手机如何搞定网易云音乐的代理？实现VIP免费听歌！
- ## [PR视频剪辑中如何制作抖音上的竖屏且添加模糊的视频效果](https://blog.csdn.net/NeverGUM/article/details/100881914)
- > PR视频剪辑中如何制作抖音上的竖屏且添加模糊的视频效果
+ ## [各种数据接口介绍](https://blog.csdn.net/qq_32299437/article/details/104579019)
+ > 各种数据接口介绍
+ ## [2020-03-01](https://blog.csdn.net/Temperatureme/article/details/104593006)
+ > 2020-03-01
+ ## [分治算法](https://blog.csdn.net/qq_43239560/article/details/104587920)
+ > 分治算法
+ ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
+ > 130 个相见恨晚的超实用网站，一次性分享出来
+ ## [【LeetCode大厂笔试题】之变态指针！](https://blog.csdn.net/xiaopengX6/article/details/104579269)
+ > 【LeetCode大厂笔试题】之变态指针！
+ ## [大规模MIMO传输关键技术——下行链路预编码（1）](https://blog.csdn.net/weixin_43871127/article/details/104593325)
+ > 大规模MIMO传输关键技术——下行链路预编码（1）
+ ## [vc的byte图像数据与halcon图像数据互转](https://blog.csdn.net/qq_39479638/article/details/104586799)
+ > vc的byte图像数据与halcon图像数据互转
+ ## [2020寒假课程安排](https://blog.csdn.net/weixin_43568110/article/details/104594152)
+ > 2020寒假课程安排
+ ## [uni-app快速开发微信小程序、h5、和app](https://blog.csdn.net/weixin_38407447/article/details/104581310)
+ > uni-app快速开发微信小程序、h5、和app
+ ## [我来闲扯红外图像降噪技术（思绪乱飞）](https://blog.csdn.net/hahahahhahha/article/details/104585847)
+ > 我来闲扯红外图像降噪技术（思绪乱飞）
+ ## [EMWIN  计算器的简单功能实现](https://blog.csdn.net/sanla1/article/details/104595064)
+ > EMWIN  计算器的简单功能实现
+ ## [外设驱动库开发笔记1：AD56xx系列DAC驱动](https://blog.csdn.net/foxclever/article/details/104586554)
+ > 外设驱动库开发笔记1：AD56xx系列DAC驱动
+ ## [数据结构与算法之最大子序和](https://blog.csdn.net/Mr_Angier/article/details/104589403)
+ > 数据结构与算法之最大子序和
+ ## [V4d:4d Convolutional Neural Networks For Video-level Representation Learning](https://blog.csdn.net/Woolseyyy/article/details/104589595)
+ > V4d:4d Convolutional Neural Networks For Video-level Representation Learning
+ ## [qt 中widget/按钮等控件隐藏](https://blog.csdn.net/a15005784320/article/details/104587365)
+ > qt 中widget/按钮等控件隐藏
 # PM 
+ ## [疫情之下：2020年短视频的“危”与“机”](http://www.woshipm.com/it/3450748.html)
+ > 当前的疫情之下，平台流量快速增长，人们对疫情防护、资讯类短视频内容的需求高涨，从平台到内容创作者有机会收割了更多新增用户的机会。但由于外拍受限，也让不少内容...
+ ## [2020中国旅游的第二个变化：私域电商](http://www.woshipm.com/operate/3450722.html)
+ > 今天我们会发现，用户只有在预定旅游产品的时候，才会打开携程、飞猪或者想到线下门店。在消费决策形成之前的阶段，用户注意力被无限地分散了。那么，我们还如何去打造...
+ ## [跨境支付（四）：支付方式](http://www.woshipm.com/it/3448718.html)
+ > 前几篇跟大家探讨了关于跨境支付的概念，以及行业的整个情况，本文就跟大家来说说，跨境支付的支付方式。一、传统跨境支付的支付方式B2B跨境贸易中常采用的传统跨境...
+ ## [关于“决策”失误的一些思考](http://www.woshipm.com/zhichang/3449344.html)
+ > 正确的决策能力可以说是所有人都渴望拥有的能力了，因为极端的来说，如果能有预知未来的超能力，我们的人生就开挂了。常规来说我理解一个广义的“决策”包含以下环节：...
+ ## [线下餐饮转战外卖指南：深度解析佣金与流量](http://www.woshipm.com/it/3447827.html)
+ > 和实物电商平台的佣金相比，服务电商即外卖平台的佣金到底高不高？与房租、店租相比，外卖平台的佣金比例占据商户的成本几何？放眼世界，国外的外卖平台的佣金标准又如...
+ ## [探寻one piece的埋点之旅：初识埋点，二档技能开启](http://www.woshipm.com/data-analysis/3443438.html)
+ > 本篇文章主要介绍埋点的基本概念、操作流程，目的是能让大家对数据埋点有个基本的认识。一、引言动漫《海贼王》中，曾经拥有世界上一切的男人，海贼王哥尔·D·罗杰，...
+ ## [私域流量与会员制的异同分析](http://www.woshipm.com/it/3442274.html)
+ > 私域流量好像和“历史久远”的会员制有着不少相似之处？从两者定义上来说，私域流量的定义和会员制的理念几乎一致，都强调通过强化与用户之间的联系，来实现用户利益的最...
  ## [以税费为基础的线上风控审批模型概要](http://www.woshipm.com/pd/3444139.html)
  > 一个线上风控的审批模型总体分为四大部分：申请准入、审批、额度测算、贷后监测模型。本文主要简单阐述一下关于这个模型的内容，enjoy~一、模型总体设计模型总体分为...
  ## [运营课程 | 2020年，拥有这项能力的运营人，将被疯抢！！!](http://www.woshipm.com/online/3456169.html)
