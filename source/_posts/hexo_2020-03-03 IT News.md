@@ -1,7 +1,7 @@
 ---
 title: 2020-03-03 IT News
 copyright: true
-date: 2020-03-03 10:01:15
+date: 2020-03-03 12:02:05
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -84,16 +84,18 @@ HCM SaaS&#26381;&#21153;&#21830;&#8220;&#32943;&#32784;&#29634;&#33832;&#8221;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [收入增、利润涨：瑞士运营商Sunrise借5G实现业务快速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1583199004&ver=2193&signature=4yNv1BrAO5rgAsU38CmDaiy8tU9QJ9Tjtbs*Cu0rEb1FJ1ptNbD*GBZL60XTj6DbRHLrj3vu41wdUzZZa-6yPI0MQeZNzqI8SO922zXNdtf7*bzv-spgMWRaveGAYfqm&new=1)
- > 近日，瑞士电信运营商Sunrise公布了2019年，服务收入增长3.3%，利润增长3.9%。 因为Sunrise是欧洲最早规模商用5G的运营商之一，建成欧洲最大、最快的5G网络。所以，业界（尤其是投资者和欧洲运营商）非常关注5G...
- ## [越飞越高!吉利将于今年内发射卫星，](http://mp.weixin.qq.com/s?src=11&timestamp=1583199004&ver=2193&signature=tOIpx8LgFOjpvUQ4FMNipwp6*Od**Zrn1NR1dznOVEs2J5i3QlHX6hzixR4W7UvL2-8dE5hZZ0EB6W0qi2CrDvOr2hC*O2hhMYHofdVvGc7payA*ZidrM5jFo9lljZsb&new=1)
- > 据财联社2日消息，吉利科技集团下属公司浙江时空道宇科技有限公司目前已完成首发双星的定型研制，将于2020年发射入轨，进行技术和通信系统的验证。目前该公司正在进行涉及近40个职位、超100人的社会招聘。 浙江...
- ## [有没有能防爆的公网对讲机?](http://mp.weixin.qq.com/s?src=11&timestamp=1583199004&ver=2193&signature=XGW8PtflSzdlLU0S-h7RmJ5PBZJXbDu*99RnecasEXdpwW3mXjLORCxX*RWeKJDMHPHa5InhEtMedPT7alMxXxHaGf40rvCt6JUWRHdMdPVYM8GsTDYoRd5NfKkWqq2J&new=1)
+ ## [2020RSAC：关于安全 每个开发人员都需要知道这10件事](http://mp.weixin.qq.com/s?src=11&timestamp=1583208003&ver=2193&signature=CZYhve7Qowbv5kd9V9pWikl8VuOVoLAms-sA*fGMhwRDLXrMie6orWKryS73w4qQFt5d06cU5F5ue4BlXGAagTR*0VpWdm6vWfvfhoPHe5WPY9KzARrtUXkyy2hQOhY0&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月3日讯，在2020年RSAC大会召开期间，除了展览之外专家意见分享会成了RSA大会的又一大关注焦点，网安专家会基于自己多年经验和最新的研究给予参展厂...
+ ## [有没有能防爆的公网对讲机?](http://mp.weixin.qq.com/s?src=11&timestamp=1583208003&ver=2193&signature=XGW8PtflSzdlLU0S-h7RmJ5PBZJXbDu*99RnecasEXeB9d1vKULs6jbnfJKqgMKfn9qcmJRXdoSS3BQPeiEjMdKNXIDFALPEB62ZRr76uxEZc8xPm6aizXuFHQmzPlc-&new=1)
  > 随着国内公网对讲机市场的不断扩大，用户群体不断增多，防爆对讲机的使用范围逐渐加大，一些厂家也根据对讲机用户的需求逐渐生产所匹配的防爆对讲机。防爆公网对讲机具有一定的防爆能力，在正确使用的情况下，可...
- ## [技术抗疫|驰援武汉，易普森医院物流消毒机器人在武汉大学中南医院投入抗疫工作](http://mp.weixin.qq.com/s?src=11&timestamp=1583199004&ver=2193&signature=DSLqIjhg2j56PU1ThbBiYope*DR3hv28C1vgBl1HFBHWjsmC1vMvEKgJDzLidQwwO6DsUfQCgBEFtGxZsNbXEyLZFUiSoUBY0h85kXp6bZT3rDrDxfXvkSSzsUh8xTww&new=1)
- > 疫情发生以来，广大医护人员为使命逆行，铸就一道抗击病毒的安全线。在这个特殊时期，为了减轻医护人员工作压力，减少医患交差感染，医院物流消毒机器人走上了抗疫一线。1月30日，易普森收到中南医院的防护物资...
- ## [广电5G发力：“全国一网”股份公司将成立](http://mp.weixin.qq.com/s?src=11&timestamp=1583199004&ver=2193&signature=w4Kl0LRQIT8jiDZg7BxdvkI0l-dHtwNzeDDvCWVRC-ptkvGYOTi43Kyfh51HcCoAWNkbOQ-gvxIdGeNuR0XgcnyOYtt3Ci*VM7ixlk2RilA=&new=1)
+ ## [广电5G发力：“全国一网”股份公司将成立](http://mp.weixin.qq.com/s?src=11&timestamp=1583208003&ver=2193&signature=w4Kl0LRQIT8jiDZg7BxdvkI0l-dHtwNzeDDvCWVRC-pgmK96of2uoXAFda801wUorC0d1hu*BUJBJr88Ekj8CD5f19X0i-O6OxyWRXP*Iws=&new=1)
  > 经济观察网 记者 沈怡然 3月2日，国家广电总局召开贯彻落实《全国有线电视网络整合发展实施方案》（下称“”）电视电话会议，并提出将由中国广播电视网络有限公司（下称“中国广电”），联合省级网络...
+ ## [收入增、利润涨：瑞士运营商Sunrise借5G实现业务快速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1583208003&ver=2193&signature=4yNv1BrAO5rgAsU38CmDaiy8tU9QJ9Tjtbs*Cu0rEb1L22HGlNZa1nXH2wa8sucMvI3k*Rvb09CDo3DAA8SYUacl8wQSz3biylSlFsGQzB*aVVpSI4*xiD1ulzqwdwVk&new=1)
+ > 近日，瑞士电信运营商Sunrise公布了2019年，服务收入增长3.3%，利润增长3.9%。 因为Sunrise是欧洲最早规模商用5G的运营商之一，建成欧洲最大、最快的5G网络。所以，业界（尤其是投资者和欧洲运营商）非常关注5G...
+ ## [越飞越高!吉利将于今年内发射卫星，](http://mp.weixin.qq.com/s?src=11&timestamp=1583208003&ver=2193&signature=tOIpx8LgFOjpvUQ4FMNipwp6*Od**Zrn1NR1dznOVEutYmdGn5uDmjBk2ISSosk8X6kBXqkjBgIxWWuFIfn7tlwlDpuh*4*S09pKAQMa9r2pOUtf4t3HBlMD7h1ZKess&new=1)
+ > 据财联社2日消息，吉利科技集团下属公司浙江时空道宇科技有限公司目前已完成首发双星的定型研制，将于2020年发射入轨，进行技术和通信系统的验证。目前该公司正在进行涉及近40个职位、超100人的社会招聘。 浙江...
+ ## [技术抗疫|驰援武汉，易普森医院物流消毒机器人在武汉大学中南医院投入抗疫工作](http://mp.weixin.qq.com/s?src=11&timestamp=1583208003&ver=2193&signature=DSLqIjhg2j56PU1ThbBiYope*DR3hv28C1vgBl1HFBGntEhvDpgblxQ25GI7ocGUXd-1LsI66UUDJ51gkQSwoOI8pv5GIztgE8aRuexl9zzNkrQB*RkN3-2FUYzIoKAQ&new=1)
+ > 疫情发生以来，广大医护人员为使命逆行，铸就一道抗击病毒的安全线。在这个特殊时期，为了减轻医护人员工作压力，减少医患交差感染，医院物流消毒机器人走上了抗疫一线。1月30日，易普森收到中南医院的防护物资...
 # IT 技术 
  ## [开发API时需要关注的十三项指标](http://developer.51cto.com/art/202003/611471.htm)
  > 开发API时需要关注的十三项指标
@@ -101,36 +103,36 @@ HCM SaaS&#26381;&#21153;&#21830;&#8220;&#32943;&#32784;&#29634;&#33832;&#8221;&#
  > 糟糕，老板让我设计一个亿级用户秒杀系统！
  ## [如何创建无法登录进去的Linux用户？](http://os.51cto.com/art/202003/611470.htm)
  > 如何创建无法登录进去的Linux用户？
+ ## [“细腰”战事：技术架构的进化](http://developer.51cto.com/art/202003/611706.htm)
+ > “细腰”战事：技术架构的进化
+ ## [注意：网络罪犯又利用冠状病毒急情传播恶意软件！](http://netsecurity.51cto.com/art/202003/611712.htm)
+ > 注意：网络罪犯又利用冠状病毒急情传播恶意软件！
  ## [疫情期间，这家土生土长的农商行做了这些事](http://www.cioage.com/art/202003/611667.htm)
  > 疫情期间，这家土生土长的农商行做了这些事
  ## [机器视觉是工业4.0和物联网的关键技术](http://iot.51cto.com/art/202003/611529.htm)
  > 机器视觉是工业4.0和物联网的关键技术
  ## [精通那么多技术，为何还是写出一堆“屎山”？](http://developer.51cto.com/art/202003/611601.htm)
  > 精通那么多技术，为何还是写出一堆“屎山”？
- ## [设计微服务架构时应避免的五个错误](http://developer.51cto.com/art/202003/611468.htm)
- > 设计微服务架构时应避免的五个错误
- ## [搞懂这些Redis知识点，吊打面试官！](http://stor.51cto.com/art/202002/611544.htm)
- > 搞懂这些Redis知识点，吊打面试官！
- ## [HTTPS 的 7 次握手以及 9 倍时延](http://network.51cto.com/art/202003/611714.htm)
- > 这里的分析建立在特定版本的协议实现以及常见场景上，随着网络技术的发展，我们能够减少需要的网络通信次数
- ## [常见的软件漏洞以及如何避免这些问题](http://developer.51cto.com/art/202003/611713.htm)
- > 随着数据泄露的增加，创建和维护安全软件对于每个组织都至关重要。尽管并非所有攻击都可以预期或预防，但可
- ## [Python在计算内存时应该注意的问题？](http://developer.51cto.com/art/202003/611711.htm)
- > 我之前的一篇文章，带大家揭晓了 Python 在给内置对象分配内存时的 5 个奇怪而有趣的小秘密。文中使用了sys
- ## [图形数据库的3个主要用例](http://database.51cto.com/art/202003/611709.htm)
- > 在图形数据库中，任何数据点都可以连接到任何其他数据点，并且业务用户可以在任何时候建立连接，而无需数据
- ## [8种常见混合云用例的利弊](http://cloud.51cto.com/art/202003/611708.htm)
- > 缓解常见混合云挑战的方法之一是首先确定你的公司为什么需要它。下面让我们看看8种混合云用例的好处和挑战
- ## [移动设备ITSM服务如何助力员工、提高服务](http://network.51cto.com/art/202003/611707.htm)
- > IT服务管理（ITSM）是IT领导者做出简单、快速、有效和高效的决策所需的最基本的服务。如果IT无法提供基本服
- ## [物联网哪四大技术被应用于疫情中？](http://iot.51cto.com/art/202003/611705.htm)
- > 由于物联网具有利用感知设备获取各类信息，信息交换，与人工智能技术结合，使监测和监控可实现智能化等特征
- ## [“细腰”战事：技术架构的进化](http://developer.51cto.com/art/202003/611706.htm)
- > 熟知的互联网协议栈给了我们深刻的“细腰”概念。但这种架构是如何产生的？它是必然的吗？“细腰”架构在商
- ## [一文读懂时延敏感网络的调度整形机制](http://network.51cto.com/art/202003/611704.htm)
- > 时延敏感网络(TSN, Time Sensitive Network)是指能保证时延敏感流的服务质量，实现低时延、低抖动和零丢包
- ## [关注风险：2020年显著的物联网安全趋势](http://iot.51cto.com/art/202003/611702.htm)
- > 随着物联网市场的持续增长，用户将面临越来越多的安全风险。让我们来看一下如何应对这些风险。
+ ## [预见2020年公有云发展十大趋势](http://cloud.51cto.com/art/202003/611736.htm)
+ > 在这里，我们邀请了业内专家与云用户代表，通过社群共同讨论，特别推出了预见2020年公有云发展的十大趋势。
+ ## [为什么PyMySQL获取一条数据会让内存爆炸](http://developer.51cto.com/art/202003/611735.htm)
+ > 当Python 有读写 MySQL 数据的需求时，我们经常使用PyMySQL这个第三方库来完成。
+ ## [复工复产进行时，“云”办公迎来发展高峰](http://biz.51cto.com/art/202003/611734.htm)
+ > 受新冠肺炎疫情的影响，2020年的春节假期显得格外漫长。随着疫情逐步得到控制，全国大部分企复工复产的节
+ ## [Vue 中的 Props 与 Data 细微差别，你知道吗？](http://developer.51cto.com/art/202003/611732.htm)
+ > Vue提供了两种不同的存储变量：props和data。这些方法一开始可能会让人感到困惑，因为它们做的事情很相似，
+ ## [远程办公十大网络安全意识隐患](http://zhuanlan.51cto.com/art/202003/611733.htm)
+ > 以下是网络安全意识专业机构给出的远程办公安全意识十大隐患，供远程办公人员或企业网络安全部门参考备忘。
+ ## [组织应采用自动化测试的5个原因](http://news.51cto.com/art/202003/611731.htm)
+ > 随着技术的进步，企业希望通过将优质产品更快地推向市场来战胜竞争对手。它使他们采用简化的工作流程，例如
+ ## [阿里公开自研AI集群细节：64个GPU，百万分类训练速度提升4倍](http://news.51cto.com/art/202003/611730.htm)
+ > 从节点架构到网络架构，再到通信算法，阿里巴巴把自研的高性能AI集群技术细节写成了论文，并对外公布。
+ ## [价值1.4万元的课程讲义开源，fast.ai创始人发布新书源代码](http://news.51cto.com/art/202003/611728.htm)
+ > 一直致力于AI教育的前Kaggle首席科学家、fast.ai创始人Jeremy Howard放出免费福利，将他今年在旧金山大学春
+ ## [Linux 硬件故障排除指南](http://os.51cto.com/art/202003/611726.htm)
+ > 了解是什么原因导致你的 Linux 硬件发生故障，以便你可以将其恢复并快速运行。
+ ## [3月数据库排行：排名前十数据库七成分数下降](http://news.51cto.com/art/202003/611724.htm)
+ > DB-Engines 数据库流行度排行榜 3 月更新已发布，排名方面没有任何变动（仅针对前十），相信很长一段时间内
  ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
@@ -161,6 +163,12 @@ HCM SaaS&#26381;&#21153;&#21830;&#8220;&#32943;&#32784;&#29634;&#33832;&#8221;&#
  > 
  ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
+ ## [行！看到抖音上Python程序员晒得工资条，我沉默了......](https://blog.csdn.net/csdnnews/article/details/104628916)
+ > Python上抖音热搜了？作为短视频爱好者最近刷到了一个Python工程师的工资条然后我默默的打开看了然后我默默的关闭了我想这个工资算下来好像也不算高我就去其他渠道搜索了一下相关的Pyt...
+ ## [远程办公：如何招聘有自驱力的员工？](https://blog.csdn.net/csdnnews/article/details/104624344)
+ > 作者 |吕小荣责编 | 屠敏头图 | CSDN 下载自东方 IC来源 | 奔跑的小荣（ID：xiaorong-running）2 月 29 日，CSDN 主办了一场直播活动 “疫情下的...
+ ## [机器翻译先驱 Jaime Carbonell 去世，创立卡内基梅隆大学语言技术学院](https://blog.csdn.net/csdnnews/article/details/104624346)
+ > 整理 | 伍杏玲出品 | CSDN（ID：CSDNnews）2月28日，机器翻译先驱 Jaime Guillermo Carbonell 因病去世，享年67岁。1985年，Carbone...
  ## [微盟耗时 145 个小时弥补删库，血亏 1.5 亿元！](https://blog.csdn.net/csdnnews/article/details/104624347)
  > 作者 | 马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）3月1日晚间，微盟发布公告称，截止到3月1日晚8点，在腾讯云团队协助下，数据已经全面找回。微盟表示，由于此次数据...
  ## [谷歌 Fuchsia OS 进入开发者测试阶段，它真的会代替安卓吗？](https://blog.csdn.net/csdnnews/article/details/104624341)
@@ -171,50 +179,66 @@ HCM SaaS&#26381;&#21153;&#21830;&#8220;&#32943;&#32784;&#29634;&#33832;&#8221;&#
  > 都说“金三银四”，即使今年情况特殊，很多程序员已经开始考虑跳槽、提加薪，或者怎么样让自己在 2020 年变得更值钱了。为此，我特地研究了上百个年后发布的编程岗位，惊喜地发现，懂数据的程序...
  ## [酷炫的VR选座，阿里大麦背后的技术堪称豪华](https://blog.csdn.net/csdnnews/article/details/104624348)
  > 作者|阿里文娱无线开发专家王璟瑶责编 | 夕颜出品 | CSDN（CSDNnews）行业现状实景VR目前的行业应用案例逐渐增多，在使用720°全景相机拍摄，部分厂商基于多实景照片...
+ ## [华为或将推出“华为搜索”；​飞书回应微信指控；Fuchsia OS 进入开发者试用阶段 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104624339)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
+ ## [移动应用后端应该使用 AWS 还是 Firebase？](https://blog.csdn.net/csdnnews/article/details/104624340)
+ > 作者 |Dhananjay Trivedi翻译 | 天道酬勤，编辑|Carol出品| CSDN云计算（ID：CSDNcloud）我们将按以下顺序比较这两种服务：它们有什么共同点？如...
  ## [Rust 编译模型之殇](https://blog.csdn.net/csdnnews/article/details/104624342)
  > Rust 编译缓慢的根由在于语言的设计。我的意思并非是此乃 Rust 语言的设计目标。正如语言设计者们相互争论时经常说的那样，编程语言的设计总是充满了各种权衡。其中最主要的权衡就是：运行...
 # 人工智能 
- ## [数据库——玩转SQL语句(以MySQL为例)](https://blog.csdn.net/qq_36963950/article/details/104547842)
- > 数据库——玩转SQL语句(以MySQL为例)
- ## [成功解决：连接sql server时插入数据库内容为乱码，并且输出也为乱码](https://blog.csdn.net/qq_41185868/article/details/80959990)
- > 成功解决：连接sql server时插入数据库内容为乱码，并且输出也为乱码
- ## [Oracle在Linux环境下全盘备份与恢复](https://blog.csdn.net/qq_37603967/article/details/104591513)
- > Oracle在Linux环境下全盘备份与恢复
- ## [MySQL查询优化之explain 执行计划 深入解析(精品)](https://blog.csdn.net/Dreamhai/article/details/104558854)
- > MySQL查询优化之explain 执行计划 深入解析(精品)
- ## [第一章：Oracle的简介、用户、权限、角色及表空间的管理](https://blog.csdn.net/weixin_44337241/article/details/104571977)
- > 第一章：Oracle的简介、用户、权限、角色及表空间的管理
- ## [Oracle 配置ASM磁盘组 安装grid 创建ASM磁盘组中的FRA 安装Oracle datebase](https://blog.csdn.net/weixin_43788290/article/details/104590057)
- > Oracle 配置ASM磁盘组 安装grid 创建ASM磁盘组中的FRA 安装Oracle datebase
- ## [我以为我对数据库索引十分了解，直到我遇到了阿里面试官。](https://blog.csdn.net/qq_35190492/article/details/104346265)
+ ## [Blender图解教程：多边形建模命令 之 环切 （Loop Cut）](https://blog.csdn.net/hello_tute/article/details/104589003)
+ > Blender图解教程：多边形建模命令 之 环切 （Loop Cut）
+ ## [Eclipse的安装配置 - Windows](https://blog.csdn.net/u012039040/article/details/104595198)
+ > Eclipse的安装配置 - Windows
+ ## [零基础学习网页制作需要注意的问题集锦](https://blog.csdn.net/html168/article/details/104598670)
+ > 零基础学习网页制作需要注意的问题集锦
+ ## [html+css基础教程之html标题学习](https://blog.csdn.net/htkms87/article/details/104599841)
+ > html+css基础教程之html标题学习
+ ## [冒泡排序](https://blog.csdn.net/qq_46443198/article/details/104591301)
+ > 冒泡排序
+ ## [TCP协议灵魂之问 - 巩固你的网路底层基础 - 深度解析 \[ 建议收藏 \]](https://blog.csdn.net/xg987599519/article/details/104577366)
+ > TCP协议灵魂之问 - 巩固你的网路底层基础 - 深度解析 \[ 建议收藏 \]
+ ## [三行代码实现大数相乘](https://blog.csdn.net/Tiooo111/article/details/104597557)
+ > 三行代码实现大数相乘
+ ## [C基础语法 — （5）操作符详解](https://blog.csdn.net/IT_xiao_guang_guang/article/details/104555620)
+ > C基础语法 — （5）操作符详解
+ ## [Python全栈（五）Web安全攻防之4.sqlmap性能优化和注入技术参数](https://blog.csdn.net/CUFEECR/article/details/104590619)
+ > Python全栈（五）Web安全攻防之4.sqlmap性能优化和注入技术参数
+ ## [《数据结构与算法》—— O(3N)=O(N) ?](https://blog.csdn.net/qq_38646470/article/details/104600139)
  > 
- ## [数据库相关的一些基本概念](https://blog.csdn.net/FDR_Enterprise/article/details/104590185)
- > 数据库相关的一些基本概念
- ## [数据库作业2：第一章课后题](https://blog.csdn.net/ker_viner/article/details/104593861)
- > 数据库作业2：第一章课后题
- ## [一些关于数据库名词的精致解释](https://blog.csdn.net/Mo_olly/article/details/104579695)
- > 一些关于数据库名词的精致解释
- ## [周结](https://blog.csdn.net/qq_41026669/article/details/104572555)
- > 周结
- ## [数据库的基本概念](https://blog.csdn.net/tutouxiaogangpao/article/details/104595581)
- > 数据库的基本概念
- ## [数据库中的一些概念](https://blog.csdn.net/Cheng_XZ/article/details/104588452)
- > 数据库中的一些概念
- ## [数据库作业2](https://blog.csdn.net/rookie_lv1/article/details/104590711)
- > 数据库作业2
- ## [第二章：Oracle数据库表的管理](https://blog.csdn.net/weixin_44337241/article/details/104600714)
- > 第二章：Oracle数据库表的管理
+ ## [C语言进阶复习（二）--指针进阶专题](https://blog.csdn.net/qq_44785014/article/details/104565764)
+ > C语言进阶复习（二）--指针进阶专题
+ ## [](https://blog.csdn.net/qq_41170102/article/details/104516158)
+ > 
+ ## [基于Echarts的2月新型冠状病毒每日新增确诊人数统计](https://blog.csdn.net/weixin_43525427/article/details/104236593)
+ > 基于Echarts的2月新型冠状病毒每日新增确诊人数统计
+ ## [PyQt学习随笔：QTableWidget项sizeHint的作用以及与QHeadView的sectionResizeMode、ResizeToContents的关系](https://blog.csdn.net/LaoYuanPython/article/details/104600593)
+ > PyQt学习随笔：QTableWidget项sizeHint的作用以及与QHeadView的sectionResizeMode、ResizeToContents的关系
+ ## [k8s学习总结（三）](https://blog.csdn.net/haiziccc/article/details/104594324)
+ > k8s学习总结（三）
 # PM 
- ## [2020年的疫情突袭，远程医疗有望成为黑马](http://www.woshipm.com/it/3409136.html)
- > 2020年的新型冠状病毒来势凶猛，可谓让全国人民措手不及，关于这次疫情相关的动态可谓铺天盖地，有网友说这是生物链的一种自然反应。抛弃这种说法的对错，就针对“生物链...
- ## [B2C电商系统产品架构：全局分析系统定义与职责](http://www.woshipm.com/pd/3451736.html)
- > 笔者在七八年职业经历中，主要是聚焦于电商系统上下游进行工作，而笔者在本文中就将结合工作实践与经验认知，为大家分析电商系统的各种架构，并对各个系统注明主要定义...
- ## [实用的数据分析方法：核心数据反推](http://www.woshipm.com/data-analysis/3439468.html)
- > 往后的文章内容皆是实操，从产品运营角度来看，文章的浏览者皆是用户，且该平台的读者皆倾向于学习实操的产品朋友们。将直接能落地使用的方式方法呈现出来，最为合理。...
- ## [线上课程 | 从门外汉到北京某大厂产品经理的入行心路历程](http://www.woshipm.com/online/3460247.html)
- > 本文不谈理想，也不谈具体的产品学习方法和求职套路。我们谈谈产品经理就业特训营Angel同学——一个小白从门外汉到拿到北京某大厂产品offer的心路历程。一、我偶然间与互...
- ## [快手直播破壁：圈层指引与社交呼唤](http://www.woshipm.com/it/3460075.html)
- > 在短视频上看直播，原本不是什么新鲜事。但快手直播还在不断地向圈外拓展，而那些曾经的尝试所形成的内容生态，在阳光雨露之下，会开满了花，生长出无限的可能。时针...
+ ## [我们如何快速了解一个新行业？](http://www.woshipm.com/it/3454254.html)
+ > 公司想要发展一个新领域，需要产品经理去了解这个领域的信息。或者产品经理从事一个新的业务领域，需要了解这个新的行业。那么如何快速了解这个行业呢？一、容易陷入...
+ ## [从网易严选刷屏广告，洞察5大品牌营销新趋势](http://www.woshipm.com/marketing/3456408.html)
+ > 2020年，伴随着复杂的社会、经济、文化等大环境变化，品牌营销也迎来改变——摒弃浮躁与喧嚣，向营销向善、包容与关怀、文化认同与文化自信上转变。这两天被网易严选一...
+ ## [墨墨背单词：专注、专业、高效的英语学习之路](http://www.woshipm.com/evaluating/3448730.html)
+ > 英语学习一直是基础教育中非常重要的一环，而背诵单词就自然而然成为了广大用户学习英语的入门方式。在这样的大背景下，用户对于英语的需求与日俱增。在百度指数中，以...
+ ## [跳出消费互联网，寻找产业互联网的新世界之路](http://www.woshipm.com/it/3456794.html)
+ > 区别于消费互联网，产业互联网在底层逻辑与运行模式上都有着很大的差异。如果还是循规蹈矩沿用消费互联网的思维入局产业互联网，那必然发生“水土不服”的现象。在这样...
+ ## [出色的产品经理应具备的四点特质](http://www.woshipm.com/pmd/3455316.html)
+ > 什么是出色的产品经理呢？有些人会说做出一款解决用户需求、实现公司商业战略的产品，那他就是一位出色产品人。但是这其实只是一位合格产品人应该做的，要想做到出色，...
+ ## [Apple 的设计哲学：声音篇](http://www.woshipm.com/pd/3457048.html)
+ > 在《Apple 的设计哲学 · 交互篇》和《Apple 的设计哲学 · UI 篇》中，我们谈到了 Apple 在交互、UI 层面雕刻细节，创造出一系列礼遇般的产品体验。今天，我继续分享苹果...
+ ## [揭秘：怎样写出浏览量10万+的教程类文章](http://www.woshipm.com/zhichang/3447422.html)
+ > 自从我在设计界发声以来，经常有朋友邀请我去做如何撰写文章的分享。也有朋友欣赏我的写作方式，便借鉴到自己的文章中。我很高兴，因为这恰恰是对于我文章的认可。鉴于...
+ ## [利用“行动公式”，高效提升产品转化率](http://www.woshipm.com/operate/3455667.html)
+ > 提高转化率，其实就是快速提高产品收入。不过在获客难、转化难的今天，我们如何有效提升转化，进而提升产品收入呢？笔者结合互金产品与运营经验，为我们解读提升转化率...
+ ## [从3个角度，看互联网+课程的如何结合](http://www.woshipm.com/it/3454091.html)
+ > 随着教育信息化进程的加快，互联网将深度与教育融合，传统“满堂灌”形式的课程体系，不仅无法满足培养具备新时代信息化素养人才的需求，且无法满足新时代学生个性化发展...
+ ## [疫情期间，我们要缩减广告预算吗？](http://www.woshipm.com/marketing/3452659.html)
+ > 对于疫情冲击导致的消费需求下降，大多数企业都下意识选择降低营销预算，为企业节省资金。不过，在这种直觉思维背后，各类事例与数据却证明了“疫情期间缩减广告预算”并...
+ ## [复盘 | 一次失败项目汇报思考](http://www.woshipm.com/pmd/3452757.html)
+ > 重视每次复盘，在复盘过程中，更容易发现自己的问题。对已发现的问题，进行及时调整改进，再次输出，等待新一轮的反馈。前言随着人口红利消失，存量时代的来临，企业...
  ## [微信圈子申请创建指南](http://www.chanpin100.com/article/110859)
  > 微信圈子：不是你想建就能建的
  ## [解构私域流量（五）：如何经营个人IP？](http://www.chanpin100.com/article/110858)
