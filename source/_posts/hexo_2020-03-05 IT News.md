@@ -1,7 +1,7 @@
 ---
 title: 2020-03-05 IT News
 copyright: true
-date: 2020-03-05 12:02:03
+date: 2020-03-05 17:02:31
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -35,19 +35,33 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [全国首个民企卫星智能AIT中心落户浙江台州，吉利全面布局商业卫星领域](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=WYMobUoTo*0wQHtxpx6bhieIhVGwaHkF7362QJbazWfWRT*uY8JTSet8WltapfL0h3wxBe7tmk6FmG--VL5X7sJu0IF-lo2i3qMzxrgFVcqRdH9xKFuouNWSVIJ8s7B0&new=1)
- > 3月3日，浙江省扩大有效投资重大项目集中开工仪式以视频会议形式举行。浙江省委书记车俊宣布开工，浙江省委副书记、省长袁家军讲话，浙江省委常委、常务副省长冯飞主持。台州分会场设在台州吉利卫星项目开工现场...
- ## [买了3D打印机却不赚钱的3个原因](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=7RhNbryrJ3OWWEMVAmUJ363TZWui1Y*5XS9s7M-zseI2KHXGrXFRZHorCt2Gk-QY9gMEenMea2SKprAEcJgAEKVkcEjd1NXQwNJv6TLQ*wkZ5-xX6eblDjMkFYmqFME8&new=1)
+ ## [箭旅镜像，吉利为何要发卫星?](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=baZjmkYV**3Bw1OQLuJT0SQT2ABEkhfQKAkLnG2b4PcuXH52k8*aiDAP1j1lkTyW5PdFAYfHSyh08MlrvKVyw9Mu1DwHpewLYomvW2VVX7DGHStnXB6yrsJjhgatK9dR&new=1)
+ > 本文共2121字，阅读全文约需4.2分钟。　　未来，夜空中将多出一个名为“箭旅镜像”的吉利造星座。　　3月3日，吉利科技集团在台州打造的国内首个脉动式模块化卫星智能AIT（总装集成测试）中心开工。在此基础上，...
+ ## [热点聚焦|5G新基建再迎政策风口 安防将迈入发展“大年”](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=u7Vu7okfx78ZYmOZCp2uo*gU4plBQP4xKRWlFz2afCA05DShdlrux2*SGWTp84r1-1zG-1AGBUk6rkJtk3Uc9fS*CwXW3qNAM64Z6WsctzouNYzWN*VMUo2R9GcY8uy6&new=1)
+ > 疫情尚未结束，“疫”后重建的硬仗就已经打响。近期，从中央到地方，纷纷出台各类措施保持经济发展，这当中，“新基建”尤为引人注目，已经吸引了数十万亿元的投资。 何为新基建？就是在铁路、公路、轨道交通等...
+ ## [897家医院、211家疾控中心获益 海尔生物推出物联网生物安全场景方案](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=0z5vGjZtn2ll7aw9iC3heMD1w1xDZabmlmu7VpXUlVxiPkBah*Z1MmAg6rKZxmjZpegST04x6WiHGeVbYd5FYoE9EDxUErrZVBoGcYGDm7s=&new=1)
+ > （图片来源：受访者供图）蔡越坤/文 “机遇与挑战并存。”疫情影响下，近日，海尔生物相关人士对记者表示。此外，该人士表示，一方面，公司面临 “企业员工复工难，研发生产受到影响”等问题；另一方面，面对整...
+ ## [40纳秒完成图像分类，速度提升几十万倍，图像传感器自带神经网络登上Nature](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=8RQ*EMbIQiMoQajhBKka-Mi*bPI*E*HtwqgzBzLIMthMQLgqtHCP1390IWFSwowolieUqoOKLkZFxlBFdw49ZWHNGdXkN4Kg1e88TtY0Sn7y4iZDE66jlV2F9Dx7bdM4&new=1)
+ > 鱼羊 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAIAI芯片还可以怎么搞？最新登上Nature的研究带来新启发。过去，我们做图像分类都是分成好几步：先用传感器收集图像模拟信号，数模转换后再交给计算机处理。整...
+ ## [关于举办“2020全国高校大数据师资免费在线培训”的通知](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=xjQAQ6DlOSGeiA94k8vKQ5n3BaL**6DslNi4JFuhHxyS6EWl*LMfirrQmxBjV*ogz196kwMPdNnnVKbzdiQf3EXYNHn6oUQvXkyuKWWQXMpBu23Yvs5pbsspa*LoXr42&new=1)
+ > 战“疫”不停学，修炼好“内功”也是目前的当务之急。特别是对于大数据等新兴复合型学科，知识更新迭代快，实战要求高，稍不留神就被人赶超，对于相关专业老师们而言，更应时时为自己“充电”，了解目前行业前沿...
+ ## [湖南华翔入驻未知大陆，在线医疗3D打印服务是核心](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=rA1xKvRIx6iNZ7LGnuZc6VSbOosuuYjtMpinDzZLTHbEuWLGZWp-58oqU25-mXMqCA7x6r4Fa3tkPQ70*0dMCtfxKzOA2CM74DePt1lKRrfJ7wz7nibcraLStC6wQeOt&new=1)
+ > 2020年3月2日，湖南华翔增量制造股份有限公司正式入驻未知大陆平台，开通了在线3D打印服务中心，其主营业务是3D打印医疗应用领域全产业链解决方案，这是华翔的核心优势。目前，华翔3D打印中心可打印的材料包括：...
+ ## [2020网络安全的引爆点：人工智能](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=WnGSj2K-bDmHj9Z6MBKWQl9bmJ3Q0FQtkRNCa325gRTXsA0j6-61QUdYPJm6eFU7RkymlKmYqeMyknyTceplDdxTu-lLrYoHc3lIPJY0jWtOzpzcnBlxeDJe8hHRWQIe&new=1)
+ > 淘汰一切可以淘汰的“人的因素”，才是网络安全未来最大的商机。刚刚结束的RSAC2020大会主题为“人的因素”，业界广泛讨论的是如何强化和缓解人这一重要环节的脆弱性，但很多人忽略了“Human Element”背后的隐...
+ ## [买了3D打印机却不赚钱的3个原因](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=7RhNbryrJ3OWWEMVAmUJ363TZWui1Y*5XS9s7M-zseJPgxFW74ra4FNK3dhqGuriIAXJ*DxLV1mVUybhoJRQocpC25k7KpntAfeaw5yfjLT6U9y9u*xabetoaSkhibcl&new=1)
  > 到了2020年，增材制造终于成为一种成熟的技术，可以在越来越多的领域用于生产。在过去十年中，它完成了技术炒作周期的整个过程，开始逐渐走向应用生产。Pankl Racing Systems采用Formlabs技术生产的定制夹具系统...
- ## [路由器在卧室，客厅信号弱?三招轻松提升Wi-Fi强度，秒开网页真舒服](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=wwWAyaKsO2v2t1oCbVHWfbC059u1xT8RnbvP0Sp5mi5rWN*q9T7reaSlX3sLNz8NNb3*UMa0xSU8Y2EaidoejhXLQKUysatHsaVlkGsG9MXAIfd1bOGFXl0*LakO*6r8&new=1)
- > 好的生活，不难也不贵 不得不说，手机时当今时代的一个伟大发明，除了打电话发短信，还能聊天看视频玩游戏，可谓无所不能。 不过在互联网如此发达的时代，大家对手机网速的要求也越来越高，几乎每个家庭都有自己...
- ## [\[招募令\]中国电信天翼智家启动智慧家庭生态合作招募 以科技赋能产业 助力复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=C5qdSasAr6p8X7-pgWOFD9NzvGyh17SaqKkM05TDRB4ihWcsaW6tv139LtQZVzMxhPtns*WcRzV2ZIdQ9WMIegPpxAlIcOQ7uHrCcO6kLCgUC9huC2orjdC6XznJq0Iv&new=1)
- > 3月4日，中国电信旗下天翼智慧家庭科技有限公司（简称天翼智家）启动智慧家庭生态合作招募，面向联盟生态合作伙伴和全社会科技创新企业，公开招募智慧家庭创新内容、终端与应用解决方案，通过积极搭建平台，以科...
- ## [低速无人驾驶的第一次「大考」](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=yGcX1YzMpA-6TCTzxzi*4lKIGrhnZANYNl225X13tmUoWLjw8STZ4Ci*p2DFAxUmuvkI2ORJQumkJobeaOBbkv6uVJGQbE6eWEVG1FwfQicD6b*DOt*lj4F*QYm3DlJd&new=1)
+ ## [低速无人驾驶的第一次「大考」](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=yGcX1YzMpA-6TCTzxzi*4lKIGrhnZANYNl225X13tmWX8rnx1Ve7XKgmSZQunvk6GN25ytsYBh5rfOngwp5-i7RJr-lBFa-9obx9B*elKloOKPTIRGORBT188T*zV8mD&new=1)
  > 无人车被摁下加速键。数十辆无人清洁小车被投放到疫区、各地医院，它们或被改造，或被加装新功能，迅速在这些特定场景内完成它们的使命：清洁、消毒、配送药物、食物等必需品。疫情期间，无人清洁车能满足人们「...
- ## [软银支持的初创公司被禁止向中国出口美国技术](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=l03u27505L6*aOQRodGmvP*os2AnIDydlRhb6*v7JYJORu7hg1D-3c08hXlQNtoyoqErzqgx8CDNSWMfUa3XnYs-BY*4uDQnjHlDkAoJPlyf11fSZ2sX0-LMiHKlL4NK&new=1)
+ ## [全国首个民企卫星智能AIT中心落户浙江台州，吉利全面布局商业卫星领域](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=WYMobUoTo*0wQHtxpx6bhieIhVGwaHkF7362QJbazWfuG0vSm7Vdv8eob9TfqcOK-z13KLiI9w4YAZXI81eHTlwNkKq8eOWXb7-0isq87KbgJqc1hNlHBUi2vlbSa7kl&new=1)
+ > 3月3日，浙江省扩大有效投资重大项目集中开工仪式以视频会议形式举行。浙江省委书记车俊宣布开工，浙江省委副书记、省长袁家军讲话，浙江省委常委、常务副省长冯飞主持。台州分会场设在台州吉利卫星项目开工现场...
+ ## [\[招募令\]中国电信天翼智家启动智慧家庭生态合作招募 以科技赋能产业 助力复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=C5qdSasAr6p8X7-pgWOFD9NzvGyh17SaqKkM05TDRB4IVozKAJ7Ghr7gsZQIyt1aJ9f6xOO8L1L-ah19mLlt6WugzFBaXHOnoZd9GkbA-NfXwLYchHdiFkbpn-DTzzot&new=1)
+ > 3月4日，中国电信旗下天翼智慧家庭科技有限公司（简称天翼智家）启动智慧家庭生态合作招募，面向联盟生态合作伙伴和全社会科技创新企业，公开招募智慧家庭创新内容、终端与应用解决方案，通过积极搭建平台，以科...
+ ## [路由器在卧室，客厅信号弱?三招轻松提升Wi-Fi强度，秒开网页真舒服](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=wwWAyaKsO2v2t1oCbVHWfbC059u1xT8RnbvP0Sp5mi5KHufjWqkyX2ZQpoLRvWiqR2iU6Vrdp-gc0ohxnPH8Xm4yim7ALjrxEn9DF8WfLv4eMz*Tdyir8PNVKdd42ax-&new=1)
+ > 好的生活，不难也不贵 不得不说，手机时当今时代的一个伟大发明，除了打电话发短信，还能聊天看视频玩游戏，可谓无所不能。 不过在互联网如此发达的时代，大家对手机网速的要求也越来越高，几乎每个家庭都有自己...
+ ## [软银支持的初创公司被禁止向中国出口美国技术](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=l03u27505L6*aOQRodGmvP*os2AnIDydlRhb6*v7JYIwIyMjz1yB8EmVAjPLuL8JphYWYHAxUQL4V340E8hca6L-Y0P7B0Tg2aNIG0s7sAXLhryCIvDI-*3F1FJOARcA&new=1)
  > 文件显示，软银支持的初创企业CloudMinds已被禁止与中国共享源自美国的技术，这表明美国政府日益加大的管制力度将给科技公司及其投资者带来新的阻碍。作者｜木棉   校对｜Jurnan集微网原创文章，转载请留言集微...
- ## [华为最新5G室内数字化产品有何亮点?](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=mombj9ymYaF8z3nJrnElcNxza2HrpE5TBNbZyjKvRTw5tudM7DQyw8DKbfeyNswMEqEhQ0btkEABiCRc3gq5bPzBUn3ol2XQckqBu*cthdAvijCNk0cMquDe3adbgRl0&new=1)
+ ## [华为最新5G室内数字化产品有何亮点?](http://mp.weixin.qq.com/s?src=11&timestamp=1583398804&ver=2197&signature=mombj9ymYaF8z3nJrnElcNxza2HrpE5TBNbZyjKvRTwMrtmzuX97MLMr8hAyO9u6hKidVLA7-mbuJsfSOV*XqizVS*VYMlLaY6h-wFuAEUFlQeFess0EuytqLZPoXZJk&new=1)
  > 5G商用伊始，5G火车站、5G机场、5G酒店、5G医院、5G购物中心、5G工厂等各种“5G+”正不断出现。它们都有一个共同的特点——室内场景。不言而喻，5G室内覆盖非常重要。但你有没有想过？做过室分的工程师们都知道...
 # IT 技术 
  ## [12种从单体架构向微服务转型的设计原则与优秀实践](http://developer.51cto.com/art/202003/611876.htm)
@@ -66,56 +80,60 @@ categories: IT NEWS
  > 取代安卓？谷歌新系统Fuchsia OS即将杀青，详解C、C++等与Go的优劣势对比
  ## [如何在Linux下使用fstrim延长SSD驱动器的寿命](http://os.51cto.com/art/202003/611892.htm)
  > 如何在Linux下使用fstrim延长SSD驱动器的寿命
- ## [别用收费的Postman了，考虑一下免费开源的Postwoman](http://news.51cto.com/art/202003/611929.htm)
- > API接口调试在开发过程中是非常重要的一个环节，大家都知道，Postman是一个非常受欢迎的API接口调试工具，
- ## [关键业务上云，企业IT架构应该如何变革？](http://server.51cto.com/Prod-611928.htm)
- > 所谓关键业务应用，是确保企业正常运作根本的IT应用，诸如制造企业的ERP、CRM，银行核心交易系统，医院HIS
- ## [那些影响了几代程序员的编程书籍](http://developer.51cto.com/art/202003/611926.htm)
- > 这些书并不会立马使你成为一名出色的程序员，但它们确实是影响了无数程序员的书籍，阅读这些书籍可以帮助开
- ## [2020年，疫情之下5G建设是机遇还是挑战？](http://network.51cto.com/art/202003/611923.htm)
- > 众所周知，2019年5G正式实现商用，那么在刚刚到来的2020年，一场突如其来的疫情再次让5G焕发光芒，基于此现
- ## [如何精心规划数据库向云平台的迁移](http://cloud.51cto.com/art/202003/611920.htm)
- > 如今，许多组织决定将其数据库迁移到云平台中。这是正确的做法吗?组织需要考虑应用程序类型、供应商锁定和
- ## [MySQL 的 MRR 到底是什么？](http://database.51cto.com/art/202003/611922.htm)
- > MRR，全称「Multi-Range Read Optimization」。简单说：MRR 通过把「随机磁盘读」，转化为「顺序磁盘读」
- ## [我们一起走进Maven――知己知彼](http://developer.51cto.com/art/202003/611919.htm)
- > 乍一看，Maven看起来有很多东西，但简而言之，Maven试图将模式应用于项目的构建基础架构，以便通过提供使用
- ## [2020年应该认真对待的8种移动设备安全威胁](http://netsecurity.51cto.com/art/202003/611918.htm)
- > 如今，移动设备安全已成为企业担忧的头等大事，这是有充分理由的：现在几乎所有员工通过智能手机访问企业的
- ## [如何在 2020 年用 Java 安全编程](http://developer.51cto.com/art/202003/611916.htm)
- > 一位名为 Sam Bocetta 的作者发表了一篇文章，针对在 2020 年使用 Java 进行编码时应遵循的五个原则进行了
- ## [办公小技巧：Excel动态图表即点即变](http://news.51cto.com/art/202003/611912.htm)
- > Excel中的常规图表往往是静态的，一般是在选择相应的数据后自动生成，演示时固定不变。不过遇到变化较多的
- ## [Spring Cloud入门-Oauth2授权之基于JWT完成单点登录(Hoxton版本)](https://blog.csdn.net/ThinkWon/article/details/103766368)
- > Spring Cloud入门-Oauth2授权之基于JWT完成单点登录(Hoxton版本)
- ## [【供应链架构day4】途牛进销存架构的演进之路 - 从诞生到发展](https://blog.csdn.net/Ture010Love/article/details/104272695)
- > 【供应链架构day4】途牛进销存架构的演进之路 - 从诞生到发展
- ## [【面试宝典】 spring基础面试必问](https://blog.csdn.net/qq_16855077/article/details/103758263)
- > 【面试宝典】 spring基础面试必问
- ## [计算与数据结构篇 - 散列表(Hash)](https://blog.csdn.net/xuezhiwu001/article/details/104004108)
- > 计算与数据结构篇 - 散列表(Hash)
- ## [22种编程语言新年快乐](https://blog.csdn.net/hebtu666/article/details/104081360)
- > 22种编程语言新年快乐
- ## [阿里巴巴向全社会开放黑科技：“泡在水里”的服务器](https://blog.csdn.net/alitech2017/article/details/103859969)
- > 阿里巴巴向全社会开放黑科技：“泡在水里”的服务器
- ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
+ ## [沈向洋打破清华记录，成史上首位视频聘任清华教授，呼吁可解释AI](http://news.51cto.com/art/202003/611953.htm)
+ > 去年11月沈向洋离职微软后，就在本周前几天，沈向洋续聘清华，在清华的title是清华大学高等研究院双聘教授
+ ## [40纳秒完成图像分类，图像传感器自带神经网络登上Nature](http://news.51cto.com/art/202003/611950.htm)
+ > AI芯片还可以怎么搞？最新登上Nature的研究带来新启发。试想一下，如果人类眼睛可以直接处理图像――不用劳
+ ## [线程池原理详解及如何用C语言实现线程池](http://network.51cto.com/art/202003/611951.htm)
+ > 线程池是一种多线程处理形式，大多用于高并发服务器上，它能合理有效的利用高并发服务器上的线程资源;线程
+ ## [11个将在近期被人工智能彻底改变的行业](http://ai.51cto.com/art/202003/611949.htm)
+ > 人工智能(AI)已经成为了生活的一部分，这个过程是如此迅速而且无缝，以至于我们当中的很多人仍然没有意识到
+ ## [AI“黑头盔”亮相成都，警察街头2分钟筛查上百人体温！](http://news.51cto.com/art/202003/611952.htm)
+ > 作为一种首次在全球范围内传播的新型疾病，尚不清楚新冠疫情将如何影响我们的生活和工作方式，但目前看来，
+ ## [世界上有哪些代码量很少，但很厉害很经典的算法或项目案例？](http://developer.51cto.com/art/202003/611948.htm)
+ > 今天分享四个代码量很少，但很厉害很经典的算法或项目案例。如果各位技术大神还知道哪些案例，欢迎留言补充
+ ## [这可能是数据分析师最关注的五个问题](http://bigdata.51cto.com/art/202003/611947.htm)
+ > 多同学都在思考职业发展路径问题。最近咨询陈老师的也很多，一个很普遍被问到的，就是：数据分析师的红旗，
+ ## [如何面对边缘计算10个痛点？](http://cloud.51cto.com/art/202003/611946.htm)
+ > 从网络和集成到故障转移、资产管理和安全，IT部门需要做大量工作来确保对边缘技术的充分支持。以下是工作的
+ ## [欧洲银行业数字化转型启示](http://www.cioage.com/art/202003/611945.htm)
+ > 面对金融科技发展的挑战，欧洲银行业纷纷加速数字化转型，在数字化转型监管体系、新技术运用、开放银行建设
+ ## [2020年IT管理七大预测：自动化是硬道理](http://network.51cto.com/art/202003/611940.htm)
+ > 新的2020年企业IT 管理将会有些新变化?致力于通过统一IT来更好地管理和保护数字工作区的Ivanti公司，凭借多
+ ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
  > 
- ## [为了更好的代码，我写了一个工具：Coca](https://blog.csdn.net/gmszone/article/details/103692075)
+ ## [外国人眼里的李子柒难道不一样？ | Alfred数据室](https://blog.csdn.net/weixin_38753103/article/details/103625892)
+ > 外国人眼里的李子柒难道不一样？ | Alfred数据室
+ ## [自学系列 | 就谈知识体系！](https://blog.csdn.net/qq_36903042/article/details/103917724)
+ > 自学系列 | 就谈知识体系！
+ ## [【推荐系统算法实战】 基于网页的 Notebook：Zeppelin 交互式数据分析](https://blog.csdn.net/universsky2015/article/details/103642362)
+ > 【推荐系统算法实战】 基于网页的 Notebook：Zeppelin 交互式数据分析
+ ## [@程序员，别再迷恋多线程工作了](https://blog.csdn.net/qing_gee/article/details/103558843)
  > 
- ## [三十而立~2019年终总结](https://blog.csdn.net/tuzongxun/article/details/104004186)
- > 三十而立~2019年终总结
- ## [一个程序员的自我修养和敬畏之心](https://blog.csdn.net/briblue/article/details/104181525)
+ ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
+ > B 站上有哪些很好的学习资源?
+ ## [大白话讲解Spring的@bean注解](https://blog.csdn.net/qq_44543508/article/details/103718958)
+ > 大白话讲解Spring的@bean注解
+ ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
  > 
- ## [达摩院2020十大科技趋势发布：多个技术领域将现颠覆性突破](https://blog.csdn.net/weixin_44326589/article/details/103850582)
+ ## [动画：面试官问我 JS「变量提升」我头皮发麻，最后把这篇动画甩给了他](https://blog.csdn.net/qq_36903042/article/details/103502696)
  > 
- ## [力扣(LeetCode)刷题，简单题(第1期)](https://blog.csdn.net/m0_38106923/article/details/104101573)
- > 力扣(LeetCode)刷题，简单题(第1期)
- ## [马云酒吧揭秘](https://blog.csdn.net/gshengod/article/details/103658685)
- > 马云酒吧揭秘
- ## [2019年，CSDN上最受欢迎的10篇文章](https://blog.csdn.net/qing_gee/article/details/103814819)
+ ## [Spring Boot2 系列教程(三十)Spring Boot 整合 Ehcache](https://blog.csdn.net/u012702547/article/details/103470085)
  > 
- ## [你修改了样式，却要我手动清除游览器缓存，这是BUG！](https://blog.csdn.net/ljk126wy/article/details/103911421)
+ ## [互联网人每天要面对多少变态需求？](https://blog.csdn.net/xianaoshi/article/details/103900636)
  > 
+ ## [惊呆了！Java程序员最常犯的错竟然是这10个](https://blog.csdn.net/qing_gee/article/details/103867740)
+ > 
+ ## [2020，最大的愿望是做个佛系程序员](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104079910)
+ > 2020，最大的愿望是做个佛系程序员
+ ## [学Maven，这篇万余字的教程，真的够用了！](https://blog.csdn.net/u012702547/article/details/103558093)
+ > 
+ ## [【搞定Jvm面试】 JDK监控和故障处理工具揭秘](https://blog.csdn.net/qq_34337272/article/details/103644552)
+ > 
+ ## [点沙成金：英特尔芯片制造全过程揭密](https://blog.csdn.net/csdnnews/article/details/104676074)
+ > “亚马逊丛林里的蝴蝶扇动几下翅膀就可能引起两周后美国德州的一次飓风……”这句人人皆知的话最初用来描述非线性系统中微小参数的变化所引起的系统极大变化。而在更长的时间尺度内，我们所生活的这个世界就是这样一个异常复杂的非线性系统……水泥、穹顶、透视——关于时间与技艺的蝴蝶效应公元前300...
+ ## [智能语音升级用户体验，标贝以创新优势布局儿童有声内容市场](https://blog.csdn.net/csdnnews/article/details/104673690)
+ > 作者 | 标贝科技“无故事，不童年”，儿童听故事是刚需。同时在音频技术、移动智能终端和用户需求的共同驱动，“随时随地，想听就听”的&quot;耳朵阅读”也迅速覆盖了儿童人群。根据第十六次全国国民阅读调查数据显示，2018年0-8周岁儿童的听书率达26.8%，同比上涨29.5%，增涨幅度高于其...
  ## [战疫期，钉钉如何扛起暴增百倍的流量？](https://blog.csdn.net/csdnnews/article/details/104662294)
  > 作为一个在云上成长起来的产品，钉钉开启了在阿里云的资源扩容之路，满足了用户在家办公及在家上课的需求，保证了用户良好的体验，钉钉如何做到的？
  ## [春眠不觉晓，SQL 知多少？| 原力计划](https://blog.csdn.net/csdnnews/article/details/104666933)
@@ -142,20 +160,81 @@ categories: IT NEWS
  > 浏览器再现“神仙打架”。整理 | 屠敏头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）从 IE 到 Chrome，再从 Chrome 到 Edge，微软与...
  ## [云计算的未来是什么？](https://blog.csdn.net/csdnnews/article/details/104666927)
  > 作者|阿文责编 | 郭芮一场突如其来的疫情使得很多人不得不宅在家里，这场疫情之中，很多线下实体店遭受了巨大的冲击，但是很多互联网企业却在这次疫情之中赚的盆满钵满。我们可以发现由于无法...
+# 人工智能 
+ ## [Q妹带你赚外快：1—199元JavaScript悬赏红包邀您领取](https://blog.csdn.net/askdevteam/article/details/104634868)
+ > Q妹带你赚外快：1—199元JavaScript悬赏红包邀您领取
+ ## [解决Could not get resource 最笨最实用的方法](https://blog.csdn.net/qq_45425496/article/details/104655366)
+ > 解决Could not get resource 最笨最实用的方法
+ ## [MPAndroidChart的详细使用——添加依赖](https://blog.csdn.net/qq_44720366/article/details/104652597)
+ > MPAndroidChart的详细使用——添加依赖
+ ## [【android编程】 第四讲-Android基本控件](https://blog.csdn.net/xbean1028/article/details/104657122)
+ > 【android编程】 第四讲-Android基本控件
+ ## [安卓踩坑记录之自定义Drawable - 解决自定义Drawable不显示的问题](https://blog.csdn.net/tran_sient/article/details/104633675)
+ > 安卓踩坑记录之自定义Drawable - 解决自定义Drawable不显示的问题
+ ## [Android Studio 界面布局之xml文件中给输入框editText修改下划线颜色 / 为按钮设置圆角和颜色 / 约束布局预览效果和运行效果不一致 问题的解决](https://blog.csdn.net/Farewell_w/article/details/104621962)
+ > Android Studio 界面布局之xml文件中给输入框editText修改下划线颜色 / 为按钮设置圆角和颜色 / 约束布局预览效果和运行效果不一致 问题的解决
+ ## [AE（ArcGIS Engine）的安装与配置（附加ArcGIS安装及所需安装包）](https://blog.csdn.net/qq_38281942/article/details/82534279)
+ > AE（ArcGIS Engine）的安装与配置（附加ArcGIS安装及所需安装包）
+ ## [elment-ui tree单选实现](https://blog.csdn.net/qq_40822000/article/details/104639423)
+ > elment-ui tree单选实现
+ ## [Android 屏保实现](https://blog.csdn.net/weixin_43889841/article/details/104659109)
+ > Android 屏保实现
+ ## [获取android手机设备的OAID](https://blog.csdn.net/mingtiannihao0522/article/details/104630967)
+ > 获取android手机设备的OAID
+ ## [RN项目集成react-native-code-push（四）-- ReactNative项目集成react-native-code-push](https://blog.csdn.net/jin19920529/article/details/104650605)
+ > RN项目集成react-native-code-push（四）-- ReactNative项目集成react-native-code-push
+ ## [谷歌Google SDK 对比 华为 HMS sdk，列表](https://blog.csdn.net/u011216417/article/details/104625968)
+ > 谷歌Google SDK 对比 华为 HMS sdk，列表
+ ## [iOS 事件传递与响应链原理](https://blog.csdn.net/weixin_43837354/article/details/104648709)
+ > iOS 事件传递与响应链原理
+ ## [springboot报错：NoClassDefFoundError: org/springframework/transaction/ReactiveTransactionManager](https://blog.csdn.net/tower888/article/details/104628368)
+ > springboot报错：NoClassDefFoundError: org/springframework/transaction/ReactiveTransactionManager
+ ## [Android Fragment使用](https://blog.csdn.net/dreams_deng/article/details/104638596)
+ > Android Fragment使用
 # PM 
- ## [究竟什么是批判性思维？《批判性思维》思维导图读书笔记](http://www.chanpin100.com/article/110884)
- > 所谓批判性思维就是透过表象看本质的一种思维技能。
- ## [普通人如何通过营销实现我们的目标呢？](http://www.chanpin100.com/article/110883)
- > 如何赚取人生的第一个100万，相信是无数人穷极一生都想知道的一件事。而随着市场竞争趋于同质化，很多企业的利润都是通过营销来实现。简单的说，营销是企业或者是我们个体在实现目标的关键一环。那么我们该如何通过营销实现我们的目标呢？通过思维导图来认识一下。
- ## [疫情之下，互联网教育跨界激战](http://www.chanpin100.com/article/110882)
- > 未来的互联网教育3.0，不是把线下教育数字化，而是用教育理论和智能技术深度重构教育要素和任务的关系。
- ## [能够有效提高电商类App转化率的方法](http://www.chanpin100.com/article/110881)
- > 电商App新用户从下载到完成首单基本需要经历：下载App——打开App——浏览首页——进入商详页——加入购物车——注册/登录——结算——填写收货地址——支付共9个步骤，各环节都有可能造成用户流失，提升各环节转化率成为电商运营的重要因素。我们该如何提高电商App的转化率呢？？
- ## [手把手教你从0到1搭建人力资源系统（2）——组织管理](http://www.chanpin100.com/article/110880)
- > 本文将从人力资源系统的最基础模块——组织架构入手，结合企业管理过程中的实际案例由浅入深设计相关的产品方案。希望读完本文之后，可以让你对企业的正常运转有更深的认识。
- ## [疫情当前助装企过冬，土巴兔“关怀”与“战备”两手抓](http://www.chanpin100.com/article/110879)
- > 种种措施将装修中“为数不多”的几个需要线下“接触”的环节，统统数字化、线上化。
- ## [如何在线将psd文件转化为透明png格式？免费在线ps编辑神器！](http://www.chanpin100.com/article/110885)
- > 不管是开发和运营，工作都会经常遇到png格式图片，从素材网上下载的大多数是psd格式，这就面临需要将psd格式的图片转化为png格式图片的问题，不能总是麻烦设计师帮忙，这种小事就自己搞定吧！不用下载ps，今天这篇文章将教你如何通过免费的在线ps神器，轻松将psd文件转化为透明png格式。
+ ## [公开课 | 对话腾讯产品经理系列之谈谈我压箱底的几道产品面试题](http://www.woshipm.com/active/3463159.html)
+ > 转眼三月就来了，虽然以往的金三银四求职季受疫情影响被推迟，但是不少产品新人已经开始投递简历、准备线上面试。然而，我们在起点学院产品经理的交流群里，仍然能看...
+ ## [新零售如何把握转化率的稳步提升？](http://www.woshipm.com/newretail/3473590.html)
+ > 转化的本质是在于商业化流量，如何高效的把用户操作行为转变成商业化行为，不断压缩用户决策时间产生更多的购买行为，是这篇内容我们重点来聊的话题。前两天跟行业朋...
+ ## [大众点评会员运营体系分析](http://www.woshipm.com/operate/969724.html)
+ > 本人产品经理&amp;吃货一枚，因为在大众点评中了一个质量很高的霸王餐，开始了自己的点评之旅，一度非常向往成为社区LV8大神，目前会员级别是LV6。出于职业原因，对大众...
+ ## [支付宝的运营，是怎么做的比市场还要好的？](http://www.woshipm.com/operate/3471858.html)
+ > 原来支付宝不仅是个支付产品和理财工具，还是市场运营的小能手。这篇文章从支付宝运营的特色方法论切入，从四个角度分享了产品运营的技巧；从事运营工作的小伙伴赶紧来...
+ ## [小程序直播上线，有人首次直播2小时就卖了113万！](http://www.woshipm.com/it/3465792.html)
+ > 小程序直播组件是「微信官方」提供的商家经营工具。商家通过直播组件，「可以在小程序中实现直播互动与商品销售的闭环」。目前收到公测邀请的商户，可以自行在小程序后...
+ ## [十几亿人不能出门，是时候学李佳琪单点破局了！](http://www.woshipm.com/it/3464293.html)
+ > 疫情蔓延中，我们难免陷入迷茫：今年的计划怎么做？要转型吗？要坚持吗？会被裁员吗？想要的太多，坚定的太少。本文帮你剖析2019年顶级网红李佳琦的成功之道，让你从中...
+ ## [给产品新人的 3 点建议](http://www.woshipm.com/zhichang/3471811.html)
+ > 不管什么时候，都有不少做产品时间不长的新人。作者经常收到很多提问，其实很多都是共性问题。为了统一回答，本文根据这些问题总结了 3 点建议，希望能给刚做产品的读者...
+ ## [构造一个支持精准推送的电视传媒投放系统](http://www.woshipm.com/pd/3449627.html)
+ > 如何构造一个支持精准推送的电视传媒投放系统呢？我想这篇文章可以给你答案~美人妆是一个以美颜相机为主要玩法，销售化妆品和护肤品的平台，有7500万左右的东南亚用户...
+ ## [淘宝直播竞品分析与优化策略](http://www.woshipm.com/evaluating/3468394.html)
+ > 近年来，直播与电商行业的融合越来越紧密，电商直播也越发成为顾客了解商业、商户吸引顾客消费的重要手段。那么电商直播产品众多，不同产品之间有何差异，优劣又有何分...
+ ## [线上课程｜4大特性、5大问题，带你深入微信小程序产品设计](http://www.woshipm.com/online/3473881.html)
+ > 如果你是关注行业趋势的产品经理，你一定注意到了这条新闻：微信开启小程序直播的公测，被邀请的商家可以在小程序后台直接开通直播功能，进而打通直播互动与商品销售的...
+ ## [倒推拼多多产品需求文档](http://www.woshipm.com/pd/3457952.html)
+ > 拼多多是一家专注于C2B拼团的第三方社交电商平台，用户通过发起和朋友、家人、邻居等的拼团，可以以更低的价格，拼团购买优质商品。本文关于拼多多的产品需求文档，一起...
+ ## [互联网巨头Google也有危机？](http://www.woshipm.com/it/3471883.html)
+ > 我们经常会提及Google，但是我们对Google真的了解吗？这篇文章将对Google进行一个全面的解读，阐述了Google的未来、优势和危机。虽然是2018年的文章，但是依然对了解Goo...
+ ## [智能化进阶，如何用文本语义理解技术优化推荐系统？](http://www.chanpin100.com/article/110895)
+ > 详解NLP在推荐系统中的5大应用
+ ## [手把手带你从零搭建人力资源系统（3）——招聘管理](http://www.chanpin100.com/article/110894)
+ > 本文将从人力资源管理六大模块之一的——招聘管理模块入手，结合企业招聘过程中的实际流程浅谈招聘相关的全流程产品设计方案。
+ ## [​疫情冲击下，汽车分时租赁行业的破局之路](http://www.chanpin100.com/article/110893)
+ > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。
+ ## [新冠疫情重压下，中国网约车行业的自救与转机](http://www.chanpin100.com/article/110892)
+ > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。
+ ## [宅家即战“疫”，美食社区如何烹饪宅经济](http://www.chanpin100.com/article/110891)
+ > 易观分析针对此次新冠肺炎疫情爆发下各行业的发展动态，策划了【全民“宅”家，数字化防疫指南】特别栏目，帮助行业从业者及企业认知当前疫情与经济环境下的行业发展趋势，探索用户需求与行为变化，为企业发展寻找更准确的切入点与机遇。
+ ## [看了那么多App，你有认真想过启动页吗？](http://www.chanpin100.com/article/110890)
+ > 启动动画一定不好吗？
+ ## [疫情催生“共享员工”热潮，是新风口还是自救圈？](http://www.chanpin100.com/article/110889)
+ > 共享经济是盈余或闲置资源基于互联网平台的社会化重新配置。
+ ## [三种运营方法，玩转零售小程序](http://www.chanpin100.com/article/110888)
+ > 重塑零售“人、货、场”，落地小程序精益运营
+ ## [产品经理日常：如何快速解决线上问题](http://www.chanpin100.com/article/110887)
+ > 线上问题，再怎么重视都不为过。
+ ## [手游出海台湾怎么玩？这份超详细攻略请查收！](http://www.chanpin100.com/article/110886)
+ > 这是腾讯、网易大佬不肯说的出海攻略！
 
     
