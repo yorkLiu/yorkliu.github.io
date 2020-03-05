@@ -1,134 +1,148 @@
 ---
 title: 2020-03-05 IT News
 copyright: true
-date: 2020-03-05 10:01:44
+date: 2020-03-05 12:02:03
 tags: IT NEWS
 categories: IT NEWS
 ---
+<details><summary><b>【起点学院早报】 2020年3月5日 星期四</b></summary><div class="news-list-content"><p>1.&#24494;&#20449;&#21457;&#24067;&#36829;&#35268;&#20844;&#31034;&#65292;&#35825;&#23548;&#19979;&#36733;&#21450;&#25289;&#21462;&#20851;&#31995;&#38142;&#20250;&#34987;&#24494;&#20449;&#8220;&#24378;&#25552;&#31034;&#8221;</p>
+<p>2.&#39640;&#36890;AI&#21019;&#26032;&#23454;&#39564;&#23460;&#33853;&#25143;&#20013;&#22269;&#26477;&#24030;&#65292;&#21161;&#21147;&#24403;&#22320;5G&#21644;AI&#20135;&#19994;&#21019;&#26032;&#21457;&#23637;</p>
+<p>3.&#28120;&#23453;&#30452;&#25773;&#23448;&#23459;&#21551;&#21160;3&#26376;&#8220;&#26149;&#25773;&#26376;&#8221;&#65292;100&#20301;&#21439;&#24066;&#38271;&#23558;&#21069;&#26469;&#30452;&#25773;&#24102;&#36135;&#20892;&#20135;&#21697;</p>
+<p>4.&#38463;&#37324;&#20581;&#24247;&#32852;&#21512;&#22825;&#29483;&#25512;&#20986;&#8220;&#24930;&#30149;&#31119;&#21033;&#35745;&#21010;&#8221;&#65306;&#26410;&#26469;3&#24180;&#36208;&#36827;10&#19975;&#20010;&#31038;&#21306;&#65292;&#35206;&#30422;1&#20159;&#24930;&#30149;&#20154;&#32676;</p>
+<p>5.&#22269;&#23478;&#21355;&#20581;&#22996;&#65306;&#27491;&#30740;&#31350;&#38271;&#25928;&#21307;&#30103;&#25937;&#21161;&#29289;&#36164;&#21644;&#35774;&#22791;&#20648;&#22791;&#26426;&#21046;</p>
+<p>6.&#28404;&#28404;&#65306;&#30123;&#24773;&#26399;&#38388;&#19981;&#20329;&#25140;&#21475;&#32617;&#30340;&#20056;&#23458;&#65292;&#21496;&#26426;&#26377;&#26435;&#25298;&#36733;</p>
+<p>7.&#21271;&#20140;&#22320;&#38081;&#24320;&#23637;&#39640;&#23792;&#26399;&#39044;&#32422;&#36827;&#31449;&#35797;&#28857;&#65292;&#23558;&#36880;&#27493;&#22312;&#38480;&#27969;&#31449;&#25512;&#24191;</p>
+<p>8.&#30418;&#39532;&#21457;&#24067;&#26071;&#19979;&#20027;&#25171;&#26377;&#26426;&#33756;&#30340;&#26032;&#21697;&#29260;&#8220;&#30418;&#39532;&#26377;&#26426;&#40092;&#8221;</p>
+<p>9.&#20154;&#33080;&#35782;&#21035;&#26234;&#33021;&#30828;&#20214;&#21644;&#35299;&#20915;&#26041;&#26696;&#25552;&#20379;&#21830;&#12300;&#39764;&#28857;&#31185;&#25216;&#12301;&#23436;&#25104;&#25968;&#21315;&#19975;&#20803;Pre-B+&#36718;&#34701;&#36164;</p>
+<p>10.&#25151;&#20135;&#20449;&#24687;&#25552;&#20379;&#24179;&#21488;&#12300;&#36125;&#22771;&#25214;&#25151;&#12301;&#23436;&#25104;&#36229;24&#20159;&#32654;&#20803;D+&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+<details><summary><b>【起点学院早报】 2020年3月4日 星期三</b></summary><div class="news-list-content"><p>1. &#22830;&#35270;&#12289;&#30334;&#24230;&#32852;&#21512;&#19978;&#32447;&#20844;&#30410;&#35270;&#39057;&#65292;&#29992;&#31185;&#26222;&#29401;&#20987;&#8220;&#39135;&#29992;&#37326;&#21619;&#8221;&#38475;&#20064;</p>
+<p>2. &#22825;&#29483;&#21457;&#24067;&#39318;&#26412;&#23448;&#26041;&#36141;&#29289;&#25351;&#21335;&#12298;&#22825;&#29483;V&#27036;&#24180;&#24230;&#21333;&#21697;2020&#12299;</p>
+<p>3. &#20013;&#28040;&#21327;&#65306;&#32593;&#28216;&#20005;&#31105;&#25797;&#33258;&#21464;&#26356;&#24050;&#21806;&#36947;&#20855;&#21450;&#20854;&#29305;&#25928;</p>
+<p>4. &#25991;&#26053;&#37096;&#65306;&#30123;&#24773;&#26399;&#38388;&#38750;&#22240;&#27861;&#23450;&#20107;&#30001;&#19981;&#24471;&#25552;&#21069;&#35299;&#38500;&#23548;&#28216;&#21171;&#21160;&#21512;&#21516;</p>
+<p>5. &#30334;&#24230;&#25512;&#19994;&#30028;&#39318;&#20010;&#23436;&#25972;&#20225;&#19994;AI&#20837;&#22330;&#35299;&#20915;&#26041;&#26696;&#65292;&#21161;&#21147;&#23433;&#20840;&#26377;&#24207;&#22797;&#24037;&#22797;&#20135;</p>
+<p>6. &#23567;&#31859;&#25104;&#31435;&#20135;&#34701;&#22823;&#25968;&#25454;&#20844;&#21496;&#65292;&#32463;&#33829;&#33539;&#22260;&#28041;&#21306;&#22359;&#38142;&#31561;&#19994;&#21153;</p>
+<p>7. &#24494;&#20449;&#22238;&#24212;&#8220;&#23553;&#26432;&#38025;&#38025;&#8221;&#65306;&#20581;&#24247;&#30721;&#26631;&#35760;&#21553;&#21475;&#20196;&#35302;&#21457;&#31649;&#29702;&#35268;&#33539;&#65292;&#30446;&#21069;&#24050;&#24674;&#22797;&#27491;&#24120;&#36339;&#36716;</p>
+<p>8.&#8220;&#20013;&#22269;&#29256;&#8221;&#29305;&#26031;&#25289;&#65306;&#21513;&#21033;&#21355;&#26143;&#39033;&#30446;&#24320;&#24037;&#65292;&#24180;&#20869;&#23558;&#21457;&#23556;&#21452;&#21355;&#26143;</p>
+<p>9. &#20108;&#23574;&#29923;&#20171;&#20837;&#27835;&#30103;&#20225;&#19994;&#12300;&#32445;&#33033;&#21307;&#30103;&#12301;&#33719;&#25968;&#21315;&#19975;&#32654;&#20803;B&#36718;&#34701;&#36164;</p>
+<p>10. &#33829;&#38144;&#21450;&#20250;&#21592;&#31649;&#29702;SaaS&#26381;&#21153;&#21830;&#12300;&#25463;&#20250;&#26131;&#12301;&#23436;&#25104;&#21315;&#19975;&#32423;&#20154;&#27665;&#24065;B&#36718;&#34701;&#36164;</p>
+</div>
+                        
+</details>
+
+<p>&nbsp;</p>
+
 # IT 新闻 
- ## [全国首个民企卫星智能AIT中心落户浙江台州，吉利全面布局商业卫星领域](http://mp.weixin.qq.com/s?src=11&timestamp=1583371804&ver=2197&signature=WYMobUoTo*0wQHtxpx6bhieIhVGwaHkF7362QJbazWfWRT*uY8JTSet8WltapfL0T-xNdDhGEllDbqONDNvUc2HEByd76jPFY9xXomiVgJBVjl3qJgJP4X3LD3P2q8mT&new=1)
+ ## [全国首个民企卫星智能AIT中心落户浙江台州，吉利全面布局商业卫星领域](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=WYMobUoTo*0wQHtxpx6bhieIhVGwaHkF7362QJbazWfWRT*uY8JTSet8WltapfL0h3wxBe7tmk6FmG--VL5X7sJu0IF-lo2i3qMzxrgFVcqRdH9xKFuouNWSVIJ8s7B0&new=1)
  > 3月3日，浙江省扩大有效投资重大项目集中开工仪式以视频会议形式举行。浙江省委书记车俊宣布开工，浙江省委副书记、省长袁家军讲话，浙江省委常委、常务副省长冯飞主持。台州分会场设在台州吉利卫星项目开工现场...
- ## [低速无人驾驶的第一次「大考」](http://mp.weixin.qq.com/s?src=11&timestamp=1583371804&ver=2197&signature=yGcX1YzMpA-6TCTzxzi*4lKIGrhnZANYNl225X13tmUoWLjw8STZ4Ci*p2DFAxUme6rMNlQ-mRmoVcOUMXkT*gOxRqxVqVVIok7HB8oDW6VdETVg64-mqJjleGT2ezzw&new=1)
- > 无人车被摁下加速键。数十辆无人清洁小车被投放到疫区、各地医院，它们或被改造，或被加装新功能，迅速在这些特定场景内完成它们的使命：清洁、消毒、配送药物、食物等必需品。疫情期间，无人清洁车能满足人们「...
- ## [软银支持的初创公司被禁止向中国出口美国技术](http://mp.weixin.qq.com/s?src=11&timestamp=1583371804&ver=2197&signature=l03u27505L6*aOQRodGmvP*os2AnIDydlRhb6*v7JYJORu7hg1D-3c08hXlQNtoy2rK2xUGRZsVoKGS8R6gmsbXlBcqXzvS3p8PbQVgYr67cfGhWN8O5qbYjAqwMiadb&new=1)
- > 文件显示，软银支持的初创企业CloudMinds已被禁止与中国共享源自美国的技术，这表明美国政府日益加大的管制力度将给科技公司及其投资者带来新的阻碍。作者｜木棉   校对｜Jurnan集微网原创文章，转载请留言集微...
- ## [\[招募令\]中国电信天翼智家启动智慧家庭生态合作招募 以科技赋能产业 助力复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1583371804&ver=2197&signature=C5qdSasAr6p8X7-pgWOFD9NzvGyh17SaqKkM05TDRB4ihWcsaW6tv139LtQZVzMxd4cmgjVHDMUTrBCT5r2FwIEU*DHcSY37G1iN-XBDg*f4BV5HsnXgwQXPfJts3V2M&new=1)
+ ## [买了3D打印机却不赚钱的3个原因](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=7RhNbryrJ3OWWEMVAmUJ363TZWui1Y*5XS9s7M-zseI2KHXGrXFRZHorCt2Gk-QY9gMEenMea2SKprAEcJgAEKVkcEjd1NXQwNJv6TLQ*wkZ5-xX6eblDjMkFYmqFME8&new=1)
+ > 到了2020年，增材制造终于成为一种成熟的技术，可以在越来越多的领域用于生产。在过去十年中，它完成了技术炒作周期的整个过程，开始逐渐走向应用生产。Pankl Racing Systems采用Formlabs技术生产的定制夹具系统...
+ ## [路由器在卧室，客厅信号弱?三招轻松提升Wi-Fi强度，秒开网页真舒服](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=wwWAyaKsO2v2t1oCbVHWfbC059u1xT8RnbvP0Sp5mi5rWN*q9T7reaSlX3sLNz8NNb3*UMa0xSU8Y2EaidoejhXLQKUysatHsaVlkGsG9MXAIfd1bOGFXl0*LakO*6r8&new=1)
+ > 好的生活，不难也不贵 不得不说，手机时当今时代的一个伟大发明，除了打电话发短信，还能聊天看视频玩游戏，可谓无所不能。 不过在互联网如此发达的时代，大家对手机网速的要求也越来越高，几乎每个家庭都有自己...
+ ## [\[招募令\]中国电信天翼智家启动智慧家庭生态合作招募 以科技赋能产业 助力复工复产](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=C5qdSasAr6p8X7-pgWOFD9NzvGyh17SaqKkM05TDRB4ihWcsaW6tv139LtQZVzMxhPtns*WcRzV2ZIdQ9WMIegPpxAlIcOQ7uHrCcO6kLCgUC9huC2orjdC6XznJq0Iv&new=1)
  > 3月4日，中国电信旗下天翼智慧家庭科技有限公司（简称天翼智家）启动智慧家庭生态合作招募，面向联盟生态合作伙伴和全社会科技创新企业，公开招募智慧家庭创新内容、终端与应用解决方案，通过积极搭建平台，以科...
- ## [华为最新5G室内数字化产品有何亮点?](http://mp.weixin.qq.com/s?src=11&timestamp=1583371804&ver=2197&signature=mombj9ymYaF8z3nJrnElcNxza2HrpE5TBNbZyjKvRTw5tudM7DQyw8DKbfeyNswMoA9u0EbysoBeuG32IiC8CXIv9O74V6csWZXnli20ncgtR972*uNdGTvyRGyS*unU&new=1)
+ ## [低速无人驾驶的第一次「大考」](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=yGcX1YzMpA-6TCTzxzi*4lKIGrhnZANYNl225X13tmUoWLjw8STZ4Ci*p2DFAxUmuvkI2ORJQumkJobeaOBbkv6uVJGQbE6eWEVG1FwfQicD6b*DOt*lj4F*QYm3DlJd&new=1)
+ > 无人车被摁下加速键。数十辆无人清洁小车被投放到疫区、各地医院，它们或被改造，或被加装新功能，迅速在这些特定场景内完成它们的使命：清洁、消毒、配送药物、食物等必需品。疫情期间，无人清洁车能满足人们「...
+ ## [软银支持的初创公司被禁止向中国出口美国技术](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=l03u27505L6*aOQRodGmvP*os2AnIDydlRhb6*v7JYJORu7hg1D-3c08hXlQNtoyoqErzqgx8CDNSWMfUa3XnYs-BY*4uDQnjHlDkAoJPlyf11fSZ2sX0-LMiHKlL4NK&new=1)
+ > 文件显示，软银支持的初创企业CloudMinds已被禁止与中国共享源自美国的技术，这表明美国政府日益加大的管制力度将给科技公司及其投资者带来新的阻碍。作者｜木棉   校对｜Jurnan集微网原创文章，转载请留言集微...
+ ## [华为最新5G室内数字化产品有何亮点?](http://mp.weixin.qq.com/s?src=11&timestamp=1583379031&ver=2197&signature=mombj9ymYaF8z3nJrnElcNxza2HrpE5TBNbZyjKvRTw5tudM7DQyw8DKbfeyNswMEqEhQ0btkEABiCRc3gq5bPzBUn3ol2XQckqBu*cthdAvijCNk0cMquDe3adbgRl0&new=1)
  > 5G商用伊始，5G火车站、5G机场、5G酒店、5G医院、5G购物中心、5G工厂等各种“5G+”正不断出现。它们都有一个共同的特点——室内场景。不言而喻，5G室内覆盖非常重要。但你有没有想过？做过室分的工程师们都知道...
 # IT 技术 
  ## [12种从单体架构向微服务转型的设计原则与优秀实践](http://developer.51cto.com/art/202003/611876.htm)
  > 12种从单体架构向微服务转型的设计原则与优秀实践
  ## [你再不知道分布式事务，我就真的生气了！](http://developer.51cto.com/art/202003/611896.htm)
  > 你再不知道分布式事务，我就真的生气了！
+ ## [头号威胁：2020年勒索软件重装上阵](http://zhuanlan.51cto.com/art/202003/611921.htm)
+ > 头号威胁：2020年勒索软件重装上阵
  ## [你敢相信？这8项AI技术已经实现……](http://ai.51cto.com/art/202003/611903.htm)
  > 你敢相信？这8项AI技术已经实现……
  ## [2020年最流行的Web浏览器是什么？](http://news.51cto.com/art/202003/611873.htm)
  > 2020年最流行的Web浏览器是什么？
- ## [解锁探索式测试：发展阶段、相关类型、优秀实践](http://developer.51cto.com/art/202003/611800.htm)
- > 解锁探索式测试：发展阶段、相关类型、优秀实践
- ## [Kafka架构原理，也就这么回事！](http://developer.51cto.com/art/202003/611798.htm)
- > Kafka架构原理，也就这么回事！
- ## [一文看懂：疫情冲击七大科技巨头 看他们如何应对](http://news.51cto.com/art/202003/611856.htm)
- > 一文看懂：疫情冲击七大科技巨头 看他们如何应对
- ## [东京奥运会，一场国家级黑客比赛？](http://zhuanlan.51cto.com/art/202003/611829.htm)
- > 东京奥运会，一场国家级黑客比赛？
- ## [Elasticsearch全攻略](http://developer.51cto.com/art/202003/611911.htm)
- > 时下不论是在全文搜索领域还是大数据即时处理领域ELK都一枝独秀，而ELK的核心在于Elasticsearch，ELK很秀源
- ## [无人数据中心何时到来仍需等待](http://network.51cto.com/art/202003/611909.htm)
- > 三年前，人们听到了很多关于“熄灯”数据中心设施的信息。这样的无人数据中心将变得完全自治，并且无需人工
- ## [这35个Java代码优化细节，你用了吗？](http://developer.51cto.com/art/202003/611910.htm)
- > 代码 优化 ，一个很重要的课题。可能有些人觉得没用，一些细小的地方有什么好修改的，改与不改对于代码的运
- ## [趣说数据库事务隔离级别与原理](http://database.51cto.com/art/202003/611908.htm)
- > 本文主要讨论数据库事务隔离级别与原理，接下来将会采用葫芦娃例子帮助理解。下面，我们一起来看。
- ## [5G助力，智能交通未来五大发展趋势浅析](http://network.51cto.com/art/202003/611907.htm)
- > 据相关调研报告预测，自2020年开始全球交通运输系统将进入快速发展阶段，无论是互联性还是网络性都比以往有
- ## [缓存雪崩，缓存穿透，缓存击穿出现的原因及解决方案?](http://stor.51cto.com/art/202003/611906.htm)
- > 假设有如下一个系统，高峰期请求为5000次/秒，4000次走了缓存，只有1000次落到了数据库上，数据库每秒1000
- ## [12个提高 JavaScript 技能的概念](http://developer.51cto.com/art/202003/611905.htm)
- > 本文介绍 JavaScript 至关重要的12个概念，但绝对不是说 JavaScript 开发人员只需要知道这些就可以了。
- ## [物联网与5G融合将如何塑造建筑业](http://iot.51cto.com/art/202003/611902.htm)
- > 物联网(IoT)正在改变建筑业的经营方式，使企业变得更快、更智能、更安全、更高效。
- ## [物联网传感器技术在农业花卉种植中的重大作用](http://iot.51cto.com/art/202003/611901.htm)
- > 随着物联网技术的发展，无线传感器网络技术和农业物联网技术逐渐应用于盆栽花卉育种管理中，下面，我们跟大
- ## [Android自定义View，敢说都知道吗？](http://mobile.51cto.com/android-611904.htm)
- > 在确定位置时，我们有一个非常需要主要的地方―― 坐标系。Android系统的坐标系和平时画的坐标系并不相同。
- ## [学会写作：自我进阶的高效方法](https://blog.csdn.net/wo541075754/article/details/104637587)
- > 学会写作：自我进阶的高效方法
- ## [Python全栈（五）Web安全攻防之5.sqlmap检索DBMS信息和SQL注入](https://blog.csdn.net/CUFEECR/article/details/104637404)
+ ## [今年一季度编程语言排行榜：Python与Java并驾齐驱](http://news.51cto.com/art/202003/611884.htm)
+ > 今年一季度编程语言排行榜：Python与Java并驾齐驱
+ ## [取代安卓？谷歌新系统Fuchsia OS即将杀青，详解C、C++等与Go的优劣势对比](http://mobile.51cto.com/anews-611881.htm)
+ > 取代安卓？谷歌新系统Fuchsia OS即将杀青，详解C、C++等与Go的优劣势对比
+ ## [如何在Linux下使用fstrim延长SSD驱动器的寿命](http://os.51cto.com/art/202003/611892.htm)
+ > 如何在Linux下使用fstrim延长SSD驱动器的寿命
+ ## [别用收费的Postman了，考虑一下免费开源的Postwoman](http://news.51cto.com/art/202003/611929.htm)
+ > API接口调试在开发过程中是非常重要的一个环节，大家都知道，Postman是一个非常受欢迎的API接口调试工具，
+ ## [关键业务上云，企业IT架构应该如何变革？](http://server.51cto.com/Prod-611928.htm)
+ > 所谓关键业务应用，是确保企业正常运作根本的IT应用，诸如制造企业的ERP、CRM，银行核心交易系统，医院HIS
+ ## [那些影响了几代程序员的编程书籍](http://developer.51cto.com/art/202003/611926.htm)
+ > 这些书并不会立马使你成为一名出色的程序员，但它们确实是影响了无数程序员的书籍，阅读这些书籍可以帮助开
+ ## [2020年，疫情之下5G建设是机遇还是挑战？](http://network.51cto.com/art/202003/611923.htm)
+ > 众所周知，2019年5G正式实现商用，那么在刚刚到来的2020年，一场突如其来的疫情再次让5G焕发光芒，基于此现
+ ## [如何精心规划数据库向云平台的迁移](http://cloud.51cto.com/art/202003/611920.htm)
+ > 如今，许多组织决定将其数据库迁移到云平台中。这是正确的做法吗?组织需要考虑应用程序类型、供应商锁定和
+ ## [MySQL 的 MRR 到底是什么？](http://database.51cto.com/art/202003/611922.htm)
+ > MRR，全称「Multi-Range Read Optimization」。简单说：MRR 通过把「随机磁盘读」，转化为「顺序磁盘读」
+ ## [我们一起走进Maven――知己知彼](http://developer.51cto.com/art/202003/611919.htm)
+ > 乍一看，Maven看起来有很多东西，但简而言之，Maven试图将模式应用于项目的构建基础架构，以便通过提供使用
+ ## [2020年应该认真对待的8种移动设备安全威胁](http://netsecurity.51cto.com/art/202003/611918.htm)
+ > 如今，移动设备安全已成为企业担忧的头等大事，这是有充分理由的：现在几乎所有员工通过智能手机访问企业的
+ ## [如何在 2020 年用 Java 安全编程](http://developer.51cto.com/art/202003/611916.htm)
+ > 一位名为 Sam Bocetta 的作者发表了一篇文章，针对在 2020 年使用 Java 进行编码时应遵循的五个原则进行了
+ ## [办公小技巧：Excel动态图表即点即变](http://news.51cto.com/art/202003/611912.htm)
+ > Excel中的常规图表往往是静态的，一般是在选择相应的数据后自动生成，演示时固定不变。不过遇到变化较多的
+ ## [Spring Cloud入门-Oauth2授权之基于JWT完成单点登录(Hoxton版本)](https://blog.csdn.net/ThinkWon/article/details/103766368)
+ > Spring Cloud入门-Oauth2授权之基于JWT完成单点登录(Hoxton版本)
+ ## [【供应链架构day4】途牛进销存架构的演进之路 - 从诞生到发展](https://blog.csdn.net/Ture010Love/article/details/104272695)
+ > 【供应链架构day4】途牛进销存架构的演进之路 - 从诞生到发展
+ ## [【面试宝典】 spring基础面试必问](https://blog.csdn.net/qq_16855077/article/details/103758263)
+ > 【面试宝典】 spring基础面试必问
+ ## [计算与数据结构篇 - 散列表(Hash)](https://blog.csdn.net/xuezhiwu001/article/details/104004108)
+ > 计算与数据结构篇 - 散列表(Hash)
+ ## [22种编程语言新年快乐](https://blog.csdn.net/hebtu666/article/details/104081360)
+ > 22种编程语言新年快乐
+ ## [阿里巴巴向全社会开放黑科技：“泡在水里”的服务器](https://blog.csdn.net/alitech2017/article/details/103859969)
+ > 阿里巴巴向全社会开放黑科技：“泡在水里”的服务器
+ ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
- ## [PyQt学习随笔：QTableWidget水平表头horizontalHeader、竖直表头verticalHeader的相关操作方法](https://blog.csdn.net/LaoYuanPython/article/details/104638577)
- > PyQt学习随笔：QTableWidget水平表头horizontalHeader、竖直表头verticalHeader的相关操作方法
- ## [Consul：12:使用容器方式构建Consul集群](https://blog.csdn.net/liumiaocn/article/details/104636827)
- > Consul：12:使用容器方式构建Consul集群
- ## [OAI SDR LTE 基站部署](https://blog.csdn.net/Jmilk/article/details/103195481)
+ ## [为了更好的代码，我写了一个工具：Coca](https://blog.csdn.net/gmszone/article/details/103692075)
  > 
- ## [图解Java设计模式之原型模式](https://blog.csdn.net/zhao1299002788/article/details/104633608)
- > 图解Java设计模式之原型模式
- ## [用Visual Studio 2017创建dll文件](https://blog.csdn.net/anguuan/article/details/104640541)
- > 用Visual Studio 2017创建dll文件
- ## [数据结构与算法之美-入门篇-11-排序](https://blog.csdn.net/winzjqwin/article/details/104632957)
- > 数据结构与算法之美-入门篇-11-排序
- ## [2019湖南省赛 双向链表练习题](https://blog.csdn.net/tomjobs/article/details/104642507)
- > 2019湖南省赛 双向链表练习题
- ## [python 使用yield 实现杨辉三角形](https://blog.csdn.net/qq_45227990/article/details/104642549)
- > python 使用yield 实现杨辉三角形
- ## [考试成绩分等级](https://blog.csdn.net/weixin_45849948/article/details/104641094)
- > 考试成绩分等级
- ## [IP地址和MAC地址](https://blog.csdn.net/Ven21959/article/details/104512657)
- > IP地址和MAC地址
- ## [python函数中*\[参数名\]和**\[参数名\]的用处](https://blog.csdn.net/write_1m_lines/article/details/104635431)
- > python函数中*\[参数名\]和**\[参数名\]的用处
- ## [SqlServer常用的几种分页查询SQL语句介绍、对比以及在.Net下的使用](https://blog.csdn.net/qq_42077395/article/details/104639145)
- > SqlServer常用的几种分页查询SQL语句介绍、对比以及在.Net下的使用
- ## [QT界面GUI设计之选择文件并显示](https://blog.csdn.net/weixin_44747240/article/details/104638567)
- > QT界面GUI设计之选择文件并显示
+ ## [三十而立~2019年终总结](https://blog.csdn.net/tuzongxun/article/details/104004186)
+ > 三十而立~2019年终总结
+ ## [一个程序员的自我修养和敬畏之心](https://blog.csdn.net/briblue/article/details/104181525)
+ > 
+ ## [达摩院2020十大科技趋势发布：多个技术领域将现颠覆性突破](https://blog.csdn.net/weixin_44326589/article/details/103850582)
+ > 
+ ## [力扣(LeetCode)刷题，简单题(第1期)](https://blog.csdn.net/m0_38106923/article/details/104101573)
+ > 力扣(LeetCode)刷题，简单题(第1期)
+ ## [马云酒吧揭秘](https://blog.csdn.net/gshengod/article/details/103658685)
+ > 马云酒吧揭秘
+ ## [2019年，CSDN上最受欢迎的10篇文章](https://blog.csdn.net/qing_gee/article/details/103814819)
+ > 
+ ## [你修改了样式，却要我手动清除游览器缓存，这是BUG！](https://blog.csdn.net/ljk126wy/article/details/103911421)
+ > 
  ## [战疫期，钉钉如何扛起暴增百倍的流量？](https://blog.csdn.net/csdnnews/article/details/104662294)
  > 作为一个在云上成长起来的产品，钉钉开启了在阿里云的资源扩容之路，满足了用户在家办公及在家上课的需求，保证了用户良好的体验，钉钉如何做到的？
-# 人工智能 
- ## [CentOS 7 下grafana源码编译并打包](https://blog.csdn.net/weixin_39371152/article/details/104631902)
- > CentOS 7 下grafana源码编译并打包
- ## [专访 Unbiased 创始人： 看准 偏见数据痛点  为企业提供干净数据服务](https://blog.csdn.net/EOSwriter/article/details/104637979)
- > 专访 Unbiased 创始人： 看准 偏见数据痛点  为企业提供干净数据服务
- ## [区块链开源实现Hyperledge Fabric（三）](https://blog.csdn.net/zhongliwen1981/article/details/104547551)
- > 区块链开源实现Hyperledge Fabric（三）
- ## [MarkDown学习笔记](https://blog.csdn.net/ALexander_Monster/article/details/104633769)
- > MarkDown学习笔记
- ## [Channel实现原理分析](https://blog.csdn.net/ITqingliang/article/details/104628760)
- > Channel实现原理分析
- ## [微信小程序点餐系统](https://blog.csdn.net/mygame668/article/details/104639704)
- > 微信小程序点餐系统
- ## [Libra为何而生？Facebook为何要给 Libra创建Move语言？Calibra技术负责人给出了回答...](https://blog.csdn.net/Blockchain_lemon/article/details/104624239)
- > Libra为何而生？Facebook为何要给 Libra创建Move语言？Calibra技术负责人给出了回答...
- ## [markdown笔记](https://blog.csdn.net/weixin_42386609/article/details/104335098)
- > markdown笔记
- ## [带你玩转区块链--以太坊框架truffle-第二章-第三节【以太坊篇】---未完待续](https://blog.csdn.net/Laughing_G/article/details/104633360)
- > 带你玩转区块链--以太坊框架truffle-第二章-第三节【以太坊篇】---未完待续
- ## [2020前端面试题 -----漫漫春招路(持续更新)](https://blog.csdn.net/qq_39897978/article/details/104636606)
- > 2020前端面试题 -----漫漫春招路(持续更新)
- ## [虚拟专用网络安全技术](https://blog.csdn.net/weixin_42313749/article/details/104619119)
- > 虚拟专用网络安全技术
- ## [ubuntu19.10安装阿里旺旺](https://blog.csdn.net/appleyuchi/article/details/104348521)
- > ubuntu19.10安装阿里旺旺
- ## [在MacOS上面通过brew命令安装gcc编译器集](https://blog.csdn.net/qq_33154343/article/details/104639656)
- > 在MacOS上面通过brew命令安装gcc编译器集
- ## [Fabric v1.x Idemix（Identity Mixer）介绍](https://blog.csdn.net/ice_fire_x/article/details/104639727)
- > Fabric v1.x Idemix（Identity Mixer）介绍
- ## [02_值类型与引用类型](https://blog.csdn.net/lsqzedu/article/details/104616708)
- > 02_值类型与引用类型
+ ## [春眠不觉晓，SQL 知多少？| 原力计划](https://blog.csdn.net/csdnnews/article/details/104666933)
+ > 作者 |董旭阳TonyDong责编| 伍杏玲出品 | CSDN博客封图 | CSDN付费下载于视觉中国SQL 的诞生一九七零年，那是一个夏天。有一位来自 IBM 圣约瑟研究实验室的高...
+ ## [GitHub 一周热点速览：手撕 LeetCode 一日 Star 破两千](https://blog.csdn.net/csdnnews/article/details/104666934)
+ > 作者 |HelloGitHub-小鱼干来源 |HelloGitHub封图 | CSDN付费下载于视觉中国摘要：上周 GitHub 趋势榜相较上上周就如同前股市一般，跌到不行，无论是新...
+ ## [国内外大厂集结，远程办公大考成绩单发布！](https://blog.csdn.net/csdnnews/article/details/104666935)
+ > 出品 | CSDN受疫情的影响，从2月初开始，大家都开启了远程办公模式，历经一个月的实践，我们发现，能适用于企业的「远程办公」模式并非想象中美好以及容易推进。这跟企业员工的思维模式、工作...
+ ## [Java 11 升级：“债务”“危机”](https://blog.csdn.net/csdnnews/article/details/104666928)
+ > 导读：AJDK11（阿里内部基于openJDK11的定制版本）在19年3月左右发布，到现在也快1年了，不过目前整体使用的面还是比较窄，特性被了解的也不是很多，Java11作为OpenJD...
+ ## [招聘数下降71%！程序员：你的努力正在毁掉自己！](https://blog.csdn.net/csdnnews/article/details/104666929)
+ > 最近，在我们收到很多CSDN读者的反馈：1、程序员是否有必要学 2 种技术语言？2、做开发，除了在专业方向的编码能力上，如何提升自己的竞争力？的确，这些问题，值得每一个程序员进行思考。而...
+ ## [数十亿个 Wi-Fi 设备存在缺陷，通信易被窃听！](https://blog.csdn.net/csdnnews/article/details/104666930)
+ > 作者 |DAN GOODIN译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：在最近的RSA安全会议上，研究人员表示，数十亿设备（其中许多已打补丁）...
+ ## [一篇就懂 Elasticsearch | 原力计划](https://blog.csdn.net/csdnnews/article/details/104666931)
+ > 作者 |mr_xinchen来源 | CSDN博客出品 |CSDN（ID:CSDNnews）Elasticsearch介绍Elasticsearch是一款基于Lucene的分布式全文...
+ ## [独家揭秘阿里自研飞天操作系统洛神平台如何支撑起 2684 亿全球大促！| 问底中国 IT 技术演进...](https://blog.csdn.net/csdnnews/article/details/104666932)
+ > 作者 |宗志刚 阿里云资深技术专家责编 | 屠敏出品 | CSDN（ID：CSDNnews）2019年双11当天总成交额2684亿，交易峰值54.4万笔/秒，成交量背后是单日970PB...
+ ## [微信回应钉钉健康码无法访问；谷歌取消年度 I/O 开发者大会；微软公布 Visual Studio 最新路线图 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/104666924)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
+ ## [Linux 会成为主流桌面操作系统吗？](https://blog.csdn.net/csdnnews/article/details/104666925)
+ > 整理 |屠敏出品 | CSDN（ID：CSDNnews）2020 年 1 月 14 日，微软正式停止了 Windows 7 系统的扩展支持，这意味着服役十年的 Windows 7，属于...
+ ## [Google 与微软的浏览器之争](https://blog.csdn.net/csdnnews/article/details/104666926)
+ > 浏览器再现“神仙打架”。整理 | 屠敏头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）从 IE 到 Chrome，再从 Chrome 到 Edge，微软与...
+ ## [云计算的未来是什么？](https://blog.csdn.net/csdnnews/article/details/104666927)
+ > 作者|阿文责编 | 郭芮一场突如其来的疫情使得很多人不得不宅在家里，这场疫情之中，很多线下实体店遭受了巨大的冲击，但是很多互联网企业却在这次疫情之中赚的盆满钵满。我们可以发现由于无法...
 # PM 
- ## [公开课 | 对话腾讯产品经理系列之谈谈我压箱底的几道产品面试题](http://www.woshipm.com/active/3463159.html)
- > 转眼三月就来了，虽然以往的金三银四求职季受疫情影响被推迟，但是不少产品新人已经开始投递简历、准备线上面试。然而，我们在起点学院产品经理的交流群里，仍然能看...
- ## [10个场景、40+案例，总结 APP 反馈设计](http://www.woshipm.com/pd/3463259.html)
- > 生活中处处是反馈，而这种普遍性更是延伸到了移动端与app上。同时，因为不同场景适用的反馈模式有所不同，那么我们需要认识不同场景的特性，并针对场景特性做出对应的反...
- ## [市场细分四大雷区，你踩中几个？](http://www.woshipm.com/marketing/3462891.html)
- > “不进行市场细分，企业的选择注定是盲目的”——Wendell R.Smith美国营销学家最早提出市场细分概念，它指导着企业的产品研发、定价、渠道、传播等一系列动作，市场细分...
- ## [给爆火的远程办公泼点冷水](http://www.woshipm.com/it/3466384.html)
- > 经历远程办公后，现在大多数企业与个人都开始复工了。大多数人庆幸终于回归正常的工作模式，远离吵闹的环境、低效的工作节奏了。那么远程办公究竟有什么缺点让大部分人...
- ## [裂变200万新用户，“真功夫” 会员小程序怎么做到的？](http://www.woshipm.com/operate/3428356.html)
- > 快餐品牌的竞争一向激烈，而作为中国本土品牌，它在历经三十年发展后，仍保持着活力与生机，并在互联网营销创新上取到了不错的成绩，那么真功夫是怎么做到的呢？我们可...
- ## [线上课程 | 要想做好引流、转化、复购，这些问题你一定要思考](http://www.woshipm.com/online/3471807.html)
- > 最近两三年，流量红利消失殆尽，越来越多的公司和个人开始做私域流量。做私域流量，许多公司和个人首先就卡在了第一步上——引流。引流没效果，很多朋友认为是因为自己...
  ## [究竟什么是批判性思维？《批判性思维》思维导图读书笔记](http://www.chanpin100.com/article/110884)
  > 所谓批判性思维就是透过表象看本质的一种思维技能。
  ## [普通人如何通过营销实现我们的目标呢？](http://www.chanpin100.com/article/110883)
