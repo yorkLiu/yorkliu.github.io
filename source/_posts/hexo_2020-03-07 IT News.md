@@ -1,19 +1,19 @@
 ---
 title: 2020-03-07 IT News
 copyright: true
-date: 2020-03-07 08:00:50
+date: 2020-03-07 09:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [学生家长给书记省长留言，办理回复来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1583537418&ver=2201&signature=MdEyJFPWEtz0DYxIm7*FlYFuzk*s8k2fP-ttMUkanR9ZqLoN9-hToqZtGWxJ66IAN14zFHqHkh*8LLBsX6pf1hX-5n5bWFTkbHhKdEW2uMoZsWWiRo7LcVjDY6fqon*2&new=1)
- > 夜航拍客招募啦！如果您有新闻线索，可以拨打045182898289，也可以在微信公众号给我们留言或直接发送您拍摄的照片和视频。也欢迎您加入“夜航拍客”大家庭，微信搜索 yehangpaike 加“新闻夜航”为好友，为我们...
- ## [牛津大学Proptech 2020:改变地产行业的12大通用技术盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1583537418&ver=2201&signature=UN5DLR4Tvi6POIyNQlEUha57pfCz1-kaCbLzmkuTapkVcX5dwO*qmSSOg9jWri6mkNxlIc*soRcEJQuklzApwqDICH6RnqHZzB9is36qLjRpmNewmjJe*uhXSXq6u2Vw&new=1)
+ ## [牛津大学Proptech 2020:改变地产行业的12大通用技术盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1583542804&ver=2201&signature=UN5DLR4Tvi6POIyNQlEUha57pfCz1-kaCbLzmkuTapk3a3BX7gmyAlGl*rWoG0FBZ5nquSPrdrMcDlgzi2kkOZ9x9805hovhASTm02f-rL8uqut0PqKf-n5rpTNUfZZE&new=1)
  > 房地产行业通常对采用并充分利用那些“外源技术”（即那些并非专门为PropTech和房地产应用设计的技术）的进展缓慢。为此，必须采取超越数字化的步骤，并且必须对行业运行的数据进行数字化处理。2020-03-02原文：...
- ## [中国首个上车量产的边缘AI芯片，开启国产替代的“征程”](http://mp.weixin.qq.com/s?src=11&timestamp=1583537418&ver=2201&signature=QiwaLe2bYomjsTVEQ2dCceGXkk5o97nUziMreoTnUBkH5hynW*967sR*Fnb1euEGdUdQQiSgR9pfoJQCcDoN9gTmZdlb4I-nZhF3WBORVQJXgrJI4MHjuleF6CanvtCc&new=1)
+ ## [中国首个上车量产的边缘AI芯片，开启国产替代的“征程”](http://mp.weixin.qq.com/s?src=11&timestamp=1583542804&ver=2201&signature=QiwaLe2bYomjsTVEQ2dCceGXkk5o97nUziMreoTnUBm-otzAYuXhl4idpFZKA9jUPnubii4wPtkkl1mBYxhnzarpx*cWuMbCAMxNtO4mVJQCEa919ny3yXAZvIcwtRdR&new=1)
  > 先得产量者得天下，率先实现国产替代，地平线已准备好“征程”。全文3818字，阅读约需7分钟文丨张伟超汽车从诞生至今已有一百三十多年历史。在长达一个多世纪的时间里，人类无时无刻不在想办法优化它的性能。但...
- ## [无数中国企业正拿命干这件事!](http://mp.weixin.qq.com/s?src=11&timestamp=1583537418&ver=2201&signature=TW8PpS7m18xIHyo50ufzm*J23I08OMAK9qrpW6uJnr1xh33LAnJQU7G0UHCWN-9lw-Pirt1u0xbOrQ0tKll73mgbR2fHs7p8vNPSEhqluFAC4hKV7cN7RJbN3D-tTroa&new=1)
+ ## [无数中国企业正拿命干这件事!](http://mp.weixin.qq.com/s?src=11&timestamp=1583542804&ver=2201&signature=TW8PpS7m18xIHyo50ufzm*J23I08OMAK9qrpW6uJnr1l4iXSmoyRuB0QhONe-kxRlbgehAKvI6iNE-4Vo1JA0KGCEXX46rA4sDTdbseWgn7Sa4pIIEPCgUgxz2zUpVUO&new=1)
  > &quot; 以工业互联网，“重启”全球第一大制造体系。                 作者：熊剑辉来源：华商韬略 （ID：hstl8888）复工潮来临，但受疫情影响，不少企业复工率，甚至低于30%。但2月3日，战疫正酣，浪潮智能工厂已恢...
+ ## [学生家长给书记省长留言，办理回复来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1583542804&ver=2201&signature=MdEyJFPWEtz0DYxIm7*FlYFuzk*s8k2fP-ttMUkanR86TQIg9XiVhL2ToQ7U12dUdE*3pZjXz5vgDf57AlvcOETg7qszrvPdg22MHDxkzPt7HNCIUtbX8VyJsvm0j7fe&new=1)
+ > 夜航拍客招募啦！如果您有新闻线索，可以拨打045182898289，也可以在微信公众号给我们留言或直接发送您拍摄的照片和视频。也欢迎您加入“夜航拍客”大家庭，微信搜索 yehangpaike 加“新闻夜航”为好友，为我们...
 # IT 技术 
  ## [“黑天鹅”羽下：AI在信息战场上的光影双面](http://ai.51cto.com/art/202003/612001.htm)
  > “黑天鹅”羽下：AI在信息战场上的光影双面
@@ -31,36 +31,38 @@ categories: IT NEWS
  > 2020年中国程序员薪资和生活现状调查报告
  ## [如何使用AI检测和对抗新冠病毒](http://server.51cto.com/HPC-611956.htm)
  > 如何使用AI检测和对抗新冠病毒
+ ## [2020年安全业界头疼的勒索软件](http://netsecurity.51cto.com/art/202003/612057.htm)
+ > 如今，随着网络技术的快速发展，安全问题也成为人们关注的焦点。接下来，本文将简单的介绍下勒索软件五大家
  ## [Spring Boot2 系列教程(三十)Spring Boot 整合 Ehcache](https://blog.csdn.net/u012702547/article/details/103470085)
  > 
  ## [面试官问你MyBatis SQL是如何执行的？把这篇文章甩给他](https://blog.csdn.net/qq_36894974/article/details/104132876)
  > 
  ## [在西雅图工作一年，口袋还剩多少钱？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103922107)
  > 在西雅图工作一年，口袋还剩多少钱？
- ## [多线程并发 (二) 了解 Thread](https://blog.csdn.net/WangRain1/article/details/103765325)
+ ## [动画：面试官问我 JS「变量提升」我头皮发麻，最后把这篇动画甩给了他](https://blog.csdn.net/qq_36903042/article/details/103502696)
  > 
+ ## [外国人眼里的李子柒难道不一样？ | Alfred数据室](https://blog.csdn.net/weixin_38753103/article/details/103625892)
+ > 外国人眼里的李子柒难道不一样？ | Alfred数据室
  ## [15分钟教你使用 Spring Boot Thymeleaf自定义一个的图床管理工具！](https://blog.csdn.net/qq_34337272/article/details/104274543)
  > 15分钟教你使用 Spring Boot Thymeleaf自定义一个的图床管理工具！
  ## [【推荐系统算法实战】 基于网页的 Notebook：Zeppelin 交互式数据分析](https://blog.csdn.net/universsky2015/article/details/103642362)
  > 【推荐系统算法实战】 基于网页的 Notebook：Zeppelin 交互式数据分析
- ## [多线程并发 (一)  了解 Java 虚拟机 - JVM](https://blog.csdn.net/WangRain1/article/details/103731546)
+ ## [LintCode题解|翻转矩阵后的得分](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103701760)
+ > LintCode题解|翻转矩阵后的得分
+ ## [15 个优秀开源的 Spring Boot 学习项目，一网打尽！](https://blog.csdn.net/u012702547/article/details/103506486)
+ > 
+ ## [计算机网络的核心概念](https://blog.csdn.net/qq_36894974/article/details/103778956)
  > 
  ## [互联网人每天要面对多少变态需求？](https://blog.csdn.net/xianaoshi/article/details/103900636)
  > 
- ## [15 个优秀开源的 Spring Boot 学习项目，一网打尽！](https://blog.csdn.net/u012702547/article/details/103506486)
- > 
+ ## [如何设计一个高可用系统？要考虑哪些地方？](https://blog.csdn.net/qq_34337272/article/details/104047453)
+ > 如何设计一个高可用系统？要考虑哪些地方？
+ ## [自学系列 | 就谈知识体系！](https://blog.csdn.net/qq_36903042/article/details/103917724)
+ > 自学系列 | 就谈知识体系！
  ## [行为者网络理论（ANT，Actor Network Theory）：一切皆是映射](https://blog.csdn.net/universsky2015/article/details/103798098)
  > 
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
- > 
- ## [技术总监灵魂一问：精通那么多技术，为何还是做不好一个项目？](https://blog.csdn.net/siyuanwai/article/details/104288364)
- > 
- ## [【搞定Jvm面试】 JDK监控和故障处理工具揭秘](https://blog.csdn.net/qq_34337272/article/details/103644552)
- > 
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [源码学习《7》Classloader 类加载机制 （热修复 2）实现篇](https://blog.csdn.net/WangRain1/article/details/103523301)
- > 源码学习《7》Classloader 类加载机制 （热修复 2）实现篇
+ ## [多线程并发 (四) 了解原子类 AtomicXX 属性地址偏移量，CAS机制](https://blog.csdn.net/WangRain1/article/details/103806859)
+ > 多线程并发 (四) 了解原子类 AtomicXX 属性地址偏移量，CAS机制
  ## [Linux 离奇磁盘爆满，如何解决？ | 原力计划](https://blog.csdn.net/csdnnews/article/details/104708126)
  > 作者 |一得的跋涉责编 | 伍杏玲出品 | CSDN博客对于 Linux 磁盘满的问题，我们通常的处理思路是用 du 查找可清理的大文件，然后临时删掉让磁盘使用率先降下来，从而尽快保证...
  ## [打开容器世界的大门： Docker、POD 初探](https://blog.csdn.net/csdnnews/article/details/104708130)
@@ -80,36 +82,36 @@ categories: IT NEWS
  ## [一位 Rust 开发者的 Go 初体验](https://blog.csdn.net/csdnnews/article/details/104708120)
  > 作者|Nick Cameron责编 | 郭芮过去几周，我一直在用 Go 语言编写程序。这是我首次在大型且重要的项目中使用 Go。在研究 Rust 的特性时，我也看了很多关于 Go 的...
 # 人工智能 
- ## [狠！32岁年薪50万：“谢谢复工把我裁掉！”](https://blog.csdn.net/csdngkk/article/details/104657178)
- > 狠！32岁年薪50万：“谢谢复工把我裁掉！”
- ## [我的两年考研路](https://blog.csdn.net/opooc/article/details/104623942)
- > 我的两年考研路
- ## [程序员的“钱”途在哪？而立之年又该何去何从](https://blog.csdn.net/qiulin_wu/article/details/104585969)
- > 
- ## [别再翻了，大学私藏实用工具/网站全在这里了！](https://blog.csdn.net/xia_yanbing/article/details/104634414)
- > 别再翻了，大学私藏实用工具/网站全在这里了！
- ## [如果你觉得你的文章没人看，请先看看这篇文章](https://blog.csdn.net/blogdevteam/article/details/104634758)
- > 如果你觉得你的文章没人看，请先看看这篇文章
- ## [01.从C到C++](https://blog.csdn.net/m0_45133894/article/details/104667488)
- > 01.从C到C++
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [带你走进Debug的世界（基于Eclipse、IntelliJ IDEA）](https://blog.csdn.net/weixin_43896318/article/details/104673363)
- > 带你走进Debug的世界（基于Eclipse、IntelliJ IDEA）
- ## [《时运赋》 送给坚持在路上的你](https://blog.csdn.net/qq_39390545/article/details/104668321)
- > 《时运赋》 送给坚持在路上的你
- ## [DayDayUp：那些属于程序猿江湖的鄙视链(看完别笑^~^，哈哈，haha)](https://blog.csdn.net/qq_41185868/article/details/104671678)
- > DayDayUp：那些属于程序猿江湖的鄙视链(看完别笑^~^，哈哈，haha)
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [关于前端的路。以及自身经历](https://blog.csdn.net/weixin_45516987/article/details/104683065)
- > 关于前端的路。以及自身经历
- ## [2020年，冯唐49岁：我给20、30岁IT职场年轻人的建议](https://blog.csdn.net/yellowzf3/article/details/103982287)
- > 
- ## [KMP 深入理解next数组](https://blog.csdn.net/qq_41280600/article/details/104684315)
- > KMP 深入理解next数组
- ## [超详细 C/C++ 学习路线分析：学好 C/C++，走遍天下都不怕](https://blog.csdn.net/weixin_46090358/article/details/104640250)
- > 超详细 C/C++ 学习路线分析：学好 C/C++，走遍天下都不怕
+ ## [面试 SQL整理 常见的SQL面试题：经典50题](https://blog.csdn.net/u010565545/article/details/100785261)
+ > 面试 SQL整理 常见的SQL面试题：经典50题
+ ## [pod报错"Back-off restarting failed container"解决办法](https://blog.csdn.net/sqhren626232/article/details/101013390)
+ > pod报错&quot;Back-off restarting failed container&quot;解决办法
+ ## [ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate](https://blog.csdn.net/lxw1844912514/article/details/100975571)
+ > ERROR 1055 (42000): Expression 1 of SELECT list is not in GROUP BY clause and contains nonaggregate
+ ## [SQL server怎么查找某个时间段（多个时间段）的第一个值 或 最后一个值（这里举例查找每小时的第一个值）（Convert详细方法）](https://blog.csdn.net/a1439775520/article/details/100945095)
+ > SQL server怎么查找某个时间段（多个时间段）的第一个值 或 最后一个值（这里举例查找每小时的第一个值）（Convert详细方法）
+ ## [PLSQL Developer新手使用教程（图文教程）](https://blog.csdn.net/weixin_44407691/article/details/101013989)
+ > PLSQL Developer新手使用教程（图文教程）
+ ## [Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException](https://blog.csdn.net/single_cong/article/details/101019146)
+ > Redis command timed out; nested exception is io.lettuce.core.RedisCommandTimeoutException
+ ## [MySql命令行基本语法](https://blog.csdn.net/wangyahua1234/article/details/100667956)
+ > MySql命令行基本语法
+ ## [mybatis-plus更新字段问题](https://blog.csdn.net/oDengTao/article/details/100704975)
+ > mybatis-plus更新字段问题
+ ## [Springboot整合Jpa，Repository 用法详解](https://blog.csdn.net/qq_15060345/article/details/100906891)
+ > Springboot整合Jpa，Repository 用法详解
+ ## [gitlab 分支合并 冲突处理](https://blog.csdn.net/magic_kid_2010/article/details/100977008)
+ > gitlab 分支合并 冲突处理
+ ## [linux odoo docker常用运维命令表](https://blog.csdn.net/qq_32394351/article/details/101056652)
+ > linux odoo docker常用运维命令表
+ ## [Sqoop](https://blog.csdn.net/BlessingXRY/article/details/101061117)
+ > Sqoop
+ ## [MySQL学生表、老师表、课程表和成绩表查询语句，全部亲测](https://blog.csdn.net/wq12310613/article/details/100705492)
+ > MySQL学生表、老师表、课程表和成绩表查询语句，全部亲测
+ ## [python mysql 存储过程 快速生成千万级测试数据](https://blog.csdn.net/ClassmateLin/article/details/100512822)
+ > python mysql 存储过程 快速生成千万级测试数据
+ ## [MySQL:\[Err\] 1292 - Incorrect datetime value: '0000-00-00 00:00:00' for column 'CREATE_TIME' at row 1](https://blog.csdn.net/sinat_40770656/article/details/101198274)
+ > MySQL:\[Err\] 1292 - Incorrect datetime value: &x27;0000-00-00 00:00:00&x27; for column &x27;CREATE_TIME&x27; at row 1
 # PM 
  ## [疫情之后，金融行业还有哪些机会？](http://www.chanpin100.com/article/110904)
  > 自疫情爆发以来，金融服务市场受到一定冲击。但在此冲击下，用户流量开始逐渐有意识的往线上迁移，金融科技优势得以凸显，加快行业数字化升级。随着疫情影响力逐渐减退，金融服务行业应如何从此次挑战中汲取经验，使其成为驱动行业进化的新动力？且面对疫情后的经济活动反弹该如何应对？
