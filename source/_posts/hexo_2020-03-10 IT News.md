@@ -1,7 +1,7 @@
 ---
 title: 2020-03-10 IT News
 copyright: true
-date: 2020-03-10 10:01:20
+date: 2020-03-10 12:02:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -69,57 +69,67 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [AI防疫表现亮眼 佳华科技网上路演火爆](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=DI44q*rizYMaNP7kX6k96*uHa3jzCmdkEbEv3c5Xh6M2-hoJ4ea-9JAyXB7ShTsTByjuvenOErbUAN6Ir08dYd9Obzz7KQGMXR9zFr20ehQ=&new=1)
+ ## [全彩色3D打印机，逼真到这种程度了](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=JC0SQf*5EPjy3eqEBskFog-AAbDR5eVKfcFRYHUdjwF9oL*8-Rjob2Lmpvv3-gb6iV3fvn9BS4dB5CTR5tFT5wZGFHvkeRfnyTqPkOaYuZIMq24vTBDnbwPALHGIs2HX&new=1)
+ > 南极熊导读：观看本次直播，你不但能了解当今逼真全彩3D打印技术；还有主播哥哥带你在线参观行业巨头Stratasys的3D打印展厅哦。△3D打印的耳机等产品，看起来已经非常逼真南极熊了解到，Stratasys J8全系3D打印...
+ ## [突破物联网界限未来可期(附完整白皮书下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=AHtEaKdxdoMjClqlzHWYg7oMMEpeQNoOjrH**sD7K8Q6NUAdtH7u2ZCPrLZN4VwXF2Yt7rM9rvfKEj3Y6rfE4A70tB7eJR6hlrMED1rl2Zcaz8N99lt1X7eC9wFbwDzl&new=1)
+ > 你知道吗？全球NB-IoT连接数量已突破一亿。作为物联网的主战场，作为面向5G持续演进的LPWA技术，NB-IoT在2020年将进入增长加速期。那么，NB-IoT有何关键特点？又有何竞争优势？来自沃达丰发布的《突破物联网界限...
+ ## [一块姨妈巾，能救回你的手机](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=Dy*pIrU7-Jx8PaeVkJtTdRiKnVtiXogPrQYa2o1C-vQS66n4bEPt2f9apvFdI0ne*BrzEgzxa2vzPteMJZueS2E3SXH7hCVRI3GYq2020t92fqyYsAoyU6NNjhk1stgz&new=1)
+ > 《窃听风云》看过吧？里面的高科技窃听手段可谓让人防不胜防。而上周在加利福尼亚举行的“国际网络和分布式系统安全”研讨会上，来自美国密歇根大学、内布拉斯加州林肯大学、美国圣路易斯华盛顿大学和中国科学院...
+ ## [8点见|iOS版微信将支持暗黑模式；携程创始人梁建章和CEO孙洁将领0薪](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=yU0KHvCTakppuVLBmCDYdr3tn0IZ5EAiUC6onwSm*DP69rqnvqZD4PF-yoE-aRJU4U*mMMXPqNq2Or-UKltZw*dS8L8efKFVDcdIgTdS3F4PnnVbGz8WxNj44ChY53Ns&new=1)
+ > 各位小伙伴们，早上好！2020年的第一个“超级月亮”在今天凌晨出现啦！不知道大家有没有拍到美美的月亮照片呢？近期南方多阴雨，没有看到的小伙伴也不要惋惜，因为今年4月8日还可以再观赏一次名副其实的超级月亮...
+ ## [航宇科技上月产值增五成多](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=jdLfpl8btsTaNUcLrHLMxU1VQETb*o1Ljm98C8478*HPQHJk4mpikRawnMBxmAFgzTMVAdvs5nDtwREHdz05bVZafh3cKiNeY*uHVCz4ZLw=&new=1)
+ > 本报讯 记者3月9日获悉，在“暖企政策”支持下，高新区企业贵州航宇科技发展股份有限公司在做好疫情防控的前提下，开足马力两班倒、抢任务，2月份产值达5217万元，同比增长53.49%。　　航宇科技是一家从事先...
+ ## [AI防疫表现亮眼 佳华科技网上路演火爆](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=DI44q*rizYMaNP7kX6k96*uHa3jzCmdkEbEv3c5Xh6OAFz6aSS5*nppAYXI0hMmcCdOw3sv9Rtt5yzIB*i-mIITL*Le29Ds0WyIr1AwZuCA=&new=1)
  > 3月9日上午，佳华科技在上证路演中心举行网上路演，公司董事长、总经理李玮携公司高管、保荐机构光大证券代表与投资者进行了深入交流。在3个小时的路演中，投资者轮番提问，涉及公司经营、研发创新、发展规...
- ## [聚焦OFC|亨通光电推出400G DR4硅光模块 推动下一代数据中心内部光连接发展](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=DppwNn2*AZ4HN3q*13tWVyIHG*s51EauTOZKu5PJ83*kbaPnRIjg7ZhrUfOKvBBXHEI5ynDXTcrMoKcn8Hglw230NYKCVsfdRyRZylwklyct2Pyn4a6981ogCmo6LxNP&new=1)
+ ## [聚焦OFC|亨通光电推出400G DR4硅光模块 推动下一代数据中心内部光连接发展](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=DppwNn2*AZ4HN3q*13tWVyIHG*s51EauTOZKu5PJ83*W*8KYjh5tD5GamtB3itw2aUzLfE9EDTT3fuQVXvz2Dxa1-uDNpCjp8Z0ZypT9OfWWnv9ZsAP7M22jsOPn2pi5&new=1)
  > 新闻导读OFC 2020前夕，亨通洛克利正式宣布推出其400G首款硅光模块——QSFP-DD DR4，该模块面向下一代数据中心网络中交换机和交换机之间的连接，可以提供低成本、低功耗的光连接方案。新产品将在OFC展会（展位号...
- ## [无人机大疆加码教育 这一次瞄准了00后](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=BgfhJPYx8-QlQUu8J0eHmlqv7S3-*gy2L3lTCofw3n330kC5hWhmWczZQBN7*pUwgOn5wYRPbIyrlwrR*qxxxzTsy8wsS40OK*qO4FaSm0Q=&new=1)
+ ## [无人机大疆加码教育 这一次瞄准了00后](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=BgfhJPYx8-QlQUu8J0eHmlqv7S3-*gy2L3lTCofw3n0rYUnjXz3U12LqunVgQG8oufDu8T80O4kOS1FZgJzD0yZtxj5qcf9F-CNSjQTKshg=&new=1)
  > 经济观察网 记者 沈怡然 继推出机甲大师S1之后，无人机独角兽大疆创新再一次加码教育业务，并将目标对准00后群体。3月9日，该公司推出了一套面向9-19青少年的机器人教育产品方案。该教育方案包括教育硬件和赛事...
- ## [你可能会错过的3个重要AI趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=x5zDBS7kt438Rlwu*M-vLowXMJYuD0XEVesGzwVwd1MmWrV7Wk9-awugxsqH*9OvYEIqQDXY6tT4Cc*hyrHEfD9VFt499jfOnlZtXZ9YTKGm10dD166qcar5eVVMI-3E&new=1)
+ ## [你可能会错过的3个重要AI趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=x5zDBS7kt438Rlwu*M-vLowXMJYuD0XEVesGzwVwd1MUSE*UMwgbnFh*FzYEBHgIOXA6-iVlgvYd8CAAGKSZQ*0bjieRGEiAeZA-6LYAk8EFDtXjXcpFtEaCXM6YTnEB&new=1)
  > 来源：雷锋网以下3个趋势，目前可能尚未引起注意，但长期来看会产生重大影响。根据Gartner的一项调查，到2020年底，全球48％的CIO将部署AI。尽管人们对AI和ML持乐观态度，但我仍然持怀疑态度。在可以预见的未来...
- ## [微软SurfaceProX国行正式发售丨Facebook要求员工取消非必要出差\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=iZjvgChAZGeNy-wIrWpM3SzvOeLCcF*C0kIqMoZT7QB0dsBr2MoI3bqpP3n0XbLV-sX*DwidpR6-p5TlAhXh6EDqphCHUfBZYu6PHsCtG5JLVqPQhi1c*3OvGSn880L9&new=1)
+ ## [微软SurfaceProX国行正式发售丨Facebook要求员工取消非必要出差\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=iZjvgChAZGeNy-wIrWpM3SzvOeLCcF*C0kIqMoZT7QClnEXiwLWpgTE0tUiNtaA7XNhtE-5UceEGcL8*bBEgZZ4mV06tzBXyJQViBA4fwfPuDbpKTPNUQOP*NM16Amno&new=1)
  > 3月09日丨周一【Do说】编辑 | 赵艾虎微软Surface Pro X国行正式发售：8488元起微软Surface Pro X采用13英寸2880 x 1920分辨率的PixelSense触控屏，拥有3:2屏幕比例，267 PPI以及14
- ## [2月份，国内手机市场出货量暴跌56%](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=qppWe6QOSohbb-8WGs0cxNsfwoOBEi4z2jV54To8RfbOc3h5eTsAP66Y2*JmSQuHQxzWV8dkXIwccLRAZjk8db3y2bkkGG8CNNgpSckwaLNps2X2AWE*Mas-bXqNH5OW&new=1)
+ ## [2月份，国内手机市场出货量暴跌56%](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=qppWe6QOSohbb-8WGs0cxNsfwoOBEi4z2jV54To8RfZfKN6A4kGSwvhI5FkDaHf-tjJ7*CucUG5YKMonezaBi7yJeqRwsWIL-jYAWu2T4AlNZVtA1d3ttC66OUlssomL&new=1)
  > 【摘要】2月，国内手机市场总体出货量638.4万部，同比下降56.0%。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：颜翊本文来源：C114通信网（C114-weixin）杂谈投稿邮箱：631255063@qq.com中
- ## [\[必看\]光刻机、操作系统、芯片、PA……中国亟待攻克的35项关键技术](http://mp.weixin.qq.com/s?src=11&timestamp=1583805603&ver=2207&signature=sVo3K8*jKZbwd6UUWp-keN3VX4ARTBY6kiUbvdoYZ4Pv5lbLrzSMTmVmcxUZIXtL8aX1BPgvSH6ulVC5WOKBaxZaBoqCDBydJ46zyMZysf6P22R7UGwpCIEN8EY*IzyR&new=1)
+ ## [\[必看\]光刻机、操作系统、芯片、PA……中国亟待攻克的35项关键技术](http://mp.weixin.qq.com/s?src=11&timestamp=1583812804&ver=2207&signature=sVo3K8*jKZbwd6UUWp-keN3VX4ARTBY6kiUbvdoYZ4M4FpoJzbbVeC5izuJqtkX0c9hKObO3Jkwz04cBqcP7nQxLTbgM7Tsv6oQqS-s5lcj-ssqzyb6MDJfJDhlSBSez&new=1)
  > 【视频，值得一看】↓↓↓↓↓除了那些核心技术，我们还缺什么？此前，科技日报社主办的“是什么卡了我们的脖子，亟待攻克的核心技术”科学传播沙龙上， 科技日报总编刘亚东做了一个题为“除了那些核心技术，我...
 # IT 技术 
  ## [想保护隐私?就关注这五大安全加密邮件提供商](http://netsecurity.51cto.com/art/202003/612180.htm)
  > 想保护隐私?就关注这五大安全加密邮件提供商
- ## [如何选择合适的Kubernetes发行版？](http://cloud.51cto.com/art/202003/612181.htm)
- > 如何选择合适的Kubernetes发行版？
  ## [30张图讲解HTTP，再不懂请来打我！](http://network.51cto.com/art/202003/612192.htm)
  > 30张图讲解HTTP，再不懂请来打我！
+ ## ["量子优越性"之后，谷歌强势开源量子版TensorFlow](http://news.51cto.com/art/202003/612229.htm)
+ > &quot;量子优越性&quot;之后，谷歌强势开源量子版TensorFlow
+ ## [如何选择合适的Kubernetes发行版？](http://cloud.51cto.com/art/202003/612181.htm)
+ > 如何选择合适的Kubernetes发行版？
+ ## [中国博士开发可交互全球疫情地图，登上柳叶刀，GitHub已有4500星](http://news.51cto.com/art/202003/612153.htm)
+ > 中国博士开发可交互全球疫情地图，登上柳叶刀，GitHub已有4500星
+ ## [换种监控姿势：基于深度学习+流处理的时序告警系统](http://netsecurity.51cto.com/art/202003/612196.htm)
+ > 换种监控姿势：基于深度学习+流处理的时序告警系统
  ## [浓缩精华的架构演进过程，我连看了六遍！](http://developer.51cto.com/art/202003/612051.htm)
  > 浓缩精华的架构演进过程，我连看了六遍！
  ## [用“小AI”解决人工智能的“大”烦恼](http://ai.51cto.com/art/202003/612113.htm)
  > 用“小AI”解决人工智能的“大”烦恼
- ## [一个模型击溃12种AI造假，各种GAN与Deepfake都阵亡，已开源](http://news.51cto.com/art/202003/612112.htm)
- > 一个模型击溃12种AI造假，各种GAN与Deepfake都阵亡，已开源
- ## [从技术转型做管理，我总结了这些套路！](http://news.51cto.com/art/202003/612058.htm)
- > 从技术转型做管理，我总结了这些套路！
- ## [如何分析和解读Apache Webserver日志?](http://server.51cto.com/sOS-611793.htm)
- > 如何分析和解读Apache Webserver日志?
- ## [5G网络建设80%：5G机器人即将迎来新转机](http://network.51cto.com/art/202003/612210.htm)
- > 近日，据央视新闻报道，中国在2月底之前已按照计划完成了80%的5G网络建设。3月6日，中国移动正式开始采购5G
- ## [浏览器中实现JavaScript计时器的4种创新方式](http://developer.51cto.com/art/202003/612207.htm)
- > 由于 Web Worker 本质上是Web线程，因此你可以在其中无限循环而不阻塞主线程。这使你可以访问微秒级的时间
- ## [浅谈 Java 虚拟机内存区](http://developer.51cto.com/art/202003/612206.htm)
- > 我们在编写程序时，经常会遇到 OOM（out of Memory）以及内存泄漏等问题。为了避免出现这些问题，我们首先
- ## [数字化转型如何影响CIO角色？](http://www.cioage.com/art/202003/612205.htm)
- > 在HMG Strategy 2020年硅谷全球创新峰会中，高管小组讨论并辩论了数字化转型对CIO角色的影响，他们都认同的
- ## [为勒索软件支付赎金增加 攻击量增加](http://netsecurity.51cto.com/art/202003/612204.htm)
- > 在上周举行的2020年RSA大会中，勒索软件攻击和防御是大家讨论的主要话题。大部分讨论集中在不断变化的威胁
- ## [运营商吹响5G终端冲锋号：“双夹”下，5G手机占比大幅提升](http://network.51cto.com/art/202003/612202.htm)
- > 在推动5G终端产业“向上”发展的道路上，作为5G终端发展的绝对推动者运营商既定的目标是怎样的?在疫情的克
- ## [疫情打乱国内5G建设计划，但到了运营商要做出牺牲的时候了](http://news.51cto.com/art/202003/612203.htm)
- > 2020年初，一场突如其来、席卷全国的疫情让中国社会按下了暂停键，长达数周的停工停业停产很可能将打断中国
- ## [2023年，超过40％的隐私合规技术将依赖AI](http://netsecurity.51cto.com/art/202003/612201.htm)
- > 根据Gartner的数据，到2023年，超过40％的隐私合规技术将依赖人工智能（AI），而目前这一比例仅5％。
- ## [12个惊人的Pandas和NumPy函数](http://developer.51cto.com/art/202003/612200.htm)
- > 今天，我将分享12个惊人的Pandas和NumPy函数，这些函数将使您的生活和分析变得比以前容易得多。 最后，您可
- ## [周芷若要练“九阴白骨爪”，程序员大呼：万万不可！](http://news.51cto.com/art/202003/612199.htm)
- > 程序员深知，自己今天编程写代码，与以前的江湖人士习武练功比起来，虽然路数不一样，可是道理却是相同的―
+ ## [程序员必知必会，学会这两点，提升系统鲁棒性](http://news.51cto.com/art/202003/612235.htm)
+ > 很多程序员，都希望提升自己系统的撸棒性，什么是撸棒性呢？这个其实是从英文直译过来的，就是程序员的健壮
+ ## [IT 行业薪水：系统和数据架构师、云工程师薪资最高；增长最快的技术 K8s](http://news.51cto.com/art/202003/612234.htm)
+ > 2018年至2019年期间，哪些职业的薪水和招聘岗位增幅最大？简短的回答是，让公司企业可以处理和分析数据、构
+ ## [2020年仿真软件的未来预测](http://news.51cto.com/art/202003/612232.htm)
+ > 近年来，仿真软件取得了长足的进步，2020年仍将继续保持这一发展趋势。而在这一年，将会出现许多定义上的转
+ ## [2020年值得关注的综合性网络监控工具](http://network.51cto.com/art/202003/612230.htm)
+ > 2019年，我们介绍了不少网络监控、性能监控和应用性能监控的工具。此文将从选择供应商的视角，梳理出一些综
+ ## [用机器学习分析完YouTube网红视频后，我发现了播放量暴涨的秘密](http://news.51cto.com/art/202003/612231.htm)
+ > join into data上两位作者 Lianne 和 Justin 做了一个硬核的技术分析。他们的分析对象是 YouTube 一个新近
+ ## [如何设置网络以防止数据丢失](http://netsecurity.51cto.com/art/202003/612226.htm)
+ > 很多组织的关键数据受到内部和外部威胁的威胁，因此需要了解配置Windows网络以防止数据丢失(DLP)的方法。
+ ## [2020 年，Vue 受欢迎程度是否会超过 React？](http://developer.51cto.com/art/202003/612227.htm)
+ > 前端框架的受欢迎程度每年都在增长， 如今，在较大型或者中型的项目，基本都需要使用框架来进行开发。前几
+ ## [调研了10家公司的技术架构，我总结出了一套大数据平台的套路](http://news.51cto.com/art/202003/612225.htm)
+ > 近年来，随着IT技术与大数据、机器学习、算法方向的不断发展，越来越多的企业都意识到了数据存在的价值，将
+ ## [新冠病毒的积极影响：远程办公是否代表着工作的未来形态？](http://news.51cto.com/art/202003/612223.htm)
+ > 在世界各地，虽然近年来关于远程办公的宣传力度不可谓不高，但大多数人仍然习惯于朝九晚五的作息安排。
+ ## [RSA 2020新品调研：解密改善安全运营效能的“法宝”](http://netsecurity.51cto.com/art/202003/612224.htm)
+ > RSA 2020在旧金山落下帷幕。大会期间共有41家安全厂商发布了新产品，涉及安全安全管理、威胁情报、安全开发
  ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
  ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
@@ -150,58 +160,84 @@ categories: IT NEWS
  > 
  ## [文档写作利器：Markdown](https://blog.csdn.net/xcbeyond/article/details/104303577)
  > 
+ ## [达摩院成立XG实验室！阿里官宣进军5G](https://blog.csdn.net/csdnnews/article/details/104768941)
+ > 记者获悉，阿里达摩院近日宣布正式成立XG实验室，该实验室致力于推动下一代网络通信技术的研究，现阶段主要聚焦5G技术和应用的协同研发。（5G将为各行业带来新一轮变革）相比5G基础技术，5G应用层的技术和生态发展相对滞后。达摩院方面表示，新成立的XG实验室将依托阿里的丰富应用生态，专注...
  ## [一站式快速实现应用现代化，IBM Cloud Pak做对了什么？ | 技术公开课](https://blog.csdn.net/csdnnews/article/details/104765640)
  > 一站式整合架构师、运维人员和开发者需求的开发平台正成为不可阻挡的发展趋势。如你所知，尽管Kubernetes已成为广受开发者欢迎的开发平台，但其本身还达不到“一站式”轻松开发的要求，开...
+ ## [硬核！30 张图解 HTTP 常见的面试题](https://blog.csdn.net/csdnnews/article/details/104765642)
+ > 作者 |小林coding来源 |小林coding在面试过程中，HTTP 被提问的概率还是比较高的。小林我搜集了 5 大类 HTTP 面试常问的题目，同时这 5 大类题跟 HTTP 的...
+ ## [国产 14nm 迎曙光，进口荷兰光刻机顺利入厂！](https://blog.csdn.net/csdnnews/article/details/104765646)
+ > 作者 | 马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）据羊城晚报报道，近日中芯国际从荷兰进口的一台大型光刻机，顺利通过深圳出口加工区场站两道闸口进入厂区，中芯国际发表...
+ ## [2020 版 Python 数据清理终极指南！](https://blog.csdn.net/csdnnews/article/details/104765648)
+ > 作者 | Lianne &amp; Justin译者 | 陆离出品 | AI科技大本营（ID:rgznai100）一般来说，我们在拟合一个机器学习模型或是统计模型之前，总是要进行数据清理...
+ ## [巴菲特谈新型冠状病毒、比特币、苹果公司的 18 个金句，值得一看！](https://blog.csdn.net/csdnnews/article/details/104765637)
+ > 作者 |Theron Mohamed翻译 | 火火酱，责编 | Carol出品 |区块链大本营（blockchain_camp)沃伦•巴菲特(Warren Buffett)在接受CN...
+ ## [30万行数据，Python 分析科比二十年职业生涯 | 原力计划](https://blog.csdn.net/csdnnews/article/details/104765641)
+ > 作者 |高羊羊羊羊羊杨来源 | CSDN博客头图 | 付费下载自视觉中国出品 | CSDN（ID:CSDNnews）前段时间，湖人当家球星 科比·布莱恩特不幸遇难。这对于无数的球迷来说...
+ ## [东京疫情数据开源当日斩获2k+ star，GitHub疫情项目源源不断](https://blog.csdn.net/csdnnews/article/details/104765644)
+ > 如果说上周的 GitHub 是股市附体 star 低迷不振，那么本周的 GitHub 像极了受到疫情影响而未开学的高校们，新生 GitHub 项少，能上 GitHub Trending ...
  ## [阿里华为百度三足鼎立，5G 资费高，操作系统 Linux 称王 | 中国物联网开发者真实现状报告...](https://blog.csdn.net/csdnnews/article/details/104765645)
  > 作者 | 崔原豪责编 | 唐小引出品 | CSDN（ID：CSDNnews）上世纪 50 年代，冯·诺依曼从与维纳（控制论创始人 Norbert Wiener）的谈话中，受到启发，引入了...
  ## [战疫内外，京东智联云如此“一鸣惊人”！](https://blog.csdn.net/csdnnews/article/details/104749331)
  > 本文为CSDN博主「L-JingJing」的原创文章。鼠年春节，一场疫情突如其来地打破了人们平静的生活；但在滨州，一款名为“疫情助手”的上线软件却为滨州市民的疫情生活带来“雪中送炭”的丝丝温情，细微知著中人们深深感受到了京东诠释而来的“ABCDE”技术战略以及那股子科技力量背后的温暖人心。...
+ ## [Java 14 新功能介绍！](https://blog.csdn.net/csdnnews/article/details/104765635)
+ > Java 14预定于3月17日发布。那么，14版究竟有什么新功能，对于整天写代码、维护代码的Java开发者来说，哪些功能最有用呢？作者 |Raoul-Gabriel Urma译者 |...
+ ## [天猫超市回应大数据杀熟；华为 Mate Xs 被热炒至 6 万元；Elasticsearch 7.6.1 发布| 极客头条...](https://blog.csdn.net/csdnnews/article/details/104765636)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
+ ## [时间复杂度的表示、分析、计算方法……一文带你看懂时间复杂度！](https://blog.csdn.net/csdnnews/article/details/104765639)
+ > 作者 |OverRedMaple责编 |Carol来源 | CSDN 博客封图 | CSDN付费下载于东方 IC如果你还在发愁究竟怎么计算时间复杂度和空间复杂度，那你是来对地方了！名...
 # 人工智能 
- ## [2020美赛F题解题思路（The Place I Called Home…）](https://blog.csdn.net/qq_42037420/article/details/104706956)
- > 2020美赛F题解题思路（The Place I Called Home…）
- ## [跑步（【CCF】NOI Online能力测试 入门组第二题）](https://blog.csdn.net/weixin_45884316/article/details/104720994)
- > 跑步（【CCF】NOI Online能力测试 入门组第二题）
- ## [TCP/IP协议就是这个玩意（不看也不影响拿到50K！但是程序员应该知道这些）持续更新中](https://blog.csdn.net/weixin_45950372/article/details/104702847)
- > TCP/IP协议就是这个玩意（不看也不影响拿到50K！但是程序员应该知道这些）持续更新中
- ## [一个计算机系学生的第一篇博客](https://blog.csdn.net/weixin_43997331/article/details/104708576)
- > 一个计算机系学生的第一篇博客
- ## [SIFT算法](https://blog.csdn.net/weixin_44060222/article/details/104725692)
- > SIFT算法
- ## [计算机视觉——SIFT图像匹配算法](https://blog.csdn.net/weixin_43822880/article/details/104702499)
- > 计算机视觉——SIFT图像匹配算法
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [墙裂推荐！B站上的Python学习资源](https://blog.csdn.net/qq_45172832/article/details/104693990)
- > 墙裂推荐！B站上的Python学习资源
- ## [2020美赛C题解题思路（A Wealth of Data）](https://blog.csdn.net/qq_42037420/article/details/104690107)
- > 2020美赛C题解题思路（A Wealth of Data）
- ## [写给大忙人看的操作系统](https://blog.csdn.net/qq_36894974/article/details/104554120)
+ ## [5G网络整体架构](https://blog.csdn.net/f2157120/article/details/104724798)
+ > 5G网络整体架构
+ ## [战疫期，钉钉如何扛起暴增百倍的流量？](https://blog.csdn.net/csdnnews/article/details/104662294)
+ > 战疫期，钉钉如何扛起暴增百倍的流量？
+ ## [nodejs入门到实战-02-webserver介绍和express框架初探](https://blog.csdn.net/wait436/article/details/104727450)
+ > nodejs入门到实战-02-webserver介绍和express框架初探
+ ## [2019年_BATJ大厂面试题总结-字节跳动篇](https://blog.csdn.net/qq_43107323/article/details/104746167)
+ > 2019年_BATJ大厂面试题总结-字节跳动篇
+ ## [mysql  查询 和    优化   总结](https://blog.csdn.net/xiamaocheng/article/details/104737550)
+ > mysql  查询 和    优化   总结
+ ## [数据库作业-SQL练习1](https://blog.csdn.net/qq_45265330/article/details/104732448)
+ > 数据库作业-SQL练习1
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [ELK+Kafka+Filebeat分析Nginx日志](https://blog.csdn.net/weixin_43334786/article/details/104732948)
+ > ELK+Kafka+Filebeat分析Nginx日志
+ ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
- ## [计算机视觉3—SIFT算法理解及实现](https://blog.csdn.net/qq_43653930/article/details/104651907)
- > 计算机视觉3—SIFT算法理解及实现
- ## [计算机视觉--SIFT特征提取与检索](https://blog.csdn.net/qq_41784565/article/details/104726166)
- > 计算机视觉--SIFT特征提取与检索
- ## [MPAndroidChart的详细使用——设置数据](https://blog.csdn.net/qq_44720366/article/details/104734117)
- > MPAndroidChart的详细使用——设置数据
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [面试官问我：什么是消息队列？什么场景需要他？用了会出现什么问题？](https://blog.csdn.net/qq_35190492/article/details/103153444)
+ > 
+ ## [Redis面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/103522351)
+ > 
+ ## [关于Spring boot重构Spring cloud项目的自定义Properties为空问题](https://blog.csdn.net/qq_33167006/article/details/104677840)
+ > 关于Spring boot重构Spring cloud项目的自定义Properties为空问题
+ ## [第十三周作业](https://blog.csdn.net/studywinwin/article/details/104623888)
+ > 第十三周作业
+ ## [这 10 点值得移动端开发重点学习](https://blog.csdn.net/u011240877/article/details/104744389)
+ > 
+ ## [网站的架构](https://blog.csdn.net/estarhao/article/details/104761965)
+ > 网站的架构
 # PM 
- ## [三个阶段，解析智能硬件产品经理的能力要求](http://www.woshipm.com/pmd/3487853.html)
- > 互联网产品经理只是产品经理中的一种，与之相对应的是工业产品经理。那么你对工业产品经理又了解多少呢？这篇文章将围绕着智能硬件讲述产品经理，从产品经理的初阶，中...
- ## [如何打造个人 IP，拥有个体品牌？](http://www.woshipm.com/marketing/3489227.html)
- > 随着融媒体时代的到来，个人IP的价值将在商业组织中发挥着举足轻重的作用，并有效帮你打造专业能力的护城河。如今的IP不再像「漫威、迪士尼、DC」那样需要漫长的打磨...
- ## [新家装——互联网家装的解药](http://www.woshipm.com/it/3482193.html)
- > 互联网时代中，互联网家装被贴上了众多“充满前景”的标签，吸引了无数人看好。不过在互联网家装热潮冷静过后，人们发现这个概念的本质就是获取流量的手段，别无其他。如...
- ## [做好用户分析，让你的工作事半功倍](http://www.woshipm.com/user-research/3489086.html)
- > 无论是对产品还是运营来说，用户分析的作用是毋庸置疑的，做好用户分享能帮我们明确产品规划、运营的方向，在正确的方向上一马平川。产品运营规划的困境很多人，看到...
- ## [Z世代的社交圈，需要慢慢“养”出来](http://www.woshipm.com/it/3493015.html)
- > Z世代是典型的互联网原住民，成长时期和互联网的高速渗透非常吻合，个性也令人捉摸不透，而正是让人捉摸不透的Z世代为社交创造了更多的可能性。帮我选个滤镜，照片配...
- ## [微信的“奇葩”设计真的奇葩吗？](http://www.woshipm.com/pd/3474662.html)
- > 笔者结合以往阅读过的文章以及自己对微信的不解之处，对微信的“奇葩”设计做出了思考与解析。笔者作为一个日常喜欢开开脑洞的人，我时常对于微信的一些设计感到不解，...
- ## [线上课程 | 野生互联网小白的产品转岗之路](http://www.woshipm.com/online/3494265.html)
- > 自从决心要入行产品经理，每一天都有了新的希望。本文分享来自产品经理就业特训营学员阿鸿，刚刚成功转型互联网产品经理的他，有不少入行心得要与你分享。大家好，我是...
+ ## [被10多个在线教育产品套路后，我摸出了转介绍引流的3个步骤](http://www.woshipm.com/operate/3493907.html)
+ > 本文就结合拆解十几家公司的转介绍引流体系得来的收获，深度剖析一下转介绍的本质逻辑和运营方法，希望能给在线教育从业者们一丝启发。作为教育培训行业的未来趋势，...
+ ## [全媒体运营师是做什么的？](http://www.woshipm.com/operate/3493095.html)
+ > 全媒体运营师到底是做什么的呢？全媒体运营师是指综合利用各种媒介技术和渠道，采用数据分析、创意策划等方式，从事对信息进行加工、匹配、分发、传播、反馈等工作的人...
+ ## [买房助手产品思路：大数据+机器学习=AI置业顾问](http://www.woshipm.com/pd/3486967.html)
+ > 在万物联网的互联网＋时代，我们能否用大数据与AI技术，为买房这一需求赋能，让人们的需求在买房助手的助力下更加便捷，更加智能？笔者的一系列产品构思证明，这个思路...
+ ## [供应链：WMS出库管理](http://www.woshipm.com/pd/3487954.html)
+ > 仓库系统的设计基本可以分为五个大模块，出库、入库、库内、基础资料、策略。在之前的文章中已经分享过库内管理了。本篇主要针对于出库管理进行分享，希望可以帮助到有...
+ ## [为什么你的产品做了没人用？](http://www.woshipm.com/pd/3487293.html)
+ > 在互联网行业工作多年，身边很多朋友包括自己都会遇到过，设计的时候觉得是个特别牛的产品，但是一上线却发现反响平平。为什么会遇到这要的情况呢？接下来，我们从注意...
+ ## [产品经理如何避开团队管理上的坑？](http://www.woshipm.com/pmd/3489325.html)
+ > 当产品经理进阶到一定程度时，势必要面临带领团队、管理团队的挑战。而面对性格各异、能力特长不同的团队成员，想要顺利管理成员却没有想象中那么简单。“管理是一场修...
+ ## [拆解亿级产品实操案例，了解增长到底在做什么？](http://www.woshipm.com/operate/3488284.html)
+ > 美颜相机，作为在同类产品中的佼佼者，获得了不少用户的青睐。而本文将分析帮助过美颜相机获得过持续每月百万级的用户增长策略，希望帮助大家进一步理解增长。这篇...
+ ## [线上活动 | SaaS 产品经理的修炼之道](http://www.woshipm.com/event/3495400.html)
+ > 直播介绍与 C 端产品人不一样，SaaS 产品人在工作中，往往面临的是一个完整的闭环业务。面对客户、销售以及市场上每天日新月异的大量需求，如何权衡业务链条里的场景与...
+ ## [营销：如何学会深度精通，提高抗风险能力？](http://www.woshipm.com/marketing/3478216.html)
+ > 疫情之下，没有什么特效药，个人和企业都要纯靠免疫力挺过来。如何提高自己的抗风险能力，是每个人的必修课。近期，很多人瞬间失业。这强迫大家去思考，我的核心竞争力...
+ ## [2020App出海指南：未来趋势、竞品拆解法以及跑不完的ab实验](http://www.woshipm.com/chuangye/3482906.html)
+ > 本文为一篇2020年APP的出海指南，主要从从APP的未来趋势，竞品拆解法以及跑不完的ab实验进行分析。对APP的出海这方面有兴趣的朋友们可以进来看一看。一、移动出海大环...
  ## [热点专题｜产品经理如何进行用户需求分析？](http://www.chanpin100.com/article/110931)
  > 什么是用户需求？为什么要进行用户需求分析？产品经理应该如何进行用户需求分析？
  ## [如何做好TOB产品？](http://www.chanpin100.com/article/110930)
