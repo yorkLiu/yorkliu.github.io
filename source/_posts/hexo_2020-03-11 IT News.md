@@ -1,7 +1,7 @@
 ---
 title: 2020-03-11 IT News
 copyright: true
-date: 2020-03-11 10:01:37
+date: 2020-03-11 12:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,57 +74,65 @@ koc &#31038;&#32676;&#32463;&#27982;&#30005;&#21830;&#24179;&#21488;&#8220;&#253
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [“纳米画笔”勾勒未来光电子器件](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=Vp-cw8qcpqyw1mbIu4s*MOdICqNosvwqBfsurG9vKbOUTDBmdQd3-8VfrEklFVMN5XBKoz5LUbfXIXoIWbCHrNwCzXFazmlIxwqC7SnclPYcqjt06G86G4vWAgjR-30a&new=1)
- > 如今人们的生活节奏在加快，对电子设备的要求也越来越高。各种新款电子设备都在变着法子表明自己功能更强大、体型更轻薄。然而，电子设备的功能越丰富、性能越强大，意味着这些设备单位体积中容纳的电子元件数目...
- ## [电信联通启动5G SA无线主设备联合集采：共约25万站](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=FhFXcNm344gWR-Ze244U8iqMhvROTAII9RaAXwiWiaknYU9*Hs7RwGW76zAfaEmS7BfZA*cnWxVSRzoB2-syZb7goIi86XLn58PF3TvTQcTZdPYQ*kxgHzYBKmIFxDE1&new=1)
- > 你方唱罢我登场。距离中国移动启动2020年5G二期无线网主设备集中采购，还不到一周的时间，中国电信和中国联通也积极行动起来。昨日（3月10日），中国电信和中国联通分别在各自官网发布了“2020年5G SA新建工程无...
- ## [中国移动92亿元5G承载大单落地，谁是最大赢家?](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=f-YUg977nmUEuW493HzFcLY0vfljLs1O4TJOxb1r9bsU6AebckhLl4B9ZzTDH1wN5XSdZirIcLGiy-kNmpRZyFdYO*Qr3dYYwNlhHCGmYynST5uHk0-viVXevxlTIvOo&new=1)
- > 3月9日，中国移动公布26省份的2020年-2021年SPN设备新建部分集采中标候选人，华为、烽火、中兴三家公司中标。具体中标情况如下：5G建设，承载先行。2020年伊始，中国在启动23万个5G基站和8大区/31省的5G SA核心...
- ## [关注|中国移动2020-2021年SPN设备新建部分结果公布 华为 中兴 烽火瓜分百亿集采](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=DljWj77ZIlcB5kj9ScFm4bzUTcarfRR6zdHkUCYGIh9OF38reDo0XDqU7Sv*gaIEHN4*MclyOkvlwZGvLh4DESYbJ*wlGPeRSPBksSkz9kJ6nc3xaAQ20sEomEY1d6je&new=1)
+ ## [意大利冠状病毒爆发封闭全国!黑客利用病毒恐慌袭击当地用户](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=NkgTsJyKfhAtMRDXLFYHgPRGZkENiUKz1UuMXlic69nZBmGyWto3j62FWID49eSA0wWpHMylLHLjOZN3cHQqn9NpLahXe2c4J9eCEepTEKN1XuLeoUqzEsFQ968VhU9r&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com    E安全3月11日讯，据《纽约时报》报道,意大利颁布的封闭式管理条令于当地时间3月8日下午正式生效。此时，一项新的勒索软件TrickBot正在利用意大利对冠状病...
+ ## [特斯拉自动驾驶车祸调查结果的背后，Autopilot系统是否被过度神话?](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=2si8z9g0NacoknnsuQwXwOzpdWv9BbxvU74rnCvQTHMV-6Gyjru4udxtnsMkFy6-spGKcwZD-hFxwOYJdlEF1ndtcs8ZZohde-llG2PyQpaRThnpB17wZYywJmyn4Iv9&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作特斯拉致死车祸的调查结果终于公布了。发生在2018年3月加利福尼亚州山景城附近的高速公路上的严重车祸，曾导致38岁的苹果软件工程师黄伟伦（Walter Huang）死亡。在事...
+ ## [关注|中国移动2020-2021年SPN设备新建部分结果公布 华为 中兴 烽火瓜分百亿集采](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=DljWj77ZIlcB5kj9ScFm4bzUTcarfRR6zdHkUCYGIh9OF38reDo0XDqU7Sv*gaIEuUsQhCvnNw9TM4Wql8OMSvGaa*nuDTWynwIkV4Tgh3MULcCDUJJlju1KXufiZleI&new=1)
  > 新闻导读中国移动公布2020-2021年SPN设备新建部分集采项目结果，该项目计划在28个省级分公司招标141133端SPN设备，而内蒙古移动和宁夏移动尚未公布集采结果，其余26省级分公司的集采招标全部被华为、烽火通信和...
- ## [数字化战“疫”：高德推进数字出行新基建](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=SWIPqTRON7ffCiYGgYbbnGIIHK5VesrFvbRpRvdsfdxS349lxAX*YIX28G6Vu5YoG5rFaUaR4WIUPrnVyj8JZAyZDLpYDnMDpry4GDA-XDFjQxwcM*6DhtWDOk5L4ZDK&new=1)
+ ## [《柳叶刀》确认第二位被治愈的 HIV 病人；滴滴上线跑腿服务；马斯克：我担心活不到 SpaceX 登陆火星|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=KT1XoQsmNRGXYYVtTAjzLeCl47gZIo*RwAN1szGIIXyOkS7aoYzNe3NLm-sXVOHDtktMzWfCjWIxH8svAc7vhBGviQjeU8mfI9DkU0FwBDpYnCbFVmUFHpmcdEbybc78&new=1)
+ > 滴滴在杭州成都试点跑腿服务，代驾司机成首批跑腿员2020 年 3 月 9 日，滴滴上线了「滴滴跑腿」业务，该项目由滴滴代驾团队负责，隶属滴滴普惠出行事业群。「滴滴跑腿」从立项到上线仅一周时间，目前代驾团队大...
+ ## [昂立教育周传有：衔枚疾进修炼内功 畅游在线教育“蓝海”](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=ywokWVY2MnF3HVjnJDS2zgmNEmzyXDSqHkZE8lzVp9R5RQxeK5nOG5biPfwqThSGnaVv78DKW0x0Cwk65qpPVgKOyJ3C32hi-fgIg0lvHj0=&new=1)
+ > 停课不停学，停课不停教。今年开学季，在线教育被推上风口。在这其中，因时而动的参与者或能更快拔得头筹。　　“疫情发生后，我们的信息部仅用7天时间就完成了全部平台的升级和扩容，各个业务板块也在第一...
+ ## [“纳米画笔”勾勒未来光电子器件](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=Vp-cw8qcpqyw1mbIu4s*MOdICqNosvwqBfsurG9vKbOUTDBmdQd3-8VfrEklFVMNRdaSixZyKJcLvH1FIq*RaUR10ElwrGXtvcZSHGDTlZgBtMkq4C5igClFBOsrhY6F&new=1)
+ > 如今人们的生活节奏在加快，对电子设备的要求也越来越高。各种新款电子设备都在变着法子表明自己功能更强大、体型更轻薄。然而，电子设备的功能越丰富、性能越强大，意味着这些设备单位体积中容纳的电子元件数目...
+ ## [电信联通启动5G SA无线主设备联合集采：共约25万站](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=FhFXcNm344gWR-Ze244U8iqMhvROTAII9RaAXwiWiaknYU9*Hs7RwGW76zAfaEmSYq*5KCOZOR5CZQxz4U1VqEsQq8FvHCk7*pLyQ1k2CccG4RrW8WPtXun1OAjnRLrb&new=1)
+ > 你方唱罢我登场。距离中国移动启动2020年5G二期无线网主设备集中采购，还不到一周的时间，中国电信和中国联通也积极行动起来。昨日（3月10日），中国电信和中国联通分别在各自官网发布了“2020年5G SA新建工程无...
+ ## [中国移动92亿元5G承载大单落地，谁是最大赢家?](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=f-YUg977nmUEuW493HzFcLY0vfljLs1O4TJOxb1r9bsU6AebckhLl4B9ZzTDH1wNFHzXRkh0PEIYwMfD44jjVzBVX-gImOhYAnslcqjpHci*JABR**l5QaKndRi-dkxr&new=1)
+ > 3月9日，中国移动公布26省份的2020年-2021年SPN设备新建部分集采中标候选人，华为、烽火、中兴三家公司中标。具体中标情况如下：5G建设，承载先行。2020年伊始，中国在启动23万个5G基站和8大区/31省的5G SA核心...
+ ## [数字化战“疫”：高德推进数字出行新基建](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=SWIPqTRON7ffCiYGgYbbnGIIHK5VesrFvbRpRvdsfdxS349lxAX*YIX28G6Vu5YoiHjfeQzkMvzL5njFTuWLN-Fpk4ESAMemzm*3gIrO0sZ3pGUvqO-hXWvFt2TBnjGV&new=1)
  > 阿里巴巴高德的工程师们火速上线一系列硬核功能用技术践行公益，助力战“疫” “每天早饭时，打开高德地图速览各地最新疫情；出门前，在地图上查询目的地人流热力图，通过公交地铁满载率查询的功能来决定出行方...
- ## [电信、联通30万5G基站合建计划落定 但相关设备却无法招标](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=Vj7ExW4wqL8v-7nv5O094rjzcIxYp18QXoNViI1zL0n9Nqv9I90EfOVr5GGZuASyUjlMLdXUupMXR6ldTDOVyVnq1MUW5t*XNBJystMxVyU=&new=1)
+ ## [电信、联通30万5G基站合建计划落定 但相关设备却无法招标](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=Vj7ExW4wqL8v-7nv5O094rjzcIxYp18QXoNViI1zL0liZ6IgKM09RacgTPtmTwcVVIJprGPdH4LdnITpkHUh5mr7Z9*psQKuRas2YmS4*j8=&new=1)
  > 经济观察网 记者 沈怡然 3月10日，经济观察网从中国电信、中国联通处获悉，两大集团在工信部加快5G发展专题会上公布了5G合建目标，即今年9月底，双方共同完成25万个5G基站的建设，并力争在年底前完成30万5G基站...
- ## [“新基建”火了，七大科技领域应发展新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1583892004&ver=2209&signature=vFGY2z1PWivwsYiLPh1uHvN-pj6M6n7Nbup8QmuglfwKUI8Y3vD8PnQNbP9-UlNCGoY2fdsTfyxkgq-mI2tm-aE0gmWY6LsusxFa9gLzZOj5HW*bE3bn96ajOAMyg2r8&new=1)
+ ## [“新基建”火了，七大科技领域应发展新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1583899204&ver=2209&signature=vFGY2z1PWivwsYiLPh1uHvN-pj6M6n7Nbup8QmuglfwKUI8Y3vD8PnQNbP9-UlNCOVu0vOZDzVEHgBTV716LKVNl7cdMnPiM6ihVJF5WmLVQcfyVZkhegZefYjU0JdEu&new=1)
  > &quot; 无论如何，在宏观政策、专家观点、产业需求、资本市场等因素的支撑之下，新型基础设施建设的确在当前呈现一片大好形势。2020 年，“新基建” 会彻底爆发吗？                 新型基础设施建设，彻底火了。3 ...
 # IT 技术 
  ## [分析GDPR罚款案例：谁吃到的罚单金额最高？](http://news.51cto.com/art/202003/612257.htm)
  > 分析GDPR罚款案例：谁吃到的罚单金额最高？
  ## [彻底消灭if-else，你需要这8种方案！](http://developer.51cto.com/art/202003/612278.htm)
  > 彻底消灭if-else，你需要这8种方案！
+ ## [1分钟出票5万张！阿里电影节抢票技术揭秘](http://zhuanlan.51cto.com/art/202003/612327.htm)
+ > 1分钟出票5万张！阿里电影节抢票技术揭秘
  ## [不看此文，别说你懂异常处理](http://developer.51cto.com/art/202003/612175.htm)
  > 不看此文，别说你懂异常处理
+ ## [程序员如何高效地进行开发工作？Facebook的10x效率，了解一下](http://news.51cto.com/art/202003/612307.htm)
+ > 程序员如何高效地进行开发工作？Facebook的10x效率，了解一下
  ## [钉钉终于承受不住大家沉重的爱，又崩了...](http://news.51cto.com/art/202003/612276.htm)
  > 钉钉终于承受不住大家沉重的爱，又崩了...
  ## [想保护隐私?就关注这五大安全加密邮件提供商](http://netsecurity.51cto.com/art/202003/612180.htm)
  > 想保护隐私?就关注这五大安全加密邮件提供商
- ## [30张图讲解HTTP，再不懂请来打我！](http://network.51cto.com/art/202003/612192.htm)
- > 30张图讲解HTTP，再不懂请来打我！
- ## ["量子优越性"之后，谷歌强势开源量子版TensorFlow](http://news.51cto.com/art/202003/612229.htm)
- > &quot;量子优越性&quot;之后，谷歌强势开源量子版TensorFlow
- ## [如何选择合适的Kubernetes发行版？](http://cloud.51cto.com/art/202003/612181.htm)
- > 如何选择合适的Kubernetes发行版？
- ## [苹果正对iOS 14界面大调整：新设计、新操作方式、新玩法](http://news.51cto.com/art/202003/612299.htm)
- > 据外媒最新报道称，iOS 14除了会加入诸多新功能外，苹果还会对系统的界面进行调整，整体上来说就是让大家
- ## [如何使每个人的IT现代化？](http://news.51cto.com/art/202003/612298.htm)
- > 拥有现代IT就是拥有使用现代技术，组件和体系结构的IT 。这种对现代性的追求必须在考虑周全的框架内进行，
- ## [亚马逊如何利用物联网来照顾员工](http://iot.51cto.com/art/202003/612296.htm)
- > 生病总会发生，获得护理对帮助人们保持健康至关重要。鉴于有很多人将智能手机放在触手可及的地方，因此领先
- ## [微软对 Windows 10 收集用户数据的方式进行了更改](http://os.51cto.com/art/202003/612295.htm)
- > 微软最近向 Windows 10 Insider 频道发布了一个新版本，版本号达到 19577。该版本进行了一系列更改，其中一
- ## [三大运营商再次打响流量价格战，说好的“5G价格同盟”烟消云散](http://news.51cto.com/art/202003/612297.htm)
- > 如果运营商能在5G上拿出入口级产品，或者平台级产品，从而基于平台级产品构建新型生态体系，这样面向普通客
- ## [Java14带来了5项新特性，能支持H5文本开发了](http://developer.51cto.com/art/202003/612293.htm)
- > Java 14预定于3月17日发布。那么，14版究竟有什么新功能，对于整天写代码、维护代码的Java开发者来说，哪些
- ## [企业面临这些网络攻击风险，却很少采取预防措施？](http://netsecurity.51cto.com/art/202003/612294.htm)
- > 尽管企业在移动设备上遭受网络攻击的风险越来越高，但是许多企业并未采取措施来保护他们的智能手机和平板电
- ## [疫情期间大火 远程办公是否会“昙花一现”？](http://news.51cto.com/art/202003/612292.htm)
- > 截止3月9日，我国每日新增确诊病例降至两位数，除湖北外，大部分地区已经复工，此前大热的远程办公系统是否
- ## [在微信小程序中使用async/await](http://developer.51cto.com/art/202003/612290.htm)
- > 微信小程序中有大量接口是异步调用，比如 wx.login()、wx.request()、wx.getUserInfo() 等，都是使用一个对
- ## [Session：一款不需要电话号码的开源通信应用](http://os.51cto.com/art/202003/612288.htm)
- > Signal 作为一款私人通信应用，正在变得愈发流行。而我们下面要介绍开源应用 Session 则是 Signal 的一个复
+ ## [30张图讲解HTTP，不信你还不会](http://network.51cto.com/art/202003/612192.htm)
+ > 30张图讲解HTTP，不信你还不会
+ ## [深入理解Linux的CPU上下文切换](http://os.51cto.com/art/202003/612332.htm)
+ > 根据任务的不同，CPU 的上下文切换可以分为几个不同的场景，也就是：进程上下文切换、线程上下文切换、中断
+ ## [微软宣布成功破坏已感染了全球900万台PC的Necurs僵尸网络](http://netsecurity.51cto.com/art/202003/612330.htm)
+ > 微软昨日宣布成功破坏了Necurs恶意软件的僵尸网络，该僵尸网络已感染了全球超过900万台计算机，并劫持了其
+ ## [网络安全保险？看看它对企业到底能起到什么作用](http://netsecurity.51cto.com/art/202003/612329.htm)
+ > 具体的分析和响应，是基于目标公司的保险条款明确承保的内容所定。假设该企业拥有针对勒索软件事件的保单，
+ ## [冠状病毒将如何改变技术以及企业需做的5件事](http://network.51cto.com/art/202003/612328.htm)
+ > 一些新闻报道指出，疫情将会对工作场所科技文化产生重要影响。但从长远来看，这种影响是好是坏还十分明确。
+ ## [多云世界的SD-WAN需求](http://network.51cto.com/art/202003/612324.htm)
+ > 随着多云世界的出现，软件定义广域网(SD-WAN)供应商必须升级其平台，以确保安全可靠的SD-WAN连接到云计算服
+ ## [官方病毒？伊朗新冠防控APP遭谷歌商店“零证据”下架](http://zhuanlan.51cto.com/art/202003/612325.htm)
+ > 近日Google从官方Play商店下架了伊朗政府开发的新冠病毒测试跟踪APP――AC19。
+ ## [物联网如何快速制胜](http://iot.51cto.com/art/202003/612322.htm)
+ > 然而，巨大的灵活性和可扩展性是物联网比较强大大的品质之一，并且完全有可能通过物联网技术来获得快速且有
+ ## [Windows 10 X模拟器镜像迭代到19578：支持Win32程序沙盒运行](http://os.51cto.com/art/202003/612323.htm)
+ > Windows 10 X模拟器镜像迭代到19578：支持Win32程序沙盒运行在补丁日这天，除了为Windows 10分发补丁，微
+ ## [在 Linux 命令行中转换大小写](http://os.51cto.com/art/202003/612320.htm)
+ > 有很多方法可以在 Linux 命令行中将文本从小写更改为大写，反之亦然。实际上，有一组这样的命令可以选择。
+ ## [抗疫期间，等保工作开展指南](http://netsecurity.51cto.com/art/202003/612315.htm)
+ > 一直以来等级保护测评由于涉及的均为生产环境，采取了更多的现场测评方式，那么新冠肺炎疫情期间，在不见面
  ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
  ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
@@ -141,12 +149,12 @@ koc &#31038;&#32676;&#32463;&#27982;&#30005;&#21830;&#24179;&#21488;&#8220;&#253
  > 
  ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
  > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
+ ## [插入或者更新的并发情况处理](https://blog.csdn.net/hanruikai/article/details/103514513)
+ > 插入或者更新的并发情况处理
  ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
  > 
  ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
  > 这些软件太强了，Windows必装！尤其程序员！
- ## [15 个优秀开源的 Spring Boot 学习项目，一网打尽！](https://blog.csdn.net/u012702547/article/details/103506486)
- > 
  ## [APP-细说APP网络深度优化与网络安全](https://blog.csdn.net/u014220518/article/details/103893281)
  > APP-细说APP网络深度优化与网络安全
  ## [【程序人生】程序员接私活常用平台汇总](https://blog.csdn.net/dengjin20104042056/article/details/103930275)
@@ -177,25 +185,58 @@ koc &#31038;&#32676;&#32463;&#27982;&#30005;&#21830;&#24179;&#21488;&#8220;&#253
  > 作者 |阿里文娱前端开发专家芃苏责编 | 屠敏头图 | CSDN 下载自视觉中国引言▐前端构建工具的演变回想在2015-2016年的时候，开发者们开始渐渐把视线从大量使用Task ...
  ## [为什么说这 5 大趋势，开发者不容错过？](https://blog.csdn.net/csdnnews/article/details/104788068)
  > 作者 | Michael责编 | 屠敏头图 | CSDN 下载自视觉中国出品 | CSDN（ID：CSDNnews）以下为译文：作为开发人员，不断更新自己的技能栈是非常重要的。我们不仅要...
+# 人工智能 
+ ## [挂“学习通”网课视频的正确姿势](https://blog.csdn.net/weixin_40973138/article/details/104748957)
+ > 挂“学习通”网课视频的正确姿势
+ ## [配置NODE开发环境使用vue-cli脚手架搭建VUE—Admin项目](https://blog.csdn.net/qq_38795430/article/details/104746999)
+ > 配置NODE开发环境使用vue-cli脚手架搭建VUE—Admin项目
+ ## [五个优秀的 Go 语言开源项目](https://blog.csdn.net/u014374009/article/details/104767114)
+ > 
+ ## [新建和保存校验名称是否重复](https://blog.csdn.net/qq_17589751/article/details/104768158)
+ > 新建和保存校验名称是否重复
+ ## [听Polychain Capital创始人Olaf Carlson- Wee讲述他为何愿意为Celo背书](https://blog.csdn.net/Block72/article/details/104749005)
+ > 听Polychain Capital创始人Olaf Carlson- Wee讲述他为何愿意为Celo背书
+ ## [证券中 A、B、C、D字头账号分别代表什么？](https://blog.csdn.net/qq_38998213/article/details/104773675)
+ > 证券中 A、B、C、D字头账号分别代表什么？
+ ## [Flutter(二十四)——参数回传](https://blog.csdn.net/liyuanjinglyj/article/details/104730330)
+ > Flutter(二十四)——参数回传
+ ## [实现Promise](https://blog.csdn.net/qq_41709082/article/details/104731726)
+ > 实现Promise
+ ## [自用live2d制作](https://blog.csdn.net/Pipomi_/article/details/104748163)
+ > 自用live2d制作
+ ## [Pi Network，有可能成为手机中的BTC吗？](https://blog.csdn.net/JackMan8/article/details/104776112)
+ > Pi Network，有可能成为手机中的BTC吗？
+ ## [手把手教你微信彻底删除聊天记录的方法，将你的“小秘密”封锁起来！](https://blog.csdn.net/weixin_45577612/article/details/104772793)
+ > 手把手教你微信彻底删除聊天记录的方法，将你的“小秘密”封锁起来！
+ ## [一文读透GO语言的哈希表](https://blog.csdn.net/BEYONDMA/article/details/104752147)
+ > 
+ ## [docker 笔记](https://blog.csdn.net/qq_28808697/article/details/104753314)
+ > docker 笔记
+ ## [Ubuntu18.04安装Dlib-19.19.0成功（亲测成功）](https://blog.csdn.net/u012080433/article/details/104752436)
+ > Ubuntu18.04安装Dlib-19.19.0成功（亲测成功）
+ ## [2020年阴历二月十六 读书笔记之漫步华尔街行为金融学](https://blog.csdn.net/csdnhsh/article/details/104747263)
+ > 2020年阴历二月十六 读书笔记之漫步华尔街行为金融学
 # PM 
- ## [如何评测语音助手的智能程度（1）：从意图理解模块入手](http://www.woshipm.com/ai/3484227.html)
- > 本文重点定义和讨论第一大模块【意图理解】，即是否能够理解/识别用户表述的意图。笔者以为，这个模块是衡量AI智能与否的核心维度，并将为大家揭晓评测维度与指标。从...
- ## [做产品，你要“伤害”谁？](http://www.woshipm.com/pmd/3478194.html)
- > 在App store上，为什么钉钉的用户评分只有2.6分，企业微信3.4分，字节跳动的剪辑神器却有4.9分？这背后，藏着一个本质的秘密：做产品，你选择“伤害”谁，满足谁？《故...
- ## [疫情下，电商与品牌如何玩转3.8节日营销？](http://www.woshipm.com/marketing/3489161.html)
- > 往年的3.8往往热闹非凡，电商平台与品牌都积极推出多样玩法参与节日营销。但今年受制于疫情，各方的动作都有所变化，那么具体表现为什么呢？笔者将为大家揭晓。3.8女...
- ## [社群运营（2）：社群运营既不是微信群也不是神话](http://www.woshipm.com/operate/2833494.html)
- > 微信、微博、抖音、贴吧、这些产品就像一根根的大树，社群运营就是这些大树上的爬山虎，分销裂变就是这爬山虎的枝枝蔓蔓。所以树是什么样子的爬山虎就是什么样子的，枝...
- ## [B端产品，如何做产品详细方案设计？](http://www.woshipm.com/pd/3497209.html)
- > 本文作者详细的描述了，一个产品经理在做B端（后端）的详细的方案设计时的思考以及工作的流程，enjoy~一、前言有一天被老板拉进了一个微信群，上游渠道的对接群，然...
- ## [以Wonderpay为例，解读线上支付的产品设计](http://www.woshipm.com/pd/3478274.html)
- > 用纸币付款正在变得过时，更多人选择无现金支付。而在无现金支付中，除简单的付款流程外，有些现金返还优惠也很有趣。总体来说，大量无现金支付产品浮出水面，并试图最...
- ## [这是up主最好的时代：她复工首日被裁员，视频却狂揽100万播放量](http://www.woshipm.com/it/3490079.html)
- > 谣言和杞人忧天的怀疑会加剧我们的恐惧和疑虑。但一位聪明的投资者知道，看似最糟糕的时代实际上却是赚钱的最佳时代。当别人都因为太恐惧而不敢行动时，他们却先发制人...
- ## [产品经理如何用数据驱动产品迭代？](http://www.woshipm.com/pmd/3494266.html)
- > 出于种种原因，产品岗位会天然地带有主观性，运气好的话，感性与主观性能打造出不俗的产品亮点；运气不好的话，过度主观将给产品与用户带来不小伤害。那么我们该如何降...
- ## [公开课 | 掌握这套数据产品设计流程，0经验求职数据产品经理也不怕](http://www.woshipm.com/online/3500343.html)
- > 以前，我们是“有问题找数据”，而在大数据时代，其最核心的特质则是“用数据找机会”。星巴克就是“用数据找机会”的高手玩家。星巴克作为主打“用户体验”的线下传统门店，但...
+ ## [疫情之下，看云视频会议发展方向](http://www.woshipm.com/it/3497822.html)
+ > 在技术稀缺的时候，我们为技术付费。随着云视频会议SaaS化程度不断的加深，云视频技术稀缺性正逐步减弱，未来的收费核心将是会议效率的解决方案。疫情之下，云的概念...
+ ## [以产品经理视角认识行业（1）：医美行业知识与入局机会](http://www.woshipm.com/it/3488010.html)
+ > 对于产品经理来说，了解行业状况是很重要，有利于产品经理熟悉行业、做出深度思考，并反馈到产品规划上。基于这一点，笔者结合医美行业的经验与认知，为大家分享相关行...
+ ## [人类偶像崇拜发展简史：“追星”如何追出“饭圈文化”？](http://www.woshipm.com/it/3495303.html)
+ > 最近，肖战粉丝事件让“饭圈文化”成功出圈，备受关注。而本文就从“饭圈文化”切入，对人类追星历史进行了一番梳理，拆解偶像流行与粉丝追星之间的因与果。最近，科技圈...
+ ## [怎样的关系网络能建立陌生人社交的信念感？](http://www.woshipm.com/it/3491553.html)
+ > 陌生人社交中，唯有建立一套关系网络才能将毫无关联的陌生人紧密联系在一起，才能产生自然的社交动力，喂养陌生人产品使之生存与发展。那么这张关系网到底是什么，又是...
+ ## [用户签到功能优化竞品分析](http://www.woshipm.com/evaluating/3491400.html)
+ > 一个好的用户成长体系能够提升用户的主动活跃，用户也可以从体系中获得成就感、兑换礼品等权益。对于平台讲，也有利于提高用户粘性和忠诚度。本次竞品分析将着重对几款...
+ ## [原则系列：怎样做B端产品的PMF？](http://www.woshipm.com/pd/3488680.html)
+ > 最近在一条新的产品线的PMF阶段，笔者在研究产品的PMF，今天来跟大家简单探讨一下B端产品的PMF。PMF是Product Market Fit的缩写，指的是产品市场匹配度。当我们有一个...
+ ## [掌握“弹窗”设计规范，打造优质用户体验](http://www.woshipm.com/ucd/3494024.html)
+ > 弹框，一个让设计师和用户又爱又恨的控件。产品需要弹框传递信息，用户需要弹框接受反馈。但如果不经推敲，胡乱增添弹框设计，用户心流（Mental flow）频频被打断，很容...
+ ## [长文解析：带你解读阿里的大数据建设方法论](http://www.woshipm.com/data-analysis/3498357.html)
+ > 阿里强大的大数据建设方法论是怎样的？笔者从数据技术篇、数据模型篇以及数据管理篇三部分展开介绍，这些将让你开阔视野，同时也会带给你启发。最近拜读了阿里数据技...
+ ## [公开课 |  金三银四，小白如何轻松拿到产品Offer](http://www.woshipm.com/online/3501079.html)
+ > 随着疫情逐渐稳定，互联网招聘开始回温，各大招聘网站上也陆续发布针对初级产品经理的招聘需求。但是，按照相关的数据分析，同期的初级产品岗位，招聘数量比去年少，...
+ ## [APP版本升级发布时，前后端的逻辑策略](http://www.woshipm.com/it/3492864.html)
+ > APP的升级发布看似简单，但是其实很复杂，有许多边界情况需要考虑，例如前端的更新逻辑、前端交互方式、后台逻辑与流程等。最近开始协同负责一个新产品，第一次从0到1...
  ## [短说知识付费正在垂直化，平台垂直化服务不断完善](http://www.chanpin100.com/article/110943)
  > 知识付费平台运营模式从“平面化”向“垂直化”纵深。知识付费是一个完整的体系，提升用户付费率只是平台运营的最初目的，留住用户并构建用户互动社区，打造完成的用户运营链接才是重点。随着用户对知识付费平台的内容和体验要求不断的提升，知识付费平台在完成平台内容生态布局后，讲重点构建服务用户学习全过程的服务链条
  ## [分析【支付宝会员】](http://www.chanpin100.com/article/110942)
