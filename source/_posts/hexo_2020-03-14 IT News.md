@@ -1,21 +1,23 @@
 ---
 title: 2020-03-14 IT News
 copyright: true
-date: 2020-03-14 10:01:36
+date: 2020-03-14 12:02:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美方轮番制裁，华为的备胎可独当一面了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=oDrYqqKCdli2-Ddob8yspCd-M7tvzCTYP5*xQiobJc4FarSfBzrcY1eTLRQ*ECdF1dTFakVrZCTxqv8vykKYbsp5TPSTCCAkOrwSQ0UgNEo9IORSaSd2sAuYGfskoknD&new=1)
- > 被美国列入实体清单已近10个月，在美国持续的制裁中，华为供应链已逐渐成功转移至国内，同时促成国内中小供应商的一次发展机遇。但华为移动服务HMS谈替代GMS仍为时尚早。不过，面对美国禁令，越早走出这一步越有...
- ## [疫情下的“中国力量”](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=2Yw2ZFqSZY-Nm6RR4vLcJrh4Zu1JxOXF1uRlBRmAB3AnJRusMkP7DgPLDfMA*n5Hqs0kSpS25wrqI5u2FXudRCwEB5Q93Pq4q1kOE8aDip6huRKpenwH53gEoFkUGv2g&new=1)
- > 2020年的春天，一场新型冠状病毒引发的肺炎疫情牵动着全国人民的神经。抗击疫情，社会各界都在积极应对，多家企业纷纷通过捐款捐物、扩大生产、提供服务等形式援助抗疫，体现出了强大实力和责任担当。当然，我们...
- ## [骁龙5G：赛事精彩不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=NePnoLs-IZ888t1Ko2yPOsy99ark70q0CotS5RzDSTtMzvJICKIs-Y9Ch0oz1vUut-t2vydTvtrQqRzmDdRGhsh90Deo-cFEpLJFQ7P-i1MajufgZkfRgV*hrTeezbf8&new=1)
+ ## [总结：16种典型3D打印失败案例及原因](http://mp.weixin.qq.com/s?src=11&timestamp=1584158403&ver=2215&signature=K81XfiJWxbJaytvtIkNrZ4cewMJWc0EPmb58rqiMB4MV8iAEJLx70DHGAD0YLtnBnaFaLF8UEJbBLzUJcWx4kCLzrztuaKDuRzp1GFnIzOyzq2UC1Qist-ILt56xGT98&new=1)
+ > 经常使用FDM 3D打印机的熊友一定遇到过很多打印失败的情况，这是在所难免的，原因可能有很多种，比如：打印床不平整，设置不正确或运气差等。失败的情况也分为很多种，最坏的情况下打印的模型时无法使用的，最好...
+ ## [骁龙5G：赛事精彩不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1584158403&ver=2215&signature=NePnoLs-IZ888t1Ko2yPOsy99ark70q0CotS5RzDSTtMzvJICKIs-Y9Ch0oz1vUuY3b6aC*nV3ZcRQqW71T8BuwLrO9wF1SjvIGsv00d7cZDH6IGeO0baM1DbZpG0MBC&new=1)
  > 球赛正火热进行中，即便我们无法到场观赛，但也阻止不了球迷们在家换上心爱的球衣，为最爱的球队呐喊助威的激情。 搭载骁龙平台的5G终端，让你以前所未有的方式观看比赛。即便不能亲临现场，但有了5G，你也可以...
- ## [努比亚红魔5G游戏手机发布丨比特币跌势不止\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=9xYpSOSlxw3-l4ySC8-CcxWNt1gh0TBkGj*3E3VRI1j0y1*fmPiCxEW1y7JsxjBNf-c0F6SUVgPeE-2HBODguVhM8Wf4VPDvghrtYJWdpqZ*eLxcbsCx5KZMn1F8nc2Q&new=1)
- > 3月13日丨周五【Do说】编辑 | 赵艾虎努比亚红魔5G游戏手机发布：搭载144Hz超竞屏 售价3799元起努比亚举行线上发布会正式发布新品红魔5G游戏手机，该机搭载144Hz超竞屏、865 5G芯片方案、LPDDR5内存、UFS 3.0闪
- ## [独家：中国联通将成立一个新部门 曾诞生多个知名销售操盘大将](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=426dM1D2pDPYbqfHpEGJEuuKVpmeogs7j-RtGDKCd1Xp-Q6AHIdcDel2mHxhYW-RisUmN8owIK8Oqe*Dpn67xmTEWLx4rG3pJe2a3AUmIYtJGxahhcOmwj2RL-K9ZECG&new=1)
+ ## [独家：中国联通将成立一个新部门 曾诞生多个知名销售操盘大将](http://mp.weixin.qq.com/s?src=11&timestamp=1584158403&ver=2215&signature=426dM1D2pDPYbqfHpEGJEuuKVpmeogs7j-RtGDKCd1Xp-Q6AHIdcDel2mHxhYW-R*41b6MIfhcznj9D*tQFNc1jHzVuRse1MHLJGMTeqxVMbVtbiXuhizB9p272UMX51&new=1)
  > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，中国联通将成立一个新的机构——渠道运营中心，由中国联通市场部副总经理郭林任负责人。中国联通成立一个主管渠道的新机构据悉，中国联通渠道运营中心...
+ ## [疫情下的“中国力量”](http://mp.weixin.qq.com/s?src=11&timestamp=1584158403&ver=2215&signature=2Yw2ZFqSZY-Nm6RR4vLcJrh4Zu1JxOXF1uRlBRmAB3AnJRusMkP7DgPLDfMA*n5HWnGGm2qShHTCZ*UWVxky0TuQz1jK-vWB5ssw4RHz4xMRK7WP4zPTr9gj-mXhjroE&new=1)
+ > 2020年的春天，一场新型冠状病毒引发的肺炎疫情牵动着全国人民的神经。抗击疫情，社会各界都在积极应对，多家企业纷纷通过捐款捐物、扩大生产、提供服务等形式援助抗疫，体现出了强大实力和责任担当。当然，我们...
+ ## [努比亚红魔5G游戏手机发布丨比特币跌势不止\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584158403&ver=2215&signature=9xYpSOSlxw3-l4ySC8-CcxWNt1gh0TBkGj*3E3VRI1j0y1*fmPiCxEW1y7JsxjBN*ozTsSBW22r-0kNLE3LnVuGhAl1gI0ueqgQ0Qzs95b14EoxmSLKgVKpE1xJQqpWg&new=1)
+ > 3月13日丨周五【Do说】编辑 | 赵艾虎努比亚红魔5G游戏手机发布：搭载144Hz超竞屏 售价3799元起努比亚举行线上发布会正式发布新品红魔5G游戏手机，该机搭载144Hz超竞屏、865 5G芯片方案、LPDDR5内存、UFS 3.0闪
+ ## [美方轮番制裁，华为的备胎可独当一面了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1584158403&ver=2215&signature=oDrYqqKCdli2-Ddob8yspCd-M7tvzCTYP5*xQiobJc4FarSfBzrcY1eTLRQ*ECdF*bBlw4iCmttaE5Jyp7gkxriINQfGUvidqfRDT7DeAnAkMnKxejwkVaOC0xKxuNhC&new=1)
+ > 被美国列入实体清单已近10个月，在美国持续的制裁中，华为供应链已逐渐成功转移至国内，同时促成国内中小供应商的一次发展机遇。但华为移动服务HMS谈替代GMS仍为时尚早。不过，面对美国禁令，越早走出这一步越有...
 # IT 技术 
  ## [2020年机器学习领域的五个潮流](http://ai.51cto.com/art/202003/612456.htm)
  > 2020年机器学习领域的五个潮流
@@ -33,6 +35,12 @@ categories: IT NEWS
  > 反51%攻击:哈佛MIT学者提出抗击双花新理论
  ## [Google Fuchsia：这会是下一代Android吗？](http://mobile.51cto.com/app-show-612452.htm)
  > Google Fuchsia：这会是下一代Android吗？
+ ## [网络版“黑吃黑”？神秘黑客组织每天分发受感染的黑客工具](http://netsecurity.51cto.com/art/202003/612534.htm)
+ > 在一场新的恶意软件活动中，Cybereason的专家发现，一些黑客也成为了其他黑客的攻击目标。
+ ## [2月份Github上热门的Java开源项目](http://developer.51cto.com/art/202003/612533.htm)
+ > 2月份GitHub上最热门的Java开源项目排行已经出炉啦，本月上榜的项目，大部分都是大家熟悉的，比如通过Java
+ ## [看完这篇 HTTPS，和面试官扯皮就没问题了](http://network.51cto.com/art/202003/612532.htm)
+ > 本篇文章我们主要讲述了 HTTPS 为什么会出现 ，HTTPS 解决了 HTTP 的什么问题，HTTPS 和 HTTP 的关系是什么
  ## [物联网技术正在改变农业领域](http://iot.51cto.com/art/202003/612531.htm)
  > 物联网驱动的农业可以帮助农民生产比传统农业更多的优质食品，以满足全球不断增长的食品需求和营养需求。
  ## [医疗物联网飞速发展，医疗大数据分析迎来新机遇](http://iot.51cto.com/art/202003/612530.htm)
@@ -98,36 +106,36 @@ categories: IT NEWS
  ## [一文快速探索视频用户网络画像与应用](https://blog.csdn.net/csdnnews/article/details/104853397)
  > 作者 |阿里文娱无线开发专家 稻乐阿里文娱测试开发工程师 心膂责编 | 屠敏背景视频用户是移动网络流量的主要消费者。和其他APP相比，观看视频的用户体...
 # 人工智能 
- ## [爬虫之爬取英雄联盟战绩详细数据](https://blog.csdn.net/QNMLGB2/article/details/104788782)
- > 爬虫之爬取英雄联盟战绩详细数据
- ## [别再自己抠图了，Python用5行代码实现批量抠图](https://blog.csdn.net/ZackSock/article/details/104738652)
+ ## [规则引擎Drools 之 springboot 集成、热加载](https://blog.csdn.net/wuzhiwei549/article/details/104816899)
+ > 规则引擎Drools 之 springboot 集成、热加载
+ ## [JavaWeb项目之实现用户注册、登录与预约功能](https://blog.csdn.net/m0_46550452/article/details/104840659)
+ > JavaWeb项目之实现用户注册、登录与预约功能
+ ## [Sentinel熔断降级](https://blog.csdn.net/weixin_39178876/article/details/104819029)
+ > Sentinel熔断降级
+ ## [nginx版本低，但是又不能关闭怎么办？一招教你平滑升级](https://blog.csdn.net/baidu_38803985/article/details/104813580)
+ > nginx版本低，但是又不能关闭怎么办？一招教你平滑升级
+ ## [Java体系的总结](https://blog.csdn.net/wanping0201/article/details/104846587)
+ > Java体系的总结
+ ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
+ > Java校招入职华为，半年后我跑路了
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
- ## [python3用urllib抓取贴吧邮箱和QQ实例](https://blog.csdn.net/haoxun09/article/details/104806925)
- > python3用urllib抓取贴吧邮箱和QQ实例
- ## [一个资深小说迷打开小说的正确姿势（续）----百度AI文字转语音](https://blog.csdn.net/weixin_39815001/article/details/104776229)
+ ## [面试官问我：什么是消息队列？什么场景需要他？用了会出现什么问题？](https://blog.csdn.net/qq_35190492/article/details/103153444)
  > 
- ## [Python爬虫必备技术点（一）](https://blog.csdn.net/ahhqdyh/article/details/104788387)
- > Python爬虫必备技术点（一）
- ## [深入讲解Python函数中参数的使用及默认参数的陷阱](https://blog.csdn.net/haoxun10/article/details/104806026)
- > 深入讲解Python函数中参数的使用及默认参数的陷阱
- ## [初学者python笔记（os模块、sys模块）](https://blog.csdn.net/Viewinfinitely/article/details/104756848)
- > 初学者python笔记（os模块、sys模块）
- ## [python 随机森林算法及其优化详解](https://blog.csdn.net/haoxun08/article/details/104828872)
- > python 随机森林算法及其优化详解
- ## [解决pip3 install mysqlclinet 报错 OSError: mysql_config not found](https://blog.csdn.net/weixin_44129085/article/details/104819731)
- > 解决pip3 install mysqlclinet 报错 OSError: mysql_config not found
- ## [Python爬取某视频并下载](https://blog.csdn.net/weixin_45346759/article/details/104779740)
+ ## [微服务实战（十七）微服务Token的实现： MD5简易Token、Jwt、Jwt结合AES加密](https://blog.csdn.net/u011177064/article/details/104822700)
  > 
- ## [Python递归与非递归算法的例子，七个练习](https://blog.csdn.net/weixin_46227398/article/details/104815263)
- > Python递归与非递归算法的例子，七个练习
- ## [python小练习之多维叠加和统计分布（一）](https://blog.csdn.net/qq_35149632/article/details/104814820)
- > python小练习之多维叠加和统计分布（一）
- ## [python如何爬取网站数据并进行数据可视化](https://blog.csdn.net/haoxun09/article/details/104828417)
- > python如何爬取网站数据并进行数据可视化
- ## [Python 批量下载BiliBili视频 打包成软件](https://blog.csdn.net/CUFEECR/article/details/104736564)
+ ## [深入分析HDFS原理及读写流程](https://blog.csdn.net/qq_26803795/article/details/104823533)
  > 
- ## [Python 学习笔记(1)](https://blog.csdn.net/Jakson_poor/article/details/104800496)
- > Python 学习笔记(1)
+ ## [基于eCharts+D3的数据可视化平台前端实现方案](https://blog.csdn.net/HiSen_CSDN/article/details/104714233)
+ > 基于eCharts+D3的数据可视化平台前端实现方案
+ ## [Spring MVC面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397427)
+ > Spring MVC面试题（2020最新版）
+ ## [Nginx负载均衡配置及算法详解](https://blog.csdn.net/baidu_38803985/article/details/104827395)
+ > 
+ ## [Flink系列---Flink流处理WordCount](https://blog.csdn.net/qq1021979964/article/details/104825626)
+ > 
 # PM 
  ## [网约车行业数字化升级](http://www.chanpin100.com/article/110978)
  > 2019年中国网约车市场整体交易金额达3044.1亿元，环比增长3%。受到宏观经济放缓、政策趋严等因素影响，市场交易规模增速放缓，进入规范化调整期。
