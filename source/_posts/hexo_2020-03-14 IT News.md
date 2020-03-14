@@ -1,21 +1,21 @@
 ---
 title: 2020-03-14 IT News
 copyright: true
-date: 2020-03-14 08:00:57
+date: 2020-03-14 09:01:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美方轮番制裁，华为的备胎可独当一面了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1584142216&ver=2215&signature=oDrYqqKCdli2-Ddob8yspCd-M7tvzCTYP5*xQiobJc4eUZm-0Hpb6FGzgtf0LnWBB1sHMaaCIsbmCHe0n-Wgo5Q4pyrBJnTYX9nudkywOkQ1XrABGYgs*YTbtrpNmR-f&new=1)
- > 被美国列入实体清单已近10个月，在美国持续的制裁中，华为供应链已逐渐成功转移至国内，同时促成国内中小供应商的一次发展机遇。但华为移动服务HMS谈替代GMS仍为时尚早。不过，面对美国禁令，越早走出这一步越有...
- ## [努比亚红魔5G游戏手机发布丨比特币跌势不止\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584142216&ver=2215&signature=9xYpSOSlxw3-l4ySC8-CcxWNt1gh0TBkGj*3E3VRI1hVptUb83Hq*0a23TRehW1ehyZ7zRMRzpKpSGemDjsQqurblDlOxlwHR0UjBBOVBB8BGZhhR0TyeSxjiSFpCwZv&new=1)
+ ## [努比亚红魔5G游戏手机发布丨比特币跌势不止\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=9xYpSOSlxw3-l4ySC8-CcxWNt1gh0TBkGj*3E3VRI1hVptUb83Hq*0a23TRehW1eGF76dS68tsLY-Go5-fWIdKoP67PLoksonnoArx9KshccKqfPGvC4ycLhjjaRjLsD&new=1)
  > 3月13日丨周五【Do说】编辑 | 赵艾虎努比亚红魔5G游戏手机发布：搭载144Hz超竞屏 售价3799元起努比亚举行线上发布会正式发布新品红魔5G游戏手机，该机搭载144Hz超竞屏、865 5G芯片方案、LPDDR5内存、UFS 3.0闪
- ## [独家：中国联通将成立一个新部门 曾诞生多个知名销售操盘大将](http://mp.weixin.qq.com/s?src=11&timestamp=1584142216&ver=2215&signature=426dM1D2pDPYbqfHpEGJEuuKVpmeogs7j-RtGDKCd1Vmw7D1xZtI*ZZcUnQL9Zs0fb0LhEUBs47tvB1RrAZpLhADbYgprQI4Tp5-7iqMuzTROUdskkLTIdFD-kkVuq4*&new=1)
- > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，中国联通将成立一个新的机构——渠道运营中心，由中国联通市场部副总经理郭林任负责人。中国联通成立一个主管渠道的新机构据悉，中国联通渠道运营中心...
- ## [骁龙5G：赛事精彩不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1584142216&ver=2215&signature=NePnoLs-IZ888t1Ko2yPOsy99ark70q0CotS5RzDSTtiXDkSd-X8AOsQkqtgDCmYCV-LdPvwd0uatJZyZBbvEusthhsBvfvCNp27BZVfbnxTrijWCS7o6Y9JnXjhH*3h&new=1)
+ ## [骁龙5G：赛事精彩不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=NePnoLs-IZ888t1Ko2yPOsy99ark70q0CotS5RzDSTtiXDkSd-X8AOsQkqtgDCmYBfJwvYXH-1SZeX3*AJEbnBUpgWMheYwp7eqFTCYCd7Mo2YHxlGheaMqxUhi7f1Gj&new=1)
  > 球赛正火热进行中，即便我们无法到场观赛，但也阻止不了球迷们在家换上心爱的球衣，为最爱的球队呐喊助威的激情。 搭载骁龙平台的5G终端，让你以前所未有的方式观看比赛。即便不能亲临现场，但有了5G，你也可以...
- ## [疫情下的“中国力量”](http://mp.weixin.qq.com/s?src=11&timestamp=1584142216&ver=2215&signature=2Yw2ZFqSZY-Nm6RR4vLcJrh4Zu1JxOXF1uRlBRmAB3A2rJzeRk9u94KSmxrnYOVpT7gRYSsEJQqdlTTGNWL*tlSEp3dUOu8yWnAehMkSvdcAh***yrH0hgFOOUl9ejwW&new=1)
+ ## [疫情下的“中国力量”](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=2Yw2ZFqSZY-Nm6RR4vLcJrh4Zu1JxOXF1uRlBRmAB3A2rJzeRk9u94KSmxrnYOVpAxPKV6SFzexB8arEEYNItrV3LE9obpEpxdEF13HA*xSgHI5ukOgyHH-vrV5ZL69O&new=1)
  > 2020年的春天，一场新型冠状病毒引发的肺炎疫情牵动着全国人民的神经。抗击疫情，社会各界都在积极应对，多家企业纷纷通过捐款捐物、扩大生产、提供服务等形式援助抗疫，体现出了强大实力和责任担当。当然，我们...
+ ## [独家：中国联通将成立一个新部门 曾诞生多个知名销售操盘大将](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=426dM1D2pDPYbqfHpEGJEuuKVpmeogs7j-RtGDKCd1Vmw7D1xZtI*ZZcUnQL9Zs0x3HN2*KqxR5q0gvZY7imljjayeXjMN0eNVnCnMZAft9Mqdu2-B05oDzwcvxTfRCr&new=1)
+ > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，中国联通将成立一个新的机构——渠道运营中心，由中国联通市场部副总经理郭林任负责人。中国联通成立一个主管渠道的新机构据悉，中国联通渠道运营中心...
+ ## [美方轮番制裁，华为的备胎可独当一面了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=oDrYqqKCdli2-Ddob8yspCd-M7tvzCTYP5*xQiobJc4eUZm-0Hpb6FGzgtf0LnWBGEjt4Ht4a0ckWQgA6zTWzpWNEksbHBPkllXtdnuEZiPCH33aYFfQOlw8wcI-dQyX&new=1)
+ > 被美国列入实体清单已近10个月，在美国持续的制裁中，华为供应链已逐渐成功转移至国内，同时促成国内中小供应商的一次发展机遇。但华为移动服务HMS谈替代GMS仍为时尚早。不过，面对美国禁令，越早走出这一步越有...
 # IT 技术 
  ## [2020年机器学习领域的五个潮流](http://ai.51cto.com/art/202003/612456.htm)
  > 2020年机器学习领域的五个潮流
@@ -33,36 +33,48 @@ categories: IT NEWS
  > 反51%攻击:哈佛MIT学者提出抗击双花新理论
  ## [Google Fuchsia：这会是下一代Android吗？](http://mobile.51cto.com/app-show-612452.htm)
  > Google Fuchsia：这会是下一代Android吗？
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
- > Java校招入职华为，半年后我跑路了
- ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
+ ## [物联网技术正在改变农业领域](http://iot.51cto.com/art/202003/612531.htm)
+ > 物联网驱动的农业可以帮助农民生产比传统农业更多的优质食品，以满足全球不断增长的食品需求和营养需求。
+ ## [医疗物联网飞速发展，医疗大数据分析迎来新机遇](http://iot.51cto.com/art/202003/612530.htm)
+ > 无处不在的高速网络连接，以及内置智能传感器的设备体积越来越小且越来越便宜双重因素的推动下，极大地推动
+ ## [为什么生物识别技术将对物联网技术产生重大影响](http://iot.51cto.com/art/202003/612529.htm)
+ > 尽管最近有所进展，但物联网安全性对制造商来说仍然是一个相当大的挑战。
+ ## [医疗保健中的物联网：连网设备如何帮助人们保持健康](http://iot.51cto.com/art/202003/612528.htm)
+ > 据ReportLinker预测，到2025年，全球医疗物联网市场预计将达到惊人的5343亿美元(在未来五年中，以19.9%的复
+ ## [物联网架构各个层次通讯协议](http://iot.51cto.com/art/202003/612527.htm)
+ > 如上图所示，本文从以下几个维度对物联网常见的几种协议进行阐述。
+ ## [智慧农业：物联网帮助我们应对全球粮食挑战的5种方式](http://iot.51cto.com/art/202003/612526.htm)
+ > 即使您不在这个行业，您也可能听到过“智慧农业”这个词，因为它有着巨大的吸引力。但是，基于物联网的精准
+ ## [Spring Boot升级到2.x，Jackson对Date时间类型序列化的变化差点让项目暴雷【享学Spring Boot】](https://blog.csdn.net/f641385712/article/details/104182090)
  > 
- ## [《面试宝典》2019年mybatils面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777082)
+ ## [MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）](https://blog.csdn.net/qq_41453285/article/details/104142402)
+ > MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）
+ ## [MFC小笔记：简单画图](https://blog.csdn.net/subfate/article/details/103651184)
+ > MFC小笔记：简单画图
+ ## [Ubuntu系统 安装与配置 常见异常与解决办法](https://blog.csdn.net/CUFEECR/article/details/104071624)
+ > Ubuntu系统 安装与配置 常见异常与解决办法
+ ## [马蜂窝裁php换java，php又又又凉凉了吗](https://blog.csdn.net/LJFPHP/article/details/103569921)
  > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
+ ## [开源我的3D库WxGL：40行代码将疫情地图变成三维地球模型](https://blog.csdn.net/xufive/article/details/104211044)
  > 
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
- > Python+OpenCV实时图像处理
- ## [python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸](https://blog.csdn.net/yuanziok/article/details/103592013)
- > python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸
- ## [Nginx 之父被抓，程序员一定要警惕，背后的原因竟然是……](https://blog.csdn.net/loongggdroid/article/details/103573114)
- > Nginx 之父被抓，程序员一定要警惕，背后的原因竟然是……
- ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
- > 一个程序在计算机中是如何运行的？超级干货！！！
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
+ ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
+ > 2020年2月中国编程语言排行榜
+ ## [TCP/IP卷一:64---TCP基础之（传输控制协议(TCP)概述、TCP的可靠性、TCP报文格式与封装）](https://blog.csdn.net/qq_41453285/article/details/104016416)
+ > TCP/IP卷一:64---TCP基础之（传输控制协议(TCP)概述、TCP的可靠性、TCP报文格式与封装）
+ ## [带你读懂《深入理解计算机系统》开篇](https://blog.csdn.net/cq20110310/article/details/103734101)
+ > 带你读懂《深入理解计算机系统》开篇
+ ## [身体是自己的](https://blog.csdn.net/FS1360472174/article/details/104142896)
+ > 身体是自己的
+ ## [敏捷开发中如何使用看板方法创造价值](https://blog.csdn.net/weixin_44280696/article/details/103698622)
+ > 敏捷开发中如何使用看板方法创造价值
+ ## [PyQt（Python+Qt）学习随笔：Model中项的标记flags取值及枚举类型Qt.ItemFlag](https://blog.csdn.net/LaoYuanPython/article/details/103964440)
+ > PyQt（Python+Qt）学习随笔：Model中项的标记flags取值及枚举类型Qt.ItemFlag
+ ## [oracle知识整理(1) union和union all的区别,left join和right join的区别(各种join的区别)](https://blog.csdn.net/moshowgame/article/details/103808897)
+ > oracle知识整理(1) union和union all的区别,left join和right join的区别(各种join的区别)
+ ## [Web服务压测神器wrk](https://blog.csdn.net/xindoo/article/details/103754857)
  > 
- ## [为什么程序猿都不愿意去外包？](https://blog.csdn.net/qq_16855077/article/details/104052621)
- > 为什么程序猿都不愿意去外包？
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
- > 
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
- > 
+ ## [人人都想留硅谷，找个国内二线买房它不香吗](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103970733)
+ > 人人都想留硅谷，找个国内二线买房它不香吗
  ## [Python 进阶之递归函数一点都不难！](https://blog.csdn.net/csdnnews/article/details/104853398)
  > 封图|CSDN│下载于视觉中国作者 |程序员adny责编 | 徐威龙出品 |AI科技大本营（ID：rgznai100）本篇文章主要介绍了Py...
  ## [以太坊 2.0、分片、DAG、链下状态通道……概述区块链可扩展性的解决方案！](https://blog.csdn.net/csdnnews/article/details/104853401)
@@ -86,36 +98,36 @@ categories: IT NEWS
  ## [一文快速探索视频用户网络画像与应用](https://blog.csdn.net/csdnnews/article/details/104853397)
  > 作者 |阿里文娱无线开发专家 稻乐阿里文娱测试开发工程师 心膂责编 | 屠敏背景视频用户是移动网络流量的主要消费者。和其他APP相比，观看视频的用户体...
 # 人工智能 
- ## [VMware Workstation](https://blog.csdn.net/weixin_45678915/article/details/104792372)
- > VMware Workstation
- ## [sudo命令详解](https://blog.csdn.net/weixin_43898125/article/details/104782892)
- > sudo命令详解
- ## [VMware Workstation 15.5Pro下安装CentOS 7超超超级详细过程（图文）](https://blog.csdn.net/weixin_43948143/article/details/104804239)
- > VMware Workstation 15.5Pro下安装CentOS 7超超超级详细过程（图文）
- ## [linux小白配置mysql数据库](https://blog.csdn.net/weixin_45508789/article/details/104803529)
- > linux小白配置mysql数据库
- ## [Linux面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588679)
- > Linux面试题（2020最新版）
- ## [IDLE 中文版](https://blog.csdn.net/Jairoguo/article/details/86530127)
- > IDLE 中文版
- ## [记录一下在freenom注册免费域名时遇到的问题](https://blog.csdn.net/duoduowangjia/article/details/104791845)
- > 记录一下在freenom注册免费域名时遇到的问题
- ## [用Seafile搭建私有云盘](https://blog.csdn.net/Cloud_View/article/details/104827220)
- > 用Seafile搭建私有云盘
- ## [Ubuntu安装man中文手册与Linux命令网站推荐](https://blog.csdn.net/TurboTab/article/details/104809411)
- > Ubuntu安装man中文手册与Linux命令网站推荐
- ## [nginx版本低，但是又不能关闭怎么办？一招教你平滑升级](https://blog.csdn.net/baidu_38803985/article/details/104813580)
- > nginx版本低，但是又不能关闭怎么办？一招教你平滑升级
- ## [关于谷歌Chrom 80版本升级后，跨域Samesite必须有值影响跨域项目的解决](https://blog.csdn.net/wanghongbiao1993/article/details/104795084)
- > 关于谷歌Chrom 80版本升级后，跨域Samesite必须有值影响跨域项目的解决
- ## [Linux静态库和动态库的制作](https://blog.csdn.net/kksdw/article/details/104795241)
- > Linux静态库和动态库的制作
- ## [windows10下安装ubuntu子系统](https://blog.csdn.net/weixin_41969690/article/details/104819039)
- > windows10下安装ubuntu子系统
- ## [作业1、2、3索引](https://blog.csdn.net/weixin_44303986/article/details/104811568)
- > 作业1、2、3索引
- ## [简单的RCE注入攻击](https://blog.csdn.net/weixin_44611282/article/details/104828283)
- > 简单的RCE注入攻击
+ ## [HTML学习笔记（五）——表单](https://blog.csdn.net/weixin_44122062/article/details/104801603)
+ > 
+ ## [使用uni-app开发叮咚买菜的一些笔记](https://blog.csdn.net/xiaocuige007/article/details/104816780)
+ > 使用uni-app开发叮咚买菜的一些笔记
+ ## [有道云笔记突然出现乱码 日记变成乱码](https://blog.csdn.net/zoooo_/article/details/104791500)
+ > 有道云笔记突然出现乱码 日记变成乱码
+ ## [基于eCharts+D3的数据可视化平台前端实现方案](https://blog.csdn.net/HiSen_CSDN/article/details/104714233)
+ > 基于eCharts+D3的数据可视化平台前端实现方案
+ ## [Python爬取某视频并下载](https://blog.csdn.net/weixin_45346759/article/details/104779740)
+ > 
+ ## [CSS3 渐变新特性和HTML5 Canvas画布背景渐变实现方法详解](https://blog.csdn.net/pycharm_k/article/details/104821237)
+ > 
+ ## [一篇文章帮你入门jQuery](https://blog.csdn.net/Mine____/article/details/104784126)
+ > 一篇文章帮你入门jQuery
+ ## [设置setTimeout延时为0ms的作用](https://blog.csdn.net/weixin_42881768/article/details/104793703)
+ > 设置setTimeout延时为0ms的作用
+ ## [智慧树/知到  一键刷课脚本代码（网页自动版 2020最新版）](https://blog.csdn.net/qq_41523096/article/details/86517273)
+ > 智慧树/知到  一键刷课脚本代码（网页自动版 2020最新版）
+ ## [Flutter布局组件之层叠组件Stack和Positioned](https://blog.csdn.net/m0_46369686/article/details/104791376)
+ > Flutter布局组件之层叠组件Stack和Positioned
+ ## [使用JS+socket.io+WebRTC+nodejs+express搭建一个简易版远程视频聊天](https://blog.csdn.net/time_____/article/details/104801205)
+ > 使用JS+socket.io+WebRTC+nodejs+express搭建一个简易版远程视频聊天
+ ## [妙用CSS变量，让你的CSS变得更心动](https://blog.csdn.net/JowayYoung/article/details/104791809)
+ > 
+ ## [MPAndroidChart的详细使用——ViewPortHandler（视图控制器）](https://blog.csdn.net/qq_44720366/article/details/104816210)
+ > MPAndroidChart的详细使用——ViewPortHandler（视图控制器）
+ ## [从浅到深，带你彻底搞懂AJAX异步请求](https://blog.csdn.net/qq_40205116/article/details/104732478)
+ > 从浅到深，带你彻底搞懂AJAX异步请求
+ ## [前端面试知识梳理（高级前端开发工程师）](https://blog.csdn.net/u010651383/article/details/104791218)
+ > 
 # PM 
  ## [网约车行业数字化升级](http://www.chanpin100.com/article/110978)
  > 2019年中国网约车市场整体交易金额达3044.1亿元，环比增长3%。受到宏观经济放缓、政策趋严等因素影响，市场交易规模增速放缓，进入规范化调整期。
