@@ -1,21 +1,21 @@
 ---
 title: 2020-03-14 IT News
 copyright: true
-date: 2020-03-14 09:01:20
+date: 2020-03-14 10:01:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [努比亚红魔5G游戏手机发布丨比特币跌势不止\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=9xYpSOSlxw3-l4ySC8-CcxWNt1gh0TBkGj*3E3VRI1hVptUb83Hq*0a23TRehW1eGF76dS68tsLY-Go5-fWIdKoP67PLoksonnoArx9KshccKqfPGvC4ycLhjjaRjLsD&new=1)
- > 3月13日丨周五【Do说】编辑 | 赵艾虎努比亚红魔5G游戏手机发布：搭载144Hz超竞屏 售价3799元起努比亚举行线上发布会正式发布新品红魔5G游戏手机，该机搭载144Hz超竞屏、865 5G芯片方案、LPDDR5内存、UFS 3.0闪
- ## [骁龙5G：赛事精彩不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=NePnoLs-IZ888t1Ko2yPOsy99ark70q0CotS5RzDSTtiXDkSd-X8AOsQkqtgDCmYBfJwvYXH-1SZeX3*AJEbnBUpgWMheYwp7eqFTCYCd7Mo2YHxlGheaMqxUhi7f1Gj&new=1)
- > 球赛正火热进行中，即便我们无法到场观赛，但也阻止不了球迷们在家换上心爱的球衣，为最爱的球队呐喊助威的激情。 搭载骁龙平台的5G终端，让你以前所未有的方式观看比赛。即便不能亲临现场，但有了5G，你也可以...
- ## [疫情下的“中国力量”](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=2Yw2ZFqSZY-Nm6RR4vLcJrh4Zu1JxOXF1uRlBRmAB3A2rJzeRk9u94KSmxrnYOVpAxPKV6SFzexB8arEEYNItrV3LE9obpEpxdEF13HA*xSgHI5ukOgyHH-vrV5ZL69O&new=1)
- > 2020年的春天，一场新型冠状病毒引发的肺炎疫情牵动着全国人民的神经。抗击疫情，社会各界都在积极应对，多家企业纷纷通过捐款捐物、扩大生产、提供服务等形式援助抗疫，体现出了强大实力和责任担当。当然，我们...
- ## [独家：中国联通将成立一个新部门 曾诞生多个知名销售操盘大将](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=426dM1D2pDPYbqfHpEGJEuuKVpmeogs7j-RtGDKCd1Vmw7D1xZtI*ZZcUnQL9Zs0x3HN2*KqxR5q0gvZY7imljjayeXjMN0eNVnCnMZAft9Mqdu2-B05oDzwcvxTfRCr&new=1)
- > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，中国联通将成立一个新的机构——渠道运营中心，由中国联通市场部副总经理郭林任负责人。中国联通成立一个主管渠道的新机构据悉，中国联通渠道运营中心...
- ## [美方轮番制裁，华为的备胎可独当一面了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1584147604&ver=2215&signature=oDrYqqKCdli2-Ddob8yspCd-M7tvzCTYP5*xQiobJc4eUZm-0Hpb6FGzgtf0LnWBGEjt4Ht4a0ckWQgA6zTWzpWNEksbHBPkllXtdnuEZiPCH33aYFfQOlw8wcI-dQyX&new=1)
+ ## [美方轮番制裁，华为的备胎可独当一面了吗](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=oDrYqqKCdli2-Ddob8yspCd-M7tvzCTYP5*xQiobJc4FarSfBzrcY1eTLRQ*ECdF1dTFakVrZCTxqv8vykKYbsp5TPSTCCAkOrwSQ0UgNEo9IORSaSd2sAuYGfskoknD&new=1)
  > 被美国列入实体清单已近10个月，在美国持续的制裁中，华为供应链已逐渐成功转移至国内，同时促成国内中小供应商的一次发展机遇。但华为移动服务HMS谈替代GMS仍为时尚早。不过，面对美国禁令，越早走出这一步越有...
+ ## [疫情下的“中国力量”](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=2Yw2ZFqSZY-Nm6RR4vLcJrh4Zu1JxOXF1uRlBRmAB3AnJRusMkP7DgPLDfMA*n5Hqs0kSpS25wrqI5u2FXudRCwEB5Q93Pq4q1kOE8aDip6huRKpenwH53gEoFkUGv2g&new=1)
+ > 2020年的春天，一场新型冠状病毒引发的肺炎疫情牵动着全国人民的神经。抗击疫情，社会各界都在积极应对，多家企业纷纷通过捐款捐物、扩大生产、提供服务等形式援助抗疫，体现出了强大实力和责任担当。当然，我们...
+ ## [骁龙5G：赛事精彩不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=NePnoLs-IZ888t1Ko2yPOsy99ark70q0CotS5RzDSTtMzvJICKIs-Y9Ch0oz1vUut-t2vydTvtrQqRzmDdRGhsh90Deo-cFEpLJFQ7P-i1MajufgZkfRgV*hrTeezbf8&new=1)
+ > 球赛正火热进行中，即便我们无法到场观赛，但也阻止不了球迷们在家换上心爱的球衣，为最爱的球队呐喊助威的激情。 搭载骁龙平台的5G终端，让你以前所未有的方式观看比赛。即便不能亲临现场，但有了5G，你也可以...
+ ## [努比亚红魔5G游戏手机发布丨比特币跌势不止\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=9xYpSOSlxw3-l4ySC8-CcxWNt1gh0TBkGj*3E3VRI1j0y1*fmPiCxEW1y7JsxjBNf-c0F6SUVgPeE-2HBODguVhM8Wf4VPDvghrtYJWdpqZ*eLxcbsCx5KZMn1F8nc2Q&new=1)
+ > 3月13日丨周五【Do说】编辑 | 赵艾虎努比亚红魔5G游戏手机发布：搭载144Hz超竞屏 售价3799元起努比亚举行线上发布会正式发布新品红魔5G游戏手机，该机搭载144Hz超竞屏、865 5G芯片方案、LPDDR5内存、UFS 3.0闪
+ ## [独家：中国联通将成立一个新部门 曾诞生多个知名销售操盘大将](http://mp.weixin.qq.com/s?src=11&timestamp=1584151204&ver=2215&signature=426dM1D2pDPYbqfHpEGJEuuKVpmeogs7j-RtGDKCd1Xp-Q6AHIdcDel2mHxhYW-RisUmN8owIK8Oqe*Dpn67xmTEWLx4rG3pJe2a3AUmIYtJGxahhcOmwj2RL-K9ZECG&new=1)
+ > 运营商财经网 八卦叨 /文知情人士向运营商财经网独家透露，中国联通将成立一个新的机构——渠道运营中心，由中国联通市场部副总经理郭林任负责人。中国联通成立一个主管渠道的新机构据悉，中国联通渠道运营中心...
 # IT 技术 
  ## [2020年机器学习领域的五个潮流](http://ai.51cto.com/art/202003/612456.htm)
  > 2020年机器学习领域的五个潮流
@@ -45,36 +45,36 @@ categories: IT NEWS
  > 如上图所示，本文从以下几个维度对物联网常见的几种协议进行阐述。
  ## [智慧农业：物联网帮助我们应对全球粮食挑战的5种方式](http://iot.51cto.com/art/202003/612526.htm)
  > 即使您不在这个行业，您也可能听到过“智慧农业”这个词，因为它有着巨大的吸引力。但是，基于物联网的精准
- ## [Spring Boot升级到2.x，Jackson对Date时间类型序列化的变化差点让项目暴雷【享学Spring Boot】](https://blog.csdn.net/f641385712/article/details/104182090)
- > 
- ## [MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）](https://blog.csdn.net/qq_41453285/article/details/104142402)
- > MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）
- ## [MFC小笔记：简单画图](https://blog.csdn.net/subfate/article/details/103651184)
- > MFC小笔记：简单画图
- ## [Ubuntu系统 安装与配置 常见异常与解决办法](https://blog.csdn.net/CUFEECR/article/details/104071624)
- > Ubuntu系统 安装与配置 常见异常与解决办法
- ## [马蜂窝裁php换java，php又又又凉凉了吗](https://blog.csdn.net/LJFPHP/article/details/103569921)
- > 
- ## [开源我的3D库WxGL：40行代码将疫情地图变成三维地球模型](https://blog.csdn.net/xufive/article/details/104211044)
- > 
- ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
- > 2020年2月中国编程语言排行榜
- ## [TCP/IP卷一:64---TCP基础之（传输控制协议(TCP)概述、TCP的可靠性、TCP报文格式与封装）](https://blog.csdn.net/qq_41453285/article/details/104016416)
- > TCP/IP卷一:64---TCP基础之（传输控制协议(TCP)概述、TCP的可靠性、TCP报文格式与封装）
- ## [带你读懂《深入理解计算机系统》开篇](https://blog.csdn.net/cq20110310/article/details/103734101)
- > 带你读懂《深入理解计算机系统》开篇
- ## [身体是自己的](https://blog.csdn.net/FS1360472174/article/details/104142896)
- > 身体是自己的
- ## [敏捷开发中如何使用看板方法创造价值](https://blog.csdn.net/weixin_44280696/article/details/103698622)
- > 敏捷开发中如何使用看板方法创造价值
- ## [PyQt（Python+Qt）学习随笔：Model中项的标记flags取值及枚举类型Qt.ItemFlag](https://blog.csdn.net/LaoYuanPython/article/details/103964440)
- > PyQt（Python+Qt）学习随笔：Model中项的标记flags取值及枚举类型Qt.ItemFlag
- ## [oracle知识整理(1) union和union all的区别,left join和right join的区别(各种join的区别)](https://blog.csdn.net/moshowgame/article/details/103808897)
- > oracle知识整理(1) union和union all的区别,left join和right join的区别(各种join的区别)
  ## [Web服务压测神器wrk](https://blog.csdn.net/xindoo/article/details/103754857)
  > 
- ## [人人都想留硅谷，找个国内二线买房它不香吗](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103970733)
- > 人人都想留硅谷，找个国内二线买房它不香吗
+ ## [PyQt（Python+Qt）学习随笔：Model中项的标记flags取值及枚举类型Qt.ItemFlag](https://blog.csdn.net/LaoYuanPython/article/details/103964440)
+ > PyQt（Python+Qt）学习随笔：Model中项的标记flags取值及枚举类型Qt.ItemFlag
+ ## [MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）](https://blog.csdn.net/qq_41453285/article/details/104142402)
+ > MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）
+ ## [Spring Boot升级到2.x，Jackson对Date时间类型序列化的变化差点让项目暴雷【享学Spring Boot】](https://blog.csdn.net/f641385712/article/details/104182090)
+ > 
+ ## [论掌握一项脚本技术的必要性](https://blog.csdn.net/qq_17776287/article/details/103707666)
+ > 
+ ## [身体是自己的](https://blog.csdn.net/FS1360472174/article/details/104142896)
+ > 身体是自己的
+ ## [开源我的3D库WxGL：40行代码将疫情地图变成三维地球模型](https://blog.csdn.net/xufive/article/details/104211044)
+ > 
+ ## [Ubuntu系统 安装与配置 常见异常与解决办法](https://blog.csdn.net/CUFEECR/article/details/104071624)
+ > Ubuntu系统 安装与配置 常见异常与解决办法
+ ## [MFC小笔记：简单画图](https://blog.csdn.net/subfate/article/details/103651184)
+ > MFC小笔记：简单画图
+ ## [敏捷开发中如何使用看板方法创造价值](https://blog.csdn.net/weixin_44280696/article/details/103698622)
+ > 敏捷开发中如何使用看板方法创造价值
+ ## [带你读懂《深入理解计算机系统》开篇](https://blog.csdn.net/cq20110310/article/details/103734101)
+ > 带你读懂《深入理解计算机系统》开篇
+ ## [TCP/IP卷一:64---TCP基础之（传输控制协议(TCP)概述、TCP的可靠性、TCP报文格式与封装）](https://blog.csdn.net/qq_41453285/article/details/104016416)
+ > TCP/IP卷一:64---TCP基础之（传输控制协议(TCP)概述、TCP的可靠性、TCP报文格式与封装）
+ ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
+ > 2020年2月中国编程语言排行榜
+ ## [聊聊Java中的位运算：与、或、非、异或、左移、右移、无符号右移【小家Java】](https://blog.csdn.net/f641385712/article/details/103824846)
+ > 
+ ## [自主研发编程语言Mulan（木兰）评测(附视频讲解)](https://blog.csdn.net/lzw2497727771/article/details/104035142)
+ > 自主研发编程语言Mulan（木兰）评测(附视频讲解)
  ## [Python 进阶之递归函数一点都不难！](https://blog.csdn.net/csdnnews/article/details/104853398)
  > 封图|CSDN│下载于视觉中国作者 |程序员adny责编 | 徐威龙出品 |AI科技大本营（ID：rgznai100）本篇文章主要介绍了Py...
  ## [以太坊 2.0、分片、DAG、链下状态通道……概述区块链可扩展性的解决方案！](https://blog.csdn.net/csdnnews/article/details/104853401)
@@ -98,36 +98,36 @@ categories: IT NEWS
  ## [一文快速探索视频用户网络画像与应用](https://blog.csdn.net/csdnnews/article/details/104853397)
  > 作者 |阿里文娱无线开发专家 稻乐阿里文娱测试开发工程师 心膂责编 | 屠敏背景视频用户是移动网络流量的主要消费者。和其他APP相比，观看视频的用户体...
 # 人工智能 
- ## [HTML学习笔记（五）——表单](https://blog.csdn.net/weixin_44122062/article/details/104801603)
+ ## [爬虫之爬取英雄联盟战绩详细数据](https://blog.csdn.net/QNMLGB2/article/details/104788782)
+ > 爬虫之爬取英雄联盟战绩详细数据
+ ## [别再自己抠图了，Python用5行代码实现批量抠图](https://blog.csdn.net/ZackSock/article/details/104738652)
  > 
- ## [使用uni-app开发叮咚买菜的一些笔记](https://blog.csdn.net/xiaocuige007/article/details/104816780)
- > 使用uni-app开发叮咚买菜的一些笔记
- ## [有道云笔记突然出现乱码 日记变成乱码](https://blog.csdn.net/zoooo_/article/details/104791500)
- > 有道云笔记突然出现乱码 日记变成乱码
- ## [基于eCharts+D3的数据可视化平台前端实现方案](https://blog.csdn.net/HiSen_CSDN/article/details/104714233)
- > 基于eCharts+D3的数据可视化平台前端实现方案
+ ## [python3用urllib抓取贴吧邮箱和QQ实例](https://blog.csdn.net/haoxun09/article/details/104806925)
+ > python3用urllib抓取贴吧邮箱和QQ实例
+ ## [一个资深小说迷打开小说的正确姿势（续）----百度AI文字转语音](https://blog.csdn.net/weixin_39815001/article/details/104776229)
+ > 
+ ## [Python爬虫必备技术点（一）](https://blog.csdn.net/ahhqdyh/article/details/104788387)
+ > Python爬虫必备技术点（一）
+ ## [深入讲解Python函数中参数的使用及默认参数的陷阱](https://blog.csdn.net/haoxun10/article/details/104806026)
+ > 深入讲解Python函数中参数的使用及默认参数的陷阱
+ ## [初学者python笔记（os模块、sys模块）](https://blog.csdn.net/Viewinfinitely/article/details/104756848)
+ > 初学者python笔记（os模块、sys模块）
+ ## [python 随机森林算法及其优化详解](https://blog.csdn.net/haoxun08/article/details/104828872)
+ > python 随机森林算法及其优化详解
+ ## [解决pip3 install mysqlclinet 报错 OSError: mysql_config not found](https://blog.csdn.net/weixin_44129085/article/details/104819731)
+ > 解决pip3 install mysqlclinet 报错 OSError: mysql_config not found
  ## [Python爬取某视频并下载](https://blog.csdn.net/weixin_45346759/article/details/104779740)
  > 
- ## [CSS3 渐变新特性和HTML5 Canvas画布背景渐变实现方法详解](https://blog.csdn.net/pycharm_k/article/details/104821237)
+ ## [Python递归与非递归算法的例子，七个练习](https://blog.csdn.net/weixin_46227398/article/details/104815263)
+ > Python递归与非递归算法的例子，七个练习
+ ## [python小练习之多维叠加和统计分布（一）](https://blog.csdn.net/qq_35149632/article/details/104814820)
+ > python小练习之多维叠加和统计分布（一）
+ ## [python如何爬取网站数据并进行数据可视化](https://blog.csdn.net/haoxun09/article/details/104828417)
+ > python如何爬取网站数据并进行数据可视化
+ ## [Python 批量下载BiliBili视频 打包成软件](https://blog.csdn.net/CUFEECR/article/details/104736564)
  > 
- ## [一篇文章帮你入门jQuery](https://blog.csdn.net/Mine____/article/details/104784126)
- > 一篇文章帮你入门jQuery
- ## [设置setTimeout延时为0ms的作用](https://blog.csdn.net/weixin_42881768/article/details/104793703)
- > 设置setTimeout延时为0ms的作用
- ## [智慧树/知到  一键刷课脚本代码（网页自动版 2020最新版）](https://blog.csdn.net/qq_41523096/article/details/86517273)
- > 智慧树/知到  一键刷课脚本代码（网页自动版 2020最新版）
- ## [Flutter布局组件之层叠组件Stack和Positioned](https://blog.csdn.net/m0_46369686/article/details/104791376)
- > Flutter布局组件之层叠组件Stack和Positioned
- ## [使用JS+socket.io+WebRTC+nodejs+express搭建一个简易版远程视频聊天](https://blog.csdn.net/time_____/article/details/104801205)
- > 使用JS+socket.io+WebRTC+nodejs+express搭建一个简易版远程视频聊天
- ## [妙用CSS变量，让你的CSS变得更心动](https://blog.csdn.net/JowayYoung/article/details/104791809)
- > 
- ## [MPAndroidChart的详细使用——ViewPortHandler（视图控制器）](https://blog.csdn.net/qq_44720366/article/details/104816210)
- > MPAndroidChart的详细使用——ViewPortHandler（视图控制器）
- ## [从浅到深，带你彻底搞懂AJAX异步请求](https://blog.csdn.net/qq_40205116/article/details/104732478)
- > 从浅到深，带你彻底搞懂AJAX异步请求
- ## [前端面试知识梳理（高级前端开发工程师）](https://blog.csdn.net/u010651383/article/details/104791218)
- > 
+ ## [Python 学习笔记(1)](https://blog.csdn.net/Jakson_poor/article/details/104800496)
+ > Python 学习笔记(1)
 # PM 
  ## [网约车行业数字化升级](http://www.chanpin100.com/article/110978)
  > 2019年中国网约车市场整体交易金额达3044.1亿元，环比增长3%。受到宏观经济放缓、政策趋严等因素影响，市场交易规模增速放缓，进入规范化调整期。
