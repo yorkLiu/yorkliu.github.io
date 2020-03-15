@@ -1,21 +1,23 @@
 ---
 title: 2020-03-15 IT News
 copyright: true
-date: 2020-03-15 09:01:51
+date: 2020-03-15 10:01:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [广电5G新军战“疫”，无接触新闻发布会成常态](http://mp.weixin.qq.com/s?src=11&timestamp=1584232217&ver=2217&signature=s-hV5wRtzikPpsEf743iXpDc7watROmNLhM*CoxAcIxwpMK9EUucajCLotGAIn2-cYU645Q*PG-i4CsAksLxZ83wy2QnKNY9eMd7zLr3mgQqMeVnqz*kkKCTTXYmcHHq&new=1)
- > 国家广播电视总局统筹协调，中国广电协同湖北广电网络和湖北广播电视台等机构，在武汉72小时开通广电5G网络，连续为国新办和湖北省政府的无接触新闻发布会提供5G直播支持。截至3月13日，已连续保障湖北省新冠肺...
- ## [安徽某运营商携号转网投诉排名居然那么高：31个省公司排第五](http://mp.weixin.qq.com/s?src=11&timestamp=1584232217&ver=2217&signature=cesJaW0nJ37P0rLIl-d42ixVnBM6Pr0hH9OzkC*Kg6l*edzapwElGQBEWbdEWXHNeTedqExVGIJtcD7ci2JZ-mR7T*0185652*6raTnxU5cHbIaFvCcPv8musRNqbBdI&new=1)
- > 运营商财经网 吴碧慧/文 据知情人士向运营商财经网独家透露，截至2020年2月底，安徽某运营商在用户携号转网投诉中，在该运营商31个省公司中排名第五位，且累计达427件，其中投诉较多的属携出受限、靓号难携出等...
- ## [Wi-Fi 6的高光时刻，始于2020](http://mp.weixin.qq.com/s?src=11&timestamp=1584232217&ver=2217&signature=Nq8l6spbu3qDtnl4mioLLiuYE-89AImJIPJQIjyKuEPQN59JfcrfX1KmUkxBzcDKihU9AlgfNVOzXYEFTnJrUTNFKc4gQZcoGqCKo9zU6mR-Q6JXB7yWE4VuAIH7Vqbz&new=1)
- > 有个21天法则，说养成一个习惯，只需21天。　　突如其来的疫情，让大多数人们“宅”家长达一个月。很多人也都慢慢习惯了这样的生活，宅在家可以，但唯独不能没有网。于是，网游、直播、短视频、网购、远程办公等...
- ## [卧槽，华为这是要硬刚谷歌啊](http://mp.weixin.qq.com/s?src=11&timestamp=1584232217&ver=2217&signature=oShXCfQEZE4ckZNWv3YYghG3yOiM-aIliJaHZFbby9BJZJJVZTOqSFZbJ1f09P4eEOunnLyYmeKlKQrQ8O5dIkppC7Z1na6c3zHeqT12OUr7gUCIr1WNBWzLFZuoc3t2&new=1)
+ ## [\[科技早报7点整\]谷歌母公司获特朗普称赞 马斯克称新冠病毒风险远低于车祸丧生……](http://mp.weixin.qq.com/s?src=11&timestamp=1584237604&ver=2217&signature=gPNrw5cCa0u2hsDMdWU1*IwMJK2gp1YeRfUOLLrd1eY2DPq82sRSQCuzTTtKzHdOWXuRRFIuesGJF0M7I7MdnNDJSyeoGFtmPZVjzBvywDlfrUu6u5vgLnrwUfpIMsLQ&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第749期1.贾跃亭回应家人巨额索赔：40多亿是联合担保，无投票权针对贾跃亭破产重组涉嫌变相转移财产的消息，贾跃亭债务处理小组发布声明，称贾跃亭兄长的债权申报金额前后并无...
+ ## [卧槽，华为这是要硬刚谷歌啊](http://mp.weixin.qq.com/s?src=11&timestamp=1584237604&ver=2217&signature=oShXCfQEZE4ckZNWv3YYghG3yOiM-aIliJaHZFbby9BJZJJVZTOqSFZbJ1f09P4evdSMhGUl01j1vDYxt-Ozq9ONu66CWngoSALpazen2XzBPMx8kNZuAu1iFr27xjps&new=1)
  > 前不久，华为在海外发布了华为Mate Xs、荣耀 V30 和 9X。发新机很正常，机哥想强调的亮点是，以上几台新机中，都预装了华为 AppGallery（应用市场）和 HMS（华为移动服务）。这是一个强烈信号，华为移动服务，正...
- ## [超实用!“携号转网”热点问题集锦(内含监管部门检查表)](http://mp.weixin.qq.com/s?src=11&timestamp=1584232217&ver=2217&signature=8EyDVM8vBAnWGVRhT0sQX88ESurq75i79dbLUAmlPIR--*GWgrVNg4HlR3QmwtIISn-9gqUh0rI9rpsO2FOznbxMWg*07mwWFWU6PngXLHI*6djlG7TpuLhGFBx4IO3N&new=1)
+ ## [广电5G新军战“疫”，无接触新闻发布会成常态](http://mp.weixin.qq.com/s?src=11&timestamp=1584237604&ver=2217&signature=s-hV5wRtzikPpsEf743iXpDc7watROmNLhM*CoxAcIxwpMK9EUucajCLotGAIn2-b4tKocWH5re-in2xCyN47mY9qjmCq23oqNE-uv1Y*ZB6fOyWgcGWQbq1rqOq2Tkv&new=1)
+ > 国家广播电视总局统筹协调，中国广电协同湖北广电网络和湖北广播电视台等机构，在武汉72小时开通广电5G网络，连续为国新办和湖北省政府的无接触新闻发布会提供5G直播支持。截至3月13日，已连续保障湖北省新冠肺...
+ ## [安徽某运营商携号转网投诉排名居然那么高：31个省公司排第五](http://mp.weixin.qq.com/s?src=11&timestamp=1584237604&ver=2217&signature=cesJaW0nJ37P0rLIl-d42ixVnBM6Pr0hH9OzkC*Kg6l*edzapwElGQBEWbdEWXHNVSKtplsX*yA0tHyP6fu-XU-jMvXORg*S-DgKhGfyFly5BffLlKPDqXVfRjcK1VNC&new=1)
+ > 运营商财经网 吴碧慧/文 据知情人士向运营商财经网独家透露，截至2020年2月底，安徽某运营商在用户携号转网投诉中，在该运营商31个省公司中排名第五位，且累计达427件，其中投诉较多的属携出受限、靓号难携出等...
+ ## [超实用!“携号转网”热点问题集锦(内含监管部门检查表)](http://mp.weixin.qq.com/s?src=11&timestamp=1584237604&ver=2217&signature=8EyDVM8vBAnWGVRhT0sQX88ESurq75i79dbLUAmlPIR--*GWgrVNg4HlR3QmwtIISpJrklbkSIskSfqQX*P479mJjUDoGr4TimKa0cCTxGwkwKPd6Dv15cENklosNArj&new=1)
  > 近日，工信部信管局鲁副局长接受央视采访时明确表示：工信部将组织电信企业回头看，对落实不利的企业将追责省公司负责人。此番表态，透漏出在“携号转网”上，接下来一段时间，必然少不了各种明查和暗访，一旦出...
+ ## [Wi-Fi 6的高光时刻，始于2020](http://mp.weixin.qq.com/s?src=11&timestamp=1584237604&ver=2217&signature=Nq8l6spbu3qDtnl4mioLLiuYE-89AImJIPJQIjyKuEPQN59JfcrfX1KmUkxBzcDK9uEzD0IsOIwwZFbSws3YipFByJUki1vdNqM3WFH5BLQOp6nhk8PhioWqpd4eKSG8&new=1)
+ > 有个21天法则，说养成一个习惯，只需21天。　　突如其来的疫情，让大多数人们“宅”家长达一个月。很多人也都慢慢习惯了这样的生活，宅在家可以，但唯独不能没有网。于是，网游、直播、短视频、网购、远程办公等...
 # IT 技术 
  ## [2020年机器学习领域的五个潮流](http://ai.51cto.com/art/202003/612456.htm)
  > 2020年机器学习领域的五个潮流
@@ -73,36 +75,5 @@ categories: IT NEWS
  > 作者 | Jay Feng译者 | 孙薇，责编 | 屠敏头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）以下为译文：苹果...
  ## [5G、IoT 时代下，手机聚焦拍照是否走错了方向？](https://blog.csdn.net/csdnnews/article/details/104871971)
  > 作者 | 夏凯责编 | 屠敏出品 | CSDN（ID：CSDNnews）小米在2月13日发表了旗下的数字系列旗舰小米10代，作为小米首款冲击高端的产品，...
-# 人工智能 
- ## [【长文总结】2020 从零到博客专家  过去的我，现在的我，将来的我](https://blog.csdn.net/weixin_42429718/article/details/104837405)
- > 
- ## [大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神](https://blog.csdn.net/JAck_chen0309/article/details/104780288)
- > 大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神
- ## [代码转图片Carbon-高雅程序员必备!](https://blog.csdn.net/qq_33589510/article/details/104821168)
- > 代码转图片Carbon-高雅程序员必备!
- ## [我听过很多道理，却依旧过不好这一生（一个有内味儿的程序员）](https://blog.csdn.net/qq_39390545/article/details/104838519)
- > 
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [那些程序员应该掌握的算法](https://blog.csdn.net/LU_ZHAO/article/details/104821176)
- > 那些程序员应该掌握的算法
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [2020/3/12 面试的经历，程序员你怎么看？](https://blog.csdn.net/qq_43647359/article/details/104824986)
- > 2020/3/12 面试的经历，程序员你怎么看？
- ## [2020年，冯唐49岁：我给20、30岁IT职场年轻人的建议](https://blog.csdn.net/yellowzf3/article/details/103982287)
- > 
- ## [大学生及今后的java之路](https://blog.csdn.net/weixin_44861663/article/details/104814693)
- > 大学生及今后的java之路
- ## [Oracle(一)：我与安装Oracle的那些事](https://blog.csdn.net/liangsena/article/details/104825091)
- > 
- ## [良心推荐，我珍藏的一些Chrome插件](https://blog.csdn.net/qq_34337272/article/details/103928638)
- > 良心推荐，我珍藏的一些Chrome插件
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [王半仙儿的日记-0002](https://blog.csdn.net/qq_40666620/article/details/104828108)
- > 王半仙儿的日记-0002
- ## [强烈推荐10本程序员必读的书](https://blog.csdn.net/qing_gee/article/details/104085756)
- > 
 
     
