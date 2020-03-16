@@ -1,80 +1,90 @@
 ---
 title: 2020-03-16 IT News
 copyright: true
-date: 2020-03-16 09:01:56
+date: 2020-03-16 10:02:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [揭秘：中国电信集团新任总经理李正茂，何许人也?](http://mp.weixin.qq.com/s?src=11&timestamp=1584318604&ver=2219&signature=lXBt5ep6scU9J8tfb5PsHghw6vqbyvdydy-m1h-fId9*m6woU-7SyB5dmcmN8eaAozdWcLPobJEVBzQGN1ZhezP1NakCQbpxs4q8h07wkTg2*3XC4Q38IoM66sYf61uU&new=1)
- > 中国移动副总裁李正茂升任中国电信集团公司总经理后，有关李正茂背后的故事无疑也让人感兴趣。运营商财经网认为，对于李正茂，“不能简单地把他看成一个学者，或者是经理人”，他的传奇人生经历也不是“学者型企...
- ## [你的 WiFi 其实可以快三倍](http://mp.weixin.qq.com/s?src=11&timestamp=1584318604&ver=2219&signature=6AHosW0B0XJRi-FUck9RsQG4Ji1460a17fR3Iwi*cjV2UHMTDygelpO7DO-bE9FnORtGvFqBT*Os*SwYgPaY2ga*8walAZtY24buc1IGJs8aZ0cQXr-X5yEcizNxCF3t&new=1)
- > 有一种电子产品跟空气净化器一样你把它买回家设置好后不出什么意外的话就再也不会去碰它了但是跟空气净化器不一样的是一旦它不工作了问题会严重得多近期随着各家厂商陆续的发布，WiFi 6 路由器也是成为了科技圈...
- ## [我们都欠它一个道歉](http://mp.weixin.qq.com/s?src=11&timestamp=1584318604&ver=2219&signature=76XwR4CMPT1JwC*ab6tnKB8TjG-sLLFmeCx1ZVzYY2B6HwmFKCTFlVFrtF*hLCmHaWggA53LIZHBIvz46EE-TfKzq2R*JxqNQ2Z7pC6O2jwpa7VZBfgqH8JMMpq5kMEU&new=1)
- > 众所周知，全世界最主流的手机操作系统，目前只有两个：Android和iOS。而最主流的电脑操作系统，也有两个：Windows和macOS。噢对，还得加上占有率不高，但声量挺大的Linux。虽然不一定都用过，但大家多少有些了...
- ## [细数天翼云战“疫”的抢眼表现：5G+云能否变革医疗产业?](http://mp.weixin.qq.com/s?src=11&timestamp=1584318604&ver=2219&signature=KFEQQBpyOFXWilZI7ghBiFoBuqJvnO7MRYllW4pySzvRI8op2u6goDVsTyYdcwIx5DCe-SYYDNfayy77qXkrLggkp-oV6JbB5Db5ytJdjsL5mMC29PXQDjA6rJdS6kLz&new=1)
+ ## [细数天翼云战“疫”的抢眼表现：5G+云能否变革医疗产业?](http://mp.weixin.qq.com/s?src=11&timestamp=1584324004&ver=2219&signature=KFEQQBpyOFXWilZI7ghBiFoBuqJvnO7MRYllW4pySzsO0aaoQAVZ1IbnaZMZyBXUjpip7s*U5ZenRAD5rvPpm6EPd4SMWkgDqOm6AyKz*SKl1sykLHjneru-NByw-d*N&new=1)
  > 疫情之前，听到云概念时，许多人虽然觉得熟悉，但认为离自己很远。而当今年新冠肺炎疫情发生时，云技术迅速成为医务工作者抗击疫情的先进武器。如今随着3月10日武汉最后一家方舱医院正式休仓，我国抗击疫情已取...
- ## [\[C114周报\]中国移动百亿SPN集采落地；中国联通总裁李国华退休；中国电信柯瑞文：坚决不打价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1584318604&ver=2219&signature=olMRrvOBclOds1kAfLnQJdiQ4EK2TsVdaFJkWk6O02O8SKrke28WuAuP8s*L9QLzznLcc*TKXA8-fYX3BXJ33gvhlXMbmpzSCttZswK2A*7-6F-ZxGUKMMCmL-xThTAm&new=1)
+ ## [关注|近期国内三大运营商招投标消息6则](http://mp.weixin.qq.com/s?src=11&timestamp=1584324004&ver=2219&signature=RAxi89U0IFTCD0pn3NLilSKPDdyG2zLzfu1nYQ8H2tTSWFqmgdDCzCwKqJ5Dk0G8Kb9*4PMGVAlHgxGuQmpsBfXtcGtaqhsSCm4Ap7ZLWYgD*QsQUfwzEY0PpKhoJxFx&new=1)
+ > 新闻导读本文整理近期国内三大运营商6则招投标消息：中国移动2020年5G SA核心网新建设备集采启动;中国联通启动2020年重庆无源光纤复用设备集采:预估1553套;中国联通2020-2021年磁盘阵列及光纤交换机集采;重庆移...
+ ## [你的 WiFi 其实可以快三倍](http://mp.weixin.qq.com/s?src=11&timestamp=1584324004&ver=2219&signature=6AHosW0B0XJRi-FUck9RsQG4Ji1460a17fR3Iwi*cjWNysnKj3V3SHXYAdIy0E4LMeRHRmgnQlmPiN93fUVpdb3p-zDiqYFdzEbe2izss7dub9R*cDJB0aqk29ZIFgoP&new=1)
+ > 有一种电子产品跟空气净化器一样你把它买回家设置好后不出什么意外的话就再也不会去碰它了但是跟空气净化器不一样的是一旦它不工作了问题会严重得多近期随着各家厂商陆续的发布，WiFi 6 路由器也是成为了科技圈...
+ ## [\[C114周报\]中国移动百亿SPN集采落地；中国联通总裁李国华退休；中国电信柯瑞文：坚决不打价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1584324004&ver=2219&signature=olMRrvOBclOds1kAfLnQJdiQ4EK2TsVdaFJkWk6O02PVt*b1f8HFvhQ304YOC*DY1aMUvV6FW4-zMyh-25vinjS0kW3GpJ6fr12t0edAxd7QWDt2rlGTftg4oHhWFAUs&new=1)
  > 周报WEEKLY本周热点有中国移动百亿SPN集采落地；中国联通总裁李国华退休；中国电信柯瑞文：坚决不打价格战• 第084期 •中国移动百亿SPN集采落地3月10日日前，中国移动公布2020年至2021年SPN设备新建部分集中采...
+ ## [揭秘：中国电信集团新任总经理李正茂，何许人也?](http://mp.weixin.qq.com/s?src=11&timestamp=1584324004&ver=2219&signature=lXBt5ep6scU9J8tfb5PsHghw6vqbyvdydy-m1h-fId*zjk-7rUQH*DVQ8-Np1O*AUVQP1azIzHKRhVtP3KGGLM8HapsiBAM-NakJTZ11WsLmvlcMA0e8IXTOCJxb7N6z&new=1)
+ > 中国移动副总裁李正茂升任中国电信集团公司总经理后，有关李正茂背后的故事无疑也让人感兴趣。运营商财经网认为，对于李正茂，“不能简单地把他看成一个学者，或者是经理人”，他的传奇人生经历也不是“学者型企...
+ ## [我们都欠它一个道歉](http://mp.weixin.qq.com/s?src=11&timestamp=1584324004&ver=2219&signature=76XwR4CMPT1JwC*ab6tnKB8TjG-sLLFmeCx1ZVzYY2A6d0xeVmFH1Uzavv7vY8A8LFV9KmiNGTj7i*COumzkNVD5NJ1eXo7yQhPJ-TrMvpVVAr0SGAkEPi80f7AEDAYw&new=1)
+ > 众所周知，全世界最主流的手机操作系统，目前只有两个：Android和iOS。而最主流的电脑操作系统，也有两个：Windows和macOS。噢对，还得加上占有率不高，但声量挺大的Linux。虽然不一定都用过，但大家多少有些了...
 # IT 技术 
+ ## [五大免费的云存储提供商](http://cloud.51cto.com/art/202003/612556.htm)
+ > 五大免费的云存储提供商
+ ## [十大常见的Linux邮件客户端](http://os.51cto.com/art/202003/612523.htm)
+ > 十大常见的Linux邮件客户端
+ ## [疫情中互联网公司各种“骚操作”大赏！](http://news.51cto.com/art/202003/612551.htm)
+ > 疫情中互联网公司各种“骚操作”大赏！
  ## [20年工龄技术大牛的肺腑感言，字字珠玑!](http://news.51cto.com/art/202003/612550.htm)
  > 20年工龄技术大牛的肺腑感言，字字珠玑!
  ## [当初我要是这么学习Nginx就好了!(多图详解)](http://developer.51cto.com/art/202003/612549.htm)
  > 当初我要是这么学习Nginx就好了!(多图详解)
- ## [五大免费的云存储提供商](http://cloud.51cto.com/art/202003/612556.htm)
- > 五大免费的云存储提供商
- ## [疫情中互联网公司各种“骚操作”大赏！](http://news.51cto.com/art/202003/612551.htm)
- > 疫情中互联网公司各种“骚操作”大赏！
- ## [十大常见的Linux邮件客户端](http://os.51cto.com/art/202003/612523.htm)
- > 十大常见的Linux邮件客户端
  ## [2020年机器学习领域的五个潮流](http://ai.51cto.com/art/202003/612456.htm)
  > 2020年机器学习领域的五个潮流
  ## [面试问Redis锁，我脸都绿了......](http://stor.51cto.com/art/202003/612457.htm)
  > 面试问Redis锁，我脸都绿了......
  ## [性能提升2.58倍！阿里最快KV存储引擎揭秘](http://zhuanlan.51cto.com/art/202003/612496.htm)
  > 性能提升2.58倍！阿里最快KV存储引擎揭秘
+ ## [上海大学副教授“变身”萝莉，开发自制软件二次元上网课](http://news.51cto.com/art/202003/612571.htm)
+ > 为了给在家上课的同学们的同学们更好的学习体验，老师们煞费苦心，各种线上直播软件齐上阵。不过，学生还没
+ ## [手机应用还“安全”嘛？保护数据隐私意识亟待加强](http://netsecurity.51cto.com/art/202003/612565.htm)
+ > 随着互联网及智能便携设备的普及，移动互联网迅速崛起，移动端的各类应用程序越来越丰富，但在给予大众便利
+ ## [微软放弃继续开发 Visual Basic](http://news.51cto.com/art/202003/612572.htm)
+ > 微软 DevBlogs 宣布从 .NET 5 开始，Visual Basic 将支持 Class Library、Console、Windows Forms、WPF、Wo
+ ## [Linux负载均衡算法有瑕疵，修复后性能将提升一倍](http://os.51cto.com/art/202003/612566.htm)
+ > Linux 内核开发者 Vincent Guittot 发现 Linux 完全调度算法 CFS 存在瑕疵，修复之后将进一步提升调度性能
+ ## [2019 年开源软件漏洞增长近 50％，C 语言漏洞占比最高](http://news.51cto.com/art/202003/612567.htm)
+ > WhiteSource 通过对 650 多个开发人员进行了调查，并从 NVD（Nartional Vulnerability Database）、安全公
+ ## [如何使用bind设置DNS服务器](http://os.51cto.com/art/202003/612564.htm)
+ > Domain Name System，我们更通常称为 DNS 的系统，可以将域名翻译或转换为与该域关联的 IP 地址。DNS 是能
+ ## [WSL2 即将普遍可用，Linux 内核提供方式改变](http://news.51cto.com/art/202003/612569.htm)
+ > 微软博客宣布，WSL2 将在 Windows 10 2004 版本中正式进入普遍可用（GA，Generally Available）状态。
+ ## [洞察市场所需，益博睿技术创新从来都是认真的!](http://netsecurity.51cto.com/art/202003/612438.htm)
+ > 近日，51CTO记者专访益博睿大中华区分析与策略咨询总监赵国豪，就益博睿四大数据实验室成立的初衷、新的技
+ ## [浅析面向云架构的SLA](http://cloud.51cto.com/art/202003/612563.htm)
+ > 云服务重塑了企业级应用的架构，公共云成为了集成企业应用、平台软件和服务的一个设计中心。API驱动的资源
  ## [Kubernetes部署的五项安全优秀实践](http://developer.51cto.com/art/202003/612562.htm)
  > 容器的使用在企业环境中持续流行，从而增加了对管理和编排容器的需求。毫无疑问，Kubernetes（K8s）已成为
- ## [12 种使用 Vue 的优秀做法](http://developer.51cto.com/art/202003/612560.htm)
- > 随着 VueJS 的使用越来越广泛，出现了几种最佳实践并逐渐成为标准。在本文中，主要分享在平时开发中一些有
- ## [Java程序员必备基础：Java代码是怎么运行的？](http://developer.51cto.com/art/202003/612559.htm)
- > 作为一名Java程序员，我们需要知道Java代码是怎么运行的。最近复习了深入理解Java虚拟机，做了一下总结，希
- ## [基于云的数据库中的数据安全](http://database.51cto.com/art/202003/612558.htm)
- > 我听到的有关采用云技术的很常见的论据之一是对在线数据存储安全性缺乏信心。通常，负责保护组织很重要资产
- ## [解决棘手SQL性能问题，我的SQLT使用心得](http://database.51cto.com/art/202003/612561.htm)
- > SQLTXPLAIN(简称SQLT)是ORACLE COE提供的一款SQL性能诊断工具，SQLT主要方法是通过输入的一个SQL语句，从而
- ## [物联网在海上油气监测中的5个应用](http://iot.51cto.com/art/202003/612557.htm)
- > 物联网（IoT）和下一代连接为可靠且经济高效的海上监测带来了无限商机。
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
- > Java校招入职华为，半年后我跑路了
- ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
- > 
- ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
- > 
- ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
- > 
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
- > Python+OpenCV实时图像处理
- ## [python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸](https://blog.csdn.net/yuanziok/article/details/103592013)
- > python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸
- ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
- > 一个程序在计算机中是如何运行的？超级干货！！！
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
+ ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
  > 
  ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
  > 2020年2月中国编程语言排行榜
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
+ ## [身体是自己的](https://blog.csdn.net/FS1360472174/article/details/104142896)
+ > 身体是自己的
+ ## [MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）](https://blog.csdn.net/qq_41453285/article/details/104142402)
+ > MySQL(InnoDB剖析):19---table之（约束与数据完整性(唯一/主键/外键/enum/set/触发器约束、约束和索引区别、sql_mode)）
+ ## [《C++ Primer》习题参考答案：第6章 - C++模块设计——函数](https://blog.csdn.net/TeFuirnever/article/details/103671594)
+ > 《C++ Primer》习题参考答案：第6章 - C++模块设计——函数
+ ## [阿里巴巴向全社会开放黑科技：“泡在水里”的服务器](https://blog.csdn.net/alitech2017/article/details/103859969)
+ > 阿里巴巴向全社会开放黑科技：“泡在水里”的服务器
+ ## [用Python打造你的专属情人节贺卡，赶快发给TA浪漫一下吧](https://blog.csdn.net/xufive/article/details/104299791)
  > 
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
+ ## [Intellij IDEA官方最完美编程字体Mono](https://blog.csdn.net/moshowgame/article/details/104325079)
+ > Intellij IDEA官方最完美编程字体Mono
+ ## [没有项目经验怎么办？](https://blog.csdn.net/zhongyangzhong/article/details/104120813)
+ > 没有项目经验怎么办？
+ ## [不能错过！​9个让你随时保持精力充沛的习惯](https://blog.csdn.net/duxinshuxiaobian/article/details/103922102)
+ > 不能错过！​9个让你随时保持精力充沛的习惯
+ ## [Python爬取周杰伦的200首歌+BI可视化分析，青春好像又回来了](https://blog.csdn.net/yuanziok/article/details/103921611)
  > 
- ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
- > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [害怕面试被问HashMap？这一篇就搞定了！](https://blog.csdn.net/sinat_33921105/article/details/103847137)
+ ## [MFC小笔记：简单画图](https://blog.csdn.net/subfate/article/details/103651184)
+ > MFC小笔记：简单画图
+ ## [\[网络安全自学篇\] 三十七.Web渗透提高班之hack the box在线靶场注册及入门知识](https://blog.csdn.net/Eastmount/article/details/103896845)
  > 
+ ## [大屏监控系统实战（2）-后台工程搭建](https://blog.csdn.net/m0_37609579/article/details/104062646)
+ > 大屏监控系统实战（2）-后台工程搭建
+ ## [大批 IDEA 激活码到期之后的乱象...](https://blog.csdn.net/dyc87112/article/details/103938665)
+ > 大批 IDEA 激活码到期之后的乱象...
  ## [75.58 亿美元成交！美国最大规模 5G 毫米波频谱拍卖](https://blog.csdn.net/csdnnews/article/details/104890430)
  > 作者 |马超责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）美国三大股指在近日迎来了两次史诗级的暴跌，先是3月9日道指下跌近1900点，标...
  ## [Java 堆内存是线程共享的！面试官：你确定吗？](https://blog.csdn.net/csdnnews/article/details/104890434)
@@ -96,37 +106,45 @@ categories: IT NEWS
  ## [播放内核的“瘦身”，你只需要这样做！](https://blog.csdn.net/csdnnews/article/details/104890426)
  > 作者 |阿里文娱无线开发专家 城泉责编 |屠敏概述优酷播放内核是优酷自主开发的一个基于pipeline结构的SDK。它对上承接了优酷丰富灵活的业务逻...
 # 人工智能 
- ## [maven的下载和安装教程](https://blog.csdn.net/c_staunch/article/details/100981699)
- > maven的下载和安装教程
- ## [idea 报错Process finished with exit code 1](https://blog.csdn.net/SuperBins/article/details/101064691)
- > idea 报错Process finished with exit code 1
- ## [Git 天天用 但是 Git 原理你了解吗？](https://blog.csdn.net/ljk126wy/article/details/101064186)
+ ## [【蓝桥】第十一届软件类校内模拟赛（一）](https://blog.csdn.net/qq_36693514/article/details/104835259)
+ > 【蓝桥】第十一届软件类校内模拟赛（一）
+ ## [Redis实现商品秒杀功能](https://blog.csdn.net/weixin_45736927/article/details/104845046)
+ > Redis实现商品秒杀功能
+ ## [RabbitMQ - Spring boot 整合](https://blog.csdn.net/weixin_38305440/article/details/104807062)
  > 
- ## [HTTP Status 404 – 未找到](https://blog.csdn.net/Mr_ZHOUZHOU/article/details/101013048)
- > HTTP Status 404 – 未找到
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA常用配置和常用插件](https://blog.csdn.net/ThinkWon/article/details/101020481)
- > IDEA常用配置和常用插件
- ## [git从gitlab拉取最新的代码到本地](https://blog.csdn.net/itcats_cn/article/details/100936303)
- > git从gitlab拉取最新的代码到本地
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [GoogleHosts](https://blog.csdn.net/weweeeeeeee/article/details/101215707)
- > GoogleHosts
- ## [强烈推荐：一个网页转安卓App的工具，可以在线云打包apk](https://blog.csdn.net/u011728344/article/details/101019941)
- > 强烈推荐：一个网页转安卓App的工具，可以在线云打包apk
- ## [Maven项目中Failure to transfer问题以及解决方法](https://blog.csdn.net/blueheart20/article/details/101113964)
- > Maven项目中Failure to transfer问题以及解决方法
- ## [百融榕树通过大数据分析，记录用户喜好](https://blog.csdn.net/dongsijia/article/details/101164094)
- > 百融榕树通过大数据分析，记录用户喜好
- ## [关于VScode切换、拉取、推送、合并分支，并解决冲突](https://blog.csdn.net/qq_36398269/article/details/100984360)
- > 关于VScode切换、拉取、推送、合并分支，并解决冲突
- ## [docker无法访问localhost的一种解决方法](https://blog.csdn.net/ScanQ/article/details/101120250)
- > docker无法访问localhost的一种解决方法
+ ## [走进栈溢出](https://blog.csdn.net/weixin_41185953/article/details/104855669)
+ > 走进栈溢出
+ ## [死磕Lambda表达式（六）：Consumer、Predicate、Function复合](https://blog.csdn.net/heihaozi/article/details/104582662)
+ > 
+ ## [看完这篇 HTTPS，和面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/104856083)
+ > 
+ ## [艾永亮：中国企业如何跳出竞争红海？超级产品战略引发新思考](https://blog.csdn.net/qq_37542544/article/details/104857285)
+ > 艾永亮：中国企业如何跳出竞争红海？超级产品战略引发新思考
+ ## [2020年腾讯校招移动客户端面经，已拿offer](https://blog.csdn.net/qq_39131246/article/details/104860595)
+ > 2020年腾讯校招移动客户端面经，已拿offer
+ ## [奥利给！！字体/颜色对话框这么豪横的解释，赶紧PICK一下吧！！](https://blog.csdn.net/l59565455/article/details/104844175)
+ > 
+ ## [并发编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104863992)
+ > 并发编程面试题（2020最新版）
+ ## [Java NIO](https://blog.csdn.net/weixin_43932553/article/details/104866069)
+ > Java NIO
+ ## [C++ 入门算法，你必须懂的“顺序表”](https://blog.csdn.net/cpp_learner/article/details/104833889)
+ > 
+ ## [单例模式的优缺点、注意事项、使用场景](https://blog.csdn.net/weixin_40032967/article/details/104867164)
+ > 单例模式的优缺点、注意事项、使用场景
+ ## [Dart 语言学习 05 函数和异常](https://blog.csdn.net/m0_37771142/article/details/104865941)
+ > Dart 语言学习 05 函数和异常
+ ## [python基础编程：python PyAutoGUI 模拟鼠标键盘操作和截屏功能](https://blog.csdn.net/haoxun11/article/details/104868391)
+ > python基础编程：python PyAutoGUI 模拟鼠标键盘操作和截屏功能
 # PM 
+ ## [如何让“智能货柜”的补货效益最大化？](http://www.woshipm.com/pd/3517276.html)
+ > 有些人会觉得“智能货柜补货”没什么难度，算不得问题。但补货不合理其实能带来不小的低效益与损失。那么为了避免此类消极影响，我们该采取什么样的补货策略呢？本文将揭...
+ ## [O2O 运营 & BD 们，你们可能正在失去竞争力](http://www.woshipm.com/zhichang/3505733.html)
+ > O2O的风口已过，那些被时局害了的”好苗子”怎么过的怎么样？他们又该如何自救？作为一名互联网职业规划师，常常接触到各种苦闷的童鞋。最近发现有一拨背...
+ ## [项目管理三步论](http://www.woshipm.com/zhichang/3484886.html)
+ > 在跨多团队协作时，项目管理能力更显重要，否则一地的鸡毛和相互扯皮让团队成员相互推诿和彼此抱怨。那么，我们又该如何做好一个项目管理呢？当我们准备做一个项目时...
+ ## [产品经理的王牌思维：产品游戏化](http://www.woshipm.com/pmd/3516281.html)
+ > 游戏之所以容易让人沉迷，是因为它足够的简单，足够的自由，足够的认同。1. 最能彰显自我个性的地方除了QQ和游戏，从来没有任何一款应用能让我在乎等级和成长体系，...
  ## [线上课程 | 新人一学就能用的Axure9.0操作，更快画出标准、规范原型](http://www.woshipm.com/online/3526670.html)
  > “老大常说我画的原型好丑”“每次画原型，都被打回来反反复复修改，浪费很多时间”“要给甲方出交互高保真，但很多交互做不出，太难了……”刚做产品经理一段时间的你，在...
 
