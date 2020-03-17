@@ -1,21 +1,23 @@
 ---
 title: 2020-03-17 IT News
 copyright: true
-date: 2020-03-17 08:00:49
+date: 2020-03-17 09:00:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [你和微软的距离，就差这次点击](http://mp.weixin.qq.com/s?src=11&timestamp=1584401404&ver=2221&signature=sPngBoh6c2nwg6bGjHGJS3e57TGCXvD5-At6ZpdhVAuMQkh5*JJnQ14D2lWdSnoIj6403hByoTv-vNacjPS8dE49gMVh8p1Lpi7skSzWv3kmKz2Vap2h3AwtcQNRuDyn&new=1)
- > （本文阅读时间：5 分钟）在文章开始前先问大家一个问题，你什么时候会感觉到微软其实距离我们的生活很近？在日常工作中使用Office的时候，感觉微软离日常工作很近；在对业务进行云上管理的时候，感觉微软离业务...
- ## [供应链|技术抗疫，黑科技3D手势操控方案详解，可供对接。](http://mp.weixin.qq.com/s?src=11&timestamp=1584401404&ver=2221&signature=W3pVaJv2f55sCCKwa9oCRd4XPTUEcKm8PS2NRgrcKC4Bi6U6lyfRcjlSI*spd3qhJKUPZ1Ik2AgRA9TfL9yX8p-6U8ue98BpOCICRSnbtMZ8ZPf57eG7c3DX6SDr3ekL&new=1)
+ ## [供应链|技术抗疫，黑科技3D手势操控方案详解，可供对接。](http://mp.weixin.qq.com/s?src=11&timestamp=1584405004&ver=2221&signature=W3pVaJv2f55sCCKwa9oCRd4XPTUEcKm8PS2NRgrcKC4Bi6U6lyfRcjlSI*spd3qhgLZ8cVJFdlU3x5CQvmUft3106V**VsKnvpOg8tL9mYICJZNhi9F6nNyuqv1roroN&new=1)
  > 主控芯片微波炉 开发板资料，点击查看：MGC3130 开发板套件https://biz.ingdan.com/home/product_detail-194.html 关于芯片资料，点击查看：MGC3130 跟踪和手势控制器https://
- ## [LVMH宣布生产洗手液丨比特币短线突破5400美元\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584401404&ver=2221&signature=HI-bgRNMf7TJr1-jKeT8v58CSkgrcPF6VRZMy*oQIW9LveLr6qPmZUzKEn96QXtA4iqrwDpYC5QWb8ueJjEPU5jPcNxVOvPo8UUtou3A9CvcNv-174tq-Cun2uJkw3nH&new=1)
- > 3月16日丨周一【Do说】编辑 | 赵艾虎LVMH宣布生产洗手液：免费供应，助力抗击疫情法国奢侈品巨头路威酩轩集团(LVMH)当地时间周日宣布，准备使用其香水和化妆品工厂来生产洗手液，以帮助应对新冠疫情造成的此类产...
- ## [半夜机叫，中国移动把我“5G”了!](http://mp.weixin.qq.com/s?src=11&timestamp=1584401404&ver=2221&signature=IcjV64X9Rvf8o0ouOLLGDLX5oYLjIDJFFkKwJbos8jSo8vVZHqDGK*5l7FcVwPIpW8zxft-mQOhR-Nsj*6qfDHY7CmU62AdcpIL35fEQchNlyzQSjq*JoR98lrOpnQ0p&new=1)
+ ## [半夜机叫，中国移动把我“5G”了!](http://mp.weixin.qq.com/s?src=11&timestamp=1584405004&ver=2221&signature=IcjV64X9Rvf8o0ouOLLGDLX5oYLjIDJFFkKwJbos8jSo8vVZHqDGK*5l7FcVwPIpdDPCzRJxXOOySZa*rQrkfxr-uXQ30C91Js3lomH5Mu4I4CwDCqemNvr60k6*Opaw&new=1)
  > 【摘要】，对于缺乏升级换代热情的手机用户，三大运营商其实也不必过于沮丧，因为就技术特性和业务趋势而言，5G本来就不是设计给人用的。以5G高速率、低时延和广连接的特点，更多地满足的是To B行业里物联网和产...
- ## [市场呼唤更先进的大数据中心丨新基建新动能新增长系列报道之二](http://mp.weixin.qq.com/s?src=11&timestamp=1584401404&ver=2221&signature=fKIesreCsv5aqRDWEFZw7axWrc9DbyefSCylUfCGoF*oOQCHJrnSeKd71IafJks8-cBe35MB2kEKs4*VxXTd81m104BCvPeMIUQBexLdQXuyZY5V*glxheLZNXkFyuum&new=1)
+ ## [市场呼唤更先进的大数据中心丨新基建新动能新增长系列报道之二](http://mp.weixin.qq.com/s?src=11&timestamp=1584405004&ver=2221&signature=fKIesreCsv5aqRDWEFZw7axWrc9DbyefSCylUfCGoF*oOQCHJrnSeKd71IafJks8MxGqrjUT-TCYhN8lFhL3MRuzvv2uDsgpC4g6KUm54CcX1ADXCtHVD94z64d8fLAp&new=1)
  > 编者按：3月4日，习近平总书记在中共中央政治局常务委员会上强调，要加快5G网络、数据中心等新型基础设施建设进度。新一代信息技术是新基建的重要推动力量，以5G、人工智能、工业互联网等为核心的新基建，代表着...
+ ## [LVMH宣布生产洗手液丨比特币短线突破5400美元\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584405004&ver=2221&signature=HI-bgRNMf7TJr1-jKeT8v58CSkgrcPF6VRZMy*oQIW9LveLr6qPmZUzKEn96QXtAzBWUE8pU5heNBqCW9j-1MgWLwZSz2jq0SZqiJGgu6VM-0Lm-ovG6pXWsBh3DhmNn&new=1)
+ > 3月16日丨周一【Do说】编辑 | 赵艾虎LVMH宣布生产洗手液：免费供应，助力抗击疫情法国奢侈品巨头路威酩轩集团(LVMH)当地时间周日宣布，准备使用其香水和化妆品工厂来生产洗手液，以帮助应对新冠疫情造成的此类产...
+ ## [新技术|诺基亚贝尔实验室创下1.52Tbit/s世界最高单载波比特率](http://mp.weixin.qq.com/s?src=11&timestamp=1584405004&ver=2221&signature=WDhPlyRKhxPQYNAdq7iBMsW1J*6XQ7NcSAl1M6t5gL4TJtVKL-k9M4QklJy2I8ESs-VGLNZCXjGen1D26DUsTTo3mW82BGoMpQ8w*vZlvaBN0pizBxZhHXmzPIJDDzQ-&new=1)
+ > 新闻导读诺基亚贝尔实验室上周五宣布在80公里的标准单模光纤上创下了最高单载波比特率的世界纪录--1.52Tbit/s，这相当于同时传输150万个Youtube视频。这一成就打破了该团队在2019年9月创下的1.3Tbit/s的记录。IC...
+ ## [你和微软的距离，就差这次点击](http://mp.weixin.qq.com/s?src=11&timestamp=1584405004&ver=2221&signature=sPngBoh6c2nwg6bGjHGJS3e57TGCXvD5-At6ZpdhVAuMQkh5*JJnQ14D2lWdSnoI-Nk7VIZbgXk54FtnG7uQ8PZdxmmI9zVrKrEYS5liKjRUMKhcxMBAmYp6I8isS-Dv&new=1)
+ > （本文阅读时间：5 分钟）在文章开始前先问大家一个问题，你什么时候会感觉到微软其实距离我们的生活很近？在日常工作中使用Office的时候，感觉微软离日常工作很近；在对业务进行云上管理的时候，感觉微软离业务...
 # IT 技术 
  ## [百度工程师非法控制公司服务器“挖矿”：4个月赚10万，判坐牢3年](http://news.51cto.com/art/202003/612611.htm)
  > 百度工程师非法控制公司服务器“挖矿”：4个月赚10万，判坐牢3年
@@ -33,36 +35,52 @@ categories: IT NEWS
  > 十大常见的Linux邮件客户端
  ## [谷歌重磅开源新技术：5行代码打造无限宽神经网络模型](http://news.51cto.com/art/202003/612577.htm)
  > 谷歌重磅开源新技术：5行代码打造无限宽神经网络模型
- ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
+ ## [新基建窗口期，制造企业如何拥抱工业互联网？](http://www.cioage.com/art/202003/612643.htm)
+ > 那么，工业制造企业如何抓住“新基建”的窗口期?如何拥抱工业互联网?这成为众多企业家、及从业人员密切关注
+ ## [为什么您的企业需要备份数据库](http://database.51cto.com/art/202003/612642.htm)
+ > 为什么您的企业需要备份数据库
+ ## [盘点全球十大搜索引擎：中国百度只能排第三！](http://news.51cto.com/art/202003/612639.htm)
+ > 在当今互联网高速发展的二十一世纪，通过搜索引擎你可以了解全世界，那么你知道使用率最高的十个搜索引擎是
+ ## [尽管预测性/预防性维护很重要，但维护人员仍不愿意使用基于互联网的维护](http://iot.51cto.com/art/202003/612640.htm)
+ > 由于计划外的停机时间和不良的资产质量，制造业和加工业每年损失约200亿至600亿美元。大多数组织都充分意识
+ ## [2020年人工智能落地思考机遇与挑战谁更胜一筹?](http://ai.51cto.com/art/202003/612638.htm)
+ > 爱分析在近日发布了《人工智能2020:落地挑战与应对》。报告回顾了人工智能的行业概况，并结合实践案例分析
+ ## [我们是否需要下调对智慧城市的预期?](http://www.cioage.com/art/202003/612636.htm)
+ > 眼下，对待“智慧城市”，我们需要下调对它的预期，因为目前的城市还的确不够“智慧”;但从长远来看，疫情
+ ## [攻击者利用过期安全证书传播恶意软件](http://netsecurity.51cto.com/art/202003/612637.htm)
+ > 网络罪犯分子一直在尝试一种新的分发恶意软件的方法：通过含有指向恶意软件的“安装(推荐)”按钮的过期安全
+ ## [不用担心：如何在物联网项目中建立安全性](http://iot.51cto.com/art/202003/612635.htm)
+ > 物联网项目有很多安全问题需要考虑。关键是采取切实可行的方法，并提前检查所有风险，并制定一个将风险降至
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
+ ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
+ > Java校招入职华为，半年后我跑路了
+ ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
  > 
- ## [分布式系统 in 2010s ：测试和运维](https://blog.csdn.net/TiDB_PingCAP/article/details/103985567)
- > 分布式系统 in 2010s ：测试和运维
- ## [Python代码实现压缩软件](https://blog.csdn.net/gdkyxy2013/article/details/103757893)
+ ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
  > 
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
+ > 
  ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
  > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [Proteus原理仿真之霓虹灯实验](https://blog.csdn.net/dyq1995/article/details/103613222)
- > Proteus原理仿真之霓虹灯实验
- ## [HTML中img标签base64显示图片](https://blog.csdn.net/gdkyxy2013/article/details/103748351)
- > HTML中img标签base64显示图片
- ## [Android开发学习之路-加固实践](https://blog.csdn.net/eastmoon502136/article/details/103703950)
+ ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
+ > Python+OpenCV实时图像处理
+ ## [python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸](https://blog.csdn.net/yuanziok/article/details/103592013)
+ > python爬取+BI分析5000条内衣数据，发现妹子最爱这款文胸
+ ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
+ > 一个程序在计算机中是如何运行的？超级干货！！！
+ ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
  > 
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [让开发效率“飞起”的VS Code 插件](https://blog.csdn.net/howgod/article/details/104057773)
- > 让开发效率“飞起”的VS Code 插件
- ## [从养孩子谈谈 IO 模型（一）](https://blog.csdn.net/javaforwork/article/details/103900812)
- > 从养孩子谈谈 IO 模型（一）
- ## [TiExciting —— 让 TiDB 部署轻松简单](https://blog.csdn.net/TiDB_PingCAP/article/details/103921679)
- > TiExciting —— 让 TiDB 部署轻松简单
+ ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
+ > 2020年2月中国编程语言排行榜
+ ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
+ > 
  ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
+ ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
+ > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
  ## [拿着 22 万美元年薪，混得还不如实习生？](https://blog.csdn.net/csdnnews/article/details/104912590)
  > “我曾尝试引入非结构化开发环境的流程；我曾尝试从运行生产服务的后台到为没有生产经验的人运行项目提供支持；我曾尝试改善工作流程和引入可重复的测试........
  ## [培训班出身需隐瞒经历吗？商业项目经验怎样写？程序员面试准备大盘点](https://blog.csdn.net/csdnnews/article/details/104912591)
@@ -78,37 +96,43 @@ categories: IT NEWS
  ## [干货！Python与MySQL数据库的交互实战](https://blog.csdn.net/csdnnews/article/details/104912585)
  > 作者|Huang supreme，责编 | 郭芮头图 | CSDN 下载自视觉中国安装PyMySQL库如果你想要使用python操作MySQL数据库...
 # 人工智能 
- ## [没用过这些IDEA插件？怪不得写代码头疼](https://blog.csdn.net/wangshuaiwsws95/article/details/104834697)
+ ## [并发编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104863992)
+ > 并发编程面试题（2020最新版）
+ ## [看完这篇 HTTPS，和面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/104856083)
  > 
- ## [看这一篇就够了！-Ajax详解](https://blog.csdn.net/Oriental_/article/details/104863762)
+ ## [学妹问图的搜索算法，我用最通俗易懂的讲解让她学会了](https://blog.csdn.net/JAck_chen0309/article/details/104864808)
  > 
- ## [JavaScript中的Generator(生成器)](https://blog.csdn.net/liuyifeng0000/article/details/104875251)
+ ## [【JVM和性能优化】5. 深入了解性能优化](https://blog.csdn.net/qq_31821675/article/details/104864128)
+ > 【JVM和性能优化】5. 深入了解性能优化
+ ## [【蓝桥】第十一届软件类校内模拟赛（一）](https://blog.csdn.net/qq_36693514/article/details/104835259)
+ > 【蓝桥】第十一届软件类校内模拟赛（一）
+ ## [再读线性回归 Linear Regression (逻辑回归)](https://blog.csdn.net/chikily_yongfeng/article/details/104849616)
+ > 再读线性回归 Linear Regression (逻辑回归)
+ ## [PHP二维数组筛选两个键名与元素都相同的数据](https://blog.csdn.net/xuanziran/article/details/104872331)
+ > PHP二维数组筛选两个键名与元素都相同的数据
+ ## [python基础教程：Python: tkinter窗口屏幕居中,设置窗口最大,最小尺寸实例](https://blog.csdn.net/haoxun08/article/details/104887373)
+ > python基础教程：Python: tkinter窗口屏幕居中,设置窗口最大,最小尺寸实例
+ ## [Golang连接Redis数据库](https://blog.csdn.net/qq_42346414/article/details/104881103)
+ > Golang连接Redis数据库
+ ## [Jsp+Ssm+Mysql实现的校园二手交易市场系统](https://blog.csdn.net/qq_40985788/article/details/104868725)
+ > Jsp+Ssm+Mysql实现的校园二手交易市场系统
+ ## [ZUCC_BB平台-Quiz B-3-3-答案](https://blog.csdn.net/Gabrielle_OyO/article/details/104866155)
+ > ZUCC_BB平台-Quiz B-3-3-答案
+ ## [LeetCode 1383. 最大的团队表现值（贪心，优先队列，难）](https://blog.csdn.net/qq_21201267/article/details/104882484)
+ > LeetCode 1383. 最大的团队表现值（贪心，优先队列，难）
+ ## [没想到 Python 中竟然还藏着这些稀奇古怪的东西...](https://blog.csdn.net/u013486414/article/details/104873811)
  > 
- ## [教你如何用JavaScript写个贪吃蛇出来(超详细)](https://blog.csdn.net/qq_40060770/article/details/104877437)
+ ## [Reids实现消息队列的思路与方式](https://blog.csdn.net/y506798278/article/details/104858995)
  > 
- ## [javascript事件侦听器](https://blog.csdn.net/m0_46399431/article/details/104881491)
- > javascript事件侦听器
- ## [Python爬虫进阶之爬取某视频并下载](https://blog.csdn.net/weixin_45346759/article/details/104779740)
- > 
- ## [JavaScript拖拽效果](https://blog.csdn.net/luffy_999/article/details/104884538)
- > JavaScript拖拽效果
- ## [拒绝JavaScript，这三个CSS技巧你一定用的上​](https://blog.csdn.net/duninet/article/details/104841400)
- > 
- ## [javascript的正则表达式](https://blog.csdn.net/csgo555/article/details/104883041)
- > javascript的正则表达式
- ## [数据类型的转化（JavaScript）](https://blog.csdn.net/qq_39406353/article/details/104864224)
- > 数据类型的转化（JavaScript）
- ## [前端关于JS实现贪吃蛇](https://blog.csdn.net/AD8XX/article/details/104868438)
- > 
- ## [JS实现贪吃蛇](https://blog.csdn.net/qq_41383900/article/details/104876440)
- > 
- ## [如何用JS实现一个简单的拖拽事件](https://blog.csdn.net/weixin_43938220/article/details/104859426)
- > 如何用JS实现一个简单的拖拽事件
- ## [JavaScript的正则表达式](https://blog.csdn.net/lzqihi/article/details/104874986)
- > JavaScript的正则表达式
- ## [JavaScript正则表达式小结](https://blog.csdn.net/weixin_46558926/article/details/104857160)
- > JavaScript正则表达式小结
+ ## [一篇文章带你入门爬虫丶刷网课丶刷文章阅读量丶刷刷刷。](https://blog.csdn.net/ClassmateLin/article/details/104423904)
+ > 一篇文章带你入门爬虫丶刷网课丶刷文章阅读量丶刷刷刷。
 # PM 
+ ## [跨境支付（五）：可应用的领域有哪些？](http://www.woshipm.com/it/3520984.html)
+ > 支付机构依据国家外汇管理局跨境外汇支付试点政策，开展跨境电子商务货物贸易及服务贸易跨境资金结算服务。此前跨境支付试点业务范围主要包括十大行业：货物贸易、酒店...
+ ## [掌握3个数据化思维方式，助你游刃有余地解决问题](http://www.woshipm.com/zhichang/3512536.html)
+ > 很多人会好奇行业大佬们的“成功秘诀”是什么？又是什么样的思维方式打造了行业大佬们的深度洞察能力与前瞻性？笔者通过层层分析后，认为掌握文章提到的三个思维方法，我...
+ ## [线上课程丨想要把产品经理基本功做到80分，你应该怎么做？](http://www.woshipm.com/online/3534845.html)
+ > 参与感少，协作中如何发挥自己的作用？没有方向，应该如何去提升自己的能力？每天很忙，可是完全看不到自己的进步？作为产品经理，最应该提升的能力是什么？刚刚...
  ## [2020年2月易观千帆移动AppTOP1000榜单](http://www.chanpin100.com/article/111005)
  > 嗨，又到了每月15日榜单发布时，这个月各领域又有哪些精彩的内容呢？为了让大家快速了解本月情况，小易准备了几条榜单快讯，一起来看看吧～
  ## [Lessismore?极简主义在Web设计中的真相](http://www.chanpin100.com/article/111004)
