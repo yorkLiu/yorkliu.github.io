@@ -1,7 +1,7 @@
 ---
 title: 2020-03-19 IT News
 copyright: true
-date: 2020-03-19 10:01:38
+date: 2020-03-19 12:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -88,47 +88,91 @@ NASA&#21644;SpaceX&#25311;&#23450;&#20110;5&#26376;&#20013;&#19979;&#26092;&#368
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [3.25讯石直播|是德科技联合FormFactor 推出“硅光及Wafer-Level“”测试讲解，欢迎观看!](http://mp.weixin.qq.com/s?src=11&timestamp=1584581419&ver=2225&signature=5evdCUKazhn4gPytU8VMTFE*ppnoJIRVUAuZp6o9TGdkNemund0TIdw5ZbVzq4mMHrXPJsx5LTjxdt6TOjHGAh9t*bCXIYhgzA5VqesBP8Bf3f8vJ31JxIMKByMftXXe&new=1)
+ ## [8点见|苹果发布iPad Pro等多款新品；百度今年将全员涨薪；思科否认裁员](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=rfcRg0frZ9v8hevZiYuw0zRBQZftcbQ8TWISesCyrpeyQytTIpTL-IZLddjRC-oexdVGs3OycYBPkXsEf1LNk3nIS8pL2abJbVFkyHmhA8knaF3J9uC1HtSR6fEYH9mR&new=1)
+ > 各位小伙伴们，早上好呀！昨天北京大风又双叒上微博热搜啦！近日京津冀等地遭今年以来最强大风天气，并伴有沙尘暴。在家一定要关好门窗！在路上要注意安全，谨防高空坠物！好了，话不多说，开始今天的早报！苹果...
+ ## [3.25讯石直播|是德科技联合FormFactor 推出“硅光及Wafer-Level“”测试讲解，欢迎观看!](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=5evdCUKazhn4gPytU8VMTFE*ppnoJIRVUAuZp6o9TGdkNemund0TIdw5ZbVzq4mMxZoTSTmLr60Sx*IYhtbLE9-lgfIM6miGv-wm7oU7NfMYKnBWqpoXTa8DTHt2*kCh&new=1)
  > 新闻导读3月25日上午10点，是德科技测试专家联合FormFactor技术顾问将就“关于硅光测试发展概况和精准高效的 Wafer-Level 测试挑战及解决方案”的相关话题开启课程直播。欢迎识别二维码预约参加!ICCSZ讯 讯石直...
- ## [合规、技术、实践，从隐私保护走向数据安全|企业安全online公开课即将开课](http://mp.weixin.qq.com/s?src=11&timestamp=1584581419&ver=2225&signature=sQjkvR6VyTMQQUB1a56u00Tutlt5cDaldU0*x202zv5zo7mM5K5616aYKXOpewAwvH5dNOkGKVJibzT5j73bVdR230WtCGlNvXglc1WAl7AITCZZsNVoxxjfJ9CYUEp3&new=1)
- > 云计算、大数据等新兴科技在驱动产业数字化升级、催生海量数据的同时，也使个人和企业的隐私数据与信息更加透明化。一方面，大数据蕴藏着更复杂、更敏感、更多价值的数据，巨大的体量使得企业信息安全管理成本显...
- ## [AOC商用丨医疗智慧屏助力远程医疗，促进医疗建设与发展!](http://mp.weixin.qq.com/s?src=11&timestamp=1584581419&ver=2225&signature=iVVuAfTzm6UmR7w*Xv-iH5v4FmPqMCEybK41gLOGOnHTuQfd-t5cjVN0zsnA7L2IBD75T9QKtXPDpS48VTsZHUv-R36k-FRR6PDAFxzGS994PD9gcDOgLydGcDYMOxvv&new=1)
- > 往常说起“远程医疗”，绝大多数人可能只会想到线上挂号、缴费等，而在这次可怕的新冠肺炎疫情期间，在需要耗费大量医护资源的抗疫一线，具备高灵活性、高兼容性、方便快捷、异地在线协作等特点的“远程医疗”已...
- ## [山东某运营商倒霉了 被督察查出“无理由阻碍携号转网”](http://mp.weixin.qq.com/s?src=11&timestamp=1584581419&ver=2225&signature=-6Iwh0pr3sq-A3Lfry0FkEuUwpAiTVNZvABzFBrHjFobBKzQpQTeXbPeifS4RmqMvnT*scrAK8HIxNDOdvPT1wX7E5jxAzVi7sWEcNwv2AeD*49g4ZTXO2r-lswf6O9F&new=1)
+ ## [\[报告\]2020吉利汽车最新业务研究(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=573v5iVgb7c0smHjgEEvu5zvFW47MyLIegm7gXFlBL0cfK9-MnTuFyrlcR-ApUf4aznp6L17SDY2E6zUzybotK520x8FfUWlSg8YUbVyW5TgGtM0I8vQ-3VJ6kr299St&new=1)
+ > 数据显示，吉利汽车2019年累计销量136.2万辆，同比下滑9.3%，但表现优于市场整体。尽管销量下滑较大，但吉利依然完成了其2019年销量目标。以下为报告节选：......文│广证恒生本报告共计：46页。如欲获取完整版P...
+ ## [低至1799元，西安增材院推出手机光源3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=rMW0KKiseVgX2doUhRrdBsom59jXdwh3GsYUA46KVTF8-FnU7KaqCU22GAaaG0Xoek-zVSvaYLEZrWt*6rq7GJ-DLWP6bBlujF92ibr0sRB8cLiBDh-FxHP3GwmAVsRB&new=1)
+ > 南极熊获悉，2020年3月，西安增材制造国家研究院有限公司面曝光项目组正式在市场上推出一款便携式手机光源3D打印机——3D随身打3DM2。其实南极熊在2019年FORMNEXT上，看到了西安增材院展出了这款便携式手机光源3...
+ ## [社交巨头联合打击冠状病毒虚假信息!](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=xJ6QwNGFFYfsZxGmpzUWEelonKiKbtE*KUAGBT7vgC6xnMggbGCb3uilZBBph1SP-gtWdYOyiJlblyZe9Xy8ireMNJsS6WIaJZh-dDIeAFFni-XaYfMcOcfJTn6c94Ug&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月19日讯，多家社交软件巨头发表联合声明，承诺将打击欺诈，遏制平台上共享的冠状病毒相关的错误信息。参与的社交平台包括Facebook、Google、LinkedI
+ ## [山东某运营商倒霉了 被督察查出“无理由阻碍携号转网”](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=-6Iwh0pr3sq-A3Lfry0FkEuUwpAiTVNZvABzFBrHjFobBKzQpQTeXbPeifS4RmqM8Tivcfm-XiZsbn9ug*DMnRXW10AmxTHCFypw1ZrZDgDg06KtE*6CTy3d*-7mdrHo&new=1)
  > 运营商财经网 吴碧慧/文 近日，国办督查室工作人员根据群众在国务院“互联网+督查”平台上反映的问题进行了暗访，并公布督查结果。据结果显示，山东某运营商被督查出不少无理由阻碍携号转网，不惜设置了“靓号”...
- ## [决战决胜，科技助力，华为同行!](http://mp.weixin.qq.com/s?src=11&timestamp=1584581419&ver=2225&signature=8aqRnPsHMNnnmPbDDWjpsZ64wdttYTqAsSVzv69VrB*0BXBOW0PKUfS-LYAMpkvNtmjURl*Vdbsd08TB4A7hdupp9WrUnCRucO5AxkYRBWJWlrnOgsuoH1Xh5XBxK39k&new=1)
+ ## [合规、技术、实践，从隐私保护走向数据安全|企业安全online公开课即将开课](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=sQjkvR6VyTMQQUB1a56u00Tutlt5cDaldU0*x202zv5zo7mM5K5616aYKXOpewAwUXMZVQNZR6IZXLMnWkw-jJKcBZ-CITtO8y2fKUr7vFVtJhjIMwaQcIMOh*OoMLnt&new=1)
+ > 云计算、大数据等新兴科技在驱动产业数字化升级、催生海量数据的同时，也使个人和企业的隐私数据与信息更加透明化。一方面，大数据蕴藏着更复杂、更敏感、更多价值的数据，巨大的体量使得企业信息安全管理成本显...
+ ## [AOC商用丨医疗智慧屏助力远程医疗，促进医疗建设与发展!](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=iVVuAfTzm6UmR7w*Xv-iH5v4FmPqMCEybK41gLOGOnHTuQfd-t5cjVN0zsnA7L2INv42BI5C-O*2df-pseig10GiK5QPrsI-XiK00nJK2ojSLAQ*qLWxBNkl0Uwfzdb7&new=1)
+ > 往常说起“远程医疗”，绝大多数人可能只会想到线上挂号、缴费等，而在这次可怕的新冠肺炎疫情期间，在需要耗费大量医护资源的抗疫一线，具备高灵活性、高兼容性、方便快捷、异地在线协作等特点的“远程医疗”已...
+ ## [决战决胜，科技助力，华为同行!](http://mp.weixin.qq.com/s?src=11&timestamp=1584588617&ver=2225&signature=8aqRnPsHMNnnmPbDDWjpsZ64wdttYTqAsSVzv69VrB*0BXBOW0PKUfS-LYAMpkvNeGg37l3t-QHPeR5Y2kzdthdPzYf74*8dHUaZ9Cbsxrs6FxUaKTCaebjAauWWiRjO&new=1)
  > 2020新年伊始，举国上下全力抗击新冠肺炎，疫情已经演变成一场规模空前的抗疫战争，在这场没有旁观者的战疫中，华为一直用实际行动帮助各级卫健委、医院解决信息化应用中的实际困难与问题，支援疫情防控工作的开...
 # IT 技术 
- ## [一文搞定泛型，提高代码复用率及程序的运行性能](http://developer.51cto.com/art/202003/612769.htm)
- > 一文搞定泛型，提高代码复用率及程序的运行性能
- ## [如何使用Kubernetes C客户端库？](http://cloud.51cto.com/art/202003/612770.htm)
- > 如何使用Kubernetes C客户端库？
  ## [老板要建“中台”，我现在慌得一批......](http://developer.51cto.com/art/202003/612779.htm)
  > 老板要建“中台”，我现在慌得一批......
+ ## [一文搞定泛型，提高代码复用率及程序的运行性能](http://developer.51cto.com/art/202003/612769.htm)
+ > 一文搞定泛型，提高代码复用率及程序的运行性能
+ ## [运维排障记：一次百万长连接压测Nginx内存溢出问题](http://news.51cto.com/art/202003/612789.htm)
+ > 运维排障记：一次百万长连接压测Nginx内存溢出问题
+ ## [如何使用Kubernetes C客户端库？](http://cloud.51cto.com/art/202003/612770.htm)
+ > 如何使用Kubernetes C客户端库？
+ ## [三大死穴导致 AI 创业大门正在关闭](http://ai.51cto.com/art/202003/612757.htm)
+ > 三大死穴导致 AI 创业大门正在关闭
+ ## [GitHub移动App上线：四大特性，手机端无缝完成git任务](http://developer.51cto.com/art/202003/612771.htm)
+ > GitHub移动App上线：四大特性，手机端无缝完成git任务
  ## [突破银行八大痛点 构建银行智能风控](http://developer.51cto.com/art/202003/612740.htm)
  > 突破银行八大痛点 构建银行智能风控
  ## [如何确保SQL Server在云端的高可用性](http://cloud.51cto.com/art/202003/612698.htm)
  > 如何确保SQL Server在云端的高可用性
- ## [如何设计百万级商品数据实时同步的秒级搜索系统？](http://developer.51cto.com/art/202003/612708.htm)
- > 如何设计百万级商品数据实时同步的秒级搜索系统？
- ## [动脑 | 设计一个数据中台，总共分几步？](http://news.51cto.com/art/202003/612682.htm)
- > 动脑 | 设计一个数据中台，总共分几步？
- ## [Python中如何安全地进行编译和反编译？](http://developer.51cto.com/art/202003/612692.htm)
- > Python中如何安全地进行编译和反编译？
- ## [物联网在废物管理中的应用](http://iot.51cto.com/art/202003/612786.htm)
- > 废物管理中的物联网应用正在使市民和城市都参与使我们的废物处理方式更具可持续性的项目。基于实际的处理单
- ## [运维人员如何建立有效的备份系统](http://database.51cto.com/art/202003/612785.htm)
- > 我认为这个问题的答案已经很明显了。因此，我不想回答这个问题，而是想回答另一个问题：通过数据库备份可以
- ## [在物联网的推动下，制造业能否摆脱繁琐的人工流程？](http://iot.51cto.com/art/202003/612784.htm)
- > 制造业仍然背负着过去的重担，从业者们不愿跨越从手工流程到自动化流程的鸿沟。问题始于制造过程的开始。分
- ## [Uber 开源 Piranha，可自动删除过时代码](http://news.51cto.com/art/202003/612787.htm)
- > Uber 开源了一款自动化工具 Piranha，该工具能够自动从应用程序代码库中删除过时的和未使用的代码。
- ## [物联网蜜蜂：可以拯救我们未来的技术](http://iot.51cto.com/art/202003/612781.htm)
- > 物联网（IoT）正在帮助人们寻找授粉和提高农作物产量的解决方案，甚至是人类殖民火星的潜力。
- ## [FIDL：Flutter界的AIDL，不局限于基础数据类型](http://database.51cto.com/art/202003/612783.htm)
- > Flutter的产品定义是一个高性能的跨平台的移动UI框架，能够用一套代码同时构建出Android/iOS/Web/MacOS应用
- ## [为什么MySQL的常用引擎都默认使用B+树作为索引？](http://database.51cto.com/art/202003/612780.htm)
- > 相信大家对为什么MySQL的常用引擎都默认使用B+树作为索引已经有了初步的认知。我们只要牢记一点：索引是为
+ ## [20岁的Java，为云原生做好准备](http://developer.51cto.com/art/202003/612799.htm)
+ > 在过去的十年中，企业IT领域已经从大型的单一应用过渡到了更轻巧，更模块化的应用体系架构。Java EE是创建
+ ## [如何备份Kubernetes和Docker](http://cloud.51cto.com/art/202003/612798.htm)
+ > 用户不必备份容器中的所有内容，但在发生灾难时备份运行和管理容器的配置是很重要的。用户的容器基础设施需
+ ## [物联网的兴起将如何改变首席信息安全官的角色](http://iot.51cto.com/art/202003/612797.htm)
+ > 企业需要采用基于风险的方法为未来做好准备，遵循一些方法和步骤可能会有所帮助。调研机构Garner公司最近发
+ ## [优化Docker中的Spring Boot应用：单层镜像方法](http://os.51cto.com/art/202003/612800.htm)
+ > 在进行迭代开发和部署时，如何采用更有效的方法为Spring Boot应用程序构建Docker镜像。为Spring Boot应用
+ ## [增强企业对冠状病毒的抵御能力的三项措施](http://netsecurity.51cto.com/art/202003/612796.htm)
+ > 根据Gartner的研究，随着冠状病毒（COVID-19）的传播，短期内首席信息官应采取三项措施，来提高其组织对病
+ ## [谷歌AI公开新一代“目标检测”系统](http://news.51cto.com/art/202003/612793.htm)
+ > 3月19日消息，谷歌大脑及AI团队，在本周发布了一个叫EfficientDet（高效检测）的人工智能系统。
+ ## [你需要一名业务关系经理的五个理由](http://news.51cto.com/art/202003/612792.htm)
+ > 为了更好地与业务部门进行沟通，增强IT部门的战略可信度，首席信息官越来越多地依赖于业务关系经理。以下将
+ ## [聊聊OkHttp实现WebSocket细节，包括鉴权和长连接保活及其原理！](http://zhuanlan.51cto.com/art/202003/612794.htm)
+ > 那本文就来聊聊，利用 OkHttp 实现 WebSocket 的一些细节，包括对 WebSocket 的介绍，以及在传输前如何做到
+ ## [不容错过的Pandas小技巧：万能转格式、轻松合并、压缩数据](http://news.51cto.com/art/202003/612795.htm)
+ > 数据分析，如何能错过 Pandas 。现在，数据科学家 Roman Orac 分享了他在工作中相见恨晚的 Pandas 使用技
+ ## [新冠疫情中网络安全的危与机](http://zhuanlan.51cto.com/art/202003/612791.htm)
+ > 新冠病毒的爆发正在改变经济现状，为零售、旅游、航空、交通等行业制造了混乱。病毒也严重影响了供应链和制
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
+ > 程序员必须掌握的核心算法有哪些？
+ ## [计算机电子书 2019 归档](https://blog.csdn.net/wizardforcel/article/details/103793502)
+ > 计算机电子书 2019 归档
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
+ > 
+ ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
+ > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
+ ## [用python帮你生产指定内容的word文档](https://blog.csdn.net/weixin_38008864/article/details/104013355)
+ > 用python帮你生产指定内容的word文档
+ ## [【程序人生】程序员接私活常用平台汇总](https://blog.csdn.net/dengjin20104042056/article/details/103930275)
+ > 【程序人生】程序员接私活常用平台汇总
+ ## [Jenkins 两种安装方法教程](https://blog.csdn.net/xiao66guo/article/details/103565476)
+ > Jenkins 两种安装方法教程
+ ## [\[Python人工智能\] 九.gensim词向量Word2Vec安装及《庆余年》中文短文本相似度计算](https://blog.csdn.net/Eastmount/article/details/103647573)
+ > 
+ ## [docker安装、镜像管理、创建镜像、导入导出镜像](https://blog.csdn.net/Powerful_Fy/article/details/103865287)
+ > 
+ ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
+ > 
+ ## [简述移动通信网络的演进之路](https://blog.csdn.net/Jmilk/article/details/104341311)
+ > 
+ ## [线上java  JVM问题排查](https://blog.csdn.net/21aspnet/article/details/103920194)
+ > 线上java  JVM问题排查
  ## [甲骨文Java 14来啦！](https://blog.csdn.net/csdnnews/article/details/104959917)
  > 甲骨文两年来，每六个月如约发布新版本的Java，Oracle JDK 14为开发人员带来创新功能和新特性预览。Oracle JDK 14增加了一些新特性来提高开发人员工作效率，这些新特性包括：对switch表达式的Java语言支持，用于持续监控JDK Flight Recorder数据的新API，.
  ## [GitHub 移动端正式发布！](https://blog.csdn.net/csdnnews/article/details/104958263)
@@ -159,29 +203,38 @@ NASA&#21644;SpaceX&#25311;&#23450;&#20110;5&#26376;&#20013;&#19979;&#26092;&#368
  > 作者 |倪升武，责编 | 郭芮封图 |CSDN 下载于视觉中国就在上周，晚上下班后回家后突然微信企业邮箱收到线上GC告警了：G1 Young Gen...
  ## [疫情期间天天对你“开枪”的额温枪，你知道它的工作原理吗？| 原力计划](https://blog.csdn.net/csdnnews/article/details/104958269)
  > 冠状病毒疫情期间，大家都知道口罩脱销了，消毒酒精脱销了，其实医用的额温枪也脱销了，一枪难求。因为其快速测温（1秒测温），无接触测温的特点，在医院、机场、...
+# 人工智能 
+ ## [MySQL:\[Err\] 1292 - Incorrect datetime value: '0000-00-00 00:00:00' for column 'CREATE_TIME' at row 1](https://blog.csdn.net/sinat_40770656/article/details/101198274)
+ > MySQL:\[Err\] 1292 - Incorrect datetime value: &x27;0000-00-00 00:00:00&x27; for column &x27;CREATE_TIME&x27; at row 1
+ ## [pytorch:model.train和model.eval用法和区别](https://blog.csdn.net/qq_38410428/article/details/101102075)
+ > pytorch:model.train和model.eval用法和区别
+ ## [MPP架构数据库优化总结——华为LibrA与GreenPlum](https://blog.csdn.net/alionsss/article/details/101106401)
+ > MPP架构数据库优化总结——华为LibrA与GreenPlum
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [报错：java.sql.SQLException: com.mysql.cj.jdbc.Driver](https://blog.csdn.net/DengShangYu_/article/details/101209172)
+ > 报错：java.sql.SQLException: com.mysql.cj.jdbc.Driver
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [解决报错：Cause: java.sql.SQLSyntaxErrorException: Table 'myactiviti.act_ge_property' doesn't exist](https://blog.csdn.net/weixin_43770545/article/details/101197861)
+ > 解决报错：Cause: java.sql.SQLSyntaxErrorException: Table &x27;myactiviti.act_ge_property&x27; doesn&x27;t exist
+ ## [Sql 保留两位小数](https://blog.csdn.net/hyfstyle/article/details/90054298)
+ > Sql 保留两位小数
+ ## [PageHelper 分页，total总数等于每页数量的问题解决](https://blog.csdn.net/zjuwzp/article/details/101211904)
+ > PageHelper 分页，total总数等于每页数量的问题解决
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [MQ消息丢失和消息重复的解决方案和实战](https://blog.csdn.net/u011414629/article/details/101166442)
+ > MQ消息丢失和消息重复的解决方案和实战
+ ## [MySql根据当前页pageNo、显示条数pageSize，实现分页查询的SQL](https://blog.csdn.net/weixin_38004638/article/details/101176465)
+ > MySql根据当前页pageNo、显示条数pageSize，实现分页查询的SQL
+ ## [springBoot(六) 调用多数据源  dynamic-datasource](https://blog.csdn.net/Tang_5253/article/details/101095855)
+ > springBoot(六) 调用多数据源  dynamic-datasource
+ ## [Mycat实现postgresql的分库分表](https://blog.csdn.net/W_DongQiang/article/details/101209895)
+ > Mycat实现postgresql的分库分表
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
 # PM 
- ## [社交电商——新零售的必经之路](http://www.woshipm.com/newretail/3527373.html)
- > 社交电商其实就是一种渠道下沉——通过对流量的渗透，让更多人通过电商买到心仪的产品。而对新零售来说，渠道下沉始终是关键词，所以我们才说社交电商是新零售的必经之路...
- ## [GTD经验分享：一个产品负责人的效率工作流](http://www.woshipm.com/zhichang/3535601.html)
- > GTD，Getting Things Done，是一套协助完成任务的方法论，核心点是收集、整理、组织、回顾、执行。那我们要如何使用GTD呢？你有没有遇到过这种情况？要做什么都是靠...
- ## [项目复盘，给我上了一场「产品规划」课](http://www.woshipm.com/pmd/3533150.html)
- > 复盘不是结束，而是开始，比复盘更有意义的是复盘后的行动。人的选择无法超越自己的认知，每个选择都是当时阶段的最优解，有些选择或许会导致失败，但复盘可以持续提升...
- ## [案例解析：苹果应用地图重设计](http://www.woshipm.com/pd/3536560.html)
- > 文章旨在以详细的方式（在我有意排除的情况下）指导您完成我的设计过程，并使用讲故事的方式来提供对苹果应用地图重设计该项目的完整透视和理解。Quick火的问题：电话...
- ## [如何提高新手期用户的转化率？](http://www.woshipm.com/pmd/3537302.html)
- > 很多伙伴们都听说过用户生命周期：新手期 → 成长期 → 成熟期 → 衰退期 → 流失期，但如何去判断用户处于哪个周期内，以及每个周期内用户对于产品的影响是什么却很少谈及...
- ## [从 0 到 1 做短视频社区（1）：初期起量阶段](http://www.woshipm.com/it/3537573.html)
- > 随着互联网技术的迅猛发展，短视频社区以其独特的视频交友方式，迅速获得了大众的喜爱，丰富了人们的组织文化生活。短视频社区以用户消费和用户社区为根本，致力于提升...
- ## [从新用户激活行为，看「得物（毒）」App的增长策略](http://www.woshipm.com/evaluating/3534312.html)
- > 随着「得物（毒）」在2019年爆发时成长，越来越多的目光关注到这个新一袋潮流网购社区。笔者今天就从新用户激活的角度简要分析一下这款产品的增长策略。先简单介绍...
- ## [免费直播丨扎实产品基本功，1小时教你学会功能调研的正确姿势](http://www.woshipm.com/online/3548023.html)
- > 在入门产品经理的新人阶段会经常遇到下面两个场景！场景A：想做一个新功能，怎么做？场景B：诶，这个功能很不错，我能不能用？对于大多数产品新人来说，产品的功能...
- ## [ToB 企业生财之道的5个秘密](http://www.woshipm.com/pmd/3531645.html)
- > 这篇文章主要讲ToB企业的生财之道，通过五个方面探讨关于ToB企业业务的发展。推荐给对这方面有兴趣的小伙伴们。互联网企业19年人们惊呼寒冬到来，却没想2020年不是世...
- ## [为什么你做的数据分析，运营懒得看！](http://www.woshipm.com/data-analysis/3535097.html)
- > 做数据分析的最容易和运营怼上。到底数据分析该怎么做，才能支持运营迭代？作者将分两篇来分享，本文将先从问题谈起，希望能让你在数据分析的过程中有所收获。一来运...
- ## [产品经理怎么写结构化PRD？](http://www.woshipm.com/pmd/3516749.html)
- > 这篇文章从作者自身经历出发，复盘了写一份优秀的PRD的方法和流程。由于公司组织结构调整，笔者换岗成为了一名产品经理，并开始接触到了写PRD文档的部分，那么结构化PRD...
  ## [解密「零售」系列（三）流量思维](http://www.chanpin100.com/article/111034)
  > 流量体一定要做电商吗？作者认为一定要做，广告是流量体的核心收入，但是这对用户体验是相悖的，这个度是非常难把握的，微信是相对克制的，而反面的典型就是百度。而电商等交易类的服务是有可能带来更好的用户体验，而用户在平台上形成交易习惯是极其重要的竞争壁垒和用户模型的完善。但是一定要三思后行：要从骨子里放下身
  ## [解密「零售」系列（二）产品架构](http://www.chanpin100.com/article/111033)
