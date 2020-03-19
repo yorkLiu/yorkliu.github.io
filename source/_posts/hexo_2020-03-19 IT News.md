@@ -1,22 +1,26 @@
 ---
 title: 2020-03-19 IT News
 copyright: true
-date: 2020-03-19 08:00:50
+date: 2020-03-19 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [合规、技术、实践，从隐私保护走向数据安全|企业安全online公开课即将开课](http://mp.weixin.qq.com/s?src=11&timestamp=1584574237&ver=2225&signature=sQjkvR6VyTMQQUB1a56u00Tutlt5cDaldU0*x202zv6xaDwI8DJQ00boGHEcDQIk5boTS0m8w*VyQ9EB1WOEsz69CRq1vu2MjoxU9pocMCdYDcXfzH9CUyVcLsRJXxu4&new=1)
- > 云计算、大数据等新兴科技在驱动产业数字化升级、催生海量数据的同时，也使个人和企业的隐私数据与信息更加透明化。一方面，大数据蕴藏着更复杂、更敏感、更多价值的数据，巨大的体量使得企业信息安全管理成本显...
- ## [决战决胜，科技助力，华为同行!](http://mp.weixin.qq.com/s?src=11&timestamp=1584574237&ver=2225&signature=8aqRnPsHMNnnmPbDDWjpsZ64wdttYTqAsSVzv69VrB-rksQCz49sEALNkLfcih3Gf8l-qpRhBKDS2h8US6QbfT0fOF7nQDtVeDzMQEpRotPyUdmNiDSjRrlT8q-RmDIQ&new=1)
- > 2020新年伊始，举国上下全力抗击新冠肺炎，疫情已经演变成一场规模空前的抗疫战争，在这场没有旁观者的战疫中，华为一直用实际行动帮助各级卫健委、医院解决信息化应用中的实际困难与问题，支援疫情防控工作的开...
- ## [AOC商用丨医疗智慧屏助力远程医疗，促进医疗建设与发展!](http://mp.weixin.qq.com/s?src=11&timestamp=1584574237&ver=2225&signature=iVVuAfTzm6UmR7w*Xv-iH5v4FmPqMCEybK41gLOGOnFoXfkyo03NAqAPQB*iOVYMpYCBspxURYJyLELsfjHZ1cEl720YvrVZzmAiV7cepdzMDNLWvoM6Xc78zz26Z9dV&new=1)
+ ## [AOC商用丨医疗智慧屏助力远程医疗，促进医疗建设与发展!](http://mp.weixin.qq.com/s?src=11&timestamp=1584577818&ver=2225&signature=iVVuAfTzm6UmR7w*Xv-iH5v4FmPqMCEybK41gLOGOnFoXfkyo03NAqAPQB*iOVYM*8BqnVzOVUPclJ5FURn83xgMBL1VBOpCFcgZ8pxhdL*3t3HNY8rShqdYS3TTuKxb&new=1)
  > 往常说起“远程医疗”，绝大多数人可能只会想到线上挂号、缴费等，而在这次可怕的新冠肺炎疫情期间，在需要耗费大量医护资源的抗疫一线，具备高灵活性、高兼容性、方便快捷、异地在线协作等特点的“远程医疗”已...
- ## [山东某运营商倒霉了 被督察查出“无理由阻碍携号转网”](http://mp.weixin.qq.com/s?src=11&timestamp=1584574237&ver=2225&signature=-6Iwh0pr3sq-A3Lfry0FkEuUwpAiTVNZvABzFBrHjFojEXlYsRwtBy-kvG6SP43SE*KB5JSwwoHTt7XWgDjUHN8K4H5n3DWTYuxc3qNwhR9X93vUBmtQ*27xf7Dx1Yfi&new=1)
+ ## [山东某运营商倒霉了 被督察查出“无理由阻碍携号转网”](http://mp.weixin.qq.com/s?src=11&timestamp=1584577818&ver=2225&signature=-6Iwh0pr3sq-A3Lfry0FkEuUwpAiTVNZvABzFBrHjFojEXlYsRwtBy-kvG6SP43SlHcGKvKqWPo25Vp0M*Ag7rB4R9AaC1D92v1LdWFF-wc426ZH-4NKapZmB*hr916W&new=1)
  > 运营商财经网 吴碧慧/文 近日，国办督查室工作人员根据群众在国务院“互联网+督查”平台上反映的问题进行了暗访，并公布督查结果。据结果显示，山东某运营商被督查出不少无理由阻碍携号转网，不惜设置了“靓号”...
+ ## [决战决胜，科技助力，华为同行!](http://mp.weixin.qq.com/s?src=11&timestamp=1584577818&ver=2225&signature=8aqRnPsHMNnnmPbDDWjpsZ64wdttYTqAsSVzv69VrB-rksQCz49sEALNkLfcih3GlLiPBBol3oNE3hImYSrlzbyyDRxHdxV1dVkDX2yTClppvepF2MzBKUqIc5C0BO1q&new=1)
+ > 2020新年伊始，举国上下全力抗击新冠肺炎，疫情已经演变成一场规模空前的抗疫战争，在这场没有旁观者的战疫中，华为一直用实际行动帮助各级卫健委、医院解决信息化应用中的实际困难与问题，支援疫情防控工作的开...
+ ## [合规、技术、实践，从隐私保护走向数据安全|企业安全online公开课即将开课](http://mp.weixin.qq.com/s?src=11&timestamp=1584577818&ver=2225&signature=sQjkvR6VyTMQQUB1a56u00Tutlt5cDaldU0*x202zv6xaDwI8DJQ00boGHEcDQIkSzViVcYW4hPscVQ3gb0DtRb-b-diRu8LUYrovG-uZL38wpaW*hItBV-CYme83sfT&new=1)
+ > 云计算、大数据等新兴科技在驱动产业数字化升级、催生海量数据的同时，也使个人和企业的隐私数据与信息更加透明化。一方面，大数据蕴藏着更复杂、更敏感、更多价值的数据，巨大的体量使得企业信息安全管理成本显...
 # IT 技术 
  ## [老板要建“中台”，我现在慌得一批......](http://developer.51cto.com/art/202003/612779.htm)
  > 老板要建“中台”，我现在慌得一批......
+ ## [如何使用Kubernetes C客户端库？](http://cloud.51cto.com/art/202003/612770.htm)
+ > 如何使用Kubernetes C客户端库？
+ ## [一文搞定泛型，提高代码复用率及程序的运行性能](http://developer.51cto.com/art/202003/612769.htm)
+ > 一文搞定泛型，提高代码复用率及程序的运行性能
  ## [突破银行八大痛点 构建银行智能风控](http://developer.51cto.com/art/202003/612740.htm)
  > 突破银行八大痛点 构建银行智能风控
  ## [如何确保SQL Server在云端的高可用性](http://cloud.51cto.com/art/202003/612698.htm)
@@ -27,40 +31,42 @@ categories: IT NEWS
  > 动脑 | 设计一个数据中台，总共分几步？
  ## [Python中如何安全地进行编译和反编译？](http://developer.51cto.com/art/202003/612692.htm)
  > Python中如何安全地进行编译和反编译？
- ## [Htop：监测Linux系统性能的小巧工具](http://os.51cto.com/art/202003/612709.htm)
- > Htop：监测Linux系统性能的小巧工具
- ## [深度科普：有了5G我们还需要专网吗？](http://network.51cto.com/art/202003/612689.htm)
- > 深度科普：有了5G我们还需要专网吗？
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [Serverless 设计理念：从头创建品牌标识](https://blog.csdn.net/weixin_42409476/article/details/104264127)
- > Serverless 设计理念：从头创建品牌标识
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
+ ## [物联网蜜蜂：可以拯救我们未来的技术](http://iot.51cto.com/art/202003/612781.htm)
+ > 物联网（IoT）正在帮助人们寻找授粉和提高农作物产量的解决方案，甚至是人类殖民火星的潜力。
+ ## [FIDL：Flutter界的AIDL，不局限于基础数据类型](http://database.51cto.com/art/202003/612783.htm)
+ > Flutter的产品定义是一个高性能的跨平台的移动UI框架，能够用一套代码同时构建出Android/iOS/Web/MacOS应用
+ ## [为什么Mysql的常用引擎都默认使用B+树作为索引？](http://database.51cto.com/art/202003/612780.htm)
+ > 相信大家对为什么Mysql的常用引擎都默认使用B+树作为索引已经有了初步的认知。我们只要牢记一点：索引是为
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
+ ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
+ > Java校招入职华为，半年后我跑路了
+ ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
  > 
- ## [JavaSE重点复习](https://blog.csdn.net/qq_43371556/article/details/103073388)
- > JavaSE重点复习
- ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
- > 
- ## [18道kafka高频面试题哪些你还不会？（含答案和思维导图）](https://blog.csdn.net/Design407/article/details/103653872)
- > 18道kafka高频面试题哪些你还不会？（含答案和思维导图）
- ## [让开发效率“飞起”的VS Code 插件](https://blog.csdn.net/howgod/article/details/104057773)
- > 让开发效率“飞起”的VS Code 插件
- ## [2020年，冯唐49岁：我给20、30岁IT职场年轻人的建议](https://blog.csdn.net/yellowzf3/article/details/103982287)
- > 
- ## [tomcat部署项目的三种方式](https://blog.csdn.net/weixin_43691058/article/details/104000711)
- > tomcat部署项目的三种方式
- ## [【吐血整理】年度盘点 | 2019年Java面试题汇总篇——附答案](https://blog.csdn.net/sufu1065/article/details/103788763)
- > 【吐血整理】年度盘点 | 2019年Java面试题汇总篇——附答案
+ ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
+ > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
  > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [5 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家](https://blog.csdn.net/eson_15/article/details/104347476)
+ ## [作为一名大学生，如何在B站上快乐的学习？](https://blog.csdn.net/sinat_33921105/article/details/104031977)
+ > 作为一名大学生，如何在B站上快乐的学习？
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
+ ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
+ > Python+OpenCV实时图像处理
+ ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
+ > 
+ ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
+ > 
+ ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
+ > 
+ ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
+ > 
+ ## [害怕面试被问HashMap？这一篇就搞定了！](https://blog.csdn.net/sinat_33921105/article/details/103847137)
+ > 
+ ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
+ > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
+ ## [Spring框架|JdbcTemplate介绍](https://blog.csdn.net/weixin_43691058/article/details/104145703)
+ > Spring框架|JdbcTemplate介绍
  ## [“数学不好，干啥都不行！”高级开发：方向不对，努力也白费！](https://blog.csdn.net/csdnnews/article/details/104958266)
  > 最近半年来，有很多CSDN的读者朋友们在后台给我们留言，我挑选了一些比较有代表性的问题分享给大家：1）数学不好搞编程好难，因为数据结构、编程语句、算法，...
  ## [2 万字长文详解 10 大多线程面试题｜原力计划](https://blog.csdn.net/csdnnews/article/details/104958270)
@@ -70,37 +76,49 @@ categories: IT NEWS
  ## [5G，改变你的认知](https://blog.csdn.net/csdnnews/article/details/104958267)
  > &lt; &lt; 左滑看看5G时代的变化猛戳此处揭秘5G时代视频的“冲浪”奥秘&lt; &lt; 左滑看看5G时代的变化猛戳此处揭秘5G时代影视特效的...
 # 人工智能 
- ## [PanDownload-一款不限速的网盘下载利器(新增最大程度避免限速内容)](https://blog.csdn.net/GentleCP/article/details/91833532)
- > PanDownload-一款不限速的网盘下载利器(新增最大程度避免限速内容)
+ ## [阿里P9级架构师马士兵花四小时让你搞懂JVM底层原理（附深入理解Java虚拟机pdf）](https://blog.csdn.net/weixin_45132238/article/details/104925366)
+ > 阿里P9级架构师马士兵花四小时让你搞懂JVM底层原理（附深入理解Java虚拟机pdf）
+ ## [MATLAB R2019b超详细安装教程（附完整安装文件）](https://blog.csdn.net/qq_32892383/article/details/104614052)
+ > MATLAB R2019b超详细安装教程（附完整安装文件）
+ ## [python基础编程：python中文分词教程之前向最大正向匹配算法详解](https://blog.csdn.net/haoxun08/article/details/104930710)
+ > python基础编程：python中文分词教程之前向最大正向匹配算法详解
+ ## [python函数式编程学习之yield表达式形式详解](https://blog.csdn.net/haoxun10/article/details/104908500)
+ > python函数式编程学习之yield表达式形式详解
  ## [2019年DevOps最新现状研究报告解读](https://blog.csdn.net/liumiaocn/article/details/104890968)
  > 
- ## [Spring Boot 中如何解决跨域问题 ?](https://blog.csdn.net/weixin_44259720/article/details/104900530)
- > Spring Boot 中如何解决跨域问题 ?
- ## [Shrio安全框架简介](https://blog.csdn.net/weixin_45393094/article/details/104929720)
+ ## [Altium Designer 在PCB中添加 图片 Logo 或者丝印](https://blog.csdn.net/weixin_41110384/article/details/104913895)
+ > Altium Designer 在PCB中添加 图片 Logo 或者丝印
+ ## [python基础编程：Python自然语言处理之词干,词形与最大匹配算法代码详解](https://blog.csdn.net/haoxun11/article/details/104930868)
+ > python基础编程：Python自然语言处理之词干,词形与最大匹配算法代码详解
+ ## [IRI 2016模型计算二维全球电离层TEC分布网格（Fortran离线版）](https://blog.csdn.net/generaleilei/article/details/104927491)
+ > IRI 2016模型计算二维全球电离层TEC分布网格（Fortran离线版）
+ ## [2019广东工业智造创新大赛【赛场二】感谢拼命的自己](https://blog.csdn.net/weixin_43906799/article/details/104925863)
  > 
- ## [谷歌浏览器一直无法上网，其他浏览器可以正常上网](https://blog.csdn.net/JAck_chen0309/article/details/99373230)
- > 谷歌浏览器一直无法上网，其他浏览器可以正常上网
- ## [如何通过宝塔面板部署](https://blog.csdn.net/weixin_44735933/article/details/104895492)
- > 如何通过宝塔面板部署
- ## [HashMap如何添加元素详解](https://blog.csdn.net/justLym/article/details/104894887)
- > HashMap如何添加元素详解
- ## [英特尔QAT加速卡说明（一）](https://blog.csdn.net/qq_44710568/article/details/104915276)
- > 英特尔QAT加速卡说明（一）
- ## [微信小程序-微信支付和微信退款（Java后台）](https://blog.csdn.net/weixin_44045144/article/details/104884298)
- > 微信小程序-微信支付和微信退款（Java后台）
- ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
- > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [企业级监控系统——Zabbix——配置自动注册](https://blog.csdn.net/weixin_45775963/article/details/104908138)
- > 企业级监控系统——Zabbix——配置自动注册
- ## [后渗透——内网转发之反弹shell](https://blog.csdn.net/weixin_45728976/article/details/104893800)
- > 后渗透——内网转发之反弹shell
- ## [【工具】curl & openssl](https://blog.csdn.net/sarafina527/article/details/104921004)
- > 【工具】curl &amp; openssl
- ## [应用密码学第一章绪论笔记](https://blog.csdn.net/BEGCCYD/article/details/104931451)
- > 应用密码学第一章绪论笔记
- ## [相隔大洋，中国为什么能访问美国的网站？空中传输？卫星信号？](https://blog.csdn.net/KnightHONG/article/details/104894165)
- > 相隔大洋，中国为什么能访问美国的网站？空中传输？卫星信号？
+ ## [【数学问题】四足机器人腿部运动学代数求解方法](https://blog.csdn.net/weixin_41045354/article/details/104878956)
+ > 【数学问题】四足机器人腿部运动学代数求解方法
+ ## [【Autoware自动驾驶-开源项目实践】大家快来入门体验啦](https://blog.csdn.net/qq_41204464/article/details/104846518)
+ > 
+ ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
+ > 130 个相见恨晚的超实用网站，一次性分享出来
+ ## [Python结巴中文分词工具使用过程中遇到的问题及解决方法](https://blog.csdn.net/haoxun08/article/details/104930593)
+ > Python结巴中文分词工具使用过程中遇到的问题及解决方法
+ ## [统计学习方法笔记（1）—感知机](https://blog.csdn.net/Zengmeng1998/article/details/104906841)
+ > 
+ ## [Pandas——concat（合并）](https://blog.csdn.net/weixin_37763870/article/details/104911013)
+ > Pandas——concat（合并）
 # PM 
+ ## [ToB 企业生财之道的5个秘密](http://www.woshipm.com/pmd/3531645.html)
+ > 这篇文章主要讲ToB企业的生财之道，通过五个方面探讨关于ToB企业业务的发展。推荐给对这方面有兴趣的小伙伴们。互联网企业19年人们惊呼寒冬到来，却没想2020年不是世...
+ ## [为什么你做的数据分析，运营懒得看！](http://www.woshipm.com/data-analysis/3535097.html)
+ > 做数据分析的最容易和运营怼上。到底数据分析该怎么做，才能支持运营迭代？作者将分两篇来分享，本文将先从问题谈起，希望能让你在数据分析的过程中有所收获。一来运...
+ ## [产品经理怎么写结构化PRD？](http://www.woshipm.com/pmd/3516749.html)
+ > 这篇文章从作者自身经历出发，复盘了写一份优秀的PRD的方法和流程。由于公司组织结构调整，笔者换岗成为了一名产品经理，并开始接触到了写PRD文档的部分，那么结构化PRD...
+ ## [3个步骤，教你对设计需求进行全面分析](http://www.woshipm.com/pmd/3526838.html)
+ > 规划设计一款产品前，我们首先要做的就是需求分析，并以此逐步明确产品功能，那么我们应该怎么做需求分析呢？如何全面而有序地进行呢？笔者将分为几大步骤为我们展开介...
+ ## [如何优化迪士尼排队流程，提升用户体验？](http://www.woshipm.com/it/3543111.html)
+ > 本篇文章以迪士尼排队流程为例，通过分析如何减少排队给游客带来的负面影响，进而提升用户体验，提出了三种解决问题的思路：市场角度、产品角度、运行角度，针对问题去...
+ ## [黑天鹅飞过，民宿行业自救指南（房东篇）](http://www.woshipm.com/it/3530287.html)
+ > 笔者从民宿房东角度切入，结合途家、爱彼迎、木鸟这三家国内民宿预订平台的数据及打法，进行横向纵向对比分析，帮助不同房东迅速匹配不同平台和用户，为民宿行业及民宿...
  ## [解密「零售」系列（三）流量思维](http://www.chanpin100.com/article/111034)
  > 流量体一定要做电商吗？作者认为一定要做，广告是流量体的核心收入，但是这对用户体验是相悖的，这个度是非常难把握的，微信是相对克制的，而反面的典型就是百度。而电商等交易类的服务是有可能带来更好的用户体验，而用户在平台上形成交易习惯是极其重要的竞争壁垒和用户模型的完善。但是一定要三思后行：要从骨子里放下身
  ## [解密「零售」系列（二）产品架构](http://www.chanpin100.com/article/111033)
