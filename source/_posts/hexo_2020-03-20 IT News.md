@@ -1,22 +1,26 @@
 ---
 title: 2020-03-20 IT News
 copyright: true
-date: 2020-03-20 08:00:52
+date: 2020-03-20 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [未来的遐想，在迪拜慢慢变成现实!](http://mp.weixin.qq.com/s?src=11&timestamp=1584660605&ver=2227&signature=6-GnPhA1F-doVMNYWrEjJ36x2lBrQB9SrUKRgphy*ZX4FHY4kn6LUZDW3TBCrMjCbYi1QbMbOVbhH7e8mPXDt1fURt9sgZpFe8emjFcJFiSSzOq85IZVtgddFbZTmTSK&new=1)
- > 小时候的画作里对于未来都市天马行空的设想，都在智能时代来临之际一点点变成现实……今天要介绍的这些迪拜已经实现或是即将实现的智能设计，会不会也曾是你的幻想之一？在可预见的将来，市内出行靠“飞的”图源...
- ## [英国网络崩了?实力见证中国网络的强大](http://mp.weixin.qq.com/s?src=11&timestamp=1584660605&ver=2227&signature=G5Z2JbsDwJgEJAEB1CWT*XTKzi*x1JY6dmed6fIo3QyA3-zSDE09TuotFt84gr3RKFPNgAP9LoVUJDTnAsapDgVotp3BbixxIRfQmBmT52QaUxh*3S7oB3QdPINT6*Ex&new=1)
- > 2019年，82%的英国人使用家庭宽带，70%的英国人使用4G移动服务上网。北京时间2020年3月17日，拥有6600万人口、大约3个北京或上海人口的英国网络崩了！英国网络崩了？网络连不上无响应网速慢服务器正忙在英国首相...
- ## [疫情之下，英国网络全部瘫痪!一直被"污名化"的三大运营商却撑起了最强中国网络!](http://mp.weixin.qq.com/s?src=11&timestamp=1584660605&ver=2227&signature=ghvC5BtiqY-0KQo*pTMpszixWh-9l3PrCfX*hM6hd4AmSgag63ayaos9si7Vn4h3EwccnxtvRLKwcP1HNp2IsSel37v3gr4Fkftg1miJ7jZg42r3bTzZnvu-9RxUD2jl&new=1)
- > 来源 头条号 通信一小兵英国网络崩溃了冠状病毒疯狂来袭，英国&quot;群体免疫&quot;并没有阻止住病毒的脚步。在这种局面下，英国政府开始号召大家在家远程办公，第二天，英国四大移动运营商EE、沃达丰、O2和Three全部遭遇...
- ## [中国移动发力5G，月增900万，反超中国电信](http://mp.weixin.qq.com/s?src=11&timestamp=1584660605&ver=2227&signature=QUzaHGPzIov6cBl38RWMvO0r7Bwh02WnQhpedgE6eH0YLmwZslT5GVmMgeWxwpQBmO8m*XUxSJ1W34UDINEfDrtLU33Xp9prUtTxxWtC8mltt2ZHaIy*GLRlbY0Y5raS&new=1)
- > 日前中国移动公布2019年财报，在业绩发布会上表示截止2月底其5G用户数已达到1540万，在三大运营商中居于第一名，这意味着它在过去一个月大举推动5G用户发展，成功反超中国电信，证明了它作为三大运营商王者地位...
- ## [5G时代，ORAN到底是不是趋势?](http://mp.weixin.qq.com/s?src=11&timestamp=1584660605&ver=2227&signature=Dp2snFjIbOpdX26Fe4Nz4ti9xB6s32JDfnmHmohHMI9STTk8OBC04bftLnC4xxi8OPXlHwoEnAD7cVhHMLGoeUjaEAA5xc5uxYOOYK09RiVjNzrmyOTzpQ7hEkUfreEc&new=1)
+ ## [5G时代，ORAN到底是不是趋势?](http://mp.weixin.qq.com/s?src=11&timestamp=1584664250&ver=2227&signature=Dp2snFjIbOpdX26Fe4Nz4ti9xB6s32JDfnmHmohHMI9STTk8OBC04bftLnC4xxi8cjwjBsmd*w6otfl8NeWf0dPKPNSUrT2hX80952EWd*-eflAShWioZJdd7T8zfNrz&new=1)
  > 近期，中国加速5G建设，颇受关注。同时我们也看到5G无线接入网开放之路的热烈探讨。中国通信行业几位专家，撰稿介绍了ORAN联盟，并指出为了降低成本，阻止OTT厂商颠覆运营商，5G无线接入网（RAN）将走向开放，让...
+ ## [中国移动发力5G，月增900万，反超中国电信](http://mp.weixin.qq.com/s?src=11&timestamp=1584664250&ver=2227&signature=QUzaHGPzIov6cBl38RWMvO0r7Bwh02WnQhpedgE6eH0YLmwZslT5GVmMgeWxwpQB0pUg5QfM4CsoiEWFOU*KPftGWQtgcg1aQnokJ4nsZdj1pLo*bx4-tFmSWXK0o0nf&new=1)
+ > 日前中国移动公布2019年财报，在业绩发布会上表示截止2月底其5G用户数已达到1540万，在三大运营商中居于第一名，这意味着它在过去一个月大举推动5G用户发展，成功反超中国电信，证明了它作为三大运营商王者地位...
+ ## [英国网络崩了?实力见证中国网络的强大](http://mp.weixin.qq.com/s?src=11&timestamp=1584664250&ver=2227&signature=G5Z2JbsDwJgEJAEB1CWT*XTKzi*x1JY6dmed6fIo3QyA3-zSDE09TuotFt84gr3R6XQ1TSVKatlXDJ3a9RMVnpZscEIDyKrp5JfhsWyCdtR9-XmSd44j-kiDBsLawGzt&new=1)
+ > 2019年，82%的英国人使用家庭宽带，70%的英国人使用4G移动服务上网。北京时间2020年3月17日，拥有6600万人口、大约3个北京或上海人口的英国网络崩了！英国网络崩了？网络连不上无响应网速慢服务器正忙在英国首相...
+ ## [未来的遐想，在迪拜慢慢变成现实!](http://mp.weixin.qq.com/s?src=11&timestamp=1584664250&ver=2227&signature=6-GnPhA1F-doVMNYWrEjJ36x2lBrQB9SrUKRgphy*ZX4FHY4kn6LUZDW3TBCrMjCOQ4ngw2tLso87gblwQv-pa30SacKIV0sWfKKYAAlhcXWu-J0vaE3RoAbQgomGwGY&new=1)
+ > 小时候的画作里对于未来都市天马行空的设想，都在智能时代来临之际一点点变成现实……今天要介绍的这些迪拜已经实现或是即将实现的智能设计，会不会也曾是你的幻想之一？在可预见的将来，市内出行靠“飞的”图源...
+ ## [疫情之下，英国网络全部瘫痪!一直被"污名化"的三大运营商却撑起了最强中国网络!](http://mp.weixin.qq.com/s?src=11&timestamp=1584664250&ver=2227&signature=ghvC5BtiqY-0KQo*pTMpszixWh-9l3PrCfX*hM6hd4AmSgag63ayaos9si7Vn4h3CnzxDSA9bmzdxjPTjgxuWkwsV9VKLHV5aT*BZ5eFt9J6vH*x74ugNfsPxRqabN*l&new=1)
+ > 来源 头条号 通信一小兵英国网络崩溃了冠状病毒疯狂来袭，英国&quot;群体免疫&quot;并没有阻止住病毒的脚步。在这种局面下，英国政府开始号召大家在家远程办公，第二天，英国四大移动运营商EE、沃达丰、O2和Three全部遭遇...
 # IT 技术 
+ ## [2020年保护数据安全的七大网络安全实践](http://netsecurity.51cto.com/art/202003/612765.htm)
+ > 2020年保护数据安全的七大网络安全实践
+ ## [快哭了！我被同事写的代码坑惨了](http://news.51cto.com/art/202003/612838.htm)
+ > 快哭了！我被同事写的代码坑惨了
  ## [老板要建“中台”，我现在慌得一批......](http://developer.51cto.com/art/202003/612779.htm)
  > 老板要建“中台”，我现在慌得一批......
  ## [如何备份Kubernetes和Docker](http://cloud.51cto.com/art/202003/612798.htm)
@@ -29,40 +33,48 @@ categories: IT NEWS
  > 亿级搜索系统的基石，如何保障实时数据质量？
  ## [如何使用Kubernetes C客户端库？](http://cloud.51cto.com/art/202003/612770.htm)
  > 如何使用Kubernetes C客户端库？
- ## [三大死穴导致 AI 创业大门正在关闭](http://ai.51cto.com/art/202003/612757.htm)
- > 三大死穴导致 AI 创业大门正在关闭
- ## [GitHub移动App上线：四大特性，手机端无缝完成git任务](http://developer.51cto.com/art/202003/612771.htm)
- > GitHub移动App上线：四大特性，手机端无缝完成git任务
- ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
+ ## [2019年开放源代码漏洞激增50%](http://zhuanlan.51cto.com/art/202003/612844.htm)
+ > WhiteSource新发布的漏洞报告称，2019年公开的开源软件漏洞数量达到了6,000多个，而2018年仅为4,000多个，
+ ## [物联网脚手架系统的7个安全益处](http://iot.51cto.com/art/202003/612843.htm)
+ > 据统计，每年有4000多名工人在脚手架事故中受伤。尽管今天的建筑工地比过去安全得多，但它仍然可以变得安全
+ ## [物联网如何改变航空业？](http://iot.51cto.com/art/202003/612842.htm)
+ > 物联网的整合颠覆了航空业，并且也永远改变了这个行业。物联网（IoT）已经颠覆了它所涉及的每个行业，值得
+ ## [Cat.1火了？它是从哪来的？](http://iot.51cto.com/art/202003/612841.htm)
+ > 究竟什么是Cat.1?它和我们经常听说的NB-IoT、eMTC有什么关系呢?我们还经常说Cat.M1和Cat.NB-1，它们是同一
+ ## [惨遭删库，这笔账应该怎么算？](http://news.51cto.com/art/202003/612840.htm)
+ > 微盟删库事件持续发酵，在数据逐步恢复的同时，对广大商家(SaaS用户)的损失赔偿方案引发了新一轮热议。
+ ## [中国好网络不是天上掉下来的，这凝聚了无数人的血汗，当然，还有钱！钱！钱！](http://news.51cto.com/art/202003/612839.htm)
+ > 在5G商业模式尚未明朗的情况下，中国移动依然“怒砸”千亿去投入5G网络建设，这为的是什么?就是为了这一张
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
+ ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
  > 
- ## [Java电商支付系统手把手实现（三） -  SpringBoot 应用程序搭建](https://blog.csdn.net/qq_33589510/article/details/104081713)
- > Java电商支付系统手把手实现（三） -  SpringBoot 应用程序搭建
- ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
- > Java学习的正确打开方式
- ## [拼多多面试问了数据库基础知识，今天分享出来](https://blog.csdn.net/qq_35190492/article/details/104203466)
- > 
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
+ ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
+ > Java校招入职华为，半年后我跑路了
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
+ > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
+ ## [作为一名大学生，如何在B站上快乐的学习？](https://blog.csdn.net/sinat_33921105/article/details/104031977)
+ > 作为一名大学生，如何在B站上快乐的学习？
+ ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
+ > Python+OpenCV实时图像处理
  ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
- ## [python 学习笔记之手把手讲解如何使用原生的 urllib 发送网络请求](https://blog.csdn.net/weixin_38171180/article/details/104029935)
- > python 学习笔记之手把手讲解如何使用原生的 urllib 发送网络请求
- ## [5 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家](https://blog.csdn.net/eson_15/article/details/104347476)
+ ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
  > 
- ## [Docker常用软件安装之MYSQL](https://blog.csdn.net/qq_38526573/article/details/103737401)
- > Docker常用软件安装之MYSQL
- ## [Android Studio： 通过Artifactory搭建本地仓库优化编译速度](https://blog.csdn.net/ecliujianbo/article/details/103738151)
- > Android Studio： 通过Artifactory搭建本地仓库优化编译速度
- ## [无法复制PDF的文字内容？只能说你没有看过这篇文章](https://blog.csdn.net/qq_42453117/article/details/103643616)
+ ## [昂，我24岁了](https://blog.csdn.net/qq_35190492/article/details/104244398)
+ > 昂，我24岁了
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
  > 
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』](https://blog.csdn.net/m0_37907797/article/details/102885087)
- > 写了很久，这是一份最适合/贴切普通大众/科班/非科班的『学习路线』
- ## [【吐血整理】年度盘点 | 2019年Java面试题汇总篇——附答案](https://blog.csdn.net/sufu1065/article/details/103788763)
- > 【吐血整理】年度盘点 | 2019年Java面试题汇总篇——附答案
+ ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
+ > 
+ ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
+ > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
+ ## [（总结）阿里面试问了ArrayList，都问了啥？](https://blog.csdn.net/qq_35190492/article/details/103883964)
+ > 
  ## [苹果发布新 iPad Pro：起售价 6229 元、搭载自研 A12X 芯片、“浴霸”双摄](https://blog.csdn.net/csdnnews/article/details/104981105)
  > 【编者按】北京时间3月18日晚，苹果在其官方微信平台上发布了一篇《这一届iPad Pro有深度》的文章，文章宣布苹果新品正式上线苹果官网。跟大家先说下价...
  ## [西瓜说 | 物联网说了好一阵了，你为什么还不懂？](https://blog.csdn.net/csdnnews/article/details/104981106)
@@ -84,37 +96,39 @@ categories: IT NEWS
  ## [甲骨文Java 14来啦！](https://blog.csdn.net/csdnnews/article/details/104959917)
  > 甲骨文两年来，每六个月如约发布新版本的Java，Oracle JDK 14为开发人员带来创新功能和新特性预览。Oracle JDK 14增加了一些新特性来提高开发人员工作效率，这些新特性包括：对switch表达式的Java语言支持，用于持续监控JDK Flight Recorder数据的新API，.
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [8年互联网老兵，2个月面试20家大厂的知识点总结和建议](https://blog.csdn.net/qq_35190492/article/details/104914487)
+ > 
+ ## [数据分析师还是算法工程师｜用数据多角度解读如何选择](https://blog.csdn.net/weixin_41846769/article/details/104915591)
+ > 
+ ## [【Kafka】Kafka简单总结](https://blog.csdn.net/qq_43733123/article/details/104915726)
+ > 
+ ## [Redis --持久化](https://blog.csdn.net/weixin_44036154/article/details/104929735)
+ > 
+ ## [Vue 实现动态循环出的多个select 不能重复选择相同的数据](https://blog.csdn.net/JIA_FU_FU/article/details/104940988)
+ > Vue 实现动态循环出的多个select 不能重复选择相同的数据
+ ## [艾永亮：巴奴火锅的自救与救他计划，超级产品战略打响门店保卫战](https://blog.csdn.net/qq_37542544/article/details/104917430)
+ > 艾永亮：巴奴火锅的自救与救他计划，超级产品战略打响门店保卫战
+ ## [python基础编程：Python自然语言处理之词干,词形与最大匹配算法代码详解](https://blog.csdn.net/haoxun11/article/details/104930868)
+ > python基础编程：Python自然语言处理之词干,词形与最大匹配算法代码详解
+ ## [那个让你头大的数据结构，用Python学会变简单吗？](https://blog.csdn.net/qq_43779324/article/details/104924045)
+ > 
+ ## [python并发爬虫实用工具tomorrow实用解析](https://blog.csdn.net/haoxun12/article/details/104932376)
+ > python并发爬虫实用工具tomorrow实用解析
+ ## [C++---运算符重载(1) 加号重载 输出运算符重载](https://blog.csdn.net/weixin_43086497/article/details/104951114)
+ > C++---运算符重载(1) 加号重载 输出运算符重载
+ ## [【专业软件风暴】GISer福音来了：测绘地理信息类专业软件大全汇总下载！](https://blog.csdn.net/lucky51222/article/details/104940229)
+ > 【专业软件风暴】GISer福音来了：测绘地理信息类专业软件大全汇总下载！
+ ## [VMware上如何创建虚拟机以及安装操作系统](https://blog.csdn.net/weixin_45873676/article/details/104944486)
+ > VMware上如何创建虚拟机以及安装操作系统
+ ## [【Kafka】Kafka入门之JavaAPI（Producer）](https://blog.csdn.net/qq_43733123/article/details/104924356)
+ > 
+ ## [Redis -- 主从复制架构](https://blog.csdn.net/weixin_44036154/article/details/104930133)
+ > Redis -- 主从复制架构
+ ## [树莓派安装 zookeeper(docker) 附测试代码 (csdn独一份!)](https://blog.csdn.net/qq_33709508/article/details/104936196)
+ > 树莓派安装 zookeeper(docker) 附测试代码 (csdn独一份!)
 # PM 
+ ## [从 0 到 1 做短视频社区（2）：搭建内容消费平台](http://www.woshipm.com/it/3548312.html)
+ > 在《从 0 到 1 做短视频社区（1）：初期起量阶段》一文中，详细的阐述了短视频社区在第一个阶段的经历和方法论。经过第一阶段，此时健康的短视频产品应该是数据上升期，...
  ## [线上课程｜为什么一线大厂都在高薪抢AI产品经理？](http://www.woshipm.com/online/3554411.html)
  > 随着算法、算力和数据条件的逐渐成熟，AI时代来临已成共识。根据艾瑞咨询对拉勾网用户的调研显示，目前在人工智能行业工作的人占4.1%，未来期望进入该行业的人占32%，...
  ## [产品经理周报第 103 期｜抖音上线“团购”功能；腾讯“理财通”转型为“服务型平台”](http://www.woshipm.com/it/3552247.html)
