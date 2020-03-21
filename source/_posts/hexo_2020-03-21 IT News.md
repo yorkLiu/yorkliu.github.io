@@ -1,20 +1,20 @@
 ---
 title: 2020-03-21 IT News
 copyright: true
-date: 2020-03-21 08:00:53
+date: 2020-03-21 09:01:41
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果又一改变产业的黑科技揭秘!iPad Pro的激光雷达有什么玄机?](http://mp.weixin.qq.com/s?src=11&timestamp=1584747004&ver=2229&signature=96cWBZUbzO3b*RHW0P7Kw1yJqkg6L1j4fXFUcFxp9rBUXCn*7kuIqGaGsnnq4iGeIRGVVcrekqh4YBpc6*8hsbcCQO*vrwnGKQtefqfzaExhjofN8lwk6v874Ro8uZhw&new=1)
- > 看点：赶晚集种大瓜！新iPad Pro加持激光雷达，苹果AR生态的重要一步。前天晚上，苹果春季新品以官网直接上线的形式进行了亮相，没有传说中的iPhone 9，几款新品大都是常规升级，包括iPad Pro、Mac mini和Macboo...
- ## [好评如潮!全国高校大数据师资免费在线培训圆满收官!](http://mp.weixin.qq.com/s?src=11&timestamp=1584747004&ver=2229&signature=NzDOjmxPOv2uHap7OiW5yjwu3vK-25*CqQ3DA3siwQAjfqGPCYeLx0NlQZxL1CFZwEW-V*dlxEC-59SS-LWeg0aF8SxcWJFRvT2rBsu*sPSCH6-60-sEExTtIJhj3LBI&new=1)
- > 缤纷三月，樱花纷飞。3月20日下午，由云创大数据举办的全国高校大数据师资免费在线培训圆满收官！本次培训为期三天，来自全国高校的1000位老师报名参加。通过在哔哩哔哩“云创大数据直播间”的授课，人气达到1万...
- ## [线上沙龙第二期|“新基建”来袭，专家热议如何开启5G室分新纪元?](http://mp.weixin.qq.com/s?src=11&timestamp=1584747004&ver=2229&signature=D21PREwSRP9Isv7m2Qv2OD3rZqkfPeJok1jz5ugWy3zOaV1zwHL338TtJ6pEyneJjRQuVdu*PfsiGFvAEF9jxu*TnGyP6pjp3vvpEaW-PHPSgw3aYeyK9GOsHWhsnPkr&new=1)
+ ## [线上沙龙第二期|“新基建”来袭，专家热议如何开启5G室分新纪元?](http://mp.weixin.qq.com/s?src=11&timestamp=1584750619&ver=2229&signature=D21PREwSRP9Isv7m2Qv2OD3rZqkfPeJok1jz5ugWy3yJ1vV1ArpPOgoY7bvNmgLn2chmpKt78QDDnWM0Lw4eLiXTHjPCkTNPqpWYUNdbNTGUpVp8g3q0fOUS9bqp4Ozn&new=1)
  > 近日，中共中央政治局常务委员会召开会议指出，要加快5G网络、数据中心等新型基础设施建设进度。“新基建”成为当下的热点话题，新基建将驱动我国5G由稳步发展转为加快发展，80%左右的5G业务将在室内展开，室内...
- ## [技术抗疫|英特尔服务机器人大显身手，助力科技防疫!](http://mp.weixin.qq.com/s?src=11&timestamp=1584747004&ver=2229&signature=NAGUZhRsCOoNLBHo7YMOBLdBw8peswRFr9cvDQsBlX3wEjw2aJgdbbCq7ATFHfaYEW-tp7a1svQ4A*KuuV0hpjZuVYXPBf1kz1r*zINCsPPPx-4Fdc2JzRD4MAdhSTDh&new=1)
+ ## [苹果又一改变产业的黑科技揭秘!iPad Pro的激光雷达有什么玄机?](http://mp.weixin.qq.com/s?src=11&timestamp=1584750619&ver=2229&signature=96cWBZUbzO3b*RHW0P7Kw1yJqkg6L1j4fXFUcFxp9rBHV7DiKSYfNA6Xx4WtxN9eZC9H0rZcrmELjSffY-7XnRVNtOKGkJ8wpx3aL7xMyU2qWX5M6RcjO-OTTZBwnJ06&new=1)
+ > 看点：赶晚集种大瓜！新iPad Pro加持激光雷达，苹果AR生态的重要一步。前天晚上，苹果春季新品以官网直接上线的形式进行了亮相，没有传说中的iPhone 9，几款新品大都是常规升级，包括iPad Pro、Mac mini和Macboo...
+ ## [好评如潮!全国高校大数据师资免费在线培训圆满收官!](http://mp.weixin.qq.com/s?src=11&timestamp=1584750619&ver=2229&signature=NzDOjmxPOv2uHap7OiW5yjwu3vK-25*CqQ3DA3siwQAI8dj*3UvZslxWYd5xqr8JyKZH-NP5i4qdhrQhnHjNBUCnDP*5w9TVS3We6SNPKEq0Wx9ouROxR*WP*meFVMO6&new=1)
+ > 缤纷三月，樱花纷飞。3月20日下午，由云创大数据举办的全国高校大数据师资免费在线培训圆满收官！本次培训为期三天，来自全国高校的1000位老师报名参加。通过在哔哩哔哩“云创大数据直播间”的授课，人气达到1万...
+ ## [技术抗疫|英特尔服务机器人大显身手，助力科技防疫!](http://mp.weixin.qq.com/s?src=11&timestamp=1584750619&ver=2229&signature=NAGUZhRsCOoNLBHo7YMOBLdBw8peswRFr9cvDQsBlX0CfliWImSs3IDM-StdIGerFBYD6YeOcHqkWb3xeW*exX3*xjhG4gzxLeR3QqYnJQVpz5aOMCi60jjX7ptkVLY8&new=1)
  > 看了几十年的汽车仪表盘，还能怎么改？看了几十年的汽车仪表盘，还能怎么改？在这场不期而至的新冠肺炎疫情中，服务机器人冲在了抗疫一线，物流机器人、消毒机器人和巡检测温机器人迅速“走马上任”，在疫情最危...
- ## [苹果中国官网开启限购丨诺基亚发布首款5G手机\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584747004&ver=2229&signature=iIWpcPtSrrBKKKki-MRHGMHz4PAHoU-Th1v-q--Do6U1nvqOdWwfItoTGACSqGnqvvsbCzjxwCVOv6he3TGuYaFYzrQtbHNROdUKCMCnG-IOFnkIS*6zS1AdauzUrlyw&new=1)
+ ## [苹果中国官网开启限购丨诺基亚发布首款5G手机\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584750619&ver=2229&signature=iIWpcPtSrrBKKKki-MRHGMHz4PAHoU-Th1v-q--Do6VSUPSMpWkcdFhVy0tfTUgGddeOiejKAtBx*Hfl9TUNSjjMPHPTJyCiYfr6L1VYbJwgO*tibQARKcFdgRTTL1uf&new=1)
  > 3月20日丨周五【Do说】编辑 | 赵艾虎苹果中国官网开启限购，iPhone系列每人最多买两部据苹果官网最新调整的细节显示，苹果中国官网对用户购买iPhone的数量进行了限制，即每人仅限购买两部iPhone。对于本次限购，...
 # IT 技术 
  ## [十五种加速设计开发的CSS框架](http://developer.51cto.com/art/202003/612776.htm)
@@ -33,36 +33,36 @@ categories: IT NEWS
  > 微盟惨遭删库，商家损失赔偿这笔账应该怎么算？
  ## [Web开发者须知:9个流行于GitHub上的存储库](http://developer.51cto.com/art/202003/612849.htm)
  > Web开发者须知:9个流行于GitHub上的存储库
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
- > 
- ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
- > Java校招入职华为，半年后我跑路了
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [计算机专业的书普遍都这么贵，你们都是怎么获取资源的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/103670926)
- > 计算机专业的书普遍都这么贵，你们都是怎么获取资源的？
- ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
- > Python+OpenCV实时图像处理
- ## [作为一名大学生，如何在B站上快乐的学习？](https://blog.csdn.net/sinat_33921105/article/details/104031977)
- > 作为一名大学生，如何在B站上快乐的学习？
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
- > 
- ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
- > 
- ## [工作十年的数据分析师被炒，没有方向，你根本躲不过中年危机](https://blog.csdn.net/yuanziok/article/details/104015372)
- > 
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
+ ## [Android常用面向对象设计模式](https://blog.csdn.net/yinhaide/article/details/104676370)
+ > Android常用面向对象设计模式
  ## [害怕面试被问HashMap？这一篇就搞定了！](https://blog.csdn.net/sinat_33921105/article/details/103847137)
  > 
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
+ ## [大厂工作3年，我决定把大学到现在7年所有珍藏的书籍都分享一遍](https://blog.csdn.net/qq_35190492/article/details/103483011)
  > 
- ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
- > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
+ ## [C++(数据结构与算法):62---搜索树（二叉搜索树、索引二叉搜索树）](https://blog.csdn.net/qq_41453285/article/details/103963343)
+ > C++(数据结构与算法):62---搜索树（二叉搜索树、索引二叉搜索树）
+ ## [Cortex-M55来了，将集成在下一代STM32、Keil MDK等产品中](https://blog.csdn.net/ybhuangfugui/article/details/104285440)
+ > Cortex-M55来了，将集成在下一代STM32、Keil MDK等产品中
+ ## [《面试宝典》2019年mybatils面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777082)
  > 
+ ## [程序员请照顾好自己，周末病魔差点一套带走我。](https://blog.csdn.net/qq_35190492/article/details/103657160)
+ > 程序员请照顾好自己，周末病魔差点一套带走我。
+ ## [神级宝库！GitHub 标星 1.2w+，Chrome 最天秀的插件都在这里啦！](https://blog.csdn.net/u013486414/article/details/103987874)
+ > 神级宝库！GitHub 标星 1.2w+，Chrome 最天秀的插件都在这里啦！
+ ## [数十名工程师作战5天，阿里达摩院连夜研发智能疫情机器人](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/104121012)
+ > 
+ ## [用前端5分钟写一个在线m3u8在线播放器](https://blog.csdn.net/qq_39045645/article/details/104139172)
+ > 用前端5分钟写一个在线m3u8在线播放器
+ ## [Spring Boot 实战（12）springboot 整合 swagger2](https://blog.csdn.net/weixin_43570367/article/details/103788518)
+ > 
+ ## [一份王者荣耀的英雄数据报告](https://blog.csdn.net/weixin_38753698/article/details/103998188)
+ > 一份王者荣耀的英雄数据报告
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
+ ## [C语言数字图像处理---1.5图像基本变换之平移缩放旋转](https://blog.csdn.net/Trent1985/article/details/104013871)
+ > C语言数字图像处理---1.5图像基本变换之平移缩放旋转
+ ## [昂，我24岁了](https://blog.csdn.net/qq_35190492/article/details/104244398)
+ > 昂，我24岁了
  ## [深度学习“三巨头”、图灵奖得主 Yann LeCun：我没有天赋，所以才追随聪明人...](https://blog.csdn.net/csdnnews/article/details/105002522)
  > Yann LeCun作者 | 胡巍巍出品 | 程序人生（ID：coder_life）“彻头彻尾的骗局。”2018年初，历史上首个获得公民身份的机器人索菲...
  ## [程序员分析一线城市 1000 +岗位招聘需求，告诉你如何科学找工作](https://blog.csdn.net/csdnnews/article/details/105002523)
@@ -74,37 +74,41 @@ categories: IT NEWS
  ## [Docker 开发环境正在崩坏！](https://blog.csdn.net/csdnnews/article/details/105002515)
  > 作者 |Micah Adams责编 | 徐威龙封图 |CSDN 下载于视觉中国最近，我构建了一个本地开发环境，该环境使用 Docker 进行一些关键...
 # 人工智能 
- ## [HTTP协议经典面试题整理及答案详解](https://blog.csdn.net/heihaozi/article/details/104843595)
+ ## [大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神](https://blog.csdn.net/JAck_chen0309/article/details/104780288)
+ > 大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神
+ ## [一个中专生的逆袭之旅(如何做到收到阿里、腾讯、滴滴等面试邀请)](https://blog.csdn.net/qq_17623363/article/details/104903416)
  > 
- ## [jQuery实现中奖播报（让文本滚动起来） 简单设置数值即可](https://blog.csdn.net/tanqingfu1/article/details/104962588)
- > jQuery实现中奖播报（让文本滚动起来） 简单设置数值即可
- ## [CSS，JS实现3D切割轮播图](https://blog.csdn.net/HanYifFei/article/details/104967749)
- > CSS，JS实现3D切割轮播图
- ## [vue非父子组件间的传值](https://blog.csdn.net/weixin_43745003/article/details/104919633)
- > vue非父子组件间的传值
- ## [教你如何用JavaScript写个贪吃蛇出来(超详细)](https://blog.csdn.net/qq_40060770/article/details/104877437)
+ ## [5大法则助你 成为更出色的开发者](https://blog.csdn.net/TriDiamond6/article/details/104871167)
  > 
- ## [Vue中的生命周期](https://blog.csdn.net/liuyifeng0000/article/details/104953071)
- > Vue中的生命周期
- ## [图文并茂 最详细的flex布局入门介绍 十分钟带你玩转flex布局](https://blog.csdn.net/qq_42077395/article/details/104920142)
+ ## [!大部分程序员只会写3年代码](https://blog.csdn.net/qing_gee/article/details/104960082)
+ > !大部分程序员只会写3年代码
+ ## [我的费曼学习法之路「世界上最好的学习法：费曼学习法」](https://blog.csdn.net/linxingliang/article/details/104965147)
  > 
- ## [项目实战-疫情管理系统之一](https://blog.csdn.net/huoran668/article/details/104967262)
- > 项目实战-疫情管理系统之一
- ## [斐波那契数列](https://blog.csdn.net/woshidalaocxy/article/details/104977170)
- > 斐波那契数列
- ## [HTTP协议详解](https://blog.csdn.net/weixin_44189343/article/details/104951103)
- > HTTP协议详解
- ## [原生JS实现轮播图的自动播放、点击切换等效果【小白都看得懂系列】](https://blog.csdn.net/weixin_42881768/article/details/104973114)
- > 原生JS实现轮播图的自动播放、点击切换等效果【小白都看得懂系列】
- ## [2020前端最新面试题（vue篇）](https://blog.csdn.net/weixin_45325238/article/details/104968195)
- > 2020前端最新面试题（vue篇）
- ## [PHP 技巧 *  GD 库画表格图片演示](https://blog.csdn.net/Phplayers/article/details/104972054)
- > PHP 技巧 *  GD 库画表格图片演示
- ## [唐诗分析之可视化](https://blog.csdn.net/qq_42419462/article/details/104935400)
+ ## [考研数学经验](https://blog.csdn.net/qq_37492467/article/details/104921076)
+ > 考研数学经验
+ ## [测试的不是BUG是人生（一个3年测试白的测试工作总结）](https://blog.csdn.net/zd123_/article/details/104959704)
+ > 测试的不是BUG是人生（一个3年测试白的测试工作总结）
+ ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
+ > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [2020年，冯唐49岁：我给20、30岁IT职场年轻人的建议](https://blog.csdn.net/yellowzf3/article/details/103982287)
  > 
- ## [原生JS写轮播效果](https://blog.csdn.net/qq_43078424/article/details/104947141)
- > 原生JS写轮播效果
+ ## [带了6个月的徒弟当了面试官，而身为高级工程师的我天天修Bug......](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104949778)
+ > 带了6个月的徒弟当了面试官，而身为高级工程师的我天天修Bug......
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [3月23—3月27日三年级课程](https://blog.csdn.net/zln1212/article/details/104943090)
+ > 3月23—3月27日三年级课程
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
+ ## [曾经优秀的人，怎么就突然不优秀了。](https://blog.csdn.net/caoz/article/details/103884073)
+ > 
+ ## [为什么猝死的都是程序员，基本上不见产品经理猝死呢？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/103841693)
+ > 为什么猝死的都是程序员，基本上不见产品经理猝死呢？
 # PM 
+ ## [产品小白如何掌握三大核心要素，解决用户需求？](http://www.woshipm.com/pmd/3552593.html)
+ > 或许有不少产品小白无法了解刚需，高频、痛点这三大核心要素，听着概念也只是晕晕乎乎地。而本文笔者将以多个案例带你深入了解刚需、高频、痛点这三大要素，让你轻松掌...
+ ## [阿里员工如何制定、拆解 KPI？](http://www.woshipm.com/zhichang/3552160.html)
+ > 互联网行业中， KPI（Key Performance Indicator，关键绩效指标）是常见的工作目标制定方法之一。那么 KPI 怎么运用才能最准确地瞄准发力目标，引导员工前行呢。本文将...
  ## [疫情下的"咖啡香"—2020咖啡消费市场洞察报告](http://www.chanpin100.com/article/111061)
  > 咖啡饮用人群的消费行为发生着怎样的改变？未来国内咖啡消费增量市场有多大？
  ## [原型设计指南：AntDesign活学活用](http://www.chanpin100.com/article/111057)
