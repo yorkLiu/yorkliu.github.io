@@ -1,26 +1,46 @@
 ---
 title: 2020-03-21 IT News
 copyright: true
-date: 2020-03-21 12:03:59
+date: 2020-03-21 20:35:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [一家无人驾驶创业公司的末路，正确的模式投资人却不喜欢!](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=OdhIrnOEDCZYWEqUnUBYiEn1dT9q8rUfBSicXWuEjgXeQy4eozgboIRSAu9UK7xoUWMzi5A1AmDue5k9yd1mmKQz2nNGXQ0SleFMrlvYPCDa3z4tyvUvIhsf*QQWosGk&new=1)
- > 来源：机器之心（ID:almosthuman2014）参与：张倩、蛋酱、泽南天使茶馆修改删减（共3000字，阅读时间10分钟）这家名为 Starsky Robotics 的无人驾驶创业公司，在经历了融资失败、缩减车队、大幅度裁员一系列风波...
- ## [工信部印发中小企业数字化赋能专项行动方案 加大对中小企业数字化扶持力度](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=S20JjBzysOYqMSn-lkcL3NC63NXJliiGPwouUp*ro36u4hQSC30Nz7r-2SBeSRnLYkjx6eFO55keeB-IQlReIlI0AtQ7gK4aWy0Kyy50q2s-TebTFxsj7eHSED*ZJMe4&new=1)
+ ## [下周一晚开课|娄鹤律师：网络安全，以“人”为本](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=*xw2StFwltnosnHu4dFAQpkDMkou9zZtVHB5wKd*MBJJBD4KxSipvOzPWI*VMu1s73rPzjQDHCZMntFtip4UHs5q7Xpagq-TRYGpjs1IVIziHpDW5RQpsnCdvnwb-hc3&new=1)
+ > 公关公司大数据负责人非法删帖被判刑，新三板公司技术团队被警方“一锅端”......企业及技术人员因数据滥用、数据窃取、隐私泄露等屡屡受到法律惩戒，究竟是为何？技术人员在守护网络安全的同时，需要规避哪些法...
+ ## [疫情之下医疗远程运维服务显身手](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=mCWGebpECIibLkd2XZjkAKvcVVWc*ieZAKklicHYM8W5bFqgRK5aHi3IkEtdjHCboLUaDJlYALAK0um8IBt4tWV93SdBcLdFQKld8knSrOCzMU2sQUj1pwUzU4hZldE*&new=1)
+ > ——本文作者 庞涛2020年1月25日，为做好疫情防控工作，武汉市决定在江夏军运村北侧再建一所“小汤山”模式医院，定名为“武汉雷神山医院”。武汉雷神山医院的救治对象为各医院发热门诊和住院确诊的新冠肺炎患者...
+ ## [视频回放丨据说关于5G室分最全面的解读都在这!](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=tMhbPBczZ8KRPcdzeLOheOur52qrmUoiMn9YgOF35t*5UWwodH-jV1X--vEZ-1m0tMGmVR5kt7nwg33l51xuWFPiQ5LfuxHCRuInLztxsrHxuT9DnwsTKz7ILN1xQcSJ&new=1)
+ > 视频直播回放3月20日，通信世界全媒体组织上线了“5G加速跑系列沙龙（二）——‘新基建’来袭，如何开启5G室分新纪元？”本次线上沙龙特邀运营商、设备厂商等多位技术专家一起，从技术、网络建设、产业发展等角...
+ ## [23年来首次!中国移动用户上月跑了700多万](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=HsE8sLfLjHEWDzjwutEkniVuXiLfib6KMTpGvxNXgLNIhDdC87geso4dQhSCeCEUszKZECpw3SRtvbOwlDnSbvXYEoGSCbOBkA*ZMA5*VygtpBH0759zt2IAOfhKFvjn&new=1)
+ > 近日，中国移动财报显示，2019年全年净利润1066亿元，换算到每天约2.9亿！移动全年营运收入达到人民币7459亿元，同比增长1.2%，其中通信服务收入达到人民币6744亿元，同比增长0.5%。2019年，移动客户净增2521万...
+ ## [欢迎报名参加“大数据能力认证(中级)培训”!](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=2eluCMV5Kzf3Un0T3qjh4X1a1jUNZgJDTbTzC4ou21K*mv7TgfhESXvNsTP6*yPIGegq3hfLrg*HfrwlxUofacT-zMo*DBYJVxQYCVTZNNRuTbEn1O3ucguofeVK80zv&new=1)
+ > 2020年3月，教育部又批准了137所高校建设“数据科学与大数据技术”本科专业，批准51所高校建设“大数据管理与应用”本科专业。“数据科学与大数据技术”专业从2015年开始申报，迄今已有668所高校成功申报。“大...
+ ## [中国的第一座基站，你知道在哪吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=gc7UNbQnmxUTv702B6F9gz3lzyRZkY8Rdrn45fLB*nRry9Q-oT5FztsnZPidioOGBjRBRlc0WZxlqyUAX9rMXjU*vkgp6Z*TLrYt5mXhJ*qpnG*VacbagF9tzEfJWyci&new=1)
+ > 作者｜小枣君来源｜小枣课堂（ID：xzclasscom）头图｜视觉中国根据工信部的数据，截至2019年底，中国一共有移动通信基站841万个。仅4G基站数，就达到了惊人的544万个。这是个什么概念呢？全球4G基站总数不超过90...
+ ## [并网≠合并!](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=HbSrVaCpPtiXqnr*DcHusGwSm*n84yF6FGVY9wYmpIgHRES*yVS5VzoM8kLkpmlIJ6RHEm4I-72qyn6mYJE2BCm4nk0hFPiC1Ovw2TSIA3gLXbYYncnQg9Rtgti1ETBS&new=1)
+ > 并网的含义是：A拿出一部分网元，给A和B使用。B拿出一部分网元，给A和B使用。A和B拿出的网元在某些特性上不重叠，在另一些特性上重叠。例如可以在部署的地理位置上不重叠，或者可以在工作频段上不重叠，或者可以...
+ ## [清华大学计算机系教授：马少平——计算机是如何实现智能的(附直播回放)](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=oIes47rPpk17vyt5anu5xy8wRpOiRHnWOZ8K5lz*srK4Tc0VE9ZzpbAULuderT2dr4YA99CSIoOf0s2Kg82NQbC*rO3K2vAKAaFnevGxm9w9xS3STvFdpTvgPNfSX142&new=1)
+ > 来源：图灵人工智能直播回放长按识别观看回放报告摘要这是一个关于人工智能的科普讲座。人工智能经过六十几年的发展，取得了很大的成果，在很多领域得到了很好的应用。那么人工智能是如何实现的？本讲座将结合一...
+ ## [工信部印发中小企业数字化赋能专项行动方案 加大对中小企业数字化扶持力度](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=xuyZWX0a87Xwy1RZq9lvvZpGiaRypkOoDa8C64bms1wdFGqic9SIq3qITQHl3M6DFJ2ObYzj3Zn*xvIkUevKwnlWWeIjys1D4edtEJmgd1-nukYTAKDuZ8oPAJKMhM6c&new=1)
  > 来源：工信部为深入贯彻习近平总书记关于统筹推进新冠肺炎疫情防控和经济社会发展工作的重要指示精神，工业和信息化部实施《中小企业数字化赋能专项行动方案》（下称《专项行动》），以数字化赋能中小企业，助力...
- ## [苹果中国官网开启限购丨诺基亚发布首款5G手机\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=iIWpcPtSrrBKKKki-MRHGMHz4PAHoU-Th1v-q--Do6WoQyD5-zNbAgmV7CB*GI0y-4eSNOHOIGV-Ebd5odZbRqUB82r6vjRYSCeQTHyENrw41cUN6t7Ck5zu94EhCRuy&new=1)
+ ## [一家无人驾驶创业公司的末路，正确的模式投资人却不喜欢!](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=CzA0PhIuSy-7V7DNfOOEasiN-b5JFz9artwfhLI9UsM24TWQetQy7r8rB8DZiFCbW5ZjTChGs90qwJTCGCdT4Mdqhiqmml5Fhp0h8UoWsC9HOZScCVrbpTvDCZK0RLJX&new=1)
+ > 来源：机器之心（ID:almosthuman2014）参与：张倩、蛋酱、泽南天使茶馆修改删减（共3000字，阅读时间10分钟）这家名为 Starsky Robotics 的无人驾驶创业公司，在经历了融资失败、缩减车队、大幅度裁员一系列风波...
+ ## [360 回应安全云盘出现交易异常；苹果官网陆续限购 iPhone；GitHub 屏蔽微软工程师的开源项目|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=gc7UNbQnmxUTv702B6F9gz3lzyRZkY8Rdrn45fLB*nThZpC*CB5dkztrtrYSoKRn1*jB-i3Akqrkz6R6wSALwVng3k41jzTEfFSY*navuBxYFi4STsty4C6ueB8u6M1-&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [法国警告：新型勒索软件团伙正在针对地方政府](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=MBIJ3kI4GOL9F45bF*xo1Ibg*ZBFQ4rhMCqRkHmGcfOAWm9AR4bHRC6jazA04ngPRsJEWcsxM9DJwXaC8axHk8d6pZitwhxURfPNisvDSy8w358pk1Z41XfgBJQa*u4D&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月21日讯，近日法国CERT小组发布警报指出一个新型勒索软件团伙最近针对各个地方政府网络系统发起攻击。据悉，黑客是使用新版本的Mespinoza勒索软件毒...
+ ## [苹果中国官网开启限购丨诺基亚发布首款5G手机\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=xZ7*WL8ugN1RreUHeXxqODeLjusQPX-V4xIgQ1GhyiSo818JQlIkN8c0PQdYQimGe*vXKSKUt9IOBEKUQKoIM71OGZX2OQxCdM63HOYkGqrpErVCwp3kBPhrQ30aVuxM&new=1)
  > 3月20日丨周五【Do说】编辑 | 赵艾虎苹果中国官网开启限购，iPhone系列每人最多买两部据苹果官网最新调整的细节显示，苹果中国官网对用户购买iPhone的数量进行了限制，即每人仅限购买两部iPhone。对于本次限购，...
- ## [\[科技早报7点整\]外卖小哥登上《时代》杂志封面 马斯克称儿童基本免疫新冠……](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=dcmzUM8XcBhMF0XQtkjEkIPzolNaqcwUnYgeyJQDIftP6Z2FB77kwUov-Ip1-Z7eWX6-fAFHBQQ2RJxqkt5tYq*k0mFU2I0vg-63pwAXxf97LOXZ*ECJKcz26ehV5Fzh&new=1)
+ ## [\[科技早报7点整\]外卖小哥登上《时代》杂志封面 马斯克称儿童基本免疫新冠……](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=Is-uXNV5yIhijwrmSYbxdhIgLaYHbPsqu124Fay-OGuMomfqU-y9lITQISBb1EpS5QuELLGCexQ4zWubHSlW37FqCCAE-P5LHm0AbIaj-v2y26nvHdkPi9NZjzUp9Fcd&new=1)
  > 早上好，科技圈【一度蜜科技早报】第755期1.外卖小哥登上《时代》杂志封面，抗疫群像唯一华人面孔美国《时代》杂志日前出版一期疫情专刊，其中，中国外卖小哥高治晓登上期刊封面。《时代》杂志介绍了疫情期间高...
- ## [好评如潮!全国高校大数据师资免费在线培训圆满收官!](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=NzDOjmxPOv2uHap7OiW5yjwu3vK-25*CqQ3DA3siwQDDvnmXgjJmZ*MFNRbjvFTiOz3PatHiUwzspk0NzQ-Ta2DzVb0Dpxk0oFGBAYmHdrcQaP0MaTaoabrB-AQriLXK&new=1)
+ ## [好评如潮!全国高校大数据师资免费在线培训圆满收官!](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=2eluCMV5Kzf3Un0T3qjh4X1a1jUNZgJDTbTzC4ou21Ji*i6Q61uSKdaFgENuMs*NZEY42-4kqGq*RLUVUYig7OyBC3yOX3W6YvL1VXdjGngWPfiRQAYMW-cFrZP6*OfU&new=1)
  > 缤纷三月，樱花纷飞。3月20日下午，由云创大数据举办的全国高校大数据师资免费在线培训圆满收官！本次培训为期三天，来自全国高校的1000位老师报名参加。通过在哔哩哔哩“云创大数据直播间”的授课，人气达到1万...
- ## [技术抗疫|英特尔服务机器人大显身手，助力科技防疫!](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=NAGUZhRsCOoNLBHo7YMOBLdBw8peswRFr9cvDQsBlX1nqdFLJMPUmt6Wvb7JmjVqsuyUe8a0nE7TkfpcahTpIWFlAXg5AsFS9hvvoBfK9uO-D313KJUxlN8iy5uXWeZm&new=1)
+ ## [技术抗疫|英特尔服务机器人大显身手，助力科技防疫!](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=wUBWRZfKLOhqC0*cqQvOWa6*gUrvEMJj8pLlTMYrYqpK0VLuFdf4v7b19ZyyF6LCNNXTx8oe5YcEBPvd3AFkXqfAzVWEEI33*7yAVREgsooU9NbozFHKrE6rhvFzyk8S&new=1)
  > 看了几十年的汽车仪表盘，还能怎么改？看了几十年的汽车仪表盘，还能怎么改？在这场不期而至的新冠肺炎疫情中，服务机器人冲在了抗疫一线，物流机器人、消毒机器人和巡检测温机器人迅速“走马上任”，在疫情最危...
- ## [线上沙龙第二期|“新基建”来袭，专家热议如何开启5G室分新纪元?](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=D21PREwSRP9Isv7m2Qv2OD3rZqkfPeJok1jz5ugWy3xFGGtvarDb2NFLDKjOz6NriOVjfCNw7d*43r6xhI-1skg*o8Y52WaJke-ORV4dzprhT6qNXu1VrqpFSVfIXxCQ&new=1)
+ ## [线上沙龙第二期|“新基建”来袭，专家热议如何开启5G室分新纪元?](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=tMhbPBczZ8KRPcdzeLOheOur52qrmUoiMn9YgOF35t-M2GOTnpTjqJgdSuec7Ctx723*CIEuQESHRDs*lIvv5jmu9qianhBTC14NGAbQXtyhMw2cB5vY9U6ezFs30yb2&new=1)
  > 近日，中共中央政治局常务委员会召开会议指出，要加快5G网络、数据中心等新型基础设施建设进度。“新基建”成为当下的热点话题，新基建将驱动我国5G由稳步发展转为加快发展，80%左右的5G业务将在室内展开，室内...
- ## [苹果又一改变产业的黑科技揭秘!iPad Pro的激光雷达有什么玄机?](http://mp.weixin.qq.com/s?src=11&timestamp=1584761404&ver=2229&signature=96cWBZUbzO3b*RHW0P7Kw1yJqkg6L1j4fXFUcFxp9rBrJV*dcfyvcLYMond8-m3Zd52a4CkNa0aeDMNLkeTngLC53-rFgFn*XtWZuiQmnic3fFyF*6P27KCc7SI3Y1MT&new=1)
+ ## [苹果又一改变产业的黑科技揭秘!iPad Pro的激光雷达有什么玄机?](http://mp.weixin.qq.com/s?src=11&timestamp=1584793805&ver=2230&signature=1tIXru0T06TezZrhPhyC-477NswFTa1tJaWfvy8QtC8G4MTFfIPQIwhgph1OZQEWDtQI3ii2NwoLB0Gk236d0X7Xr9bJrFV6ZR6VCbUxVS2Q4CU45Tk76VfAwx*0q7UH&new=1)
  > 看点：赶晚集种大瓜！新iPad Pro加持激光雷达，苹果AR生态的重要一步。前天晚上，苹果春季新品以官网直接上线的形式进行了亮相，没有传说中的iPhone 9，几款新品大都是常规升级，包括iPad Pro、Mac mini和Macboo...
 # IT 技术 
  ## [十五种加速设计开发的CSS框架](http://developer.51cto.com/art/202003/612776.htm)
@@ -39,6 +59,16 @@ categories: IT NEWS
  > 微盟惨遭删库，商家损失赔偿这笔账应该怎么算？
  ## [Web开发者须知:9个流行于GitHub上的存储库](http://developer.51cto.com/art/202003/612849.htm)
  > Web开发者须知:9个流行于GitHub上的存储库
+ ## [物联网，是机会还是风险?](http://iot.51cto.com/art/202003/612905.htm)
+ > 物联网的概念已经火了很多年，直到近几年才开始有了一定规模的应用，这主要得益于网络基础设施的完善以及智
+ ## [2020年应该引起关注的8种移动安全威胁](http://netsecurity.51cto.com/art/202003/612904.htm)
+ > 在数据泄露事件中，恶意软件目前被认为是最不常见的手段。在Verizon的《2019年数据泄露调查报告》中恶意软
+ ## [假如计算机是中国人发明的，那代码是不是该这样](http://news.51cto.com/art/202003/612903.htm)
+ > 你们想过没，假如计算机是中国人发明的，那代码...... 注释都不需要了，代码即是注释，注释即是代码，进制
+ ## [手机定位的基本原理](http://mobile.51cto.com/app-show-612902.htm)
+ > 目前智能手机的使用已经越来越普遍，手机定位也是手机上的一个核心基础功能。举一个常见的应用如叫车，司机
+ ## [企业大数据平台仓库架构建设思路](http://bigdata.51cto.com/art/202003/612901.htm)
+ > 随着互联网规模不断的扩大，数据也在爆炸式地增长，各种结构化、半结构化、非结构化数据不断地产生。新环境
  ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
  > 这些软件太强了，Windows必装！尤其程序员！
  ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
@@ -53,22 +83,22 @@ categories: IT NEWS
  > 作为一名大学生，如何在B站上快乐的学习？
  ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
  > Python+OpenCV实时图像处理
- ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
- > 
  ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
- ## [计算机网络的核心概念](https://blog.csdn.net/qq_36894974/article/details/103778956)
+ ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
  > 
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
+ ## [昂，我24岁了](https://blog.csdn.net/qq_35190492/article/details/104244398)
+ > 昂，我24岁了
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
  ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
  > 
- ## [害怕面试被问HashMap？这一篇就搞定了！](https://blog.csdn.net/sinat_33921105/article/details/103847137)
+ ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
  > 
  ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
  > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [Spring框架|JdbcTemplate介绍](https://blog.csdn.net/weixin_43691058/article/details/104145703)
- > Spring框架|JdbcTemplate介绍
+ ## [（总结）阿里面试问了ArrayList，都问了啥？](https://blog.csdn.net/qq_35190492/article/details/103883964)
+ > 
  ## [探究！一个数据包在网络中的心路历程](https://blog.csdn.net/csdnnews/article/details/105002521)
  > 作者 |小林coding来源 |小林coding封图 | 视觉中国想必不少小伙伴面试过程中，会遇到「当键入网址后，到网页显示，其间发生了什么」的面试...
  ## [深度学习“三巨头”、图灵奖得主 Yann LeCun：我没有天赋，所以才追随聪明人...](https://blog.csdn.net/csdnnews/article/details/105002522)
@@ -92,82 +122,56 @@ categories: IT NEWS
  ## [从 Wi-Fi 6 的到来，看家庭网络的优化之路！](https://blog.csdn.net/csdnnews/article/details/105002519)
  > 作者 |赵昱，责编 | 郭芮封图 |CSDN 下载于视觉中国出品 | CSDN（ID：CSDNnews）随着科技的不断发展，生活中使用的各种科技产品...
 # 人工智能 
- ## [HTTP协议经典面试题整理及答案详解](https://blog.csdn.net/heihaozi/article/details/104843595)
- > 
- ## [CSS，JS实现3D切割轮播图](https://blog.csdn.net/HanYifFei/article/details/104967749)
- > CSS，JS实现3D切割轮播图
- ## [2020前端最新面试题（vue篇）](https://blog.csdn.net/weixin_45325238/article/details/104968195)
- > 2020前端最新面试题（vue篇）
- ## [项目实战-疫情管理系统之一](https://blog.csdn.net/huoran668/article/details/104967262)
- > 项目实战-疫情管理系统之一
- ## [jQuery实现中奖播报（让文本滚动起来） 简单设置数值即可](https://blog.csdn.net/tanqingfu1/article/details/104962588)
- > jQuery实现中奖播报（让文本滚动起来） 简单设置数值即可
- ## [HTML网页设计基础笔记 • 【第1章 HTML5基础】](https://blog.csdn.net/weixin_44893902/article/details/104964804)
- > 
- ## [序列化与反序列化的通俗解释及主要序列化的方法介绍](https://blog.csdn.net/LU_ZHAO/article/details/104962972)
- > 序列化与反序列化的通俗解释及主要序列化的方法介绍
- ## [2020年-web前端-最新-最全-最快的面试咨询-面试真题-面试常考题](https://blog.csdn.net/itwangyang520/article/details/104963195)
- > 2020年-web前端-最新-最全-最快的面试咨询-面试真题-面试常考题
- ## [斐波那契数列](https://blog.csdn.net/woshidalaocxy/article/details/104977170)
- > 斐波那契数列
- ## [java  websocket即时通讯+layui实现移动端一对一聊天客服功能](https://blog.csdn.net/lmsfv/article/details/104960196)
- > java  websocket即时通讯+layui实现移动端一对一聊天客服功能
- ## [原生JS实现轮播图的自动播放、点击切换等效果【小白都看得懂系列】](https://blog.csdn.net/weixin_42881768/article/details/104973114)
- > 原生JS实现轮播图的自动播放、点击切换等效果【小白都看得懂系列】
- ## [文件上传漏洞——文件上传检测汇总](https://blog.csdn.net/cldimd/article/details/104993148)
- > 文件上传漏洞——文件上传检测汇总
- ## [html实用(匹配手机和背景图片等),使用bootstrap3实现](https://blog.csdn.net/weixin_43701595/article/details/104997901)
- > 
- ## [IDEA创建Web工程](https://blog.csdn.net/Orange_minger/article/details/104982499)
- > IDEA创建Web工程
- ## [Layui：信息流加载和图片懒加载](https://blog.csdn.net/tanqingfu1/article/details/104989022)
- > 
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [android生态之系统篇](https://blog.csdn.net/angelsmiling/article/details/99680523)
+ > android生态之系统篇
+ ## [NetworkSecurityConfig: No Network Security Config specified, using platform default](https://blog.csdn.net/Jianchi0001/article/details/101193036)
+ > NetworkSecurityConfig: No Network Security Config specified, using platform default
+ ## [接收支付宝的POST异步通知(回调)](https://blog.csdn.net/Charles_lxx/article/details/101203650)
+ > 接收支付宝的POST异步通知(回调)
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [在 Android 系统源码中自定义系统服务（Custom System Service in AOSP）](https://blog.csdn.net/Kennethdroid/article/details/101221185)
+ > 在 Android 系统源码中自定义系统服务（Custom System Service in AOSP）
+ ## [Google GSI 刷写教程](https://blog.csdn.net/h1217256980/article/details/101214896)
+ > Google GSI 刷写教程
+ ## [Android 10(Android Q) 适配](https://blog.csdn.net/cmyperson/article/details/101199660)
+ > Android 10(Android Q) 适配
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [钉钉微应用PC开发版调试](https://blog.csdn.net/akuiblog/article/details/101205455)
+ > 钉钉微应用PC开发版调试
 # PM 
+ ## [怎么用“用户数据“驱动“增长”？](http://www.woshipm.com/data-analysis/3557771.html)
+ > 在流量红利见顶的当下，用户增长是产品与运营最大的难题，那么我们又该如何做改善用户增长问题，实现突破呢？利用用户数据分析实现增长或许是个不错的选择。先说说“用...
+ ## [后疫情时代，K12教培机构如何弯道超车？](http://www.woshipm.com/it/3557991.html)
+ > 本文将解读分析这场持续数月的疫情给K12教培机构带来了哪些影响，以及疫情之后这类机构如何弯道超车、线上教育产品未来会如何进化。希望对大家提升对K12教培行业的理解...
+ ## [用产品思维，解读“你生活地址半径3公里内，哪家超市最大”？](http://www.woshipm.com/pmd/3557431.html)
+ > 产品经理面试与笔试中，经常会出现类似标题所示的题目，那么这类题到底是想考察什么点呢？我们又该如何回答避免踩雷呢？笔者将为大家揭晓答案。首先，给大家看一道...
+ ## [知乎做付费成绩不俗，内容付费行业如何学习？](http://www.woshipm.com/it/3556947.html)
+ > 过去几年，人们总习惯以“五环外”高高在上的眼光去看待下沉市场的内容消费升级需求；但对于绝大多数徐图下沉的内容平台而言，知乎之路或许更有借鉴价值。如果2016 年是...
+ ## [做一个标准化Saas到底有多难？](http://www.woshipm.com/pmd/3556659.html)
+ > 中小企业的标准化saas系统是一个趋势，但我们也看到，不管是从产品经理的需求把握度和产品设计来说，还是从用户的满意度来说，以及公司的盈利性来说，都有着很多的问题...
+ ## [运营人如何解析需求，准确反馈给产品经理？](http://www.woshipm.com/operate/3553881.html)
+ > 运营人工作中的一部分就是将需求反馈给产品经理，并确保需求能够解决当前问题。那么如何让产品经理正确理解我们要的需求是什么样的、达到什么效果呢？笔者有两个思路——...
+ ## [直播产品该如何引导用户付费？](http://www.woshipm.com/pd/3555982.html)
+ > 对直播产品来说，一个获取收益的重要部分就是直播用户的消费，但是想让用户主动消费一向是一件很难的事情，我们又该如何在产品设计上做出相应设置，引导用户付费呢？...
+ ## [做好社群营销要理清这八个问题](http://www.woshipm.com/marketing/3547965.html)
+ > 如何做好社群营销？关于这个问题，文章所提供的八个点，我想你也许可以参考一下~由于疫情期间社群的活跃表现，特别是疫情期间很多大企业也在积极尝试社群营销，社群成...
  ## [现金流困难，企业如何用“支票”行为自救？](http://www.woshipm.com/it/3544410.html)
  > 疫情期间，不少企业都遇到了现金流不足，难以周转运行的困境，除了资金注入外，企业还能够采取怎样的方式自救呢？笔者给出的答案是——采用“支票”行为，留住客户，让客户...
  ## [大数据洞察服务变现的道路历程](http://www.woshipm.com/data-analysis/3548267.html)
  > 近两三年，笔者有幸能够站在时代的浪尖参与大数据产业赋能的探索与实践。由于服务客户是某电信运营商，归根结底，其核心能力主要包含两块：洞察和触达。其中触达是各行...
- ## [从人货场角度，解析内容电商与直播带货](http://www.woshipm.com/it/3538701.html)
- > 这篇文章以“人货场”为基础理论，从人、货、场三个角度展开了对内容电商和直播带货的思考，感兴趣的小伙伴可以读读这篇文章，或许会对内容电商和直播带货有新的看法。...
- ## [疫情“催熟”下沉市场：昙花一现还是蔚然成荫？](http://www.woshipm.com/it/3554652.html)
- > 随着互联网的普及，大多数人都生活在网络之下，很轻松地就能接触到互联网产品与事物。在疫情时期，大量人口宅在家中减少了出行，而人们的时间与注意力无处释放，最终都...
- ## [产品小白如何掌握三大核心要素，解决用户需求？](http://www.woshipm.com/pmd/3552593.html)
- > 或许有不少产品小白无法了解刚需，高频、痛点这三大核心要素，听着概念也只是晕晕乎乎地。而本文笔者将以多个案例带你深入了解刚需、高频、痛点这三大要素，让你轻松掌...
- ## [阿里员工如何制定、拆解 KPI？](http://www.woshipm.com/zhichang/3552160.html)
- > 互联网行业中， KPI（Key Performance Indicator，关键绩效指标）是常见的工作目标制定方法之一。那么 KPI 怎么运用才能最准确地瞄准发力目标，引导员工前行呢。本文将...
- ## [疫情下的"咖啡香"—2020咖啡消费市场洞察报告](http://www.chanpin100.com/article/111061)
- > 咖啡饮用人群的消费行为发生着怎样的改变？未来国内咖啡消费增量市场有多大？
- ## [原型设计指南：AntDesign活学活用](http://www.chanpin100.com/article/111057)
- > 玩转Ant Design，轻松做出Web页面
- ## [在线Photoshop免费在线使用？9个超好用的在线神器，远程工作必备！](http://www.chanpin100.com/article/111059)
- > 今天 我就为大家整理了 8 个日常工作场景中必备的免费工具，没有任何付费功能，并且全部都是在线网站，全平台可用。
- ## [2020年Q1年海外休闲游戏广告投放推广概览](http://www.chanpin100.com/article/111055)
- > 国内国外休闲游戏 ，有哪些大不同
- ## [Q1投放力度大增，金融行业吹响回暖号角？](http://www.chanpin100.com/article/111054)
- > 理财借贷类广告数占比显著上升，广告主更看重百度信息流、搜狗星耀渠道
- ## [沟通技能说明白了吗？](http://www.chanpin100.com/article/111053)
- > 你在说什么？
- ## [保障产品质量的两个关键措施（上）](http://www.chanpin100.com/article/111052)
- > 技术团队实施过程中，如何保障产品质量！
- ## [抖音没播放量要不要刷粉，抖音账号可以刷粉吗](http://www.chanpin100.com/article/111051)
- > 抖音没播放量要不要刷粉，抖音账号可以刷粉吗
- ## [Mob研究院|2020年2月视频App榜单](http://www.chanpin100.com/article/111049)
- > 新鲜出炉的视频市场榜单，抖音第二、B站第九？
- ## [Mob研究院|2020年2月“女性向游戏”榜单](http://www.chanpin100.com/article/111048)
- > 2020年2月份的女性向游戏渗透率排行榜top30新鲜出炉啦！
- ## [摒弃“晚饭想吃什么”式的问券调查](http://www.chanpin100.com/article/111046)
- > 如何吸引用户，进行有效的问券调查？
- ## [2020中国智能支付终端专题分析](http://www.chanpin100.com/article/111045)
- > 2019年联网商户和POS机具规模双双下降，增量市场逐渐萎缩的前提下，存量市场智能化升级改造机会凸显；与此同时，传统POS机具厂商面临转型压力，在规模扩张受到限制的前提下，智能支付终端厂商纷纷进行产业数字化战略转型，随着越来越多的线上线下商户开始更加注重自身的数字化升级和用户的精细化运营，智能支付终
- ## [在线教育类App如何降低获客成本？](http://www.chanpin100.com/article/111044)
- > 受疫情的影响，线上教学需求攀升。虽然给在线教育行业提供了发展机会，但也间接促进了教育行业的竞争，在竞争如此激烈的背景下，教育行业的获客成本也在不断上涨。那么有什么办法可以降低教育类App的获客成本呢？
- ## [报告解读|闻旅深度解读《中国在线旅游市场年度综合分析2020》](http://www.chanpin100.com/article/111043)
- > 3月17日，数据分析机构Analysys易观发布《中国在线旅游市场年度综合分析2020》(以下简称“《分析》”)。从中国旅游市场发展概况、中国在线旅游市场发展特征、中国在线交通预订市场、中国在线住宿预订市场、中国在线度假旅游市场、中国在线旅游厂商分析、中国在线旅游市场发展趋势研判等7方面，《分析》分
- ## [医保对接推动医院数字化进程加快，互联网医疗市场规模增速达历史最高水平](http://www.chanpin100.com/article/111040)
- > 2020年，政府为实体医院在互联网化以及数字化建设方面设定目标，加速推动了互联网医疗与实体医疗的融合发展；一方面网售处方药政策放开，几大互联网巨头进军医药电商；另一方面 “互联网+医保”的小范围试水，共同提高了互联网医疗的市场天花板。
- ## [对话微博动漫：所谓产品，就是对团队协作、用户体验、商业目标的](http://www.chanpin100.com/article/111056)
- > 学习别人的设计思维，培养出自己的设计思维
- ## [金融系列白皮书|《金融业线上渠道转型的方法与实践》上线](http://www.chanpin100.com/article/111060)
- > 神策数据推出金融行业数字化转型系列白皮书之《金融业线上渠道转型的方法与实践》，聚焦金融业数字化转型的常见问题，提出金融业的数字化转型基本思路。
 
     
