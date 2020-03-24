@@ -1,7 +1,7 @@
 ---
 title: 2020-03-24 IT News
 copyright: true
-date: 2020-03-24 12:01:46
+date: 2020-03-24 17:02:08
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -88,95 +88,89 @@ IMF&#24635;&#35009;&#65306;2020&#20840;&#29699;&#32463;&#27982;&#25110;&#23558;&
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [7点见|苹果市值跌破万亿美元；软银或出售阿里股票；传喜茶完成新一轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=ZOmlv6uzI3DMfpU24FGU9j7cfvUuNyjOanjVsex0BCVtpysYwIUlC3QB0D5ASEEsMn6XJZmS6zJLmG-JBkqgMI6Swnpa92sk6qzjbzKFtWsODC5vElM879Ec1pw8Jzy8&new=1)
- > 各位小伙伴们早上好呀！近几日，小七注意到陕西多家博物馆发布通告试行恢复对外开放啦~期间继续实行实名制网络预约、分时段参观政策，每日限额参观人数。但大家外出和通勤时，都要记得佩戴口罩哦！苹果股价收盘...
- ## [重磅!5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=Lu0Btng5WIdzo2LlBMytR87i-LActdVX0hCzNd74D8AF5c4oPgA6j9uU5UeWcPisFLP5gFe-VDpjhdp9HpOg-L8IZv-LWVDb1yQtHxA905TuueqrY*4F61rifXr2SQW8&new=1)
- > 2020年3月23日，中国联通发布2019年度业绩公告。• 利润持续提升2019年全年实现服务收入人民币2644亿元，较去年同比上升0.3%。尽管收入基本持平，但得益于良好的成本管控，净利润达到人民币113亿元，同比增长11....
- ## [新加坡推出新型追踪应用程序 以缓解冠状病毒传播](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=AgvgDqGPKiltmPnOYAhio5oRaXy9jrAY4uWrPwd3xsCfo6zVHRdN4vNXhSSY9054LF0d0Dor1PXjCZWTb2zvD24fNevoVVRK9zkKxe6IfE2tcb9Rtd5jYgt6vBN66u*B&new=1)
+ ## [YOLOv3比原作高10个点，飞桨更新至73个视觉算法、203个预训练模型](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=IZ9QV6uT17R1vMIIlDA4vAWs-ANVkLASAHe3OHuiMujbD4qHS7oTVQ-WcJ5biQsSeRIVgJ1gePrV6AK21o5V8rRwZpzxNCWZte4OgKB3ArwNR*H5JkSri9xoseg9PNQr&new=1)
+ > 机器之心原创机器之心编辑部两项全新能力，四项重磅升级，百度飞桨计算机视觉模型库 PaddleCV 最近迎来了一次全面升级。此外，这一次百度还为 PaddleCV 新增产业应用算法 15 个，并加入了 35 个高精度预训练模型...
+ ## [十亿美元以上的并购案为0 这对安防意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=31Ww*Xd3mOeVCPQTXbnHWuyhKg6Ge3wEpDSeLmW-8AIIpOF4txp4fq7j9u0mL-LCvw-*uN8WLiHuk1uI1o*aV0N39qJ5yijtZFpsnNb8K7IsOcfZ24QSOtn5lfuZy6MX&new=1)
+ > 安防并购，比想象的更精彩一点。Memoori新调研结果显示：过去五年中，安防行业每年至少都会有一笔十亿美元以上的并购案发生。然而，在2019年，这一数字降至为“0”。“并购”，这个资本动作是否正慢慢被安防市场...
+ ## [大族激光：未参与iPad激光雷达扫描仪项目 全球制造基地将于下半年投产](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=r4QnnBQ9b43TiNCKH8lNO2JyuqNT03rl4Ybymho49tjjbqNKa7RkghY5ju3bLUcZ6gKk8Ce6qcBLZxqibOFdFYitYtu*PesYfbBFOndxRv8ONeSh*w3FszUpffjjn6nz&new=1)
+ > 有投资者就此向大族激光提问，苹果新款iPad Pro所引进的激光雷达扫描仪组件是否是大族激光的设备协助加工生产，大族激光是否获得了相关设备的订单？对此大族激光表示，公司未提供该部件加工设备，也没有相关设备...
+ ## [中国电信2019年净利润205亿，同比下滑3.3%](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=sqI4biRrRU6eVLLHx9ZIYUdHS6-*-bSK-WaocjLpFTpy*0CDmXl7bFojZvH7YIWNhWk3QpwfODDVSPs8vHTmB1KUz9TNQEVl2Ll7VPh2AKITsAIA-oJImVNr0v0bYXW4&new=1)
+ > 今日午间，中国电信正式发布2019年全年业绩。数据显示，2019年，中国电信实现经营收入人民币3757亿元，同比下降0.4%，服务收入达到人民币3576亿元，同比增长2.0%，继续保持高于行业平均。 其中，移动服务收入达...
+ ## [威胁情报：最危险的网络安全工作](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=o6FJM-D3xhTx1rzMLaVgJx1xxkcwFq*hyb5VgEUF9ljSptYFp5adLWvPN2gzfK*DYrLyQvflutDVIqyqCtrAd1YOwyODSAS87KvwV7icGdGi3ewh5txkZQIyjMRphYqV&new=1)
+ > 威胁情报、APT分析师、事件检测和响应专家、欺骗式或攻击性防御技术开发者和渗透测试人员们经常需要出没暗网、分析危险的恶意软件，或者追踪危险的网络犯罪分子。他们是企业网络安全的“奇兵”和特勤部队，有时...
+ ## [安全团队为远程工作快速发展做好准备了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=UHjR*mZxWvedlO9RorRSw7I1nAZf*WvPuJHPMM6R0wv-Kq5fZ9b94sjkjtJ7c0BpXYsbUb3eejrQbM6rmApQcB1ZRbCGk6NmaTwxc7KM0Cn3aUdZjFjhpnAq6mekHG-q&new=1)
+ > 关键讯息，D1时间送达！快速过渡到远程工作会给企业的安全团队带来压力，也迫使他们需要了解和应对一系列潜在的安全风险。由于新型冠状病毒在全球各国的迅速传播，许多公司开始鼓励员工在家工作，以确保员工的健...
+ ## [人民日报发表微软GCR董事长柯睿杰署名文章](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=sVjlNobiBF5cSI29qps2klw55iMgopopMcT8YsYOZllN0ndW9C1jF8Acf3MLfE-TPZc4IFMLC9b5EZTIdtwY5bpWQnYL1ZH1q**Ghj5XJQ-ih79xh*QBuBfPjR7k1nD8&new=1)
+ > （本文阅读时间：4分钟）“突如其来的疫情让我对中国和中国人民的了解更加深刻。中国在抗击疫情取得积极效果的同时，也为行业变革和技术创新提供了机遇。中国将成为远程技术运用的重要推动者，中国经济也将在疫...
+ ## [累加器是寄存器吗?寄存器、累加器、暂存器有什么区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=XBY3tZITR22ADE3ISWDj1D9yHamYz1V3hcWcqz5lttCo6Ps5InT8mrwoLrNh2wdQ8bBMtdhHfvbFA5zyhdkBJslvwZBAoeowOetGMjtsVksNAr0Q0p1zJ*mNNKKgRdTz&new=1)
+ > 什么是寄存器寄存器，是集成电路中非常重要的一种存储单元，通常由触发器组成。在集成电路设计中，寄存器可分为电路内部使用的寄存器和充当内外部接口的寄存器这两类。内部寄存器不能被外部电路或软件访问，只是...
+ ## [新加坡推出新型追踪应用程序 以缓解冠状病毒传播](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=AgvgDqGPKiltmPnOYAhio5oRaXy9jrAY4uWrPwd3xsCpcReDqVIr-f4e-9GUr3lK9AveMKk2T0Pbq0BVjN-DybsBuEIfd3rRpfl1rU4SnRYsmCELBpmXJnkTyeFm5JPU&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月24日讯，近日据外媒报道，新加坡开发了一个新的移动应用程序，该应用程序可以在用户感染冠状病毒后进行联系人追踪。据悉，该应用程序名为TraceToge...
- ## [\[报告\]2019年皮卡市场回顾及2020年展望(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=V9gTD6z4LTzzWdL*Iu7IkVTdkOqjuppIZc3FA51OZeYSn8y3F04yIeNftiqUfPOX1-U3XmtE6a4FQn*pGOa2nKYiZ0-flgwSlRqhSkpWZe7HWgLlhvTkZlZ7IDn2eNRf&new=1)
- > 2019年，皮卡市场销量43.7万，同比下滑2.5%，略低于商用车（-1.1%），领先乘用车（-9.6%）；皮卡市场自2012年市场规模达到 40万后， 一直呈波动调整，总量稳定。以下为报告节选：......文│乘联会本报告共计：24...
- ## [3月25日-讯石直播|是德科技&FormFactor《硅光及Wafer-Level测试讲解》欢迎报名!](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=g2S1LbXnjt7MtyjAyyWdZHqRBLvo9Am6wBZWzKX4UBNgehZBWgXjUGx56ZEdGcMsTxmaDmexQfAv354rV6PNCZqSB0U05hYsglKT7dF4ts6Fzce5PXZvQCE*31xdMNx4&new=1)
- > 新闻导读3月25日上午10点，是德科技测试专家联合FormFactor技术顾问将就“关于硅光测试发展概况和精准高效的 Wafer-Level 测试挑战及解决方案”的相关话题开启课程直播。欢迎识别二维码预约参加！ICCSZ讯 讯石直...
- ## [宏力达、福昕软件“赶考”科创板](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=BF1xByepMeXtiDZHNqkNLN6-ir0ijbJq3d*3Cn5uctd63WKlubVrJeTSsBHUG-zyGppqn9T3T9OZF9eoe-EGfaqgX3pX8AJwQ3GijoSsR5I=&new=1)
- > 科创板考场再迎新生。3月23日晚间，上交所官网披露，福建福昕软件开发股份有限公司（下称“福昕软件”）和上海宏力达信息技术股份有限公司（下称“宏力达”）的科创板首发上市申请获受理。　　福昕软件来自...
- ## [小鹏汽车收购福迪汽车丨微信朋友圈增新功能\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=NgB5JbN7mEZSaZ99BAsST1457nIWdyddSa0Htr8V-kdn4mJhw4MPnh0FhCPg77Ya2rUZNrbTSzp8n6dcb-E52Ofzlo73WRCI5KUJ26*iaCYKrr3*Kr*r9Qr1*9DDwL0t&new=1)
- > 3月23日丨周一【Do说】编辑 | 赵艾虎小鹏汽车收购福迪汽车，为获得生产资质扫清障碍小鹏汽车已经收购广东福迪汽车有限公司100%股权——由此满足了获得生产资质的必要条件之一。真正获得资质还需向各相关部门提交...
- ## [\[PPT下载\]中国联通2019年财报发布：利润增11.1%，投350亿建5G](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=aMrA5u5j75flKieYHV696Q*rOUkLr9h3OHdU8lv4Ji7QCR5ThTgNeDSEwrpC2cMpqtXzKU8lV1oyboGFn0BET66oOFE20zIsu9mC6sEztmZthDu6eZgPew*2FqERRc38&new=1)
- > 3月23日，中国联通发布了2019年财报。财报显示，中国联通营业收入为2,905.1亿元，同比下降0.1%；服务收入2644亿元人民币，同比上升0.3%；EBITDA达到人民币944亿元，同比增长11.1%；净利润达到113亿元，同比增长1
- ## [5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=h3STVSDn7yuCraWHW*s0GyHxMNtQOL0E8MdppVQU7Vl4*66ZkR8SbUqKJPcPrBTguv-NMaG4TPvnCCA90Oc6LAENZkWUH6zDi9SIzPcg2X1-ChsSBBrgvfsHwWT4oXF3&new=1)
+ ## [7点见|苹果市值跌破万亿美元；软银或出售阿里股票；传喜茶完成新一轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=ZOmlv6uzI3DMfpU24FGU9j7cfvUuNyjOanjVsex0BCXA3LWrn*h28DzQYMXkaTARXT0w5iwOKPZtfUA61Y*eWzdBIOb2QmAbA-7EIyxmbusaN0bBqObRh1RyIKK5F17s&new=1)
+ > 各位小伙伴们早上好呀！近几日，小七注意到陕西多家博物馆发布通告试行恢复对外开放啦~期间继续实行实名制网络预约、分时段参观政策，每日限额参观人数。但大家外出和通勤时，都要记得佩戴口罩哦！苹果股价收盘...
+ ## [重磅!5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=Lu0Btng5WIdzo2LlBMytR87i-LActdVX0hCzNd74D8C4rA98Gk*g9szoYgjp6O0ldi-5Sivi1HnGVq9sawJ4THB9anE7zv6EGC0vBRL4vc62P410HehPO8wPewdkSnjM&new=1)
  > 2020年3月23日，中国联通发布2019年度业绩公告。• 利润持续提升2019年全年实现服务收入人民币2644亿元，较去年同比上升0.3%。尽管收入基本持平，但得益于良好的成本管控，净利润达到人民币113亿元，同比增长11....
- ## [杭州发力“新基建”!今天，周江勇去了这几个地方进行调研](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=0FTgOKz83uarinxm5QlM2C*QBuk0fnThR3yOexxEMIZXDuQ5obySx3mtk6jzn2WE7PApLoQV4qviIuSnyVvf8xp0A1qAy*eIAIVTh3Dj0VeBDc6zHm5lJO28dZcVSkvw&new=1)
+ ## [\[报告\]2019年皮卡市场回顾及2020年展望(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=V9gTD6z4LTzzWdL*Iu7IkVTdkOqjuppIZc3FA51OZeYmcfe-uPrSGy5oPkXXZ2AeUJ8UrWBopniXsFuGCCsuxNasog2JWFvXm7hVNvSDscD9RLkf818XT1CXtB1RtxRN&new=1)
+ > 2019年，皮卡市场销量43.7万，同比下滑2.5%，略低于商用车（-1.1%），领先乘用车（-9.6%）；皮卡市场自2012年市场规模达到 40万后， 一直呈波动调整，总量稳定。以下为报告节选：......文│乘联会本报告共计：24...
+ ## [3月25日-讯石直播|是德科技&FormFactor《硅光及Wafer-Level测试讲解》欢迎报名!](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=g2S1LbXnjt7MtyjAyyWdZHqRBLvo9Am6wBZWzKX4UBMhgU0Mc4WNHQUHR5PzibAaMhEftiHoxVl-hwNTJ1WnxC4l67qRfGpa5LTZoAi0lS1g71*3ZCYHYMggg4GAJONp&new=1)
+ > 新闻导读3月25日上午10点，是德科技测试专家联合FormFactor技术顾问将就“关于硅光测试发展概况和精准高效的 Wafer-Level 测试挑战及解决方案”的相关话题开启课程直播。欢迎识别二维码预约参加！ICCSZ讯 讯石直...
+ ## [宏力达、福昕软件“赶考”科创板](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=BF1xByepMeXtiDZHNqkNLN6-ir0ijbJq3d*3Cn5uctc04h8TDCASE7Ifb*2vZcB99AXD-Gun9LyHsCMy-kvnloxuLLdeasZUesXEQ5fOVjM=&new=1)
+ > 科创板考场再迎新生。3月23日晚间，上交所官网披露，福建福昕软件开发股份有限公司（下称“福昕软件”）和上海宏力达信息技术股份有限公司（下称“宏力达”）的科创板首发上市申请获受理。　　福昕软件来自...
+ ## [小鹏汽车收购福迪汽车丨微信朋友圈增新功能\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=NgB5JbN7mEZSaZ99BAsST1457nIWdyddSa0Htr8V-kfFbJpOaMKSRSz7HSuqFzM3ZUl570yu43jEIHEd6*eAs7QfXvuLnAFCjq-ZFJ9TOlMqnKhfTpL7-X0-P4sNkEZT&new=1)
+ > 3月23日丨周一【Do说】编辑 | 赵艾虎小鹏汽车收购福迪汽车，为获得生产资质扫清障碍小鹏汽车已经收购广东福迪汽车有限公司100%股权——由此满足了获得生产资质的必要条件之一。真正获得资质还需向各相关部门提交...
+ ## [\[PPT下载\]中国联通2019年财报发布：利润增11.1%，投350亿建5G](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=aMrA5u5j75flKieYHV696Q*rOUkLr9h3OHdU8lv4Ji79csG8q5nV-ROCRrMqayEkf-FM1VHGovZf4O8x1SaAoigkbefH0Qd788U1*HUINwfTkWmUpML5UV0S707LzpSa&new=1)
+ > 3月23日，中国联通发布了2019年财报。财报显示，中国联通营业收入为2,905.1亿元，同比下降0.1%；服务收入2644亿元人民币，同比上升0.3%；EBITDA达到人民币944亿元，同比增长11.1%；净利润达到113亿元，同比增长1
+ ## [5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=h3STVSDn7yuCraWHW*s0GyHxMNtQOL0E8MdppVQU7VlD-iwDkkkbjfyZwAWWVuarHY9Ayh4LEqBZ5fQWq9lak4ztDnKNbIjtf49jJHXzLXhLB-SQLpNclLAyD68HjlCV&new=1)
+ > 2020年3月23日，中国联通发布2019年度业绩公告。• 利润持续提升2019年全年实现服务收入人民币2644亿元，较去年同比上升0.3%。尽管收入基本持平，但得益于良好的成本管控，净利润达到人民币113亿元，同比增长11....
+ ## [杭州发力“新基建”!今天，周江勇去了这几个地方进行调研](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=0FTgOKz83uarinxm5QlM2C*QBuk0fnThR3yOexxEMIaoXoQ08H-Fzs-joBMxjn0o1Kwev5GdjIYv1QAce-L6pAK17XgdvUHWhQPk6x8bHNUOoJ9QvwX3aBFNi0SbizZw&new=1)
  > 今天下午，省委常委、市委书记周江勇调研“新基建”等工作。他强调，要认真贯彻中央关于加快新型基础设施建设的重大决策部署，抢抓发展机遇，充分发挥优势，着力补齐短板，强化数字赋能，加快5G网络、数据中心等...
- ## [官宣：李正茂委任为中国电信股份有限公司总裁兼首席运营官，柯瑞文不再担任](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=*yzFo2D-ORxtmENlGIO*CKZHdzXm-9X3kDdIfpm7Y1d2v4vG3lr1cF2nFOAvFwoR93oP2H8ul84OT-VRNEV4zqHg67otyUiEBjIkqQvP4w5XVNZTFqSlVyhC9af9G*H2&new=1)
+ ## [官宣：李正茂委任为中国电信股份有限公司总裁兼首席运营官，柯瑞文不再担任](http://mp.weixin.qq.com/s?src=11&timestamp=1585040405&ver=2235&signature=*yzFo2D-ORxtmENlGIO*CKZHdzXm-9X3kDdIfpm7Y1cvuWEZkN6bhUXnp0mrEyBsnnz2EdO4-*cYP1CT7BJ61rDCXyau5bz*UWBuDw0yNS9ZjbuUNtYQpoI*pW-V3ws-&new=1)
  > 今日，中国电信股份有限公司在港交所发布公告，公告指出董事会宣布，李正茂先生获委任为中国电信股份有限公司总裁兼首席运营官，于2020年3月23日起生效。由即日起，中国电信股份有限公司董事长兼首席执行官柯瑞...
 # IT 技术 
+ ## [从一无所知到3分钟快速了解“知识图谱”](http://developer.51cto.com/art/202003/613010.htm)
+ > 从一无所知到3分钟快速了解“知识图谱”
+ ## [不再惧怕DNS面试题：大牛用1张大图，9个步骤轻松应对](http://network.51cto.com/art/202003/613009.htm)
+ > 不再惧怕DNS面试题：大牛用1张大图，9个步骤轻松应对
  ## [微服务中，如何交付一款成功的API](http://developer.51cto.com/art/202003/613060.htm)
  > 微服务中，如何交付一款成功的API
- ## [讲真，应该选择RabbitMQ还是Kafka？](http://developer.51cto.com/art/202003/613035.htm)
- > 讲真，应该选择RabbitMQ还是Kafka？
  ## [如何正确理解CPU使用率和平均负载的关系？看完你就知道了](http://news.51cto.com/art/202003/613066.htm)
  > 如何正确理解CPU使用率和平均负载的关系？看完你就知道了
  ## [如何手动轮换Linux上的日志文件](http://os.51cto.com/art/202003/613020.htm)
  > 如何手动轮换Linux上的日志文件
+ ## [挑战马斯克Neuralink！斯坦福全新脑机接口，直连大脑和硅基芯片](http://news.51cto.com/art/202003/613011.htm)
+ > 挑战马斯克Neuralink！斯坦福全新脑机接口，直连大脑和硅基芯片
+ ## [讲真，应该选择RabbitMQ还是Kafka？](http://developer.51cto.com/art/202003/613035.htm)
+ > 讲真，应该选择RabbitMQ还是Kafka？
  ## [面试 | 从写简历，到面试、谈薪酬的那些技巧和防坑指南](http://news.51cto.com/art/202003/613045.htm)
  > 面试 | 从写简历，到面试、谈薪酬的那些技巧和防坑指南
- ## [如何全面规划物联网应用的开发](http://iot.51cto.com/art/202003/612981.htm)
- > 如何全面规划物联网应用的开发
- ## [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](http://netsecurity.51cto.com/art/202003/612992.htm)
- > 漫话：如何给女朋友解释什么是撞库、脱库和洗库？
- ## [听说你是程序员，可以帮我盗个QQ号吗？](http://netsecurity.51cto.com/art/202003/612931.htm)
- > 听说你是程序员，可以帮我盗个QQ号吗？
- ## [分析和人工智能正在推动物联网的发展](http://iot.51cto.com/art/202003/613070.htm)
- > 未来的工厂将只有两名员工，一个人和一只狗。人在那里喂狗，而狗是要看住人，不让他碰机器
- ## [智能虚拟化技术正在消除数据孤岛？](http://network.51cto.com/art/202003/613071.htm)
- > 对于以数据为驱动力的企业来说，可能会对隐藏在海量数据中的业务和客户有着比较全面的认知，同时，这也是为
- ## [每个程序员都必须掌握的 8 种数据结构！](http://stor.51cto.com/art/202003/613069.htm)
- > 数据结构是一种特殊的组织和存储数据的方式，可以使我们可以更高效地对存储的数据执行操作。数据结构在计算
- ## [发改委：加强5G、工业互联网等新基建 推进AI等技术集成创新](http://iot.51cto.com/art/202003/613065.htm)
- > 国家发展改革委副秘书长高杲先生指出，发改委将持续深入推进“互联网+”行动，加快数字经济创新发展试验区
- ## [微软警告：2个未修补的0day漏洞影响所有Windows版本](http://netsecurity.51cto.com/art/202003/613068.htm)
- > 昨天，微软发布了一个新的安全公告，提醒数十亿Windows用户――两个新的未修复的0day漏洞将使黑客远程控制
- ## [应用交付控制器的前半生……](http://developer.51cto.com/art/202003/613067.htm)
- > 我是一台「应用交付控制器」，这是中文名，我的英文名是ADC，Application Delivery Controller，我刚出生的
- ## [威胁情报：最危险的网络安全工作](http://zhuanlan.51cto.com/art/202003/613064.htm)
- > 威胁情报、APT分析师、事件检测和响应专家、欺骗式或攻击性防御技术开发者和渗透测试人员们经常需要出没暗
- ## [2020年商业智能软件发展趋势](http://mobile.51cto.com/ahot-613061.htm)
- > 随着2020年的到来，事情必将变得越来越有趣。通过其多面性，商业智能将再次支持许多旨在以合理成本做出更明
- ## [浅谈工业互联网的安全防护](http://netsecurity.51cto.com/art/202003/613059.htm)
- > 在未来的发展过程中，传统的安全防御已难以有效应对新的安全威胁，需要树立全新的安全防护理念，建立综合性
- ## [冠状病毒疫情下的数据中心运营商优秀实践](http://network.51cto.com/art/202003/613057.htm)
- > 鉴于冠状病毒(COVID-19)迅速传播，数据中心标准组织Uptime Institute日前根据其数据中心运营商和合作伙伴的
- ## [Java实现循环链表](https://blog.csdn.net/qq_41596860/article/details/105039077)
- > 
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
- > Java校招入职华为，半年后我跑路了
- ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
- > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
- > 
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
- > 
- ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
- > Python+OpenCV实时图像处理
- ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
- > 
+ ## [手机厂商的5G研发之谜，一场蓄势待发的战争](http://mobile.51cto.com/news-613102.htm)
+ > 随着半导体制造工艺的进步和硅片更高的集成度，特别是调制解调器和射频前端的紧密耦合，业界开始意识到成熟
+ ## [5G室内覆盖网络需精细化建设，智能化演进](http://network.51cto.com/art/202003/613101.htm)
+ > 当前，5G室内覆盖面临诸多挑战，本文从频谱、成本、产业、网络等维度，分析5G室内网络部署面临的四大挑战，
+ ## [三大运营商宣布整改：将解决套餐过多和新老不同权](http://network.51cto.com/art/202003/613099.htm)
+ > 近日，国内三大运营商中国移动、中国联通、中国电信公开回应称，将积极改正巡视组巡视后发现的问题。另外，
+ ## [采用大数据解读Salesforce Einstein分析的价值点](http://bigdata.51cto.com/art/202003/613097.htm)
+ > 很多人阅读了有关大数据在营销中的好处的文章。Louis Columbus在《福布斯》上发表了一篇精彩的文章，内容涉
+ ## [算法之外：人工智能和机器学习对组织的影响](http://news.51cto.com/art/202003/613103.htm)
+ > 如今，数字科学对于企业来说，显得愈发地“诱人”。但是若要正确地看待数字科学，我们亟需了解下面一个问题
+ ## [Gartner：2019全年全球服务器出货量下降3.1%](http://server.51cto.com/sOS-613094.htm)
+ > 近日，Gartner的最新统计数据显示，全球服务器市场在2019年第四季度继续保持增长，其收入和出货量分别同比
+ ## [工信部开展IPv6专项行动，IDC、CDN、云服务商该如何做？](http://network.51cto.com/art/202003/613093.htm)
+ > 5G已经在全球范围内开始了正式商用，物联网将迎来高速发展与应用，这将需要大量的IP地址。伴随着IPv4地址的
+ ## [每秒处理240万帧游戏画面，AI训练成本降低80％，谷歌开源RL并行计算框架](http://news.51cto.com/art/202003/613096.htm)
+ > 最近，不差钱的谷歌，开源了一种SEED RL框架，可以更容易地将AI训练放在几千台机器上运行，效果比之前的方
+ ## [企业按下上云快进键数字化转型 推动云计算快速发展](http://cloud.51cto.com/art/202003/613091.htm)
+ > 在线教育、远程办公、云看病、云上课……疫情之下云计算应用场景爆发。根据国务院发展研究中心发布的报告显
+ ## [DevOps 和敏捷：究竟有什么区别？](http://developer.51cto.com/art/202003/613089.htm)
+ > 两者之间的区别在于开发完毕之后发生的事情。早期，软件开发并没有特定的管理流程。随后出现了瀑布开发流程
  ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
  > 一个程序在计算机中是如何运行的？超级干货！！！
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
- > 
- ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
- > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [《面试宝典》2019年springmvc面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777133)
- > 
+ ## [【MySQL】Explain详解与索引优化实战](https://blog.csdn.net/cy973071263/article/details/104551865)
+ > 【MySQL】Explain详解与索引优化实战
+ ## [Python 装饰器](https://blog.csdn.net/weixin_46108954/article/details/104739712)
+ > Python 装饰器
+ ## [Java学习日志(三十四): DbUtils工具包的使用，四种常用Handler结果集](https://blog.csdn.net/Sakuraaaaaaa/article/details/104693554)
+ > Java学习日志(三十四): DbUtils工具包的使用，四种常用Handler结果集
  ## [亚信科技公布2019年度业绩，5G商用效果凸显](https://blog.csdn.net/csdnnews/article/details/105067685)
  > 2020年3月23日晚，亚信科技控股有限公司（简称：亚信科技，股票代码：01675.HK）公布了截至2019年12月31日公司全年业绩。2019年公司经营业绩实现良好增长，软件业务收入及利润均达到双位数增长。全年软件业务收入达到约人民币57.187亿元，同比上升10.1%，其中数字化运营服务收入约.
  ## [绝了！RNN 还会写藏头诗！](https://blog.csdn.net/csdnnews/article/details/105062209)
@@ -210,61 +204,71 @@ IMF&#24635;&#35009;&#65306;2020&#20840;&#29699;&#32463;&#27982;&#25110;&#23558;&
  ## [十分钟上手 ES 2020 新特性](https://blog.csdn.net/csdnnews/article/details/105062216)
  > 作者 | 浪里行舟责编 | 郭芮ES2020 是 ECMAScript 对应 2020 年的版本。这个版本不像 ES6 (ES2015)那样包含大量新特...
 # 人工智能 
- ## [入侵别人电脑后你必须要会的Linux与window系统用命令行下载网络资源的15种方式](https://blog.csdn.net/weixin_45728976/article/details/105025763)
+ ## [Python学习笔记（八）--------Python模块及部分常见模块详解](https://blog.csdn.net/shouchenchuan5253/article/details/105027720)
  > 
- ## [开源软件的使用](https://blog.csdn.net/qq_44710568/article/details/105045414)
- > 开源软件的使用
- ## [正则表达式RE以及grep、awk和sed工具的用法详解](https://blog.csdn.net/baidu_38803985/article/details/105023004)
+ ## [Python之多线程爬虫抓取网页图片的示例代码](https://blog.csdn.net/haoxun12/article/details/105035854)
+ > Python之多线程爬虫抓取网页图片的示例代码
+ ## [人工智能之计算机视觉：利用OpenCV和dlib库实现人脸检测与人脸标记全部代码实现(40行代码搞定！)](https://blog.csdn.net/u010244992/article/details/105020557)
+ > 人工智能之计算机视觉：利用OpenCV和dlib库实现人脸检测与人脸标记全部代码实现(40行代码搞定！)
+ ## [\[Pyhon疫情大数据分析\] 四.微博话题抓取及新冠肺炎疫情文本挖掘和情感分析](https://blog.csdn.net/Eastmount/article/details/104995419)
  > 
- ## [wifi真的安全吗？一行代码就可使周边无线网络全部瘫痪！！！](https://blog.csdn.net/weixin_46220666/article/details/105031467)
+ ## [python基础编程：python Shapely使用指南详解](https://blog.csdn.net/chengxun02/article/details/105029605)
+ > python基础编程：python Shapely使用指南详解
+ ## [python基础编程：Python中turtle作图示例](https://blog.csdn.net/haoxun11/article/details/105018259)
+ > python基础编程：Python中turtle作图示例
+ ## [Python循环语句](https://blog.csdn.net/Persia_king/article/details/105046787)
+ > Python循环语句
+ ## [数据分析三剑客之 Numpy 基础教程](https://blog.csdn.net/qq_43613793/article/details/105044998)
  > 
- ## [Ubuntu16.04搭建WordPress](https://blog.csdn.net/weixin_44464598/article/details/105054847)
- > Ubuntu16.04搭建WordPress
- ## [\[原创\] 关于Linux的那些常用命令，你能记住几个？](https://blog.csdn.net/Mr_Lester/article/details/104974950)
- > \[原创\] 关于Linux的那些常用命令，你能记住几个？
- ## [Windows下CMD常用命令符的基本操作（包括Linux常用指令）【科普贴】](https://blog.csdn.net/weixin_42881768/article/details/105045564)
+ ## [没有指针，Python如何实现链表、二叉树这些数据结构？](https://blog.csdn.net/qq_43779324/article/details/104968597)
  > 
- ## [Centos 安装配置VNC，及使用方法和常见问题解决办法](https://blog.csdn.net/baidu_32639021/article/details/105011149)
- > Centos 安装配置VNC，及使用方法和常见问题解决办法
- ## [【kali Linux 的1024种玩法】一.在VMware Workstation上安装Kali Linux 2020.1（超详细！）](https://blog.csdn.net/weixin_46192679/article/details/104977786)
- > 
- ## [阿里云服务器安装jdk、tomcat（小白试）](https://blog.csdn.net/kk190511/article/details/105030380)
- > 
- ## [linux基本指令](https://blog.csdn.net/lhrdlp/article/details/105033860)
- > linux基本指令
- ## [bash shell命令（五）](https://blog.csdn.net/qq_44710568/article/details/105013208)
- > bash shell命令（五）
- ## [(新手向)从零开始将springboot项目部署到云服务器（ecs）上](https://blog.csdn.net/qq_42804736/article/details/105042344)
- > 
- ## [VMware虚拟机安装Ubuntu系统步骤详解](https://blog.csdn.net/qq_44907912/article/details/105042029)
- > VMware虚拟机安装Ubuntu系统步骤详解
- ## [手把手教你挂载](https://blog.csdn.net/qq_41488595/article/details/105042184)
- > 手把手教你挂载
+ ## [2020阿里实习校招算法笔试题（1）](https://blog.csdn.net/sinat_27990891/article/details/105056793)
+ > 2020阿里实习校招算法笔试题（1）
+ ## [Python爬虫爬取煎蛋网图片代码实例](https://blog.csdn.net/haoxun12/article/details/105036418)
+ > Python爬虫爬取煎蛋网图片代码实例
+ ## [Python多线程爬虫实战_爬取糗事百科段子的实例](https://blog.csdn.net/chengxun02/article/details/105035740)
+ > Python多线程爬虫实战_爬取糗事百科段子的实例
+ ## [python爬虫教程：编写Python脚本来获取mp3文件tag信息的教程](https://blog.csdn.net/haoxun12/article/details/105036350)
+ > python爬虫教程：编写Python脚本来获取mp3文件tag信息的教程
+ ## [Python基于numpy灵活定义神经网络结构的方法](https://blog.csdn.net/haoxun11/article/details/105056519)
+ > Python基于numpy灵活定义神经网络结构的方法
+ ## [Python爬虫使用浏览器cookies：browsercookie过程解析](https://blog.csdn.net/haoxun12/article/details/105036492)
+ > Python爬虫使用浏览器cookies：browsercookie过程解析
 # PM 
- ## [四步归纳：品牌战略的创建](http://www.woshipm.com/marketing/3569022.html)
- > 在上一篇《品牌战略的演变》末尾，我们简单提了一下品牌定位的三种方法：抢先占位，关联定位和为竞争对手重新定位。但真正品牌创建的过程，远远没有这么简单。本文和大...
- ## [产品经理，为什么你总在做杂事？](http://www.woshipm.com/zhichang/3567458.html)
- > 工作中，感觉自己总是在做杂事？怎么判断做的是“杂事”呢？本文作者从杂事的概念出发，从另一个角度对做“杂事”，进行了分析思考，希望本文内容对你有所启发。和同事闲...
- ## [转化率超高的拼多多，如何让用户忍不住买买买？](http://www.woshipm.com/pd/3564594.html)
- > 电商领域中，拼多多可能是让大家调侃最多，“真香”最多的产品了。而在百亿补贴让大多数人感叹“真香”之前，拼多多也凭借其社交化、游戏化等产品设计以及对用户体验的考虑...
- ## [基于市场数据调研，看B2B市场运营的原则](http://www.woshipm.com/operate/3567317.html)
- > 当我们谈论B2B市场运营的时候我们往往讨论一些很细节的战术问题，比如内容营销，付费广告，私域流量等等，而对B2B市场运营战略层次的问题关注甚少。Linkedin（领英）基...
- ## [高速增长的B站，商业化之路走向何方](http://www.woshipm.com/operate/3561851.html)
- > 2019年是B站快速发展的一年，净收入显著增长，月活大幅提升。但是由于其用户基数还是相对较少，热点制造能力相对较弱；并且随着规模的不断扩大，新用户的涌入会带来一定...
- ## [如何接手数据产品（1）：找到业务的利益相关者（key stakeholder）](http://www.woshipm.com/pmd/3565134.html)
- > 当数据产品经理中途接手一个新的业务数据产品时，如何快速理解产品内容以及产品逻辑，并做出结构化梳理，快速接手建立高效的工作模型呢？笔者将为大家介绍一些方法，希...
- ## [从规划到上线，内部OA系统功能迭代怎么做？](http://www.woshipm.com/pd/3566912.html)
- > 每一次的功能更新，产品经理总会期待获得用户的肯定。这就要求在每一个新功能上线之前，产品经理需要做好规划。本文作者以OA系统新功能规划为例，对功能迭代的需要注意...
- ## [怎么为“不可量化的任务”制定指标？](http://www.woshipm.com/zhichang/3550269.html)
- > 无论采用哪种方式，都应该记得指标是最终目标。可是指标的抽象化和不容易量化的领域增加了制定指标的难度。曾在Digg、 Uber、Stripe以及Calm等多家公司工作的Will Larso...
- ## [实战复盘：基于微信环境，如何保证H5产品正常上线？](http://www.woshipm.com/operate/3547961.html)
- > 本文以作者亲历的一次H5产品上线为例，分析了其中关键环节、不当之处以及相应的注意要点。最近在半路接手一个从0-1的产品，产品功能设计完毕、需求文档完成、需求评审...
- ## [微信视频号，持续打造“稀缺性”优势](http://www.woshipm.com/it/3564134.html)
- > 经济学告诉我们，无论在什么时候，占据稀缺性，总是可以掌握话语权的，微信自身对于世界来说，就是一种稀缺性，这种稀缺性可以召唤那些高价值的稀缺用户，为它注入新鲜...
- ## [如何看懂直播电商，挖掘制胜点？](http://www.woshipm.com/it/3560408.html)
- > 直播带货近几年热度不低，风头不减，就连罗永浩都宣布要做直播带货了。那么直播带货、直播电商为何有如此大的魔力，它又能为品牌、商家带来哪些价值呢？3月19日下午，...
- ## [你的小程序为什么只能“用完即走”，而不是“用完再来”？](http://www.woshipm.com/operate/3572148.html)
- > 做为微信小程序，有便捷的入口可以很大成本的提高拉新效率，整个微信环境的营销和支付闭环同样能对转化有较高提升，但饱受诟病的的确是留存。那么，你的小程序为什么只...
+ ## [B端产品“竞品分析”的体系方法论](http://www.woshipm.com/pmd/3029354.html)
+ > 竞品地图、竞品分析，是相辅相成的关系；就好比“军事地图”那一定是从整体布局、地形、环境等多因素，有整体、有分析、有标注的，“实+虚”结合来完成。而竞品分析中，B端...
+ ## [企业办公平台的未来发展方向：飞书产品功能模块优化思考](http://www.woshipm.com/pd/3466012.html)
+ > 本文以飞书作为主要研究对象，探究企业办公平台产品的未来可发展方向。一、企业应用市场分析1. 发展背景和方向随着人口红利的下降，大量C端的产品都进入了流量增长...
+ ## [利用好音乐，营销更有效](http://www.woshipm.com/marketing/3346907.html)
+ > 营销方式多种多样，每个都需要结合自身特点与对应手段相结合。本篇文章介绍了声音对人的影响与音乐营销的多种表现方式，与大家分享。什么？利用声音进行营销，我没听...
+ ## [哪些特征，能表现产品思维？](http://www.woshipm.com/pmd/3530120.html)
+ > 关于产品思维是什么的话题讨论有很多，没有一个标准答案能够定性这个问题。而笔者作为资历深厚的产品经理，将集合着朋友圈子里百万年薪天团大佬们的指点，用自己的理解...
+ ## [费米问题 | 如何快速评估一个价值范围？](http://www.woshipm.com/zhichang/3574857.html)
+ > 将复杂问题简单化，将困难目标拆解为一个个可执行的小目标，多方位思考分析的能力。这类问题既需要你有广泛的知识面，以及不错的逻辑思维，又需要你有一定的创新能力。...
+ ## [项目中如何避免团队成员相互甩锅？](http://www.woshipm.com/zhichang/3568703.html)
+ > 产品在最终上线出现了问题，必然是由众多因素所致，所以才会出现团队甩锅现象的发生。出现问题不要紧，重要的是，产品经理可以通过哪些方法来避免团队之间甩锅现象的发...
+ ## [优秀产品经理是如何写周报的？](http://www.woshipm.com/pmd/3554466.html)
+ > 有些公司中，写日报与周报是工作标配，但是有不少产品经理十分抗拒——有的是因为没什么输出，没什么好写的；有的是因为偷懒；有的是因为觉得这件事没有价值……但是日报周...
+ ## [2个方面带你了解，财税管理模块如何设计](http://www.woshipm.com/pd/3528924.html)
+ > 很多产品汪肯定经历过财务板块的设计，常见的财务板块应该有哪些功能，内容，并让公司财神爷对连连称赞？本期LOG将从基本概念，业务逻辑与关系两方面带你掌握财务板块的...
+ ## [微信组合拳更新，打造“摇滚”新生态](http://www.woshipm.com/it/3573952.html)
+ > 2020年，微信频频重磅更新，并通过大量组合拳——「群工具」「群待办」「视频号」等，治理因微商对用户的打扰、以及各种伤害用户的行为造成的生态退化，进而实现微信的新...
+ ## [平均薪资26K，仍供不应求，数据产品经理凭什么？](http://www.chanpin100.com/article/111109)
+ > 平均薪资26K，仍供不应求，数据产品经理凭什么？想从事这个岗位，得先了解他。
+ ## [三只松鼠Kaiser：小程序如何助力品牌营销的“增长思维”？](http://www.chanpin100.com/article/111098)
+ > 百万级 PV 活动背后的数据运营能力
+ ## [产品冷启动并不冷，是舍命狂奔热血沸腾的开始](http://www.chanpin100.com/article/111097)
+ > 无论做什么，其实都是在解决问题，冷启动也不例外，不同环境，资源，时机，采取的解决的方案会不同，但是抓住了“渔”才会真正抓住了“鱼”。
+ ## [斗鱼—产品分析报告（简析）](http://www.chanpin100.com/article/111096)
+ > 一直处于直播行业领先地位的斗鱼在直播面临的监管风险下，商业化模式探索走的跌跌撞撞，如何同时获得用户与监管的双重认可，仍旧是一个当下亟待思考的问题
+ ## [“翻红”的私域流量告诉我，再不上车用户就要跑光了](http://www.chanpin100.com/article/111095)
+ > 企业要想打好私域流量这张牌，必须以用户数字化资产为核心、品牌IP化为基础、线上线下和全域流量为支撑。
+ ## [微信圈子，真的凉凉了？](http://www.chanpin100.com/article/111094)
+ > 你觉得呢？
+ ## [业务思维，对产品经理真的重要吗？](http://www.chanpin100.com/article/111093)
+ > 产品经理成长之路上的必修课
+ ## [交互设计：如何做到品质？](http://www.chanpin100.com/article/111092)
+ > 培养语感，理性思考，反复实践
  ## [除了深色模式，微信此次更新还有这些贴心改进](http://www.chanpin100.com/article/111090)
  > 微信深色模式来了
  ## [一个产品经理，是怎么把付费学习的钱赚回来的](http://www.chanpin100.com/article/111086)
@@ -289,21 +293,5 @@ IMF&#24635;&#35009;&#65306;2020&#20840;&#29699;&#32463;&#27982;&#25110;&#23558;&
  > 我打赌你的枪里没有子弹，就好像多数人不清楚产品经理的定义一样。学习定义是枯燥的过程，自己的理解和转换才是关键。今天咱们就聊“枯燥的官方定义”和“个人的理解”两个话题。
  ## [电商零售和生活服务还可以这么玩](http://www.chanpin100.com/article/111075)
  > 用户模型除了常见的用户属性维度，跟应该关注用户价值维度。产品的用户价值是由买方(或使用者)的主观效用评价来定义的。用户以这个主观评价为参照物，来预判损益和决定是否交易(是否执行一项行为)。人类的主观意识千差万别，还受情境变量的深度影响，产品的功能和属性本身都只是交换媒介，用户从产品获得和感知的，只是
- ## [产品经理到产品总监之路](http://www.chanpin100.com/article/111074)
- > 如何成长为产品总监？
- ## [除了office,还有这些办公软件帮你完成高效办公！](http://www.chanpin100.com/article/111073)
- > 说到办公软件，很多人一定想到微软的office中的word、excel、ppt，但是办公软件可不仅仅只有这些，想要高效的完成各项工作，光靠office软件是不够的，一些情况下office也未必是最好的选择，有些掌握一些职场中“其他办公工具”，可能可以帮助你更高效的完成工作。
- ## [罗永浩：“所有的牛逼”还需要一点点时间！](http://www.chanpin100.com/article/111070)
- > 入局直播电商的罗老师，尚能饭否？
- ## [产品小白分享一款应用的产品需求文档及原型创作](http://www.chanpin100.com/article/111069)
- > Co-Edit系统主要目的是为工作人员提供良好的文件管理方式，以及帮助组织内部成员协作编辑更加方便有效。Co-Edit主要实现的功能包括：用户登录、新建内容、传输内容、管理内容等四大功能模块。关键词：Co-Edit、文件管理、协作编辑。
- ## [进还是出？陌陌的新“围城”](http://www.chanpin100.com/article/111067)
- > 站在社交“围城”外的新选手，前赴后继的想要打入城内。稳坐城中的陌陌，也一直在寻求“陌生人社交”之外的第二个曲线。城外的人想进来，城里的人想出去。
- ## [产品创业|万字总结新产品打造的十个大坑](http://www.chanpin100.com/article/111066)
- > 为什么我的产品看起来不错，却总是卖不好？为什么我能生产国外大牌的产品，一做自主品牌就一塌糊涂？为什么我在本产业混了一辈子，却干不过互联网新势力？这些问题应该怎么解决呢，本文给大家总结了新产品打造的十个大坑，一起来看看~
- ## [2020年中国私域流量运营生态图谱](http://www.chanpin100.com/article/111091)
- > 近日，易观发布了关于《2020年中国私域流量运营生态图谱》的专题分析内容，对私域流量的发展进行了综合梳理，分析总结了私域流量运营的关键特点、实施主体、典型流程与生态服务供应商。
- ## [2020中国移动游戏市场年度综合分析](http://www.chanpin100.com/article/111088)
- > 近日，易观发布了《中国移动游戏市场年度综合分析2020》，基于市场和易观千帆数据，从市场、用户、产品、媒体、渠道、厂商等多个方面对中国移动游戏市场2019年的发展情况进行了全面分析，并对发展趋势进行了预测。
 
     
