@@ -1,7 +1,7 @@
 ---
 title: 2020-03-24 IT News
 copyright: true
-date: 2020-03-24 10:01:49
+date: 2020-03-24 12:01:46
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -88,89 +88,97 @@ IMF&#24635;&#35009;&#65306;2020&#20840;&#29699;&#32463;&#27982;&#25110;&#23558;&
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [3月25日-讯石直播|是德科技&FormFactor《硅光及Wafer-Level测试讲解》欢迎报名!](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=g2S1LbXnjt7MtyjAyyWdZHqRBLvo9Am6wBZWzKX4UBMnOi323VVRIvJH13x7AQN0*f1Fyz1GrjQ7aYCJr6HoyG7Gklk9kyuDX0kZAyLIK7DunyEI*gJpQ5qO4gP9mqWQ&new=1)
- > 新闻导读3月25日上午10点，是德科技测试专家联合FormFactor技术顾问将就“关于硅光测试发展概况和精准高效的 Wafer-Level 测试挑战及解决方案”的相关话题开启课程直播。欢迎识别二维码预约参加！ICCSZ讯 讯石直...
- ## [7点见|苹果市值跌破万亿美元；软银或出售阿里股票；传喜茶完成新一轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=ZOmlv6uzI3DMfpU24FGU9j7cfvUuNyjOanjVsex0BCVpa*3*OPpaY0KQgckDJOLJfZJEXWeTyuHDs3t65K2URQKG7VXjH0tp95KczBStVclqjvqRsyNduzLXZ2mMpelp&new=1)
+ ## [7点见|苹果市值跌破万亿美元；软银或出售阿里股票；传喜茶完成新一轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=ZOmlv6uzI3DMfpU24FGU9j7cfvUuNyjOanjVsex0BCVtpysYwIUlC3QB0D5ASEEsMn6XJZmS6zJLmG-JBkqgMI6Swnpa92sk6qzjbzKFtWsODC5vElM879Ec1pw8Jzy8&new=1)
  > 各位小伙伴们早上好呀！近几日，小七注意到陕西多家博物馆发布通告试行恢复对外开放啦~期间继续实行实名制网络预约、分时段参观政策，每日限额参观人数。但大家外出和通勤时，都要记得佩戴口罩哦！苹果股价收盘...
- ## [小鹏汽车收购福迪汽车丨微信朋友圈增新功能\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=NgB5JbN7mEZSaZ99BAsST1457nIWdyddSa0Htr8V-kdgi0kGs1EJwmIR*nFm-96tZr3egop9hCLMfrfTU1VMWi6NI0eb71IbY57NFAlLsx0RubyqJMJN*mgsANd-usht&new=1)
- > 3月23日丨周一【Do说】编辑 | 赵艾虎小鹏汽车收购福迪汽车，为获得生产资质扫清障碍小鹏汽车已经收购广东福迪汽车有限公司100%股权——由此满足了获得生产资质的必要条件之一。真正获得资质还需向各相关部门提交...
- ## [\[报告\]2019年皮卡市场回顾及2020年展望(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=V9gTD6z4LTzzWdL*Iu7IkVTdkOqjuppIZc3FA51OZebjHCk2vV7fN35M0Ocfie-YOKNquLGVRf86RgXIcRY7MhZnLrY-rdwN8b99C1vCGHk1S89noL5FOIkVQZnjodDb&new=1)
- > 2019年，皮卡市场销量43.7万，同比下滑2.5%，略低于商用车（-1.1%），领先乘用车（-9.6%）；皮卡市场自2012年市场规模达到 40万后， 一直呈波动调整，总量稳定。以下为报告节选：......文│乘联会本报告共计：24...
- ## [\[PPT下载\]中国联通2019年财报发布：利润增11.1%，投350亿建5G](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=aMrA5u5j75flKieYHV696Q*rOUkLr9h3OHdU8lv4Ji4pkJt4KNwWG7vIPTkrym4PfFfST42gfzuQDCtWPOm-98dscGsJRoHcjNnaGvFWXmnKYNmbHw4u2Qid-60lpZOU&new=1)
- > 3月23日，中国联通发布了2019年财报。财报显示，中国联通营业收入为2,905.1亿元，同比下降0.1%；服务收入2644亿元人民币，同比上升0.3%；EBITDA达到人民币944亿元，同比增长11.1%；净利润达到113亿元，同比增长1
- ## [5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=h3STVSDn7yuCraWHW*s0GyHxMNtQOL0E8MdppVQU7VnDbF2Si*oSGo0UF6G7JH2WVefAaCkVC6yCZbt68Y8vAmCf0C2db6QEa-9BWIxEEicXPN8H1t*cc0Qau9BG-9BZ&new=1)
+ ## [重磅!5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=Lu0Btng5WIdzo2LlBMytR87i-LActdVX0hCzNd74D8AF5c4oPgA6j9uU5UeWcPisFLP5gFe-VDpjhdp9HpOg-L8IZv-LWVDb1yQtHxA905TuueqrY*4F61rifXr2SQW8&new=1)
  > 2020年3月23日，中国联通发布2019年度业绩公告。• 利润持续提升2019年全年实现服务收入人民币2644亿元，较去年同比上升0.3%。尽管收入基本持平，但得益于良好的成本管控，净利润达到人民币113亿元，同比增长11....
- ## [杭州发力“新基建”!今天，周江勇去了这几个地方进行调研](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=0FTgOKz83uarinxm5QlM2C*QBuk0fnThR3yOexxEMIb3RRYlOMJSAWRDbfPbX3xqQZm0Yrt*iDE2wxSajpcNFoZ66aRnuQm6fRFVUatuKaY5Rc5bEMo9G3u-wfUgEsdW&new=1)
+ ## [新加坡推出新型追踪应用程序 以缓解冠状病毒传播](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=AgvgDqGPKiltmPnOYAhio5oRaXy9jrAY4uWrPwd3xsCfo6zVHRdN4vNXhSSY9054LF0d0Dor1PXjCZWTb2zvD24fNevoVVRK9zkKxe6IfE2tcb9Rtd5jYgt6vBN66u*B&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月24日讯，近日据外媒报道，新加坡开发了一个新的移动应用程序，该应用程序可以在用户感染冠状病毒后进行联系人追踪。据悉，该应用程序名为TraceToge...
+ ## [\[报告\]2019年皮卡市场回顾及2020年展望(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=V9gTD6z4LTzzWdL*Iu7IkVTdkOqjuppIZc3FA51OZeYSn8y3F04yIeNftiqUfPOX1-U3XmtE6a4FQn*pGOa2nKYiZ0-flgwSlRqhSkpWZe7HWgLlhvTkZlZ7IDn2eNRf&new=1)
+ > 2019年，皮卡市场销量43.7万，同比下滑2.5%，略低于商用车（-1.1%），领先乘用车（-9.6%）；皮卡市场自2012年市场规模达到 40万后， 一直呈波动调整，总量稳定。以下为报告节选：......文│乘联会本报告共计：24...
+ ## [3月25日-讯石直播|是德科技&FormFactor《硅光及Wafer-Level测试讲解》欢迎报名!](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=g2S1LbXnjt7MtyjAyyWdZHqRBLvo9Am6wBZWzKX4UBNgehZBWgXjUGx56ZEdGcMsTxmaDmexQfAv354rV6PNCZqSB0U05hYsglKT7dF4ts6Fzce5PXZvQCE*31xdMNx4&new=1)
+ > 新闻导读3月25日上午10点，是德科技测试专家联合FormFactor技术顾问将就“关于硅光测试发展概况和精准高效的 Wafer-Level 测试挑战及解决方案”的相关话题开启课程直播。欢迎识别二维码预约参加！ICCSZ讯 讯石直...
+ ## [宏力达、福昕软件“赶考”科创板](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=BF1xByepMeXtiDZHNqkNLN6-ir0ijbJq3d*3Cn5uctd63WKlubVrJeTSsBHUG-zyGppqn9T3T9OZF9eoe-EGfaqgX3pX8AJwQ3GijoSsR5I=&new=1)
+ > 科创板考场再迎新生。3月23日晚间，上交所官网披露，福建福昕软件开发股份有限公司（下称“福昕软件”）和上海宏力达信息技术股份有限公司（下称“宏力达”）的科创板首发上市申请获受理。　　福昕软件来自...
+ ## [小鹏汽车收购福迪汽车丨微信朋友圈增新功能\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=NgB5JbN7mEZSaZ99BAsST1457nIWdyddSa0Htr8V-kdn4mJhw4MPnh0FhCPg77Ya2rUZNrbTSzp8n6dcb-E52Ofzlo73WRCI5KUJ26*iaCYKrr3*Kr*r9Qr1*9DDwL0t&new=1)
+ > 3月23日丨周一【Do说】编辑 | 赵艾虎小鹏汽车收购福迪汽车，为获得生产资质扫清障碍小鹏汽车已经收购广东福迪汽车有限公司100%股权——由此满足了获得生产资质的必要条件之一。真正获得资质还需向各相关部门提交...
+ ## [\[PPT下载\]中国联通2019年财报发布：利润增11.1%，投350亿建5G](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=aMrA5u5j75flKieYHV696Q*rOUkLr9h3OHdU8lv4Ji7QCR5ThTgNeDSEwrpC2cMpqtXzKU8lV1oyboGFn0BET66oOFE20zIsu9mC6sEztmZthDu6eZgPew*2FqERRc38&new=1)
+ > 3月23日，中国联通发布了2019年财报。财报显示，中国联通营业收入为2,905.1亿元，同比下降0.1%；服务收入2644亿元人民币，同比上升0.3%；EBITDA达到人民币944亿元，同比增长11.1%；净利润达到113亿元，同比增长1
+ ## [5G共建共享省100亿!中国联通2019年净利润113亿元，同比增长11.1%](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=h3STVSDn7yuCraWHW*s0GyHxMNtQOL0E8MdppVQU7Vl4*66ZkR8SbUqKJPcPrBTguv-NMaG4TPvnCCA90Oc6LAENZkWUH6zDi9SIzPcg2X1-ChsSBBrgvfsHwWT4oXF3&new=1)
+ > 2020年3月23日，中国联通发布2019年度业绩公告。• 利润持续提升2019年全年实现服务收入人民币2644亿元，较去年同比上升0.3%。尽管收入基本持平，但得益于良好的成本管控，净利润达到人民币113亿元，同比增长11....
+ ## [杭州发力“新基建”!今天，周江勇去了这几个地方进行调研](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=0FTgOKz83uarinxm5QlM2C*QBuk0fnThR3yOexxEMIZXDuQ5obySx3mtk6jzn2WE7PApLoQV4qviIuSnyVvf8xp0A1qAy*eIAIVTh3Dj0VeBDc6zHm5lJO28dZcVSkvw&new=1)
  > 今天下午，省委常委、市委书记周江勇调研“新基建”等工作。他强调，要认真贯彻中央关于加快新型基础设施建设的重大决策部署，抢抓发展机遇，充分发挥优势，着力补齐短板，强化数字赋能，加快5G网络、数据中心等...
- ## [官宣：李正茂委任为中国电信股份有限公司总裁兼首席运营官，柯瑞文不再担任](http://mp.weixin.qq.com/s?src=11&timestamp=1585013456&ver=2235&signature=*yzFo2D-ORxtmENlGIO*CKZHdzXm-9X3kDdIfpm7Y1eWtTJDWnxpY3JjDtfx*0vwVdNtEjb1NsIjeQs1v40WexypD0UAcLJVvjoPCTM3uuk73vedTRk6VStJ5My-W3lG&new=1)
+ ## [官宣：李正茂委任为中国电信股份有限公司总裁兼首席运营官，柯瑞文不再担任](http://mp.weixin.qq.com/s?src=11&timestamp=1585022405&ver=2235&signature=*yzFo2D-ORxtmENlGIO*CKZHdzXm-9X3kDdIfpm7Y1d2v4vG3lr1cF2nFOAvFwoR93oP2H8ul84OT-VRNEV4zqHg67otyUiEBjIkqQvP4w5XVNZTFqSlVyhC9af9G*H2&new=1)
  > 今日，中国电信股份有限公司在港交所发布公告，公告指出董事会宣布，李正茂先生获委任为中国电信股份有限公司总裁兼首席运营官，于2020年3月23日起生效。由即日起，中国电信股份有限公司董事长兼首席执行官柯瑞...
 # IT 技术 
- ## [如何手动轮换Linux上的日志文件](http://os.51cto.com/art/202003/613020.htm)
- > 如何手动轮换Linux上的日志文件
+ ## [微服务中，如何交付一款成功的API](http://developer.51cto.com/art/202003/613060.htm)
+ > 微服务中，如何交付一款成功的API
  ## [讲真，应该选择RabbitMQ还是Kafka？](http://developer.51cto.com/art/202003/613035.htm)
  > 讲真，应该选择RabbitMQ还是Kafka？
+ ## [如何正确理解CPU使用率和平均负载的关系？看完你就知道了](http://news.51cto.com/art/202003/613066.htm)
+ > 如何正确理解CPU使用率和平均负载的关系？看完你就知道了
+ ## [如何手动轮换Linux上的日志文件](http://os.51cto.com/art/202003/613020.htm)
+ > 如何手动轮换Linux上的日志文件
+ ## [面试 | 从写简历，到面试、谈薪酬的那些技巧和防坑指南](http://news.51cto.com/art/202003/613045.htm)
+ > 面试 | 从写简历，到面试、谈薪酬的那些技巧和防坑指南
  ## [如何全面规划物联网应用的开发](http://iot.51cto.com/art/202003/612981.htm)
  > 如何全面规划物联网应用的开发
  ## [漫话：如何给女朋友解释什么是撞库、脱库和洗库？](http://netsecurity.51cto.com/art/202003/612992.htm)
  > 漫话：如何给女朋友解释什么是撞库、脱库和洗库？
  ## [听说你是程序员，可以帮我盗个QQ号吗？](http://netsecurity.51cto.com/art/202003/612931.htm)
  > 听说你是程序员，可以帮我盗个QQ号吗？
- ## [用于文本分类的10大开源数据集](http://os.51cto.com/art/202003/612890.htm)
- > 用于文本分类的10大开源数据集
- ## [这个B站up主太硬核！纯手工打造AI小电视：硬件自己焊代码全手写](http://news.51cto.com/art/202003/612971.htm)
- > 这个B站up主太硬核！纯手工打造AI小电视：硬件自己焊代码全手写
- ## [团队协作效率低下怎么办？阿里这么做](http://zhuanlan.51cto.com/art/202003/612966.htm)
- > 团队协作效率低下怎么办？阿里这么做
- ## [2020，AI技术将会有哪些改变？](http://ai.51cto.com/art/202003/613047.htm)
- > 在 re-work 的深度学习和人工智能峰会，与会的人工智能工程师和高管们就他们所带头的项目进行了演示和讨论
- ## [数据保护的复杂性――创新的拦路石](http://bigdata.51cto.com/art/202003/613046.htm)
- > 数据对企业组织越来越重要，这已经是不争的事实，他们日益依赖数据推动创新、创造新收入、深入了解客户、合
- ## [安全团队为远程工作快速发展做好准备了吗?](http://netsecurity.51cto.com/art/202003/613043.htm)
- > 快速过渡到远程工作会给企业的安全团队带来压力，也迫使他们需要了解和应对一系列潜在的安全风险。
- ## [5G，为什么是新基建之首？](http://network.51cto.com/art/202003/613044.htm)
- > 新基建的风乍起，吹皱一池春水，一夜之间，无人不识新基建。3月4日，在中共中央政治局常务委员会召开的会议
- ## [边缘计算与云计算：哪个更有效？](http://cloud.51cto.com/art/202003/613042.htm)
- > 云计算为我们提供了在远程数据服务器上存储，管理和分析信息的机会。同时，该技术具有一些缺点，例如数据处
- ## [总结几个移动端H5软键盘的大坑](http://developer.51cto.com/art/202003/613041.htm)
- > Element.scrollIntoViewIfNeeded()方法也是用来将不在浏览器窗口的可见区域内的元素滚动到浏览器窗口的可见
- ## [最全干货：从写简历，到面试、谈薪酬的那些技巧和防坑指南](http://news.51cto.com/art/202003/613045.htm)
- > 劝大家除了看文章，还有多面试，多积累经验，找工作的时候不要眼光太高只盯着大厂，看不上小公司。不是只有
- ## [怎样计算一个 Java 对象大小？这儿有几种方法](http://developer.51cto.com/art/202003/613039.htm)
- > 计算机发展到今天，硬件看似配置越来越高，但依然架不住你随意写，搞不好应用就挂了。另外像游戏等一些行业
- ## [益博睿企业征信告诉你，规避信用风险并没有那么难！](http://netsecurity.51cto.com/art/202003/612999.htm)
- > “只要企业与企业之间、企业与金融机构之间存在交易行为，就存在信用风险。比如：经济合同欺诈、企业恶意骗
- ## [书本上学不到：安全故障导致 CPU 偏高问题处理 | 运维进阶](http://biz.51cto.com/art/202003/613038.htm)
- > 我们做为IT行业运维技术人员，不仅自身要实战技术过硬，项目组组员也都要有质量运维意识，才能一起共同做好
- ## [SpringBoot集成Swagger2](https://blog.csdn.net/weixin_44176169/article/details/105054927)
+ ## [分析和人工智能正在推动物联网的发展](http://iot.51cto.com/art/202003/613070.htm)
+ > 未来的工厂将只有两名员工，一个人和一只狗。人在那里喂狗，而狗是要看住人，不让他碰机器
+ ## [智能虚拟化技术正在消除数据孤岛？](http://network.51cto.com/art/202003/613071.htm)
+ > 对于以数据为驱动力的企业来说，可能会对隐藏在海量数据中的业务和客户有着比较全面的认知，同时，这也是为
+ ## [每个程序员都必须掌握的 8 种数据结构！](http://stor.51cto.com/art/202003/613069.htm)
+ > 数据结构是一种特殊的组织和存储数据的方式，可以使我们可以更高效地对存储的数据执行操作。数据结构在计算
+ ## [发改委：加强5G、工业互联网等新基建 推进AI等技术集成创新](http://iot.51cto.com/art/202003/613065.htm)
+ > 国家发展改革委副秘书长高杲先生指出，发改委将持续深入推进“互联网+”行动，加快数字经济创新发展试验区
+ ## [微软警告：2个未修补的0day漏洞影响所有Windows版本](http://netsecurity.51cto.com/art/202003/613068.htm)
+ > 昨天，微软发布了一个新的安全公告，提醒数十亿Windows用户――两个新的未修复的0day漏洞将使黑客远程控制
+ ## [应用交付控制器的前半生……](http://developer.51cto.com/art/202003/613067.htm)
+ > 我是一台「应用交付控制器」，这是中文名，我的英文名是ADC，Application Delivery Controller，我刚出生的
+ ## [威胁情报：最危险的网络安全工作](http://zhuanlan.51cto.com/art/202003/613064.htm)
+ > 威胁情报、APT分析师、事件检测和响应专家、欺骗式或攻击性防御技术开发者和渗透测试人员们经常需要出没暗
+ ## [2020年商业智能软件发展趋势](http://mobile.51cto.com/ahot-613061.htm)
+ > 随着2020年的到来，事情必将变得越来越有趣。通过其多面性，商业智能将再次支持许多旨在以合理成本做出更明
+ ## [浅谈工业互联网的安全防护](http://netsecurity.51cto.com/art/202003/613059.htm)
+ > 在未来的发展过程中，传统的安全防御已难以有效应对新的安全威胁，需要树立全新的安全防护理念，建立综合性
+ ## [冠状病毒疫情下的数据中心运营商优秀实践](http://network.51cto.com/art/202003/613057.htm)
+ > 鉴于冠状病毒(COVID-19)迅速传播，数据中心标准组织Uptime Institute日前根据其数据中心运营商和合作伙伴的
+ ## [Java实现循环链表](https://blog.csdn.net/qq_41596860/article/details/105039077)
  > 
- ## [算法笔记-二叉查找树基本操作](https://blog.csdn.net/qq_43055456/article/details/105038850)
- > 
- ## [基于数据科学的恶意软件分析（四）](https://blog.csdn.net/AcSuccess/article/details/105046682)
- > 
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [字节跳动面试，问了我乐观锁和悲观锁的AQS、sync和Lock，这个回答让我拿了offer](https://blog.csdn.net/qq_35190492/article/details/104691668)
- > 
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
- > 
+ ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
+ > 这些软件太强了，Windows必装！尤其程序员！
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
- ## [Python全栈 Linux基础之3.Linux常用命令](https://blog.csdn.net/CUFEECR/article/details/104076931)
- > Python全栈 Linux基础之3.Linux常用命令
- ## [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478)
- > 
- ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
- > 和黑客斗争的 6 天！
- ## [程序员到底要不要读研，过来人给你几点建议！](https://blog.csdn.net/a724888/article/details/88537372)
- > 
  ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
  > 
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
  > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
+ > 
+ ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
+ > Python+OpenCV实时图像处理
+ ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
+ > 
+ ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
+ > 一个程序在计算机中是如何运行的？超级干货！！！
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
+ > 
+ ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
+ > 
+ ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
+ > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
+ ## [《面试宝典》2019年springmvc面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777133)
+ > 
+ ## [亚信科技公布2019年度业绩，5G商用效果凸显](https://blog.csdn.net/csdnnews/article/details/105067685)
+ > 2020年3月23日晚，亚信科技控股有限公司（简称：亚信科技，股票代码：01675.HK）公布了截至2019年12月31日公司全年业绩。2019年公司经营业绩实现良好增长，软件业务收入及利润均达到双位数增长。全年软件业务收入达到约人民币57.187亿元，同比上升10.1%，其中数字化运营服务收入约.
  ## [绝了！RNN 还会写藏头诗！](https://blog.csdn.net/csdnnews/article/details/105062209)
  > 作者 | 蒋含竹责编 | 徐威龙出品 | CSDN博客利用循环神经网络RNN可以做各种连续性数据的预测，其中生成古诗词是一件非常有趣的事，特此分享...
  ## [《原力计划【第二季】》第 4 周周榜揭晓！！！](https://blog.csdn.net/csdnnews/article/details/105062212)
@@ -202,61 +210,61 @@ IMF&#24635;&#35009;&#65306;2020&#20840;&#29699;&#32463;&#27982;&#25110;&#23558;&
  ## [十分钟上手 ES 2020 新特性](https://blog.csdn.net/csdnnews/article/details/105062216)
  > 作者 | 浪里行舟责编 | 郭芮ES2020 是 ECMAScript 对应 2020 年的版本。这个版本不像 ES6 (ES2015)那样包含大量新特...
 # 人工智能 
- ## [js 小星星游戏](https://blog.csdn.net/weixin_43932553/article/details/105015197)
- > js 小星星游戏
- ## [五子棋人人对战功能的C语言实现（无禁手）](https://blog.csdn.net/ppppppotato/article/details/105011650)
+ ## [入侵别人电脑后你必须要会的Linux与window系统用命令行下载网络资源的15种方式](https://blog.csdn.net/weixin_45728976/article/details/105025763)
  > 
- ## [牛客小白月赛23](https://blog.csdn.net/weixin_44178736/article/details/105022134)
- > 牛客小白月赛23
- ## [AtCoder Beginner Contest 159](https://blog.csdn.net/qq_42886072/article/details/105036362)
- > AtCoder Beginner Contest 159
- ## [Java实现 LeetCode 488 祖玛游戏](https://blog.csdn.net/a1439775520/article/details/104999585)
- > Java实现 LeetCode 488 祖玛游戏
- ## [2020年3月20日阿里内推笔试题](https://blog.csdn.net/m0_38065572/article/details/105019514)
- > 2020年3月20日阿里内推笔试题
- ## [教你用面向对象编程写一个烟花爆炸的特效](https://blog.csdn.net/qq_41383900/article/details/105026768)
+ ## [开源软件的使用](https://blog.csdn.net/qq_44710568/article/details/105045414)
+ > 开源软件的使用
+ ## [正则表达式RE以及grep、awk和sed工具的用法详解](https://blog.csdn.net/baidu_38803985/article/details/105023004)
  > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [欢聚时代c++开发岗位面试经验](https://blog.csdn.net/c_shell_python/article/details/105031595)
- > 欢聚时代c++开发岗位面试经验
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [在王者荣耀角度下分析面向对象程序设计B中23种设计模式之责任链模式](https://blog.csdn.net/IT_charge/article/details/105011204)
+ ## [wifi真的安全吗？一行代码就可使周边无线网络全部瘫痪！！！](https://blog.csdn.net/weixin_46220666/article/details/105031467)
  > 
- ## [每天学习一点新知识（一）——Unity开发游戏的拆包](https://blog.csdn.net/chuo_xiaowei/article/details/105024789)
- > 每天学习一点新知识（一）——Unity开发游戏的拆包
- ## [2020阿里笔试（扑克牌）](https://blog.csdn.net/qq_41987033/article/details/104996509)
- > 2020阿里笔试（扑克牌）
- ## [Linux字符版2048小游戏开发](https://blog.csdn.net/weixin_42204569/article/details/105005197)
+ ## [Ubuntu16.04搭建WordPress](https://blog.csdn.net/weixin_44464598/article/details/105054847)
+ > Ubuntu16.04搭建WordPress
+ ## [\[原创\] 关于Linux的那些常用命令，你能记住几个？](https://blog.csdn.net/Mr_Lester/article/details/104974950)
+ > \[原创\] 关于Linux的那些常用命令，你能记住几个？
+ ## [Windows下CMD常用命令符的基本操作（包括Linux常用指令）【科普贴】](https://blog.csdn.net/weixin_42881768/article/details/105045564)
  > 
- ## [对冲、对刷无风险套利的基本原理](https://blog.csdn.net/qq_46522785/article/details/105023172)
- > 对冲、对刷无风险套利的基本原理
+ ## [Centos 安装配置VNC，及使用方法和常见问题解决办法](https://blog.csdn.net/baidu_32639021/article/details/105011149)
+ > Centos 安装配置VNC，及使用方法和常见问题解决办法
+ ## [【kali Linux 的1024种玩法】一.在VMware Workstation上安装Kali Linux 2020.1（超详细！）](https://blog.csdn.net/weixin_46192679/article/details/104977786)
+ > 
+ ## [阿里云服务器安装jdk、tomcat（小白试）](https://blog.csdn.net/kk190511/article/details/105030380)
+ > 
+ ## [linux基本指令](https://blog.csdn.net/lhrdlp/article/details/105033860)
+ > linux基本指令
+ ## [bash shell命令（五）](https://blog.csdn.net/qq_44710568/article/details/105013208)
+ > bash shell命令（五）
+ ## [(新手向)从零开始将springboot项目部署到云服务器（ecs）上](https://blog.csdn.net/qq_42804736/article/details/105042344)
+ > 
+ ## [VMware虚拟机安装Ubuntu系统步骤详解](https://blog.csdn.net/qq_44907912/article/details/105042029)
+ > VMware虚拟机安装Ubuntu系统步骤详解
+ ## [手把手教你挂载](https://blog.csdn.net/qq_41488595/article/details/105042184)
+ > 手把手教你挂载
 # PM 
- ## [支付宝首页改版背后的商业逻辑和设计思考](http://www.woshipm.com/pd/3538280.html)
- > 首页就是app默认的第一个页面？在进行首页改版时，设计师需要考虑哪些因素？本文作者以支付宝首页改版为例，对app首页进行了全方位拆解分析，结合实际案例，深入浅出地...
- ## [腾讯“智慧零售” VS 阿里“新零售”](http://www.woshipm.com/newretail/3551206.html)
- > 腾讯日前2月份宣布在深圳上线“智慧零售”入口，直接在微信支付二级入口开放智慧零售小程序入口，这是继2019年11月腾讯开放智慧零售福州入口之后第一个落地的一线城市。在...
- ## [如何理解并应对「信息爆炸」？](http://www.woshipm.com/it/3563857.html)
- > 随着互联网的普及，以及各类互联网产品的推出，我们走入信息爆炸时代，这个阶段信息传递呈现四个特点——从单向到双向、移动搜索的分化、被动接受、碎片化，并不可避免地...
- ## [从一场战役说起，产品如何竞争突围？](http://www.woshipm.com/pmd/3566208.html)
- > 本文作者是从温泉关这场战役中学到了三种竞争思维，来看产品如何利用这三种竞争思维来进行突围？做出来一款成功的产品，是每个产品经理的梦想。但是很多时候，一款好...
- ## [直播电商的变奏曲：直播并非万能，电商终将蝶变](http://www.woshipm.com/it/3568453.html)
- > 当越来越多的玩家开始投身到直播电商的洪流里，反映出来的不是新风口的崛起，而是电商行业面临的越来越严峻的发展形势。前有李佳琦的上亿豪宅被爆出，后有罗永浩杀入...
- ## [如何组建和管理产品团队，探索产品的边界](http://www.woshipm.com/pmd/3567373.html)
- > 对部分产品经理来说，他们不仅要做到管理产品，同时还要负责管理团队。而笔者在本文中也介绍了产品团队管理的核心——变得敏捷、信息透明、结果导向、明确的产品目标、探...
- ## [产品经理如何做功能设计？](http://www.woshipm.com/pmd/3559557.html)
- > 这篇文章从功能设计原则上对产品经理如何做功能设计这个问题进行了解答，欢迎感兴趣的童鞋阅读。产品经理在日常工作中，最常见的场景就是进行功能设计。在进行功能设...
- ## [如何抽取中台的共性功能？](http://www.woshipm.com/pd/3563716.html)
- > 中台建设一直是很多企业在做的事情，很多宏观上的概念及框架是无法认知到执行层面是如何做一个功能的，本文用一个功能来聊聊中台建设中，一个功能是如何诞生的。01 中...
- ## [项目管理：如何避免项目延期？](http://www.woshipm.com/pmd/3559761.html)
- > 在项目的整个周期中，每个流程都有可能导致项目延期，所以把控好每个环节，找到自己在每个环节中的驱动力才是产品经理解决项目延期问题的根本。本文将围绕以下4点原因展...
- ## [万亿农批市场的“互联网+”革命](http://www.woshipm.com/it/3558821.html)
- > 如今互联网发展迅速，面对人工智能、大数据等技术越来越先进，提高信息化程度与运营效率，去除低效或无效环节，优化产业结构与流通环节，打开了这场农批市场“互联网+”革...
- ## [产品经理认知的十大误区，你避开了吗？](http://www.woshipm.com/pmd/3558502.html)
- > 产品经理会犯错，但重要的是能认识错误、及时止损。这篇文章站在产品经理角度外，观察了产品这份工作，并总结出产品经理可能会碰到的十大误区，想要及时止损的产品经理...
- ## [车市下行，直播卖车是解药还是安慰药？](http://www.woshipm.com/it/3561053.html)
- > 当前来看，车辆买卖仍非常注重线下体验，所以受到疫情影响车市销量不容乐观。而与线下车市相反，直播卖车被一键加速——车企、经销商、4S店纷纷试水“云卖车”，平台也纷纷...
+ ## [四步归纳：品牌战略的创建](http://www.woshipm.com/marketing/3569022.html)
+ > 在上一篇《品牌战略的演变》末尾，我们简单提了一下品牌定位的三种方法：抢先占位，关联定位和为竞争对手重新定位。但真正品牌创建的过程，远远没有这么简单。本文和大...
+ ## [产品经理，为什么你总在做杂事？](http://www.woshipm.com/zhichang/3567458.html)
+ > 工作中，感觉自己总是在做杂事？怎么判断做的是“杂事”呢？本文作者从杂事的概念出发，从另一个角度对做“杂事”，进行了分析思考，希望本文内容对你有所启发。和同事闲...
+ ## [转化率超高的拼多多，如何让用户忍不住买买买？](http://www.woshipm.com/pd/3564594.html)
+ > 电商领域中，拼多多可能是让大家调侃最多，“真香”最多的产品了。而在百亿补贴让大多数人感叹“真香”之前，拼多多也凭借其社交化、游戏化等产品设计以及对用户体验的考虑...
+ ## [基于市场数据调研，看B2B市场运营的原则](http://www.woshipm.com/operate/3567317.html)
+ > 当我们谈论B2B市场运营的时候我们往往讨论一些很细节的战术问题，比如内容营销，付费广告，私域流量等等，而对B2B市场运营战略层次的问题关注甚少。Linkedin（领英）基...
+ ## [高速增长的B站，商业化之路走向何方](http://www.woshipm.com/operate/3561851.html)
+ > 2019年是B站快速发展的一年，净收入显著增长，月活大幅提升。但是由于其用户基数还是相对较少，热点制造能力相对较弱；并且随着规模的不断扩大，新用户的涌入会带来一定...
+ ## [如何接手数据产品（1）：找到业务的利益相关者（key stakeholder）](http://www.woshipm.com/pmd/3565134.html)
+ > 当数据产品经理中途接手一个新的业务数据产品时，如何快速理解产品内容以及产品逻辑，并做出结构化梳理，快速接手建立高效的工作模型呢？笔者将为大家介绍一些方法，希...
+ ## [从规划到上线，内部OA系统功能迭代怎么做？](http://www.woshipm.com/pd/3566912.html)
+ > 每一次的功能更新，产品经理总会期待获得用户的肯定。这就要求在每一个新功能上线之前，产品经理需要做好规划。本文作者以OA系统新功能规划为例，对功能迭代的需要注意...
+ ## [怎么为“不可量化的任务”制定指标？](http://www.woshipm.com/zhichang/3550269.html)
+ > 无论采用哪种方式，都应该记得指标是最终目标。可是指标的抽象化和不容易量化的领域增加了制定指标的难度。曾在Digg、 Uber、Stripe以及Calm等多家公司工作的Will Larso...
+ ## [实战复盘：基于微信环境，如何保证H5产品正常上线？](http://www.woshipm.com/operate/3547961.html)
+ > 本文以作者亲历的一次H5产品上线为例，分析了其中关键环节、不当之处以及相应的注意要点。最近在半路接手一个从0-1的产品，产品功能设计完毕、需求文档完成、需求评审...
+ ## [微信视频号，持续打造“稀缺性”优势](http://www.woshipm.com/it/3564134.html)
+ > 经济学告诉我们，无论在什么时候，占据稀缺性，总是可以掌握话语权的，微信自身对于世界来说，就是一种稀缺性，这种稀缺性可以召唤那些高价值的稀缺用户，为它注入新鲜...
+ ## [如何看懂直播电商，挖掘制胜点？](http://www.woshipm.com/it/3560408.html)
+ > 直播带货近几年热度不低，风头不减，就连罗永浩都宣布要做直播带货了。那么直播带货、直播电商为何有如此大的魔力，它又能为品牌、商家带来哪些价值呢？3月19日下午，...
+ ## [你的小程序为什么只能“用完即走”，而不是“用完再来”？](http://www.woshipm.com/operate/3572148.html)
+ > 做为微信小程序，有便捷的入口可以很大成本的提高拉新效率，整个微信环境的营销和支付闭环同样能对转化有较高提升，但饱受诟病的的确是留存。那么，你的小程序为什么只...
  ## [除了深色模式，微信此次更新还有这些贴心改进](http://www.chanpin100.com/article/111090)
  > 微信深色模式来了
  ## [一个产品经理，是怎么把付费学习的钱赚回来的](http://www.chanpin100.com/article/111086)
