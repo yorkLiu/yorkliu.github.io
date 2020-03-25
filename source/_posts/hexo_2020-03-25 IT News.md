@@ -1,7 +1,7 @@
 ---
 title: 2020-03-25 IT News
 copyright: true
-date: 2020-03-25 08:54:09
+date: 2020-03-25 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -17,6 +17,8 @@ categories: IT NEWS
  ## [数字钥匙打开汽车安全潘多拉磨盒，2019年智能网联汽车发生“十大安全事件”](http://mp.weixin.qq.com/s?src=11&timestamp=1585096205&ver=2237&signature=CaVjYyuDnXxCnqFsvJjLTTvnLypGrk4l9a0xwCZBTqdTwVgT9Sr7HBP601vig*NCg7VgXXs0IxU6t7f3Rje6l33csQsSTLJKBqr5Ydjdgp*IkQ9XisYEZMwJimP-Ldhy&new=1)
  > 3月24日，360举办了一场线上发布会，正式发布了《2019智能网联汽车信息安全年度报告》，从智能网联汽车网络安全发展趋势、新兴攻击手段、汽车安全攻击事件、汽车安全风险总结和安全建设建议等方面对2019年智能网...
 # IT 技术 
+ ## [从零开始构建简单人工神经网络：1个输入层和1个输出层](http://ai.51cto.com/art/202003/613116.htm)
+ > 从零开始构建简单人工神经网络：1个输入层和1个输出层
  ## [从一无所知到3分钟快速了解“知识图谱”](http://developer.51cto.com/art/202003/613010.htm)
  > 从一无所知到3分钟快速了解“知识图谱”
  ## [不再惧怕DNS面试题：大牛用1张大图，9个步骤轻松应对](http://network.51cto.com/art/202003/613009.htm)
@@ -31,44 +33,38 @@ categories: IT NEWS
  > 如何正确理解CPU使用率和平均负载的关系？看完你就知道了
  ## [如何手动轮换Linux上的日志文件](http://os.51cto.com/art/202003/613020.htm)
  > 如何手动轮换Linux上的日志文件
- ## [挑战马斯克Neuralink！斯坦福全新脑机接口，直连大脑和硅基芯片](http://news.51cto.com/art/202003/613011.htm)
- > 挑战马斯克Neuralink！斯坦福全新脑机接口，直连大脑和硅基芯片
+ ## [智能边缘，你了解多少？](http://network.51cto.com/art/202003/613125.htm)
+ > 智能边缘将边缘计算的先进性与新兴的互补技术―― AI、机器学习算法、智能设备、边缘数据中心和网络
+ ## [这5个 console.log() 技巧帮你提高工作效率](http://developer.51cto.com/art/202003/613124.htm)
+ > 本文主要介绍5个有用的技巧，可帮助你在使用console.log()时提高工作效率。
+ ## [个人金融信息保护技术规范解读](http://netsecurity.51cto.com/art/202003/613123.htm)
+ > 2020年2月20日，全国金融标准化技术委员会公示了推荐性行业标准《个人金融信息保护技术规范》，该标准由中
  ## [从自动支付到自主支付――“物体”会支付吗？](http://iot.51cto.com/art/202003/613122.htm)
  > 物联网为创新带来了巨大的兴奋和机遇，这说明了它对银行和支付行业的影响，并引起了越来越多的关注。
  ## [物联网将彻底改变个人金融的三种方式](http://iot.51cto.com/art/202003/613121.htm)
  > 事实上，个人理财只是它将发生巨大变化的一个方面。其不断增长的势头和强大的影响力已使分析人士将其视为金
  ## [这就是为什么您应该立即进行预测性维护的原因](http://iot.51cto.com/art/202003/613120.htm)
  > 预测性维护是工业4.0、工业物联网的主要组成部分，其目标可能是最关键的效率指标：时间。
- ## [程序员必须掌握的核心算法有哪些？](https://blog.csdn.net/m0_37907797/article/details/102661778)
- > 程序员必须掌握的核心算法有哪些？
- ## [Mac系统重置PostgreSQL密码](https://blog.csdn.net/qq_23853743/article/details/102897065)
- > Mac系统重置PostgreSQL密码
- ## [闲话元注解@Retention](https://blog.csdn.net/qq_19431333/article/details/103831493)
- > 闲话元注解@Retention
- ## [英伟达显卡监控工具nvtop使用方法](https://blog.csdn.net/zong596568821xp/article/details/103712188)
- > 英伟达显卡监控工具nvtop使用方法
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
- ## [文档写作利器：Markdown](https://blog.csdn.net/xcbeyond/article/details/104303577)
+ ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
+ > 一个程序在计算机中是如何运行的？超级干货！！！
+ ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
  > 
- ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
- > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
- ## [vue项目搭建问题记录](https://blog.csdn.net/tuzongxun/article/details/104100344)
- > vue项目搭建问题记录
- ## [异步认证与同步认证的分离史](https://blog.csdn.net/github_38885296/article/details/103798025)
+ ## [Python全栈 Linux基础之1.Linux初章](https://blog.csdn.net/CUFEECR/article/details/104061740)
+ > Python全栈 Linux基础之1.Linux初章
+ ## [工作十年的数据分析师被炒，没有方向，你根本躲不过中年危机](https://blog.csdn.net/yuanziok/article/details/104015372)
  > 
- ## [Android开发常见问题汇总](https://blog.csdn.net/geduo_83/article/details/103796043)
+ ## [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://blog.csdn.net/hejjunlin/article/details/104241538)
+ > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
+ ## [教你一键快速生成后台代码，这样和测试小姐姐聊天的时间又多了](https://blog.csdn.net/weixin_43570367/article/details/103896958)
  > 
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
+ ## [2020年一线城市程序员工资大调查](https://blog.csdn.net/juwikuang/article/details/103840385)
  > 
- ## [利用DB实现分布式锁的思路](https://blog.csdn.net/linsongbin1/article/details/79444274)
- > 
- ## [2万字Java并发编程面试题合集（含答案，建议收藏）](https://blog.csdn.net/Design407/article/details/104288386)
- > 2万字Java并发编程面试题合集（含答案，建议收藏）
- ## [2020春招Java面试,阿里问了这些你都会了吗?](https://blog.csdn.net/qq_33589510/article/details/104322211)
- > 2020春招Java面试,阿里问了这些你都会了吗?
- ## [基于JDBC实现VPD：SQL解析篇](https://blog.csdn.net/dafei1288/article/details/104289881)
- > 基于JDBC实现VPD：SQL解析篇
+ ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
+ > 谁是华为扫地僧？
+ ## [\[享学Jackson\] 一、初识Jackson -- 世界上最好的JSON库](https://blog.csdn.net/f641385712/article/details/103732359)
+ > \[享学Jackson\] 一、初识Jackson -- 世界上最好的JSON库
+ ## [​两年前不知如何编写代码的我，现在是一名人工智能工程师](https://blog.csdn.net/duxinshuxiaobian/article/details/104080206)
+ > ​两年前不知如何编写代码的我，现在是一名人工智能工程师
  ## [近 10 年新秀编程语言大 PK，Pick 它！](https://blog.csdn.net/csdnnews/article/details/105085711)
  > 作者 | Andrew Smith译者 | 明明如月，责编 | 伍杏玲头图 | 东方 IC出品 | CSDN（ID：CSDNnews）编程语言演进的步伐...
  ## [云原生的基石，一文读懂容器、Docker、Pod到底是什么！](https://blog.csdn.net/csdnnews/article/details/105085712)
@@ -96,36 +92,36 @@ categories: IT NEWS
  ## [看过无数 Java GC 文章，这 5 个问题你也未必知道！](https://blog.csdn.net/csdnnews/article/details/105085715)
  > 作者 |轩辕之风责编 | 屠敏来源 | 编程技术宇宙本文不再重复谈GC算法以及垃圾回收器，而是谈谈在GC发生的时候，有几个可能被忽略的问题。搞懂这些问...
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [【JavaSE阶段式训练】怎样正确的度过JavaSE阶段真的很重要！（详细知识内容+资料）](https://blog.csdn.net/weixin_44170221/article/details/104786312)
+ > 
+ ## [leetcode解题总览（算法、剑指offer、SQL、多线程、shell）](https://blog.csdn.net/hebtu666/article/details/105030629)
+ > 
+ ## [计算机网络类别？性能指标？你都会吗？](https://blog.csdn.net/qq_37084904/article/details/105053975)
+ > 
+ ## [程序员必须掌握的核心技能有哪些？](https://blog.csdn.net/qing_gee/article/details/105022026)
+ > 
+ ## [算法-1A](https://blog.csdn.net/qq_42529477/article/details/105052087)
+ > 算法-1A
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [计算机组成原理——磁盘存储器的技术指标](https://blog.csdn.net/qq_45301441/article/details/105022485)
+ > 计算机组成原理——磁盘存储器的技术指标
+ ## [Windows下CMD常用命令符的基本操作（包括Linux常用指令）【科普贴】](https://blog.csdn.net/weixin_42881768/article/details/105045564)
+ > 
+ ## [大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神](https://blog.csdn.net/JAck_chen0309/article/details/104780288)
+ > 大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神
+ ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
+ > 130 个相见恨晚的超实用网站，一次性分享出来
+ ## [第十一届蓝桥杯大赛 全程记录01——2020.3.22校内模拟赛（上）](https://blog.csdn.net/qq_41618424/article/details/105033944)
+ > 第十一届蓝桥杯大赛 全程记录01——2020.3.22校内模拟赛（上）
+ ## [计算机组成](https://blog.csdn.net/c4793/article/details/105029942)
+ > 计算机组成
+ ## [蓝桥杯校内模拟赛C](https://blog.csdn.net/m0_46153949/article/details/105021918)
+ > 
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
+ ## [重学TCP/IP协议和三次握手四次挥手](https://blog.csdn.net/ThinkWon/article/details/104903925)
+ > 
 # PM 
  ## [支付系统中有哪些模块与基础知识？](http://www.woshipm.com/pd/3566040.html)
  > 相信大家都有过线上交易，如今互联网发达，让这些金钱交易变成透明化，大家只看到数字而并没有看到大家在意的钱。其实这种交易并不简单，需要经过很多的过程，这篇文章...
