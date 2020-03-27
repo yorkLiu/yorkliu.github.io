@@ -1,7 +1,7 @@
 ---
 title: 2020-03-27 IT News
 copyright: true
-date: 2020-03-27 12:03:15
+date: 2020-03-27 17:04:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -74,25 +74,41 @@ G20&#38598;&#22242;&#23558;&#21551;&#21160;&#24635;&#20215;&#20540;5&#19975;&#20
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [疫情下经济低迷，iPhone 12卖得动吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=5EfT*MhzuOBqBA8*E7XpC3GqWNTnMOZciSmwbgs*kRBjrBcMsxgZpq4uFM7REMSkzAfsEVtkoHdNS2BXTZAFhq*FhYqdheGKaKRTjx-oTNvKRZQtk7xus3qxRVasMofF&new=1)
- > 苹果在巴黎的iPhone广告出品 | 凤凰网科技 凤凰新闻客户端综合整理 | 箫雨在新冠病毒疫情爆发期间，许多企业无法正常经营。为了生存下去，部分企业不得不裁员，导致一些人失业，收入缩水。《华尔街日报》刊文称...
- ## [美国成立首个政治运动信息共享组织PC-ISAO 应对总统大选活动网络安全](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=i0kqYr2q9PAkrxuFqqjwXjs8wbbCWC92Pu8HV28wV9NWVnunYNNmdZeIhsjQ8B*c86StXy0NedIwYdYoSobAFMU4RT2P70PtyRmfuXfsIBMwI2Ji1SuECXMC3NfOU2dH&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月27日讯，近日随着新冠病毒在美国的快速蔓延，导致全球金融市场继续震荡，美股4次触发熔断。在如此危机的大环境之下，对于挑战重重的美国大选，美国...
- ## [重磅!电信与联通合建5G网络将采用有源共享模式!](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=t3bGNnfliHiIFNaApk1fLQrxMLHFetfrY*y0A1tAuCgSAmHeJlYMJdo7bWXUNLbpXJGhgk5Oz28nixqvdZbS9znV5buusSWCmjIQBmVYPFj6JuAXGFlXb6SMskh3iZna&new=1)
+ ## [热点聚焦|毫米波雷达多场景应用 未来发展前景可期](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=QYhKUrIF7VpHPZOZuLYfA47D7XJ*NTMCAvcEiPt0vhHxSWQVxELvsqzg9hZutX4b6YJLCIhV7fjrs-wbxZJVCnCXZkba9MhNT8u*nBCdAKNf0573Fz*En4QYWn6rg2E0&new=1)
+ > 近年来，毫米波技术赢得了广泛的关注。作为一种非接触式传感技术，它可用于检测物体，并提供物体的距离、速度和角度信息。此外，毫米波能够穿透塑料、墙板和衣服等特定材料，并且不受雨、雾、灰尘和雪等环境条件...
+ ## [华为开发者大会2020|华为：将在2020年投入2亿美元推动鲲鹏计算产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=FDullw0kVTC*UdJV3ni0iNQd1T-Mo-qR*afiU1IS2sB74m0G*g-R0X-c5qvFwMu7yqwzpHq5Lb-Pa5tjh6Vz8O5Pix2zj5trjbalN535ZA8=&new=1)
+ > 上证报中国证券网讯（记者 时娜）27日上午，华为云与计算业务总裁侯金龙在华为开发者大会2020（Cloud）上宣布了“沃土计划2.0”的进一步举措，将在2020年投入2亿美元推动鲲鹏计算产业发展，并公布面向高校、...
+ ## [微软云+比亚迪丨开启智慧储能新篇章](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=5krhGRsMq2B1-IYr*At0R6TpykzApiTaa8vo*pCkvFUlaNRk5JivOD8ulG29tmzoj6dWujz1ou7783jZ4ndZZuJ0VfsBG17WsGFzM6BRAUYy1bNN19NSDSFyEZdXqfBK&new=1)
+ > （本文阅读时间：6分钟）据彭博社预计，储能行业在2040年市场规模将接近3000GWh，较目前增长超过200倍。随着行业规模的不断提升，越来越多的企业逐渐启动相应业务，产品技术也不断创新升级，造成竞争局面加剧，...
+ ## [5G 和人工智能，这些新技术组成了「信息化防疫」](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=D33KSwCO3DK*633HMUbw8B3sbpshgcS2ctJEkdbubJhQvb8nc5Qv03XqsS6pt3*8qaJ3qD3caiJeR1S2HVI59xyBgI752PGFQ1583hdDbY*T-YneODvuk*OiB47WLx31&new=1)
+ > 为防止新冠病毒蔓延，当下不少公共场合都已经采取入门检测等措施，以将病毒拒之门外。比如笔者身处的广州，在进入公交车、地铁、商场、咖啡店前，都需要工作人员用体温枪逐一检查体温，但这种人工检测的方法也难...
+ ## [智能网联车初现规模 360 Sky-Go团队“把脉”安全风口](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=fYhxQdGQOwnKcdbwtStVK80DYqn5UtyoA8FTBz529kRx34CwWDVSdbvg-Cv1I6r-sMJDZSJj-ppJ4JCsi5IlpyqKwXmNDnv*nL9gJ*amVdDK3bJkcALIwJ-BiqzE9Q10&new=1)
+ > 【TechWeb】在上百年的汽车业发展史上，如果说「智能网联」是实现汽车物联网的第一只脚印，一点也不为过。随着2020年5G基站建设提速，车联网(C-V2X)无疑是最先受益的核心产业。然而，网联车在发展过程，也显露出...
+ ## [GitHub 疑遭中间人攻击，无法访问，最大暗网托管商再被黑!](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=RLr1WTWJS1bsnH6BQ*fHNVS2QvgGqic4oPeZOr5TDutVn-G3j86Jtj2T1ah9yQrpcHZaObVqrwMj4dR23ZjcuHX9-EYrPxz*Gg082fNfOwhN4Fe7LLNLJW8exmEpNm*h&new=1)
+ > 整理 | 伍杏玲出品 | 程序人生（ID：coder_life）近期，在全球关注新冠肺炎疫情之际，黑客却频频动作，发动攻击：GitHub 疑遭中间人攻击，无法访问从26日下午开始，有网友表示国内访问 GitHub Pages 显示错误，...
+ ## [“峯云荟聚 无界共生”联通沃云云市场线上招商大会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=1nvfD*YfU55PYieQcZTFY28WsJ6m9wCaJR8gyZnwKfKe-A1G*qe9siZxUV1-rrF7zH5TwaAKgq7Jh8OefqNoCilHS8VDSLLMoB2E3-fRYdRINHPxm8tVmRCunqR8gZQV&new=1)
+ > “新基建”开启新赛道，数字化成就弄潮儿。2020年3月26日，联通沃云云市场线上招商大会成功举行，本次大会以“峯云荟聚 无界共生”为主题，旨在携手各领域合作伙伴，充分发挥联通渠道优势，为更多优秀的云应用、...
+ ## [安全众测的四个大坑](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=6umMUT0GusMOICADTetdPoZhF6*hJcffog9WQhhE6GjPPhpStApG*FlCQgvB9ItcMAH2JjYm3hpRkoeSZKHNezWBeOYvJRoSoMUWvHUz0UuLMdouFOswdqjatlhJQTT2&new=1)
+ > 安全众测或者说安全众包已经不是新鲜事物，自从2013年主要的安全众测平台（例如HackerOne、Bugcrowd和Synack）推出以来，就作为一种消耗性企业安全服务存在。这些平台逐渐挑战传统的渗透测试方法，并开始蚕食其...
+ ## [重磅!电信与联通合建5G网络将采用有源共享模式!](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=t3bGNnfliHiIFNaApk1fLQrxMLHFetfrY*y0A1tAuCiMyQDbRvPA2QeUysXRYpyEQvo*Mkq0XbhX-fQRI0KZs9gIRgKsq5s1qXKdaT*VGUyPNUyF1lgmSFR0cmeyfGux&new=1)
  > 有分析认为 : 电信与联通合建5G网络将采用有源共享模式，移动与广电可能也会采用有源共享模式！有分析认为，电信与联通合建5G网络将采用有源共享模式，移动与广电可能也会采用有源共享模式！而移动与电信则采用...
- ## [又来了!3D打印改装迪卡侬潜水面罩变呼吸机面罩，保护病人全脸](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=YktKWFpu9A9hOENrT7JyP0vB4vNoNToVJeT6YrbNHQ-0VpscMgO1O5*7ltBLBucNXF0fYnv9F10VNMw0lO41kjesxQqPIi1u2kjmjgYV3HBm7eQihwJfubiT3xiRzzL0&new=1)
+ ## [又来了!3D打印改装迪卡侬潜水面罩变呼吸机面罩，保护病人全脸](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=YktKWFpu9A9hOENrT7JyP0vB4vNoNToVJeT6YrbNHQ-Nhuy7S7UB5-mnSz-LJJoS82uiK9T7u64IikgjYTVNSkvZuAhP4mY1teOZDxhBrApzuLHtMu1s2T-bZs7b5Df8&new=1)
  > 导读：可能很多人都想不到，在迪卡侬买的潜水面罩可以应用在covid19 新冠病毒的重症病房里。通过3D打印组件改装，可以起到全面包含病人脸部的鼻子、口腔、眼镜免受空气中的病毒感染。2020年3月26日，南极熊从外...
- ## [除了白皮书，还有标准!海尔中央空调发布又一物联生态成果](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=iX1AIpZd0r*GIf6ba6Nx5ai4I8*wK42516oss6ynGl7YRkeNXGbneB4H9b46SFYm9j*o0RRNJKLYmPt7BlRPQnSUb-yk3d8VwNXwRiYcdmr8Ya7LNadwCXM4a3BXztdg&new=1)
+ ## [美国成立首个政治运动信息共享组织PC-ISAO 应对总统大选活动网络安全](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=i0kqYr2q9PAkrxuFqqjwXjs8wbbCWC92Pu8HV28wV9ND7JrDYCOQIQbLbgmc*DIbpm8Iws6g21H5Hf*wpT1e0UmG6xDxSZ-3abtTqWCRlAltr92rG4O*UnBKmNEZ8XQ0&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全3月27日讯，近日随着新冠病毒在美国的快速蔓延，导致全球金融市场继续震荡，美股4次触发熔断。在如此危机的大环境之下，对于挑战重重的美国大选，美国...
+ ## [疫情下经济低迷，iPhone 12卖得动吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=5EfT*MhzuOBqBA8*E7XpC3GqWNTnMOZciSmwbgs*kRAYBs9HsAVeeleQl99rhFdoI2WiiAYMYVJ9oepInlcW--06efnmr62zRfxln8hlH1n4Vo37Eru5HxmjGpNSXp-t&new=1)
+ > 苹果在巴黎的iPhone广告出品 | 凤凰网科技 凤凰新闻客户端综合整理 | 箫雨在新冠病毒疫情爆发期间，许多企业无法正常经营。为了生存下去，部分企业不得不裁员，导致一些人失业，收入缩水。《华尔街日报》刊文称...
+ ## [除了白皮书，还有标准!海尔中央空调发布又一物联生态成果](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=iX1AIpZd0r*GIf6ba6Nx5ai4I8*wK42516oss6ynGl5GShIr89M7kvaiQP07zKfxmyG9Da9L6l9F1t5U725S3VYcBcOvKnBKG26Kd4urqWloTsG64x5CriMRWXX7fUFZ&new=1)
  > 3月26日，磁悬浮中央空调行业再次迎来历史性的一刻。继行业首个《磁悬浮高效机房白皮书》发布后，由海尔联合中国标准化研究院等13家企业单位共同起草的《磁悬浮水冷式冷水（热泵）机组技术要求》也同时发布。目...
- ## [北京汇天威入驻未知大陆，主打塑料类在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=7vUF89eWFkkQ-Xtbxdu3lx5ZqNDhT1xNCLMsEJMcBZ7BQztaia*-y7WmRPkB6fHOLt2H0fop1Q6OWUW2v3pVQnunBTAVWhv6gsDsZSLLX1xYjcFJEPuDH79sjAuvkKmz&new=1)
+ ## [北京汇天威入驻未知大陆，主打塑料类在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=7vUF89eWFkkQ-Xtbxdu3lx5ZqNDhT1xNCLMsEJMcBZ7SoBzAex50ScTNh5ZWJ65lch8Colaz*QIOdWo5iZppEVOMiIAOaZ2BZRUdtSLEPtD27xBfVhgCH2W5nQwn0AkD&new=1)
  > 目前，北京汇天威科技可3D打印的材料包括：PP、PET、PLA、TPU、MLA、ASA、ABS、PA等数十种，可随时在线打印下单。汇天威科技简介：北京汇天威科技有限公司创立于2005年，是一家专业提供3D打印创新教育解决方案、...
- ## [喜大普奔：运营商全省员工统一上调工资!](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=hTm*gZGntGI61dxEKd*H5SKDUnt9FDYVU-r9-3JfcFAmVjpyl3h4k0c6SO3tH9l3P4XVoJNlltMvx9qizL9UFgV*ddNBWaweDhyVlcD8COLo3oSCN9kj7foPs4prtcMo&new=1)
+ ## [喜大普奔：运营商全省员工统一上调工资!](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=hTm*gZGntGI61dxEKd*H5SKDUnt9FDYVU-r9-3JfcFD8*CQQZw9y2ExSodV9JZyK1Xr3N*rmJZGMuB40I-aLUnzvY6oyauoq0EXXihCBAEt7CG3MnV-m*9tQUomyEc6K&new=1)
  > “由于去年完成集团任务不错，整个省所有人上调一档基本工资，文件正在流转中，刚从人力小姐姐那获取的消息。坐标，东部省。”以上内容为网友爆料，某省运营商由于完成集团任务不错，整个省所有人都上调一档基本...
- ## [疫情引发网络过载，欧洲的互联网娱乐被牺牲了](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=KNtSReBM94zRDSJmUf1LqKXqWP68*Y2V5pzoXBQRrFMc3IyVEYtBpGBne9lNQ*Y8cKg0XV81VZFYyizfBWv9jvZe5f9-JlZiAnBCW3tYy6NWUJ2shSb9AZhThp6O4S7f&new=1)
+ ## [疫情引发网络过载，欧洲的互联网娱乐被牺牲了](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=KNtSReBM94zRDSJmUf1LqKXqWP68*Y2V5pzoXBQRrFM41WYyMlh0d9Uf9oqb-QZYs5df1068YcqIZ*3vhZ4VZG9lZh3HunIcJg2tiLUfDY*scISm7J843weI68v2lHKu&new=1)
  > 事实上，虽然欧洲平均网速在世界前列，但通讯基站大多老旧，且数量较少。谁也没想到，在疫情的打击下，欧洲最先撑不住的，居然是互联网。疫情期间，人们被迫在家生活、办公、上学、娱乐甚至是问诊，互联网服务在...
- ## [2020，5G大干一场!](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=8wmUg-wPAAylzZ1dwdxBf3USvfg3aIsDrM-uGEDg1tXYeSRB*wqCqQEFezUaNmjkvE2tvAtY8qEoepXprLUAJaJQJpkqPATzQ3ay5ndxAXlMAuMr*kWUxr2gHpifbqzk&new=1)
+ ## [2020，5G大干一场!](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=8wmUg-wPAAylzZ1dwdxBf3USvfg3aIsDrM-uGEDg1tU6m17IfO5p9TKVIxQfW7TvOz7-Hb7tMjsyx1JLrYXwOUn68Qlt52lpcPrh7wmazLMbkT1FxMzu4pjYb8GHcMuH&new=1)
  > 【摘要】根据2019年财报，三大运营商2020年5G投资达1803亿元，将建设超过50万个5G基站，远远高出2019年的412亿元。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：网优雇佣军本文来源：网优雇佣军（hr_o...
- ## [格力机器人获多项专利 董明珠“智能梦”见成效?](http://mp.weixin.qq.com/s?src=11&timestamp=1585279804&ver=2241&signature=7D-L*KtCJMsvSpXp*X2hI4i6l8udp6KyXLTQoObTbu3C02d2LM9ETyU6wl0fW5QSVMzkedAt4MWz9u*DrFV2KNRIIcQsp1pvwmOv*6Wyhso=&new=1)
+ ## [格力机器人获多项专利 董明珠“智能梦”见成效?](http://mp.weixin.qq.com/s?src=11&timestamp=1585299605&ver=2241&signature=7D-L*KtCJMsvSpXp*X2hI4i6l8udp6KyXLTQoObTbu2epc1u1Qop7*CGTOv2F6C4fo1PtDnhsrJU8DFRFVVso-Izk95P-4A*LTWQa79nGRo=&new=1)
  > 本报记者 王小康    多元化发展曾是家电巨头格力电器的短板之一。近几年，格力电器也在不同领域做出了很多的尝试。    从珠海银隆的造车大计到董明珠热捧的格力手机，从芯片产业到智能家居，再...
 # IT 技术 
  ## [AI-WAN：当AIOps遇上SD-WAN时](http://network.51cto.com/art/202003/613303.htm)
@@ -111,34 +127,34 @@ G20&#38598;&#22242;&#23558;&#21551;&#21160;&#24635;&#20215;&#20540;5&#19975;&#20
  > 探究谷歌用于构建量子机器学习模型的新框架：TensorFlow Quantum
  ## [Java 14发布了，不使用"class"也能定义类了？还顺手要干掉Lombok！](http://developer.51cto.com/art/202003/613190.htm)
  > Java 14发布了，不使用&quot;class&quot;也能定义类了？还顺手要干掉Lombok！
- ## [新基建下的大数据中心，“受益人”是谁？](http://bigdata.51cto.com/art/202003/613312.htm)
- > 新基建的大数据中心建设，对服务器行业、云计算、中小企业等多个方面都会有直接、间接的正面影响，新基建兴
- ## [云数据中心、服务器和网络连接的五大趋势](http://server.51cto.com/Datacenter-613311.htm)
- > Dell&x27;Oro Group预测，随着云数据中心规模的扩大，效率的提高和变革性服务的交付，企业工作负载将继续整合到
- ## [腾讯&清华发表新基建领域最新成果：数据中心电池设备AI诊断服务](http://news.51cto.com/art/202003/613307.htm)
- > 近日，腾讯数据中心与清华大学自动化系智网中心团队的贾庆山老师合作论文被第21届IFAC国际自动控制世界大
- ## [新冠重灾区意大利面临两大网络安全威胁](http://zhuanlan.51cto.com/art/202003/613309.htm)
- > 根据网络安全公司Cynet的最新报告，意大利不但是新冠疫情的重灾区，也是新冠相关网络攻击的重灾区。
- ## [大咖座谈新基建 解读五字硬核与三大挑战](http://netsecurity.51cto.com/art/202003/613308.htm)
- > 3月26日，以“新基建带给网络安全的机遇和挑战”为主题的360春耕行动第六期线上研讨会顺利召开。
- ## [一篇文章读不懂：IO vs. NIO](http://stor.51cto.com/art/202003/613310.htm)
- > 处理输入和输出是Java程序员的常见任务，本教程中，我们将介绍 原始的 java.io (IO) 库和较新的 java.nio (
- ## [给 DSL 开个脑洞：无状态的状态机](http://zhuanlan.51cto.com/art/202003/613305.htm)
- > 什么是 DSL ?DSL 是一种工具，其核心价值在于提供了一种手段，可以更加清晰地就系统某部分的意图进行沟通。
- ## [数据分析如何解决消防安全的重大挑战](http://bigdata.51cto.com/art/202003/613298.htm)
- > 数据分析如今已经成为解决消防安全重大挑战的有用工具。人们需要了解帮助避免火灾风险的知识。
- ## [哈工大造出柔性机器人，人造肌肉能和象鼻一样灵活了！](http://news.51cto.com/art/202003/613301.htm)
- > 近日，国际著名期刊 Soft Robotics 刊登了哈尔滨工业大学冷劲松教授团队与美国马里兰大学 Norman M. Werele
- ## [安全众测的四个大坑](http://zhuanlan.51cto.com/art/202003/613295.htm)
- > 众包安全真的是解决传统安全渗透测试弊病的灵丹妙药吗?是否会引发更多问题?在解答上述问题之前，让我们简单
+ ## [视频在构建物联网解决方案中的重要性](http://iot.51cto.com/art/202003/613352.htm)
+ > 许多公司认为，建立物联网的战略方法是复杂的。实际上，物联网计划的开始很简单，只要看看你的窗口：你公司
+ ## [疫情后的自动驾驶，发展有了更明确的方向！](http://ai.51cto.com/art/202003/613351.htm)
+ > 疫情给了自动驾驶向大众介绍自己的机会，同时也让自己更加看清了自己的发展。那么在看清之后，行业将朝着怎
+ ## [马太效应加剧！中国公有云加速洗牌](http://cloud.51cto.com/art/202003/613350.htm)
+ > 众所周知，属于云计算产业的“黄金时代”已然来临，但想要抓住却并非易事。随着马太效应的不断加剧，云计算
+ ## [数据泄露伤害大?那应该怎样合理防止？](http://netsecurity.51cto.com/art/202003/613348.htm)
+ > 在大数据时代，数据安全与企业业务息息相关。 但是，近年来频繁出现的诸如勒索软件之类的病毒正在不断升级
+ ## [外观回归经典，苦等已久的iPhone 9，4月发布！](http://mobile.51cto.com/news-613347.htm)
+ > 知名数码爆料人士@Jon Prosser在社交平台表示，苹果简报会即将开始，从理论上讲，iPhone 9将于今年4月出货
+ ## [SD-WAN江湖，原有网络市场格局将被彻底打破](http://network.51cto.com/art/202003/613346.htm)
+ > IDC对SD-WAN市场做了初步调研和统计，中国SD-WAN应用始于2017年，在2018年快速增长，2019年SD-WAN市场增速
+ ## [360发现5个MacOS蓝牙漏洞 可实现零点击无接触远程利用](http://netsecurity.51cto.com/art/202003/613344.htm)
+ > 这一次遭殃的是苹果的MacOS系统。360 Alpha Lab团队全球首家发现了5个MacOS蓝牙漏洞组合，并经官方确认，该
+ ## [谷歌宣布恢复Chrome浏览器、Chrome OS操作系统更新](http://os.51cto.com/art/202003/613343.htm)
+ > 谷歌Chrome小组上周宣布，由于冠状病毒工作中断，他们将停止发布Chrome浏览器和Chrome OS操作系统的更新。
+ ## [苹果计划将Face ID技术扩展至Mac电脑系列 增添刘海设计](http://biz.51cto.com/art/202003/613342.htm)
+ > 据外媒报道，苹果的一项新专利显示了其正计划将Face ID功能引入Mac电脑系列,就像Touch ID指纹识别功能开始
+ ## [11个问题，帮你彻底搞懂工业互联网](http://iot.51cto.com/art/202003/613345.htm)
+ > 工业互联网，到底是谁最先提出来的？通用电气（GE）。早在2012年末，通用电气就提出，产业设备应该和IT技术
  ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
  > 这些软件太强了，Windows必装！尤其程序员！
- ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
- > 
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
- ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
+ ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
  > 
+ ## [达摩院十大科技趋势发布：2020 非同小可！](https://blog.csdn.net/csdnnews/article/details/103813668)
+ > 达摩院十大科技趋势发布：2020 非同小可！
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
  > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
  ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
@@ -153,14 +169,18 @@ G20&#38598;&#22242;&#23558;&#21551;&#21160;&#24635;&#20215;&#20540;5&#19975;&#20
  > 
  ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
  > 一个程序在计算机中是如何运行的？超级干货！！！
- ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
- > 2020年2月中国编程语言排行榜
+ ## [2020 年，大火的 Python 和 JavaScript 是否会被取而代之？](https://blog.csdn.net/csdnnews/article/details/103951883)
+ > 
  ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
  > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
  ## [《面试宝典》2019年springmvc面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777133)
  > 
  ## [Spring框架|JdbcTemplate介绍](https://blog.csdn.net/weixin_43691058/article/details/104145703)
  > Spring框架|JdbcTemplate介绍
+ ## [无代码时代来临，程序员如何保住饭碗？](https://blog.csdn.net/csdnnews/article/details/105142295)
+ > 编程语言层出不穷，从最初的机器语言到如今2500种以上的高级语言，程序员们大呼“学到头秃”。程序员一边面临编程语言不断推陈出新，一边面临由于许多代码已存在，程序员编写新应用程序时存在重复“搬砖”的现象。无代码/低代码编程应运而生。无代码/低代码是一种创建应用的方法，它可以让开发者使用最少的编码...
+ ## [日均保护原创超6万篇，腾讯“至信链”助企鹅号作者一键维权](https://blog.csdn.net/csdnnews/article/details/105144674)
+ > 区块链技术正在内容原创保护领域发挥关键作用。据腾讯内容开放平台最新发布的企鹅号版权保护年度报告显示，基于腾讯云区块链技术的“至信链”在过去一年有效保护原创作品超过1000万篇，由“至信链”作为重要组成部分的 “企鹅号一键维权”系统发起维权并成功下架侵权作品800万次，日均发起维权超过3万次。据...
  ## [为什么我们程序员不把软件开发当回事？](https://blog.csdn.net/csdnnews/article/details/105132348)
  > 作者|Dev by RayRay译者 |弯月，责编 | 伍杏玲出品 |CSDN（ID:CSDNnews）以下为译文：最近，我一直在想为什么大多...
  ## [付费？广告？捐款？如何让开源软件活下去？](https://blog.csdn.net/csdnnews/article/details/105132351)
@@ -215,35 +235,61 @@ G20&#38598;&#22242;&#23558;&#21551;&#21160;&#24635;&#20215;&#20540;5&#19975;&#20
  ## [高校学生“在家实践”计划 免费领取12个月阿里云ECS云服务器](https://blog.csdn.net/qq_41170102/article/details/105092802)
  > 高校学生“在家实践”计划 免费领取12个月阿里云ECS云服务器
 # PM 
- ## [一文读懂如何选择APP、小程序、H5](http://www.chanpin100.com/article/111132)
- > 你清楚何为APP、小程序、H5吗？又了解APP、小程序、H5这三者的关系吗？本文从概念、区别、联系，优缺点，如何选择等五个方面来谈谈APP、小程序及H5
- ## [最新企业数字用户规模TOP100排行榜（移动应用篇）](http://www.chanpin100.com/article/111130)
- > 数字用户规模TOP100排行榜中统计的是独立公司的业务品牌所覆盖的活跃数字用户总量。其中多个独立公司为同一个业务品牌用户提供服务则进行合并，集团公司旗下涉及多个业务品牌的则进行拆分，独立上市业务的进行拆分。在统计数据来源上，形式包括各公司APP、H5、WAP等，终端设备涵盖手机、PAD、智能穿戴设备
- ## [最新移动游戏发行商数字用户规模TOP20排行榜|市场持续分化发展，老牌发行商依旧保有优势](http://www.chanpin100.com/article/111129)
- > 数字用户规模TOP20排行榜中统计的是独立公司的发行品牌所覆盖的活跃数字用户总量。其中多个独立公司为同一个发行品牌用户提供服务则进行合并，集团公司旗下涉及多个发行品牌的则进行拆分，独立上市业务的进行拆分。对同一发行商旗下负责主要发行的产品进行合并，不对渠道发行、合作发行等进行区分
- ## [产品经理写简历如何突出个人优势？](http://www.chanpin100.com/article/111128)
- > 用产品思维写一份有竞争力的简历
- ## [互联网医美战火再升级，美团医美黑马逆袭？](http://www.chanpin100.com/article/111126)
- > 互联网医美赛道战火再升级。
- ## [直播电商“买”罗永浩，为啥是步“臭”棋](http://www.chanpin100.com/article/111124)
- > 通过购买“IP”，实现直播电商向更广泛的人群渗透，直接的结果就是拉高品牌商触达直播电商的成本。
- ## [Axure移动端常用组件骚操作（附案例）](http://www.chanpin100.com/article/111123)
- > 来自老司机的关爱，骚操作不断
- ## [什么是B端产品](http://www.chanpin100.com/article/111122)
- > B端产品是解决组织痛点，实现商业价值的产品或服务。
- ## [野蛮生长的B端产品，如何挖掘新需求源？](http://www.chanpin100.com/article/111121)
- > 需求枯竭的本质是产品经理缺乏洞察力、不懂挖掘需求源的表现。
- ## [​B端产品经理，如何构建企业用户画像](http://www.chanpin100.com/article/111120)
- > 通过构建用户画像分析客户，了解客户，挖掘需求，提高转化率和复购率。
- ## [B端产品经理，应从哪些方面理解业务？](http://www.chanpin100.com/article/111118)
- > 理解业务是开展一切工作的基础。
- ## [如何高效撰写竞品分析报告？](http://www.chanpin100.com/article/111117)
- > 如果你对如何撰写竞品分析报告还比较陌生，那么此文一定可以给到你一些启发..
- ## [Pdf格式怎么转化为word？这些软件堪称神器，却不为大众所知？这些软件堪称神器，却不为大众所知？](http://www.chanpin100.com/article/111116)
- > Pdf格式怎么转化为word？去哪里找专业的学术资源？如何使用在线ps修图？今天分享9个超级好用的在线神器工具，满足你日常办公、科研学习、提高效率等需要，无需下载、功能全面，收藏起来！
- ## [非常时期，如何优雅的找工作](http://www.chanpin100.com/article/111115)
- > 愿天下没有难找的工作
- ## [认识岗位-带你一起偷窥产品经理的日常](http://www.chanpin100.com/article/111114)
- > 知己知彼，百战不殆。跟着我一起瞅瞅神秘的产品经理日常都做些啥。
+ ## [有什么办法能辨别需求真伪？](http://www.woshipm.com/pmd/3592738.html)
+ > 随着时代的发展，互联网快速崛起，用户的需求越来越多，当下对于用户的需求，必须要考虑真伪，否则便会引发许多的问题。那么究竟该如何辨别需求的真伪呢？笔者在本文中...
+ ## [用户体验设计思维：5个步骤，打造让人眼前一亮的设计作品集](http://www.woshipm.com/pd/3522773.html)
+ > 关于设计作品集最常见的迷思（误解）是：仅靠UI设计最终稿和屏幕截图就可以拼凑出作品集。本文将指导你如何通过五个步骤制作一份涵盖整个用户体验过程的作品集，而不流...
+ ## [大话PM | 从 Project 看项目管理核心思想](http://www.woshipm.com/pmd/3597534.html)
+ > 本文将从 Project 软件的独特视角，强调产品经理需要的项目管理相关思想及其关联知识。在网上流传着这样一份腾讯产品经理能力模型，暂且不论其真假，但不难发现做一名...
+ ## [为你的产品选择合适的北极星指标，从了解产品开始](http://www.woshipm.com/operate/1072916.html)
+ > 北极星指标已经逐渐成为许多公司指导产品发展的重要指标，本文结合案例，系统性地介绍了为产品选择合适的北极星指标的三个要点。一、什么是北极星指标？按照大家通俗...
+ ## [解析 Instagram ，洞察产品特征](http://www.woshipm.com/evaluating/3595834.html)
+ > 解析IG的结构，层级和功能后，我们发现它简直可以用单一来形容，但是也不妨碍被全球超十亿的人喜爱，在这十多年的产品迭代过程中，IG经历着各种变与不变，但是以UGC的优...
+ ## [想做好引流课付费转化，这11个数据指标要注意](http://www.woshipm.com/operate/3595378.html)
+ > 作者从自身工作经验出发，结合案例，梳理总结了影响引流课付费转化的11个评估指标，与大家分享。前言随着拉新成本的增加，现在很多公司越来越注重运营好新用户，比如...
+ ## [如何构建产品品牌定位模型？](http://www.woshipm.com/marketing/3577396.html)
+ > “品牌的定位能够将产品转化为品牌，以及发现自己的目标群体，建立新的认知。”那么我们该如何构建产品品牌定位模型？这篇文章从概念、定位方法、定位策略等方面对该问题...
+ ## [如何评测语音助手的智能程度（5）：指标权重设计](http://www.woshipm.com/ai/3518615.html)
+ > 这是一份前面四篇评测维度介绍文章的总结，同时也是一份清单使用说明书。知己知彼，百战不殆，调研评测其他公司的产品是从业者的日常操作，那么当一个产品放到我们手...
+ ## [直播公开课丨没有经验和作品，如何通关产品入门面试？](http://www.woshipm.com/online/3601805.html)
+ > 随着国内疫情逐渐好转，很多公司的招聘计划也开始恢复正常。无论是线上电话面试、视频面试，还是线下面试，求职市场竞争依然十分激烈。一些想要入行求职产品经理的小...
+ ## [在线教育竞品分析：腾讯课堂 VS 网易云课堂](http://www.woshipm.com/evaluating/3594122.html)
+ > 本文从移动端出发，对当前比较热门的两款在线教育平台软件：腾讯课堂和网易云课堂进行比较和分析。主要包含几个方面：产品定位、目标用户、产品数据、功能结构和运营推...
+ ## [偷来的致设计团队书](http://www.woshipm.com/zhichang/3575188.html)
+ > 这是一封“偷来”的对设计团队说的话，如果你觉得内容对你有帮助的话，你也可以“偷走”并消化好它。非万不得已，我不喜欢跟设计师同事说应该做什么、怎么做。你受聘加入...
+ ## [产品分析 | 作业帮，为何能成为K12在线教育领军人物之一呢？](http://www.woshipm.com/evaluating/3433758.html)
+ > 经历了 7 年的风风雨雨，笔者好奇作业帮是如何准确抓住用户价值，又是如何深入人心，成为K12在线教育领军人物之一？本文将对作业帮及相关产品进行产品分析，并思考关于 ...
+ ## [以向长辈讲述区块链为例，如何向外行介绍产品](http://www.chanpin100.com/article/111149)
+ > 清晰介绍产品，避免“知识的诅咒”
+ ## [如何提高在线教育App用户的付费转化率？](http://www.chanpin100.com/article/111147)
+ > 如何引导用户对课程进行付费，这个问题一直困扰着在线教育App的运营人员，今天就和大家来说一下，在线教育App要如何提高课程的购买率。
+ ## [2020零售行业趋势展望|零售企业数字化转型势在必行](http://www.chanpin100.com/article/111146)
+ > 本分析内容从宏观零售大盘走势会如何，到中观零售行业有哪些赛道会崛起，再到微观与零售相关营销、运营和物流会产生哪些变化，三个方面阐释了新冠疫情对零售行业的影响。并针对疫情后零售企业转型应该如何去做给出了三点建设性意见
+ ## [蔚来需要一个“马斯克”](http://www.chanpin100.com/article/111145)
+ > 2020年又遇到疫情“黑天鹅”，年初还遭到了第三大股东高瓴资本的清仓，蔚来的运气似乎并不怎么好。
+ ## [Q1抖音媒体广告投放分析，哪些行业迎来新爆发？](http://www.chanpin100.com/article/111144)
+ > Q1抖音媒体行业投放趋势解析&amp;热门广告创意盘点！
+ ## [面试篇-10秒吊打面试官](http://www.chanpin100.com/article/111143)
+ > 表面：请简单介绍下自己。实际：你先出牌，我要看着打。
+ ## [商品管理系统设计（一）：类目设计全解析](http://www.chanpin100.com/article/111142)
+ > 一篇文章带你吃透电商平台——商品管理系统之类目设计
+ ## [淘宝“内测版到期”是开发小哥报复？](http://www.chanpin100.com/article/111141)
+ > 淘宝内测到期是什么情况？
+ ## [十大用户体验设计失败案例，你知道吗？](http://www.chanpin100.com/article/111140)
+ > 为什么这些设计会导致用户体验不好？
+ ## [以选竞品为例|写竞品分析：少点模版，多点思考](http://www.chanpin100.com/article/111139)
+ > 竞品分析不光是套用模板，还需要思考
+ ## [微爱产品分析报告](http://www.chanpin100.com/article/111138)
+ > 情侣社交类产品的前景如何？
+ ## [一罐产品分析](http://www.chanpin100.com/article/111137)
+ > 树洞类社交产品的又一次尝试
+ ## [抖音引流话术怎么写？怎么在抖音评论区引流](http://www.chanpin100.com/article/111136)
+ > 抖音引流话术怎么写？怎么在抖音评论区引流
+ ## [前方高能！15个外挂级别的设计插件，助你效率逆天](http://www.chanpin100.com/article/111135)
+ > 前方高能！15个外挂级别的设计插件， 助你效率逆天
+ ## [刀友访谈：三个月转UI成功，四年后从产品经理再出发](http://www.chanpin100.com/article/111152)
+ > 跳出舒适圈，不断地塑造自己。本文主要从转行前的准备、转行中的学习、工具的学习摸索、如何克服学习中的困难、对产品和未来的思考五个部分展开。
+ ## [柔性屏始于手机，终于万物](http://www.chanpin100.com/article/111148)
+ > 折叠屏手机的惊艳，让更多人开始期待，从现在到未来，屏幕应如水一般轻柔自在，甚至遁于无形。
 
     
