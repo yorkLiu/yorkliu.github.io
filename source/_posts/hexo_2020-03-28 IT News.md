@@ -1,21 +1,23 @@
 ---
 title: 2020-03-28 IT News
 copyright: true
-date: 2020-03-28 09:01:01
+date: 2020-03-28 10:01:42
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [小米大家电业务今年要兵团作战,同行们要如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=w2KvdMtEIBb2NxDUf8Hz0GBjwuQutijadRPvJyWMDg2rXeFKljc*7Yaj-X1-w81OrscEyvI8P*Z-mzM0MY-runC9-KWnZisfF0TrwkFZyvU-ID3kjxwXHX-xZW5m3ZAB&new=1)
- > 小米大家电业务的发展走势，对于中国市场上众多家电厂商来说，先是一面镜子：照亮自身的不足，照清自身的差异化亮点；还是一扇窗户：随时了解一线市场年轻用户群体的喜爱变化和波动。文剑||撰稿进入大家电行业第...
- ## [Edge-AI初创公司融资6000万美元 可大规模生产芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=1JfFXD1*kSCuH39mubvKYgbxykprqyK4Tfa-u0nH-AZluIT6RUyc5godO7tc0d3OMy3NrLvDdjlzJzKe1TH71RAgkLxc*vxwbJtwaEhGNEOVBJs8FM3XxWMdyh9IyJH3&new=1)
+ ## [Edge-AI初创公司融资6000万美元 可大规模生产芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1585359005&ver=2243&signature=1JfFXD1*kSCuH39mubvKYgbxykprqyK4Tfa-u0nH-AZluIT6RUyc5godO7tc0d3OUTKVlSK*rOVZWI218S-b24Xmp4RaxC1OxmoOB2R0rK*KN-ZUpN*6ffb4czR1Tn5e&new=1)
  > Photo: Hailo以色列初创企业Hailo表示，他们已经在第二轮融资中筹集了6000万美元，用于批量生产Hailo-8芯片。Hailo-8的设计目的是在汽车和机器人等边缘设备进行深度学习。这样的边缘芯片旨在降低使用人工智能处...
- ## [为什么有人放弃年薪30万的工作，选择进运营商?](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=cxyTb317pUvc17ybN7jDIajP7EgpjLHHibJprGUc0Iw18qPJS7BGAIMdqvqE1y*DxGcg3mV4J*bqm2qJVheqhOvQFYqRejnVag18-iQ4iKPoh1PGT6fFyoNlrjDh6ssF&new=1)
+ ## [为什么有人放弃年薪30万的工作，选择进运营商?](http://mp.weixin.qq.com/s?src=11&timestamp=1585359005&ver=2243&signature=cxyTb317pUvc17ybN7jDIajP7EgpjLHHibJprGUc0Iw18qPJS7BGAIMdqvqE1y*DHyouHDrX4kRg5tk--ArqeHYYjpokhlJsce9JgWr95CKJexQoCiF*YLCj*AFMAObX&new=1)
  > 可能是996压力太大，不少IT公司的人跳槽首先想到了进国企。可通信国企的铁饭碗到底好不好吃？近日，一位围墙之内的员工现身说法：你是如何看待，放弃高薪加入运营商大军的？欢迎下方留言区互动。综合：运营商情...
- ## [任正非：华为2020年将投入超200亿美元研发预算，抢占机会窗](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=13al2R82fsIpWYyplph*t*1lqt5drITmhaCjTBBx9waq3OzAbUOAj2o5KthsVnh8yGWxnFUT8w*XrrXF-PIFbeQP48nCa3rAnYIn3lMvCPOBcHc*tv0SFbV0zZ4*hZsP&new=1)
- > 当战略机会窗开启时，华为从不吝啬资源的投入，千军万马争夺市场。3月25日，华为创始人任正非在接受《华尔街日报》采访时表示，华为今年计划将研发预算增加58亿美元至200亿美元以上。这是今年春节以来任正非首次...
- ## [疫情“震中”的欧洲，5G商用如何化“危”为“机”](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=JY9FOue8FHeNb-*lz4fKg0ALlGxn*F2OyWXm0zXwM-QrWMNFd9W-CUxGhQGmT7t041Dx5Mmu-q3uEYbvtCdi9hRX8DKPu0KluJlevFMNMFziuj5BJPUNlxHLJK98z6Js&new=1)
+ ## [\[科技早报7点整\]圆通回应快递员给客户磕头道歉 比尔盖茨警告全美必须停摆……](http://mp.weixin.qq.com/s?src=11&timestamp=1585359005&ver=2243&signature=QEoMgCbiVBn9Mxjgg2a6T38Zu9c11Qw5J7oSCENj4kDWRGJ4cOqFOCxmkiXhPbD5-9GRH*Sra*L2HLVe8B0qY3oeygKwN2IjP6OYKIye8k9VJso6Hx11TzxAPXtk2qrY&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第762期1.国家邮政局：2020年快递预计超740亿件国家邮政局27日发布的《2019年中国快递发展指数报告》显示，2019年全国快递业务量超600亿件，累计完成635.2亿件，同比增长25.3%...
+ ## [疫情“震中”的欧洲，5G商用如何化“危”为“机”](http://mp.weixin.qq.com/s?src=11&timestamp=1585359005&ver=2243&signature=JY9FOue8FHeNb-*lz4fKg0ALlGxn*F2OyWXm0zXwM-QrWMNFd9W-CUxGhQGmT7t0m8eeD2UyUE60pFvwnzhsyf0kUkAb3d8Y-ov58IsHLVes1vhIy1uAzIco-74qVo0w&new=1)
  > 【摘要】本文将从商用进展，发展滞后原因及举措，行业市场探索和未来发展分析等方面阐述欧洲5G发展情况。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：开山本文来源：5G行业应用（about5G）杂谈投稿邮...
+ ## [小米大家电业务今年要兵团作战,同行们要如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1585359005&ver=2243&signature=w2KvdMtEIBb2NxDUf8Hz0GBjwuQutijadRPvJyWMDg2rXeFKljc*7Yaj-X1-w81OYwu7DiFyuEymHG7Tr1aDk39NgWbzb97sYqqvztMJH9HemZnXCUW0sHGXvwviH*rp&new=1)
+ > 小米大家电业务的发展走势，对于中国市场上众多家电厂商来说，先是一面镜子：照亮自身的不足，照清自身的差异化亮点；还是一扇窗户：随时了解一线市场年轻用户群体的喜爱变化和波动。文剑||撰稿进入大家电行业第...
+ ## [任正非：华为2020年将投入超200亿美元研发预算，抢占机会窗](http://mp.weixin.qq.com/s?src=11&timestamp=1585359005&ver=2243&signature=13al2R82fsIpWYyplph*t*1lqt5drITmhaCjTBBx9waq3OzAbUOAj2o5KthsVnh8NtaowUhkf621Ri3fyQ7T0dFRbDf4oAN3KWqDa6BM85WuiW2udLI5eOf0wIZ6E7XF&new=1)
+ > 当战略机会窗开启时，华为从不吝啬资源的投入，千军万马争夺市场。3月25日，华为创始人任正非在接受《华尔街日报》采访时表示，华为今年计划将研发预算增加58亿美元至200亿美元以上。这是今年春节以来任正非首次...
 # IT 技术 
  ## [AI-WAN：当AIOps遇上SD-WAN时](http://network.51cto.com/art/202003/613303.htm)
  > AI-WAN：当AIOps遇上SD-WAN时
@@ -33,35 +35,35 @@ categories: IT NEWS
  > 安全 | 女黑客1亿美元叫卖AMD源码
  ## [宫崎骏动画里的新垣结衣见过没？这个开源动漫生成器让你的照片秒变手绘日漫](http://news.51cto.com/art/202003/613250.htm)
  > 宫崎骏动画里的新垣结衣见过没？这个开源动漫生成器让你的照片秒变手绘日漫
- ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
- > 这些软件太强了，Windows必装！尤其程序员！
- ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
- > Java校招入职华为，半年后我跑路了
- ## [复习一周，京东+百度一面，不小心都拿了Offer](https://blog.csdn.net/qq_35190492/article/details/103795708)
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [2019 年终总结 ~ 逆风起航](https://blog.csdn.net/johnny901114/article/details/103792493)
  > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [2020年1月中国编程语言排行榜，python是2019增长最快编程语言](https://blog.csdn.net/juwikuang/article/details/103926263)
- > 
- ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
- > Python+OpenCV实时图像处理
  ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
- ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
+ ## [大学四年因为知道了这32个网站，我成了别人眼中的大神！](https://blog.csdn.net/sinat_33921105/article/details/103899234)
+ > 大学四年因为知道了这32个网站，我成了别人眼中的大神！
+ ## [国产开源项目年度盘点](https://blog.csdn.net/BEYONDMA/article/details/103752034)
  > 
- ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
- > 一个程序在计算机中是如何运行的？超级干货！！！
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
- > 
- ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
- > 2020年2月中国编程语言排行榜
- ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
- > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [计算机网络的核心概念](https://blog.csdn.net/qq_36894974/article/details/103778956)
- > 
- ## [《面试宝典》2019年springmvc面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777133)
+ ## [2万字Java并发编程面试题合集（含答案，建议收藏）](https://blog.csdn.net/Design407/article/details/104288386)
+ > 2万字Java并发编程面试题合集（含答案，建议收藏）
+ ## [史上最牛逼的 Eclipse 快捷键，提高开发效率！](https://blog.csdn.net/weixin_43570367/article/details/104263892)
+ > 史上最牛逼的 Eclipse 快捷键，提高开发效率！
+ ## [作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！](https://blog.csdn.net/sinat_33921105/article/details/104256879)
+ > 作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！
+ ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
+ > Python+OpenCV实时图像处理
+ ## [无人机“风袭”黄冈｜战疫日记](https://blog.csdn.net/weixin_39640818/article/details/104151525)
+ > 无人机“风袭”黄冈｜战疫日记
+ ## [Java学习的正确打开方式](https://blog.csdn.net/qq_44543508/article/details/102651841)
+ > Java学习的正确打开方式
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [【C语言数据结构2】--指针的简单复习](https://blog.csdn.net/ZackSock/article/details/103980423)
+ > 【C语言数据结构2】--指针的简单复习
+ ## [把BERT的推断速度提升17倍](https://blog.csdn.net/u011984148/article/details/104075161)
+ > 把BERT的推断速度提升17倍
+ ## [web安全/渗透测试--64--常见的WAF绕过方法](https://blog.csdn.net/wutianxu123/article/details/104260945)
  > 
  ## [无代码时代来临，程序员如何保住饭碗？](https://blog.csdn.net/csdnnews/article/details/105142295)
  > 编程语言层出不穷，从最初的机器语言到如今2500种以上的高级语言，程序员们大呼“学到头秃”。程序员一边面临编程语言不断推陈出新，一边面临由于许多代码已存在，程序员编写新应用程序时存在重复“搬砖”的现象。无代码/低代码编程应运而生。无代码/低代码是一种创建应用的方法，它可以让开发者使用最少的编码...
@@ -94,37 +96,39 @@ categories: IT NEWS
  ## [用 Java 开发自己的 Kubernetes 控制器，想试试吗？](https://blog.csdn.net/csdnnews/article/details/105154339)
  > 作者 |Nicolas Fränkel译者 |天道酬勤，责编 | 徐威龙封图 | CSDN 下载于视觉中国在本文中，我们将开始开发自己的Kubern...
 # 人工智能 
- ## [Java实现 LeetCode 540 有序数组中的单一元素（位运算入门）](https://blog.csdn.net/a1439775520/article/details/105088099)
- > Java实现 LeetCode 540 有序数组中的单一元素（位运算入门）
- ## [TencentOS-tiny 内存管理（十 三）- 静态内存](https://blog.csdn.net/qq_36075612/article/details/105074279)
- > TencentOS-tiny 内存管理（十 三）- 静态内存
- ## [【JavaSE阶段式训练】怎样正确的度过JavaSE阶段真的很重要！（详细知识内容+资料）](https://blog.csdn.net/weixin_44170221/article/details/104786312)
- > 
- ## [教你妙用GDB调试堆栈信息](https://blog.csdn.net/qq_44710568/article/details/105096329)
- > 教你妙用GDB调试堆栈信息
- ## [程序员面试金典 - 面试题 16.05. 阶乘尾数（5的因子）](https://blog.csdn.net/qq_21201267/article/details/105127249)
- > 程序员面试金典 - 面试题 16.05. 阶乘尾数（5的因子）
- ## [30个珍藏的程序员超实用自学网站，干货！](https://blog.csdn.net/zag666/article/details/105009749)
- > 
- ## [Android读取设备内存大小](https://blog.csdn.net/weixin_35649059/article/details/105098317)
- > Android读取设备内存大小
- ## [大规模分布式存储系统笔记一](https://blog.csdn.net/xk4848123/article/details/105057486)
- > 大规模分布式存储系统笔记一
- ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 130 个相见恨晚的超实用网站，一次性分享出来
- ## [基于OpenGL ES的滤镜算法及GLSL实现代码](https://blog.csdn.net/wudexiaoade2008/article/details/105105364)
- > 基于OpenGL ES的滤镜算法及GLSL实现代码
- ## [Java实现 LeetCode 535 TinyURL 的加密与解密（位运算加密）](https://blog.csdn.net/a1439775520/article/details/105071459)
- > Java实现 LeetCode 535 TinyURL 的加密与解密（位运算加密）
- ## [Modelsim新手使用教程](https://blog.csdn.net/weixin_40813513/article/details/105115813)
- > Modelsim新手使用教程
- ## [Cura工程环境配置教程](https://blog.csdn.net/LittleLittleFish_xyg/article/details/102966419)
- > Cura工程环境配置教程
- ## [TencentOS-tiny 内核基础组件（十 七）- 环形队列](https://blog.csdn.net/qq_36075612/article/details/105074823)
- > TencentOS-tiny 内核基础组件（十 七）- 环形队列
- ## [3月30日—4月3日三年级课程](https://blog.csdn.net/zln1212/article/details/105098004)
- > 3月30日—4月3日三年级课程
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
+ > 安卓APP的http访问权限
+ ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
+ > flutter 的像素尺寸
+ ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
+ > googlePlay 找不到发布的应用
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
+ > 使用FlexboxLayoutManager来实现流式布局
+ ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
+ > 电电帮手机维修就是坑爹，大家不要信
+ ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
+ > android.view.InflateException Error inflating class android.webkit.WebView
+ ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
+ > Unity | 总结：OCR文字识别、公式识别
 # PM 
+ ## [情感驱动——可口可乐品牌年轻的秘密](http://www.woshipm.com/marketing/3603412.html)
+ > 品牌营销中，我们不仅要向用户推广产品并使之购买，更主要是建立情感驱动，建立长期连接，以此创造长线价值，延长品牌寿命。2019年世界品牌价值排行前十名中，可口可...
  ## [探秘方便速食赛道：你为螺蛳粉和自嗨锅上头了吗?](http://www.woshipm.com/it/3601276.html)
  > 宅家期间，人们自由外出吃吃喝喝的需求难以得到满足，于是人们将目光聚集到了方便速食食品上，从而进一步加速了这一行业在特殊时期下的发展与崛起。举国宅家的这些日...
  ## [聊聊交互设计中的五个要素](http://www.woshipm.com/ucd/3603994.html)
