@@ -1,21 +1,21 @@
 ---
 title: 2020-03-28 IT News
 copyright: true
-date: 2020-03-28 08:00:53
+date: 2020-03-28 09:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [疫情“震中”的欧洲，5G商用如何化“危”为“机”](http://mp.weixin.qq.com/s?src=11&timestamp=1585353605&ver=2243&signature=JY9FOue8FHeNb-*lz4fKg0ALlGxn*F2OyWXm0zXwM-QrWMNFd9W-CUxGhQGmT7t0TJXHpr86-yWGkKB9g4C4glOX*bkcia8k*bcw3fETE9iwN0RkID*92hOHqNH8VaE0&new=1)
- > 【摘要】本文将从商用进展，发展滞后原因及举措，行业市场探索和未来发展分析等方面阐述欧洲5G发展情况。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：开山本文来源：5G行业应用（about5G）杂谈投稿邮...
- ## [任正非：华为2020年将投入超200亿美元研发预算，抢占机会窗](http://mp.weixin.qq.com/s?src=11&timestamp=1585353605&ver=2243&signature=13al2R82fsIpWYyplph*t*1lqt5drITmhaCjTBBx9waq3OzAbUOAj2o5KthsVnh8MZBPvNPU4w1kAaJnzMsCXA3xuzgUryYuN6NNk26wDjntda0NC2mM3-1xjoSO2exl&new=1)
- > 当战略机会窗开启时，华为从不吝啬资源的投入，千军万马争夺市场。3月25日，华为创始人任正非在接受《华尔街日报》采访时表示，华为今年计划将研发预算增加58亿美元至200亿美元以上。这是今年春节以来任正非首次...
- ## [为什么有人放弃年薪30万的工作，选择进运营商?](http://mp.weixin.qq.com/s?src=11&timestamp=1585353605&ver=2243&signature=cxyTb317pUvc17ybN7jDIajP7EgpjLHHibJprGUc0Iw18qPJS7BGAIMdqvqE1y*D90LCaY8LEjogIpW0zZFRjHG6FhpTaAKsdxFTL0OdsYAXRyk1lgDT9eQKyihZFniH&new=1)
- > 可能是996压力太大，不少IT公司的人跳槽首先想到了进国企。可通信国企的铁饭碗到底好不好吃？近日，一位围墙之内的员工现身说法：你是如何看待，放弃高薪加入运营商大军的？欢迎下方留言区互动。综合：运营商情...
- ## [小米大家电业务今年要兵团作战,同行们要如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1585353605&ver=2243&signature=w2KvdMtEIBb2NxDUf8Hz0GBjwuQutijadRPvJyWMDg2rXeFKljc*7Yaj-X1-w81OkOJh*lEn5uJP7saJ7DH1VruNNwVk7mLbHgYkK*W1rlf*7Xr4mli4pX5qkCjqp0S4&new=1)
+ ## [小米大家电业务今年要兵团作战,同行们要如何应对?](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=w2KvdMtEIBb2NxDUf8Hz0GBjwuQutijadRPvJyWMDg2rXeFKljc*7Yaj-X1-w81OrscEyvI8P*Z-mzM0MY-runC9-KWnZisfF0TrwkFZyvU-ID3kjxwXHX-xZW5m3ZAB&new=1)
  > 小米大家电业务的发展走势，对于中国市场上众多家电厂商来说，先是一面镜子：照亮自身的不足，照清自身的差异化亮点；还是一扇窗户：随时了解一线市场年轻用户群体的喜爱变化和波动。文剑||撰稿进入大家电行业第...
- ## [Edge-AI初创公司融资6000万美元 可大规模生产芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1585353605&ver=2243&signature=1JfFXD1*kSCuH39mubvKYgbxykprqyK4Tfa-u0nH-AZluIT6RUyc5godO7tc0d3ONKZgVeCwo0EZwfzpXxXkf7Ycs8aoDT210vMLU15x9bmr3xXV8jSC3V2pyXwJJRXU&new=1)
+ ## [Edge-AI初创公司融资6000万美元 可大规模生产芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=1JfFXD1*kSCuH39mubvKYgbxykprqyK4Tfa-u0nH-AZluIT6RUyc5godO7tc0d3OMy3NrLvDdjlzJzKe1TH71RAgkLxc*vxwbJtwaEhGNEOVBJs8FM3XxWMdyh9IyJH3&new=1)
  > Photo: Hailo以色列初创企业Hailo表示，他们已经在第二轮融资中筹集了6000万美元，用于批量生产Hailo-8芯片。Hailo-8的设计目的是在汽车和机器人等边缘设备进行深度学习。这样的边缘芯片旨在降低使用人工智能处...
+ ## [为什么有人放弃年薪30万的工作，选择进运营商?](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=cxyTb317pUvc17ybN7jDIajP7EgpjLHHibJprGUc0Iw18qPJS7BGAIMdqvqE1y*DxGcg3mV4J*bqm2qJVheqhOvQFYqRejnVag18-iQ4iKPoh1PGT6fFyoNlrjDh6ssF&new=1)
+ > 可能是996压力太大，不少IT公司的人跳槽首先想到了进国企。可通信国企的铁饭碗到底好不好吃？近日，一位围墙之内的员工现身说法：你是如何看待，放弃高薪加入运营商大军的？欢迎下方留言区互动。综合：运营商情...
+ ## [任正非：华为2020年将投入超200亿美元研发预算，抢占机会窗](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=13al2R82fsIpWYyplph*t*1lqt5drITmhaCjTBBx9waq3OzAbUOAj2o5KthsVnh8yGWxnFUT8w*XrrXF-PIFbeQP48nCa3rAnYIn3lMvCPOBcHc*tv0SFbV0zZ4*hZsP&new=1)
+ > 当战略机会窗开启时，华为从不吝啬资源的投入，千军万马争夺市场。3月25日，华为创始人任正非在接受《华尔街日报》采访时表示，华为今年计划将研发预算增加58亿美元至200亿美元以上。这是今年春节以来任正非首次...
+ ## [疫情“震中”的欧洲，5G商用如何化“危”为“机”](http://mp.weixin.qq.com/s?src=11&timestamp=1585355405&ver=2243&signature=JY9FOue8FHeNb-*lz4fKg0ALlGxn*F2OyWXm0zXwM-QrWMNFd9W-CUxGhQGmT7t041Dx5Mmu-q3uEYbvtCdi9hRX8DKPu0KluJlevFMNMFziuj5BJPUNlxHLJK98z6Js&new=1)
+ > 【摘要】本文将从商用进展，发展滞后原因及举措，行业市场探索和未来发展分析等方面阐述欧洲5G发展情况。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：开山本文来源：5G行业应用（about5G）杂谈投稿邮...
 # IT 技术 
  ## [AI-WAN：当AIOps遇上SD-WAN时](http://network.51cto.com/art/202003/613303.htm)
  > AI-WAN：当AIOps遇上SD-WAN时
@@ -49,17 +49,17 @@ categories: IT NEWS
  > 
  ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
  > 
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
  ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
  > 一个程序在计算机中是如何运行的？超级干货！！！
+ ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
+ > 
  ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
  > 
  ## [2020年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/104161876)
  > 2020年2月中国编程语言排行榜
  ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
  > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [阿里面试，面试官没想到一个ArrayList，我都能跟他扯半小时](https://blog.csdn.net/qq_35190492/article/details/103883964)
+ ## [计算机网络的核心概念](https://blog.csdn.net/qq_36894974/article/details/103778956)
  > 
  ## [《面试宝典》2019年springmvc面试高频题(java)](https://blog.csdn.net/qq_16855077/article/details/103777133)
  > 
@@ -67,18 +67,26 @@ categories: IT NEWS
  > 编程语言层出不穷，从最初的机器语言到如今2500种以上的高级语言，程序员们大呼“学到头秃”。程序员一边面临编程语言不断推陈出新，一边面临由于许多代码已存在，程序员编写新应用程序时存在重复“搬砖”的现象。无代码/低代码编程应运而生。无代码/低代码是一种创建应用的方法，它可以让开发者使用最少的编码...
  ## [​​​​​​​微信、Facebook牵手合作，抗击全球新冠肺炎疫情](https://blog.csdn.net/csdnnews/article/details/105147547)
  > 抗击新冠肺炎，已经成为全球共同的一场战“疫”。3月25日，在世界卫生组织（WHO）的支持下，微信联合Facebook等各大科技互联网平台共同发起了一项科技公益倡议，通过“全球开发者‘马拉松’比赛”，邀请全球开发者提交包括微信小程序在内的多种形式、有助于战“疫”的解决方案，用代码战“疫”。...
+ ## [1415120000，华为这个数字赞爆！](https://blog.csdn.net/csdnnews/article/details/105154333)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）3月26日，刚发布P40手机的华为，又要搞事情。3月27日，华为开发者大会2020（Clou...
  ## [北航、商汤提出的网络二值化新算法 IR-Net，到底好使不？](https://blog.csdn.net/csdnnews/article/details/105154335)
  > 【CSDN编者按】在CVPR 2020上，商汤研究院链接与编译组和北京航空航天大学刘祥龙老师团队提出了一种旨在优化前后向传播中信息流的实用、高效的网络二...
+ ## [区块链数字合约，如何将下放所有权?](https://blog.csdn.net/csdnnews/article/details/105154336)
+ > 作者 |Giacomo Zucco译者 | 天道酬勤责编 | 徐威龙出品 | 区块链大本营（blockchain_camp)在本文中，我们将基于使用...
  ## [沙利文：2019Q4中国公有云市场份额：阿里云、腾讯云、华为云位列前三](https://blog.csdn.net/csdnnews/article/details/105154337)
  > 今日，Frost &amp; Sullivan（以下简称“沙利文”）发布了对于中国公有云市场的调查研究结果。数据显示，2019年Q4中国公有云市场规模达...
  ## [阿里影业“云智开放平台”炼成记！](https://blog.csdn.net/csdnnews/article/details/105154338)
  > 作者 |阿里文娱技术责编 | 胡巍巍出品 | CSDN（ID：CSDNnews）前言云智是阿里影业旗下的影院数字化经营管理开放平台，主要负责影院管理及...
  ## [日均保护原创超6万篇，腾讯“至信链”助企鹅号作者一键维权](https://blog.csdn.net/csdnnews/article/details/105144674)
  > 区块链技术正在内容原创保护领域发挥关键作用。据腾讯内容开放平台最新发布的企鹅号版权保护年度报告显示，基于腾讯云区块链技术的“至信链”在过去一年有效保护原创作品超过1000万篇，由“至信链”作为重要组成部分的 “企鹅号一键维权”系统发起维权并成功下架侵权作品800万次，日均发起维权超过3万次。据...
+ ## [GitHub 疑遭中间人攻击，最大暗网托管商再被黑！](https://blog.csdn.net/csdnnews/article/details/105154330)
+ > 整理 | 伍杏玲出品 | 程序人生（ID：coder_life）近期，在全球关注新冠肺炎疫情之际，黑客却频频动作，发动攻击：GitHub 疑遭中间人攻击...
  ## [Go 语言之 defer 的前世今生](https://blog.csdn.net/csdnnews/article/details/105154332)
  > 作者 | 欧长坤来源 |码农桃花源延迟语句 defer 在最早期的 Go 语言设计中并不存在，后来才单独增加了这一特性，由 Robert Griese...
  ## [不搞虚的！快速把你拉入Docker 的门里 | 原力计划](https://blog.csdn.net/csdnnews/article/details/105154334)
  > 作者 | 桌前明月责编 | 夕颜出品 | CSDN（ID：CSDNnews）前言学习一门东西你要先搞懂怎么使用它。以及使用它的一些操作用语。就好比你去驾...
+ ## [华为 P40 “一胞三胎”，最贵价 10854 元](https://blog.csdn.net/csdnnews/article/details/105154326)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）真羡慕余承东的西服，内里口袋可以装仨手机，讲解时咔咔咔地往外掏。西服里藏着三个手机2019年...
  ## [程序员不会SQL？骨灰级工程师：全等着被淘汰吧！这是必会技能！](https://blog.csdn.net/csdnnews/article/details/105154327)
  > SQL从诞生至今，虽然已经走过了40多年的历史，但是：它依然是每一位程序员都应掌握的技能。为什么这么说呢？ 无论你是前端、后端、APP开发、AI、测试甚...
  ## [微信小范围上线“分付”功能；罗永浩宣布独家签约抖音；Github pages 可能遭遇中间人攻击 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/105154328)
@@ -86,37 +94,41 @@ categories: IT NEWS
  ## [用 Java 开发自己的 Kubernetes 控制器，想试试吗？](https://blog.csdn.net/csdnnews/article/details/105154339)
  > 作者 |Nicolas Fränkel译者 |天道酬勤，责编 | 徐威龙封图 | CSDN 下载于视觉中国在本文中，我们将开始开发自己的Kubern...
 # 人工智能 
- ## [地方普通院校的计算机专业「科班」学生应如何提高自己的竞争力](https://blog.csdn.net/qq_34666857/article/details/105112250)
+ ## [Java实现 LeetCode 540 有序数组中的单一元素（位运算入门）](https://blog.csdn.net/a1439775520/article/details/105088099)
+ > Java实现 LeetCode 540 有序数组中的单一元素（位运算入门）
+ ## [TencentOS-tiny 内存管理（十 三）- 静态内存](https://blog.csdn.net/qq_36075612/article/details/105074279)
+ > TencentOS-tiny 内存管理（十 三）- 静态内存
+ ## [【JavaSE阶段式训练】怎样正确的度过JavaSE阶段真的很重要！（详细知识内容+资料）](https://blog.csdn.net/weixin_44170221/article/details/104786312)
  > 
- ## [初出茅庐的农村娃，在新一线城市买了房！【程序员除了写代码还能干什么】](https://blog.csdn.net/weixin_43570367/article/details/105063195)
- > 
- ## [大学四年因为知道了这 60 个网站，我成了别人眼中的大神！](https://blog.csdn.net/qq_36903042/article/details/105091231)
- > 大学四年因为知道了这 60 个网站，我成了别人眼中的大神！
- ## [今天的觉悟对得起你明天的成功，如不努力，皆会消失在滚滚洪流中](https://blog.csdn.net/qq_44723773/article/details/105099321)
- > 
- ## [10个提升效率的编程好习惯](https://blog.csdn.net/TeFuirnever/article/details/105069081)
- > 
- ## [我的第一篇博客](https://blog.csdn.net/WEIYANGBIN/article/details/105120275)
- > 我的第一篇博客
- ## [A New Beginning](https://blog.csdn.net/zSoaring/article/details/105125027)
- > A New Beginning
- ## [第一篇博客](https://blog.csdn.net/m0_46657980/article/details/105114662)
- > 第一篇博客
- ## [My thought](https://blog.csdn.net/weixin_45271990/article/details/105112151)
- > My thought
- ## [向代码致敬，寻找你的第83行（阿里巴巴的第83行代码是什么梗）](https://blog.csdn.net/a1439775520/article/details/105114947)
- > 向代码致敬，寻找你的第83行（阿里巴巴的第83行代码是什么梗）
+ ## [教你妙用GDB调试堆栈信息](https://blog.csdn.net/qq_44710568/article/details/105096329)
+ > 教你妙用GDB调试堆栈信息
+ ## [程序员面试金典 - 面试题 16.05. 阶乘尾数（5的因子）](https://blog.csdn.net/qq_21201267/article/details/105127249)
+ > 程序员面试金典 - 面试题 16.05. 阶乘尾数（5的因子）
  ## [30个珍藏的程序员超实用自学网站，干货！](https://blog.csdn.net/zag666/article/details/105009749)
  > 
- ## [程序猿如何构建自己的思维模式--解读色不异空，空不异色](https://blog.csdn.net/weixin_37479258/article/details/105088838)
- > 程序猿如何构建自己的思维模式--解读色不异空，空不异色
- ## [2020-03-25](https://blog.csdn.net/weixin_46227929/article/details/105105658)
- > 2020-03-25
- ## [这些有用的网站，你知道吗？](https://blog.csdn.net/cool99781/article/details/105092182)
- > 这些有用的网站，你知道吗？
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
+ ## [Android读取设备内存大小](https://blog.csdn.net/weixin_35649059/article/details/105098317)
+ > Android读取设备内存大小
+ ## [大规模分布式存储系统笔记一](https://blog.csdn.net/xk4848123/article/details/105057486)
+ > 大规模分布式存储系统笔记一
+ ## [130 个相见恨晚的超实用网站，一次性分享出来](https://blog.csdn.net/qq_43901693/article/details/100606828)
+ > 130 个相见恨晚的超实用网站，一次性分享出来
+ ## [基于OpenGL ES的滤镜算法及GLSL实现代码](https://blog.csdn.net/wudexiaoade2008/article/details/105105364)
+ > 基于OpenGL ES的滤镜算法及GLSL实现代码
+ ## [Java实现 LeetCode 535 TinyURL 的加密与解密（位运算加密）](https://blog.csdn.net/a1439775520/article/details/105071459)
+ > Java实现 LeetCode 535 TinyURL 的加密与解密（位运算加密）
+ ## [Modelsim新手使用教程](https://blog.csdn.net/weixin_40813513/article/details/105115813)
+ > Modelsim新手使用教程
+ ## [Cura工程环境配置教程](https://blog.csdn.net/LittleLittleFish_xyg/article/details/102966419)
+ > Cura工程环境配置教程
+ ## [TencentOS-tiny 内核基础组件（十 七）- 环形队列](https://blog.csdn.net/qq_36075612/article/details/105074823)
+ > TencentOS-tiny 内核基础组件（十 七）- 环形队列
+ ## [3月30日—4月3日三年级课程](https://blog.csdn.net/zln1212/article/details/105098004)
+ > 3月30日—4月3日三年级课程
 # PM 
+ ## [探秘方便速食赛道：你为螺蛳粉和自嗨锅上头了吗?](http://www.woshipm.com/it/3601276.html)
+ > 宅家期间，人们自由外出吃吃喝喝的需求难以得到满足，于是人们将目光聚集到了方便速食食品上，从而进一步加速了这一行业在特殊时期下的发展与崛起。举国宅家的这些日...
+ ## [聊聊交互设计中的五个要素](http://www.woshipm.com/ucd/3603994.html)
+ > 用户、场景、媒介/工具、目标、行为是交互设计中的五要素，那么在交互设计中我们要如何理解这五项内容呢？输出设计时又要结合这些内容注意哪些要点呢？机缘巧合下拜读...
  ## [以向长辈讲述区块链为例，如何向外行介绍产品](http://www.chanpin100.com/article/111149)
  > 清晰介绍产品，避免“知识的诅咒”
  ## [如何提高在线教育App用户的付费转化率？](http://www.chanpin100.com/article/111147)
