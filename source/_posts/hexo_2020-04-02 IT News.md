@@ -1,7 +1,7 @@
 ---
 title: 2020-04-02 IT News
 copyright: true
-date: 2020-04-02 10:01:07
+date: 2020-04-02 12:01:25
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -78,78 +78,86 @@ Facebook&#25512;&#20986;&#8221;&#23547;&#27714;&#24110;&#21161;&#8221;&#21151;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [市场预测|疫情或推迟以太网收发器市场复苏至2021年](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=P9ps3f7Yfa9JfRZB69JJo1uCngtWYXbN7zLwRi2YG2fAeDo6faY*8CHB1LoUIMSByqqL-ZnzfOuQ15VcxAB19ykiu6Sjye1aC244OFKKPMZNJBJPBqsElZAAjO*1-Nv2&new=1)
- > 新闻导读由于COVID-19带来的不确定性及可能出现的严重经济衰退，LC预测以太网收发器市场的复苏或将延缓到2021年。与此同时，Facebook等的200GbE部署计划可能会延迟，包括40GbE和100GbE在内的传统产品的生命周期...
- ## [好风借好力，5G会是运营商收入增长最好的“力”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=Q9uSa0f5yr1sk5Eli7ashvxKqxtXiud4QaVcDxkn94sg-LLB5rth0j400XVr6snDXzoII2JwH3hbqorwo5IqTOqxZoZ8Hc*q25duJ9eyDm8pVHEK3ppFsAzTubGve*ia&new=1)
- > 近期，三大运营商财报全部公布。从财报来看，运营商面临着移动用户规模缩减、传统的语音业务继续走低等多方面压力。传统业务收入增长乏力，5G成为了运营商的发力点。财报显示，2020年，三大运营商将加大对5G建设...
- ## [华为2019年业绩亮眼 35家新三板公司“沾光”](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=UtL5KDfSI6KCjX8Is8vyTCXcn3TrWjsayFa-WSAhsqNlZZ3Iy-eTEI0iPwQL53r5nNn-rw-Wu2LfRSF3eqyzZEdAlQVjJBoDM4HDsaTZx5A=&new=1)
+ ## [美国互联网协会：国防部网络安全认证计划(CMMC)或产生反作用](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=bNobPfOWBdbdN1Etetb2UElqrcviqyi8UZNAKE5YNWl68gYcB777Fz4SwB0ziryV3-UsY85X3sqv-CJ9Kz4mhpWGha4yct4aFBnYzhA6W8NYKlNA3Yply7Z6c7zjTXOM&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月2日讯，近日据外媒报道，上周美国BSA互联网协会在致五角大楼高级官员的一封信中表示，国防部的网络安全成熟度模型认证计划（CMMC)可能会与预期效果...
+ ## [施乐公司以冠状病毒危机为由，停止收购惠普](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=KmLeNA5A4GiSgk3YweNHTyDabkt0Zm7QXz4uVai-3ynw5rb3xcImB8kReoEJMUWXxCUrDSdJawcpaINZDEqTRYib8ja3rJmpgo7aywnGR5TvzFwlbLnumwIlv3fV4VkV&new=1)
+ > 全球打印和数字文档公司施乐终止了对竞争对手惠普公司的敌意收购，理由是担心目前的金融市场受到全球冠状病毒危机的影响。施乐公司在周二发布的一份声明中解释道：“当前的全球健康危机以及由此导致的宏观经济和...
+ ## [刚刚，工信部调整700MHz频段频率使用规划：四家共享700M，实现异网漫游?](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=r64rPPyPSUkshiTmDLVxI4lJSIlJ-mLQpFHsUAe-d5brZ4EJUuQWg13ppAc*RVjdQB1OqV1IuXpj33J8XH*Q5-NlnOSQpbXxrKmH0fswF-DbOpNZQvtYzNTic*ICnKtB&new=1)
+ > 4月1日，工信部官网发布《关于调整700MHz频段频率使用规划的通知》，为我国低频段5G发展提供频率保障。全文如下：各省、自治区、直辖市无线电管理机构，国家广播电视总局，各相关单位：　　为推进5G加快发展，促...
+ ## [罗永浩抖音直播 3 小时带货破 1.1 亿元；疫情期间苹果共捐 5000 万元；刘强东再卸任旗下 13 家公司高管|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=dwoYh-6O49Pqlm6*WTmfMTyrtOcsRHLnSEjp4qwOY1CJOR79rPLyzGcKgGec4gjkHfzB17Tfoefkj3tiz6ARU*ziV6sefH3aVUYlrk9S7M-4AP3vXFfmgFfmM1lMRkkI&new=1)
+ > 罗永浩抖音直播首秀成绩单：3 小时带货破 1.1 亿元4 月 1 日晚 11 点，新晋带货主播罗永浩在抖音完成了直播首秀。数据显示，整场直播持续 3 小时，支付交易总额超 1.1 亿元，累计观看人数超 4800 万人。罗永浩创...
+ ## [华为2019年业绩亮眼 35家新三板公司“沾光”](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=UtL5KDfSI6KCjX8Is8vyTCXcn3TrWjsayFa-WSAhsqPvLEKTpzs7N-lxdmA2OcpJMa0r99FGFqZ60gBIsqosqBbCvKWcnlN9Ph2rIIzGkVk=&new=1)
  > 周二华为公布2019年年报，全球销售收入实现8588亿元，净利润627亿元，三大业务板块均实现了正向增长。前五大客户中含有华为或者自身与华为有着深度合作关系的新三板公司已经多达35家，其中部分企业正在筹备I...
- ## [华为轮值董事长徐直军：2020力争活下来，明年还能发布年报(附热点14问)](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=3bCjk9NYmyihWHCFM6WONM9YAxl1CD7Kwdiy9sAk74ygyPMs8OQ4vCKtLRjnhOzUn8ctJJykvMCLGWMdBd7VgMmZVPV96Lr0kNRMtJWhbw4fpPXj3hsR*AdFkcQo9dpP&new=1)
+ ## [市场预测|疫情或推迟以太网收发器市场复苏至2021年](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=P9ps3f7Yfa9JfRZB69JJo1uCngtWYXbN7zLwRi2YG2ey4Hnlj1naFwT-l1Cto8vORU1Zi6eBW-UFkQUYvGky6N9k4YotKlMJMBpWptup62229lvSYxIxNupB6cvw4V6Y&new=1)
+ > 新闻导读由于COVID-19带来的不确定性及可能出现的严重经济衰退，LC预测以太网收发器市场的复苏或将延缓到2021年。与此同时，Facebook等的200GbE部署计划可能会延迟，包括40GbE和100GbE在内的传统产品的生命周期...
+ ## [好风借好力，5G会是运营商收入增长最好的“力”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=Q9uSa0f5yr1sk5Eli7ashvxKqxtXiud4QaVcDxkn94s1MLm9QQ2*GQQZFXwyx-YWirTcvaGWnIe6TaHVi7EFZah3SSXG0t9Yre-VfsxJjCMGrrofaMYLGSjJAn-GA9fC&new=1)
+ > 近期，三大运营商财报全部公布。从财报来看，运营商面临着移动用户规模缩减、传统的语音业务继续走低等多方面压力。传统业务收入增长乏力，5G成为了运营商的发力点。财报显示，2020年，三大运营商将加大对5G建设...
+ ## [华为轮值董事长徐直军：2020力争活下来，明年还能发布年报(附热点14问)](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=3bCjk9NYmyihWHCFM6WONM9YAxl1CD7Kwdiy9sAk74yWxDlNluYJldtFnK0GqyqPx0oHuehq3s1VFVpbP2g8w*15zw1Syz*JHyeMG5i010VS2sCj4HbQbzqHnyt8llfP&new=1)
  > 2020年3月31日，华为公司举办2019年报发布会，轮值董事长徐直军就业绩和业务发展以及近期的热点问题进行了回答。面对新冠疫情带来的全球经济衰退、金融动荡以及需求放缓等一系列问题是之前没有预测到的新挑战。...
- ## [苹果门店人员线上“复工”丨特斯拉捐赠呼吸机\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=Z4MLZ8kWTzuQ5pfK1SOJwvbeVlfSpDLTiw9bMR97mVU7auYP2dodpZkAbcBWnxTrppwk*xSUqDgzG4J6kVOzWd2ItnU05lGi6OaVCVpABAFZWQJH6uoLS4O5dkI6OCCe&new=1)
+ ## [苹果门店人员线上“复工”丨特斯拉捐赠呼吸机\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=Z4MLZ8kWTzuQ5pfK1SOJwvbeVlfSpDLTiw9bMR97mVV4OA2Vw2EmnnapVAGf11m2ixJKnfWI7oPRsT5CEj2lYIfORKgDcLiX-T2Z7b1sfAHUwvKGRUqAu6*vhNdEPkdO&new=1)
  > 4月1日丨周三【Do说】编辑 | 赵艾虎苹果门店人员线上“复工” 承担远程技术支持工作1日，据外媒报道，在疫情期间，苹果零售店员也要进行“线上”办公了。报道称，苹果将要求门店员工在闭店期间成为远程技术支持...
- ## [美国限制也未能阻止华为的发展，2019年营收同比增长近两成](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=xPi*T1k3jYVxJz8UHI6BrGyEjZFc*JwRyDBBVHNkbqrae0mL*FulYY1bzyPJ4Vrb4dIYny-XDZl6kkmh4geQdAStyrAra0SFQ-9RAEYoM0phTP8YEEqlNaBKRbDHMPij&new=1)
+ ## [美国限制也未能阻止华为的发展，2019年营收同比增长近两成](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=xPi*T1k3jYVxJz8UHI6BrGyEjZFc*JwRyDBBVHNkbqoYAMDULKRF04yMy0xhLeGbH*Kzar-BVwDMadLjscPR3bu-zntuhStEQuHTnH-qm5RrrUASVs*bg8c*oQ21UIsn&new=1)
  > 华为公布了2019年的业绩，营收同比增长19.1%至8588亿元，显示出即使面临美国的阻力，华为依然顽强前行，取得了历史最好的成绩，熬过了最艰难的一年。2019年对于华为来说可谓是最艰难的一年，此前第一大业务--手...
- ## [2020城市大脑与超级智能建设规范研究报告(附下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1585792804&ver=2253&signature=*NEi0AKucsWiEfYiuv3z*NviyE20O6Riw9IhXX57R5zQcBn4cPRvx-1-fJYtwBue7HKf6hbyzupCR35MTic6uhbaIlEtWDmXGuuFgk0kSatpdJ2Dv87ipCc8fhYUiUaQ&new=1)
+ ## [2020城市大脑与超级智能建设规范研究报告(附下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1585800004&ver=2253&signature=*NEi0AKucsWiEfYiuv3z*NviyE20O6Riw9IhXX57R5xuW1AqkRSmqJ3dnM6sCzec2jbdNkglb3rk2yvGLHrs2Y6HL2UNPllHNTc9DKyu1zfXN7UQUwNqNVWBvxgikGdX&new=1)
  > 报告下载地址: https://pan.baidu.com/s/1x85xZrAG6df4BcVkJqtcqw 提取码: 6ytv21世纪以来，21世纪以来，眼花缭乱的前沿科技新概念喷薄而出，从Web2.0、社交网络、物联网、移动互联网、大
 # IT 技术 
  ## [传统银行数字化转型之痛与应对之道](http://news.51cto.com/art/202004/613663.htm)
  > 传统银行数字化转型之痛与应对之道
- ## [自2012年以来DevOps发生了怎样的变化？](http://developer.51cto.com/art/202004/613648.htm)
- > 自2012年以来DevOps发生了怎样的变化？
  ## [惊呆了，RPC超时设置竟然引发了线上事故！](http://network.51cto.com/art/202004/613654.htm)
  > 惊呆了，RPC超时设置竟然引发了线上事故！
+ ## [从70万字SRE神作，我提炼出7千字精华与君共勉](http://os.51cto.com/art/202004/613658.htm)
+ > 从70万字SRE神作，我提炼出7千字精华与君共勉
+ ## [自2012年以来DevOps发生了怎样的变化？](http://developer.51cto.com/art/202004/613648.htm)
+ > 自2012年以来DevOps发生了怎样的变化？
+ ## [生产可用：是时候来一个微前端架构了！](http://developer.51cto.com/art/202004/613668.htm)
+ > 生产可用：是时候来一个微前端架构了！
  ## [管理员必知的六大配置管理工具](http://virtual.51cto.com/art/202004/613651.htm)
  > 管理员必知的六大配置管理工具
- ## [暗网经济引擎：流行的十大自动化攻击](http://zhuanlan.51cto.com/art/202004/613591.htm)
- > 暗网经济引擎：流行的十大自动化攻击
- ## [您需要知晓的20款测试工具库](http://news.51cto.com/art/202004/613580.htm)
- > 您需要知晓的20款测试工具库
- ## [面试被问“红黑树”，我一脸懵逼......](http://bigdata.51cto.com/art/202004/613570.htm)
- > 面试被问“红黑树”，我一脸懵逼......
- ## [脑机接口利器，从脑波到文本，只需要一个机器翻译模型](http://news.51cto.com/art/202004/613608.htm)
- > 脑机接口利器，从脑波到文本，只需要一个机器翻译模型
- ## [云计算或将为运营商带来“第二桶金”](http://cloud.51cto.com/art/202004/613666.htm)
- > 近期，三大运营商2019年财报相继出炉。在传统业务市场饱和、流量红利消失的大背景下，三大运营商都受到了不
- ## [物联网对于中国有何意义？物联网未来将如何发展？](http://iot.51cto.com/art/202004/613665.htm)
- > 物联网，被视为继互联网之后的又一次资讯技术革命浪潮，物联网所带来的资产价值将是互联网的数十倍，下一个
- ## [生产可用：是时候来一个微前端架构了！](http://developer.51cto.com/art/202004/613668.htm)
- > 随着前端越来越复杂，微前端的概念也越来越热，那么什么是微前端?如何应用微前端来改进现有的前端架构?有没
- ## [盘点国产操作系统，相比Windows实力差距有多大？](http://os.51cto.com/art/202004/613664.htm)
- > 就在3月20日，中国电子信息产业集团有限公司旗下麒麟软件有限公司召开云端发布会，工信部、天津市、国防科
- ## [居家办公小妙招！如何安全地使用Zoom，Slack和其他远程软件！](http://netsecurity.51cto.com/art/202004/613662.htm)
- > 由于当前冠状病毒大流行，远程办公已成为不可逆转的趋势，在这篇文章中，我们列举了一些流行的远程办公软件
- ## [为什么 JS 中的对象字面量很酷](http://developer.51cto.com/art/202004/613660.htm)
- > JS 中很多令人沮丧的问题都是逐步解决的。本文演示了 ES 6 如何解决上述问题，并使用额外的功能改进对象字
- ## [阿粉带你从零搭建一个属于自己的个人网站](http://developer.51cto.com/art/202004/613659.htm)
- > 很多小伙伴私信我，问我怎么弄一个个人博客系统，之前其实也聊过，不过没关系，今天我们再来详细的说一说。
- ## [从70万字SRE神作，我提炼出7千字精华与君共勉](http://os.51cto.com/art/202004/613658.htm)
- > SRE首先是一套方法论，它从传统运维中与稳定性相关的工作内容提炼出来进行升华，构建了SRE的方法论体系。冗
- ## [容器云平台一大技术难题：网络该选 SDN 还是 underlay，或者选……？](http://network.51cto.com/art/202004/613657.htm)
- > 容器云平台的网络一直是一个技术难题，是采用SDN网络还是桥接到Underlay网络;如果使用SDN网络，那么多的SDN
+ ## [科学家研发出“读心术”，直接将脑电波翻译成文本，错误率低至3%](http://news.51cto.com/art/202004/613675.htm)
+ > 科学家研发出“读心术”，直接将脑电波翻译成文本，错误率低至3%
  ## [没有目标的职业生涯就像在流浪，是死是活都交给老天爷了](http://news.51cto.com/art/202004/613656.htm)
- > 对身处职场的我们，对这些宏观动态和股市跌宕，固然没有经济学家和二级市场投资人那般敏锐，但是这些变化肯
+ > 没有目标的职业生涯就像在流浪，是死是活都交给老天爷了
+ ## [学不动了？麻省理工 CS 和 EE 网课开放了](http://news.51cto.com/art/202004/613695.htm)
+ > 疫情之下，麻省理工学院校长在 3 月上旬曾发通知，其中提到把本剩余课程全部转移到网上。
+ ## [Zoom客户端漏洞允许黑客窃取用户Windows密码](http://netsecurity.51cto.com/art/202004/613693.htm)
+ > Zoom开发至今，已经九年了。尽管Zoom是一种高效的在线视频会议工具，但就隐私和安全性而言，它似乎不够理想
+ ## [甲方观点：暴露面资产管理的“柳暗“与”花明”](http://zhuanlan.51cto.com/art/202004/613694.htm)
+ > 互联网暴露面资产的安全是网络安全管理工作中的重中之重，各大型企业都对其投入了巨大的技术和管理支撑，远
+ ## [高并发情况下Linux系统参数优化](http://os.51cto.com/art/202004/613692.htm)
+ > 众所周知在默认参数情况下Linux对高并发支持并不好，主要受限于单进程最大打开文件数限制、内核TCP参数方面
+ ## [黑客渗透前奏，信息收集之域名采集](http://netsecurity.51cto.com/art/202004/613691.htm)
+ > 在渗透测试的过程中进行信息收集是必不可少的一个流程，而信息收集中的对域名信息采集的详细程度也决定着渗
+ ## [你浏览的网站正在威胁你的安全](http://netsecurity.51cto.com/art/202004/613690.htm)
+ > 本文我们来谈谈什么样的网站是安全的，我们要怎样分辨网站的安全性。
+ ## [不要再问了，数据库不建议上Docker](http://database.51cto.com/art/202004/613689.htm)
+ > 近2年Docker非常的火热，各位开发者恨不得把所有的应用、软件都部署在Docker容器中，但是您确定也要把数据
+ ## [牛榜单：2019年十大ATT&CK攻击技术](http://zhuanlan.51cto.com/art/202004/613688.htm)
+ > 近日，安全软件公司Recorded Future分析了Mitre ATT&amp;CK知识库的技术、战术和程序(TTPs)推荐数据后，统计了
+ ## [目前中国网站服务端开发主要有PHP、asp.net、Java三种语言](http://news.51cto.com/art/202004/613687.htm)
+ > 通过各招聘网站招聘程序员的类型统计得出结果是目前中国网站服务端开发主要有PHP、asp.net、Java三种语言，
+ ## [微软中国CTO韦青：低代码/无代码时代已经到来](http://news.51cto.com/art/202004/613686.htm)
+ > 编程语言几年一变样，学了C、C++，还得跟上Python的潮流……，各大排行榜上，语言之争也是愈演愈烈，还架不
  ## [这些软件太强了，Windows必装！尤其程序员！](https://blog.csdn.net/sinat_33921105/article/details/103883774)
  > 这些软件太强了，Windows必装！尤其程序员！
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
- ## [一文带你看清 HTTP 所有概念](https://blog.csdn.net/qq_36894974/article/details/104044932)
- > 
+ ## [Python全栈 Linux基础之1.Linux初章](https://blog.csdn.net/CUFEECR/article/details/104061740)
+ > Python全栈 Linux基础之1.Linux初章
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
  > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
  ## [Python+OpenCV实时图像处理](https://blog.csdn.net/m0_38106923/article/details/103836242)
  > Python+OpenCV实时图像处理
  ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
  > 
- ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
- > 
  ## [一个程序在计算机中是如何运行的？超级干货！！！](https://blog.csdn.net/sinat_33921105/article/details/104047172)
  > 一个程序在计算机中是如何运行的？超级干货！！！
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
+ > 
  ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
  > 
  ## [轻松搭建基于 SpringBoot + Vue 的 Web 商城应用](https://blog.csdn.net/yunqiinsight/article/details/103817144)
  > 轻松搭建基于 SpringBoot + Vue 的 Web 商城应用
- ## [一文带你了解 HTTP 黑科技](https://blog.csdn.net/qq_36894974/article/details/104121817)
+ ## [Python全栈（四）高级编程技巧之4.元类编程、迭代器和生成器](https://blog.csdn.net/CUFEECR/article/details/104141713)
  > 
  ## [Spring框架|JdbcTemplate介绍](https://blog.csdn.net/weixin_43691058/article/details/104145703)
  > Spring框架|JdbcTemplate介绍
@@ -159,6 +167,8 @@ Facebook&#25512;&#20986;&#8221;&#23547;&#27714;&#24110;&#21161;&#8221;&#21151;&#
  > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
  ## [阿里面试，面试官没想到一个ArrayList，我都能跟他扯半小时](https://blog.csdn.net/qq_35190492/article/details/103883964)
  > 
+ ## [悼念前端大牛司徒正美](https://blog.csdn.net/csdnnews/article/details/105259922)
+ > 作者 | 伍杏玲出品 |程序人生（ID：coder_life）31日中午，看到网上前端大牛司徒正美突然病逝消息：我的第一反应是“怎么可能”“假的吧”。他很年轻，28日才发过朋友圈，前...
  ## [阿里开源 GNN 框架 Graph-Learn，实现了各类可复用模型和编程接口！](https://blog.csdn.net/csdnnews/article/details/105259923)
  > 近日，阿里巴巴开源了面向图神经网络（GNN）的框架Graph-Learn（GL，原AliGraph）。该框架由阿里内部团队研发，面向工业场景而设计，为当下主流GNN算法提供了基础运行框...
  ## [程序员不会SQL有多难？高级工程师：可能工作都找不到！](https://blog.csdn.net/csdnnews/article/details/105259925)
@@ -179,28 +189,69 @@ Facebook&#25512;&#20986;&#8221;&#23547;&#27714;&#24110;&#21161;&#8221;&#21151;&#
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头...
  ## [五大法则助你成为更出色的开发者｜原力计划](https://blog.csdn.net/csdnnews/article/details/105259941)
  > 作者 |三钻，责编 | 郭芮出品 | CSDN博客封图 |CSDN 下载于视觉中国在现在这个技术高速发展的时代，无论你是在校学生，还是技术职场中的精英，都会面临需要持续提升。但是如...
+# 人工智能 
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 # PM 
- ## [原型图绘制，不是画几张图就好了](http://www.woshipm.com/pmd/3616611.html)
- > 画原型是产品经理们的工作日常之一，不过每个行业每个公司关于输出原型的要求都不一样，如何结合场景具体输出就成了考验产品经理的一点，而要想输出好看的原型就更考验...
- ## [产品图标体系是如何炼成的？](http://www.woshipm.com/pd/3621592.html)
- > 本文从认知层面上，谈了谈图标的搭建和管理，来看看产品图标体系是如何炼成的~前不久我在讲标签栏专题的时候，有聊到过一次图标（可回顾：《了解图标规范，用Lottie动...
- ## [跨境支付（六）：商业模式](http://www.woshipm.com/it/3627040.html)
- > 针对跨境支付这个领域，有哪些模块可以作为盈利与收入的来源呢，又有哪些点能够发展形成一套商业模式呢？针对这些问题点，本文将告诉你答案。一、支付服务费1. 跨境...
- ## [都做免费直播课，唯学而思网校值得被“抄作业”](http://www.woshipm.com/operate/3634057.html)
- > 今年的特殊情况，在线教育行业是重大利好。各大平台纷纷使用免费、直播、体验营等形式获取用户，而在其中，学而思网校的表现尤其突出，其免费政策一直持续到现在，这背...
- ## [用户洞察：混沌信息中的灯塔](http://www.woshipm.com/operate/3627874.html)
- > 深刻的用户洞察，是混沌信息中的灯塔，指引我们在开放无边界的信息中找到适合的方向。文章大纲如下：一、为什么了解用户作为一个产品经理，需要掌握的技能有很多，...
+ ## [复盘分享：后台产品工作的难点与收获](http://www.woshipm.com/pmd/3623051.html)
+ > 笔者以自己负责的产品首页的后台模块设计、内容配置和老后台的优化等工作为例，复盘分享了工作内容中的不足、难点和收获。希望这部分心得能对同样做后台的产品同学有所...
+ ## [RPA是什么？解析AI和RPA结合方式和架构](http://www.woshipm.com/ai/3624725.html)
+ > 2019年至今，国产RPA企业已经陆续拿到融资，其中有三起集中发生在6月份，其中一起追加融资发生在8月份，保守估计，5个国产RPA企业融资总金额在8亿人民币上下，但市场估...
  ## [任务体系设计要点：既让用户玩起来、平台也不亏本](http://www.woshipm.com/pd/3632144.html)
  > 本文以如何设计一款对用户、平台都友好的任务体系为主题，并从以下内容进行展开：任务体系与用户激励体系、用户成长体系的概念和关系，设计任务体系的要点技巧，任务体...
- ## [如何从0搭建业务数据指标监控体系？](http://www.woshipm.com/pd/3632323.html)
- > 本文主要介绍了指标体系搭建的基本流程和常见误区，并结合一些例子做了指标体系搭建的说明。此文系把前日所做的分享整理成文，正文主要介绍了指标体系搭建的基本流程...
- ## [数字经济——新零售的新机会](http://www.woshipm.com/it/3631510.html)
- > 众多巨头入局的新零售至今仍是不温不火，这个方向是不是难见希望的曙光。而数字经济越行越稳健是否预示着新零售的风头已过。针对种种疑惑，笔者将给出答案。当数字经...
- ## [运营的短期主义：怎么做“新客户”和“新粉丝”的快速拉新？](http://www.woshipm.com/operate/3631329.html)
- > 时间就是金钱，因此运营光靠长期主义中输出各种内容未免有点过于闭门造车，而且效率不够高。这时候就需要加入各种各样的活动来辅助运营，达到拉新用户的目的，为后期转...
- ## [针对网易蜗牛读书增长策略，做竞品调研与优化](http://www.woshipm.com/evaluating/3627936.html)
- > 本文以网易蜗牛读书为对象，对其做了简要的产品分析，并重点结合竞品分析对比了增长策略的不同、优势劣势，进而总结出如何优化网易蜗牛读书增长策略的建议。一、「网...
- ## [火热报名丨比应届生更惨的是，已经裸辞准备转行产品的新人](http://www.woshipm.com/online/3637224.html)
- > 往年3、4月本是毕业求职的金三银四黄金时期，但今年，大家都陷入了一个迷茫又焦虑的时期。大家都说，今年这届毕业生太惨了！但事实上，比他们还惨的人还有……年前冲...
+ ## [疫情下我们为什么玩不出麦当劳logo隔离梗？](http://www.woshipm.com/marketing/3629890.html)
+ > 对中国营销人而言，我们的独创能力是不是像三体锁住地球人的基础物理理论一样，也被某种神秘的力量锁住了？和国内渐驱平稳的疫情形势相比，海外的疫情继续呈现失控的...
+ ## [22天粉丝突破350W，硬核老师B站爆红背后释放了哪些信号？](http://www.woshipm.com/it/3629534.html)
+ > 一个讲刑法的老师为何能让众多来自各行各业的用户纷纷上头呢？从他在B站爆红的背后，我们又能看出些什么？这是今日要探究的问题。如果你是B站用户，那么最近你对@罗翔...
+ ## [解析“微快递”小程序的交互流程](http://www.woshipm.com/ucd/3631531.html)
+ > 小程序凭借用完即走、无需独立下载等优点成为了饱受用户青睐的一种产品形式，而“微快递”更是人们在选择下单寄件的主要小程序之一。那么这个小程序在交互上有什么特点呢...
+ ## [限时免费 | 3天数据产品入门课，解构数据产品和数据产品经理](http://www.woshipm.com/online/3638678.html)
+ > 管理大师 Peter Drucker说过一句话非常好，他说：if you can’t measure it ，you can’t improve it（如果你无法衡量，你就无法增长）在当今移动互联网...
+ ## [盘点「首页金刚区」的推荐应用设计形式](http://www.woshipm.com/pd/3631217.html)
+ > 首页金刚区，是用户进入app后第一眼看到的模块，因此承担着产品功能导航和业务导流的任务。那么针对金刚区中的推荐应用设计中，一般可以采用什么形式呢？它们又有什么好...
+ ## [社交App大战，浑水中依然没有赢家](http://www.woshipm.com/it/3622990.html)
+ > 一些社交 App尝试改变流量现状，而具有流量优势的头部的社交App会对那些“觊觎”流量的App进行关门式的猛击。尝试与打击构成了社交App大战的重要战线，也促成了大战的混乱...
+ ## [拆解多抓鱼的定位游戏：如何在二手书电商细分市场上，开辟自己的领土？](http://www.woshipm.com/operate/3628642.html)
+ > 多抓鱼如何创造心智空位，占据用户心智资源？笔者结合里斯·特劳斯的《定位》，拆解多抓鱼的定位游戏。3月，多抓鱼官方微博发布，即将在上海开第二家线下体验店。2018...
+ ## [百度面试经验-海外商业化产品经理](http://www.chanpin100.com/article/111198)
+ > 坚持自己，人人都可以进BAT做产品！
+ ## [产品设计|奖品发放规则如何控制成本及风险？](http://www.chanpin100.com/article/111197)
+ > 营销活动是用户运营很重要的一部分，它能帮助我们达成拉新、促活、转化等目标。而在其中撬动用户完成某些行为的支点则是奖品。而在发放奖品的时绕不过的总是成本和风险，前者是希望同样的投入能为平台创造更多的价值，后者则是避免损失。
+ ## [只读了一年书的产品经理感悟](http://www.chanpin100.com/article/111196)
+ > 读书的第一年，谈谈对我影响比较大的作者们。
+ ## [Mob研究院|2020年2月生鲜电商App榜单](http://www.chanpin100.com/article/111193)
+ > 疫情期间生鲜电商行业的发展——整体安装渗透率明显高于去年
+ ## [Mob研究院｜互联网医疗App排行榜](http://www.chanpin100.com/article/111192)
+ > 互联网医疗排行榜出炉，“大白”为我们的健康保驾护航！
+ ## [打造一个小而美的产研团队--提升团队的能效，从而实现更高的团队产能](http://www.chanpin100.com/article/111189)
+ > 如何衡量或者量化一个方法论对团队带来的价值？比如：给某个团队推广敏捷的方法论，如何制定推广后带来的价值目标？或者衡量带来的价值体现？作为部门leader：如何打造一个小而美的产研团队，从而提升团队的能效、实现更高的团队产能？本文对这些问题进行了思考与解读
 
     
