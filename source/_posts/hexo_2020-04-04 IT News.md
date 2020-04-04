@@ -1,20 +1,24 @@
 ---
 title: 2020-04-04 IT News
 copyright: true
-date: 2020-04-04 10:02:41
+date: 2020-04-04 12:01:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [李毅中谈“新基建”](http://mp.weixin.qq.com/s?src=11&timestamp=1585965605&ver=2257&signature=-kGjdhgQ6kBFDEAn9fDQua1ozdd8YASRwyrAarxeHzRQzAjr29SMSQYLO8k1kv2tFPPRLgHbBrUaPY7dsXvnmsQvaS*o0Jf4KelLCwB62xw2M*ADA1jGypDj*AMOStsm&new=1)
- > 一、准确把握“新基建”的内涵与外延“新基建”是指新型基础设施建设，有着鲜明的时代特征。在全国固定资产投资中，基础设施建设(不含电力)约占24%。“新基建”是基础设施建设的一部分，具有三个特征：一是新技...
- ## [定了!联通迎重大利好，中国移动将在5月底前..](http://mp.weixin.qq.com/s?src=11&timestamp=1585965605&ver=2257&signature=FmZdHEfxc9Lviw8e4L52oJyaipfV7hMcEjvSj*C*Iv4o2kWcHNrDNqIKJcGRNY5kko*M7F7*bck51XqsRHqhsdeoL8qDaX90df3CqAhCc9QVDQFtWdj82bfenmVZBIDd&new=1)
+ ## [200000个网站管理员访问权限受威胁 WordPress插件存在严重RCE错误](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=amWjnezJ8L0-fqRvwDRsZGuOWOqj0HgiCoG16QcQ1CxDnwnRBQ3SgOS9jLzwn3SRpzGmISpqqmfrRj*yvmJQfjtZgtXZGH6EqcgR6OSo-k5EDNygi8EcZ1oheqzVSsvJ&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月4日讯，近日据外媒报道，Wordfence研究人员在WordPress SEO插件的Rank Math系统中发现了两个RCE漏洞。根据研究，黑客可以通过这两个漏
+ ## [定了!联通迎重大利好，中国移动将在5月底前..](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=FmZdHEfxc9Lviw8e4L52oJyaipfV7hMcEjvSj*C*Iv4dG7KTkTUTvnBeOka1afQzsVAXQpebroL-Od-w51OoauihPHhS*L95fBUAS5A6jlLlOX7kqYLY9i3*PCVcsb8k&new=1)
  > 据网友爆料：今天，移动在209个城市完成退5兆低频给联通，移动还剩39个城市在今年5月底移动退频！在新获得5M频谱之后，中国联通将会拥有超过10MHz的低频频段，可以有效承载传统GSM语音、LTE900数据、NB-IoT广连...
- ## [中国全产业链共同合作，助力华为打破美国限制](http://mp.weixin.qq.com/s?src=11&timestamp=1585965605&ver=2257&signature=kC4tXlO5WizDf2UztMDo3Xk4mI8dnZk45tAJXvwbhtyx-tcyTYKkG1vDUZuS1qCEMv15468MuKWXTkrKGxk8nN0rHAbBchpfic3FF3PWbvyHTXo7SLXfisTgBBU7FQRj&new=1)
+ ## [中国全产业链共同合作，助力华为打破美国限制](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=kC4tXlO5WizDf2UztMDo3Xk4mI8dnZk45tAJXvwbhtyEx26tJYsX0Li8GLRFCgWGMdV0xfG7EezPTAM-YBHZ*uTWUXFfZJY2JDmPJdRZE8t8szgnhY3cQ-EUMmJ5WiKq&new=1)
  > 近期有消息指美国计划采取进一步的行动，限制中国台湾的台积电为华为代工芯片，试图借此进一步限制华为的发展，这激发了中国制造业同行的愤慨，它们正全力合作支持华为打破美国的限制。目前华为的芯片普遍采用台...
- ## [遇见·生态|华为CSSP实践，共建华为云服务生态](http://mp.weixin.qq.com/s?src=11&timestamp=1585965605&ver=2257&signature=snvjZBRKzSglhW-QlnlEveY1bOR3g4ngnxjxsvFSTPiSr699X*sQy9z5OLOSHIzq7kx4ejhCDQ8rVpUvNWfnC6NWS7zvAxkVP6sLf0CsxoRlNBkELxU8ldvTNvrl*2tT&new=1)
+ ## [4 月 4 日举行全国性哀悼活动，下半旗、全国人民默哀 3 分钟；腾讯、网易等游戏公司停服一天配合哀悼|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=uWvxU*1x42A9nVODTU8uAD5qLCFDPfTZxUlxfLM8GwIeUgs2Lzan8HgaoX5V4SHOPc-7pjVYPFp6-DdgsVVRHW5zMUPNd-TyJ9UdtuqazcaZ-*OdZJjF*ThIMX*h5Htd&new=1)
+ > 4 月 4 日举行全国性哀悼活动，下半旗、全国人民默哀 3 分钟为表达全国各族人民对抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞的深切哀悼，国务院决定，2020 年 4 月 4 日举行全国性哀悼活动。在此期间，全国和驻外...
+ ## [李毅中谈“新基建”](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=-kGjdhgQ6kBFDEAn9fDQua1ozdd8YASRwyrAarxeHzT4knyzF6cgfj64CCTNkCtElsMG687UXN*RzXGfmRtyOa1D8JjsLsg9LVNO2hkBNDbPq367azPyineUHwC5ec-Q&new=1)
+ > 一、准确把握“新基建”的内涵与外延“新基建”是指新型基础设施建设，有着鲜明的时代特征。在全国固定资产投资中，基础设施建设(不含电力)约占24%。“新基建”是基础设施建设的一部分，具有三个特征：一是新技...
+ ## [遇见·生态|华为CSSP实践，共建华为云服务生态](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=snvjZBRKzSglhW-QlnlEveY1bOR3g4ngnxjxsvFSTPgRISH7R-YvSEjd25PMhKgN7CnXFqEBzyYLadH6BxgH8Wt8DcYbhnYtuCzPDFX5*XCGfUny0wB6bGJ8syisYPkk&new=1)
  > 相关链接遇见 · 生态 | 华为与中建材联合服务解决方案
- ## [亚马逊暂停出售N95口罩丨港股神州租车停牌\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585965605&ver=2257&signature=C*5OhvshHfauFUYyRoZU0eCEIE7X3o1rSIxy70JnqnQFoQVv0Gk09x4M69IcmEQ5z87y2a-mHivb4C-HBQajRZCk8zPpXOw8VQsA8aJVBNdrSTr-eFbR5hXbUdAKHXjO&new=1)
+ ## [亚马逊暂停出售N95口罩丨港股神州租车停牌\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1585971004&ver=2257&signature=C*5OhvshHfauFUYyRoZU0eCEIE7X3o1rSIxy70JnqnTIsPriUJt52-RURXCpyEvkcm*PnIoAmh*Ngp0Dcs2VRPsFP7TXMe3WCQOH4aEh5WqOIiqyZfrbs2rPAowwLSgK&new=1)
  > 4月3日丨周五【Do说】编辑 | 赵艾虎亚马逊：暂停供出售N95口罩 优先支持医疗机构等3日，亚马逊宣布停止N95口罩等医疗必需品的售卖，将集中向医院、政府机构等团体提供供应据外媒报道，亚马逊表示，对N95口罩、外...
 # IT 技术 
  ## [讲真！开发者要了解的微前端架构](http://developer.51cto.com/art/202004/613738.htm)
@@ -37,7 +41,7 @@ categories: IT NEWS
  > 这些软件太强了，Windows必装！尤其程序员！
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
- ## [工作十年的数据分析师被炒，没有方向，你根本躲不过中年危机](https://blog.csdn.net/yuanziok/article/details/104015372)
+ ## [开源我的3D库WxGL：40行代码将疫情地图变成三维地球模型](https://blog.csdn.net/xufive/article/details/104211044)
  > 
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
  > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
@@ -51,6 +55,8 @@ categories: IT NEWS
  > 
  ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
  > 
+ ## [用Python打造你的专属情人节贺卡，赶快发给TA浪漫一下吧](https://blog.csdn.net/xufive/article/details/104299791)
+ > 
  ## [Spring框架|JdbcTemplate介绍](https://blog.csdn.net/weixin_43691058/article/details/104145703)
  > Spring框架|JdbcTemplate介绍
  ## [非典逼出了淘宝和京东，新冠病毒能够逼出什么？](https://blog.csdn.net/loongggdroid/article/details/104120869)
@@ -59,65 +65,39 @@ categories: IT NEWS
  > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
  ## [阿里面试，面试官没想到一个ArrayList，我都能跟他扯半小时](https://blog.csdn.net/qq_35190492/article/details/103883964)
  > 
- ## [翻遍100个网站，为你找到了2019年最好看的18张数据可视化](https://blog.csdn.net/yuanziok/article/details/103903160)
- > 翻遍100个网站，为你找到了2019年最好看的18张数据可视化
- ## [2020年一线城市程序员工资大调查](https://blog.csdn.net/juwikuang/article/details/103840385)
+ ## [Python实战：病毒困我于斗室，桌面带我去旅行](https://blog.csdn.net/xufive/article/details/104106627)
  > 
- ## [互联网之父确诊新冠，一代传奇：任谷歌副总裁、NASA 访问科学家](https://blog.csdn.net/csdnnews/article/details/105304536)
- > 作者 | 年素清责编 | 伍杏玲出品 | 程序人生（ID：coder_life）封图 | 东方IC据外媒最新消息，谷歌公司副总裁兼首席互联网专家、有“互联网之父”之称的温顿·瑟夫（Vi...
- ## [程序员必知的 89 个操作系统核心概念](https://blog.csdn.net/csdnnews/article/details/105304538)
- > 作者 |cxuan来源 | Java建设者（ID：javajianshe）封图 | 东方IC1. 操作系统（Operating System，OS）：是管理计算机硬件与软件资源的系统...
- ## [我敲的不是代码，而是……](https://blog.csdn.net/csdnnews/article/details/105304539)
- > 作者 |LanRaccoon译者 | 弯月，责编 | 伍杏玲头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）以下为译文：程序员的工作是写代码，但我们的...
- ## [“深圳疫情防控系统”服务10万人，背后有什么开发神器](https://blog.csdn.net/csdnnews/article/details/105295570)
- > 服务了百万开发者后，“小程序·云开发”开始为多端应用提供服务。4月3日，腾讯云宣布，云开发（CloudBase）已经支持小程序、小游戏、移动App、Web、H5等多端应用。开发者可通过云开发控制台，实现“一次开发、多端运行”。同时，通过云开发，开发者可以一键调用腾讯云的多项扩展能力。作为腾...
- ## [微软为一人收购一公司？破解索尼程序、写黑客小说，看他彪悍的程序人生！...](https://blog.csdn.net/csdnnews/article/details/105304533)
- > 作者 | 伍杏玲出品 | CSDN（ID：CSDNnews）格子衬衫、常掉发、双肩包、修电脑、加班多……这些似乎成了大众给程序员的固定标签。近几年流行的“跨界风”开始刷新人们对程序员的...
- ## [Google 开源可大规模扩展的深度强化学习新架构 SEED RL](https://blog.csdn.net/csdnnews/article/details/105304534)
- > 图源：Google AI 官博作者 | Jesus Rodriguez译者 |弯月，责编 | 夕颜出品 | CSDN（ID：CSDNnews）如今，深度强化学习（Dee...
- ## [震惊！这样终止线程，竟然会导致服务宕机？](https://blog.csdn.net/csdnnews/article/details/105304535)
- > 作者 | 老王在开始之前，我们先来看以下代码会有什么问题？public class ThreadStopExample {    public static void main(Str...
- ## [女朋友学高数，我花了 15 分钟用栈给她写了一个计算器 | 原力计划](https://blog.csdn.net/csdnnews/article/details/105304537)
- > 作者 |天才程序YUAN责编 | 夕颜头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）前记女朋友说：“高数好难，看我最近挺辛苦的，你送我一个礼物给我...
- ## [iPhone11 全线降价；哈啰出行否认大量裁员；LineageOS 17.1 发布| 极客头条](https://blog.csdn.net/csdnnews/article/details/105304529)
- > 整理 | 屠敏头图 | CSDN 下载自东方 IC「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧...
- ## [科技公司都是如何应对 COVID-19？](https://blog.csdn.net/csdnnews/article/details/105304530)
- > 面对新冠状病毒，Google、苹果、优步、微软、Facebook、英特尔、思科、IBM、三星、Slack等科技巨头都采取了哪些措施？作者 |Syndicode译者 | 弯月，责编 |...
- ## [4 年 46 个版本，一文读懂 Spring Cloud 发展历史](https://blog.csdn.net/csdnnews/article/details/105304531)
- > 作者 | 方剑责编 | 唐小引头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）Spring Cloud 自 2016 年 1 月发布第一个 Angel....
- ## [别吹了！Python程序员正在消失！ 资深CTO：你才发现？](https://blog.csdn.net/csdnnews/article/details/105304532)
- > @程序员你有没有感觉到，Python最近已经刷屏到爆炸了？细分析Python之所以刷屏，主要是因为人红是非多，在编程界它是一种特殊的存在，有人认为，只有用Python才能优雅写代码，...
 # 人工智能 
- ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
- > android 常见面试题（三）
- ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
- > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
- ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
- > Android~adb卸载系统预装应用（亲测有效）
- ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
- > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
- ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
- > AS-修改APP图标和名字
- ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
- > android开发：小米手机开发时非要sim卡才能调试怎么办？
- ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
- > android.media.MediaCodec$CodecException: Error 0xfffffc0e
- ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
- > 安卓APP的http访问权限
- ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
- > flutter 的像素尺寸
- ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
- > googlePlay 找不到发布的应用
- ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
- > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
- ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
- > 使用FlexboxLayoutManager来实现流式布局
- ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
- > 电电帮手机维修就是坑爹，大家不要信
- ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
- > android.view.InflateException Error inflating class android.webkit.WebView
- ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
- > Unity | 总结：OCR文字识别、公式识别
+ ## [那年我离开京东、来到高校，走出一条不一样的技术路线](https://blog.csdn.net/qq_34666857/article/details/105263891)
+ > 
+ ## [双目视觉之立体校正](https://blog.csdn.net/Xiao_Jie123/article/details/105262164)
+ > 
+ ## [Beginer入门：1D,2D,3D卷积的区别原来是这样](https://blog.csdn.net/MrCharles/article/details/105299218)
+ > 
+ ## [操作系统](https://blog.csdn.net/qq_45331873/article/details/105287075)
+ > 操作系统
+ ## [解决过拟合：如何在PyTorch中使用标签平滑正则化](https://blog.csdn.net/m0_46510245/article/details/105267655)
+ > 
+ ## [超硬核！！！一篇文章搞定TCP、UDP、Socket（详细网络编程内容+现实解释三次握手四次挥手+代码示例）【网络编程 1】](https://blog.csdn.net/weixin_43122090/article/details/105297532)
+ > 超硬核！！！一篇文章搞定TCP、UDP、Socket（详细网络编程内容+现实解释三次握手四次挥手+代码示例）【网络编程 1】
+ ## [近期感悟](https://blog.csdn.net/weixin_44689154/article/details/105275771)
+ > 近期感悟
+ ## [学习51单片机之前需要的基础学科](https://blog.csdn.net/qq_42882085/article/details/105300218)
+ > 学习51单片机之前需要的基础学科
+ ## [《C语言经典编程365例》023](https://blog.csdn.net/goldentec/article/details/105283279)
+ > 《C语言经典编程365例》023
+ ## [windows——win10如何远程控制另一台电脑](https://blog.csdn.net/cldimd/article/details/105278813)
+ > windows——win10如何远程控制另一台电脑
+ ## [程序员必知的 89 个操作系统核心概念](https://blog.csdn.net/qq_36894974/article/details/105229665)
+ > 
+ ## [计算机网络体系结构？TCP/IP协议？这些你都知道多少？](https://blog.csdn.net/qq_37084904/article/details/105266866)
+ > 
+ ## [疫情当下，写给迷茫IT大学生的一封信](https://blog.csdn.net/qq_41464123/article/details/105277736)
+ > 
+ ## [01 . 计算机要点  2020.4.1](https://blog.csdn.net/weixin_46603860/article/details/105208681)
+ > 01 . 计算机要点  2020.4.1
+ ## [别看了！我们该认认真真写博客了…](https://blog.csdn.net/weixin_45761327/article/details/105254169)
+ > 
 # PM 
  ## [这杯咖啡太苦！“国货之光"瑞幸可不能倒啊！](http://www.chanpin100.com/article/111233)
  > 你还不赶紧点杯瑞幸咖啡？
