@@ -1,21 +1,21 @@
 ---
 title: 2020-04-05 IT News
 copyright: true
-date: 2020-04-05 09:01:23
+date: 2020-04-05 10:01:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [虽然挂掉了套餐推销电话，但我对5G依然充满信心!](http://mp.weixin.qq.com/s?src=11&timestamp=1586046649&ver=2259&signature=Qd5jT5PmNsBySk5fNqdPm1kr0uD3U6ep6SfBijx1yPbaETEXIqkDc3YdJ0kcBWN4OrHFPZ0lgYZKBDpGSVxBUg9qEO5Aj582Xna5sfdnSc1IYUmDXYQVNQv27MLCX6Ms&new=1)
- > 今年以来，5G成为“新基建”部署的排头兵，在国常会上多次被提及，重要性不断凸显。工信部则在近日发布了《关于推动5G加快发展的通知》，从政策层面全方位推动5G发展；三大运营商先后宣布了2020年资本开支计划，...
- ## [0中标!诺基亚贝尔落选中国移动5G招标却发函给中国联通](http://mp.weixin.qq.com/s?src=11&timestamp=1586046649&ver=2259&signature=Gr8E3aFoYidsM4wrNqJVrhKZkQZVlw0m8JH3dqLxaLYWKjNae5qoVHL4AmnKBNG1JZ2UvwHl5DnimpbDLVGAlJTlwA0CI1l087S3BhsHSb4=&new=1)
+ ## [0中标!诺基亚贝尔落选中国移动5G招标却发函给中国联通](http://mp.weixin.qq.com/s?src=11&timestamp=1586052004&ver=2259&signature=Gr8E3aFoYidsM4wrNqJVrhKZkQZVlw0m8JH3dqLxaLZIfztPnq2VzCCXOqLkmImXyBNIUhEUS-NYL2sfZ5URfFqr6OBnJaSBj5Esc6EFsvg=&new=1)
  > 经济观察网  记者  钱玉娟 在得知落选中国移动2020年5G二期无线网主设备招标后，上海诺基亚贝尔股份有限公司（下文统称“诺基亚贝尔“）转身便给中国联通发去“求助”函件。4月2日，经济观察网记者获得了一份诺...
- ## [大数据和人工智能师资紧缺?云创大数据提供免费直播教学](http://mp.weixin.qq.com/s?src=11&timestamp=1586046649&ver=2259&signature=Cu32r7qJipiJOYJHzU-pxO303NvKMwg8oUdGAVEXsKw2OWQ-5GIX7bEXHq2ZSuXwuZZr3QNqLsGYjzpLJ3*laLfm1XmgTWMYaM9*51YjFFO9J6Mm6lXXkS4wpstOAaQh&new=1)
+ ## [大数据和人工智能师资紧缺?云创大数据提供免费直播教学](http://mp.weixin.qq.com/s?src=11&timestamp=1586052004&ver=2259&signature=Cu32r7qJipiJOYJHzU-pxO303NvKMwg8oUdGAVEXsKxfQijKyzpOvFQcJ55zJRaxG*APZzEDTB0s807P9XCvH7CsjYMTJMcRCA1SqHwYa8gW*FF3TCrVn8tCNZF6J5B*&new=1)
  > 目前，大数据、人工智能产业高歌猛进，专业人才成为企业、高校、研究机构千金难买的稀缺资源。据媒体报道，大数据、人工智能人才空缺，大数据人才供求比为1:14，人工智能人才的供求比例仅为1：10，人才缺口十分...
- ## [独家：蔡康任中国电信研究院党委委员 一下子列副院长吴湘东之前](http://mp.weixin.qq.com/s?src=11&timestamp=1586046649&ver=2259&signature=he6qSSUv7QXFCDq-J7E*dncph1psy*M2aBMRGfBygK4vLJcsPXJ-gytuC-UEnRnW*L51HSP4tIhmeZ4eDNxMcPG6dq-58UuhrNuKcT*C1TZvk1SoKoIeYFKnqMrOtrGQ&new=1)
- > 运营商财经网 吴碧慧/文据知情人士向运营商财经网独家透露，中国电信智能网络与终端研究院院长蔡康将兼任中国电信研究院委员，列吴湘东之前。 三大研究院的院长都挂上了中国电信研究院党委委员运营商财经网获悉...
- ## [全球网络大瘫痪，只有中国没中招](http://mp.weixin.qq.com/s?src=11&timestamp=1586046649&ver=2259&signature=Gq4nY4ZHK-e2NA0Wfq*2szH4LFLZsfGWc0rdJzlqYT-HDulFR0ccWL*ksIZOu5BJiNYQ5TILqOl90WYTjAOcr5L4cRqnJCi-PpuHluaDA5oKUXEGgG3eAYvv1j167htv&new=1)
+ ## [虽然挂掉了套餐推销电话，但我对5G依然充满信心!](http://mp.weixin.qq.com/s?src=11&timestamp=1586052004&ver=2259&signature=Qd5jT5PmNsBySk5fNqdPm1kr0uD3U6ep6SfBijx1yPaEWq-P2fWaEjqfOJ*dLpHnn*1VmQIbQdsKfZvr15IS2tqp6AcQHd9t62LOhuGXsookvgXFVwktgBEfzmKFpQhD&new=1)
+ > 今年以来，5G成为“新基建”部署的排头兵，在国常会上多次被提及，重要性不断凸显。工信部则在近日发布了《关于推动5G加快发展的通知》，从政策层面全方位推动5G发展；三大运营商先后宣布了2020年资本开支计划，...
+ ## [全球网络大瘫痪，只有中国没中招](http://mp.weixin.qq.com/s?src=11&timestamp=1586052004&ver=2259&signature=Gq4nY4ZHK-e2NA0Wfq*2szH4LFLZsfGWc0rdJzlqYT-qA*1muPuDacn5L8YPGMyRedt*gN8YT2hUOSOodCTbK3adjbuj89wfFKt3BUOVY7M1vABK6BTjTEi2xArRi9fu&new=1)
  > 一场疫情，把不少年轻人，硬生生给按在家里。啥也干不了，最大的乐趣，大概就是网上冲浪吧。不过嚯，这种乐趣对国外网友来说，有辣么一丢丢奢侈。 原因非常简单，网络太卡啊。（外媒：疫情期间网速变慢）事情是...
+ ## [独家：蔡康任中国电信研究院党委委员 一下子列副院长吴湘东之前](http://mp.weixin.qq.com/s?src=11&timestamp=1586052004&ver=2259&signature=he6qSSUv7QXFCDq-J7E*dncph1psy*M2aBMRGfBygK61u-v5BIhdWLgdH5OdKKsxTgQKZw1eoyFKgY0sEyO8bHoEWKpB*M98BCaZPcM4wStCpoBHEOFYHo4x7BlOtT6g&new=1)
+ > 运营商财经网 吴碧慧/文据知情人士向运营商财经网独家透露，中国电信智能网络与终端研究院院长蔡康将兼任中国电信研究院委员，列吴湘东之前。 三大研究院的院长都挂上了中国电信研究院党委委员运营商财经网获悉...
 # IT 技术 
  ## [讲真！开发者要了解的微前端架构](http://developer.51cto.com/art/202004/613738.htm)
  > 讲真！开发者要了解的微前端架构
@@ -64,35 +64,35 @@ categories: IT NEWS
  ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
  > 谁是华为扫地僧？
 # 人工智能 
- ## [我才22岁，我再玩一年又能怎么样？等我23岁的时候，一定给你活出个人样](https://blog.csdn.net/shouchenchuan5253/article/details/105233786)
- > 我才22岁，我再玩一年又能怎么样？等我23岁的时候，一定给你活出个人样
- ## [Unity 游戏框架搭建 2019 (十七、十八) Transform 重置与概率函数](https://blog.csdn.net/u010125551/article/details/105285844)
- > Unity 游戏框架搭建 2019 (十七、十八) Transform 重置与概率函数
- ## [算法——凸包面积](https://blog.csdn.net/qq_45703420/article/details/105228167)
- > 算法——凸包面积
- ## [LeetCode 每日一题 289. 生命游戏 详细题解 C++描述](https://blog.csdn.net/qq_43422111/article/details/105262036)
- > LeetCode 每日一题 289. 生命游戏 详细题解 C++描述
- ## [2020美团校招](https://blog.csdn.net/shujiaw/article/details/105278604)
- > 2020美团校招
- ## [美团笔试——空间回廊（c++）](https://blog.csdn.net/qq_36360113/article/details/105283985)
- > 美团笔试——空间回廊（c++）
- ## [基于Java的坦克大战游戏（学习Java必备！！！）](https://blog.csdn.net/JavaToShare/article/details/105256752)
+ ## [PBFT算法简介](https://blog.csdn.net/ganzr/article/details/105276253)
+ > PBFT算法简介
+ ## [PI币节点试运行(20200401)](https://blog.csdn.net/weixin_44960315/article/details/105264338)
+ > PI币节点试运行(20200401)
+ ## [想自己做个搜索引擎吗？——搜索引擎最常用的存储数据结构字典树详解（Trie树，前缀树）](https://blog.csdn.net/qq_45877524/article/details/105286472)
  > 
- ## [python pygame 简单小游戏](https://blog.csdn.net/sakura55520/article/details/105231120)
- > python pygame 简单小游戏
- ## [Godot Engine：用call_deferred线程安全地调用一个方法](https://blog.csdn.net/hello_tute/article/details/105295962)
- > Godot Engine：用call_deferred线程安全地调用一个方法
- ## [pygame飞机大战](https://blog.csdn.net/SMZ1126/article/details/105290635)
- > pygame飞机大战
- ## [字节跳动与腾讯实习面试总结](https://blog.csdn.net/HerosOfEarth/article/details/105284045)
- > 字节跳动与腾讯实习面试总结
- ## [2.Rust编程初体验](https://blog.csdn.net/qq_23905237/article/details/105273195)
- > 2.Rust编程初体验
- ## [线性表练习之ZUMA](https://blog.csdn.net/FirstOfSky/article/details/105274714)
- > 线性表练习之ZUMA
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [P3386 【模板】二分图最大匹配 题解](https://blog.csdn.net/bifanwen/article/details/105273677)
- > P3386 【模板】二分图最大匹配 题解
+ ## [appium遇到的坑之报错：An unknown server-side error occurred while processing the command. Original](https://blog.csdn.net/weixin_46457203/article/details/105302863)
+ > appium遇到的坑之报错：An unknown server-side error occurred while processing the command. Original
+ ## [\[UVM\]UVM RAL Predictor](https://blog.csdn.net/gsjthxy/article/details/105298754)
+ > \[UVM\]UVM RAL Predictor
+ ## [学习笔记(11):C急速入门-变量类型-数字类型](https://blog.csdn.net/weixin_44944420/article/details/105285775)
+ > 学习笔记(11):C急速入门-变量类型-数字类型
+ ## [Markdown语法](https://blog.csdn.net/weixin_45405099/article/details/105292705)
+ > 
+ ## [Java 实现发送短信 短信API调用](https://blog.csdn.net/walking56849/article/details/105286050)
+ > Java 实现发送短信 短信API调用
+ ## [嵌入式linux之go语言开发（十三）LittlevGL，漂亮的嵌入式GUI的go语言绑定](https://blog.csdn.net/qq8864/article/details/105275874)
+ > 嵌入式linux之go语言开发（十三）LittlevGL，漂亮的嵌入式GUI的go语言绑定
+ ## [【AI 技术生态论】香港科大理学院院长汪扬教授：机器学习数学哲理和加密算法与应用](https://blog.csdn.net/weixin_45152865/article/details/105288999)
+ > 
+ ## [区块链的工作量证明（Proof of Work）初步解释](https://blog.csdn.net/qq_32146369/article/details/105266860)
+ > 区块链的工作量证明（Proof of Work）初步解释
+ ## [杏子语录（2020年04月）](https://blog.csdn.net/weixin_44135121/article/details/105261479)
+ > 杏子语录（2020年04月）
+ ## [Fabric v2.0 通道(channel)创建后的配置修改——新增组织](https://blog.csdn.net/ice_fire_x/article/details/105250090)
+ > 
+ ## [CasperLabs 社区周会 (Mar 31)](https://blog.csdn.net/CasperLabs/article/details/105301459)
+ > CasperLabs 社区周会 (Mar 31)
+ ## [以太坊学习第一天](https://blog.csdn.net/xiaoyue2019/article/details/105300294)
+ > 以太坊学习第一天
 
     
