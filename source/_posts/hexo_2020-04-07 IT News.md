@@ -1,22 +1,30 @@
 ---
 title: 2020-04-07 IT News
 copyright: true
-date: 2020-04-07 08:00:53
+date: 2020-04-07 09:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [运营商5G智能专网策略研究](http://mp.weixin.qq.com/s?src=11&timestamp=1586217604&ver=2263&signature=oUmWFhHa90IFHQyw2RpuQKylYjahlW4NR3YvR9hfjDxI7ShSL2oIETnbv9EXTg6mKmlCwSZDScRm0jJTlQQSrtj-xtHJKJocURYaCskedNh353SRB7HS82m7H7ZdANUg&new=1)
- > 本文经《邮电设计技术》授权发布如需要转载，请联系《邮电设计技术》获取授权邮电设计技术公众号：ydsjjs，欢迎关注！摘要：随着5G商用和智慧城市的大规模建设，市场对于无线专网有巨大的需求和动力。运营商通过...
- ## [真的来了!刚刚，三大运营商联合重磅宣布…](http://mp.weixin.qq.com/s?src=11&timestamp=1586217604&ver=2263&signature=Netfpr5P4s0xUGXzvkPqtGbGxO56NksHr4BV2HDzMoYc6AVXnXz-mn3ruKwhN5iRFuz9u1w2OEU-emB4TeZUjY-WGv*p6c2E-9v2TuTGJGq3sraA7r7mKmgUUkCk5GUo&new=1)
- > 据消息透露，4月8日10:00，中国电信将与中国移动、中国移动联合发布5G消息白皮书！5G已来，传统短信将如何华丽变身？  一起期待，我们等你！ 刚刚，三大运营商重磅宣布：将在4月8日，中国电信将与中国移动、中国...
- ## [米10海外版包装语争议：华为玻璃心，小米的暧昧?](http://mp.weixin.qq.com/s?src=11&timestamp=1586217604&ver=2263&signature=OgFXn44I9DL4VQrYYMVHkZvTVIBLAg0ipFF4L0ATG0vrXlUFBWJKpUbl3b-0m3lnTFxnNjzL7rM-wgAmltkq9tseBnb9DTfxMRLp6etGeSwIv4TY8x7X0GPPwJ4IbZbK&new=1)
- > 将小米10海外版包装盒上“with easy access to the Google apps you use most”一句理解为嘲讽华为，颇有些诛心。毕竟很容易裹挟民粹主义情绪。如果是华为自身的思维，那太玻璃心了。不过，这话题仍对小米
- ## [小米表示愿意采用华为的芯片，这下华为陷入了两难境地!](http://mp.weixin.qq.com/s?src=11&timestamp=1586217604&ver=2263&signature=FZye5ihWnTsq96YAuGY*Z4NwQ322I2VP4s*FlYemISFbc8JznKuq7uK14us*HeFajUhWc66HeX*N8e243qUOM0Own0Z4lVbXkQpyy6FZmkTHbnt-kKU08ij4ys2sRlQ4&new=1)
+ ## [小米表示愿意采用华为的芯片，这下华为陷入了两难境地!](http://mp.weixin.qq.com/s?src=11&timestamp=1586221204&ver=2263&signature=FZye5ihWnTsq96YAuGY*Z4NwQ322I2VP4s*FlYemISFdmolBfWo*PQWovNnFsIh6QsEpiiInNyjFBva-b5aRGpH4CPI6p8N5GAgxAzm9kbPNLqHLAMpeIf-jOMqaf5Li&new=1)
  > 小米高管表示只要华为愿意对它开放海思芯片和鸿蒙系统，那么它就愿意采用，面对小米抛出的橄榄枝，华为该接还是不接都是两难。对于国产手机企业与华为合作的问题，其实业界期待已久，而其中小米与华为作为直接竞...
- ## [“新基建”7大产业链全景图+500家企业名单!](http://mp.weixin.qq.com/s?src=11&timestamp=1586217604&ver=2263&signature=rCio0Svn6ijnNqOvTgaYoc3gmrhmSLAQQimWzUdUEpVyKEUgOaS08*D4SiRa2bHZC*81d1RlO1T*5zL0N9PB5*Wtg4yexIufEnuG9YQAQnnQLFnLyQEYhXZNh10w8q-L&new=1)
+ ## [“新基建”7大产业链全景图+500家企业名单!](http://mp.weixin.qq.com/s?src=11&timestamp=1586221204&ver=2263&signature=rCio0Svn6ijnNqOvTgaYoc3gmrhmSLAQQimWzUdUEpVVZb1DrRXqzvNUOBm7LTFbTcsrr*09pd6eOdU4cy2lp9Lv7p*YL1HcsOoUrlXMvYc4qAnLL2TIid4f56ESGc6f&new=1)
  > 精彩内容本文为大家整理了“新基建”7大产业方向的产业链细分领域和500多家对应的上市公司、大公司名单供大家参考。文/ 招商引资参考近日，中共中央政治局常务委员会召开会议。会议指出，要加大公共卫生服务、应...
+ ## [运营商5G智能专网策略研究](http://mp.weixin.qq.com/s?src=11&timestamp=1586221204&ver=2263&signature=oUmWFhHa90IFHQyw2RpuQKylYjahlW4NR3YvR9hfjDyDa-qquSIfVPghuChJS54nLJDe6gmSfpwPNg5g8ijNfFi51DLBb-KL-yxFyI*9LDUpR5rh1fHVayMoFbpfMvfs&new=1)
+ > 本文经《邮电设计技术》授权发布如需要转载，请联系《邮电设计技术》获取授权邮电设计技术公众号：ydsjjs，欢迎关注！摘要：随着5G商用和智慧城市的大规模建设，市场对于无线专网有巨大的需求和动力。运营商通过...
+ ## [真的来了!刚刚，三大运营商联合重磅宣布…](http://mp.weixin.qq.com/s?src=11&timestamp=1586221204&ver=2263&signature=Netfpr5P4s0xUGXzvkPqtGbGxO56NksHr4BV2HDzMoYCs33Bl0rIfque4L0ithHp1hXYHhuGuVLLG*j-xuwdgDzvsQQ2g8Y3hqshTD3m21vGqQmyubv9ApGnjVEemh-n&new=1)
+ > 据消息透露，4月8日10:00，中国电信将与中国移动、中国联通联合发布5G消息白皮书！5G已来，传统短信将如何华丽变身？  一起期待，我们等你！ 刚刚，三大运营商重磅宣布：将在4月8日，中国电信将与中国移动、中国...
+ ## [米10海外版包装语争议：华为玻璃心，小米的暧昧?](http://mp.weixin.qq.com/s?src=11&timestamp=1586221204&ver=2263&signature=OgFXn44I9DL4VQrYYMVHkZvTVIBLAg0ipFF4L0ATG0vet0ZCOM6CUmcgauKWHRL6j5RDsGWq3IlJNqkw34ieeEi0wBVtRCOTcZgO6iQEN4WuhzX9y7*JLbLRFjM2f1pa&new=1)
+ > 将小米10海外版包装盒上“with easy access to the Google apps you use most”一句理解为嘲讽华为，颇有些诛心。毕竟很容易裹挟民粹主义情绪。如果是华为自身的思维，那太玻璃心了。不过，这话题仍对小米
 # IT 技术 
+ ## [活久见！新泽西州长急聘COBOL程序员](http://news.51cto.com/art/202004/613890.htm)
+ > 活久见！新泽西州长急聘COBOL程序员
+ ## [笑岔气！一个程序员的水平能差到什么程度?](http://news.51cto.com/art/202004/613831.htm)
+ > 笑岔气！一个程序员的水平能差到什么程度?
+ ## [毕业6年，程序员如何跨过30岁这道坎?](http://news.51cto.com/art/202004/613830.htm)
+ > 毕业6年，程序员如何跨过30岁这道坎?
+ ## [不懂Redis Cluster原理，我被同事diss了！](http://stor.51cto.com/art/202004/613829.htm)
+ > 不懂Redis Cluster原理，我被同事diss了！
  ## [讲真！开发者要了解的微前端架构](http://developer.51cto.com/art/202004/613738.htm)
  > 讲真！开发者要了解的微前端架构
  ## [注意了！Kafka与RabbitMQ千万不要乱用…](http://os.51cto.com/art/202004/613739.htm)
@@ -25,14 +33,16 @@ categories: IT NEWS
  > 新冠疫情动态：十大创新，助力对抗COVID-19
  ## [全球首个翻译引擎进化归来 “细节狂魔”搞定方言](http://news.51cto.com/art/202004/613713.htm)
  > 全球首个翻译引擎进化归来 “细节狂魔”搞定方言
- ## [特征工程是啥东东？为何需要实现自动化？](http://ai.51cto.com/art/202004/613733.htm)
- > 特征工程是啥东东？为何需要实现自动化？
- ## [开发 | 前端如何实现大文件快速上传](http://developer.51cto.com/art/202004/613728.htm)
- > 开发 | 前端如何实现大文件快速上传
- ## [微软谷歌亚马逊云竞争开启新战线 无需编写代码短时间内构建应用](http://news.51cto.com/art/202004/613749.htm)
- > 微软谷歌亚马逊云竞争开启新战线 无需编写代码短时间内构建应用
- ## [剽窃开源项目赚钱，连原开发者名字都没删干净，反而有勇气质疑正主……](http://news.51cto.com/art/202004/613761.htm)
- > 剽窃开源项目赚钱，连原开发者名字都没删干净，反而有勇气质疑正主……
+ ## [不要再到处使用 === 了](http://developer.51cto.com/art/202004/613895.htm)
+ > 在本文中，我们将通过对比差异，理解强制性，研究一些流行的用例，并最终找到指导我们做出决定的准则，来深
+ ## [数字化是比精算账 企业安防别花冤枉钱](http://iot.51cto.com/art/202004/613893.htm)
+ > 每一项技术爆发总隐藏在需求背后，一场疫情让人与人的内心连接无比亲密，却也让彼此在物理空间上产生了距离
+ ## [So Hot ？快给 CPU 降降温！](http://biz.51cto.com/art/202004/613894.htm)
+ > CPU(Central Processing Unit)是计算机系统的运算和控制核心，是信息处理、程序运行的最终执行单元，相当
+ ## [零信任安全保障未来的医疗保健行业](http://netsecurity.51cto.com/art/202004/613892.htm)
+ > 除了新的威胁之外，最近几年医疗保健行业取得了多项的技术突破，并且随着新兴技术的进一步发展，未来十年行
+ ## [有个程序员老公，是种什么样的感觉](http://news.51cto.com/art/202004/613891.htm)
+ > 作为互联网行业主力军的程序员，近年来，被网友们贴上无数标签，主以钱多、发少、死的早为主要印象，仿佛
  ## [看完这篇 Session、Cookie、Token，和面试官扯皮就没问题了](http://network.51cto.com/art/202004/613889.htm)
  > HTTP 协议是一种无状态协议，即每次服务端接收到客户端的请求时，都是一个全新的请求，服务器并不知道客户
  ## [如何安全存储密码都不知道，难怪我被面试官吊打呢...学完这个一定打回去！](http://netsecurity.51cto.com/art/202004/613888.htm)
@@ -43,17 +53,17 @@ categories: IT NEWS
  > javascript语言的执行环境是单线程(single thread)，就是指一次只能完成一件任务。如果有多个任务，就必须
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
- ## [作为一名大学生，如何在B站上快乐的学习？](https://blog.csdn.net/sinat_33921105/article/details/104031977)
- > 作为一名大学生，如何在B站上快乐的学习？
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
  > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
+ ## [作为一名大学生，如何在B站上快乐的学习？](https://blog.csdn.net/sinat_33921105/article/details/104031977)
+ > 作为一名大学生，如何在B站上快乐的学习？
  ## [AI 没让人类失业，搞 AI 的人先失业了](https://blog.csdn.net/blogdevteam/article/details/103978013)
- > 
- ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
  > 
  ## [谁说程序员不懂浪漫——我的C语言结婚请柬（附源码）](https://blog.csdn.net/harvic880925/article/details/104148643)
  > 谁说程序员不懂浪漫——我的C语言结婚请柬（附源码）
  ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
+ > 
+ ## [卸载 x 雷某度！GitHub 标星 1.5w+，从此我只用这款全能高速下载工具！](https://blog.csdn.net/u013486414/article/details/103753223)
  > 
  ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
@@ -63,58 +73,48 @@ categories: IT NEWS
  > 非典逼出了淘宝和京东，新冠病毒能够逼出什么？
  ## [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://blog.csdn.net/hejjunlin/article/details/104241538)
  > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
+ ## [你的工作有价值吗？——如何在工作最大程度地体现自己的价值？](https://blog.csdn.net/harvic880925/article/details/104054278)
+ > 你的工作有价值吗？——如何在工作最大程度地体现自己的价值？
  ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
  > 
  ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
  > 谁是华为扫地僧？
  ## [作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！](https://blog.csdn.net/sinat_33921105/article/details/104256879)
  > 作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！
- ## [​两年前不知如何编写代码的我，现在是一名人工智能工程师](https://blog.csdn.net/duxinshuxiaobian/article/details/104080206)
- > ​两年前不知如何编写代码的我，现在是一名人工智能工程师
- ## [编程基础知识真的是九阳神功吗？](https://blog.csdn.net/csdnnews/article/details/105355436)
- > 作者｜大飞码字来源｜大飞码字（ID：BigFly1024）有不少读者咨询过基础知识相关的问题。有问怎么能够学好基础知识，有问基础知识到底有什么用，也有直接过来喷我，说工作只有CRUD，...
- ## [《原力计划【第二季】》第 6 周周榜揭晓！！！](https://blog.csdn.net/csdnnews/article/details/105355438)
- > 自 2 月 21 日开始《原力计划【第二季】— 学习力挑战》，已经到了第6周，累计19000+名博主参与了本次活动。第 6 周共收到活动投稿18407篇原创文章，经过层层筛...
- ## [程序员为什么应该旗帜鲜明地反对“最佳实践”？](https://blog.csdn.net/csdnnews/article/details/105355432)
- > 让第一个版本的系统混乱一点，或许是件好事。作者 | 黄峰达，CSDN 博客专家 Phodal责编 | 唐小引头图 | 作者绘制并授权 CSDN 使用出品 | CSDN（ID：CSDNn...
- ## [程序员如何用代码彻底终结系统那些事儿？](https://blog.csdn.net/csdnnews/article/details/105355434)
- > 【CSDN 编者按】互联网发展至今，瞬息万变的市场要求我们的产品具有更快的响应速度。技术的快速进步，软件的快速迭代升级，各种软件基础设施也不得不随之进行频繁的修改。为更好地适应各各式各...
- ## [深度学习面试必备的 25 个问题](https://blog.csdn.net/csdnnews/article/details/105355431)
- > 作者 | Tomer Amit译者 | 弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：在本文中，我将分享有关深度学习的25个问题，希望能够帮助你为面试做好...
- ## [提升研发效能没那么难，看优酷的最佳实践！](https://blog.csdn.net/csdnnews/article/details/105355435)
- > 作者 |阿里文娱技术专家 成文责编 | 屠敏研发效能期望随着敏捷、DevOps 等概念的兴起，研发效能成为企业关注的重点，但是研发效能面临的问题和挑战也与日俱增。尤其在互联网行业，版...
 # 人工智能 
- ## [51单片机之232串口实现-任务要求Fosc为6MHz，定时器T1为工作模式2](https://blog.csdn.net/qq_43605009/article/details/105308559)
- > 51单片机之232串口实现-任务要求Fosc为6MHz，定时器T1为工作模式2
- ## [【嵌入式Linux驱动开发】十四、了解Linux内核定时器使用流程，实现LED闪烁](https://blog.csdn.net/ReCclay/article/details/105316031)
- > 
- ## [能够替换国际主流线性霍尔SS495A 、A1325 、MLX90242 的霍尔器件CC6502介绍](https://blog.csdn.net/cdxjdz/article/details/105317891)
- > 能够替换国际主流线性霍尔SS495A 、A1325 、MLX90242 的霍尔器件CC6502介绍
- ## [I2C通讯协议详解](https://blog.csdn.net/xwwwj/article/details/105333223)
- > I2C通讯协议详解
- ## [PART1：NRF24L01小车硬件资源篇](https://blog.csdn.net/qq_41704902/article/details/105319526)
- > PART1：NRF24L01小车硬件资源篇
- ## [疫情期间，感受互联网带来的红利——让自己走在世界前沿](https://blog.csdn.net/yyp0304Devin/article/details/105322457)
- > 疫情期间，感受互联网带来的红利——让自己走在世界前沿
- ## [推荐一个Github上很酷的开源项目——The Octo-Bouncer](https://blog.csdn.net/zhoucoolqi/article/details/105309472)
- > 
- ## [wujian100学习笔记（2）驱动DHT11获取环境温湿度](https://blog.csdn.net/weixin_44085642/article/details/105312700)
- > wujian100学习笔记（2）驱动DHT11获取环境温湿度
- ## [物联网实战之基于OneNET的智能农业系统](https://blog.csdn.net/su_fei_ma_su/article/details/105317554)
- > 
- ## [STM32学习笔记——通用定时器的PWM介绍及配置](https://blog.csdn.net/Summertrainxy/article/details/105317449)
- > 
- ## [Arduino + USB Host Sheild 实现USB鼠标转PS/2接口](https://blog.csdn.net/liumazi/article/details/105153219)
- > Arduino + USB Host Sheild 实现USB鼠标转PS/2接口
- ## [51单片机之串口波特率配置](https://blog.csdn.net/qq_43605009/article/details/105310935)
- > 51单片机之串口波特率配置
- ## [分类任务的metrics——模型评测标准](https://blog.csdn.net/SPESEG/article/details/105307640)
- > 
- ## [用Stm32CubeMX在STM32F107上移植LWIP(PHY:DM9161A)](https://blog.csdn.net/munan0077/article/details/105323880)
- > 用Stm32CubeMX在STM32F107上移植LWIP(PHY:DM9161A)
- ## [Windows搭建Apollo MQTT服务器](https://blog.csdn.net/Psyduck_ing/article/details/105325805)
- > Windows搭建Apollo MQTT服务器
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+ ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
+ > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 # PM 
+ ## [免费直播丨2年及以下的产品经理，如何制定职业发展规划？](http://www.woshipm.com/open/3665993.html)
+ > 如何快速上手当前的产品工作？不被leader 怼？产品经理的职业发展路径是什么样的？为什么现在很迷茫？如何制定清晰的职业发展规划？不知道未来怎么走？最近起点学院...
  ## [交互设计：如何做到惊喜？](http://www.chanpin100.com/article/111251)
  > 保持好奇，巧妙融合，追求卓越，自然而然
  ## [数据与业务之间的关系](http://www.chanpin100.com/article/111250)
