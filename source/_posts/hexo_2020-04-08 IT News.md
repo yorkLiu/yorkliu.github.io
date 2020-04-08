@@ -1,7 +1,7 @@
 ---
 title: 2020-04-08 IT News
 copyright: true
-date: 2020-04-08 10:01:04
+date: 2020-04-08 12:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -85,55 +85,61 @@ AI&#35821;&#38899;&#29420;&#35282;&#20861;&#8220;&#24605;&#24517;&#39536;&#8221;
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [三大运营商迎来重大机遇，颠覆性产品或创造巨大市场!](http://mp.weixin.qq.com/s?src=11&timestamp=1586309452&ver=2265&signature=pSRL1WPGwVnjz7sOcICoH5bqZIGCVwcZw*Wqr4TkioHV3oaVbAm2Q5RnqyjIZzrRWqlyqJhVwEvJFChBnHBf1-jnlSkzuFy3FFp0Ysx0y8NkLE6FmcX5EUSoBVQnZsMr&new=1)
+ ## [\[报告\]2020年3月汽车消费指数及2月全口径乘用车市场分析(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=fUXdwqaVhP6K-aOhW-bm8eUAGSxLAoYCq0*VlGOTnyc8h4ICoXnwLCygEDGUZhuzPJEsULwtE8PfFDo*R3M4RFSUtlLk50aA0ldv*Kua0b*9uIaKsaiLEQp7aqe*NoNU&new=1)
+ > 2020年2月全口径乘用车销售20.8万辆，环比下降83.9%，同比下降78.0%。以下为报告节选：......文│中国汽车流通协会本报告共计：23页如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要...
+ ## [VPN遭受黑客攻击远不止深信服!全球大量黑客将VPN作为攻击入口](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=MoVdNPzLK8-z6bL*PNKugtklmRt-HBk2TurnDoizWTOWf9vM7t97hSTT3eQMxh039OwqA0-tv18UbrFs4PIzXEBN9j9MRZsuFkSTlpnon6NnXpSv2T2NT8mvJXGbV0Gi&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月8日讯，自从冠状病毒（COVID-19）爆发以来，由于远程办公的必要需求，企业VPN使用量增加了33％，这也成为黑客发起攻击的一个突破口。据相关媒体报...
+ ## [从电报到5G 从甚低频到太赫兹 细数无线电频谱发展史](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=gBrAXoQ1hGOZdtJmZhA2BorPd-bVhYohSDNBQNjRnWXbOHbiJlbZNQEspe*ZuQ*XuB-6ElL0qAGHSjNU6sq*UZGLHkST9VR9s6aT1lZkT4KjmmfmSzmmO93ucAAvRpOs&new=1)
+ > 从电报到5G通讯，实际上是个关于频谱的故事。100多年来，如何更有效率的利用频谱，如何在有限频谱中获得更高的传输率，成为无线通讯领域众多天才和企业巨头们持续攻克的目标。电话、电报、电视、网络、手机等深...
+ ## [三大运营商迎来重大机遇，颠覆性产品或创造巨大市场!](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=pSRL1WPGwVnjz7sOcICoH5bqZIGCVwcZw*Wqr4TkioHf5hMuSG1Ez29uWaRPok3qz0Gcgk24KJNap5BcZk24KxW-YX7Awosftdmbtodo*4rn*9esAMYSM69B-ulz1nsf&new=1)
  > 据运营商公开的宣传资料显示，三大运营商将全面升级基础短信。5G消息将是体验与服务的革新，数字信息流动的最重要的传统载体之一，实现消息即服务。一个重新定义短信市场的5G产品呼之欲出据了解，5G消息着重在企...
- ## [关注|华为6606万入股中电仪器 拓展5G领域技术布局](http://mp.weixin.qq.com/s?src=11&timestamp=1586309452&ver=2265&signature=WcAjKsr2vE7m-RdDxPW0UHcyaB4HklZ1YTVf4reKX53q8Gt-qjNTIiEFWhKuoR4uJuRAy932szotpIA*UGROuLDgm*t862bJyfohlWh1F9KyAI8M1pNR36UvBUHwHGUv&new=1)
+ ## [关注|华为6606万入股中电仪器 拓展5G领域技术布局](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=WcAjKsr2vE7m-RdDxPW0UHcyaB4HklZ1YTVf4reKX52F3MryO0Xs37nbeSIU6FZyRGi0sXyXjtJ7tpxg4acDcBgsCT41HxxQ4SASrwI42J1oZwqCvcmstWq5GhDYwngr&new=1)
  > 新闻导读华为新增对外投资企业中电科仪器仪表有限公司，认缴金额达6606.6743万元，入股后华为持股比例为8%，此举目的在于拓展其在5G领域的技术布局。ICC讯 华为新增对外投资企业中电科仪器仪表有限公司(简称中电...
- ## [中国移动5G SA核心网大单落地，华为、中兴、爱立信中标!](http://mp.weixin.qq.com/s?src=11&timestamp=1586309452&ver=2265&signature=1sghbvR5v1JoJ3CuLAn18Y8lE4sXThsxfdTS7u-vKKm58-pVHBjW1JkvGIV3SAl9Sy*y3NVWpPbVllCB*lXSLwLJGJLVN44*QoWHpYeh1BU6-cZ*7NyQv*xdZ9V6PPRq&new=1)
+ ## [中国移动5G SA核心网大单落地，华为、中兴、爱立信中标!](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=1sghbvR5v1JoJ3CuLAn18Y8lE4sXThsxfdTS7u-vKKlcAZ-qtP9ls2H7LUDl3mdoCJqKfWX9ffu*a-hnEOuNuNj9P2t6O7hRYibpzxYShQ7BpWuu1uB5DBONX6oDBE55&new=1)
  > 2020年4月7日，中国移动公示《2020年5G SA核心网新建设备集中采购》中标候选人。中标情况及投标报价如下：标包一：新建2C网络及共用网元设备标包一具体中标份额分配如下：标包二：新建2B网络设备标包二具体中标...
- ## [独家：电信联通携手采购5G网主设备 员工欢欣鼓舞大赞省钱](http://mp.weixin.qq.com/s?src=11&timestamp=1586309452&ver=2265&signature=A08XWWYqQVsounPfB3**tlfrRgoWo4HODZ-5*OdCWF7RuhImnfPrl6KeXmd*Fbk1BJMZqrEinjlKTR554Zqv7egx7ZkrXJnsCHUxNoj52uFSK9W6zwvO0eWrlh5-XngV&new=1)
+ ## [独家：电信联通携手采购5G网主设备 员工欢欣鼓舞大赞省钱](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=A08XWWYqQVsounPfB3**tlfrRgoWo4HODZ-5*OdCWF64AqL1sMzQEzoBAWvi4GTyAmWXprTKM9gGb2nS8RDN9hmWBbjFA6sEcMRX7dh32SP-MISkpA5Km28GswqhKYs5&new=1)
  > 运营商财经网 吴碧慧/文运营商财经网独家获悉，日前，中国电信和中国联通联合发布了“2020年5G SA独立组网新建工程无线主设备联合集中采购项目集中资格预审公告”，启动5G SA独立组网无线主设备联合集中采购。这...
- ## [4K分辨率+六自由度双手操控：全新升级的VR娱乐体验](http://mp.weixin.qq.com/s?src=11&timestamp=1586309452&ver=2265&signature=asARHTyR6DGEm4wYbOdfpUleHWOcpTy1mEVtB7pdr*cI6NZpBSyRMEpCOnWF6vdt0XZ9YFEOWpQxRlmEK5MZhXTk-J*hvkg3PvQgfmh2872el9exNpr**8rZ1dm2LWoR&new=1)
+ ## [4K分辨率+六自由度双手操控：全新升级的VR娱乐体验](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=asARHTyR6DGEm4wYbOdfpUleHWOcpTy1mEVtB7pdr*eAKkiPpUeJImJRJnqyOYnqUuJNBoCuE2Kty3xVVZvxAPXQNoznCxPd2BZZwYKpgZYWeXPZHfyEsSiIp6pCj9G0&new=1)
  > 宅在家里什么最好玩？当然是VR娱乐！ 足不出户也能畅游世界？今年肆虐全球的新冠疫情，让全国人民都亲身体验了一把“坐月子”的感觉。许多人都憧憬着回复正常生活之后，一定要狠狠地实施各种“报复性消费”、“...
- ## [千年姑苏的“智慧”秘密：当5G遇上城市水务](http://mp.weixin.qq.com/s?src=11&timestamp=1586309452&ver=2265&signature=2qgZnJaiO81XnkFmxZHs3jFDFMb4O7l2kcJYugOsRyhQyrNIBB0TVfu77O-ldbWTFJ*A51nvjdqJEEIGFMIAFSgYiimfDBadf3Yb2IHRelCBYNCePqKJRF0OdyOmVBSG&new=1)
+ ## [千年姑苏的“智慧”秘密：当5G遇上城市水务](http://mp.weixin.qq.com/s?src=11&timestamp=1586318405&ver=2265&signature=2qgZnJaiO81XnkFmxZHs3jFDFMb4O7l2kcJYugOsRygwv9W8HmgsYdKb1OAqsLsIpTNmxUHXV6EiBL-3YyNSfg2vc4YY-fbiRVj7yEOoFk7eu1F2qrIJy4qyuRar99Ab&new=1)
  > 苏州市平江历史街区，一个人们去苏州必打卡的地方，小桥流水人家的场景令人神往。可很多人不知道，这个清澈静谧的水面曾经也面临倾倒污水、洗拖把、洗衣服、抛杂物等不文明行为的考验，每天平江河4条保洁船、8位...
 # IT 技术 
  ## [区块链技术的起源与沿革（上篇）：区块链网络与数字货币系统](http://blockchain.51cto.com/art/202004/613984.htm)
  > 区块链技术的起源与沿革（上篇）：区块链网络与数字货币系统
  ## [一入职！就遇到MySQL亿级大表优化....](http://database.51cto.com/art/202004/613992.htm)
  > 一入职！就遇到MySQL亿级大表优化....
+ ## [硬不硬你说了算！近40张图解被问千百遍的TCP三次握手和四次挥手面试题](http://network.51cto.com/art/202004/614026.htm)
+ > 硬不硬你说了算！近40张图解被问千百遍的TCP三次握手和四次挥手面试题
+ ## [安全 | 一次Linux系统被攻击的分析过程](http://netsecurity.51cto.com/art/202004/614012.htm)
+ > 安全 | 一次Linux系统被攻击的分析过程
  ## [一种构建开发者平台的金字塔模型](http://developer.51cto.com/art/202004/613983.htm)
  > 一种构建开发者平台的金字塔模型
+ ## [针对存储替换迁移中风险点的关键策略分析](http://stor.51cto.com/art/202004/613997.htm)
+ > 针对存储替换迁移中风险点的关键策略分析
+ ## [微软推出IPE，解决Linux的代码完整性问题](http://news.51cto.com/art/202004/613999.htm)
+ > 微软推出IPE，解决Linux的代码完整性问题
  ## [值得拥有!React的四种优秀甘特图方案](http://developer.51cto.com/art/202004/613903.htm)
  > 值得拥有!React的四种优秀甘特图方案
- ## [不懂Redis Cluster原理，我被同事diss了！](http://stor.51cto.com/art/202004/613829.htm)
- > 不懂Redis Cluster原理，我被同事diss了！
- ## [用于实时协作编程的7种工具和服务](http://developer.51cto.com/art/202004/613910.htm)
- > 用于实时协作编程的7种工具和服务
- ## [从方法到思维：什么是应用逻辑架构的正确姿势？](http://zhuanlan.51cto.com/art/202004/613905.htm)
- > 从方法到思维：什么是应用逻辑架构的正确姿势？
- ## [毕业6年，程序员如何跨过30岁这道坎?](http://news.51cto.com/art/202004/613830.htm)
- > 毕业6年，程序员如何跨过30岁这道坎?
- ## [微软宣布推出 IPE，解决 Linux 的代码完整性问题](http://news.51cto.com/art/202004/613999.htm)
- > 微软发布了有关该公司一直致力的 Linux 内核新项目的详细信息。该项目名为 Integrity Policy Enforcement（
- ## [针对存储替换迁移中风险点的关键策略分析](http://stor.51cto.com/art/202004/613997.htm)
- > 随着企业业务应用的拓展和业务数据不断增长，作为 IT 基础架构的重要组成，存储系统不仅面临着存储容量与性
- ## [在 Android 开发中使用协程](http://zhuanlan.51cto.com/art/202004/613998.htm)
- > 本文是介绍 Android 协程系列中的第一部分，主要会介绍协程是如何工作的，它们主要解决什么问题。
- ## [疫情期间互联网威胁指数创下新高](http://zhuanlan.51cto.com/art/202004/613995.htm)
- > 从流量变化来看，新冠疫情最“受益”行业包括新闻、食品、电商、游戏和教育，最“受伤”行业分别是体育、成
- ## [2020年4月编程语言排行榜：C语言直逼Java，但Scratch才是本月最亮的星](http://developer.51cto.com/art/202004/613994.htm)
- > TIOBE公布了4月份编程语言排行榜。相比上个月编程语言Top 5并没有太大的变化，其中Java依旧稳坐榜首，随后
- ## [不改造HBase就能应对复杂查询场景？这个索引组件亮了](http://database.51cto.com/art/202004/613996.htm)
- > 在各行各业纷纷结合自身需求，加快自主改造和研发脚步的当下，涌现出许多值得学习借鉴的优秀项目。
- ## [新 iPhone SE 是你的下一部 iPhone 吗？](http://mobile.51cto.com/news-613989.htm)
- > 新 iPhone SE 大概率也将采用「加量不加价」的策略，事实上外界传闻这款设备将以 399 美元(3000 元价位)起
- ## [你知道 JS 中的模块导入有一个缺点吗？](http://developer.51cto.com/art/202004/613993.htm)
- > 在JavaScript中，导入语法会强制我们先指出要导入的项目(函数，类，变量)，然后再指明模块的路径。这种方法
- ## [中移雄研咨询洞察：政务大数据产业地图](http://zhuanlan.51cto.com/art/202004/613990.htm)
- > 政务大数据是指政务部门在履行职能、办理业务和事项中而产生、采集、加工、使用的数据资源。形成“逻辑上集
- ## [报告：疫情期间中国有37%的消费者推迟购买新手机](http://mobile.51cto.com/data-613988.htm)
- > 疫情带来的影响不仅仅是对于商家而言，对于消费者来说同样如此。究竟疫情会对消费者的购买行为产生什么影响
+ ## [过去二十年最危险的数字供应链攻击](http://zhuanlan.51cto.com/art/202004/614027.htm)
+ > 近年来，供应链攻击的常态化已经是APT攻击的重大趋势，以下是过去二十年最具破坏力的技术(软件)供应链攻击
+ ## [成功部署物联网需要的10个步骤](http://iot.51cto.com/art/202004/614024.htm)
+ > 企业在计划部署物联网时，其业务成果应该是重中之重，可以使其项目计划更加合理，并确保质量和收入。
+ ## [疫情影响全球IT支出，未来五年IT市场或迎来新变化](http://news.51cto.com/art/202004/614023.htm)
+ > 新型冠状病毒疫情目前正在全球发酵。进入3月份以来，欧美多个地区开始大范围爆发疫情，加上之前的中国，疫
+ ## [Linux服务器问题排查思路及常用命令](http://developer.51cto.com/art/202004/614022.htm)
+ > 作为一名合格的开发人员，特别是做后端的同学，经常会遇到各种各样的问题。
+ ## [一位读者刚刚收割阿里、腾讯等大厂Offer，他说这些话一定要和你们说一下](http://news.51cto.com/art/202004/614025.htm)
+ > 本文来自读者投稿，作者是我的一位资深读者，也是我知识星球的球友，最近在春招中收割了很多大厂的Offer。
+ ## [2020年您应该知道的主要SQL面试问题](http://database.51cto.com/art/202004/614021.htm)
+ > 大多数与数据相关的工作都要求您了解SQL，并且不应让SQL面试问题成为没有工作的原因。 尤其是在查询方面，
+ ## [调查表明大多数数据中心无法满足用户的需求](http://network.51cto.com/art/202004/614019.htm)
+ > 行业媒体《福布斯观察》和业界厂商Vertiv公司日前联合发布的一份调查报告发现，只有29%的数据中心决策者表
+ ## [中国建设网络强国的优势与挑战](http://network.51cto.com/art/202004/614018.htm)
+ > 网络强国表现为一国拥有强大的技术实力、强大的抵御网络风险的能力、强大的网络经济实力以及网络治理能力。
+ ## [前端智能化的未来 10 年，越早入行越吃香！](http://news.51cto.com/art/202004/614016.htm)
+ > 在写这篇文章之前，我一直在思考该用什么的方式能讲清楚前端为什么要向智能化方向切换的理由，真的反复思考
+ ## [如何在多云数据管理中找到适当的平衡](http://cloud.51cto.com/art/202004/614014.htm)
+ > 在新的多云世界中，IT架构师必须考虑以下三个注意事项，并将全面的数据管理作为其架构中的关键基础模块之一
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
@@ -158,64 +164,80 @@ AI&#35821;&#38899;&#29420;&#35282;&#20861;&#8220;&#24605;&#24517;&#39536;&#8221;
  > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
  ## [阿里程序员写了一个新手都写不出的低级bug，被骂惨了。](https://blog.csdn.net/qq_35190492/article/details/103965492)
  > 
- ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
- > 谁是华为扫地僧？
  ## [作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！](https://blog.csdn.net/sinat_33921105/article/details/104256879)
  > 作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！
- ## [​两年前不知如何编写代码的我，现在是一名人工智能工程师](https://blog.csdn.net/duxinshuxiaobian/article/details/104080206)
- > ​两年前不知如何编写代码的我，现在是一名人工智能工程师
+ ## [谁是华为扫地僧？](https://blog.csdn.net/csdnnews/article/details/103966440)
+ > 谁是华为扫地僧？
+ ## [没用过这些 IDEA 插件？怪不得写代码头疼](https://blog.csdn.net/weixin_43570367/article/details/103978005)
+ > 
+ ## [一文搞懂 Spring 数据库事务操作！](https://blog.csdn.net/csdnnews/article/details/105384204)
+ > 作者|阿文，责编 | 郭芮头图 | CSDN 下载自东方IC出品 | CSDN（ID：CSDNnews）今天我们一起了解下Spring的数据库事务操作。在操作数据库时，我们经常会使...
+ ## [@程序员，让8年京东架构师为你解析云原生监控和日志解决方案！](https://blog.csdn.net/csdnnews/article/details/105384205)
+ > 监控和日志是大型分布式系统的重要基础设施：监控可以帮助开发者查看系统的运行状态，而日志可以协助问题的排查和诊断。云原生应用具有分布与动态的特性，而所有此类应用通常都会用到容器和无服务器...
+ ## [智能穿戴市场群雄逐鹿，OPPO入局能没有杀手锏？](https://blog.csdn.net/csdnnews/article/details/105384197)
+ > 去年，OPPO 对外释放出将要进军智能穿戴领域的信息，并表示要做自己的生态产品。2020 年 3 月，一年过去了，OPPO 没有食言，带着它的第一块智能手表——OPPO Watch &amp;...
+ ## [能力不错的大厂高 P，为什么过不了小厂的试用期？](https://blog.csdn.net/csdnnews/article/details/105384198)
+ > 作者 |骆俊武封图 | CSDN下载自视觉中国前阵子，我的一个大学同学跟我吐槽，“他去年从大厂跳槽到了一家C轮创业公司担任技术leader，今天居然被老板通知试用期没通过！”这位同学...
  ## [Milvus加入LF AI孵化，立志成为最流行的AI数据平台](https://blog.csdn.net/csdnnews/article/details/105362785)
  > 作者 |ZILLIZ RDS本文系作者投稿，不代表CSDN立场Milvus 特征向量相似度搜索引擎通过技术委员会投票，正式加入 LinuxAI （LF AI）基金会成为其最新的孵化项目。LF AI 基金会的使命是建立和支持开放的人工智能社区，通过促进协作和创新为社区所有成员创造新机会，推动...
  ## [2020中国数字化转型优秀案例征集](https://blog.csdn.net/csdnnews/article/details/105362488)
  > 主办单位：人民日报全国党媒信息公共平台 支持单位：腾讯云　　一场疫情，让2020年的开局波澜丛生；全国同行，让中华民族的伟力迅速汇聚。　　这是一场医疗战，数万名医务工作者选择逆行，同时间赛跑，与病魔较量；这是一场人民战争，上下同心和衷共济，涓涓暖流汇成磅礴力量；这是一场科技战，人类举起与疾...
+ ## [“出道” 5 年采用率达 78%，Kubernetes 为何如此成功？](https://blog.csdn.net/csdnnews/article/details/105384196)
+ > 作者|Matt Asay译者 | 天道酬勤，责编 | 徐威龙封图 |CSDN下载于视觉中国很难相信Kubernetes直到2015年中期（首次提交后的一年）才达到1.0版本，因为...
 # 人工智能 
- ## [蓝桥杯嵌入式(长天嵌入式)组织的模拟赛-赛题分析](https://blog.csdn.net/qq_43605009/article/details/105292710)
+ ## [CAS你以为你真的懂？](https://blog.csdn.net/lyztyycode/article/details/105343010)
  > 
- ## [使用RT-Thread 系统实现DIY数字仪表（四）——同步网络时间](https://blog.csdn.net/sinat_31039061/article/details/105343118)
+ ## [Express这些中间件还没掌握的话赶紧学习起来啦！【持续更新中】](https://blog.csdn.net/weixin_44253336/article/details/105363101)
  > 
- ## [I2C通讯协议详解](https://blog.csdn.net/xwwwj/article/details/105333223)
- > I2C通讯协议详解
- ## [物联网实战之基于OneNET的智能农业系统](https://blog.csdn.net/su_fei_ma_su/article/details/105317554)
+ ## [fiddler4安装及使用手机抓包](https://blog.csdn.net/wangzhimin0928/article/details/105350404)
+ > fiddler4安装及使用手机抓包
+ ## [搭建支付宝网银使用教程/网银支付/网银接口/企业支付宝包装网银](https://blog.csdn.net/qq877700063/article/details/105348264)
+ > 搭建支付宝网银使用教程/网银支付/网银接口/企业支付宝包装网银
+ ## [学习记录 | 文件收集-Php](https://blog.csdn.net/pone2233/article/details/105352345)
  > 
- ## [对k210的初探——MixNo——图形化编程](https://blog.csdn.net/yuguoyu123456/article/details/105349403)
- > 对k210的初探——MixNo——图形化编程
- ## [慧编程：光环板--MQTT扩展使用说明](https://blog.csdn.net/tonycarson/article/details/105338433)
- > 慧编程：光环板--MQTT扩展使用说明
- ## [常用51单片机实现DHT11和ESP8266实现温湿度数据无线传输](https://blog.csdn.net/CHENNOTWAIT/article/details/105350944)
- > 常用51单片机实现DHT11和ESP8266实现温湿度数据无线传输
- ## [数电3_1——半导体二极管门电路](https://blog.csdn.net/weixin_43746266/article/details/105345143)
+ ## [\[网络安全自学篇\] 六十四.Windows漏洞利用之SMBv3服务远程代码执行漏洞（CVE-2020-0796）复现及详解](https://blog.csdn.net/Eastmount/article/details/105350314)
  > 
- ## [物联网开发(二)-利用ESP8266制作一个B站粉丝显示器（牛刀小试）](https://blog.csdn.net/qq_39400113/article/details/105348187)
+ ## [2020春工程伦理期末考试题](https://blog.csdn.net/qq_35443700/article/details/105367042)
+ > 2020春工程伦理期末考试题
+ ## [SQL注入虐我千百遍，我仍待它_______。](https://blog.csdn.net/qq_42073753/article/details/105371710)
  > 
- ## [硬件工程师如何选择一款合适的霍尔电流传感](https://blog.csdn.net/m0_46819860/article/details/105338457)
- > 硬件工程师如何选择一款合适的霍尔电流传感
- ## [USB Type-C的基本原理](https://blog.csdn.net/zoosenpin/article/details/49963031)
- > USB Type-C的基本原理
- ## [5G独立组网（SA）和 非独立组网（NSA）](https://blog.csdn.net/weixin_41620451/article/details/105332523)
- > 5G独立组网（SA）和 非独立组网（NSA）
- ## [MODBUS移植STM32,分别配置STM32做从机和主机](https://blog.csdn.net/xiaoxiaodawei/article/details/105352113)
- > MODBUS移植STM32,分别配置STM32做从机和主机
- ## [linux基础命令－生成ssh密钥](https://blog.csdn.net/weixin_43404791/article/details/105348439)
- > linux基础命令－生成ssh密钥
- ## [POJ 1852 Ants 简单的弹性碰撞问题](https://blog.csdn.net/weixin_44895666/article/details/105313342)
- > POJ 1852 Ants 简单的弹性碰撞问题
+ ## [Web前端开发学习【1】-----大学生如何购买学生版的阿里云服务器，或免费领取半年的阿里云服务器](https://blog.csdn.net/qq_42451251/article/details/105357453)
+ > 
+ ## [三月它带走了爱我的人！往后只聊技术与人生](https://blog.csdn.net/qiulin_wu/article/details/105068944)
+ > 
+ ## [大厂真题:面试官非常喜欢抛出的问题，看你自由发挥，你能讲多深？](https://blog.csdn.net/lyztyycode/article/details/105335516)
+ > 大厂真题:面试官非常喜欢抛出的问题，看你自由发挥，你能讲多深？
+ ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
+ > 和黑客斗争的 6 天！
+ ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
+ > 
+ ## [JMM的CAS机制和带来的ABA问题](https://blog.csdn.net/qq_33709508/article/details/105341936)
+ > 
+ ## [做外汇新人常犯的误区一 - 不要有赌徒心理，那样你会很难看](https://blog.csdn.net/weixin_37692791/article/details/105367850)
+ > 做外汇新人常犯的误区一 - 不要有赌徒心理，那样你会很难看
 # PM 
- ## [微信读书，该如何盈利的一些思考？](http://www.woshipm.com/operate/3633173.html)
- > 微信读书作为一款基于微信关系链，主打“社交+阅读”的一款电子阅读app，在获取亿级用户注册量及800万月活之后，该如何走向商业化之路？目录数字阅读行业情况微信读...
- ## [中高级产品经理入职新公司，首先做什么?](http://www.woshipm.com/zhichang/3662599.html)
- > 诚然，入职新公司对每个人来讲都是一件很值得期待的事情，即将开始一段新的旅途。但是互联网人跳槽频率高又是普遍的现象，产品作为跟”管理“挂钩的岗位，试用期面对着许...
- ## [错误的信息是产品决策的最大敌人](http://www.woshipm.com/pd/3661593.html)
- > 每一个信息的诞生都有其背景和特定的条件，不同的时代，其研究方法、研究条件都受到时代的约束，难免有所误差。而传播者将本就有瑕疵的理论削足适履，改头换面，新生成...
- ## [下厨房商业化探索（中）：电商带货潮](http://www.woshipm.com/operate/3649904.html)
- > 从美食KOL带货，到品牌入驻电商化，到知名厨神直播授课，我们都可以看到，下厨房不再是那个以UGC（用户生产内容）分享美食为单一资本的内容平台了，它的杀手锏越来越丰...
- ## [利用用户购买决策的关键因素，制定合理营销策略](http://www.woshipm.com/marketing/3660241.html)
- > 在信息时代下，影响用户决策的关键因素早已经发生了天翻地覆的变化，这也意味着，用过去那套传统的营销思维无法适应现在的市场环境。那么，现在影响用户购买决策的关键...
- ## [产品经理需要创造力吗？](http://www.woshipm.com/pmd/3661122.html)
- > 最近讨论比较火的话题“作为产品经理需要创造力吗？”本文笔者会从“创造力“和“与产品经理的契合度”两个大维度展开写下自己的理解。全文的目录如下：什么是创造力创造...
- ## [线下教培机构招生难，如何用“池塘理论”实现0成本引流？](http://www.woshipm.com/operate/3645866.html)
- > 疫情之下，线上教育乘风起势，发展迅猛，那么面对线上教培机构的围剿，线下机构如何突围呢？笔者认为利用互联网“池塘理论”将很好地帮助线下机构。一场疫情，催生了线...
- ## [起点学院公开课 | 从设计师到首席产品架构师，一位中年产品经理的十年产品成长路](http://www.woshipm.com/open/3673195.html)
- > 外界环境变化所带来的机遇，对公司业务、对职场人来说，都是一场“突然的考试”，很多时候，我们都能看到一份份让人惊喜的答卷：面对疫情，多家互联网企业上线“疫情地图...
+ ## [聊聊我所理解的互联网行业职业天花板](http://www.woshipm.com/zhichang/3664911.html)
+ > 天花板指的是在职场中，达到一定级别后，即使你再有能力，晋升的空间也越来越小。互联网行业也不例外，本文作者结合所思所想，对互联网行业各工种的天花板进行了总结。...
+ ## [数字化时代的组织管理，不能再用过去的逻辑](http://www.woshipm.com/chuangye/3667080.html)
+ > 数字化时代，组织管理中四个核心的关系都变了，如何实现数字技术下的组织变革？根据作者多年组织管理创新研究和实践经验，和大家分享组织如何去面对数字化以及如何应对...
+ ## [为了修炼微观体感，我成为了一名美团骑手](http://www.woshipm.com/pmd/3662030.html)
+ > 作者结合美团骑手的亲身体验， 从这个角色出发，对“微观体感”进行了分析阐述，与大家分享。引言2018年的时候，因为曾经接触过调度类系统，喜欢对类似的产品有深入思...
+ ## [公开课 | 大厂产品经理自述：我的入坑成长史](http://www.woshipm.com/open/3673973.html)
+ > 人人都是产品经理的读者们，大家好。我是苏宁风控中台产品经理，曾经的畅唐毕业生韩铄。作为被大数据精准命中的典型95后，和绝大多数的95后一样，任性，丧，社交恐惧...
+ ## [面对经济不景气，企业更应做好品牌营销](http://www.woshipm.com/marketing/3662939.html)
+ > 经济不景气只是一时的，企业不能为了削减成本而盲目压缩营销预算，这样会让品牌输掉发言权，有损长期利润。全球股市暴跌的同时，为遏制病毒扩散，很多国家关闭工厂、...
+ ## [疫情过后，业务员需要具备三大新能力](http://www.woshipm.com/zhichang/3665995.html)
+ > 每一个行业人员，必须要跟上行业变革的需要，特别是业务人员，必须要跟上企业营销变革的需要。如果不具备新能力，恐怕会很快被行业所淘汰。目前看，疫情过后，业务人员...
+ ## [如何快速搭建一个新项目的运营体系？](http://www.woshipm.com/operate/3665464.html)
+ > 我相信很多运营人都会遇到这样的问题，当去到新的公司或者要运营一个新的项目的时候，应该如何快速熟悉项目，建议自己的运营体系呢？能够快速搭建自己的运营体系，不...
+ ## [案例分析：H5支付交互体验设计](http://www.woshipm.com/pd/3611762.html)
+ > 随着互联网技术和手机软硬件的高速发展，手机的使用场景已经融入到日常生活的点滴中。购物用淘宝下单，饿了在美团点外卖，出行滴滴一下……这些关联衣食住行的应用，都离...
+ ## [APP设计盘点：全国哀悼日的氛围设计](http://www.woshipm.com/pd/3662677.html)
+ > 本文主要通过哀悼期间页面变化，总结如何营造悼念氛围，以及不同形式的优缺点。谨以此文深切哀悼新冠疫情中牺牲烈士和逝世同胞。向英雄致敬，向逝者致哀。4月4日清...
+ ## [YouTube玩转的自动字幕，为什么被国内视频网站“主动错过”？](http://www.woshipm.com/it/3663956.html)
+ > 在2017年初，YouTube已经为10亿条视频提供了自动添加字幕的服务，使用者每天的播放次数超过 1500 万次。那么这一自动字幕的功能为何没有被我们国内的视频网站“Copy”？...
+ ## [脱离产品的运营推广都是耍流氓](http://www.woshipm.com/operate/3663257.html)
+ > 产品与运营推广是相辅相成的，就像人的两只手，缺一不可。运营和推广界限划分的并不是很清晰，我做运营多年，说是运营，其实做的也是推广的活。公司的获客、品牌曝光...
  ## [面试官问“你为什么离职”时背后的意思是什么？](http://www.chanpin100.com/article/111263)
  > 答错后果很严重~~
  ## [短视频营销的关键：数据赋能+多元化玩法](http://www.chanpin100.com/article/111262)
@@ -232,13 +254,5 @@ AI&#35821;&#38899;&#29420;&#35282;&#20861;&#8220;&#24605;&#24517;&#39536;&#8221;
  > 简历是生命之光！没有TA就没有面试邀请，就没有面试，就没有新的工作，就没有高工资！所以咱们聊聊0-1岁的产品同学该怎么写简历。
  ## [商品管理系统设计（二）：属性库搭建](http://www.chanpin100.com/article/111256)
  > 一篇文章带你了解电商平台——商品管理系统之属性库搭建
- ## [不懂系统布局，你的团队很难输出统一的页面](http://www.chanpin100.com/article/111255)
- > 通过定义页面的模块布局，让用户高效的了解产品页面框架结构的划分，以及产品在各个平台的体验的一致性。
- ## [产品经理必须掌握的基础概念](http://www.chanpin100.com/article/111254)
- > 很多想入门产品经理的小伙伴，很有必要了解产品经理必须掌握的概念基础知识，今天我整理了一下，希望对大家有帮助
- ## [增长产品经理之拼团](http://www.chanpin100.com/article/111253)
- > 增长产品拼团
- ## [从择业角度思考B端和C端产品的区别](http://www.chanpin100.com/article/111252)
- > 想做PM的同学应该都会思考这样的问题，究竟是做B端好还是C端好，我想在考虑外部条件的情况下，也需要结合自己的兴趣、偏好来决定。
 
     
