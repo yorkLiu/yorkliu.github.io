@@ -1,22 +1,26 @@
 ---
 title: 2020-04-10 IT News
 copyright: true
-date: 2020-04-10 08:01:45
+date: 2020-04-10 09:01:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [到底谁给New IP强加了“政治标签”?](http://mp.weixin.qq.com/s?src=11&timestamp=1586475017&ver=2269&signature=dInAHUuzdMWDA9Q*GcMXKtmYWeaaj8hkL7g4zdsTidtM9299WtOis7lQJLfdV7gWQVpNPPpNordRRz3OaI7UFFrDXVuEN9T7S-U-UKiTPmpgi9BRKLqGlDfWzqn9s6Gl&new=1)
- > 近日，英国《金融时报》发表了一篇名为《中国华为提议重塑互联网》的文章，文章指出中国正在利用国际电信联盟（ITU）向全世界强加一个全新的“新互联网”标准，意图输出中国制度。这种带有政治倾向的报道有失公...
- ## [百度Apollo智能交通白皮书发布，看“ACE交通引擎”如何赶超城市大脑](http://mp.weixin.qq.com/s?src=11&timestamp=1586475017&ver=2269&signature=uJP9ryuauf38oDjGHadutrtYDN-OBeNGq76sYK2o54j2vxAKCnLIqZLjL3rKq-5rEUoSNqD5J5Jd2v6nDll91TiuwwauMVq1bmhE5*kEcXdzCYaGP8jS0c8cHqNY-mnW&new=1)
- > 百度作为国内唯一一家具备车、路、云、图全栈能力的公司，所打造的“ACE交通引擎”是一套完整的智能交通全套解决方案。文丨AutoR智驾  子墨智慧交通正站在一个新起点上。 今天（4月9日），百度Apollo正式对外发...
- ## [重磅：借鉴云南混改经验 联通又有7个地市将外包!](http://mp.weixin.qq.com/s?src=11&timestamp=1586475017&ver=2269&signature=KyRgpHn3GlI-QGlYZbceLCFDMgBNksKyPY*XKFTeO2AfQ6ywRsvYg4x4v-NSylGMmr8A9ckWvqiZOPzAgwRxh3*5-XKITZtb5Z4FdPnX*m91505YKCs9w9LzqzOf69KV&new=1)
- > 来源 国盛证券中国联通年报点评报告：移动主业企稳回升有望，政企业务实现规模突破事件：日前，中国联通发布2019年年报，实现收入2,905.1亿元，同比减少0.1%；净利润112.8亿元，同比增加23.4%；可比口径EBITDA为...
- ## [疫情之下，英特尔全球供应链稳定!Xe独显即将上市，明年量产7nm!](http://mp.weixin.qq.com/s?src=11&timestamp=1586475017&ver=2269&signature=NA2zs2gELmpaKW7w8D39TSGlW5Xoibe0srtX64TVf82ScJsZupWIaQzUS8-RoA7HkwvNb9Earpb2fRDFszABK2hyyKHXcyH1mi6*H4au3PzWzV3dLjGPCN4TTc-qIImU&new=1)
+ ## [疫情之下，英特尔全球供应链稳定!Xe独显即将上市，明年量产7nm!](http://mp.weixin.qq.com/s?src=11&timestamp=1586478604&ver=2269&signature=NA2zs2gELmpaKW7w8D39TSGlW5Xoibe0srtX64TVf82ScJsZupWIaQzUS8-RoA7HUcyDrvQU*Noz76hnMMxYUamD0NjLVFwCA4hFz-sctliy0v*z-BevDBN1cIyciPYf&new=1)
  > 4月9日下午，英特尔在线上召开了主题为“智存高远·IN擎未来”的2020英特尔中国媒体纷享会，介绍了在新冠疫情之下，英特尔对于未来科技产业发展机遇的看法，并首次提出了“智能X效应”概念，分享了英特尔在“六...
- ## [Windows 10快速通道更新资源管理器快速查看Linux子系统文件功能](http://mp.weixin.qq.com/s?src=11&timestamp=1586475017&ver=2269&signature=CgLe5U8d*vMpFe4cl0EWHdKir4ecaDkbvXt3C7sqWPCjICcft27uX1eLLQuDnJPPUfuisMyvOH5dzzyMaPkEOdbs*dZfWXSKmXoslpl3RhgSXqlE*Gnm0ARjuUUm61Yq&new=1)
+ ## [到底谁给New IP强加了“政治标签”?](http://mp.weixin.qq.com/s?src=11&timestamp=1586478604&ver=2269&signature=dInAHUuzdMWDA9Q*GcMXKtmYWeaaj8hkL7g4zdsTidtM9299WtOis7lQJLfdV7gWbx-pslZNhK5Dx0u9e1zOIayrQw-8e7n0A6zM0Gv6RMwjU3Z6USE7vMfmE5AjpO5X&new=1)
+ > 近日，英国《金融时报》发表了一篇名为《中国华为提议重塑互联网》的文章，文章指出中国正在利用国际电信联盟（ITU）向全世界强加一个全新的“新互联网”标准，意图输出中国制度。这种带有政治倾向的报道有失公...
+ ## [重磅：借鉴云南混改经验 联通又有7个地市将外包!](http://mp.weixin.qq.com/s?src=11&timestamp=1586478604&ver=2269&signature=KyRgpHn3GlI-QGlYZbceLCFDMgBNksKyPY*XKFTeO2AfQ6ywRsvYg4x4v-NSylGMSlUWJi9sFiAZbxngb2TmzXhr*eXG0Ext*o9v4tt4rkbN1ZFuIb2hR*LLtrVOkaQ6&new=1)
+ > 来源 国盛证券中国联通年报点评报告：移动主业企稳回升有望，政企业务实现规模突破事件：日前，中国联通发布2019年年报，实现收入2,905.1亿元，同比减少0.1%；净利润112.8亿元，同比增加23.4%；可比口径EBITDA为...
+ ## [Windows 10快速通道更新资源管理器快速查看Linux子系统文件功能](http://mp.weixin.qq.com/s?src=11&timestamp=1586478604&ver=2269&signature=CgLe5U8d*vMpFe4cl0EWHdKir4ecaDkbvXt3C7sqWPCjICcft27uX1eLLQuDnJPPd3q5xrCnIcbSJSaCHZ40-O3rHZEJ9zXMBik*XwD93da41opjF-XBGKTuMqhx6A6l&new=1)
  > 微软向快速更新（Fast Ring）通道Insider预览体验版用户推送了Windows 10 build 19603版本，在该版本中主要引入了面向Linux子系统的文件资源管理器集成。用户在安装了WSL之后可在资源管理器看到一个新的Lin
+ ## [百度Apollo智能交通白皮书发布，看“ACE交通引擎”如何赶超城市大脑](http://mp.weixin.qq.com/s?src=11&timestamp=1586478604&ver=2269&signature=uJP9ryuauf38oDjGHadutrtYDN-OBeNGq76sYK2o54j2vxAKCnLIqZLjL3rKq-5rKhle6hT240QWnC0YDmshNC9JuWbbyncxGXltlKASK856lEJFfvSx7mcrU0Rkj2d3&new=1)
+ > 百度作为国内唯一一家具备车、路、云、图全栈能力的公司，所打造的“ACE交通引擎”是一套完整的智能交通全套解决方案。文丨AutoR智驾  子墨智慧交通正站在一个新起点上。 今天（4月9日），百度Apollo正式对外发...
 # IT 技术 
+ ## [十六款优秀任务管理软件，哪款适合您呢？](http://news.51cto.com/art/202004/613973.htm)
+ > 十六款优秀任务管理软件，哪款适合您呢？
+ ## [老板问我分布式锁，结果悲剧了......](http://developer.51cto.com/art/202004/614180.htm)
+ > 老板问我分布式锁，结果悲剧了......
  ## [谷歌为何要养苹果的亲儿子Swift？原来意在可微分编程](http://news.51cto.com/art/202004/614153.htm)
  > 谷歌为何要养苹果的亲儿子Swift？原来意在可微分编程
  ## [区块链技术的起源与沿革（下篇）：Hyperledger Fabric与分布式联盟数据库](http://blockchain.51cto.com/art/202004/614089.htm)
@@ -29,10 +33,18 @@ categories: IT NEWS
  > 为远程办公人员提供24*7 IT支持的10款工具
  ## [让数据科学家代替DJ？Python帮你实现](http://developer.51cto.com/art/202004/614080.htm)
  > 让数据科学家代替DJ？Python帮你实现
- ## [网络 | 不是最佳，5G就要抛弃TCP/IP？](http://network.51cto.com/art/202004/614094.htm)
- > 网络 | 不是最佳，5G就要抛弃TCP/IP？
- ## [管理 | 20张图看全BAT的组织架构发展史](http://news.51cto.com/art/202004/614057.htm)
- > 管理 | 20张图看全BAT的组织架构发展史
+ ## [Shell脚本关于循环的一些总结](http://os.51cto.com/art/202004/614186.htm)
+ > 不管是哪一门计算机语言，循环都是不可绕开的一个话题，Shell 当然也不是例外。下面总结一些 Shell 脚本里
+ ## [WannaRen作者主动提供解密密钥？网友笑称：这届黑客太怂了！](http://netsecurity.51cto.com/art/202004/614184.htm)
+ > 最近两天，关注网络安全领域的朋友应该都有被一个名为WannaRen的勒索病毒刷屏。或许是因为该勒索病毒的名字
+ ## [说了这么多5G，最关键的技术在这里](http://network.51cto.com/art/202004/614185.htm)
+ > 说到天线，大家一定不会陌生。在无线技术非常普及的现代社会，天线在我们生活中随处可见。其中最常见的，当
+ ## [企业常见的网络安全问题有哪些?](http://netsecurity.51cto.com/art/202004/614183.htm)
+ > 企业网络安全最常遇到的问题是什么？我们又该如何保护企业网络？下面，我们一起来看。
+ ## [看了一份数据，顿时心情有点不太好了！](http://zhuanlan.51cto.com/art/202004/614182.htm)
+ > 最近无意中从一个朋友(律师)拿到了一份数据，是关于劳动纠纷案件诉讼的数据分析，看完之后顿时心情不太好
+ ## [26 个 CSS 面试的高频考点助力金三银四](http://developer.51cto.com/art/202004/614181.htm)
+ > CSS是层叠样式表( Cascading Style Sheets )的缩写，是一种样式表语言，用于描述以 HTML 之类的标记语言编
  ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
  > Java校招入职华为，半年后我跑路了
  ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
@@ -63,48 +75,70 @@ categories: IT NEWS
  > 作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！
  ## [​两年前不知如何编写代码的我，现在是一名人工智能工程师](https://blog.csdn.net/duxinshuxiaobian/article/details/104080206)
  > ​两年前不知如何编写代码的我，现在是一名人工智能工程师
+ ## [吊打面试官！近 40 张图解被问千百遍的 TCP 三次握手和四次挥手面试题](https://blog.csdn.net/csdnnews/article/details/105424412)
+ > 作者 | 小林coding来源 |小林coding（ID：CodingLin）不管面试 Java 、C/C++、Python 等开发岗位， TCP 的知识点可以说是的必问的了。任 T...
  ## [那些基础不好的程序员，后来怎么样了？](https://blog.csdn.net/csdnnews/article/details/105424413)
  > “基本功不好是程序员的通病，它痛在身上每个角落”每次面试时遇到问核心基本功，不少人心情都是这样的这次，我们就来看看那些基本功不好的人后来怎么样了????????????@西门吹雪初学开...
+ ## [呕心泣血算法指导篇](https://blog.csdn.net/csdnnews/article/details/105424414)
+ > 作者 |程序员浩哥来源 |小浩算法（ID：xuesuanfa）今天是小浩算法“365刷题计划”第70.5天。我们暂停一天，我自己有个很喜欢的话，叫做 “练习 - 坚持 - 总结 -...
+ ## [拿下 Gartner 容器产品第一，阿里云打赢云原生关键一战！](https://blog.csdn.net/csdnnews/article/details/105424415)
+ > 受访者 | 易立记者 |伍杏玲出品 | CSDN（ID：CSDNnews）近日，Gartner 发布 2020 年公共云容器报告，据报告显示，阿里云和 AWS 拥有最丰富的产品布局，...
+ ## [漫画：什么是 “哈夫曼树” ？](https://blog.csdn.net/csdnnews/article/details/105424420)
+ > 作者 |小灰来源 |程序员小灰（ID：chengxuyuanxiaohui）————— 第二天 —————————————————概念1：什么是路径？在一棵树中，从一个结点到另...
  ## [当 AI 遇见经典，科大讯飞发布两款智能笔记本新品！](https://blog.csdn.net/csdnnews/article/details/105411874)
  > 4 月 9 日，科大讯飞举办了以“上进青年‘新’文具”为主题的线上新品发布会。同时发布咪咕讯飞智能笔记本青春版、讯飞智能笔记本 LAMY 联名款两款新品。作为中国智能语音与人工智能产业的领导者，科大讯飞近年来持续发力智能终端创新产品，致力于用 A.I.技术提高人们的工作、学习效率。
  ## [2020 年，网络安全方面 5 大值得学习的编程语言](https://blog.csdn.net/csdnnews/article/details/105424406)
  > 作者 |Andrew Long译者 |明明如月，责编 | 夕颜封图 | CSDN下载自视觉中国出品 | CSDN（ID：CSDNnews）无论你是一名准专业人士，安全爱好者还是经...
+ ## [曾遭周鸿祎全网封杀的 360 猛将 ：草根打工到 36 岁身家上亿的逆袭！](https://blog.csdn.net/csdnnews/article/details/105424410)
+ > 作者 |云游小生来源 | 纯洁的微笑（ID:keeppuresmile）猎豹六周年，傅盛在内部演讲：“有部电视剧叫《奋斗》，名字很好，帅哥靓女，青春励志。但看了开头，我就看不下去了。...
+ ## [10 倍高清不花！大麦端选座 SVG 渲染](https://blog.csdn.net/csdnnews/article/details/105424416)
+ > 作者| 阿里文娱无线开发专家 波涛责编 | 夕颜出品 | CSDN（ID：CSDNnews）背景介绍用户在大麦上购票，需要自行选座。在大型场馆下，如何让 10 万+座位绘制达到闪开...
  ## [荣耀30S首销全平台夺冠 赵明：满足消费者对5G的所有需求和想象](https://blog.csdn.net/csdnnews/article/details/105409331)
  > 4月7日10:08，荣耀开年之作荣耀30S正式首销。根据荣耀官方战报，荣耀30S全平台销售额1秒破亿，截至当日23: 59，斩获全平台单品销量及安卓手机销售额冠军。另根据京东平台数据，荣耀30S在当天的手机新品销量榜单上也持续领先，成为京东当天销售最火爆的机型。于用户而言，最根本的消费驱动...
  ## [热搜！华为：这类程序员领10亿，程序员：真香！你怎么看？](https://blog.csdn.net/csdnnews/article/details/105424404)
  > 人工智能真的玩大了吗？人工智能行业的人才真的“爆发了？”华为：10亿培养AI人才程序员：真香！你怎么看？最近，在AI圈里，发生了这样一件大事,华为宣布：计划投入10亿元人民币用于AI...
+ ## [华为发布国行版P40系列，售价4188元起；大疆回应“至少50%的裁员清扫计划”；Firefox 75发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/105424405)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头...
+ ## [程序员常用的泛型机制究竟怎么玩？](https://blog.csdn.net/csdnnews/article/details/105424407)
+ > 作者 |朱钢，责编 | 郭芮头图 | CSDN 下载自东方IC出品 | CSDN（ID：CSDNnews）开发人员会经常用到泛型，并且大部分开发人员都会很好的使用泛型。泛型需要底层运...
+ ## [如何成功构建大规模 Web 搜索引擎架构？](https://blog.csdn.net/csdnnews/article/details/105424409)
+ > Web搜索引擎十分复杂，我们的产品是一个分布式系统，在性能和延迟方面有非常苛刻的要求。除此之外，这个系统的运营也非常昂贵，需要大量人力，当然也需要大量金钱。这篇文章将探讨我们使用的一些...
 # 人工智能 
- ## [我可以请你吃一千块钱的饭，但是你欠我的一百块钱你得还，不为什么，这是规矩！](https://blog.csdn.net/qq_39390545/article/details/105373507)
+ ## [python几种安装库的方法（cmd，anaconda，pycharm）](https://blog.csdn.net/XBL2015HENU/article/details/105365805)
+ > python几种安装库的方法（cmd，anaconda，pycharm）
+ ## [博客文章无法导入公众号？公众号文章也无法导出？有这俩神器（Get、Typora）就够了](https://blog.csdn.net/weixin_45728976/article/details/105378988)
  > 
- ## [如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？](https://blog.csdn.net/dataiyangu/article/details/97544551)
- > 如何让自己像打王者荣耀一样发了疯、拼了命、石乐志的学习？
- ## [我的本科回忆录：从迷茫自卑到保送华科](https://blog.csdn.net/wangshuaiwsws95/article/details/105381383)
+ ## [假新闻无处不在：我创建了一个通过深度学习的方法标记假新闻的开源项目](https://blog.csdn.net/m0_46510245/article/details/105385864)
  > 
- ## [QQ三国推荐孝廉答题库](https://blog.csdn.net/qq_36612997/article/details/53036790)
- > QQ三国推荐孝廉答题库
- ## [英语从零到过英语4级不是梦，跟我一起考过四级！！！！！！](https://blog.csdn.net/qq_43650667/article/details/104974145)
- > 英语从零到过英语4级不是梦，跟我一起考过四级！！！！！！
- ## [零基础21计算机考研进度汇总记录](https://blog.csdn.net/qq_43422111/article/details/105332538)
- > 零基础21计算机考研进度汇总记录
- ## [CODOSYS之结构化文本（ST）—— 初级篇（一）前言](https://blog.csdn.net/JiesonLove/article/details/105370891)
- > CODOSYS之结构化文本（ST）—— 初级篇（一）前言
- ## [CSDN如何自定义一个漂亮的模块](https://blog.csdn.net/qq_17623363/article/details/105395716)
- > CSDN如何自定义一个漂亮的模块
- ## [企业网站设计建设细节非常关键,不能忽略](https://blog.csdn.net/ws19991103/article/details/105386344)
- > 企业网站设计建设细节非常关键,不能忽略
- ## [教她写代码的那些日子 4 Java程序结构](https://blog.csdn.net/m0_46455711/article/details/105382544)
+ ## [Python：绘制樱花树](https://blog.csdn.net/qq_41297934/article/details/105349790)
  > 
- ## [Windows任务栏无响应临时解决脚本](https://blog.csdn.net/whstudio123/article/details/105363053)
- > Windows任务栏无响应临时解决脚本
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [心灵鸡汤-迷茫-困惑-付出没有得到回报](https://blog.csdn.net/weixin_42285162/article/details/105378706)
- > 心灵鸡汤-迷茫-困惑-付出没有得到回报
- ## [人人焦虑的时代，程序员该如何安身立命？我记住了这三点...](https://blog.csdn.net/u010632165/article/details/105270911)
+ ## [最适合小白的matlab教程系列_进阶系列二之微积分](https://blog.csdn.net/weixin_45822638/article/details/105391020)
  > 
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
+ ## [当阿里面试官问我：Java创建线程有几种方式？我就知道问题没那么简单](https://blog.csdn.net/eson_15/article/details/105393279)
+ > 
+ ## [ROS硬件开发：ROS小车+ROS机械臂](https://blog.csdn.net/weixin_44827364/article/details/105380594)
+ > ROS硬件开发：ROS小车+ROS机械臂
+ ## [2020春工程伦理期末考试题](https://blog.csdn.net/qq_35443700/article/details/105367042)
+ > 2020春工程伦理期末考试题
+ ## [基于数据科学的恶意软件分析（五）](https://blog.csdn.net/AcSuccess/article/details/105396057)
+ > 
+ ## [『论文阅读』SIF：一种简单却难以打败的句子嵌入方法](https://blog.csdn.net/qq_42491242/article/details/105381771)
+ > 
+ ## [【C++养成计划】基本语法（Day2）](https://blog.csdn.net/wjinjie/article/details/105355433)
+ > 【C++养成计划】基本语法（Day2）
+ ## [【Adams】"接触力Contract force"浅谈](https://blog.csdn.net/Robot_Starscream/article/details/105357193)
+ > 【Adams】&quot;接触力Contract force&quot;浅谈
+ ## [机器学习笔记1——机器学习导论](https://blog.csdn.net/weixin_44916097/article/details/105376796)
+ > 机器学习笔记1——机器学习导论
+ ## [简单数据分布分析及python实现](https://blog.csdn.net/Cyrus_May/article/details/105364689)
+ > 简单数据分布分析及python实现
+ ## [同花顺前端岗一面面经（2020.4.8更新）](https://blog.csdn.net/weixin_45931321/article/details/105384233)
+ > 同花顺前端岗一面面经（2020.4.8更新）
 # PM 
+ ## [《龙岭迷窟》互动剧广受关注的背后，有哪些互联网产品哲学？](http://www.woshipm.com/it/3681891.html)
+ > 年度重磅大作《龙岭迷窟》正在腾讯视频播放，然而该剧忽然画风一转，抛出一个神秘“彩蛋”《最后的搬山道人》。作为互联网产品、运营经理的我们，又该如何分析《最后的搬...
+ ## [用户增长实验三部曲（2）：如何准确评估「产品和运营策略」的效果？](http://www.woshipm.com/pd/3678390.html)
+ > 在采用一套新的产品、运营策略后，我们势必要对策略效果进行调研分析，并准确评估出效果如何、比以往好了多少等。那么除了保证评估结果的客观与科学，有没有一套准确的...
  ## [B端产品公开课丨B端产品经理进阶之路：从执行到引领的成长法则](http://www.woshipm.com/open/3683881.html)
  > B端产品天然要求产品经理理解洞察业务。B端产品一般都是由业务驱动的，这就决定了产品面向的目标客户群体是谁，要做什么东西，什么东西不能做，怎么做，为什么这样做，...
  ## [产品经理周报第 106 期｜字节跳动推出启蒙AI课App“瓜瓜龙英语”；高德地图上线“武汉过早地图”](http://www.woshipm.com/it/3682186.html)
