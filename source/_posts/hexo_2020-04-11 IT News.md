@@ -1,30 +1,44 @@
 ---
 title: 2020-04-11 IT News
 copyright: true
-date: 2020-04-11 12:01:28
+date: 2020-04-11 17:01:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [突发!继中兴华为之后，美国再对中国电信下黑手!](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=I8iTBIZad2HgppjXp7y6NBC4BAAyM4xpxSEGfUsd4usi*bLTVnmuYydcpojC8G4qtWjBgUqkfuT7uY8w9AXNXPFLWcI3tj*-Oc9wzNRHt3qOW0*o41Ls8nBOeBdPrUcS&new=1)
- > 据路透社4月9日报道，美国多个机构向联邦通信委员会（FCC）提出要求，敦促其撤销对中国电信美国分公司的授权，禁止其在美国的国际通信服务。美国这些机构给出的具体解释是，中国的电信运营商“受到中国政府的控...
- ## [未知大陆推出3D打印企业直播带货服务，按效果付费](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=vPjUwLqFiQjfgS37GP8Ijk0rZyJQUkwsm3Ami0NmFUGgzZePOwKW4SUea3sZ*kthJwmKSuUhAeFjVlzew6WMaEimI2iYNpTP2fbOszDGean9WtPoMaABS2Wh0hoNK7nR&new=1)
- > 2020年4月11日，全球领先的3D打印数字制造云平台未知大陆正式推出直播带货服务，以推进3D打印技术在各个领域的应用，针对3D打印企业推广产品或服务，采取按效果付费模式；针对3D打印行业专家进行知识分享，采取...
- ## [微软收购史上最危险域名之一“corp.com” 为对抗Windows黑客攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=q2SSntx14OB6rCku6WGsExr7Ke*lifcuKvx-i8UWRJCNC-FU4O06d9W8Iv6aVlWVRs5*NSA4siXB4HqwZ3HlUURSgASzT2TykhxQfoU6dmc4y8cnfZZ*JijrUxCjb0ln&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月11日讯，近日据外媒报道，微软已同意以未公开的价格从私人所有者那里购买域名corp.com。根据新闻记者布莱恩·克雷布斯运营的博客KrebsOnSecurity
- ## [深耕“大数据”广拓“新基建”持续培育壮大高质量发展新动能](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=XU-lU0SC4n7OFhgWa0BqdT1MVdlevOiUM6pP8VFzXwZjtdyUZC*XOvIX6xPPob49lLZwXmpRRbx--mBeq9-x8LzaE8qaOmIc9SXBfu*I82Q=&new=1)
- > 贵州日报讯（记者 李薛霏） 4月10日，省委副书记、省长谌贻琴赴贵阳市、贵安新区调研新型基础设施建设。她强调，要深入贯彻落实习近平总书记重要指示精神，按照中央和省委的部署要求，抢抓战略机遇、发挥先...
- ## [创想三维6周年：已有16条3D打印机生产线，月产能超5万台](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=42kJvDr7dGjqKHhK2k3iDLzRDaBY1d8BDDMu8o4uO9xOjDASaCvOR9OOf0MLRzBhAjfF2hdwMpPgiqL8FrDVMwWoLk74qU4eod1Do-5E6r5morYaAzv4sDLnZmZXnYpI&new=1)
+ ## [苹果谷歌罕见联手：将利用手机追踪疫情，可覆盖30亿用户](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=PHniM3MMhLgjXbSz9US4xPgb9XABiz2NnNZkcv-xaP4aeWFxPbPA-cwVT3BGllLufLPdWFWdtSczee45PrFcaRTURzd8FOcSWRHG9v-W04w=&new=1)
+ > 据外媒4月11日消息，在新冠肺炎疫情肆虐全球之时，苹果和谷歌这两大科技巨头宣布进行了一次史无前例的合作项目。两家公司将在各自的智能手机系统上增加“接触者追踪”功能，一旦用户接触了新冠肺炎患者，就会收...
+ ## [苹果谷歌联手，最大「健康码」项目启动：利用全球30亿手机筛查新冠密切接触者](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=6f5mu*RQW1qyyP89pAxCefgD4bGWqA5mIwdm1eHvlfkf5GBp16klSMO5w9qnTn7V9g60NxqZjFTcyvrL1iqekdH-NZC4HnFtHS8AXJlsAYddfl4RDYaFYAgHfLRwwMOy&new=1)
+ > 机器之心报道参与：泽南、张倩这可能是头一次，苹果和谷歌共同宣布即将联动推出应用。这一旨在追踪新冠的项目将覆盖全球 99% 的智能手机。对此美国网友表示：感觉人权受到了侵犯。全球蔓延的新冠疫情正在催生一...
+ ## [讯石直播课|陈益新教授光通信云课堂——《光纤通信光器件技术和应用》开课啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=iYIbPorlVpOq4drhw02a63BTaV2omtVaQc3B2gjVUyHfuYne1KyFHvOMOO-9-rkEfRaHrQehyQPqPIzC7oT*ZInTp7ZMiC-sq2d-FYzFoDFqnkRwLbxx0B3AG*UqWwkt&new=1)
+ > 今日新闻讯石携手原上海交通大学应用物理系主任、光学博士生导师和IEEE终身高级会员——陈益新教授正式面向光通信行业从业人员推出云课堂系列——《光纤通信光器件技术和应用》，99元10节直播课程，欢迎报名咨询...
+ ## [阿里达摩院自研图像处理器：同时支持6路摄像头工作，已落地无人车物流业务](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=m277WvFCgexvpmwLOqma7-MGaTdX6Jr8KVBIneqSCLsGWrZSEC90jOxeZi1q4cG9Jj6EtBEGETQtOmP03h4NFkQ*mt4oxBaq83qyXrCKNPMlUdy5Qr8lJtlzqMTqp9F3&new=1)
+ > ISP 处理器作为移动端设备重要的图像处理构成，在自动驾驶领域开始扮演重要角色，「当前市面上已有的车规级图像处理器图像处理效果不能满足自动驾驶深度学习算法的需求」，达摩院自动驾驶实验室，高级技术专家 ...
+ ## [“5G消息”真的来了，专家：微信小程序可能危险了](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=nHbPiWkKCq3eI9t9i8z74*ET2RKJmuUOHLaxkDHqxiHYAwFKq09IzcARrdHb0DvkKH7K*mOWTxr0Fs6eksmwMM2C9xXmYk*u2DgdVT2*1*po-58r1BvM8kXYSOZYzQIN&new=1)
+ > 三大运营商、九大手机厂商携着可以直接触达十几亿人的“5G消息”而来，微信、支付宝们会一点都不紧张吗？文 | 《中国企业家》记者 王雷生编辑 | 李薇头图制作 | 王超如果中国移动、中国电信和中国联通三大运营商...
+ ## [全是干货!汽车行业464篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=XPNGF7nFQP1IXpYA8xjs2VAAGEHxPuIlR3VeT*6S7ADLcjQQq-qlKyh-YdtqNqGHCOmsSECapwoCmL6fiyBq7f8TGtFVeXIxjjNw2Tq9o667LuWWGenobkX7G*bcEC*9&new=1)
+ > 汽车行业464篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享464份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [iPhone 12系列旗舰有望分批发布；美威胁吊销中国电信在美经营许可，外交部发言人回应；VS Code新版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=9zb7W5tYp2369AwcTrk3KoWWsi5A6c8*80akorSvts-*JtQtb4FUbFMr-MUpNbQYiHbvPIAkFeg-urR0-maKBGU9CKnW7INVIJVevqHkFZDBTfP37E3JaznykqWcnaiu&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [创想三维6周年：已有16条3D打印机生产线，月产能超5万台](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=42kJvDr7dGjqKHhK2k3iDLzRDaBY1d8BDDMu8o4uO9zjeZn-bGtgTmqi1iHFxJz34Z9-rnpGBGzCsmyRLbeuePiVtPIRYwIKWCmxlIndM6zpn3ylCfS2Y1nzxQsr7Rlk&new=1)
  > 2020年4月9日下午2点30分，中国桌面3D打印机龙头企业创想三维举办了“创想三维6周年庆典暨新品发布会”，并联合南极熊进行了线上直播。在全球经济不断受到疫情影响之际，创想三维的6周年庆典上给我们带来了哪些...
- ## [B站获索尼4亿美元战略投资丨特斯拉柏林超级工厂已停建\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=rJPyRgNxau0sGM-oftOWXi3nXQmxQAmNFdZBYND2IdFrFexTiWwPntmiCgprWtVMOkJmPYm3f0GgY10F-bhykHPX8BxexiZNYHfORh-1ozSjldfI959maSfsbXjDZkni&new=1)
+ ## [突发!继中兴华为之后，美国再对中国电信下黑手!](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=I8iTBIZad2HgppjXp7y6NBC4BAAyM4xpxSEGfUsd4uujNYMO7vCsn5B0pfwBJTsV3xASoZwqC-MPKGVSjCwsSup9KS8TYfYDJVR3g2*A1vu77uy-nlxoqe9EKx2U22zR&new=1)
+ > 据路透社4月9日报道，美国多个机构向联邦通信委员会（FCC）提出要求，敦促其撤销对中国电信美国分公司的授权，禁止其在美国的国际通信服务。美国这些机构给出的具体解释是，中国的电信运营商“受到中国政府的控...
+ ## [未知大陆推出3D打印企业直播带货服务，按效果付费](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=vPjUwLqFiQjfgS37GP8Ijk0rZyJQUkwsm3Ami0NmFUGHWwRX*Kof6kH*qPaKw5l9g1T9g8NFBM8XQ9MW2cYTPNoZ-jYH7uL34c*PHV8Ewu6BQ4hy83gA0bE6B7qmkS6g&new=1)
+ > 2020年4月11日，全球领先的3D打印数字制造云平台未知大陆正式推出直播带货服务，以推进3D打印技术在各个领域的应用，针对3D打印企业推广产品或服务，采取按效果付费模式；针对3D打印行业专家进行知识分享，采取...
+ ## [微软收购史上最危险域名之一“corp.com” 为对抗Windows黑客攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=q2SSntx14OB6rCku6WGsExr7Ke*lifcuKvx-i8UWRJCp-r9HnkyaeH*lco7Co67tl5RSyZ7eM2tlvdddn78ab5tgwQ1TH7RjNTE3hYTfLozRi-UTP8CnVRAls5GqDKqg&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月11日讯，近日据外媒报道，微软已同意以未公开的价格从私人所有者那里购买域名corp.com。根据新闻记者布莱恩·克雷布斯运营的博客KrebsOnSecurity
+ ## [深耕“大数据”广拓“新基建”持续培育壮大高质量发展新动能](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=XU-lU0SC4n7OFhgWa0BqdT1MVdlevOiUM6pP8VFzXwZx2BsJdNYg-SUwly2kdCDEh5alyUGG0B2LxuS6igisEjnNmJPIDGmchm5zPsFFc9U=&new=1)
+ > 贵州日报讯（记者 李薛霏） 4月10日，省委副书记、省长谌贻琴赴贵阳市、贵安新区调研新型基础设施建设。她强调，要深入贯彻落实习近平总书记重要指示精神，按照中央和省委的部署要求，抢抓战略机遇、发挥先...
+ ## [B站获索尼4亿美元战略投资丨特斯拉柏林超级工厂已停建\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=rJPyRgNxau0sGM-oftOWXi3nXQmxQAmNFdZBYND2IdF0tIwC1v*9wDjwouR4FNZCi98uRw*NcY2MLf3zNbGKBvtE*89IWSl5w8KqaTP0uA8k7tHsNmrXnC7FYapcZlhe&new=1)
  > 4月10日丨周五【Do说】编辑 | 赵艾虎B站获索尼4亿美元战略投资 将在动画、游戏等领域展开合作哔哩哔哩宣布获得索尼4亿美元的战略投资。同时，双方还将在多个领域展开合作，尤其是动画和移动游戏领域。台积电被曝...
- ## [谷歌新操作系统Fuchsia OS即将完成，或将取代安卓](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=XLkd06jMPu2olQzIXt4EV4bPta66zIECQeFNW5ElpQD-eJRFWqi6mHC0RRI*gdVhF9mDgeMo3uWbDoglosqILWmOmKK*4iN4fByx7M7Sz9aEHoKwjmq8YlzmZ7Uwu2gk&new=1)
+ ## [谷歌新操作系统Fuchsia OS即将完成，或将取代安卓](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=XLkd06jMPu2olQzIXt4EV4bPta66zIECQeFNW5ElpQC2h-T-Z*9l-T-HiWUyg4hs1A-sqxzAbNEFmSFZZw92Qa8IA-Udu*Ajwbd0zllpQuJd9vGcR-0LToRaO9GkM8DM&new=1)
  > 一切要从2016年说起，当时的谷歌还是宣称是一个工作用框架，直到2017年，谷歌也没有说明关于Fuchsia是操作系统的一个字。从此时开始围绕Fuchsia，除了技术，还有一些理论升级，Fuchia在智能手机行业得到的喜誉参...
- ## [iOS 14代码曝光新功能：无需完全下载就能预览应用!](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=iWkSVKgqju*egrCVWitMYdtqcoOwwsWM28CuaJYP1PL0sAUrrM3fAox4CkliYml*mCBdmPkDQQeLqmhzbqnYTr0zqGwYd5rmOiZz-OXHUMG6CaC3-V57BY-BL8izX43-&new=1)
+ ## [iOS 14代码曝光新功能：无需完全下载就能预览应用!](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=iWkSVKgqju*egrCVWitMYdtqcoOwwsWM28CuaJYP1PJ*CD4Ew7es-t4HqgQGbxE0Cz4qVouIByp3SUOFQ8l**vgrEOMrtJe2U*xObnBXsqolK0-Q0Ug*dFN-bFh-ftlf&new=1)
  > 据外媒9to5mac报道，苹果正在研究一种“预览”App的新方式，该功能让用户可通过扫描QR码的方式体验应用程序的部分功能。外媒发现在iOS 14代码中苹果会使用一种内部称为“Clips”的新API，经分析后发现该API允许...
- ## [暴增403.27%!平安科技首次与华为同榜](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=2V8j6ARd5lA3ZhwYujhuYpxtnCVvxU1GdYMSoPxjufbarjYgZFAv2QwFi6lscNpFI*8XRp00CFwNzVh625JGslEi17XlGR8KfL9ccydwF8q5vsvXIKnZCii7pRAIxfUT&new=1)
+ ## [暴增403.27%!平安科技首次与华为同榜](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=2V8j6ARd5lA3ZhwYujhuYpxtnCVvxU1GdYMSoPxjufa6qepxGdrr1IIKHM7-KZQBowJ825MSPYv38aVtl61apneXv90tBtLySEzTrAE7OprN78OMmDqIa-BXEsYKdjYO&new=1)
  > 近日世界知识产权组织（WIPO）公布了2019年国际专利申请情况，华为不出意料地再次成为申请专利数量第一的企业申请人。同时，各国的排位也发生略微变化，最引人关注的是中国首次超越美国，成为全球最大专利申请国...
- ## [中央文件将数据纳入生产要素有何深意?](http://mp.weixin.qq.com/s?src=11&timestamp=1586577605&ver=2271&signature=UNU4np0YXjaPPq*f31L4U3Ll5wApC0QaB6Vd2j5UIdfxt8idd50gWoLe7k-J-cqr3pPpy6LzIwzsPsp54e0gWe627*BO0LrKZUQ*JlfwHo3A7WWRiDXAb8xFWYgqfCAw&new=1)
+ ## [中央文件将数据纳入生产要素有何深意?](http://mp.weixin.qq.com/s?src=11&timestamp=1586593859&ver=2271&signature=UNU4np0YXjaPPq*f31L4U3Ll5wApC0QaB6Vd2j5UIdemhp-dCrn1BVVLioOmv0nnfDLjQLIHLDDMyWktsmcGnh1BaU41BhJ-X40gnG58EP6FQN4clj9kV5-5afU-RqpF&new=1)
  > ◎ 科技日报记者 刘垠4月9日晚，《中共中央国务院关于构建更加完善的要素市场化配置体制机制的意见》（以下简称《意见》）对外公布，作为中央第一份关于要素市场化配置的文件，明确了要素市场制度建设的方向和重...
 # IT 技术 
  ## [十六款优秀任务管理软件，哪款适合您呢？](http://news.51cto.com/art/202004/613973.htm)
@@ -43,6 +57,8 @@ categories: IT NEWS
  > 陆奇疫情之下新思考：数字化历史机遇在加速，送给创新者8个字
  ## [BEC攻击愈演愈烈，怎样才能根除这种攻击？](http://netsecurity.51cto.com/art/202004/614188.htm)
  > BEC攻击愈演愈烈，怎样才能根除这种攻击？
+ ## [2020年云计算产业链现状分析](http://cloud.51cto.com/art/202004/614262.htm)
+ > 据中央国家机关政府采购中心数据显示，截至3月31日，阿里云位列中央国家机关云计算采购市场第一，份额超过5
  ## [苹果谷歌联手，利用iPhone和Android App追踪疫情传播](http://mobile.51cto.com/news-614261.htm)
  > 苹果公司和谷歌公司周五宣布了一项合作伙伴关系，两家公司将合作提供工具，以帮助追踪新冠病毒的传播。
  ## [教育部：将启动高校在线教学英文版国际平台建设项目](http://www.cioage.com/art/202004/614260.htm)
@@ -71,14 +87,14 @@ categories: IT NEWS
  > 2020阿里全球数学大赛：3万名高手、4道题、2天2夜未交卷
  ## [Oracle Database Express 18.4版本：敏捷的二步安装法](https://blog.csdn.net/eygle/article/details/105088412)
  > Oracle Database Express 18.4版本：敏捷的二步安装法
- ## [!大部分程序员只会写3年代码](https://blog.csdn.net/qing_gee/article/details/104960082)
- > !大部分程序员只会写3年代码
  ## [醒的越早，越焦虑，马上奔35了](https://blog.csdn.net/wo541075754/article/details/105086368)
  > 醒的越早，越焦虑，马上奔35了
- ## [程序员毕业去大公司好还是小公司好？](https://blog.csdn.net/harvic880925/article/details/105021956)
- > 程序员毕业去大公司好还是小公司好？
+ ## [!大部分程序员只会写3年代码](https://blog.csdn.net/qing_gee/article/details/104960082)
+ > !大部分程序员只会写3年代码
  ## [【OpenCV】OpenCV图像/视频的读取与写入（C++版）](https://blog.csdn.net/qq_38410730/article/details/103864680)
  > 
+ ## [程序员毕业去大公司好还是小公司好？](https://blog.csdn.net/harvic880925/article/details/105021956)
+ > 程序员毕业去大公司好还是小公司好？
  ## [Java14来了！Switch竟如此简单？Lombok也不需要了？来用Idea搭建Java14吧！](https://blog.csdn.net/sufu1065/article/details/105032109)
  > 
  ## [【Unity3D开发小游戏】《打地鼠游戏》Unity开发教程](https://blog.csdn.net/q764424567/article/details/105075811)
@@ -108,60 +124,42 @@ categories: IT NEWS
  ## [如何使用 Mybatis 实现数据库 CURD 操作？](https://blog.csdn.net/csdnnews/article/details/105445743)
  > 作者|阿文，责编 | 郭芮头图 | CSDN 下载自东方IC出品 | CSDN（ID：CSDNnews）MyBatis 是一款优秀的持久层框架，它支持自定义 SQL、存储过程以及高...
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [Springboot整合ActiveMQ（Queue和Topic两种模式）](https://blog.csdn.net/qq_40205116/article/details/105198280)
+ > 
+ ## [【Spring】2. Spring Bean的声明周期跟注解使用](https://blog.csdn.net/qq_31821675/article/details/105352834)
+ > 
+ ## [程序员面试金典 - 面试题 17.18. 最短超串（双指针+哈希）](https://blog.csdn.net/qq_21201267/article/details/105438668)
+ > 程序员面试金典 - 面试题 17.18. 最短超串（双指针+哈希）
+ ## [【经典面试题】单链表的常见面试题](https://blog.csdn.net/lolly1023/article/details/105436836)
+ > 
+ ## [当阿里面试官问我：Java创建线程有几种方式？我就知道问题没那么简单](https://blog.csdn.net/eson_15/article/details/105393279)
+ > 
+ ## [讲给女朋友听的java多线程（2万字深入理解多线程，有实例代码辅助理解）](https://blog.csdn.net/qq_44755403/article/details/105376626)
+ > 
+ ## [阿里面试题：ConcurrentHashMap为什么是线程安全的？](https://blog.csdn.net/zycxnanwang/article/details/105424734)
+ > 
+ ## [30天搞定Java--day20](https://blog.csdn.net/weixin_42224119/article/details/105407350)
+ > 
+ ## [Java反射机理简介](https://blog.csdn.net/qq_40679438/article/details/105422593)
+ > 
+ ## [完美解决SpringDataJPA报错create table hibernate_sequence (next_val bigint) type=MyISAM Hibernate: create t](https://blog.csdn.net/Piconjo/article/details/105407980)
+ > 完美解决SpringDataJPA报错create table hibernate_sequence (next_val bigint) type=MyISAM Hibernate: create t
+ ## [线上订单号重复了？一招搞定它！](https://blog.csdn.net/xk4848123/article/details/105427680)
+ > 线上订单号重复了？一招搞定它！
+ ## [深析Synchronized关键字（小白慎入，深入jvm源码，两万字长文）](https://blog.csdn.net/weixin_42762133/article/details/103241439)
+ > 
+ ## [面试官：你说你懂i++跟++i的区别，那你会做下面这道题吗?](https://blog.csdn.net/qq_41907991/article/details/105337049)
+ > 
+ ## [程序员面试金典 - 面试题 17.15. 最长单词（排序+递归）](https://blog.csdn.net/qq_21201267/article/details/105441181)
+ > 程序员面试金典 - 面试题 17.15. 最长单词（排序+递归）
+ ## [Java非阻塞异步编程——CompletableFuture](https://blog.csdn.net/qq_36403693/article/details/105430351)
+ > 
 # PM 
+ ## [双螺旋下的互联网产品发展](http://www.woshipm.com/it/3679947.html)
+ > 互联网产品本质就是价值传导器，传导器的核心就是产品的逻辑和架构，如何让价值更快的传导，才是互联网产品的核心价值。划重点：重新思考：互联网产品的分类；产品...
  ## [从老罗抖音首秀，看直播卖货的3个关键点](http://www.woshipm.com/it/3684034.html)
  > 从罗老师宣布进军电商直播，再到入驻抖音及第一次顺利开播，电商直播算是正式出圈，本就很火的网红直播卖货又多加了一把油。大家都知道电商直播火，也都试图进入这个...
  ## [四大平台粉丝价值报告：教你如何做好双微一抖、小红书！](http://www.woshipm.com/marketing/3679492.html)
  > 流量时代下，粉丝重要性进一步凸显。粉丝不仅是品牌的重要资产，还是各大社交平台构建私域流量的突破口。这篇文章剖析介绍了四大平台KOL粉丝分析报告，为做好粉丝营销提...
- ## [如何用波士顿矩阵法来分析产品的生命周期？](http://www.chanpin100.com/article/111301)
- > 在现实中我们很难知道产品处在哪个生命周期。有什么方法能让我们知道产品的当前状态和所处的生命周期呢？我们介绍下如何用波士顿矩阵法分析产品的生命周期。
- ## [一看就会的智能家居原型在这里！还能集齐扫一扫和手机解锁页面](http://www.chanpin100.com/article/111300)
- > 分享两款原型设计思路~
- ## [产品设计小心机奉上，合理制造用户摩擦就能获取目标用户](http://www.chanpin100.com/article/111299)
- > 用户和产品，发生摩擦，该咋处？
- ## [保障产品质量的两个关键措施（下）](http://www.chanpin100.com/article/111298)
- > 技术团队实施过程中，如何保障产品质量！
- ## [大厂的产品经理优势有哪些？](http://www.chanpin100.com/article/111295)
- > 我在大厂做产品经理的那些坑
- ## [如果做项目时大家都说真话](http://www.chanpin100.com/article/111294)
- > 可惜没有如果
- ## [用户行为数据分析——数据埋点篇](http://www.chanpin100.com/article/111292)
- > 在用户行为数据分析当中，我们常用的采集数据方式有两种，一种是埋点数据，另一种是无埋点技术，我们今天主要来分析一下埋点技术与无埋点技术的优劣势......
- ## [从企业创新角度，谈互联网公司自研系统](http://www.chanpin100.com/article/111291)
- > 从企业创新角度看，互联网公司及未来的新经济公司，若想保持长久的创新能力，需自研业务系统。
- ## [AI产品经理发展与规划（附完整PPT）](http://www.chanpin100.com/article/111289)
- > AI产品经理发展与规划，附带完整PPT。产品经理未来发展讨论，如何提高个人竞争力，应对中年危机。
- ## [实体商业回春：90后仍然爱“玩”、“短”途消费小爆发](http://www.chanpin100.com/article/111303)
- > 社会零售总额中，实体商业仍占据七成以上，并消化掉了社会大量的就业岗位，它们的缓慢回春，为经济的整体趋势带来好的“兆头”。
 
     
