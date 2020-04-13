@@ -1,7 +1,7 @@
 ---
 title: 2020-04-13 IT News
 copyright: true
-date: 2020-04-13 12:01:06
+date: 2020-04-13 17:02:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -89,27 +89,45 @@ AI&#22768;&#32441;&#30740;&#31350;&#21644;&#24212;&#29992;&#26381;&#21153;&#2183
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [刚刚，中国联通定调：优质省分将优先发展!这几个省最受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=2r1Yf9LTr0rtNwL-o24TKQmPfTsQEciBE3nkCd7jKnIK5jrnGck5GROJttWtruMay6cMa0XwKSLHtewj9QVJkbeuocv6gY4soeGm5VbEwwLzoj0ra5xHEtBkncXrQ-QD&new=1)
- > 近日，知情人士向记者独家爆料称，中国联通各个地区的5G发展步伐不一样，中国联通已要求按照“先优质省公司、再潜力省公司”的步骤，给予联通省分公司5G 发展的差异化指导。联通省分差异的由来为何中国联通省分...
- ## [ZOOM事件后：美国参议院呼吁FTC制定视频电话会议软件安全准则](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=oBX7y-5U-rlHQi9IMRHg3EnOq8CUelH1PlpFyFOu2SGzAreCP0R4UVTTk3riRvm5HilcPzKs7V3e7uRBO-z9hY7tcVCDydgRhD2pnLWACHllyO3fheuAjKAmj5lry3rG&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月13日讯，近日据外媒报道，美国商业、科学和运输委员会成员Edward J. Markey (D-Mass)参议员周三已致函联邦贸易委员会（FTC），要求该机构对
- ## [\[报告\]2020年3月电动汽车充换电基础设施运行情况(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=min-0ZPUzPrY1gA4HxXq6Dne0gbZF6VmPn4vfJITHwL1hA*19WdOhcxYOW-vcgOtJvl1yRWST**pISWpuMtlHBjdpOt5TmxxsHVjf6bB8cHA5b2Q8-LOSaJcNGuGLw3J&new=1)
- > 截至2020年3月，通过联盟成员内整车企业采样约105.9万辆车的车桩相随信息，其中建设安装私人类充电桩72.5万台，未配建私人桩数量33.4万台。以下为报告节选：文│中国电动汽车充电基础设施促进联盟本报告共计：20...
- ## [张海鸥：中国原创金属3D打印“微铸锻”技术与装备，在线研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=Tz075fQKBKrQwd30ULr39FjUbHGjrnTZj5ewUXylWpED7GWfPrz62ENCVAjVrK1YkldGYcWZKe9*3wBSaTcbreHPTecO7b50A8XCa3HAKgI6jlDIkKvlHZfXuavdKelz&new=1)
+ ## [新基建大手笔!超百亿元项目落地，事关每个广西人](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=BR6J2CWRWXdKiVqpkdXgukXkDQObgB9lIXJJmEwbPRckKO3f8Y7s9LexwsYwcsehZurWqj9*Um4fjzWmM2emh89HGuhBk7FqwS94AZiCz99q0U8CYod5d2PjbFflAhcl&new=1)
+ > 4月13日，广西移动积极响应党中央和自治区党委政府关于推动5G“新基建”建设的号召，发挥区域主导通信运营商优势，宣布对2020年“新基建”投入超百亿元，进一步加快5G网络、中国-东盟信息港基础设施、中国-东盟5...
+ ## [烧5G信号塔、黑化比尔盖茨、反疫苗……这种“病毒”比新冠更难防](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=332Ztb7kgUHWC5wLXTBzN*rjXlbk7zH3NsENfTgnxGivZQJdxA44xG7tQ-5Ed5Wyg5ge4g6qqBoB3oiCEYkRO63DIAIZjtSB80*yIFAQKLZaxaPoT0L2uf9zHbIn69xW&new=1)
+ > 谣言变成了新冠疫情下的另一种“病毒”。反5G、黑化比尔·盖茨、反疫苗等荒唐的谣言，如今还在社交网络上不断地给人洗脑，如病毒一般传播。更可怕的是，它们正在促成人们形成一个个群体组织，像邪教一般操纵着人...
+ ## [总裁亲自率队，半年连投八家芯片公司，不缺「芯」的华为在投什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=VWZnO3ZeK*P-duaxm1rw5Cm3jSTK2WtxTDA6GE8ZLfSJlWjmbuM2AEos8WiNA9MXoliwrq72wjvmVHJt3b-u6phG8exkgszmjtsungplnH7vptqu3*9S7q-S1*0tYsVL&new=1)
+ > 自 2019 年专门成立投资公司以来，华为在不到半年的时间里密集投资了 8 家半导体和人工智能公司；而此前的过去十余年里，这一数字不过 14 家。华为海思已成为国内 IC 设计企业毋庸置疑的龙头，芯片技术可以和高...
+ ## [华为河图的野心或许不在于手机，而在于AR](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=VfJ-rySWZrLnxr-*H5RPvGhJutoBkr1gFlFCR5d0gCeq5dDRIHdIcyURikW6vKYIfa5v443z1RXheT64YdyBZNExcFnsMPpb7Qmv-*ArJe6EfhD2RvjQ3LFS7PgZrQzQ&new=1)
+ > 或许是希望模糊现实世界和虚拟世界的间隔，达到两者的融合。文 | 缪健（VRPinea4月13日讯）4月8日，华为举行P40手机的春季发布会。正在这场发布会上，华为正式推出了基于AR技术的华为AR地图——“河图”。VRPine...
+ ## [张海鸥：中国原创金属3D打印“微铸锻”技术与装备，在线研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=Tz075fQKBKrQwd30ULr39FjUbHGjrnTZj5ewUXylWpHedDOA7OgdZ4ztGCYQB4f3B4Ca5Bs-ZU3XVpxuJmXkbPsvC3NlRcdOjY0DUA39cTgc6Q9rggnpIsofto9oaiaL&new=1)
  > 直播主题：大型复杂高端零件微铸锻同步超短流程制造技术与装备时间：2020年4月16日晚上20：00主播人：华中科技大学 张海鸥教授合作：南极熊3D打印视频直播频道华中科技大学张海鸥教授团队“大型复杂高端零件微铸...
- ## [三大运营商将上线 5G 消息；苹果谷歌联手，追踪 30 亿用户；jQuery 3.5.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=jTTk4C3SEXx0YHMUDJ0GheElhAKmunZTpZUBCtPo0WlSRntvH-0HMkWQ-Jl-lWn0LtO*N6abkIy0C9aQrBsbzaFtwMScWKCciIkEYHkBLcqrWXDoDbNqWKdbVVxyLe9C&new=1)
+ ## [中国联通与人民网签署战略合作协议共建“智媒平台”](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=PhSYDwp9TDR4no9fAYg9kst3nad0lAtbSR3w9l5qoPRmeU*BdyH0YYt8XZ-1GOhYnN7ITZD-NbA3nEv1C1XGFc6giBgkbYfKBvZOcyb8x*dsPPPHrUtDUqZeHLYmNC6x&new=1)
+ > 4月9日，中国联合网络通信有限公司（简称“中国联通”）与人民网股份有限公司（简称“人民网”）通过远程视频方式就共建融媒体智能分发传播平台--“智媒平台”签署战略合作协议。中国联通董事长王晓初，人民日报...
+ ## [Zoom的“冰与火之歌”|硬核](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=H0exFwOvWmoD7edVt*0TXUfSUzRRi2*fVyeq5Pmg7rZNkfjdHwra8HoRq0*nhY9VJ9MhD-AyfNlSEFsgSAdTZ*O5ARzY24WoZ5kVO16uqOggzLEoGM-3zrFYpDHzASkj&new=1)
+ > 谁也没想到一场疫情让Zoom在短短两个月内市值翻了一倍，而更没想到仅仅在一周内，因为安全问题引发的舆情让CEO袁征频繁出面道歉，股价又从最高点重挫近30%。前有Marc Benioff离开老东家Oracle Siebel创立了Sales...
+ ## [比特币当赎金，WannaRen 勒索病毒二度来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=dGffw0dWOkXHm8M0yZ75ptZRw8pH0vkDiIDh0TFVHczjQ8eZqBsJbvhGC4QTZQwEjqsLYCfNamUDe2ZBMzKw5w2Lb0IluWb1vlqXyOR7Jkw1QZs8rgw5-xUoiXErhjg3&new=1)
+ > 作者 | 马超责编 | 胡巍巍出品 | 程序人生（ID：coder_life）近日网络上出现了一种名为WannaRen的新型比特币勒索病毒，与此前的“WannaCry”病毒类似，“WannaRen”病毒入侵电脑后会加密系统中几乎所有文件，弹
+ ## [ZOOM事件后：美国参议院呼吁FTC制定视频电话会议软件安全准则](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=oBX7y-5U-rlHQi9IMRHg3EnOq8CUelH1PlpFyFOu2SEp4r9xOb867UVbIF*DQHGWtFqY1VhWdNZpeWSVivKL4nfXDaolz*yUvRwKHYHX2WZfse7VOmVsPVNUop83fTDo&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月13日讯，近日据外媒报道，美国商业、科学和运输委员会成员Edward J. Markey (D-Mass)参议员周三已致函联邦贸易委员会（FTC），要求该机构对
+ ## [闪存市场逆势增长，紫光集团旗下长江存储顺势发布128层3D NAND](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=Y1GmelVLGIz3pY*PwyWGkdMmLJw8ZjI0pqeivfj9Et9-Q0NgoqWomS70oP8KKpVfh6zk8UjhkvGZQAJfwvXe-oA413vTtxFRicA1Rkf8klU=&new=1)
+ > 经济观察网 记者 陈秋 “作为闪存行业的新人，长江存储用3年时间实现了从32层到64层再到128层的跨越。” 长江存储市场与销售高级副总裁龚翊（Grace）表示。4月13日，长江存储科技有限责任公司宣布128层QLC 3D NA...
+ ## [三大运营商将上线 5G 消息；苹果谷歌联手，追踪 30 亿用户；jQuery 3.5.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=jTTk4C3SEXx0YHMUDJ0GheElhAKmunZTpZUBCtPo0Wkxm-qOLNsl2*7E2qcYfkaD*HHeMy6NTyMz1S0jGOb4qGV40BMFhk-NcpSzYiX***jGtCegJmpMjFdXIeuxhwxQ&new=1)
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
- ## [业绩|疫情影响下 旭创、新易盛一季度稳健增长](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=IN2BB79YPTh3mCKvh8loL18fF201ZtpufO1veENSpE6k*XbJ9TnQ-avO2uMs79tS18nP**ovabtcYpVa51u49QPVuWpFGor2JRgDVI3p7GBr4zTO0xc8zfdLPD5m7ne8&new=1)
+ ## [新视角：制造业的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=iKmxLYPiVIhvM7T9L4hBFtd35oIsGhTkiCAevPFIZB1S-KYk1FxwtPUPpXQxzFmHHThWwT74a8vSdvaDqNMvn6rJwF8zB05OzjBIT06o6tdnIwIm7ZWnCRRuvHago6Hb&new=1)
+ > 关于智能制造、工业4.0、网络-物理系统以及与未来制造相关的不少主题，前人的研究已经取得了大量的成果。本文旨在为读者提供一个新的视角，去讨论其他较少被人所关注的，却对未来制造业至关重要的话题，如混合制...
+ ## [刚刚，中国联通定调：优质省分将优先发展!这几个省最受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=2r1Yf9LTr0rtNwL-o24TKQmPfTsQEciBE3nkCd7jKnIiwRFp3R7gC4BPHzJWwlbvIaxDq6-FbDoxMknhYC4eXD3I1ECRaA0Bfbf7XWMM7LXSAnUnR9CH4rLKuy0o9V51&new=1)
+ > 近日，知情人士向记者独家爆料称，中国联通各个地区的5G发展步伐不一样，中国联通已要求按照“先优质省公司、再潜力省公司”的步骤，给予联通省分公司5G 发展的差异化指导。联通省分差异的由来为何中国联通省分...
+ ## [\[报告\]2020年3月电动汽车充换电基础设施运行情况(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=min-0ZPUzPrY1gA4HxXq6Dne0gbZF6VmPn4vfJITHwI-IxLiC*A*Ez8gRN*cm*OCfTzboWf0LhNQZ8AvEK8Luz5QILDRF56Awd49io9SowQgK22URdB6g0yCVeQ*GfzL&new=1)
+ > 截至2020年3月，通过联盟成员内整车企业采样约105.9万辆车的车桩相随信息，其中建设安装私人类充电桩72.5万台，未配建私人桩数量33.4万台。以下为报告节选：文│中国电动汽车充电基础设施促进联盟本报告共计：20...
+ ## [业绩|疫情影响下 旭创、新易盛一季度稳健增长](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=IN2BB79YPTh3mCKvh8loL18fF201ZtpufO1veENSpE42yRa3FsHS1pgOvFJ7K0mHTaQUzch8BhkeiAcXwFzYpdgvPPzsQwj2J0nD1bKynAJPsKD8*HzoG3yx7PccykNe&new=1)
  > 新闻导读COVID-19长期影响被认为有利于数字经济，从而给光通信带来发展机遇。而根据旭创、新易盛和EXFO在上周公布的业绩动态，比较好地反映了疫情对行业的影响。ICC讯 顶着COVID-19传播的压力，全球各地的数字鸿...
- ## [别了美国!华为突然宣布!](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=kCTg97ZVOPhQFvtuHCFhRJ5jiLYKr7fotQm2681nFREYiIptwhPOLkUVoCwKTedjN1sR7Lzc9IiNkQll5mf5XHLkeoowN7UOw7dJ8jebC5LQH8SV5NTTaT1wpAAxsnVe&new=1)
+ ## [别了美国!华为突然宣布!](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=kCTg97ZVOPhQFvtuHCFhRJ5jiLYKr7fotQm2681nFRHo-q8ihHeptFjTNIDRxqfkLf2KmXrK1rCmL0ZI0qDxnk1AOM*H50NMXbTIbB43f1G7976gVmN8H6pGZ2-j6Io6&new=1)
  > 文：财经要参（mofzpy）网易新闻一这是让国人意气难平的一刻！刚刚，沉默已久的华为重磅宣布！据福布斯杂志报道，华为在刚刚结束的华为年度分析师峰会上表示：美国市场或不再是其全球战略的一部分，它也对美国市...
- ## [微信这个功能，可能要永远消失了](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=-U5nyNYXkzD80mbaKpXGc59tVvbZK15pCsabec9JUAQLxwOZrOKXJerwm2Cxi8X38CZApnZNOatTFJBn2crFOSbN6L55PXAjp-QOEExl5J4MUpMt1HBn-m2kzsxD0ApN&new=1)
+ ## [微信这个功能，可能要永远消失了](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=-U5nyNYXkzD80mbaKpXGc59tVvbZK15pCsabec9JUASwjM4JbtQH7Kfz1W9xaKM9MdNO8CvdjmDqsU4lVxb1B9tPwzd8KLGC4NvO3wy-BbsBxCOA2Y*cAHAGR7aboGRq&new=1)
  > 如果机哥问，大家每天用的最多的 APP 是什么。可能有 99% 的人会说，是微信。在这个过程当中，相信大家发文字消息的比例，肯定比语音来得多。像机哥这种长得帅人脉广的，每天光是打字，都快把手指头磨秃噜皮啦。...
- ## [5G消息年内上线 实施流量计费可能性大](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=VMJDtbsYULlYajs1g0139w*LGO0lFuT8VJOtgmWjyg4LcZYN7WqOtrA-yW9WrVBBg7dSJ*vXh8GnHSFgBA3MLbf6FyTJBYCFDtfR*N4pxcWo5iUIPod97yT2kkZ3GGlE&new=1)
+ ## [5G消息年内上线 实施流量计费可能性大](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=VMJDtbsYULlYajs1g0139w*LGO0lFuT8VJOtgmWjyg4keXN8wFNqz2J1Ww*vl3rsdC-QQWa*lG6WXmgSpOkY2HVWKvg6VnNNlGn*lUdPqQKpBfgo41snyjYgchx2mF37&new=1)
  > 日前，中国三大运营商联合多位产业合作伙伴共同发布5G消息白皮书，揭开了5G时代消息业务服务变革的序幕。据央视新闻11日报道，5G消息将于年内上线。对于个人用户而言，5G消息将打破传统短信对每条信息的长度限制...
- ## [科创属性评价指引解读：国外发明专利亦可 药企、集成电路企业或可走例外条款](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=ynqahJTfyVLhNzUABtmVgqSHzb6HE316TnlZ9Oq9nmSXbd-AZQPBuzE13VKwYwueNqKyQSpljuuva8bjk1LqFSsniyWhx6x1oQ*IqxoR62*VirLXHuSjw5kXiHCvwWWA&new=1)
+ ## [科创属性评价指引解读：国外发明专利亦可 药企、集成电路企业或可走例外条款](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=ynqahJTfyVLhNzUABtmVgqSHzb6HE316TnlZ9Oq9nmSFlCoYBblV*I5juT9UWvtld51qNHDBjynC9Mb9qKanU36OxhmwOhdKLYq3qURTVxJJxD-8vXi4keP3JWoEVjIc&new=1)
  > 文 | 挖贝网 黄鹏2020年3月20日，证监会发布了《科创属性评价指引（试行）》（以下简称指引），指引为科创板定位提供了明确的制度保障。所以指引发布后，科创板过会迎来了一波小高潮，截止2020年4月10日，已有10...
- ## [独家：中国联通优质省分公司将优先5G发展 这几个省最受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1586748657&ver=2275&signature=Vq32StzN-vccA-y0Qt8nkkfcfKhJbR74rmS2-YF0TkNs*Eaei7l6qN9pGsZCDmVmPFW0Ay*23PN6Fjlx6YMKmSA12KO67z8lf3ddSvFZ0-wVtjppskWPG4PE9nJ8dPWZ&new=1)
+ ## [独家：中国联通优质省分公司将优先5G发展 这几个省最受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1586766604&ver=2275&signature=Vq32StzN-vccA-y0Qt8nkkfcfKhJbR74rmS2-YF0TkP5yvMeDSro7eGU2CtJvTvht4AgGsM2RujvnYi0plFqPYJghgxCAkWmu-7pJ42KXIZk-8-Gs*WWz30*w5UQdSos&new=1)
  > 运营商财经网 吴碧慧/文 近日，知情人士向运营商财经网独家爆料称，中国联通各个地区的5G发展步伐不一样，中国联通已要求按照“先优质省公司、再潜力省公司”的步骤，给予联通省分公司5G 发展的差异化指导。联通...
 # IT 技术 
  ## [六大容器管道大比拼：配置、优势、局限性和价格](http://cloud.51cto.com/art/202004/614028.htm)
@@ -128,54 +146,54 @@ AI&#22768;&#32441;&#30740;&#31350;&#21644;&#24212;&#29992;&#26381;&#21153;&#2183
  > Apple和Google推出美国版“健康码”，涉及30亿人，但背后藏着12个关键问题
  ## [35岁危机，40岁失业，那些40岁的程序员都去哪了？](http://news.51cto.com/art/202004/614289.htm)
  > 35岁危机，40岁失业，那些40岁的程序员都去哪了？
- ## [将物联网整合到医疗保健，农业和运输用例中](http://iot.51cto.com/art/202004/614315.htm)
- > 物联网技术每天都在扩展到新的领域。尤其是医疗，农业和运输行业，将从这些新技术中获得不可思议的收益。
- ## [为什么结构化布线市场将迎来快速增长?](http://server.51cto.com/Datacenter-614313.htm)
- > 随着有效的结构化布线系统的实施，在未来几年内，线缆管理领域将在结构化布线市场中获得可观的吸引力。
- ## [好消息！ACM数字图书馆免费开放：计算机优秀期刊免费下载、阅读！](http://news.51cto.com/art/202004/614310.htm)
- > 好消息！2020年6月30日之前，ACM数字图书馆都将免费开放！美国计算机协会数字图书馆（ACM Digital Library
- ## [没有被了解的API？一个老码农眼中的API世界](http://zhuanlan.51cto.com/art/202004/614314.htm)
- > 即便做了20多年的软件开发，仍然发现自己经常会低估完成一个特定的编程任务所需要的时间。有时，错误的时
- ## [10种有助于确保以数据为中心的网络安全的方法](http://netsecurity.51cto.com/art/202004/614308.htm)
- > 企业需要通过重要而强大的步骤来确保以数据为中心的网络安全。全球知名的投资者沃伦•巴菲特警告说，
- ## [上云之后，数据库管理员的角色会发生哪些变化？](http://database.51cto.com/art/202004/614306.htm)
- > 在上云之前，企业通常会有数据库管理员（DBA）和数据库专家团队，他们的主要职责是：为构建企业数据平台并
- ## [关于2020年云计算安全性的三件事](http://cloud.51cto.com/art/202004/614305.htm)
- > 根据调研机构的预测，到2025年，全球云计算市场规模将达到6230亿美元。尽管人们对云计算带来的好处感到兴奋
- ## [三大运营商联手推进，5G消息离成功有多远？](http://network.51cto.com/art/202004/614303.htm)
- > 4月8日，中国移动、中国电信、中国联通联合举行线上发布会，共同发布《5G消息白皮书》（以下简称《白皮书》
- ## [美国确诊超46万！美国州长竟然抢起高龄程序员了，什么情况？](http://zhuanlan.51cto.com/art/202004/614307.htm)
- > 写文章之前看了一眼美国的疫情数据，确诊超过了 46 万，死亡人数超过 1.6万，每日新增高达 3 万，美国政府
- ## [应对IT预算受限的7个技巧](http://news.51cto.com/art/202004/614299.htm)
- > 当资源有限时，明智而有创造性地分配IT资源是至关重要的。以下是首席信息官们在预算受限的情况下实现关键目
+ ## [WannaRen新型病毒勒索0.05个比特币，已有大量网友中招_IT技术周刊第623期](http://news.51cto.com/art/202004/614339.htm)
+ > 技术资讯尽在技术周刊
+ ## [强迫症福音：函数整理成类的5个原因](http://developer.51cto.com/art/202004/614337.htm)
+ > 不同函数具有不同的地位，类本质上是以某种方式相互关联的函数族。特定范围内二者具有共性，其工作内容也可
+ ## [5G芯片之争日趋白热，国产崛起该如何去做？](http://network.51cto.com/art/202004/614336.htm)
+ > 近年来，随着各种智能技术的快速发展，传统芯片行业逐渐迎来巨变。例如5G技术的出现，与芯片的融合发展，便
+ ## [东南亚地区云计算的发展方向是什么？](http://cloud.51cto.com/art/202004/614335.htm)
+ > 随着企业认识到云计算不是万灵药，企业在新技能、新应用、需求、原有IT管理等方面面临的挑战不断增加。
+ ## [微信小程序订单可一键接入广州互联网法院立案通道](http://mobile.51cto.com/-614333.htm)
+ > 今日，腾讯微信与广州互联网法院正式签署合作协议，双方将致力于推进微信小程序交易与诉讼保障的一体化解决
+ ## [互联网故障管理体系建设，看这一篇就够了](http://news.51cto.com/art/202004/614331.htm)
+ > 业界故障管理均基于ITIL演化而来，根据实际情况精简流程以适配互联网的精益迭代。
+ ## [移动、电信、联通的对手不是腾讯，5G消息要再造互联网生态？](http://news.51cto.com/art/202004/614324.htm)
+ > 很多时候，一旦你站上了市场的高地，便不再需要挑选自己的对手。因为，任何人都有可能成为挑战你的下一名“
+ ## [萌新必学！这15组Windows 10快捷键不懂就亏大了](http://os.51cto.com/art/202004/614323.htm)
+ > 知道怎样区分新手和老鸟么？那就要看他会多少Win10快捷键了。新手疲于奔命，老鸟上班摸鱼！靠的就是自身“
+ ## [到底是谁杀死了互联网免费工具？](http://news.51cto.com/art/202004/614325.htm)
+ > 最近一年之内，互联网界做工具类的软件公司发生了五件事。任何单独的一件事，只能说明一家公司的商业模式出
+ ## [微信新功能曝光：群聊名称备注 仅自己可见](http://mobile.51cto.com/app-show-614322.htm)
+ > 最近，微信已经上线了备注群聊名称功能。用户可通过群聊设置的“备注”功能修改，“备注后的群聊名称仅自己
  ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
  > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
- ## [又一程序员删库跑路了](https://blog.csdn.net/loongggdroid/article/details/104509009)
- > 又一程序员删库跑路了
  ## [老大说：谁要再用double定义商品金额，就自己收拾东西走](https://blog.csdn.net/wangshuaiwsws95/article/details/105427315)
  > 
+ ## [又一程序员删库跑路了](https://blog.csdn.net/loongggdroid/article/details/104509009)
+ > 又一程序员删库跑路了
  ## [我入职阿里后，才知道原来简历这么写](https://blog.csdn.net/qing_gee/article/details/104839150)
  > 
- ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
- > 和黑客斗争的 6 天！
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
- > 如果你是老板，你会不会踢了这样的员工？
- ## [2020年后台开发程序员应该学习的8大技术](https://blog.csdn.net/lingshengxueyuan/article/details/104555972)
- > 2020年后台开发程序员应该学习的8大技术
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
- > 
+ ## [搜狗输入法也在挑战国人的智商！](https://blog.csdn.net/ityouknow/article/details/104744412)
+ > 搜狗输入法也在挑战国人的智商！
  ## [大学一路走来，学习互联网全靠这几个网站，最终拿下了一把offer](https://blog.csdn.net/qq_38646470/article/details/104891031)
  > 大学一路走来，学习互联网全靠这几个网站，最终拿下了一把offer
+ ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
+ > 如果你是老板，你会不会踢了这样的员工？
+ ## [为什么你的简历总是被筛掉？用户思维，了解一下。](https://blog.csdn.net/siyuanwai/article/details/104463593)
+ > 
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
+ ## [当年，非典SARS真的是我们战胜的吗？](https://blog.csdn.net/ityouknow/article/details/104624436)
+ > 当年，非典SARS真的是我们战胜的吗？
  ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
+ > 
+ ## [当阿里面试官问我：Java创建线程有几种方式？我就知道问题没那么简单](https://blog.csdn.net/eson_15/article/details/105393279)
  > 
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
- ## [当阿里面试官问我：Java创建线程有几种方式？我就知道问题没那么简单](https://blog.csdn.net/eson_15/article/details/105393279)
- > 
  ## [离职半年了，老东家又发 offer，回不回？](https://blog.csdn.net/u012702547/article/details/104961130)
  > 离职半年了，老东家又发 offer，回不回？
  ## [Go 之禅](https://blog.csdn.net/csdnnews/article/details/105480027)
@@ -196,29 +214,88 @@ AI&#22768;&#32441;&#30740;&#31350;&#21644;&#24212;&#29992;&#26381;&#21153;&#2183
  > 要成为一个好的程序员，我们应该遵循一些易于采用的好习惯。作者 |John Au-Yeung译者 |苏本如，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：在本...
  ## [如何彻底解决烦人的 MySQL 分库分表问题？写一个更好的数据库！](https://blog.csdn.net/csdnnews/article/details/105480026)
  > 作者 |黄东旭责编 | 郭 芮我还清楚记得，五年前的这个时候，当时还在豌豆荚，午后与刘奇和崔秋的闲聊关于未来数据库的想象，就像一粒种子一样，到了今天看起来也竟枝繁叶茂郁郁葱葱，有...
+# 人工智能 
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 # PM 
- ## [B端产品经理需要了解的企业组织论](http://www.woshipm.com/pmd/3686909.html)
- > B端产品经理是解决企业内部管理需求的一个职位，因此对组织论的了解至关重要。本文将从组织论的基本框架，组织论的经典模型及组织论的应用工具阐述组织论相关的知识。...
- ## [B端产品案例分享：UGC平台的业务后台搭建](http://www.woshipm.com/pd/3684128.html)
- > 本文作者从工作项目实践出发，结合案例等对UGC平台业务后台的设计思路进行了拆解，并对过程中的关键问题进行了总结，希望对你有用。概述UGC（User Generated Content...
- ## [互联网产品是培养了用户习惯吗？](http://www.woshipm.com/it/3679467.html)
- > 对一款互联网产品来说，从诞生到砸钱抢占用户资源，它究竟是培养用户习惯呢，还是解决了用户刚需呢？本文将从多方面展开分析。互联网在前几年非常火，国家大力推进互...
- ## [KOL投放高转化实操2.0进阶版](http://www.woshipm.com/operate/3688428.html)
- > 在流量焦虑时代，企业对转化率的要求越来越严苛，所以在选择KOL时更要权衡各种要素。那么要如何实现KOL投放的高转化呢？前面我曾经说过，在品牌营销上如何花小钱干大...
- ## [回归原点，互联网家装开启新进化](http://www.woshipm.com/it/3689204.html)
- > 只有真正立足互联网家装的本身，以家装为原点，真正找到家装行业的进化新方向，才能真正开启家装行业的新进化。当所有的行业都在经历一场全新转型的时候，即使是看上...
- ## [中台建设的10种死法](http://www.woshipm.com/it/3688145.html)
- > 本文作者结合自己的经历和思考，将其总结为中台建设的10种死法，分为战略层面、管理层面和执行层面。据IDC预测，2021年全球会有5.5万亿美元投资在数字化转型。企业数...
- ## [如何设计一套实用的旅游票务系统？](http://www.woshipm.com/pd/3651828.html)
- > 疫情形势逐渐向好，旅游业也陆续恢复营业。停业期间，一些旅游企业制定了运营系统的升级计划，为全面恢复营业做好准备。票务系统作为旅游运营平台的主要功能模块，自然...
- ## [SaaS 产品设计中，如何理解产品与需求？](http://www.woshipm.com/pd/3686043.html)
- > SaaS 产品的需求处理跟其他产品不同，本文作者基于 SaaS 产品的特点，分享了在SaaS 产品处理需求过程中的一些思考。不知道作为 SaaS 产品经理的你，在日常工作中会不...
- ## [私域论专题报告（1）：行业深度分析报告（完美日记）](http://www.woshipm.com/it/3658393.html)
- > 每一次流量的变迁都会带来一次品牌创造的迭代。私域当下！私域会是O2O、共享经济这样稍纵即逝的热词么？私域概念的背后到底隐藏了怎样的商业底层逻辑和经济体形态。私域...
- ## [来抄作业，跟动物之森学习游戏化产品设计](http://www.woshipm.com/pd/3689209.html)
- > 动物之森已经让包括我在内网友沉迷20+天了。这个火到出圈，被网友盛赞卖你300实在太便宜的游戏，究竟有怎么样的魅力，可以凭一款游戏带货成功到连ns自身都成为一款成功...
- ## [AI 硬件产品经理需要知道的技术能力模型](http://www.woshipm.com/pmd/3685406.html)
- > AI 硬件产品经理需要懂的技术有哪些？本文作者就这个问题进行了思考并总结，与大家分享。目录：计算机硬件（计算/输入/输出/交互）计算机软件（系统/算法）懂技术...
+ ## [大厂中台翻车实录：失败告终，数百人团队说撤就撤](http://www.woshipm.com/it/3685035.html)
+ > 2016年，短视频热浪开始袭来，笔者所在集团也提出了入局短视频赛道，做业务中台化的决策。然而在组建数百人团队、投入大量资源后，这项中台建设项目还是以失败告终。...
+ ## [哔哩哔哩，如何用产品细节打动年轻人？](http://www.woshipm.com/evaluating/3618118.html)
+ > 众所周知，哔哩哔哩是年轻人群体与Z世代聚集的主要阵地，而哔哩哔哩之所以有如何大的吸引力，除了平台内容符合用户取向外，它的产品细节也是打动年轻人的原因之一。哔...
+ ## [如何提高B端产品的EDM打开率？我遇到了6个大坑](http://www.woshipm.com/marketing/3690253.html)
+ > EDM策略，被现在很多产品运营团队作为用户召回的必用的手段之一。文章从EDM的概念理论出发，结合实例对运用EDM策略过程中遇到的问题进行了总结，与大家分享。随着移动...
+ ## [新人运营，都需要具备什么能力？](http://www.woshipm.com/operate/3697430.html)
+ > 当你刚毕业或者刚转行做运营时，你首先要需要了解的就是——什么是运营？运营是干什么呢？其次再是，了解运营所需的基础能力，并逐步掌握。01 你理解的运营是什么？“你...
+ ## [推荐产品经理的工作流程是什么？](http://www.woshipm.com/pmd/3654253.html)
+ > 本文笔者对推荐产品经理的工作流程进行了梳理，主要是对客户的业务逻辑、数据积累和项目预期进行思考，希望希望通过此文能够加深你对推荐产品经理的认识。为什么写这...
+ ## [方法论：输出或评估方案的思考路径](http://www.woshipm.com/operate/3692591.html)
+ > 如何能快速定位方案是否合理、可行？如何确定最优方案？都是很多产品运营的难点。在经历了大大小小几百次的评审后，笔者总结出了一套可以应对大多数解决方案、相对成熟...
+ ## [产品经理如何有效避开数据分析常见的坑？](http://www.woshipm.com/data-analysis/3692078.html)
+ > 对产品经理来说，以各项指标为对象展开数据分析，并做出对应应对策略是家常便饭的一件事。不过，在数据分析的时候，我们总会遇到数据异常或者数据对不上的问题，而本文...
+ ## [贝壳找房产品分析：经济救命草？](http://www.woshipm.com/evaluating/3691553.html)
+ > 随着疫情的蔓延，全球经济都开始出现下滑趋势，不禁让人想起2008年全球经济危机后以房产为重心带动经济复苏，近期的降息降准，限购政策的放宽，是否为房产服务行业带来...
+ ## [养成五个习惯，给你的职场生涯加分](http://www.woshipm.com/zhichang/3696287.html)
+ > 职场里影响我们的因素有很多——能力、习惯、机遇、老板、宏观经济、行业趋势……但习惯是为数不多的我们可以慢慢养成的，也可以在离职时随身带走的东西。好的职场习惯，...
+ ## [工作前六个月，我作为新人产品经理都做错了什么？](http://www.woshipm.com/pmd/3692827.html)
+ > 成功的故事千篇一律，挫折的经历却鲜为认知。笔者为电商B端产品经理，在本文中将复盘自己的试用期六个月亲身经历，希望自己踩过的坑，流过的泪可以发挥更大的价值，帮助...
+ ## [Uber出行大数据：如何使用色彩可视化出行耗时？](http://www.woshipm.com/pd/3690637.html)
+ > 数据可视化的最终目的还是信息沟通。当我们试图清晰地传达事实时，创作物的美学不是附属品，而是一种内在价值，美感不只是粉饰。每天，世界上有40亿人在城市中穿行，...
+ ## [企业微信运营（上）：这些新功能你都会用吗？](http://www.woshipm.com/operate/3690056.html)
+ > 企业微信3.0发布已经有一段时间了，新的版本有何新功能？有何优缺点？企业该如何应用？本文作者在深入了解企业微信之后，对其功能和应用进行了详细介绍，帮助大家更全面...
+ ## [体验【美团】app](http://www.chanpin100.com/article/111326)
+ > 通过会员体系分析【美团】产品的会员部分，了解美团会员的整体架构及针对美团产品的一点点建议
+ ## [从直播带货思考产品底层逻辑](http://www.chanpin100.com/article/111325)
+ > 用户底层需求永远的没有变，只是我们通过技术的革新，换了一种呈现方式，符合的当前时代的市场，从而获得了新的商业模式
+ ## [简约至上的产品设计（1）简单的哲学](http://www.chanpin100.com/article/111324)
+ > 简单性源自对复杂性的征服而不是忽略！
+ ## [发展不忘合规DT时代看业内大佬如何做好数据合规建设](http://www.chanpin100.com/article/111323)
+ > 近年来，因过度收集用户信息被曝光的App数不胜数，移动应用俨然已成数据泄露的重灾区。都说数据如水，做为开发者既要最大限度挖掘其价值，也应筑牢安全的堤坝。那么，用户的隐私权谁来捍卫？
+ ## [元概念：用户、需求和产品](http://www.chanpin100.com/article/111320)
+ > 这篇文章主要和大家分享产品经理知识体系中几个元概念的定义，正是这些基本概念支撑并衍生出了整个产品经理的知识体系。
+ ## [数据分析|数据分析应学习逻辑思维及分析方法](http://www.chanpin100.com/article/111319)
+ > 不登高山，不知天之高。
+ ## [同理心是地基，想象力是天空，中间是逻辑和工具](http://www.chanpin100.com/article/111318)
+ > 抖音也是如此，想象全屏的视频让手机变成一扇窗户，你透过这个窗户看到一个丰富的世界，抖音是这个五彩斑斓世界的投影，感觉非常奇妙。如果没有想象力，你可能只会做出一款对口型的热门应用或者搞笑视频软件，抖音也不可能从一款炫酷的音乐舞蹈小众软件，演化成包容美丽风光、戏曲艺术、感人故事、生活消费的大众平台。
+ ## [抖音发什么类型的作品播放量高点赞量高，抖音什么视频适合新手发布](http://www.chanpin100.com/article/111316)
+ > 抖音发什么类型的作品播放量高点赞量高，抖音什么视频适合新手发布
+ ## [短视频号如何快速涨粉卖货，抖音做直播带货效果怎么样](http://www.chanpin100.com/article/111313)
+ > 短视频号如何快速涨粉卖货，抖音做直播带货效果怎么样
+ ## [干货|产品经理如何画流程](http://www.chanpin100.com/article/111312)
+ > 鸟姐带大家学怎么画流程，画流程的意义，画流程的工具以及方法。
+ ## [BI好比医疗仪器](http://www.chanpin100.com/article/111311)
+ > 管理者是保健医生，BI是医疗器械。好大夫配上好器械，企业肌体更健康！
+ ## [2020设计之旅10-清单54【孙子兵法】决策制定篇----基于高认知水平的思维战役【下】](http://www.chanpin100.com/article/111308)
+ > 第54期：用时约5分【孙子兵法】决策制定篇----基于高认知水平的思维战役【下】
+ ## [嘘，这里有份设计CRM的“秘籍”](http://www.chanpin100.com/article/111310)
+ > 客户是衣食父母，值得企业花大精力进行精细化的管理与运营。这便造成了CRM系统一直是企业的刚需，每年都有不少企业招CRM产品经理或购买CRM软件。
  ## [用户行为数据分析——如何搭建数据指标体系篇](http://www.chanpin100.com/article/111307)
  > 百因必有果，你的报应就是我......呸！跑题了~~~当我们拿到相关的数据之后我们会发现，数据何其庞大......
  ## [如何撰写一份优质的产品分析报告](http://www.chanpin100.com/article/111305)
