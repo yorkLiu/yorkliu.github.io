@@ -1,7 +1,7 @@
 ---
 title: 2020-04-14 IT News
 copyright: true
-date: 2020-04-14 10:01:04
+date: 2020-04-14 12:01:35
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -80,17 +80,25 @@ DTC&#38544;&#24418;&#27491;&#30072;&#24179;&#21488;&#8220;&#24494;&#31505;&#2084
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [中国首个自动驾驶“超级数据工厂”来了，占地7432平方米、可进行浸泡、高压淋雨造极端环境试验](http://mp.weixin.qq.com/s?src=11&timestamp=1586827865&ver=2277&signature=8xlR5O1X98ymbFv8KC6uNLCD*vwYKtUGmc0kcNpElpG6JiCUHYrxOS*bY2catjZ*BhYA1F96oXSyYP0OS3j-6QHHZjIjjac2PKOiUoHdTLrUMO430-bSEy4jDwj5Hvi6&new=1)
- > AutoX上海无人车运营大数据中心占地7432平方米，集自动化标定、检测、技术运维、AutoX云平台的大数据挖掘及仿真形成一整套自动驾驶测试到数据收集闭环，通过物理技术与虚拟技术的相互打通来提高自动驾驶汽车的可...
- ## [格力电器启动史上首次回购丨苹果iPhone线上渠道大幅降价\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1586827865&ver=2277&signature=IANABYOFvmG327848SMpdAbGmf*VTOScSawNLSKXPToyuWiknQREXC4LRFMFI92m8NW0XYbhv6xRwI52GuIPHcdHg5BqbH-BjzW*ABip1lZAFRSWTw26l5UQ-QNO9rTX&new=1)
- > 4月13日丨周一【Do说】编辑 | 赵艾虎格力电器启动史上首次回购，最多不超过60亿元昨日晚间，格力电器发布公告称，拟使用自有资金以集中竞价交易方式回购公司股份，资金总额不低于30亿元，且不超过60亿元，回购价...
- ## [集采|中国移动2020-2021年SPN设备新建部分集采 诺基亚贝尔入围最后两省](http://mp.weixin.qq.com/s?src=11&timestamp=1586827865&ver=2277&signature=l8hUpbm2gLJIFN26Y5yWIhdp-IoqJSfWI-hv7mpXJLFoFzz7gokVyuj-wmJvLSSGmvLCjsQVOdk1yPLbbVTN1-wSa9Fo7aoxoPVKX1nFpGmURYve-3BUwwLsyIDheuGR&new=1)
+ ## [美国能源部门数据安全遭遇重创 RigUp数据库泄露76000份保密文件](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=YHtQO9hxH-CwVUkRCCO5g*PFn-MMbHez6HXPAzGHtK5xfQmnOGtoN1R2u517mETNwxkArWtqGjvnHQTD-mDMYYhO0Y-Ad3xpRnpBtyJjy*Qquufr2iZkKbgdcbm8YnFK&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月14日讯，近日vpnMentor报告了一次严重数据漏洞，RigUp公司在Amazon Web Services (AWS) S3 bucket被发现暴露了美国能
+ ## [5G消息能摸到怎样的“好牌”，又藏着哪些“坏消息”?](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=rW*keJnb30JfIJtyl4AcuGnwM2ebyFvO-idkY9S7SQYuSuSdIp-J9NSaZvi0z8Vbetd*-8RbSLJkYuXZkC6ZfeOmWKpjfwhacsyI*31ycL6FPPI8kfJxbt6WcXp4bhtT&new=1)
+ > 4月8日上午，三大运营商联合发布了《5G消息白皮书》，对于通信圈来说，绝对算得上是个“大消息”。不过，有个概念的理清。5G消息可不是借助5G技术才有的消息，实际上叫做5G时代的消息比较准确。 5G消息是基于GSM...
+ ## [指挥车最后一公里通信](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=qEqfxmJgxG7GbivJn5YnrpQdpJGQn83f4yothjS0EeA*PFq9zsG-495VikUSh22jJA9HWmR2cM0AbwJJTPxP*dJSONty8TMcJSDCjisCo1YV54hWypCJay9ke3ARXwFr&new=1)
+ > 一、系统简介应急通信指挥车是应急通信指挥调度系统的基础组成部分，为了保证通信车与现场的应急通信畅通，需要建设一套成熟稳定的通信接收端，打通指挥车与现场接收前端，也就是最后一公里的通信链路，接收各个...
+ ## [美团外卖回应佣金争议；苹果回应戴口罩解锁 iPhone；新 Edge 浏览器明年将不再支持 Win7|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=b51v5m90zfxMCFV8yc6ymWoM9hx5YehZlU4J0rlqF5WLIVuG1gu-kgAy2nxEbP6vL9dr-e5TGT0Kz6BARrns8Mqm4w77cw8HSbYtjCKUlBSEtWwXkPR3*LkxISbSMo7y&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [集采|中国移动2020-2021年SPN设备新建部分集采 诺基亚贝尔入围最后两省](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=l8hUpbm2gLJIFN26Y5yWIhdp-IoqJSfWI-hv7mpXJLEFgoo3j*z8yb7OSJtP3*nEuoafGad-xfRrNtSGaEoUX1xBmjWZV9lbCLM1nA*NBZfD9uJPhuj8ymRsD7aDe2D6&new=1)
  > 新闻导读宁夏移动和内蒙古移动正式公布2020-2021年SPN设备新建部分集采项目结果，分别为华为、烽火通信和诺基亚贝尔中标。ICC讯 宁夏移动和内蒙古移动正式公布2020-2021年SPN设备新建部分集采项目结果，分别为华...
- ## [国产存储芯片达到国际领先水平，中国制造再上层楼](http://mp.weixin.qq.com/s?src=11&timestamp=1586827865&ver=2277&signature=12tfYIRhSOIvaA2mr52DLCL5xeK6VKqe5E4jW*fU0yuQBC7D2KBTcInZXB2mjO0LXvKfbJ3vI*8KgCvOS89vsxkQp5y4wFdf*MlARGjprmKII-DGstpCPYCEI6wzcysn&new=1)
+ ## [格力电器启动史上首次回购丨苹果iPhone线上渠道大幅降价\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=IANABYOFvmG327848SMpdAbGmf*VTOScSawNLSKXPTqCJ3JmdLxZdcwgHGdWnBwSz8fsKEaoi*i-1zb*K8BeYw9CFiMZP4Hq7s7c1Vk4f-Pnm29Ft4N3mqCLlowAOhpq&new=1)
+ > 4月13日丨周一【Do说】编辑 | 赵艾虎格力电器启动史上首次回购，最多不超过60亿元昨日晚间，格力电器发布公告称，拟使用自有资金以集中竞价交易方式回购公司股份，资金总额不低于30亿元，且不超过60亿元，回购价...
+ ## [国产存储芯片达到国际领先水平，中国制造再上层楼](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=12tfYIRhSOIvaA2mr52DLCL5xeK6VKqe5E4jW*fU0ysycIGQwa9IAGtmBgfJ9uQgI12NOwHBJ3yywVrbwO*pPNGIqKaz6C2l6FZx-NAI9-VB8W1K3msZVrRh9PJLvM0L&new=1)
  > 据媒体报道指国产存储芯片企业长江存储已开发出128层的NAND flash存储芯片，这是当前国际存储芯片企业正在投产的NAND flash技术，意味着中国的存储芯片技术已达到国际领先水平。中国是全球最大的制造国，制造了...
- ## [3D打印龙头Stratasys：按需定制 赋能中国制造](http://mp.weixin.qq.com/s?src=11&timestamp=1586827865&ver=2277&signature=EHOemVzNbb21Re0z*biRWZcMawAVbRSU0SZd8BIormJn6WoDz-wmxOjcYld3S-dGmHxCLScog*JAhIAurV7jCxZw5oM13yw1UjVF27zVXsIdAzg7L-dFFiVv6XKToFHG&new=1)
+ ## [中国首个自动驾驶“超级数据工厂”来了，占地7432平方米、可进行浸泡、高压淋雨造极端环境试验](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=8xlR5O1X98ymbFv8KC6uNLCD*vwYKtUGmc0kcNpElpGENUl*4LyPfDReMa25aF7MDMKIWeHlnWMDE-q1lTGKIiKiwZD7K53KJoorGlYqvE6qpmaeXZjUSc4TG-7AY4fR&new=1)
+ > AutoX上海无人车运营大数据中心占地7432平方米，集自动化标定、检测、技术运维、AutoX云平台的大数据挖掘及仿真形成一整套自动驾驶测试到数据收集闭环，通过物理技术与虚拟技术的相互打通来提高自动驾驶汽车的可...
+ ## [3D打印龙头Stratasys：按需定制 赋能中国制造](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=EHOemVzNbb21Re0z*biRWZcMawAVbRSU0SZd8BIormKCAbVIaY8yb2Hi*-V1nIK*HzpB2QV0kaY3J2Z8OWJBIS*-Uq9oG5f58VydnkVGF6wgKczdcXaCMVWq3HDQgosj&new=1)
  > 作为一项颠覆性技术，3D打印能够制造出极为复杂精细的个性化产品。无论你是想要一颗人工心脏，还是一个汽车零部件。它的原理非常简单，其以数字模型为基础，将材料逐层堆积制造出实体物品，是一种增材制造、快速...
- ## [美国政府欲禁中国电信，这对中国电信影响有多大?可能将血本无归](http://mp.weixin.qq.com/s?src=11&timestamp=1586827865&ver=2277&signature=OY-jFBGvZXm1Q28uwLpHa1MFr0z5vvDq8HWI-rdw8eLgocaweDQjHew3x80aDYyqRfjgkkrNQJ*8WnzcPz-icUKDq0THmEifhUoMe7-c7dKtvTlVMb4hi8TDmyef2BG-&new=1)
+ ## [美国政府欲禁中国电信，这对中国电信影响有多大?可能将血本无归](http://mp.weixin.qq.com/s?src=11&timestamp=1586835004&ver=2277&signature=OY-jFBGvZXm1Q28uwLpHa1MFr0z5vvDq8HWI-rdw8eLdk*0*vFSpUk0XpfakVh7L71su6Z-J743uT-W3y-gbKwBP2*kM2pGwK6XpzeiAsDN2wBzaRVpo9pjeVxim3BqV&new=1)
  > 【摘要】一旦禁令生效，中国电信这些年在美国市场上的所有投入，不论是B2B的，还是B2C的，很可能都将血本无归！| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：苏敏坚本文来源：悲了伤的白犀牛(baixiniu...
 # IT 技术 
  ## [从四个层次看人工智能的经济学分析](http://ai.51cto.com/art/202004/614051.htm)
@@ -109,53 +117,55 @@ DTC&#38544;&#24418;&#27491;&#30072;&#24179;&#21488;&#8220;&#24494;&#31505;&#2084
  > Linux上的优秀音频编辑工具推荐
  ## [机器人流程自动化（RPA）：6大开源工具](http://os.51cto.com/art/202004/614175.htm)
  > 机器人流程自动化（RPA）：6大开源工具
- ## [首席信息官推动循环经济创新的四个方法](http://news.51cto.com/art/202004/614367.htm)
- > 首席信息官们可以在循环经济中创造新的业务价值和增强竞争敏捷性方面发挥十分有利的领导作用。
- ## [IT领导者如何赢得董事会的支持 从而推动数字化转型](http://www.cioage.com/art/202004/614364.htm)
- > 如今的首席信息官必须掌握讲故事的技巧才能赢得董事会的青睐。 AvidXchange的首席信息官 Angelic Gibson和G
- ## [10个很流行的Python区块链项目](http://developer.51cto.com/art/202004/614365.htm)
- > Python不是主流的区块链底层平台开发语言，但是在DApp 开发、区块链仿真与数据分析、智能合约安全分析等领
- ## [三十而弃：老牌杀软“小红伞”Avira接受被收购命运](http://netsecurity.51cto.com/art/202004/614361.htm)
- > 4月9日，巴林投资银行(Investcorp Bank)旗下的私募股权部门Investcorp Technology Partners（ITP）宣布收购
- ## [无独有偶：欧洲刑警也逮捕了利用口罩，讹诈4607万的诈骗犯！](http://netsecurity.51cto.com/art/202004/614363.htm)
- > 在冠状病毒爆发的同时，欧洲刑警组织宣布逮捕了一名利用COVID19进行口罩欺诈的男子。欧洲刑警组织逮捕了这
- ## [10个必须知道的Chrome开发工具和技巧](http://developer.51cto.com/art/202004/614360.htm)
- > 我们可能习惯了在城市的网速，那是杠杠的，并不意味网速在中国哪个都一样的，在一些偏远地方，网速依然慢的
- ## [适合前端开发和UI设计的20多个优秀ICON 库](http://developer.51cto.com/art/202004/614359.htm)
- > 在你的网站上使用图标可以让你有效地与你的访问者交流:它们增加了可读性，突出了重要的内容，加强了功能或
- ## [一起名不见经传的勒索事件的启示：“小心“第三方供应商](http://netsecurity.51cto.com/art/202004/614357.htm)
- > 供应链安全，不仅要防范来自供应链上下游企业带来的安全漏洞，同样要防范他们遭受网络攻击后对自身带来的影
- ## [80岁码农：“扶我起来，这个bug我会修。”](http://news.51cto.com/art/202004/614362.htm)
- > 随着失业人数不断飙升，美国的失业系统已经不堪重负。上周，新泽西州州长发布了一份“紧急召集令”，急聘精
- ## [前端还能这么玩？(女朋友生日，用前端写了一个好玩的送给了她，高兴坏了)](https://blog.csdn.net/qq_17623363/article/details/105445732)
+ ## [如何逃离弱密码黑洞？](http://zhuanlan.51cto.com/art/202004/614392.htm)
+ > 以下，安全牛针对目前远程办公的“安全痛点”，老话重提，围绕NIST的新版密码指南与大家一起就密码安全温故
+ ## [Python如何接入开放平台？签名验签、加密解密、授权认证测试实战](http://developer.51cto.com/art/202004/614391.htm)
+ > 本文介绍基于python的开放平台签名、认证测试体系，可以用于第三方应用的沙盒测试，同时可以应用于服务提供
+ ## [活久见！Linux命令行居然也可以用来查看图像？](http://os.51cto.com/art/202004/614390.htm)
+ > 今天要介绍的是 3 个实用的 CLI 图像查看器来在终端上查看图像，让那些使用 CLI 的朋友能更加高效地工作。
+ ## [冠状病毒疫情将如何颠覆电子商务软件市场](http://soft.51cto.com/art/202004/614389.htm)
+ > 越来越多的软件发行商正在使用大数据来提高其算法的价值。这将对该行业的未来产生巨大影响。
+ ## [大数据可视化技术面临的挑战及应对措施](http://bigdata.51cto.com/art/202004/614388.htm)
+ > 本文从大数据本身的特点及其应用需求出发，结合数据可视化的研究现状，介绍了适用于大数据的数据可视化技术
+ ## [新型攻击屡见不鲜 身份认证让黑客闯关](http://netsecurity.51cto.com/art/202004/614387.htm)
+ > 无论是云计算还是物联网，基于身份认证的安全防范都在引起重视，否则让黑客盗取了“身份”，就相当于获取了
+ ## [5G集采结果相继出炉 “蛋糕”如何划分？](http://network.51cto.com/art/202004/614385.htm)
+ > 目前，运营商正大规模开展5G集采，这对加快提升我国5G产业整体经济规模至关重要。而在运营商集采中，如何尽
+ ## [使用专用服务器进行机器学习的重要性与日俱增](http://server.51cto.com/-614383.htm)
+ > 越来越多的传统托管服务提供商也在以不同的能力使用机器学习。他们的客户应该了解并充分利用这些功能。
+ ## [这可能是Github上最全面的Flutter教程](http://news.51cto.com/art/202004/614382.htm)
+ > 大家可能都知道 Flutter 这个来自谷歌的移动应用开发框架，是利用 Chrome 2D 渲染引擎，然后精简 CSS 布局
+ ## [P7、P8起步跑，年薪百万各路HR找？白帽子揭秘真实的阿里安全](http://netsecurity.51cto.com/art/202004/614379.htm)
+ > 在阿里安全工作是什么样的体验?真如吃瓜群众猜测的那样，P7、P8起步跑，年薪百万各路HR找，朝九晚十周末忙
+ ## [Git代码提交规范](https://blog.csdn.net/u013718120/article/details/104656839)
+ > Git代码提交规范
+ ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
+ > 大三实习生，字节跳动面经分享，已拿Offer
+ ## [带了6个月的徒弟当了面试官，而身为高级工程师的我天天修Bug......](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104949778)
+ > 带了6个月的徒弟当了面试官，而身为高级工程师的我天天修Bug......
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
- ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
- > 和黑客斗争的 6 天！
- ## [又一程序员删库跑路了](https://blog.csdn.net/loongggdroid/article/details/104509009)
- > 又一程序员删库跑路了
- ## [我入职阿里后，才知道原来简历这么写](https://blog.csdn.net/qing_gee/article/details/104839150)
+ ## [离职半年了，老东家又发 offer，回不回？](https://blog.csdn.net/u012702547/article/details/104961130)
+ > 离职半年了，老东家又发 offer，回不回？
+ ## [!大部分程序员只会写3年代码](https://blog.csdn.net/qing_gee/article/details/104960082)
+ > !大部分程序员只会写3年代码
+ ## [面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？](https://blog.csdn.net/likun557/article/details/105108901)
+ > 面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？
+ ## [爬虫（八十八）lxml库的用法](https://blog.csdn.net/qq_36772866/article/details/105154344)
+ > 爬虫（八十八）lxml库的用法
+ ## [牛顿与大瘟疫的故事](https://blog.csdn.net/universsky2015/article/details/104985508)
+ > 牛顿与大瘟疫的故事
+ ## [大学一路走来，学习互联网全靠这几个网站，最终拿下了一把offer](https://blog.csdn.net/qq_38646470/article/details/104891031)
+ > 大学一路走来，学习互联网全靠这几个网站，最终拿下了一把offer
+ ## [什么时候跳槽，为什么离职，你想好了么？](https://blog.csdn.net/qq_35190492/article/details/105042097)
  > 
- ## [作为一个程序员，CPU的这些硬核知识你必须会！](https://blog.csdn.net/sinat_33921105/article/details/104066631)
- > 
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [昂，我24岁了](https://blog.csdn.net/qq_35190492/article/details/104244398)
- > 昂，我24岁了
- ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
- > 如果你是老板，你会不会踢了这样的员工？
- ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
- > 
- ## [作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！](https://blog.csdn.net/sinat_33921105/article/details/104256879)
- > 作为程序员的我，大学四年一直自学，全靠这些实用工具和学习网站！
- ## [Python20行代码实现视频字符化](https://blog.csdn.net/ZackSock/article/details/105453311)
- > 
- ## [常见web安全问题，SQL注入、XSS、CSRF，基本原理以及如何防御](https://blog.csdn.net/lingshengxueyuan/article/details/105429401)
- > 常见web安全问题，SQL注入、XSS、CSRF，基本原理以及如何防御
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
- ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
- > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
- ## [不吹牛逼，撸个注解有什么难的](https://blog.csdn.net/qing_gee/article/details/105447171)
+ ## [《Java经典编程365例》000：学妹的优秀成绩单](https://blog.csdn.net/goldentec/article/details/105094506)
+ > 《Java经典编程365例》000：学妹的优秀成绩单
+ ## [2020阿里全球数学大赛：3万名高手、4道题、2天2夜未交卷](https://blog.csdn.net/m0_38106923/article/details/104977527)
+ > 2020阿里全球数学大赛：3万名高手、4道题、2天2夜未交卷
+ ## [讲道理，MD5 到底是不是加密算法？](https://blog.csdn.net/kexuanxiu1163/article/details/104980769)
+ > 讲道理，MD5 到底是不是加密算法？
+ ## [算法题做到崩溃？刷了几千道算法题，关于如何刷题有些话我想对你说](https://blog.csdn.net/u013486414/article/details/104889368)
  > 
  ## [比特币当赎金，WannaRen 勒索病毒二度来袭！](https://blog.csdn.net/csdnnews/article/details/105501902)
  > 作者 | 马超责编 | 胡巍巍出品 | 程序人生（ID：coder_life）近日网络上出现了一种名为WannaRen的新型比特币勒索病毒，与此前的“WannaCry”病毒类似，“Wa...
@@ -178,51 +188,75 @@ DTC&#38544;&#24418;&#27491;&#30072;&#24179;&#21488;&#8220;&#24494;&#31505;&#2084
  ## [听说你还不会归并排序？](https://blog.csdn.net/csdnnews/article/details/105501904)
  > 作者 | 超悦人生责编| 郭芮本文介绍了归并排序的基本思想，递归方法的一般写法，最后一步步手写归并排序，并对其性能进行了分析。基本思想归并排序是建立在归并操作上的一种有效的排序算法,...
 # 人工智能 
- ## [【FreeRTOS学习04】小白都能懂的 Queue Management 消息队列使用详解](https://blog.csdn.net/u010632165/article/details/105458235)
- > 
- ## [Linux 命名管道 聊天室](https://blog.csdn.net/ZHJ123CSDN/article/details/105449547)
- > 
- ## [推荐 130 个令你眼前一亮的网站，总有一个用得着](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 推荐 130 个令你眼前一亮的网站，总有一个用得着
- ## [Java基础之Java数据类型](https://blog.csdn.net/YeahToYeah/article/details/105457792)
- > Java基础之Java数据类型
- ## [【信号与系统】笔记（4-2）拉普拉斯变换的性质](https://blog.csdn.net/qq_43328313/article/details/105470380)
- > 
- ## [记录一个子串在整串种出现的次数（JAVA）](https://blog.csdn.net/weixin_44781355/article/details/105458109)
- > 记录一个子串在整串种出现的次数（JAVA）
- ## [埃拉托色尼筛法.c](https://blog.csdn.net/qq_45645641/article/details/105477126)
- > 埃拉托色尼筛法.c
- ## [MATLAB基于视觉实现车道线检测](https://blog.csdn.net/zhoucoolqi/article/details/105447397)
- > 
- ## [opencv 去除背景算法的比较](https://blog.csdn.net/weixin_41076275/article/details/105466958)
- > 
- ## [青年大学习自动名单核对程序（使用教程）](https://blog.csdn.net/weixin_45732689/article/details/105469018)
- > 青年大学习自动名单核对程序（使用教程）
- ## [C++字符串、向量](https://blog.csdn.net/rosefun96/article/details/105454500)
- > 
- ## [Matlab 计算 FFT 的方法及幅值问题](https://blog.csdn.net/qq_29225913/article/details/105467006)
- > 
- ## [\[14\].最长公共前缀](https://blog.csdn.net/qq_41739364/article/details/105447255)
- > \[14\].最长公共前缀
- ## [音视频开发学习点点滴滴记录（1）-- ffmpeg下载及环境搭建](https://blog.csdn.net/Z_Dream_ST/article/details/105454686)
- > 音视频开发学习点点滴滴记录（1）-- ffmpeg下载及环境搭建
- ## [【leetcode系列】【算法】【简单】有效的完全平方数（牛顿迭代）](https://blog.csdn.net/songyuwen0808/article/details/105445567)
- > 【leetcode系列】【算法】【简单】有效的完全平方数（牛顿迭代）
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+ ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
+ > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 # PM 
- ## [搭建内容管理系统CMS（2）：内容过滤如何借助他方之力？](http://www.woshipm.com/pd/2900252.html)
- > 上一篇文章，分享了内容管理系统CMS在内容生产环节的产品思考与设计。今天来和大家聊聊内容管理系统CMS中，关于内容过滤的思考与总结。内容的过滤遵守国家法律法规、...
- ## [产品分析报告：Timing是如何打造社交学习圈？](http://www.woshipm.com/evaluating/3695336.html)
- > 最开始接触Timing要从一句广告语说起：别人在timi的时候，而你在timing加油。相似的词汇，却有着极具差异的含义。Timing的学习软件定位对比强烈突显，也正是这样，这款...
- ## [车企数字化转型的关键点是什么？](http://www.woshipm.com/it/3692248.html)
- > 无论你身处于什么行业，相信你或多或少的都听说过数字化转型。数字化转型，一个各行各业都喜欢挂在嘴边的词，可它到底有啥用？汽车企业也需要数字化转型吗？文章围绕着...
- ## [手把手教你避开“品牌调研”的陷阱](http://www.woshipm.com/marketing/3699686.html)
- > 本文从品牌调研常用的调研方法入手，并分析了这三种方法的常见误区与正确做法，希望内容能帮助你避开品牌调研陷阱。上一篇文章《5位心理学家教你如何打广告》，在最后...
- ## [智能合同管理产品设计（1）：合同智能审核](http://www.woshipm.com/pd/3692101.html)
- > 人工智能的应用领域多种多样，比如合同智能审核就是“人工智能+法律”的垂直领域产品，它可以通过辅助用户审核，帮助法律人从重复劳动中解放出来，并提升审核的专业水平。...
- ## [VR产品经理之路：VR产品设计思考和Oculus quest产品体验](http://www.woshipm.com/pd/3696629.html)
- > 对VR产品经理来说，设计一款VR产品之前需要掌握哪些基础知识呢？设计过程中又有哪些注意要点呢？本文将详细介绍这些内容，并以Oculus quest产品为例，分享VR产品的产品...
- ## [限时免费 | 不知如何准备产品面试？鹅厂大佬在线教你通关技巧！](http://www.woshipm.com/open/3705869.html)
- > 相信很多0经验求职/转岗产品经理的小伙伴，都是综合考虑岗位市场规模、发展空间、职业壁垒等情况，考虑了很多才决定走产品经理这个方向。但同时也会有很多的焦虑拦在他...
+ ## [如何才能留住用户？快试试这7个方法](http://www.woshipm.com/operate/3681300.html)
+ > 如何留住用户？产品经理要想留住用户需要解决哪些问题？文章对此进行了总结，与大家分享。有研究表明老用户多留下5%，反映在利润上就可以提高25%-95%，老用户才是真爱...
+ ## [作为产品经理，你必须要了解“包豪斯主义”](http://www.woshipm.com/pmd/3700994.html)
+ > 为什么当前如此流行“极简设计”？如果要追根溯源的话，我们首先要了解一下什么是包豪斯主义。最近团队PM招聘，与一些产品经理候选人进行多次语音面试。其中一位候选人...
+ ## [避坑指南：聊聊CRM设计中常见的坑！](http://www.woshipm.com/pd/3675698.html)
+ > 本文列举了CRM设计过程中常见的坑，例如客户和订单直接绑定，引发客户续费时混乱；联系人和客户一对一绑定；流程或规则的制定过于依赖“人性”；过早把功能配置的权限交给...
+ ## [后台产品PRD系列（1）：如何设计优秀的数据报表？](http://www.woshipm.com/pd/3690555.html)
+ > 在后台产品中，数据报表的重要性毋庸置疑，不过优秀的数据表单并不多见，所以本文就从基础功能、体验升级两方面来聊聊如何设计一个优秀的数据报表。数据报表一直是后...
+ ## [如何通过活动方式进行拉新？](http://www.woshipm.com/operate/3699502.html)
+ > 今天主要聊一聊用户生命周期中，我们该如何通过活动的手段进行有效的拉新。最近看了一些B站的视频，有一个视频聊到商战的问题，视频中有说到，这个“世界上资源是有限...
+ ## [产品运营中的用户运营：如何从0到1，从1到100](http://www.woshipm.com/operate/3699788.html)
+ > 到底什么是用户运营？从字面意思来解释就是运转经营用户，以用户行为数据为基础，通过一系列的营销举措、内容、能力、体验等等吸引用户，留住用户，延长用户生命周期，...
+ ## [教育产品设计：掌握这些心理学技巧，提高学生任务完成率](http://www.woshipm.com/pd/3700609.html)
+ > 疫情加速了教育信息化的进程，教学场景转移到了线上，大部分师生通过直播以及其他教育产品实现教学。不过当学生从线下转到线上后，在课后作业的过程中，学生不可避免地...
+ ## [交互设计师如何做创新设计？](http://www.woshipm.com/pd/3699600.html)
+ > 设计永远是帮助用户解决问题的，设计师应该抱着用户的心理去创造体验，根据实际问题结合创新助力业务成长。很多互联网的交互设计师都会被问到一个问题，就是在项目中...
+ ## [字节跳动穿山甲联盟的“付费双出价”究竟是什么？](http://www.woshipm.com/marketing/3700878.html)
+ > 双出价，指的是广告主同时设置激活出价和付费（深度转化）出价。穿山甲基于oCPX提出的付费双出价，意味着广告的点击率预估、点击收益预估均由穿山甲进行，广告主只需要...
+ ## [增长模型指标体系如何构建？](http://www.woshipm.com/pd/3698466.html)
+ > 指标体系的重要性，不言而喻了吧？不管是做运营还是做服务，亦或是做产品，都离不开指标体系的构建。你在公司里构建的指标体系是如下这两个样子吗？是这样？还是这...
+ ## [产品经理面试避坑指南](http://www.chanpin100.com/article/111336)
+ > 面试那些事儿，早知道，少踩坑
+ ## [智能化时代，大数据如何赋能银行客群管理，实现精准营销](http://www.chanpin100.com/article/111335)
+ > 本文基于数字化新形势，对银行客群管理这一课题进行探索性分析，用新范式对客群进行重新定义。
+ ## [爱奇艺、百度、B站等相继出事，上周都发生了什么？](http://www.chanpin100.com/article/111334)
+ > 行业周报！一起回顾上周都发生了哪些大事件！
+ ## [用BI在库存管理中“淘金”](http://www.chanpin100.com/article/111333)
+ > 数据是宝藏，淘一淘，净金子。这两年数据产品经理招聘需求“井喷”。本篇谈的是BI在WMS中应用的，有方法、有实战、有总结。
+ ## [万万没想到学习还可以这样！|2020中国中小学校智能+教育发展洞察](http://www.chanpin100.com/article/111332)
+ > 目前，智能化已经渗透中小学教育全环节，重塑从教学到管理的六大场景，助力智适应教育实现并增强校园管理的科学性，全面赋能学生、教师、家长与学校。未来，供应商通过综合型解决方案助力中小学校建成一体化、个性化的共享智慧教育生态将成为主流趋势。
+ ## [社交模块的可行性分析](http://www.chanpin100.com/article/111331)
+ > 今天想对社交属性和社交所能承担的价值进行一个详细的分析，本人不是社交产品，所以有不对的地方也欢迎与我沟通。
+ ## [餐饮疫后艰辛、美团涨佣收割，“伪生态”下的骑虎难下？](http://www.chanpin100.com/article/111329)
+ > 各地餐饮协会“喊话”美团，不过是为餐饮商户求一个“生存”机会。
+ ## [如何基于用户场景去做产品？](http://www.chanpin100.com/article/111328)
+ > 什么是场景，著名产品人梁宁老师说，“场”是时间和空间的概念，“景”是情景和互动。当用户在某个时间停留在某个空间时，要有情景和互动让用户的情绪触发。
+ ## [【新手指南】UI交互设计vsUI设计vs交互设计](http://www.chanpin100.com/article/111327)
+ > UI交互设计，UI设计，交互设计三者究竟是怎样的关系？
  ## [体验【美团】app](http://www.chanpin100.com/article/111326)
  > 通过会员体系分析【美团】产品的会员部分，了解美团会员的整体架构及针对美团产品的一点点建议
  ## [从直播带货思考产品底层逻辑](http://www.chanpin100.com/article/111325)
@@ -245,15 +279,5 @@ DTC&#38544;&#24418;&#27491;&#30072;&#24179;&#21488;&#8220;&#24494;&#31505;&#2084
  > 鸟姐带大家学怎么画流程，画流程的意义，画流程的工具以及方法。
  ## [BI好比医疗仪器](http://www.chanpin100.com/article/111311)
  > 管理者是保健医生，BI是医疗器械。好大夫配上好器械，企业肌体更健康！
- ## [2020设计之旅10-清单54【孙子兵法】决策制定篇----基于高认知水平的思维战役【下】](http://www.chanpin100.com/article/111308)
- > 第54期：用时约5分【孙子兵法】决策制定篇----基于高认知水平的思维战役【下】
- ## [嘘，这里有份设计CRM的“秘籍”](http://www.chanpin100.com/article/111310)
- > 客户是衣食父母，值得企业花大精力进行精细化的管理与运营。这便造成了CRM系统一直是企业的刚需，每年都有不少企业招CRM产品经理或购买CRM软件。
- ## [用户行为数据分析——如何搭建数据指标体系篇](http://www.chanpin100.com/article/111307)
- > 百因必有果，你的报应就是我......呸！跑题了~~~当我们拿到相关的数据之后我们会发现，数据何其庞大......
- ## [如何撰写一份优质的产品分析报告](http://www.chanpin100.com/article/111305)
- > 产品分析报告该怎么写？
- ## [网赚游戏“一哥”易主，娱乐类App需求降低丨3月AppStore推广报告](http://www.chanpin100.com/article/111304)
- > 三月行业报告！
 
     
