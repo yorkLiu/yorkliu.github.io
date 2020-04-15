@@ -1,7 +1,7 @@
 ---
 title: 2020-04-15 IT News
 copyright: true
-date: 2020-04-15 10:01:36
+date: 2020-04-15 12:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -81,59 +81,69 @@ IMF &#39044;&#35745;&#20170;&#24180;&#20840;&#29699;&#32463;&#27982;&#33806;&#32
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [标准|工信部公示涉及光模块光纤测试等多种通信行业标准](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=yCKLCcREC-PhJDodZOyJRa90QKG3c2aJSVK2yB2YgGbT*g-dr84ppkS1GwE4r4bE-94maGNg32C*ICBsfhAQF1MV-DXLH3rbsxu7zkPgtMMcPqghQy6PKJu0z8xr-MI0&new=1)
+ ## [标准|工信部公示涉及光模块光纤测试等多种通信行业标准](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=yCKLCcREC-PhJDodZOyJRa90QKG3c2aJSVK2yB2YgGavF7bTMP-M1W28gZKZY0JdoDzS108INHE61M3V3FQacnE2zpkFjP-aJk98nDMCf62jIrxELPspMFDIprbftoOQ&new=1)
  > 新闻导读工信部科技司公示通信行业10项国家标准和64项行业标准。根据标准制修订计划，相关标准化技术组织已完成通信行业《拉曼光纤放大器》等10项国家标准和《卫星通信链路大气和降雨衰减计算方法》等64项行业标...
- ## [全球运营商品牌价值20强：Verizon、AT&T、中国移动排前三，整体下降明显](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=sfGyuKMVOydd4htcwaX*ZZj54TmN-VHxiOwVC*xkbcFQCJohE3BL11gpoA4*nEOSXu1Ba2-J46xLB6R9-Eh7YXYxk4EQANwH3jRspK00ltG9jpE0lgnmxXGjiFHmstJ4&new=1)
- > 据英国品牌评估机构Brand Finance发布《 Telecoms 150 2020》年度报告，Verizon赢得全球最负盛名的电信品牌的称号，价值637亿美元。到2020年，前50名中的所有欧洲品牌均失去品牌价值，平均下降13％。 在这
- ## [\[报告\]2019全球动力电池竞争格局分析(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=96CHgtWYl1VtVTrQIR2361ounq4dUfEdx8*G6hnqn76LVCtCIsX2uDCJug98JYBJ8uyv0NJboCouitxxz4-f7xRlaC7B1VR7tGrvO-cfixPUxYpTNHH9JTfiNxFQYCj7&new=1)
- > 动力电池是新能源电动汽车的“心脏”，占整车成本的30%-40%，是潜在市场达数千亿的新兴产业。对动力电池核心技术与供应链的争夺，将成为大国制造业竞争的另一制高点，且很大程度上影响着未来全球新能源汽车的行...
- ## [重磅!工信部\[2020\]509号文：要求三大运营商4月15号前..](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=5XcqaJFh6VWQssRG97*lpJ62nDEgnDjg0ktlVkcT2JOKkKdvvQp0kKJpiCRUNBHzlvLJDYlpnOhjRexNebODMn17YznowLbAA33aj8efPLoc3x05TX2izmrGzLJTwZXZ&new=1)
+ ## [美国旧金山国际机场遭黑客攻击 俄罗斯成为头号“疑犯”](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=NqDQfSXIQoZ27HpG6BFvkx9LQTbf4vqynpcTz8mCvGM-6KuDCQ6oobWTtGLjMhyxqRDUErnViF57n1iv5-NnsGzp0fhCPZ-vPLMKdZLqwmklPDVo19E0KoCnmgD-klEX&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月15日讯，近日据外媒报道，在三月底黑客入侵了旧金山国际机场（SFO）的两个网站后，这两个网站都被披露数据泄露。SFO是美国通向欧洲和亚洲的主要门...
+ ## [得一微并购大心电子，获国际知名芯片IP公司基金Alphatecture领投B轮融资](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=5HoYizyGaiP3L4ge48BHgu7cLU7Pz1uM2Sa2UHT0u82dtkvDu-XRSZZO7GAQydtjuRcDx4yUA2jz-UXfclpVMNt3h4UJpOlkmirPDadRioIZg8aEvNST4Ylk6O1WAWv9&new=1)
+ > 2020年4月，深圳市得一微电子有限责任公司（YEESTOR）宣布成功并购深圳大心电子科技有限公司（EpoStar）。同时，得一微电子完成B轮融资，由国际著名芯片IP公司旗下美元生态基金Alphatecture领投，德联资本、华登...
+ ## [3DCERAM光固化陶瓷3D打印工艺及其应用](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=1jLKR9k2NQyuLYKiV4q3EI84oGV3XD0HLEBGHOZIZtW2wEqHFh8GFdOkJhpVqU7VeJ8*rc*Rj0wJMyFkjsDidypxoDM9WR5eOaF*omde*MiM58FOvdXSR2H4TRWHWFmw&new=1)
+ > 3DCERAM是来自法国的专业陶瓷3D打印制造商，自2001年以来就专注于陶瓷3D打印技术，是目前全球领先的陶瓷3D打印厂商之一。3DCERAM专注于陶瓷3D打印在不同工业领域中的实际应用，甚至已经推出了成型尺寸达600*600*...
+ ## [重磅!工信部\[2020\]509号文：要求三大运营商4月15号前..](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=5XcqaJFh6VWQssRG97*lpJ62nDEgnDjg0ktlVkcT2JOkRMmj3PwPchDMhZqIEnbvg3gpd*e5ZKi2I63TnKHvjJX-E4qkDGLSO-qMSYs05RmMZiPWGsOOAcL6JFtZJyOO&new=1)
  > 关于请提供有关材料的通知中国电信集团有限公司、中国移动通信集团有限公司、中国联合网络通信集团有限公司、中国广播电视网络有限公司、中信网络有限公司：自互联网网络接入市场清理规范以来，百度、阿里巴巴、...
- ## [\[科技早报7点整\]苹果回应隐私质疑 斯坦福智能马桶凭肛纹识人……](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=TAH1f9gwlY0C9vWsEqH5yDOj1UpKXOIq89PMGdSz8KzM6lg7zX82xCeKabtOe8m-lxe58vtk0iV3MJ9AQdcSlTwFUZdmoZ8s2*mLbu6IumzSOauJsVvSS*1fo*xtGCmM&new=1)
+ ## [全球运营商品牌价值20强：Verizon、AT&T、中国移动排前三，整体下降明显](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=sfGyuKMVOydd4htcwaX*ZZj54TmN-VHxiOwVC*xkbcHhND7i3nvPJrEoPBNvorRNWqbfjUO11Xn6uye50xTJA3esLebLN02*6pd9iQkGOlIu2muUB7FLfLvVdjcVcWpW&new=1)
+ > 据英国品牌评估机构Brand Finance发布《 Telecoms 150 2020》年度报告，Verizon赢得全球最负盛名的电信品牌的称号，价值637亿美元。到2020年，前50名中的所有欧洲品牌均失去品牌价值，平均下降13％。 在这
+ ## [\[报告\]2019全球动力电池竞争格局分析(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=96CHgtWYl1VtVTrQIR2361ounq4dUfEdx8*G6hnqn741E4raJKdb-N30cyR*RgiRvIAf2faUaGhLBRc7*Hl6s1hYVfxyYVl7WnCv8kCSZF0zUzh3Cd*f3V0gCA0tvYBO&new=1)
+ > 动力电池是新能源电动汽车的“心脏”，占整车成本的30%-40%，是潜在市场达数千亿的新兴产业。对动力电池核心技术与供应链的争夺，将成为大国制造业竞争的另一制高点，且很大程度上影响着未来全球新能源汽车的行...
+ ## [\[科技早报7点整\]苹果回应隐私质疑 斯坦福智能马桶凭肛纹识人……](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=TAH1f9gwlY0C9vWsEqH5yDOj1UpKXOIq89PMGdSz8KzieS0w1rllB*sQLAM93t2zQKVRGeCnyTvpm-32axvkr*vKReJjADAhLweLCymdDbLBUzMaqd2BLmhhXFL5ca*-&new=1)
  > 早上好，科技圈【一度蜜科技早报】第778期1.工信部：24家违规企业被纳入电信业务经营不良名单一季度24家企业因无正当理由中止对电信用户的电信服务、接入未备案网站、违反实名制规定、不配合调查等违法违规行为...
- ## [中国5G发展需要更开放、更包容](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=2TEJVhGKB5dNcYgdqOy4W27PCZZhemr5bCX4z5Xb2hnGeGf8ctsFqa8lkPo5xsGWAfqYkL*hWxHDkROkQ4pikTLd6y4F8exrblOSnfHu5SF419ayi1yPuBt6joXRkAfP&new=1)
+ ## [中国5G发展需要更开放、更包容](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=2TEJVhGKB5dNcYgdqOy4W27PCZZhemr5bCX4z5Xb2hnm4i1LxNhOpv9iX3BkALmrYYmv4qkHM-EEk8S2CK4mO8YLnJMe5ooEr-2TrZIR2s1h7G5ifTm4vrz3kx*Tn*CN&new=1)
  > 【摘要】在发展5G方面，中国通信行业要冷静有定力，按照自己的节奏走，既不受外界的干扰，也要有包容共同发展精神。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：刘启诚本文来源：通信世界（CWW-weixi...
- ## [刚刚，中国联通定调：优质省分将优先发展!这几个省最受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=Ta5wU06s3OJ84CYil3zvC8TZUvw21QUy8mBXy3wp9IvkYlRPLqyUpkc1cZu-EXu1xAgLMC*55HIaTzmmyI*LzDI21TcbyW9l3kbEEO4MuH4XoT-Siyf*8Csl27v7u3xT&new=1)
+ ## [刚刚，中国联通定调：优质省分将优先发展!这几个省最受关注](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=Ta5wU06s3OJ84CYil3zvC8TZUvw21QUy8mBXy3wp9IvOJFYUhKswpVIwTa*Kcj-9Cq-RjcxJatuDMzGr-ZNa2tjnC8v2ZLn5oP-JBkhESARhDRJN0RQSizn4bBKIfLTV&new=1)
  > 来源 运营商财经网近日，知情人士向记者独家爆料称，中国联通各个地区的5G发展步伐不一样，中国联通已要求按照“先优质省公司、再潜力省公司”的步骤，给予联通省分公司5G 发展的差异化指导。联通省分差异的由来...
- ## [弘和集团产品技术介绍](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=TogH4fm3S6-*XTof*m9UQ8Y16X*xlLauwXZPDh39hU-3GRqERVgCmb9RvRyULEWhl*Abf*ZGAl*5cELE23F6lhpWBaOp7Go2Qyg2STSu-x4MQudJXLiqNSAX33ox*8kN&new=1)
+ ## [弘和集团产品技术介绍](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=TogH4fm3S6-*XTof*m9UQ8Y16X*xlLauwXZPDh39hU9JeRAoagHK2CFXeog*9iabFgQIOIfi0fx1tSXTu0UnZ70fxjV7hkm*1YAgfPYct4stbkrKqpBR-n958uUjk76*&new=1)
  > 四川弘和集团是一家全IT链多元化高科技企业，拥有四川弘和通讯有限公司、四川省弘和文化传播有限公司、成都泽弘科技信息有限责任公司、成都畅达网通讯科技有限公司、成都融信通科技有限公司、北京弘恒科技有限公...
- ## [直播|4月21，英特尔智能零售研讨会正式开启!探索机器人智能零售新方向](http://mp.weixin.qq.com/s?src=11&timestamp=1586914255&ver=2279&signature=qdIJ5MZpMRdX*3LrCgyBGZxnoiSoKoNmtCN5nW*zJ6hAa4yn4M5u0EEf7qFDnqrU9oBnJawFgwkHv2YVLEXkAwmF-W4ipJNEOb2AsXO1CZd2eizgaveNtEMbIbzsFVBW&new=1)
+ ## [直播|4月21，英特尔智能零售研讨会正式开启!探索机器人智能零售新方向](http://mp.weixin.qq.com/s?src=11&timestamp=1586921460&ver=2279&signature=qdIJ5MZpMRdX*3LrCgyBGZxnoiSoKoNmtCN5nW*zJ6jHTIhwM6fJoxZIBEUAvA5F-zEDq5CvG4LTCIC1zrc8bdCdTXq0b5RstkYt*kFlE99PP6AYwXAIxiOUUIv4oHJ8&new=1)
  > 全球疫情给社会经济、产业以及生活带来了巨大冲击，随之崛起的安全防控、智能检测、非接触服务等需求正在给整个机器人产业的技术、产品和落地方向带来深远影响。2020年英特尔&amp;硬蛋机器人创新生态将带着机器人产...
 # IT 技术 
  ## [使用钩子促进OAth 2.0与OpenID连接](http://developer.51cto.com/art/202004/614350.htm)
  > 使用钩子促进OAth 2.0与OpenID连接
+ ## [开发 | Netty快速入门，一看就懂！](http://developer.51cto.com/art/202004/614444.htm)
+ > 开发 | Netty快速入门，一看就懂！
  ## [彻底搞懂计算机网络通信设备与协议](http://network.51cto.com/art/202004/614446.htm)
  > 彻底搞懂计算机网络通信设备与协议
- ## [Netty快速入门，一看就懂！](http://developer.51cto.com/art/202004/614444.htm)
- > Netty快速入门，一看就懂！
+ ## [从原生到黑科技：闲鱼Flutter图片优化经历了什么？](http://zhuanlan.51cto.com/art/202004/614460.htm)
+ > 从原生到黑科技：闲鱼Flutter图片优化经历了什么？
+ ## [AWS vs. Azure vs. Google Cloud：哪个免费套餐更好？](http://cloud.51cto.com/art/202004/614461.htm)
+ > AWS vs. Azure vs. Google Cloud：哪个免费套餐更好？
  ## [从四个层次看人工智能的经济学分析](http://ai.51cto.com/art/202004/614051.htm)
  > 从四个层次看人工智能的经济学分析
  ## [开发 | Java的这些坑，你踩到了吗？](http://developer.51cto.com/art/202004/614358.htm)
  > 开发 | Java的这些坑，你踩到了吗？
  ## [滴滴万亿级ElasticSearch平台架构升级解密](http://developer.51cto.com/art/202004/614356.htm)
  > 滴滴万亿级ElasticSearch平台架构升级解密
- ## [没有被了解的API？一个老码农眼中的API世界](http://zhuanlan.51cto.com/art/202004/614314.htm)
- > 没有被了解的API？一个老码农眼中的API世界
- ## [如何防止不需要的模块加载以保护Kubernetes集群？](http://os.51cto.com/art/202004/614349.htm)
- > 如何防止不需要的模块加载以保护Kubernetes集群？
- ## [为什么人工智能即服务势在必行](http://ai.51cto.com/art/202004/614456.htm)
- > 像之前的SaaS一样，AIaaS对于想要利用人工智能的力量的企业来说是一个福音，而无需花费时间和金钱来开发自
- ## [这些优化技巧可以避免我们在 JS 中过多的使用 IF 语句](http://developer.51cto.com/art/202004/614454.htm)
- > 最近在重构代码时，我发现早期的代码使用太多的 if 语句，其程度是我从未见过的。这就是为什么我认为分享这
- ## [多云管理与安全架构迁移](http://netsecurity.51cto.com/art/202004/614455.htm)
- > 根据Gartner的定义，多云是指企业同时拥有两个或多个云计算平台，在部署的时候可能会使用公有云、私有云或
- ## [浅谈远程办公安全](http://netsecurity.51cto.com/art/202004/614452.htm)
- > 2020年的1月一场疫情的突然来袭，由于病毒传播的特性，为了避免群体聚集，保障生命安全。远程办公就成为了
- ## [数据护栏与行为分析（上）: 理解任务](http://netsecurity.51cto.com/art/202004/614451.htm)
- > 或许现在是重新审视数据安全的时候了，应该利用基础设施领域开创的许多新技术来解决出现的内部威胁：攻击数
- ## [全职漏洞猎人的故事，这个职业令人向往但并不容易](http://netsecurity.51cto.com/art/202004/614448.htm)
- > 作为一个漏洞猎人，向供应商披露他们的发现（而不是将信息出售给出价最高的人），这已经是许多具备道德的黑
- ## [2020年优秀8个Linux应用](http://os.51cto.com/art/202004/614447.htm)
- > 通过安装，测试、长时间的使用，为您列出Linux操作系统一份最好的开源程序列表，个人观点，请大家补充。
+ ## [新版QQ上线“神奇按钮”：点一下全世界都清净了](http://mobile.51cto.com/app-show-614477.htm)
+ > 据悉，iOS版8.3.3版本昨日已经更新，安卓版即将跟上。此外，QQ小游戏正式接入腾讯健康系统，通过认证为未成
+ ## [5G和物联网的时代，2020年直播该往哪走？](http://iot.51cto.com/art/202004/614474.htm)
+ > 随着5G和物联网的发展，随着硬件和软件的升级，直播将以更真实的形式存在，而直播要想“+”到各行各业中，
+ ## [闪存将带来前所未有的速度和容量](http://stor.51cto.com/art/202004/614472.htm)
+ > NAND闪存的未来发展涉及每个存储单元更多的层和位。与此同时，NVMe-oF、存储类内存和其他新技术将从根本上
+ ## [用C语言怎样实现面向对象思想？](http://developer.51cto.com/art/202004/614475.htm)
+ > 众所周知，C语言是结构化和模块化，面向过程的编程语言，在这里用户创建过程或函数来执行他们的任务。面向
+ ## [用Chezmoi取回你的点文件](http://os.51cto.com/art/202004/614476.htm)
+ > 在 Linux 中，点文件是隐藏的文本文件，从 Bash、Git 到 i3 或 VSCode 等更复杂的许多应用程序，都用它存
+ ## [国外网络安全厂商如何“免费抗疫”](http://zhuanlan.51cto.com/art/202004/614473.htm)
+ > 以下，安全牛整理了国外网络安全企业疫情期间推出的有代表性的抗疫免费产品/服务，供大家参考。
+ ## [MySQL的开发必会的SQL语句](http://database.51cto.com/art/202004/614471.htm)
+ > 本文我们一起来谈一谈MySQL的开发必须要学会的sql语句都有哪些，让我们一起来了解下吧！
+ ## [如何为新项目选择优秀的编程语言](http://developer.51cto.com/art/202004/614469.htm)
+ > 在开始新事物之前，请考虑适合该工作的语言。大约一年前，我得到了自己的职业机会。 领导层接近我，问我是
+ ## [为何5G网络已经全面商用，很多人还是坚持购买4G手机呢？](http://network.51cto.com/art/202004/614467.htm)
+ > 虽然5G网络已经全面商用了，但是有不少的手机厂商依然在继续推出4G手机，就连苹果手机到目前为止也还没有正
+ ## [大数据在企业中的4个主要竞争优势](http://bigdata.51cto.com/art/202004/614468.htm)
+ > 控制企业拥有的数据不仅可以提高其内部信息可访问性，而且还可以提供一系列好处，这些好处可能是在其市场中
  ## [字节面试：如何用Redis实现一个分布式锁？](https://blog.csdn.net/qq_35190492/article/details/105499233)
  > 
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
  ## [工作两年简历写成这样，谁要你呀！](https://blog.csdn.net/Yao__Shun__Yu/article/details/105464864)
  > 
  ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
@@ -142,24 +152,26 @@ IMF &#39044;&#35745;&#20170;&#24180;&#20840;&#29699;&#32463;&#27982;&#33806;&#32
  > 
  ## [你为什么在现在的公司不离职？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/105341207)
  > 
- ## [对Tomcat的简单概要小结](https://blog.csdn.net/qq_44543508/article/details/104134219)
- > 
+ ## [讲一个程序员如何副业月赚三万的真实故事](https://blog.csdn.net/loongggdroid/article/details/104687629)
+ > 讲一个程序员如何副业月赚三万的真实故事
  ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
  ## [柏林艺术家用行为艺术骇了一次谷歌地图](https://blog.csdn.net/leelight/article/details/104177747)
  > 柏林艺术家用行为艺术骇了一次谷歌地图
  ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
  > 如果你是老板，你会不会踢了这样的员工？
+ ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
+ > 在中国程序员是青春饭吗？
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
  ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
  > 
- ## [Python10行以内代码能有什么高端操作](https://blog.csdn.net/ZackSock/article/details/105193651)
- > 
+ ## [强烈推荐：程序员必备的两个超级工具，一个是百宝箱，一个是百宝库](https://blog.csdn.net/loongggdroid/article/details/104744041)
+ > 强烈推荐：程序员必备的两个超级工具，一个是百宝箱，一个是百宝库
  ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
  > 
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
- > 
+ ## [上班一个月，后悔当初着急入职的选择了](https://blog.csdn.net/hejjunlin/article/details/104740320)
+ > 上班一个月，后悔当初着急入职的选择了
  ## [《原力计划【第二季】》第 7 周周榜揭晓！！！](https://blog.csdn.net/csdnnews/article/details/105525463)
  > 自 2 月 21 日开始《原力计划【第二季】— 学习力挑战》，已经到了第7周，累计22000+名博主参与了本次活动。第7周共收到活动投稿17679篇原创文章，经过层层筛...
  ## [北京四环堵车引发的智能交通大构想](https://blog.csdn.net/csdnnews/article/details/105525464)
@@ -179,54 +191,56 @@ IMF &#39044;&#35745;&#20170;&#24180;&#20840;&#29699;&#32463;&#27982;&#33806;&#32
  ## [美团外卖回应佣金争议；苹果回应戴口罩解锁 iPhone；新 Edge 浏览器明年将不再支持 Win7 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/105525474)
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头...
 # 人工智能 
- ## [为什么4G时代无法实现的万物互联，5G时代就能实现呢？](https://blog.csdn.net/weixin_44197060/article/details/105470709)
- > 为什么4G时代无法实现的万物互联，5G时代就能实现呢？
- ## [五款5G手机](https://blog.csdn.net/qq_38477186/article/details/105473030)
- > 五款5G手机
- ## [物联网（IOT）之常见物联网通信技术概览-无线篇②](https://blog.csdn.net/weixin_45948002/article/details/105474330)
- > 物联网（IOT）之常见物联网通信技术概览-无线篇②
- ## [光模块的分类](https://blog.csdn.net/tony_vip/article/details/105488517)
- > 光模块的分类
- ## [5GNR漫谈4：CORESET与SearchSpace](https://blog.csdn.net/guet208/article/details/105467043)
- > 5GNR漫谈4：CORESET与SearchSpace
- ## [音视频技术之《移动直播场景的坑与规避措施》](https://blog.csdn.net/qq_27096221/article/details/105487105)
- > 音视频技术之《移动直播场景的坑与规避措施》
- ## [4G/5G多卡聚合设备公安车载视频传输方案](https://blog.csdn.net/qq_41942457/article/details/105485340)
- > 4G/5G多卡聚合设备公安车载视频传输方案
- ## [荣耀30S入手体验分享 性能够用颜值深得我心](https://blog.csdn.net/hanniuniu11/article/details/105499431)
- > 荣耀30S入手体验分享 性能够用颜值深得我心
- ## [5G时代，TCP/IP英雄迟暮，华为等重磅推出新规则New IP](https://blog.csdn.net/weixin_42864905/article/details/105490025)
- > 5G时代，TCP/IP英雄迟暮，华为等重磅推出新规则New IP
- ## [蓝牙mesh、wifi、zigbee和lora、NB-lot区别和联系](https://blog.csdn.net/lujizhen/article/details/105484192)
- > 蓝牙mesh、wifi、zigbee和lora、NB-lot区别和联系
- ## [VoLTE / VoIP 网络电话](https://blog.csdn.net/qq_36666115/article/details/105498255)
- > VoLTE / VoIP 网络电话
- ## [OE链面临区块链生态新机遇](https://blog.csdn.net/KEAIRUWO/article/details/105497345)
- > OE链面临区块链生态新机遇
- ## [LG X2新机](https://blog.csdn.net/qq_38477355/article/details/105488908)
- > LG X2新机
- ## [物联网（IOT）之常见物联网通信技术概览-无线篇③](https://blog.csdn.net/weixin_45948002/article/details/105474587)
- > 物联网（IOT）之常见物联网通信技术概览-无线篇③
- ## [重磅！三大运营商同框联手发布《5G消息白皮书》，菊风受邀出席发布会](https://blog.csdn.net/weixin_44669196/article/details/105488682)
- > 重磅！三大运营商同框联手发布《5G消息白皮书》，菊风受邀出席发布会
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
+ > 安卓APP的http访问权限
+ ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
+ > flutter 的像素尺寸
+ ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
+ > googlePlay 找不到发布的应用
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
+ > 使用FlexboxLayoutManager来实现流式布局
+ ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
+ > 电电帮手机维修就是坑爹，大家不要信
+ ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
+ > android.view.InflateException Error inflating class android.webkit.WebView
+ ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
+ > Unity | 总结：OCR文字识别、公式识别
 # PM 
- ## [产品经理面试避坑指南](http://www.chanpin100.com/article/111336)
- > 面试那些事儿，早知道，少踩坑
- ## [智能化时代，大数据如何赋能银行客群管理，实现精准营销](http://www.chanpin100.com/article/111335)
- > 本文基于数字化新形势，对银行客群管理这一课题进行探索性分析，用新范式对客群进行重新定义。
- ## [爱奇艺、百度、B站等相继出事，上周都发生了什么？](http://www.chanpin100.com/article/111334)
- > 行业周报！一起回顾上周都发生了哪些大事件！
- ## [用BI在库存管理中“淘金”](http://www.chanpin100.com/article/111333)
- > 数据是宝藏，淘一淘，净金子。这两年数据产品经理招聘需求“井喷”。本篇谈的是BI在WMS中应用的，有方法、有实战、有总结。
- ## [万万没想到学习还可以这样！|2020中国中小学校智能+教育发展洞察](http://www.chanpin100.com/article/111332)
- > 目前，智能化已经渗透中小学教育全环节，重塑从教学到管理的六大场景，助力智适应教育实现并增强校园管理的科学性，全面赋能学生、教师、家长与学校。未来，供应商通过综合型解决方案助力中小学校建成一体化、个性化的共享智慧教育生态将成为主流趋势。
- ## [社交模块的可行性分析](http://www.chanpin100.com/article/111331)
- > 今天想对社交属性和社交所能承担的价值进行一个详细的分析，本人不是社交产品，所以有不对的地方也欢迎与我沟通。
- ## [餐饮疫后艰辛、美团涨佣收割，“伪生态”下的骑虎难下？](http://www.chanpin100.com/article/111329)
- > 各地餐饮协会“喊话”美团，不过是为餐饮商户求一个“生存”机会。
- ## [如何基于用户场景去做产品？](http://www.chanpin100.com/article/111328)
- > 什么是场景，著名产品人梁宁老师说，“场”是时间和空间的概念，“景”是情景和互动。当用户在某个时间停留在某个空间时，要有情景和互动让用户的情绪触发。
- ## [【新手指南】UI交互设计vsUI设计vs交互设计](http://www.chanpin100.com/article/111327)
- > UI交互设计，UI设计，交互设计三者究竟是怎样的关系？
+ ## [用数据优化运营：3个案例带你用数据留住用户](http://www.woshipm.com/data-analysis/3708058.html)
+ > 通过产品数据的剖析，我们能够洞察用户行为、习惯以及他们对产品的使用反馈，并策划出优化后的产品策略。所以掌握数据挖掘与分析思维显得格外重要，那么如何掌握这一思...
+ ## [SPAX健身直播产品分析报告](http://www.woshipm.com/evaluating/3708065.html)
+ > 疫情导致线上健身大爆发，让很多“肥宅们”的动了起来，同时带火了一批健康运动类 app。SPAX是一款“直播健身课程+工具+社交+健身设备系统”类型的APP产品，本文主要是对这...
+ ## [数据分析报告写作攻略（四）：怎么用策略性思维提建议？](http://www.woshipm.com/data-analysis/3712155.html)
+ > 什么是缺乏策略性的数据分析建议呢？答案就是“就数论数，脱离过程”。所以，要想用策略性思维提好建议，就需要深入到问题发生的过程中，并提出具体的建议动作。你不要...
+ ## [面对产品失败，你是否可以从容不迫？](http://www.woshipm.com/pd/3707518.html)
+ > 失败向来都是从容不迫的人，只不过是失败多了之后的总结。人生很难，不要害怕失败。产品若要成功，必须要经历失败。大家来到这个世界上，可能就是吃苦和面对挑战的。...
+ ## [公开课 | BAT大咖分享：0基础产品新人必修基本功](http://www.woshipm.com/open/3712464.html)
+ > “0基础想成为一名产品经理该怎么做？”如果你在网络上搜索这个问题，五花八门的结果可能反而会越看越乱，想入行/转岗的产品小白们究竟要如何迈出第一步？其实只要把“我...
+ ## [产品经理做什么需求：战略规划](http://www.woshipm.com/pmd/3708023.html)
+ > 本文作者从三个方面分享了关于产品经理战略规划的相关知识，与大家分享。虽当前全球“新冠”疫情严峻，似乎各界都弥漫着无休止的消极情绪，但生活还得继续。所以对“产品...
+ ## [从消费旅程，洞察新零售模式](http://www.woshipm.com/newretail/3482720.html)
+ > 零售是连接消费者和商品的终端，消费者体验对零售市场份额有着重要的影响，新零售是零售业的数字化转型，新零售采用新兴的数字化技术支撑以客户为导向的新思维，强调客...
+ ## [如何基于用户场景去做产品？](http://www.woshipm.com/pd/3707271.html)
+ > 一款成功的产品绝对离不开用户的使用，以及塑造良好的用户体验，而基于用户场景设计产品则能很好地塑造用户体验这一点。那么如何基于用户场景做产品呢？本文将为大家分...
+ ## [设计沉思录丨多样化产品形态下的设计决策探索](http://www.woshipm.com/pd/3711866.html)
+ > 随着互联网的竞争加剧，用户连接渠道越来越丰富，越来越多的产品选择多样化的产品形态。那本文就跟大家讲讲，在多样化产品形态下的设计决策探索。导语随着竞争的不断...
+ ## [微信账户体系科普：什么是UnionId、OpenId与wxopenid？](http://www.woshipm.com/pd/3707175.html)
+ > 如果你对 UnionId、OpenId、wxopenid这三个概念傻傻分不清，那看这篇文章就对了。了解微信账户体系，能帮助你更好地做小程序设计。01 概念解释1. 小程序OpenIdOpenI...
 
     
