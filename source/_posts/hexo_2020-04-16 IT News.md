@@ -1,7 +1,7 @@
 ---
 title: 2020-04-16 IT News
 copyright: true
-date: 2020-04-16 12:00:53
+date: 2020-04-16 17:01:22
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -85,83 +85,83 @@ VIPKID&#36215;&#35785;&#36319;&#35841;&#23398;&#20351;&#29992;&#19981;&#27491;&#
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [5G基站到底长啥样?和4G有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1587007855&ver=2281&signature=37Ysk1qDIYLNLhfZivYbZGHewHtOhwMKG5p5lirz*2LdTx2cIdDkawGkl-a6jfqyLFY0kVHRgAkzdigs8fJKQfoQPlxAgGODedJCvph53CELlaOnX2THuBgjqX5andvo&new=1)
+ ## [5G基站到底长啥样?和4G有啥区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1587026370&ver=2281&signature=37Ysk1qDIYLNLhfZivYbZGHewHtOhwMKG5p5lirz*2JRALJ4Dl3y2t8QWqJjSj1pbyxHa8Jx1MprIHG6q8fE6R9gALBqbM6ndUWqo7x*bTFNkx*MyI7KNpfudgtebLak&new=1)
  > 这是普通人眼中的4G和5G基站...这是通信人眼中的4G和5G基站...那4G和5G基站到底有啥区别？先来了解一下基站站点的组成。一个基站站点包括了基站设备和配套设备。其中，基站设备包括基带单元、无线射频单元和天线...
- ## [40 天 30 亿美元入局，机器人赛道"重返"资本风口?](http://mp.weixin.qq.com/s?src=11&timestamp=1587007855&ver=2281&signature=iO-s0YXnX75aQSWLt*g5rk1iZInpebnE7JfszD63xI0Yk66*2bBFGIqRHcwyEwss1Y6uFNI5qB3R0P-ZYpLl7Yhu9qliU3gVqnG6WFwpUSLx3BJCMyTrTgl5-VbGCavD&new=1)
+ ## [40 天 30 亿美元入局，机器人赛道"重返"资本风口?](http://mp.weixin.qq.com/s?src=11&timestamp=1587026370&ver=2281&signature=iO-s0YXnX75aQSWLt*g5rk1iZInpebnE7JfszD63xI36S4LhkptJUekDMZBiawwC8NEF3-25IukXbUNuPRuV3xFva96BTzew5n545D4ydn37X3OkxQxAhmAtUizUvOq9&new=1)
  > 在疫情催化下，服务机器人迎来了前所未有的市场热情，&quot; 无接触 &quot; 刚需被迅速引爆。 一个更直观的数字是，CVSource 投中数据显示，2020 年 2 月至今，机器人赛道的融资数量就已达 15 起，融资规模将近 30 亿美元...
- ## [任正非卸任，华为高管火线大撤退](http://mp.weixin.qq.com/s?src=11&timestamp=1587007855&ver=2281&signature=QPqaeVrybMvkAFFABnFDGS0BHkdU4YL5Cu94WKgausSlrNx5WBkjlPCHyg4m3sQMZaB5mfHJa7ATARRxk6iOPlV0c1e4I2ZWRorzswEjis3-7UbT3bOeViVjKi5NWbV0&new=1)
- > 全球5G领导者、中国高科技代表——华为公司的灵魂人物任正非于4月10日退出上海华为技术有限公司董事职务，法定代表人也由孙亚芳变更为田兴普。此外，胡厚崑、徐文伟、徐直军、郭平4位董事也一并退出，新增董庆阳...
- ## [为什么说百度、谷歌等科技巨头，才是云游戏硬核玩家?](http://mp.weixin.qq.com/s?src=11&timestamp=1587007855&ver=2281&signature=hNtTOqx7swx2VttFR*mIo0lYuB9KoBFf6DZJl-2HtieZ*pOIJhXYuzXaUjhF6BsvgK4-gQOAuPPIbypBMexqHzZNfUJdFMumPs6QpquKGwg0kUm14bvgA6WW85carpbh&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容“5G能做到什么”，是近两年最常见的话题。随着5G商用和各项应用落地，我们看到了这样的未来：应用、办公甚至是游戏体验，都可通过5G在云端完成。在这些5G实...
- ## [独家：中国电信新任党组副书记邵广禄分管部门确定](http://mp.weixin.qq.com/s?src=11&timestamp=1587007855&ver=2281&signature=OKKa3UXRTzRA2wCSLVWY1vkeaH1udsxwuyKhxvL0cWO5MK2Y*jnB-4MePYQOG4cDLQzutTvSHAeJhu7RzWj3qeorMRzwmGRNukJy4NmKrJzKGZN5eeG1-dgz2RITdua0&new=1)
+ ## [独家：中国电信新任党组副书记邵广禄分管部门确定](http://mp.weixin.qq.com/s?src=11&timestamp=1587026370&ver=2281&signature=OKKa3UXRTzRA2wCSLVWY1vkeaH1udsxwuyKhxvL0cWMleI28Pz4qviCNry-4euI4jt3k-L1dm74OMHVP-Yj988bdU8aiCsKVVIltrzhcuTOlckvhWg81mqUHHIeC4Rck&new=1)
  > 运营商财经网 吴碧慧/文日前，知情人士向运营商财经网独家透露，中国电信新任党组副书记邵广禄分管部门已确定，协助党组书记柯瑞文抓党建，承担党建工作直接责任，分管党组办公室、人力资源部、党群工作部、集团...
+ ## [为什么说百度、谷歌等科技巨头，才是云游戏硬核玩家?](http://mp.weixin.qq.com/s?src=11&timestamp=1587026370&ver=2281&signature=hNtTOqx7swx2VttFR*mIo0lYuB9KoBFf6DZJl-2HticWS6QM0ceLcCzLXxrenAp*x1XZRMyII5HUi2G7Efv4meMkG7kq4aGSd1bFPwPqwvRdqYXP3TrTOGV*-ksbFawc&new=1)
+ > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容“5G能做到什么”，是近两年最常见的话题。随着5G商用和各项应用落地，我们看到了这样的未来：应用、办公甚至是游戏体验，都可通过5G在云端完成。在这些5G实...
+ ## [任正非卸任，华为高管火线大撤退](http://mp.weixin.qq.com/s?src=11&timestamp=1587026370&ver=2281&signature=QPqaeVrybMvkAFFABnFDGS0BHkdU4YL5Cu94WKgausREGhL571HGTfgor4TOIer-x6COcLlyWOJokHuLy6PfC004rJzY0zaIRlIftT2MdKmVfHscwB2VYkgr7WwTvWxK&new=1)
+ > 全球5G领导者、中国高科技代表——华为公司的灵魂人物任正非于4月10日退出上海华为技术有限公司董事职务，法定代表人也由孙亚芳变更为田兴普。此外，胡厚崑、徐文伟、徐直军、郭平4位董事也一并退出，新增董庆阳...
 # IT 技术 
  ## [详解Kubeflow这一K8S的机器学习利器](http://ai.51cto.com/art/202004/614445.htm)
  > 详解Kubeflow这一K8S的机器学习利器
  ## [面试官求你了，别再问我HTTPS](http://netsecurity.51cto.com/art/202004/614535.htm)
  > 面试官求你了，别再问我HTTPS
+ ## [一口气说出4种“附近的人”实现方式，面试官笑了](http://developer.51cto.com/art/202004/614585.htm)
+ > 一口气说出4种“附近的人”实现方式，面试官笑了
+ ## [谁说RL智能体只能在线训练？谷歌发布离线强化学习新范式](http://news.51cto.com/art/202004/614512.htm)
+ > 谁说RL智能体只能在线训练？谷歌发布离线强化学习新范式
  ## [如何使用Ansible Vault保护敏感数据?](http://netsecurity.51cto.com/art/202004/614534.htm)
  > 如何使用Ansible Vault保护敏感数据?
+ ## [2G/3G即将退网，NB-IoT开始“上位”](http://network.51cto.com/art/202004/614579.htm)
+ > 2G/3G即将退网，NB-IoT开始“上位”
  ## [AI | 机器智能正在代替人类做的5件事](http://ai.51cto.com/art/202004/614542.htm)
  > AI | 机器智能正在代替人类做的5件事
- ## [使用钩子促进OAth 2.0与OpenID连接](http://developer.51cto.com/art/202004/614350.htm)
- > 使用钩子促进OAth 2.0与OpenID连接
- ## [开发 | Netty快速入门，一看就懂！](http://developer.51cto.com/art/202004/614444.htm)
- > 开发 | Netty快速入门，一看就懂！
- ## [彻底搞懂计算机网络通信设备与协议](http://network.51cto.com/art/202004/614446.htm)
- > 彻底搞懂计算机网络通信设备与协议
- ## [IPv4互联网的下半场，难说再见；IPv6互联网的上半场，顺势加速！](http://network.51cto.com/art/202004/614421.htm)
- > IPv4互联网的下半场，难说再见；IPv6互联网的上半场，顺势加速！
- ## [Google 自研 SoC，Pixel 就硬气了？](http://news.51cto.com/art/202004/614580.htm)
- > 一直以来，尽管 Pixel 系列表现平平，但 Google 在辅助芯片的研发上始终不遗余力，寄希望于用芯片之力打造
- ## [Android 多线程技术哪家强？](http://mobile.51cto.com/android-614581.htm)
- > Anyway。。。这就是Trade Off，一个很艰难的选择，但是最后人都是趋于自己的利益最大化做出最后的决定。Tra
- ## [2G/3G即将退网，NB-IoT开始“上位”](http://network.51cto.com/art/202004/614579.htm)
- > 据悉，目前包括智慧气表、智慧水表、智能电动车、智慧消防已经成为NB-IoT主要应用场景，四个行业设备连接量
- ## [iOS14正式确认！苹果公司做出妥协，果粉获得自主选择权！](http://mobile.51cto.com/hot-614577.htm)
- > 近日外媒传来了好消息，ios14正式确认!苹果公司终于在第三方软件授权方面做出了妥协，这将意味着将来我们无
- ## [你知道深度学习为什么叫做深度学习吗？](http://ai.51cto.com/art/202004/614576.htm)
- > 一个深度学习网络有很多层，当我们将一张图像送进网络，首先在最底层，好像我们看到的是像素一类的东西，一
- ## [MacOS真的比Windows更安全吗？专家这样回答](http://os.51cto.com/art/202004/614575.htm)
- > 在安全性方面，苹果公司对自家的MacOS系统一直充满信心。对用户隐私的绝对尊重，一直是苹果产品标榜的重要
- ## [iPhone SE第二代和iPhone 8对比：性能升级 取消3D Touch](http://mobile.51cto.com/news-614574.htm)
- > 在漫长的等待之后，第二代iPhone SE于昨晚正式登场。那么作为消费者是选购新款iPhone SE，还是继续使用或者
- ## [平安云“神兵”在手  全面护航企业研发全生命周期](http://cloud.51cto.com/art/202004/614573.htm)
- > 2016年，平安集团内部提出了神兵计划，从方法和工程方面提升科技的质量和效率，并在同年推出了DevOps工具平
- ## [指纹识别真的安全吗？答案也许并非如此](http://ai.51cto.com/art/202004/614571.htm)
- > 随着科技的不断发展，越来越多的黑科技开始涌入我们的生活，同时解锁的方式也日渐多样。从指纹打卡，到支付
- ## [Microsoft Edge 明年停止面向 Windows 7 提供更新](http://os.51cto.com/art/202004/614569.htm)
- > 微软新版 Edge 浏览器(Microsoft Edge)基于 Chromium 内核开发，可在 Windows 和 macOS 平台上运行，其中 W
+ ## [在VirtualBox上安装Kali Linux：最快速和最安全的方法](http://os.51cto.com/art/202004/614516.htm)
+ > 在VirtualBox上安装Kali Linux：最快速和最安全的方法
+ ## [26道数据科学技能测试题，你能做完几题？](http://bigdata.51cto.com/art/202004/614619.htm)
+ > 以下是26个数据科学的问题和供参考的答案。这些问题的难度和主题各不相同，但都与机器学习和数据科学相关。
+ ## [数据中心是什么，一般都建在哪？](http://network.51cto.com/art/202004/614618.htm)
+ > 不管是通信行业、金融行业、IT行业、政府部门，数据中心这四个字都随处可见。马云一直说我们的世界很快从IT
+ ## [现金要成为历史了？数字人民币终于来了：电子支付功能一应俱全](http://blockchain.51cto.com/art/202004/614615.htm)
+ > 据悉，中国央行数字人民币(DCEP)目前已经在中国农业银行开启内部测试。一位农业银行内部人员声称，目前DCEP
+ ## [戴尔发布新工具来检测 BIOS 攻击](http://netsecurity.51cto.com/art/202004/614614.htm)
+ > 计算机制造巨头戴尔周五发布了一种新的安全工具，该工具可以检测到试图修改计算机 BIOS 组件的攻击。该工具
+ ## [抢占5G风口 智慧城市建设迎来新阶段](http://network.51cto.com/art/202004/614613.htm)
+ > 随着5G新基建浪潮火热来袭，新型智慧城市建设的春天正在加速到来。国家发改委日前印发《2020年新型城镇化建
+ ## [聚焦中小企业关键数据防护，昂楷新品企数保重磅发布](http://netsecurity.51cto.com/art/202004/614616.htm)
+ > 4月15日，昂楷科技新产品――企数保发布会成功召开。昂楷企数保专为中小企业设计, 以更小成本，使用更优的
+ ## [5G时代的又一“爆款”应用，云游戏前景几何？](http://network.51cto.com/art/202004/614611.htm)
+ > 4月15日，百度通过举行线上发布会发布了一款“云手机”，并重点聚焦“云游戏”应用场景。5G到底能做什么？
+ ## [对家庭火灾说不，以物联网＋智能烟感防患于“未燃”](http://iot.51cto.com/art/202004/614609.htm)
+ > 春回大地，万物复苏，一切都充满了勃勃生机。在这个春风拂面的季节里，突发的火灾总会使人们的心头蒙上一层
+ ## [5G来了，能耗这关怎么过？ 四大节能方案提供解题思路](http://network.51cto.com/art/202004/614610.htm)
+ > 本文从AAU天线通道关闭、网络存在潮汐区域的节能方案、增强网络覆盖能力以及合理设置网络切换区域等4个方面
+ ## [简析1.3亿元无人驾驶公交系统集采：车联网商用已具备条件](http://ai.51cto.com/art/202004/614608.htm)
+ > 近日，郑州市郑东新区龙湖区无人驾驶公交系统工程采购招标公告发布，预计总投资约1.3亿元，建成一条自动驾
  ## [工作两年简历写成这样，谁要你呀！](https://blog.csdn.net/Yao__Shun__Yu/article/details/105464864)
  > 
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [Python实现植物大战僵尸](https://blog.csdn.net/m0_38106923/article/details/105481308)
- > 
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
  > 
  ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
- ## [为什么你的简历总是被筛掉？用户思维，了解一下。](https://blog.csdn.net/siyuanwai/article/details/104463593)
+ ## [作为一个程序员，CPU的这些硬核知识你必须会！](https://blog.csdn.net/sinat_33921105/article/details/104066631)
  > 
  ## [你为什么在现在的公司不离职？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/105341207)
  > 
- ## [算法题做到崩溃？刷了几千道算法题，关于如何刷题有些话我想对你说](https://blog.csdn.net/u013486414/article/details/104889368)
+ ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
+ > 为什么说程序员做外包没前途？
+ ## [我入职阿里后，才知道原来简历这么写](https://blog.csdn.net/qing_gee/article/details/104839150)
  > 
  ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
  > 如果你是老板，你会不会踢了这样的员工？
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
+ ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
+ > 
+ ## [Java面试宝典：Netty 与 RPC](https://blog.csdn.net/qq_36963950/article/details/105266425)
+ > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [Python10行以内代码能有什么高端操作](https://blog.csdn.net/ZackSock/article/details/105193651)
  > 
- ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
+ ## [这些插件太强了，Chrome 必装！尤其程序员！](https://blog.csdn.net/qing_gee/article/details/104340125)
  > 
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
- > 
- ## [Java面试宝典：Netty 与 RPC](https://blog.csdn.net/qq_36963950/article/details/105266425)
- > 
+ ## [我以为我学懂了数据结构，直到看了这个导图才发现，我错了](https://blog.csdn.net/qq_38646470/article/details/104547401)
+ > 我以为我学懂了数据结构，直到看了这个导图才发现，我错了
  ## [具备系统级影像技术解决方案，荣耀30系列向“唯参数论”宣战](https://blog.csdn.net/csdnnews/article/details/105545683)
  > 4月15日，荣耀30系列新品发布会暨2020荣耀春夏秀拉开序幕，正式发布年度潮流影像旗舰荣耀30系列，分别是荣耀30、荣耀30 Pro、荣耀30 Pro+，售价2999元起、3999元起、4999元起。荣耀30系列在影像能力、ID设计、5G性能体验等方面全面进阶，站稳了手机行业第一梯队。发...
  ## [声网 Agora Share：从天到秒级效率提升，一切都为服务好 15 万+应用](https://blog.csdn.net/csdnnews/article/details/105543978)
@@ -194,71 +194,56 @@ VIPKID&#36215;&#35785;&#36319;&#35841;&#23398;&#20351;&#29992;&#19981;&#27491;&#
  > 伴随着移动互联网的飞速发展，越来越多用户被互联网连接在一起，用户所积累下来的数据越来越多，市场对数据方面人才的需求也越来越大，数据分析、数据挖掘、算法......已然成为当前炙手可热的热...
  ## [基于 Jenkins 和 Kubernetes 的持续集成测试实践了解一下！](https://blog.csdn.net/csdnnews/article/details/105548964)
  > 作者 | 刘春明，责编 | Carol出品 | CSDN 云计算（ID：CSDNcloud）封图 | CSDN下载于视觉中国目前公司为了降低机器使用成本，对所有的AWS虚拟机进行了盘点，...
-# 人工智能 
- ## [Creditcoin—解决无银行账户的信贷问题](https://blog.csdn.net/Block72/article/details/105520029)
- > Creditcoin—解决无银行账户的信贷问题
- ## [快速学习-简单投票 DApp](https://blog.csdn.net/weixin_42528266/article/details/105528554)
- > 
- ## [系统框架的构建](https://blog.csdn.net/guochneg/article/details/105538846)
- > 系统框架的构建
- ## [Go入门](https://blog.csdn.net/fxh_2009/article/details/105535319)
- > Go入门
- ## [HTTPS 的三次握手](https://blog.csdn.net/Regino/article/details/105509254)
- > HTTPS 的三次握手
- ## [从零入门HMAC-SHA256](https://blog.csdn.net/sdnyqfyqf/article/details/105534376)
- > 
- ## [string容器简单实现](https://blog.csdn.net/FDk_LCL/article/details/105515351)
- > string容器简单实现
- ## [CEC循环生态社区让币圈整个行业为之震撼，绝对会有意想不到收获‼️  1⃣ 让最后的投资人从此永远不会“血本无归”； 2⃣ 让领导人从此永远没有“后顾之忧”； 3⃣ 让所有人从此“不怕崩盘”，永续循环](https://blog.csdn.net/weixin_47091951/article/details/105543472)
- > CEC循环生态社区让币圈整个行业为之震撼，绝对会有意想不到收获‼️  1⃣ 让最后的投资人从此永远不会“血本无归”； 2⃣ 让领导人从此永远没有“后顾之忧”； 3⃣ 让所有人从此“不怕崩盘”，永续循环
- ## [What，央行数字货币DECP开测？全球货币霸权之战大幕开启](https://blog.csdn.net/BEYONDMA/article/details/105544705)
- > What，央行数字货币DECP开测？全球货币霸权之战大幕开启
- ## [小金的2019年终总结](https://blog.csdn.net/DT235201314/article/details/104190952)
- > 小金的2019年终总结
- ## [快速学习-mocha 简介与入门](https://blog.csdn.net/weixin_42528266/article/details/105537291)
- > 
- ## [快速学习-以太坊难度调整](https://blog.csdn.net/weixin_42528266/article/details/105538152)
- > 快速学习-以太坊难度调整
- ## [快速学习-梅克尔-帕特里夏树](https://blog.csdn.net/weixin_42528266/article/details/105537781)
- > 快速学习-梅克尔-帕特里夏树
- ## [UnrealEngine学习笔记10：开始c++](https://blog.csdn.net/weixin_42721412/article/details/105534547)
- > UnrealEngine学习笔记10：开始c++
- ## [快速学习-ERC20 代币合约](https://blog.csdn.net/weixin_42528266/article/details/105527400)
- > 快速学习-ERC20 代币合约
 # PM 
- ## [MVP案例拆解：如何用MVP方法设计产品？](http://www.woshipm.com/pd/3718261.html)
- > 在产品刚推向市场或创业早期阶段，MVP方法服务于产品设计过程是极为重要的。它可以在你找到【产品与市场结合点】之前，将试错成本拉到最低。这篇文章就是对MVP方法结合...
- ## [快手产品面试复盘：关于短视频业务的思考](http://www.woshipm.com/pmd/3716438.html)
- > 本文作者复盘了面试快手产品经理的经历，对面试中遇到的问题进行了分析思考。对参加短视频产品面试的同学而言，这是一份很好的参考指南。近一个月参加了十多场的面试...
- ## [联合央视带货，快手会是下一个国民级电商平台吗？](http://www.woshipm.com/marketing/3716942.html)
- > 文章从快手联合央视带货事件出发，对快手成为国民级电商平台的方法论展开了梳理分析，并总结了快手的机会和面临的挑战。继“小朱配琦”组合后，央视新闻联合快手开启又...
- ## [重新认识互联网，抓住新时代的机会](http://www.woshipm.com/it/3718384.html)
- > 直播电商的火爆代表着互联网新的商业模式的崛起，人们需要通过重新审视互联网，关注现象背后呈现的新机遇，进入全新时代。或许，你永远都不会想到曾经被人们束之高阁...
- ## [5G消息业务发布，它能避开 “高开低走”的命运吗？](http://www.woshipm.com/it/3717955.html)
- > 前几日，5G消息业务发布，并由多位重磅合作伙伴联合发布。但从众多以往经验来看，无数被大厂们寄予厚望且重磅投入的产品都在之后的运营中销声匿迹。那么5G消息能够避免...
- ## [如何利用微交互改善移动应用设计？](http://www.woshipm.com/pd/3184388.html)
- > 在本文中，我们将研究什么是微交互以及何时使用它们，并结合常用的网站，应用程序和产品中的微交互进行示例分析。出色的用户体验不仅仅在于可用性，产品的视觉呈现和...
- ## [增量时代，是时候和存量思维说再见了！](http://www.woshipm.com/chuangye/3718252.html)
- > 增量随时变成存量、增量取代存量的速度在加快、用存量对抗增量是以卵击石。今天我们就一块来探讨一下存量与增量的底层逻辑。我们先来看三个小故事：（1）英特尔的故...
- ## [20年老IP游戏《动物森友会》，靠什么刷爆社交圈？](http://www.woshipm.com/marketing/3714585.html)
- > 《动森》系列是一款始终保持高热度的20多年老牌IP，但之前仅在铁杆玩家中流行。此次风靡全球，社交圈信息火爆，而且还红出圈吸引很多新玩家！背后引爆品牌营销的招式，...
- ## [0经验入行产品经理的TA们，offer待遇都如何？](http://www.woshipm.com/online/3718282.html)
- > 观察近期的社群动态，“产品经理”热似乎仍在持续。移动互联网时代，各行各业都在搞自己的APP或小程序等产品，因此经常会有领导要求公司内部对业务已经十分了解的运营、设...
- ## [外卖生意，有点苦逼](http://www.woshipm.com/it/3718172.html)
- > 对美团的抗议报道，在这之前是星星点点，现在舆论上这把火终于被烧起来了。说下我理解的美团外卖佣金事件。本质上，这还是一场公关战。自阿里公关体系全面接入饿了么...
- ## [接盘B端新产品，3个步骤让你快速上手](http://www.woshipm.com/pmd/3712700.html)
- > 接盘新产品，B端产品经理如何快速上手？本文作者结合自身工作经历，分享了非常实用的3个方法，希望对你有用。对于入职新公司的产品经理，有些产品经理接触的B端项目是...
- ## [不懂响应式，不同尺寸屏幕下的页面很难达到最佳效果](http://www.chanpin100.com/article/111330)
- > 让用户在不同设备和尺寸的屏幕下看的页面显示效果更佳，屏幕空间利用更高，操作体验更统一，交互方式更符合习惯。
- ## [你在产品、项目两个P间，如何自如换挡？](http://www.chanpin100.com/article/111347)
- > 做为产品经理的你，在产品、项目两个P间，如何自如换挡？总结的太全，有毒，慎入。
- ## [20多款知名App被通报批评，用户隐私保护马虎不得！](http://www.chanpin100.com/article/111344)
- > 用户的隐私碰不得！
- ## [手机大厂“扎堆”客厅，智能电视入口价值被高估了吗？](http://www.chanpin100.com/article/111343)
- > 只差低调的vivo，华米OV争夺“客厅”的新战争打响了。
- ## [物美价廉的品牌，为什么活不过半年？](http://www.chanpin100.com/article/111341)
- > 简单粗暴的低价注定灰飞烟灭，精心安排的低价才能扣人心弦。
- ## [如何投放教育平台线下广告，影响广大教育消费人群呢？](http://www.chanpin100.com/article/111338)
- > 教育是一个家庭支出的“刚需”部分，所以教育行业的市场庞大，前景广阔；但也正是因为如此，教育行业也面临着百家争鸣、竞争激烈的情况。从产业链上看，优质的师资力量和教学内容是在线教育App产品的“护城河”，也是产品竞争力的核心。同时，强有力的品牌形象是在线教育品牌区别于同质竞争者，提高用户信赖的关键。
+ ## [做电商难，做C2M电商更难​](http://www.woshipm.com/it/3719823.html)
+ > 在电商竞争白热化的当下，不少平台打出了C2M模式，期望成为打赢电商战争的制胜点。不过由于C2M所涉及的电商和工厂仍在上演“理想很丰满，现实很骨感”的问题，所以要想凭...
+ ## [手把手教学：0预算下，如何在30天内裂变1000个群？](http://www.woshipm.com/operate/3719509.html)
+ > 本文将为大家分享一个微信群裂变实战经验，并展示了如何在零成本的情况下吸引用户入群，向社群引流。去年开始，“私域流量”这个词一下火了，它的重要性，相信各位同学...
+ ## [物联网：数据网关产品的设计与实现](http://www.woshipm.com/pd/3718876.html)
+ > 文章从什么是物联网出发，结合数据源类型和数据接入的概念对数据网关的设计进行了梳理分析。一、什么是物联网物联网，是依托互联网技术、现代传感技术等，将空间中的...
+ ## [巨头围猎直播：兴于流量，终于内容](http://www.woshipm.com/it/3719444.html)
+ > 在“全民卖货”的浪潮下，直播已然从小众走向了大众，呈现出了常态化的态势，可护城河到底在哪？直播终归是一场拼流量的游戏。缺少了流量补贴，罗永浩的第二场直播无疑...
+ ## [复盘：从 0 到 1 设计 A/B测试系统](http://www.woshipm.com/pd/3719218.html)
+ > 写本文的主要目的在于希望能将理论和实际产品设计结合得更加紧密，帮助大家抓住设计的重点，对于比较深入的统计学原理不会过多涉及，仅用于辅助理解系统，如有深入学习...
+ ## [B端产品 | APP的反向导航，只能“从哪来回哪去“吗？](http://www.woshipm.com/pd/3719166.html)
+ > 本文将为大家介绍 B 端产品在移动端使用中的反向导航设计，以及它的分类类型与设计要点。01 什么是反向导航反向导航的概念官方定义出自Material Design：从用户行为...
+ ## [产品分析 | 哔哩哔哩，年轻人的“百科全书”](http://www.woshipm.com/evaluating/3713768.html)
+ > 随着新元素的不断融入，越来越多非二次元爱好者的新用户被吸引到B站。在未来，新元素该如何更好的发展呢？本文将结合哔哩哔哩现状及未来如何发展全面解析。本文将从以...
+ ## [​SaaS创业路线图 （76）： 客户报备管理背后的战略价值](http://www.woshipm.com/chuangye/3719094.html)
+ > “客户报备管理”在普遍使用CRM的年代似乎不应该是个问题，但很多企业并没有想清楚这件事背后的管理逻辑和战略价值。我们今天就从一个真实案例说起，谈谈很多toB公司在客...
+ ## [作为数据产品经理，你需要搞懂这4大模块](http://www.woshipm.com/pmd/3718676.html)
+ > 文章从数据全生命周期的四大模块展开，对数据的采集、处理、存储和分析作了简要的分析介绍。希望对你有所帮助。前面我们学习了4个步骤，用OSM和第一关键指标法来确定...
+ ## [国货演义之饮料篇（上）](http://www.woshipm.com/it/3718939.html)
+ > 国产饮料这个江湖啊，讲将“往事并不如烟”，用到而今饮料品牌上尤为合适。2013年9月13日，清晨6点，宗庆后像往常一样在小区晨练。突然，一个中年男子从路旁窜出，与宗...
+ ## [如何成为一名数据领域专家](http://www.chanpin100.com/article/111364)
+ > 数据专家，到任何企业都可以带领团队，通过数据分析和数据模型为各部门提供商业洞察、项目优化和策略建议，解决数据相关的所有问题，成为企业决策效率提升的核心力量。
+ ## [零基础学习数据可视化设计——数据指标卡设计](http://www.chanpin100.com/article/111363)
+ > 数据的展现可以有多种多样的形式。在不考虑布局和交互的情况下，数据页面，可以用三种形式来展现：数据指标卡、表格和图表。作为数据可视化设计分享的第一弹，今天跟大家分享下数据指标卡的设计案例。
+ ## [数据产品经理入门必备一：需要掌握的专业名词](http://www.chanpin100.com/article/111362)
+ > 数据产品经理入门从哪里开始呢，无分先后，有两部分知识是必须的，一是了解数据产品搭建的过程，二是掌握和熟悉工作中常用到的专业名词。熟悉专业名词的一大作用，是日常跟业务方调研、产品内部讨论、技术团队沟通过程中，不会显得行外人听不懂，闹出笑话。
+ ## [数据产品经理入门必备二：从需求到上线的搭建全流程](http://www.chanpin100.com/article/111361)
+ > 今天为大家介绍下业务决策型数据产品从立项到上线的全流程，作为数据产品经理入门必备的基础知识。
+ ## [数据产品：如何减少不必要的小迭代](http://www.chanpin100.com/article/111360)
+ > 如何减少不必要的小迭代？分享一些经验原则。
+ ## [从能力模型来讲数据产品经理的成长指南](http://www.chanpin100.com/article/111359)
+ > 今天通过能力模型为大家分享数据产品经理的成长指南，与同行专家一起交流心得，与想转行和进阶成长的同学分享一些经验。
+ ## [四象限选拔法：从面试官角度，看数据产品经理的面试和选拔](http://www.chanpin100.com/article/111358)
+ > 如何通过面试选拔数据产品经理，以及面试过程中应该问哪些问题。分享一套四象限选拔方法，作为每次提问和评估的提纲，与候选人进行面试沟通。
+ ## [数据产品，拯救每天都在吃土的数据分析师](http://www.chanpin100.com/article/111357)
+ > 数据分析师深陷“跑数”“做报表”“难落地”的困境中，如何让数据分析师不再吃土，本文讲述了4种方法，重点介绍了用数据产品来解决的思路。
+ ## [与饿了么拉开差距，美团外卖是如何成为行业第一的？](http://www.chanpin100.com/article/111356)
+ > 外卖大战和其他团购、打车大战相似，短期看是补贴的胜利，而战线一拉长放到长期看，则是战略的胜利。
+ ## [叮咚，您有一份复工复产行业红榜待查收！|2020年3月易观千帆移动AppTOP1000榜单](http://www.chanpin100.com/article/111354)
+ > 简介：随着复工复产有序开展，国民生活逐步恢复正常，前期被压抑的购物需求，在电商的集中营销攻势下，释放显著；移动教育继续受益于停课不停学；恢复日常通勤后，短途出行需求推升共享单车行业复苏，外卖订餐应用活跃用户持续走高，数字经济向好态势日趋显著。
+ ## [写给大忙人看的原型设计规范（送模板）](http://www.chanpin100.com/article/111353)
+ > 原型图为什么总是被打回，一改再改！咱们今天一起来看看规范的原型设计，看不会也不要紧，模板抱回家省事省力省心！
+ ## [万字长文 | 一文带你读懂账号体系](http://www.chanpin100.com/article/111352)
+ > 讲讲关于账号体系的那些事
+ ## [产品经验：如何分析一款C端产品的核心需求](http://www.chanpin100.com/article/111351)
+ > 如何正确且有效地分析一款C端产品的核心需求一定是产品经理的杀手锏，本文分享我从业过程中常用的方法，仅供参考
+ ## [【新手指南】UI交互设计vsUI设计vs交互设计](http://www.chanpin100.com/article/111350)
+ > UI交互设计，UI设计，交互设计究竟有什么联系和区别？
+ ## [对比C端产品，B端产品如何做需求分析](http://www.chanpin100.com/article/111348)
+ > 如题
 
     
