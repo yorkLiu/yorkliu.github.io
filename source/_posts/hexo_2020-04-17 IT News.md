@@ -1,7 +1,7 @@
 ---
 title: 2020-04-17 IT News
 copyright: true
-date: 2020-04-17 12:01:22
+date: 2020-04-17 17:02:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -79,29 +79,35 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [Google删除49个Chrome扩展程序 极力遏制东欧国家网络金融危胁](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=xdVeic4lrL12Qci3nWpjqn0WNsf1eSugcBb9fypkmMnTL3WSNQDN3M46oSYCEKpXcf91BGUUsUS6dDhBk1jE0Qniu*FUVrQ3xGQvmEixRtDHoWGNRMkgYbjSxxFKY8iH&new=1)
+ ## [Google删除49个Chrome扩展程序 极力遏制东欧国家网络金融危胁](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=xdVeic4lrL12Qci3nWpjqn0WNsf1eSugcBb9fypkmMm70K0wU0P8SnxbMnsH1T2Dp31ySNLzaTrOn9sKB2Us9XuPq3fpshr1nbGXW7sjzdcq7YUDFeju2v1aWzoNdaHi&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全4月17日讯，近日外媒报道，据MyCrypto平台的安全总监Harry Denley透露Google已经从网上应用商店删除了49个Chrome扩展程序，原因是这些扩
- ## [供应链需求|50~70万 寻 车载障碍物识别 系统方案](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=8u1bXtZG9NdDUWlUkE4hFl6gUu8bRM4mV7Pb3O2VxFOhAR4chESc0bqVTVKrtw*6xwj2gkuTeuRT1dD5HurAbB6sDG4zkTbJl3Mmj99Dh7rQ4*QMDpHgeej0-ORpuzUE&new=1)
- > 如您有前往硬蛋供应链官网：http://biz.ingdan.com，登陆供应商账户，可给需求方留言并获取联系方式需求名称: 寻 车载障碍物识别 系统方案需求类型: 电子方案 提交时间: 2020-04-16 14:52:09需求内容: 用
- ## [8点见|苹果下架iPhone 8；贝索斯发年度股东信；盖茨再捐1.5亿美元支持抗疫](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=X5Y-vro*4f3sfhBnQ*OiuCzcG6*hk3VuBKILjJbHNamlgsckAzH1WWYwNvdIjYPliNYdzI35MyffvjggnVI4FxYaELqfTpT7O-chHaFkCRBANc8lDxkpQmi5HdMOFtUu&new=1)
+ ## [8点见|苹果下架iPhone 8；贝索斯发年度股东信；盖茨再捐1.5亿美元支持抗疫](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=X5Y-vro*4f3sfhBnQ*OiuCzcG6*hk3VuBKILjJbHNak4VjJynwEMzBCfnK*-UDjkQKdN1Tzsi4JNTj*gmtwyHfnnXGJ2KS83nIw7TjRAUI3lUPaAoEqh6enTQOHth*oQ&new=1)
  > 各位小伙伴们，早上好呀！昨天，“全美每天要倒掉至少1000万升牛奶”登上热搜，其原因是受疫情影响，对牛奶需求量大幅下降。奶农们没有办法，只能把牛奶哗哗哗倒进下水道。对此，你怎么看呢？评论区和小七聊聊吧...
- ## [公网对讲机的流量卡换了设备不能用如何解决?](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=OITmlTkYsUvUsCQ-vgL0CWwSkazrFbrfmyyH8CjoBfSsHfFJI5isgS53eQj5*7763nI2y-lNt4AC1IULs7Gh28E7uPFS*EFfEarofUsO9-9O40vCGLGMMkHGq7jWMsnX&new=1)
+ ## [供应链需求|50~70万 寻 车载障碍物识别 系统方案](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=8u1bXtZG9NdDUWlUkE4hFl6gUu8bRM4mV7Pb3O2VxFNBS0ZOhGq-qwGDXXHoby7T2*l49oM0i*HCbFB-r-Ps-2-uyV8fGCNenVjV*bUikKGIzFAoxu0LoRUzGRIZsE3n&new=1)
+ > 如您有前往硬蛋供应链官网：http://biz.ingdan.com，登陆供应商账户，可给需求方留言并获取联系方式需求名称: 寻 车载障碍物识别 系统方案需求类型: 电子方案 提交时间: 2020-04-16 14:52:09需求内容: 用
+ ## [苹果官网下架 iPhone 8 全系；阿里推出“阿里云会议”；深度操作系统 20 BETA 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=A2AT7d7s0Qf72D-p6aWGbeYaIXv2KB4QbBUkg7C6Bcw0XJOJmj0zzLe-K4KUR*cu2kOP2nxNAF8Jkx3P50aLQG9hiFZzw-nZFCSri*bfm7Drnl8tPa4UtU2feUUyvVBh&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [国产体素级桌面全彩3D打印机来了，Sailner D450线上首发](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=ZPtL3Qz54D79e7uv3hNt32yQc086ytudu8fF1D5OPhvw77RV7yyDc0CBImyE804zuUrA5r-Pw9UH6u-eQKLFZtoouxM3HiaStykyKeib6RNmfm3Zy4vBXT8LgtnHgxBA&new=1)
+ > 主题：开创体素级全彩3D打印“桌面化时代”——Sailner D450系列桌面型体素级全彩产品线上首发时间：2020年4月22日下午14:00-15:00直播单位：珠海赛纳三维科技有限公司合作：南极熊3D打印视频直播平台作为专注增...
+ ## [公网对讲机的流量卡换了设备不能用如何解决?](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=OITmlTkYsUvUsCQ-vgL0CWwSkazrFbrfmyyH8CjoBfTWrZUuhtPZHthYq-7lLJ1Gk70YyOPJbdWYEaD*YDfH5Fz7B3WIj6XkjQL506u45Ox4A3wtb1sA9LvstGI0ogw-&new=1)
  > 公网对讲机的流量卡换了设备无法使用，是因为这种流量卡是物联网卡，而当前的物联网卡要求机卡绑定。机卡绑定是规范物联网卡行业的一种举措。物联网卡，是中国的三大运营商推出，适配于智能可联网的设备使用的一...
- ## [你认识电子产品之母PCB吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=UvjOLtt6GZcjz5zl14cApnOIhe93lPYh5czb0PYbW2E0VNkMZd*9P5cv1yyJtuSlcpTN7QKgg2wI9PE4w07m1SJEmex0v7p9RK5BgUIXoO6SrR0-uxJ*sdTIEpS0U*59&new=1)
+ ## [你认识电子产品之母PCB吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=UvjOLtt6GZcjz5zl14cApnOIhe93lPYh5czb0PYbW2G3Kpf-9jFlZnkZgTUiSeWNkNNAQehuIGXqjKbrO2WZ0-Ycr98kLQ0z0FjEhL5hrZaEP0bGBv2npRuk8OYfJqG0&new=1)
  > 5G产业链里非常重要的一环是PCB，也就是印制电路板（Printed Circuit Board）。PCB的功能是让电子元器件按照预定的电路连接起来，你可以把它想象成是连接电路的一个桥梁。PCB是电子产品最重要的部件之一，小到家...
- ## [30天，10个5G订单](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=D6tIKVWW8ysOo*xvjsxivXh8oB7DmPrl7JJUASQr9-r0FaztzCIAXymbf8C3ddZZXaydueCrRSwSaODYMK8zpXJfa5XXuiFPD8xjlyi8coxC4vVysYnbDEK5UKvYxQoZ&new=1)
+ ## [30天，10个5G订单](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=D6tIKVWW8ysOo*xvjsxivXh8oB7DmPrl7JJUASQr9-rsDqXLusdZdBK4CkKYsBmSSNsi8YYbLO5LB5LDLNjgM3KAx*fLJpZPMnYtVH0L*fuOPy5ekoHDDqBSclTv1sFH&new=1)
  > 5G订单纷至沓来。过去的一个月，爱立信好消息不断。根据公开信息统计，短短30来天，爱立信至少获得了10笔5G订单。14月15日，英国电信4月15日消息，英国电信表示，已选择爱立信为其4G和5G网络部署基于容器化的云...
- ## [安全芯片护航国计民生](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=doO84uhu*EWxejCXr0PyX-a274c82s31I1oQMHFEPL7*qg*hfqBFZkoXAVws*ONIO5bD8XyEVHbpwJUTWDUzCNBf0ZSkx0v*GEhrp*XhkvLuLDespfhHyN-HgtcRMY4Z&new=1)
+ ## [安全芯片护航国计民生](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=doO84uhu*EWxejCXr0PyX-a274c82s31I1oQMHFEPL7ZgdZdlHSLLCkANPqZjK7k1rRb3lqSBmsQm-KvgmJ8J1z1ocqLpXu36az6dxR36*AykQWdr1MiaL99Hrd7-Ue1&new=1)
  > 4月15日是《中华人民共和国密码法》颁布实施后的第一个全民国家安全教育日。密码技术对保卫国家安全和人民利益有重要作用，随着5G、物联网、大数据技术的不断普及，密码技术正在发挥着越来越显著的作用。安全芯...
- ## [光韵达2019年实现营业收入近8亿元 3D打印布局优势凸显](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=SlL2Q4PWuRsod4cNs82iacAH2vvsDhjwUh94fAkwZBKAtbWwVDgkL6SajUsCEFtnN0iYY4bLuiD*IG2DxdQc9YgiyMmPa3pIOioj8h33E8HdcoNIVSmGT9PcxhJK8vuL&new=1)
+ ## [光韵达2019年实现营业收入近8亿元 3D打印布局优势凸显](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=SlL2Q4PWuRsod4cNs82iacAH2vvsDhjwUh94fAkwZBKJDXicqgZH7OY2m2x3pnnsxnnNNYG179qIHMdBWC1Egq3Vhwf8HkwSfDt6s*OZbSixewL3VDtrFpXhHiFw*zVL&new=1)
  > 深圳光韵达光电科技股份有限公司（股票简称：光韵达；股票代码：300227）近日公布了2019年年度报告。2019年度，公司实现营业收入7.9亿元，同比增长36.2%；归属于上市公司股东的净利润7208万，比上年同期增加5.65...
- ## [VR只能用来玩游戏?这36款应用助你秒增「生产力」](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=ytk3TlSFpZEukJB93yE3ngkTJWgjuve4lZySj0Agl-A9mQDgkQU7Q7J94uOXSUTW*UVjs8GHHCjqg8rEA9xNNCsBlYb8XcmnVA9hot9FE5ztlX5cgJwCi2cWIud6x5KO&new=1)
+ ## [VR只能用来玩游戏?这36款应用助你秒增「生产力」](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=ytk3TlSFpZEukJB93yE3ngkTJWgjuve4lZySj0Agl-Al1qyqxMje40ktYgMEdajeJ9wutjOYq7LAg6cyRrky6FVLfwXfYliKD4VhFswLZY7hOOFGjVfNtD2oSOeuJbaC&new=1)
  > 来源｜93913作者｜Bigboom20过去的很长一段时间里，我们一直在探讨这么一个问题：VR火了，它会推动哪些领域的发展？业界普遍的共识是：VR技术的发展将全面惠及游戏、成人、赛事、娱乐、医疗保健、房地产、零售、...
- ## [5G迎来“高能组合”：中国移动战略入股亚信科技](http://mp.weixin.qq.com/s?src=11&timestamp=1587096004&ver=2283&signature=8w47KeKWHiNGtKAFA2n58ARF*Yr2XChZf58GZNupbi*uPTFo5QK*Bmwm2KpjJ26wH-RJeWoySQIo9pMJk4f5aFrWXEv72tWbxWnwpACtJ2rSsycmNsOiYIB*BuA1D2bw&new=1)
+ ## [5G迎来“高能组合”：中国移动战略入股亚信科技](http://mp.weixin.qq.com/s?src=11&timestamp=1587112205&ver=2283&signature=8w47KeKWHiNGtKAFA2n58ARF*Yr2XChZf58GZNupbi-nwet3UrUbuqtUUl-X977sRC7oZIXOKng727pdnZcAuXMtqHWn8R1NNmwnioZl3G6SaNEPw-JKeQBV6y3oNh0k&new=1)
  > 4月15日晨间，产业界很多同仁恐怕都是被一则重磅新闻叫醒的。中国移动入股亚信科技控股有限公司（简称亚信科技）20%，成为该公司第二大股东。前一天晚间，亚信科技发布了正式公告：拟向中国移动全资附属公司——...
 # IT 技术 
  ## [值得新手关注的十大优秀CSS编辑器](http://developer.51cto.com/art/202004/614523.htm)
  > 值得新手关注的十大优秀CSS编辑器
+ ## [图文详解两种算法：深度优先遍历（DFS）和广度优先遍历（BFS）](http://developer.51cto.com/art/202004/614590.htm)
+ > 图文详解两种算法：深度优先遍历（DFS）和广度优先遍历（BFS）
  ## [Pandownload作者被抓，“我不是盘神”陨落！](http://news.51cto.com/art/202004/614633.htm)
  > Pandownload作者被抓，“我不是盘神”陨落！
  ## [如何在Linux中以非root用户运行Docker？](http://cloud.51cto.com/art/202004/614623.htm)
@@ -114,51 +120,49 @@ categories: IT NEWS
  > 数据科学家和软件工程师都在用的Pandas函数有哪些?
  ## [详解Kubeflow这一K8S的机器学习利器](http://ai.51cto.com/art/202004/614445.htm)
  > 详解Kubeflow这一K8S的机器学习利器
- ## [一口气说出4种“附近的人”实现方式，面试官笑了](http://developer.51cto.com/art/202004/614585.htm)
- > 一口气说出4种“附近的人”实现方式，面试官笑了
- ## [工信部发布《2020年智能网联汽车标准化工作要点》年内完成体系建设](http://www.cioage.com/art/202004/614670.htm)
- > 4月16日，工业与信息化部发布《2020年智能网联汽车标准化工作要点》(以下简称要点)。要点指出，2020年智能
- ## [程序员：除了技术，还有什么更重要？](http://news.51cto.com/art/202004/614672.htm)
- > 15 年工龄，从一个闷头开发的电子工程师到不甘于当螺丝钉辞职创业，再到加入阿里开启新的职业生涯，阿里资
- ## [拐点已至： NB-IoT产业加速释放！](http://network.51cto.com/art/202004/614669.htm)
- > 任何一项新技术的诞生，都面临质疑和叫好两种声音，NB-IoT也不例外，从出世以来，关于NB-IoT的讨论，从来都
- ## [首届openEuler峰会在线举办：打造多样性计算场景更好操作系统](http://network.51cto.com/art/202004/614666.htm)
- > openEuler不仅是一个Linux的发行版，也不仅是一个开源社区，openEuler更是一个创新的平台，所有开发者、合
- ## [如果没进过飞信、沃友的坑，你不会理解“5G消息”的梗](http://mobile.51cto.com/news-614665.htm)
- > 5G时代，如果不去自我颠覆式创新，运营商的价值将被进一步稀释：一边是收入下降，一边是基础设施投入巨大，
- ## [两代 iPhone SE 之间，苹果悄悄地变了](http://mobile.51cto.com/news-614664.htm)
- > 和四年前一样，iPhone SE 搭载了当下最先进的芯片(A13)，沿用了上一代的工业设计(iPhone 8)和大部分零部件
- ## [计算机最魔幻的事情就是它能感知到你的思想](http://os.51cto.com/art/202004/614668.htm)
- > 我们之前的文章提到了操作系统的三个抽象，它们分别是进程、地址空间和文件，除此之外，操作系统还要控制所
- ## [疫情危机下，多国谋划5G突围](http://network.51cto.com/art/202004/614663.htm)
- > 对于全球5G产业而言，2020年的第一季度并没有迎来预想中“5G大年”的喜悦，反而是新冠肺炎疫情在全球暴发对
- ## [一个UI按钮的自我修养](http://mobile.51cto.com/design-614662.htm)
- > 为了更好地设计交互界面，有的时候，我们需要重新回顾一下历史。想要设计好一个按钮，也许我们不用完整地回
- ## [一次对钓鱼邮件攻击者的溯源分析](http://netsecurity.51cto.com/art/202004/614667.htm)
- > 近几个月以来，随着新型冠状病毒肺炎“COVID-19”在全球范围内快速蔓延，许多国家和地区的卫生系统不堪重负
- ## [真实揭露：一段激情.视频裸.聊被骗的经历](https://blog.csdn.net/qq_23936389/article/details/105502698)
- > 真实揭露：一段激情.视频裸.聊被骗的经历
+ ## [智能办公室如何提高员工满意度](http://iot.51cto.com/art/202004/614708.htm)
+ > 物联网不仅改变了我们的生活方式，还改变了我们的工作方式。互联设备正在改善员工体验，并影响办公室的设计
+ ## [读了十本书丨Hadoop大数据分析及数据挖掘读书笔记，一文总结](http://bigdata.51cto.com/art/202004/614705.htm)
+ > 个人看完这一章，对于数据挖掘的落地有了一个大概得了解，我们选择、使用、学习这些大数据的技术应该是结果
+ ## [微软在线技术峰会今日开幕  构建技术强密度加速数字化转型](http://cloud.51cto.com/art/202004/614704.htm)
+ > 2020 年 4 月 17 日，为期两天的微软在线技术峰会面向大中华区开发者、合作伙伴和企业IT决策者开启线上直播
+ ## [工作流一目了然，看小姐姐用动图展示10大Git命令](http://news.51cto.com/art/202004/614700.htm)
+ > git merge、git rebase、git reset、git revert、git fetch、git pull、git reflog……你知道这些 git 命令
+ ## [通俗的讲，网络爬虫到底是什么？](http://developer.51cto.com/art/202004/614699.htm)
+ > 爬虫的起源可以追溯到万维网(互联网)诞生之初，一开始互联网还没有搜索。在搜索引擎没有被开发之前，互联网
+ ## [由浅到深学习Kafka：生产者消息分区机制原理](http://bigdata.51cto.com/art/202004/614697.htm)
+ > 在使用Apache Kafka生产和消费消息的时候，肯定是希望能够将数据均匀地分配到所有服务器上。比如很多公司使
+ ## [几行代码搞定ML模型，低代码机器学习Python库正式开源](http://news.51cto.com/art/202004/614696.htm)
+ > PyCaret 库支持在「低代码」环境中训练和部署有监督以及无监督的机器学习模型，提升机器学习实验的效率。
+ ## [基于工业互联网的智慧物流建设探讨](http://bigdata.51cto.com/art/202004/614694.htm)
+ > 随着中国人口红利的慢慢减退，依赖人力的物流行业，也正努力从劳动密集型向技术密集型转变，大数据和工业互
+ ## [后起之秀！Julia胜于Python的5个优势](http://news.51cto.com/art/202004/614702.htm)
+ > Julia是一种多范式函数编程语言，主要用于机器学习和统计编程。虽然Julia当然没有Python那么受欢迎，但是将
+ ## [如何让新基建释放更大潜能](http://network.51cto.com/art/202004/614691.htm)
+ > 近日，国内数家移动通信运营商联合发布《5G消息白皮书》，提出了5G消息业务的新设想，将对传统短信服务进行
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
  > 
+ ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
+ > 在中国程序员是青春饭吗？
+ ## [真实揭露：一段激情.视频裸.聊被骗的经历](https://blog.csdn.net/qq_23936389/article/details/105502698)
+ > 真实揭露：一段激情.视频裸.聊被骗的经历
  ## [面试官这样问Java 线程池，我的回答让他竖起了大拇指！](https://blog.csdn.net/JAck_chen0309/article/details/105250643)
- > 
- ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
  ## [springboot+jwt实现token登陆权限认证](https://blog.csdn.net/youku1327/article/details/104564953)
  > springboot+jwt实现token登陆权限认证
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
+ ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
+ > 
+ ## [Java面试宝典：Netty 与 RPC](https://blog.csdn.net/qq_36963950/article/details/105266425)
+ > 
  ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
  > 如果你是老板，你会不会踢了这样的员工？
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
- ## [Java面试宝典：Netty 与 RPC](https://blog.csdn.net/qq_36963950/article/details/105266425)
- > 
  ## [一场疫情，炸出了退休的COBOL程序员](https://blog.csdn.net/mogoweb/article/details/105463072)
  > 一场疫情，炸出了退休的COBOL程序员
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
- > 
  ## [我入职阿里后，才知道原来简历这么写](https://blog.csdn.net/qing_gee/article/details/104839150)
+ > 
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://blog.csdn.net/hejjunlin/article/details/104241538)
  > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
@@ -166,6 +170,8 @@ categories: IT NEWS
  > 
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
+ ## [腾讯广告计算提速25%，腾讯云星星海SA2云服务器提供助力](https://blog.csdn.net/csdnnews/article/details/105582330)
+ > 腾讯云自研服务器已经率先在腾讯自研业务中创造价值。近日，腾讯广告相关技术负责人透露，腾讯广告检索实时计算业务借助腾讯云自研星星海SA2云服务器提供的稳定高性能算力，支撑每日多达数百亿次的广告检索计算任务，匹配一条广告的计算耗时相比采用传统服务器降低了25%，有效提升了腾讯广告推荐的精准性。...
  ## [平台抗住日访问量 7 亿次，研发品控流程全公开](https://blog.csdn.net/csdnnews/article/details/105571184)
  > 作者 |周俊鹏责编 | 伍杏玲出品 | CSDN（ID：CSDNnews）产品质量是吸引和积攒用户的重要因素，业内不乏由微小Bug引起的灾难事故，对用户或公司造成巨大的损失。从业务角度...
  ## [“手把手撕LeetCode题目，扒各种算法套路的裤子”](https://blog.csdn.net/csdnnews/article/details/105571185)
@@ -189,86 +195,64 @@ categories: IT NEWS
  ## [人工智能的未来：杀戮还是治愈？](https://blog.csdn.net/csdnnews/article/details/105571180)
  > 作者 |mobidev译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：大多数人在谈论人工智能的未来时，都会联想到黑客帝国中邪恶的网络或者终结者中的...
 # 人工智能 
- ## [安卓作业----慕课移动应用开发作业13之使用自定义RecyclerView.ItemDecoration实现列表悬浮顶部效果](https://blog.csdn.net/baidu_41860619/article/details/105544539)
- > 
- ## [DevEco Toolkit使用指南--平行视界](https://blog.csdn.net/weixin_44708240/article/details/105527775)
- > DevEco Toolkit使用指南--平行视界
- ## [回调函数 - 灵活的函数指针](https://blog.csdn.net/MOSHIWANGJUE/article/details/105554956)
- > 回调函数 - 灵活的函数指针
- ## [Android通过 SharedPreference 实现用户名与密码的存储与调用](https://blog.csdn.net/weixin_43624626/article/details/105518903)
- > Android通过 SharedPreference 实现用户名与密码的存储与调用
- ## [635div2](https://blog.csdn.net/Federal_ding/article/details/105549800)
- > 635div2
- ## [Codeforces Round 635 (Div. 2)D. Xenia and Colorful Gems](https://blog.csdn.net/hrd535523596/article/details/105549964)
- > Codeforces Round 635 (Div. 2)D. Xenia and Colorful Gems
- ## [Android学习笔记之Service](https://blog.csdn.net/weixin_44043504/article/details/105537345)
- > Android学习笔记之Service
- ## [Android Studio 3.6 下 “Unable to start the daemon process ”问题解决](https://blog.csdn.net/qq_37465638/article/details/105526792)
- > Android Studio 3.6 下 “Unable to start the daemon process ”问题解决
- ## [Webview如何触发onReceivedLoginRequest；Webview怎么实现自动登录](https://blog.csdn.net/archie_7/article/details/105560366)
- > Webview如何触发onReceivedLoginRequest；Webview怎么实现自动登录
- ## [Android9.0明文网络传输适配](https://blog.csdn.net/JiangWeiHu/article/details/105564956)
- > Android9.0明文网络传输适配
- ## [微信小程序开发实战第五讲](https://blog.csdn.net/yunhuaikong/article/details/105527731)
- > 微信小程序开发实战第五讲
- ## [Fiddler-使用教程](https://blog.csdn.net/qq_44761063/article/details/105561413)
- > Fiddler-使用教程
- ## [2020NYIST个人积分赛第六场  D](https://blog.csdn.net/yangzijiangac/article/details/105554634)
- > 2020NYIST个人积分赛第六场  D
- ## [android.os.NetworkOnMainThreadException](https://blog.csdn.net/qq_41914317/article/details/105552675)
- > 
- ## [Android studio 打包 —— aar 嵌套引用本地 aar 的打包](https://blog.csdn.net/qq_19154605/article/details/105532443)
- > Android studio 打包 —— aar 嵌套引用本地 aar 的打包
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 # PM 
- ## [关于表单中的二次确认设计思考](http://www.woshipm.com/pd/3697344.html)
- > 表单常存在于流程之中，用户通过填写表单提交先关信息，从而完成相关的任务，如注册、申请等。本次主要分享在表单提交时，表单提交时的二次确认场景。为什么会有二次...
- ## [产品学习01：主动探索，破除信息茧房](http://www.woshipm.com/zhichang/3717908.html)
- > 无论是搭建学习框架还是获取信息，产品经理都需要发挥自身的主动性，根据自身特性去选择自己需要的东西，从被动化为主动。以我为主，为我所用你为什么而学习？曾经...
- ## [影响产品经理决策的两大模型：用户模型和交易模型（上）](http://www.woshipm.com/pmd/3721706.html)
- > 用户模型和交易模型是影响产品经理决策的两大常用模型，将分上、下两篇陈述。上篇主要聊聊用户模型。一、用户、用户行为与用户价值产品经理的核心工作是研究用户，使...
- ## [每日优鲜：用户反馈分析与优化建议](http://www.woshipm.com/evaluating/3721900.html)
- > 本文以每日优鲜为体验对象，从配送服务、商品、客户售后、细节、功能等内容进行了体验与测评，并针对不足之处给出了优化建议。本文是对2020年1月到4月里iOS App store...
- ## [成员不重视导致负责人背锅？项目经理如何管好项目干系人？](http://www.woshipm.com/zhichang/3722518.html)
- > 做项目的时候，负责人可能总会遇到项目事故、延期等事件而导致背锅，而深究其中导致项目意外的原因可能就是——项目成员不够重视。那么我们该如何做好项目干系人管理，尽...
- ## [农业模式之B端的食材配送](http://www.woshipm.com/pd/3721274.html)
- > 上篇文章给大家介绍了，面向C端消费者的2C农业模式，本文跟大家讨论下与C端相呼应的B端食材配送，看看2B食配农业模式理论框架是怎样的。一、背景概述上一文直接介绍...
- ## [公众号更新“专辑-搜索-盖楼”功能，我们可以如何利用？](http://www.woshipm.com/operate/3722977.html)
- > 就在4月15日，微信公众号公布了几个更新信息-更新上线“专辑、搜索、盖楼”功能，那么这些功能上线的意义是什么呢？运营者又该如何利用好这些功能实现目的呢？说真的，...
- ## [公开课 | 四年BAT经验：如何省时省力入门产品经理？](http://www.woshipm.com/open/3723289.html)
- > 如果你在某当网输入“产品经理”，你将搜到4477本相关书籍，其中排名前十的书籍共计165万字，假设人的平均阅读速度为700字每分钟，全部阅读完需要花费2357分钟，即使每天...
- ## [社群破局之道：六脉神剑](http://www.woshipm.com/operate/3721151.html)
- > 互联网营销的本质就是用最小的投入，精准链接目标顾客，用完美的创意，实现强大的口碑以影响目标顾客。作为人，永恒的三个哲学命题“我是谁，我从哪里来，到哪里去”。...
- ## [运营向竞品分析：以绘画社区产品“画世界”为例](http://www.woshipm.com/evaluating/3716591.html)
- > 本文以绘画类社区产品“画世界”为对象，展开了产品概述. 功能架构. 内容. 用户等方面的分析与说明，并对比结合笔者所负责的一款产品，提出该类型产品的优化建议。一份...
- ## [如何成为一名数据领域专家](http://www.chanpin100.com/article/111364)
- > 数据专家，到任何企业都可以带领团队，通过数据分析和数据模型为各部门提供商业洞察、项目优化和策略建议，解决数据相关的所有问题，成为企业决策效率提升的核心力量。
- ## [零基础学习数据可视化设计——数据指标卡设计](http://www.chanpin100.com/article/111363)
- > 数据的展现可以有多种多样的形式。在不考虑布局和交互的情况下，数据页面，可以用三种形式来展现：数据指标卡、表格和图表。作为数据可视化设计分享的第一弹，今天跟大家分享下数据指标卡的设计案例。
- ## [数据产品经理入门必备一：需要掌握的专业名词](http://www.chanpin100.com/article/111362)
- > 数据产品经理入门从哪里开始呢，无分先后，有两部分知识是必须的，一是了解数据产品搭建的过程，二是掌握和熟悉工作中常用到的专业名词。熟悉专业名词的一大作用，是日常跟业务方调研、产品内部讨论、技术团队沟通过程中，不会显得行外人听不懂，闹出笑话。
- ## [数据产品经理入门必备二：从需求到上线的搭建全流程](http://www.chanpin100.com/article/111361)
- > 今天为大家介绍下业务决策型数据产品从立项到上线的全流程，作为数据产品经理入门必备的基础知识。
- ## [数据产品：如何减少不必要的小迭代](http://www.chanpin100.com/article/111360)
- > 如何减少不必要的小迭代？分享一些经验原则。
- ## [从能力模型来讲数据产品经理的成长指南](http://www.chanpin100.com/article/111359)
- > 今天通过能力模型为大家分享数据产品经理的成长指南，与同行专家一起交流心得，与想转行和进阶成长的同学分享一些经验。
- ## [四象限选拔法：从面试官角度，看数据产品经理的面试和选拔](http://www.chanpin100.com/article/111358)
- > 如何通过面试选拔数据产品经理，以及面试过程中应该问哪些问题。分享一套四象限选拔方法，作为每次提问和评估的提纲，与候选人进行面试沟通。
- ## [数据产品，拯救每天都在吃土的数据分析师](http://www.chanpin100.com/article/111357)
- > 数据分析师深陷“跑数”“做报表”“难落地”的困境中，如何让数据分析师不再吃土，本文讲述了4种方法，重点介绍了用数据产品来解决的思路。
- ## [与饿了么拉开差距，美团外卖是如何成为行业第一的？](http://www.chanpin100.com/article/111356)
- > 外卖大战和其他团购、打车大战相似，短期看是补贴的胜利，而战线一拉长放到长期看，则是战略的胜利。
- ## [叮咚，您有一份复工复产行业红榜待查收！|2020年3月易观千帆移动AppTOP1000榜单](http://www.chanpin100.com/article/111354)
- > 简介：随着复工复产有序开展，国民生活逐步恢复正常，前期被压抑的购物需求，在电商的集中营销攻势下，释放显著；移动教育继续受益于停课不停学；恢复日常通勤后，短途出行需求推升共享单车行业复苏，外卖订餐应用活跃用户持续走高，数字经济向好态势日趋显著。
- ## [写给大忙人看的原型设计规范（送模板）](http://www.chanpin100.com/article/111353)
- > 原型图为什么总是被打回，一改再改！咱们今天一起来看看规范的原型设计，看不会也不要紧，模板抱回家省事省力省心！
- ## [万字长文 | 一文带你读懂账号体系](http://www.chanpin100.com/article/111352)
- > 讲讲关于账号体系的那些事
- ## [产品经验：如何分析一款C端产品的核心需求](http://www.chanpin100.com/article/111351)
- > 如何正确且有效地分析一款C端产品的核心需求一定是产品经理的杀手锏，本文分享我从业过程中常用的方法，仅供参考
- ## [【新手指南】UI交互设计vsUI设计vs交互设计](http://www.chanpin100.com/article/111350)
- > UI交互设计，UI设计，交互设计究竟有什么联系和区别？
- ## [对比C端产品，B端产品如何做需求分析](http://www.chanpin100.com/article/111348)
- > 如题
+ ## [产品经理，你会讲故事吗？](http://www.woshipm.com/pmd/3723606.html)
+ > 不会讲故事的产品经理不是好产品经理。产品经理讲好故事可以把许多难题简单化，轻松化解自己和他人的尴尬，而且我们的生活中处处充满了故事，人们在故事中缓解焦虑情...
+ ## [多多比优看上小红书的“饭碗” ，拼多多能种草成功吗？](http://www.woshipm.com/it/3723485.html)
+ > 拼多多推多多比优试水好物种草目前还未引起较大的热度，但好物种草的趋势其实在不断的渗透，越来越多用户也较为青睐这种方式下单，拼多多能否借多多比优打造出一个微信...
+ ## [自如产品分析：租房从此自由自在](http://www.woshipm.com/evaluating/3721624.html)
+ > 自如作为提供高品质租房产品及服务的O2O互联网品牌，通过O2O模式重构居住市场格局，并建立了中国最大的O2O青年居住社区。这个以为用户提供无拘无束、自由自在的居住生活...
+ ## [传统行业如何从 0 做社群运营与裂变策划？](http://www.woshipm.com/operate/3512130.html)
+ > 疫情之下传统行业寻求突破，不得不转型重视线上营销，但运营成本有限、可置换资源有限、推广费用为0、低频消费粉丝信任度和黏性均偏低。在这种情况下， 笔者选择了社群...
+ ## [设计师如何做配色，反驳甲方说“配色丑”？](http://www.woshipm.com/pd/3724502.html)
+ > 关于配色的书籍与理论有很多，但是大多数人可能还是停留在“道理我都懂，可是手就是不会”的阶段，而本文就结合实践分享五个实用技巧，帮助大家做出更好的配色。在之前...
+ ## [Nike拍了一支你不会跳过的广告，颠覆了广告生产](http://www.woshipm.com/marketing/3722664.html)
+ > 品牌在做营销活动的时候，不能只知道内容上的创作。想让广告更易引起共鸣和传播，形式上的创新有时候也很重要。最近Nike在中国市场推出了一支看起来拍摄的很简陋的广...
+ ## [做好可用性测试的全流程（上）](http://www.woshipm.com/pmd/3644206.html)
+ > 可用性测试，能够让产品经理借助用户，更加客观理性地理解产品功能以及交互，并结合测试结果予以改进。1. 可用性测试介绍1.1 可用性测试（Usablitity Testing）不知...
+ ## [以优化“享物说”社交功能为例，看HMW分析法如何实际应用](http://www.woshipm.com/pmd/3721240.html)
+ > 需求分析在产品经理的日常工作中占了很大的比重，HMW分析法可以帮助我们更好开阔思维，分析需求，本文浅谈HMW分析法以及如何将之应用到我们日常的工作中。一、关于HMW...
+ ## [新消费时代，品牌该如何命名？](http://www.woshipm.com/marketing/3724122.html)
+ > 品牌命名毋庸置疑是非常重要的，一个优秀的品牌名可以占据用户心智，让用户一想到相关品类就联想到品牌。那么怎么做才能打造出一个好的品牌名呢？今天的阅读的题纲：...
+ ## [案例分享：多抓鱼APP活动策划复盘](http://www.woshipm.com/operate/3712466.html)
+ > 文章是多抓鱼APP活动策划的复盘，作者分享了从活动策划到执行过程中需要注意的问题，希望对你有所启发。为多抓鱼APP策划一场通过“老用户带新用户”的活动，提高APP下载...
+ ## [线上医疗破冰前行，医药电商到底多香？|2020年最新医药电商类APP榜单](http://www.chanpin100.com/article/111369)
+ > 简介：在疫情的影响下，互联网医疗获得了医保的支持而开始了真正的扩张，医药电商概念股板块被持续看好。种种迹象表明，医药零售线上线下加速融合的号角已经吹响，助力改善医药流通行业低效不透明的痛点，从而更好的满足大众日益增长的医药健康服务需求。
+ ## [如何依据公司战略，制定产品战略？](http://www.chanpin100.com/article/111367)
+ > 做产品的你，是怎么思考此问题呢？
+ ## [复盘：从0到1设计A/B测试系统](http://www.chanpin100.com/article/111366)
+ > 从原理，到系统架构，再到落地细节设计，手把手教你设计 A/B测试系统
+ ## [B端和C端产品设计有哪些差异？](http://www.chanpin100.com/article/111365)
+ > 一文看懂B端和C端产品设计的差异
 
     
