@@ -1,20 +1,24 @@
 ---
 title: 2020-04-21 IT News
 copyright: true
-date: 2020-04-21 08:01:00
+date: 2020-04-21 09:01:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [科技概念vs完美质量，80、90后如何选择智能家居?](http://mp.weixin.qq.com/s?src=11&timestamp=1587425403&ver=2291&signature=eBpPUjnu9Z9jwKfC7LUCO6PHca-mmM9tJH7Ignb1oXQs*FjJsWtbkrjdMvzoa6PsyEP3POApK0tNmEpQ*iQJ4NBwuxoTgV*mIFtBA4IyLbaKFlxO80SGHhrw68shrctL&new=1)
- > 移动通信技术的每一次迭代都是对人们生活方式的一次变革。而对于用户来说，每一次技术变革都有群体印记。当前，80后、90后已经成为社会消费主力，这一代人的群体记忆是怎样的呢？中国市场孵化互联网技术的时间已...
- ## [长飞1.5亿收购四川光恒51%股权 内生外延结合拓展光模块市场](http://mp.weixin.qq.com/s?src=11&timestamp=1587425403&ver=2291&signature=V1fLTsb19phd*5AXV9pj3cBL4GUCNAFpEvATwuViYOZiD5r9DHUiIrVh1r2azoA2*QEoDWGQHCXVoqJQUhJEcRuSjiazdcTbJQXpP2BT6Cs9KprxVhi1lh3WBtHsoJLg&new=1)
- > 新闻导读光纤光缆领先企业长飞公司在2019年度业绩快报的补充公告中提到：2020年1月，公司出资约人民币1.5亿元收购了四川光恒通信技术有限公司51%的股权。在光模块市场，公司通过内生与外延结合的方式进行业务拓...
- ## [浪潮提出智算中心 为产业AI化按下快捷键](http://mp.weixin.qq.com/s?src=11&timestamp=1587425403&ver=2291&signature=LimJxzAd0s5iqLCcNIVVOLaXkTLEM51NNn0QAhsoYDzAWke6jQtYspSagCdFFJpcqRmLlq5Qs-9fIVWqkSpZ0Pw9-XLgY84QcpT-nsG7cNPgJpnbFCAdfERZBQ9QQs9F&new=1)
- > 计算力在智慧时代的核心地位，决定了智慧时代的核心基础设施必然是计算力的生产中心。&quot;计算力就是生产力，智慧计算改造升级了生产力三要素，最终驱动了人类社会的转型升级。&quot;浪潮集团执行总裁兼、浪潮集团首席科...
- ## [出乎美国意料，限制台积电为华为代工，却促进了中国芯片产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1587425403&ver=2291&signature=W71RTLC*NDBTmOMaT6dsMMZhXA83FfF7BgZ*0TuUTWBCNzAHoYzx6MxfgPbqKKLJWMUR2nFQ45RjAptNdLQQq1ekSqKo5z4Pvsqzdd7Hr5fRiFXT6KM3LZrI-8IVdjQF&new=1)
+ ## [出乎美国意料，限制台积电为华为代工，却促进了中国芯片产业发展](http://mp.weixin.qq.com/s?src=11&timestamp=1587429003&ver=2291&signature=W71RTLC*NDBTmOMaT6dsMMZhXA83FfF7BgZ*0TuUTWBCNzAHoYzx6MxfgPbqKKLJgsfdm2jdjjGTWdbBubPcVH73SLhEZW*qlkUnorCl*XlfpymLTe7d2WqnrCzkA7Dp&new=1)
  > 华为近日发布的荣耀手机play4T采用了由中芯国际生存的麒麟710芯片，这意味着华为的芯片实现了真正的自主研发生产，完全无需依赖中国大陆以外的芯片代工厂，美国限制台积电为华为代工的从而影响华为的发展落空。...
+ ## [浪潮提出智算中心 为产业AI化按下快捷键](http://mp.weixin.qq.com/s?src=11&timestamp=1587429003&ver=2291&signature=LimJxzAd0s5iqLCcNIVVOLaXkTLEM51NNn0QAhsoYDzAWke6jQtYspSagCdFFJpcVW4ejjUoUqZlLN1U6z9AiEq2-xqpJX9mYwWbIGfh67ytOJzElq2GCMj45TF1wobv&new=1)
+ > 计算力在智慧时代的核心地位，决定了智慧时代的核心基础设施必然是计算力的生产中心。&quot;计算力就是生产力，智慧计算改造升级了生产力三要素，最终驱动了人类社会的转型升级。&quot;浪潮集团执行总裁兼、浪潮集团首席科...
+ ## [云计算今日迎来两大利好!](http://mp.weixin.qq.com/s?src=11&timestamp=1587429003&ver=2291&signature=-KG5-JBmZEYk5icRWzBc4YAzv4agm57CIuvn57MSz-Ro968pusTtoy5NiCb2ZWx2Y4PqQWX1Bf2rm0Pdxw*TXB0zfNZth3k*PCzyAbSjv1Jq7jApnsvcAkeVC4wY*fh9&new=1)
+ > 【阿里云】加码投资，利好云基础设施今日消息称，阿里云宣布不会因疫情减少投入，未来3年将再投2000亿元，用于云操作系统、服务器、芯片、网络等重大核心技术研发攻坚和面向未来的数据中心建设。阿里巴巴2017-20...
+ ## [科技概念vs完美质量，80、90后如何选择智能家居?](http://mp.weixin.qq.com/s?src=11&timestamp=1587429003&ver=2291&signature=eBpPUjnu9Z9jwKfC7LUCO6PHca-mmM9tJH7Ignb1oXQs*FjJsWtbkrjdMvzoa6Ps2-suzdzfPpFebVUJJY8YGqqTUmStCGLIuriZyeOBFkiuEyGDkQHuIymSh7b0NxbJ&new=1)
+ > 移动通信技术的每一次迭代都是对人们生活方式的一次变革。而对于用户来说，每一次技术变革都有群体印记。当前，80后、90后已经成为社会消费主力，这一代人的群体记忆是怎样的呢？中国市场孵化互联网技术的时间已...
+ ## [长飞1.5亿收购四川光恒51%股权 内生外延结合拓展光模块市场](http://mp.weixin.qq.com/s?src=11&timestamp=1587429003&ver=2291&signature=V1fLTsb19phd*5AXV9pj3cBL4GUCNAFpEvATwuViYOZiD5r9DHUiIrVh1r2azoA2uJRuMnQ0tVZQpTzcjnSyqncsax45lt-ZorX0OnjT2ugjtXrx8gwXjfTAaHTYwDcc&new=1)
+ > 新闻导读光纤光缆领先企业长飞公司在2019年度业绩快报的补充公告中提到：2020年1月，公司出资约人民币1.5亿元收购了四川光恒通信技术有限公司51%的股权。在光模块市场，公司通过内生与外延结合的方式进行业务拓...
 # IT 技术 
+ ## [重大事故！IO问题引发线上20台机器同时崩溃](http://os.51cto.com/art/202004/614852.htm)
+ > 重大事故！IO问题引发线上20台机器同时崩溃
  ## [如何从Ubuntu 18.04或19.10升级到Ubuntu 20.04 LTS？](http://os.51cto.com/art/202004/614843.htm)
  > 如何从Ubuntu 18.04或19.10升级到Ubuntu 20.04 LTS？
  ## [关于智能家居和物联网设备安全的7个小贴士](http://iot.51cto.com/art/202004/614716.htm)
@@ -29,8 +33,12 @@ categories: IT NEWS
  > Zoom不是唯一，还有这十大视频会议平台
  ## [十年难得一遇！从数据误删到全量恢复的惊险记录](http://stor.51cto.com/art/202004/614762.htm)
  > 十年难得一遇！从数据误删到全量恢复的惊险记录
- ## [为什么说央行数字货币是区块链的噩梦](http://blockchain.51cto.com/art/202004/614725.htm)
- > 为什么说央行数字货币是区块链的噩梦
+ ## [微软为Windows 10 5月更新引入新功能：提供预留存储空间](http://os.51cto.com/art/202004/614854.htm)
+ > 据外媒报道称，在Windows 10 May 2019功能更新（Version 1903）中，微软引入了一项名为“保留的存储”（Res
+ ## [我是如何用AI把“请洗手”翻译成500种语言的？](http://ai.51cto.com/art/202004/614853.htm)
+ > 通过使用人类和机器生成的翻译，可以将关键的健康短语翻译成世界各地的当地语言。
+ ## [“新基建”超级风口，直接投资超10万亿，带动投资超17万亿](http://network.51cto.com/art/202004/614851.htm)
+ > 2020年4月20日的国家发改委新闻发布会上，官方首次明确了“新基建”的范围，包括信息基础设施、融合基础设
  ## [Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？](https://blog.csdn.net/loongggdroid/article/details/105570597)
  > Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
@@ -39,20 +47,20 @@ categories: IT NEWS
  > 破解百度网盘的Pandownload开发者被捕，让人唏嘘
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
- ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
- > 如果你是老板，你会不会踢了这样的员工？
  ## [VueX的模块你知道多少？](https://blog.csdn.net/qq_39045645/article/details/105619458)
  > 
+ ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
+ > 如果你是老板，你会不会踢了这样的员工？
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
  > 
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
- ## [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://blog.csdn.net/hejjunlin/article/details/104241538)
- > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
  ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
  > 
+ ## [终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！](https://blog.csdn.net/hejjunlin/article/details/104241538)
+ > 终于！疫情之下，第一批企业没能熬住面临倒闭，员工被遣散，没能等来春暖花开！
  ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
  ## [@程序员：GitHub这个项目快薅羊毛](https://blog.csdn.net/kebi007/article/details/104399183)
@@ -99,6 +107,8 @@ categories: IT NEWS
  ## [Python也可以很暖男之每日发送爱词霸每日一句+日期+农历+天气预报+各种天气指数](https://blog.csdn.net/varren/article/details/105614784)
  > 
 # PM 
+ ## [公开课：0基础新人转行到互联网运营，如何拿到高薪offer](http://www.woshipm.com/open/3740981.html)
+ > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位我觉得有必要跟大家聊一下运营的职业发展前景，究竟如何？在互联网发展的初期，大家的...
  ## [产品经理避坑指南](http://www.chanpin100.com/article/111387)
  > “一入产品深似海，从此人生全是坑“。别怕，今天说说如何规避四大坑。
  ## [从HR的视角，来看跨行业产品经理的求职机会](http://www.chanpin100.com/article/111386)
