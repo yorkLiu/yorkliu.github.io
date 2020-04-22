@@ -1,7 +1,7 @@
 ---
 title: 2020-04-22 IT News
 copyright: true
-date: 2020-04-22 10:01:21
+date: 2020-04-22 12:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -82,45 +82,53 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [\[回顾\]点赞能工巧匠—《张真：让城市PM2.5指数随心查》](http://mp.weixin.qq.com/s?src=11&timestamp=1587519016&ver=2293&signature=ZOXedM041DeaNiDaPjOisFsZyrfG-D6fTlAa1V2ruiJeMC*6mKbk5ZAI-crH8ww0npV6AUu*7eRhQZYYG3inoJnx5K*zsR1up0V6*DKFRqWDLCAONz2UO7k9Li4p5Lmy&new=1)
- > 从2015年开始，南京市总工会、市科委、市人社局在全市百万劳动者中开展“大众创业、万众创新”立功竞赛活动，基本涵盖了各区、开发区、产业和大企业系统，已产生多位创业、创新、扶持服务创业创新的先进个人。在...
- ## [5G前传第一大标落地，9家中标!](http://mp.weixin.qq.com/s?src=11&timestamp=1587519016&ver=2293&signature=HNFsxjrKSLkI4s4OPnR3sOFwXoixlLMF4M-DR1fU2LuTZwxHX0jVeYJPi2tD3aqdwecV2cc6NWRxnfMdZabpaQwyp9bfkyplUdI9yrs2bUQziKImKySz4J-KFqKFCSyU&new=1)
+ ## [5G前传第一大标落地，9家中标!](http://mp.weixin.qq.com/s?src=11&timestamp=1587526202&ver=2293&signature=HNFsxjrKSLkI4s4OPnR3sOFwXoixlLMF4M-DR1fU2LuOMgBz15Rfntw2K1elcJs6wjFW7PD5c863ghxLqoZSv5GMg-Syiz7yjEUbc48gPqAvsqSqnCwh-tyWTiY5aq3z&new=1)
  > 这应该是迄今为止规模最大的5G前传设备集采！4月20日，中国电信发布《无源波分彩光设备（2020年）集中采购项目》中标候选人公示。结果如下：1.第一中标候选人（1）单位名称：武汉飞沃科技有限公司（2）投标报价...
- ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1587519016&ver=2293&signature=3iM-V191NH2ApWPzw6H157w0VCKSBJnNS9-jWbD0mlQ6z-g5CJLw*NTu8Znojnk8J5xwH3Yn2OwjUzTWJmapICJvN8qaZt00p22fP*1yyrJineevkICt9KNWSDx2VGxp&new=1)
+ ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1587526202&ver=2293&signature=3iM-V191NH2ApWPzw6H157w0VCKSBJnNS9-jWbD0mlQQAPTXMFjo0NfuKSYXhArgwsXHREFatL3IGAmrP6Zgnra9sxkLeCXXrUQh-XvdgvXWer5eady5AOMqDA9rQieX&new=1)
  > 一对不起，我跟着华为，辞职种地了！最近这几年，网易养猪了，阿里养猪了，京东养完猪又去种菜了，大家听得耳朵都要起茧了！但是，今天华为要干的这件事，估计很多人打死都想不到：华为要种地！是的，你没看错，...
- ## [华为首季销售额1822亿元 携产业链小伙伴逆势增长](http://mp.weixin.qq.com/s?src=11&timestamp=1587519016&ver=2293&signature=AKUfX8iZ9N*8pXTZBZUer3kFsqSJQucpJ5fu6YqmlMYwoVFPd8oNLa8cQ5GVmHj50C9JSMpevZCHq82dXumTn4cWhcWJEzeClpfWVA2L7lQ=&new=1)
+ ## [\[回顾\]点赞能工巧匠—《张真：让城市PM2.5指数随心查》](http://mp.weixin.qq.com/s?src=11&timestamp=1587526202&ver=2293&signature=ZOXedM041DeaNiDaPjOisFsZyrfG-D6fTlAa1V2ruiKDHLpbc-qvN3SEAWyzYV*7bFsyKwkPG-aKyN2k1BUIOG*MGP07e5KDAgTea1iifNw5fKMb0dvFLoP*p8SwWbbF&new=1)
+ > 从2015年开始，南京市总工会、市科委、市人社局在全市百万劳动者中开展“大众创业、万众创新”立功竞赛活动，基本涵盖了各区、开发区、产业和大企业系统，已产生多位创业、创新、扶持服务创业创新的先进个人。在...
+ ## [华为首季销售额1822亿元 携产业链小伙伴逆势增长](http://mp.weixin.qq.com/s?src=11&timestamp=1587526202&ver=2293&signature=AKUfX8iZ9N*8pXTZBZUer3kFsqSJQucpJ5fu6YqmlMY6*1YhgSYzgYlV53cavre2npvLoqVR2wotu5gPCfbIUIg*y-rKmRzN5axYi8RvDyk=&new=1)
  > 4月21日，华为发布2020年一季度经营业绩。一季度，华为实现销售收入1822亿元人民币，同比增长1.4%，净利润率7.3%。　　华为在一季度经营业绩新闻稿中没有透露太多对全年业绩的指引，不过，根据华为近日披露...
- ## [openEuler开源路带来多样性计算技术与产业生态共荣](http://mp.weixin.qq.com/s?src=11&timestamp=1587519016&ver=2293&signature=F7OkUEXTKgAiObF3MfA6Rq8mjO4kOFCpaWIbpzYEcuw1vsysjjcH*LvyWvP3bN88yBkGCy3Tw5V4HPbPaChYqWJjV7W8ltZEDlGpQUeaxM2CHvseoY26lAJDYllsEGiy&new=1)
+ ## [openEuler开源路带来多样性计算技术与产业生态共荣](http://mp.weixin.qq.com/s?src=11&timestamp=1587526202&ver=2293&signature=F7OkUEXTKgAiObF3MfA6Rq8mjO4kOFCpaWIbpzYEcuy6KtvXkaIyjBh-neimSigiYO-KaaaqSKF-*ph4TLF6Qkd-EA0lNzBTtWapi0lYTGG9vx7twrk1qAm0YNWKe9z6&new=1)
  > 开源社区openEuler，从开放到建设已历经数月。在4月17日-18日举办的首届openEuler峰会上，来自产业的合作伙伴及全球开源社区的参与者们，一起在云端就openEuler开源社区现下优势、规划建设及未来发展展开思想碰...
 # IT 技术 
  ## [REST API设计优秀实践之参数与查询的使用](http://developer.51cto.com/art/202004/614845.htm)
  > REST API设计优秀实践之参数与查询的使用
  ## [不要为了“分库分表”而“分库分表”](http://database.51cto.com/art/202004/614942.htm)
  > 不要为了“分库分表”而“分库分表”
- ## [用Kafka实现数字孪生的物联网架构](http://cloud.51cto.com/art/202004/614862.htm)
- > 用Kafka实现数字孪生的物联网架构
- ## [重大事故！IO问题引发线上20台机器同时崩溃](http://os.51cto.com/art/202004/614852.htm)
- > 重大事故！IO问题引发线上20台机器同时崩溃
- ## [威胁建模的主流框架、工具与优秀实践](http://zhuanlan.51cto.com/art/202004/614888.htm)
- > 威胁建模的主流框架、工具与优秀实践
- ## [如何从Ubuntu 18.04或19.10升级到Ubuntu 20.04 LTS？](http://os.51cto.com/art/202004/614843.htm)
- > 如何从Ubuntu 18.04或19.10升级到Ubuntu 20.04 LTS？
- ## [盖茨突然被指「新冠元凶」！这波阴谋论竟源于2015年的「神预言」](http://news.51cto.com/art/202004/614873.htm)
- > 盖茨突然被指「新冠元凶」！这波阴谋论竟源于2015年的「神预言」
- ## [我的电脑不联网，很安全，黑客：你还有风扇呢](http://zhuanlan.51cto.com/art/202004/614810.htm)
- > 我的电脑不联网，很安全，黑客：你还有风扇呢
- ## [为5G打CALL，三大运营商“抢登”珠峰](http://network.51cto.com/art/202004/614948.htm)
- > 珠穆朗玛峰接二连三传出好消息!近日，中国移动、中国联通、中国电信相继宣布在珠峰开通5G网络服务，这是世
- ## [大数据除了预测还能干啥？](http://bigdata.51cto.com/art/202004/614947.htm)
- > 今天随便聊聊一个Susan在2017年发在Science上文章：Beyond prediction: Using big data for policy problem
- ## [数据护栏与行为分析（下）：案例演示](http://netsecurity.51cto.com/art/202004/614946.htm)
- > 我们的第一篇文章介绍了数据保护和行为分析：理解任务，我们介绍了内部风险的概念和主要类别并深入研究并定
- ## [Linux 命令行下搜索工具大盘点，效率提高不止一倍！](http://os.51cto.com/art/202004/614945.htm)
- > 下面我就给大家介绍 5 个常用的命令行搜索工具。如果你不喜欢使用编辑器或 IDE 来查找代码关键字，那么这几
- ## [边缘计算――未来物联网解决方案](http://iot.51cto.com/art/202004/614944.htm)
- > 物联网见证了互联网技术融入日常生活的戏剧性发展。然而，由于缺乏安全保障，社会压力和政府行为迫使工程师
- ## [值得关注的 9 个开源云原生项目](http://os.51cto.com/art/202004/614943.htm)
- > 本文不可能涵盖所有的 CNCF 项目，我将介绍最有趣的 9 个毕业和孵化的开源项目。下面我们一起来看。
+ ## [自动驾驶江湖浮沉录：泡沫退去以后](http://ai.51cto.com/art/202004/614929.htm)
+ > 自动驾驶江湖浮沉录：泡沫退去以后
+ ## [隔离太无聊？每天一个数据科学项目，数据集都准备好了！](http://zhuanlan.51cto.com/art/202004/614917.htm)
+ > 隔离太无聊？每天一个数据科学项目，数据集都准备好了！
+ ## [玩转GitHub！7个实用工具，打造完全不同的GitHub](http://os.51cto.com/art/202004/614930.htm)
+ > 玩转GitHub！7个实用工具，打造完全不同的GitHub
+ ## [Linux系统对付恶意软件的三款应用软件](http://os.51cto.com/art/202004/614844.htm)
+ > Linux系统对付恶意软件的三款应用软件
+ ## [Zoom新剧情曝光：客户花钱雇黑客，竟是为Zoom找bug](http://news.51cto.com/art/202004/614902.htm)
+ > Zoom新剧情曝光：客户花钱雇黑客，竟是为Zoom找bug
+ ## [一文讲清Spring Cloud微服务架构的五脏六腑！](http://developer.51cto.com/art/202004/614932.htm)
+ > 一文讲清Spring Cloud微服务架构的五脏六腑！
+ ## [物联网的嵌入式编程](http://iot.51cto.com/art/202004/614986.htm)
+ > 嵌入式编程是物联网设备工作方式的重要组成部分。您可能需要学习C/C++并获得一些实际的电子经验，以掌握生
+ ## [网络犯罪将成为第三大“经济”？](http://zhuanlan.51cto.com/art/202004/614985.htm)
+ > 网络犯罪已经成为一个巨大的“产业”，随着公司和消费者在数字世界投入数万亿美元，全球的犯罪分子都在积极
+ ## [人工智能定义基础设施的应用和发展](http://ai.51cto.com/art/202004/614983.htm)
+ > 软件驱动的超融合、可组合基础设施以及将人工智能技术集成到计算和存储中，为企业IT团队带来了前所未有的智
+ ## [运输路线优化和智能调度的好处](http://iot.51cto.com/art/202004/614981.htm)
+ > 为什么物联网定位服务对物流公司如此重要。物联网驱动的位置跟踪技术正在改变运输业，让物流公司更有能力管
+ ## [5G如何玩转频谱？如何使用Ansible Vault保护敏感数据? - 网络・安全技术周刊第436期](http://network.51cto.com/art/202004/614982.htm)
+ > 本期周刊主要内容：如何使用Ansible Vault保护敏感数据?5G如何玩转频谱？这一篇给你说全，说透！运营商要先
+ ## [如何突破Decoder性能瓶颈？揭秘FasterTransformer的原理与应用](http://news.51cto.com/art/202004/614979.htm)
+ > 4月9日，英伟达x量子位分享了一期nlp线上课程，来自NVIDIA的GPU计算专家、FasterTransformer 2.0开发者之一
+ ## [简单而有效的Linux Shell脚本示例](http://os.51cto.com/art/202004/614978.htm)
+ > 创建简单而有效的Linux Shell脚本来处理日常工作非常容易。此外，对这一主题的一点了解将使您立即成为Linux
+ ## [使用远程团队成功进行云迁移的5种方法](http://cloud.51cto.com/art/202004/614975.htm)
+ > 很多企业正在进行云迁移，但由于疫情影响，很多员工在家工作，为了不拖延云迁移的进程，需要采用一些战略技
+ ## [网上如何保护自己？专家讲解3大风险和防范15招](http://netsecurity.51cto.com/art/202004/614976.htm)
+ > 广东省公安厅网络安全保卫总队案件侦查科副科长，公安部网络安全专家。从事网警工作9年来，他的足迹踏遍全
+ ## [AI的五个真正危险](http://ai.51cto.com/art/202004/614969.htm)
+ > AI的真正危险不是像SkyNet这样的有感觉的算法接管世界。 即使这种情况完全是科幻小说，也存在一些合理的问
  ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
  > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
  ## [阿里面试，问了B+树，这个回答让我通过了](https://blog.csdn.net/JAck_chen0309/article/details/105268976)
@@ -172,41 +180,61 @@ categories: IT NEWS
  ## [火爆全网的动态曲线图是怎么做的？](https://blog.csdn.net/csdnnews/article/details/105672144)
  > 作者| 朱小五责编|郭芮之前大家遇到的最多的就是动态条形图，但大家对动态曲线图似乎也非常感兴趣，而且这种动态图在抖音、B站等视频网站都可以轻松获得不错的播放量。所以今天给大家简单讲...
 # 人工智能 
- ## [营销号视频生成器（Python）](https://blog.csdn.net/qq_37236745/article/details/105619051)
+ ## [身为程序员，我敢和你打赌100块，这个数学符号你根本不会认不会写](https://blog.csdn.net/qq_33973359/article/details/105626585)
  > 
- ## [LeetCode 327. 区间和的个数（multiset二分查找/归并排序）](https://blog.csdn.net/qq_21201267/article/details/105636619)
+ ## [超简单！用了这么多年浏览器，原来付费下载的歌曲原mp3就在眼皮底下！](https://blog.csdn.net/Persia_king/article/details/105665088)
+ > 超简单！用了这么多年浏览器，原来付费下载的歌曲原mp3就在眼皮底下！
+ ## [【C++养成计划】控制程序流程——判断与循环（Day5）](https://blog.csdn.net/wjinjie/article/details/105646675)
  > 
- ## [MySQL笔记-ibd文件格式初步分析（仅数据块笔记）](https://blog.csdn.net/qq78442761/article/details/105612445)
- > MySQL笔记-ibd文件格式初步分析（仅数据块笔记）
- ## [Python实现5毛钱特效](https://blog.csdn.net/ZackSock/article/details/105558172)
+ ## [C语言入门系列之4.分支结构程序-关系、逻辑运算和if、switch语句](https://blog.csdn.net/CUFEECR/article/details/105661469)
  > 
- ## [ES6中Map与Set](https://blog.csdn.net/qq_44781628/article/details/105633948)
- > ES6中Map与Set
- ## [关于VS code（Visual Studio Code）的C/C++编译环境和调试的问题](https://blog.csdn.net/qq_45766131/article/details/105627634)
+ ## [深度学习项目笔记（二）——医学影像学dicom,mhd及raw文件浅谈](https://blog.csdn.net/PRINCE2327/article/details/105655644)
  > 
- ## [推荐 130 个令你眼前一亮的网站，总有一个用得着](https://blog.csdn.net/qq_43901693/article/details/100606828)
- > 推荐 130 个令你眼前一亮的网站，总有一个用得着
- ## [超星学习通，智慧树—刷课脚本！解放你的课余时间！（2020最新）](https://blog.csdn.net/qq_31254489/article/details/104579438)
- > 超星学习通，智慧树—刷课脚本！解放你的课余时间！（2020最新）
- ## [麻雀虽小，五脏俱全！RT-Thread BK7252 麻雀一号开发板上手体验](https://blog.csdn.net/Mculover666/article/details/105615591)
- > 麻雀虽小，五脏俱全！RT-Thread BK7252 麻雀一号开发板上手体验
- ## [抖音、快手、火山、刷宝、彩蛋、火火、魔视、微视、八合一短视频刷金币教程](https://blog.csdn.net/wakobe1314/article/details/105628464)
- > 抖音、快手、火山、刷宝、彩蛋、火火、魔视、微视、八合一短视频刷金币教程
- ## [FPGA之PLL](https://blog.csdn.net/csdnqiang/article/details/105644566)
- > FPGA之PLL
- ## [SurfaceTexture 详解](https://blog.csdn.net/u010281924/article/details/105638075)
- > SurfaceTexture 详解
- ## [C语言基础知识(10): 递归](https://blog.csdn.net/zaishuiyifangxym/article/details/105643504)
+ ## [在jmeter中如何跨线程引用变量](https://blog.csdn.net/weixin_46457203/article/details/105646752)
+ > 在jmeter中如何跨线程引用变量
+ ## [【JAVA】第十一届蓝桥杯省模拟赛答案（高职专科组）](https://blog.csdn.net/weixin_43124279/article/details/105668277)
  > 
- ## [利用因果图法对一个自动饮料售货机软件进行黑盒测试](https://blog.csdn.net/qq_40672635/article/details/105611817)
- > 利用因果图法对一个自动饮料售货机软件进行黑盒测试
- ## [LeetCode 371. 两整数之和（位运算加法）](https://blog.csdn.net/qq_21201267/article/details/105645358)
- > LeetCode 371. 两整数之和（位运算加法）
+ ## [阿里面试，问了B+树，这个回答让我通过了](https://blog.csdn.net/JAck_chen0309/article/details/105268976)
+ > 
+ ## [HCIA网络基础（三）](https://blog.csdn.net/qq_45331873/article/details/105664409)
+ > HCIA网络基础（三）
+ ## [Mybatis源码解析之数据源和SQL构建](https://blog.csdn.net/qq_36526036/article/details/105544825)
+ > 
+ ## [mysql查询每小时数据和上小时数据的差值](https://blog.csdn.net/LJFPHP/article/details/105659791)
+ > 
+ ## [2020最新版前端学习路线图](https://blog.csdn.net/m0_46153949/article/details/105613328)
+ > 2020最新版前端学习路线图
+ ## [GitHub 标星 10,000+，Apache 顶级项目 ShardingSphere 的开源之路](https://blog.csdn.net/csdnnews/article/details/105648808)
+ > GitHub 标星 10,000+，Apache 顶级项目 ShardingSphere 的开源之路
+ ## [SpringBoot配置Mybatis：详细易懂](https://blog.csdn.net/zycxnanwang/article/details/105647849)
+ > 
+ ## [教小学妹学算法：诺基亚引出的动态规划问题](https://blog.csdn.net/weixin_43336281/article/details/105633008)
+ > 
 # PM 
- ## [疫情之下电影行业：由浅至深，四个层面解构思考](http://www.woshipm.com/it/3744221.html)
- > 电影行业是一个闭环，牵一发而动全身，影片撤档、影院歇业、各影视城、剧组全部停工，几乎所有环节都受到极大的影响，整个电影行业被按下了暂停键，而随之而来的是资金...
- ## [极光专场公开课 | 一位数据产品总监的自述：从B端到C端再回归SaaS，我总结了这3个避坑指南](http://www.woshipm.com/open/3746012.html)
- > 随着企业服务市场的兴起，B端产品经理逐渐进入大众的视野，也越来越成为了热门的岗位。虽然B端产品与C端产品面对的用户群体不同，但本质却是想通的：产品都要给用户带...
+ ## [用情感化智能设计，给产品注入灵魂](http://www.woshipm.com/pd/3743095.html)
+ > 情感化设计，能让产品有更强的渲染力与影响，有助于产品捕获用户芳心，建立长期关系。那么如何在产品中融入情感化设计呢？本文将为大家带来一些启发。我们已经对技术...
+ ## [视频号该怎么玩？这些内容必须要知道！](http://www.woshipm.com/it/3741814.html)
+ > 视频号内测已经有一段时间了，越来越多的微信用户已成功开通视频号，并开始发布内容。我们在之前推送的内容中介绍了视频号的分类和变现方式，那么视频号该怎么玩呢？今...
+ ## [以儿童手表为例，聊聊「定义误差」与预期满足](http://www.woshipm.com/pd/3739833.html)
+ > 基于用户尝试也能够接受的逻辑进行产品设计，更方便让用户感知产品的硬件功能设计满足了他的诉求。文章以儿童手表为例，对此进行了阐述。在硬件领域，产品的用户预期...
+ ## [付费会员体系中福格行为模型分析](http://www.woshipm.com/pd/3742778.html)
+ > 之前分享过会员相关的文章《体验分析：电商付费会员全链路体验流程的设计思考》，主要还是侧重于产品设计层面，感兴趣的朋友可以看一下。在体验设计中，我们可以通过福...
+ ## [CRM困境：产品难做，销售难卖，系统难用](http://www.woshipm.com/it/3722895.html)
+ > 在CRM领域，笔者已经从业近10年，这10年明显感觉CRM随着B端，SAAS热度是越来越高，关注度也越来越高，但是不得不说，我认为其实还没有真正摆脱“产品难做，销售难卖，系...
+ ## [2020的职场环境：努力去做人群中的“20%”](http://www.woshipm.com/zhichang/3741908.html)
+ > 2020年，面对日趋激烈的职场人才竞争现状，职场人需要让自己更具有性价比，努力去做人群中的“20%”。昨天和一个猎头朋友沟通，关于今年职业环境的思考和变化感受很深。...
+ ## [WMS仓管系统：结合业务流程输出各功能说明](http://www.woshipm.com/pd/3735937.html)
+ > WMS的主要功能是对仓库内所有商品的运转生态进行全面的追踪，连接OMS（订单管理系统），让仓管人员随时随地了解仓库当下最新库存数据。本文将按照业务流程顺序，以生鲜...
+ ## [如何建立一家价值两万亿美元的饮料企业？](http://www.woshipm.com/chuangye/3743171.html)
+ > 本文结合查理芒格分享的五个普遍观念，看怎么按照这种思维来创立价值两万亿美元的饮料企业？1996年，查理芒格发表了一场名为“关于现实思维的现实思考”的演讲，演讲中...
+ ## [产品福利课 | 原型丑、不规范？这样做，你也能画boss和开发一致认可的原型](http://www.woshipm.com/open/3746812.html)
+ > 作为产品经理，画原型目标在于：快速、清晰地向设计和技术传递需求，有效节约时间，推动产品进度。原型作为设计流程中的一个关键部分，被广泛应用在设计的各个阶段。纵...
+ ## [以百果园为例，看私域流量怎么做流量导入](http://www.woshipm.com/operate/3741968.html)
+ > 在私域流量玩法中，第一步就是要将公域流量导入到自己的流量池中，并进行运营。而对实体零售来说，门店就是最大的流量聚集池。本文讲到的百果园就利用门店进行了“线上+...
+ ## [微信视频号变现的11种可能](http://www.woshipm.com/it/3701082.html)
+ > 11种不同类型的视频号分别对应着11种不同的视频内容玩法、定位及所指向的具体行业，那么视频号存在着哪些商业变现的机会与可能呢？本文梳理出了视频号商业变现的11种可...
+ ## [两大角度，教你规划好公司的产品线](http://www.woshipm.com/pmd/3743267.html)
+ > 开发产品和规划产品线如同将军布阵，每一种产品的使命不同，进行商品力的强化时方法各不相同，如同将军不但要善于使用精兵、也要善于使用弱兵、败兵，还要精于使用疑兵…...
  ## [数据中台——金融机构数字化转型的利器](http://www.chanpin100.com/article/111398)
  > 数据中台是金融机构实现数字化转型和业务创新、保持长久竞争力的保障。
  ## [认知：什么是产品思维？](http://www.chanpin100.com/article/111390)
