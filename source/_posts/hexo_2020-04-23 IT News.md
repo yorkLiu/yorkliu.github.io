@@ -1,7 +1,7 @@
 ---
 title: 2020-04-23 IT News
 copyright: true
-date: 2020-04-23 12:02:59
+date: 2020-04-23 17:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -76,21 +76,29 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [路博润TPU粉末通过皮肤接触的ISO测试](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=RJB8ptwntrGrAqrGfenKS*fCuL1Jml0CDQ1TemMdAdlC*OXn2j4jjID-ZpMZwkxJTmDB3WL3Dv3XImA*YRFJjTfRtpPjBj7A-fzTyKEYxqlQz4yC0gxhWVGctU7kB*XX&new=1)
+ ## [路博润TPU粉末通过皮肤接触的ISO测试](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=RJB8ptwntrGrAqrGfenKS*fCuL1Jml0CDQ1TemMdAdn6L-kFkX666k4QQhKxDNTKL-*5BDRUy0Gi*d33slTzCLrIBWUML0j99HyLD3o9qZzlfuIM12NF6miMx4tql1jJ&new=1)
  > 总部位于俄亥俄州的化学与材料公司路博润宣布，其用于3D打印的ESTANE 3D TPU M95A粉末已通过符合ISO 10993-5和10993-10的皮肤敏化和细胞毒性测试。成功的测试意味着该材料专为与HP Multi Jet Fusio
- ## [华为的庚子年](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=tWolOoCUbMMYZNaZkpF2TwjOcqjgwrxi6bVvQgYU4PKIxyNLM5GPrw7Ymuz-uIOz14U4TklMs2PabFTBHMJOnPzspxT4G77hBnvmMrBWl6aeYyeXkonCi0LIKFI7Uqjx&new=1)
+ ## [IDC：三年内WiFi 6无线AP国内占有率将超90%](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=cekRlJEg0dYZKa*vqbe*CbnhbIfO9NWiWu5o3evL1s5ldIQJaquzcNUXmumkWmkHaqdvOf8CTSLiX9iqmRwTgRherxLEoZLE9q4Ca*V4RsIN9BBCRkCzr730utb-XWYd&new=1)
+ > 根据IDC最新的一份预测报告，到2024年，51%的全球IT预算将来源于数字化创新/数字化转型，中国这一占比将超过70%。随着数字化的深入，数字化企业从联接数量、联接时间、联接方式以及联接要求几个方面对未来连接提...
+ ## [华为的庚子年](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=tWolOoCUbMMYZNaZkpF2TwjOcqjgwrxi6bVvQgYU4PLQ22Guo*QXF962Ja3piYE7GS8*wavaV9prjxmBQuTmVwWF9YEUyhHmKv5iMmzLYbuKcbHGz-GVLRxW-Y5qsO04&new=1)
  > 庚子难过。作 者丨陈石磊华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意2020年4月8日，华为正式发布了P40系列手机。这是华为品牌去年受到制裁后，第一次...
- ## [滁州市机关事务管理处二级调研员李骏一行参观考察云创](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=ogiUW8IaMOSaV5xl*381KT4-0hAhzjk7*Tsa9KwfspAO3sDd*n0*RodQenYHH2fjUMNMoaLTya2zMCzGXPpG64MMsjBebGIZcsIJqUQfit6pHtV6faopvAIVhcjKG2Hm&new=1)
+ ## [对于2020年网络安全发展的11个预测](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=ReG5LIzGvGJ37O38DahOkGDcsn3eYK4hFErYUK*w-jkJDEKPsmPwbEev*DHI7-plzX15AI95FzJEUVuiSK3f0Y4UBPQEwekzJjpAeNw0pWOEX3CI6lGxH-Ld5z3*JGVL&new=1)
+ > 关键讯息，D1时间送达！安全专家Gurucul对2020年网络安全发展趋势进行了11个预测，并希望在未来一年的时间验证其预测的准确性。预计全球各地将在2020年进行大规模5G网络部署。该技术将为许多行业创造机遇，但也...
+ ## [钟南山力挺学校复课!一场安防战打响，科技巨头暗战校园“地头蛇”](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=hI7pfTx*mBgvWbh9JLi6GvrhLdd-7Jclh8Ata8lDsQaa-YFZvAymsfsYd3aI0gQz1hhfBtWoIuONLx8T4yV4i6ko2m57YQ1Rp42QH5MfLJCO7Owgu7WnpwkzScJRj253&new=1)
+ > 看点：AI黑科技入学提前报到，四路玩家汇聚角逐！终于来了！智东西4月22日消息，这几天，随着疫情较轻的地区纷纷在本周复学，疫情“震中”湖北省也宣布5月6日全省高三学生统一开学，并公布其2020年高考时间为7月...
+ ## [当华为云WeLink遇上P40，多屏协同全场景办公有多神奇?](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=umfhgpSRpS*WnDAt8C2LT5rWxAsYSHEc3-v9a9zdsVLl4GDfL2GrF2kMYReHf4HlDJic8ChOch7VzNFHe9-sdR5cKEKT4WAwGkyl2I5qusbAVg5gC0FFgDA9CZOLhZYE&new=1)
+ > 今年以来，在线服务需求爆发，不管是在线学习还是办公或者娱乐，都成为炙手可热的领域。其中，在线办公其是疫情下经济保障和维持企业运作的关键点之一，而在在线办公的领域，华为云的WeLink可以说是横空出世，配...
+ ## [滁州市机关事务管理处二级调研员李骏一行参观考察云创](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=ogiUW8IaMOSaV5xl*381KT4-0hAhzjk7*Tsa9KwfspCuQcoywmBhi4Yk-UjCENbSMHkyo9vzLgErVx5Ge1E-jOBzOFFiCS7ZjiKcomZ-9RutnEj15*ru03BRi1YAfp4x&new=1)
  > 4月22日下午，滁州市机关事务管理处二级调研员李骏，滁州高教科创城党委委员、副主任张峰，滁州市机关事务管理处公务接待保障一科科长欧宁，中新苏滁高新区应急管理局局长王童，以及袁丽等一行到访云创，云创大...
- ## [眼球追踪在5G+XR场景中的新趋势：专访七鑫易维XR业务部总经理路伟成](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=ntgDtjgXfd-C*o82qJeaSdf4aephHo7tHqDESmqcr3T7XeJ6DftUYyIpmmpb0HyOZdpbM7ttVQcDXsLQwSAEhTEIFnZBYIEmjXCEfHg*FlKrbAkETlwmThAs2iaEmivv&new=1)
- > 来源｜93913作者｜丹哥说VR在春意盎然的4月，我来到七鑫易维在北京的新办公室，采访了七鑫易维XR业务部总经理路伟成。作为国内眼球追踪技术的领军企业，七鑫易维不仅在今年CES期间亮相了多款VR/AR眼球追踪集成与...
- ## [独家：中国电信提出省公司重新分四类 打破南北方分类](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=d8O2IJnfllhCtWcI8l2h7mbcrjVZUyaBa*WwNYer6ixF68GQDv5WkJTKKwd-5TxMyVs6H3hNnVzcbFSyrizPPBP9To*FbekF7VG0*xoVBM9fgvMd63qMKWqjfJOPt3PT&new=1)
+ ## [独家：中国电信提出省公司重新分四类 打破南北方分类](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=d8O2IJnfllhCtWcI8l2h7mbcrjVZUyaBa*WwNYer6ixk2SMXbKiuXHK8DY0VISEgiaQgPH*1HgtkchNtKeMZun6yNAKLl0vrIPjQykNjuxfhhO8yVLijTD11IaLqu87A&new=1)
  > 运营商财经网 吴碧慧/文 近日，知情人士向运营商财经网独家透露，中国电信为了持续完善市场化资源配置机制，不仅强化市场导向，还将优化省公司分类，打破南北方分类方式，提出“分四类”。如何强化市场导向？据...
- ## [中国联通Q1服务收入683亿元：净利润31.66亿，环比劲增110%](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=g6MWfaAg0qqJXlQAN6UQ*PdzIDdbMSroLTi*5DYvZwVcY7bErmUBsN7RvZfhc7K5vVl5spxQlhPzKpKyUXm-dNFMVwFyz4iYgyH1GLZebHEiZgF41iwnmisUvqiMeIUs&new=1)
+ ## [眼球追踪在5G+XR场景中的新趋势：专访七鑫易维XR业务部总经理路伟成](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=ntgDtjgXfd-C*o82qJeaSdf4aephHo7tHqDESmqcr3SCQQbQ9-*pk-58P-jg4K-EHY0oi1rR6bktAbP10daIKf4RH5Q**Koet8*ZXie6Qq3QRymxZCq*hUsJ0lbo*Y9U&new=1)
+ > 来源｜93913作者｜丹哥说VR在春意盎然的4月，我来到七鑫易维在北京的新办公室，采访了七鑫易维XR业务部总经理路伟成。作为国内眼球追踪技术的领军企业，七鑫易维不仅在今年CES期间亮相了多款VR/AR眼球追踪集成与...
+ ## [中国联通Q1服务收入683亿元：净利润31.66亿，环比劲增110%](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=g6MWfaAg0qqJXlQAN6UQ*PdzIDdbMSroLTi*5DYvZwVX7nLn2309V7oxSY9NXNuk5gVcdn-ZIhpQiBJpzlX2SBDuVHsS6AcTV7nnWJbVgCn1MYchZTkWOZUjR4johv0*&new=1)
  > 今天，中国联通发布了2020年第一季度主要财务与运营数据。期内，中国联通整体服务收入为683.07亿元，比去年同期上升2.3%。其中，移动服务收入为377.49亿元，比去年同期下降4.1%；固网宽带接入收入实现止跌回升，...
- ## [大数据与人工智能应用的7个常见误区](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=ReG5LIzGvGJ37O38DahOkGDcsn3eYK4hFErYUK*w-jnzJkY1hHNM2xn-WF6x9zqSX64750WusMUW0H888QckQV-ksoEY6KQZH5gwSavda*UFm8bzL2CAHACYftF5X2K0&new=1)
+ ## [大数据与人工智能应用的7个常见误区](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=ReG5LIzGvGJ37O38DahOkGDcsn3eYK4hFErYUK*w-jmQ4sw1UTakTY3Tr8rrrg9WndLUAgRD902dT6XJ-wlS*PH*zoWsXEqMp0pWnC1eASStX7-GPolyIAd-t0wMIISm&new=1)
  > 关键讯息，D1时间送达！随着越来越多的组织采用大数据技术处理大量、快速、多变的信息资产，通常很快就会面临如何从中有效地获得洞察力和商业价值的问题，这就涉及到了大数据和人工智能。大数据和人工智能之间存...
- ## [5G小基站射频测试网络研讨会回放](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=MdQDipeAoVQBtU0dqHKBnJRZh5d5pPlEavosou9J7WAAT261b1VXx38XFlg4P6UmzpWbwIdxhLYCW19dzGtQplBZDv7SC7z-5h8ZF9nCjqKtUAs7vuYCZtSmuvgjkQJD&new=1)
+ ## [5G小基站射频测试网络研讨会回放](http://mp.weixin.qq.com/s?src=11&timestamp=1587632402&ver=2295&signature=MdQDipeAoVQBtU0dqHKBnJRZh5d5pPlEavosou9J7WDZaqnQc*y5AD8DNgspiFRfdZtJodyv7AX-IdR8LvZBNg0TgLuD7Z7ZZDkoLUlvkZPt-6ZnZitBGXxPbisHO1TV&new=1)
  > O-RAN联盟由中国移动、美国AT&amp;T、德国电信、日本NTT DOCOMO,和法国Orange五家运营商于2018成立，其愿景是打造“开放”“开源”与“智能”的高灵活、低成本无线网络。2019年底，中国三大运营商联合成立了开放无线...
 # IT 技术 
  ## [能够装在U盘上的五大Linux发行版](http://os.51cto.com/art/202004/615037.htm)
@@ -109,26 +117,26 @@ categories: IT NEWS
  > 我从新冠数据里学到的四个数据科学基础知识
  ## [精益求精！如何让你的Python项目从自动化中受益](http://developer.51cto.com/art/202004/615033.htm)
  > 精益求精！如何让你的Python项目从自动化中受益
- ## [有效解决 MySQL 行锁等待超时问题](http://database.51cto.com/art/202004/615092.htm)
- > 本文仅介绍如何有效解决行锁等待超时，因为大多数项目都是此类错误，元数据锁等待超时则不涉及讲解。
- ## [自学编程的 6 个致命误区](http://news.51cto.com/art/202004/615091.htm)
- > 本篇文章来和大家聊聊自学编程中的一些误区――这是我在 B 站上看了羊哥的一期视频后有感而发的文章。因为
- ## [Redis 分布式锁的 5个坑，真是又大又深](http://stor.51cto.com/art/202004/615093.htm)
- > 最近项目上线的频率颇高，连着几天加班熬夜，身体有点吃不消精神也有些萎靡，无奈业务方催的紧，工期就在眼
- ## [前端需要了解的9种设计模式](http://developer.51cto.com/art/202004/615087.htm)
- > 设计模式是对软件设计开发过程中反复出现的某类问题的通用解决方案。设计模式更多的是指导思想和方法论，而
- ## [《CS：GO》和《军团要塞2》源代码泄漏，Valve：稳住，别慌](http://netsecurity.51cto.com/art/202004/615084.htm)
- > 面对《CS：GO》（《反恐精英：全球攻势》）和《TF2》（《军团要塞2》）源代码泄露事件引发的安全担忧，Valv
- ## [新基建带热百亿5G光模块市场 高端领域亟待提升国产率](http://network.51cto.com/art/202004/615082.htm)
- > 受益于5G网络建设以及数据中心市场需求回暖，光模块行业迎来了高光时刻也为国产光模块企业带来宝贵发展机遇
- ## [远程工作需求增长需要解决统一通信基础设施面临的问题](http://network.51cto.com/art/202004/615081.htm)
- > 统一通信(UC)基础设施面临的问题使远程工作者很难连接到他们公司的网络，混合云统一通信(UC)可能是解决这些
- ## [小心点，别被当成垃圾回收了。](http://developer.51cto.com/art/202004/615086.htm)
- > 我们说的不同的引用类型其实都是逻辑上的，而对于虚拟机来说，主要体现的是对象的不同的可达性(reachable)
- ## [一文带你解读2019年工业机器人发展行业现状！](http://ai.51cto.com/art/202004/615080.htm)
- > 根据国际机器人联合会(IFR)新发布的《全球机器人2019――工业机器人》报告显示，2018年全球工业机器人出货
- ## [需要认识部署不安全容器的影响](http://cloud.51cto.com/art/202004/615075.htm)
- > 已经部署或正在部署容器技术的企业会受到容器托管应用程序缺乏安全性的影响。这对许多企业将容器纳入数据中
+ ## [装机实用技巧：电脑主板跳线到底怎么接？](http://biz.51cto.com/art/202004/615130.htm)
+ > 对于新手装机来讲，最大的难点就是主板跳线，那么到底怎么接呢?今儿就来手把手教你搞定主板跳线…当然，目
+ ## [NVIDIA RTX降噪技术：任何N卡都能用](http://biz.51cto.com/art/202004/615127.htm)
+ > 日前，NVIDIA发布了一款RTX Voice软件，搭配图灵架构的GeForce RTX、Quadro RTX系列显卡，可以利用AI人工智
+ ## [以太网技术联盟宣布完成 800Gb 以太网规范](http://network.51cto.com/art/202004/615128.htm)
+ > 由业界支持的以太网技术联盟Ethernet Technology Consortium(ETC)已宣布完成 800Gb 以太网技术规范。
+ ## [什么是互联网骨干网，它是怎样工作的](http://network.51cto.com/art/202004/615126.htm)
+ > 互联网会产生大量的计算机到计算机的流量，要确保所有流量都可以在世界上任何地方之间传输，就需要大量汇聚
+ ## [研究发现：73%的集成商不提供网络安全服务](http://netsecurity.51cto.com/art/202004/615125.htm)
+ > 如今，在新型冠状病毒(COVID-19)爆发和随后的在家庇护所中，随着人们为孩子开展在家工作和远程学习，网络安
+ ## [谷歌兑现多云承诺 宣布Anthos重大更新即将支持AWS云](http://cloud.51cto.com/art/202004/615124.htm)
+ > 谷歌今天公布了Anthos应用平台的一些重要更新，使其能够以较低成本支持不同计算环境中的更多工作负载。
+ ## [世界读书日：看智能科技如何打造良好阅读环境](http://iot.51cto.com/art/202004/615123.htm)
+ > 4月23日是第25个“世界读书日”!今天，你读书了吗?高尔基曾说：“书籍是人类进步的阶梯”，同时莎士比亚也
+ ## [病虫害防治收效甚微怎么办？智能科技、物联平台用起来](http://iot.51cto.com/art/202004/615122.htm)
+ > 草长莺飞，万物复苏，又到了春耕春播的好时节。除了育种栽苗以外，病虫害防治已经成为了农业生产活动中的
+ ## [从怀疑到感兴趣：5G毫米波频谱正获得全球更多吸引力](http://network.51cto.com/art/202004/615121.htm)
+ > 不久以前，业内曾对5G采用毫米波(mmWave)频谱持一种怀疑态度在。例如，有线电视行业的公司在2017年赞助的一
+ ## [调查：消费者担心网络安全，认为智能家居产品过于昂贵](http://netsecurity.51cto.com/art/202004/615120.htm)
+ > 来自Kwikset的数据表明，尽管潜在的智能家居技术消费者受到了很多选择，但他们对该类别仍有一些困扰。
  ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
  > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
  ## [阿里面试，问了B+树，这个回答让我通过了](https://blog.csdn.net/JAck_chen0309/article/details/105268976)
@@ -147,18 +155,18 @@ categories: IT NEWS
  > 
  ## [你是不是很反感，这四类同事？](https://blog.csdn.net/shenjian58/article/details/105630389)
  > 你是不是很反感，这四类同事？
- ## [面试官，求你了别再问我TCP三次握手和四次挥手了(含面试题)](https://blog.csdn.net/qq_38646470/article/details/105522263)
- > 面试官，求你了别再问我TCP三次握手和四次挥手了(含面试题)
- ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
- > 
+ ## [大学一路走来，学习互联网全靠这几个网站，最终拿下了一把offer](https://blog.csdn.net/qq_38646470/article/details/104891031)
+ > 大学一路走来，学习互联网全靠这几个网站，最终拿下了一把offer
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
  > 
- ## [别再自己抠图了，Python用5行代码实现批量抠图](https://blog.csdn.net/ZackSock/article/details/104738652)
+ ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
  > 
  ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
  ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
  > 
+ ## [为什么猝死的都是程序员，基本上不见产品经理猝死呢？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/103841693)
+ > 为什么猝死的都是程序员，基本上不见产品经理猝死呢？
  ## [如何“发现”失联多年好友？代码告诉你！](https://blog.csdn.net/csdnnews/article/details/105697455)
  > 作者 |Cooper Song责编 | 伍杏玲出品 | 程序人生（ID：coder_life）近期晚上失眠比较多，偶然发现在微博里打开别人的关注/粉丝列表可以找到可能感兴趣的人，点进去...
  ## [漫画：“哈夫曼编码” 是什么鬼？](https://blog.csdn.net/csdnnews/article/details/105697466)
@@ -182,57 +190,83 @@ categories: IT NEWS
  ## [数据库激荡 40 年，深入解析 PostgreSQL、NewSQL 演进历程](https://blog.csdn.net/csdnnews/article/details/105697474)
  > 作者 | 张秋剑，天云数据上海副总经理责编 | 唐小引头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）近日，有传闻 PostgreSQL 会发布 13 版...
 # 人工智能 
- ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
- > mongoTemplate的方法和update()
- ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
- > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
- ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
- > Mysql实现查询5分钟之前的数据
- ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
- > 按键精灵-自定义函数time(),datetime(),diff()
- ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
- > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
- ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
- > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
- ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
- > ERD图
- ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
- > 怎么往mysql表里添加数据
- ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
- > 连续登录天数计算
- ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
- > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
- ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
- > Sql性能优化看这一篇就够了
- ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
- > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
- ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
- > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
- ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
- > ffmpeg vsync参数分析
- ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
- > oracle授权查询
+ ## [Redis 'MISCONF Redis is configured to save RDB snapshots, but is currently not able to ...'持久化问题](https://blog.csdn.net/weixin_41818665/article/details/105658114)
+ > Redis &x27;MISCONF Redis is configured to save RDB snapshots, but is currently not able to ...&x27;持久化问题
+ ## [StructStreaming 代码](https://blog.csdn.net/bbvjx1314/article/details/105678574)
+ > StructStreaming 代码
+ ## [kafka实战篇（一）：Producer消息发送实战](https://blog.csdn.net/qq_26803795/article/details/105682276)
+ > 
+ ## [震惊!StructuredStreaming整合Kafka和MySQL原来这么简单?](https://blog.csdn.net/weixin_44318830/article/details/105669505)
+ > 
+ ## [如何实现超星刷课自动答题自动考试](https://blog.csdn.net/weixin_43501726/article/details/105319093)
+ > 如何实现超星刷课自动答题自动考试
+ ## [Hadoop分布式环境搭建(简单高效~)](https://blog.csdn.net/qq_16146103/article/details/105655840)
+ > 
+ ## [kettle -- 连接hive读取数据导入hdfs](https://blog.csdn.net/weixin_44036154/article/details/105673801)
+ > kettle -- 连接hive读取数据导入hdfs
+ ## [windows安装cygwin，再也不用开虚拟机练习Linux命令了](https://blog.csdn.net/qq262593421/article/details/105686618)
+ > windows安装cygwin，再也不用开虚拟机练习Linux命令了
+ ## [CentOS 7.3 离线安装和使用ElasticSearch和kibana](https://blog.csdn.net/qq_32599479/article/details/105653307)
+ > CentOS 7.3 离线安装和使用ElasticSearch和kibana
+ ## [三分钟速学linux磁盘管理](https://blog.csdn.net/weixin_42767604/article/details/105675415)
+ > 
+ ## [大数据开发 | MapReduce](https://blog.csdn.net/mnbvxiaoxin/article/details/105682153)
+ > 大数据开发 | MapReduce
+ ## [SparkSQL](https://blog.csdn.net/bbvjx1314/article/details/105676807)
+ > SparkSQL
+ ## [SparkRDD 练习](https://blog.csdn.net/bbvjx1314/article/details/105677340)
+ > SparkRDD 练习
+ ## [在Vue中通过vue-router实现路由嵌套](https://blog.csdn.net/Piconjo/article/details/105687390)
+ > 在Vue中通过vue-router实现路由嵌套
+ ## [个人博客链接集 Java Python Linux 计算机基础 数据库 算法 前端 其它](https://blog.csdn.net/weixin_44925501/article/details/105650021)
+ > 个人博客链接集 Java Python Linux 计算机基础 数据库 算法 前端 其它
 # PM 
- ## [中台之路——《黑客帝国》中的矩阵革命](http://www.woshipm.com/pd/3746685.html)
- > 前文《中台之我不是药神》讲到，阿里和其客户共创了中台。那么中台是在一个什么样的背景下产生的？如何理解中台？企业对中台的需求是什么？中台实现的路径是什么？本文...
- ## [产品创新方法论：如何抓住创新的尾巴？](http://www.woshipm.com/pd/3749403.html)
- > 当我们伸手想去抓住创新的时候，发现真的很难，各种要素、土壤都会成为创新的限制。于是创新成了一个政治口号一般的存在，只闻其声难见其行。前几年的媒体喜欢在每年...
- ## [品牌之源——百年品牌发展简史（1）](http://www.woshipm.com/marketing/3746407.html)
- > 品牌到底是什么？只有寻找出品牌背后的逻辑，才能对品牌的打造之路有所帮助。20年来，我们经历了互联时代，完成所有现实世界的在线化，重塑了整个人类交流及全球文化...
- ## [“金三银四”已近尾声，874万人中，你是被筛选掉的那一批吗？](http://www.woshipm.com/online/3752271.html)
- > 一开年就被关在家里两个月，今年的时间过得似乎格外快。很多人发现，什么都还没做呢，2020年就已经过去了三分之一。而对于应届毕业生和年后打算转岗换工作的这批人来说...
- ## [Mr. Robot 和他的脸书帝国](http://www.woshipm.com/it/3745248.html)
- > 脸书变得家喻户晓大概是得益于电影《社交网络》的爆火，影片中一帮大学没毕业的年轻人吃着披萨、喝着啤酒、住着别墅就把公司给搞大了。喂，能不能带上我…1. 脸...
- ## [网页设计中，如何有效利用负空间？](http://www.woshipm.com/pd/3746709.html)
- > 许多设计师为了设计一个丰富多彩的网页把产品设计的过于复杂、繁琐，这是犯了一个大错误。如果不是故意的，则应避免创建复杂的接口，而应使用更多空间。空间是Web设计中...
- ## [产品深思系列（1）：“我该如何更有效执行？”](http://www.woshipm.com/pmd/3746983.html)
- > 产品经理是需要深度思考的职业，那产品经理该如何更有效地执行？有效执行的本质解，是一套让决策/认知有序化的反馈过滤机制。杨国安先生（“杨三角”的创立者）的极简公...
- ## [高阶运营和初阶运营有哪些差别？](http://www.woshipm.com/operate/3744877.html)
- > 高阶运营和初阶运营相比起来，主要的差距就是深度和广度。深度是思考的内核，而广度是运营技术板块的边界。这个话题的由来我的助理和我说，知乎上有个热门问题“高阶...
- ## [“斑马AI”的前世今生：从发展路径看产品启示](http://www.woshipm.com/evaluating/3741121.html)
- > 本文主要回顾『斑马AI课的发展历史』，看看它在不同时期，是怎样应对市场环境和竞争，抓住发展机遇的。自打全国各地幼儿园、小学在宣布延期开学以后，笔者的朋友圈成...
- ## [长文解析：如何成为一个值钱的运营人？](http://www.woshipm.com/zhichang/3744607.html)
- > 本文以互联网运营人为例，看如何做一个值钱的职场人。工作了几年后，很多人都会面对这样一个问题：辛苦了这么多年，自己还是房车皆无，存款为负，月薪刚过万，每月还...
+ ## [进击的企业服务赛道，2020年有哪些增长新思路？](http://www.woshipm.com/it/3750445.html)
+ > 在疫情全球化的当下，很多企业服务公司的用户大批量的增长，但客户留存、客户和收益之间的权衡成了一大难题，本文将带大家梳理企业服务增长进击的新思路与新模式，希望...
+ ## [产品经理：与领导有效沟通的5个技巧](http://www.woshipm.com/pmd/3750935.html)
+ > 与领导沟通是一门技术活，如何恰到好处地表达自己的意见同时促进与对方的联系并不像我们认为的那么简单。文中提供的5个技巧，也许会对你在生活和工作中有所帮助。文章...
+ ## [用户能说清楚需要的产品需求吗？](http://www.woshipm.com/pd/1036907.html)
+ > 只有对需求有清晰地认识，我们才能定位要通过设计解决的问题，为给出正确的设计提供条件。如果对需求的认识是模糊或是错误的，那无论你怎么努力都只能做出错误的设计，...
+ ## [2020年社群运营5步法：拉新、管理、传播、活动、转化](http://www.woshipm.com/operate/3752414.html)
+ > 2020年如何运营有价值的社群，我复盘了过往的经历，优秀行业案例的参考总结了运营5步法：拉新，管理，传播，福利，转化。2020我觉得已经过了社群蛮荒生长的时代了，更...
+ ## [叫了滴滴代驾后，我推理了背后的产品设计](http://www.woshipm.com/pd/3751624.html)
+ > 笔者从体验滴滴代驾后，结合自己的经验的认知，试推理了滴滴代驾的交易产品是如何设计呢？其中包括了哪几类角色，它们的诉求以及滴滴代驾做出了哪些服务。昨天呱哥有...
+ ## [设计笔记：设计师如何与产品有效沟通？](http://www.woshipm.com/pd/3750170.html)
+ > 设计和产品之间的沟通模式不应该只是“撕逼”，想要做到有效沟通，设计师需要在业务、心态和专业知识等多个方面进行自我建设。提到设计与产品的沟通，大家可能脑子蹦出...
+ ## [在微信生态内，如何玩转产品？](http://www.woshipm.com/operate/3749591.html)
+ > 怎么在微信生态里，玩转自己的产品呢？本文从四个方面给大家提供了一些思路，一起来看看~最近一直在研究在微信生态内，怎么才能让产品如鱼得水呢？在现在的微信互联...
+ ## [轮播图设计，你还需要知道这3点](http://www.woshipm.com/pd/3736794.html)
+ > 轮播图、走马灯形式的广告页面展示在我们日常的各种平台上随处可见。也有很多原理在设计中被运用和改进，但如果没有理解交互方面的设计原则，则会让轮播图的效果大打折...
+ ## [流量的新战局，社交电商的新纪元](http://www.woshipm.com/it/3752603.html)
+ > 在这场有关流量的新战局当中，考验社交电商的参与者们的是他们颠覆传统、创新新模式、投身产业链的能力。对于社交电商来讲，把握这个新纪元，社交电商的发展才能真正进...
+ ## [B 端的管理平台设计有哪些基础知识？](http://www.woshipm.com/pd/3588733.html)
+ > 本文介绍了B端产品的业务类型、设计特征与设计内容，希望能帮助大家对B端的管理平台设计有个初步的了解。在今天，互联网的影响力与作用与日俱增，除了我们日常生活领...
+ ## [BI选型｜6款国内外商业智能BI产品深度测评](http://www.woshipm.com/ai/3748175.html)
+ > 本文作者挑选了市面上6款比较常见的BI产品，分别从产品的定位、性能、功能等方面展开了使用测评并进行了总结，与大家分享。伴随着ERP、CRM、OA、支付、会员等信息系统...
+ ## [B端产品需求调研（2）：如何确定调研方式、调研问题](http://www.woshipm.com/pmd/3753494.html)
+ > 在上一篇中，我们明确了如何确定项目目标以及如何确定干系人，在本篇文章中，我们将梳理一下如何确定调研方式以及如何确定调研问题。首先我们再梳理一下B端产品需求调...
+ ## [入行产品经理，你需要掌握这十八般武艺](http://www.chanpin100.com/article/111422)
+ > 无须样样精通，但要有多技之长
+ ## [深夜，你的耳朵睡着了吗？|2020中国夜听经济发展分析](http://www.chanpin100.com/article/111421)
+ > 简介：夜间经济是休闲经济的重要组成部分，随着移动互联网的普及，在线娱乐已成为当代社会重要的休闲娱乐形式。本分析以“音”为核心，围绕音频类内容展开“夜听经济”的分析。从用户画像、细分场景角度出发，基于数据得出了许多有趣的结论。“夜听经济”用户增速前景明朗，场景智能化趋势明显，营销价值巨大。
+ ## [微信订阅号或将大变天，微博8年前就这么干了...](http://www.chanpin100.com/article/111420)
+ > 微信偷师微博？
+ ## [设计笔记「二」按钮细节交互](http://www.chanpin100.com/article/111419)
+ > “按钮”这个元素我们在app或是网页里随处可见，使用场景也五花八门，今天我们就来聊一聊～
+ ## [设计笔记「一」信息输入框的交互思考](http://www.chanpin100.com/article/111418)
+ > 对常见的输入框你真的了解吗？有时会因为开发一个输入框需要3天时间而惊呆，真的需要这么多嘛，对于非业务人员而言，输入框就是一个方框或者一条横线而已
+ ## [好产品的定义](http://www.chanpin100.com/article/111417)
+ > 这个世界上除了少数类似于阳光和空气这样的自然物品外，大多数满足人们某种需要和需求，而被设计出来的产品，都得遵守一个基本的逻辑，那就是“商业逻辑”。
+ ## [输入文字自动免费生成酷炫的动态效果图？收藏收藏！](http://www.chanpin100.com/article/111415)
+ > hello，最近小白找到了一个，非常强大厉害好用酷炫的文字效果生成器Space Type Generator，只需要输入文字自动一键生成各种各样的高级酷炫动效图，并且生成的文字效果样式非常丰富。
+ ## [App推广优化三步走，全面提升ROI](http://www.chanpin100.com/article/111413)
+ > 全域全购买旅程监测，数据驱动科学提升
+ ## [疫情重击，旅行社该如何自救？|2020中国旅行社智能+生态分析](http://www.chanpin100.com/article/111412)
+ > 简介：旅行社产业智能+通过优化旅行社业务与管理场景，促进旅行社业务流程规范化，提升服务管理运行效率，为旅游消费者提供更优质产品服务，适应旅游市场的新发展趋势。简单来说，就是旅行社借助智能管理系统，赋能旅游产品研发、旅游消费者运营、供应商渠道管理、订单流程管理等方面数字化建设，提效增值，实现旅行社产业
+ ## [产品经理面试如何做自我介绍](http://www.chanpin100.com/article/111411)
+ > 自我介绍是产品经理面试必经的第一个环节，除非面试官对你很熟悉，一段好的自我介绍是面试的敲门砖，敲好了跑着走，敲不好跪着走。为了让产品经理们少走些弯路，今天来聊一聊产品经理面试时应该如何做自我介绍。
+ ## [管理思想与数据分析“联姻”之美](http://www.chanpin100.com/article/111423)
+ > 波士顿模型、曲棍球棒效应、帕累托图，在数据分析中如何活用呢？详见正文。
  ## [苹果“白菜价”推新机，B站“卖楼”推新游丨每周热点](http://www.chanpin100.com/article/111410)
  > 一周热点回顾！不容错过！
  ## [国美难“治”拼多多的“大牌”焦虑](http://www.chanpin100.com/article/111409)
