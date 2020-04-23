@@ -1,7 +1,7 @@
 ---
 title: 2020-04-23 IT News
 copyright: true
-date: 2020-04-23 10:01:02
+date: 2020-04-23 12:02:59
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -76,55 +76,59 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [中国联通Q1服务收入683亿元：净利润31.66亿，环比劲增110%](http://mp.weixin.qq.com/s?src=11&timestamp=1587605406&ver=2295&signature=g6MWfaAg0qqJXlQAN6UQ*PdzIDdbMSroLTi*5DYvZwUvy8OILuxBmLNspGCHFz*zpu895ys7UyIVSEDtQ0HSuS1JjkgF88Oqa0M-49ZUgO*qDyuCPJCt3QhEz4ULPJS*&new=1)
- > 今天，中国联通发布了2020年第一季度主要财务与运营数据。期内，中国联通整体服务收入为683.07亿元，比去年同期上升2.3%。其中，移动服务收入为377.49亿元，比去年同期下降4.1%；固网宽带接入收入实现止跌回升，...
- ## [滁州市机关事务管理处二级调研员李骏一行参观考察云创](http://mp.weixin.qq.com/s?src=11&timestamp=1587605406&ver=2295&signature=ogiUW8IaMOSaV5xl*381KT4-0hAhzjk7*Tsa9KwfspAQoL*hvAAOAg4O28U1ekjnyswmcAcCwsFXUowZy82zQaZtCAGFCuHFM4otgrPGHkFDTJyGt*yR1A4zbTTzv-Kf&new=1)
+ ## [路博润TPU粉末通过皮肤接触的ISO测试](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=RJB8ptwntrGrAqrGfenKS*fCuL1Jml0CDQ1TemMdAdlC*OXn2j4jjID-ZpMZwkxJTmDB3WL3Dv3XImA*YRFJjTfRtpPjBj7A-fzTyKEYxqlQz4yC0gxhWVGctU7kB*XX&new=1)
+ > 总部位于俄亥俄州的化学与材料公司路博润宣布，其用于3D打印的ESTANE 3D TPU M95A粉末已通过符合ISO 10993-5和10993-10的皮肤敏化和细胞毒性测试。成功的测试意味着该材料专为与HP Multi Jet Fusio
+ ## [华为的庚子年](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=tWolOoCUbMMYZNaZkpF2TwjOcqjgwrxi6bVvQgYU4PKIxyNLM5GPrw7Ymuz-uIOz14U4TklMs2PabFTBHMJOnPzspxT4G77hBnvmMrBWl6aeYyeXkonCi0LIKFI7Uqjx&new=1)
+ > 庚子难过。作 者丨陈石磊华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意2020年4月8日，华为正式发布了P40系列手机。这是华为品牌去年受到制裁后，第一次...
+ ## [滁州市机关事务管理处二级调研员李骏一行参观考察云创](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=ogiUW8IaMOSaV5xl*381KT4-0hAhzjk7*Tsa9KwfspAO3sDd*n0*RodQenYHH2fjUMNMoaLTya2zMCzGXPpG64MMsjBebGIZcsIJqUQfit6pHtV6faopvAIVhcjKG2Hm&new=1)
  > 4月22日下午，滁州市机关事务管理处二级调研员李骏，滁州高教科创城党委委员、副主任张峰，滁州市机关事务管理处公务接待保障一科科长欧宁，中新苏滁高新区应急管理局局长王童，以及袁丽等一行到访云创，云创大...
- ## [大数据与人工智能应用的7个常见误区](http://mp.weixin.qq.com/s?src=11&timestamp=1587605406&ver=2295&signature=ReG5LIzGvGJ37O38DahOkGDcsn3eYK4hFErYUK*w-jkd8zmKfvPnMHFVFVQ6TtaYJGF4coF8i8Me00pl*5UV1*ZyBiERjvDGQ1WvagNxoDr63uShZFu3XnOs3VLjmQuB&new=1)
- > 关键讯息，D1时间送达！随着越来越多的组织采用大数据技术处理大量、快速、多变的信息资产，通常很快就会面临如何从中有效地获得洞察力和商业价值的问题，这就涉及到了大数据和人工智能。大数据和人工智能之间存...
- ## [独家：中国电信提出省公司重新分四类 打破南北方分类](http://mp.weixin.qq.com/s?src=11&timestamp=1587605406&ver=2295&signature=d8O2IJnfllhCtWcI8l2h7mbcrjVZUyaBa*WwNYer6iziGHu2QgHmunamBbJVg-*Shyhyrg-rSFn*QCLW*ClVr0BznJFAbHa9pTf2YyIEbCGqz4l3RfWQGFJZAvdaJ60u&new=1)
- > 运营商财经网 吴碧慧/文 近日，知情人士向运营商财经网独家透露，中国电信为了持续完善市场化资源配置机制，不仅强化市场导向，还将优化省公司分类，打破南北方分类方式，提出“分四类”。如何强化市场导向？据...
- ## [眼球追踪在5G+XR场景中的新趋势：专访七鑫易维XR业务部总经理路伟成](http://mp.weixin.qq.com/s?src=11&timestamp=1587605406&ver=2295&signature=ntgDtjgXfd-C*o82qJeaSdf4aephHo7tHqDESmqcr3SOlF7wYPhgdRnQjuK9-Q2wgENUzDt9oZh6KO*gxbIYS2xJRqvUEYxjbotOG-oTZiqLMmWEQc5t5nWIhN1YLCgR&new=1)
+ ## [眼球追踪在5G+XR场景中的新趋势：专访七鑫易维XR业务部总经理路伟成](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=ntgDtjgXfd-C*o82qJeaSdf4aephHo7tHqDESmqcr3T7XeJ6DftUYyIpmmpb0HyOZdpbM7ttVQcDXsLQwSAEhTEIFnZBYIEmjXCEfHg*FlKrbAkETlwmThAs2iaEmivv&new=1)
  > 来源｜93913作者｜丹哥说VR在春意盎然的4月，我来到七鑫易维在北京的新办公室，采访了七鑫易维XR业务部总经理路伟成。作为国内眼球追踪技术的领军企业，七鑫易维不仅在今年CES期间亮相了多款VR/AR眼球追踪集成与...
- ## [5G小基站射频测试网络研讨会回放](http://mp.weixin.qq.com/s?src=11&timestamp=1587605406&ver=2295&signature=MdQDipeAoVQBtU0dqHKBnJRZh5d5pPlEavosou9J7WCCOOaUg1X4v6WG2tcj7Xsno67HLSG7lqhhNZjnLBO9X5lJDe-xGhtjzR9E-9fX5p0-0pbhZ6LnNWNdnOTgEpO4&new=1)
+ ## [独家：中国电信提出省公司重新分四类 打破南北方分类](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=d8O2IJnfllhCtWcI8l2h7mbcrjVZUyaBa*WwNYer6ixF68GQDv5WkJTKKwd-5TxMyVs6H3hNnVzcbFSyrizPPBP9To*FbekF7VG0*xoVBM9fgvMd63qMKWqjfJOPt3PT&new=1)
+ > 运营商财经网 吴碧慧/文 近日，知情人士向运营商财经网独家透露，中国电信为了持续完善市场化资源配置机制，不仅强化市场导向，还将优化省公司分类，打破南北方分类方式，提出“分四类”。如何强化市场导向？据...
+ ## [中国联通Q1服务收入683亿元：净利润31.66亿，环比劲增110%](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=g6MWfaAg0qqJXlQAN6UQ*PdzIDdbMSroLTi*5DYvZwVcY7bErmUBsN7RvZfhc7K5vVl5spxQlhPzKpKyUXm-dNFMVwFyz4iYgyH1GLZebHEiZgF41iwnmisUvqiMeIUs&new=1)
+ > 今天，中国联通发布了2020年第一季度主要财务与运营数据。期内，中国联通整体服务收入为683.07亿元，比去年同期上升2.3%。其中，移动服务收入为377.49亿元，比去年同期下降4.1%；固网宽带接入收入实现止跌回升，...
+ ## [大数据与人工智能应用的7个常见误区](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=ReG5LIzGvGJ37O38DahOkGDcsn3eYK4hFErYUK*w-jnzJkY1hHNM2xn-WF6x9zqSX64750WusMUW0H888QckQV-ksoEY6KQZH5gwSavda*UFm8bzL2CAHACYftF5X2K0&new=1)
+ > 关键讯息，D1时间送达！随着越来越多的组织采用大数据技术处理大量、快速、多变的信息资产，通常很快就会面临如何从中有效地获得洞察力和商业价值的问题，这就涉及到了大数据和人工智能。大数据和人工智能之间存...
+ ## [5G小基站射频测试网络研讨会回放](http://mp.weixin.qq.com/s?src=11&timestamp=1587614402&ver=2295&signature=MdQDipeAoVQBtU0dqHKBnJRZh5d5pPlEavosou9J7WAAT261b1VXx38XFlg4P6UmzpWbwIdxhLYCW19dzGtQplBZDv7SC7z-5h8ZF9nCjqKtUAs7vuYCZtSmuvgjkQJD&new=1)
  > O-RAN联盟由中国移动、美国AT&amp;T、德国电信、日本NTT DOCOMO,和法国Orange五家运营商于2018成立，其愿景是打造“开放”“开源”与“智能”的高灵活、低成本无线网络。2019年底，中国三大运营商联合成立了开放无线...
 # IT 技术 
  ## [能够装在U盘上的五大Linux发行版](http://os.51cto.com/art/202004/615037.htm)
  > 能够装在U盘上的五大Linux发行版
  ## [一个“锁表”损失800万，运维被判5年半](http://news.51cto.com/art/202004/615044.htm)
  > 一个“锁表”损失800万，运维被判5年半
+ ## [视频会议太无聊？换张爱因斯坦的脸替你开会如何？](http://news.51cto.com/art/202004/615079.htm)
+ > 视频会议太无聊？换张爱因斯坦的脸替你开会如何？
  ## [如何在Linux上安装Gradle构建工具以实现自动构建？](http://os.51cto.com/art/202004/615045.htm)
  > 如何在Linux上安装Gradle构建工具以实现自动构建？
- ## [REST API设计优秀实践之参数与查询的使用](http://developer.51cto.com/art/202004/614845.htm)
- > REST API设计优秀实践之参数与查询的使用
- ## [不要为了“分库分表”而“分库分表”](http://database.51cto.com/art/202004/614942.htm)
- > 不要为了“分库分表”而“分库分表”
- ## [自动驾驶江湖浮沉录：泡沫退去以后](http://ai.51cto.com/art/202004/614929.htm)
- > 自动驾驶江湖浮沉录：泡沫退去以后
- ## [隔离太无聊？每天一个数据科学项目，数据集都准备好了！](http://zhuanlan.51cto.com/art/202004/614917.htm)
- > 隔离太无聊？每天一个数据科学项目，数据集都准备好了！
- ## [玩转GitHub！7个实用工具，打造完全不同的GitHub](http://os.51cto.com/art/202004/614930.htm)
- > 玩转GitHub！7个实用工具，打造完全不同的GitHub
- ## [AI能否缓解旅行业的困境？](http://ai.51cto.com/art/202004/615058.htm)
- > 目前，相信很多企业可能都认为自己的前景比几个月前所想的更加不确定。冠状病毒引发的担忧导致油价崩盘，经
- ## [全国首个！北京将推广电子劳动合同](http://www.cioage.com/art/202004/615057.htm)
- > 据北京日报报道，北京市人力资源和社会保障局发布，将在北京市推广使用电子劳动合同。同时，北京市还将结合
- ## [特斯拉和宝马利用区块链引领供应链复兴](http://blockchain.51cto.com/art/202004/615055.htm)
- > 越来越多的企业为了改善供应链生产流程而转投区块链，其中有两个非常重要的名字。宝马在过去的一周里发布了
- ## [医院5G建网十大关注点权威解读：“新基建”下“一网两用”推动5G智慧医疗加速发展](http://www.cioage.com/art/202004/615054.htm)
- > 当前国内新冠肺炎疫情整体趋于好转，但抗击疫情的战役远远还没有结束。5G网络一网两用，兼顾社会消费需求和
- ## [美国防部反对卫星通信公司部署5G网](http://news.51cto.com/art/202004/615053.htm)
- > 美国当地时间4月20日，美国联邦通信委员会(FCC)同意了Ligado在全美部署低功耗5G网络，但该项决定遭到了美国
- ## [风口浪尖的视频会议No.1，背后折射的安全问题让人深思](http://netsecurity.51cto.com/art/202004/615052.htm)
- > 很不幸，作为疫情期间使用量和股价齐飞的优秀代表，Zoom关于安全隐私方面的保护措施受到了各大媒体的口诛笔
- ## [北漂8年的程序员，终于在疫情之下决定撤退老家了](http://zhuanlan.51cto.com/art/202004/615051.htm)
- > 最近突然在微信上和我说，他准备撤退回老家了。然后我给他发了个语音，聊了很久，最终我还是支持了他的决定
- ## [美国众议院监督委员会线上会议因使用 Zoom 会议客户端导致 3 次被攻击打断](http://netsecurity.51cto.com/art/202004/615048.htm)
- > 一封内部信件显示，美国众议院监督委员会的一次线上会议是Zoom攻击的最新受害者，该会议被不请自来的与会者
- ## [网络设备与协议之协议篇](http://network.51cto.com/art/202004/615047.htm)
- > 通过本文的学习，相信你可以对 本机 IP 地址、子网掩码的配置，本机 MAC 地址，目的机器 IP 地址，其它机器
- ## [设计大神发布 Windows 20 概念视频，这才是用户所需要的操作系统？](http://os.51cto.com/art/202004/615049.htm)
- > 概念设计爱好者 Kamer Kaan Avdan 在 YouTube 上发布了一个 Windows 20 概念视频。此前，其已相继发布过 Wi
+ ## [百度反腐9年处理119人，互联网大厂的“锦衣卫”](http://news.51cto.com/art/202004/615021.htm)
+ > 百度反腐9年处理119人，互联网大厂的“锦衣卫”
+ ## [对于2020年网络安全发展的11个预测](http://netsecurity.51cto.com/art/202004/615068.htm)
+ > 对于2020年网络安全发展的11个预测
+ ## [我从新冠数据里学到的四个数据科学基础知识](http://zhuanlan.51cto.com/art/202004/615015.htm)
+ > 我从新冠数据里学到的四个数据科学基础知识
+ ## [精益求精！如何让你的Python项目从自动化中受益](http://developer.51cto.com/art/202004/615033.htm)
+ > 精益求精！如何让你的Python项目从自动化中受益
+ ## [有效解决 MySQL 行锁等待超时问题](http://database.51cto.com/art/202004/615092.htm)
+ > 本文仅介绍如何有效解决行锁等待超时，因为大多数项目都是此类错误，元数据锁等待超时则不涉及讲解。
+ ## [自学编程的 6 个致命误区](http://news.51cto.com/art/202004/615091.htm)
+ > 本篇文章来和大家聊聊自学编程中的一些误区――这是我在 B 站上看了羊哥的一期视频后有感而发的文章。因为
+ ## [Redis 分布式锁的 5个坑，真是又大又深](http://stor.51cto.com/art/202004/615093.htm)
+ > 最近项目上线的频率颇高，连着几天加班熬夜，身体有点吃不消精神也有些萎靡，无奈业务方催的紧，工期就在眼
+ ## [前端需要了解的9种设计模式](http://developer.51cto.com/art/202004/615087.htm)
+ > 设计模式是对软件设计开发过程中反复出现的某类问题的通用解决方案。设计模式更多的是指导思想和方法论，而
+ ## [《CS：GO》和《军团要塞2》源代码泄漏，Valve：稳住，别慌](http://netsecurity.51cto.com/art/202004/615084.htm)
+ > 面对《CS：GO》（《反恐精英：全球攻势》）和《TF2》（《军团要塞2》）源代码泄露事件引发的安全担忧，Valv
+ ## [新基建带热百亿5G光模块市场 高端领域亟待提升国产率](http://network.51cto.com/art/202004/615082.htm)
+ > 受益于5G网络建设以及数据中心市场需求回暖，光模块行业迎来了高光时刻也为国产光模块企业带来宝贵发展机遇
+ ## [远程工作需求增长需要解决统一通信基础设施面临的问题](http://network.51cto.com/art/202004/615081.htm)
+ > 统一通信(UC)基础设施面临的问题使远程工作者很难连接到他们公司的网络，混合云统一通信(UC)可能是解决这些
+ ## [小心点，别被当成垃圾回收了。](http://developer.51cto.com/art/202004/615086.htm)
+ > 我们说的不同的引用类型其实都是逻辑上的，而对于虚拟机来说，主要体现的是对象的不同的可达性(reachable)
+ ## [一文带你解读2019年工业机器人发展行业现状！](http://ai.51cto.com/art/202004/615080.htm)
+ > 根据国际机器人联合会(IFR)新发布的《全球机器人2019――工业机器人》报告显示，2018年全球工业机器人出货
+ ## [需要认识部署不安全容器的影响](http://cloud.51cto.com/art/202004/615075.htm)
+ > 已经部署或正在部署容器技术的企业会受到容器托管应用程序缺乏安全性的影响。这对许多企业将容器纳入数据中
  ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
  > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
  ## [阿里面试，问了B+树，这个回答让我通过了](https://blog.csdn.net/JAck_chen0309/article/details/105268976)
@@ -178,49 +182,73 @@ categories: IT NEWS
  ## [数据库激荡 40 年，深入解析 PostgreSQL、NewSQL 演进历程](https://blog.csdn.net/csdnnews/article/details/105697474)
  > 作者 | 张秋剑，天云数据上海副总经理责编 | 唐小引头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）近日，有传闻 PostgreSQL 会发布 13 版...
 # 人工智能 
- ## [【蘑菇街裁员回应】覆巢之下无完卵](https://blog.csdn.net/qq_35190492/article/details/105627637)
- > 
- ## [一篇文章揭穿创业公司的套路](https://blog.csdn.net/qq175023117/article/details/105558534)
- > 一篇文章揭穿创业公司的套路
- ## [提高万恶的KPI，切忌要避开这六个低效的编程习惯](https://blog.csdn.net/xuyue995277/article/details/105657506)
- > 
- ## [周立齐应该被追捧吗？|莫将恶趣味当做真性情](https://blog.csdn.net/weixin_43691058/article/details/105613479)
- > 周立齐应该被追捧吗？|莫将恶趣味当做真性情
- ## [为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？](https://blog.csdn.net/qq_33589510/article/details/105661782)
- > 为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？
- ## [从联想昭阳到MacBook Pro，致我的那些败家玩意——电脑](https://blog.csdn.net/qing_gee/article/details/105649711)
- > 
- ## [第一次作为公司裁员的幸存者](https://blog.csdn.net/qq_20614905/article/details/105594444)
- > 第一次作为公司裁员的幸存者
- ## [将职业和兴趣结合起来，于是“胖了么”诞生了!](https://blog.csdn.net/qq_33591903/article/details/105607712)
- > 将职业和兴趣结合起来，于是“胖了么”诞生了!
- ## [面试官：来，这位精神小伙，简简单单写个快速排序吧](https://blog.csdn.net/weixin_41896265/article/details/105649237)
- > 
- ## [十位博客专家极力推荐的 谷歌浏览器插件，用过都说好](https://blog.csdn.net/weixin_43570367/article/details/105579153)
- > 
- ## [一场令彼此感动到哭的恋爱](https://blog.csdn.net/Fzidx/article/details/105619721)
- > 一场令彼此感动到哭的恋爱
- ## [Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？](https://blog.csdn.net/loongggdroid/article/details/105570597)
- > Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [很多程序员被英语搞的死去活来，热心的我连夜找到这份专为程序员编写的英语指南！](https://blog.csdn.net/u013486414/article/details/105486535)
- > 
- ## [还在为阅读量苦恼么？文章提升10倍曝光的写作技巧](https://blog.csdn.net/CSDNfreshnews/article/details/105633857)
- > 还在为阅读量苦恼么？文章提升10倍曝光的写作技巧
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 # PM 
- ## [四个思维，掌握感知价值方法论！](http://www.woshipm.com/marketing/3750271.html)
- > 本文将以感知价值理论为中心，以让消费者感知到价值为目的，建立一套具备实战性的感知价值方法论，让你读完文章后能用这个框架去解决一些具体的营销问题。去年10月份...
- ## [品牌破圈，必先入圈：一个前提、两个判断、三个原则](http://www.woshipm.com/marketing/3750819.html)
- > 大部分品牌的“破圈”不是品牌方自己的意淫，就是品牌方的一厢情愿。真实情况是：大部分品牌连圈没有，又何来破圈？今天我要拆解一些出圈的人和事，从中发现破圈的规律。...
- ## [Axure函数应用：全局变量的使用，跳转带上手机号](http://www.woshipm.com/rp/3747935.html)
- > 很多时候，产品的一大段文字描述不如一张清晰的原型图来的有效。文章通过一些具体的业务场景，结合Axure实战案例，给大家说明了Axure函数的用法。操作步骤是我在实践...
- ## [做好这5点，助力CRM系统顺利落地](http://www.woshipm.com/pd/3739826.html)
- > CRM系统在上线后，如何有效的推进并落地？本文作者基于自身工作经验，从五方面来对CRM系统落地需要注意的地方进行了总结，与大家分享。众所周知，即使CRM的理念再好，...
- ## [抖音私域流量，如何做好引流与留存？](http://www.woshipm.com/kol/3744782.html)
- > 流量只是手段，内容才是转化的关键点。企业想要做好抖音私域流量的运营，要学会挖掘和制造优质内容，在内容的基础上再做好用户引流与留存。以下为前百度贴吧运营总监@...
- ## [2020年，高薪产品、运营人是如何对抗未知不确定性风险的？](http://www.woshipm.com/it/3742708.html)
- > 如果往前回退三个月，大概没人会想到，今年会迎来一个 “地狱模式”的开局。我们不禁好奇，当大家都陷入困局时，那些优秀的产品、运营前辈们，都在思考和关注什么东西？...
+ ## [中台之路——《黑客帝国》中的矩阵革命](http://www.woshipm.com/pd/3746685.html)
+ > 前文《中台之我不是药神》讲到，阿里和其客户共创了中台。那么中台是在一个什么样的背景下产生的？如何理解中台？企业对中台的需求是什么？中台实现的路径是什么？本文...
+ ## [产品创新方法论：如何抓住创新的尾巴？](http://www.woshipm.com/pd/3749403.html)
+ > 当我们伸手想去抓住创新的时候，发现真的很难，各种要素、土壤都会成为创新的限制。于是创新成了一个政治口号一般的存在，只闻其声难见其行。前几年的媒体喜欢在每年...
+ ## [品牌之源——百年品牌发展简史（1）](http://www.woshipm.com/marketing/3746407.html)
+ > 品牌到底是什么？只有寻找出品牌背后的逻辑，才能对品牌的打造之路有所帮助。20年来，我们经历了互联时代，完成所有现实世界的在线化，重塑了整个人类交流及全球文化...
+ ## [“金三银四”已近尾声，874万人中，你是被筛选掉的那一批吗？](http://www.woshipm.com/online/3752271.html)
+ > 一开年就被关在家里两个月，今年的时间过得似乎格外快。很多人发现，什么都还没做呢，2020年就已经过去了三分之一。而对于应届毕业生和年后打算转岗换工作的这批人来说...
+ ## [Mr. Robot 和他的脸书帝国](http://www.woshipm.com/it/3745248.html)
+ > 脸书变得家喻户晓大概是得益于电影《社交网络》的爆火，影片中一帮大学没毕业的年轻人吃着披萨、喝着啤酒、住着别墅就把公司给搞大了。喂，能不能带上我…1. 脸...
+ ## [网页设计中，如何有效利用负空间？](http://www.woshipm.com/pd/3746709.html)
+ > 许多设计师为了设计一个丰富多彩的网页把产品设计的过于复杂、繁琐，这是犯了一个大错误。如果不是故意的，则应避免创建复杂的接口，而应使用更多空间。空间是Web设计中...
+ ## [产品深思系列（1）：“我该如何更有效执行？”](http://www.woshipm.com/pmd/3746983.html)
+ > 产品经理是需要深度思考的职业，那产品经理该如何更有效地执行？有效执行的本质解，是一套让决策/认知有序化的反馈过滤机制。杨国安先生（“杨三角”的创立者）的极简公...
+ ## [高阶运营和初阶运营有哪些差别？](http://www.woshipm.com/operate/3744877.html)
+ > 高阶运营和初阶运营相比起来，主要的差距就是深度和广度。深度是思考的内核，而广度是运营技术板块的边界。这个话题的由来我的助理和我说，知乎上有个热门问题“高阶...
+ ## [“斑马AI”的前世今生：从发展路径看产品启示](http://www.woshipm.com/evaluating/3741121.html)
+ > 本文主要回顾『斑马AI课的发展历史』，看看它在不同时期，是怎样应对市场环境和竞争，抓住发展机遇的。自打全国各地幼儿园、小学在宣布延期开学以后，笔者的朋友圈成...
+ ## [长文解析：如何成为一个值钱的运营人？](http://www.woshipm.com/zhichang/3744607.html)
+ > 本文以互联网运营人为例，看如何做一个值钱的职场人。工作了几年后，很多人都会面对这样一个问题：辛苦了这么多年，自己还是房车皆无，存款为负，月薪刚过万，每月还...
+ ## [苹果“白菜价”推新机，B站“卖楼”推新游丨每周热点](http://www.chanpin100.com/article/111410)
+ > 一周热点回顾！不容错过！
+ ## [国美难“治”拼多多的“大牌”焦虑](http://www.chanpin100.com/article/111409)
+ > 拼多多以大牌打通“五环内”的战略，因为国美的加入，迎来了一次质的飞跃。
+ ## [【万字长文】如何成为一个值钱的互联网人？](http://www.chanpin100.com/article/111408)
+ > 如何成为一个值钱的互联网人？
+ ## [时间管理——让产品经理工作效率翻倍](http://www.chanpin100.com/article/111407)
+ > 瞎忙和高效的人时间都安排得很满，但是却有本质的区别。瞎忙的人是没有目标和方向的忙碌，整天被外部力量推着赶着，永远有忙不完的活，永远在忙，但是却说不上来忙了些啥。
+ ## [如果没有任何参考，你该如何做中后台产品](http://www.chanpin100.com/article/111406)
+ > 一切不靠谱的时候，只能靠自己
+ ## [用户行为数据分析——实战运营篇](http://www.chanpin100.com/article/111405)
+ > 用户行为数据分析篇章终于开始续写了，前两篇由于一些特殊原因中断......
+ ## [广告投放技巧，提高电商广告的转化率](http://www.chanpin100.com/article/111404)
+ > 古人常说，买卖靠吆喝，电商如果要保持销售规模，同样需要打广告，对于电商行业而言，广告投放是提高销售的有效方法；本文将和大家一起商讨一下关于电商行业的广告投放技巧，提高广告的转化率。
+ ## [2020年十大知识付费平台排名，最全知识付费系统工具测评](http://www.chanpin100.com/article/111402)
+ > 知识付费平台表面上看起来就是平台、作者、用户。但实际上随着知识付费市场逐渐成熟，产业链之间也越发的完善，包含了作者、社交/社群、技术/技术服务平台、平台自带营销功能等等。知识付费工具，就是担任着这样的角色，为知识变现提供专业性的解决方案。
  ## [从企业内部角度，如何提升PM的商业认知？](http://www.chanpin100.com/article/111401)
  > 知己知彼，百战不殆。今天从价值定位、关键成功要素、竞争优势等角度，说一下产品经理应该如何提升商业认知。
 
