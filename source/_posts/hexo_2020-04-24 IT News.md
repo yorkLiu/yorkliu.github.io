@@ -1,22 +1,24 @@
 ---
 title: 2020-04-24 IT News
 copyright: true
-date: 2020-04-24 08:01:25
+date: 2020-04-24 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [运营商“抢登”珠峰仅仅是为了“竞争”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1587686402&ver=2297&signature=cRoi2YrCebJImrfTRUGeYwJxDv3vXd2qqDgGquVqQ7vZaObveZswzw6mD90Pz1u0xyCrKTxWfK3kwI9MtPdwew7Gm60oE6JADi0A*UvFp8ZONdjOTIjlA5tRkN9qfHqW&new=1)
- > 三大运营商这两天都在抢发一个新闻：在世界最高峰——珠穆朗玛峰上进行5G云直播。中国电信宣布，4月13日在珠穆朗玛峰大本营一号营地建成5G基站，开通5G网络，4月14日联合央视频推出5G直播记录珠峰日升日落的24小...
- ## [全球首个自动驾驶混合式仿真测试平台发布!阿里打造，日测800万公里](http://mp.weixin.qq.com/s?src=11&timestamp=1587686402&ver=2297&signature=hH3o5xqZleEujQkSlNjUAoMxjsbFmfsMUDQJFP6dQwkJb3*Bf6Sg45eamVqNH9Mf8OJNLgG4uWGF04GkqxI9zVLLsMrXjlD4DavMEG5eXHKU6q0LpA*WwfsQPzEQ*NXO&new=1)
- > 为了满足规模化、节约化无人驾驶技术，建立仿真平台成为了大多数公司选择的路径，可以预见的是行业又将进入一个快速发展的新轨道。文丨AutoR智驾  子阳仿真测试是达到规模化无人驾驶技术的唯一路径。4月22日，阿...
- ## [《自然》脑机接口新突破 人脑信号转文本准确率达97%](http://mp.weixin.qq.com/s?src=11&timestamp=1587686402&ver=2297&signature=trSFO4i-EZQBjnHS-pdFpVlsRjqIjfWFaUn**CbLv7A0Hyfo50gUe*A92WOAu0SmQfrlxthy*0eh7KGw*4yzRmVtq4kPS*Gi*9X7RcAFQ3JnQRoqlFcMQUO-EANfa3eE&new=1)
- > 来源：网易智能据国外媒体报道，一个由加州大学旧金山分校的研究团队打造的新型人工智能系统可根据人脑信号来生成文本，准确率最高可达97%。亚马逊和谷歌等科技公司打造的虚拟助手相当先进，语音识别能力比起几...
- ## [Netflix拟发售10亿美元债券丨Zoom日活跃用户超过3亿人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1587686402&ver=2297&signature=jpC8789-o-F2jiCS8-WlUvFd63G*jvKxLUK9yWhvPt4NNvUlBZyluxttRFBMTQP70U27Qtvpj68q6MZSF5IOeFDa-T8w*-82Y89aXUlb8CmQwX9fCCrw3WpCYUM7oE8m&new=1)
- > 4月23日丨周四【Do说】编辑 | 赵艾虎Netflix拟发售10亿美元债券，用于内容收购及制作等据国外媒体报道，流媒体视频服务提供商Netflix今日宣布，将发售以美元和欧元计价的两个系列的高级无担保债券，总计金额约为...
- ## [北邮乔秀全：5G助力VR/AR塑造虚实融合的沉浸式新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1587686402&ver=2297&signature=IfI9ndnk9bL62Rs4*voJaY1txfcENv50SVcmGSL9pUYn48ZXz0gqneBvjQHLIgsg6Dkb2Yc0Oe6tvBoD0fqiAAJwXbTW*QLJlagClPgHDkPK8BXBqptlKrRLSjxILUQD&new=1)
+ ## [北邮乔秀全：5G助力VR/AR塑造虚实融合的沉浸式新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1587690001&ver=2297&signature=IfI9ndnk9bL62Rs4*voJaY1txfcENv50SVcmGSL9pUau*PsAXK*fI44PROSnAKIRMZeybPde0rwLssmStqN0fXyd5EEOEAAbrAaRTWByM7VmRQYjEjADSbbxuzEVnF7V&new=1)
  > 小青｜编辑本文来源：新华网（凌纪伟）几年前，VR/AR曾经大热，成为消费电子的一大亮点，但受限于终端笨重昂贵、网络带宽和时延导致的用户体验不佳，使VR/AR的发展陷入困境。随着5G商用，带宽和时延的短板得以弥...
+ ## [全球首个自动驾驶混合式仿真测试平台发布!阿里打造，日测800万公里](http://mp.weixin.qq.com/s?src=11&timestamp=1587690001&ver=2297&signature=hH3o5xqZleEujQkSlNjUAoMxjsbFmfsMUDQJFP6dQwnAH7iUtYY7vZc7BmlcFzCdTVViUemC6RGQvoFKie5pbNB2QGBRAeBZrXjHwstChbY--PG3a67JRKKE7-udwWPR&new=1)
+ > 为了满足规模化、节约化无人驾驶技术，建立仿真平台成为了大多数公司选择的路径，可以预见的是行业又将进入一个快速发展的新轨道。文丨AutoR智驾  子阳仿真测试是达到规模化无人驾驶技术的唯一路径。4月22日，阿...
+ ## [《自然》脑机接口新突破 人脑信号转文本准确率达97%](http://mp.weixin.qq.com/s?src=11&timestamp=1587690001&ver=2297&signature=trSFO4i-EZQBjnHS-pdFpVlsRjqIjfWFaUn**CbLv7Dy9HBs4X8w77h04z-RpsbOBZ97LNtIHDBoKXryTRvaI2zNe2yXN3nwMlcuWrerCWkLkbIQLnXrv7PPoLcgWfVr&new=1)
+ > 来源：网易智能据国外媒体报道，一个由加州大学旧金山分校的研究团队打造的新型人工智能系统可根据人脑信号来生成文本，准确率最高可达97%。亚马逊和谷歌等科技公司打造的虚拟助手相当先进，语音识别能力比起几...
+ ## [Netflix拟发售10亿美元债券丨Zoom日活跃用户超过3亿人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1587690001&ver=2297&signature=jpC8789-o-F2jiCS8-WlUvFd63G*jvKxLUK9yWhvPt6-eP4h3jCInbZIwJ0vkwSwEQy8b8swIKopm*RQj3yoLS5zu9vhFsgCPEVa8hXIy5bAOtPu9TwREdrAXp6HrVoR&new=1)
+ > 4月23日丨周四【Do说】编辑 | 赵艾虎Netflix拟发售10亿美元债券，用于内容收购及制作等据国外媒体报道，流媒体视频服务提供商Netflix今日宣布，将发售以美元和欧元计价的两个系列的高级无担保债券，总计金额约为...
+ ## [运营商“抢登”珠峰仅仅是为了“竞争”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1587690001&ver=2297&signature=cRoi2YrCebJImrfTRUGeYwJxDv3vXd2qqDgGquVqQ7vHgfI1i6Inn9gyJ7cyDWtudiILB8tKhkrRGAWe8XhmwQTjXhDB5SKOEhSXwKACi28E38agXoqfPIukdW0NwV2G&new=1)
+ > 三大运营商这两天都在抢发一个新闻：在世界最高峰——珠穆朗玛峰上进行5G云直播。中国电信宣布，4月13日在珠穆朗玛峰大本营一号营地建成5G基站，开通5G网络，4月14日联合央视频推出5G直播记录珠峰日升日落的24小...
 # IT 技术 
+ ## [脑壳疼！代码中那么多“烦人”的if else](http://developer.51cto.com/art/202004/615141.htm)
+ > 脑壳疼！代码中那么多“烦人”的if else
  ## [新软件可流式传输应用程序，以节省你手机上的空间！](http://mobile.51cto.com/app-show-615129.htm)
  > 新软件可流式传输应用程序，以节省你手机上的空间！
  ## [能够装在U盘上的五大Linux发行版](http://os.51cto.com/art/202004/615037.htm)
@@ -31,78 +33,106 @@ categories: IT NEWS
  > 百度反腐9年处理119人，互联网大厂的“锦衣卫”
  ## [对于2020年网络安全发展的11个预测](http://netsecurity.51cto.com/art/202004/615068.htm)
  > 对于2020年网络安全发展的11个预测
- ## [我从新冠数据里学到的四个数据科学基础知识](http://zhuanlan.51cto.com/art/202004/615015.htm)
- > 我从新冠数据里学到的四个数据科学基础知识
+ ## [面试就像谈恋爱，“一见钟情”很重要！](http://zhuanlan.51cto.com/art/202004/615143.htm)
+ > 毕业5年后走上了技术管理岗位，后面5年多大概面试过600多位求职者，包括开发工程师、运维工程师、测试工程
+ ## [SSDLC实践：安全设计评审](http://netsecurity.51cto.com/art/202004/615142.htm)
+ > 软件设计处于软件工程中的核心地位，开发不管采用何种开发模式，都离不开软件设计。当需求分析完成后进入设
+ ## [那些让开发如虎添翼的在线工具](http://developer.51cto.com/art/202004/615140.htm)
+ > 网上可以找到前端开发社区贡献的大量工具，这篇文章列出了我最喜欢的一些工具，这些工具给我的工作带来了许
+ ## [有了这篇文章， Python 中的编码不再是噩梦](http://developer.51cto.com/art/202004/615139.htm)
+ > 今天我把大家在 Python 上会遇到的一些编码问题都讲清楚了，以后你可以不用再 Google，收藏这篇文章就行。
  ## [如何为Linux打包Python应用](http://os.51cto.com/art/202004/615138.htm)
  > 在本文中，我将以构建一个包含 HTTPie 工具的包为例来解释如何使用它，以便在无需激活虚拟环境的情况下从命
- ## [面试官喜欢问的 设计模式之观察者模式](https://blog.csdn.net/weixin_43570367/article/details/104954255)
- > 
  ## [一篇文章揭穿创业公司的套路](https://blog.csdn.net/qq175023117/article/details/105558534)
  > 一篇文章揭穿创业公司的套路
  ## [Linux环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://blog.csdn.net/wangshuaiwsws95/article/details/105675269)
  > 
+ ## [面试官喜欢问的 设计模式之观察者模式](https://blog.csdn.net/weixin_43570367/article/details/104954255)
+ > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
+ > 
  ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
  > 
+ ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
+ > 终于，月薪过5万了！
  ## [为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？](https://blog.csdn.net/qq_33589510/article/details/105661782)
  > 为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？
- ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
- > 
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
- > 
  ## [你是不是很反感，这四类同事？](https://blog.csdn.net/shenjian58/article/details/105630389)
  > 你是不是很反感，这四类同事？
+ ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
+ > 
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
+ ## [程序员写书到底赚钱吗](https://blog.csdn.net/u012702547/article/details/105064177)
  > 
  ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
  > 
- ## [阿里程序员不小心把服务器CPU打到100%，淡定展示教科书排查过程](https://blog.csdn.net/qq_35190492/article/details/105278061)
+ ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
  > 
- ## [Python10行以内代码能有什么高端操作](https://blog.csdn.net/ZackSock/article/details/105193651)
- > 
+ ## [NB-IoT 连接数过亿，开发者如何抓住新机遇？](https://blog.csdn.net/csdnnews/article/details/105721653)
+ > 作者 |伍杏玲出品 | CSDN（ID：CSDNnews）NB-IoT 作为物联网领域新兴的技术，支持低功耗设备在广域网的蜂窝数据连接，还可支持待机时间长、对网络连接要求较高设备的高效...
  ## [华为云跻身Gartner报告中国三强，预示云计算市场的未来变局？](https://blog.csdn.net/csdnnews/article/details/105721655)
  > Gartner Group是全球最具权威的IT市场研究与顾问咨询公司，擅长提供市场与技术趋势判断，因其评选苛刻性在业界拥有极高的知名度。近日，Gartner发布最新2019年IT服务市场...
+ ## [明晚7点，中科院专家带你走进智能计算系统的世界](https://blog.csdn.net/csdnnews/article/details/105721656)
+ > ‍‍随着智能产业的飞速发展，社会迫切需要大量高水平的人工智能人才。在这一领域中，对于智能计算系统相关人才的培养则是重中之重。作为智能的核心物质载体，智能计算系统的发展，催生大量智能计算系...
+ ## [黑客用上机器学习你慌不慌？这 7 种窃取数据的新手段快认识一下](https://blog.csdn.net/csdnnews/article/details/105721657)
+ > 作者 | IrrfanAk译者 | 天道酬勤，责编 |Carol来源 | AI科技大本营（ID:rgznai100）机器学习以分析大型数据集和模式识别的能力而闻名。它基本上属于人工智能...
+ ## [从 Ops 到 NoOps，阿里文娱智能运维的关键：自动化应用容量管理](https://blog.csdn.net/csdnnews/article/details/105721650)
+ > 作者| 阿里文娱高级开发工程师 金呈责编 | 夕颜出品 | CSDN（ID：CSDNnews）概述1. 背景随着业务形态发展，更多的生产力集中到业务创新，这背后要求研发能力的不断升级。...
+ ## [“新基建”提速，数字化硬核人才，你们准备好了吗？](https://blog.csdn.net/csdnnews/article/details/105721652)
+ > 这是最坏的时代，也是最好的时代新年伊始的突发疫情让很多人感慨2020年仿佛就是最坏的时代在现有环境下如何正确就业？这一灵魂拷问也让在校的大学生们一脸迷茫对于未来网络技术从业者们来说除了...
  ## [Rust 多久更新一次？](https://blog.csdn.net/csdnnews/article/details/105721654)
  > 作者 |STEVE KLABNIK译者 |Arvin，责编 | 夕颜头图 | CSDN 下载自视觉中国出品 | CSDN（ID：CSDNnews）最近我一直在思考Rust的变更频率。...
  ## [5分钟！就能学会以太坊 JSON API 基础知识！](https://blog.csdn.net/csdnnews/article/details/105721659)
  > 作者 | Nicolas Schapeler责编 | Carol出品 | 区块链大本营（ID：blockchain_camp）前几天，作者遇到了这样一种情况，需要在一个让web3.py...
+ ## [32岁被裁补偿N+2：“感谢裁我，让我翻倍！” 网友：求同款被裁！](https://blog.csdn.net/csdnnews/article/details/105721646)
+ > 2020年的冬天，“冷”的有些频繁。最近浏览一则新闻，19年12月19日，《马蜂窝被曝裁员40% UGC模式变现难？》爆火，据悉马蜂窝将裁员40%，交易中心成了“重灾区”，赔偿N+2，留...
+ ## [00 后程序员征战国际，如何拿下计算机领域的奥林匹克？](https://blog.csdn.net/csdnnews/article/details/105721648)
+ > 一个竞赛萌新，如何才能成为世界编程冠军？普通高校学生如何突破 985、211 高校重围？学编程的青少年该如何规划升学路径？打竞赛对于拿大厂 Offer 有多少帮助……作者 | 唐小引头图...
+ ## [百度在美国遭集体起诉；iPhone 11 成苹果最畅销机型；OpenSSL 曝高危漏洞 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/105721649)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
+ ## [吴恩达的公司，发布了一款社交距离警告工具](https://blog.csdn.net/csdnnews/article/details/105721651)
+ > 作者 | 神经小刀本文经授权转自HyperAI超神经（ID: HyperAI）在公共场合保持安全距离，是预防病毒传播的一个通用做法。WHO 倡议人与人应保持至少 3 英尺（0.9 米）的...
 # 人工智能 
- ## [Android | 教你如何在安卓上实现二代身份证识别，一键实名认证](https://blog.csdn.net/weixin_44708240/article/details/105658820)
- > Android | 教你如何在安卓上实现二代身份证识别，一键实名认证
- ## [Android 文件读写最全解析](https://blog.csdn.net/huweiliyi/article/details/105658384)
+ ## [微信小程序中这么简单的设置页面背景图及字体颜色的方法，你还不会？](https://blog.csdn.net/weixin_43730105/article/details/105661866)
+ > 微信小程序中这么简单的设置页面背景图及字体颜色的方法，你还不会？
+ ## [前端架构演进及主流UI](https://blog.csdn.net/iME_cho/article/details/105654633)
  > 
- ## [android-7 面试知识点](https://blog.csdn.net/chentaishan/article/details/105653466)
- > android-7 面试知识点
- ## [Android  系统启动流分析 & Zygote启动流程分析](https://blog.csdn.net/ChaoLi_Chen/article/details/105681246)
- > Android  系统启动流分析 &amp; Zygote启动流程分析
- ## [苹果页面设计规范](https://blog.csdn.net/qq_47168970/article/details/105692410)
- > 苹果页面设计规范
- ## [Android Studio如何去除界面默认标题栏](https://blog.csdn.net/qq_42257666/article/details/105676349)
- > Android Studio如何去除界面默认标题栏
- ## [Android---Service（生命周期、启动方式、服务通信、实战演练）](https://blog.csdn.net/weixin_44949135/article/details/105643898)
+ ## [恕我直言！你不是真的懂js中的作用域！](https://blog.csdn.net/weixin_42878211/article/details/105670790)
+ > 恕我直言！你不是真的懂js中的作用域！
+ ## [电商项目实战第五节: CSS3+HTML5+JS 设计案例【考拉海购网站】之【商品栏及右侧垂直导航】](https://blog.csdn.net/qq_41136216/article/details/105633285)
  > 
- ## [03_android集成zxing并自定义扫码界面](https://blog.csdn.net/gzx110304/article/details/105672673)
+ ## [ES6数组方法find()、findIndex()的总结](https://blog.csdn.net/weixin_42881768/article/details/105678941)
  > 
- ## [android Unable to resolve dependency for: 编译异常](https://blog.csdn.net/ggy_yao/article/details/105684447)
- > android Unable to resolve dependency for: 编译异常
- ## [Android studio 顶部状态栏 的样式 顶部小刘海是否显示 颜色代码 颜色转换](https://blog.csdn.net/cui_xiaoyu/article/details/105653139)
- > Android studio 顶部状态栏 的样式 顶部小刘海是否显示 颜色代码 颜色转换
- ## [Android | 教你如何在安卓上实现通用卡证识别，一键各种卡绑定](https://blog.csdn.net/weixin_44708240/article/details/105674349)
- > Android | 教你如何在安卓上实现通用卡证识别，一键各种卡绑定
- ## [Android个人手机通讯录开发详解](https://blog.csdn.net/m0_46153949/article/details/105681063)
+ ## [LeetCode 916. 单词子集（计数）](https://blog.csdn.net/qq_21201267/article/details/105681007)
+ > LeetCode 916. 单词子集（计数）
+ ## [Vue学习之旅Part8：Vue全局组件和私有组件的创建及组件切换动画](https://blog.csdn.net/Piconjo/article/details/105651289)
+ > Vue学习之旅Part8：Vue全局组件和私有组件的创建及组件切换动画
+ ## [HTML5九宫格拼图小游戏](https://blog.csdn.net/daddykei/article/details/105662349)
+ > HTML5九宫格拼图小游戏
+ ## [web前端开发笔记整理（二）](https://blog.csdn.net/Miracle1203/article/details/105564744)
  > 
- ## [安卓作业----慕课移动应用开发作业14之自定义Dialog对话框](https://blog.csdn.net/baidu_41860619/article/details/105679001)
+ ## [营销号视频生成器（Python）](https://blog.csdn.net/qq_37236745/article/details/105619051)
  > 
- ## [深入 Google Android 6.0/7.0/8.0/9.0 之权限适配详解](https://blog.csdn.net/qq_29769851/article/details/105663758)
- > 
- ## [Android 动画之帧动画用法详解](https://blog.csdn.net/huweiliyi/article/details/105669298)
- > 
+ ## [如何在Vue的父子组件之间传递数据和调用方法](https://blog.csdn.net/Piconjo/article/details/105670486)
+ > 如何在Vue的父子组件之间传递数据和调用方法
+ ## [2020最新版前端学习路线图](https://blog.csdn.net/m0_46153949/article/details/105613328)
+ > 2020最新版前端学习路线图
+ ## [周末休息，用原生JS和CSS给女朋友做了个弹弹球小游戏，她沉迷其中、无法自拔](https://blog.csdn.net/weixin_42881768/article/details/105621787)
+ > 周末休息，用原生JS和CSS给女朋友做了个弹弹球小游戏，她沉迷其中、无法自拔
+ ## [Webpack4.0 基本操作 小白篇](https://blog.csdn.net/qq_43098197/article/details/105674104)
+ > Webpack4.0 基本操作 小白篇
+ ## [利用原生JS写成小游戏——欢乐水果机](https://blog.csdn.net/qq_45847045/article/details/105679819)
+ > 利用原生JS写成小游戏——欢乐水果机
 # PM 
+ ## [招聘产品的商业化变现（1）：刷新](http://www.woshipm.com/pmd/3753921.html)
+ > 产品发展到一定阶段，商业化是不可回避的问题。文章对招聘行业可以商业化变现的产品进行了梳理的分析，与大家分享。商业化产品经理，核心KPI是收入。如何在（尽量）不...
+ ## [火热报名 | 2020年想要做产品经理，你要学会“偷跑”！](http://www.woshipm.com/online/3757087.html)
+ > 最近全国大部分企业已经正式复工，我发现有很多新鲜血液加入到「产品经理」这个行业中来。但是相信很多小伙伴在转岗入行的道路上，都会遇到这个问题：产品经理这个岗位...
  ## [产品经理周报第 108 期｜抖音上线视频通话功能；京东快递落地高端商务楼宇一站式快递服务](http://www.woshipm.com/it/3755374.html)
  > 早上好呀，又到每周周五的时候啦最近天气越来越热了，大家出门在外的时候，不要因为热而不好好戴口罩哦最近几周的产品新闻里，腾讯、阿里、字节等不断更新产品的新功...
  ## [入行产品经理，你需要掌握这十八般武艺](http://www.chanpin100.com/article/111422)
