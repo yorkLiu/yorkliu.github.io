@@ -1,7 +1,7 @@
 ---
 title: 2020-04-24 IT News
 copyright: true
-date: 2020-04-24 10:01:26
+date: 2020-04-24 12:01:20
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -82,55 +82,85 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [全球首个自动驾驶混合式仿真测试平台发布!阿里打造，日测800万公里](http://mp.weixin.qq.com/s?src=11&timestamp=1587693602&ver=2297&signature=hH3o5xqZleEujQkSlNjUAoMxjsbFmfsMUDQJFP6dQwnAH7iUtYY7vZc7BmlcFzCdVlZCclCwtDgCOI4r*7mlpNdRQ2Em3WF60*SRka5eGoeZr83VPFTFX8*O3FOVJVW8&new=1)
- > 为了满足规模化、节约化无人驾驶技术，建立仿真平台成为了大多数公司选择的路径，可以预见的是行业又将进入一个快速发展的新轨道。文丨AutoR智驾  子阳仿真测试是达到规模化无人驾驶技术的唯一路径。4月22日，阿...
- ## [北邮乔秀全：5G助力VR/AR塑造虚实融合的沉浸式新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1587693602&ver=2297&signature=IfI9ndnk9bL62Rs4*voJaY1txfcENv50SVcmGSL9pUau*PsAXK*fI44PROSnAKIRDuijNxIMV4kVGFm2P9WMy-Ed5DRzBH4*pgeRgV8SqRgN-P2RRpmjWsgxTHzoPa3Q&new=1)
- > 小青｜编辑本文来源：新华网（凌纪伟）几年前，VR/AR曾经大热，成为消费电子的一大亮点，但受限于终端笨重昂贵、网络带宽和时延导致的用户体验不佳，使VR/AR的发展陷入困境。随着5G商用，带宽和时延的短板得以弥...
- ## [Netflix拟发售10亿美元债券丨Zoom日活跃用户超过3亿人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1587693602&ver=2297&signature=jpC8789-o-F2jiCS8-WlUvFd63G*jvKxLUK9yWhvPt6-eP4h3jCInbZIwJ0vkwSwUcnuHxw6ThBWxp-a3al1RbOkajBgjqG2*glUaKqobgQl5BuDafF2dD8Qqgmp0jyt&new=1)
+ ## [Netflix拟发售10亿美元债券丨Zoom日活跃用户超过3亿人\[Do说\]](http://mp.weixin.qq.com/s?src=11&timestamp=1587700801&ver=2297&signature=jpC8789-o-F2jiCS8-WlUvFd63G*jvKxLUK9yWhvPt5vgoPNRyhW3JIMR8AdB*Im6noxTJPskIYQ-bFQ9SpFhA5d9OoX3noPzMrJi30EcIpImvu95ZdXYOEI*kbTLuH9&new=1)
  > 4月23日丨周四【Do说】编辑 | 赵艾虎Netflix拟发售10亿美元债券，用于内容收购及制作等据国外媒体报道，流媒体视频服务提供商Netflix今日宣布，将发售以美元和欧元计价的两个系列的高级无担保债券，总计金额约为...
- ## [关注|Facebook 57亿美元入股Jio 押注发展中市场](http://mp.weixin.qq.com/s?src=11&timestamp=1587693602&ver=2297&signature=2gCrjOVxBYNY3WrtQbUjS9TfoP90zvusHyaymD9GP7ZpoM0ZgY79y8N4fs3Y7WFWjiTkP8K3fML19iOZufL5gNiwDkW9a7vJPkpuOhM5KiV*5lGmQM6FFRPdjOO7UCP*&new=1)
+ ## [全球首个自动驾驶混合式仿真测试平台发布!阿里打造，日测800万公里](http://mp.weixin.qq.com/s?src=11&timestamp=1587700801&ver=2297&signature=hH3o5xqZleEujQkSlNjUAoMxjsbFmfsMUDQJFP6dQwmH8eCqYYI9t6SzsMPD4tTH3uMuYwHdeSbiRTVfN0dB9wJpfhuQvRhgAPOPWdTokzdZ43PEDxRkAAb4m5r2w8L6&new=1)
+ > 为了满足规模化、节约化无人驾驶技术，建立仿真平台成为了大多数公司选择的路径，可以预见的是行业又将进入一个快速发展的新轨道。文丨AutoR智驾  子阳仿真测试是达到规模化无人驾驶技术的唯一路径。4月22日，阿...
+ ## [关注|Facebook 57亿美元入股Jio 押注发展中市场](http://mp.weixin.qq.com/s?src=11&timestamp=1587700801&ver=2297&signature=2gCrjOVxBYNY3WrtQbUjS9TfoP90zvusHyaymD9GP7ag1A-KDwh3TANtY0v8oVcYwi8XLozMSBKZV5CmXmXY5vpm-1juFIZ40Z8LpQ99zvNBhkwIrrouaPzEDAHK4SfH&new=1)
  > 新闻导读社交媒体巨头Facebook将投资4357.4亿印度卢比(57亿美元)购买Jio Platforms 9.99%的股份。一旦该交易获得监管机构的批准，Facebook将成为Jio Platforms最大的少数股东。这笔投资是Face
- ## [《自然》脑机接口新突破 人脑信号转文本准确率达97%](http://mp.weixin.qq.com/s?src=11&timestamp=1587693602&ver=2297&signature=trSFO4i-EZQBjnHS-pdFpVlsRjqIjfWFaUn**CbLv7Dy9HBs4X8w77h04z-RpsbOa8wk8TmP7awN0OESF71mvXuTeqBegJnj2Ryb8khAzAXPk*OGQEZu90Jm2DVUK8Kf&new=1)
+ ## [北邮乔秀全：5G助力VR/AR塑造虚实融合的沉浸式新时代](http://mp.weixin.qq.com/s?src=11&timestamp=1587700801&ver=2297&signature=IfI9ndnk9bL62Rs4*voJaY1txfcENv50SVcmGSL9pUYOfjxu52iGpPTtdhPcb56CoCwP0ebaJ2D8gA0FrhHdNO47pvm1oKipl5a3hBk1qeYhBz41Adn-deGiWfKnpdCe&new=1)
+ > 小青｜编辑本文来源：新华网（凌纪伟）几年前，VR/AR曾经大热，成为消费电子的一大亮点，但受限于终端笨重昂贵、网络带宽和时延导致的用户体验不佳，使VR/AR的发展陷入困境。随着5G商用，带宽和时延的短板得以弥...
+ ## [《自然》脑机接口新突破 人脑信号转文本准确率达97%](http://mp.weixin.qq.com/s?src=11&timestamp=1587700801&ver=2297&signature=trSFO4i-EZQBjnHS-pdFpVlsRjqIjfWFaUn**CbLv7CkyAJiGKv1zVs2yqbOe7X-i483nVK8rGgiwcywsZMCiF*06kZ6oxXJ1WYQ19uX86A1NJ5bWe6gvsoHNxksNb*t&new=1)
  > 来源：网易智能据国外媒体报道，一个由加州大学旧金山分校的研究团队打造的新型人工智能系统可根据人脑信号来生成文本，准确率最高可达97%。亚马逊和谷歌等科技公司打造的虚拟助手相当先进，语音识别能力比起几...
- ## [运营商“抢登”珠峰仅仅是为了“竞争”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1587693602&ver=2297&signature=cRoi2YrCebJImrfTRUGeYwJxDv3vXd2qqDgGquVqQ7vHgfI1i6Inn9gyJ7cyDWtuZ9XiLvEKodl22JsaZgcByJ4ntsqU408dEZ*Yo*1lBuEo*7DHbKefxbyTZHzqFH7v&new=1)
+ ## [运营商“抢登”珠峰仅仅是为了“竞争”吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1587700801&ver=2297&signature=cRoi2YrCebJImrfTRUGeYwJxDv3vXd2qqDgGquVqQ7to5NRCdzbuVj5oSBh8phbMYAaZ-KMG85JAfnmWug9dajzZuFa-vKBonQrUQSZFlW8HhmCXV81u7JWGial41p0I&new=1)
  > 三大运营商这两天都在抢发一个新闻：在世界最高峰——珠穆朗玛峰上进行5G云直播。中国电信宣布，4月13日在珠穆朗玛峰大本营一号营地建成5G基站，开通5G网络，4月14日联合央视频推出5G直播记录珠峰日升日落的24小...
 # IT 技术 
  ## [2020年新冠肺炎疫情对未来工作的影响](http://news.51cto.com/art/202004/615030.htm)
  > 2020年新冠肺炎疫情对未来工作的影响
+ ## [清华大作业指导：一人单刷雨课堂需要多少工作量？快手工程师详解如何两周搞定](http://news.51cto.com/art/202004/615102.htm)
+ > 清华大作业指导：一人单刷雨课堂需要多少工作量？快手工程师详解如何两周搞定
  ## [脑壳疼！代码中那么多“烦人”的if else](http://developer.51cto.com/art/202004/615141.htm)
  > 脑壳疼！代码中那么多“烦人”的if else
+ ## [新冠这只“黑天鹅”，AI该如何“驯服”？](http://ai.51cto.com/art/202004/615095.htm)
+ > 新冠这只“黑天鹅”，AI该如何“驯服”？
  ## [新软件可流式传输应用程序，以节省你手机上的空间！](http://mobile.51cto.com/app-show-615129.htm)
  > 新软件可流式传输应用程序，以节省你手机上的空间！
+ ## [当心！iPhone和iPad存在零日漏洞，发送邮件即可入侵](http://netsecurity.51cto.com/art/202004/615114.htm)
+ > 当心！iPhone和iPad存在零日漏洞，发送邮件即可入侵
+ ## [1.2万亿投资！登顶珠峰后，5G如何走向落地？](http://network.51cto.com/art/202004/615147.htm)
+ > 1.2万亿投资！登顶珠峰后，5G如何走向落地？
  ## [机器学习中的召回、精确、准确，究竟是什么指标？](http://ai.51cto.com/art/202004/615148.htm)
  > 机器学习中的召回、精确、准确，究竟是什么指标？
- ## [能够装在U盘上的五大Linux发行版](http://os.51cto.com/art/202004/615037.htm)
- > 能够装在U盘上的五大Linux发行版
- ## [一个“锁表”损失800万，运维被判5年半](http://news.51cto.com/art/202004/615044.htm)
- > 一个“锁表”损失800万，运维被判5年半
- ## [视频会议太无聊？换张爱因斯坦的脸替你开会如何？](http://news.51cto.com/art/202004/615079.htm)
- > 视频会议太无聊？换张爱因斯坦的脸替你开会如何？
- ## [如何在Linux上安装Gradle构建工具以实现自动构建？](http://os.51cto.com/art/202004/615045.htm)
- > 如何在Linux上安装Gradle构建工具以实现自动构建？
- ## [聊一聊Go 协作与抢占](http://developer.51cto.com/art/202004/615156.htm)
- > Go 的运行时并不具备操作系统内核级的硬件中断能力，基于工作窃取的调度器实现，本质上属于先来先服务的协
- ## [Python如何计算环比增长率](http://developer.51cto.com/art/202004/615154.htm)
- > 很多企业比较注重自己的业务增长情况，时常会需要计算同比增长率和环比增长率。从上学的时候就有很多小伙伴
- ## [苹果再现安全漏洞：易受攻击的iPhone或达5亿部，iPad也有漏洞](http://netsecurity.51cto.com/art/202004/615152.htm)
- > 4月23日，有媒体报道称，苹果公司正计划修复一个漏洞，此前一家安全公司表示，这个漏洞可能已令超过5亿部i
- ## [2020年哪些网络攻击将列为榜首？这些你应该了解！](http://netsecurity.51cto.com/art/202004/615150.htm)
- > 简单理解，网络攻击是由一台或多台计算机对另台、多台计算机或网络发起的攻击。网络攻击可以分为两大类：目
- ## [Rust 语言 2019 调查报告发布：它为什么流行不起来？](http://news.51cto.com/art/202004/615155.htm)
- > 从 2019 年下半年至今，不到一年的时间内，Rust 语言确实接二连三地掀起过一些波澜。从微软探索将 Rust 作
- ## [1.2万亿投资！登顶珠峰后，5G如何走向落地？](http://network.51cto.com/art/202004/615147.htm)
- > 近日，中国三大运营商的相继在珠峰建设5G基站，实现5G信号覆盖世界之巅的“壮举”受到了大家的广泛关注。
- ## [华为云在线教育创新季启动，365创新升级包全面赋能5G时代教育升级](http://cloud.51cto.com/art/202004/615146.htm)
- > 此次华为云“在线教育创新季”将持续到5月31日，期间，各类前沿技术与实战经验分享将帮助业界全面感知行业
- ## [必须先理解的RocketMQ入门手册，才能再次深入解读](http://os.51cto.com/art/202004/615149.htm)
- > RocketMQ是一个纯java、分布式、队列模型的开源消息中间件，前身是MetaQ，是阿里研发的一个队列模型的消息
- ## [不懂网络安全术语，被同事无情嘲讽](http://netsecurity.51cto.com/art/202004/615145.htm)
- > 因为不懂Exp什么意思，被同事无情嘲讽，为了日后更好的DISS他，特地整理了一篇网络安全常用术语，只要我学
- ## [Qt 开发者讨论将 Qt 5 代码移植到 Qt 6 的工具](http://news.51cto.com/art/202004/615153.htm)
- > 虽然 Qt 作为开源项目的未来还不太清楚，但现在看来一切都在顺利推进中。Qt 开发团队的邮件列表显示他们正
+ ## [深度观察 | Akamai专家解读爬虫攻击现状与趋势](http://netsecurity.51cto.com/art/202004/615182.htm)
+ > 近日，51CTO记者采访了Akamai中国区企业事业部总经理何铭及Akamai大中华区产品市场经理刘炅，就恶意爬虫攻
+ ## [物联网重构人类社会](http://iot.51cto.com/art/202004/615181.htm)
+ > “人”字，一撇一捺，极致简单。“人”与“人”相处，成一“众”字，士农工商，世间万象，由此演化而来。
+ ## [国有企业信息化绕不开的话题，我们为什么要搞大数据？](http://bigdata.51cto.com/art/202004/615180.htm)
+ > 国有企业信息化绕不开的话题――我们为什么要搞大数据？――我认为，企业的“小数据”一样可以发挥大作用。
+ ## [网络安全行业发展趋势：2020年云安全市场规模将超80亿](http://netsecurity.51cto.com/art/202004/615179.htm)
+ > 近年来，我国积极布局网络安全，加快网络安全市场布局，十分重视网络和信息安全问题，并采取了一系列重大举
+ ## [物联网 楼宇对讲 实现小区一体化管理](http://iot.51cto.com/art/202004/615178.htm)
+ > 物联网的核心和基础仍然是互联网，他是在互联网基础上加以延伸和扩展的网络，其用户端延伸和扩展到了任何
+ ## [2012年火起来的科技圈宠儿，又被新冠带回来了](http://zhuanlan.51cto.com/art/202004/615177.htm)
+ > 2020年，这场突如起来的全球性流行传染病摧毁着世界，其破坏力远远大于任何一家公司所能造成的。突然之间，
+ ## [Valve：玩家可以继续安全地玩CS:GO](http://zhuanlan.51cto.com/art/202004/615176.htm)
+ > 昨日，CS:GO《反恐精英：全球攻势》和TF2《军团要塞2》两款老牌FPS射击游戏源代码在4chan和torrent网站上在
+ ## [自然语言处理的应用前景](http://ai.51cto.com/art/202004/615174.htm)
+ > 自然语言处理(NLP)是人工智能技术的一个分支，它使计算机能够像人们一样理解、处理和生成语言，并且在商业
+ ## [Scala循环性能问题，为了性能，你愿意牺牲代码的可维护性么？](http://developer.51cto.com/art/202004/615173.htm)
+ > 最近我在学习我们产品的代码，看到了一段代码，我当时很是疑惑：为什么不用循环呢?于是就报了一个Issue，心
+ ## [“云应用”加速经济复苏，云化之路仍存挑战](http://cloud.51cto.com/art/202004/615171.htm)
+ > “云课堂”让学生们停课不停学，“云办公”让职场人员实现远程办公，“云发布会”更是吸引了华为、小米等
+ ## [一篇文章揭穿创业公司的套路](https://blog.csdn.net/qq175023117/article/details/105558534)
+ > 一篇文章揭穿创业公司的套路
+ ## [面试官喜欢问的 设计模式之观察者模式](https://blog.csdn.net/weixin_43570367/article/details/104954255)
+ > 
+ ## [Linux环境都没有，怎么学编程？憋说了，肝！（保姆级教程）](https://blog.csdn.net/wangshuaiwsws95/article/details/105675269)
+ > 
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ > 
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
+ > 
+ ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
+ > 
+ ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
+ > 终于，月薪过5万了！
+ ## [为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？](https://blog.csdn.net/qq_33589510/article/details/105661782)
+ > 为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？
+ ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
+ > 为什么说程序员做外包没前途？
+ ## [你是不是很反感，这四类同事？](https://blog.csdn.net/shenjian58/article/details/105630389)
+ > 你是不是很反感，这四类同事？
+ ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
+ > 
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
+ ## [程序员写书到底赚钱吗](https://blog.csdn.net/u012702547/article/details/105064177)
+ > 
+ ## [字节跳动的技术架构](https://blog.csdn.net/Ture010Love/article/details/104272717)
+ > 
+ ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
+ > 
  ## [NB-IoT 连接数过亿，开发者如何抓住新机遇？](https://blog.csdn.net/csdnnews/article/details/105721653)
  > 作者 |伍杏玲出品 | CSDN（ID：CSDNnews）NB-IoT 作为物联网领域新兴的技术，支持低功耗设备在广域网的蜂窝数据连接，还可支持待机时间长、对网络连接要求较高设备的高效...
  ## [华为云跻身Gartner报告中国三强，预示云计算市场的未来变局？](https://blog.csdn.net/csdnnews/article/details/105721655)
@@ -156,49 +186,49 @@ categories: IT NEWS
  ## [吴恩达的公司，发布了一款社交距离警告工具](https://blog.csdn.net/csdnnews/article/details/105721651)
  > 作者 | 神经小刀本文经授权转自HyperAI超神经（ID: HyperAI）在公共场合保持安全距离，是预防病毒传播的一个通用做法。WHO 倡议人与人应保持至少 3 英尺（0.9 米）的...
 # 人工智能 
- ## [周立齐应该被追捧吗？|莫将恶趣味当做真性情](https://blog.csdn.net/weixin_43691058/article/details/105613479)
- > 周立齐应该被追捧吗？|莫将恶趣味当做真性情
- ## [提高万恶的KPI，切忌要避开这六个低效的编程习惯](https://blog.csdn.net/xuyue995277/article/details/105657506)
+ ## [安卓AS：简简单单就实现了一个qq登录界面](https://blog.csdn.net/qq_42023080/article/details/105692079)
  > 
- ## [面试官：来，这位精神小伙，简简单单写个快速排序吧](https://blog.csdn.net/weixin_41896265/article/details/105649237)
+ ## [安卓作业----慕课移动应用开发作业14之自定义Dialog对话框](https://blog.csdn.net/baidu_41860619/article/details/105679001)
  > 
- ## [一篇文章揭穿创业公司的套路](https://blog.csdn.net/qq175023117/article/details/105558534)
- > 一篇文章揭穿创业公司的套路
- ## [为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？](https://blog.csdn.net/qq_33589510/article/details/105661782)
- > 为何当代年轻人都没工作动力，迷茫、中年危机普遍发生？
- ## [【蘑菇街裁员回应】覆巢之下无完卵](https://blog.csdn.net/qq_35190492/article/details/105627637)
+ ## [编程实现Android文件浏览器，实现文件与文件夹的访问](https://blog.csdn.net/weixin_43624626/article/details/105697011)
  > 
- ## [Python 之父：因打发时间创造 Python，躬耕多年退位](https://blog.csdn.net/csdnsevenn/article/details/105648304)
- > Python 之父：因打发时间创造 Python，躬耕多年退位
- ## [从联想昭阳到MacBook Pro，致我的那些败家玩意——电脑](https://blog.csdn.net/qing_gee/article/details/105649711)
+ ## [android10.0(Q) root MTK 6765 user版本打开root权限(adb root权限和 apk root权限)](https://blog.csdn.net/u012932409/article/details/105689587)
  > 
- ## [Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？](https://blog.csdn.net/loongggdroid/article/details/105570597)
- > Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？
- ## [一个本科生关于面试的几点感受](https://blog.csdn.net/m0_37820219/article/details/105675508)
- > 一个本科生关于面试的几点感受
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [十位博客专家极力推荐的 谷歌浏览器插件，用过都说好](https://blog.csdn.net/weixin_43570367/article/details/105579153)
+ ## [Android个人手机通讯录开发详解](https://blog.csdn.net/m0_46153949/article/details/105681063)
  > 
- ## [could not find a distribution template for Deepin/n/a](https://blog.csdn.net/shouchenchuan5253/article/details/105671991)
- > could not find a distribution template for Deepin/n/a
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
- > 
- ## [数学建模大赛准备方法及资源分享](https://blog.csdn.net/qq_42167992/article/details/105662278)
- > 数学建模大赛准备方法及资源分享
+ ## [AndroidStudio中NDK基础实践](https://blog.csdn.net/qq_39168470/article/details/105709935)
+ > AndroidStudio中NDK基础实践
+ ## [我对学习delphiTeacher的《delphi调用及封装Android原生控件》的学习和研究点滴体会之二](https://blog.csdn.net/pulledup/article/details/105134381)
+ > 我对学习delphiTeacher的《delphi调用及封装Android原生控件》的学习和研究点滴体会之二
+ ## [Master of Data Structure  虚树](https://blog.csdn.net/qq_43914084/article/details/105688079)
+ > Master of Data Structure  虚树
+ ## [Android  系统启动流分析 & Zygote启动流程分析](https://blog.csdn.net/ChaoLi_Chen/article/details/105681246)
+ > Android  系统启动流分析 &amp; Zygote启动流程分析
+ ## [AndroidQ 打通应用层到HAL层---(应用层实现)](https://blog.csdn.net/qq_34211365/article/details/105684213)
+ > AndroidQ 打通应用层到HAL层---(应用层实现)
+ ## [Android 9.0  Vold   挂载流程分析](https://blog.csdn.net/An_Times/article/details/105714700)
+ > Android 9.0  Vold   挂载流程分析
+ ## [SettingsProvider defaults.xml 修改默认值数据及更新数据](https://blog.csdn.net/qq_34541276/article/details/105708372)
+ > SettingsProvider defaults.xml 修改默认值数据及更新数据
+ ## [androidstudio+gitee+jitpack发布自己的公用依赖库](https://blog.csdn.net/y1204234297/article/details/105703603)
+ > androidstudio+gitee+jitpack发布自己的公用依赖库
+ ## [适配屏幕分辨率](https://blog.csdn.net/u010281924/article/details/105671732)
+ > 适配屏幕分辨率
+ ## [Android Studio如何去除界面默认标题栏](https://blog.csdn.net/qq_42257666/article/details/105676349)
+ > Android Studio如何去除界面默认标题栏
 # PM 
+ ## [想理解商业模式，首先要看懂产品地图](http://www.woshipm.com/it/3753415.html)
+ > 产品地图来源于公司的商业模式，同时又影响着商业模式。看清一家公司的产品地图及产品路标，就很容易理解它的商业模式了。一个互联网公司产品地图，能够非常直观的说...
+ ## [在线咨询课丨如何判断自己是否适合做产品经理？](http://www.woshipm.com/open/3758012.html)
+ > 金三银四马上接近尾声了，你找到合适的产品岗位了吗？在人人都是产品经理的交流群里，很多人对此展开了讨论：马上就要毕业了，准备去做产品，每次面试完都觉得自己很...
+ ## [市场人必看：互联网女皇《疫情下的互联网》报告里的6个营销趋势](http://www.woshipm.com/marketing/3754888.html)
+ > 今年，互联网女皇玛丽·米克尔推出了《疫情下的互联网》报告，本文通过对报告的引用与解读，分析了营销人能从报告中得到哪些启示。今年，互联网女皇的报告比以往来得更...
+ ## [“特殊”的产业互联网，“特殊”的发展之道](http://www.woshipm.com/it/3757379.html)
+ > 直面产业互联网在目标对象、互联网角色、商业模式等方面的特殊性，从特殊性着手，我们才能找到产业互联网时代的正确发展之路。相对于用新的方式和方法继续挖掘C端用户...
  ## [比勤奋更重要的，是深度思考](http://www.woshipm.com/zhichang/3750060.html)
  > 深度思考比勤奋更重要，甚至有时候深度思考决定人生。本文作者梳理总结了深度思考的模型和前提，学会并掌握这几个要点，定会助你提升思维方式，在日后的工作中更快成长...
  ## [如何设计搜索功能的入口 ？](http://www.woshipm.com/pd/3756456.html)
  > 搜索入口相当于用户搜索流程的第一步，在设计上不同品类的设计方案不尽相同，本文就来聊一下搜索入口都有哪几种设计方案？不知道大家有没有注意到一点，当我们去商场...
- ## [交互设计方法论：时间（Time）](http://www.woshipm.com/ucd/3734777.html)
- > 很多时候，交互设计师都会考虑时间，最常见的就是当xx的时候。当我早上醒来的时候，我需要开灯照明，当夜晚降临，路上黑漆漆的时候，我们需要打开手机的闪光灯。交互设...
- ## [招聘产品的商业化变现（1）：刷新](http://www.woshipm.com/pmd/3753921.html)
- > 产品发展到一定阶段，商业化是不可回避的问题。文章对招聘行业可以商业化变现的产品进行了梳理的分析，与大家分享。商业化产品经理，核心KPI是收入。如何在（尽量）不...
- ## [火热报名 | 2020年想要做产品经理，你要学会“偷跑”！](http://www.woshipm.com/online/3757087.html)
- > 最近全国大部分企业已经正式复工，我发现有很多新鲜血液加入到「产品经理」这个行业中来。但是相信很多小伙伴在转岗入行的道路上，都会遇到这个问题：产品经理这个岗位...
- ## [产品经理周报第 108 期｜抖音上线视频通话功能；京东快递落地高端商务楼宇一站式快递服务](http://www.woshipm.com/it/3755374.html)
- > 早上好呀，又到每周周五的时候啦最近天气越来越热了，大家出门在外的时候，不要因为热而不好好戴口罩哦最近几周的产品新闻里，腾讯、阿里、字节等不断更新产品的新功...
  ## [入行产品经理，你需要掌握这十八般武艺](http://www.chanpin100.com/article/111422)
  > 无须样样精通，但要有多技之长
  ## [深夜，你的耳朵睡着了吗？|2020中国夜听经济发展分析](http://www.chanpin100.com/article/111421)
@@ -221,21 +251,5 @@ categories: IT NEWS
  > 自我介绍是产品经理面试必经的第一个环节，除非面试官对你很熟悉，一段好的自我介绍是面试的敲门砖，敲好了跑着走，敲不好跪着走。为了让产品经理们少走些弯路，今天来聊一聊产品经理面试时应该如何做自我介绍。
  ## [管理思想与数据分析“联姻”之美](http://www.chanpin100.com/article/111423)
  > 波士顿模型、曲棍球棒效应、帕累托图，在数据分析中如何活用呢？详见正文。
- ## [苹果“白菜价”推新机，B站“卖楼”推新游丨每周热点](http://www.chanpin100.com/article/111410)
- > 一周热点回顾！不容错过！
- ## [国美难“治”拼多多的“大牌”焦虑](http://www.chanpin100.com/article/111409)
- > 拼多多以大牌打通“五环内”的战略，因为国美的加入，迎来了一次质的飞跃。
- ## [【万字长文】如何成为一个值钱的互联网人？](http://www.chanpin100.com/article/111408)
- > 如何成为一个值钱的互联网人？
- ## [时间管理——让产品经理工作效率翻倍](http://www.chanpin100.com/article/111407)
- > 瞎忙和高效的人时间都安排得很满，但是却有本质的区别。瞎忙的人是没有目标和方向的忙碌，整天被外部力量推着赶着，永远有忙不完的活，永远在忙，但是却说不上来忙了些啥。
- ## [如果没有任何参考，你该如何做中后台产品](http://www.chanpin100.com/article/111406)
- > 一切不靠谱的时候，只能靠自己
- ## [用户行为数据分析——实战运营篇](http://www.chanpin100.com/article/111405)
- > 用户行为数据分析篇章终于开始续写了，前两篇由于一些特殊原因中断......
- ## [广告投放技巧，提高电商广告的转化率](http://www.chanpin100.com/article/111404)
- > 古人常说，买卖靠吆喝，电商如果要保持销售规模，同样需要打广告，对于电商行业而言，广告投放是提高销售的有效方法；本文将和大家一起商讨一下关于电商行业的广告投放技巧，提高广告的转化率。
- ## [2020年十大知识付费平台排名，最全知识付费系统工具测评](http://www.chanpin100.com/article/111402)
- > 知识付费平台表面上看起来就是平台、作者、用户。但实际上随着知识付费市场逐渐成熟，产业链之间也越发的完善，包含了作者、社交/社群、技术/技术服务平台、平台自带营销功能等等。知识付费工具，就是担任着这样的角色，为知识变现提供专业性的解决方案。
 
     
