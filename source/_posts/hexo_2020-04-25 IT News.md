@@ -1,19 +1,21 @@
 ---
 title: 2020-04-25 IT News
 copyright: true
-date: 2020-04-25 08:01:22
+date: 2020-04-25 09:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“新基建”引擎，加速铁路行业数字化转型](http://mp.weixin.qq.com/s?src=11&timestamp=1587772803&ver=2299&signature=W2ZXLrUpu6ArsgbLByp5qNtBtUwuolfhsX9utoJYNkG*wDAhd0RA7RwVfDJX8TksDrMYyxBbJTw5mcoYkAoJSDFa*msF-qjcE8nerIegD8X0GAhR-YsxpDx*HKAkAX7X&new=1)
- > 近期，随着国家“新基建”的政策出台，以5G、人工智能、大数据等技术为代表的“新基建”与传统基建的结合，将成为未来国家的重点建设方向。“交通强国、铁路先行”，铁路作为传统基建的典型代表，在与“新基建”...
- ## [方滨兴特色“方班”：你不知道攻击，就不知道怎么防御](http://mp.weixin.qq.com/s?src=11&timestamp=1587772803&ver=2299&signature=8wU6*zI6wFbzobnzNGZqGCg3AHqqRE5SSUbDHIClweJyFGO1p7MstZheA3hC4bVOhO4FtT9mymYCTMxLr*ZPjAAvPf0bYyIM-7EQIRMC9hAbpcpgAchZ9uWk8qqJI4T-&new=1)
- > 问答Q&amp;A神州2020.04.24谨守“底线思维”，防止供应链风险他，致力于建设最安全的国家网络空间昔日北邮校长，今日创办“方班”全球化目前逐渐被政治绑架自2018年7月6日以来，中美贸易摩擦令中美关系几经沉浮。在...
- ## [华工科技一季度亏损1176万元 复产后取得诸多突破](http://mp.weixin.qq.com/s?src=11&timestamp=1587772803&ver=2299&signature=DA3N1rOBU4ARMxJHzbhwQrxLcifrNpLL4R0oKLxB8J*kzBPRdYspRaOV3GrXYmnMVM9ssse12aQ7OqyM3zMnBlixK9qi62NLNws5hz8evYi8WEyAAChhXIeh22aWF09m&new=1)
+ ## [华工科技一季度亏损1176万元 复产后取得诸多突破](http://mp.weixin.qq.com/s?src=11&timestamp=1587776402&ver=2299&signature=DA3N1rOBU4ARMxJHzbhwQrxLcifrNpLL4R0oKLxB8J*kzBPRdYspRaOV3GrXYmnMMZ0o8k839I5updX0d*mskS5AIUzgrCdJG0hCbTcSUjH9oa3ox0J5GBGIQtT7R6b2&new=1)
  > 4月23日晚，华工科技发布2020年一季度报告。受疫情影响，华工科技一季度营收同比减少34.04%，达到7.59亿元；净亏损达1176万元，而上年同期净利润达9995万元；总资产也较2019年末减少2.97%。对于业绩变化，华工科...
- ## [吉利将跨界“造火箭”?民企“上天”一下子就火了](http://mp.weixin.qq.com/s?src=11&timestamp=1587772803&ver=2299&signature=fIHME5knnJiJeFcgvfwB6rFdUhqrDyb8ZUUMvZW9raMCXMgXZKXgL5nUTOVz7ZP8mjXhUHmtucV3C6lbxJ*J48iAFx1o0hIr*1ZONJ9Zo9K6Gh8eMITvej6Rlt8eyPFy&new=1)
+ ## [“新基建”引擎，加速铁路行业数字化转型](http://mp.weixin.qq.com/s?src=11&timestamp=1587776402&ver=2299&signature=W2ZXLrUpu6ArsgbLByp5qNtBtUwuolfhsX9utoJYNkG*wDAhd0RA7RwVfDJX8Tks9M-Q4bjopp9rQ21ZpSTMw7reCdNm7Qlav112CRP4o5*o0yVUKNrioHSRQc47pk9L&new=1)
+ > 近期，随着国家“新基建”的政策出台，以5G、人工智能、大数据等技术为代表的“新基建”与传统基建的结合，将成为未来国家的重点建设方向。“交通强国、铁路先行”，铁路作为传统基建的典型代表，在与“新基建”...
+ ## [吉利将跨界“造火箭”?民企“上天”一下子就火了](http://mp.weixin.qq.com/s?src=11&timestamp=1587776402&ver=2299&signature=fIHME5knnJiJeFcgvfwB6rFdUhqrDyb8ZUUMvZW9raMCXMgXZKXgL5nUTOVz7ZP8Dn09hutoaFZjCNP4TGwE*wgl-ydhreETbI7dmYL6TmrdcNC8t*F1vvXSpsmEKMej&new=1)
  > 4月24日，吉利正式发布卫星项目近期的落地成果。而就在几天前，吉利科技集团下属公司浙江时空道宇科技有限公司发布招聘火箭总程师在内的40多个职位信息，最高月薪5万元。由于“造车”又“造火箭”，不由得让人联...
+ ## [方滨兴特色“方班”：你不知道攻击，就不知道怎么防御](http://mp.weixin.qq.com/s?src=11&timestamp=1587776402&ver=2299&signature=8wU6*zI6wFbzobnzNGZqGCg3AHqqRE5SSUbDHIClweJyFGO1p7MstZheA3hC4bVOqVgtOVk9Pu7XCiCbH2SUZGHnXqYBuRt6vXNQwPx5hX9WPaQtOGBlT4Mr7x0u6xEn&new=1)
+ > 问答Q&amp;A神州2020.04.24谨守“底线思维”，防止供应链风险他，致力于建设最安全的国家网络空间昔日北邮校长，今日创办“方班”全球化目前逐渐被政治绑架自2018年7月6日以来，中美贸易摩擦令中美关系几经沉浮。在...
+ ## [电信和联通5G基站集采大单落地：四家中标!](http://mp.weixin.qq.com/s?src=11&timestamp=1587776402&ver=2299&signature=kMIOPMaL4Utqdu4-CniLLMkQTkb97d7Pa4N0XZBMDgDSMTU-LboSVaeF-wCl07ZdWPVHjcx1XJUZsBN5veL7qIEnt9jxHV9Cx1AbQPN7aOXlETepWK6-OVbT-n5Z169W&new=1)
+ > 备受关注的中国电信与中国联通5G基站集采结果出来了！4月24日晚间，中国电信与中国联通同时公布《2020年5G SA新建工程无线主设备联合集中采购项目》评审结果，中标候选人推荐如下：一、标包一1. 第一中标候选人...
 # IT 技术 
  ## [2020年新冠肺炎疫情对未来工作的影响](http://news.51cto.com/art/202004/615030.htm)
  > 2020年新冠肺炎疫情对未来工作的影响
@@ -74,36 +76,36 @@ categories: IT NEWS
  ## [每 2.35 个月开发一款新游戏，这个公司是如何做到的？](https://blog.csdn.net/csdnnews/article/details/105743190)
  > 作者 |Alex Loukissas译者 |明明如月，责编 | 郭芮头图 | CSDN 下载自视觉中国出品 | CSDN（ID：CSDNnews）以下为译文：id Software ...
 # 人工智能 
- ## [阿里美女面试官问我：Flink Runtime运行时架构了解吗？](https://blog.csdn.net/Mr_kidBK/article/details/105709629)
+ ## [react-hooks如何使用？](https://blog.csdn.net/zl_Alien/article/details/105701389)
+ > react-hooks如何使用？
+ ## [恕我直言！你不是真的懂js中的作用域！](https://blog.csdn.net/weixin_42878211/article/details/105670790)
+ > 恕我直言！你不是真的懂js中的作用域！
+ ## [ES6数组方法find()、findIndex()的总结](https://blog.csdn.net/weixin_42881768/article/details/105678941)
  > 
- ## [docker学习笔记（一）——初识docker](https://blog.csdn.net/qq_33482132/article/details/105699097)
- > docker学习笔记（一）——初识docker
- ## [2020 Java技术趋势](https://blog.csdn.net/shooopw/article/details/105715176)
- > 2020 Java技术趋势
- ## [SparkCore：Spark原理初探（执行流程图）](https://blog.csdn.net/weixin_43563705/article/details/105699268)
- > SparkCore：Spark原理初探（执行流程图）
- ## [腾讯T4大佬总结：微服务、SpringBoot、SpringCloud、Dubbo文档](https://blog.csdn.net/qq_46388795/article/details/105681413)
- > 腾讯T4大佬总结：微服务、SpringBoot、SpringCloud、Dubbo文档
- ## [spring boot下整合dubbo和zookeeper](https://blog.csdn.net/u011429828/article/details/105668521)
- > spring boot下整合dubbo和zookeeper
- ## [Springboot整合Quartz，通过web界面动态地对HTTP任务进行增、删、改、查](https://blog.csdn.net/qq_38796854/article/details/105707876)
- > Springboot整合Quartz，通过web界面动态地对HTTP任务进行增、删、改、查
- ## [牛批！阿里P8Java架构师写了一份Spring MVC教程，已整理成文档。](https://blog.csdn.net/yelvgou9995/article/details/105708582)
- > 牛批！阿里P8Java架构师写了一份Spring MVC教程，已整理成文档。
- ## [Redis基础知识整理](https://blog.csdn.net/outdata/article/details/105582327)
- > Redis基础知识整理
- ## [Dubbo支持的协议有哪些？Dubbo支持的注册中心有哪些？](https://blog.csdn.net/weixin_45151795/article/details/105686799)
- > Dubbo支持的协议有哪些？Dubbo支持的注册中心有哪些？
- ## [阿里P8面试官分享1000道高频真题解析：JVM+分布式+MySQL+并发+Spring全家桶+Redis+中间件等](https://blog.csdn.net/weixin_45136579/article/details/105705511)
+ ## [前端电商项目实战，如何从 0 创造一个【考拉海购官网】？（ 共6节教程 ）](https://blog.csdn.net/qq_41136216/article/details/105690298)
  > 
- ## [linux内核原理剖析——内存寻址（一）](https://blog.csdn.net/qq_20878967/article/details/105655588)
- > linux内核原理剖析——内存寻址（一）
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
- ## [Java知识体系最强总结(2020版)](https://blog.csdn.net/ThinkWon/article/details/103592572)
+ ## [ASP.NET控件集合](https://blog.csdn.net/dust__/article/details/105709113)
  > 
- ## [Java 反转字符串的 10 种方法](https://blog.csdn.net/shooopw/article/details/105715220)
- > Java 反转字符串的 10 种方法
+ ## [带你快速了解VSCode的10个特性，极大提高开发效率](https://blog.csdn.net/Zhangguohao666/article/details/105676173)
+ > 
+ ## [在Vue中使用ref获取dom元素节点及组件内的数据和方法](https://blog.csdn.net/Piconjo/article/details/105673324)
+ > 在Vue中使用ref获取dom元素节点及组件内的数据和方法
+ ## [写代码头疼？那你肯定没用过这些 VSCode 插件](https://blog.csdn.net/Wjhsmart/article/details/105705649)
+ > 
+ ## [【CSS基础学习】行内元素，块级元素，行内块级元素](https://blog.csdn.net/lolly1023/article/details/105715892)
+ > 
+ ## [前端架构演进及主流UI](https://blog.csdn.net/iME_cho/article/details/105654633)
+ > 
+ ## [vuecli实现仿写饿了么](https://blog.csdn.net/printf_hello/article/details/105689716)
+ > 
+ ## [VSCode的一些小操作](https://blog.csdn.net/ycx60rzvvbj/article/details/105699008)
+ > VSCode的一些小操作
+ ## [利用原生JS写成小游戏——欢乐水果机](https://blog.csdn.net/qq_45847045/article/details/105679819)
+ > 利用原生JS写成小游戏——欢乐水果机
+ ## [电商项目实战第五节: CSS3+HTML5+JS 设计案例【考拉海购网站】之【商品栏及右侧垂直导航】](https://blog.csdn.net/qq_41136216/article/details/105633285)
+ > 
+ ## [抄笔记：尤雨溪在Vue3.0 Beta直播里聊到了这些…](https://blog.csdn.net/weixin_40906515/article/details/105679019)
+ > 
 # PM 
  ## [一网打尽APP常见功能模块页面设计，超全超详细](http://www.chanpin100.com/article/111436)
  > 页面设计没有烦恼~
