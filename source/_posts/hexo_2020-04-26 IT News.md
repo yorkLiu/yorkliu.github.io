@@ -1,7 +1,7 @@
 ---
 title: 2020-04-26 IT News
 copyright: true
-date: 2020-04-26 12:00:52
+date: 2020-04-26 17:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -136,19 +136,23 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [雨后春笋般的线上活动养肥了谁?服务器芯片逆势爆发\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=x2CvgL9ZiWbTqqvJRY1oK6-PcS2HUtNmU*ql9naxJ*1OH5Hm2IKFUJ9nGsQfZOKt2q1zELGeClVM0BZeja2uPjEXewpDfy3JmomTqD9oMy4dwVP3XAHdMPvFav-UKuG5&new=1)
- > 看点：雨后春笋般的线上活动，让服务器芯片逆势爆发。虽然全球新冠肺炎疫情可能在 6 月底以前趋缓，但在疫苗发明前的各种民间及商业活动还是要靠着各种如雨后春笋般冒出的线上服务来帮忙控制，在 4G 手机及车用...
- ## [“新基建”七大领域并不孤立，智能IP网络扮演“大动脉”](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=hKW5Dr-d52VsUe6V40X5qNgTrCUgfN0Q0EBZqdYOvQzblbMrf5ADQ0PC42VlHFUg5ndWIZz3p0zAoXogmA8hC0QQQbIs52go84-xdFb-yxflhoeD7Uw23gNCs5tamaXY&new=1)
- > 在国家提出“新基建”后，我们发现5G、数据中心、工业互联网等七大新型基础网络设施备受关注。这些基础设施将有效促进IoT、云计算、区块链等新技术应用，创造丰富的应用，带动经济活力。但我们发现，这七大领域...
- ## [中美德工业互联网路径比较](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=wpQNAkrwmRYSbb*jb9kVIWLTBkIhsUotgJgwlUf3RcOC8dliDb18QSAXN9mAhtI7kGHOI7hWoCQcSSGj2**nFwEnx7*zS7Ml0f8M6Tv8Lg26DgjuLhSMDplfQeQTNLhm&new=1)
- > 转自丨无锡情报所作者丨王喜文，九三学社中央促进技术创新工作委员会委员、九三学社中央科技委委员过去20年，互联网是改变社会、改变商业最重要的技术；如今，随着5G、物联网以及云计算和大数据、区块链、人工智...
- ## [岂止于原型?金属3D打印生产应用激增!Protolabs买GE大尺寸金属3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=fCqlG8TQegQ2OZOkMHsUT67p9WFu151s1n5774q*wgu08Dy23M*GzTJI*dIYRswdca5DwJQjf6*TiwyiXqOQVFhCx5v2tWg145alEWnhxvozpoSySK7nejPPBJDafxZW&new=1)
- > 2020年4月25日，南极熊从外媒获悉，数字制造公司Protolabs计划在2020年夏末将GE Additive公司的X-Line 2000R大尺寸3D打印机引入工厂。Protolabs公司是全球最大的3D打印、机加工服务商之一，2019
- ## [目前我国每天快递量超两亿件 基本恢复至疫情前正常水平](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=-53r-sSSkGyKghUBFFzTF*yNtk5H2PDVcab8pLeguONYTdpXxr*mqBjJULdkZBtGU2WQzT8DjO1u5XggjM02NISWhF4PPsGdx0R0kDUP0*c=&new=1)
+ ## [目前我国每天快递量超两亿件 基本恢复至疫情前正常水平](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=-53r-sSSkGyKghUBFFzTF*yNtk5H2PDVcab8pLeguOOG5m*Hb5IEI9jTIL1T8MaUoVOHXCktQMDl-16eaQyW8PqPi-TSl5mhxQi3iq6EdwU=&new=1)
  > 新华社北京4月25日电 国家邮政局市场监管司副司长边作栋25日在国务院联防联控机制新闻发布会上介绍，目前我国每天快递量超过2亿件，基本恢复到疫情前的正常水平。　　边作栋说，目前全国已经有96.6%的乡镇设...
- ## [眼红的 Facebook，赶出了社交版 Zoom](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=XRlcfkZWDrEUjQfV6tM7l5U3RzH0gp862TfPJYwUgNiEQIgt9EhcwDKb66Eeu0ecpuY*JGufx-9D0X42aNew9gLENyapeea6iuLYY5TU-9ApJWiijh1BDak4rDRG3sbM&new=1)
+ ## [中美德工业互联网路径比较](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=wpQNAkrwmRYSbb*jb9kVIWLTBkIhsUotgJgwlUf3RcPePnxOcX22S0tX23u6Bf8u1DyFykwdc*E4ad1loc8gvDFwcvySZAO54FFHeax-iWhOdQftB3uxtd-ZJGP1Cji5&new=1)
+ > 转自丨无锡情报所作者丨王喜文，九三学社中央促进技术创新工作委员会委员、九三学社中央科技委委员过去20年，互联网是改变社会、改变商业最重要的技术；如今，随着5G、物联网以及云计算和大数据、区块链、人工智...
+ ## [Facebook出王炸!美股"当红炸子鸡"盘中暴挫，两小时市值蒸发416亿!互联网巨头混战，视频会议市场竞争白热化](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=MqP8rf2rqHMeFK28QWGD5HRbuvpD0TKVdXiaO*L4RI8GcBOgd3SUl8UNaXIv5A4Qj0OUCqTRqOXDSUdbFpRXMWCibPCF4Jz9exsGBorb0ZhvzzPPfj93MdTWufdBUXI*&new=1)
+ > 新冠疫情爆发以来，通过网络举行视频会议在全球各地慢慢普及。与此同时，网络视频会议软件市场上，群雄逐鹿，混战激烈！周二，海外市场网络视频会议领域的“当红炸子鸡”——Zoom公司宣布，3周内该公司用户已从2...
+ ## [扫码进群 免费学习最新的线雕技术](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=G2219iT0ueGnZ59o2bVGpG8u-DH0pTR*mz7r5rrPqVJkJLLgGD2UpnDX0AE11hHVMzhpbzz8JO*l93Cs3clSEAniDwXhUWBWMzd9-veBOIs8LnrIG5-Hu-g7CQE4Hea8&new=1)
+ > 好评如潮左右滑动查看更多专业老师免费授课  扫码进群 立马学习最新的线雕技术
+ ## [岂止于原型?金属3D打印生产应用激增!Protolabs买GE大尺寸金属3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=fCqlG8TQegQ2OZOkMHsUT67p9WFu151s1n5774q*wguSOS1aVAzlGd-cpaVMDNVz2-JIz*RWoXkfB4MCx-FHgcnDyoyftkqwQTmjz5vCErpUGM08P0T94idSVW0Tw*xK&new=1)
+ > 2020年4月25日，南极熊从外媒获悉，数字制造公司Protolabs计划在2020年夏末将GE Additive公司的X-Line 2000R大尺寸3D打印机引入工厂。Protolabs公司是全球最大的3D打印、机加工服务商之一，2019
+ ## [“新基建”七大领域并不孤立，智能IP网络扮演“大动脉”](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=hKW5Dr-d52VsUe6V40X5qNgTrCUgfN0Q0EBZqdYOvQxFmhi*f9l45r-ID1JxY-QPGbLwBsKcU3IkX*xViiA1zKJ4l3O1lE5a**-Y1CtJbvy6-sxolTqjuQBbxoz4UBxP&new=1)
+ > 在国家提出“新基建”后，我们发现5G、数据中心、工业互联网等七大新型基础网络设施备受关注。这些基础设施将有效促进IoT、云计算、区块链等新技术应用，创造丰富的应用，带动经济活力。但我们发现，这七大领域...
+ ## [雨后春笋般的线上活动养肥了谁?服务器芯片逆势爆发\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=x2CvgL9ZiWbTqqvJRY1oK6-PcS2HUtNmU*ql9naxJ*08W5tX4p7xQQe1Q3Owh7CnhlqFTjdruP5np9C5a8YhMFpT5L8J82TPPapW-9H8lvQS7e-koXP9BCo1D7oSi0s4&new=1)
+ > 看点：雨后春笋般的线上活动，让服务器芯片逆势爆发。虽然全球新冠肺炎疫情可能在 6 月底以前趋缓，但在疫苗发明前的各种民间及商业活动还是要靠着各种如雨后春笋般冒出的线上服务来帮忙控制，在 4G 手机及车用...
+ ## [眼红的 Facebook，赶出了社交版 Zoom](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=XRlcfkZWDrEUjQfV6tM7l5U3RzH0gp862TfPJYwUgNjJ5Yv5JtML8L4xuUfuctk*UmP9IJpQQULJ*2UCRui01u2stNdSkOQwM5UTXBNRtKVgeRdSs3w*-lF-*xNy7-7I&new=1)
  > 复制 Zoom，但不要复制它在安全上所犯的错误。「在 Facebook 内部的留言板上，员工们盯着 Zoom 的增长数据，瞠目结舌。」《纽约时报》这样写道。新冠肺炎疫情肆虐下，Zoom 无疑是云视频会议应用中跑得最快的。分...
- ## [珠穆朗玛峰上的5G+VR+4K直播，你真的应该了解一下](http://mp.weixin.qq.com/s?src=11&timestamp=1587873602&ver=2301&signature=FVrGLOLDUVECp2UhKn0wMgHoyJG8U4qa1GEWVn7FO1kNH3*WzeSPSs-LlHBabc7X8It*LY14TAl-AjtjryW2AI8uah2eSV1isFK1MSU-5FEW2sHah3yekC5W7M0VK4wy&new=1)
+ ## [珠穆朗玛峰上的5G+VR+4K直播，你真的应该了解一下](http://mp.weixin.qq.com/s?src=11&timestamp=1587891602&ver=2301&signature=FVrGLOLDUVECp2UhKn0wMgHoyJG8U4qa1GEWVn7FO1ldtb1hHx9Cc3NCowACR411CewGahZ*IGou3bPOFT5P8W2rP5*ze0H1OA2uda3wShsQiie9Eq-ax7Soopvn9INP&new=1)
  > 4月20日，是一个值得载入5G发展史的日子。中国的三大电信运营商在这一天实现了对珠穆朗玛峰的5G信号覆盖，定格了5G地面信号的第一高度。在接通5G信号的同时，云直播也一同登峰，百万网友通过“云登顶”见证了“...
 # IT 技术 
  ## [三招实现高效的企业级微服务治理](http://developer.51cto.com/art/202004/615231.htm)
@@ -157,36 +161,36 @@ categories: IT NEWS
  > 2小时快速搭建一个高可用的IM系统
  ## [技术分析：苹果谷歌的“健康码”怎么追踪疫情又保护隐私？](http://mobile.51cto.com/hot-615248.htm)
  > 技术分析：苹果谷歌的“健康码”怎么追踪疫情又保护隐私？
- ## [微信扫一扫识物的技术揭秘：抠图与检索](http://news.51cto.com/art/202004/615263.htm)
- > 微信扫一扫识物的技术揭秘：抠图与检索
+ ## [这4件事，让你了解边缘计算的真实面貌](http://news.51cto.com/art/202004/615199.htm)
+ > 这4件事，让你了解边缘计算的真实面貌
  ## [新的GreyNoise免费服务可提醒你设备何时被黑了](http://netsecurity.51cto.com/art/202004/615243.htm)
  > 新的GreyNoise免费服务可提醒你设备何时被黑了
- ## [百度网盘，是怎样偷走你的流量的？](http://news.51cto.com/art/202004/615267.htm)
+ ## [百度网盘，是怎样偷走你的流量的？](http://network.51cto.com/art/202004/615267.htm)
  > 百度网盘，是怎样偷走你的流量的？
- ## [黑客用上机器学习你慌不慌？这7种窃取数据的新手段快来认识一下](http://netsecurity.51cto.com/art/202004/615281.htm)
- > 黑客用上机器学习你慌不慌？这7种窃取数据的新手段快来认识一下
+ ## [Serverless实战：用20行Python代码轻松搞定图像分类和预测](http://news.51cto.com/art/202004/615197.htm)
+ > Serverless实战：用20行Python代码轻松搞定图像分类和预测
  ## [张一鸣：为什么BAT挖不走我们的人才？](http://news.51cto.com/art/202004/615261.htm)
  > 张一鸣：为什么BAT挖不走我们的人才？
- ## [哈希表哪家强？几大编程语言吵起来了！](http://developer.51cto.com/art/202004/615299.htm)
- > 比特宇宙编程语言联合委员会准备举办一次大会，主题为哈希表，给各大编程语言帝国都发去了邀请函，很快就到
- ## [老板知道会点赞，前端开发人员的10个安全建议](http://netsecurity.51cto.com/art/202004/615297.htm)
- > 在本文中，我将介绍10种简单的操作，可以通过这些简单的操作来改善对Web应用程序的保护。
- ## [企业如何优化云服务成本？](http://cloud.51cto.com/art/202004/615296.htm)
- > 根据“RightScale 2019云状态”报告，目前有94%的大型企业正在使用云服务。但是，由于大量迁移上云的成本比
- ## [报告：新冠疫情相关网络攻击暴增300倍](http://zhuanlan.51cto.com/art/202004/615294.htm)
- > 在最新发布的报告中，云安全公司Zscaler的安全研究人员发现，与2020年初相比，3月份与新冠病毒(COVID-19)大
- ## [16个新特性，让你爱上Ubuntu 20.04](http://os.51cto.com/art/202004/615295.htm)
- > 本文，我将重点介绍了18.04 LTS（Bionic Beavers）和20.04 LTS之间最显著的16个变化。
- ## [Hive为什么这么受欢迎？看完Hive架构以及应用介绍，你就明白了！](http://bigdata.51cto.com/art/202004/615293.htm)
- > Hive究竟是什么，为什么在Hadoop家族中占有这么重要的地位，本篇文章将围绕Hive的体系结构(架构)、Hive的操
- ## [大数据新人应该了解的Hadoop中的各种文件格式](http://bigdata.51cto.com/art/202004/615292.htm)
- > 几周前，我写了一篇有关Hadoop的文章，并谈到了它的不同部分。 以及它如何在数据工程中扮演重要角色。 在本
- ## [电源基础设施在数据中心中的重要作用](http://network.51cto.com/art/202004/615291.htm)
- > 电力基础设施的维护对于减少数据中心意外停电造成的损害至关重要。UPS电源和发电机的维护以及灾难规划应该
- ## [5种方法让你知道Kubernetes集群的健康状况](http://cloud.51cto.com/art/202004/615289.htm)
- > Kubernetes是一种非常智能的技术，但如果操作不当反而弄巧成拙。正如大多数智能化技术一样，它的智能程度取
- ## [专家们常用的15个机器学习工具](http://ai.51cto.com/art/202004/615288.htm)
- > 机器学习是一项令人惊叹的技术，而发挥其潜能的关键在于，你得掌握正确的使用方法。精通机器学习工具有利于
+ ## [当云走向AI化，业界主流厂商如何让生态走得更远？](http://zhuanlan.51cto.com/art/202004/615324.htm)
+ > 本文选取了在云与AI生态运营方面表现较为突出的四家主流厂商(亚马逊、百度、阿里、华为)，对其生态运营的主
+ ## [这就是人脸和图像识别越来越重要的原因](http://ai.51cto.com/art/202004/615322.htm)
+ > 今天的人脸和图像识别被认为是所有生物特征测量中最自然的。无论是机场、办公室，甚至是学校，人脸和图像识
+ ## [编程语言趋势最新报告：开发者最青睐DevOps，Kotlin增长最快](http://news.51cto.com/art/202004/615319.htm)
+ > 最受欢迎的编程语言是 JavaScript，Python 和 Java ，增长速度最快的是Kotlin ，而 DevOps 依旧是开发者的
+ ## [让你快速入门Docker的30个命令行](http://cloud.51cto.com/art/202004/615320.htm)
+ > 本文我们列出了常见的docker命令，如果你已经可以熟练的使用这些命令，则说明你docker技术已经入门。可以接
+ ## [决策树的复兴？结合神经网络，提升ImageNet分类准确率且可解释](http://news.51cto.com/art/202004/615323.htm)
+ > 随着深度学习在金融、医疗等领域的不断落地，模型的可解释性成了一个非常大的痛点，因为这些领域需要的是预
+ ## [8个DevOps自动化工具，帮你做出持续改进](http://developer.51cto.com/art/202004/615321.htm)
+ > DevOps，这个词似乎是过去几年的一个流行语，是 IT 招聘人员、软件公司和代理机构在互联网上搜索得最多的一
+ ## [字节跳动旗下飞书应用，面临下架可能](http://news.51cto.com/art/202004/615316.htm)
+ > 据彭博社消息，字节跳动旗下协同办公应用飞书，可能会被临时下架一个月。
+ ## [新冠病毒疫情推动物联网技术在供应链中的应用](http://iot.51cto.com/art/202004/615318.htm)
+ > 企业组织可以在供应链管理中使用物联网来创建更具适应性的流程，并在紧急情况下提供帮助，例如COVID-19大流
+ ## [如何使用CP / SCP / RSYNC在Linux中排除特定目录？](http://os.51cto.com/art/202004/615308.htm)
+ > 在本文中，我们将演示如何排除特定的文件或目录，或者使用用于此目的的三种最常用和广泛使用的实用程序(即r
+ ## [不写代码，可视化堪比python，领导满意的报表工具原来是这样的](http://news.51cto.com/art/202004/615314.htm)
+ > 真正的互联网大公司，并不会用其去做实质性的事情，最多只会用到自动化，给IT人员做报表减轻负担，传统公司
  ## [物联网的嵌入式编程](https://blog.csdn.net/alitech2017/article/details/105680269)
  > 物联网的嵌入式编程
  ## [作为一个非天才型选手，普通程序员如何升级打怪？](https://blog.csdn.net/csdnnews/article/details/105672145)
@@ -197,25 +201,25 @@ categories: IT NEWS
  > 疫情期间，找工作的一些建议
  ## [和阿里面试官扯了半小时ArrayBlockingQueue源码](https://blog.csdn.net/qq_33589510/article/details/105715971)
  > 
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
- > 
- ## [自学编程的 6 个致命误区](https://blog.csdn.net/qing_gee/article/details/105685320)
- > 
  ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
  > 
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [震撼！全网第一张源码分析全景图揭秘Nginx](https://blog.csdn.net/xuanyuan_fsx/article/details/105551161)
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
- ## [你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平](https://blog.csdn.net/likun557/article/details/105154280)
- > 你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平
+ ## [自学编程的 6 个致命误区](https://blog.csdn.net/qing_gee/article/details/105685320)
+ > 
+ ## [你为什么在现在的公司不离职？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/105341207)
+ > 
+ ## [告诉你一个学习编程的诀窍（建议收藏）](https://blog.csdn.net/sinat_33921105/article/details/105710400)
+ > 
+ ## [面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？](https://blog.csdn.net/likun557/article/details/105108901)
+ > 面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？
+ ## [女程序员，为什么比男程序员少？？？](https://blog.csdn.net/shenjian58/article/details/104744259)
+ > 女程序员，为什么比男程序员少？？？
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
- > 
- ## [CentOS7.6   万兆网卡性能测试.](https://blog.csdn.net/zhanglong_4444/article/details/105682821)
- > CentOS7.6   万兆网卡性能测试.
- ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
+ ## [时 间 刺 客](https://blog.csdn.net/qq_35190492/article/details/105726850)
  > 
  ## [17 年微软老兵，非典型跨领域 AI 科研之路](https://blog.csdn.net/csdnnews/article/details/105760400)
  > 受访者 |罗翀记者 | 伍杏玲出品 | CSDN（ID：CSDNnews）「AI 技术生态论」 人物访谈栏目是 CSDN 发起的百万人学 AI 倡议下的重要组成部分。通过对 AI 生态...
@@ -238,56 +242,52 @@ categories: IT NEWS
  ## [苹果回应iPhone邮件漏洞；GitHub连续3天爆严重宕机情况；腾讯开源Transformer推理加速工具| 极客头条...](https://blog.csdn.net/csdnnews/article/details/105760408)
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
 # 人工智能 
- ## [如何通过代码插桩的方式在任何apk添加自己的逻辑代码](https://blog.csdn.net/pinksofts/article/details/105753954)
- > 如何通过代码插桩的方式在任何apk添加自己的逻辑代码
- ## [Android10.0通知Notification的使用这一篇就够了](https://blog.csdn.net/shanshui911587154/article/details/105683683)
+ ## [学习Java，你需要知道这些——Java数组](https://blog.csdn.net/qq_41505957/article/details/105750466)
  > 
- ## [nginx启动，停止，查看状态，重载脚本](https://blog.csdn.net/WEN_BK/article/details/105738565)
- > nginx启动，停止，查看状态，重载脚本
- ## [安卓打开相机相册功能实现，并通过SpringBoot对接Retrofit2上传图片（@RequestBody转变为MultiPartFile全流程，低门槛实现系列）](https://blog.csdn.net/qq_44403367/article/details/105739426)
+ ## [你真的懂得守护进程和优先级吗？](https://blog.csdn.net/Mr_wxc/article/details/105740755)
+ > 你真的懂得守护进程和优先级吗？
+ ## [JSON在Java中的相互转换](https://blog.csdn.net/Lance_welcome/article/details/105748248)
  > 
- ## [Android（Java）下载断点续传的实现](https://blog.csdn.net/fly_yuge/article/details/105737805)
+ ## [一口气带你踩完五个 List 的大坑，真的是处处坑啊！](https://blog.csdn.net/u014634309/article/details/105700463)
  > 
- ## [Android P适配以太网功能开发指南](https://blog.csdn.net/tkwxty/article/details/105725133)
- > Android P适配以太网功能开发指南
- ## [GLSurfaceView 线程交互 queueEvent](https://blog.csdn.net/u010281924/article/details/105752638)
- > GLSurfaceView 线程交互 queueEvent
- ## [在Android开发板跑一个LED驱动的历程(个人笔记)](https://blog.csdn.net/MACMACip/article/details/105720598)
+ ## [MyBatis-Plus（基于springboot）直接上手](https://blog.csdn.net/weixin_44625302/article/details/105725779)
+ > MyBatis-Plus（基于springboot）直接上手
+ ## [【Java数据结构与算法】 递归及迷宫问题（回溯）](https://blog.csdn.net/lolly1023/article/details/105750866)
  > 
- ## [使用LitePal操作SQLite数据库（增删查改）](https://blog.csdn.net/qq_38367681/article/details/105712392)
+ ## [如何使用装饰设计模式读取指定路径下的之纯文本文件的实现代码](https://blog.csdn.net/weixin_45791445/article/details/105736310)
+ > 如何使用装饰设计模式读取指定路径下的之纯文本文件的实现代码
+ ## [Spring IOC最简明理解](https://blog.csdn.net/weixin_44519467/article/details/105722883)
+ > Spring IOC最简明理解
+ ## [今天会是有Offer的一天么：面试时不要再问我LinkedHashMap了](https://blog.csdn.net/HZGuilty/article/details/105726788)
  > 
- ## [安卓开发—根据顾客预算显示食物信息](https://blog.csdn.net/k909397116/article/details/105719371)
- > 安卓开发—根据顾客预算显示食物信息
- ## [android工程师学习微信小程序笔记④ 小程序渲染层和逻辑层](https://blog.csdn.net/dpjcn1990/article/details/105748046)
+ ## [多线程实现30个人抢五个座位](https://blog.csdn.net/q15102780705/article/details/105722873)
+ > 多线程实现30个人抢五个座位
+ ## [java高仿qq(微信）界面](https://blog.csdn.net/qq_44716544/article/details/105714975)
  > 
- ## [安卓之Animator讲解](https://blog.csdn.net/jzdcuccess/article/details/105745003)
- > 安卓之Animator讲解
- ## [C和C++相互调用](https://blog.csdn.net/qq_44045338/article/details/105746744)
- > C和C++相互调用
- ## [iOS 操作触感震动 tab点击震动 按钮点击震动](https://blog.csdn.net/u013538542/article/details/105746776)
- > iOS 操作触感震动 tab点击震动 按钮点击震动
- ## [第一行代码 第三版 第11章 网络技术 11.1~11.2OkHttp](https://blog.csdn.net/Y_an_Y/article/details/105742945)
+ ## [Integer类的缓存机制](https://blog.csdn.net/weixin_41427129/article/details/105746527)
+ > Integer类的缓存机制
+ ## [Java TCP实现高仿版QQ聊天(一)](https://blog.csdn.net/qq_42376617/article/details/105723697)
+ > Java TCP实现高仿版QQ聊天(一)
+ ## [Java异常处理——try-catch-finally、throws，throw及体系结构](https://blog.csdn.net/yyp0304Devin/article/details/105752298)
+ > Java异常处理——try-catch-finally、throws，throw及体系结构
+ ## [关于equals()方法，jdk源码给出如下五点建议](https://blog.csdn.net/weixin_42762133/article/details/105706338)
  > 
 # PM 
- ## [京东小程序上线，剑指何方？](http://www.woshipm.com/it/3759890.html)
- > 各路玩家齐聚小程序， 京东小程序的上线，又会给互联网带来怎样的变化？小程序再添一家，这次入局的是电商巨头京东。2020年4月22日，京东小程序开放平台正式上线。此...
- ## [深度解析：媒体、社区、社交的区别](http://www.woshipm.com/it/3761503.html)
- > 笔者目前在一家汽车垂直领域公司负责UGC板块的产品运营工作，自身是一个7年的汽车、数码、旅游社区的重度玩家，从去年开始参与并逐渐主导公司的产品从媒体平台产品往UGC...
- ## [案例拆解：报名长投学院后，我发现他们社群运营的3个关键点](http://www.woshipm.com/operate/3761413.html)
- > 前段时间听朋友说，长投学院的小白训练营，堪称社群运营的典范！精细化地对用户进行深度化运营，最终促成用户成单。于是，作为运营汪的我，抱着学习的心态，报名潜伏他...
- ## [情感智能进行时，如何打开商业化正确姿势？](http://www.woshipm.com/ai/3761361.html)
- > 情感到底是如何被机器计算？情感智能的商业化是否靠谱？我们希望带着这些令人好奇问题深入到情感智能的最前沿。在初为父母的前几年时间里，你们会有一件其乐无穷的事...
- ## [百度网盘，到底限了谁的速？](http://www.woshipm.com/it/3758831.html)
- > 作为产品经理，我想客观的聊一聊网盘产品，聊一聊百度，只讲事实和逻辑，只讲自己的思考，不黑不吹，自娱自乐。百度好久没上热点，最近却被网盘上了两次。一次因为Pa...
- ## [用产品思维解决“提高内容类产品转/评/赞”的问题](http://www.woshipm.com/pd/3760207.html)
- > 要提高用户互动 (转/评/赞)，只要提升漏斗每一步的转化率即可。由于没有具体项目具体数据支撑，本文只能尽可能多的给出优化方案。真实情况下如何处理，还需根据实际情况...
- ## [互联网下房产交易中的服务与价值重构](http://www.woshipm.com/it/3760284.html)
- > 传统的房产交易中，房产代理商和中介充当了非常关键的角色，以代理的方式将开发商的房产销售给消费者，通过营销、案场、咨询、带看等服务赚取交易佣金和案场服务费。佣...
- ## [关于 Pandownload 和百度网盘，你想知道的都在这里了](http://www.woshipm.com/it/3758435.html)
- > 本周，百度网盘第三方客户端 Pandownload 被查，开发者被“跨省追捕”；百度网盘“用户激励计划”在未充分告知用户的情况下，利用用户自己的电脑做 P2P 上传节点。这两件事...
- ## [私域流量为什么会火？你不知道的背后](http://www.woshipm.com/operate/3754217.html)
- > 本文作者通过分析消费者在平台电商的消费场景中需求所发生的变化，找出私域的机会点在哪，以及私域又踩在哪个风口上，并以此来帮助大家更好的理解“私域”为什么会是一个...
- ## [教育产品如何玩转私域流量，这里讲透了！](http://www.woshipm.com/operate/3760372.html)
- > 这篇文章我想写了一年，一直在想要不要写一篇自己做教育产品的运营，最终还是写出来了，这个与大公司的教育产品线不同，更多的是一个小的教育机构如何活下去的案例，enj...
+ ## [3 个维度，拆解 3 款主流陌生人社交app（soul、探探、积目）](http://www.woshipm.com/evaluating/3756197.html)
+ > 本文以三款陌生人社交产品——soul、探探、积目为对象，分析了他们在底层核心的业务逻辑、社区差异、商业模式等方面的特点并做了对比分析，希望能帮你更好地了解这些产品...
+ ## [产品分析 | 用户破百万，学而思网校是如何做到的？](http://www.woshipm.com/evaluating/3753059.html)
+ > 现如今在线教育领域中，k12教育的发展备受瞩目，目前学而思品牌已经进入全国 55座大中城市。为何学而思网校能够在竞争日益激烈的市场中，稳健高速发展，并逐步成为行业...
+ ## [一个成功互联网产品必备的六个阶段](http://www.woshipm.com/pd/3764633.html)
+ > 一个成功互联网产品必备的六个阶段：功能、内容、更多、品牌、生态、标准，六个阶段不一定按照顺序来发展，也有可能到了一定阶段会回到前面的阶段开始再来，并不是说没...
+ ## [Soul产品思考：定位在灵魂交友有市场前景吗？](http://www.woshipm.com/evaluating/3764900.html)
+ > 你认为soul定位在灵魂交友有市场前景吗？会不会格局太小？需要打破原来的产品定位吗？回答：首先先明确问题答案：有市场，不会格局太小，不需要打破原来的市场定位。...
+ ## [交易平台（淘宝、京东、美团）的程序化广告设计](http://www.woshipm.com/it/3764587.html)
+ > 本文谈论的范畴是针对已形成规模的典型交易平台，有足够多的买家和卖家，比如淘宝、京东和美团。其他交易产品因为没有足够多的流量以及用户行为数据，故暂不做考虑。...
+ ## [带解决方案的需求如何接？只需这3步](http://www.woshipm.com/pmd/3760131.html)
+ > 很多时候我们都会遇到一种“你就这么做”的需求，如果处理不好，很可能给自己挖一个大坑。作者总结了3个步骤，希望可以帮到你。最近工作中总是接到一种需求：我要 XX功...
+ ## [想提高品牌价值？你可以这么用“红人带货”策略](http://www.woshipm.com/marketing/3763095.html)
+ > 结合可口可乐与完美日记的案例，我们发现红人不仅仅只是一个带货渠道、推广方式，我们还可以通过红人带货打造品牌印象与价值，并利用网络红人创造流行。网红带货无疑...
+ ## [答应我，Saas重构前这10个坑一定要看完！](http://www.woshipm.com/pd/3762783.html)
+ > 我觉得重构这个坑太大了，所以就从十个方向来说说，重构前到底有哪些点是值得注意的。如果你没有做过重构，请看完这10个坑后收藏起来，下次要重构前翻出来再仔细看一...
 
     
