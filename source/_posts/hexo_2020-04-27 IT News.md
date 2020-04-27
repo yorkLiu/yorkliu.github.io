@@ -1,7 +1,7 @@
 ---
 title: 2020-04-27 IT News
 copyright: true
-date: 2020-04-27 12:00:59
+date: 2020-04-27 17:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -81,21 +81,33 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [\[观察\]全新紫光云：“云数智”底盘再升级，背后的三重新价值](http://mp.weixin.qq.com/s?src=11&timestamp=1587960002&ver=2303&signature=s3515dk1ucNidAiCzQTxuu1iBxdtluFCAhTEzrXJbBvxRXFE7g8Tw*T2SzNfNTh8UWLgvtebBbf2fV-zKj2nIdoeViWnS6rELjpk3d5lDZF6oeCz89qUHxQwrA-omNVn&new=1)
- > 申耀的科技观察读懂科技，赢取未来！众所周知，随着全面云化时代的来临，企业客户的应用部署范围从数据中心扩展至公有云、私有云和混合云模式，其应用服务的复杂性和多样性也将快速上升，由此也带来了一系列巨大...
- ## [通信人，你究竟对珠穆朗玛峰做了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1587960002&ver=2303&signature=FNXBzglb4GyB4jATwr6cX4p1Y7SgnOUPvU5nHSLIqBynxTxQnI5chSoEGhVfJIMv27TIEd7u9sMemTHSwqJ8fpyQulT60EQqIaF9WCq3gpv0Uovrp7Fj3yPhYeXCk0Cf&new=1)
- > 还记得见证中国速度的武汉雷神山和火神山医院的5G“云监工”吗？有人说今年什么也没干，光见证历史了，那你知道4月的历史性时刻是什么吗？那就是珠穆朗玛峰有5G了！是的，你没有看错，珠峰上真的可以使用5G网络...
- ## [中国电信不许破格提拔获一片叫好，无数案例证明破格暗藏猫腻](http://mp.weixin.qq.com/s?src=11&timestamp=1587960002&ver=2303&signature=xxWYXSzquKZNck9MPUfq9uO9XFZH71whrRH0-q4*dmmUu9Gttr4porFdeevArb78IlEvI3LUHR4CpGUANP70ZHvtVg54dmcE3k6HNkGVrgUtK3lXHGzO7NEHq2MT-ac3&new=1)
+ ## [雪亮工程建设进入尾声，下一步将如何发展?](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=X6w*QX27z8ruikWispEHeIgQBPLnd8qaeTTByUSe4hGBCrWr6zfI2-FVqyykVEdGggbt6k9hXnLc2NK456aAjSr7-Nj7ucdpnKDmuVTWZ0JWdwivB964O9AbmeDQsnFC&new=1)
+ > 2020年是雪亮工程建设的最后一年，许多较为先进的地方已经实现公共安全视频监控应用“全域覆盖、全网共享、全时可用、全程可控”，雪亮工程一期正在进入尾声。雪亮工程效果较为理想雪亮工程写入了2018年和2019年...
+ ## [2020身份与访问管理的三大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=2B4oTj0oL5fuYv3X0dK6mdn8E8BETt5s1eEcDbWJO5txVPeJhpfdMLVfUysNdwQb5ny8jW5D61jRHKAb9t36hpPY4QuOwLJLkcb7hQsfkhPPjarJlz74HKgExe2DzqCW&new=1)
+ > 安全是企业数字化转型策略面临的最大困境。根据Ponemon Institute的数据，数据泄露的数量和损失持续增长，如今网络犯罪导致的数据泄露给企业带来的平均损失超过386万美元。下面这组数据可以帮我们快速了解与身份...
+ ## [详解北京联通推出的AI学习宽带：从价格到价值，升级运营商宽带业务](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=3Zgbstpux7ZBPMUIGYd3nMzrNP21FkDfnIEPQIxPimV0TjpRMpCyCWWD*Bp9jaIFAg*Pu1Asxaopl9IuOLNpmWbVg5HglmNKgs9GkIEH5mrJIqB72eHAY8dOdS*uided&new=1)
+ > 在线教育，很多家庭认为距离自己很远，但是年初这场突如其来的疫情，许多家庭都加入到在线上课大军中。但是在线课堂的卡顿或断线问题，直接影响到学生和老师课堂体验，一定程度上影响了“停课不停学”的顺利开展...
+ ## [波士顿狗加入抗疫大军；SpaceX成功发射第七批网络卫星!|科技前沿周报](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=-5H81DzPBSiuwNBkkKm7MF8qxiLIGjesJlio*eqq*RDC-xtMlGTfkt6tbRzeTPYZwQ3Ie9COrX9OoM6xVBQVVK*gZlpkE6tkx72jn2jD4UsM8PdbvuuH*5hBbWaLEryv&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作Hello大家好呀！硅谷前沿科技周报又跟大家见面了。上周科技界又发生了哪些大事呢？小探带你来看看吧！首先，前沿科技方面，科技界的“网红”波士顿狗正式加入抗疫大军...
+ ## [当当网回应李国庆“夺权”；小米：为常程不当言论道歉；Rust 1.43.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=ExWLQvlQw5obbpcOr9*677ab3sfd07hewA7T5f3yWRpcIMtXsb3OgjtsE38ooyXH6Xsy4u--qN8XxNx25mP8papot0SmKDTfKGfW0t*4sg0iO0LeK-qHrH*G8iBKoUhA&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [中国电信不许破格提拔获一片叫好，无数案例证明破格暗藏猫腻](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=xxWYXSzquKZNck9MPUfq9uO9XFZH71whrRH0-q4*dmlG044tkD03G2aUvcCmPA7JwwndTtDBw*N*nxGFa4X*ivYq0ySxtpJrKvC6Y9l2bji0MytjFFS9NefyOh26k59u&new=1)
  > 来源 运营商财经网  八卦叨曝中国电信80后员工要有重要人事调整，部分省公司被要求至少2名80后正处干部，但不许破格提拔。近日，据知情人士独家透露，中国电信要求部分省公司至少配备2名80后三级正职优秀年轻干...
- ## [联通一直不公布5G用户数，太少以致于不好意思公布?](http://mp.weixin.qq.com/s?src=11&timestamp=1587960002&ver=2303&signature=ZIb1A0tgkTtbiGs*GTYIGvls*dsVsxkmGUD-Wdk37UXzmwD4jqcX4nckdqoN4u0ECIjxWF57zXVVhCoyVZpTq*0pAwgQJDbiSbeWQ1OGB1-6ET87kSGDK39Mea7P1017&new=1)
+ ## [联通一直不公布5G用户数，太少以致于不好意思公布?](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=ZIb1A0tgkTtbiGs*GTYIGvls*dsVsxkmGUD-Wdk37UUUAmpvRpnsJuaO5v-*hSo14Rk5Johqdqy2bzUOOrH59EjGQXZ9YKiaOeIDRLxUj6xkRoOGdi8WqRcRdeB5uZBV&new=1)
  > 中国联通一直都没有公布5G用户数，而中国移动和中国电信都已公布了，近日工信部新闻发言人表示截止3月底5G用户已达到5000多万，由此可以大约推断出中国联通的5G用户数。近日国新办就2020年一季度工业通信业发展...
- ## [重磅!中国工程院发布“中国电子信息工程科技发展十六大挑战”](http://mp.weixin.qq.com/s?src=11&timestamp=1587960002&ver=2303&signature=T3PCcLi*Qw0TRauvJY1l4R0Wm4eUOazo527uCJvSY0W82TdV343eSkzLSKMAApyEwtoJenErArMTkY6gBS0IZdBXLcTxTlUf*GKG139F*-OLyYlGSiE2aTK1a4MyZQSJ&new=1)
+ ## [通信人，你究竟对珠穆朗玛峰做了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=FNXBzglb4GyB4jATwr6cX4p1Y7SgnOUPvU5nHSLIqByaO9prPo2xBBKLHs66wS9JLL-1dsrSHjdcochalGv*OOdf6Np5jZ1ag4-LwXLZY6bOGZidL6oZ0AAfmdlaC0E7&new=1)
+ > 还记得见证中国速度的武汉雷神山和火神山医院的5G“云监工”吗？有人说今年什么也没干，光见证历史了，那你知道4月的历史性时刻是什么吗？那就是珠穆朗玛峰有5G了！是的，你没有看错，珠峰上真的可以使用5G网络...
+ ## [\[观察\]全新紫光云：“云数智”底盘再升级，背后的三重新价值](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=s3515dk1ucNidAiCzQTxuu1iBxdtluFCAhTEzrXJbBsC2dcJTQlI4navmYN4eTHQph6hXXUUeZJG30F6b*LGGwcnsZ9QIRISd0F8ialIR7T07X8Il9pOtltzn4WpwJzT&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！众所周知，随着全面云化时代的来临，企业客户的应用部署范围从数据中心扩展至公有云、私有云和混合云模式，其应用服务的复杂性和多样性也将快速上升，由此也带来了一系列巨大...
+ ## [重磅!中国工程院发布“中国电子信息工程科技发展十六大挑战”](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=T3PCcLi*Qw0TRauvJY1l4R0Wm4eUOazo527uCJvSY0XYIy9osHNoN1UNgWMeKs1G*9BjG5*zGlTZBQV8p8bXF3vIUivUzTz5xOQq73m0ygwEIlgdHmTEIA4ZQWRL2aUL&new=1)
  > 为深入贯彻党的十九大和党中央关于推进我国新型数字基建相关精神，推动我国电子信息工程科技领域高质量发展，助力数字基建科学发展驱动壮大经济新动能。4月26日，中国工程院信息与电子学部、中国信息与电子工程...
- ## [6G俱乐部到访中国联通华盛通信有限公司](http://mp.weixin.qq.com/s?src=11&timestamp=1587960002&ver=2303&signature=Sc9xa8*t1o3vMI5FM0Qzy*DvZ9LQQ0luITxZ9nB-CqanK4K6xgwRQ6ZZ6Hn1t6ilvR1CBbLVWJjDRYt1iT0XLM*j82Rp6lrrowMoxEzuchLN7tjbTxP8U0VOhHrdDYZ0&new=1)
+ ## [6G俱乐部到访中国联通华盛通信有限公司](http://mp.weixin.qq.com/s?src=11&timestamp=1587976206&ver=2303&signature=Sc9xa8*t1o3vMI5FM0Qzy*DvZ9LQQ0luITxZ9nB-Cqb-aJDKK7FMaQwwULduCdhXaz*AQsD3jvvF8dCsBXUU3MtKyvijQXYW8vigDLN15HT8h8XnfmTWciWfJaqS3gBh&new=1)
  > 飞象网讯6G俱乐部4月22日，到访中国联通集团华盛通信有限公司，疫情时期，都是真爱！双方就5G到6G时代的产业促进、网络迭代、终端演进、渠道蜕变等热点话题，展开天马行空式的探讨，未来广阔的合作空间大有作为...
 # IT 技术 
  ## [六种双因素认证方式的利与弊](http://netsecurity.51cto.com/art/202004/615242.htm)
  > 六种双因素认证方式的利与弊
+ ## [当前疫情下火爆的直播应用，你了解背后的技术架构吗？](http://developer.51cto.com/art/202004/615419.htm)
+ > 当前疫情下火爆的直播应用，你了解背后的技术架构吗？
  ## [Python有哪些神一般的蜜汁操作？（附代码）](http://developer.51cto.com/art/202004/615325.htm)
  > Python有哪些神一般的蜜汁操作？（附代码）
  ## [决策树的复兴？结合神经网络，提升ImageNet分类准确率且可解释](http://news.51cto.com/art/202004/615323.htm)
@@ -108,28 +120,26 @@ categories: IT NEWS
  > 新风口卫星互联网：战火早已熊熊燃烧
  ## [通信人，你究竟对珠穆朗玛峰做了什么？](http://network.51cto.com/art/202004/615381.htm)
  > 通信人，你究竟对珠穆朗玛峰做了什么？
- ## [三招实现高效的企业级微服务治理](http://developer.51cto.com/art/202004/615231.htm)
- > 三招实现高效的企业级微服务治理
- ## [让安全过程清晰可见!安博通发布SIIP过程安全架构](http://netsecurity.51cto.com/art/202004/615432.htm)
- > 4月22日，「VNSTech 2020 ・ 金融科技专场」安博通SIIP过程安全架构发布会在线上成功召开。会上，安博通提
- ## [编程中，有哪些好的习惯一开始就值得坚持？](http://news.51cto.com/art/202004/615431.htm)
- > 嗨，小伙伴们大家好，我是沉默王二，就是那个吹自己既有颜值又有才华的家伙。今天这个话题我觉得还是值得和
- ## [运营商是否应该将5G部署计划推迟至2021年？](http://network.51cto.com/art/202004/615430.htm)
- > 根据Strategy Analytics的预测，今年智能手机销量将下降21%(尽管到2021年将恢复良好势头)，这也将影响升级
- ## [颠覆5G的是6G？马斯克：不，是我的卫星互联网](http://network.51cto.com/art/202004/615429.htm)
- > 近日，马斯克透露了以“星链计划”为主体的卫星互联网业务时间表：“3个月内私人内测，6个月内推出公测版本
- ## [人才“大脑”，解锁人力资本管理变革](http://ai.51cto.com/art/202004/615427.htm)
- > “企业越来越愿意为这种更有人性、温度和丰富的简历视频内容买单，因为它们可以还原候选人本质、还原业务本
- ## [苹果确认：几乎所有iPhone都存在一个严重漏洞](http://zhuanlan.51cto.com/art/202004/615426.htm)
- > 威胁监控公司ZecOps本周发布了一个“大新闻”，指出：Apple iOS Mail应用程序中存在三个严重漏洞，可被黑客
- ## [托管数据中心客户如何通过数据中心管理工具远程工作](http://server.51cto.com/Datacenter-615425.htm)
- > 由于冠状病毒爆发，全球各地发布的出行禁令规定对于托管服务提供商采用远程数据中心管理工具为其客户继续提
- ## [大数据揭穿高额索赔“马脚”](http://bigdata.51cto.com/art/202004/615424.htm)
- > 没有就医却有一把就诊发票，这是啥情况?近日，在黑龙江省部分地区，出现了持有伪造发票向保险公司索赔的情
- ## [47000名开发者每月产生30000个漏洞 微软是如何用AI排查的](http://ai.51cto.com/art/202004/615423.htm)
- > 目前微软共有47000多名开发人员，每月会产生将近30000个漏洞，而这些漏洞会存储在100多个AzureDevOps和GitH
- ## [简化数据湖可为组织节省时间和资源](http://bigdata.51cto.com/art/202004/615421.htm)
- > 行业专家首席解决方案架构师Mark McQuade对组织在寻求降低其数据湖的复杂性时需要考虑的问题提供了自己的见
+ ## [值得期待的Python 3.9的新功能](http://developer.51cto.com/art/202004/615459.htm)
+ > Python 3.9 beta预计下个月就要发布了，那么3.9有那些让我们期待的新功能和变更呢?本我我们一起来说Python
+ ## [Bodhi Linux 5.1一览: 略有不同的轻量化Linux](http://os.51cto.com/art/202004/615460.htm)
+ > Bodhi Linux 是一个基于 Ubuntu 的轻量级 Linux 发行版。与其他大多数发行版不同，Bodhi 使用自己的 Moksha
+ ## [5大很有前途的5G智能互联应用行业分析](http://network.51cto.com/art/202004/615454.htm)
+ > 2019年见证了5G商用能力的出现。2020年，让我们来看看5G将如何影响我们的生活，推动新的创新发展，看看5G的
+ ## [国内比较火的5款Java微服务开源项目](http://news.51cto.com/art/202004/615453.htm)
+ > 本文介绍国内比较火的5款Java微服务开源项目，pig是基于Spring Cloud、OAuth2.0、Vue的前后端分离的系统。
+ ## [探索对话式AI及其技术组件的能力](http://ai.51cto.com/art/202004/615450.htm)
+ > 今天，自动化、人工智能(AI)和自然语言处理(NLP)的进步使设计经济高效的数字体验成为可能。
+ ## [《网络安全审查办法》要点解读](http://netsecurity.51cto.com/art/202004/615451.htm)
+ > 12部门联合发布《网络安全审查办法》，将于今年6月1日起实施。此次《办法》的出台，正是基于对关键信息基础
+ ## [全球第一个破解iPhone的人开直播了，内容涉及“全人类工程”？](http://news.51cto.com/art/202004/615455.htm)
+ > 大家不要以为黑客就是专门搞破坏的人，其实不是，细数国人对于“黑客”一词的定义我们就知道，只是一些对于
+ ## [5个很棒的 React.js 库，值得你亲手试试！](http://developer.51cto.com/art/202004/615449.htm)
+ > React在过去几年变得越来越受欢迎，随之而来的是越来越多的库的发布，给我们带来了新的可能性。在本文中，
+ ## [部署一个私有的在线绘图服务](http://os.51cto.com/art/202004/615447.htm)
+ > 要完整部署该项目需要用 ant 来编译 war，并用 tomcat 托管。但是，我不想用 ant 去编译也不想和 Tom 猫发
+ ## [2020年了，医疗VR还会复苏吗？](http://mobile.51cto.com/vrar-615445.htm)
+ > 在2019年后的很长一段时间，VR在医疗领域的发展似乎出现了停滞――有限的应用与没那么完美的体验，人们对这
  ## [自学编程的 6 个致命误区](https://blog.csdn.net/qing_gee/article/details/105685320)
  > 
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
@@ -138,25 +148,25 @@ categories: IT NEWS
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
- ## [Apple为什么不封杀 Flutter，以后会封杀吗](https://blog.csdn.net/xiangzhihong8/article/details/105033070)
- > 
+ ## [啥水平？谷歌程序员：我用东北方言编程](https://blog.csdn.net/kebi007/article/details/104284800)
+ > 啥水平？谷歌程序员：我用东北方言编程
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
  > 
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
+ ## [程序员毕业去大公司好还是小公司好？](https://blog.csdn.net/harvic880925/article/details/105021956)
+ > 程序员毕业去大公司好还是小公司好？
  ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
  > 
- ## [base64文件流互转](https://blog.csdn.net/youku1327/article/details/105278528)
- > base64文件流互转
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
  ## [为什么猝死的都是程序员，基本上不见产品经理猝死呢？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/103841693)
  > 为什么猝死的都是程序员，基本上不见产品经理猝死呢？
- ## [这些插件太强了，Chrome 必装！尤其程序员！](https://blog.csdn.net/qing_gee/article/details/104340125)
+ ## [【Java面试题】List如何一边遍历，一边删除？](https://blog.csdn.net/zwwhnly/article/details/104987143)
+ > 
+ ## [Python10行以内代码能有什么高端操作](https://blog.csdn.net/ZackSock/article/details/105193651)
  > 
  ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
  > 如果你是老板，你会不会踢了这样的员工？
@@ -185,59 +195,73 @@ categories: IT NEWS
  ## [收藏！Java 500 道核心面试题全解析](https://blog.csdn.net/csdnnews/article/details/105781130)
  > 每个技术人都有个大厂梦，我觉得这很正常，并不是饭后的谈资而是每个技术人的追求。像阿里、腾讯、美团、字节跳动、京东等等的技术氛围与技术规范度还是要明显优于一些创业型公司/小公司，如果说能够...
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [学习Java，你需要知道这些——Java数组](https://blog.csdn.net/qq_41505957/article/details/105750466)
+ > 
+ ## [JSON在Java中的相互转换](https://blog.csdn.net/Lance_welcome/article/details/105748248)
+ > 
+ ## [可能是全网最全的SpringBoot启动流程源码分析（基于 2.1.5 版本）](https://blog.csdn.net/qq_33589510/article/details/105755279)
+ > 
+ ## [你写的JSP就是JSP么？](https://blog.csdn.net/qq_31821675/article/details/105760298)
+ > 你写的JSP就是JSP么？
+ ## [你真的懂得守护进程和优先级吗？](https://blog.csdn.net/Mr_wxc/article/details/105740755)
+ > 你真的懂得守护进程和优先级吗？
+ ## [手写SHA1加密算法（Java版）](https://blog.csdn.net/Aikin_Tony/article/details/105770067)
+ > 手写SHA1加密算法（Java版）
+ ## [java序列化和反序列化，面试必备](https://blog.csdn.net/weixin_41427129/article/details/105756415)
+ > java序列化和反序列化，面试必备
+ ## [一口气带你踩完五个 List 的大坑，真的是处处坑啊！](https://blog.csdn.net/u014634309/article/details/105700463)
+ > 
+ ## [MyBatis-Plus（基于springboot）直接上手](https://blog.csdn.net/weixin_44625302/article/details/105725779)
+ > MyBatis-Plus（基于springboot）直接上手
+ ## [java高仿qq(微信）界面](https://blog.csdn.net/qq_44716544/article/details/105714975)
+ > 
+ ## [java 8 stream中的Spliterator简介](https://blog.csdn.net/superfjj/article/details/105761148)
+ > 
+ ## [大数据岗位必知必会的53个Java基础](https://blog.csdn.net/weixin_44318830/article/details/105776061)
+ > 
+ ## [Java异常处理——try-catch-finally、throws，throw及体系结构](https://blog.csdn.net/yyp0304Devin/article/details/105752298)
+ > Java异常处理——try-catch-finally、throws，throw及体系结构
+ ## [《三周Java学习总结》](https://blog.csdn.net/yeyu_xing/article/details/105736278)
+ > 《三周Java学习总结》
+ ## [【Java数据结构与算法】 递归及迷宫问题（回溯）](https://blog.csdn.net/lolly1023/article/details/105750866)
+ > 
 # PM 
- ## [从「生态链」视角，看儿童硬件产品的功能属性](http://www.woshipm.com/pd/3771205.html)
- > 在互联网与硬件公司竞相发力的儿童硬件产品领域，这一类型产品的发展趋势是怎样的呢？目前这类产品又主打哪些功能与优势呢？针对这些问题笔者将详细解答。在互联网用...
- ## [京东健康体验报告](http://www.woshipm.com/evaluating/3758164.html)
- > 如今各大厂开始涉足医疗健康领域，未来的健康领域，是否会被互联网完全改变？今天我们来聊聊京东旗下的一款医疗健康类产品——京东健康。市场上已经存在京东健康、丁香...
- ## [产品分析 | 社交电商赛道拥挤，京喜发展迅速缘由？](http://www.woshipm.com/evaluating/3759505.html)
- > 本文从用户价值、商业价值、产品结构和运营多个方面对京东京喜app进行了分析，探讨“京喜”产品的用户增长策略。继拼多多，阿里，苏宁进攻下沉市场后，2019年10月底京东...
- ## [大屏数据可视化规范总结](http://www.woshipm.com/pd/3770137.html)
- > 最近关于大屏的项目做的比较多，目前手头项目结束，有时间将内容整理分享，基于目前手上的某省监狱项目做可视化大屏规范分享希望能对大家有所帮助。大屏数据可视化概...
- ## [办公室文员转行新媒体运营，首先你要关注这些问题](http://www.woshipm.com/operate/3765837.html)
- > 近几年来，互联网行业的热度依旧不减，并吸引了大量传统行业人员入局，而笔者成功转行到新媒体运营后，与大家分享转行前需要了解的信息与规划。随着互联网的发展，运...
- ## [网易云音乐七年，在线音乐的变与不变](http://www.woshipm.com/it/3762906.html)
- > 网易云音乐的7年，也是在线音乐不断推翻重建的7年。时间可真快，一转眼网易云音乐都7周年了。4月23日，网易云音乐通过7周年内部信全新发布了 “传递音乐美好力量”的企...
- ## [「五一」将至，看品牌如何借势？](http://www.woshipm.com/marketing/3758851.html)
- > 五一假期将至，各大品牌的节日借势营销也蓄势待发，那么在一睹品牌的五一营销大战前，先来让我们回顾一下品牌以往的借势案例吧。2020的速度，快得有点不太现实。感觉“...
- ## [始于家政、兴于家政，到家服务平台最终或只剩家政](http://www.woshipm.com/it/3767646.html)
- > 一场疫情却正在加速裸泳者现形，有业内人士认为“美团只是平台，没有生态，注定走不长久”，而始于家政、兴于家政的58到家，在内忧外患之下，最终也或将只剩家政。到家...
- ## [从人/货/场维度，解析“直播带货”还能火多久？](http://www.woshipm.com/it/3767095.html)
- > 上一篇文章，《“直播带货”到底还能火多久？（附“淘宝直播”平台体验分析）》，从宏观角度解读了直播带货还能火多久，经过将近1个月的时间，本篇文章就重点从人-货-场三个...
- ## [简约至上的产品设计（2）：愿景是简单的指南](http://www.woshipm.com/pd/3772219.html)
- > 在实际工作中，愿景很多时候等于“画饼”，今天让我们一起看一看画饼的正确姿势~我们会发现，大到一个国家，小到一个公司，再聚焦到一个产品，总有一个flag树立在那，能...
- ## [以“业务决策型数据产品”为例，洞察数据产品的三个价值](http://www.woshipm.com/pd/3771011.html)
- > 本文将以服务企业内部员工的业务决策型数据产品为例，分享数据产品在数据驱动落地中，应该追求的三个价值：用户价值、商业价值、组织价值。非常喜欢阿里的一句话“一切...
+ ## [B站优质社区氛围营造之法，你学会了么？](http://www.woshipm.com/operate/3772167.html)
+ > 如果说内容是社区产品的第一道护城河，那良好的社区氛围就是社区类产品的第二道护城河，本文以B站举例，讨论如何营造营造良好的社区氛围。在所有国内主流的内容社区中...
+ ## [如何提升产品团队整体PRD的输出质量？](http://www.woshipm.com/pmd/3765877.html)
+ > 本文作者从自身经验出发，结合案例对产品团队如何输出高质量的PRD这个问题进行了梳理分析，希望能给你带来启发与思考。还是在做互助的时候，团队里有个小姑娘，虎头虎...
+ ## [信息流产品的商业模式与产品玩法分析](http://www.woshipm.com/pd/3771062.html)
+ > 本文作者对信息流产品的商业模式以及盈利方式进行分析解读，与大家分享。商业模式是决定产品是否能可持续发展且扩大的核心，没有商业模式就没有不断的产品迭代。今天...
+ ## [流利说英语 VS 开言英语竞品分析：谁更胜一筹？](http://www.woshipm.com/evaluating/3683981.html)
+ > 流利说英语和开言英语都是英语类的学习产品，这两个产品有什么相似点和差异点，在使用的时候，你会选择哪款产品呢？一、目的近半来年为提高英语能力，在朋友推荐和自...
+ ## [半年融资45亿，1年死掉50%，社区拼团一开始就是错的](http://www.woshipm.com/it/3760625.html)
+ > 社区拼团的交易链路倚重于人，而人是最大的不确定性。早在2019年初，我曾与一位投资人交流过社区拼团。当时我们都认为，当前消费互联网创业，其实都是资本密集型产业...
+ ## [五一劳动节来了，10个方面做好话题营销！](http://www.woshipm.com/marketing/3770925.html)
+ > 五一就到眼前了，运营er，你们的营销活动准备好了吗？好久不见，这一期的5分钟学话题营销，我们跟大家聊一下，五一劳动节怎么去做话题营销。会从三个方面来解构。第...
+ ## [产品需要参与哪些渠道管理环节？](http://www.woshipm.com/pmd/3765889.html)
+ > 上一篇讲过解决方案厂家缺乏本地化销售和运维能力，需要地区渠道代理帮助形成完整的营销和售后闭环。这一篇会简单梳理，在区域市场治理和渠道管理方面，与产品部门有关...
+ ## [电商订单是如何生成的？它有何奥秘？](http://www.woshipm.com/pd/3742068.html)
+ > 交易系统一直是电商的核心模块，几乎所有业务都围绕其展开，看似简单的下单流程，实际涉及的模块、内容也很庞杂。这次就把订单下单的整体链路抽象出来，与大家分享。...
+ ## [直营电商采购账务难点，怎么解？](http://www.woshipm.com/it/3766515.html)
+ > 针对直营电商，当电商后台产品做到一定程度，一定会把业务、财务打通，做到一体化的处理。这个时候针对采购账务，在产品规划上就会遇到几个难点。在本文中，笔者从业务...
+ ## [互联网公司是怎么做背景调查的？调查哪些内容？](http://www.woshipm.com/zhichang/3419805.html)
+ > 本文作者从自身工作经验出发，分享了关于背景调查的相关知识，时下找工作不容易，希望能够帮助大家尽快顺利上岸。近日，BOSS直聘发布《2020应届生春招求职趋势报告》...
+ ## [库存管理：看懂库存扣减方式，至少不会卖错货](http://www.woshipm.com/pd/3765919.html)
+ > 在电商后台库存管理系统中，看懂库存扣减方式，是很重要的，最起码可以避免不要卖错货。在电商后台库存管理系统中，影响库存的行为，主要是入库和出库，出入库的主要...
+ ## [从5个故事出发，谈谈设计创新的思维养成论](http://www.woshipm.com/pd/3525130.html)
+ > 当我们要做创新时，应该先知道些什么？或者有什么准备呢？笔者近期在项目团队里为一群做程序与算法研究的小伙伴们，就“设计与创新”进行阐述和分享，下面转化成图文版分...
+ ## [读书也可以很有趣，记如何养成阅读习惯~](http://www.chanpin100.com/article/111460)
+ > 读书习惯 阅读  听书
+ ## [在外包公司做产品经理是什么样的体验？](http://www.chanpin100.com/article/111459)
+ > 以客观的态度去看待问题，优劣各半
+ ## [功能分析之如何设计搜索入口](http://www.chanpin100.com/article/111458)
+ > 搜索入口相当于用户搜索流程的第一步，在设计上不同品类设计方案也不尽相同，今天我们来聊一下搜索入口都有哪几种设计方案？
+ ## [工欲善其事必先利其器，数据产品经理必备的工具包](http://www.chanpin100.com/article/111457)
+ > 工欲善其事，必先利其器。今天为大家分享数据产品经理必备的工具包，方便大家在掌握专业术语和产品实现流程后，能够使用工具快速出活儿。数据产品经理的工具包，基本上与产品实现流程、日常工作管理相关，大致包含：交互设计、文档编辑、脑图、流程图、数据可视化、代码编辑等专业工具，以及项目管理、清单管理的通用工具。
+ ## [为什么单选按钮和复选框不能共存？](http://www.chanpin100.com/article/111456)
+ > 界面设计经验分享~
+ ## [【全民KOL】为什么很多人一边骂着百度，一边用百度来搜索？](http://www.chanpin100.com/article/111455)
+ > 一群人儿，一个话题儿
  ## [教育产品如何玩转私域流量让利润翻倍，这里讲透了！](http://www.chanpin100.com/article/111454)
  > 一个YY账号、一个网站和一堂教程，四五个人，我们一个月可以做到20多万的利润，私域流量2000人左右
  ## [从三个角度，深入理解需求是什么](http://www.chanpin100.com/article/111453)
@@ -246,6 +270,8 @@ categories: IT NEWS
  > 简介：IP是移动游戏中重要的内容元素和组成部分，带有IP属性的移动游戏产品是市场收入增长的主要动力。而到了2019年，移动IP游戏在产业背景优化、市场精品化等因素的驱动下保持了持续的增长，市场收入规模突破了一千两百亿元，增速高于市场大盘。预计2021年将达1697.0亿元，在移动游戏市场中的占比进一
  ## [直营电商采购账务难点，怎么解（下）？](http://www.chanpin100.com/article/111451)
  > 直营电商中，采购的账务处理令产品经理们头大，怎么解？本篇是“解药”。
+ ## [一切数据业务化：数据产品追求的三个价值](http://www.chanpin100.com/article/111449)
+ > 马云曾经提到：没有任何企业会脱离互联网，未来三十年不是属于互联网公司，而是属于用好互联网的公司。我认为用好互联网的最核心方式，就是用好数据，以数据来驱动企业的价值实现。今天为大家分享数据产品在数据驱动落地中，应该追求的三个价值：用户价值、商业价值、组织价值。
  ## [从字节跳动再度发力搜索中学习产品分析](http://www.chanpin100.com/article/111448)
  > 产品经理如何在新闻事件后侃侃而谈，提出自己的看法。
  ## [慈善演唱会里的巨星，像极了快手里的“普通人”](http://www.chanpin100.com/article/111447)
