@@ -1,7 +1,7 @@
 ---
 title: 2020-04-28 IT News
 copyright: true
-date: 2020-04-28 12:01:18
+date: 2020-04-28 17:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -84,87 +84,91 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [一季度手机出货量少了2800万部，有人要给「指条明路」](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=tjtGXBeruyUyDuenXAGzIgw*RXAyec9MTG*IB4LdcYhVk55gRxBgRz76HUm7*raaGUiwUkapCKSF4dt6KFcOK3GW*0NNxCae7Pgbf8xckHCyJKeCsbLLd21Oq-NPLivV&new=1)
- > 伊瓢 发自 凹非寺量子位 报道 | 公众号 QbitAI智能手机，2010年风起，距今也十年了吧。今天说个行业小秘密。差不多近5年来吧，有这样一个行业大会，有这样一个手机品牌老大，每年演讲总能给行业里“别有用心”的...
- ## [0门槛升级智能空调?一文解析AI语音智能遥控伴侣方案!](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=sadwA1miDRgu1U03fWtbjJEz0r3HT6DLp9YrsXOSzqfg11*KfL8Y8PT2IZ2-G*5dJgd5ozb7grgkGW3aWG2zWj6JRabu9LcKbrlEWS0upm1lFP2ZKYpo4S9nxM7Z8dOd&new=1)
+ ## [0门槛升级智能空调?一文解析AI语音智能遥控伴侣方案!](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=sadwA1miDRgu1U03fWtbjJEz0r3HT6DLp9YrsXOSzqc6VqMxkof-42SIz*N1TWGF9stwb1tq1VCwnEkdSVvOWVzHUAF9bDq9Vaa6k21f5un7t4SATZR31JKi*o7LSsHE&new=1)
  > 夏天马上又到了，作为一名吹空调专家，最深恶痛绝的，并不是空调不够凉快，而是空调的遥控。先不说经常玩失踪，用户对于空调的使用要求相对多变，但遥控器上的功能键又多又复杂，认得住的只有个别几个按键，有没...
- ## [免费网盘要怎么选?不限速才是关键!](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=MG1oO8Ss6Iq2ebQRPLT8aWWVBNRkxojWdqa29Q*f67RAYvV4GmTN-JLsbRGejBxKMKAspZBCSBYSLuOd--sz14HTXhQSYHaC01DxAJpjzJieAI36Aklo5rCfoUFqwCvs&new=1)
+ ## [免费网盘要怎么选?不限速才是关键!](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=MG1oO8Ss6Iq2ebQRPLT8aWWVBNRkxojWdqa29Q*f67StzwR3XW5OmWddnLQZbvVaJMOvL5QvlYcYVW4smr7B-ibIbP*x2Qf-Zn6KgS4H7lHgoPry3t3Y2QTIxECWYUvs&new=1)
  > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容网盘可以说是网络技术成熟后的一项给力发明，有了它，可以在不同设备上方便地倒腾数据。相比传统的U盘、移动硬盘等，网盘可以提供更加大的空间、更能保障数...
- ## [德勤：2020技术趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=eexAQknVsKHW4krHbVR8eANwk7yuMxkfXD9Pp90UaiVhLVC8SjMzjug3nHDnudnGoI545NNNcsYEVyAue7JG2DUrEgbkj*iINUZkbPnK9XwvPHdN1mmuahnUH1fMVUZa&new=1)
+ ## [一季度手机出货量少了2800万部，有人要给「指条明路」](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=tjtGXBeruyUyDuenXAGzIgw*RXAyec9MTG*IB4LdcYhFrs5Y6vdfZxBEscQrLVAl5GLcUo*B5yiQAe1qNrTAC2wAretOFGr1AFq1Ygm4DQh0M6*b85EqYIfsZo3LOw8T&new=1)
+ > 伊瓢 发自 凹非寺量子位 报道 | 公众号 QbitAI智能手机，2010年风起，距今也十年了吧。今天说个行业小秘密。差不多近5年来吧，有这样一个行业大会，有这样一个手机品牌老大，每年演讲总能给行业里“别有用心”的...
+ ## [德勤：2020技术趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=eexAQknVsKHW4krHbVR8eANwk7yuMxkfXD9Pp90UaiXPeY*DSA0x9hhHX8PxIQOXbNp7LEkjyYDFZXlXEIvbny5Yhw057ZP0xCPw7cE5aD6dNnRzkb18PHZSwcZgZpUX&new=1)
  > 导读今年的技术趋势报告继续在开篇回顾了11年来的技术趋势发展，展示了技术趋势随时间推移的演进全过程，及最新宏观科技力量作为业务转型基础带来的共生效益，和不久的未来的新兴科技力量。随着企业需要适应不断...
- ## [2019年智能科学与产业综述论文盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=mEcBBaLGfKTsy7Nig2Z8cXQ87yGSWE5-1YTsg6wJaR5IRt2ZVDognENUmRoGOtVNN*EUJT0nB5CkJ8uWdWL6hVjmxkzriuL5QMnlz4Vt7LswIoureUQ3ZFCDQSqFQgvO&new=1)
+ ## [2019年智能科学与产业综述论文盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=mEcBBaLGfKTsy7Nig2Z8cXQ87yGSWE5-1YTsg6wJaR7Gbn6H7oZogKZZrgnrdeLVd6sCJNKa4OSeD8OO1I0AIx-NuI4guZuGeWoKeqluIEsUB3mCgdj-dFpnpoZ34JAn&new=1)
  > 来源：计算机研究与发展2019年综述论文盘点1.智能芯片的评述和展望（韩栋,周聖元,支天,陈云霁,陈天石）2.闪存存储的重构与系统构建技术（陆游游,杨者,舒继武）3.基于动态权衡的新型非易失存储器件体系结构研究综...
- ## [云创大数据荣膺白下高新区“疫情防控科研攻关特别贡献奖”](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=9GjAcf0XpizxAx2bFGLQ-7bXdxtYNqUkNRGZmwactqDaW5QP6gXI5rKrSby0sTheYS*66wmOwHREZ4u9Vba6AkPi6Oj89UOHtVhkaQYEAjD3gl66HmbUT4QK3yT6xL85&new=1)
+ ## [云创大数据荣膺白下高新区“疫情防控科研攻关特别贡献奖”](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=9GjAcf0XpizxAx2bFGLQ-7bXdxtYNqUkNRGZmwactqBoSIrQerZaySplKRDDW14kx10dqaKlCP80Bb1eJMQLX4iBx6GFXS1TC*nnSAhKONPrzhciXMTW3TZSM5rd6gbH&new=1)
  > 4月26日，白下高新区·秦淮硅巷“抗&x27;疫&x27;优企”表彰大会暨4·26世界知识产权日政策宣讲会在南京白下高新技术产业开发区管委会举办。本次大会由南京白下高新技术产业开发区管委会主办，秦淮区市场监督管理局指导，...
- ## [山大地纬科创板IPO过会](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=a7rmGzugCc-*lsBotJS3na6qBhep2a9EMwsqiEv7898J7t2-D0fj702P5UAX9RXfQl2tbcVU3p6B4-s4LIGO0aYHXhNRLPr-bbouzCqhE-Y=&new=1)
+ ## [山大地纬科创板IPO过会](http://mp.weixin.qq.com/s?src=11&timestamp=1588062607&ver=2305&signature=a7rmGzugCc-*lsBotJS3na6qBhep2a9EMwsqiEv789*U4ZmFE2rzetfOnvHjb8L6E2xko1AJvY03zf44afTBNerEM-LHKw-2OT9vy9Zo-UQ=&new=1)
  > 上证报中国证券网讯（记者 祁豆豆）4月27日，上交所发布科创板上市委审议结果，同意山大地纬首发上市。山大地纬是又一名来自新三板的科创企业。　　山大地纬依托三级科创研发体系面向智慧政务、智慧医保医疗...
 # IT 技术 
  ## [真正的测试自动化框架全接触](http://developer.51cto.com/art/202004/615372.htm)
  > 真正的测试自动化框架全接触
  ## [月均活跃用户达1.3亿，B站高可用架构实践](http://developer.51cto.com/art/202004/615477.htm)
  > 月均活跃用户达1.3亿，B站高可用架构实践
+ ## [用于监视 Kubernetes 和 Docker 的六大开源工具](http://os.51cto.com/art/202004/615478.htm)
+ > 用于监视 Kubernetes 和 Docker 的六大开源工具
  ## [SD-WAN、MPLS和VPN是怎么使用的?](http://network.51cto.com/art/202004/615463.htm)
  > SD-WAN、MPLS和VPN是怎么使用的?
+ ## [如何判断Linux系统是否被黑客入侵？可以用这种方法](http://netsecurity.51cto.com/art/202004/615480.htm)
+ > 如何判断Linux系统是否被黑客入侵？可以用这种方法
  ## [比5G更危险的太空互联网安全](http://zhuanlan.51cto.com/art/202004/615520.htm)
  > 比5G更危险的太空互联网安全
  ## [让梦露和龙妈学着你说话，只需一张静态图和一个视频](http://news.51cto.com/art/202004/615511.htm)
  > 让梦露和龙妈学着你说话，只需一张静态图和一个视频
  ## [六种双因素认证方式的利与弊](http://netsecurity.51cto.com/art/202004/615242.htm)
  > 六种双因素认证方式的利与弊
- ## [当前疫情下火爆的直播应用，你了解背后的技术架构吗？](http://developer.51cto.com/art/202004/615419.htm)
- > 当前疫情下火爆的直播应用，你了解背后的技术架构吗？
- ## [Python有哪些神一般的蜜汁操作？（附代码）](http://developer.51cto.com/art/202004/615325.htm)
- > Python有哪些神一般的蜜汁操作？（附代码）
- ## [廉颇老矣还是浪子回头？6年勒索软件Shade停止开发并公布75万个解密密钥](http://netsecurity.51cto.com/art/202004/615528.htm)
- > 对于过往的深受其害的人来说，这无疑是个好消息。甚至，这个网络犯罪团伙还为因他们而造成的受害者损失道歉
- ## [不停机还能替换代码？6年的 Java程序员表示不可思议](http://news.51cto.com/art/202004/615529.htm)
- > 相信很多人都有这样一种感受，自己写的代码在开发、测试环境跑的稳得一笔，可一到线上就抽风，不是缺这个
- ## [必须了解的实时数据架构](http://bigdata.51cto.com/art/202004/615524.htm)
- > 本文从上述现状及实时数据需求出发，结合工业界案例、笔者的实时数据开发经验， 梳理总结了实时数据体系建
- ## [“人民版权”通过区块链服务备案 大数据让“拿来主义无所遁形”](http://bigdata.51cto.com/art/202004/615518.htm)
- > 4月24日，国家网信办发布第三批境内区块链信息服务备案信息公告，人民网舆情数据中心/人民在线研发的“人民
- ## [这个 Go 开源库让你能够更细致地掌握 HTTP 请求过程](http://news.51cto.com/art/202004/615522.htm)
- > 在日常开发中，通过 HTTP 请求其他服务是常有的事情。通常，我们只需要发出请求，获取响应并进行处理即可，
- ## [Redis分布式锁踩坑不慌，这里有超全的解决方案](http://developer.51cto.com/art/202004/615519.htm)
- > 本文从一个简单的基于redis的分布式锁出发，到更复杂的Redlock的实现，介绍了在使用分布式锁的过程中才踩过
- ## [三目运算符的空指针问题，终于被阿里巴巴开发手册收录](http://zhuanlan.51cto.com/art/202004/615523.htm)
- > 最近，阿里巴巴Java开发手册发布了最新版，泰山版，这个名字起的不错，一览众山小。新版据说新增了30+规约
- ## [企业安全建设之资产管理与运营](http://netsecurity.51cto.com/art/202004/615517.htm)
- > 现在的网络环境，威胁跟隐患越来越多，不是今天哪个框架又有远程代码执行漏洞了？明天哪个外网服务器又开放
- ## [连续霸榜Github！又有一个Linux神器出现了](http://os.51cto.com/art/202004/615515.htm)
- > 最近又有一个Linux神器出现了，连续霸榜Github Trending榜单将近一周了，bashtop是一个用Bash编写的 Linux
- ## [零基础入门Python I/O：从Print函数开始](http://developer.51cto.com/art/202004/615516.htm)
- > 计算机程序用于执行任务，是满足人类需求的工具。有信息的输入，程序才能接收指令、理解需求；有信息的输出
- ## [每天一道python面试题](https://blog.csdn.net/qq_36772866/article/details/105748957)
- > 
- ## [Linux纯干货知识总结|面试专用](https://blog.csdn.net/alitech2017/article/details/105729350)
- > Linux纯干货知识总结|面试专用
- ## [华为研发编程测试题（四）试题及答案参考](https://blog.csdn.net/Charmve/article/details/105777990)
- > 
- ## [程序员会懂的冷笑话：各大编程语言的内心独白](https://blog.csdn.net/csdnnews/article/details/105743181)
- > 程序员会懂的冷笑话：各大编程语言的内心独白
- ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
- > 
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
- > 
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平](https://blog.csdn.net/likun557/article/details/105154280)
- > 你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
- > 
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
- > 
+ ## [你知道如何正确选购路由器吗？](http://network.51cto.com/art/202004/615560.htm)
+ > 用了这么多年的路由器，你是否买对了呢?在这里先和大家说几个错误的选购标准，再说说一台路由器应具备的基
+ ## [前端优秀实践之可维护性](http://developer.51cto.com/art/202004/615559.htm)
+ > 编写可维护的代码十分重要，因为很多开发者都会花大量时间去维护别人写的代码。让自己的代码容易维护，可以
+ ## [睡眠研究可以帮助创建更好的AI模型吗？](http://ai.51cto.com/art/202004/615557.htm)
+ > 我们为什么要睡觉？一个明显的原因是恢复我们身体和四肢的力量。但是睡眠的另一个非常重要的作用是巩固记忆
+ ## [自动驾驶汽车基础设施的新视野](http://ai.51cto.com/art/202004/615555.htm)
+ > 自动驾驶汽车的兴起将重新定义我们的城市建设方式以及我们如何看待城市环境中的交通。日常任务的自动化目前
+ ## [物联网引发下一次工业革命](http://iot.51cto.com/art/202004/615554.htm)
+ > 随着物联网推动下一次工业革命，管理人员可以开始告别停机。但是安全性呢？随着物联网在制造流程中变得越来
+ ## [冠状病毒大流行期间VDI可能需要新方法](http://virtual.51cto.com/art/202004/615553.htm)
+ > 由于冠状病毒大流行，大量员工被迫在家办公，对于支持这些员工，VDI似乎是理想技术，但是VDI管理员仍然可能
+ ## [SD-WAN、5G远程工作技术助力未来网络](http://network.51cto.com/art/202004/615552.htm)
+ > 随着远程工作人员的不断增长，更新的网络技术可以适应并加强企业的远程工作策略。最近，三位网络博主探讨
+ ## [了解混合云连接优秀做法](http://cloud.51cto.com/art/202004/615551.htm)
+ > 无论是支持私有云还是公共云的LAN，还是支持混合云的广泛全球WAN，网络连接都可以驱动云资源和服务。
+ ## [有没有什么高效「炼丹」神器可以推荐？复旦fastNLP团队祭出内部调参利器fitlog](http://news.51cto.com/art/202004/615549.htm)
+ > 集 Tabular 显示实验结果、自定义备忘、前端操作删除/隐藏记录、自动 git commit 等诸多功能于一体，这个调
+ ## [AI让您的建筑成为智能健康建筑](http://ai.51cto.com/art/202004/615544.htm)
+ > 想象一下，你很快就能回到工作岗位，回到智能健康的大楼，用智能手机上的一个应用程序来开门，不用手。
  ## [一个HashMap跟面试官扯了半个小时](https://blog.csdn.net/zhengwangzw/article/details/104889549)
  > 
- ## [新来个技术总监，禁止我们使用Lombok！](https://blog.csdn.net/hollis_chuang/article/details/104259307)
+ ## [没用过这些 IDEA 插件？怪不得写代码头疼](https://blog.csdn.net/weixin_43570367/article/details/103978005)
  > 
- ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
- > 大三实习生，字节跳动面经分享，已拿Offer
- ## [朋友被阿里面试官灵魂拷问，跑来求救。。。](https://blog.csdn.net/likun557/article/details/104788022)
- > 朋友被阿里面试官灵魂拷问，跑来求救。。。
+ ## [程序员的五层境界，你在哪一层？最后一层的，都是人生赢家](https://blog.csdn.net/harvic880925/article/details/105698638)
+ > 
+ ## [自学编程的 6 个致命误区](https://blog.csdn.net/qing_gee/article/details/105685320)
+ > 
+ ## [告诉你一个学习编程的诀窍（建议收藏）](https://blog.csdn.net/sinat_33921105/article/details/105710400)
+ > 
+ ## [毕业5年，我熬夜整理出了这50个优质的电子书网站，吐血推荐！](https://blog.csdn.net/eson_15/article/details/105360611)
+ > 
+ ## [大学四年就靠这些东西成为别人眼中的大神(工具用好才是硬道理，兵来将挡，水来土掩)](https://blog.csdn.net/qq_17623363/article/details/105003659)
+ > 
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [简单的登录页面设计](https://blog.csdn.net/weixin_43691058/article/details/103895741)
+ > 简单的登录页面设计
+ ## [某电商销售数据分析 SQL 面试题解析](https://blog.csdn.net/horses/article/details/105684110)
+ > 
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
+ ## [CSS基础知识巩固你的前端基础](https://blog.csdn.net/qq_36232611/article/details/105133381)
+ > 
+ ## [动画：扫盲 Git 版本控制（上）](https://blog.csdn.net/qq_36903042/article/details/105693071)
+ > 
+ ## [源码阅读(28)：Java中线程安全的List结构——CopyOnWriteArrayList（1）](https://blog.csdn.net/yinwenjie/article/details/104910028)
+ > 
+ ## [这些操作系统的概念，保你没听过！](https://blog.csdn.net/qq_36894974/article/details/104246844)
+ > 
+ ## [行业观察：拐点已至！抛弃传统数据库，乘云而上!](https://blog.csdn.net/csdnnews/article/details/105814613)
+ > 如果说2019年，是国产数据库高速发展、替代传统商业数据库的元年的话，那么2020年，这一趋势已然愈演愈烈。
+ ## [稳站大屏 AIoT 时代之巅，创维 Swaiot 生态品牌实现全面布局！](https://blog.csdn.net/csdnnews/article/details/105812996)
+ > 4 月 27 日，创维电视在线上召开了主题为“我是 Swaiot，跟我来”的春季新品发布会。承接着去年全年累计零售量市场占有率与 OLED 电视销量市场占有率双双第一的佳绩，创维此次再度拓展 AIoT 产业布局。
  ## [程序员惊魂 12 小时：“���”引发线上事故](https://blog.csdn.net/csdnnews/article/details/105803766)
  > 作者 | 饶全成来源 |码农桃花源（ID：CoderPark）最近遇到了一起依赖升级 + 异常数据引发的线上事故，教训惨痛，本文对此进行回故和总结。背景起因是我们使用的服务框架版本比较...
  ## [7 面阿里，终获 Offer《原力计划【第二季】》第 9周周榜揭晓！！！](https://blog.csdn.net/csdnnews/article/details/105803770)
@@ -186,36 +190,36 @@ categories: IT NEWS
  ## [当当网回应李国庆“夺权”；小米：为常程不当言论道歉；Rust 1.43.0 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/105803776)
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
 # 人工智能 
- ## [K8S实战：一文带你深入了解K8S实战部署SpringBoot项目](https://blog.csdn.net/cuixhao110/article/details/105734878)
- > 
- ## [成功解决百度网盘下载文件时遇到 下载总进度一直处于99.9%，显示一直下载不下来的问题](https://blog.csdn.net/qq_41185868/article/details/105762097)
- > 成功解决百度网盘下载文件时遇到 下载总进度一直处于99.9%，显示一直下载不下来的问题
- ## [你准备好拥抱vue3.0了吗](https://blog.csdn.net/DengZY926/article/details/105776935)
- > 
- ## [如何像海豚一样在数据海洋里遨游？｜Hbase数据处理流程详解](https://blog.csdn.net/qq_26803795/article/details/105797099)
- > 
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
- > 
- ## [Spring官网学习(一)概述](https://blog.csdn.net/qq_36526036/article/details/105772493)
- > Spring官网学习(一)概述
- ## [Reids基础及常见面试题](https://blog.csdn.net/qq_36908783/article/details/105759655)
- > 
- ## [干货分享：Python搭建Spark分布式集群环境](https://blog.csdn.net/chengxun03/article/details/105802139)
- > 干货分享：Python搭建Spark分布式集群环境
- ## [Hadoop_MapReduce工作原理](https://blog.csdn.net/BLU_111/article/details/105771363)
- > Hadoop_MapReduce工作原理
- ## [Spark深入解析（八）：RDD的转换-Value类型](https://blog.csdn.net/wzc8961661/article/details/105801635)
- > 
- ## [女程序员分享python文件读写的缓冲行为详解](https://blog.csdn.net/adrrry/article/details/105777176)
- > 女程序员分享python文件读写的缓冲行为详解
- ## [微信小程序-去掉textarea输入框呼出键盘上的完成按钮栏](https://blog.csdn.net/weixin_43970743/article/details/105772517)
- > 微信小程序-去掉textarea输入框呼出键盘上的完成按钮栏
- ## [java环境变量path和classpath的配置](https://blog.csdn.net/shooopw/article/details/105788579)
- > java环境变量path和classpath的配置
- ## [MapReduce快速入门系列(3) | jar包如何在集群上测试](https://blog.csdn.net/qq_16146103/article/details/105695307)
- > 
- ## [关于毕设里面数据库表结构的设计](https://blog.csdn.net/weixin_44704261/article/details/105784430)
- > 关于毕设里面数据库表结构的设计
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 # PM 
  ## [疫情下医药电商价值凸显，如何建设自身能力，优化升级？](http://www.chanpin100.com/article/111478)
  > 后疫情时代，医药电商不断加强能力建设，增强数据整合能力、优化供应链、布局互联网医院、建立以客户为中心的理念、积极拥抱新零售。
@@ -245,17 +249,5 @@ categories: IT NEWS
  > 愿景=画饼？今天让我们看看画饼的正确姿势~
  ## [复盘|怎样做好一次复盘](http://www.chanpin100.com/article/111461)
  > 作为阿里系企业，工作总是格外忙碌的，而笔者更希望从忙碌中复盘总结出一些工作心得，于是有幸参与了“移动端从上线到迭代全过程”的复盘分析，并与大家一同分享复盘内容。
- ## [读书也可以很有趣，记如何养成阅读习惯~](http://www.chanpin100.com/article/111460)
- > 读书习惯 阅读  听书
- ## [在外包公司做产品经理是什么样的体验？](http://www.chanpin100.com/article/111459)
- > 以客观的态度去看待问题，优劣各半
- ## [功能分析之如何设计搜索入口](http://www.chanpin100.com/article/111458)
- > 搜索入口相当于用户搜索流程的第一步，在设计上不同品类设计方案也不尽相同，今天我们来聊一下搜索入口都有哪几种设计方案？
- ## [工欲善其事必先利其器，数据产品经理必备的工具包](http://www.chanpin100.com/article/111457)
- > 工欲善其事，必先利其器。今天为大家分享数据产品经理必备的工具包，方便大家在掌握专业术语和产品实现流程后，能够使用工具快速出活儿。数据产品经理的工具包，基本上与产品实现流程、日常工作管理相关，大致包含：交互设计、文档编辑、脑图、流程图、数据可视化、代码编辑等专业工具，以及项目管理、清单管理的通用工具。
- ## [为什么单选按钮和复选框不能共存？](http://www.chanpin100.com/article/111456)
- > 界面设计经验分享~
- ## [【全民KOL】为什么很多人一边骂着百度，一边用百度来搜索？](http://www.chanpin100.com/article/111455)
- > 一群人儿，一个话题儿
 
     
