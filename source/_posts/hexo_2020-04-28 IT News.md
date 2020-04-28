@@ -1,7 +1,7 @@
 ---
 title: 2020-04-28 IT News
 copyright: true
-date: 2020-04-28 10:01:26
+date: 2020-04-28 12:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -84,53 +84,57 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [2019年智能科学与产业综述论文盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1588039203&ver=2305&signature=mEcBBaLGfKTsy7Nig2Z8cXQ87yGSWE5-1YTsg6wJaR7boGr31sSNKgNXAc3tLr6Xx1a3*QBi4DagkZAfe3I3Nz3qMANtNMyLiT11pTaGlvDsgZBVdQKHS6NMyGOuQTxo&new=1)
- > 来源：计算机研究与发展2019年综述论文盘点1.智能芯片的评述和展望（韩栋,周聖元,支天,陈云霁,陈天石）2.闪存存储的重构与系统构建技术（陆游游,杨者,舒继武）3.基于动态权衡的新型非易失存储器件体系结构研究综...
- ## [免费网盘要怎么选?不限速才是关键!](http://mp.weixin.qq.com/s?src=11&timestamp=1588039203&ver=2305&signature=MG1oO8Ss6Iq2ebQRPLT8aWWVBNRkxojWdqa29Q*f67SY7bIYh2HXtCeZkPsdgDutxxCQ8Lap1Ki0ZjeMpHYPNlnYZr-QV4zL-ODHI6eLmckzHiYyfLSICUBJtlL3o8J0&new=1)
+ ## [一季度手机出货量少了2800万部，有人要给「指条明路」](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=tjtGXBeruyUyDuenXAGzIgw*RXAyec9MTG*IB4LdcYhVk55gRxBgRz76HUm7*raaGUiwUkapCKSF4dt6KFcOK3GW*0NNxCae7Pgbf8xckHCyJKeCsbLLd21Oq-NPLivV&new=1)
+ > 伊瓢 发自 凹非寺量子位 报道 | 公众号 QbitAI智能手机，2010年风起，距今也十年了吧。今天说个行业小秘密。差不多近5年来吧，有这样一个行业大会，有这样一个手机品牌老大，每年演讲总能给行业里“别有用心”的...
+ ## [0门槛升级智能空调?一文解析AI语音智能遥控伴侣方案!](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=sadwA1miDRgu1U03fWtbjJEz0r3HT6DLp9YrsXOSzqfg11*KfL8Y8PT2IZ2-G*5dJgd5ozb7grgkGW3aWG2zWj6JRabu9LcKbrlEWS0upm1lFP2ZKYpo4S9nxM7Z8dOd&new=1)
+ > 夏天马上又到了，作为一名吹空调专家，最深恶痛绝的，并不是空调不够凉快，而是空调的遥控。先不说经常玩失踪，用户对于空调的使用要求相对多变，但遥控器上的功能键又多又复杂，认得住的只有个别几个按键，有没...
+ ## [免费网盘要怎么选?不限速才是关键!](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=MG1oO8Ss6Iq2ebQRPLT8aWWVBNRkxojWdqa29Q*f67RAYvV4GmTN-JLsbRGejBxKMKAspZBCSBYSLuOd--sz14HTXhQSYHaC01DxAJpjzJieAI36Aklo5rCfoUFqwCvs&new=1)
  > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容网盘可以说是网络技术成熟后的一项给力发明，有了它，可以在不同设备上方便地倒腾数据。相比传统的U盘、移动硬盘等，网盘可以提供更加大的空间、更能保障数...
- ## [云创大数据荣膺白下高新区“疫情防控科研攻关特别贡献奖”](http://mp.weixin.qq.com/s?src=11&timestamp=1588039203&ver=2305&signature=9GjAcf0XpizxAx2bFGLQ-7bXdxtYNqUkNRGZmwactqBD0bZlV17TjyRr8hWrPEj1AT7wmr5BEOli7b3UbvVlgvLRHaEnVBlYb2xvT*PLCR4nPWIxcQKjPCOrDjcZLFYy&new=1)
- > 4月26日，白下高新区·秦淮硅巷“抗&x27;疫&x27;优企”表彰大会暨4·26世界知识产权日政策宣讲会在南京白下高新技术产业开发区管委会举办。本次大会由南京白下高新技术产业开发区管委会主办，秦淮区市场监督管理局指导，...
- ## [山大地纬科创板IPO过会](http://mp.weixin.qq.com/s?src=11&timestamp=1588039203&ver=2305&signature=a7rmGzugCc-*lsBotJS3na6qBhep2a9EMwsqiEv78990xm1OCXxiSu2HsWHhwTYqqHktiEPeTS4sCrs0EMG0oG-iGDrzxZ3wlLNFBC6OZBA=&new=1)
- > 上证报中国证券网讯（记者 祁豆豆）4月27日，上交所发布科创板上市委审议结果，同意山大地纬首发上市。山大地纬是又一名来自新三板的科创企业。　　山大地纬依托三级科创研发体系面向智慧政务、智慧医保医疗...
- ## [德勤：2020技术趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1588039203&ver=2305&signature=eexAQknVsKHW4krHbVR8eANwk7yuMxkfXD9Pp90UaiWG6bYYiL9HdWHpf064UiBzSf7R6zzhDA5S6sg1P-NwUaSJxGrdfC3upg4TDVhixYjU84hSLV2dsY0TYgxzxtdt&new=1)
+ ## [德勤：2020技术趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=eexAQknVsKHW4krHbVR8eANwk7yuMxkfXD9Pp90UaiVhLVC8SjMzjug3nHDnudnGoI545NNNcsYEVyAue7JG2DUrEgbkj*iINUZkbPnK9XwvPHdN1mmuahnUH1fMVUZa&new=1)
  > 导读今年的技术趋势报告继续在开篇回顾了11年来的技术趋势发展，展示了技术趋势随时间推移的演进全过程，及最新宏观科技力量作为业务转型基础带来的共生效益，和不久的未来的新兴科技力量。随着企业需要适应不断...
+ ## [2019年智能科学与产业综述论文盘点](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=mEcBBaLGfKTsy7Nig2Z8cXQ87yGSWE5-1YTsg6wJaR5IRt2ZVDognENUmRoGOtVNN*EUJT0nB5CkJ8uWdWL6hVjmxkzriuL5QMnlz4Vt7LswIoureUQ3ZFCDQSqFQgvO&new=1)
+ > 来源：计算机研究与发展2019年综述论文盘点1.智能芯片的评述和展望（韩栋,周聖元,支天,陈云霁,陈天石）2.闪存存储的重构与系统构建技术（陆游游,杨者,舒继武）3.基于动态权衡的新型非易失存储器件体系结构研究综...
+ ## [云创大数据荣膺白下高新区“疫情防控科研攻关特别贡献奖”](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=9GjAcf0XpizxAx2bFGLQ-7bXdxtYNqUkNRGZmwactqDaW5QP6gXI5rKrSby0sTheYS*66wmOwHREZ4u9Vba6AkPi6Oj89UOHtVhkaQYEAjD3gl66HmbUT4QK3yT6xL85&new=1)
+ > 4月26日，白下高新区·秦淮硅巷“抗&x27;疫&x27;优企”表彰大会暨4·26世界知识产权日政策宣讲会在南京白下高新技术产业开发区管委会举办。本次大会由南京白下高新技术产业开发区管委会主办，秦淮区市场监督管理局指导，...
+ ## [山大地纬科创板IPO过会](http://mp.weixin.qq.com/s?src=11&timestamp=1588046402&ver=2305&signature=a7rmGzugCc-*lsBotJS3na6qBhep2a9EMwsqiEv7898J7t2-D0fj702P5UAX9RXfQl2tbcVU3p6B4-s4LIGO0aYHXhNRLPr-bbouzCqhE-Y=&new=1)
+ > 上证报中国证券网讯（记者 祁豆豆）4月27日，上交所发布科创板上市委审议结果，同意山大地纬首发上市。山大地纬是又一名来自新三板的科创企业。　　山大地纬依托三级科创研发体系面向智慧政务、智慧医保医疗...
 # IT 技术 
- ## [测试自动化框架全接触](http://developer.51cto.com/art/202004/615372.htm)
- > 测试自动化框架全接触
+ ## [真正的测试自动化框架全接触](http://developer.51cto.com/art/202004/615372.htm)
+ > 真正的测试自动化框架全接触
  ## [月均活跃用户达1.3亿，B站高可用架构实践](http://developer.51cto.com/art/202004/615477.htm)
  > 月均活跃用户达1.3亿，B站高可用架构实践
  ## [SD-WAN、MPLS和VPN是怎么使用的?](http://network.51cto.com/art/202004/615463.htm)
  > SD-WAN、MPLS和VPN是怎么使用的?
+ ## [比5G更危险的太空互联网安全](http://zhuanlan.51cto.com/art/202004/615520.htm)
+ > 比5G更危险的太空互联网安全
+ ## [让梦露和龙妈学着你说话，只需一张静态图和一个视频](http://news.51cto.com/art/202004/615511.htm)
+ > 让梦露和龙妈学着你说话，只需一张静态图和一个视频
  ## [六种双因素认证方式的利与弊](http://netsecurity.51cto.com/art/202004/615242.htm)
  > 六种双因素认证方式的利与弊
  ## [当前疫情下火爆的直播应用，你了解背后的技术架构吗？](http://developer.51cto.com/art/202004/615419.htm)
  > 当前疫情下火爆的直播应用，你了解背后的技术架构吗？
  ## [Python有哪些神一般的蜜汁操作？（附代码）](http://developer.51cto.com/art/202004/615325.htm)
  > Python有哪些神一般的蜜汁操作？（附代码）
- ## [决策树的复兴？结合神经网络，提升ImageNet分类准确率且可解释](http://news.51cto.com/art/202004/615323.htm)
- > 决策树的复兴？结合神经网络，提升ImageNet分类准确率且可解释
- ## [Zenkit ToDo：一款面向你和你团队的简单的任务管理工具](http://os.51cto.com/art/202004/615370.htm)
- > Zenkit ToDo：一款面向你和你团队的简单的任务管理工具
- ## [传5G版iPhone将采用超声波屏下指纹技术](http://mobile.51cto.com/news-615488.htm)
- > 据外媒macrumors报道，苹果计划在今年发布的5G版iPhone中引入超声波屏下指纹识别方案。报道中提到，iPhone
- ## [网络运营者采购网络产品和服务或须接受网络安全审查](http://netsecurity.51cto.com/art/202004/615486.htm)
- > 根据国家互联网信息办公室等12个部门27日联合公布的《网络安全审查办法》，关键信息基础设施运营者采购网络
- ## [动手实践：使用Docker设置数据科学环境](http://developer.51cto.com/art/202004/615485.htm)
- > 每当您开始一个新的数据项目或有一个很好的数据处理想法时，可能都需要初步的概念证明来启动。 您当然不想
- ## [树莓派基于 Linux 的 Windows XP 现已可用](http://os.51cto.com/art/202004/615482.htm)
- > 新的树莓派操作系统 Linux Raspbian XP Professional 现已可用，该操作系统专门针对 Raspberry Pi 4 设计。
- ## [如何判断Linux系统是否被黑客入侵？可以用这种方法](http://netsecurity.51cto.com/art/202004/615480.htm)
- > 恶意软件有时会使用Linux内核进程伪装来隐藏其运行时，让我们研究一下如何使用这种策略来揭露Linux恶意软件
- ## [再见，周鸿！](http://zhuanlan.51cto.com/art/202004/615483.htm)
- > 周鸿和齐向东彻底分家了。齐向东象征意义的对周鸿说：再见，周鸿!
- ## [金融机构如何提高信贷风险防范能力，做到高效决策？益博睿给你答案](http://netsecurity.51cto.com/art/202004/615434.htm)
- > 分析当下金融机构信贷风险发展趋势，益博睿大中华区分析与策略咨询总监赵国豪在近日接受51CTO记者采访时表
- ## [2020年及以后的AI趋势](http://ai.51cto.com/art/202004/615479.htm)
- > 无论是机器撰写的新闻文章，由AI主导的网络安全还是在情绪检测方面的重要进展，2019年无疑为人工智能(AI)领
- ## [传统岗位新挑战：信息安全之路](http://netsecurity.51cto.com/art/202004/615476.htm)
- > 就职某保险公司，为信息安全部门负责人，职责归纳起来是负责控制整个公司内外部风险，应对新领域的安全挑战
- ## [情感AI给企业IT领导者带来希望](http://ai.51cto.com/art/202004/615475.htm)
- > 情感AI或者说情感计算可能是AI中的下一件大事。企业开始探索情感分析技术，以改善客户和员工的体验并提供创
+ ## [廉颇老矣还是浪子回头？6年勒索软件Shade停止开发并公布75万个解密密钥](http://netsecurity.51cto.com/art/202004/615528.htm)
+ > 对于过往的深受其害的人来说，这无疑是个好消息。甚至，这个网络犯罪团伙还为因他们而造成的受害者损失道歉
+ ## [不停机还能替换代码？6年的 Java程序员表示不可思议](http://news.51cto.com/art/202004/615529.htm)
+ > 相信很多人都有这样一种感受，自己写的代码在开发、测试环境跑的稳得一笔，可一到线上就抽风，不是缺这个
+ ## [必须了解的实时数据架构](http://bigdata.51cto.com/art/202004/615524.htm)
+ > 本文从上述现状及实时数据需求出发，结合工业界案例、笔者的实时数据开发经验， 梳理总结了实时数据体系建
+ ## [“人民版权”通过区块链服务备案 大数据让“拿来主义无所遁形”](http://bigdata.51cto.com/art/202004/615518.htm)
+ > 4月24日，国家网信办发布第三批境内区块链信息服务备案信息公告，人民网舆情数据中心/人民在线研发的“人民
+ ## [这个 Go 开源库让你能够更细致地掌握 HTTP 请求过程](http://news.51cto.com/art/202004/615522.htm)
+ > 在日常开发中，通过 HTTP 请求其他服务是常有的事情。通常，我们只需要发出请求，获取响应并进行处理即可，
+ ## [Redis分布式锁踩坑不慌，这里有超全的解决方案](http://developer.51cto.com/art/202004/615519.htm)
+ > 本文从一个简单的基于redis的分布式锁出发，到更复杂的Redlock的实现，介绍了在使用分布式锁的过程中才踩过
+ ## [三目运算符的空指针问题，终于被阿里巴巴开发手册收录](http://zhuanlan.51cto.com/art/202004/615523.htm)
+ > 最近，阿里巴巴Java开发手册发布了最新版，泰山版，这个名字起的不错，一览众山小。新版据说新增了30+规约
+ ## [企业安全建设之资产管理与运营](http://netsecurity.51cto.com/art/202004/615517.htm)
+ > 现在的网络环境，威胁跟隐患越来越多，不是今天哪个框架又有远程代码执行漏洞了？明天哪个外网服务器又开放
+ ## [连续霸榜Github！又有一个Linux神器出现了](http://os.51cto.com/art/202004/615515.htm)
+ > 最近又有一个Linux神器出现了，连续霸榜Github Trending榜单将近一周了，bashtop是一个用Bash编写的 Linux
+ ## [零基础入门Python I/O：从Print函数开始](http://developer.51cto.com/art/202004/615516.htm)
+ > 计算机程序用于执行任务，是满足人类需求的工具。有信息的输入，程序才能接收指令、理解需求；有信息的输出
  ## [每天一道python面试题](https://blog.csdn.net/qq_36772866/article/details/105748957)
  > 
  ## [Linux纯干货知识总结|面试专用](https://blog.csdn.net/alitech2017/article/details/105729350)
@@ -182,49 +186,57 @@ categories: IT NEWS
  ## [当当网回应李国庆“夺权”；小米：为常程不当言论道歉；Rust 1.43.0 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/105803776)
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条...
 # 人工智能 
- ## [S3C2440移植uboot之支持NAND启动](https://blog.csdn.net/qq_16933601/article/details/105736748)
+ ## [K8S实战：一文带你深入了解K8S实战部署SpringBoot项目](https://blog.csdn.net/cuixhao110/article/details/105734878)
  > 
- ## [Qt开源作品2-视频流播放vlc内核](https://blog.csdn.net/feiyangqingyun/article/details/105761546)
- > Qt开源作品2-视频流播放vlc内核
- ## [LeetCode 406. 根据身高重建队列（排序）](https://blog.csdn.net/qq_21201267/article/details/105749075)
- > LeetCode 406. 根据身高重建队列（排序）
- ## [Blender图解教程：不使用插件烘焙法线贴图的流程详解](https://blog.csdn.net/hello_tute/article/details/105767505)
- > Blender图解教程：不使用插件烘焙法线贴图的流程详解
- ## [C Programming Test And Answer 03](https://blog.csdn.net/qq_45645641/article/details/105770886)
- > C Programming Test And Answer 03
- ## [基于FPGA的CIC滤波器设计（2）——以数字上下变频为例讲解](https://blog.csdn.net/zhangningning1996/article/details/105746892)
- > 基于FPGA的CIC滤波器设计（2）——以数字上下变频为例讲解
- ## [Chirp信号公式与对离散生成算法之间的差异](https://blog.csdn.net/zhuoqingjoking97298/article/details/105762739)
- > Chirp信号公式与对离散生成算法之间的差异
- ## [对于app触控屏幕触发音效的延迟与杂音测试](https://blog.csdn.net/weixin_44861659/article/details/105768626)
- > 对于app触控屏幕触发音效的延迟与杂音测试
- ## [java在各大领域应用现状及未来](https://blog.csdn.net/shooopw/article/details/105755213)
- > java在各大领域应用现状及未来
- ## [javaCV开发详解之9：基于gdigrab的windows屏幕画面抓取/采集（基于javacv的高帧率屏幕截屏、录屏功能）](https://blog.csdn.net/eguid_1/article/details/105775362)
+ ## [成功解决百度网盘下载文件时遇到 下载总进度一直处于99.9%，显示一直下载不下来的问题](https://blog.csdn.net/qq_41185868/article/details/105762097)
+ > 成功解决百度网盘下载文件时遇到 下载总进度一直处于99.9%，显示一直下载不下来的问题
+ ## [你准备好拥抱vue3.0了吗](https://blog.csdn.net/DengZY926/article/details/105776935)
  > 
- ## [最新java学习资料汇总（学习路线+视频教程+网盘下载）](https://blog.csdn.net/GUDUzhongliang/article/details/87859631)
- > 最新java学习资料汇总（学习路线+视频教程+网盘下载）
- ## [三周Java学习总结](https://blog.csdn.net/payne_night/article/details/105767586)
- > 三周Java学习总结
- ## [S3C2440移植uboot之新建单板_时钟_SDRAM_串口](https://blog.csdn.net/qq_16933601/article/details/105685770)
+ ## [如何像海豚一样在数据海洋里遨游？｜Hbase数据处理流程详解](https://blog.csdn.net/qq_26803795/article/details/105797099)
  > 
- ## [基于OpenCV和YOLOv3的目标检测实例应用](https://blog.csdn.net/weixin_42709563/article/details/105773166)
- > 基于OpenCV和YOLOv3的目标检测实例应用
- ## [webRTC——SDP（Session Description Protocal）](https://blog.csdn.net/qq_34732729/article/details/105773613)
- > webRTC——SDP（Session Description Protocal）
+ ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ > 
+ ## [Spring官网学习(一)概述](https://blog.csdn.net/qq_36526036/article/details/105772493)
+ > Spring官网学习(一)概述
+ ## [Reids基础及常见面试题](https://blog.csdn.net/qq_36908783/article/details/105759655)
+ > 
+ ## [干货分享：Python搭建Spark分布式集群环境](https://blog.csdn.net/chengxun03/article/details/105802139)
+ > 干货分享：Python搭建Spark分布式集群环境
+ ## [Hadoop_MapReduce工作原理](https://blog.csdn.net/BLU_111/article/details/105771363)
+ > Hadoop_MapReduce工作原理
+ ## [Spark深入解析（八）：RDD的转换-Value类型](https://blog.csdn.net/wzc8961661/article/details/105801635)
+ > 
+ ## [女程序员分享python文件读写的缓冲行为详解](https://blog.csdn.net/adrrry/article/details/105777176)
+ > 女程序员分享python文件读写的缓冲行为详解
+ ## [微信小程序-去掉textarea输入框呼出键盘上的完成按钮栏](https://blog.csdn.net/weixin_43970743/article/details/105772517)
+ > 微信小程序-去掉textarea输入框呼出键盘上的完成按钮栏
+ ## [java环境变量path和classpath的配置](https://blog.csdn.net/shooopw/article/details/105788579)
+ > java环境变量path和classpath的配置
+ ## [MapReduce快速入门系列(3) | jar包如何在集群上测试](https://blog.csdn.net/qq_16146103/article/details/105695307)
+ > 
+ ## [关于毕设里面数据库表结构的设计](https://blog.csdn.net/weixin_44704261/article/details/105784430)
+ > 关于毕设里面数据库表结构的设计
 # PM 
- ## [互联网产品的新趋势：kill time的产品包裹上save time的糖衣](http://www.woshipm.com/it/3770132.html)
- > kill time意为消磨时间，save time意为省时提效，以往的互联网产品在这两者的分类上或许还有明显的界限，但随着互联网产品的不断迭代演进，kill time 与 save time 越来...
- ## [重新理解品牌标志：帮助品牌赢得竞争](http://www.woshipm.com/marketing/3776269.html)
- > 本文从本质-目的-商业逻辑下扮演的角色-4个基本原则，系统的对品牌标志做了一个梳理和讲解，相信此文让你对标志有新的理解和看法。1977年初，作为RegisMckenna广告公...
- ## [如何做产品迭代的节奏大师](http://www.woshipm.com/pmd/3777132.html)
- > 产品迭代始于产品计划，但多数情况下变化要比计划快，造成延期，甚至多数产品人都遇到过这种场景。那么怎样让我们的迭代保持长期健康、稳定呢？“迭代怎么又延期了？”...
- ## [从内容到IP，文化社区产品还可以这么玩](http://www.woshipm.com/operate/3775202.html)
- > 工具产品是社区的形成基础，但核心还是用户的归属感。社区中用户与内容的深度互动，能够在整体上提升IP孵化的效率及成功率，而这需要社区更精细化运营，为用户提供“参与...
- ## [直播电商的带货秘诀，100年前就有人讲清楚了](http://www.woshipm.com/it/3775878.html)
- > 在直播电商时代，人就是媒体，人就是渠道，人正在重新成为下一代交易入口，而这一交易的成交关键就是知识分发、信任代理、人格连接。1904年，美国第三大广告公司洛德...
- ## [产品思考：用户为啥不按照你想的去做？](http://www.woshipm.com/user-research/3772196.html)
- > 本文从用户的角度出发，分析为何用户不按套路出牌的背后逻辑以及解决之法。作为新人产品，经常会遇到这样一个困境，就是我的产品这么好，为啥就是没人用，明明我们设...
+ ## [疫情下医药电商价值凸显，如何建设自身能力，优化升级？](http://www.chanpin100.com/article/111478)
+ > 后疫情时代，医药电商不断加强能力建设，增强数据整合能力、优化供应链、布局互联网医院、建立以客户为中心的理念、积极拥抱新零售。
+ ## [产品经理如何培养商业思维？](http://www.chanpin100.com/article/111477)
+ > 产品经理最具价值的地方在于思考隐形背后的东西——产品背后的商业逻辑设计。
+ ## [三趋势！解读新时代护理市场新风向！|2020中国互联网护理市场专题分析](http://www.chanpin100.com/article/111475)
+ > 互联网护理服务指的是以互联网为媒介和手段，提供以采血换药、导尿吸痰、居家养老、中医理疗、上门催乳、术后护理为代表的护理服务。中国互联网医疗市场进入高速发展期，协助医疗体系降本增效成为主要发展方向。
+ ## [产品经理如何快速定位「数据异常」问题？](http://www.chanpin100.com/article/111474)
+ > 快速定位数据问题的方法论
+ ## [想让用户回到产品？可能只差一次点击的距离](http://www.chanpin100.com/article/111473)
+ > 转化流程减少一小步，用户转化提升一大步
+ ## [极光：2020年Q1智能手机行业季度数据研究报告](http://www.chanpin100.com/article/111472)
+ > 疫情下的手机市场：进击的华为，失速的OPPO，风靡下沉市场的5G手机
+ ## [面对这些问题，产品经理应该怎么做？](http://www.chanpin100.com/article/111470)
+ > 作为项目经理首先要了解你的客户，了解你客户所在的行业。很多时候客户需求变更是项目调研的时候没有正确领会客户的想法。
+ ## [2020年，百度小程序的机会在哪？](http://www.chanpin100.com/article/111469)
+ > 对于国内经济市场而言，如果说2019年是艰难模式，那么2020年则是地狱模式。
+ ## [犀牛和犀牛鸟：论平台和小程序开发者的互利共生](http://www.chanpin100.com/article/111468)
+ > 在自然界，有一种关系叫做“互利共生”，这是指两种生物生活在一起，彼此有利，两者分开以后双方的生活都要受到很大影响，甚至不能生活而死亡。
+ ## [有它，你也能做电商订单系统](http://www.chanpin100.com/article/111467)
+ > 已把水拧干，极简、极干。你看了它，做实物电商订单系统，有普了。
  ## [认知：说说产品经理的底层思维——用户思维](http://www.chanpin100.com/article/111466)
  > 厉害的人，都是用户思维高手。
  ## [疫情肆虐，你还不知道这些保险APP？|2020年最新保险服务类APP榜单](http://www.chanpin100.com/article/111464)
@@ -245,25 +257,5 @@ categories: IT NEWS
  > 界面设计经验分享~
  ## [【全民KOL】为什么很多人一边骂着百度，一边用百度来搜索？](http://www.chanpin100.com/article/111455)
  > 一群人儿，一个话题儿
- ## [教育产品如何玩转私域流量让利润翻倍，这里讲透了！](http://www.chanpin100.com/article/111454)
- > 一个YY账号、一个网站和一堂教程，四五个人，我们一个月可以做到20多万的利润，私域流量2000人左右
- ## [从三个角度，深入理解需求是什么](http://www.chanpin100.com/article/111453)
- > 带你重新认识“需求”。
- ## [二次元IP游戏养成记|2020中国移动IP游戏专题分析](http://www.chanpin100.com/article/111452)
- > 简介：IP是移动游戏中重要的内容元素和组成部分，带有IP属性的移动游戏产品是市场收入增长的主要动力。而到了2019年，移动IP游戏在产业背景优化、市场精品化等因素的驱动下保持了持续的增长，市场收入规模突破了一千两百亿元，增速高于市场大盘。预计2021年将达1697.0亿元，在移动游戏市场中的占比进一
- ## [直营电商采购账务难点，怎么解（下）？](http://www.chanpin100.com/article/111451)
- > 直营电商中，采购的账务处理令产品经理们头大，怎么解？本篇是“解药”。
- ## [一切数据业务化：数据产品追求的三个价值](http://www.chanpin100.com/article/111449)
- > 马云曾经提到：没有任何企业会脱离互联网，未来三十年不是属于互联网公司，而是属于用好互联网的公司。我认为用好互联网的最核心方式，就是用好数据，以数据来驱动企业的价值实现。今天为大家分享数据产品在数据驱动落地中，应该追求的三个价值：用户价值、商业价值、组织价值。
- ## [从字节跳动再度发力搜索中学习产品分析](http://www.chanpin100.com/article/111448)
- > 产品经理如何在新闻事件后侃侃而谈，提出自己的看法。
- ## [慈善演唱会里的巨星，像极了快手里的“普通人”](http://www.chanpin100.com/article/111447)
- > 相较于1985年那一场“Live Aid”，人类最大的技术进步就是互联网。
- ## [【一群人，一个话题】数据埋点？埋他，往死里埋。](http://www.chanpin100.com/article/111444)
- > 一群产品人儿，聊一个话题的乐趣儿
- ## [以在线教育市场为例，产品经理如何通过STP理论进行市场目标定位](http://www.chanpin100.com/article/111441)
- > 人上一千形形色色，市场一大需求千奇百怪。不找准合适的下脚点，企业将寸步难行。
- ## [教你提高时间管理和知识管理水平，高效完成自己的工作和学习](http://www.chanpin100.com/article/111440)
- > 要想职场效率高，掌握一些技巧肯定是不能少的，对于同一份工作，别人用10分钟完成了，而你用了一个小时依然没有搞完，那么别人可以比你享受更多的空闲时刻，而你在繁忙中把一天的时间给过完了，但是你发现自己看似很匆忙，但是好像并没有做成多少事情，长时间下来，可能还会因为你的效率不够高，还可能长期受不到领导的重
 
     
