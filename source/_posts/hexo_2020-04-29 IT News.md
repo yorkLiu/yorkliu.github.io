@@ -1,7 +1,7 @@
 ---
 title: 2020-04-29 IT News
 copyright: true
-date: 2020-04-29 10:01:29
+date: 2020-04-29 12:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -88,17 +88,23 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [5G+AI：未来技术创新的助推器](http://mp.weixin.qq.com/s?src=11&timestamp=1588123811&ver=2307&signature=1ao77ss0*cUWaQKE8mbozJCWCw1lwRH1F69-*sP02*GO9USwqvAI5hcLyiG22MDL7piaKU7W1BtvqpHiMP2X8w-N27PtyEiF3*mywl4bLXHJvTSWhFZsiJlDxBKKwED3&new=1)
+ ## [我的电脑不联网，很安全，黑客：你还有风扇呢](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=dazO1Tn36JbWLZtyc3mek4zS51irjflf9OwyaC1r3d9W8bTUmMDiQR5i1NI9S8vFEtTxErHsQZHiTvPnwHGLX3EdI0JyJyhfYNyZwQ3e32OzRMp0HPdX6piWA3QY9X5q&new=1)
+ > 参与：张倩、蛋酱、杜伟机器之心整理从1988年第一个网络蠕虫病毒诞生以来，「互联网危机四伏」的观念就已经深入人心。如果只是这样，不给电脑联网、禁止使用任何可移动储存介质，数据就安全了吗？但专门研究黑客...
+ ## [干货：大尺寸工业级陶瓷3D打印技术与应用](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=dv3aH8c9DWeSvshWx04tzMGxFLHSyDU-N55kNquZ2h0sqPncUDP346eyLivqJQxa221IfXBSyNOVp4TQEE2ZQd4n7sfcfHL9yU6IR63yR-OsIdRGTx9XiNrMhYcNFX0f&new=1)
+ > 2020年4月24日下午2点，全球领先的法国陶瓷3D打印机制造商3DCERAM联合南极熊3D打印网举办了一场线上研讨会，主题为“ 3DCERAM基于光固化的陶瓷3D打印技术及其应用”，本次线上研讨会直播由3DCERAM中国 材料工程...
+ ## [5G+AI：未来技术创新的助推器](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=1ao77ss0*cUWaQKE8mbozJCWCw1lwRH1F69-*sP02*FVgK-KqBzpHx-k2JezXy1lq*x34xKoRfQpvH-w*BfwcugXXbdIjwVMhvU3holwaMpsmWV9OkSYrTzNGQY0AmY0&new=1)
  > 5G和AI是过去几十年来最具颠覆性的两项技术。通过两者的结合，将终端侧处理、边缘云和5G强强联合，可以充分实现个性化体验、保护用户隐私并提升终端稳定性，打造出无处不在、始终连接的智能终端和服务架构，带来...
- ## [小米十年成长史一网打尽|数读](http://mp.weixin.qq.com/s?src=11&timestamp=1588123811&ver=2307&signature=zqMjNNr7LcTWWtPtRQmY4*Jbu5r8SGF4vmnV89XSx3e2owaOcJ6fOQJfQLioFivo*IIArjYrF7GwfeRgFLC*vpjEUrYS0KiQfEthpKeKNdQ6D5iqQM478c8-gZiU7pac&new=1)
- > 文 | 动点科技作者 | MELA CHAN从 2010 年创立至今，小米已经走过了 10 个年头。“十年树木”，小米是如何从雷军心中的一簇创业火种成长为今天的科技王国的？如今的小米公司囊括了太多东西，似乎正变得越来越复...
- ## [老隋开票记：航天信息智能微厅帮助山区农户快步走上致富路](http://mp.weixin.qq.com/s?src=11&timestamp=1588123811&ver=2307&signature=DSqVvuY8QoMMBDab**rajLMkYJ9FUI5ZVUrV*Dc3DjOwpmqsV4diVl3xb1IYvy5XcpZ-SM3A*moMvicjTQCUhEJqkCuDqFYZH-YzzK3nwhiJzgrbYxbofFRvlavK4m5l&new=1)
- > 过去，线下办理工商注册、代开发票等业务，需要跑好几趟、好几个窗口、办好几天。现在，纳税人通过智能微厅，只需要个把小时就能一站式办结。航天信息推出的智能微厅，让纳税人省时，省力，更省心。
- ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1588123811&ver=2307&signature=kZsz5ntafFAttMqop-IVFcSjgMmNp9kYfYzvnkQ9PjK24Njna0yzv9Nic4jAJKLbBtRAYsuPq8Imdj0g8tbWSxuoxn4dI6WDUavOxbXO*t*udj99Eku47mRjuL1Vpyr7&new=1)
+ ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=kZsz5ntafFAttMqop-IVFcSjgMmNp9kYfYzvnkQ9PjKfrrMvu4lVxJ4UvATT8INuwUT5WWzFRHS2uF2mRsXTNAXFIqhdfs5-Uk21ZPl6OZjppBw-sbrbFab0qzpTFf*z&new=1)
  > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！对不起、我要辞职了！华为突然传来大消息！一对不起，我跟着华为，辞职种地了！最近这几年，网易养猪了，阿里养猪了，京东养完...
- ## [专访腾讯波分网络团队：价值回归技术本身，持续推进光网络开放](http://mp.weixin.qq.com/s?src=11&timestamp=1588123811&ver=2307&signature=85jbovzqItS52nR2218QLBD2wb8sTP09vn9gR-SYThQPYkZnfRb9EyovhnBe26xZFijKxZaWgG97zAHXVjUkyuhRoz2QnqRsnMuCD6xwc*SSqgNRh37IKxLSCgkp4oad&new=1)
+ ## [嬴彻科技获1亿美元融资 自动驾驶公司开年已融237亿](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=ukQPwFrj4Gs4MQvBhbh6GvIkMuFxxC8p16aaBQiz4AifF3JHFIBn1oqhts*N*Jn4r5BR9jrrK*2dgxYcjyyt0Zrbq9RlGOeAjBJ4N-TJupxUKAENnAukncTq1tlOZ1Ve&new=1)
+ > L3级自动驾驶卡车A样验收通过，明年交付。文 | 六毛车东西4月29日消息，刚刚，国内自动驾驶创企嬴彻科技宣布已完成1亿美元股权融资。与此同时，嬴彻科技表示将在2021年年底，联合中国主机厂批量交付L3级自动驾驶...
+ ## [小米十年成长史一网打尽|数读](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=zqMjNNr7LcTWWtPtRQmY4*Jbu5r8SGF4vmnV89XSx3eT3Dc6fEyr2dbRgPZdV*YmmcVL8BpD8YH0tCDZueJWmTZPPxuRi6ef2z3C29F7GaZFoXmoVqMkdzuHoLgYxQmy&new=1)
+ > 文 | 动点科技作者 | MELA CHAN从 2010 年创立至今，小米已经走过了 10 个年头。“十年树木”，小米是如何从雷军心中的一簇创业火种成长为今天的科技王国的？如今的小米公司囊括了太多东西，似乎正变得越来越复...
+ ## [老隋开票记：航天信息智能微厅帮助山区农户快步走上致富路](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=DSqVvuY8QoMMBDab**rajLMkYJ9FUI5ZVUrV*Dc3DjO*UsyyzYmvQdGF3ks4qje5tc0uBBvU-E8oNJQjIj5rnf38tew3AdgpRpQFCu1Ju69Ajtok30b-ltaXdT7v5-fV&new=1)
+ > 过去，线下办理工商注册、代开发票等业务，需要跑好几趟、好几个窗口、办好几天。现在，纳税人通过智能微厅，只需要个把小时就能一站式办结。航天信息推出的智能微厅，让纳税人省时，省力，更省心。
+ ## [专访腾讯波分网络团队：价值回归技术本身，持续推进光网络开放](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=85jbovzqItS52nR2218QLBD2wb8sTP09vn9gR-SYThSGP*DFFcOYtrYj1KFrC9ECrIrMVJ5*6Zdxz8KMLz7e5PdhlcXKkglKR2zxkF9YJpIDPLkgtoAELZe3qYsSToGk&new=1)
  > 5G时代的到来，叠加大数据、AI、物联网等新型技术的涌现，数据流量呈现爆发式增长。有数据预测，全球数据中心IP流量到2021年将会增长至20.6ZB。同时在数字经济的浪潮下，云应用场景激增，从全球范围来看，到2021...
- ## [B站知名up主遭勒索](http://mp.weixin.qq.com/s?src=11&timestamp=1588123811&ver=2307&signature=Jr1qSDdV7nqb-MoHeXCcjeeO0cYvgYxv3Dxto3ZSO9o0*LnnKAekq4b4XRhxXcbu33VGoRoyVRtxdKsI9*d04Bp6*wUCli12DP-zcK7hsDmLWkmoEJta4pbPVdLEIgwy&new=1)
+ ## [B站知名up主遭勒索](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=Jr1qSDdV7nqb-MoHeXCcjeeO0cYvgYxv3Dxto3ZSO9pQifGTRVRzCpWdBWbBVNDJPteYopxKF-ZD6n9z8cvobze2eTaR*W2ibvUVtZDH1wGXVNfvKP4fYiOBFCZsKSqk&new=1)
  > “现阶段所有正在制作的视频素材全部加密。”4月27日晚，B站up主——机智的党妹（粉丝557万）发布了一条视频《我被勒索了！》常逛B站等视频平台的朋友应该知道，随着粉丝阅读、关注度越高，UP主的视频质量也在提...
 # IT 技术 
  ## [只需五步，快速构建基于终端环境的API](http://mobile.51cto.com/ahot-615556.htm)
@@ -107,6 +113,8 @@ categories: IT NEWS
  > MySQL它不香吗，为什么还要NoSQL？
  ## [如何防止新的Windows 10更新搞砸系统？](http://os.51cto.com/art/202004/615569.htm)
  > 如何防止新的Windows 10更新搞砸系统？
+ ## [案例 | 人工智能如何改变医疗保健的未来？](http://ai.51cto.com/art/202004/615589.htm)
+ > 案例 | 人工智能如何改变医疗保健的未来？
  ## [真正的测试自动化框架全接触](http://developer.51cto.com/art/202004/615372.htm)
  > 真正的测试自动化框架全接触
  ## [月均活跃用户达1.3亿，B站高可用架构实践](http://developer.51cto.com/art/202004/615477.htm)
@@ -115,28 +123,26 @@ categories: IT NEWS
  > 为什么阿里巴巴待遇这么好，却还是有很多人离职？从这5点分析
  ## [用于监视 Kubernetes 和 Docker 的六大开源工具](http://os.51cto.com/art/202004/615478.htm)
  > 用于监视 Kubernetes 和 Docker 的六大开源工具
- ## [SD-WAN、MPLS和VPN是怎么使用的?](http://network.51cto.com/art/202004/615463.htm)
- > SD-WAN、MPLS和VPN是怎么使用的?
- ## [苹果谷歌为何走到一起？联系人跟踪API开发背后的故事](http://mobile.51cto.com/news-615594.htm)
- > 近日，苹果和谷歌宣布将联合开发的跨平台联系人跟踪API。外媒CNBC最新报告的深入报道了谷歌和苹果之间是如
- ## [疫情最热视频会议平台Zoom全面转投甲骨文云服务](http://news.51cto.com/art/202004/615591.htm)
- > 在此次新冠疫情期间，视频平台Zoom无疑是比较炙手可热的科技股票。由于美国各地先后宣布居家，企业纷纷关门
- ## [央行：数字人民币短期内不会大量发行和全面推广](http://blockchain.51cto.com/art/202004/615590.htm)
- > 目前，人民银行数字货币正在深圳、雄安、成都、苏州4地试点。人民银行表示，考虑到前期数字货币仅限于试点
- ## [医疗保健中的AI如何改变其未来？](http://ai.51cto.com/art/202004/615589.htm)
- > 人工智能正在改变这一切，使我们更轻松。 它改变了我们互动，消费信息，获得商品和服务的方式。 它可以像人
- ## [为什么感觉苹果越卖越便宜，安卓越卖越贵，这到底是什么原因？](http://mobile.51cto.com/news-615587.htm)
- > 苹果越来越便宜，只是一种假象，苹果本身就是推动手机涨价的元凶。安卓越来越贵，是一种正确的战略模式，众
- ## [硅谷天才陨落记：始于才华，陷于利益，败于“聪明”](http://news.51cto.com/art/202004/615592.htm)
- > 年少成才、履历光彩、大佬器重、事业风生水起、前途无量……这些词用在 2016 年初刚刚离开谷歌、转身创建 O
- ## [反人脸识别技术层出不穷 刷脸是否还安全？](http://ai.51cto.com/art/202004/615586.htm)
- > 当今应用较为成熟且广泛的智能技术有哪些？人脸识别算是一例。《麻省理工科技评论》曾将其列为2017年“十大
- ## [Flink及Storm、Spark主流流框架比较，到底谁会更胜一筹？](http://bigdata.51cto.com/art/202004/615585.htm)
- > 那么有spark和storm这样成熟的计算框架存在，为什么flink还能占有一席之地呢?今天我们就从流处理的角度将fl
- ## [Google的面试题长啥样？看完被吊打！](http://news.51cto.com/art/202004/615584.htm)
- > 作为一名Google的工程师和面试官，今天是我第二次发文分享科技公司面试建议了。这里先声明：本文仅代表我个
- ## [十大学习数据科学受欢迎的GitHub存储库（附地址）](http://bigdata.51cto.com/art/202004/615588.htm)
- > GitHub上数据科学的兴起催生了许多可用的免费资源，从而帮助成千上万的数据爱好者学习了数据科学。
+ ## [物联网技术如何让冷链物流飞上枝头变凤凰？（食品篇）](http://iot.51cto.com/art/202004/615621.htm)
+ > 随着这次疫情带来的生鲜电商的再次爆棚、冷链物流再次走到幕前，迎来大好趋势。
+ ## [智能自动化：机器人流程自动化的未来](http://ai.51cto.com/art/202004/615618.htm)
+ > 机器人流程自动化(RPA)对于简化繁琐的任务很有帮助，与人工智能和机器学习结合使用时，其应用的功能会更加
+ ## [你在的城市撒币了吗？Python爬取全国各城市消费券发放数据并分析](http://developer.51cto.com/art/202004/615620.htm)
+ > 近期，全国多地以各种形式投放消费券、消费补贴来鼓励消费，部分城市在首期消费券的基础上，连续追加发放多
+ ## [机器人流程自动化的十大好处](http://ai.51cto.com/art/202004/615614.htm)
+ > 机器人流程自动化(RPA)的核心好处是可以自动执行许多关键业务，从而使企业员工腾出时间专注于需要人工判断
+ ## [Zoom选择Oracle云基础设施支撑其核心在线会议服务](http://news.51cto.com/art/202004/615612.htm)
+ > 2020年4月28日 - 甲骨文公司今天宣布，Zoom视频通讯有限公司（以下简称“Zoom”）选择了Oracle云基础设施（
+ ## [固件安全的三大盲区](http://zhuanlan.51cto.com/art/202004/615613.htm)
+ > 简而言之，许多人(包括很多安全专家)不知道当前存在哪些固件安全隐患。以下，我们列举了每个企业都应考虑解
+ ## [5G铺设战疫信息高速路](http://network.51cto.com/art/202004/615610.htm)
+ > 回到社区门口，在5G健康一码通上刷一下身份证，就可以校验健康码状态；在地铁、火车站，“5G+热成像”人体
+ ## [我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了](http://news.51cto.com/art/202004/615615.htm)
+ > 由于互联网公司的流量巨大，系统上线会做一个流量峰值的评估，尤其是像各种秒杀促销活动，为了保证系统不被
+ ## [物联网将在哪些领域快速改善公共安全问题？](http://iot.51cto.com/art/202004/615609.htm)
+ > 公共安全官员在向市民提供服务时，需要尽可能多地提供帮助，物联网技术可以在需要的时候提供重要解决方案。
+ ## [为什么采用云原生?速度、稳定性和全周期开发](http://cloud.51cto.com/art/202004/615607.htm)
+ > 微服务、云计算和DevOps等“云原生”技术和实践的出现，使创新型组织能够比竞争对手更快地响应和适应市场变
  ## [每天一道python面试题](https://blog.csdn.net/qq_36772866/article/details/105748957)
  > 
  ## [送别了我的师父，我觉得我的青春结束了](https://blog.csdn.net/qq_35190492/article/details/105756119)
@@ -168,70 +174,58 @@ categories: IT NEWS
  ## [这 10 道 Java 测试题，据说阿里 P7 的正确率只有 50%](https://blog.csdn.net/alitech2017/article/details/105771455)
  > 这 10 道 Java 测试题，据说阿里 P7 的正确率只有 50%
 # 人工智能 
- ## [MySQL 数据库安全管理](https://blog.csdn.net/qq_32682305/article/details/105785310)
- > MySQL 数据库安全管理
- ## [网课作业禁止粘贴?禁用JavaScript了解一下 |小伙伴们都惊呆了](https://blog.csdn.net/weixin_43691058/article/details/105777194)
+ ## [AI在招聘领域的这些应用，你都知道几个？](https://blog.csdn.net/Bitemo/article/details/105797841)
  > 
- ## [手写SHA1加密算法（Java版）](https://blog.csdn.net/Aikin_Tony/article/details/105770067)
- > 手写SHA1加密算法（Java版）
+ ## [一个月面试近20家大中小厂，在互联网寒冬突破重围，成功上岸！](https://blog.csdn.net/BeiisBei/article/details/105604753)
+ > 
+ ## [如何像海豚一样在数据海洋里遨游？｜Hbase数据处理流程详解](https://blog.csdn.net/qq_26803795/article/details/105797099)
+ > 
+ ## [Spark深入解析（八）：RDD的转换-Value类型](https://blog.csdn.net/wzc8961661/article/details/105801635)
+ > 
+ ## [阶段一](https://blog.csdn.net/bbvjx1314/article/details/105792440)
+ > 阶段一
+ ## [干货分享：Python搭建Spark分布式集群环境](https://blog.csdn.net/chengxun03/article/details/105802139)
+ > 干货分享：Python搭建Spark分布式集群环境
+ ## [MapReduce快速入门系列(6) | Shuffle之Partition分区](https://blog.csdn.net/qq_16146103/article/details/105713281)
+ > 
+ ## [基于ElasticSearch的RESTFUL接口实践增删改操作](https://blog.csdn.net/pharos/article/details/105798052)
+ > 基于ElasticSearch的RESTFUL接口实践增删改操作
+ ## [python面试题：Python设置函数调用超时,进程卡住的问题](https://blog.csdn.net/daidaiweng/article/details/105826934)
+ > python面试题：Python设置函数调用超时,进程卡住的问题
+ ## [java开发工具IDEA安装以及使用](https://blog.csdn.net/shooopw/article/details/105822250)
+ > java开发工具IDEA安装以及使用
  ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
  > 
- ## [今天会是有Offer的一天么：面试时不要再问我ConcurrentHashMap了](https://blog.csdn.net/HZGuilty/article/details/105757784)
+ ## [【项目】数仓项目（一）](https://blog.csdn.net/qq_43733123/article/details/105800352)
  > 
- ## [如何解决setProperty、getProperty的中文乱码问题 ？](https://blog.csdn.net/m0_47298749/article/details/105794579)
- > 如何解决setProperty、getProperty的中文乱码问题 ？
- ## [一口气带你踩完五个 List 的大坑，真的是处处坑啊！](https://blog.csdn.net/u014634309/article/details/105700463)
+ ## [你准备好拥抱vue3.0了吗](https://blog.csdn.net/DengZY926/article/details/105776935)
  > 
- ## [面试官：如何终止线程？有几种方式？](https://blog.csdn.net/Mr_wxc/article/details/105696018)
- > 面试官：如何终止线程？有几种方式？
- ## [PanDownload-一款不限速的网盘下载利器](https://blog.csdn.net/GentleCP/article/details/91833532)
- > PanDownload-一款不限速的网盘下载利器
- ## [SpringBoot整合Shiro JWT](https://blog.csdn.net/qq_38245668/article/details/105775845)
- > 
- ## [\[网络安全自学篇\] 七十.WannaCry勒索病毒复现及分析（三）蠕虫传播机制分析及IDA和OD逆向](https://blog.csdn.net/Eastmount/article/details/105760940)
- > 
- ## [Linux_服务管理—openssh](https://blog.csdn.net/qq996616/article/details/105788783)
- > Linux_服务管理—openssh
- ## [『手撕』单例模式](https://blog.csdn.net/SingleNobleTH/article/details/105785983)
- > 『手撕』单例模式
- ## [十分钟搞定Java多线程-Java中Thread.start()和Thread.run()方法有什么不同](https://blog.csdn.net/mcmoo/article/details/105758678)
- > 十分钟搞定Java多线程-Java中Thread.start()和Thread.run()方法有什么不同
- ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
- > 和黑客斗争的 6 天！
+ ## [Spark深入解析（九）：RDD的转换-双Value类型](https://blog.csdn.net/wzc8961661/article/details/105826560)
+ > Spark深入解析（九）：RDD的转换-双Value类型
+ ## [Github Student Developer Pack申请流程 + WordPress架站](https://blog.csdn.net/weixin_46918679/article/details/105788330)
+ > Github Student Developer Pack申请流程 + WordPress架站
 # PM 
- ## [3个方面，解析趣头条的用户激励体系](http://www.woshipm.com/pd/3781013.html)
- > 作者从社区金融系统、用户任务系统和用户等级体系三个方面对趣头条的用户激励体系进行拆解，发现不同类产品中的激励体系需要注意的问题。2018年9月14日，趣头条在美国...
- ## [流失到回归：看内容社区的“核心竞争力”](http://www.woshipm.com/operate/3782632.html)
- > 本文从一个内容生产者的视角，谈谈内容社区的核心竞争力是什么？看了看自己的上一篇文章，已经是2年半前了。这两年多经历了团队和业务的从0-N快速发展，快速的打怪...
- ## [从访问性障碍出发，聊聊Neumorphism的可用性](http://www.woshipm.com/pd/3774959.html)
- > 设计师在设计真实的产品项目时必须要评估自己的设计方式，在智能产品的可用性和易用性方面需要有更多的思考，不能将残疾用户群排除在外。Neumorphism被预测为2020年最...
- ## [精益OKR现代指南（2）：RAMPS原则](http://www.woshipm.com/zhichang/3782246.html)
- > 本文将为大家介绍精益OKR设置的基础：RAMPS原则简介，希望内容对你有所帮助。编者按：OKR（目标与关键成果）是最近几年被炒作得很厉害的一种企业管理手段。但是很...
- ## [新零售的营销生态（一）：新零售营销中心的搭建](http://www.woshipm.com/newretail/3781464.html)
- > 营销中心搭建是新零售营销系统的基础，本文作者结合案例，从营销中心的概念出发，介绍了新零售营销中心搭建需要考虑的六个方面，与大家分享。背景说到营销，许多小伙...
- ## [早鸟优惠 | 面试产品岗如何梳理思路？这里有一份整理好的攻略！](http://www.woshipm.com/online/3784339.html)
- > 产品岗作为口口相传“高薪资、低门槛”的好岗位，一直吸引了不少新人投身于此。但偏偏到了面试这个临门一脚的时候，不少已经准备好大展身手的应届毕业生、转岗产品求职者...
- ## [新人入门：To B 的权限体系设计](http://www.woshipm.com/pd/3780669.html)
- > 文章从权限模型和概念出发，对权限系统的核心进行剖析，抽象出权限系统中的核心要素，并结合案例对权限系统进行介绍。一个最简单表达了权限模型的实例小明和小李，分...
- ## [疫情下医药电商价值凸显，如何建设自身能力，优化升级？](http://www.chanpin100.com/article/111478)
- > 后疫情时代，医药电商不断加强能力建设，增强数据整合能力、优化供应链、布局互联网医院、建立以客户为中心的理念、积极拥抱新零售。
- ## [产品经理如何培养商业思维？](http://www.chanpin100.com/article/111477)
- > 产品经理最具价值的地方在于思考隐形背后的东西——产品背后的商业逻辑设计。
- ## [三趋势！解读新时代护理市场新风向！|2020中国互联网护理市场专题分析](http://www.chanpin100.com/article/111475)
- > 互联网护理服务指的是以互联网为媒介和手段，提供以采血换药、导尿吸痰、居家养老、中医理疗、上门催乳、术后护理为代表的护理服务。中国互联网医疗市场进入高速发展期，协助医疗体系降本增效成为主要发展方向。
- ## [产品经理如何快速定位「数据异常」问题？](http://www.chanpin100.com/article/111474)
- > 快速定位数据问题的方法论
- ## [想让用户回到产品？可能只差一次点击的距离](http://www.chanpin100.com/article/111473)
- > 转化流程减少一小步，用户转化提升一大步
- ## [极光：2020年Q1智能手机行业季度数据研究报告](http://www.chanpin100.com/article/111472)
- > 疫情下的手机市场：进击的华为，失速的OPPO，风靡下沉市场的5G手机
- ## [面对这些问题，产品经理应该怎么做？](http://www.chanpin100.com/article/111470)
- > 作为项目经理首先要了解你的客户，了解你客户所在的行业。很多时候客户需求变更是项目调研的时候没有正确领会客户的想法。
- ## [2020年，百度小程序的机会在哪？](http://www.chanpin100.com/article/111469)
- > 对于国内经济市场而言，如果说2019年是艰难模式，那么2020年则是地狱模式。
- ## [犀牛和犀牛鸟：论平台和小程序开发者的互利共生](http://www.chanpin100.com/article/111468)
- > 在自然界，有一种关系叫做“互利共生”，这是指两种生物生活在一起，彼此有利，两者分开以后双方的生活都要受到很大影响，甚至不能生活而死亡。
- ## [有它，你也能做电商订单系统](http://www.chanpin100.com/article/111467)
- > 已把水拧干，极简、极干。你看了它，做实物电商订单系统，有普了。
+ ## [实践干货：「商家运营体系」该如何搭建与应用？](http://www.woshipm.com/operate/3783223.html)
+ > 本文将围绕是什么、怎么做、如何应用与落地这三个维度，分享关于商家运营体系的搭建知识，希望对你有所帮助。今天和大家分享的是：商家运营体系的搭建，本篇的分享会...
+ ## [拼多多突围进阶的四个模块](http://www.woshipm.com/it/3781525.html)
+ > 从电商巨头的夹击中成功突围后，拼多多从用户量上成为了仅次于阿里的电商平台，那么拼多多要想获得更进一步的进阶，用户贡献、供应链、渠道、跨行业拓展就成了必争之地...
+ ## [传统园区升级为智慧园区的三个阶段](http://www.woshipm.com/it/3781451.html)
+ > 传统园区在结合互联网、物联网(IoT)等技术融入，也加快了园区智能化的升级。本文阐述一下关于传统园区升级为智慧园区的三个阶段的转化。产业园区作为产业高度密集，人...
+ ## [腾讯/抖音/陌陌入局，但短视频社交为何不是一个好的尝试？](http://www.woshipm.com/it/3783598.html)
+ > 视频社交在全网直播风潮的带领下，成了腾讯、字节和陌陌等企业重点关注的热点赛道。但对视频社交的过度关注，实际上分散了各企业对未来更有可能成为普遍社交工具的技术...
+ ## [B端企业信息化建设：拆解从0到1的完整思路](http://www.woshipm.com/pd/975731.html)
+ > 本文主要与大家分享企业内部产品从0到1建设的完整思路，不涉及具体的内部调研方法，希望能够给大家带来一些帮助，或者一些新的思路。在启动项目立项初期，首先需要明...
+ ## [线上课程 | 入门做运营，往哪个方向发展，3年后不会后悔？](http://www.woshipm.com/online/3785455.html)
+ > 没有人天生就方向明确且清晰。所以要努力去试错，帮助自己发现兴趣所在。做运营，能力过关，都会有更好发展看到招聘网站上五花八门的运营岗，入门运营的同学经常会被...
+ ## [拼多多版朋友圈：拼小圈，在社交关系链中是什么样的？](http://www.woshipm.com/it/3782193.html)
+ > 拼小圈是一个拼单分享社交的功能。拼小圈的上线，颠覆了电商传统的“陌生人评价体系”行业标准，其根本目的就是为了更好地维护消费者权益。根据3月11日，新电商平台拼多...
+ ## [从电视购物到直播电商，中国屏幕经济的发展之路](http://www.woshipm.com/it/3782182.html)
+ > 在这小小的屏幕背后，我们是从电视购物走到了到直播电商，每一次的变化都是技术的革新和社会的发展，而我们这一路却走过了近30个年头。2020年，可以说是网红直播带货...
+ ## [以「在行」闭门会为例，怎么用「用户标签系统」做精细化运营？](http://www.woshipm.com/operate/3772875.html)
+ > 笔者作为「在行」增长负责人，将以「在行」针对高价值用户的「私域流量与增长主题闭门会」为例，分享用户标签系统的建设维度，以及如何利用标签系统实现精细化运营。1...
+ ## [从罗永浩身上，我们能学到的营销策略](http://www.woshipm.com/marketing/3782281.html)
+ > 当大家对罗老师直播关注的热度过去之后，我突然想聊聊从他身上，我们能学到的营销策略。像每一个不平凡的人一样，罗永浩一直在和自己作战，然后被世界孤立，又坚持用...
+ ## [产品卖点如何进行文案包装？](http://www.woshipm.com/copy/3784340.html)
+ > 在进行产品推广的时候，一个清晰明确、凸显创新性与差异性的卖点能为推广起到很好的帮助，让用户记住我们的产品。那么在日常的工作中，如何梳理出产品的卖点并进行包装...
 
     
