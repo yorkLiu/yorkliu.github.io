@@ -1,7 +1,7 @@
 ---
 title: 2020-04-29 IT News
 copyright: true
-date: 2020-04-29 12:00:53
+date: 2020-04-29 17:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -88,61 +88,67 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [我的电脑不联网，很安全，黑客：你还有风扇呢](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=dazO1Tn36JbWLZtyc3mek4zS51irjflf9OwyaC1r3d9W8bTUmMDiQR5i1NI9S8vFEtTxErHsQZHiTvPnwHGLX3EdI0JyJyhfYNyZwQ3e32OzRMp0HPdX6piWA3QY9X5q&new=1)
- > 参与：张倩、蛋酱、杜伟机器之心整理从1988年第一个网络蠕虫病毒诞生以来，「互联网危机四伏」的观念就已经深入人心。如果只是这样，不给电脑联网、禁止使用任何可移动储存介质，数据就安全了吗？但专门研究黑客...
- ## [干货：大尺寸工业级陶瓷3D打印技术与应用](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=dv3aH8c9DWeSvshWx04tzMGxFLHSyDU-N55kNquZ2h0sqPncUDP346eyLivqJQxa221IfXBSyNOVp4TQEE2ZQd4n7sfcfHL9yU6IR63yR-OsIdRGTx9XiNrMhYcNFX0f&new=1)
- > 2020年4月24日下午2点，全球领先的法国陶瓷3D打印机制造商3DCERAM联合南极熊3D打印网举办了一场线上研讨会，主题为“ 3DCERAM基于光固化的陶瓷3D打印技术及其应用”，本次线上研讨会直播由3DCERAM中国 材料工程...
- ## [5G+AI：未来技术创新的助推器](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=1ao77ss0*cUWaQKE8mbozJCWCw1lwRH1F69-*sP02*FVgK-KqBzpHx-k2JezXy1lq*x34xKoRfQpvH-w*BfwcugXXbdIjwVMhvU3holwaMpsmWV9OkSYrTzNGQY0AmY0&new=1)
- > 5G和AI是过去几十年来最具颠覆性的两项技术。通过两者的结合，将终端侧处理、边缘云和5G强强联合，可以充分实现个性化体验、保护用户隐私并提升终端稳定性，打造出无处不在、始终连接的智能终端和服务架构，带来...
- ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=kZsz5ntafFAttMqop-IVFcSjgMmNp9kYfYzvnkQ9PjKfrrMvu4lVxJ4UvATT8INuwUT5WWzFRHS2uF2mRsXTNAXFIqhdfs5-Uk21ZPl6OZjppBw-sbrbFab0qzpTFf*z&new=1)
- > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！对不起、我要辞职了！华为突然传来大消息！一对不起，我跟着华为，辞职种地了！最近这几年，网易养猪了，阿里养猪了，京东养完...
- ## [嬴彻科技获1亿美元融资 自动驾驶公司开年已融237亿](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=ukQPwFrj4Gs4MQvBhbh6GvIkMuFxxC8p16aaBQiz4AifF3JHFIBn1oqhts*N*Jn4r5BR9jrrK*2dgxYcjyyt0Zrbq9RlGOeAjBJ4N-TJupxUKAENnAukncTq1tlOZ1Ve&new=1)
+ ## [嬴彻科技获1亿美元融资 自动驾驶公司开年已融237亿](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=ukQPwFrj4Gs4MQvBhbh6GvIkMuFxxC8p16aaBQiz4AjxU7uFXHnxTadnd97-BzRsj9uXDWRYs1PJUfMMQjacaDd9riAWtCYAYDZpGVOHcJM7HLuFrgxkMmkbtXtyznxg&new=1)
  > L3级自动驾驶卡车A样验收通过，明年交付。文 | 六毛车东西4月29日消息，刚刚，国内自动驾驶创企嬴彻科技宣布已完成1亿美元股权融资。与此同时，嬴彻科技表示将在2021年年底，联合中国主机厂批量交付L3级自动驾驶...
- ## [小米十年成长史一网打尽|数读](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=zqMjNNr7LcTWWtPtRQmY4*Jbu5r8SGF4vmnV89XSx3eT3Dc6fEyr2dbRgPZdV*YmmcVL8BpD8YH0tCDZueJWmTZPPxuRi6ef2z3C29F7GaZFoXmoVqMkdzuHoLgYxQmy&new=1)
+ ## [中国联通马红兵：运营商应强化“新三者”责任，使能5G新基建](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=SCaiA7GDzhJmr5ZReQLfI9Ip-65MBwVBFmZIMblph5sKguuK-*l9*moNQ7YnH8j03BrUz7FZhM6-1dhh*wmVUWZwKgcLDNxniZ4NTQsExc88kiBf5dYJQBlJYHvVyi0l&new=1)
+ > “在日前召开的由FuTURE论坛举办的“5G和网络发展战略研讨会”上，中国联通运维部总经理马红兵表示，“5G引领新基建，作为5G新基建的关键使能者，运营商应充分发挥出新的角色作用--5G基础设施的建设者；行业应用...
+ ## [内行热闹、外行冷 智能家居是“伪需求”吗?|风眼观察](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=06ALFH8R9h0tuXn42mJFbUoSbMQ7dRnIhIeChgy3bDqiX6TfAOTQ-FwfWwuz067E2xRPspd40*h*ljcfk0rR7B9*odQevMQ0Xsp4Tqb9Tc2vh2bfyLTah8jvN1jfoEnm&new=1)
+ > 出品 《风眼》深度报道组 凤凰网科技 凤凰新闻客户端作者  李婷 编辑 于浩微信编辑 杨倩 从去年开始，智能家居市场竞争再次升级。传统家电厂商、手机厂商等都将AIoT作为未来的重要布局，并在“智慧屏”领域掀起...
+ ## [干货：大尺寸工业级陶瓷3D打印技术与应用](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=dv3aH8c9DWeSvshWx04tzMGxFLHSyDU-N55kNquZ2h2FE5m07TuIcsungQ3cYaAm7dCrvjWBEwWNB2mNOgrdJosePRutUne3XpCnXWuq4q4omVgqjlSOfGcs4A86-x1e&new=1)
+ > 2020年4月24日下午2点，全球领先的法国陶瓷3D打印机制造商3DCERAM联合南极熊3D打印网举办了一场线上研讨会，主题为“ 3DCERAM基于光固化的陶瓷3D打印技术及其应用”，本次线上研讨会直播由3DCERAM中国 材料工程...
+ ## [开卷知新|刘松：数字基础设施—— 数字化生产生活新图景](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=tlE7pfvauW6Sm4nlbJDTua8zJ89uR0ohjZkzEyLQGszjpnj6qegDxhoS7dUqSPYgkBxCG5bBEWoBDhdiDjdt6npg5k0dETD-wKX8EqTuw9Kp2YWPLhXUHaPDs4pFFQfL&new=1)
+ > 基础设施，是指为社会生产和居民生活提供公共服务的物质工程设施，包括交通、邮政、供水供电等领域的公共设施。数字基础设施的提出，其背景是新一代信息通信技术蓬勃发展。像水、电、公路一样，数字信息已成为生...
+ ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=kZsz5ntafFAttMqop-IVFcSjgMmNp9kYfYzvnkQ9PjL48DRA*4Zwlrh8lRrGocqOalPnzWQTmwtGSiOpP79ciUw0rAPMGEFfrOSSpEl6yleOrUgYrOrOnvZ9jI8r5rZC&new=1)
+ > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！对不起、我要辞职了！华为突然传来大消息！一对不起，我跟着华为，辞职种地了！最近这几年，网易养猪了，阿里养猪了，京东养完...
+ ## [我的电脑不联网，很安全，黑客：你还有风扇呢](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=dazO1Tn36JbWLZtyc3mek4zS51irjflf9OwyaC1r3d*prUZvHobOpaQB1Nqi5VMOeYmuoqs-5pAhc8Slh*k3H1SG3RclWq1kY0tCEuQuRuB8eFeRQVUIyEWysL*TQBsx&new=1)
+ > 参与：张倩、蛋酱、杜伟机器之心整理从1988年第一个网络蠕虫病毒诞生以来，「互联网危机四伏」的观念就已经深入人心。如果只是这样，不给电脑联网、禁止使用任何可移动储存介质，数据就安全了吗？但专门研究黑客...
+ ## [5G+AI：未来技术创新的助推器](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=1ao77ss0*cUWaQKE8mbozJCWCw1lwRH1F69-*sP02*Hz-DhNwZ5u2eLe*UcaTUVuZch9hMCfYu1qDx7OYCWlSQ4L68MzOGN8vYTgOC1o3bn326mXw95ZV7BlXJwEGcJQ&new=1)
+ > 5G和AI是过去几十年来最具颠覆性的两项技术。通过两者的结合，将终端侧处理、边缘云和5G强强联合，可以充分实现个性化体验、保护用户隐私并提升终端稳定性，打造出无处不在、始终连接的智能终端和服务架构，带来...
+ ## [小米十年成长史一网打尽|数读](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=zqMjNNr7LcTWWtPtRQmY4*Jbu5r8SGF4vmnV89XSx3em8NYST9*1in8pX*q*s8FjKgXZohMWFgIjprjgkp15BwArMqIu4Lyr--es0yO*AjncpiTUJgh0Uwuy7lqfjjVJ&new=1)
  > 文 | 动点科技作者 | MELA CHAN从 2010 年创立至今，小米已经走过了 10 个年头。“十年树木”，小米是如何从雷军心中的一簇创业火种成长为今天的科技王国的？如今的小米公司囊括了太多东西，似乎正变得越来越复...
- ## [老隋开票记：航天信息智能微厅帮助山区农户快步走上致富路](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=DSqVvuY8QoMMBDab**rajLMkYJ9FUI5ZVUrV*Dc3DjO*UsyyzYmvQdGF3ks4qje5tc0uBBvU-E8oNJQjIj5rnf38tew3AdgpRpQFCu1Ju69Ajtok30b-ltaXdT7v5-fV&new=1)
+ ## [老隋开票记：航天信息智能微厅帮助山区农户快步走上致富路](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=DSqVvuY8QoMMBDab**rajLMkYJ9FUI5ZVUrV*Dc3DjP-QPMLj5OVfKEFoOzQY7oeWCRtnB684o3M-C1THqGn2OSj-Z6VNYarGwNbJ3lKFnNq7haQ-VXpsceDebuj-DDG&new=1)
  > 过去，线下办理工商注册、代开发票等业务，需要跑好几趟、好几个窗口、办好几天。现在，纳税人通过智能微厅，只需要个把小时就能一站式办结。航天信息推出的智能微厅，让纳税人省时，省力，更省心。
- ## [专访腾讯波分网络团队：价值回归技术本身，持续推进光网络开放](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=85jbovzqItS52nR2218QLBD2wb8sTP09vn9gR-SYThSGP*DFFcOYtrYj1KFrC9ECrIrMVJ5*6Zdxz8KMLz7e5PdhlcXKkglKR2zxkF9YJpIDPLkgtoAELZe3qYsSToGk&new=1)
+ ## [专访腾讯波分网络团队：价值回归技术本身，持续推进光网络开放](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=85jbovzqItS52nR2218QLBD2wb8sTP09vn9gR-SYThQalSSSCZ6Z378-dCbl5qlgpWKwDRVNtNnZIWuHRAEy78WsaswT5r1G6LOeFi3qmZmvKaEO1p6JScTa4nYoqHbt&new=1)
  > 5G时代的到来，叠加大数据、AI、物联网等新型技术的涌现，数据流量呈现爆发式增长。有数据预测，全球数据中心IP流量到2021年将会增长至20.6ZB。同时在数字经济的浪潮下，云应用场景激增，从全球范围来看，到2021...
- ## [B站知名up主遭勒索](http://mp.weixin.qq.com/s?src=11&timestamp=1588132809&ver=2307&signature=Jr1qSDdV7nqb-MoHeXCcjeeO0cYvgYxv3Dxto3ZSO9pQifGTRVRzCpWdBWbBVNDJPteYopxKF-ZD6n9z8cvobze2eTaR*W2ibvUVtZDH1wGXVNfvKP4fYiOBFCZsKSqk&new=1)
+ ## [B站知名up主遭勒索](http://mp.weixin.qq.com/s?src=11&timestamp=1588149002&ver=2307&signature=Jr1qSDdV7nqb-MoHeXCcjeeO0cYvgYxv3Dxto3ZSO9qt4nh6buaKWAk0f9il1JTCTdQ6tfHvAOoQhnaY4us1Ri1A*csObGCHLYIBo3fSxN0CiMmnu7pbXLjd54OBv1sS&new=1)
  > “现阶段所有正在制作的视频素材全部加密。”4月27日晚，B站up主——机智的党妹（粉丝557万）发布了一条视频《我被勒索了！》常逛B站等视频平台的朋友应该知道，随着粉丝阅读、关注度越高，UP主的视频质量也在提...
 # IT 技术 
  ## [只需五步，快速构建基于终端环境的API](http://mobile.51cto.com/ahot-615556.htm)
  > 只需五步，快速构建基于终端环境的API
+ ## [从新冠数据集到AutoML库集，值得学习的数据科学项目](http://bigdata.51cto.com/art/202004/615629.htm)
+ > 从新冠数据集到AutoML库集，值得学习的数据科学项目
  ## [MySQL它不香吗，为什么还要NoSQL？](http://database.51cto.com/art/202004/615573.htm)
  > MySQL它不香吗，为什么还要NoSQL？
+ ## [你在的城市撒币了吗？Python爬取全国各城市消费券发放数据并分析](http://developer.51cto.com/art/202004/615620.htm)
+ > 你在的城市撒币了吗？Python爬取全国各城市消费券发放数据并分析
  ## [如何防止新的Windows 10更新搞砸系统？](http://os.51cto.com/art/202004/615569.htm)
  > 如何防止新的Windows 10更新搞砸系统？
+ ## [关于Ubuntu 20.04，你应该了解的事情](http://os.51cto.com/art/202004/615566.htm)
+ > 关于Ubuntu 20.04，你应该了解的事情
+ ## [iOS 14新功能、传言、发布日期总整理，你想知道一切都在这](http://mobile.51cto.com/iphone-615581.htm)
+ > iOS 14新功能、传言、发布日期总整理，你想知道一切都在这
  ## [案例 | 人工智能如何改变医疗保健的未来？](http://ai.51cto.com/art/202004/615589.htm)
  > 案例 | 人工智能如何改变医疗保健的未来？
- ## [真正的测试自动化框架全接触](http://developer.51cto.com/art/202004/615372.htm)
- > 真正的测试自动化框架全接触
- ## [月均活跃用户达1.3亿，B站高可用架构实践](http://developer.51cto.com/art/202004/615477.htm)
- > 月均活跃用户达1.3亿，B站高可用架构实践
- ## [为什么阿里巴巴待遇这么好，却还是有很多人离职？从这5点分析](http://news.51cto.com/art/202004/615543.htm)
- > 为什么阿里巴巴待遇这么好，却还是有很多人离职？从这5点分析
- ## [用于监视 Kubernetes 和 Docker 的六大开源工具](http://os.51cto.com/art/202004/615478.htm)
- > 用于监视 Kubernetes 和 Docker 的六大开源工具
- ## [物联网技术如何让冷链物流飞上枝头变凤凰？（食品篇）](http://iot.51cto.com/art/202004/615621.htm)
- > 随着这次疫情带来的生鲜电商的再次爆棚、冷链物流再次走到幕前，迎来大好趋势。
- ## [智能自动化：机器人流程自动化的未来](http://ai.51cto.com/art/202004/615618.htm)
- > 机器人流程自动化(RPA)对于简化繁琐的任务很有帮助，与人工智能和机器学习结合使用时，其应用的功能会更加
- ## [你在的城市撒币了吗？Python爬取全国各城市消费券发放数据并分析](http://developer.51cto.com/art/202004/615620.htm)
- > 近期，全国多地以各种形式投放消费券、消费补贴来鼓励消费，部分城市在首期消费券的基础上，连续追加发放多
- ## [机器人流程自动化的十大好处](http://ai.51cto.com/art/202004/615614.htm)
- > 机器人流程自动化(RPA)的核心好处是可以自动执行许多关键业务，从而使企业员工腾出时间专注于需要人工判断
- ## [Zoom选择Oracle云基础设施支撑其核心在线会议服务](http://news.51cto.com/art/202004/615612.htm)
- > 2020年4月28日 - 甲骨文公司今天宣布，Zoom视频通讯有限公司（以下简称“Zoom”）选择了Oracle云基础设施（
- ## [固件安全的三大盲区](http://zhuanlan.51cto.com/art/202004/615613.htm)
- > 简而言之，许多人(包括很多安全专家)不知道当前存在哪些固件安全隐患。以下，我们列举了每个企业都应考虑解
- ## [5G铺设战疫信息高速路](http://network.51cto.com/art/202004/615610.htm)
- > 回到社区门口，在5G健康一码通上刷一下身份证，就可以校验健康码状态；在地铁、火车站，“5G+热成像”人体
- ## [我司用了 6 年的 Redis 分布式限流器，可以说是非常厉害了](http://news.51cto.com/art/202004/615615.htm)
- > 由于互联网公司的流量巨大，系统上线会做一个流量峰值的评估，尤其是像各种秒杀促销活动，为了保证系统不被
- ## [物联网将在哪些领域快速改善公共安全问题？](http://iot.51cto.com/art/202004/615609.htm)
- > 公共安全官员在向市民提供服务时，需要尽可能多地提供帮助，物联网技术可以在需要的时候提供重要解决方案。
- ## [为什么采用云原生?速度、稳定性和全周期开发](http://cloud.51cto.com/art/202004/615607.htm)
- > 微服务、云计算和DevOps等“云原生”技术和实践的出现，使创新型组织能够比竞争对手更快地响应和适应市场变
+ ## [机器学习模型必不可少的5种数据预处理技术](http://news.51cto.com/art/202004/615666.htm)
+ > 如果您曾经参与过数据科学项目，那么您可能会意识到数据挖掘的第一步和主要步骤是数据预处理。在现实生活问
+ ## [把WiFi装进大脑里，就可以治好瘫痪？瘫痪的猴子竟然6天正常走路](http://news.51cto.com/art/202004/615664.htm)
+ > 网络的普及，伴随着的是无线技术的发展，也改变着人们的生活方式。移动支付，无人超市，AI机器人等各种应
+ ## [iOS无侵入的埋点方案如何实现？](http://zhuanlan.51cto.com/art/202004/615665.htm)
+ > 在开发过程中，埋点可以解决两大类问题：一是了解用户使用 App 的行为，二是降低分析线上问题的难度。
+ ## [争议 | 这些分布式存储产品谁更胜一筹？FusionStorage、XSKY、Ceph、vSAN、SmartX 等……](http://stor.51cto.com/art/202004/615663.htm)
+ > 想了解关于FusionStorage、Ceph、vSAN、SmartX等分布式存储产品优劣对比，以及未来的技术演进趋势如何?
+ ## [新冠“终结者”？与人工智能并肩战疫情](http://ai.51cto.com/art/202004/615660.htm)
+ > 新冠病毒正在肆虐全球，威胁着世界各国人民生命安全，也给世界经济带来巨大压力。人工智能技术在此时成为科
+ ## [脑机接口技术重大突破！首次帮助瘫痪男子恢复动作和触觉](http://news.51cto.com/art/202004/615658.htm)
+ > 据外媒报道，触觉是我们感受外部世界不可或缺的感官，但许多人却因脊髓损伤或因患病瘫痪而失去这种能力。不
+ ## [运营商的取经八十一难](http://network.51cto.com/art/202004/615659.htm)
+ > 前段时间，三大运营商联合重磅发布5G消息白皮书让大家在闲暇之余又多了一个谈论的话题，一时之间各大媒体争
+ ## [12个数据带你了解物联网的下一个十年](http://iot.51cto.com/art/202004/615657.htm)
+ > 在普遍意义上，物联网即“万物相连的互联网”，是互联网基础上的延伸和扩展的网络，将各种信息传感设备与互
+ ## [物联网（IoT）如何改变电子商务行业？](http://iot.51cto.com/art/202004/615656.htm)
+ > 技术在电子商务行业中的作用不容小觑，物联网的广泛实施预计将成为未来主流趋势。
+ ## [5G独立组网商用将在年内实现](http://network.51cto.com/art/202004/615654.htm)
+ > 近日，国家发改委首次明确新基建三方面内容：信息、融合和创新基础设施，从加快推动5G网络部署等方面促进新
  ## [每天一道python面试题](https://blog.csdn.net/qq_36772866/article/details/105748957)
  > 
  ## [送别了我的师父，我觉得我的青春结束了](https://blog.csdn.net/qq_35190492/article/details/105756119)
@@ -153,12 +159,12 @@ categories: IT NEWS
  > 
  ## [《Oracle Java EE编程指南》13-04：JSP指令](https://blog.csdn.net/goldentec/article/details/105342704)
  > 
- ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
- > 
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平](https://blog.csdn.net/likun557/article/details/105154280)
- > 你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平
+ ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
+ > 
+ ## [安琪拉教百里守约学并发编程之多线程基础](https://blog.csdn.net/zhengwangzw/article/details/105625514)
+ > 
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
@@ -167,65 +173,65 @@ categories: IT NEWS
  > 为什么说程序员做外包没前途？
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
- ## [Python 利用xlrd读取Excel文件](https://blog.csdn.net/jiangchao858/article/details/104263006)
- > 
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
  ## [这 10 道 Java 测试题，据说阿里 P7 的正确率只有 50%](https://blog.csdn.net/alitech2017/article/details/105771455)
  > 这 10 道 Java 测试题，据说阿里 P7 的正确率只有 50%
+ ## [加不加 synchronized 有什么区别？](https://blog.csdn.net/u011642663/article/details/105761354)
+ > 
 # 人工智能 
- ## [AI在招聘领域的这些应用，你都知道几个？](https://blog.csdn.net/Bitemo/article/details/105797841)
- > 
- ## [一个月面试近20家大中小厂，在互联网寒冬突破重围，成功上岸！](https://blog.csdn.net/BeiisBei/article/details/105604753)
- > 
- ## [如何像海豚一样在数据海洋里遨游？｜Hbase数据处理流程详解](https://blog.csdn.net/qq_26803795/article/details/105797099)
- > 
- ## [Spark深入解析（八）：RDD的转换-Value类型](https://blog.csdn.net/wzc8961661/article/details/105801635)
- > 
- ## [阶段一](https://blog.csdn.net/bbvjx1314/article/details/105792440)
- > 阶段一
- ## [干货分享：Python搭建Spark分布式集群环境](https://blog.csdn.net/chengxun03/article/details/105802139)
- > 干货分享：Python搭建Spark分布式集群环境
- ## [MapReduce快速入门系列(6) | Shuffle之Partition分区](https://blog.csdn.net/qq_16146103/article/details/105713281)
- > 
- ## [基于ElasticSearch的RESTFUL接口实践增删改操作](https://blog.csdn.net/pharos/article/details/105798052)
- > 基于ElasticSearch的RESTFUL接口实践增删改操作
- ## [python面试题：Python设置函数调用超时,进程卡住的问题](https://blog.csdn.net/daidaiweng/article/details/105826934)
- > python面试题：Python设置函数调用超时,进程卡住的问题
- ## [java开发工具IDEA安装以及使用](https://blog.csdn.net/shooopw/article/details/105822250)
- > java开发工具IDEA安装以及使用
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
- > 
- ## [【项目】数仓项目（一）](https://blog.csdn.net/qq_43733123/article/details/105800352)
- > 
- ## [你准备好拥抱vue3.0了吗](https://blog.csdn.net/DengZY926/article/details/105776935)
- > 
- ## [Spark深入解析（九）：RDD的转换-双Value类型](https://blog.csdn.net/wzc8961661/article/details/105826560)
- > Spark深入解析（九）：RDD的转换-双Value类型
- ## [Github Student Developer Pack申请流程 + WordPress架站](https://blog.csdn.net/weixin_46918679/article/details/105788330)
- > Github Student Developer Pack申请流程 + WordPress架站
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 # PM 
- ## [实践干货：「商家运营体系」该如何搭建与应用？](http://www.woshipm.com/operate/3783223.html)
- > 本文将围绕是什么、怎么做、如何应用与落地这三个维度，分享关于商家运营体系的搭建知识，希望对你有所帮助。今天和大家分享的是：商家运营体系的搭建，本篇的分享会...
- ## [拼多多突围进阶的四个模块](http://www.woshipm.com/it/3781525.html)
- > 从电商巨头的夹击中成功突围后，拼多多从用户量上成为了仅次于阿里的电商平台，那么拼多多要想获得更进一步的进阶，用户贡献、供应链、渠道、跨行业拓展就成了必争之地...
- ## [传统园区升级为智慧园区的三个阶段](http://www.woshipm.com/it/3781451.html)
- > 传统园区在结合互联网、物联网(IoT)等技术融入，也加快了园区智能化的升级。本文阐述一下关于传统园区升级为智慧园区的三个阶段的转化。产业园区作为产业高度密集，人...
- ## [腾讯/抖音/陌陌入局，但短视频社交为何不是一个好的尝试？](http://www.woshipm.com/it/3783598.html)
- > 视频社交在全网直播风潮的带领下，成了腾讯、字节和陌陌等企业重点关注的热点赛道。但对视频社交的过度关注，实际上分散了各企业对未来更有可能成为普遍社交工具的技术...
- ## [B端企业信息化建设：拆解从0到1的完整思路](http://www.woshipm.com/pd/975731.html)
- > 本文主要与大家分享企业内部产品从0到1建设的完整思路，不涉及具体的内部调研方法，希望能够给大家带来一些帮助，或者一些新的思路。在启动项目立项初期，首先需要明...
- ## [线上课程 | 入门做运营，往哪个方向发展，3年后不会后悔？](http://www.woshipm.com/online/3785455.html)
- > 没有人天生就方向明确且清晰。所以要努力去试错，帮助自己发现兴趣所在。做运营，能力过关，都会有更好发展看到招聘网站上五花八门的运营岗，入门运营的同学经常会被...
- ## [拼多多版朋友圈：拼小圈，在社交关系链中是什么样的？](http://www.woshipm.com/it/3782193.html)
- > 拼小圈是一个拼单分享社交的功能。拼小圈的上线，颠覆了电商传统的“陌生人评价体系”行业标准，其根本目的就是为了更好地维护消费者权益。根据3月11日，新电商平台拼多...
- ## [从电视购物到直播电商，中国屏幕经济的发展之路](http://www.woshipm.com/it/3782182.html)
- > 在这小小的屏幕背后，我们是从电视购物走到了到直播电商，每一次的变化都是技术的革新和社会的发展，而我们这一路却走过了近30个年头。2020年，可以说是网红直播带货...
- ## [以「在行」闭门会为例，怎么用「用户标签系统」做精细化运营？](http://www.woshipm.com/operate/3772875.html)
- > 笔者作为「在行」增长负责人，将以「在行」针对高价值用户的「私域流量与增长主题闭门会」为例，分享用户标签系统的建设维度，以及如何利用标签系统实现精细化运营。1...
- ## [从罗永浩身上，我们能学到的营销策略](http://www.woshipm.com/marketing/3782281.html)
- > 当大家对罗老师直播关注的热度过去之后，我突然想聊聊从他身上，我们能学到的营销策略。像每一个不平凡的人一样，罗永浩一直在和自己作战，然后被世界孤立，又坚持用...
- ## [产品卖点如何进行文案包装？](http://www.woshipm.com/copy/3784340.html)
- > 在进行产品推广的时候，一个清晰明确、凸显创新性与差异性的卖点能为推广起到很好的帮助，让用户记住我们的产品。那么在日常的工作中，如何梳理出产品的卖点并进行包装...
+ ## [同期群分析：用户留存和用户行为的法宝](http://www.woshipm.com/operate/3784751.html)
+ > 通过同期群分析我们可以实时监控真实的用户行为趋势，否则，我们只看总体数据可能得到虚荣的美好数据，从而做出错误的决策，把本该发现的问题掩盖掉。这也是同期群分析...
+ ## [产品分析 | 知乎如何完善知识生态，提高付费内容打开率？](http://www.woshipm.com/evaluating/3783688.html)
+ > 以问答社区起家的知乎，经过近十年的发展，逐渐形成了知识分享的生态体系。面对大众化过程中高知流失、用户下沉的现象，该如何避免「劣币驱逐良币」？面对用户付费转换...
+ ## [一文带你了解电商促销体系](http://www.woshipm.com/pd/3787084.html)
+ > 目前，促销体系已经成为了产品发展的重要助推器，商家通过价格优势来获取用户，再运用拼团、分享等裂变方式来获取更多用户。那么，本文就大家来了解一下电商促销体系~...
+ ## [尴尬的「画音」，它并不是下一个微信！](http://www.woshipm.com/it/3784347.html)
+ > 「画音」主推视频短信，也就是对标文字和图片内容，按画音的介绍，这是一种可以见面的聊天方式。现在的「画音」在市场上的地位是比较尴尬的，它的下一步又会走向哪里呢...
+ ## [用参与回路分析：壹心理的积分、兑换功能](http://www.woshipm.com/pd/3784330.html)
+ > 一个人因为某个动机，做出了某项行为，于是获得了反馈，这个反馈加强/减少了用户的动机，使用户做出更多/更少的行为，获得更多/更少的反馈，这就是参与回路。什么是参...
+ ## [为什么产品经理应该去读Amazon1997-2019年的致股东信原文？](http://www.woshipm.com/chuangye/3782431.html)
+ > 本文简单介绍了Amazon模式、致股东信，讲述自己阅读致股东信的缘由，告知大家产品经理应该要去读致股东信。一、Amazon是一个怎样的东西？有些公司是透过社群红利窜起...
+ ## [资金周转的魔力，是老板从不告诉你的秘密](http://www.woshipm.com/chuangye/3782558.html)
+ > 本文从产品的设计周期、生产周期、运输和销售周期分析资金周转的秘诀。前文提到资金的效率，对企业的盈利至关重要。究竟有哪些因素影响资金的效率呢？就是从产品开...
+ ## [手把手教你做规范：布局规范（栅格）](http://www.woshipm.com/pd/3783952.html)
+ > 好多小伙伴对栅格都是迷迷糊糊的，知道栅格的概念却不知道怎么用、为什么用，每次提到都很头疼。其实栅格没那么难，栅格是是为了辅助设计、减少设计工作量、使设计更理...
+ ## [每日优鲜分析报告：快速发展的电商新贵](http://www.woshipm.com/evaluating/3782368.html)
+ > 生鲜电商行业中，每日优鲜算得上是行业的佼佼者了，那么从2014年创立至今，每日优鲜得以快速发展的原因究竟是什么？快速奔跑背后又有哪些不足之处呢？2020年注定是不...
+ ## [拆解分析 | 微粒贷借钱为什么能刷屏？](http://www.woshipm.com/marketing/3783536.html)
+ > 本文作者从公共传播的角度分析了微粒贷借钱为什么能刷屏？并总结了其背后的营销裂变路。enjoy~昨晚各位应该有被微信的微粒贷刷屏吧。包括村长昨日也发了朋友圈、微信...
+ ## [从网络文学的价值出发，聊聊免费小说的未来](http://www.woshipm.com/it/3782668.html)
+ > 网络文学的价值是建立在小说的内容基础上的，无论是付费小说还是免费小说，优质的内容和作者都是平台所需要的。只要读者、作者、平台和广告商多方的利益都没有受到损害...
 
     
