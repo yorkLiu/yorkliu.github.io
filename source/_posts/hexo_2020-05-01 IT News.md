@@ -1,20 +1,22 @@
 ---
 title: 2020-05-01 IT News
 copyright: true
-date: 2020-05-01 09:01:41
+date: 2020-05-01 10:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [独家：中国电信批政企主要还是IDC和专线 称各地要知道怎么卖云产品](http://mp.weixin.qq.com/s?src=11&timestamp=1588293002&ver=2311&signature=u117l3ASUEV4met2wc8nP8EzhNbNlg5V9hQhwmhK8-of8TM3iUKmxgHV5ndYLZ5ecLPk*58VMDQDUMPiyqn2O9CcFei4thrOVhXaG3ZYviHGleVzKwA-O6Lt7oQOKkLH&new=1)
- > 运营商财经网 吴碧慧/文 日前，据知情人士向运营商财经网独家透露，中国电信批政企事业部的主要业务是IDC和专线、，且各地政企事业部要知道怎么去卖云产品，只有这样才能带动专线销售，才能提供云上的信息服务，...
- ## [Stratasys推出构建尺寸较小的彩色3D打印机：J55](http://mp.weixin.qq.com/s?src=11&timestamp=1588293002&ver=2311&signature=91wEGc0fAYwsWWi-U*x35xY6DZXc68BfiZnsD4pCZRUXI0SLkIUm1XSXbFOHaMD3JzC0v51xTPRatpmBC-uW*-WovN9wWLguyga63Mf4Bg*ajwz*RHvEC50LJi11pDbd&new=1)
+ ## [Stratasys推出构建尺寸较小的彩色3D打印机：J55](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=91wEGc0fAYwsWWi-U*x35xY6DZXc68BfiZnsD4pCZRUXI0SLkIUm1XSXbFOHaMD3228KrVutoZiYv-b1xCMwE-vOMWUECOfrKK7*b04GZxR9wGWrgEDVVXCtf13b-76n&new=1)
  > Stratasys已推出其新的J55 3D打印机。针对专业设计师和工程师，PolyJet系统希望以工业级竞争对手价格的三分之一提供企业级原型机。据Stratasys称，J55是公司已建立的J8系列PolyJet机器的较小型但功能相同的同类...
- ## [AOC E2系列商用显示器力促企业实现开源节流，降本增效!](http://mp.weixin.qq.com/s?src=11&timestamp=1588293002&ver=2311&signature=kEDf0pgb5NpPFwH6S4nRFT2w6RYYXDeHA45uEXRmLsNK1kVR7N7U1HlBErBKLmYbJWmLwvSuDbrSiuxqby3ZGqjO494bLA1BlodrhoW0TOB06eyfN4AC6Z*XtRexG6hi&new=1)
- > 随着社会经济发展水平不断提高，企业级用户对商务办公的环境和办公设备也逐步有了更高要求。良好的办公设备不仅能为企业级用户创造持续、稳定、舒适的“输出环境”，更能有效提升办公效率，提高企业生产力。为赋...
- ## [艰难股市里，微软 Q3 再次腾「云」而起](http://mp.weixin.qq.com/s?src=11&timestamp=1588293002&ver=2311&signature=DEH1aZ4-4QTwOQyrEcs97Zn765RUcbktGYzO9PePT7mXO*PCQa08bFumZhwm9rwORcA1behoo-OGRzilzqO9Nx2ifXcidIHA28yZzez1xRnUufFbmEB00xqbakB21yVY&new=1)
+ ## [艰难股市里，微软 Q3 再次腾「云」而起](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=DEH1aZ4-4QTwOQyrEcs97Zn765RUcbktGYzO9PePT7mXO*PCQa08bFumZhwm9rwO2fH3uWNoqQ8imWO9jIY1G8Ejiffv4vy-86H0WnZvN5Ppuxx-Ep8myakHWzj7X94C&new=1)
  > 微软几年前种下的「云」，如今都长成了撑起营收的果实。本周，Google 母公司 Alphabet、微软、苹果等巨头将陆续发布上一周期的季度财报，它们的业绩在疫情肆虐和经济停滞的当下会发生怎样的变化，无一不牵动着资...
- ## [广西与华为签署深化战略合作框架协议](http://mp.weixin.qq.com/s?src=11&timestamp=1588293002&ver=2311&signature=ZKW1uee669MQ9LpM-oal8Qw0xJyigHcv3W1Qhtq3UDTiK0vA5NjzHoPB9OK9RE-jc0UqU497dV4vnAh5yRH4hKcIbrtpYt3DFVDnZigyGDbUT1raWU7D9Fh0yMU-0SBy&new=1)
+ ## [AOC E2系列商用显示器力促企业实现开源节流，降本增效!](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=kEDf0pgb5NpPFwH6S4nRFT2w6RYYXDeHA45uEXRmLsNK1kVR7N7U1HlBErBKLmYbTzMMVnG*KMCCFJf21324D67WKD2IWNq7uzl7IwkoTxcJ9yRXWnAQ1b4txlswYZph&new=1)
+ > 随着社会经济发展水平不断提高，企业级用户对商务办公的环境和办公设备也逐步有了更高要求。良好的办公设备不仅能为企业级用户创造持续、稳定、舒适的“输出环境”，更能有效提升办公效率，提高企业生产力。为赋...
+ ## [向大学城各高校 捐赠大数据防疫平台软件](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=MV20pK64G75PPa6cuXXa7GXIJ6Z*OMh4v3PcrWgqPdXEo4CnsvXKxMhtnaCqWHjXkMwbi3-CeGTtDaox9A73Es5z5BbEiM4s*unbP25UU*w=&new=1)
+ > 本报讯 4月29日，一场针对大学城各高校的定向捐赠仪式在贵州电子科技职业学院进行。捐赠仪式上，贵阳广播电视台“绿丝带”公益品牌联合中国电信贵安分公司等爱心企业，向各高校捐赠了大数据防疫平台软件及相...
+ ## [独家：中国电信批政企主要还是IDC和专线 称各地要知道怎么卖云产品](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=u117l3ASUEV4met2wc8nP8EzhNbNlg5V9hQhwmhK8-of8TM3iUKmxgHV5ndYLZ5eSHy3sFjKQ1g588lvDvn9Jih19dAf1h3xzdYiGceDCnO7E7LiPpav1E0JjCG8Ta0L&new=1)
+ > 运营商财经网 吴碧慧/文 日前，据知情人士向运营商财经网独家透露，中国电信批政企事业部的主要业务是IDC和专线、，且各地政企事业部要知道怎么去卖云产品，只有这样才能带动专线销售，才能提供云上的信息服务，...
+ ## [广西与华为签署深化战略合作框架协议](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=ZKW1uee669MQ9LpM-oal8Qw0xJyigHcv3W1Qhtq3UDTiK0vA5NjzHoPB9OK9RE-j9yv3agKF0mBtz1bmuJ674kGuIwZqhaLcQW*MRMoPj4JKTMJsEkFSv7UFELIbj6qE&new=1)
  > 4月30日，广西自治区人民政府与华为技术有限公司在南宁召开深化战略合作框架协议签约暨鲲鹏产业生态推进大会，自治区党委副书记、自治区主席陈武，华为轮值董事长徐直军出席会议并见证签约。根据协议双方将在“...
 # IT 技术 
  ## [安全加固物联网设备的十条“军规”与武器](http://iot.51cto.com/art/202004/615684.htm)
@@ -47,8 +49,6 @@ categories: IT NEWS
  > 2020年面向前端开发人员的10个很棒的 JS 库
  ## [2020年GitHub 上那些优秀Android开源库，这里是Top10！](https://blog.csdn.net/zwluoyuxi/article/details/105782922)
  > 
- ## [美国标准的网络安全体系架构](https://blog.csdn.net/Ture010Love/article/details/104272711)
- > 
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
@@ -57,44 +57,48 @@ categories: IT NEWS
  > 
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
- ## [面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？](https://blog.csdn.net/Design407/article/details/105738386)
- > 面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？
  ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
  > 
+ ## [面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？](https://blog.csdn.net/Design407/article/details/105738386)
+ > 面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？
  ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
  > 为什么说程序员做外包没前途？
+ ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
+ > 如果你是老板，你会不会踢了这样的员工？
 # 人工智能 
- ## [MySQL数据库界面化工具 - Navicat的常用功能](https://blog.csdn.net/u012039040/article/details/105821598)
- > 
- ## [用SQL语言实现粉丝给LOL选手投票的数据库](https://blog.csdn.net/weixin_43730105/article/details/105817027)
- > 
- ## [我是谁？我在干嘛？回想被MySQL UTF8编码坑的惨痛教训总结](https://blog.csdn.net/Javajiaojiaozhe/article/details/105838958)
- > 我是谁？我在干嘛？回想被MySQL UTF8编码坑的惨痛教训总结
- ## [当面试官问你mysql优化时..](https://blog.csdn.net/weixin_44233929/article/details/105813826)
- > 当面试官问你mysql优化时..
- ## [C可视化三：DBHelper类和静态方法](https://blog.csdn.net/spring_man/article/details/105825601)
- > C可视化三：DBHelper类和静态方法
- ## [sql语句练习](https://blog.csdn.net/weixin_44390208/article/details/105820311)
- > sql语句练习
- ## [Mysql数据库番外篇之 常见 指令 | 冷备 | 增删改查 | 常见语句 | 字段  大全 大全](https://blog.csdn.net/wrtwen/article/details/105830860)
- > 
- ## [《SQL高级应用和数据仓库基础（MySQL版）》作业v2 ·001【MySQL50题】](https://blog.csdn.net/qq_44220418/article/details/105782701)
- > 
- ## [MySQL面试系列：锁相关的知识点。看完这篇文章，可以吊打面试官（五）](https://blog.csdn.net/Oooo_mumuxi/article/details/105806483)
- > 
- ## [express-ejs模板语法（八）](https://blog.csdn.net/weixin_43638968/article/details/105831270)
- > express-ejs模板语法（八）
- ## [MySQL优化及底层数据结构](https://blog.csdn.net/qq_21751633/article/details/105827180)
- > MySQL优化及底层数据结构
- ## [MYSQL 数据库给表加约束条件 （史上最详细教程！）！!](https://blog.csdn.net/xue3236522091/article/details/105806308)
- > MYSQL 数据库给表加约束条件 （史上最详细教程！）！!
- ## [ADO.NET断开式连接](https://blog.csdn.net/qq_36789984/article/details/105831304)
- > ADO.NET断开式连接
- ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
- > 
- ## [【2019-2020春学期】数据库实验安排](https://blog.csdn.net/qq_38975453/article/details/105803286)
- > 【2019-2020春学期】数据库实验安排
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 # PM 
+ ## [互联网坟头蹦迪简史](http://www.woshipm.com/it/3792187.html)
+ > 回看死亡梗的流变，从坟头蹦迪、nmsl到全村吃饭、黑人抬棺，各有其时代性和群体性特征，从小众圈子走进大众视野，如小流汇江海，在奔流中或是高歌猛进，或有泥沙俱下。“...
  ## [产品经理周报第 109 期｜支付宝：免费向全国景区开放“分时预约”小程序；头条百科测试版上线](http://www.woshipm.com/it/3793577.html)
  > 早上好呀，又到每周周五的时候啦今天是五一假期的第一天，没想到吧，咱们小报还是按时更新了~大家今天有没有在外面玩呢？还是说是在家里趟呢？不过出去游玩的小伙伴...
  ## [听，耳朵里有新世界！|2020年中国音频产业生态发展分析](http://www.chanpin100.com/article/111508)
