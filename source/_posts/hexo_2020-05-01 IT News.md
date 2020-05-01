@@ -1,22 +1,24 @@
 ---
 title: 2020-05-01 IT News
 copyright: true
-date: 2020-05-01 10:00:57
+date: 2020-05-01 12:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Stratasys推出构建尺寸较小的彩色3D打印机：J55](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=91wEGc0fAYwsWWi-U*x35xY6DZXc68BfiZnsD4pCZRUXI0SLkIUm1XSXbFOHaMD3228KrVutoZiYv-b1xCMwE-vOMWUECOfrKK7*b04GZxR9wGWrgEDVVXCtf13b-76n&new=1)
- > Stratasys已推出其新的J55 3D打印机。针对专业设计师和工程师，PolyJet系统希望以工业级竞争对手价格的三分之一提供企业级原型机。据Stratasys称，J55是公司已建立的J8系列PolyJet机器的较小型但功能相同的同类...
- ## [艰难股市里，微软 Q3 再次腾「云」而起](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=DEH1aZ4-4QTwOQyrEcs97Zn765RUcbktGYzO9PePT7mXO*PCQa08bFumZhwm9rwO2fH3uWNoqQ8imWO9jIY1G8Ejiffv4vy-86H0WnZvN5Ppuxx-Ep8myakHWzj7X94C&new=1)
- > 微软几年前种下的「云」，如今都长成了撑起营收的果实。本周，Google 母公司 Alphabet、微软、苹果等巨头将陆续发布上一周期的季度财报，它们的业绩在疫情肆虐和经济停滞的当下会发生怎样的变化，无一不牵动着资...
- ## [AOC E2系列商用显示器力促企业实现开源节流，降本增效!](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=kEDf0pgb5NpPFwH6S4nRFT2w6RYYXDeHA45uEXRmLsNK1kVR7N7U1HlBErBKLmYbTzMMVnG*KMCCFJf21324D67WKD2IWNq7uzl7IwkoTxcJ9yRXWnAQ1b4txlswYZph&new=1)
- > 随着社会经济发展水平不断提高，企业级用户对商务办公的环境和办公设备也逐步有了更高要求。良好的办公设备不仅能为企业级用户创造持续、稳定、舒适的“输出环境”，更能有效提升办公效率，提高企业生产力。为赋...
- ## [向大学城各高校 捐赠大数据防疫平台软件](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=MV20pK64G75PPa6cuXXa7GXIJ6Z*OMh4v3PcrWgqPdXEo4CnsvXKxMhtnaCqWHjXkMwbi3-CeGTtDaox9A73Es5z5BbEiM4s*unbP25UU*w=&new=1)
+ ## [向大学城各高校 捐赠大数据防疫平台软件](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=MV20pK64G75PPa6cuXXa7GXIJ6Z*OMh4v3PcrWgqPdWd9BN8fs05bJ3H2L8kTKPB5fDmS5rmu1t0oKGhoFv2b4IqCiDu17Mcomm0OnrljOw=&new=1)
  > 本报讯 4月29日，一场针对大学城各高校的定向捐赠仪式在贵州电子科技职业学院进行。捐赠仪式上，贵阳广播电视台“绿丝带”公益品牌联合中国电信贵安分公司等爱心企业，向各高校捐赠了大数据防疫平台软件及相...
- ## [独家：中国电信批政企主要还是IDC和专线 称各地要知道怎么卖云产品](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=u117l3ASUEV4met2wc8nP8EzhNbNlg5V9hQhwmhK8-of8TM3iUKmxgHV5ndYLZ5eSHy3sFjKQ1g588lvDvn9Jih19dAf1h3xzdYiGceDCnO7E7LiPpav1E0JjCG8Ta0L&new=1)
+ ## [微博回应用户被“劫持”；途牛否认破产清算；微软宣布开源 MsQuic|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=gqYqiJF4ALklZXE*WzGMxl9**fFkS0tLM7O9IT-922w3yBvdbTlIjOHgY9YYwC2YiM5CseEoQu3h709z407c2S0n2tt9PiOAQ1ThIyEWibR3cc1-roui4IR2whZYjGNS&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [AOC E2系列商用显示器力促企业实现开源节流，降本增效!](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=kEDf0pgb5NpPFwH6S4nRFT2w6RYYXDeHA45uEXRmLsNVmTyvZe2YCXq0Ez6UHYhFQQzNmLnOve3HPL6TehmOX2glzFfJEoF-bf5tfxK-ZlSx4gE8-rriPnI0BrwE8lDO&new=1)
+ > 随着社会经济发展水平不断提高，企业级用户对商务办公的环境和办公设备也逐步有了更高要求。良好的办公设备不仅能为企业级用户创造持续、稳定、舒适的“输出环境”，更能有效提升办公效率，提高企业生产力。为赋...
+ ## [Stratasys推出构建尺寸较小的彩色3D打印机：J55](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=91wEGc0fAYwsWWi-U*x35xY6DZXc68BfiZnsD4pCZRXlw2meTfSjX8OPdh-OfTsPm7DuQXBMDI-FrLYD4DJ9ZE19*2pW9ZggtUeYQXzdPJDTr8*wg3D-d0*Ah4-Lbgdz&new=1)
+ > Stratasys已推出其新的J55 3D打印机。针对专业设计师和工程师，PolyJet系统希望以工业级竞争对手价格的三分之一提供企业级原型机。据Stratasys称，J55是公司已建立的J8系列PolyJet机器的较小型但功能相同的同类...
+ ## [艰难股市里，微软 Q3 再次腾「云」而起](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=DEH1aZ4-4QTwOQyrEcs97Zn765RUcbktGYzO9PePT7ki75aFJpov7hr8oMlGn6K*-XEWRM0STW108MJeqkQM1S67p4HLsU-BBp9LN0LfBUF59K6a8-VnTDN0gMX9W91-&new=1)
+ > 微软几年前种下的「云」，如今都长成了撑起营收的果实。本周，Google 母公司 Alphabet、微软、苹果等巨头将陆续发布上一周期的季度财报，它们的业绩在疫情肆虐和经济停滞的当下会发生怎样的变化，无一不牵动着资...
+ ## [独家：中国电信批政企主要还是IDC和专线 称各地要知道怎么卖云产品](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=u117l3ASUEV4met2wc8nP8EzhNbNlg5V9hQhwmhK8-qZmWLBBcMKWb66jofsPKGn5WHFKhRtgChY9ag3KahkHScShC8Au6CKYiPucUM6F11Mo0IV76whHRcVlDJD*4S*&new=1)
  > 运营商财经网 吴碧慧/文 日前，据知情人士向运营商财经网独家透露，中国电信批政企事业部的主要业务是IDC和专线、，且各地政企事业部要知道怎么去卖云产品，只有这样才能带动专线销售，才能提供云上的信息服务，...
- ## [广西与华为签署深化战略合作框架协议](http://mp.weixin.qq.com/s?src=11&timestamp=1588298402&ver=2311&signature=ZKW1uee669MQ9LpM-oal8Qw0xJyigHcv3W1Qhtq3UDTiK0vA5NjzHoPB9OK9RE-j9yv3agKF0mBtz1bmuJ674kGuIwZqhaLcQW*MRMoPj4JKTMJsEkFSv7UFELIbj6qE&new=1)
+ ## [广西与华为签署深化战略合作框架协议](http://mp.weixin.qq.com/s?src=11&timestamp=1588305602&ver=2311&signature=ZKW1uee669MQ9LpM-oal8Qw0xJyigHcv3W1Qhtq3UDS6IE7Z3ExHC*veulKQo5mm6njkecVkIt71iqgpKujJvLuVroXxC4SLUnwUiPTEyZYTw79x6l5UIVkK0wunXJ9n&new=1)
  > 4月30日，广西自治区人民政府与华为技术有限公司在南宁召开深化战略合作框架协议签约暨鲲鹏产业生态推进大会，自治区党委副书记、自治区主席陈武，华为轮值董事长徐直军出席会议并见证签约。根据协议双方将在“...
 # IT 技术 
  ## [安全加固物联网设备的十条“军规”与武器](http://iot.51cto.com/art/202004/615684.htm)
@@ -35,68 +37,70 @@ categories: IT NEWS
  > 如何将WSL（Windows Subsystem for Linux 2）安装到Windows 10？
  ## [深度｜大数据算法应用的测试发展之路](http://bigdata.51cto.com/art/202004/615674.htm)
  > 深度｜大数据算法应用的测试发展之路
- ## [中年程序员的经验谈：21个惨痛教训](https://blog.csdn.net/duxinshuxiaobian/article/details/105792573)
- > 中年程序员的经验谈：21个惨痛教训
- ## [这么用 if-else，我差点被辞退！](https://blog.csdn.net/qq_36903042/article/details/105821485)
- > 这么用 if-else，我差点被辞退！
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ ## [Python玩转各种多媒体，视频、音频到图片](https://blog.csdn.net/ZackSock/article/details/105371827)
  > 
- ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
+ ## [一个HashMap跟面试官扯了半个小时](https://blog.csdn.net/zhengwangzw/article/details/104889549)
  > 
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [2020年面向前端开发人员的10个很棒的 JS 库](https://blog.csdn.net/qq449245884/article/details/105648689)
- > 2020年面向前端开发人员的10个很棒的 JS 库
- ## [2020年GitHub 上那些优秀Android开源库，这里是Top10！](https://blog.csdn.net/zwluoyuxi/article/details/105782922)
+ ## [Sweet Snippet 之 方差计算](https://blog.csdn.net/tkokof1/article/details/104344680)
+ > Sweet Snippet 之 方差计算
+ ## [人体口罩佩戴检测实战](https://blog.csdn.net/Mind_programmonkey/article/details/104343014)
+ > 人体口罩佩戴检测实战
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [没用过这些 IDEA 插件？怪不得写代码头疼](https://blog.csdn.net/weixin_43570367/article/details/103978005)
  > 
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
+ ## [Qlik Sense Desktop 下载和安装](https://blog.csdn.net/moshowgame/article/details/104315999)
+ > Qlik Sense Desktop 下载和安装
+ ## [【人人都是极客】精选文章汇总](https://blog.csdn.net/melody157398/article/details/104284802)
+ > 【人人都是极客】精选文章汇总
+ ## [写给小白，从零开始拥有一个酷炫上线的网站！](https://blog.csdn.net/kexuanxiu1163/article/details/105648532)
+ > 写给小白，从零开始拥有一个酷炫上线的网站！
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
- ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
- > 大三实习生，字节跳动面经分享，已拿Offer
- ## [【华为云技术分享】【我的物联网成长记20】物联网智慧路灯应用代码解析（下）](https://blog.csdn.net/devcloud/article/details/105810377)
+ ## [程序员的五层境界，你在哪一层？最后一层的，都是人生赢家](https://blog.csdn.net/harvic880925/article/details/105698638)
  > 
- ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
- > 终于，月薪过5万了！
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ ## [二十道面试题每个题你能讲个十分钟恭喜你在上海至少16k（Java中级开发）](https://blog.csdn.net/java_wxid/article/details/105087259)
+ > 二十道面试题每个题你能讲个十分钟恭喜你在上海至少16k（Java中级开发）
+ ## [Java集合容器面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104588551)
+ > Java集合容器面试题（2020最新版）
+ ## [爬虫实战利用BeautifulSoup爬取天气网存储postgresql](https://blog.csdn.net/youku1327/article/details/104330298)
  > 
- ## [面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？](https://blog.csdn.net/Design407/article/details/105738386)
- > 面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？
- ## [为什么说程序员做外包没前途？](https://blog.csdn.net/kebi007/article/details/104164570)
- > 为什么说程序员做外包没前途？
- ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
- > 如果你是老板，你会不会踢了这样的员工？
+ ## [去年秋招整理了这份后端开发的核心面试题（偏Java），献给正在校招的你](https://blog.csdn.net/m0_37907797/article/details/105106732)
+ > 
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [飞桨PaddlePaddle-Python-AI入门总结](https://blog.csdn.net/XiaoFengsen/article/details/105850469)
+ > 飞桨PaddlePaddle-Python-AI入门总结
+ ## [读研2年，我选择从中科院退学转行写代码](https://blog.csdn.net/leilei107/article/details/105843099)
+ > 
+ ## [数字图像处理（一）--- 不可不知的基础讲义](https://blog.csdn.net/weixin_42572656/article/details/104618967)
+ > 
+ ## [计算机组成原理笔记总结](https://blog.csdn.net/weixin_46654114/article/details/105812651)
+ > 
+ ## [如何计算哈希表查找失败时的平均查找长度](https://blog.csdn.net/weixin_43232564/article/details/105866522)
+ > 如何计算哈希表查找失败时的平均查找长度
+ ## [说起刘慈欣，不要只知道《三体》和《流浪地球》](https://blog.csdn.net/bjweimengshu/article/details/105760128)
+ > 说起刘慈欣，不要只知道《三体》和《流浪地球》
+ ## [蚂蚁金服Java研发暑期实习的经验总结（已收到Offer）](https://blog.csdn.net/BlackButton_CC/article/details/105733104)
+ > 蚂蚁金服Java研发暑期实习的经验总结（已收到Offer）
+ ## [R语言的一些基本函数用法](https://blog.csdn.net/weixin_43447444/article/details/105852502)
+ > R语言的一些基本函数用法
+ ## [【05】数组](https://blog.csdn.net/The_Handsome_Sir/article/details/105854730)
+ > 【05】数组
+ ## [OpenCV还是OpenMV？教你如何做出最适合自己的选择](https://blog.csdn.net/qq_35889354/article/details/105849355)
+ > OpenCV还是OpenMV？教你如何做出最适合自己的选择
+ ## [计算机视觉面试考点（14）K均值聚类算法（K-Means）](https://blog.csdn.net/weixin_39417323/article/details/105867231)
+ > 计算机视觉面试考点（14）K均值聚类算法（K-Means）
+ ## [javascript中 逻辑与或非和按位与或非的区别](https://blog.csdn.net/weixin_45220493/article/details/105856893)
+ > javascript中 逻辑与或非和按位与或非的区别
+ ## [面向小白的深度学习论文术语（持续更新）](https://blog.csdn.net/weixin_38673554/article/details/105754044)
+ > 
+ ## [Python设计双序列全局比对的程序——生物信息](https://blog.csdn.net/laixiangwei/article/details/105831376)
+ > 
+ ## [软件测试工程师简历项目经验怎么写?--1000个已成功入职的软件测试工程师简历范文模板（含真实简历）](https://blog.csdn.net/pengjiangchun/article/details/105868404)
+ > 软件测试工程师简历项目经验怎么写?--1000个已成功入职的软件测试工程师简历范文模板（含真实简历）
 # PM 
+ ## [机票订单暴涨，旅游业“五一”迎来春天？](http://www.woshipm.com/it/3794006.html)
+ > 随着疫情好转，国内消费环境正逐渐回暖，但重建消费者的信心是诸多因素共同影响的结果，旅游行业复苏仍然是一场”持久战。2020，“重新定义”了寒假和春节，当然也...
  ## [互联网坟头蹦迪简史](http://www.woshipm.com/it/3792187.html)
  > 回看死亡梗的流变，从坟头蹦迪、nmsl到全村吃饭、黑人抬棺，各有其时代性和群体性特征，从小众圈子走进大众视野，如小流汇江海，在奔流中或是高歌猛进，或有泥沙俱下。“...
  ## [产品经理周报第 109 期｜支付宝：免费向全国景区开放“分时预约”小程序；头条百科测试版上线](http://www.woshipm.com/it/3793577.html)
@@ -125,21 +129,5 @@ categories: IT NEWS
  > 免费ppt模板在线下载？盘点那些超好用的免费在线工具！
  ## [如何招聘一个优秀的产品经理？Google产品主管KenNorton的六条心得](http://www.chanpin100.com/article/111496)
  > 如何找招聘一个优秀的产品经理？Google产品主管Ken Norton的提出了自己从业以来的六条心得。
- ## [全面战疫，国民数字化再提速|2020年Q1​数字用户行为分析](http://www.chanpin100.com/article/111493)
- > 简介：一季度，疫情催化下，国民数字化程度全面加速。2月，移动办公、移动教育领域率先爆发，满足学生停课不停学以及国民远程办公诉求。进入3月后，随着疫情逐步消散，国民生活工作逐步恢复，前期被压抑的购物需求逐步复苏，移动购物快速盘活实体经济，生活服务领域受益于复工复产多点开花。本文通过对国民线上数字生活行
- ## [【UI/UX案例分析】设计提升转化，看高手如何重设计网页](http://www.chanpin100.com/article/111491)
- > 产品页面重设计的全过程分享。
- ## [【全民KOL】知识付费，我们都聊了什么？](http://www.chanpin100.com/article/111490)
- > 一群人儿，一个话题儿
- ## [AXURE9原型教程：做跑马灯广告、弹幕](http://www.chanpin100.com/article/111489)
- > 怎么简单制作跑马灯和弹幕交互效果
- ## [如何做倒计时和数字累加效果](http://www.chanpin100.com/article/111488)
- > 如何做倒计时和数字累加效果
- ## [浅谈互金风控系统设计](http://www.chanpin100.com/article/111487)
- > 一篇关于风控系统设计大致框架的文章。
- ## [如何招聘一个产品经理--Google产品主管KenNorton心得](http://www.chanpin100.com/article/111486)
- > 如何找招聘一个优秀的产品经理？Google产品主管Ken Norton的提出了自己从业以来的六条心得。
- ## [交互设计：如何做到善意？](http://www.chanpin100.com/article/111484)
- > 做到善意的一个原则，和三类表现
 
     
