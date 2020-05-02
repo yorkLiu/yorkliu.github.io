@@ -1,19 +1,21 @@
 ---
 title: 2020-05-02 IT News
 copyright: true
-date: 2020-05-02 09:00:57
+date: 2020-05-02 10:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电信：“政企主要还是在卖IDC和专线，各地要知道怎么销售云产品”](http://mp.weixin.qq.com/s?src=11&timestamp=1588379403&ver=2313&signature=r7-PG8rW9OGDCL1dSJB-SXrrOPe05f9V6-NfKYiTDu3lGYKsKQtO60JvkUPWPRyF1bfzBr6tHVvsrClCdrVMkLU5RqyfCSvoA-O7hCq2-RLeCQQuyS02UWvHlM8VYLYo&new=1)
- > 来源 运营商财经网日前，据知情人士透露，中国电信批政企事业部的主要业务是IDC和专线，且各地政企部要知道怎么去卖云产品，只有这样才能带动专线销售，才能提供云上的信息服务，才能发挥政企业务的集成优势，为...
- ## [刚刚，中国移动迎重磅利好，工信部宣布..](http://mp.weixin.qq.com/s?src=11&timestamp=1588379403&ver=2313&signature=cJRMgsnP0YXEEgom1zueYE1PIIEiZxDLJskv1pzz8AJlUfJcnBlqnKGztiXJxi*0b1WvcWn1QdKSJD-4e7MCxN3UfjyG3mJ8knvosSvOgRdak0MbTuc57XF00Yp0nDeN&new=1)
- > 日前，工信部公布了《电信网码号资源使用证书》颁发结果公示（2020年第5批）。根据公示，中国移动通信集团有限公司获得了1441(0-9) 的码号资源，批准用途为物联网网号，使用范围为全国。据悉，工信部于2017年向...
- ## [未知资本：挖掘下一个3D打印独角兽](http://mp.weixin.qq.com/s?src=11&timestamp=1588379403&ver=2313&signature=C8kOlK16Z4lMXT8OIgw4c6xtnptsrCMheVVeYOT*EsIwPauarJ0ivWDTiuSDff9ua3Se1-wjv-r-UEm9bzRFbhRuUiXyEFgpScY1DjeJTYrrktAyAKF-g83WE9d8Br9h&new=1)
- > 未知资本创建于2018年，专注数字制造生态企业的风险投资，涵盖早、中、后全周期，创始团队核心成员一半以上来自于数字制造企业，可以更早、更精准地判断数字技术的价值，同时可以给予产业资源的直接扶持，帮助数...
- ## [华为与HERE达成合作 能否成为Google Maps可靠替代服务?](http://mp.weixin.qq.com/s?src=11&timestamp=1588379403&ver=2313&signature=hlKdSxQs91BBMaExNJKvHRWa-8tdmLVNa-euwtZINIXXcsQ4X8cZkLtsBCj3esni--9KhHUrwuscLVWKY2SccRFIsSAtyxoXt3*1JALWQxV54Yk*nzIcOe1qjqyyCD3L&new=1)
+ ## [华为与HERE达成合作 能否成为Google Maps可靠替代服务?](http://mp.weixin.qq.com/s?src=11&timestamp=1588384803&ver=2313&signature=hlKdSxQs91BBMaExNJKvHRWa-8tdmLVNa-euwtZINIUe6KT7lgS5Q86qjErmazAwj5eXiKjxi7F2exHqXLAnDrhxD7uwpKuUn7qKXQcJbJXaMXFLD2*PyM-EHP0GLiJz&new=1)
  > 在无法使用谷歌移动服务（GMS）之后，华为一直在通过其App Gallery来扩展其终端设备上的应用程序产品。近日，HERE的“WeGo”导航地图已被添加到华为的AppGallery中，为无法访问谷歌Play Store的华为手机用户提供...
+ ## [联邦学习能打破数据孤岛吗](http://mp.weixin.qq.com/s?src=11&timestamp=1588384803&ver=2313&signature=9ubP70PTw7JeW3W*J7EHc5qczXz20JOPudcsc6ouQtSRDznsYI3mO*BJCOJBN3KvBOJjV2u97FJWwhJKY55jyAuAjl520fD*nxtoJjDxU98=&new=1)
+ > （图片来源：壹图网）【超级平台】陈永伟/文数据引发的烦恼美国当地时间4月25日，社交网络巨头脸书发布官方消息，证实在对剑桥分析公司(CambridgeAnalytica)滥用数据丑闻进行了漫长的调查后，联邦法院已正式批准...
+ ## [未知资本：挖掘下一个3D打印独角兽](http://mp.weixin.qq.com/s?src=11&timestamp=1588384803&ver=2313&signature=C8kOlK16Z4lMXT8OIgw4c6xtnptsrCMheVVeYOT*EsL80Xj2Vp*3GSaB1UsUL0pAcye9A0jPXz77VUQK31hrRAqCNvV4D-JpVWb8b7zAMSmrLOsL2WiwR1M1*i2R0Jox&new=1)
+ > 未知资本创建于2018年，专注数字制造生态企业的风险投资，涵盖早、中、后全周期，创始团队核心成员一半以上来自于数字制造企业，可以更早、更精准地判断数字技术的价值，同时可以给予产业资源的直接扶持，帮助数...
+ ## [中国电信：“政企主要还是在卖IDC和专线，各地要知道怎么销售云产品”](http://mp.weixin.qq.com/s?src=11&timestamp=1588384803&ver=2313&signature=r7-PG8rW9OGDCL1dSJB-SXrrOPe05f9V6-NfKYiTDu3xRvUSX5aOJPyiVdk-7db8Pda7nsoz4FxLdpRfgC-oxzErWiyO3dmco9cmuD*e8GQoxUB6pPV7EZFc9jxZFH4I&new=1)
+ > 来源 运营商财经网日前，据知情人士透露，中国电信批政企事业部的主要业务是IDC和专线，且各地政企部要知道怎么去卖云产品，只有这样才能带动专线销售，才能提供云上的信息服务，才能发挥政企业务的集成优势，为...
+ ## [刚刚，中国移动迎重磅利好，工信部宣布..](http://mp.weixin.qq.com/s?src=11&timestamp=1588384803&ver=2313&signature=cJRMgsnP0YXEEgom1zueYE1PIIEiZxDLJskv1pzz8AId3xrIg2vZ0MmAEDMvJkX7kezfs5h*4UBgtFy1nO-l5IfBWeGUNLJFBaTUqYLe6lgJz0lvoVPjUiS3CMwQke6S&new=1)
+ > 日前，工信部公布了《电信网码号资源使用证书》颁发结果公示（2020年第5批）。根据公示，中国移动通信集团有限公司获得了1441(0-9) 的码号资源，批准用途为物联网网号，使用范围为全国。据悉，工信部于2017年向...
 # IT 技术 
  ## [安全加固物联网设备的十条“军规”与武器](http://iot.51cto.com/art/202004/615684.htm)
  > 安全加固物联网设备的十条“军规”与武器
@@ -41,8 +43,8 @@ categories: IT NEWS
  > Spring框架|集成JdbcTemplate
  ## [第三代CAN技术即将到来](https://blog.csdn.net/ybhuangfugui/article/details/104205025)
  > 第三代CAN技术即将到来
- ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
- > 和黑客斗争的 6 天！
+ ## [女程序员，为什么比男程序员少？？？](https://blog.csdn.net/shenjian58/article/details/104744259)
+ > 女程序员，为什么比男程序员少？？？
  ## [你离黑客的距离，就差这20个神器了](https://blog.csdn.net/xuanyuan_fsx/article/details/105831401)
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
@@ -51,8 +53,8 @@ categories: IT NEWS
  > 
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [搜狗输入法也在挑战国人的智商！](https://blog.csdn.net/ityouknow/article/details/104744412)
- > 搜狗输入法也在挑战国人的智商！
+ ## [男生更看重女生的身材脸蛋，还是思想？](https://blog.csdn.net/shenjian58/article/details/105039655)
+ > 男生更看重女生的身材脸蛋，还是思想？
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
@@ -61,38 +63,38 @@ categories: IT NEWS
  > 
  ## [编程中，有哪些好的习惯一开始就值得坚持？](https://blog.csdn.net/qing_gee/article/details/105779681)
  > 
- ## [当年，非典SARS真的是我们战胜的吗？](https://blog.csdn.net/ityouknow/article/details/104624436)
- > 当年，非典SARS真的是我们战胜的吗？
+ ## [多机房多活，多机房平滑迁移架构方案全集（上+中+下）](https://blog.csdn.net/shenjian58/article/details/104191389)
+ > 多机房多活，多机房平滑迁移架构方案全集（上+中+下）
 # 人工智能 
- ## [读研2年，我选择从中科院退学转行写代码](https://blog.csdn.net/leilei107/article/details/105843099)
+ ## [基于jsp+JDBC完成用户的登录验证](https://blog.csdn.net/weixin_42878211/article/details/105846111)
+ > 基于jsp+JDBC完成用户的登录验证
+ ## [教你在五分钟构建一个App页面](https://blog.csdn.net/weixin_45143481/article/details/105834059)
  > 
- ## [编程中，有哪些好的习惯一开始就值得坚持？](https://blog.csdn.net/qing_gee/article/details/105779681)
+ ## [CSS的基本概念———每天一遍小知识](https://blog.csdn.net/weixin_46654114/article/details/105847873)
  > 
- ## [做了5年的Android，我转Java后台了！](https://blog.csdn.net/dashujujiagoushi/article/details/105868102)
- > 做了5年的Android，我转Java后台了！
- ## [程序员的梦想，打工是不可能打工的，这辈子不可能打工的！](https://blog.csdn.net/czh500/article/details/105735889)
- > 程序员的梦想，打工是不可能打工的，这辈子不可能打工的！
- ## [送别了我的师父，我觉得我的青春结束了](https://blog.csdn.net/qq_35190492/article/details/105756119)
+ ## [一步一步教您如何搭建ant+jenkins+jmeter自动化接口测试框架（持续集成篇）](https://blog.csdn.net/weixin_46457203/article/details/105860961)
+ > 一步一步教您如何搭建ant+jenkins+jmeter自动化接口测试框架（持续集成篇）
+ ## [前端项目中数据传递的几种“姿势”](https://blog.csdn.net/qq_43624878/article/details/105849826)
  > 
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ ## [ES6的Promise对象的的介绍及用法(解决回调地狱问题)](https://blog.csdn.net/Piconjo/article/details/105866545)
+ > ES6的Promise对象的的介绍及用法(解决回调地狱问题)
+ ## [2-100-Pycharm IDE的安装和使用](https://blog.csdn.net/Smile_Mr/article/details/105843021)
+ > 2-100-Pycharm IDE的安装和使用
+ ## [咦，Java拆分个字符串都这么讲究](https://blog.csdn.net/qing_gee/article/details/105853247)
  > 
- ## [程序员的五层境界，你在哪一层？最后一层的，都是人生赢家](https://blog.csdn.net/harvic880925/article/details/105698638)
+ ## [深入浅出bootstrap模态框modal.js](https://blog.csdn.net/qq_43277404/article/details/105838442)
  > 
- ## [选修课网上考试论述题不能复制粘贴的办法](https://blog.csdn.net/lan200012/article/details/105852468)
- > 选修课网上考试论述题不能复制粘贴的办法
- ## [谈谈工作和学习中，所谓的主动性](https://blog.csdn.net/caoz/article/details/105828365)
+ ## [JavaScript知识整理](https://blog.csdn.net/tuzi007a/article/details/105696794)
  > 
- ## [面试官的这些陷阱你都经历了吗？](https://blog.csdn.net/banzhuanhu/article/details/105842574)
+ ## [jsp之JDBC数据库开发课后习题](https://blog.csdn.net/weixin_42878211/article/details/105859497)
+ > jsp之JDBC数据库开发课后习题
+ ## [用html和css为女朋友做了个幸福摩天轮，她很开心，我很骄傲](https://blog.csdn.net/weixin_42881768/article/details/105799649)
  > 
- ## [工作之前，给自己](https://blog.csdn.net/qq_38870935/article/details/105867921)
- > 工作之前，给自己
- ## [自学编程的 6 个致命误区](https://blog.csdn.net/qing_gee/article/details/105685320)
+ ## [来自1000多个项目的十大JavaScript错误（以及如何避免）](https://blog.csdn.net/dashujujiagoushi/article/details/105848380)
+ > 来自1000多个项目的十大JavaScript错误（以及如何避免）
+ ## [【Vue】什么？2020年了，你连vue都没学，还不快来入门！](https://blog.csdn.net/qq_45495857/article/details/105849327)
  > 
- ## [程序员女盆友的学习日记（没内容）](https://blog.csdn.net/JasmineLinaa/article/details/105849744)
- > 程序员女盆友的学习日记（没内容）
- ## [随笔——【读书笔记】读书带给我的改变与思考](https://blog.csdn.net/u011106767/article/details/105809966)
- > 
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
+ ## [ASP.NET中AJAX的异步加载（Demo演示）](https://blog.csdn.net/a1439775520/article/details/105867099)
+ > ASP.NET中AJAX的异步加载（Demo演示）
 
     
