@@ -1,21 +1,21 @@
 ---
 title: 2020-05-03 IT News
 copyright: true
-date: 2020-05-03 09:01:39
+date: 2020-05-03 10:02:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [儿童保护功能全覆盖，学生直呼：受不了](http://mp.weixin.qq.com/s?src=11&timestamp=1588465826&ver=2315&signature=0luYMjPju9bTSV91PvrOTB1bzGgVnR7pWN6I-j*ZwSsUY1Njeo6QdSZ7h6xuc6evprQQ*3a5Pg1LP3--Cxp6Rp8psp*9zdNis-vnyMSikRN2rSWGXdXaylpfoQP-R557&new=1)
+ ## [儿童保护功能全覆盖，学生直呼：受不了](http://mp.weixin.qq.com/s?src=11&timestamp=1588471203&ver=2315&signature=0luYMjPju9bTSV91PvrOTB1bzGgVnR7pWN6I-j*ZwStZOR7hXWaS*FV4B2kek7bOUkanN0aTH*oVA*5wBB0dfn-UFmDobPUcA9hO2rLbUna-Gq7JxLMoEvB0pnDM5n47&new=1)
  > 由于疫情的影响，学生们在家休假期间普遍采用了网课的方式来学习。虽然父母和老师已经用了各种方式来督促孩子学习，但是“道高一尺，魔高一丈”，孩子在娱乐方面总是能够探索出新的花样来绕开老师和家长的监督。...
- ## [你以为把这玩意搞到手，我们就能成?](http://mp.weixin.qq.com/s?src=11&timestamp=1588465826&ver=2315&signature=JdZPsKb0w2KGvxkgA0WKSt-uiATJE2NTjedMU-vw7mgBVqqnd8YJVJSg5OZGVY5H3NeIydtFkW*1tu25drNYFG6ExCKCmdbR7J3l1MSPoVome9v89iORpWlx-dNPInfd&new=1)
- > 最近，有报道称荷兰政府考虑用光刻机换口罩、防护服。此报道一出，再次引发了国内网友的强烈关注。 可能大家不知道，生产芯片，最核心的设备就是光刻机。就像印钞机之于钞票，光刻机就是用来“打印”芯片的。而...
- ## [细数疫情下多国5G进展：中国5G进展让人振奋!](http://mp.weixin.qq.com/s?src=11&timestamp=1588465826&ver=2315&signature=RQ5OyFQ3h1nsjeU57f-NWu9CsrWgt05OlT96xQJMy*sHQTyDlcARi4yflJX-IgAsD3dhPGO87dZ-2lPYHVEle*Rtks1Zcv04rpSVxqBBoNGrRetAQHxWN3pk2fxBzjKd&new=1)
- > 2020年被称为5G规模商用之年，中、韩、日、美、英、德等各国，原本都计划加快5G网络部署。但是，一场突如其来的疫情，对全球5G部署到底带来巨大影响。频谱拍卖慢了，设备交付慢了，建设慢了。消费者还能不能在20...
- ## [VR市场疫情下回暖，沉寂已久的创业者抓紧“占坑”](http://mp.weixin.qq.com/s?src=11&timestamp=1588465826&ver=2315&signature=nFk9wYCkdLIfU6kn0z9LVhwEH3YP11INBhJgQzQoAKUZoTIrW-FkbsCCfdxFUhASqdwZC2ntjGymWPWy2A1rSxkZfOfvGmgZ8b*o88ucjBGW5OOhIavPHsXQCu6b1lXl&new=1)
- > 图片来源：图虫创意“二月初公司还没完全复工，就已经有订单‘砸’过来，是两家地产中介公司。”张海（化名）是深圳一家科技创企的联合创始人，公司主要从事的是VR、AR应用的开发。疫情之下的2020春季，对于很多...
- ## [诺基亚为何失利中国5G?](http://mp.weixin.qq.com/s?src=11&timestamp=1588465826&ver=2315&signature=yIDwd0MtWfhOs2s3CnGxjHs-8Q8*gt7KL3YKKc4s1DIrKxAWjMmWGmMMiSmSO-IayFltlVi3AZ9BiLn2ae6IgWcDa9hR1dRDjfw7u0TFBJdI5IBAZL9rG*JpDaQYjNoN&new=1)
+ ## [诺基亚为何失利中国5G?](http://mp.weixin.qq.com/s?src=11&timestamp=1588471203&ver=2315&signature=yIDwd0MtWfhOs2s3CnGxjHs-8Q8*gt7KL3YKKc4s1DIpUdVBZ0Y3VOi2m1O1OV7vOfwTB2R0TiiEf1qtvc0HnGcXkyInNQhZrGE-rart4*VWxSyDc7Qgqm5pRjeZNaW9&new=1)
  > 大家都知道三大运营商的2020年5G网络设备集采结果了。其中，诺基亚在5G无线接入网集采中颗粒无收，仅获得了少量5G核心网和承载网份额。这让人不禁要问，从2G到4G诺基亚在中国通信市场一直占有一席之地，这次为何...
+ ## [细数疫情下多国5G进展：中国5G进展让人振奋!](http://mp.weixin.qq.com/s?src=11&timestamp=1588471203&ver=2315&signature=RQ5OyFQ3h1nsjeU57f-NWu9CsrWgt05OlT96xQJMy*sXpFWje1f-0VRft*-fJnslS1TxLBTPWQ-47YOowbki6zc29W5rxpDuwby*6HYIIvt-CJbdS5Er*vGjAGfIdoWA&new=1)
+ > 2020年被称为5G规模商用之年，中、韩、日、美、英、德等各国，原本都计划加快5G网络部署。但是，一场突如其来的疫情，对全球5G部署到底带来巨大影响。频谱拍卖慢了，设备交付慢了，建设慢了。消费者还能不能在20...
+ ## [你以为把这玩意搞到手，我们就能成?](http://mp.weixin.qq.com/s?src=11&timestamp=1588471203&ver=2315&signature=JdZPsKb0w2KGvxkgA0WKSt-uiATJE2NTjedMU-vw7mjfiVsrmhBmYuY9dwOQ9TSoM2XvlFFxAVg*lTyjtIdLDO3C00SFms1Q16IKoZ1rdiNAKPJKZgCUFyW0GM-AEmdU&new=1)
+ > 最近，有报道称荷兰政府考虑用光刻机换口罩、防护服。此报道一出，再次引发了国内网友的强烈关注。 可能大家不知道，生产芯片，最核心的设备就是光刻机。就像印钞机之于钞票，光刻机就是用来“打印”芯片的。而...
+ ## [VR市场疫情下回暖，沉寂已久的创业者抓紧“占坑”](http://mp.weixin.qq.com/s?src=11&timestamp=1588471203&ver=2315&signature=nFk9wYCkdLIfU6kn0z9LVhwEH3YP11INBhJgQzQoAKVKbHpaRiuGQX0Ir3xz1TOnStEtde5PrdkWEY7r29NX57XLWuuEeGmYE*D4neYMxDjYbfg2bbvV0eX5jdwgKP-5&new=1)
+ > 图片来源：图虫创意“二月初公司还没完全复工，就已经有订单‘砸’过来，是两家地产中介公司。”张海（化名）是深圳一家科技创企的联合创始人，公司主要从事的是VR、AR应用的开发。疫情之下的2020春季，对于很多...
 # IT 技术 
  ## [安全加固物联网设备的十条“军规”与武器](http://iot.51cto.com/art/202004/615684.htm)
  > 安全加固物联网设备的十条“军规”与武器
@@ -33,36 +33,36 @@ categories: IT NEWS
  > 如何将WSL（Windows Subsystem for Linux 2）安装到Windows 10？
  ## [深度｜大数据算法应用的测试发展之路](http://bigdata.51cto.com/art/202004/615674.htm)
  > 深度｜大数据算法应用的测试发展之路
- ## [面试官：你可以用纯 CSS 判断鼠标进入的方向吗？](https://blog.csdn.net/weixin_37615279/article/details/105835394)
+ ## [面试：第十六章：Java中级开发（16k）](https://blog.csdn.net/java_wxid/article/details/105087259)
+ > 面试：第十六章：Java中级开发（16k）
+ ## [Java导出Execl疑难点处理](https://blog.csdn.net/niugang0920/article/details/104937859)
+ > Java导出Execl疑难点处理
+ ## [打造Worktile敏捷开发管理工具的思与惑](https://blog.csdn.net/weixin_44280696/article/details/105275906)
+ > 打造Worktile敏捷开发管理工具的思与惑
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [一个HashMap跟面试官扯了半个小时](https://blog.csdn.net/zhengwangzw/article/details/104889549)
  > 
- ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
+ ## [正则表达式引擎执行原理——从未如此清晰！](https://blog.csdn.net/u014044812/article/details/104250147)
  > 
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ ## [java代码实现FTP协议](https://blog.csdn.net/tyler_download/article/details/104578325)
+ > java代码实现FTP协议
+ ## [JVM虚拟机-Class文件简介](https://blog.csdn.net/m0_37609579/article/details/105369159)
+ > JVM虚拟机-Class文件简介
+ ## [K8S环境的Jenkin性能问题处理](https://blog.csdn.net/boling_cavalry/article/details/105005245)
  > 
- ## [男生更看重女生的身材脸蛋，还是思想？](https://blog.csdn.net/shenjian58/article/details/105039655)
- > 男生更看重女生的身材脸蛋，还是思想？
- ## [编程中，有哪些好的习惯一开始就值得坚持？](https://blog.csdn.net/qing_gee/article/details/105779681)
+ ## [史上最全的IDEA快捷键总结](https://blog.csdn.net/weixin_43570367/article/details/103963249)
  > 
- ## [B 站上有哪些很好的学习资源?](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104197117)
- > B 站上有哪些很好的学习资源?
- ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
- > 终于，月薪过5万了！
- ## [程序员毕业去大公司好还是小公司好？](https://blog.csdn.net/harvic880925/article/details/105021956)
- > 程序员毕业去大公司好还是小公司好？
- ## [女程序员，为什么比男程序员少？？？](https://blog.csdn.net/shenjian58/article/details/104744259)
- > 女程序员，为什么比男程序员少？？？
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
+ ## [Ubuntu中如何安装安装QQ](https://blog.csdn.net/qq_17623363/article/details/104185843)
+ > Ubuntu中如何安装安装QQ
+ ## [C++:58---标准库特殊设施之随机数random（随机数引擎类、随机数分布类）](https://blog.csdn.net/qq_41453285/article/details/104675186)
+ > C++:58---标准库特殊设施之随机数random（随机数引擎类、随机数分布类）
+ ## [超全Python图像处理讲解（多图预警）](https://blog.csdn.net/ZackSock/article/details/103794134)
  > 
- ## [你离黑客的距离，就差这20个神器了](https://blog.csdn.net/xuanyuan_fsx/article/details/105831401)
+ ## [HTML基础知识巩固你的基础](https://blog.csdn.net/qq_36232611/article/details/105109467)
  > 
- ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
- > 
- ## [【查找算法】顺序查找法](https://blog.csdn.net/qq_42453117/article/details/104409701)
- > 
- ## [怎么判断自己面试是不是凉了？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105838370)
- > 怎么判断自己面试是不是凉了？
+ ## [博客变动](https://blog.csdn.net/u010099080/article/details/105295627)
+ > 博客变动
 # 人工智能 
  ## [CSS的基本概念———每天一遍小知识](https://blog.csdn.net/weixin_46654114/article/details/105847873)
  > 
