@@ -1,21 +1,21 @@
 ---
 title: 2020-05-04 IT News
 copyright: true
-date: 2020-05-04 08:00:54
+date: 2020-05-04 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美国空军使用3D打印技术生产手术牵开器](http://mp.weixin.qq.com/s?src=11&timestamp=1588550403&ver=2317&signature=rGk9HL8bCtFwl4jGKktTnDklRG9MmkSVZ91tEGMjpNxV1utlhJePuQc5fhrmnhdCuWP6RWqbLdIQw*deFYSNgX16B3x-Px5M7owSvBVyJWokfmVBxhZ7qAmrxMh0c-Tj&new=1)
- > 美国空军（UAF）的研究小组已成功使用3D打印技术生产了手术牵开器。这个医疗设备是一台桌面3D打印机，被设计用于后勤挑战恶劣的环境，在那里不可能使用传统的方法来补充医疗用品。它已经作为概念验证被生产，目...
- ## [无惧美国限制，华为将取得又一项全球第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1588550403&ver=2317&signature=FXtp6Oeghqu36F8UZnec7JHxyvPybTqTKefJIsHBuyUuc-k2AvRMCo2cR74AMrUIF0NUs-4d*LUZ9nl4ZM9c661IQ9IPac5UN8Tj8HZx7qG4oV83lsaLk00AbK5dX51b&new=1)
- > 华为作为中国最具代表性的企业，总是能不断的给大家带来惊喜，夺下多个全球第一，如今它计划今年再创一项全球第一，那就是在研发投入方面，其创始人兼总裁任正非表示今年的研发投入将超过200亿美元。2019年全球...
- ## [\[C114周报\]联通发布全球首张MEC规模商用网络；诺基亚贝尔入选联通5GC集采；十二部门发布《网络安全审查办法》](http://mp.weixin.qq.com/s?src=11&timestamp=1588550403&ver=2317&signature=Ux-loe-3ROiwtbqulUcJxl86xZHx9AP*cCVnY4YTAxw2Q9Ou02qwAOrRS9PE9Q*wdSivskaBHhWG5*-D58HltxM6oDdeEkAj22v99otH5W*9sMJ6CZbsKanMS-4erK10&new=1)
- > 周报WEEKLY本周热点有联通发布全球首张MEC规模商用网络；诺基亚贝尔入选联通5GC集采；十二部门发布《网络安全审查办法》• 第090期 •联通发布全球首张MEC规模商用网络4月29日作为5G和MEC边缘云领域的先行者，中...
- ## [扫描五大电信设备商5G合同数，谁是市场第一?](http://mp.weixin.qq.com/s?src=11&timestamp=1588550403&ver=2317&signature=Di0wyQGXXB6KCOyM204HrPOE9CSodngVZp5gBj6wLteb450OHNim9PmrS-DTf18LB4*UY0V84QwWJwXL7TwoqwJqtpP3Cf06Srgn9puKfbAluH6FYrHq6TC-vpLRYTgh&new=1)
+ ## [扫描五大电信设备商5G合同数，谁是市场第一?](http://mp.weixin.qq.com/s?src=11&timestamp=1588552203&ver=2317&signature=Di0wyQGXXB6KCOyM204HrPOE9CSodngVZp5gBj6wLteb450OHNim9PmrS-DTf18Le9ChbiiCayYCTF5nuY26sK9zKwec5PD3qfO9vWkuvxEF0Rpo8uWTdvm-URc4Cr82&new=1)
  > 近日，诺基亚和爱立信相继公布了5G合同新数据。5G合同数并不意味着设备商技术实力、服务能力的强弱，因为有可能一个合同就是几千个5G基站的规模，也可能是十几万个5G基站的规模。 而且毕竟现在有老美在持续打击...
- ## [勒索病毒一直在我们身边!B站百万粉丝博主中招](http://mp.weixin.qq.com/s?src=11&timestamp=1588550403&ver=2317&signature=T3WMwIhWMo40nc51GqV6ron85ZX4Gvo0x49lK6jc7I51ny0fTHnZEKYHQuzVWEiSPDvAax098iBpuisnYgfDRiwCU0U4GRk-OeST6yUhvRH2DKsrJCq1senpVCb3vzrW&new=1)
+ ## [\[C114周报\]联通发布全球首张MEC规模商用网络；诺基亚贝尔入选联通5GC集采；十二部门发布《网络安全审查办法》](http://mp.weixin.qq.com/s?src=11&timestamp=1588552203&ver=2317&signature=Ux-loe-3ROiwtbqulUcJxl86xZHx9AP*cCVnY4YTAxw2Q9Ou02qwAOrRS9PE9Q*wIGRyGx4vHl*ah-8TxkbUlY1mox7v60R1m6rgazpY9-66W5LD8DVV0Z7cGAcn81Fv&new=1)
+ > 周报WEEKLY本周热点有联通发布全球首张MEC规模商用网络；诺基亚贝尔入选联通5GC集采；十二部门发布《网络安全审查办法》• 第090期 •联通发布全球首张MEC规模商用网络4月29日作为5G和MEC边缘云领域的先行者，中...
+ ## [勒索病毒一直在我们身边!B站百万粉丝博主中招](http://mp.weixin.qq.com/s?src=11&timestamp=1588552203&ver=2317&signature=T3WMwIhWMo40nc51GqV6ron85ZX4Gvo0x49lK6jc7I51ny0fTHnZEKYHQuzVWEiSBAz9pXr7b2Wt*qCRsHhhNQoozjYPUEdhp8DNhrHBIdlU3p3x*VejYmQ6Jlzmt4L7&new=1)
  > 最近，在B站拥有五百万粉丝的大UP主机智的党妹发布了一个视频，名为“我被勒索了！”，该视频收到广泛关注，到今天截稿时已经有和粉丝数差不多的播放量。因为事态严重，党妹更是动态连发跟进事件。小编看了一遍...
+ ## [无惧美国限制，华为将取得又一项全球第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1588552203&ver=2317&signature=FXtp6Oeghqu36F8UZnec7JHxyvPybTqTKefJIsHBuyUuc-k2AvRMCo2cR74AMrUIxewb1K8GGeLfYf5-J9qIpgxH3iyfjEnaevN7YOfs20Cu*Wgl*6y-qb2kToCi7fw5&new=1)
+ > 华为作为中国最具代表性的企业，总是能不断的给大家带来惊喜，夺下多个全球第一，如今它计划今年再创一项全球第一，那就是在研发投入方面，其创始人兼总裁任正非表示今年的研发投入将超过200亿美元。2019年全球...
+ ## [美国空军使用3D打印技术生产手术牵开器](http://mp.weixin.qq.com/s?src=11&timestamp=1588552203&ver=2317&signature=rGk9HL8bCtFwl4jGKktTnDklRG9MmkSVZ91tEGMjpNxV1utlhJePuQc5fhrmnhdC-gBPiP05M5iHnopzbqrR-7zjXT1*Kbb*prDkR5f-pSUcko8ziWO9gt95IKH-zbWb&new=1)
+ > 美国空军（UAF）的研究小组已成功使用3D打印技术生产了手术牵开器。这个医疗设备是一台桌面3D打印机，被设计用于后勤挑战恶劣的环境，在那里不可能使用传统的方法来补充医疗用品。它已经作为概念验证被生产，目...
 # IT 技术 
  ## [安全加固物联网设备的十条“军规”与武器](http://iot.51cto.com/art/202004/615684.htm)
  > 安全加固物联网设备的十条“军规”与武器
@@ -49,7 +49,7 @@ categories: IT NEWS
  > 
  ## [Linux安装和常用命令使用](https://blog.csdn.net/HarderXin/article/details/105817893)
  > Linux安装和常用命令使用
- ## [震撼！全网第一张源码分析全景图揭秘Nginx](https://blog.csdn.net/xuanyuan_fsx/article/details/105551161)
+ ## [毕业5年，我问遍了身边的大佬，总结了他们的学习方法](https://blog.csdn.net/qq_35190492/article/details/103847147)
  > 
  ## [在北京，我遇上每天必须挣1000元的出租车司机！](https://blog.csdn.net/ityouknow/article/details/105872657)
  > 在北京，我遇上每天必须挣1000元的出租车司机！
@@ -59,40 +59,40 @@ categories: IT NEWS
  > 一文搞懂 RSA 算法
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
- ## [哈希表哪家强？几大编程语言吵起来了！](https://blog.csdn.net/xuanyuan_fsx/article/details/105761718)
- > 
  ## [一文带你入门Java Stream流，太强了](https://blog.csdn.net/qing_gee/article/details/105238960)
  > 
+ ## [程序员的五一是怎么过的？除了狗粮还是狗粮？](https://blog.csdn.net/qq_35190492/article/details/105895950)
+ > 
 # 人工智能 
- ## [GitHub下载速度太慢的解决方法 保姆级教学](https://blog.csdn.net/qq_43422111/article/details/105889245)
- > GitHub下载速度太慢的解决方法 保姆级教学
- ## [Spark深入解析（十二）：RDD中的函数传递](https://blog.csdn.net/wzc8961661/article/details/105877546)
- > Spark深入解析（十二）：RDD中的函数传递
- ## [如何评估机器学习模型？](https://blog.csdn.net/weixin_43124279/article/details/105895359)
+ ## [CSS之处理文字（working with Text）———每天一遍小知识](https://blog.csdn.net/weixin_46654114/article/details/105849320)
  > 
- ## [Hive 架构理念篇](https://blog.csdn.net/weixin_46163590/article/details/105890398)
+ ## [Java实现 LeetCode 789 逃脱阻碍者（曼哈顿距离）](https://blog.csdn.net/a1439775520/article/details/105890665)
+ > Java实现 LeetCode 789 逃脱阻碍者（曼哈顿距离）
+ ## [Babel7.x完美解决严格模式报错：'caller', 'callee', and 'arguments' properties may not be accessed on strict mode](https://blog.csdn.net/Piconjo/article/details/105880635)
+ > Babel7.x完美解决严格模式报错：&x27;caller&x27;, &x27;callee&x27;, and &x27;arguments&x27; properties may not be accessed on strict mode
+ ## [面试官：你可以用纯 CSS 判断鼠标进入的方向吗？](https://blog.csdn.net/weixin_37615279/article/details/105835394)
  > 
- ## [Kotlin 入门到精通（一）](https://blog.csdn.net/u013491829/article/details/105881230)
- > Kotlin 入门到精通（一）
- ## [这10个常用的Kettle操作，你不会不行!](https://blog.csdn.net/weixin_44318830/article/details/105877354)
+ ## [详解微信小程序目录结构，浅析微信小程序技术架构](https://blog.csdn.net/RuiHe_pan/article/details/105881050)
+ > 详解微信小程序目录结构，浅析微信小程序技术架构
+ ## [了解前后端分离 ，学习Swagger的使用， 在SpringBoot中集成Swagger](https://blog.csdn.net/ting0712/article/details/105882558)
+ > 了解前后端分离 ，学习Swagger的使用， 在SpringBoot中集成Swagger
+ ## [解决React在安装antd之后出现的Can't resolve './locale'问题,两种方案](https://blog.csdn.net/trenki/article/details/105893179)
+ > 解决React在安装antd之后出现的Can&x27;t resolve &x27;./locale&x27;问题,两种方案
+ ## [如何应对vue项目优化的需求，掌握这“神器”就够了](https://blog.csdn.net/qq1123642601/article/details/105856457)
  > 
- ## [Win10下TexLive和TexMaker的安装](https://blog.csdn.net/HOMEGREAT/article/details/105888574)
- > Win10下TexLive和TexMaker的安装
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ ## [前端新手需知的浏览器渲染机制](https://blog.csdn.net/qq_41136216/article/details/105866119)
  > 
- ## [看了这篇Docker指令详解，网友直呼：我收藏了你呢？](https://blog.csdn.net/Tiooo111/article/details/105881568)
+ ## [jsp之JDBC数据库开发课后习题](https://blog.csdn.net/weixin_42878211/article/details/105859497)
+ > jsp之JDBC数据库开发课后习题
+ ## [AJAX入门？有这一篇就够了！](https://blog.csdn.net/weixin_39342847/article/details/105885890)
  > 
- ## [××教育Excel数据分析面试题](https://blog.csdn.net/weixin_41261833/article/details/105887130)
- > ××教育Excel数据分析面试题
- ## [鲲鹏920架构arm64版本centos7安装docker](https://blog.csdn.net/frdevolcqzyxynjds/article/details/105870849)
- > 
- ## [解决VMware安装Ubuntu不可以开机直接登录root用户的问题](https://blog.csdn.net/qq_43612538/article/details/105893530)
- > 解决VMware安装Ubuntu不可以开机直接登录root用户的问题
- ## [考研复试_英语面试_必备的30个问题](https://blog.csdn.net/zsheng_/article/details/105874082)
- > 考研复试_英语面试_必备的30个问题
- ## [Spark深入解析（十三）： RDD依赖关系、DAG生成、划分Stage](https://blog.csdn.net/wzc8961661/article/details/105891024)
- > 
- ## [大数据 默认各框架端口号（已给大佬么整理好，必知）](https://blog.csdn.net/weixin_46163590/article/details/105891219)
- > 大数据 默认各框架端口号（已给大佬么整理好，必知）
+ ## [Promise 学习笔记](https://blog.csdn.net/weixin_46124214/article/details/105888548)
+ > Promise 学习笔记
+ ## [易懂js的浅克隆和深克隆原理](https://blog.csdn.net/weixin_43348064/article/details/105887920)
+ > 易懂js的浅克隆和深克隆原理
+ ## [微信小程序rich-text 导入京东商城数据样式丢失](https://blog.csdn.net/liang4297/article/details/105889678)
+ > 微信小程序rich-text 导入京东商城数据样式丢失
+ ## [ES6的Promise对象的的介绍及用法(解决回调地狱问题)](https://blog.csdn.net/Piconjo/article/details/105866545)
+ > ES6的Promise对象的的介绍及用法(解决回调地狱问题)
 
     
