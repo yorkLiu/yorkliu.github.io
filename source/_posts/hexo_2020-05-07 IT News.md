@@ -1,24 +1,32 @@
 ---
 title: 2020-05-07 IT News
 copyright: true
-date: 2020-05-07 09:01:09
+date: 2020-05-07 10:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [起底中国电信电渠"诈骗"中心](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=iKIiGhshhxkXxF01U4cayRJP8Xw9QZKVgEu2hdktVU8I5VZnXN4G16kpej8HKcqDrMPS63hmNAk0erka8iiv7M0vfWz7wt8h1LlPZZcrbnGXDCFrTjBV1xnSFn9Drfvg&new=1)
+ ## [芯片|三安集成拓展VCSEL代工版图 跻身头部企业核心供应链](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=nZiz0PbhEmGO51ft8QjLwCvTRHf6eXYL*9GuWP6Rl69tqjzkFMQuqqlwdCohD2WRB2rnG1QTaJLbHpGVVuu6XySwEGRvFDUN8CMwD8XhNG*isQKMZFUxa5V*3oVYrjjM&new=1)
+ > 新闻导读三安集成宣布在国内VCSEL代工市场方面取得重大突破，成功赢得关键客户的认可，并达成合作协议。公司已经顺利进入国内外近20家代工客户的供应链。VCSEL代工合作将成为三安集成通往“世界级化合物半导体制...
+ ## [\[科技早报7点整\]QQ回应偷偷删除用户照片 特朗普政府起草月球采矿协议……](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=sLkaA7a9yTomRGQ0fLcRFj7xf-GGd7*0o93A4K1kOjZ7pg*URBGDQ5jrPdF6QsJXzMosW791-nleddh9HdFJXsiQ8A9zi2EjvSlnkZJgD7jjtq5AfvpQBrl2tlpF8*mF&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第796期1.李国庆回应终止和解谈判：是因俞渝要重新考虑5月6日，李国庆就此前与俞渝方有过和解谈判最终却单方面终止一事回应称，是俞渝先提出了对和解条件重新考虑。李国庆表示...
+ ## [凌晨重磅!美国拟跟华为合作，制定5G标准!大批A股又要"嗨了"?](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=44IGu6hujGuEbV9pVGkAiPKtcb9sNvh*QyHqm3xDTtJJDhkxPDhT*3HWLb8Vx2L2Tckt2kCQxB5u5gyURoH*6DM4JLfflZfnkPPAY2HH2NE0f3mYojTRdJmDnOAmdCkF&new=1)
+ > 中国基金报 泰勒路透社昨夜一则关于华为的突发消息，引发全网刷屏，路透社援引消息人士的话称，美国商务部接近签发一份新规，以允许美国企业和华为共同参与5G网络标准的制定。这一条爆炸性消息出来之后，美股华...
+ ## [起底中国电信电渠"诈骗"中心](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=iKIiGhshhxkXxF01U4cayRJP8Xw9QZKVgEu2hdktVU8I5VZnXN4G16kpej8HKcqDrlxgPDlGBNAhYTSqhaZeM9MlVGpLPeAPEH5JsjIoHZ0mPBlg2PC4I5MNIAnvY-zN&new=1)
  > 5月1日在通信圈公众号上发布了一篇文章，主要内容是说中国电信电渠中心涉嫌诈骗还有为赌博网站洗钱，通过几天时间的查证，收集了大量中国电信电渠中心涉嫌诈骗的内容，本篇爆料内容所有文字、截图和视频均是通过...
- ## [再次引领行业风潮?一文了解iPad Pro激光雷达扫描仪](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=JaijlcKe51XpGRSIj3ezoluEGekOb4g5pqNZWeiAiszh0VrDvjkxVStpLyLoMtrkJVCZBGEc1XMVCUm2s2Alf38RuoLSTwMk4ajP8kceI2K8aGw98*U2vDdQLltnsy-o&new=1)
+ ## [7点见|美国拟允许与华为合作；小米日本就不当宣传道歉；富士康回应员工放假](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=Qja3oVjz4Ci-KK22dIu7B1*AtiWKKdVeYYW-N9L3dENy4ArLPINsgMYGLuDlmGsiXRF8tSmAIO2l6S0KTZXWF19mDdrztgoiHS4ZpGbrBhY5qtASNL6zsMBuZ1rT7EFB&new=1)
+ > 各位小伙伴们，早上好呀！最近天气渐热，小伙伴们是否在担心疫情期间使用空调是否有风险？北京市疾控中心副主任刘晓峰回应啦！最常见的一室一机，不存在各个居室间的交叉污染，基本没风险；而商场、写字楼等使用...
+ ## [再次引领行业风潮?一文了解iPad Pro激光雷达扫描仪](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=JaijlcKe51XpGRSIj3ezoluEGekOb4g5pqNZWeiAiszh0VrDvjkxVStpLyLoMtrkcedWcdtXjmpI9MS5J1ir6CqmCPHEttvfpHPwtj5lBy*ezT4GYEAiLId054Q49Rvz&new=1)
  > 3月18日，苹果在官网更新了iPad Pro、MacBook Air和Mac mini三款产品。iPad Pro毫无疑问是此次更新中的重磅产品，A12Z仿生芯片、摄像头双摄、妙控键盘、激光雷达扫描仪……对于此次的更新，苹果似乎是信心十足，...
- ## [\[报告\]2020年中国燃料电池行业市场前景及投资研究(附54页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=DRluDUzVKqWuJYNpNPgWF-BBAgCwFYCZfeu3vQ5bLt8X3py0SsQp8kqKAtYcGdIupQ-*3hYQM87tz1EvPARxnRjCh6yHJ8JKPBFaVfoCttBW5tIVyUAnmFYrqNaKLOe-&new=1)
+ ## [\[报告\]2020年中国燃料电池行业市场前景及投资研究(附54页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=DRluDUzVKqWuJYNpNPgWF-BBAgCwFYCZfeu3vQ5bLt8X3py0SsQp8kqKAtYcGdIu17sxQJFhez3rzj6RmkdhBl8jkSq6JYwt45kogVpbU7Oy4GdANEjMZr3w*yH7M6Z7&new=1)
  > 随着全球工业化进程的不断加快，所需化石燃料也越来越多，对环境造成的污染日益加剧，现迫切需要寻找可作为替代品的清洁能源。氢能因其具有热值高、能量转化率高等特点，是一种理想的清洁能源，燃料电池是将氢气...
- ## [9亿美元的Moovit，寄托着英特尔1600亿美元的大梦想](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=fe5*tyL7BFFZZcqqegO9Atx10qO*-AxGxM8ud8zLHgCDvTezvSXMWEpkqMOS2kXIkCcHXetfDAn76vw41gBA-vGCXsnmmoqTf7vSdU0MJUzjGPNadS*AklbHq7EhWz5A&new=1)
+ ## [9亿美元的Moovit，寄托着英特尔1600亿美元的大梦想](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=fe5*tyL7BFFZZcqqegO9Atx10qO*-AxGxM8ud8zLHgCDvTezvSXMWEpkqMOS2kXIhYXULvsUaijmgqaDpTQtwLRoAQWnXsNCo0-SWBFiB6dWxLH9MFCXQr-koSk5iGvF&new=1)
  > 英特尔在自动驾驶领域频频发力，继英特尔153亿美元收购Mobileye之后，英特尔在自动驾驶领域又迎来了一笔重要的收购，此番与Moovit的收购完成后，不但将为英特尔Mobileye移动出行服务提供完整的计划方案，还将在2...
- ## [苹果虚拟线上 WWDC，6月 22 日召开](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=LuuQ3hJxVXTsJVqNObrq5e1N4*ikmubqHabE6b2wiAXnoW4PlGTCvWALTFf6cXL55nTy2x2JjdSg*tY-Hw65hkDNYaZpfdi2whVv3I*ilACVCiBG6qn8bSSY5hpV9aNP&new=1)
+ ## [苹果虚拟线上 WWDC，6月 22 日召开](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=LuuQ3hJxVXTsJVqNObrq5e1N4*ikmubqHabE6b2wiAXnoW4PlGTCvWALTFf6cXL55Vgy5eJUef3q3*y436tFAVoycu818Z7HxzGirhhNT4lTk4dYmCXrZM0dYootBOQq&new=1)
  > 苹果今天宣布，将于 6 月 22 日开始以虚拟形式举行年度全球开发者大会，届时将通过 Apple Developer app 和 Apple Developer 网站免费向所有开发者开放。Apple 同时宣布将举办 Swift Studen
- ## [30年前，他在杭州花了朝晖小区70方一套房的钱，买了一部大哥大……](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=Y36*WYo2PwX7mZ87c03T4-LFEJjiSqLtb9aUOIyms-ACvHrA5hbfyF9RtQVbu1R5fW2TsTZR9imOueeerKChC1wsOLBEfS0y*LZ*vz4c*Zoj-qa8fDfQ9HDCxKvMz7Co&new=1)
+ ## [30年前，他在杭州花了朝晖小区70方一套房的钱，买了一部大哥大……](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=Y36*WYo2PwX7mZ87c03T4-LFEJjiSqLtb9aUOIyms-ACvHrA5hbfyF9RtQVbu1R5HmDtd9doUOrCdT7DLGnq648Ep6fJyuuIezuHCifjmLvjN8ZJP-rEs5uKThWV22f8&new=1)
  > 过去30年通讯技术经历了四次大变革1G到2G前后经历了15年3G过渡到4G只用了5年新技术普及的速度越来越快从4G开始国产手机再一次找到了超车的机会无论从价格、技术、体验等各个层面全面超越大部分国外品牌进入5G时...
- ## [曝南方某省电信今年一季度主营收入或超时序进度 一把手心情大好](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=a*nWJ5I3VeSbzluGtMVzuu0i1pri1t*8aRd*Zv5nhQH912iapFbSoJ8aHepYOqD5czXk-WDjkCn2szFvyCyCa-2jkmQiNWoJVVcIGxtBLm*bb3UfV6PokaBisZrqFnKh&new=1)
+ ## [曝南方某省电信今年一季度主营收入或超时序进度 一把手心情大好](http://mp.weixin.qq.com/s?src=11&timestamp=1588815004&ver=2323&signature=a*nWJ5I3VeSbzluGtMVzuu0i1pri1t*8aRd*Zv5nhQH912iapFbSoJ8aHepYOqD5nbVXWOSzAEP6R7jugD6tBoK4kLdTuelay4CWLxy23HpGqWppbpTsiOAyok*wBpCA&new=1)
  > 运营商财经网 吴碧慧/文 日前，据知情人士向运营商财经网独家爆料称，受年初疫情影响，不少运营商业绩都遭受了影响，但广西电信在今年一季度业绩中表现突出，主营收入或超过时序进度，对此总经理叶松华心情大好...
 # IT 技术 
  ## [写了个Bug，误执行rm -fr /*，瞬间背后一凉！](http://developer.51cto.com/art/202005/615911.htm)
@@ -37,76 +45,84 @@ categories: IT NEWS
  > 4月份Github上热门的Java开源项目
  ## [Java程序员必备基础结构图](http://developer.51cto.com/art/202005/615873.htm)
  > Java程序员必备基础结构图
- ## [这回，阿粉要将 synchronized 与锁的关系讲透！！！](http://developer.51cto.com/art/202005/615912.htm)
+ ## [统一安全管控之密钥管理KMS](http://netsecurity.51cto.com/art/202005/615920.htm)
+ > 谈到信息安全免不了要解决一个问题就是数据加密。加密就会涉及到密钥相关的问题，比如密钥的生成、传输、保
+ ## [又一P1故障，锅比脸圆](http://netsecurity.51cto.com/art/202005/615922.htm)
+ > 好久没遇到故障了，以至于技术老大在公司会议上，都成了隐形的存在，除了汇报进度一无是处，这是不能容忍的
+ ## [干货满满！25种绝佳VSCode扩展，体验便捷高效的生活](http://news.51cto.com/art/202005/615917.htm)
+ > 市场营销最强策略之一：在人们知道自己需要什么之前帮助他们意识到自己需要什么。这一点上，VSCode深谙其
+ ## [在 Linux 上压缩文件的 5 种方法](http://os.51cto.com/art/202005/615918.htm)
+ > 在 Linux 系统上有很多可以用于压缩文件的工具，但它们的表现并不都是一样的，也不是所有的压缩效果都是一
+ ## [这些让人相见恨晚的高效代码小技巧你听过吗？](http://developer.51cto.com/art/202005/615914.htm)
+ > 学会Python确实能协助你高效工作。但学了是一回事儿，会了是另一回事儿，不是每个人学过Python的人都能玩得
+ ## [这回，要将 synchronized 与锁的关系讲透！！！](http://developer.51cto.com/art/202005/615912.htm)
  > 说到锁，都会提 synchronized 。这个英文单词儿啥意思呢?翻译成中文就是「同步」的意思.一般都是使用 synch
  ## [40个适用于Linux管理员和开发人员的git命令（上）](http://os.51cto.com/art/202005/615913.htm)
  > git CLI提供了大量的git命令，以使开发人员更轻松地进行软件开发。为了方便读者，我们的编辑人员概述了一些
  ## [隔离结束后，物联网和智能技术将如何保护我们的安全？](http://iot.51cto.com/art/202005/615910.htm)
  > 我们应该明白，隔离很快就会结束，我们所有人都将恢复到正常的生活方式。因此，考虑在各个领域应用创新技术
+ ## [大海啊，夏天啊，全是腿啊，python带你爬取长腿妹子图](https://blog.csdn.net/qq_36772866/article/details/105900887)
+ > 大海啊，夏天啊，全是腿啊，python带你爬取长腿妹子图
+ ## [你努力工作会让老板感动吗？](https://blog.csdn.net/qing_gee/article/details/105898825)
+ > 你努力工作会让老板感动吗？
+ ## [【多线程高并发编程】二 实现多线程的几种方式](https://blog.csdn.net/qq_16855077/article/details/104364463)
+ > 【多线程高并发编程】二 实现多线程的几种方式
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
+ > 
+ ## [震撼！全网第一张源码分析全景图揭秘Nginx](https://blog.csdn.net/xuanyuan_fsx/article/details/105551161)
+ > 
+ ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
+ > 
+ ## [为什么这么多人说，读大学，没什么卵用](https://blog.csdn.net/shenjian58/article/details/105154064)
+ > 为什么这么多人说，读大学，没什么卵用
+ ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
+ > 和黑客斗争的 6 天！
+ ## [【相亲】95年高颜值妹子，喜欢上进的男生](https://blog.csdn.net/qq_35190492/article/details/105917014)
+ > 【相亲】95年高颜值妹子，喜欢上进的男生
+ ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
+ > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
+ ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
+ > 终于，月薪过5万了！
+ ## [利用JS事件让你更加愉快地划水](https://blog.csdn.net/CUFEECR/article/details/105566733)
+ > 利用JS事件让你更加愉快地划水
  ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
  > 
- ## [Python 不用selenium 带你高效爬取京东商品评论](https://blog.csdn.net/CUFEECR/article/details/105467109)
+ ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
+ ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
+ > 大三实习生，字节跳动面经分享，已拿Offer
+# 人工智能 
+ ## [计算机考研复试之操作系统四十二问](https://blog.csdn.net/weixin_42514735/article/details/105935044)
+ > 计算机考研复试之操作系统四十二问
+ ## [珍藏多年的神网站都捐了，你想要的我都有，有了这些网站工作生活不用愁](https://blog.csdn.net/bookssea/article/details/105894567)
+ > 
+ ## [字符串常量池的坑知多少？](https://blog.csdn.net/xk4848123/article/details/105927848)
+ > 字符串常量池的坑知多少？
+ ## [推荐——大学四年来受益匪浅的10个网站](https://blog.csdn.net/weixin_44162000/article/details/105934440)
+ > 
+ ## [计算机视觉面试考点（16）优化器](https://blog.csdn.net/weixin_39417323/article/details/105933271)
+ > 
+ ## [HDU各种比赛题题解（一）](https://blog.csdn.net/tigerisland45/article/details/105912261)
+ > HDU各种比赛题题解（一）
+ ## [【大学生必备神器网站】免费论文下载、免费2T网盘、各类免费课程、在线高数引擎...收藏了4年的宝藏学习网站最全の整理推荐！](https://blog.csdn.net/weixin_42815609/article/details/105937023)
+ > 
+ ## [微机原理 8253/8254编程示例](https://blog.csdn.net/qq_43422111/article/details/105914947)
+ > 微机原理 8253/8254编程示例
+ ## [Arduino入门必备基础知识(基础认证考前总结)](https://blog.csdn.net/zbp_12138/article/details/105919133)
+ > 
+ ## [课余或者业余学习python，可以嘛？](https://blog.csdn.net/JasmineLinaa/article/details/105926395)
+ > 课余或者业余学习python，可以嘛？
+ ## [Scratch编程对小朋友来说会难吗](https://blog.csdn.net/frank2102/article/details/105928669)
+ > Scratch编程对小朋友来说会难吗
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [](https://blog.csdn.net/Eastmount/article/details/104463173)
- > 
- ## [如何让页面动起来？支付宝2020新春红包前端3D技术揭秘](https://blog.csdn.net/alitech2017/article/details/105367251)
- > 如何让页面动起来？支付宝2020新春红包前端3D技术揭秘
- ## [Spring Cloud面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397367)
- > 
- ## [Delta Lake 分区表覆盖写入操作](https://blog.csdn.net/lsshlsw/article/details/105108554)
- > 
- ## [Web前端开发 HTML设计 经验与技巧总结](https://blog.csdn.net/CUFEECR/article/details/104030161)
- > 
- ## [如何打造标准开源项目（序）：打造开源项目的意义](https://blog.csdn.net/Neuf_Soleil/article/details/104334476)
- > 如何打造标准开源项目（序）：打造开源项目的意义
- ## [Java基础知识面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390612)
- > Java基础知识面试题（2020最新版）
- ## [图解半监督学习FixMatch，只用10张标注图片训练CIFAR10](https://blog.csdn.net/u011984148/article/details/105384080)
- > 图解半监督学习FixMatch，只用10张标注图片训练CIFAR10
- ## [一文总结十大经典排序算法（思维导图 + 动图演示 + 代码实现 C/C++/Python + 致命吐槽）](https://blog.csdn.net/TeFuirnever/article/details/105488598)
- > 
- ## [如何把pyecharts的炫酷延续到PPT里！？](https://blog.csdn.net/SeizeeveryDay/article/details/105445720)
- > 如何把pyecharts的炫酷延续到PPT里！？
- ## [轻松搞定XML和对象之间的互转，就它了！](https://blog.csdn.net/weixin_38405253/article/details/105445525)
- > 轻松搞定XML和对象之间的互转，就它了！
- ## [ZooKeeper面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397719)
- > ZooKeeper面试题（2020最新版）
-# 人工智能 
- ## [全网最全的华为数通思维导图！(二)](https://blog.csdn.net/qq_45668124/article/details/105932875)
- > 全网最全的华为数通思维导图！(二)
- ## [nslookup详细使用教程](https://blog.csdn.net/smli_ng/article/details/105917953)
- > nslookup详细使用教程
- ## [Zookeeper搭建集群](https://blog.csdn.net/qq_39380737/article/details/105925606)
- > Zookeeper搭建集群
- ## [liunx应用安装教程看完这一篇就够了](https://blog.csdn.net/qq_24598601/article/details/105924755)
- > 
- ## [linux基础（练习二）](https://blog.csdn.net/qq_45331873/article/details/105913475)
- > linux基础（练习二）
- ## [Linux安装和常用命令使用](https://blog.csdn.net/HarderXin/article/details/105817893)
- > Linux安装和常用命令使用
- ## [Linux基础命令学习系列  |  博客目录索引](https://blog.csdn.net/qq_44723773/article/details/105916023)
- > Linux基础命令学习系列  |  博客目录索引
- ## [xshell下载及连接Linux](https://blog.csdn.net/hanhanwanghaha/article/details/105929649)
- > xshell下载及连接Linux
- ## [（万字截图-保姆教程）阿里云新手最全面教程 从购买到项目发布](https://blog.csdn.net/qq_42141943/article/details/105916765)
- > （万字截图-保姆教程）阿里云新手最全面教程 从购买到项目发布
- ## [网络分层体系结构](https://blog.csdn.net/qq_43452252/article/details/105910708)
- > 
- ## [HCIA基础知识总结（补充）](https://blog.csdn.net/qq_45668124/article/details/105784610)
- > 
- ## [自动化运维工具Saltstack配置及使用](https://blog.csdn.net/qq_41944882/article/details/105930379)
- > 
- ## [Kali Linux-虚拟机安装](https://blog.csdn.net/smli_ng/article/details/105898986)
- > Kali Linux-虚拟机安装
- ## [阿里/腾讯云静默安装Oracle11G超级详细教程](https://blog.csdn.net/qq_36856983/article/details/105906662)
- > 阿里/腾讯云静默安装Oracle11G超级详细教程
- ## [Ubuntu18.04+Qemu调试Linux内核实验记录](https://blog.csdn.net/zhanjia0609/article/details/105922363)
- > Ubuntu18.04+Qemu调试Linux内核实验记录
+ ## [推荐 130 个令你眼前一亮的网站，总有一个用得着](https://blog.csdn.net/qq_43901693/article/details/100606828)
+ > 推荐 130 个令你眼前一亮的网站，总有一个用得着
+ ## [图像处理作业5——SIFT算法与全景图像生成](https://blog.csdn.net/qq_42662568/article/details/105917298)
+ > 图像处理作业5——SIFT算法与全景图像生成
+ ## [opencv-python ORB (Oriented FAST and Rotated BRIEF)](https://blog.csdn.net/update7/article/details/105927550)
+ > opencv-python ORB (Oriented FAST and Rotated BRIEF)
 # PM 
- ## [转行到互联网运营，如何摆脱打杂陷阱，拿到高薪offer](http://www.woshipm.com/open/3821992.html)
- > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位。但是很多小伙伴发现，同样是做运营，薪资上简直是天差地别。比如说薪资4K-8K的岗位...
  ## [数据分析之如何找到产品的新认知](http://www.chanpin100.com/article/111536)
  > 上文介绍了一些如何进行用户行为数据分析的常用手法，利用数据手段去驱动增长，点此引路→，当然要告诫诸位的是......
  ## [CRM的本质和未来十年](http://www.chanpin100.com/article/111532)
