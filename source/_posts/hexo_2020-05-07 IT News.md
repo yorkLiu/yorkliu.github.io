@@ -1,101 +1,109 @@
 ---
 title: 2020-05-07 IT News
 copyright: true
-date: 2020-05-07 08:03:01
+date: 2020-05-07 09:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果虚拟线上 WWDC，6月 22 日召开](http://mp.weixin.qq.com/s?src=11&timestamp=1588807804&ver=2323&signature=LuuQ3hJxVXTsJVqNObrq5e1N4*ikmubqHabE6b2wiAXOsoj74hEXV8x2pXyWGa*rW2L1TPRIRDsCmV*O2h1fWCcFX9pURwIY0XLhU-LvIDTL5LHoORBrk-RJsFlceTZJ&new=1)
- > 苹果今天宣布，将于 6 月 22 日开始以虚拟形式举行年度全球开发者大会，届时将通过 Apple Developer app 和 Apple Developer 网站免费向所有开发者开放。Apple 同时宣布将举办 Swift Studen
- ## [30年前，他在杭州花了朝晖小区70方一套房的钱，买了一部大哥大……](http://mp.weixin.qq.com/s?src=11&timestamp=1588807804&ver=2323&signature=Y36*WYo2PwX7mZ87c03T4-LFEJjiSqLtb9aUOIyms-Cr8FGA-5*MTgTU8zXUgOlBmDXm0JvsCP5ON207SpbbN5E295nNlYNCxmnmvi1*Icc1OPsa-oCd0g6r3b61yQFB&new=1)
- > 过去30年通讯技术经历了四次大变革1G到2G前后经历了15年3G过渡到4G只用了5年新技术普及的速度越来越快从4G开始国产手机再一次找到了超车的机会无论从价格、技术、体验等各个层面全面超越大部分国外品牌进入5G时...
- ## [9亿美元的Moovit，寄托着英特尔1600亿美元的大梦想](http://mp.weixin.qq.com/s?src=11&timestamp=1588807804&ver=2323&signature=fe5*tyL7BFFZZcqqegO9Atx10qO*-AxGxM8ud8zLHgBxtEgzjGHgo5WLIACstW1ZRoRtedTR33v3uG7j9MNI9*eUeWuOOR4PDskz1sflk4EoHIPd7xlF99796Hb8*Mbt&new=1)
- > 英特尔在自动驾驶领域频频发力，继英特尔153亿美元收购Mobileye之后，英特尔在自动驾驶领域又迎来了一笔重要的收购，此番与Moovit的收购完成后，不但将为英特尔Mobileye移动出行服务提供完整的计划方案，还将在2...
- ## [曝南方某省电信今年一季度主营收入或超时序进度 一把手心情大好](http://mp.weixin.qq.com/s?src=11&timestamp=1588807804&ver=2323&signature=a*nWJ5I3VeSbzluGtMVzuu0i1pri1t*8aRd*Zv5nhQFPGtWN*eeRE*T*rJWamILdV5kEoSFh5sraVePA9TQDvKt4XIqd0X50yv1Dw*E1KWwQ6PPcY235acX95FrQHQ9R&new=1)
- > 运营商财经网 吴碧慧/文 日前，据知情人士向运营商财经网独家爆料称，受年初疫情影响，不少运营商业绩都遭受了影响，但广西电信在今年一季度业绩中表现突出，主营收入或超过时序进度，对此总经理叶松华心情大好...
- ## [再次引领行业风潮?一文了解iPad Pro激光雷达扫描仪](http://mp.weixin.qq.com/s?src=11&timestamp=1588807804&ver=2323&signature=JaijlcKe51XpGRSIj3ezoluEGekOb4g5pqNZWeiAisx*qyIye2geMRzz2kyqq85LIW2kZYqlntq9PaXKbVyNB*NQJjbPM-eYiN2Koj3iFQJsRyjuSOpDlRbY4jJRsK8Q&new=1)
+ ## [起底中国电信电渠"诈骗"中心](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=iKIiGhshhxkXxF01U4cayRJP8Xw9QZKVgEu2hdktVU8I5VZnXN4G16kpej8HKcqDrMPS63hmNAk0erka8iiv7M0vfWz7wt8h1LlPZZcrbnGXDCFrTjBV1xnSFn9Drfvg&new=1)
+ > 5月1日在通信圈公众号上发布了一篇文章，主要内容是说中国电信电渠中心涉嫌诈骗还有为赌博网站洗钱，通过几天时间的查证，收集了大量中国电信电渠中心涉嫌诈骗的内容，本篇爆料内容所有文字、截图和视频均是通过...
+ ## [再次引领行业风潮?一文了解iPad Pro激光雷达扫描仪](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=JaijlcKe51XpGRSIj3ezoluEGekOb4g5pqNZWeiAiszh0VrDvjkxVStpLyLoMtrkJVCZBGEc1XMVCUm2s2Alf38RuoLSTwMk4ajP8kceI2K8aGw98*U2vDdQLltnsy-o&new=1)
  > 3月18日，苹果在官网更新了iPad Pro、MacBook Air和Mac mini三款产品。iPad Pro毫无疑问是此次更新中的重磅产品，A12Z仿生芯片、摄像头双摄、妙控键盘、激光雷达扫描仪……对于此次的更新，苹果似乎是信心十足，...
+ ## [\[报告\]2020年中国燃料电池行业市场前景及投资研究(附54页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=DRluDUzVKqWuJYNpNPgWF-BBAgCwFYCZfeu3vQ5bLt8X3py0SsQp8kqKAtYcGdIupQ-*3hYQM87tz1EvPARxnRjCh6yHJ8JKPBFaVfoCttBW5tIVyUAnmFYrqNaKLOe-&new=1)
+ > 随着全球工业化进程的不断加快，所需化石燃料也越来越多，对环境造成的污染日益加剧，现迫切需要寻找可作为替代品的清洁能源。氢能因其具有热值高、能量转化率高等特点，是一种理想的清洁能源，燃料电池是将氢气...
+ ## [9亿美元的Moovit，寄托着英特尔1600亿美元的大梦想](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=fe5*tyL7BFFZZcqqegO9Atx10qO*-AxGxM8ud8zLHgCDvTezvSXMWEpkqMOS2kXIkCcHXetfDAn76vw41gBA-vGCXsnmmoqTf7vSdU0MJUzjGPNadS*AklbHq7EhWz5A&new=1)
+ > 英特尔在自动驾驶领域频频发力，继英特尔153亿美元收购Mobileye之后，英特尔在自动驾驶领域又迎来了一笔重要的收购，此番与Moovit的收购完成后，不但将为英特尔Mobileye移动出行服务提供完整的计划方案，还将在2...
+ ## [苹果虚拟线上 WWDC，6月 22 日召开](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=LuuQ3hJxVXTsJVqNObrq5e1N4*ikmubqHabE6b2wiAXnoW4PlGTCvWALTFf6cXL55nTy2x2JjdSg*tY-Hw65hkDNYaZpfdi2whVv3I*ilACVCiBG6qn8bSSY5hpV9aNP&new=1)
+ > 苹果今天宣布，将于 6 月 22 日开始以虚拟形式举行年度全球开发者大会，届时将通过 Apple Developer app 和 Apple Developer 网站免费向所有开发者开放。Apple 同时宣布将举办 Swift Studen
+ ## [30年前，他在杭州花了朝晖小区70方一套房的钱，买了一部大哥大……](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=Y36*WYo2PwX7mZ87c03T4-LFEJjiSqLtb9aUOIyms-ACvHrA5hbfyF9RtQVbu1R5fW2TsTZR9imOueeerKChC1wsOLBEfS0y*LZ*vz4c*Zoj-qa8fDfQ9HDCxKvMz7Co&new=1)
+ > 过去30年通讯技术经历了四次大变革1G到2G前后经历了15年3G过渡到4G只用了5年新技术普及的速度越来越快从4G开始国产手机再一次找到了超车的机会无论从价格、技术、体验等各个层面全面超越大部分国外品牌进入5G时...
+ ## [曝南方某省电信今年一季度主营收入或超时序进度 一把手心情大好](http://mp.weixin.qq.com/s?src=11&timestamp=1588811414&ver=2323&signature=a*nWJ5I3VeSbzluGtMVzuu0i1pri1t*8aRd*Zv5nhQH912iapFbSoJ8aHepYOqD5czXk-WDjkCn2szFvyCyCa-2jkmQiNWoJVVcIGxtBLm*bb3UfV6PokaBisZrqFnKh&new=1)
+ > 运营商财经网 吴碧慧/文 日前，据知情人士向运营商财经网独家爆料称，受年初疫情影响，不少运营商业绩都遭受了影响，但广西电信在今年一季度业绩中表现突出，主营收入或超过时序进度，对此总经理叶松华心情大好...
 # IT 技术 
+ ## [写了个Bug，误执行rm -fr /*，瞬间背后一凉！](http://developer.51cto.com/art/202005/615911.htm)
+ > 写了个Bug，误执行rm -fr /*，瞬间背后一凉！
  ## [揭秘AI基础设施堆栈！](http://ai.51cto.com/art/202005/615891.htm)
  > 揭秘AI基础设施堆栈！
- ## [IBM Think Digital大会开幕  应对“后疫情时代”数字转型正当时](http://cloud.51cto.com/art/202005/615881.htm)
- > IBM Think Digital大会开幕  应对“后疫情时代”数字转型正当时
- ## [Python 2已正式寿终正寝](http://developer.51cto.com/art/202005/615863.htm)
- > Python 2已正式寿终正寝
- ## [全面解读DevOps相关基础概念与实践](http://os.51cto.com/art/202005/615776.htm)
- > 全面解读DevOps相关基础概念与实践
- ## [7种优秀开源网络监控工具](http://network.51cto.com/art/202005/615766.htm)
- > 7种优秀开源网络监控工具
- ## [现在是学习云计算的恰当时机吗？](http://cloud.51cto.com/art/202005/615772.htm)
- > 现在是学习云计算的恰当时机吗？
- ## [假期来临 到底要不要换个Wi-Fi 6路由器？](http://network.51cto.com/art/202005/615773.htm)
- > 假期来临 到底要不要换个Wi-Fi 6路由器？
- ## [近期国内外重大数据泄露事件](http://netsecurity.51cto.com/art/202005/615764.htm)
- > 近期国内外重大数据泄露事件
+ ## [程序员经典面试题，MySQL自增主键为什么不连续](http://database.51cto.com/art/202005/615862.htm)
+ > 程序员经典面试题，MySQL自增主键为什么不连续
+ ## [十个你可能不曾用过的Linux命令！巨好用！](http://news.51cto.com/art/202005/615781.htm)
+ > 十个你可能不曾用过的Linux命令！巨好用！
+ ## [谁动了我的宽带？记一次HTTP劫持的发现过程](http://network.51cto.com/art/202005/615780.htm)
+ > 谁动了我的宽带？记一次HTTP劫持的发现过程
+ ## [GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师](http://news.51cto.com/art/202005/615845.htm)
+ > GitHub上最励志的计算机自学教程：8个月，从中年Web前端到亚马逊百万年薪软件工程师
+ ## [4月份Github上热门的Java开源项目](http://developer.51cto.com/art/202005/615831.htm)
+ > 4月份Github上热门的Java开源项目
+ ## [Java程序员必备基础结构图](http://developer.51cto.com/art/202005/615873.htm)
+ > Java程序员必备基础结构图
+ ## [这回，阿粉要将 synchronized 与锁的关系讲透！！！](http://developer.51cto.com/art/202005/615912.htm)
+ > 说到锁，都会提 synchronized 。这个英文单词儿啥意思呢?翻译成中文就是「同步」的意思.一般都是使用 synch
+ ## [40个适用于Linux管理员和开发人员的git命令（上）](http://os.51cto.com/art/202005/615913.htm)
+ > git CLI提供了大量的git命令，以使开发人员更轻松地进行软件开发。为了方便读者，我们的编辑人员概述了一些
  ## [隔离结束后，物联网和智能技术将如何保护我们的安全？](http://iot.51cto.com/art/202005/615910.htm)
  > 我们应该明白，隔离很快就会结束，我们所有人都将恢复到正常的生活方式。因此，考虑在各个领域应用创新技术
- ## [大海啊，夏天啊，全是腿啊，python带你爬取长腿妹子图](https://blog.csdn.net/qq_36772866/article/details/105900887)
- > 大海啊，夏天啊，全是腿啊，python带你爬取长腿妹子图
- ## [你努力工作会让老板感动吗？](https://blog.csdn.net/qing_gee/article/details/105898825)
- > 你努力工作会让老板感动吗？
- ## [【多线程高并发编程】二 实现多线程的几种方式](https://blog.csdn.net/qq_16855077/article/details/104364463)
- > 【多线程高并发编程】二 实现多线程的几种方式
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [震撼！全网第一张源码分析全景图揭秘Nginx](https://blog.csdn.net/xuanyuan_fsx/article/details/105551161)
- > 
- ## [我说我不会算法，阿里把我挂了。](https://blog.csdn.net/Java_3y/article/details/104897426)
- > 
- ## [为什么这么多人说，读大学，没什么卵用](https://blog.csdn.net/shenjian58/article/details/105154064)
- > 为什么这么多人说，读大学，没什么卵用
- ## [和黑客斗争的 6 天！](https://blog.csdn.net/ityouknow/article/details/104666810)
- > 和黑客斗争的 6 天！
- ## [【相亲】95年高颜值妹子，喜欢上进的男生](https://blog.csdn.net/qq_35190492/article/details/105917014)
- > 【相亲】95年高颜值妹子，喜欢上进的男生
- ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
- > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
- ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
- > 终于，月薪过5万了！
- ## [利用JS事件让你更加愉快地划水](https://blog.csdn.net/CUFEECR/article/details/105566733)
- > 利用JS事件让你更加愉快地划水
  ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
  > 
- ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
+ ## [Python 不用selenium 带你高效爬取京东商品评论](https://blog.csdn.net/CUFEECR/article/details/105467109)
  > 
- ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
- > 大三实习生，字节跳动面经分享，已拿Offer
+ ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
+ > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [](https://blog.csdn.net/Eastmount/article/details/104463173)
+ > 
+ ## [如何让页面动起来？支付宝2020新春红包前端3D技术揭秘](https://blog.csdn.net/alitech2017/article/details/105367251)
+ > 如何让页面动起来？支付宝2020新春红包前端3D技术揭秘
+ ## [Spring Cloud面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397367)
+ > 
+ ## [Delta Lake 分区表覆盖写入操作](https://blog.csdn.net/lsshlsw/article/details/105108554)
+ > 
+ ## [Web前端开发 HTML设计 经验与技巧总结](https://blog.csdn.net/CUFEECR/article/details/104030161)
+ > 
+ ## [如何打造标准开源项目（序）：打造开源项目的意义](https://blog.csdn.net/Neuf_Soleil/article/details/104334476)
+ > 如何打造标准开源项目（序）：打造开源项目的意义
+ ## [Java基础知识面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390612)
+ > Java基础知识面试题（2020最新版）
+ ## [图解半监督学习FixMatch，只用10张标注图片训练CIFAR10](https://blog.csdn.net/u011984148/article/details/105384080)
+ > 图解半监督学习FixMatch，只用10张标注图片训练CIFAR10
+ ## [一文总结十大经典排序算法（思维导图 + 动图演示 + 代码实现 C/C++/Python + 致命吐槽）](https://blog.csdn.net/TeFuirnever/article/details/105488598)
+ > 
+ ## [如何把pyecharts的炫酷延续到PPT里！？](https://blog.csdn.net/SeizeeveryDay/article/details/105445720)
+ > 如何把pyecharts的炫酷延续到PPT里！？
+ ## [轻松搞定XML和对象之间的互转，就它了！](https://blog.csdn.net/weixin_38405253/article/details/105445525)
+ > 轻松搞定XML和对象之间的互转，就它了！
+ ## [ZooKeeper面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397719)
+ > ZooKeeper面试题（2020最新版）
 # 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
+ ## [全网最全的华为数通思维导图！(二)](https://blog.csdn.net/qq_45668124/article/details/105932875)
+ > 全网最全的华为数通思维导图！(二)
+ ## [nslookup详细使用教程](https://blog.csdn.net/smli_ng/article/details/105917953)
+ > nslookup详细使用教程
+ ## [Zookeeper搭建集群](https://blog.csdn.net/qq_39380737/article/details/105925606)
+ > Zookeeper搭建集群
+ ## [liunx应用安装教程看完这一篇就够了](https://blog.csdn.net/qq_24598601/article/details/105924755)
+ > 
+ ## [linux基础（练习二）](https://blog.csdn.net/qq_45331873/article/details/105913475)
+ > linux基础（练习二）
+ ## [Linux安装和常用命令使用](https://blog.csdn.net/HarderXin/article/details/105817893)
+ > Linux安装和常用命令使用
+ ## [Linux基础命令学习系列  |  博客目录索引](https://blog.csdn.net/qq_44723773/article/details/105916023)
+ > Linux基础命令学习系列  |  博客目录索引
+ ## [xshell下载及连接Linux](https://blog.csdn.net/hanhanwanghaha/article/details/105929649)
+ > xshell下载及连接Linux
+ ## [（万字截图-保姆教程）阿里云新手最全面教程 从购买到项目发布](https://blog.csdn.net/qq_42141943/article/details/105916765)
+ > （万字截图-保姆教程）阿里云新手最全面教程 从购买到项目发布
+ ## [网络分层体系结构](https://blog.csdn.net/qq_43452252/article/details/105910708)
+ > 
+ ## [HCIA基础知识总结（补充）](https://blog.csdn.net/qq_45668124/article/details/105784610)
+ > 
+ ## [自动化运维工具Saltstack配置及使用](https://blog.csdn.net/qq_41944882/article/details/105930379)
+ > 
+ ## [Kali Linux-虚拟机安装](https://blog.csdn.net/smli_ng/article/details/105898986)
+ > Kali Linux-虚拟机安装
+ ## [阿里/腾讯云静默安装Oracle11G超级详细教程](https://blog.csdn.net/qq_36856983/article/details/105906662)
+ > 阿里/腾讯云静默安装Oracle11G超级详细教程
+ ## [Ubuntu18.04+Qemu调试Linux内核实验记录](https://blog.csdn.net/zhanjia0609/article/details/105922363)
+ > Ubuntu18.04+Qemu调试Linux内核实验记录
 # PM 
  ## [转行到互联网运营，如何摆脱打杂陷阱，拿到高薪offer](http://www.woshipm.com/open/3821992.html)
  > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位。但是很多小伙伴发现，同样是做运营，薪资上简直是天差地别。比如说薪资4K-8K的岗位...
