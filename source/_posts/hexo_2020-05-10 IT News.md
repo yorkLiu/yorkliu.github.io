@@ -1,22 +1,26 @@
 ---
 title: 2020-05-10 IT News
 copyright: true
-date: 2020-05-10 10:01:17
+date: 2020-05-10 12:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [再见了，快递员!北京打响第一枪!再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1589076006&ver=2329&signature=LG0sPVPixZmSgjr9sahi9xk4jmmAVDGA4nW0PmsH8BBk-kF3NhiUyd3kiEnr57WygOn*yQ00iuztrRGW8ZXyF8ek*kcT0qhpNUSZwtUNU56iothgfx*VrFMz9Karz5cl&new=1)
- > 这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！01别了，快递员！配送机器人正式上路刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的智能配送...
- ## [美国打压华为，因忧虑后者在诸多科技行业可能改变全球格局](http://mp.weixin.qq.com/s?src=11&timestamp=1589076006&ver=2329&signature=SIXnlw-TR2*QJcElYM4CAX6mxGekAmSBNYUstudnK4KhVSkEesBtVFiJZ7pqqArJTQS64PkGBL2201xVTlz6BVXoCLIPfdGwCTTK4ncfralKFP*q5nLZEnXO*LIzXReB&new=1)
- > 美国对华为的招数可谓持续不断，最近又传出美国希望迫使华为开放5G技术，一个国家对一个企业连续出手可谓非比寻常，如果仔细分析华为在诸多科技行业所取得的成就，就会发现已隐隐有改变美国在科技行业领先的地位...
- ## [iPhone 基带是高通还是英特尔呢?教你快速辨别](http://mp.weixin.qq.com/s?src=11&timestamp=1589076006&ver=2329&signature=27*HMUeDbMdq9uyahALCuP1MtTRjORvAym0XrhC90Puvsbxqm*2NzF3iFlPIkKi62xmP0XPb7xNoUxYXmkDFs67xDTGCz145MUu48Q--mJDMMZikk0XVXF3bpq8UiA5S&new=1)
+ ## [全是干货!汽车行业488篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=Bf0o3oahPbL*3g3JUC*Oyso3AfhF2veM9bQPX8z6*GKlz9iJpQntBk4Q3kDM1ZeNAt8-qeZXPDFwDBWDfJmLLcRhYhIlcoHPBCxHrc-BRrmCcOQuRXGWQC5NWtVU**js&new=1)
+ > 汽车行业488篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享488份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [芬兰miniFactory高温3D打印系统登陆中国](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=lF8e-POH7wmkKgShJkdE-xuYfm78S6De7tTBySkis-gMlGijiM8XuH0muJWH9r*EbPADslJYWey9ZL24g8lU8OnqS0BeETFxQ6b0Xa-EnN6rsvoxYVFfJoI4z-KXYI*T&new=1)
+ > miniFactory是欧洲著名的3D打印设备制造商，总部位于芬兰，致力于打造具有最佳效果的高性能超聚物3D打印零部件系统，提供整套的设备和技术解决方案。南极熊了解到，其全新的3D打印机ULTRA能够稳定的打印ULTEM、P...
+ ## [iPhone 基带是高通还是英特尔呢?教你快速辨别](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=27*HMUeDbMdq9uyahALCuP1MtTRjORvAym0XrhC90PsVdWBbvOzpLSEpHWILKVQkAqENVfU*bZ6lUsbTpElQ*aKPQwBzGdF9KTiCU*2t8PcaTinAdy11-2KTkkYhF-5l&new=1)
  > iPhone 手机基带有两个提供厂商，高通和英特尔。我的 iPhone 使用的是究竟哪家的基带呢？今天教大家如何辩解基带型号的方法。辩解iPhone基带型号首先，什么是基带？ 基带，Baseband，在 iPhone 中基带是管理无...
- ## [重磅|FreeBuf咨询&深信服《2019年金融行业网络安全报告》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1589076006&ver=2329&signature=HVIJwdSNv1n-H9EIqStuvMSe5OKxp2DQo*uem756EuSN1tbCc6mws1mvaemxdh0tJdrQEbCFbHdmOGk6RjzuyEw6VkThHNeIXGwdzx1DwUP-BUc4OXZKD2qd8jo5Yq4B&new=1)
+ ## [再见了，快递员!北京打响第一枪!再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=LG0sPVPixZmSgjr9sahi9xk4jmmAVDGA4nW0PmsH8BCP7ceyzUiVUcJmF-ZsSp86GT0jB52VexolbL18v1piW4aCWV*OIZ*mxXVTv05S0VmLFSOzdDK8jUbA57I9p5wB&new=1)
+ > 这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！01别了，快递员！配送机器人正式上路刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的智能配送...
+ ## [美国打压华为，因忧虑后者在诸多科技行业可能改变全球格局](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=SIXnlw-TR2*QJcElYM4CAX6mxGekAmSBNYUstudnK4Ldajg7SpP1QYsbbYmtOt00ANDr6Tc8UE*xvvZVRX-iWmy4WSx6Oml6hNqHL23VrR5nvDnLzrEH2Ug5S4UIJw4M&new=1)
+ > 美国对华为的招数可谓持续不断，最近又传出美国希望迫使华为开放5G技术，一个国家对一个企业连续出手可谓非比寻常，如果仔细分析华为在诸多科技行业所取得的成就，就会发现已隐隐有改变美国在科技行业领先的地位...
+ ## [重磅|FreeBuf咨询&深信服《2019年金融行业网络安全报告》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=HVIJwdSNv1n-H9EIqStuvMSe5OKxp2DQo*uem756EuTF17EYKBsMwkee8aTEbcm7qsas59UFkKXIlHBVKsRfp7xXc1vNiIjSeloZQOcHerokoCP7OdVyAu0R3h*PzPlx&new=1)
  > 2020年伊始，一场突如其来的疫情给各行各业都按下了「慢放」键，也因此让我们有了更充分的时间来总结思考2019年的行业形势。在平稳迈过疫情这道坎的同时，为2020年接下来的发展积蓄动力。2019年，金融行业逐渐从...
- ## [重磅发布!雄安新区智能城市建设标准体系框架和第一批标准成果来啦](http://mp.weixin.qq.com/s?src=11&timestamp=1589076006&ver=2329&signature=v*-IJXd7NhR4Y3PYM8L9YTfSHJF6tU8HeaWhgyG2JpH2kUUh4b5npUjNMxZCzpVubdixPswAzkZR8HyztepyMIxtVTdvty11PApKiJVkuQhvwvYWRQlvYUYba6o*cRKQ&new=1)
+ ## [重磅发布!雄安新区智能城市建设标准体系框架和第一批标准成果来啦](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=v*-IJXd7NhR4Y3PYM8L9YTfSHJF6tU8HeaWhgyG2JpGvNSLOJy97y5s8w2UHX0ha5a5mreFWysO72N98SJ*747nM*Eo0OPe2c0s*5La-gIlG9a1nu8-zCJJbibFpxrYT&new=1)
  > 5月9日上午，雄安新区召开智能城市建设标准体系框架（1.0版本）和第一批标准成果发布会。河北省委常委、副省长，雄安新区党工委书记、管委会主任陈刚，中国工程院院士、中国工程院原副院长邬贺铨，中国工程院院...
- ## [一个5G基站补贴2.75万欧元，真壕!](http://mp.weixin.qq.com/s?src=11&timestamp=1589076006&ver=2329&signature=OZsf928oazA1wTxETMQT3wbF9DXM1O-w5N9j41KxmTr3GzMO2pb0wVcqNkIdxhOY6GGhOVS8lGhBdUhV6t*Q9vTf7lO2Yh1NuzEwywx7RIizx97oPvqIh9IylzQpjrPe&new=1)
+ ## [一个5G基站补贴2.75万欧元，真壕!](http://mp.weixin.qq.com/s?src=11&timestamp=1589081405&ver=2329&signature=OZsf928oazA1wTxETMQT3wbF9DXM1O-w5N9j41KxmTrE2BNPAwA-PNdnd*C3wV*ZW0NMFtKocdzHwwcQlO3INvYWQ*LDfX7M73rd7OLzb2tUxzE1mtnD*m78a7wI8a8b&new=1)
  > 5月6日，据奥地利媒体报道，奥地利首都维也纳市政府计划向移动运营商提供补贴，以加快全市5G网络部署。报道称，从2020年7月开始，当地移动运营商只要新建一个5G基站，就可获得2.75万欧元（约合人民币21万元）的...
 # IT 技术 
  ## [40岁了，还要跟小年青一样埋头敲代码吗？](http://news.51cto.com/art/202005/616136.htm)
@@ -39,6 +43,8 @@ categories: IT NEWS
  > Java 面试 1 小时，我看出了和月薪 3w 的差距
  ## [面试官问我Arrays.sort()为什么可以对int等数组进行排序，我跟面试官扯了半个小时](https://blog.csdn.net/qq_17623363/article/details/105981691)
  > 
+ ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
+ > 作为程序员，你在编程时吃了哪些数学的亏？
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
  ## [C语言入门系列之1.C语言概述和上机运行简单C程序](https://blog.csdn.net/CUFEECR/article/details/105532351)
@@ -63,40 +69,40 @@ categories: IT NEWS
  > 
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
- ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
- > 
 # 人工智能 
- ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/CSDNedu/article/details/101296078)
- > 学Python后到底能干什么？网友：我太难了
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
  ## [现在才明白：SQL原来这么重要！不会的人工作都不好找！](https://edu.csdn.net/course/detail/27328)
  > 现在才明白：SQL原来这么重要！不会的人工作都不好找！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
  ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
  > 2020年转行学Python，第一步！
- ## [开发APP、微信小程序、网页,都需要什么？](https://blog.csdn.net/qq_43688587/article/details/105930744)
- > 
- ## [程序员是如何看待薪资被高估的？内容过于真实......](https://blog.csdn.net/weixin_44985880/article/details/105966414)
- > 
- ## [什么是编译器？(程序是怎么跑起来的）](https://blog.csdn.net/hebtu666/article/details/105980143)
- > 什么是编译器？(程序是怎么跑起来的）
- ## [希望在座程序员都能明白“三季人”的故事（寿命+10）](https://blog.csdn.net/qq_39390545/article/details/105938397)
- > 
- ## [重构<3> -- 我是一个类，难道我不配有专属的测试代码吗？](https://blog.csdn.net/qq_43762191/article/details/105979934)
- > 重构&lt;3&gt; -- 我是一个类，难道我不配有专属的测试代码吗？
- ## [珍藏多年的神网站都捐了，你想要的我都有，有了这些网站工作生活不用愁](https://blog.csdn.net/bookssea/article/details/105894567)
- > 
- ## [学习编程的正确姿势！（不断试错总结的经验之谈，建议收藏！）](https://blog.csdn.net/sinat_33921105/article/details/105955935)
- > 
- ## [猿浪](https://blog.csdn.net/weixin_39653948/article/details/105981392)
- > 
- ## [女程序猿的苦恼：“26岁后，分手对我来说不是件容易的事情”](https://blog.csdn.net/zhang_cherry/article/details/106002413)
- > 女程序猿的苦恼：“26岁后，分手对我来说不是件容易的事情”
- ## [设计模式之策略模式](https://blog.csdn.net/qq_34839150/article/details/105988916)
- > 
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
- > 
- ## [为什么后浪不能让我产生共鸣](https://blog.csdn.net/weixin_43848827/article/details/105926981)
- > 为什么后浪不能让我产生共鸣
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
 # PM 
+ ## [设计万花筒丨如何进行有效的设计沟通](http://www.woshipm.com/pd/3839035.html)
+ > 沟通时一门技术活，如何恰到好处地表达自己的意见同时促进与对方的联系并不像我们认为的那么简单。本文作者对设计师如何进行有效沟通进行了分析总结，希望对你有用。N...
  ## [用户——战略落地和产品化的灵魂](http://www.woshipm.com/pmd/3815968.html)
  > 从明确战略目标开始，组织协同、制定实施计划、具体落地实施过程中，用户一直是关键，要摆放好和用户的关系，才能真正让战略落地运营起来。永远不要忘记你的用户…产...
  ## [关于付费会员制，为什么我们要选择它？](http://www.woshipm.com/marketing/3838189.html)
