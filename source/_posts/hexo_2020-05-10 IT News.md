@@ -1,21 +1,23 @@
 ---
 title: 2020-05-10 IT News
 copyright: true
-date: 2020-05-10 08:00:51
+date: 2020-05-10 09:00:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [一个5G基站补贴2.75万欧元，真壕!](http://mp.weixin.qq.com/s?src=11&timestamp=1589068805&ver=2329&signature=OZsf928oazA1wTxETMQT3wbF9DXM1O-w5N9j41KxmToeQl0T2KkRxdQLRe1cyFxJgW8JxoRAbEpFmkp0Sv5VmR46fRh3ZuJlMFeh9NZggJ4EXB-TotnlGdIPIm0eIHOk&new=1)
- > 5月6日，据奥地利媒体报道，奥地利首都维也纳市政府计划向移动运营商提供补贴，以加快全市5G网络部署。报道称，从2020年7月开始，当地移动运营商只要新建一个5G基站，就可获得2.75万欧元（约合人民币21万元）的...
- ## [iPhone 基带是高通还是英特尔呢?教你快速辨别](http://mp.weixin.qq.com/s?src=11&timestamp=1589068805&ver=2329&signature=27*HMUeDbMdq9uyahALCuP1MtTRjORvAym0XrhC90Pu5TmKJBuC13UFeT2I*S8p-PTF0d2fHMiRcDzlZan6BPbnH1ODpsGlZBKLSdfs-hvEHHjfzqqnBYSbMKLuGdLdO&new=1)
- > iPhone 手机基带有两个提供厂商，高通和英特尔。我的 iPhone 使用的是究竟哪家的基带呢？今天教大家如何辩解基带型号的方法。辩解iPhone基带型号首先，什么是基带？ 基带，Baseband，在 iPhone 中基带是管理无...
- ## [重磅|FreeBuf咨询&深信服《2019年金融行业网络安全报告》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1589068805&ver=2329&signature=HVIJwdSNv1n-H9EIqStuvMSe5OKxp2DQo*uem756EuSauYh2gdMlEamQ4Z**svFxGmtZYNQX8qrExlFWMnGYadUXiyM7CpBgbTUqPf83z7spvYPQacvLlDM8GLmrIShp&new=1)
- > 2020年伊始，一场突如其来的疫情给各行各业都按下了「慢放」键，也因此让我们有了更充分的时间来总结思考2019年的行业形势。在平稳迈过疫情这道坎的同时，为2020年接下来的发展积蓄动力。2019年，金融行业逐渐从...
- ## [重磅发布!雄安新区智能城市建设标准体系框架和第一批标准成果来啦](http://mp.weixin.qq.com/s?src=11&timestamp=1589068805&ver=2329&signature=v*-IJXd7NhR4Y3PYM8L9YTfSHJF6tU8HeaWhgyG2JpF*EfYA3gChA93nwVQQDgcZq-qnwLok5ztxCsm05tti5GvI1SZd0gwyNNBoWZKjYtF82PU6cuEVPMUiGK7N-suo&new=1)
- > 5月9日上午，雄安新区召开智能城市建设标准体系框架（1.0版本）和第一批标准成果发布会。河北省委常委、副省长，雄安新区党工委书记、管委会主任陈刚，中国工程院院士、中国工程院原副院长邬贺铨，中国工程院院...
- ## [再见了，快递员!北京打响第一枪!再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1589068805&ver=2329&signature=LG0sPVPixZmSgjr9sahi9xk4jmmAVDGA4nW0PmsH8BBxhbEDfxWP3oA62Id4mTcRtQrDpKmhVbEhWqOzwzR*L6NTZu2q-3k2Ln-BFQeRs5Z55Or9i0s62vx6*eitxAO0&new=1)
+ ## [再见了，快递员!北京打响第一枪!再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1589070660&ver=2329&signature=LG0sPVPixZmSgjr9sahi9xk4jmmAVDGA4nW0PmsH8BBk-kF3NhiUyd3kiEnr57WyhLwUOd2YiLv58tm64XbHiSCTvKolx1bMONdCjhJRYvHq6czIqW2DPQGHrHZGYAoW&new=1)
  > 这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！01别了，快递员！配送机器人正式上路刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的智能配送...
+ ## [重磅|FreeBuf咨询&深信服《2019年金融行业网络安全报告》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1589070660&ver=2329&signature=HVIJwdSNv1n-H9EIqStuvMSe5OKxp2DQo*uem756EuSN1tbCc6mws1mvaemxdh0tnfhaVzUDR1xQMYwqZbfUGUvzyPB2wad85-r1bQtMv0puwaF4CLFLcfRiYavOWV-a&new=1)
+ > 2020年伊始，一场突如其来的疫情给各行各业都按下了「慢放」键，也因此让我们有了更充分的时间来总结思考2019年的行业形势。在平稳迈过疫情这道坎的同时，为2020年接下来的发展积蓄动力。2019年，金融行业逐渐从...
+ ## [重磅发布!雄安新区智能城市建设标准体系框架和第一批标准成果来啦](http://mp.weixin.qq.com/s?src=11&timestamp=1589070660&ver=2329&signature=v*-IJXd7NhR4Y3PYM8L9YTfSHJF6tU8HeaWhgyG2JpH2kUUh4b5npUjNMxZCzpVuLEcmQheGBqMuD9nwvoWfF*XzXxLGSwl60B3YmNuvIUF4KiVOwzSRO63*o2l-prre&new=1)
+ > 5月9日上午，雄安新区召开智能城市建设标准体系框架（1.0版本）和第一批标准成果发布会。河北省委常委、副省长，雄安新区党工委书记、管委会主任陈刚，中国工程院院士、中国工程院原副院长邬贺铨，中国工程院院...
+ ## [iPhone 基带是高通还是英特尔呢?教你快速辨别](http://mp.weixin.qq.com/s?src=11&timestamp=1589070660&ver=2329&signature=27*HMUeDbMdq9uyahALCuP1MtTRjORvAym0XrhC90Puvsbxqm*2NzF3iFlPIkKi6blbJdI2xx2BUM4ap3pf25ocKgZrCxj*94YIhKe98GJvHlKCU3AusODkVDtWRIS0k&new=1)
+ > iPhone 手机基带有两个提供厂商，高通和英特尔。我的 iPhone 使用的是究竟哪家的基带呢？今天教大家如何辩解基带型号的方法。辩解iPhone基带型号首先，什么是基带？ 基带，Baseband，在 iPhone 中基带是管理无...
+ ## [美国打压华为，因忧虑后者在诸多科技行业可能改变全球格局](http://mp.weixin.qq.com/s?src=11&timestamp=1589070660&ver=2329&signature=SIXnlw-TR2*QJcElYM4CAX6mxGekAmSBNYUstudnK4KhVSkEesBtVFiJZ7pqqArJiPcoEnf87jXF4MhurWX1QSNvfJaPY*z*6QOvq1FGuSJDD42T8*Sy-R1oAxuDMAe7&new=1)
+ > 美国对华为的招数可谓持续不断，最近又传出美国希望迫使华为开放5G技术，一个国家对一个企业连续出手可谓非比寻常，如果仔细分析华为在诸多科技行业所取得的成就，就会发现已隐隐有改变美国在科技行业领先的地位...
+ ## [一个5G基站补贴2.75万欧元，真壕!](http://mp.weixin.qq.com/s?src=11&timestamp=1589070660&ver=2329&signature=OZsf928oazA1wTxETMQT3wbF9DXM1O-w5N9j41KxmTr3GzMO2pb0wVcqNkIdxhOYW9cNjKRHYgon82cTI*PoGGoxq8eA4byJhpTg4fWnhSAJW-Dy-gYNqz-lsijmaKlI&new=1)
+ > 5月6日，据奥地利媒体报道，奥地利首都维也纳市政府计划向移动运营商提供补贴，以加快全市5G网络部署。报道称，从2020年7月开始，当地移动运营商只要新建一个5G基站，就可获得2.75万欧元（约合人民币21万元）的...
 # IT 技术 
  ## [40岁了，还要跟小年青一样埋头敲代码吗？](http://news.51cto.com/art/202005/616136.htm)
  > 40岁了，还要跟小年青一样埋头敲代码吗？
@@ -33,12 +35,12 @@ categories: IT NEWS
  > 我讨厌关于PostgreSQL的10件事
  ## [解读：工信部25号文物联网政策](http://iot.51cto.com/art/202005/616053.htm)
  > 解读：工信部25号文物联网政策
+ ## [Java 面试 1 小时，我看出了和月薪 3w 的差距](https://edu.csdn.net/course/detail/27126)
+ > Java 面试 1 小时，我看出了和月薪 3w 的差距
  ## [面试官问我Arrays.sort()为什么可以对int等数组进行排序，我跟面试官扯了半个小时](https://blog.csdn.net/qq_17623363/article/details/105981691)
  > 
- ## [2020年！“用Python的，全是假程序员”！](https://edu.csdn.net/course/detail/26676)
- > 2020年！“用Python的，全是假程序员”！
- ## [程序员为什么要学数学，要学多难的数学？｜真实案例](https://edu.csdn.net/combo/detail/1473)
- > 程序员为什么要学数学，要学多难的数学？｜真实案例
+ ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
+ > 作为程序员，你在编程时吃了哪些数学的亏？
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
  ## [C语言入门系列之1.C语言概述和上机运行简单C程序](https://blog.csdn.net/CUFEECR/article/details/105532351)
@@ -64,36 +66,36 @@ categories: IT NEWS
  ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
  > 
 # 人工智能 
- ## [C++ Primer Plus 复习之路（5）-- 智能指针](https://blog.csdn.net/qq_43762191/article/details/105349931)
- > 
- ## [现在才明白：SQL原来这么重要！不会的人工作都不好找！](https://edu.csdn.net/course/detail/27328)
- > 现在才明白：SQL原来这么重要！不会的人工作都不好找！
  ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/CSDNedu/article/details/101296078)
  > 学Python后到底能干什么？网友：我太难了
- ## [Fabric和Spring以及Pool](https://blog.csdn.net/oe1019/article/details/105982128)
- > Fabric和Spring以及Pool
- ## [于池子银行流水泄露后小记](https://blog.csdn.net/weixin_44659309/article/details/105996442)
- > 于池子银行流水泄露后小记
- ## [区块链毕业搭建简易区块链实现](https://blog.csdn.net/b2bchain/article/details/105998780)
- > 区块链毕业搭建简易区块链实现
- ## [区块链是技术，不是金钱](https://blog.csdn.net/w18488129208/article/details/105969482)
- > 区块链是技术，不是金钱
- ## [Go基础：指针地址、指针类型、多重指针、指针运算](https://blog.csdn.net/fly910905/article/details/105989267)
+ ## [现在才明白：SQL原来这么重要！不会的人工作都不好找！](https://edu.csdn.net/course/detail/27328)
+ > 现在才明白：SQL原来这么重要！不会的人工作都不好找！
+ ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
+ > 2020年转行学Python，第一步！
+ ## [SQL 事务与锁 详解](https://blog.csdn.net/baishuiniyaonulia/article/details/105861688)
  > 
- ## [Ripple 的服务器状态](https://blog.csdn.net/jc0803kevin/article/details/106001071)
- > Ripple 的服务器状态
- ## [linux下面误删文件的恢复（附带简单原理介绍）](https://blog.csdn.net/kwb2015130086/article/details/106000201)
- > linux下面误删文件的恢复（附带简单原理介绍）
- ## [以太坊智能合约编译，部署以及打包调用【Mac系统】](https://blog.csdn.net/qq_37142346/article/details/105982454)
- > 以太坊智能合约编译，部署以及打包调用【Mac系统】
- ## [Beats：创建你自己的Beat](https://blog.csdn.net/UbuntuTouch/article/details/105956397)
+ ## [MySQL数据库的创建管理与操作](https://blog.csdn.net/qq_47018979/article/details/106005720)
  > 
- ## [Logisim计组实验七 乘法器](https://blog.csdn.net/treblez/article/details/105959714)
- > Logisim计组实验七 乘法器
- ## [Golang 切片详解一 内存布局](https://blog.csdn.net/qq_24599471/article/details/106000190)
- > Golang 切片详解一 内存布局
- ## [《深入理解Kafka:核心设计与实践原理》笔误及改进记录](https://blog.csdn.net/u013256816/article/details/87834419)
- > 《深入理解Kafka:核心设计与实践原理》笔误及改进记录
+ ## [Python连接MongoDB数据库](https://blog.csdn.net/weixin_44904817/article/details/105975704)
+ > Python连接MongoDB数据库
+ ## [超详细的MySQL8.0.20安装教程及其安装问题处理](https://blog.csdn.net/m0_46579864/article/details/105981304)
+ > 
+ ## [Mysql 之 入门一篇搞定](https://blog.csdn.net/u013919153/article/details/105974891)
+ > 
+ ## [MySQL第一节课总结](https://blog.csdn.net/weixin_47604101/article/details/105993633)
+ > MySQL第一节课总结
+ ## [MySQL命令大全](https://blog.csdn.net/weixin_44685869/article/details/105959692)
+ > 
+ ## [链表必学算法（三）：归并法](https://blog.csdn.net/AuthurWhywat/article/details/105994665)
+ > 链表必学算法（三）：归并法
+ ## [数据库初识](https://blog.csdn.net/weixin_47376521/article/details/105987980)
+ > 数据库初识
+ ## [MySQL 性能优化](https://blog.csdn.net/Bao_jingyu/article/details/105964501)
+ > 
+ ## [用SQL语句,删除掉重复的记录](https://blog.csdn.net/huang_yun_dong/article/details/105990202)
+ > 用SQL语句,删除掉重复的记录
+ ## [初识数据库](https://blog.csdn.net/lmachi/article/details/105998081)
+ > 初识数据库
 # PM 
  ## [别再只会说辛苦了，母亲节话题营销还可以这样做](http://www.woshipm.com/marketing/3834824.html)
  > 母亲节怎么去做话题营销，我们会从三个方面来解构：第一个是话题文案，第二个是产品社交化，第三个是体验营销活动。1. 成长，世界关联词有走远，长大，追求。话题文...
