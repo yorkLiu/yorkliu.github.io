@@ -1,7 +1,7 @@
 ---
 title: 2020-05-11 IT News
 copyright: true
-date: 2020-05-11 12:01:08
+date: 2020-05-11 17:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -82,15 +82,19 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [英国电信FTTP光纤宽带建设进程受影响：原因是限制华为和疫情](http://mp.weixin.qq.com/s?src=11&timestamp=1589167859&ver=2331&signature=3-y1lpjJiS30vZCr8c9oTSkTD11a743SVmSN*z-IC6cE2M30oD-MwRdp48ZeVXmYvv4F*IcVUgUoYmYK4KAJO4uCSHwwZZGGvSCv6KhfsFJJeMZYBg1FfY-BF1yy2m7a&new=1)
+ ## [国家数字化转型的基础、手段与目标 ——“上云用数赋智”实施方案解读与剖析](http://mp.weixin.qq.com/s?src=11&timestamp=1589187605&ver=2331&signature=57k0sBJp-4TLjs*wpHzZh0tVV3SQhWm3AmmJ61Rhn-V-lnKddwJLYhi-kRfczOJSOHFZFE3MvagTSS7q68HBL4nlVIXBAvJLOS-C9UnsiFD4yjQ7ycg*xy7ATJbyQAQ8&new=1)
+ > 本文作者为腾讯安全战略研究 高级研究员 刘鑫我国经济已经进入由高速增长转向中高速增长的“新常态”，以廉价劳动力、土地、资源、资本等要素驱动力逐渐减弱，科技创新需求明显提升。在这一过程中，数字技术的发...
+ ## [英国电信FTTP光纤宽带建设进程受影响：原因是限制华为和疫情](http://mp.weixin.qq.com/s?src=11&timestamp=1589187605&ver=2331&signature=3-y1lpjJiS30vZCr8c9oTSkTD11a743SVmSN*z-IC6fLv5JmtzY4MgKWO-iNPnOrgugpTOjNL*2qcIni2qV*Kgov7e9vdwHtwwedDluKjsqX4*lznOvSeRlCeL2e4oLp&new=1)
  > 据外媒报道，英国电信旗下网络基础设施公司Openreach或将调整“Fibre First”计划FTTP（光纤到户）建设目标。早在2018年7月，该公司计划与华为和诺基亚合作，基于这两家设备商提供的10G PON FTTP设备，争取在202
- ## [当心!这些设备正在“出卖”你的隐私](http://mp.weixin.qq.com/s?src=11&timestamp=1589167859&ver=2331&signature=pg77FQWkQErGyrWQkJlTdF6R*VTMuXupLef4asjub00iILY7soaFxYVZgGSfYj07YOip12KhHWaGXsQQ*ygmZCtwGuUdx8PPfdJJnPuodF-qnwnbeDB78kRQI3PATn0z&new=1)
+ ## [当心!这些设备正在“出卖”你的隐私](http://mp.weixin.qq.com/s?src=11&timestamp=1589187605&ver=2331&signature=pg77FQWkQErGyrWQkJlTdF6R*VTMuXupLef4asjub02*AWJm7QVUVa8F82T8-5*iawuYafroxVEnkENRayCiYXoMRIE8tiVwBkt1m6a1GoJmXVaQugeYm18DP3zXrkUM&new=1)
  > 随着物联网发展进程加快，物联网智能摄像头、智能家电设备愈发受到青睐。然而，一些创造便利的物联设备也可能成为不法分子窥探隐私的“千里眼”“顺风耳”，形成网络化、链条化的黑色产业链。一些卧室早已没有秘...
- ## [北京蓝色思维入驻未知大陆，专注光敏树脂在线打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1589167859&ver=2331&signature=VwUFChPVPLARhrPlUYnI8Ka7DGg9x4B4sAwVKs*R3QSTsaWcl*pCOlXZrfmb9SdLSh8NolwnhF2m5*qBPfNxDJ801ESr8dBz1Pb8uRK7Hg0g6-KUpoann7om4lw7yEvV&new=1)
+ ## [北京蓝色思维入驻未知大陆，专注光敏树脂在线打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1589187605&ver=2331&signature=VwUFChPVPLARhrPlUYnI8Ka7DGg9x4B4sAwVKs*R3QTH6C-TiqkauET3rLb835meAB3cC2IghlCKDZLz7dhh3EQY-RCFf8E1EKITpTYRs5CxglWu7brjldq57jPiB71m&new=1)
  > 2020年5月10日，北京蓝色思维科技有限公司在未知大陆平台开设的3D打印服务中心正式上线运营。北京蓝色思维可以提供从设计建模、打印服务、后处理、逆向工程等整体解决方案。目前，北京蓝色思维科技有限公司专注...
- ## [自主可控的关键一步!](http://mp.weixin.qq.com/s?src=11&timestamp=1589167859&ver=2331&signature=8RCZ9ndh9be6mFVLuhFwYYn3HQsnI7GG5DnyEvirkWGUTaYE0VLDfH34Pal5bSxKnVmYNYh7wH9vwXswynvCBl766IS-faS00ziM8pzzKsCh91SDBMxEn2zebug*fT4U&new=1)
+ ## [自主可控的关键一步!](http://mp.weixin.qq.com/s?src=11&timestamp=1589187605&ver=2331&signature=8RCZ9ndh9be6mFVLuhFwYYn3HQsnI7GG5DnyEvirkWFTw5h9cPSrHTP*ippqAhfTXILCuUTzR6sbw1E0iqenThs48XPTbRmgICXa-QUMdEludGj7CmFimc1BEsi3SfJf&new=1)
  > 5月7日，中国电信公布2020服务器集中采购项目规模情况，预计集中采购合计服务器56314台，其中包含Intel（I）系列服务器、AMD（A）系列服务器，以及包含华为鲲鹏920芯片或海光Hygon Dhyana（H系列）系列处理器的...
 # IT 技术 
+ ## [DDoS出租服务SuperiorStresser运营商被判缓刑](http://netsecurity.51cto.com/art/202005/616242.htm)
+ > DDoS出租服务SuperiorStresser运营商被判缓刑
  ## [如果全世界的程序员突然消失了，会发生什么？](http://news.51cto.com/art/202005/616219.htm)
  > 如果全世界的程序员突然消失了，会发生什么？
  ## [关于Kubernetes Prometheus的六款替代工具!](http://netsecurity.51cto.com/art/202005/616210.htm)
@@ -105,46 +109,38 @@ categories: IT NEWS
  > 新手必会的9个Python技巧！
  ## [佩服！ping命令还能这么玩？](http://os.51cto.com/art/202005/616188.htm)
  > 佩服！ping命令还能这么玩？
- ## [为什么你会被限制登录网页版微信？](http://developer.51cto.com/art/202005/616177.htm)
- > 为什么你会被限制登录网页版微信？
- ## [2020年4月全球恶意软件感染量上升至4亿](http://netsecurity.51cto.com/art/202005/616249.htm)
- > 2020年4月，全球恶意软件感染量上升至4.04亿，每天感染1000万-Atlas VPN。
- ## [重要的漏洞披露渠道：社交媒体](http://zhuanlan.51cto.com/art/202005/616248.htm)
- > 一提到漏洞披露，人们首先想到的是漏洞赏金平台或者国家漏洞库之类，但事实上，最重要的、最“及时”的漏洞
- ## [Pdf转Word用Python轻松搞定！](http://developer.51cto.com/art/202005/616247.htm)
- > 大家在日常的工作学习过程中，都会遇到一个问题就是将pdf中的文本内容转化为word的形式，也就是从只读变成
- ## [微软福利：Windows7和8.1系统仍可免费升至Windows10](http://os.51cto.com/art/202005/616245.htm)
- > 近日，据外媒Windowslatest消息，Windows 10的原始免费升级优惠已在多年前正式到期，但通过他们实际的测试
- ## [程序员经典面试题，MySQL自增主键为什么不连续_技术周刊第626期](http://news.51cto.com/art/202005/616244.htm)
- > 技术资讯尽在技术周刊
- ## [物联网技术迎来“三驾马车”时代：Cat 1中速率岗位转正，干就完了！](http://iot.51cto.com/art/202005/616246.htm)
- > Cat 1在中等速率物联网连接市场的岗位已经转正，那么，Cat 1凭什么能在中速率市场担当大任?业界厂商对于Cat
- ## [2025年，全球智能家居自动化市场规将达1332亿美元](http://iot.51cto.com/art/202005/616241.htm)
- > 据报道，市场研究机构brandessenceresearch最新发布的一份题为“智能家庭自动化市场规模”的研究报告，预测
- ## [网络工程中的割接是什么意思？](http://network.51cto.com/art/202005/616240.htm)
- > 网络割接动作，可能是为了调整网络结构、新增或者替换网络设备、更换线路、更改设备配置或者其他针对网络的
- ## [浅谈分布式一致性协议之2PC](http://network.51cto.com/art/202005/616243.htm)
- > 在了解分布式一致性的理论和概念之后，后续将和大家一起讨论分布式一致性协议，其中包括：2PC、3PC、Paoxs
- ## [人工智能如何帮助人们找到爱情](http://ai.51cto.com/art/202005/616239.htm)
- > 在过去的十年中，有大量的情侣在网上结识。用约会应用找到爱情已经是每天的现实。由于我们忙碌的生活方式和
+ ## [5G消息App上线仅一天下架 中国移动官方如此回应](http://mobile.51cto.com/news-616290.htm)
+ > “5G消息”是中国移动开发的，基于5G网络通讯技术的新一代社交App。中国移动推出的5G消息App于5月10日上线
+ ## [智能交通市场展望，2024年规模将达1300亿美元](http://www.cioage.com/art/202005/616289.htm)
+ > 据市场调研机构Decresearch发布的报告，近年来，智能技术在运输领域的强大渗透使全球智能运输市场趋势获得
+ ## [智慧城市的网络安全挑战：关键问题和主要威胁](http://netsecurity.51cto.com/art/202005/616288.htm)
+ > 全球城市人口正在急速增加，智慧城市发展项目正在利用物联网(IoT)的力量来开发更智能、高效和可持续的解决
+ ## [四个拦路虎，击碎中小厂商的5G逆袭梦](http://news.51cto.com/art/202005/616283.htm)
+ > 每次通信技术的升级，都伴随着手机市场格局的洗牌，缘何5G时代中小厂商的“逆袭梦”却碎了呢?这不得不提5G
+ ## [如何写出简洁的 CQRS 代码？](http://developer.51cto.com/art/202005/616285.htm)
+ > 命令和查询责任分离(CQRS)是指将数据存储的读取和更新操作分开的一种模式。实施 CQRS 据称可以提高性能、
+ ## [谷歌：2020年5月核心算法更新，一大批网站将受到影响](http://developer.51cto.com/art/202005/616281.htm)
+ > 谷歌算法，可以说是每年都会进行上百次的更新(这种更新谷歌一般都默不作声)，但重大的更新一年差不多就一两
+ ## [“2G，再见！”工信部正式官宣，网友：老人机该扔了？](http://network.51cto.com/art/202005/616279.htm)
+ > 随着科技的发展，我们这一代人见证了2G网络到5G网络的发展，很多手机品牌也推出了新款手机，不过尽管5G时代
+ ## [谁发明了物联网？](http://iot.51cto.com/art/202005/616280.htm)
+ > 1965年的越南战场，美军正深陷战争泥潭。突然有一天，北越士兵在胡志明小道发现了一些奇怪的东西。这些东
+ ## [JDK 15：Java 15中的新功能](http://developer.51cto.com/art/202005/616278.htm)
+ > 随着Java 14于3月17日全面上市，将在2020年9月15日推出Java 15的后续产品。到目前为止，已经计划对该版本进
+ ## [边缘智能：人工智能的下一波浪潮](http://ai.51cto.com/art/202005/616274.htm)
+ > 随着人工智能和机器学习(ML)的采用率上升，以算法形式处理大量数据以实现计算目的的能力变得越来越重要。
  ## [面试官问我Arrays.sort()为什么可以对int等数组进行排序，我跟面试官扯了半个小时](https://blog.csdn.net/qq_17623363/article/details/105981691)
  > 
- ## [刚回应！删库报复！一行代码蒸发数10亿！](https://blog.csdn.net/CSDNedu/article/details/104775411)
- > 刚回应！删库报复！一行代码蒸发数10亿！
- ## [马云曾经偶像，终于把阿里留下的1400亿败光了！](https://blog.csdn.net/CSDNedu/article/details/96436633)
- > 马云曾经偶像，终于把阿里留下的1400亿败光了！
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
  ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
  > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
- ## [你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平](https://blog.csdn.net/likun557/article/details/105154280)
- > 你期望月薪4万，出门右拐，不送，这几个点，你也就是个初级的水平
+ ## [一网打尽！每个程序猿都该了解的黑客技术大汇总](https://blog.csdn.net/xuanyuan_fsx/article/details/104967382)
+ > 
  ## [C语言入门系列之1.C语言概述和上机运行简单C程序](https://blog.csdn.net/CUFEECR/article/details/105532351)
  > 
  ## [原谅我一直对B站有误解！](https://blog.csdn.net/hollis_chuang/article/details/105525238)
  > 原谅我一直对B站有误解！
- ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
- > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [Idea自动生成代码神器EasyCode，让你如虎添翼](https://blog.csdn.net/wo541075754/article/details/105961353)
@@ -157,59 +153,65 @@ categories: IT NEWS
  > 大三实习生，字节跳动面经分享，已拿Offer
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
+ ## [终于懂了TCP和UDP协议区别](https://blog.csdn.net/qq_17623363/article/details/105109907)
+ > 终于懂了TCP和UDP协议区别
+ ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
+ > 
+ ## [在三线城市工作爽吗？](https://blog.csdn.net/qing_gee/article/details/104323806)
+ > 
 # 人工智能 
  ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
  > 2020年转行学Python，第一步！
+ ## [Andrew Ng Machine Learning——Work(Two)——Logistic regression——Regularized(Based on Python 3.7)](https://blog.csdn.net/PRINCE2327/article/details/106014525)
+ > 
+ ## [程序员的基本功：从0开始学Python数据分析与挖掘](https://edu.csdn.net/course/detail/6861)
+ > 程序员的基本功：从0开始学Python数据分析与挖掘
  ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/CSDNedu/article/details/101296078)
  > 学Python后到底能干什么？网友：我太难了
- ## [eu5,eu7,ex3,ex5安装第三方app](https://blog.csdn.net/robinhunan/article/details/105963936)
- > eu5,eu7,ex3,ex5安装第三方app
- ## [【2020年第二届“网鼎杯”网络安全大赛 青龙组】Web AreUSerialz](https://blog.csdn.net/vanarrow/article/details/106041499)
- > 【2020年第二届“网鼎杯”网络安全大赛 青龙组】Web AreUSerialz
- ## [Web安全-一句话木马](https://blog.csdn.net/weixin_39190897/article/details/86772765)
- > Web安全-一句话木马
- ## [【2020年第二届“网鼎杯”网络安全大赛 青龙组】Web AreUSerialz](https://blog.csdn.net/HYD696/article/details/106039771)
- > 【2020年第二届“网鼎杯”网络安全大赛 青龙组】Web AreUSerialz
- ## [Java面试之Get请求和Post请求](https://blog.csdn.net/weixin_42636743/article/details/106032919)
- > Java面试之Get请求和Post请求
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ ## [【数据分析与可视化】2020最新Python数据分析入门与实践](https://blog.csdn.net/weixin_43469680/article/details/105522113)
+ > 【数据分析与可视化】2020最新Python数据分析入门与实践
+ ## [一线大厂资深APP性能优化系列-异步优化与拓扑排序（二）](https://blog.csdn.net/u010302765/article/details/106037940)
  > 
- ## [怎么才可以在网上找到一些符合自己口味的开源项目呢](https://blog.csdn.net/qq_43612538/article/details/106023825)
- > 怎么才可以在网上找到一些符合自己口味的开源项目呢
- ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
+ ## [机器学习介绍及线性回归技术总结](https://blog.csdn.net/weixin_45092215/article/details/106033448)
  > 
- ## [你真的懂for update?(面试必备)](https://blog.csdn.net/qq_40891009/article/details/106007658)
+ ## [【Kaggle】第一次提交 Titanic](https://blog.csdn.net/qq_21201267/article/details/106018582)
+ > 【Kaggle】第一次提交 Titanic
+ ## [直击痛点：一招搞定GitHub开源项目下载加速！](https://blog.csdn.net/youif/article/details/106015749)
  > 
- ## [2020网鼎杯boom逆向](https://blog.csdn.net/qq_40930096/article/details/106040539)
- > 2020网鼎杯boom逆向
- ## [攻防世界 --CTF小白](https://blog.csdn.net/weixin_43550772/article/details/106028357)
- > 攻防世界 --CTF小白
- ## [【2020年第二届“网鼎杯”网络安全大赛 青龙组】MISC 签到题](https://blog.csdn.net/vanarrow/article/details/106041202)
- > 【2020年第二届“网鼎杯”网络安全大赛 青龙组】MISC 签到题
- ## [安卓中的单例模式代码（Java+Kotlin）](https://blog.csdn.net/xumiya3470/article/details/106029066)
- > 安卓中的单例模式代码（Java+Kotlin）
+ ## [Python语言概述](https://blog.csdn.net/qq_41575507/article/details/106004192)
+ > 
+ ## [Python头像动漫化，快来生成一个自己的动漫头像吧](https://blog.csdn.net/ZackSock/article/details/106010757)
+ > 
+ ## [DL之FAN：基于人工智能算法偶像和明星渐变卡通形象](https://blog.csdn.net/qq_41185868/article/details/106033011)
+ > DL之FAN：基于人工智能算法偶像和明星渐变卡通形象
+ ## [两次刷新世界纪录，这个中国程序员有点牛！](https://blog.csdn.net/csdnsevenn/article/details/106009646)
+ > 两次刷新世界纪录，这个中国程序员有点牛！
+ ## [Andrew Ng Machine learning——Work(One)——Logistic regression——Bipartition(Based on Python 3.7)](https://blog.csdn.net/PRINCE2327/article/details/106006904)
+ > 
+ ## [Kaggle比赛ALASKA2图像隐写分析](https://blog.csdn.net/qq_37924224/article/details/105949359)
+ > 
 # PM 
- ## [《青春有你2》新观影产品体验，给你出了一道“互动”选择题](http://www.woshipm.com/it/3837184.html)
- > 全球流媒体的竞争，已经从内容的竞争，变为“技术+内容”的竞争。当技术成为新娱乐的载体，谁能更敏锐地捕捉到新技术，谁就可能抢先一步。最近，《青春有你2》真是把微...
- ## [产品需求文档：后台管理系统](http://www.woshipm.com/evaluating/3796072.html)
- > 本文以一款公司后台管理系统产品为例，展开了一份多维度且详实的产品需求文档。一、产品定位和目标人群产品定位：公司后台管理系统目标用户人群：公司内部业务人...
- ## [B端产品交付（一）：灯塔项目的价值远远大于电梯间的广告](http://www.woshipm.com/pmd/3821814.html)
- > 本文意在通过大型的B端产品交付项目的得与失，总结灯塔项目的重要性，为B端产品的市场推广、运营、售前、交付提供参考。灯塔是位于海岸、港口或河道，用以指引...
- ## [B站不是流量金矿](http://www.woshipm.com/it/3835846.html)
- > B站的流量快到顶了。诚然，我们此前的报道中多次提及：B站的流量聚集效应会进一步，以及，B站作为一个泛娱乐的社区化视频网站的定位长期不变。（B站增长态势，据财...
- ## [公开课 | 0基础距离大厂有多远？前阿里高级产品经理教你正确入门！](http://www.woshipm.com/open/3843279.html)
- > 0基础距离大厂有多远？我们来看两个大厂的招聘要求：大厂A有3年以上互联网产品经验，优秀的产品规划和设计能力熟悉数据分析，有良好的逻辑性和结构性思维以及产品架...
- ## [B端产品项目，内部需求如何调研梳理？](http://www.woshipm.com/pd/3811008.html)
- > 本文从调研目的、准备、过程、结果、注意事项五方面总结了调研的一整套流程。与大家分享！这篇文章主要是针对企业内部的需求调研，不涉及新业务开发与拓展模式的调研...
- ## [网文巨头的IP梦：如何与时间做朋友？](http://www.woshipm.com/it/3834048.html)
- > 近段时间，阅文合同引发了巨大的争议，关于网文、作者的权益，各方面的讨论此起彼伏。那么，在未来腾讯的IP开发之路又去向何方？这会给同行留下怎样的启示？巴蜀鬼见...
- ## [社群运营那么难，如何让他自动运行？](http://www.woshipm.com/operate/3833663.html)
- > ​本文给大家介绍两个案例，看在做社群运营的时候，怎么做到高效管理。最近有付费的同学向邹叔提问：公司做教育，社群非常多，如何才能高效的管理呢？分销怎么才能做好...
- ## [B端产品统计功能设计之统计字段怎么选？](http://www.woshipm.com/pd/3832237.html)
- > 完整的功能设计需要很多方面的思考，本篇文章主要来梳理一下统计功能中的重要组成部分——“统计字段”的设计思路。领导：今年全部实现信息化办公，所有流程都要通过系统...
- ## [如何判定一个框架层的好坏？](http://www.woshipm.com/pd/3832465.html)
- > 用户体验五要素大家都很熟悉，很多产品分析、竞品分析都会从这五个维度去分析，那么今天来看看如何判定一个框架层的好与坏。五要素都是环环相扣的，框架层的定义离不...
- ## [如果没有版权优势，QQ音乐该往哪寻找突破口](http://www.woshipm.com/it/3804861.html)
- > 版权竞争日益激烈，但仅靠版权优势，QQ音乐也很难有爆发性增长了，甚至不排除未来版权优势不再明显。因此，未来如何能从其它业务方向寻找下一个爆发点，再次拉开与其它...
+ ## [案例演示：ToB领域的权限体系实战](http://www.woshipm.com/pd/3837957.html)
+ > 文章从权限模型出发，结合具体案例分享了To B 的权限体系设计关键环节和需要注意的问题，与大家分享。背景之前在另一篇文章里介绍了权限体系的基础概念如RBCA和ACL，...
+ ## [案例复盘：我把一项冷门运动做“热”，并成为了行业第一](http://www.woshipm.com/marketing/3837711.html)
+ > 本文将向你完整复盘国内网球连锁品牌：SUNCOOL尚酷网球，是如何通过重新定位与体验升级，把这项无人问津的冷门运动“搞热”，成为国内第一连锁品牌的。内容点预告：网...
+ ## [“画音”：熟人社交的突围，从00后开始？](http://www.woshipm.com/pd/3839729.html)
+ > 作为一款面向00后、10后，复刻国外独角兽的模式的熟人社交软件——画音，面临机遇同时也面临巨大挑战：如市场的考验、巨头的吞并、国情等等。一、听说有一款APP想做视频...
+ ## [大型ERP系统必不可少的通用性功能：自定义单据](http://www.woshipm.com/pd/3840432.html)
+ > 「自定义单据」功能相对比较独立，应用场景也很广泛，可以在ERP、电商平台、内容管理、表单收集等多种类型的软件系统中通用。本文重点介绍了「自定义单据」功能的设计，...
+ ## [公众号投放：我踩过的坑和换来的思考](http://www.woshipm.com/operate/3833922.html)
+ > 这篇文章，作者主要分享了自己在公众号投放上遇到的问题和思考，希望能对你有所帮助，避免踩坑。最近在团队里，也在做一些投放的工作，从去年12月份到现在已经连续做...
+ ## [高颜值学习博主，短视频的流量洼地](http://www.woshipm.com/it/3841965.html)
+ > 文章分享了5个代表性的学习博主，对他们的视频内容及特点展开了分析，带我们全面了解高颜值学习博主吸粉背后的秘密。颜值已经不是短视频的杀手锏，长得好看的人太多了...
+ ## [以英国某电商平台的年销售数据为例，讲讲从数据清洗到可视化的整个流程怎么做](http://www.woshipm.com/data-analysis/3837203.html)
+ > 本文选取了英国某电商平台的年销售数据，从7个方面进行拆解和分析，完成了从数据清洗到可视化的一整套流程。数据对于互联网+的商业模式存在巨大的价值，在业务中我们...
+ ## [运用增长方法思考，如何实现新用户转化？](http://www.woshipm.com/operate/3839527.html)
+ > 本文从明确转化目标、寻找优化机会点及设计方案这三方面，分享我在项目中的思考和收获。在平时的工作中，我们经常会接到「提高 xx 转化率」的需求。但多数时候，我们...
+ ## [AI加持下，“扫一扫”能玩出哪些花样？](http://www.woshipm.com/ai/3644719.html)
+ > 随着AI算法效果的不断提升，扫一扫的对象已经从码图扩展到各种真实生活中的领域，那在现有的基础上，“扫一扫”能玩出哪些花样？“扫一扫”是我们在日常生活中使用频率比...
+ ## [互联网红利逐步消退，网约车行业何去何从？](http://www.woshipm.com/chuangye/3838976.html)
+ > 本文总结了6个互联网商业模式，就出行行业的商业模式给出了3点自己的建议。随着互联网红利逐步消退，只谈情怀不谈赚钱的公司越来越少，也越来越无法生存。而越来越红...
+ ## [关于原子设计，看这一篇就够了](http://www.woshipm.com/pd/3841137.html)
+ > 现在上车“原子设计”还来得及吗？本文对原子设计的概念，好处进行分析解读，并总结了原子设计对设计系统和团队的影响，与大家分享。原子设计的概念在2016年最先被Brad ...
 
     
