@@ -1,7 +1,7 @@
 ---
 title: 2020-05-12 IT News
 copyright: true
-date: 2020-05-12 10:00:54
+date: 2020-05-12 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -96,32 +96,32 @@ categories: IT NEWS
  > 网络工程中的割接是什么意思？
  ## [我最终还是从Chrome换到了Firefox](http://developer.51cto.com/art/202005/616284.htm)
  > 我最终还是从Chrome换到了Firefox
- ## [漫话：为什么计算机起始时间是1970年1月1日？](http://biz.51cto.com/art/202005/616337.htm)
- > 1970-01-01对于开发者来说都是不陌生的，有些系统对于时间的处理如果不够好的话，就可能把时间显示成1970-0
- ## [Linux操作系统基础的网络管理知识](http://network.51cto.com/art/202005/616334.htm)
- > 今天的笔记主要是关于Linux操作系统基础的相关知识。下面，我们一起来看。
- ## [五分钟了解浏览器工作原理](http://developer.51cto.com/art/202005/616331.htm)
- > Web 浏览器无疑是用户访问互联网很常见的入口。浏览器凭借其免安装和跨平台等优势，逐渐取代了很多传统的富
- ## [一个时代结束了！Google "教父" Eric Schmidt 已离职：他是如何成就 Google 帝国的？](http://news.51cto.com/art/202005/616335.htm)
- > 长江后浪推前浪，但后浪也需要前浪的引领。在 Google 二十余年的发展潮流之中，Eric Schmidt 就是这样一个
- ## [这5个VS扩展提高你的开发兴趣](http://developer.51cto.com/art/202005/616329.htm)
- > VSCode 为我们提供了一个小颜色框作为参考，但它还不够大，无法判断相似颜色之间的差异。Color Highlight
- ## [微软 GitHub 账号 500GB 数据被黑客窃取，并声称要免费泄露，网安公司：这没什么好怕的！](http://news.51cto.com/art/202005/616336.htm)
- > 近日，据外媒报道，有黑客声称从微软的私人 GitHub 存储库中窃取了超过 500GB 的数据，并联系了 Bleeping C
- ## [Linux下几个与磁盘空间和文件尺寸相关的命令](http://os.51cto.com/art/202005/616330.htm)
- > 硬盘是计算机非常重要的一个部件，不管是代码，还是 UI 、声音、文档，抑或是没人时偷偷看的小视频，都需要
- ## [前端开发的瓶颈与未来之路](http://news.51cto.com/art/202005/616333.htm)
- > 前端开发的瓶颈到底在哪里，前端技术是否已经走到一个十字路口，全栈化的系统架构是否能改变目前的窘境？
- ## [再见，“阿里三代掌门人”蒋凡！](http://zhuanlan.51cto.com/art/202005/616332.htm)
- > 蒋凡从没想到，自己会以这样的方式成为名人。老婆在微博上点名手撕小三，转瞬间变成互联网行业里的深水炸弹
- ## [为什么 IPv6 难以取代 IPv4](http://network.51cto.com/art/202005/616328.htm)
- > 工程师的想象力是无穷的，在过去的十几年间，我们尝试通过各种办法为 IPv4 协议续命延缓 IP 资源耗尽的时间
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
+ ## [为什么要发行数字人民币？那时你会第一时间使用吗？](http://www.cioage.com/art/202005/616376.htm)
+ > 作为全球首个发布数字货币的国家，这个以“区块链技术”为底层架构的数字货币到底是什么?国家为什么要发行
+ ## [实用开源Javascript库，10大图像处理库推荐](http://developer.51cto.com/art/202005/616374.htm)
+ > 对于很多人来说，使用Javascript来处理图像不是一件非常简单的事情，幸运的是我们可以借助第三方的库来实现
+ ## [顶级企业资源规划系统的关键特性](http://news.51cto.com/art/202005/616371.htm)
+ > 采用企业资源计划(ERP)软件使财务、人力资源、采购、分销和其他部门的业务流程标准化、精简和集成。企业需
+ ## [新冠病毒大流行为数字语音技术注入了新动力](http://ai.51cto.com/art/202005/616368.htm)
+ > 语音助手不仅可以回答查询和购物，而且还可以用于智能家居控制以及一系列商务和医疗应用。
+ ## [苹果聘多位云计算"技术大牛"，不想再依赖AWS谷歌？](http://news.51cto.com/art/202005/616375.htm)
+ > 据国外媒体报道，过去几个月苹果招募了数位云计算领域技术顶级人才。这一举动在业内引起轰动，而且可能表明
+ ## [服务器应该使用哪种类型的RAID阵列?](http://server.51cto.com/Operation-616366.htm)
+ > 独立磁盘冗余阵列(RAID)是将多个机械硬盘(HDD)或固态硬盘(SSD)组合为一个逻辑卷的过程，从而使其阵列避免或
+ ## [如何为大数据项目做好准备：成功制定战略的6个关键要素](http://bigdata.51cto.com/art/202005/616362.htm)
+ > 如果没有做好准备，那么项目失败的可能性就更大。人们在准备大数据项目时需要要考虑一些事项。
+ ## [Python开发者调查显示只有十分之一的人还在用Python 2](http://news.51cto.com/art/202005/616373.htm)
+ > Python 2 已经结束支持，根据 Python 软件基金会和 JetBrains 发布的第三年度 Python 开发者调查，被调查
+ ## [人工智能如何改变医疗保健 实时数据分析对医疗保健至关重要](http://ai.51cto.com/art/202005/616364.htm)
+ > 科学家认为，人工智能可以使人类摆脱许多领域的例行任务。医疗保健似乎是最需要这些更改的领域。
+ ## [奔涌的IPv6背后，DHCPv6协议你了解多少？](http://network.51cto.com/art/202005/616369.htm)
+ > 本文将依托腾讯云CVM来详细剖析 DHCPv6 的工作原理，希望可以让更多小伙伴掌握 DHCPv6 协议。什么是 DHCPv6
  ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
  > 作为程序员，你在编程时吃了哪些数学的亏？
- ## [Java 面试 1 小时，我看出了和月薪 3w 的差距](https://edu.csdn.net/course/detail/27126)
- > Java 面试 1 小时，我看出了和月薪 3w 的差距
+ ## [刚回应！删库报复！一行代码蒸发数10亿！](https://blog.csdn.net/CSDNedu/article/details/104775411)
+ > 刚回应！删库报复！一行代码蒸发数10亿！
+ ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
+ > 在中国程序员是青春饭吗？
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
  ## [爬虫（110）一文使你成为终身斗图帝](https://blog.csdn.net/qq_36772866/article/details/106009547)
@@ -147,50 +147,56 @@ categories: IT NEWS
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
 # 人工智能 
+ ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/CSDNedu/article/details/101296078)
+ > 学Python后到底能干什么？网友：我太难了
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
  ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
  > 2020年转行学Python，第一步！
- ## [你会正确卸载数据库吗？](https://blog.csdn.net/moliae/article/details/106031477)
- > 你会正确卸载数据库吗？
- ## [两次刷新世界纪录，这个中国程序员有点牛！](https://blog.csdn.net/csdnsevenn/article/details/106009646)
- > 两次刷新世界纪录，这个中国程序员有点牛！
- ## [计算机网络-网络层概述，你该知道的概念](https://blog.csdn.net/weixin_45761327/article/details/105988348)
- > 
- ## [当初为了有机会进大厂，狠心复习了这9门核心知识点，熬夜整理成思维导图送给大家](https://blog.csdn.net/m0_37907797/article/details/106033821)
- > 
- ## [计算机网络 - 传输层](https://blog.csdn.net/AKUANer/article/details/106018873)
- > 
- ## [什么是IP？什么是DN/DNS?什么是hosts文件？计算机访问网络的原理又是怎样的？](https://blog.csdn.net/PRINCE2327/article/details/105417206)
- > 
- ## [考研计算机网络复试题目整理](https://blog.csdn.net/qq_42676675/article/details/106032481)
- > 
- ## [手把手教你申请计算机软件著作权（1）——填写软著申请表](https://blog.csdn.net/Ninquelote/article/details/106028446)
- > 
- ## [MySQL的卸载](https://blog.csdn.net/lmachi/article/details/106011741)
- > MySQL的卸载
- ## [OSI七层模型](https://blog.csdn.net/qq_40413670/article/details/106035762)
- > 
- ## [收藏起来慢慢看，OpenCV基础教程，原理、实战、报错解决助你快速入门计算机视觉](https://blog.csdn.net/shuiyixin/article/details/106023028)
- > 
- ## [IEEE754单精度标准下，十进制数字与机器码的互转](https://blog.csdn.net/qq_43647635/article/details/106039143)
- > IEEE754单精度标准下，十进制数字与机器码的互转
- ## [OpenCV4学习笔记（65）——基于dnn与ml模块实现口罩识别](https://blog.csdn.net/weixin_45224869/article/details/106035965)
- > 
- ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
- > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
 # PM 
- ## [中小企业的业务中台构想、规划与设计](http://www.woshipm.com/pd/3841735.html)
- > 本文从四个方面给大家总结了中小企业的业务中台构想、规划与设计，希望文章内容能够给大家带来帮助，enjoy~目前行业关于中台建设的文章随着热度已经非常多了，尤其是...
- ## [企业微信：私域流量“后时代”的开启者](http://www.woshipm.com/marketing/3842296.html)
- > 本文讲述了企业微信和微信互通后的新增的功能、商业机遇以及能够解决的问题。由于今年的疫情，各种云办公的股票变得芳香四溢。很多人开始意识到云办公的重要性，在家...
- ## [移动互联网时代，打动核心用户的文案才算好文案](http://www.woshipm.com/copy/3842299.html)
- > 好的文案不必打动所有人，而是能与核心用户建立高质量的“对话”。一、怎么才算好文案有些人说，好文案嘛就是要差异化！要精准！那怎么样才算是精准？文案的精准“目标...
- ## [腾讯产品项目流程的七个阶段](http://www.woshipm.com/pmd/3838403.html)
- > “腾讯”是产品经理的黄埔军校。笔者有幸学习到腾讯产品经理对产品项目的流程管理，特此整理并结合实际工作经验分享给大家。长话短说，腾讯产品项目的主题流程划分成了...
- ## [创业三大阶段和尽调十大要诀](http://www.woshipm.com/chuangye/3836776.html)
- > 本文总结了创业的三个阶段和投资人尽调的十个要诀。与大家分享！创业不同阶段肯定有不同的重点，在不同的阶段也要用不同的姿势去和投资人打交道。下面是几篇投资人的...
- ## [四个维度，拆解在线教育产品的客户体验管理](http://www.woshipm.com/pd/3839030.html)
- > 教育产品同质化竞争之下，融资扩科买市占率是出路之一；增强客户体验、用软实力构筑护城河是出路之二；本文主要针对在线教育行业中第二条路进行探讨。对于一款教育产...
- ## [限时免费 | 0基础新人想做产品，不完全统计你会遇到以下这些坑](http://www.woshipm.com/open/3847592.html)
- > 对于0基础转岗、入行产品经理的人来说，产品这条路，就像是“一条没有地图导航的路”——没有路标、没有同行人、一路摸索，磕磕绊绊，不知何时能到达目的地。对于从未走过...
+ ## [用心理学和社会学的方法论作为用户研究展示的画布](http://www.woshipm.com/user-research/1449100.html)
+ > 用户体验至上的时代，只有真正把握用户的需求而不被伪需求所迷惑，才能真正的做好”以用户为中心“。本文分享了用心理学和社会学的方法论作为用户研究展示的画布的方式，...
+ ## [疫情下加速发展的K12线上教育，会取代线下教育吗？](http://www.woshipm.com/it/3844189.html)
+ > 疫情虽然推动了在线教育的发展进程，但线上教育仍不及线下教育作用大，本文作者从三个方面对此进行了论述：学习环境、教育资源和学生主动性，与大家分享。今年的疫情...
+ ## [扒一扒风变编程的社群运营手段，满满都是套路](http://www.woshipm.com/operate/3843401.html)
+ > 作者对风变科技社群运营“套路”进行了梳理拆解，一起来看看~在正式开始之前，先和大家交代一下背景。事情是这样的，前几天我在拆解运营案例的时候，为了做竞品分析，了...
+ ## [如何搭建以“业务”为中心的 CRM 系统？（客户管理篇）](http://www.woshipm.com/pd/3838820.html)
+ > 以面向 B 端的客户管理为例子，从业务初创期、发展期和业务成熟期3 个阶段，分析不同阶段下客户管理的不同需求。只有站在全局的角度看需求，才能有效的指导我们的判断...
+ ## [4个方面解析：归因分析模型](http://www.woshipm.com/marketing/3839887.html)
+ > 在数据时代，广告的投放效果评估往往会产生很多的问题。而归因分析（Attribution Analysis）要解决的问题就是广告效果的产生，其功劳应该如何合理的分配给哪些渠道。...
+ ## [异步处理在支付环节的应用](http://www.woshipm.com/pd/3841998.html)
+ > 本文主要向初步接触支付业务的读者简要普及同步与异步处理的基本概念、关于异步处理在支付环节的应用、支付系统向商户通知支付结果时，为什么要使用“异步通知”？异步处...
+ ## [三大运营商官宣的“RCS”究竟是什么？](http://www.woshipm.com/it/3845710.html)
+ > 本文将介绍什么是RCS、RCS带来的影响以及它困境，并进一步分析了它与数字货币结合的可能性。在2006年，RCS概念早已被提出。而至2018年5月11号，RCS服务在日本正式落地...
+ ## [内容审核逻辑｜从入门到被门槛绊倒](http://www.woshipm.com/it/3844120.html)
+ > 读完这篇文章，你可以详细了解文字类内容审核的逻辑，还会了解一些图片和短视频审核的技术，足以补充一个运营或产品在这方面的知识储备了。来看看~文章开始之前，给大...
+ ## [2020年，为什么建议你尝试做B端新媒体运营？](http://www.woshipm.com/operate/3843607.html)
+ > 近几年来，B端市场吸引了巨头和大量资本入场，而B端新媒体运营也蕴含着不小的发展潜力，颇受关注。而笔者就来聊聊入行做B端新媒体运营的几点看法。随着互联网流量红利...
+ ## [10个步骤，拆解实用的B端产品工作流](http://www.woshipm.com/pmd/3838233.html)
+ > 作为一个B端产品经理，笔者将结合自己的工作实践和认知，与大家分享一下自己的B端产品经理的工作流以及每一个流程中具体的思考点和注意点，希望能提供一个真正实用的工...
 
     
