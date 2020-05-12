@@ -1,7 +1,7 @@
 ---
 title: 2020-05-12 IT News
 copyright: true
-date: 2020-05-12 12:01:01
+date: 2020-05-12 17:01:40
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -96,107 +96,145 @@ categories: IT NEWS
  > 网络工程中的割接是什么意思？
  ## [我最终还是从Chrome换到了Firefox](http://developer.51cto.com/art/202005/616284.htm)
  > 我最终还是从Chrome换到了Firefox
- ## [为什么要发行数字人民币？那时你会第一时间使用吗？](http://www.cioage.com/art/202005/616376.htm)
- > 作为全球首个发布数字货币的国家，这个以“区块链技术”为底层架构的数字货币到底是什么?国家为什么要发行
- ## [实用开源Javascript库，10大图像处理库推荐](http://developer.51cto.com/art/202005/616374.htm)
- > 对于很多人来说，使用Javascript来处理图像不是一件非常简单的事情，幸运的是我们可以借助第三方的库来实现
- ## [顶级企业资源规划系统的关键特性](http://news.51cto.com/art/202005/616371.htm)
- > 采用企业资源计划(ERP)软件使财务、人力资源、采购、分销和其他部门的业务流程标准化、精简和集成。企业需
- ## [新冠病毒大流行为数字语音技术注入了新动力](http://ai.51cto.com/art/202005/616368.htm)
- > 语音助手不仅可以回答查询和购物，而且还可以用于智能家居控制以及一系列商务和医疗应用。
- ## [苹果聘多位云计算"技术大牛"，不想再依赖AWS谷歌？](http://news.51cto.com/art/202005/616375.htm)
- > 据国外媒体报道，过去几个月苹果招募了数位云计算领域技术顶级人才。这一举动在业内引起轰动，而且可能表明
- ## [服务器应该使用哪种类型的RAID阵列?](http://server.51cto.com/Operation-616366.htm)
- > 独立磁盘冗余阵列(RAID)是将多个机械硬盘(HDD)或固态硬盘(SSD)组合为一个逻辑卷的过程，从而使其阵列避免或
- ## [如何为大数据项目做好准备：成功制定战略的6个关键要素](http://bigdata.51cto.com/art/202005/616362.htm)
- > 如果没有做好准备，那么项目失败的可能性就更大。人们在准备大数据项目时需要要考虑一些事项。
- ## [Python开发者调查显示只有十分之一的人还在用Python 2](http://news.51cto.com/art/202005/616373.htm)
- > Python 2 已经结束支持，根据 Python 软件基金会和 JetBrains 发布的第三年度 Python 开发者调查，被调查
- ## [人工智能如何改变医疗保健 实时数据分析对医疗保健至关重要](http://ai.51cto.com/art/202005/616364.htm)
- > 科学家认为，人工智能可以使人类摆脱许多领域的例行任务。医疗保健似乎是最需要这些更改的领域。
- ## [奔涌的IPv6背后，DHCPv6协议你了解多少？](http://network.51cto.com/art/202005/616369.htm)
- > 本文将依托腾讯云CVM来详细剖析 DHCPv6 的工作原理，希望可以让更多小伙伴掌握 DHCPv6 协议。什么是 DHCPv6
- ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
- > 作为程序员，你在编程时吃了哪些数学的亏？
- ## [刚回应！删库报复！一行代码蒸发数10亿！](https://blog.csdn.net/CSDNedu/article/details/104775411)
- > 刚回应！删库报复！一行代码蒸发数10亿！
+ ## [关于Wi-Fi网状网络：你需要了解的一切](http://network.51cto.com/art/202005/616399.htm)
+ > 随着我们的房屋变得越来越智能，我们将需要更好的Wi-Fi系统。为了确定最适合你的网格系统，了解一些Wi-Fi基
+ ## [李飞飞出任推特董事会成员：将利用AI技术持续推动变革](http://news.51cto.com/art/202005/616398.htm)
+ > 北京时间 5 月 12 日，推特公告宣布，任命斯坦福大学计算机科学教授、前谷歌副总裁李飞飞为董事会独立董事
+ ## [非常时期，5G+VR大可作为](http://mobile.51cto.com/vrar-616391.htm)
+ > 受疫情影响，自春节开始，人们纷纷开启宅家模式，除了各种居家玩乐方式层出不穷之外，全国各地心系武汉疫情
+ ## [17条避坑指南，获赞5K+，这是一份来自谷歌工程师的数据库经验贴](http://news.51cto.com/art/202005/616396.htm)
+ > 在这篇文章中，她总结了 17 条这样的经验教训，希望为刚接触数据库的小白提供一份避坑指南。目前，这一指南
+ ## [蜂窝物联网能搞定一切吗？NB-IoT大火之后的几点冷思考......](http://iot.51cto.com/art/202005/616390.htm)
+ > 蜂窝与非蜂窝物联网的是两种相互补充的技术路线，保持开放、兼容的政策格局有利于国内物理网市场的进一步发
+ ## [知乎热议：月薪下到5千，上到3万，计算机专业钱景究竟如何？网友：虚高](http://news.51cto.com/art/202005/616395.htm)
+ > 近日，知乎上掀起一番大讨论：计算机专业毕业生，工资真的高吗？有网友表示，高不高因人而异，就业面是真的
+ ## [人工智能认知学习――教育的未来？](http://ai.51cto.com/art/202005/616389.htm)
+ > 毫不奇怪，人工智能也会改变人们的学习方式。教育最大的挑战之一是每个人的学习方式不同，人工智能系统可以
+ ## [开发者被要求向破解者道歉，竟揪出“阿里云假员工”,网友:有前科](http://news.51cto.com/art/202005/616385.htm)
+ > 在知乎「如何看待独立游戏开发者龙腾猫跃称软件被人破解，并遭其威胁、恶意举报、要求道歉？」问题大火之后
+ ## [我用 GitHub Action 搭建了一套 CI/CD 系统](http://news.51cto.com/art/202005/616393.htm)
+ > 本文是 Nebula Graph 工程师利用 GitHub Action 搭建 CI/CD 系统的实践，希望能够对读者有所帮助，同时也欢
+ ## [关于Redis、ZooKeeper等分布式锁原理的一些思考](http://stor.51cto.com/art/202005/616383.htm)
+ > 首先分布式锁和我们平常讲到的锁原理基本一样，目的就是确保，在多个线程并发时，只有一个线程在同一刻操
+ ## [2020年！“用Python的，全是假程序员”！](https://edu.csdn.net/course/detail/26676)
+ > 2020年！“用Python的，全是假程序员”！
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
+ ## [马云曾经偶像，终于把阿里留下的1400亿败光了！](https://blog.csdn.net/CSDNedu/article/details/96436633)
+ > 马云曾经偶像，终于把阿里留下的1400亿败光了！
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
  ## [爬虫（110）一文使你成为终身斗图帝](https://blog.csdn.net/qq_36772866/article/details/106009547)
  > 爬虫（110）一文使你成为终身斗图帝
  ## [我对视频号的思考和挑战](https://blog.csdn.net/wo541075754/article/details/105191117)
  > 我对视频号的思考和挑战
- ## [面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？](https://blog.csdn.net/likun557/article/details/105108901)
- > 面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？
- ## [这些插件太强了，Chrome 必装！尤其程序员！](https://blog.csdn.net/qing_gee/article/details/104340125)
- > 
+ ## [StackOverflow上87万访问量的问题：什么是“找不到符号”？](https://blog.csdn.net/qing_gee/article/details/104294280)
+ > StackOverflow上87万访问量的问题：什么是“找不到符号”？
+ ## [win10暴力查看wifi密码](https://blog.csdn.net/qq_17623363/article/details/104730133)
+ > win10暴力查看wifi密码
  ## [CSDN惊天BUG：用户直接可以阅读设置了可见性权限的文章](https://blog.csdn.net/goldentec/article/details/104935560)
  > CSDN惊天BUG：用户直接可以阅读设置了可见性权限的文章
  ## [Intellij IDEA 美化指南](https://blog.csdn.net/qq_35067322/article/details/105852521)
  > Intellij IDEA 美化指南
- ## [编码的未来是“无代码”](https://blog.csdn.net/csdnnews/article/details/105132347)
- > 编码的未来是“无代码”
  ## [原谅我一直对B站有误解！](https://blog.csdn.net/hollis_chuang/article/details/105525238)
  > 原谅我一直对B站有误解！
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
+ ## [编码的未来是“无代码”](https://blog.csdn.net/csdnnews/article/details/105132347)
+ > 编码的未来是“无代码”
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
 # 人工智能 
- ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/CSDNedu/article/details/101296078)
- > 学Python后到底能干什么？网友：我太难了
- ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
- > 开源：教师评价系统
  ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
  > 2020年转行学Python，第一步！
- ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
- > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
- ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
- > Windows下Dvwa靶场环境配置（网络攻防)
- ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
- > Phpstudy隐藏后门
- ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
- > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
- ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
- > php一句话木马变形技巧
- ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
- > docker文件存放路径, 获取容器启动命令
- ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
- > 如何安装pkg-config
- ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
- > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
- ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
- > ceph客户端安装配置访问rbd
- ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
- > OpenLDAP源码安装及配置管理
- ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
- > 【Nginx】nginx 的三种反向代理方式
- ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
- > Janus WebRTC服务器部署
+ ## [家用水表物联网检测仪](https://blog.csdn.net/weixin_42605076/article/details/106042272)
+ > 家用水表物联网检测仪
+ ## [ESP8266实现wifi杀手——有固件](https://blog.csdn.net/qq_45504119/article/details/106046687)
+ > ESP8266实现wifi杀手——有固件
+ ## [程序员必学的5大数学知识](https://edu.csdn.net/combo/detail/1473)
+ > 程序员必学的5大数学知识
+ ## [M进制转换为N进制](https://blog.csdn.net/luodeng_/article/details/106050659)
+ > M进制转换为N进制
+ ## [五年之内java程序员发展之路--个人观点](https://blog.csdn.net/java_xdo/article/details/106043588)
+ > 五年之内java程序员发展之路--个人观点
+ ## [机智云接入教程（基于FreeRTOS）](https://blog.csdn.net/qq_37838137/article/details/106051611)
+ > 机智云接入教程（基于FreeRTOS）
+ ## [张召忠：第四次工业革命来了》课堂笔记](https://blog.csdn.net/weiqi_123/article/details/106037926)
+ > 张召忠：第四次工业革命来了》课堂笔记
+ ## [小熊派移植 TencentOS-tiny+M26/EC20+MQTT 对接腾讯云平台IoThub](https://blog.csdn.net/Mculover666/article/details/106048111)
+ > 
+ ## [ESP8266开发板连接onenet—HTTP](https://blog.csdn.net/weixin_45320379/article/details/106063890)
+ > ESP8266开发板连接onenet—HTTP
+ ## [使用30元开发板UNO D1 R32构筑物联网开发环境](https://blog.csdn.net/craftsman1970/article/details/106040639)
+ > 
+ ## [物联网（loT) 的技术架构](https://blog.csdn.net/weixin_43347473/article/details/106033499)
+ > 物联网（loT) 的技术架构
+ ## [ALOS全国12.5米精度数字高程DEM测试用数据下载地址](https://blog.csdn.net/huiye1998/article/details/105720152)
+ > ALOS全国12.5米精度数字高程DEM测试用数据下载地址
+ ## [PCB的制作工艺流程](https://blog.csdn.net/geek_liyang/article/details/105818845)
+ > PCB的制作工艺流程
+ ## [按键菜单程序设计：基于单片机等C语言开发环境的菜单程序设计思路以及代码实现（二）](https://blog.csdn.net/weixin_43977682/article/details/105923335)
+ > 
 # PM 
- ## [用心理学和社会学的方法论作为用户研究展示的画布](http://www.woshipm.com/user-research/1449100.html)
- > 用户体验至上的时代，只有真正把握用户的需求而不被伪需求所迷惑，才能真正的做好”以用户为中心“。本文分享了用心理学和社会学的方法论作为用户研究展示的画布的方式，...
- ## [疫情下加速发展的K12线上教育，会取代线下教育吗？](http://www.woshipm.com/it/3844189.html)
- > 疫情虽然推动了在线教育的发展进程，但线上教育仍不及线下教育作用大，本文作者从三个方面对此进行了论述：学习环境、教育资源和学生主动性，与大家分享。今年的疫情...
- ## [扒一扒风变编程的社群运营手段，满满都是套路](http://www.woshipm.com/operate/3843401.html)
- > 作者对风变科技社群运营“套路”进行了梳理拆解，一起来看看~在正式开始之前，先和大家交代一下背景。事情是这样的，前几天我在拆解运营案例的时候，为了做竞品分析，了...
- ## [如何搭建以“业务”为中心的 CRM 系统？（客户管理篇）](http://www.woshipm.com/pd/3838820.html)
- > 以面向 B 端的客户管理为例子，从业务初创期、发展期和业务成熟期3 个阶段，分析不同阶段下客户管理的不同需求。只有站在全局的角度看需求，才能有效的指导我们的判断...
- ## [4个方面解析：归因分析模型](http://www.woshipm.com/marketing/3839887.html)
- > 在数据时代，广告的投放效果评估往往会产生很多的问题。而归因分析（Attribution Analysis）要解决的问题就是广告效果的产生，其功劳应该如何合理的分配给哪些渠道。...
- ## [异步处理在支付环节的应用](http://www.woshipm.com/pd/3841998.html)
- > 本文主要向初步接触支付业务的读者简要普及同步与异步处理的基本概念、关于异步处理在支付环节的应用、支付系统向商户通知支付结果时，为什么要使用“异步通知”？异步处...
- ## [三大运营商官宣的“RCS”究竟是什么？](http://www.woshipm.com/it/3845710.html)
- > 本文将介绍什么是RCS、RCS带来的影响以及它困境，并进一步分析了它与数字货币结合的可能性。在2006年，RCS概念早已被提出。而至2018年5月11号，RCS服务在日本正式落地...
- ## [内容审核逻辑｜从入门到被门槛绊倒](http://www.woshipm.com/it/3844120.html)
- > 读完这篇文章，你可以详细了解文字类内容审核的逻辑，还会了解一些图片和短视频审核的技术，足以补充一个运营或产品在这方面的知识储备了。来看看~文章开始之前，给大...
- ## [2020年，为什么建议你尝试做B端新媒体运营？](http://www.woshipm.com/operate/3843607.html)
- > 近几年来，B端市场吸引了巨头和大量资本入场，而B端新媒体运营也蕴含着不小的发展潜力，颇受关注。而笔者就来聊聊入行做B端新媒体运营的几点看法。随着互联网流量红利...
- ## [10个步骤，拆解实用的B端产品工作流](http://www.woshipm.com/pmd/3838233.html)
- > 作为一个B端产品经理，笔者将结合自己的工作实践和认知，与大家分享一下自己的B端产品经理的工作流以及每一个流程中具体的思考点和注意点，希望能提供一个真正实用的工...
+ ## [下厨房商业化探索（下）：直播进行时](http://www.woshipm.com/evaluating/3835908.html)
+ > 本文介绍了关于下厨房直播课堂的4个小发现以及2种在直播收入模式上的尝试。打开下厨房APP，在底部菜单栏点击「课堂」，就进入了付费课堂页面。付费课堂有「直播」与「...
+ ## [关于接入第三方产品，我们需掌握哪些知识点？](http://www.woshipm.com/pmd/3838745.html)
+ > 规范地接入合适的第三方产品有很多优点：可有效降低项目延期、烂尾的风险；在减少人力、时间成本的同时却得到了较为成熟的方案，提升了用户使用体验，实现了较高的投入...
+ ## [在线教育怎么做流量转化，用社群卖课？](http://www.woshipm.com/operate/3846293.html)
+ > 在线教育领域中，流量的承接和转化一向是个不小的难题，而本文就重点给大家分享如何做好流量的转化工作，简单讲，就是如何通过微信社群将课程销售出去。熟悉在线教育...
+ ## [价格策略：降价促销 PK 天天低价，谁更胜一筹？](http://www.woshipm.com/it/3848396.html)
+ > 零售业中，为什么有些商品的价格设定了零售价与促销价的区别呢？他们又为何披着“高价”的皮，实际按照促销价销售产品呢？针对这些问题笔者将给出答案。降价促销是零售...
+ ## [从丰巢收费出发，聊聊背后的会员制收费设计](http://www.woshipm.com/operate/3846026.html)
+ > 丰巢收费没问题，因为它在一定程度上为快递无法及时拿提供了解决方案。有问题的是一开始免费的策略，没有考虑到用户的使用成本问题和长远的产品发展。一、丰巢情况说...
+ ## [keep突围之后，悦动圈的运动健康之路如何走？](http://www.woshipm.com/evaluating/3842451.html)
+ > 悦动圈作为一款运动记录+健康检测+社交媒体+运动电商的工具类APP，本文从悦动圈的发展历史、竞品、功能分析、数据对比进行深入的研究和剖析。本文将从产品功能结构、...
+ ## [如何搭建从零至千万的SaaS销售体系？](http://www.woshipm.com/pd/3846229.html)
+ > 2016年至2019年我在某SaaS软件厂商工作，以产品经理身份入职，离开时是产品线的业务负责人。完整经历了从软件上线无人问津，到销售略有起色，再到完成千万级别的业务流...
+ ## [物流行业的12种商业模式盘点](http://www.woshipm.com/it/3845968.html)
+ > 商业模式是一种简化的商业逻辑，大白话一点讲就是产品通过什么方式赚钱。那么提到物流行业，你觉得它的赚钱方式是什么呢？文章对此进行了盘点，一起来看看~中国物流是...
+ ## [数据分析报告写作攻略（六）：常见的错误](http://www.woshipm.com/data-analysis/3847692.html)
+ > 你错了！写数据报告，最怕听见这三个字。特别是新同学，听到这三字简直如雷贯耳被吓得不知所措。其实，并非所有的错误都是数据分析师的问题。本文就系统讲解下，数据分...
+ ## [丰巢收费为什么骂声一片？](http://www.woshipm.com/it/3847364.html)
+ > 丰巢收费引起了热议：用户较真的背后可能并不是5毛钱的问题，而是尊重。丰巢快递柜已经在热搜上挂了好几天了，起因是官方宣布进入“会员时代”，非会员存放超过12小时就...
+ ## [搭建内容管理系统CMS（3）：从原理、需求到设计，一文看懂动态化页面](http://www.woshipm.com/pd/3842230.html)
+ > Sue前面分享的两篇文章，介绍了内容管理系统（CMS）关于内容生产和内容过滤的部分。那么被生产出来并通过过滤的内容，如何呈现给我们的内容消费者呢？我们都知道，在...
+ ## [案例拆解|“斑马AI课”营收破亿的背后的增长体系](http://www.chanpin100.com/article/111601)
+ > 在玩家众多，竞争激烈的教育赛道里，“斑马AI课”为什么还能实现快速增长、营收破亿，相信这背后自然离不开它精细的用户增长策略制定与优化。
+ ## [如何操办一场成功的产品发布会](http://www.chanpin100.com/article/111599)
+ > 通常一个大型活动，从3个月前就会开始筹划，因为需要预留一些重要人物的时间，需要给场地预定，物料制作，排练等留够时间。通常，我们会把发布日先确定下来，然后倒推时间表，并根据时间表上的工作任务，安排每一个具体的负责人，并定期开会互相通报进展。
+ ## [“人、货、场”三位联动，看鞋服业怎样重生？|2020年中国鞋服产业智能+生态分析](http://www.chanpin100.com/article/111598)
+ > 简介：鞋服产业智能+本质上通过重塑原料市场、生产环节、一级市场、二级市场和终端消费，助力传统鞋服产业实现数字化智能+，重构消费者-品牌方-供应链全链路，有利于产业提高效率，提高服务能力，真正助益每个消费者。
+ ## [丰巢收费，动了谁的奶](http://www.chanpin100.com/article/111597)
+ > 关于丰巢收费的一点自我理解，简单说明下市场情况和会员收费的思路。
+ ## [信息世界的思考——内容产品经理的方法论](http://www.chanpin100.com/article/111596)
+ > 内容产品经理 信息 熵 UGC 知识价值
+ ## [干货分享｜一文看懂如何实现产品「精细化运营」！](http://www.chanpin100.com/article/111595)
+ > 数据是客观的，解读数据的人是主观的，只有正确的认识数据，才能正确的利用数据。不断从数据中提出问题，不断尝试，用数据来优化运营策略，进而实现客户和业务的增长。
+ ## [用户问题的分类和处理原则](http://www.chanpin100.com/article/111591)
+ > 一篇关于如何分类解决用户问题的文章。
+ ## [00“后浪”有多“浪”？](http://www.chanpin100.com/article/111590)
+ > 简介：b站的《后浪》火了。“前浪”和“后浪”也成为热门话题，开始疯狂刷屏。上一代人看下一代人，虽然总是免不了吐槽，但也总是能带出各种新奇、好玩的内容。80后也好，90后也好，00后也好，总有不为人知的一面，也总有被大众误解的一面。这背后的真相，只有数据不会撒谎。“00后”这些“后浪”们玩起来的时候，
+ ## [央行数字货币DCEP内测，第三方支付将迎来巨变？](http://www.chanpin100.com/article/111589)
+ > 支付宝们危险了？
+ ## [跳槽后，想快速熟悉公司业务，你需要知道这些！](http://www.chanpin100.com/article/111588)
+ > 努力不是重要的，在别人需要的事情上努力才是重要的。
+ ## [四个拦路虎，击碎中小厂商的5G逆袭梦](http://www.chanpin100.com/article/111587)
+ > 直至5月8日魅族首款骁龙865手机魅族17系列才正式面世，与“同芯”的小米10系列相比，亮相时间足足晚了三个月
+ ## [一款在线还款记账产品诞生实战](http://www.chanpin100.com/article/111586)
+ > 我们通过KANO 模型进行我们产品的功能分析，看看我们是否遗漏优先级比较高的功能。优先级比较高的几个核心功能，都已经实现了。接下来就是我们要考虑如何能给用户提供能令用户“尖叫”的功能了。
+ ## [有这些特征的公司，其实你面试时就可以Pass了](http://www.chanpin100.com/article/111585)
+ > 面试时注意观察这些点
+ ## [工作缺乏成就感？产品经理的核心价值在这里](http://www.chanpin100.com/article/111584)
+ > 用8个字来总结产品经理的核心价值，那就是：「解决问题，创造价值。」这8个字又体现在4大块主要工作上。
+ ## [浅析-腾讯产品项目的流程](http://www.chanpin100.com/article/111583)
+ > “腾讯”是产品经理的黄埔军校。笔者有幸学习到腾讯产品经理对产品项目的流程管理，特此整理并结合实际工作经验分享给大家。
+ ## [​B端移动设计|库存盘点](http://www.chanpin100.com/article/111582)
+ > B端移动设计 | 库存盘点
+ ## [如何规划出一个稳健的迭代版本](http://www.chanpin100.com/article/111581)
+ > 版本迭代规划是产品经理的一项基本工作，好的版本迭代规划方法应该是稳健的，综合的，可持续的并考虑到研发资源情况。
+ ## [UI设计适合女生学吗？会不会很难？](http://www.chanpin100.com/article/111580)
+ > 对新入UI的小伙伴们的一些建议。
 
     
