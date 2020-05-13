@@ -1,27 +1,37 @@
 ---
 title: 2020-05-13 IT News
 copyright: true
-date: 2020-05-13 08:01:52
+date: 2020-05-13 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 技术 
- ## [全面了解云优化](http://cloud.51cto.com/art/202005/616401.htm)
- > 全面了解云优化
+ ## [摸着良心说，你了解HTTPS工作原理吗？](http://netsecurity.51cto.com/art/202005/616423.htm)
+ > 摸着良心说，你了解HTTPS工作原理吗？
  ## [使用k9s简化Kubernetes集群的管理！](http://cloud.51cto.com/art/202005/616400.htm)
  > 使用k9s简化Kubernetes集群的管理！
- ## [为企业选择Kubernetes服务时要考虑的六大标准](http://cloud.51cto.com/art/202005/616312.htm)
- > 为企业选择Kubernetes服务时要考虑的六大标准
- ## [四个拦路虎，击碎中小厂商的5G逆袭梦](http://news.51cto.com/art/202005/616283.htm)
- > 四个拦路虎，击碎中小厂商的5G逆袭梦
- ## [JDK 15：Java 15中的新功能](http://developer.51cto.com/art/202005/616278.htm)
- > JDK 15：Java 15中的新功能
- ## [你该知道的深度强化学习相关知识](http://ai.51cto.com/art/202005/616310.htm)
- > 你该知道的深度强化学习相关知识
- ## [浅谈SR-TE两种实现方式的对比](http://network.51cto.com/art/202005/616257.htm)
- > 浅谈SR-TE两种实现方式的对比
- ## [Elasticsearch用得好，下班下得早！](http://developer.51cto.com/art/202005/616320.htm)
- > Elasticsearch用得好，下班下得早！
+ ## [海底光缆：恶意黑客、好奇鲨鱼多重威胁下的脆弱安全](http://netsecurity.51cto.com/art/202005/616321.htm)
+ > 海底光缆：恶意黑客、好奇鲨鱼多重威胁下的脆弱安全
+ ## [奔涌的IPv6背后，DHCPv6协议你了解多少？](http://network.51cto.com/art/202005/616369.htm)
+ > 奔涌的IPv6背后，DHCPv6协议你了解多少？
+ ## [带您全面了解云优化](http://cloud.51cto.com/art/202005/616401.htm)
+ > 带您全面了解云优化
+ ## [人工智能如何改变医疗保健 实时数据分析对医疗保健至关重要](http://ai.51cto.com/art/202005/616364.htm)
+ > 人工智能如何改变医疗保健 实时数据分析对医疗保健至关重要
+ ## [关于Wi-Fi网状网络：你需要了解的一切](http://network.51cto.com/art/202005/616399.htm)
+ > 关于Wi-Fi网状网络：你需要了解的一切
+ ## [GitHub 500GB数据窃贼再出手，出售10家企业7320万条用户记录](http://netsecurity.51cto.com/art/202005/616405.htm)
+ > GitHub 500GB数据窃贼再出手，出售10家企业7320万条用户记录
+ ## [自从有了5G，4G网速就越来越慢？](http://network.51cto.com/art/202005/616428.htm)
+ > 随着5G的到来，很多人直观地感受到了4G的速度越来越慢，于是便怀疑：运营商会不会为了推广5G，故意降低4G的
+ ## [EmailJS：5步使用JavaScript直接从前端发送电子邮件](http://developer.51cto.com/art/202005/616427.htm)
+ > 你不需要使用任何后端语言，如 PHP 或 Python。此外，你甚至不需要Node.js!有很多方法可以读取这些数据。你
+ ## [数据中心正在缩小，但不会消失](http://server.51cto.com/Datacenter-616425.htm)
+ > 云不会杀死数据中心，但是会对其进行改造。这是数据中心专业人员行业协会AFCOM从2020年数据中心状态报告中
+ ## [5G需要怎样的网络切片？](http://network.51cto.com/art/202005/616424.htm)
+ > 网络切片，大家应该都很熟悉了。就是根据不同行业应用对网络带宽、时延、安全性、可靠性、地理覆盖范围等SL
+ ## [容器云平台如何进行风险管理和关键技术路线选型？](http://cloud.51cto.com/art/202005/616426.htm)
+ > 容器云项目是我司规划建设的基础设施云计算PaaS平台的尝试，希望通过容器化PaaS平台的建设，支持正在建设的
  ## [2020年物联网平台：平台功能深入指南](http://iot.51cto.com/art/202005/616422.htm)
  > 物联网平台提供了用于安全管理和分析其物联网设备和数据的平台，从而促进了物联网传感器的可扩展部署。物联
  ## [物联网医疗可穿戴设备将在冠状病毒之后获得发展势头](http://iot.51cto.com/art/202005/616421.htm)
@@ -32,14 +42,14 @@ categories: IT NEWS
  > 
  ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
  > 作为程序员，你在编程时吃了哪些数学的亏？
- ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
- > 【隐私大战】App在偷听你的生活吗？
  ## [程序猿版：溢出吧，后浪](https://blog.csdn.net/loongggdroid/article/details/106030143)
  > 程序猿版：溢出吧，后浪
  ## [Intellij IDEA 美化指南](https://blog.csdn.net/qq_35067322/article/details/105852521)
  > Intellij IDEA 美化指南
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
+ ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
+ > 【隐私大战】App在偷听你的生活吗？
  ## [前端还能这么玩？(女朋友生日，用前端写了一个好玩的送给了她，高兴坏了)](https://blog.csdn.net/qq_17623363/article/details/105445732)
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
@@ -56,38 +66,13 @@ categories: IT NEWS
  > 大三实习生，字节跳动面经分享，已拿Offer
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
-# 人工智能 
- ## [Elasticsearch的分布式架构、负载均衡、高可用以及容错性看这一篇就够了](https://blog.csdn.net/ctwctw/article/details/106037542)
- > 
- ## [现在才明白：SQL原来这么重要！不会的人工作都不好找！](https://edu.csdn.net/course/detail/27328)
- > 现在才明白：SQL原来这么重要！不会的人工作都不好找！
- ## [现实世界中的数据科学：基于领域知识和监督学习模型的黄金价格理解与预测](https://blog.csdn.net/m0_46510245/article/details/106035057)
- > 
- ## [【测试】Jmeter链接数据库](https://blog.csdn.net/weixin_43469680/article/details/105970971)
- > 
- ## [大白话彻底搞懂HBase RowKey详细设计](https://blog.csdn.net/qq_26803795/article/details/105994960)
- > 
- ## [阿里P8高级专家，耗时多年整理SpringBoot指南文档，颠覆you认知](https://blog.csdn.net/qq_1813353297/article/details/106063389)
- > 阿里P8高级专家，耗时多年整理SpringBoot指南文档，颠覆you认知
- ## [\[hadoop\]Flume的安装、配置 及其依赖Flume实时监控特定文件夹上传到HDFS](https://blog.csdn.net/qq_44172732/article/details/106046223)
- > 
- ## [Mycat查询原理、取模算法和枚举算法](https://blog.csdn.net/qq_39380737/article/details/106061448)
- > Mycat查询原理、取模算法和枚举算法
- ## [通俗易懂讲数据仓库之【缓慢变化维】](https://blog.csdn.net/weixin_44318830/article/details/105961276)
- > 
- ## [ES系列之利用filter让你的查询效率飞起来](https://blog.csdn.net/pony_maggie/article/details/106062284)
- > ES系列之利用filter让你的查询效率飞起来
- ## [docker搭建mysql主从配置  记录一下午的踩坑记录](https://blog.csdn.net/liandiaohou9204/article/details/106058249)
- > docker搭建mysql主从配置  记录一下午的踩坑记录
- ## [超全的Docker学习教程（Linux云计算从入门到精通）](https://blog.csdn.net/Until_U/article/details/105986894)
- > 
- ## [【Linux】CentOS7防火墙开启、停止、关闭，添加删除开放端口](https://blog.csdn.net/qq_41569732/article/details/106038381)
- > 
- ## [在Linux中利用Service启动、停止jar，配置开机自启](https://blog.csdn.net/qq_38667881/article/details/106054995)
- > 在Linux中利用Service启动、停止jar，配置开机自启
- ## [Kafka总结之精华](https://blog.csdn.net/Mamba_victor/article/details/106045805)
- > 
 # PM 
+ ## [“我想转行”“对不起，您的简历与我司运营岗位不匹配”](http://www.woshipm.com/open/3852633.html)
+ > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位。可以给大家看看一个合格的运营，进入运营岗位5年之后，能达到什么水平呢？（平均...
+ ## [我是如何理解“红利”这件事的](http://www.woshipm.com/it/3846404.html)
+ > 本文将分三个部分，从产品红利、渠道红利、变革红利的角度，分享笔者对红利的理解，希望内容对你有所启发。关于红利，最知名的说法莫过于雷军的：猪在风口上都可以飞...
+ ## [按钮设计的7个基本原则](http://www.woshipm.com/ucd/3846458.html)
+ > 本文介绍了按钮设计的7个基本原则，包括：强化按钮、凸显按钮位置、凸显重要按钮、把按钮按照合理的顺序放好、给按钮匹配释义标签、如果用户不想做任何操作，不安排按钮...
  ## [案例拆解|“斑马AI课”营收破亿的背后的增长体系](http://www.chanpin100.com/article/111601)
  > 在玩家众多，竞争激烈的教育赛道里，“斑马AI课”为什么还能实现快速增长、营收破亿，相信这背后自然离不开它精细的用户增长策略制定与优化。
  ## [如何操办一场成功的产品发布会](http://www.chanpin100.com/article/111599)
