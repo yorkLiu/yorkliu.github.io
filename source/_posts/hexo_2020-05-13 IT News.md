@@ -1,7 +1,7 @@
 ---
 title: 2020-05-13 IT News
 copyright: true
-date: 2020-05-13 12:01:06
+date: 2020-05-13 17:02:04
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -71,6 +71,27 @@ categories: IT NEWS
 
 <p>&nbsp;</p>
 
+# IT 新闻 
+ ## [上海一位“后浪”的建议：因为这些原因我选择了联通宽带!](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=YpgOgNev5ppr*a1LShMDM6aQhV1*x9tiaZkUe2Ggl6uw3cq6G754x-bY4LEdh5PbV6KxH38fbxfdbpYlqAuMAeNc7nqfysjs0Xo6gjQaIhI8JgBuNVCsuTEys1K3U6oS&new=1)
+ > 这些年，网络在我们的工作、生活、学习中扮演着越来越重要的角色，人们对于网速的要求也越来越高。这次疫情期间，线上办公、远程网课等各种事情，让我深刻的感受到了家里拥有一个极速网络的重要性。01选择的首要...
+ ## [人脸识别、轨迹追踪、3D体感摄影，「百发百中」篮板升级，网友：你怎么那么有钱有闲有知识](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=6-GW8Flru-vGWmfcY4mXVvrx7NpwQgJiDxeAS4gKAJB0aMMS7Y6XKyI78jNjQikA0IDWgkXuoEwJENYS19cQFTs6-I1NQnjjDRWin4bzuSANtlCBrkIQuORh8imbv2DY&new=1)
+ > 机器之心报道参与：张倩、魔王、杜伟还记得那个让你「百发百中」的篮板吗？虽然它已经极大地提高了进球率，但作者似乎并不满意。最近，他又做了个改进版，用上了机器人和计算机视觉技术！他还说，「如果都这样了...
+ ## [IBM对Watson AI进行了IT运营的再训练](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=ObfC*HZQC9wpmT5wRGygz9YTCjHQpAyO5mci67RIHEhyT-ZEEkyojHYhXDMvBa4XziaW99tnW-Gyams82bQcgRGuzHaP6C4dpt6TfTgtUgoZAGWp-qthq81YB8nBD-LE&new=1)
+ > 关键讯息，D1时间送达！IBM正在依靠其收购的Red Hat的技术来部署新的AIOps工具，并帮助其提供新的边缘云计算服务，以支持5G网络。IBM首席执行官Arvind Krishna给公司的人工智能软件Watson分配了一项新任务:在IT
+ ## [微软Power Platform展现战略雄心：让天下没有难做的APP](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=cVNR5ZWbe9RnbMEmEZ-vo1xzU490F3Pc1qpVGpSv71ryXhQ6aeXisK-PHC5Gqjf4s9ifBLWHRBJla0EL0ga9zyfxy0kgxSQ4x-LU1KwL46AZfD5om7uDkzSlRy-3qhR5&new=1)
+ > （本文阅读时间：8 分钟）据Gartner预测，到2024年，65%的企业应用软件开发将基于低代码开发方式。低代码（包括无代码）开发，就是以“拖、拉、拽”的可视化方式\[1\]，让企业中专业的软件开发人员以最少量代码快...
+ ## [华为鲲鹏服务器芯片斩获大单，打破了Intel一家独大的局面](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=qwWx*aAdGZhh0qHER5YcMHG86f8lsbRmIzPhTPWfoNaBi97YuFW1*q6m1ZeqpVkseWq7EwVlWKC0P9J4bV0AY7ducnKLkjp11ReRgVpH6dfc*5AUGzrZRoLxvijHr0ZT&new=1)
+ > 中国电信公布了2020年服务器招标结果，其订购了5.6万台服务器，其中79.4%的芯片来自于Intel，华为海思的鲲鹏服务器芯片和海光的服务器芯片合计占19.9%的份额。在三大运营商中，中国电信拥有实力最强的IDC数据中...
+ ## [12部委重拳出击网络安全!严审高性能计算机和服务器设备，为新基建保驾护航](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=DSLu76FDXuYub8V0oFswgQUsocEijQ4oATAUTsBCYheNtnXPYqM9Wyy7XN-JZtDOiuehSZ7kQPfA1jo*otYKkMPRJ7pLRoSu37gv8RkxXS05Kdt-1rAkN-aTqHebmx*G&new=1)
+ > 看点：高通英特尔等产品进口将严查网络安全！12部委出新规，6月1日实施。智东西5月13日消息，近日，国家互联网信息办公室等12部委联合制定并发布《网络安全审查办法》，重点审查采购产品和服务可能给关键信息基...
+ ## [360安全大脑再下一城 2.5亿中标青岛网络安全产业基地项目](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=sG*jpzqf7*Qa92ZM0m7NXFaZ2FOPUDO-xltBH6lXK4a5hR4Ii4RSE6LKIpZfoqh6rdvDIrnlg4yI41okXh8w6s0ZMuGkV8v1zQOiPnMSOeC64PAEeYspKq5EnSmn47Gh&new=1)
+ > 4月份，360公司宣布中标2.5032亿元青岛网络安全产业基地相关项目，这是360公司去年9月宣布政企安全战略进入3.0时代后的第三单2亿以上中标项目。360公司2019年财报显示，360政企安全业务在2019年“大单”不断。正...
+ ## [“双剑合璧”上天山](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=o68zoDP-vZbotNZMNSRMLKuEpMDk-vcbiB-Y6-THJwRZqrl*iNl2noWyGzB1*Tc7ADrffg3qUAfeU8dhYwK*yedyUxN2Ayc5knGgAyJNJIsK*Cc7yRdW1tybeqD0NvyV&new=1)
+ > 电力+5G，这对CP又有新动作！5月11日，新疆联通5G+工业互联网应用落户哈密±800天山换流站。新疆联通5G网络搭配混合翼无人机、守望者球机和地面移动作业终端，实现了高、中、低“立体运检”，助力新疆电网史上最...
+ ## [微隔离的五大关键问题](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=QIKKy9jqqFOTh7qXiumHRwxx*79cKNhnBMzUYY9ZujOVqSp*okFiPhrIXRwgjjYIT5EVidABW509G7nw8YB*JtDAF9y8RyIz9pnWEedeLJlYUnCX*7bKhEXtW-uqz7MY&new=1)
+ > 安全牛评应对人类历史上最狡猾、“横向移动”效率极高的新型冠状病毒最有效的方法是“隔离”。同样，“微隔离”（Micro Segmentation）也是网络安全领域，预防和应对未知威胁的最有效的办法之一。微隔离以及基于...
+ ## [做硬件，真的没前途吗?看看资深工程师是怎么说的](http://mp.weixin.qq.com/s?src=11&timestamp=1589358604&ver=2335&signature=iuccPSsQ7Jux9IcvuIknXaKa*ZgURO*EAx6pAGdPPcTKjjBiurpQ1HEdPVHh2t2OIZbHx3yxXDps6d*OKgH19T-r2ar0vo2KimosWcip6OSH8ro49Y-pNUxAmzQQhmm-&new=1)
+ > 推荐语如果你正在对硬件工程师的未来发展感到迷茫，不妨看看这篇文章。或解惑，或共勉。一位项目经理带着一名硬件工程师和一名软件工程师一同坐车去参加研讨会，结果汽车在半路抛锚，于是三人就“如何修理汽车”...
 # IT 技术 
  ## [摸着良心说，你了解HTTPS工作原理吗？](http://netsecurity.51cto.com/art/202005/616423.htm)
  > 摸着良心说，你了解HTTPS工作原理吗？
@@ -88,30 +109,28 @@ categories: IT NEWS
  > 关于Wi-Fi网状网络：你需要了解的一切
  ## [GitHub 500GB数据窃贼再出手，出售10家企业7320万条用户记录](http://netsecurity.51cto.com/art/202005/616405.htm)
  > GitHub 500GB数据窃贼再出手，出售10家企业7320万条用户记录
- ## [Python数据分析：探索性分析](http://bigdata.51cto.com/art/202005/616461.htm)
- > Excel里可以用【数据分析】功能里的【描述统计】功能来查看数据集常用的统计指标，但这里只能是对数值型的
- ## [2020年3月支付类APP排名新鲜出炉](http://mobile.51cto.com/news-616458.htm)
- > 近日，易观公布了新的APP指数，根据活跃人数显示，排名靠前的有支付宝、翼支付、云闪付、壹钱包、和包支付
- ## [MySQL使用规范手册，程序员必知必会](http://database.51cto.com/art/202005/616457.htm)
- > 一个平台或系统随着时间的推移和用户量的增多，数据库操作往往会变慢;而在Java应用开发中数据库更是尤为重
- ## [做SaaS不赚钱？先想清楚这5个问题](http://cloud.51cto.com/art/202005/616459.htm)
- > 在中国做SaaS没定力不行。因为每隔一段时间，SaaS就被推断要爆发，然后就又进入低谷，能做到气定神闲着实不
- ## [国产自研操作系统发布，个人用户可马上下载体验](http://os.51cto.com/art/202005/616456.htm)
- > 好在国产操作系统开发人员并没有放弃，这些年他们一直在开发国产操作系统UOS，并且在近日正式公布，还提供
- ## [基于机器学习的用户实体行为分析技术在账号异常检测中的应用](http://netsecurity.51cto.com/art/202005/616455.htm)
- > 伴随企业业务的不断扩增和电子化发展，企业自身数据和负载数据都开始暴增。然而，作为企业核心资产之一的内
- ## [Omdia总结2019年全球物联网领域重要投资](http://iot.51cto.com/art/202005/616454.htm)
- > 来自市场研究公司Omdia的最新研究报告称，我们已经过了物联网“炒作周期”的顶峰，但该领域仍然充满着大量
- ## [为什么说云原生是企业数字化转型的通关密码？](http://cloud.51cto.com/art/202005/616453.htm)
- > 2020年，受疫情影响，谁家企业的日子都不好过。但是，如果把互联网企业和传统企业放在一起进行对比，就会发
- ## [老板：kill -9的原理都不知道就敢到线上执行，明天不用来了！](http://zhuanlan.51cto.com/art/202005/616460.htm)
- > 相信很多程序员对于Linux系统都不陌生，即使自己的日常开发机器不是Linux，那么线上服务器也大部分都是的
- ## [收到勒索电子邮件时该怎么办](http://netsecurity.51cto.com/art/202005/616452.htm)
- > 收到勒索邮件并不是什么新鲜事，但随着近期频率的增加，很多人都产生疑虑，正在寻找指导。如果你已经收到了
+ ## [有了K均值聚类，为什么还需要DBSCAN聚类算法？](http://ai.51cto.com/art/202005/616490.htm)
+ > 聚类分析是一种无监督学习法，它将数据点分离成若干个特定的群或组，使得在某种意义上同一组中的数据点具有
+ ## [冠状病毒凸显了智能建筑网络安全的必要性](http://netsecurity.51cto.com/art/202005/616489.htm)
+ > 智能建筑往往将重点放在“绿色”上，以牺牲网络风险为代价。这些智能建筑还给所有者、资产管理者和租户带来
+ ## [挑战者联盟：这20个编码挑战和竞赛网站请收好](http://developer.51cto.com/art/202005/616488.htm)
+ > 学习编码的优秀方法之一是实践，而且是大量的实践，并养成编码的习惯。还有什么比通过参与编码挑战和和编码
+ ## [Omdia：新冠疫情对专网市场的影响](http://network.51cto.com/art/202005/616485.htm)
+ > 根据Omdia的《企业5G创新追踪》报告，在2020年一季度，相关数据显示这类活动有所放缓，但将这一现象归咎于
+ ## [2020年开源数据库行业状态报告](http://news.51cto.com/art/202005/616487.htm)
+ > 在未来五年甚至十年内，即使用最激进的方式估算，全部业务都运行在云上是不现实的。实际上如果以行业增长为
+ ## [上半年5G旗舰手机已收官： “不约而同”贵了](http://mobile.51cto.com/news-616484.htm)
+ > 2020年已过近半，主流手机厂商已基本完成了5G旗舰手机的更新换代。纵观今年上半年的旗舰手机，高性能5G芯片
+ ## [大品牌强势，手机小厂们的未来在哪里？](http://mobile.51cto.com/hot-616483.htm)
+ > 上半年的手机新品发布大概要暂告一段落了，过去几个月里大厂们轮番上阵，保持着月月有新机时时有惊喜的节奏
+ ## [FBI和CISA披露十大常被利用漏洞](http://netsecurity.51cto.com/art/202005/616482.htm)
+ > 今日，网络安全和基础架构安全局(CISA)和联邦调查局(FBI)发布2016年至2019年以来最常被利用的十大安全漏洞
+ ## [零售业为什么需要利用边缘计算的力量](http://cloud.51cto.com/art/202005/616480.htm)
+ > 零售商使用边缘计算可以增强客户体验。因此，这是使客户再次回到商店购物的最佳方法之一。
+ ## [机器人会在体育赛事中取代人类吗？](http://ai.51cto.com/art/202005/616476.htm)
+ > 在体育运动中引入机器人可以作为展示现代机器人能力的一种方式，如灵活运动、实时运动控制和路径规划。
  ## [终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
  > 
- ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
- > 作为程序员，你在编程时吃了哪些数学的亏？
  ## [母亲节不能陪在妈妈身边，我用css和js给妈妈做了一个爱心飘落](https://blog.csdn.net/weixin_43570367/article/details/106018731)
  > 
  ## [程序猿版：溢出吧，后浪](https://blog.csdn.net/loongggdroid/article/details/106030143)
@@ -120,115 +139,56 @@ categories: IT NEWS
  > Intellij IDEA 美化指南
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [躲不开创建身份验证？开发者福音，更安全、更低成本的方案](https://blog.csdn.net/duxinshuxiaobian/article/details/106021817)
- > 躲不开创建身份验证？开发者福音，更安全、更低成本的方案
- ## [看完这篇JVM类加载器,我也能吊打面试官了](https://blog.csdn.net/qq_33589510/article/details/105250625)
+ ## [前端还能这么玩？(女朋友生日，用前端写了一个好玩的送给了她，高兴坏了)](https://blog.csdn.net/qq_17623363/article/details/105445732)
+ > 
+ ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
+ > 【隐私大战】App在偷听你的生活吗？
+ ## [这些插件太强了，Chrome 必装！尤其程序员！](https://blog.csdn.net/qing_gee/article/details/104340125)
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
- ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
- > 【隐私大战】App在偷听你的生活吗？
- ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
- > 终于，月薪过5万了！
- ## [开发人员如何优雅地与老板谈工资？](https://blog.csdn.net/duxinshuxiaobian/article/details/104890311)
- > 开发人员如何优雅地与老板谈工资？
- ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
- > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
+ ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
+ > 太狠了，疫情期间面试，一个问题砍了我5000！
+ ## [win10暴力查看wifi密码](https://blog.csdn.net/qq_17623363/article/details/104730133)
+ > win10暴力查看wifi密码
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
+ ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
+ > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
+ ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
+ > 大三实习生，字节跳动面经分享，已拿Offer
 # 人工智能 
- ## [优秀的程序员真的不写注释吗？](https://blog.csdn.net/qing_gee/article/details/106046200)
- > 
- ## [这下爽了，居然有人通过这个把Linux的命令提示符给整明白了](https://blog.csdn.net/qq_17623363/article/details/106047262)
- > 
- ## [“金三银四” 是找工作的最佳时期吗？](https://blog.csdn.net/qq_14996421/article/details/106048263)
- > 
- ## [机电学生写给十年后自己的一封信](https://blog.csdn.net/weixin_46423500/article/details/106067079)
- > 机电学生写给十年后自己的一封信
- ## [开发APP、微信小程序、网页,都需要什么？](https://blog.csdn.net/qq_43688587/article/details/105930744)
- > 
- ## [我的《母亲》](https://blog.csdn.net/qq_35190492/article/details/106034144)
- > 我的《母亲》
- ## [专升本，学历毁了我的一生！](https://blog.csdn.net/harvic880925/article/details/106050074)
- > 专升本，学历毁了我的一生！
- ## [高效科研神器——文献阅读篇](https://blog.csdn.net/weixin_38673554/article/details/106053874)
- > 
- ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
- > 你怎么看欧阳娜娜空降阿里p8？
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
- > 
- ## [VSCode 离线安装插件，实例讲解](https://blog.csdn.net/weixin_41698051/article/details/106076622)
- > VSCode 离线安装插件，实例讲解
- ## [全栈工程师为什么越混越困难，看这篇就够了](https://blog.csdn.net/huaxiangchen/article/details/106050664)
- > 
- ## [《原力计划-打卡挑战》第二周周榜揭晓！！！](https://blog.csdn.net/CSDNfreshnews/article/details/106049692)
- > 《原力计划-打卡挑战》第二周周榜揭晓！！！
- ## [男生更看重女生的身材脸蛋，还是思想？](https://blog.csdn.net/shenjian58/article/details/105039655)
- > 男生更看重女生的身材脸蛋，还是思想？
- ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
- > 推荐10个堪称神器的学习网站
-# PM 
- ## [B端产品经理：如何发现需求？](http://www.woshipm.com/pmd/3853349.html)
- > 对产品经理来说，主动建立需求池是一项关键技能，而本文将从自我发现与外部获取两部分，聊聊如何发现需求。产品的价值在于满足目标用户需求的同时实现商业盈利，而需...
- ## [微博PUSH策略：调研分析＆优化方案PRD](http://www.woshipm.com/it/3844144.html)
- > 策略产品已经是一门体系较为完善的学科，想学习的小伙伴可以通过搜索引擎查找相关课程。本系列文章不讲方法论，只分享亲手分析的案例。着重展示思路，希望可以给大家带...
- ## [从数据模型出发，预估下2020年中国5G手机市场表现](http://www.woshipm.com/data-analysis/3850065.html)
- > 本文介绍了数据模型的概念、并用数据模型预估2020年5G手机销量及品牌分布。在3月份我曾经调研了中国手机市场5G手机的相关数据，主要是预估2020年销量和品牌分布，并在...
- ## [如何设计出一款灵活的工单系统？](http://www.woshipm.com/pd/3843111.html)
- > 围绕工单系统，本文将介绍它的价值、业务背景、用户场景、产品流程、产品设计，向大家分享如何设计一个灵活的工单系统。Part1 核心价值工单系统的核心价值是什么？...
- ## [以阿里餐饮为例，B端产品用户访谈调研全解析](http://www.woshipm.com/operate/3848981.html)
- > 阿里旗下的餐饮软件包括排队系统，而要做排队系统，就要理解餐厅的排队业务，就需要去调研一个餐厅现有的排队业务，进而才能规划出新的排队系统，下面就是一个业务调研...
- ## [同城货运的囚徒困境——B端站不住，C端没生意](http://www.woshipm.com/it/3850050.html)
- > 最近，同城货运热度颇高，争议不少。那么发展到现在，同城货运到底是优化了社会资源配置，还是在用户与司机之间横插一脚，成为一个收关卡费的“野蛮人”呢？最近，同城...
- ## [如何写出一份好的解决方案](http://www.woshipm.com/zhichang/3846145.html)
- > 本文从写方案的三个阶段（前期了解阶段、查找资料阶段、书写阶段）讲述如何写出一份好的、不被否决、有结构、有优势的解决方案。解决方案不只是一篇文档，而是一整套...
- ## [SaaS、ToB工具类产品怎么设计私域流量裂变体系？](http://www.woshipm.com/operate/3850484.html)
- > 对B端产品来说，直播同样可以作为触达用户的方式，实现获客与转化。在这篇文章中，笔者将为大家如何设计SaaS的“个人号+社群+直播”裂变获客体系，以及三个玩法。之前写...
- ## [线上课程丨同样0基础转岗产品，为什么别人成大神，你还是菜鸟？](http://www.woshipm.com/online/3853431.html)
- > 很多想成为产品经理的小伙伴，一开始理想都很丰满：熟读产品书籍→自学软件工具→一投简历就被HR邀约→面试谈笑风生→喜提年薪十几万的offer→入职即被老板赏识并手把手培养...
- ## [互联网营销4.0时代，“场景”比“洗脑”更重要](http://www.woshipm.com/marketing/3850427.html)
- > 如果品牌是飞在天上的风筝，场景就是风筝线，它让品牌能够接地气一些，和消费者产生共鸣。为什么“场景”更重要？消费者的行为都是在特定的场景下进行的，他们通过场景...
- ## [同样是抄竞品，怎么他的产品就成功了](http://www.woshipm.com/pd/3849420.html)
- > 问题来了，同样是抄竞品，怎么他的产品就成功了？而你的就不行呢？抄袭竞品听起来有些难听，转化为行业术语——竞品分析好一点，毕竟踩着前人走过的路可以少走一些弯路...
- ## [产品经理如何写一份有效的简历？](http://www.woshipm.com/zhichang/3850675.html)
- > 本文将以互联网非技术岗的简历撰写为主题，分享简历的本质与关键，以及如何写一份合格的简历、简历上需要避开的坑。之前《深度思考：大学生如何拿到产品offer？》文章...
- ## [案例拆解|“斑马AI课”营收破亿的背后的增长体系](http://www.chanpin100.com/article/111601)
- > 在玩家众多，竞争激烈的教育赛道里，“斑马AI课”为什么还能实现快速增长、营收破亿，相信这背后自然离不开它精细的用户增长策略制定与优化。
- ## [如何操办一场成功的产品发布会](http://www.chanpin100.com/article/111599)
- > 通常一个大型活动，从3个月前就会开始筹划，因为需要预留一些重要人物的时间，需要给场地预定，物料制作，排练等留够时间。通常，我们会把发布日先确定下来，然后倒推时间表，并根据时间表上的工作任务，安排每一个具体的负责人，并定期开会互相通报进展。
- ## [“人、货、场”三位联动，看鞋服业怎样重生？|2020年中国鞋服产业智能+生态分析](http://www.chanpin100.com/article/111598)
- > 简介：鞋服产业智能+本质上通过重塑原料市场、生产环节、一级市场、二级市场和终端消费，助力传统鞋服产业实现数字化智能+，重构消费者-品牌方-供应链全链路，有利于产业提高效率，提高服务能力，真正助益每个消费者。
- ## [丰巢收费，动了谁的奶](http://www.chanpin100.com/article/111597)
- > 关于丰巢收费的一点自我理解，简单说明下市场情况和会员收费的思路。
- ## [信息世界的思考——内容产品经理的方法论](http://www.chanpin100.com/article/111596)
- > 内容产品经理 信息 熵 UGC 知识价值
- ## [干货分享｜一文看懂如何实现产品「精细化运营」！](http://www.chanpin100.com/article/111595)
- > 数据是客观的，解读数据的人是主观的，只有正确的认识数据，才能正确的利用数据。不断从数据中提出问题，不断尝试，用数据来优化运营策略，进而实现客户和业务的增长。
- ## [用户问题的分类和处理原则](http://www.chanpin100.com/article/111591)
- > 一篇关于如何分类解决用户问题的文章。
- ## [00“后浪”有多“浪”？](http://www.chanpin100.com/article/111590)
- > 简介：b站的《后浪》火了。“前浪”和“后浪”也成为热门话题，开始疯狂刷屏。上一代人看下一代人，虽然总是免不了吐槽，但也总是能带出各种新奇、好玩的内容。80后也好，90后也好，00后也好，总有不为人知的一面，也总有被大众误解的一面。这背后的真相，只有数据不会撒谎。“00后”这些“后浪”们玩起来的时候，
- ## [央行数字货币DCEP内测，第三方支付将迎来巨变？](http://www.chanpin100.com/article/111589)
- > 支付宝们危险了？
- ## [跳槽后，想快速熟悉公司业务，你需要知道这些！](http://www.chanpin100.com/article/111588)
- > 努力不是重要的，在别人需要的事情上努力才是重要的。
- ## [四个拦路虎，击碎中小厂商的5G逆袭梦](http://www.chanpin100.com/article/111587)
- > 直至5月8日魅族首款骁龙865手机魅族17系列才正式面世，与“同芯”的小米10系列相比，亮相时间足足晚了三个月
- ## [一款在线还款记账产品诞生实战](http://www.chanpin100.com/article/111586)
- > 我们通过KANO 模型进行我们产品的功能分析，看看我们是否遗漏优先级比较高的功能。优先级比较高的几个核心功能，都已经实现了。接下来就是我们要考虑如何能给用户提供能令用户“尖叫”的功能了。
- ## [有这些特征的公司，其实你面试时就可以Pass了](http://www.chanpin100.com/article/111585)
- > 面试时注意观察这些点
- ## [工作缺乏成就感？产品经理的核心价值在这里](http://www.chanpin100.com/article/111584)
- > 用8个字来总结产品经理的核心价值，那就是：「解决问题，创造价值。」这8个字又体现在4大块主要工作上。
- ## [浅析-腾讯产品项目的流程](http://www.chanpin100.com/article/111583)
- > “腾讯”是产品经理的黄埔军校。笔者有幸学习到腾讯产品经理对产品项目的流程管理，特此整理并结合实际工作经验分享给大家。
- ## [​B端移动设计|库存盘点](http://www.chanpin100.com/article/111582)
- > B端移动设计 | 库存盘点
- ## [如何规划出一个稳健的迭代版本](http://www.chanpin100.com/article/111581)
- > 版本迭代规划是产品经理的一项基本工作，好的版本迭代规划方法应该是稳健的，综合的，可持续的并考虑到研发资源情况。
- ## [UI设计适合女生学吗？会不会很难？](http://www.chanpin100.com/article/111580)
- > 对新入UI的小伙伴们的一些建议。
+ ## [学Python后到底能干什么？网友：我太难了](https://blog.csdn.net/CSDNedu/article/details/101296078)
+ > 学Python后到底能干什么？网友：我太难了
+ ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
+ > 2020年转行学Python，第一步！
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
 
     
