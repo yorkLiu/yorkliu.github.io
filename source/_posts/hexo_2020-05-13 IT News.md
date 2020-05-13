@@ -1,7 +1,7 @@
 ---
 title: 2020-05-13 IT News
 copyright: true
-date: 2020-05-13 10:01:26
+date: 2020-05-13 12:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -88,102 +88,112 @@ categories: IT NEWS
  > 关于Wi-Fi网状网络：你需要了解的一切
  ## [GitHub 500GB数据窃贼再出手，出售10家企业7320万条用户记录](http://netsecurity.51cto.com/art/202005/616405.htm)
  > GitHub 500GB数据窃贼再出手，出售10家企业7320万条用户记录
- ## [智能健康系统可监控新冠病毒隔离人员](http://ai.51cto.com/art/202005/616438.htm)
- > 埃及开罗大学的研究人员认为，智能医疗系统可以帮助减轻医院的负担，仅将重症和重症患者留在医疗机构中。
- ## [智能数据中心将成为新常态](http://network.51cto.com/art/202005/616436.htm)
- > 在未来的5到10年中，数据中心架构师将会设计和构建更加“智能”的数据中心和超大规模解决方案，而人们将会
- ## [2020年4月，研究人员监测到4亿恶意软件感染](http://netsecurity.51cto.com/art/202005/616434.htm)
- > 2020年4月，全球恶意软件感染量上升至4.04亿，有时甚至一天就会感染1000万账户。网络罪犯正在充分利用冠状
- ## [2020年适用于Linux的10个优秀开源缓存工具](http://os.51cto.com/art/202005/616433.htm)
- > 在本文中，我们将回顾一些用于在Linux中实现服务器端缓存的优秀开源（应用程序/数据库缓存和缓存代理服务器
- ## [Java 生态圈中的嵌入式数据库，哪家强？](http://database.51cto.com/art/202005/616432.htm)
- > 嵌入式数据库一个很陌生的词汇，以前只是听说，但是没有真正使用过，今天小编和大家一起来揭开它的面纱。
- ## [为什么我的Python总是学不好](http://news.51cto.com/art/202005/616430.htm)
- > 真的是越学越被动呀，有时候心情很不好，不知道你们偶尔有没有这种感觉，感觉总是学的不令自己满意。
- ## [自从有了5G，4G网速就越来越慢？](http://network.51cto.com/art/202005/616428.htm)
- > 随着5G的到来，很多人直观地感受到了4G的速度越来越慢，于是便怀疑：运营商会不会为了推广5G，故意降低4G的
- ## [EmailJS：5步使用JavaScript直接从前端发送电子邮件](http://developer.51cto.com/art/202005/616427.htm)
- > 你不需要使用任何后端语言，如 PHP 或 Python。此外，你甚至不需要Node.js!有很多方法可以读取这些数据。你
- ## [数据中心正在缩小，但不会消失](http://server.51cto.com/Datacenter-616425.htm)
- > 云不会杀死数据中心，但是会对其进行改造。这是数据中心专业人员行业协会AFCOM从2020年数据中心状态报告中
- ## [5G需要怎样的网络切片？](http://network.51cto.com/art/202005/616424.htm)
- > 网络切片，大家应该都很熟悉了。就是根据不同行业应用对网络带宽、时延、安全性、可靠性、地理覆盖范围等SL
+ ## [Python数据分析：探索性分析](http://bigdata.51cto.com/art/202005/616461.htm)
+ > Excel里可以用【数据分析】功能里的【描述统计】功能来查看数据集常用的统计指标，但这里只能是对数值型的
+ ## [2020年3月支付类APP排名新鲜出炉](http://mobile.51cto.com/news-616458.htm)
+ > 近日，易观公布了新的APP指数，根据活跃人数显示，排名靠前的有支付宝、翼支付、云闪付、壹钱包、和包支付
+ ## [MySQL使用规范手册，程序员必知必会](http://database.51cto.com/art/202005/616457.htm)
+ > 一个平台或系统随着时间的推移和用户量的增多，数据库操作往往会变慢;而在Java应用开发中数据库更是尤为重
+ ## [做SaaS不赚钱？先想清楚这5个问题](http://cloud.51cto.com/art/202005/616459.htm)
+ > 在中国做SaaS没定力不行。因为每隔一段时间，SaaS就被推断要爆发，然后就又进入低谷，能做到气定神闲着实不
+ ## [国产自研操作系统发布，个人用户可马上下载体验](http://os.51cto.com/art/202005/616456.htm)
+ > 好在国产操作系统开发人员并没有放弃，这些年他们一直在开发国产操作系统UOS，并且在近日正式公布，还提供
+ ## [基于机器学习的用户实体行为分析技术在账号异常检测中的应用](http://netsecurity.51cto.com/art/202005/616455.htm)
+ > 伴随企业业务的不断扩增和电子化发展，企业自身数据和负载数据都开始暴增。然而，作为企业核心资产之一的内
+ ## [Omdia总结2019年全球物联网领域重要投资](http://iot.51cto.com/art/202005/616454.htm)
+ > 来自市场研究公司Omdia的最新研究报告称，我们已经过了物联网“炒作周期”的顶峰，但该领域仍然充满着大量
+ ## [为什么说云原生是企业数字化转型的通关密码？](http://cloud.51cto.com/art/202005/616453.htm)
+ > 2020年，受疫情影响，谁家企业的日子都不好过。但是，如果把互联网企业和传统企业放在一起进行对比，就会发
+ ## [老板：kill -9的原理都不知道就敢到线上执行，明天不用来了！](http://zhuanlan.51cto.com/art/202005/616460.htm)
+ > 相信很多程序员对于Linux系统都不陌生，即使自己的日常开发机器不是Linux，那么线上服务器也大部分都是的
+ ## [收到勒索电子邮件时该怎么办](http://netsecurity.51cto.com/art/202005/616452.htm)
+ > 收到勒索邮件并不是什么新鲜事，但随着近期频率的增加，很多人都产生疑虑，正在寻找指导。如果你已经收到了
  ## [终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
- > 
- ## [母亲节不能陪在妈妈身边，我用css和js给妈妈做了一个爱心飘落](https://blog.csdn.net/weixin_43570367/article/details/106018731)
  > 
  ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
  > 作为程序员，你在编程时吃了哪些数学的亏？
+ ## [母亲节不能陪在妈妈身边，我用css和js给妈妈做了一个爱心飘落](https://blog.csdn.net/weixin_43570367/article/details/106018731)
+ > 
  ## [程序猿版：溢出吧，后浪](https://blog.csdn.net/loongggdroid/article/details/106030143)
  > 程序猿版：溢出吧，后浪
  ## [Intellij IDEA 美化指南](https://blog.csdn.net/qq_35067322/article/details/105852521)
  > Intellij IDEA 美化指南
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [前端还能这么玩？(女朋友生日，用前端写了一个好玩的送给了她，高兴坏了)](https://blog.csdn.net/qq_17623363/article/details/105445732)
+ ## [躲不开创建身份验证？开发者福音，更安全、更低成本的方案](https://blog.csdn.net/duxinshuxiaobian/article/details/106021817)
+ > 躲不开创建身份验证？开发者福音，更安全、更低成本的方案
+ ## [看完这篇JVM类加载器,我也能吊打面试官了](https://blog.csdn.net/qq_33589510/article/details/105250625)
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
- ## [Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？](https://blog.csdn.net/loongggdroid/article/details/105570597)
- > Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？
  ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
  > 【隐私大战】App在偷听你的生活吗？
  ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
  > 终于，月薪过5万了！
+ ## [开发人员如何优雅地与老板谈工资？](https://blog.csdn.net/duxinshuxiaobian/article/details/104890311)
+ > 开发人员如何优雅地与老板谈工资？
  ## [副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/104776362)
  > 副业收入是我做程序媛的3倍，工作外的B面人生是怎样的？
- ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
- > 大三实习生，字节跳动面经分享，已拿Offer
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
 # 人工智能 
- ## [程序员必学的5大数学知识](https://edu.csdn.net/combo/detail/1473)
- > 程序员必学的5大数学知识
- ## [LeetCode 1202. 交换字符串中的元素（并查集）](https://blog.csdn.net/qq_21201267/article/details/106042356)
- > LeetCode 1202. 交换字符串中的元素（并查集）
- ## [【图像识别】双线性插值算法&最近邻插值算法【详解】](https://blog.csdn.net/FRIGIDWINTER/article/details/106059256)
- > 【图像识别】双线性插值算法&amp;最近邻插值算法【详解】
- ## [Qt开源作品6-通用视频控件](https://blog.csdn.net/feiyangqingyun/article/details/106046639)
- > Qt开源作品6-通用视频控件
- ## [UML类图初见](https://blog.csdn.net/qq_43762191/article/details/106049438)
- > UML类图初见
- ## [Win10 Python+Nginx+FFmpeg+Django2.2搭建RTMP流媒体服务器并实现摄像头推流并且在网页上显示](https://blog.csdn.net/qq_41210304/article/details/106054737)
+ ## [优秀的程序员真的不写注释吗？](https://blog.csdn.net/qing_gee/article/details/106046200)
  > 
- ## [Auto.JS实现抖音，刷宝等刷视频app,自动点赞，自动滑屏，自动切换视频](https://blog.csdn.net/qq_40618664/article/details/103276120)
- > Auto.JS实现抖音，刷宝等刷视频app,自动点赞，自动滑屏，自动切换视频
- ## [如何理解 图像傅里叶变换的频谱图](https://blog.csdn.net/ViatorSun/article/details/82387854)
- > 如何理解 图像傅里叶变换的频谱图
- ## [ITMS-90809: Deprecated API Usage - New apps that use UIWebView are no longer accepted. Instead, use](https://blog.csdn.net/lingjunjie/article/details/106047150)
- > ITMS-90809: Deprecated API Usage - New apps that use UIWebView are no longer accepted. Instead, use
- ## [【2020年第二届“网鼎杯”网络安全大赛 青龙组】Web AreUSerialz](https://blog.csdn.net/HYD696/article/details/106039771)
- > 【2020年第二届“网鼎杯”网络安全大赛 青龙组】Web AreUSerialz
- ## [超级厉害的几个网站，一般人我都不告诉](https://blog.csdn.net/qq_44699174/article/details/106034640)
- > 超级厉害的几个网站，一般人我都不告诉
- ## [LeetCode 518. 零钱兑换 II（动态规划）](https://blog.csdn.net/qq_21201267/article/details/106049588)
- > LeetCode 518. 零钱兑换 II（动态规划）
- ## [杨辉三角特性讲解及Java实现](https://blog.csdn.net/rongyongchao/article/details/106065183)
- > 杨辉三角特性讲解及Java实现
- ## [连续时间信号，离散时间信号，模拟信号，数字信号的区别。](https://blog.csdn.net/m0_46598492/article/details/106042596)
- > 连续时间信号，离散时间信号，模拟信号，数字信号的区别。
- ## [AutoJs4.1.0实战教程---源码大放送](https://blog.csdn.net/zy0412326/article/details/106031527)
- > AutoJs4.1.0实战教程---源码大放送
+ ## [这下爽了，居然有人通过这个把Linux的命令提示符给整明白了](https://blog.csdn.net/qq_17623363/article/details/106047262)
+ > 
+ ## [“金三银四” 是找工作的最佳时期吗？](https://blog.csdn.net/qq_14996421/article/details/106048263)
+ > 
+ ## [机电学生写给十年后自己的一封信](https://blog.csdn.net/weixin_46423500/article/details/106067079)
+ > 机电学生写给十年后自己的一封信
+ ## [开发APP、微信小程序、网页,都需要什么？](https://blog.csdn.net/qq_43688587/article/details/105930744)
+ > 
+ ## [我的《母亲》](https://blog.csdn.net/qq_35190492/article/details/106034144)
+ > 我的《母亲》
+ ## [专升本，学历毁了我的一生！](https://blog.csdn.net/harvic880925/article/details/106050074)
+ > 专升本，学历毁了我的一生！
+ ## [高效科研神器——文献阅读篇](https://blog.csdn.net/weixin_38673554/article/details/106053874)
+ > 
+ ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
+ > 你怎么看欧阳娜娜空降阿里p8？
+ ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ > 
+ ## [VSCode 离线安装插件，实例讲解](https://blog.csdn.net/weixin_41698051/article/details/106076622)
+ > VSCode 离线安装插件，实例讲解
+ ## [全栈工程师为什么越混越困难，看这篇就够了](https://blog.csdn.net/huaxiangchen/article/details/106050664)
+ > 
+ ## [《原力计划-打卡挑战》第二周周榜揭晓！！！](https://blog.csdn.net/CSDNfreshnews/article/details/106049692)
+ > 《原力计划-打卡挑战》第二周周榜揭晓！！！
+ ## [男生更看重女生的身材脸蛋，还是思想？](https://blog.csdn.net/shenjian58/article/details/105039655)
+ > 男生更看重女生的身材脸蛋，还是思想？
+ ## [推荐10个堪称神器的学习网站](https://blog.csdn.net/qing_gee/article/details/103869737)
+ > 推荐10个堪称神器的学习网站
 # PM 
- ## [设计师必不可少的表单设计（上）](http://www.woshipm.com/pd/3844712.html)
- > 本文将我自己踩过的坑整理出来，目的是为了帮助那些刚迈入职场的设计师，对表单能有一个更好的了解，从而避免在工作中进入误区。目录：一、前言每个人生活中，都在...
- ## [我的数据价值观：是什么？有什么价值？如何产生价值？](http://www.woshipm.com/data-analysis/3846439.html)
- > 文章分析的内容涉及三个本质性的问题：数据是什么、数据有什么价值、数据是如何产生价值的。笔者把自己对这三个方面的理解称之为“数据的价值观”。对数据的认知深度与...
- ## [如何让对话机器人更优秀？](http://www.woshipm.com/pd/3846861.html)
- > 除却自然语言理解，对话机器人应该如何通过产品设计来变得更加优秀？本文将通过几个核心的产品设计技巧为您介绍如何让对话机器人更加优秀。话接前文《 机器人是如何实...
- ## [产品注册&登录设计，需要注意的23条规则](http://www.woshipm.com/pd/1483348.html)
- > 文章介绍了产品设计中在注册流程和登录流程两个方面需要注意的相关规则，了解了这些基本规则，能帮助你的设计做得更好。自从交易性电子商务开始，就一直有登录/注册流...
- ## [“我想转行”“对不起，您的简历与我司运营岗位不匹配”](http://www.woshipm.com/open/3852633.html)
- > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位。可以给大家看看一个合格的运营，进入运营岗位5年之后，能达到什么水平呢？（平均...
- ## [我是如何理解“红利”这件事的](http://www.woshipm.com/it/3846404.html)
- > 本文将分三个部分，从产品红利、渠道红利、变革红利的角度，分享笔者对红利的理解，希望内容对你有所启发。关于红利，最知名的说法莫过于雷军的：猪在风口上都可以飞...
- ## [按钮设计的7个基本原则](http://www.woshipm.com/ucd/3846458.html)
- > 本文介绍了按钮设计的7个基本原则，包括：强化按钮、凸显按钮位置、凸显重要按钮、把按钮按照合理的顺序放好、给按钮匹配释义标签、如果用户不想做任何操作，不安排按钮...
+ ## [B端产品经理：如何发现需求？](http://www.woshipm.com/pmd/3853349.html)
+ > 对产品经理来说，主动建立需求池是一项关键技能，而本文将从自我发现与外部获取两部分，聊聊如何发现需求。产品的价值在于满足目标用户需求的同时实现商业盈利，而需...
+ ## [微博PUSH策略：调研分析＆优化方案PRD](http://www.woshipm.com/it/3844144.html)
+ > 策略产品已经是一门体系较为完善的学科，想学习的小伙伴可以通过搜索引擎查找相关课程。本系列文章不讲方法论，只分享亲手分析的案例。着重展示思路，希望可以给大家带...
+ ## [从数据模型出发，预估下2020年中国5G手机市场表现](http://www.woshipm.com/data-analysis/3850065.html)
+ > 本文介绍了数据模型的概念、并用数据模型预估2020年5G手机销量及品牌分布。在3月份我曾经调研了中国手机市场5G手机的相关数据，主要是预估2020年销量和品牌分布，并在...
+ ## [如何设计出一款灵活的工单系统？](http://www.woshipm.com/pd/3843111.html)
+ > 围绕工单系统，本文将介绍它的价值、业务背景、用户场景、产品流程、产品设计，向大家分享如何设计一个灵活的工单系统。Part1 核心价值工单系统的核心价值是什么？...
+ ## [以阿里餐饮为例，B端产品用户访谈调研全解析](http://www.woshipm.com/operate/3848981.html)
+ > 阿里旗下的餐饮软件包括排队系统，而要做排队系统，就要理解餐厅的排队业务，就需要去调研一个餐厅现有的排队业务，进而才能规划出新的排队系统，下面就是一个业务调研...
+ ## [同城货运的囚徒困境——B端站不住，C端没生意](http://www.woshipm.com/it/3850050.html)
+ > 最近，同城货运热度颇高，争议不少。那么发展到现在，同城货运到底是优化了社会资源配置，还是在用户与司机之间横插一脚，成为一个收关卡费的“野蛮人”呢？最近，同城...
+ ## [如何写出一份好的解决方案](http://www.woshipm.com/zhichang/3846145.html)
+ > 本文从写方案的三个阶段（前期了解阶段、查找资料阶段、书写阶段）讲述如何写出一份好的、不被否决、有结构、有优势的解决方案。解决方案不只是一篇文档，而是一整套...
+ ## [SaaS、ToB工具类产品怎么设计私域流量裂变体系？](http://www.woshipm.com/operate/3850484.html)
+ > 对B端产品来说，直播同样可以作为触达用户的方式，实现获客与转化。在这篇文章中，笔者将为大家如何设计SaaS的“个人号+社群+直播”裂变获客体系，以及三个玩法。之前写...
+ ## [线上课程丨同样0基础转岗产品，为什么别人成大神，你还是菜鸟？](http://www.woshipm.com/online/3853431.html)
+ > 很多想成为产品经理的小伙伴，一开始理想都很丰满：熟读产品书籍→自学软件工具→一投简历就被HR邀约→面试谈笑风生→喜提年薪十几万的offer→入职即被老板赏识并手把手培养...
+ ## [互联网营销4.0时代，“场景”比“洗脑”更重要](http://www.woshipm.com/marketing/3850427.html)
+ > 如果品牌是飞在天上的风筝，场景就是风筝线，它让品牌能够接地气一些，和消费者产生共鸣。为什么“场景”更重要？消费者的行为都是在特定的场景下进行的，他们通过场景...
+ ## [同样是抄竞品，怎么他的产品就成功了](http://www.woshipm.com/pd/3849420.html)
+ > 问题来了，同样是抄竞品，怎么他的产品就成功了？而你的就不行呢？抄袭竞品听起来有些难听，转化为行业术语——竞品分析好一点，毕竟踩着前人走过的路可以少走一些弯路...
+ ## [产品经理如何写一份有效的简历？](http://www.woshipm.com/zhichang/3850675.html)
+ > 本文将以互联网非技术岗的简历撰写为主题，分享简历的本质与关键，以及如何写一份合格的简历、简历上需要避开的坑。之前《深度思考：大学生如何拿到产品offer？》文章...
  ## [案例拆解|“斑马AI课”营收破亿的背后的增长体系](http://www.chanpin100.com/article/111601)
  > 在玩家众多，竞争激烈的教育赛道里，“斑马AI课”为什么还能实现快速增长、营收破亿，相信这背后自然离不开它精细的用户增长策略制定与优化。
  ## [如何操办一场成功的产品发布会](http://www.chanpin100.com/article/111599)
