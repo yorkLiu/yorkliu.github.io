@@ -1,21 +1,21 @@
 ---
 title: 2020-05-14 IT News
 copyright: true
-date: 2020-05-14 08:00:52
+date: 2020-05-14 09:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“小学生”网民规模出炉：1.75亿人 61%玩游戏](http://mp.weixin.qq.com/s?src=11&timestamp=1589414404&ver=2337&signature=fLj7w7514mQvOs*WabBOyRlMGWYTWs07In6IDixib1IIq2g1OjNtV3SS46mu3iuIoT*YTOOTF75vCROtjcpCC9Nddj4-giZoEvbvjgbmVt-3rCLNM1ZRIXkO79oRxLlR&new=1)
- > 今日（5月13日）共青团中央维护青少年权益部、中国互联网络信息中心（CNNIC）联合发布《2019年全国未成年人互联网使用情况研究报告》（以下简称《报告》）。《报告》共抽样调查31个省34661名学生，涵盖小学、初...
- ## [5G基站电源配置如何估算?](http://mp.weixin.qq.com/s?src=11&timestamp=1589414404&ver=2337&signature=Z2UrRYDA5Fu5zwZtTLU3hl9yi-E4CaXR3NWy1pbMTudPj4XU*2JJ9FPlcvooqSDcUGUVnTW-8cE5EkwSxZExvn-H4FpxlOC*2JcPez3GhmX1CPu9lUf4NGLX3TedZMjw&new=1)
- > 5G基站建设，配套先行。随着三大运营商2020年5G集采落地，50万5G基站建设已在路上。但由于原4G基站站点新增5G设备后，整站功耗上升，相应的基站电源配套需首先进行升级改造，以保障5G基站稳定运行。那5G基站电源...
- ## [宣布“开源”的几何汽车 给行业带来了怎样的变革?](http://mp.weixin.qq.com/s?src=11&timestamp=1589414404&ver=2337&signature=UdRj3cXnBp7Zj1ta0LMWa*tVlGZIELRfCSmRRXmh-Q*Oc1Q5oMu4Fe6fBA7yhAKg5BVTKXIXjH5MIvNuUWCMONTa5Iow97ak4ti7sfpSX3oy6tGkHcEad1zWSz8itV-H&new=1)
+ ## [宣布“开源”的几何汽车 给行业带来了怎样的变革?](http://mp.weixin.qq.com/s?src=11&timestamp=1589416243&ver=2337&signature=UdRj3cXnBp7Zj1ta0LMWa*tVlGZIELRfCSmRRXmh-Q*Oc1Q5oMu4Fe6fBA7yhAKgibOhxeLLXrGVW1QFNMZ48h2Ujem7H-IGmithMBq4n0kF1XZTeNVwlVTfDcUQAQn*&new=1)
  > 这两天特斯拉的OTA又登上了热搜，这次的原因倒不是什么植入“车放屁、车跳舞”之类的小彩蛋，而是官方针对model 3长续航全轮驱动版车型推出了付费升级加速能力的服务，车主只需要花费1.41万元，就可以购买OTA升...
- ## [美国T-Mobile官宣：投资600亿美元加速5G部署](http://mp.weixin.qq.com/s?src=11&timestamp=1589414404&ver=2337&signature=KgOsQpV*HlBZYEUftwjdcYSoRZqmXX-OeIINd1zeoTT5Gx0aJXRDTh7loetDWKuYeECSusqgOT-HlORxziLM6LWhCpbH2l-iZPLOLA7Pcy0ZlzbBU*hgrYapEowbOUpL&new=1)
- > 据LightReading报道，美国运营商T-Mobile与Sprint完成合并后，T-Mobile计划在主要大都市迅速安装约3万座塔上2.5GHz无线电设备。尽管T-Mobile并未为此指出具体的部署时间表，但表示将努力建造1.5万座新塔
- ## [苹果造车的逻辑](http://mp.weixin.qq.com/s?src=11&timestamp=1589414404&ver=2337&signature=4kYFty9hVokMeNZfuDUbxxyrXhMqb2ml3mULaWHZq1YcrSF5C9B*oexumMXJSF1-uaMPxQyd5TvQjp7P5GvhRgUlGrn0hbHYde1-qZpKZaNqYfZdXtVDFvTbrRKG-hLR&new=1)
+ ## [“小学生”网民规模出炉：1.75亿人 61%玩游戏](http://mp.weixin.qq.com/s?src=11&timestamp=1589416243&ver=2337&signature=fLj7w7514mQvOs*WabBOyRlMGWYTWs07In6IDixib1IIq2g1OjNtV3SS46mu3iuIHnmWsO9e6CgQOUjzsX0iODjxJx0cc*37cCYI9p5Op3BiclvOVhllg5pa2wzTiPYX&new=1)
+ > 今日（5月13日）共青团中央维护青少年权益部、中国互联网络信息中心（CNNIC）联合发布《2019年全国未成年人互联网使用情况研究报告》（以下简称《报告》）。《报告》共抽样调查31个省34661名学生，涵盖小学、初...
+ ## [5G基站电源配置如何估算?](http://mp.weixin.qq.com/s?src=11&timestamp=1589416243&ver=2337&signature=Z2UrRYDA5Fu5zwZtTLU3hl9yi-E4CaXR3NWy1pbMTudPj4XU*2JJ9FPlcvooqSDcdRuNMxgGD6y049Hd1anekitdG335KM7BdW4kw27NhsAr2q0r0dd7SBbXxkmZWe4z&new=1)
+ > 5G基站建设，配套先行。随着三大运营商2020年5G集采落地，50万5G基站建设已在路上。但由于原4G基站站点新增5G设备后，整站功耗上升，相应的基站电源配套需首先进行升级改造，以保障5G基站稳定运行。那5G基站电源...
+ ## [苹果造车的逻辑](http://mp.weixin.qq.com/s?src=11&timestamp=1589416243&ver=2337&signature=4kYFty9hVokMeNZfuDUbxxyrXhMqb2ml3mULaWHZq1YcrSF5C9B*oexumMXJSF1-VllDxI4q*HTWfpXiaaSzuWhUOkjln2Vm8LUNCfDw7m2GK42UVEo9MlPzU2sWGEXN&new=1)
  > 2020年5月9日，一则苹果关于VR在车内应用的专利，再次将苹果造车的问题带到了我们面前。 使得我们在整个智能电动化浪潮汹涌之际，不得不再次思考： 苹果造车的逻辑是什么？ 透过苹果的汽车专利，进一步思考，未...
+ ## [美国T-Mobile官宣：投资600亿美元加速5G部署](http://mp.weixin.qq.com/s?src=11&timestamp=1589416243&ver=2337&signature=KgOsQpV*HlBZYEUftwjdcYSoRZqmXX-OeIINd1zeoTT5Gx0aJXRDTh7loetDWKuYN7-GyAxcVYiUAihGSU0t6hp7Is0sAdNM*nT8X219lfrGPn2LH5LScqgY44QtSff-&new=1)
+ > 据LightReading报道，美国运营商T-Mobile与Sprint完成合并后，T-Mobile计划在主要大都市迅速安装约3万座塔上2.5GHz无线电设备。尽管T-Mobile并未为此指出具体的部署时间表，但表示将努力建造1.5万座新塔
 # IT 技术 
  ## [Linux用户宝典：使用auto-cpufreq，自动优化CPU速度和功耗！](http://os.51cto.com/art/202005/616503.htm)
  > Linux用户宝典：使用auto-cpufreq，自动优化CPU速度和功耗！
@@ -33,12 +33,20 @@ categories: IT NEWS
  > 人工智能如何改变医疗保健 实时数据分析对医疗保健至关重要
  ## [关于Wi-Fi网状网络：你需要了解的一切](http://network.51cto.com/art/202005/616399.htm)
  > 关于Wi-Fi网状网络：你需要了解的一切
+ ## [神经网络？决策树？都做不到！谁能解决可解释性AI？](http://ai.51cto.com/art/202005/616510.htm)
+ > 神经网络是准确的，但无法解释;在计算机视觉中，决策树是可解释的，但不准确。可解释性AI(XAI)试图弥合这一
+ ## [都在说数字化转型，你的安全保障模式真的适合数字世界吗？](http://netsecurity.51cto.com/art/202005/616509.htm)
+ > 随着网络环境的不断变化，入侵者总是在寻找新的方法来利用组织系统和应用程序中的弱点。因此，网络相关事件
+ ## [WiFi 6E将可能与5G网络共用6GHz频谱](http://network.51cto.com/art/202005/616508.htm)
+ > 由于无线频谱有限，不同的网络标准有时会出现争夺频谱的情况，不过在未来推出的WiFi 6E上，就有机会可以与5
+ ## [面试常被问到的 JDK 命令，你知道几个？](http://developer.51cto.com/art/202005/616507.htm)
+ > 阿粉在这篇文章里给大家介绍一些JDK常见的命令，在平时的工作和学习中大家可以尝试去使用一下，感受一下，
+ ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
+ > 作为程序员，你在编程时吃了哪些数学的亏？
  ## [终于有人把域名和DNS服务器给写明白了](https://blog.csdn.net/qq_17623363/article/details/106037921)
  > 
  ## [专升本，学历毁了我的一生！](https://blog.csdn.net/harvic880925/article/details/106050074)
  > 专升本，学历毁了我的一生！
- ## [作为程序员，你在编程时吃了哪些数学的亏？](https://edu.csdn.net/combo/detail/1473)
- > 作为程序员，你在编程时吃了哪些数学的亏？
  ## [程序猿版：溢出吧，后浪](https://blog.csdn.net/loongggdroid/article/details/106030143)
  > 程序猿版：溢出吧，后浪
  ## [从0开始写前端UI框架：概述](https://blog.csdn.net/zhang5476499/article/details/105616178)
@@ -47,52 +55,55 @@ categories: IT NEWS
  > 蚂蚁资深技术专家刘晓莹十年支付宝回忆录
  ## [Mysql性能优化：为什么count(*)这么慢？](https://blog.csdn.net/qq_34162294/article/details/105592283)
  > Mysql性能优化：为什么count(*)这么慢？
- ## [小议车辆环境视觉基础前视感知](https://blog.csdn.net/ariesjzj/article/details/105316083)
- > 小议车辆环境视觉基础前视感知
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
- > 
  ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
  > 太狠了，疫情期间面试，一个问题砍了我5000！
- ## [代码注释如此沙雕，会玩还是你们程序员！](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105416333)
- > 代码注释如此沙雕，会玩还是你们程序员！
- ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
- > 【隐私大战】App在偷听你的生活吗？
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ > 
  ## [Spark Codegen原理分析](https://blog.csdn.net/zyzzxycj/article/details/105666222)
  > 
+ ## [小议车辆环境视觉基础前视感知](https://blog.csdn.net/ariesjzj/article/details/105316083)
+ > 小议车辆环境视觉基础前视感知
+ ## [【隐私大战】App在偷听你的生活吗？](https://blog.csdn.net/weixin_45443931/article/details/105672034)
+ > 【隐私大战】App在偷听你的生活吗？
+ ## [终于，月薪过5万了！](https://blog.csdn.net/likun557/article/details/105355394)
+ > 终于，月薪过5万了！
  ## [Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？](https://blog.csdn.net/loongggdroid/article/details/105570597)
  > Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？
 # 人工智能 
  ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
  > 2020年转行学Python，第一步！
- ## [现在才明白：SQL原来这么重要！不会的人工作都不好找！](https://edu.csdn.net/course/detail/27328)
- > 现在才明白：SQL原来这么重要！不会的人工作都不好找！
- ## [程序员的基本功：从0开始学Python数据分析与挖掘](https://edu.csdn.net/course/detail/6861)
- > 程序员的基本功：从0开始学Python数据分析与挖掘
- ## [LeetCode 201. 数字范围按位与（位运算）](https://blog.csdn.net/qq_21201267/article/details/106083586)
- > LeetCode 201. 数字范围按位与（位运算）
- ## [UML类图初见](https://blog.csdn.net/qq_43762191/article/details/106049438)
- > UML类图初见
- ## [ITMS-90809: Deprecated API Usage - New apps that use UIWebView are no longer accepted. Instead, use](https://blog.csdn.net/lingjunjie/article/details/106047150)
- > ITMS-90809: Deprecated API Usage - New apps that use UIWebView are no longer accepted. Instead, use
- ## [Auto.JS实现抖音，刷宝等刷视频app,自动点赞，自动滑屏，自动切换视频](https://blog.csdn.net/qq_40618664/article/details/103276120)
- > Auto.JS实现抖音，刷宝等刷视频app,自动点赞，自动滑屏，自动切换视频
- ## [（数理方程）Matlab模拟琴弦振动发声并显示振动图像](https://blog.csdn.net/weixin_43419816/article/details/106063588)
- > （数理方程）Matlab模拟琴弦振动发声并显示振动图像
- ## [Qt开源作品7-高亮按钮控件](https://blog.csdn.net/feiyangqingyun/article/details/106069553)
- > Qt开源作品7-高亮按钮控件
- ## [梦恬爸爸分享之第十三周学习](https://blog.csdn.net/wisdomspark/article/details/106046323)
- > 梦恬爸爸分享之第十三周学习
- ## [基于MFC的透视投影算法实现](https://blog.csdn.net/weixin_43751983/article/details/106075645)
- > 基于MFC的透视投影算法实现
- ## [【图像识别】双线性插值算法&最近邻插值算法【详解】](https://blog.csdn.net/FRIGIDWINTER/article/details/106059256)
- > 【图像识别】双线性插值算法&amp;最近邻插值算法【详解】
- ## [Win10 Python+Nginx+FFmpeg+Django2.2搭建RTMP流媒体服务器并实现摄像头推流并且在网页上显示](https://blog.csdn.net/qq_41210304/article/details/106054737)
- > 
- ## [PHP集成腾讯云直播与七牛云直播相关操作](https://blog.csdn.net/qq_42958118/article/details/106077675)
- > PHP集成腾讯云直播与七牛云直播相关操作
- ## [JAVA集合（List）](https://blog.csdn.net/weixin_41146000/article/details/106085091)
- > JAVA集合（List）
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+# PM 
+ ## [线上课程 | 引流难，转化难，复购难？那可能是你还不知道这些私域流量技巧…](http://www.woshipm.com/online/3857699.html)
+ > 说起私域流量，这个词是什么时候进入到你视野里的呢？作为年度热词，从2019 年开始，私域流量就频繁出现在各种线下分享会和线上的微信文章中。先说定义，私域流量就是...
 
     
