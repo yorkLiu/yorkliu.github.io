@@ -1,7 +1,7 @@
 ---
 title: 2020-05-17 IT News
 copyright: true
-date: 2020-05-17 08:00:53
+date: 2020-05-17 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -53,35 +53,35 @@ categories: IT NEWS
  ## [几十场群面经验后，我发现了这个技巧](https://blog.csdn.net/zhongyangzhong/article/details/106030570)
  > 几十场群面经验后，我发现了这个技巧
 # 人工智能 
- ## [事务对数据库的性能有什么影响？有无索引查找对数据库性能影响多大？不跟你多bb，反手就是一波实例连招---MySql insert 2000万条数据性能测试和select有无索引查找测试](https://blog.csdn.net/weixin_44185736/article/details/105454820)
+ ## [超星学习通，智慧树—刷课脚本！解放你的课余时间！（2020/5月 最新）](https://blog.csdn.net/qq_31254489/article/details/104579438)
  > 
- ## [详解MySQL数据库常用sql语句操作增、删、改、查，注释，模糊查询，多表联动，正则表达式等](https://blog.csdn.net/weixin_41229588/article/details/106118558)
+ ## [LeetCode 438. 找到字符串中所有字母异位词（滑动窗口）](https://blog.csdn.net/qq_21201267/article/details/106149447)
+ > LeetCode 438. 找到字符串中所有字母异位词（滑动窗口）
+ ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
+ > 2020年转行学Python，第一步！
+ ## [webrtc 视频流接收流程分析从 socket 接收数据一直到放入 jitterbuffer 内整个处理流程与环节](https://blog.csdn.net/freeabc/article/details/106142951)
+ > webrtc 视频流接收流程分析从 socket 接收数据一直到放入 jitterbuffer 内整个处理流程与环节
+ ## [ps-色彩模式与图像色彩调整](https://blog.csdn.net/weixin_46121783/article/details/106139889)
+ > ps-色彩模式与图像色彩调整
+ ## [Android 共享内存实现跨进程大文件传输(设计思路和Demo实现绕过Binder传输限制)](https://blog.csdn.net/ChaoLi_Chen/article/details/106105894)
  > 
- ## [MySQL期末测试题](https://blog.csdn.net/Long_UP/article/details/106123686)
- > MySQL期末测试题
- ## [程序员必学的5大数学知识](https://edu.csdn.net/combo/detail/1473)
- > 程序员必学的5大数学知识
- ## [阿里Mycat 和京东ShardingSphere：分布式数据库中间件哪家强？](https://blog.csdn.net/horses/article/details/106086208)
+ ## [光流法的视频移动目标检测（matlab代码）](https://blog.csdn.net/durzak/article/details/106114210)
+ > 光流法的视频移动目标检测（matlab代码）
+ ## [抖音视频去水印工具（免费）](https://blog.csdn.net/david_pfw/article/details/105996869)
+ > 抖音视频去水印工具（免费）
+ ## [Unity3D游戏制作学习记录02——丛林战争](https://blog.csdn.net/LAUGINJI/article/details/106117113)
  > 
- ## [这才是你需要的最基础的数据库面试题（通俗易懂）](https://blog.csdn.net/a1439775520/article/details/106086860)
+ ## [使用Nginx搭建反向代理，及配置缓存](https://blog.csdn.net/hefrankeleyn/article/details/106131318)
  > 
- ## [令人头大的慢查询分析](https://blog.csdn.net/zycxnanwang/article/details/106115506)
+ ## [Python实现5毛钱特效](https://blog.csdn.net/ZackSock/article/details/105558172)
  > 
- ## [PostgreSQL入门](https://blog.csdn.net/linux_yyp/article/details/106121211)
- > PostgreSQL入门
- ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
+ ## [OpenGL基础10：变换](https://blog.csdn.net/Jaihk662/article/details/106141488)
  > 
- ## [sql数据库的十问十答————最精炼的基础总结](https://blog.csdn.net/qq_42147171/article/details/106092911)
- > 
- ## [java.sql.SQLException: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_c](https://blog.csdn.net/nicedaych/article/details/106128093)
- > java.sql.SQLException: Illegal mix of collations (latin1_swedish_ci,IMPLICIT) and (utf8mb4_general_c
- ## [让你薪资翻倍的mysql优化面试回答，面试官都惊呆了。。](https://blog.csdn.net/Thepatterraining/article/details/106123961)
- > 
- ## [1.2数据模型（实现世界的数据化过程）](https://blog.csdn.net/diviner_s/article/details/106136032)
- > 
- ## [【思路方法】手机号归属地前三后四或者前三后五逻辑规则](https://blog.csdn.net/bbyn1314/article/details/89326768)
- > 【思路方法】手机号归属地前三后四或者前三后五逻辑规则
- ## [面试必问——MySql的联合索引以及索引失效情况](https://blog.csdn.net/weixin_45124488/article/details/106144358)
- > 
+ ## [QML与C++混合编程](https://blog.csdn.net/hebbely/article/details/106112928)
+ > QML与C++混合编程
+ ## [教你用matlab制作动态心形曲线（保存为AVI视频版本）](https://blog.csdn.net/ywsydwsbn/article/details/106148348)
+ > 教你用matlab制作动态心形曲线（保存为AVI视频版本）
+ ## [屏幕文字识别 v3.0.0 工具下载及使用教程](https://blog.csdn.net/qq_46269068/article/details/106127633)
+ > 屏幕文字识别 v3.0.0 工具下载及使用教程
 
     
