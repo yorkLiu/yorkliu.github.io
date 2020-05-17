@@ -1,7 +1,7 @@
 ---
 title: 2020-05-17 IT News
 copyright: true
-date: 2020-05-17 09:01:08
+date: 2020-05-17 10:01:50
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -34,54 +34,57 @@ categories: IT NEWS
  > 在中国程序员是青春饭吗？
  ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
  > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
+ ## [程序员为什么要写博客？怎么写博客？](https://blog.csdn.net/sinat_33921105/article/details/106134813)
+ > 
  ## [面试官问我：Andriod中子线程为什么不能更新UI？](https://blog.csdn.net/dfskhgalshgkajghljgh/article/details/106093924)
  > 
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
- ## [Python学到什么程度可以面试工作？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105631820)
- > Python学到什么程度可以面试工作？
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
+ ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
+ > 如果你是老板，你会不会踢了这样的员工？
  ## [互联网人，天生就是送外卖的料！](https://blog.csdn.net/xianaoshi/article/details/106009954)
  > 互联网人，天生就是送外卖的料！
  ## [【相亲】95年高颜值妹子，喜欢上进的男生](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】95年高颜值妹子，喜欢上进的男生
- ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
- > 如果你是老板，你会不会踢了这样的员工？
  ## [几十场群面经验后，我发现了这个技巧](https://blog.csdn.net/zhongyangzhong/article/details/106030570)
  > 几十场群面经验后，我发现了这个技巧
 # 人工智能 
- ## [超星学习通，智慧树—刷课脚本！解放你的课余时间！（2020/5月 最新）](https://blog.csdn.net/qq_31254489/article/details/104579438)
- > 
- ## [LeetCode 438. 找到字符串中所有字母异位词（滑动窗口）](https://blog.csdn.net/qq_21201267/article/details/106149447)
- > LeetCode 438. 找到字符串中所有字母异位词（滑动窗口）
- ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
- > 2020年转行学Python，第一步！
- ## [webrtc 视频流接收流程分析从 socket 接收数据一直到放入 jitterbuffer 内整个处理流程与环节](https://blog.csdn.net/freeabc/article/details/106142951)
- > webrtc 视频流接收流程分析从 socket 接收数据一直到放入 jitterbuffer 内整个处理流程与环节
- ## [ps-色彩模式与图像色彩调整](https://blog.csdn.net/weixin_46121783/article/details/106139889)
- > ps-色彩模式与图像色彩调整
  ## [Android 共享内存实现跨进程大文件传输(设计思路和Demo实现绕过Binder传输限制)](https://blog.csdn.net/ChaoLi_Chen/article/details/106105894)
  > 
- ## [光流法的视频移动目标检测（matlab代码）](https://blog.csdn.net/durzak/article/details/106114210)
- > 光流法的视频移动目标检测（matlab代码）
- ## [抖音视频去水印工具（免费）](https://blog.csdn.net/david_pfw/article/details/105996869)
- > 抖音视频去水印工具（免费）
- ## [Unity3D游戏制作学习记录02——丛林战争](https://blog.csdn.net/LAUGINJI/article/details/106117113)
+ ## [利用Canvas实现绘图功能（绘制五角星）](https://blog.csdn.net/qq_44164791/article/details/106147674)
  > 
- ## [使用Nginx搭建反向代理，及配置缓存](https://blog.csdn.net/hefrankeleyn/article/details/106131318)
+ ## [Codeforces Round 642 (Div. 3)D. Constructing the Array（广度优先搜索）](https://blog.csdn.net/amazingee/article/details/106138308)
+ > Codeforces Round 642 (Div. 3)D. Constructing the Array（广度优先搜索）
+ ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
+ > 2020年转行学Python，第一步！
+ ## [Android用Canvas画一个真正能跑的跑马灯](https://blog.csdn.net/qq_42761395/article/details/106134412)
  > 
- ## [Python实现5毛钱特效](https://blog.csdn.net/ZackSock/article/details/105558172)
+ ## [Android记事本NotePad应用功能拓展](https://blog.csdn.net/qq_41868108/article/details/106132979)
  > 
- ## [OpenGL基础10：变换](https://blog.csdn.net/Jaihk662/article/details/106141488)
+ ## [Android 之 setContentView 源码阅读](https://blog.csdn.net/baidu_40389775/article/details/106143441)
  > 
- ## [QML与C++混合编程](https://blog.csdn.net/hebbely/article/details/106112928)
- > QML与C++混合编程
- ## [教你用matlab制作动态心形曲线（保存为AVI视频版本）](https://blog.csdn.net/ywsydwsbn/article/details/106148348)
- > 教你用matlab制作动态心形曲线（保存为AVI视频版本）
- ## [屏幕文字识别 v3.0.0 工具下载及使用教程](https://blog.csdn.net/qq_46269068/article/details/106127633)
- > 屏幕文字识别 v3.0.0 工具下载及使用教程
+ ## [Android屏幕适配(二)：AutoSize今日头条屏幕适配方案](https://blog.csdn.net/weixin_42574892/article/details/106135700)
+ > Android屏幕适配(二)：AutoSize今日头条屏幕适配方案
+ ## [iOS里微信浏览器长按无法识别二维码（ios微信里二次分享不好使）](https://blog.csdn.net/weixin_42618523/article/details/106144171)
+ > iOS里微信浏览器长按无法识别二维码（ios微信里二次分享不好使）
+ ## [如何通过代码注入的方式在任意apk中添加图片轮播功能](https://blog.csdn.net/pinksofts/article/details/106138751)
+ > 
+ ## [Android 7.0 之 FileProvider运用：拍照获取头像并设置](https://blog.csdn.net/HeartCircle/article/details/106125514)
+ > Android 7.0 之 FileProvider运用：拍照获取头像并设置
+ ## [记第一次面试之被面试官毒打--android开发实习岗位](https://blog.csdn.net/weixin_44702572/article/details/106143683)
+ > 
+ ## [如何打开未注册的Activity](https://blog.csdn.net/pxq10422/article/details/106130504)
+ > 
+ ## [iOS RSA2 加密、解密 、签名和验证签名](https://blog.csdn.net/TaLinBoy/article/details/106140526)
+ > iOS RSA2 加密、解密 、签名和验证签名
+ ## [Flutter项目目录解析](https://blog.csdn.net/qq_44952663/article/details/106130876)
+ > Flutter项目目录解析
+# PM 
+ ## [互联网医疗：处方流转的4种主流模式](http://www.woshipm.com/it/3868726.html)
+ > 本文分析了处方流转的4种主流模式，并结合案例对这几种模式展开了阐述，与大家分享。处方流转其实是个老话题，早就有很多讨论。处方流转同时也是个很虚的东西，说的人...
 
     
