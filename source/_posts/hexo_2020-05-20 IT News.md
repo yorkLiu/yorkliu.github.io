@@ -1,7 +1,7 @@
 ---
 title: 2020-05-20 IT News
 copyright: true
-date: 2020-05-20 10:01:12
+date: 2020-05-20 12:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -82,59 +82,67 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [反思华为，无“根”之痛](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=DaVEJKLhlhdeJ*W*NQ9UMKXIZWfPNjTTUd0P1v5TiDVTW1iVXrCUMF4*8YhvrOabHz0iIu2d2aue9ZjrHxrJGtbK*-*rEkPA1iFrEPj4vhQ7aeNUTDMNzQ8Lw483T0qe&new=1)
+ ## [反思华为，无“根”之痛](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=DaVEJKLhlhdeJ*W*NQ9UMKXIZWfPNjTTUd0P1v5TiDV7L8ZVc1pD5p6o*XlIkHbkw4mvHWiXFdPQ-IqJf3GcETAYmJT1zVD5LxH2U58POz482xrOF4WnKfcALcjttWD5&new=1)
  > 作者 l 鲁不逊 来源 l 量子学派（ID：quantumschool） 袋鼠说      选你想读的深度好文“根”对每一个行业的影响都巨大，由于我国“根”技术某些方面的缺乏，华为遭受美国封杀。今天，袋鼠君分享的这篇文章“华...
- ## [新基建藏着哪些新机会?](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=EMPzkDRJmX5xsrW50ZthvAh4*8CXYCeEc4qcFzCwljpQ3-uHLOSD9MdZ6N3YcQGTM2ROgioXYcxpZ5KhwZ6R68AaDqWMvow8DpJfVikX7d9trDvIDKGSNmWVEltu8xo3&new=1)
- > 导读：新基建之所以“新”，不仅是为了与传统的“铁公基”相区别，而是更加突出“信智联”。     “新基建”究竟“新”在哪里？这个“新”究竟为中国企业带来怎样的新机遇？    第一个新机遇：新制造就制造业企...
- ## [\[报告\]特斯拉动力电池深度剖析(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=gQwGHn0NsrkIy-sks53tzDzR86ME9*pO0fkpPtpirwELDnOeBXbfkPm7R7PKB4sbW6X4LH7-8TRMHnsEJvUak2YfR6elVAXdkuIePMKjIXRoxhejMsQ1*UqMkZNqG0i5&new=1)
- > 过去200多年以来，技术进步始终推动电池向能量密度更高、成本更低的方向演进。车用动力电池总体经历了镍氢/锰酸锂/钴酸锂-磷酸铁锂-三元锂电三个阶段，电池性能持续优化，成本不断下降。特斯拉是全球电动车龙头...
- ## [昨夜，微软甩出10项硬核新品!28.5万个核心的AI超算机，最大语言模型开源](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=mH3Hrzohzu7cXf4Uhz2FOHbkoGMhBDHTvqXAHvD7qJdOsAETVKdKcG3NPQQXUZPDtAe7bbzJDYS71FI1XSp8tM9D0H2lVbaGM9VRzuGNXCunNbUNgmv7aC4BbqMrxA-k&new=1)
+ ## [股价一夜暴涨340%，电子电路3D打印要火?生物3D打印要火?](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=5X8LjCP5UBUHjyaIZ2ICqyclD-moqXmfQkjEJTCkxhZ-on9Cr0TgFANgC9EW5tThpNdExAxv5*ZxMLtmZacsYGDhRTZ1YjKkFDVMTEX3spPppBTQIVNcJKMl-xmlaB0K&new=1)
+ > 市场无限好，只是未发现？2020年5月20日，南极熊发现，全球电路板3D打印龙头公司Nano Dimension股价一夜暴涨340%！市值从2600万涨到9100万美元，换手率更是达1200%。 △5月19日Nano Dimension L
+ ## [贵州移动实现“5G县县通”](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=h1V-SiEDjA5c8IkMWh7qklsrg4*dxO5kTHsBg7wnfGGz3jv5HzKKDdjvq5Vn-JxMxpRBlO1PwJBk2Aa8EwY2omyZ0pXF9Nr2F0fk26uj1rw=&new=1)
+ > 本报讯 5月18日，贵州移动宣布：贵州省全面实现“5G网络县县通”和“千兆宽带县县通”，标志着2020年，贵州移动打造千兆5G、千兆宽带“双引擎”赋能未来。　　据悉，2017年，由中国移动牵头提出的网络架构正...
+ ## [苹果今年或推 AR 眼镜 499 美元；索尼：很快推出 PS5 主机；最高法：未成年人网络打赏可以退还|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=89pJrh7dV0LxKDjpU8q2Khlq8TdSCNKbeX08moCl8MseCTr*4El4OQ0gLeS-bYfOUICyRBS4sLnpOvbNaeyMSdpdleShMF5nknJWTgu1f3*zgGyhmmzzySi72VNQSa7K&new=1)
+ > 纳斯达克：瑞幸咖啡将于 5 月 20 日复牌5 月 20 日讯，纳斯达克周二表示，计划于美国东部时间 5 月 20 日上午 7 点（北京时间 5 月 20 日晚上 7 点）恢复瑞幸咖啡的交易。纳斯达克在 4 月 7 日停止了该公司的股...
+ ## [芯愿景展开新愿景 国产EDA软件商闯关科创板](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=FYQ9cNS1sPSkXFmWCsJc8OMktJPFaNxtaWD1ZliVi8whh6HL7nuw8HXh6edm1mJnCxHtpf9LCLouJoA98NPIBdJmxlur6kqDkgcxamRXY*4=&new=1)
+ > 聚集了一大批“芯片强军”的科创板，有望再迎“新兵”。5月19日，北京芯愿景软件技术股份有限公司（下称“芯愿景”）科创板上市申请获上交所受理，吹响了国产EDA软件供应商奔赴科创赛道的号角。至此，科创板...
+ ## [昨夜，微软甩出10项硬核新品!28.5万个核心的AI超算机，最大语言模型开源](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=mH3Hrzohzu7cXf4Uhz2FOHbkoGMhBDHTvqXAHvD7qJdSiCorZEy13mpoGfZ2zzx8j5FkScsEA3sHMoaoC4TH*-CEkdDAx-CiG4o5IWNQnKU6j3416O45J*TQdmoAGhHE&new=1)
  > 看点：微软砸10亿美元扶持的超算来了，一文看尽昨夜Build大会十大看点！智东西5月20日消息，昨晚，一年一度的微软Build开发者大会拉开序幕。与往常不一样的是，大会的舞台从往年的美国西雅图搬到了线上，同时发...
- ## [独家：三大运营商都强调服务 但其中一家前两个月成黑马反超当第一](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=iQQ1dbR0nRT3bWAblo-mNEYixxdgxPwy8KT0zoa8qCkGe5gUALlc5aoD17RfCvVIN*FLApvl4l0ElWICXEawphZCSrWiyJzhB*UaGtZEMTo9zfsbq3b7Xpsb4V0YQHMM&new=1)
+ ## [新基建藏着哪些新机会?](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=EMPzkDRJmX5xsrW50ZthvAh4*8CXYCeEc4qcFzCwljqDtXl6gykRu*FOPoYUAJDw1QIzOOti0Zzd7nwpuzN4ln3Bv0rx9k9-U9Uc1V7SMHgtcmK-ShVaxPBqcoMLxnpB&new=1)
+ > 导读：新基建之所以“新”，不仅是为了与传统的“铁公基”相区别，而是更加突出“信智联”。     “新基建”究竟“新”在哪里？这个“新”究竟为中国企业带来怎样的新机遇？    第一个新机遇：新制造就制造业企...
+ ## [\[报告\]特斯拉动力电池深度剖析(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=gQwGHn0NsrkIy-sks53tzDzR86ME9*pO0fkpPtpirwGb5g7y4oy6sXYyexl2dg-1PGAKbaSiyDCS0MIJXx0YQ7LjpmBb8TGQ9Ig6WduR*UpcimWIsIA6WkB2ZWAraH-f&new=1)
+ > 过去200多年以来，技术进步始终推动电池向能量密度更高、成本更低的方向演进。车用动力电池总体经历了镍氢/锰酸锂/钴酸锂-磷酸铁锂-三元锂电三个阶段，电池性能持续优化，成本不断下降。特斯拉是全球电动车龙头...
+ ## [独家：三大运营商都强调服务 但其中一家前两个月成黑马反超当第一](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=iQQ1dbR0nRT3bWAblo-mNEYixxdgxPwy8KT0zoa8qCmpW2QZSSufeB4t8nHj9vVifokk5OvnYyuLEiNMHxY3ZpyHkblo0FH7coV5-P7PyAWcTO-HeIAl*MI3YrbhAp9i&new=1)
  > 运营商财经网 吴碧慧/文 据知情人士向运营商财经网独家透露，随着5G的发展，三大运营商都强调比拼服务，但是最近连续两个月中国移动用户满意度都第一。近年来，三大运营商纷纷陷入业绩困境，加之5G时代的到来，...
- ## [中国芯持续发力，美国高通芯片出货量大跌近两成](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=7JtBCfivgcAnKrBN5F2uZd9xmXLQl4ZN-BaNfUoIDPiJgxQP0ZBGo75ECRfjfw7CkR7U70nRccireoXu-iu81RJs0AfOyH1UtQubsse2gZ1oFKxByIgNYtYfcj9JwzsV&new=1)
+ ## [中国芯持续发力，美国高通芯片出货量大跌近两成](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=7JtBCfivgcAnKrBN5F2uZd9xmXLQl4ZN-BaNfUoIDPii8xcdHD96Rg3H-vhFzFdHPdSvsFcQQrNqzyBei3BNhTEBGOd8p9vIMYPfNbbjKUsCVDLpAVkPSOx5emybaiqX&new=1)
  > 日前中国两家手机企业小米、vivo都宣布推出采用联发科芯片的手机，此前OPPO已首发联发科的天玑1000，可以看出中国手机企业与中国台湾的这家手机芯片企业的合作关系日渐紧密，中国芯越来越受到国产手机品牌的欢迎...
- ## [对话华为中国董明：谁能分享5G红利，只有靠努力，让时间说话](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=rYVkSPYd3AgrPG*H7axXuWD-PhauyTj2HLMRI8Vi7y4tkEHA-ueGesBZx*JqTTzLbEPxl3U1C4BnZgN-7SYC4zGyEgfOiavWs1Js6QWBP52G5-mFNfRhU2DLfCcquq*E&new=1)
+ ## [对话华为中国董明：谁能分享5G红利，只有靠努力，让时间说话](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=rYVkSPYd3AgrPG*H7axXuWD-PhauyTj2HLMRI8Vi7y5ugLti79NphFwfx-7wh*c8hCogMLpvhkE*8lOWwmlZ7pNqzkQrgqFt0Hgo2lJ*L0W6pAOukRVqru-rNFU7c3OH&new=1)
  > 王国维将人生分为三大境界，5G也可以分这三个境界。如今5G业务正从第二境界，即“衣带渐宽终不悔，为伊消得人憔悴”，向“众里寻他千百度，暮然回首，那人正在灯火阑珊处”最高境界迈进。在“新基建”下，中国5G...
- ## [报告：美国出狠招斩华为芯片后路!中芯国际能否成最强备胎?](http://mp.weixin.qq.com/s?src=11&timestamp=1589939900&ver=2349&signature=5JjaRAK48*aa8ASi1ESBRGYT01ZpxSX0526FpZyax7w1CG30LPwLnbK-ErF*dqybrz2GtKc3aFLt3LIq5yH9vxWM*qbFCVC4gRcS9UM1D0s4sqk6jSg*g11H*Bfsey9O&new=1)
+ ## [报告：美国出狠招斩华为芯片后路!中芯国际能否成最强备胎?](http://mp.weixin.qq.com/s?src=11&timestamp=1589945405&ver=2349&signature=5JjaRAK48*aa8ASi1ESBRGYT01ZpxSX0526FpZyax7zm8ZtVFSw*Vl9Xc4GWG7pGNU8m-TM4byDWohulsxCZ5JrMbTYVz15xSpdQRb4D4akp3fc*E1PXJEYQLDCtC*ZS&new=1)
  > 导读：自古英雄多磨难，而公司也是人的集体。美国当地时间5月15日，美国再次升级对华为禁令，再次将华为逼上绝路。今天，华为以“自古英雄多磨难”霸气回应美国禁令。在疫情、贸易战继续升级的大背景下，华为芯...
 # IT 技术 
+ ## [信息化、数字化、智能化  阳光保险集团十五年科技建设之路](http://www.cioage.com/art/202005/616980.htm)
+ > 信息化、数字化、智能化  阳光保险集团十五年科技建设之路
  ## [谁能想到，我给技术总监“上了一课”](http://developer.51cto.com/art/202005/616953.htm)
  > 谁能想到，我给技术总监“上了一课”
- ## [DevOps中端点检测与响应的必要性](http://netsecurity.51cto.com/art/202005/616908.htm)
- > DevOps中端点检测与响应的必要性
  ## [5G与WiFi 6之争，对物联网意味着什么](http://iot.51cto.com/art/202005/616843.htm)
  > 5G与WiFi 6之争，对物联网意味着什么
  ## [从零搭建一个基于ELK的日志、指标收集与监控系统](http://news.51cto.com/art/202005/616830.htm)
  > 从零搭建一个基于ELK的日志、指标收集与监控系统
  ## [基于 Prometheus 的云上 MySQL 监控实践](http://database.51cto.com/art/202005/616822.htm)
  > 基于 Prometheus 的云上 MySQL 监控实践
+ ## [DevOps中端点检测与响应的必要性](http://netsecurity.51cto.com/art/202005/616908.htm)
+ > DevOps中端点检测与响应的必要性
  ## [2020年十大机器学习初创公司](http://ai.51cto.com/art/202005/616935.htm)
  > 2020年十大机器学习初创公司
  ## [边缘计算赋能智慧城市：机遇与挑战](http://iot.51cto.com/art/202005/616863.htm)
  > 边缘计算赋能智慧城市：机遇与挑战
- ## [终于有人把数据科学、机器学习和人工智能讲明白了](http://ai.51cto.com/art/202005/616787.htm)
- > 终于有人把数据科学、机器学习和人工智能讲明白了
- ## [程序员不懂浪漫？来瞧瞧这些用代码编制的原创情书吧](http://news.51cto.com/art/202005/616961.htm)
- > 今天是520，被很多人称为网络情人节。说来也怪，从谈恋爱到结婚，每逢情人节前的那个深夜，我都会被沉重的
- ## [为什么暗网监测不是必需的？](http://netsecurity.51cto.com/art/202005/616960.htm)
- > 近年来，“暗网”已成为主流。过去，暗网市场的论坛、聊天室、工具等只在网络犯罪分子和黑客之间流行，主要
- ## [AI 复原 100 年前的京城老视频，靠这三个开源工具](http://news.51cto.com/art/202005/616963.htm)
- > 近日，一段拍摄于 100 年前的老北京城影像被央视转发，在微博上火了。据了解，该视频出自一位 B 站的 UP
- ## [如何在基于云计算的协作应用程序中保护企业数据](http://cloud.51cto.com/art/202005/616959.htm)
- > 云计算的采用率如今以惊人的速度增长，使组织可以自由地在满足其特定业务需求的众多云应用程序中存储数据。
- ## [在云计算方面如何引导医疗支出](http://cloud.51cto.com/art/202005/616958.htm)
- > 随着冠状病毒疫情的持续，人们可能会在压力重重的医疗保健系统中看到新的支出模式。云计算可以帮助解决疫情
- ## [未来的人工智能，不一定都是善意的](http://ai.51cto.com/art/202005/616957.htm)
- > 我一直都很喜欢电影中的机器人，坏机器人我也喜欢。但令人不安的是，我们身边的机器变得越来越聪明，因此我
- ## [新的安全漏洞让攻击者伪造出可信的蓝牙外设](http://netsecurity.51cto.com/art/202005/616955.htm)
- > 据外媒AppleInsider报道，一个研究团队披露了一个新的漏洞，可以让攻击者欺骗现代蓝牙设备，使其与伪装成受
- ## [调查：68%的消费者认为智能家电会偷听隐私对话](http://ai.51cto.com/art/202005/616956.htm)
- > PCMag进行了一项调查，发现68%的用户认为各种智能家居产品会在他们不知情的情况会监听个人隐私对话，并且这
- ## [文科生福音！新研究显示：数学好≠编程强，英语学的好的人可能更会写代码](http://zhuanlan.51cto.com/art/202005/616954.htm)
- > 编程学习往往会跟数学很强、理科生、男生这些词联系起来，但是，数学好就真的编程强吗?
- ## [Deno 能吞掉 Node.js 吗？](http://zhuanlan.51cto.com/art/202005/616962.htm)
- > 最近，Node.js的原作者Ryan Dahl发布了Deno1.0 ， 有网友创建了上述漫画，似乎Deno要吞噬整个Node.js社区了
+ ## [今天520，要及时「缓存」你们的珍贵时光](http://stor.51cto.com/art/202005/616985.htm)
+ > 在很久很久以前人类和洪水作斗争的过程中，水库发挥了至关重要的作用 : 在发洪水时可以蓄水，缓解洪水对下
+ ## [5G技术将释放智慧城市和物联网巨大潜力](http://iot.51cto.com/art/202005/616979.htm)
+ > 埃森哲报告估计，根据需要调暗和增亮路灯的智能照明系统每年可为耶洛奈夫市单独节省150000美元，再加上安大
+ ## [研究表明开放计算项目在数据中心领域不断增长](http://server.51cto.com/Datacenter-616978.htm)
+ > 研究表明，根据开放计算项目(OCP)标准规范设计数据中心硬件的业务如今正在蓬勃发展，这种增长不只是来自一
+ ## [2020年的物联网将比以往任何时候都更加重要](http://iot.51cto.com/art/202005/616974.htm)
+ > 就在我们很需要它的时候，物联网正在为几乎所有的行业，从医疗保健到农业，都提供了大量数据和远程设备控制
+ ## [云计算弹性和内部部署可靠性驱动数字化转型](http://cloud.51cto.com/art/202005/616973.htm)
+ > 提供“云邻接架构”的新模型可以帮助那些不愿意或没有考虑使用公共云的组织提供解决方案。数据如今正以前所
+ ## [4类危险的密码设置盲区，不要踩雷](http://netsecurity.51cto.com/art/202005/616971.htm)
+ > 日常生活中，我们会使密码保持简单易记，便于我们快速登录后处理重要的事情。但是密码作为保护身份的数字，
+ ## [真・硬核! Build 2020: 自研超算挑战全球 Top5，最大语言模型将开源](http://news.51cto.com/art/202005/616970.htm)
+ > 有史以来第一次，微软 Build 大会选择在线上召开。尽管如此，对待今年的 Build 2020 大会，微软依然诚意满
+ ## [Python中的匿名函数及递归思想简析](http://developer.51cto.com/art/202005/616972.htm)
+ > 上次咱们基本说了一下函数的定义及简单使用，Python中的基本函数及其常用用法简析，现在咱们整点进阶一些的
+ ## [周鸿全国两会提四份提案 聚焦新基建网络安全](http://netsecurity.51cto.com/art/202005/616967.htm)
+ > “网络安全是我的‘老话题’，但是随着国家新基建战略的提出和实施，今年又有了不少‘新内容’”，周鸿表
+ ## [华为突破封锁，对标谷歌Dropout专利，开源自研算法Disout](http://news.51cto.com/art/202005/616976.htm)
+ > 美国持续封锁，华为的技术自研，已经深入到了AI底层算法层面上，并开始将研究成果面向业界开源。
  ## [上班996，下班ICU，生活很苦，要尽量让自己舒服：让我“家班”生活舒适的桌面好物分享](https://bss.csdn.net/m/topic/benq2020?project_id=4549&utm_source=1563986964)
  > 上班996，下班ICU，生活很苦，要尽量让自己舒服：让我“家班”生活舒适的桌面好物分享
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
@@ -166,45 +174,87 @@ categories: IT NEWS
  ## [自从喜欢上了B站这12个UP主，我越来越觉得自己是个废柴了！](https://blog.csdn.net/sinat_33921105/article/details/105401654)
  > 
 # 人工智能 
- ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
- > 开源：教师评价系统
- ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
- > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
- ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
- > Windows下Dvwa靶场环境配置（网络攻防)
- ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
- > Phpstudy隐藏后门
- ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
- > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
- ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
- > php一句话木马变形技巧
- ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
- > docker文件存放路径, 获取容器启动命令
- ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
- > 如何安装pkg-config
- ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
- > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
- ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
- > ceph客户端安装配置访问rbd
- ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
- > OpenLDAP源码安装及配置管理
- ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
- > 【Nginx】nginx 的三种反向代理方式
- ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
- > Janus WebRTC服务器部署
- ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
- > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
- ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
- > Istio组件日志设置
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [2020年转行学Python，第一步！](https://edu.csdn.net/course/detail/26676)
+ > 2020年转行学Python，第一步！
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
 # PM 
- ## [存量时代下寻找增量机会，产品经理该如何思考？](http://www.woshipm.com/pmd/3882946.html)
- > 互联网已然进入人口红利几乎耗尽、存量市场代替增量市场的窘境，但增长已然不能放弃。本文讲述在这种环境下，产品经理该如何思考，寻找和挖掘增量机会。互联网进入存...
- ## [一文带你了解搜索功能设计](http://www.woshipm.com/pd/3883504.html)
- > 从PC时代到移动互联网时代，搜索满足了人们从海量信息中找到有价值信息的需求，进一步提高了用户的信息消费能力和获取信息效率。笔者曾做过一个比较简单的APP站内搜索功...
- ## [面对用户需求与AI技术之间的不平衡，AI产品经理该如何做？](http://www.woshipm.com/pmd/3882117.html)
- > 把控用户与AI之间的情感，更深一层来讲是如何平衡有限的技术与无限的用户需求的问题。AI产品经理需要清楚技术的定位和边界，讲技术与场景相匹配，才能做出合适的产品，...
- ## [转行求职互联网运营，如何拿到高薪offer？](http://www.woshipm.com/open/3883705.html)
- > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位。我觉得有必要跟大家聊一下运营的职业发展前景，究竟如何。在互联网发展的初期，大家...
+ ## [带货卫星还能放多久？](http://www.woshipm.com/it/3883498.html)
+ > 直播电商现在来说依旧火热，越来越多的人开始尝试直播带货。其中有人翻车，也有人完美带货，机遇和危机，同时存在着。那么，直播电商这颗带货卫星还能放多久？机遇和...
+ ## [刚上市就月销过百万，细数5个新起国货品牌的崛起之道](http://www.woshipm.com/marketing/3883767.html)
+ > 本文主要从品牌风格，品牌定位，视觉呈现，重点推广渠道，如何起量这些角度分析了PMPM环球配方，溪木源，HBN，Dr.Alva瑷尔博士，HELIUS赫丽尔斯五个品牌的成功之处。...
+ ## [抓住6大核心点，轻松编写一份清晰的设计需求清单](http://www.woshipm.com/pd/3883869.html)
+ > 如何轻松编写一份清晰的设计需求清单？清晰的设计需求应包含 ：设计目的、原型、设计发挥空间、预计工期、竞品、设计风格，这6大核心点。一、概述场景一：产品小哥哥...
+ ## [项目落地该如何设计加载模式？](http://www.woshipm.com/pd/3883236.html)
+ > 上一期我讲到了平台规范下进度指示器的使用规范，并且结合用户等待4秒原则与NN/g用户等待心理模型，个人愚见搭建了一个常规的加载模型（可回顾：进度指示器(原则篇)）。...
+ ## [产品思考：为什么微信群聊名称允许所有成员修改？](http://www.woshipm.com/pd/3879985.html)
+ > 微信群聊的修改展示逻辑是什么？对于微信这么克制的产品，为什么群聊名称允许所有成员都能修改呢？基于这些问题，本文作者带来了一些产品思考的分析，与大家分享。最...
+ ## [剖析“美国李佳琦”的美妆品牌，揭示四点缩短消费者距离的秘密](http://www.woshipm.com/chuangye/3882572.html)
+ > Glossier能够成功，其中一点是与消费者之间的关系真的太紧密了。那么到底紧密在哪里？以下四点，是关于这个品牌缩短消费者距离的重要原因。DTC——Direct-To-Consumer（...
+ ## [以淘小铺、芬香、拼多多为例，深度解析社交电商掘金之路（下）](http://www.woshipm.com/evaluating/3880658.html)
+ > 社交电商掘金之路分析，上篇介绍了社交电商的基本情况、发展现状、电商巨头以及未来方向，本文接着介绍淘小铺的特点、模式、团队组织意义、收益、新人使用指南和需要注...
+ ## [你的用户究竟值多少钱？这个算法能帮到你](http://www.woshipm.com/user-research/3883922.html)
+ > 对于互联网商业项目价值的认知，应该来自对商业模式的深度理解。而传统的估算网络效应与估算GMV这两种基于用户的估值方式已经失效了。自从互联网时代来临，如何评估互...
+ ## [数据分析案例复盘：数据产品经理岗位招聘详情2.0](http://www.woshipm.com/data-analysis/3878568.html)
+ > 本文数据由python抓取，数据来源于某直聘网站，还是北京、上海、广州、深圳、杭州五大城市的岗位招聘信息，获取了「数据产品经理」这个岗位的2250条数据，来看看数据产...
+ ## [基于大数据的企业战略管理：理论基础与市场机遇探究（一）](http://www.woshipm.com/it/3882097.html)
+ > 产品、流程及业务流程的数字化，加之相应爆炸式增长的大量数据，引发了业务组织内部的剧烈演变。本文将越过信息技术在商业战略中扮演的“工具手段”的传统角色，通过对“什...
+ ## [决定离职后，3天拿到offer的总结与反思！](http://www.chanpin100.com/article/111677)
+ > 高薪求职的通道排序：挖墙脚&gt;猎头推荐&gt;公司内推&gt;投简历求职！
+ ## [会员让我们相遇，富贵色来一波|中国在线内容会员生态分析专题2020](http://www.chanpin100.com/article/111676)
+ > 简介：未来视频会员市场前景明朗又蕴含挑战，微观层面更精细的会员运营与宏观层面依托技术革新实现服务升级将成为市场未来发展的重要趋势。
+ ## [项目管理常用的几张图表，管理者必备](http://www.chanpin100.com/article/111675)
+ > 项目管理其实是有一些常用的工具和模板的，这也是项目经理们常用的，非常受项目经理喜欢的肯定就是排在第一位的，他也是必备的图表之一。
+ ## [“技术为本”的京东，让新基建价值落地](http://www.chanpin100.com/article/111673)
+ > 作为一家以供应链为基础的技术与服务企业，过去多年，京东已深嵌到诸多产业的细枝末节，这让他们能够更自如地完成新基建的价值落地。
+ ## [五大用户原型的适用范围|剧透：适用一切行业](http://www.chanpin100.com/article/111669)
+ > 五大用户原型究竟适用哪些行业呢？
+ ## [还在使用人口统计学分析用户吗，青蛙五大用户原型为你增添新思路](http://www.chanpin100.com/article/111668)
+ > 来自青蛙的五大用户原型
+ ## [多款知名应用下架，腾讯新游上线就霸榜三天丨每周热点](http://www.chanpin100.com/article/111667)
+ > ASO周报！
+ ## [5G时代的品牌营销转型：智能化、多元化、一体化​](http://www.chanpin100.com/article/111666)
+ > 5G时代下，品牌只有与时俱进，快速迭代营销思维与能力，才能实现新价值增长，在新格局中占据高位！
+ ## [面对全球经济下行压力，在困局中前行的中国电商](http://www.chanpin100.com/article/111665)
+ > 简介：近几年以来，由于受到国际贸易摩擦加剧、地缘政治风险等因素的影响，世界各主要经济大国都面临着较大的经济下行压力。尤其是进入2019年以后，这种趋势更为明显，各主要经济大国的GDP增长速度都有明显的下滑。
+ ## [没有样式库，想要团队设计师搭建组件同频有点难！！！](http://www.chanpin100.com/article/111664)
+ > 通过定义样式库从而决定产品设计中的最小原子，为团队搭建组件认知达成共识提供了基础，为页面设计元素细节一致性保驾护航。
+ ## [抖音能单独屏蔽一个人吗，抖音屏蔽一个人对方知道吗](http://www.chanpin100.com/article/111661)
+ > 抖音能单独屏蔽一个人吗，抖音屏蔽一个人对方知道吗
+ ## [渠道运营之流量洞察三要素](http://www.chanpin100.com/article/111657)
+ > 存量时代的到来，用户的竞争愈演激烈、获客成本也在水高船涨，我们在提升转化率所采取的方法，除了我此前文章所提及的做好留存以外，针对渠道的优化...
+ ## [作为理财人，这些疫情记账理财数据你还不知道吗？](http://www.chanpin100.com/article/111656)
+ > 简介：2020年1季度，受疫情影响，我国GDP增速大幅度回落，全球经济陷入滞涨危机，市场经济活力、出行消费受到巨大影响，无论是企业还是对家庭，对现金流要求都明显提升，记账理财应用成为当下节流控制消费的主要工具。
+ ## [WebDAV是什么，有哪些支持webdav的网盘和工具？](http://www.chanpin100.com/article/111654)
+ > 简单来说，webdav就像一个存储服务，各种应用都可以连接到它，允许应用直接访问我们的云盘内容，对其进行读写操作。我们可以网络服务比作一只章鱼，云盘是它的大脑，WebDAV是它的触角。每个触角都连接到我们智能设备上的应用程序。我们的应用可以通过触角读取章鱼的大脑，并将数据写入大脑，改变大脑的记忆和内
+ ## [方法论：通过「用户决策模型」详解如何高效的提升转化率](http://www.chanpin100.com/article/111652)
+ > 本篇着重于讨论如何结合「用户决策模型」，通过系统化的方法，高效的去提升产品的转化率，重点阐述实践落地的方法。B、C端产品通用。
  ## [产品体验报告|【冲呀】基于内容付费订阅的创作支持平台](http://www.chanpin100.com/article/111653)
  > 冲呀APP2019年12月5日上架App store，目前（2020.5.14）正处于快速迭代阶段，通过持续关注冲呀迭代路径，并和我自己整理的需求表格进行对比，可以很好的地看到PM如何把握产品迭代节奏，如何设计功能满足用户需求，如何冷启动、运营社群等。其次冲呀采用付费能获得更多更好内容的模式，我自己
  ## [画音：抱歉，你不符合爆款公式](http://www.chanpin100.com/article/111655)
@@ -215,11 +265,5 @@ categories: IT NEWS
  > 本文将尝试借鉴小游戏思路，拆解果园们的产品设计机制，提炼方法论。
  ## [干货|从0到1的产品，到底该如何做好产品规划？](http://www.chanpin100.com/article/111660)
  > 想做好产品规划并不容易，本文带你一起了解下如何从0到1做新产品规划
- ## [产品规划|抓住五步，摸清一个行业](http://www.chanpin100.com/article/111663)
- > 提供一套系统、实用、简单的行业分析方法。文中有方法，有案例。
- ## [抖音撤回消息对方知道吗，抖音消息撤回有时间限制吗](http://www.chanpin100.com/article/111662)
- > 抖音撤回消息对方知道吗，抖音消息撤回有时间限制吗
- ## [自我管理的重要性——成功者的五个好习惯](http://www.chanpin100.com/article/111672)
- > 成功是一种习惯，失败也是一种习惯。你的习惯无法改变，但可以用好的习惯来替代。成功很简单，只要简单的事情重复做，养成习惯，如此而已。
 
     
