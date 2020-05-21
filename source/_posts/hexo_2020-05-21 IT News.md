@@ -1,7 +1,7 @@
 ---
 title: 2020-05-21 IT News
 copyright: true
-date: 2020-05-21 12:01:16
+date: 2020-05-21 17:01:47
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -89,30 +89,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [未来汽车设计和销售模式](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=N8aAUOjcR4VXaYEBkmo031iCQTi8hhyBwv2zz8TuK6aVAIBMuga3ZYbCCzvRBpeULOwGrHJDg2cjbVAfSliIrUxQ-gcQGcMpChRCHsFqgsIyB4*gkYtlIV8wI2drHemo&new=1)
+ ## [网盘老师总丢失，隐私数据总泄露?别怕，我来救你](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=qG4PPY6fzSSAxU2lHxYt5RGtAlAEk1bX7GKRHdzya8s*QHcr64EZZbI3jXmnp1Q9xH2pt5R6QuTb5loPHR1AX*AzMq-vQc76GHfvjWN8pB*CeH2ScsbKaQp7NXB1VlcS&new=1)
+ > 现在的很多人都会陷入一个误区，认为网络备份是最安全的。比如为了方便换新手机，就会把现有的手机设置成自动云备份。或者就是把一些隐私性的东西，存在网盘里，然后再给它设置上一层密码，打造一个专属领域。但...
+ ## [智能客服预见未来&智能客服趋势发展白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=alcIRcKrGeo780n0yXrEk06KERorYWWPbOM0MYBBopSy64v7Jrc1UzWIj8vYEjCzpLjlDjtKgsnlC6W4Nd9BoH-*F5I56Zw2N*unIVwLO*FsBliY6EzZQ4fSvMX5qouk&new=1)
+ > 人工智能，新基建“七武海”，两会“准红人”，企业数字化转型的热榜常客。无论哪个标签无不标示着AI正在通过商业化落地应用，如同心脏驱动数据“血液”在数字基础设施的每一部分循环流动，为众多行业进行科技赋...
+ ## [中国联通智慧教育合资企业：云启!](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=ja-o11bN7FbBU-vF6u3zstqf3VEIKeG*3y*cnQIyb5Pea81aPtNd5MrRdwxX89aPZ1nO1nC0OyJlWsZ7IpNftwjVJwSGpJkpuSBhCgTP7Kp1KEWimYRApAWOEScdR*mp&new=1)
+ > 5月15日，中国联合网络通信有限公司、网龙网络控股有限公司、国家数字化学习工程技术研究中心和教育大数据应用技术国家工程实验室共同召开线上发布会，宣告联合成立中国联通智慧教育合资企业——云启智慧科技有...
+ ## [限制华为的新规有“漏洞”?美国监管机构准备封堵](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=5K3TiBlj9tL5MA6hv83omiFxVD74PvW2tYn6MvsG8RlBeMY*j4ZL7xXrnvkAp7aGk8ifdX7bXsO9iXog-19crIwf8QC9bDR5Emwg5j3jrr*8LgfTIQK58xsvLHvphn7t&new=1)
+ > 北京时间5月21日凌晨，据路透社报道，当地时间周三，两名美国官员表示，美国监管机构愿意做出改变，以封堵此前针对华为推出的新升级的“出口管制”措施当中的“漏洞”。△路透社报道截图北京时间5月15日晚，美国...
+ ## [北斗将有大动作!距完成全球组网仅一星之遥](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=ktBFDVmVqye9eFZ0zKNYUtDRbGzCL4B8YtDZKnWbUvgZBW4EruVHQotVBMNLwOJSyd*OwPp26ojWRgWxlk*053dbBNP7jj3qBxKdJf*Yb45qUaRZvJzBP45E2QExVRu6&new=1)
+ > ◎ 科技日报记者 崔 爽　　此时此刻，第55颗北斗导航卫星正在西昌卫星发射中心蓄势待发。作为北斗三号最后一颗组网卫星，它于4月4日运抵西昌，在这里开展测试、总装等工作，并计划于6月发射升空。届时，北斗导航...
+ ## [谁来帮助华为：三大赛道的崛起与困境](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=g2btHlTVUottYko*8D5QWxbMayvs5cMozTplFxYpCbqH6v66-UfhkLgAFnZDYQZbyGhb1nqWz0-fJ8aBtqQFgUltDt-LxelWWdiSBY7dC3wfQOONgQW9zXA6qRchSSHX&new=1)
+ > 作者：陈帅来源：远川研究所（ID：caijingyanjiu）5月15日，就在华为遭遇禁令一周年之际，“懂王”在大洋彼岸再次作妖：更改了出口规则，要求只要采用美国技术、设备的公司，要想和华为做生意都要向美国申请。长...
+ ## [700MHz频段5G网络终落地!中国移动与中国广电共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=jV9*uGx4snzviaLK36BXC9pKi2cMX6DC2vAaLdQLGFhbtLE3TSVPkqh8qDJHTXUFNEHaGEjNotfarv199p4J*UOGYfboySaznZZDB8fhm4FG3ZVyh6d6KuQYS*EzjJ2*&new=1)
+ > 700MHz黄金频段终于用于5G建网。中国移动与中国广电以1：1比例投资该频段5G基站，传输网、运维均由中国移动有偿提供。未来中国广电如何运营5G仍具挑战各方博弈良久，中国移动、中国广电共建共享5G网络计划终于落...
+ ## [为什么要学习单片机?如何开始上手学习单片机?](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=tNAW61md*V3RdUHRrlIuN7USTx8Uj9F4ckgBl*qc1BE8kjxQqz3yovEFn-*DXDA2paHoorqcfHh47L46vbJbtZKHb9L0e7smAsDTW06fJg8RV6dFpAOKgYo-Lt8qhmgT&new=1)
+ > 单片机是大学电类专业的一门普通课，有些学校甚至把它列为选修课，在众多课程中，没有显出它有多么重要。为什么要学习它呢？因为，市场对学者继承人的需求太少，大量需要的是产品的研发者，研发产品是需要干实际...
+ ## [三大微隔离架构有何区别?](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=TRFx2SVMpFeTsKh-F4cDUt0P*77ZU9NPp1PwAHB3H2MS7nWq2T2A73f-c1DK06vLlOn46Xqe0ZmR8bvGF6MUSGz*VrRgUw2iaN7rlSfZROwWo7MIdF6IHT4HSOU*-5-v&new=1)
+ > 安全牛评应对人类历史上最狡猾、“横向移动”效率极高的新型冠状病毒最有效的方法是隔离，同样，“微隔离”（Micro Segmentation）也是网络安全领域，预防和应对未知威胁的最有效的办法之一，也是实现SDP零信任...
+ ## [Build大会博文|开发者速率：予力开发者，助推业绩增长](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=Q6p46dlB4jVNoBNQ7gfbici9m21nDIAvAnvgv8fzd2ioyPColutd*VCSjh8rPpUZnV*mtdHRm*XXPb-Y9r6KjvNEag9qMQaQtYCrPEgPrZ1utQdH06JvKhasyQRoQDpf&new=1)
+ > （本文阅读时间：6分钟）本文作者：Scott Guthrie，微软全球执行副总裁，微软云及人工智能事业部几十年来，开发者一直是创新和变革的重要驱动力来源。他们在各行各业进行开拓性创新，并帮助企业渡过艰难时刻。今...
+ ## [金属3D打印设备商畅形科技入孵深圳市3D打印产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=jy638Z6COre7U-OPu7IgRf0xaN8-NQEHqk702d5DC8TOqqwsZXRmlyt6uitWF7XzAFPEFVduT3Uo2WdVFZ2l3EB5NLR0ZdX2JWMmptTleJYFkUHnO8rkaIab8xEmAKqE&new=1)
+ > 2020年5月20日，深圳市畅形增材科技有限公司与深圳市3D打印产业园签订入孵协议，正式进入园区进行孵化。产业园运营方将提供办公场地、年度推广、资本引入、产业链资源、政府补贴等多方面支持，帮助入孵企业的先...
+ ## [美国对华为加紧芯片封锁，下面会发生什么?|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=xyUZOExYnWrhU3IiKK9D6enOMXNABRc*pjhD4jgGrbwiHAKbPo7Vid8JJxtrjQd2JlW4pO5OUU*aLCxaZAHbDp8tN1Q3bHglrk5xxN12RsG8qooufWcgcxrGn7bQMzcf&new=1)
+ > 关注风云之声提升思维层次导读美国半导体企业反对美国政府的倒行逆施，十分担心这样下去给自己造成历史性损失，这是显而易见的。我们能做的，就是帮他们一把，让这个他们的噩梦场景成真，让他们向美国政府哭穷时...
+ ## [未来汽车设计和销售模式](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=N8aAUOjcR4VXaYEBkmo031iCQTi8hhyBwv2zz8TuK6ZA9HozOgPJbA3nhpN3mi1mlV5mZUduVzVQPMMa6QOAuprzAu8RzRZBQP6rn3JCUrHQyD9afYmdtaHVfHKDlA1y&new=1)
  > 近年来，VR虚拟现实被应用于娱乐、艺术、医疗、汽车等多个行业。以汽车行业为例，在虚拟现实环境中完成设计、迭代、零售、娱乐和维修可大大降低生产和人员成本。在疫情期间，利用VR远程协同办公更是大大加强了设...
- ## [京东将上线“自营房产”业务；iPhone 12 或取消附赠有线耳机；OpenBSD 6.7 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=55WmYMfHfNyBwnPxHohFWynmEsfw-jNZZd8fHl-W2JiBX6oQ3ljNQA4f9c-L75L5sSKfiGNAB2NpWqtBaok84DZRo53jJz6tAfn3R0IhkyKk-ZerMlDfH2bqR3LHwtPp&new=1)
+ ## [京东将上线“自营房产”业务；iPhone 12 或取消附赠有线耳机；OpenBSD 6.7 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=55WmYMfHfNyBwnPxHohFWynmEsfw-jNZZd8fHl-W2JjHMpPGD2eG8Ji499O51Y8Q5jBCH1Ankm9WQRImZt0yWA4oUv4ece4ey*fUthXdmELAKEJiMe8s5lVMlTc01li0&new=1)
  > 整理 | 屠敏头图 | CSDN 下载自视觉中国快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值...
- ## [瑞幸复牌遭抛售，市值已跌 90%；字节跳动估值超 1000 亿美金；1-4 月，国人手机流量达 462 亿 GB|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=hK7XHppK8NBHS5Qi0SMeMujg-tdhUx2KKGWnY4QsR0TxFtF-FFOcmQIXnF-4q0Y2HA6mardJ02a-KvXtw0JLt8tBNZJ5SckUacqQZqG7bnltkINwWSxTtjo2gXD3omJ0&new=1)
+ ## [瑞幸复牌遭抛售，市值已跌 90%；字节跳动估值超 1000 亿美金；1-4 月，国人手机流量达 462 亿 GB|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=hK7XHppK8NBHS5Qi0SMeMujg-tdhUx2KKGWnY4QsR0ThClXij388*mXakUoUw*QQXEMEcbwrifGr52yg-L36XuvSCZEeKSWc6*E0FZ-Yfdf2WDDV6yGIZi1IePc43dzS&new=1)
  > 苹果谷歌联手推出疫情追踪 App北京时间 5 月 21 日凌晨消息，苹果和谷歌周三发布疫情追踪 App，以自动通知人们是否已暴露于冠状病毒。两家公司表示，已有 23 个国家和美国几个州计划使用其软件来构建以自愿加入...
- ## [携号转网得缴7000多元“分手费”?应尊重用户“搬家”的自由|每日快评](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=uGCK-JQeSBdlwCKF-Uhf0ubUAoR9w8hP5y4xkGUmhvjcXownvXAyMBtVGuFAEN9mjqC96jQ-3g3epFsCIUSz-L8idW2Gx4oaRitVmKLr0Bl9Py1B*lQ3B1MaMGkKYCNO&new=1)
+ ## [携号转网得缴7000多元“分手费”?应尊重用户“搬家”的自由|每日快评](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=uGCK-JQeSBdlwCKF-Uhf0ubUAoR9w8hP5y4xkGUmhviG8c4ztrLIiq71WvxqibDNB*WdjZs*e-XAi1lRZ9nmbT5fIDzrP-QIhNl6Aq*ku3nDBeiObZpAmb89Fpo7xneb&new=1)
  > 只有尊重用户的知情权、选择权，才能赢得市场认可，实现转型和长远发展。如果运营商仍困于“保号保网”的短期利益，置用户体验于不顾，可能得不偿失。来源：“新华每日电讯”微信公号（ID：xhmrdxwx）作者：新华...
- ## [\[两会时间\]李彦宏建议针对疫情采集的个人信息设立退出机制，此前曾多次关注信息保护](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=pb*C-HyLb8fp7jgc*XtAeyzgEqljpTXUibCZUfmeZqbpSs7DMeBo4mVHppKoVy6mI4wEVa8BeCxMAhkcT1kOFEoyXWIBHZ572-lkpl*W7Bs=&new=1)
+ ## [\[两会时间\]李彦宏建议针对疫情采集的个人信息设立退出机制，此前曾多次关注信息保护](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=pb*C-HyLb8fp7jgc*XtAeyzgEqljpTXUibCZUfmeZqZUZkT1zGtARaMqJgueOUtFTthXsnEs5MHk-zQnsOlaVZATAOT6VPwTo2paMLKjlBs=&new=1)
  > 经济观察网 记者 任晓宁 5月20日，全国政协委员、百度董事长李彦宏提交了四份提案，涉及新基建、智能交通、继续教育以及个人信息保护。李彦宏提出的两份提案与疫情直接相关。他提出了关于加强对疫情防控相关个人...
- ## [重磅消息：中国移动与中国广电正式宣布5G共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=rLWqEsgAguh7Ny2o06C2cBjyay42pX4OTD1lau1LhnahvyCoE0oiSMuKQ5FdGdp4ghjcuN7prX2-e0s2r6W8MkHwymR9QlPvupxgFCqCUd3XQ1jQGvLPbDOjNgxg03Et&new=1)
+ ## [重磅消息：中国移动与中国广电正式宣布5G共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=rLWqEsgAguh7Ny2o06C2cBjyay42pX4OTD1lau1LhnbZPmriT1Yy3JI3qZQx6OJF6YF0mN7nhJhN4Ru1PuzaxNdW89*kgL1Sm9fq-3NHb*jisoLrQ2z4WtYXEYB8TtIu&new=1)
  > 5月20日，通信行业又引爆了一个重型&quot;炸弹&quot;——中国移动和中国广电宣布共建共享5G网络！5月20日，中国移动发布公告，表示已经与中国广播电视网络有限公司签署5G共建共享合作框架协议。合作原则中国移动拥有2.6GHz...
- ## [中国长城推出首台半导体激光隐形晶圆切割机](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=aGZU9KPc08MfYzhRgyKzDHt0q31tTz-1ozCe8Cylv2wfQ-Y0hHG0nhF8V*G0w2pksiNLNIWGHtuolcXu2jDfZURem2y3pKf2fkwX-E9dA*MhZSfMzQcnqlDmJ*SEQsf5&new=1)
+ ## [中国长城推出首台半导体激光隐形晶圆切割机](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=aGZU9KPc08MfYzhRgyKzDHt0q31tTz-1ozCe8Cylv2ztAfYSr49wwtMC84t7Kq3wMqIqrrHU1qX2dzyDhtFWkFhT099ArljdvxGyrt3gHbo4vDbAv8Bup4t4*t0vjP6T&new=1)
  > 近日，在中国长城科技集团股份有限公司旗下郑州轨道交通信息技术研究院和河南通用智能装备有限公司科研人员奋勇攻关、共同努力下，首台半导体激光隐形晶圆切割机研制成功，填补国内空白，在关键性能参数上处于国...
- ## [华尔街日报：失去谷歌应用，华为举步维艰](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=pPWw0nkoXgj9LpdQAgGZH-90NqBELUQjLJU912xHutDlqXKmm9RJwZsKVo0dXFG-2x9DhlerYL2Zw9y3oSa7wUl8v2tUf6Byri7LjINm12AkR-rlmw3H7JKwml4XOTKJ&new=1)
+ ## [华尔街日报：失去谷歌应用，华为举步维艰](http://mp.weixin.qq.com/s?src=11&timestamp=1590049805&ver=2351&signature=pPWw0nkoXgj9LpdQAgGZH-90NqBELUQjLJU912xHutB1FjTFOA6ADjKAx1UFoJD0LVtSJPG4b7cZL7W1-q*uXDyxgSkk*EWInfwkbmf3Ycb2hvpWXh0bsgjhrjnc-wpi&new=1)
  > 在被美国禁止购买美国技术后，华为技术有限公司已经找到很多变通办法，但却难以找到其十年来一直依赖的谷歌应用的替代品，令该公司曾经高歌猛进的手机业务举步维艰。在被美国禁止购买美国技术后，中国华为技术有...
- ## [讯石评论|长期在逆境下求生存的不止是华为](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=DQl7O3Wq2VIi2BUDzxJXd5UvsO*jnRfNiIDCMo2vX1Pp1V0UPCheea-6-ChyavPrUJUy5G3DooaJD11UP1gxV9pco9qlGFaIK1IG03e0uKmV1EQU4tWxg4XP-O9E-aow&new=1)
- > 新闻导读随着全球疫情的蔓延，中国5G发展不但没有止步不前，反而有加快脚步的迹象，这让国内光通信产业在“新基建”的假大空外表下“短暂地繁华了一把”。尽管业界普遍反应“订单饱和”是今年上半年的常态，但从...
- ## [光纤网络产业存碎片化问题，华为汪涛：产业需共创F5G时代](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=-c1oEz1H4B5apSn9jjQuoEpr-NTRQzEo5XHGriDYjigIjdOSjsbessfrjtG-EFUX3mEPEYsnZOiRWiVADkLsMl-IhKijEl54v-J5as*1UuwoJ3k1UsBB-uMCs1McBdpA&new=1)
- > 在人类迈向万物互联的智能时代道路上，炙手可热的5G是前进的“一条腿”，而默默无闻的F5G是“另一条腿”。什么是F5G？F5G是第五代光纤宽带技术，属于有40年历史的固定网络领域，包括1000M宽带接入这样的业务。但...
- ## [WSL 2计划支持Linux GUI应用](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=OfCL5yWqERSfd3O7axnpH8xnrSNS668jSZ3mwSL7XRfkBC3j1-cqStaIvUvNu3ZwNSTjwuLfhgQjUwtiHEtjfy8FKKnSPKTXJiZbeaV5i4VZF0IP3Jel4F9VbXkxfjhK&new=1)
- > 在之前的Windows 10版本中，微软支持了适用于Linux的Windows子系统WSL（Windows Subsystem for Linux）功能。如果想要使用子系统Linux桌面应用，则需要使用第三方X Server才能支持Linu
- ## [谷歌突然发力，直奔在线办公市场而来](http://mp.weixin.qq.com/s?src=11&timestamp=1590031872&ver=2351&signature=hK7XHppK8NBHS5Qi0SMeMujg-tdhUx2KKGWnY4QsR0TCyj6*uuaiq3BDjnMY-ugZb0sxh6KnkUj75zn78kS3UfIM84hYYOJxGqcOwpZtUagbDm5VfwZfV1mfST-33BdU&new=1)
- > 疫情加速了谷歌产品优化的步伐，而线上办公领域涌现的流量和用户机会让谷歌意识到自己不能再「慢人一步」了。现在打开 Gmail，你会发现左边最显著的位置出现了 Google Meet 和 Chat 的入口。你在网页上就可以一...
 # IT 技术 
  ## [阿里P7也不过如此，被一个简单的SQL查询难住！](http://database.51cto.com/art/202005/617047.htm)
  > 阿里P7也不过如此，被一个简单的SQL查询难住！
@@ -130,26 +146,26 @@ categories: IT NEWS
  > 如何写出没有Bug的代码？
  ## [5G技术已经逼近香农极限，6G还能怎么玩？](http://network.51cto.com/art/202005/616930.htm)
  > 5G技术已经逼近香农极限，6G还能怎么玩？
- ## [解读运营商四月份运营数据：传统业务逐步回暖 5G布局迎新机](http://network.51cto.com/art/202005/617091.htm)
- > 回望一季度通信行业相对冷清的整体态势，进入二季度，回暖明显。根据工信部发布的《1-4月通信业经济运行情
- ## [三大运营商移动用户总数达到15.9亿户 4G用户占比下滑](http://network.51cto.com/art/202005/617090.htm)
- > 根据工信部最新发布的数据显示，截至4月末，三家基础电信企业的移动电话用户总数达15.9亿户，与上年同期总
- ## [疫情之下这16大行业亟需技术升级](http://news.51cto.com/art/202005/617089.htm)
- > 这场疫情已经造成了商业活动的中断，甚至某些情况这个世界都有些停滞不前了，导致几乎所有行业都在重新思考
- ## [微信内测又更新，一个浮窗解千愁，还有扫码自主选择功能](http://mobile.51cto.com/app-show-617088.htm)
- > 上次发微信更新的消息已经是iOS版的7.0.13.20内测了，但是令人比较煎熬的是现在为止iOS版本的微信还没上正
- ## [iOS 13.5 的开发者测试版本放出，戴口罩解锁将更加方便](http://mobile.51cto.com/iphone-617087.htm)
- > 苹果在5月19日公布了 iOS 13.5 开发者测试版本，并且预计在本周向公众测试版用户推送测试。从苹果官方公布
- ## [情怀已死？聊聊手机圈经典的复刻机型](http://mobile.51cto.com/news-617086.htm)
- > “复刻”情怀机也不是诺基亚一家的专利，像苹果前段时间推出的 iPhone SE、Moto 去年的折叠屏手机 Razr 都
- ## [从相杀到相爱，微软为什么会爱上Linux？](http://os.51cto.com/art/202005/617085.htm)
- > 近些年来，微软为了支持开源可谓煞费苦心，以至于有网友调侃，微软马上就会单独发布“ Lindows ”作为 Wind
- ## [2026年全球5G基站市场规模将达2369.8亿美元](http://network.51cto.com/art/202005/617084.htm)
- > 5G网络凭借着高带宽、高速率和低延迟的优势，拥有着广泛的应用范围，未来5G技术将在智慧城市、智能家居、智
- ## [智能连接：5G与人工智能、物联网和AR的融合](http://iot.51cto.com/art/202005/617082.htm)
- > 5G在世界经济中的作用非常重要，尤其是在推动新兴技术、人工智能(AI)、物联网(IoT)和增强现实(AR)的采用率
- ## [DaaS，DevOps即服务：将整个DevOps堆栈迁移到云中](http://cloud.51cto.com/art/202005/617083.htm)
- > DevOps即服务(DaaS)使团队能够将其工具和工作流集中到一个统一的解决方案中。
+ ## [68万人同时在线观看 “2020西湖论剑・网络安全前瞻峰会”成功举办](http://www.51cto.com/art/202005/617131.htm)
+ > “2020西湖论剑・网络安全前瞻峰会”于5月20日在杭州成功举办，并通过多平台同步直播。
+ ## [iOS13.5性能测试：5款旧iPhone升级后运行速度是否提升？](http://mobile.51cto.com/hot-617127.htm)
+ > 苹果已经正式推出了iOS13.5正式版，这也是iOS系统近几个月来最大一次升级。那么iOS13.5运行速度是否有所提
+ ## [只有程序员才能读懂的西游记](http://news.51cto.com/art/202005/617126.htm)
+ > 话说我佛如来为度化天下苍生，有三藏真经，可劝人为善。就如图中所示，真经所藏之处，在于云端。佛祖所管辖
+ ## [买手机是不是"越大越好"？看完这幅漫画你就懂了](http://mobile.51cto.com/hot-617124.htm)
+ > 在手机购买页面，能看到像买衣服选&quot;尺码&quot;一样清晰标注了8+128、8+256、8+512等版本，大多用户只知道越大越
+ ## [自己动手「焊」键盘，使用Python编写，一键放连招不在话下](http://news.51cto.com/art/202005/617125.htm)
+ > 近日，一位中国开发者在 GitHub 上开源了一个带有 USB 和蓝牙的手工「焊」接 Python 键盘的代码。该项目使
+ ## [为什么说无人机是5G商用首选？原因基于这三点！](http://network.51cto.com/art/202005/617122.htm)
+ > 5G究竟能为无人机发展带来什么？为什么说无人机是5G商用落地的首要选择呢？近年来，无人机在我们生活中的应
+ ## [2020年非常强大的远程调试工具](http://news.51cto.com/art/202005/617128.htm)
+ > 本文介绍了一些常见的优秀调试工具及其亮点。代码调试时，工具很重要，因为某种程度上，它能决定我们是否可
+ ## [iOS 13.5 正式版来了！跟 GM 版本有区别吗？](http://mobile.51cto.com/news-617121.htm)
+ > 在昨天发布 iOS 13.5 GM 版本之后，仅隔一天，苹果就发布了 iOS 13.5 正式版更新。已经升级到 GM 版本的用
+ ## [AI助推智慧交通建设加速 警用无人机高速执勤](http://ai.51cto.com/art/202005/617119.htm)
+ > 智慧交通是在整个交通运输领域充分利用物联网、空间感知、云计算、移动互联网等新一代信息技术，综合运用交
+ ## [Java之父找工作受阻：通常我们不招你这种年龄的，但你的情况特殊](http://news.51cto.com/art/202005/617120.htm)
+ > 不久前，65岁的Java之父James Gosling在Facebook上发表了他所遭遇的年龄歧视内容。
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
@@ -162,6 +178,8 @@ categories: IT NEWS
  > 大三实习生，字节跳动面经分享，已拿Offer
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
+ ## [汽车仿真之电池模型-适合新手入门](https://download.csdn.net/download/qq_33125039/12140415)
+ > 汽车仿真之电池模型-适合新手入门
  ## [面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？](https://blog.csdn.net/likun557/article/details/105108901)
  > 面试阿里p7，被按在地上摩擦，鬼知道我经历了什么？
  ## [换一种方式编写 Spring MVC 接口](https://blog.csdn.net/qq_35067322/article/details/106132457)
@@ -178,63 +196,71 @@ categories: IT NEWS
  > 
  ## [我说我懂多线程，面试官立马给我发了offer](https://blog.csdn.net/Java_3y/article/details/105357227)
  > 
- ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
- > 太狠了，疫情期间面试，一个问题砍了我5000！
 # 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
+ ## [Android运行时权限终极方案，用PermissionX吧](https://blog.csdn.net/sinyu890807/article/details/106181780)
+ > 
+ ## [图片加载 二维码  解析](https://blog.csdn.net/weixin_47340783/article/details/106230798)
+ > 图片加载 二维码  解析
+ ## [Android Bitmap史上最详细全解](https://blog.csdn.net/weixin_43927892/article/details/106209563)
+ > 
+ ## [安卓作业----慕课移动应用开发作业21之使用Sqlite+RecyclerView+Dialog对数据进行增删改查](https://blog.csdn.net/baidu_41860619/article/details/106208417)
+ > 
+ ## [\[HAOI2011\]向量（裴蜀定理）](https://blog.csdn.net/qq_45739057/article/details/106226538)
+ > \[HAOI2011\]向量（裴蜀定理）
+ ## [Android UI绘制流程之测量片](https://blog.csdn.net/my_csdnboke/article/details/106237172)
+ > Android UI绘制流程之测量片
+ ## [MacBook重启之后，外接显示器不亮的解决方法](https://blog.csdn.net/weixin_45124488/article/details/106237007)
+ > MacBook重启之后，外接显示器不亮的解决方法
+ ## [Android性能优化(一)：APP启动优化](https://blog.csdn.net/weixin_42574892/article/details/106231624)
+ > Android性能优化(一)：APP启动优化
+ ## [区间DP](https://blog.csdn.net/yangzijiangac/article/details/106218455)
+ > 区间DP
+ ## [Android Studio 3.6 报错 Could not download guava.jar.....No cached version available for offline mode](https://blog.csdn.net/zafkiel_/article/details/106234300)
+ > Android Studio 3.6 报错 Could not download guava.jar.....No cached version available for offline mode
+ ## [Appium的介绍和使用（超详细版，持续更新中)](https://blog.csdn.net/weixin_44275820/article/details/105566379)
+ > 
+ ## [Android多语言切换（兼容安卓9、10）](https://blog.csdn.net/qq_34536167/article/details/106215961)
+ > 
+ ## [绝对管用的eclipse连接夜神模拟器方法](https://blog.csdn.net/qq_44333320/article/details/106226190)
+ > 绝对管用的eclipse连接夜神模拟器方法
+ ## [Android-用两个activity实现少女心爆棚的便签（xutil框架实现）](https://blog.csdn.net/qq_43520913/article/details/106200222)
+ > 
+ ## [网络API接口的详细使用](https://blog.csdn.net/qq_44720366/article/details/106217704)
+ > 
 # PM 
- ## [商业化变现之搜索广告：竞价置顶](http://www.woshipm.com/pd/3886986.html)
- > 本文给大家梳理一款搜索广告——竞价置顶。会阐述这款搜索广告的内部原理，让大家既能对搜索广告有个大概了解，也能了解到实际垂直行业，比如招聘行业是怎么用搜索广告做...
- ## [如何在绝境中翻盘？这家公司的创业史给我的4点启发](http://www.woshipm.com/chuangye/3887528.html)
- > 本文作者在阿里著名“反败为胜”教科书案例钉钉中总结了4点感悟，与大家分享！2020年的各种突发事件告诉我们：人类对生活的控制感是一种幻觉，唯有不确定性才是生存的真...
- ## [百度直播有戏吗？](http://www.woshipm.com/it/3888086.html)
- > 直播和视频是两种不同的媒体形式，通过直播在百度平台表达信息和知识，是非常有必要的。——李彦宏最近百度在大力推进直播业务，先是推出了“聚能计划”，号称要拿出百...
- ## [如何运用媒体打造出网红产品？](http://www.woshipm.com/marketing/3878444.html)
- > 每个公司都想要打造自己的网红品牌，但是不懂媒体的套路肯定是不行的。小红书种草，微博做声量，快手带货，淘宝做收口，新闻媒体做背书，一套下来，一个网红品牌就是你...
- ## [深度剖析：疫情下，如何深挖护城河？](http://www.woshipm.com/chuangye/3885546.html)
- > 护城河，并不只是核心竞争能力，还是当危机到来时，能够让你继续向前走的底气和依靠。对于企业来说，护城河是什么？又能发挥什么样的作用？如何维护你的护城河？本文解...
- ## [即将开课｜为什么后台产品设计能力，对于电商产品人这么重要？](http://www.woshipm.com/online/3889728.html)
- > 后台产品设计是一块让产品经理难啃的硬骨头，因为它业务复杂、数据庞大、逻辑缜密。但对于所有电商产品人来说，后台产品设计都是产品进阶路上逃不开的基本能力。为什么...
- ## [小蓝小绿，傻傻分不清楚：用产品思维看垃圾分类](http://www.woshipm.com/pd/3887576.html)
- > 产品思维是什么？就像一千个人心中有一千个哈姆雷特一样，一万个产品经理有一万个想法。用户观察、观察用户是锻炼产品思维的好方法。目录：产品思维是什么；如何锻...
- ## [数据埋点：用户唯一标识](http://www.woshipm.com/data-analysis/3887258.html)
- > 用户唯一标识，是用户唯一的身份ID，相同的身份ID，就会被当做是相同的一个用户。01 为什么要建设用户唯一标识如何区分某个用户就是他这个用户，而不是另一个用户，...
- ## [数据驱动和科学增长怎么落地？读这篇就够了！](http://www.woshipm.com/operate/3882493.html)
- > 本文作者梳理了最近半年的一些重要企业数据驱动运营项目的经验，来谈谈数据驱动和科学增长怎么落地？一段时间来不少媒体都在讲2019-2020年互联网无战事，这当然是媒体...
- ## [基于大数据的企业战略管理：理论基础与市场机遇探究（二）](http://www.woshipm.com/it/3882178.html)
- > 大数据分析相比人为经验具有数据流丰富、持续性好、 存储计算便捷等优点，可以帮助企业摒弃传统的战略规划方式，通过科学的数据分析来识别企业组织的市场机遇。4. 通...
- ## [另类功能设计——智能功能](http://www.woshipm.com/pd/3888694.html)
- > 任何功能或者产品的设计都有其特殊性，一定不要轻易总结方法论，更要注意不要轻易传播方法论。广博的知识面才是决定产品经理深度的核心，任何事情只有自己亲身体会才能...
- ## [从文化视角思考：视频号背后的产品调性](http://www.woshipm.com/it/3881261.html)
- > 本文从文化视角切入，谈谈视频号背后的产品调性，enjoy~所谓的需求和痛点，其实是对人性的深刻洞察；所谓的产品设计，不过是对日常生活应用的解构。前一阶段我喜欢形...
+ ## [亚马逊：长尾商品解锁的新价值曲线](http://www.woshipm.com/it/3890278.html)
+ > 亚马逊，一家万亿市值的电子商务公司。分析亚马逊、淘宝、京东等早期电商的文章很多，经常会把成功归就于“线上效率高于线下”。但是，这场效率变革带来的更大改变，却常...
+ ## [你知道App如何自动绑定用户关系吗？](http://www.woshipm.com/pd/3889384.html)
+ > “自动绑定”功能，就是能有效减少用户操作步骤、简化产品流程的一项技术。本文讲述了App优化的操作流程、适用场景以及自动绑定的实现方法，与大家分享！关于提升产品用...
+ ## [后浪新消费，疫后新机遇](http://www.woshipm.com/it/3884640.html)
+ > 最近《后浪》非常火，不知不觉前浪已经在沙滩上。后浪推动着商业和社会发展，后浪与前浪让商业快速的换挡和洗牌。而疫情在给经济带来压力的同时，也催生了新的机会。本...
+ ## [产品经理需要了解的技术知识：后台宕机](http://www.woshipm.com/pd/3889285.html)
+ > 产品的数据量一旦飞速的起来，宕机就变成了分分钟的事情。作为一个成熟而优秀的产品经理，你要做的就是先理解后台逻辑，在做产品规划的时候就考虑到一切可能的风险。本...
+ ## [行业差异对系统设计影响大吗？这个观点有点不一样](http://www.woshipm.com/pd/3888984.html)
+ > 对于本文的话题来讲，若去面试中阶产品经理，仅了解行业差异，还能说得过去。若想做好一个公司的采购系统，就需要理解细分行业的业务模式和企业独有的管理方法。这样，...
+ ## [数据中台建设的目的是什么？如何理解数据中台？](http://www.woshipm.com/pd/3889354.html)
+ > 文章就和大家聊聊我们对于“数据中台”的理解，以及和“数据智能的技术体系”间的区别。在上一篇文章《行业前沿：互联网人必须读懂的“数据智能”》中，我们概括性地阐述了...
+ ## [数据驱动用户运营的理论与实务](http://www.woshipm.com/operate/3888802.html)
+ > 文章从用户运营的概念出发，对数据驱动用户运营的原因以及方法展开了分析与总结，与大家分享！一、什么是用户运营用户运营指的是以用户为中心，制定运营策略与机制，...
+ ## [做产品，懂流程很重要](http://www.woshipm.com/pd/3092511.html)
+ > 流程规范着社会秩序，影响生活的方方面面。对于产品人来说，懂流程也是必不可少的一项工作技能。本文讲述了产品人梳理流程的重要性、行业内的流程规范以及如何梳理流程...
+ ## [秀场直播面临困境，“陌陌化”能拯救流量危机吗？](http://www.woshipm.com/it/3887787.html)
+ > 从产品上看，秀场直播们都加大了陌生人社交功能的开发力度。这是否意味着秀场直播打算打造下一个陌陌？ 本文从秀场直播产品的社交功能入手，分析了秀场直播模式目前面临...
+ ## [关于 5G 消息，这7点你需要知道](http://www.woshipm.com/it/3886924.html)
+ > 5G 消息是什么？什么时候能用上？大家对于5G消息的看法是什么？本文作者从互联网产品经理的角度出发，对这些问题进行了阐述分析，与大家分享。2020 年 4 月 8 日三大...
+ ## [一分钟学会20个页面设计方法之钱包、添加好友&关注](http://www.chanpin100.com/article/111688)
+ > 用好原型素材，高效产出原型
+ ## [用户任务地图|给你一个分析用户行为的上帝视角](http://www.chanpin100.com/article/111686)
+ > 分析用户使用行为的完整框架
+ ## [百变潮妈？也要玩出智能新花样|2020年母婴品牌智能+生态分析](http://www.chanpin100.com/article/111685)
+ > 简介：母婴产业是一个跨行业、跨部门的综合产业群，随着居民生活水平的提高，育儿成本逐年上升，无论是母婴市场整体规模还是网络零售规模都保持稳定的增长态势。2019年中国母婴市场规模已达2.86万亿，预计2021年将超3万亿。2019年母婴网络零售规模约5352亿元，预计将于2021年突破7000亿人民币
+ ## [Android分发渠道：市场分析与统计方法](http://www.chanpin100.com/article/111684)
+ > 在这个移动端入口碎片化存在的时代，内容被分散到不同渠道，谁掌握用户内容的渠道，谁就具备移动端入口的能力。本文将针对手机APP应用的Android分发渠道进行讨论。
+ ## [B端产品如何支持组织与流程变革？](http://www.chanpin100.com/article/111683)
+ > 本文介绍了3个企业在流程变化、组织架构调整时，如何减少、甚至避免B端产品伤筋动骨大调整的技巧。
+ ## [直播卖货翻车花样百出，要“恰饭”莫要“恰烂钱”](http://www.chanpin100.com/article/111682)
+ > 抗疫进入第二阶段，频发的翻车事件考验着消费者的耐性，要想由大到强，直播电商必须回归“价值导向”，和“恰烂钱”的翻车说拜拜，已刻不容缓。
+ ## [诸葛创始人&CEO孔淼：DT时代，何为用户增长新密码？](http://www.chanpin100.com/article/111680)
+ > 诸葛io通过完整跟踪用户行为，建立用户模型，高效的将用户分层级，支持不同规模企业进行深度挖掘和分析，让企业清楚的知道用户，并制定相应策略提升用户转化率、留存率，真正抓住企业的核心用户，促使用户产生更大的价值。
 
     
