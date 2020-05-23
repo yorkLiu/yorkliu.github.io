@@ -1,21 +1,23 @@
 ---
 title: 2020-05-23 IT News
 copyright: true
-date: 2020-05-23 08:00:51
+date: 2020-05-23 09:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [强力推荐!2020中国标杆智能工厂榜单发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1590192005&ver=2355&signature=Hq7PSInoLE5LrKNTsk9jei9y07Mqn3BOYFlDSTsKou*dctzfvUdPfKNTkRKDgdqshRwCpipzr4FfIyn87lcNqBoAxBXCSqU3XUOELy9vJx7pCxyQssVsBgOLoUlul3z2&new=1)
- > 导读：e-works在2020年初开展了第一批次中国标杆智能工厂的评选活动，以发现更多中国本土智能工厂标杆，寻找细分行业智能工厂领先企业，探索标杆企业智能工厂建设之道，增强制造企业智能工厂建设信心。文/直观学...
- ## [5月28日，六位专家带你瞭望机器人发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1590192005&ver=2355&signature=kK*96pTzUPzSBmoGO6v1ve0xEOL8b05NqdGXSbDWbO0zve7P5T5s2PluvuaZY0uHc9uGLo0EwiPAYXXVun66jQWqh64HIZqQHQQkN-hOagZMP2VIUuj3BZtfq4qN0R-V&new=1)
+ ## [5月28日，六位专家带你瞭望机器人发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1590195605&ver=2355&signature=kK*96pTzUPzSBmoGO6v1ve0xEOL8b05NqdGXSbDWbO0zve7P5T5s2PluvuaZY0uHjAhnGJK6mQHqL6enYYyuRV1w-FXs54aLXI49imEqOVNG*G66*pPutzI-NETph-7t&new=1)
  > 2020年全球机器人市场风起云涌，工业机器人关键核心技术的种种突破，正逐步获得市场认可；服务机器人得益于AI技术的进步，多个细分市场百花齐放；再加上全球疫情影响，对机器人需求的刺激，都在给整个机器人上下...
- ## [6万人爆仓，蒸发38亿!50枚比特币为何引发“血案”?](http://mp.weixin.qq.com/s?src=11&timestamp=1590192005&ver=2355&signature=CC03lS*iv16loi3JdT19B8WhFtWeFfAhW4LvctDdy2-4H9yduD1rtyii99O3RQ-YDXAH6Z3ON0vxSyHWaxlxO1JQHJd-hswIbabfpXjEF3aTg13rrUJ9nStKF4yrLPD7&new=1)
- > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com近期，随着比特币第三次减半，比特币价格一路徘徊涨至9800美元附近。然而，这一切被5月20晚的突然异动打破。5月20
- ## [5G+AR眼镜、全息、AI、区块链……两会报道科技范儿](http://mp.weixin.qq.com/s?src=11&timestamp=1590192005&ver=2355&signature=yXxYu297*bpAqhkxAvQAuZvooQJl*5OOxwjJ6Z-naoQI6BcnA5ZWNpMnj7ePpSBpZIChEJg6EqqB1eaaqKM1vajKruVoh0YeTK3aOOQ1pCO-0MyIjjWFnjBjYC4nkbUW&new=1)
- > 远隔千里的全国两会代表、委员和主持人跨屏同框，云访谈、云连线、云采编等实现跨地域实时沟通，新闻报道充分利用5G、全息、AI、区块链、5G+AR眼镜等技术手段——今年的全国两会科技范儿十足。“5G+4K/8K+AI”战...
- ## [揭秘百年前日本“人造人”秘史，能像人表达感情](http://mp.weixin.qq.com/s?src=11&timestamp=1590192005&ver=2355&signature=h-f1gD1Am0e-OROYM8pYMosI*NWrz*8Be1cj44EQuaeecIor4ZvtLKxvbwcXURdibSZM9RR*voxp0Jha1bxTQp1g1wZxt8FNzid9*G**7jVs7CAcmqFQsM4ED95p0*MN&new=1)
+ ## [揭秘百年前日本“人造人”秘史，能像人表达感情](http://mp.weixin.qq.com/s?src=11&timestamp=1590195605&ver=2355&signature=h-f1gD1Am0e-OROYM8pYMosI*NWrz*8Be1cj44EQuaeecIor4ZvtLKxvbwcXURdilR-SDiibvNsPu8NFpTyK8nCIzC9dAJ4J0dH7uwdc50ufNrHneyiYampdLJpEzXM5&new=1)
  > 看点：发明者是生物学家？面世后离奇失踪？揭秘第一个东洋机器人“学天则”背后的故事。智东西5月22日消息，近日，日本一个名为“学天则”的机器人引起了各界关注，这款机器人被认为是日本首个历史可考的人形机...
+ ## [中国联通张云勇：未来广电700M将共享给三大运营商使用](http://mp.weixin.qq.com/s?src=11&timestamp=1590195605&ver=2355&signature=LZo69tT540P7UqLwL8ipMGKexkITcSaimeVXRfqCGgElYtofViRVAIT06Ofj5hm*IxWS6BuvhwdN*CrMews9k-hLuOWqDOUDaE8iVOxHyPAPy38-QGmWyP15Tl2Q1CIw&new=1)
+ > “我国正在加快推进5G网络建设。”5月21日，全国政协委员、中国联通研究院院长张云勇在接受记者时告诉记者。张云勇援引数据告诉记者，截至2020年2月底，5G基站开通16万个，有50个城市开启大规模商用，5G用户数量...
+ ## [6万人爆仓，蒸发38亿!50枚比特币为何引发“血案”?](http://mp.weixin.qq.com/s?src=11&timestamp=1590195605&ver=2355&signature=CC03lS*iv16loi3JdT19B8WhFtWeFfAhW4LvctDdy2-4H9yduD1rtyii99O3RQ-YWz3TtstSbknUId2OztzSx79fz8dbB1lZnK6c9iCz3gvMyHF*3h0GDrXGPZMUBoEm&new=1)
+ > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com近期，随着比特币第三次减半，比特币价格一路徘徊涨至9800美元附近。然而，这一切被5月20晚的突然异动打破。5月20
+ ## [5G+AR眼镜、全息、AI、区块链……两会报道科技范儿](http://mp.weixin.qq.com/s?src=11&timestamp=1590195605&ver=2355&signature=yXxYu297*bpAqhkxAvQAuZvooQJl*5OOxwjJ6Z-naoQI6BcnA5ZWNpMnj7ePpSBpVWuqu7D6JHrJ18gc6Gt-ajkM5N2sXYPYeTAOz24MczQ02XANA*L-qcGOWHQHevW2&new=1)
+ > 远隔千里的全国两会代表、委员和主持人跨屏同框，云访谈、云连线、云采编等实现跨地域实时沟通，新闻报道充分利用5G、全息、AI、区块链、5G+AR眼镜等技术手段——今年的全国两会科技范儿十足。“5G+4K/8K+AI”战...
+ ## [强力推荐!2020中国标杆智能工厂榜单发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1590195605&ver=2355&signature=Hq7PSInoLE5LrKNTsk9jei9y07Mqn3BOYFlDSTsKou*dctzfvUdPfKNTkRKDgdqsXOVv6n4PD7AWcBMTFS95WfO5HoufrPmtfVlzfwyA49wRBagerNaVcL-U*Ls*FYfX&new=1)
+ > 导读：e-works在2020年初开展了第一批次中国标杆智能工厂的评选活动，以发现更多中国本土智能工厂标杆，寻找细分行业智能工厂领先企业，探索标杆企业智能工厂建设之道，增强制造企业智能工厂建设信心。文/直观学...
 # IT 技术 
  ## [来，教你写一手好SQL！](http://database.51cto.com/art/202005/617152.htm)
  > 来，教你写一手好SQL！
@@ -33,67 +35,67 @@ categories: IT NEWS
  > 如何使用C中的用户注释？
  ## [阿里P7也不过如此，被一个简单的SQL查询难住！](http://database.51cto.com/art/202005/617047.htm)
  > 阿里P7也不过如此，被一个简单的SQL查询难住！
- ## [冒泡排序动画（基于python pygame实现）](https://blog.csdn.net/python1639er/article/details/104876905)
+ ## [新一代神器STM32CubeMonitor介绍、下载、安装和使用教程](https://blog.csdn.net/ybhuangfugui/article/details/104787761)
+ > 新一代神器STM32CubeMonitor介绍、下载、安装和使用教程
+ ## [现代的 “Hello, World”，可不仅仅是几行代码而已](https://blog.csdn.net/csdnnews/article/details/104935651)
+ > 现代的 “Hello, World”，可不仅仅是几行代码而已
+ ## [微信查看谁删除了4种方法](https://blog.csdn.net/lantian_123/article/details/105760456)
+ > 微信查看谁删除了4种方法
+ ## [撸项目没灵感，那是因为你没看过这个 GitHub 项目！](https://blog.csdn.net/sinat_33224091/article/details/106233034)
+ > 撸项目没灵感，那是因为你没看过这个 GitHub 项目！
+ ## [一个高中女学生，在抖音找兼职被骗4元钱的经历！](https://blog.csdn.net/ityouknow/article/details/106233291)
+ > 一个高中女学生，在抖音找兼职被骗4元钱的经历！
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
- ## [JAVA SE 面试题 —— JAVA 基础知识面试题](https://blog.csdn.net/baidu_27414099/article/details/105593659)
+ ## [降薪！调岗！凭什么Python再次成为2020年新贵！](https://blog.csdn.net/CSDNedu/article/details/106257812)
+ > 降薪！调岗！凭什么Python再次成为2020年新贵！
+ ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
+ > 大三实习生，字节跳动面经分享，已拿Offer
+ ## [数据库和缓存一致性的问题](https://blog.csdn.net/21aspnet/article/details/105249941)
+ > 数据库和缓存一致性的问题
+ ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
+ > 你怎么看欧阳娜娜空降阿里p8？
+ ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
+ > 如果你是老板，你会不会踢了这样的员工？
+ ## [C 语言编程 — 基本数据类型](https://blog.csdn.net/Jmilk/article/details/105263837)
+ > C 语言编程 — 基本数据类型
+ ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
+ > 爬虫（101）爬点重口味的
+ ## [安琪拉教鲁班学算法之动态规划](https://blog.csdn.net/zhengwangzw/article/details/105321718)
  > 
- ## [Web安全 IP地址知识大全，了解IP地址这篇就够了（局域网、IP地址构成、IP地址分类、子网掩码、网关、DNS）](https://blog.csdn.net/JankinChan/article/details/104880192)
- > Web安全 IP地址知识大全，了解IP地址这篇就够了（局域网、IP地址构成、IP地址分类、子网掩码、网关、DNS）
- ## [单片机ADC采样算法----一阶低通滤波](https://blog.csdn.net/qq_20222919/article/details/105098071)
- > 
- ## [【STM32F407的DSP教程】第5章 Matlab简易使用之常用编程语句](https://blog.csdn.net/Simon223/article/details/105286068)
- > 【STM32F407的DSP教程】第5章 Matlab简易使用之常用编程语句
- ## [MATLAB二维绘图(三)操作绘图句柄显示特定的效果](https://blog.csdn.net/CHQC388/article/details/104743904)
- > MATLAB二维绘图(三)操作绘图句柄显示特定的效果
- ## [opencv-python 人脸检测，边缘检测，识别形状，图像分割，OCR，OMR，验证码识别，二维码识别，行人检测等应用解决思路](https://blog.csdn.net/Serendi_patty/article/details/105513829)
- > opencv-python 人脸检测，边缘检测，识别形状，图像分割，OCR，OMR，验证码识别，二维码识别，行人检测等应用解决思路
- ## [老码农吐血建议：2020年，低于1w的程序员要注意了...](https://blog.csdn.net/CSDNedu/article/details/106258045)
- > 老码农吐血建议：2020年，低于1w的程序员要注意了...
- ## [Python与PyCharm的下载安装和配置（内含所需的安装包，适用于win10 64位系统）](https://blog.csdn.net/weixin_43905975/article/details/104606257)
- > Python与PyCharm的下载安装和配置（内含所需的安装包，适用于win10 64位系统）
- ## [51单片机（二十九）—— 矩阵键盘输入实验](https://blog.csdn.net/bhniunan/article/details/104698117)
- > 51单片机（二十九）—— 矩阵键盘输入实验
- ## [不懂域名系统，何谈网络编程](https://blog.csdn.net/qq_35844043/article/details/105322977)
- > 
- ## [大数据分析抖音养号是否有用？（抖音运营）](https://blog.csdn.net/weixin_45393094/article/details/105440512)
- > 
- ## [学习笔记之MOOC《计算机程序设计C++》第5周编程作业](https://blog.csdn.net/qq_35076612/article/details/104762506)
- > 学习笔记之MOOC《计算机程序设计C++》第5周编程作业
- ## [Java语言this关键字用法全面总结](https://blog.csdn.net/shalimu/article/details/105198961)
- > Java语言this关键字用法全面总结
- ## [java8 利用lambda表达式对map集合求和，或平均值、最大值、最小值](https://blog.csdn.net/weixin_40841731/article/details/105556843)
- > java8 利用lambda表达式对map集合求和，或平均值、最大值、最小值
+ ## [小女出世，暂停工作，全职照料大人小孩](https://blog.csdn.net/subfate/article/details/105375695)
+ > 小女出世，暂停工作，全职照料大人小孩
 # 人工智能 
- ## [Putty远程连接Hyper-V下的centos7](https://blog.csdn.net/u010168866/article/details/106250472)
- > Putty远程连接Hyper-V下的centos7
- ## [Linux  命令之uniq 删除重复行](https://blog.csdn.net/weixin_46163590/article/details/106227922)
- > Linux  命令之uniq 删除重复行
- ## [简单几步在Linux的CentOS7环境安装并配置Redis](https://blog.csdn.net/Piconjo/article/details/106257830)
+ ## [两个字符串问题给我整懵了，面试官：“你对我们公司还有什么想问的？”](https://blog.csdn.net/m0_37827190/article/details/106223703)
  > 
- ## [关于U盘或移动硬盘之类的实现多系统共存问题(仅限uefi)](https://blog.csdn.net/sorry_my_life/article/details/106249532)
+ ## [2020520，小姐姐，加个微信好不好？](https://blog.csdn.net/xqnode/article/details/106243064)
  > 
- ## [华为 常用的查看命令](https://blog.csdn.net/HYD696/article/details/105589143)
+ ## [不知道java的基本数据类型，你学什么java](https://blog.csdn.net/qq_43402310/article/details/106250219)
+ > 不知道java的基本数据类型，你学什么java
+ ## [学java反射，看这篇就够了](https://blog.csdn.net/Java_programmer_liao/article/details/106013181)
  > 
- ## [老大哥:编译JDK好难呀,我要放弃Java了,我:别呀,看我的](https://blog.csdn.net/qq_17623363/article/details/106269373)
+ ## [一步一步搞懂MyBatis中设计模式源码——代理模式](https://blog.csdn.net/shang_0122/article/details/106105717)
  > 
- ## [Linux基本操作---实践+理解--CentOS 7](https://blog.csdn.net/ITbaby_boy/article/details/106221552)
+ ## [来一波，Java基础复习（Java 8）](https://blog.csdn.net/realize_dream/article/details/106221440)
  > 
- ## [Shell编程之文本处理三剑客~干货满满！！](https://blog.csdn.net/qq_25343557/article/details/106264110)
+ ## [【JVM】类的加载过程](https://blog.csdn.net/Steven_L_/article/details/106244759)
+ > 【JVM】类的加载过程
+ ## [springboot国际化i18n](https://blog.csdn.net/qq_36521848/article/details/106245473)
+ > springboot国际化i18n
+ ## [Java创建子线程的两条不归路](https://blog.csdn.net/Milan_1in/article/details/106231337)
+ > Java创建子线程的两条不归路
+ ## [面试官问你注解你虚了吗？还不快进来自己手写一个](https://blog.csdn.net/weixin_44310139/article/details/106228578)
  > 
- ## [完全图解：linux及其图形界面的安装及其初步使用](https://blog.csdn.net/python__reported/article/details/106245279)
- > 
- ## [RHEL常用Linux命令操作   第四章实验报告](https://blog.csdn.net/qq_45056216/article/details/106231198)
- > 
- ## [超级适合小白的Linux实战入门之安装图文并茂，真实实战（VMware  workstation 下安装centos7并且配置网络（静态ip的配置）](https://blog.csdn.net/qq_33570145/article/details/106226225)
- > 超级适合小白的Linux实战入门之安装图文并茂，真实实战（VMware  workstation 下安装centos7并且配置网络（静态ip的配置）
- ## [NFS共享存储](https://blog.csdn.net/weixin_42163329/article/details/106261737)
- > NFS共享存储
- ## [进程 · 全家桶](https://blog.csdn.net/qq_43762191/article/details/106024446)
- > 
- ## [Linux~bash功能（一）命令行编辑、内部命令和外部命令、命令补全和路劲补全、命令历史](https://blog.csdn.net/Shangxingya/article/details/106242478)
- > Linux~bash功能（一）命令行编辑、内部命令和外部命令、命令补全和路劲补全、命令历史
- ## [VRRP+MSTP=二层和三层的冗余](https://blog.csdn.net/Yang__Qi/article/details/106268538)
- > 
+ ## [LeetCode 662. 二叉树最大宽度（递归）](https://blog.csdn.net/qq_21201267/article/details/106249487)
+ > LeetCode 662. 二叉树最大宽度（递归）
+ ## [饮料购买](https://blog.csdn.net/qq_45280147/article/details/106268936)
+ > 饮料购买
+ ## [MyBatis做简单的增删改查，超级详细，保证一看就会](https://blog.csdn.net/sunrj_niu/article/details/106242908)
+ > MyBatis做简单的增删改查，超级详细，保证一看就会
+ ## [JDK9的新特性:String压缩和字符编码](https://blog.csdn.net/superfjj/article/details/106248364)
+ > JDK9的新特性:String压缩和字符编码
+ ## [02.Java设计模式之~工厂模式](https://blog.csdn.net/qq_41424688/article/details/106244570)
+ > 02.Java设计模式之~工厂模式
 # PM 
  ## [从电商场景入手，教你玩转常用场景分析！](http://www.chanpin100.com/article/111700)
  > 场景分析，是产品经理必须掌握的诸多技能之一，与其摸着石头过河，不如开始就做卓越的顶层设计，一开始就做好产品规划，可以避免许多高位截瘫情况的发生。而确定以用户心智模型为基础的高度统一的产品，是任何产品都要遵循的规则。
