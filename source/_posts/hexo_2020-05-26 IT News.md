@@ -1,7 +1,7 @@
 ---
 title: 2020-05-26 IT News
 copyright: true
-date: 2020-05-26 12:02:23
+date: 2020-05-26 17:01:29
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -92,30 +92,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [雷军：4G 手机已清仓，全力转 5G；QQ音乐播放中途插语音广告引热议；Wine 5.9 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=CHYyh5GWCbKFNga5m0EDSa-chzOJ0edTemSWHw73kDxF522ZF1aV0WXNqk*zO-I2JOGbElfLkc4Va4lV*4bZOr9zNG4WQ3Kjjc9CWQhl8M6fHrwIku80yv1eK7B29TXu&new=1)
- > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
- ## [为“中国数谷”“鼓”与“呼”](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=74-KPqvKByS96C2QQfU4uF5BsGamBoMgMtKEwAeyZ4pTwejKAgjmXkJpdwlM7Bw1qbO2vR9rmdREkuJp9MslxavQzx0YBA65ZlIxgl2FdNc=&new=1)
+ ## [新基建人才争夺战开幕：年底缺口将达417万，广东省需求最旺，北京扩招算法](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=9D*9vs4vb8OZnVnf*fs5NLW6eURVcfy*uiXO7yFqfZhbH76qRs956injGtCQkETdVFlQi72xWqOGnxLxLpG9TyQRZxaG82eBeTrNVZ4ZIbcDDmozr3dT*sJSFkfgASul&new=1)
+ > 今年以来，新基建已成「高频热词」被反复提及，包括江苏、上海、天津以及广州、昆明等多地连出「新基建」新政，围绕 5G、人工智能、工业互联网等重点领域，一批千亿、万亿级新基建投资计划已列上议程。产业需要...
+ ## [报名赢好礼|研发与运维一体化，见证终极协同奥义](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=M5aQsW-jROk06khGuspRM6so9C5ptYzQ9PY7*tZVmKYWVZ733MYJCcEqfdbBMPuGd7r2NkZUjf9CElabzAVUmJlQ7u1vJl0*JBtsWxaHcgKdyzDPDRXiMQpEBtlQWaND&new=1)
+ > （本文阅读时间：4 分钟）开发人员的成长困境家家有本难念的经，但是痛却总是惊人的相似场景1：某个软件开发公司里，所有的设计、开发、测试、运维虽然被分配了不同职能与任务，但是他们都有一个统一的称呼——...
+ ## [“新基建”首入政府工作报告，它将如何改变我们?|人民锐见](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=CBCEoNieNcBp30fAOPvAMGFe2wn9D2S-cA*ZPoqtjfkfXJmsCw-J315TF*r-WFehtgCbGLkzv1WMDgb13XncoWIv73nPp6D5Njbw*YSt4sH1Nlh-qkqAprKDUxcM2vM5&new=1)
+ > “加强新型基础设施建设，发展新一代信息网络，拓展5G应用，建设充电桩，推广新能源汽车，激发新消费需求、助力产业升级。”今年的政府工作报告中，首次写入“新基建”这一概念。作为“两新一重”的重要内容，“...
+ ## [微软这是准备把 Windows 变成 Linux 吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=-CWOW4-5nFdu4g7-QNCo2k4Seoa2eLhrMMWdmsriUVAwkQXQlw1YEZh9j9Y2vj*59n2OVP6YY6pY5XPfanE9AcHSf3m9xhQ2iNk20sDWOcRv58SGlFbb2DP5irh1A2LB&new=1)
+ > 在著名的 Linux 发行版本 Ubuntu 系统下，用户只需要使用 apt install xxx 就能安装软件，使用 apt update xxx 升级软件，apt remove xxx 卸载软件，apt 本身会自动解决依赖的问题，类似
+ ## [5G全息采访上线!](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=IartUOi3-tvg614BXWlHnU6vW11JmREL7QDOBOK42CpvQJNLqWGExvkFBpd597bRm8ILAuXRcvLKd8*cI7Ujqt3FC4iTbyzQGqcaYHASvpIvfvrseLek3RZGbf50XbBn&new=1)
+ > “有了河南联通帮助，疫情挡不住报道脚步。”河南广播电视台报道全国两会记者感慨地说。为减少疫情对两会报道工作的影响，河南联通充分发挥5G优势，提前与相关科研单位合作，两会期间全国首家上线目前全国唯一的...
+ ## [Apollo仿真「训练有素」，长沙无人驾驶出租「轻车熟路」](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=EpS-xCr1elfMJTwXzv4dYiwPH8l2dxRxOAytlsiwZwSLN1Mi1wb5bq*NQV5vVyCWmKjC1JRkITcDsGlZCE*JySliyb3r89XtLcKEiOF4exdeiKT6ZFseoHmNvUCYaB2B&new=1)
+ > 允中 发自 凹非寺量子位 报道 | 公众号 QbitAI书接上回，我们介绍到：百度Apollo无人驾驶出租，已在长沙全面免费开放。但是！也有不少朋友发来疑问：心里有点担忧，不敢坐。毕竟之前都是人类司机，应对各种场景...
+ ## [发生了什么?创业板突然暴涨，恒指狂拉400点!更有华为"一声吼"，一批A股涨停潮，大逆转来了?](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=vfjZx6b2ghYxhNeclHSIyfa58eNfW0dQa3YSp-2iW2DKH27rWFf5rBDMrIUCk8nJuKUdRtFFSC0qa0gU7YJgr2HZ7KjTlKez2itN-jtvn0aq-Yx-WXN3xBv1Oa4SZtXZ&new=1)
+ > 中国基金报 莫飞 瞄准万亿级安防市场，华为又放大招了！ 5月25日下午，华为机器视觉发布了四无生态型摄像机HoloSens SDC，所谓四无生态即无电、无网、无光和无现场运维。据悉，华为机器视觉将于生活、娱乐、通信...
+ ## [从单一产品到互联平台 打造智能家居生态圈](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=pgvsg7XvVpWcDb54y31p2SnHANdWB*kYSq8dRcne5pLbIQ4uZPQuxDnok8D7l50ARJd99gixWbCN8umN8jbBzkosFyipB3jmnpIL4*Wa6C83SAp4PwqHROeJdt4601vX&new=1)
+ > 在AI、云计算、物联网等智能化技术开始寻求场景落地下，2019年，我国智能家居市场规模突破3000亿元。政府方面也围绕居民吃穿用住行、服务消费升级方向等内容，出台不少行业举措及意见，比如2019年9月20日，中共...
+ ## [入门ARM必须要理解的22个常用概念](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=pMo8P-JQEjUkbQK6hoVh8L7uwGci80sWYDdqtd0nxizDj7eKeeYi7-KGHI1Ma9hQrAY9CaqVBk7ehN1oV02BOnHZojYGOAamwSNHV7Mh*U0zkqjbHMajaPIfP8duBfsk&new=1)
+ > 入门ARM文章罗列了关于ARM的22个常用概念。包括一些使用注意事项、ARM启动代码设计、ARM处理器运行模式、ARM体系结构所支持的异常类型和一些基本操作方法等等。01ARM中一些常见英文缩写解释MSB：最高有效位LSB：...
+ ## [杀链：美国大选的网络战争](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=hOGS4T5IPXzzUl9XbZJP6pZejQPrxdA-aL8iMHoBdqv*PAK5Gp5f*t6rO5haJDk*6czEz*Ng9PacByGnKSUpdsAxPn5Rlu*G0VtEhbsE9wav-axkJDMX0zcewWPCHwYC&new=1)
+ > 一波未平，一波又起。2016年美国总统大选的网络安全风波尚未平息，2020年的大选安全问题再次成为关注焦点。如果说2016年的大选安全问题是一次毫无防备的“闪电战”，那么2020年，没有人怀疑，这一次美国大选面临...
+ ## [2019中国管理软件渠道生态报告暨渠道评估手册](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=aXQpVWxXdCk9ARMLf29ZKqNMxQtI*Gl0cpyjuFbscuHf1MVe3yovKGiLjDTxBAzRIk2mk6smwnO9LxSpyzGKIWvgJAFgf8buHF2KyoTt3z9TAG8x1swwMw7c69zfFS5o&new=1)
+ > 免则声明：本报告所涉之统计数据，主要来自于社会公开数据（如：国家统计局、工信部定期发布数据，上市企业公开数据等），桌面研究（包括：企业公开信息——产品/服务、案例、白皮书、活动、新闻资讯等），以及...
+ ## [芯片供应被掐断，华为能否安全渡劫?](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=lhPTDDH4udAcO7cd24tynRqEIuDicqVEOPWMwEgoFx8gGMANm7fGNaxlExqo-0mU8QF5dvksFwHTfb-WGsH33HuDq4vWbOKtHOtVplljrQRpx7XJ8DSPZv5E4reUNAFw&new=1)
+ > 可以预见，如果华为海思的自研芯片能力受到打击，华为手机将成为最大的受害者，整个华为消费者业务也将遭受难以预估的损失。作者｜张俊本文经授权转自新浪科技（ ID：techsina）“求生存是华为现在的主题词。”5...
+ ## [工信部部长在“部长通道”上给新华社“5G全息异地同屏访谈”点了个赞!](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=vYtDWRkrGw8Ln0TJETsvd3efsAqj0KYWAu9CUwSyCAnoGv-qMHamxkC8Q2C5QE4IBToXNnUBAXg3qc8erWElqZvBnYLvx-qomRiJtnfgBaXXC8OwARJ2mNoYsowutHxc&new=1)
+ > 5月25日，第十三届全国人民代表大会第三次会议举行第二场“部长通道”采访活动。这是工业和信息化部部长苗圩通过网络视频方式接受采访。新华社记者 李贺 摄“虽然记者跟代表相隔大概1000公里，但好像是在面对面...
+ ## [数字化新基建中的数据流通与安全管控 ——浅谈SD-WAN融合SASE在新基建平台中的价值](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=dlUxmQLaAQEWyeZk7KtdC10wqRv6HU6ADzjn0w6XHcvjI*93E419vJa7Qa-VL4eVFj3fQpB3ogWvJOkP1TfQ3QrR3E7vAXTlQssxQdm1VYf47g7aw7ldZdPQKCOUvPdv&new=1)
+ > 关键讯息，D1时间送达！近期，“新基建”政策正式出台，为我国未来数字化经济奠定坚实基础!数字化时代，无人驾驶、车联网、智慧城市、工业4.0、数字孪生、智能制造、微型传感器、数字结算、AR/VR、智慧医疗、实...
+ ## [为“中国数谷”“鼓”与“呼”](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=74-KPqvKByS96C2QQfU4uF5BsGamBoMgMtKEwAeyZ4p9Lpioo7gIzo0edxiTbMOGcesQHGDiXegl*bMJQtWjtSJNOfMiH9pP-vdNmq6n*L0=&new=1)
  > 国家大数据（贵州）综合试验区展示中心。　　2018年贵阳大数据及网络安全攻防演练现场。　　货车司机展示“货车帮”APP。　　助推数据产业发展，主流媒体大有可为。加强舆论引导，普及数据理念，推进数据治...
- ## [所有iPhone设备都可能被解锁! 黑客发布新款越狱软件“Unc0ver”](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=07OdMzeMtriJ3DPwfS-A*hizrNRNOApfWkIvaTSF6Z6W0PWFnpt4jl76pWwS1h8AKldfgJiHusuaJWTHZ-45D7oGKGFA4ajcdO2BWhiuzDyt0KbWP2cmUt8nyaJ1piiX&new=1)
+ ## [中国联通发布5G未来社区白皮书(2020年版)](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=TdIgLBQa*BjqbJibPJFNPLbGBBGKjhEuLdqq2lUphg9f6DRIeH7hRiYVgxBfi7XlDQ*3vU8j-wRJBJ0BlE7sFjXfbrwt3sXUeEW8-xhltdTzE3Jl9yE5tMnxiGOMHdHm&new=1)
+ > 中国联通政企BG高级副总裁（常务）李广聚出席论坛并致辞，他指出，以5G、人工智能等为代表的新一轮科技革命正在推动网络强国、数字中国、智慧社会向纵深推进，中国联通积极推动5G在各领域包括智慧城市的融合应用...
+ ## [雷军：4G 手机已清仓，全力转 5G；QQ音乐播放中途插语音广告引热议；Wine 5.9 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=CHYyh5GWCbKFNga5m0EDSa-chzOJ0edTemSWHw73kDwXbdfC8zwxUmcOOQ9vyV3Zp89hxo2IUSudqxiT5nu-ZHgLmOQpZS1Hoz8fyi2nhM7JWPVyvVzc1CJXvyi9hK1u&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得...
+ ## [所有iPhone设备都可能被解锁! 黑客发布新款越狱软件“Unc0ver”](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=07OdMzeMtriJ3DPwfS-A*hizrNRNOApfWkIvaTSF6Z7OYKDhS7rlEyVopJuSeA-ZvrA5*Q01LRqgcw9Lj-54Zvx2vAYBhTrmdLZVNKd10YOhmP-jXrEWLXt8gk5g6lbX&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全5月26日讯，近日据外媒报道，一个著名的iPhone黑客团队发布了一款新的“越狱”工具Unc0ver，可以解锁每一部iPhone设备，甚至是运行最新iOS13.5的
- ## [全国人大代表、科力尔董事长聂鹏举：加强对工业机器人核心零部件产业扶持](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=u1GmTvA20DaC--znCf3I6-QMfRKbn2u*yfiKbqr*614aPoYWoxG2jQ9srF3OBPEszAUxlmoIchv8VnbvhKnyYtG15ILROIbfSL4WJvi7I*c=&new=1)
+ ## [全国人大代表、科力尔董事长聂鹏举：加强对工业机器人核心零部件产业扶持](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=u1GmTvA20DaC--znCf3I6-QMfRKbn2u*yfiKbqr*617JHmTSbiof-bP1AzNuWYMlRlGAPeIqev-DfaNRtICZ-sMBPN0KqnMz5hOYUAOFNIQ=&new=1)
  > 全国人大代表、科力尔董事长聂鹏举日前在接受上证报专访时说，这次两会他准备了8份建议，其中3份与产业相关，包括加强对工业机器人核心零部件的产业扶持、降低企业所得税、设立“企业家日”增强企业家精神等...
- ## [5G|英国电信：全面禁止华为设备将损失10亿英镑](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=ogZGqjoOEXdtY5nKTjL*uieamDb9o9RJEKUeD4HR8WL9XclaQx3lbdTAyU29zySl9eb8XXhexi23dP4-FnGdJH7H6t4yQAAom-Uz5RLAz5vEWgz0K2BZaC4eraT-Sawt&new=1)
+ ## [5G|英国电信：全面禁止华为设备将损失10亿英镑](http://mp.weixin.qq.com/s?src=11&timestamp=1590481868&ver=2361&signature=ogZGqjoOEXdtY5nKTjL*uieamDb9o9RJEKUeD4HR8WKJsktbF6KmiFRlrpiHLY-c46fx*KirbGSalobLAKdQ4XB6gdRalC2bKgOfeVeRBDt1626cSDDW45k2R6tYGFIh&new=1)
  > 新闻导读英国媒体称，首相鲍里斯·约翰逊已经制定计划，确保到2023年将华为完全排除出英国的5G领域。对此，华为表示毫无意义(don&x27;t make sense)，尤其是在英国政府允许华为继续供应产品(以受限水平)的仅仅几周后...
- ## [中国联通张云勇：推动2G退网，建议停止2G手机入网](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=Jpqet9U4RDn4nX63owU2CrjzLV4*SQAINQi6nZ-XDNfoJeOhehhw*v9KDUbwr5AZuS4qoNOfYegyAKxju3jHTSTw-376gLKNiuATaONNVsOF95k*L0Vq*nmj7LgCP1RR&new=1)
- > 在近日的“两会”上，全国政协委员、中国联通产品中心总经理张云勇提出了“关于有序推动落后产能2G退网”的提案，引起笔者的兴趣。5G时代来临，2G到了退网的阶段。但我们也看到，一些运营商2G退网没有明确的时间...
- ## [大变局!10万亿巨头出手，斥资1300亿研发造车!还强势挖角特斯拉、福特500人，苹果汽车工厂或将落户中国?](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=YRW8dIZ-79p20PYwrH-BxUl3jgS4x1a6tg02sQY7S37GO26ziGhY2RCHZOisWt4BfRJ77kTD4Czg0*XSERb6hC9XfuvnlrmCkf5kRoWKTs2p0jKmE93OptFMzv*794A1&new=1)
- > 在手机业务逐步失去吸引力，尤其在第二大市场的份额被华为碾压，苹果公司需要新的故事来支撑其估值、股价、想象空间。摩根士丹利分析师凯蒂•休伯蒂（Katy Huberty）预计，今年苹果将在汽车研发上投入近190亿美...
- ## [\[报告\]2020智能网联汽车行业深度研究(附49页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=w8OmDNFvqr8M1MCbkRUpKoZfGDgGKj1D6u-3PqvqfflkCZ7Q*npHxRv1ZbPJ-uF6QdHDWv742Q6V*vv6V8T3bn5sNN45zBDgH57BK4upFO0HSemi4SnsLnGsfuM3y19e&new=1)
- > 随着电动化发展及特斯拉的示范带动效应，智能网联化成为重塑汽车行业的关键因素之一，软件定义汽车时代到来。智能网联汽车以智能化和网联化协同发展，在网联化基础上，将智能车辆和智能交通融合在一起最终形成完...
- ## [传中国移动网建线将迎来重大调整：工程及人员划入中移建设!](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=-JVNjtgQQYcXHJ*Y98S5TKvb5Ew6E2turPlhNU3wio58YV0Su3dZGrKqn*kITrgn9CK-zKfl63*o8LsLZ8BKN*ce71-lHPeXBLtW0g5U*XCnKcGBEXw6HDSTR2Y*GULl&new=1)
- > 近日，据内部人士透露，未来中国移动地市分公司的工程建设条线、下属工程部的人员也要划入中移建设。目前，中移铁通XX省分公司同时设有“中移建设XX省分公司”，中移铁通XX地市分公司同时设有“中移建设有限公司...
- ## [倒数3天|科通芯城VP携手硬蛋创新CTO深度探讨机器人供应链趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=u*iJanp3IBsLpOQcv8JJymZ9UXVzJqQ3xfL*jKqnbNCpYqyItgX0FB5Y6D1qUL6WsqAij7vE1bxAwQcCeNU8g2L*AEvp7Y41-DTQTlTAvdqVcd1afg1WU5IiMb64k7Js&new=1)
- > 5月28日19点30分，“英特尔智能机器人产学研合作系列研讨会”第三场研讨会即将来临，本次将聚焦“机器人发展趋势”，和各行业专家探讨机器人行业发展方向，其中包括供应链趋势、投资机遇、机器人安全标准、ROS2....
- ## [逆境曙光：3D打印的逆行之路](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=vNQqbnwFblqDRo13RaL2G0m5-sBfvRaqJl2o6yfWBaT0JnsQuu3eFQyOfQJkfU4mxYmCUQo40xWXzTdl1bb4AMC0KpnGfwHLi44vpUMBS6RzINGkf*oEFw0y7uBkdurQ&new=1)
- > 在公共卫生事件期间，3D打印行业在股市中表现出了截然相反的“冰与火之歌”：Stratasys（SSYS.US）和3D Systems（DDD.US）的股价目前已经从自2014年的高点下跌了约90%，在公共卫生事件给消费者需求带来压力之际...
- ## [重磅!华为突然宣布，在美国的57家工厂全部撤离!!](http://mp.weixin.qq.com/s?src=11&timestamp=1590463806&ver=2361&signature=CYk7CiVyFwt93oBlEM*7EdMKmgxBGAWZukM6Hfl7oyaYHnxyLyPY-TbpZmPOwoA*CdURk0qtvTZRzzUOnHRd*GOK51Rqi080y2C4iDpdIBWPkHWVaa5h5eaZ9b33HV-2&new=1)
- > 来源|世界华人UFO科学、漏网之语、金融环球华为开始反击了！任正非：没有美国市场，华为照样生存！这一次，华为直击特朗普命门，宣布在美国的57家工厂全部撤离！忍无可忍，则无需再忍！面对美国政府一系列、持续...
 # IT 技术 
  ## [这么骚的SQL进阶技巧，不怕被揍么？](http://database.51cto.com/art/202005/617399.htm)
  > 这么骚的SQL进阶技巧，不怕被揍么？
@@ -133,110 +149,136 @@ categories: IT NEWS
  > 物联网将如何改变你的威胁模型：4个关键的考虑因素
  ## [蜜蜂应用于物联网系统的社会行为](http://iot.51cto.com/art/202005/617247.htm)
  > 蜜蜂应用于物联网系统的社会行为
- ## [运营商来之不易的V型反弹，还能持续多久？](http://network.51cto.com/art/202005/617424.htm)
- > 工业和信息部公布的最新数据显示，从发展走势上看，电信业务收入在经历长期筑底和疫情影响考验之后，已经开
- ## [多个国家的在线商店遭黑客入侵，SQL数据库正在出售](http://netsecurity.51cto.com/art/202005/617422.htm)
- > 黑客正在出售从多个国家的在线商店窃取的SQL数据库。该数据库总共包含1620000行，公开的记录包括了电子邮件
- ## [在React中实现条件渲染的5种方法及优缺点](http://developer.51cto.com/art/202005/617423.htm)
- > 随着现代Web应用的重量从后端转移到前端，我们不得不花更多的时间去考虑性能优化。在实现条件渲染时也是如
- ## [Python数据可视化：WordCloud入门](http://bigdata.51cto.com/art/202005/617421.htm)
- > WordCloud是一种很好的展现数据的方式，网上也有不少小工具和在线网页。但是有些不支持中文，有些安装复杂
- ## [SDN融合5G和时延敏感网络(TSN)](http://network.51cto.com/art/202005/617419.htm)
- > 这篇文章聊一聊TSN在融合SDN和5G场景下控制平面的实现。本文首先描述这三种技术融合的场景与需求，然后介绍
- ## [80％ 的 Oracle JDK 用户正在考虑其他支持选项](http://database.51cto.com/art/202005/617418.htm)
- > 在 2019 年，Oracle 决定更改许可模式，从提供免费的 Java 更新转变为要求付费订阅，这一重大变化无疑在市
- ## [区块链的过去、现在和未来](http://blockchain.51cto.com/art/202005/617416.htm)
- > 随着时间的推移和技术的进步，区块链日益发展成熟。五年前，分布式分类账技术市场几乎将比特币(Bitcoin)作
- ## [网络监控和远程办公：用户体验更为关键](http://biz.51cto.com/art/202005/617415.htm)
- > 随着远程办公的兴起，网络工程师已从使连接性变为推动生产力的驱动力，这并非微不足道的转变。
- ## [为什么猝死的都是程序员，基本上不见产品经理猝死呢？](http://news.51cto.com/art/202005/617417.htm)
- > 相信大家时不时听到程序员猝死的消息，但是基本上听不到产品经理猝死的消息，这是为什么呢?
- ## [新常态下，工业网络中的数字化转型正在加速](http://iot.51cto.com/art/202005/617413.htm)
- > 安全性与连接性只是IT / OT网络数字化转型的众多优势中的两个……数字化计划已成为弥合运营技术(OT)与信息
+ ## [新冠疫情加速进入非接触式访问控制新时代](http://ai.51cto.com/art/202005/617465.htm)
+ > 借助新一代的非接触式访问管理系统，用户无需接触可能受到污染的表面就可以进入工作场所，传统的访问控制被
+ ## [脑机智能持续升温 未来AI或扮演重要角色](http://ai.51cto.com/art/202005/617463.htm)
+ > 近日，中国科学技术大学先进技术研究院与华米科技联合宣布，共同建立“脑机智能联合实验室”，以突破关键技
+ ## [霸榜Github：Algorithm Visualizer将算法可视化，算法学习不再难](http://news.51cto.com/art/202005/617462.htm)
+ > 今天将介绍一个开源项目，它的厉害之处在于有个在线动态演示算法的网站。它就是Algorithm Visualizer。
+ ## [新基建写入政府工作报告，“5G＋”成未来重点](http://network.51cto.com/art/202005/617461.htm)
+ > 如今，随着技术发展的日新月异、产业变革的不断深入，5G也正成为政府聚焦的又一对象。行业发展离不开国家政
+ ## [和6岁孩子的函数式编程对话](http://news.51cto.com/art/202005/617460.htm)
+ > 昨天，我正在读一篇关于函数式编程的学术论文，6岁的儿子朝我走过来，问道：“你在看什么呢?”我不知道从哪
+ ## [大数据分析：学习工具Hadoop，基本安装指导](http://bigdata.51cto.com/art/202005/617458.htm)
+ > Hadoop版本主要分为原生Apache Hadoop版和Hadoop商业发行版两种，而其中商业发行版Hadoop多为原生Apache Ha
+ ## [请注意：又有黑客宣布可以破解每部iPhone了](http://netsecurity.51cto.com/art/202005/617457.htm)
+ > 一个著名的iPhone黑客团队发布了一个新的 &quot;越狱 &quot;工具，据称可以解锁每一部iPhone，包括运行最新的iOS 13.5
+ ## [大学生发明扎钢筋机器人，一小时扎600个，建筑工人又要失业了？](http://news.51cto.com/art/202005/617464.htm)
+ > 因为人工智能的发展，一些纯靠手工的工人已经逐渐面临失业了，像现在的工厂里面，很多流水线上都已经由人
+ ## [为什么 strace 在 Docker 中不起作用？](http://developer.51cto.com/art/202005/617456.htm)
+ > 在编辑“容器如何工作”爱好者杂志的能力页面时，我想试着解释一下为什么 strace 在 Docker 容器中无法工作
+ ## [区块链：智慧城市的权力下放](http://blockchain.51cto.com/art/202005/617455.htm)
+ > 对于城市管理领域，区块链这项技术拥有巨大变革潜力。为了释放这种潜力，城市管理部门等公共机构必须要发掘
  ## [63个Linux基础自测题,超过10个不会的,劝你还是别玩Linux了](https://blog.csdn.net/qq_17623363/article/details/106296357)
  > 
+ ## [记录下入职中软一个月（外包华为）](https://blog.csdn.net/progammer10086/article/details/105043034)
+ > 记录下入职中软一个月（外包华为）
+ ## [你的圈子，已经暴露了你的阶层](https://blog.csdn.net/why_1639946449/article/details/106267583)
+ > 你的圈子，已经暴露了你的阶层
+ ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
+ > 当HR压你价，说你只值7K，你该怎么回答？
  ## [Linux系统命令 - 查看内存使用情况](https://blog.csdn.net/renfufei/article/details/105851728)
  > Linux系统命令 - 查看内存使用情况
- ## [大厂试官整理的JVM面试要点，99%的你都不知道！](https://edu.csdn.net/huiyiCourse/detail/1268)
- > 大厂试官整理的JVM面试要点，99%的你都不知道！
  ## [你打算用Java 8一辈子都不打算升级到Java 14，真香](https://blog.csdn.net/qing_gee/article/details/105111606)
  > 
+ ## [37岁程序员裸辞，120天被497家公司拒绝，网友：为自己的冲动买单](https://blog.csdn.net/Qzkf_Lb/article/details/106264420)
+ > 37岁程序员裸辞，120天被497家公司拒绝，网友：为自己的冲动买单
+ ## [石锤！今年Python要过苦日子了？ 程序员：我疯了！](https://blog.csdn.net/CSDNedu/article/details/106257671)
+ > 石锤！今年Python要过苦日子了？ 程序员：我疯了！
+ ## [基于Java的群聊系统](https://blog.csdn.net/a770198892/article/details/105893207)
+ > 基于Java的群聊系统
+ ## [面试了个30岁的程序员，让我莫名其妙的开始慌了](https://blog.csdn.net/weixin_45850766/article/details/106083436)
+ > 
+ ## [利用python绘制多种地图，附源码](https://blog.csdn.net/wsad861512140/article/details/106296038)
+ > 
+ ## [python入门，一篇搞定](https://blog.csdn.net/Zesheng_Wang/article/details/106106499)
+ > 
+ ## [为了面个好公司！拼了！3.5W字的Java面试题整理（答案+学习路线）上！](https://blog.csdn.net/qq_41770757/article/details/106280524)
+ > 
+ ## [6年开发经验女程序员，面试京东Java岗要求薪资28K](https://blog.csdn.net/JavaBye/article/details/105160276)
+ > 6年开发经验女程序员，面试京东Java岗要求薪资28K
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
- ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
- > 
- ## [在拼多多上班，是一种什么样的体验？我心态崩了呀！](https://blog.csdn.net/eson_15/article/details/105539326)
- > 
- ## [老码农吐血建议：2020年，低于1w的程序员要注意了...](https://blog.csdn.net/CSDNedu/article/details/106258045)
- > 老码农吐血建议：2020年，低于1w的程序员要注意了...
- ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
- > 太狠了，疫情期间面试，一个问题砍了我5000！
- ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
- > 爬虫（101）爬点重口味的
- ## [【C++】C++11统一初始化（initializer_list<T>源码分析）](https://blog.csdn.net/qq_38410730/article/details/105314766)
- > 
- ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
- > 如果你是老板，你会不会踢了这样的员工？
- ## [【相亲】95年高颜值妹子，喜欢上进的男生](https://blog.csdn.net/qq_35190492/article/details/105917014)
- > 【相亲】95年高颜值妹子，喜欢上进的男生
- ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
- > 在中国程序员是青春饭吗？
- ## [离职半年了，老东家又发 offer，回不回？](https://blog.csdn.net/u012702547/article/details/104961130)
- > 离职半年了，老东家又发 offer，回不回？
 # 人工智能 
- ## [在VMWare虚拟机上安装CentOS 7](https://blog.csdn.net/Lance_welcome/article/details/106321163)
- > 
- ## [这条命令帮我在一分钟内修改了200台远程服务器密码！](https://blog.csdn.net/qq_39390545/article/details/106319221)
- > 
- ## [Redhat6.5DHCP配置笔记](https://blog.csdn.net/madboy324/article/details/106326571)
- > Redhat6.5DHCP配置笔记
- ## [LNMP原理及分离部署的实现](https://blog.csdn.net/weixin_43557605/article/details/106325329)
- > LNMP原理及分离部署的实现
- ## [Linux安装、配置、使用](https://blog.csdn.net/JY631591678/article/details/106302447)
- > 
- ## [VRRP+MSTP=二层和三层的冗余](https://blog.csdn.net/Yang__Qi/article/details/106268538)
- > 
- ## [超级详细的Nginx安装运行说明](https://blog.csdn.net/qq_37409505/article/details/106281895)
- > 超级详细的Nginx安装运行说明
- ## [Ngnix使用详解](https://blog.csdn.net/zhaoliwen/article/details/106311149)
- > Ngnix使用详解
- ## [Linux内核编译及引导详解](https://blog.csdn.net/NIUNIUDEDALAO/article/details/106326230)
- > Linux内核编译及引导详解
- ## [63个Linux基础自测题,超过10个不会的,劝你还是别玩Linux了](https://blog.csdn.net/qq_17623363/article/details/106296357)
- > 
- ## [写给“大忙人”收藏的Linux常用命令教程](https://blog.csdn.net/qq_37688023/article/details/106315235)
- > 
- ## [使用单臂路由，静态、默认路由实现不同vlan之间互通（课堂作业修改版本）](https://blog.csdn.net/Ora_G/article/details/106317959)
- > 使用单臂路由，静态、默认路由实现不同vlan之间互通（课堂作业修改版本）
- ## [OSPF综合实验（二）](https://blog.csdn.net/qq_45668124/article/details/106339514)
- > OSPF综合实验（二）
- ## [联想拯救者 R7000 Ubuntu 16.04 安装踩坑教程](https://blog.csdn.net/xyt723916/article/details/106317594)
- > 
- ## [Linux 终端下记不住命令的使用方法？这个开源项目帮你解决。](https://blog.csdn.net/jake_tian/article/details/106316428)
- > 
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 # PM 
- ## [这些学习的基本逻辑，在线教育从业者要了解](http://www.woshipm.com/it/3912491.html)
- > 学习是一件非常复杂的事，身为在线教育的产品经理，所需要关注的不仅是后台的逻辑，而应该关注学习本身。学习是件很有意思的事。当我们讲到学习时，经常想到的是一个...
- ## [基于福格行为模型，解析在线教育邀请有礼活动](http://www.woshipm.com/operate/3907077.html)
- > 福格行为模型对用户行为的产生原因和基础心理展开分析，是一个用来探寻用户行为的很好途径。本文作者以福格行为模型为基础，对在线教育的邀请有礼活动展开了分析拆解，...
- ## [如何提高自己逻辑分析能力？](http://www.woshipm.com/zhichang/3911508.html)
- > 你为自己不具备逻辑分析能力所困扰吗？你经常花费很多时间却讲不清楚一件小事而备受质疑吗？你不知道怎么有效的向你的领导阐述问题吗？希望这篇文章能帮助你解决难题。...
- ## [商业杂谈：从流量的视角去看直播的逻辑](http://www.woshipm.com/it/3908552.html)
- > 要理解互联网的商业、风口、热点现象，就必须要深入的理解”流量“这个概念。本文从流量的视角，去看看直播背后的逻辑。要理解互联网的商业、风口、热点现象，就必须要...
- ## [B端产品设计：系统命名需要注意这几点](http://www.woshipm.com/pd/3899706.html)
- > 在B端产品设计中，系统内不同部件的命名也是很重要的一个环节，随便取的名字可能会加大实施难度和操作错误。本文作者从自身经验出发，分享了系统命名需要注意的几个问题...
- ## [规模化盈利遥遥无期，鲜花电商还有突围的机会吗？](http://www.woshipm.com/it/3912357.html)
- > 虽然鲜花电商面临诸多痛点，但这个市场还是有一定的前景可言，那么之后鲜花电商如何发展突围？前几天，有个朋友在朋友圈抱怨，说自己在微信某优选平台依靠“限时秒杀”...
- ## [在互联网团队中，数据驱动和自动化的意义是什么？](http://www.woshipm.com/pmd/3898394.html)
- > 文章分别对产品总监的两个能力：商业发现和高效表达展开了分析，最后结合案例详细阐述了数据驱动和自动化对互联网团队的意义，与大家分享。阿里国际业务AliExpress的C...
- ## [倒推手机淘宝App需求文档PRD](http://www.woshipm.com/evaluating/3873037.html)
- > 本文根据淘宝app的底导航中五个主要模块以及从浏览商品到订单提交做了一个需求分析文档。包括：文档综述、需求整理、需求结构、全局说明、主要功能说明。手机淘宝作为...
- ## [公开课 | 大厂offer收割机是怎样炼成的？阿里、字节、360为什么都要他？](http://www.woshipm.com/open/3918152.html)
- > 很多人都说，找第一份工作就像第二次高考，因为之后的每一次跳槽都需要考察过往的工作经历。第一份工作的好坏，决定了跳板的高低。因此，大厂就像公司中的985、211，是...
- ## [2020的UI设计趋势，我先收藏了（上）](http://www.woshipm.com/pd/3911595.html)
- > 设计总是在变化，在过去一年里，我们不仅看见了五福的C4D运用，双11的动效插画运用，以及大量AR/VR智能的设计，还有苹果黑暗模式的普及，新技术带来新的体验和解决方案...
- ## [移动营销时代的“动态矩阵”：媒体、创意、活动](http://www.woshipm.com/marketing/3910785.html)
- > 全链路营销是一条单链，解决顾此失彼的问题最好的办法是让一条条单链组成一个类似于“巴克球”的矩阵，但这个矩阵并不是一成不变的，而是一个动态的矩阵。这个动态矩阵是...
+ ## [以keep为例，如何完成增长实验设计与报告撰写？](http://www.woshipm.com/pd/3801953.html)
+ > 完美的增长实验从来不是灵光乍现，一蹴而就，它背后往往有着合理的方法论和可落地的实验设计步骤，以严谨科学的姿态，检验一次增长的可能。聪明的增长人，在一个闪着...
+ ## [如何创作出一条品牌传播的超级口号？](http://www.woshipm.com/marketing/3917628.html)
+ > 超级口号是用最少文字传递最多讯息，让对方产生某些行动，从而树立企业品牌形象，帮助企业打响名声。那么如何打造出一条品牌传播的超级口号？本文介绍了六条核心评判标...
+ ## [解析产业互联网的基本架构（工业篇）](http://www.woshipm.com/pmd/3914996.html)
+ > 本文作者从版本迭代、生态圈和存在问题几个方面对工业互联网的基本架构做了一个简单的分析。“工业互联网”的概念最早于2012年由通用电气提出，在这个互联网时代，光靠...
+ ## [商业保理：到底是个啥？](http://www.woshipm.com/pd/3909907.html)
+ > “商业保理”究竟是什么？本文分析了“商业保理”的概念、服务类型、分类、业务流程，与大家分享！商业保理一词，对于非金融行业的小伙伴貌似有些陌生，我初次听到这个概...
+ ## [拼多多为什么没有「购物车」？](http://www.woshipm.com/pd/3916042.html)
+ > 本文从用户和业务角度分析了拼多多为什么没有购物车，并得出一个结论：拼多多已经把“购物车”功能合并到“收藏”功能里了。“拼多多为什么没有购物车？”这是某大厂的一道...
+ ## [5个阶段，解析SaaS产品商业化生意该怎么做？](http://www.woshipm.com/operate/3908126.html)
+ > SaaS商业化是个窄门生意，该怎么做？文章从SaaS产品的发展前景出发，把SaaS产品商业化分为5个阶段并分别展开了梳理分析，与大家分享。“你们要进窄门。因为引到灭亡，...
+ ## [从广告策划转型到电商营销策划，应该怎么做？](http://www.woshipm.com/marketing/3912589.html)
+ > 现在以天猫为首的电商平台在营销上已经不满足于曾经拉人砍价/拼团的促销玩法了；而是需要越来越多、越来越创新的品牌站外那套social（社会化营销）digital（数字化营销...
+ ## [掌上生活APP：积分模块设计分析](http://www.woshipm.com/pd/3903321.html)
+ > 本文对掌上生活APP积分体系展开了分析，聊聊构建一个完善的积分设计模块，需要注意哪些点。2018年10月10日起，招商银行推出“统一积分计划”，开立统一的积分账户，原招...
+ ## [疫情地图，是什么，又如何做？](http://www.woshipm.com/pd/3913345.html)
+ > 疫情期间，众多互联网医疗健康企业和新闻巨头推出疫情地图实时播报，即时汇总疫情疾病数据，为用户传递疫情一线信息。那疫情地图实时播报的产品定位是什么？又如何做？...
+ ## [美团点评Q1财重回亏损，更惨的是商户、用户都在逃离](http://www.chanpin100.com/article/111732)
+ > 2年过去了，Food+Platform大战略仍是个“空壳”，美团只有Food没有+。
+ ## [你的APP是如何实现用户邀请关系绑定的呢？](http://www.chanpin100.com/article/111730)
+ > 邀请机制是互联网产品推广时期非常重要且必不可少的一种推广模式，现在大多数APP都有这种邀请新用户获取奖励的机制，在现有的邀请模式下，是如何绑定用户邀请关系的呢？
+ ## [职场人的进阶：一周一会如此汇报工作](http://www.chanpin100.com/article/111729)
+ > 在实际的汇报中，首先你要知道这次会议的主题，比如一个正在进行的项目，那么本次会议的目的无外乎项目的进度，项目中的问题，项目的节点为主。那么你要考虑如何让领导直观地了解到项目进行情况，并且对你留下深刻的印象，这也很简单。
+ ## [自动化营销如何颠覆传统模式，推进电商APP用户转化](http://www.chanpin100.com/article/111728)
+ > 在数据化运营时代下，电商营销究竟该怎么做才能实现传播和销量的双向回报？自动化营销无疑是最优的选择。
+ ## [产品经理如何与研发工程师相处？--JulieZhuo](http://www.chanpin100.com/article/111727)
+ > 一篇文章教会你与研发相处的方式
+ ## [在原型设计时，这样描述需求才能准确的传达给设计师！](http://www.chanpin100.com/article/111723)
+ > 简要：揭开设计师，产品经理，客户和利益相关者如何更快地设计可交付成果的神秘面纱。
+ ## [如何突破长效增长困局？用户运营才是新零售王者之道！](http://www.chanpin100.com/article/111722)
+ > 未来的主力消费群体一定非常渴望在生活中获得便利且新鲜的体验，对于新零售行业来说，缺少的不是概念，而是真正可以落地的能力。
+ ## [如何使用微交互动画提升用户体验？](http://www.chanpin100.com/article/111721)
+ > 微交互动画的合理运用，可以为产品设计锦上添花，更好地提升用户的使用体验。
+ ## [为什么曹操能成为管理团队的高手](http://www.chanpin100.com/article/111720)
+ > 1、知人善任知道哪些人是人才；知道这些人是那方面的人才；知道该把这样的人才放在什么位置上；2、为才是用，不拘小节用人用的是他的优点和长处，不可以总是盯着人家的小毛病不放，当然，对于原则性的问题还是需要恪守底线的，不能够姑息。
+ ## [TikTok突然爆发的Step-chickens到底是啥鸡？奇怪的在线崇拜席卷了TikTok？](http://www.chanpin100.com/article/111717)
+ > Step-chickens火了，可是你还不知道是什么？
+ ## [外卖在手，天下我有|2020互联网餐饮外卖市场年度分析](http://www.chanpin100.com/article/111716)
+ > 简介：2019年，随着行业的愈发成熟，互联网餐饮外卖行业交易规模保持稳定增长。此外，互联网餐饮外卖市场订单量以及客单价继续维持上涨。各平台玩家年度重点动向集中于业务拓展以及商户赋能之上。
+ ## [用户“反复横跳”，行业内互相抱紧渗透|2020年最新网赚游戏类APP榜单](http://www.chanpin100.com/article/111715)
+ > 简介：网赚游戏是指以广告和裂变为核心获客手段，在游戏内容的基础上为玩家提供以获得现金或实物奖励为主要目的的任务机制，以广告变现为主要收入来源的产品。
+ ## [行业差异对系统设计影响大吗？这个观点有点不一样](http://www.chanpin100.com/article/111714)
+ > 对“会做”影响不大，对“做好”影响很大。
+ ## [这几个无成本活动套路，你不得不知！](http://www.chanpin100.com/article/111712)
+ > 三个0成本活动成功打造爆款活动
+ ## [如何搭建一套业务、数据一体化的数据指标体系](http://www.chanpin100.com/article/111711)
+ > OSM模型 + UJM模型 + 场景化等 6000 字深度解析
  ## [需求挖掘：老司机教你如何获取需求？​](http://www.chanpin100.com/article/111710)
  > 本篇文章主要探讨的是需求挖掘的定义及目的，并介绍了需求挖掘时时用到的一些方法，包括用户访谈、问卷调研、业务分析、运营分析、竞品分析、用户反馈、上下游开放平台、关键词搜索、文献及行业研究报告、观察用户使用过程、头脑风暴、自身的产品感等，每种方式都简单阐述基本的用法和实施时要注意的点。
  ## [以抖音和陆金服为例，解构数据分析三个核心原理](http://www.chanpin100.com/article/111709)
@@ -247,13 +289,5 @@ categories: IT NEWS
  > 怎么通过抖音提升品牌知名度，如何提升在抖音上的知名度
  ## [写给粉丝们的一封感谢信和邀约函](http://www.chanpin100.com/article/111706)
  > 亲们，谢谢一直以来的陪伴与呵护~
- ## [同样都是收费为啥丰巢热爆、蓝湖平静](http://www.chanpin100.com/article/111705)
- > 同样都是收费，为何面向大众的丰巢引发一波热潮，而面向专业设计师的蓝湖却没有什么大的波折。关于收费的一些市场情况和产品思考。
- ## [万字长文|《俞军产品方法论》是“道”，而非“术”](http://www.chanpin100.com/article/111718)
- > 也许是产品经理的一次自我境界升华...
- ## [信息孤岛时代，与用户共频这件事更重要了](http://www.chanpin100.com/article/111719)
- > 移动互联网时代企业想和用户实现有效沟通，并不是一件简单的事。
- ## [对《问卷调研》的一些思考](http://www.chanpin100.com/article/111713)
- > 做好问卷调研你需要绕过的一些坑。
 
     
