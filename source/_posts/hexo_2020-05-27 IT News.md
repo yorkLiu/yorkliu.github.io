@@ -1,20 +1,24 @@
 ---
 title: 2020-05-27 IT News
 copyright: true
-date: 2020-05-27 08:00:54
+date: 2020-05-27 09:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为机器视觉连发16项新品，开辟千亿安防新战场](http://mp.weixin.qq.com/s?src=11&timestamp=1590535805&ver=2363&signature=kJuWRtb5e2karp77b-Swi4G8emwTVlCwm7LZ-CK2F4sw2xSpSorJ03y4cXOcQSENXZGgi6GQOgzMqsvG4*u*byA7eq5H3xOLObOiDH9EfLqkxp2mZSrtTVmfjGXuIKlI&new=1)
- > 看点：华为与安防巨头们将要短兵相接！连发16款新品发力千行百业AI化新基建。智东西5月25日报道，华为机器视觉今天一口气推出了六款HoloSens摄像机等新品及十大应用方案。这家颠覆智能安防玩法的科技巨头手下“...
- ## [最新调研：中国移动5G医疗独占鳌头，48%医院选5G+专线，且按年付费不限流量](http://mp.weixin.qq.com/s?src=11&timestamp=1590535805&ver=2363&signature=e-XOBVPTRXkLWxKRSoLZya75VfX8JYjKfQefDn9JUzYDiOwXZjUTW9XCdujPUAWcpXgKJ*KLRmq2MDMHcHBgssrSX0gWweMLpPSCw50w6GiAZYaTVCgIbSKplKkuptu8&new=1)
+ ## [最新调研：中国移动5G医疗独占鳌头，48%医院选5G+专线，且按年付费不限流量](http://mp.weixin.qq.com/s?src=11&timestamp=1590539418&ver=2363&signature=e-XOBVPTRXkLWxKRSoLZya75VfX8JYjKfQefDn9JUzYDiOwXZjUTW9XCdujPUAWcl7*kGmRy15Sr3JuKdzzaV1b25UJJh9ZmyxKcOJL*WzE1kpGyjEP5JeQMkL53t0-y&new=1)
  > 2019年被称之为5G元年，5G建设的大幕正式开启，随着COVID19突袭和新基建的出台，5G+医疗一度成为行业的热点，网络上出现了超过数百万条5G+医疗的新闻。从定性的角度看，新技术的应用可以促进行业效率、体验的提...
- ## [Qualcomm联合全球十五家运营商共同打造XR Viewer产品](http://mp.weixin.qq.com/s?src=11&timestamp=1590535805&ver=2363&signature=8rBx-r4MNqNjUPgGHYAiPkdBnLMoFUPG65fayWcxv3ziT5W8o5CeqG*PfuE8ojSvM09Uaa-hQSKQjJKlkA2GKF02scQOOpBvHMtigzuL74p1YKCMl4j-eqQayfX-1lDx&new=1)
+ ## [华为机器视觉连发16项新品，开辟千亿安防新战场](http://mp.weixin.qq.com/s?src=11&timestamp=1590539418&ver=2363&signature=kJuWRtb5e2karp77b-Swi4G8emwTVlCwm7LZ-CK2F4sw2xSpSorJ03y4cXOcQSEN5Kvqte9DJo2YVDQWrFbMldiIBZjokcP93BkxKba4Z3ABxZDPB4WOkr*yeMpecJKW&new=1)
+ > 看点：华为与安防巨头们将要短兵相接！连发16款新品发力千行百业AI化新基建。智东西5月25日报道，华为机器视觉今天一口气推出了六款HoloSens摄像机等新品及十大应用方案。这家颠覆智能安防玩法的科技巨头手下“...
+ ## [Qualcomm联合全球十五家运营商共同打造XR Viewer产品](http://mp.weixin.qq.com/s?src=11&timestamp=1590539418&ver=2363&signature=8rBx-r4MNqNjUPgGHYAiPkdBnLMoFUPG65fayWcxv3ziT5W8o5CeqG*PfuE8ojSv9JQGZS3wSthhtxO3ettUr3BxlM5xs5W3iHLWnUB8kFyj*auNOK*0HupZAl68oZ9g&new=1)
  > Qualcomm要闻—全球领先的运营商计划于明年内，将XR作为其面向消费者和企业级用户提供的5G服务的一部分。— 2020年5月26日，圣迭戈 —Qualcomm今日在增强现实世界博览会（AWE）上宣布将携手全球运营商、智能手机...
- ## [为华为打造无美系设备的产线，台积电三星能做到吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1590535805&ver=2363&signature=DofjFlAmHxDUGsB10TAoppzjLj2QRAi764SXJVjUJvl0W3X1DsHfFklxc8X*koyy1K9HyAnIJ*1SI2VmtD-CXTV9nRSnmeXKN-HK6xnx0zGV0YNZ063gVt3MjZzJGyox&new=1)
+ ## [为华为打造无美系设备的产线，台积电三星能做到吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1590539418&ver=2363&signature=DofjFlAmHxDUGsB10TAoppzjLj2QRAi764SXJVjUJvl0W3X1DsHfFklxc8X*koyyeg0hE8bI*L7pcyjzVrnFRrZYjZ6OU*Q0JAmSrktAXjg*8wIKvJbXFYfIto0Nmk5O&new=1)
  > 据台湾经济日报报道，华为为了规避美国新升级的出口管制措施对其自研芯片的制造的限制，正试图说服台积电和三星，为其打造基于非美系设备的先进制程生产线，即其中没有美系半导体设备，这样华为的自研芯片就能够...
 # IT 技术 
+ ## [六大比较流行的计算机编程语言及其创始人的逸闻趣事](http://news.51cto.com/art/202005/617356.htm)
+ > 六大比较流行的计算机编程语言及其创始人的逸闻趣事
+ ## [2020年，全球数字化转型的十大趋势预测](http://www.cioage.com/art/202005/617317.htm)
+ > 2020年，全球数字化转型的十大趋势预测
  ## [云3.0的三大挑战](http://cloud.51cto.com/art/202005/617475.htm)
  > 云3.0的三大挑战
  ## [数据中心已死的说法夸大其辞了](http://network.51cto.com/art/202005/617474.htm)
@@ -27,10 +31,8 @@ categories: IT NEWS
  > 面向Windows 10的4款轻量级浏览器
  ## [用于开发IoT项目的9个优秀开源物联网平台](http://iot.51cto.com/art/202005/617257.htm)
  > 用于开发IoT项目的9个优秀开源物联网平台
- ## [用了这么多年的 Java 泛型，你对它到底有多了解？](http://news.51cto.com/art/202005/617208.htm)
- > 用了这么多年的 Java 泛型，你对它到底有多了解？
- ## [用费曼技巧自学编程，香不香？](http://zhuanlan.51cto.com/art/202005/617290.htm)
- > 用费曼技巧自学编程，香不香？
+ ## [聊聊Mybatis系列之Mapper接口](http://developer.51cto.com/art/202005/617493.htm)
+ > 了解一个类，首先看下成员变量和构造方法。这里 config 不用多说了吧，主要的是 knownMappers 这个成员变量
  ## [携号转网怎么突然悄无声息了？是否应该取消这项业务？](http://network.51cto.com/art/202005/617491.htm)
  > 为什么曾经喧闹一时的&quot;大事&quot;才过了半年不到的时间就已经偃旗息鼓、无声无息的呢?
  ## [63个Linux基础自测题,超过10个不会的,劝你还是别玩Linux了](https://blog.csdn.net/qq_17623363/article/details/106296357)
@@ -47,8 +49,8 @@ categories: IT NEWS
  > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
- ## [石锤！今年Python要过苦日子了？ 程序员：我疯了！](https://blog.csdn.net/CSDNedu/article/details/106257671)
- > 石锤！今年Python要过苦日子了？ 程序员：我疯了！
+ ## [老码农吐血建议：2020年，低于1w的程序员要注意了...](https://blog.csdn.net/CSDNedu/article/details/106258045)
+ > 老码农吐血建议：2020年，低于1w的程序员要注意了...
  ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
  > 太狠了，疫情期间面试，一个问题砍了我5000！
  ## [人生如水，由溪入海（写给即将毕业的大学生）](https://blog.csdn.net/qq_35190492/article/details/106321341)
@@ -64,37 +66,39 @@ categories: IT NEWS
  ## [如果你是老板，你会不会踢了这样的员工？](https://blog.csdn.net/shenjian58/article/details/104832140)
  > 如果你是老板，你会不会踢了这样的员工？
 # 人工智能 
- ## [微服务应用开发绪论-目录](https://blog.csdn.net/Zzhou1990/article/details/106326899)
- > 微服务应用开发绪论-目录
- ## [用 Python 把你的朋友变成表情包](https://blog.csdn.net/qq_36758914/article/details/106303928)
- > 
- ## [BAT大厂面试精选的62道高频面试题「笔试+算法+代码+逻辑题等」](https://blog.csdn.net/m0_46945278/article/details/106319258)
- > BAT大厂面试精选的62道高频面试题「笔试+算法+代码+逻辑题等」
- ## [游戏建模：想要做好人物角色模型，先了解人体的构造](https://blog.csdn.net/dashujujiagoushi/article/details/106326427)
- > 游戏建模：想要做好人物角色模型，先了解人体的构造
- ## [王者荣耀里面的原画和模型差距居然那么大！](https://blog.csdn.net/shooopw/article/details/106313815)
- > 王者荣耀里面的原画和模型差距居然那么大！
- ## [让深度学习歇一会吧](https://blog.csdn.net/FYZDMMCpp/article/details/106324621)
- > 让深度学习歇一会吧
- ## [大数据导论复习笔记](https://blog.csdn.net/weixin_43608722/article/details/106316387)
- > 
- ## [ML入门4.0 手写逻辑斯蒂回归 （Logistic Regression）](https://blog.csdn.net/weixin_39956363/article/details/106330041)
- > 
- ## [小学生都在学python，这项技能你还没get？](https://blog.csdn.net/blogdevteam/article/details/106273938)
- > 小学生都在学python，这项技能你还没get？
- ## [多元线性回归模型的完整解释、假设检验、特征选择](https://blog.csdn.net/m0_46510245/article/details/106313135)
- > 
- ## [CSDN【精品专栏】 第二期](https://blog.csdn.net/weixin_47064102/article/details/106331500)
- > 
- ## [OpenCV开发笔记（五十九）：红胖子8分钟带你深入了解分水岭算法（图文并茂+浅显易懂+程序源码）](https://blog.csdn.net/qq21497936/article/details/106258388)
- > 
- ## [我为什么要写博客](https://blog.csdn.net/swy_swy_swy/article/details/106260028)
- > 我为什么要写博客
- ## [【opencv4.3.0教程】08之图像掩膜（Mask）操作与执行时间](https://blog.csdn.net/shuiyixin/article/details/106246335)
- > 
- ## [今天，国外AI大厂破产，中国AI企业获18亿元融资！评论区炸了](https://blog.csdn.net/CSDNedu/article/details/106328794)
- > 今天，国外AI大厂破产，中国AI企业获18亿元融资！评论区炸了
+ ## [老猿学5G扫盲贴：与用户和终端相关的名词UE、SUPI、GPSI、PEI](https://blog.csdn.net/LaoYuanPython/article/details/106312143)
+ > 老猿学5G扫盲贴：与用户和终端相关的名词UE、SUPI、GPSI、PEI
+ ## [人工智能与大数据时代-2020](https://blog.csdn.net/anchker/article/details/105008607)
+ > 人工智能与大数据时代-2020
+ ## [5G模组 | 搭载广和通5G模组的奥维视讯警用无人机视频通讯系统正式商用](https://blog.csdn.net/FibocomWireless/article/details/106313033)
+ > 5G模组 | 搭载广和通5G模组的奥维视讯警用无人机视频通讯系统正式商用
+ ## [云服务迎来最好时代2020 yuannian:阿里云400亿，腾讯云170亿](https://blog.csdn.net/starzhou/article/details/106316724)
+ > 云服务迎来最好时代2020 yuannian:阿里云400亿，腾讯云170亿
+ ## [《UnityAPI.ParticleSystem粒子系统》（Yanlz+Unity+SteamVR+云技术+5G+AI+VR云游戏+Particle+loop+Emit+立钻哥哥++OK++）](https://blog.csdn.net/VRunSoftYanlz/article/details/106341995)
+ > 《UnityAPI.ParticleSystem粒子系统》（Yanlz+Unity+SteamVR+云技术+5G+AI+VR云游戏+Particle+loop+Emit+立钻哥哥++OK++）
+ ## [5G协议与信令](https://blog.csdn.net/fanjufei123456/article/details/106296553)
+ > 5G协议与信令
+ ## [1.1 （Cat.1模组）M601的资源介绍](https://blog.csdn.net/w_hizyf_m/article/details/106332344)
+ > 1.1 （Cat.1模组）M601的资源介绍
+ ## [python for 循环CPU满载](https://blog.csdn.net/weixin_45403025/article/details/106328391)
+ > python for 循环CPU满载
+ ## [链环科技——前浪引领 后浪汹涌](https://blog.csdn.net/qq18723817197/article/details/106330478)
+ > 链环科技——前浪引领 后浪汹涌
+ ## [全面了解APON,BPON,EPON,GPON](https://blog.csdn.net/hycsystembella/article/details/106327653)
+ > 全面了解APON,BPON,EPON,GPON
+ ## [5G学习笔记之名词解析](https://blog.csdn.net/u012800825/article/details/105580509)
+ > 5G学习笔记之名词解析
+ ## [中国自主视频生态技术](https://blog.csdn.net/weixin_46437478/article/details/106333737)
+ > 中国自主视频生态技术
+ ## [5G你在期盼吗](https://blog.csdn.net/th_gsb/article/details/106331392)
+ > 5G你在期盼吗
+ ## [计算机网络第一章答案](https://blog.csdn.net/weixin_45080653/article/details/106326100)
+ > 计算机网络第一章答案
+ ## [5G 技术与4G对比](https://blog.csdn.net/JustinLee2015/article/details/106333642)
+ > 5G 技术与4G对比
 # PM 
+ ## [公开课｜小程序产品设计入门：产品人必知的N个小程序特性](http://www.woshipm.com/open/3923770.html)
+ > 如果你是关注行业趋势的产品经理，那你一定不难察觉：自2017年微信宣布发布小程序产品以来，微信一直在加大对小程序的投入。随后，包括支付宝、百度在内的公司也都推...
  ## [美团点评Q1财重回亏损，更惨的是商户、用户都在逃离](http://www.chanpin100.com/article/111732)
  > 2年过去了，Food+Platform大战略仍是个“空壳”，美团只有Food没有+。
  ## [你的APP是如何实现用户邀请关系绑定的呢？](http://www.chanpin100.com/article/111730)
