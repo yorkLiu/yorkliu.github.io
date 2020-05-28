@@ -1,7 +1,7 @@
 ---
 title: 2020-05-28 IT News
 copyright: true
-date: 2020-05-28 12:01:19
+date: 2020-05-28 17:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -87,32 +87,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [重磅!终于要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=L56B545184L4XRbV0FP8zR2sPzsqC6sBWJlV0aQh7p*XehXJoluH2ylEM6V*Jagx2RiSdreJmEXOSYMO9pu0RPA2lEvXDjA2ndtQ3iBkPCqMpEF4cvl9vxsMxRw6Q7EG&new=1)
- > 你是不是经常遇到？↓↓↓一天到晚收到售楼、保险、贷款等各种骚扰电话。下载一个App被强制要求获取相机、定位等权限……个人信息更是不知何时何地被泄露！振奋人心的是，5月25日 十三届全国人大三次会议第二次...
- ## [生产级高速柔性材料3D打印机来了，INTAMSYS推新品FLEX 510](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=EZJQGZRDP-MnjeRLCwcg5B2g07lO2O-nDfe0yrl8Bi1BkAc-OoSyuLZf8ieUS-GXDvumZb4yXOv4vbml1Pr1Kwbg5bkH-UOIZ-XeraupkPdQotwjktgiPHEj2Pj9HZMa&new=1)
- > 南极熊导读：中国上海有这么一家3D打印公司，他们专注于工业应用领域，已经逐渐成长为基于FDM技术的高性能3D打印机领域的领先厂商！聚焦体育用品、医疗康复器具、工装夹具等行业生产应用，远铸智能INTAMSYS发布...
- ## [SpaceX 今日载人龙飞船发射取消；iOS 14 细节曝光，很像安卓；孟晚舟被裁定「双重犯罪」，华为：很失望|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=u71M8hcT07rnrzfc31nu6anq3m8Yuvh2S5nFVSMudaXexSsKhWiSrx6XnUtfP99TK2iU8ifPrZiRwWiB-J2PbagZcgSjTC2lx7PO6kheTNgQmUp4ZGOfABf5Syt5pGVs&new=1)
+ ## [解码杨国强两会提案3个关键词：机器人、农业和职业教育](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=tgG4V2rYgDjAJIycJR3ZWwNjs-QSbSAOjv6H9wcf3E9yCSjA5fyLgx99Y9EviZxQOOLSinjInZJgOBz86oiJJjifHy*aoszNyT5pTZwbZj3x6khArlLKsvcc0wNw08Mu&new=1)
+ > 出品|腾讯新闻X财看见以5G、工业互联网和人工智能为核心的“新基建”成为两会关注的热点。专家预测，未来5-10年间，伴随各地积极推动扩大“新基建”有效投资，相关新型应用技术与各行业的融合发展将进一步深化，...
+ ## [全国人大代表朱立锋：工业互联网是加快制造业数字化转型的重要引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=imlzKQbPFTgHe4-*zqwr*VEB1EAuHs2Q6fZKHfxKZ7QWbxsnTOg1FDrcFfsh3iUipWtVQirDLD1IUftOs62u1fHT19ajwGIo8ZSwTPWZBOpcQud7Yhg8NU0PL-jWAdgX&new=1)
+ > 在全国人民的翘首期盼中，全国政协十三届三次会议、十三届全国人大三次会议分别于5月21日和22日在北京召开，全国两会代表委员积极建言献策。作为第十三届全国人大代表，中国电子总经理助理、中电互联党委书记、...
+ ## [2020云安会 大安防产业云端博览会公益展蓄势待发](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=lzvd77EENexw26bFClbA2ee8VzU-zML49GWGiZ0LHdrSjnYWX4Z2CyUKdb1huaCORUv1CL3qeAI--mk23NBW*VBsf6RMITp0SgwwNVBmbsnwS*j8wue142YkyIne5haw&new=1)
+ > 当疫情肆虐，全民在家隔离成为常态，人们的工作、生活、学习、娱乐一下子转移到网上时，全社会对数字技术服务的需求出现了井喷。从中央到地方，从政府到企业，从专家到媒体，纷纷对智慧安防、5G、人工智能、物联...
+ ## [你有方案，这儿有需求|数字化创新需求对接平台上!线!啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=9NS8htqoblFukolRfcJNdpT*72QrxvO0uwLeOYnEfVrhJdCQhbHyRJCqm0rAjMA-dhVrd8XE6Jp*pT749L4NJChjrGRqFgExlF-AxariVIE*cTkzmdcagZCLSRs*hdQu&new=1)
+ > （本文阅读时间：4 分钟）“世界上最远的距离，是我站在你面前，你不知道我有你要的方案。”2020上半年，行业峰会、线下沙龙、招投标会......曾经展示产品与方案，对接需求寻找伙伴的平台，真真实实的消失了100...
+ ## [在珠峰联通世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=nxl2LnKZVZvzhCqoYAQtnCDhyYE7fSqNksZcqtOO7ecz-NKac63aEtg2lmek69zGppNZwZFU36ce2IecmMXi4tDbSyvYDfdlDoIPiXVIYF9ud0G-JFHylRJ6ROHgKAJ3&new=1)
+ > 丈量高山，触摸苍穹。5月27日11时，2020珠峰高程测量登山队克服重重困难，成功从北坡登上珠穆朗玛峰峰顶，完成峰顶测量任务，再次向世界证明了中国实力。这次自然资源部2020珠峰高程测量新闻中心组织的登顶直播...
+ ## [华为OptiXstar千兆智能光猫助力珠峰登顶，刷新F5G光纤千兆新高度](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=4-q4nl67Uj1ukDaizIEd1e25jSzZ89Vbr*L0uNFOkrL4ZXjSkrkn*Zjcyn9p2HEBV66BYtF7yuxb0k4OAwiIEAal8ByCMIsk3ZP8sBHzmnglvjdCOMc5DE6dAldBKKfT&new=1)
+ > 5月27日11时，珠峰高程测量登山队正式登顶珠穆朗玛峰，并获得了“世界高度”的最新答案。央视全程对登顶和测量进行了现场视频直播，并通过5G和F5G光纤网络，将整个过程呈现在观众面前。2019年的电影《攀登者》，...
+ ## [一文读懂：手势控制背后的三种感应技术玄机](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=yJ5zUSKSQIMm*SAPZgSdvwfKf3tGIXjIwcCojkGWiwDQCIZkXC*txkVeV06oY-aQiIemOqjGGXLzvjCQgyCQDR2Ti8*DyocMN44vyVSL4DMLXwDTEm91*688XQAAGHJs&new=1)
+ > 触摸控制方式未来将逐渐取代物理按键，但是，我们也都知道触控并非是唯一被选择的交互方式。除了语音、手势这种现在日常生活中常见的方式外，眼球、意念控制等都曾出现在各式各样的概念产品上。今天的主角就是手...
+ ## [数据分析、人工智能和物联网将如何塑造疫情之后的“新常态”](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=*Pr8wWNJgC88V3UhD3LFB9WwWwC-joa3w99DWAXD4lGggooT81xvHskj3TZGwj*SdlrP317RYylycw8xcqhR0tUKWO50oFHfdvmxbrmJPbC8N*gMd6xawcu*saz1NGqz&new=1)
+ > 关键讯息，D1时间送达！冠状病毒疫情如今正在全球各地持续蔓延，为有效应对病毒，需要共享一些公共卫生信息资源。公共卫生基础设施可以通过采用人工智能、云计算、流媒体、物联网等新兴技术有效汇集、整理和处理...
+ ## [SpaceX 今日载人龙飞船发射取消；iOS 14 细节曝光，很像安卓；孟晚舟被裁定「双重犯罪」，华为：很失望|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=u71M8hcT07rnrzfc31nu6anq3m8Yuvh2S5nFVSMudaXnzUeFuvjWwgCewnw9MGHgiimKGnbIG5Xpg6j-5N61EWiJkpVzfTlcG*qCESJUdoVYYpfQzc55cD65n3BXgGNT&new=1)
  > SpaceX 和 NASA 今日载人龙飞船发射取消北京时间 5 月 27 日 4 点 21 分，SpaceX 载人龙飞船，最终因天气原因，错过发射最佳窗口期，未能如愿腾飞。根据原计划，NASA 准备使用 SpaceX 的猎鹰 9 号和载人龙
- ## [又双叒叕拔头筹，联通MEC边缘云“两会”大显身手](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=nJLv7-d3OejJS*1d3vyGitMCcItzw-g1nWmtWPmiCYUvZrLFKkND5XMNe0yCT*S7Gyt1XkJr-m1ajRkNEWCa22q7nbjQp5a9SEJbBOYn3uniEEm-ToAAM9kllAfePHW0&new=1)
+ ## [虚幻引擎5技术解析(2)虚拟纹理与几何图像](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=EMMXDXGzDQLO7uOZ2RUlp0HT8uHtHsbCjmwX7J-8nxHUZGUsxf3sSRz3IQ9JkK*dP3KQmm8NU2yU23uL0OR9ybcXuccw5qSmgE2ruNkjrJyaeMQFShkQRCOr7pSFTiwb&new=1)
+ > 和Epic Game公司的虚幻引擎5惊艳了全球游戏业，其Nanite虚拟微多边形几何技术和Lumen动态全局光照技术带来了产业界的飞跃。Nanite虚拟几何技术的出现意味着由数以亿计的多边形组成的影视级艺术作品可以被直接导...
+ ## [产业互联网蓄势待发“数字化”成关键词 物品编码将迎新一波发展机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=DsT7EW3pL8hzsNcYXvS40UUMrbkGc2X0rvGsncQsyvK0fkAIVngC3B-rrIfXpwi0Z-xt-jhjJY1a9OyhaD*7D5H1h8aW2v4FNnsGD3owiOs=&new=1)
+ > “疫情让我们更深刻地意识到，连接是社会经济增长的基础。新基建与产业互联网，就是要让每一个人和每个企业，以目前最低的成本和最高的效率来使用数据、算法与算力进行劳动创造，从而共享全球新一轮科技与产...
+ ## [重磅!终于要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=L56B545184L4XRbV0FP8zR2sPzsqC6sBWJlV0aQh7p8s2tote2DLfJIkFWNAtRNbzeusrfh9QroOCIsCR3eiDHvqKDuAmG3izZ*vppibTFd0F7Dy5Y4WGOC*n2cQZSO6&new=1)
+ > 你是不是经常遇到？↓↓↓一天到晚收到售楼、保险、贷款等各种骚扰电话。下载一个App被强制要求获取相机、定位等权限……个人信息更是不知何时何地被泄露！振奋人心的是，5月25日 十三届全国人大三次会议第二次...
+ ## [买bug送软件：四大最危险编程语言](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=l*Civb6Ae42j6EhFSRAtN9jQjMrpQx1dq9HxY8Of-QZK0eF*ZAsl4eyaejxDw-wkwpwSGmtnPYUnF3lNvd8ixn*lsBylSkp4HHugytyjm5a6QGo4tzTUz2Bg4mBxlnP-&new=1)
+ > 上周，第三方漏洞收购平台Zerodium宣布未来2-3月暂停收购iOS漏洞，因为短期内提交的iOS漏洞利用程序太多。这条新闻让很多安全人士感到诧异，毕竟，iOS的安全性曾经是苹果公司引以为傲的最大卖点之一，5年前iOS的...
+ ## [生产级高速柔性材料3D打印机来了，INTAMSYS推新品FLEX 510](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=EZJQGZRDP-MnjeRLCwcg5B2g07lO2O-nDfe0yrl8Bi38ZE8g6VkiLS1blIlRWfvYQlr1syaAAqU*4fzz7svtEok450-K9QGidljT3HxzDbXyU3QcuhseGTUUb2IfPMYw&new=1)
+ > 南极熊导读：中国上海有这么一家3D打印公司，他们专注于工业应用领域，已经逐渐成长为基于FDM技术的高性能3D打印机领域的领先厂商！聚焦体育用品、医疗康复器具、工装夹具等行业生产应用，远铸智能INTAMSYS发布...
+ ## [又双叒叕拔头筹，联通MEC边缘云“两会”大显身手](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=nJLv7-d3OejJS*1d3vyGitMCcItzw-g1nWmtWPmiCYXWOZIHdw1bWclKpN3JwRIr8vYp2ew0JONYYMzEHRB5PG8u8U6jF66XjIwdmq0N0-LOlx6KzlO4Pqr3nVJ67mbE&new=1)
  > 随着5G+新媒体的高速发展，4K/8K超高清视频、虚拟现实（VR）、增强现实（AR）、AI处理、实时渲染等业务场景都对传统大规模集中建设的云计算服务提出了新的挑战。MEC（Multi-access Edge Computing）边缘云在更靠
- ## [贵州“公交云卡”已推广到全国多地](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=p4H4fPTikpB1htbv4VzLl6t1V9t1kCde7VtpWBEq09w9Y93HPvu7RJmpkSuEXBhlnFOAYEqIfVsG6tgyxLot76M90ZLhAMIasJLr75YwN8U=&new=1)
+ ## [贵州“公交云卡”已推广到全国多地](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=p4H4fPTikpB1htbv4VzLl6t1V9t1kCde7VtpWBEq09y3p7NQpy1veN*HMACUwkLoFwn1yHCsmGsMKVJxgQ5IxgcZ1uLT-C69UcODMRlB004=&new=1)
  > 本报讯 5月27日下午，作为2020“数博发布”活动之一的贵州通智慧出行·公交云卡项目应用推广发布会举行。目前，贵州大数据项目“公交云卡”已推广到重庆、宁夏等国内多个省市区。　　此次发布的智能公交系...
- ## [\[科技早报7点整\]研究人员开发出“舔屏”设备 Facebook股东要求扎克伯格卸任董事长……](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=nh4faWLrRUXeBLIT9okmGMEsEsq45uqq6pO2nxs1WWgmUxl9i0JxMRmw5Gr*MXXiqCvDvl3UPCc82QiwgfdS3M6kltnUYdNXFlSfXO8iqJlvNczi7hhAe81kpStV*k7w&new=1)
+ ## [\[科技早报7点整\]研究人员开发出“舔屏”设备 Facebook股东要求扎克伯格卸任董事长……](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=nh4faWLrRUXeBLIT9okmGMEsEsq45uqq6pO2nxs1WWga2JDqHVjec0-DxWCJ7iicdxUYZWJ37J0Ux5*yEI-jD8Xot4Htg8eNQhgFGKNIe8Lr-zEOb5aCfN8AjQCPglpT&new=1)
  > 早上好，科技圈【一度蜜科技早报】第817期1.北京一季度共享单车考核，ofo被立案调查 5月27日，北京市交通委公示了北京市共享单车第一季度运营管理监督情况。截至2020年第一季度末，北京共有85.4万辆共享单车在监...
- ## [\[报告\]小鹏汽车业务研究2020版(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=0Vc2E82PhFdPaXbZ0S*RxFfBQ2LbWXmqO8Qg60keWC1RoMS00vi*C5tbu4trR9gxyDF6BPUhxXgE-yY-YIrH2MZk*LTQI82DG0ppdmJDjEPF9Wu4M7ufGOw1zv*EjMbk&new=1)
+ ## [\[报告\]小鹏汽车业务研究2020版(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=0Vc2E82PhFdPaXbZ0S*RxFfBQ2LbWXmqO8Qg60keWC0tZA*rFNhiyiPPuGfyA1RJBWwouX0AyHoCDKzFhy1hhAoMc*XYlZ*eP-Pz0-*DzU5iqPiWkZCSuR*ZvQhbJR6E&new=1)
  > 小鹏汽车成立于2014年，总部位于广州，是广州橙行智动汽车科技有限公司旗下的互联网电动汽车品牌，由何小鹏、夏珩、顾宏地、何涛等人发起。公司目前拥有两处生产基地：海马汽车代工厂和自建肇庆工厂；海马代工厂...
- ## [设备|400G以太网：落后一步的诺基亚正迎头赶上](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=dWKa*FJH28-vKeEMjKUWr12I7eElCQTsIL3ATPuSlYpAOjzlZHvLkX5vBKeYGqBCeSgx0SXcIiniO0URf2hOdt5qXSe8AnJF1oYkq-bw5arcZxmlgpa1nRV8RFKbOuSt&new=1)
+ ## [设备|400G以太网：落后一步的诺基亚正迎头赶上](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=dWKa*FJH28-vKeEMjKUWr12I7eElCQTsIL3ATPuSlYp6jaZFsKGkifPpFrNkFfkw-hYbEAY0j-*H11c3DX8XC97xn190vsb39qcnK7-1-p0cPVlUz-vGb*m13iiBJ6ud&new=1)
  > 新闻导读2020年可能将是400G重要的一年。在400G以太网方面，诺基亚与Infinera、Ciena、Cisco和Juniper等许多竞争对手相比有些落后。近日，诺基亚推出其WaveFabric产品组合。分析师认为新产品让该设备商得以重
- ## [独家：中国联通这位副总经理明确了分管领域 这些部门归他管](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=AiTvxzZd1u1*6ov54uWtYBkwmC17181uXMs*SyDzqcFzTp84IuoBzRJZpjyB4V73YoPu2G9FElDUor5DGF-S2RQPa9qwuflpm06fKEaPGIoxb5cD6ijtvlXe4yHkQFLr&new=1)
+ ## [独家：中国联通这位副总经理明确了分管领域 这些部门归他管](http://mp.weixin.qq.com/s?src=11&timestamp=1590654605&ver=2365&signature=AiTvxzZd1u1*6ov54uWtYBkwmC17181uXMs*SyDzqcFHwKXGanR5r3WguqEarpoYse636W3eRnr48AVKNn7oB7YgptVrMRaC4bXkfLVTDRINYbwoR-Hmc86WQ8BFIaOY&new=1)
  > 运营商财经网 吴碧慧/文 5月20日上午，中国联通召开党组会宣布了中组部关于何飚中国联通任集团公司党组成员、副总经理的决定。并确定何总分工负责：信息化部（信息安全部）、技术部、国际公司、研究院、软件研究...
- ## [物联网芯片+区块链底层融合：紫光展锐开创产业升级新思路](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=vOm6fpEsguy5j8AOZ*C8rpZUxtAvlxCiq8aXY0wg2dQpODCjznihzOpeucC1j1TPY4HAeta2NqvFjN*Ba2Iw8LULAsSPJ26tanqJ-ChhfOHmv0h2fpVUXz2E46K1nlFc&new=1)
- > 物联网发展驶入快车道，机遇与挑战并存5G时代将是万物互联的时代。从工业物联网到智慧城市再到智能家居，物联网将深入人们生活的方方面面。据GSMA预测， 2025年，全球物联网连接数将达到252亿。打通云管边端，实...
- ## [探寻史诗级NB智能表进展：中移物联携上海海思建智慧天津](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=4-q4nl67Uj1ukDaizIEd1e25jSzZ89Vbr*L0uNFOkrKdoAcE5jScZWR3Uqn9-iFI-eQibTIg6mBm*Y05jcfSE5Sd078n4ivAgJpEgF5Hmh7U8CvLIy9XTOaBJou0Ff9P&new=1)
- > 作为5G进入千行百业的先驱，NB-IoT在2020年接连迎来“里程碑式”发展，陆续实现全球乃至中国的连接数过1亿。NB-IoT智慧水务、智慧燃气这两大表计应用场景，均突破1000万连接数，正得到越来越多地方政府青睐，各...
- ## [孟晚舟案即将裁决，一文厘清背后美国打压华为全过程](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=WwvWDHHvnG9vEdvsMs3Qr7*glOTB4ZW8aYTaNSRPn81*8e-H*CHcLPSqSh2HxoS8BkaeZ1tn7OLoFGNycZafz*WHDyHbZAolPXDpBo83S3cqoMHSMqbJthf2BsMvYB0S&new=1)
- > 肇始于2018年12月1日的华为CFO孟晚舟被逮捕案将于加拿大当地时间5月27日上午11点公布裁决结果；引发全球对该案件的高度关注。不过，孟晚舟案的爆发，只是美国打压华为的手段之一，美国本意是要复制2013年4月14日...
- ## [\[观察\]从数字连云港渐入佳境背后，看新型智慧城市建设新模式](http://mp.weixin.qq.com/s?src=11&timestamp=1590636665&ver=2365&signature=9EBVEntAodaB8MQ98WvxgNKfGxYLGRZuuszD9wF*Qcu4zDuoCs63EWw5sL1UZzxMrrfYB54rWg*sqIR9A*02xAE8PXvJEMLQpC*fmdNHdpdigbjxdn6my2AxadlffsrA&new=1)
- > 申耀的科技观察读懂科技，赢取未来！仅仅只用了一年时间，“我的连云港”APP就取得了令人瞩目的成绩。这款由连云港市政府主办的全市统一的城市综合移动应用服务端，于2019年5月24日上线运行，上线一年时间累计下...
 # IT 技术 
  ## [在Data Collector中如何使用TensorFlow实现实时机器学习](http://ai.51cto.com/art/202005/617482.htm)
  > 在Data Collector中如何使用TensorFlow实现实时机器学习
@@ -130,26 +144,28 @@ categories: IT NEWS
  > Serverless Kubernetes：理想，现实与未来
  ## [企业从单体架构向微服务架构转型的 9 个难点](http://developer.51cto.com/art/202005/617485.htm)
  > 企业从单体架构向微服务架构转型的 9 个难点
- ## [微软公布Windows 10 2020年5月更新的最低系统要求](http://os.51cto.com/art/202005/617635.htm)
- > 近日，微软正式开始推送Windows 10 2020年5月更新，本次更新包括了新的Cortana应用、云端重置、Linux 2的Wi
- ## [看完了这篇实时数仓建设，才发现以前的都白看了（内有美团案例）](http://stor.51cto.com/art/202005/617634.htm)
- > 看来大家还是对数据仓库和大数据平台比较感兴趣，今天就和大家再聊聊怎么做实时数仓吧。实时数仓可谓是决定
- ## [互联网数据分析最常见的12个指标](http://bigdata.51cto.com/art/202005/617632.htm)
- > 互联网行业的分析师，做指标体系搭建的时候，最常遇到两个问题，一是不知道关注哪些指标，毫无头绪;二是找
- ## [大数据和5G：这个交叉路口指向何方？](http://bigdata.51cto.com/art/202005/617631.htm)
- > 大数据及其对我们隐私的影响是21世纪比较大的挑战之一。随着5G的出现及其令人印象深刻的功能，让我们来探讨
- ## [从两会提案看清机器人行业五大趋势](http://ai.51cto.com/art/202005/617628.htm)
- > 在今年两会上，围绕机器人行业的发展，各种提案纷纷被摆上台面，机器人行成了这场盛会的焦点
- ## [为什么AI没能让人类失业？](http://news.51cto.com/art/202005/617629.htm)
- > 我们听了这么久有关「AI取代设计师」、「AI取代写作者」、「AI取代画家」、「AI取代司机」……的论调。然而
- ## [Android 9.0 等系统存在 StrandHogg 2.0 漏洞](http://netsecurity.51cto.com/art/202005/617625.htm)
- > 挪威安全公司 Promon 的安全研究人员在 Android 设备中发现了一个漏洞，该漏洞可能使黑客通过诱骗用户在非
- ## [安卓系统曝出高危漏洞，超90%用户设备被波及！](http://netsecurity.51cto.com/art/202005/617626.htm)
- > 新安卓漏洞影响超10亿智能手机，攻击者利用该漏洞可以劫持app。Promon研究人员在安卓系统中发现了一个新的
- ## [开源！有人用Flutter撸了个新浪微博](http://news.51cto.com/art/202005/617633.htm)
- > 谷歌在2018年12月正式发布了Flutter，这是一个出色的跨平台框架，可用于移动、桌面和 Web 平台构建应用程
- ## [数据中心冷源的选择应用，不简单！](http://server.51cto.com/Datacenter-617622.htm)
- > 2019年，工业和信息化部、国家发展改革委、国土资源部、电监会、能源局等五部委联合发布了《关于数据中心建
+ ## [科技巨头抢滩自动驾驶的背后，哪些是你不知道的事？](http://ai.51cto.com/art/202005/617669.htm)
+ > 自动驾驶系统由以下三大系统组成：感知、决策、执行，目前，感知层主要是采用传感器技术，在获取感知数据后
+ ## [2020年Gartner全球MSP魔力象限](http://cloud.51cto.com/art/202005/617668.htm)
+ > 近日，Gartner发布了2020年全球公有云基础设施专业和托管服务魔力象限。报告研究了20家领先的公有云托管服
+ ## [“新基建”来了！智慧城市发展逻辑将面临三大重构](http://www.cioage.com/art/202005/617667.htm)
+ > 新冠肺炎疫情发生以来，智慧城市在疫情研判、联防联控、传播追踪、资源调配等方面发挥了重要作用。疫情像一
+ ## [打造智慧城市必不可少五大关键技术](http://www.cioage.com/art/202005/617664.htm)
+ > 人们想到智慧城市技术时，最容易想到的词是物联网(IoT)和传感器(sensors)。而且这种联系并非没有依据，因为
+ ## [打造智慧城市必不可少五大关键技术](http://news.51cto.com/art/202005/617666.htm)
+ > 尽管先进的传感器技术将在增强智慧城市的能力中发挥关键作用，但智慧城市还需要依靠传感器以外的更多技术。
+ ## [新冠疫情严重阻碍了2020年物联网设备的部署应用](http://iot.51cto.com/art/202005/617663.htm)
+ > 物联网(IoT)将成为全球新型冠状病毒COVID-19之后，各经济体长期恢复计划不可或缺的组成部分，但物联网本身
+ ## [华为发布全新一代OceanStor存储Pacific系列，打造海量数据存储新标杆](http://stor.51cto.com/art/202005/617665.htm)
+ > OceanStor存储Pacific系列将充分发挥华为在存储软、硬件方面的多年积累，在效率、成本和可靠三个方面实现突
+ ## [二维码会被人类扫完吗？会！但我们等不到那一天](http://mobile.51cto.com/news-617659.htm)
+ > 支付码、名片码、健康码、校园码、复学码、乘车码、挪车码码码码码码码码码码码码码码码码码码码码码码码码
+ ## [处女座的华为技术流团队打磨出的下一代摄像机有多牛?细节控最爱!](http://network.51cto.com/art/202005/617658.htm)
+ > 机器视觉与生活、娱乐、通信、生产、安全的深度结合，将是一个千亿美元的巨型市场。而华为要做的，不仅仅是
+ ## [12个场景应用，百余种算法，AI是如何攻占经济学的？](http://ai.51cto.com/art/202005/617656.htm)
+ > 在虚拟世界中模拟现实经济状况，想法设计更好的制度只是AI和经济学结合方式之一。其实深度强化学习在面临风
+ ## [面试直播，实战派VS学术派 ，真刀真枪的干一场！](https://blogdev.blog.csdn.net/article/details/106398832)
+ > 面试直播，实战派VS学术派 ，真刀真枪的干一场！
  ## [一个屌丝程序猿的人生（一百一十）](https://blog.csdn.net/zuoxiaolong8810/article/details/106309128)
  > 一个屌丝程序猿的人生（一百一十）
  ## [前端很容易遇到的一个大坑](https://blog.csdn.net/cc18868876837/article/details/106284715)
@@ -160,10 +176,10 @@ categories: IT NEWS
  > C++11：一些微小的变化（新的数据类型、template表达式内的空格、nullptr、std::nullptr_t）
  ## [拿钱办事，其余免谈。30K 的阿里 P6 Java 也就这样了](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105864083)
  > 拿钱办事，其余免谈。30K 的阿里 P6 Java 也就这样了
- ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
- > 
  ## [点沙成金：英特尔芯片制造全过程揭密](https://blog.csdn.net/csdnnews/article/details/104676074)
  > 点沙成金：英特尔芯片制造全过程揭密
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
+ > 
  ## [你看，公司状告员工不加班，居然还告赢了](https://blog.csdn.net/loongggdroid/article/details/105872314)
  > 你看，公司状告员工不加班，居然还告赢了
  ## [程序员如何与产品经理优雅的干架](https://blog.csdn.net/hejjunlin/article/details/105443185)
@@ -176,59 +192,61 @@ categories: IT NEWS
  > 祝贺玄姐，创业两个月，估值近亿，融资几千万，奈学教育，太牛逼了！！！...
  ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
  > 太狠了，疫情期间面试，一个问题砍了我5000！
- ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
- > 爬虫（101）爬点重口味的
  ## [深入剖析Springboot启动原理的底层源码，再也不怕面试官问了！](https://blog.csdn.net/weixin_43570367/article/details/104960677)
  > 
 # 人工智能 
+ ## [QT 类静态函数作为回调函数](https://blog.csdn.net/qq_14874791/article/details/106347382)
+ > QT 类静态函数作为回调函数
  ## [基于华为巴龙MH5000-31 5G工业/商业模组开发（一）](https://blog.csdn.net/u011501321/article/details/106355557)
  > 基于华为巴龙MH5000-31 5G工业/商业模组开发（一）
- ## [win10开启热点，设备搜索不到](https://blog.csdn.net/x1251494664/article/details/106347386)
- > win10开启热点，设备搜索不到
- ## [微信X5浏览器video标签兼容性](https://blog.csdn.net/qq_27962839/article/details/106380039)
- > 微信X5浏览器video标签兼容性
- ## [三星正式发布Exynos 880：旗舰级5G平台只需1998元](https://blog.csdn.net/counted/article/details/106355756)
- > 三星正式发布Exynos 880：旗舰级5G平台只需1998元
- ## [常见物联网无线组网方式](https://blog.csdn.net/SkyChaserYu/article/details/106359849)
- > 常见物联网无线组网方式
- ## [《UnityAPI.Component组件》（Yanlz+Unity+SteamVR+云技术+5G+AI+VR云游戏+GetComponent+SendMessage+Tag+立钻哥哥++OK++）](https://blog.csdn.net/VRunSoftYanlz/article/details/106367004)
- > 《UnityAPI.Component组件》（Yanlz+Unity+SteamVR+云技术+5G+AI+VR云游戏+GetComponent+SendMessage+Tag+立钻哥哥++OK++）
- ## [NR(一)](https://blog.csdn.net/zhanweizhao_111/article/details/106382822)
- > NR(一)
- ## [Security Processor 周边](https://blog.csdn.net/holmeswf/article/details/106380326)
- > Security Processor 周边
- ## [腾讯宣布五年5000亿投入计划，发力新基建](https://blog.csdn.net/karamos/article/details/106356712)
- > 腾讯宣布五年5000亿投入计划，发力新基建
- ## [NB-lot和LoRa真正的差别在哪里？](https://blog.csdn.net/zitn2019/article/details/106355528)
- > NB-lot和LoRa真正的差别在哪里？
- ## [5G无线网络优化覆盖](https://blog.csdn.net/fanjufei123456/article/details/106341372)
- > 5G无线网络优化覆盖
- ## [802.11ax简要笔记](https://blog.csdn.net/sinat_33584425/article/details/106380148)
- > 802.11ax简要笔记
- ## [【链环科技】智能家居 未来触手可及](https://blog.csdn.net/qq18723817197/article/details/106387839)
- > 【链环科技】智能家居 未来触手可及
- ## [腾讯云5000亿元、阿里云2000亿元，都是投的啥？](https://blog.csdn.net/qq_42521751/article/details/106389552)
- > 腾讯云5000亿元、阿里云2000亿元，都是投的啥？
- ## [新磁盘挂载扩展到根目录CentOS7](https://blog.csdn.net/qq_40143985/article/details/106351586)
- > 新磁盘挂载扩展到根目录CentOS7
+ ## [HuaWei ❀ 配置BGP4+基本功能](https://blog.csdn.net/qq_42197548/article/details/106390578)
+ > HuaWei ❀ 配置BGP4+基本功能
+ ## [基于51单片机的RS485从机系统设计](https://blog.csdn.net/weixin_44873932/article/details/106380895)
+ > 基于51单片机的RS485从机系统设计
+ ## [在点灯科技APP使用esp8266控制舵机](https://blog.csdn.net/qq_44419932/article/details/106365115)
+ > 
+ ## [正点原子Mini Linux—cortex-A7中断](https://blog.csdn.net/Jayccccc/article/details/106348519)
+ > 
+ ## [STM32通用Bootloader——FOTA](https://blog.csdn.net/sinat_31039061/article/details/106344081)
+ > 
+ ## [hiredis — Redis 的 C 语言客户端](https://blog.csdn.net/Jmilk/article/details/106362722)
+ > hiredis — Redis 的 C 语言客户端
+ ## [Raspberrypi-Network_Setting](https://blog.csdn.net/Master_SS/article/details/106367658)
+ > Raspberrypi-Network_Setting
+ ## [叱咤风云的ThreadX全家桶正式加入开源免费的大浪潮中](https://blog.csdn.net/Simon223/article/details/106353218)
+ > 叱咤风云的ThreadX全家桶正式加入开源免费的大浪潮中
+ ## [QT  通过QFileDialog选择一个txt文件并打开](https://blog.csdn.net/qq_14874791/article/details/106372472)
+ > QT  通过QFileDialog选择一个txt文件并打开
+ ## [芯片IAP升级机制讲解](https://blog.csdn.net/weixin_42231514/article/details/106338843)
+ > 芯片IAP升级机制讲解
+ ## [小程序云开发](https://blog.csdn.net/weixin_45740068/article/details/106378602)
+ > 小程序云开发
+ ## [TiDB DevCon 2020 80+ 干货议题大揭秘，一键收藏吧！](https://blog.csdn.net/TiDB_PingCAP/article/details/106356619)
+ > TiDB DevCon 2020 80+ 干货议题大揭秘，一键收藏吧！
+ ## [【微信小程序】云开发基础设置](https://blog.csdn.net/mingjie777/article/details/106386432)
+ > 【微信小程序】云开发基础设置
 # PM 
- ## [从0设计App（7）：基于产品定位做 UI 设计](http://www.woshipm.com/pd/3907546.html)
- > 至此，我们完成了app的定位、系统架构、产品结构、重要的2大流程图（业务、页面流程图）以及所有页面的原型稿和交互稿，接下来本文将围绕UI的设计展开。本系列是笔者...
- ## [2B产品经理，如何快速准确了解企业业务？](http://www.woshipm.com/pmd/3923953.html)
- > 作为一名2B产品经理，我们常碰到全新的行业/企业。那么有没比较好的方法，可以更快速、准确地了解一家企业的业务？本文认为有一套比较通用的方法，可以由表及里、由浅入...
- ## [深度复盘：如何从0-1构建客单价4W产品的增长模型？](http://www.woshipm.com/operate/3926193.html)
- > 留学服务四五万的客单价往往令用户望而却步，而平均4000元/人的获客成本也是掣肘业内公司规模化增长的重要原因。接下来这篇文章，我会从定位，引流，运营，转化四个方面...
- ## [微信为什么不做开屏广告？](http://www.woshipm.com/pd/3917342.html)
- > 微信在商业广告变现的道路上一直很克制，而开屏广告对用户体验伤害极大，对微信来说，开屏广告与其自身发展理念不一致。01 前言玩了这么久的微信，不知道大家有没有...
- ## [如何全面深入地理解用户？](http://www.woshipm.com/operate/3915311.html)
- > 看过很多关于用户的文章，总感觉不够全面，结合我的查阅和经历从什么是用户，用户的特征，行为与价值来解释。01 用户的是产品的使用者，想获得需求的满足世界上有无...
- ## [众多互联网医疗巨头，为何丁香医生能突破重围跻身独角兽？](http://www.woshipm.com/evaluating/3921922.html)
- > 为什么丁香医生能够在互联网医疗行业迅速发展成为独角兽呢？本文将借由分析丁香医生APP的视角，了解这家公司及互联网医疗行业的运转逻辑。丁香医生是丁香园旗下专门针...
- ## [直播行业悄悄变天了](http://www.woshipm.com/it/3928503.html)
- > 纯粹的直播平台越来越缺乏故事美感，除了游戏直播这个社区壁垒较强且产业链完整、商业化成熟的垂类外，直播越来越回归了工具属性。直播行业已经悄悄变天了。在《电商...
- ## [当我们想做社区时，我们想做什么？](http://www.woshipm.com/pd/3920075.html)
- > 当产品想做社区的时候，我们到底在做什么？想回答这个问题，就要尽可能将社区的优质且适用性高的特质提取出来，并且避免受到排他性这个特点的影响。切如今互联网有个...
- ## [以产品策略，如何搭建微信公众号粉丝分层？](http://www.woshipm.com/operate/3927997.html)
- > 第三方社群管理工具 wetool 被封杀，导致大量大量微信号被封杀，这也使得好不容易建立起来的粉丝用户体系，就这么没了。那么，在面对这样的情况下，要如何搭建微信公众...
+ ## [产品新人，如何快速培养产品结构化思维？](http://www.woshipm.com/pmd/3924207.html)
+ > 结构化思维是高效的思考问题分析问题的方式，是贯穿在产品经理工作中方方面面的，是属于产品经理的思维的底层结构。本文作者结合自身经验，从机构化思维是什么、有什么...
+ ## [如何设计一款活动编辑器](http://www.woshipm.com/pd/3920630.html)
+ > 如何设计一款活动编辑器，本文介绍了设计活动编辑器的目的、实施路径、场景以及解决方案，与大家分享！运营人员基于编辑器内的活动模板，可视化的对活动页面与玩法进...
+ ## [大宗商品仓储系统中，车辆出入库的集成设计](http://www.woshipm.com/pd/3887518.html)
+ > 大宗商品仓储系统中车辆出入库是如何设计的？本文介绍了大宗商品仓储系统中车辆出入库的业务流程、前置条件、需求纲要、产品架构设计、数据库表单设计，与大家分享！...
+ ## [在互联网与SaaS公司间，产品如何游刃走江湖？](http://www.woshipm.com/pmd/3927726.html)
+ > 本文从驱动模式、职责和能力要求差异几方面讲述了互联网与SaaS两类公司中产品经理的区别，与大家分享！在开篇之前，先对本文谈的互联网公司与SaaS公司，做个界定。本...
+ ## [疫后重启：线下机构必须刷新的5个认知！](http://www.woshipm.com/it/3929233.html)
+ > 本文基于疫情期间的观察、访谈及思考，整理了“5个认知”和“5个建议”，抛砖引玉，供参考。疫情逐渐消散，线下机构的春天要来了吗？疫情加速了低效能经营模式的淘汰，...
+ ## [产品体验报告 | 得物（毒），电商界的黑马](http://www.woshipm.com/evaluating/3899882.html)
+ > 当时尚成为一种生活方式，以千禧一代为代表的的年轻消费群体对于时尚潮流文化的消费需求逐年攀升。而“得物”（毒）面临的是一个万亿级的市场，而时尚电商水涨船高，成为...
+ ## [弹幕缘何产生，又该如何活跃？](http://www.woshipm.com/operate/3921168.html)
+ > 本文根据梳理了弹幕产生的原因，并对如何提高弹幕产品潜力和用户活跃度以及黏度进行分析，推荐给想了解弹幕产品的童鞋阅读。弹幕作为一种亚产品，已经越来越被音视频...
+ ## [产品分析：灯塔打卡 vs 小打卡](http://www.woshipm.com/evaluating/3928871.html)
+ > 小打卡与灯塔打卡都是服务于多人互动的线上打卡平台，区别于小日常、时光日历等离线客户端。本文针对这两款app，从六个方面进行一个分析，enjoy~去年下半年，我使用日...
+ ## [用户画像：这组数据还原“吃货”本相](http://www.woshipm.com/user-research/3926915.html)
+ > 生活中，吃货是怎样一群人？本文通过大数据全面洞察了对美食类应用有高度兴趣偏好的群体，并通过APP聚类分析，将“吃货”人群的用户画像进行了总结，与大家分享！人世间...
+ ## [微信封杀wetool，连锁门店社群营销怎么办？](http://www.woshipm.com/marketing/3926235.html)
+ > 腾讯封杀wetool带来的不仅仅是风险，更是一次营销变革的机遇，打破一种现有营销模式后带来的阵痛不可避免，但谁能够顺势变革，那阵痛之后便是狂欢。wetool官宣让大家...
+ ## [对一个产品来说，内容有多么重要](http://www.woshipm.com/operate/3926656.html)
+ > 当你的内容很精准的时候，你的精准用户来了。现在的虚拟产品，都是主要以内容为王。内容的好坏，决定了平台的大小和用户的去留性。而推荐算法都只是为了将更好的内容...
 
     
