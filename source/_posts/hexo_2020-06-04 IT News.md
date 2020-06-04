@@ -1,7 +1,7 @@
 ---
 title: 2020-06-04 IT News
 copyright: true
-date: 2020-06-04 10:01:03
+date: 2020-06-04 12:01:35
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -81,23 +81,35 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [悲剧!碧桂园突爆大料，房地产即将大变天!](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=GPKxnwgo4CCPnJzAig2Ksnfxu5ezV-OGKWGDm-oNiB*85tN1KuKejDACEBpWL0kitgQTjkl4HmuUrwZZos2t8n*-cbs8wpxMSsg554ZcFHijBXMr9487mzdMpN-flYRc&new=1)
- > 所有人都没想到：当年土得掉渣的碧桂园如今却干起最先进的机器人行业！所有人都没想到碧桂园的转型来得如此之快未来，各行各业或将迎来大变天！一场“风暴”即将来临！ 近日，碧桂园老板杨国强在全国两会上突然...
- ## [\[科技早报7点整\]马云喊湖畔学生交作业 欧盟印度等要对美互联网巨头加税……](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=iXPYX5DMZ8DKy34Jn-jYq2RaruWf9RiaNDLNNYPx0OFYljbFKC3-jak9uX3ilQI5akTfu-3GOKdbQlsozFFjQUivCF5ljSFZxXdTCgGdepA2UrQWUJbpjalooe7KG6sL&new=1)
- > 早上好，科技圈【一度蜜科技早报】第824期1.淘宝App搜索改版：新增“1小时达”服务近日部分淘宝用户发现，在淘宝App搜索“牙膏”、“洗发水”、“西瓜”等关键词时，搜索结果页会出现“小时达”频道，点击后展示...
- ## [\[报告\]中国汽车智能共享出行发展研究2019(附194页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=AEFhYEQI3vBztqb*ak6jTVVWumkaUDNR-reNJnCNDGOk1iA881taNG1CV*65O7lT1lPNSOyGmi-MKmSStJ2HRdwWaRr70LtBYarLBsL5DBJrYRD99X7dEYVZXYlW8B59&new=1)
- > 《2019中国汽车智能共享出行发展报告》由总报告、主题研究、前瞻示范、技术创新、市场化推广、政策法规等六部分组成。总报告篇从宏观层面综述了2018-2019 汽车智能共享出行产业发展现状，总体而言，汽车智能共享...
- ## [区块链成海南自贸港建设方案高频词 2025年前建设国家级区块链发展基地](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=Sxebz17KKnOczEE6oYcFUxrh0DxcjB4e4dk7ofByquJxwlGsO*zpfL7PB1gHuen2ppl1ltIdkiYiYy7fMflhy9jqSFdK3ZRGmVglnRDzKQs=&new=1)
- > 本报记者 邢萌    6月1日，《海南自由贸易港建设总体方案》（以下简称“自贸港方案”）正式发布，区块链成为其中一大亮点。自贸港方案6次点名“区块链”，从产权保护、高新产业、社会治理、政府职能...
- ## [美团高级工程师张璋：解析数据中心演进影响 光模块独立运维日益重要](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=0V9vQy4U-arSbvYsevsH-GMx19R-EQPtHzMhQUwMRtEt3fAKaWr64MU2EwSleeRgD-oeMb*TBYgeW69vJZ0Xs6g0iWvHK2ao4-hMPGwkzTwVXMBKr0rVpGNLumoSqxKE&new=1)
+ ## [面临巨额诉讼赔偿! Google涉嫌跟踪用户浏览活动窃取隐私](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=8qMzyd-1mCN2e6VGcT3OdNAa3hJgG-eDShosIUnDMuYYYu-*praqiKTV9PFW3veXEkOOOt2LVZgNBjDurLamsXkNt6SXfJQ*xDPBAnPrUSeWmMun-RHpol*BnHooDrjW&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月4日讯，近日据外媒报道，本周二，谷歌遭到集体诉讼，该诉讼指控谷歌正在追踪互联网用户使用情况，跟踪和收集消费者浏览历史记录和其他网络活动数据...
+ ## [《2020年3D打印现状》，企业不断加大投资](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=dDkp6Hp0rLbsu8mdTtg-u4xo5*87D-q39ylaPJwGPaLf17HeXayQQOKV44GQpzDgkf9vu8cpAEbHTy7II7iw31B742ZwaxV5zE4*baTAwazv1cHj*fVBPgcEB5SGa2N9&new=1)
+ > 2020年6月初，总部位于巴黎的3D打印服务局Sculpteo发布了第六版年度国际调查报告《2020年3D打印现状》（下载请往南极熊公众号后台回复关键词“ 2020年现状 ”），旨在完整总结的3D打印制造领域的概况，以帮助企...
+ ## [北京发放 122 亿元消费券；美国多地苹果商店遭洗劫，被抢 iPhone 变砖；「地摊神车」五菱股价、销量暴涨|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=h0jxUnHoCrYgYUh7v8yYUXD-OAk*dhF3k0436c68fRPNVouaCcCqK7zoT2X74TmqL917cSRgRCeVX2hlHHuykom00mffKxNiRDn6fexSM1o7wzjo3cPOzLZbktuJ2*K5&new=1)
+ > 北京消费季本周六启动，将发放 122 亿元消费券6 月 3 日下午，北京市商务局局长闫立刚在北京消费季媒体吹风会上介绍，以「品味消费，京范儿（FUN）生活」为主题的北京消费季，将于 6 月 6 日（本周六）正式启动...
+ ## [百度搜索大数据：“摆摊技巧”搜索热度暴涨655%；中国电信：将逐步关闭3G网络业务；IntelliJ IDEA新版发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=zrDjapOHk2dPcR6vm9wnH4e6KYqkeRcuWh4BsYkxfYrDRDZuTnuvoElArRdJxvB0FPJVS5N9mTa6wMiqEeBhOzz1zmwendRnjNEHM3m2sIiQxIAkiVApGG3azUwJY7-d&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
+ ## [5G将带来怎样的明天?](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=DP2JULuHPK6UZnlbMwTmSFvD-eVGGCGRhkSzoyIfmP5m4oy1Qsqs91xAtozi5S4M-vAD0S9*1*rMO4A9pI*myLVx6ILOkyiL4BPUThrCygKQCqFvsdm0KnkMnoeYrF*5&new=1)
+ > 移动通信从面向个人通信的1G、2G、3G、4G以十年一代的速度发展到现在，面向产业互联网和智慧城市应用的“5G时代”终于要来了。5G的到来将带来哪些领域的颠覆性变革？与前几代移动网络不同，为何智能制造、互联网...
+ ## [南明区年内新增100家以上 软件开发与信息技术服务企业](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=17FkVOrkh0tQlnJX9QsPBHy1AfzMCRzTjR-ZaPe88r2z2aHgOuPKk8IVQvSY-3XwpeCsfIwN8B2ki4ndnX22y89aJzZcD*-ZaVf5L2fE9L0=&new=1)
+ > 本报讯 近日，记者从南明区工信局获悉，该区今年将从加快数字产业发展、深化大数据融合应用、强化大数据创新能力建设、助推数博大道高标准建设四方面入手，进一步推动大数据融合发展。　　根据南明区大数据...
+ ## [美团高级工程师张璋：解析数据中心演进影响 光模块独立运维日益重要](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=0V9vQy4U-arSbvYsevsH-GMx19R-EQPtHzMhQUwMRtElQbWnzm4W4X2PPA3ES4svWOyx3Z5o9z5M1-*HSBfPu18428vVUsBgNcpE77gvEVvBS3-1aKjPwkE06TtpNqrs&new=1)
  > 新闻导读随着数据中心网络架构和光模块正在向400G架构演进，光模块立运维的重要性日益提高。美团数据中心注重AIOPS和光模块运维，利用机器学习分析告警阈值，对网络、设备、光模块、光传输等更多精细特征指标异...
- ## [四个月拿下数个新基建订单 李震宇揭秘百度智能交通王牌](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=vKZalPjflRuC7HN22TB4FSiD6RurLx3aa6J6kpH-LTxKVLBKj3816nUW3bCINqc2RI9NfYofjuQs5vqRnSoegxD8Sb447J6Hbr*tf7YVFyk4NgpMECPGd*u9US4g9k1*&new=1)
+ ## [悲剧!碧桂园突爆大料，房地产即将大变天!](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=GPKxnwgo4CCPnJzAig2Ksnfxu5ezV-OGKWGDm-oNiB-L685B4f-LH8JJd4YJxsd7Aw-flMNtrbLMVlQLpknemG1lWpjhoMQHqb4uNriD3fl*peAlT5w5pwnSRGpwE0lD&new=1)
+ > 所有人都没想到：当年土得掉渣的碧桂园如今却干起最先进的机器人行业！所有人都没想到碧桂园的转型来得如此之快未来，各行各业或将迎来大变天！一场“风暴”即将来临！ 近日，碧桂园老板杨国强在全国两会上突然...
+ ## [\[科技早报7点整\]马云喊湖畔学生交作业 欧盟印度等要对美互联网巨头加税……](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=iXPYX5DMZ8DKy34Jn-jYq2RaruWf9RiaNDLNNYPx0OEiOcAIbro-kml0qNOHp1cQRJNmdNzuke8bX2I*qhDZ9Mjs1tDHIZhL-CZw05yJuJIPnqpA7qlYxaOrnGU0BAF0&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第824期1.淘宝App搜索改版：新增“1小时达”服务近日部分淘宝用户发现，在淘宝App搜索“牙膏”、“洗发水”、“西瓜”等关键词时，搜索结果页会出现“小时达”频道，点击后展示...
+ ## [\[报告\]中国汽车智能共享出行发展研究2019(附194页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=AEFhYEQI3vBztqb*ak6jTVVWumkaUDNR-reNJnCNDGMW91Pf1cPv-gHCfsVMv1lh6od5GFRRLZ5N7BhCDLwfT3Vv0zdCkjLwVhExYO6Sbf6MPmLA0acn26P3TRtMcUs9&new=1)
+ > 《2019中国汽车智能共享出行发展报告》由总报告、主题研究、前瞻示范、技术创新、市场化推广、政策法规等六部分组成。总报告篇从宏观层面综述了2018-2019 汽车智能共享出行产业发展现状，总体而言，汽车智能共享...
+ ## [区块链成海南自贸港建设方案高频词 2025年前建设国家级区块链发展基地](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=Sxebz17KKnOczEE6oYcFUxrh0DxcjB4e4dk7ofByquJRQAy-9NKCg90eQzNUxp*3gq4DUys8yLNDB4WEMarq-23tyBj4ZdQAAACT5z3fX3o=&new=1)
+ > 本报记者 邢萌    6月1日，《海南自由贸易港建设总体方案》（以下简称“自贸港方案”）正式发布，区块链成为其中一大亮点。自贸港方案6次点名“区块链”，从产权保护、高新产业、社会治理、政府职能...
+ ## [四个月拿下数个新基建订单 李震宇揭秘百度智能交通王牌](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=vKZalPjflRuC7HN22TB4FSiD6RurLx3aa6J6kpH-LTzCmrwFHjdfIoBzYqLSwGC4ywBxl5SU5ro9miUxvOY1IlADLlitBKQA-Z3gUHrxUFu6OiUdjIKh72RqC6pcgR*5&new=1)
  > 智能交通遇上新基建，掀起新一波行业春风。文 ｜ 晓寒今年疫情期间，中央提出了加大新基建投资的政策，以进一步促进经济发展，抵消疫情的影响。作为新基建的重要组成部分，智能交通技术的研发与应用也成为行业热...
- ## [华为偷袭了海康威视“安防珍珠港”](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=WEkC8aPh712H6t-NBPER5f57jRv4loSnAMYzDj2MX2LxNNzJrFCxDYvG*SuMtF1SKzc0XBy4cCo8dzhGncJLYSiB8Nus4pGFJvLVfI0tZ4emQFEzyjdM2KvodALlRPVw&new=1)
+ ## [华为偷袭了海康威视“安防珍珠港”](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=WEkC8aPh712H6t-NBPER5f57jRv4loSnAMYzDj2MX2JeHIs2za4ek5yBHHicTixmWgX9qPIH-ajf8q7sKTzNo8mMvNx9JHZ7bNQPcV8emYKo9xZzJ6kkEXoy4fYtmdl9&new=1)
  > 自国家提出建设智慧城市的概念以来，发展智慧城市已经上升为国家战略，城市安防作为智慧城市布局的重要一环，对日常生活的保障作用日益凸显。尤其是在近几年，人工智能技术的成熟以及各种AI硬件落地，为安防运维...
- ## [解读华为OceanStor存储：如何“释放平凡数据的不凡潜力”?](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=-nF49J-OruAdSAdcRQoidarOmya*VNgLeObRWVoidWQhvZb-OTP8uvSvqQz7QNtKTeT*sVBJvj7SVApdzTc-3UhrBeTiRUpE*kM9Srh63UzzPti6hc7FhioY5TMPVLzj&new=1)
+ ## [解读华为OceanStor存储：如何“释放平凡数据的不凡潜力”?](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=-nF49J-OruAdSAdcRQoidarOmya*VNgLeObRWVoidWQDCo6GqPyJogbYBCTV*tIPWCYxB*P0rmxIv-M8jNsgnyuNMbCpdAMdwwVAWd1PVd4Pb8kTk77lG3ppE4iLCOpo&new=1)
  > 当前在国家新基建推动下，数字化浪潮涌动，对千行百业带来变革。企业也面临着海量数据存储挑战，面临存储与数据AI分析等相匹配的能力、数据业务由离线向生产业务转变的新挑战。因此，众多企业和机构，也在寻找“...
- ## [刚刚，中移动下发重磅文件：对员工离职网格承包明确指示](http://mp.weixin.qq.com/s?src=11&timestamp=1591234205&ver=2379&signature=SmFAVHyb1VlglK3HhJ5HXtOrSiWy4Fj5YwZulwH8BaEl-GywmosPsDFItDjhvvVWm0FEmEzrRMzC6Gd0YSmWuUgJmiczxpwsIj6CQhprVnRd5hLhBVa85IcDcokOklVQ&new=1)
+ ## [刚刚，中移动下发重磅文件：对员工离职网格承包明确指示](http://mp.weixin.qq.com/s?src=11&timestamp=1591243206&ver=2379&signature=SmFAVHyb1VlglK3HhJ5HXtOrSiWy4Fj5YwZulwH8BaEwlYE-yQjKUZKtgdiFS06uIu-PvfacVrqOfLlA262GwiQyw7Lk3CVo1eSYauDO*hwJfXDIXrr3ytAquiMJm-h0&new=1)
  > 2020年5月，为进一步激发员工活力，中国移动内部正式发布了《基层网格化改革合规指南》和《基层网格运营合规指南》。其实，早在去年中旬，董事长杨杰就在中国移动深化改革中强调，调整和优化市场体制，深化运营...
 # IT 技术 
  ## [CTO：别再写一摞if-else了，再写开除！](http://developer.51cto.com/art/202006/618105.htm)
@@ -116,100 +128,80 @@ categories: IT NEWS
  > HTTPS再发一弹，不要再说不会了！
  ## [说了这么多次 I/O，可你知道其中的原理么](http://os.51cto.com/art/202006/617994.htm)
  > 说了这么多次 I/O，可你知道其中的原理么
- ## [斑马技术助力澳大利亚摩比斯汽车配件公司实现仓库的现代化运营](http://biz.51cto.com/art/202006/617309.htm)
- > 作为致力于通过其解决方案及合作伙伴助力企业获得性能优势的边缘式创新者，斑马技术公司（纳斯达克股票代码
- ## [你应该考虑的5种智能家居技术](http://ai.51cto.com/art/202006/618108.htm)
- > 相较于国外而言，智能家居的普及率和认知度要高出许多，今天为大家分享一下国外的智能家居玩家们推荐的5种
- ## [微服务平台之网关架构与应用](http://developer.51cto.com/art/202006/618106.htm)
- > API 网关出现的原因是微服务架构的出现，不同的微服务一般会有不同的网络地址，而外部客户端可能需要调用多
- ## [使用Kubernetes的四个理由](http://developer.51cto.com/art/202006/618104.htm)
- > 大多数现代软件开发人员可以证明，容器为我们提供了更大的灵活性，可以在物理和虚拟基础架构上运行云原生应
- ## [全球5G大战：国外运营商的新进展](http://network.51cto.com/art/202006/618103.htm)
- > 2020年原本是5G走向全球的一年，但是一场疫情加上全球经济衰退，现在5G的命运可能岌岌可危。尽管我们都希望
- ## [慕尼黑之后，又一德国城市计划用开源软件代替微软](http://news.51cto.com/art/202006/618110.htm)
- > 外媒消息称， 德国最大的港口城市汉堡（Hamburg）正在考虑在计算机上采用开源软件，以减少对付费产品的依赖
- ## [解密无文件攻击的各种姿势及最新检测方法](http://netsecurity.51cto.com/art/202006/618101.htm)
- > 分析无文件攻击的各种新姿势，包括：无文件勒索、无文件挖矿；分析安全顶会NDSS2020最新相关检测论文。
- ## [在JavaScript中使用延展操作运算符的8种方法](http://developer.51cto.com/art/202006/618100.htm)
- > 延展操作运算符将可迭代的对象扩展为其单独的元素，可迭代对象是可以使用 for 循环进行循环的任何对象。
- ## [拯救强迫症：井井有条的代码库，让世界变得不一样！](http://developer.51cto.com/art/202006/618099.htm)
- > 假设你刚刚加入新的公司新的团队，要开始接触编码库相关的工作。你会面临的第一个问题就是：在哪添加团队项
- ## [VMware高危漏洞，可完全控制虚拟化云基础架构](http://netsecurity.51cto.com/art/202006/618097.htm)
- > 安全专家警告，正在使用VMware Cloud Director的公有和私有云管理员应立即将修补一个高风险漏洞，因为黑客
- ## [写着写着代码就被带上了警车](https://blog.csdn.net/qq_35067322/article/details/106464569)
- > 
- ## [35岁程序员连续被2家公司裁掉，入职事业编晒出福利，网友酸了](https://blog.csdn.net/qianduan167/article/details/106456196)
- > 35岁程序员连续被2家公司裁掉，入职事业编晒出福利，网友酸了
- ## [一个30岁JAVA程序员的肺腑之前，不管是刚入行，还是干了几年的人，一个忠告，一个建议](https://blog.csdn.net/lht337636295/article/details/106440287)
- > 一个30岁JAVA程序员的肺腑之前，不管是刚入行，还是干了几年的人，一个忠告，一个建议
- ## [为什么现在培训班出来的Java学员都找不到工作？](https://blog.csdn.net/ycx2019/article/details/106438701)
- > 为什么现在培训班出来的Java学员都找不到工作？
- ## [电脑城最简单骗局，仍然有无数人上当](https://blog.csdn.net/Zbylant/article/details/105963343)
- > 电脑城最简单骗局，仍然有无数人上当
- ## [同时拿到了Google和阿里的offer，纠结去哪个？](https://blog.csdn.net/cxyshenghuozhi/article/details/104805914)
- > 同时拿到了Google和阿里的offer，纠结去哪个？
- ## [女生适合学编程吗？](https://blog.csdn.net/qing_gee/article/details/106450680)
- > 女生适合学编程吗？
- ## [Wi-Fi 6这么“6” 原来靠的是这些黑科技！](https://blog.csdn.net/csdnnews/article/details/106466771)
- > Wi-Fi 6这么“6” 原来靠的是这些黑科技！
- ## [同学叫我一起创业，我不听，他现在月入10万，我羡慕死了，我已悟到了成功的秘诀！](https://blog.csdn.net/jonlan/article/details/106465119)
- > 
- ## [每天十道面试题（四）](https://blog.csdn.net/abc701110/article/details/105602760)
- > 
- ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
- > 当HR压你价，说你只值7K，你该怎么回答？
- ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
- > 
- ## [【Java8新特性】不了解Optional类，简历上别说你懂Java8！！](https://blog.csdn.net/l1028386804/article/details/106447083)
- > 
- ## [Vue项目开发（路由、重定向、路由参数、动态路由匹配、编程式导航、路由嵌套）](https://blog.csdn.net/qq_39357822/article/details/106456344)
- > Vue项目开发（路由、重定向、路由参数、动态路由匹配、编程式导航、路由嵌套）
- ## [【相亲】95年高颜值妹子，喜欢上进的男生](https://blog.csdn.net/qq_35190492/article/details/105917014)
- > 【相亲】95年高颜值妹子，喜欢上进的男生
+ ## [JavaScript 对象可以做到的三件事](http://developer.51cto.com/art/202006/618134.htm)
+ > 除了普通的对象属性赋值和遍历之外，我们还可以使用 JavaScript 对象执行许多其他操作。在本文中，我们将了
+ ## [5G网络普及提速，你身边的这些行业已经站上了风口](http://network.51cto.com/art/202006/618132.htm)
+ > 从去年6月6日工信部给运营商下发5G商用牌照，再11月各大运营商上线5G商用套餐，时间才仅仅过去一年。中国的
+ ## [LoRa设备正在引领物联网应用](http://iot.51cto.com/art/202006/618131.htm)
+ > 基于无线LoRa的传感器拥有长达10多年的可靠电池寿命，在长达20 km的范围内，安装和维护非常简单。
+ ## [如何使用JavaScript访问设备摄像头（前后）](http://developer.51cto.com/art/202006/618130.htm)
+ > 在这篇文章中，我将向您展示如何通过JavaScript在网页上访问设备的摄像头，并支持多种浏览器，而无需外部
+ ## [机器学习将给电力行业带来巨大变革](http://ai.51cto.com/art/202006/618129.htm)
+ > 毫无疑问，能源的未来在于可持续、可靠和“智能”的发电和配电系统，以及主动而不是被动的网络。随着能源格
+ ## [成功举办虚拟会议的5个技巧](http://network.51cto.com/art/202006/618127.htm)
+ > 如果会议组织者遵循一些简单的步骤，那么举办在线会议就可以像现场会议一样容易。以下五个提示可以让听众参
+ ## [Pandas常用技巧总结](http://bigdata.51cto.com/art/202006/618128.htm)
+ > 归纳整理了一些工作中常用到的pandas使用技巧，方便更高效地实现数据分析。
+ ## [联想将在更多 PC 上预装 Ubuntu 和 Red Hat 系统](http://biz.51cto.com/art/202006/618125.htm)
+ > 联想宣布将开始在其某些现有设备上( ThinkStation 台式机和 ThinkPad P 系列笔记本)预装 Ubuntu LTS 和 Red
+ ## [首席信息官需要提供吸引员工在家远程工作的策略](http://network.51cto.com/art/202006/618123.htm)
+ > 很多企业的员工在疫情期间在家远程工作，虽然这在业务运营方面取得了成功，但是却使人员、流程和技术在某些
+ ## [SpaceX火箭发射成功，勒索团伙入侵其IT供应商内网并留下祝贺信息](http://netsecurity.51cto.com/art/202006/618122.htm)
+ > DopplePaymer勒索团伙在祝贺SpaceX和美国宇航局NASA首次载人火箭发射成功后，即刻宣布他们入侵了一家名为DM
 # 人工智能 
- ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
- > android 常见面试题（三）
- ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
- > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
- ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
- > Android~adb卸载系统预装应用（亲测有效）
- ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
- > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
- ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
- > AS-修改APP图标和名字
- ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
- > android开发：小米手机开发时非要sim卡才能调试怎么办？
- ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
- > android.media.MediaCodec$CodecException: Error 0xfffffc0e
- ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
- > 安卓APP的http访问权限
- ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
- > flutter 的像素尺寸
- ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
- > googlePlay 找不到发布的应用
- ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
- > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
- ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
- > 使用FlexboxLayoutManager来实现流式布局
- ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
- > 电电帮手机维修就是坑爹，大家不要信
- ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
- > android.view.InflateException Error inflating class android.webkit.WebView
- ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
- > Unity | 总结：OCR文字识别、公式识别
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
+ ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
+ > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
+ ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
+ > Istio组件日志设置
 # PM 
- ## [基于业务的 CRM 系统搭建（项目执行篇）](http://www.woshipm.com/pd/3966819.html)
- > 今天接着前 3 篇文章，继续讲销售型CRM 系统，本文的重点是 CRM 系统的重要模块「项目管理」。这里的项目管理，不是产品开发过程的项目管理，而是销售签单之后，方案...
- ## [地摊经济一千年：从《韩熙载夜宴图》到木屋烧烤“撸串](http://www.woshipm.com/it/3968000.html)
- > 这竟然是一场千年之恋。 一、什么是地摊经济地摊经济一夜间大火。想起《喜剧之王》中含着眼泪看完的经典桥段：尹天仇鼓足勇气喊出的那句“我养你呀”！现在可以改一改...
- ## [面试最烦的一种人——刷面经、背题型、找套路](http://www.woshipm.com/zhichang/3962902.html)
- > 正如上次写群面的文章说的，群面的目的是做一名合格的「Horsekeeper」，而不是去想着争风头、当leader、抢reporter这些花里胡哨的。同样单面也不是刷面经、背题型这么简...
- ## [微信面试题：微信是将天平倾向于信息发送者还是信息接受者？](http://www.woshipm.com/pmd/3962536.html)
- > 本文作者对微信最近的一个面试题进行了拆解，阐释了拿到题目之后的思考方向并简答梳理了回答策略，分享给大家~说下总的结论：更偏向于信息接收者。产品自身属性（1...
- ## [CRM系统之销售场景还原与用户声音汇总](http://www.woshipm.com/pd/3962709.html)
- > 由于ToB软件鲜少能够跟客户面对面直接接触，而需求的汇总与整理往往也不是一蹴而就的，因此需要准备一个记事簿，能够用一句话随时随地记录来自不同行业、不同级别的用户...
- ## [公开课 | 0基础求职运营岗位，却总被面试官拒绝？](http://www.woshipm.com/open/3968042.html)
- > 运营可能是最近2年最炙手可热的岗位，很多不同岗位的朋友都在想办法进入运营岗位很多朋友在准备进入运营岗位时，总会在求职中遇到这样的问题：1、投递完简历，hr就回...
+ ## [产品分析：浅析Bilibili内容创作和视频观看](http://www.woshipm.com/evaluating/3964978.html)
+ > 本文主要分析了B站的内容创作和视频观看两个方面，通过功能体验与竞品分析对现有功能提出了一些优化建议，总计了B站现有的机遇与挑战。目录：产品概述需求分析与...
+ ## [互联网金融入行辅导 | 第一期：行业概况](http://www.woshipm.com/it/3963428.html)
+ > 本文整理了一些关于互联网金融行业的基础知识，推荐给刚入行的小萌新们看。一、互联网金融的定义内涵：金融为本，创新为魂，互联为器。官方定义：互联网金融是指传...
+ ## [“10后经济”隐形驱动着中国消费市场](http://www.woshipm.com/it/3964566.html)
+ > 2010年之后的出生“小朋友”基本上是一个移动互联网发展迅速并与大多数行业进行融合的时期，也是全民崇尚消费、鼓励“创业”的时代，他们成长的环境是真正意义上的“后浪”。“...
+ ## [一款企业内部使用的PaaS平台的概要设计](http://www.woshipm.com/pd/3960729.html)
+ > 之前承接了内部应用系统效能提高的任务，组织设计了内部使用的一款PaaS云平台，旨在提供公共的功能给各个应用使用，未来可以产品化的应用也会在此上架，作为对外能力输...
+ ## [火热报名 | 把「是校草」写进简历，这届互联网人为了求职可太拼了](http://www.woshipm.com/online/3969153.html)
+ > 有小伙伴找我诉苦：金三银四早过了，眼看秋招就要开始了，可是自己还没拿到产品offer，疫情过后找工作真的太难了！我发去一个心疼的表情：亲爱的，不是找工作难，而是...
+ ## [PRD：电商APP中的“免费领水果”小游戏](http://www.woshipm.com/pd/3947675.html)
+ > 针对最近分析的电商APP的“免费领水果”游戏化产品，尝试写一篇该类小游戏的需求文档。新手入门，欢迎提出建议。1. 文档综述1.1 版本修订记录1.2 PRD输出环境1.3 ...
+ ## [要不要补贴？一文讲透补贴的逻辑](http://www.woshipm.com/it/3964104.html)
+ > 为什么补贴是有效的，为什么大家都要补贴？补贴的背后隐含怎样的逻辑？做产品要补贴。打车要补贴，外卖要补贴，买生鲜要补贴，单车大战不仅补贴甚至倒贴。补贴已是互...
+ ## [抖音VS快手，谁吃肉？谁喝汤？](http://www.woshipm.com/evaluating/3963468.html)
+ > 抖音和快手是现今最热门的两个短视频产品，本文通过行业背景、用户数据、产品形态，电商来对比抖音和快手的发展，到底谁更胜一筹？一个商业赛道，有多个产品比拼，但...
+ ## [如何正确构建和使用产品知识库？](http://www.woshipm.com/zhichang/3963026.html)
+ > 产品知识库的价值不在于文章数量的多少，所以不要刻意追求更新频率和更新数量。能够运用知识库去解决实际工作中遇到的问题，这才是其真正的价值。1. 什么是产品知识库...
+ ## [解决80%以上职场冲突的认知方法——事实最大](http://www.woshipm.com/zhichang/3956816.html)
+ > 事实最大。你掌握的事实越透彻，也就越强大。日常人和人的沟通中，80%以上的冲突和挫败，来自与“事实”有关的两个问题：问题1：没有基于事实来沟通。假如，你是一位产...
+ ## [如何打造出一场刷屏式裂变活动？](http://www.woshipm.com/operate/3967191.html)
+ > 本文分四个部分，来给大家分享该如何去打造一场刷屏式的裂变活动。不得不说，刷屏式裂变获客营销是目前市面最有效的推广之一，在传播推广效果来看绝对的一流的。这种...
  ## [产品经理舔狗话术指南](http://www.chanpin100.com/article/111786)
  > 面朝大海，做只舔狗~
  ## [支付宝面试题：如果你是支付宝的产品经理，如何让更多人用支付宝点外卖？](http://www.chanpin100.com/article/111800)
