@@ -1,7 +1,7 @@
 ---
 title: 2020-06-05 IT News
 copyright: true
-date: 2020-06-05 12:01:16
+date: 2020-06-05 17:01:22
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -77,26 +77,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [跟风吹了半天SpaceX，所以它的飞船到底牛在哪了?](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=mKoLq-uwNfD*rOokTon-5IdXKKmguPzFZ0k2FWk*v2E0ztGYOcWhOjXYCjIbdtlQrI7QsDw9uaFsUlAZyn6x6-77gh-p9cIaS6JwrRCFJqRD-B3CodTPi4tIAgivIXMx&new=1)
+ ## [北大与MIT硬核较量：后摩尔时代,「碳基半导体」成为中美竞逐新焦点](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=XyrCSX75UgJo0NndrV50-6yNr2Ro-ib9uiS54jVnuBOUsIGxjw2OZG6JmcI*XBYlNcby1XA9sMYx4RUiJEzkefgPoT-iLw*9JL6*JIGFxlmD3fMFaxpIZLzGXfOaGBtj&new=1)
+ > 当摩尔定律逼近物理极限，硅芯片制程工艺的天花板触手可及，集成电路产业将走向何方？这是全球从业者亟待思考和做出决策的问题，同时也是大国科技竞赛的重要砝码，谁率先找到另辟蹊径的新方向，便意味着获得「弯...
+ ## [5G发牌一周年 中国联通已开通5G基站近13万个](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=tfpDFthAzoT-zmPN8xsyXsdJNQVt8u6nNaoYzRpu1eL8BrWZnAEKR6NxanytjAwUJnYoOobmr*JDIJ*QwMI1qMWkxNYuOJhNHrmYETvXiW8=&new=1)
+ > 经济观察网 记者 王雅洁 距离2019年6月6日中国联通获得国家工信部发放的5G商用牌照之时，已过去一年。6月5日，经济观察网记者从中国联通获悉，截至2020年5月底，中国联通、中国电信累计开通共建共享基站11.5万个...
+ ## [华人顶级科学家新去向，打造美国版“头条”，从微软辞职惊动盖茨](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=HPiUcks6wYdxPpjAsAfN1g0yRoA7pP6tTjzV7rm7iQS0sX*DlaTUKCKjfnLxMePLfspmErsTWbXcb91QkvZ1Q84qQg0im4mSLhrcXFOLUBVDDaRnvUrwwSJnCUc-bQaz&new=1)
+ > 人工智能是近几年各个国家进行“科技博弈”的一个关键项目，而这方面的科技人才也是不可多得，各国都在争取这方面的人才。受美国当前的一些政策所迫，一些在美国的华人华侨被迫离开。比如在美国科技巨头中职位最...
+ ## [「为可微计算机图形学奠定基础」，太极二作李子懋获SIGGRAPH最佳博士论文奖，华人连续三年获此殊荣](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=HGE9IDr3kdIv1h-Rj2heMz2BOsXP7zODJTMbCFnO8mxxcY1AILZ8I2jZ5i0k5QiUtYkCvlTssOBdBLMYHDaz-QfKK7ggJGEwjQk9VLSIm-rvTUcDU5GCR6ApZ-7dlMo9&new=1)
+ > 机器之心报道参与：魔王、蛋酱、杜伟刚刚，顶级计算图形学机构 ACM SIGGRAPH 颁发了 2020 年最佳博士论文奖。MIT CSAIL 博士后研究员、太极（Taichi）论文第二作者李子懋（Tzu-Mao Li）获得该奖项。SIGGR
+ ## [恭喜威玛网电成为云安会协办单位!](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=v*ZN11VkjDzCBOTL5QCAvewbqhzFt25C2Qp9v-p9Lo72TjRhrVwAPt67VKofJZ3GPboymHFNIN5CMdgtlHHa4fNque8u54t-t1A6TW3R4obj3n9loDYfR2zoQsKEhq-x&new=1)
+ > 6月16日，安防展览网主办的“2020云安会·大安防产业云端博览会-公益展”即将盛大开幕，深圳威玛网电科技有限公司(以下简称“威玛网电”)加盟成为本次云安会协办单位。届时，威玛网电将携企业新产品、新方案参展...
+ ## [\[观察\]重构分层存储架构，化解EB级存储挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=5G-ZLieHR1uKMyEnuTx9DUtRmNxSwHlz1rcuIoxUj*jxwjrg-1UCe8DqGSSrHNwTRcjGt-ZqBO65HiMZ63o1*BEM*n90yvvW-whs2LEgiZ9XO0kfrUwieY4iom6IRvkl&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！毫无疑问，我们正在快速迈进数据时代的新纪元。根据IDC 预测，到2025年，全球数据圈将扩展至 163 ZB，相当于2016年所产生16.1 ZB数据的十倍，这些数据在带来独特用户体验和众...
+ ## [建通MG为出租车行业提供通信无线对讲解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=CT2DFNnyZxi2xzq576vyk8Qpm6NzhcCg8yfbVhp9J7Gi4KZhf8C810cVLyCihKCOpz41v7ChgptnF9fLCXK8Ze0v0yMq3MePPtwISCZ3bCxqFanLCSY-6Qs9BXOD8xTS&new=1)
+ > 行业应用需求背景目前国内出租车行业面临着日益严峻的挑战。对于车租车驾驶员，他们的工作强度高、收入较低，疲劳状态下行车安全堪忧，人身安全也值得关注。对于车租车公司，如何为民众提供方便、快捷的叫车服务...
+ ## [跟风吹了半天SpaceX，所以它的飞船到底牛在哪了?](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=mKoLq-uwNfD*rOokTon-5IdXKKmguPzFZ0k2FWk*v2GbIDQvwXmkew3*rvganxnJ12d1*TmS4SBJeKhm0xGPLFkAs8zBHHM0qkp6*ijVsXtZKgTMGrJYo8aZI1VW0GeY&new=1)
  > 触屏和自动驾驶系统真的让人人都可开飞船吗？作者｜光谱邮箱｜duchen@pingwest.com在太空中漫游19小时之后，载有两名美国宇航员的 SpaceX 龙飞船和国际空间站在北京时间上周日深夜成功对接。对接两个多小时后，...
- ## [优化金属3D打印生产：逆向设计与金属增材制造软件](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=ow1W-I--pv-KGBcnAZgmAnFlunX8B*VsO*CPi9vjuEe5kK2PS3ltAVLJ6lF5jDwu0BFrAMytJilbFV2dIK*OxSTHj49zqtqC*o8PefGAXPpPSOB3L8fRlEWsMEEHN*ia&new=1)
+ ## [VR人物|杰伦·拉尼尔——从理论上为VR的发展提供了方向](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=ijFs1ctv5h-7qFjmRYTsQAcueqeV0gzZ54WldU4c0YybVnhjFRai-1SfQCoSCndxYQt5ecJDGkuHXOLTo1otWHpoCys9qh6oyuusWV-q0QZ1VsNnMfRmYZDlD-qJBMzb&new=1)
+ > VR是未来的一种趋势文 | Sirius（VRPinea 6月5日讯）自“VR元年”（ 2016年）带来行业的井喷之势至今，各方开发者纷纷下场，在内容、硬件等方面不断推陈出新。现如今的VR市场呈现出Oculus“一超”，索尼、HTC等...
+ ## [威胁情报：突破企业安全能力上限的“魔戒”](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=I5KwuvMm6mE4TAT1WVw*SKg1Xhg9*6qJ10mkRNMHyowcTKU*hp4SU4s-6xfJNhwctgLK2hNk48CUdd**BXd8r--WTJBBR8GwXtz1PZVO1ABfka37QTNswqZRgu-xxKqo&new=1)
+ > 安全牛评如果把企业比作球队，那么安全能力的下限——软硬件安全体系，决定你能否保级，而安全能力的上限——教练和情报工作，决定你能否晋级或夺冠，一球成名还是“突然死亡”。今天，没有人再怀疑威胁情报的重...
+ ## [云时代，让特效来得更猛烈些吧!](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=7ySMi6cHk5wcxyJTtLMEWz262orjVKxSk4iMJQ*dZcChNSeLipPWJ9LKWR490*7pkcQKPiMrrVlUoad5SmgSn6DdJ58RcfwhTDYz2lPhggrjTpJ3ZxUX7I8LdPk85QLq&new=1)
+ > （本文阅读时间：5分钟）对于电影特效行业来说，“渲染”（render）是最让他们头疼的一件事。我们可以简单把电脑绘图领域的渲染理解为从模型到图像的过程，或者说，从“草稿”到成品，从网格状的骨架轮廓，到色...
+ ## [门禁发展趋势分析——把握安全与便捷的平衡](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=mQvCX653zLrUyRWEV6PUxV4AFKfGIDCsifgIAJDk9vlHHDaQ5EeSr9VYx6qY-JtVkmL8rG5I2FWNjBeNecbTmUkU4aey3RcaQwgmTx5UgrO2PIiHY9xUG9-PvJDZv1S0&new=1)
+ > 前言：人工智能和移动互联网技术的进步刺激了整个门禁行业的新一轮发展，为业内带来新玩家，也给整个传统门禁行业带来发展的新思路。任何一个改变人们日常行为的产品都离不开数次技术革新的支持。在这个信息技术...
+ ## [优化金属3D打印生产：逆向设计与金属增材制造软件](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=ow1W-I--pv-KGBcnAZgmAnFlunX8B*VsO*CPi9vjuEe1IbGAhPZpr3d9qnG--d7bvaW7MncuifyPNSV5qxKXffmvi6ujAIZyeGOn2nxW81uAcMykF-Vj9cda7wDrRGLd&new=1)
  > 主题：逆向设计与金属增材制造软件优化3D打印生产时间：2020年6月11日下午14:00-15:00直播讲师：3D Systems杨冰峰 余森义直播合作：南极熊Geomagic Design X 是业界最全面的逆向工程软件，它结合了基于特征
- ## [Zoom“区别加密”政策引争议! 端到端加密仅适用于付费用户?](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=kM*6WrThvw0AJ7fuKqq-piIxQ8uqDOTZBI*t3alBYd6qK4SiiVBA0ERyY4OBwmq9rlDvgRAliIqjgvzVhjPA6Qp1MvQ8i8moD3inj8qU2TfQkbRNyHEVwvaokc4WeHho&new=1)
+ ## [Zoom“区别加密”政策引争议! 端到端加密仅适用于付费用户?](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=kM*6WrThvw0AJ7fuKqq-piIxQ8uqDOTZBI*t3alBYd42TFjNexpJZS3iWHsa6ZwryNn2QcPGvyeVJghb2aic1hNsH*ziJxHpumjkRKnaZE9MAf6sO*pcKlhpdf4L0GjP&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月5日讯，近日据外媒报道，Zoom首席执行官于本周二透露，将不向免费用户提供端到端加密服务，只有付费客户才能享受该服务，这使得Zoom的免费用户安全...
- ## [\[报告\]中国轻卡发展趋势白皮书2020版(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=m3vIJA5hv53Bf9nsOyc9K7Mw2yxJ3B5LuaA-IiCM61750j2ZxpIKpv8qNroPBoBX2i-mO*jNADeiPfRc0Cqkq9ygUFX-pM5pK4Ts7DRN0fwXAtbQFF-jAf*mu8GpPAIp&new=1)
+ ## [\[报告\]中国轻卡发展趋势白皮书2020版(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=m3vIJA5hv53Bf9nsOyc9K7Mw2yxJ3B5LuaA-IiCM615D3Mau28CDhD05xcrVT5wTo3N4hbHnTl5-PHPuPFCQ4L17RP46q0XJT2pnI3-M-WxBsfVZgDKyZWPyyzdR4IsL&new=1)
  > 中国轻卡市场在经历政策推动的复苏期与结构调整的探索期后，进入稳步发展阶段，模式创新与效率驱动成为行业新的推手。在新的发展阶段，政策、经济、社会和技术宏观要素影响着轻卡市场产品性能、应用场景和商业模...
- ## [中国电信唐建军：5G组网对光通信器件模块的发展影响](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=zZKiGBvitg8Hz32tusat1gF*8VIuLZSwdMoj70qRJI9jh5pdWIUualY5OGQcycbo4b9TDL3cuAwPQPOf8QN2P4ZBaXL-QXCEIzQdjTecSsANA0WYXf7DINnrZW-d5ytT&new=1)
+ ## [中国电信唐建军：5G组网对光通信器件模块的发展影响](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=zZKiGBvitg8Hz32tusat1gF*8VIuLZSwdMoj70qRJI9LVHgeGp8r9fH-Bbi6EQRM5PWyiBZaTGUhwAGwGrxkDB8IDbMuoebQTrfIletT*HQVBYbuAzN-nMQon66WwKW9&new=1)
  > 新闻导读5月29日的讯石线上研讨会上，中国电信研究院光传输专家唐建军带来《5G组网对光通信器件模块的发展影响》的主题演讲，从5G共建共享及其需求，5G前传需求及方案，5G对光通信器件模块的需求三个方面阐述了5...
- ## [大数据时代，数据安全尤为重要](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=VuaYC1zSYly4B0bkFljPsx7IYQrtUOWleMyxJRMRCp*KC5vootbnTuyBaCHkNyXioOT4tjUcYiRQFxl8hDC1qtQMcwZ9f8oAt4QaFakVQN0=&new=1)
+ ## [大数据时代，数据安全尤为重要](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=VuaYC1zSYly4B0bkFljPsx7IYQrtUOWleMyxJRMRCp9WtVqWv9Us6LCEpW42Qd4CyjWe1HJBWhkxjr2jRkH-fhNuVgrm229pv40*5Pg6t3M=&new=1)
  > 今年5月至9月,“永不落幕的数博会——2020全球传播行动”系列活动持续展开。6月3日，一直关注着数博会的天津海量信息技术股份有限公司副总裁杨伟锋，就大数据服务、大数据生态圈、数据安全平等话题接受了本...
- ## [Wi-Fi 6到底能做什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=sXDge9KUzIQAGFzI*AO3R8QjXmJBry6Z5ofbWs3t4MmmyQv7amQynfK5kK3PM13P3hUBx9pZH1nWqqYsQgmYRrx*UTm0wNua*Is3wfzV3hZKZlRB2CiXsGuAMQ0Gh9hQ&new=1)
+ ## [Wi-Fi 6到底能做什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=sXDge9KUzIQAGFzI*AO3R8QjXmJBry6Z5ofbWs3t4MmARGBLYLfE4HIm*Y*pOWKTWS88OtvJ2ASzZFKc31Nf-9hPHVB8h9Ic33RjjpccPEZ-FI2jbfMcgTDUV7j8Bzob&new=1)
  > 1 OFDMAWi-Fi 5采用OFDM技术，而Wi-Fi 6采用OFDMA技术。两者有啥区别呢？如果把数据传输比作货运，OFDM技术一次只对一个用户发车，即使是一件小货物，车厢里空荡荡的，也要发一趟。上一个用户的货物发完了，再接...
- ## [20分钟、2000元……就能开一条区块链，来不来?](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=3aIc8Ntel9DPAStOiWvfNEsV0tF*TDlI-f4DferXP43cO2RWP7hwS-YJ6KXru-mWQgLTYHvP*wKuLCphmexIyYDB4F6R43f1HSQ2F2IR3ziYGwxKr1*A9MWpHGFLdpHJ&new=1)
+ ## [20分钟、2000元……就能开一条区块链，来不来?](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=3aIc8Ntel9DPAStOiWvfNEsV0tF*TDlI-f4DferXP40rfnqmNxLq2U9F4AxQ4xDV-Ye0h6iDdpBGwaB7vVWx**2vgGrHrY4I4XKwWQ2SpcsWS3yx6Uu2enUtaqSE7FLg&new=1)
  > ◎ 科技日报记者 张佳星“在没有区块链服务网络之前，为区块链提供的单纯云服务至少需要10万元，加上人工等成本，一个区块链应用的搭建没有几十万元是无法运行起来的。”5月底，中国移动设计院数字经济技术推进...
- ## [BAT 万亿加码新基建，智慧交通第一梯队已经形成?](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=rgnICJl1dXRxwf8OHibZmlGo6E7-uJy68AFcb65Z3usEd9UgG90BCHsXOCVcuwaCdjPIOfLibpxhKj-nAetHixUjLbgBhFzBLZFHVlJCdnZF*CG5Fp82xj-ItxylTpzP&new=1)
+ ## [BAT 万亿加码新基建，智慧交通第一梯队已经形成?](http://mp.weixin.qq.com/s?src=11&timestamp=1591345805&ver=2381&signature=rgnICJl1dXRxwf8OHibZmlGo6E7-uJy68AFcb65Z3uv9*iVmvnCW7pLQmtaXayqtW7hRqmXvYG5An9OPTZLXw17SoXn6jyWPvdNDU7dFIJesLRXwm3ajrIe1DPrZ-kgc&new=1)
  > 面对新基建为了产业带来的利好，相关行业的企业都在抢在数字经济的新高地，百度、腾讯、阿里在未来五年时间内相关投入将超过10000亿元。文丨AutoR智驾  诺一新一轮科技革命和产业变革正在兴起。每次革命的发生，...
- ## [中国5G周年“捷报”：基站和用户规模全球“双第一”](http://mp.weixin.qq.com/s?src=11&timestamp=1591329606&ver=2381&signature=hg3nudilt49NA-5h3iP*8wvbrb*In*dS920XXXxzDqCZleot*qDm-u5SwyX-aul6G8FFmvS0h3OZMXOK*Zqwgl6qu3KxHVHGEEmrDavR4Q2Y7D5GFaG*Fa2jkMJTrXFr&new=1)
- > 《Wow,5G》由腾讯新闻与IT时报联合出品，5G发牌一周年，消费者对5G认知和产业预期之间有一条尚未被跨越的鸿沟，我们试图弭平。30秒快读15G发牌一周年，中国已成为全球5G基站数量最多、5G用户规模最大的国家。2《...
 # IT 技术 
  ## [为CI/CD构建高性能的测试](http://developer.51cto.com/art/202006/618072.htm)
  > 为CI/CD构建高性能的测试
@@ -114,56 +134,56 @@ categories: IT NEWS
  > Linux-I/O模型详解
  ## [2021年云计算的主要发展趋势](http://cloud.51cto.com/art/202006/618116.htm)
  > 2021年云计算的主要发展趋势
- ## [微软被Counterpoint评为优秀物联网提供商](http://iot.51cto.com/art/202006/618242.htm)
- > 尽管竞争激烈（其中一些来自智能家居物联网），但微软仍被认为是目前比较好的物联网平台。
- ## [物联网项目实施的人为因素](http://iot.51cto.com/art/202006/618241.htm)
- > 调查结果显示，物联网项目成功背后的四个主要方面中，有三个与“人为因素”有关，而与技术实施无关。
- ## [医疗保健行业的5个物联网用例](http://iot.51cto.com/art/202006/618240.htm)
- > 物联网技术的发展将为医疗保健的未来带来更多令人兴奋的可能性。在引入物联网技术之前，患者与医生的沟通和
- ## [DinamicX 详解：如何让盲人也能在线购物？](http://zhuanlan.51cto.com/art/202006/618243.htm)
- > 本文分享手淘在使用 DinamicX 支持无障碍上的技术方案，并给出了相关示例，希望对移动端开发者有所启发。
- ## [关于容器安全企业应该知道的事](http://cloud.51cto.com/art/202006/618238.htm)
- > 容器是在新环境(例如测试环境)中运行软件的一种流行的解决方案。它“包含”整个运行环境，其中包括应用程序
- ## [零代码平台最适用的六类企业应用](http://zhuanlan.51cto.com/art/202006/618236.htm)
- > 概括来说，以明道云为代表的零代码平台主要用于企业中后台应用领域，尤其是围绕数据管理和工作流相关的应用
- ## [这7款办公软件，个个都是黑科技](http://news.51cto.com/art/202006/618237.htm)
- > office高效率办公一直都是职场人很感兴趣的一个话题，说到高效，自然离不开工具的选择，今天小编就给大家分
- ## [意识到数字安全问题和在线隐私 保护数据的七个优秀技巧](http://netsecurity.51cto.com/art/202006/618235.htm)
- > 如今，随着Internet访问量的增加，网络上的违规数量也在大量增加，以防万一。最近，在许多国家/地区，遭受
- ## [机器学习正在帮助Invisalign的患者呈现完美的微笑](http://ai.51cto.com/art/202006/618232.htm)
- > Align Technology的移动应用程序可以帮助Invisalign佩戴者按时完成任务，而机器学习和其他功能则有助于吸引
- ## [LG曝安全漏洞，影响过去7年的LG安卓智能手机](http://netsecurity.51cto.com/art/202006/618233.htm)
- > 研究人员发现了有个影响LG安卓智能手机bootloader的安全漏洞，利用该漏洞可以发起冷启动攻击，影响过去7年
+ ## [盘一盘：那些年企业在犯的网络安全错误！](http://netsecurity.51cto.com/art/202006/618276.htm)
+ > 尽管有证据表明在一些全球知名的企业组织中存在价值数十亿美元的网络安全漏洞，但企业仍然没有认真对待网络
+ ## [微信已支持改微信号！你的还改不了？亲测一招搞定](http://mobile.51cto.com/app-show-618277.htm)
+ > 盼星星，盼月亮。现在，安卓最新版的微信支持修改微信号了！今日，腾讯微信团队官方宣布，安卓最新版微信已
+ ## [六个好用的程序员开发在线工具](http://developer.51cto.com/art/202006/618275.htm)
+ > 网上可以找到前端开发社区贡献的大量工具，这篇文章列出了我最喜欢的一些工具，这些工具给我的工作带来了许
+ ## [调查：超过一半IT专业人员更青睐混合和多云架构](http://cloud.51cto.com/art/202006/618272.htm)
+ > 这项研究包括对250多个组织的调查，询问了他们对云的态度、云所面临的挑战以及云改变组织内部工作流程的方
+ ## [DeepMind发布Acme，高效分布式强化学习算法框架轻松编写RL智能体](http://news.51cto.com/art/202006/618271.htm)
+ > DeepMind 本周发布了一个强化学习优化框架 Acme，可以让AI驱动的智能体在不同的执行规模上运行，从而简化强
+ ## [数据中心在未来数据管理中的作用](http://network.51cto.com/art/202006/618268.htm)
+ > 近年来，对建筑数据中心的投资已趋于平稳。现在，使用数据中心的企业越来越希望更加有效地利用它们中的物理
+ ## [零代码与低代码快速开发平台的区别](http://zhuanlan.51cto.com/art/202006/618269.htm)
+ > 对于不太了解零代码与低代码的人来说，它们之间有什么区别?我应该如何选择呢?笔者在这里做个简单的介绍。
+ ## [垄断者 Google Chrome：曾经的屠龙者，如今也变成了龙](http://news.51cto.com/art/202006/618274.htm)
+ > 都 2020 年了，桌面浏览器还重要吗？答案是：重要，而且是非常重要。毕竟，只要用电脑上网，就无法避免使用
+ ## [零代码平台的“三免两减半”](http://zhuanlan.51cto.com/art/202006/618267.htm)
+ > 在企业软件定制开发领域，就是一个典型的重复发明轮子的领域，大部分围绕数据管理和工作流定义的企业中后台
+ ## [2020年十大开发人员职位](http://developer.51cto.com/art/202006/618266.htm)
+ > 哪个开发人员职位最抢手? 在本文中，我将根据最新数据和市场趋势探讨前十名开发人员职位。
  ## [写着写着代码就被带上了警车](https://blog.csdn.net/qq_35067322/article/details/106464569)
  > 
- ## [互联网裁员为什么专捡大于35的裁？](https://blog.csdn.net/harvic880925/article/details/106422594)
+ ## [35岁程序员连续被2家公司裁掉，入职事业编晒出福利，网友酸了](https://blog.csdn.net/qianduan167/article/details/106456196)
+ > 35岁程序员连续被2家公司裁掉，入职事业编晒出福利，网友酸了
+ ## [同学叫我一起创业，我不听，他现在月入10万，我羡慕死了，我已悟到了成功的秘诀！](https://blog.csdn.net/jonlan/article/details/106465119)
  > 
  ## [六一儿童节，小灰露个脸！](https://blog.csdn.net/bjweimengshu/article/details/106484995)
  > 六一儿童节，小灰露个脸！
+ ## [互联网裁员为什么专捡大于35的裁？](https://blog.csdn.net/harvic880925/article/details/106422594)
+ > 
+ ## [用python实现音乐可视化](https://blog.csdn.net/weixin_42718004/article/details/105664265)
+ > 
+ ## [Python 学生信息管理系统](https://blog.csdn.net/c727657851/article/details/106479565)
+ > Python 学生信息管理系统
  ## [2020年初，新征程，满怀期待，再出发](https://blog.csdn.net/solaraceboy/article/details/104432068)
  > 2020年初，新征程，满怀期待，再出发
- ## [六一儿童节，程序员写给女儿的一封信](https://blog.csdn.net/qing_gee/article/details/106490386)
- > 六一儿童节，程序员写给女儿的一封信
- ## [《教妹学编译原理》（五）语法制导（中）](https://blog.csdn.net/JAck_chen0309/article/details/105046319)
- > 
+ ## [Vue项目开发（路由、重定向、路由参数、动态路由匹配、编程式导航、路由嵌套）](https://blog.csdn.net/qq_39357822/article/details/106456344)
+ > Vue项目开发（路由、重定向、路由参数、动态路由匹配、编程式导航、路由嵌套）
+ ## [软件测试最常用的sql命令大全](https://blog.csdn.net/bo_mask/article/details/106501466)
+ > 软件测试最常用的sql命令大全
  ## [为什么物联网没有杀手级应用](https://blog.csdn.net/alitech2017/article/details/106497153)
  > 为什么物联网没有杀手级应用
- ## [Wi-Fi 6这么“6” 原来靠的是这些黑科技！](https://blog.csdn.net/csdnnews/article/details/106466771)
- > Wi-Fi 6这么“6” 原来靠的是这些黑科技！
- ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
+ ## [为什么本科以上学历的人只占中国人口的5%，但感觉遍地都是大学生？](https://blog.csdn.net/tony2278/article/details/104747191)
+ > 为什么本科以上学历的人只占中国人口的5%，但感觉遍地都是大学生？
+ ## [六一儿童节，程序员写给女儿的一封信](https://blog.csdn.net/qing_gee/article/details/106490386)
+ > 六一儿童节，程序员写给女儿的一封信
+ ## [攻防世界 blgdel](https://blog.csdn.net/xiaoqi199915/article/details/106503160)
+ > 攻防世界 blgdel
+ ## [《教妹学编译原理》（五）语法制导（中）](https://blog.csdn.net/JAck_chen0309/article/details/105046319)
  > 
- ## [教女朋友学习 vue的生命周期钩子函数](https://blog.csdn.net/weixin_43570367/article/details/105565891)
- > 
- ## [小姐姐手机被偷后发朋友圈，结果…](https://blog.csdn.net/qq_43380549/article/details/105781059)
- > 小姐姐手机被偷后发朋友圈，结果…
- ## [【相亲】95年高颜值妹子，喜欢上进的男生](https://blog.csdn.net/qq_35190492/article/details/105917014)
- > 【相亲】95年高颜值妹子，喜欢上进的男生
- ## [2020年6月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/106503428)
- > 2020年6月中国编程语言排行榜
- ## [打开摄像头，2D插画实时变动画，中国程序媛出品，Demo在线可玩](https://blog.csdn.net/QbitAI/article/details/106066050)
- > 打开摄像头，2D插画实时变动画，中国程序媛出品，Demo在线可玩
- ## [Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？](https://blog.csdn.net/loongggdroid/article/details/105570597)
- > Pandownload 开发者被抓了，但是其背后，百度难道不需要反思吗？
 # 人工智能 
  ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
  > 开源：教师评价系统
@@ -196,22 +216,24 @@ categories: IT NEWS
  ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
  > Istio组件日志设置
 # PM 
+ ## [2020年，转行数据分析师需要注意哪些问题？](http://www.woshipm.com/zhichang/3970610.html)
+ > 随着大数据在各个领域的应用越来越广，数据驱动产品和精细化运营已经成为企业经营的制胜法宝，相应地，数据分析师这个岗位也越来越受到关注。2020年，还能转行数据分析...
+ ## [产品分析报告 | 网易云音乐，差异化路线打造高质量音乐社区](http://www.woshipm.com/evaluating/3970589.html)
+ > 网易云音乐选择差异化路线，通过优质的歌单、评论区、Mlog等内容强化用户UCG社交属性，打造高质量的移动音乐社区，为用户营造社交共鸣与心理依赖感。目录：产品架构...
+ ## [产品经理摆摊往事](http://www.woshipm.com/pmd/3976977.html)
+ > 以我真的摆过地摊的经验告诉大家，摆地摊真的不是一件容易的事o(╥﹏╥)o我，是摆过地摊的，那会儿是在2015年。所以当眼下，地摊概念炒火了之后，我表示非常的淡定，甚...
+ ## [从心理学的角度分析，看李佳琦直播的你在看什么？](http://www.woshipm.com/it/3964498.html)
+ > 每天晚上8点15分，约有500多万人守在李佳琦的直播间里，每逢节假日这个人数还会更多，时长4个小时的直播里，每个在手机屏幕前的我们究竟在看什么呢？从心理学的角度分析...
+ ## [用户画像的十个误区，你入坑了吗？](http://www.woshipm.com/user-research/3967963.html)
+ > 用户画像是一个大家耳熟能详的词汇，在互联网界的提及率是很高的。很多企业在使用用户画像的时候往往会走入误区，本文梳理了十大误区，看看你入坑了吗？所谓用户画像...
+ ## [化解矛盾和解决“顽疾”，才能让地摊经济走得更远](http://www.woshipm.com/it/3968351.html)
+ > 在两会上，我们的总理提到了开放地摊经济。如今，各个互联网巨头也嗅到了商机，纷纷支持政府的这一响应，部分城市也开始陆续释放地摊经济。那么，开放地摊经济真的是长...
  ## [广告的底层逻辑：客户认知看板、广告运营五步法、广告投放九策略](http://www.woshipm.com/marketing/3969606.html)
  > 广告是一个动态的客户认知管理的过程，最终目标是和目标客户建立一种品牌偏好的客户关系。今天从认知心理学的视角，来解析一下广告的底层逻辑。为什么要做广告？广告...
  ## [如何用产品思维摆地摊月入三万？](http://www.woshipm.com/it/3973861.html)
  > 互联网冲浪这么久，如何运用产品思维摆地摊呢？本文将从PM作业视角暴力拆解这一命题，为广大即将成为地摊从业者的程序员、自媒体、设计、公关提供一些思路。01 摆摊儿...
  ## [线下课程 | 一场活动，80%薅完即走的羊毛党！裂变终结，增长失灵了吗？](http://www.woshipm.com/offline/3976345.html)
  > 越来越多人感慨 ，营销活动是越来越不好做了，活动玩法来来去去就这几样，而且获客成本高、羊毛党防不胜防。很多商家都在反馈说，活动砸了重金招来的却是薅完即走的羊毛...
- ## [拼多多与阿里叫板PK的背后，运营人要知道的三个“冷知识”](http://www.woshipm.com/operate/3970060.html)
- > 作为互联网电商巨头之一，拼多多有许多地方值得我们学习。本文将从用户、产品价值和增长这三方面的“冷知识”，探讨互联网思维的底层逻辑。一直以来，互联网思维这个名...
- ## [B站“稍后再看”功能拆解：和收藏功能有何区别？](http://www.woshipm.com/pd/3970195.html)
- > 本文对于B站的“稍后再看”功能展开了拆解和细化，并与收藏功能进行了对此分析，与大家分享。说到b站，它是我现在为止最喜欢的一个视频平台，每天花在b站上的时间平均超...
- ## [文案第18讲 | 地摊文案怎么写？浪哥这有一套宝典！](http://www.woshipm.com/copy/3968600.html)
- > 地摊文案的写作，其实是一个微型推销话术系统的搭建。与曾经学习过的文案写作逻辑，也有相似之处。本文给大家分享六个小方法，希望在大家摆地摊的时候，能够有所帮助。...
- ## [知乎的内容分发策略，及运行机制是怎样的？](http://www.woshipm.com/operate/3968104.html)
- > 作为一个优秀的内容问答社区，知乎在内容分发上的许多做法值得学习。本文将从三个方面展开讲解，推荐给对内容分发感兴趣的童鞋。知乎已然成为中文互联网世界最大的内...
- ## [Soul产品分析报告：我依旧期待着“命中注定”](http://www.woshipm.com/evaluating/3966616.html)
- > Soul作为一款弱社交软件，深深抓住了许多年轻用户的心。本文从市场分析的角度出发，深度剖析Soul是如何满足用户需求的。在网络四通八达的当代社会，遇见一个人的成本...
  ## [假如互联网人摆地摊...](http://www.chanpin100.com/article/111821)
  > 其实也不算转行~
  ## [深入浅出分销体系](http://www.chanpin100.com/article/111803)
@@ -230,19 +252,5 @@ categories: IT NEWS
  > 设计系统与技术前后端是否有对应关系？前后端的分离对于设计系统的设计有无影响？一起来探讨一下？
  ## [关于移动产品用户体验的7条设计准则，都是成功的经验！](http://www.chanpin100.com/article/111793)
  > get新知识
- ## [腾讯产品能力框架之通用能力篇（二）执行力](http://www.chanpin100.com/article/111812)
- > 以目标为导向，以结果为准绳。
- ## [在互联网与SaaS公司间，PM如何游刃走江湖？](http://www.chanpin100.com/article/111814)
- > 向左走，向右走，各有千秋。
- ## [你知道如何定义项目的成功吗？](http://www.chanpin100.com/article/111809)
- > 项目成功不是你的最终目标，而提高你的个人修养；利用项目这个舞台，团结一切可以团结的力量来实现你管理职位的不断提升。
- ## [聊聊资讯产品的迷惑功能：「阅读全文」](http://www.chanpin100.com/article/111799)
- > 阅 读 全 文
- ## [小家电行业的韧性与反脆弱性](http://www.chanpin100.com/article/111795)
- > 在即将到来的“618”，会有很多订单来自小家电，希望你在今夏购入的这些产品，仍能在明年夏天让你的生活更美，而非只是躲在角落里默默吃灰。
- ## [数字化客户管理，实现银行营销精准化、场景化、个性化](http://www.chanpin100.com/article/111792)
- > 没有获客难，只有不会玩！打造数字化客户管理体系，助力银行营销突出重围
- ## [产品经理如何破壳成长？](http://www.chanpin100.com/article/111789)
- > 前一阵子，还和小编Ella说好久没有写作了，不知如何开始，Ella说可以把半年来的经验总结一下，也许这就是契机的开始，刚巧和一些产品经理的朋友闲聊之后让我产生了一点想法，想要把这几年在产品经理的成长心路梳理一下，希望能够让刚刚踏入产品经理行业的朋友们有些许帮助。
 
     
