@@ -1,7 +1,7 @@
 ---
 title: 2020-06-10 IT News
 copyright: true
-date: 2020-06-10 12:03:29
+date: 2020-06-10 17:02:34
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -97,32 +97,46 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [高品质铝合金3D打印粉末价格大降一半，中体新材创新雾化生产线](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=WxSoQTpwANIL0BYt4qLbUczs84vmKrVv0KibqIuIGF1fl3V-t7pCEJQ*GhsAtsRXIB-dtjOlAU6Pjet-ASO2cbIx0OgE8KjfeXhX-2nFh7aU4FbHJDLUKVwuP5N6fGPQ&new=1)
- > 导读：两三年以前，不少想使用金属3D打印的人一听价格，就觉得太贵。但是现在，金属打印成本已经大幅下降了，市场需求开始出现一些规模化的应用。打印成本的下降，不单单是因为金属3D打印机设备的价格下降了，更...
- ## [数字基础设施新趋势：云原生数据库如何解决中小企业上云关键问题](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=hj2GXNcyj2OYwrvrmOa8y0swQHOf*XXp967uGc53HxP66Lljys*Q3FGUoHaw510Rt3QQIb3TrawjFXcG4xfs6O3o1OQ0YXzPBYBnPUhy31U=&new=1)
+ ## [Arm中国深陷控制权之争：董事长疑被总部免职，子公司称未发生变动](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=UOrYgR*9U9dJ*wHjfddprWeoZbrZpwnG*D7x*l-to4xf2h*Ivr3a6G0PhOfqaI*CDh-mtoux2UmcPSAuRDZ9sriTSyJiU-fRgV8x7KAmfdCCGjVls18WsGbnKxr1cwvN&new=1)
+ > 6月10日上午，机器之心收到安谋科技（Arm中国）有限公司就公司法定代表人、董事长以及CEO任免问题的声明，内容称：安谋科技（中国）有限公司（简称「安谋中国」）作为在中国依法注册的独立法人，依照有关法律法...
+ ## [你智能音箱自由了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=L6jYkTMhQP1SoNKpsfT0jk9bSL5RGfgxvhOjo6aSOSqNRZsuY1zURQA1oXJ0D7tBl2FYPF1trOLLlnBlHbtXBHwTM2Ap5Il8jGl4WgL95K8x6sVxQDuVBCGu5NmtV1vS&new=1)
+ > 茕茕 发自 凹非寺量子位 报道 | 公众号 QbitAI6.18将至，又到了电子发烧友们琢磨购物清单的时节。而在当下这个时间点，如果你的清单中有“音箱”这个品类，那么智能音箱便成了绕不开的话题。如今，智能音箱对于...
+ ## [联赢激光今日申购：募资5.81亿元用在何处?有哪些研发课题?](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=4gh8Uv1iLPANYBMFrQh4MzTDGK9XSxXb-bar5f1SBfukUjB6FDQIOoRFAi9*CXhEk7WxwNgBla4J8aqXhpC4b9IEtTkcBrMkqAage4nEsdg1j9dC7JlSjc74s38nnQWE&new=1)
+ > 联赢激光股票于今日开始申购，本次公开发行股份7480万股，发行价格：7.81元／股，单一账户申购上限21000股，顶格申购需配市值21万元。联赢激光成立于2005年，是国内专业从事精密激光焊接的设备制造商。公司集研...
+ ## [微软 Power Platform 在中国市场正式商用 无缝衔接微软智能云“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=trmef6VdjB-xlxX6oahCfYddt9iiysqgqAyi-mOQvOioSALMO2Yc8*dC-ZEHbcr8r9a4NdOy5lAADxXQk*4QOVJL4uAED2dZmtlCD6VZ8l5Rl27ZWIOM4ASPMq1sHSeD&new=1)
+ > （本文阅读时间：8 分钟）微软宣布云时代的低代码商业应用开发平台、由世纪互联运营的Power Platform已经正式在中国市场商用。作为微软推出的统一低代码开发平台，Power Platform提供了完全可视化、低代码的全民...
+ ## [手机APP月活哪家高?](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=cjfi2JlnzO6Koemy-QORrNBZ-F15gG08bpAoNtf5j5ii6Fm1flrGtbPHw5Fg6yeSG-g6qGDfbR59j4W36LKkzjWDHVcLUnS0YuK8XawqKfEhoheI-1iEtQCoEEgpEVFD&new=1)
+ > 你们手机里最常用的几个APP是啥？你最常用哪类手机APP？联通大数据5月手机APP月活排行榜新鲜出炉啦！3亿以上的15家都是各自领域的翘楚！当然，月活不代表一切各大APP都有自己的看家本领在各自领域独领风骚~2020...
+ ## [终于看懂了!通信协议 IIC 与 SPI 最全对比](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=A*Blq0eM3LcZGvco0by3F0bCFcx-kr1-*W6rgKUEClV5U5V1NXhPSW*59Yf0aecrkD6SjFA0eZc9ozumZMJAYluTMABYzRIFQtPwdCzBt1RG4WaMx*Lqp*KGsDa*FN5E&new=1)
+ > 现今，在低端数字通信应用领域，我们随处可见IIC(Inter-Integrated Circuit)和 SPI(Serial Peripheral Interface)的身影。原因是这两种通信协议非常适合近距离低速芯片间通信。Philips
+ ## [华为深圳智能生活馆：“场景满足感”重新定义智慧生活新零售](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=FQ24GpipHbrOxcszimSPbDnsMPIa45kvjp2HlibJL2Q3QwbmeK-7Nv9j09ryF4zR7VcfCMH-JXsF80LCpi0l3LtBNo8OmRp9Kx0szlwW7n2ls9pKW26zaEgsnnPvYci-&new=1)
+ > 消费能带来满足感，这毋庸置疑，而不买东西仅逛逛店也能享受满足感，这种情景过去通常发生在奢侈品零售中，比如只是看看爱马仕的橱窗都能让女孩子感叹连连，不愿离去，并且有了新的奋斗目标。这就是场景满足感。...
+ ## [Arm中国上演夺权大戏?董事长兼CEO吴雄昂被免职?内部人士回应：一切皆有可能](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=DUdcLPga*3TCj3QsH8NbOGkFG7edUfeadK9-wNmT8Q6Zs3WN-jZAmbxlKSABEDK*54KBhmGRWjiC6zzB25V1e6ySW6Bx0wWn4-GKf4ey8-W-MLhn2F1k1icA9J9iOy7C&new=1)
+ > 6月10日消息，据21世纪经济报道援引一名消息人士透露，Arm中国执行董事长兼CEO吴雄昂已被免职。“上一周一直在焦灼状态，还涉及到法人的替换等法律手续。暂时还没有对外公布。”▲Arm中国董事长兼CEO吴雄昂报道...
+ ## [如何通过决策支持系统筛选数据以做出更好的商业决策](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=yr2FSy8rkRr7Vn9YvK2ubRpNaujbnLkZCL8NLuiWVYr4LqdRbr26X9IGz5F28cJNa3FNS83LJ3WVcGlkLd*kkFmb0*Cedkkmxw9dMFh0y3TqPU814YCL7DV2cxoNM8Rw&new=1)
+ > 关键讯息，D1时间送达！决策支持系统会综合利用原始数据、文档、个人知识和/或业务模型来帮助用户做出决策。决策支持系统使用的数据源可能包括关系数据源、多维数据集、数据仓库、电子健康病历(EHR)、营收预测、...
+ ## [API的安全危机](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=OCjpDQk89kWnM-CntjR932LYmzKU03-s0sfWOoBZNxP5bNgBmY786lHDmzaUYXhT2MUgRIirOw*olS-l4A3kOBP*1py69CUKxE7Z4Qmro38LML0gj2HgALy6Em1hz-73&new=1)
+ > 安全牛评互联网商业创新和传统企业数字化转型都离不开API经济或API战略，可以说，API就是传统行业价值链全面数字化的关键环节，API连接的已经不仅仅是系统和数据，还有企业内部职能部门、客户和合作伙伴，甚至整...
+ ## [数字基础设施新趋势：云原生数据库如何解决中小企业上云关键问题](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=hj2GXNcyj2OYwrvrmOa8y0swQHOf*XXp967uGc53HxPsW8IliA*Cm1zWfpt2070pV52w4VTOvTTfgCfcXc5G5g1bHlqG1o1vJ1SKsNe9CnI=&new=1)
  > 经济观察网记者 陈伊凡 Oracle等传统数据库架构无法满足企业面临的业务挑战，电信、金融和政务等客户正在核心系统领域加速“去O”。基于这样的背景，6月9日，2020阿里云峰会，阿里巴巴副总裁、阿里云数据库负责...
- ## [中国农科院研发成功一项农药残留快速检测技术](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=EjQPrbyZSkrCocmNgaF*5J2-Ka683YztY4y8r7UiOGnHzZSowJNNvNbM209KqoVc3ea77*oxtEme5NsR2ltBI3iFB6TZQa84GV6U4DigpQChkA1xofw1jCxuxxsWh9ej&new=1)
- > 新华社北京6月8日电（记者董峻）中国农业科学院一个科研团队日前在农业污染物快速检测技术上获得新突破。科研人员研发成功一套快速检测系统，5分钟左右即可检出农产品中的多种农药残留。据这项研究的牵头人、中...
- ## [系统或遭完全控制? Cisco IOS路由器中存在严重漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=HOG1nxBZ*Sl1mTBWdg4c9i1Ci4baAkTHzHh3S-vt5YgY-jkmqsyp2JEqshi3JTMgkDS-nUTIL30I0ncr*HWF5xhSxmfOOeTKkT0wlg2NbltqlA8K6Lk5HsyRX8AT3V3H&new=1)
+ ## [高品质铝合金3D打印粉末价格大降一半，中体新材创新雾化生产线](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=WxSoQTpwANIL0BYt4qLbUczs84vmKrVv0KibqIuIGF34E-XdDOYgy3yDR54YtvW4XLcjVBnPPNK5vbqwCWjkiC*HNxOoYaxqHRADoCFUqpAjMukJ4h40LNJv8rr4Y8Mp&new=1)
+ > 导读：两三年以前，不少想使用金属3D打印的人一听价格，就觉得太贵。但是现在，金属打印成本已经大幅下降了，市场需求开始出现一些规模化的应用。打印成本的下降，不单单是因为金属3D打印机设备的价格下降了，更...
+ ## [系统或遭完全控制? Cisco IOS路由器中存在严重漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=HOG1nxBZ*Sl1mTBWdg4c9i1Ci4baAkTHzHh3S-vt5Yhc8XD0BWq1l1Jv3G6TqB8ymbSYw40roSFphmrHM8pvIznsSKk-SkBDpqr-PgN1Yb7mrBGq7m4IW8MExHGPByDQ&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月10日讯，近日据外媒报道，思科宣布将修复Cisco IOS路由器中的许多漏洞，其中包括十多个漏洞，这些漏洞正在影响该公司的工业路由器和交换机服务。据...
- ## [发牌一周年 基站超25万个 电信央企跑出5G“加速度”](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=OKIs5L1qtVirPWFjfmKNr2bGoinQcFeXz3aX8tpPBgvQiWUgF5*gAJKUsBzTOw*WEx7UtoK*q7yJeJ64WdDYvYvkYjN29*Hq-jtIMyw8SCE=&new=1)
+ ## [中国农科院研发成功一项农药残留快速检测技术](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=EjQPrbyZSkrCocmNgaF*5J2-Ka683YztY4y8r7UiOGnzpWkq9dzKthiLBUCJp-AhdTd8ZPyxSs2F2ojl5*t5UoOTKFjdmfe02p1pSQYL9zCR7nT5LeV*MawOB7yOhbzh&new=1)
+ > 新华社北京6月8日电（记者董峻）中国农业科学院一个科研团队日前在农业污染物快速检测技术上获得新突破。科研人员研发成功一套快速检测系统，5分钟左右即可检出农产品中的多种农药残留。据这项研究的牵头人、中...
+ ## [发牌一周年 基站超25万个 电信央企跑出5G“加速度”](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=OKIs5L1qtVirPWFjfmKNr2bGoinQcFeXz3aX8tpPBgvYyg-d52pLJTP0UVCjxREmLusQuqsJs6iw3L0QcoahVtsAAxg9o3ro8BiSIdbh*p8=&new=1)
  > 原标题：发牌一周年 基站超25万个 多领域迎应用新突破　　电信央企跑出5G“加速度”　　6月6日，我国5G商用发牌迎来一周年。一年来，重点城市和区域实现5G网络连续覆盖，5G手机进入千元机时代，5G助力远程医...
- ## [巧用大数据 智造麻花针](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=eFsRhT1QE--3G6IuwOrr42N4GHukG4L*VVDneilpUfnbiFr241vrTMnHt4GkY8b1bTProp-jKdCdXOC*OfDVwkfw3aR0WL89qhKyMfc4lgE=&new=1)
+ ## [巧用大数据 智造麻花针](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=eFsRhT1QE--3G6IuwOrr42N4GHukG4L*VVDneilpUfmGax6UioRViMx0qIKr61GajXSebf8MsYJLcLITlBOIKWzmzRG8FeAAqsLb0kBThGM=&new=1)
  > 设备利用率提高了18%以上、生产计划执行率提升了30%、产品均衡生产率提高20%以上……这些数据，是贵州航天电器股份有限公司加快大数据与制造深度融合取得的成果。　　6月9日下午，在贵州航天电器股份有限公...
- ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了!](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=D15pXsUrJ2GcSKY4*JvzrHuxt8YNBeFvHP7zsntLEp1-h1-pJcDFSCealEqZT-JMMBInJX0ioJ0I0Lqz7qPMppnVlkP-5Pad4fCS78*vAr7HbljEt9ADNTTWnCBbDztU&new=1)
+ ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了!](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=D15pXsUrJ2GcSKY4*JvzrHuxt8YNBeFvHP7zsntLEp3v2JtyieZv2sUWadSkAAgl2xd2kacP5F34jmQYHgockBxj7P1hXX08Mce40DiQkL*E03E-oblOIrTx70BvNFOH&new=1)
  > 关注短篇集，加☆星标☆，做个有想法的人 作者：才华水木君，来源：水木君说（ID：shuimujunshuo）感谢作者授权短篇集推送“美国又失算了”前段时间，孟晚舟案件再度审理的消息，让14亿国人看到了希望的曙光。（...
- ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=BIs7EEvfROD9M*VWr0M4olx2*lazsUClUu*1Klgrz2R*vRCW2PAXBBYwfN9CnB9PJzStiyeADyflxwpt9eZTjb0bAJLc1Nv0muro**6cUJAM9M2xlMC6noYJRZyBTV4K&new=1)
+ ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=BIs7EEvfROD9M*VWr0M4olx2*lazsUClUu*1Klgrz2TqtHyw*kPsVmLcClY4SzWH5-8lnYUx33eFKx4dWYSMnCoI5Ut8h5k6cSdbVJ76wD1SVhAGSeeS0YFYpvRiqSzB&new=1)
  > 作者 | 才华水木君来源 | 水木君说 (ID：shuimujunshuo) 袋鼠说选你想读的深度好文最近，美国作为我国手机大部分部件的供应商，宣布停止给中国供应，不得不说，这是一件令人恐慌的事。但是，中国能翻山越岭走到...
- ## [芯片|Semtech宣布PAM4 CDR平台推出产品 符合Open Eye MSA规范](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=gACRYoI3M4pTlDU10*BnZ-yiO91ai-IqV7AhlGh7byWUNLHhsimYgLqPofywCJr8UgWnEl-KtgWWrnPZOdZoLhbMd9ohCn6bhCfeGNTwDtIbzq8S-bOyf8WX0yyF9zNo&new=1)
+ ## [芯片|Semtech宣布PAM4 CDR平台推出产品 符合Open Eye MSA规范](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=gACRYoI3M4pTlDU10*BnZ-yiO91ai-IqV7AhlGh7byWpApxnz9y3CUaT*MoSCKFCawZOMQQCDjgEVaw9xU3x-v1HqW117ddQbzKXH5vyvavxp5AljINPiF*Za3cfbuN6&new=1)
  > 新闻导读Semtech宣布PAM4 CDR平台推出两款产品GN2558和GN2559，该芯片组具备产品导入能力。芯片组兼容200G SR4 Open Eye MSA规范。ICC讯 （编译：Aiur） 芯片供应商Semtech公司宣布PAM4
- ## [Protolabs推出用于金属3D打印的钴铬高温合金](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=yDHrUh53mGnoOC6bk*7JW72bqEyeZOt3UJBeDwN8KU9KXKYMge67cYeWPV67px2btUfOmko85OHW88nPn91YojQ*BD1xT2BaKens*JK7UarmT70f2IA-7m-Yf201iB8D&new=1)
+ ## [Protolabs推出用于金属3D打印的钴铬高温合金](http://mp.weixin.qq.com/s?src=11&timestamp=1591777806&ver=2391&signature=yDHrUh53mGnoOC6bk*7JW72bqEyeZOt3UJBeDwN8KU*yDr0omltKZwKVjiQMzwGFzIS9t9Ll2mdxGj57Pgpy9ubWnXcgOpzjGhXrRTMA3X8ZNqMvutWUW7qGsDQAeWBZ&new=1)
  > 数字原型专家Protolabs已为其金属激光烧结工艺推出了一种新型3D打印材料-钴铬合金。这家总部位于英国的公司认为，耐热，耐磨和耐腐蚀的材料将颠覆包括石油和天然气在内的许多行业，这些行业以前无法定制钴铬合金...
- ## [\[报告\]软件定义汽车，ADAS正加速(附26页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=1UU8giPf0gyfo8nZpul1gm*ChjiYf*abGMmHpPq2gb4gtYThtKipjDGWiDXtXLJa8c1O2ILUthzhhZ8r-5GF5Yx6Wpwn2akhPogaDpnXJz8PZQY6WIwYtivRen0czz0e&new=1)
- > 近年来，随着软件在整车中占比越来越大，汽车正从信息孤岛逐渐走向网联互通，以数据驱动的&quot;软件定义&quot;正在成为车辆融合应用的显著特征。ADAS系统是“软件定义汽车”这一概念促生的产物，快速崛起并带来了全新的汽...
- ## [用辅助驾驶赚钱，这事儿靠谱么?](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=jJ8s0*5ElnlAHu-msbLclRGoV-JkNqplD0aOhFolnz2klkgLlybpZ7jCXVQphOmySW8Pnn5yKyTqhid8mrgx2bqyG2RekSJOUtV7gUg0-hpb8ceNqNvPuzyQx8Y*8K7F&new=1)
- > 这门生意不好做......不管是燃油车还是还是电动车，都在朝着一个共同的方向前进，那就是——智能汽车。智能汽车的一大特性就是，软件定义硬件，要从「赚硬件钱」的思维转向从软件上摸索赚钱的门道，而在这里，「...
- ## [5G CPE市场需求显现：OPPO能否抓住机遇?](http://mp.weixin.qq.com/s?src=11&timestamp=1591759805&ver=2391&signature=NZxLkWbQ9AUoDJg*XA8mJmuc0L7113ACCqWSk58*wi7aIXBt5xYZHXgiIUImSH4FqkefeWmYlbRjADaB-d73Ore9DE6j0xnDBvIs0e6h72RIp09vq2ucEzfedz51b6ac&new=1)
- > 除了5G手机，5G智能终端的形态还包括5G CPE、5G工业模组等面向家庭和垂直行业的场景。今年三大运营商高层在多次演讲中提到，会大力发展5G泛智能终端，包括5G CPE，并鼓励终端厂商跟进。装有SIM卡的5G CPE，可为...
 # IT 技术 
  ## [为什么我们选择了MongoDB？](http://database.51cto.com/art/202006/618531.htm)
  > 为什么我们选择了MongoDB？
@@ -140,39 +154,43 @@ categories: IT NEWS
  > 2020年云计算行业发展现状
  ## [精简IT预算的11种方法](http://www.cioage.com/art/202006/618449.htm)
  > 精简IT预算的11种方法
- ## [物联网获得成功所需的优秀专家和技能](http://iot.51cto.com/art/202006/618563.htm)
- > 组织将需要许多物联网专业人员和不同的技能来启动他们的物联网项目，并且首先要了解影响物联网的许多组成部
- ## [零基础入门C++到进腾讯，你还差这份开源宝典](http://news.51cto.com/art/202006/618565.htm)
- > 近日，一位在读研究生的C++学习笔记爆红Github，因为，他就是凭借这份笔记斩获腾讯offer，关键他是从研一才
- ## [Linux pstore 实现自动“抓捕”内核崩溃日志](http://os.51cto.com/art/202006/618564.htm)
- > pstore文件系统(是的，这是个文件系统)是Persistent Storage的缩写，最早在2010年由 Tony Luck 设计并合入L
- ## [云计算或在两年内推动微软市值突破 2 万亿美元](http://cloud.51cto.com/art/202006/618559.htm)
- > 过去的几个月中，华尔街的一些分析师纷纷开始关注苹果、微软以及亚马逊谁能率先突破 2 万亿美元市值的大关
- ## [云成本优化将成为企业的重要事项](http://cloud.51cto.com/art/202006/618558.htm)
- > 冠状病毒疫情如今仍在蔓延，云计算用户因此预计这将推动云计算使用量的增加，从而加剧了优化云支出的需求。
- ## [抢了人类编辑饭碗的AI算法，会完胜吗？](http://ai.51cto.com/art/202006/618557.htm)
- > AI夺权，“备胎转正”的戏码，在媒体行业再次上演。5月底，微软宣布将解雇50名从事新闻报道筛选和策划的编
- ## [5年Python功力，总结了10个开发技巧](http://news.51cto.com/art/202006/618561.htm)
- > 查看函数的源代码，我们通常会使用 IDE 来完成。比如在 PyCharm 中，你可以 Ctrl + 鼠标点击 进入函数的源
- ## [一图看懂微信支付分有啥用](http://mobile.51cto.com/app-show-618553.htm)
- > 据悉，每个微信用户都拥有自己的一个分数值，且每月根据综合数据更新一次。达到一定的分值门槛，用户即可享
- ## [智能机器人是如何抗击新冠肺炎疫情的？](http://ai.51cto.com/art/202006/618532.htm)
- > 面对新冠肺炎(COVID-19)疫情带来的严峻挑战，科学技术是我们与之较量最有力的武器之一，多种高新科技正在加
- ## [机器狗的烦恼：网红练习生容易，商业实习生好难](http://news.51cto.com/art/202006/618556.htm)
- > 新西兰一片广阔无垠的草原上，羊群一边慢悠悠闲逛一边吃草，它们身后跟着一只牧羊犬。它在认真地完成自己
+ ## [“算透”用户，抖音为什么让人沉迷？](http://ai.51cto.com/art/202006/618597.htm)
+ > 抖音成为2020年1月美国下载数量最高的应用。谁不爱看可爱的小狗与顽皮的小猫？特别是在全球受新冠疫情影响
+ ## [老照片修复、上色一条龙：不会PS 照样“穿越时空”](http://mobile.51cto.com/app-show-618595.htm)
+ > 有人喜欢把数码照片做旧，还原胶片相机的质感，有人想把老照片修复，想将它永久保留。最近，vivo和OPPO就相
+ ## [在Python中创建命令行界面的优秀方式](http://developer.51cto.com/art/202006/618593.htm)
+ > 如果我想将输出记录到文本文件中，该怎么办?作为一个用户，您可以创建一个命令行界面来提供这些问题的解决
+ ## [使用 ActivityWatch 跟踪你在 Linux 中的屏幕使用时间](http://os.51cto.com/art/202006/618594.htm)
+ > ActivityWatch 是一款开源的隐私友好型应用程序，可追踪你在台式电脑或移动设备上的使用时间。
+ ## [微软Power Platform在中国正式商用：像PPT一样开发App](http://news.51cto.com/art/202006/618589.htm)
+ > 6月10日，微软宣布，云时代的低代码商业应用开发平台、由世纪互联运营的Power Platform已经正式在中国市场
+ ## [如何在Fedora Linux中安装Nvidia驱动](http://os.51cto.com/art/202006/618590.htm)
+ > 与大多数 Linux 发行版一样，Fedora 并未默认安装专有的 Nvidia 驱动。默认的开源 Nouveau 驱动在大多数情
+ ## [依图朱珑《人民日报》刊文：未来10年是AI算力的“超摩尔时代”](http://news.51cto.com/art/202006/618584.htm)
+ > 近日《人民日报》刊发了依图科技创始人、CEO朱珑的署名文章，他对人工智能发展给出了最新思考和判断。
+ ## [谷歌地图应用更新：Android与iOS版已加入COVID-19提醒功能](http://mobile.51cto.com/ahot-618583.htm)
+ > 谷歌刚刚为 Android 和 iOS 版本的地图应用引入了新的功能，以便用户能够及时知晓相关信息。搜索巨头在一篇
+ ## [7.5亿美元做代码转换？一个Facebook TransCoder AI就够了！](http://news.51cto.com/art/202006/618587.htm)
+ > 代码的迁移和语言转换是一件很困难且昂贵的事情，澳大利亚联邦银行就曾花费5年时间，耗费7.5亿美元将其平台
+ ## [广电确定打造“全国一网”，三大运营商的IPTV危险了？](http://network.51cto.com/art/202006/618582.htm)
+ > 6月8日，据媒体消息，“全国一网”股份公司将在今年6月30日，完成中国广电股份公司的挂牌，并在12月30日所
+ ## [再招5000人，阿里云专场招聘正在直播](https://live.csdn.net/room/bjchenxu/vVsg8RCt)
+ > 再招5000人，阿里云专场招聘正在直播
  ## [卧槽！红警代码竟然开源了！！！](https://blog.csdn.net/sinat_33224091/article/details/106596028)
  > 卧槽！红警代码竟然开源了！！！
  ## [2020年30岁IT人失业的一些感悟，希望对年轻人有帮助](https://blog.csdn.net/qq_37611270/article/details/106587859)
  > 2020年30岁IT人失业的一些感悟，希望对年轻人有帮助
+ ## [「视频」入Mac本仍眷恋微软系统，何以解忧？](https://live.csdn.net/v/17730)
+ > 「视频」入Mac本仍眷恋微软系统，何以解忧？
  ## [Java spring boot 实现支付宝支付](https://blog.csdn.net/fengxueliuke/article/details/106585809)
+ > 
+ ## [Unity3D-----寻路系统](https://blog.csdn.net/Studious_S/article/details/106177998)
+ > 
+ ## [字节跳动上班有多累？](https://blog.csdn.net/weixin_43870646/article/details/106597122)
  > 
  ## [若不是因为生活所迫，谁愿把自己搞得满身才华](https://blog.csdn.net/why_1639946449/article/details/105104717)
  > 若不是因为生活所迫，谁愿把自己搞得满身才华
- ## [字节跳动上班有多累？](https://blog.csdn.net/weixin_43870646/article/details/106597122)
- > 
  ## [面试官：换人！他连 TCP 这几个参数都不懂](https://blog.csdn.net/qq_34827674/article/details/106627403)
- > 
- ## [Unity3D-----寻路系统](https://blog.csdn.net/Studious_S/article/details/106177998)
  > 
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
@@ -180,68 +198,64 @@ categories: IT NEWS
  > 当HR压你价，说你只值7K，你该怎么回答？
  ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
- ## [移动端特效](https://blog.csdn.net/weixin_45773503/article/details/106576975)
- > 移动端特效
- ## [ARM体系中的存储系统的简述](https://blog.csdn.net/qq_40925547/article/details/106162068)
- > ARM体系中的存储系统的简述
- ## [续axios封装后加入请求拦截和响应拦截](https://blog.csdn.net/weixin_48429986/article/details/106588348)
- > 续axios封装后加入请求拦截和响应拦截
  ## [一个大一学生对世界的思考(随笔)](https://blog.csdn.net/scarecrow_sun/article/details/106587171)
  > 一个大一学生对世界的思考(随笔)
+ ## [ARM体系中的存储系统的简述](https://blog.csdn.net/qq_40925547/article/details/106162068)
+ > ARM体系中的存储系统的简述
  ## [面试了500个年轻人，发现混得好的，都会这5种说话套路](https://blog.csdn.net/yellowzf3/article/details/106045527)
  > 面试了500个年轻人，发现混得好的，都会这5种说话套路
 # 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
+ ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
+ > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
+ ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
+ > Istio组件日志设置
 # PM 
+ ## [运营新人福利 | 3年闲职，也不是名校毕业，0基础小白如何转岗做运营？](http://www.woshipm.com/open/4001756.html)
+ > 随着互联网的急速发展，每家企业都希望能够通过互联网触达自己的用户，并且与用户形成长期的紧密关系链。不论是通过新媒体还是自建官网，外拓渠道，都需要运用互联网运...
+ ## [快手需要《看见》，但不必刻意让“平凡”变“不平凡”](http://www.woshipm.com/it/3994732.html)
+ > “不要冷漠地走入普通人，那些不假思索就说这里不够潮的人，应该亲自来这里看看”，快手的《看见》在一定程度上比B站的《后浪》更让人接受，但是也不必刻意让“平凡”变“不...
+ ## [跳槽后，如何度过试用期？这几点要知道](http://www.woshipm.com/zhichang/3997396.html)
+ > 跳槽到一家新公司后，在成为正式员工之前会有一段试用期，这是员工和公司在相互考察的阶段。身处试用期，怎样判断公司是否适合自己？怎样向公司证明自己？本文将为你解...
+ ## [直播不止能带货，品牌营销才是重点](http://www.woshipm.com/marketing/3994537.html)
+ > 说起直播，你是不是第一时间想到的就是带货？其实随着直播的不断发展，越来越多的玩法也相继出现，其中品牌营销的优势越来越凸显。本文对品牌直播营销的方式进行了梳理...
+ ## [会跨界的金融从业者，才是互联网人才](http://www.woshipm.com/it/3994450.html)
+ > 金融业的特殊性要求了金融人员必须懂场景和运营。做到了金融和场景融合，开放心态，终身学习，你就是金融行业的互联网人才。本篇文章对人才标准展开了详细阐述，一起来...
+ ## [小学生的噩梦—钉钉，它的魔力在哪里？](http://www.woshipm.com/evaluating/3563532.html)
+ > 2020年的疫情使得中国的在线办公市场呈井喷式发展，钉钉一跃成为其中的佼佼者。它是怎么做到脱颖而出的？它的发展给其他企业带来哪些启示？本文将从六个方面进行分析，...
+ ## [产品经理如何快速晋级提升？给你4个建议](http://www.woshipm.com/pmd/3992893.html)
+ > 升职加薪，是职场不变的话题。它与个人能力成长速度有关，也与环境、时机、运气有关。有的人从产品经理升为产品总监需要5年，有的人可能10年也未必能够实现这一步跨越。...
  ## [爱奇艺会员健康度：指标监控体系设计](http://www.woshipm.com/pd/3986570.html)
  > 爱奇艺作为一款视频播放产品，会员收入占了很大的比重。本文从VIP会员转化分析、建立会员业务指标体系，这两个方面来看看爱奇艺会员的健康度，enjoy~背景：2019年爱...
  ## [产品体验报告|力扣，从刷题工具到极客平台](http://www.woshipm.com/evaluating/3979675.html)
  > 乐扣是一个为全球程序员提供IT技术职业化提升的平台，被誉为编程“刷题神器”，近年来它正努力从一个刷题工具转向极客平台。本文是力扣的体验报告，从七个方面进行全面分...
  ## [产品经理如何更好融入工作？](http://www.woshipm.com/zhichang/3458517.html)
  > 无法专注，注意力难集中，工作效率低下，得过且过，被动工作，从新一年的开头一直焦虑到年尾，如果你正面临这样的问题，首先想想如何找到解决办法，别让低效率又再持续...
- ## [通用设计：VR虚拟培训系统设计](http://www.woshipm.com/pd/3982326.html)
- > VR技术带来了一个非常美妙的应用场景，整个行业都在努力让用户更好的在虚拟世界里行走。本篇文章分享了VR虚拟培训系统的设计方案与模型处理步骤，带领我们更具体地了解V...
- ## [斗鱼热闹，虎牙专注——简析游戏直播双雄的异同](http://www.woshipm.com/evaluating/3987890.html)
- > 游戏直播经历数轮洗牌后形成了斗鱼虎牙的双寡头格局。那么游戏直播赛道有何特点，斗鱼虎牙之间又有何异同呢？本文从斗鱼虎牙的数据上分析二者的明显差异，之后分析游戏...
- ## [公开课 | 入门漏掉这个重要环节，你就离优秀产品人很远](http://www.woshipm.com/open/4000664.html)
- > 说到入门产品经理，很多0经验的产品小白还是习惯性地拿复习考试的学习思维去套，觉得看书学会理论，看视频学会Axure操作就算是入门了。如果你是用这种方式在学习，那...
- ## [全球化背景下，跨国多语言学习社区该如何发展？](http://www.woshipm.com/it/3966913.html)
- > 随着全球化进程的加快，越来越多的国人有学习外语的需求。而学习一门外语最好的方法就是与母语者沟通，于是跨国多语言学习社区应运而生。本文作者从五个角度出发，全面...
- ## [当你在微博点赞时](http://www.woshipm.com/it/3993159.html)
- > 对于内容生产者而言，想要持续生产内容，往往需要持续的正向反馈。点赞行为如何给内容生产者带来正向反馈呢？微博是社交媒体，这个结论应该没什么争议。什么是社交媒...
- ## [抢了人类编辑饭碗的AI算法，会完胜吗？](http://www.woshipm.com/ai/3993035.html)
- > AI夺权，“备胎转正”的戏码，在媒体行业再次上演。AI将在取代人类编辑的战斗中取得最后的胜利吗？本文从AI算法推荐的上位和争议中，来探究下AI算法与人工编辑推荐可能的...
- ## [关于CRM你可能不知道的七件事](http://www.woshipm.com/pmd/3971274.html)
- > CRM是一个经久不衰的话题，对于它也有众多讨论。产品经理在工作当中也时常会碰到，但是CRM的真面目你真的了解吗？本文从七个角度对CRM知识，并对其在工作中的实际应用展...
  ## [拼多多产品分析报告](http://www.chanpin100.com/article/111863)
  > 2020年5月，拼多多意已有月6亿活跃买家，市值722亿美元。作为社交电商行业的头部应用，拼多多的成功经验，对社交电商行业的发展有很多启发和借鉴意义
  ## [一切数据业务化：系统性落地数据驱动的五个方面](http://www.chanpin100.com/article/111865)
