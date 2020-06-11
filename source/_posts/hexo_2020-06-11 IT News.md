@@ -1,7 +1,7 @@
 ---
 title: 2020-06-11 IT News
 copyright: true
-date: 2020-06-11 10:01:39
+date: 2020-06-11 12:01:41
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -101,21 +101,27 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [5G网络覆盖 息烽县主城区和工业园区](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=idOQSNBEx8TpPJkOslpDE2QQUTkJ5HrG5pa91wYWZl4OsytfDBL2cbnfqh0wy675cf3-i-o3O6jkcPMRIFNZMbeW-ppXNNobp4ZcV1CtD5g=&new=1)
+ ## [优化金属3D打印生产：逆向设计与金属增材制造软件](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=RgkywI-HtYhzJEBtEaKxQOzHApYQhqm-lEVdOXvhJSsnglaqvEY4v4mR1Pct8E2dRGyVsjy51FHoUuq4YET1vLms13qCb051wlovQ5ZRJ1md5iqwchZV6ytmjLnkbnSs&new=1)
+ > 南极熊导读：金属3D打印的实际生产中，如何才能制造出合格的零件，如何才能降低成本？下面这次直播，可能帮助到你少踩一些坑。主题：逆向设计与金属增材制造软件优化3D打印生产时间：2020年6月11日下午14:00-15:...
+ ## [5G网络覆盖 息烽县主城区和工业园区](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=idOQSNBEx8TpPJkOslpDE2QQUTkJ5HrG5pa91wYWZl4wuxPTohRtYBNTeX43XRKLTie8J4Tm-jd8c3Ccck1Rrso0PcFyzlsHsEg9KCV9PtM=&new=1)
  > 本报讯 记者近日从息烽县工信局获悉，截至今年5月底，该县已投资8000余万元，建成了35个5G通讯基站，实现了主城区、工业园区5G网络覆盖。　　为加快县内5G网络建设步伐，近年来，息烽县强化顶层设计，制定了...
- ## [关注|仕佳光子IPO过会 将登陆科创板!](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=IiLGC90VxYoY63ysl6spCGvb8vbcUIETJ3BxpIRMjWUgkNWoCwzu2vp1IkGzQkoinfMTtTweUQRshfAp8qQgC4Ut9t5U5y-Nw22l*pFrO*YPUX2et0m5mDIbfdgzqZ0M&new=1)
+ ## [后疫情之下 疑似俄罗斯黑客正在针对德国COVID-19医疗机构](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=SipfJq02tpWhMsCTmUR8AHaNo39cqcwHoJIv4hK48jtw9LerOGFbDAoSmLJ9dia3AYVNb6lKWZX3gygRRHYji3-fQkiHQUq0h6HRTlIG*5alUnsw8ZSMJGFBBStpe7n8&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月11日讯，据IBM周一报道，近日德国政府招募了几家跨国公司帮助其获得用于治疗COVID-19患者的个人防护设备(PPE)，但是，据悉其中一家公司已成为网络...
+ ## [中小险企“防火墙”有点弱 监管喊话有漏洞抓紧补](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=P1WqL5sY79hS90i1inKzRunbwHZ*KM4i20TI9Cjn-PcQ9IDU9VNVUipPLqALXRCvcDqO57VZi7TzSibE5UvhQvSPG*J6zoAUhdjXhhILSHs=&new=1)
+ > 自去年银保监会启动网络安全专项治理工作以来，持续组织开展了一系列风险排查和整治工作，银行保险机构网络安全管理能力进一步提升。据上证报记者独家获悉，2019年，主要保险机构信息科技直接投入330多亿元...
+ ## [关注|仕佳光子IPO过会 将登陆科创板!](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=IiLGC90VxYoY63ysl6spCGvb8vbcUIETJ3BxpIRMjWXQkt8kbcjej4pDVr71EiBFL9FgY-XWRjm3pS8rcxMdoqKP72jA3b04iptaA4FuWh6VRE72Oi-O72moWCmGrsyA&new=1)
  > 新闻导读上交所科创板上市委员会公告，河南仕佳光子(首发)获通过。本次仕佳光子拟发行股票数量不低于4,600万股，拟募集资金5亿元，用于阵列波导光栅(AWG)及半导体激光器芯片、器件开发及产业化项目、年产1,200万...
- ## [2020 DEMO CHINA创新中国春季峰会暨企业创新与企业创投峰会举行](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=v8Njj7HH3yn9YZoiAaZ4GDPMga0kI-GxjjRqsn9h078OGyTuSGHuGnOUZje-kr*fBP4x46VZA*5ilosksTs4uNByytuQZOGlffVljo33kGPcBQrR9MShUEgftnC4eiz8&new=1)
+ ## [2020 DEMO CHINA创新中国春季峰会暨企业创新与企业创投峰会举行](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=v8Njj7HH3yn9YZoiAaZ4GDPMga0kI-GxjjRqsn9h07-FFR4dgLF7RiB9vEiSlnIxJNsGqt7WMYg*BEXSW7hkMRX8sB0871SqlMSYGwG1MMePUR6wTSU3K41KKNQvQudc&new=1)
  > 6月9日~11日，由创业邦主办的2020 DEMO CHINA创新中国春季峰会暨企业创新与企业创投峰会在线上举行，这是DEMO CHINA 亮相十三年来首次采取纯线上数字会展及直播的形式。创业邦邀请了来自企业创新、企业创投、一...
- ## [北京“新基建”计划：今年建3万5G站，增5万千兆用户](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=aorIBCtsv46JsgOy8OnFo7Wan4*VYXyzHp7DOGUGlcMcum6Ka6Fj6tc7hb-CuOctsp4hl0h1OgUzQfAbDGi0Hb4Ej4EmvzAcKdAcZmRd14Td-w3dwhjnMwneTe4TRkb-&new=1)
+ ## [北京“新基建”计划：今年建3万5G站，增5万千兆用户](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=aorIBCtsv46JsgOy8OnFo7Wan4*VYXyzHp7DOGUGlcMbNvubPZMq-K5gR4F0Nd87QvqpElBOTYRMbS6vK4RREWlHlzTFPuEAfDc-vwG*OZn5aXpA9Ipw8IVI3v4HIxke&new=1)
  > 近期，北京市发布了加快新型基础设施建设行动方案（2020-2022年），在建设新型网络基础设施部分，北京市提到5G网络和千兆固网的发展规划。在5G网络方面， l  北京要扩大5G建站规模，加大5G基站选址、用电等支持...
- ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了!](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=ct1yltPZAcKiCSml4vpM9ZhCDx6afCAztL1eApdAdCfrKuLFLPJw622*I14c-22FfhT5-P2i7FmghugHX7LknOwPi0rWrdoC8FzvvndYVmVtkmyHXy3maVZIWXGZA42r&new=1)
+ ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了!](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=ct1yltPZAcKiCSml4vpM9ZhCDx6afCAztL1eApdAdCdANbYHUFlvko9-P0bN3llruvTo7uQNhEtCRYeZMvr3q0V7-g9m0enWGWt4VGMvXBqeidZbJNNhI4Jotb1*hs79&new=1)
  > 文丨才华水木君来源 | 水木君说（ID：shuimujunshuo）01美国又要失算了前段时间，孟晚舟案件再度审理的消息，让14亿国人看到了希望的曙光。（来源：CBC）可加拿大法院却以孟晚舟符合“双重犯罪”的标准，再次把...
- ## [新基建时代，我们面临两大挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=HQDAGIxf83AGUdH7BRfsCkF316pu-TAV66FyeXyKwi9l3QahrGySuS5ORcffdvrme4d3RB-ikMYMkalx2dDbQHxndBvfHtY7aF*JaMmqL8as*A-E6Qhtn*M32fav*Zj3&new=1)
+ ## [新基建时代，我们面临两大挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=HQDAGIxf83AGUdH7BRfsCkF316pu-TAV66FyeXyKwi-8*3i1tEKrVab9HCXaqtR9455eMPQqUipMyhkAC01tMnH3amRJLsJDbkcVx8NImuRmg3MUg-BpXkEs1MMu3RBV&new=1)
  > 【摘要】需要早作预防，不能让它们成为变成未来的&quot;灰犀牛&quot;。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体对整个信息产业来说，过去这几个月，是一个关键的拐点。一场突然袭来的新冠肺炎疫情，让信息科技与社会...
- ## [6G需要1000亿个基站](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=5Igh1MrwIny6Iru84GXuyv8*aK2I7tNuCssn8yeYMoFBhC1DcsiZEe09yVsrwmvAGNx4Jpfix8ihhSzE3HmfwZCOyHyk8FPdj0PDp46KIb8MmMjevWxjaFCkcCGNG-i7&new=1)
+ ## [6G需要1000亿个基站](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=5Igh1MrwIny6Iru84GXuyv8*aK2I7tNuCssn8yeYMoH93ipUYl9asG8vvPP76fvNauCVfQWKYSxK2pahgp5qXS9f*gvyAfrRWeT8-R4KjdgcPikPfiuslfAbZJpbS8h5&new=1)
  > 近日，《日经亚洲评论》报道，随着多国陆续商用5G网络，6G技术争夺战也随之展开。在这场6G争夺战中，目前韩国和中国处于领先地位，日本的目标是迎头赶上中韩两国，而美国则在拼命的推动创新以重获领导地位。继全...
- ## [5G To“道”，华为助力北京建成首条智慧型高速路](http://mp.weixin.qq.com/s?src=11&timestamp=1591839074&ver=2393&signature=30Dvv2a*57I3DCUiMEPTgPe3RxgwBaKr*CWKIp2e80OmMkTLb*gGWYPk1i-DLyAGHZ3M-rPmfDZOKk2UvditNpP8Pp66OcGhQ2LcZyP28qrckOEbI4Xp6N52QSoSj38t&new=1)
+ ## [5G To“道”，华为助力北京建成首条智慧型高速路](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=30Dvv2a*57I3DCUiMEPTgPe3RxgwBaKr*CWKIp2e80Nl5NUu73nufA6BMBFbY5PWB*P4FzUlkyuVrhGonxCXD5zNKilAc5cMMJqVBn6W6DbZMHQ8rstRD0gL5yOv7CZG&new=1)
  > 4G改变生活，5G改变社会。5G技术开启了万物互联，也成为新ICT技术的聚合器，帮助企业在数字化转型中加快脚步。5G To B时代下，交通成为5G率先落地的行业之一，5G+智慧交通应用场景被提上日程。而智慧交通所要求...
 # IT 技术 
  ## [如何用ELK搭建TB级的日志监控系统？](http://netsecurity.51cto.com/art/202006/618624.htm)
@@ -134,32 +140,30 @@ categories: IT NEWS
  > 机器学习“调音师”：如何及何时重新调校ML
  ## [2020年十大数据分析和BI平台及工具](http://developer.51cto.com/art/202006/618591.htm)
  > 2020年十大数据分析和BI平台及工具
- ## [Andrew Ehlers：以数据角度出发用生态思路推进](http://network.51cto.com/art/202006/617311.htm)
- > 斑马技术全球技术与解决方案战略规划总监 Andrew Ehlers 与多家媒体进行了一次对话，对斑马技术整体技术与
- ## [数字化转型失败的十个原因](http://news.51cto.com/art/202006/618634.htm)
- > 文化冲击、竞争优先权、抵制变革和人才匮乏，如果您遇到了这些问题，则可能需要重新评估您的数字化转型工作
- ## [企业对控制和可见性的需求仍然减缓云计算应用](http://cloud.51cto.com/art/202006/618629.htm)
- > 当云计算的应用突然变得重要时，它们并不能神奇地变得更可靠。在当前的冠状病毒疫情期间，企业对云平台提供
- ## [如何为云计算和批发数据中心提供灵活电源？](http://server.51cto.com/Datacenter-618628.htm)
- > 全球排名前五的数据中心房地产投资商的总市值接近1000亿美元，而全球十大数据中心运营商的总收入约为180亿
- ## [动静分离架构，究竟是啥？](http://zhuanlan.51cto.com/art/202006/618627.htm)
- > 前两天简单介绍了“前台与后台分离”的架构设计准则，又有水友提问：能不能顺带介绍下“动静分离”的架构设
- ## [人脸识别禁令来袭：科技公司该何去何从？](http://ai.51cto.com/art/202006/618626.htm)
- > 去年，俄勒冈州的波特兰市准备通过一项新的人脸识别禁令，该政策的颁布会完全阻止政府及私企使用这一技术，
- ## [我尤其喜欢用的 5 个 Ansible 模块 | Linux 中国](http://os.51cto.com/art/202006/618625.htm)
- > 回顾一下我多年来的 Ansible 剧本和角色的 Git 仓库，我发现我只用了 35 个模块。当我回顾这 35 个模块时，
- ## [现网中必用的NAT地址转换技术，理论+实战，三分钟快速掌握](http://network.51cto.com/art/202006/618623.htm)
- > 网络地址转换技术NAT(Network Address Translation)主要用于实现位于内部网络的主机访问外部网络的功能。
- ## [SDN网络架构：三个层次、三个接口](http://network.51cto.com/art/202006/618622.htm)
- > 众所周知，SDN是控制面与转发面分离的一种网络，它有开放的可编程接口，可以对网络实行集中控制，从而实现
- ## [数据仓库：OLTP与OLAP查询](http://database.51cto.com/art/202006/618620.htm)
- > 相比之下，数据仓库是一个独立的数据库，分析人员可以查询其内心的内容，而不会影响OLTP操作。数据仓库包含
+ ## [运维必看：日志标准化必须面对的 4 类问题](http://news.51cto.com/art/202006/618655.htm)
+ > 在很多安全分析类产品建设的过程中都会涉及到关联分析，比如日志分析、soc、态势感知、风控等产品。
+ ## [5G 和 Wi-Fi 6 之战](http://network.51cto.com/art/202006/618653.htm)
+ > 我们听到的5G承诺是更高速的连接、更低的延迟和无处不在的覆盖范围；事实是，你可能会获得其中的一个或两个
+ ## [数据挖掘的10大算法我用大白话讲清楚了，新手一看就懂](http://news.51cto.com/art/202006/618650.htm)
+ > 数据挖掘主要分为分类算法，聚类算法和关联规则三大类，这三类基本上涵盖了目前商业市场对算法的所有需求。
+ ## [5G发展渐成燎原之势，中国有望领跑](http://network.51cto.com/art/202006/618649.htm)
+ > 5G是近年来各国都颇为看重的新一代通信技术，商用布局争前恐后。其不仅能大幅提升移动互联网业务能力，还将
+ ## [云原生安全性如何保护无形资产](http://cloud.51cto.com/art/202006/618647.htm)
+ > 很多企业对管理IT设备并不感兴趣，只对其结果更感兴趣。他们希望快速交付软件，并专注于其核心产品或服务。
+ ## [远程工作团队的4个优秀实践](http://news.51cto.com/art/202006/618643.htm)
+ > 组织在疫情期间明智地处理远程工作转型，可能会为组织提供一个加强其工作场所文化，并改善团队合作成果的机
+ ## [亚太地区智慧城市人流分析解决方案的发展](http://iot.51cto.com/art/202006/618641.htm)
+ > 预计在不久的将来，PFS将在新加坡、澳大利亚、新西兰和韩国等国家蓬勃发展。这主要归因于ICT网络在城市规模
+ ## [苹果 15 年大轮回：Mac 选择 ARM，正如当年乔布斯选择 Intel，但变数更多了](http://news.51cto.com/art/202006/618645.htm)
+ > 苹果 Mac 将转向 ARM 架构，已基本上成为定论。不仅如此，连官宣的时间都已经基本上确定了：就在 2020 年
+ ## [2020-2030年全球5G设备市场预测分析](http://network.51cto.com/art/202006/618637.htm)
+ > 尽管受到新冠病毒COVID-19的影响，到2030年，全球5G设备市场将达到459.6亿美元，在2020-2030年期间每年增长
+ ## [当前大热的YOLOv4是如何炼成的？细数那些小细节](http://news.51cto.com/art/202006/618651.htm)
+ > 前段时间，突然发布的YOLOv4成了计算机视觉领域一大热点新闻。这个目标检测任务的 SOTA 模型究竟有何创新
  ## [卧槽！红警代码竟然开源了！！！](https://blog.csdn.net/sinat_33224091/article/details/106596028)
  > 卧槽！红警代码竟然开源了！！！
  ## [公司招一个普通程序员，4天就收到1200份简历，HR：IT人满为患？](https://blog.csdn.net/qianduan167/article/details/106606532)
  > 公司招一个普通程序员，4天就收到1200份简历，HR：IT人满为患？
- ## [「视频」如何用AI快速产出有趣的动画短视频](https://live.csdn.net/v/20865)
- > 「视频」如何用AI快速产出有趣的动画短视频
  ## [项目实战：Qt+OpenCV激光射击游戏（识别激光、识别圆）](https://blog.csdn.net/qq21497936/article/details/106647346)
  > 
  ## [给最近要离职的朋友一些建议 No.190](https://blog.csdn.net/u010459192/article/details/106610541)
@@ -178,36 +182,65 @@ categories: IT NEWS
  > 程序员，咋总是这么累呢?
  ## [会做菜就会编程？一篇写给从未编程过的人的入门教程](https://blog.csdn.net/alitech2017/article/details/106626139)
  > 会做菜就会编程？一篇写给从未编程过的人的入门教程
- ## [终于弄明白 i = i++和 i = ++i 了](https://blog.csdn.net/qq_44377709/article/details/106643703)
- > 
  ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
  > 当HR压你价，说你只值7K，你该怎么回答？
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
+ ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
+ > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
+ ## [华为开源深度学习框架MindSpore背后的商业野心](https://blog.csdn.net/gshengod/article/details/105205502)
+ > 华为开源深度学习框架MindSpore背后的商业野心
+# 人工智能 
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [「视频」如何用AI快速产出有趣的动画短视频](https://live.csdn.net/v/20865)
+ > 「视频」如何用AI快速产出有趣的动画短视频
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
 # PM 
- ## [产品也有生命周期？有而且很重要](http://www.woshipm.com/it/4000704.html)
+ ## [“私域流量”真的是生意的护城河吗？](http://www.woshipm.com/it/4002037.html)
+ > 不是所有的商品都适合私域流来变现，盲目把它当作抵抗疫情的救命稻草，只会让你的钱打了水漂。所以在决定去做私域流量的时候，你的先思考好，你商品是真的适合吗？在...
+ ## [公共场合服务机器人的设计框架与思路](http://www.woshipm.com/pd/3994375.html)
+ > 这些年，谈论人工智能的人很多，谈论机器人也很多。特别是疫情之下，对服务机器人的需求猛增，行业迎来了快速的应用和发展。文章从用户视角出发，对服务机器人的设计要...
+ ## [快消品数据中台：算出渠道看不见的问题](http://www.woshipm.com/marketing/4001638.html)
+ > 在营销推广的过程中，我们往往只会关注肉眼可见的问题，而更深层次的问题需要用数据来发现。用数据不仅能够发现隐形问题，还能算出办法。本文将从五个方面展开介绍，对...
+ ## [B端产品化及运营的思考总结](http://www.woshipm.com/pd/3988111.html)
+ > 由于B端产品的种类繁多，外加一些方法论属于公司机密，市面上B端的产品书籍始终不像C端书籍那么丰富。从事了一段时间B端产品，看了好多C端书籍，配合着自身的经历，结合...
+ ## [体验课 | 地摊经济的背后，值得我们学习的营销增长策略有哪些？](http://www.woshipm.com/open/4005477.html)
+ > 随着疫情逐步好转，国家政策对地摊经济的大力支持，大街小巷里雨后春笋般涌出了很多地摊小贩，许多白领也纷纷把自己的职场技能P成地摊货品，晒在朋友圈。为什么曾经被...
+ ## [以变电站场景为例，分享下智能监控平台的方案与思路](http://www.woshipm.com/ai/3995359.html)
+ > 最近几年，随着物联网、大数据等技术的成熟和发展，传统的安保行业也发生了翻天覆地的变化，智能监控就是其中之一。这篇文章，作者以变电站的场景介绍智能监控平台的方...
+ ## [聊一聊几种常见的数据可视化](http://www.woshipm.com/data-analysis/3999775.html)
+ > 本文还是以对话的形式，用简单清晰的话语来跟大家通俗的解释，什么是数据可视化，在日常工作中，有哪几种常见的数据可视化。数据产品经理老曹，自从入职了这家初级规...
+ ## [谁能限制拼多多？可能是直播](http://www.woshipm.com/it/4000839.html)
+ > 如今电商发展中，拼多多是当之无愧的巨头之一，它的低价促销让无数用户“真香”。但是直播的火热，让拼多多感受到了压力。直播是否会限制拼多多的发展？两者未来会如何发...
+ ## [如何设计一款好的产品？](http://www.woshipm.com/pd/3971984.html)
+ > 作者通过自己的实践后，整理出的关于产品设计的一个论点——一个好的产品应该是情、趣、用、品皆具备，只有这样才能设计出一款好的产品。有一次学生问我，老师，我们学...
+ ## [产品也有生命周期？有而且很重要](http://www.woshipm.com/pd/4000704.html)
  > 一个产品从诞生到衰退称为其生命周期，关注产品的生命周期有利于更好地调整发展策略，促进产品发展。本文将从三个方面对产品生命周期展开介绍，希望对你有帮助。一、...
- ## [通用设计：指挥调度系统——复杂行动的大脑与神经](http://www.woshipm.com/pd/3996482.html)
- > 指挥与调度系统能大幅提高行动的整体性，协调性，并能根据提前推演出的预案解决实际行动时决策困难的问题。本篇文章分享指挥调度系统的设计方案与模型处理步骤，带领我...
- ## [To B内容营销该怎么做？打造标杆客户五步法](http://www.woshipm.com/marketing/3999583.html)
- > 对于内容营销来讲，大家一定建立一个线索的匹配的体系。那么To B内容营销到底该怎么做呢？本文给大家分享了打造标杆客户的五步法，在最后还讲了如何给你的内容进行导流...
- ## [产品如何进行商业化：以某同志社区软件为案例进行分析](http://www.woshipm.com/operate/3994604.html)
- > 个体因多样性而得以群分，而群分是产品商业化的基础。本文就以一个社区软件为案例，来分析一下，产品如何进行商业化。01 产品商业化的内在逻辑前两天写轰趴馆的复盘...
- ## [产品分析 | 全民K歌，居然也可以玩排位](http://www.woshipm.com/evaluating/3998310.html)
- > 随着人们生活时间日益碎片化，传统的KTV不再能满足大家随时开唱、释放压力的需求，线上K歌社交软件应运而生，而全民K歌无疑是其中的佼佼者。近些年，由于短视频玩法的兴...
- ## [产品路线图：您的产品战略路径指南](http://www.woshipm.com/pmd/3998164.html)
- > 产品战略源于愿景，并通过里程碑指引着工作流程，产品路线图可帮助产品所有者使开发流程与产品战略保持一致，本教程将说明如何使用产品路线图来实现一个从构思到可行的...
- ## [数据只盯着GMV（成交总额），互联网企业能安全吗？](http://www.woshipm.com/data-analysis/3995816.html)
- > 安全数据不是一个数，而是一个体系。数据安全在不同的阶段关注点不同，过分盯着一个数据会产生很大的问题，往往多个数据之间是此消彼长的关系。所以多关注几个核心数据...
- ## [拼多多产品分析报告](http://www.chanpin100.com/article/111863)
- > 2020年5月，拼多多意已有月6亿活跃买家，市值722亿美元。作为社交电商行业的头部应用，拼多多的成功经验，对社交电商行业的发展有很多启发和借鉴意义
- ## [一切数据业务化：系统性落地数据驱动的五个方面](http://www.chanpin100.com/article/111865)
- > 在拥有了在线化的数据之后，应该从哪些方面系统性地落地数据驱动。以“一切数据业务化”为核心原则，围绕着公司业务，可以从数据治理、数据分析、数据实验、数据产品、数据教育这五个方面来推进，帮助企业真正实现降本提效、业务增收。
- ## [为了1500万用户的押金，我帮ofo想了几招~](http://www.chanpin100.com/article/111856)
- > 还押金之余，顺道转型~
- ## [疫情宅家，如何与“躁动的步伐”和解？|2020中国旅游用户疫情期间数字行为专题分析](http://www.chanpin100.com/article/111858)
- > 简介：突来的新冠疫情打乱了国人出游的规划，文旅部出台的跟团游、出境团队游取消等应急政策，使原本应热闹非凡的旅游市场被迫按下了“暂停键”，景区的限流、酒店的安全、跨省市出行间的层层检疫......受困于家中的旅…
- ## [优秀产品人如何做好「MVP」设计](http://www.chanpin100.com/article/111870)
- > MVP概念，相信很多人都已经有所了解，很庆幸笔者工作3年，就已经经历过2款产品从0到1的过程，也有幸能够亲身体验产品MVP的设计全流程，在此跟大家分享
 
     
