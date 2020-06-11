@@ -1,7 +1,7 @@
 ---
 title: 2020-06-11 IT News
 copyright: true
-date: 2020-06-11 12:01:41
+date: 2020-06-11 17:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -101,65 +101,65 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [优化金属3D打印生产：逆向设计与金属增材制造软件](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=RgkywI-HtYhzJEBtEaKxQOzHApYQhqm-lEVdOXvhJSsnglaqvEY4v4mR1Pct8E2dRGyVsjy51FHoUuq4YET1vLms13qCb051wlovQ5ZRJ1md5iqwchZV6ytmjLnkbnSs&new=1)
+ ## [微软送你一份 2020 企业出海必备攻略](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=LhZ6lGomdzETNll9Vp65rS4JgwO85wvSznVa76O44w3aZFC9hyeQXRirlqGGuDV9NfYBxpvOrLVpDg5JmKqWPqSnryj*aqXfPhhTJVmKgn3X-qTqXNnWbjnFb0SzPJVJ&new=1)
+ > （本文阅读时间：2 分钟）1推荐阅读微软 Power Platform 在中国市场正式商用 无缝衔接微软智能云“三驾马车”新品大动作，微软 × 戴尔一起搞事情大咖说 | 效能受阻，专业服务业如何突围？2最新活动本周精彩课程...
+ ## [0代码开发，2小时上手，人人皆可DIY的对话机器人，一文看懂「竹间智能」新品发布会](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=Tpd6hC0M2svy9mxzAJoNMsf5kem-Aje2OZD7Du-MtC364xyeNkOuHRgYiCVxm2y6cNGdjP6br1z*ovT3uYm7XwYUV0VOLPi0ibVo2wL0zrDM3EN*EPM57ZBjuDCLuC2w&new=1)
+ > 允中 发自 凹非寺量子位 编辑 | 公众号 QbitAI让我们把时间拉回到56年前，MIT 的 AI Lab做出聊天机器人，说不定不是第一个，但也是非常早期的一个聊天机器人——Eliza。它是1964年到1966年，MIT AI Lab一个
+ ## [公网对讲与专网对讲的使用对比](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=zmcinV8IliG-SZqwOi8iFhiPa*X13nAuqFI0uG*xT3c2LIAIIlhjW6rVIHB4rC1HCPAiX7cs2Ds0f7B6Vgh9xyG8yx1XITQj15unKQjvGH0j3*EO0FigUu-4D4JsE6sz&new=1)
+ > 导读：随着信息化的高速发展和进步，无线对讲机和后台指挥通信系统已成为当今社会最重要的通讯方式之一。对讲机刚推出市场时，是模拟对讲机，随着科技的发展，前些年推出了数字对讲机，而最近几年各类生产商根据...
+ ## [企业大数据应用面临的六大安全挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=6fLlGOjo46sc*T3QhSwOgwfQmvpEL5*GjOOtrBsIzY-PQzALC0xw5dXfPTWyWGe-DBwNgVpQ*M2NMEhgq0cKywtRx78fLsQMchwMNp8cYzGhMXr2RP9y-109pUwc6SD1&new=1)
+ > 关键讯息，D1时间送达！在过去的几年中，大数据安全性越来越受到关注。实际上，过去两年的《世界质量报告》显示，安全是世界各地技术部门的主要关注点。原因在于，企业已经开始使用许多可见的应用来管理其流程。...
+ ## [哈工大、哈工程被禁用「工科神器」MATLAB，美国「实体名单」影响深入校园](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=qzxBFRUsjOqx5qnJNkrnby3pnWy0YyxWaxWAp6fgYwKGhZ7Q7Ol3pTI-tDN3piou6L2QNeC4r5CXCFAtHEOEaAqpMmjaDber7NvKqeQB23piEju-5lgpvv5j--YPu-Kc&new=1)
+ > 机器之心报道参与：泽南、杜伟一个商业数学软件居然也能被美国人禁用。哈工大、哈工程的老师和学生们最近无法使用 MATLAB 了，这一消息迅速成为了人们关注的热点。近日，在知乎等社交网络上，有哈工大学生表示收...
+ ## [安卓手机四大主流解锁方法安全性点评](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=Jq9*bI3e-RvgARBjjxiffi9xhocKGjAhzhp7pU5fhCnK0hnD96B4vsUmAs93XPUpxUfDh0fHrgHQ4OGrwhIeSs8*N0*hQB6RzL0Ql78ErkZXxzEa4zF9x9OGiTI2u9Ub&new=1)
+ > 事实上，手机锁屏是防止未授权访问，保护个人移动设备隐私和数据的最重要的环节之一，而手机厂商和主流移动操作系统，尤其是Android阵营，也纷纷推出各种锁屏技术，最常见的有图案解锁、PIN码、人脸识别和指纹识...
+ ## [定了!全覆盖!泉州将有大变化!](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=oLpGca7kBlfpQoD-mx-3-zZu0qIXneTT-mkQOvtTf*gvqjfS0rvWD1ulw2ljUlBksitcPTmsOE0TEYntqSp2oxAl*VHxdsxTnxIYL*C9gnvAN6Gs*b18*NAPonuh22J0&new=1)
+ > 喜大普奔就在今年泉州市区核心城区将实现5G网络全覆盖这是从中国移动南安水头5G精品网络示范区发来的测速。下载速率达近1.9G！ 比4G速率高20倍！这是从西街发来5G网络测试图片！5G建设情况泉州移动今年5G投资4.3...
+ ## [优化金属3D打印生产：逆向设计与金属增材制造软件](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=RgkywI-HtYhzJEBtEaKxQOzHApYQhqm-lEVdOXvhJSu-dn6c2tEDlinT4xV8nXjKwPg455tV9Jpt8z*CIZAFljndamE8yHPQlC44RiM7T2lNakaDYFK8ponc5dljVIHi&new=1)
  > 南极熊导读：金属3D打印的实际生产中，如何才能制造出合格的零件，如何才能降低成本？下面这次直播，可能帮助到你少踩一些坑。主题：逆向设计与金属增材制造软件优化3D打印生产时间：2020年6月11日下午14:00-15:...
- ## [5G网络覆盖 息烽县主城区和工业园区](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=idOQSNBEx8TpPJkOslpDE2QQUTkJ5HrG5pa91wYWZl4wuxPTohRtYBNTeX43XRKLTie8J4Tm-jd8c3Ccck1Rrso0PcFyzlsHsEg9KCV9PtM=&new=1)
- > 本报讯 记者近日从息烽县工信局获悉，截至今年5月底，该县已投资8000余万元，建成了35个5G通讯基站，实现了主城区、工业园区5G网络覆盖。　　为加快县内5G网络建设步伐，近年来，息烽县强化顶层设计，制定了...
- ## [后疫情之下 疑似俄罗斯黑客正在针对德国COVID-19医疗机构](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=SipfJq02tpWhMsCTmUR8AHaNo39cqcwHoJIv4hK48jtw9LerOGFbDAoSmLJ9dia3AYVNb6lKWZX3gygRRHYji3-fQkiHQUq0h6HRTlIG*5alUnsw8ZSMJGFBBStpe7n8&new=1)
+ ## [华日激光股权尘埃落定 核心团队增资成为公司第一大股东](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=e0gZQszBNrc2*2X0trNi43YMJNNY2TyQYVd5eHBScJbBMPhp1I93k-PvVOlX8I2r1fuc8cSpEcfEsv*HSu0O9ohKwJrAKe5rrbL-gF3s26KcK6MefqTv03I30pEgl4kp&new=1)
+ > 2020年6月6日，华日激光2020年第二次临时股东大会召开，本次会议华日激光完成董事会换届选举，产生了新一届董事会成员及领导班子，并通过一项重要议案，核心团队通过新一轮增资而成为公司第一大股东。公司原总经...
+ ## [后疫情之下 疑似俄罗斯黑客正在针对德国COVID-19医疗机构](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=SipfJq02tpWhMsCTmUR8AHaNo39cqcwHoJIv4hK48jtze*EkDdw3*95AhykGV*MGAUeLgmeB8ZS2MZIQ*XGhwdlxe8SKi-ojnqDu9ypQ6PtlD73NE74nHY1h0NkSy4i6&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月11日讯，据IBM周一报道，近日德国政府招募了几家跨国公司帮助其获得用于治疗COVID-19患者的个人防护设备(PPE)，但是，据悉其中一家公司已成为网络...
- ## [中小险企“防火墙”有点弱 监管喊话有漏洞抓紧补](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=P1WqL5sY79hS90i1inKzRunbwHZ*KM4i20TI9Cjn-PcQ9IDU9VNVUipPLqALXRCvcDqO57VZi7TzSibE5UvhQvSPG*J6zoAUhdjXhhILSHs=&new=1)
+ ## [5G网络覆盖 息烽县主城区和工业园区](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=idOQSNBEx8TpPJkOslpDE2QQUTkJ5HrG5pa91wYWZl6n3gDE1dkQLHDc6RRshDVmshSMEnhNePh1HLz-wsDt9Aqz9uiZLBKEiSP7-XPnEvg=&new=1)
+ > 本报讯 记者近日从息烽县工信局获悉，截至今年5月底，该县已投资8000余万元，建成了35个5G通讯基站，实现了主城区、工业园区5G网络覆盖。　　为加快县内5G网络建设步伐，近年来，息烽县强化顶层设计，制定了...
+ ## [中小险企“防火墙”有点弱 监管喊话有漏洞抓紧补](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=P1WqL5sY79hS90i1inKzRunbwHZ*KM4i20TI9Cjn-Pd10nf6hkanjtTf2Gte26Aa3BzKk*ceO1zp6vNdrrmDy9wyp3ObeCUqja7TV86W01s=&new=1)
  > 自去年银保监会启动网络安全专项治理工作以来，持续组织开展了一系列风险排查和整治工作，银行保险机构网络安全管理能力进一步提升。据上证报记者独家获悉，2019年，主要保险机构信息科技直接投入330多亿元...
- ## [关注|仕佳光子IPO过会 将登陆科创板!](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=IiLGC90VxYoY63ysl6spCGvb8vbcUIETJ3BxpIRMjWXQkt8kbcjej4pDVr71EiBFL9FgY-XWRjm3pS8rcxMdoqKP72jA3b04iptaA4FuWh6VRE72Oi-O72moWCmGrsyA&new=1)
+ ## [关注|仕佳光子IPO过会 将登陆科创板!](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=IiLGC90VxYoY63ysl6spCGvb8vbcUIETJ3BxpIRMjWVI7mpcTx4FrC9oPbtju2LKVIr2C0Ps6Ja6eiaga8loieCrQzvh4JN9KUztFjinUn5N6-Pc2ud6ZjDvWofkf9Iw&new=1)
  > 新闻导读上交所科创板上市委员会公告，河南仕佳光子(首发)获通过。本次仕佳光子拟发行股票数量不低于4,600万股，拟募集资金5亿元，用于阵列波导光栅(AWG)及半导体激光器芯片、器件开发及产业化项目、年产1,200万...
- ## [2020 DEMO CHINA创新中国春季峰会暨企业创新与企业创投峰会举行](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=v8Njj7HH3yn9YZoiAaZ4GDPMga0kI-GxjjRqsn9h07-FFR4dgLF7RiB9vEiSlnIxJNsGqt7WMYg*BEXSW7hkMRX8sB0871SqlMSYGwG1MMePUR6wTSU3K41KKNQvQudc&new=1)
+ ## [2020 DEMO CHINA创新中国春季峰会暨企业创新与企业创投峰会举行](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=v8Njj7HH3yn9YZoiAaZ4GDPMga0kI-GxjjRqsn9h07-qRi5x0u4hJfBGFZAh2i-wT6AsqF5vjHTwNgmbrQy0VXMcb1VSrPQAmYxk4GntU3VljfuenBUOYIiaVyxgCVCm&new=1)
  > 6月9日~11日，由创业邦主办的2020 DEMO CHINA创新中国春季峰会暨企业创新与企业创投峰会在线上举行，这是DEMO CHINA 亮相十三年来首次采取纯线上数字会展及直播的形式。创业邦邀请了来自企业创新、企业创投、一...
- ## [北京“新基建”计划：今年建3万5G站，增5万千兆用户](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=aorIBCtsv46JsgOy8OnFo7Wan4*VYXyzHp7DOGUGlcMbNvubPZMq-K5gR4F0Nd87QvqpElBOTYRMbS6vK4RREWlHlzTFPuEAfDc-vwG*OZn5aXpA9Ipw8IVI3v4HIxke&new=1)
+ ## [北京“新基建”计划：今年建3万5G站，增5万千兆用户](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=aorIBCtsv46JsgOy8OnFo7Wan4*VYXyzHp7DOGUGlcM9v08gr8fFXrGNBu2f6eW1KLmacT8UG03B2w0C856NXHeM62WsGNjtd6MseEz8TGaCX7QqdA2MM0FeBFwSklE-&new=1)
  > 近期，北京市发布了加快新型基础设施建设行动方案（2020-2022年），在建设新型网络基础设施部分，北京市提到5G网络和千兆固网的发展规划。在5G网络方面， l  北京要扩大5G建站规模，加大5G基站选址、用电等支持...
- ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了!](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=ct1yltPZAcKiCSml4vpM9ZhCDx6afCAztL1eApdAdCdANbYHUFlvko9-P0bN3llruvTo7uQNhEtCRYeZMvr3q0V7-g9m0enWGWt4VGMvXBqeidZbJNNhI4Jotb1*hs79&new=1)
+ ## [任正非“放弃”孟晚舟的那天，中国富豪的朋友圈炸了：对不起，不忍了!](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=ct1yltPZAcKiCSml4vpM9ZhCDx6afCAztL1eApdAdCeQUEs-wkpDjPlGARCXGzCP6OUmii9Fxa0FVxnksvdiK-x4XWS*FqPdx6Iob0sabPNWUw8vd*9LmZAWFTcw*blQ&new=1)
  > 文丨才华水木君来源 | 水木君说（ID：shuimujunshuo）01美国又要失算了前段时间，孟晚舟案件再度审理的消息，让14亿国人看到了希望的曙光。（来源：CBC）可加拿大法院却以孟晚舟符合“双重犯罪”的标准，再次把...
- ## [新基建时代，我们面临两大挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=HQDAGIxf83AGUdH7BRfsCkF316pu-TAV66FyeXyKwi-8*3i1tEKrVab9HCXaqtR9455eMPQqUipMyhkAC01tMnH3amRJLsJDbkcVx8NImuRmg3MUg-BpXkEs1MMu3RBV&new=1)
+ ## [新基建时代，我们面临两大挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=HQDAGIxf83AGUdH7BRfsCkF316pu-TAV66FyeXyKwi9J9ZYhsJBXDe2ywDjMLEzfU1kTnfsapF3LOQ4ZHDUy9fSP5o8Q8s-iyrNR9A4kRtpHss4WGiWAzhd4G-fxoc3N&new=1)
  > 【摘要】需要早作预防，不能让它们成为变成未来的&quot;灰犀牛&quot;。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体对整个信息产业来说，过去这几个月，是一个关键的拐点。一场突然袭来的新冠肺炎疫情，让信息科技与社会...
- ## [6G需要1000亿个基站](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=5Igh1MrwIny6Iru84GXuyv8*aK2I7tNuCssn8yeYMoH93ipUYl9asG8vvPP76fvNauCVfQWKYSxK2pahgp5qXS9f*gvyAfrRWeT8-R4KjdgcPikPfiuslfAbZJpbS8h5&new=1)
+ ## [6G需要1000亿个基站](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=5Igh1MrwIny6Iru84GXuyv8*aK2I7tNuCssn8yeYMoFuEI2*CsL9ZueE8hN4YUZFdqv39NrCb51pvpi5cDd3MTNUCHN5-9CuKslD2RNIpm3MZi2zAlcbDn935Ad6yWHz&new=1)
  > 近日，《日经亚洲评论》报道，随着多国陆续商用5G网络，6G技术争夺战也随之展开。在这场6G争夺战中，目前韩国和中国处于领先地位，日本的目标是迎头赶上中韩两国，而美国则在拼命的推动创新以重获领导地位。继全...
- ## [5G To“道”，华为助力北京建成首条智慧型高速路](http://mp.weixin.qq.com/s?src=11&timestamp=1591848005&ver=2393&signature=30Dvv2a*57I3DCUiMEPTgPe3RxgwBaKr*CWKIp2e80Nl5NUu73nufA6BMBFbY5PWB*P4FzUlkyuVrhGonxCXD5zNKilAc5cMMJqVBn6W6DbZMHQ8rstRD0gL5yOv7CZG&new=1)
+ ## [5G To“道”，华为助力北京建成首条智慧型高速路](http://mp.weixin.qq.com/s?src=11&timestamp=1591864205&ver=2393&signature=30Dvv2a*57I3DCUiMEPTgPe3RxgwBaKr*CWKIp2e80N-2cUWIdZ1Nnyr2ZW2cYHcmxy83Rer3PShsq4zNdeu-HisI4GNi7jQW*UTOFLkF1LmQYMuyOMq6ISKWFtvCi4g&new=1)
  > 4G改变生活，5G改变社会。5G技术开启了万物互联，也成为新ICT技术的聚合器，帮助企业在数字化转型中加快脚步。5G To B时代下，交通成为5G率先落地的行业之一，5G+智慧交通应用场景被提上日程。而智慧交通所要求...
 # IT 技术 
- ## [如何用ELK搭建TB级的日志监控系统？](http://netsecurity.51cto.com/art/202006/618624.htm)
- > 如何用ELK搭建TB级的日志监控系统？
- ## [请别再混淆OAuth 2.0和会话管理了](http://netsecurity.51cto.com/art/202006/618602.htm)
- > 请别再混淆OAuth 2.0和会话管理了
- ## [中国第四大通信运营商，来了](http://network.51cto.com/art/202006/618576.htm)
- > 中国第四大通信运营商，来了
- ## [机器学习面临的三个关键数据挑战](http://ai.51cto.com/art/202006/618572.htm)
- > 机器学习面临的三个关键数据挑战
- ## [智慧城市里的我们，不敢老去](http://www.cioage.com/art/202006/618551.htm)
- > 智慧城市里的我们，不敢老去
- ## [关于2G退网，这篇可以说是很全面了](http://network.51cto.com/art/202006/618545.htm)
- > 关于2G退网，这篇可以说是很全面了
- ## [机器学习“调音师”：如何及何时重新调校ML](http://ai.51cto.com/art/202006/618508.htm)
- > 机器学习“调音师”：如何及何时重新调校ML
- ## [2020年十大数据分析和BI平台及工具](http://developer.51cto.com/art/202006/618591.htm)
- > 2020年十大数据分析和BI平台及工具
- ## [运维必看：日志标准化必须面对的 4 类问题](http://news.51cto.com/art/202006/618655.htm)
- > 在很多安全分析类产品建设的过程中都会涉及到关联分析，比如日志分析、soc、态势感知、风控等产品。
- ## [5G 和 Wi-Fi 6 之战](http://network.51cto.com/art/202006/618653.htm)
- > 我们听到的5G承诺是更高速的连接、更低的延迟和无处不在的覆盖范围；事实是，你可能会获得其中的一个或两个
- ## [数据挖掘的10大算法我用大白话讲清楚了，新手一看就懂](http://news.51cto.com/art/202006/618650.htm)
- > 数据挖掘主要分为分类算法，聚类算法和关联规则三大类，这三类基本上涵盖了目前商业市场对算法的所有需求。
- ## [5G发展渐成燎原之势，中国有望领跑](http://network.51cto.com/art/202006/618649.htm)
- > 5G是近年来各国都颇为看重的新一代通信技术，商用布局争前恐后。其不仅能大幅提升移动互联网业务能力，还将
- ## [云原生安全性如何保护无形资产](http://cloud.51cto.com/art/202006/618647.htm)
- > 很多企业对管理IT设备并不感兴趣，只对其结果更感兴趣。他们希望快速交付软件，并专注于其核心产品或服务。
- ## [远程工作团队的4个优秀实践](http://news.51cto.com/art/202006/618643.htm)
- > 组织在疫情期间明智地处理远程工作转型，可能会为组织提供一个加强其工作场所文化，并改善团队合作成果的机
- ## [亚太地区智慧城市人流分析解决方案的发展](http://iot.51cto.com/art/202006/618641.htm)
- > 预计在不久的将来，PFS将在新加坡、澳大利亚、新西兰和韩国等国家蓬勃发展。这主要归因于ICT网络在城市规模
- ## [苹果 15 年大轮回：Mac 选择 ARM，正如当年乔布斯选择 Intel，但变数更多了](http://news.51cto.com/art/202006/618645.htm)
- > 苹果 Mac 将转向 ARM 架构，已基本上成为定论。不仅如此，连官宣的时间都已经基本上确定了：就在 2020 年
- ## [2020-2030年全球5G设备市场预测分析](http://network.51cto.com/art/202006/618637.htm)
- > 尽管受到新冠病毒COVID-19的影响，到2030年，全球5G设备市场将达到459.6亿美元，在2020-2030年期间每年增长
- ## [当前大热的YOLOv4是如何炼成的？细数那些小细节](http://news.51cto.com/art/202006/618651.htm)
- > 前段时间，突然发布的YOLOv4成了计算机视觉领域一大热点新闻。这个目标检测任务的 SOTA 模型究竟有何创新
+ ## [黑客组织头目服刑10年，出狱后成网络“文盲”](http://netsecurity.51cto.com/art/202006/618690.htm)
+ > 10年前，26岁的GhostExodus入侵了医院的计算机，被判入狱 110 个月。“悲惨”的GhostExodus遭到彻底的技术
+ ## [6大物联网趋势](http://iot.51cto.com/art/202006/618688.htm)
+ > 物联网的基本工作前提是允许我们家中的物体和设备相互通信，并为我们提供有关其运行的数据和详细信息。让我
+ ## [5G当道，三大运营商，20个套餐我该怎么选？](http://network.51cto.com/art/202006/618686.htm)
+ > 携号转网的推行让我们终于可以在三家运营商中挑选适合自己的运营商和套餐，不用顾虑变更手机号码的复杂和繁
+ ## [QQ被永久封禁，200多天后我是如何解封的](http://mobile.51cto.com/hot-618684.htm)
+ > 相信很多人都有过被封号的经历，有的可能改密码就自动解封了，有的可能七天后就自动解封了，有的则是被永久
+ ## [Android 11 Beta 版发布：重构通知面板，增加电源控制面板等](http://mobile.51cto.com/android-618683.htm)
+ > 因为新冠疫和美国种族抗议活动的双重影响，谷歌原定于 I/O 开发者大会推出的 Android 11 在今日凌晨直接被
+ ## [微信严厉打击恶意营销和违规外链，3个月永久封停账号超19000个](http://netsecurity.51cto.com/art/202006/618685.htm)
+ > 今年3月1日至6月9日，微信公众平台对于恶意营销行为，共计删文29065篇，能力封禁账号8804个，永久封停账号1
+ ## [2020年值得关注的10个UI设计小趋势](http://mobile.51cto.com/design-618682.htm)
+ > 最近我花了不少时间来观察 UI 设计的发展趋势，我偶然间注意到了不少很有意思的苗头，或者说设计趋势。我认
+ ## [研究发现COVID-19大流行助推5G企业用例](http://network.51cto.com/art/202006/618679.htm)
+ > ABI Research指出，随着工作进入人们的家庭，COVID-19的数据流量大幅增加，事实证明，5G不仅仅是消费者移动
+ ## [新冠疫情如何加快建筑中物联网的采用](http://iot.51cto.com/art/202006/618678.htm)
+ > 物联网设备允许在作业现场进行实时跟踪、监视和测量，从而为应用AI和为承包商改善成果提供了无限可能。以下
+ ## [人工智能技术开发人员应遵循的7条道德准则](http://ai.51cto.com/art/202006/618677.htm)
+ > 开发人员需要通过牢记某些AI准则来创建人工智能(AI)解决方案，以在不招致技术固有风险的情况下获得技术的好
  ## [卧槽！红警代码竟然开源了！！！](https://blog.csdn.net/sinat_33224091/article/details/106596028)
  > 卧槽！红警代码竟然开源了！！！
  ## [公司招一个普通程序员，4天就收到1200份简历，HR：IT人满为患？](https://blog.csdn.net/qianduan167/article/details/106606532)
@@ -178,50 +178,64 @@ categories: IT NEWS
  > 
  ## [vue使用rem，实现移动端适配](https://blog.csdn.net/qq_44832960/article/details/106613219)
  > vue使用rem，实现移动端适配
- ## [程序员，咋总是这么累呢?](https://blog.csdn.net/slovem2009/article/details/106607872)
- > 程序员，咋总是这么累呢?
  ## [会做菜就会编程？一篇写给从未编程过的人的入门教程](https://blog.csdn.net/alitech2017/article/details/106626139)
  > 会做菜就会编程？一篇写给从未编程过的人的入门教程
  ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
  > 当HR压你价，说你只值7K，你该怎么回答？
+ ## [程序员，咋总是这么累呢?](https://blog.csdn.net/slovem2009/article/details/106607872)
+ > 程序员，咋总是这么累呢?
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
  ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
- ## [华为开源深度学习框架MindSpore背后的商业野心](https://blog.csdn.net/gshengod/article/details/105205502)
- > 华为开源深度学习框架MindSpore背后的商业野心
+ ## [CSS 适配 iPhoneX 全面屏](https://blog.csdn.net/dlf_0610/article/details/106627143)
+ > 
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
  ## [「视频」如何用AI快速产出有趣的动画短视频](https://live.csdn.net/v/20865)
  > 「视频」如何用AI快速产出有趣的动画短视频
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
+ > 安卓APP的http访问权限
+ ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
+ > flutter 的像素尺寸
+ ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
+ > googlePlay 找不到发布的应用
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
+ > 使用FlexboxLayoutManager来实现流式布局
+ ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
+ > 电电帮手机维修就是坑爹，大家不要信
+ ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
+ > android.view.InflateException Error inflating class android.webkit.WebView
 # PM 
+ ## [直播中应该这样打造主播的人设！](http://www.woshipm.com/it/3997645.html)
+ > 想成为一个合格的主播并不容易，需要对自身进行修炼和包装。本文从主播自身素质修炼和主播人设包装两个维度去讲解怎样成为一个合格的直播，运营人员也可以把这套方法作...
+ ## [新消费时代，得物（毒）杀小红书？](http://www.woshipm.com/it/4002167.html)
+ > 小红书做直播，毒App宣布改名“得物APP”,这些看似不痛不痒的动作，是不是暗示着社交电商江湖会再一次“风起云涌”。01 社交电商咋赚钱？事物的发展是多变的，但也并非无...
+ ## [读完钉钉公众号所有文章，我发现了它成功的秘密](http://www.woshipm.com/it/4004313.html)
+ > 大家对钉钉的认知可能还停留在过去的办公软件中，然而它在此次疫情中大放光彩，成为工作和学习中重要的工具之一。钉钉是怎么做到的？它的经验给其他企业什么启示？本文...
+ ## [线上课程｜互联网人必备的数据分析技能，你真的掌握了吗？](http://www.woshipm.com/online/4006940.html)
+ > 但凡从事互联网相关工作，不管是产品、运营，还是市场人，都必须具备的一项能力——数据分析能力。如果你懂数据分析，就能根据分析目的，用适当的分析方法及工具，对数据...
+ ## [用户调研时，可以用这12种方法优化你的提问](http://www.woshipm.com/user-research/4002090.html)
+ > 在实际工作中，我们需要经常接收用户的反馈。但是过于直白的询问可能会令用户感到不适，那么采访时有没有什么技巧呢？本文列举了六种采访时常见的错误并且给出了建议，...
+ ## [产品经理，你该如何做好后台规划？](http://www.woshipm.com/pmd/4003377.html)
+ > 作为一个产品经理，该如何对后台进行规划呢？本文作者从三个方面出发，对于后台的规划进行了较为详细的讲解。如果你也正在做后台，希望这些思路可以所有帮助，但必须你...
+ ## [从GMV出发，看目标拆分与公式拆解](http://www.woshipm.com/operate/4000572.html)
+ > GMV在电商中是一个非常重要的指标，但不同的电商对于GMV的算法完全不一样；算法不同，计算出的数据也千差万别。这篇文章，作者从四个方面详解GMV公式的推导过程，对于整...
  ## [“私域流量”真的是生意的护城河吗？](http://www.woshipm.com/it/4002037.html)
  > 不是所有的商品都适合私域流来变现，盲目把它当作抵抗疫情的救命稻草，只会让你的钱打了水漂。所以在决定去做私域流量的时候，你的先思考好，你商品是真的适合吗？在...
  ## [公共场合服务机器人的设计框架与思路](http://www.woshipm.com/pd/3994375.html)
@@ -230,17 +244,5 @@ categories: IT NEWS
  > 在营销推广的过程中，我们往往只会关注肉眼可见的问题，而更深层次的问题需要用数据来发现。用数据不仅能够发现隐形问题，还能算出办法。本文将从五个方面展开介绍，对...
  ## [B端产品化及运营的思考总结](http://www.woshipm.com/pd/3988111.html)
  > 由于B端产品的种类繁多，外加一些方法论属于公司机密，市面上B端的产品书籍始终不像C端书籍那么丰富。从事了一段时间B端产品，看了好多C端书籍，配合着自身的经历，结合...
- ## [体验课 | 地摊经济的背后，值得我们学习的营销增长策略有哪些？](http://www.woshipm.com/open/4005477.html)
- > 随着疫情逐步好转，国家政策对地摊经济的大力支持，大街小巷里雨后春笋般涌出了很多地摊小贩，许多白领也纷纷把自己的职场技能P成地摊货品，晒在朋友圈。为什么曾经被...
- ## [以变电站场景为例，分享下智能监控平台的方案与思路](http://www.woshipm.com/ai/3995359.html)
- > 最近几年，随着物联网、大数据等技术的成熟和发展，传统的安保行业也发生了翻天覆地的变化，智能监控就是其中之一。这篇文章，作者以变电站的场景介绍智能监控平台的方...
- ## [聊一聊几种常见的数据可视化](http://www.woshipm.com/data-analysis/3999775.html)
- > 本文还是以对话的形式，用简单清晰的话语来跟大家通俗的解释，什么是数据可视化，在日常工作中，有哪几种常见的数据可视化。数据产品经理老曹，自从入职了这家初级规...
- ## [谁能限制拼多多？可能是直播](http://www.woshipm.com/it/4000839.html)
- > 如今电商发展中，拼多多是当之无愧的巨头之一，它的低价促销让无数用户“真香”。但是直播的火热，让拼多多感受到了压力。直播是否会限制拼多多的发展？两者未来会如何发...
- ## [如何设计一款好的产品？](http://www.woshipm.com/pd/3971984.html)
- > 作者通过自己的实践后，整理出的关于产品设计的一个论点——一个好的产品应该是情、趣、用、品皆具备，只有这样才能设计出一款好的产品。有一次学生问我，老师，我们学...
- ## [产品也有生命周期？有而且很重要](http://www.woshipm.com/pd/4000704.html)
- > 一个产品从诞生到衰退称为其生命周期，关注产品的生命周期有利于更好地调整发展策略，促进产品发展。本文将从三个方面对产品生命周期展开介绍，希望对你有帮助。一、...
 
     
