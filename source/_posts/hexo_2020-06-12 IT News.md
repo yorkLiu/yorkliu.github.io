@@ -1,7 +1,7 @@
 ---
 title: 2020-06-12 IT News
 copyright: true
-date: 2020-06-12 10:02:08
+date: 2020-06-12 12:04:13
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -92,23 +92,29 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [关注|助力5G新基建：武汉永鼎光通推出5G前传SFP28 MWDM光模块](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=nFSYJEKY6wXH2sF-WaxeG27Voan4EFlfh6z*hcVgm8iLRGKpHCI1VdI9MKAM-KsLJYIK*psE1sfkZJc6UxteARKnzn4bprBZ*mnElGEsHGju-z5eoT*kuSu2rEmmAS0c&new=1)
- > 新闻导读武汉永鼎光通正式发布SFP28 MWDM光模块，该产品应用于中国移动5G前传半有源方案的开放式波分复用Open-WDM/MWDM系统，支持OAM管理功能。ICC讯  近日，武汉永鼎光通科技有限公司正式发布SFP28 MWDM光模块...
- ## [“5G+工业互联网”四大应用场景](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=pfsjfuAPIM1aR8cT4AEEZ8-wxYSqCfhZKOFqzYEe0t0LtGF15BXiD4raap06smYNMgJjFeGBzvtlrv2T2QrJYhGLjied6BpppzlKP3ia-td9RXghkQKx9rDLQjpIpn-u&new=1)
- > 随着新型基础设施建设加速推进，作为其主要领域的5G和工业互联网备受关注、持续升温。     5G是新一代移动通信技术，不仅可以带来良好的移动互联网体验，还将成为智能制造、智能医疗、智能政务、智慧城市以及自...
- ## [\[头条\]“币安被官媒点名”的事件真相!](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=n8CWjhu6KVLNDATdNWeHagfAoTPwAli7viBYluPfG5E5cbNyJMbkxgV7JJ-ga4dkGJfOPWlt5vJh92S0035bBgmMdOINz-7-LkYZIVUEPT-XhLjMT-MJHFhnSJgExmmC&new=1)
- > 疫情之下，各大交易所跑路的新闻屡见不鲜。有粉丝询问，难道最近币圈除了跑路就没有什么其他的大新闻了吗？别说，还真的有。6月9日下午，央广网发表了一篇《虚拟货币交易所币安仍可进行交易？回应称为测试网站》...
- ## [\[报告\]2020年5月汽车工业经济运行情况(附21页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=-40v8I-jhz1t99lTkYSxYbU1P4ilPnNmSevVlZ99GXAMSKyPQ66*suqxEiYmztcXtWOgPrrOTkW*9vSQNluZRRm4Qj8OLmA1IlmLX2noHz3rORPM-7WiZ7qBp4*7R1JP&new=1)
- > 2020年5月，汽车产销形势持续向好，环比均呈增长，同比增速明显高于上月。5月，汽车产销分别达到218.7万辆和219.4万辆，环比增长4.0%和5.9%，同比增长18.2%和14.5%，增速高于上月15.9个百分点和10.1个百分点。1-
- ## [菊厂的上云普惠又加上企业“信用卡”](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=lG0WCm5CEIZwQzot3i2FdJBmwDfCRHIPQwklHw*wgTkDzYIOshChFNlIPxbKYBMXYPRoRVXcqZ74lFLJpRWj1qNArbtUnMnSJVF6nL4-ImjOUJ5iLgOb3UC5MlRAG1yl&new=1)
+ ## [菊厂的上云普惠又加上企业“信用卡”](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=lG0WCm5CEIZwQzot3i2FdJBmwDfCRHIPQwklHw*wgTnVjuk6wvx99jEDEkXI0Jzl7TCtdJAI4pog0AC8jD961IZAB0JKo23H6MlTTeOEGDe*Hji9SqmL2Gw-EzhhSN9i&new=1)
  > 2020年ToB市场提的最多的词“新基建”“数字化”和“普惠”。前两个是战略级的概念，没法一蹴而就， 而第三个“普惠”则是互联网公司全面进入ToB企业服务市场之后带来的红利之一。在疫情期间，国内几朵大云不约...
- ## [加州大学使用3D打印创建“类似于昆虫”的软机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=0I8LI8ymTJ*C3CehhxdF3LTnApTCCSXYEHqSUAzQm7Zg5ZG9WGdIeKUEwG2ipC3ajg3aEwPkHDAR3M6zn2C35MQV-wZv2ru*CuDHc7RmXKPjXD7va83L8iHUuUtbDZkW&new=1)
+ ## [“5G+工业互联网”四大应用场景](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=pfsjfuAPIM1aR8cT4AEEZ8-wxYSqCfhZKOFqzYEe0t2Epk4FFhT*LfTeE7AeRIwFgD1712LYsubbbQJvR*ZC-Z4zaaJLWry1Xl3ctAKXtW7TjXIbjVmmiAzY195Vpvc3&new=1)
+ > 随着新型基础设施建设加速推进，作为其主要领域的5G和工业互联网备受关注、持续升温。     5G是新一代移动通信技术，不仅可以带来良好的移动互联网体验，还将成为智能制造、智能医疗、智能政务、智慧城市以及自...
+ ## [金属3D打印模具订单爆发，毅速激光做了什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=F1W3Wzdax2IwrzgzQ*XNMrtM94Yw8MkokV4AVlCglPFXmQaQXO4Q4w4QL00rWreb*lRNDh5PMprBv08hbY45tck-Aiab1qiFzV9qQxMNMIFnrPWmQO0kzf8UtE5xHeJ5&new=1)
+ > 南极熊导读：除了航空航天军工和医疗行业，金属3D打印技术在模具行业的应用或将爆发！2020年2月复工以来，模具厂商上海毅速激光一直处于满产状态，车间3D打印机24小时不停运转，截止3月份的销售订单额已达到2019...
+ ## [蓝色巨人IBM Cloud遭受长时间宕机 全球客户网站停机!](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=d4*Zqzzyj-NazG8nxSO4qrfiRDJCp250J4XpPlrqRsDcX9lay*MVeWmy4rQgye87uFGG0vu40o55OdgZSlNsg6SckNej5Vp82YuHa9vWwoVvpKLxm6cKUvXuvUISA0mo&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月12日讯，据外媒报道，IBM的云计算系统目前正在遭受一次重大宕机，该平台上的多个服务同时停机，受影响的包括用户最喜欢的科技新闻聚合器Techmeme。...
+ ## [“智慧建造”的“追梦人”](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=2Jbo6Qa1sEm6kqG8OPZD-47TujSIfUOdB0fciFJ4gm6vugxDGI*0iaY8ECmLsa8LeRiUDNkbIDsLfgz8yq8UTTbgudy4aZKUYg8K6yXx*9o=&new=1)
+ > 作为大数据、大健康等新兴产业发展的领跑者，贵州近年来始终把“人才”作为经济社会发展第一资源，通过不断改革体制机制、完善人才政策等，着力打造人才聚集地和创业创新首选地。已到花溪区燕楼产业园区...
+ ## [关注|助力5G新基建：武汉永鼎光通推出5G前传SFP28 MWDM光模块](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=nFSYJEKY6wXH2sF-WaxeG27Voan4EFlfh6z*hcVgm8i7TjDlX0uvjasHMmQWI-VUp3W063VWeF*xJmAXO-vycWqpeK0xeUgw9EKe*VnDcTmLFiAQPn45QwTssFMDBA71&new=1)
+ > 新闻导读武汉永鼎光通正式发布SFP28 MWDM光模块，该产品应用于中国移动5G前传半有源方案的开放式波分复用Open-WDM/MWDM系统，支持OAM管理功能。ICC讯  近日，武汉永鼎光通科技有限公司正式发布SFP28 MWDM光模块...
+ ## [\[头条\]“币安被官媒点名”的事件真相!](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=n8CWjhu6KVLNDATdNWeHagfAoTPwAli7viBYluPfG5F*QrDvWDjkeMrksuksPXNMDs8VyXoKLvI5OB1H*70iHTmqMElo10JWo1XnwvWXkGq2pLx0AaqGx-4S6mD7zsdu&new=1)
+ > 疫情之下，各大交易所跑路的新闻屡见不鲜。有粉丝询问，难道最近币圈除了跑路就没有什么其他的大新闻了吗？别说，还真的有。6月9日下午，央广网发表了一篇《虚拟货币交易所币安仍可进行交易？回应称为测试网站》...
+ ## [\[报告\]2020年5月汽车工业经济运行情况(附21页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=-40v8I-jhz1t99lTkYSxYbU1P4ilPnNmSevVlZ99GXBDum455C-4qB8MgMSV2JIS8vfgc-ekrK9uU06c5odi0E11n8mcKDPGEbw1OBRFDUz-hoxykvp4dTt1Ddi5I3gA&new=1)
+ > 2020年5月，汽车产销形势持续向好，环比均呈增长，同比增速明显高于上月。5月，汽车产销分别达到218.7万辆和219.4万辆，环比增长4.0%和5.9%，同比增长18.2%和14.5%，增速高于上月15.9个百分点和10.1个百分点。1-
+ ## [加州大学使用3D打印创建“类似于昆虫”的软机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=0I8LI8ymTJ*C3CehhxdF3LTnApTCCSXYEHqSUAzQm7bd9JsYoTC2N4h0GIzLa3cWNt2SmDKwEY4k4TtdSVlfsj6VVbojv7eCIv6mLGXiHiDW8TdVMMvybD*E4y*FDVH1&new=1)
  > 加利福尼亚大学圣地亚哥分校的研究人员已经使用3D打印技术生产出了柔软而灵活的行走“类昆虫”机器人。用于制造机器人的预算型增材制造技术可以降低3D打印软机器人的入门成本，并为该技术在对人类不安全的地方(...
- ## [智能制造技术如何快速落地应用?6月17日智能制造专场研讨会直播预告|机器人大家说](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=r7FWhiA13kHKEmVuKPWiQtPnvAk5urWDeXuE9-*YjCq8JhO4bg2PcCHV52CA2fIxFfJpCqHUrg285Q2yT3q3RKR2TmcuLOqu53DywnbOJYJZZvGA0cagGlFoJHSGhOg6&new=1)
+ ## [智能制造技术如何快速落地应用?6月17日智能制造专场研讨会直播预告|机器人大家说](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=r7FWhiA13kHKEmVuKPWiQtPnvAk5urWDeXuE9-*YjCpA4ryaddUFQ2CN3bj8X3qNgoulhKqW4r3z2BvmAqmmmHhFg2wIS6fZ6B*DJahoNdkCnT1nShsXrMTrG3cbfXRG&new=1)
  > 自18世纪末以来，人类经历了三次工业革命，每一次革命都给人类的生产力带来了几倍或者几十倍的巨大提升，今天我们迎来工业4.0，以智能制造为主导，运用信息物理系统，实现生产方式的现代化，但由于我国目前行业...
- ## [IDC与戴尔联合发布报告：数字化水平最高的小企业生命周期是平均水平的5倍多](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=hNwVQVnJHyAd-1uxB*hn-U*dY-x6yN1KXr6d0zPt-h3jZTfoollDK-h1N0gk8fAGW1nP3wReSsvh7B3M6uy0y8GUke60V1Hcfb6eP79BS-M=&new=1)
+ ## [IDC与戴尔联合发布报告：数字化水平最高的小企业生命周期是平均水平的5倍多](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=hNwVQVnJHyAd-1uxB*hn-U*dY-x6yN1KXr6d0zPt-h3CRbUEORwq4cUqNB11XxnxLRxgI27ZH3omFoP3cqGpy1oGNH6NPr0hFx1vRV3H2qU=&new=1)
  > 经济观察网 记者 种昂 2020年6月11日，全球著名的信息、电信和消费科技市场服务提供商国际数据公司（简称IDC）与戴尔中国联合发布了《2020中国小企业数字初始化指数》报告。这份报告指出，当前环境下，中国小企...
- ## [从”四大”争议，看企业如何算好存储软硬一体这笔账?](http://mp.weixin.qq.com/s?src=11&timestamp=1591925405&ver=2395&signature=cGq0TqPQeaIv4lEp17B2p02L-WRtjqlNhSTyPoNPEzNjuRxu2Y3C7bOMpwk*lPux2gj3WaJNCMvVlIXiURKyDIIlPT2q2GVq7*siZPh4kl94HMrgnqJmYfmOtjDwyiHd&new=1)
+ ## [从”四大”争议，看企业如何算好存储软硬一体这笔账?](http://mp.weixin.qq.com/s?src=11&timestamp=1591933442&ver=2395&signature=cGq0TqPQeaIv4lEp17B2p02L-WRtjqlNhSTyPoNPEzPNKCrlRZV*rBM3l4aPL*ERgftByGhsCS93bwnFlr9VoJOWXXHn6vdcekOvaTthN95*dqJ3fMy91KKJgFhzLjfg&new=1)
  > 此前，笔者撰写的《中国移动超2亿元存储集采：为何偏爱软硬一体机？》引起业界不少热议和共鸣。从留言发现，越来越多人认可超高密和超高性能的分布式存储，认为软硬一体的专属硬件将成为存储趋势。今年5月底，中...
 # IT 技术 
  ## [技术总监夸我“索引”用的溜，我飘了......](http://database.51cto.com/art/202006/618727.htm)
@@ -127,30 +133,32 @@ categories: IT NEWS
  > 新冠疫情如何加快建筑中物联网的采用
  ## [Gartner 2020的十大数据分析趋势](http://bigdata.51cto.com/art/202006/618659.htm)
  > Gartner 2020的十大数据分析趋势
- ## [少侠选个趁手的兵器吧 | 网络安全从业人员工具集](http://netsecurity.51cto.com/art/202006/618728.htm)
- > 安全行业更经常使用渗透测试的网络安全工具来测试网络和应用程序中的漏洞。在这里您可以看到一个全面的网络
- ## [Python 和 Go 成为年度很受欢迎的黑客工具榜首](http://netsecurity.51cto.com/art/202006/618726.htm)
- > 网络安全公司 Imperva Cloud WAF 近期分享了其在 2019 年一年内针对网络安全事件的观察。
- ## [种族大棒之下，人脸识别将何去何从？](http://ai.51cto.com/art/202006/618724.htm)
- > 在美国，白人警察对黑人平民的过度执法司空见惯，近期，因一白人警察对一黑人“跪地锁喉”至黑人死亡后，美
- ## [前端必备的20种基本React工具](http://developer.51cto.com/art/202006/618722.htm)
- > React生态系统已经发展成为越来越多的开发工具和库。过多的工具是对其流行性的真实证明。对于开发人员而言
- ## [比较 JavaScript 对象的四种方式](http://developer.51cto.com/art/202006/618721.htm)
- > 比较 JavaScript 中的值非常简单，只需用相等运算符即可，但是对象却有结构化的数据，所以比较起来比较困难
- ## [干掉软件开发的超级怪兽：狼人！](http://zhuanlan.51cto.com/art/202006/618723.htm)
- > 在欧洲中世纪的传说中，没有什么比“狼人”更可怕的了，它会突然从普通人变成恐怖的怪兽，袭击人类。普通子
- ## [2020年React Redux的5种替代方案](http://developer.51cto.com/art/202006/618720.htm)
- > 让我们看一下Redux是如何工作的，以便更好地了解它与其替代方案之间的区别。
- ## [JavaScript代码中的坏味道](http://developer.51cto.com/art/202006/618719.htm)
- > 编写软件很难。 只有少数方法可以做到正确，有很多方法可以做到错误，使我们的生活更加艰难。在本文中，我
- ## [现代机器学习工具](http://ai.51cto.com/art/202006/618718.htm)
- > 数据科学的发展日新月异，机器学习的角色正从数据科学的混合角色过渡到更多的工程或面向分析的角色，通常称
- ## [计算机科学家和码农之间有什么区别？](http://news.51cto.com/art/202006/618717.htm)
- > 传说计算机科学是一门数学学科。 机械发明和数学理论为计算机概念和系统铺平了道路。计算机科学的早期历史
+ ## [深水排雷：工控网络安全的五个关键问题](http://zhuanlan.51cto.com/art/202006/618762.htm)
+ > 作为一个工控网络安全管理人员，战战兢兢，如履薄冰，始终怀着敬畏之心在向前摸索，不敢妄言了解，只是将这
+ ## [2020年LPWAN和IoT的三大预测](http://iot.51cto.com/art/202006/618761.htm)
+ > 随着2020年第三季度的临近，物联网（IoT）依然是技术界关注的重点领域。考虑到这项技术在我们生活的几乎所
+ ## [物联网=间谍网？](http://iot.51cto.com/art/202006/618760.htm)
+ > 物联网必定在未来的网络开发中扮演着重要的角色。那这样将对我们的日常生活产生什么影响呢?
+ ## [安卓手机四大主流解锁方法安全性点评](http://netsecurity.51cto.com/art/202006/618759.htm)
+ > 本文暂不讨论未获广泛支持的软硬件密钥方案)。但是，很少有用户真正了解和比较这四种Android锁屏技术的安全
+ ## [微软发布6月安全性更新，包括11个高危漏洞的修复](http://os.51cto.com/art/202006/618758.htm)
+ > 微软发布了最新一期的安全性更新，总共修补了129个新发现的漏洞，这些漏洞影响各种版本的Windows操作系统和
+ ## [苹果到底该不该禁？工程院院士发声：应该限制售卖苹果手机](http://mobile.51cto.com/news-618756.htm)
+ > 苹果能有今天超万亿的市值，中国市场贡献很大，而国内对此，也进行了一场关于该不该禁售苹果讨论的拉锯战!
+ ## [Pegasystems公司采用Process Fabric寻求将企业应用程序集成在一起](http://www.cioage.com/art/202006/618755.htm)
+ > 流程自动化供应商Pegasystems公司日前推出了Process Fabric，可以使用户能够使用低代码开发方法跨越现有应
+ ## [9 款 Linux 上的优秀笔记应用](http://os.51cto.com/art/202006/618753.htm)
+ > 无论你做什么，做笔记总是一个好习惯。是的，有很多笔记应用可以帮助你实现这个目标。但是，Linux 上的开源
+ ## [如果几亿人改微信号，腾讯扛得住吗？](http://mobile.51cto.com/news-618752.htm)
+ > 你改微信号了吗?6 月 5 日，微信官方微博和公众号，同时发消息称，最新的微信安卓版，支持修改微信号。如一
+ ## [避坑指南！Python里面的这九个坑，坑的就是你！](http://developer.51cto.com/art/202006/618757.htm)
+ > Python里面有一些坑，让你防不胜防，菜鸟经常会弄晕，而学习多年的Python老鸟也会时不时中招。小编整理了9
  ## [给最近要离职的朋友一些建议 No.190](https://blog.csdn.net/u010459192/article/details/106610541)
  > 给最近要离职的朋友一些建议 No.190
  ## [Linux常用命令](https://blog.csdn.net/weixin_39608791/article/details/106660995)
  > 
+ ## [「视频」福利来了，最全Java面试题](https://live.csdn.net/v/17730)
+ > 「视频」福利来了，最全Java面试题
  ## [华为开源深度学习框架MindSpore背后的商业野心](https://blog.csdn.net/gshengod/article/details/105205502)
  > 华为开源深度学习框架MindSpore背后的商业野心
  ## [30岁女IT月薪3W的背后：从数据报表到数仓、中台，这工具帮了大忙](https://blog.csdn.net/yuanziok/article/details/106635150)
@@ -175,56 +183,66 @@ categories: IT NEWS
  > 做个996社畜挺好！
  ## [惊艳于红警开源代码？赏心悦目的代码注释，我们也可以 ！](https://blog.csdn.net/qq_35082030/article/details/106663310)
  > 
- ## [我找出了Dubbo源码的BUG，同事都看傻了](https://blog.csdn.net/qq_35190492/article/details/105774562)
- > 
 # 人工智能 
- ## [Sqoop快速入门系列(2) | Sqoop数据导入与导出](https://blog.csdn.net/qq_16146103/article/details/106139286)
+ ## [南京大学2020软工专硕初试第一经验分享](https://blog.csdn.net/sakura_is_the_best/article/details/106401885)
+ > 南京大学2020软工专硕初试第一经验分享
+ ## [FPGA/ASIC笔试面试题集锦（1）知识点高频复现练习题](https://blog.csdn.net/Reborn_Lee/article/details/106669904)
  > 
- ## [Docker](https://blog.csdn.net/Lance_welcome/article/details/106619782)
+ ## [万字操作系统总结](https://blog.csdn.net/A52091/article/details/106607032)
  > 
  ## [『数据库』朴实无华的数据库多表查询，连接查询、笛卡尔积](https://blog.csdn.net/weixin_43627118/article/details/106646389)
  > 
- ## [Spark Streaming官方编程指南【上】](https://blog.csdn.net/qq_37163925/article/details/106664745)
+ ## [招聘量化交易系统软件工程师](https://blog.csdn.net/weixin_41673720/article/details/106674619)
+ > 招聘量化交易系统软件工程师
+ ## [太原理工大学ICPC队介绍（2020版）](https://blog.csdn.net/tigerisland45/article/details/106670014)
+ > 太原理工大学ICPC队介绍（2020版）
+ ## [别让算法和数据结构拖你职业生涯的后腿](https://blog.csdn.net/u012829124/article/details/106692889)
+ > 别让算法和数据结构拖你职业生涯的后腿
+ ## [学习python必须了解的基础知识](https://blog.csdn.net/ycl1995/article/details/106652545)
  > 
- ## [写给小白系列之爬虫篇，爬虫与防爬虫](https://blog.csdn.net/weixin_47219818/article/details/106649192)
+ ## [什么是分布式系统](https://blog.csdn.net/qq_43762191/article/details/106646584)
  > 
- ## [linux系统安装nginx服务器详细步骤及命令配置使用方法](https://blog.csdn.net/huang_shuai_hs/article/details/106658436)
- > linux系统安装nginx服务器详细步骤及命令配置使用方法
- ## [CentOS7安装Mysql8.0](https://blog.csdn.net/qq_40243950/article/details/106651484)
- > CentOS7安装Mysql8.0
- ## [通过码云来学习Git的进阶技能(文末附福利!)](https://blog.csdn.net/weixin_44318830/article/details/106651318)
+ ## [微机原理-虚拟仿真实验-DAC0832数模电路汇编代码](https://blog.csdn.net/qq_43422111/article/details/106663536)
+ > 微机原理-虚拟仿真实验-DAC0832数模电路汇编代码
+ ## [OpenCV开发笔记（六十二）：红胖子8分钟带你深入了解亚像素角点检测（图文并茂+浅显易懂+程序源码）](https://blog.csdn.net/qq21497936/article/details/106665993)
  > 
- ## [教你搭建 Docker 私有仓库详细步骤](https://blog.csdn.net/qq_32828933/article/details/106636109)
- > 教你搭建 Docker 私有仓库详细步骤
- ## [不要再说你不会Redis集群啦](https://blog.csdn.net/weixin_41842236/article/details/106651349)
+ ## [Heetok的历程（1）— 为什么突然想写博客](https://blog.csdn.net/weixin_43207780/article/details/106680705)
+ > Heetok的历程（1）— 为什么突然想写博客
+ ## [跨考计算机，一战398分成功上岸经验总结](https://blog.csdn.net/dasadsasda/article/details/106692107)
+ > 跨考计算机，一战398分成功上岸经验总结
+ ## [8086_RAM字节扩展_8255A矩阵键盘输入](https://blog.csdn.net/weixin_43586860/article/details/106675474)
+ > 8086_RAM字节扩展_8255A矩阵键盘输入
+ ## [牛客编程语言练习赛第三场(C++)](https://blog.csdn.net/qq_45732909/article/details/106674962)
  > 
- ## [React路由模块react-router-dom的安装及基本使用、传递路由参数](https://blog.csdn.net/Piconjo/article/details/106658472)
- > React路由模块react-router-dom的安装及基本使用、传递路由参数
- ## [浅谈大数据中的 2PC、3PC、Paxos、ZAB](https://blog.csdn.net/qq_31821675/article/details/106640598)
- > 
- ## [大数据专家，教你学Redis缓存穿透终极解决方案，手写布隆过滤器](https://blog.csdn.net/qq_1813353297/article/details/106649090)
- > 
- ## [sqlserver增量订阅&消费实时同步kafka，最新解决方案，看完不会你打我！](https://blog.csdn.net/Mr_kidBK/article/details/106649643)
- > 
- ## [linux虚拟机安装redis详细步骤命令配置及使用](https://blog.csdn.net/huang_shuai_hs/article/details/106660863)
- > linux虚拟机安装redis详细步骤命令配置及使用
 # PM 
+ ## [产品规划阶段，如何进行市场分析？](http://www.woshipm.com/pmd/4003337.html)
+ > 进行市场分析的目的很简单，那就是产品是否能赚钱？可是身为产品经理，要如何进行市场分析呢？本文作者梳理总结了市场分析需要关注的6个关键：市场容量、市场增长率、国...
+ ## [多抓鱼交易模型分析：供需失衡，平台该如何应对？](http://www.woshipm.com/evaluating/4002748.html)
+ > 供求失衡一直是存在于多抓鱼平台上的一个问题，平台想要良性发展，就必须对这一问题加以重视。本文作者通过对多抓鱼的业务模型展开分析，梳理总结了自己的思路与建议，...
+ ## [我可以做私域吗？两种私域模型盘点](http://www.woshipm.com/marketing/3995591.html)
+ > 私域流量的运营分为精细化运营和大规模投放销售，这两种背后的逻辑和方法论各不相同。文章结合案例对这精细化运营和大规模投放销售运营模型进行了梳理分析，与大家分享...
+ ## [产品公开课 | 腾讯高级产品经理都在用的产品设计方法，你不来了解下？](http://www.woshipm.com/open/4010331.html)
+ > 你有没有听过这样一句话——“不以用户场景为基础的产品设计都是耍流氓”。实不相瞒，产品经理在设计原型时，要考虑的重要因素之一就是「用户场景」。甚至在拿到一个需求的...
+ ## [产品思维：如何打破产品的创新思维窘境？](http://www.woshipm.com/pd/3987288.html)
+ > 有时候困住人思考和创新的，往往就是你自己固有的经验。那今天我们就来聊聊，如何打破我们产品的思维窘境？“就我个人而言，我不会放弃，永远都不会”——埃隆·马斯克20...
+ ## [综合旅游预订APP：飞渡产品设计方案](http://www.woshipm.com/pd/4005112.html)
+ > “我欲因之梦吴越，一夜飞渡镜湖月。”飞渡是一个兼具社区属性和电商属性的综合旅游预订APP，本文就从3个方面来看看飞渡的产品设计方案，enjoy~1. 产品概述1.1 产品定...
+ ## [智能外呼系统怎样更“拟人化”？](http://www.woshipm.com/ai/3997826.html)
+ > 随着AI技术的发展，智能外呼系统正在逐渐解决机械重复的问题，提高人工客服的效率。但在实际工作中，智能外呼系统还是面临着重重困难。本文作者基于自己的工作经验，对...
+ ## [2B产品的需求调研，还真不是人人都是产品经理](http://www.woshipm.com/pmd/3971982.html)
+ > 2B产品经理要深入了解、挖掘出客户/用户的真实需求，需要先具备一定的企业业务常识+良好的沟通引导技巧。本文作者给大家提供了三个步骤，来做用户访谈，希望能够对你有...
  ## [用救火队长的决策模型，让产品度过衰退期](http://www.woshipm.com/pmd/3995504.html)
  > 产品面临下滑和停滞是不可避免的，如何平稳度过是最大的考验，此时的产品经理担当者救火队长的身份，无论生存环境如何恶化都没有退路，只能通过进化去迎合变化。人逃...
  ## [通用设计：企业数据共享平台——联动、规范、高效](http://www.woshipm.com/pd/3990034.html)
  > 企业数据共享平台是支撑工业互联网相关应用开发的重要基础，能更好地发挥数字化、信息化技术对企业信息化系统及业务的支撑作用。本篇文章分享了企业数据共享平台的产品...
  ## [如何优化人工客服排队情况，提升客服效率和满意度](http://www.woshipm.com/pd/4001616.html)
  > 当一个产品出现问题时，大量用户涌入客服页面，会出现排队时间过长，客服效率低，从而导致用户对产品的满意度下降。那么如何解决这个问题呢？本文作者基于自己工作经验...
- ## [评分算法（1）：用户评分](http://www.woshipm.com/pd/4002329.html)
- > 从《社交网络》到豆瓣评分，这些都是用户评分的表现。文章介绍了用户评分算法的体系，并以豆瓣评分为例，展开了详细说明，包含贝叶斯公式和威尔逊区间法，与大家分享。...
- ## [需求评审：如何让开发明白产品的需求](http://www.woshipm.com/pmd/3962676.html)
- > 需求评审会，虽然是产品经理的演讲会、高光时刻，但是更重要的是怎么让“与会人员”明白我的需求是什么，达成一致意见或知道会后如何修改。发现问题，刻意练习我发现近...
- ## [同样是网红，为什么只有李佳琦们可以带货销售？](http://www.woshipm.com/it/4004022.html)
- > 在电商直播市场，大大小小的主播有很多，但其实并不是每个主播都跟李佳琦和薇娅一样，能够起到这么大销售作用。那究竟是为什么会造成这样的结果呢，其中有着怎样的原因...
- ## [线下课程｜员工早退晚到，产品管理者劝退就完事了吗？](http://www.woshipm.com/offline/4009730.html)
- > 张鹏，原本在一家互联网金融公司工作，因为业绩突出，在3月初被提升为所负责产品的管理人。晋升后张鹏开始管理十几人的小团队，可还没到一个月，他就被管理问题困扰得快...
- ## [产品经理周报第 115 期｜即刻App恢复上线新增了“心情日记”等功能；腾讯内测QQ惠购、直播购物、QQ群橱窗](http://www.woshipm.com/it/4007615.html)
- > 早上好呀，又是一周周五啦，周末又可以休息咯最近天气越来越炎热，但是口罩在公共场合以及人多的情况下依旧不能摘哦且最近天气多变，大家出门的时候记得要查看天气预...
+ ## [第一批00后，在QQ上“结婚”了~](http://www.chanpin100.com/article/111908)
+ > 各位朋友大家好，盼望着盼望着，00后系列解读的第二弹来了～
+ ## [产品经理建议：管理时间等于管理自己](http://www.chanpin100.com/article/111897)
+ > 对每一个成功的人来说，时间管理是很重要的一环。时间是我们最重要的资产，每一分每一秒逝去之后再也不会回头，问题是你如何有效地利用你的时间呢？
+ ## [如何做出一看就懂的设计方案？](http://www.chanpin100.com/article/111867)
+ > 从个人实际项目中总结输出设计方案的方法！
  ## [直播电商的“病”，微综艺或许能“治”](http://www.chanpin100.com/article/111854)
  > 赤裸裸的直播卖货定然不能长久，直播电商的商业逻辑里，应该先有了内容，后面才会产生交易。
  ## [产品经理如何度过试用期？](http://www.chanpin100.com/article/111868)
