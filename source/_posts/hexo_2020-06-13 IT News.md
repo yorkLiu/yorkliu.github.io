@@ -1,21 +1,21 @@
 ---
 title: 2020-06-13 IT News
 copyright: true
-date: 2020-06-13 08:01:24
+date: 2020-06-13 09:02:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [6月17日，六位专家带你深入智能制造技术及应用案例!](http://mp.weixin.qq.com/s?src=11&timestamp=1592004662&ver=2397&signature=MpC2D8miuRMtrEIkUp23wenwZNQTnfYPbLtaWcb*xGulKh0iTPj0ALawEwG6D866OvZ9031yuXwH0lb1OKlt7Edclg4wmN*IR4f9fI41U3mSsb-eDO9fNYZVHgFcSSTt&new=1)
- > __系列4 - 智能制造6月17日19点30分，英特尔首席工程师-工业机器人技术研发总监Atul Hatalkar，英特尔物联网事业部高级产品经理沈溢，英特尔资深软件工程师刘献容，凌华科技物联网策略解决方案与技术事业处（IST...
- ## [小科普|用这些“油猴”拓展，给你的浏览器加个BUFF!](http://mp.weixin.qq.com/s?src=11&timestamp=1592004662&ver=2397&signature=KInu6m6vIQGV28uEI98--H-JI*1a*RgKk8iWvmVdKq*FSEFlgJ45Z0WZcqGxbZlrCovmMr6uzLwLEtkNBjtLAtnVYX30NPQTV7b3lTlrpyg43Sxxpzu3Wqv5i2RPb1nA&new=1)
- > 俗话说得好“没有插件的Chrome没有灵魂”，给浏览器上插件，实现更多的功能，已经成了家常便饭，但并非所有插件都能轻易下到，有些过了期，有些有广告，有些会卡顿，有些占内存。有没有一款插件能实现所有功能，...
- ## [中国31个省市区未来产业布局，3D打印是重点](http://mp.weixin.qq.com/s?src=11&timestamp=1592004662&ver=2397&signature=Igc-X5D7xZYfFKjjxbG7kHAoqPaaQ8mnsSk5gLPczfMXSl7YJiTb*ALMLdzzYamJ-HFUWxQdV-8-Aaj*Y5UilMihuAhWg9maJQ58IooS7ZIOFnkLLI-zKumuuzWJXDeC&new=1)
- > 1、天津优势产业：航空航天、石油化工、装备制造、电子信息、生物医药、新能源新材料、轻工业、国防、现代物流、海洋经济。重点招商引资产业：现代服务业的高端商业和电子商务，研发、结算中心和企业总部，现代...
- ## [激光是如何推动光刻机产业发展的?](http://mp.weixin.qq.com/s?src=11&timestamp=1592004662&ver=2397&signature=kiWZsFnsf2w0AtIgmxTZyya17R6Y*QKXl74YsYWvG5aP-0-v-gJCQOsre9E4TUO43Xl9dGnPiSoUJ-hmjks7fiJwf6aey3*Itv1f52RwbIKx*IhxLqPZlVCc*wgjMpgn&new=1)
- > 当前PC/笔记本、智能手机、移动通信、人工智能、存储等产业能发展如此之快的原因之一是半导体产业一直在飞速发展，推动芯片性能不断增强。当前最先进的智能手机、5G通信芯片、存储芯片工艺是基于7nm工艺，今年下...
- ## [新物种“办公宝”破圈，618卖断货展现生命力](http://mp.weixin.qq.com/s?src=11&timestamp=1592004662&ver=2397&signature=xGEjMATXNezqJ20MLcv6Rsfqf2KWIImzIWwHFfz7vNpk7YwRmE-nMV1kzfeFmdoLN*NVsYada44fwSL5ojlh-93YZrzYJv8KfCX4sHz65ZmIX3OCKjysU842GJwaJFbm&new=1)
+ ## [新物种“办公宝”破圈，618卖断货展现生命力](http://mp.weixin.qq.com/s?src=11&timestamp=1592008206&ver=2397&signature=xGEjMATXNezqJ20MLcv6Rsfqf2KWIImzIWwHFfz7vNpk7YwRmE-nMV1kzfeFmdoL-mXR4BzdoLGm0AEZUMdTgZsRMQ3LsATCfeMotH9cBm9UhPqqiLwPRAIYD7avADnr&new=1)
  > 文 | 懂懂  编辑 | 秦言来源：懂懂笔记昨晚，在京东618——17周年庆直播节目中，京东搞了一场老板直播卖货专场，各位老板都带来了自己最得意的产品，既有我们熟悉的笔记本电脑，也有智能音箱、投影仪等等。其中...
+ ## [激光是如何推动光刻机产业发展的?](http://mp.weixin.qq.com/s?src=11&timestamp=1592008206&ver=2397&signature=kiWZsFnsf2w0AtIgmxTZyya17R6Y*QKXl74YsYWvG5aP-0-v-gJCQOsre9E4TUO4Hklw0FaZeEbyp1XZO6o4qIGMq603IPrLVclJj6tJC4scPPImmYJRIb2ekoODY0q0&new=1)
+ > 当前PC/笔记本、智能手机、移动通信、人工智能、存储等产业能发展如此之快的原因之一是半导体产业一直在飞速发展，推动芯片性能不断增强。当前最先进的智能手机、5G通信芯片、存储芯片工艺是基于7nm工艺，今年下...
+ ## [中国31个省市区未来产业布局，3D打印是重点](http://mp.weixin.qq.com/s?src=11&timestamp=1592008206&ver=2397&signature=Igc-X5D7xZYfFKjjxbG7kHAoqPaaQ8mnsSk5gLPczfMXSl7YJiTb*ALMLdzzYamJ2WldH5j91EAs8GhApzUlspQ9gbYhgDI4YPeNzMCCm-NnY5oAPTGafWFCAZdWKaCY&new=1)
+ > 1、天津优势产业：航空航天、石油化工、装备制造、电子信息、生物医药、新能源新材料、轻工业、国防、现代物流、海洋经济。重点招商引资产业：现代服务业的高端商业和电子商务，研发、结算中心和企业总部，现代...
+ ## [小科普|用这些“油猴”拓展，给你的浏览器加个BUFF!](http://mp.weixin.qq.com/s?src=11&timestamp=1592008206&ver=2397&signature=KInu6m6vIQGV28uEI98--H-JI*1a*RgKk8iWvmVdKq*FSEFlgJ45Z0WZcqGxbZlrN*i3bCKBeh*h59JKnq8BrhTZtmlpTfiqRSrI8u0oHWz40scDIM0KNcXLTucTtXiL&new=1)
+ > 俗话说得好“没有插件的Chrome没有灵魂”，给浏览器上插件，实现更多的功能，已经成了家常便饭，但并非所有插件都能轻易下到，有些过了期，有些有广告，有些会卡顿，有些占内存。有没有一款插件能实现所有功能，...
+ ## [6月17日，六位专家带你深入智能制造技术及应用案例!](http://mp.weixin.qq.com/s?src=11&timestamp=1592008206&ver=2397&signature=MpC2D8miuRMtrEIkUp23wenwZNQTnfYPbLtaWcb*xGulKh0iTPj0ALawEwG6D8662wBACq6O82TKmqDJ37wnBy-vY4icPxYMsco4jdIBX0KfJhNo9FJTY6UoU9921Obu&new=1)
+ > __系列4 - 智能制造6月17日19点30分，英特尔首席工程师-工业机器人技术研发总监Atul Hatalkar，英特尔物联网事业部高级产品经理沈溢，英特尔资深软件工程师刘献容，凌华科技物联网策略解决方案与技术事业处（IST...
 # IT 技术 
  ## [技术总监夸我“索引”用的溜，我飘了......](http://database.51cto.com/art/202006/618727.htm)
  > 技术总监夸我“索引”用的溜，我飘了......
@@ -45,20 +45,20 @@ categories: IT NEWS
  > 你怎么看欧阳娜娜空降阿里p8？
  ## [当后端一次性丢给你10万条数据, 作为前端工程师的你,要怎么处理?](https://blog.csdn.net/KlausLily/article/details/106654398)
  > 当后端一次性丢给你10万条数据, 作为前端工程师的你,要怎么处理?
- ## [计算机组成原理期末总结](https://blog.csdn.net/zss192/article/details/106652534)
- > 计算机组成原理期末总结
  ## [程序员去支付宝面试, 在休息室碰见公司老大, 气氛很尴尬](https://blog.csdn.net/qianduan167/article/details/106179341)
  > 程序员去支付宝面试, 在休息室碰见公司老大, 气氛很尴尬
+ ## [计算机组成原理期末总结](https://blog.csdn.net/zss192/article/details/106652534)
+ > 计算机组成原理期末总结
  ## [在中国程序员是青春饭吗？](https://blog.csdn.net/harvic880925/article/details/102850436)
  > 在中国程序员是青春饭吗？
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
  ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
- ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
- > 当HR压你价，说你只值7K，你该怎么回答？
  ## [MySQL中特别实用的几种SQL语句送给大家](https://blog.csdn.net/qq_39390545/article/details/106690916)
  > 
+ ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
+ > 当HR压你价，说你只值7K，你该怎么回答？
  ## [程序猿之间的鄙视链，你在第几层](https://blog.csdn.net/weixin_42864905/article/details/106630278)
  > 程序猿之间的鄙视链，你在第几层
  ## [C 语言编程 — 基本语法](https://blog.csdn.net/Jmilk/article/details/105281424)
