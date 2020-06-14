@@ -1,21 +1,25 @@
 ---
 title: 2020-06-14 IT News
 copyright: true
-date: 2020-06-14 10:02:24
+date: 2020-06-14 12:04:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [海能达新一代数字对讲机HP780，引领数字集群对讲机发展](http://mp.weixin.qq.com/s?src=11&timestamp=1592098205&ver=2399&signature=QJ2rV3lOboOBjUyFpN7JaPUzGeID2-PVm5evaHN8TgsRdeuOnosjsUm6ee3EQ*K8LfLrZFTYTeBmSbVbWM07SnTH-BIqkIJ5R8gbj9b6XwB-s1emy04J4Cq8biuSFYZo&new=1)
- > 当前，通信科技发展日新月异，新技术不断涌现，各具特色，发展周期也在不断缩短。作为行业前瞻者与引领者的海能达，以强劲的研发实力以及多年来对市场的深入分析，成功推出新一代PDT专业数字对讲机，为助推新时...
- ## [再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1592098205&ver=2399&signature=1HTXmPynB0O*U1yAVfx-YeSRnCWDtT0rZ93ZSGxwzNRqT8HJzYXWGSjB2ZdcNfjakEree7xvpF1CD0ZHIFqd3oD5Pueid0HYs7LCoTh907pyBEKBt3LZnLT7Z-ai0qiK&new=1)
- > 这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！别了，快递员！京东智能配送机器人正式上路！就在刚刚，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心...
- ## [2020年7月8-10号上海TCT亚洲3D打印展 团体赠票活动](http://mp.weixin.qq.com/s?src=11&timestamp=1592098205&ver=2399&signature=wfB0LR8et*tvuWxrMr52yuGGXs*yO*1aKmRrg151fG4672QTHwhxDWc*C2fvYLxfzX*R0lJwIMy4m5iYyP-VF-X4WG-wz6OeYS9mrofWVUQValT1tBwBGnchwZXK2xoG&new=1)
- > 团体参观预登记可获电子门票，免去现场50元门票报名请将列表发送至微信：xiaozhiasst 您将在展前一周收到确认短信，凭短信码换证入场。展...
- ## [信息技术如何为经济社会赋能?今天22:30档，听杨善林开讲!](http://mp.weixin.qq.com/s?src=11&timestamp=1592098205&ver=2399&signature=uUxJf88P3jhYdzB5k*myXx1PZVJOqpfab8XM4GHuC1m5NxXo3W9YC9zqPMaa1qE7O7Xywgz0dBJvOZoFSiBxedqVl1LmnHHH8SttKMw56BtQslBFHNWm9q1PO2L9hl75&new=1)
- > 开讲啦信息技术如何赋能经济社会发展需求？科技力量在此次抗击疫情中发挥了怎样的作用？今天22:30档中国工程院院士、合肥工业大学教授杨善林开讲敬请期待深耕信息技术行业三十余年杨善林院士一直致力于将高效的...
- ## [刚刚，外媒传言Arm已断供华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592098205&ver=2399&signature=9jZtKTZE-zMNSc9UMcR4V7nd9NYVk0SyMTYzvjowvhhB4xd3z9c4BT6MKj1cmpkquB5XKfkv1rQYzKBEnS7YakjmzzorDlTqemMroVPMfQtVjswAGylCuBJPOajV8ZcC&new=1)
+ ## [德国机床巨头通快，有哪些金属3D打印设备新品?](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=AeKOjL*4c8ezS4ipG4aet4QJXsyhFgu-xfuOQTcOZDG2XHkCGIJyGTrDGRqhxXucB6Ho2ATITuWrvFBkdXgJfjR1joB15aW519LqoRSiog6GMUF056mG1fkiWL5ayxgl&new=1)
+ > 南极熊导读：德国通快TRUMPF，全球领先的工业机床、激光技术厂商（2019财年营收达37.8亿欧元），从1999年开始增材制造技术及应用的开发，到现在已经有超过20年的积累，截止2020年已经推出多种基于激光技术的金属...
+ ## [刚刚，外媒传言Arm已断供华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=9jZtKTZE-zMNSc9UMcR4V7nd9NYVk0SyMTYzvjowvhgbgzqE7Vswb2Li9qgA4ajIM2TfFf0C67kO8YIfk*b-3WzCET4RYmuYBVcP-h1fXB87d4uJ2g*VoRKOuxBuZ-pD&new=1)
  > 6月13日外媒消息，据不具名圈内人士透露，Arm已正式终止了对华为的合作与支持！至此，如果消息属实，那么中国IC设计领头羊、全球排名前8的半导体企业华为（海思）失去了所有重要的IC设计业的合作伙伴支持。图片...
+ ## [2020年7月8-10号上海TCT亚洲3D打印展 团体赠票活动](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=wfB0LR8et*tvuWxrMr52yuGGXs*yO*1aKmRrg151fG4u8SALSyyVWR9Ktc2llMC5uVViIaxEouYUmA03VK7f2FvmcFtu6mnrzNu6d9Nfex6Zot02ddVROKFIc3lRXuQV&new=1)
+ > 团体参观预登记可获电子门票，免去现场50元门票报名请将列表发送至微信：xiaozhiasst 您将在展前一周收到确认短信，凭短信码换证入场。展...
+ ## [再见了，快递员!北京打响第一枪!](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=1HTXmPynB0O*U1yAVfx-YeSRnCWDtT0rZ93ZSGxwzNS9E8pEA-b8mDUm-nqmFe2mXwULhgsZHiLMSlbQvjHB45biOldGUMoOpKkZ3pQ7bBJR1RwWI4353JjHf-1EbW29&new=1)
+ > 这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！别了，快递员！京东智能配送机器人正式上路！就在刚刚，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心...
+ ## [创新应变 危中寻机](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=nwLlAqzBD4gs*b-0PGNpwCcARvaTxZaKaN7WRkqHpYX9sw5nfMdsT0rEsTGtJH99-ociefpFaVjgtIww4b6HgNUyntgHApO7gRO*bGk3hfw=&new=1)
+ > 6月12日，记者从贵阳高新区企业贵州翰凯斯智能技术有限公司获悉，该公司自主研发的“PIX自动驾驶底盘+多功能舱体”产品，通过把自动驾驶底盘模块化，加装舱体，变成自动驾驶移动空间，满足了疫情防控期间多...
+ ## [海能达新一代数字对讲机HP780，引领数字集群对讲机发展](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=QJ2rV3lOboOBjUyFpN7JaPUzGeID2-PVm5evaHN8Tgssf2lqTt0ixeRO6NepHIMf1kEHATIalbyIjF83cXe7SpVB5ScaS1X3Nkj700y-SgWRN3-mh3rBj5qHCp3lKRwT&new=1)
+ > 当前，通信科技发展日新月异，新技术不断涌现，各具特色，发展周期也在不断缩短。作为行业前瞻者与引领者的海能达，以强劲的研发实力以及多年来对市场的深入分析，成功推出新一代PDT专业数字对讲机，为助推新时...
+ ## [信息技术如何为经济社会赋能?今天22:30档，听杨善林开讲!](http://mp.weixin.qq.com/s?src=11&timestamp=1592105406&ver=2399&signature=uUxJf88P3jhYdzB5k*myXx1PZVJOqpfab8XM4GHuC1lmW9e9e8xsXSwpXqBu*2KFebqHqLOvpfPk83BDI59SanJmYRbJCgnUH9me0N94JfxKZ1vjEZn5hQ4v4AZCvMZz&new=1)
+ > 开讲啦信息技术如何赋能经济社会发展需求？科技力量在此次抗击疫情中发挥了怎样的作用？今天22:30档中国工程院院士、合肥工业大学教授杨善林开讲敬请期待深耕信息技术行业三十余年杨善林院士一直致力于将高效的...
 # IT 技术 
  ## [技术总监夸我“索引”用的溜，我飘了......](http://database.51cto.com/art/202006/618727.htm)
  > 技术总监夸我“索引”用的溜，我飘了......
@@ -63,10 +67,10 @@ categories: IT NEWS
  > 机器物联网的四大价值流
  ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
- ## [三、vue前后端交互（轻松入门vue）](https://blog.csdn.net/qq_38723677/article/details/106718579)
- > 
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
+ ## [三、vue前后端交互（轻松入门vue）](https://blog.csdn.net/qq_38723677/article/details/106718579)
+ > 
  ## [培训出身的人现在怎么样了（七）](https://blog.csdn.net/weixin_44356055/article/details/106626111)
  > 培训出身的人现在怎么样了（七）
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
@@ -75,37 +79,6 @@ categories: IT NEWS
  > 知名技术社区连续三天遭 DDos 攻击，高达 20 万次/秒请求
  ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
  > 太狠了，疫情期间面试，一个问题砍了我5000！
-# 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
 # PM 
  ## [眼动研究：用户如何在线阅读？](http://www.woshipm.com/user-research/3989176.html)
  > 技术日新月异，用户的阅读方式改变了吗？文章回顾了过去13年中一系列眼动研究的结论，我们可以发现即使设计发生变化，基本的扫描行为仍然保持不变。有时候变化越多，...
