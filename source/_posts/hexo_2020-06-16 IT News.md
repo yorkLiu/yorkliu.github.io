@@ -1,53 +1,63 @@
 ---
 title: 2020-06-16 IT News
 copyright: true
-date: 2020-06-16 08:01:03
+date: 2020-06-16 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [特朗普转推呼吁制裁微软，因微软、IBM、亚马逊暂停向警方提供面部识别服务](http://mp.weixin.qq.com/s?src=11&timestamp=1592263805&ver=2401&signature=fI2Uu3VXjui2U-CVFPAjzGzOyDDElC4XBlZoTX64qPHgNPB5rTNFHGZy4u2KESDef3ka7PYEWpEkVRkTQV0C43x1Zld2rutQlGUVXvnga1tZyY0LrV1NbKuIWZ16LAL7&new=1)
- > 导读：弗洛伊德事件引起的大规模抗议活动，已经从民众蔓延到各大科技公司，以抗议种族歧视和警察暴力执法。目前，微软、IBM、亚马逊都已对此事件公开表明立场。近日，特朗普转发了美国国家情报局前代理局长理查...
- ## [载人飞船试验船“黑匣子”取出 太空3D打印样件亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1592263805&ver=2401&signature=o6N8hJxHEBC-WX-qACXjPdOHez9TP6z4CRQr1e37MguqDwy-pcCpWOxs1olbkKUg946DHv5w90OwuMS1Bt5CQqRevj75-LjVqJZa5YTr0nWDfmc0u7exMM0XP1Zrpgjh&new=1)
- > 自新一代载人飞船试验船返回舱回到北京以来，技术人员对返回舱的各系统状态进行了全面检测。目前飞船黑匣子已取出，技术人员已经采集并分析了黑匣子当中的大量数据，为我国新一代载人飞船的后续研制及关键技术攻...
- ## [再见了，快递员!北京传来消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1592263805&ver=2401&signature=9U3vZTNts6okg-s3pDh-Fq6u-hNC1-JYarIzVcDzWqUUQlPu2JboCHKdQb8BTd3J8vMx1jFQMdAlbEvj9o-lIwJnoDndTnoU*rYgf4Rc*Pb9KEbdlGOqkz3xfysZfLL7&new=1)
- > 这个时代变化之快让人无法想象。一个个脑洞大开的创新，让人眼花缭乱，目眩神迷。01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的...
- ## [ARM别得意，国产芯片摆脱ARM迈出了重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1592263805&ver=2401&signature=321rhyieDCI8ijNs1rtbgOz9Q1vQnZGgR5kXEyFVDQ98JZa0aniMcOB6WOfgX1tfwabj-xV1BAv6QyWDg9sAeEah9aM9umYlwJGlObyKkAM2hkP55UKAigS8PCnotMjX&new=1)
- > 近日国产穿戴设备领头羊华米宣布已研发成功穿戴设备芯片黄山2号，将在今年四季度量产，黄山1号和黄山2号芯片均没有采用ARM架构，而是Risc-V架构，Risc-V公司已将总部从美国迁移至瑞士，未来或许会有更多芯片企业...
- ## [公有云厂商会错失短视频时代吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1592263805&ver=2401&signature=9HUfjnr-D39Owrznko0DTjfzlrGyPYoHnjwCtBkk3PzBawjgg5vkKHJoBBQICgt8QpvjveZRvef1Kv-SOrG9bnXkUyFzGERD8IAahWvEvplAf*xmTQMVwk7JUB1mXoEp&new=1)
+ ## [公有云厂商会错失短视频时代吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1592267475&ver=2401&signature=9HUfjnr-D39Owrznko0DTjfzlrGyPYoHnjwCtBkk3PzBawjgg5vkKHJoBBQICgt80yhC6im2deOwbKruun7AKeIvM4fMFgMHLlfatkkPEWKdt6WmY3W4rCb*f-Itrnnl&new=1)
  > 短视频厂商正在酝酿云平台实力，公有云需要创新服务留住这些「潜力股」。有人加码布局，有人加速撤退，云计算行业正呈现出两股截然不同的「涌动」。5 月 29 日，快手注册成立快手智能云（乌兰察布）科技有限公司...
+ ## [特朗普转推呼吁制裁微软，因微软、IBM、亚马逊暂停向警方提供面部识别服务](http://mp.weixin.qq.com/s?src=11&timestamp=1592267475&ver=2401&signature=fI2Uu3VXjui2U-CVFPAjzGzOyDDElC4XBlZoTX64qPHgNPB5rTNFHGZy4u2KESDeY1FXtzvLMNJqvaqCAZG7fEUj2Y1py5iDQ-OmuVnLc3T3G7TMM7IS7Qh9jg4Zw7vi&new=1)
+ > 导读：弗洛伊德事件引起的大规模抗议活动，已经从民众蔓延到各大科技公司，以抗议种族歧视和警察暴力执法。目前，微软、IBM、亚马逊都已对此事件公开表明立场。近日，特朗普转发了美国国家情报局前代理局长理查...
+ ## [再见了，快递员!北京传来消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1592267475&ver=2401&signature=9U3vZTNts6okg-s3pDh-Fq6u-hNC1-JYarIzVcDzWqUUQlPu2JboCHKdQb8BTd3JB2tkRS3YL-RvhQxS8yMkKAMOKL5m-xD*oQBgkdjBwG5L4yGRNqNkTeOHR*M5iUzM&new=1)
+ > 这个时代变化之快让人无法想象。一个个脑洞大开的创新，让人眼花缭乱，目眩神迷。01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的...
+ ## [载人飞船试验船“黑匣子”取出 太空3D打印样件亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1592267475&ver=2401&signature=o6N8hJxHEBC-WX-qACXjPdOHez9TP6z4CRQr1e37MguqDwy-pcCpWOxs1olbkKUgEmF--vgOLZetqVOW1Qe6000uEqKEQjjJ8Eg5jUVPlrMXy6jpU3cqqgJozbMInUH1&new=1)
+ > 自新一代载人飞船试验船返回舱回到北京以来，技术人员对返回舱的各系统状态进行了全面检测。目前飞船黑匣子已取出，技术人员已经采集并分析了黑匣子当中的大量数据，为我国新一代载人飞船的后续研制及关键技术攻...
+ ## [ARM别得意，国产芯片摆脱ARM迈出了重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1592267475&ver=2401&signature=321rhyieDCI8ijNs1rtbgOz9Q1vQnZGgR5kXEyFVDQ98JZa0aniMcOB6WOfgX1tfVAA*ZdUHEHFbxsT9qjcn88NDJrfzGAl-43yk6jeYC5yk7y8k1UjuEHzKz0WrYUY1&new=1)
+ > 近日国产穿戴设备领头羊华米宣布已研发成功穿戴设备芯片黄山2号，将在今年四季度量产，黄山1号和黄山2号芯片均没有采用ARM架构，而是Risc-V架构，Risc-V公司已将总部从美国迁移至瑞士，未来或许会有更多芯片企业...
 # IT 技术 
  ## [查看Linux上文件内容的5个方法](http://os.51cto.com/art/202006/618919.htm)
  > 查看Linux上文件内容的5个方法
+ ## [哪些数据库是行存储？哪些是列存储？有什么区别？](http://database.51cto.com/art/202006/618846.htm)
+ > 哪些数据库是行存储？哪些是列存储？有什么区别？
+ ## [企业会出现网络安全问题的原因](http://netsecurity.51cto.com/art/202006/618818.htm)
+ > 企业会出现网络安全问题的原因
+ ## [智慧城市在边缘](http://www.cioage.com/art/202006/618816.htm)
+ > 智慧城市在边缘
+ ## [理解M2M与物联网的差异](http://iot.51cto.com/art/202006/618815.htm)
+ > 理解M2M与物联网的差异
  ## [容器和Kebernetes年度安全报告解析](http://netsecurity.51cto.com/art/202006/618927.htm)
  > 容器和Kebernetes年度安全报告解析
- ## [解读GitOps](http://developer.51cto.com/art/202006/618806.htm)
- > 解读GitOps
- ## [在大公司做程序员 vs 在小公司做程序员](http://news.51cto.com/art/202006/618821.htm)
- > 在大公司做程序员 vs 在小公司做程序员
- ## [如何画好一张架构图？](http://zhuanlan.51cto.com/art/202006/618850.htm)
- > 如何画好一张架构图？
- ## [求求你们了，别再写满屏的try catch了...](http://developer.51cto.com/art/202006/618819.htm)
- > 求求你们了，别再写满屏的try catch了...
- ## [每天CRUD，程序员如何才能提高？](http://news.51cto.com/art/202006/618820.htm)
- > 每天CRUD，程序员如何才能提高？
- ## [如何通过预测性维护来提高机器的投资回报率](http://iot.51cto.com/art/202006/618705.htm)
- > 如何通过预测性维护来提高机器的投资回报率
+ ## [大数据未来发展的6个趋势](http://bigdata.51cto.com/art/202006/618875.htm)
+ > 大数据未来发展的6个趋势
+ ## [2020面向PHP的5个优秀框架，解释了为什么选择它们](http://developer.51cto.com/art/202006/618862.htm)
+ > 2020面向PHP的5个优秀框架，解释了为什么选择它们
+ ## [您真的需要数据湖吗？](http://database.51cto.com/art/202006/618946.htm)
+ > 如果您正在讨论是否需要数据湖来加强数据策略，那么本文将为您提供一些帮助，以便您进行电话咨询。
+ ## [在数据中心利用AI的5个理由](http://server.51cto.com/Datacenter-618945.htm)
+ > 人工智能已经存在了很长一段时间，其不断发展以其提升性能和降低成本的质量破坏了不同的行业和领域。另一方
+ ## [如何使用 Shell 脚本来查看多个服务器的端口是否打开？](http://os.51cto.com/art/202006/618941.htm)
+ > 在本文里，我们用 Shell 脚本来实现两个需求：扫描多台服务器的一个端口是否打开和扫描多台服务器的多个端
+ ## [新基建定义数据中心新内涵](http://network.51cto.com/art/202006/618943.htm)
+ > 今年全国两会，新基建首次被写入政府工作报告，受到了社会各界的高度关注。日前，《我国典型地区数据中心网
+ ## [人工智能真的“万能”吗？](http://ai.51cto.com/art/202006/618939.htm)
+ > 许多安防行业的专家正在反思过去十年中出现的新兴技术，并期也对未来的技术充满期待。人工智能（AI）现在是
+ ## [代码之间为什么要加空格？](http://developer.51cto.com/art/202006/618937.htm)
+ > 据我观察，大多数人写代码喜欢在符号两侧加空格，而且还会嘲讽不加空格的人。这些支持者认为，加空格可以让
+ ## [功能把微信越甩越远？手机QQ新版详细体验](http://mobile.51cto.com/app-show-618938.htm)
+ > QQ和微信都是腾讯旗下的IM产品，但在功能方面，毫不客气地说，手机QQ要远远强于微信，而且越甩越远！最近，
+ ## [10个 我经常逛的国外技术社区，真的受益匪浅！](http://news.51cto.com/art/202006/618936.htm)
+ > 经常有小伙伴问：“小富，有什么国外的技术社区、博客推荐吗?” 总有人问，索性我就把自己经常访问的10个
  ## [写给开发人员的Web无障碍标准](http://developer.51cto.com/art/202006/618935.htm)
  > 网络可访问性标准很重要，对Web开发人员，必须要解知识一些应Web可访问性标准，以便创造更好的访问体验。然
  ## [物联网与无障碍追求](http://iot.51cto.com/art/202006/618933.htm)
  > 根据世界银行（worldbank）的数据显示，多达10亿人（占世界人口的15％）被诊断出患有某种形式的残疾。
- ## [物联网正在改善人们的生活](http://iot.51cto.com/art/202006/618932.htm)
- > 物联网的创新正在使设备更加智能，从而创造出无限的技术解决方案，使人们的生活更加轻松愉悦。让我们来看看
- ## [Web页面制作基础](https://blog.csdn.net/qq_36232611/article/details/105103596)
- > Web页面制作基础
  ## [有些事现在不做，一辈子都不会做了。](https://blog.csdn.net/ityouknow/article/details/106726385)
  > 有些事现在不做，一辈子都不会做了。
- ## [Python 图像处理 OpenCV （7）：图像平滑（滤波）处理](https://blog.csdn.net/meteor_93/article/details/106583296)
- > 
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
- ## [C 之 String类常用方法汇总](https://blog.csdn.net/Czhenya/article/details/106707990)
+ ## [Python 图像处理 OpenCV （7）：图像平滑（滤波）处理](https://blog.csdn.net/meteor_93/article/details/106583296)
  > 
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
@@ -55,20 +65,24 @@ categories: IT NEWS
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
- ## [程序员的学历，真的有那么重要吗？](https://blog.csdn.net/qianduan167/article/details/106713193)
- > 程序员的学历，真的有那么重要吗？
- ## [3万月薪不要跑去拿月薪7千当老师，程序员吐槽女友选择惹争议，幼稚？](https://blog.csdn.net/qianduan167/article/details/106235680)
- > 3万月薪不要跑去拿月薪7千当老师，程序员吐槽女友选择惹争议，幼稚？
- ## [程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝](https://blog.csdn.net/qianduan167/article/details/106234859)
- > 程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝
- ## [太高效了！玩了这么久的Linux，居然不知道这7个终端快捷键！](https://blog.csdn.net/yychuyu/article/details/106289380)
- > 
+ ## [Web页面制作基础](https://blog.csdn.net/qq_36232611/article/details/105103596)
+ > Web页面制作基础
+ ## [面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？](https://blog.csdn.net/Design407/article/details/105738386)
+ > 面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ > 
+ ## [C 之 String类常用方法汇总](https://blog.csdn.net/Czhenya/article/details/106707990)
+ > 
+ ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
+ > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
+ ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
+ > 太狠了，疫情期间面试，一个问题砍了我5000！
+ ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
+ > 爬虫（101）爬点重口味的
+ ## [太高效了！玩了这么久的Linux，居然不知道这7个终端快捷键！](https://blog.csdn.net/yychuyu/article/details/106289380)
  > 
  ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
  > 当HR压你价，说你只值7K，你该怎么回答？
- ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
- > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
 # 人工智能 
  ## [Kotlin Android开发·开始面向对象](https://blog.csdn.net/qq_40881680/article/details/106725893)
  > Kotlin Android开发·开始面向对象
@@ -101,6 +115,10 @@ categories: IT NEWS
  ## [全文检索技术_Lucene介绍](https://blog.csdn.net/zhaoliwen/article/details/106727490)
  > 全文检索技术_Lucene介绍
 # PM 
+ ## [拼多多没有价格战](http://www.woshipm.com/it/4023557.html)
+ > 拼多多的成功并不是因为价格便宜，而是它发掘了那些被人忽视的消费市场，并形成了商品制造-流通-消费的闭环。消费者想要的永远是更便宜的商品，电商平台想要获得长久发...
+ ## [做产品，没有“标配功能”](http://www.woshipm.com/pmd/4018792.html)
+ > 任何产品的功能设计都需要根据实际的用户需求来设置，而不是“标配功能”。就算产品把所有的标配功能都配置了，也并不代表用户就会使用这些功能，因为用户可能根本就没有...
  ## [关于微信群聊名称为什么允许所有成员修改的几点思考](http://www.chanpin100.com/article/111874)
  > 微信群聊名称为什么支持所有成员修改，这是一些思考
  ## [产品经理十二时辰](http://www.chanpin100.com/article/111924)
