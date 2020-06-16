@@ -1,7 +1,7 @@
 ---
 title: 2020-06-16 IT News
 copyright: true
-date: 2020-06-16 10:01:17
+date: 2020-06-16 12:01:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -101,17 +101,27 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [专访|厦门三优：坚守高科技制造本心 推动光通信产业共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1592271006&ver=2401&signature=4balw9kfrJqI8csoT1sT-joAXiuFoi4gJuTFpAr3rhhyCm1ye1zBVHQCLRONzAF6mlEAYmAo76tnWCHGxMB-SE1DAYd1OQsw1TuMDbZm9ldR5zh3IhheYDzdNyj52nk*&new=1)
+ ## [明年将产数百万金属3D打印零件，抢数控、MIM订单，3DEO低成本大批量制造技术来了](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=rc0i5Mi6Cl5N70qv6VIDo2k286yr7QgywCT*rp6yZ6*w3F4u26aKw1ovIm*8*TaMnCE0xH5ENlbNG-RUSEbU9iKFfL7Fug*s2NSc3PjM2TwtDFuJRm51LIW7LSEGB*TG&new=1)
+ > 南极熊导读：之前我们也不止一次提到，批量生产最终用途的部件是3D打印技术下一步的发展方向，一些公司也正在这条路上不断前行（详见《PPT：2020年3D打印行业趋势分析》），那么制造多少零件才能算得上是批量生...
+ ## [专访|厦门三优：坚守高科技制造本心 推动光通信产业共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=fYu*LC7CvS0i28W-GckLCG6KgpKtdESpFzNAZ5q8ToCOV8gH2dt8v0sulBdsuSq2bN2lkVpK9OCFrFPGYfwbh5Ngdf5G761VKgSfuFzG5joATnzQgCSnKE87KVnr42u5&new=1)
  > 新闻导读新基建驱动5G发展，但高昂资金投入和较低利润却是光通信面对资本市场的难点，厦门三优董事长李总倡议：业界携手打造理性产业环境，差异化合作和产业链协同创新让优势互补，以差异化找到自身优势和利润增...
- ## [载人飞船试验船“黑匣子”取出 太空3D打印样件亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1592271006&ver=2401&signature=o6N8hJxHEBC-WX-qACXjPdOHez9TP6z4CRQr1e37MgvrZ3RCIBMyu-Y9DNDIhM1d6EXOumatgxqHas6H90-5v-g-uiD1EUWaNEqSRq3sOUH-3IEEOGzOCujNs0u3Q0if&new=1)
+ ## [搭建多方共赢的“车生态”](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=I*dEVIB9IAy*FRLnEcyoHptxZso2*YNr0oeowdPn*2hthcYcsnZc6CEc94HGco3wS5JC*Mz7nJz44AYcKgKyn6HvOJx25v6zPWYJEbxMkew=&new=1)
+ > 成立于2015年的贵州车秘科技有限公司，从原有的20多名员工到目前的百余名员工，公司不断发展壮大。在发展过程中，经历了物业公司、车主从质疑、不配合，到主动合作的过程。　　“与我们合作的第一家物业...
+ ## [孟晚舟案再次开庭；中国 5G 毫米波芯片研发成功；Ant Design 4.3.4 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=*hNRGXnI*ZJ4jR2JZOb3lIMQ2j4IRZ2zpyG6-i-9D9C9bE-7BUeJWuQYFpqc98vmbdQkQKSefISoXaEstmxKlQYvmmSdEiQTSsMKtmko*1-BWdFZyuuzj1i8H8AuPQig&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
+ ## [世界智能大会6个展区，可实现云逛展!云展览!云洽谈!](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=owxje*umj-ugjdFFuhFzgCv40PCsJC3oRXO5fmDbDEyc4RRYroFmHnqNXj0p-Poq9ejTWaIgZ9Pc*iKM90PzVdYhbtvmcpVqPC90BR072sGJxOhVTUGkhZ3EfXuc*c2G&new=1)
+ > 记者 马晓冬第四届世界智能大会“云智能科技展”将于6月23日正式开展，共设置科研创新、智能制造、智能交通、智慧生活、智慧城市、大数据六个展区，可实现云逛展、云展览、云洽谈三大主要功能。据介绍，“云智能...
+ ## [腾讯游戏年会临近 机构强力布局云游戏主题](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=xsvgdxijgUX5clAR8eEHTH7po-uFfqr7YfCYyJ9BufM9uCk4vyoAqIO-Or-b5wRZM863Lj03H1cNMtswFo03vcgESHLpgADda*uYwBBAGAw=&new=1)
+ > 云游戏正在成为机构加码布局的重点。腾讯游戏年度发布会将于6月27日召开，云游戏将是重磅主题。机构认为，产业趋势向好、景气度持续提升的云游戏板块，将会受到很大提振。在5G商用加速推进的情况下，云游戏...
+ ## [载人飞船试验船“黑匣子”取出 太空3D打印样件亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=lsoSE1MtAx5nVdB4JxfDfs9GZE7Dgim0XTV3oJl56ggyRX2*4sU168xg1uu*F5oeTN06b1E4vAVc2GTwlkupUiEFgsZ8Fqq*CweYHvssLDQrYtm5bsfD2iJA4liuxsEm&new=1)
  > 自新一代载人飞船试验船返回舱回到北京以来，技术人员对返回舱的各系统状态进行了全面检测。目前飞船黑匣子已取出，技术人员已经采集并分析了黑匣子当中的大量数据，为我国新一代载人飞船的后续研制及关键技术攻...
- ## [特朗普转推呼吁制裁微软，因微软、IBM、亚马逊暂停向警方提供面部识别服务](http://mp.weixin.qq.com/s?src=11&timestamp=1592271006&ver=2401&signature=fI2Uu3VXjui2U-CVFPAjzGzOyDDElC4XBlZoTX64qPGqPWaSWfOE86sOdC77tqtXjCqxUR08zm3TV0SxN2maTrqOIDPAsqRGXztiRjKv0G1OSiqe7DYQXI1nOlbbgOwe&new=1)
+ ## [特朗普转推呼吁制裁微软，因微软、IBM、亚马逊暂停向警方提供面部识别服务](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=aDQk4wZwyf7NMSSK8KemEj8bOUDv9dPtsHmm89l3khVRLM-AhIgR9WWvRliLwOIHRUhdg1fzLvKuapP5os9l4V2KNveaY0pKrBKZ7wXv5rRc8IgFsp9W0lPn0CPy6MJh&new=1)
  > 导读：弗洛伊德事件引起的大规模抗议活动，已经从民众蔓延到各大科技公司，以抗议种族歧视和警察暴力执法。目前，微软、IBM、亚马逊都已对此事件公开表明立场。近日，特朗普转发了美国国家情报局前代理局长理查...
- ## [ARM别得意，国产芯片摆脱ARM迈出了重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1592271006&ver=2401&signature=321rhyieDCI8ijNs1rtbgOz9Q1vQnZGgR5kXEyFVDQ*rnw3QOaYwR1UVAeey1RtKswHdlamw5dOzUM0P6pAUf0qUNujDeNF3HM7Vc-5Op0DJ73eKrZT8*ii2ATl9bc4j&new=1)
+ ## [ARM别得意，国产芯片摆脱ARM迈出了重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=HzfrPyTA-B07hcbOkN41IqIotjV1Mr98Rb5QCrxLt8D8QeWoOMdJ1mAz*IY4FzKG3m9Hg3ty7T8RarBda2nSOGlNE89W2P58GNEetLQKuVWbdfwqu8ywLql1Pou033-Y&new=1)
  > 近日国产穿戴设备领头羊华米宣布已研发成功穿戴设备芯片黄山2号，将在今年四季度量产，黄山1号和黄山2号芯片均没有采用ARM架构，而是Risc-V架构，Risc-V公司已将总部从美国迁移至瑞士，未来或许会有更多芯片企业...
- ## [公有云厂商会错失短视频时代吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1592271006&ver=2401&signature=9HUfjnr-D39Owrznko0DTjfzlrGyPYoHnjwCtBkk3Pw4txZs3en7xdYRYj-VccmRQiJRWXzb9F6PcOjwcEPsqtzFHnpKlVoE9CZ-JJiyTszn4ASSk5DTSDoyRY6CegqL&new=1)
+ ## [公有云厂商会错失短视频时代吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=icNnaOs72GdDTGEm3*l4nMeCVgRzMpFBMjWDb1fcSux2QBTDmrvoFHl0filSXTeh4AThjD46m4Cx6qfC75lDFh16Y15ylRMlgN2SxhtaTxthE*fHT0lvwz6aYxv23N0n&new=1)
  > 短视频厂商正在酝酿云平台实力，公有云需要创新服务留住这些「潜力股」。有人加码布局，有人加速撤退，云计算行业正呈现出两股截然不同的「涌动」。5 月 29 日，快手注册成立快手智能云（乌兰察布）科技有限公司...
- ## [再见了，快递员!北京传来消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1592271006&ver=2401&signature=9U3vZTNts6okg-s3pDh-Fq6u-hNC1-JYarIzVcDzWqU8dNJ85bl9XosOtz*j8R8zOvNP09xTCH7T445jQN5I*asR3ILy1HRWIvQWmqSi9bJ--fqtdrRA0IubJtvtYSjf&new=1)
+ ## [再见了，快递员!北京传来消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1592278206&ver=2403&signature=JLVIDg1aYtFQ8LpRNNIwqBGfdrYtlH17jTz1aGluFQrqvx2xvCl0uo4b*zhD867mfEnZrrlGavRS2K5TwmkzUBeKvAiw547xRhnppSFsTowWuT1*9Rtw3OXs0Gmr2eoK&new=1)
  > 这个时代变化之快让人无法想象。一个个脑洞大开的创新，让人眼花缭乱，目眩神迷。01别了，快递员！配送机器人正式上路这几天，刘强东突然扔出一枚超级核弹，炸的整个物流业措手不及，炸得快递员胆战心惊：京东的...
 # IT 技术 
  ## [我为什么用ES做Redis监控，不用Prometheus或Zabbix？](http://stor.51cto.com/art/202006/618952.htm)
@@ -130,88 +140,69 @@ categories: IT NEWS
  > 容器和Kebernetes年度安全报告解析
  ## [大数据未来发展的6个趋势](http://bigdata.51cto.com/art/202006/618875.htm)
  > 大数据未来发展的6个趋势
- ## [10大物联网应用基本安全提示](http://iot.51cto.com/art/202006/618956.htm)
- > 物联网的广泛应用，在给社会生产生活带来便利和价值提升的同时，也让我们面临着巨大的安全挑战。无论你如何
- ## [暗网出售呼吸机和MP3文件，声称能杀死冠状病毒？](http://netsecurity.51cto.com/art/202006/618955.htm)
- > 暗网的犯罪分子声称可以通过收听他们出售的MP3，治愈冠状病毒感染。
- ## [美国商务部：将允许美国公司与华为合作制定5G网络标准](http://news.51cto.com/art/202006/618954.htm)
- > 北京时间6月16日凌晨消息，美国政府周一证实，将会修改禁止美国企业与华为进行生意往来的禁令，允许其合作
- ## [灾难恢复和云计算的3个误区](http://cloud.51cto.com/art/202006/618951.htm)
- > 大多数IT人士了解备份和恢复操作的必要性，但是迁移到云平台中却引起了一些混乱。灾难恢复(DR)是每次将应用
- ## [小白用户如何提高智能家居的安全性?](http://netsecurity.51cto.com/art/202006/618950.htm)
- > 几乎所有家用电器都有一个智能版本可选择，可以将远程监控摄像头连接到智能灯和冰箱。但是，问题是，这些智
- ## [数据科学入门前需要知道的10件事](http://zhuanlan.51cto.com/art/202006/618949.htm)
- > 本文作者是研究数据挖掘和生物医学方向，目前就职于泰国的一所研究大学的全职生物信息学副教授。他在22岁时
- ## [微软的 Project Reunion 究竟是什么？](http://news.51cto.com/art/202006/618958.htm)
- > 很多开发者不清楚Project Reunion 的功能究竟有哪些、能够用来干些什么。于是，微软最近又更新了一份文档，
- ## [一文搞懂什么是vlan、三层交换机、网关、DNS、子网掩码、MAC地址](http://network.51cto.com/art/202006/618948.htm)
- > VLAN中文是“虚拟局域网”。LAN可以是由少数几台家用计算机构成的网络，也可以是数以百计的计算机构成的企
- ## [Linux Shell脚本的10个有用的“面试问题和解答”](http://os.51cto.com/art/202006/618947.htm)
- > 在此，作为shell脚本的附加内容，在本文中我们将从面试的角度解读与Linux Shell相关的问题。
- ## [您真的需要数据湖吗？](http://database.51cto.com/art/202006/618946.htm)
- > 如果您正在讨论是否需要数据湖来加强数据策略，那么本文将为您提供一些帮助，以便您进行电话咨询。
+ ## [惠普金卫东：直面挑战，逆流而上，持续创造奇迹](http://biz.51cto.com/art/202006/618986.htm)
+ > “一半是海水，一半是火焰。”这是金卫东在谈到惠普打印产品销售时总结的一句话。一半是海水，指得是家用产
+ ## [评估SaaS服务商安全性的十个要点](http://zhuanlan.51cto.com/art/202006/618984.htm)
+ > 我们建议计划使用云服务的企业，对云服务商进行必要的安全评估，降低业务风险，以下是网络安全专业人士对于
+ ## [医疗物联网：应用范围扩展到医院之外](http://iot.51cto.com/art/202006/618981.htm)
+ > 物联网技术可以通过三种方式继续帮助医护人员拉平曲线并抵抗冠状病毒大流行。
+ ## [现在是向软件定义数据中心添加软件定义电源的时候了](http://network.51cto.com/art/202006/618980.htm)
+ > 更好地配置和利用数据中心中电源的功能可以节省成本并且更加节能环保。
+ ## [零售行业商业智能和数据科学的发展趋势](http://bigdata.51cto.com/art/202006/618979.htm)
+ > 零售行业的组织需要关注商业智能和数据科学的发展趋势，从中可以获取更多信息。
+ ## [Github标星74.7K！新手程序员不知道这个项目真是亏大了](http://news.51cto.com/art/202006/618983.htm)
+ > 今天，猿妹要和大家分享一个项目，通过它你可以学到如何从零开始，构建属于自己的练手应用，现在已经在Gith
+ ## [Linux 之父：新的补丁看完了，太差了，所以我删了](http://os.51cto.com/art/202006/618975.htm)
+ > 近日，Linux内核负责人Linus Torvalds(linux之父)删除了Amazon Web Services(AWS)工程师的补丁程序。
+ ## [中国5G：明明我比4G多1个G，为什么还是有那么多人不喜欢我？](http://network.51cto.com/art/202006/618974.htm)
+ > 经历过1G、2G、3G、4G的快速发展，到今天，面向产品互联网和智慧城市应用的“中国5G时代”终于要来了!但是
+ ## [如何优化云计算投资](http://cloud.51cto.com/art/202006/618969.htm)
+ > 实际上，成本优化是组织在其IT系统生命周期中一个不断改进的过程。对于那些希望优化其云计算应用并尽可能降
+ ## [边缘计算对智慧城市运营建设至关重要](http://network.51cto.com/art/202006/618965.htm)
+ > 近年来，边缘计算由于其启用的许多基于IoT的应用而在智慧城市领域引起了轰动。与之前的集中式愿景不同，边
+ ## [记我的大学（负能量向，慎读）](https://blog.csdn.net/cdut2016/article/details/106722762)
+ > 记我的大学（负能量向，慎读）
  ## [有些事现在不做，一辈子都不会做了。](https://blog.csdn.net/ityouknow/article/details/106726385)
  > 有些事现在不做，一辈子都不会做了。
- ## [Python 图像处理 OpenCV （7）：图像平滑（滤波）处理](https://blog.csdn.net/meteor_93/article/details/106583296)
- > 
- ## [「视频」就业难，工资低？大概率是方向没选对！](https://live.csdn.net/v/7828)
- > 「视频」就业难，工资低？大概率是方向没选对！
- ## [Web页面制作基础](https://blog.csdn.net/qq_36232611/article/details/105103596)
- > Web页面制作基础
- ## [「视频」你知道“数学+机械=智力”吗？！](https://live.csdn.net/v/24585)
- > 「视频」你知道“数学+机械=智力”吗？！
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
- ## [C 之 String类常用方法汇总](https://blog.csdn.net/Czhenya/article/details/106707990)
+ ## [Python 图像处理 OpenCV （7）：图像平滑（滤波）处理](https://blog.csdn.net/meteor_93/article/details/106583296)
  > 
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
  ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
- ## [程序员的学历，真的有那么重要吗？](https://blog.csdn.net/qianduan167/article/details/106713193)
- > 程序员的学历，真的有那么重要吗？
- ## [3万月薪不要跑去拿月薪7千当老师，程序员吐槽女友选择惹争议，幼稚？](https://blog.csdn.net/qianduan167/article/details/106235680)
- > 3万月薪不要跑去拿月薪7千当老师，程序员吐槽女友选择惹争议，幼稚？
  ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
  > 大三实习生，字节跳动面经分享，已拿Offer
- ## [太高效了！玩了这么久的Linux，居然不知道这7个终端快捷键！](https://blog.csdn.net/yychuyu/article/details/106289380)
- > 
- ## [程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝](https://blog.csdn.net/qianduan167/article/details/106234859)
- > 程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝
+ ## [Web页面制作基础](https://blog.csdn.net/qq_36232611/article/details/105103596)
+ > Web页面制作基础
+ ## [面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？](https://blog.csdn.net/Design407/article/details/105738386)
+ > 面试官：你对Redis缓存了解吗？面对这11道面试题是否有很多问号？
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
-# 人工智能 
- ## [Java基础知识笔记五（详细）](https://blog.csdn.net/qq_45893999/article/details/106707858)
+ ## [C 之 String类常用方法汇总](https://blog.csdn.net/Czhenya/article/details/106707990)
  > 
- ## [工作记录——渗透测试](https://blog.csdn.net/qq_43638123/article/details/106719151)
- > 工作记录——渗透测试
- ## [JavaWeb~实现生产者消费者模型(BlockingQueue阻塞队列)](https://blog.csdn.net/Shangxingya/article/details/106733281)
- > JavaWeb~实现生产者消费者模型(BlockingQueue阻塞队列)
- ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
- > 
- ## [爬虫简介](https://blog.csdn.net/D_Toro/article/details/106691912)
- > 爬虫简介
- ## [C++学习过程中的坑——持续更新](https://blog.csdn.net/GeomasterYi/article/details/106728267)
- > C++学习过程中的坑——持续更新
- ## [Java学习——线程安全概念（卖票案例模拟）](https://blog.csdn.net/weixin_44664432/article/details/106728083)
- > Java学习——线程安全概念（卖票案例模拟）
- ## [Fragment中拦截onBackPressed()返回事件](https://blog.csdn.net/qq_39240270/article/details/106737778)
- > Fragment中拦截onBackPressed()返回事件
- ## [渗透环境搭建](https://blog.csdn.net/weixin_45794666/article/details/106626717)
- > 渗透环境搭建
- ## [口令，短信验证码，生物特征认证，谁是未来的身份认证2020-06-13](https://blog.csdn.net/qq_41673946/article/details/106727354)
- > 口令，短信验证码，生物特征认证，谁是未来的身份认证2020-06-13
- ## [“针刺试验”是否真有必要？  磷酸铁锂VS三元锂谁才是无冕之王](https://blog.csdn.net/u010038194/article/details/106732596)
- > “针刺试验”是否真有必要？  磷酸铁锂VS三元锂谁才是无冕之王
- ## [java类加载器和双亲委派机制](https://blog.csdn.net/sky15256567734/article/details/106695394)
- > java类加载器和双亲委派机制
- ## [学习记录 2020/6/10](https://blog.csdn.net/Seth423/article/details/106700328)
- > 学习记录 2020/6/10
- ## [web-security第六期：畅谈 Spring Security Authorization（授权）](https://blog.csdn.net/qq_42013035/article/details/106712074)
- > 
- ## [MS17-010（永恒之蓝）漏洞复现（含新姿势）](https://blog.csdn.net/qq_37872337/article/details/106733863)
- > MS17-010（永恒之蓝）漏洞复现（含新姿势）
+ ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
+ > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
+ ## [1000桶水，其中一桶有毒，猪喝毒水后会在15分钟内死去，想用一个小时找到这桶毒水，至少需要几头猪？](https://blog.csdn.net/soga235/article/details/106690599)
+ > 1000桶水，其中一桶有毒，猪喝毒水后会在15分钟内死去，想用一个小时找到这桶毒水，至少需要几头猪？
+ ## [太狠了，疫情期间面试，一个问题砍了我5000！](https://blog.csdn.net/likun557/article/details/105648757)
+ > 太狠了，疫情期间面试，一个问题砍了我5000！
+ ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
+ > 爬虫（101）爬点重口味的
 # PM 
+ ## [618初战，京东+拼多多为何小于淘宝](http://www.woshipm.com/it/4021857.html)
+ > 目前，从各方面数据来看，618狂欢的“人气”更多的向淘宝集中，那在这些数字的背后揭露了什么真相呢？京东+拼多多为何小于淘宝？黑天鹅的影响下，5月成为一个关键月份。...
+ ## [宜家的数字化转型：进击的会员体系](http://www.woshipm.com/it/4021289.html)
+ > 宜家的会员体系是怎样的呢？其实宜家的会员体系类似于盒马，但是又类似于苹果，那么，在这个基础上，宜家应该怎么去构建属于自己的独特的会员体系呢？如果是盒马运营...
+ ## [入门公开课 | 产品经理的宏观能力、中观套路、微观体感是什么？](http://www.woshipm.com/open/4026068.html)
+ > 当你开始着手入门一个新领域的时候，一定要先给自己画一个知识地图，大概明确要学哪些东西，学习的边界在哪里，这样目标才能清晰，不容易半途而废。但据我们观察，80%...
+ ## [如何在留存数据中，找到业务的提升点？](http://www.woshipm.com/operate/4019693.html)
+ > 留存是指，用户在注册登录一段时间后，依旧使用该产品的的用户被称为留存用户，这些用户占新增用户的比例称为留存率。“留存率”主要是验证用户粘性的关键指标，衡量用户...
+ ## [网络音频平台产品分析 | 荔枝APP](http://www.woshipm.com/evaluating/3967566.html)
+ > 本文旨在分析中国网络音频的行业现状及了解荔枝APP的产品特性，从行业背景、产品概况、竞品分析和功能分析等几个部分对荔枝APP展开了分析，并结合网络音频行业的发展趋...
+ ## [一文读懂：AI、BI和CI如何成就智慧零售？](http://www.woshipm.com/newretail/4021451.html)
+ > 随着大数据、人工智能、云计算三波浪潮的深入融合，基于AI+BI的CI已经在紧跟时代发展的企业身上落地开花。那大家是否了解AI、BI和CI是什么呢？它们在零售领域是如何应用...
  ## [FMS财务系统收支结算总结](http://www.woshipm.com/pd/4015033.html)
  > 本文按照FMS收支结算划分，结算流程分类及各系统交互，财务系统内部结算基础能力，收支结算整体结构的顺序来依次介绍，总结财务系统收支结算的结构，和一些作者的个人思...
  ## [供应链金融平台应该整合哪些外部服务？](http://www.woshipm.com/operate/4019737.html)
@@ -222,41 +213,5 @@ categories: IT NEWS
  > 衣、食、住、行四个基本生活需求中，后三者已经与线上结合地非常好，发展迅速。衣服由于线上APP无法满足衣服“贴合、舒适”的特殊需求，消费者的消费方式依旧倾向于线下试...
  ## [金融科技的主要技术：移动互联网、大数据与云计算](http://www.woshipm.com/it/4008052.html)
  > 现代金融实际上是和科技结合最紧密的行业，本文对金融的本质做了简单的介绍，方便大家了解金融科技是什么，并分别对金融科技中的主要技术：移动互联网、大数据、云计算...
- ## [亚马逊的“新基础设施”之战——物流](http://www.woshipm.com/it/4017824.html)
- > 提起亚马逊，很多同学第一反应都是电商购物网站，但来自相关机构的报道，亚马逊其实在物流业务上投入更多，物流才是亚马逊在美国电商市场立于不败之地的根本。本文围绕...
- ## [如何迅速提升用户好评？试试这三种方法](http://www.woshipm.com/pd/4018291.html)
- > 小编推荐：如何提高一个产品的用户评分，改变大家对这个产品的印象呢？本文作者给大家介绍了三个概念：用户体验地图、峰终定律和服务蓝图，并详细解释了该如何使用这三...
- ## [对工具型产品易学习与易使用的思考](http://www.woshipm.com/pd/4020893.html)
- > 小编推荐：易学习是指怎么让新用户的学习成本降低，能够很快地掌握产品的使用，它的前提是足够简单和容易理解。而易使用是指，如何让用户快速、高效地完成一项任务，达...
- ## [拼多多没有价格战](http://www.woshipm.com/it/4023557.html)
- > 拼多多的成功并不是因为价格便宜，而是它发掘了那些被人忽视的消费市场，并形成了商品制造-流通-消费的闭环。消费者想要的永远是更便宜的商品，电商平台想要获得长久发...
- ## [做产品，没有“标配功能”](http://www.woshipm.com/pmd/4018792.html)
- > 任何产品的功能设计都需要根据实际的用户需求来设置，而不是“标配功能”。就算产品把所有的标配功能都配置了，也并不代表用户就会使用这些功能，因为用户可能根本就没有...
- ## [关于微信群聊名称为什么允许所有成员修改的几点思考](http://www.chanpin100.com/article/111874)
- > 微信群聊名称为什么支持所有成员修改，这是一些思考
- ## [产品经理十二时辰](http://www.chanpin100.com/article/111924)
- > 帝都，周一
- ## [灵魂拷问：你是合格的产品经理吗？](http://www.chanpin100.com/article/111892)
- > 你是一名合格的产品经理吗？
- ## [《幕后产品》读书笔记：如何打造突破式产品思维](http://www.chanpin100.com/article/111894)
- > 这本书从最基础的产品知识，逐步提升到用户层面、需求决策以及上升到产品思维的内容，同时结合了网易云音乐从0到1到N过程的各种案例，极大的体现了方法论与实例的结合，提升了可读性，尤其是产品分析和决策的部分收获非常大
- ## [产品经理真的需要懂技术吗？懂到什么程度？](http://www.chanpin100.com/article/111888)
- > 毫无疑问，产品经理需要懂技术。技术并不是指需要精通JAVA、C++等各种语言，甚至能自己写代码，而是能了解基本的技术知识，具备“技术思维”，从而更好地与开发人员沟通，将需求落地。
- ## [产品分析报告：最右，有哪些过人之处？](http://www.chanpin100.com/article/111923)
- > 最右为何能在众多娱乐性社区产品中脱颖而出，在2017年2月一跃从从App Store总榜排名979名升至总榜第5，从成为社区产品的黑马？最右这款产品，有什么独特之处呢？本文将从着重从产品功能进行分析，带读者深入了解最右这个独特小众又“平易近人”的社区产品。
- ## [量子点+大屏，TCL试图打开消费需求“蓄水池”](http://www.chanpin100.com/article/111913)
- > 消费需求其实就像是一直在“蓄水”的水库，而大屏与量子点的共舞，很可能踩准了更新换代的时代步点，从而合力打开闸门。
- ## [从考拉海购，看整个跨境电商行业的运转逻辑（上）](http://www.chanpin100.com/article/111921)
- > 考拉海购为什么能成为跨境电商行业巨头？本文从行业分析、竞品分析、用户价值分析、商业价值分析、产品迭代分析、产品结构分析几方面深入分析了考拉海购的经营模式、进而带你深入了解跨境电商整个行业的运转逻辑。
- ## [从考拉海购，看整个跨境电商行业的运转逻辑（下）](http://www.chanpin100.com/article/111922)
- > 考拉海购为什么能成为跨境电商行业巨头？本文从行业分析、竞品分析、用户价值分析、商业价值分析、产品迭代分析、产品结构分析几方面深入分析了考拉海购的经营模式、进而带你深入了解跨境电商整个行业的运转逻辑。
- ## [【建议收藏】分享7个超好用的免费在线工具，第2个真香](http://www.chanpin100.com/article/111917)
- > 提高工作效率的必备神器
- ## [如何做好线上活动策划及执行的思路与框架](http://www.chanpin100.com/article/111861)
- > 活动目的：主要是两个方面，要么提升品牌知名度为主，要么提高销售为主。活动目的要结合产品现状，做拉新？做促活？还是要做品牌曝光？
- ## [地摊经济一夜爆火，哪家互联网巨头抢得先机？](http://www.chanpin100.com/article/111910)
- > 哪家互联网巨头“摆摊”强？
- ## [游戏时代来临？|业绩增长空间大开，世纪华通问鼎A股游戏第一股](http://www.chanpin100.com/article/111928)
- > 简介：作为市场领先厂商和产业升级的主要推动者，主流上市游戏公司的2019年年报，既反映了2019年的市场发展情况，也为行业及市场预测未来产业发展提供了丰富的信息，是了解中国游戏产业及主流公司的发展情况的重要窗口。
 
     
