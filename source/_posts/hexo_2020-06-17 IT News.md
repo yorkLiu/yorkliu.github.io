@@ -1,36 +1,50 @@
 ---
 title: 2020-06-17 IT News
 copyright: true
-date: 2020-06-17 08:01:02
+date: 2020-06-17 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美国终认可华为的5G技术领先地位，选择妥协共同研发5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592350271&ver=2404&signature=2rxh54MVEP6r57sVqKIzKX9oqaCis-pDtFQ-0BnRxscbu4EA3cjFky2XQFXRARBZm-vwNE2OSooEBQGcev3B4PgoGfdsrQ7iXOycQM1ha1VzhCZdgOSP-B-pPM9o-CEB&new=1)
- > 媒体报道指美国将修改禁止美国企业与华为进行生意往来的禁令，允许双方共同合作制定5G技术标准，此举证明了美国已认识到无法绕开华为所拥有的5G技术专利，迫于无奈选择与华为合作研发5G技术。在3G技术上，美国企...
- ## [厚颜无耻：美国既想从华为5G标准中获利，又威胁巴西拒绝华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592350271&ver=2404&signature=YMvO12aidxGNLD4onP1Cj6i7Dk6p*hQ9HizGpvzcZA0rCIxpxSMLFWNl-YPdYCDdmot0N0yOgd-i-VqYJ4flKAx6RKoFgvBTHfovl5i4nK1HGSa70Jj3TmHuwJhvz4IW&new=1)
- > 美国对华为的限制可以说已经到了登峰造极的地步。一方面，美国威胁盟友拒绝华为；另一方面，美国又拿着大笔的资金诱惑盟友放弃华为。其实，这是美国惯用的伎俩。美国前总统罗斯福曾在一次演讲中，援引了一句非洲...
- ## [当我们谈智能家居时，我们在谈什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592350271&ver=2404&signature=GqASA3UZJq4ByZ1TevE6P-fNIoLB5fCp0wFqmqSA6TgaqCSXXESNKKvLCD0fArpjEMUDe11-ARStNcM-vTqc6jKyQJCedoP5xZDfXeBjaB-O29ootPS9AkiDpqCsdvSk&new=1)
+ ## [当我们谈智能家居时，我们在谈什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592353805&ver=2404&signature=GqASA3UZJq4ByZ1TevE6P-fNIoLB5fCp0wFqmqSA6TgaqCSXXESNKKvLCD0fArpj8YcgjD8KsIwY1x1n2fB7PkN67qZKOJL3FTpccR4xGKKfqc-xN-9-yXT3pIBh7iOk&new=1)
  > 在AIoT成为硬件领域全村希望之前，推销智能家居概念是一个很困难的工作，因为各种厂商总会重复发出疑问“智能家居到底有什么用呢？”也许当时这代表着一种务实的态度，但是从现在的眼光看来，提出这个问题的人可...
- ## [通信板块大涨!机构最看好什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592350271&ver=2404&signature=fIRnVuUvUcDnzUDKHiY9Nhh9A22htrzC87rCWEMRrGHfJkD3SoAGD7zZlFNpdC-JLuLRsmVveWCKd8N1-DwRsDfPuw6EzFCZvdV7KMuZe8MBjM5tJe0pYgND7z7BtK5V&new=1)
+ ## [厚颜无耻：美国既想从华为5G标准中获利，又威胁巴西拒绝华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592353805&ver=2404&signature=YMvO12aidxGNLD4onP1Cj6i7Dk6p*hQ9HizGpvzcZA0rCIxpxSMLFWNl-YPdYCDdGntYyHgtsyoSIUzT-miP64W5-9JuTNhgz2X*rTQXVGcmGlST11MviLl2gTFZsdYq&new=1)
+ > 美国对华为的限制可以说已经到了登峰造极的地步。一方面，美国威胁盟友拒绝华为；另一方面，美国又拿着大笔的资金诱惑盟友放弃华为。其实，这是美国惯用的伎俩。美国前总统罗斯福曾在一次演讲中，援引了一句非洲...
+ ## [通信板块大涨!机构最看好什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592353805&ver=2404&signature=fIRnVuUvUcDnzUDKHiY9Nhh9A22htrzC87rCWEMRrGHfJkD3SoAGD7zZlFNpdC-JXcri911lluZ0ydtxju1kA315Y-*Dx9dD44slgpY-PvUnx8uLpLnxn8ztoacFf7Mi&new=1)
  > 今天通信板块全面反弹，申万通信指数涨3.22%，机构认为，2020~2021年，无论复工后实体经济发展，还是中长期产业转型升级，5G基础设施建设都是重中之重。海外疫情限制放松，国内5G需求加速，行业基本面持续向好。...
+ ## [美国终认可华为的5G技术领先地位，选择妥协共同研发5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592353805&ver=2404&signature=2rxh54MVEP6r57sVqKIzKX9oqaCis-pDtFQ-0BnRxscbu4EA3cjFky2XQFXRARBZ3ghUj3VYUln4gTpgycREogE*MsEydt*AvY3k9h1o8L9QC-R9IXJPalRWhnVxiuDN&new=1)
+ > 媒体报道指美国将修改禁止美国企业与华为进行生意往来的禁令，允许双方共同合作制定5G技术标准，此举证明了美国已认识到无法绕开华为所拥有的5G技术专利，迫于无奈选择与华为合作研发5G技术。在3G技术上，美国企...
 # IT 技术 
  ## [继续创新的同时降低云数据存储成本的7个方法](http://news.51cto.com/art/202006/619024.htm)
  > 继续创新的同时降低云数据存储成本的7个方法
+ ## [为攻防对抗，细谈微隔离](http://netsecurity.51cto.com/art/202006/618964.htm)
+ > 为攻防对抗，细谈微隔离
+ ## [您真的需要数据湖吗？](http://database.51cto.com/art/202006/618946.htm)
+ > 您真的需要数据湖吗？
+ ## [AI改变客户体验的10种方式](http://ai.51cto.com/art/202006/618929.htm)
+ > AI改变客户体验的10种方式
  ## [数据科学家应了解Java的六大原因](http://developer.51cto.com/art/202006/619034.htm)
  > 数据科学家应了解Java的六大原因
+ ## [物联网分析：从物联网数据中获取价值](http://iot.51cto.com/art/202006/619004.htm)
+ > 物联网分析：从物联网数据中获取价值
+ ## [零售行业商业智能和数据科学的发展趋势](http://bigdata.51cto.com/art/202006/618979.htm)
+ > 零售行业商业智能和数据科学的发展趋势
  ## [我为什么用ES做Redis监控，不用Prometheus或Zabbix？](http://stor.51cto.com/art/202006/618952.htm)
  > 我为什么用ES做Redis监控，不用Prometheus或Zabbix？
- ## [查看Linux上文件内容的5个方法](http://os.51cto.com/art/202006/618919.htm)
- > 查看Linux上文件内容的5个方法
- ## [哪些数据库是行存储？哪些是列存储？有什么区别？](http://database.51cto.com/art/202006/618846.htm)
- > 哪些数据库是行存储？哪些是列存储？有什么区别？
- ## [企业会出现网络安全问题的原因](http://netsecurity.51cto.com/art/202006/618818.htm)
- > 企业会出现网络安全问题的原因
- ## [智慧城市在边缘](http://www.cioage.com/art/202006/618816.htm)
- > 智慧城市在边缘
- ## [理解M2M与物联网的差异](http://iot.51cto.com/art/202006/618815.htm)
- > 理解M2M与物联网的差异
+ ## [入数据科学大坑，我需要什么样的数学水平？](http://ai.51cto.com/art/202006/619056.htm)
+ > 本文作者阐释了数据科学和机器学习为何离不开数学，并提供了统计学与概率论、多变量微积分、线性代数以及优
+ ## [传统运维，你还有多久会消失？](http://cloud.51cto.com/art/202006/619055.htm)
+ > “虚拟化”，“公有云”，“混合云”，“容器”，“云原生”，这些技术词汇正诠释着我们当下所处的云时代现
+ ## [JS小技巧，如何在JavaScript中获取当前日期](http://developer.51cto.com/art/202006/619053.htm)
+ > 在构建的应用程序的时候都会带有日期时间组件，无论是资源的创建日期还是活动的时间戳。在本文中，我将分享
+ ## [十年，影响网络空间安全的十大战略性变化](http://netsecurity.51cto.com/art/202006/619054.htm)
+ > 自2010“网络战“元年至今，网空内外部力量已经发生了显著变化，其中的十大战略性变化直接影响了网络空间安
+ ## [Kubernetes插件的该如何扩展，这6个方面必不可少](http://cloud.51cto.com/art/202006/619050.htm)
+ > 为了支持生产级的部署，Kubernetes需要许多可扩展的组件，比如日志记录和监控功能，安全治理等等。那么到底
+ ## [提升你 Kubernetes 技能的 5 种方式](http://cloud.51cto.com/art/202006/619049.htm)
+ > 随着容器的激增，系统管理员们很快意识到，开发一个不仅能帮助他们管理容器，还能帮助他们管理下面的虚拟化
+ ## [前端存储除了 localStorage 还有啥？](http://developer.51cto.com/art/202006/619048.htm)
+ > 前端的数据存储方式，你除了用过 Cookies、localStorage 和 sessionStorage 外，还有用过其它的存储方式么?
  ## [中小型企业尚不应该升级到5G的5个理由](http://network.51cto.com/art/202006/619042.htm)
  > 事实是，对于大多数中小企业来说，5G可能会带来比现在更大的麻烦。为什么我们建议在5G上踩刹车？以下是您在
  ## [人工智能的8个有用的日常例子](http://ai.51cto.com/art/202006/619041.htm)
@@ -63,40 +77,42 @@ categories: IT NEWS
  > 程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝
  ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
  > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
- ## [软件外包那些坑(一)](https://blog.csdn.net/qq_38707616/article/details/106729935)
- > 软件外包那些坑(一)
+ ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
+ > 爬虫（101）爬点重口味的
 # 人工智能 
- ## [花了 5 个月整理的读源码实用技巧，有点东西~](https://blog.csdn.net/qq_41770757/article/details/106764816)
- > 花了 5 个月整理的读源码实用技巧，有点东西~
- ## [50道Spring面试题，你能答出来几道？](https://blog.csdn.net/Toidu/article/details/106762125)
+ ## [Java基础知识笔记五（详细）](https://blog.csdn.net/qq_45893999/article/details/106707858)
  > 
- ## [软件体系结构期末考试复习题（题中页码 与软件体系结构原理、方法与实践第2版 张友生编著 匹配）](https://blog.csdn.net/weixin_44285674/article/details/106758178)
- > 软件体系结构期末考试复习题（题中页码 与软件体系结构原理、方法与实践第2版 张友生编著 匹配）
- ## [五年数据库专家，深入剖析高性能MySQL架构系统，不来后悔一辈子](https://blog.csdn.net/python6_quanzhan/article/details/106765687)
+ ## [MySQL~详细介绍事务的一个重要特性--隔离性 (解决脏读、不可重复读、幻读)](https://blog.csdn.net/Shangxingya/article/details/106758443)
  > 
- ## [zabbix平台部署](https://blog.csdn.net/WX17520510319/article/details/106737842)
- > zabbix平台部署
- ## [Spring Cloud 2.0时代生态圈选择与被选择](https://blog.csdn.net/weixin_42274449/article/details/106763216)
- > Spring Cloud 2.0时代生态圈选择与被选择
- ## [Nginx（yum、源码）安装及配置](https://blog.csdn.net/weixin_45373345/article/details/106760140)
- > Nginx（yum、源码）安装及配置
- ## [遇见OFFER|一汽-大众成都数字化研发中心，专场招聘来啦！](https://blog.csdn.net/yzkskaka/article/details/106762102)
- > 遇见OFFER|一汽-大众成都数字化研发中心，专场招聘来啦！
- ## [Spring Boot面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104397299)
- > Spring Boot面试题（2020最新版）
- ## [基于JAVA开发的全能代码生成器](https://blog.csdn.net/rico_zhou/article/details/106756314)
- > 基于JAVA开发的全能代码生成器
- ## [从零开始学编码5](https://blog.csdn.net/zcl_200886/article/details/106765713)
+ ## [爬虫合法性讨论](https://blog.csdn.net/Abo_o/article/details/106755608)
  > 
- ## [STM32CubeMX学习笔记三 《GPIO 输出》](https://blog.csdn.net/weixin_43123205/article/details/106739912)
- > STM32CubeMX学习笔记三 《GPIO 输出》
- ## [大牛都会用的IDEA调试技巧！！！](https://blog.csdn.net/qq_34162294/article/details/105260153)
- > 大牛都会用的IDEA调试技巧！！！
- ## [MySQL GTID全解(概念、参数、相关表、在线切换、故障修复)](https://blog.csdn.net/qq_42979842/article/details/106697613)
- > MySQL GTID全解(概念、参数、相关表、在线切换、故障修复)
- ## [AP模式（Redis）的分布式锁分析以及实现](https://blog.csdn.net/qq_41401800/article/details/106764515)
- > AP模式（Redis）的分布式锁分析以及实现
+ ## [安装Git详细教程，以及导入若依前后端分离项目！！！](https://blog.csdn.net/weixin_46227553/article/details/106764088)
+ > 安装Git详细教程，以及导入若依前后端分离项目！！！
+ ## [InnoDB和MyISAM两种数据库存储引擎的对比](https://blog.csdn.net/qq_43750656/article/details/106766879)
+ > InnoDB和MyISAM两种数据库存储引擎的对比
+ ## [堡垒机(运维审计系统)的基本原理与部署方式](https://blog.csdn.net/qq_38265137/article/details/106758229)
+ > 
+ ## [老大吩咐的可重入分布式锁，终于完美的实现了~](https://blog.csdn.net/u014634309/article/details/106755403)
+ > 
+ ## [Linux操作技术文档——seliunx、iptables、firewalld](https://blog.csdn.net/g950904/article/details/106506509)
+ > 
+ ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ > 
+ ## [秒杀抢券系统实现的注意事项](https://blog.csdn.net/songzehao/article/details/106762474)
+ > 秒杀抢券系统实现的注意事项
+ ## [【多线程与高并发】--相关知识梳理---提升自己值得拥有](https://blog.csdn.net/qq_32370913/article/details/106731332)
+ > 
+ ## [DozerCTF 2020 WP](https://blog.csdn.net/qq_39063450/article/details/106763901)
+ > DozerCTF 2020 WP
+ ## [干掉 Date，Java8 LocalDate 真香](https://blog.csdn.net/chenjun9205/article/details/106757645)
+ > 
+ ## [Redis 学习笔记（一） 字符串 SDS](https://blog.csdn.net/xuetian0546/article/details/106755674)
+ > Redis 学习笔记（一） 字符串 SDS
+ ## [Windows常用快捷键汇总](https://blog.csdn.net/weixin_47931795/article/details/106771503)
+ > Windows常用快捷键汇总
 # PM 
+ ## [线上课程｜活动没爆点？2天集训带你掌握基础用户画像，为打造爆款活动奠定基础！](http://www.woshipm.com/open/4030601.html)
+ > 2020年以来，新媒体运营不断升温。这是因为疫情期间，大部分实体企业都营业困难，而那些可以通过新媒体运营在网上就完成宣传、销售、服务的企业，依然坚韧不拔。大家这...
  ## [K问K答：怎么逃出“抄竞品”的怪圈儿？](http://www.chanpin100.com/article/111920)
  > “抄竞品”现象很常见吗？
  ## [方法论：产品新人如何快速培养产品结构化思维](http://www.chanpin100.com/article/111873)
