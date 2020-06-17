@@ -1,7 +1,7 @@
 ---
 title: 2020-06-17 IT News
 copyright: true
-date: 2020-06-17 10:01:00
+date: 2020-06-17 12:01:57
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -135,15 +135,21 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [美国终认可华为的5G技术领先地位，选择妥协共同研发5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592357433&ver=2405&signature=GZLTYw*wkh6osciOPuUFK0Vcyw1TykfnU8ZC1D5DY9QHfxbjBjfa2stUUAHbjii2SnQoD0zowCEYtuob-L6yxdukxeCCGiF0a8Fzxbg*LGvXbHmUqdzX0vuvxTQiOt8o&new=1)
- > 媒体报道指美国将修改禁止美国企业与华为进行生意往来的禁令，允许双方共同合作制定5G技术标准，此举证明了美国已认识到无法绕开华为所拥有的5G技术专利，迫于无奈选择与华为合作研发5G技术。在3G技术上，美国企...
- ## [器件|NOEIC成功研制50G PAM4收发模块 搭载全国产DSP芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1592357433&ver=2405&signature=c601wtDKJQVdOKIWLw7GutG6X5b11*nCzWVxepdwtYWnzA8TGWXH1XuxMWCfjssBP*awSiG-XCSk-cT1pq3QXfSicbnokCI8bhTyk*E0VKXNL3mhxFi41VhvluHjQqBv&new=1)
+ ## [器件|NOEIC成功研制50G PAM4收发模块 搭载全国产DSP芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=c601wtDKJQVdOKIWLw7GutG6X5b11*nCzWVxepdwtYVLlIvidCDAM9mY50LPBVcQI4nwcoNdxH4tFjNMG5ulZvIEV4qPfhsox5jD3ITDpZhtfUraYzcU2tOQL*c2OyH5&new=1)
  > 新闻导读NOEIC宣布成功研制出50G PAM4高速光模块，该模块所使用的50G EML芯片和50G PD/APD芯片，从外延生长到芯片后工艺均为中国自主研发。同时，该模块还搭载来自上海橙科微电子的全国产50G PAM4 DSP芯片，采用...
- ## [当我们谈智能家居时，我们在谈什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592357433&ver=2405&signature=U8gaZsY*ry6VcwP5TvGQILBKqINeLMjNmX9XUYNqt4zeiXMJL7gphNdmzwWU9zOThhQqOWSTaNdnsodNxpNzxw43J4BhsA05A0nQSJRK2cuZAPkDtn4nlSeXlHHBvhMq&new=1)
+ ## [通知：220+展商名单，上海TCT 3D打印展会开通报名了](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=COdXDc8GLxCoQDaSajqbDzZOkhXmBjQe13Py1MBd1QnUmNtNUQ01lPLWMHpPIlUqOo4Ew9GZ2MO*geBNcfJUJIl1843SVN9xuMQi0gqNIRxpZV6xgjIe*DkJFl4uJlrF&new=1)
+ > 南极熊导读：为了让观众提前了解上海TCT 3D打印展会的展览内容，南极熊已经开通“2020TCT”专栏，陆续发布上百家3D打印展商的参展（新品）预告。需要发布预告的厂商，可把内容发到南极熊邮箱 3d@nanjixiong.com...
+ ## [保障武汉百万中小学生停课不停学 天喻信息加速布局智慧教育](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=4n2O5P10TmJ8l5JMJDVOWQkGkWjzMrF4ArHnj7LBWmTGMZP8jui83yHIuK4JePL1ReBSzi6Jn5m9ldK72kMafsI8rFvNMvehy2ok-mf5rGU=&new=1)
+ > 本报记者 李万晨曦    受新冠肺炎影响，教育部门要求推迟复工和复学时间，线下授课几乎全面停止，线上授课异军突起，在线教育也成为“刚需”。    6月14日，天喻信息控股子公司天喻教育总经理付...
+ ## [做大做强大数据汽配电商平台](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=oxL7kx*n-1uO6MmiEu7LEPnhme8KjvEuiKja9VHLtvLPXr2URRUjPDOPX6xFQ5bv0-3FFWf9iim2zTeBjQSOJAVUZrmHHTum0D62-*V*63s=&new=1)
+ > 5月14日，孟关汽配城一家十多平方米的店铺里，胡克美的手机和电脑不时发出嘀嘀嘀的声音。他打开一个对话框，报价、交易、约定发货时间，速度快的话，一分钟就可敲定一单生意。胡克美使用的交易平台，是贵安...
+ ## [美国终认可华为的5G技术领先地位，选择妥协共同研发5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=GZLTYw*wkh6osciOPuUFK0Vcyw1TykfnU8ZC1D5DY9RuYz2g3Ou9OlVd2CJA7hRbm0mrq2qrfIMCfuaHNO8fe0TTmJAgEipEwNrYiZo1GcrA6IgaoCYYZEyt2aYGL*zi&new=1)
+ > 媒体报道指美国将修改禁止美国企业与华为进行生意往来的禁令，允许双方共同合作制定5G技术标准，此举证明了美国已认识到无法绕开华为所拥有的5G技术专利，迫于无奈选择与华为合作研发5G技术。在3G技术上，美国企...
+ ## [当我们谈智能家居时，我们在谈什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=U8gaZsY*ry6VcwP5TvGQILBKqINeLMjNmX9XUYNqt4xcyb2kUYSyDHyvR0EmBopuRmoGZ0cuAn436uvaBe9PZUyP4RapJePfPyR-aLGhY8K8lU799njeW*sTce8e5QxF&new=1)
  > 在AIoT成为硬件领域全村希望之前，推销智能家居概念是一个很困难的工作，因为各种厂商总会重复发出疑问“智能家居到底有什么用呢？”也许当时这代表着一种务实的态度，但是从现在的眼光看来，提出这个问题的人可...
- ## [通信板块大涨!机构最看好什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592357433&ver=2405&signature=MbCaXR9XinXYa1qPGUNCZEY1onFBWqkI1V7OgCKOOVfe7J1my7oiB1VsvBIBdeCrCPyaIkhDnPBzvh9m3ekWIOMiqcxzh1fxTQ31eBMzA*ouccIoNBzqd2rGW2*lSqUy&new=1)
+ ## [通信板块大涨!机构最看好什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=MbCaXR9XinXYa1qPGUNCZEY1onFBWqkI1V7OgCKOOVf0LE1hcljc8a8W9CY7SPZGr3oE8AoOaFulrOh33P*OFZYkSMFwymqxn77wQQpjwHXfXPOYXqTVjHwHZdtKJVhj&new=1)
  > 今天通信板块全面反弹，申万通信指数涨3.22%，机构认为，2020~2021年，无论复工后实体经济发展，还是中长期产业转型升级，5G基础设施建设都是重中之重。海外疫情限制放松，国内5G需求加速，行业基本面持续向好。...
- ## [厚颜无耻：美国既想从华为5G标准中获利，又威胁巴西拒绝华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592357433&ver=2405&signature=1yFPUEnzMQtYw6nnZXow-MIgAB13-fjJ8gUqakPaxg3vQRnBpulP8TtvG0IxTH0W*ym6wu1Tb4iREDAZ6lct16TstTMbwH366tKjEcAR8AJob0rxxjAZ5xDFYFXgLONa&new=1)
+ ## [厚颜无耻：美国既想从华为5G标准中获利，又威胁巴西拒绝华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=1yFPUEnzMQtYw6nnZXow-MIgAB13-fjJ8gUqakPaxg28UOfX3afFcIy32m*TH2CsQORpvqXYWw8HxjHFsvTSKlvG5ctitZ*6QEjKxW5RR3-BJttrFQZeWt5OgrMxNrvF&new=1)
  > 美国对华为的限制可以说已经到了登峰造极的地步。一方面，美国威胁盟友拒绝华为；另一方面，美国又拿着大笔的资金诱惑盟友放弃华为。其实，这是美国惯用的伎俩。美国前总统罗斯福曾在一次演讲中，援引了一句非洲...
 # IT 技术 
  ## [面试问Redis集群，被虐的不行了......](http://stor.51cto.com/art/202006/619069.htm)
@@ -162,26 +168,26 @@ categories: IT NEWS
  > 物联网分析：从物联网数据中获取价值
  ## [零售行业商业智能和数据科学的发展趋势](http://bigdata.51cto.com/art/202006/618979.htm)
  > 零售行业商业智能和数据科学的发展趋势
- ## [2020年Kubernetes即服务（KaaS）的现状](http://developer.51cto.com/art/202006/619067.htm)
- > 从开发人员的角度来看，EKS与AKS与GKE。在2019年2月，就在AWS宣布将GA发行版的EKS加入Azure的AKS和GCP的GKE
- ## [美国忽然变脸允许华为合作制定5G标准，只因实体清单砸了自己的脚](http://news.51cto.com/art/202006/619068.htm)
- > 时隔一个月，美国商务部终于证实：将允许美国公司与华为合作制定5G网络标准。
- ## [5G时代如何挑选云盘？掌握这四个看点就可以](http://netsecurity.51cto.com/art/202006/619065.htm)
- > 近日云盘话题又上热搜，隐私安全和传输速度两大问题备受用户热议。如何通过云端存储能力为用户提供安全的
- ## [轻量级开源云系统发布新版本，支持企业使用无服务器计算](http://cloud.51cto.com/art/202006/619063.htm)
- > OpenNebula是轻量级开源云系统，刚刚发布了最新版本5系列的第七个更新版本5.12，代号Firework。并声称在构
- ## [字节跳动程序员期权价值过亿 28岁辞职享受人生引热议 当事人回应](http://news.51cto.com/art/202006/619066.htm)
- > 近日，知乎一篇“如何看待年仅 28 岁的郭宇宣布从字节跳动退休？”引发网友热议。
- ## [数据中心网络测试自动化的逐步发展](http://server.51cto.com/Datacenter-619062.htm)
- > 在特殊情况下，例如人们在全球范围内遇到的情况，自动化网络测试就显得尤为重要，因为网络运营和维护团队可
- ## [2027年5G测试设备市场规模将达到32.3亿美元](http://network.51cto.com/art/202006/619060.htm)
- > 根据Grand View Research的新报告，到2027年，全球5G测试设备市场规模估计将达到32.3亿美元，并从2020年到2
- ## [APP“梦游”欺客 法律不能“休眠”](http://netsecurity.51cto.com/art/202006/619061.htm)
- > 近来，一些手机App频繁强制跳转启动、自启动、关联启动，甚至高频次访问手机照片和文件，读取手机信息，让
- ## [C语言迷惑行为大赏](http://developer.51cto.com/art/202006/619057.htm)
- > 为什么不会输出公众号呢?原因在于标准输入默认是行缓冲，而标准错误是无缓冲。这在《那些奇奇怪怪的缓冲问
- ## [政府支持数据中心建设存在四方面不足](http://server.51cto.com/Datacenter-619058.htm)
- > “新基建”成为科技巨头押宝的赛道，腾讯、阿里宣布未来三五年内将分别投资5000亿元、2000亿元用于“新基建
+ ## [GitHub将替换掉master等术语，网友：把我项目都搞崩啦](http://news.51cto.com/art/202006/619092.htm)
+ > 随着美国 “Black Lives Matter”运动愈演愈烈，继 IBM 、亚马逊、微软等科技公司之后，GitHub 方面也表示
+ ## [跟踪服务器功耗的工具和技巧](http://server.51cto.com/Micro-619091.htm)
+ > 每个组织对服务器的电源要求各不相同，但是监视峰值负载并跟踪服务器能耗以免发生业务中断仍然很重要。
+ ## [新基建风口下，一起谈谈物联网平台的格局与破局](http://iot.51cto.com/art/202006/619090.htm)
+ > 2009 年，中国政府提出“感知中国”理念，物联网被正式列为国家五大新兴战略产业之一，我国物联网发展的新
+ ## [一个因 CA 根证书过期引起的故障，真相竟然是…](http://news.51cto.com/art/202006/619093.htm)
+ > 服务器上的应用服务对外发送的一些 https 请求都失败了，真相竟然是……
+ ## [防止网络DDoS攻击的三种方法](http://netsecurity.51cto.com/art/202006/619089.htm)
+ > 网络DDoS攻击可能对组织造成破坏性影响并带来严重损失。企业需要了解三种预防和响应DDoS攻击以确保网络安全
+ ## [欧洲企业高管调查：网络安全的幻觉与危机](http://zhuanlan.51cto.com/art/202006/619088.htm)
+ > 根据Thales的最新调查报告，虽然安全问题日趋严重，但欧洲组织却产生了“安全幻觉”，只有68%的组织认为自
+ ## [shell高效编程：shell脚本从未如此美丽](http://os.51cto.com/art/202006/619086.htm)
+ > 平常工作中，你是否感觉shell脚本只是命令的堆砌;很多时候只是为了实现功能而没有好的组织结构;自己的脚本
+ ## [疫情期间的云迁移优秀实践：从实施到交付](http://cloud.51cto.com/art/202006/619083.htm)
+ > 社交媒体上如今流传着一个类似玩笑的说法，“数字化转型的较大推动力是冠状病毒疫情”。虽然这可能有些言过
+ ## [到底什么时候不应该使用机器学习？](http://ai.51cto.com/art/202006/619085.htm)
+ > 对于什么时候应该使用机器学习/AI，很多人都会迟疑和顾虑，而作者正是因为经历了种种顾虑后，将经验总结成
+ ## [安全专业人员应该学会的6个硬道理](http://netsecurity.51cto.com/art/202006/619081.htm)
+ > 安全专业人员所做工作的对于一个企业来说是十分重要的。所以，安全人员的工资也是IT行业中最高的。以下是安
  ## [有些事现在不做，一辈子都不会做了。](https://blog.csdn.net/ityouknow/article/details/106726385)
  > 有些事现在不做，一辈子都不会做了。
  ## [培训班出来的人后来都怎么样了？（五）](https://blog.csdn.net/qq_41699405/article/details/106505571)
@@ -190,6 +196,8 @@ categories: IT NEWS
  > 3年内从负债到买房三套，勤劳不能致富，工资只能温饱
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
+ ## [「视频」这八个对你有帮助的网站，你知道吗？](https://live.csdn.net/v/21867)
+ > 「视频」这八个对你有帮助的网站，你知道吗？
  ## [老程序员申请加薪至25K遭拒愤然辞职，公司转眼花35K重新招人](https://blog.csdn.net/Java0258/article/details/106732463)
  > 老程序员申请加薪至25K遭拒愤然辞职，公司转眼花35K重新招人
  ## [程序员的学历，真的有那么重要吗？](https://blog.csdn.net/qianduan167/article/details/106713193)
@@ -210,40 +218,48 @@ categories: IT NEWS
  > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
  ## [程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝](https://blog.csdn.net/qianduan167/article/details/106234859)
  > 程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝
- ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
- > 爬虫（101）爬点重口味的
 # 人工智能 
- ## [开发手机刷机工具箱的过程](https://blog.csdn.net/weixin_46464021/article/details/106771278)
- > 开发手机刷机工具箱的过程
- ## [Android studio调用手机相机拍照显示并保存+读取本地相册并显示](https://blog.csdn.net/qq_28664681/article/details/106764195)
- > Android studio调用手机相机拍照显示并保存+读取本地相册并显示
- ## [Android 9 (P)系统启动之SystemServer大揭秘上](https://blog.csdn.net/tkwxty/article/details/106729740)
- > Android 9 (P)系统启动之SystemServer大揭秘上
- ## [职教云助手、职教云查看答案](https://blog.csdn.net/qq_18372527/article/details/106398290)
- > 职教云助手、职教云查看答案
- ## [iOS AddressPickerView地址选择器,支持省份，省市，省市区，也支持打开显示上一次选择的地址【回调参数包括选中的省（provinceId）、市ID（cityId）区ID（areaid】](https://blog.csdn.net/u011018979/article/details/106769805)
- > iOS AddressPickerView地址选择器,支持省份，省市，省市区，也支持打开显示上一次选择的地址【回调参数包括选中的省（provinceId）、市ID（cityId）区ID（areaid】
- ## [Android Studio 使用本地Maven仓库](https://blog.csdn.net/weixin_45519413/article/details/106769902)
- > Android Studio 使用本地Maven仓库
- ## [ios 自定导航栏 返回按钮](https://blog.csdn.net/dreams_deng/article/details/106758370)
- > ios 自定导航栏 返回按钮
- ## [Android内存泄漏-LeakCanary源码原理分析](https://blog.csdn.net/u011148116/article/details/106762665)
- > Android内存泄漏-LeakCanary源码原理分析
- ## [MFC应用的静态拆分窗口（VS2019）](https://blog.csdn.net/weixin_46726346/article/details/106763480)
- > MFC应用的静态拆分窗口（VS2019）
- ## [Android使用Notify的一些笔记](https://blog.csdn.net/penghc13/article/details/106752574)
- > Android使用Notify的一些笔记
- ## [Android  处理  android.app.RemoteServiceException: Bad notification for startForeground: java.lang.Ru](https://blog.csdn.net/weixin_46760781/article/details/106768748)
- > Android  处理  android.app.RemoteServiceException: Bad notification for startForeground: java.lang.Ru
- ## [Android 文件的创建，写入，读取，删除](https://blog.csdn.net/qq_16068303/article/details/106758659)
- > Android 文件的创建，写入，读取，删除
- ## [adb连接Android遇到的问题](https://blog.csdn.net/weixin_43156317/article/details/106768301)
- > adb连接Android遇到的问题
- ## [从0到1绘制蜡烛线（实现细节）](https://blog.csdn.net/kemeng7758/article/details/106729748)
- > 从0到1绘制蜡烛线（实现细节）
- ## [透过GoogleI/O看Android11以及Jetpack的最新进展](https://blog.csdn.net/vitaviva/article/details/106743913)
- > 
+ ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
+ > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
+ ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
+ > 咱们从头到尾说一次 Java 垃圾回收
+ ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
+ > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
+ ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
+ > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
+ ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
+ > 循环与分支——python
+ ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
+ > zircon的两种调度理解
+ ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
+ > Timer定时器用法详解
+ ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
+ > Golang 之区分类型别名与类型定义
+ ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
+ > Leetcode344--翻转字符串
+ ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
+ > 吐血总结！50道Python面试题集锦（附答案）
+ ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
+ > Python工程师面试必备25条Python知识点
+ ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
+ > 线性最优解java实现+Cplex java调用
+ ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
+ > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
+ ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
+ > Java初学之人机猜拳游戏
+ ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
+ > 《Spring Boot实战》之二：开发第一个应用程序
 # PM 
+ ## [运营公开课| 已经工作2-5年，转行做运营还有晋升空间么？](http://www.woshipm.com/open/4031684.html)
+ > 我叫小柔，曾经是某航空公司的地面服务人员，办理值机业务、广播、处理各类繁杂的投诉和指引工作是每天的日常。相比于每天官方式的沟通，我更喜欢一边大笑一边撕逼式的...
+ ## [数据分析三大手法之“细分分析”](http://www.woshipm.com/data-analysis/4024258.html)
+ > 在工作中，我们常常需要分析各种数据。不同的数据分析方法要怎么用呢？本文作者根据自己的自身经历，从四个角度进行分析介绍，推荐给对数据分析感兴趣的童鞋阅读。作...
+ ## [支付宝的下一个战场](http://www.woshipm.com/it/4023375.html)
+ > 在大众印象中，作为支付工具的支付宝变了。它的金融标签逐渐淡化，不断开拓本地生活的圈子。支付宝的下一个战场在哪？它最大的对手是谁？本文作者提出了自己的一点思考...
+ ## [WMS仓管系统：补货功能](http://www.woshipm.com/pd/4023267.html)
+ > WMS的主要功能是对仓库内所有商品的运转生态进行全面的追踪，连接订单管理系统，让仓管人员随时随地了解仓库当下最新库存数据。本文按照补货的流程顺序，带我们了解了补...
+ ## [电商系统最小单元——概念定义](http://www.woshipm.com/newretail/4019289.html)
+ > 电商已经成为我们日常生活中不可缺少的一部分，但是这个与我们朝夕相处的事物，我们真的了解它吗？本文从五个方面展开介绍，对电商概念感兴趣的童鞋不要错过。通过近...
  ## [新品牌如何进行内容营销？](http://www.woshipm.com/marketing/4016122.html)
  > 内容营销一向是品牌运营的重点，内容营销影响着消费者的购买决策。品牌如何进行内容营销？本文作者把内容营销分为三个阶段：前期、中期和后期，并对各个阶段展开了梳理...
  ## [创新产品规划：保险行业的“社区新零售”](http://www.woshipm.com/pd/4023333.html)
@@ -258,12 +274,32 @@ categories: IT NEWS
  > 怎样评估IP实力？如何评估一个IP的成长潜力？孵化IP，一定要紧紧扣在情感共鸣度和文化共识度这两个指数的增长上，打造情感力+文化力的产品，IP思维是产品思维，决定IP的...
  ## [网络互助的本质是什么？从去中心化看网络互助](http://www.woshipm.com/it/4021869.html)
  > 关于网络互助的认识和看法有很多，网络互助的本质就是去中心化吗，那网络互助是怎么去中心化的呢？本文作者从去中心化的概念出发，对此展开了分析讨论，与大家分享。...
- ## [怎样才能让用户访谈更具价值？提问很关键！](http://www.woshipm.com/user-research/4022806.html)
- > 在产品运作当中，我们需要了解用户对于产品的看法，就要进行用户调研，对用户进行访谈。本文从访谈的三个时间段进行分析总结，让用户访谈更有意义。用户访谈是一门艺...
- ## [用户标签，这么做业务才愿意用](http://www.woshipm.com/pd/4023142.html)
- > 有时候给用户做了很多的用户标签，但其实并没有实际用处，业务部门根本不搭理，那面对这样的情况要如何解决呢？本文作者结合一个具体的实例，来给大家讲讲用户画像到底...
- ## [线上课程｜活动没爆点？2天集训带你掌握基础用户画像，为打造爆款活动奠定基础！](http://www.woshipm.com/open/4030601.html)
- > 2020年以来，新媒体运营不断升温。这是因为疫情期间，大部分实体企业都营业困难，而那些可以通过新媒体运营在网上就完成宣传、销售、服务的企业，依然坚韧不拔。大家这...
+ ## [K问K答](http://www.chanpin100.com/article/111853)
+ > 关于为什么要写PRD、小程序商业化、如何介绍自己项目、APP注册分几步好等问题，文内有福利~
+ ## [【丁香医生】体验报告](http://www.chanpin100.com/article/111869)
+ > 【丁香医生】体验报告，就产品介绍，市场，主要功能进行体验分析
+ ## [B端产品必备技能：数据报表该怎么设计?](http://www.chanpin100.com/article/111887)
+ > B端产品，有非常大的可能都要接触到数据报表的需求，因此数据报表的设计也基本上成了B端产品需要掌握的核心技能之一，而C端产品可能更多的是关注数据埋点和数据漏斗等方面，本篇文章重点介绍B端数据报表设计相关的内容。
+ ## [你的企业真的适合建中台吗？](http://www.chanpin100.com/article/111906)
+ > 很多企业在思考如何建中台，或者正在建&quot;中台&quot;，可是却很少有企业思考自己到底是否适合建中台，那么，你的企业是否适合建中台吗？
+ ## [看房遇上“云”，何以重拳出击？|2020中国互联网房产服务市场发展季度分析](http://www.chanpin100.com/article/111907)
+ > 简介：一季度，中国房产市场在疫情影响下明显缩量，3月逐渐回升，且部分热点城市恢复较快。 在此期间，线上成为看房、售房的核心渠道，互联网房产服务平台加快对VR、直播等线上看房技术的升级；输出平台能力助力经纪人…
+ ## [供应链管理之发展史（一）](http://www.chanpin100.com/article/111916)
+ > 随着科学技术的发展，未来供应链的发展一定会向着更数据化、自动化、智能化的方向发展，万物互联只是时间问题。让我们一起期待一个更加信息化的时代，让供应链在信息的催化下，绽放它应有的魅力！
+ ## [90后游戏人群分析](http://www.chanpin100.com/article/111931)
+ > 90后游戏人群分析
+ ## [UI设计：如何提高审美？](http://www.chanpin100.com/article/111926)
+ > 先入心，再入眼，后入脑
+ ## [不能管理自己的人也管理不了别人](http://www.chanpin100.com/article/111938)
+ > 一屋不扫何以扫天下
+ ## [五一节带动娱乐消费，618你燥起来了吗？|2020年5月易观千帆移动AppTOP1000榜单](http://www.chanpin100.com/article/111943)
+ > 嗨，又到了每月15日榜单发布时，这个月各领域又有哪些精彩的内容呢？为了让大家快速了解本月情况，小易准备了几条榜单快讯，一起来看看吧～
+ ## [通过智能投放与触发，提高广告投放效率，告别无效营销](http://www.chanpin100.com/article/111944)
+ > 过度投放惹人烦，智能投放与触发管理，完成用户转化“关键一击”
+ ## [没搞明白这10个关键和2个核心，先别入门或转行产品经理](http://www.chanpin100.com/article/111949)
+ > 拒绝掉碎片信息带来焦虑毒害！
+ ## [微信、支付宝为何都在发力“生态搜索”？](http://www.chanpin100.com/article/111952)
+ > 继小程序之后，它会成为巨头的下一个现象级产品吗？一切都很难说。
  ## [K问K答：怎么逃出“抄竞品”的怪圈儿？](http://www.chanpin100.com/article/111920)
  > “抄竞品”现象很常见吗？
  ## [方法论：产品新人如何快速培养产品结构化思维](http://www.chanpin100.com/article/111873)
@@ -278,15 +314,5 @@ categories: IT NEWS
  > 5G时代到来，互联网行业再度引起全新高峰，飞速发展。但随之而来的，还有赚取用户的成本是越来越高，提升用户活跃度越来越难。面临这一困境，越来越多的企业选用积分这个回馈用户方式来提升用户的活跃度。那么如何做积分运营，也是我们运营人该思考的一个重要问题。
  ## [如何正确优雅地给APP版本号命名？](http://www.chanpin100.com/article/111876)
  > APP版本命名规范，这些你需要了解的
- ## [不赚钱的副业才是刚需！](http://www.chanpin100.com/article/111939)
- > 副业，人生的Plan B
- ## [面试的20条禁忌](http://www.chanpin100.com/article/111941)
- > 面试中的这些错误不要犯
- ## [Zynn惨遭谷歌下架，《荒野乱斗》国服上线即霸榜丨每周热点](http://www.chanpin100.com/article/111942)
- > ASO周报！
- ## [618初战，京东+拼多多为何小于淘宝](http://www.chanpin100.com/article/111930)
- > 思维模式不同，决定了平台上的利益分配；不仅用户喜欢更为开放的淘宝；中小商户与品牌商，也在用实际行动投票。
- ## [社区运营，你必须知道的4件事](http://www.chanpin100.com/article/111929)
- > 个性化推荐助力社区运营工作者创造更多的价值。
 
     
