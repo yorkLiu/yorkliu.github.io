@@ -1,7 +1,7 @@
 ---
 title: 2020-06-17 IT News
 copyright: true
-date: 2020-06-17 12:01:57
+date: 2020-06-17 17:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -135,23 +135,49 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [器件|NOEIC成功研制50G PAM4收发模块 搭载全国产DSP芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=c601wtDKJQVdOKIWLw7GutG6X5b11*nCzWVxepdwtYVLlIvidCDAM9mY50LPBVcQI4nwcoNdxH4tFjNMG5ulZvIEV4qPfhsox5jD3ITDpZhtfUraYzcU2tOQL*c2OyH5&new=1)
- > 新闻导读NOEIC宣布成功研制出50G PAM4高速光模块，该模块所使用的50G EML芯片和50G PD/APD芯片，从外延生长到芯片后工艺均为中国自主研发。同时，该模块还搭载来自上海橙科微电子的全国产50G PAM4 DSP芯片，采用...
- ## [通知：220+展商名单，上海TCT 3D打印展会开通报名了](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=COdXDc8GLxCoQDaSajqbDzZOkhXmBjQe13Py1MBd1QnUmNtNUQ01lPLWMHpPIlUqOo4Ew9GZ2MO*geBNcfJUJIl1843SVN9xuMQi0gqNIRxpZV6xgjIe*DkJFl4uJlrF&new=1)
+ ## [飘洋过海来助你，一起盘点 Power Platform 的 N 多亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=yC4g44wFrSgjjQjwIs1AN7c29-H3FoQTKHU3ryFdLqInj6QDRLAWLJ8F8Ebcx1rBwPZpcBXfS7Nns63xXnFVw-1rBXEMr74tGO9ZcASNix2Xfcx80WdlzZLbC5pN6Cql&new=1)
+ > （本文阅读时间：9分钟）6月10日，以“不设限的创造，看得见的未来”为主题的 Power Platform 在华商用产品发布会圆满落幕。微软全球商业应用及行业市场营销副总裁 Alysa Taylor，微软大中华区副总裁兼市场营销...
+ ## [砸钱28载，波士顿动力开卖网红机器狗!一辆Model S的价钱就能直接抱回家](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=3nFsMS8CWxNOCUyzuGEu1sA7IbZdxeBnQ8X58XhJ995OvPi1Y*cTygc24j3332Y7Wewb-lypW-6uLgOSdzKJz9Siom6NfpgC1o10Nm3idTZWNQuNbaN1Ad6DcUkDl-b1&new=1)
+ > 砸钱、研发、砸钱……周而复始28年，甚至因为资金几经转手，终于，这只世界上最带流量的机器狗，要明码标价地开卖了。撰文 | 微胖、吴昕今日起，只需花上7.45万美元的价格，就可以将一台波士顿动力「明星狗」牵...
+ ## [盘点两会十二个网络安全热点](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=SH3s7aAxOyZN8qmAFpm8Y44YpXLyq68tqgETykAdA6XFf01UaxKKlZH6LYDvsbIzWcEXSBgpA7vU9w7hygSApRRtZFu-AXxRuIlqISo183mmIk-3ZzwysEB2T-udcNwi&new=1)
+ > 随着新冠疫情肆虐，全球经济、科技、政治格局与博弈规则重写，后新冠时代新基础建设与科技创新带动经济复苏成为改变未来的重要力量。在此背景下，2020年两会期间科技界网络安全相关提案备受安全业界瞩目，因为无...
+ ## [科技巨头纷纷从刷脸转向“刷手”，指纹如何扛起生物识别大旗?](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=oMsPBsriJBczIm4gWMEqC7aKviIEowHsJAf3YQ5qsUoojDNYmf6jn*BArNXp9W42uCtS5srB5BxQ4nKOoRaTDGmYkBPLfvcT*FOV4VlQE5p4C2vZTR6wAPKBkYHhhf63&new=1)
+ > 日前，IBM 高调宣布不再提供任何人脸识别服务和人脸分析软件及不再继续研发相关技术，正式退出市场。紧随其后，亚马逊也宣布，将暂停警方使用其人脸识别技术一年，转向扫描手掌特征来识别用户身份。人脸识别技术...
+ ## [新基建时代，华为5G AR企业路由缘何成“最亮的星”?](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=1yFPUEnzMQtYw6nnZXow-MIgAB13-fjJ8gUqakPaxg0phAnI0wnf91R6swYtdZl0rYIoOuce6UMBlBx*o-RyHsiYfhUiUxstadKCfceaZYZsx-nFCMCmufbU6yIA0gEo&new=1)
+ > 随着北京等地新型基础设施建设落地计划出炉，我们看到5G的确被列为各行业首要发展对象，成为促进企业数字化变革的重要技术力量。其实，银行、保险、能源、运营商等领域领先企业，已经在积极推动数字化转型。对5G...
+ ## [Engineer Ambitiously!在NI光阴的故事里寻找工程真谛](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=LFBlRoVfk*dqc2l5XsWepk1TwzcuJfAvpgN0ZW*7apzknnHA2Ir3Soefx36bNlZm50YcPD69*CEvj*VY2DjEYM5NaeTXGlleEH*SfmXN7UpFb-0OsE9XzmJyJYiCAnIw&new=1)
+ > 今天，美国国家仪器将之前“National Instruments”名称正式简化为“NI”，从此以后NI终于不再是缩略代词，而是正式的公司名称了。笔者有幸受邀观摩了美国国家仪器（NI）发布全新品牌标识的线上活动，屈指数来，...
+ ## [新基建驱动“5G To B”时代加速到来 行业数字化转型全面提速](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=gnzm3y90ANk2hFkKFWGqJy3avTnR63MVZmw5aC*Adzczcf4zODeYloHjhO*Q14zQSkxB2W13eNjwbYJUlv6dM8PmZxcOBnuserQCVl1IxFWnWG2TfH6CyCLHFL1mm3oe&new=1)
+ > 6月初，随着5G发牌满一周年，5G再度成为炙手可热的话题。从国家战略层面来看，目前工信部以及全国多省市地区都在召开加快5G发展的专题研讨会，5G作为支撑社会经济数字化、网络化、智能化转型的关键新型技术...
+ ## [地下800米深处，有了联通5G](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=*XB2wJX17ILiEW6N*jKcSmZq28BRe*Yjj1fOUwt1--pdVOAwTZH6kugklc9WLjEYWbT-csWfo7DB6lqo5eQINUD5OyZ6FgiyRroGfrGjPsGtdxnyLGz2EUPFaP8-zsdX&new=1)
+ > 6月5日21时许，在庞庞塔煤矿井下5G商用网络的一个基站上，联通技术人员郭镇毅完成了最后的调试。至此，由中国联通山西分公司建设的全国首个在地下800米深处、覆盖100公里巷道的井下5G商用网络顺利部署完成。 对...
+ ## [登月50年：计算器与计算器游戏发展简史丨触乐](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=18bRnVbE3DpXn*DSBrY78SggUWeshwUMDmIG3NwS7DVhVKtA3jpV9uOjuXrKkprxxrPEF5xBb4wFkSpGTWLMArbctbmvGV537EbnfxzJFlLsXLiYCz3X2aUivSanG6E3&new=1)
+ > 在阿波罗11号登月后不久，吉姆·斯托尔写出了史上第一个通过计算器运行的电子游戏。“休斯顿，这里是静海基地。‘鹰’着陆成功。”——阿姆斯特朗在月球和地球的通话1969年7月20日，阿波罗11号的指令长尼尔·阿...
+ ## [防止网络DDoS攻击的三种方法](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=GfAEluORuGe2H*E64Ra0h-mOVVnbvAoBnnmdjq6WVCDu1EjKWe1OFfPG8fWT2nZLwZBpk7MC6XIaQRnB-B4sDPXywJj2jUQifpiQMRjsf0yhAJrDQnP2JS13vZL6RZHc&new=1)
+ > 关键讯息，D1时间送达！网络DDoS攻击可能对组织造成破坏性影响并带来严重损失。企业需要了解三种预防和响应DDoS攻击以确保网络安全的方法。DDoS出现在全球互联网商业化的初期。这些攻击实际上会拒绝服务并造成网...
+ ## [直播预告|今日亮相\[特展区\]的企业你pick谁?](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=VIqIiCLHqwdFzHYKthb*CNwKEk67Z0BBSJfs0h2KgOATFtP65oxdl7riQEl-tChxnEKUgCOngRTHYakrbg8n08T0duCfv0JtLW3VOSw*YjW7Y2TT5uoL1q9*h6Zfj6SR&new=1)
+ > 2020云安会·大安防产业云端博览会-公益展已进入开展第二天。看过6月16日的直播后，相信大家仍意犹未尽，别着急，6月17日的直播预告来咯！逛展馆，不迷路！本次云安会分为特展区和标展区，据统计，目前已有近百...
+ ## [通知：220+展商名单，上海TCT 3D打印展会开通报名了](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=COdXDc8GLxCoQDaSajqbDzZOkhXmBjQe13Py1MBd1Qk-9zQO4dceQARWpwr6LcB-Cs0oL5dmtBdiovB7IxOFEFE1q1otnmJtPb7Gr7pXdw-PKdVPiyG6SATG6JBg2JKu&new=1)
  > 南极熊导读：为了让观众提前了解上海TCT 3D打印展会的展览内容，南极熊已经开通“2020TCT”专栏，陆续发布上百家3D打印展商的参展（新品）预告。需要发布预告的厂商，可把内容发到南极熊邮箱 3d@nanjixiong.com...
- ## [保障武汉百万中小学生停课不停学 天喻信息加速布局智慧教育](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=4n2O5P10TmJ8l5JMJDVOWQkGkWjzMrF4ArHnj7LBWmTGMZP8jui83yHIuK4JePL1ReBSzi6Jn5m9ldK72kMafsI8rFvNMvehy2ok-mf5rGU=&new=1)
- > 本报记者 李万晨曦    受新冠肺炎影响，教育部门要求推迟复工和复学时间，线下授课几乎全面停止，线上授课异军突起，在线教育也成为“刚需”。    6月14日，天喻信息控股子公司天喻教育总经理付...
- ## [做大做强大数据汽配电商平台](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=oxL7kx*n-1uO6MmiEu7LEPnhme8KjvEuiKja9VHLtvLPXr2URRUjPDOPX6xFQ5bv0-3FFWf9iim2zTeBjQSOJAVUZrmHHTum0D62-*V*63s=&new=1)
+ ## [5G标准制定难避开华为!为争夺话语权，美国发布一项新规](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=9Zsm09vslemF8gbNrIOpsZXD3VC*Tnl9d4IbxHKwF5eu0638uy9c95dpYZJndep8p-csmedLco7FWtXZriyHNF1Ql1rYM5JLtI4ELK-kEVayf9wFoo9pTdWuh8zq05hJ&new=1)
+ > 美国政府不愿看到美企在5G标准制定中丧失主动权酝酿数月之后，美国政府终于允许美国企业与华为共同制定全球5G标准。美国时间6月15日，美国商务部公布一项新规，美国企业可在标准制定机构中，与华为讨论行业技术...
+ ## [在业务领域中产生重大影响的5种人工智能技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=QZx*fNxRAZJ4eM8KVOdM8ooM5ImmPpIWM9DZrkrdilEm-BsUtdapbmmXOXNWh0IfqV7H6gla1Do*c6NKVeGx69hs5yNnUv6zH1nQHmRQeHBOamEQwct5w7euo8SbxbWj&new=1)
+ > 关键讯息，D1时间送达！人工智能技术正在将其自身融入业务的各个方面。重要的一些人工智能技术包括图像识别、语音识别、聊天机器人、自然语言生成和情感分析。企业需要了解图像识别、语音识别、聊天机器人、自然...
+ ## [器件|NOEIC成功研制50G PAM4收发模块 搭载全国产DSP芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=c601wtDKJQVdOKIWLw7GutG6X5b11*nCzWVxepdwtYVhVvUZf-8p59lfv-t99ljjbNIvqwbhmCIO91HRCqvZ2FerdZaCrWWcAVGV*1l7AULqTGi9GaMUW91daMNo-Exo&new=1)
+ > 新闻导读NOEIC宣布成功研制出50G PAM4高速光模块，该模块所使用的50G EML芯片和50G PD/APD芯片，从外延生长到芯片后工艺均为中国自主研发。同时，该模块还搭载来自上海橙科微电子的全国产50G PAM4 DSP芯片，采用...
+ ## [做大做强大数据汽配电商平台](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=oxL7kx*n-1uO6MmiEu7LEPnhme8KjvEuiKja9VHLtvLbGafwnBn0GCUJQiXKgYlCsdOCKDhGpG9EW8Iwfv4lXiarcKSTQXWGaMM6diQyyX8=&new=1)
  > 5月14日，孟关汽配城一家十多平方米的店铺里，胡克美的手机和电脑不时发出嘀嘀嘀的声音。他打开一个对话框，报价、交易、约定发货时间，速度快的话，一分钟就可敲定一单生意。胡克美使用的交易平台，是贵安...
- ## [美国终认可华为的5G技术领先地位，选择妥协共同研发5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=GZLTYw*wkh6osciOPuUFK0Vcyw1TykfnU8ZC1D5DY9RuYz2g3Ou9OlVd2CJA7hRbm0mrq2qrfIMCfuaHNO8fe0TTmJAgEipEwNrYiZo1GcrA6IgaoCYYZEyt2aYGL*zi&new=1)
+ ## [保障武汉百万中小学生停课不停学 天喻信息加速布局智慧教育](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=4n2O5P10TmJ8l5JMJDVOWQkGkWjzMrF4ArHnj7LBWmSN6D5GvT5D7LyrAUIU-ero1HSuT26c*7*n2AIhKz0ltzPUgq-uPQciV2Y5TzhQeqI=&new=1)
+ > 本报记者 李万晨曦    受新冠肺炎影响，教育部门要求推迟复工和复学时间，线下授课几乎全面停止，线上授课异军突起，在线教育也成为“刚需”。    6月14日，天喻信息控股子公司天喻教育总经理付...
+ ## [美国终认可华为的5G技术领先地位，选择妥协共同研发5G技术](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=GZLTYw*wkh6osciOPuUFK0Vcyw1TykfnU8ZC1D5DY9Rezliea*oGFFHAas90VGJHXikvkxhsop5tsYpW5ULL4Ug0bCbfkjqerA*6oMsUfBjaaWddeYo2oO1vPnpliOCP&new=1)
  > 媒体报道指美国将修改禁止美国企业与华为进行生意往来的禁令，允许双方共同合作制定5G技术标准，此举证明了美国已认识到无法绕开华为所拥有的5G技术专利，迫于无奈选择与华为合作研发5G技术。在3G技术上，美国企...
- ## [当我们谈智能家居时，我们在谈什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=U8gaZsY*ry6VcwP5TvGQILBKqINeLMjNmX9XUYNqt4xcyb2kUYSyDHyvR0EmBopuRmoGZ0cuAn436uvaBe9PZUyP4RapJePfPyR-aLGhY8K8lU799njeW*sTce8e5QxF&new=1)
+ ## [当我们谈智能家居时，我们在谈什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=U8gaZsY*ry6VcwP5TvGQILBKqINeLMjNmX9XUYNqt4wf9FqPhuC2JrXQQt5coli5pg4MrDSs2sVQRiC7spbKfLSFOOPb7t7TmtjUlvdtR-IyHtB1dcAjabczRsGbj9WS&new=1)
  > 在AIoT成为硬件领域全村希望之前，推销智能家居概念是一个很困难的工作，因为各种厂商总会重复发出疑问“智能家居到底有什么用呢？”也许当时这代表着一种务实的态度，但是从现在的眼光看来，提出这个问题的人可...
- ## [通信板块大涨!机构最看好什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=MbCaXR9XinXYa1qPGUNCZEY1onFBWqkI1V7OgCKOOVf0LE1hcljc8a8W9CY7SPZGr3oE8AoOaFulrOh33P*OFZYkSMFwymqxn77wQQpjwHXfXPOYXqTVjHwHZdtKJVhj&new=1)
+ ## [通信板块大涨!机构最看好什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1592382605&ver=2405&signature=MbCaXR9XinXYa1qPGUNCZEY1onFBWqkI1V7OgCKOOVeLXtGht0ig8ytQy4xZYv7JeaM1nFTvDS69vxLWHxUUDRtPfOFMZWfq9puKArQgdrykNiijJhp61rdbsOh0XNjN&new=1)
  > 今天通信板块全面反弹，申万通信指数涨3.22%，机构认为，2020~2021年，无论复工后实体经济发展，还是中长期产业转型升级，5G基础设施建设都是重中之重。海外疫情限制放松，国内5G需求加速，行业基本面持续向好。...
- ## [厚颜无耻：美国既想从华为5G标准中获利，又威胁巴西拒绝华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592364605&ver=2405&signature=1yFPUEnzMQtYw6nnZXow-MIgAB13-fjJ8gUqakPaxg28UOfX3afFcIy32m*TH2CsQORpvqXYWw8HxjHFsvTSKlvG5ctitZ*6QEjKxW5RR3-BJttrFQZeWt5OgrMxNrvF&new=1)
- > 美国对华为的限制可以说已经到了登峰造极的地步。一方面，美国威胁盟友拒绝华为；另一方面，美国又拿着大笔的资金诱惑盟友放弃华为。其实，这是美国惯用的伎俩。美国前总统罗斯福曾在一次演讲中，援引了一句非洲...
 # IT 技术 
+ ## [当银行架构师开始研究《孙子兵法》](http://developer.51cto.com/art/202006/619119.htm)
+ > 当银行架构师开始研究《孙子兵法》
  ## [面试问Redis集群，被虐的不行了......](http://stor.51cto.com/art/202006/619069.htm)
  > 面试问Redis集群，被虐的不行了......
  ## [继续创新的同时降低云数据存储成本的7个方法](http://news.51cto.com/art/202006/619024.htm)
@@ -166,38 +192,38 @@ categories: IT NEWS
  > 数据科学家应了解Java的六大原因
  ## [物联网分析：从物联网数据中获取价值](http://iot.51cto.com/art/202006/619004.htm)
  > 物联网分析：从物联网数据中获取价值
- ## [零售行业商业智能和数据科学的发展趋势](http://bigdata.51cto.com/art/202006/618979.htm)
- > 零售行业商业智能和数据科学的发展趋势
- ## [GitHub将替换掉master等术语，网友：把我项目都搞崩啦](http://news.51cto.com/art/202006/619092.htm)
- > 随着美国 “Black Lives Matter”运动愈演愈烈，继 IBM 、亚马逊、微软等科技公司之后，GitHub 方面也表示
- ## [跟踪服务器功耗的工具和技巧](http://server.51cto.com/Micro-619091.htm)
- > 每个组织对服务器的电源要求各不相同，但是监视峰值负载并跟踪服务器能耗以免发生业务中断仍然很重要。
- ## [新基建风口下，一起谈谈物联网平台的格局与破局](http://iot.51cto.com/art/202006/619090.htm)
- > 2009 年，中国政府提出“感知中国”理念，物联网被正式列为国家五大新兴战略产业之一，我国物联网发展的新
- ## [一个因 CA 根证书过期引起的故障，真相竟然是…](http://news.51cto.com/art/202006/619093.htm)
- > 服务器上的应用服务对外发送的一些 https 请求都失败了，真相竟然是……
- ## [防止网络DDoS攻击的三种方法](http://netsecurity.51cto.com/art/202006/619089.htm)
- > 网络DDoS攻击可能对组织造成破坏性影响并带来严重损失。企业需要了解三种预防和响应DDoS攻击以确保网络安全
- ## [欧洲企业高管调查：网络安全的幻觉与危机](http://zhuanlan.51cto.com/art/202006/619088.htm)
- > 根据Thales的最新调查报告，虽然安全问题日趋严重，但欧洲组织却产生了“安全幻觉”，只有68%的组织认为自
- ## [shell高效编程：shell脚本从未如此美丽](http://os.51cto.com/art/202006/619086.htm)
- > 平常工作中，你是否感觉shell脚本只是命令的堆砌;很多时候只是为了实现功能而没有好的组织结构;自己的脚本
- ## [疫情期间的云迁移优秀实践：从实施到交付](http://cloud.51cto.com/art/202006/619083.htm)
- > 社交媒体上如今流传着一个类似玩笑的说法，“数字化转型的较大推动力是冠状病毒疫情”。虽然这可能有些言过
- ## [到底什么时候不应该使用机器学习？](http://ai.51cto.com/art/202006/619085.htm)
- > 对于什么时候应该使用机器学习/AI，很多人都会迟疑和顾虑，而作者正是因为经历了种种顾虑后，将经验总结成
- ## [安全专业人员应该学会的6个硬道理](http://netsecurity.51cto.com/art/202006/619081.htm)
- > 安全专业人员所做工作的对于一个企业来说是十分重要的。所以，安全人员的工资也是IT行业中最高的。以下是安
+ ## [数据库事务之MySQL跨行事务模型](http://database.51cto.com/art/202006/619132.htm)
+ > 本文核心介绍了MySQL的单机跨行事务模型，其中对隔离性所涉及到的锁技术、MVCC机制进行了比较详细的说明。
+ ## [从网络IO看高性能框架](http://network.51cto.com/art/202006/619131.htm)
+ > 我相信大家肯定听过什么阻塞/非阻塞IO，同步/异步调用，我也尝试过死记概念，结果大家应该都有体会，过一阵
+ ## [基于Rust实现业务架构的重构](http://developer.51cto.com/art/202006/619130.htm)
+ > 新兴的编程语言中，Rust以高性能、内存安全为卖点在编程世界里广受好评。除了比较繁琐的语法，难于理解的变
+ ## [社交大数据如何助力社会风险治理？](http://bigdata.51cto.com/art/202006/619128.htm)
+ > 当前，社会风险出现了复杂化、多元化及动态化等新特点。不仅网络内容生态趋于复杂，国际间因疫情、贸易以及
+ ## [利用人工智能和机器学习来保障工厂安全](http://ai.51cto.com/art/202006/619127.htm)
+ > 未来的自动化安全将涉及机器学习。人工智能和机器学习的进步，可以促使机器人和其它工业设备从大量与安全相
+ ## [从业20年大佬的经验谈：程序员应多做这4件事](http://news.51cto.com/art/202006/619126.htm)
+ > 我从事自由网络的开发工作已经有将近20年的时间，回首过往的工作经历，我比较大的感受就是：这四个习惯，要
+ ## [“人脸识别第一案”开庭 拒绝刷脸的权利都没了？](http://ai.51cto.com/art/202006/619125.htm)
+ > 近日，“中国人脸识别第一案”正式开庭审理，受到了业内人士与公众的广泛关注。这起案件源于浙江某大学副教
+ ## [技术选型，不是技术造型](http://news.51cto.com/art/202006/619124.htm)
+ > 技术团队应该具备半个月重写 ElasticSearch 的能力。自己造轮子比使用开源软件更靠谱。
+ ## [最快捷的Linux命令查询工具：「我该怎么做XX」，一句话返回指南](http://news.51cto.com/art/202006/619123.htm)
+ > 无论你是Linux萌新用户还是老司机，使用命令行总会遇到不懂的问题。
+ ## [微软敲定Windows 10一年两更策略：春季上新功能、秋季主优化](http://os.51cto.com/art/202006/619122.htm)
+ > 对于Windows 10的更新策略，微软已经明确下来，一年两次大的更新，分别是春季和秋季，而更新上的侧重点也不
  ## [有些事现在不做，一辈子都不会做了。](https://blog.csdn.net/ityouknow/article/details/106726385)
  > 有些事现在不做，一辈子都不会做了。
  ## [培训班出来的人后来都怎么样了？（五）](https://blog.csdn.net/qq_41699405/article/details/106505571)
  > 培训班出来的人后来都怎么样了？（五）
+ ## [电商秒杀商品功能实现——rabbitMQ+redis](https://blog.csdn.net/weixin_42596778/article/details/106722485)
+ > 
  ## [3年内从负债到买房三套，勤劳不能致富，工资只能温饱](https://blog.csdn.net/luwei42768/article/details/106735796)
  > 3年内从负债到买房三套，勤劳不能致富，工资只能温饱
+ ## [老码农吐血建议：2020年，低于1w的程序员要注意了...](https://blog.csdn.net/CSDNedu/article/details/106258045)
+ > 老码农吐血建议：2020年，低于1w的程序员要注意了...
  ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
- ## [「视频」这八个对你有帮助的网站，你知道吗？](https://live.csdn.net/v/21867)
- > 「视频」这八个对你有帮助的网站，你知道吗？
  ## [老程序员申请加薪至25K遭拒愤然辞职，公司转眼花35K重新招人](https://blog.csdn.net/Java0258/article/details/106732463)
  > 老程序员申请加薪至25K遭拒愤然辞职，公司转眼花35K重新招人
  ## [程序员的学历，真的有那么重要吗？](https://blog.csdn.net/qianduan167/article/details/106713193)
@@ -206,74 +232,70 @@ categories: IT NEWS
  > 大三实习生，字节跳动面经分享，已拿Offer
  ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
  > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
- ## [一个老程序员的忠告](https://blog.csdn.net/weixin_48048408/article/details/106738630)
- > 一个老程序员的忠告
+ ## [一个资深程序员的忠告](https://blog.csdn.net/weixin_48048408/article/details/106738630)
+ > 一个资深程序员的忠告
+ ## [Python基础自学实用笔记（总和篇）](https://blog.csdn.net/qq_45879055/article/details/106732033)
+ > 
  ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
  > 
  ## [当HR压你价，说你只值7K，你该怎么回答？](https://blog.csdn.net/qianlia/article/details/105075104)
  > 当HR压你价，说你只值7K，你该怎么回答？
  ## [你怎么看欧阳娜娜空降阿里p8？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106003240)
  > 你怎么看欧阳娜娜空降阿里p8？
- ## [应聘3万的职位，有必要这么刁难我么。。。沙雕。。。](https://blog.csdn.net/likun557/article/details/105608851)
- > 应聘3万的职位，有必要这么刁难我么。。。沙雕。。。
- ## [程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝](https://blog.csdn.net/qianduan167/article/details/106234859)
- > 程序员月薪2万，却因提出AA制，被月薪不到6000的女研究生拒绝
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [【迭代式开发v1】实际去建Web前端页面所需的数据库（以前只是设计）+Web后端部分代码实现——大数据开发实战项目（八）](https://blog.csdn.net/weixin_43124279/article/details/106792319)
+ > 【迭代式开发v1】实际去建Web前端页面所需的数据库（以前只是设计）+Web后端部分代码实现——大数据开发实战项目（八）
+ ## [【重学UML】UML类图关系及其对应代码](https://blog.csdn.net/shang_0122/article/details/106637782)
+ > 
+ ## [我去，Java面试的思维导图，全部给你准备好了，拿走不谢](https://blog.csdn.net/sihai12345/article/details/106780054)
+ > 
+ ## [FTP文件管理项目（本地云）实战指南](https://blog.csdn.net/qq_43762191/article/details/106780909)
+ > 
+ ## [终于懂了TCP的三次握手和四次挥手(超精彩分析)](https://blog.csdn.net/qq_17623363/article/details/106774219)
+ > 
+ ## [还不懂排序算法可以打我了！](https://blog.csdn.net/wang_zhao_/article/details/106770736)
+ > 
+ ## [从测试角度写代码（一）调试分级](https://blog.csdn.net/MOSHIWANGJUE/article/details/106784399)
+ > 从测试角度写代码（一）调试分级
+ ## [LeetCode 947. 移除最多的同行或同列石头（并查集）](https://blog.csdn.net/qq_21201267/article/details/106795331)
+ > LeetCode 947. 移除最多的同行或同列石头（并查集）
+ ## [东北大学C语言期末考试-编写程序，初始化一段英文名称（每个单词之间有一个空格），以大写形式输出缩略语，例如，初始化s1 World wide web ,则输出s2 WWW。](https://blog.csdn.net/qq_43422111/article/details/106764060)
+ > 东北大学C语言期末考试-编写程序，初始化一段英文名称（每个单词之间有一个空格），以大写形式输出缩略语，例如，初始化s1 World wide web ,则输出s2 WWW。
+ ## [图解HTTP十一：Web 的攻击技术](https://blog.csdn.net/weixin_39020133/article/details/106761917)
+ > 
+ ## [Linux防火墙之你必须知道的iptables](https://blog.csdn.net/weixin_43898125/article/details/105797909)
+ > 
+ ## [E-Prize bitset](https://blog.csdn.net/qq_41286356/article/details/106781843)
+ > E-Prize bitset
+ ## [经典算法（六）----快速排序----图解法让你快速入门](https://blog.csdn.net/weixin_44820625/article/details/106786122)
+ > 
+ ## [SEO和SEM的区别与联系有哪些？SEM和SEO是什么？](https://blog.csdn.net/yetaodiao/article/details/106762950)
+ > SEO和SEM的区别与联系有哪些？SEM和SEO是什么？
+ ## [多用户方案实现Android免ROOT卸载预装软件的思路](https://blog.csdn.net/Post_on_96MB/article/details/106782350)
+ > 多用户方案实现Android免ROOT卸载预装软件的思路
 # PM 
+ ## [当产品发生重大事故时，正确的姿势是什么？](http://www.woshipm.com/pmd/4024798.html)
+ > 互联网运营多多少少都会遇到一些事故，事故有大有小，影响不一，有些微乎其微，但是有一些却举足轻重。系统发生重大灾难难道只能“删库跑路”？本文作者列举了互联网公司...
+ ## [微信领域裂变获客引流实操笔记（一）](http://www.woshipm.com/marketing/4027140.html)
+ > 2020年因为疫情的关系，很多人都意识到了有一个副业傍身多重要。任何副业最先开始都要有一个裂变引流的过程，具体怎么做呢？本文作者以自身经历，从两个方面展开介绍，...
+ ## [掌握砍价中的六大用户心理，轻松搞定甲方需求](http://www.woshipm.com/zhichang/4024517.html)
+ > 本文总结了砍价哲学中的六大用户心理，并结合案例对每个用户心理展开了分析说明。沟通的最大技巧是真诚，而谈判的目标是共赢。希望掌握好这六大用户心理，能帮助你更好...
+ ## [裂变增长玩法：这些N类魔鬼细节，你都注意了吗？](http://www.woshipm.com/operate/4024182.html)
+ > 平时我们设计增长裂变玩法时，总是从整体的效果方面去看待问题，而一些小的细节往往容易被忽略。但这些细节在玩法设计中如果做了效率优化，对整体的项目效果也是很有影...
+ ## [新人福利 | 10年经验产品导师，4招教你解锁转岗产品正确姿势！](http://www.woshipm.com/open/4032909.html)
+ > 对于产品新人来说，最激动人心的时刻，莫过于收到心仪公司发来的产品offer。拿到产品offer意味着进入CEO学前班，和更多优秀的人一起工作，能接触更多精彩的项目，走入...
+ ## [复盘大集中模式下的角色权限设计](http://www.woshipm.com/pd/4024074.html)
+ > RBAC模型是通过分离权限与用户的耦合关系，将权限关联在角色上，用户通过扮演适当的角色获得合适的权限的权限管理方式。本文在RBAC模型的基础下，整理权限设计过程中的...
+ ## [地摊经济将走向何方？我的几点思考](http://www.woshipm.com/it/4023933.html)
+ > 本文作者从地摊经济的本质出发，对地摊经济兴起的前因后果展开了梳理，并对其未来发展进行了分析研究，总结了需要注意的问题和优化方向，与大家分享~01 一切从洞察地...
+ ## [以一款政务App的为例，聊聊如何确定数据需求和埋点](http://www.woshipm.com/data-analysis/4022334.html)
+ > 大部分的数据分析文章，方法论居多，示例较少。而本文通过示例展开，结合遇到的具体场景和实际问题的思路，分享了如何根据产品功能、产品结构、业务流程确定数据分析的...
+ ## [产品分析 | 精品电商异军突起，为何小米有品强势崛起？](http://www.woshipm.com/evaluating/3830246.html)
+ > 新消费时代之下，面对电商行业的激烈竞争，小米有品为何能在短时间内迅速崛起？未来又能否更进一步，后来居上？本文将藉由分析小米有品的视角，带你深入了解这家公司以...
+ ## [关于深色模式，你需要知道这三点](http://www.woshipm.com/it/4018634.html)
+ > 随着大众使用手机的时间越来越长，很多APP考虑到用户的用眼问题，推出了深色模式。本文作者从三个角度分析深色模式，推荐给对深色模式感兴趣的童鞋阅读。随着iOS 13和...
  ## [运营公开课| 已经工作2-5年，转行做运营还有晋升空间么？](http://www.woshipm.com/open/4031684.html)
  > 我叫小柔，曾经是某航空公司的地面服务人员，办理值机业务、广播、处理各类繁杂的投诉和指引工作是每天的日常。相比于每天官方式的沟通，我更喜欢一边大笑一边撕逼式的...
- ## [数据分析三大手法之“细分分析”](http://www.woshipm.com/data-analysis/4024258.html)
- > 在工作中，我们常常需要分析各种数据。不同的数据分析方法要怎么用呢？本文作者根据自己的自身经历，从四个角度进行分析介绍，推荐给对数据分析感兴趣的童鞋阅读。作...
- ## [支付宝的下一个战场](http://www.woshipm.com/it/4023375.html)
- > 在大众印象中，作为支付工具的支付宝变了。它的金融标签逐渐淡化，不断开拓本地生活的圈子。支付宝的下一个战场在哪？它最大的对手是谁？本文作者提出了自己的一点思考...
- ## [WMS仓管系统：补货功能](http://www.woshipm.com/pd/4023267.html)
- > WMS的主要功能是对仓库内所有商品的运转生态进行全面的追踪，连接订单管理系统，让仓管人员随时随地了解仓库当下最新库存数据。本文按照补货的流程顺序，带我们了解了补...
- ## [电商系统最小单元——概念定义](http://www.woshipm.com/newretail/4019289.html)
- > 电商已经成为我们日常生活中不可缺少的一部分，但是这个与我们朝夕相处的事物，我们真的了解它吗？本文从五个方面展开介绍，对电商概念感兴趣的童鞋不要错过。通过近...
- ## [新品牌如何进行内容营销？](http://www.woshipm.com/marketing/4016122.html)
- > 内容营销一向是品牌运营的重点，内容营销影响着消费者的购买决策。品牌如何进行内容营销？本文作者把内容营销分为三个阶段：前期、中期和后期，并对各个阶段展开了梳理...
- ## [创新产品规划：保险行业的“社区新零售”](http://www.woshipm.com/pd/4023333.html)
- > 社区新零售”已经被各大企业所关注，那么保险行业是否可以搭上“社区新零售”的顺风车呢？要如何搭建保险行业“社区新零售”的服务体系呢？处于风口的“社区新零售”已经被各...
- ## [SaaS是个伪命题吗？](http://www.woshipm.com/it/4023641.html)
- > SaaS作为一个新的软件应用模式，它的诞生和发展受到很多人的关注。对于SaaS，产品经理和客户都有不同的意见。本文作者从三个方面展开分析，对SaaS感兴趣的童鞋不要错过...
- ## [蚂蚁森林体系对支付宝的增长价值](http://www.woshipm.com/pd/4009379.html)
- > 支付宝通过蚂蚁森林游戏，巧妙地和用户生活场景结合，用体系设计牵引支付场景延伸，形成行为路径闭环，为支付宝储存强大能量，同时促进更多人主动参与，实现了自己的商...
- ## [如何合理拒绝业务方需求？](http://www.woshipm.com/pmd/4019991.html)
- > 碰到胡乱加需求的业务方，产品人需要学会拒绝，控制需求边界，才能控制产品的上线时间，把握产品效能。本文作者总结了四种不做的需求类型，与大家分享。产品经理主要...
- ## [怎样评估IP实力？](http://www.woshipm.com/operate/4014029.html)
- > 怎样评估IP实力？如何评估一个IP的成长潜力？孵化IP，一定要紧紧扣在情感共鸣度和文化共识度这两个指数的增长上，打造情感力+文化力的产品，IP思维是产品思维，决定IP的...
- ## [网络互助的本质是什么？从去中心化看网络互助](http://www.woshipm.com/it/4021869.html)
- > 关于网络互助的认识和看法有很多，网络互助的本质就是去中心化吗，那网络互助是怎么去中心化的呢？本文作者从去中心化的概念出发，对此展开了分析讨论，与大家分享。...
  ## [K问K答](http://www.chanpin100.com/article/111853)
  > 关于为什么要写PRD、小程序商业化、如何介绍自己项目、APP注册分几步好等问题，文内有福利~
  ## [【丁香医生】体验报告](http://www.chanpin100.com/article/111869)
