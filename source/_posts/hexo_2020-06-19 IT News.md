@@ -1,7 +1,7 @@
 ---
 title: 2020-06-19 IT News
 copyright: true
-date: 2020-06-19 10:06:32
+date: 2020-06-19 12:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -123,19 +123,29 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [器件|华拓25G DWDM光模块实现海外批量交货](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=w*KBDtGxEOXTcXJy1GptIIXp50lkT5dFe3OkfXxEc-enDrxdqNRyCnN8mzngDMUU8d44egQAFwEGvoFTpgzWegpSvCYVAvlgbW3ClhCiS8u7WoHlE8PPmWjlHftCt4f1&new=1)
- > 新闻导读华拓光通信自主研发生产的25G DWDM系列光模块已成功实现向海外某主流运营商批量供货，该产品也已通过国内某知名设备商验证测试。ICC讯 根据GSMA的最新报告显示，截至2020年5月底，全球42个国家和地区已...
- ## [刚刚，工信部下发重磅通知：三大运营商再也不用..](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=6SPQqn4KOkmfis-vg9Zshwc*QSjqCe4YQ9yKRsBJPciL7Wx1LFqB9U0GlTmqHW85j5RTc5RwpgbszJccGMBcy1JCR62I0VRKXOTkC6tSZzQgw7CeBwIHApBSJ5gPLXim&new=1)
- > 工业和信息化部 国家发展改革委关于取消电信业务资费告知制度的通告工信部联通信函〔2020〕100号 为贯彻落实《优化营商环境条例》，深化“放管服”改革，现就取消电信业务资费告知制度有关事项通告如下：一、自...
- ## [\[报告\]2020全球电动汽车展望(附276页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=G*n-kkWrBiqUTNILMVbiNaRA02dpEMBdUL-udGFzYog3HvNq3hnHrIMnF8fklad2VEZ-TbdxDA4CU3*VHn5K3-DploTdkXnhcPzdN2vRtohhp-HrApzWM*SzShI53P64&new=1)
- > 日前，国际能源署（IEA）发布了《2020全球电动汽车展望》（以下简称《展望》）报告，结合历史分析和未来预测，对电动汽车产业在充电基础建设情况、电池成本、二氧化碳排放和电池原材料需求等发展情况进行了评估...
- ## [李鸿忠张国清检查世界智能大会筹备工作](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=MqIEOvzPTpj6JHu-j5AiYb*kUZQ6Se-K87enhRP4B8lSwHaKxxfzaDe-CUhMeJkjlmt1OxT2LhGcf9KD849L047tqneaHGIQwvcyrnqTcjUxjtDMaToXC-BYu1MlRY8X&new=1)
+ ## [透明件3D打印龙头，同行找他合作，南极熊实地探访浙文三维](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=uZG9ZGvlXf4EO9Vx3w8uIq3*3HPg5w33BymXVeDHqFOITy0wwD9SIkB99byC-1A47voyTv062KT4wtd1LVKitmcVtGbaML5qmzpBBMvZYj0Y85J1g1k*d7i2kN5RmIR0&new=1)
+ > 从事过硬件新产品开发的读者朋友，一定很清楚手板的作用，在正式批量生产自己的产品之前，一般都需要找到手板厂定做几个样品，看看产品的设计是否合理，还存在哪些需要改进的地方，避免在开模之后再去修改模具，...
+ ## [广西这个大boss全网直播首秀，百份好礼只送不卖!](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=nCtVXNT8ohtj3Xf0-lLTsctmwfaulsJz5L1WYCRVX6t0x1RWNLGrW6plkqQH3aL8ledxAoaY9aYi8M22n4xYkM2WSWEpKBiCBVy99Q4MC86MENrMuYHIg9c60RbiU9nu&new=1)
+ > 三千兆触手可及！出门用千兆5G，进门用千兆宽带和千兆Wi-Fi，如今这种场景在广西正成为现实。2020年6月19日19:00~21:00，中国电信广西公司党委书记、总经理叶松华将走进直播室开启全网首秀，揭秘3000兆！划重点...
+ ## [天猫京东618下单金额近万亿；苹果或选择印度组装新款iPhone SE；Adobe将于12月31日终止支持Flash|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=nmSUX9PGBDUZby6kjO5JAxf4nrGSLFuDF2d3GRUw9Cmp*NZMHYfZJhTle-czgaNomMKRLzb0GERy82RgDKlH9TD1RUTpX6G*5KYXxIcdxmry9*RAQYtYuosSZ1-sbkou&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
+ ## [发力新基建 加速打造产业新城](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=GxofNwY2o4Qs1jBABxmK0cI0bE8xhckwPcGxDZsSDoJYf7l2iGWcbS-Nd69qOPBN4TC2Nqg6uxmcQ8igyq-eWqC3C6b-EluZ0ofn1x10N40=&new=1)
+ > 6月17日，在贵阳大数据安全产业示范区的一项目旁，一个约3米高的基柜已经建好，基柜体积不大，里面却容纳了5G基站、备用电池等设备。该基站是贵阳经开区今年要建设的1100个5G基站之一。据运营方中国移动小河...
+ ## [李鸿忠张国清检查世界智能大会筹备工作](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=MqIEOvzPTpj6JHu-j5AiYb*kUZQ6Se-K87enhRP4B8lSwHaKxxfzaDe-CUhMeJkjiIXssLY30KQKypJgM*VJMeuttJmmSEX2IgO98ifx*VabYiQHRtXZyS2dxE-l7lWb&new=1)
  > 本报讯（记者 魏彧 米哲 周志强）18日下午，市委书记李鸿忠，市委副书记、市长张国清深入第四届世界智能大会主会场天津梅地亚大剧院检查大会筹备工作，对优化服务保障、细化防控措施、提升观会体验等提出要求。...
- ## [如何加速国有企业数字化转型?他们拍了拍华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=rSILCJW4F2O-WcYSr7nJrJyQ5lCe1SK7aNwPosnThUyA2CnfsnyeaAai2PWwprsahFb3k3sIirsR5wMPU2yORcwMTkSQNbg-tNH485YIRidlg6r7jTtXpUb5zBymAB-o&new=1)
+ ## [\[报告\]2020全球电动汽车展望(附276页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=G*n-kkWrBiqUTNILMVbiNaRA02dpEMBdUL-udGFzYog3HvNq3hnHrIMnF8fklad2Bsa8oO2OCHx6hz-o*5xq-84x0Xsj79ynCt9UTx4c1loyRisr8XDrIOazLw6O60XO&new=1)
+ > 日前，国际能源署（IEA）发布了《2020全球电动汽车展望》（以下简称《展望》）报告，结合历史分析和未来预测，对电动汽车产业在充电基础建设情况、电池成本、二氧化碳排放和电池原材料需求等发展情况进行了评估...
+ ## [“6·18”开门红 京东赴港二次上市“大卖”](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=cM*LeK7HbSvZDNX0vs60bwQGnjYVr3iXU1ZBtzxUfABiWh-oTSx*gYViLkAdccp*gn0Q2P0zuzLRqC1lG4bJPL*tVNn2XJAM2lmDyk-Icsg=&new=1)
+ > 6月18日，17岁的京东登陆港交所，代码为“09618.HK”，开盘价239港元/股，较发行价上涨13港元，涨幅为5.75%，当日成交额高达70亿港元。公司此次总计发行1.33亿股，募集资金净额为298亿港元，创下年初以来港...
+ ## [器件|华拓25G DWDM光模块实现海外批量交货](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=w*KBDtGxEOXTcXJy1GptIIXp50lkT5dFe3OkfXxEc-enDrxdqNRyCnN8mzngDMUU6p0BgvVdDwBtaeYTfxrHLJw0QoI5gO0KE05S4YgifsvhnbdNTLhOxTXLOycPd8Wt&new=1)
+ > 新闻导读华拓光通信自主研发生产的25G DWDM系列光模块已成功实现向海外某主流运营商批量供货，该产品也已通过国内某知名设备商验证测试。ICC讯 根据GSMA的最新报告显示，截至2020年5月底，全球42个国家和地区已...
+ ## [刚刚，工信部下发重磅通知：三大运营商再也不用..](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=6SPQqn4KOkmfis-vg9Zshwc*QSjqCe4YQ9yKRsBJPciL7Wx1LFqB9U0GlTmqHW85tTX9Yj-jUn4oYwt8pNGri8PmyWoZh6Y1y8prhZsCjIXOdYA5BTMNhd-xBJeotODO&new=1)
+ > 工业和信息化部 国家发展改革委关于取消电信业务资费告知制度的通告工信部联通信函〔2020〕100号 为贯彻落实《优化营商环境条例》，深化“放管服”改革，现就取消电信业务资费告知制度有关事项通告如下：一、自...
+ ## [如何加速国有企业数字化转型?他们拍了拍华为](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=rSILCJW4F2O-WcYSr7nJrJyQ5lCe1SK7aNwPosnThUyA2CnfsnyeaAai2PWwprsai9yNMFVaSplAV*api-WXZ3z1zrSbEieM30MDPp8bnxbIcejX*oZe11kOmwv2*0ym&new=1)
  > ——本文作者 郑凯刚刚，“拍了拍”火了，而在此前，国有企业也“拍了拍”华为。今天我们一起聊一聊华为云WeLink+智能协作解决方案如何加速实现国有企业数字化转型。对国有企业而言，它们的数字化能力在疫情期间...
- ## [曾经全球都在用的看片工具，今天彻底凉了](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=xJd9OawxySJPGHBJpNeQ*rxV32sQeoPD-tJdxZeGbxGFJ5Fe6y1Zl*E-c654*hH1bqW08CJytLECKmgv*vHTuyF*--0tag3CWXJXT9eaFLnfCVvbUHRtZVa3rFcusDdi&new=1)
+ ## [曾经全球都在用的看片工具，今天彻底凉了](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=xJd9OawxySJPGHBJpNeQ*rxV32sQeoPD-tJdxZeGbxGFJ5Fe6y1Zl*E-c654*hH1L63d2XyPVg8IXCOByuaY2swPerQWvVsecTSoqHHRHM3HVO3BH*FaqMv-cfHZlmLy&new=1)
  > 今天机哥要讲一件大事，都给我认真听：Adobe 公司今天宣布，将于2020年12月31日，正式终止支持 Flash 。简单来说，陪伴我们走过 24 个年头的 Flash，来到了生命的末期。此次一别，或许再也不见。它可能是你小时...
- ## [英伟达海思首次跻身全球半导体十强!台积电海思增幅最大](http://mp.weixin.qq.com/s?src=11&timestamp=1592532005&ver=2409&signature=ztO1kNxNk4rcVSTPfpE78k0Elr7b9n93vy6Pas7fan3WZf6GOq7ddD*4IO4JUhYRZDO*rplBCBlsWD1DjiBh3iPBGV2KKnS2AuaYYCKk9o-AplfOPgxNXNIJNPdefXs8&new=1)
+ ## [英伟达海思首次跻身全球半导体十强!台积电海思增幅最大](http://mp.weixin.qq.com/s?src=11&timestamp=1592537471&ver=2409&signature=ztO1kNxNk4rcVSTPfpE78k0Elr7b9n93vy6Pas7fan3WZf6GOq7ddD*4IO4JUhYRU0fvouzjqCmHqY59z-YTYJuwfjxZDAmYLtTv8BE0OhiTtsDF0niQihc2V9eoN3iu&new=1)
  > 芯东西（ID：aichip001）编 | 心缘芯东西5月7日消息，IC Insights发布2020年第一季度全球销售额排名前十的半导体（IC和OSD光电、传感器和分立器件）供应商，包括四家无晶圆厂公司（博通、高通、英伟达、海思）和...
 # IT 技术 
  ## [日均7亿交易量，为什么我们要用MySQL？](http://database.51cto.com/art/202006/619262.htm)
@@ -154,26 +164,26 @@ categories: IT NEWS
  > 联网车队管理：为什么统一的网络是关键
  ## [如何创建有效的数据归档策略](http://stor.51cto.com/art/202006/619181.htm)
  > 如何创建有效的数据归档策略
- ## [使用AI的实战方法论：做好这5个步骤](http://ai.51cto.com/art/202006/619264.htm)
- > 人工智能(AI)是所有现代问题的新灵丹妙药吗？或者它是一把双刃剑，有时是破坏性的，有时是很有用的。事实是
- ## [有码变高清！AI一秒还原马赛克，杜克大学出品](http://news.51cto.com/art/202006/619265.htm)
- > 近日杜克大学（Duke University）研究团队开发了一款AI修图黑科技PULSE，可以解决所有低像素烦恼。据说它能
- ## [如何保护企业的远程劳动力](http://netsecurity.51cto.com/art/202006/619263.htm)
- > 对VPN服务器上的DDoS攻击不仅会使远程工作陷入瘫痪，而且使IT管理员无法访问其系统。需要采用几种确保其安
- ## [IDC：2020年全球物联网支出放缓，后将恢复两位数增长](http://iot.51cto.com/art/202006/619261.htm)
- > 据IDC发布的最新支出指南，2020年COVID-19大流行造成的经济影响严重制约了全球物联网(IoT)支出，不过，无论
- ## [新的移动互联网协议漏洞使黑客瞄准4G / 5G用户](http://netsecurity.51cto.com/art/202006/619258.htm)
- > 新发布的研究警告说，可以利用移动网络运营商（MNO）的现代通信协议中高影响力漏洞来拦截用户数据，然后进
- ## [工业互联网标识解析安全风险亟需引起关注](http://netsecurity.51cto.com/art/202006/619257.htm)
- > 当前，我国工业互联网标识解析系统与产业应用尚处于建设初期，面临着诸如安全管理制度不完善、安全防护技术
- ## [2027年，全球Li-Fi通信系统市场将超过1600亿美元](http://news.51cto.com/art/202006/619256.htm)
- > Li-Fi的全球通信系统市场根据不同的最终用户分类，包括智能家居、智能城市、智能汽车、智慧教育、智慧零售
- ## [如何利用物联网功能提高未来生活与工作效率?](http://iot.51cto.com/art/202006/619253.htm)
- > 今天，我们来分享七个鼓舞人心的趋势，展示了如何利用物联网将业务运营提升到新的水平。
- ## [8种高级的Python列表使用技巧，都给你整理好啦（附实操代码）](http://developer.51cto.com/art/202006/619252.htm)
- > Python中的列表是我们很常见的数据结构之一，也是很强大的数据结构之一!Python列表功能非常丰富，并且具有
- ## [三个可能会被计算机视觉技术改变的行业](http://ai.51cto.com/art/202006/619254.htm)
- > 计算机视觉最主要的应用是面部识别，这种技术经常被用于安全和执法领域。但是，在本文中，我想介绍一些计算
+ ## [小程序进阶之路：跨平台开发避坑指南](http://zhuanlan.51cto.com/art/202006/619282.htm)
+ > 小程序的开发不可避免的会面临跨平台开发的问题。各小程序平台有哪些特点?如何处理各平台的差异?本文分享淘
+ ## [一行命令跑评测，港中文MMLab开源自监督表征学习代码库OpenSelfSup](http://news.51cto.com/art/202006/619279.htm)
+ > 自监督表征学习发展迅速，但也存在诸多问题。近日，香港中文大学多媒体实验室（MMLab）和南洋理工大学的研
+ ## [微软如何优化 Microsoft Edge 的内存使用？](http://os.51cto.com/art/202006/619277.htm)
+ > 一直以来，Google Chrome 都是资源消耗大户，尽管其背后的巨头对它进行了诸多改进，但 Chrome 仍是同时只运
+ ## [Chrome 团队：2020 年了，浏览器兼容性还是一个大问题](http://os.51cto.com/art/202006/619275.htm)
+ > Chrome 团队指出，当涉及到浏览器兼容性时，仍然有太多缺少的功能和边缘错误。如果浏览器供应商可以理解到
+ ## [美国互联网将迎巨变：保护伞230条款真要没了？](http://news.51cto.com/art/202006/619272.htm)
+ > 到底什么是第230条款？1996年美国《通讯规范法》(Communication Decency Act)的第230条规定，“任何交互式
+ ## [7 个建议让 Code Review 高效又高质](http://zhuanlan.51cto.com/art/202006/619278.htm)
+ > Code Review(CR) 的本质是什么?是为了查错?还是为了 KPI?本文分享阿里资深技术专家的看法：CR 是一种关于社
+ ## [无人机也可以被拦截？黑客当真无所不在](http://netsecurity.51cto.com/art/202006/619269.htm)
+ > 目前无人机越来越多，安全问题也变得十分重要，不仅要防止一些良心坏了的人拦截自己的无人机，在政府方面还
+ ## [除了识脸还能“读心”，这样的AI你爱吗？](http://ai.51cto.com/art/202006/619267.htm)
+ > AI就像是一个神奇的魔法师，总会用“变戏法”的方式将惊喜带到人们身边。认脸作为AI的一项基本技能，现在已
+ ## [iOS买会员比安卓贵百元 价格歧视还是“苹果税”所致](http://news.51cto.com/art/202006/619274.htm)
+ > 经过数十年的用户教育，互联网公司们想从用户口袋里掏钱已经不是什么难事。视频、音乐、网盘，甚至美颜相机
+ ## [JVM 的秘密花园](http://developer.51cto.com/art/202006/619271.htm)
+ > 在 Java 语言的世界里，因为是跨平台的语言，而且每个人的设置并不相同，所以这对应到具体当前系统的临时文
  ## [为什么 Vue 更符合这个时代的大势所趋](https://blog.csdn.net/powertoolsteam/article/details/106800293)
  > 
  ## [为开发色情游戏，这家公司赴日寻找AV女优拍摄，期望暴力赚钱结果...](https://blog.csdn.net/ityouknow/article/details/106774430)
@@ -186,6 +196,8 @@ categories: IT NEWS
  > 程序员干累了，当个培训讲师？我亲身试水，讲讲感受
  ## [有像我一样上班休闲，从不加班的程序员吗？](https://blog.csdn.net/qq_31689009/article/details/106761613)
  > 有像我一样上班休闲，从不加班的程序员吗？
+ ## [Java基础知识笔记五（详细）](https://blog.csdn.net/qq_45893999/article/details/106707858)
+ > 
  ## [你不知道的几个牛逼网站，欢迎收藏](https://blog.csdn.net/weixin_43968789/article/details/106790143)
  > 你不知道的几个牛逼网站，欢迎收藏
  ## [全自动爬虫，你爱了么](https://blog.csdn.net/cwq521o/article/details/106817973)
@@ -202,57 +214,57 @@ categories: IT NEWS
  > 抖音时钟效果源码
  ## [63个Linux基础自测题,超过10个不会的,劝你还是别玩Linux了](https://blog.csdn.net/qq_17623363/article/details/106296357)
  > 
- ## [对百度网盘的报复来了，下载速度高达68Mb/秒，超稳定，全面替代Pandownload！！！](https://blog.csdn.net/id_zhongwen/article/details/106691797)
- > 对百度网盘的报复来了，下载速度高达68Mb/秒，超稳定，全面替代Pandownload！！！
 # 人工智能 
- ## [WinSock网络编程基础](https://blog.csdn.net/SebastianStan/article/details/106817901)
- > WinSock网络编程基础
- ## [关于小熊派Cat1开发板的环境配置](https://blog.csdn.net/weixin_41598714/article/details/106833509)
- > 关于小熊派Cat1开发板的环境配置
- ## [C传感器输入数据模拟命令行接收](https://blog.csdn.net/weixin_45754712/article/details/106795406)
- > C传感器输入数据模拟命令行接收
- ## [初次接触DHT11温度传感器](https://blog.csdn.net/Gin_ger/article/details/106817816)
- > 初次接触DHT11温度传感器
- ## [RELYUM—针对关键系统的物联网和网络安全解决方案 （二）](https://blog.csdn.net/weixin_47677928/article/details/106841432)
- > RELYUM—针对关键系统的物联网和网络安全解决方案 （二）
- ## [中国移动发布物联网操作系统 OneOS](https://blog.csdn.net/luckydarcy/article/details/106819227)
- > 中国移动发布物联网操作系统 OneOS
- ## [CAN总线隔离中继器产品特性介绍和选型指导](https://blog.csdn.net/yezi93123/article/details/106829456)
- > CAN总线隔离中继器产品特性介绍和选型指导
- ## [使用WINSOCK的网络通信模拟程序 （客户机端）](https://blog.csdn.net/capodexi/article/details/106802557)
- > 使用WINSOCK的网络通信模拟程序 （客户机端）
- ## [华为跟比亚迪对上了眼](https://blog.csdn.net/liukuang110/article/details/106802242)
- > 华为跟比亚迪对上了眼
- ## [独立开发仿造一个智能窗帘机器人](https://blog.csdn.net/switch_love_case/article/details/106820889)
- > 独立开发仿造一个智能窗帘机器人
- ## [微信小程序使用云函数实现客户下单后商家小程序接收订单状态通知](https://blog.csdn.net/zjgo007/article/details/106823239)
- > 微信小程序使用云函数实现客户下单后商家小程序接收订单状态通知
- ## [C和C混合编程——C语言函数封装成dll](https://blog.csdn.net/weixin_43428892/article/details/106798737)
- > C和C混合编程——C语言函数封装成dll
- ## [B-Spline曲线的导数](https://blog.csdn.net/hanmingjunv5/article/details/106837403)
- > B-Spline曲线的导数
- ## [OpenCV学习之路--5--OpenCV3.4.10的ARM版本移植到开发板](https://blog.csdn.net/qq_24253205/article/details/106841629)
- > OpenCV学习之路--5--OpenCV3.4.10的ARM版本移植到开发板
- ## [RELYUM—针对关键系统的物联网和网络安全解决方案 （一）](https://blog.csdn.net/weixin_47677928/article/details/106841295)
- > RELYUM—针对关键系统的物联网和网络安全解决方案 （一）
+ ## [Kylin快速入门系列(1) | Kylin的简单介绍及安装部署](https://blog.csdn.net/qq_16146103/article/details/106234972)
+ > 
+ ## [为什么 Vue 更符合这个时代的大势所趋](https://blog.csdn.net/powertoolsteam/article/details/106800293)
+ > 
+ ## [阿里P7终于讲完了JDK+Spring+mybatis+Dubbo+SpringMvc+Netty源码](https://blog.csdn.net/qq_1813353297/article/details/106819079)
+ > 
+ ## [《JavaScript设计模式》初次笔记——wsdchong](https://blog.csdn.net/weixin_42875245/article/details/106806785)
+ > 
+ ## [架构师是如何练成的？](https://blog.csdn.net/Java0258/article/details/106832449)
+ > 架构师是如何练成的？
+ ## [SpringCloud之注册中心-Eureka详解](https://blog.csdn.net/weixin_45393094/article/details/106729735)
+ > 
+ ## [MySQL中一条查询语句的前生今世](https://blog.csdn.net/WX_1218639030/article/details/106807317)
+ > 
+ ## [图书管理系统的设计与实现](https://blog.csdn.net/weixin_44975490/article/details/106838931)
+ > 图书管理系统的设计与实现
+ ## [Portworx的价值分析](https://blog.csdn.net/zhangjizhangji/article/details/106842128)
+ > Portworx的价值分析
+ ## [Azkaban快速入门系列(3) | 一文带你快速了解Azkaban的实战应用(建议收藏！！！)](https://blog.csdn.net/qq_16146103/article/details/106207283)
+ > 
+ ## [Java调用微信支付](https://blog.csdn.net/haiyanghan/article/details/106792920)
+ > 
+ ## [基于stm32的智能温度预警系统（硬件部分）](https://blog.csdn.net/Gin_ger/article/details/106843995)
+ > 基于stm32的智能温度预警系统（硬件部分）
+ ## [结合双十一抢购项目实战！一文搞懂Dubbox、SpringBoot、Docket微服务架构](https://blog.csdn.net/python6_quanzhan/article/details/106843281)
+ > 
+ ## [Dubbo进阶（十五）：Dubbo总结](https://blog.csdn.net/wangchengming1/article/details/106817984)
+ > Dubbo进阶（十五）：Dubbo总结
+ ## [Java程序员入门Vue基础（一）](https://blog.csdn.net/javaee_gao/article/details/106818021)
+ > 
 # PM 
- ## [如何设计绩效系统？（OA 系统篇）](http://www.woshipm.com/pd/4033994.html)
- > 本文对绩效系统设计展开分析，笔者拆解了详细的流程步骤，并对设计过程中的一些问题进行了思考总结，希望能够给你带来些启发。去年年底，公司开始做绩效管理线上化。...
- ## [数据分析入门：商品分析是什么？该怎么做？](http://www.woshipm.com/data-analysis/4033521.html)
- > 商品分析是数据分析的最早形态，它指的是对商品的进货、销售、库存情况进行的分析。本文针对商品分析的几个问题：是什么？怎么做？分别进行了详细介绍，帮你解答疑问。...
- ## [七个步骤，完成产品改版](http://www.woshipm.com/operate/4028238.html)
- > 在产品的迭代升级过程中，改版设计是常常会遇到的问题。文章对结合自己的工作经验，梳理分析了产品改版设计的步骤，并对过程中需要注意的问题进行了分析总结，供大家参...
- ## [评分算法二：B端核心策略——服务分](http://www.woshipm.com/pd/4033386.html)
- > 上篇跟大家讲了用户评分，本文接上篇来谈谈什么是服务分？服务分是怎么应用的？又是如何构成的呢？它的计算方式是怎样的？有哪些注意事项？为什么需要服务分C端的用...
- ## [UX TRENDS | 注重隐私的用户体验设计](http://www.woshipm.com/ucd/4033593.html)
- > 用户隐私安全在产品设计中是很重要的一个环节，本文从用户体验角度切入，从匿名模式、减少永久性和减少公开性三个方面对此展开了分析，与大家分享。我们先看⼀组来⾃...
- ## [前仆后继的小众社交没有春天？](http://www.woshipm.com/it/4033372.html)
- > 社交的大蛋糕已然被分割的当下，细分领域的垂直战场成为了小众社交发力的舞台，那么，对于前仆后继的小众社交，到底有没有春天呢？社交领域还会产生腾讯之外的可能...
- ## [WMS：聊聊盘点那些事儿](http://www.woshipm.com/pd/4032388.html)
- > 盘点本质是一个事后纠错机制，与其事后纠错，不如事中做好。那本文就来跟大家一起聊聊盘点的这些事儿，相信能够对你有所帮助~笔者曾在某原材料仓库现场待了三年，印象...
- ## [线上活动｜四年朝夕，感恩有你！拼手气送VIP时长，最多60天！](http://www.woshipm.com/online/4038038.html)
- > 这些年来，我们一直在思考，怎样把教学服务做得更精准、更专业，如何让同学们把时间花在最有价值的地方。于是在四年前，我们整合了人人都是产品经理和起点学院的优质...
- ## [产品经理周报第 116 期｜微信上线“拍一拍”功能；QQ上线“购物直播”功能](http://www.woshipm.com/it/4037514.html)
- > 早上好呀，又是一周周五啦，周末又可以休息咯最近北京等地的疫情又开始变得严重起来，在北京的小伙伴们一定要多注意~要注意不聚集、不扎堆；戴口罩、勤洗手。而且，...
+ ## [微信“拍一拍”：一个从 1971 年讲起的故事](http://www.woshipm.com/it/4037906.html)
+ > 虽然拍一拍最近才上线，但是这个功能的最初的源头，其实要从1971年一段英国的喜剧表演说起。那么，今天你拍一拍了吗？6 月 17 日下午，微信新功能“拍一拍”上线。之后...
+ ## [《一剪梅》意外走红海外，短视频成音乐市场的重要变量](http://www.woshipm.com/it/4034721.html)
+ > 《一剪梅》的海外走红，说明了短视频正在重塑流行音乐传播。以快手、抖音为代表的短视频平台，正依靠着其强大的影响力，搅动着音乐市场。恭喜C-pop之光《一剪梅》在欧...
+ ## [语音交互：先从麦克风阵列聊起](http://www.woshipm.com/ucd/4030520.html)
+ > 随着智能音箱、智能家居等智能硬件的普及，语音交互热度也不断飙升。想要了解语音交互，第一步是了解麦克风阵列，本文从概念、分类、作用几个方面对麦克风阵列展开了说...
+ ## [1个高明的产品经理＞100个糟糕的功能经理](http://www.woshipm.com/pmd/4035037.html)
+ > 在解决问题的时候，简洁的思维习惯或许更能帮助我们。在一开始的时候，抓住问题的本质，确认我们为什么要去做这件事情，才能更好的给出一个答案。在招聘的时候我们总...
+ ## [“一剪梅”国外爆红，背后的meme文化是关键](http://www.woshipm.com/it/4034143.html)
+ > 最近，歌手费玉清的“一剪梅”在欧美爆红，吸引了众多人的关注，为何这首歌会突然爆红呢？本文作者梳理了它的走红路径并对其背后的原因展开了分析，与大家分享。最近费...
+ ## [双非毕业进大厂，15道面试准备题目分享](http://www.woshipm.com/online/4038532.html)
+ > 在正式阐述面试准备和学习经历之前，先简单自我介绍一下吧，大三、广东某双非一本。5月份在经历三轮面试后，拿到了欢聚YY产品经理实习生的offer。现在，作为一个实习生...
+ ## [产品总监晋升之道，游戏思维的团队管理艺术](http://www.woshipm.com/zhichang/4034750.html)
+ > 作为一个产品总监，在面临年轻的团队，如果你的管理方式有问题，对团队乃至整个公司都是一件特别大的灾难。所以，今天我们来聊聊产品总监的团队管理问题与游戏化的团队...
+ ## [在众多电商导购产品中，怎样突围？](http://www.woshipm.com/operate/4033638.html)
+ > 分销优惠券电商极大提高了电商流通效率，用户侧得到了低价，商户侧得到了更多单量，平台同样获得更多分成。因为寄生于平台，天花板自然受限于平台，本质上个工具。所以...
+ ## [飞猪产品分析报告：出行旅游攻略](http://www.woshipm.com/evaluating/4015767.html)
+ > 本文在对飞猪做了相关竞品分析后，针对如何优化飞猪产品UGC内容生态系统这一目的给出优化建议，一起看看~不爱跟团出行的你会做攻略吗？如果会的话，你会在去哪里看攻...
+ ## [如果早看了这篇大促客户体验保障方案，618你原本能多赚800w！](http://www.woshipm.com/operate/4036739.html)
+ > 618大促已经落下帷幕，各大商家在此次大促中销量虽然达标了，用户体验却差了。大促期间怎样既保证销量又保障客户体验呢？本文从3个方面展开分析，希望对你有帮助。在...
 
     
