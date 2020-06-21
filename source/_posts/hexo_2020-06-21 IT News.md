@@ -1,19 +1,19 @@
 ---
 title: 2020-06-21 IT News
 copyright: true
-date: 2020-06-21 09:01:35
+date: 2020-06-21 10:02:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为这次真的要拼了](http://mp.weixin.qq.com/s?src=11&timestamp=1592699406&ver=2413&signature=lf1WTKjeSZ5WcmAdi7NB3Kgm3JnBd8M9CaRPtvNHy4ndBtfaVVbGUTGrYEATqRgufyYNf7f*wjpe6sveCXQDe9tPZvH2z4CCBgwBo6hkB0qgTROp1eYsl1yNWK-irzaK&new=1)
- > 距离美国商务部升级对华为的禁令，刚刚过去一个月。他们……又反悔了。最近，美国商务部表示，将会修改禁止与华为进行生意往来的禁令。这个消息虽然已经流传一段时间，不过等到最近才真正被相关单位确认。就在几...
- ## [苹果 AR/VR 眼镜幕后故事](http://mp.weixin.qq.com/s?src=11&timestamp=1592699406&ver=2413&signature=4wDyq34H4kHiFrNA7Iekj0KjC15PHo3tLErbWtpaNfpAV3Wq42OJUXLrR7XhfSYKXwkXuaNAALpuD1HOJQw6v8968zd6besjGB85g5-3JSIP3PFUuO3w6o3WybrHPWSo&new=1)
- > 彭博社 Mark Gurman 讲述了苹果 AR/VR 眼镜幕后的开发故事。2018 年年底，苹果公司在计划打造一款同时具备虚拟现实（VR）和增强现实（AR）的强大头戴显示器。当时，苹果设计主管的  Jony Ive 对产品的一些基本方...
- ## [某地运营商员工端午节福利清单曝光!](http://mp.weixin.qq.com/s?src=11&timestamp=1592699406&ver=2413&signature=UUvQ8vSmj8tgbsJOZuDf3dtVcJU*JnbVFngvYInZvBta-5PjyyNZDwDLwpaYW0FtP-D5xqepK9c*jutY4lp40qpuMdd8ht7SsfTZnQAUJ0N*qQICwM8my29afjsst*71&new=1)
+ ## [某地运营商员工端午节福利清单曝光!](http://mp.weixin.qq.com/s?src=11&timestamp=1592704806&ver=2413&signature=UUvQ8vSmj8tgbsJOZuDf3dtVcJU*JnbVFngvYInZvBu6W*HeyIKtVHQBb1f-F0fwkDKNucndRen7y9*mpiZ8aJZuUC1cQ8WwmqiSDSATR5kxEdLWXqN7BkmHnkSqsLcF&new=1)
  > 端午节终于在万众瞩目中到来了！作为上半年里的重大节日之一，各公司都在端午礼上下足了功夫，既要体现人文关怀，还要体现企业价值。既要新颖有创意，还要实用有新意。想不想知道头部公司的员工端午礼都是什么样...
- ## [中国移动将启动N4解耦互通测试 力争年底实现垂直行业试商用](http://mp.weixin.qq.com/s?src=11&timestamp=1592699406&ver=2413&signature=aQjU5ZyvHh5RVWj-4lezSCa6AFecoU*wfrv1KYTjy7YS2DfeJjTfFMLKUSRRLHX0xxV9NKNtZVPN-ZexCll0PtyI-aRRwVdWOHXVXXaBQ2l2T*nC2uXARt3dmWkn3Naz&new=1)
+ ## [苹果 AR/VR 眼镜幕后故事](http://mp.weixin.qq.com/s?src=11&timestamp=1592704806&ver=2413&signature=4wDyq34H4kHiFrNA7Iekj0KjC15PHo3tLErbWtpaNfpCzAZAkKAAWoBz2e4YIl9Pt8PdStmyVevG3PRC-aHJK*LpSaLOJjFr-blk8p9v1v1Rvj4N35yiKu74rn0Y6kvJ&new=1)
+ > 彭博社 Mark Gurman 讲述了苹果 AR/VR 眼镜幕后的开发故事。2018 年年底，苹果公司在计划打造一款同时具备虚拟现实（VR）和增强现实（AR）的强大头戴显示器。当时，苹果设计主管的  Jony Ive 对产品的一些基本方...
+ ## [中国移动将启动N4解耦互通测试 力争年底实现垂直行业试商用](http://mp.weixin.qq.com/s?src=11&timestamp=1592704806&ver=2413&signature=aQjU5ZyvHh5RVWj-4lezSCa6AFecoU*wfrv1KYTjy7ZhRIZ53KKulET2MKOzpHaGLlYsUcuZQag5Hl*IXHK*EbWnspqHcObtzzZkHdOVGAV0ucrprApwT45VVpbtY75J&new=1)
  > 为加快响应国家5G新基建政策，践行央企责任，进一步推动信息产业发展，中国移动于6月17日至21日以“共赢、合作、开放、创新”为主题，举办“创新2020云上科技周”系列活动。在昨天下午举行的网络成果发布专场，...
+ ## [华为这次真的要拼了](http://mp.weixin.qq.com/s?src=11&timestamp=1592704806&ver=2413&signature=lf1WTKjeSZ5WcmAdi7NB3Kgm3JnBd8M9CaRPtvNHy4lg0cwVIhKHUs1A7FHAnYXIg9J3O5M64E--B-FhLpAA0drTaz6HLe1ZewcaKvUgHGeaVxrz3eSxIwG*fsT4*zPC&new=1)
+ > 距离美国商务部升级对华为的禁令，刚刚过去一个月。他们……又反悔了。最近，美国商务部表示，将会修改禁止与华为进行生意往来的禁令。这个消息虽然已经流传一段时间，不过等到最近才真正被相关单位确认。就在几...
 # IT 技术 
  ## [日均7亿交易量，为什么我们要用MySQL？](http://database.51cto.com/art/202006/619262.htm)
  > 日均7亿交易量，为什么我们要用MySQL？
@@ -51,60 +51,60 @@ categories: IT NEWS
  > 如何看待年仅 28 岁的程序员实现财务自由，宣布从字节跳动退休？
  ## [微信“拍一拍”功能只为好玩？我却看到微信如芒在背，害怕什么？](https://blog.csdn.net/m0_48374007/article/details/106838725)
  > 微信“拍一拍”功能只为好玩？我却看到微信如芒在背，害怕什么？
- ## [我还是曾今那个少年（一个普通农村男孩的10年）——纪念博客访问量破10万](https://blog.csdn.net/weixin_44895651/article/details/106850369)
+ ## [音视频处理基础知识扫盲：数字视频YUV像素表示法以及视频帧和编解码概念介绍](https://blog.csdn.net/LaoYuanPython/article/details/106433049)
  > 
  ## [程序员为了女朋友进了华为，大学室友进了阿里，2年后对比收入懵了](https://blog.csdn.net/qianduan167/article/details/106814767)
  > 程序员为了女朋友进了华为，大学室友进了阿里，2年后对比收入懵了
+ ## [程序员兼职,年入几十万,我是怎么做到的?](https://blog.csdn.net/harvic880925/article/details/106822448)
+ > 
  ## [程序员被裁员的第10天，我又回去了，赔偿拿了，也给涨薪了](https://blog.csdn.net/qianduan167/article/details/106814662)
  > 程序员被裁员的第10天，我又回去了，赔偿拿了，也给涨薪了
- ## [Spring Boot 把 Maven 干掉了，拥抱 Gradle！](https://blog.csdn.net/youanyyou/article/details/106801812)
- > Spring Boot 把 Maven 干掉了，拥抱 Gradle！
  ## [HR怀疑程序员简历造假，随后的做法引起热议：过分了](https://blog.csdn.net/qianduan167/article/details/106787321)
  > HR怀疑程序员简历造假，随后的做法引起热议：过分了
- ## [音视频处理基础知识扫盲：数字视频YUV像素表示法以及视频帧和编解码概念介绍](https://blog.csdn.net/LaoYuanPython/article/details/106433049)
+ ## [Spring Boot 把 Maven 干掉了，拥抱 Gradle！](https://blog.csdn.net/youanyyou/article/details/106801812)
+ > Spring Boot 把 Maven 干掉了，拥抱 Gradle！
+ ## [我还是曾今那个少年（一个普通农村男孩的10年）——纪念博客访问量破10万](https://blog.csdn.net/weixin_44895651/article/details/106850369)
  > 
  ## [2020年前端面试题集锦（奥利给！！！）](https://blog.csdn.net/qq_39045645/article/details/106861047)
  > 
- ## [阿里巴巴的P8架构师会辞职吗？](https://blog.csdn.net/Java0258/article/details/106796789)
- > 阿里巴巴的P8架构师会辞职吗？
  ## [软件测试的方法](https://blog.csdn.net/qq_43452252/article/details/106086092)
  > 
- ## [程序员兼职,年入几十万,我是怎么做到的?](https://blog.csdn.net/harvic880925/article/details/106822448)
+ ## [Spring Boot 中如何实现 HTTP 认证？](https://blog.csdn.net/u012702547/article/details/106781533)
+ > Spring Boot 中如何实现 HTTP 认证？
+ ## [python不到50行代码完成了多张excel合并](https://blog.csdn.net/youku1327/article/details/105300668)
+ > python不到50行代码完成了多张excel合并
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
  > 
- ## [网络信息安全——访问控制](https://blog.csdn.net/weixin_45034110/article/details/106816525)
- > 网络信息安全——访问控制
- ## [28岁程序员狂赚上亿宣布退休：哪有什么命运不公，都是命啊！](https://blog.csdn.net/qianduan167/article/details/106813102)
- > 28岁程序员狂赚上亿宣布退休：哪有什么命运不公，都是命啊！
 # 人工智能 
- ## [闭包是什么?  闭包有什么用？](https://blog.csdn.net/weixin_48179599/article/details/106854863)
- > 闭包是什么?  闭包有什么用？
- ## [从零开始讲解JavaScript中作用域链的概念及用途](https://blog.csdn.net/l_ppp/article/details/106841716)
+ ## [大学四年，强烈推荐第一个画图工具](https://blog.csdn.net/L15519543837/article/details/106823082)
  > 
- ## [Cchart控件初始化](https://blog.csdn.net/weixin_45754712/article/details/106843732)
- > Cchart控件初始化
- ## [2020前端面试总结（持续更新）](https://blog.csdn.net/zlzbt/article/details/106688918)
+ ## [\[网络安全自学篇\] 八十四.《Windows黑客编程技术详解》之VS环境配置、基础知识及DLL延迟加载详解（1）](https://blog.csdn.net/Eastmount/article/details/106718606)
  > 
- ## [一分钟带你入门SASS！！！](https://blog.csdn.net/Yan_Ting_Yan/article/details/106853112)
- > 一分钟带你入门SASS！！！
- ## [软件工程--沃尔沃物流信息系统tp5实现源码](https://blog.csdn.net/qq_42785280/article/details/106842754)
- > 软件工程--沃尔沃物流信息系统tp5实现源码
- ## [全自动爬虫，你爱了么](https://blog.csdn.net/cwq521o/article/details/106817973)
+ ## [Mapping温度分布验证的基础知识](https://blog.csdn.net/Hongke_PharmDep/article/details/106856276)
+ > Mapping温度分布验证的基础知识
+ ## [一篇文章带你彻底搞懂HashMap的实现，再也不用担心被欺负。](https://blog.csdn.net/weixin_45465895/article/details/106854581)
  > 
- ## [单源最短路径之贝尔曼福特算法（Bellman-ford）及其队列优化算法SPFA算法](https://blog.csdn.net/Chelsea_n/article/details/106817309)
- > 单源最短路径之贝尔曼福特算法（Bellman-ford）及其队列优化算法SPFA算法
- ## [为什么 Vue 更符合这个时代的大势所趋](https://blog.csdn.net/powertoolsteam/article/details/106800293)
+ ## [B站 程序学习的 黑客攻防 \[网络安全\] - 记录](https://blog.csdn.net/bell_love/article/details/106795832)
  > 
- ## [JavaScript中的变量对象，简约却不简单（系列五）](https://blog.csdn.net/jbj6568839z/article/details/106793254)
+ ## [新商用密码产品认证梳理——送检资料篇](https://blog.csdn.net/samsho2/article/details/106833276)
+ > 新商用密码产品认证梳理——送检资料篇
+ ## [史上最强教你如何使用vscode 和 gitee 和 git 三大法器完美搭配,一步步详细图标过程,还不会你砍我](https://blog.csdn.net/qq_44226094/article/details/106863963)
+ > 史上最强教你如何使用vscode 和 gitee 和 git 三大法器完美搭配,一步步详细图标过程,还不会你砍我
+ ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
  > 
- ## [超星学习通，智慧树—刷课脚本！解放你的课余时间！（2020/5月 可自动答题）](https://blog.csdn.net/qq_31254489/article/details/104579438)
+ ## [高并发基础——Lock（锁）](https://blog.csdn.net/weixin_42596778/article/details/106862924)
  > 
- ## [抖音时钟效果源码](https://blog.csdn.net/SmallTeddy/article/details/106783742)
- > 抖音时钟效果源码
- ## [你不知道的几个牛逼网站，欢迎收藏](https://blog.csdn.net/weixin_43968789/article/details/106790143)
- > 你不知道的几个牛逼网站，欢迎收藏
- ## [Web前端框架开发入坑指南](https://blog.csdn.net/English0523/article/details/106825457)
+ ## [Verilog设计实例（8）按键防抖设计之软件防抖](https://blog.csdn.net/Reborn_Lee/article/details/106822112)
  > 
- ## [HTML+CSS制作心跳特效](https://blog.csdn.net/Marquis_Nicole/article/details/106758567)
- > HTML+CSS制作心跳特效
+ ## [git fork项目 协同开发同步方法](https://blog.csdn.net/weixin_47711284/article/details/106853451)
+ > git fork项目 协同开发同步方法
+ ## [正则表达式](https://blog.csdn.net/qq_44065088/article/details/106848610)
+ > 正则表达式
+ ## [网络货运新风口下，传统的无车承运人如何实现弯道超车？](https://blog.csdn.net/Anita_zhang/article/details/106824785)
+ > 
+ ## [SSLException: Received fatal alert异常引发的思考](https://blog.csdn.net/weixin_39296289/article/details/106838803)
+ > SSLException: Received fatal alert异常引发的思考
+ ## [使用Flutter对ESP8266 SmartConfig一键配网](https://blog.csdn.net/qq_36748192/article/details/106860796)
+ > 使用Flutter对ESP8266 SmartConfig一键配网
 
     
