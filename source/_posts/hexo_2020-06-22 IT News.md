@@ -1,7 +1,7 @@
 ---
 title: 2020-06-22 IT News
 copyright: true
-date: 2020-06-22 10:02:16
+date: 2020-06-22 12:02:32
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -138,19 +138,33 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [印度计划禁用中国电信设备!真离得开华为、中兴?](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=cok4ZFPxMPuGcbPF7XQfjD2mIH01UPt116KMywvimbIvHOxHFAXTEgFA7sjbFJE2k*mlY14R8Gb-ydh9PiyMCY9Nf8x5r8WIS9fSMwDDKCb6jUkZO*Rz2D-XdqKlagF0&new=1)
- > 据外媒报道，当地时间周四，来自印度政府的消息人士证实，印度政府正计划完全禁止印度国有电信运营商采购华为、中兴通讯等中国公司生产的电信设备。报道称，印度通信部已经要求印度两家国营电信运营商BSNL（Bhar...
- ## [\[报告\]2019小排量发动机市场趋势与使用满意度白皮书(附100页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=hDgBcAfhflYaa3FDv9wJZezsnW0gQWURKedjoNGVX5znUE7aygRj4sYyvI5D64ikyGV55XuDZUsWoEvE6qkCzMqJE3duYzspIka-iIJ7o4lw*jp*UO3FfxyDmGnStpRn&new=1)
- > 自2000年以来，小型化一直是汽油发动机的主流趋势。小型化的过程伴随着减排量、减缸等阶段性进展，早期体现为四缸机对六缸机的替代，近年来体现为三缸机对四缸机的替代。发动机小型化进程，一方面主要受发动机技...
- ## [改革!中国移动开始大规模全员竞聘!](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=KDSBYiQ9AyJ35DUbSgrKDNA9ajfM9NfvsRRz75FJ8N1-uKZh44*0LLrc80ajMvXxPvSXNJFxag*-ktLZjS5ZNY3aKvb*C2w1QO26ETYMHclg9W1oZIkiwe0oV-13CMGu&new=1)
- > 据网友爆料，某省移动正开展大规模全员竞聘，如下：PS:太好了，实行全员竞聘，给员工一个施展才华的公平舞台，希望全国推广。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营...
- ## [\[科技早报7点整\]李开复谈互联网公司拿走个人数据 华为4亿英镑研发基地将获规划许可……](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=IWQ48ABQMSceqV0aCxzk3gQF1yG2*75DrG*XgkaAMnOigxRe6VEZ1SxmeKPPBXcTRSjdiL2MfJWMehuOD5Dl*52vgIP*gOvyqdFGLXS7JL688OIialrPOb8JNQFFCgxJ&new=1)
- > 早上好，科技圈【一度蜜科技早报】第842期1.全国铁路超1300个普速站实施电子客票近日，随着普速铁路电子客票系统一次性整体切换成功，全国1300多个普速铁路车站开始推广实施电子客票。此次推广实施后，全国铁路...
- ## [专访普赛斯电子|从测试设备商看光通信行业动向](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=Yz7yovFq6YZX-C-4kH5MKY*fQA1nDfsmQRI3KZZ41I0Cvahd5*IVaVDOR*v6obiCkcz8SYVToszYn9fl5o4fFZl6Ombtt3sSwK9fSbB3oVGakBPniOQEQa7a86Y3sAlW&new=1)
+ ## [微信团队回应“部分用户朋友圈无法刷新”；罗永浩：准备做综艺节目；Apache Spark 3.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=XAOMngFdXRxpBMWWYLgvGaCkMYrgM5Tzj7EVeEoTi*S9WU0FUpWG2V38F*BWyuVJctSACunQa6--63AkSvsQRaiaDzhD1BN0UtachG-8ae2isoq*zT5H4mD6SlknhtOD&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
+ ## [智能科技产业“溢出效应”显现](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=M72ftyLbsUFharh*x1o-ZpPyWkJywktqWMAnvdh4Kvr7z7KKi9RwLdEEiuc8e5xkdIzsDeFePIX3ZIcmzN7oA4XGkTkfY5edFeBw4LmmZoOEHl9LjvKm2o9WbEZSTL0b&new=1)
+ > 记者 吴巧君“正是因为污水处理过程中管理数字化和控制智能化水平的提高，疫情防控期间我们可以实现远程监测，持续在线自动实时分析，科学投加药剂，精确控制工艺参数，确保了稳定的污水处理效果，也减少了暴露...
+ ## [Rebuild 2020 大会累积人气突破 1326 万；罗永浩：正式进军脱口秀；微信：朋友圈已修复|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=0MJEfz2dsn6cx53crJ49AtQXy8Dw8KN6lvMI6J2ycQrXdm13WLh5FnApwFMUabeY00BdRLTWh-2h182aAqol8lM1mM0FXk0BFy5XRe2hFVGztKWdYrnkcphL*CMONjXL&new=1)
+ > Rebuild 2020 科技全明星峰会累计人气 1326.6 万由极客公园和 B 站共同举办的 Rebuild 2020 大会于昨晚落幕，大会累计直播人气突破 1326.6 万，昨日知名 UP 主 @老蒋巨靠谱、@冲浪普拉斯、@影视飓风与
+ ## [7000亿!华为突然宣布，轰动了世界!](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=G3aubHmI6pD4lkHQjdAsI3ZAU6HeN7zXzeRFvgdc64beOIbtGdCDgm9jeGfMyz2Jz2*AsK5e9BGLfAJf2-AiP4zqIohnyE8s9T8KgTfSHdmlJAClpkwZ06cBlYIPcrYx&new=1)
+ > 一7000亿元！不平静！正当苹果股价不断暴跌时，华为却用了一份超牛逼的成绩单，让世人为之震撼！刚刚，华为轮值董事长徐直军宣布：华为2018年营收将超过1000亿美元大关。同比增长17%左右！是的，你没有看错，今...
+ ## [联网设备大灾难!Ripple20零日漏洞使数亿台联网设备被暴露](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=QO1SKLJ41S7YpRLpZO3U7OttNWuJy*tbnK89rRwQBxi5YRuc9W0OrRdtKI-71sCiuv1ViI9RMZSzSUWawfC7u-FIx*EiFCbRi*5-zdXzXT7W83hH7icI-YYBT1ctDyfm&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月22日讯，近日据外媒报道，由于一家名为Treck的软件公司开发的流行TCP / IP软件库中存在19个安全漏洞，这些漏洞影响了许多物联网产品基础上的TCP /
+ ## [专访普赛斯电子|从测试设备商看光通信行业动向](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=Yz7yovFq6YZX-C-4kH5MKY*fQA1nDfsmQRI3KZZ41I2MZHQPRIdwiEVsx6SLaxDsAwIbkiCp3rrxEExNxPoBP4HdoRSPRkAOzbGYsRaCwN-kyunRzcb4UpKWTOpuyWxv&new=1)
  > 新闻导读近期，讯石对国内光通信测试设备的代表厂商武汉普赛斯销售总监蒋思进行了电话专访，蒋总从测试设备商的角度向讯石介绍了公司的今年的发展情况及行业变化。   ICC讯 2020年将过半，随着新基建加码5G与...
- ## [\[C114周报\]美政府允许美企与华为制定5G标准；中国移动发布股票期权激励计划；倪飞出任中兴终端总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=oH2oBZneFeSvRVqjfCLvz5kVSa7LlMvLpqP7uPM7pi*jF0NzjZGc-E64RlyhqPkoG3y90HPQUQukPpF6wIKu0UrJu8ahEFcMvWOGKtCvyfGJFBYeIioD9d9-7ZLemUyR&new=1)
+ ## [无支撑金属3D打印“卡脖子”技术曝光，VELO3D累计获10亿元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=xgjvGcUtcNwRccFFIEB54qpYmia1ACEKMSDr-X3Man3KShNF5tc-xRpZoYyE0hC2UTJkJId8yek2MmTYxY2n4NMzDZhv56oXbcb-DKu3c2yPHcS7PbBLvCXdrVnYH3Of&new=1)
+ > 导读：2020年6月，最近南极熊报道了无支撑金属3D打印厂商VELO3D累计获1.5亿美元（约合10亿人民币）融资，设备卖给好几家航空航天公司（如SpaceX、Honeywell），以及石油天然气客户后，有不少读者在微信上问南极...
+ ## [白云区多举措推进大数据战略行动](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=DD*4-1SrkHSTdyJ-rcBc1t7J6NLin4ngud0KN58hqaL0gztPej8iM2YTd8z64BCaxKwbHV7XHOv*ohDyKGMp1Z-v99uD7dz45TpdKE5giBg=&new=1)
+ > 本报讯 6月16日，记者从白云区大数据局获悉，该区通过夯实数字基础设施保障，加快大数据与实体经济、社会治理、民生改善等领域深度融合，实施大数据项目建设等，多举措推进大数据战略行动，助力全区社会治理...
+ ## [印度计划禁用中国电信设备!真离得开华为、中兴?](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=cok4ZFPxMPuGcbPF7XQfjD2mIH01UPt116KMywvimbL0yklMFY24cp9s*WZqXi9iFsuEQnxmA8D7cPY*P5FMruGuVX93M1TTM*26OH7kPK54QWHe-MD78aDHNE4K2VLE&new=1)
+ > 据外媒报道，当地时间周四，来自印度政府的消息人士证实，印度政府正计划完全禁止印度国有电信运营商采购华为、中兴通讯等中国公司生产的电信设备。报道称，印度通信部已经要求印度两家国营电信运营商BSNL（Bhar...
+ ## [\[报告\]2019小排量发动机市场趋势与使用满意度白皮书(附100页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=hDgBcAfhflYaa3FDv9wJZezsnW0gQWURKedjoNGVX5wX9wu7akxdS2iz9YzqtkVmdaTd-Kbv*5hTQ-e0hGBxoIwknzMpDHSj-r1AN3JnqKH*u3J96XjOhqpdf7llefGc&new=1)
+ > 自2000年以来，小型化一直是汽油发动机的主流趋势。小型化的过程伴随着减排量、减缸等阶段性进展，早期体现为四缸机对六缸机的替代，近年来体现为三缸机对四缸机的替代。发动机小型化进程，一方面主要受发动机技...
+ ## [改革!中国移动开始大规模全员竞聘!](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=KDSBYiQ9AyJ35DUbSgrKDNA9ajfM9NfvsRRz75FJ8N1KNLvJdTcfTjz20JP1R6F4Scmj8UeEtcoDVwo2KH7iEUHhqTsoCEBm3ES3D3NjXOHUqkvdnItgM8mdy0vcqjnx&new=1)
+ > 据网友爆料，某省移动正开展大规模全员竞聘，如下：PS:太好了，实行全员竞聘，给员工一个施展才华的公平舞台，希望全国推广。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营...
+ ## [\[科技早报7点整\]李开复谈互联网公司拿走个人数据 华为4亿英镑研发基地将获规划许可……](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=IWQ48ABQMSceqV0aCxzk3gQF1yG2*75DrG*XgkaAMnOKKWeBPElX4EzBzLBpNvsSLvv*H4jXAadRTGqFAIWVIWf4FHKdAfpJK7ZQac3ItNhbFjHEPN*8Z9F8oCpX2UZO&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第842期1.全国铁路超1300个普速站实施电子客票近日，随着普速铁路电子客票系统一次性整体切换成功，全国1300多个普速铁路车站开始推广实施电子客票。此次推广实施后，全国铁路...
+ ## [\[C114周报\]美政府允许美企与华为制定5G标准；中国移动发布股票期权激励计划；倪飞出任中兴终端总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=oH2oBZneFeSvRVqjfCLvz5kVSa7LlMvLpqP7uPM7pi8bj0Nvd4oPtiiDHhgVXA6HAWtw8LF-NE8Al8CGuRCX-trPJxlNy-H6YWO3dgRfXvhnp9cnzKZT30RJyfduP6DQ&new=1)
  > 周报WEEKLY本周热点有美政府允许美企与华为制定5G标准；中国移动发布股票期权激励计划；倪飞出任中兴终端总裁• 第097期 •美政府允许美企与华为制定5G标准6月16日当地时间15日，美国政府宣布已修改禁令，允许美...
- ## [发牌一年后，5G 时代还远没有到来](http://mp.weixin.qq.com/s?src=11&timestamp=1592789405&ver=2415&signature=yY4yC*RHwltD*P6*tJXfdICzwvDlOMlqfQ1tOubHrG0QakIPdxwUYnxupDqDAvzePi*CKkI-r*J7KZrWW*P8XYcWuxqvb7cYg0E4pXttj3o5ngdwdJhQcstziKS40-S2&new=1)
+ ## [发牌一年后，5G 时代还远没有到来](http://mp.weixin.qq.com/s?src=11&timestamp=1592796818&ver=2415&signature=yY4yC*RHwltD*P6*tJXfdICzwvDlOMlqfQ1tOubHrG2Tk5vboYrcJiJDt7CwMmg-qyC1W0Mz2ptkdkhy6qycAnSl9J3n5AxOPK4E64xD3Mrs38diO3mkORhTw0U9DRkD&new=1)
  > 除了手机，5G 还能带给我们什么？一年前的 6 月 6 日，工信部向三大运营商以及中国广电发放了 5G 商用牌照，中国正式进入 5G 商用元年。一年后的今天，你用上 5G 手机了吗？5G 有什么不一样的体验？它的用武之地...
 # IT 技术 
  ## [五大主流软件架构模式](http://developer.51cto.com/art/202006/619326.htm)
@@ -169,30 +183,28 @@ categories: IT NEWS
  > BI工具足以打造数据驱动型文化吗？
  ## [无人机也可以被拦截？黑客当真无所不在](http://netsecurity.51cto.com/art/202006/619269.htm)
  > 无人机也可以被拦截？黑客当真无所不在
- ## [外勤服务的未来愿景调研和TC57的中国发布](http://biz.51cto.com/art/202006/617321.htm)
- > 斑马技术全新TC57耐用型触控数据终端能够更大程度地提高生产力、增强员工支持并提供更佳的客户服务体验
- ## [COVID-19新冠疫情加快了企业在数字化转型中使用自动化技术](http://www.cioage.com/art/202006/619385.htm)
- > 由于新冠疫情提升了人们的数字化需求，因此技术主管们被迫推进其RPA和超级自动化的路线图。
- ## [5G用户今年将突破1.9亿，到2025年底将达到28亿](http://network.51cto.com/art/202006/619384.htm)
- > 根据爱立信的一份报告，到5月底，全球5G用户数量到2020年底将达到1.9亿，到2025年底将达到28亿。
- ## [云计算转型需要持续智能吗？](http://cloud.51cto.com/art/202006/619383.htm)
- > 从调查的结果来看，云计算战略和实时持续集成的实现将交织在一起。如果最近的调查是准确的，则通过在流程中
- ## [IDC：2020年物联网支出将增长8.2%至7420亿美元](http://iot.51cto.com/art/202006/619382.htm)
- > 据IDC数据，2020年，物联网(IoT)支出将增长8.2%，市场规模达到7420亿美元。
- ## [JS执行上下文的两个阶段做了些啥？](http://developer.51cto.com/art/202006/619377.htm)
- > 执行上下文JS 代码运行的环境构成了执行上下文，执行上下文决定哪段代码可以访问变量、函数、对象等。
- ## [如何识别危险的AI算法及创建遵循我们道德准则的大数据模型](http://ai.51cto.com/art/202006/619376.htm)
- > 在讨论人工智能的威胁时，首先想到的是天网，黑客帝国和机器人启示录的图像。排名第二的是技术失业，这是在
- ## [编写的程序检查漏洞了吗？分享6个可用于检查Node-js中漏洞的工具](http://developer.51cto.com/art/202006/619375.htm)
- > 所有产品中都可能存在漏洞。软件做得越大，潜在的漏洞就越大。如果存在漏洞，漏洞将为某些不怀好意的开发者
- ## [你可能不知道的15个有用的Github功能](http://developer.51cto.com/art/202006/619373.htm)
- > 我们平时的工作中，github是必不可少的代码托管平台，但是大多数同学也只是把它做为了托管代码的地方，并没
- ## [边缘计算投资将何去何从？](http://cloud.51cto.com/art/202006/619369.htm)
- > 当我们进入2020年时，边缘计算似乎正处于炒作的高峰。这种炒作有什么现实意义吗?STL Partner公司的行业专家
+ ## [新冠疫情加速公用事业部门转向人工智能](http://ai.51cto.com/art/202006/619407.htm)
+ > 随着社会面对这新冠病毒一大流行，人工智能和机器学习算法如何重新定义公用事业检查?
+ ## [你的密码靠谱吗？12种方法保护账户安全](http://netsecurity.51cto.com/art/202006/619405.htm)
+ > 弱密码存在的巨大隐患，和我们每一个人息息相关，今天就让我们来聊一聊如何 “远离弱口令，保护信息安全。
+ ## [手机看车站大屏是怎样的感觉？12306新版体验](http://mobile.51cto.com/app-show-619406.htm)
+ > 12306是中国铁路官方APP，可以完成车次查询、订票、退票等操作。在近期一次更新中，一项“车站大屏”功能映
+ ## [物联网智能表计 让“您”告别抄表难、缴费难](http://iot.51cto.com/art/202006/619403.htm)
+ > 目前，国内市场的传统抄表方式还是以人工抄表和预付费卡表为主，众所周知传统抄表方式存在抄表难、缴费难、
+ ## [调查发现商业智能和数据分析的应用在疫情期间发挥了重要作用](http://bigdata.51cto.com/art/202006/619401.htm)
+ > 根据大数据开发商Sisense公司进行的一次调查，受访者表示，与冠状病毒疫情发生之前相比。现在对数据分析应
+ ## [从行业中来，到行业中去|华为中国政企业务“懂行”形象正式发布](http://network.51cto.com/art/202006/619402.htm)
+ > 此次亮相的华为“懂行”形象主视觉，由两个红色箭头首尾相连组成，代表着融合与转型。
+ ## [数据中心如何使用液冷技术降温](http://server.51cto.com/Datacenter-619400.htm)
+ > 随着芯片功能、应用程序、人工智能、机器学习的技术进步，以及运营商对数据中心工程师和设施管理人员的要求
+ ## [微信“拍一拍”，竟然可以使用Python实现](http://developer.51cto.com/art/202006/619399.htm)
+ > 最近微信“拍一拍”火遍了各大微信群，并迅速占据了热搜话题榜。于是我突发奇想，决定用pyhton自动实现微信
+ ## [在云计算架构中添加边缘计算的利弊](http://cloud.51cto.com/art/202006/619397.htm)
+ > 边缘计算并非对每个物联网设备或工作负载都具有意义。人们需要了解一些边缘计算示例，以了解应该在何时何地
+ ## [中国移动联合产业合作伙伴发布《室内定位白皮书》](http://network.51cto.com/art/202006/619299.htm)
+ > 6月19日上午，中国移动联合中兴通讯、京东物流、华为、清研讯科、锐捷网络等产业合作伙伴在“创新2020云上
  ## [教会徒弟，就会饿死师傅？](https://blog.csdn.net/ityouknow/article/details/106846465)
  > 教会徒弟，就会饿死师傅？
- ## [顶级程序员的一天，枯燥无味](https://blog.csdn.net/qq_35190492/article/details/106861578)
- > 顶级程序员的一天，枯燥无味
  ## [如何看待年仅 28 岁的程序员实现财务自由，宣布从字节跳动退休？](https://blog.csdn.net/loongggdroid/article/details/106821264)
  > 如何看待年仅 28 岁的程序员实现财务自由，宣布从字节跳动退休？
  ## [微信“拍一拍”功能只为好玩？我却看到微信如芒在背，害怕什么？](https://blog.csdn.net/m0_48374007/article/details/106838725)
@@ -201,6 +213,8 @@ categories: IT NEWS
  > 程序员被裁员的第10天，我又回去了，赔偿拿了，也给涨薪了
  ## [Spring Boot 把 Maven 干掉了，拥抱 Gradle！](https://blog.csdn.net/youanyyou/article/details/106801812)
  > Spring Boot 把 Maven 干掉了，拥抱 Gradle！
+ ## [没想到啊，Java操作Excel竟然这么简单！](https://blog.csdn.net/lzp492782442/article/details/106860383)
+ > 
  ## [计算机网络——排查网络故障](https://blog.csdn.net/qq2539879928/article/details/106867141)
  > 
  ## [爬取网易云新歌榜并下载其中的歌曲](https://blog.csdn.net/weixin_47128538/article/details/106853638)
@@ -220,42 +234,80 @@ categories: IT NEWS
  ## [制作一个炫酷的打字特效（网页版）](https://blog.csdn.net/sweettaowa/article/details/106853902)
  > 制作一个炫酷的打字特效（网页版）
 # 人工智能 
- ## [超星学习通，智慧树—刷课脚本！解放你的课余时间！（2020/5月 可自动答题）](https://blog.csdn.net/qq_31254489/article/details/104579438)
+ ## [B站 的 黑客攻防 \[网络安全\] - 记录](https://blog.csdn.net/bell_love/article/details/106795832)
  > 
- ## [IBM Cloud CDN - 流媒体加速(拉流场景)实战](https://blog.csdn.net/weixin_42599323/article/details/106856893)
- > IBM Cloud CDN - 流媒体加速(拉流场景)实战
- ## [windows 静态编译opencv3，生成可执行文件.exe，无需依赖环境运行【visual studio 2019 + cmake + opencv3】](https://blog.csdn.net/scarletteshu/article/details/106848576)
- > windows 静态编译opencv3，生成可执行文件.exe，无需依赖环境运行【visual studio 2019 + cmake + opencv3】
- ## [什么是a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站？00后的世界我不懂！](https://blog.csdn.net/pengjiangchun/article/details/105337885)
- > 什么是a站、b站、c站、d站、e站、f站、g站、h站、i站、j站、k站、l站、m站、n站？00后的世界我不懂！
- ## [python之opencv按帧提取视频中的图片](https://blog.csdn.net/ljx1400052550/article/details/106868573)
- > python之opencv按帧提取视频中的图片
- ## [EasyRecovery易恢复文件数据恢复软件详解介绍安装](https://blog.csdn.net/CaiHuaZeiPoJie/article/details/106872013)
- > EasyRecovery易恢复文件数据恢复软件详解介绍安装
- ## [不懂就问--Java基本数据类型与数组（定义了int型二维数组a\[6\]\[7\]后,数组元素a\[3\]\[4\]前的数组元素个数）案例分析](https://blog.csdn.net/GTWZeus/article/details/106854223)
- > 不懂就问--Java基本数据类型与数组（定义了int型二维数组a\[6\]\[7\]后,数组元素a\[3\]\[4\]前的数组元素个数）案例分析
- ## [Android自定义Camera相机](https://blog.csdn.net/ZhijunHong/article/details/106873851)
- > Android自定义Camera相机
- ## [实现接口完成字符串拆分数组](https://blog.csdn.net/jj_xxw/article/details/106879345)
- > 实现接口完成字符串拆分数组
- ## [多径信道仿真（matlab，详细介绍仿真方案的设计、结果及结论、完整代码及注释）](https://blog.csdn.net/qq_44830040/article/details/106864529)
- > 多径信道仿真（matlab，详细介绍仿真方案的设计、结果及结论、完整代码及注释）
- ## [离线式数字信号处理（二）——使用Matlab对STM32F4 ADC采集到的数据进行分析](https://blog.csdn.net/qq_36470569/article/details/106864517)
- > 离线式数字信号处理（二）——使用Matlab对STM32F4 ADC采集到的数据进行分析
- ## [.net framework autoMapper使用](https://blog.csdn.net/weixin_40719943/article/details/106868388)
- > .net framework autoMapper使用
- ## [幅度、频率和相位可调的双通道DDS 信号发生器](https://blog.csdn.net/weixin_44586889/article/details/106876890)
- > 幅度、频率和相位可调的双通道DDS 信号发生器
- ## [HTML全屏背景视频](https://blog.csdn.net/wxzxmq/article/details/106859973)
- > HTML全屏背景视频
- ## [语音识别工程师所需要掌握的技术](https://blog.csdn.net/wyqwilliam/article/details/106875140)
- > 语音识别工程师所需要掌握的技术
+ ## [PowerBuilder 9.0正确安装步骤](https://blog.csdn.net/YaraRen/article/details/106881914)
+ > PowerBuilder 9.0正确安装步骤
+ ## [设备EAP管理 Equipment Automation Program](https://blog.csdn.net/weixin_42113317/article/details/106875159)
+ > 设备EAP管理 Equipment Automation Program
+ ## [BigData/Cloud Computing：购买并登录Windows弹性云服务器之详细攻略（图文教程）—更优惠、更贴心！](https://blog.csdn.net/qq_41185868/article/details/106869083)
+ > BigData/Cloud Computing：购买并登录Windows弹性云服务器之详细攻略（图文教程）—更优惠、更贴心！
+ ## [大学四年，强烈推荐第一个画图工具](https://blog.csdn.net/L15519543837/article/details/106823082)
+ > 
+ ## [信息系统安全知识点总结](https://blog.csdn.net/weixin_40788897/article/details/106889462)
+ > 信息系统安全知识点总结
+ ## [键盘侠Linux干货| 使用Nginx搭建一个私人网盘](https://blog.csdn.net/ylighgh/article/details/106876118)
+ > 
+ ## [String类为什么被设计为不可变的？](https://blog.csdn.net/zzti_erlie/article/details/106872673)
+ > 
+ ## [一篇文章带你彻底搞懂HashMap的实现，再也不用担心被欺负。](https://blog.csdn.net/weixin_45465895/article/details/106854581)
+ > 
+ ## [总结了 150 余个神奇网站，你不来瞅瞅吗？](https://blog.csdn.net/qq_43901693/article/details/104750730)
+ > 
+ ## [CobaltStrike中DNS隐蔽隧道的利用详细版](https://blog.csdn.net/Marsal/article/details/106885517)
+ > 
+ ## [Linux：带你理解乐观锁和悲观锁](https://blog.csdn.net/AngelDg/article/details/106879839)
+ > 
+ ## [Bitorrent protocol](https://blog.csdn.net/ChengBen2/article/details/106872646)
+ > Bitorrent protocol
+ ## [Java对象头与偏向锁、轻量级锁](https://blog.csdn.net/weixin_42400040/article/details/106868524)
+ > Java对象头与偏向锁、轻量级锁
+ ## [计算机网络——3A安全认证](https://blog.csdn.net/qq2539879928/article/details/106869491)
+ > 
 # PM 
+ ## [面对疫情影响，电商行业的10种方案设计](http://www.woshipm.com/pd/4028029.html)
+ > 疫情影响之下，不同行业都有相应的对策方案，电子商务也是一样。当紧急情况影响零售业务时，商店必须通过所有渠道，将因紧急情况而产生的服务变化通知给客户。本文对具...
+ ## [铁打的商业，流水的流量](http://www.woshipm.com/it/4037644.html)
+ > 我不知道“流量红利”“流量枯竭”“流量入口”“流量焦虑”之类的车轱辘话还能红多久，但有一点可以确定，尊重商业本质的那一批公司从来都处在这种周期之外。2020年了，没想...
+ ## [基于某生鲜APP业务的数据仓库搭建过程（一）](http://www.woshipm.com/pd/4033649.html)
+ > 生鲜app搭建数据仓库是非常必要的，它需要提升供应链管理能力和数据的计算的准确性和时效性。那么，要怎么去进行一个数据仓库的搭建呢？本文给大家分享一下搭建的过程~...
+ ## [知乎，成也社区难也社区](http://www.woshipm.com/it/4036969.html)
+ > 社区天生具有封闭性和排他性，在发展初期，这些特性为社区氛围提供了保护伞；但是在后期，当知乎开始商业变现进程，扩大用户圈层时，封闭性和排他性就成了最大的阻碍。...
+ ## [公开课 | 1小时拆解常见面试套路，校招社招都适用！](http://www.woshipm.com/open/4047327.html)
+ > 曾经有面试官向我们抱怨，在他看来，相当一部分面试者，在面试前并没有做好充足的准备。有的时候简历看上去非常匹配，实际上叫过来面试之后却发现与想象不同，就不谈对...
+ ## [完成教育行业的互联网改造还需要多久？](http://www.woshipm.com/it/4035635.html)
+ > 教育培训行业正在被降维打击，环境和行业都在挤兑着教育培训机构的发展。那么，完成教育行业的互联网改造还需要多久？01 环境威胁6月17日北京以及上调防控等级到二级...
+ ## [关于阅读型网页设计，这几点你要注意](http://www.woshipm.com/pd/4039839.html)
+ > 互联网的高速发展使得我们每天花在网页上的时间越来越多，网页设计的重要性不言而喻。本文作者以阅读型网页设计为例，谈谈哪几点是需要特别注意的，希望对你有帮助。...
+ ## [产品经理：需求排序大法](http://www.woshipm.com/pmd/4035323.html)
+ > 作为产品经理，每天都会面对一大堆需求，时间和人力有限，只能给每个需求排序，决定先后顺序。本文从三个方面，用两种方法决定需求的先后顺序，希望对你有帮助。每个...
+ ## [为什么看了很多案例，依然写不好文案？](http://www.woshipm.com/copy/4037266.html)
+ > 对于文案来说，多看多练是非常有必要的。但是，很多人有这样的疑问：为什么看了很多案例，依然写不好文案？本文作者从三个角度对这个问题进行了分析，对文案感兴趣的童...
  ## [对肯德基“早餐拼单”的构想](http://www.woshipm.com/pd/4036369.html)
  > 对于很多上班族来说，肯德基已经成为了早餐选择之一。基于用户想要实惠便捷的早餐的需求，作者从四个角度出发，对肯德基“早餐拼单”提出了一些构想，希望对你有帮助。...
- ## [产品的BUG——信息传递错误](http://www.woshipm.com/pmd/4044812.html)
- > 一个功能的设计并不应该是产品经理单方面的决定，还需要结合用户的实际使用环境来进行调整。用户是一直处在变化阶段的，产品的功能也需要结合用户的变化而进行迭代，否...
- ## [公益直播 | 产品人才梯队建设方法与实践](http://www.woshipm.com/open/4046952.html)
- > 很多产品经理是各路出家转岗来的，亦或是计算机科学与技术类、软件工程、工商管理、市场营销和电子商务类等各路专业直接进入企业做产品经理，努力点的，学习了大量的做...
+ ## [智能货柜专题三：如何实现不同机器“千机千面”？](http://www.chanpin100.com/article/111879)
+ > 本篇文章则重点介绍智能货柜的商品相关的内容，重点涉及到如何实现不同机器的千机千面从而使商品更加畅销，提升销售额。
+ ## [智能货柜专题二：怎么提升机器故障处理效率？](http://www.chanpin100.com/article/111878)
+ > 如何提升智能货柜的故障处理效率，这篇文章你将得到答案
+ ## [智能货柜专题一：如何让“智能货柜”的补货效益最大化？](http://www.chanpin100.com/article/111877)
+ > 如何提升智能货柜的补货效率，这篇文章你将得到答案
+ ## [腾讯「智慧零售」VS阿里「新零售」](http://www.chanpin100.com/article/111880)
+ > 本文主要是对比腾讯智慧零售与阿里新零售的布局与差异，同时也将在产品层面对腾讯智慧零售和阿里新零售的解决方案进行对比。
+ ## [做产品，要快，要赶快做执行](http://www.chanpin100.com/article/111982)
+ > 按照8小时的计划，做了一次学习的执行，做知识点内容的输出。
+ ## [业务系统如何对接第三方服务？](http://www.chanpin100.com/article/111975)
+ > 本文为我对过往的对接项目经历，进行提炼的关于业务系统，如何对接第三方服务的方法论，希望能对你有所帮助。
+ ## [餐饮品牌智能+转型升级势在必行|2020中国餐饮品牌智能+生态分析](http://www.chanpin100.com/article/111909)
+ > 简介：通过打通供应链、企业自身的ERP、HR、OA和财务系统、门店收银、仓储管理及会员管理等环节，将餐饮品牌前、中、后台联合起来，实现链路全上线。对于已开展智能+转型的企业来说，需要全面打通，通过汇总的数据进行优化…
+ ## [你凭什么让用户掏钱？全面解析VIP订阅模式](http://www.chanpin100.com/article/111951)
+ > 所有的VIP，都是精心设计。
+ ## [2020年手机行业的“中场战事”](http://www.chanpin100.com/article/111937)
+ > 在中国手机市场这片血海，“血战到底”是唯一选择。如今随着618大幕拉开，失去春节档口的中国手机市场，已经能闻到硝烟的味道。
+ ## [最近的一点思考：创业与上班](http://www.chanpin100.com/article/111950)
+ > 上班还是创业呢？
+ ## [5个对设计师有用的Chrome扩展程序](http://www.chanpin100.com/article/111974)
+ > 这些拓展程序你都知道么？
+ ## [Stratifyd:数据驱动业务价值，让决策更精准|案例篇](http://www.chanpin100.com/article/111962)
+ > 本文将结合几个有趣的案例，为大家介绍增强智能技术在挖掘数据价值、驱动企业科学决策方面发挥的重要作用。
 
     
