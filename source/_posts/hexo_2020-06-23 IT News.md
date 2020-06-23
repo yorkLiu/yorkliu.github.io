@@ -1,7 +1,7 @@
 ---
 title: 2020-06-23 IT News
 copyright: true
-date: 2020-06-23 12:01:21
+date: 2020-06-23 17:01:39
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -94,111 +94,129 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [请关注：南极熊3D打印 微信视频号开通了](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=dIwUS1re-4f1pwiO3ii7IsQ-wEwE4JB3vQ6j39RxQP4S3-cwa-AgDoODk5ZI93n4gWaKKx815Znmp6uQ*g2aNYIxovvIzb28iKZLz5inY0yT16DxjCzSw4IJudASHJqi&new=1)
- > 等了好几个月之后，2020年6月22日，南极熊3D打印 微信视频号终于开通了。正如我们视频号发的第一条的视频“SpaceX已经部署数十台金属3D打印，打印火箭和飞船零件”的精神内核一样，南极熊的梦想也是星辰大海。作...
- ## [“智慧建造”的“追梦人”](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=Dot39ExPPQe75Psc-gFpjMyVrxs6lAtpCCd4QaROxC0wLf98a-*p9pVoUkJQQLkLS-vTNw8np5*0VhtKEDy21ShRSbq235QYQP3PbtnnpNc=&new=1)
- > 近年来，贵阳依托大数据不断释放的新机遇，建设高科技人才高地，正逐渐成为众多逐梦者圆梦之地。　　作为大数据、大健康等新兴产业发展的领跑者，贵州近年来始终把“人才”作为经济社会发展第一资源，通...
- ## [挑战传统，新型对讲机展现独特一面](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=ffKAMac9tnH6zR78n4lPXko9avwnuZdo4z9u7f41l6HbNS4Mdrozr8IaTxe0frHYEPItGWgUjHOadatDAtU*S62uZqZEQwAC4RCQjoR2JMFwpiZ*C5kpQss9ntfJTAj6&new=1)
+ ## [调查显示：超过30%企业遭受过网络攻击，如何防范?](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=P49h39MM2RRMfn68EwBIf5a-Jj*vrt0RWsxJD*Wn67CEue7Oen49Qo4lSZaI-bJaXtt04ryLgZvPnRzlwlErQ*RCeNOsfMT*HmH0kZNBREeiWIhkzJg1QW1VgRyJSUAV&new=1)
+ > 关键讯息，D1时间送达！对于企业来讲，屡禁不止的网络安全攻击始终是阻碍业务发展的重大隐患。调查结果显示，有近8成的企业将网络安全视为企业很重要的工作之一，另外，有超过三成的企业遭受过网络安全攻击。企...
+ ## [菜鸟总裁万霖：未来三年跨境包裹时效提升1倍 菜鸟驿站升级为数字化社区服务站](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=xROfBF-tVuC8lEsgt4DwJKaaCiObets5B6mQCB1G2Vb5633o*-qWIMvDrVVDzI25S8xf*XriJ1cvvfLPn063Pd9Bibp*qNd7LjeHqOq7dRw=&new=1)
+ > 上证报中国证券网讯（记者 温婷）菜鸟总裁万霖在23日的2020全球智慧物流峰会上透露，全球化是菜鸟新三年计划的重点之一。未来三年内，菜鸟将把跨境包裹时效提升1倍，为中小企业提供跨境贸易主通道。万霖同时...
+ ## [青岛科元三维入驻未知大陆，可在线3D打印尼龙和树脂](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=6omU94VkaJA-i3icElMPvsdCjY*KFKuxWwD17S18SbetyNODPyg7GYkKbxWtJRbYCJyR3W*gAbmJr-q-0C0f4P4dY0*ZVkpLMxxJZufCsQrwEpZZa2qLvAU7DK37gCI7&new=1)
+ > 2020年6月23日，青岛科元三维智能科技有限公司在未知大陆平台开设的3D打印服务中心(&gt;&gt;阅读原文)正式上线运营。专业能力+数百台设备协同，青岛科元三维可迅速为工业客户提供快速打样、小批量生产、终端应用等服务...
+ ## [5G RAN测试，最全资料包!](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=lDa0dhMTEXH327R3PzPNeacfZ2vueJqQpbq2ZipjoyPgMGQ6PPNZ-9oA--LP95Ma9wsnTChRTRp5F3KjuXUEtunfcVyAifVF1yWfvxldcCvA1IIOwMIwCIWTRSM88FFG&new=1)
+ > 行业观察page15G还有很长的路要走今年是5G大规模商用的元年，也是5G时代（2020-2030年）的元年，5G的商用发展大幕才刚刚拉开，后面的路还很宽、很长，预计有以下三大阶段。① 今年上半年，5G网络与终端以NSA为主...
+ ## [重磅!北斗三号最后一颗全球组网卫星发射成功，产业链将迎来大发展](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=xROfBF-tVuC8lEsgt4DwJG*DHA9ArSYQ5aTZp1544N8KLsCXrvbU8nkFwXcazba-E39Jj1EA7MNxX309ytRk7NX7VVVkqG7fOOrEhLn2yVhuebhR2TEYeiI0ei74QQnL&new=1)
+ > 权威、深度、实用的财经资讯都在这里巡天探宇廿六载，终将北斗耀星河！经过26年艰苦卓绝的建设，中国人自己的导航系统——北斗即将全面建成！西昌卫星发射中心宣布：北斗三号最后一颗全球组网卫星顺利进入预定轨...
+ ## [继入股无锡好达之后，华为再度入股国产滤波器厂商德清华莹](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=h8DuOepnxxYaA0KVtLDSUZLb2saMkGlNzzdMP6-lXa840m*7qvOBPQS28iuQF4vuw9vjESg4mMFTbGOC2uaeMLttR5dDh3w3xOxOO6NJK3Pk82TWZBDzew4iifQMD4A1&new=1)
+ > 6月23日消息，根据天眼查资料显示，国产滤波器厂商——中电科技德清华莹电子有限公司于6月19日发生工商变更，其投资人新增华为技术有限公司、中国国新资产管理有限公司等，与此同时，公司注册资本也发生变化，但...
+ ## [中兴自造5nm芯片为何不靠谱](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=w8ZmY6djx9vrGQNx6qcd1JBwJh*c4rJrZsV5wpzGzWWDctYPfP0bH9MFwj279D65hURiaC2wmAATlK-Kurlqxzd993LyhK3uZMjK4MqgT3n5Cx*TAxcXdtF9L81vjaqm&new=1)
+ > 图 /IC Photo日前，自媒体给中兴搞了一次大乌龙，6月18日、19日，中兴通讯A股、H股大涨。6月18日中兴H股报收27.75港元，涨幅高达21.98%。而这次暴涨的起因是各个媒体传播 “中兴通讯7nm芯片规模量产，5nm芯片开...
+ ## [中小企业等保合规的痛点、难点和要点](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=KpS6adw06caHxjlvvT4p3Bzhk7NBgZ5WaKp6HZrAVzyfUvk*uLJmLI-QQuBzUwoW3CfbuW8G9zC2Hb5xpN6ilJvHS3VrQzOxGO*RuZgUjMHVMlszbc2n5wl1V82tFECc&new=1)
+ > 安全牛评随着网络威胁不断复杂化和组织化，网络攻防的“军备竞赛”持续升级，新冠疫情带来新的网络威胁，作为网络安全的“弱势群体”，安全意识、管理、人才、资金捉襟见肘的中小企业也正面临越来越严峻的“安全...
+ ## [英诺激光IPO获受理 研发人员平均薪酬34万元](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=5w0SJJ4ZiPrBfJuK3Qeblmh-P5gMqEvH6R78JYMa4IIqNRkXnWuthLpHAcMTpxWs9BtNThRPMhDQZ-KW8Td4rJ*4PiuskhZiJwaHWLypoPHpeojXV55gGAFKLEysdEaF&new=1)
+ > 6月22日，超快激光器厂商英诺激光创业板IPO申请获深交所受理。自2011年成立以来英诺激光发展迅速，营业收入和净利润持续增长，同时由于公司产品专注于微加工高端激光器领域，公司注重研发（研发费用占比超10%）...
+ ## [2020云安会新产品新方案新技术发布会，精彩停不下来!](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=uSRIPP4jxUZ3Xgcy2EOwPf-DM9ZkMhUI*Tuug*snkZO8GywSMVISTuxrbxskh5WBsh3c9J0-oqXHVCYkd-XswBVy-libq1FP9ZsBDOg0gSF8Jdew5NyS9BSFywO2RlFU&new=1)
+ > 2020年伊始，一场突如其来的意外席卷全球，让全社会对健康生活的重视，提升到了前所未有的高度。突发的疫情，打的是一场全面 “抗疫” 战，安防技术在这场 “战疫” 中也发挥着举足轻重的作用。人工智能、5G、工...
+ ## [挑战传统，新型对讲机展现独特一面](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=ffKAMac9tnH6zR78n4lPXko9avwnuZdo4z9u7f41l6HidbDCAjGQPxL8rwRdalb*Qnb*IEtGWpFfDbPP8eFhnw4CiSlczOGVtFgggHrDJnq24J8XYxTLmFZBrRFgQsuE&new=1)
  > 说起对讲机你首先想到的是什么样子的，是香港电影中警察佩戴的那种，还是国内建筑工地上使用的傻大粗那种，不过无论是哪种形状的，现实中确实非常的实用。不过随着科技的发展，很多不可能的事情已经变为现实，而...
- ## [世界智能大会今天“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vtS*1AouyI2urw4s*vIrBmtgbv6P0YblD1hWmOPqkp7u0Ezq84b5CMGHmtuJYnnqJPl04H-RuPL1IuhtW4wOIRz&new=1)
+ ## [请关注：南极熊3D打印 微信视频号开通了](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=dIwUS1re-4f1pwiO3ii7IsQ-wEwE4JB3vQ6j39RxQP65Zhymu-oz9SVS*BvYlwhk5cTpjAwl19U-AQabwQ6X6wCwLhYmRdYFEwIwMSE6piShMwb2R7BGP7*3VnSdYpJv&new=1)
+ > 等了好几个月之后，2020年6月22日，南极熊3D打印 微信视频号终于开通了。正如我们视频号发的第一条的视频“SpaceX已经部署数十台金属3D打印，打印火箭和飞船零件”的精神内核一样，南极熊的梦想也是星辰大海。作...
+ ## [“智慧建造”的“追梦人”](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=Dot39ExPPQe75Psc-gFpjMyVrxs6lAtpCCd4QaROxC3m*d4umGS2HrSjFfsFdunZGFDKovAGugKzDz4GUJLrkScl8QXAle*XpHJJcDDCCTw=&new=1)
+ > 近年来，贵阳依托大数据不断释放的新机遇，建设高科技人才高地，正逐渐成为众多逐梦者圆梦之地。　　作为大数据、大健康等新兴产业发展的领跑者，贵州近年来始终把“人才”作为经济社会发展第一资源，通...
+ ## [世界智能大会今天“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vstzJ6EPZuVVp01kEwTl855AoWpiWnJxEqA0Y15kTJhd0vZuQA0iQWyBzTMQDYA0eugsYnGm7rxWsh2USOHSuXY&new=1)
  > 记者 吴巧君今天下午，第四届世界智能大会将隆重“云”开幕，记者从昨天市政府召开的新闻发布会上获悉，目前“会展赛+智能体验”各个环节皆准备就绪，大会筹备方正紧锣密鼓完善细节，以期把更为完美、更为精彩的...
- ## [845GB露骨照片在线暴露! 9大约会社交软件泄露数十万用户隐私](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=w3Na8L-drxJefQkB4KhOX5RkGymqVlFULaXZCEO*1onKxqaRA6ueq2qmoaybFOpe-Z2ZrTBReXOJsHpllmQYDo8eVSsnmj1IFClPNLNCe6H7uz2*GUr3x4PPBVWxyLlD&new=1)
+ ## [845GB露骨照片在线暴露! 9大约会社交软件泄露数十万用户隐私](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=w3Na8L-drxJefQkB4KhOX5RkGymqVlFULaXZCEO*1okIDhptzXKwOtfDYRBrnGf1weeIvL3RtGREZkcUa5pP2BMawpG1Ay8IXljl7WbwWtIC*VwMQAeAcE7TunpWQcVm&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月23日讯，近日据外媒报道，9家流行约会软件曝光了845 GB的露骨照片和聊天隐私等信息，预计泄露了数十万用户的隐私数据。虽然数据泄露在网上暴露是非...
- ## [聚焦|昂纳科技推出无源MWDM系列波分复用模块并实现批量交付](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=4416SyMsnQnv*jsb3FIHWVJGo2EL4msiXRPsLpC8UdsCGSNmdobH1cP1SzhnMfWLlyNGrCUcMsEctpmyK7h4XHVEJyZ13WR9dthEejfr4PcPnLCsDArL9rgQKEUib-Ih&new=1)
+ ## [聚焦|昂纳科技推出无源MWDM系列波分复用模块并实现批量交付](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=4416SyMsnQnv*jsb3FIHWVJGo2EL4msiXRPsLpC8UdvnX5339JKWf92UGZuhXQDHctgWQRKPClhgvIM-NqAiMmIUx6tzUwmRqZ-hRShMPwL*0HCllbD5oEeLK1GUZ5Ap&new=1)
  > 新闻导读近期，全球领先的电信网络及数据中心光互联产品制作商昂纳科技宣布推出无源MWDM系列波分复用模块，并已经实现给客户的批量交付。　　ICC讯 昂纳科技推出无源MWDM系列波分复用模块，并已经实现给客户的批...
- ## [\[报告\]5G时代的车路协同(V2X)，让未来交通更智慧(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=ZRPYkFj*DNUrYr2WTZHBuXN201ZoiHnwlXG2LSvmGFZc9w8HEMi*orkbNobd8CrqG*5f0V30hC-rQ*kXp1lESqPU5sfNP-kF4vbphbz9RX*Ma7N4098HXq7zDjEmLYvm&new=1)
+ ## [\[报告\]5G时代的车路协同(V2X)，让未来交通更智慧(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=ZRPYkFj*DNUrYr2WTZHBuXN201ZoiHnwlXG2LSvmGFYDP*K47xcuk2DuguPNPGSZ5quLnngd6eY6f1XtOcOr2Dhf9XZF-jEBrVxRjxsk-CeVYLf4un5VeI6ecGDVWFyf&new=1)
  > 未来随着5G时代来临，C-V2X将成为汽车的“超视距传感器”，能够对雷达等现有视距传感器进行补充，比如转弯时提示驾驶员转角盲区有汽车或自行车靠近、向驾驶员提供信号灯状态信息等，从而带来更高效且更安全的交...
- ## [数字化时代的业财一体化](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=gZZsK2dlBXolne4kgFW4NzcYuBSufg-VY5iqfKBagyhVyat1BJQluwJ7FtoJMZ6zJC4CGUHtvLxkafiENXqBZFk6Gu2Ry*OTNKk0KV2t1dDmeTN1vHQ9i1TDrdWbt7WX&new=1)
+ ## [数字化时代的业财一体化](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=gZZsK2dlBXolne4kgFW4NzcYuBSufg-VY5iqfKBagyj9Tzo8xLEgwYFuNGpvD5G30qq*z9YVZcFL-sWjhijU9DEbCfZp4t*GJclyozTllY6Bl1tuQSC233GwxKXSdEnM&new=1)
  > 01信息化时代的业财一体化一直以来，业财一体化都是企业信息化建设的重点。从2000年左右开始，业财一体化主要通过ERP系统来实现。由于信息化更强调管理和监控，ERP系统也偏重于以财务为核心，这导致了业财一体化...
- ## [\[6.23津早相会\]第四届世界智能大会今日“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vt1chdftJkLpJDXAyBBV6orgPZRNAMQXuRuf6tClHmDBKu5NU5tbleZAaBsel4JjpELeneK1aH0oaoGmDBXa4fB&new=1)
+ ## [\[6.23津早相会\]第四届世界智能大会今日“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vvS5*jNW2TdJ0usVYZKD8i7d0KxPTuShOv3s7fk2S94rpYAdwbDkwcTb05BhZM*1yfBtBPUHHQG4*IbOKw2*K-j&new=1)
  > 【今日天气】 阴，东南风3-4级最高温度31℃，最低23℃【限行尾号】 今日 | 2、7    明日 | 3、8 今日导读第四届世界智能大会今天下午隆重云开幕第137例本地确诊病例传播方式为人传人实施居家隔离医学观察1145人...
- ## [中国联通和中国电信措手不及，中国移动主动发起5G流量价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=oDajbxVYvvP*tGMqRe1itC15sCfSSX7tE5nP7ulHMrCuH-lJxk3LkVjIxl3i1A7PslXugHHG96*iaZvrsuUOcK2Oai-RVBVl6mb1LnttB4VoP5ZxVOWeDMw4iEi*--mB&new=1)
+ ## [中国联通和中国电信措手不及，中国移动主动发起5G流量价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1592901005&ver=2417&signature=oDajbxVYvvP*tGMqRe1itC15sCfSSX7tE5nP7ulHMrCaQtlo-mQG2u*zvREf6zwANEhTVTdClWADdH8G6TvN9N6JnsEp9qn5RgLjmbB7yBUJKCu8SScOE7ocCdN1-cL9&new=1)
  > 5月5G手机占国内手机销量的比例达到46%，中国移动3月至5月每月净增5G用户数超过千万 ，5G普及呈现加速的势头，中国移动选择主动降低5G套餐的价格 ，将 5G套餐的价格杀低至80元以下，其5G套餐价格在三大运营商中...
- ## [刚刚，蔡徐坤入职中国移动!](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=yNrmM5AR3TtQF6BUFt6YiFGYM9fVjUkZ8yzpjnlzbk1c5Af14NQRUz1SSdnN7-nP9qT6moqo9UhLZuWBCjpF38Fl0dbGvAGydTEg6jwZia4oHl3BPfGI4V2n5gAAyi8s&new=1)
- > 中国移动开打5G品牌战 请来蔡徐坤做“合伙人6月22日上午，知名艺人蔡徐坤在社交平台上宣布自己成为“动感地带5G合伙人”。而中国移动动感地带M-ONE卡的预约活动也在即日启动。在5G商用一周年之际，中国移动“复...
- ## [2020南京创新周-潮科技大赛采用云创云计算实训平台](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=PGgBQZsbTcnCmSeBTtib*CjCbvAGW4UpD-QhzL8iZitZnz2WmKNgz*ykI074u46acozGWlnCHRR-mczFOSdgHDJyjQwXq0*sfOMMopTBqfHZRzt9CVkwI8-MIgJHMZ5u&new=1)
- > 6月22日，南京市人民政府主办、相关生根国家创新署协办，以“读懂城市创新”为主题的2020南京创新周如期拉开帷幕。本次活动为期5天，各级领导，科学界、企业界、投资界嘉宾代表，在宁高校院所负责人，新型研发机...
 # IT 技术 
  ## [教会徒弟，就会饿死师傅？](https://blog.csdn.net/ityouknow/article/details/106846465)
  > 教会徒弟，就会饿死师傅？
- ## [说起刘慈欣，不要只知道《三体》和《流浪地球》](https://blog.csdn.net/bjweimengshu/article/details/105760128)
- > 说起刘慈欣，不要只知道《三体》和《流浪地球》
- ## [父亲节，程序员几条代码硬核示爱](https://blog.csdn.net/devcloud/article/details/106873466)
- > 父亲节，程序员几条代码硬核示爱
- ## [【CV实践】图像检索从入门到进阶](https://blog.csdn.net/Datawhale/article/details/105401143)
- > 【CV实践】图像检索从入门到进阶
- ## [【Unity3D进阶4-9】Unity3D 有限状态机](https://blog.csdn.net/q764424567/article/details/106239243)
- > 
- ## [《凤凰项目》读书笔记（一）](https://blog.csdn.net/yangjianrong1985/article/details/106846587)
- > 《凤凰项目》读书笔记（一）
- ## [SpringBoot与Maven多环境整合！！！](https://blog.csdn.net/qq_34162294/article/details/105260148)
- > SpringBoot与Maven多环境整合！！！
- ## [八大排序算法复杂度及C++实现](https://blog.csdn.net/weixin_44843571/article/details/106297508)
- > 
- ## [ZeroMQ:16---模式之（ØMQ模式总览）](https://blog.csdn.net/qq_41453285/article/details/106865539)
- > ZeroMQ:16---模式之（ØMQ模式总览）
- ## [一行代码可以做什么？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105119394)
- > 一行代码可以做什么？
- ## [数据结构-栈的应用之中缀表达式的计算](https://blog.csdn.net/jaune161/article/details/105532722)
- > 
- ## [​能让德国人放弃现金支付​，也没谁了](https://blog.csdn.net/leelight/article/details/105355526)
- > ​能让德国人放弃现金支付​，也没谁了
- ## [关于mysql存取图片的三种方式（含源码示例）](https://blog.csdn.net/ZLZQ_Yuan/article/details/106860447)
- > 关于mysql存取图片的三种方式（含源码示例）
  ## [Linux 操作系统原理 — Kernel](https://blog.csdn.net/Jmilk/article/details/105894059)
  > Linux 操作系统原理 — Kernel
- ## [推荐几个有趣的网站（第一弹）](https://blog.csdn.net/qq_43539439/article/details/106863052)
- > 推荐几个有趣的网站（第一弹）
+ ## [​能让德国人放弃现金支付​，也没谁了](https://blog.csdn.net/leelight/article/details/105355526)
+ > ​能让德国人放弃现金支付​，也没谁了
+ ## [String类为什么被设计为不可变的？](https://blog.csdn.net/zzti_erlie/article/details/106872673)
+ > 
+ ## [因为看了这些书，我大二就拿了华为Offer](https://blog.csdn.net/qq_35190492/article/details/106235335)
+ > 
+ ## [浅谈前端八大UI库](https://blog.csdn.net/u011068996/article/details/106339790)
+ > 浅谈前端八大UI库
+ ## [05-全屏视频背景滚动淡出](https://blog.csdn.net/qq449245884/article/details/105402208)
+ > 05-全屏视频背景滚动淡出
+ ## [物联网开发|如何选择一款适合你的物联网操作系统？](https://blog.csdn.net/jdcdev_/article/details/105567489)
+ > 物联网开发|如何选择一款适合你的物联网操作系统？
+ ## [20.CSS3 立体卡片展示特效](https://blog.csdn.net/qq449245884/article/details/105770735)
+ > 20.CSS3 立体卡片展示特效
+ ## [程序员垃圾简历长什么样？](https://blog.csdn.net/harvic880925/article/details/105191089)
+ > 
+ ## [【Unity3D基础2-1】Unity3D从业介绍](https://blog.csdn.net/q764424567/article/details/106099092)
+ > 【Unity3D基础2-1】Unity3D从业介绍
+ ## [大三实习生，字节跳动面经分享，已拿Offer](https://blog.csdn.net/qq_35190492/article/details/105186952)
+ > 大三实习生，字节跳动面经分享，已拿Offer
+ ## [【相亲】96年程序员小哥第一次相亲，还没开始就结束了](https://blog.csdn.net/qq_35190492/article/details/105917014)
+ > 【相亲】96年程序员小哥第一次相亲，还没开始就结束了
+ ## [花式玩 Spring Boot！过滤器竟有 N 种注册方式！松哥手把手教你](https://blog.csdn.net/u012702547/article/details/106848916)
+ > 
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ > 
 # 人工智能 
- ## [区块链系列教程之:比特币中的网络和区块链](https://blog.csdn.net/superfjj/article/details/106894768)
- > 
- ## [赠书 | 基于区块链法定货币的支付体系，应该怎么做？](https://blog.csdn.net/Blockchain_lemon/article/details/106893761)
- > 赠书 | 基于区块链法定货币的支付体系，应该怎么做？
- ## [猜猜微信拍一拍是怎么用Flutter实现的？](https://blog.csdn.net/ajsliu1233/article/details/106904031)
- > 
- ## [营业日志 2020.6.22 贝尔数的同余线性递推性质](https://blog.csdn.net/EI_Captain/article/details/106909220)
- > 营业日志 2020.6.22 贝尔数的同余线性递推性质
- ## [数据结构与算法(Python版)十七：线性结构小结](https://blog.csdn.net/weixin_39020133/article/details/106906939)
- > 数据结构与算法(Python版)十七：线性结构小结
- ## [Go 变量的使用（二）](https://blog.csdn.net/baidu_41388533/article/details/106893501)
- > Go 变量的使用（二）
- ## [2020上半年工作总结与未来规划](https://blog.csdn.net/weixin_42450794/article/details/106910521)
- > 2020上半年工作总结与未来规划
- ## [区块链--比特币（Bitcoin）与拜占庭帝国将军问题](https://blog.csdn.net/weixin_41087220/article/details/106895947)
- > 区块链--比特币（Bitcoin）与拜占庭帝国将军问题
- ## [你还在花钱下载文献吗？其实校外也可以免费下载知网文献！](https://blog.csdn.net/weixin_46218781/article/details/106889578)
- > 你还在花钱下载文献吗？其实校外也可以免费下载知网文献！
- ## [PhiChain挖矿指南](https://blog.csdn.net/weixin_40209429/article/details/106891748)
- > PhiChain挖矿指南
- ## [GME加仑币美国新项目](https://blog.csdn.net/shoumafabu/article/details/106883608)
- > GME加仑币美国新项目
- ## [一个基于python的自动玩游戏辅助](https://blog.csdn.net/l714417743/article/details/106883616)
- > 
- ## [P2P网络基础（学习笔记）](https://blog.csdn.net/yeaqqqq/article/details/106897809)
- > P2P网络基础（学习笔记）
- ## [运行报错Cannot find module @babel/compat-data/corejs3-shipped-proposals](https://blog.csdn.net/Y123y__/article/details/106883159)
- > 运行报错Cannot find module @babel/compat-data/corejs3-shipped-proposals
- ## [Go中指针绑定函数和值绑定函数的区别](https://blog.csdn.net/dongjijiaoxiangqu/article/details/106896763)
- > Go中指针绑定函数和值绑定函数的区别
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
+ ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
+ > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
+ ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
+ > Istio组件日志设置
 # PM 
+ ## [用户引流之前，这6个问题需要思考](http://www.woshipm.com/operate/4046698.html)
+ > 增量永远是主旋律，就算现在是由存量找增量的时代，增量的过程也是必不可少的。任何产品的面世，第一步都是吸引用户，但流量一直是广大企业、网商、互联网创业者最头疼...
+ ## [流量进了私域，也救不了在线教育](http://www.woshipm.com/it/4047489.html)
+ > 在互联网快速发展的今天，在线教育的获客成本越来越高，不少企业开始探索私域流量的玩法。本文从五个角度，对这类现象展开深入的分析，推荐给想了解在线教育的童鞋阅读...
+ ## [产品运营笔记：如何从0到1搭建业务架构？](http://www.woshipm.com/operate/4044866.html)
+ > 本文作者依据自身工作中项目实践的所思所想，从5个方面出发并结合案例，分享了0到1搭建业务的相关经验，供大家一同参考和学习。我们常常听到的“ios架构工程师“、”高级...
+ ## [618落幕，下沉市场生态位布局正当时](http://www.woshipm.com/it/4045380.html)
+ > 在此次618中，网红带货表现不俗，但是能成为头部网红的人毕竟在少数，不是每个企业都适合走这条路。还有其他的方法吗？本文从四个方面给我们介绍了另一条路——下沉市场，...
+ ## [在线教育案例拆解：火花思维如何靠口碑引流12万正价用户？](http://www.woshipm.com/operate/4044341.html)
+ > 火花思维是一家专注于3-12岁儿童教育启蒙和思维训练的线上机构，在APP和微信都有布局，获客体系完整，尤其基于口碑获客的打法，成为众多在线教育玩家研究和模仿的对象。...
+ ## [竞品分析 | 抖音 vs 微视](http://www.woshipm.com/evaluating/4043931.html)
+ > 本文通过对抖音和微信这两款产品进行多维度的分析对比，了解其内在的产品逻辑以及不同的逻辑何以塑造出不同的产品。并总结了两款产品的发展策略，带大家深入了解了短视...
+ ## [如何进行APP版本升级管理？](http://www.woshipm.com/pd/4038557.html)
+ > 在产品工作中，经常要对产品APP进行迭代升级。本文作者根据自己的工作经验，对APP版本升级管理这个问题展开了深入的思考，希望对你有帮助。移动端功能开发测试完成后...
  ## [公开课 | 如何让面试官十秒钟记住你？](http://www.woshipm.com/open/4052057.html)
  > 先给大家道个歉，标题党了。其实“如何让面试官十秒钟内记住你”是一道面试中的套路题，主要考察你的临场反应和拆题思路。与此类似的问题还有：“如何把大象装进冰箱里...
  ## [直播带货是快手商业化的“终局之战”吗？](http://www.woshipm.com/it/4045957.html)
  > 快手作为一个短视频软件，近年来也频频在电商领域上发力。本文作者基于这次618活动，从三个角度分析快手是如何商业化的，希望对你有帮助。“夫未战而庙算胜者，得算多...
  ## [卖茶女、酒托、机器人，95后年轻人的“私密社交”还“纯粹”吗？](http://www.woshipm.com/it/4044494.html)
  > 95后的年轻人刚踏入社会不久，脱离了大学校园，每天往返于公司和出租屋，社交活动减少。但是，年轻人对于社交的热情却从未减少。本文从四个方面，分析年轻人的私密社交...
- ## [语音对话类产品：用户表达的5个特点](http://www.woshipm.com/user-research/4043842.html)
- > 知道产品用户的行为特点能帮助提升产品的体验设计，本文作者对语音交互类产品的用户特点进行了梳理，并总结了自己的几点建议，与大家分享。语音交互已然成为当下多数...
- ## [AI产品经理必修——揭开算法的面纱（贪心算法）](http://www.woshipm.com/pmd/4044055.html)
- > 对于AI产品经理来说，掌握一些算法是必要的。本文将从五个方面，讲述AI产品经理必修的贪心算法，希望对你有帮助。去年“新智元”有一篇报道《清华毕业计算机教授遭持枪...
- ## [如何设计个人与企业实名认证流程？](http://www.woshipm.com/pd/4045739.html)
- > 随着互联网业务的开展，为了维护信息安全、资金安全，实名认证成了许多互联网细分领域必须要完成的一个工作。本文作者从自身工作经验出发，分享了个人和企业实名认证流...
- ## [我做产品这些年，有这几点感悟](http://www.woshipm.com/zhichang/4044252.html)
- > 每到毕业季，总会有这样的疑问：是留在小城市当公务员好，还是去大城市拼搏好？不仅是年轻人，哪怕是工作了几年的社会人也不一定看得清楚未来。本文作者基于自身经历，...
- ## [想要成为设计专家，先掌握这5个提升审美的视觉方法](http://www.woshipm.com/pd/4045552.html)
- > 好的设计往往能够根据产品的性格和特征来量身打造，而做到这一点却很难，文章为大家分享了5个关于提升视觉设计的方法，希望能对你有所帮助。对视觉美感而言，其实是有...
- ## [适用于产品设计的20条心理原则（上）](http://www.woshipm.com/pd/4043571.html)
- > 本文作者梳理总结了20条有力的心理原则理论依据，你可运用在你的产品设计里，充分利用这些原理，可以更好的设计出迎合人们需求的软件。抓住了人们的心理，也就抓住了用...
  ## [「后浪」的我们真的都适合摆摊吗？](http://www.chanpin100.com/article/111871)
  > 你我都适合摆摊吗？互联网行业哪些人适合摆摊呢
  ## [进大厂，还是进小厂？](http://www.chanpin100.com/article/111983)
