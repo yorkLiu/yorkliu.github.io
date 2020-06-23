@@ -1,7 +1,7 @@
 ---
 title: 2020-06-23 IT News
 copyright: true
-date: 2020-06-23 10:01:46
+date: 2020-06-23 12:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -94,83 +94,99 @@ categories: IT NEWS
 <p>&nbsp;</p>
 
 # IT 新闻 
- ## [聚焦|昂纳科技推出无源MWDM系列波分复用模块并实现批量交付](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=4416SyMsnQnv*jsb3FIHWVJGo2EL4msiXRPsLpC8UdsR8oJnIlhYdk9pLFBjqgOmMOaVKpST*a8Np289-jImr6bqgA5sFVSljtdunvg2NQJSD7s9zPYhZfdGLvRnA4Ua&new=1)
+ ## [请关注：南极熊3D打印 微信视频号开通了](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=dIwUS1re-4f1pwiO3ii7IsQ-wEwE4JB3vQ6j39RxQP4S3-cwa-AgDoODk5ZI93n4gWaKKx815Znmp6uQ*g2aNYIxovvIzb28iKZLz5inY0yT16DxjCzSw4IJudASHJqi&new=1)
+ > 等了好几个月之后，2020年6月22日，南极熊3D打印 微信视频号终于开通了。正如我们视频号发的第一条的视频“SpaceX已经部署数十台金属3D打印，打印火箭和飞船零件”的精神内核一样，南极熊的梦想也是星辰大海。作...
+ ## [“智慧建造”的“追梦人”](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=Dot39ExPPQe75Psc-gFpjMyVrxs6lAtpCCd4QaROxC0wLf98a-*p9pVoUkJQQLkLS-vTNw8np5*0VhtKEDy21ShRSbq235QYQP3PbtnnpNc=&new=1)
+ > 近年来，贵阳依托大数据不断释放的新机遇，建设高科技人才高地，正逐渐成为众多逐梦者圆梦之地。　　作为大数据、大健康等新兴产业发展的领跑者，贵州近年来始终把“人才”作为经济社会发展第一资源，通...
+ ## [挑战传统，新型对讲机展现独特一面](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=ffKAMac9tnH6zR78n4lPXko9avwnuZdo4z9u7f41l6HbNS4Mdrozr8IaTxe0frHYEPItGWgUjHOadatDAtU*S62uZqZEQwAC4RCQjoR2JMFwpiZ*C5kpQss9ntfJTAj6&new=1)
+ > 说起对讲机你首先想到的是什么样子的，是香港电影中警察佩戴的那种，还是国内建筑工地上使用的傻大粗那种，不过无论是哪种形状的，现实中确实非常的实用。不过随着科技的发展，很多不可能的事情已经变为现实，而...
+ ## [世界智能大会今天“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vtS*1AouyI2urw4s*vIrBmtgbv6P0YblD1hWmOPqkp7u0Ezq84b5CMGHmtuJYnnqJPl04H-RuPL1IuhtW4wOIRz&new=1)
+ > 记者 吴巧君今天下午，第四届世界智能大会将隆重“云”开幕，记者从昨天市政府召开的新闻发布会上获悉，目前“会展赛+智能体验”各个环节皆准备就绪，大会筹备方正紧锣密鼓完善细节，以期把更为完美、更为精彩的...
+ ## [845GB露骨照片在线暴露! 9大约会社交软件泄露数十万用户隐私](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=w3Na8L-drxJefQkB4KhOX5RkGymqVlFULaXZCEO*1onKxqaRA6ueq2qmoaybFOpe-Z2ZrTBReXOJsHpllmQYDo8eVSsnmj1IFClPNLNCe6H7uz2*GUr3x4PPBVWxyLlD&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月23日讯，近日据外媒报道，9家流行约会软件曝光了845 GB的露骨照片和聊天隐私等信息，预计泄露了数十万用户的隐私数据。虽然数据泄露在网上暴露是非...
+ ## [聚焦|昂纳科技推出无源MWDM系列波分复用模块并实现批量交付](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=4416SyMsnQnv*jsb3FIHWVJGo2EL4msiXRPsLpC8UdsCGSNmdobH1cP1SzhnMfWLlyNGrCUcMsEctpmyK7h4XHVEJyZ13WR9dthEejfr4PcPnLCsDArL9rgQKEUib-Ih&new=1)
  > 新闻导读近期，全球领先的电信网络及数据中心光互联产品制作商昂纳科技宣布推出无源MWDM系列波分复用模块，并已经实现给客户的批量交付。　　ICC讯 昂纳科技推出无源MWDM系列波分复用模块，并已经实现给客户的批...
- ## [\[报告\]5G时代的车路协同(V2X)，让未来交通更智慧(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=ZRPYkFj*DNUrYr2WTZHBuXN201ZoiHnwlXG2LSvmGFZ3cg8A2Ky*epMzgKzsb-XX*2VfOpqD4GON1l63evbVuueWMvEBmzdVtfNAGzP81S8S-9MmPSzNai6pGzweJtG1&new=1)
+ ## [\[报告\]5G时代的车路协同(V2X)，让未来交通更智慧(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=ZRPYkFj*DNUrYr2WTZHBuXN201ZoiHnwlXG2LSvmGFZc9w8HEMi*orkbNobd8CrqG*5f0V30hC-rQ*kXp1lESqPU5sfNP-kF4vbphbz9RX*Ma7N4098HXq7zDjEmLYvm&new=1)
  > 未来随着5G时代来临，C-V2X将成为汽车的“超视距传感器”，能够对雷达等现有视距传感器进行补充，比如转弯时提示驾驶员转角盲区有汽车或自行车靠近、向驾驶员提供信号灯状态信息等，从而带来更高效且更安全的交...
- ## [数字化时代的业财一体化](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=gZZsK2dlBXolne4kgFW4NzcYuBSufg-VY5iqfKBagyipqr9zPxN98EcrlY0-6Qd0AwhMrk4*nlXg1D5mJ5UfnHuZnadsPjFzv30ocGUq2-mX4FUdzEhFSnuWfsH6qokl&new=1)
+ ## [数字化时代的业财一体化](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=gZZsK2dlBXolne4kgFW4NzcYuBSufg-VY5iqfKBagyhVyat1BJQluwJ7FtoJMZ6zJC4CGUHtvLxkafiENXqBZFk6Gu2Ry*OTNKk0KV2t1dDmeTN1vHQ9i1TDrdWbt7WX&new=1)
  > 01信息化时代的业财一体化一直以来，业财一体化都是企业信息化建设的重点。从2000年左右开始，业财一体化主要通过ERP系统来实现。由于信息化更强调管理和监控，ERP系统也偏重于以财务为核心，这导致了业财一体化...
- ## [\[6.23津早相会\]第四届世界智能大会今日“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vt7uFkbH20xZXi9e6Ot4Wbqjs5I83mg627FjCFpw6zAeDPOYZaxq*LseGmuPh-JTsqoA5XAIHE7SBFJ*vU7QRRs&new=1)
+ ## [\[6.23津早相会\]第四届世界智能大会今日“云”开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=oTymGEv9uhOKVr8QLq-aCDk2crd19RZtiMUK7gvl1vt1chdftJkLpJDXAyBBV6orgPZRNAMQXuRuf6tClHmDBKu5NU5tbleZAaBsel4JjpELeneK1aH0oaoGmDBXa4fB&new=1)
  > 【今日天气】 阴，东南风3-4级最高温度31℃，最低23℃【限行尾号】 今日 | 2、7    明日 | 3、8 今日导读第四届世界智能大会今天下午隆重云开幕第137例本地确诊病例传播方式为人传人实施居家隔离医学观察1145人...
- ## [中国联通和中国电信措手不及，中国移动主动发起5G流量价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=oDajbxVYvvP*tGMqRe1itC15sCfSSX7tE5nP7ulHMrCXgBMS323UunG2jYgD90VMN58WkGopfAJKRFKlWbIdYRsIVrAoSDjgyQIazQlT8LUHVcvZMbL6qhFXbe5y9ErM&new=1)
+ ## [中国联通和中国电信措手不及，中国移动主动发起5G流量价格战](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=oDajbxVYvvP*tGMqRe1itC15sCfSSX7tE5nP7ulHMrCuH-lJxk3LkVjIxl3i1A7PslXugHHG96*iaZvrsuUOcK2Oai-RVBVl6mb1LnttB4VoP5ZxVOWeDMw4iEi*--mB&new=1)
  > 5月5G手机占国内手机销量的比例达到46%，中国移动3月至5月每月净增5G用户数超过千万 ，5G普及呈现加速的势头，中国移动选择主动降低5G套餐的价格 ，将 5G套餐的价格杀低至80元以下，其5G套餐价格在三大运营商中...
- ## [刚刚，蔡徐坤入职中国移动!](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=yNrmM5AR3TtQF6BUFt6YiFGYM9fVjUkZ8yzpjnlzbk2ceZWOb9MrxYPDp3oI89NlIsut*yK4ANYmaEIQM-FLadoOFe*yjGEyVBTCGh8UxnOvPHAt62m-IWfpjvAjBfTd&new=1)
+ ## [刚刚，蔡徐坤入职中国移动!](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=yNrmM5AR3TtQF6BUFt6YiFGYM9fVjUkZ8yzpjnlzbk1c5Af14NQRUz1SSdnN7-nP9qT6moqo9UhLZuWBCjpF38Fl0dbGvAGydTEg6jwZia4oHl3BPfGI4V2n5gAAyi8s&new=1)
  > 中国移动开打5G品牌战 请来蔡徐坤做“合伙人6月22日上午，知名艺人蔡徐坤在社交平台上宣布自己成为“动感地带5G合伙人”。而中国移动动感地带M-ONE卡的预约活动也在即日启动。在5G商用一周年之际，中国移动“复...
- ## [2020南京创新周-潮科技大赛采用云创云计算实训平台](http://mp.weixin.qq.com/s?src=11&timestamp=1592875805&ver=2417&signature=PGgBQZsbTcnCmSeBTtib*CjCbvAGW4UpD-QhzL8iZisP1kON9DPrA7baFoYNf-8AKH1op7ZmKhQIoELrUS37iKsU6rF9XVobQnavMYBQPoxThQ4PZcY9twa*RebPP5UM&new=1)
+ ## [2020南京创新周-潮科技大赛采用云创云计算实训平台](http://mp.weixin.qq.com/s?src=11&timestamp=1592883070&ver=2417&signature=PGgBQZsbTcnCmSeBTtib*CjCbvAGW4UpD-QhzL8iZitZnz2WmKNgz*ykI074u46acozGWlnCHRR-mczFOSdgHDJyjQwXq0*sfOMMopTBqfHZRzt9CVkwI8-MIgJHMZ5u&new=1)
  > 6月22日，南京市人民政府主办、相关生根国家创新署协办，以“读懂城市创新”为主题的2020南京创新周如期拉开帷幕。本次活动为期5天，各级领导，科学界、企业界、投资界嘉宾代表，在宁高校院所负责人，新型研发机...
 # IT 技术 
- ## [华为EMUI10带来开发者福音：一次开发多端部署](https://blog.csdn.net/weixin_41969545/article/details/99311676)
- > 华为EMUI10带来开发者福音：一次开发多端部署
  ## [教会徒弟，就会饿死师傅？](https://blog.csdn.net/ityouknow/article/details/106846465)
  > 教会徒弟，就会饿死师傅？
- ## [Linux 操作系统原理 — Kernel](https://blog.csdn.net/Jmilk/article/details/105894059)
- > Linux 操作系统原理 — Kernel
+ ## [说起刘慈欣，不要只知道《三体》和《流浪地球》](https://blog.csdn.net/bjweimengshu/article/details/105760128)
+ > 说起刘慈欣，不要只知道《三体》和《流浪地球》
+ ## [父亲节，程序员几条代码硬核示爱](https://blog.csdn.net/devcloud/article/details/106873466)
+ > 父亲节，程序员几条代码硬核示爱
+ ## [【CV实践】图像检索从入门到进阶](https://blog.csdn.net/Datawhale/article/details/105401143)
+ > 【CV实践】图像检索从入门到进阶
+ ## [【Unity3D进阶4-9】Unity3D 有限状态机](https://blog.csdn.net/q764424567/article/details/106239243)
+ > 
+ ## [《凤凰项目》读书笔记（一）](https://blog.csdn.net/yangjianrong1985/article/details/106846587)
+ > 《凤凰项目》读书笔记（一）
+ ## [SpringBoot与Maven多环境整合！！！](https://blog.csdn.net/qq_34162294/article/details/105260148)
+ > SpringBoot与Maven多环境整合！！！
  ## [八大排序算法复杂度及C++实现](https://blog.csdn.net/weixin_44843571/article/details/106297508)
+ > 
+ ## [ZeroMQ:16---模式之（ØMQ模式总览）](https://blog.csdn.net/qq_41453285/article/details/106865539)
+ > ZeroMQ:16---模式之（ØMQ模式总览）
+ ## [一行代码可以做什么？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105119394)
+ > 一行代码可以做什么？
+ ## [数据结构-栈的应用之中缀表达式的计算](https://blog.csdn.net/jaune161/article/details/105532722)
  > 
  ## [​能让德国人放弃现金支付​，也没谁了](https://blog.csdn.net/leelight/article/details/105355526)
  > ​能让德国人放弃现金支付​，也没谁了
- ## [String类为什么被设计为不可变的？](https://blog.csdn.net/zzti_erlie/article/details/106872673)
- > 
- ## [搞定计算机网络面试](https://blog.csdn.net/qq_41112238/article/details/106233969)
- > 
- ## [很牛得几个网站](https://blog.csdn.net/IT__LiangChen/article/details/106857387)
- > 很牛得几个网站
- ## [制作一个炫酷的打字特效（网页版）](https://blog.csdn.net/sweettaowa/article/details/106853902)
- > 制作一个炫酷的打字特效（网页版）
- ## [因为看了这些书，我大二就拿了华为Offer](https://blog.csdn.net/qq_35190492/article/details/106235335)
- > 
- ## [计算机网络——排查网络故障](https://blog.csdn.net/qq2539879928/article/details/106867141)
- > 
- ## [浅谈前端八大UI库](https://blog.csdn.net/u011068996/article/details/106339790)
- > 浅谈前端八大UI库
- ## [05-全屏视频背景滚动淡出](https://blog.csdn.net/qq449245884/article/details/105402208)
- > 05-全屏视频背景滚动淡出
- ## [STM32F103C8T6制作舵机测试仪详细图文教程 | 定时器触发ADC | DMA传输 | PWM输出 | RTC实时时钟 | USART串口输出 | OLED IIC显示](https://blog.csdn.net/weixin_42268054/article/details/106878860)
- > 
- ## [物联网开发|如何选择一款适合你的物联网操作系统？](https://blog.csdn.net/jdcdev_/article/details/105567489)
- > 物联网开发|如何选择一款适合你的物联网操作系统？
+ ## [关于mysql存取图片的三种方式（含源码示例）](https://blog.csdn.net/ZLZQ_Yuan/article/details/106860447)
+ > 关于mysql存取图片的三种方式（含源码示例）
+ ## [Linux 操作系统原理 — Kernel](https://blog.csdn.net/Jmilk/article/details/105894059)
+ > Linux 操作系统原理 — Kernel
+ ## [推荐几个有趣的网站（第一弹）](https://blog.csdn.net/qq_43539439/article/details/106863052)
+ > 推荐几个有趣的网站（第一弹）
 # 人工智能 
- ## [JAVA中的类与对象](https://blog.csdn.net/qq_48201696/article/details/106876880)
- > JAVA中的类与对象
- ## [Java 第9天 面向对象（上）继承](https://blog.csdn.net/weixin_46163590/article/details/106885814)
+ ## [区块链系列教程之:比特币中的网络和区块链](https://blog.csdn.net/superfjj/article/details/106894768)
  > 
- ## [面试了N家，最后还是死在了Spring中基于xml的AOP](https://blog.csdn.net/ITjianshuzhai/article/details/106871605)
+ ## [赠书 | 基于区块链法定货币的支付体系，应该怎么做？](https://blog.csdn.net/Blockchain_lemon/article/details/106893761)
+ > 赠书 | 基于区块链法定货币的支付体系，应该怎么做？
+ ## [猜猜微信拍一拍是怎么用Flutter实现的？](https://blog.csdn.net/ajsliu1233/article/details/106904031)
  > 
- ## [Redis之管道Pipelined使用姿势](https://blog.csdn.net/zeki10/article/details/106875225)
- > Redis之管道Pipelined使用姿势
- ## [深入学习JAVA -IO流详解](https://blog.csdn.net/aabb12345687/article/details/106867906)
+ ## [营业日志 2020.6.22 贝尔数的同余线性递推性质](https://blog.csdn.net/EI_Captain/article/details/106909220)
+ > 营业日志 2020.6.22 贝尔数的同余线性递推性质
+ ## [数据结构与算法(Python版)十七：线性结构小结](https://blog.csdn.net/weixin_39020133/article/details/106906939)
+ > 数据结构与算法(Python版)十七：线性结构小结
+ ## [Go 变量的使用（二）](https://blog.csdn.net/baidu_41388533/article/details/106893501)
+ > Go 变量的使用（二）
+ ## [2020上半年工作总结与未来规划](https://blog.csdn.net/weixin_42450794/article/details/106910521)
+ > 2020上半年工作总结与未来规划
+ ## [区块链--比特币（Bitcoin）与拜占庭帝国将军问题](https://blog.csdn.net/weixin_41087220/article/details/106895947)
+ > 区块链--比特币（Bitcoin）与拜占庭帝国将军问题
+ ## [你还在花钱下载文献吗？其实校外也可以免费下载知网文献！](https://blog.csdn.net/weixin_46218781/article/details/106889578)
+ > 你还在花钱下载文献吗？其实校外也可以免费下载知网文献！
+ ## [PhiChain挖矿指南](https://blog.csdn.net/weixin_40209429/article/details/106891748)
+ > PhiChain挖矿指南
+ ## [GME加仑币美国新项目](https://blog.csdn.net/shoumafabu/article/details/106883608)
+ > GME加仑币美国新项目
+ ## [一个基于python的自动玩游戏辅助](https://blog.csdn.net/l714417743/article/details/106883616)
  > 
- ## [深度解析dubbo服务远程暴露(二)](https://blog.csdn.net/yuanshangshenghuo/article/details/106861510)
- > 
- ## [这篇文章，我们来谈一谈Spring中的属性注入](https://blog.csdn.net/qq_41907991/article/details/106890296)
- > 
- ## [手写了一个框架终于整明白了Java反射](https://blog.csdn.net/qq_17623363/article/details/106803883)
- > 
- ## [springboot发送邮件任务入门（qq邮箱代码实现）](https://blog.csdn.net/weixin_44625302/article/details/106862339)
- > springboot发送邮件任务入门（qq邮箱代码实现）
- ## [Java内部类基本介绍、如何实例化内部类和如何调用外部类属性和方法](https://blog.csdn.net/weixin_47552600/article/details/106888302)
- > Java内部类基本介绍、如何实例化内部类和如何调用外部类属性和方法
- ## [自学python一年开发， 最后还是转型成为java工程师！](https://blog.csdn.net/qq_45906219/article/details/106885424)
- > 
- ## [新鲜出炉！花了三天整理的JVM复习知识点，面试突击必备！](https://blog.csdn.net/weixin_47277170/article/details/106877086)
- > 
- ## [JavaWeb~使用UDP网络编程 简单实现汉译英服务器与客户端](https://blog.csdn.net/Shangxingya/article/details/106891106)
- > 
- ## [没想到啊，Java操作Excel竟然这么简单！](https://blog.csdn.net/lzp492782442/article/details/106860383)
- > 
- ## [Java笔试真题及参考答案](https://blog.csdn.net/heihaozi/article/details/106682571)
- > Java笔试真题及参考答案
+ ## [P2P网络基础（学习笔记）](https://blog.csdn.net/yeaqqqq/article/details/106897809)
+ > P2P网络基础（学习笔记）
+ ## [运行报错Cannot find module @babel/compat-data/corejs3-shipped-proposals](https://blog.csdn.net/Y123y__/article/details/106883159)
+ > 运行报错Cannot find module @babel/compat-data/corejs3-shipped-proposals
+ ## [Go中指针绑定函数和值绑定函数的区别](https://blog.csdn.net/dongjijiaoxiangqu/article/details/106896763)
+ > Go中指针绑定函数和值绑定函数的区别
 # PM 
+ ## [公开课 | 如何让面试官十秒钟记住你？](http://www.woshipm.com/open/4052057.html)
+ > 先给大家道个歉，标题党了。其实“如何让面试官十秒钟内记住你”是一道面试中的套路题，主要考察你的临场反应和拆题思路。与此类似的问题还有：“如何把大象装进冰箱里...
+ ## [直播带货是快手商业化的“终局之战”吗？](http://www.woshipm.com/it/4045957.html)
+ > 快手作为一个短视频软件，近年来也频频在电商领域上发力。本文作者基于这次618活动，从三个角度分析快手是如何商业化的，希望对你有帮助。“夫未战而庙算胜者，得算多...
+ ## [卖茶女、酒托、机器人，95后年轻人的“私密社交”还“纯粹”吗？](http://www.woshipm.com/it/4044494.html)
+ > 95后的年轻人刚踏入社会不久，脱离了大学校园，每天往返于公司和出租屋，社交活动减少。但是，年轻人对于社交的热情却从未减少。本文从四个方面，分析年轻人的私密社交...
  ## [语音对话类产品：用户表达的5个特点](http://www.woshipm.com/user-research/4043842.html)
  > 知道产品用户的行为特点能帮助提升产品的体验设计，本文作者对语音交互类产品的用户特点进行了梳理，并总结了自己的几点建议，与大家分享。语音交互已然成为当下多数...
  ## [AI产品经理必修——揭开算法的面纱（贪心算法）](http://www.woshipm.com/pmd/4044055.html)
@@ -183,29 +199,21 @@ categories: IT NEWS
  > 好的设计往往能够根据产品的性格和特征来量身打造，而做到这一点却很难，文章为大家分享了5个关于提升视觉设计的方法，希望能对你有所帮助。对视觉美感而言，其实是有...
  ## [适用于产品设计的20条心理原则（上）](http://www.woshipm.com/pd/4043571.html)
  > 本文作者梳理总结了20条有力的心理原则理论依据，你可运用在你的产品设计里，充分利用这些原理，可以更好的设计出迎合人们需求的软件。抓住了人们的心理，也就抓住了用...
- ## [智能货柜专题三：如何实现不同机器“千机千面”？](http://www.chanpin100.com/article/111879)
- > 本篇文章则重点介绍智能货柜的商品相关的内容，重点涉及到如何实现不同机器的千机千面从而使商品更加畅销，提升销售额。
- ## [智能货柜专题二：怎么提升机器故障处理效率？](http://www.chanpin100.com/article/111878)
- > 如何提升智能货柜的故障处理效率，这篇文章你将得到答案
- ## [智能货柜专题一：如何让“智能货柜”的补货效益最大化？](http://www.chanpin100.com/article/111877)
- > 如何提升智能货柜的补货效率，这篇文章你将得到答案
- ## [腾讯「智慧零售」VS阿里「新零售」](http://www.chanpin100.com/article/111880)
- > 本文主要是对比腾讯智慧零售与阿里新零售的布局与差异，同时也将在产品层面对腾讯智慧零售和阿里新零售的解决方案进行对比。
- ## [做产品，要快，要赶快做执行](http://www.chanpin100.com/article/111982)
- > 按照8小时的计划，做了一次学习的执行，做知识点内容的输出。
- ## [业务系统如何对接第三方服务？](http://www.chanpin100.com/article/111975)
- > 本文为我对过往的对接项目经历，进行提炼的关于业务系统，如何对接第三方服务的方法论，希望能对你有所帮助。
- ## [餐饮品牌智能+转型升级势在必行|2020中国餐饮品牌智能+生态分析](http://www.chanpin100.com/article/111909)
- > 简介：通过打通供应链、企业自身的ERP、HR、OA和财务系统、门店收银、仓储管理及会员管理等环节，将餐饮品牌前、中、后台联合起来，实现链路全上线。对于已开展智能+转型的企业来说，需要全面打通，通过汇总的数据进行优化…
- ## [你凭什么让用户掏钱？全面解析VIP订阅模式](http://www.chanpin100.com/article/111951)
- > 所有的VIP，都是精心设计。
- ## [2020年手机行业的“中场战事”](http://www.chanpin100.com/article/111937)
- > 在中国手机市场这片血海，“血战到底”是唯一选择。如今随着618大幕拉开，失去春节档口的中国手机市场，已经能闻到硝烟的味道。
- ## [最近的一点思考：创业与上班](http://www.chanpin100.com/article/111950)
- > 上班还是创业呢？
- ## [5个对设计师有用的Chrome扩展程序](http://www.chanpin100.com/article/111974)
- > 这些拓展程序你都知道么？
- ## [Stratifyd:数据驱动业务价值，让决策更精准|案例篇](http://www.chanpin100.com/article/111962)
- > 本文将结合几个有趣的案例，为大家介绍增强智能技术在挖掘数据价值、驱动企业科学决策方面发挥的重要作用。
+ ## [「后浪」的我们真的都适合摆摊吗？](http://www.chanpin100.com/article/111871)
+ > 你我都适合摆摊吗？互联网行业哪些人适合摆摊呢
+ ## [进大厂，还是进小厂？](http://www.chanpin100.com/article/111983)
+ > 到底进大厂，还是小厂？这是个问题。
+ ## [从人/货/场维度，解析“直播带货”还能火多久？](http://www.chanpin100.com/article/111884)
+ > 本篇文章就重点从人-货-场三个维度以具体的例子还解读和分析，直播带货这个2020年最大的风口方向，还会持续火多久。
+ ## [在线视频行业能否“乘风破浪？”](http://www.chanpin100.com/article/111979)
+ > 长视频像赴宴，短视频像逛街；无论长视频还是短视频平台，他们都是最顶级的“注意力商人”，他们之间的未来演化，远非我们今天可以预测。
+ ## [“直播带货”到底还能火多久？（附“淘宝直播”平台体验分析）](http://www.chanpin100.com/article/111885)
+ > 直播带货的热度一路飙升，而近段时间老罗宣布做直播带货，更是炒热了人们的关注与讨论。于是本文也来聊聊直播带货为什么能火、还能活多久，以及以淘宝直播为例分析直播带货平台的体验感受。
+ ## [如何从0到1设计一款产品？](http://www.chanpin100.com/article/111985)
+ > 有收藏价值
+ ## [开发到底需要一份怎样的需求文档？](http://www.chanpin100.com/article/111986)
+ > 能够减少甚至免除在开发过程中技术人员跟产品经理沟通的文档就是好的文档
+ ## [数据分析产品从可视化到智能化：快速分析订单量为什么下降了](http://www.chanpin100.com/article/111991)
+ > 以各大企业业务团队和分析师团队经常会遇到的问题「今天订单量为什么下降了」，来分享下数据产品应该如何快速、高效、直接地回答业绩波动的问题，并且以产品的方式统一方法论、拉齐分析水平。
 
     
