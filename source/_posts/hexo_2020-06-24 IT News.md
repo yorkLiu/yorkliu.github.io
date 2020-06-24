@@ -1,24 +1,36 @@
 ---
 title: 2020-06-24 IT News
 copyright: true
-date: 2020-06-24 10:01:13
+date: 2020-06-24 12:03:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [器件|中国电信首次完成多厂商5G前传 25Gb/s LWDM方案测试](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=QQh1hzj-Tffi9SitNXjW4LPnbcctvd*Pq4hvvEYFWDTTFRMef28r8P8o6mCFQGeAqgGCcNx4bfICWsYPxXuB257cxqTKInR*4ojotPKPKm3uScIqePITqR-b2RSPM9H0&new=1)
+ ## [谷歌Chrome浏览器又陷间谍软件数据欺诈事件!](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=DbWAPu028ne5L6pLdItcEAoaQ*fO-gACKCiPmHA87odUt9*r7tY6w9uNqblTaQhrVzcBtC9nYFeYLedRYl1ya4gKSoIhXf4VLeg3dRzJ92c2mafANVPx0qpGRhCsIl33&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全6月24日讯，近日据外媒报道，谷歌 Chrome最近陷入了与间谍软件相关的数据欺诈事件当中。据悉，谷歌 Chrome是一种非常受欢迎的网络浏览器，在全球拥有...
+ ## [通快绿光金属3D打印机和500℃预热新机型](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=4QtZpVxgTBwtfi83bw7sqI*RvU4UDpmLOrKL8*QarNdMyVKvVLym-rMTtecuz5eRyY0rH-2JYDbw8AXFt3sJxK8OMK9WUuoI7w9NASGTSIF*imH-laHs2lBzNvxcKkfI&new=1)
+ > 南极熊想请读者先看一张图片：△ASML光刻机装配照片全球芯片生产设备的领导者荷兰ASML公司，其售价超10亿人民币的光刻机，内部非常复杂，重达17吨，包含了超过45万个零件。其中的极紫外光刻用大概率激光器采用的...
+ ## [长光华芯完成1.5亿元C轮融资：深化产业链布局 提升国产激光芯片竞争力](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=rQaJJCoajf4B9WA3vXfQGLT5T1YXRSzCKcfyHhqls48G-38FvWV0IDI-dSeOuBPWx9X-Q2VFrmXuPDKunA*3ghfWHomqpts4V2aAqRyxGjoT5FQAecn9VkqaVASj5lWA&new=1)
+ > 6月23日，长光华芯宣布完成1.5亿元人民币C轮融资的工商变更，标志着2019年7月启动的C轮融资顺利完成。本轮融资由华泰证券旗下伊犁苏新投资基金领投，国投（宁波）科技成果转化创业投资基金、南京道丰投资跟投，...
+ ## [“天津智港”，共赢共享!](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=0Eofe*FN7bMDR8kBxaoH-XfJJU8CwbLuYMdp*znBPPV*OIGZf-do-4B2pKtxVVEER8kzpyG8NlnymiSf3rziS75UwNDi8KO-ciVWL4GV9JmuuZ6K30jW4A2CHjskRxPz&new=1)
+ > 记者 孟若冰23日下午，第四届世界智能大会在津隆重开幕。连日来，人民日报、新华社、中央广播电视总台、光明日报、经济日报、中国日报等中央主要媒体聚焦天津，在重要版面、重点新闻节目中持续推出重头报道，美...
+ ## [“大数据”助力“智慧教育”](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=d6zTlA5Ojzt1ruSfH24jR41ZBZt8bhat6YDAHKmsEnccbNELmnnuvTt3w*rR3VdJo4xkgr6BcLsMisB*UdpRgKuS-LLueE5fGB0hs3BKu4Y=&new=1)
+ > “只需下载一个APP或小程序，家长不仅可以了解到孩子在校的课堂表现及学习情况，还能通过平台的数据分析，根据孩子对相关学科的掌握与运用等情况，智能推送名师课程、专题微课、个性化练习等学习方案…...
+ ## [三大运营商纷纷降低5G套餐门槛](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=W3DffujAYCtNNAnb305GtCqrFMBaR-k9lUFBv1bJFg6tzWQWIOmzK01FgMMEvxBLnzdUwaNsHaPxpGRqA*8fnHMmminkCxl64kiIhGKW2Z4=&new=1)
+ > 炎炎夏日，三大运营商纷纷开启夏日促销模式，将“高高在上”的5G套餐价格一举拉低到百元以下。　　率先发起降价促销的运营商是中国移动。记者登录中国移动APP发现，目前最便宜的5G套餐在折扣后的价格只要69...
+ ## [器件|中国电信首次完成多厂商5G前传 25Gb/s LWDM方案测试](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=QQh1hzj-Tffi9SitNXjW4LPnbcctvd*Pq4hvvEYFWDT9oF1d1cptDIAA5qsPPimEwm1NVi0E4qEZVH2Tdw*aZD3W571VYV9uRBzscWvI4ld9BDUO7FsbuuZII51fW3nx&new=1)
  > 新闻导读中国电信组织首次5G前传25G LWDM方案测试，迅特、极致兴通、特发(华拓)、II-VI(Finisar)等厂商25Gb/s LWDM光模块和迅特、特发、北极光电等厂商LWDM合分波器样品在各种极限条件下均完全满足相关标准要求...
- ## [\[报告\]2020大众汽车电动化转型深度研究(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=QSnDGK6Bcora10eMDfE3J8bM4Y*jA0-y6epQy8EEPmX2q11xxGNOMOs6xxhj6uKCuwp84lABYhxTKPsU4P-FgcMpnfRNevlwfiFCG*QI9J5OCzx9Oswq8H4DxSevOco8&new=1)
+ ## [\[报告\]2020大众汽车电动化转型深度研究(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=QSnDGK6Bcora10eMDfE3J8bM4Y*jA0-y6epQy8EEPmXp6rwKvPdIg5otAzyWILbk-5c6qx9qAv7hoViMZHDXybX5IKK*MAl8hjiHqCyP7tINifcUUrG6vIvBgWuHnNdi&new=1)
  > 大众电动化势在必行，目标2025年成为电动智联领先集团。大众2025新能源车销量规划300万辆，渗透率20% 。今年下半年大众即将下线首批MEB量产车型ID3。中国市场处于大众电动化战略重要地位，国产MEB供应链有望通过...
- ## [多才多艺的“虚拟主播”，你了解多少?丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=9AsT7t1fChjG7Y9c7aTp7CX3tmeURAWfywZP0XiBcFjSkeKOI4hVRaXKq*IY6j*HuisZCGfGCR0GUTNcGjniLQJ26JxP6cUaACgf7Kdd3soyIMfpsNcWFLo4K5nElNiD&new=1)
+ ## [多才多艺的“虚拟主播”，你了解多少?丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=9AsT7t1fChjG7Y9c7aTp7CX3tmeURAWfywZP0XiBcFg0z*jMdDx4wy6lPnhNZGk81CopLbV6Oj8xadkO312OjI-aQErRyb*9G6CQNhQY2*YeiU2*WO0WU7H-aKfHahp2&new=1)
  > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
- ## [传统的嵌入式C语言程序员快要灭绝了](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=6rxWyz5zACQbCo6VA1LMaXowdwk48UAlFylVt3kWgnT0CYUStWmqMneIzlJT0yhamjV1vyEZJXllZ6*wwG1r8ezMhDc4AYUPARZifIeWq9BdmpQWyfUegYRAlyOnf-3t&new=1)
+ ## [传统的嵌入式C语言程序员快要灭绝了](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=6rxWyz5zACQbCo6VA1LMaXowdwk48UAlFylVt3kWgnQGiZYbEMpreWxg04W5YttXv-QVYyGlWG4H6LR3HFbeYTwDdJw1m5sCdPEELzlJt6RlYsW4OUl15MjGJp4eb5Gf&new=1)
  > 在2000年前后，嵌入式软件工程师有着一套非常具体的技能，他们通常是电气工程师，不仅了解底层硬件的工作原理，还可以在底层编写汇编代码或者C语言代码，以使系统满足实时需求。嵌入式软件工程师不仅要了解诸如C...
- ## [世界智能大会，大咖说了啥?带你一起云采访](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=0Eofe*FN7bMDR8kBxaoH-XfJJU8CwbLuYMdp*znBPPXRwqTMwUpVt6yOQW72xbpD6ep84mWJxAIMKGHWP5*GEOzHRGl-xr7FwTtACMunkQIswl8p3s8a83IWo6EwhDIS&new=1)
+ ## [世界智能大会，大咖说了啥?带你一起云采访](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=0Eofe*FN7bMDR8kBxaoH-XfJJU8CwbLuYMdp*znBPPVGKhKJ6AM-nK8MfejCizxFg00Tql6kL9YeV8xKJSZNPuSAfgIYZQ*bYok5sTZSBDgVG1*kFmhl4pIJGRCq6V1K&new=1)
  > 6月23日下午第四届世界智能大会举办云开幕式和云主题峰会本届大会通过“云上”办会新模式举办主题为“智能新时代：创新、赋能、生态”众多大咖都前来参会他们都说了啥？咱们一起去“云”现场采访看看吧！
- ## [三大运营商5月数据：5G用户爆发增长，联通较惨](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=nGMlPY5Y*e0ALoDJH17FfSKdZGMGO6rNz0QkjKmqs7SpNBEsqetMGpCXJUbi429NH8wpTKnrLjcQXRtuzGqxdbOP*nVH3VZ4Njlhzz5E9DpAD1RW0qDJ55n94SwI5BNa&new=1)
+ ## [三大运营商5月数据：5G用户爆发增长，联通较惨](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=nGMlPY5Y*e0ALoDJH17FfSKdZGMGO6rNz0QkjKmqs7THvwU*IBgoBcBbVZ81BopphzJkHkUNbQsyc*jdm8NVGSb06YpgOWnvZBhWEk*6-FUiJq3YH7Kk*kcDsawu65CS&new=1)
  > 就在昨天，三大运营商都已公布了5月运营数据。从整体数据来看，有人欢喜有人忧。一个好消息是，业内人士表示，三大运营商5G套餐用户在5月达到9000万左右，至今已超过1亿。具体看数据如下。01移动用户变化，有人...
- ## [第四届世界智能大会在津“云”开幕 嘉宾畅谈“新基建”](http://mp.weixin.qq.com/s?src=11&timestamp=1592962206&ver=2419&signature=W3DffujAYCtNNAnb305GtCqrFMBaR-k9lUFBv1bJFg5IjJrcJUgt8pq4HmZ*XrvbkDJnD9HpT2Ng6FlB5zk7A58CjEYqq3mCn390iH-NiA0=&new=1)
+ ## [第四届世界智能大会在津“云”开幕 嘉宾畅谈“新基建”](http://mp.weixin.qq.com/s?src=11&timestamp=1592971206&ver=2419&signature=W3DffujAYCtNNAnb305GtCqrFMBaR-k9lUFBv1bJFg5qQPyEVSwp04dnNeMA0UJL5sZTbbf5BBEdBk7gtM2x*seZ8B0VpBrGorjXbi9nPdY=&new=1)
  > 新华社天津6月23日电（记者 周润健 李鲲）虚拟与现实交互并存、线上与线下同步互动……23日，第四届世界智能大会在天津“云”开幕。大会将深入探讨云计算、物联网、新一代人工智能等智能科技产业发展的创新...
 # IT 技术 
  ## [看他那台笔记本，盲猜是个程序员](https://blog.csdn.net/csdnnews/article/details/106416825)
@@ -52,52 +64,56 @@ categories: IT NEWS
  ## [程序元应该跳出了自己“舒适区”吗？](https://blog.csdn.net/qq_34337272/article/details/106877017)
  > 程序元应该跳出了自己“舒适区”吗？
 # 人工智能 
- ## [广州大学  计算机网络实验3  使用网络协议分析器捕捉和分析协议数据包  2020版](https://blog.csdn.net/weixin_43334673/article/details/106880093)
+ ## [数据库系统原理复习题目【总】](https://blog.csdn.net/VariatioZbw/article/details/106894679)
+ > 数据库系统原理复习题目【总】
+ ## [只要心中有 B-树，SQL 优化就不怵！](https://blog.csdn.net/horses/article/details/104020721)
  > 
- ## [因为看了这些书，我大二就拿了华为Offer](https://blog.csdn.net/qq_35190492/article/details/106235335)
+ ## [MySQL必备知识](https://blog.csdn.net/qq_45893999/article/details/106893789)
  > 
- ## [计算机网络基础知识（概述的简单整理）（物理层）](https://blog.csdn.net/qq1350975694/article/details/106862987)
+ ## [事务隔离：为什么你改了我还看不到？&&阅读笔记](https://blog.csdn.net/weixin_44233929/article/details/106927546)
+ > 事务隔离：为什么你改了我还看不到？&amp;&amp;阅读笔记
+ ## [MySQL主从复制搭建（一主双从）](https://blog.csdn.net/SERE0211/article/details/106899558)
  > 
- ## [2.3.2.6 Packet Tracer - Configuring PAP and CHAP Authentication](https://blog.csdn.net/weixin_44725124/article/details/106895995)
- > 2.3.2.6 Packet Tracer - Configuring PAP and CHAP Authentication
- ## [题目汇总（模电课堂设计）](https://blog.csdn.net/weixin_44908159/article/details/106904074)
- > 题目汇总（模电课堂设计）
- ## [我还是曾今那个少年（一个普通农村男孩的10年）——纪念博客访问量破10万](https://blog.csdn.net/weixin_44895651/article/details/106850369)
+ ## [安装mysql.5.7.20.zip 文件过程](https://blog.csdn.net/w1805297162/article/details/106922729)
+ > 安装mysql.5.7.20.zip 文件过程
+ ## [MySQL基础的增删查改](https://blog.csdn.net/qq_43452252/article/details/106921780)
  > 
- ## [计算机网络 华东理工大学 2020期末考试](https://blog.csdn.net/qq_33384402/article/details/106880881)
- > 计算机网络 华东理工大学 2020期末考试
- ## [中药铺主题静态网页大作业](https://blog.csdn.net/qq_44895397/article/details/106864835)
- > 中药铺主题静态网页大作业
- ## [\[秀璋带你读论文\] 拿什么来拯救我的拖延症？初学者如何提升编程兴趣及LATEX入门详解](https://blog.csdn.net/Eastmount/article/details/106886194)
+ ## [Windows环境下oracle 11g卸载(详细版)](https://blog.csdn.net/Riding_ants/article/details/106930530)
+ > Windows环境下oracle 11g卸载(详细版)
+ ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
  > 
- ## [如何才能成为年薪百万的编程高手？](https://blog.csdn.net/harvic880925/article/details/106896113)
+ ## [什么是事务？](https://blog.csdn.net/weixin_43820424/article/details/106911077)
+ > 什么是事务？
+ ## [解决maven库中没有Oracle jdbc驱动的问题Cannot resolve com.oracle:ojdbc14:10.2.0.1.0](https://blog.csdn.net/Gurs_HuaNian/article/details/106902868)
+ > 解决maven库中没有Oracle jdbc驱动的问题Cannot resolve com.oracle:ojdbc14:10.2.0.1.0
+ ## [MySQL连接报错：Access denied for user &x27Test&x27@&x27localhost&x27(Using password:YES)](https://blog.csdn.net/qq_35132089/article/details/106924802)
+ > MySQL连接报错：Access denied for user &amp;x27Test&amp;x27@&amp;x27localhost&amp;x27(Using password:YES)
+ ## [MySQL创建表的三大方式](https://blog.csdn.net/weixin_45537987/article/details/106898254)
+ > MySQL创建表的三大方式
+ ## [在数据库中获取application配置](https://blog.csdn.net/qq_20143059/article/details/106919605)
+ > 在数据库中获取application配置
+ ## [数据库原理与应用笔记（二）：关系数据库](https://blog.csdn.net/weixin_44001222/article/details/106891809)
  > 
- ## [windows7到底是多用户多任务操作系统还是单用户多任务操作系统](https://blog.csdn.net/qq_42294351/article/details/106883690)
- > windows7到底是多用户多任务操作系统还是单用户多任务操作系统
- ## [计算机网络：CSMA/CD 与 CSMA/CA](https://blog.csdn.net/SongXJ_01/article/details/106895434)
- > 计算机网络：CSMA/CD 与 CSMA/CA
- ## [毕业一年](https://blog.csdn.net/weixin_45433603/article/details/106890606)
- > 毕业一年
- ## [推荐9个能让你看一天的网站](https://blog.csdn.net/asixsixsix/article/details/105248425)
- > 推荐9个能让你看一天的网站
- ## [【图像处理】图像锐化的工作原理和算法实现（matlab实现）](https://blog.csdn.net/weixin_42429718/article/details/106902377)
- > 【图像处理】图像锐化的工作原理和算法实现（matlab实现）
 # PM 
- ## [「后浪」的我们真的都适合摆摊吗？](http://www.chanpin100.com/article/111871)
- > 你我都适合摆摊吗？互联网行业哪些人适合摆摊呢
- ## [进大厂，还是进小厂？](http://www.chanpin100.com/article/111983)
- > 到底进大厂，还是小厂？这是个问题。
- ## [从人/货/场维度，解析“直播带货”还能火多久？](http://www.chanpin100.com/article/111884)
- > 本篇文章就重点从人-货-场三个维度以具体的例子还解读和分析，直播带货这个2020年最大的风口方向，还会持续火多久。
- ## [在线视频行业能否“乘风破浪？”](http://www.chanpin100.com/article/111979)
- > 长视频像赴宴，短视频像逛街；无论长视频还是短视频平台，他们都是最顶级的“注意力商人”，他们之间的未来演化，远非我们今天可以预测。
- ## [“直播带货”到底还能火多久？（附“淘宝直播”平台体验分析）](http://www.chanpin100.com/article/111885)
- > 直播带货的热度一路飙升，而近段时间老罗宣布做直播带货，更是炒热了人们的关注与讨论。于是本文也来聊聊直播带货为什么能火、还能活多久，以及以淘宝直播为例分析直播带货平台的体验感受。
- ## [如何从0到1设计一款产品？](http://www.chanpin100.com/article/111985)
- > 有收藏价值
- ## [开发到底需要一份怎样的需求文档？](http://www.chanpin100.com/article/111986)
- > 能够减少甚至免除在开发过程中技术人员跟产品经理沟通的文档就是好的文档
- ## [数据分析产品从可视化到智能化：快速分析订单量为什么下降了](http://www.chanpin100.com/article/111991)
- > 以各大企业业务团队和分析师团队经常会遇到的问题「今天订单量为什么下降了」，来分享下数据产品应该如何快速、高效、直接地回答业绩波动的问题，并且以产品的方式统一方法论、拉齐分析水平。
+ ## [产品经理经典面试题整理：问题拆解与回答思路](http://www.chanpin100.com/article/111886)
+ > 关于1-3年产品经理面试题的拆解和回答思路
+ ## [微信“拍一拍”，社交基因中的触觉尝试！](http://www.chanpin100.com/article/112000)
+ > 张小龙曾说：“每天有 5 亿人吐槽微信，有 1 亿人在教我做产品。”
+ ## [京造之困](http://www.chanpin100.com/article/112007)
+ > 突如其来的COVID-19像只紧紧咬住裤脚的小狗，拖慢了消费升级的脚步，品质电商的河流里还有多少水量，并将流向何方？
+ ## [产品经理的底层逻辑：理解“研究对象的不可重复性”](http://www.chanpin100.com/article/112010)
+ > 什么是研究对象的不可重复性，理解它是做好产品工作的认知前提
+ ## [看完这些大神的设计，就明白插画为什么会火了](http://www.chanpin100.com/article/112012)
+ > 和小摹一起看看插画是如何在APP设计和网页设计中大放异彩的吧~
+ ## [玩社群4年，聚集10000+产品经理，我是这么看待社群的~](http://www.chanpin100.com/article/112013)
+ > 建一个群，认识一堆朋友~
+ ## [数字服务体验设计与银行类产品之间的秘密，不来看看吗](http://www.chanpin100.com/article/112014)
+ > 从实际银行项目设计中总结与服务设计之间的联系
+ ## [体验设计师总结过的实战设计思考，让你少走弯路](http://www.chanpin100.com/article/112015)
+ > 个人工作设计方法总结
+ ## [要想运营活动数据好看，就必须玩起来](http://www.chanpin100.com/article/112016)
+ > 游戏化在运营活动设计中的运用
+ ## [直播3.0时代，你还没参战吗？|2020年1季度中国娱乐直播行业观察](http://www.chanpin100.com/article/112017)
+ > 简介：千播大战的硝烟尚未远去，2020年疫情突现，则似乎让“直播3.0”时代提前到来。直播行业用户规模增长明显，季度同比增量达16.18%，一部分源于疫情时期的挤压，另方面，“后直播大战”时代则在疫情前便已展开。
 
     
