@@ -1,19 +1,25 @@
 ---
 title: 2020-06-27 IT News
 copyright: true
-date: 2020-06-27 10:01:53
+date: 2020-06-27 12:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [极客荐|收好这 8 款 Chrome 扩展，让你的工作效率翻一番](http://mp.weixin.qq.com/s?src=11&timestamp=1593223206&ver=2425&signature=P2LpI5h33dBl3m3UGljGSbUda0NTFNFsajxSLxcc3*loZ2C4A1Tc6A*sI9UyCeOUfe0Jn8wTwujKcQmobN*ZVS*SLSrEMDXJJxf5nhcfcAoj*thaNaIZdch8mPlcIWas&new=1)
- > 长截图、清爽版百度、最快 16 倍速视频播放……上期推荐中我们给大家介绍了 15 款 Chrome 扩展，它们可以大幅提高工作学习效率。这次我们新增加了一些内容，向大家推荐更多好用的 Chrome 扩展，包括一款精致的新...
- ## [运营商入股设备商，这是什么玩法?](http://mp.weixin.qq.com/s?src=11&timestamp=1593223206&ver=2425&signature=Zn3JwAH2caUTKcEWr89bzSCI6AKn1D-q6st3rQDqQKUCmA1LNiLPg*KAHLCUW5q3SpRGbVo*KO4n0qsgsTU0TZLjnrZwgOl4TC6vT*-4ncmKCS2dtt5y4k0pcjaaJSot&new=1)
+ ## [2020TCT盛大开展，国家增材制造创新中心邀你参观](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=UhPS9PJkraKLwyvVsCsHf8eFmsAT4i7e27Lke7sxgqkjmG8YoiaCtQHozbW*kU86iFimPIhBtnn-fUanF9dghHIySU00DixDTnLa0AjF0a9XPWNaT2PNp1sfteLE2qrH&new=1)
+ > 关于国家增材制造创新中心2020年已经注定是不平凡的年份。这一年的疫情肆虐，冲击着每个行业的生存和发展，所有人都在经受前所未有的挑战！增材制造领域也在诸多因素的影响下，在努力突破技术瓶颈的同时，与行业...
+ ## [全是干货!汽车行业537篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=7HvSJgfovx22lVl6U7QJUPrQ01r6BYHPuBNVwmI4DvoMsdngAJ8bVTuS6iOweEizwu1nLKtjmJe5jwusR4c6F0ErZsEThuMyRzZ1NqBRmE3UpF8WOLwRER0--BZA*tx0&new=1)
+ > 汽车行业537篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享537份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [运营商入股设备商，这是什么玩法?](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=Zn3JwAH2caUTKcEWr89bzSCI6AKn1D-q6st3rQDqQKVSz2KMB4vh9ExxP6A5MENNDkyYzowRx-vhCtbnNq4ektgrXxsF8voq2r34mAYrZ3GpC2K1CgO4hzNJxGM0j0fZ&new=1)
  > 6月25日，日本通信界爆出大新闻，日本首屈一指的运营商巨头NTT收购NEC近5%的股份。这笔交易价值600亿日元（折合5.62亿美元）。交易完成后，NTT将成为NEC的第三大股东。一家运营商入股一家设备商，这是什么玩法？...
- ## [三层四面 安全内生：中国移动研究院首席专家详解6G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1593223206&ver=2425&signature=ECicFUYxry3SNJWbsOmm26tT2M7ED*UXzClHUxG8Yq2BpyfzTwzeEajMSUE*ALfYTq8qQJouNMy8moUeaucgmvbudczDsfp05ZeLs8mqNdUb0O8LKnGM2YM-e3KuXB*a&new=1)
+ ## [瑞幸咖啡两度触发熔断；刘强东重任京东数科董事长；微软永久关闭几乎所有零售店|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=CRCuyn1SADflHRxMzvpnThwVEfg4FaMU8JrDLioNp*CsH2HCow3F7MmYqidXVTIME8uyWm8YTiGpyj4PpxmjuAQ-X7hh44blDrXprzUiHSG7Pq*ZxCSYuLrNZ7wBaF4t&new=1)
+ > Hello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【瑞幸咖啡两度触发熔断】昨晚21:32分，瑞幸咖啡盘中触发熔断。随后恢复交易后跌23%。21:39分，瑞幸咖啡盘中第二次向下触发熔断，熔断前跌幅为30...
+ ## [三层四面 安全内生：中国移动研究院首席专家详解6G网络](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=ECicFUYxry3SNJWbsOmm26tT2M7ED*UXzClHUxG8Yq0b*nROqVrL2ej3BkDGg7LmYqHz0lBdJF34iS*Q-KDacLpVUPcSZLcMIeJuxm91FO3ThS16CZGl5eYCqDGZTcUr&new=1)
  > 为加快响应国家5G新基建政策，践行央企责任，进一步推动信息产业发展，中国移动于6月17日至21日以“共赢、合作、开放、创新”为主题，举办“创新2020云上科技周”系列活动。在今天举行的6G系列研讨会上，中国移...
- ## [全球加速，中美抢跑，这是下一场不能输的科技新战争](http://mp.weixin.qq.com/s?src=11&timestamp=1593223206&ver=2425&signature=11kIpp3dcxusZTQKYWiHjo1k2ABBxOq9H9Lx9IXw8Pl-ZY5OZlC1pz*jNNvb77xEztKM6vG3YE*EAvRh9oP8nhNn4YzP3SYARb0J3-AMRQorR2oNigb9qM8Rgh7DiHcF&new=1)
+ ## [全球加速，中美抢跑，这是下一场不能输的科技新战争](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=11kIpp3dcxusZTQKYWiHjo1k2ABBxOq9H9Lx9IXw8Pn81SyzlE2KAzSFhCXGFnR71MKXyPcPTka0rPJqqkHq-wWWPBcTYVgzdRC5OGY5YqZBV20Ex2*RKPBPWHR5ri*0&new=1)
  > 智能时代的“兵家必争之地”。作 者丨华商韬略研究院 陈石磊华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意1987年，一辆安装了一排摄像头的奔驰面包车，...
+ ## [极客荐|收好这 8 款 Chrome 扩展，让你的工作效率翻一番](http://mp.weixin.qq.com/s?src=11&timestamp=1593230405&ver=2425&signature=P2LpI5h33dBl3m3UGljGSbUda0NTFNFsajxSLxcc3*la5ARaFbfWKINPMi9WivQj5kpBK*BJGGcmpYHl-1nIng8ovz0UFQ-6YvFKe4hOh8OleI*GJ38oMu0r1cy8pHLw&new=1)
+ > 长截图、清爽版百度、最快 16 倍速视频播放……上期推荐中我们给大家介绍了 15 款 Chrome 扩展，它们可以大幅提高工作学习效率。这次我们新增加了一些内容，向大家推荐更多好用的 Chrome 扩展，包括一款精致的新...
 # IT 技术 
  ## [疫情后北上广深租房价格跌了吗？ | Alfred数据室](https://blog.csdn.net/weixin_38753103/article/details/105501722)
  > 疫情后北上广深租房价格跌了吗？ | Alfred数据室
@@ -46,35 +52,35 @@ categories: IT NEWS
  ## [构建mybatis源码](https://blog.csdn.net/dataiyangu/article/details/104750971)
  > 构建mybatis源码
 # 人工智能 
- ## [《UnityAPI.AnimationCurve动画曲线》（Yanlz+Unity+SteamVR+云技术+5G+AI+VR云游戏+AnimationCurve+Addkey+立钻哥哥++OK++）](https://blog.csdn.net/VRunSoftYanlz/article/details/106952329)
- > 《UnityAPI.AnimationCurve动画曲线》（Yanlz+Unity+SteamVR+云技术+5G+AI+VR云游戏+AnimationCurve+Addkey+立钻哥哥++OK++）
- ## [数据要素市场需要基于区块链3.0新技术来形成新基建](https://blog.csdn.net/slivegogo/article/details/106940865)
- > 数据要素市场需要基于区块链3.0新技术来形成新基建
- ## [什么是城市大脑 什么是智慧城市](https://blog.csdn.net/datamining2005/article/details/106936639)
- > 什么是城市大脑 什么是智慧城市
- ## [nginx判断移动端还是pc端分别转发不同地址](https://blog.csdn.net/z858466/article/details/106944238)
- > nginx判断移动端还是pc端分别转发不同地址
- ## [公认实力最强的5部旗舰，第一款不可否认，第四没有争议](https://blog.csdn.net/m0_48425862/article/details/106946259)
- > 公认实力最强的5部旗舰，第一款不可否认，第四没有争议
- ## [看filecoin是有多么的赤手可热，大佬华为入场ipfs](https://blog.csdn.net/w1w2w3w4w5lijiao/article/details/106940044)
- > 看filecoin是有多么的赤手可热，大佬华为入场ipfs
- ## [无线网络架构及规划](https://blog.csdn.net/weixin_48191138/article/details/106958379)
- > 无线网络架构及规划
- ## [展望UWB技术](https://blog.csdn.net/xiatianxy/article/details/106947361)
- > 展望UWB技术
- ## [3498元起搭配骁龙765G的vivoX50，还是高价低配的味道](https://blog.csdn.net/zzqq12345/article/details/106960039)
- > 3498元起搭配骁龙765G的vivoX50，还是高价低配的味道
- ## [华为初级网络工程师（HCIA）（二）——网络基础](https://blog.csdn.net/I_AM_WORRY/article/details/106958374)
- > 华为初级网络工程师（HCIA）（二）——网络基础
- ## [【tools】从1G到 4G 5G究竟发生了哪些变化？？](https://blog.csdn.net/weixin_43988131/article/details/106958635)
- > 【tools】从1G到 4G 5G究竟发生了哪些变化？？
- ## [北京“新基建”方案发布 八大关键词全方位解析](https://blog.csdn.net/slivegogo/article/details/106952654)
- > 北京“新基建”方案发布 八大关键词全方位解析
- ## [边缘计算与雾计算的区别](https://blog.csdn.net/sinat_30815943/article/details/106954642)
- > 边缘计算与雾计算的区别
- ## [已过CE/FCC认证USB接口WiFi模块WG209应用选型参考](https://blog.csdn.net/QQ42142951/article/details/106949090)
- > 已过CE/FCC认证USB接口WiFi模块WG209应用选型参考
- ## [九合创投王啸演讲：5G 时代下的产业变革机会](https://blog.csdn.net/llawliet0001/article/details/106950238)
- > 九合创投王啸演讲：5G 时代下的产业变革机会
+ ## [HBase学习提纲：助你一臂之力](https://blog.csdn.net/Newbie___/article/details/106958585)
+ > 
+ ## [Python 快速绘制漂亮的系统架构图](https://blog.csdn.net/u010751000/article/details/106975125)
+ > 
+ ## [docker私有仓库harbor搭建](https://blog.csdn.net/yuanshangshenghuo/article/details/106840584)
+ > docker私有仓库harbor搭建
+ ## [cloudera-manager-el6-cm5.7部署流程，及踩坑过程和解决方案](https://blog.csdn.net/as4589sd/article/details/106972226)
+ > cloudera-manager-el6-cm5.7部署流程，及踩坑过程和解决方案
+ ## [【Hive】Hive基本操作](https://blog.csdn.net/weixin_38220799/article/details/106961547)
+ > 【Hive】Hive基本操作
+ ## [云计算基础与应用 第三章 云服务器](https://blog.csdn.net/weixin_43757333/article/details/106963233)
+ > 云计算基础与应用 第三章 云服务器
+ ## [数据分析之常见图表类型与应用](https://blog.csdn.net/weixin_45414490/article/details/106950847)
+ > 数据分析之常见图表类型与应用
+ ## [CDH快速入门系列(2) | CM集群安装](https://blog.csdn.net/qq_16146103/article/details/106289219)
+ > 
+ ## [hive远程模式搭建](https://blog.csdn.net/weixin_46376562/article/details/106971385)
+ > hive远程模式搭建
+ ## [大数据【企业级360°全方位用户画像】基于RFE模型的挖掘型标签开发](https://blog.csdn.net/weixin_44318830/article/details/106961479)
+ > 
+ ## [Zookeeper学习提纲：助你一臂之力](https://blog.csdn.net/Newbie___/article/details/106958629)
+ > 
+ ## [使用VMware安装linux的centos7系统](https://blog.csdn.net/sun_0128/article/details/106954997)
+ > 使用VMware安装linux的centos7系统
+ ## [Redis与缓存](https://blog.csdn.net/i_silence/article/details/106965844)
+ > 
+ ## [《大数据大创新：阿里巴巴云上数据中台之道》：解密阿里数据中台建设之道](https://blog.csdn.net/BeiisBei/article/details/106916236)
+ > 
+ ## [Hadoop实现KNN算法](https://blog.csdn.net/weixin_43622131/article/details/106966924)
+ > 
 
     
