@@ -1,32 +1,34 @@
 ---
 title: 2020-06-29 IT News
 copyright: true
-date: 2020-06-29 08:00:51
+date: 2020-06-29 09:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [组合操作：中国电信加大对内训师管理力度!](http://mp.weixin.qq.com/s?src=11&timestamp=1593387006&ver=2429&signature=0z05R0g4YpNQbGRMB0X7Fn9JLuntlj4VXaUeGyXbrPh7z0*1Pypl7Hqu-ZmYzHXKjCis9AKHn-fwnX3vA3kTeqGwPPOY2wtJh1cHqo1H2HNdw5QbrCKgLIN5n*Ejk3Pl&new=1)
+ ## [组合操作：中国电信加大对内训师管理力度!](http://mp.weixin.qq.com/s?src=11&timestamp=1593392405&ver=2429&signature=0z05R0g4YpNQbGRMB0X7Fn9JLuntlj4VXaUeGyXbrPgVY3kPO85LiVpDgADvfg0WaeSPq8tPG14Hs3b-otX1DnixX5PEbdrt1ihQ1OuJjhRLyTX6j7qH-5lhzzRT3HNu&new=1)
  > 来源 运营商财经网 吴碧慧近日，中国电信培训制度曝光，其中尤为重视选拔集团级内训师，甚至还分多个等级。重视内训师选拔据悉，充分发挥内训师在组织学习中的作用，加强集团级内训师队伍建设，中国电信根据《中...
- ## [小米官宣造车真相：认真做了一辆智能遥控车 众筹价179元](http://mp.weixin.qq.com/s?src=11&timestamp=1593387006&ver=2429&signature=RxXAqsG0HYVSCNXMw0YyG1zxHETynz67jxE3L50Vz15yvIP4yh4r-BICJg*2gUy4LyoINGcjKRWy0DO5rM4s*Glg0zwWDpRfFQfA4qKNTObH-4hFxDj3T-CsrlUA56kx&new=1)
- > 今天早晨，小米商城微博发布了一则主题为“造车？我们是认真的!”的海报，海报中显示了一辆越野车的轮廓。此举点燃了网友们的热情，小米汽车真的要来了吗？　然而，事实的真相来得比“小米汽车”快得多。认真造...
- ## [2020年7月8-10号上海TCT亚洲3D打印展 团体赠票活动](http://mp.weixin.qq.com/s?src=11&timestamp=1593387006&ver=2429&signature=Uwbc-GLjfeW9q-0WthD80ArmylA4um94jKSCNKtJdGs*kFAtIFOpqePmMMFK-rjyW2R-GKSWVnMBxflO94-lMMYgbMX-BRE7Kq5gPfjo6bMXlkSq4HyazVaAjXnPFy1s&new=1)
+ ## [2020年7月8-10号上海TCT亚洲3D打印展 团体赠票活动](http://mp.weixin.qq.com/s?src=11&timestamp=1593392405&ver=2429&signature=Uwbc-GLjfeW9q-0WthD80ArmylA4um94jKSCNKtJdGvqGxbslB81LQdredtFaQrrnNWJbijU1Z1K3pwKq-5adwc3EOtp1EiX3QDYpMkinAjzPI7J0mMhbOqLVEcWFhRr&new=1)
  > 团体参观预登记可获电子门票，免去现场50元门票报名请将列表发送至微信：xiaozhiasst 您将在展前一周收到确认短信，凭短信码换证入场。展...
- ## [再见，微软!](http://mp.weixin.qq.com/s?src=11&timestamp=1593387006&ver=2429&signature=3FF8IBauh6oGRZzHMTaXPuYPUZHIA9*HDK-206qUxVhmxGaMd-GVG03eIJxZqq4z9Y3M1JZim-5BuTqqUfiu3KSTcdnW9Cd6JCx*AjObn8qae53Suplo1QddgLCLge5c&new=1)
+ ## [再见，微软!](http://mp.weixin.qq.com/s?src=11&timestamp=1593392405&ver=2429&signature=3FF8IBauh6oGRZzHMTaXPuYPUZHIA9*HDK-206qUxVhq*t1HqJ5DHXikezReLW8Psqvn6DVRzwTNljiBlibECvG-hNiPdJR-f0CT9Ur0Sqh7xkSya2QQ1F*pmqjbu1pw&new=1)
  > 来源｜每日经济新闻当地时间周五，美国互联网巨头微软在官网发布声明表示，计划永久关闭全球几乎所有微软商店（共83家），仅留下四个地点将继续开放。保留的这四家分别在纽约市 (第五大道)、伦敦 (牛津广场)、悉...
+ ## [小米官宣造车真相：认真做了一辆智能遥控车 众筹价179元](http://mp.weixin.qq.com/s?src=11&timestamp=1593392405&ver=2429&signature=RxXAqsG0HYVSCNXMw0YyG1zxHETynz67jxE3L50Vz15lHdO5Xf19t4YNdV2Mrhjw0XEL01AgUtwx9dBq4j0Sa8Q4pDsU3jdHF2onurkjHb1T9oXHv63iOYAatUmh2bpP&new=1)
+ > 今天早晨，小米商城微博发布了一则主题为“造车？我们是认真的!”的海报，海报中显示了一辆越野车的轮廓。此举点燃了网友们的热情，小米汽车真的要来了吗？　然而，事实的真相来得比“小米汽车”快得多。认真造...
 # IT 技术 
  ## [专升本，学历毁了我的一生！](https://blog.csdn.net/harvic880925/article/details/106050074)
  > 专升本，学历毁了我的一生！
  ## [【C进阶3-3】C集合、泛型](https://blog.csdn.net/q764424567/article/details/106195455)
  > 
- ## [今天一不小心，把抖爸爸给爬了](https://blog.csdn.net/meteor_93/article/details/106599061)
- > 
  ## [程序员必备基础：Git 命令全方位学习](https://blog.csdn.net/weiwenhou/article/details/106985423)
+ > 
+ ## [今天一不小心，把抖爸爸给爬了](https://blog.csdn.net/meteor_93/article/details/106599061)
  > 
  ## [正点原子：STM32F103(战舰)、STM32F407(探索者)、STM32F103(MINI)原理图和PCB](https://blog.csdn.net/m0_38106923/article/details/105507416)
  > 
  ## [在线检测你的密码是否被泄露](https://blog.csdn.net/qq_23936389/article/details/106009977)
  > 在线检测你的密码是否被泄露
+ ## [IDEA使用指北](https://blog.csdn.net/qq_43371556/article/details/106873343)
+ > 
  ## [推荐三个 Vue 后台管理模版，配合 Spring Boot 使用真香！](https://blog.csdn.net/u012702547/article/details/106011367)
  > 推荐三个 Vue 后台管理模版，配合 Spring Boot 使用真香！
  ## [Vue + Spring Boot 项目实战（十九）：Web 项目优化解决方案](https://blog.csdn.net/Neuf_Soleil/article/details/104763090)
@@ -34,8 +36,6 @@ categories: IT NEWS
  ## [程序员不能说自己不行啊](https://blog.csdn.net/qing_gee/article/details/106958009)
  > 程序员不能说自己不行啊
  ## [CSDN 总部落户长沙，共建中国开发者产业中心城市！](https://blog.csdn.net/csdnnews/article/details/106024812)
- > 
- ## [IDEA使用指北](https://blog.csdn.net/qq_43371556/article/details/106873343)
  > 
  ## [程序员请照顾好自己，周末病魔差点一套带走我。](https://blog.csdn.net/qq_35190492/article/details/103657160)
  > 程序员请照顾好自己，周末病魔差点一套带走我。
@@ -46,36 +46,36 @@ categories: IT NEWS
  ## [MyBatis技术原理浅析：使用MyBatis+Druid连接MySQL数据库](https://blog.csdn.net/qq_25827845/article/details/95763605)
  > MyBatis技术原理浅析：使用MyBatis+Druid连接MySQL数据库
 # 人工智能 
- ## [unity3D之实现一个简单的UI框架](https://blog.csdn.net/maybe_ice/article/details/106984803)
+ ## [高效拼接字符串，你会用 “+” 还是StringBuilder.append？](https://blog.csdn.net/qq_39390545/article/details/106975969)
  > 
- ## [阿里云在家实践——Class5 Jerry的考验](https://blog.csdn.net/qq_42094066/article/details/106978658)
- > 阿里云在家实践——Class5 Jerry的考验
+ ## [韩国LG集团疑被勒索软件攻击，数据和代码或将泄露](https://blog.csdn.net/blackorbird/article/details/106977399)
+ > 韩国LG集团疑被勒索软件攻击，数据和代码或将泄露
  ## [「视频」使用AI快速产出有趣的动画短视频](https://live.csdn.net/v/20865)
  > 「视频」使用AI快速产出有趣的动画短视频
- ## [Qt之塔防游戏 c++ （三）](https://blog.csdn.net/m0_47055280/article/details/106956412)
- > Qt之塔防游戏 c++ （三）
- ## [\[编程启蒙游戏\] 1. 猜数字](https://blog.csdn.net/qq_21201267/article/details/106973098)
- > \[编程启蒙游戏\] 1. 猜数字
- ## [循环链表解决约瑟夫循环问题](https://blog.csdn.net/qq_45049373/article/details/106975894)
- > 循环链表解决约瑟夫循环问题
- ## [随机点名器精简html版](https://blog.csdn.net/futurism_/article/details/106938548)
- > 随机点名器精简html版
- ## [使用Jetbrains Rider进行Unreal C++开发](https://blog.csdn.net/weixin_41929180/article/details/106968355)
- > 使用Jetbrains Rider进行Unreal C++开发
- ## [排序算法-希尔排序(移位式)](https://blog.csdn.net/amazinga/article/details/106978006)
- > 排序算法-希尔排序(移位式)
- ## [ZOJ 1217 Eight(单向BFS+map）](https://blog.csdn.net/weixin_43838723/article/details/106974873)
- > ZOJ 1217 Eight(单向BFS+map）
- ## [基于Pierre Dellacherie算法的俄罗斯方块机器人](https://blog.csdn.net/wjl_zyl_1314/article/details/106971460)
- > 基于Pierre Dellacherie算法的俄罗斯方块机器人
- ## [511遇见易语言API模块进程创建CreateProcess](https://blog.csdn.net/zcp528/article/details/106979367)
- > 511遇见易语言API模块进程创建CreateProcess
- ## [用JAVA编程实现斗地主小游戏（建牌，发牌，选地主，排序）](https://blog.csdn.net/qq_44785351/article/details/106986752)
- > 用JAVA编程实现斗地主小游戏（建牌，发牌，选地主，排序）
- ## [公因子(gcd性质)](https://blog.csdn.net/weixin_45750972/article/details/106980276)
- > 公因子(gcd性质)
- ## [unity 浅谈MonoBehaviour](https://blog.csdn.net/qq448545478/article/details/106960307)
+ ## [DASCTF&NepCTF 部分writeup](https://blog.csdn.net/weixin_44145820/article/details/106974426)
  > 
+ ## [NMAP常见命令总结](https://blog.csdn.net/weixin_45551083/article/details/106967465)
+ > 
+ ## [操作系统2.4.3 避免死锁（银行家算法）](https://blog.csdn.net/dyw_666666/article/details/106976257)
+ > 操作系统2.4.3 避免死锁（银行家算法）
+ ## [网络信息安全-QQ密码窃取](https://blog.csdn.net/weixin_46464021/article/details/106951655)
+ > 网络信息安全-QQ密码窃取
+ ## [threeJs导入3D皮卡丘.obj模型，使用.jpg贴图，实现缩放旋转查看功能](https://blog.csdn.net/Charissa2017/article/details/106982027)
+ > threeJs导入3D皮卡丘.obj模型，使用.jpg贴图，实现缩放旋转查看功能
+ ## [ArrayList 源码](https://blog.csdn.net/lik_lik/article/details/106987521)
+ > 
+ ## [阿里云免费证书ssl的部署](https://blog.csdn.net/weixin_45012003/article/details/106979238)
+ > 阿里云免费证书ssl的部署
+ ## [Tomcat 又爆出高危漏洞！Tomcat 8.5 ～ 10 中招…](https://blog.csdn.net/Javajiaojiaozhe/article/details/106985070)
+ > Tomcat 又爆出高危漏洞！Tomcat 8.5 ～ 10 中招…
+ ## [博客搭建详解(三)-Node.js+自动化部署+邮件提醒](https://blog.csdn.net/weixin_40251892/article/details/106985608)
+ > 
+ ## [redis相关问题------缓存穿透,缓存雪崩,缓存击穿](https://blog.csdn.net/qq_18361601/article/details/106985793)
+ > redis相关问题------缓存穿透,缓存雪崩,缓存击穿
+ ## [多线程控制类-AtomicInteger原子类解决非原子操作问题](https://blog.csdn.net/m0_46266503/article/details/106985611)
+ > 多线程控制类-AtomicInteger原子类解决非原子操作问题
+ ## [antd-vue上传组件踩坑记录](https://blog.csdn.net/weixin_44359036/article/details/106987143)
+ > antd-vue上传组件踩坑记录
 # PM 
  ## [职场努力工作真能让你进步吗？](http://www.chanpin100.com/article/112045)
  > 人的时间和精力是有限的，你在不重要的事情上花的多，你在重要的事情上投入的自然就少，结果产生的价值必然也会少，老板给你的定义就是没有努力工作，哪怕你天天熬夜通宵加班也白搭，因为，再别人看来你是瞎忙，还没取得什么成效。
