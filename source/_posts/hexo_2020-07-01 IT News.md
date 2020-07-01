@@ -1,107 +1,119 @@
 ---
 title: 2020-07-01 IT News
 copyright: true
-date: 2020-07-01 08:00:54
+date: 2020-07-01 09:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电信牵头《5G SA部署指南》全球首发!柯瑞文：5G SA是云网融合最佳实践](http://mp.weixin.qq.com/s?src=11&timestamp=1593559806&ver=2433&signature=MV0vRUV1YObaIbxFSQwOH52keenBRMfhICKDYqdD6MaKzlGHcMQgJZ0Pi*NFgmDAme*Q*zBEzMsk5yVqG4*A*xPuXQj5y-LmTeOPPJLm25FNFb2RjJmOQG3OGKZUD6s1&new=1)
- > 30秒快读1GSMA Thrive大会第一天传来好消息，全球第一份面向5G SA规模部署的系统指导文件《5G SA部署指南》发布，这份指南由中国电信牵头全球5G产业链共同制定。2中国电信董事长柯瑞文表示，5G SA是云网融合的最...
- ## [全球首发《5G SA部署指南》：中国电信打造云网融合最佳实践\[附PDF下载\]](http://mp.weixin.qq.com/s?src=11&timestamp=1593559806&ver=2433&signature=QYgMwBDtsoWMKEqbRCVLCDAcFYIyKGPPzn*ndsnXTjpHfq4LTboNMgY8GRrP*GDNOg9sI5INnjSt8BAPG7EeFyRmd30oqyxXcNm0zkGq6nB87Hib98Z6K6BPzVtHmsK*&new=1)
- > 在今日举行的“GSMA Thrive·万物生晖”线上会上，中国电信董事长柯瑞文发表题为《5G SA：云网融合的新型信息基础设施最佳实践》的主题演讲。柯瑞文强调，5G SA不仅是网络技术演进，更是一场影响深远的变革，对...
- ## [移动公司7岗，税后20W+，更令人羡慕的是..](http://mp.weixin.qq.com/s?src=11&timestamp=1593559806&ver=2433&signature=Kid6Lr8*bKYL*5cl8xOSvuIVL7DfegOutpglByrU0MmsJVn*0RpVHuKCnqURXPNXxJ**watc62iGhL0CxxB3JmghfzaiQpTSjUWx8D0fnvAwv*P*DUiZ9myJ4t5SkxIA&new=1)
- > 某地的待遇，仅供参考某网友吐槽：北京，中国移动集团总部7岗，税后20+，签约最后一刻放弃了！原因是买不起房，上班可能会太奔波！这待遇已经很让人羡慕了，结果下面的网友留言，让人就更羡慕了：都是牛人啊！但...
- ## [智能制造的核心在于研发的智能化!](http://mp.weixin.qq.com/s?src=11&timestamp=1593559806&ver=2433&signature=GFfhI-aHToiMfJCWbg1yxcbEgHb9BLWTWp2iecVzXeOopCtmS*moItQyDjELxxamApmiafgYPG0XocKopT*XzYEGRP-h0*KQIzFI0ejIlAidWc8ykBLD*X*W5cvdFzM8&new=1)
+ ## [智能制造的核心在于研发的智能化!](http://mp.weixin.qq.com/s?src=11&timestamp=1593563406&ver=2433&signature=GFfhI-aHToiMfJCWbg1yxcbEgHb9BLWTWp2iecVzXeNYUQQWF7U4zceIqSYIGi0weai4n3n1OjRnjApPp7-rdjnJTiVE*u7qFd9IETXOVn8dmFTQWkx0ER4Se0wylJKp&new=1)
  > 导读：研发是创新的源泉，工业发展没有研发不行......文/ 中国航空工业集团信息技术中心原首席顾问 宁振波当前全球经济体系正面临着深刻变革和重构，以云计算、大数据、人工智能及5G通讯技术为代表的新兴技术蓬...
- ## [首都在线明日上市：国内唯一成功转型“IDC+云计算”](http://mp.weixin.qq.com/s?src=11&timestamp=1593559806&ver=2433&signature=Ik63i2WmJDY02qY59Z1Z-enNWEuiZ3Jr9fd1W0kkIKSe-cjlTqUoapNjwz4QxXnrxePA4QksAp483fgD3wgM6K5JLdYNGinR0ErGJe5pyCl18qzGlMrmmNad7dBbbsV1&new=1)
+ ## [移动公司7岗，税后20W+，更令人羡慕的是..](http://mp.weixin.qq.com/s?src=11&timestamp=1593563406&ver=2433&signature=Kid6Lr8*bKYL*5cl8xOSvuIVL7DfegOutpglByrU0MmPF0nOLGc0JiT6EC-B2l7Tp0Raurnd*842fGNadoTawV8eqgaPz2F898Pzr3Llw86A5TwvaSmjo0TJJxCpABvi&new=1)
+ > 某地的待遇，仅供参考某网友吐槽：北京，中国移动集团总部7岗，税后20+，签约最后一刻放弃了！原因是买不起房，上班可能会太奔波！这待遇已经很让人羡慕了，结果下面的网友留言，让人就更羡慕了：都是牛人啊！但...
+ ## [中国电信牵头《5G SA部署指南》全球首发!柯瑞文：5G SA是云网融合最佳实践](http://mp.weixin.qq.com/s?src=11&timestamp=1593563406&ver=2433&signature=MV0vRUV1YObaIbxFSQwOH52keenBRMfhICKDYqdD6MYNXuI5trnrFbqElmm8r1Pg-H9l9q7kZ8c0Lao6tXY7i*HFyBXR8-uhpfzi4JOPRysdtHRkRqe9GbkRcqfva8Of&new=1)
+ > 30秒快读1GSMA Thrive大会第一天传来好消息，全球第一份面向5G SA规模部署的系统指导文件《5G SA部署指南》发布，这份指南由中国电信牵头全球5G产业链共同制定。2中国电信董事长柯瑞文表示，5G SA是云网融合的最...
+ ## [全球首发《5G SA部署指南》：中国电信打造云网融合最佳实践\[附PDF下载\]](http://mp.weixin.qq.com/s?src=11&timestamp=1593563406&ver=2433&signature=QYgMwBDtsoWMKEqbRCVLCDAcFYIyKGPPzn*ndsnXTjpEngJFGRYFEa3oJYCD7fOHcTm615A7J9J0ZlZMrUAno11QceQMTpmb0*PYdXthQDVK3RZFKCB0ZbD8uSlRyl8v&new=1)
+ > 在今日举行的“GSMA Thrive·万物生晖”线上会上，中国电信董事长柯瑞文发表题为《5G SA：云网融合的新型信息基础设施最佳实践》的主题演讲。柯瑞文强调，5G SA不仅是网络技术演进，更是一场影响深远的变革，对...
+ ## [首都在线明日上市：国内唯一成功转型“IDC+云计算”](http://mp.weixin.qq.com/s?src=11&timestamp=1593563406&ver=2433&signature=Ik63i2WmJDY02qY59Z1Z-enNWEuiZ3Jr9fd1W0kkIKSxBQx4QyoMnzddCFxCu4d2Q9T3PFsIxIq*TJKUwGwjPYdhZiOM-kRLuSXRcP-ESy4W3I1AD1D1i*D9brI62fT7&new=1)
  > 文 | 挖贝网 周义明天，A股创业板将迎来一颗云计算领域的明星——北京首都在线科技股份有限公司（股票简称：首都在线，股票代码：300846）。据悉，首都在线是国内唯一由IDC成功转型IDC+云计算，并拥有自主云服务...
 # IT 技术 
  ## [11种最佳CSS框架](http://developer.51cto.com/art/202007/619957.htm)
  > 11种最佳CSS框架
- ## [低代码/无代码是应用软件开发的未来吗？](http://developer.51cto.com/art/202007/619956.htm)
- > 低代码/无代码是应用软件开发的未来吗？
- ## [不懂高并发，薪资凉半截！](http://developer.51cto.com/art/202006/619877.htm)
- > 不懂高并发，薪资凉半截！
- ## [新基建为物联网发展按下快进键](http://iot.51cto.com/art/202006/619800.htm)
- > 新基建为物联网发展按下快进键
- ## [专访RPA头部玩家 UiPath：“人手一台机器人”的时代终将到来](http://ai.51cto.com/art/202006/619815.htm)
- > 专访RPA头部玩家 UiPath：“人手一台机器人”的时代终将到来
- ## [数据库连接池引起的FullGC问题，看我如何一步步排查、分析、解决](http://news.51cto.com/art/202006/619791.htm)
- > 数据库连接池引起的FullGC问题，看我如何一步步排查、分析、解决
- ## [推荐算法集锦（补充）――近邻选择与算法拓展](http://developer.51cto.com/art/202006/619819.htm)
- > 推荐算法集锦（补充）――近邻选择与算法拓展
- ## [5G承载网络切片管控技术研究](http://network.51cto.com/art/202006/619782.htm)
- > 5G承载网络切片管控技术研究
- ## [物联网在外语学习中的应用](http://iot.51cto.com/art/202007/619962.htm)
- > 语言学习的全部内容都是听、重复和交流，外语沉浸式环境将这一切融合为一种引人入胜的体验。研究表明，基于
- ## [物联网在教育领域的应用](http://iot.51cto.com/art/202007/619961.htm)
- > 有了物联网，可能性是无限的。未来的教育机构将提供更大的安全性、更多的学生机会、更多的互动性和更好的学
- ## [人工智能在未来商业智能中的作用](http://ai.51cto.com/art/202007/619960.htm)
- > 从呼叫中心部署基于AI的聊天机器人到使用深度学习在数秒内分析无数数据点并检测欺诈的银行，当今的企业在很
- ## [物联网将塑造未来，而不仅仅是简单趋势](http://iot.51cto.com/art/202007/619958.htm)
- > 物联网将塑造未来，而不仅仅是一个简单的趋势，原因如下。 如今，越来越多的企业正在利用物联网的好处。机
+ ## [使用Kubernetes两年来的经验教训](http://cloud.51cto.com/art/202006/619932.htm)
+ > 使用Kubernetes两年来的经验教训
+ ## [Linus Torvalds：Linux 内核、社区多元化和开发者的未来](http://news.51cto.com/art/202006/619892.htm)
+ > Linus Torvalds：Linux 内核、社区多元化和开发者的未来
+ ## [握手5G，智能交通将迎来四大质变！](http://network.51cto.com/art/202006/619869.htm)
+ > 握手5G，智能交通将迎来四大质变！
+ ## [可能你还无感：AI正在帮助人类的十大应用](http://ai.51cto.com/art/202006/619863.htm)
+ > 可能你还无感：AI正在帮助人类的十大应用
+ ## [物联网如何推动创新](http://iot.51cto.com/art/202006/619854.htm)
+ > 物联网如何推动创新
+ ## [低代码/无代码真的是应用软件开发的未来吗？](http://developer.51cto.com/art/202007/619956.htm)
+ > 低代码/无代码真的是应用软件开发的未来吗？
+ ## [企业如何在其业务中使用AIOps](http://ai.51cto.com/art/202006/619908.htm)
+ > 企业如何在其业务中使用AIOps
+ ## [关于JavaScript的的高速缓存未命中分析](http://developer.51cto.com/art/202007/619989.htm)
+ > JavaScript是一种非常高级的语言，在使用JavaScript开发的时候不必对存储器中的数据存储方式作过多的考虑。
+ ## [一个老程序员在互联网寒冬下的感悟](http://news.51cto.com/art/202007/619987.htm)
+ > 你千万不要认为学习技术就可以换来稳定的生活和高的薪水待遇，你更不要认为那些从事市场开发，跑腿的人，没
+ ## [Kubernetes 存储的设计与基本架构](http://developer.51cto.com/art/202007/619985.htm)
+ > 本文介绍了容器云存储设计所需要的基本知识，使读者能对此形成比较立体的认知以及了解设计的重点方向，并进
+ ## [NBA巨星詹姆斯遭黑客威胁，公开所有秘密？](http://netsecurity.51cto.com/art/202007/619981.htm)
+ > 本来NBA重启之事已成定局，老詹可以松一口气了，接下来，他能全身心为第四冠而努力了，但在不久之前，詹姆
+ ## [九个超级实用的 ES6 特性](http://developer.51cto.com/art/202007/619980.htm)
+ > 这篇文章介绍了一些特性，在我看来，一个严肃的 JavaScript 开发者每天都多多少少会用到这些特性。
+ ## [疫情之下，5G的“危”与“机”](http://network.51cto.com/art/202007/619978.htm)
+ > 截至2020年第一季度，全球范围内共有26个市场的50家运营商实现了5G商用，另有88个国家制定了5G商用计划。随
+ ## [如何优化Windows防火墙的安全性](http://netsecurity.51cto.com/art/202007/619977.htm)
+ > 如果您忽略或禁用了Windows防火墙，则可能会缺少一些易于设置和维护的良好基本保护。
+ ## [印度禁封59款中国App，微博、微信、TikTok等接连中招](http://netsecurity.51cto.com/art/202007/619976.htm)
+ > 继“删除中国软件”风波后，印度政府发文，禁止59款中国应用在印度使用。
+ ## [谈谈javaSE中的==和equals的联系与区别](http://developer.51cto.com/art/202007/619975.htm)
+ > ==和equals是我们面试中经常会碰到的问题。那么它们之间有什么联系和区别呢?今天我们就来聊聊吧!
+ ## [很多JavaScript开发人员都忽略了的十大超实用技巧](http://developer.51cto.com/art/202007/619973.htm)
+ > 众所周知，JavaScript更新换代的速度特别快，总能给人新鲜感，也一直有能让我们挖掘探索的东西，新版ES2020
  ## [HTTP与HTTPS的区别](https://blog.csdn.net/JAck_chen0309/article/details/105020259)
  > HTTP与HTTPS的区别
  ## [老猿学5G扫盲贴：N6接口用户平面协议栈对应的网络分层模型](https://blog.csdn.net/LaoYuanPython/article/details/105638391)
  > 老猿学5G扫盲贴：N6接口用户平面协议栈对应的网络分层模型
  ## [go语言快速刷《程序员面试金典》（1）](https://blog.csdn.net/hebtu666/article/details/106198936)
  > go语言快速刷《程序员面试金典》（1）
- ## [java多线程相关问题汇总](https://blog.csdn.net/u013309870/article/details/105747785)
- > java多线程相关问题汇总
- ## [\[网络安全自学篇\] 六十六.Vulnhub靶机渗透之DC-1提权和Drupal漏洞利用（二）](https://blog.csdn.net/Eastmount/article/details/105442329)
- > 
- ## [设置非root账号不用sudo直接执行docker命令](https://blog.csdn.net/boling_cavalry/article/details/106590784)
- > 设置非root账号不用sudo直接执行docker命令
- ## [PyQt（Python+Qt）学习随笔：print标准输出sys.stdout以及stderr重定向QTextBrowser等图形界面对象](https://blog.csdn.net/LaoYuanPython/article/details/105317746)
- > PyQt（Python+Qt）学习随笔：print标准输出sys.stdout以及stderr重定向QTextBrowser等图形界面对象
- ## [Linux(服务器编程):39---项目应用层协议设计](https://blog.csdn.net/qq_41453285/article/details/106731333)
- > Linux(服务器编程):39---项目应用层协议设计
- ## [原生工程接入Flutter实现混编](https://blog.csdn.net/wwj_748/article/details/105466694)
+ ## [我的大学生活 | 如诗的青春](https://blog.csdn.net/qq_35190492/article/details/106165262)
  > 
  ## [新基建新动力已来，RPA 成为数字化转型新利器！](https://blog.csdn.net/csdnnews/article/details/106826650)
  > 新基建新动力已来，RPA 成为数字化转型新利器！
+ ## [原生工程接入Flutter实现混编](https://blog.csdn.net/wwj_748/article/details/105466694)
+ > 
+ ## [Linux(服务器编程):39---项目应用层协议设计](https://blog.csdn.net/qq_41453285/article/details/106731333)
+ > Linux(服务器编程):39---项目应用层协议设计
  ## [如果你觉得工作索然无味](https://blog.csdn.net/caoz/article/details/106485033)
  > 如果你觉得工作索然无味
- ## [【Spring注解驱动开发】聊聊Spring注解驱动开发那些事儿！](https://blog.csdn.net/l1028386804/article/details/106561016)
- > 【Spring注解驱动开发】聊聊Spring注解驱动开发那些事儿！
- ## [Logstash：运用 Elastic Stack 分析 CSDN 阅读量](https://blog.csdn.net/UbuntuTouch/article/details/106723564)
+ ## [阿里面试：跟我死磕Synchronized底层实现，我满分回答拿了Offer](https://blog.csdn.net/qq_35190492/article/details/106180781)
  > 
+ ## [java多线程相关问题汇总](https://blog.csdn.net/u013309870/article/details/105747785)
+ > java多线程相关问题汇总
  ## [Qt开发技术：Qt的动态静态插件框架介绍和Demo](https://blog.csdn.net/qq21497936/article/details/105481285)
  > 
- ## [\[网络安全自学篇\] 七十五.Vulnhub靶机渗透之bulldog信息收集和nc反弹shell（三）](https://blog.csdn.net/Eastmount/article/details/106066009)
+ ## [用 Swagger 测试接口，怎么在请求头中携带 Token？](https://blog.csdn.net/u012702547/article/details/106633386)
+ > 用 Swagger 测试接口，怎么在请求头中携带 Token？
+ ## [【Spring注解驱动开发】聊聊Spring注解驱动开发那些事儿！](https://blog.csdn.net/l1028386804/article/details/106561016)
+ > 【Spring注解驱动开发】聊聊Spring注解驱动开发那些事儿！
+ ## [20年前的几行代码竟如此牛逼？惊了](https://blog.csdn.net/weixin_43434202/article/details/106612959)
  > 
+ ## [html+css实现选项卡效果](https://blog.csdn.net/qq_23853743/article/details/106946072)
+ > html+css实现选项卡效果
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [机器学习入门笔记总目录](https://blog.csdn.net/qq_43328040/article/details/107002584)
+ > 机器学习入门笔记总目录
+ ## [我用Python展示Excel中常用的20个操作](https://blog.csdn.net/weixin_41846769/article/details/106996693)
+ > 
+ ## [天猫精灵 AIoT 平台将研发门槛从1000万降至40万，缩减 3 倍研发周期](https://blog.csdn.net/csdnsevenn/article/details/107000228)
+ > 天猫精灵 AIoT 平台将研发门槛从1000万降至40万，缩减 3 倍研发周期
+ ## [Python数据分析——《隐秘的角落》开播之后就没下过热搜？](https://blog.csdn.net/weixin_43434202/article/details/106993815)
+ > 
+ ## [使用PyTorch从理论到实践理解变分自编码器VAE](https://blog.csdn.net/m0_46510245/article/details/107012873)
+ > 
+ ## [微软小冰从上海音乐学院音工系毕业，师从于阳、陈世哲](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/107017150)
+ > 微软小冰从上海音乐学院音工系毕业，师从于阳、陈世哲
+ ## [用超哇塞的元素法去解空间几何体问题](https://blog.csdn.net/qq_42294351/article/details/106331179)
+ > 
+ ## [从入门到入狱！大数据技术及算法解析](https://blog.csdn.net/Toidu/article/details/106985020)
+ > 从入门到入狱！大数据技术及算法解析
+ ## [Python之os模块](https://blog.csdn.net/Zachary_H/article/details/107003009)
+ > 
+ ## [\[Python人工智能\] 二十一.Word2Vec+CNN中文文本分类详解及与机器学习（RF\DTC\SVM\KNN\NB\LR）分类对比](https://blog.csdn.net/Eastmount/article/details/107004660)
+ > 
+ ## [Codeup——599 | 问题 A: Speech Patterns (25)](https://blog.csdn.net/qq_44888152/article/details/107007291)
+ > Codeup——599 | 问题 A: Speech Patterns (25)
+ ## [Yolo v4系列学习（五）Yolov4-tiny](https://blog.csdn.net/JIEJINQUANIL/article/details/106998409)
+ > Yolo v4系列学习（五）Yolov4-tiny
+ ## [MobileNet-SSD、RealSense D435嵌入式环境搭建与实时检测的全流程记录与问题总结](https://blog.csdn.net/nannan7777/article/details/106790367)
+ > 
+ ## [因为看了这些书，我大二就拿了华为Offer](https://blog.csdn.net/qq_35190492/article/details/106235335)
+ > 
+ ## [机器学习——第二周](https://blog.csdn.net/diobrandu/article/details/106990159)
+ > 
 # PM 
  ## [产品思维：如何做一只风口下的“烧烤地摊”猪?](http://www.chanpin100.com/article/112067)
  > 产品思维：如何做一只风口下的“烧烤地摊”猪?
