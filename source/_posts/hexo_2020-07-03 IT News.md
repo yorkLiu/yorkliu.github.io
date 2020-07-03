@@ -1,19 +1,19 @@
 ---
 title: 2020-07-03 IT News
 copyright: true
-date: 2020-07-03 08:00:54
+date: 2020-07-03 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为隔空喊话千行百业：“懂行”的伙伴才能带来成功](http://mp.weixin.qq.com/s?src=11&timestamp=1593732606&ver=2437&signature=A1KfBIO05pT1umMUAkxbmp-b8SlT35xN00FUbV2IBm2KR2wn4WyFKOjax0D7vyUniMTmLlwvCDJCZA9ci8JqS0Z4989BCMcQGKgSG5vvIwGFnhYQIN9AI1HbfPk*0L6e&new=1)
- > 最近北京疫情突然反复，企业经营遇到了新的挑战。其实今年爆发的全球疫情，让许多企业领导者都在思考，如何增加企业在疫情等困难时期的生存能力，目前看最为有力的回答是——加速完成自身的数字化转型。疫情期间...
- ## [\[有趣\]第42期：历代Windows/Office图标哪个最好看?](http://mp.weixin.qq.com/s?src=11&timestamp=1593732606&ver=2437&signature=EnjdFiWIysWNT2fwGmKXZFZfzzoQnitCJi10KeFPZQ5EXjNg0LoLHKiqpse7aFQ*j1XVEKB2ZePxLWZT8GHIAhgXQkYteqRYNQVdsbXf5EXp7Y3rH8NZvl60PiKjVpLN&new=1)
- > 【0】前言Windows操作系统我们天天都和它打交道，那么一系列的Logo变迁你是否眼熟呢？ 【1】历代Windows Logo【1.1】Windows 1.0~3.0▲ 这是Windows操作系统最原始的Logo样式，于1985年11月2
- ## [中国资本游猎海外半导体：十二大经典并购和五次败北](http://mp.weixin.qq.com/s?src=11&timestamp=1593732606&ver=2437&signature=DorBrYS6DMGhp-acGo0uWlgTu1vzqnmA326pJs-ZvqfmnnT6ky7yXjH3sGDq*GUB0ZDDcqbWZNwajBpPEh9H7TwXswZpQm9kvYdPRpiauESzIAsWxoujzGjqaA7Qoaux&new=1)
- > 1901年，卡内基钢铁公司、联合钢铁公司等十几家企业合并成立美国钢铁公司，这家“初创公司”出身即巨头，不仅生产美国三分之二的钢铁，而且成为当时世界最大的公司。炼钢业的崛起点燃了美国经济的繁荣，也拉开了...
- ## [Qualcomm总裁安蒙：5G让世界更具弹性和竞争力](http://mp.weixin.qq.com/s?src=11&timestamp=1593732606&ver=2437&signature=6ouDTYySiaHavfEcAGnvZqoiM2J*NRJ8Swaicf7gOsmO4BgyDZITgaybXlDXAPW2*BRN5-0TWS920vjU272IpaEsdXXjkZ6GTyyaHGbYuQYEBMMp*qZ4QgcNKEEBFOxS&new=1)
+ ## [Qualcomm总裁安蒙：5G让世界更具弹性和竞争力](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=6ouDTYySiaHavfEcAGnvZqoiM2J*NRJ8Swaicf7gOsmO4BgyDZITgaybXlDXAPW2idRJTJnGfCkAT6qIyYr27uED4taLL21XW3ypr4M9ipuBIjZfmQVOpXtgJ8Q33KWR&new=1)
  > 在为期三天的“GSMA Thrive • 万物生晖”线上活动中，Qualcomm总裁安蒙（Cristiano Amon）先生两次发表主题演讲，阐述当前情势下全球5G部署的重要性，盘点5G网络和5G终端的最新发展态势，同时，也为我们介绍了5...
+ ## [中国资本游猎海外半导体：十二大经典并购和五次败北](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=DorBrYS6DMGhp-acGo0uWlgTu1vzqnmA326pJs-ZvqfmnnT6ky7yXjH3sGDq*GUBweLz*0WzRJD-1IBHvSHZO8Luta7JQDgUzoQxt2TqFyUI5MEI79pDOoA2lzzRSpPj&new=1)
+ > 1901年，卡内基钢铁公司、联合钢铁公司等十几家企业合并成立美国钢铁公司，这家“初创公司”出身即巨头，不仅生产美国三分之二的钢铁，而且成为当时世界最大的公司。炼钢业的崛起点燃了美国经济的繁荣，也拉开了...
+ ## [\[有趣\]第42期：历代Windows/Office图标哪个最好看?](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=EnjdFiWIysWNT2fwGmKXZFZfzzoQnitCJi10KeFPZQ5EXjNg0LoLHKiqpse7aFQ*9Ri3N2Z3BBAehVc0P*EfCBm0Qk2Z*8zlxQOuew1mViJP5Uwks4TDZEK4M-dlz-sF&new=1)
+ > 【0】前言Windows操作系统我们天天都和它打交道，那么一系列的Logo变迁你是否眼熟呢？ 【1】历代Windows Logo【1.1】Windows 1.0~3.0▲ 这是Windows操作系统最原始的Logo样式，于1985年11月2
+ ## [华为隔空喊话千行百业：“懂行”的伙伴才能带来成功](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=A1KfBIO05pT1umMUAkxbmp-b8SlT35xN00FUbV2IBm2KR2wn4WyFKOjax0D7vyUnsWdhLKWNUYImScyDhPB-WPlE41BhmhK287iQmtGLVbNfVrBfGek8icoYssiCp*yp&new=1)
+ > 最近北京疫情突然反复，企业经营遇到了新的挑战。其实今年爆发的全球疫情，让许多企业领导者都在思考，如何增加企业在疫情等困难时期的生存能力，目前看最为有力的回答是——加速完成自身的数字化转型。疫情期间...
 # IT 技术 
  ## [如何评估Linux中的用户活动？](http://os.51cto.com/art/202007/620111.htm)
  > 如何评估Linux中的用户活动？
@@ -31,8 +31,24 @@ categories: IT NEWS
  > 可视化解释11种基本神经网络架构
  ## [如何为自己的业务选择API管理平台](http://network.51cto.com/art/202007/620054.htm)
  > 如何为自己的业务选择API管理平台
+ ## [曾经“红极一时”的缓存工具：关于Redis的15个有趣事实](http://stor.51cto.com/art/202007/620167.htm)
+ > 从前有一段时间，Redis是个全球流行的工具。对于这个曾经横行全球的缓存工具你了解多少，和我一起开启一场
+ ## [Linux系统如何查看服务的运行状态](http://os.51cto.com/art/202007/620166.htm)
+ > 在本教程中，我们演示了如何在Linux中查看systemd下运行的服务及这些服务的运行状态。我们还介绍了如何检查
+ ## [Golang：三个常见的编程问题](http://developer.51cto.com/art/202007/620163.htm)
+ > 常见的编程挑战的解决方案在Java(我以前最喜欢的编程语言)中非常不同。 而且，如果我敢说这一点，那么用Jav
  ## [2020半年报：5G行业应用全方位落地](http://network.51cto.com/art/202007/620164.htm)
  > 2020年是我国5G大规模建设元年，在5G网络建设持续加速的同时，5G已然拉开了赋能千行百业的大门。运营商与产
+ ## [你是否已经准备好从 Mac 切换到 Linux 了？](http://os.51cto.com/art/202007/620161.htm)
+ > 最近有很多关于 Mac 的讨论，越来越多的人已经在考虑转到 Linux。我打算分享我的切换过程中的一些经验，帮
+ ## [你的ERP系统需要与物联网交互](http://iot.51cto.com/art/202007/620156.htm)
+ > ERP中的下一件“大事”将是连接性，即公司的ERP管理平台与物联网（IoT）之间的连接性。
+ ## [颠覆HTTP，IPFS今天成功上位了吗？](http://iot.51cto.com/art/202007/620160.htm)
+ > 很显然，IPFS的主要作用是提供数据的存储和传输，但是它真的能够取代HTTP吗?
+ ## [本地部署与云物联网部署：哪个更好？](http://iot.51cto.com/art/202007/620153.htm)
+ > 公司从其物联网项目开始就面临一个基本问题：是选择本地部署还是云部署来运行物联网应用并管理其设备和数据
+ ## [张钹院士带队，100位AI大咖集齐](https://live.csdn.net/room/t4rmvzwj33w/Rfki0jSu)
+ > 张钹院士带队，100位AI大咖集齐
  ## [Qt开发技术：Qt绘图系统（一）绘图系统介绍](https://blog.csdn.net/qq21497936/article/details/105505710)
  > 
  ## [老猿学5G扫盲贴：中国移动的5G计费架构解读](https://blog.csdn.net/LaoYuanPython/article/details/105982330)
@@ -61,39 +77,37 @@ categories: IT NEWS
  > 
  ## [持续更新：通用IT/互联网岗位职业规划参考（2020最新全岗位版）](https://blog.csdn.net/goldentec/article/details/105133986)
  > 持续更新：通用IT/互联网岗位职业规划参考（2020最新全岗位版）
- ## [老猿学5G扫盲贴：PDU协议数据单元、PDU连接业务和PDU会话的功能详解](https://blog.csdn.net/LaoYuanPython/article/details/105653072)
- > 
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [WorkManager之SystemJobScheduler、SystemAlarmScheduler、GreedyScheduler三大调度器，源码流程详细解读](https://blog.csdn.net/qq_24856205/article/details/107059699)
+ > 
+ ## [Android 实现定时任务的五种方式](https://blog.csdn.net/qq_36270361/article/details/106341685)
+ > 
+ ## [Android研发面试大厂，没想到这么难](https://blog.csdn.net/ajsliu1233/article/details/107066200)
+ > 
+ ## [写个自己喜欢的vi工具插件](https://blog.csdn.net/sz66cm/article/details/107052928)
+ > 写个自己喜欢的vi工具插件
+ ## [Android Hal层回调APP应用接口](https://blog.csdn.net/chunerlaogong/article/details/107039298)
+ > Android Hal层回调APP应用接口
+ ## [Systrace从入门到放弃](https://blog.csdn.net/shazhudaopindao/article/details/107048533)
+ > Systrace从入门到放弃
+ ## [Java、Android的异常处理原理&Android Crash捕获、分发及处理原理+实战详解](https://blog.csdn.net/u011578734/article/details/107038011)
+ > 
+ ## [app开机自启（自用）](https://blog.csdn.net/qq_41363438/article/details/107043847)
+ > app开机自启（自用）
+ ## [WWDC20 苹果发布会](https://blog.csdn.net/weixin_40599109/article/details/107071254)
+ > WWDC20 苹果发布会
+ ## [仿Boss直聘我的界面滑动效果](https://blog.csdn.net/u014741977/article/details/107048792)
+ > 仿Boss直聘我的界面滑动效果
+ ## [JetPack之WorkManager源码详细分析](https://blog.csdn.net/qq_24856205/article/details/106993181)
+ > 
+ ## [Android移动应用开发  **用户界面控件的使用**](https://blog.csdn.net/qq_45629857/article/details/107067021)
+ > Android移动应用开发  **用户界面控件的使用**
+ ## [ios动画相关技术](https://blog.csdn.net/weixin_42024563/article/details/107026709)
+ > ios动画相关技术
+ ## [IM即时通讯哇呼--解析](https://blog.csdn.net/sdy8557320/article/details/107063276)
+ > IM即时通讯哇呼--解析
+ ## [小程序wepy框架注册全局原生组件](https://blog.csdn.net/weixin_42439051/article/details/107069684)
+ > 小程序wepy框架注册全局原生组件
 # PM 
  ## [产品经理：客户，你看这个项目，我还有机会吗](http://www.chanpin100.com/article/112092)
  > 产品经理和甲方客户思考方式不同，目的也不同。产品经理把项目看作战术执行，较关注任务和活动。而客户作为项目的发起人，关注的是项目成果。
