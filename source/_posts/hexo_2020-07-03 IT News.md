@@ -1,52 +1,58 @@
 ---
 title: 2020-07-03 IT News
 copyright: true
-date: 2020-07-03 09:00:53
+date: 2020-07-03 10:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Qualcomm总裁安蒙：5G让世界更具弹性和竞争力](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=6ouDTYySiaHavfEcAGnvZqoiM2J*NRJ8Swaicf7gOsmO4BgyDZITgaybXlDXAPW2idRJTJnGfCkAT6qIyYr27uED4taLL21XW3ypr4M9ipuBIjZfmQVOpXtgJ8Q33KWR&new=1)
- > 在为期三天的“GSMA Thrive • 万物生晖”线上活动中，Qualcomm总裁安蒙（Cristiano Amon）先生两次发表主题演讲，阐述当前情势下全球5G部署的重要性，盘点5G网络和5G终端的最新发展态势，同时，也为我们介绍了5...
- ## [中国资本游猎海外半导体：十二大经典并购和五次败北](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=DorBrYS6DMGhp-acGo0uWlgTu1vzqnmA326pJs-ZvqfmnnT6ky7yXjH3sGDq*GUBweLz*0WzRJD-1IBHvSHZO8Luta7JQDgUzoQxt2TqFyUI5MEI79pDOoA2lzzRSpPj&new=1)
- > 1901年，卡内基钢铁公司、联合钢铁公司等十几家企业合并成立美国钢铁公司，这家“初创公司”出身即巨头，不仅生产美国三分之二的钢铁，而且成为当时世界最大的公司。炼钢业的崛起点燃了美国经济的繁荣，也拉开了...
- ## [\[有趣\]第42期：历代Windows/Office图标哪个最好看?](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=EnjdFiWIysWNT2fwGmKXZFZfzzoQnitCJi10KeFPZQ5EXjNg0LoLHKiqpse7aFQ*9Ri3N2Z3BBAehVc0P*EfCBm0Qk2Z*8zlxQOuew1mViJP5Uwks4TDZEK4M-dlz-sF&new=1)
+ ## [\[有趣\]第42期：历代Windows/Office图标哪个最好看?](http://mp.weixin.qq.com/s?src=11&timestamp=1593741168&ver=2437&signature=EnjdFiWIysWNT2fwGmKXZFZfzzoQnitCJi10KeFPZQ7IGli9T4iKAL0QPpzPhV3y81ie6hXbrLy7r58a4s0evAt1WyDbXUowM8DoLCdTiTZXY*0GS52ZBdkqICoa42rU&new=1)
  > 【0】前言Windows操作系统我们天天都和它打交道，那么一系列的Logo变迁你是否眼熟呢？ 【1】历代Windows Logo【1.1】Windows 1.0~3.0▲ 这是Windows操作系统最原始的Logo样式，于1985年11月2
- ## [华为隔空喊话千行百业：“懂行”的伙伴才能带来成功](http://mp.weixin.qq.com/s?src=11&timestamp=1593736205&ver=2437&signature=A1KfBIO05pT1umMUAkxbmp-b8SlT35xN00FUbV2IBm2KR2wn4WyFKOjax0D7vyUnsWdhLKWNUYImScyDhPB-WPlE41BhmhK287iQmtGLVbNfVrBfGek8icoYssiCp*yp&new=1)
+ ## [收购|平治信息拟以总对价不超过3 亿元收购光模块厂商武汉飞沃100%股权](http://mp.weixin.qq.com/s?src=11&timestamp=1593741168&ver=2437&signature=v2p-S7RPbRKwUAOg0vuBtlp4DmKGsVbxn89PCt*vjmTIFd8fHU-SeeOnGQapl24bt1zvwoyPB-XYv0st95tKNehKgdx3zW6IRMLF9TDxPHo10MOhOyHl6mC7DftMX-*H&new=1)
+ > 新闻导读杭州平治信息拟以总对价为不超过人民币 3 亿元收购武汉飞沃100%股权(不包含目标公司子公司股权)，武汉飞沃主要产品包括光模块、无源波分以及半有源波分产品等，曾先后共计中标入围包括电信、联通、移动...
+ ## [华为隔空喊话千行百业：“懂行”的伙伴才能带来成功](http://mp.weixin.qq.com/s?src=11&timestamp=1593741168&ver=2437&signature=A1KfBIO05pT1umMUAkxbmp-b8SlT35xN00FUbV2IBm2gltKjJC0dpXFKsiZieIjfoTAVXEP46YorBNPJ75fj9Z6p0P7*Th9wsr7qLaRo-CiMJexFcVnwYaA9xW-UL4WM&new=1)
  > 最近北京疫情突然反复，企业经营遇到了新的挑战。其实今年爆发的全球疫情，让许多企业领导者都在思考，如何增加企业在疫情等困难时期的生存能力，目前看最为有力的回答是——加速完成自身的数字化转型。疫情期间...
+ ## [中国资本游猎海外半导体：十二大经典并购和五次败北](http://mp.weixin.qq.com/s?src=11&timestamp=1593741168&ver=2437&signature=DorBrYS6DMGhp-acGo0uWlgTu1vzqnmA326pJs-Zvqe702NkDpwx6IEbL7QTYizGw15l0HggNIcEUDcxeNS77*ui82wqRNgKL*GQQyrUjwxuVDMd3U1QuPGaT3X28ni-&new=1)
+ > 1901年，卡内基钢铁公司、联合钢铁公司等十几家企业合并成立美国钢铁公司，这家“初创公司”出身即巨头，不仅生产美国三分之二的钢铁，而且成为当时世界最大的公司。炼钢业的崛起点燃了美国经济的繁荣，也拉开了...
+ ## [Qualcomm总裁安蒙：5G让世界更具弹性和竞争力](http://mp.weixin.qq.com/s?src=11&timestamp=1593741168&ver=2437&signature=6ouDTYySiaHavfEcAGnvZqoiM2J*NRJ8Swaicf7gOsklIufL8uOY7*Eaq2wbdX3wzQMH9XeETWNI5sCyKGhrsR*9WPluC-da69mNL-lV5ypeBVfNd3Ed9V7sn2CQOY6a&new=1)
+ > 在为期三天的“GSMA Thrive • 万物生晖”线上活动中，Qualcomm总裁安蒙（Cristiano Amon）先生两次发表主题演讲，阐述当前情势下全球5G部署的重要性，盘点5G网络和5G终端的最新发展态势，同时，也为我们介绍了5...
 # IT 技术 
+ ## [标准化数据中心加速“新基建”落地](http://server.51cto.com/Datacenter-620091.htm)
+ > 标准化数据中心加速“新基建”落地
  ## [如何评估Linux中的用户活动？](http://os.51cto.com/art/202007/620111.htm)
  > 如何评估Linux中的用户活动？
+ ## [大数据、人工智能带来的危机：科技巨头会毁掉我们的生活吗？](http://bigdata.51cto.com/art/202007/620088.htm)
+ > 大数据、人工智能带来的危机：科技巨头会毁掉我们的生活吗？
+ ## [自动化能否“杀死”安全分析师？](http://netsecurity.51cto.com/art/202007/620060.htm)
+ > 自动化能否“杀死”安全分析师？
  ## [嵌入式Linux系统的几大组件！](http://os.51cto.com/art/202007/620108.htm)
  > 嵌入式Linux系统的几大组件！
+ ## [在构建和部署IoT设备之前要了解的3件事](http://iot.51cto.com/art/202007/620056.htm)
+ > 在构建和部署IoT设备之前要了解的3件事
+ ## [如何选择正确的物联网数据库架构？](http://iot.51cto.com/art/202007/620078.htm)
+ > 如何选择正确的物联网数据库架构？
  ## [昨天，我彻底搞懂了Netty内存分配策略！](http://developer.51cto.com/art/202007/620083.htm)
  > 昨天，我彻底搞懂了Netty内存分配策略！
- ## [物联网硬件产品如何开发](http://iot.51cto.com/art/202007/620055.htm)
- > 物联网硬件产品如何开发
- ## [如何在热带地区建设节能数据中心](http://server.51cto.com/Datacenter-620008.htm)
- > 如何在热带地区建设节能数据中心
- ## [人工智能行业发生了翻天覆地的变化 AI科学家如何成为MVP](http://ai.51cto.com/art/202007/620002.htm)
- > 人工智能行业发生了翻天覆地的变化 AI科学家如何成为MVP
- ## [可视化解释11种基本神经网络架构](http://bigdata.51cto.com/art/202007/619992.htm)
- > 可视化解释11种基本神经网络架构
- ## [如何为自己的业务选择API管理平台](http://network.51cto.com/art/202007/620054.htm)
- > 如何为自己的业务选择API管理平台
- ## [曾经“红极一时”的缓存工具：关于Redis的15个有趣事实](http://stor.51cto.com/art/202007/620167.htm)
- > 从前有一段时间，Redis是个全球流行的工具。对于这个曾经横行全球的缓存工具你了解多少，和我一起开启一场
- ## [Linux系统如何查看服务的运行状态](http://os.51cto.com/art/202007/620166.htm)
- > 在本教程中，我们演示了如何在Linux中查看systemd下运行的服务及这些服务的运行状态。我们还介绍了如何检查
- ## [Golang：三个常见的编程问题](http://developer.51cto.com/art/202007/620163.htm)
- > 常见的编程挑战的解决方案在Java(我以前最喜欢的编程语言)中非常不同。 而且，如果我敢说这一点，那么用Jav
- ## [2020半年报：5G行业应用全方位落地](http://network.51cto.com/art/202007/620164.htm)
- > 2020年是我国5G大规模建设元年，在5G网络建设持续加速的同时，5G已然拉开了赋能千行百业的大门。运营商与产
- ## [你是否已经准备好从 Mac 切换到 Linux 了？](http://os.51cto.com/art/202007/620161.htm)
- > 最近有很多关于 Mac 的讨论，越来越多的人已经在考虑转到 Linux。我打算分享我的切换过程中的一些经验，帮
- ## [你的ERP系统需要与物联网交互](http://iot.51cto.com/art/202007/620156.htm)
- > ERP中的下一件“大事”将是连接性，即公司的ERP管理平台与物联网（IoT）之间的连接性。
- ## [颠覆HTTP，IPFS今天成功上位了吗？](http://iot.51cto.com/art/202007/620160.htm)
- > 很显然，IPFS的主要作用是提供数据的存储和传输，但是它真的能够取代HTTP吗?
- ## [本地部署与云物联网部署：哪个更好？](http://iot.51cto.com/art/202007/620153.htm)
- > 公司从其物联网项目开始就面临一个基本问题：是选择本地部署还是云部署来运行物联网应用并管理其设备和数据
+ ## [未来的智慧城市：技术改变城市的5种方式](http://iot.51cto.com/art/202007/620187.htm)
+ > 据联合国预测，到2050年，全球68%的人口将生活在城市地区。这意味着我们的城市正面临着日益严重的环境、社
+ ## [Linux 内核维护者难寻：“我不想被 Linus 喷”](http://news.51cto.com/art/202007/620185.htm)
+ > 近日，Linus Torvalds 与 VMware 首席开源官 Dirk Hohndel 关于 Linux 内核维护未来的讨论引起了技术圈的关
+ ## [“Satori” DDoS僵尸网络始作俑者被判刑期13月](http://netsecurity.51cto.com/art/202007/620182.htm)
+ > 美国司法部昨日判处22岁的华盛顿黑客在联邦监狱服刑13个月，罪名是他在创建僵尸网络恶意软件，感染世界多地
+ ## [到2025年，物联网芯片市场将增长至5254亿美元](http://iot.51cto.com/art/202007/620181.htm)
+ > 据调研机构ResearchAndMarkets发布的研究报告预测，物联网芯片市场规模在2019年为3709亿美元，预计到2025年
+ ## [禁掉中国应用背后：一个奇葩的印度互联网市场](http://news.51cto.com/art/202007/620188.htm)
+ > 据互联网和印度移动协会（IAMAI）的数据，印度整体互联网普及率估计在 35% 左右，城市地区为 65%，农村地区
+ ## [影响OSPF邻居关系因素，OSPF邻居问题之网络和子网掩码](http://network.51cto.com/art/202007/620180.htm)
+ > 多点接入网络要求掩码一致，不一致导致OSPF邻居无法建立。以太网也是多点接入此时我们以SW1和R3为例进行演
+ ## [如何使用开源安全工具保护其运营环境](http://netsecurity.51cto.com/art/202007/620179.htm)
+ > 开源安全工具已经取得了长足的进步，并且可以像其他安全工具一样有效。然而，只使用开源工具可能会有缺点，
+ ## [云计算技术将如何发挥作用](http://cloud.51cto.com/art/202007/620178.htm)
+ > 云计算改变了人们对业务和IT的了解，改变了组织的运作方式和工作方式。如今，市场上对云计算技术的采用也有
+ ## [7大分类，40多个关键概念，入门机器学习要掌握的概念都在这里了](http://ai.51cto.com/art/202007/620173.htm)
+ > 不知道大家有没有这样的感觉：在我们学习的时候，经常学了就忘，忘了再学，彷佛进入了死循环。明明都学了，
+ ## [微软正在调整Windows 10窗口切换组合键的体验](http://os.51cto.com/art/202007/620171.htm)
+ > 7 月 1 日，微软向开发者通道 Insider 测试者们推送了 Windows 10 Build 20161 编译版本，改进了许多功能体
  ## [张钹院士带队，100位AI大咖集齐](https://live.csdn.net/room/t4rmvzwj33w/Rfki0jSu)
  > 张钹院士带队，100位AI大咖集齐
  ## [Qt开发技术：Qt绘图系统（一）绘图系统介绍](https://blog.csdn.net/qq21497936/article/details/105505710)
@@ -57,57 +63,57 @@ categories: IT NEWS
  > 我的《母亲》
  ## [力扣(LeetCode)刷题，简单题(第14期)](https://blog.csdn.net/m0_38106923/article/details/106488259)
  > 
- ## [go语言快速刷《程序员面试金典》（1）](https://blog.csdn.net/hebtu666/article/details/106198936)
- > go语言快速刷《程序员面试金典》（1）
- ## [Linux用户态进程监控内存写排查踩内存](https://blog.csdn.net/dog250/article/details/106670543)
- > Linux用户态进程监控内存写排查踩内存
- ## [\[Pyhon大数据分析\] 五.人民网新闻话题抓取及Gephi构建主题知识图谱](https://blog.csdn.net/Eastmount/article/details/105462139)
+ ## [五分钟在springboot中集成Elasticsearch](https://blog.csdn.net/forezp/article/details/106839262)
+ > 五分钟在springboot中集成Elasticsearch
+ ## [MySQL 8.0 中 4 个默认的系统数据库](https://blog.csdn.net/horses/article/details/106667755)
  > 
- ## [谈一谈数据库的那些事](https://blog.csdn.net/qq_36963950/article/details/105336136)
+ ## [计算机组成原理 — PCIe 总线](https://blog.csdn.net/Jmilk/article/details/105901173)
+ > 计算机组成原理 — PCIe 总线
+ ## [2020年面向前端开发人员的10个很棒的 JS 库](https://blog.csdn.net/qq449245884/article/details/105648689)
+ > 2020年面向前端开发人员的10个很棒的 JS 库
+ ## [基于Open WebRTC Toolkit（OWT）的8K全景视频低延时直播系统](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/105548419)
+ > 基于Open WebRTC Toolkit（OWT）的8K全景视频低延时直播系统
+ ## [\[网络安全自学篇\] 七十一.深信服分享之外部威胁防护和勒索病毒对抗](https://blog.csdn.net/Eastmount/article/details/105808305)
  > 
- ## [老猿学5G扫盲贴：N6接口用户平面协议栈对应的网络分层模型](https://blog.csdn.net/LaoYuanPython/article/details/105638391)
- > 老猿学5G扫盲贴：N6接口用户平面协议栈对应的网络分层模型
  ## [CSDN余额充值协议](https://blog.csdn.net/blogdevteam/article/details/106641073)
  > CSDN余额充值协议
+ ## [Linux(程序设计):30---cJSON库（C语言操作JSON）](https://blog.csdn.net/qq_41453285/article/details/106699410)
+ > Linux(程序设计):30---cJSON库（C语言操作JSON）
  ## [教会AI认识麻将牌之实践篇](https://blog.csdn.net/weixin_45412507/article/details/106821543)
  > 教会AI认识麻将牌之实践篇
- ## [实验室站迁移 Serverless 之路（上）](https://blog.csdn.net/weixin_42409476/article/details/105520277)
- > 实验室站迁移 Serverless 之路（上）
- ## [MySQL插入语句insert into,insert ignore into,insert into ... on duplicate key update,replace into-解决唯一键约束](https://blog.csdn.net/ThinkWon/article/details/106610789)
- > 
- ## [持续更新：通用IT/互联网岗位职业规划参考（2020最新全岗位版）](https://blog.csdn.net/goldentec/article/details/105133986)
- > 持续更新：通用IT/互联网岗位职业规划参考（2020最新全岗位版）
+ ## [53.网站夜间日间特效](https://blog.csdn.net/qq449245884/article/details/107041153)
+ > 53.网站夜间日间特效
 # 人工智能 
- ## [WorkManager之SystemJobScheduler、SystemAlarmScheduler、GreedyScheduler三大调度器，源码流程详细解读](https://blog.csdn.net/qq_24856205/article/details/107059699)
+ ## [Ajax---详解](https://blog.csdn.net/qq_34182705/article/details/107070000)
+ > Ajax---详解
+ ## [Vue如何使用与vue常见问题](https://blog.csdn.net/z321616764/article/details/107033420)
+ > Vue如何使用与vue常见问题
+ ## [Web复习资料（HTML+JS+CSS）](https://blog.csdn.net/weixin_46681371/article/details/107045691)
  > 
- ## [Android 实现定时任务的五种方式](https://blog.csdn.net/qq_36270361/article/details/106341685)
+ ## [Bootstrap简单引用](https://blog.csdn.net/lgl782519197/article/details/107033542)
+ > Bootstrap简单引用
+ ## [JS实现无缝切换轮播图(自动+手动)](https://blog.csdn.net/u013347241/article/details/107054441)
  > 
- ## [Android研发面试大厂，没想到这么难](https://blog.csdn.net/ajsliu1233/article/details/107066200)
+ ## [element-UI table文字超出两行，隐藏多余文字，移入显示tips](https://blog.csdn.net/qq_42533735/article/details/107057038)
+ > element-UI table文字超出两行，隐藏多余文字，移入显示tips
+ ## [html中标签失效](https://blog.csdn.net/futurism_/article/details/107068690)
+ > html中标签失效
+ ## [JavaScript 的 async/await 执行顺序详解](https://blog.csdn.net/q130334/article/details/107059874)
+ > JavaScript 的 async/await 执行顺序详解
+ ## [JavaScript之闭包，给自己的Js一场重生（系列七）](https://blog.csdn.net/jbj6568839z/article/details/106940646)
  > 
- ## [写个自己喜欢的vi工具插件](https://blog.csdn.net/sz66cm/article/details/107052928)
- > 写个自己喜欢的vi工具插件
- ## [Android Hal层回调APP应用接口](https://blog.csdn.net/chunerlaogong/article/details/107039298)
- > Android Hal层回调APP应用接口
- ## [Systrace从入门到放弃](https://blog.csdn.net/shazhudaopindao/article/details/107048533)
- > Systrace从入门到放弃
- ## [Java、Android的异常处理原理&Android Crash捕获、分发及处理原理+实战详解](https://blog.csdn.net/u011578734/article/details/107038011)
+ ## [Flex弹性盒子详解：从量变到质变的理解](https://blog.csdn.net/Newbie___/article/details/107042630)
  > 
- ## [app开机自启（自用）](https://blog.csdn.net/qq_41363438/article/details/107043847)
- > app开机自启（自用）
- ## [WWDC20 苹果发布会](https://blog.csdn.net/weixin_40599109/article/details/107071254)
- > WWDC20 苹果发布会
- ## [仿Boss直聘我的界面滑动效果](https://blog.csdn.net/u014741977/article/details/107048792)
- > 仿Boss直聘我的界面滑动效果
- ## [JetPack之WorkManager源码详细分析](https://blog.csdn.net/qq_24856205/article/details/106993181)
+ ## [CSS3的动画及3D转换（animation、transform、rotate3d 、perspective等）【总结】](https://blog.csdn.net/weixin_42881768/article/details/107070643)
+ > CSS3的动画及3D转换（animation、transform、rotate3d 、perspective等）【总结】
+ ## [小案例--封装jsonp](https://blog.csdn.net/hhhhhhhhhtr/article/details/107042399)
+ > 小案例--封装jsonp
+ ## [赶紧收藏！程序员必备的工具网站，用好了节省你大把的编程时间](https://blog.csdn.net/l_ppp/article/details/106960982)
  > 
- ## [Android移动应用开发  **用户界面控件的使用**](https://blog.csdn.net/qq_45629857/article/details/107067021)
- > Android移动应用开发  **用户界面控件的使用**
- ## [ios动画相关技术](https://blog.csdn.net/weixin_42024563/article/details/107026709)
- > ios动画相关技术
- ## [IM即时通讯哇呼--解析](https://blog.csdn.net/sdy8557320/article/details/107063276)
- > IM即时通讯哇呼--解析
- ## [小程序wepy框架注册全局原生组件](https://blog.csdn.net/weixin_42439051/article/details/107069684)
- > 小程序wepy框架注册全局原生组件
+ ## [AutoJS 咪咕百日打卡脚本参考](https://blog.csdn.net/leyuuu/article/details/107057969)
+ > AutoJS 咪咕百日打卡脚本参考
+ ## [Layui实现动态加载Tree](https://blog.csdn.net/qq_45510899/article/details/107010411)
+ > 
 # PM 
  ## [产品经理：客户，你看这个项目，我还有机会吗](http://www.chanpin100.com/article/112092)
  > 产品经理和甲方客户思考方式不同，目的也不同。产品经理把项目看作战术执行，较关注任务和活动。而客户作为项目的发起人，关注的是项目成果。
