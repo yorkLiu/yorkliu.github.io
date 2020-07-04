@@ -1,20 +1,22 @@
 ---
 title: 2020-07-04 IT News
 copyright: true
-date: 2020-07-04 09:01:26
+date: 2020-07-04 10:01:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [只听说网盘要充钱，送钱送到你暴富的“网盘”见过没?](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=-SWcCUHJMXo6wdSrCc4cHZzZqDhnPKtfKbI28XANJ91PnsyaMRAHVWZVnio6AjycqLMwZUii*-gxnmpq1gPdsz3p4aZhvuK3yMDMXDNVa*6SkU1YAM4uVnfNQm*4kXmk&new=1)
- > 掐指一算，差评君已经有一段时间没跟大家聊过币圈的新鲜事了。的确，自从去年币圈韭菜大师孙宇晨孙大师割韭菜割出圈 被封 了之后，币圈这个在国内还算小众的群体就没有什么大新闻了。不过最近，好几个许久没什么...
- ## [华融普瑞入驻未知大陆开店，专注碳纤维在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=TqTZSyqdIJs8KMBuVPRNH6AmMrvTluHRlVz4eK0c41D3UE4NaO2oZmkozX4d98JsvXVRxVdJphCvyhADXbMu2xi-rEFtOshVe**g0JeJL6GhdYN02iFXwHTSiOBzOsqo&new=1)
+ ## [华融普瑞入驻未知大陆开店，专注碳纤维在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=TqTZSyqdIJs8KMBuVPRNH6AmMrvTluHRlVz4eK0c41D3UE4NaO2oZmkozX4d98JsTJ-2BMnqnFsvGMErNRKV1dmeYCRw8prmJeIeIh8QJH*dppU4v9qU9LikwwyIZWhB&new=1)
  > 2020年7月3日，华融普瑞（北京）科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。华融普瑞借助国外先进制造技术，开发了完整的材料、设备与服务体系，可以为客户提供3D打印全流程、全...
- ## [又一突破!长虹成功研发首款国产超小体积5G通信模组](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=*gW040Dybshssh*jeBb3Nwj3bMm1cZA27u61bISg7iV8iX68CxKfQkuIbVlny*YS-3uibap1yt5GB5kESzr*FEv2rJK3t9D4BV4Wv1x3TG87TGpcUKr1LItROXDzPhlk&new=1)
- > 7月3日从长虹控股公司获悉，四川爱联成功研发首款国产超小体积5G通信模组——AI-NR11，该5G模组可广泛应用在智慧工业、智慧能源、工业机器人、医疗健康、视频安防、无人机等领域，尤其能满足超小摄像头、精密测...
- ## [R16标准冻结，5G第一个演进版本标准完成!](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=oV8oa9c3yWyd4D1L638aILCRkvVx99GRm6xcCMo*UH62KtCRZo6V2OTrtRMmeutYYegslS7NNOyI*TDUNKp3j51ZNCPVY5Y9Tf2lQ*wgLvwysp6ik85iZ-8E7w2LGvcA&new=1)
+ ## [\[科技早报7点整\]QQ上线企鹅辣椒酱表情 格力在中国移动招标中弄虚作假……](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=a6vV1ZMg1dUw25DJmxou3z7H3ytwGAC0UIsFydLiJACyXbVYlH-Vh8lspVDbnQoIXD74BHeljWmL4E*hueizd2act9eW8sB8eGIo1-TntnEUVHMipBMOP6ufjnWSX6Ux&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第852期1.检察机关依法提前介入老干妈被伪造印章案据贵阳市南明区人民检察院官方微信消息，针对犯罪嫌疑人伪造老干妈公司印章，冒充该公司市场经营部经理与腾讯公司签订合作协...
+ ## [R16标准冻结，5G第一个演进版本标准完成!](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=oV8oa9c3yWyd4D1L638aILCRkvVx99GRm6xcCMo*UH62KtCRZo6V2OTrtRMmeutY1Gc3kqdKGfzjps46cLEfHCWQkfr-ssUTgs7MSFaDj1h0o-2TgOX0wigz5mugMO-I&new=1)
  > 7月3日，国际标准组织3GPP宣布R16标准冻结，标志5G第一个演进版本标准完成。R16标准，不仅增强了5G的功能，让5G进一步走入各行各业并催生新的数字生态产业，还更多兼顾了成本、效率、效能等因素，使通信基础投资...
- ## [华为大反攻!美国不得不每年上缴数百亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=P7Z2tqyz0sIBM1BEbJYkcGMFylMg1q*i72-ksGsNAvabsuK6*uObjLCrNVdheOALFKqDB2Ud4l6r3o1E8QCCQNlZokjva0N7x0OjwA1SW4dF2xx5ICyuLAs6TlJantZV&new=1)
+ ## [只听说网盘要充钱，送钱送到你暴富的“网盘”见过没?](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=-SWcCUHJMXo6wdSrCc4cHZzZqDhnPKtfKbI28XANJ91PnsyaMRAHVWZVnio6AjycWYvZdYa246Mdy9BMPCENfvitpZFhI8SVERoZ6gKzaL6ukNG1ZLAcoq3oC05i4PLx&new=1)
+ > 掐指一算，差评君已经有一段时间没跟大家聊过币圈的新鲜事了。的确，自从去年币圈韭菜大师孙宇晨孙大师割韭菜割出圈 被封 了之后，币圈这个在国内还算小众的群体就没有什么大新闻了。不过最近，好几个许久没什么...
+ ## [又一突破!长虹成功研发首款国产超小体积5G通信模组](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=*gW040Dybshssh*jeBb3Nwj3bMm1cZA27u61bISg7iV8iX68CxKfQkuIbVlny*YS2gHwqY9TzAHtLLqxMH49DP5c9ZCNJny0KMypmJ-mbG09zh5zFVKjFNsvJ5KUcI8x&new=1)
+ > 7月3日从长虹控股公司获悉，四川爱联成功研发首款国产超小体积5G通信模组——AI-NR11，该5G模组可广泛应用在智慧工业、智慧能源、工业机器人、医疗健康、视频安防、无人机等领域，尤其能满足超小摄像头、精密测...
+ ## [华为大反攻!美国不得不每年上缴数百亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=P7Z2tqyz0sIBM1BEbJYkcGMFylMg1q*i72-ksGsNAvabsuK6*uObjLCrNVdheOALftGBEnOIfohjf-AxcHzWqmkV5p7Lo2z309O9FgMY03Ft1tfFLXdPmUhMK5g2nfYj&new=1)
  > 收割美国智商税，华为如狼似虎般地来了！就在全球第83次3GPP全体会议上，华为以绝对的碾压优势，获得79国支持，当选全球5G标准协会主席，抢占5G技术标准的制高点。俗话说，一流企业卖标准，二流企业卖品牌，三流...
 # IT 技术 
  ## [从 Android 到 Java：如何从不同视角解决问题？](http://zhuanlan.51cto.com/art/202007/620216.htm)
@@ -64,35 +66,35 @@ categories: IT NEWS
  ## [OpenCV开发笔记（四十三）：红胖子8分钟带你深入了解累计概率霍夫线变换（图文并茂+浅显易懂+程序源码）](https://blog.csdn.net/qq21497936/article/details/105544972)
  > 
 # 人工智能 
- ## [Python爬虫入门教程 72-100 分布式爬虫初步解析-配好环境肝完一半](https://blog.csdn.net/hihell/article/details/107066454)
+ ## [Python使用文件操作实现一个XX信息管理系统](https://blog.csdn.net/weixin_42307601/article/details/107064670)
  > 
- ## [还不知道什么是高并发？看完这篇文章你可以去吊打面试官了！](https://blog.csdn.net/weixin_45132238/article/details/107062114)
+ ## [20行代码教你用python给证件照换底色](https://blog.csdn.net/weixin_41261833/article/details/107071806)
  > 
- ## [Java网络编程，模拟QQ群聊功能](https://blog.csdn.net/qq2663020556/article/details/107069408)
+ ## [python+pywinauto+lackey实现pc端exe自动化](https://blog.csdn.net/zhengyizyp/article/details/107066794)
  > 
- ## [滴滴百度 面经](https://blog.csdn.net/weixin_44969687/article/details/107080252)
- > 滴滴百度 面经
- ## [Android研发面试大厂，没想到这么难](https://blog.csdn.net/ajsliu1233/article/details/107066200)
+ ## [Pandas基础：文件读取与写入、Series和Dataframe、常用基本函数、排序](https://blog.csdn.net/qq_40317204/article/details/106979983)
  > 
- ## [MySQL中一条SQL是如何执行的？](https://blog.csdn.net/pzjtian/article/details/107072108)
+ ## [python之正则表达式(字符)](https://blog.csdn.net/qq_48657881/article/details/107067807)
+ > python之正则表达式(字符)
+ ## [Python-docx 读写 Word 文档：插入图片、表格，设置表格样式，章节，页眉页脚等](https://blog.csdn.net/zhouz92/article/details/107066709)
  > 
- ## [一文让你搞懂Redis哨兵模式](https://blog.csdn.net/qq_36551991/article/details/107070456)
+ ## [数据结构与算法(Python版)五十一：二叉堆的Python实现](https://blog.csdn.net/weixin_39020133/article/details/107060268)
  > 
- ## [Android - MVC、MVP与MVVM架构](https://blog.csdn.net/mythmayor/article/details/107061609)
- > Android - MVC、MVP与MVVM架构
- ## [JVM与Java的体系结构(JVM入门知识体系总结)](https://blog.csdn.net/qq_45737068/article/details/107082419)
+ ## [牛！Python 也能实现图像姿态识别溺水行为了！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/107053584)
+ > 牛！Python 也能实现图像姿态识别溺水行为了！
+ ## [kaggle——销量预测的baseline（M5 Forecasting - Accuracy）](https://blog.csdn.net/weixin_43901221/article/details/107067334)
  > 
- ## [大厂6年分布式，总结30W字分布式事务突击手册，助你吊打面试官](https://blog.csdn.net/rxh811/article/details/107089496)
- > 大厂6年分布式，总结30W字分布式事务突击手册，助你吊打面试官
- ## [华为高斯数据库正式开源](https://blog.csdn.net/asmartkiller/article/details/107070082)
- > 华为高斯数据库正式开源
- ## [堪称零瑕疵！仅用了330页直接封神，我要吹爆这份RocketMQ笔记](https://blog.csdn.net/weixin_47083537/article/details/107071272)
+ ## [python爬取“堆糖网”小姐姐 图片](https://blog.csdn.net/qq_43598138/article/details/107009851)
  > 
- ## [2020大数据面试真题(持续更新)](https://blog.csdn.net/zuochang_liu/article/details/105274316)
+ ## [\[scikit-learn 机器学习\] 8. 非线性分类和决策树](https://blog.csdn.net/qq_21201267/article/details/107053535)
  > 
- ## [为面阿里P8，我肝了一份651个技术分支的脑图，要么？（限时领）](https://blog.csdn.net/mrchaochao/article/details/107022145)
- > 为面阿里P8，我肝了一份651个技术分支的脑图，要么？（限时领）
- ## [『互联网架构』软件架构-mysql主从（二）](https://blog.csdn.net/zhugeaming2018/article/details/107074564)
+ ## [Python从零开始学 Day05~面向对象](https://blog.csdn.net/qq_41424688/article/details/107091786)
+ > 
+ ## [Python程序设计基础（第一周）学习笔记](https://blog.csdn.net/m0_49025206/article/details/107049712)
+ > Python程序设计基础（第一周）学习笔记
+ ## [python学习-简单图像识别分类](https://blog.csdn.net/m0_45093509/article/details/105924348)
+ > python学习-简单图像识别分类
+ ## [Python函数与模块(1)](https://blog.csdn.net/weixin_46005735/article/details/107073205)
  > 
 # PM 
  ## [关于产品的三大纪律，21项注意](http://www.chanpin100.com/article/112106)
