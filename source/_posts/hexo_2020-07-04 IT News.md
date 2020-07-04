@@ -1,21 +1,21 @@
 ---
 title: 2020-07-04 IT News
 copyright: true
-date: 2020-07-04 08:00:54
+date: 2020-07-04 09:01:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [只听说网盘要充钱，送钱送到你暴富的“网盘”见过没?](http://mp.weixin.qq.com/s?src=11&timestamp=1593819004&ver=2439&signature=-SWcCUHJMXo6wdSrCc4cHZzZqDhnPKtfKbI28XANJ90OzvfsWKw8MpaydNvhyUK3P1-VvScauq2sKgE8AcsyfFSxrwKZ0LX7R1Mt3m-Ql4X7J9ee8JLpfpIgfcmNjHSH&new=1)
+ ## [只听说网盘要充钱，送钱送到你暴富的“网盘”见过没?](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=-SWcCUHJMXo6wdSrCc4cHZzZqDhnPKtfKbI28XANJ91PnsyaMRAHVWZVnio6AjycqLMwZUii*-gxnmpq1gPdsz3p4aZhvuK3yMDMXDNVa*6SkU1YAM4uVnfNQm*4kXmk&new=1)
  > 掐指一算，差评君已经有一段时间没跟大家聊过币圈的新鲜事了。的确，自从去年币圈韭菜大师孙宇晨孙大师割韭菜割出圈 被封 了之后，币圈这个在国内还算小众的群体就没有什么大新闻了。不过最近，好几个许久没什么...
- ## [又一突破!长虹成功研发首款国产超小体积5G通信模组](http://mp.weixin.qq.com/s?src=11&timestamp=1593819004&ver=2439&signature=*gW040Dybshssh*jeBb3Nwj3bMm1cZA27u61bISg7iWzcHlM9f0Ku9W9tMy56THYEJqqPxK0DdilF-4A-YIMN9SrkA1qSr-CzqFlICgs*hC87pH5Hj113zN0ISTKMk2W&new=1)
- > 7月3日从长虹控股公司获悉，四川爱联成功研发首款国产超小体积5G通信模组——AI-NR11，该5G模组可广泛应用在智慧工业、智慧能源、工业机器人、医疗健康、视频安防、无人机等领域，尤其能满足超小摄像头、精密测...
- ## [华为大反攻!美国不得不每年上缴数百亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1593819004&ver=2439&signature=P7Z2tqyz0sIBM1BEbJYkcGMFylMg1q*i72-ksGsNAvY3ga-XELp-va*zJBTleNLWFLd9NbwNUdtZsWofnP-ehsRvtTno-6Joi3txpxFa9AUAQWSwSqUT*wDoZCToNRTJ&new=1)
- > 收割美国智商税，华为如狼似虎般地来了！就在全球第83次3GPP全体会议上，华为以绝对的碾压优势，获得79国支持，当选全球5G标准协会主席，抢占5G技术标准的制高点。俗话说，一流企业卖标准，二流企业卖品牌，三流...
- ## [R16标准冻结，5G第一个演进版本标准完成!](http://mp.weixin.qq.com/s?src=11&timestamp=1593819004&ver=2439&signature=oV8oa9c3yWyd4D1L638aILCRkvVx99GRm6xcCMo*UH535bBPFb4eWq6stxP7V3UP3Ybgi-XYmYQWg-1zvo34DItLi9xYPTf0N4DtXLm1vWsqsTBp37lzss6aYnr8nzIm&new=1)
- > 7月3日，国际标准组织3GPP宣布R16标准冻结，标志5G第一个演进版本标准完成。R16标准，不仅增强了5G的功能，让5G进一步走入各行各业并催生新的数字生态产业，还更多兼顾了成本、效率、效能等因素，使通信基础投资...
- ## [华融普瑞入驻未知大陆开店，专注碳纤维在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1593819004&ver=2439&signature=TqTZSyqdIJs8KMBuVPRNH6AmMrvTluHRlVz4eK0c41AuHiSE4ddt4al5Fe0DTJxuRgg7PRmDsvP3uCZCOXwouOf0X0MsaT7QI48O7T41sbnaJ2VyUuxW1LExZmrCON3k&new=1)
+ ## [华融普瑞入驻未知大陆开店，专注碳纤维在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=TqTZSyqdIJs8KMBuVPRNH6AmMrvTluHRlVz4eK0c41D3UE4NaO2oZmkozX4d98JsvXVRxVdJphCvyhADXbMu2xi-rEFtOshVe**g0JeJL6GhdYN02iFXwHTSiOBzOsqo&new=1)
  > 2020年7月3日，华融普瑞（北京）科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。华融普瑞借助国外先进制造技术，开发了完整的材料、设备与服务体系，可以为客户提供3D打印全流程、全...
+ ## [又一突破!长虹成功研发首款国产超小体积5G通信模组](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=*gW040Dybshssh*jeBb3Nwj3bMm1cZA27u61bISg7iV8iX68CxKfQkuIbVlny*YS-3uibap1yt5GB5kESzr*FEv2rJK3t9D4BV4Wv1x3TG87TGpcUKr1LItROXDzPhlk&new=1)
+ > 7月3日从长虹控股公司获悉，四川爱联成功研发首款国产超小体积5G通信模组——AI-NR11，该5G模组可广泛应用在智慧工业、智慧能源、工业机器人、医疗健康、视频安防、无人机等领域，尤其能满足超小摄像头、精密测...
+ ## [R16标准冻结，5G第一个演进版本标准完成!](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=oV8oa9c3yWyd4D1L638aILCRkvVx99GRm6xcCMo*UH62KtCRZo6V2OTrtRMmeutYYegslS7NNOyI*TDUNKp3j51ZNCPVY5Y9Tf2lQ*wgLvwysp6ik85iZ-8E7w2LGvcA&new=1)
+ > 7月3日，国际标准组织3GPP宣布R16标准冻结，标志5G第一个演进版本标准完成。R16标准，不仅增强了5G的功能，让5G进一步走入各行各业并催生新的数字生态产业，还更多兼顾了成本、效率、效能等因素，使通信基础投资...
+ ## [华为大反攻!美国不得不每年上缴数百亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1593822605&ver=2439&signature=P7Z2tqyz0sIBM1BEbJYkcGMFylMg1q*i72-ksGsNAvabsuK6*uObjLCrNVdheOALFKqDB2Ud4l6r3o1E8QCCQNlZokjva0N7x0OjwA1SW4dF2xx5ICyuLAs6TlJantZV&new=1)
+ > 收割美国智商税，华为如狼似虎般地来了！就在全球第83次3GPP全体会议上，华为以绝对的碾压优势，获得79国支持，当选全球5G标准协会主席，抢占5G技术标准的制高点。俗话说，一流企业卖标准，二流企业卖品牌，三流...
 # IT 技术 
  ## [从 Android 到 Java：如何从不同视角解决问题？](http://zhuanlan.51cto.com/art/202007/620216.htm)
  > 从 Android 到 Java：如何从不同视角解决问题？
@@ -33,6 +33,8 @@ categories: IT NEWS
  > 自动化能否“杀死”安全分析师？
  ## [嵌入式Linux系统的几大组件！](http://os.51cto.com/art/202007/620108.htm)
  > 嵌入式Linux系统的几大组件！
+ ## [微软、阿里、小米、卡内基梅隆专家集聚](https://aiprocon.csdn.net/p/live)
+ > 微软、阿里、小米、卡内基梅隆专家集聚
  ## [PyQt（Python+Qt）学习随笔：富文本编辑器QTextEdit功能详解](https://blog.csdn.net/LaoYuanPython/article/details/105607665)
  > 
  ## [五分钟在springboot中集成Elasticsearch](https://blog.csdn.net/forezp/article/details/106839262)
@@ -61,39 +63,37 @@ categories: IT NEWS
  > go语言快速刷《程序员面试金典》（3）
  ## [OpenCV开发笔记（四十三）：红胖子8分钟带你深入了解累计概率霍夫线变换（图文并茂+浅显易懂+程序源码）](https://blog.csdn.net/qq21497936/article/details/105544972)
  > 
- ## [C++(标准库):11---头文件<cstddef>、<cstdlib>、<cstring>](https://blog.csdn.net/qq_41453285/article/details/105464646)
- > C++(标准库):11---头文件&lt;cstddef&gt;、&lt;cstdlib&gt;、&lt;cstring&gt;
 # 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
+ ## [Python爬虫入门教程 72-100 分布式爬虫初步解析-配好环境肝完一半](https://blog.csdn.net/hihell/article/details/107066454)
+ > 
+ ## [还不知道什么是高并发？看完这篇文章你可以去吊打面试官了！](https://blog.csdn.net/weixin_45132238/article/details/107062114)
+ > 
+ ## [Java网络编程，模拟QQ群聊功能](https://blog.csdn.net/qq2663020556/article/details/107069408)
+ > 
+ ## [滴滴百度 面经](https://blog.csdn.net/weixin_44969687/article/details/107080252)
+ > 滴滴百度 面经
+ ## [Android研发面试大厂，没想到这么难](https://blog.csdn.net/ajsliu1233/article/details/107066200)
+ > 
+ ## [MySQL中一条SQL是如何执行的？](https://blog.csdn.net/pzjtian/article/details/107072108)
+ > 
+ ## [一文让你搞懂Redis哨兵模式](https://blog.csdn.net/qq_36551991/article/details/107070456)
+ > 
+ ## [Android - MVC、MVP与MVVM架构](https://blog.csdn.net/mythmayor/article/details/107061609)
+ > Android - MVC、MVP与MVVM架构
+ ## [JVM与Java的体系结构(JVM入门知识体系总结)](https://blog.csdn.net/qq_45737068/article/details/107082419)
+ > 
+ ## [大厂6年分布式，总结30W字分布式事务突击手册，助你吊打面试官](https://blog.csdn.net/rxh811/article/details/107089496)
+ > 大厂6年分布式，总结30W字分布式事务突击手册，助你吊打面试官
+ ## [华为高斯数据库正式开源](https://blog.csdn.net/asmartkiller/article/details/107070082)
+ > 华为高斯数据库正式开源
+ ## [堪称零瑕疵！仅用了330页直接封神，我要吹爆这份RocketMQ笔记](https://blog.csdn.net/weixin_47083537/article/details/107071272)
+ > 
+ ## [2020大数据面试真题(持续更新)](https://blog.csdn.net/zuochang_liu/article/details/105274316)
+ > 
+ ## [为面阿里P8，我肝了一份651个技术分支的脑图，要么？（限时领）](https://blog.csdn.net/mrchaochao/article/details/107022145)
+ > 为面阿里P8，我肝了一份651个技术分支的脑图，要么？（限时领）
+ ## [『互联网架构』软件架构-mysql主从（二）](https://blog.csdn.net/zhugeaming2018/article/details/107074564)
+ > 
 # PM 
  ## [关于产品的三大纪律，21项注意](http://www.chanpin100.com/article/112106)
  > 产品在日常、工作中的一些说明，大众的生活内容，可以看到产品人的生活点点滴滴。
