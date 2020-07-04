@@ -1,22 +1,36 @@
 ---
 title: 2020-07-04 IT News
 copyright: true
-date: 2020-07-04 10:01:13
+date: 2020-07-04 12:02:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华融普瑞入驻未知大陆开店，专注碳纤维在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=TqTZSyqdIJs8KMBuVPRNH6AmMrvTluHRlVz4eK0c41D3UE4NaO2oZmkozX4d98JsTJ-2BMnqnFsvGMErNRKV1dmeYCRw8prmJeIeIh8QJH*dppU4v9qU9LikwwyIZWhB&new=1)
- > 2020年7月3日，华融普瑞（北京）科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。华融普瑞借助国外先进制造技术，开发了完整的材料、设备与服务体系，可以为客户提供3D打印全流程、全...
- ## [\[科技早报7点整\]QQ上线企鹅辣椒酱表情 格力在中国移动招标中弄虚作假……](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=a6vV1ZMg1dUw25DJmxou3z7H3ytwGAC0UIsFydLiJACyXbVYlH-Vh8lspVDbnQoIXD74BHeljWmL4E*hueizd2act9eW8sB8eGIo1-TntnEUVHMipBMOP6ufjnWSX6Ux&new=1)
+ ## [5G 地心游记](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=7mPqMCL7WUlTXbptWbZKdrZQNylrmODbv9Rn2q1CPy-vj2IP*2lZjUtP5AA1*0v6vdt4ly-BdEGIzfjifzHVIA0uo81hZmYOkojiVf-KaHk0SUO33YII5oo5Cw4Dgo1N&new=1)
+ > 今天带你们来一场5G“地心游”一起了解一下“地下千里智慧神经网”～
+ ## [今天直播：PEEK 3D打印技术在医疗领域的应用研究](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=qmYnKouhfvxXsq06eVq2c6dEAWYRXfvbxaR010UZP7*-*KfbDQXSk*9sF4LNHbOGXkBtIk45yWBEsKYu3LMUxvhLzGgBINnW3dyOdegjtHcU5MZczswbmGAnaabTm*GI&new=1)
+ > 直播主题：【分享与交流】PEEK 3D打印技术在医疗领域的应用研究直播时间：2020年7月4日(周六) 上午10:00-11:00主办单位：三的部落（上海）科技股份有限公司协办单位：南极熊指导单位：上海市增材制造协会、3D打...
+ ## [黑客入侵MongoDB数据库 被入侵数据占总数据库47%!](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=d3l7Mxn5*kxwyjRee*neBJrfnZcHVGdkWjIbVOLR50L3eu-WExvUS4K2TLqVl*ovsH2L9lfRACgyk4OtpqxhYsEI2uUb-vYb3Rzi3jttcmuk1qcSZS43cjf1LkLVXTH9&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com   E安全7月4日讯，近日据外媒报道，黑客已经入侵22900个没有密码并线暴露的MongoDB数据库，并且上传了赎金记录，入侵的数据大约占所有MongoDB在线访问数据库...
+ ## [诺基亚指控联想侵权；格力回应“被中国移动取消中标资格”；微软暂停更新 Edge 浏览器|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=jDE3zR-dnhpecZLnAIPwFpcLtHqdt5WXsIOEeFtBAo-LOzI*Pm9tSdosQ*ZHFjPAwxKRxLkovN-hsnut6my4EGvCB7EllG1K6J5ATfktHgOPBlxLbk2pvn4TzXiFTeK6&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
+ ## [全是干货!汽车行业546篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=heoCjP7POyMJNSjbPR5GbzlB-9fiUkxs8gRLCrbv1EvuJtSdgcKCfhyxXuGa9y*nodDPhlvNt9vfIdNYL*YvlPtODMkQvUxIPRo*TGaSJ7CDRhKhYSeq*LWl0bAvKhKO&new=1)
+ > 汽车行业546篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享546份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [iOS系统被曝存在8年的0day漏洞丨专栏](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=V*xb2F7rjN7XNWll74lUlJh*0SVymJWdVXBw1le1IWdCbNNqe23mKuUDFsStZMSr4WNy1zhS7qAv1E-PGc3CYeP6HOTyRjkhTbqGBsDmfCpGrmvx3GgaYSEV7peUXhEX&new=1)
+ > 一、漏洞概述小白：大东东，前段时间新款iPhone SE开售似乎又引起很大关注啊！大东：是啊。不过就在其开售前夕，安全研究人员发现iPhone和iPad自带的默认邮件应用程序MobileMail和Maild存在两个正在被在野利用的...
+ ## [\[科技早报7点整\]QQ上线企鹅辣椒酱表情 格力在中国移动招标中弄虚作假……](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=a6vV1ZMg1dUw25DJmxou3z7H3ytwGAC0UIsFydLiJABGlxqDs4W8XXmUriHmTbl2d-1pvSr9QpRG2h5QjbIV3Pe7sMMFAO34UI-2O*9gUKeQvZvVvcZpRACDzoLRL29M&new=1)
  > 早上好，科技圈【一度蜜科技早报】第852期1.检察机关依法提前介入老干妈被伪造印章案据贵阳市南明区人民检察院官方微信消息，针对犯罪嫌疑人伪造老干妈公司印章，冒充该公司市场经营部经理与腾讯公司签订合作协...
- ## [R16标准冻结，5G第一个演进版本标准完成!](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=oV8oa9c3yWyd4D1L638aILCRkvVx99GRm6xcCMo*UH62KtCRZo6V2OTrtRMmeutY1Gc3kqdKGfzjps46cLEfHCWQkfr-ssUTgs7MSFaDj1h0o-2TgOX0wigz5mugMO-I&new=1)
+ ## [贵阳三案例入围贵州省工业企业“上云用云”优秀案例名单](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=bBrerzPSzI7ld6YIEoVH6icxsFaVYnQ2R5KjztdxX7pCqLEiyW2myZFgsbtko7LPfClAGGBRsbO7LaczqcV*NLQykA9AZzhotBhXafxjhuc=&new=1)
+ > 本报讯 近日，贵州省工业和信息化厅公布2020年贵州省工业企业“上云用云”优秀案例名单。名单包含15个优秀案例，由贵阳市工信局组织推荐的“利用超融合架构实现基础设施上云用云”“基于云生态的供应链关系...
+ ## [华融普瑞入驻未知大陆开店，专注碳纤维在线3D打印服务](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=TqTZSyqdIJs8KMBuVPRNH6AmMrvTluHRlVz4eK0c41CfcIwOsgS*gv1dAXkKOhgpz*0kpUimzAixNukM5inNePIi9MMpjCJWSLKIC1MZRxlY-m4RzfPfNICWqW1exMWp&new=1)
+ > 2020年7月3日，华融普瑞（北京）科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。华融普瑞借助国外先进制造技术，开发了完整的材料、设备与服务体系，可以为客户提供3D打印全流程、全...
+ ## [R16标准冻结，5G第一个演进版本标准完成!](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=oV8oa9c3yWyd4D1L638aILCRkvVx99GRm6xcCMo*UH4A2FqmDzYa8297Wey4AF2F-ok5jMxBTu6lm1k72*9x*Vra5pdjkUw4Oc7O-PexzJh6rVG4h-EKv8KAhAxu5HVp&new=1)
  > 7月3日，国际标准组织3GPP宣布R16标准冻结，标志5G第一个演进版本标准完成。R16标准，不仅增强了5G的功能，让5G进一步走入各行各业并催生新的数字生态产业，还更多兼顾了成本、效率、效能等因素，使通信基础投资...
- ## [只听说网盘要充钱，送钱送到你暴富的“网盘”见过没?](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=-SWcCUHJMXo6wdSrCc4cHZzZqDhnPKtfKbI28XANJ91PnsyaMRAHVWZVnio6AjycWYvZdYa246Mdy9BMPCENfvitpZFhI8SVERoZ6gKzaL6ukNG1ZLAcoq3oC05i4PLx&new=1)
+ ## [只听说网盘要充钱，送钱送到你暴富的“网盘”见过没?](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=-SWcCUHJMXo6wdSrCc4cHZzZqDhnPKtfKbI28XANJ90Dfk6QlJbv2LXB2f4mSAyyD908cixk*XDspH01OyD1b41e9v4tQD1xeS*nCgS5FPsgos4hPsshwuPOVn2wzHU4&new=1)
  > 掐指一算，差评君已经有一段时间没跟大家聊过币圈的新鲜事了。的确，自从去年币圈韭菜大师孙宇晨孙大师割韭菜割出圈 被封 了之后，币圈这个在国内还算小众的群体就没有什么大新闻了。不过最近，好几个许久没什么...
- ## [又一突破!长虹成功研发首款国产超小体积5G通信模组](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=*gW040Dybshssh*jeBb3Nwj3bMm1cZA27u61bISg7iV8iX68CxKfQkuIbVlny*YS2gHwqY9TzAHtLLqxMH49DP5c9ZCNJny0KMypmJ-mbG09zh5zFVKjFNsvJ5KUcI8x&new=1)
+ ## [又一突破!长虹成功研发首款国产超小体积5G通信模组](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=*gW040Dybshssh*jeBb3Nwj3bMm1cZA27u61bISg7iXJIMFmxVI5Z0MnqaABdhP2kQdXXFndvbnpkpwu2nYW4U2sX9BJpeO22rb4m0CaWQfysOFSP9TnkYiDW6q*3UBv&new=1)
  > 7月3日从长虹控股公司获悉，四川爱联成功研发首款国产超小体积5G通信模组——AI-NR11，该5G模组可广泛应用在智慧工业、智慧能源、工业机器人、医疗健康、视频安防、无人机等领域，尤其能满足超小摄像头、精密测...
- ## [华为大反攻!美国不得不每年上缴数百亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1593826205&ver=2439&signature=P7Z2tqyz0sIBM1BEbJYkcGMFylMg1q*i72-ksGsNAvabsuK6*uObjLCrNVdheOALftGBEnOIfohjf-AxcHzWqmkV5p7Lo2z309O9FgMY03Ft1tfFLXdPmUhMK5g2nfYj&new=1)
+ ## [华为大反攻!美国不得不每年上缴数百亿美元!](http://mp.weixin.qq.com/s?src=11&timestamp=1593833469&ver=2439&signature=P7Z2tqyz0sIBM1BEbJYkcGMFylMg1q*i72-ksGsNAvYY7SUZkj2SmY3anJBISRdjrIa26iAL7R7CiRALvq3fhQrDoW37DryyZVQV8Q0TCzKpDKvroHh8x0*7FGLihG1w&new=1)
  > 收割美国智商税，华为如狼似虎般地来了！就在全球第83次3GPP全体会议上，华为以绝对的碾压优势，获得79国支持，当选全球5G标准协会主席，抢占5G技术标准的制高点。俗话说，一流企业卖标准，二流企业卖品牌，三流...
 # IT 技术 
  ## [从 Android 到 Java：如何从不同视角解决问题？](http://zhuanlan.51cto.com/art/202007/620216.htm)
@@ -35,6 +49,26 @@ categories: IT NEWS
  > 自动化能否“杀死”安全分析师？
  ## [嵌入式Linux系统的几大组件！](http://os.51cto.com/art/202007/620108.htm)
  > 嵌入式Linux系统的几大组件！
+ ## [您应该了解的有关NoSQL数据库的所有信息-系统设计](http://database.51cto.com/art/202007/620259.htm)
+ > 在设计系统时，很难在关系(RDBS)和非关系数据库(NoSQL)之间进行选择。 正确理解这两个局限性将使决策变得更
+ ## [什么是Python中的Dask，它如何帮助你进行数据分析？](http://developer.51cto.com/art/202007/620258.htm)
+ > 有这么一个库，它提供了并行计算、加速了算法，甚至允许您将NumPy和pandas与XGBoost库集成在一起。让我们认
+ ## [使用telnet测试指定端口的连通性](http://developer.51cto.com/art/202007/620257.htm)
+ > telnet为用户提供了在本地计算机上完成远程主机工作的能力，因此可以通过telnet来测试端口的连通性。
+ ## [现代化机器学习工具，助数据科学家开展更多工程或业务功能](http://ai.51cto.com/art/202007/620256.htm)
+ > 数据科学的发展日新月异，机器学习的角色正从数据科学的混合角色过渡到更多的工程或面向分析的角色，主要是
+ ## [Android开发人员看过来：这些Kotlin化方法帮你提高开发技能](http://developer.51cto.com/art/202007/620255.htm)
+ > 在被指定为Android的官方语言后，Kotlin逐渐取代了Java，成为现今Android开发人员的首选，它让Android开发
+ ## [小心了，网络游戏近期可能会成为黑客攻击的主要渠道](http://netsecurity.51cto.com/art/202007/620254.htm)
+ > 随着游戏产业的崛起和人们对游戏的过多投入，黑客已经把攻击目标锁定在了游戏玩家身上。
+ ## [美联储为你提供了一份针对合成身份类的防诈骗指南](http://netsecurity.51cto.com/art/202007/620253.htm)
+ > 近日，美联储发布了一项新的“防诈骗”指南，以帮助民众和信贷机构识别免“合成身份类型”的支付诈骗。
+ ## [MQTT与SSE的对比](http://network.51cto.com/art/202007/620252.htm)
+ > 当您需要数据从服务器快速地流向客户机时，需要一个持久连接。您可以使用长轮询(long polling)、WebSockets
+ ## [从MVNO的角度来看物联网平台的重要性](http://iot.51cto.com/art/202007/620251.htm)
+ > 物联网平台具备处理大量数据、应用程序、用户、网站、传感器和设备的能力，并同时根据输入实时触发操作。
+ ## [你的物联网需要SD-WAN的3个原因](http://iot.51cto.com/art/202007/620250.htm)
+ > 如果想要成功，成本效益高、安全且易于管理的网络连接是必须的。不幸的是，广域网(WAN)的设计并不能提供大
  ## [微软、阿里、小米、卡内基梅隆专家集聚](https://aiprocon.csdn.net/p/live)
  > 微软、阿里、小米、卡内基梅隆专家集聚
  ## [PyQt（Python+Qt）学习随笔：富文本编辑器QTextEdit功能详解](https://blog.csdn.net/LaoYuanPython/article/details/105607665)
@@ -66,36 +100,36 @@ categories: IT NEWS
  ## [OpenCV开发笔记（四十三）：红胖子8分钟带你深入了解累计概率霍夫线变换（图文并茂+浅显易懂+程序源码）](https://blog.csdn.net/qq21497936/article/details/105544972)
  > 
 # 人工智能 
- ## [Python使用文件操作实现一个XX信息管理系统](https://blog.csdn.net/weixin_42307601/article/details/107064670)
+ ## [用Python忆童年，最终还真把模拟器跑起来了](https://blog.csdn.net/hihell/article/details/107085774)
  > 
- ## [20行代码教你用python给证件照换底色](https://blog.csdn.net/weixin_41261833/article/details/107071806)
+ ## [LeetCode 293. 翻转游戏](https://blog.csdn.net/qq_21201267/article/details/107094697)
+ > LeetCode 293. 翻转游戏
+ ## [python 250行代码开发一个贪吃蛇（较为完整）](https://blog.csdn.net/qq_44973159/article/details/107101895)
  > 
- ## [python+pywinauto+lackey实现pc端exe自动化](https://blog.csdn.net/zhengyizyp/article/details/107066794)
+ ## [511遇见易语言大漠模块制作鼠标左键右键单击双击](https://blog.csdn.net/zcp528/article/details/107076576)
+ > 511遇见易语言大漠模块制作鼠标左键右键单击双击
+ ## [刷题两个月，终于进了梦寐以求的大厂，数据结构与算法太TM重要了](https://blog.csdn.net/weixin_45132238/article/details/107086432)
  > 
- ## [Pandas基础：文件读取与写入、Series和Dataframe、常用基本函数、排序](https://blog.csdn.net/qq_40317204/article/details/106979983)
+ ## [好多粉数据上报之360点睛平台ocpc API上报数据方法](https://blog.csdn.net/zxxxxxxxxxxxz/article/details/107083763)
+ > 好多粉数据上报之360点睛平台ocpc API上报数据方法
+ ## [【附源码】小白打造「传奇游戏」 （一）](https://blog.csdn.net/weixin_44497406/article/details/107085041)
  > 
- ## [python之正则表达式(字符)](https://blog.csdn.net/qq_48657881/article/details/107067807)
- > python之正则表达式(字符)
- ## [Python-docx 读写 Word 文档：插入图片、表格，设置表格样式，章节，页眉页脚等](https://blog.csdn.net/zhouz92/article/details/107066709)
+ ## [leetcode 面试题 16.04. 井字游戏，简单高效的解题思路](https://blog.csdn.net/longool/article/details/107078033)
+ > leetcode 面试题 16.04. 井字游戏，简单高效的解题思路
+ ## [一个年轻人为什么毫无欲望？](https://blog.csdn.net/qq_32146369/article/details/107094685)
+ > 一个年轻人为什么毫无欲望？
+ ## [C4D样条线模笔记](https://blog.csdn.net/Mr_weilai/article/details/107045231)
+ > C4D样条线模笔记
+ ## [saas paas iaas 区别](https://blog.csdn.net/u010264186/article/details/107099695)
+ > saas paas iaas 区别
+ ## [斗鱼VS虎牙，谁才是直播之王？一文带你看看两家平台 的竞品报告](https://blog.csdn.net/wenyusuran/article/details/107076350)
+ > 斗鱼VS虎牙，谁才是直播之王？一文带你看看两家平台 的竞品报告
+ ## [与全球年龄最大的程序员的对话](https://blog.csdn.net/Jailman/article/details/107100467)
+ > 与全球年龄最大的程序员的对话
+ ## [咪咕自动翻页打卡（免费得kindle）](https://blog.csdn.net/qq_38275707/article/details/107077834)
  > 
- ## [数据结构与算法(Python版)五十一：二叉堆的Python实现](https://blog.csdn.net/weixin_39020133/article/details/107060268)
- > 
- ## [牛！Python 也能实现图像姿态识别溺水行为了！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/107053584)
- > 牛！Python 也能实现图像姿态识别溺水行为了！
- ## [kaggle——销量预测的baseline（M5 Forecasting - Accuracy）](https://blog.csdn.net/weixin_43901221/article/details/107067334)
- > 
- ## [python爬取“堆糖网”小姐姐 图片](https://blog.csdn.net/qq_43598138/article/details/107009851)
- > 
- ## [\[scikit-learn 机器学习\] 8. 非线性分类和决策树](https://blog.csdn.net/qq_21201267/article/details/107053535)
- > 
- ## [Python从零开始学 Day05~面向对象](https://blog.csdn.net/qq_41424688/article/details/107091786)
- > 
- ## [Python程序设计基础（第一周）学习笔记](https://blog.csdn.net/m0_49025206/article/details/107049712)
- > Python程序设计基础（第一周）学习笔记
- ## [python学习-简单图像识别分类](https://blog.csdn.net/m0_45093509/article/details/105924348)
- > python学习-简单图像识别分类
- ## [Python函数与模块(1)](https://blog.csdn.net/weixin_46005735/article/details/107073205)
- > 
+ ## [易语言大漠插件模块制作后台找字FindStr及游戏实战](https://blog.csdn.net/zcp528/article/details/107101894)
+ > 易语言大漠插件模块制作后台找字FindStr及游戏实战
 # PM 
  ## [关于产品的三大纪律，21项注意](http://www.chanpin100.com/article/112106)
  > 产品在日常、工作中的一些说明，大众的生活内容，可以看到产品人的生活点点滴滴。
