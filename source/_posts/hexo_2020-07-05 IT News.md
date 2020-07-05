@@ -1,20 +1,20 @@
 ---
 title: 2020-07-05 IT News
 copyright: true
-date: 2020-07-05 10:03:38
+date: 2020-07-05 12:01:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [卧薪尝胆2年!中兴突然复出!将是美科技界头疼的第二个“华为”](http://mp.weixin.qq.com/s?src=11&timestamp=1593912661&ver=2441&signature=G3sz4k5kuPBChTLsxv3V6JJbOxJUCTsXkEwGwZvN50J8yNtPswQAoYG0wsneGdA8qVJ-pk7SMPzZFgS7jh1BBl1LgU9a*SVYziilMUR-jjPNY2g3ApH9FSOsw2Y8lSfc&new=1)
- > 卧薪尝胆2年！中兴突然复出！将是美科技界头疼的第二个“华为”中兴通讯作为中国通讯行业的巨头公司，能够 说成命运多舛了。早在2018年就遭受了美贸易措施的影响，业务流程无法继续，到最终以支付处罚才做到了调...
- ## [“非常看好”云计算前景 腾讯最大集群规模数据中心正式开服](http://mp.weixin.qq.com/s?src=11&timestamp=1593912661&ver=2441&signature=9lGupwWqWxg145yh49RCLEoi4ZPMXIT9oVghyyjcamD*ARebTJ1wv0APL4QnzkJvRXd1omiEtD6GeuFvdSLAn-mJNrIw2bcSjOkhhcO8VdI=&new=1)
- > 经济观察网 记者 李华清 7月3日，腾讯清远云计算数据中心正式开服。腾讯公司介绍，按照规划，腾讯在清远投资建设的数据中心集群能容纳超过百万台服务器，7月3日开服的是一期项目，上架30万台服务器。该数据中心...
- ## [凌晨，格力紧急回应](http://mp.weixin.qq.com/s?src=11&timestamp=1593912661&ver=2441&signature=qLtGfYQSIKa6foo1*lmj6KdQ74RuNsSqugkSWAWlfkSQEBzHirRJ9mfKkTpKjibScMhDUBW8dUIF1XsGnbY*Q9VFfHDTxHOBqMLdMVpsFSqQPNNgghbuPbxYMxSQPtZI&new=1)
+ ## [凌晨，格力紧急回应](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=qLtGfYQSIKa6foo1*lmj6KdQ74RuNsSqugkSWAWlfkSoAeHkITkcNVwtiqXX57uvbK3GBiZKcC-0ENUaGeYf1zz**a8JPqZGiM*Xv6HXZV7IV2A3-TMECqSV27aLlaiC&new=1)
  > 4日凌晨，格力电器在其官方微博发布声明回应“被取消中标资格”一事。声明中称，经内部核查，该事件属申报过程中的材料整理失误，并非目前网络所传为达到中标目的虚标技术参数、虚标能效参数的行为。来源：格力...
- ## [Mobileye的近忧与远虑](http://mp.weixin.qq.com/s?src=11&timestamp=1593912661&ver=2441&signature=xRIlCx*Ei*hqwBO68xULueo4o6jKfaQrMHROcaugi97-5iUQuSgJtzUAmS1OVNVuFAxwstsDJ8gnkP1AS8L7KN4kOwAAzYkxb7vslU-eTMtbNNbFbLJQPfKGrxqjKGzy&new=1)
+ ## [“非常看好”云计算前景 腾讯最大集群规模数据中心正式开服](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=9lGupwWqWxg145yh49RCLEoi4ZPMXIT9oVghyyjcamDoAMd4OlTkJiXn*IAEMSWwocUyDLiMO1ttiagkHF8KvjlnHVQX8u35euZhY-WH574=&new=1)
+ > 经济观察网 记者 李华清 7月3日，腾讯清远云计算数据中心正式开服。腾讯公司介绍，按照规划，腾讯在清远投资建设的数据中心集群能容纳超过百万台服务器，7月3日开服的是一期项目，上架30万台服务器。该数据中心...
+ ## [Mobileye的近忧与远虑](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=xRIlCx*Ei*hqwBO68xULueo4o6jKfaQrMHROcaugi95Y0F8uM4OLNSMaqjnwQRstEhTs-WIvSH3YLmE*QpPab91Ytq5u2VF*4LVu3AGNVq7SU4Gn-dPdKBvDYmavhIG0&new=1)
  > Mobileye对客户“极强的控制欲”的背后，其实是“缺乏安全感”。但这种强势并不能让自己的处境真正安全起来，充其量只能是让自己“觉得安全了”。然而，你越强势，客户便越缺乏安全感。 而对客户来说，重建安全...
- ## [\[观察\]为什么说这张名片，正在深刻地改变天津?!](http://mp.weixin.qq.com/s?src=11&timestamp=1593912661&ver=2441&signature=kwSXiqYEUlOiK509HR6nLGwzaAXqAhGwfW46FS850CW-tM1paM4AHKFbl3THREIivdnvng7Y5Z0uZ5TIME7ekbo8sJ9jTnVL0sNiJQZjlW2UJ6kzfCJaTmnhYMNEBeW1&new=1)
+ ## [卧薪尝胆2年!中兴突然复出!将是美科技界头疼的第二个“华为”](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=G3sz4k5kuPBChTLsxv3V6JJbOxJUCTsXkEwGwZvN50LpOadqRLnH8KhNY37aLjhKD6QSmX4qufcbP9tCuHYRuqBquFs2d1E9JHKtG43bAW816bAK0Lhh1kQYQTjVYpFc&new=1)
+ > 卧薪尝胆2年！中兴突然复出！将是美科技界头疼的第二个“华为”中兴通讯作为中国通讯行业的巨头公司，能够 说成命运多舛了。早在2018年就遭受了美贸易措施的影响，业务流程无法继续，到最终以支付处罚才做到了调...
+ ## [\[观察\]为什么说这张名片，正在深刻地改变天津?!](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=kwSXiqYEUlOiK509HR6nLGwzaAXqAhGwfW46FS850CWQaAY8vdIdI41xD42tOU6AB*-B0v-WgOa7Xic5KPyBV5A8gF8JPaM1fqQLn7R-XxP8UDZAMIDtcfz6Fu0hT-8g&new=1)
  > 5月底6月初，有美国国会议员提出了《无尽前沿法案》，根据该法案，美国国家科学基金会将更名为国家科学技术基金会，并计划拿出1000亿美元在10个关键重点领域推进技术发展。该法案涉及的10个领域包括高性能计算机...
 # IT 技术 
  ## [从 Android 到 Java：如何从不同视角解决问题？](http://zhuanlan.51cto.com/art/202007/620216.htm)
@@ -76,35 +76,35 @@ categories: IT NEWS
  ## [Java 开发技巧：减少魔法值的使用](https://blog.csdn.net/qq_35067322/article/details/105721763)
  > Java 开发技巧：减少魔法值的使用
 # 人工智能 
- ## [Linux内核维护者难寻！当Linus等人老去时，Linux将走向何方？](https://blog.csdn.net/qq_45401061/article/details/107112607)
+ ## [深入理解编译优化之循环展开和粗化锁](https://blog.csdn.net/superfjj/article/details/107119532)
  > 
- ## [陈一飞老师毕业寄语——致自动化161全体](https://blog.csdn.net/mlewsmdsky/article/details/107116914)
- > 陈一飞老师毕业寄语——致自动化161全体
- ## [女程序员，靠脸还是靠技术？](https://blog.csdn.net/shirln/article/details/106992069)
- > 女程序员，靠脸还是靠技术？
- ## [【一年总结】记我的大一生活](https://blog.csdn.net/qq_46101869/article/details/107122464)
- > 
- ## [没有学历，在IT界边缘苦苦挣扎的我们，该何去何从](https://blog.csdn.net/Deng_Xian_Sheng/article/details/107099477)
- > 
- ## [最详细IDEA 常用配置、布局说明](https://blog.csdn.net/weixin_45606067/article/details/107079700)
- > 最详细IDEA 常用配置、布局说明
- ## [谨以此文纪念我的大学四年](https://blog.csdn.net/qq_40818798/article/details/107059141)
- > 
- ## [2020年7月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/107073202)
- > 2020年7月中国编程语言排行榜
- ## [工作三年多，我又想辞职了](https://blog.csdn.net/weixin_42332600/article/details/107116735)
- > 工作三年多，我又想辞职了
- ## [8年Android程序员一个月面试6家大厂的面试题整理和建议](https://blog.csdn.net/ajsliu1233/article/details/107115855)
- > 
- ## [只有大佬才知道的八大顶级自学网站，赶紧收藏学习吧！！！](https://blog.csdn.net/ywsydwsbn/article/details/107125691)
- > 
- ## [面试中常见的人事问题](https://blog.csdn.net/AyayaOVO/article/details/107118547)
- > 面试中常见的人事问题
- ## [如果有机会，一定走出去看看！](https://blog.csdn.net/mzc_love/article/details/107113984)
- > 如果有机会，一定走出去看看！
- ## [大二下总结与暑假计划安排](https://blog.csdn.net/qq_43220622/article/details/107116198)
- > 大二下总结与暑假计划安排
- ## [80后老阿姨转行做前端的学习心得，深情交流！](https://blog.csdn.net/BOM485480/article/details/107102525)
- > 80后老阿姨转行做前端的学习心得，深情交流！
+ ## [比特币智能合约入门（2）- 高级语言 sCrypt 简介](https://blog.csdn.net/freedomhero/article/details/107104952)
+ > 比特币智能合约入门（2）- 高级语言 sCrypt 简介
+ ## [海伯利安地图公链(三篇)](https://blog.csdn.net/guanyuwanglei/article/details/106964585)
+ > 海伯利安地图公链(三篇)
+ ## [Go 面向对象编程之封装](https://blog.csdn.net/baidu_41388533/article/details/107114797)
+ > Go 面向对象编程之封装
+ ## [AQS同步队列中的节点状态](https://blog.csdn.net/weixin_38106322/article/details/107120866)
+ > AQS同步队列中的节点状态
+ ## [PM981/PM981a安装黑苹果(第七版)](https://blog.csdn.net/m0_46463797/article/details/107127286)
+ > PM981/PM981a安装黑苹果(第七版)
+ ## [关于Fabric中shim包的问题](https://blog.csdn.net/i_want_study/article/details/107107402)
+ > 关于Fabric中shim包的问题
+ ## [【Node-RED】阿里云ubuntu18安装Node-RED+Node-RED加载自定义节点](https://blog.csdn.net/weixin_41865104/article/details/107098027)
+ > 【Node-RED】阿里云ubuntu18安装Node-RED+Node-RED加载自定义节点
+ ## [IIC通信软件模拟](https://blog.csdn.net/nizhenyuchina/article/details/107109573)
+ > IIC通信软件模拟
+ ## [golang源码阅读-nsq-生产者代码](https://blog.csdn.net/qq_22323251/article/details/107117066)
+ > golang源码阅读-nsq-生产者代码
+ ## [详解Filecoin经济模型与商业启示](https://blog.csdn.net/weixin_47143052/article/details/107101913)
+ > 详解Filecoin经济模型与商业启示
+ ## [扩展欧几里得算法求逆元](https://blog.csdn.net/hesorchen/article/details/107115201)
+ > 扩展欧几里得算法求逆元
+ ## [微灵外汇预测系统赋予WEN生态新价值](https://blog.csdn.net/qiuzigege/article/details/107107889)
+ > 微灵外汇预测系统赋予WEN生态新价值
+ ## [比特币智能合约入门（3）- sCrypt 开发工具篇 - Visual Studio Code 插件](https://blog.csdn.net/freedomhero/article/details/107127341)
+ > 比特币智能合约入门（3）- sCrypt 开发工具篇 - Visual Studio Code 插件
+ ## [Go 实现接口和继承比较](https://blog.csdn.net/baidu_41388533/article/details/107128002)
+ > Go 实现接口和继承比较
 
     
