@@ -1,21 +1,35 @@
 ---
 title: 2020-07-05 IT News
 copyright: true
-date: 2020-07-05 12:01:38
+date: 2020-07-05 17:02:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [凌晨，格力紧急回应](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=qLtGfYQSIKa6foo1*lmj6KdQ74RuNsSqugkSWAWlfkSoAeHkITkcNVwtiqXX57uvbK3GBiZKcC-0ENUaGeYf1zz**a8JPqZGiM*Xv6HXZV7IV2A3-TMECqSV27aLlaiC&new=1)
- > 4日凌晨，格力电器在其官方微博发布声明回应“被取消中标资格”一事。声明中称，经内部核查，该事件属申报过程中的材料整理失误，并非目前网络所传为达到中标目的虚标技术参数、虚标能效参数的行为。来源：格力...
- ## [“非常看好”云计算前景 腾讯最大集群规模数据中心正式开服](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=9lGupwWqWxg145yh49RCLEoi4ZPMXIT9oVghyyjcamDoAMd4OlTkJiXn*IAEMSWwocUyDLiMO1ttiagkHF8KvjlnHVQX8u35euZhY-WH574=&new=1)
- > 经济观察网 记者 李华清 7月3日，腾讯清远云计算数据中心正式开服。腾讯公司介绍，按照规划，腾讯在清远投资建设的数据中心集群能容纳超过百万台服务器，7月3日开服的是一期项目，上架30万台服务器。该数据中心...
- ## [Mobileye的近忧与远虑](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=xRIlCx*Ei*hqwBO68xULueo4o6jKfaQrMHROcaugi95Y0F8uM4OLNSMaqjnwQRstEhTs-WIvSH3YLmE*QpPab91Ytq5u2VF*4LVu3AGNVq7SU4Gn-dPdKBvDYmavhIG0&new=1)
- > Mobileye对客户“极强的控制欲”的背后，其实是“缺乏安全感”。但这种强势并不能让自己的处境真正安全起来，充其量只能是让自己“觉得安全了”。然而，你越强势，客户便越缺乏安全感。 而对客户来说，重建安全...
- ## [卧薪尝胆2年!中兴突然复出!将是美科技界头疼的第二个“华为”](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=G3sz4k5kuPBChTLsxv3V6JJbOxJUCTsXkEwGwZvN50LpOadqRLnH8KhNY37aLjhKD6QSmX4qufcbP9tCuHYRuqBquFs2d1E9JHKtG43bAW816bAK0Lhh1kQYQTjVYpFc&new=1)
- > 卧薪尝胆2年！中兴突然复出！将是美科技界头疼的第二个“华为”中兴通讯作为中国通讯行业的巨头公司，能够 说成命运多舛了。早在2018年就遭受了美贸易措施的影响，业务流程无法继续，到最终以支付处罚才做到了调...
- ## [\[观察\]为什么说这张名片，正在深刻地改变天津?!](http://mp.weixin.qq.com/s?src=11&timestamp=1593921605&ver=2441&signature=kwSXiqYEUlOiK509HR6nLGwzaAXqAhGwfW46FS850CWQaAY8vdIdI41xD42tOU6AB*-B0v-WgOa7Xic5KPyBV5A8gF8JPaM1fqQLn7R-XxP8UDZAMIDtcfz6Fu0hT-8g&new=1)
+ ## [王建宙：5G应用开发不要炒作概念](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=b79RicRYe1Pkdpqeu6rzmuJ1k5o3GeCSXhl7EH8jIgYYW7ud9ueplyNN6r3xIdo*l2k12AoePRK98hs6neiHwAUcQFJxgWFLaIgJ-KtCNbtanRIXhtvcB-oQ1EpL7-Kw&new=1)
+ > 王建宙认为，标志性5G应用出现会快于3G时代现阶段参与5G应用开发的主要是电信运营商和设备商，全球移动通信协会（GSMA）高级顾问王建宙在6月30日的GSMA Thrive大会商表示，应该鼓励社会企业和资本参与，不过过程...
+ ## [最新公示!河北6高校拟获认定](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=gIfFs-bwVOjfUfDzbliJhIKdgbIPyaX9CgoAAsmw2C86FKVO1thOS7whWhxtmKZmKHsbLYF4wIT*ANehpJmtzN3IkFvfHGSUpLxQFdPB2n0lsxtMBYvCsU7Qs-YxH3Ge&new=1)
+ > 省科技厅近日发布通知，对2020年度拟认定河北省国际科技合作基地进行公示，河北外国语学院等6高校，香河鼎泰园区建设发展有限公司等18家单位申报的基地入选拟认定名单↓↓↓2020年度拟认定河北省国际科技合作基...
+ ## [支持40+种语言和本地运行，这个OCR库轻松搞定光学字符识别](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=CLexSLOjL-5Vn*rLzZ3OnZrED9sdDHIVSMf8Os9Zlj74vhVSpo*78SXGzeUfZ2wO9sXm4l4nRSkt0o59LIyMCT57pV5F31y8gJigoymHDr9HvsdJVf5aC4QB*IrZlmid&new=1)
+ > 机器之心报道参与：路Easy OCR 支持 40 多种语言，所需的 GPU 内存为 2GB+，并且支持在 CPU 模式中运行。OCR（光学字符识别）是是指对文本资料的图像文件进行分析识别处理，获取文字及版面信息的过程。目前，这...
+ ## [上海市建筑学会率先试水区块链技术 建筑行业颠覆大幕正徐徐拉开](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=jyXndfCRAYo-sbO4qLdnIyiEuO1I6UuNfEhyffzguKHcPdGhT5wepsZDEs2SCF*Sts4E8DikOv1qcpyIS7RwdtgxLca7t6Ww4-HZTN86gecy-8V0eVMlQivddazgUfHf&new=1)
+ > 记者：吴苡婷　　近年来，上海正在构建区块链产业生态群落，各种场景在不同产业中正在逐步实现。建筑行业的区块链实践也正在悄然进行中，上海市建筑学会将在全国率先开始试水将区块链技术引入未来工程管理中，位...
+ ## [Adobe 软件的替代品们](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=gxhZzZs6bT7on6sA2o0IExwRitG4jSbyG4EmXlGg1-cn-OExRisXCuSgkdzUiOvmT86UkAqyjLv432EnqdxQ3AhSEkb5cqYYdqL-DmPBsdo4x0s9c0OuGTxTi4kD515Y&new=1)
+ > 这是一份由 @feeshy 发起的针对 Adobe 系列软件的替代品们的公共帖子，任何人都可以编辑，目前已有图像编辑（替代 Photoshop）、RAW 照片管理&amp;显影&amp;处理（替代 Lightroom）、图形设计（替代 Illustrato
+ ## [编程能力差，90%输在了这点上!CTO：这样学编程，更容易成为高手](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=KvD3mqOAPKac*6IhYTRtuJIyTZvZWC8RwGZtAhWsw40hJ3K9XwYD6BUXvtVYLqhYF5ew4gUn0T0qSzRhfQUbnOZV8kV1ABSd3QJ*g6TKldOMPwB-ySVyM088jYBwMI3-&new=1)
+ > 从事 Python 这些年中，我见过很多 Python 教程和书籍，他们大都这样讲 ：先介绍 Python 的基本语法规则、list, dict, tuple 等数据结构，然后再介绍字符串处理和正则表达式，介绍文件等 IO 操作.... 就
+ ## [\[观察\]为什么说这张名片，正在深刻地改变天津?!](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=kwSXiqYEUlOiK509HR6nLGwzaAXqAhGwfW46FS850CWzxh39kiQ8Xk60EV0Qjyox3jwJ7THgIq3doojFjw-gMIkE8bN7N1LPEgG2bhT9mZE8LlW4bOSPO3GsmhnJ2C*T&new=1)
  > 5月底6月初，有美国国会议员提出了《无尽前沿法案》，根据该法案，美国国家科学基金会将更名为国家科学技术基金会，并计划拿出1000亿美元在10个关键重点领域推进技术发展。该法案涉及的10个领域包括高性能计算机...
+ ## [5G敲定低时延广连接标准，垂直应用的春天来了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=b79RicRYe1Pkdpqeu6rzmuJ1k5o3GeCSXhl7EH8jIgYuyqegKs0LSGlFyd95fuBPq*vLFA07*legLJ21btq5xkTERyWERzVZAyNUOlIiBGRziDMXseJe0hVHMl7yWhAH&new=1)
+ > R16版本补足5G的三角能力，基本可用在工业互联网、自动驾驶等垂直领域在建立起基础架构24个月之后，5G面向垂直行业的能力终于统一标准。7月3日，国际标准组织3GPP宣布冻结5G R16标准。R16又被称为“5G第二阶段”...
+ ## [Mobileye的近忧与远虑](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=xRIlCx*Ei*hqwBO68xULueo4o6jKfaQrMHROcaugi96xOzLVLqXVFAMpHv4JVNvfPB2SNyqsX9ME9H40tdAQzOabiguVHHQ1AphVOcZ7pG24cTzpz-0W0U1yQebNNS9e&new=1)
+ > Mobileye对客户“极强的控制欲”的背后，其实是“缺乏安全感”。但这种强势并不能让自己的处境真正安全起来，充其量只能是让自己“觉得安全了”。然而，你越强势，客户便越缺乏安全感。 而对客户来说，重建安全...
+ ## [卧薪尝胆2年!中兴突然复出!将是美科技界头疼的第二个“华为”](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=G3sz4k5kuPBChTLsxv3V6JJbOxJUCTsXkEwGwZvN50KAnyZn8eJFnfeg0yETE5JJ6dgiquDbk6gIhQjki29SFMWMXv32g2s8JTZmYn2u3IyvMbyvQE8lXL8Ci*iEWTa8&new=1)
+ > 卧薪尝胆2年！中兴突然复出！将是美科技界头疼的第二个“华为”中兴通讯作为中国通讯行业的巨头公司，能够 说成命运多舛了。早在2018年就遭受了美贸易措施的影响，业务流程无法继续，到最终以支付处罚才做到了调...
+ ## [凌晨，格力紧急回应](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=qLtGfYQSIKa6foo1*lmj6KdQ74RuNsSqugkSWAWlfkSUBP*MC4cr-YSS-n3VfGK2*tR3UjdzMB*5mVidTgHOLxzA7tVndrv3Nb8*5e74MALc2flVXNekgLng7kl8VBQR&new=1)
+ > 4日凌晨，格力电器在其官方微博发布声明回应“被取消中标资格”一事。声明中称，经内部核查，该事件属申报过程中的材料整理失误，并非目前网络所传为达到中标目的虚标技术参数、虚标能效参数的行为。来源：格力...
+ ## [“非常看好”云计算前景 腾讯最大集群规模数据中心正式开服](http://mp.weixin.qq.com/s?src=11&timestamp=1593937805&ver=2441&signature=9lGupwWqWxg145yh49RCLEoi4ZPMXIT9oVghyyjcamBuXD9T0qCrpJ5U3b61lkYugn0JlNtdoz9x6aTHEtDKfNCEFDhyF*sHz8-NLctNqdA=&new=1)
+ > 经济观察网 记者 李华清 7月3日，腾讯清远云计算数据中心正式开服。腾讯公司介绍，按照规划，腾讯在清远投资建设的数据中心集群能容纳超过百万台服务器，7月3日开服的是一期项目，上架30万台服务器。该数据中心...
 # IT 技术 
  ## [从 Android 到 Java：如何从不同视角解决问题？](http://zhuanlan.51cto.com/art/202007/620216.htm)
  > 从 Android 到 Java：如何从不同视角解决问题？
@@ -51,10 +65,12 @@ categories: IT NEWS
  > 
  ## [Linux(服务器编程):43---百万并发服务器系统参数调优](https://blog.csdn.net/qq_41453285/article/details/106976702)
  > 
+ ## [NLP经典算法复现！CRF原理及实现代码](https://blog.csdn.net/Datawhale/article/details/105911492)
+ > NLP经典算法复现！CRF原理及实现代码
  ## [老板急坏了，公司网站的 HTTPS 过期了](https://blog.csdn.net/qing_gee/article/details/107007744)
  > 老板急坏了，公司网站的 HTTPS 过期了
- ## [数据分析之Pandas变形操作总结](https://blog.csdn.net/Datawhale/article/details/106990778)
- > 数据分析之Pandas变形操作总结
+ ## [面试官:谈谈你对mysql事务的认识?](https://blog.csdn.net/fujiandiyi008/article/details/106913039)
+ > 面试官:谈谈你对mysql事务的认识?
  ## [C++(标准库):51---并发之（原子操作：atomic）](https://blog.csdn.net/qq_41453285/article/details/105613517)
  > C++(标准库):51---并发之（原子操作：atomic）
  ## [大厂高频Mysql面试题](https://blog.csdn.net/qq_34162294/article/details/105652894)
@@ -69,42 +85,40 @@ categories: IT NEWS
  > 《刷新》微软的故事
  ## [Nginx防盗链的配置](https://blog.csdn.net/qq_38526573/article/details/106847453)
  > Nginx防盗链的配置
- ## [年中福利！阿里技术电子书 80 本+上半年大会资料 PDF 免费下载！](https://blog.csdn.net/alitech2017/article/details/107082556)
- > 年中福利！阿里技术电子书 80 本+上半年大会资料 PDF 免费下载！
  ## [Linux 操作系统原理 — IO 模型](https://blog.csdn.net/Jmilk/article/details/105916184)
  > Linux 操作系统原理 — IO 模型
- ## [Java 开发技巧：减少魔法值的使用](https://blog.csdn.net/qq_35067322/article/details/105721763)
- > Java 开发技巧：减少魔法值的使用
+ ## [年中福利！阿里技术电子书 80 本+上半年大会资料 PDF 免费下载！](https://blog.csdn.net/alitech2017/article/details/107082556)
+ > 年中福利！阿里技术电子书 80 本+上半年大会资料 PDF 免费下载！
 # 人工智能 
- ## [深入理解编译优化之循环展开和粗化锁](https://blog.csdn.net/superfjj/article/details/107119532)
+ ## [BGP路由黑洞与特性](https://blog.csdn.net/HYD696/article/details/107128771)
  > 
- ## [比特币智能合约入门（2）- 高级语言 sCrypt 简介](https://blog.csdn.net/freedomhero/article/details/107104952)
- > 比特币智能合约入门（2）- 高级语言 sCrypt 简介
- ## [海伯利安地图公链(三篇)](https://blog.csdn.net/guanyuwanglei/article/details/106964585)
- > 海伯利安地图公链(三篇)
- ## [Go 面向对象编程之封装](https://blog.csdn.net/baidu_41388533/article/details/107114797)
- > Go 面向对象编程之封装
- ## [AQS同步队列中的节点状态](https://blog.csdn.net/weixin_38106322/article/details/107120866)
- > AQS同步队列中的节点状态
- ## [PM981/PM981a安装黑苹果(第七版)](https://blog.csdn.net/m0_46463797/article/details/107127286)
- > PM981/PM981a安装黑苹果(第七版)
- ## [关于Fabric中shim包的问题](https://blog.csdn.net/i_want_study/article/details/107107402)
- > 关于Fabric中shim包的问题
- ## [【Node-RED】阿里云ubuntu18安装Node-RED+Node-RED加载自定义节点](https://blog.csdn.net/weixin_41865104/article/details/107098027)
- > 【Node-RED】阿里云ubuntu18安装Node-RED+Node-RED加载自定义节点
- ## [IIC通信软件模拟](https://blog.csdn.net/nizhenyuchina/article/details/107109573)
- > IIC通信软件模拟
- ## [golang源码阅读-nsq-生产者代码](https://blog.csdn.net/qq_22323251/article/details/107117066)
- > golang源码阅读-nsq-生产者代码
- ## [详解Filecoin经济模型与商业启示](https://blog.csdn.net/weixin_47143052/article/details/107101913)
- > 详解Filecoin经济模型与商业启示
- ## [扩展欧几里得算法求逆元](https://blog.csdn.net/hesorchen/article/details/107115201)
- > 扩展欧几里得算法求逆元
- ## [微灵外汇预测系统赋予WEN生态新价值](https://blog.csdn.net/qiuzigege/article/details/107107889)
- > 微灵外汇预测系统赋予WEN生态新价值
- ## [比特币智能合约入门（3）- sCrypt 开发工具篇 - Visual Studio Code 插件](https://blog.csdn.net/freedomhero/article/details/107127341)
- > 比特币智能合约入门（3）- sCrypt 开发工具篇 - Visual Studio Code 插件
- ## [Go 实现接口和继承比较](https://blog.csdn.net/baidu_41388533/article/details/107128002)
- > Go 实现接口和继承比较
+ ## [算法分析设计 期末复习题二](https://blog.csdn.net/qq_43422111/article/details/107123237)
+ > 
+ ## [4.9. 文件包含](https://blog.csdn.net/weixin_43510203/article/details/107120989)
+ > 4.9. 文件包含
+ ## [2003京淘项目Day-01物理模型图设计-SpringBoot加强](https://blog.csdn.net/qq_16804847/article/details/107099353)
+ > 2003京淘项目Day-01物理模型图设计-SpringBoot加强
+ ## [开通阿里云短信服务](https://blog.csdn.net/Lance_welcome/article/details/107112009)
+ > 开通阿里云短信服务
+ ## [大数据【企业级360°全方位用户画像】基于USG模型的挖掘型标签开发](https://blog.csdn.net/weixin_44318830/article/details/107124211)
+ > 
+ ## [学以致用C++设计模式 之 “门面模式“](https://blog.csdn.net/qq_43762191/article/details/107078675)
+ > 
+ ## [【运筹帷幄】网站打开慢故障排查思路](https://blog.csdn.net/xinshuzhan/article/details/107076193)
+ > 
+ ## [第一篇笔记  按需求完成作业](https://blog.csdn.net/weixin_45471943/article/details/107127743)
+ > 第一篇笔记  按需求完成作业
+ ## [LeetCode 1133. 最大唯一数](https://blog.csdn.net/qq_21201267/article/details/107097303)
+ > LeetCode 1133. 最大唯一数
+ ## [算法设计分析题库七](https://blog.csdn.net/qq_43422111/article/details/107119640)
+ > 算法设计分析题库七
+ ## [4.8文件上传](https://blog.csdn.net/weixin_43510203/article/details/107119737)
+ > 4.8文件上传
+ ## [SpringCloud之Feign使用篇](https://blog.csdn.net/yuanshangshenghuo/article/details/107073918)
+ > 
+ ## [小米商城（Servlet+JSP）](https://blog.csdn.net/weixin_44170221/article/details/107126116)
+ > 
+ ## [在JAVA中如何创建一个链表（头插法、尾插法）以及反转链表](https://blog.csdn.net/weixin_43891908/article/details/107104417)
+ > 在JAVA中如何创建一个链表（头插法、尾插法）以及反转链表
 
     
