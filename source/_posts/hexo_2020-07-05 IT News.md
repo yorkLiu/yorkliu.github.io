@@ -1,20 +1,20 @@
 ---
 title: 2020-07-05 IT News
 copyright: true
-date: 2020-07-05 08:00:53
+date: 2020-07-05 09:01:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“非常看好”云计算前景 腾讯最大集群规模数据中心正式开服](http://mp.weixin.qq.com/s?src=11&timestamp=1593907204&ver=2441&signature=9lGupwWqWxg145yh49RCLEoi4ZPMXIT9oVghyyjcamB*J-OPeE8teuAduWN3Ck8LEGMzuvirJ8WbJi3IWplnKWKM3WmHqobuMkxJGc1ybaE=&new=1)
- > 经济观察网 记者 李华清 7月3日，腾讯清远云计算数据中心正式开服。腾讯公司介绍，按照规划，腾讯在清远投资建设的数据中心集群能容纳超过百万台服务器，7月3日开服的是一期项目，上架30万台服务器。该数据中心...
- ## [卧薪尝胆2年!中兴突然复出!将是美科技界头疼的第二个“华为”](http://mp.weixin.qq.com/s?src=11&timestamp=1593907204&ver=2441&signature=G3sz4k5kuPBChTLsxv3V6JJbOxJUCTsXkEwGwZvN50Ic3iC-wjzjCQ*tbThV99f2vcuyuGlt4LigeZnySDPUyriIZ3bSG-9utFXP0vCbZ1PX0Ip*2h1zx*ktXtr2CzJJ&new=1)
- > 卧薪尝胆2年！中兴突然复出！将是美科技界头疼的第二个“华为”中兴通讯作为中国通讯行业的巨头公司，能够 说成命运多舛了。早在2018年就遭受了美贸易措施的影响，业务流程无法继续，到最终以支付处罚才做到了调...
- ## [凌晨，格力紧急回应](http://mp.weixin.qq.com/s?src=11&timestamp=1593907204&ver=2441&signature=qLtGfYQSIKa6foo1*lmj6KdQ74RuNsSqugkSWAWlfkRQmFH2G*npx81HJbFVsgHQ6oDpKFNWfl*5-0R4b*LvxzZe6DVpyG0SHOUw7*c*5nLESJYC9ewmJZChZJndLXm6&new=1)
+ ## [凌晨，格力紧急回应](http://mp.weixin.qq.com/s?src=11&timestamp=1593909034&ver=2441&signature=qLtGfYQSIKa6foo1*lmj6KdQ74RuNsSqugkSWAWlfkRQmFH2G*npx81HJbFVsgHQyKLScrZBL*LvNfc2SzS2Oc7rC9qWeGf8737WapqGbiT3whzdYmtFy6Zoh18XV4Kv&new=1)
  > 4日凌晨，格力电器在其官方微博发布声明回应“被取消中标资格”一事。声明中称，经内部核查，该事件属申报过程中的材料整理失误，并非目前网络所传为达到中标目的虚标技术参数、虚标能效参数的行为。来源：格力...
- ## [\[观察\]为什么说这张名片，正在深刻地改变天津?!](http://mp.weixin.qq.com/s?src=11&timestamp=1593907204&ver=2441&signature=kwSXiqYEUlOiK509HR6nLGwzaAXqAhGwfW46FS850CUAze4qKQJBKx3YUQlmad7otu1GQdFG3gmbx0vZ5WtMzMHMDLCM9XRxsP*x*NFpRez8LgKzABQ7C2ZXpC*Z*vtJ&new=1)
+ ## [卧薪尝胆2年!中兴突然复出!将是美科技界头疼的第二个“华为”](http://mp.weixin.qq.com/s?src=11&timestamp=1593909034&ver=2441&signature=G3sz4k5kuPBChTLsxv3V6JJbOxJUCTsXkEwGwZvN50Ic3iC-wjzjCQ*tbThV99f2UqgPH0RXC1ZpXSRz9r-fXHf3U4vSYm72dqqSeZTRwsY*KcHmyloT4w2bGL1qV0i5&new=1)
+ > 卧薪尝胆2年！中兴突然复出！将是美科技界头疼的第二个“华为”中兴通讯作为中国通讯行业的巨头公司，能够 说成命运多舛了。早在2018年就遭受了美贸易措施的影响，业务流程无法继续，到最终以支付处罚才做到了调...
+ ## [“非常看好”云计算前景 腾讯最大集群规模数据中心正式开服](http://mp.weixin.qq.com/s?src=11&timestamp=1593909034&ver=2441&signature=9lGupwWqWxg145yh49RCLEoi4ZPMXIT9oVghyyjcamDF1HC8AIvSNxS4QXiwzFthHztjSz5XsITJCp*XMp9N5xyGIN5TEBfiSuM82SYbZWs=&new=1)
+ > 经济观察网 记者 李华清 7月3日，腾讯清远云计算数据中心正式开服。腾讯公司介绍，按照规划，腾讯在清远投资建设的数据中心集群能容纳超过百万台服务器，7月3日开服的是一期项目，上架30万台服务器。该数据中心...
+ ## [\[观察\]为什么说这张名片，正在深刻地改变天津?!](http://mp.weixin.qq.com/s?src=11&timestamp=1593909034&ver=2441&signature=kwSXiqYEUlOiK509HR6nLGwzaAXqAhGwfW46FS850CUAze4qKQJBKx3YUQlmad7oX-wPshkU0UaqaDiz4UlpEjDV3x7m1WsXCQChxvWanxLoWJPFmS5zghIjf*Ob6oq6&new=1)
  > 5月底6月初，有美国国会议员提出了《无尽前沿法案》，根据该法案，美国国家科学基金会将更名为国家科学技术基金会，并计划拿出1000亿美元在10个关键重点领域推进技术发展。该法案涉及的10个领域包括高性能计算机...
- ## [Mobileye的近忧与远虑](http://mp.weixin.qq.com/s?src=11&timestamp=1593907204&ver=2441&signature=xRIlCx*Ei*hqwBO68xULueo4o6jKfaQrMHROcaugi97rm3rjhrVzxpKcVNXRVni94c0l8aWXPJ85lkmIp1SOL86Z205Ko-cxbdEcY2zbTtgWkFgu6Nryrfsh39yKbYRs&new=1)
+ ## [Mobileye的近忧与远虑](http://mp.weixin.qq.com/s?src=11&timestamp=1593909034&ver=2441&signature=xRIlCx*Ei*hqwBO68xULueo4o6jKfaQrMHROcaugi97rm3rjhrVzxpKcVNXRVni9eN-y5hwxd77OMwFhgsVNnVdChAmWmbTTLHkGTUefWxov0wnBR66sWOeFxr-gkTOC&new=1)
  > Mobileye对客户“极强的控制欲”的背后，其实是“缺乏安全感”。但这种强势并不能让自己的处境真正安全起来，充其量只能是让自己“觉得安全了”。然而，你越强势，客户便越缺乏安全感。 而对客户来说，重建安全...
 # IT 技术 
  ## [从 Android 到 Java：如何从不同视角解决问题？](http://zhuanlan.51cto.com/art/202007/620216.htm)
@@ -43,10 +43,10 @@ categories: IT NEWS
  > 
  ## [Linux(服务器编程):43---百万并发服务器系统参数调优](https://blog.csdn.net/qq_41453285/article/details/106976702)
  > 
- ## [数据分析之Pandas变形操作总结](https://blog.csdn.net/Datawhale/article/details/106990778)
- > 数据分析之Pandas变形操作总结
  ## [老板急坏了，公司网站的 HTTPS 过期了](https://blog.csdn.net/qing_gee/article/details/107007744)
  > 老板急坏了，公司网站的 HTTPS 过期了
+ ## [数据分析之Pandas变形操作总结](https://blog.csdn.net/Datawhale/article/details/106990778)
+ > 数据分析之Pandas变形操作总结
  ## [C++(标准库):51---并发之（原子操作：atomic）](https://blog.csdn.net/qq_41453285/article/details/105613517)
  > C++(标准库):51---并发之（原子操作：atomic）
  ## [大厂高频Mysql面试题](https://blog.csdn.net/qq_34162294/article/details/105652894)
@@ -61,42 +61,42 @@ categories: IT NEWS
  > Nginx防盗链的配置
  ## [《刷新》微软的故事](https://blog.csdn.net/juwikuang/article/details/105547697)
  > 《刷新》微软的故事
- ## [如何优雅的实现一个九宫格抽奖](https://blog.csdn.net/xgangzai/article/details/106953435)
- > 如何优雅的实现一个九宫格抽奖
  ## [Linux 操作系统原理 — IO 模型](https://blog.csdn.net/Jmilk/article/details/105916184)
  > Linux 操作系统原理 — IO 模型
- ## [Java 开发技巧：减少魔法值的使用](https://blog.csdn.net/qq_35067322/article/details/105721763)
- > Java 开发技巧：减少魔法值的使用
+ ## [年中福利！阿里技术电子书 80 本+上半年大会资料 PDF 免费下载！](https://blog.csdn.net/alitech2017/article/details/107082556)
+ > 年中福利！阿里技术电子书 80 本+上半年大会资料 PDF 免费下载！
+ ## [如何优雅的实现一个九宫格抽奖](https://blog.csdn.net/xgangzai/article/details/106953435)
+ > 如何优雅的实现一个九宫格抽奖
 # 人工智能 
- ## [区块链系列教程之:比特币中的共识](https://blog.csdn.net/superfjj/article/details/107077019)
- > 
- ## [Go 面向对象编程之封装](https://blog.csdn.net/baidu_41388533/article/details/107114797)
- > Go 面向对象编程之封装
- ## [关于Fabric中shim包的问题](https://blog.csdn.net/i_want_study/article/details/107107402)
- > 关于Fabric中shim包的问题
- ## [僵尸攻击人类](https://blog.csdn.net/weixin_43330666/article/details/107086663)
- > 
- ## [pycharm实现python本地开发远端linux编译](https://blog.csdn.net/nan_ans/article/details/107110271)
- > pycharm实现python本地开发远端linux编译
- ## [扩展欧几里得算法求逆元](https://blog.csdn.net/hesorchen/article/details/107115201)
- > 扩展欧几里得算法求逆元
- ## [在MT4炒黄金原油外汇期货的平台，你真的了解吗？](https://blog.csdn.net/weixin_43928187/article/details/107069524)
- > 在MT4炒黄金原油外汇期货的平台，你真的了解吗？
- ## [比特币智能合约入门（2）- 高级语言 sCrypt 简介](https://blog.csdn.net/freedomhero/article/details/107104952)
- > 比特币智能合约入门（2）- 高级语言 sCrypt 简介
- ## [海伯利安地图公链(三篇)](https://blog.csdn.net/guanyuwanglei/article/details/106964585)
- > 海伯利安地图公链(三篇)
- ## [grpc+gin+proto，使用http调用rpc接口](https://blog.csdn.net/Sxphd/article/details/107087695)
- > grpc+gin+proto，使用http调用rpc接口
- ## [【WinCE】WinCE 6.0开发环境搭建](https://blog.csdn.net/sunriver2000/article/details/107087473)
- > 【WinCE】WinCE 6.0开发环境搭建
- ## [首个智能风控国际标准发布，蚂蚁风控技术入局全球](https://blog.csdn.net/csdnnews/article/details/107079285)
- > 首个智能风控国际标准发布，蚂蚁风控技术入局全球
- ## [「清华」区块链工程师大讲堂之区块链基础-公益活动](https://blog.csdn.net/kim017/article/details/107081730)
- > 「清华」区块链工程师大讲堂之区块链基础-公益活动
- ## [ubuntu 16.04安装librealsense（D435i）报错file DOWNLOAD HASH mismatch的解决办法](https://blog.csdn.net/fyf8733/article/details/107100899)
- > ubuntu 16.04安装librealsense（D435i）报错file DOWNLOAD HASH mismatch的解决办法
- ## [Go 创建结构体变量时指定字段值](https://blog.csdn.net/baidu_41388533/article/details/107109692)
- > Go 创建结构体变量时指定字段值
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
+ > 安卓APP的http访问权限
+ ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
+ > flutter 的像素尺寸
+ ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
+ > googlePlay 找不到发布的应用
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
+ > 使用FlexboxLayoutManager来实现流式布局
+ ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
+ > 电电帮手机维修就是坑爹，大家不要信
+ ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
+ > android.view.InflateException Error inflating class android.webkit.WebView
+ ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
+ > Unity | 总结：OCR文字识别、公式识别
 
     
