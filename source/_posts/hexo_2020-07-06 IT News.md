@@ -1,26 +1,32 @@
 ---
 title: 2020-07-06 IT News
 copyright: true
-date: 2020-07-06 09:00:53
+date: 2020-07-06 10:01:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [风轻云淡中，董明珠承认损失了1.2亿](http://mp.weixin.qq.com/s?src=11&timestamp=1593995455&ver=2443&signature=zJFj7DFzqlVwGN**44DursIKHP4-LjblTy0M4e-1HOF*HQ4Qil7X2GHkZgTpmlBvqFrbDdqBndqOFpC8Bx9XNfJ4F5z-L1WnB21QD3l3Zj1riRu6-pp6p4jcATphYHMh&new=1)
- > 作者：冯超来源：商业人物（ID：biz-leaders）联想5G投票风波时，柳传志在公开信上说了句带脾气而又有所指的话：”一个技术领域事件，事隔近两年以后，突然间被人翻了出来，还被污蔑为卖国等行为，并不断发酵，...
- ## [AIxIoT市场扩容，TCL电子发起“全屏”战役](http://mp.weixin.qq.com/s?src=11&timestamp=1593995455&ver=2443&signature=MySTrJ2CWKIeaDMYmqzUPDfZQTH9m79fvhSVlaipvKMSdjyrcs5rTkKjvHiohBpgGk5m*nk1r9VbuskZUqXwJFduPWujuITxSi0I8R3i*uUmD9YEscd-lOT4xQYvSspu&new=1)
- > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记今年的疫情对于企业抗压能力和技术储备，都是一次大练兵，也更加凸显全球化的重要意义。在面对此次疫情挑战中，TCL电子利用全球产能的优化布局，平稳渡过战“疫”的特殊时...
- ## [5G R16标准冻结，究竟讲了些什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1593995455&ver=2443&signature=sUXmR5gFTEggZxvC9l-PIunIVhwaGKzorOJq2ujO26-3eJV5YLUWC-kk3dDFRUoO0MdCo*I5z3Kr1gOUcZdthde81dIzaVfncSMxq4r7cSbFiRqCgtT990wad8DCzyeD&new=1)
- > 7月3日，3GPP宣布完成5G标准第二版规范R16。那R16究竟讲了些什么？考虑向垂直行业扩展是R16的重头戏，本文将R16主要功能分为“向垂直行业扩展”和“功能增强”两大类进行介绍。向垂直行业扩展5G+TSN为了扩大潜在...
- ## [\[C114周报\]5G标准R16版本冻结；GTI发布5G全球通终端倡议；中国移动停止新增2G物联网用户](http://mp.weixin.qq.com/s?src=11&timestamp=1593995455&ver=2443&signature=7rbkWwm*35GteYrYRnH7ROPXWsy09mAk0na8fxoZKomlY6MvHclKpGgho*mTxtgZmPC8aGiOVQg8T41b3BtSzDgomW7cw7kA1KFK8CM-rVmy56fcDjO*-QY4ity2KQf*&new=1)
- > 周报WEEKLY本周热点有5G标准R16版本冻结；GTI发布5G全球通终端倡议；中国移动停止新增2G物联网用户5G标准R16版本冻结7月3日国际标准组织3GPP宣布R16标准冻结，标志着5G第一个演进版本标准完成。业界认为，R16标...
- ## [重磅!中国电信5G R16 RAN标准主导立项数 居全球运营商第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1593995455&ver=2443&signature=ASVa9zCldxJJ0ZY*AEAAmVJ2hPR3EiX4pwzJMUU2pl3mgdwJn8Z6NSN1w6lHlnw0hikwAH4jm4AmDLCfBO9n0n3KF9cqN7Cnpx1FYwGzMbDSKTVXKL-jgIzsg1VKT*Z-&new=1)
+ ## [\[科技早报7点整\]教育部明晰就业统计指标 印度或将华为排除在本国5G建设计划之外……](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=3iUKY58DIzjSNXN85dZX4xXJ5xiGumjch6-gnwbc59RyPG-RQMy5gcdQCLPkRMh55Vb1Wy38KJelM6ubzzsU2BT7NnEZAgqC5e65fxF2lDHSLPGq1FTBR6gI9XY6MgdC&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第854期1.教育部明晰就业统计指标：打电竞、开网店属于就业日前，多个地方教育主管部门和高校网站公布了《教育部办公厅关于严格核查2020届高校毕业生就业数据的通知》。其中，...
+ ## [专访|MRSI Systems：1.5μm高精度贴片机推动先进光电子市场发展](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=pk3Ld-UQX2fc80HR*lZ6OedpLsobd6OM9W45sIodFAzAdydFZXHey2xFTA8C2--EuNxpX**EV4ZBokx0xUnng*rEb0bEQb47eDsjGx2SnmjHvtyKicgetV13yDTOmq2p&new=1)
+ > 新闻导读高精度贴片系统制造商MRSI Systems展出1.5um贴片机，其MRSI-H和HVM 1.5μm系列贴片机是全球领先的唯一能将高速度与高精度，以及灵活设备配置完美融合的高可靠性机器。ICC讯 2020年7月3日，慕尼黑上海光...
+ ## [重磅!中国电信5G R16 RAN标准主导立项数 居全球运营商第一!](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=ASVa9zCldxJJ0ZY*AEAAmVJ2hPR3EiX4pwzJMUU2pl3mgdwJn8Z6NSN1w6lHlnw0LWvLbBIWAQMB6vD8nsJqxDYmh7wKrxS8pfSaHcwMVXm*x8*Tni5nz6aibiOp68Z0&new=1)
  > 北京时间7月3日晚23点，在3GPP TSG第88次会议上，5G R16标准宣布冻结，标志着5G第一个演进版本标准正式完成。在3GPP R16标准中，中国电信主导完成10项技术标准制定，包括非公共网络组网、移动性增强、5G性能指标...
+ ## [\[C114周报\]5G标准R16版本冻结；GTI发布5G全球通终端倡议；中国移动停止新增2G物联网用户](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=7rbkWwm*35GteYrYRnH7ROPXWsy09mAk0na8fxoZKomlY6MvHclKpGgho*mTxtgZknyG*oAAv8SE39Oll3FJFprVxVlHrY04uOeyZXA6pP6cDf*zRRVD52pLAkaHWR*I&new=1)
+ > 周报WEEKLY本周热点有5G标准R16版本冻结；GTI发布5G全球通终端倡议；中国移动停止新增2G物联网用户5G标准R16版本冻结7月3日国际标准组织3GPP宣布R16标准冻结，标志着5G第一个演进版本标准完成。业界认为，R16标...
+ ## [\[报告\]2020中国共享汽车市场年度综合分析(附43页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=8B1usOtHtzbshcYzaKf7q6wpQ8rUL*M5sVNGaIgXoesXzfBWIUavpRCmqOj9hJtMt1tlDoxjty0EYtsdwJsOUKa07u2H-D2jHdOSrp3iFKpyVuBnmgxat-uO0LblBBlE&new=1)
+ > 2019年，中国共享汽车行业月活增加38.6%。2020年受疫情影响，行业月活短期出现了一定波动，目前已经逐渐回暖。长期而言，疫情增强了大众安全意识，兼具独立空间特性、性价比和灵活性共享汽车更为契合用户出行诉...
+ ## [风轻云淡中，董明珠承认损失了1.2亿](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=zJFj7DFzqlVwGN**44DursIKHP4-LjblTy0M4e-1HOF*HQ4Qil7X2GHkZgTpmlBviDaj8hpEoIC1vLuF4ldwVPZVZiTSWmsdE2lKyjAEgfeB95inrxvFvaddBDfAs67v&new=1)
+ > 作者：冯超来源：商业人物（ID：biz-leaders）联想5G投票风波时，柳传志在公开信上说了句带脾气而又有所指的话：”一个技术领域事件，事隔近两年以后，突然间被人翻了出来，还被污蔑为卖国等行为，并不断发酵，...
+ ## [AIxIoT市场扩容，TCL电子发起“全屏”战役](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=MySTrJ2CWKIeaDMYmqzUPDfZQTH9m79fvhSVlaipvKMSdjyrcs5rTkKjvHiohBpg0kYb6Fnjb0AfF7j3GZ1B11Ne7JkeSyuQ6oAN77e9OoJn3HJUZFSYL3xZVjCkc6pB&new=1)
+ > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记今年的疫情对于企业抗压能力和技术储备，都是一次大练兵，也更加凸显全球化的重要意义。在面对此次疫情挑战中，TCL电子利用全球产能的优化布局，平稳渡过战“疫”的特殊时...
+ ## [5G R16标准冻结，究竟讲了些什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1593999004&ver=2443&signature=sUXmR5gFTEggZxvC9l-PIunIVhwaGKzorOJq2ujO26-3eJV5YLUWC-kk3dDFRUoOUZ1AR10OB1meus4p5IHFuphEQWdMGgovv1Lhjyi0Omh*LUyZKKkgLlai7uB0d8Im&new=1)
+ > 7月3日，3GPP宣布完成5G标准第二版规范R16。那R16究竟讲了些什么？考虑向垂直行业扩展是R16的重头戏，本文将R16主要功能分为“向垂直行业扩展”和“功能增强”两大类进行介绍。向垂直行业扩展5G+TSN为了扩大潜在...
 # IT 技术 
+ ## [英国列车网络如何走上数字化道路?](http://network.51cto.com/art/202007/620295.htm)
+ > 英国列车网络如何走上数字化道路?
  ## [自从尝了 Rust，Java 突然不香了](http://news.51cto.com/art/202007/620224.htm)
  > 自从尝了 Rust，Java 突然不香了
- ## [Linux 内核维护者难寻：“我不想被 Linus 喷”](http://news.51cto.com/art/202007/620185.htm)
- > Linux 内核维护者难寻：“我不想被 Linus 喷”
  ## [2020半年报：5G行业应用全方位落地](http://network.51cto.com/art/202007/620164.htm)
  > 2020半年报：5G行业应用全方位落地
  ## [PyCharm虚拟环境的创建！](http://virtual.51cto.com/art/202007/620271.htm)
@@ -33,16 +39,26 @@ categories: IT NEWS
  > 从 Android 到 Java：如何从不同视角解决问题？
  ## [面试官：你对Kafka比较熟？ 那说说kafka日志段如何读写的吧？](http://zhuanlan.51cto.com/art/202007/620211.htm)
  > 面试官：你对Kafka比较熟？ 那说说kafka日志段如何读写的吧？
+ ## [1行代码实现Python数据分析：图表美观清晰，自带对比功能丨开源](http://news.51cto.com/art/202007/620305.htm)
+ > 现在，GitHub上一位博主告诉你：不用学，用sweetviz就行。这是一个基于Python编写的数据分析软件，只要掌握
+ ## [我用Python掐指一算，2020高考分数和录取情况可能是这样](http://developer.51cto.com/art/202007/620304.htm)
+ > “迟到”了一个月的高考终于要来了。正好我得到了一份山东新高考模拟考的成绩和山东考试院公布的一分一段表
+ ## [TIOBE 7 月榜单：易于学习使用的统计编程语言开始流行](http://news.51cto.com/art/202007/620300.htm)
+ > TIOBE 已公布 2020 年 7 月的编程语言排行榜。在本期榜单中，各类应用于数据科学的语言是一大亮点。
+ ## [大公司为什么要开源其技术？](http://developer.51cto.com/art/202007/620299.htm)
+ > 像Google和Microsoft这样的大公司，总是将其大多数技术开源。 这些技术巨头投资了自己的广告牌，但是在将
+ ## [为什么老编辑器Vim这么难用，却很受欢迎？](http://news.51cto.com/art/202007/620303.htm)
+ > 一个1991年正式发布，如今已经快30岁的「高龄」的代码编辑器Vim，为何如此受欢迎？
+ ## [将敏感数据移动到云平台更安全](http://cloud.51cto.com/art/202007/620296.htm)
+ > 公共云在一段时间内一直是存储关键任务和敏感数据的安全场所，但要使大多数企业超过临界点还需要更多的推进
+ ## [我一个普通程序员，光靠GitHub打赏就年入70万，要不你也试试](http://news.51cto.com/art/202007/620302.htm)
+ > 最近，一个国外程序员在网上公开了自己用GitHub打赏年入70万的消息和具体做法。
+ ## [爬了20W条《隐秘的角落》弹幕，一起爬山吗？](http://developer.51cto.com/art/202007/620270.htm)
+ > 最近又火了一部国产剧：《隐秘的角落》，如果你没看过，那可能会对朋友圈里大家说的“一起去爬山”、“小白
+ ## [“郁金香”打造智能问答助手，畅通疫情防控期政务信息触达渠道](http://news.51cto.com/art/202007/620297.htm)
+ > 面对突如其来的疫情，大众对于信息的即时性、透明度和传达效率有了更高的关注。
  ## [一个可放大图像的开源的浏览器扩展](http://os.51cto.com/art/202007/620293.htm)
  > 想细看网络图像并不总是那么简单，但是 Hover Zoom+ 让它像鼠标滑动一样容易。
- ## [通过重定向在Linux终端任意读写数据](http://os.51cto.com/art/202007/620292.htm)
- > 重定向是一种十分高效的数据流动方式，它能帮你减少很多鼠标和键盘上的操作。
- ## [人工智能如何在2020年改变商业](http://ai.51cto.com/art/202007/620288.htm)
- > 工业革命仅在蔚蓝的天空中发生一次，但是，我们发现自己正处于深刻的革命（人工智能（AI）革命）的过程中。
- ## [要成为一名成功的开发人员，您应该放弃的22件事](http://developer.51cto.com/art/202007/620286.htm)
- > 当您擅长某事时，就可以在开发中碰壁。 无论您多么努力，都感觉无法突破。 用力推动并没有像以前那样多。
- ## [除了拍一拍还有啥？更新后的微信这些隐藏功能可6了](http://mobile.51cto.com/app-show-620283.htm)
- > 一连两轮的更新，大家用来工作（唠嗑）、学习（摸鱼）、分享（炫富）的微信已经不是它从前的亚子了。现在，
  ## [Linux(服务器编程):43---百万并发服务器系统参数调优](https://blog.csdn.net/qq_41453285/article/details/106976702)
  > 
  ## [Dubbo想要个网关怎么办？试试整合Spring Cloud Gateway](https://blog.csdn.net/zlt2000/article/details/106992879)
@@ -74,35 +90,35 @@ categories: IT NEWS
  ## [面试冲刺:07---常用的排序算法（冒泡、插入、选择、希尔、归并、快速）](https://blog.csdn.net/qq_41453285/article/details/105827694)
  > 面试冲刺:07---常用的排序算法（冒泡、插入、选择、希尔、归并、快速）
 # 人工智能 
- ## [【技术流派】教你提高双目立体视觉系统的精度！](https://blog.csdn.net/rs_lys/article/details/107102968)
+ ## [【Nginx（七）】搭建高可用集群](https://blog.csdn.net/skyyemperor/article/details/107130632)
+ > 【Nginx（七）】搭建高可用集群
+ ## [Centos7 安装和卸载 Apache HTTP Server（“ httpd”）服务](https://blog.csdn.net/DZP_dream/article/details/107107590)
+ > Centos7 安装和卸载 Apache HTTP Server（“ httpd”）服务
+ ## [Linux文件权限  出炉啦， 快进来学习收藏吧！](https://blog.csdn.net/weixin_46654114/article/details/107089592)
  > 
- ## [基于Linux系统的QT音乐播放器+MQTT远程控制](https://blog.csdn.net/qq_40736019/article/details/107055736)
- > 基于Linux系统的QT音乐播放器+MQTT远程控制
- ## [华为初识IoT最全学习笔记](https://blog.csdn.net/weixin_44911552/article/details/107084218)
+ ## [Linux基本配置和常用命令](https://blog.csdn.net/qq_41424688/article/details/107098591)
  > 
- ## [国产EDA工具Robei与Quartus ii联合使用（及在Rrobei设计中一些小技巧）](https://blog.csdn.net/weixin_46423500/article/details/107128858)
+ ## [CertBot免费生成HTTPS永久SSL证书  Linux CentOS 6.8](https://blog.csdn.net/weixin_47159008/article/details/107107965)
+ > CertBot免费生成HTTPS永久SSL证书  Linux CentOS 6.8
+ ## [超详细的hadoop伪分布配置教程](https://blog.csdn.net/qq_45973003/article/details/107123198)
+ > 超详细的hadoop伪分布配置教程
+ ## [Linux笔记(十) Linux系统权限](https://blog.csdn.net/qq_37933018/article/details/107106770)
+ > Linux笔记(十) Linux系统权限
+ ## [基于安卓手机使用Termux搭建web服务器教程](https://blog.csdn.net/qq_48996375/article/details/107130167)
+ > 基于安卓手机使用Termux搭建web服务器教程
+ ## [解决Centos7无法通过Putty进行ssh连接的问题](https://blog.csdn.net/weixin_41541562/article/details/107118034)
+ > 解决Centos7无法通过Putty进行ssh连接的问题
+ ## [CentOS 7.6 使用RPM管理软件包（安装、卸载、查询等）](https://blog.csdn.net/shengjie87/article/details/107126007)
  > 
- ## [乐鑫Esp32-S2学习之旅① 入门 ESP32-S2 环境搭建 ，分享如何直连苹果智能家居 HomeKit 平台，轻松语音 Siri 控制！](https://blog.csdn.net/xh870189248/article/details/107028925)
- > 乐鑫Esp32-S2学习之旅① 入门 ESP32-S2 环境搭建 ，分享如何直连苹果智能家居 HomeKit 平台，轻松语音 Siri 控制！
- ## [蓝桥杯单片机  自动售水机](https://blog.csdn.net/weixin_48275745/article/details/107126468)
- > 蓝桥杯单片机  自动售水机
- ## [苏嵌实训-嵌入式 linuxC 第 2天](https://blog.csdn.net/new_man5/article/details/107127947)
- > 苏嵌实训-嵌入式 linuxC 第 2天
- ## [STM32F103C8T6初学笔记](https://blog.csdn.net/weixin_45738823/article/details/107119938)
- > STM32F103C8T6初学笔记
- ## [STM32 USB Host 同时连接多个设备样例(如鼠标和键盘)--原著](https://blog.csdn.net/kukeqq/article/details/107113376)
- > STM32 USB Host 同时连接多个设备样例(如鼠标和键盘)--原著
- ## [Linpack搭建之GotoBLAS2的保姆级安装配置及常见问题(ubuntu)](https://blog.csdn.net/weixin_47025287/article/details/107109190)
- > Linpack搭建之GotoBLAS2的保姆级安装配置及常见问题(ubuntu)
- ## [STM32学习笔记——寄存器映射](https://blog.csdn.net/weixin_46185572/article/details/107123071)
- > STM32学习笔记——寄存器映射
- ## [泳池水质监控PH温度浑浊度测量_基于STC89C51单片机](https://blog.csdn.net/qq_42922494/article/details/107123077)
+ ## [树莓派：Ubuntu MATE 16.04.2 换国内源教程](https://blog.csdn.net/Brendon_Tan/article/details/107107550)
  > 
- ## [TensorFlow v2 入门示例（学习笔记）](https://blog.csdn.net/m0_48796437/article/details/107122723)
- > TensorFlow v2 入门示例（学习笔记）
- ## [STM32  《STM32固件库使用手册中文版》和《STM32F10x参考手册中文版》](https://blog.csdn.net/weixin_41561640/article/details/107124800)
- > STM32  《STM32固件库使用手册中文版》和《STM32F10x参考手册中文版》
- ## [\[测试贴\]K210在maixpy固件下，复位需要多长时间？](https://blog.csdn.net/qq_36229876/article/details/107129516)
- > \[测试贴\]K210在maixpy固件下，复位需要多长时间？
+ ## [Linux安装mysql 5.7 不需要删除mariadb的方法 超详细](https://blog.csdn.net/csdnwjl/article/details/107121476)
+ > Linux安装mysql 5.7 不需要删除mariadb的方法 超详细
+ ## [find工具的了解与使用3: -prune](https://blog.csdn.net/weixin_42992444/article/details/107121745)
+ > find工具的了解与使用3: -prune
+ ## [Linux网络设置详解](https://blog.csdn.net/weixin_47151643/article/details/107097852)
+ > 
+ ## [磁盘 IO导致线程阻塞](https://blog.csdn.net/zhengzhaoyang122/article/details/106999737)
+ > 磁盘 IO导致线程阻塞
 
     
