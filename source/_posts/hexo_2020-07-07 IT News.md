@@ -1,34 +1,50 @@
 ---
 title: 2020-07-07 IT News
 copyright: true
-date: 2020-07-07 08:00:55
+date: 2020-07-07 09:01:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [沈少艾详解中国电信VoLTE业务：迅速发展靠三大秘籍](http://mp.weixin.qq.com/s?src=11&timestamp=1594078204&ver=2445&signature=wlubLQlytRc55naOaZmDBqyFQDtlEUkgOZb4UONOiXUORmfupr0bFuLhFi4mt6R43t9gntdqFHIDVQUMcGhoxMn0c8YrqDh9mrwNAzEh9wsC10jt3TF3N1vINyT7-G5B&new=1)
+ ## [沈少艾详解中国电信VoLTE业务：迅速发展靠三大秘籍](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=wlubLQlytRc55naOaZmDBqyFQDtlEUkgOZb4UONOiXVsL9nUgPelRxc9Bqku7aMBy-wRIVfrsrJhJcA6uNLZVIKKM-qdHh04DXK6XrYkACQ51TAkb2uGnCVvYhn-07PW&new=1)
  > 7月3日晚间，5G R16标准冻结，让5G网络能支撑更多行业应用。但运营商要实现5G商业成功，不仅发展新业务，还要保证5G时代语音等传统业务，减少2G、3G网络“成本包袱”。众所周知，运营商语音业务从2G/3G网络承载...
- ## [为什么中国开发不出流行的操作系统和编程语言?](http://mp.weixin.qq.com/s?src=11&timestamp=1594078204&ver=2445&signature=yKXq-*jxyH6z09riaOIGZux*4K5t6Vo-XACKwAS9MEcyceOsNC1f6sF9biUAdY0aBmKlnK0RUr-P-X7CipqJFte3M3iuzT9l-SupRXFAODcmjYdp0P0zoXkkcXdTcr2O&new=1)
+ ## [不再靠你买显卡充值信仰，英伟达已经变了](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=l000gGcza1TsfAHC5udd-Zc7DPb0wFfqtc8KzzjCH4G98MLgZImNUNXvjDD*NQ-KsSVZ-GMQ6LBRoRoMrlDcDCc8Fp4OXDJ-f*SLIg0ZKXZ*2wlHicdb9xPS368qcoW2&new=1)
+ > 千亿规模的服务器芯片市场，是英伟达的第二增长曲线。「皮衣教主」黄仁勋可能睡觉都能笑醒。就在新冠疫情给电子消费、零售、制造等行业带来「深度衰退」时，以数据中心为代表的云计算行业却迎来逆势增长。近日，...
+ ## [为什么中国开发不出流行的操作系统和编程语言?](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=yKXq-*jxyH6z09riaOIGZux*4K5t6Vo-XACKwAS9MEfdhFrNdlwebcbiQFzu3TCBWSo4v7a6d7xcQnejn4joGIFiNNbIeiXFDKU14jJDi0vmKz*FhqGSLM9Cbc4coVti&new=1)
  > “知乎有两个帖子很有意思，中国能不能写出操作系统？中国为什么没有自己的编程语言？看了很多回答，有的答案写的很认真，按照编程语言出现的时间顺序等梳理；有的也非常认真，但是逻辑是错的；还有一种是搞笑的...
- ## [美国无奈，中国成为5G毫米波技术的最大贡献者](http://mp.weixin.qq.com/s?src=11&timestamp=1594078204&ver=2445&signature=PPuAwuuVbdasYRo4eEhtuOmFjVhXg50x04llJ4myxwHdrmfxY2Xs2xDOwi15fIuBBTlU0hy8nH*Taa*g*mI8Cqn0ZqkVe6nVanpmA1hA9xoV5N1hFlilHVJ-q8iv7SYu&new=1)
+ ## [美国无奈，中国成为5G毫米波技术的最大贡献者](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=PPuAwuuVbdasYRo4eEhtuOmFjVhXg50x04llJ4myxwGqPCWdQpoWxOcxOBGmjV4B3xiIX-1U14VqPdtNX6SF-pbdHQHSUEU5ZHEGBsRKUXpCdO8D75akaFdcPacTOkW1&new=1)
  > 据外媒报道指5G R16版标准已冻结，中国提交了2.3万篇文稿，占占3GPP总文稿数的35%，牵头项目超过40%。R16版主要是针对uRLLC以及毫米波等技术作出增强和提升，由此中国成为5G毫米波技术的最大贡献者。5G虽然只有...
 # IT 技术 
- ## [如何用Spring WebFlux构建Reactive REST API](http://developer.51cto.com/art/202007/620371.htm)
- > 如何用Spring WebFlux构建Reactive REST API
  ## [全面比较Rust与Go语言](http://developer.51cto.com/art/202007/620370.htm)
  > 全面比较Rust与Go语言
- ## [英国列车网络如何走上数字化道路?](http://network.51cto.com/art/202007/620295.htm)
- > 英国列车网络如何走上数字化道路?
- ## [自从尝了 Rust，Java 突然不香了](http://news.51cto.com/art/202007/620224.htm)
- > 自从尝了 Rust，Java 突然不香了
- ## [2020半年报：5G行业应用全方位落地](http://network.51cto.com/art/202007/620164.htm)
- > 2020半年报：5G行业应用全方位落地
- ## [PyCharm虚拟环境的创建！](http://virtual.51cto.com/art/202007/620271.htm)
- > PyCharm虚拟环境的创建！
- ## [饿了么4年，阿里2年：我的总结与思考](http://news.51cto.com/art/202007/620269.htm)
- > 饿了么4年，阿里2年：我的总结与思考
- ## [为什么大家都说“SELECT *”效率低？](http://database.51cto.com/art/202007/620268.htm)
- > 为什么大家都说“SELECT *”效率低？
+ ## [大公司为什么要开源其技术？](http://developer.51cto.com/art/202007/620299.htm)
+ > 大公司为什么要开源其技术？
+ ## [要成为一名成功的开发人员，您应该放弃的22件事](http://developer.51cto.com/art/202007/620286.htm)
+ > 要成为一名成功的开发人员，您应该放弃的22件事
+ ## [如何用Spring WebFlux构建Reactive REST API](http://developer.51cto.com/art/202007/620371.htm)
+ > 如何用Spring WebFlux构建Reactive REST API
+ ## [MQTT与SSE的对比](http://network.51cto.com/art/202007/620252.htm)
+ > MQTT与SSE的对比
+ ## [现代化机器学习工具，助数据科学家开展更多工程或业务功能](http://ai.51cto.com/art/202007/620256.htm)
+ > 现代化机器学习工具，助数据科学家开展更多工程或业务功能
+ ## [当下就可以启动的7个高绩效举措](http://news.51cto.com/art/202007/620315.htm)
+ > 当下就可以启动的7个高绩效举措
+ ## [关于区块链运用热下的冷思考](http://blockchain.51cto.com/art/202007/620246.htm)
+ > 关于区块链运用热下的冷思考
+ ## [遍览200多个机器学习工具后，我学到了啥](http://ai.51cto.com/art/202007/620396.htm)
+ > 这篇文章中，Chip小哥统计了两百多个机器学习相关工具，并且对整个该领域的发展和现状进行了回顾，同时列出
+ ## [为什么C语言依然是必学的编程语言，这3点告诉你答案](http://news.51cto.com/art/202007/620395.htm)
+ > 如今，市面上编程语言几百种，很多人觉得Python、 JAVA这种语言比较火，是不是C语言就不行了呢？
+ ## [未来十年大风口，物联网成为科技巨头“香饽饽”](http://iot.51cto.com/art/202007/620393.htm)
+ > 当今，边缘计算市场仍然处于初期发展阶段。主宰云计算市场的互联网公司(国外的亚马逊、谷歌、微软，国内的
+ ## [物联网网关在工业计算中的主要5种应用](http://iot.51cto.com/art/202007/620392.htm)
+ > 物联网的应用在整个行业中都在迅速增长，并且与我们日常生活的各个方面相互作用。物联网将生成大量数据，这
+ ## [8个nc命令的实用案例](http://os.51cto.com/art/202007/620390.htm)
+ > netcat(简称nc)是一个简单但功能强大的网络命令行工具，用于执行Linux中与TCP、UDP或Unix套接字相关的任何
+ ## [写出你的第一个web app，几行代码就够了](http://ai.51cto.com/art/202007/620387.htm)
+ > 传统部署机器学习模型的方法是利用Django、Flask等已经建立好的框架，然而这种方法非常耗时，常常令人望而
+ ## [年中盘点：并购和投资将成为云厂商的“重头戏”](http://cloud.51cto.com/art/202007/620385.htm)
+ > 受新冠疫情影响，全球经济下滑，企业IT支出自然也会缩减。那么，云计算厂商该如何盘整市场，负重前行?答案
  ## [2020年7月编程语言排名，C语言与Java拉大距离，黑马R排名第八](http://news.51cto.com/art/202007/620381.htm)
  > TIOBE编程社区2020年7月编程语言排行榜如期而至，你的生活工作是否也是这样如期而至呢?看看7月编程语言排
  ## [如何绘制有用的技术架构图](http://developer.51cto.com/art/202007/620379.htm)
@@ -55,10 +71,10 @@ categories: IT NEWS
  > Java面试题之初入Java世界
  ## [我是怎么读源代码的](https://blog.csdn.net/shenjian58/article/details/106700244)
  > 我是怎么读源代码的
- ## [自学党/野生猿，项目经验上哪搞？](https://blog.csdn.net/wangshuaiwsws95/article/details/107099305)
- > 
  ## [面试冲刺:07---常用的排序算法（冒泡、插入、选择、希尔、归并、快速）](https://blog.csdn.net/qq_41453285/article/details/105827694)
  > 面试冲刺:07---常用的排序算法（冒泡、插入、选择、希尔、归并、快速）
+ ## [自学党/野生猿，项目经验上哪搞？](https://blog.csdn.net/wangshuaiwsws95/article/details/107099305)
+ > 
  ## [AI开发者大会：2020年7月3日09:50--10:10唐杰《人工智能的下一个十年》](https://blog.csdn.net/qq_41185868/article/details/107119155)
  > AI开发者大会：2020年7月3日09:50--10:10唐杰《人工智能的下一个十年》
  ## [两年伯克利数学博士毕业，蝉联阿里数学竞赛金奖，张钺：我就是个普通人](https://blog.csdn.net/QbitAI/article/details/107117873)
@@ -66,36 +82,36 @@ categories: IT NEWS
  ## [互联网人均喷子？键盘侠是怎样炼成的](https://blog.csdn.net/duxinshuxiaobian/article/details/107118162)
  > 互联网人均喷子？键盘侠是怎样炼成的
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [【一年总结】记我的大一生活](https://blog.csdn.net/qq_46101869/article/details/107122464)
+ > 
+ ## [只有大佬才知道的八大顶级自学网站，赶紧收藏学习吧！！！](https://blog.csdn.net/ywsydwsbn/article/details/107125691)
+ > 
+ ## [记2020年第十一届蓝桥杯感想](https://blog.csdn.net/TpeterH/article/details/107140863)
+ > 记2020年第十一届蓝桥杯感想
+ ## [80后的程序员老鸟写给一些后起IT人的（仅代表本人看法）](https://blog.csdn.net/xtgmd168/article/details/107144401)
+ > 80后的程序员老鸟写给一些后起IT人的（仅代表本人看法）
+ ## [小狮子前端Vue进阶小册 开通食用指北](https://blog.csdn.net/weixin_42429718/article/details/107134349)
+ > 
+ ## [五年了还在原地踏步咋整？技术大佬给你整理了一套切实可行的方法论](https://blog.csdn.net/qing_gee/article/details/107135123)
+ > 
+ ## [桶排序——找男友](https://blog.csdn.net/m0_45682806/article/details/107125190)
+ > 桶排序——找男友
+ ## [【IT资讯】TIOBE - 2020年7月编程语言排行](https://blog.csdn.net/dengjin20104042056/article/details/107129563)
+ > 【IT资讯】TIOBE - 2020年7月编程语言排行
+ ## [PM981/PM981a安装黑苹果-补丁说明](https://blog.csdn.net/m0_46463797/article/details/106318277)
+ > PM981/PM981a安装黑苹果-补丁说明
+ ## [springboot的application.yml 多环境配置 (dev prod test)，其中，开发环境、测试环境、生产环境区别是什么？](https://blog.csdn.net/qq_20156289/article/details/107128387)
+ > springboot的application.yml 多环境配置 (dev prod test)，其中，开发环境、测试环境、生产环境区别是什么？
+ ## [论互联网的自由!!!](https://blog.csdn.net/weixin_38886125/article/details/107138904)
+ > 论互联网的自由!!!
+ ## [2020上半年总结：逆势上行与困顿迷茫](https://blog.csdn.net/wo541075754/article/details/107137712)
+ > 2020上半年总结：逆势上行与困顿迷茫
+ ## [面试中常见的人事问题](https://blog.csdn.net/AyayaOVO/article/details/107118547)
+ > 面试中常见的人事问题
+ ## [C语言管理系统开发手册](https://blog.csdn.net/qq_40871625/article/details/107126469)
+ > C语言管理系统开发手册
+ ## [网页和网站，网页建设流程](https://blog.csdn.net/weixin_45938584/article/details/107131058)
+ > 网页和网站，网页建设流程
 # PM 
  ## [会员忠诚度](http://www.chanpin100.com/article/112124)
  > 阐述了会员忠诚度及会员体系3个方法模型AIPL、AARRR、RFM
