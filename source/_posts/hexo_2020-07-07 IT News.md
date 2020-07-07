@@ -1,20 +1,28 @@
 ---
 title: 2020-07-07 IT News
 copyright: true
-date: 2020-07-07 09:01:12
+date: 2020-07-07 10:01:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [沈少艾详解中国电信VoLTE业务：迅速发展靠三大秘籍](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=wlubLQlytRc55naOaZmDBqyFQDtlEUkgOZb4UONOiXVsL9nUgPelRxc9Bqku7aMBy-wRIVfrsrJhJcA6uNLZVIKKM-qdHh04DXK6XrYkACQ51TAkb2uGnCVvYhn-07PW&new=1)
- > 7月3日晚间，5G R16标准冻结，让5G网络能支撑更多行业应用。但运营商要实现5G商业成功，不仅发展新业务，还要保证5G时代语音等传统业务，减少2G、3G网络“成本包袱”。众所周知，运营商语音业务从2G/3G网络承载...
- ## [不再靠你买显卡充值信仰，英伟达已经变了](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=l000gGcza1TsfAHC5udd-Zc7DPb0wFfqtc8KzzjCH4G98MLgZImNUNXvjDD*NQ-KsSVZ-GMQ6LBRoRoMrlDcDCc8Fp4OXDJ-f*SLIg0ZKXZ*2wlHicdb9xPS368qcoW2&new=1)
- > 千亿规模的服务器芯片市场，是英伟达的第二增长曲线。「皮衣教主」黄仁勋可能睡觉都能笑醒。就在新冠疫情给电子消费、零售、制造等行业带来「深度衰退」时，以数据中心为代表的云计算行业却迎来逆势增长。近日，...
- ## [为什么中国开发不出流行的操作系统和编程语言?](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=yKXq-*jxyH6z09riaOIGZux*4K5t6Vo-XACKwAS9MEfdhFrNdlwebcbiQFzu3TCBWSo4v7a6d7xcQnejn4joGIFiNNbIeiXFDKU14jJDi0vmKz*FhqGSLM9Cbc4coVti&new=1)
- > “知乎有两个帖子很有意思，中国能不能写出操作系统？中国为什么没有自己的编程语言？看了很多回答，有的答案写的很认真，按照编程语言出现的时间顺序等梳理；有的也非常认真，但是逻辑是错的；还有一种是搞笑的...
- ## [美国无奈，中国成为5G毫米波技术的最大贡献者](http://mp.weixin.qq.com/s?src=11&timestamp=1594083605&ver=2445&signature=PPuAwuuVbdasYRo4eEhtuOmFjVhXg50x04llJ4myxwGqPCWdQpoWxOcxOBGmjV4B3xiIX-1U14VqPdtNX6SF-pbdHQHSUEU5ZHEGBsRKUXpCdO8D75akaFdcPacTOkW1&new=1)
+ ## [美国无奈，中国成为5G毫米波技术的最大贡献者](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=PPuAwuuVbdasYRo4eEhtuOmFjVhXg50x04llJ4myxwGqPCWdQpoWxOcxOBGmjV4BGi-wgxKrO3el4oicq56ADSdCkLOYGAg8d5CkjJU86S7dDWWvFtcpgi4xshQWdEOZ&new=1)
  > 据外媒报道指5G R16版标准已冻结，中国提交了2.3万篇文稿，占占3GPP总文稿数的35%，牵头项目超过40%。R16版主要是针对uRLLC以及毫米波等技术作出增强和提升，由此中国成为5G毫米波技术的最大贡献者。5G虽然只有...
+ ## [\[报告\]2020年6月汽车消费指数及5月全口径乘用车市场分析(附26页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=Pz8vMJpNjbKnU-ShmVlQz4XNENeCv7QfAeqCJ4rxbC8VmWc1-f0o9TUeYIy6lkUQWs4ImRh2zHtiVLfgrQKnbqIBtoX1XtCweNOAeoVa*vRPDtoGIkzxsrI-*ReCM*6-&new=1)
+ > 2020年5月全口径乘用车销售160.7万辆，环比上升12.1%，同比下降8.1%。以下为报告节选：......文│中国汽车流通协会本报告共计：26页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需...
+ ## [为什么中国开发不出流行的操作系统和编程语言?](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=yKXq-*jxyH6z09riaOIGZux*4K5t6Vo-XACKwAS9MEfdhFrNdlwebcbiQFzu3TCB9WyQ8Hq3t2fyBG5MwzXiaKWYXRNyacyjgiZ7aXM3xMmkEwlxHHI5JBUwBFRWmCuF&new=1)
+ > “知乎有两个帖子很有意思，中国能不能写出操作系统？中国为什么没有自己的编程语言？看了很多回答，有的答案写的很认真，按照编程语言出现的时间顺序等梳理；有的也非常认真，但是逻辑是错的；还有一种是搞笑的...
+ ## [\[科技早报7点整\]特斯拉回应Model 3撞上渣土车 法国加入“打压”华为队伍……](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=V60*LQceaWPcbNmIwWVOSJMy0*vWEgn2P6-jgy42dnqpNVmi002wbozUfO22*nVTN94dL0zh4mNQUeWKE4zDsD-smgTasMSrl6FSbiWdgbmah3W18zOQpaPzRKiBUxIp&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第855期1.三部门联合发布9个新职业：带货网红成正式新工种7月6日，人社部联合国家市场监管总局、国家统计局三部门联合发布9个新职业，包括区块链工程技术人员、城市管理网格员...
+ ## [讯石专访|艾贝特：专注激光锡焊技术 深入5G器件领域细分制造](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=vAokvfyeLFZq36EM8hrg9nbo43zYO-1nXBUtlMVXjlXKKZ2LwuDne6adeUuZVHtNv9kXXHv7OmgPHY2E8jbGNSg23K8GcH8D*BI9ndEQvh0BW5FKznq1t11ZQ21dCOdC&new=1)
+ > 新闻导读深圳艾贝特专注激光焊锡细分领域的微精密焊接，提前布局技术储备，满足5G建设所需的25G/100G/400G核心光模块以及无线天线焊接领域。ICC讯 7月3日—5日，作为亚洲激光、光学、光电行业盛会的“2020年慕尼...
+ ## [沈少艾详解中国电信VoLTE业务：迅速发展靠三大秘籍](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=wlubLQlytRc55naOaZmDBqyFQDtlEUkgOZb4UONOiXVsL9nUgPelRxc9Bqku7aMB2tfSs11g-B2J6vvlGmEWtBXwwso25pY-P2NCN3jQfNYcimKsHivIDuv5s03MUA0k&new=1)
+ > 7月3日晚间，5G R16标准冻结，让5G网络能支撑更多行业应用。但运营商要实现5G商业成功，不仅发展新业务，还要保证5G时代语音等传统业务，减少2G、3G网络“成本包袱”。众所周知，运营商语音业务从2G/3G网络承载...
+ ## [不再靠你买显卡充值信仰，英伟达已经变了](http://mp.weixin.qq.com/s?src=11&timestamp=1594087204&ver=2445&signature=l000gGcza1TsfAHC5udd-Zc7DPb0wFfqtc8KzzjCH4G98MLgZImNUNXvjDD*NQ-KohIvUG8Er3FalQWNLnDV94H13d1M4Wo*1wPNKvzANvy5PKPoN0IoVmGC*k1O1*ak&new=1)
+ > 千亿规模的服务器芯片市场，是英伟达的第二增长曲线。「皮衣教主」黄仁勋可能睡觉都能笑醒。就在新冠疫情给电子消费、零售、制造等行业带来「深度衰退」时，以数据中心为代表的云计算行业却迎来逆势增长。近日，...
 # IT 技术 
+ ## [我承认，要放弃使用Lombok了！](http://developer.51cto.com/art/202007/620401.htm)
+ > 我承认，要放弃使用Lombok了！
  ## [全面比较Rust与Go语言](http://developer.51cto.com/art/202007/620370.htm)
  > 全面比较Rust与Go语言
  ## [大公司为什么要开源其技术？](http://developer.51cto.com/art/202007/620299.htm)
@@ -29,28 +37,26 @@ categories: IT NEWS
  > 现代化机器学习工具，助数据科学家开展更多工程或业务功能
  ## [当下就可以启动的7个高绩效举措](http://news.51cto.com/art/202007/620315.htm)
  > 当下就可以启动的7个高绩效举措
- ## [关于区块链运用热下的冷思考](http://blockchain.51cto.com/art/202007/620246.htm)
- > 关于区块链运用热下的冷思考
- ## [遍览200多个机器学习工具后，我学到了啥](http://ai.51cto.com/art/202007/620396.htm)
- > 这篇文章中，Chip小哥统计了两百多个机器学习相关工具，并且对整个该领域的发展和现状进行了回顾，同时列出
- ## [为什么C语言依然是必学的编程语言，这3点告诉你答案](http://news.51cto.com/art/202007/620395.htm)
- > 如今，市面上编程语言几百种，很多人觉得Python、 JAVA这种语言比较火，是不是C语言就不行了呢？
- ## [未来十年大风口，物联网成为科技巨头“香饽饽”](http://iot.51cto.com/art/202007/620393.htm)
- > 当今，边缘计算市场仍然处于初期发展阶段。主宰云计算市场的互联网公司(国外的亚马逊、谷歌、微软，国内的
- ## [物联网网关在工业计算中的主要5种应用](http://iot.51cto.com/art/202007/620392.htm)
- > 物联网的应用在整个行业中都在迅速增长，并且与我们日常生活的各个方面相互作用。物联网将生成大量数据，这
- ## [8个nc命令的实用案例](http://os.51cto.com/art/202007/620390.htm)
- > netcat(简称nc)是一个简单但功能强大的网络命令行工具，用于执行Linux中与TCP、UDP或Unix套接字相关的任何
- ## [写出你的第一个web app，几行代码就够了](http://ai.51cto.com/art/202007/620387.htm)
- > 传统部署机器学习模型的方法是利用Django、Flask等已经建立好的框架，然而这种方法非常耗时，常常令人望而
- ## [年中盘点：并购和投资将成为云厂商的“重头戏”](http://cloud.51cto.com/art/202007/620385.htm)
- > 受新冠疫情影响，全球经济下滑，企业IT支出自然也会缩减。那么，云计算厂商该如何盘整市场，负重前行?答案
- ## [2020年7月编程语言排名，C语言与Java拉大距离，黑马R排名第八](http://news.51cto.com/art/202007/620381.htm)
- > TIOBE编程社区2020年7月编程语言排行榜如期而至，你的生活工作是否也是这样如期而至呢?看看7月编程语言排
- ## [如何绘制有用的技术架构图](http://developer.51cto.com/art/202007/620379.htm)
- > 技术架构图提供了您组织的基础架构的鸟瞰图。 该图说明了系统中的组件如何在大型事物中相互交互。
- ## [物联网推动能源行业创新的6种方式](http://iot.51cto.com/art/202007/620375.htm)
- > 将物联网的这些进步应用于一系列能源行业问题，可通过更好的数据创新，来帮助行业在较低油价情况下恢复盈利
+ ## [斑马技术助力抗击全球新型冠状病毒肺炎疫情](http://biz.51cto.com/art/202007/620144.htm)
+ > 作为致力于通过其解决方案及合作伙伴助力企业获得性能优势的边缘式创新者，斑马技术公司近日推出了一系列举
+ ## [超强干货！一文看懂人脸识别在 App 应用中的隐私安全问题](http://news.51cto.com/art/202007/620412.htm)
+ > 近日，中国信息通信研究院安全研究所与北京百度网讯科技有限公司联合发布了《人脸识别技术在 App 应用中的
+ ## [阻碍数据分析获得成功的四大原因](http://bigdata.51cto.com/art/202007/620410.htm)
+ > 强大的数据分析是数字业务的当务之急，这一切都始于数据治理，正确的策略以及对具有数据意识的文化的重视。
+ ## [如何让科技行业更具包容性](http://www.cioage.com/art/202007/620407.htm)
+ > 在最近的一次科技研讨会中，业内人士分享了他们关于如何让科技行业更具包容性的想法。
+ ## [新冠疫情影响2020年智能家居市场，明年将会反弹](http://news.51cto.com/art/202007/620404.htm)
+ > 总体而言，IDC预计在2020年剩余时间内，所有产品类别的需求都将减少。但是，明年的出货量应该会开始恢复增
+ ## [物联网在医疗领域的未来成为人们关注的焦点](http://iot.51cto.com/art/202007/620403.htm)
+ > 随着更快的宽带速度、更好的分析、技术改进以及行业内的更多竞争者，物联网的未来将有更大的机会对医疗保健
+ ## [智能汽车时代，你的安全和隐私由谁来保证](http://ai.51cto.com/art/202007/620402.htm)
+ > 对于眼前的智能汽车，出于对于自动驾驶系统安全性和隐私泄漏的担心，你是否会选择关闭这些智能功能，让汽车
+ ## [波士顿动力机器狗首个开箱视频：53万，我买到了啥？](http://news.51cto.com/art/202007/620409.htm)
+ > 波士顿动力首款零售的机器人 Spot，今年 6 月 16 日起正式向美国企业用户发售了。作为机器人里的明星，发货
+ ## [探索边缘计算作为云计算的补充](http://cloud.51cto.com/art/202007/620400.htm)
+ > 5G网络和向远程运营的重大转变使边缘计算成为企业数字化转型的新领域。处于边缘的基础正在促使人们对基础设
+ ## [Linux 内核编码规范将添加“包容性术语”准则](http://news.51cto.com/art/202007/620408.htm)
+ > 上游 Linux 内核开发者 Dan Williams 近日提交了在编码规范中添加“包容性术语(Inclusive Terminology)”
  ## [PyQt（Python+Qt）学习随笔：纯文本编辑器QPlainTextEdit功能详解](https://blog.csdn.net/LaoYuanPython/article/details/105610233)
  > 
  ## [Dubbo想要个网关怎么办？试试整合Spring Cloud Gateway](https://blog.csdn.net/zlt2000/article/details/106992879)
@@ -59,6 +65,8 @@ categories: IT NEWS
  > 
  ## [深度揭秘！蚂蚁业务自定义监控大盘是怎么设计的？](https://blog.csdn.net/alitech2017/article/details/107110414)
  > 深度揭秘！蚂蚁业务自定义监控大盘是怎么设计的？
+ ## [值得一看，程序员不得不知的十大职场误区](https://live.csdn.net/v/31807)
+ > 值得一看，程序员不得不知的十大职场误区
  ## [阿里 AI 研究成果入选国际顶会 ICML 2020，AI 推理速度提升 3 倍](https://blog.csdn.net/csdnnews/article/details/106851765)
  > 阿里 AI 研究成果入选国际顶会 ICML 2020，AI 推理速度提升 3 倍
  ## [Apache服务器配置](https://blog.csdn.net/qq_17623363/article/details/107105522)
@@ -79,39 +87,37 @@ categories: IT NEWS
  > AI开发者大会：2020年7月3日09:50--10:10唐杰《人工智能的下一个十年》
  ## [两年伯克利数学博士毕业，蝉联阿里数学竞赛金奖，张钺：我就是个普通人](https://blog.csdn.net/QbitAI/article/details/107117873)
  > 两年伯克利数学博士毕业，蝉联阿里数学竞赛金奖，张钺：我就是个普通人
- ## [互联网人均喷子？键盘侠是怎样炼成的](https://blog.csdn.net/duxinshuxiaobian/article/details/107118162)
- > 互联网人均喷子？键盘侠是怎样炼成的
 # 人工智能 
+ ## [计算机网络复习提纲](https://blog.csdn.net/CoutCodes/article/details/107144490)
+ > 
+ ## [AI开发者大会：2020年7月3日09:50--10:10唐杰《人工智能的下一个十年》](https://blog.csdn.net/qq_41185868/article/details/107119155)
+ > AI开发者大会：2020年7月3日09:50--10:10唐杰《人工智能的下一个十年》
  ## [【一年总结】记我的大一生活](https://blog.csdn.net/qq_46101869/article/details/107122464)
  > 
- ## [只有大佬才知道的八大顶级自学网站，赶紧收藏学习吧！！！](https://blog.csdn.net/ywsydwsbn/article/details/107125691)
+ ## [20浙江工业大学计算机专硕考研经验贴](https://blog.csdn.net/weixin_43674494/article/details/107131587)
+ > 20浙江工业大学计算机专硕考研经验贴
+ ## [基于Jupyter notebook完成卷积神经网络和Dlib的笑脸识别+口罩识别](https://blog.csdn.net/qq_42585108/article/details/107107313)
  > 
- ## [记2020年第十一届蓝桥杯感想](https://blog.csdn.net/TpeterH/article/details/107140863)
- > 记2020年第十一届蓝桥杯感想
- ## [80后的程序员老鸟写给一些后起IT人的（仅代表本人看法）](https://blog.csdn.net/xtgmd168/article/details/107144401)
- > 80后的程序员老鸟写给一些后起IT人的（仅代表本人看法）
- ## [小狮子前端Vue进阶小册 开通食用指北](https://blog.csdn.net/weixin_42429718/article/details/107134349)
+ ## [基于jupyter-notebook的笑脸数据集GENKI4K的划分、训练、测试，并实现摄像头笑脸识别判断](https://blog.csdn.net/lxzysx/article/details/107028257)
+ > 基于jupyter-notebook的笑脸数据集GENKI4K的划分、训练、测试，并实现摄像头笑脸识别判断
+ ## [数字图像处理完整实践1--基础知识](https://blog.csdn.net/csdnxml/article/details/107003954)
  > 
- ## [五年了还在原地踏步咋整？技术大佬给你整理了一套切实可行的方法论](https://blog.csdn.net/qing_gee/article/details/107135123)
+ ## [准大二生的暑期自学安排](https://blog.csdn.net/sxhelijian/article/details/107116667)
+ > 准大二生的暑期自学安排
+ ## [一文搞懂三级管和场效应管驱动电路设计及使用](https://blog.csdn.net/m0_38106923/article/details/107131879)
  > 
- ## [桶排序——找男友](https://blog.csdn.net/m0_45682806/article/details/107125190)
- > 桶排序——找男友
- ## [【IT资讯】TIOBE - 2020年7月编程语言排行](https://blog.csdn.net/dengjin20104042056/article/details/107129563)
- > 【IT资讯】TIOBE - 2020年7月编程语言排行
- ## [PM981/PM981a安装黑苹果-补丁说明](https://blog.csdn.net/m0_46463797/article/details/106318277)
- > PM981/PM981a安装黑苹果-补丁说明
- ## [springboot的application.yml 多环境配置 (dev prod test)，其中，开发环境、测试环境、生产环境区别是什么？](https://blog.csdn.net/qq_20156289/article/details/107128387)
- > springboot的application.yml 多环境配置 (dev prod test)，其中，开发环境、测试环境、生产环境区别是什么？
- ## [论互联网的自由!!!](https://blog.csdn.net/weixin_38886125/article/details/107138904)
- > 论互联网的自由!!!
- ## [2020上半年总结：逆势上行与困顿迷茫](https://blog.csdn.net/wo541075754/article/details/107137712)
- > 2020上半年总结：逆势上行与困顿迷茫
- ## [面试中常见的人事问题](https://blog.csdn.net/AyayaOVO/article/details/107118547)
- > 面试中常见的人事问题
- ## [C语言管理系统开发手册](https://blog.csdn.net/qq_40871625/article/details/107126469)
- > C语言管理系统开发手册
- ## [网页和网站，网页建设流程](https://blog.csdn.net/weixin_45938584/article/details/107131058)
- > 网页和网站，网页建设流程
+ ## [计算机网络体系结构基础](https://blog.csdn.net/weixin_46880398/article/details/107123448)
+ > 计算机网络体系结构基础
+ ## [OpenGL简单渲染一个三角形](https://blog.csdn.net/Forever_wj/article/details/107109927)
+ > OpenGL简单渲染一个三角形
+ ## [计算机组成原理学习思维导图（零基础--思维导图详细版本--看完就会）](https://blog.csdn.net/gl620321/article/details/107005533)
+ > 
+ ## [『号外号外』WoS数据库更新后导入VOSviewer出错的原因](https://blog.csdn.net/Causal_Inference/article/details/107145060)
+ > 『号外号外』WoS数据库更新后导入VOSviewer出错的原因
+ ## [2020计算机保研经验——（1）山东大学计算机学院](https://blog.csdn.net/GooTal/article/details/107138597)
+ > 2020计算机保研经验——（1）山东大学计算机学院
+ ## [烽火计划项目成果-目录索引](https://blog.csdn.net/qq_43724306/article/details/107144130)
+ > 烽火计划项目成果-目录索引
 # PM 
  ## [会员忠诚度](http://www.chanpin100.com/article/112124)
  > 阐述了会员忠诚度及会员体系3个方法模型AIPL、AARRR、RFM
