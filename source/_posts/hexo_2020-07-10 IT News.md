@@ -1,18 +1,20 @@
 ---
 title: 2020-07-10 IT News
 copyright: true
-date: 2020-07-10 08:00:57
+date: 2020-07-10 09:01:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国信通院王志勤：加快5G新基建，驱动数字化转型升级](http://mp.weixin.qq.com/s?src=11&timestamp=1594337451&ver=2451&signature=iVkG4MeCrbFxVsjkk5oyFghF*3ORerb5rtz7ei7t8Hblq4akO8o5f7BYBZ*UVRX5MTZC-XexHtoCBfGq-lxTZdye5aszdUQ155DRGlPPVtS2*WIQ*Uhjtmbt4iF07aEV&new=1)
- > 一周前的7月3日晚间，5G R16标准冻结，意味着5G进入第二阶段重要发展时期。站在这个节点上，我们纵览5G产业，5G技术、网络、终端等都走向成熟。截至2020年6月，全球有44个国家/地区的90家运营商宣称开始提供5G业...
- ## [一文读懂：中芯国际与台积电还有多大差距?](http://mp.weixin.qq.com/s?src=11&timestamp=1594337451&ver=2451&signature=eW*v11DVYoDnUJ2LmXa*OmbQOtlFKWOsX0xpg-wT9hidbcCgjCpyJatFqfraC6mbHcbPpuvBE4*eiTNdHzPGDakRzd7wnT3DDWIWx-c0Qnifnug2*TLUdRBTo3MftuOX&new=1)
+ ## [一文读懂：中芯国际与台积电还有多大差距?](http://mp.weixin.qq.com/s?src=11&timestamp=1594341058&ver=2451&signature=eW*v11DVYoDnUJ2LmXa*OmbQOtlFKWOsX0xpg-wT9hjBNjaDvAp75ueiADiw7mcOLXQH8U4g9*ux1PFdu1dfWN3*N6R2ciaZAH1HJPH9iMUvZlX5830dqfCbK7oNzETI&new=1)
  > 导读：中芯国际的工艺技术落后于台积电4年左右；全球市场占有率仅4.4%，而台积电接近50%；净利润2.35亿美元，台积电则高达115亿美元；毛利率在20%，台积电净利率为32%。作为中国晶圆代工龙头企业，中芯国际一直...
- ## [中国电信公布2019年员工薪酬!](http://mp.weixin.qq.com/s?src=11&timestamp=1594337451&ver=2451&signature=c5X8Q4G8xKE8jJtswmVadOziJwJpBiF-Ovbp5EHCc8iNr2OfRUfw1*tmqFi1OWJ8u8v8i4fwTvVrn4d9NbIGR2qOsHPJko7jMJChFuggSk5ZTKd4x1sHgm4m*xfXyXrN&new=1)
+ ## [中国信通院王志勤：加快5G新基建，驱动数字化转型升级](http://mp.weixin.qq.com/s?src=11&timestamp=1594341058&ver=2451&signature=iVkG4MeCrbFxVsjkk5oyFghF*3ORerb5rtz7ei7t8HbzIqCXnwlKZkCIqfHPJCfRyB5qzILyFtiVb8ZDUiBLdNtfiNnqR2-2wLQVSwDzmOZIyqaYBPRidKni9gPzbzHZ&new=1)
+ > 一周前的7月3日晚间，5G R16标准冻结，意味着5G进入第二阶段重要发展时期。站在这个节点上，我们纵览5G产业，5G技术、网络、终端等都走向成熟。截至2020年6月，全球有44个国家/地区的90家运营商宣称开始提供5G业...
+ ## [中国电信公布2019年员工薪酬!](http://mp.weixin.qq.com/s?src=11&timestamp=1594341058&ver=2451&signature=c5X8Q4G8xKE8jJtswmVadOziJwJpBiF-Ovbp5EHCc8hZbugkCwoYszwBt-xb*BkN52rdfsWo0vpVdk-ToVHrnPQStgStaIm6qm*VMzfC9df2kOXePX5d6fK462Ge-EN*&new=1)
  > 近日，中国电信官方公布2019年中国电信股份有限公司人工成本为635.67亿元，较2018年（597亿元）增长6.4%。上市公告说明，增长的主要原因是公司加大向高科技人才和一线员工的激励。根据中国电信官方数据，中国电...
 # IT 技术 
+ ## [王者荣耀为什么不使用微服务架构？](http://developer.51cto.com/art/202007/620697.htm)
+ > 王者荣耀为什么不使用微服务架构？
  ## [系统管理员要学习的五大技能！](http://os.51cto.com/art/202007/620689.htm)
  > 系统管理员要学习的五大技能！
  ## [5招助您设计出更好的REST API](http://network.51cto.com/art/202007/620688.htm)
@@ -27,8 +29,18 @@ categories: IT NEWS
  > 逐行解读HashMap源码之红黑树篇
  ## [区块链+各行业应用案例](http://blockchain.51cto.com/art/202007/620564.htm)
  > 区块链+各行业应用案例
- ## [可视化动图带你一步步讲解栈有什么用](http://developer.51cto.com/art/202007/620560.htm)
- > 可视化动图带你一步步讲解栈有什么用
+ ## [Linux通用的跨发行版的3大软件包管理器](http://os.51cto.com/art/202007/620702.htm)
+ > 在本文中，我们将介绍比较流行的三种Linux开源通用或跨发行版软件包管理系统。
+ ## [银行大数据平台技术架构设计实践与应用](http://bigdata.51cto.com/art/202007/620703.htm)
+ > 我们进行大数据平台建设有几个方面的背景。一是我们在信息化建设和数据分析的基础比较好;二是虽然在信息化
+ ## [HTTPS 证书被伪造了怎么办？](http://network.51cto.com/art/202007/620700.htm)
+ > HTTPS 协议的安全依赖于它的证书机制，如果攻击者申请到了一张和你的网站一摸一样的证书，那你网站的安全机
+ ## [进击的WiFi 6 2020年上半年无线路由器市场报告](http://network.51cto.com/art/202007/620699.htm)
+ > WiFi 6在2020年上半年已经成爆发之势，下半年将持续强势。远程视频会议、远程办公、网课等疫情期间出现的新
+ ## [手把手教你使用Python网络爬虫获取招聘信息](http://developer.51cto.com/art/202007/620695.htm)
+ > 现在在疫情阶段，想找一份不错的工作变得更为困难，很多人会选择去网上看招聘信息。可是招聘信息有一些
+ ## [新版本尝鲜：Python 3.9版本中的新功能有哪些？](http://developer.51cto.com/art/202007/620686.htm)
+ > 又要到Python新版本发布的时刻了，测试版已然推出，完整发行版将在不久之后与我们见面。新版本中有许多值得
  ## [物联网网关制造商的前进方向](http://iot.51cto.com/art/202007/620685.htm)
  > 物联网网关作为一种相对较快的到达目的地的方式正在兴起。物联网网关使将旧式设备与传感器和应用程序连接起
  ## [NFC和物联网：您需要了解的内容](http://iot.51cto.com/art/202007/620684.htm)
@@ -37,12 +49,6 @@ categories: IT NEWS
  > 即使你是一位拥有230万Instagram粉丝的网红也无法阻止联邦调查局对你的搜查。
  ## [彻底摧毁Python的有趣方式，我更改了1的值](http://developer.51cto.com/art/202007/620682.htm)
  > Python很棒，尽管下面这些交互很难看，但我仍然觉得它们很酷，希望您也这样做。
- ## [你需要了解的5种数据库扩展解决方案](http://database.51cto.com/art/202007/620681.htm)
- > 在本文中，我们将深入研究数据库扩展解决方案，这通常是失败的第一点。 如果您还不熟悉系统设计，请阅读简
- ## [十大Python开发技巧](http://developer.51cto.com/art/202007/620680.htm)
- > 这里有十个精巧的Python开发技巧，我敢肯定您从未见过。 快速浏览其中一些功能，以及每个功能的概要。
- ## [为什么无线振动监测对物联网预测性维护至关重要](http://iot.51cto.com/art/202007/620679.htm)
- > 持续状态监测在预测性维护实践中起着重要作用，而关键的监测参数是振动。设备振动揭示了对多个组件问题的重
  ## [Duolingo 的发迹史](https://live.csdn.net/room/zxff716/lS7CcJxi)
  > Duolingo 的发迹史
  ## [毕业了，说几句真心话+献上自导自演的毕业照吧](https://blog.csdn.net/m0_37907797/article/details/107031229)
@@ -74,36 +80,36 @@ categories: IT NEWS
  ## [绕过HSTS继续抓包](https://blog.csdn.net/qq_23936389/article/details/106394104)
  > 绕过HSTS继续抓包
 # 人工智能 
- ## [COINMAN数字货币交易所与日本SBI控股有限公司签订资本合作协议](https://blog.csdn.net/laituoke/article/details/107205355)
- > COINMAN数字货币交易所与日本SBI控股有限公司签订资本合作协议
- ## [小师妹学JVM之:JVM中的Safepoints](https://blog.csdn.net/superfjj/article/details/107197580)
- > 
- ## [Dockerfile自定义镜像](https://blog.csdn.net/qq_37852475/article/details/107189824)
- > Dockerfile自定义镜像
- ## [什么是沙盒计划SANDBOX?沙盒计划靠谱吗？沙盒计划2020](https://blog.csdn.net/imximenqing/article/details/107193003)
- > 什么是沙盒计划SANDBOX?沙盒计划靠谱吗？沙盒计划2020
- ## [以太坊交易签名过程源码解析](https://blog.csdn.net/weixin_43587332/article/details/107191191)
- > 
- ## [读取OpenFOAM数据文件并进行后处理](https://blog.csdn.net/weixin_49181094/article/details/107199020)
- > 读取OpenFOAM数据文件并进行后处理
- ## [解析以太坊区块链跨链交易，并爬虫爬取更新于数据库](https://blog.csdn.net/qq_27500493/article/details/107217569)
- > 解析以太坊区块链跨链交易，并爬虫爬取更新于数据库
- ## [2020年全新开放式学习资源](https://blog.csdn.net/A_BlackMoon/article/details/107198948)
- > 2020年全新开放式学习资源
- ## [比特币新区块产生的过程](https://blog.csdn.net/weixin_38953523/article/details/107175881)
- > 
- ## [不上热门也能带货，教你普通人如何带货月入十万+](https://blog.csdn.net/LR2725841119/article/details/107173778)
- > 不上热门也能带货，教你普通人如何带货月入十万+
- ## [Solidity智能合约基础实战](https://blog.csdn.net/LeicyII/article/details/107196058)
- > Solidity智能合约基础实战
- ## [ARM处理器的工作模式](https://blog.csdn.net/qq_42578970/article/details/107189644)
- > ARM处理器的工作模式
- ## [kdevtmpfsi 挖矿病毒清除（亲测）](https://blog.csdn.net/qq_41259576/article/details/107191691)
- > kdevtmpfsi 挖矿病毒清除（亲测）
- ## [Fortran将可变数组传入自定义子程序问题](https://blog.csdn.net/weixin_45814907/article/details/107177716)
- > Fortran将可变数组传入自定义子程序问题
- ## [小师妹学JVM之:cache line对代码性能的影响](https://blog.csdn.net/superfjj/article/details/107173533)
- > 
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+ ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
+ > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 # PM 
  ## [抖音文案怎么写才吸引人——九抖](http://www.chanpin100.com/article/112149)
  > 文案究竟怎么写？又有哪些技巧？
