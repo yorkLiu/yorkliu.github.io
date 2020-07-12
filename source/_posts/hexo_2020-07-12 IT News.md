@@ -1,21 +1,29 @@
 ---
 title: 2020-07-12 IT News
 copyright: true
-date: 2020-07-12 10:01:50
+date: 2020-07-12 12:01:43
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刚刚，鹿晗成中国联通合伙人!运营商从摆摊竞争升级到新高度!](http://mp.weixin.qq.com/s?src=11&timestamp=1594517405&ver=2455&signature=K7ayLPRSj*rIxI0wSm0PBAGjOoToXMlIuGC0wSll6-p5BoNp3A07Tv8Ue52r61buqYOoxsbRPe4eug29ysmIqCzn9Rltl3zfEHUTSI8A48zU5tbInINMantq7zeRZ*Vf&new=1)
- > 7月11日，中国联通携手知名艺人鹿晗正式推出“福鹿相伴卡”，为进一步发力5G吹响前进号。鹿晗也正式解锁新身份成为“中国联通创新合伙人”，以“福鹿相伴卡”为广大联通用户带来专属福利与惊喜。以“极速5G 玩乐...
- ## [官宣：鹿晗正式加入中国联通，运营商从摆摊竞争升级到新高度了](http://mp.weixin.qq.com/s?src=11&timestamp=1594517405&ver=2455&signature=LiF*isIZ7*4aT9MuxtQUI1Zmch-n8c4zwtK5063ppb1brHDD3fIvXh9S4hZZ9QuzpYWISwjE-gGN5EjyTTsFLvlcF7rhReWDcpF2eRHUq445tOl1yD8eNPqIR3CQwIjB&new=1)
- > 继蔡徐坤担任中国移动创新合伙人后今天，中国联通正式官宣：鹿晗正式加入“中国联通”大家庭无梦不做，Call启炽热！中国联通携手鹿晗打造的福鹿相伴卡 已搭载5G网络正式上线开售！年轻就是敢！他是远方星球的无...
- ## [好消息!NB-IoT正式成5G标准，对5G产业影响几何?](http://mp.weixin.qq.com/s?src=11&timestamp=1594517405&ver=2455&signature=pSsc4N0kSNMiEE8ngMHsVA7XeWHzU2-TfRVUBBA7kP23iLeP6cmt43*LyOdifvyEEa0HMtNhNlyyWDyHfiMNNe3YjkgpSC2XFjiu7XOAgv*oZexjw2aN-*t9vYv9vlBG&new=1)
- > NB-IoT技术拿到官方5G身份证！在今年7月9日结束的ITU-R WP5D会议上，国际电信联盟（ITU，联合国下属机构）国际移动通信系统（IMT）做出重大决议：中国提交的3GPP NR和NB-IoT等5G技术，一起正式成为5G标准。这意...
- ## [冲上热搜，华为终于对美国出手!看到金额后太兴奋了!](http://mp.weixin.qq.com/s?src=11&timestamp=1594517405&ver=2455&signature=80N8j7si1O5ZdiGTIlN3htf*6Y3gqOvM2RNYWAMyq-OwikN9XpNUmFDJFHf5TDglv*-k-5vEG*9nLbDY90NqGpJOL7DafTnnVcQNQ4E5aBM93ISYVf0bpi5AXI7*2uel&new=1)
+ ## [从停止发展2G物联网到2G退网(下)\[宁宇专栏-349\]](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=ubJvJMb*95ntUT9FjLZR82oLfxLZ8THDJxhRK6S1un9-QOcD3AOfjiKRLPizxuIH3jGS2hB7iPf6U9lR6MRmu-k8rFEqo6C8eSD9-5DG5BkJrVZOmsaQrFPaiP0KihDx&new=1)
+ > 【摘要】那些以为2G网络说关就能关的人，即便是通信技术领域的专家，也肯定是不懂运营商的人。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑系统部经理、华为业务软件部专家，现为独立咨...
+ ## [冲上热搜，华为终于对美国出手!看到金额后太兴奋了!](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=80N8j7si1O5ZdiGTIlN3htf*6Y3gqOvM2RNYWAMyq-OsnrxKRfGfb5H8VMbz-wUR*WrvRkPqX94SePgA-LY84BGvEJ06CDTlfdMBjyu6EEPX3LNF8U-dAGXmqceb448R&new=1)
  > 商务合作 QQ：23211531相信很多国人都和笔者一样，今年都表现得特别气愤，当新冠肺炎开始在全球爆发时，中国如同“保姆”一般，大力支撑着各个国家的抗疫活动，可当一切都慢慢好转时，得到的确是落井下石。美国...
- ## [腾讯首次发布人工智能白皮书，全球个人电脑市场出货量创最大涨幅](http://mp.weixin.qq.com/s?src=11&timestamp=1594517405&ver=2455&signature=55P53lgO4mOiufP-3ER1cC9yu7w7FuyQ34in4zmava8grZ*Vukj98TTBHlTi9N-Cfw4bx0tllqJbIFQhBHKfCpYZlrDd3hRlu-cZoRUNyrIazDFyQBFlNLsib2HLP1uN&new=1)
+ ## [仅用 2 年过渡到自研 ARM 芯片，苹果的底气从何而来?](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=c2RhGbDmssg-isQES1AHlaEFSML-z06fKeHHV-q0juL81YsTlsRCGrWYtmxc2m5ytUttka*GxjUqf7VUg273uqwf7iFz2M50BcgeuX6bTL9os6xJJI8t*agCETfjIiKb&new=1)
+ > 作者 | Steven Sinofsky译者 | 弯月，责编 | 屠敏头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）以下为译文：今年 WWDC 2020 上，苹果宣布自研 ARM 芯片——Apple Sil
+ ## [第八届全球云计算大会·中国站，线下开幕倒计时!抢票解锁星级参会资格!](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=KPv-x051dPwd-tT*aYTKzszX4jFXVngTxedRRAb9c4a65oD-De1DpqCyBvDbkgOX*Zl2IcNwERbZgZfOTgGKUXCjt-LVhA79OLGENHJAqMtiV89tsSrjIOVDRAsrd7jE&new=1)
+ > 第八届全球云计算大会·中国站（Cloud Connect China）将于7月21日至23日，于宁波泛太平洋大酒店举行，现大会已进入开幕倒计时阶段，即刻扫码抢票参会！本届大会主题将聚焦企业数字化转型、逐步迁移上云，并深度...
+ ## [糟糕!我被智能机器人冒充了](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=M9iTy87p4jZIXNcAt3CGS7QR5RD0E5HPfUn*Aq-m5QPtovOn4eY2zl5CZqYafjiat70Tyxiwvi88Z1REc8Nj62Vp32W025jNer7bsWO*fOCYzvUAUD9dmSUEU0MAB19F&new=1)
+ > 糟糕！我被智能机器人冒充了       事情是这样婶儿的，探索君这两天终于实现了时空穿越，并且成功穿越到了2222年！（别问怎么穿的，问就是不知道！）       但是！就在探索君兴高采烈地买了个智能机器人准备享受...
+ ## [官宣：鹿晗正式加入中国联通，运营商从摆摊竞争升级到新高度了](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=LiF*isIZ7*4aT9MuxtQUI1Zmch-n8c4zwtK5063ppb0EABzeNZPH-PqdWAtHoNtAbC8v9i-fcAOVxt1sc4izvPdPKW373qAzW1948zCn-gkDIFz3d81CO9gDeZKHJoiL&new=1)
+ > 继蔡徐坤担任中国移动创新合伙人后今天，中国联通正式官宣：鹿晗正式加入“中国联通”大家庭无梦不做，Call启炽热！中国联通携手鹿晗打造的福鹿相伴卡 已搭载5G网络正式上线开售！年轻就是敢！他是远方星球的无...
+ ## [腾讯首次发布人工智能白皮书，全球个人电脑市场出货量创最大涨幅](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=55P53lgO4mOiufP-3ER1cC9yu7w7FuyQ34in4zmava*uw8CpyYqlo5Ferd1Gz4yUBzAwX-G7l0ImCLZLyYmifQS5fyz6tD5CXQOIOVF7ujjouAzGtEqo78kVZd6goNPL&new=1)
  > 游戏头条微信号：gametoutiao(←长按复制)中国首家顾问式新媒体定制属于您自己的媒体内容导语：银行网点年内已关闭1366家；中国电信携手国家电网、华为建成国内最大规模5G智能电网；阿里巴巴创始人马云持股降至4...
+ ## [好消息!NB-IoT正式成5G标准，对5G产业影响几何?](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=pSsc4N0kSNMiEE8ngMHsVA7XeWHzU2-TfRVUBBA7kP1KvfQm4JNRzMGDlfvxle5VyImipanIxMbHxyN4ojmMPjfyBBFjF0EpHiIKXlKJqKboB8rbM-6ATs3pdX1DfUde&new=1)
+ > NB-IoT技术拿到官方5G身份证！在今年7月9日结束的ITU-R WP5D会议上，国际电信联盟（ITU，联合国下属机构）国际移动通信系统（IMT）做出重大决议：中国提交的3GPP NR和NB-IoT等5G技术，一起正式成为5G标准。这意...
+ ## [刚刚，鹿晗成中国联通合伙人!运营商从摆摊竞争升级到新高度!](http://mp.weixin.qq.com/s?src=11&timestamp=1594524665&ver=2455&signature=K7ayLPRSj*rIxI0wSm0PBAGjOoToXMlIuGC0wSll6-pKKBu5PBvvnS870uBXi0xtr22LiKAj8U8XYrN-n7glR5I5ZcuA*pFLZl08wPmbMVDny653FokZszrTlShU6xMD&new=1)
+ > 7月11日，中国联通携手知名艺人鹿晗正式推出“福鹿相伴卡”，为进一步发力5G吹响前进号。鹿晗也正式解锁新身份成为“中国联通创新合伙人”，以“福鹿相伴卡”为广大联通用户带来专属福利与惊喜。以“极速5G 玩乐...
 # IT 技术 
  ## [5招助您设计出更好的REST API](http://network.51cto.com/art/202007/620688.htm)
  > 5招助您设计出更好的REST API
@@ -64,35 +72,35 @@ categories: IT NEWS
  ## [国内大厂都在使用哪些移动跨平台框架](https://blog.csdn.net/xiangzhihong8/article/details/106772312)
  > 
 # 人工智能 
- ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
- > android 常见面试题（三）
- ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
- > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
- ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
- > Android~adb卸载系统预装应用（亲测有效）
- ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
- > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
- ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
- > AS-修改APP图标和名字
- ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
- > android开发：小米手机开发时非要sim卡才能调试怎么办？
- ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
- > android.media.MediaCodec$CodecException: Error 0xfffffc0e
- ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
- > 安卓APP的http访问权限
- ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
- > flutter 的像素尺寸
- ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
- > googlePlay 找不到发布的应用
- ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
- > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
- ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
- > 使用FlexboxLayoutManager来实现流式布局
- ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
- > 电电帮手机维修就是坑爹，大家不要信
- ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
- > android.view.InflateException Error inflating class android.webkit.WebView
- ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
- > Unity | 总结：OCR文字识别、公式识别
+ ## [MySQL - 常用存储引擎区别总结（2020最新版）](https://blog.csdn.net/qq_39390545/article/details/107257885)
+ > 
+ ## [警示：一个update语句引起大量gc等待和业务卡顿](https://blog.csdn.net/enmotech/article/details/107273466)
+ > 警示：一个update语句引起大量gc等待和业务卡顿
+ ## [初级JAVA程序员应该掌握的Mysql知识](https://blog.csdn.net/qq_32648593/article/details/106480528)
+ > 初级JAVA程序员应该掌握的Mysql知识
+ ## [MySQL的使用，看这篇就够了](https://blog.csdn.net/qq_42880463/article/details/107082196)
+ > MySQL的使用，看这篇就够了
+ ## [oracle学习第三天](https://blog.csdn.net/qq_41150890/article/details/107235802)
+ > oracle学习第三天
+ ## [DM8达梦数据库备份还原、冷备、逻辑备份详细步骤（三）](https://blog.csdn.net/liuguigeng56/article/details/107289152)
+ > DM8达梦数据库备份还原、冷备、逻辑备份详细步骤（三）
+ ## [2.2数据库的结构、创建、查看、修改、删除](https://blog.csdn.net/diviner_s/article/details/107232684)
+ > 
+ ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
+ > 
+ ## [Java第五次实训。](https://blog.csdn.net/weixin_46301841/article/details/107251451)
+ > Java第五次实训。
+ ## [MySql基础](https://blog.csdn.net/dwt_981208/article/details/107290319)
+ > MySql基础
+ ## [常用sql语句（MySQL）](https://blog.csdn.net/qq_41911729/article/details/107268513)
+ > 
+ ## [MySQL主从复制](https://blog.csdn.net/qq_36776608/article/details/107285998)
+ > MySQL主从复制
+ ## [关系数据结构及形式化定义](https://blog.csdn.net/weixin_46880556/article/details/107288619)
+ > 关系数据结构及形式化定义
+ ## [JDBC（2） 工具类 | PreparedStatement详细说明](https://blog.csdn.net/weixin_45606067/article/details/107094112)
+ > 
+ ## [MyBatis框架的使用（笔记）](https://blog.csdn.net/qq_45248344/article/details/107252127)
+ > 
 
     
