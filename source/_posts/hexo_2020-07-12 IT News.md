@@ -1,21 +1,21 @@
 ---
 title: 2020-07-12 IT News
 copyright: true
-date: 2020-07-12 08:01:08
+date: 2020-07-12 09:02:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [官宣：鹿晗正式加入中国联通，运营商从摆摊竞争升级到新高度了](http://mp.weixin.qq.com/s?src=11&timestamp=1594510263&ver=2455&signature=LiF*isIZ7*4aT9MuxtQUI1Zmch-n8c4zwtK5063ppb1brHDD3fIvXh9S4hZZ9Quz8WYqthasEv8YyACMyRcWxTJ4l*OEzE5Fd0N8pX2GQRN2*zDQNKNeHQftSS92qJQH&new=1)
- > 继蔡徐坤担任中国移动创新合伙人后今天，中国联通正式官宣：鹿晗正式加入“中国联通”大家庭无梦不做，Call启炽热！中国联通携手鹿晗打造的福鹿相伴卡 已搭载5G网络正式上线开售！年轻就是敢！他是远方星球的无...
- ## [好消息!NB-IoT正式成5G标准，对5G产业影响几何?](http://mp.weixin.qq.com/s?src=11&timestamp=1594510263&ver=2455&signature=pSsc4N0kSNMiEE8ngMHsVA7XeWHzU2-TfRVUBBA7kP23iLeP6cmt43*LyOdifvyEgUn60q4neASVkqv1VMkiJfEjAHqoxvM73uPoowBOLafObdaxdq8IYlrS8y0ufvNm&new=1)
+ ## [好消息!NB-IoT正式成5G标准，对5G产业影响几何?](http://mp.weixin.qq.com/s?src=11&timestamp=1594515605&ver=2455&signature=pSsc4N0kSNMiEE8ngMHsVA7XeWHzU2-TfRVUBBA7kP23iLeP6cmt43*LyOdifvyEC5bARwtz2Cg8Pk-95eBdrTdxp88SOXu*fvw7MEVT4gjF5rkauZOREM9*YW-LQUP4&new=1)
  > NB-IoT技术拿到官方5G身份证！在今年7月9日结束的ITU-R WP5D会议上，国际电信联盟（ITU，联合国下属机构）国际移动通信系统（IMT）做出重大决议：中国提交的3GPP NR和NB-IoT等5G技术，一起正式成为5G标准。这意...
- ## [刚刚，鹿晗成中国联通合伙人!运营商从摆摊竞争升级到新高度!](http://mp.weixin.qq.com/s?src=11&timestamp=1594510263&ver=2455&signature=K7ayLPRSj*rIxI0wSm0PBAGjOoToXMlIuGC0wSll6-p5BoNp3A07Tv8Ue52r61buW0AZLMng9qUmvwX05PBvZWEg23HG9lb-kakng7CXHFdvprrv0rRFv5SLwmc9JOHm&new=1)
+ ## [刚刚，鹿晗成中国联通合伙人!运营商从摆摊竞争升级到新高度!](http://mp.weixin.qq.com/s?src=11&timestamp=1594515605&ver=2455&signature=K7ayLPRSj*rIxI0wSm0PBAGjOoToXMlIuGC0wSll6-p5BoNp3A07Tv8Ue52r61busCjL4JQQxrbrt*ra5SjZhMEqfXXtWyio9StZvghj2kVEYJ9eErc*aGgnq2dDGw8E&new=1)
  > 7月11日，中国联通携手知名艺人鹿晗正式推出“福鹿相伴卡”，为进一步发力5G吹响前进号。鹿晗也正式解锁新身份成为“中国联通创新合伙人”，以“福鹿相伴卡”为广大联通用户带来专属福利与惊喜。以“极速5G 玩乐...
- ## [冲上热搜，华为终于对美国出手!看到金额后太兴奋了!](http://mp.weixin.qq.com/s?src=11&timestamp=1594510263&ver=2455&signature=80N8j7si1O5ZdiGTIlN3htf*6Y3gqOvM2RNYWAMyq-OwikN9XpNUmFDJFHf5TDglxWPd1dmyl4Lz3MH32nNQqXAh4bsJS29xFp5T0CHaJLMy9uobN0SDzdMrXM2Cgzwr&new=1)
- > 商务合作 QQ：23211531相信很多国人都和笔者一样，今年都表现得特别气愤，当新冠肺炎开始在全球爆发时，中国如同“保姆”一般，大力支撑着各个国家的抗疫活动，可当一切都慢慢好转时，得到的确是落井下石。美国...
- ## [腾讯首次发布人工智能白皮书，全球个人电脑市场出货量创最大涨幅](http://mp.weixin.qq.com/s?src=11&timestamp=1594510263&ver=2455&signature=55P53lgO4mOiufP-3ER1cC9yu7w7FuyQ34in4zmava8grZ*Vukj98TTBHlTi9N-CS*5AI9N5MEJey-MCRTTYBvvdzRJzdmWDtf7XJ-rnTVVpsXoHbA-Ktmb0Qk2yp4oT&new=1)
+ ## [腾讯首次发布人工智能白皮书，全球个人电脑市场出货量创最大涨幅](http://mp.weixin.qq.com/s?src=11&timestamp=1594515605&ver=2455&signature=55P53lgO4mOiufP-3ER1cC9yu7w7FuyQ34in4zmava8grZ*Vukj98TTBHlTi9N-C8IbRqvGzPA83ME80TOvpOQx3q69QqlFsTcHKnRZCQvUa63b1V9ZkxMh4HVkCnfKE&new=1)
  > 游戏头条微信号：gametoutiao(←长按复制)中国首家顾问式新媒体定制属于您自己的媒体内容导语：银行网点年内已关闭1366家；中国电信携手国家电网、华为建成国内最大规模5G智能电网；阿里巴巴创始人马云持股降至4...
+ ## [冲上热搜，华为终于对美国出手!看到金额后太兴奋了!](http://mp.weixin.qq.com/s?src=11&timestamp=1594515605&ver=2455&signature=80N8j7si1O5ZdiGTIlN3htf*6Y3gqOvM2RNYWAMyq-OwikN9XpNUmFDJFHf5TDgl5PK88XcJ63ai55JSfsWwDyu0jwAvaUepwhgli7UzJCdgMEsnB2BUYB5z4ejjV-HN&new=1)
+ > 商务合作 QQ：23211531相信很多国人都和笔者一样，今年都表现得特别气愤，当新冠肺炎开始在全球爆发时，中国如同“保姆”一般，大力支撑着各个国家的抗疫活动，可当一切都慢慢好转时，得到的确是落井下石。美国...
+ ## [官宣：鹿晗正式加入中国联通，运营商从摆摊竞争升级到新高度了](http://mp.weixin.qq.com/s?src=11&timestamp=1594515605&ver=2455&signature=LiF*isIZ7*4aT9MuxtQUI1Zmch-n8c4zwtK5063ppb1brHDD3fIvXh9S4hZZ9Quzt7L0cuepVRvLox1C7PuAcvCDoSRdA8910lHsutU28S5FudBvpdii86LD9OjmD*57&new=1)
+ > 继蔡徐坤担任中国移动创新合伙人后今天，中国联通正式官宣：鹿晗正式加入“中国联通”大家庭无梦不做，Call启炽热！中国联通携手鹿晗打造的福鹿相伴卡 已搭载5G网络正式上线开售！年轻就是敢！他是远方星球的无...
 # IT 技术 
  ## [5招助您设计出更好的REST API](http://network.51cto.com/art/202007/620688.htm)
  > 5招助您设计出更好的REST API
@@ -64,35 +64,35 @@ categories: IT NEWS
  ## [用机器学习来提升你的用户增长：第八步，Uplift模型](https://blog.csdn.net/u011984148/article/details/105721582)
  > 用机器学习来提升你的用户增长：第八步，Uplift模型
 # 人工智能 
- ## [2020年最新版CSDN博客排名第一名的博客](https://blog.csdn.net/xinshuzhan/article/details/107237157)
+ ## [STM32 GPIO详解](https://blog.csdn.net/Firefly_cjd/article/details/107249361)
+ > STM32 GPIO详解
+ ## [51单片机无法打开‘stc15f2k60s2.h‘问题](https://blog.csdn.net/bimox/article/details/107266968)
+ > 51单片机无法打开‘stc15f2k60s2.h‘问题
+ ## [【技术流派】教你提高双目立体视觉系统的精度！](https://blog.csdn.net/rs_lys/article/details/107102968)
  > 
- ## [系列文章-随机数在密码学中的作用（二）应用介绍](https://blog.csdn.net/zntsbkhhh/article/details/107223734)
- > 系列文章-随机数在密码学中的作用（二）应用介绍
- ## [Jenkins（09）：发送邮件时，修改发件人名称](https://blog.csdn.net/qq_36396763/article/details/107247118)
- > Jenkins（09）：发送邮件时，修改发件人名称
- ## [记录学习Linux的第一天](https://blog.csdn.net/Love_Sensen/article/details/107249811)
- > 记录学习Linux的第一天
- ## [预言机与 Rabin 签名在比特币智能合约中的应用原理](https://blog.csdn.net/freedomhero/article/details/107237537)
- > 预言机与 Rabin 签名在比特币智能合约中的应用原理
- ## [基于helm一键部署fabric网络（五）](https://blog.csdn.net/jiang11958/article/details/107227359)
+ ## [嵌入式物联网开发，linux，单片机32（仅供借鉴，代码不共享 自行编写）](https://blog.csdn.net/weixin_41917259/article/details/107251801)
+ > 嵌入式物联网开发，linux，单片机32（仅供借鉴，代码不共享 自行编写）
+ ## [PROFIBUS DP与Modbus/TCP网络转换操作指南（下）](https://blog.csdn.net/weixin_47677928/article/details/107242958)
+ > PROFIBUS DP与Modbus/TCP网络转换操作指南（下）
+ ## [51单片机与ESP8266EX模块相互通信；注意事项及常见问题解决办法；使用单片机串口将ESP8266设置为AP,STA.AP+STA模式教程及C程序源码编写；单片机发送数据ESP8266始终接收不到](https://blog.csdn.net/liuxianfei0810/article/details/107250421)
+ > 51单片机与ESP8266EX模块相互通信；注意事项及常见问题解决办法；使用单片机串口将ESP8266设置为AP,STA.AP+STA模式教程及C程序源码编写；单片机发送数据ESP8266始终接收不到
+ ## [【2020年中总结】一篇文章汇集国内各大IoT云平台生态，阿里物联网/小米平台/腾讯平台/京东小京鱼平台，总有一个适合你；](https://blog.csdn.net/xh870189248/article/details/107220389)
  > 
- ## [算法与数据结构基础-线性表](https://blog.csdn.net/m0_48878393/article/details/107237506)
- > 算法与数据结构基础-线性表
- ## [Markdown常用语法学习笔记（标题、字体、列表、链接、图片、表格、引用）](https://blog.csdn.net/Alexhcf/article/details/107258163)
- > 
- ## [CSRF跨站点伪造攻击？](https://blog.csdn.net/qq_22011807/article/details/107223846)
- > CSRF跨站点伪造攻击？
- ## [如何用比较简单的方法测试BCIduino脑电模块好不好用？](https://blog.csdn.net/nvsirgn/article/details/107251088)
- > 如何用比较简单的方法测试BCIduino脑电模块好不好用？
- ## [项目报xxx has conflicting provisioning settings错误](https://blog.csdn.net/u013306324/article/details/107231872)
- > 项目报xxx has conflicting provisioning settings错误
- ## [简单讲一下字幕圈子中跟特效字幕有关的五种编程语言](https://blog.csdn.net/Seekladoom/article/details/107220110)
- > 简单讲一下字幕圈子中跟特效字幕有关的五种编程语言
- ## [报错没有Visual Studio？windows10如何安装CUDA？附cuDNN安装。](https://blog.csdn.net/a_123456598/article/details/107211787)
- > 报错没有Visual Studio？windows10如何安装CUDA？附cuDNN安装。
- ## [解决vue 项目使用webpack打包后，直接打开dist文件夹下的index.html页面空白的问题](https://blog.csdn.net/sinat_41501316/article/details/107238925)
- > 解决vue 项目使用webpack打包后，直接打开dist文件夹下的index.html页面空白的问题
- ## [基于Remix以太坊开发例程及个人感悟](https://blog.csdn.net/qq_34977963/article/details/107189453)
- > 基于Remix以太坊开发例程及个人感悟
+ ## [Autosar开发人员必知概念——新手级](https://blog.csdn.net/MichaelMCFD/article/details/107237939)
+ > Autosar开发人员必知概念——新手级
+ ## [linux下ｃ语言内存检测神器asan，专治各种疑难杂症](https://blog.csdn.net/qq8864/article/details/107259801)
+ > linux下ｃ语言内存检测神器asan，专治各种疑难杂症
+ ## [单片机串口通讯在12MHz下的问题](https://blog.csdn.net/JSY1024/article/details/107231373)
+ > 单片机串口通讯在12MHz下的问题
+ ## [Arduino小白学习记录：用电位器控制LED灯的亮度](https://blog.csdn.net/XWA_nanyou/article/details/107241575)
+ > Arduino小白学习记录：用电位器控制LED灯的亮度
+ ## [STM32F407-驱动57步进电机](https://blog.csdn.net/qq_41573860/article/details/107254090)
+ > STM32F407-驱动57步进电机
+ ## [Free RTOS学习随笔（1），临界区代码](https://blog.csdn.net/weixin_46961467/article/details/107239682)
+ > Free RTOS学习随笔（1），临界区代码
+ ## [Matlab和Simulink联合仿真入门知识简介（在汽车系统动力学的应用）](https://blog.csdn.net/Kaikai_Liao/article/details/107221545)
+ > Matlab和Simulink联合仿真入门知识简介（在汽车系统动力学的应用）
+ ## [PLC数据采集的方法小结](https://blog.csdn.net/chengjl8/article/details/107227326)
+ > PLC数据采集的方法小结
 
     
