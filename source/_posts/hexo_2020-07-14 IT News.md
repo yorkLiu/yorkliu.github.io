@@ -1,38 +1,44 @@
 ---
 title: 2020-07-14 IT News
 copyright: true
-date: 2020-07-14 08:00:58
+date: 2020-07-14 09:02:41
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [对不起，让美国失望了!华为上半年收入4540亿：净利417.7亿，同比增19.6%](http://mp.weixin.qq.com/s?src=11&timestamp=1594683074&ver=2459&signature=VlIyiF59RthFYjAI-O08wlvr7OkMh7woD-EOBwdLcwTna9IrjW9P9h63FLvUBhLhHdxTdiMdyN83nlYdNB*5wXTLS9OKEXniuO8u1Fr6xynfZe68kYKKNbO3rDOr8xlY&new=1)
+ ## [对不起，让美国失望了!华为上半年收入4540亿：净利417.7亿，同比增19.6%](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=VlIyiF59RthFYjAI-O08wlvr7OkMh7woD-EOBwdLcwTna9IrjW9P9h63FLvUBhLhxkOPsXGvtWpGhE5WPLhuOZyCvGn5pi4kPCKrEjDv4LQAElbEqnjyLF5KOeRIcbx-&new=1)
  > 华为今日（13日）发布了2020年上半年经营业绩，上半年实现销售收入人民币4540亿元（C114注：约合642亿美元），同比增长13.1%，净利润率9.2%。其中，运营商业务收入为1596亿元，企业业务收入为363亿元，消费者业...
- ## [加速推进5G融合应用 联通在线瞄准CDN开启高端人才招聘!](http://mp.weixin.qq.com/s?src=11&timestamp=1594683074&ver=2459&signature=*sD62sGEFh0oGROS2ygp3PqlFIsdj5q*A1h3K5eIOW3Adbilv18AYHPlvxUGkpVpfXm3Ers76TBmgs-r36Ub9qk1VpG6s4JxRT*EfJXlvuFXQGk0wwFRWLMhel6e-XiX&new=1)
- > 5G进入商用后，4K、8K、VR等高码率视频业务迎来蓬勃发展，不断推动CDN（Content Delivery Network，即内容分发网络）、边缘计算、云安全等领域的技术创新。在这其中，运营商担当重要角色，CDN与运营商基础网络的...
- ## [致3D打印服务商：您入驻开店，我们来接单](http://mp.weixin.qq.com/s?src=11&timestamp=1594683074&ver=2459&signature=T-PYkIijUmdAw8rnPOMEwMFhbSQCXKgXYsBXmGTRsGshDTiSisxD5hNwoFlzFzjqGCeNyyNp63xQfVd33R1M5D7kYldeT-qbZH7uATY4l8K8ihTRpNDFJBfCyDCo7jr3&new=1)
- > 未知大陆(UNLANDS)是基于3D打印技术的数字制造云平台，我们为3D打印服务商、用户及其他生态企业，提供互联网基础设施、技术支持以及营销平台，让其可借助互联网的力量与用户和客户互动，核心业务包括三维智造、...
- ## [DNS劫持莫名其妙被小广告弹窗?从运营商到路由器都有可能坑你..](http://mp.weixin.qq.com/s?src=11&timestamp=1594683074&ver=2459&signature=JEW4dA49QHsQ3f6eTyMqNAWkUF7ArriG3f59D-APFgbtiOX3IXjq9CvF-M2uKXYEU58f7xT6ePOpqGUw8WL5EA10ILk-XMHXKqYaFnWdcZKph*VEDGpt*kBOd-Y7VmjD&new=1)
+ ## [DNS劫持莫名其妙被小广告弹窗?从运营商到路由器都有可能坑你..](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=JEW4dA49QHsQ3f6eTyMqNAWkUF7ArriG3f59D-APFgbtiOX3IXjq9CvF-M2uKXYEW-acRPFQFdOCh0Tlu1a*XXCV0Ji1e33vvotVFAKNRVUfj4dyXgL3dlRml6RhAvoJ&new=1)
  > 各位差友平时上网冲浪的时候，有没有遇到过 “ 绑架 ” ？呃，差评君说的是这种绑架：你开着浏览器刷着正爽，点进一个豆瓣外链，结果却被绑去了 XX 娱乐城的页面。再高级一点的，不但把你绑去广告页面，还要说你...
- ## [让美国失望!华为2020上半年收入4540亿元，同比增13.1%，如何看?](http://mp.weixin.qq.com/s?src=11&timestamp=1594683074&ver=2459&signature=xO2zOz*rCsAfpdAW0R3WOT8tu22xf1ki60MdgfZo2MCIWoObBvKJ5Hdtdtjz7yGkCgz4ApPN76EK21J8ZY*-U27orz288mCrcmxXF7gx2OGgpGbQaviFXY-sUtjrOLBn&new=1)
+ ## [致3D打印服务商：您入驻开店，我们来接单](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=T-PYkIijUmdAw8rnPOMEwMFhbSQCXKgXYsBXmGTRsGshDTiSisxD5hNwoFlzFzjqfYu46IZZueDagYQePhyXENJx3UWyd2tg-4djYWBYybjS8eT90voKU3x0zZa9y9Mf&new=1)
+ > 未知大陆(UNLANDS)是基于3D打印技术的数字制造云平台，我们为3D打印服务商、用户及其他生态企业，提供互联网基础设施、技术支持以及营销平台，让其可借助互联网的力量与用户和客户互动，核心业务包括三维智造、...
+ ## [让美国失望!华为2020上半年收入4540亿元，同比增13.1%，如何看?](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=xO2zOz*rCsAfpdAW0R3WOT8tu22xf1ki60MdgfZo2MCIWoObBvKJ5Hdtdtjz7yGkbGGYQcBzEhr6xJHFwg-JuaKP5-m9FjsIeHhbrT6Q36cc1MRIUwSU3RCoWo8ebmky&new=1)
  > 华为今日发布2020年上半年经营业绩。2020年上半年，公司实现销售收入4,540亿元人民币，同比增长13.1%, 净利润率9.2 %。其中，运营商业务收入为1,596亿元人民币，企业业务收入为363亿元人民币，消费者业务收入为2...
+ ## [加速推进5G融合应用 联通在线瞄准CDN开启高端人才招聘!](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=*sD62sGEFh0oGROS2ygp3PqlFIsdj5q*A1h3K5eIOW3Adbilv18AYHPlvxUGkpVpHudHvEj33CB8uc*YuShV1OrPGU65jiLY-qiK5aE7n8-FHQBzKw0qX-eWqFsVAD0o&new=1)
+ > 5G进入商用后，4K、8K、VR等高码率视频业务迎来蓬勃发展，不断推动CDN（Content Delivery Network，即内容分发网络）、边缘计算、云安全等领域的技术创新。在这其中，运营商担当重要角色，CDN与运营商基础网络的...
 # IT 技术 
+ ## [人工智能未来的九种新兴工作岗位](http://ai.51cto.com/art/202007/620856.htm)
+ > 人工智能未来的九种新兴工作岗位
+ ## [转变IT项目的艺术](http://news.51cto.com/art/202007/620854.htm)
+ > 转变IT项目的艺术
+ ## [即付即用存储使用模式及其挑战](http://stor.51cto.com/art/202007/620788.htm)
+ > 即付即用存储使用模式及其挑战
+ ## [盘点：2020上半年网络通信大事件](http://network.51cto.com/art/202007/620780.htm)
+ > 盘点：2020上半年网络通信大事件
+ ## [成功实施机器人流程自动化的8个秘诀](http://ai.51cto.com/art/202007/620778.htm)
+ > 成功实施机器人流程自动化的8个秘诀
+ ## [如何在Linux中使用使用Virt-Manager管理KVM虚拟机？](http://virtual.51cto.com/art/202007/620907.htm)
+ > 如何在Linux中使用使用Virt-Manager管理KVM虚拟机？
  ## [通过这5个技巧应对云安全挑战](http://cloud.51cto.com/art/202007/620881.htm)
  > 通过这5个技巧应对云安全挑战
- ## [如何为您的组织做好创伤后发展的准备](http://news.51cto.com/art/202007/620729.htm)
- > 如何为您的组织做好创伤后发展的准备
- ## [经济寒冬之后，是人工智能的春天](http://ai.51cto.com/art/202007/620720.htm)
- > 经济寒冬之后，是人工智能的春天
- ## [一个程序员老兵的思考](http://news.51cto.com/art/202007/620717.htm)
- > 一个程序员老兵的思考
- ## [如何在Kubernetes中创建命名空间？](http://os.51cto.com/art/202007/620822.htm)
- > 如何在Kubernetes中创建命名空间？
- ## [银行大数据平台技术架构设计实践与应用](http://bigdata.51cto.com/art/202007/620703.htm)
- > 银行大数据平台技术架构设计实践与应用
- ## [NFC和物联网：您需要了解的内容](http://iot.51cto.com/art/202007/620684.htm)
- > NFC和物联网：您需要了解的内容
- ## [就因为打断同事撸码，我竟然被拉黑了?](http://news.51cto.com/art/202007/620799.htm)
- > 就因为打断同事撸码，我竟然被拉黑了?
+ ## [机器学习中算法与模型的区别](http://ai.51cto.com/art/202007/620873.htm)
+ > 机器学习中算法与模型的区别
+ ## [这 7 个免费的 Git 教程/课程，适合所有程序员](http://developer.51cto.com/art/202007/620919.htm)
+ > 你一定用过一些源码控制软件，例如CVS，SVN，VSS，DFS等，Git和这些的区别是，Git是一个开源的分布式版本控
+ ## [人工智能的主要发展及其驱动力](http://ai.51cto.com/art/202007/620913.htm)
+ > 今天的演讲是贾阳清为阿里巴巴CIO学院举办的有关人工智能（AI）技术的特殊培训课程准备的。 在现场直播中，
+ ## [您需要针对机器学习性能进行优化的6个指标](http://ai.51cto.com/art/202007/620912.htm)
+ > 有许多指标可用来衡量模型的性能，具体取决于您要进行的机器学习的类型。 在本文中，我们将研究分类和回归
  ## [新冠疫情引发十大网络安全变革](http://zhuanlan.51cto.com/art/202007/620903.htm)
  > 近日首席信息安全官Jon Oltsik分享了他与多位CISO讨论后的结论，认为新冠疫情将引发网络安全行业一系列重大
  ## [2020年下半年的云计算威胁和优先事项](http://cloud.51cto.com/art/202007/620902.htm)
@@ -43,63 +49,63 @@ categories: IT NEWS
  > DRS是啥你都不知道?不是吧，不是吧
  ## [警示：一个update语句引起大量gc等待和业务卡顿](https://blog.csdn.net/enmotech/article/details/107273466)
  > 警示：一个update语句引起大量gc等待和业务卡顿
- ## [【个人思考】深度学习模型稳定可复现，设定随机种子大全](https://blog.csdn.net/weixin_40400177/article/details/105625873)
+ ## [C 语言编程 — 运算符](https://blog.csdn.net/Jmilk/article/details/105278224)
  > 
- ## [3月热门文章、热门资源、热门书籍合辑](https://blog.csdn.net/weixin_37649168/article/details/105297898)
- > 3月热门文章、热门资源、热门书籍合辑
- ## [机器学习笔记(九)——手撕支持向量机SVM之间隔、对偶、KKT条件详细推导](https://blog.csdn.net/weixin_43434202/article/details/105442497)
+ ## [图解CAN总线数据的组成和帧格式](https://blog.csdn.net/LEON1741/article/details/106199472)
  > 
- ## [SwiftUI无法监听CoreData托管对象hasChanges属性改变的原因及解决](https://blog.csdn.net/mydo/article/details/107278976)
+ ## [一个月拿到阿里字节拼多多美团offer总结](https://blog.csdn.net/zhengwangzw/article/details/107297933)
  > 
- ## [实验二 Simulink串口与匿名上位机通信实验](https://blog.csdn.net/Charmve/article/details/107028452)
+ ## [《三天给你聊清楚redis》第1天先唠唠redis是个啥（18629字）](https://blog.csdn.net/hebtu666/article/details/107262808)
  > 
- ## [\[娜璋带你读论文\] (02) SP2019-Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://blog.csdn.net/Eastmount/article/details/107283275)
+ ## [Nginx-详解其原理](https://blog.csdn.net/qq_38526573/article/details/106275485)
  > 
- ## [2020最新大厂（阿里头条百度快手美团滴滴猿辅导陌陌）Java开发岗位社招面试干货分享总结](https://blog.csdn.net/qq_25827845/article/details/106033403)
+ ## [大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神](https://blog.csdn.net/JAck_chen0309/article/details/104780288)
+ > 大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神
+ ## [MySQL语句分类](https://blog.csdn.net/ThinkWon/article/details/106610851)
+ > MySQL语句分类
+ ## [Python爬虫入门教程 2-100 Python快速爬取妹子图网站，show](https://blog.csdn.net/hihell/article/details/82490799)
+ > Python爬虫入门教程 2-100 Python快速爬取妹子图网站，show
+ ## [架构师不得不了解的硬件知识 - 磁盘阵列 RAID](https://blog.csdn.net/jianzhang11/article/details/106205316)
+ > 架构师不得不了解的硬件知识 - 磁盘阵列 RAID
+ ## [以线上实例来看 内存泄漏的解决方案](https://blog.csdn.net/CSDN___LYY/article/details/105565136)
  > 
- ## [大数据ETL实践探索 ---- 使用python 进行 快速EDA综合可视化](https://blog.csdn.net/wangyaninglm/article/details/105353652)
+ ## [微博、QQ、微信第三方登录 Java 实现实录](https://blog.csdn.net/zhangxin09/article/details/91445887)
+ > 微博、QQ、微信第三方登录 Java 实现实录
+ ## [计算摄影资源汇总](https://blog.csdn.net/shinian1987/article/details/107296217)
  > 
- ## [【干货】动态规划九问九答](https://blog.csdn.net/JiuZhang_ninechapter/article/details/105774722)
- > 【干货】动态规划九问九答
- ## [一文搞懂Executor执行器和线程池的关系，整体介绍其任务执行/调度体系：ThreadPoolExecutor、ScheduledExecutorService](https://blog.csdn.net/f641385712/article/details/105270194)
+ ## [Git实现原理解密](https://blog.csdn.net/oscar999/article/details/107272242)
  > 
- ## [笨功夫与巧心思，Milvus开源社区的成长](https://blog.csdn.net/weixin_44839084/article/details/106098309)
- > 笨功夫与巧心思，Milvus开源社区的成长
- ## [简单 Python 快乐之旅之：Python 基础语法之一般应用专题](https://blog.csdn.net/defonds/article/details/106162037)
- > 简单 Python 快乐之旅之：Python 基础语法之一般应用专题
- ## [编程小知识 之 杂记两则](https://blog.csdn.net/tkokof1/article/details/106451802)
- > 编程小知识 之 杂记两则
 # 人工智能 
- ## [BlockChain：2020年7月10日世界人工智能大会WAIC《链智未来 赋能产业区块链主题论坛演讲集锦》以及《2020全球区块链创新50强》](https://blog.csdn.net/qq_41185868/article/details/107282121)
- > BlockChain：2020年7月10日世界人工智能大会WAIC《链智未来 赋能产业区块链主题论坛演讲集锦》以及《2020全球区块链创新50强》
- ## [Axure RP9授权码（亲测有效）](https://blog.csdn.net/gaofubo/article/details/107301858)
- > Axure RP9授权码（亲测有效）
- ## [室内覆盖技术扫盲](https://blog.csdn.net/Trista2hong/article/details/107290294)
- > 室内覆盖技术扫盲
- ## [影创受邀2020世界人工智能大会，与业界共话MR＋AI融合发展新趋势](https://blog.csdn.net/tangtianxia/article/details/107288759)
- > 影创受邀2020世界人工智能大会，与业界共话MR＋AI融合发展新趋势
- ## [计算机网络 第二章](https://blog.csdn.net/REDJOLER/article/details/107137427)
- > 计算机网络 第二章
- ## [5G学习（一）通信技术基本概念汇总（持续更新~）](https://blog.csdn.net/dexterod/article/details/107282376)
+ ## [鄱.阳.湖.近期SAR和光学卫星遥感数据汇总及共享](https://blog.csdn.net/qq_46071146/article/details/107298539)
+ > 鄱.阳.湖.近期SAR和光学卫星遥感数据汇总及共享
+ ## [XSS靶场之xss-lab(1-5)关卡笔记](https://blog.csdn.net/TF_Ye2000/article/details/107298060)
+ > XSS靶场之xss-lab(1-5)关卡笔记
+ ## [【通俗易懂】一天一个设计模式----单例模式](https://blog.csdn.net/qq_45085030/article/details/107283789)
  > 
- ## [荣耀30青春版发布 简单说说有哪些亮点](https://blog.csdn.net/hanniuniu13/article/details/107290836)
- > 荣耀30青春版发布 简单说说有哪些亮点
- ## [华为智能矿山联合解决方案：1张网、1朵云、1平台、N应用、5中心](https://blog.csdn.net/aa120515692/article/details/107280701)
- > 华为智能矿山联合解决方案：1张网、1朵云、1平台、N应用、5中心
- ## [物联网导论](https://blog.csdn.net/Refresh13/article/details/107284509)
- > 物联网导论
- ## [健身以及未来科技如何解绑教育，医疗，养老依赖于地段（房产）](https://blog.csdn.net/txpp520/article/details/107301887)
- > 健身以及未来科技如何解绑教育，医疗，养老依赖于地段（房产）
- ## [BlockChain：2020年7月10日世界人工智能大会WAIC《链智未来 赋能产业区块链主题论坛》(四)](https://blog.csdn.net/qq_41185868/article/details/107282662)
- > BlockChain：2020年7月10日世界人工智能大会WAIC《链智未来 赋能产业区块链主题论坛》(四)
- ## [BTXM比特熊猫简介](https://blog.csdn.net/wxlxlm18/article/details/107302332)
- > BTXM比特熊猫简介
- ## [5G手机占比超过六成，让人吃惊的是4G版iPhone依然热销](https://blog.csdn.net/AUZ3y0GqMa/article/details/107293469)
- > 5G手机占比超过六成，让人吃惊的是4G版iPhone依然热销
- ## [自学网络工程师（二）](https://blog.csdn.net/qq_40892406/article/details/107304580)
- > 自学网络工程师（二）
- ## [5G浪潮推动刷脸支付更完善精准智能化](https://blog.csdn.net/zydzwei/article/details/107289279)
- > 5G浪潮推动刷脸支付更完善精准智能化
+ ## [ACA学习笔记（云计算）](https://blog.csdn.net/Arilyloc/article/details/107296254)
+ > ACA学习笔记（云计算）
+ ## [迎难而上ArrayList，源码分析走一波](https://blog.csdn.net/qing_gee/article/details/107197446)
+ > 
+ ## [Linux 远程访问与控制（OpenSSH、scp、sftp、密钥对创建TCP Wrappers）](https://blog.csdn.net/u014042047/article/details/107298408)
+ > 
+ ## [删库跑路 + 比特币勒索？我的MySQL被黑客攻破了](https://blog.csdn.net/qq_41464123/article/details/106439411)
+ > 
+ ## [关于HashMap源码的一些思考总结](https://blog.csdn.net/weixin_41904840/article/details/107301979)
+ > 关于HashMap源码的一些思考总结
+ ## [移动安全 App逆向前言](https://blog.csdn.net/weixin_44575208/article/details/107298057)
+ > 移动安全 App逆向前言
+ ## [原子性、可见性、有序性解决方案](https://blog.csdn.net/weixin_43907422/article/details/107243822)
+ > 原子性、可见性、有序性解决方案
+ ## [window.postMessage](https://blog.csdn.net/weixin_44811301/article/details/107303246)
+ > window.postMessage
+ ## [Linux网络服务：远程管理之SSH（原理加实操，不要太详细！）](https://blog.csdn.net/weixin_47219818/article/details/107304370)
+ > 
+ ## [模拟高考查分页面，考生最后的狂欢](https://blog.csdn.net/qq_26192391/article/details/107281359)
+ > 模拟高考查分页面，考生最后的狂欢
+ ## [永磁同步电机的矢量控制策略（三）一一一PWM控制算法](https://blog.csdn.net/qq_42249050/article/details/106584959)
+ > 永磁同步电机的矢量控制策略（三）一一一PWM控制算法
+ ## [微服务报com.netflix.client.ClientException:Load balancer does not have avaliable server for client: xxx](https://blog.csdn.net/qq_41243646/article/details/107294849)
+ > 微服务报com.netflix.client.ClientException:Load balancer does not have avaliable server for client: xxx
 # PM 
  ## [项目管理的八大难题，做好了，问题迎刃而解](http://www.chanpin100.com/article/112192)
  > 无论项目大小都有或多或少，大大小小的各种各样的困难出现，这也是最能体现项目经理存在感的时刻。以下八大难题也是最让项目经理头疼的，那该怎么解决这些问题了？
