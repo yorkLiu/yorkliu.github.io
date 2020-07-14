@@ -1,24 +1,38 @@
 ---
 title: 2020-07-14 IT News
 copyright: true
-date: 2020-07-14 09:02:41
+date: 2020-07-14 10:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [对不起，让美国失望了!华为上半年收入4540亿：净利417.7亿，同比增19.6%](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=VlIyiF59RthFYjAI-O08wlvr7OkMh7woD-EOBwdLcwTna9IrjW9P9h63FLvUBhLhxkOPsXGvtWpGhE5WPLhuOZyCvGn5pi4kPCKrEjDv4LQAElbEqnjyLF5KOeRIcbx-&new=1)
- > 华为今日（13日）发布了2020年上半年经营业绩，上半年实现销售收入人民币4540亿元（C114注：约合642亿美元），同比增长13.1%，净利润率9.2%。其中，运营商业务收入为1596亿元，企业业务收入为363亿元，消费者业...
- ## [DNS劫持莫名其妙被小广告弹窗?从运营商到路由器都有可能坑你..](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=JEW4dA49QHsQ3f6eTyMqNAWkUF7ArriG3f59D-APFgbtiOX3IXjq9CvF-M2uKXYEW-acRPFQFdOCh0Tlu1a*XXCV0Ji1e33vvotVFAKNRVUfj4dyXgL3dlRml6RhAvoJ&new=1)
+ ## [\[科技早报7点整\]人脸数据被非法出售 领英iOS版监视用户……](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=M7iLXGgGgFYhnBuGWojjnykBiJiWoZNbLAlAJrdiXQ0RcRnIhoNbaqli9XFehTWW-0Gzh9BcLB2lu8iuJd-p8CmcmNVBlCBRXCmbkcaV58parRzHlJr2vt2dAoWrGCdm&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第862期1.学而思网校回应被约谈：系用户自行上传近日，国家网信办针对“学而思网校”App存在低俗视频、教唆早恋内容等突出问题，依法约谈网站负责人，责令限期整改。对此，学而...
+ ## [\[报告\]汽车玻璃的量变与质变及投资机会分析(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=Owt07i5RCK-RqZGaCbxXoV1OAKhePeynNZlY36OJr9JvLZfSb8hpGEof8*uTYU-EnCmukiyLOW6qVG9HrtUEVt8ugpF7oNE7oyAZIMO5XSl2Fj5yaIdFQ0mItpb50xj0&new=1)
+ > 作为被长期忽视的细分赛道，汽车玻璃在过去的十余年里面积缓慢增长，单车价值量也基本维持一个稳态水平（国内600-900元/车），但是今年开始，随着HUD成本下降，科技、智能、网联需求加大，伴随特斯拉的国产化和L...
+ ## [商业化落地，就是双手“沾泥”](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=skdL7EQMk3cYhRAYFAwRDBOev2bAlWjoIlmrt9zb0k6dtIgTpu8ndBcS38y7WCnwJgSrWn5W6STU4It09jqzYqk4zItlT*KD5Tl0FyhVRSoMwmWVMCxUklOo7gdaXa51&new=1)
+ > 科技驱动价值链重塑、不确定环境下的创新以及90后员工管理，是时下的高频率话题。为深入探讨这些话题，管理专家朱英娴与中科创达软件股份有限公司董事长兼总经理赵鸿飞展开了一场对话。     科技驱动价值链重塑...
+ ## [DNS劫持莫名其妙被小广告弹窗?从运营商到路由器都有可能坑你..](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=JEW4dA49QHsQ3f6eTyMqNAWkUF7ArriG3f59D-APFgbO9lM-ppQX79gMH9d-yIej9uAdePpFYwW5C4GKU*yhHk2309pYp2m80A9GvLhOxnldZPLHCCkrnJQeE8FvJ5aU&new=1)
  > 各位差友平时上网冲浪的时候，有没有遇到过 “ 绑架 ” ？呃，差评君说的是这种绑架：你开着浏览器刷着正爽，点进一个豆瓣外链，结果却被绑去了 XX 娱乐城的页面。再高级一点的，不但把你绑去广告页面，还要说你...
- ## [致3D打印服务商：您入驻开店，我们来接单](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=T-PYkIijUmdAw8rnPOMEwMFhbSQCXKgXYsBXmGTRsGshDTiSisxD5hNwoFlzFzjqfYu46IZZueDagYQePhyXENJx3UWyd2tg-4djYWBYybjS8eT90voKU3x0zZa9y9Mf&new=1)
+ ## [7点见|华为上半年销售收入4540亿；瑞幸咖啡任命新董事长；亚洲CES宣布停办](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=vP-N6ZSQipFP6hGnV8sob7WfhBQb4*vz69RuyqLpZUPrYbidaEgHuzmQuUHZWZSSthyl*UdS9iG-piuSwqX23cmA*BcnNGgSq56dxAG6yCikJ6GWd5xxmmM*pM-9Jeud&new=1)
+ > 各位小伙伴们，早上好呀！自六月初苹果发布iOS 13.5.1 版本后，有用户反映 Apple Music 导致 iPhone 耗电严重，而苹果方面也承认了这一问题！目前唯一的解决方法是恢复出厂重置 ，有人遇到这问题吗？以下是今天...
+ ## [对不起，让美国失望了!华为上半年收入4540亿：净利417.7亿，同比增19.6%](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=VlIyiF59RthFYjAI-O08wlvr7OkMh7woD-EOBwdLcwSlNsBOJAe6uqQaVf5hHTN*O1ubd6qgbiBinNPXumDQphFqGaSBAmjlVL1aM6qOA5XZDwDtwDDAj0CJzLGgO3lH&new=1)
+ > 华为今日（13日）发布了2020年上半年经营业绩，上半年实现销售收入人民币4540亿元（C114注：约合642亿美元），同比增长13.1%，净利润率9.2%。其中，运营商业务收入为1596亿元，企业业务收入为363亿元，消费者业...
+ ## [致3D打印服务商：您入驻开店，我们来接单](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=T-PYkIijUmdAw8rnPOMEwMFhbSQCXKgXYsBXmGTRsGu6tZh9yPHBeAsSx37nRhw82Yyc76HW8NS2sTnavpeGKr-7xa3UmoUGHMlWFXzTWE3HZ9*PaHOE*Pf0qZDulbCk&new=1)
  > 未知大陆(UNLANDS)是基于3D打印技术的数字制造云平台，我们为3D打印服务商、用户及其他生态企业，提供互联网基础设施、技术支持以及营销平台，让其可借助互联网的力量与用户和客户互动，核心业务包括三维智造、...
- ## [让美国失望!华为2020上半年收入4540亿元，同比增13.1%，如何看?](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=xO2zOz*rCsAfpdAW0R3WOT8tu22xf1ki60MdgfZo2MCIWoObBvKJ5Hdtdtjz7yGkbGGYQcBzEhr6xJHFwg-JuaKP5-m9FjsIeHhbrT6Q36cc1MRIUwSU3RCoWo8ebmky&new=1)
+ ## [让美国失望!华为2020上半年收入4540亿元，同比增13.1%，如何看?](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=xO2zOz*rCsAfpdAW0R3WOT8tu22xf1ki60MdgfZo2MAO13cznc5E1tqE2nkYOXU07j8h7ttdamthSvUZnoHFAO7sxSn8CoWJ8x6K13Gkrf94h**RbFTglSJBniWqYjnd&new=1)
  > 华为今日发布2020年上半年经营业绩。2020年上半年，公司实现销售收入4,540亿元人民币，同比增长13.1%, 净利润率9.2 %。其中，运营商业务收入为1,596亿元人民币，企业业务收入为363亿元人民币，消费者业务收入为2...
- ## [加速推进5G融合应用 联通在线瞄准CDN开启高端人才招聘!](http://mp.weixin.qq.com/s?src=11&timestamp=1594688405&ver=2459&signature=*sD62sGEFh0oGROS2ygp3PqlFIsdj5q*A1h3K5eIOW3Adbilv18AYHPlvxUGkpVpHudHvEj33CB8uc*YuShV1OrPGU65jiLY-qiK5aE7n8-FHQBzKw0qX-eWqFsVAD0o&new=1)
+ ## [加速推进5G融合应用 联通在线瞄准CDN开启高端人才招聘!](http://mp.weixin.qq.com/s?src=11&timestamp=1594690205&ver=2459&signature=*sD62sGEFh0oGROS2ygp3PqlFIsdj5q*A1h3K5eIOW0qbIuoX-rwNGkjDgyoYi4Wk5NUDpNv73Dw7hSQPsITs89jREFuZx2jE3X91FLi2MovPyE-OTtxguCaIfuLX2Ek&new=1)
  > 5G进入商用后，4K、8K、VR等高码率视频业务迎来蓬勃发展，不断推动CDN（Content Delivery Network，即内容分发网络）、边缘计算、云安全等领域的技术创新。在这其中，运营商担当重要角色，CDN与运营商基础网络的...
 # IT 技术 
+ ## [如何在Linux中使用使用Virt-Manager管理KVM虚拟机？](http://virtual.51cto.com/art/202007/620907.htm)
+ > 如何在Linux中使用使用Virt-Manager管理KVM虚拟机？
+ ## [神仙打架：PG和MySQL到底选啥?](http://database.51cto.com/art/202007/620924.htm)
+ > 神仙打架：PG和MySQL到底选啥?
  ## [人工智能未来的九种新兴工作岗位](http://ai.51cto.com/art/202007/620856.htm)
  > 人工智能未来的九种新兴工作岗位
+ ## [通过这5个技巧应对云安全挑战](http://cloud.51cto.com/art/202007/620881.htm)
+ > 通过这5个技巧应对云安全挑战
  ## [转变IT项目的艺术](http://news.51cto.com/art/202007/620854.htm)
  > 转变IT项目的艺术
  ## [即付即用存储使用模式及其挑战](http://stor.51cto.com/art/202007/620788.htm)
@@ -27,85 +41,87 @@ categories: IT NEWS
  > 盘点：2020上半年网络通信大事件
  ## [成功实施机器人流程自动化的8个秘诀](http://ai.51cto.com/art/202007/620778.htm)
  > 成功实施机器人流程自动化的8个秘诀
- ## [如何在Linux中使用使用Virt-Manager管理KVM虚拟机？](http://virtual.51cto.com/art/202007/620907.htm)
- > 如何在Linux中使用使用Virt-Manager管理KVM虚拟机？
- ## [通过这5个技巧应对云安全挑战](http://cloud.51cto.com/art/202007/620881.htm)
- > 通过这5个技巧应对云安全挑战
- ## [机器学习中算法与模型的区别](http://ai.51cto.com/art/202007/620873.htm)
- > 机器学习中算法与模型的区别
- ## [这 7 个免费的 Git 教程/课程，适合所有程序员](http://developer.51cto.com/art/202007/620919.htm)
- > 你一定用过一些源码控制软件，例如CVS，SVN，VSS，DFS等，Git和这些的区别是，Git是一个开源的分布式版本控
- ## [人工智能的主要发展及其驱动力](http://ai.51cto.com/art/202007/620913.htm)
- > 今天的演讲是贾阳清为阿里巴巴CIO学院举办的有关人工智能（AI）技术的特殊培训课程准备的。 在现场直播中，
- ## [您需要针对机器学习性能进行优化的6个指标](http://ai.51cto.com/art/202007/620912.htm)
- > 有许多指标可用来衡量模型的性能，具体取决于您要进行的机器学习的类型。 在本文中，我们将研究分类和回归
- ## [新冠疫情引发十大网络安全变革](http://zhuanlan.51cto.com/art/202007/620903.htm)
- > 近日首席信息安全官Jon Oltsik分享了他与多位CISO讨论后的结论，认为新冠疫情将引发网络安全行业一系列重大
- ## [2020年下半年的云计算威胁和优先事项](http://cloud.51cto.com/art/202007/620902.htm)
- > 行业媒体最近深入研究了一些关于云计算威胁和投资重点的调查和研究报告，以了解云计算行业在今年下半年的发
- ## [2020网络十大收购案](http://network.51cto.com/art/202007/620901.htm)
- > 以下是2020年迄今为止十大优秀网络公司的收购案，有规模较大、数十亿美元的交易，也有规模较小、具有战略意
+ ## [直播笔记 | 《亚太仓储业愿景报告》讲解（附直播回看）](http://biz.51cto.com/art/202007/620147.htm)
+ > 斑马技术调查了350多位IT，包括业务运营，就是仓储业的运营，包括IT的一些客户，最终用户形成一个愿景的报
+ ## [有明星助阵，5G能跑多快？](http://network.51cto.com/art/202007/620933.htm)
+ > 随着5G 1.0版本的冻结，首个完整的5G标准正式诞生。在完整的5G标准确定之后，随着5G技术的跟进式成熟，加快
+ ## [我们需要多少个数据中心](http://server.51cto.com/Datacenter-620932.htm)
+ > 今年，我国明确要加快5G网络、数据中心等新型基础设施建设进度，各地还将继续上马一批数据中心建设项目。
+ ## [EasyDL专业版Notebook建模功能详解](http://ai.51cto.com/art/202007/620867.htm)
+ > Notebook这种灵活简便的交互方式十分适用于机器学习的学习和训练，因为机器学习项目往往需要反复测试和实验
+ ## [微软小冰分拆了！沈向洋任董事长，"小冰之父" 任 CEO，要在中国本土商业化](http://news.51cto.com/art/202007/620934.htm)
+ > 微软宣布委任前微软全球执行副总裁沈向洋为新公司董事长，有 &quot;小冰之父&quot; 之称的李笛将为 CEO，小冰日本、印
+ ## [未来的智慧城市：未来的城市生活愿景](http://iot.51cto.com/art/202007/620930.htm)
+ > 从历史上看，城市长期以来一直是人类进步最主要的中心。
+ ## [乙方安全运营服务的一些思考](http://netsecurity.51cto.com/art/202007/620927.htm)
+ > 最近因为有项目涉及到安全运营，所以抽时间了解了下，和身边正转行做安全运营的小伙伴也深入的探讨了下关于
+ ## [首席信息官如何跟上不断变化的客户需求](http://www.cioage.com/art/202007/620926.htm)
+ > 在创造可推动长期市场成功的经验方面，首席信息官的作用变得越来越重要。
+ ## [冗余云计算连接：保持组织运行](http://cloud.51cto.com/art/202007/620925.htm)
+ > 在过去的几个月中，人们目睹了组织将其劳动力转移到“在家工作”模式和远程操作的情况。微软公司报告其云计
+ ## [聊一聊 Redis 数据内部存储使用到的数据结构](http://stor.51cto.com/art/202007/620929.htm)
+ > Redis 数据库虽然一直都在使用，但是对其内部存储结构之类的，都没有研究过，哪怕是面试的时候都没有准备过
  ## [DRS是啥你都不知道?不是吧，不是吧](https://blog.csdn.net/qq_35190492/article/details/107253070)
  > DRS是啥你都不知道?不是吧，不是吧
  ## [警示：一个update语句引起大量gc等待和业务卡顿](https://blog.csdn.net/enmotech/article/details/107273466)
  > 警示：一个update语句引起大量gc等待和业务卡顿
- ## [C 语言编程 — 运算符](https://blog.csdn.net/Jmilk/article/details/105278224)
- > 
- ## [图解CAN总线数据的组成和帧格式](https://blog.csdn.net/LEON1741/article/details/106199472)
- > 
+ ## [Flask(请求和响应 五)](https://blog.csdn.net/weixin_37786060/article/details/106821687)
+ > Flask(请求和响应 五)
  ## [一个月拿到阿里字节拼多多美团offer总结](https://blog.csdn.net/zhengwangzw/article/details/107297933)
  > 
+ ## [Linux(程序设计):27---iconv库（转换字符编码）](https://blog.csdn.net/qq_41453285/article/details/106637833)
+ > Linux(程序设计):27---iconv库（转换字符编码）
  ## [《三天给你聊清楚redis》第1天先唠唠redis是个啥（18629字）](https://blog.csdn.net/hebtu666/article/details/107262808)
- > 
- ## [Nginx-详解其原理](https://blog.csdn.net/qq_38526573/article/details/106275485)
  > 
  ## [大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神](https://blog.csdn.net/JAck_chen0309/article/details/104780288)
  > 大学四年，靠着这些学习网站，我从挂科学渣变成了别人眼中的大神
+ ## [Nginx-详解其原理](https://blog.csdn.net/qq_38526573/article/details/106275485)
+ > 
  ## [MySQL语句分类](https://blog.csdn.net/ThinkWon/article/details/106610851)
  > MySQL语句分类
- ## [Python爬虫入门教程 2-100 Python快速爬取妹子图网站，show](https://blog.csdn.net/hihell/article/details/82490799)
- > Python爬虫入门教程 2-100 Python快速爬取妹子图网站，show
- ## [架构师不得不了解的硬件知识 - 磁盘阵列 RAID](https://blog.csdn.net/jianzhang11/article/details/106205316)
- > 架构师不得不了解的硬件知识 - 磁盘阵列 RAID
- ## [以线上实例来看 内存泄漏的解决方案](https://blog.csdn.net/CSDN___LYY/article/details/105565136)
- > 
- ## [微博、QQ、微信第三方登录 Java 实现实录](https://blog.csdn.net/zhangxin09/article/details/91445887)
- > 微博、QQ、微信第三方登录 Java 实现实录
  ## [计算摄影资源汇总](https://blog.csdn.net/shinian1987/article/details/107296217)
  > 
- ## [Git实现原理解密](https://blog.csdn.net/oscar999/article/details/107272242)
+ ## [Python爬虫入门教程 2-100 Python快速爬取妹子图网站，show](https://blog.csdn.net/hihell/article/details/82490799)
+ > Python爬虫入门教程 2-100 Python快速爬取妹子图网站，show
+ ## [QT入门](https://blog.csdn.net/youku1327/article/details/105453210)
+ > QT入门
+ ## [操作系统 I/O 全流程详解](https://blog.csdn.net/qq_36894974/article/details/106826340)
  > 
+ ## [Redis面试题答案整理](https://blog.csdn.net/HarderXin/article/details/105224796)
+ > Redis面试题答案整理
+ ## [面试官，求你了别再问我TCP三次握手和四次挥手了(含面试题)](https://blog.csdn.net/qq_38646470/article/details/105522263)
+ > 面试官，求你了别再问我TCP三次握手和四次挥手了(含面试题)
 # 人工智能 
  ## [鄱.阳.湖.近期SAR和光学卫星遥感数据汇总及共享](https://blog.csdn.net/qq_46071146/article/details/107298539)
  > 鄱.阳.湖.近期SAR和光学卫星遥感数据汇总及共享
- ## [XSS靶场之xss-lab(1-5)关卡笔记](https://blog.csdn.net/TF_Ye2000/article/details/107298060)
- > XSS靶场之xss-lab(1-5)关卡笔记
- ## [【通俗易懂】一天一个设计模式----单例模式](https://blog.csdn.net/qq_45085030/article/details/107283789)
+ ## [LeetCode 第 30 场双周赛（477/2545，前18.7%，第2次全部通过）](https://blog.csdn.net/qq_21201267/article/details/107293199)
  > 
- ## [ACA学习笔记（云计算）](https://blog.csdn.net/Arilyloc/article/details/107296254)
- > ACA学习笔记（云计算）
- ## [迎难而上ArrayList，源码分析走一波](https://blog.csdn.net/qing_gee/article/details/107197446)
+ ## [BlockChain：2020年7月10日世界人工智能大会WAIC《链智未来 赋能产业区块链主题论坛》(一)](https://blog.csdn.net/qq_41185868/article/details/107279442)
+ > BlockChain：2020年7月10日世界人工智能大会WAIC《链智未来 赋能产业区块链主题论坛》(一)
+ ## [进行图像增广的15+种功能总结和Python代码实现](https://blog.csdn.net/m0_46510245/article/details/107294921)
  > 
- ## [Linux 远程访问与控制（OpenSSH、scp、sftp、密钥对创建TCP Wrappers）](https://blog.csdn.net/u014042047/article/details/107298408)
+ ## [【蓝桥杯】_06三部排序](https://blog.csdn.net/weixin_43469680/article/details/107305279)
+ > 【蓝桥杯】_06三部排序
+ ## [MATLAB 快速傅里叶变换（fft）结果为什么是复数？](https://blog.csdn.net/wanjiac/article/details/107272565)
  > 
- ## [删库跑路 + 比特币勒索？我的MySQL被黑客攻破了](https://blog.csdn.net/qq_41464123/article/details/106439411)
+ ## [一张照片，数出880个脸！ 你的手机里面人脸框框怎么来的？](https://blog.csdn.net/robot_learner/article/details/107294162)
  > 
- ## [关于HashMap源码的一些思考总结](https://blog.csdn.net/weixin_41904840/article/details/107301979)
- > 关于HashMap源码的一些思考总结
- ## [移动安全 App逆向前言](https://blog.csdn.net/weixin_44575208/article/details/107298057)
- > 移动安全 App逆向前言
- ## [原子性、可见性、有序性解决方案](https://blog.csdn.net/weixin_43907422/article/details/107243822)
- > 原子性、可见性、有序性解决方案
- ## [window.postMessage](https://blog.csdn.net/weixin_44811301/article/details/107303246)
- > window.postMessage
- ## [Linux网络服务：远程管理之SSH（原理加实操，不要太详细！）](https://blog.csdn.net/weixin_47219818/article/details/107304370)
+ ## [关于2020年中国异常大面积洪涝的个人分析](https://blog.csdn.net/qq_48922459/article/details/107280678)
  > 
- ## [模拟高考查分页面，考生最后的狂欢](https://blog.csdn.net/qq_26192391/article/details/107281359)
- > 模拟高考查分页面，考生最后的狂欢
- ## [永磁同步电机的矢量控制策略（三）一一一PWM控制算法](https://blog.csdn.net/qq_42249050/article/details/106584959)
- > 永磁同步电机的矢量控制策略（三）一一一PWM控制算法
- ## [微服务报com.netflix.client.ClientException:Load balancer does not have avaliable server for client: xxx](https://blog.csdn.net/qq_41243646/article/details/107294849)
- > 微服务报com.netflix.client.ClientException:Load balancer does not have avaliable server for client: xxx
+ ## [NumPy 快速入门：数组对象，数组属性，花式索引等基础介绍](https://blog.csdn.net/zhouz92/article/details/107250364)
+ > 
+ ## [MATLAB遗传算法工具箱的使用及实例(线性规划)](https://blog.csdn.net/weixin_45012973/article/details/107282323)
+ > MATLAB遗传算法工具箱的使用及实例(线性规划)
+ ## [PointNet：深度学习在3D点云分类与分割上的应用](https://blog.csdn.net/wjinjie/article/details/107293570)
+ > 
+ ## [Ubuntu16.04系统运行vins mono（完整版环境配置及编译）](https://blog.csdn.net/weixin_44417938/article/details/107294330)
+ > Ubuntu16.04系统运行vins mono（完整版环境配置及编译）
+ ## [最简单的分类算法之一：KNN（原理解析+代码实现）](https://blog.csdn.net/Cyril_KI/article/details/107302163)
+ > 最简单的分类算法之一：KNN（原理解析+代码实现）
+ ## [深度学习初学的一些理解感悟](https://blog.csdn.net/weixin_45469204/article/details/107301020)
+ > 
+ ## [opencv进阶学习笔记4：ROI和泛洪扩充](https://blog.csdn.net/kobeyu652453/article/details/107294686)
+ > 
 # PM 
  ## [项目管理的八大难题，做好了，问题迎刃而解](http://www.chanpin100.com/article/112192)
  > 无论项目大小都有或多或少，大大小小的各种各样的困难出现，这也是最能体现项目经理存在感的时刻。以下八大难题也是最让项目经理头疼的，那该怎么解决这些问题了？
