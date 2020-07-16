@@ -1,24 +1,30 @@
 ---
 title: 2020-07-16 IT News
 copyright: true
-date: 2020-07-16 09:01:16
+date: 2020-07-16 10:01:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [英国与华为彻底“分手”?运营商受伤 消费者买单 可能性极低](http://mp.weixin.qq.com/s?src=11&timestamp=1594859405&ver=2463&signature=RZwCFaHIhx*p-9Qh5oqxBs9x-w6fCGeGSiHGNX6M6YOxQBrhskVXnekLF6GxLCKc398u-q1dkFFC6*pR2ywXjQk*ex-qmnEjaTRWd8bHwDDtILjzu6na7DV17enbTNfz&new=1)
+ ## [关注|助力5G新基建 Molex推出自由空间MWDM系列波分复用模块](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=DlcpIRzq2xZ96VeFWYdRF3xTfg4SNUNdrObL99LDL6Ww9MVYpAYrZSbhDfTPmAE0lfcHVZLuawgmBsEnMPWVR7-YHdeAnizhRICZYT7WLgt2l1zyukxpBv8L*nxyXvnL&new=1)
+ > 新闻导读随着5G前传波分方案的规模部署，Molex珠海保税区光联通讯技术有限公司在批量供应工业级TFF级联方案MWDM系列产品之后，又推出了低损耗的自由空间MWDM系列产品，满足未来5G前传承载方案对低链路损耗的高要...
+ ## [英国与华为彻底“分手”?运营商受伤 消费者买单 可能性极低](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=RZwCFaHIhx*p-9Qh5oqxBs9x-w6fCGeGSiHGNX6M6YP80V6l*dtb*DHBfPSLz6R*3VrmOpGwq2LXKIoCxjlyyFXvQMlGLBz1C2434qsvbQS-YazUEwRxO0Eo2NCLfKuf&new=1)
  > 30秒快读1英国与华为彻底“分手”？禁令范围从5G设备、宽带设施扩展到全部通信设备，从华为对英国通信建设的参与深度来看，可能性极低。2这些年华为在英国做了什么？华为的退出，仅仅只是影响英国的通信市场吗？...
- ## [7月22日，四位数据中台专家齐聚线上，探索数据中台无限可能!](http://mp.weixin.qq.com/s?src=11&timestamp=1594859405&ver=2463&signature=untdcnhP4Khk4pcO9hSjwpJALWGgRTBMYcfksF-AF4MXWgcRSNMfBGkIfPabr*TalURwF1dJkTKPYLni4rdUOF*WOr8GlTYGNE-RA6LcVywDfF4UgYChxi2tOaCa*4lo&new=1)
- > 数据中台被誉为大数据的下一站，这最初由阿里兴起到 18 年的“腾讯数据中台论”，逐渐成为了人们谈论的焦点，但同时也有质疑的声音，数据中台到底意味着什么？经过2年的发展，数据中台已经成为了一套更为成熟的...
- ## [我国高精定位商用进入实时厘米级：六分科技发布6大产品经天纬地](http://mp.weixin.qq.com/s?src=11&timestamp=1594859405&ver=2463&signature=3-g7YyVGcm9MetFIvStEVF7fN7PnM3qP8kod3dozfctGyHInIQeBCgnB1-*rzh*z87q357UAkFCtWaJ9gzwYzOVkRDJ*tnCum6UByWfWB8OiOt076fxNpd8r9V7sSoXu&new=1)
+ ## [我国高精定位商用进入实时厘米级：六分科技发布6大产品经天纬地](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=3-g7YyVGcm9MetFIvStEVF7fN7PnM3qP8kod3dozfcu0KUWte1P8hQvry7DKVE2Cb5JFsxvk1TCHgsFaUga9aS-2aXxSDsopZUlY1wTiwMmvABOJwtD3glCc*I8vynEr&new=1)
  > 随着越来越多搭载L2级别自动驾驶汽车上路以及特定场景下自动驾驶汽车的示范运营，六分科技发布的低成本、多兼容解决方案将会更进一步优化车辆高精定位的能力，当下市场高精度定位已经成为众多自动驾驶公司产品落...
- ## [特朗普叫你不用华为，你就不用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1594859405&ver=2463&signature=7BsRN0d-Y8JRtMrWVCh9OtEYMiVGEiGc2IsqI75W1nb9wjxoZiCS9eFyQLhWGfa6Rj1Dh63L1VDniNmY-ovhpsqexc6S9-B7uRnhILVBHZAio2n*kmf3LwtpyUtz1KmF&new=1)
+ ## [\[报告\]2020年汽车零部件企业双百强解读白皮书(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=JBtg553QmjUI5YnTCS2gkTP7XlsLDK1TW3yg3klxr1ybWptUmQ-69kh5*jZjctNcBwYIVmHXSbycXbuFVNptbNmUjUo3F7LcgRIOzCUIsFI0cKeAwhkz9DqJa3BDCsgR&new=1)
+ > 全球汽车产业在经济增长持续放缓、贸易摩擦升级的环境下，面临严峻形势与挑战，并仍处于转型阵痛期。中国汽车零部件企业自2018年整车市场首次出现负增长以来积极转型调整，在2019年整体营收规模逆势增长，但利润...
+ ## [7月22日，四位数据中台专家齐聚线上，探索数据中台无限可能!](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=untdcnhP4Khk4pcO9hSjwpJALWGgRTBMYcfksF-AF4McHxZPvbxQJcuEPVdvOBE9ofZ*LtO5toiPA--sYvc*sZiUk6IFcJM1NY2nQ7usbvW7r2yEBdivK4j22f4NLFma&new=1)
+ > 数据中台被誉为大数据的下一站，这最初由阿里兴起到 18 年的“腾讯数据中台论”，逐渐成为了人们谈论的焦点，但同时也有质疑的声音，数据中台到底意味着什么？经过2年的发展，数据中台已经成为了一套更为成熟的...
+ ## [特朗普叫你不用华为，你就不用吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=7BsRN0d-Y8JRtMrWVCh9OtEYMiVGEiGc2IsqI75W1nYQQnv5moJVH1Cbjon2h*uW0gJdu3y2zButJZlk*dZSYTsdQfDydbcoh49hYmRP385dfU3SW09IeVwsL7L*LN58&new=1)
  > 作者 | 南风窗高级记者 胡万程今日，外交部记者会上有记者提到，据报道，美国总统特朗普14日在白宫新闻发布会上公开承认，劝说多国不要使用华为，想跟美国做生意就别用华为，否则会影响有关国家同美国的关系。 ...
- ## [“印度制造”5G来了](http://mp.weixin.qq.com/s?src=11&timestamp=1594859405&ver=2463&signature=PUykeZDg0768asZ-PwHVyVFesK8AYUI2*fWUzZ29HgtMFJfYWTPQXc8dAJ2fRs0V54xI6jE3wJSDEhhwbS89X3oKHjeQOlJd4wBH9yLH2B57J0a1qyhftctYVVbB9x3x&new=1)
+ ## [“印度制造”5G来了](http://mp.weixin.qq.com/s?src=11&timestamp=1594864805&ver=2463&signature=PUykeZDg0768asZ-PwHVyVFesK8AYUI2*fWUzZ29HguNRl9JPLxLUI-yL3R2hjzYCL7YA1hj0*gtM7d5D6YGor9cPDggtLtm47yQwxkUBXWWTS7YzteqchaUNJvZ59DF&new=1)
  > 几个小时前，在Reliance Industries（信实工业）第43届年度股东大会上，印度首富Mukesh Ambani正式对外宣布，一旦获得频谱，印度制造的5G技术可以在一年内部署和发布。Reliance Industries介绍，其旗
 # IT 技术 
  ## [过期的域名如何将你重定向至恶意网站?](http://netsecurity.51cto.com/art/202007/621111.htm)
  > 过期的域名如何将你重定向至恶意网站?
+ ## [深入理解LVS，还学不会算我输！](http://virtual.51cto.com/art/202007/621138.htm)
+ > 深入理解LVS，还学不会算我输！
  ## [英国正式拉黑华为5G设备！官方火速回应](http://news.51cto.com/art/202007/621047.htm)
  > 英国正式拉黑华为5G设备！官方火速回应
  ## [15个简单的JS编码标准让你的代码更整洁](http://developer.51cto.com/art/202007/621031.htm)
@@ -31,26 +37,38 @@ categories: IT NEWS
  > 如何备份重要数据而不是垃圾数据
  ## [“金融安全3.0”：新金融时代安全风险剖析与防范](http://netsecurity.51cto.com/art/202007/621043.htm)
  > “金融安全3.0”：新金融时代安全风险剖析与防范
- ## [万字长文拿下HTTPS，面试不再慌！](http://network.51cto.com/art/202007/621038.htm)
- > 万字长文拿下HTTPS，面试不再慌！
- ## [重温一下ZooKeeper关键点，虽然我不是很喜欢它](http://os.51cto.com/art/202007/621120.htm)
- > 我个人是非常不喜欢这个组件的，因为它的代码虐过我。引入一个Netty就可以轻易实现的网络功能，非要自己在
- ## [Python与Node.JS：哪一个比较适合您的项目？](http://developer.51cto.com/art/202007/621113.htm)
- > 在进行新项目时选择正确的编程语言可能是程序员经常做出的比较艰巨的决定之一。这个挑战背后的原因是，每个
+ ## [杠上了，Linus 再次怒喷 Intel 直言“去死”](http://news.51cto.com/art/202007/621139.htm)
+ > 近日，Linux 内核维护者 Linus Torvalds 对 Intel 的 Advanced Vector Extensions 512（AVX-512）指令集提
+ ## [程序员们，请你们不要看低零代码](http://zhuanlan.51cto.com/art/202007/621136.htm)
+ > 我们想要达成的目标，是让现役程序员做点真正有价值的活，而把那些重复性的开发工作完全削减。称为“零代码
+ ## [超1.42亿美高梅酒店客人资料在暗网出售](http://netsecurity.51cto.com/art/202007/621135.htm)
+ > 中关村在线消息，美高梅国际酒店集团表示，在2019年的一次黑客攻击中，最初他们认为影响了1060万客人，现在
+ ## [Google 开源漏洞扫描系统 Tsunami](http://news.51cto.com/art/202007/621142.htm)
+ > 谷歌已宣布将其内部使用的 Tsunami 漏洞扫描程序进行开源，以帮助其他组织保护用户数据。
+ ## [一文讲透aPaaS平台是什么](http://zhuanlan.51cto.com/art/202007/621134.htm)
+ > 在云计算行业，前者有SaaS、PaaS、IaaS，最近两三年aPaaS的概念又开始被关注。aPaaS到底是什么意思，有什么
+ ## [“网络小偷”屡禁不止 个人隐私何时能有安全感？](http://netsecurity.51cto.com/art/202007/621126.htm)
+ > 当你正在应用上浏览一款车，中介电话不期而至；报名课外培训班，盈利机构的邀约电话一个接着一个；打开摄像
+ ## [基于威胁的网络安全动态防御研究](http://netsecurity.51cto.com/art/202007/621124.htm)
+ > 近年来，网络空间已快速上升到大国间博弈的新战场，以政企、科研机构为代表的APT攻击、DDoS、工业互联网攻
+ ## [盘点：全球政府机构十大网络安全事件](http://netsecurity.51cto.com/art/202007/621123.htm)
+ > 近年来，全球针对政府机构的网络攻击层出不穷，常见攻击类型有数据泄露、勒索软件、DDoS攻击、APT攻击、钓
+ ## [如何为已安装的Nginx动态添加模块？看完我懂了！！](http://server.51cto.com/sOS-621122.htm)
+ > 很多时候，我们根据当时的项目情况和业务需求安装完Nginx后，后续随着业务的发展，往往会给安装好的Nginx添
+ ## [聊天应用竟是间谍软件，号称安全的聊天应用在偷偷的窃取信息](http://netsecurity.51cto.com/art/202007/621121.htm)
+ > 声称是安全消息传递平台的Android聊天应用程序具有间谍功能，并将用户数据存储在可公开访问的不安全位置。
  ## [2020年7月程序员工资统计，平均14357元，又跌了，扎心](https://blog.csdn.net/juwikuang/article/details/107072931)
- > 
- ## [工作多年，我对架构的一些理解](https://blog.csdn.net/briblue/article/details/107307803)
  > 
  ## [Anaconda：Anaconda安装pytorch网络连接失败记录](https://blog.csdn.net/qq_41185868/article/details/107062011)
  > Anaconda：Anaconda安装pytorch网络连接失败记录
+ ## [工作多年，我对架构的一些理解](https://blog.csdn.net/briblue/article/details/107307803)
+ > 
  ## [提升工作学习效率100%的软件](https://blog.csdn.net/youku1327/article/details/107281427)
  > 
  ## [如何通过自动增加索引，实现数据库查询耗时降低50%？](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/107074952)
  > 如何通过自动增加索引，实现数据库查询耗时降低50%？
  ## [理论：第十三章：堆溢出，栈溢出的出现场景以及解决方案](https://blog.csdn.net/java_wxid/article/details/107030159)
  > 理论：第十三章：堆溢出，栈溢出的出现场景以及解决方案
- ## [内核级木马与病毒攻防:windows恶意代码分析入门](https://blog.csdn.net/tyler_download/article/details/107255394)
- > 内核级木马与病毒攻防:windows恶意代码分析入门
  ## [从封装变化的角度看设计模式——组件协作](https://blog.csdn.net/yychuyu/article/details/107305695)
  > 
  ## [【Nginx】如何获取客户端真实IP、域名、协议、端口？看这一篇就够了！](https://blog.csdn.net/l1028386804/article/details/107250954)
@@ -61,43 +79,45 @@ categories: IT NEWS
  > 图解面试题：经典50题
  ## [Python 图像处理 OpenCV （14）：图像金字塔](https://blog.csdn.net/meteor_93/article/details/107309849)
  > 
- ## [第三十五章、PyQt输入部件：QFontComboBox、QLineEdit、QTextEdit、QPlainText功能详解](https://blog.csdn.net/LaoYuanPython/article/details/105453327)
- > 第三十五章、PyQt输入部件：QFontComboBox、QLineEdit、QTextEdit、QPlainText功能详解
- ## [138 张图带你 MySQL 入门](https://blog.csdn.net/qq_36894974/article/details/106889711)
- > 
  ## [性能超越最新序列推荐模型，华为诺亚方舟提出记忆增强的图神经网络](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/106631669)
  > 性能超越最新序列推荐模型，华为诺亚方舟提出记忆增强的图神经网络
+ ## [内核级木马与病毒攻防:windows恶意代码分析入门](https://blog.csdn.net/tyler_download/article/details/107255394)
+ > 内核级木马与病毒攻防:windows恶意代码分析入门
+ ## [Python全栈（八）Flask项目实战之12.前台页面完善](https://blog.csdn.net/CUFEECR/article/details/107144336)
+ > 
+ ## [第三十五章、PyQt输入部件：QFontComboBox、QLineEdit、QTextEdit、QPlainText功能详解](https://blog.csdn.net/LaoYuanPython/article/details/105453327)
+ > 第三十五章、PyQt输入部件：QFontComboBox、QLineEdit、QTextEdit、QPlainText功能详解
 # 人工智能 
- ## [【Linux】循序渐进学运维-服务篇-ssh服务入门](https://blog.csdn.net/xinshuzhan/article/details/107326759)
- > 
- ## [京淘后端商品管理-Day09](https://blog.csdn.net/qq_16804847/article/details/107331339)
- > 京淘后端商品管理-Day09
- ## [Linux学习笔记——Apache的安装与配置](https://blog.csdn.net/qq_41679358/article/details/107344133)
- > Linux学习笔记——Apache的安装与配置
- ## [Linux-CentOS 7.4——LVM磁盘管理与磁盘配额——超详细的实验步骤 + 超详细的理论！一看就懂！！！](https://blog.csdn.net/m0_46563938/article/details/107345896)
- > 
- ## [CC-Proxy配置网络代理服务器](https://blog.csdn.net/qq_32599479/article/details/107323451)
- > CC-Proxy配置网络代理服务器
- ## [SpringBoot项目部署到服务器之 Liunx环境安装jdk详细步骤](https://blog.csdn.net/weixin_43700943/article/details/107319862)
- > SpringBoot项目部署到服务器之 Liunx环境安装jdk详细步骤
- ## [apache配置基于域名访问](https://blog.csdn.net/weixin_45663905/article/details/107334934)
- > apache配置基于域名访问
- ## [关于项目打成jar包并发布到云服务器上](https://blog.csdn.net/weixin_45729937/article/details/107306731)
- > 关于项目打成jar包并发布到云服务器上
- ## [LINUX下搭建Apache HTTP Server](https://blog.csdn.net/weixin_47931795/article/details/107345053)
- > LINUX下搭建Apache HTTP Server
- ## [一篇文章搞懂linux压缩打包及命令](https://blog.csdn.net/qq_26012495/article/details/107334676)
- > 一篇文章搞懂linux压缩打包及命令
- ## [【Linux】循序渐进学运维-服务篇-SCP命令](https://blog.csdn.net/xinshuzhan/article/details/107342704)
- > 
- ## [京淘后端商品管理-Day08](https://blog.csdn.net/qq_16804847/article/details/107310564)
- > 京淘后端商品管理-Day08
- ## [Linux学习笔记——Apache服务器配置文件简介](https://blog.csdn.net/qq_41679358/article/details/107335691)
- > Linux学习笔记——Apache服务器配置文件简介
- ## [Linux-CentOS 7.4 - LVM与磁盘配额](https://blog.csdn.net/weixin_44733021/article/details/107342814)
- > Linux-CentOS 7.4 - LVM与磁盘配额
- ## [jmeter CLI无界面运行方式](https://blog.csdn.net/PFFstronger/article/details/107334136)
- > jmeter CLI无界面运行方式
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
+ ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
+ > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
+ ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
+ > Istio组件日志设置
 # PM 
  ## [为什么团队交付时，需要功能清单？](http://www.chanpin100.com/article/112216)
  > 功能清单是一种将项目功能需求通过文字的形式记录，方便团队成员查看的交付性质的文档。
