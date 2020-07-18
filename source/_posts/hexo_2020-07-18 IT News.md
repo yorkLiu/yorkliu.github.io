@@ -1,21 +1,21 @@
 ---
 title: 2020-07-18 IT News
 copyright: true
-date: 2020-07-18 09:01:02
+date: 2020-07-18 10:01:42
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [台积电"断供"，华为紧急囤货1880亿!能撑多久?](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=5r-JRzragHxYDkg3z8nUlSLyQH9Vshqv8rg1QuYGlUSdyh0wB**Xf3SPa*WtrbsytgTQGsj2ZNXojTwnF3FuDGyABRAnjO1j8t5mNbjbWNl4*EXjNwtUzXJnMc5yopzR&new=1)
- > 台积电，一台暴利的赚钱机器。7月16日，芯片领域同时发生了3件大事：中国大陆的芯片巨头—中芯国际（688981）正式登陆科创板上市，股价飙涨202%，总市值飙升至2813亿元，单日成交金额480亿元，吸引了所有人的眼...
- ## [西方不亮，东方亮，实力强横的华为总有自己的生存空间](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=I3cEr9A1mZmkUj64WEnZKaCqne5IqavVM96oDm2S5MaSfGdOqHa47y5o1gb7oAebHgFl5ewj-HeikyN6SxwAXeTMB3Hde4fFYTzE3c0UboEmmc0EbypfJzR*sMwpMzCu&new=1)
- > 随着英国宣布禁止华为，这让人担忧华为未来的生存问题，然而近日华为公布的今年上半年业绩显示营收同比增长13%，取得了持续两位数增长的好成绩，不仅如此近期沙特、印度等国也表示将会继续与华为合作，一扫英国...
- ## [凯瑞驰科技入驻未知大陆，专注惠普全彩尼龙3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=w4fWPiG1UVKybCaS8pkRr3p1mBmgx0itHlRsCBpkNdGfPuUHDWcuI8sVPip0l7O3u1QmyKYWA9244QdTMEeU*cuqeV-p1OJHdcZFrEaxHUrrmiu60TIiWMnfAnqx-XYL&new=1)
- > 2020年7月17日，深圳凯瑞驰科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。公司团队由原惠普人才组建，利用先进的惠普3D制造技术，帮助客户实现：Time to try! Time to manufactur
- ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=3JKUmnLqs4r3wIXDdJDTj0Tdg0vtDKdKsVy6RrtZJ3Er6UJjqC*sX71RBhzInuiYbS1QQ9ntG4tapvIJUExmc2r1iptbol5xP6QD*VfCHCnCgNg1OM1OyfZG-LV7Pyl9&new=1)
- > 运营商财经网 吴碧慧据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣...
- ## [制裁全面升级 华为面临更大考验 没有台积电](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=dUtrjQt-qgJFkb5wpTBPSDu1Ahk7948v4Lm*6in11WoinVWp9ZrNoJybmyr5xfHqupYYwbdNw9AAWKs9eIsuaPiZeNxt71HhTBZdGIv5vfUe*eDXmcawqqizPHb7pZpK&new=1)
+ ## [制裁全面升级 华为面临更大考验 没有台积电](http://mp.weixin.qq.com/s?src=11&timestamp=1595037605&ver=2467&signature=dUtrjQt-qgJFkb5wpTBPSDu1Ahk7948v4Lm*6in11WoinVWp9ZrNoJybmyr5xfHqgWyb4i7GyL1B6p7ujwqKmD9bmyJDD272UEH7DPqQxiHrgMHSFq006JPpIPFBNkK0&new=1)
  > 本文你将看到：台积电将在9月14日之后停止对华为的供货台积电对于华为意味着什么华为消费者业务所受影响华为如今市场表现及未来如何选择台积电将在9月14日之后停止对华为的供货一段时间以来，华为的未来发展都受...
+ ## [凯瑞驰科技入驻未知大陆，专注惠普全彩尼龙3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1595037605&ver=2467&signature=w4fWPiG1UVKybCaS8pkRr3p1mBmgx0itHlRsCBpkNdGfPuUHDWcuI8sVPip0l7O3jvo3nPo8DCpowv3b4BJDMOt55tG5nWz7NAmRMNCDkyOxik32W52u6SL-D34F8LbP&new=1)
+ > 2020年7月17日，深圳凯瑞驰科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。公司团队由原惠普人才组建，利用先进的惠普3D制造技术，帮助客户实现：Time to try! Time to manufactur
+ ## [西方不亮，东方亮，实力强横的华为总有自己的生存空间](http://mp.weixin.qq.com/s?src=11&timestamp=1595037605&ver=2467&signature=I3cEr9A1mZmkUj64WEnZKaCqne5IqavVM96oDm2S5MaSfGdOqHa47y5o1gb7oAebItVzup3lO-Sw46vLbgqktrleTIXt0ywilE83rsyamc9mZWcmJowrGRYZk8iJHzzX&new=1)
+ > 随着英国宣布禁止华为，这让人担忧华为未来的生存问题，然而近日华为公布的今年上半年业绩显示营收同比增长13%，取得了持续两位数增长的好成绩，不仅如此近期沙特、印度等国也表示将会继续与华为合作，一扫英国...
+ ## [台积电"断供"，华为紧急囤货1880亿!能撑多久?](http://mp.weixin.qq.com/s?src=11&timestamp=1595037605&ver=2467&signature=5r-JRzragHxYDkg3z8nUlSLyQH9Vshqv8rg1QuYGlUSdyh0wB**Xf3SPa*WtrbsyRVUzekKZuFufeVuvTGsKnDCuCubQ*JDorC40GAI8c1kjIENA0Hes3tOFX0Z-euZ1&new=1)
+ > 台积电，一台暴利的赚钱机器。7月16日，芯片领域同时发生了3件大事：中国大陆的芯片巨头—中芯国际（688981）正式登陆科创板上市，股价飙涨202%，总市值飙升至2813亿元，单日成交金额480亿元，吸引了所有人的眼...
+ ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595037605&ver=2467&signature=3JKUmnLqs4r3wIXDdJDTj0Tdg0vtDKdKsVy6RrtZJ3Er6UJjqC*sX71RBhzInuiY6FXmtrBM8NzWMfvwMr3OFIxTZg*hKRC5i1Pz80-uxRylRzpeRxYALo8G8PGmjl18&new=1)
+ > 运营商财经网 吴碧慧据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣...
 # IT 技术 
  ## [干掉xxl-job：elastic-job王者归来？](http://developer.51cto.com/art/202007/621233.htm)
  > 干掉xxl-job：elastic-job王者归来？
@@ -41,59 +41,59 @@ categories: IT NEWS
  > 
  ## [《三天给你聊清楚redis》第2天看看redis怎么被搞出来的（22036字）](https://blog.csdn.net/hebtu666/article/details/107330423)
  > 
- ## [Boost中的智能指针详细总结](https://blog.csdn.net/Marble_ccp/article/details/105606236)
+ ## [Docker 镜像多阶段构建实战总结](https://blog.csdn.net/solaraceboy/article/details/107004141)
  > 
- ## [面试：第十六章：Java中级开发](https://blog.csdn.net/java_wxid/article/details/105087259)
- > 面试：第十六章：Java中级开发
  ## [MySQL删除表的三种方式](https://blog.csdn.net/ThinkWon/article/details/106610831)
  > MySQL删除表的三种方式
+ ## [《自然语言处理实战入门》NLP 可视化 ----  文本内容可视化](https://blog.csdn.net/wangyaninglm/article/details/106247317)
+ > 
  ## [异常掉电导致的ORA-\[kfrValAcd30\]故障处理](https://blog.csdn.net/enmotech/article/details/107031477)
  > 异常掉电导致的ORA-\[kfrValAcd30\]故障处理
- ## [探测C库malloc元数据捕获野指针](https://blog.csdn.net/dog250/article/details/106783585)
- > 探测C库malloc元数据捕获野指针
+ ## [\[网络安全自学篇\] 七十七.恶意代码与APT攻击中的武器（强推Seak老师）](https://blog.csdn.net/Eastmount/article/details/106110294)
+ > 
+ ## [动画：扫盲 Git 版本控制（上）](https://blog.csdn.net/qq_36903042/article/details/105693071)
+ > 
+ ## [（七）RecycleView 性能提升、卡顿优化（绝对干货！！）](https://blog.csdn.net/csdn_aiyang/article/details/107252628)
+ > 
  ## [万字长文，62道Java核心面试题，一次性打包送给积极向上的你](https://blog.csdn.net/qing_gee/article/details/107333631)
  > 
- ## [CV之IS：利用pixellib库基于mask_rcnn_coco模型对《庆余年》片段实现实例分割简单代码全实现](https://blog.csdn.net/qq_41185868/article/details/106426757)
- > CV之IS：利用pixellib库基于mask_rcnn_coco模型对《庆余年》片段实现实例分割简单代码全实现
- ## [Mqtt开发笔记：Mqtt服务器搭建](https://blog.csdn.net/qq21497936/article/details/106539703)
+ ## [Maven学习总结（53）——利用Maven插件构建镜像进行持续交付中的版本号管理](https://blog.csdn.net/u012562943/article/details/105967868)
  > 
- ## [PyCharm几个常用的快捷键](https://blog.csdn.net/weixin_38753698/article/details/106821528)
- > PyCharm几个常用的快捷键
- ## [完美安装 Win10 + Ubantu 双系统启动](https://blog.csdn.net/ViatorSun/article/details/86819765)
- > 完美安装 Win10 + Ubantu 双系统启动
- ## [京东智能供应链平台应急场景实践](https://blog.csdn.net/jdcdev_/article/details/106087301)
- > 京东智能供应链平台应急场景实践
+ ## [MySQL 如何生成连续的数字/字符/时间序列](https://blog.csdn.net/horses/article/details/107349305)
+ > 
+ ## [数据结构-栈及其实现（使用数组和链表两种方式实现）](https://blog.csdn.net/jaune161/article/details/105499056)
+ > 
 # 人工智能 
- ## [【Linux】循序渐进学运维-服务篇-inotify部署及应用](https://blog.csdn.net/xinshuzhan/article/details/107376334)
+ ## [对于“前端canvas骚操作”的一些理解](https://blog.csdn.net/qq_43624878/article/details/107374678)
+ > 对于“前端canvas骚操作”的一些理解
+ ## [JavaScript的预编译与提升，一起去发现Js华丽的暗箱操作（系列一）](https://blog.csdn.net/jbj6568839z/article/details/107390368)
  > 
- ## [Linux 引导过程与服务控制；超详细的理论+超详细的实验！](https://blog.csdn.net/m0_46563938/article/details/107390509)
- > Linux 引导过程与服务控制；超详细的理论+超详细的实验！
- ## [Linux-乌班图常用命令](https://blog.csdn.net/qq_36075612/article/details/70159971)
- > Linux-乌班图常用命令
- ## [jenkins 参数化运行性能测试脚本](https://blog.csdn.net/weixin_44275820/article/details/106550140)
- > jenkins 参数化运行性能测试脚本
- ## [Linux学习笔记——Apache的安装与配置](https://blog.csdn.net/qq_41679358/article/details/107344133)
- > Linux学习笔记——Apache的安装与配置
- ## [Linux基础知识](https://blog.csdn.net/lihangfu/article/details/107354777)
+ ## [javascript从入门到跑路-----小文的js学习笔记（18 —2）------ 执行顺序和优先级](https://blog.csdn.net/qq_45948983/article/details/107372527)
+ > javascript从入门到跑路-----小文的js学习笔记（18 —2）------ 执行顺序和优先级
+ ## [纯CSS实现iOS风格打开关闭选择框](https://blog.csdn.net/qq_23853743/article/details/107349231)
+ > 纯CSS实现iOS风格打开关闭选择框
+ ## [用canvas画时钟（一步步详解附带源代码）](https://blog.csdn.net/yf19990720/article/details/107367846)
  > 
- ## [安装双系统win10+Ubuntu18.04不迷路](https://blog.csdn.net/qq_42316533/article/details/107395372)
- > 安装双系统win10+Ubuntu18.04不迷路
- ## [Tool之ADB：ADB工具的简介、安装、使用方法之详细攻略](https://blog.csdn.net/qq_41185868/article/details/107381622)
- > Tool之ADB：ADB工具的简介、安装、使用方法之详细攻略
- ## [shell脚本编程规范](https://blog.csdn.net/weixin_42099301/article/details/107368151)
+ ## [webpack-cli命令-从零开始webpack源码思考2](https://blog.csdn.net/liixnhai/article/details/107352968)
+ > webpack-cli命令-从零开始webpack源码思考2
+ ## [前端性能优化方法汇总](https://blog.csdn.net/m0_46680765/article/details/107354878)
+ > 前端性能优化方法汇总
+ ## [函数的定义和调用](https://blog.csdn.net/supervillain2/article/details/107390206)
+ > 函数的定义和调用
+ ## [zTree的使用方法以及学习笔记](https://blog.csdn.net/qq_42285889/article/details/107374836)
+ > zTree的使用方法以及学习笔记
+ ## [设计模式之桥接模式](https://blog.csdn.net/weaJung/article/details/107372654)
+ > 设计模式之桥接模式
+ ## [关于CSS3一些新属性的一些思考：夜间模式、区域阴影、透明度](https://blog.csdn.net/qq_43624878/article/details/107309278)
+ > 关于CSS3一些新属性的一些思考：夜间模式、区域阴影、透明度
+ ## [超强的入门文章 ！！！  JavaScript 速成计划第一篇（基础语法详解）!](https://blog.csdn.net/weixin_42100963/article/details/107339433)
  > 
- ## [【Linux】循序渐进学运维-服务篇-rsync配置文件](https://blog.csdn.net/xinshuzhan/article/details/107366103)
+ ## [Chrome 浏览使用IFRAME嵌套站点cookie传递失败](https://blog.csdn.net/zhoudingding/article/details/107374885)
+ > Chrome 浏览使用IFRAME嵌套站点cookie传递失败
+ ## [前端CSS必备类名及常用属性总结（让编程更简单）](https://blog.csdn.net/weixin_46628546/article/details/107348205)
  > 
- ## [Linux-CentOS 7.4——LVM磁盘管理与磁盘配额——超详细的实验步骤 + 超详细的理论！一看就懂！！！](https://blog.csdn.net/m0_46563938/article/details/107345896)
+ ## [纯CSS实现自定义单选框和复选框](https://blog.csdn.net/qq_23853743/article/details/107322502)
  > 
- ## [Shell脚本之剪刀石头布人机对战2](https://blog.csdn.net/weixin_39608791/article/details/107392474)
- > Shell脚本之剪刀石头布人机对战2
- ## [理论+实验：Linux  引导过程与服务控制☬备份MBR扇区数据、故障、恢复数据，修复GRUB引导故障，忘记root密码操作](https://blog.csdn.net/weixin_44733021/article/details/107387248)
- > 理论+实验：Linux  引导过程与服务控制☬备份MBR扇区数据、故障、恢复数据，修复GRUB引导故障，忘记root密码操作
- ## [Nginx实现高可用之Nginx安装与运行 Linux环境下安装并运行Nginx详细步骤](https://blog.csdn.net/weixin_43700943/article/details/107364202)
- > Nginx实现高可用之Nginx安装与运行 Linux环境下安装并运行Nginx详细步骤
- ## [基于ubuntu安装python的虚拟环境](https://blog.csdn.net/huarui0820/article/details/107352908)
- > 基于ubuntu安装python的虚拟环境
 # PM 
  ## [被央视“315晚会”点名，趣头条在安卓市场“被下架”](http://www.chanpin100.com/article/112239)
  > 趣头条被央视点名！
