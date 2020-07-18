@@ -1,21 +1,21 @@
 ---
 title: 2020-07-18 IT News
 copyright: true
-date: 2020-07-18 08:01:28
+date: 2020-07-18 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595028667&ver=2467&signature=3JKUmnLqs4r3wIXDdJDTj0Tdg0vtDKdKsVy6RrtZJ3GKzL2DVFB3dfWkLDNCI5Q12nKL4y-ftLz7GkMdOwiciC6HEBxXKcoTSw7noaMoK6OdUB6FcsyR0sVjRBadeK2L&new=1)
- > 运营商财经网 吴碧慧据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣...
- ## [台积电"断供"，华为紧急囤货1880亿!能撑多久?](http://mp.weixin.qq.com/s?src=11&timestamp=1595028667&ver=2467&signature=5r-JRzragHxYDkg3z8nUlSLyQH9Vshqv8rg1QuYGlUTgew4hmSEygft0KTGCagM6ka7fP*Vd8AWYdCmSUOdhmqgp5KFPxct8MZ3m1oWt89kYA31Pz*0i6YaROJ-AL7a7&new=1)
+ ## [台积电"断供"，华为紧急囤货1880亿!能撑多久?](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=5r-JRzragHxYDkg3z8nUlSLyQH9Vshqv8rg1QuYGlUSdyh0wB**Xf3SPa*WtrbsytgTQGsj2ZNXojTwnF3FuDGyABRAnjO1j8t5mNbjbWNl4*EXjNwtUzXJnMc5yopzR&new=1)
  > 台积电，一台暴利的赚钱机器。7月16日，芯片领域同时发生了3件大事：中国大陆的芯片巨头—中芯国际（688981）正式登陆科创板上市，股价飙涨202%，总市值飙升至2813亿元，单日成交金额480亿元，吸引了所有人的眼...
- ## [制裁全面升级 华为面临更大考验 没有台积电](http://mp.weixin.qq.com/s?src=11&timestamp=1595028667&ver=2467&signature=dUtrjQt-qgJFkb5wpTBPSDu1Ahk7948v4Lm*6in11WpvwLjU-17ulblR*MgKbtLoCWlapkzFISMOOY0bvM3EiRJ83lwVWiCXfCH5Y3BEzKTyNZFxLRGyWI4-c1Jz2fxx&new=1)
- > 本文你将看到：台积电将在9月14日之后停止对华为的供货台积电对于华为意味着什么华为消费者业务所受影响华为如今市场表现及未来如何选择台积电将在9月14日之后停止对华为的供货一段时间以来，华为的未来发展都受...
- ## [凯瑞驰科技入驻未知大陆，专注惠普全彩尼龙3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1595028667&ver=2467&signature=w4fWPiG1UVKybCaS8pkRr3p1mBmgx0itHlRsCBpkNdEAMzSW8JbBZ-69vTv1uW*BUsNex2-XA03B5uP-kwe-RWwDRIqKBAV9alD3G4ButEPgAQ1Vz7d7QktP3BMW9qGg&new=1)
- > 2020年7月17日，深圳凯瑞驰科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。公司团队由原惠普人才组建，利用先进的惠普3D制造技术，帮助客户实现：Time to try! Time to manufactur
- ## [西方不亮，东方亮，实力强横的华为总有自己的生存空间](http://mp.weixin.qq.com/s?src=11&timestamp=1595028667&ver=2467&signature=I3cEr9A1mZmkUj64WEnZKaCqne5IqavVM96oDm2S5Ma20ech23YKPEOhuDwdzhMeC5pPGXwARjS1EloIUGug3gwqZkwHkaAOJ*divzlzFTZtupG3vjzu4MG-mH*cr4LS&new=1)
+ ## [西方不亮，东方亮，实力强横的华为总有自己的生存空间](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=I3cEr9A1mZmkUj64WEnZKaCqne5IqavVM96oDm2S5MaSfGdOqHa47y5o1gb7oAebHgFl5ewj-HeikyN6SxwAXeTMB3Hde4fFYTzE3c0UboEmmc0EbypfJzR*sMwpMzCu&new=1)
  > 随着英国宣布禁止华为，这让人担忧华为未来的生存问题，然而近日华为公布的今年上半年业绩显示营收同比增长13%，取得了持续两位数增长的好成绩，不仅如此近期沙特、印度等国也表示将会继续与华为合作，一扫英国...
+ ## [凯瑞驰科技入驻未知大陆，专注惠普全彩尼龙3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=w4fWPiG1UVKybCaS8pkRr3p1mBmgx0itHlRsCBpkNdGfPuUHDWcuI8sVPip0l7O3u1QmyKYWA9244QdTMEeU*cuqeV-p1OJHdcZFrEaxHUrrmiu60TIiWMnfAnqx-XYL&new=1)
+ > 2020年7月17日，深圳凯瑞驰科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。公司团队由原惠普人才组建，利用先进的惠普3D制造技术，帮助客户实现：Time to try! Time to manufactur
+ ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=3JKUmnLqs4r3wIXDdJDTj0Tdg0vtDKdKsVy6RrtZJ3Er6UJjqC*sX71RBhzInuiYbS1QQ9ntG4tapvIJUExmc2r1iptbol5xP6QD*VfCHCnCgNg1OM1OyfZG-LV7Pyl9&new=1)
+ > 运营商财经网 吴碧慧据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣...
+ ## [制裁全面升级 华为面临更大考验 没有台积电](http://mp.weixin.qq.com/s?src=11&timestamp=1595032205&ver=2467&signature=dUtrjQt-qgJFkb5wpTBPSDu1Ahk7948v4Lm*6in11WoinVWp9ZrNoJybmyr5xfHqupYYwbdNw9AAWKs9eIsuaPiZeNxt71HhTBZdGIv5vfUe*eDXmcawqqizPHb7pZpK&new=1)
+ > 本文你将看到：台积电将在9月14日之后停止对华为的供货台积电对于华为意味着什么华为消费者业务所受影响华为如今市场表现及未来如何选择台积电将在9月14日之后停止对华为的供货一段时间以来，华为的未来发展都受...
 # IT 技术 
  ## [干掉xxl-job：elastic-job王者归来？](http://developer.51cto.com/art/202007/621233.htm)
  > 干掉xxl-job：elastic-job王者归来？
@@ -64,36 +64,36 @@ categories: IT NEWS
  ## [京东智能供应链平台应急场景实践](https://blog.csdn.net/jdcdev_/article/details/106087301)
  > 京东智能供应链平台应急场景实践
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [【Linux】循序渐进学运维-服务篇-inotify部署及应用](https://blog.csdn.net/xinshuzhan/article/details/107376334)
+ > 
+ ## [Linux 引导过程与服务控制；超详细的理论+超详细的实验！](https://blog.csdn.net/m0_46563938/article/details/107390509)
+ > Linux 引导过程与服务控制；超详细的理论+超详细的实验！
+ ## [Linux-乌班图常用命令](https://blog.csdn.net/qq_36075612/article/details/70159971)
+ > Linux-乌班图常用命令
+ ## [jenkins 参数化运行性能测试脚本](https://blog.csdn.net/weixin_44275820/article/details/106550140)
+ > jenkins 参数化运行性能测试脚本
+ ## [Linux学习笔记——Apache的安装与配置](https://blog.csdn.net/qq_41679358/article/details/107344133)
+ > Linux学习笔记——Apache的安装与配置
+ ## [Linux基础知识](https://blog.csdn.net/lihangfu/article/details/107354777)
+ > 
+ ## [安装双系统win10+Ubuntu18.04不迷路](https://blog.csdn.net/qq_42316533/article/details/107395372)
+ > 安装双系统win10+Ubuntu18.04不迷路
+ ## [Tool之ADB：ADB工具的简介、安装、使用方法之详细攻略](https://blog.csdn.net/qq_41185868/article/details/107381622)
+ > Tool之ADB：ADB工具的简介、安装、使用方法之详细攻略
+ ## [shell脚本编程规范](https://blog.csdn.net/weixin_42099301/article/details/107368151)
+ > 
+ ## [【Linux】循序渐进学运维-服务篇-rsync配置文件](https://blog.csdn.net/xinshuzhan/article/details/107366103)
+ > 
+ ## [Linux-CentOS 7.4——LVM磁盘管理与磁盘配额——超详细的实验步骤 + 超详细的理论！一看就懂！！！](https://blog.csdn.net/m0_46563938/article/details/107345896)
+ > 
+ ## [Shell脚本之剪刀石头布人机对战2](https://blog.csdn.net/weixin_39608791/article/details/107392474)
+ > Shell脚本之剪刀石头布人机对战2
+ ## [理论+实验：Linux  引导过程与服务控制☬备份MBR扇区数据、故障、恢复数据，修复GRUB引导故障，忘记root密码操作](https://blog.csdn.net/weixin_44733021/article/details/107387248)
+ > 理论+实验：Linux  引导过程与服务控制☬备份MBR扇区数据、故障、恢复数据，修复GRUB引导故障，忘记root密码操作
+ ## [Nginx实现高可用之Nginx安装与运行 Linux环境下安装并运行Nginx详细步骤](https://blog.csdn.net/weixin_43700943/article/details/107364202)
+ > Nginx实现高可用之Nginx安装与运行 Linux环境下安装并运行Nginx详细步骤
+ ## [基于ubuntu安装python的虚拟环境](https://blog.csdn.net/huarui0820/article/details/107352908)
+ > 基于ubuntu安装python的虚拟环境
 # PM 
  ## [被央视“315晚会”点名，趣头条在安卓市场“被下架”](http://www.chanpin100.com/article/112239)
  > 趣头条被央视点名！
