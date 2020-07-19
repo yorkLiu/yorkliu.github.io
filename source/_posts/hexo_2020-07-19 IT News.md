@@ -1,19 +1,19 @@
 ---
 title: 2020-07-19 IT News
 copyright: true
-date: 2020-07-19 08:00:59
+date: 2020-07-19 09:01:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595115005&ver=2469&signature=D*iYmDqhoah3IJ8oNz5eB73gcHQB3e3r1MI9g6H63JaQjw9*Z4bRDB50tR*dZrHOP-rwk5WTGice15qoBcS13rFeqzRXhy3eY8X*7YdfwUkQmx*wRyuki1IWV2h-oU0e&new=1)
+ ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=D*iYmDqhoah3IJ8oNz5eB73gcHQB3e3r1MI9g6H63JaQjw9*Z4bRDB50tR*dZrHOy5gnRTertQmKH19S0QCwlP4tNJ1yGRx4FCWxVo*OfojlzeM7eU5nKSvdhmvm*pie&new=1)
  > 据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣布撤销网络运行维护事...
- ## [未知大陆将打造线下数字制造产业园新生态](http://mp.weixin.qq.com/s?src=11&timestamp=1595115005&ver=2469&signature=g8YFXjLFdky9gS3TZ1Ittr01PRJfWe9SWRys2W-Xohlbr8YRd93Iu0bieBPv6e5hoCYaYaGkocorAbXf6zh7fdShGxgvkkMH0TBYGL8RdQ6Q27g9GzedazOufzGx9gEc&new=1)
+ ## [未知大陆将打造线下数字制造产业园新生态](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=g8YFXjLFdky9gS3TZ1Ittr01PRJfWe9SWRys2W-Xohlbr8YRd93Iu0bieBPv6e5hcEoAqAYhLPWW7NfY6DCkytzmhF3dXDnephQpMIadPw-DC9Pj*cYGbPXkhXigHznT&new=1)
  > 2020年4月19日，作为全球领先的数字制造云平台未知大陆将进一步赋能传统产业园的转型升级，协助其规划、建立线下的数字制造新生态，跟上政策变化，布局未来趋势。未知大陆将为传统产业园数字化升级带来以下服务...
- ## [这款无敌的微信小程序，竟然能免费看片?](http://mp.weixin.qq.com/s?src=11&timestamp=1595115005&ver=2469&signature=F9Og8g1osOvb7K2k0y4ShPpmr3Otrqub*oPIeLP1GHRK*BrH04BziEXcnd9u-S*NSQh-L-UFgA1NmzsiFvs6Cn85l8WZvC1YYRB6fMIb8lNOYQy6*gXSX*L6oO7Ewupe&new=1)
- > 提到看片，大家应该都会想到视频网站、影视APP等。为了看自己想看的片，手机里下载了好几个影视APP，这家没有的，只能上那家看，不光看，还得开好几个会员才行。但是，免费看视频福利来啦，在微信里就能直接打开...
- ## [苹果和三星将竞购Arm?这不是一个好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1595115005&ver=2469&signature=RvbyuIB36f*O5WGEHkmAXVvjfrvkkSNCNDhIFpP5z9tk13cFqjsjRn8hlrvCSXq0Iq2hJavTW296GjBKhTiteTyql3o6Qu-RKs2oNmDLxVZXpY8S3JqSbk9Ys8DuaKBm&new=1)
+ ## [苹果和三星将竞购Arm?这不是一个好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=RvbyuIB36f*O5WGEHkmAXVvjfrvkkSNCNDhIFpP5z9tk13cFqjsjRn8hlrvCSXq0if1FSbpoTD0YpjIYxTUj5dBRa9gW33N0CIvUlt9RdULi-sK9Gjh643g6tmrMXUY5&new=1)
  > 日前，业内传闻日本软银集团正同时有考虑出售旗下全资子公司Arm，或让Arm通过IPO上市以实现资本化。据《韩国时报》报导称，软银对于Arm的最新估值为410亿美元。近日，业内有传闻称，苹果可能会接盘Arm，同时韩国...
+ ## [这款无敌的微信小程序，竟然能免费看片?](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=F9Og8g1osOvb7K2k0y4ShPpmr3Otrqub*oPIeLP1GHRK*BrH04BziEXcnd9u-S*NKl4BHvueCBPwhxAvpMCsGoSla3cOtkpEj88oUw7ZTDfOesYgzEJvFlI9Hs4WXUKX&new=1)
+ > 提到看片，大家应该都会想到视频网站、影视APP等。为了看自己想看的片，手机里下载了好几个影视APP，这家没有的，只能上那家看，不光看，还得开好几个会员才行。但是，免费看视频福利来啦，在微信里就能直接打开...
 # IT 技术 
  ## [干掉xxl-job：elastic-job王者归来？](http://developer.51cto.com/art/202007/621233.htm)
  > 干掉xxl-job：elastic-job王者归来？
@@ -31,6 +31,14 @@ categories: IT NEWS
  > 13种GitHub的顶级替代工具
  ## [基于威胁的网络安全动态防御研究](http://netsecurity.51cto.com/art/202007/621124.htm)
  > 基于威胁的网络安全动态防御研究
+ ## [Pandas万花筒：让绘图变得更美观](http://bigdata.51cto.com/art/202007/621297.htm)
+ > 流行 Python 数据分析库 Pandas 中的绘图功能一直是迅速绘制图表的首选之一。但是，其可用的可视化效果总是
+ ## [技术巨头会如何布局自己的区块链战略？](http://blockchain.51cto.com/art/202007/621296.htm)
+ > 对于区块链领域的初创企业而言，仔细分析这些大公司选择的方向可以为自己提供机会。本文将研究技术巨头在区
+ ## [Python Debug(调试)的终极指南](http://developer.51cto.com/art/202007/621295.htm)
+ > 很多人使用一堆print语句来查看代码中发生了什么。这种方法远不是理想的，有更好的方法可以找出代码的错误
+ ## [为了更好的代码：12个Python小窍门](http://developer.51cto.com/art/202007/621294.htm)
+ > 使用和学习Python的人不在少数，但是真正掌握了解这门语言的人并不多。你了解最新的Python功能和技术吗?这1
  ## [PHP 8.0新功能：Match表达式](http://developer.51cto.com/art/202007/621293.htm)
  > 本文我们要说PHP8带来新引入的语法match表达式语法，可以说是PHP 8引入的最好的功能之一，它使用类似switch
  ## [如何保护Windows网络免受勒索软件攻击](http://netsecurity.51cto.com/art/202007/621292.htm)
@@ -57,10 +65,10 @@ categories: IT NEWS
  > 
  ## [CV之IS：利用pixellib库基于mask_rcnn_coco模型对《庆余年》片段实现实例分割简单代码全实现](https://blog.csdn.net/qq_41185868/article/details/106426757)
  > CV之IS：利用pixellib库基于mask_rcnn_coco模型对《庆余年》片段实现实例分割简单代码全实现
- ## [中国人工智能市场破 50 亿！你还不了解 AI 云服务吗？](https://blog.csdn.net/csdnnews/article/details/107373770)
- > 中国人工智能市场破 50 亿！你还不了解 AI 云服务吗？
  ## [一文搞懂常用的网络概念：域名、静态IP和动态IP、域名解析DNS、动态域名解析DDNS](https://blog.csdn.net/f641385712/article/details/105193589)
  > 
+ ## [中国人工智能市场破 50 亿！你还不了解 AI 云服务吗？](https://blog.csdn.net/csdnnews/article/details/107373770)
+ > 中国人工智能市场破 50 亿！你还不了解 AI 云服务吗？
  ## [Docker:01---虚拟化容器技术与Docker总体概述](https://blog.csdn.net/qq_41453285/article/details/107346761)
  > Docker:01---虚拟化容器技术与Docker总体概述
  ## [用汇编语言编写Linux内核模块](https://blog.csdn.net/dog250/article/details/106439269)
@@ -72,35 +80,35 @@ categories: IT NEWS
  ## [国际研究机构：阿里巴巴语音AI中国第一](https://blog.csdn.net/csdnnews/article/details/107337867)
  > 国际研究机构：阿里巴巴语音AI中国第一
 # 人工智能 
- ## [JavaScript的预编译与提升，一起去发现Js华丽的暗箱操作（系列一）](https://blog.csdn.net/jbj6568839z/article/details/107390368)
- > 
- ## [javascript从入门到跑路-----小文的js学习笔记（19）------- js的垃圾回收机制](https://blog.csdn.net/qq_45948983/article/details/107395200)
- > javascript从入门到跑路-----小文的js学习笔记（19）------- js的垃圾回收机制
- ## [对于“前端canvas骚操作”的一些理解](https://blog.csdn.net/qq_43624878/article/details/107374678)
- > 对于“前端canvas骚操作”的一些理解
- ## [一篇文章解决springboot+thymeleaf多语言国际化](https://blog.csdn.net/c1143359684/article/details/107403273)
- > 一篇文章解决springboot+thymeleaf多语言国际化
- ## [zTree的使用方法以及学习笔记](https://blog.csdn.net/qq_42285889/article/details/107374836)
- > zTree的使用方法以及学习笔记
- ## [JavaScript学习书籍推荐（步步为营）](https://blog.csdn.net/qq_36075612/article/details/107400216)
- > JavaScript学习书籍推荐（步步为营）
- ## [vue+cordova开发移动APP项目](https://blog.csdn.net/weixin_42325228/article/details/107396330)
- > vue+cordova开发移动APP项目
- ## [时间选择器组件之关于table走过的弯路](https://blog.csdn.net/weixin_45628602/article/details/107404967)
- > 时间选择器组件之关于table走过的弯路
- ## [Chrome 浏览使用IFRAME嵌套站点cookie传递失败](https://blog.csdn.net/zhoudingding/article/details/107374885)
- > Chrome 浏览使用IFRAME嵌套站点cookie传递失败
- ## [使用yoeman创建一个脚手架](https://blog.csdn.net/hzisw/article/details/107402021)
- > 使用yoeman创建一个脚手架
- ## [Vue 实现动态生成路由（动态生成菜单，根据菜单动态生成路由）](https://blog.csdn.net/tly599167/article/details/107378249)
- > Vue 实现动态生成路由（动态生成菜单，根据菜单动态生成路由）
- ## [前端性能优化方法汇总](https://blog.csdn.net/m0_46680765/article/details/107354878)
- > 前端性能优化方法汇总
- ## [前端学习-过渡效果](https://blog.csdn.net/qq_43368682/article/details/107374396)
- > 前端学习-过渡效果
- ## [JS入门必备基础知识（适合小白）](https://blog.csdn.net/a_l_f_/article/details/107416292)
- > JS入门必备基础知识（适合小白）
- ## [javascript从入门到跑路-----小文的js学习笔记（18 —2）------ 执行顺序和优先级](https://blog.csdn.net/qq_45948983/article/details/107372527)
- > javascript从入门到跑路-----小文的js学习笔记（18 —2）------ 执行顺序和优先级
+ ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
+ > VSCode代码自动补全html标签、css属性及值 - 无插件
+ ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
+ > 解决iframe跨域传参（Blocked a frame with origin）
+ ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
+ > 记录坎坷的面试
+ ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
+ > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
+ ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
+ > 如何让在Html中特殊字符不被转义（源码输出）
+ ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
+ > Vue创建项目步骤
+ ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
+ > vue  中拼接html时添加点击事件
+ ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
+ > 前端Ajax传参，后台接收参数的几种方式
+ ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
+ > JS 判断字符串中是否包含某个字符串（方法总结）
+ ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
+ > D3 二维图表的绘制系列（一）介绍
+ ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
+ > 关于flex布局在IE浏览器上的坑
+ ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
+ > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
+ ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
+ > 前端页面JS注入问题，前端JS注入解决办法
+ ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
+ > visual studio code 不能安装yarn或不识别yarn命令的问题解决
+ ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
+ > iframe操作src或url的方式
 
     
