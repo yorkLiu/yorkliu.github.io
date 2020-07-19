@@ -1,19 +1,23 @@
 ---
 title: 2020-07-19 IT News
 copyright: true
-date: 2020-07-19 09:01:08
+date: 2020-07-19 10:03:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=D*iYmDqhoah3IJ8oNz5eB73gcHQB3e3r1MI9g6H63JaQjw9*Z4bRDB50tR*dZrHOy5gnRTertQmKH19S0QCwlP4tNJ1yGRx4FCWxVo*OfojlzeM7eU5nKSvdhmvm*pie&new=1)
- > 据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣布撤销网络运行维护事...
- ## [未知大陆将打造线下数字制造产业园新生态](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=g8YFXjLFdky9gS3TZ1Ittr01PRJfWe9SWRys2W-Xohlbr8YRd93Iu0bieBPv6e5hcEoAqAYhLPWW7NfY6DCkytzmhF3dXDnephQpMIadPw-DC9Pj*cYGbPXkhXigHznT&new=1)
- > 2020年4月19日，作为全球领先的数字制造云平台未知大陆将进一步赋能传统产业园的转型升级，协助其规划、建立线下的数字制造新生态，跟上政策变化，布局未来趋势。未知大陆将为传统产业园数字化升级带来以下服务...
- ## [苹果和三星将竞购Arm?这不是一个好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=RvbyuIB36f*O5WGEHkmAXVvjfrvkkSNCNDhIFpP5z9tk13cFqjsjRn8hlrvCSXq0if1FSbpoTD0YpjIYxTUj5dBRa9gW33N0CIvUlt9RdULi-sK9Gjh643g6tmrMXUY5&new=1)
- > 日前，业内传闻日本软银集团正同时有考虑出售旗下全资子公司Arm，或让Arm通过IPO上市以实现资本化。据《韩国时报》报导称，软银对于Arm的最新估值为410亿美元。近日，业内有传闻称，苹果可能会接盘Arm，同时韩国...
- ## [这款无敌的微信小程序，竟然能免费看片?](http://mp.weixin.qq.com/s?src=11&timestamp=1595118605&ver=2469&signature=F9Og8g1osOvb7K2k0y4ShPpmr3Otrqub*oPIeLP1GHRK*BrH04BziEXcnd9u-S*NKl4BHvueCBPwhxAvpMCsGoSla3cOtkpEj88oUw7ZTDfOesYgzEJvFlI9Hs4WXUKX&new=1)
+ ## [5G来了，2G/3G如何平滑退网?](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=IBs90Ncq0658mAwtJGMxXv1Z-fmOkv-emabTBAJnUObRj9L1Q8*pRdn8CgoUhPAUUDLALuRqBOwRxYOUfQoybhMOsuEwClNFNDtGY9lEvnk=&new=1)
+ > 经济观察网 记者 沈怡然 在全球运营商重资布局5G之际，运营商是否有必要退2G/3G网、如何退网的话题备受关注。7月17日，记者从GSMA（全球移动通信系统协会）获悉，该协会在近期发布了《亚太2G/3G退网经验白皮书》...
+ ## [这款无敌的微信小程序，竟然能免费看片?](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=F9Og8g1osOvb7K2k0y4ShPpmr3Otrqub*oPIeLP1GHSymZwGS5bnfSCR-eotQeyue*EDay6HwslffDo0uSYfOWDVyfw4V7Buvv2t8K-oi9s0bwYfqjn9JzGYUU-mROAu&new=1)
  > 提到看片，大家应该都会想到视频网站、影视APP等。为了看自己想看的片，手机里下载了好几个影视APP，这家没有的，只能上那家看，不光看，还得开好几个会员才行。但是，免费看视频福利来啦，在微信里就能直接打开...
+ ## [未知大陆将打造线下数字制造产业园新生态](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=g8YFXjLFdky9gS3TZ1Ittr01PRJfWe9SWRys2W-XohnFujcsiLY1TxyNOk65ycNP5euSR2SeinuKNyafEPbx3FYHJMIFV81OUR9t80Vh-RSmtWWCtBRGsSg9rUJiZIAa&new=1)
+ > 2020年4月19日，作为全球领先的数字制造云平台未知大陆将进一步赋能传统产业园的转型升级，协助其规划、建立线下的数字制造新生态，跟上政策变化，布局未来趋势。未知大陆将为传统产业园数字化升级带来以下服务...
+ ## [\[科技早报7点整\]官方回应数百辆共享单车被丢垃圾场 上百名移民露宿贝索斯豪宅外呼吁向亿万富豪征税](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=zwn6kicAxI2UvG7lsGflyhohwFn0LZpHmXzgkrrNGbxZQc4ojqozfE2jC0BN4NCk6oByBMMyYrGVqdP02*LV2kLx5ORSp2rw-Ar5rlHB4cXgJ1rpxCrw*KKlKhUhHIkK&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第867期1.称快递员“快递小哥”：中通被指性别偏见近日，有网友发文称，中通快递微信小程序中，对快递员的默认称谓是“快递小哥”。这意味着，其默认快递员的性别是男性。该网...
+ ## [苹果和三星将竞购Arm?这不是一个好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=RvbyuIB36f*O5WGEHkmAXVvjfrvkkSNCNDhIFpP5z9uwMB40818Q5ZQFrdOtnG5ZGByRgDDlhItgCZ40*nteGymZPooRjVvAxKIlfAlTZkPM1RtWjc1i0bSVMvPPkgcY&new=1)
+ > 日前，业内传闻日本软银集团正同时有考虑出售旗下全资子公司Arm，或让Arm通过IPO上市以实现资本化。据《韩国时报》报导称，软银对于Arm的最新估值为410亿美元。近日，业内有传闻称，苹果可能会接盘Arm，同时韩国...
+ ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=D*iYmDqhoah3IJ8oNz5eB73gcHQB3e3r1MI9g6H63JZENZdI4VvACn0KQSJWgC7o9tAQz9w1EC4Auy1EqIobCya14o7zT-cUjQWRfTnaM0h6pbUXV1i28wRRp7jVehGm&new=1)
+ > 据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣布撤销网络运行维护事...
 # IT 技术 
  ## [干掉xxl-job：elastic-job王者归来？](http://developer.51cto.com/art/202007/621233.htm)
  > 干掉xxl-job：elastic-job王者归来？
@@ -61,54 +65,54 @@ categories: IT NEWS
  > 边缘计算2.0时代，“云边缘”与“边缘云”你分清了吗？
  ## [Gitlab Runner的分布式缓存实战](https://blog.csdn.net/boling_cavalry/article/details/107374730)
  > 
- ## [为什么不推荐使用BeanUtils属性转换工具](https://blog.csdn.net/w605283073/article/details/107371462)
- > 
  ## [CV之IS：利用pixellib库基于mask_rcnn_coco模型对《庆余年》片段实现实例分割简单代码全实现](https://blog.csdn.net/qq_41185868/article/details/106426757)
  > CV之IS：利用pixellib库基于mask_rcnn_coco模型对《庆余年》片段实现实例分割简单代码全实现
- ## [一文搞懂常用的网络概念：域名、静态IP和动态IP、域名解析DNS、动态域名解析DDNS](https://blog.csdn.net/f641385712/article/details/105193589)
+ ## [为什么不推荐使用BeanUtils属性转换工具](https://blog.csdn.net/w605283073/article/details/107371462)
  > 
  ## [中国人工智能市场破 50 亿！你还不了解 AI 云服务吗？](https://blog.csdn.net/csdnnews/article/details/107373770)
  > 中国人工智能市场破 50 亿！你还不了解 AI 云服务吗？
  ## [Docker:01---虚拟化容器技术与Docker总体概述](https://blog.csdn.net/qq_41453285/article/details/107346761)
  > Docker:01---虚拟化容器技术与Docker总体概述
+ ## [一文搞懂常用的网络概念：域名、静态IP和动态IP、域名解析DNS、动态域名解析DDNS](https://blog.csdn.net/f641385712/article/details/105193589)
+ > 
  ## [用汇编语言编写Linux内核模块](https://blog.csdn.net/dog250/article/details/106439269)
  > 用汇编语言编写Linux内核模块
  ## [面试官系列 - https 真的安全吗，可以抓包吗，如何防止抓包吗](https://blog.csdn.net/gdutxiaoxu/article/details/107393249)
  > 面试官系列 - https 真的安全吗，可以抓包吗，如何防止抓包吗
- ## [Redis系列(六)：设置/移除键的过期时间](https://blog.csdn.net/zwwhnly/article/details/105965961)
- > 
  ## [国际研究机构：阿里巴巴语音AI中国第一](https://blog.csdn.net/csdnnews/article/details/107337867)
  > 国际研究机构：阿里巴巴语音AI中国第一
+ ## [Lazada和Shopee：瞄准6亿人口东南亚市场的两大主流电商平台](https://blog.csdn.net/universsky2015/article/details/107017234)
+ > Lazada和Shopee：瞄准6亿人口东南亚市场的两大主流电商平台
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [Spark快速入门系列(6) | Spark环境搭建—standalone(3) 配置HA高可用模式](https://blog.csdn.net/qq_16146103/article/details/107403917)
+ > Spark快速入门系列(6) | Spark环境搭建—standalone(3) 配置HA高可用模式
+ ## [快速入门Flink (1) —— Flink的简介与架构体系](https://blog.csdn.net/weixin_44318830/article/details/107364968)
+ > 快速入门Flink (1) —— Flink的简介与架构体系
+ ## [阿里技术文档：Redis+Nginx+Spring全家桶+Dubbo精选](https://blog.csdn.net/weixin_46757553/article/details/107382868)
+ > 阿里技术文档：Redis+Nginx+Spring全家桶+Dubbo精选
+ ## [他每天下班后学习2小时，拿到了滴滴/头条/京东等大厂Java岗offer](https://blog.csdn.net/rxh811/article/details/107387224)
+ > 他每天下班后学习2小时，拿到了滴滴/头条/京东等大厂Java岗offer
+ ## [大数据技术之HBase系统知识整理（从安装到熟练操作）](https://blog.csdn.net/IronmanJay/article/details/107291472)
+ > 大数据技术之HBase系统知识整理（从安装到熟练操作）
+ ## [阿里巴巴资深架构师熬几个通宵肛出来的Spark+Hadoop+中台实战pdf](https://blog.csdn.net/weixin_45132238/article/details/107392973)
+ > 阿里巴巴资深架构师熬几个通宵肛出来的Spark+Hadoop+中台实战pdf
+ ## [分布式系统入门及创建](https://blog.csdn.net/weixin_42800427/article/details/107397583)
+ > 分布式系统入门及创建
+ ## [让小程序在自有App中启动的技术来了：mPaaS小程序架构深度解析](https://blog.csdn.net/alitech2017/article/details/107382335)
+ > 让小程序在自有App中启动的技术来了：mPaaS小程序架构深度解析
+ ## [互联网架构的演进之路](https://blog.csdn.net/zhj52666/article/details/107383434)
+ > 互联网架构的演进之路
+ ## [Linux后端开发环境搭建之安装Mysql](https://blog.csdn.net/weixin_44314183/article/details/107379423)
+ > Linux后端开发环境搭建之安装Mysql
+ ## [.Net Core +EF Core+Log4Net基本三层架构搭建](https://blog.csdn.net/qq_33101689/article/details/107363465)
+ > .Net Core +EF Core+Log4Net基本三层架构搭建
+ ## [Docker学习总结（51）——为什么不建议把数据库部署在 Docker 容器内的7大原因？](https://blog.csdn.net/u012562943/article/details/107346939)
+ > Docker学习总结（51）——为什么不建议把数据库部署在 Docker 容器内的7大原因？
+ ## [k8s环境下搭建prometheus](https://blog.csdn.net/XUEJIA2S/article/details/107392719)
+ > k8s环境下搭建prometheus
+ ## [我把Github上最牛b的Java教程和实战项目整合成了一个PDF文档](https://blog.csdn.net/x275920/article/details/107383745)
+ > 
+ ## [架构真经深有体会、感触很深](https://blog.csdn.net/a517091937/article/details/107398324)
+ > 架构真经深有体会、感触很深
 
     
