@@ -1,22 +1,32 @@
 ---
 title: 2020-07-19 IT News
 copyright: true
-date: 2020-07-19 10:03:11
+date: 2020-07-19 12:02:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G来了，2G/3G如何平滑退网?](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=IBs90Ncq0658mAwtJGMxXv1Z-fmOkv-emabTBAJnUObRj9L1Q8*pRdn8CgoUhPAUUDLALuRqBOwRxYOUfQoybhMOsuEwClNFNDtGY9lEvnk=&new=1)
- > 经济观察网 记者 沈怡然 在全球运营商重资布局5G之际，运营商是否有必要退2G/3G网、如何退网的话题备受关注。7月17日，记者从GSMA（全球移动通信系统协会）获悉，该协会在近期发布了《亚太2G/3G退网经验白皮书》...
- ## [这款无敌的微信小程序，竟然能免费看片?](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=F9Og8g1osOvb7K2k0y4ShPpmr3Otrqub*oPIeLP1GHSymZwGS5bnfSCR-eotQeyue*EDay6HwslffDo0uSYfOWDVyfw4V7Buvv2t8K-oi9s0bwYfqjn9JzGYUU-mROAu&new=1)
- > 提到看片，大家应该都会想到视频网站、影视APP等。为了看自己想看的片，手机里下载了好几个影视APP，这家没有的，只能上那家看，不光看，还得开好几个会员才行。但是，免费看视频福利来啦，在微信里就能直接打开...
- ## [未知大陆将打造线下数字制造产业园新生态](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=g8YFXjLFdky9gS3TZ1Ittr01PRJfWe9SWRys2W-XohnFujcsiLY1TxyNOk65ycNP5euSR2SeinuKNyafEPbx3FYHJMIFV81OUR9t80Vh-RSmtWWCtBRGsSg9rUJiZIAa&new=1)
- > 2020年4月19日，作为全球领先的数字制造云平台未知大陆将进一步赋能传统产业园的转型升级，协助其规划、建立线下的数字制造新生态，跟上政策变化，布局未来趋势。未知大陆将为传统产业园数字化升级带来以下服务...
- ## [\[科技早报7点整\]官方回应数百辆共享单车被丢垃圾场 上百名移民露宿贝索斯豪宅外呼吁向亿万富豪征税](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=zwn6kicAxI2UvG7lsGflyhohwFn0LZpHmXzgkrrNGbxZQc4ojqozfE2jC0BN4NCk6oByBMMyYrGVqdP02*LV2kLx5ORSp2rw-Ar5rlHB4cXgJ1rpxCrw*KKlKhUhHIkK&new=1)
+ ## [软件对于英特尔意味着什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=s50YR2zTakTpnF*fcPvB0csN3DFmcGjOlUQc3cmEJQStWINmgDEKTgOMkTQU4GKBmrliJiKDWNzE27*9cdhVEegsFx22sR7yhCY3Hz2rd-1pjq*mf17qiMENjfSlxCzy&new=1)
+ > 作者 | 屠敏头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnews）在芯片的世纪变迁中，有一家公司，栉风沐雨 50 载；其创始人提出的一个定律，推动了半个世纪的技术变革，也让自身一直保持迅猛发展的势头。微...
+ ## [即将开业的影院，20 亿美刀的元気森林和「五环外」的钉钉|极客一周](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=Rv7bBplYs8X9*k5lGIb*YZLUDj4XrHRY5kclaNHoa6zE5-UVuMfFqNwjnTLz48iqtpm0uNZjdwZHADRJZmju0sqfpn1zl-7HlId3B5tRZZHtP2ljVXh3wkuucq001DpR&new=1)
+ > 封了差不多半年之后，电影院终于要开门了；华为公布上半年财报，依然赚钱但更难了；元気森林已 20 亿美元估值进行新一轮融资，红杉加入；钉钉开始「下沉」。下周，你想和谁一起看电影有学者曾经断言，当宗教在现...
+ ## [细数中国经济“云”上新看点](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=5PzvE0FpGnC7Dh1FpgCXVWgwXOdggGhi6qIxhHyPwuTdtbAzh6eUCcs0UwX20iBH0mPGIsC6NEkjOac32Hv4Om1tRU*iaWp-sLKvpPkUrSU=&new=1)
+ > 这是一组“云”上中国的数据：上半年我国信息传输、软件和信息技术服务业增加值增长14.5%，实物商品网上零售额同比增长14.3%。天眼查专业版数据显示，以工商登记为准，我国今年前5个月新增人工智能相关企业...
+ ## [战斗机30%的零件都将是3D打印制造?英国武器厂商BAE定下大目标](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=t53C5QxaYG1czRDwUa7pcjeu7pMlr32QNMNVp8ZuZXN7jbDmS*NpBNYGKV7ftDGr6zaT0H8rw1MOPs-ff8nDFn9AEr3otjqPfQU7oYBW48LXRhoU-nu*m8UN7f6DrTC2&new=1)
+ > 导读：现在新的军事武器制造，越来越离不开3D打印技术。甚至英国Tempest（暴风）战斗机的零部件，设定了30%都是通过3D打印来制造的目标！下面南极熊将介绍一家名为英国BAE Systems的军事武器公司，拥有8.6万名员...
+ ## [\[科技早报7点整\]官方回应数百辆共享单车被丢垃圾场 上百名移民露宿贝索斯豪宅外呼吁向亿万富豪征税](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=zwn6kicAxI2UvG7lsGflyhohwFn0LZpHmXzgkrrNGbxZQc4ojqozfE2jC0BN4NCk8H4Ucr6Ew7FTo4CHhxcWm5hV5VKRR*zcwHwqHINFlzaiN9FUHqNzzqZ4HOBzLfG9&new=1)
  > 早上好，科技圈【一度蜜科技早报】第867期1.称快递员“快递小哥”：中通被指性别偏见近日，有网友发文称，中通快递微信小程序中，对快递员的默认称谓是“快递小哥”。这意味着，其默认快递员的性别是男性。该网...
- ## [苹果和三星将竞购Arm?这不是一个好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=RvbyuIB36f*O5WGEHkmAXVvjfrvkkSNCNDhIFpP5z9uwMB40818Q5ZQFrdOtnG5ZGByRgDDlhItgCZ40*nteGymZPooRjVvAxKIlfAlTZkPM1RtWjc1i0bSVMvPPkgcY&new=1)
+ ## [谷歌将禁止有关新冠阴谋论的广告;北京中风险区仅剩1个；台积电3nm晶体将代工苹果A16|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=2nZ9wZeia1IZf3P1SBUyUmfX5OijC03YoHAEhN9cukfD04Erh4isYpeKqnMZUzUBlMi2HMTDfQu0myns03aRESmPrgESwpCTfwnHZdTiNNzPnmyh2e7YU-kiErxIwy-v&new=1)
+ > 图 / IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【谷歌将禁止有关新冠阴谋论的广告】19日，据外媒报道，谷歌公布的最新的广告规则，从8月18日开始，将禁止有关传播新冠病毒阴谋论...
+ ## [5G来了，2G/3G如何平滑退网?](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=IBs90Ncq0658mAwtJGMxXv1Z-fmOkv-emabTBAJnUObzU5T9ZBMim1WODSXqGpmyYZfzkZx3e8itxNAMNb8y-fNIGjtjnPX1GfBtyms3yW0=&new=1)
+ > 经济观察网 记者 沈怡然 在全球运营商重资布局5G之际，运营商是否有必要退2G/3G网、如何退网的话题备受关注。7月17日，记者从GSMA（全球移动通信系统协会）获悉，该协会在近期发布了《亚太2G/3G退网经验白皮书》...
+ ## [这款无敌的微信小程序，竟然能免费看片?](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=F9Og8g1osOvb7K2k0y4ShPpmr3Otrqub*oPIeLP1GHSymZwGS5bnfSCR-eotQeyu3C--oYnYPfq0O5XitcWTZxB6Co4A0dZIiyYfuviogu5OMuNkP0jtfnBkFa4KBR0N&new=1)
+ > 提到看片，大家应该都会想到视频网站、影视APP等。为了看自己想看的片，手机里下载了好几个影视APP，这家没有的，只能上那家看，不光看，还得开好几个会员才行。但是，免费看视频福利来啦，在微信里就能直接打开...
+ ## [未知大陆将打造线下数字制造产业园新生态](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=g8YFXjLFdky9gS3TZ1Ittr01PRJfWe9SWRys2W-XohnFujcsiLY1TxyNOk65ycNPuMkuPSIjoJwG8HPWSdsgY0JsCOVmjowXe2EO7B20i4*z3CFHTu7vqpx*wZ04qBQM&new=1)
+ > 2020年4月19日，作为全球领先的数字制造云平台未知大陆将进一步赋能传统产业园的转型升级，协助其规划、建立线下的数字制造新生态，跟上政策变化，布局未来趋势。未知大陆将为传统产业园数字化升级带来以下服务...
+ ## [苹果和三星将竞购Arm?这不是一个好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=RvbyuIB36f*O5WGEHkmAXVvjfrvkkSNCNDhIFpP5z9uwMB40818Q5ZQFrdOtnG5ZVwHJJlKkwTwJQQV3Mo9nXiA*Ppm2MBRy22nwoWdc638y5jXrsVkxmmV0UDlGQqO*&new=1)
  > 日前，业内传闻日本软银集团正同时有考虑出售旗下全资子公司Arm，或让Arm通过IPO上市以实现资本化。据《韩国时报》报导称，软银对于Arm的最新估值为410亿美元。近日，业内有传闻称，苹果可能会接盘Arm，同时韩国...
- ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595122204&ver=2469&signature=D*iYmDqhoah3IJ8oNz5eB73gcHQB3e3r1MI9g6H63JZENZdI4VvACn0KQSJWgC7o9tAQz9w1EC4Auy1EqIobCya14o7zT-cUjQWRfTnaM0h6pbUXV1i28wRRp7jVehGm&new=1)
+ ## [下设15个处室：中国电信最大职能部门或调整](http://mp.weixin.qq.com/s?src=11&timestamp=1595129447&ver=2469&signature=D*iYmDqhoah3IJ8oNz5eB73gcHQB3e3r1MI9g6H63JZENZdI4VvACn0KQSJWgC7ovjzIpHQ8Qn6D5rHOw4nbhyVVdy64oRkwUK-F8Aoczxt6wYwU2nndZIxpu1hnmtnO&new=1)
  > 据运营商财经网报道，中国电信新成立的云网运营部处室进行了相关调整，其中原先的一个处相关职责全部划转至5G共建共享工作组。去年年底，中国电信进行了部门架构改革，涉及多个部门。其中宣布撤销网络运行维护事...
 # IT 技术 
  ## [干掉xxl-job：elastic-job王者归来？](http://developer.51cto.com/art/202007/621233.htm)
@@ -35,24 +45,26 @@ categories: IT NEWS
  > 13种GitHub的顶级替代工具
  ## [基于威胁的网络安全动态防御研究](http://netsecurity.51cto.com/art/202007/621124.htm)
  > 基于威胁的网络安全动态防御研究
+ ## [再见！QQ邮箱又一大功能宣布近期下线](http://mobile.51cto.com/app-show-621304.htm)
+ > 近日，不少登录QQ邮箱的网友会发现，其中有一条公告写到：“很抱歉通知你，QQ邮件订阅、订阅中心以及阅读动
+ ## [微软承认Windows 10新BUG：错误显示没有网络连接](http://os.51cto.com/art/202007/621303.htm)
+ > 在 7 月补丁星期二活动中，微软发布的累积更新已经修复 Windows 10 系统中的大量 BUG。不过近日，微软承认
+ ## [Python用27行代码绘制一幅满天星](http://developer.51cto.com/art/202007/621302.htm)
+ > 每一个孩子都像星空中的一颗星星，散发着自己所特有的光芒照亮着整个夜空。今天就带大家用27行Python代码绘
+ ## [百万级MySQL的数据量，该如何快速的完成数据迁移？](http://database.51cto.com/art/202007/621301.htm)
+ > 上个月跟朋友一起做了个微信小程序，趁着5.20节日的热度，两个礼拜内迅速积累了一百多万用户，我们在小程序
+ ## [运营商2G/3G退网或将加速](http://network.51cto.com/art/202007/621300.htm)
+ > 随着4G覆盖加深，5G商用范围不断扩大，2G、3G技术落后尾大不掉、设备老旧、能耗效率低下、维修困难，占用优
+ ## [Kubernetes中锁机制的设计与实现](http://developer.51cto.com/art/202007/621299.htm)
+ > 资源锁是通过一个资源的CRUD操作，然后配合分布式锁的一些机制来完成，分布式环境中Leader节点的选举，今天
+ ## [C++整数常量的前缀和后缀](http://developer.51cto.com/art/202007/621298.htm)
+ > 在C/C++中，整数常量可以加上不同的前缀，表示不同的进制：十进制：不带前缀，默认表示为十进制；八进制：0
  ## [Pandas万花筒：让绘图变得更美观](http://bigdata.51cto.com/art/202007/621297.htm)
  > 流行 Python 数据分析库 Pandas 中的绘图功能一直是迅速绘制图表的首选之一。但是，其可用的可视化效果总是
  ## [技术巨头会如何布局自己的区块链战略？](http://blockchain.51cto.com/art/202007/621296.htm)
  > 对于区块链领域的初创企业而言，仔细分析这些大公司选择的方向可以为自己提供机会。本文将研究技术巨头在区
  ## [Python Debug(调试)的终极指南](http://developer.51cto.com/art/202007/621295.htm)
  > 很多人使用一堆print语句来查看代码中发生了什么。这种方法远不是理想的，有更好的方法可以找出代码的错误
- ## [为了更好的代码：12个Python小窍门](http://developer.51cto.com/art/202007/621294.htm)
- > 使用和学习Python的人不在少数，但是真正掌握了解这门语言的人并不多。你了解最新的Python功能和技术吗?这1
- ## [PHP 8.0新功能：Match表达式](http://developer.51cto.com/art/202007/621293.htm)
- > 本文我们要说PHP8带来新引入的语法match表达式语法，可以说是PHP 8引入的最好的功能之一，它使用类似switch
- ## [如何保护Windows网络免受勒索软件攻击](http://netsecurity.51cto.com/art/202007/621292.htm)
- > 网络安全专家介绍，有些攻击是使用了一个预定的任务。用户可以在事件日志中查看类似的未经授权的活动。按照
- ## [物联网带来的六大运营挑战](http://iot.51cto.com/art/202007/621291.htm)
- > 根据Vanson Bourne的一项调查(通过IoT Now)，大约有四分之三的CIO担心IoT性能问题“会破坏运营并损害收入”
- ## [4种拯救生命的物联网技术](http://iot.51cto.com/art/202007/621290.htm)
- > 也许您对物联网设备的第一印象是作为娱乐性小工具，比如智能扬声器，但是，它们也可以拯救生命，这里有四个
- ## [人工智能、物联网和大数据如何拯救蜜蜂](http://ai.51cto.com/art/202007/621289.htm)
- > 根据世界蜜蜂计划的创始人兼执行总裁萨比哈・鲁曼尼・马利克的说法，传粉媒介的数量正在减少。通过与Oracle
  ## [\[网络安全自学篇\] 八十七.恶意代码检测技术详解及总结](https://blog.csdn.net/Eastmount/article/details/106975996)
  > 
  ## [滴滴亮相第15届“开源中国开源世界”高峰论坛，并获重要奖项](https://blog.csdn.net/DiDi_Tech/article/details/107371105)
@@ -84,35 +96,35 @@ categories: IT NEWS
  ## [Lazada和Shopee：瞄准6亿人口东南亚市场的两大主流电商平台](https://blog.csdn.net/universsky2015/article/details/107017234)
  > Lazada和Shopee：瞄准6亿人口东南亚市场的两大主流电商平台
 # 人工智能 
- ## [Spark快速入门系列(6) | Spark环境搭建—standalone(3) 配置HA高可用模式](https://blog.csdn.net/qq_16146103/article/details/107403917)
- > Spark快速入门系列(6) | Spark环境搭建—standalone(3) 配置HA高可用模式
- ## [快速入门Flink (1) —— Flink的简介与架构体系](https://blog.csdn.net/weixin_44318830/article/details/107364968)
- > 快速入门Flink (1) —— Flink的简介与架构体系
- ## [阿里技术文档：Redis+Nginx+Spring全家桶+Dubbo精选](https://blog.csdn.net/weixin_46757553/article/details/107382868)
- > 阿里技术文档：Redis+Nginx+Spring全家桶+Dubbo精选
- ## [他每天下班后学习2小时，拿到了滴滴/头条/京东等大厂Java岗offer](https://blog.csdn.net/rxh811/article/details/107387224)
- > 他每天下班后学习2小时，拿到了滴滴/头条/京东等大厂Java岗offer
- ## [大数据技术之HBase系统知识整理（从安装到熟练操作）](https://blog.csdn.net/IronmanJay/article/details/107291472)
- > 大数据技术之HBase系统知识整理（从安装到熟练操作）
- ## [阿里巴巴资深架构师熬几个通宵肛出来的Spark+Hadoop+中台实战pdf](https://blog.csdn.net/weixin_45132238/article/details/107392973)
- > 阿里巴巴资深架构师熬几个通宵肛出来的Spark+Hadoop+中台实战pdf
- ## [分布式系统入门及创建](https://blog.csdn.net/weixin_42800427/article/details/107397583)
- > 分布式系统入门及创建
- ## [让小程序在自有App中启动的技术来了：mPaaS小程序架构深度解析](https://blog.csdn.net/alitech2017/article/details/107382335)
- > 让小程序在自有App中启动的技术来了：mPaaS小程序架构深度解析
- ## [互联网架构的演进之路](https://blog.csdn.net/zhj52666/article/details/107383434)
- > 互联网架构的演进之路
- ## [Linux后端开发环境搭建之安装Mysql](https://blog.csdn.net/weixin_44314183/article/details/107379423)
- > Linux后端开发环境搭建之安装Mysql
- ## [.Net Core +EF Core+Log4Net基本三层架构搭建](https://blog.csdn.net/qq_33101689/article/details/107363465)
- > .Net Core +EF Core+Log4Net基本三层架构搭建
- ## [Docker学习总结（51）——为什么不建议把数据库部署在 Docker 容器内的7大原因？](https://blog.csdn.net/u012562943/article/details/107346939)
- > Docker学习总结（51）——为什么不建议把数据库部署在 Docker 容器内的7大原因？
- ## [k8s环境下搭建prometheus](https://blog.csdn.net/XUEJIA2S/article/details/107392719)
- > k8s环境下搭建prometheus
- ## [我把Github上最牛b的Java教程和实战项目整合成了一个PDF文档](https://blog.csdn.net/x275920/article/details/107383745)
+ ## [JavaScript基础内功系列，这十篇文章里一定有你感兴趣的](https://blog.csdn.net/jbj6568839z/article/details/107402963)
  > 
- ## [架构真经深有体会、感触很深](https://blog.csdn.net/a517091937/article/details/107398324)
- > 架构真经深有体会、感触很深
+ ## [九折扫雷？我也就看一遍就会了！](https://blog.csdn.net/vangoudan/article/details/107389527)
+ > 
+ ## [C++学习书籍推荐（步步为营）](https://blog.csdn.net/qq_36075612/article/details/107400574)
+ > C++学习书籍推荐（步步为营）
+ ## [【Python】从0到1：150代码搞定贪吃蛇！（可直接copy + 运行哦~）](https://blog.csdn.net/weixin_46836893/article/details/107369907)
+ > 【Python】从0到1：150代码搞定贪吃蛇！（可直接copy + 运行哦~）
+ ## [Java实现猜数字小游戏,提示Math这个类的random()方法获取随机数，然后产生1-100之间的随机数,键盘录入的数据和随机数进行比较，](https://blog.csdn.net/ZR_Java/article/details/107424226)
+ > Java实现猜数字小游戏,提示Math这个类的random()方法获取随机数，然后产生1-100之间的随机数,键盘录入的数据和随机数进行比较，
+ ## [Unity HDRP管线中快速制作Mask贴图工具](https://blog.csdn.net/qq_23936433/article/details/107433042)
+ > Unity HDRP管线中快速制作Mask贴图工具
+ ## [用SDL2写推箱子](https://blog.csdn.net/qq_45637639/article/details/107429545)
+ > 用SDL2写推箱子
+ ## [ZigZagK的生成树](https://blog.csdn.net/yhhy666/article/details/107423677)
+ > ZigZagK的生成树
+ ## [Java入门之猜数字小游戏](https://blog.csdn.net/weixin_45906658/article/details/107418444)
+ > Java入门之猜数字小游戏
+ ## [红警win10黑屏问题 只有声音没有图像的解决](https://blog.csdn.net/qq_43541242/article/details/107419357)
+ > 红警win10黑屏问题 只有声音没有图像的解决
+ ## [大数据专业认知实习](https://blog.csdn.net/weixin_49463849/article/details/107426496)
+ > 大数据专业认知实习
+ ## [暑假集训7月17日 递归与回溯](https://blog.csdn.net/weixin_45456255/article/details/107426265)
+ > 暑假集训7月17日 递归与回溯
+ ## [贪吃蛇源码，免费，直接复制即可](https://blog.csdn.net/m0_46291458/article/details/107427580)
+ > 贪吃蛇源码，免费，直接复制即可
+ ## [JavaScript基础之初识JS](https://blog.csdn.net/weixin_47551467/article/details/107418539)
+ > JavaScript基础之初识JS
+ ## [EOJ Monthly 2020.7 Sponsored by TuSimple（A 签到 B 签到 C 思维+二维前缀和 E dfs 构造）](https://blog.csdn.net/qq_41286356/article/details/107418429)
+ > EOJ Monthly 2020.7 Sponsored by TuSimple（A 签到 B 签到 C 思维+二维前缀和 E dfs 构造）
 
     
