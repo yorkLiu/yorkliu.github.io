@@ -1,21 +1,21 @@
 ---
 title: 2020-07-21 IT News
 copyright: true
-date: 2020-07-21 08:00:57
+date: 2020-07-21 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [倒数2天|RedHat红帽资深架构师讲解OpenShift如何加速AI/ML](http://mp.weixin.qq.com/s?src=11&timestamp=1595289605&ver=2473&signature=0Z2g8OsvrZ9Ut010rCmcPoM6katup4KCj73Lo4S*kCJ3RGkK5uIjhChVgzyJyuCaWV8SCkNydRpk8Cj7e9BdpRA8DNI3jXp6k*R7aVTgFF6w9U8KMdCu*QRqsvsxgvJ2&new=1)
- > 7月22日20点，“英特尔智能机器人产学研合作系列研讨会”第六场研讨会即将来临，本次将聚焦“数据中台”，和各行业专家深入探讨数据中台技术、数字化转型以及落地应用，2天后你将看到哪些精彩内容？今天来预习第...
- ## [重磅：5G用户数破亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1595289605&ver=2473&signature=fqpmRud--7Ln0ZHrh2GxSahPHA0as*qAY9*gkm9du52KdZE7KzUuYpst90AzoR1lmeTfupU2OXPlTgYkJqciwwszYB-kohmTi8iud05IQsdvKYZs7rsg-TEUo9Vtc19x&new=1)
- > 7月20日，三大运营商公布2020年6月运营数据。在移动业务方面：中国移动6月份移动用户总数为9.47亿，其中4G用户数为7.6亿，5G套餐用户数为7020万。中国电信6月份移动用户总数为3.43亿，其中5G套餐用户数为3784万...
- ## [吊打全世界，这家印度公司五个月成功自研了5G技术?!](http://mp.weixin.qq.com/s?src=11&timestamp=1595289605&ver=2473&signature=mz174vL3cAroEM1y8BWaYQed-FgJJ--x7lUeotkF4xzUC0W*8XVd28seLazE61dyTHeUXN2B2HnPb15UsgEGu-fhpmC8yAtkO6Dm*3sywwvcBTyJbpj3KPiqn-tPtpoM&new=1)
- > 上周印度媒体的一条消息震惊了一把编辑部里的各位小伙伴。印度运营商 Jio 宣布，他们已经从无到有 “ 完全自研 ” 了一套 5G 解决方案。除了能用在未来自家的 5G 网络上之外，还有望出口给其他国家。然后顺便支...
- ## [实测|谁是最强扫地僧，米家、云鲸、石头、科沃思、iRobot大乱斗](http://mp.weixin.qq.com/s?src=11&timestamp=1595289605&ver=2473&signature=SO0lNjUK2ItmcNMOalrVHQhVs2yF7hgaBX*ONfTCXL5mRzyGIhEOR0whV9VTNbn*kcypTcK3QF2rzp3T2QsxW6kG0zkenwXpqBOkB*suHLys3-4vXIvDzRCuOD0W6JDe&new=1)
+ ## [实测|谁是最强扫地僧，米家、云鲸、石头、科沃思、iRobot大乱斗](http://mp.weixin.qq.com/s?src=11&timestamp=1595293205&ver=2473&signature=SO0lNjUK2ItmcNMOalrVHQhVs2yF7hgaBX*ONfTCXL5dNSTkXVezH4*7DtRg-CjP*4kL6w7lQdyVpHC1bqsZodA4RnllkURoAnP4O7WBewbUta3hN598s*DB-0gN6G8k&new=1)
  > 好的生活，不难也不贵2019 年美国 CES 展上评选出本届 CES 最佳产品，除了华为、戴尔、三星等知名公司的产品入选外，还包括来自中国的全球首款拖地机器人—— NARWAL 云鲸 J1 。每日邮报、福克斯等一线媒体媒体...
- ## [远程软件公司TeamViewer收购Ubimax](http://mp.weixin.qq.com/s?src=11&timestamp=1595289605&ver=2473&signature=2nbjqNjlKbUrHfmS6Sz-IQ9l*2ghm9iWRWVrL18QiAQtea*TfX2zhnS5SMQGcajrXOngfTkGgtprbYlHKL*MycWZUX82626SMxEcBau2jAXwvH0C15*2Slzk0RPgTj0d&new=1)
+ ## [重磅：5G用户数破亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1595293205&ver=2473&signature=fqpmRud--7Ln0ZHrh2GxSahPHA0as*qAY9*gkm9du50CgtwCgEZx27pxNgUkvW7nzABeSXG3I2nKqifvLJNwDQVBnbYVsECUqFpano9TfsVpVs1JJlqdr9C2X5kYXnWc&new=1)
+ > 7月20日，三大运营商公布2020年6月运营数据。在移动业务方面：中国移动6月份移动用户总数为9.47亿，其中4G用户数为7.6亿，5G套餐用户数为7020万。中国电信6月份移动用户总数为3.43亿，其中5G套餐用户数为3784万...
+ ## [吊打全世界，这家印度公司五个月成功自研了5G技术?!](http://mp.weixin.qq.com/s?src=11&timestamp=1595293205&ver=2473&signature=mz174vL3cAroEM1y8BWaYQed-FgJJ--x7lUeotkF4xwcfxTbveblqt35yoZK1ui1UGZ-8bQo3pd8sVmKnMB2uFMDnLK7nJt1xUV6pB9rTfomYAvl2UltWell6lT1qA7Y&new=1)
+ > 上周印度媒体的一条消息震惊了一把编辑部里的各位小伙伴。印度运营商 Jio 宣布，他们已经从无到有 “ 完全自研 ” 了一套 5G 解决方案。除了能用在未来自家的 5G 网络上之外，还有望出口给其他国家。然后顺便支...
+ ## [远程软件公司TeamViewer收购Ubimax](http://mp.weixin.qq.com/s?src=11&timestamp=1595293205&ver=2473&signature=2nbjqNjlKbUrHfmS6Sz-IQ9l*2ghm9iWRWVrL18QiAQgEFExvj5COv5Byj3Udb*vlWLg86rNa7WqRmzM5PsopRzN1BdqhtrcNRR-yct2RegWmP0XHeg3Z0V*p5FTOHsr&new=1)
  > 德国软件公司TeamViewer近日宣布收购AR（Augmented Reality，增强现实）软件公司Ubimax。据路透社透露本次交易将以现金和股票方式支付，交易额达到1.365亿欧元（约合人民币10.916亿元）。该公司旗下远程软件T
+ ## [倒数2天|RedHat红帽资深架构师讲解OpenShift如何加速AI/ML](http://mp.weixin.qq.com/s?src=11&timestamp=1595293205&ver=2473&signature=0Z2g8OsvrZ9Ut010rCmcPoM6katup4KCj73Lo4S*kCLa*eoDPq9e3C*ErSlC1eoRYv1v4NAYDO3o3Hehhd1Bx3cJEwcMy5sZ8-S-*ZOvECKlAFNzPI5cTTKnD8r*jt*6&new=1)
+ > 7月22日20点，“英特尔智能机器人产学研合作系列研讨会”第六场研讨会即将来临，本次将聚焦“数据中台”，和各行业专家深入探讨数据中台技术、数字化转型以及落地应用，2天后你将看到哪些精彩内容？今天来预习第...
 # IT 技术 
  ## [黑客如何通过侧信道实现“隔空取物”](http://netsecurity.51cto.com/art/202007/621449.htm)
  > 黑客如何通过侧信道实现“隔空取物”
@@ -37,65 +37,34 @@ categories: IT NEWS
  > 从跟踪蜜蜂种群到减少全球碳排放量，有许多物联网选项可用于保护自然资源，但是在现有基础架构中实施解决方
  ## [CSDN 创始人蒋涛：开源吞噬世界，得开发者得天下](https://blog.csdn.net/csdnnews/article/details/107410701)
  > CSDN 创始人蒋涛：开源吞噬世界，得开发者得天下
+ ## [架构师之路，2020半年精选！！！](https://blog.csdn.net/shenjian58/article/details/107421154)
+ > 架构师之路，2020半年精选！！！
  ## [\[网络安全自学篇\] 八十八.基于机器学习的恶意代码检测技术详解](https://blog.csdn.net/Eastmount/article/details/107420755)
+ > 
+ ## [（win环境）使用Electron打造一个桌面应用翻译小工具](https://blog.csdn.net/qq_39045645/article/details/107020158)
  > 
  ## [数据库和缓存一致性的问题](https://blog.csdn.net/21aspnet/article/details/105249941)
  > 数据库和缓存一致性的问题
- ## [正在工作的程序员，生活状态都很苦逼？](https://blog.csdn.net/qing_gee/article/details/107435842)
- > 正在工作的程序员，生活状态都很苦逼？
  ## [Linux之获得NVIDIA显卡GPU_ARCHS方法](https://blog.csdn.net/zong596568821xp/article/details/106411024)
  > Linux之获得NVIDIA显卡GPU_ARCHS方法
- ## [架构师之路，2020半年精选！！！](https://blog.csdn.net/shenjian58/article/details/107421154)
- > 架构师之路，2020半年精选！！！
- ## [MySQL复制表的三种方式](https://blog.csdn.net/ThinkWon/article/details/106610810)
- > MySQL复制表的三种方式
  ## [JSP战力倍增器----JSTL详解](https://blog.csdn.net/qq_34666857/article/details/106759783)
+ > 
+ ## [服务器软件大扫盲](https://blog.csdn.net/qing_gee/article/details/106185250)
  > 
  ## [JVM核心知识点梳理以及JVM面试题总结](https://blog.csdn.net/Design407/article/details/107109757)
  > 
- ## [成为最好的 bestJavaer](https://blog.csdn.net/qq_36894974/article/details/106728472)
- > 
  ## [CentOS常见命令之防火墙](https://blog.csdn.net/weixin_39723544/article/details/106559997)
  > CentOS常见命令之防火墙
- ## [服务器软件大扫盲](https://blog.csdn.net/qing_gee/article/details/106185250)
+ ## [你会用css写一个加载动画吗？](https://blog.csdn.net/qq_39045645/article/details/105670102)
+ > 你会用css写一个加载动画吗？
+ ## [推荐两款程序员必备的画图神器](https://blog.csdn.net/u010648555/article/details/106141769)
  > 
+ ## [MySQL复制表的三种方式](https://blog.csdn.net/ThinkWon/article/details/106610810)
+ > MySQL复制表的三种方式
  ## [Kubernetes：从4个方面增强Kubernetes环境的安全性](https://blog.csdn.net/fly910905/article/details/106679672)
  > Kubernetes：从4个方面增强Kubernetes环境的安全性
- ## [《三天给你聊清楚redis》第1天先唠唠redis是个啥（18629字）](https://blog.csdn.net/hebtu666/article/details/107262808)
- > 
  ## [使用Power Apps实现SharePoint Online列表的下拉菜单的级联选择](https://blog.csdn.net/shrenk/article/details/105674025)
  > 使用Power Apps实现SharePoint Online列表的下拉菜单的级联选择
-# 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 # PM 
  ## [营销活动工具设计-大转盘](http://www.chanpin100.com/article/112261)
  > 大转盘活动就是通过概率互动行为，利用大众消费者侥幸心理，以及对奖品的渴望，来激励用户参与活动，最终转化订单或加深品牌印象。
