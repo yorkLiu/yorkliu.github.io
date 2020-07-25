@@ -1,21 +1,21 @@
 ---
 title: 2020-07-25 IT News
 copyright: true
-date: 2020-07-25 08:00:54
+date: 2020-07-25 09:01:23
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [深夜重磅!芯片历史性突破，这公司市值立马飙升3000亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1595635205&ver=2481&signature=kURIjP8Zs5ph*EdaLnUV6XfDvK8tUP-ecY*qiBqiQ2*cQWux6lJMXvSLRmJRnUdGpiewq95VzZm7DtRgoxaz4elTzmGSmRa0vls5OHL7fTnnTDbeDAa75kGTiYIVwVq7&new=1)
- > 中国基金报记者 吴羽刚刚，芯片巨头——中国台湾的台积电（TSM）股价暴涨超10%，市值暴涨近3000亿元。 或迎来英特尔的外包2nm研发有重大突破今晚美股开盘，台积电股价开盘大涨近 14%，股价再创历史新高。截至发...
- ## [闪造三维入驻未知大陆，可3D打印大尺寸ABS工程塑料](http://mp.weixin.qq.com/s?src=11&timestamp=1595635205&ver=2481&signature=1oCfxqeA0qUUVFFh2eZh3a45bJRuxUNZHEhAWGZ1yfU8SIHBl*kwbQLKWDHSn7bidla8Bf3aCcD3xohGY4IF3AOQw7*C*VkMnjWPiSuX1*HQTia390LTxm1iwdfIWlk4&new=1)
+ ## [闪造三维入驻未知大陆，可3D打印大尺寸ABS工程塑料](http://mp.weixin.qq.com/s?src=11&timestamp=1595637066&ver=2481&signature=1oCfxqeA0qUUVFFh2eZh3a45bJRuxUNZHEhAWGZ1yfU8SIHBl*kwbQLKWDHSn7bihajuXjfcdQ3t59es4PHk8ewADTqe3yMlW2EuIYwr5UHOyQsDhpUVrxj28IU1UhpO&new=1)
  > 2020年7月24日，江苏闪造三维科技有限公司在未知大陆平台开设的3D打印服务网店(&gt;&gt;阅读原文)正式上线运营。其优势是可提供最大尺寸1.3m*1.3m的塑料3D打印，误差不超过0.5mm，同时可批量化生产，这将会更广泛的服...
- ## [7月30日晚8点，英特尔专家、极智嘉研发总监分享Realsense技术和落地应用案例，前排感受机器视觉技术魅力!](http://mp.weixin.qq.com/s?src=11&timestamp=1595635205&ver=2481&signature=5t-96MboBlUqVuIpjOdneTzdSyUMahNCv0NwpZT4bf68AzQsTGtsk69PY0rFR9SnkEC9KWF8SyCzE61O4jUJx1wBB9HOwkDeEsjwqWRqGa6o7T9TcpAUd3fnQ*8a6tz6&new=1)
- > 近年来，随着我国人口红利逐渐消失，用人成本持续上升，减少人工、提高仓储自动化水平已是大势所趋，物流机器人在提高作业效率、降低工作人员劳动强度、优化资源、减少成本等方面的重要作用进一步凸显，而其中，...
- ## [6万人花2.5万话费买聊天服务 终于被欧洲警方端掉了](http://mp.weixin.qq.com/s?src=11&timestamp=1595635205&ver=2481&signature=4pOn0GFm*N369HySHpMg4bCKWjYsND1kWKKAWdFytHFmbP0NBM6eN6gSQEOlgTG03QnvP-6K10zPfSQhTBrm0WI9qXdDUIVwLJVgfuViesNeFVtmKeUKBRV1y6aqUO8l&new=1)
+ ## [6万人花2.5万话费买聊天服务 终于被欧洲警方端掉了](http://mp.weixin.qq.com/s?src=11&timestamp=1595637066&ver=2481&signature=4pOn0GFm*N369HySHpMg4bCKWjYsND1kWKKAWdFytHFmbP0NBM6eN6gSQEOlgTG0HRhMlzxPL51gmlIFBG0YyyYo9pjAV9qTAJe7HP0G3D-8cozMcbAICzISADilfWWn&new=1)
  > 你一个月的话费是多少钱呢？可能是几十块，也可能是几百块。你知道吗？在欧洲每年有6万的用户每个人花费2.5万元的话费购买一项服务。究竟是什么服务这么值钱呢？大家不要想多了，我们今天来一起看一下。手机，已...
- ## [华为突然摊牌!!](http://mp.weixin.qq.com/s?src=11&timestamp=1595635205&ver=2481&signature=3mPqF0VVWcdh-PGc3p7MKzw0SMp2*eiXactr9BYGro2sSRETGIdxW3KLiQYJ1Dkc7MTN5fHoceMFOVPO30FRB7CClnbvs6skiIzwzQXRWGqHptbCQdO*1MPO04UFXpZX&new=1)
+ ## [深夜重磅!芯片历史性突破，这公司市值立马飙升3000亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1595637066&ver=2481&signature=kURIjP8Zs5ph*EdaLnUV6XfDvK8tUP-ecY*qiBqiQ2*cQWux6lJMXvSLRmJRnUdGQ1WTilenEMM9iW70uUN6idZL4WsEkNL-B*TW1mfvTLMUl*CREZsGCk-TsWL5v0nb&new=1)
+ > 中国基金报记者 吴羽刚刚，芯片巨头——中国台湾的台积电（TSM）股价暴涨超10%，市值暴涨近3000亿元。 或迎来英特尔的外包2nm研发有重大突破今晚美股开盘，台积电股价开盘大涨近 14%，股价再创历史新高。截至发...
+ ## [华为突然摊牌!!](http://mp.weixin.qq.com/s?src=11&timestamp=1595637066&ver=2481&signature=3mPqF0VVWcdh-PGc3p7MKzw0SMp2*eiXactr9BYGro2sSRETGIdxW3KLiQYJ1DkcYgOX0x2GS4cGKsgyJ0BP41QIZ1Y*id9xUC-bGXYztqMeUsfzDyPZ4UgH1rYZU1V4&new=1)
  > 导  读在今年5月18日的华为公司第十七届全球分析师大会上，华为轮值董事长郭平表示，求生存，是华为现在的主题词。在美国政府的咄咄逼人下，华为显然急需谋求破局。是否要进军光刻机制造或者半导体设备领域，或...
+ ## [7月30日晚8点，英特尔专家、极智嘉研发总监分享Realsense技术和落地应用案例，前排感受机器视觉技术魅力!](http://mp.weixin.qq.com/s?src=11&timestamp=1595637066&ver=2481&signature=5t-96MboBlUqVuIpjOdneTzdSyUMahNCv0NwpZT4bf68AzQsTGtsk69PY0rFR9Sn0Cvj9cpzwgn6YjpKVltj1CM9Ss1tJCCh8-fHjpxjKzRRxnR0wIe-yd2HP-VvB8Af&new=1)
+ > 近年来，随着我国人口红利逐渐消失，用人成本持续上升，减少人工、提高仓储自动化水平已是大势所趋，物流机器人在提高作业效率、降低工作人员劳动强度、优化资源、减少成本等方面的重要作用进一步凸显，而其中，...
 # IT 技术 
  ## [Laravel框架从9处助力Web应用开发](http://developer.51cto.com/art/202007/621703.htm)
  > Laravel框架从9处助力Web应用开发
@@ -31,69 +31,69 @@ categories: IT NEWS
  > 七种工业物联网的关键应用
  ## [对不起，网上找的Redis分布式锁都有漏洞！](http://netsecurity.51cto.com/art/202007/621741.htm)
  > 对不起，网上找的Redis分布式锁都有漏洞！
- ## [【王佩丰】Word长文档编辑](http://fellow.51cto.com/art/202007/621563.htm?qd=51ctojrzd)
- > 【王佩丰】Word长文档编辑
+ ## [Oracle培训速成版（16）：Oracle性能优化诊断](http://fellow.51cto.com/art/202007/621853.htm?qd=51ctojrzd)
+ > Oracle培训速成版（16）：Oracle性能优化诊断
  ## [程序员必备基础：Git 命令全方位学习](https://blog.csdn.net/weiwenhou/article/details/106985423)
  > 
  ## [阿里面试官问我Mybatis，我怂了吗？](https://blog.csdn.net/Java_3y/article/details/107525237)
  > 
- ## [字节跳动基于Flink的MQ-Hive实时数据集成](https://blog.csdn.net/ByteDanceTech/article/details/107328908)
- > 字节跳动基于Flink的MQ-Hive实时数据集成
- ## [\[Pyhon大数据分析\] 五.人民网新闻话题抓取及Gephi构建主题知识图谱](https://blog.csdn.net/Eastmount/article/details/105462139)
- > 
- ## [连续 3 年最受欢迎：Rust，香！](https://blog.csdn.net/alitech2017/article/details/107485225)
- > 连续 3 年最受欢迎：Rust，香！
- ## [Django+Vue开发生鲜电商平台之3.数据模型设计和资源导入](https://blog.csdn.net/CUFEECR/article/details/107495118)
- > Django+Vue开发生鲜电商平台之3.数据模型设计和资源导入
- ## [Apple有史以来屏幕最大的手机iPhone 12最新超详细揭秘](https://blog.csdn.net/mydo/article/details/106362027)
- > 
- ## [浅谈一家全球电商在Kubernetes环境上的CI/CD落地与实践](https://blog.csdn.net/M2l0ZgSsVc7r69eFdTj/article/details/106484783)
- > 浅谈一家全球电商在Kubernetes环境上的CI/CD落地与实践
  ## [\[网络安全自学篇\] 八十五.《Windows黑客编程技术详解》之注入技术详解（全局钩子、远线程钩子、突破Session 0注入、APC注入）](https://blog.csdn.net/Eastmount/article/details/106929277)
- > 
- ## [Java是如何实现Future模式的？万字详解！](https://blog.csdn.net/biaolianlao0449/article/details/106968268)
  > 
  ## [第二弹！「Java面试题精华集」1w字的Java集合框架篇（2020最新版）！](https://blog.csdn.net/qq_34337272/article/details/107006078)
  > 
- ## [大数据相关资料论文小结](https://blog.csdn.net/jiangzhali1623/article/details/107391412)
- > 大数据相关资料论文小结
+ ## [Java是如何实现Future模式的？万字详解！](https://blog.csdn.net/biaolianlao0449/article/details/106968268)
+ > 
  ## [JVM 面试都问些啥？看这一篇就够了](https://blog.csdn.net/JiuZhang_ninechapter/article/details/106984966)
  > JVM 面试都问些啥？看这一篇就够了
- ## [Hadoop 2.6.0升级至Hadoop 3.2.1及回滚](https://blog.csdn.net/zyzzxycj/article/details/106928430)
- > Hadoop 2.6.0升级至Hadoop 3.2.1及回滚
- ## [Swagger2常用注解说明](https://blog.csdn.net/ThinkWon/article/details/107477801)
- > Swagger2常用注解说明
+ ## [蚂蚁金服上市了，我不想努力了](https://blog.csdn.net/f641385712/article/details/107494209)
+ > 蚂蚁金服上市了，我不想努力了
+ ## [Apple有史以来屏幕最大的手机iPhone 12最新超详细揭秘](https://blog.csdn.net/mydo/article/details/106362027)
+ > 
+ ## [连续 3 年最受欢迎：Rust，香！](https://blog.csdn.net/alitech2017/article/details/107485225)
+ > 连续 3 年最受欢迎：Rust，香！
+ ## [乘风破浪的 SQL](https://blog.csdn.net/horses/article/details/107185387)
+ > 乘风破浪的 SQL
+ ## [动手智能小车记(5)-坦克底盘硬件模块大杂烩](https://blog.csdn.net/morixinguan/article/details/106991090)
+ > 动手智能小车记(5)-坦克底盘硬件模块大杂烩
+ ## [【两万字】面试官：听说你很懂集合源码，接我二十道问题！](https://blog.csdn.net/vi_young_95/article/details/106983505)
+ > 
+ ## [IDEA使用指北](https://blog.csdn.net/qq_43371556/article/details/106873343)
+ > 
+ ## [PageHelper 分页插件](https://blog.csdn.net/qq_37143673/article/details/105290044)
+ > PageHelper 分页插件
+ ## [探究 Canal EventParser 的设计与实现奥妙](https://blog.csdn.net/prestigeding/article/details/107139566)
+ > 探究 Canal EventParser 的设计与实现奥妙
 # 人工智能 
- ## [深度讲解Java多线程开发—电子表项目实现](https://blog.csdn.net/weixin_44985880/article/details/107539734)
- > 深度讲解Java多线程开发—电子表项目实现
- ## [过滤器、拦截器简单流程及使用](https://blog.csdn.net/qq_49313444/article/details/107504196)
- > 过滤器、拦截器简单流程及使用
- ## [万事开头难!最新MyBatis程序配置教程(IDEA版)](https://blog.csdn.net/qq_45173404/article/details/107525276)
- > 
- ## [一起进阶学习JAVA：Spring MVC](https://blog.csdn.net/wlhack/article/details/107446800)
- > 一起进阶学习JAVA：Spring MVC
- ## [Mac 如何安装 JDK进行开发](https://blog.csdn.net/xiabiao1974/article/details/107525288)
- > Mac 如何安装 JDK进行开发
- ## [大厂Java高级问些啥](https://blog.csdn.net/yxh13521338301/article/details/107462716)
- > 
- ## [【剑指 Offer 26】树的子结构](https://blog.csdn.net/qq_35416214/article/details/107508821)
- > 【剑指 Offer 26】树的子结构
- ## [Java基础知识（一）基本数据类型、变量类型、修饰符、表达式、数组、Math类、分支循环和关键字](https://blog.csdn.net/m0_37741420/article/details/107448012)
- > Java基础知识（一）基本数据类型、变量类型、修饰符、表达式、数组、Math类、分支循环和关键字
- ## [第十一届蓝桥杯 b组](https://blog.csdn.net/guyjy/article/details/107520279)
- > 第十一届蓝桥杯 b组
- ## [深入探究JVM之对象创建及分配策略](https://blog.csdn.net/l6108003/article/details/107501465)
- > 深入探究JVM之对象创建及分配策略
- ## [跟我一起学JAVAEE吧——JAVA_SE篇——day09上课笔记（详解final修饰符的作用，内部类，成员内部类，局部内部类，匿名内部类傻傻分不清？）](https://blog.csdn.net/weixin_44115522/article/details/107542256)
- > 跟我一起学JAVAEE吧——JAVA_SE篇——day09上课笔记（详解final修饰符的作用，内部类，成员内部类，局部内部类，匿名内部类傻傻分不清？）
- ## [天天用迭代器和foreach，那它俩到底是怎样工作的呢？](https://blog.csdn.net/Mr_wxc/article/details/107493876)
- > 天天用迭代器和foreach，那它俩到底是怎样工作的呢？
- ## [JSP的简要概括和简单的使用](https://blog.csdn.net/qq_39594037/article/details/107543978)
- > JSP的简要概括和简单的使用
- ## [啥是对象的浅度克隆和深度克隆？](https://blog.csdn.net/pzjtian/article/details/107501639)
- > 啥是对象的浅度克隆和深度克隆？
- ## [摸鱼一天，通过反射泛型写了个封装Bean的工具类](https://blog.csdn.net/laowang__/article/details/107519709)
- > 摸鱼一天，通过反射泛型写了个封装Bean的工具类
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 # PM 
  ## [案例复盘：从0搭建业务中台](http://www.chanpin100.com/article/112299)
  > 区别于普通业务，中台能让系统更好地满足业务需求，提升系统效率，建设业务中台最直接的目的一般是为了帮助产品快速且低成本的提效。本文作者从自身工作实践出发，总结分享了如何建设业务中台，希望能够带来一定的启发。
