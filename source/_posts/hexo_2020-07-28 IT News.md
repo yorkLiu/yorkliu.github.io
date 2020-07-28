@@ -1,24 +1,36 @@
 ---
 title: 2020-07-28 IT News
 copyright: true
-date: 2020-07-28 10:02:07
+date: 2020-07-28 12:02:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [微软远程桌面应用Android端更新支持Windows虚拟桌面](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=iZ*qvGYinvWRbBimotT3ACCy25G5MAXrCD*eBU29ZKCsLmPrF5FMlRe5Vs2K-eQJvGeFLAqkECT5wasTI9f-lNaE3YxsKIAQmRAS-yM-00mip0D0N03cLjnGoUaGUC5Z&new=1)
+ ## [腾讯拟全资收购搜狗；英特尔人事大变动，首席工程官将离职；TensorFlow 2.3.0 正式发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=tSc1iUCTvQED3xMovmIC4TL0P5FjDBMKUTvi*tFGomPJy57OMVi1KQspsPAbHqWQeSUDT4y-N33HYMtcT31C3s130bBx7-6adoVw0*wX1p6FVmIQwQjTJ2j*qf0ydDJh&new=1)
+ > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
+ ## [ARM 版 MacBook 799美元起；华为：全球5G部署告一段落；NASA考虑在火星月球建核电站|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=qsjCA5*BGBRSC7Zez-Q1uLSoC7JbhVI*H6zqkOtUivzMt6pOfGyMrPdjeYWFRaNKfKcWVeelecEutaVHfwQsyoiMlyc1oXiSlNM*vEgIG2iC4VsOE23b9HllMKHYaJjM&new=1)
+ > 腾讯全资收购搜狗，王小川：将会对相关事宜进行讨论和衡量从知情人士处获悉，美东时间 7 月 27 日，腾讯公司将全资收购中国第二大搜索引擎公司搜狗。另一名知情人士对此予以证实，并称交易形式为全资，交易价格...
+ ## [售价千元!清锋时代3D打印透气防水鞋Bisca360上众筹](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=DxsaK58lq2YYPT4Y8DzwINIVT9N*NG3xkBVDRLXPmViIFieP4K11-1G1Xu4KXqr9vpoILJamqC4dQyB2ORxT5nwL0-YruU42J*d0Zf4n2ywuOCI0zWaRphx8VrHPt*X7&new=1)
+ > 导读：一个中国3D打印技术厂商，推出一款消费级3D打印运动鞋，市场价199美金（约合1400人民币），众筹价最低99美元。你喜欢吗？2020年7月27日，南极熊注意到，中国高速光固化3D打印机制造商LuxCreo清锋时代，正...
+ ## [深耕技术研发 助力物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=g4euvObtaXXKmv9DyM8c1VuO78x41Nud6itoOB6YbOg6Whwh5GStS6kFdpceLRp-HMTC*CPYrPp7Ua3krFLHlsOtEHyW2YxKG8eGKm-KbtM=&new=1)
+ > “智能制造”、“物联网”、“人工智能”……这些关键词现在充满了卢睿的工作生活，谁也想不到10年前他只是在一家传统国企从事普通管理工作。　　今年44岁的卢睿出生在一个知识分子家庭。1996年，卢睿去...
+ ## [来，认识一下5G双超网络!](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=5ALpdOQLf44uExITf-oE2jKWaLFdblWfiJOAOv4oMbe*xUM9TXGO5UAMy*P*zdkIzXvm-qIk10LZHWiCInKdv1MHXsxt-gmWx1hppDy3clCFfgNVRPNtBTmJm2lwjbUu&new=1)
+ > 5G网络大家已经不陌生了5G双超网络你们了解吗？来，跟着小通通和华仔一起来get新知识吧~1联通5G联通未来来源：中国联通
+ ## [又搞小动作?消息人士：禁用59款中国APP之后，印度将对另外275款中国APP进行审查](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=pumdKaX2VQw6ko4n--x4*IdHz0xtLRDgIsfyO-*wbADhYeH6P7BaTjKtQ*mVTVFlp6k6ftIE6PBazob2wuDIBn*R*wgLnZiHpUD0*vVHvW0=&new=1)
+ > 【环球网报道 记者 侯佳欣】宣布对TikTok、微信等59款中国手机应用程序的禁令至今不到一个月，印度方面又出了新“幺蛾子”。据印度《经济时报》7月27日报道，知情人士透露，印度将对另外275款中国应用程序（APP...
+ ## [微软远程桌面应用Android端更新支持Windows虚拟桌面](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=iZ*qvGYinvWRbBimotT3ACCy25G5MAXrCD*eBU29ZKDLj4ic9z44zd*t-vprcOxCi6ee8k--45BWmeC4Xi8bzQcf30Da5v3EibguLzQ5DeUEK1D03hR0nufRUO*x5Rqm&new=1)
  > 微软远程桌面应用（Microsoft Remote Desktop）Android端近日迎来大更新，增加支持Windows 虚拟桌面、Android TV设备等功能。通过远程桌面应用，可以远程连接到工作电脑并访问所有的应用、文件和网络资源。
- ## [\[报告\]2020年中国车路协同行业深度研究(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=bbvwXi9xxcH-uRVC-OHhfQN8iThqls3AB1bMUvlYnlVlCII7cW0R3M6d*KfWjgwm*lWFefv3XGiL8F73ImzD27Xg3pg*nLpK15wewXdP7G7fhLNLYPTCzFpt1EgYrIar&new=1)
+ ## [\[报告\]2020年中国车路协同行业深度研究(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=bbvwXi9xxcH-uRVC-OHhfQN8iThqls3AB1bMUvlYnlVkXRSwxSgUsbQiQqaHgLKwuLeYgQCQLHrpzM8CrF0cl1pixafM1mLfTl0JmY*2WIkYoawwKsaw249udpKfHPWi&new=1)
  > 车路协同系统是已路侧系统和车载系统为基础进行构建，通过无线通讯设备实现车、路信息交互和共享的系统，是推动自动驾驶步入L3及以上更高等级的必要系统，可加速自动驾驶进程和推动智慧交通行业的发展。在国家利...
- ## [独家参访华为总部：关于华为，你不知道的10件事儿](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=Zzzl86*3pZmRZN2JrL74*3WjxP2hble0*p9OnsAQDZE-nqqwDDjOHKU*CBlemGJV7AqsoYGlGBWArrs4kbgKHYYLrK8jxqB2ADA5zNQF0QpOdNiC9dKEJFi4m03Skv6o&new=1)
+ ## [独家参访华为总部：关于华为，你不知道的10件事儿](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=Zzzl86*3pZmRZN2JrL74*3WjxP2hble0*p9OnsAQDZGUxIIfr8*dQKV4ltBKiTzk85c4T4lRRQ29-0xudc966PjYoG1LOIz7kofkR2*JDsPmPiCQB-oAHdxbUF7atrtl&new=1)
  > 7月1号，我和“问道中国”的组员们一起参访了华为的新总部——松山湖基地，深受震撼。华为这家公司，远远不只是我们今天所看到的样子。它还有很多不为外界所知的、有趣的事儿。今天，我就把它们独家分享给你。作...
- ## [撤销华为铁令!中国又一张王牌彻底引爆!](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=HA1i5kvqfGMqdLt9FnWgoyfEyHZZBQydpluXUScw3mSz3x30peoLCLO0-f0vBMA1W2RDGMpTWe8-Fk0nU3KzLc2eQhbyI7p0riIsB*V5GtyHf-PnlfCMSRf0-tFGKWn-&new=1)
+ ## [撤销华为铁令!中国又一张王牌彻底引爆!](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=HA1i5kvqfGMqdLt9FnWgoyfEyHZZBQydpluXUScw3mSZN1dqDwHMLNq4FDTU8dTe8hSo7j1Gc9KTYO0f10L*CcQSc013RC3mY5Ciei5NuPmDCcCqCRzMmFS2dpJqZK6B&new=1)
  > 不平静，科技圈传来了重磅消息！华为用一份超牛逼的成绩单，让世人为之震撼！继鸿蒙系统后，华为再次完成了一个历史性壮举！华为曝光在芯片领域创造的最大突破！在此之前，华为发布了季度经营业绩：全球销量收入...
- ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=Tbcaty448rJ6cwTn5PRtaYnFmJsV1OZUojrsNjSMtHPd-ZKYZ4hWwq1NEw*5p2ub9lFFrfiWwlBxO1voJXQzyHg5*fHmhgSVGm0Khw9vMj0OskOD3zpTKA1dl7-O9Wx2&new=1)
+ ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=Tbcaty448rJ6cwTn5PRtaYnFmJsV1OZUojrsNjSMtHPi4VWMYSV6ZZBlTDGERF8N6gyum1Jkvnh9boYL307rE7orDVmz5ETt-we9CBVEVIsyH20MZ04duHgd1Jv4igUp&new=1)
  > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《总裁商业思维》免费关注一最近这几年，网易养猪了，阿里养猪了，京东养完猪又去种菜了，大家听得耳朵都要起茧了！但是，今天华为要干的这件事，估计很多...
- ## [软银割让ARM，三星/英伟达意向收购，物联网市场风起云涌](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=Etd80kaHdBC0bpIGblHLC49X-*hl0k32BuekuWEVLM8H1BPt0E-KICe*jUMvX7MyS2gH4kTVLhVaY8ArHxVYw4zUMfAF2eNamawboaIpd6*gaxGVTXIAIPcrqc01gU2P&new=1)
+ ## [软银割让ARM，三星/英伟达意向收购，物联网市场风起云涌](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=Etd80kaHdBC0bpIGblHLC49X-*hl0k32BuekuWEVLM8tLpPtn5v9IF0X5vg3Mj773ZqrUMl8k*kYJN-ut1AdctJWAoz7LN7rKONGhXyY6cdLSqwOpAs1kWyYPdN81UKS&new=1)
  > 【摘要】无论ARM的未来如何，都很有可能引发物联网的格局变迁。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：彭昭本文来源：物女心经杂谈投稿邮箱：631255063@qq.com 本文重点：解耦思维表达了一种基...
- ## [倒数3天|英特尔专家深度讲解Realsense产品和发展蓝图更新](http://mp.weixin.qq.com/s?src=11&timestamp=1595899867&ver=2487&signature=wluJnciaNLZAf37vj99SocES9*D2rEmiY2fOL9fllR-gNmrutp9wz3Rha2tKqotDlP3nH2YN7I0a0tdJNTMl-nMTQr3hMCI2Yfa9m*Aai5QhHkbJNvxk2aOgG-7yWPXL&new=1)
+ ## [倒数3天|英特尔专家深度讲解Realsense产品和发展蓝图更新](http://mp.weixin.qq.com/s?src=11&timestamp=1595908806&ver=2487&signature=wluJnciaNLZAf37vj99SocES9*D2rEmiY2fOL9fllR*gnYz22Q5WUsmFLdnsR0p-67Xqhz9ciI*G*nPL-C7F3Yi3DqcRpYSvg5BgTsA5Ex8ayNUmYLl0PHmYcjCSRgA8&new=1)
  > 7月30日20点，“英特尔智能机器人产学研合作系列研讨会”第七场研讨会即将来临，本次将聚焦“智能感知”，和各行业专家深入探讨智能感知技术、深度学习以及落地应用，3天后你将看到哪些精彩内容？今天来预习第一...
 # IT 技术 
  ## [编写Docker Compose时的要注意的五大常见错误](http://os.51cto.com/art/202007/622124.htm)
@@ -35,28 +47,28 @@ categories: IT NEWS
  > 企业如何在危机中削减预算而又不损害安全性?这5个技巧要牢记
  ## [边缘仓储：9种新兴仓储技术](http://iot.51cto.com/art/202007/622026.htm)
  > 边缘仓储：9种新兴仓储技术
- ## [Oracle培训速成版（10）：Oracle RAC集群日常运维与管理](http://fellow.51cto.com/art/202007/621847.htm?qd=51ctojrzd)
- > Oracle培训速成版（10）：Oracle RAC集群日常运维与管理
- ## [原相机自拍挑战：苹果、华为、三星谁更胜一筹？](http://mobile.51cto.com/hot-622177.htm)
- > 我们迎来了一个自拍热的时代，全世界的人都爱上了自拍。在&quot;美图秀秀&quot;带动下，国人的自拍自然走在了时代的前
- ## [linux服务器内存异常，究竟在哪消耗了2.5G？](http://server.51cto.com/sOS-622175.htm)
- > 今天这个问题是未解之谜，还是挺神奇的，一起来看看吧~以下是一台2核4G的服务器，其中服务器上没运行任何程
- ## [5G、Wi-Fi 6和AI如何提供更智能的家庭体验](http://ai.51cto.com/art/202007/622170.htm)
- > 尽管实现真正的全屋智能家居生活还需要一些时间，但是，现在智能家居已成为常态。事实上，根据《智能家居周
- ## [超实用干货：这6个好方法，瞬间提升你的工作效率](http://news.51cto.com/art/202007/622173.htm)
- > 提升工作效率的真谛绝不是分散精力，而是合理利用时间。做一件事就保持专一，千万不要同时脚踏N条船。
- ## [网络空间安全面临新挑战](http://netsecurity.51cto.com/art/202007/622167.htm)
- > 在北京邮电大学网络空间安全学院教授、全国防伪标准化委员会委员张茹看来，“新基建”的核心在于“信息数字
- ## [腾讯收购搜狗！瞄准百度、字节和阿里，新搜索大战一触即发](http://news.51cto.com/art/202007/622172.htm)
- > 投资风格一向温和的腾讯，居然决定全资收购一家公司！是的，腾讯决定彻底拿下搜狗。
- ## [CI/CD中的自动化测试的概要知识](http://developer.51cto.com/art/202007/622164.htm)
- > 测试自动化是指在软件开发过程中尽可能早、尽可能快地持续关注检测缺陷、错误和 bug。这是通过使用那些追求
- ## [RedMonk 2020 年 Q3 编程语言排行：Rust 首次进入前 20](http://news.51cto.com/art/202007/622168.htm)
- > 知名软件行业分析公司 RedMonk 发布了 2020 年 6 月（Q3 季度）编程语言排行榜。
- ## [“分库分表”与“NewSQL”如何选择？](http://database.51cto.com/art/202007/622165.htm)
- > 最近与同行交流，经常被问到分库分表与分布式数据库如何选择。
- ## [财富中国500强，互联网巨头的嬗变与野望](http://news.51cto.com/art/202007/622169.htm)
- > 《财富》2020中国500强榜单发布，因为该榜单覆盖范围为在中国境内外上市的所有中国公司，所以一定程度上成
+ ## [UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03](http://fellow.51cto.com/art/202007/622204.htm?qd=51ctojrzd)
+ > UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03
+ ## [物联网安全：运营商面临真正考验还没有到来](http://iot.51cto.com/art/202007/622289.htm)
+ > 根据Gartner的数据，到2023年，全球IoT连接设备的数量预计将增加到430亿，比2018年增长近三倍。五年来，随
+ ## [鲲鹏展翅・智耀津门 | 鲲鹏应用创新大赛2020（天津赛区）宣讲会开讲啦！](http://network.51cto.com/art/202007/622189.htm)
+ > 2020年7月29日下午两点，鲲鹏应用创新大赛天津赛区宣讲会将准时在线开启。
+ ## [大数据时代的数据中台](http://fellow.51cto.com/art/202007/622211.htm)
+ > 系统讲解数据中台体系，理念、落地方法、建模方法：DataVault、多维建模、画像建模、搜索建模等多
+ ## [企业区块链趋势：数字身份管理](http://blockchain.51cto.com/art/202007/622197.htm)
+ > 调研机构Gartner公司在最近发布的一份报告预测，到2022年，只有10%的企业能够通过区块链技术实现根本性的变
+ ## [邮件服务器安全性：潜在漏洞和保护方法](http://netsecurity.51cto.com/art/202007/622196.htm)
+ > 本文将讨论电子邮件服务器的安全性。这里介绍的安全措施将使您能够大大提高电子邮件服务器的保护级别，并防
+ ## [人工智能改变企业软件的10种方式](http://ai.51cto.com/art/202007/622193.htm)
+ > 以下重点介绍了人工智能当前正在转变企业软件的10种方式，并指出了企业使用人工智能的下一步发展方向。
+ ## [想从事大数据行业，报什么专业比较好](http://bigdata.51cto.com/art/202007/622194.htm)
+ > 又到一年高考时，又要填志愿，很多人问：“想从事大数据行业的话，报什么专业比较好？？？”刚好一些同学也
+ ## [Linux运维及云计算经典入门教程](http://fellow.51cto.com/art/202007/622215.htm)
+ > 学完后能掌握Linux基本技能，可具备初级Linux运维工程师能力，
+ ## [Kubernetes是放大容器化优势的关键吗?](http://cloud.51cto.com/art/202007/622191.htm)
+ > 如今，很多首席信息官或首席技术官都对容器技术有所了解，因此调研机构Gartner公司的调查报告指出四分之三
+ ## [Python数据分析与爬虫](http://fellow.51cto.com/art/202007/622217.htm)
+ > 1.课程从0讲起，层层递进，逐步深入 2.整个课程理论讲解与实操相结合，注重实操
  ## [【两万字】面试官：听说你很懂集合源码，接我二十道问题！](https://blog.csdn.net/vi_young_95/article/details/106983505)
  > 
  ## [知乎最高赞回答！零代码基础，把报表做出科技感是什么体验？](https://blog.csdn.net/yuanziok/article/details/106993610)
@@ -65,6 +77,8 @@ categories: IT NEWS
  > 
  ## [揭开电脑上登录多个微信的秘密](https://blog.csdn.net/xuanyuan_fsx/article/details/107540776)
  > 揭开电脑上登录多个微信的秘密
+ ## [限量名额，立即预约！Meet Qt Online中国在线直播](https://t.csdnimg.cn/LDfD)
+ > 限量名额，立即预约！Meet Qt Online中国在线直播
  ## [终于把进程和线程学会了](https://blog.csdn.net/qq_17623363/article/details/107571907)
  > 终于把进程和线程学会了
  ## [主宰操作系统的经典算法](https://blog.csdn.net/qq_36894974/article/details/107562076)
@@ -85,38 +99,36 @@ categories: IT NEWS
  > 
  ## [一文读懂人类信息存储进化史](https://blog.csdn.net/alitech2017/article/details/107156666)
  > 一文读懂人类信息存储进化史
- ## [【C语言】C语言实现面向对象编程之多态](https://blog.csdn.net/dengjin20104042056/article/details/106780198)
- > 【C语言】C语言实现面向对象编程之多态
 # 人工智能 
- ## [构造器（有参、无参）](https://blog.csdn.net/qq_44859533/article/details/107579892)
- > 构造器（有参、无参）
- ## [基础篇：高并发一瞥，线程和线程池的总结](https://blog.csdn.net/u013591094/article/details/107594624)
- > 基础篇：高并发一瞥，线程和线程池的总结
- ## [LeetCode 2. 两数相加](https://blog.csdn.net/lolly1023/article/details/107597741)
- > LeetCode 2. 两数相加
- ## [用java写一个云端资源共享小程序](https://blog.csdn.net/m0_47547434/article/details/107595204)
- > 用java写一个云端资源共享小程序
- ## [java线程基础知识整理](https://blog.csdn.net/weixin_42032770/article/details/107536554)
- > java线程基础知识整理
- ## [idea 模板编程](https://blog.csdn.net/u014258807/article/details/107596652)
- > idea 模板编程
- ## [对JsonArray根据JsonObject中的某一字段排序](https://blog.csdn.net/awen6666/article/details/107597685)
- > 对JsonArray根据JsonObject中的某一字段排序
- ## [springboot的异步任务、定时任务的简单案例](https://blog.csdn.net/L_GRAND_ORDER/article/details/107599690)
- > springboot的异步任务、定时任务的简单案例
- ## [【剑指 Offer 45】 把数组排成最小的数](https://blog.csdn.net/qq_35416214/article/details/107576024)
- > 【剑指 Offer 45】 把数组排成最小的数
- ## [MyBatis最简单快速入门过程](https://blog.csdn.net/qq_39594037/article/details/107591815)
- > MyBatis最简单快速入门过程
- ## [JVM系列之:String.intern和stringTable](https://blog.csdn.net/superfjj/article/details/107591009)
- > JVM系列之:String.intern和stringTable
- ## [就因为没看这篇文章面试失败了](https://blog.csdn.net/youku1327/article/details/107591893)
+ ## [Spark Core快速入门系列(6) |  RDD的依赖关系](https://blog.csdn.net/qq_16146103/article/details/107569264)
+ > Spark Core快速入门系列(6) |  RDD的依赖关系
+ ## [Git 更新推送远程库报错：failed to push some refs to ‘XXXX.git‘](https://blog.csdn.net/weixin_44198965/article/details/107604178)
+ > Git 更新推送远程库报错：failed to push some refs to ‘XXXX.git‘
+ ## [快速入门Shell脚本(3)——条件判断语句与循环](https://blog.csdn.net/qq_43791724/article/details/107616597)
+ > 快速入门Shell脚本(3)——条件判断语句与循环
+ ## [hadoop面试题](https://blog.csdn.net/sun_0128/article/details/107607399)
+ > hadoop面试题
+ ## [Flink:史上最详细的介绍(一)\[简介\]](https://blog.csdn.net/weixin_43563705/article/details/107604693)
+ > Flink:史上最详细的介绍(一)\[简介\]
+ ## [vue实现虚拟列表](https://blog.csdn.net/achao_2020/article/details/107607510)
+ > vue实现虚拟列表
+ ## [数据可视化黑科技！它比python强大20倍](https://blog.csdn.net/yuanziok/article/details/107506345)
+ > 数据可视化黑科技！它比python强大20倍
+ ## [Kafka控制器](https://blog.csdn.net/weixin_39034379/article/details/107600437)
+ > Kafka控制器
+ ## [数据库的使用延申-MobaXterm-工具](https://blog.csdn.net/weixin_46517105/article/details/107597994)
+ > 数据库的使用延申-MobaXterm-工具
+ ## [BigData：大数据开发的简介、核心知识(linux基础+Java/Python编程语言+Hadoop{HDFS、HBase、Hive}+Docker)、经典场景应用之详细攻略](https://blog.csdn.net/qq_41185868/article/details/107577570)
+ > BigData：大数据开发的简介、核心知识(linux基础+Java/Python编程语言+Hadoop{HDFS、HBase、Hive}+Docker)、经典场景应用之详细攻略
+ ## [六、HDFS中的NameNode和SecondaryNameNode](https://blog.csdn.net/gdkyxy2013/article/details/107577973)
+ > 六、HDFS中的NameNode和SecondaryNameNode
+ ## [centos静态路由添加](https://blog.csdn.net/weixin_42211117/article/details/107619352)
+ > centos静态路由添加
+ ## [快速入门Shell脚本(2)——系统变量与自定义变量](https://blog.csdn.net/qq_43791724/article/details/107598398)
  > 
- ## [java：数组及数组常用算法总结](https://blog.csdn.net/qq_43137699/article/details/107579081)
- > java：数组及数组常用算法总结
- ## [C++创建对象的两种方法（别再纠结是否需要手动释放内存了）](https://blog.csdn.net/qq_41951658/article/details/107595801)
- > C++创建对象的两种方法（别再纠结是否需要手动释放内存了）
- ## [LeetCode 1. 两数之和](https://blog.csdn.net/lolly1023/article/details/107597190)
- > LeetCode 1. 两数之和
+ ## [【工具】打造适用于 Linux 的 Windows 子系统——替代虚拟机的好帮手](https://blog.csdn.net/wjb6688/article/details/107589523)
+ > 【工具】打造适用于 Linux 的 Windows 子系统——替代虚拟机的好帮手
+ ## [报名即可获得CSDN专属福利，百万奖金等你赢取！](https://marketing.csdn.net/p/61d92b147cde590979383de98fe950f4?utm_source=1417272589)
+ > 报名即可获得CSDN专属福利，百万奖金等你赢取！
 
     
