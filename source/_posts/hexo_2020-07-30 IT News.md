@@ -1,127 +1,106 @@
 ---
 title: 2020-07-30 IT News
 copyright: true
-date: 2020-07-30 12:02:35
+date: 2020-07-30 17:02:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [7月30日：SLS 3D打印生产效率优化直播](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=xFcO7g-tK-Bk6HaK5I3fHbx2K6eQfbVWc7JeXVxLFG6MGecz8wYMHLKZ3H2Ne*yo4nZ*hiPMvZhL6KGo31DnqHCJKdjL0HlmstQIWgC7UCSPn3wQTE8iL69DGiJTILnl&new=1)
+ ## [夏普海外首个研发基地落脚山东 拓展中国8K市场](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=Ylrf7dL8nkObasWNepoGKTNBJQlHhixhDuyixCzh6KLlFo09yxT1Mu9n-Q2Zs6J6v-scGSAysBDefQ80uXIYL8VXxEBhk-Q1Nqki9ANnwvq*WpYb1EWAZkE54fyWvQN7&new=1)
+ > 鸿海旗下夏普宣布，将在山东省成立 8K 高清影像技术研发公司夏研科技，这也是夏普继东京后第二个研发基地，为扩展中国 8K 市场做准备。据了解，夏普中国子公司将与山东省的政府系金融企业合作，由夏普中国子公司...
+ ## [我们需要有温度的技术，更需要有温度的人](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=2fOyvAaZpc881Tti*iJJEJrL1DjUuB*y*lCrdo76ZgopMkggYJ4o4RuGn*Q3uEc5-603bgvjsbDYYUPFboDxDtE-jPNKzp5C939NLEIxpph3sE2LxXO13Nq3k6WWHmu2&new=1)
+ > 位于中国版图西部的阿瓦提乡，是距离首都北京近三千公里的一座小镇，去往最近的大城市乌鲁木齐，也要几乎一整天的车程。2020年2月17日，对于阿瓦提乡中心学校的两千多名少数民族学生来说，是一个特殊的日子。时...
+ ## [2020年年中的IT决策和产品管理趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=cvBkxAUK-Ks7jL4ZIeIBiRqwC2lsOjiCOYGUmUPPwpxPfG5Om3gJwCuDFRP6CzBhFHAj27kfdxJxkMrrP5T86OBcn-Madnen9L11ddHt5md9x7EWRC4kZjB54k4E3v6D&new=1)
+ > 关键讯息，D1时间送达！数据库提供商Cockroach Labs公司首席产品官Nate Stewart日前对满足消费者和开发人员需求的IT决策和产品管理趋势进行了预测与分析。没有人能预见到2020年将会带来什么挑战，但这并不能阻止...
+ ## [英国“禁用华为”5G背后的推演](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=J7DixRuT1VE-knNKkMlDx*clJGWX7TVIaw9lzvvcVOBgbSeqjaGKWgNRhV5FMyOLE7WuvE0JoTKwlS2iXk3rLCv6puqnLZCeJn3Nk3RUfga4Q-6n9SttrndRVzHPfieg&new=1)
+ > 很难想象，缺失一家民营科技企业，会对一个国家造成如此巨大的损失出品 | TechWeb作者 | 卞海川5G发展的重要性不言而喻，作为新一代科技革命的代表技术，5G已经给未来全球经济发展注入了新的动力。 半年前，英国...
+ ## [恢复对华为供货有戏!高通：与华为签署一项长期专利协议，盘后股价涨12%](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=jirCyjlgREeEEIhq4aU19O07W91Qt8I-h*8HZs-vvk2d7T0tTEQg9jP4NHahcxCgajq9MJgpasmBeoTJD3K1JFXXqk*L02wAMO4dxipWz8c3NY0oBnmlKnZEcEV6AgAp&new=1)
+ > 当地时间7月29日，高通发布截止至6月28日的第三财季报告，GAAP营收48.93亿美金，同比下滑49.78%，净利润8.45亿美金，同比下滑60.68%，每股摊薄收益0.74美元；按非GAAP准则，三财季营收48.90亿美金，同比基本持平
+ ## [速看!爱玩手机的泉州人!这件事很重要……](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=myhhqQYD4gaEQTYWme6Mi6NVLT2FGljoXASYia7mgEgFFkQSjrTruszTsGeUhu0Bm2JeTN0SN2atpQEIbWej8H7SZS0v2oKTAqa6T7i25QwEmWJZrAy9zVS7l7ldctGe&new=1)
+ > 这个夏天最火的事是啥？做“后浪”摆地摊？搞直播带货？追《乘风破浪的姐姐》？还是足不出户在家看高清大片？无论是啥你都需要超快的5G网络给你最佳的体验感毋庸置疑我们已经步入5G时代我们的生活方式也将产生巨...
+ ## [最全解释|关于CPU的12个硬核干货!](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=OB5JCATl9OELOZPPSnHxzyqqlZ-eJ8llGvJh330dQi8fY**HQYVzZXqK6LBZH0JStNd8V8GgbRjyuH8HEvXCQFFSAz-upA*viOHLGE*swQlA84Klhb-AxY4Z8MKw2001&new=1)
+ > 作为一名程序员，与计算机打交道的日子不计其数。不管你是玩硬件还是做软件，你的世界自然都少不了计算机最核心的 —— CPU。01CPU是什么？CPU的全称是Central Processing Unit，也是你的电脑中最硬核的组件。CP...
+ ## [这部大片，一定要看!](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=rLb*xahNrW-AY6BqeKYN5OssaTrmmnkAZ0E0i50foIFvFFHCn5QevnsWbDKW8HKmcfGKQzU0KPKra93NqVqIgTPdfOUdmtaUFK1S*UP2ZsyrA7XIwPJwBeKTQEECOWeq&new=1)
+ > 用「智慧」连接世界把智慧生活带给每个角落让每份爱都能紧密相连让我们一起携手创享美好未来Achieve a Better Future. Together 「远程诊疗」· 让健康时刻被守护 ·智慧远程医疗让我们的生命健康时刻被守护 「...
+ ## [云计算时代，边界隔离交换产品还需要吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=xY-I36V0cPeoeJ1Pra-5N6fnD612dqu6kQOoxr77DfiKf7DlHjY9IVwqS7CfZ66tnf5vW9070odplV62*3mC3YV4FPDm3uv37guRioycijYvQ2kXnGFDUR5jVcm1Qzec&new=1)
+ > 近年来随着云计算、大数据等新技术的快速发展，业务和数据向省一级、区域行政中心、企业集团的云平台集中。原本使用业务系统的中小型主体，转为使用上级统一部署的系统平台。底层业务系统的取消直接导致了大量底...
+ ## [7月30日：SLS 3D打印生产效率优化直播](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=xFcO7g-tK-Bk6HaK5I3fHbx2K6eQfbVWc7JeXVxLFG6P6E2NyNSmjTCpUOFMtz0QiMgGwRKj7BWJfVRnJUDK-3PkaXjITSQ4YnHmjB0iz0k1mMLgN4m5xlU90Zm8w0Zo&new=1)
  > 可能有读者还记得下面这张图片△2020年3月，意大利新冠爆发，医院的呼吸机阀门已经用尽，通过当地专业3D打印服务机构的帮助，米兰附近的一家医院使用SLS 激光烧结3D打印技术生产的呼吸阀来拯救生命那么，使用SLS...
- ## [两个涨停后“翻车”!这家公司主动“抖料”蹭热度，抖音看不下去了：违反保密协议，终止所有合作](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=ZwkunVRyQlCsYeO22PQQ6JykLilwNgxY8ncMED-8z*MRP0BIrFvhBMdCOZ1F5wAhWJ4J*iuRYd2iYeUm1JjN214DDx2X5VjRcxinJW6wM1gpkJ6h8WGWBF1m*3PbV1RH&new=1)
- > “抖音概念股”宝通科技翻车。7月29日晚，抖音官方发布公告称，由于宝通科技参股公司哈视奇违反保密协议，夸大披露所谓“与字节跳动达成多款AR游戏独家合作”信息，字节跳动及抖音决定取消与哈视奇已经达成的所...
- ## [\[报告\]新能源汽车热泵空调行业研究(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=FmPcYWLoCKaUqE6NTocYogpgjEkixHw8uTamAoBF-fBaiJaS01RaobUf1FLVAizUQlFQK6QJEFWi3G7X1qi6nCsPhj3YTG1IzX38MuuZf7s5mR4GxCbspOPHIrdGt47Y&new=1)
- > 新能源车空调与燃油车空调主要区别。新能源车和燃油车空调由于动力来源不同，导致制冷和制热存在很大区别。从制冷模式看，新能源车空调电动压缩机和电子膨胀阀替代燃油车空调压缩机和热力膨胀阀。从制热模式看，...
- ## [Google发起调查：大疆应用程序是否存在隐私漏洞?该无人机巨头是这样回应的](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=uC9TQ53kXHv2f7J*k9UdQDLkx-ndSpjF5oUZPLecolJVMxF2V7Ey*pGcGaEC4Of5fNxorPJ1o0Oaf7dJ1yY3rUMIJYi6KfvyRz3CKAlBh9h9lUqY7PO299uR4qLKFSx*&new=1)
+ ## [工信部：加快云计算基础设施建设布局](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=I5N13xLn3fVEpEOU4Jv0VatDejBQVyEwMNKM9GHSs5iWODEXJ49z*FhCXjAMr8JsERgqhecwVFYEhCPwCFPcGBOlJZ*or7pKnoq7vod9liQ=&new=1)
+ > 上证报中国证券网讯（记者 李雁争）2020可信云大会29日召开。工业和信息化部信息通信发展司司长闻库表示，要加快云计算基础设施建设布局。　　闻库表示，当前，新需求、新技术、新业态仍加速迭代，如火如荼...
+ ## [Google发起调查：大疆应用程序是否存在隐私漏洞?该无人机巨头是这样回应的](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=uC9TQ53kXHv2f7J*k9UdQDLkx-ndSpjF5oUZPLecolKPLBIgilwjncBO1jl402jRQenLpzIjaP*RdCB3g6j624hhM8k5OC2J5iu4JUpGhEbRGCFsO-uRxS9t3tpUXRqe&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全7月30日讯，近日据外媒报道，国外研究人员一项最新研究显示，用于操作大疆制造的无人机的Android应用程序存在隐私漏洞，该漏洞疑似可以让攻击者通过恶...
- ## [清频退网倒计时 2G/3G存量用户面临新问题](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=I5N13xLn3fVEpEOU4Jv0VatDejBQVyEwMNKM9GHSs5hbaGf-mpKZJ7EnoUOMTuVifLzO872LkAzJ67U5kgZyoOMouUXYS9v2Mu6uo8qQL6I=&new=1)
+ ## [两个涨停后“翻车”!这家公司主动“抖料”蹭热度，抖音看不下去了：违反保密协议，终止所有合作](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=ZwkunVRyQlCsYeO22PQQ6JykLilwNgxY8ncMED-8z*Opa36*YPWBo**7xl5WEQyozNliHtD7IqmjxdOzpZKCrJD4ZAuk1tiF*IG3hwqU8YHm-K1GPyLqDWU6SuyHmaP6&new=1)
+ > “抖音概念股”宝通科技翻车。7月29日晚，抖音官方发布公告称，由于宝通科技参股公司哈视奇违反保密协议，夸大披露所谓“与字节跳动达成多款AR游戏独家合作”信息，字节跳动及抖音决定取消与哈视奇已经达成的所...
+ ## [\[报告\]新能源汽车热泵空调行业研究(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=FmPcYWLoCKaUqE6NTocYogpgjEkixHw8uTamAoBF-fBgkpLQ5jTgz7gqJCxGZaqom1ckDQi-jjXrP55CVHnRIdWCPqmxUjj0-*ge5RPh4uPwFV-scEMgsz5tnEb-ZyUE&new=1)
+ > 新能源车空调与燃油车空调主要区别。新能源车和燃油车空调由于动力来源不同，导致制冷和制热存在很大区别。从制冷模式看，新能源车空调电动压缩机和电子膨胀阀替代燃油车空调压缩机和热力膨胀阀。从制热模式看，...
+ ## [清频退网倒计时 2G/3G存量用户面临新问题](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=I5N13xLn3fVEpEOU4Jv0VatDejBQVyEwMNKM9GHSs5hbBSVsB6kXHFeE9MEjQchjB4uohbjLhZ59sJlEGE-N02gzldxWSdU-BGsDZxRtd0c=&new=1)
  > 综合多方消息，2G/3G清频退网条件逐渐成熟。这也意味着，运营商部署5G网络将加快“轻装上阵”。随着2G/3G逐步清频退网，通信市场将有哪些新的机遇，仍需解决哪些挑战？　　2G/3G清频退网条件逐渐成熟　　从...
- ## [人事调整：中国电信集团处室领导人员任职!](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=iEvsYVe9*XY5Vd0zXsxIKcP0J1*gnwXEOw7I*dUvEpl2LEUmFNePRYRcEwRP43BlrGjlmSRXCw5m5L1RFe38ZDFGprEMC1jBIG1feFFMVkPIMUG-8PLoV5igp2rDVrQX&new=1)
+ ## [人事调整：中国电信集团处室领导人员任职!](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=iEvsYVe9*XY5Vd0zXsxIKcP0J1*gnwXEOw7I*dUvEpkw61DmLLMPjGOnDzl7EQ8pMf3fglzl2eDfeUjXbiKigA79DCgTx5jUlynBOr*qlqq*IzZaaFANnVveSHD8Q9Y-&new=1)
  > 运营商情报获悉，中国电信云网运营部组织架构调整已基本完成，内部各处室管理人员任免也已确立，多达20人的调动。据悉，去年年底，中国电信宣布撤销网络运行维护事业部、企业信息化事业部，设立云网运营部（数据...
- ## [业绩|康宁光通信Q2销售收入8.87亿美元 环比增长12%](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=HB89nh1GiAvd1XeYK2vbmrV1ATd6cNq8K7MaS95zF3PFWIIZ4Po4dGpqerEV0jvDCQBTD1xQreGdmCfe9Qysk0*l09W-vPssbIkIAVRxaUkGVd8BSv3FoGDXqi0hyLUx&new=1)
+ ## [业绩|康宁光通信Q2销售收入8.87亿美元 环比增长12%](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=HB89nh1GiAvd1XeYK2vbmrV1ATd6cNq8K7MaS95zF3OVsnBy2mhX06ffNK97*AXbStD58VSNzKOSNg6z75ekFuntWl-OKUpIXOl1hyRK3CR2fuZJ3n0tOHrSbI93jWNb&new=1)
  > 康宁光通信部门Q2销售收入为8.87亿美元，环比增长12%，同比下滑19%。康宁表示，第二季度光通信部门销售收入的环比增长主要由于运营商在Cable部署和接入网络项目方面的支出上升，同比下滑则与无源光学市场下降趋...
- ## [移动通信计费乱象谁能管得住?蜗牛联通计费接口谁能查的清?](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=lPbxlBvwKI7je56cus4t0OMuBvejTbBsCnFNA6-2X4*2kGPw**D9eEInfMPHGJvMaxqrmbLofWjdwuYDp7w53ggY7OzuEbeF1wsBP5ZofnFjjhoQJ5o1Py-plheqXPpU&new=1)
+ ## [移动通信计费乱象谁能管得住?蜗牛联通计费接口谁能查的清?](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=lPbxlBvwKI7je56cus4t0OMuBvejTbBsCnFNA6-2X48Usg5QswS3mMlCryiVI1cdmmB87LsUXdNNQAiChdjJL0eMRosu9b3JFqkCav*XHmVH-uLCHyKg6CIoTNWg5nUx&new=1)
  > 据说写出来的故事通常都有悲伤的结局，我们现在看到的这个故事也不例外。故事里的主人公：我：无辜受害者，被蜗牛踢了鼻子的码农。蜗牛移动：谁认识我？你们打算帮我做广告吗？中国联通：我是谁？我为什么在这里...
- ## [华为丁耘最新演讲谈5G：释放网络潜能，激发商业增长](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=UCAMUCxIwQm8RwjEbCFz-wewCtGCdWioXkgsM3R1z7tPKC69O*loUd0-A2hoDDihpJwdwZATln1PH8Kz5XE2typSJlwsevp1rD3VbhgEjGqJmO4W5ncC2syP5CtmXmx*&new=1)
+ ## [华为丁耘最新演讲谈5G：释放网络潜能，激发商业增长](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=UCAMUCxIwQm8RwjEbCFz-wewCtGCdWioXkgsM3R1z7vyTNiz1oVymsAKnKSvb6QPfIOgxWrAWJ6ysGRVIIyEBjVp2XhVQleVOx2n58dMHCYEDZxNXHGCkYUcWCeYMEey&new=1)
  > 5G ToB覆盖千行百业，包括港口、矿山、自动驾驶、新媒体等，运营商重点该发力哪个？在2020年7月28日“华为2020共赢未来全球线上峰会(Better World Summit)”上，华为常务董事、运营商BG总裁丁耘表示就此提出四大...
- ## [小科普|哪些网盘可以代替度娘?](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=Vtfb5qh2Ssd*BtIC6cSJVEBvwF7xfJBVfs6uCfKHH0Oy4HzPLesGOxA9Sh25Hf6wOKChMdQmNMFfRGOUyMfDZ6qiDaSRaKJuXl3bbj--wI0Extqn4Sz8TFFdR9gJvRpq&new=1)
+ ## [小科普|哪些网盘可以代替度娘?](http://mp.weixin.qq.com/s?src=11&timestamp=1596097806&ver=2491&signature=Vtfb5qh2Ssd*BtIC6cSJVEBvwF7xfJBVfs6uCfKHH0PeItc26RipdRASBipwAFWImTQ5kzVDWis97JB8aWW0J*RRyJVtXBE5nJri1Lw6YngS5I8CmxAyxcCByDAugh3A&new=1)
  > “网盘挂了...”“什么？刚传的又挂了？”每次分享完文件的时候，没什么敏感信息，只要下载量一多，就容易莫名失效。也有朋友说，自己开了会员，但有时候还是被限速，就很迷。网盘千千万，哪个最好用？今天就来...
- ## [中兴通讯原副总裁曾学忠出任小米手机部总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1596079806&ver=2491&signature=C5YN1KrIcLdMWdMrhL0nwOKoQmqJCAz2Fc76zqA3iWOBIkWMb45dvnLs6kP1wPqorZbpkYf7QbcHyzfWUft4mVQboUYk25TSug1zMegyHTQqHmJUpRPwkEaEX4n*iTU0&new=1)
- > 雷帝网 乐天 7月29日报道小米集团今日公布了最新高管任命：任命曾学忠出任集团副总裁、手机部总裁，负责手机产品的研发和生产工作，向集团董事长兼CEO雷军汇报。在曾学忠加盟同时，小米宣布成立集团战略委员会，...
-# IT 技术 
- ## [Docker不香吗，为啥还要K8s？](http://os.51cto.com/art/202007/622553.htm)
- > Docker不香吗，为啥还要K8s？
- ## [API团队须知的十大安全威胁](http://netsecurity.51cto.com/art/202007/622422.htm)
- > API团队须知的十大安全威胁
- ## [今天你“被”5G了吗？](http://network.51cto.com/art/202007/622402.htm)
- > 今天你“被”5G了吗？
- ## [运维数据建设和管理方法，看这一篇就够了](http://news.51cto.com/art/202007/622397.htm)
- > 运维数据建设和管理方法，看这一篇就够了
- ## [人工智能的未来对人类意味着什么?](http://ai.51cto.com/art/202007/622382.htm)
- > 人工智能的未来对人类意味着什么?
- ## [防止电子邮件网络钓鱼攻击的10种方法](http://netsecurity.51cto.com/art/202007/622377.htm)
- > 防止电子邮件网络钓鱼攻击的10种方法
- ## [深入浅出从根上理解 HTTP 缓存机制及原理！](http://network.51cto.com/art/202007/622374.htm)
- > 深入浅出从根上理解 HTTP 缓存机制及原理！
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
- ## [imutils库源码解析，看它如何调用opencv（一）- 基本函数](https://blog.csdn.net/weixin_44613063/article/details/107043805)
- > 
- ## [2020年，一招教你打造个性化的Github主页！](https://blog.csdn.net/zwluoyuxi/article/details/107600491)
- > 
- ## [Linux下OpenSSL自签ssl证书](https://blog.csdn.net/qq175023117/article/details/107611684)
- > 
- ## [揭开电脑上登录多个微信的秘密](https://blog.csdn.net/xuanyuan_fsx/article/details/107540776)
- > 揭开电脑上登录多个微信的秘密
- ## [一步一步，手把手带你用最简单的方法，在linux上安装anaconda](https://blog.csdn.net/qq_35082030/article/details/107588945)
- > 
- ## [C++实现_数据分类处理（牛客网华为机试题）](https://blog.csdn.net/ggq89/article/details/107602974)
- > C++实现_数据分类处理（牛客网华为机试题）
- ## [Vue + Spring Boot 项目实战（二十一）：缓存的应用](https://blog.csdn.net/Neuf_Soleil/article/details/107028816)
- > Vue + Spring Boot 项目实战（二十一）：缓存的应用
- ## [六、HDFS中的NameNode和SecondaryNameNode](https://blog.csdn.net/gdkyxy2013/article/details/107577973)
- > 六、HDFS中的NameNode和SecondaryNameNode
- ## [五、Hadoop核心组件之HDFS](https://blog.csdn.net/gdkyxy2013/article/details/107028513)
- > 五、Hadoop核心组件之HDFS
- ## [4月第3周易盾业务风控关注 | 公安部“净网2020”专项行动全面展开](https://blog.csdn.net/yidunmarket/article/details/105601675)
- > 4月第3周易盾业务风控关注 | 公安部“净网2020”专项行动全面展开
- ## [连续 3 年最受欢迎：Rust，香！](https://blog.csdn.net/alitech2017/article/details/107485225)
- > 连续 3 年最受欢迎：Rust，香！
- ## [浅谈拉勾网的营销亮点](https://blog.csdn.net/qq8864/article/details/107047646)
- > 浅谈拉勾网的营销亮点
- ## [Golang 从 Json 串中快速取出需要的字段](https://blog.csdn.net/qianghaohao/article/details/107145838)
- > 
- ## [【高并发】关于乐观锁和悲观锁，蚂蚁金服面试官问了我这几个问题！！](https://blog.csdn.net/l1028386804/article/details/107602790)
- > 【高并发】关于乐观锁和悲观锁，蚂蚁金服面试官问了我这几个问题！！
- ## [阿里面试官问我Mybatis，我怂了吗？](https://blog.csdn.net/Java_3y/article/details/107525237)
- > 
 # 人工智能 
- ## [Spark Core快速入门系列(8) |  RDD 的持久化](https://blog.csdn.net/qq_16146103/article/details/107592631)
- > Spark Core快速入门系列(8) |  RDD 的持久化
- ## [快速入门Flink (5) ——DataSet必知必会的16种Transformation操作(超详细!建议收藏!)](https://blog.csdn.net/weixin_44318830/article/details/107598040)
- > 
- ## [快速入门Shell脚本(5)——Shell的这些工具你都知道了吗？](https://blog.csdn.net/qq_43791724/article/details/107672417)
- > 快速入门Shell脚本(5)——Shell的这些工具你都知道了吗？
- ## [打破国外垄断，开发中国人自己的编程语言（1）：编写解析表达式的计算器](https://blog.csdn.net/nokiaguy/article/details/107650586)
- > 
- ## [Win10下最新版CLion(2020.1.3)安装及环境配置](https://blog.csdn.net/qq_42730750/article/details/107647670)
- > Win10下最新版CLion(2020.1.3)安装及环境配置
- ## [scala中关键字implicit的常用用法详解](https://blog.csdn.net/sun_0128/article/details/107642757)
- > scala中关键字implicit的常用用法详解
- ## [阿里云成为首个通过《面向公有云模式的政务云服务》测评的厂商](https://blog.csdn.net/weixin_46248827/article/details/107670303)
- > 阿里云成为首个通过《面向公有云模式的政务云服务》测评的厂商
- ## [泊松回归R语言实例](https://blog.csdn.net/qingchen98/article/details/107673471)
- > 泊松回归R语言实例
- ## [Kubernetes(k8s)安装过程详细记录](https://blog.csdn.net/ldjjbzh626/article/details/107638220)
- > 
- ## [hive show databases ERROR问题记录:java.lang.IllegalAccessError FetchOperator](https://blog.csdn.net/weixin_40620344/article/details/107644050)
- > hive show databases ERROR问题记录:java.lang.IllegalAccessError FetchOperator
- ## [Spark Core快速入门系列(7) |  Spark Job 的划分](https://blog.csdn.net/qq_16146103/article/details/107591802)
- > Spark Core快速入门系列(7) |  Spark Job 的划分
- ## [docker jenkins  registry gitlap rancher k8s nacos 容器部署与持续集成(单机测试在centos7下进行)](https://blog.csdn.net/m0_47010811/article/details/107657102)
- > docker jenkins  registry gitlap rancher k8s nacos 容器部署与持续集成(单机测试在centos7下进行)
- ## [HIVE中实现本月某天对应上月同一天实现](https://blog.csdn.net/weixin_42742178/article/details/107665723)
- > HIVE中实现本月某天对应上月同一天实现
- ## [数据库监控设计-DBA-专属](https://blog.csdn.net/u011084922/article/details/107642476)
- > 数据库监控设计-DBA-专属
- ## [报名即可获得CSDN专属福利，百万奖金等你赢取！](https://marketing.csdn.net/p/61d92b147cde590979383de98fe950f4?utm_source=1417272589)
- > 报名即可获得CSDN专属福利，百万奖金等你赢取！
+ ## [成功解决启动SQLServer失败，根据错误信息判断错误故障](https://blog.csdn.net/qq_41185868/article/details/107645510)
+ > 成功解决启动SQLServer失败，根据错误信息判断错误故障
+ ## [北邮机器人队2020预备队培训（二） —— python入门](https://blog.csdn.net/qq_37668436/article/details/107633235)
+ > 北邮机器人队2020预备队培训（二） —— python入门
+ ## [该填志愿了，国内大学计算机专业哪家强？](https://blog.csdn.net/qing_gee/article/details/107595442)
+ > 该填志愿了，国内大学计算机专业哪家强？
+ ## [福建师范大学2020年8月课程考试《计算机应用基础》作业考核试题【标准答案】](https://blog.csdn.net/a865613217/article/details/107632486)
+ > 福建师范大学2020年8月课程考试《计算机应用基础》作业考核试题【标准答案】
+ ## [shell编程-流程控制-if语句(跟C、Java语言语法有很大不同)](https://blog.csdn.net/weixin_46818279/article/details/107655731)
+ > shell编程-流程控制-if语句(跟C、Java语言语法有很大不同)
+ ## [福建师范大学2020年8月课程考试《计算机应用基础》作业考核试题](https://blog.csdn.net/open1198712/article/details/107530373)
+ > 福建师范大学2020年8月课程考试《计算机应用基础》作业考核试题
+ ## [MySQL中sql语句的应用](https://blog.csdn.net/qq_42602282/article/details/107642769)
+ > MySQL中sql语句的应用
+ ## [新人上路，以菜鸟之名，对现在已学以及将来要学的进行一个简单的梳理，希望多多指教](https://blog.csdn.net/qq_43336579/article/details/107639731)
+ > 新人上路，以菜鸟之名，对现在已学以及将来要学的进行一个简单的梳理，希望多多指教
+ ## [2020年河南高考--各高校在河南录取分数线预测](https://blog.csdn.net/zhanglei1234567890/article/details/107664796)
+ > 2020年河南高考--各高校在河南录取分数线预测
+ ## [\[c++\]\[SDL\]图形学菜鸡的软渲染之路1-渲染流程概述](https://blog.csdn.net/weixin_43153753/article/details/107643321)
+ > \[c++\]\[SDL\]图形学菜鸡的软渲染之路1-渲染流程概述
+ ## [AI志愿填报软件靠不靠谱？](https://blog.csdn.net/m0_48406244/article/details/107630418)
+ > AI志愿填报软件靠不靠谱？
+ ## [计算机网络协议专栏介绍以及综述](https://blog.csdn.net/javajiawei/article/details/107645356)
+ > 计算机网络协议专栏介绍以及综述
+ ## [关于邮件发送，只看这一篇就够了！！！](https://blog.csdn.net/zjw3542/article/details/107645851)
+ > 关于邮件发送，只看这一篇就够了！！！
+ ## [XLINUX-FPGA开发-基础篇-数电-门电路](https://blog.csdn.net/Xiao_Jie123/article/details/107581478)
+ > XLINUX-FPGA开发-基础篇-数电-门电路
+ ## [华为路由器访问控制列表ACL配置实例](https://blog.csdn.net/shengjie87/article/details/107659069)
+ > 华为路由器访问控制列表ACL配置实例
 # PM 
- ## [制定项目计划，确保团队协同效率按时完成任务](http://www.chanpin100.com/article/112332)
- > 一般来说，为了方便团队分工，都会制定工作安排表，分配每个人的任务及完成时间。因此项目负责人在施工前要做好装修计划，工作安排应该越详细越好。将工作安排表做得更详细的其中一个方法就是把每个任务拆分成细项，并独立列出每项的内容、要求和时间。
- ## [论产品经理的自我修养](http://www.chanpin100.com/article/112330)
- > 如何避免和开发的日常撕逼...
- ## [产品经理学商业分析-2.商业分析规划](http://www.chanpin100.com/article/112328)
- > 需要评估即已完毕，下一步开始对商业分析活动进行规划，识别一切影响因素和风险
- ## [产品经理如何从0到1](http://www.chanpin100.com/article/112326)
- > 产品经理的输出能力会影响到团队的效率，这表示我们在思考的过程中，必须要顾及到团队效率，排除我们个人的输出能力，还要考虑如何将团队效率提高到极致。
- ## [直面挑战破局谋新，房地产数字化转型之路！](http://www.chanpin100.com/article/112325)
- > 随着中国的城镇化进程进入成熟期，房地产行业由增量时代向存量时代的转换是最关键的中长期趋势。存量时代，数字化如何重塑房地产？
- ## [疫情下克己复“理”，消费者新宠上位|2020年中国线上导购生态图谱](http://www.chanpin100.com/article/112331)
- > 简介：疫情之后，淘宝特价版、拼多多等主打低价的平台逐渐成为消费者的新宠。与此同时，另外一类可以帮助消费者省钱的移动应用也迎来了用户的快速增长，即线上导购平台……
- ## [汽车产业新格局：新型汽车服务平台或将异军突起](http://www.chanpin100.com/article/112329)
- > 共享汽车行业用户规模持续上升，4月活跃用户达368万
- ## [印度的封杀又来了！再禁用47个中国App，名单上还有275个](http://www.chanpin100.com/article/112327)
- > 印度再禁用47个中国App
+ ## [企业为什么留不住人](http://www.chanpin100.com/article/112347)
+ > 有了合适的人才是项目成功的前提，留住人才、减少人员流动则是项目成功的保障。那么，如何留住人才，使项目能够正常地执行呢?
+ ## [24：这种设计我只在小米有品里看到过](http://www.chanpin100.com/article/112344)
+ > 作者：杜昭 公众号：设计的威严
+ ## [23：我发现了一个比苹果做的还好的产品](http://www.chanpin100.com/article/112343)
+ > 作者：杜昭 公众号：设计的威严
+ ## [22：解读淘宝购物车的改版原因](http://www.chanpin100.com/article/112342)
+ > 作者：杜昭 公众号：设计的威严
+ ## [21：对比滴滴和嘀嗒的设计差别](http://www.chanpin100.com/article/112341)
+ > 作者：杜昭 公众号：设计的威严
+ ## [大型产品经理PUA现场](http://www.chanpin100.com/article/112337)
+ > 谁能躲的过
+ ## [产品经理必备技能——正确的提需求姿势](http://www.chanpin100.com/article/112336)
+ > 保护产品汪，拒绝砍需求
+ ## [极光：“超职季”招聘行业报告—技术篇](http://www.chanpin100.com/article/112334)
+ > 受疫情影响视频面试需求增长明显，视频招聘已成趋势
+ ## [将达万亿规模，疫情之下在线教育如何通过数字化抢占先机？](http://www.chanpin100.com/article/112333)
+ > 在线教育的破局之道
+ ## [云翔问道魏燕翔：关于增长和零售的12大思考](http://www.chanpin100.com/article/112345)
+ > 好的生意要么让用户节约时间，要么让他们愉快地打发时间
+ ## [新零售时代下如何有效触达用户？客群运营是关键](http://www.chanpin100.com/article/112339)
+ > 如何打造具有相同属性的客群？又如何在他们之间形成价值认同呢？本文从4个维度着手，教你瞄准核心客群，批量获取高净值客户。
+ ## [互联网教育竞争加剧，又该如何创新另寻出路？](http://www.chanpin100.com/article/112338)
+ > 简介：2020上半年，疫情催化中小学在线教育需求上行，厂商纷纷推出免费课吸纳流量，头部平台加强市场营销提升品牌声量，行业竞争趋于白热化，马太效应愈发显著……
 
     
