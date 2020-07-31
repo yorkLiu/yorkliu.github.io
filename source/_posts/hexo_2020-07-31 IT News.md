@@ -1,24 +1,34 @@
 ---
 title: 2020-07-31 IT News
 copyright: true
-date: 2020-07-31 10:02:29
+date: 2020-07-31 12:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [85岁高龄搞成称霸地表的台积电，但他可不是什么大器晚成的人](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=WHcArqnuQvLjBoyeQeeF3Mi*AycBdmcAM5k8fjJ9EvdJF9l0z49t5lLxkhbjAc1ARl5SL2WsStcgq37G9hMSCIw*sLqQOOZdNxZ1MGrW13j1Mis3NAe*Nabkus5gYPdF&new=1)
- > &quot; “我从来没有把英特尔当作标杆，我是树立我自己的标杆。”                 作者：毕亚军来源：华商韬略（hstl8888）1988年，张忠谋通过私人交情把老朋友、也是老对手——英特尔总裁格鲁夫，连哄带骗地请到了...
- ## [\[报告\]2020长城汽车业务研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=ke282DbBMBgRY3nHOD8G7qap6eKIJI64I-BGUnd6v4HlyjBkCOOAw6gJe9AFmFLfYzWOR1mjolAosjXKLshqCMqo-nWCB87sOQh1y8n0Ja9c3jIJjpvv27mfmm06nBL0&new=1)
- > 长城汽车是全球知名的SUV和皮卡制造企业，已于2003年、2011年分别在香港和内地上市，旗下拥有哈弗、WEY、欧拉和长城皮卡四个品牌，产品涵盖SUV、轿车、皮卡三大品类，动力包括传统动力车型和新能源车型，具备发...
- ## [Secure Boot(安全启动)曝出BootHole新漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=VsQaajcEZI3zjnEVZRelY35K5LwYMTBnzTGpp49cqY7oMcLBhdbYVAIFcTcK0ZDwDEkIu3QxSuc3dogPqLePxpSC1MIb0a1kA9r3SN5UDaDP781*U8BfsFSxM*dYMZ7U&new=1)
- > 安全研究公司Eclypsium刚刚曝光了安全启动（Secure Boot）功能中的一个新漏洞，命名为“BootHole ”。其特别存在于Secure Boot的GRUB2文件中，攻击者可借此对受害者的系统实现“近乎完全的控制”。使用标准的微
- ## [IFOC 2020|下一代光·纤连你我 第19届讯石光通讯研讨会邀您共襄盛举](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=3BqVPNpkJRxxf0R4NUCoOZA2eXcrsIj**qTE8uzwKTIIRaug1nqzm0sJLr*6rHqXhG4iSjiXWgRx0Zz7UA12YTZMxSn0gLaQsSgFSLUIAFBHa5u3lBKvnvLxgfXmoVQN&new=1)
+ ## [苹果国内服务商：不再直接更换损坏的 AirPods；理想开盘涨超 43%市值破百亿美元；雷军B站视频曝光 并未唱歌|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=3WP0cIWbVWkdUunwBn0kmdAx5DiJEjC-Ti4w36Xt00LtvO8ofZxO-wevjDcqwDWOMdB-xwOrH1a6-feac58W4XNlB1iIb4AjrIrGD8bIRIRiaYVB0NTW9gwWudy6Ux00&new=1)
+ > 苹果业绩超预期，库克：疫情促进了产品销售北京时间 7 月 31 日凌晨消息，苹果公司今天发布了 2020 财年第三财季业绩。报告显示，苹果公司第三财季来自于 iPhone 的净营收为 264.18 亿美元，相比之下去年同期为 ...
+ ## [大尺寸/高速度/生产级!Polymaker全新3D打印颗粒材料PolyCor](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=Pd3Oq28Z1X-kYd3wfUOVxkq5hy22Us1SG5oYmoIdLzO9ktuc4yjwBmYwWe6Fc3JBra77e2F8rXNJf0DtMNMFkGJxkLd9eurZFAoP6*QSVjBgfYYSK4Kh0D2pOJmRrAp2&new=1)
+ > 南极熊导读：在FDM大尺寸、大规模生产制造方面，直接使用颗粒材料是一种趋势，不但成型效率更高，而且材料成本更低。2020年7月，3D打印材料大厂Polymaker在TCT Asia展会上，宣布正式发布全新的3D打印粒料产品线 ...
+ ## [“BootHole”漏洞致数十亿Windows和Linux设备受到严重影响!](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=SdH2yIh2OKwOLy6loGlwk95ooJbjrljmNcEXHyr0gfUOe1QEenrKRLhcyZxneg1D*LjIThF*PIEhMs*4PtO8UOMNWwnz*fuvv9P5Tl2F0zyA1MG2WjXnzxyLj063dcT0&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全7月31日讯，据外媒报道，固件安全公司Eclypsium于星期三透露，数十亿Windows和Linux设备将会受到严重的GRUB2引导加载程序漏洞的影响，攻击者可以利
+ ## [理想汽车登陆纳斯达克；库克认为疫情促进了苹果产品销售；互联网法院一审宣判抖音、微信读书侵害用户个人信息|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=qhOSq-q69fyxerf0-OgJQ5SBcKqo6mn07T*a3qbzS-p2ZEyxE7rAZvSOsGOzGdhOkyN4eHd4weBj6U2OkzL2X1-VjJvAGnNw-6EvyZ9Fd7EIZjkR9M2LItpJukQ6Izil&new=1)
+ > Hello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【理想汽车登陆纳斯达克：开盘价15.5美元，较发行价涨34.78%】7 月 30 日晚，理想汽车正式登陆纳斯达克，股票代码“LI”，开盘价为15.5美元/ADS...
+ ## [V神演讲内容曝光!Defi、挖矿、行业应用更多主题大揭秘!](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=O1j-DdG0pWYGxbFoqLNp*x4*gN5UbtwgtOcvCjlYofOMmvgXVq0zu6tpY79TTkAsuL7RYKRqhNz*GFMduqoTpIVffOpC5j2dJbP5EHUQh8aCfrjHMrbiG2TUrHKTqzCR&new=1)
+ > 作者 | 晋兆雨图片来源 | CSDN 下载自东方 IC以太坊2.0的有哪些机会与挑战？如何快速开发以太坊应用？以太坊应用实践如何落地？协议技术局限如何设计解决方案？身为以太坊爱好者、开发者的你，是否还有许多技术...
+ ## [IFOC 2020|下一代光·纤连你我 第19届讯石光通讯研讨会邀您共襄盛举](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=3BqVPNpkJRxxf0R4NUCoOZA2eXcrsIj**qTE8uzwKTJ*j3gsfUExYOnBAN33jqqFl7ztWT880nslxQH0aO0wjiXpMCRMiig596NEYkLkA2irZq919V0PxUZv64lQyrm2&new=1)
  > 新闻导读202年9月7-8日，第十九届讯石光纤通讯市场暨技术专题研讨会（IFOC2020）邀您共聚深圳大中华喜来登酒店，从五大专题切入覆盖整个光通讯市场和技术热点的全面内容，把握5G领跑机会，共创5G领航新未来。热...
- ## [创投|2020 Qualcomm创投红杉中国5G生态创业大赛震撼开启!](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=CUvHrzifwKatir1xLZar4q0aqCh24V59V8uJitdp7FeuQh6agR3gh9CUMlNbYTGj8XFmZUEhzFAQ5YJZkh4xiEndleXLKjfZQZ7l5drxOYfQfTt*wYYmCDCaQByFSS7H&new=1)
+ ## [85岁高龄搞成称霸地表的台积电，但他可不是什么大器晚成的人](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=WHcArqnuQvLjBoyeQeeF3Mi*AycBdmcAM5k8fjJ9EveSXvgEL44Tv8deFKysXB4mxOf*w87o9jujx1Ly05ANVBm4gFhQ11OICXyBghh5ZJXmDKRxGZ9VeET3g12FQPMt&new=1)
+ > &quot; “我从来没有把英特尔当作标杆，我是树立我自己的标杆。”                 作者：毕亚军来源：华商韬略（hstl8888）1988年，张忠谋通过私人交情把老朋友、也是老对手——英特尔总裁格鲁夫，连哄带骗地请到了...
+ ## [\[报告\]2020长城汽车业务研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=ke282DbBMBgRY3nHOD8G7qap6eKIJI64I-BGUnd6v4GrOZx-ZR7Atqq68Xq*3UVrVRLUeept4ypc5AuRAUKw6jgAjnOeUb4W2GFsiv0c5r5S6F*h3DDKMZTbpxT1faXv&new=1)
+ > 长城汽车是全球知名的SUV和皮卡制造企业，已于2003年、2011年分别在香港和内地上市，旗下拥有哈弗、WEY、欧拉和长城皮卡四个品牌，产品涵盖SUV、轿车、皮卡三大品类，动力包括传统动力车型和新能源车型，具备发...
+ ## [Secure Boot(安全启动)曝出BootHole新漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=VsQaajcEZI3zjnEVZRelY35K5LwYMTBnzTGpp49cqY6Aek1hFvJJtDItH2FJh5LEU2RW9A4AAWEHQx*5HKpyhf9lhGkTTgcio1JznvI2HuR0CkyV96cjSRmI37polaXi&new=1)
+ > 安全研究公司Eclypsium刚刚曝光了安全启动（Secure Boot）功能中的一个新漏洞，命名为“BootHole ”。其特别存在于Secure Boot的GRUB2文件中，攻击者可借此对受害者的系统实现“近乎完全的控制”。使用标准的微
+ ## [创投|2020 Qualcomm创投红杉中国5G生态创业大赛震撼开启!](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=CUvHrzifwKatir1xLZar4q0aqCh24V59V8uJitdp7Fdb54L1EF7uzpm2Rr40USCqboC1VrxbRsffsbVsHckGbAnuul8HJjvW4YRcvOA8cuvdXu3bMttGxTjQDZ2dSMVJ&new=1)
  > 这个夏天，中国5G商用牌照发放已满一年，5G标准第二版规范Rel-16也已完成。不断演进的5G标准正在将5G生态扩展至更多垂直领域。5G将不仅成为全球数字经济增长的强大动力，也将为更多“造梦者“提供新的创业机遇。...
- ## [装个手电筒App，竟然要用我的通讯录?快把手机里这些应用权限都关掉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=nLsMFKAeHDTw-z8zBRX7mbAmjPdYUZAVgM43MMPZ1oeH2WwokjDfZZ9qOjtRcwjIFUZAoMFv8a6wmbn*h7G2qSSjAcGXUiZsNU3zYgF7JqwJP*qlVKZM6g-GkdzQxYAr&new=1)
+ ## [装个手电筒App，竟然要用我的通讯录?快把手机里这些应用权限都关掉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=nLsMFKAeHDTw-z8zBRX7mbAmjPdYUZAVgM43MMPZ1oex1L6hyQP07BL6WXz-WbIcdFMG8jOEcPrs6UXg**eZXhP9edgOsn0srMX2r5twawYXxiSo8mlxbG6jveD059YP&new=1)
  > 相信大家都有所察觉，现在用手机随便下载个软件，首次安装它都要用户同意各种权限，什么相册权限、定位权限、通信权限等等。有的App还特别傲娇，不给就不给你用！那么这些权限可以随便给吗？我们能不能不授权呢...
- ## [资讯|通过公安部移动警务终端认证，海能达多模智能对讲机PDC680助力科技强警](http://mp.weixin.qq.com/s?src=11&timestamp=1596159083&ver=2493&signature=FCoyTadegbVpfPkV5f7wmMigvxAgJq07bkocVkBPQsXzqpY7*OWwhWkGCXPrgEbuclbQdcmXPJd2aOPTa0EDhBI1m8*z*m1u9QcGmRrIyNIaI0vrJ-fCL6R8cr9wThQM&new=1)
+ ## [资讯|通过公安部移动警务终端认证，海能达多模智能对讲机PDC680助力科技强警](http://mp.weixin.qq.com/s?src=11&timestamp=1596166206&ver=2493&signature=FCoyTadegbVpfPkV5f7wmMigvxAgJq07bkocVkBPQsUO2T00ciXW*apdLVOCtpMzWM1bzWjN6QuJBtkVSEYkqXi8oz8*12qvlEEYmHJSyblyE6GBGD-KIYBm5viqilTv&new=1)
  > 导言海能达多模智能对讲机PTC/PDC760已于2019年及2020年初通过移动警务终端认证。此次随着PDC680通过认证，海能达多模智能对讲机进一步强化了移动警务终端阵营。近日，经党中央批准、国务院批复，自2021年起，将...
 # IT 技术 
  ## [浅谈拉勾网的营销亮点](https://blog.csdn.net/qq8864/article/details/107047646)
@@ -45,43 +55,43 @@ categories: IT NEWS
  > Rust入坑指南：万物初始
  ## [Vue + Spring Boot 项目实战（二十一）：缓存的应用](https://blog.csdn.net/Neuf_Soleil/article/details/107028816)
  > Vue + Spring Boot 项目实战（二十一）：缓存的应用
- ## [仅用 10 天设计的 JavaScript，凭什么成为程序员最受欢迎的编程语言？](https://marketing.csdn.net/p/d83bc75569e11362a91b0f0ff37237bb)
- > 仅用 10 天设计的 JavaScript，凭什么成为程序员最受欢迎的编程语言？
  ## [Jetpack Compose,不止是一个UI框架！](https://blog.csdn.net/zwluoyuxi/article/details/106273333)
  > 
  ## [Java多线程面试题，我丝毫不慌](https://blog.csdn.net/Java_3y/article/details/107628426)
  > 
+ ## [USB 2.0 网络、传输、通讯和协议](https://blog.csdn.net/ybhuangfugui/article/details/107602742)
+ > USB 2.0 网络、传输、通讯和协议
 # 人工智能 
- ## [\[安全攻防进阶篇\] 一.什么是逆向分析、逆向分析应用及经典扫雷游戏逆向 (1)](https://blog.csdn.net/Eastmount/article/details/107591832)
- > \[安全攻防进阶篇\] 一.什么是逆向分析、逆向分析应用及经典扫雷游戏逆向 (1)
- ## [靓仔，你会synchronized吗？](https://blog.csdn.net/qq_36270361/article/details/107393278)
- > 靓仔，你会synchronized吗？
- ## [阿里云成为首个通过《面向公有云模式的政务云服务》测评的厂商](https://blog.csdn.net/weixin_46248827/article/details/107670303)
- > 阿里云成为首个通过《面向公有云模式的政务云服务》测评的厂商
- ## [sqlmap的使用方法](https://blog.csdn.net/qq_41679358/article/details/107619417)
- > sqlmap的使用方法
- ## [Java多线程面试题，我丝毫不慌](https://blog.csdn.net/Java_3y/article/details/107628426)
- > 
- ## [i春秋-第三届“百越杯”福建省高校网络空间安全大赛](https://blog.csdn.net/qq_44858189/article/details/107661191)
- > i春秋-第三届“百越杯”福建省高校网络空间安全大赛
- ## [较真儿学源码系列-ThreadPoolExecutor（逐行源码带你分析作者思路）](https://blog.csdn.net/weixin_30342639/article/details/107584800)
- > 较真儿学源码系列-ThreadPoolExecutor（逐行源码带你分析作者思路）
- ## [8.5. Windows](https://blog.csdn.net/weixin_43510203/article/details/107653141)
- > 8.5. Windows
- ## [女朋友问我什么是云计算？](https://blog.csdn.net/alitech2017/article/details/107642382)
- > 女朋友问我什么是云计算？
- ## [600+常见面试题以及简历指导，教你如何征服面试官，成功拿Offer](https://blog.csdn.net/weixin_42864905/article/details/107647777)
- > 600+常见面试题以及简历指导，教你如何征服面试官，成功拿Offer
- ## [\[安全攻防进阶篇\] 二.如何学好逆向分析、逆向路线推荐及吕布传游戏逆向案例 (2)](https://blog.csdn.net/Eastmount/article/details/107650949)
- > \[安全攻防进阶篇\] 二.如何学好逆向分析、逆向路线推荐及吕布传游戏逆向案例 (2)
- ## [什么是cookie？session和cookie有什么区别？](https://blog.csdn.net/djklsajdklsajdlk/article/details/107641966)
- > 什么是cookie？session和cookie有什么区别？
- ## [零基础使用AWVS进行测试？你不得不掌握的基础知识](https://blog.csdn.net/qq2539879928/article/details/107665387)
- > 零基础使用AWVS进行测试？你不得不掌握的基础知识
- ## [sld样式文件demo](https://blog.csdn.net/ylfmsn/article/details/107654086)
- > sld样式文件demo
- ## [走过路过，不要错过的powersploit用法简介！](https://blog.csdn.net/qq_44108455/article/details/107652522)
- > 
+ ## [Educational Codeforces Round 92 (Rated for Div. 2) A、B、C题解](https://blog.csdn.net/qq_43058685/article/details/107683040)
+ > Educational Codeforces Round 92 (Rated for Div. 2) A、B、C题解
+ ## [是时候更新手里的武器了—Jetpack最全简析](https://blog.csdn.net/liuzhengisme/article/details/107662992)
+ > 是时候更新手里的武器了—Jetpack最全简析
+ ## [记录vant weapp 小程序组件库遇到的坑以及ios和安卓兼容问题 SubmitBar](https://blog.csdn.net/Taurus_0811/article/details/107691762)
+ > 记录vant weapp 小程序组件库遇到的坑以及ios和安卓兼容问题 SubmitBar
+ ## [Android音乐播放器](https://blog.csdn.net/qq_40469797/article/details/107663519)
+ > Android音乐播放器
+ ## [微信更新7.0.12版本后，小程序内的f2图表IOS坐标轴内容不显示，安卓闪退问题。](https://blog.csdn.net/aspire_cj/article/details/107682616)
+ > 微信更新7.0.12版本后，小程序内的f2图表IOS坐标轴内容不显示，安卓闪退问题。
+ ## [Android 扫码盒子全局接收付款码（全局事件&上层接收&多重下发）](https://blog.csdn.net/qq_39731011/article/details/107684794)
+ > Android 扫码盒子全局接收付款码（全局事件&amp;上层接收&amp;多重下发）
+ ## [Flutter百度地图](https://blog.csdn.net/m0_37667770/article/details/107669153)
+ > Flutter百度地图
+ ## [RecyclerView样式的日历选择器](https://blog.csdn.net/greatdaocaoren/article/details/107689760)
+ > RecyclerView样式的日历选择器
+ ## [iPad开发【UIPopoverController/popoverPresentationController的使用】（占用部分屏幕空间来呈现信息，而且显示在屏幕的最前面）SplitVC](https://blog.csdn.net/u011018979/article/details/107686233)
+ > iPad开发【UIPopoverController/popoverPresentationController的使用】（占用部分屏幕空间来呈现信息，而且显示在屏幕的最前面）SplitVC
+ ## [Android以太网框架情景分析之NetworkFactory与NetworkAgent深入分析](https://blog.csdn.net/tkwxty/article/details/107363504)
+ > Android以太网框架情景分析之NetworkFactory与NetworkAgent深入分析
+ ## [HDU 第四场部分题解：](https://blog.csdn.net/yangzijiangac/article/details/107695497)
+ > HDU 第四场部分题解：
+ ## [Servlet今日学习](https://blog.csdn.net/weixin_43521888/article/details/107701028)
+ > Servlet今日学习
+ ## [Android使用Volley框架显示“Cleartext HTTP traffic to XXX not permitted”的解决方法](https://blog.csdn.net/weixin_46269688/article/details/107700032)
+ > Android使用Volley框架显示“Cleartext HTTP traffic to XXX not permitted”的解决方法
+ ## [vue spa history模式 jssdk注入 `invalid signature`解决](https://blog.csdn.net/qq_36131788/article/details/107665082)
+ > vue spa history模式 jssdk注入 `invalid signature`解决
+ ## [Android SVG图片解析Demo](https://blog.csdn.net/u012894808/article/details/107694225)
+ > Android SVG图片解析Demo
 # PM 
  ## [企业为什么留不住人](http://www.chanpin100.com/article/112347)
  > 有了合适的人才是项目成功的前提，留住人才、减少人员流动则是项目成功的保障。那么，如何留住人才，使项目能够正常地执行呢?
