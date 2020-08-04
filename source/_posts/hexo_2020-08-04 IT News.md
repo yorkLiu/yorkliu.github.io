@@ -1,38 +1,52 @@
 ---
 title: 2020-08-04 IT News
 copyright: true
-date: 2020-08-04 09:03:17
+date: 2020-08-04 10:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [武汉大学生“3D打印之发光字智能制造”获创客大奖](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=4BVzL*ClZuzEGaZhrP1b8kOVh3zVegDAC*KuUB7rZ2bL1ceOJQxr7QO*roWHuZ15yGe7cjjZx-HSXFq56M8rEbn0bpZmngpmfCRAhSQTQBYakjRttGemzsgP1hDivYoR&new=1)
- > 由武昌理工学院影视传媒学院学子陈昊为主讲人，许琪、蔡梦欣等成员组成的远锦三维团队，以快速发展的信息时代为载体，运用以信息技术与制造技术深度融合为主的智能制造模式，历时两年，深入研究发展“3D发光字打...
- ## [发文!中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=fhXYpw7pPhAYdxuX4MB2B6qOO0x0EJaNWS9ZkFEpoN1zzN9RVz5TL7WefpKIIkMtNtaLypIYaZFfihDh-kjUBX47ANLufh9EuPQ56WVY9q0H3c3YP-*Je3sDja1HKkqC&new=1)
- > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运...
- ## [IBM发布Linux版本全同态加密(FHE)工具集](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=FRrWqse4UnAJWXtxThCxFgrimarohCU6FL5OgLGSqGcQ2oT6Vv07FVEkiMdxFv*M6DJRxe1Urs25qNx8qKNETzoIP9yX6VB*BwAZgx-YpO2FKAiqG4Tn68GnJY7Uw2fW&new=1)
+ ## [IBM发布Linux版本全同态加密(FHE)工具集](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=FRrWqse4UnAJWXtxThCxFgrimarohCU6FL5OgLGSqGcQ2oT6Vv07FVEkiMdxFv*Mer*c5Y95xRksFjeuwOUlb-9c2GbVEU0gnpYi-QsGApAGRlyT0wCeIJQLSzCxvHh2&new=1)
  > IBM发布Linux版本全同态加密（FHE,Fully homomorphic encryption）工具集，源代码也在GitHub发布。如果一个加密函数同时满足加法同态和乘法同态，称为全同态加密。FHE允许对密文进行特定的代数运算得到仍然
- ## [刚刚，中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=a7cIYuW4oHIKCLuDBi0hOY0yjqOSR7YeEN2w*riOgaONgNCpz0wwpMWslVHcX-OPGHfBL-AnsI9r*ZaEI8Ht8du5M54YF4MOeK0hrS4f*v*u1PCfZO8T3cJoTbAqHIVc&new=1)
+ ## [武汉大学生“3D打印之发光字智能制造”获创客大奖](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=4BVzL*ClZuzEGaZhrP1b8kOVh3zVegDAC*KuUB7rZ2bL1ceOJQxr7QO*roWHuZ15rcFQfu0ssFQ9iz-t*eNglRDmiwt41OMc9bAZwbNwU7cEpiI094*v3HG-DnrY6ZUI&new=1)
+ > 由武昌理工学院影视传媒学院学子陈昊为主讲人，许琪、蔡梦欣等成员组成的远锦三维团队，以快速发展的信息时代为载体，运用以信息技术与制造技术深度融合为主的智能制造模式，历时两年，深入研究发展“3D发光字打...
+ ## [\[科技早报7点整\]特朗普同意给字节跳动45天协商出售TikTok事宜 华为阿里员工跳槽微软受抵制……](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=gkgTy*1rLi*21HSugO06SPFuAbQo2ZZ5Vio18ySvy30fDmujRnU3TUY-Gisx8ULkYycxYfpgBj6n03i9wO5Rjoy*XNNhTj7CCFFIcEdXVqUtm3-srI3VHt*YfV2z8vcH&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第882期1.因为太费电，洛阳联通定时休眠5G基站近日，洛阳联通夜间部分时段休眠关闭部分中兴5G基站，来降低电费成本的消息，引起热议。内部员工透露，目前只有洛阳地区采取了这...
+ ## [IFOC 2020|欢迎报名第19届讯石研讨会](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=eG-PzFwQDqa8Gn3bHXwcoyJr6cc9EqfI143F8I9InVkaZlWIH3xigYgyx5YR-fs8UT3kX43i13mwbuKNKuyhValK6WQxhhsSI4yENj7tn9c-eBPB9hsc-QILaEQ27THZ&new=1)
+ > ICC讯 2020年9月7日-8日，第19届讯石光纤通讯市场暨技术专题研讨会（The 19th Infostone Optical Communication Market and Tchnology Conference，简称“IFO
+ ## [\[报告\]大城青年升级甩出车企几条街，大城青年洞察2020版(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=8MzdmiIkmbDBEMUY8dEJkAgTKVp-93xCSq4D7XP5pDIH04UXTB1Zf519ZmqP2toL0m7hB*shLzL3AuwBlkPIKc-04a8QsrtwTnhzQMzIZnA2Nor7F5Zh7ehk6z-ZM474&new=1)
+ > 近一二十年中国乘用车销量的高歌猛进，与广大青年用户的贡献密不可分，2013年20~34岁青年用户销量贡献占比57.93%，2018年仍维持52.72%的高位。老龄化加剧，未来十年青年用户对车市销量贡献的持续下滑，似乎不可...
+ ## [发文!中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=fhXYpw7pPhAYdxuX4MB2B6qOO0x0EJaNWS9ZkFEpoN1zzN9RVz5TL7WefpKIIkMt1fVaSepNYEqf*of7lDtf7Zoqe*XeZSYPAGv-rpDF59-UYvZGtGWdUn6EkKr1ZNgu&new=1)
+ > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运...
+ ## [刚刚，中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=a7cIYuW4oHIKCLuDBi0hOY0yjqOSR7YeEN2w*riOgaONgNCpz0wwpMWslVHcX-OPiCSrRn-ZrFAxZnfuzN4hNbw-YoKP6wJ8eJmEy3MCXJyaQplcorcOlS1MJTrF0Pms&new=1)
  > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！通信路上，一路相伴！一个有态度的圈子！
- ## [英伟达(Nvidia)拟收购Arm，已经开始深入谈判](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=B35vCaYTuz62QebsRFftHe-xZ5DdDYDq2zyeuceVYsvDiNCctHzubn51BUwrP1WWSPgLiEfpcQ3vt3sifpfXeaHWVuboTsQg9DGsIO4tYCMN6Y8Rewsqx-WDEHP9DgpG&new=1)
+ ## [英伟达(Nvidia)拟收购Arm，已经开始深入谈判](http://mp.weixin.qq.com/s?src=11&timestamp=1596504605&ver=2501&signature=B35vCaYTuz62QebsRFftHe-xZ5DdDYDq2zyeuceVYsvDiNCctHzubn51BUwrP1WWJoejCVsKgbRlwY-i*8rTdOLMxsoFvMscBza9Fvz7abkETMBbKLTRPF1DWchUYxxo&new=1)
  > 彭博社(Bloomberg)援引未具名消息来源报道，英国芯片设计公司Arm可能从目前的软银(SoftBank)所有者手中转手给英伟达(Nvidia)。据内部人士透露，两家公司正在进行“深入谈判”，未来几周可能会达成协议。四年前，...
 # IT 技术 
  ## [确保Kubernetes安全的三个阶段：构建、部署和运行时！](http://developer.51cto.com/art/202008/622823.htm)
  > 确保Kubernetes安全的三个阶段：构建、部署和运行时！
- ## [从项目团队获得很大收益的七个技巧](http://news.51cto.com/art/202007/622663.htm)
- > 从项目团队获得很大收益的七个技巧
- ## [新形势下工厂设备管理的5大误区与对策](http://iot.51cto.com/art/202007/622652.htm)
- > 新形势下工厂设备管理的5大误区与对策
- ## [不懂性能测试，被面试官挂了...](http://developer.51cto.com/art/202008/622723.htm)
- > 不懂性能测试，被面试官挂了...
- ## [四家企业利用AI技术解决地球与太空中的垃圾难题](http://ai.51cto.com/art/202007/622647.htm)
- > 四家企业利用AI技术解决地球与太空中的垃圾难题
- ## [物联网、人工智能和大数据如何帮助拯救地球](http://iot.51cto.com/art/202007/622637.htm)
- > 物联网、人工智能和大数据如何帮助拯救地球
- ## [分布式SQL数据库新的演变方向](http://database.51cto.com/art/202008/622717.htm)
- > 分布式SQL数据库新的演变方向
- ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
- > Docker快速入门视频课程（通俗易懂）
+ ## [可笑，架构师也能写出这样的Bug](http://developer.51cto.com/art/202008/622951.htm)
+ > 可笑，架构师也能写出这样的Bug
+ ## [5G如何改善物联网（IoT）部署的6个应用案例](http://iot.51cto.com/art/202008/622798.htm)
+ > 5G如何改善物联网（IoT）部署的6个应用案例
+ ## [四种JavaScript图表编辑器的深度比较](http://developer.51cto.com/art/202008/622822.htm)
+ > 四种JavaScript图表编辑器的深度比较
+ ## [6个常见的项目管理错误以及避免它们的方法](http://news.51cto.com/art/202008/622778.htm)
+ > 6个常见的项目管理错误以及避免它们的方法
+ ## [互联网人，“三十而已”](http://news.51cto.com/art/202008/622769.htm)
+ > 互联网人，“三十而已”
+ ## [广域网SDN功能与架构](http://network.51cto.com/art/202008/622711.htm)
+ > 广域网SDN功能与架构
+ ## [MySQL培训速成教程（五）：Linux安装MySQL 8.0](http://fellow.51cto.com/art/202007/622199.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（五）：Linux安装MySQL 8.0
+ ## [物联网技术比较适宜社区的应用](http://iot.51cto.com/art/202008/622953.htm)
+ > 物联网的核心和基础仍然是互联网，是在互联网基础上加以延伸和扩展的网络，其用户端延伸和扩展到了任何物品
+ ## [工信部为“新基建”安全加把“锁”](http://netsecurity.51cto.com/art/202008/622952.htm)
+ > 8月3日，工业和信息化部发布通知，要求开展2020年网络安全技术应用试点示范工作。按照通知，2020年网络
+ ## [Video Trimmer：Linux桌面中的傻瓜级的视频修剪应用](http://os.51cto.com/art/202008/622956.htm)
+ > 一个非常简单的工具，无需重新编码即可快速修剪视频。我们来看看它提供了什么。
+ ## [为什么在企业中进行云计算流畅性的培训至关重要](http://cloud.51cto.com/art/202008/622950.htm)
+ > 云计算如今在获取、使用和管理技术方面带来了重大转变。它使企业能够用资本费用进行可变费用交易，以大规模
  ## [《三十而已》火爆全网，我分析了21万条弹幕，发现了这些秘密](http://developer.51cto.com/art/202008/622949.htm)
  > 最近几周，在《隐秘的角落》热度落去后，《三十而已》又闯进了大家的视线中，被大家不停的讨论，想必没看
  ## [初学者如何更好自学Python代码？](http://developer.51cto.com/art/202008/622947.htm)
@@ -45,44 +59,36 @@ categories: IT NEWS
  > 根据市场调研机构公布的数据，截止2020年7月份，Windows 10的全球市场份额为59.59％，逼近60%，高于上个月
  ## [日本争夺世界6G技术的战略](http://network.51cto.com/art/202008/622941.htm)
  > 今年3月，在新冠肺炎疫情开始扩大的时候，日本几大通信公司同时推出了5G通信服务。与美国、韩国和中国相比
- ## [数据驱动的个性化时代 AI和ML如何改变我们读取和理解数据的方式](http://ai.51cto.com/art/202008/622940.htm)
- > 当今的业务由数据和数据驱动的理解所支配。您如何理解数据以及如何将数据解释为业务决策直接影响您的业务转
- ## [105亿条用户数据泄露，全球10000个数据库配置错误任何人可访问](http://netsecurity.51cto.com/art/202008/622938.htm)
- > NordPass的研究人员发现了一些有关我们在线数据安全性的令人震惊的事实。独立研究确定了总共9,517个不安全
- ## [CSS中的两个特殊值，用于控制层叠的inherit和initial](http://developer.51cto.com/art/202008/622931.htm)
- > 在CSS中有两个特殊值可以赋给任意属性，用于控制层叠：inherit和initial。我们来看看这两个特殊值。
- ## [这才是真正的共享！区块链技术是如何帮助共享经济崛起的？](http://blockchain.51cto.com/art/202008/622930.htm)
- > 基于点对点(P2P)活动，个人通过平台获取、提供或共享使用商品和服务的权利，一些怀疑论者认为，区块链在这
  ## [正在直播 | 视觉与学习青年学者研讨会VALSE 2020](https://live.csdn.net/room/VALSEONLINE/jBF2cFB0)
  > 正在直播 | 视觉与学习青年学者研讨会VALSE 2020
  ## [浅谈拉勾网的营销亮点](https://blog.csdn.net/qq8864/article/details/107047646)
  > 浅谈拉勾网的营销亮点
  ## [Microsoft Edge 大规模崩溃，这是又跟谷歌搜索互掐了？](https://blog.csdn.net/csdnnews/article/details/107714421)
  > Microsoft Edge 大规模崩溃，这是又跟谷歌搜索互掐了？
- ## [云原生网络代理 MOSN 透明劫持技术解读 | 开源](https://blog.csdn.net/SOFAStack/article/details/106233071)
- > 云原生网络代理 MOSN 透明劫持技术解读 | 开源
- ## [小白眼中的docker究竟是个什么东西](https://blog.csdn.net/shihengzhen101/article/details/107724714)
- > 小白眼中的docker究竟是个什么东西
- ## [一文带你学习DWS数据库用户权限设计与管理](https://blog.csdn.net/devcloud/article/details/107606690)
- > 一文带你学习DWS数据库用户权限设计与管理
- ## [Java 后端跨域处理](https://blog.csdn.net/qq_37143673/article/details/107223434)
- > Java 后端跨域处理
  ## [2020年，一招教你打造个性化的Github主页！](https://blog.csdn.net/zwluoyuxi/article/details/107600491)
- > 
- ## [android Activity任务栈使用总结](https://blog.csdn.net/Double2hao/article/details/107729834)
- > android Activity任务栈使用总结
- ## [功能模块提测前要做的几件事](https://blog.csdn.net/linsongbin1/article/details/107736541)
  > 
  ## [回答一下这 10 个最常见的 Javascript 问题](https://blog.csdn.net/qq449245884/article/details/107705043)
  > 回答一下这 10 个最常见的 Javascript 问题
- ## [为什么说在Android中请求权限从来都不是一件简单的事情？](https://blog.csdn.net/sinyu890807/article/details/107590047)
- > 
  ## [Python实现植物大战僵尸](https://blog.csdn.net/m0_38106923/article/details/105481308)
  > 
  ## [从 VMWare 到阿里神龙，虚拟化技术 40 年演进史](https://blog.csdn.net/csdnnews/article/details/105548972)
  > 从 VMWare 到阿里神龙，虚拟化技术 40 年演进史
- ## [推荐系统的未来发展](https://blog.csdn.net/qq_43045873/article/details/105828438)
- > 推荐系统的未来发展
+ ## [前端刷题之LintCode（领扣）上入门题解析](https://blog.csdn.net/SmallTeddy/article/details/106674066)
+ > 
+ ## [小白眼中的docker究竟是个什么东西](https://blog.csdn.net/shihengzhen101/article/details/107724714)
+ > 小白眼中的docker究竟是个什么东西
+ ## [Java 后端跨域处理](https://blog.csdn.net/qq_37143673/article/details/107223434)
+ > Java 后端跨域处理
+ ## [真香！Linux 原来是这么管理内存的](https://blog.csdn.net/qq_36894974/article/details/107634353)
+ > 真香！Linux 原来是这么管理内存的
+ ## [如何提高Python编程能力？不妨试试这个经典的24点问题](https://blog.csdn.net/xufive/article/details/107707084)
+ > 如何提高Python编程能力？不妨试试这个经典的24点问题
+ ## [WPF 给任意控件通过按下移动抬起封装点击事件](https://blog.csdn.net/lindexi_gd/article/details/106789317)
+ > WPF 给任意控件通过按下移动抬起封装点击事件
+ ## [仅用 10 天设计的 JavaScript，凭什么成为程序员最受欢迎的编程语言？](https://marketing.csdn.net/p/d83bc75569e11362a91b0f0ff37237bb)
+ > 仅用 10 天设计的 JavaScript，凭什么成为程序员最受欢迎的编程语言？
+ ## [为什么说在Android中请求权限从来都不是一件简单的事情？](https://blog.csdn.net/sinyu890807/article/details/107590047)
+ > 
 # 人工智能 
  ## [20200801猿辅导笔试记录](https://blog.csdn.net/m0_38065572/article/details/107738214)
  > 20200801猿辅导笔试记录
@@ -92,8 +98,6 @@ categories: IT NEWS
  > pytorch学习笔记（十二）：权重衰减
  ## [为什么使用Python? 优势有哪些?](https://blog.csdn.net/xiabiao1974/article/details/107729070)
  > 为什么使用Python? 优势有哪些?
- ## [pathon爬取图片（根据用户需求输入想爬取的内容及页数）](https://blog.csdn.net/qq_48657881/article/details/107746172)
- > pathon爬取图片（根据用户需求输入想爬取的内容及页数）
  ## [Python爬虫实战  批量下载高清美女图片](https://blog.csdn.net/fyfugoyfa/article/details/107734468)
  > Python爬虫实战  批量下载高清美女图片
  ## [自动化测试平台化\[v1.0.0\]\[事件调度器\]](https://blog.csdn.net/dawei_yang000000/article/details/107724986)
@@ -114,6 +118,8 @@ categories: IT NEWS
  > python正则表达式
  ## [多多的魔术盒子 拼多多\[编程题\]](https://blog.csdn.net/weixin_41545780/article/details/107726127)
  > 多多的魔术盒子 拼多多\[编程题\]
+ ## [Python算法- 剪绳子](https://blog.csdn.net/xiabiao1974/article/details/107729042)
+ > Python算法- 剪绳子
 # PM 
  ## [项目管理的四大挑战](http://www.chanpin100.com/article/112374)
  > 项目中却始终有些看不见的风险，这些风险可以成为威胁，也可以通过增加可见度成为更好的机会，也有可能会影响到项目的计划发生重大的变化。所以，项目经理和项目管理团队需要面对下面这4种风险挑战，并需要知道如何去克服这些挑战，不断改进项目管理水平。
