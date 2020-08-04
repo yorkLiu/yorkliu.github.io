@@ -1,21 +1,21 @@
 ---
 title: 2020-08-04 IT News
 copyright: true
-date: 2020-08-04 08:01:02
+date: 2020-08-04 09:03:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [IBM发布Linux版本全同态加密(FHE)工具集](http://mp.weixin.qq.com/s?src=11&timestamp=1596499205&ver=2501&signature=FRrWqse4UnAJWXtxThCxFgrimarohCU6FL5OgLGSqGcGANnhYOzTuiOysJHukWk8UubjIGI-erPbdARttdS8Z*4C33xKudwWOnyLe-sbcS1GE4iF5O7qE1QRHtBKSYRB&new=1)
- > IBM发布Linux版本全同态加密（FHE,Fully homomorphic encryption）工具集，源代码也在GitHub发布。如果一个加密函数同时满足加法同态和乘法同态，称为全同态加密。FHE允许对密文进行特定的代数运算得到仍然
- ## [发文!中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596499205&ver=2501&signature=fhXYpw7pPhAYdxuX4MB2B6qOO0x0EJaNWS9ZkFEpoN1a6FD9iXjHFgZkyRp*YmtItNy*sjRlHkK15W6KgvhWDhswrP5T5BDyilhGWOVbE-mvRkKLkAn5PO8RZ82m-gK5&new=1)
- > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运...
- ## [英伟达(Nvidia)拟收购Arm，已经开始深入谈判](http://mp.weixin.qq.com/s?src=11&timestamp=1596499205&ver=2501&signature=B35vCaYTuz62QebsRFftHe-xZ5DdDYDq2zyeuceVYstkIs4iH6CrsHWFcGX1albU12q6tvVovBPurvWL8ZGqqsMcLCZ35TcARax0smswcRGnNr0MuU3RFif0khokwVGz&new=1)
- > 彭博社(Bloomberg)援引未具名消息来源报道，英国芯片设计公司Arm可能从目前的软银(SoftBank)所有者手中转手给英伟达(Nvidia)。据内部人士透露，两家公司正在进行“深入谈判”，未来几周可能会达成协议。四年前，...
- ## [刚刚，中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596499205&ver=2501&signature=a7cIYuW4oHIKCLuDBi0hOY0yjqOSR7YeEN2w*riOgaNH8d2WSfGPjetKepPKnoqvRUHb8IDZsTuhPboDLVm4Ft4r3loyEKe6-S839ERVLgSw0m2J4v7K9so95Oexa*9D&new=1)
- > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！通信路上，一路相伴！一个有态度的圈子！
- ## [武汉大学生“3D打印之发光字智能制造”获创客大奖](http://mp.weixin.qq.com/s?src=11&timestamp=1596499205&ver=2501&signature=4BVzL*ClZuzEGaZhrP1b8kOVh3zVegDAC*KuUB7rZ2a5mxiSgjLPLCMcenOmq0VoRj1nf*S7LvH5TgDZNkmUmwivNhi6NC64rt8B2zuWL45eQieYGZMpRxqcw11JQDKo&new=1)
+ ## [武汉大学生“3D打印之发光字智能制造”获创客大奖](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=4BVzL*ClZuzEGaZhrP1b8kOVh3zVegDAC*KuUB7rZ2bL1ceOJQxr7QO*roWHuZ15yGe7cjjZx-HSXFq56M8rEbn0bpZmngpmfCRAhSQTQBYakjRttGemzsgP1hDivYoR&new=1)
  > 由武昌理工学院影视传媒学院学子陈昊为主讲人，许琪、蔡梦欣等成员组成的远锦三维团队，以快速发展的信息时代为载体，运用以信息技术与制造技术深度融合为主的智能制造模式，历时两年，深入研究发展“3D发光字打...
+ ## [发文!中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=fhXYpw7pPhAYdxuX4MB2B6qOO0x0EJaNWS9ZkFEpoN1zzN9RVz5TL7WefpKIIkMtNtaLypIYaZFfihDh-kjUBX47ANLufh9EuPQ56WVY9q0H3c3YP-*Je3sDja1HKkqC&new=1)
+ > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运...
+ ## [IBM发布Linux版本全同态加密(FHE)工具集](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=FRrWqse4UnAJWXtxThCxFgrimarohCU6FL5OgLGSqGcQ2oT6Vv07FVEkiMdxFv*M6DJRxe1Urs25qNx8qKNETzoIP9yX6VB*BwAZgx-YpO2FKAiqG4Tn68GnJY7Uw2fW&new=1)
+ > IBM发布Linux版本全同态加密（FHE,Fully homomorphic encryption）工具集，源代码也在GitHub发布。如果一个加密函数同时满足加法同态和乘法同态，称为全同态加密。FHE允许对密文进行特定的代数运算得到仍然
+ ## [刚刚，中移动薪酬与考核委员会名单出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=a7cIYuW4oHIKCLuDBi0hOY0yjqOSR7YeEN2w*riOgaONgNCpz0wwpMWslVHcX-OPGHfBL-AnsI9r*ZaEI8Ht8du5M54YF4MOeK0hrS4f*v*u1PCfZO8T3cJoTbAqHIVc&new=1)
+ > 日前，中国移动战略委员会提名委员会薪酬与考核委员会审计和风险管理委员会等名单正式公布不多说了！拜托各位！涨~涨~涨~工资！通信路上，一路相伴！一个有态度的圈子！
+ ## [英伟达(Nvidia)拟收购Arm，已经开始深入谈判](http://mp.weixin.qq.com/s?src=11&timestamp=1596502804&ver=2501&signature=B35vCaYTuz62QebsRFftHe-xZ5DdDYDq2zyeuceVYsvDiNCctHzubn51BUwrP1WWSPgLiEfpcQ3vt3sifpfXeaHWVuboTsQg9DGsIO4tYCMN6Y8Rewsqx-WDEHP9DgpG&new=1)
+ > 彭博社(Bloomberg)援引未具名消息来源报道，英国芯片设计公司Arm可能从目前的软银(SoftBank)所有者手中转手给英伟达(Nvidia)。据内部人士透露，两家公司正在进行“深入谈判”，未来几周可能会达成协议。四年前，...
 # IT 技术 
  ## [确保Kubernetes安全的三个阶段：构建、部署和运行时！](http://developer.51cto.com/art/202008/622823.htm)
  > 确保Kubernetes安全的三个阶段：构建、部署和运行时！
@@ -31,42 +31,58 @@ categories: IT NEWS
  > 物联网、人工智能和大数据如何帮助拯救地球
  ## [分布式SQL数据库新的演变方向](http://database.51cto.com/art/202008/622717.htm)
  > 分布式SQL数据库新的演变方向
- ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
- > MySQL培训速成教程（七）：MySQL备份恢复实战教程
- ## [泣血整理，Jupyter Notebook最常用的五大配置技巧](http://developer.51cto.com/art/202008/622928.htm)
- > 本文不是来介绍Jupyter的那些神奇用法，而是想实实在在地为Jupyter初学者解决一些头疼的问题。
- ## [你现在可以使用的10个JavaScript代码段](http://developer.51cto.com/art/202008/622927.htm)
- > 看看下面的代码片段，以优雅的方式解决简单的问题，并在日常项目情况下使用这些知识或为编码面试做准备。
+ ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
+ > Docker快速入门视频课程（通俗易懂）
+ ## [《三十而已》火爆全网，我分析了21万条弹幕，发现了这些秘密](http://developer.51cto.com/art/202008/622949.htm)
+ > 最近几周，在《隐秘的角落》热度落去后，《三十而已》又闯进了大家的视线中，被大家不停的讨论，想必没看
+ ## [初学者如何更好自学Python代码？](http://developer.51cto.com/art/202008/622947.htm)
+ > Python很适合初学者自学的编程语言，试着从“ Hello World”开始，你会发现Python适合自学成才。
+ ## [程序员如果没有研究生学历对于后续发展是否有较大的影响](http://news.51cto.com/art/202008/622945.htm)
+ > 首先，随着当前互联网企业纷纷开始进行结构升级，人才结构发生了一定的变化，以研究生为代表的高端应用型
+ ## [互联网免费时代终结 全面付费用户被套路](http://news.51cto.com/art/202008/622943.htm)
+ > 在一代人的记忆里，互联网应是免费代名词。免费虽不一定很好，但至少还有选择。而如今音乐付费、视频付费、
+ ## [Windows 10全球份额逼近60% Win7持续下降](http://os.51cto.com/art/202008/622942.htm)
+ > 根据市场调研机构公布的数据，截止2020年7月份，Windows 10的全球市场份额为59.59％，逼近60%，高于上个月
+ ## [日本争夺世界6G技术的战略](http://network.51cto.com/art/202008/622941.htm)
+ > 今年3月，在新冠肺炎疫情开始扩大的时候，日本几大通信公司同时推出了5G通信服务。与美国、韩国和中国相比
+ ## [数据驱动的个性化时代 AI和ML如何改变我们读取和理解数据的方式](http://ai.51cto.com/art/202008/622940.htm)
+ > 当今的业务由数据和数据驱动的理解所支配。您如何理解数据以及如何将数据解释为业务决策直接影响您的业务转
+ ## [105亿条用户数据泄露，全球10000个数据库配置错误任何人可访问](http://netsecurity.51cto.com/art/202008/622938.htm)
+ > NordPass的研究人员发现了一些有关我们在线数据安全性的令人震惊的事实。独立研究确定了总共9,517个不安全
+ ## [CSS中的两个特殊值，用于控制层叠的inherit和initial](http://developer.51cto.com/art/202008/622931.htm)
+ > 在CSS中有两个特殊值可以赋给任意属性，用于控制层叠：inherit和initial。我们来看看这两个特殊值。
+ ## [这才是真正的共享！区块链技术是如何帮助共享经济崛起的？](http://blockchain.51cto.com/art/202008/622930.htm)
+ > 基于点对点(P2P)活动，个人通过平台获取、提供或共享使用商品和服务的权利，一些怀疑论者认为，区块链在这
+ ## [正在直播 | 视觉与学习青年学者研讨会VALSE 2020](https://live.csdn.net/room/VALSEONLINE/jBF2cFB0)
+ > 正在直播 | 视觉与学习青年学者研讨会VALSE 2020
  ## [浅谈拉勾网的营销亮点](https://blog.csdn.net/qq8864/article/details/107047646)
  > 浅谈拉勾网的营销亮点
  ## [Microsoft Edge 大规模崩溃，这是又跟谷歌搜索互掐了？](https://blog.csdn.net/csdnnews/article/details/107714421)
  > Microsoft Edge 大规模崩溃，这是又跟谷歌搜索互掐了？
- ## [功能模块提测前要做的几件事](https://blog.csdn.net/linsongbin1/article/details/107736541)
- > 
  ## [云原生网络代理 MOSN 透明劫持技术解读 | 开源](https://blog.csdn.net/SOFAStack/article/details/106233071)
  > 云原生网络代理 MOSN 透明劫持技术解读 | 开源
- ## [数据仓库常见建模方法与建模实例演示](https://blog.csdn.net/qq_26442553/article/details/105506364)
- > 
- ## [通过批处理调用SQL*Plus执行批量脚本](https://blog.csdn.net/oscar999/article/details/107702301)
- > 通过批处理调用SQL*Plus执行批量脚本
- ## [Jupyter中运行魔法%matplotlib inline出错ModuleNotFoundError: No module named ‘matplotlib‘](https://blog.csdn.net/qq_15698613/article/details/107690696)
- > Jupyter中运行魔法%matplotlib inline出错ModuleNotFoundError: No module named ‘matplotlib‘
- ## [回答一下这 10 个最常见的 Javascript 问题](https://blog.csdn.net/qq449245884/article/details/107705043)
- > 回答一下这 10 个最常见的 Javascript 问题
  ## [小白眼中的docker究竟是个什么东西](https://blog.csdn.net/shihengzhen101/article/details/107724714)
  > 小白眼中的docker究竟是个什么东西
- ## [android Activity任务栈使用总结](https://blog.csdn.net/Double2hao/article/details/107729834)
- > android Activity任务栈使用总结
+ ## [一文带你学习DWS数据库用户权限设计与管理](https://blog.csdn.net/devcloud/article/details/107606690)
+ > 一文带你学习DWS数据库用户权限设计与管理
  ## [Java 后端跨域处理](https://blog.csdn.net/qq_37143673/article/details/107223434)
  > Java 后端跨域处理
- ## [周末学会了 10个超级实用 Javascript 技巧!](https://blog.csdn.net/qq449245884/article/details/107096460)
- > 周末学会了 10个超级实用 Javascript 技巧!
- ## [C/C++面试:35---删除字符串s1中在字符串s2中出现的字符](https://blog.csdn.net/qq_41453285/article/details/107723730)
- > C/C++面试:35---删除字符串s1中在字符串s2中出现的字符
- ## [Django+Vue开发生鲜电商平台之9.个人中心功能开发](https://blog.csdn.net/CUFEECR/article/details/107699905)
+ ## [2020年，一招教你打造个性化的Github主页！](https://blog.csdn.net/zwluoyuxi/article/details/107600491)
  > 
- ## [调包侠福音！机器学习经典算法开源教程（附参数详解及代码实现）](https://blog.csdn.net/Datawhale/article/details/105743019)
- > 调包侠福音！机器学习经典算法开源教程（附参数详解及代码实现）
+ ## [android Activity任务栈使用总结](https://blog.csdn.net/Double2hao/article/details/107729834)
+ > android Activity任务栈使用总结
+ ## [功能模块提测前要做的几件事](https://blog.csdn.net/linsongbin1/article/details/107736541)
+ > 
+ ## [回答一下这 10 个最常见的 Javascript 问题](https://blog.csdn.net/qq449245884/article/details/107705043)
+ > 回答一下这 10 个最常见的 Javascript 问题
+ ## [为什么说在Android中请求权限从来都不是一件简单的事情？](https://blog.csdn.net/sinyu890807/article/details/107590047)
+ > 
+ ## [Python实现植物大战僵尸](https://blog.csdn.net/m0_38106923/article/details/105481308)
+ > 
+ ## [从 VMWare 到阿里神龙，虚拟化技术 40 年演进史](https://blog.csdn.net/csdnnews/article/details/105548972)
+ > 从 VMWare 到阿里神龙，虚拟化技术 40 年演进史
+ ## [推荐系统的未来发展](https://blog.csdn.net/qq_43045873/article/details/105828438)
+ > 推荐系统的未来发展
 # 人工智能 
  ## [20200801猿辅导笔试记录](https://blog.csdn.net/m0_38065572/article/details/107738214)
  > 20200801猿辅导笔试记录
