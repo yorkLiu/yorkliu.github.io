@@ -1,24 +1,30 @@
 ---
 title: 2020-08-07 IT News
 copyright: true
-date: 2020-08-07 09:01:04
+date: 2020-08-07 10:01:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [AOC商用大屏，助某刑事侦查支队实现智慧公安信息化建设!](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=EUS8lypLCf2oYujxwHktZMfeW2XnKa3wpXJr-XorbthnJiLe4TVzwQb6jLBS5sGBKm9dzN*34I5yYf*gaNYsO-t9dawQpfwIy3CvrTZEhYb5PXcchPRB-MBu8bjmrJuU&new=1)
+ ## [\[报告\]2020中国自主汽车品牌高端化发展研究(附43页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=5rNR1lunt-7yaS2sz8H35*6B8fUoCO7tM11Y6fxtwdbThijS9bG2fft7NNmKyZh7iovK8UzIyKhQa0NjT0lKiFzWOqi4DPTkd30aRD0ZKbFxR*7VcWUGlZksSUSyLlfb&new=1)
+ > 中国自主汽车品牌高端化是曲折漫长但充满期待的过程，多数车企已然入局并在尝试不同的路径突破，合力争取着中国汽车产业高端化的未来。路在何方？是否有可参考的答案？以下为报告节选：......文│亿欧智库本报告...
+ ## [IFOC 2020预告|阿里巴巴首席科学家谢崇进—数据中心技术发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=wLgGRWn1LL49Vyw*-9Mk-71TbGMlmMpkTgA0iFSgN*zPkSqpmZ*dwfjy*p8ZlLuO8I-w3q5A8wBVSGoQIDL5hvkfWbmJXpcrd6MgRLEHvXkUpBsJlMK518x6dbGFxQlM&new=1)
+ > 2020年9月7-8日，第19届讯石光纤通讯市场暨技术专题研讨会(IFOC 2020)将在深圳隆重召开。本届大会，讯石荣幸邀请阿里巴巴光网络首席科学家谢崇进参与，谢博士将对数据中心技术发展趋势发表精彩报告。  ICC讯 2...
+ ## [AOC商用大屏，助某刑事侦查支队实现智慧公安信息化建设!](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=EUS8lypLCf2oYujxwHktZMfeW2XnKa3wpXJr-XorbthnJiLe4TVzwQb6jLBS5sGBdh*QQ6wCv0LHMlTaA07Jf5Ym3ahc4*85pFC-yaByyYLOqyLFX2sHaRqYR8q6eD7o&new=1)
  > 近年来，随着我国经济的快速发展及信息技术的变革，日益复杂多变的公共安全形势对公安机关在维护社会治安、打击违法犯罪等方面提出了更高要求。大数据时代趋势下，加快推进智慧公安建设，切实提高数据利用能力、...
- ## [VR凭什么能火爆全球?诞生了85年，它究竟经历了什么..](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=r3wsolKSZpPuURgUuVBc6JfTsyp8sR3kAsdCSclCQoEhT-hOWT9*nurt3iIxIqI9wQtMLwbqihFzP5jU2WKUI6ZY03h-45SGiXwshWjpnz1H0D7ZSLgeiMmtcH0NlSj-&new=1)
+ ## [VR凭什么能火爆全球?诞生了85年，它究竟经历了什么..](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=r3wsolKSZpPuURgUuVBc6JfTsyp8sR3kAsdCSclCQoEhT-hOWT9*nurt3iIxIqI9GXsnjyCCuBac579Q9j*UnkNYZ3HgV3r5gK2AdFvGeQqc2St0QGzHFZegPghZANS-&new=1)
  > 普象工业设计小站整理编辑图片来自Google、Youtube虚拟现实（VR）是近几年来进入大众视野的新词汇。如今，它已经成为了许多潮流控的首选。在VR的世界里，获得多种多样的新奇体验。比如，VR360°全景逛超市体验；...
- ## [腾讯打出一招起诉，团灭了QQ机器人。](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=25VUvW9ViE9Q2iQDdcnZQaCJswz0ZuAtG9yYnLGgulhhS7CsnBKq96P7WMdjYssnpjhWz-wPuD*Q*Ax5eHhkAiZSkcatPW04l2CqIsKM3imno7jfDGV1E8o6ODy1LC8J&new=1)
+ ## [腾讯打出一招起诉，团灭了QQ机器人。](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=25VUvW9ViE9Q2iQDdcnZQaCJswz0ZuAtG9yYnLGgulhhS7CsnBKq96P7WMdjYssno*7dH5xgYhEs09yG-WxTZekNYBq5FiIwFK1cU4qcwpJeP4ZgfWxV2UIMskBbBihA&new=1)
  > 最近，腾讯又被卷入了一场舆论风波之中。起因是 7 月 22 号，腾讯起诉晨风 QQ 机器人非法入侵计算机系统，作者被跨省传唤。晨风机器人作者原话是这样的 ▼晨风中招的事情一出，众多机器人开发者纷纷自危，近几天...
- ## [许戈|突发!!比较严峻!](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=EjbcJ-4Iaj2Nj3VYri803jburUstOn9UAj-70uVI1mDlvwIZU8ZyqMTVxj2zQb84G0aoqPSM5ClzolhNJwPxOhajdMYXfY9U24iUxYjSQbXDImS5AIGTK6c1BnIb2aMs&new=1)
+ ## [许戈|突发!!比较严峻!](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=EjbcJ-4Iaj2Nj3VYri803jburUstOn9UAj-70uVI1mDlvwIZU8ZyqMTVxj2zQb84pzEYm2B3rBkJ1*rwuUq6ntf4Ml8aZySPYhmDvcxBp25ToTDFgWeErlkIydeDgeE-&new=1)
  > 今天美国公布了净网计划，四月美国国务卿蓬佩奥就曾宣布实行“干净5G路径”，并出具一份弃用化为的“干净国家和运营商”名单。 声称为了保护美国公民隐私，保护美国公司企业最敏感的信息。真的是国家安全是个筐...
- ## [微软或300亿收购 TikTok；印度禁止小米浏览器等；伊朗黑客组织进行DNS武器化；](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=VO6mysUo85rRDtvYFjNYNeFz9po4idKKu-4jjKKc6grlRjU9KgFJOlbvnV-RdV39z8TBXClwcxUnGwRGwufSqv5xE82mKlUi1TakwMTThDIhk4oEvAVECIuuB5WGn-PW&new=1)
+ ## [微软或300亿收购 TikTok；印度禁止小米浏览器等；伊朗黑客组织进行DNS武器化；](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=VO6mysUo85rRDtvYFjNYNeFz9po4idKKu-4jjKKc6grlRjU9KgFJOlbvnV-RdV39gGAhHpAoFFU9u14wkeqxxcG574Ic*9Fa5BezYmJXDBuIkQvUP8aowEH1mqHGiJ1J&new=1)
  > 导读：一文了解IT互联网，开发者之大事件。微软与字节跳动正为收购 TikTok 业务谈判21CTO源引CNBC本周三之报道，微软计划在9月15日之前的三周内完成与TikTok的收购谈判——此笔交易的价格可能高达300亿美元。如...
- ## [你的翻墙软件要歇菜了,美国也来“净网行动”](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=gKNk8XvUBJPdpfVwvyNRTf3pchS9AZhg*p4Y1F7PYTya8a24Lzg6WJ7j1XrJIQSmG200tVdjjGxkD3D4gUtsb7FZL8BkmNiFF-zUK8W7PEc5RYKE2D2f-xoTWwhhVtIM&new=1)
+ ## [你的翻墙软件要歇菜了,美国也来“净网行动”](http://mp.weixin.qq.com/s?src=11&timestamp=1596765242&ver=2507&signature=gKNk8XvUBJPdpfVwvyNRTf3pchS9AZhg*p4Y1F7PYTya8a24Lzg6WJ7j1XrJIQSmbU6Q8GnKfshlq4-jCiNw6qPWzscNUc1jWzyL4mZMnMugn9nwCjCZsJ5SQwhx2FJW&new=1)
  > Hello，大家好，我是小安。美国国务卿蓬佩奥宣布要给美国的网络上一堵墙……小安听了一时间也摸不着头脑，这不是中国的操作么，怎么美国也偷师学去了？我们先来看看他在新闻发布会上说了什么。发布会的开头先表...
 # IT 技术 
+ ## [上“中台”，是送分，还是送命？](http://developer.51cto.com/art/202008/623239.htm)
+ > 上“中台”，是送分，还是送命？
  ## [浅谈无卡化背景下的支付诈骗](http://netsecurity.51cto.com/art/202008/623169.htm)
  > 浅谈无卡化背景下的支付诈骗
  ## [放弃360万年薪，选择华为201万的「天才少年」：做自己想做的事](http://news.51cto.com/art/202008/623156.htm)
@@ -31,28 +37,59 @@ categories: IT NEWS
  > 密钥管理即服务正当时
  ## [AI和物联网在零售环境中的长期应用](http://iot.51cto.com/art/202008/623171.htm)
  > AI和物联网在零售环境中的长期应用
- ## [熬了一个通宵，终于把7千万个Key删完了](http://stor.51cto.com/art/202008/623146.htm)
- > 熬了一个通宵，终于把7千万个Key删完了
- ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
- > Vue 快速开发入门课程
+ ## [Python大数据+人工智能-语言篇](http://fellow.51cto.com/art/202007/622443.htm?qd=51ctojrzd)
+ > Python大数据+人工智能-语言篇
+ ## [10个微服务架构设计的最佳实践](http://news.51cto.com/art/202008/623241.htm)
+ > 微服务极大的改变了服务端引擎的架构方式。微服务不是一个单一的巨型的用来托管应用程序所有业务逻辑的代码
+ ## [什么是CaaS？更简单的容器管理](http://developer.51cto.com/art/202008/623238.htm)
+ > 容器即服务（CaaS）平台使开发人员可以更轻松地部署Docker容器，并将其组装到应用程序中，而大多数情况下则
+ ## [Intel 20G 内部资料泄露，含源码、文档与培训视频等内容](http://news.51cto.com/art/202008/623240.htm)
+ > 网传 Intel 有 20G Lake 系列处理器相关的机密文档与源码遭到黑客泄露，这些内容大多数以往从未在任何地方
+ ## [数据中心运营商在疫情期间如何应可靠性监管](http://server.51cto.com/Datacenter-623237.htm)
+ > 一些数据中心运营商表示，持续蔓延的疫情导致一些数据中心服务中断，而行业专家表示正在密切关注数据中心行
+ ## [学习云计算和大数据前景如何，以及就业该何去何从](http://news.51cto.com/art/202008/623236.htm)
+ > 首先，从当前的行业发展趋势和整体产业发展趋势来看，云计算和大数据领域的发展前景还是非常广阔的，基于云
  ## [5G时代，通信运营商的日子会好过吗？](http://network.51cto.com/art/202008/623233.htm)
  > 5G时代，移动、联通、电信这些通信运营商的日子会好过吗？答案是：会越来越好！原因主要有三个。
+ ## [二十多年前的 macOS 长啥样？在你的电脑上就能体验](http://news.51cto.com/art/202008/623242.htm)
+ > 本文即将谈到的 macintosh.js 由 JavaScript 编写完成，它不是真正的操作系统，却能带你了解二十多年前的 M
  ## [操作系统和并发的爱恨纠葛](http://os.51cto.com/art/202008/623232.htm)
  > 我一直没有急于写并发的原因是我参不透操作系统，如今，我已经把操作系统刷了一遍，这次试着写一些并发，
+ ## [想要做自动化测试？八款高 Star 开源测试工具分享](http://news.51cto.com/art/202008/623244.htm)
+ > 作为研发流程中的一环，测试环节的重要性不亚于产品研发，那么今天 Gitee 推荐的就是有测试需求的开发者们
  ## [MySQL数据库升级的一些坑](http://database.51cto.com/art/202008/623229.htm)
  > 对于商业数据库而言，数据库升级是一个优先级很高的事情，有版本升级路线图，有相应的补丁，而且对于方案还
- ## [公司差点因为代码写得差把我直接给开掉](http://developer.51cto.com/art/202008/623225.htm)
- > 重构可以找出我们代码里面隐藏的一些不易察觉的Bug，进而在之后的运行的过程中，能减少很多不必要的麻烦。
- ## [学C语言好还是Python好？](http://developer.51cto.com/art/202008/623223.htm)
- > 编程语言 发展进程 学哪一门编程语言，我们不妨先梳理一下语言的发展过程... 我们甚至可以再用 C 语言写一
- ## [做数据分析还在死磕Excel？用这个简单工具，摆脱复杂函数和公式](http://bigdata.51cto.com/art/202008/623222.htm)
- > 大数据时代，数据分析在我们的日常生活和工作中应用越来越广泛，不管是公司的行政、人事、销售、运营还是专
- ## [为什么JavaScript是初学者的好选择](http://developer.51cto.com/art/202008/623221.htm)
- > 有充分的理由，JavaScript是Web开发中使用的事实上的语言。它是一种通用语言，易于入门，并且很流行。
- ## [怎么找到上锁的 SQL 语句](http://database.51cto.com/art/202008/623220.htm)
- > 有的时候 SQL 语句被锁住了，可是通过 show processlist 找不到加锁的的 SQL 语句，这个时候应该怎么排查呢
- ## [黑客通过入侵新闻网站发布虚假新闻](http://netsecurity.51cto.com/art/202008/623219.htm)
- > 在过去几年里，网络上虚假信息变得越来越多，互联网媒体会在网络上为了自己的利益传播虚假信息，黑客为了展
+# 人工智能 
+ ## [学不下去了怎么办？](https://blog.csdn.net/qq_43762191/article/details/107824799)
+ > 学不下去了怎么办？
+ ## [应届毕业生，只会抄代码，该怎么办？](https://blog.csdn.net/qing_gee/article/details/107759097)
+ > 应届毕业生，只会抄代码，该怎么办？
+ ## [预测师的随想系列四：学习要有深度&如何成为大神](https://blog.csdn.net/qq_32648593/article/details/107827481)
+ > 预测师的随想系列四：学习要有深度&amp;如何成为大神
+ ## [2020ChinaJoy全是小姐姐，程序员小伙当场流鼻血](https://blog.csdn.net/qq_35190492/article/details/107770732)
+ > 2020ChinaJoy全是小姐姐，程序员小伙当场流鼻血
+ ## [现实的残酷，把我从穷人“逼”成了富人，分享十年创业经历与感悟。](https://blog.csdn.net/weixin_49521939/article/details/107783508)
+ > 现实的残酷，把我从穷人“逼”成了富人，分享十年创业经历与感悟。
+ ## [一年半，从编程都不懂的小白到成功入职！](https://blog.csdn.net/weixin_43336281/article/details/107748366)
+ > 一年半，从编程都不懂的小白到成功入职！
+ ## [JAVA人力、项目面试常谈问题以及个人开场介绍模板](https://blog.csdn.net/m0_47000756/article/details/107732420)
+ > JAVA人力、项目面试常谈问题以及个人开场介绍模板
+ ## [主流编程语言简述](https://blog.csdn.net/weixin_44116132/article/details/107821585)
+ > 主流编程语言简述
+ ## [那些进了阿里、华为等大厂的程序员，到底强在哪里？留言送礼品~~](https://blog.csdn.net/itcast_cn/article/details/107784763)
+ > 那些进了阿里、华为等大厂的程序员，到底强在哪里？留言送礼品~~
+ ## [毕业记——我在华北理工的四年](https://blog.csdn.net/zhaohaibo_/article/details/107747323)
+ > 毕业记——我在华北理工的四年
+ ## [浅析《人间失格》中的经典句段](https://blog.csdn.net/qq_42698576/article/details/107785062)
+ > 浅析《人间失格》中的经典句段
+ ## [老实人之殇](https://blog.csdn.net/qq_22706515/article/details/107783154)
+ > 老实人之殇
+ ## [微信小程序 - wx:key警告does not look like a valid key name？（wx:key=“{{index}}“ does not look like a valid ）](https://blog.csdn.net/weixin_44198965/article/details/107782943)
+ > 微信小程序 - wx:key警告does not look like a valid key name？（wx:key=“{{index}}“ does not look like a valid ）
+ ## [阿里35岁P7程序员吐槽：4年了晋升无望！明年股票拿完，年包腰斩](https://blog.csdn.net/qianduan167/article/details/107790327)
+ > 阿里35岁P7程序员吐槽：4年了晋升无望！明年股票拿完，年包腰斩
+ ## [猴子搬香蕉（用数学来做这个算法题）](https://blog.csdn.net/jvhbi/article/details/107794186)
+ > 猴子搬香蕉（用数学来做这个算法题）
 # PM 
  ## [苹果正式分批处理无版号游戏，各榜单头部游戏暂不受影响？](http://www.chanpin100.com/article/112396)
  > App Store正式开始清理无版号游戏
