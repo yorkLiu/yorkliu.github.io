@@ -1,21 +1,23 @@
 ---
 title: 2020-08-07 IT News
 copyright: true
-date: 2020-08-07 08:01:21
+date: 2020-08-07 09:01:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [你的翻墙软件要歇菜了,美国也来“净网行动”](http://mp.weixin.qq.com/s?src=11&timestamp=1596756605&ver=2507&signature=gKNk8XvUBJPdpfVwvyNRTf3pchS9AZhg*p4Y1F7PYTz1UaimEnrrjHGC5TNm5U57iOR7a*hk0GY3WtuHPI2Ufx6UiG6*dMX5xbKBmos*KztNnrnVhzwhByYWD2IrjzwC&new=1)
- > Hello，大家好，我是小安。美国国务卿蓬佩奥宣布要给美国的网络上一堵墙……小安听了一时间也摸不着头脑，这不是中国的操作么，怎么美国也偷师学去了？我们先来看看他在新闻发布会上说了什么。发布会的开头先表...
- ## [许戈|突发!!比较严峻!](http://mp.weixin.qq.com/s?src=11&timestamp=1596756605&ver=2507&signature=EjbcJ-4Iaj2Nj3VYri803jburUstOn9UAj-70uVI1mD2vsa7yeTOCiv3*gUY9kTjVZH6By16Bbjdv13bKFHXqwbFngUIMaxt5gX7lNapKsYZEhPUw2ZHxHpVebNiOEYF&new=1)
- > 今天美国公布了净网计划，四月美国国务卿蓬佩奥就曾宣布实行“干净5G路径”，并出具一份弃用化为的“干净国家和运营商”名单。 声称为了保护美国公民隐私，保护美国公司企业最敏感的信息。真的是国家安全是个筐...
- ## [腾讯打出一招起诉，团灭了QQ机器人。](http://mp.weixin.qq.com/s?src=11&timestamp=1596756605&ver=2507&signature=25VUvW9ViE9Q2iQDdcnZQaCJswz0ZuAtG9yYnLGgulh9n6TDfp6DO4JHpO--X*L6z*3kdZbdEaVVsNfTnnr4ZKOxbZCVHT*H2tj5lNvREbTuRuPi*-aZfzYUMWi5jKEQ&new=1)
- > 最近，腾讯又被卷入了一场舆论风波之中。起因是 7 月 22 号，腾讯起诉晨风 QQ 机器人非法入侵计算机系统，作者被跨省传唤。晨风机器人作者原话是这样的 ▼晨风中招的事情一出，众多机器人开发者纷纷自危，近几天...
- ## [微软或300亿收购 TikTok；印度禁止小米浏览器等；伊朗黑客组织进行DNS武器化；](http://mp.weixin.qq.com/s?src=11&timestamp=1596756605&ver=2507&signature=VO6mysUo85rRDtvYFjNYNeFz9po4idKKu-4jjKKc6gpZoMRAhkoH59ujSwJk0K1a6ziKNOi8YH64wtXMBvlHLc5cCZR3wiyh0xTZJJD39uaZtOxsmx9TaPrtlCoYHHZ*&new=1)
- > 导读：一文了解IT互联网，开发者之大事件。微软与字节跳动正为收购 TikTok 业务谈判21CTO源引CNBC本周三之报道，微软计划在9月15日之前的三周内完成与TikTok的收购谈判——此笔交易的价格可能高达300亿美元。如...
- ## [AOC商用大屏，助某刑事侦查支队实现智慧公安信息化建设!](http://mp.weixin.qq.com/s?src=11&timestamp=1596756605&ver=2507&signature=EUS8lypLCf2oYujxwHktZMfeW2XnKa3wpXJr-Xorbtg4FwD8slwi6Dz9BVYvgHWd78hCQuFoqOlug4Vb6epP2MBtCeNul*6lYz3CVrZg7iNXd10es5syRk6ylQ8DYnUM&new=1)
+ ## [AOC商用大屏，助某刑事侦查支队实现智慧公安信息化建设!](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=EUS8lypLCf2oYujxwHktZMfeW2XnKa3wpXJr-XorbthnJiLe4TVzwQb6jLBS5sGBKm9dzN*34I5yYf*gaNYsO-t9dawQpfwIy3CvrTZEhYb5PXcchPRB-MBu8bjmrJuU&new=1)
  > 近年来，随着我国经济的快速发展及信息技术的变革，日益复杂多变的公共安全形势对公安机关在维护社会治安、打击违法犯罪等方面提出了更高要求。大数据时代趋势下，加快推进智慧公安建设，切实提高数据利用能力、...
+ ## [VR凭什么能火爆全球?诞生了85年，它究竟经历了什么..](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=r3wsolKSZpPuURgUuVBc6JfTsyp8sR3kAsdCSclCQoEhT-hOWT9*nurt3iIxIqI9wQtMLwbqihFzP5jU2WKUI6ZY03h-45SGiXwshWjpnz1H0D7ZSLgeiMmtcH0NlSj-&new=1)
+ > 普象工业设计小站整理编辑图片来自Google、Youtube虚拟现实（VR）是近几年来进入大众视野的新词汇。如今，它已经成为了许多潮流控的首选。在VR的世界里，获得多种多样的新奇体验。比如，VR360°全景逛超市体验；...
+ ## [腾讯打出一招起诉，团灭了QQ机器人。](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=25VUvW9ViE9Q2iQDdcnZQaCJswz0ZuAtG9yYnLGgulhhS7CsnBKq96P7WMdjYssnpjhWz-wPuD*Q*Ax5eHhkAiZSkcatPW04l2CqIsKM3imno7jfDGV1E8o6ODy1LC8J&new=1)
+ > 最近，腾讯又被卷入了一场舆论风波之中。起因是 7 月 22 号，腾讯起诉晨风 QQ 机器人非法入侵计算机系统，作者被跨省传唤。晨风机器人作者原话是这样的 ▼晨风中招的事情一出，众多机器人开发者纷纷自危，近几天...
+ ## [许戈|突发!!比较严峻!](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=EjbcJ-4Iaj2Nj3VYri803jburUstOn9UAj-70uVI1mDlvwIZU8ZyqMTVxj2zQb84G0aoqPSM5ClzolhNJwPxOhajdMYXfY9U24iUxYjSQbXDImS5AIGTK6c1BnIb2aMs&new=1)
+ > 今天美国公布了净网计划，四月美国国务卿蓬佩奥就曾宣布实行“干净5G路径”，并出具一份弃用化为的“干净国家和运营商”名单。 声称为了保护美国公民隐私，保护美国公司企业最敏感的信息。真的是国家安全是个筐...
+ ## [微软或300亿收购 TikTok；印度禁止小米浏览器等；伊朗黑客组织进行DNS武器化；](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=VO6mysUo85rRDtvYFjNYNeFz9po4idKKu-4jjKKc6grlRjU9KgFJOlbvnV-RdV39z8TBXClwcxUnGwRGwufSqv5xE82mKlUi1TakwMTThDIhk4oEvAVECIuuB5WGn-PW&new=1)
+ > 导读：一文了解IT互联网，开发者之大事件。微软与字节跳动正为收购 TikTok 业务谈判21CTO源引CNBC本周三之报道，微软计划在9月15日之前的三周内完成与TikTok的收购谈判——此笔交易的价格可能高达300亿美元。如...
+ ## [你的翻墙软件要歇菜了,美国也来“净网行动”](http://mp.weixin.qq.com/s?src=11&timestamp=1596762004&ver=2507&signature=gKNk8XvUBJPdpfVwvyNRTf3pchS9AZhg*p4Y1F7PYTya8a24Lzg6WJ7j1XrJIQSmG200tVdjjGxkD3D4gUtsb7FZL8BkmNiFF-zUK8W7PEc5RYKE2D2f-xoTWwhhVtIM&new=1)
+ > Hello，大家好，我是小安。美国国务卿蓬佩奥宣布要给美国的网络上一堵墙……小安听了一时间也摸不着头脑，这不是中国的操作么，怎么美国也偷师学去了？我们先来看看他在新闻发布会上说了什么。发布会的开头先表...
 # IT 技术 
  ## [浅谈无卡化背景下的支付诈骗](http://netsecurity.51cto.com/art/202008/623169.htm)
  > 浅谈无卡化背景下的支付诈骗
@@ -31,39 +33,26 @@ categories: IT NEWS
  > AI和物联网在零售环境中的长期应用
  ## [熬了一个通宵，终于把7千万个Key删完了](http://stor.51cto.com/art/202008/623146.htm)
  > 熬了一个通宵，终于把7千万个Key删完了
- ## [MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05](http://fellow.51cto.com/art/202008/622837.htm?qd=51ctojrzd)
- > MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05
-# 人工智能 
- ## [Docker（上）(安装Docker、配置阿里镜像加速、Docker运行流程、Docker常用命令)](https://blog.csdn.net/qq_44895397/article/details/107797774)
- > Docker（上）(安装Docker、配置阿里镜像加速、Docker运行流程、Docker常用命令)
- ## [【Linux】shell脚本概述](https://blog.csdn.net/xinshuzhan/article/details/107805752)
- > 【Linux】shell脚本概述
- ## [Linux系统常用命令(持续更新)](https://blog.csdn.net/weixin_46253958/article/details/107757547)
- > Linux系统常用命令(持续更新)
- ## [学Linux必知道的常用命令（再忙也要看一看）](https://blog.csdn.net/weixin_44024993/article/details/107797173)
- > 
- ## [Linux企业级常用命令(整理)](https://blog.csdn.net/qq_43210369/article/details/107807464)
- > Linux企业级常用命令(整理)
- ## [一看就会！！PXE批量网络安装](https://blog.csdn.net/CN_LiTianpeng/article/details/107791862)
- > 一看就会！！PXE批量网络安装
- ## [白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程](https://blog.csdn.net/weixin_46654114/article/details/107326630)
- > 白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程
- ## [nginx快速入门](https://blog.csdn.net/qq_42453117/article/details/107763725)
- > 
- ## [Linux操作系统之创建计划任务](https://blog.csdn.net/yiweii/article/details/107814656)
- > Linux操作系统之创建计划任务
- ## [Redis-性能测试(redis-benchmark)](https://blog.csdn.net/qq_45034708/article/details/107781559)
- > Redis-性能测试(redis-benchmark)
- ## [Linux知识集合](https://blog.csdn.net/qq_44895397/article/details/107738034)
- > Linux知识集合
- ## [firewalld防火墙........后面有简单实验 零基础入手了解](https://blog.csdn.net/weixin_47320286/article/details/107786421)
- > firewalld防火墙........后面有简单实验 零基础入手了解
- ## [【Linux】shell脚本实战-if单双分支条件语句详解](https://blog.csdn.net/xinshuzhan/article/details/107825762)
- > 【Linux】shell脚本实战-if单双分支条件语句详解
- ## [理论 Linux-iptables防火墙](https://blog.csdn.net/weixin_44733021/article/details/107812483)
- > 理论 Linux-iptables防火墙
- ## [烦人的pytorch gpu出错问题：RuntimeError: CUDA out of memory. Tried to allocate 14.00 MiB 远程主机间复制文件及文件夹](https://blog.csdn.net/gdengden/article/details/107778444)
- > 烦人的pytorch gpu出错问题：RuntimeError: CUDA out of memory. Tried to allocate 14.00 MiB 远程主机间复制文件及文件夹
+ ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
+ > Vue 快速开发入门课程
+ ## [5G时代，通信运营商的日子会好过吗？](http://network.51cto.com/art/202008/623233.htm)
+ > 5G时代，移动、联通、电信这些通信运营商的日子会好过吗？答案是：会越来越好！原因主要有三个。
+ ## [操作系统和并发的爱恨纠葛](http://os.51cto.com/art/202008/623232.htm)
+ > 我一直没有急于写并发的原因是我参不透操作系统，如今，我已经把操作系统刷了一遍，这次试着写一些并发，
+ ## [MySQL数据库升级的一些坑](http://database.51cto.com/art/202008/623229.htm)
+ > 对于商业数据库而言，数据库升级是一个优先级很高的事情，有版本升级路线图，有相应的补丁，而且对于方案还
+ ## [公司差点因为代码写得差把我直接给开掉](http://developer.51cto.com/art/202008/623225.htm)
+ > 重构可以找出我们代码里面隐藏的一些不易察觉的Bug，进而在之后的运行的过程中，能减少很多不必要的麻烦。
+ ## [学C语言好还是Python好？](http://developer.51cto.com/art/202008/623223.htm)
+ > 编程语言 发展进程 学哪一门编程语言，我们不妨先梳理一下语言的发展过程... 我们甚至可以再用 C 语言写一
+ ## [做数据分析还在死磕Excel？用这个简单工具，摆脱复杂函数和公式](http://bigdata.51cto.com/art/202008/623222.htm)
+ > 大数据时代，数据分析在我们的日常生活和工作中应用越来越广泛，不管是公司的行政、人事、销售、运营还是专
+ ## [为什么JavaScript是初学者的好选择](http://developer.51cto.com/art/202008/623221.htm)
+ > 有充分的理由，JavaScript是Web开发中使用的事实上的语言。它是一种通用语言，易于入门，并且很流行。
+ ## [怎么找到上锁的 SQL 语句](http://database.51cto.com/art/202008/623220.htm)
+ > 有的时候 SQL 语句被锁住了，可是通过 show processlist 找不到加锁的的 SQL 语句，这个时候应该怎么排查呢
+ ## [黑客通过入侵新闻网站发布虚假新闻](http://netsecurity.51cto.com/art/202008/623219.htm)
+ > 在过去几年里，网络上虚假信息变得越来越多，互联网媒体会在网络上为了自己的利益传播虚假信息，黑客为了展
 # PM 
  ## [苹果正式分批处理无版号游戏，各榜单头部游戏暂不受影响？](http://www.chanpin100.com/article/112396)
  > App Store正式开始清理无版号游戏
