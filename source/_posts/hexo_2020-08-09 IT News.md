@@ -1,21 +1,23 @@
 ---
 title: 2020-08-09 IT News
 copyright: true
-date: 2020-08-09 09:01:21
+date: 2020-08-09 10:01:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [装机必备第一站：高速纯净又省心!](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=RICpFU-*e4fv4uENeIY6YlbJVeVVOb2feCzASmSEVFp6jhAO3EIAkWFgdweX0v99-DMG4QxJ27LWeTsYgOSjZRedTOtZ3uA0IPczVSEaA4pgzeC4DQYjdCpjUf935tiQ&new=1)
- > 好的生活，不难也不贵| 来源：网络灯下黑| ID：wldxh8之前在文章中聊过平时在电脑上都是在哪下软件这个问题，当时也说过在软件官网下载是最安全、靠谱的方法。毕竟这是官方发布源，所以只要是有官网的，我都是会...
- ## [中信证券总经理杨明辉：2S时代来临，5G将成数字社会运行总线](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=vjN0BC8FYYYI34s6yrsZFa13lr8tOqpp*xBRYERQVPWi2oNxXSm0znyw0QgBfJTyHpidxlaQU9sr*qwtOWc25wP9hnuTGcHBAaxCmen0zsnpyD675gtY3sLlMkSS4Iko&new=1)
- > 日前，由华为主办的5“机”峰会上，中信证券总经理杨明辉表示，在国家政策牵引下，新基建如火如荼，5G是其中的重中之重。5G超高带宽使得云计算、大数据、人工智能、物联网等技术紧密结合起来，成为通讯行业的总...
- ## [欧洲专家谈5G：行业标准需统一，各方协同防产业链断裂](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=NUc44IdG34hAfK*500fYnLf9osGY2JNHYrQ*6wb7JxUIbfqONu7Ys7a9EtSPzXV9AYS*cZSOcA3XU8PLFVWt2w1z511r*0U81Pt3F-TmUcGUs5Tm8AsD1eVJAerlRkHF&new=1)
- > 2020年是5G全球开启更大规模部署的关键年，越来越多的国家和机构意识到5G的重要性。但一些国家依然对5G当前发展的一些标准挑战和贸易保护主义现象感到疑惑。北京时间8月6日晚间，ETNO(欧洲电信网络运营商协会) ...
- ## [北斗App下载火爆?此“北斗”非彼“北斗”](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=PH9LrHAMNDMyHtVsG0VH3XYNywirQwcZHDZUSww51KQ0ye-*lG63yjhdG8e6tfhiBJaeAYXTSb7ed8EnBXANF7R2xPH1ZtMbAChdDgADDoGvdwGGxT8X9V6EMLySmmFo&new=1)
- > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com随着北斗三号全球卫星导航系统正式开通，国人对于北斗的关注再创新高，如果现在您打开手机里的应用商店就可以注意到，...
- ## [失去麒麟 华为如何再续辉煌?](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=QkqOEnYx61nW0PNGuSwO*Ke1514sSHYRmL0Ysfg5EaFJ6ED4PPgCISp7BDEeA9pZ1BQSsQM2NacWEDNAkCs7JIfTRKag8tGr5K0to2c2eiq4aR0U00V3Ba0-m3mQt9wn&new=1)
+ ## [失去麒麟 华为如何再续辉煌?](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=QkqOEnYx61nW0PNGuSwO*Ke1514sSHYRmL0Ysfg5EaFJ6ED4PPgCISp7BDEeA9pZwk3Z5jIHfQlFBjjwDX6HGjLlMjkhy*4nwHLOGsA6rGRxpXKbc43GZtSHTOgIjhs-&new=1)
  > 本文主要内容：华为无法生产制造自研芯片，麒麟芯片将成为绝版无法使用华为自研芯片，对于华为来说都会有哪些影响？面对难题，华为如何破局？由于美方持续的制裁，中国很多已经成功出海的科技公司都面临了许多困...
+ ## [装机必备第一站：高速纯净又省心!](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=RICpFU-*e4fv4uENeIY6YlbJVeVVOb2feCzASmSEVFp6jhAO3EIAkWFgdweX0v99vn-IkN-qshLPUOQsfa6TLnGJGdJInvOnaETeHd19ifSb1bBA8ATtbknjNYY1eHGf&new=1)
+ > 好的生活，不难也不贵| 来源：网络灯下黑| ID：wldxh8之前在文章中聊过平时在电脑上都是在哪下软件这个问题，当时也说过在软件官网下载是最安全、靠谱的方法。毕竟这是官方发布源，所以只要是有官网的，我都是会...
+ ## [全是干货!汽车行业582篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=hhHz3AACrUNTwCbz7glugXuPzHyfdDKkQygqPdzskUiw9Ef7K8nyX6atDNVLTqBxmKukGgjyXk-VeyWuR0OKKwNuzy7WuGiYpQ3kkDQe8oAJzcKrMIJOmQKFQrrndO3s&new=1)
+ > 汽车行业582篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享582份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [欧洲专家谈5G：行业标准需统一，各方协同防产业链断裂](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=NUc44IdG34hAfK*500fYnLf9osGY2JNHYrQ*6wb7JxUIbfqONu7Ys7a9EtSPzXV995H7mSaWyppoG4-c-ZtHYRWHQTcfY3Wsr93FI*u8uNGwom*RLtOPk2qzE2qlynqP&new=1)
+ > 2020年是5G全球开启更大规模部署的关键年，越来越多的国家和机构意识到5G的重要性。但一些国家依然对5G当前发展的一些标准挑战和贸易保护主义现象感到疑惑。北京时间8月6日晚间，ETNO(欧洲电信网络运营商协会) ...
+ ## [中信证券总经理杨明辉：2S时代来临，5G将成数字社会运行总线](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=vjN0BC8FYYYI34s6yrsZFa13lr8tOqpp*xBRYERQVPWi2oNxXSm0znyw0QgBfJTyG5DtEBygan*9Bq4aNhShW3nPbIk9mjGsrgOlXtbP5xrNVr2DwHsdWLOTDTmE-WSm&new=1)
+ > 日前，由华为主办的5“机”峰会上，中信证券总经理杨明辉表示，在国家政策牵引下，新基建如火如荼，5G是其中的重中之重。5G超高带宽使得云计算、大数据、人工智能、物联网等技术紧密结合起来，成为通讯行业的总...
+ ## [北斗App下载火爆?此“北斗”非彼“北斗”](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=PH9LrHAMNDMyHtVsG0VH3XYNywirQwcZHDZUSww51KQ0ye-*lG63yjhdG8e6tfhi2NdWZa29oW8Oy5r7TWfzIkiO1y0IC4-a5fKpzxD-X41pmlnuhYWclBQZS5nFRNvs&new=1)
+ > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com随着北斗三号全球卫星导航系统正式开通，国人对于北斗的关注再创新高，如果现在您打开手机里的应用商店就可以注意到，...
 # IT 技术 
  ## [上“中台”，是送分，还是送命？](http://developer.51cto.com/art/202008/623239.htm)
  > 上“中台”，是送分，还是送命？
@@ -34,36 +36,36 @@ categories: IT NEWS
  ## [2019系统集成项目管理工程师全套视频（中级）马军老师课程](http://fellow.51cto.com/art/202008/622838.htm?qd=51ctojrzd)
  > 2019系统集成项目管理工程师全套视频（中级）马军老师课程
 # 人工智能 
- ## [贡献一个CSS心形加载的动画源码](https://blog.csdn.net/weixin_41229588/article/details/107863171)
- > 贡献一个CSS心形加载的动画源码
- ## [关于各种布局的整理](https://blog.csdn.net/weixin_46278003/article/details/107867830)
- > 关于各种布局的整理
- ## [【css】padding 和 margin的区别](https://blog.csdn.net/tyrant_forever/article/details/107856463)
- > 【css】padding 和 margin的区别
- ## [原生js+iframe实现菜单栏多页面切换](https://blog.csdn.net/weixin_47346395/article/details/107865601)
- > 原生js+iframe实现菜单栏多页面切换
- ## [Vue.js教程-目录](https://blog.csdn.net/weixin_45062103/article/details/107763788)
- > 
- ## [利用伪元素+动画效果制作一个跳动的心](https://blog.csdn.net/blinH/article/details/107869416)
- > 利用伪元素+动画效果制作一个跳动的心
- ## [京训钉自动播放，京训钉自动续播，京训钉刷课时，京训钉自动关弹窗，京训钉自动下一课](https://blog.csdn.net/qq_40002902/article/details/107862794)
- > 京训钉自动播放，京训钉自动续播，京训钉刷课时，京训钉自动关弹窗，京训钉自动下一课
- ## [5 个 JS 数组技巧可提高你的开发技能](https://blog.csdn.net/qq449245884/article/details/107805936)
- > 5 个 JS 数组技巧可提高你的开发技能
- ## [JAVAWEB第四天——JavaScript速成(2)【动态添加省市二级联动，表格高亮显示demo，表格隔行换色，js编码，解码】](https://blog.csdn.net/Mr_GYF/article/details/107849175)
- > JAVAWEB第四天——JavaScript速成(2)【动态添加省市二级联动，表格高亮显示demo，表格隔行换色，js编码，解码】
- ## [简单的js判断设备是pc端还是移动端，来加载相应的页面](https://blog.csdn.net/qq_45745643/article/details/107869887)
- > 简单的js判断设备是pc端还是移动端，来加载相应的页面
- ## [展示一个漂亮的css动态条形加载条源码](https://blog.csdn.net/weixin_41229588/article/details/107819896)
- > 展示一个漂亮的css动态条形加载条源码
- ## [微信小程序日历的实现](https://blog.csdn.net/weixin_44182162/article/details/107854570)
- > 微信小程序日历的实现
- ## [2020-08-07](https://blog.csdn.net/Aa__Ki/article/details/107867696)
- > 2020-08-07
- ## [简单封装jquery](https://blog.csdn.net/qq_18567801/article/details/107855518)
- > 简单封装jquery
- ## [Js-轮播图（纯Js）、图片自动切换](https://blog.csdn.net/mxjwxhn/article/details/107870552)
- > Js-轮播图（纯Js）、图片自动切换
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 # PM 
  ## [甲方乙方](http://www.chanpin100.com/article/112432)
  > 甲方乙方的“相爱相杀”
