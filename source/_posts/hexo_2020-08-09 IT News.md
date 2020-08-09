@@ -1,21 +1,21 @@
 ---
 title: 2020-08-09 IT News
 copyright: true
-date: 2020-08-09 08:00:59
+date: 2020-08-09 09:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [失去麒麟 华为如何再续辉煌?](http://mp.weixin.qq.com/s?src=11&timestamp=1596931205&ver=2511&signature=QkqOEnYx61nW0PNGuSwO*Ke1514sSHYRmL0Ysfg5EaFJ6ED4PPgCISp7BDEeA9pZjwzxodTgEXGzr6Cs1dwIx4Sw7oBppf6ATrdYdLNjVF3w0xcrgS7iE5Kzcp4JDmXn&new=1)
- > 本文主要内容：华为无法生产制造自研芯片，麒麟芯片将成为绝版无法使用华为自研芯片，对于华为来说都会有哪些影响？面对难题，华为如何破局？由于美方持续的制裁，中国很多已经成功出海的科技公司都面临了许多困...
- ## [装机必备第一站：高速纯净又省心!](http://mp.weixin.qq.com/s?src=11&timestamp=1596931205&ver=2511&signature=RICpFU-*e4fv4uENeIY6YlbJVeVVOb2feCzASmSEVFp6jhAO3EIAkWFgdweX0v99ld5s--VVISepy5HVLRNDp4r1xPGk0sKS1MY7f31Q4Nr63e38nEQYbrIhmjUGKulW&new=1)
+ ## [装机必备第一站：高速纯净又省心!](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=RICpFU-*e4fv4uENeIY6YlbJVeVVOb2feCzASmSEVFp6jhAO3EIAkWFgdweX0v99-DMG4QxJ27LWeTsYgOSjZRedTOtZ3uA0IPczVSEaA4pgzeC4DQYjdCpjUf935tiQ&new=1)
  > 好的生活，不难也不贵| 来源：网络灯下黑| ID：wldxh8之前在文章中聊过平时在电脑上都是在哪下软件这个问题，当时也说过在软件官网下载是最安全、靠谱的方法。毕竟这是官方发布源，所以只要是有官网的，我都是会...
- ## [欧洲专家谈5G：行业标准需统一，各方协同防产业链断裂](http://mp.weixin.qq.com/s?src=11&timestamp=1596931205&ver=2511&signature=NUc44IdG34hAfK*500fYnLf9osGY2JNHYrQ*6wb7JxUIbfqONu7Ys7a9EtSPzXV9T2bbQ*gz9lVPyNdKM3stdKUqdCaR0TJMxu1*sWtrJ73UAKfqXMFD2wLimmxzQkeQ&new=1)
- > 2020年是5G全球开启更大规模部署的关键年，越来越多的国家和机构意识到5G的重要性。但一些国家依然对5G当前发展的一些标准挑战和贸易保护主义现象感到疑惑。北京时间8月6日晚间，ETNO(欧洲电信网络运营商协会) ...
- ## [中信证券总经理杨明辉：2S时代来临，5G将成数字社会运行总线](http://mp.weixin.qq.com/s?src=11&timestamp=1596931205&ver=2511&signature=vjN0BC8FYYYI34s6yrsZFa13lr8tOqpp*xBRYERQVPWi2oNxXSm0znyw0QgBfJTybXx010h-rZg3NiU6TSppKcndxFEkVT5vIjvOA1AJYtaoovtEDz-uYK3tDcleWbPm&new=1)
+ ## [中信证券总经理杨明辉：2S时代来临，5G将成数字社会运行总线](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=vjN0BC8FYYYI34s6yrsZFa13lr8tOqpp*xBRYERQVPWi2oNxXSm0znyw0QgBfJTyHpidxlaQU9sr*qwtOWc25wP9hnuTGcHBAaxCmen0zsnpyD675gtY3sLlMkSS4Iko&new=1)
  > 日前，由华为主办的5“机”峰会上，中信证券总经理杨明辉表示，在国家政策牵引下，新基建如火如荼，5G是其中的重中之重。5G超高带宽使得云计算、大数据、人工智能、物联网等技术紧密结合起来，成为通讯行业的总...
- ## [北斗App下载火爆?此“北斗”非彼“北斗”](http://mp.weixin.qq.com/s?src=11&timestamp=1596931205&ver=2511&signature=PH9LrHAMNDMyHtVsG0VH3XYNywirQwcZHDZUSww51KQ0ye-*lG63yjhdG8e6tfhiEPmCBL4kqJ72M7nDfRMKxsIFYqtcEaxBoAEUQ1M0WceNFdjVTCsERf4W8*XMxaIN&new=1)
+ ## [欧洲专家谈5G：行业标准需统一，各方协同防产业链断裂](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=NUc44IdG34hAfK*500fYnLf9osGY2JNHYrQ*6wb7JxUIbfqONu7Ys7a9EtSPzXV9AYS*cZSOcA3XU8PLFVWt2w1z511r*0U81Pt3F-TmUcGUs5Tm8AsD1eVJAerlRkHF&new=1)
+ > 2020年是5G全球开启更大规模部署的关键年，越来越多的国家和机构意识到5G的重要性。但一些国家依然对5G当前发展的一些标准挑战和贸易保护主义现象感到疑惑。北京时间8月6日晚间，ETNO(欧洲电信网络运营商协会) ...
+ ## [北斗App下载火爆?此“北斗”非彼“北斗”](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=PH9LrHAMNDMyHtVsG0VH3XYNywirQwcZHDZUSww51KQ0ye-*lG63yjhdG8e6tfhiBJaeAYXTSb7ed8EnBXANF7R2xPH1ZtMbAChdDgADDoGvdwGGxT8X9V6EMLySmmFo&new=1)
  > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com随着北斗三号全球卫星导航系统正式开通，国人对于北斗的关注再创新高，如果现在您打开手机里的应用商店就可以注意到，...
+ ## [失去麒麟 华为如何再续辉煌?](http://mp.weixin.qq.com/s?src=11&timestamp=1596933005&ver=2511&signature=QkqOEnYx61nW0PNGuSwO*Ke1514sSHYRmL0Ysfg5EaFJ6ED4PPgCISp7BDEeA9pZ1BQSsQM2NacWEDNAkCs7JIfTRKag8tGr5K0to2c2eiq4aR0U00V3Ba0-m3mQt9wn&new=1)
+ > 本文主要内容：华为无法生产制造自研芯片，麒麟芯片将成为绝版无法使用华为自研芯片，对于华为来说都会有哪些影响？面对难题，华为如何破局？由于美方持续的制裁，中国很多已经成功出海的科技公司都面临了许多困...
 # IT 技术 
  ## [上“中台”，是送分，还是送命？](http://developer.51cto.com/art/202008/623239.htm)
  > 上“中台”，是送分，还是送命？
@@ -31,8 +31,39 @@ categories: IT NEWS
  > 密钥管理即服务正当时
  ## [AI和物联网在零售环境中的长期应用](http://iot.51cto.com/art/202008/623171.htm)
  > AI和物联网在零售环境中的长期应用
- ## [新SpringCloud视频教程 分布式架构教程SpringCloud+Docker](http://fellow.51cto.com/art/202007/622449.htm?qd=51ctojrzd)
- > 新SpringCloud视频教程 分布式架构教程SpringCloud+Docker
+ ## [2019系统集成项目管理工程师全套视频（中级）马军老师课程](http://fellow.51cto.com/art/202008/622838.htm?qd=51ctojrzd)
+ > 2019系统集成项目管理工程师全套视频（中级）马军老师课程
+# 人工智能 
+ ## [贡献一个CSS心形加载的动画源码](https://blog.csdn.net/weixin_41229588/article/details/107863171)
+ > 贡献一个CSS心形加载的动画源码
+ ## [关于各种布局的整理](https://blog.csdn.net/weixin_46278003/article/details/107867830)
+ > 关于各种布局的整理
+ ## [【css】padding 和 margin的区别](https://blog.csdn.net/tyrant_forever/article/details/107856463)
+ > 【css】padding 和 margin的区别
+ ## [原生js+iframe实现菜单栏多页面切换](https://blog.csdn.net/weixin_47346395/article/details/107865601)
+ > 原生js+iframe实现菜单栏多页面切换
+ ## [Vue.js教程-目录](https://blog.csdn.net/weixin_45062103/article/details/107763788)
+ > 
+ ## [利用伪元素+动画效果制作一个跳动的心](https://blog.csdn.net/blinH/article/details/107869416)
+ > 利用伪元素+动画效果制作一个跳动的心
+ ## [京训钉自动播放，京训钉自动续播，京训钉刷课时，京训钉自动关弹窗，京训钉自动下一课](https://blog.csdn.net/qq_40002902/article/details/107862794)
+ > 京训钉自动播放，京训钉自动续播，京训钉刷课时，京训钉自动关弹窗，京训钉自动下一课
+ ## [5 个 JS 数组技巧可提高你的开发技能](https://blog.csdn.net/qq449245884/article/details/107805936)
+ > 5 个 JS 数组技巧可提高你的开发技能
+ ## [JAVAWEB第四天——JavaScript速成(2)【动态添加省市二级联动，表格高亮显示demo，表格隔行换色，js编码，解码】](https://blog.csdn.net/Mr_GYF/article/details/107849175)
+ > JAVAWEB第四天——JavaScript速成(2)【动态添加省市二级联动，表格高亮显示demo，表格隔行换色，js编码，解码】
+ ## [简单的js判断设备是pc端还是移动端，来加载相应的页面](https://blog.csdn.net/qq_45745643/article/details/107869887)
+ > 简单的js判断设备是pc端还是移动端，来加载相应的页面
+ ## [展示一个漂亮的css动态条形加载条源码](https://blog.csdn.net/weixin_41229588/article/details/107819896)
+ > 展示一个漂亮的css动态条形加载条源码
+ ## [微信小程序日历的实现](https://blog.csdn.net/weixin_44182162/article/details/107854570)
+ > 微信小程序日历的实现
+ ## [2020-08-07](https://blog.csdn.net/Aa__Ki/article/details/107867696)
+ > 2020-08-07
+ ## [简单封装jquery](https://blog.csdn.net/qq_18567801/article/details/107855518)
+ > 简单封装jquery
+ ## [Js-轮播图（纯Js）、图片自动切换](https://blog.csdn.net/mxjwxhn/article/details/107870552)
+ > Js-轮播图（纯Js）、图片自动切换
 # PM 
  ## [甲方乙方](http://www.chanpin100.com/article/112432)
  > 甲方乙方的“相爱相杀”
