@@ -1,22 +1,30 @@
 ---
 title: 2020-08-09 IT News
 copyright: true
-date: 2020-08-09 10:01:56
+date: 2020-08-09 12:01:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [失去麒麟 华为如何再续辉煌?](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=QkqOEnYx61nW0PNGuSwO*Ke1514sSHYRmL0Ysfg5EaFJ6ED4PPgCISp7BDEeA9pZwk3Z5jIHfQlFBjjwDX6HGjLlMjkhy*4nwHLOGsA6rGRxpXKbc43GZtSHTOgIjhs-&new=1)
- > 本文主要内容：华为无法生产制造自研芯片，麒麟芯片将成为绝版无法使用华为自研芯片，对于华为来说都会有哪些影响？面对难题，华为如何破局？由于美方持续的制裁，中国很多已经成功出海的科技公司都面临了许多困...
- ## [装机必备第一站：高速纯净又省心!](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=RICpFU-*e4fv4uENeIY6YlbJVeVVOb2feCzASmSEVFp6jhAO3EIAkWFgdweX0v99vn-IkN-qshLPUOQsfa6TLnGJGdJInvOnaETeHd19ifSb1bBA8ATtbknjNYY1eHGf&new=1)
- > 好的生活，不难也不贵| 来源：网络灯下黑| ID：wldxh8之前在文章中聊过平时在电脑上都是在哪下软件这个问题，当时也说过在软件官网下载是最安全、靠谱的方法。毕竟这是官方发布源，所以只要是有官网的，我都是会...
- ## [全是干货!汽车行业582篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=hhHz3AACrUNTwCbz7glugXuPzHyfdDKkQygqPdzskUiw9Ef7K8nyX6atDNVLTqBxmKukGgjyXk-VeyWuR0OKKwNuzy7WuGiYpQ3kkDQe8oAJzcKrMIJOmQKFQrrndO3s&new=1)
+ ## [安世亚太加速布局3D打印生态圈](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=QzVVF0xwaK8zvU7ff5qgXlhlx*4r72Fb*rMTs-lzkbefIwUIyiv6McQnY9RNBIxrjUoU*pbZhv2QSGbkhOCIkUmqc*SryAkg1GfJSFQJonYQtabIqgBcwNKZxC0qzjPP&new=1)
+ > 浙江新闻落地杭州湘湖刚刚5个月，在新冠肺炎疫情冲击下快速布局，近百名员工中研发人员过半，这就是安世亚太增材制造有限公司，安世亚太是我国工业企业研发信息化领域的领先者、新型工业品研制者、企业仿真体系...
+ ## [小i机器人再掀专利战：苹果全系产品或被禁售，索赔或超百亿](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=N-wConsYIXzinB8h9mcwB8Tri3HNI9c54TioKB31wq6BHdoNdAHEDvRRcA66Qi7H8a0qGGHzs*6h-8Hnm24P0cOUC1KzKuzDAwKE9eITfnSbBzPG2V7bUYzO1NvEEcEd&new=1)
+ > 创投圈大小事，你都能尽在掌握腾讯创业 | ID：qqchuangye  对小i机器人来说，这不是一场普通的专利官司，而是决定命运的一战。本文来源 “IT时报”（ID：vittimes），腾讯创业经授权后转载。作者 / 孙妍编辑 / ...
+ ## [美媒称高通正游说美政府取消向华为出售芯片限制：不卖给华为，就是把80亿市场拱手让给竞争对手](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=NPf86AK*YazJP2-karwStBMkCQN2P*bW26jlY6OdUUbNZpI3KkPxw6UYWHmC17G7aDQCC9nWXabSa7Aitaqb1E9r86303E*fNUXqxgYDcR8=&new=1)
+ > 【环球网报道记者 崔妍】英国路透社8日援引《华尔街日报》报道透露，美国芯片巨头高通公司正在游说特朗普政府，呼吁取消该公司向华为出售芯片的限制。高通警告称，美国针对华为的相关禁令可能会把价值高达80亿美...
+ ## [印度运营商自研5G，吹的牛会实现吗?\[宁宇专栏-353\]](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=bIcqPS-ljdonyVDhjX9jonAuOcxW2ylkb9xTQ0vZqWFk6jtkPqaeetlbOCqcae7789xnXGPzR8fEL1wXw954m66rRB*jzl2D1OqfWN58zOoL81KtZnKtsSgC*HaIXpLh&new=1)
+ > 【摘要】电信运营商自研5G技术并非天方夜谭，但说能产品化并输出给其他国家，我就不太信了。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体宁 宇原中国移动业务支撑系统部经理、华为业务软件部专家，现为独立咨询...
+ ## [全是干货!汽车行业582篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=hhHz3AACrUNTwCbz7glugXuPzHyfdDKkQygqPdzskUhyNkz2PFxs97vp0qUUedAqSwfCusPEtAzo2Gq6pU*4EUySrEPlWmvbqTQTf9MQj-bfHsIVvEHSZu2tXTgF1Qyn&new=1)
  > 汽车行业582篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享582份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
- ## [欧洲专家谈5G：行业标准需统一，各方协同防产业链断裂](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=NUc44IdG34hAfK*500fYnLf9osGY2JNHYrQ*6wb7JxUIbfqONu7Ys7a9EtSPzXV995H7mSaWyppoG4-c-ZtHYRWHQTcfY3Wsr93FI*u8uNGwom*RLtOPk2qzE2qlynqP&new=1)
+ ## [装机必备第一站：高速纯净又省心!](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=RICpFU-*e4fv4uENeIY6YlbJVeVVOb2feCzASmSEVFoCdAwN-75qCA4NwWToVpB3HzDjuYm1n4DfdRG4cg3uOdlorwOJArxoDftAUHxU-NAThsbfDZM786lfD6Vh844R&new=1)
+ > 好的生活，不难也不贵| 来源：网络灯下黑| ID：wldxh8之前在文章中聊过平时在电脑上都是在哪下软件这个问题，当时也说过在软件官网下载是最安全、靠谱的方法。毕竟这是官方发布源，所以只要是有官网的，我都是会...
+ ## [欧洲专家谈5G：行业标准需统一，各方协同防产业链断裂](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=NUc44IdG34hAfK*500fYnLf9osGY2JNHYrQ*6wb7JxX9gLloxL3HeLzwy5sMOnfiww2O1lb-BCHTH0lOGVMthpaIBcJEv47XrJPaGXHdDqgs6GdclI0us4cIZ9k-6Nop&new=1)
  > 2020年是5G全球开启更大规模部署的关键年，越来越多的国家和机构意识到5G的重要性。但一些国家依然对5G当前发展的一些标准挑战和贸易保护主义现象感到疑惑。北京时间8月6日晚间，ETNO(欧洲电信网络运营商协会) ...
- ## [中信证券总经理杨明辉：2S时代来临，5G将成数字社会运行总线](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=vjN0BC8FYYYI34s6yrsZFa13lr8tOqpp*xBRYERQVPWi2oNxXSm0znyw0QgBfJTyG5DtEBygan*9Bq4aNhShW3nPbIk9mjGsrgOlXtbP5xrNVr2DwHsdWLOTDTmE-WSm&new=1)
+ ## [中信证券总经理杨明辉：2S时代来临，5G将成数字社会运行总线](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=vjN0BC8FYYYI34s6yrsZFa13lr8tOqpp*xBRYERQVPX-goZSnLbrvcoIAYh5b5f3DhCHEU1tzkd-W6QHFBxwAL-tHX-BKuCXNQ*OyQRm3mXd1JH0gdGslu5KGH7hURkR&new=1)
  > 日前，由华为主办的5“机”峰会上，中信证券总经理杨明辉表示，在国家政策牵引下，新基建如火如荼，5G是其中的重中之重。5G超高带宽使得云计算、大数据、人工智能、物联网等技术紧密结合起来，成为通讯行业的总...
- ## [北斗App下载火爆?此“北斗”非彼“北斗”](http://mp.weixin.qq.com/s?src=11&timestamp=1596936604&ver=2511&signature=PH9LrHAMNDMyHtVsG0VH3XYNywirQwcZHDZUSww51KQ0ye-*lG63yjhdG8e6tfhi2NdWZa29oW8Oy5r7TWfzIkiO1y0IC4-a5fKpzxD-X41pmlnuhYWclBQZS5nFRNvs&new=1)
+ ## [失去麒麟 华为如何再续辉煌?](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=QkqOEnYx61nW0PNGuSwO*Ke1514sSHYRmL0Ysfg5EaHmvuO8I722HTehVH2liJEMws60oM5a8oFmq6w-D9QkSoieZ1NmMYOEcp86bZP-waT4IYZkN*Kj8OFXfghk0DJZ&new=1)
+ > 本文主要内容：华为无法生产制造自研芯片，麒麟芯片将成为绝版无法使用华为自研芯片，对于华为来说都会有哪些影响？面对难题，华为如何破局？由于美方持续的制裁，中国很多已经成功出海的科技公司都面临了许多困...
+ ## [北斗App下载火爆?此“北斗”非彼“北斗”](http://mp.weixin.qq.com/s?src=11&timestamp=1596943805&ver=2511&signature=PH9LrHAMNDMyHtVsG0VH3XYNywirQwcZHDZUSww51KQxJU8iZZZLq7SXrYmY73AydS7nOysecqK60IjZK2d9AZcehm7HECqJBvDhKkHDDB5QHMN3YKdRLrzpUvoOvHwr&new=1)
  > 举报、投诉、直销维权、反传救助   微信/电话：133 6673 0110   QQ/邮箱：985308168@qq.com随着北斗三号全球卫星导航系统正式开通，国人对于北斗的关注再创新高，如果现在您打开手机里的应用商店就可以注意到，...
 # IT 技术 
  ## [上“中台”，是送分，还是送命？](http://developer.51cto.com/art/202008/623239.htm)
@@ -33,39 +41,39 @@ categories: IT NEWS
  > 密钥管理即服务正当时
  ## [AI和物联网在零售环境中的长期应用](http://iot.51cto.com/art/202008/623171.htm)
  > AI和物联网在零售环境中的长期应用
- ## [2019系统集成项目管理工程师全套视频（中级）马军老师课程](http://fellow.51cto.com/art/202008/622838.htm?qd=51ctojrzd)
- > 2019系统集成项目管理工程师全套视频（中级）马军老师课程
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
 # 人工智能 
- ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
- > mongoTemplate的方法和update()
- ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
- > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
- ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
- > Mysql实现查询5分钟之前的数据
- ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
- > 按键精灵-自定义函数time(),datetime(),diff()
- ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
- > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
- ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
- > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
- ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
- > ERD图
- ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
- > 怎么往mysql表里添加数据
- ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
- > 连续登录天数计算
- ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
- > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
- ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
- > Sql性能优化看这一篇就够了
- ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
- > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
- ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
- > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
- ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
- > ffmpeg vsync参数分析
- ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
- > oracle授权查询
+ ## [脱贫帮扶绩效评价(含代码)-2020年华数杯C题](https://blog.csdn.net/qq_41228463/article/details/107860502)
+ > 脱贫帮扶绩效评价(含代码)-2020年华数杯C题
+ ## [【python办公自动化】openpyxl如何操作xls文件——把xls文件另存为xlsx文件](https://blog.csdn.net/zhh763984017/article/details/107860027)
+ > 【python办公自动化】openpyxl如何操作xls文件——把xls文件另存为xlsx文件
+ ## [深夜爬虫， 我很抱歉 ， 附微信 “ 网抑云” 公众号爬虫教程!](https://blog.csdn.net/qq_45906219/article/details/107870305)
+ > 深夜爬虫， 我很抱歉 ， 附微信 “ 网抑云” 公众号爬虫教程!
+ ## [基于Python打印文字到桌面壁纸上的提醒学习小程序](https://blog.csdn.net/u011463832/article/details/107856912)
+ > 
+ ## [2020-08-08网易笔试](https://blog.csdn.net/ZT7524/article/details/107883053)
+ > 2020-08-08网易笔试
+ ## [python做词云图](https://blog.csdn.net/weixin_43510203/article/details/107856489)
+ > python做词云图
+ ## [领导要我6点下班前创建1000个有效的手机号，现在5点半了！random模块10分钟搞定！](https://blog.csdn.net/laozhu_Python/article/details/107883325)
+ > 领导要我6点下班前创建1000个有效的手机号，现在5点半了！random模块10分钟搞定！
+ ## [初识Python之正则表达篇（完结）](https://blog.csdn.net/weixin_47723732/article/details/107837962)
+ > 初识Python之正则表达篇（完结）
+ ## [Python进程](https://blog.csdn.net/weixin_44024993/article/details/107846014)
+ > Python进程
+ ## [Python描述数据结构之链队列篇](https://blog.csdn.net/qq_42730750/article/details/107870216)
+ > Python描述数据结构之链队列篇
+ ## [从0基础学习Python  (21)\[进销存管理系统\[案例\]\](v2.0-完善版)](https://blog.csdn.net/weixin_47766667/article/details/107870998)
+ > 从0基础学习Python  (21)\[进销存管理系统\[案例\]\](v2.0-完善版)
+ ## [python从入门到放弃篇41（selenium库，requests库，lxml库，time库，os模块，jieba库，pyecharts库）实现爬取书籍信息，并进行可视化](https://blog.csdn.net/weixin_43408020/article/details/107848326)
+ > python从入门到放弃篇41（selenium库，requests库，lxml库，time库，os模块，jieba库，pyecharts库）实现爬取书籍信息，并进行可视化
+ ## [Python爬虫学习笔记    asyncio+aiohttp 异步爬虫原理和解析](https://blog.csdn.net/fyfugoyfa/article/details/107791241)
+ > Python爬虫学习笔记    asyncio+aiohttp 异步爬虫原理和解析
+ ## [【循序渐进学Python】Python中的函数(五)——列表推导式与函数的返回值](https://blog.csdn.net/XVJINHUA954/article/details/107874304)
+ > 【循序渐进学Python】Python中的函数(五)——列表推导式与函数的返回值
+ ## [python中如何使用多线程实现文件的copy](https://blog.csdn.net/Layfolk_XK/article/details/107874464)
+ > python中如何使用多线程实现文件的copy
 # PM 
  ## [甲方乙方](http://www.chanpin100.com/article/112432)
  > 甲方乙方的“相爱相杀”
