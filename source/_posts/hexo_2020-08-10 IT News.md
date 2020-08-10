@@ -1,88 +1,90 @@
 ---
 title: 2020-08-10 IT News
 copyright: true
-date: 2020-08-10 08:00:56
+date: 2020-08-10 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [解读韩国运营商最新财报：5G带动LG U+用户与收入双增长](http://mp.weixin.qq.com/s?src=11&timestamp=1597017605&ver=2513&signature=5ZwKmOYamVQ6xsim-tmjlkjsCHd1A4aLBX4*BObgbrnkFrV-SOCWqozFH2tADDFQsOYokomii42oYa6dIobliXszG8pZWEpTLeYkcibCAiYDTbkUfFaAieCwGGQRO5DK&new=1)
+ ## [IFOC 2020|9月7-8日·深圳，第19届讯石研讨会诚邀您扫码报名参会](http://mp.weixin.qq.com/s?src=11&timestamp=1597019405&ver=2513&signature=jLoeA5LvoDvjpr*0f-J4gtDfB1v8rU32YvtjYWT-cnMEqO1EebD42FjV8I2uMxVj2oyM79fb5AZfT80zG3v*YVIAPONiq4phUKl2jfbJvd5r2fmMWisu6Jfv5lz6yibg&new=1)
+ > ICC讯 2020年9月7日-8日，第19届讯石光纤通讯市场暨技术专题研讨会（The 19th Infostone Optical Communication Market and Tchnology Conference，简称“IFOC”
+ ## [解读韩国运营商最新财报：5G带动LG U+用户与收入双增长](http://mp.weixin.qq.com/s?src=11&timestamp=1597019405&ver=2513&signature=5ZwKmOYamVQ6xsim-tmjlkjsCHd1A4aLBX4*BObgbrnkFrV-SOCWqozFH2tADDFQ8RyOB2jFqui8mJEVGUurwXMLHdsi2rQsPASLkaWdYkv9SG6JPBrxkHkBX5u98qKZ&new=1)
  > 作为全球最早商用5G的国家，韩国运营商的网络和业务发展备受关注。近日，韩国三大运营商KT、LG U+和SKT发布二季度财报，收入均有增长，引起诸多媒体报道和分析。尤其在无线业务方面，LG U+表现抢眼，其无线业务...
- ## [网友炸锅!微软更新协议"断供中国"?真相竟是…字节跳动也紧急澄清TikTok谣言](http://mp.weixin.qq.com/s?src=11&timestamp=1597017605&ver=2513&signature=erq58TGUXie*PxtHrxsXScwd1czEN*QohYLdAuoH*OJntbWXlWygRTAe92VUk1XCLAXkRZvtA8D-SuB1g6u7qbtmO53Zal*pNQ-j31b0STkvBfG7SBCPKRJTdIfalb07&new=1)
- > 中国基金报 泰勒中美关系的紧张，这两天TikTok的事情闹得沸沸扬扬，跨国企业的一举一动都被放大解读。9日，关于微软的一则消息被广为流传，究竟真相如何？微新声明暗示断供中国？8月9日，网上流传，微软更新了其...
- ## [高通慌了，担忧失去中国手机的订单，壮大美国竞争对手](http://mp.weixin.qq.com/s?src=11&timestamp=1597017605&ver=2513&signature=jg0rR0qUzZuQEPAde2C5mhovsQu5oYnLqQAwu8QTdwdEDS6W9WQEHfWxoi6pBGc6EVJ6zSazDUqmWnvpho4o2W1NCfskMcMoh0mCeGYooe*mvRzHak0mO*QSaUWldhpL&new=1)
+ ## [高通慌了，担忧失去中国手机的订单，壮大美国竞争对手](http://mp.weixin.qq.com/s?src=11&timestamp=1597019405&ver=2513&signature=jg0rR0qUzZuQEPAde2C5mhovsQu5oYnLqQAwu8QTdwdEDS6W9WQEHfWxoi6pBGc6Ez-gkq5UJ7l7rpYKteeHjlVVRmzxpa6udkYZ04hInNo0RYuxc2Q5y7s6JzgNVMQ8&new=1)
  > 据悉美国芯片企业高通呼吁允许它向中国手机企业华为供应芯片，它担忧如果失去了华为的订单，而竞争对手继续与华为合作，将损害美国芯片技术的领先优势，给美国芯片产业造成无法挽回的损失。高通是全球最大的手机...
- ## [重磅!中国联通高薪招聘来了..](http://mp.weixin.qq.com/s?src=11&timestamp=1597017605&ver=2513&signature=aAI5JCP1kii2DOmEq8efLv104Dd--PodbRq0YELYzNkyhb666fkNm8Ane2rEJ5TVNP-imqj-5WdIttJqdgGkCKYACZY5IiQpS7qFYLAFfICGMfu4lkz*PJsN3s8vCKGN&new=1)
- > 中国联合网络通信集团有限公司（简称“中国联通”）于2009年1月6日在原中国网通和原中国联通的基础上合并组建而成，在国内31个省（自治区、直辖市）和境外多个国家和地区设有分支机构，是中国唯一一家在纽约、香...
- ## [\[C114周报\]余承东：新一代麒麟芯片将成“绝版”；美国升级“干净网络”计划；华为启动“南泥湾”项目](http://mp.weixin.qq.com/s?src=11&timestamp=1597017605&ver=2513&signature=GIWt9cO8eQdfaPxgmA4Um6Qg57TGiFVwdArLsTAABxVfOgYrx2qIOpVhvvZ*iCdUwu1ON6kUZK4RggmdOzjMLMsE6xgVmz3if7fwTuWLbOaNntB*Dkb5RQw4VwZ*2ku2&new=1)
+ ## [\[C114周报\]余承东：新一代麒麟芯片将成“绝版”；美国升级“干净网络”计划；华为启动“南泥湾”项目](http://mp.weixin.qq.com/s?src=11&timestamp=1597019405&ver=2513&signature=GIWt9cO8eQdfaPxgmA4Um6Qg57TGiFVwdArLsTAABxVfOgYrx2qIOpVhvvZ*iCdUJxtWARJ5Sk9GWsLr9-yptRYHie7EL4e6T6oZ5mRA03U1RBH*xOvxZrK5Ml8NP2Ae&new=1)
  > 周报WEEKLY本周热点有余承东：新一代麒麟芯片将成“绝版”；美国升级“干净网络”计划；华为启动“南泥湾”项目• 第103期 •余承东：新一代麒麟芯片将成“绝版”8月7日由于美国制裁，下半年即将推出的Mate 40可...
+ ## [网友炸锅!微软更新协议"断供中国"?真相竟是…字节跳动也紧急澄清TikTok谣言](http://mp.weixin.qq.com/s?src=11&timestamp=1597019405&ver=2513&signature=erq58TGUXie*PxtHrxsXScwd1czEN*QohYLdAuoH*OJntbWXlWygRTAe92VUk1XCN5rV6yTDJI6Vn15YVdvQqmtOHOo6kDREgKtlyelmR07uQT8T4OpdxQLKjyGpQ8Ie&new=1)
+ > 中国基金报 泰勒中美关系的紧张，这两天TikTok的事情闹得沸沸扬扬，跨国企业的一举一动都被放大解读。9日，关于微软的一则消息被广为流传，究竟真相如何？微新声明暗示断供中国？8月9日，网上流传，微软更新了其...
+ ## [重磅!中国联通高薪招聘来了..](http://mp.weixin.qq.com/s?src=11&timestamp=1597019405&ver=2513&signature=aAI5JCP1kii2DOmEq8efLv104Dd--PodbRq0YELYzNkyhb666fkNm8Ane2rEJ5TVZGbLPP*qdxg4bCMj97TG9m90p57TbPPK29TTOsWTOkCPKUPx51gxXbBGMnV4J9qQ&new=1)
+ > 中国联合网络通信集团有限公司（简称“中国联通”）于2009年1月6日在原中国网通和原中国联通的基础上合并组建而成，在国内31个省（自治区、直辖市）和境外多个国家和地区设有分支机构，是中国唯一一家在纽约、香...
 # IT 技术 
- ## [分区闪存：企业SSD界的下一大热门](http://stor.51cto.com/art/202008/623235.htm)
- > 分区闪存：企业SSD界的下一大热门
- ## [上“中台”，是送分，还是送命？](http://developer.51cto.com/art/202008/623239.htm)
- > 上“中台”，是送分，还是送命？
+ ## [技术Leader远离代码，就是自废武功？](http://news.51cto.com/art/202008/623360.htm)
+ > 技术Leader远离代码，就是自废武功？
  ## [如何开发SaaS应用](http://developer.51cto.com/art/202008/623234.htm)
  > 如何开发SaaS应用
- ## [浅谈无卡化背景下的支付诈骗](http://netsecurity.51cto.com/art/202008/623169.htm)
- > 浅谈无卡化背景下的支付诈骗
- ## [放弃360万年薪，选择华为201万的「天才少年」：做自己想做的事](http://news.51cto.com/art/202008/623156.htm)
- > 放弃360万年薪，选择华为201万的「天才少年」：做自己想做的事
- ## [神经网络如何学习的？](http://ai.51cto.com/art/202008/623155.htm)
- > 神经网络如何学习的？
- ## [TCP/IP知识点：主机到主机层协议](http://network.51cto.com/art/202008/623114.htm)
- > TCP/IP知识点：主机到主机层协议
- ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
- > MySQL培训速成教程（八）：MySQL主从复制集群配置
- ## [虚拟内存是什么？有什么用？](http://os.51cto.com/art/202008/623342.htm)
- > 良许就和大家来讨论下计算机的内存如果不够用了, 虚拟内存技术的应用，虚拟内存的出现，让机器内存不够的情
- ## [数据分析总失败？通关密码都在这](http://www.cioage.com/art/202008/623341.htm)
- > 强大的数据分析技术是数字化企业的当务之急，而这一切都始于数据治理、合适的策略以及重视关注数据的企业文
- ## [2020物联网领域不得不关注的新进展：去中心化存储](http://iot.51cto.com/art/202008/623340.htm)
- > 随着物联网的发展，有一个领域正在逐步发生变化，那就是数据存储市场。万物互联产生的数据正在以指数级增长
- ## [CSS中简写属性要注意TRouBLe的顺序，避免踩坑](http://developer.51cto.com/art/202008/623339.htm)
- > 简写属性会尽量包容指定的属性值的顺序，但是有很多属性的值很模糊。在这种情况下，值的顺序很关键。理解这
- ## [Kaggle精选：6门精品数据科学课程](http://bigdata.51cto.com/art/202008/623338.htm)
- > 根据Kaggle上的示例和数据，笔者已经在这个网站上练习了大量的机器学习算法及对应的代码。老司机带路，为你
- ## [几行代码实现强化学习](http://ai.51cto.com/art/202008/623337.htm)
- > 本文的目的是让您快速使用一些简洁的程序包，以便您可以轻松地开始学习强化学习。有关如何实施SOTA深度强化
- ## [DevOps二三事：用持续集成构建自动模型训练系统的理论和实践指南](http://developer.51cto.com/art/202008/623336.htm)
- > 近几年来，机器学习飞速发展，开展机器学习试验变成小事一桩。有了scikit-learn和Keras这样的资源库，只需
- ## [效率宝典：7个超棒的React Hooks](http://developer.51cto.com/art/202008/623335.htm)
- > 在React hooks发行前，React软件的功能性组件使用比较有限，在处理状态、上下文API以及一些生命周期方法时
- ## [程序员轻松绘图神器](http://os.51cto.com/art/202008/623334.htm)
- > 利用 dot 命令来绘图，非常省事，也非常灵活，对于设计菜鸟而言，简直不能太方便!它的功能十分强大，本文所
- ## [7月份Github上热门的JavaScript开源项目](http://developer.51cto.com/art/202008/623331.htm)
- > 7月份GitHub上最热门的JavaScript开源项目排行已经出炉啦，一起来看看上榜详情吧！
+ ## [有了AI辅助，“遍地是坑”的健身房是否会退出历史舞台？](http://ai.51cto.com/art/202008/623245.htm)
+ > 有了AI辅助，“遍地是坑”的健身房是否会退出历史舞台？
+ ## [分区闪存：企业SSD界的下一大热门](http://stor.51cto.com/art/202008/623235.htm)
+ > 分区闪存：企业SSD界的下一大热门
+ ## [数据中心运营商在疫情期间如何应可靠性监管](http://server.51cto.com/Datacenter-623237.htm)
+ > 数据中心运营商在疫情期间如何应可靠性监管
+ ## [Istio+K8s，微服务的双剑合璧！](http://developer.51cto.com/art/202008/623355.htm)
+ > Istio+K8s，微服务的双剑合璧！
+ ## [亚马逊谷歌云计算增速刹车，中国公司出海凶猛“挤掉”巨头](http://news.51cto.com/art/202008/623208.htm)
+ > 亚马逊谷歌云计算增速刹车，中国公司出海凶猛“挤掉”巨头
+ ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
+ > Vue 快速开发入门课程
+ ## [使用PowerDNS轻松配置DNS名称服务器](http://os.51cto.com/art/202008/623362.htm)
+ > 使用 PDNS 为你的项目提供稳定可靠的域名系统（DNS）服务器。
+ ## [什么是缓冲区溢出以及如何利用漏洞](http://netsecurity.51cto.com/art/202008/623361.htm)
+ > 什么是缓冲区溢出以及如何利用漏洞？在信息安全和编程中，缓冲区溢出是一种异常，其中程序在将数据写入缓冲
+ ## [一个用于大规模连续测试的开源解决方案](http://developer.51cto.com/art/202008/623358.htm)
+ > 软件测试在对业务目标和增长的贡献越来越重要，逐渐成为了企业数字化转型的重要推动力。但软件测试行业仍然
+ ## [使用ZeroMQ消息库在C和Python间共享数据](http://developer.51cto.com/art/202008/623359.htm)
+ > ZeroMQ 是一个快速灵活的消息库，用于数据收集和不同编程语言间的数据共享。
+ ## [Windows 10可能会有一个类似于任务管理器的应用管理器](http://os.51cto.com/art/202008/623356.htm)
+ > 任务管理器是一个强大的工具，充满了有用的信息，你可能经常在Windows 10使用它。它计算机运行中的状态概述
+ ## [Python语言的应用领域主要有哪些？](http://developer.51cto.com/art/202008/623354.htm)
+ > 我们为什么要学 Python？地产大佬潘石屹曾在微博回答过：在这信息时代想要让机器为人工作，就必须学习机器
+ ## [企业招聘Java程序员的标准是什么？](http://news.51cto.com/art/202008/623353.htm)
+ > 为什么Java程序员找工作那么难？是否市场已经饱和？企业招聘Java程序员的标准是什么？很多找不到工作的Java
+ ## [当前云计算的业务思路有哪些](http://cloud.51cto.com/art/202008/623352.htm)
+ > 首先，云计算的业务思路一定要与云计算的服务模式相结合，不同的服务模式会孵化出不同的业务思路，同时团队
+ ## [无人机反哺5G发展，助推运维智能新升级](http://ai.51cto.com/art/202008/623351.htm)
+ > 近年来，伴随着民用无人机的快速发展，以及5G商用的逐渐深化，无人机与5G的关系愈发密切。人们普遍认为，无
+ ## [物联网设备的未来 从云到边缘的转变对连接的意义](http://iot.51cto.com/art/202008/623349.htm)
+ > 从云到边缘的转变可能标志着物联网连接真正的自主革命。之前，我们见证了云计算如何实现集中化和协作-边缘
 # 人工智能 
- ## [半小时让你快速入门linux掌握基础命令](https://blog.csdn.net/weixin_45755332/article/details/107849659)
- > 半小时让你快速入门linux掌握基础命令
- ## [CGB2004-京淘项目Day09](https://blog.csdn.net/qq_16804847/article/details/107875408)
- > CGB2004-京淘项目Day09
- ## [Linux并发程序设计（1）——进程](https://blog.csdn.net/weixin_44895651/article/details/107614653)
- > 
- ## [CentOS7+Python3+Django+Uwsgi+Nginx部署项目](https://blog.csdn.net/SERE0211/article/details/107862120)
- > CentOS7+Python3+Django+Uwsgi+Nginx部署项目
- ## [解决tomcat启动-Skipping unneeded JARs during scanning can improve startup time and JSP compilation time](https://blog.csdn.net/m0_48586906/article/details/107875456)
- > 解决tomcat启动-Skipping unneeded JARs during scanning can improve startup time and JSP compilation time
- ## [Ubuntu18.04、ROS安装教程及相关问题解决](https://blog.csdn.net/weixin_39275295/article/details/107886135)
- > Ubuntu18.04、ROS安装教程及相关问题解决
- ## [阿里云实践训练营第三天——Class3基于ECS构建微信公众号管理系统](https://blog.csdn.net/weiliaaaaaa/article/details/107884373)
- > 阿里云实践训练营第三天——Class3基于ECS构建微信公众号管理系统
- ## [手把手教你重置windows server 2016管理员密码](https://blog.csdn.net/weixin_43770382/article/details/107867000)
- > 手把手教你重置windows server 2016管理员密码
- ## [记录一下docker中tomcat的一个问题，仍未解决](https://blog.csdn.net/jimiao_xxxx/article/details/107878672)
- > 记录一下docker中tomcat的一个问题，仍未解决
- ## [nginx快速入门](https://blog.csdn.net/qq_42453117/article/details/107763725)
- > 
- ## [VMware Workstation download](https://blog.csdn.net/hanzheng260561728/article/details/107878542)
- > VMware Workstation download
- ## [Linux最全命令总结【有代码演示，没有之一】](https://blog.csdn.net/weixin_45606067/article/details/107845670)
- > Linux最全命令总结【有代码演示，没有之一】
- ## [ESC搭建在线编程环境WebIDE（vs code）](https://blog.csdn.net/qq_45696978/article/details/107863564)
- > ESC搭建在线编程环境WebIDE（vs code）
- ## [Linux Bash Shell编程（三）：重定向、多命令顺序、通配符、特殊符号](https://blog.csdn.net/Zheng__Huang/article/details/107886141)
- > Linux Bash Shell编程（三）：重定向、多命令顺序、通配符、特殊符号
- ## [实验·搭建LNMP架构的社区动力论坛](https://blog.csdn.net/weixin_47153668/article/details/107885945)
- > 实验·搭建LNMP架构的社区动力论坛
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 
     
