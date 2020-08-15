@@ -1,19 +1,21 @@
 ---
 title: 2020-08-15 IT News
 copyright: true
-date: 2020-08-15 09:02:20
+date: 2020-08-15 10:01:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [现场直击丨“5G+实时渲染”亮相全球智博会!](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=IzgosBJGCqeqsmh1bl-1FCgYxZNG5txCfjWO*1BlBEmuCdgXQSMz6zBZr6FeFSOcOUL*gK10fbgsVKOSC50Bth8H3UDFsMFHMgW-ZY2VROqmM8q51Z3Jbrb5YibSS8lM&new=1)
- > 一年一度的“全球人工智能产品应用博览会”于2020年8月14日-16日在苏州国际博览中心迎来第三届盛会，本届智博会以“万物赋苏·智启未来”为主题，旨在探索AI科技应用创新成果的转化路径，助力打造跨界融合的智能...
- ## [爆：中国电信开始执行「双选」低效能则清理退出!](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=Hn1eVX3n7TLXOTUBHmRLSqMloJ-6kzfteiTzZ3RX8XJRxuq3gi4b-KJHueI7rxTTh7Re*wElB0yPWD-*6DR3naI3L-ef6ZirsH3bQdidd1o9-Js5KhXA-oAW2hhF3NyG&new=1)
+ ## [爆：中国电信开始执行「双选」低效能则清理退出!](http://mp.weixin.qq.com/s?src=11&timestamp=1597456805&ver=2523&signature=Hn1eVX3n7TLXOTUBHmRLSqMloJ-6kzfteiTzZ3RX8XJRxuq3gi4b-KJHueI7rxTTSzmJgOB--jZiAF2AA6nomg*oNSEGYRgaGYQAEtsxXLPvrzvnQukbLZntLNwmrSe8&new=1)
  > 近日运营商情报消息，中国电信某公司开始执行「双选」低效能则清理退出！据介绍，该地对业绩要求与较早以前对比，再次提高了完成难度，对所有被考核参与人进行了提高一倍的产能要求。不得不说，运营商一线员工的...
- ## [流量价格战迎恶果，中国移动人均流量大增然收入却下降](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=vmNnUPzos8fdypjeBTLT2nihwrF236On6WQBxmzzf7WUicDQy*TlSlxBPenAPBMDhZ0F0xa7dw-erc8pxzQVggGxzWoXIAMlhhJZtwF6u7xNyjvCLB1Z-CnTnigjW1Wq&new=1)
+ ## [流量价格战迎恶果，中国移动人均流量大增然收入却下降](http://mp.weixin.qq.com/s?src=11&timestamp=1597456805&ver=2523&signature=vmNnUPzos8fdypjeBTLT2nihwrF236On6WQBxmzzf7WUicDQy*TlSlxBPenAPBMDZhSeZ4*ufukgH18sSRiMLEb2KNXPG54lJf9o1JbGk1*n7ZBPLhGSgSosIaxO7atD&new=1)
  > 中国移动公布的上半年业绩显示，移动用户人均每月上网流量同比提升了39.7%，然而人均ARPU却同比下滑3.7%，显示出人均成本在上涨，而收益却在下降，难怪净利润在下降了。请输入图片描述中国移动作为全球最大的运...
- ## [华为准备建设不含美国技术的芯片生产线?咋回事](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=mJfOinNCh00wo7kOue-kdsluEQKzw0iLZQ82cjV93LMy4Ae2xzAT7XgUq*pHyynrhM8bnQbr*A64VzCLeeKphBHY0NjpoJ7PO7MhMzDmLzPqBajySXUn6TY*6EnW9UI*&new=1)
+ ## [全是干货!汽车行业590篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1597456805&ver=2523&signature=MYikTtG4V-ium8PIEQpailRtIY6ys7VJQlDBri2qXaJMytihNiA*bHycRsIEaRyJxYhREHPnF45jhZpQT-XrQ23SVuGuvsiECUYvJlJcajH4l9b734TSxwQNsCwEty1s&new=1)
+ > 汽车行业590篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享590份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [华为准备建设不含美国技术的芯片生产线?咋回事](http://mp.weixin.qq.com/s?src=11&timestamp=1597456805&ver=2523&signature=mJfOinNCh00wo7kOue-kdsluEQKzw0iLZQ82cjV93LMy4Ae2xzAT7XgUq*pHyynr97ej-dzoZqArcwcajlwbex4fjL3HdavVopjNS-TEYqratrxW2ZhgIPMjdr0GVv6U&new=1)
  > ► 文/吕栋、周远方外部打压之下，海思已成为华为各条产品线的重要支撑。调研机构最新的报告显示，尽管二季度营收环比下滑4%，但上半年海思还是以49%的同比增速跻身全球半导体10强。 在麒麟高端芯片可能被美国封...
+ ## [现场直击丨“5G+实时渲染”亮相全球智博会!](http://mp.weixin.qq.com/s?src=11&timestamp=1597456805&ver=2523&signature=IzgosBJGCqeqsmh1bl-1FCgYxZNG5txCfjWO*1BlBEmuCdgXQSMz6zBZr6FeFSOcJAmQyEd7mI9jgx5aAP3Meet0YaYLWTfxtn8mp2*GYrJHzGKlX6h0LdZ-zd4WZp1K&new=1)
+ > 一年一度的“全球人工智能产品应用博览会”于2020年8月14日-16日在苏州国际博览中心迎来第三届盛会，本届智博会以“万物赋苏·智启未来”为主题，旨在探索AI科技应用创新成果的转化路径，助力打造跨界融合的智能...
 # IT 技术 
  ## [SD-WAN领域的几个新兴趋势](http://network.51cto.com/art/202008/623812.htm)
  > SD-WAN领域的几个新兴趋势
@@ -29,43 +31,45 @@ categories: IT NEWS
  > aPaaS和iPaaS的区别
  ## [超过35%的德国中小企业已使用人工智能技术](http://ai.51cto.com/art/202008/623736.htm)
  > 超过35%的德国中小企业已使用人工智能技术
- ## [美女讲师教你学Python第一季：基础入门视频教程](http://fellow.51cto.com/art/202008/623597.htm?qd=51ctojrzd)
- > 美女讲师教你学Python第一季：基础入门视频教程
+ ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
+ > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
+ ## [手机QQ v8.4.5新版本上线：连尴尬的撤回都变得有趣了](http://mobile.51cto.com/app-show-623907.htm)
+ > 8月14日，手机QQ更新v8.4.5版本，让你撤回消息也变得有趣起来。新版本中，用户可自定义撤回消息，比如后缀
  ## [Windows 10即将大改？聊聊未来Windows 10比较靠谱的新变化](http://os.51cto.com/art/202008/623906.htm)
  > 目前微软对于Win10的设定，是上半年功能更新，下半年Bug修复。换言之，今年最大一批更新，其实早在五月份就
  ## [汇总你在Linux上的命令使用情况](http://os.51cto.com/art/202008/623905.htm)
  > 使用合适的命令，你可以快速了解 Linux 系统上使用的命令以及执行的频率。
 # 人工智能 
- ## [Android第一行代码踩坑qwq](https://blog.csdn.net/Hdrosay/article/details/107975640)
- > Android第一行代码踩坑qwq
- ## [ios 提醒事项和快捷指令，实现进度条功能](https://blog.csdn.net/zackerzhuang/article/details/107949357)
- > ios 提醒事项和快捷指令，实现进度条功能
- ## [2020.8.12 京东Android开发工程师一面面经](https://blog.csdn.net/qq_45254908/article/details/107960448)
- > 2020.8.12 京东Android开发工程师一面面经
- ## [安卓报错：java.lang.RuntimeException: Unable to start activity ComponentInfo---getSupportActionBar()为null](https://blog.csdn.net/Cyril_KI/article/details/107986310)
- > 安卓报错：java.lang.RuntimeException: Unable to start activity ComponentInfo---getSupportActionBar()为null
- ## [Android Binder框架实现之Parcel详解一](https://blog.csdn.net/tkwxty/article/details/107916160)
- > Android Binder框架实现之Parcel详解一
- ## [1359C. Boboniu and Bit Operations（思维，暴力，位运算，好题）](https://blog.csdn.net/Alanrookie/article/details/107972909)
- > 1359C. Boboniu and Bit Operations（思维，暴力，位运算，好题）
- ## [拖不得了，Android11真的要来了，最全适配实践指南奉上](https://blog.csdn.net/liuzhengisme/article/details/107981421)
- > 拖不得了，Android11真的要来了，最全适配实践指南奉上
- ## [手机上可以编程看代码的软件](https://blog.csdn.net/weixin_41937552/article/details/107934304)
- > 手机上可以编程看代码的软件
- ## [Linux ：系统引导过程及修复](https://blog.csdn.net/weixin_49297769/article/details/107851565)
- > Linux ：系统引导过程及修复
- ## [Android 出现open failed: EACCES (Permission denied)错误**](https://blog.csdn.net/weixin_43854941/article/details/107985194)
- > Android 出现open failed: EACCES (Permission denied)错误**
- ## [RK3326 android10.0(Q)  横屏方案修改](https://blog.csdn.net/u012932409/article/details/107951773)
- > RK3326 android10.0(Q)  横屏方案修改
- ## [Android 流式布局 FloatLayout自定义控件](https://blog.csdn.net/Chen_jianbo/article/details/107979258)
- > Android 流式布局 FloatLayout自定义控件
- ## [逐帧动画（Frame Animation）](https://blog.csdn.net/weixin_44785058/article/details/107993234)
- > 逐帧动画（Frame Animation）
- ## [CF319C Kalila and Dimna in the Logging Industry Solution](https://blog.csdn.net/qq_43537070/article/details/107951904)
- > CF319C Kalila and Dimna in the Logging Industry Solution
- ## [ios提醒事项同步日历scriptable代码](https://blog.csdn.net/zackerzhuang/article/details/107956043)
- > ios提醒事项同步日历scriptable代码
+ ## [CGB2004-京淘项目Day12](https://blog.csdn.net/qq_16804847/article/details/107949835)
+ > CGB2004-京淘项目Day12
+ ## [毕业就在小公司躺了3年，面试大厂发现，发现不会分布式没人要…](https://blog.csdn.net/qq_35190492/article/details/107932805)
+ > 
+ ## [基于SpringBoot的高并发秒杀(限时秒杀)](https://blog.csdn.net/chrishe751/article/details/107783852)
+ > 基于SpringBoot的高并发秒杀(限时秒杀)
+ ## [面试屡屡碰壁，痛定思痛闭关修炼5个月后四面阿里成功拿offer](https://blog.csdn.net/bjmsb/article/details/107942869)
+ > 面试屡屡碰壁，痛定思痛闭关修炼5个月后四面阿里成功拿offer
+ ## [F5从入门到放弃](https://blog.csdn.net/qq_35372886/article/details/107957404)
+ > F5从入门到放弃
+ ## [如何利用基于PXI的下一代ATE系统测试平台进行军事/航天/卫星电子设备测试](https://blog.csdn.net/wwa19940308/article/details/107954783)
+ > 如何利用基于PXI的下一代ATE系统测试平台进行军事/航天/卫星电子设备测试
+ ## [MySQL高级3--性能优化](https://blog.csdn.net/weixin_44017425/article/details/107971862)
+ > MySQL高级3--性能优化
+ ## [丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！](https://blog.csdn.net/hollis_chuang/article/details/107910693)
+ > 丢弃掉那些BeanUtils工具类吧，MapStruct真香！！！
+ ## [王家林大咖清华新书预发布：《企业级AI技术内幕：深度学习框架开发+机器学习案例+Alluxio解密》之盘古人工智能框架多层次神经网络的实现](https://blog.csdn.net/duan_zhihua/article/details/107964712)
+ > 王家林大咖清华新书预发布：《企业级AI技术内幕：深度学习框架开发+机器学习案例+Alluxio解密》之盘古人工智能框架多层次神经网络的实现
+ ## [部署vue+Springboot前后端分离项目](https://blog.csdn.net/WXZCYQ/article/details/106353406)
+ > 
+ ## [SpringCloud搭建分布式服务架构(通俗易懂，步骤清晰)](https://blog.csdn.net/qq_41530601/article/details/107983860)
+ > SpringCloud搭建分布式服务架构(通俗易懂，步骤清晰)
+ ## [我在阿里收获的N个成长](https://blog.csdn.net/alitech2017/article/details/107977991)
+ > 我在阿里收获的N个成长
+ ## [Springboot框架防止前台重复提交（锁）](https://blog.csdn.net/Monsterof/article/details/107951747)
+ > Springboot框架防止前台重复提交（锁）
+ ## [阿里云七天云开发校园合伙人创造营 Day 7](https://blog.csdn.net/qq_43697852/article/details/107976176)
+ > 阿里云七天云开发校园合伙人创造营 Day 7
+ ## [Muduo(C++11版本) 源码剖析（一）———总体架构](https://blog.csdn.net/qq_36533978/article/details/107975165)
+ > Muduo(C++11版本) 源码剖析（一）———总体架构
 # PM 
  ## [38：京东购物车的这个细节，我认为比淘宝体验好！](http://www.chanpin100.com/article/112461)
  > 欢迎大家关注我的公众号“设计的威严”，一起交流讨论！
