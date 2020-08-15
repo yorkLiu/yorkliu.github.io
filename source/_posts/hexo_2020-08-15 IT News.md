@@ -1,18 +1,18 @@
 ---
 title: 2020-08-15 IT News
 copyright: true
-date: 2020-08-15 08:00:54
+date: 2020-08-15 09:02:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [流量价格战迎恶果，中国移动人均流量大增然收入却下降](http://mp.weixin.qq.com/s?src=11&timestamp=1597449605&ver=2523&signature=vmNnUPzos8fdypjeBTLT2nihwrF236On6WQBxmzzf7WL9WwFZ8ny70gJNFBYbLSqrwIFaQyZYznUd5JelzQb4xwNlVAVJy-HMOUI1D-vtKpKih-DLvAm52y3cQxjUKva&new=1)
- > 中国移动公布的上半年业绩显示，移动用户人均每月上网流量同比提升了39.7%，然而人均ARPU却同比下滑3.7%，显示出人均成本在上涨，而收益却在下降，难怪净利润在下降了。请输入图片描述中国移动作为全球最大的运...
- ## [爆：中国电信开始执行「双选」低效能则清理退出!](http://mp.weixin.qq.com/s?src=11&timestamp=1597449605&ver=2523&signature=Hn1eVX3n7TLXOTUBHmRLSqMloJ-6kzfteiTzZ3RX8XIOCpwwVmF8CfZj7LblhOsOSZxl2lr8chFDLf57XRaMgd2LzPt6-H2KPtOGhcaSNfUm3ef4wBKtpTMV0xlIgQX0&new=1)
- > 近日运营商情报消息，中国电信某公司开始执行「双选」低效能则清理退出！据介绍，该地对业绩要求与较早以前对比，再次提高了完成难度，对所有被考核参与人进行了提高一倍的产能要求。不得不说，运营商一线员工的...
- ## [现场直击丨“5G+实时渲染”亮相全球智博会!](http://mp.weixin.qq.com/s?src=11&timestamp=1597449605&ver=2523&signature=IzgosBJGCqeqsmh1bl-1FCgYxZNG5txCfjWO*1BlBEk9-HhYzPCiLpDdEaIaObUXBLUgpoxgBeZQFtHjFGWUG5gH*R6DV4VVwGNxrB0DN8mAzPRx-yp7Csgu-hbwGTI2&new=1)
+ ## [现场直击丨“5G+实时渲染”亮相全球智博会!](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=IzgosBJGCqeqsmh1bl-1FCgYxZNG5txCfjWO*1BlBEmuCdgXQSMz6zBZr6FeFSOcOUL*gK10fbgsVKOSC50Bth8H3UDFsMFHMgW-ZY2VROqmM8q51Z3Jbrb5YibSS8lM&new=1)
  > 一年一度的“全球人工智能产品应用博览会”于2020年8月14日-16日在苏州国际博览中心迎来第三届盛会，本届智博会以“万物赋苏·智启未来”为主题，旨在探索AI科技应用创新成果的转化路径，助力打造跨界融合的智能...
- ## [华为准备建设不含美国技术的芯片生产线?咋回事](http://mp.weixin.qq.com/s?src=11&timestamp=1597449605&ver=2523&signature=mJfOinNCh00wo7kOue-kdsluEQKzw0iLZQ82cjV93LNhaRnfBfm8PyozLUeyDeEA09x6m5hB2IrsH-zIL9enk792xkydbHzDe1M2EOjmtwWTnVoTyfHHTFRDk5rgRwZk&new=1)
+ ## [爆：中国电信开始执行「双选」低效能则清理退出!](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=Hn1eVX3n7TLXOTUBHmRLSqMloJ-6kzfteiTzZ3RX8XJRxuq3gi4b-KJHueI7rxTTh7Re*wElB0yPWD-*6DR3naI3L-ef6ZirsH3bQdidd1o9-Js5KhXA-oAW2hhF3NyG&new=1)
+ > 近日运营商情报消息，中国电信某公司开始执行「双选」低效能则清理退出！据介绍，该地对业绩要求与较早以前对比，再次提高了完成难度，对所有被考核参与人进行了提高一倍的产能要求。不得不说，运营商一线员工的...
+ ## [流量价格战迎恶果，中国移动人均流量大增然收入却下降](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=vmNnUPzos8fdypjeBTLT2nihwrF236On6WQBxmzzf7WUicDQy*TlSlxBPenAPBMDhZ0F0xa7dw-erc8pxzQVggGxzWoXIAMlhhJZtwF6u7xNyjvCLB1Z-CnTnigjW1Wq&new=1)
+ > 中国移动公布的上半年业绩显示，移动用户人均每月上网流量同比提升了39.7%，然而人均ARPU却同比下滑3.7%，显示出人均成本在上涨，而收益却在下降，难怪净利润在下降了。请输入图片描述中国移动作为全球最大的运...
+ ## [华为准备建设不含美国技术的芯片生产线?咋回事](http://mp.weixin.qq.com/s?src=11&timestamp=1597451404&ver=2523&signature=mJfOinNCh00wo7kOue-kdsluEQKzw0iLZQ82cjV93LMy4Ae2xzAT7XgUq*pHyynrhM8bnQbr*A64VzCLeeKphBHY0NjpoJ7PO7MhMzDmLzPqBajySXUn6TY*6EnW9UI*&new=1)
  > ► 文/吕栋、周远方外部打压之下，海思已成为华为各条产品线的重要支撑。调研机构最新的报告显示，尽管二季度营收环比下滑4%，但上半年海思还是以49%的同比增速跻身全球半导体10强。 在麒麟高端芯片可能被美国封...
 # IT 技术 
  ## [SD-WAN领域的几个新兴趋势](http://network.51cto.com/art/202008/623812.htm)
@@ -29,39 +29,43 @@ categories: IT NEWS
  > aPaaS和iPaaS的区别
  ## [超过35%的德国中小企业已使用人工智能技术](http://ai.51cto.com/art/202008/623736.htm)
  > 超过35%的德国中小企业已使用人工智能技术
- ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
- > Vue 快速开发入门课程
+ ## [美女讲师教你学Python第一季：基础入门视频教程](http://fellow.51cto.com/art/202008/623597.htm?qd=51ctojrzd)
+ > 美女讲师教你学Python第一季：基础入门视频教程
+ ## [Windows 10即将大改？聊聊未来Windows 10比较靠谱的新变化](http://os.51cto.com/art/202008/623906.htm)
+ > 目前微软对于Win10的设定，是上半年功能更新，下半年Bug修复。换言之，今年最大一批更新，其实早在五月份就
+ ## [汇总你在Linux上的命令使用情况](http://os.51cto.com/art/202008/623905.htm)
+ > 使用合适的命令，你可以快速了解 Linux 系统上使用的命令以及执行的频率。
 # 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [Android第一行代码踩坑qwq](https://blog.csdn.net/Hdrosay/article/details/107975640)
+ > Android第一行代码踩坑qwq
+ ## [ios 提醒事项和快捷指令，实现进度条功能](https://blog.csdn.net/zackerzhuang/article/details/107949357)
+ > ios 提醒事项和快捷指令，实现进度条功能
+ ## [2020.8.12 京东Android开发工程师一面面经](https://blog.csdn.net/qq_45254908/article/details/107960448)
+ > 2020.8.12 京东Android开发工程师一面面经
+ ## [安卓报错：java.lang.RuntimeException: Unable to start activity ComponentInfo---getSupportActionBar()为null](https://blog.csdn.net/Cyril_KI/article/details/107986310)
+ > 安卓报错：java.lang.RuntimeException: Unable to start activity ComponentInfo---getSupportActionBar()为null
+ ## [Android Binder框架实现之Parcel详解一](https://blog.csdn.net/tkwxty/article/details/107916160)
+ > Android Binder框架实现之Parcel详解一
+ ## [1359C. Boboniu and Bit Operations（思维，暴力，位运算，好题）](https://blog.csdn.net/Alanrookie/article/details/107972909)
+ > 1359C. Boboniu and Bit Operations（思维，暴力，位运算，好题）
+ ## [拖不得了，Android11真的要来了，最全适配实践指南奉上](https://blog.csdn.net/liuzhengisme/article/details/107981421)
+ > 拖不得了，Android11真的要来了，最全适配实践指南奉上
+ ## [手机上可以编程看代码的软件](https://blog.csdn.net/weixin_41937552/article/details/107934304)
+ > 手机上可以编程看代码的软件
+ ## [Linux ：系统引导过程及修复](https://blog.csdn.net/weixin_49297769/article/details/107851565)
+ > Linux ：系统引导过程及修复
+ ## [Android 出现open failed: EACCES (Permission denied)错误**](https://blog.csdn.net/weixin_43854941/article/details/107985194)
+ > Android 出现open failed: EACCES (Permission denied)错误**
+ ## [RK3326 android10.0(Q)  横屏方案修改](https://blog.csdn.net/u012932409/article/details/107951773)
+ > RK3326 android10.0(Q)  横屏方案修改
+ ## [Android 流式布局 FloatLayout自定义控件](https://blog.csdn.net/Chen_jianbo/article/details/107979258)
+ > Android 流式布局 FloatLayout自定义控件
+ ## [逐帧动画（Frame Animation）](https://blog.csdn.net/weixin_44785058/article/details/107993234)
+ > 逐帧动画（Frame Animation）
+ ## [CF319C Kalila and Dimna in the Logging Industry Solution](https://blog.csdn.net/qq_43537070/article/details/107951904)
+ > CF319C Kalila and Dimna in the Logging Industry Solution
+ ## [ios提醒事项同步日历scriptable代码](https://blog.csdn.net/zackerzhuang/article/details/107956043)
+ > ios提醒事项同步日历scriptable代码
 # PM 
  ## [38：京东购物车的这个细节，我认为比淘宝体验好！](http://www.chanpin100.com/article/112461)
  > 欢迎大家关注我的公众号“设计的威严”，一起交流讨论！
