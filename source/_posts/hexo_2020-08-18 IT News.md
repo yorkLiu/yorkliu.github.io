@@ -1,69 +1,50 @@
 ---
 title: 2020-08-18 IT News
 copyright: true
-date: 2020-08-18 08:01:28
+date: 2020-08-18 09:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [美国出台终极封杀令!外购芯片路径被阻断，华为到了最危险的时候!](http://mp.weixin.qq.com/s?src=11&timestamp=1597707005&ver=2529&signature=U6yOLbfmwVvR9p0lvI3gxlVCRCcZmz7u603KqPYytrYJbuwObj35EhfOBrLt8YCe8khMh*59VhHPAsrHBu7ZezQXZDwbuxyosYmdo3F99s9AGhadTjQSJunRTxPVgAh9&new=1)
- > 8月17日晚间消息，美国商务部工业和安全局（BIS）今天进一步升级了对于华为及其在“实体名单”上的非美国分支机构使用美国技术和软件在国内外生产的产品的限制。此外，美国还在将38家华为分支机构加入了实体清单...
- ## [软硬双封杀，华为手机可能真有大麻烦了!](http://mp.weixin.qq.com/s?src=11&timestamp=1597707005&ver=2529&signature=7UY8EFr0qURjZwTSx-2ahATOPIUrVzuk2CvY8clhF7lAce3o37K*Uxa9Vw7AqzsYRornHP1RbGtM7OsvzYBuFbYfeq9t6Vx38ngotMyMm6NxziM-IOsvYnni3tU3qhTF&new=1)
- > 距离2020年年度旗舰华为Mate40系列的发布还有一小段时间，但是今天又传来了非常坏的消息。美国对华为的打压又再度升级，正式宣布把全球华为旗下的38家子公司拉入实体名单，禁止它们购买美国芯片和含有美技术专利...
- ## [美国再拉黑38家华为子公司!升级打压华为获取商用芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1597707005&ver=2529&signature=K6E56wMG*i5UtTYXST6KDUiCmJDuS34ShF9Sq1UupwgYJxzwT18sSr37H5cvaE4RGjN8QuJTkGcoWFxHdcbZxNMr4CW11BxdY3T3LkwWjKYBXIfcIWiT3hUoSnO3hFsV&new=1)
- > 看点：美国进一步收紧对华为获取美国技术的限制。智东西8月18日消息，昨晚美国国务院和商务部官网分别发表声明，进一步收紧对华为获取美国技术的限制，并将华为在全球21个国家/地区的38家子公司列入“实体清单”...
- ## [突发!美拟禁联发科向华为供货：第三方芯片也需美国批准，即日生效](http://mp.weixin.qq.com/s?src=11&timestamp=1597707005&ver=2529&signature=mBkVilV5SN6tsaM0HvNXbOf8iLEB1V6XaUlhlPN-C2XHbZjZrK4B1qhJA-VOJz*qf8AVQXd0EYj0ppLUb5z-mIcUIL73KTYUWE3lFHa4pS21K5rmA6BpTT68XNsRTHeY&new=1)
+ ## [突发!美拟禁联发科向华为供货：第三方芯片也需美国批准，即日生效](http://mp.weixin.qq.com/s?src=11&timestamp=1597710605&ver=2529&signature=mBkVilV5SN6tsaM0HvNXbOf8iLEB1V6XaUlhlPN-C2UFwB5*5mrbXYPOoMQjlvoNsY0DEW2ZIxKgjOIaoGbwrB7E8rjCmpsBZltWZFFKHWKaAIgC48AkXuBpxYZYPNoM&new=1)
  > 美商务部的最新限制，让华为使用联发科等公司芯片“曲线救国”的可能性也变得渺茫。对于华为来说，目前的情况近乎无解。在不断地 90 天延期闹剧之后，美国商务部向华为提供的临时许可在 8 月 13 日到期结束。美...
- ## [台积电业绩猛增，说明即使失去华为这个客户也没有太大影响](http://mp.weixin.qq.com/s?src=11&timestamp=1597707005&ver=2529&signature=NcoM8cTyE9kxhxWDStU4Ga3F87QWRLn-XVANxpIIeOkAC4IumQme1BgeripiL1xGyOLFScc-zMEnFaPBWxX4v4vt4boOZX*7bct2XZdIqSuLN8YW-DNKwlqoAU3DFiYx&new=1)
+ ## [台积电业绩猛增，说明即使失去华为这个客户也没有太大影响](http://mp.weixin.qq.com/s?src=11&timestamp=1597710605&ver=2529&signature=NcoM8cTyE9kxhxWDStU4Ga3F87QWRLn-XVANxpIIeOndmNwydO0wUxQBYN2f0xMNL5VJ735k*IXUK6KY2qjPF*PazksPGrOEgy3ha-lHXZXL*nSA5NFrayrzTbiDolnE&new=1)
  > 台积电公布的二季度业绩显示，净利润猛增超过八成至286.7亿元，创下了近6年来的新高纪录，而自二季度起华为给台积电的订单已有所下降，这显示出它即使失去华为这个客户也不会导致业绩下滑。华为这几年与台积电共...
+ ## [美国出台终极封杀令!外购芯片路径被阻断，华为到了最危险的时候!](http://mp.weixin.qq.com/s?src=11&timestamp=1597710605&ver=2529&signature=U6yOLbfmwVvR9p0lvI3gxlVCRCcZmz7u603KqPYytrZHG5iEc4hpB4y4lfhtyy5hpfXxqb8HB7bKh3UteV8HWJIOQ6LiWaIeVkw1bPDL57gLjt0hQF-5kiXiLmsOrUGv&new=1)
+ > 8月17日晚间消息，美国商务部工业和安全局（BIS）今天进一步升级了对于华为及其在“实体名单”上的非美国分支机构使用美国技术和软件在国内外生产的产品的限制。此外，美国还在将38家华为分支机构加入了实体清单...
+ ## [美国再拉黑38家华为子公司!升级打压华为获取商用芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1597710605&ver=2529&signature=K6E56wMG*i5UtTYXST6KDUiCmJDuS34ShF9Sq1UupwjiTJngFDBTJZNsTDsP1slf9-5opE-3qw6oBzxE7bLVS1QgnrsYPl4URaU0p-6nH3ez*wWM5pRjQNj7CPLLM7EY&new=1)
+ > 看点：美国进一步收紧对华为获取美国技术的限制。智东西8月18日消息，昨晚美国国务院和商务部官网分别发表声明，进一步收紧对华为获取美国技术的限制，并将华为在全球21个国家/地区的38家子公司列入“实体清单”...
+ ## [软硬双封杀，华为手机可能真有大麻烦了!](http://mp.weixin.qq.com/s?src=11&timestamp=1597710605&ver=2529&signature=7UY8EFr0qURjZwTSx-2ahATOPIUrVzuk2CvY8clhF7mr5KO0k86b5UdMpNL7dfRp2CW41nRsFadE9LYHIbR7wRdmhBLUfCx8xoVRjMlO4yvdPoC-fyERjX0LhVSxN2it&new=1)
+ > 距离2020年年度旗舰华为Mate40系列的发布还有一小段时间，但是今天又传来了非常坏的消息。美国对华为的打压又再度升级，正式宣布把全球华为旗下的38家子公司拉入实体名单，禁止它们购买美国芯片和含有美技术专利...
 # IT 技术 
- ## [微服务、迷你服务和宏服务](http://server.51cto.com/Micro-624039.htm)
- > 微服务、迷你服务和宏服务
  ## [要避免的七个灾难性的云计算错误](http://cloud.51cto.com/art/202008/624041.htm)
  > 要避免的七个灾难性的云计算错误
+ ## [什么是Docker？看这一篇干货文章就够了！](http://developer.51cto.com/art/202008/623974.htm)
+ > 什么是Docker？看这一篇干货文章就够了！
+ ## [希望我这是最后一次谈SaaS](http://developer.51cto.com/art/202008/623937.htm)
+ > 希望我这是最后一次谈SaaS
+ ## [我35岁，程序员，“中危”后帮别人规划人生](http://news.51cto.com/art/202008/623863.htm)
+ > 我35岁，程序员，“中危”后帮别人规划人生
+ ## [微服务、迷你服务和宏服务](http://server.51cto.com/Micro-624039.htm)
+ > 微服务、迷你服务和宏服务
  ## [混合云定义正在重新定义](http://cloud.51cto.com/art/202008/623862.htm)
  > 混合云定义正在重新定义
  ## [糟糕，我写的Bug要被封印在北极1000年！](http://developer.51cto.com/art/202008/623951.htm)
  > 糟糕，我写的Bug要被封印在北极1000年！
- ## [耗时3天，上亿数据如何做到秒级查询？](http://bigdata.51cto.com/art/202008/623947.htm)
- > 耗时3天，上亿数据如何做到秒级查询？
- ## [数据迁移简易指南](http://server.51cto.com/Datacenter-623861.htm)
- > 数据迁移简易指南
- ## [我以为我对MySQL事务很熟，直到我遇到了阿里面试官](http://database.51cto.com/art/202008/623775.htm)
- > 我以为我对MySQL事务很熟，直到我遇到了阿里面试官
- ## [Word实用技能培训（第1、2章）](http://fellow.51cto.com/art/202007/622448.htm?qd=51ctojrzd)
- > Word实用技能培训（第1、2章）
-# 人工智能 
- ## [MySQL学习笔记（上）](https://blog.csdn.net/mall_lucy/article/details/107962679)
- > MySQL学习笔记（上）
- ## [数据库基础知识及进门基础简单语言总结](https://blog.csdn.net/weixin_49771248/article/details/108035375)
- > 数据库基础知识及进门基础简单语言总结
- ## [数据库基础](https://blog.csdn.net/m0_49916601/article/details/108035732)
- > 数据库基础
- ## [sqlserver2016（基础）](https://blog.csdn.net/qq_45549336/article/details/108037262)
- > sqlserver2016（基础）
- ## [如何在Kubernetes上部署MySQL数据库](https://blog.csdn.net/fly910905/article/details/108032668)
- > 如何在Kubernetes上部署MySQL数据库
- ## [MySQL数据库面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104778621)
- > 
- ## [Activiti5.22.0扩展支持达梦数据库](https://blog.csdn.net/u010704614/article/details/108031483)
- > Activiti5.22.0扩展支持达梦数据库
- ## [MySQL基础知识](https://blog.csdn.net/weixin_46791942/article/details/107964383)
- > MySQL基础知识
- ## [使用MyBatis实现条件查询总结](https://blog.csdn.net/LiuLiangLONG/article/details/108009854)
- > 使用MyBatis实现条件查询总结
- ## [【学习记录】Python3连接MySQL库  SQL常用语句（随时补充）](https://blog.csdn.net/weixin_45645036/article/details/108019203)
- > 【学习记录】Python3连接MySQL库  SQL常用语句（随时补充）
- ## [double write(二次写)](https://blog.csdn.net/qq_42979842/article/details/108043605)
- > double write(二次写)
- ## [连接数据库（1）](https://blog.csdn.net/weixin_43624549/article/details/108031770)
- > 连接数据库（1）
- ## [MySQL精华大全](https://blog.csdn.net/hgfhjtff/article/details/108027287)
- > MySQL精华大全
- ## [Mysql 联合索引，最左前缀原则、失效问题](https://blog.csdn.net/kl_Dreaming/article/details/108032674)
- > Mysql 联合索引，最左前缀原则、失效问题
- ## [数据库MySql的查询总结 + 46道练习题](https://blog.csdn.net/no_1back_up/article/details/108035903)
- > 数据库MySql的查询总结 + 46道练习题
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [网络安全受到高度关注 行业需考虑筑牢“安全底座”](http://netsecurity.51cto.com/art/202008/624068.htm)
+ > 今年以来，我国强调以科技产业为突破口，加快推动5G网络、数据中心、工业互联网等新型基础设施建设。在日前
+ ## [“清洁网络”背后的麦卡锡主义幽灵](http://netsecurity.51cto.com/art/202008/624066.htm)
+ > 近日，美国国务卿蓬佩奥借访欧契机，大肆“推销”所谓“清洁网络”计划，意图拉拢其他国家打造“清洁国家联
+ ## [用这几个工具，Windows下写代码比Linux还顺手](http://os.51cto.com/art/202008/624060.htm)
+ > 都说对程序员而言，Mac和Linux系统比Windows更友好，但Windows系统下也有超好用的写代码工具！好马配好鞍，
+ ## [都2020年了，居然还有人没有在数据科学项目中使用Docker？](http://developer.51cto.com/art/202008/624058.htm)
+ > 新手程序员面临的困难的问题之一是理解“环境”的概念。环境就是你编写代码的系统，听起来很容易，但很快你
+ ## [什么是SQL？我们应该学习哪种数据库系统？](http://database.51cto.com/art/202008/624054.htm)
+ > 数据是许多Web应用程序和便携式应用程序的核心。例如，Facebook之类的应用程序可保存用户的个人资料数据，
+ ## [更有效使用GitHub的4个技巧](http://os.51cto.com/art/202008/624051.htm)
+ > 作为一个非常喜欢GitHub的程序员，我在日常使用中发现了这4个技巧，可以提高我使用GitHub的效率。这篇文章
 # PM 
  ## [功能调研的思维路径](http://www.chanpin100.com/article/112434)
  > 本文以错误的功能调研为例，阐述了如何有效进行功能调研的思维路径。
