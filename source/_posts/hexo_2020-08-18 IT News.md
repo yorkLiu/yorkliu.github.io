@@ -1,45 +1,51 @@
 ---
 title: 2020-08-18 IT News
 copyright: true
-date: 2020-08-18 12:02:01
+date: 2020-08-18 17:02:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全国首个!深圳实现5G独立组网全覆盖](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=zwUckWamdZoHx1ln4JRE*l9AetU6fnAQH43kE7AWZA1ldyTQhTYyudWRkzcMH6-5NGIDETdByfhvIZSNDe3tZ0tVjVrsZ0bjOktx3TpOWgIWJdSfUdqtS3exYb8CsZzA&new=1)
- > ◎ 科技日报记者 刘传书“点亮深圳，5G智慧之城”。8月17日，深圳市市长陈如桂宣布，深圳成为全国首个5G独立组网全覆盖的城市！深圳率先进入5G时代！依托5G技术提供的数据传递能力，通过人工智能、物联网等“新...
- ## [瞭望|未来互联网法院何处发力?最高法副院长谈五大发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=GxUjsYFhjk7*gs0j*flXXQJm2E9MX6wALSgHzjK4Dii9B5BU*FY6iZFsAL9bO76Tz5uL35*Ji9IeSGJEjTleS5OyW87kDrwgTecbGbWPVJAFSi1Dj9A7B-Z6vugFYA6d&new=1)
- > ◆ 今天，全球首家互联网法院——杭州互联网法院成立三周年。未来如何推动互联网与司法在更高层面、更深层次、更宽领域深度融合？◆ 修改完善相关电子诉讼规则，条件成熟时推动立法机关出台电子诉讼法◆ 强化司...
- ## [粘合剂喷射金属3D打印技术工厂化规模应用，汽车制造业可能迎来变革](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=2xENw0wazt1Vdj40hlFXNKnUkFnVsZ4HYgP3*fb1*1HUQAdXAaSS*MI*z4l*6jJ7lHpeQwYg07VCR93CoN-GbEH*XzbAI0hVdRPfcNx*YbE0vpWv4*3hunvy9DOzgJaK&new=1)
- > 导读：粘合剂喷射3D打印技术，未来有可能实现4米甚至8米的大幅面制造工艺，而且是&quot;one pass&quot;（一次通过） 超高速模式，可以大规模工业化生产,支持砂型石膏、水泥、陶瓷或者金属等材料。南极熊了解到，2021年到20...
- ## [苹果到底有没有用上北斗?](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=UtDf330G75vweJOltb*PB-cifY1cqxQOoFGefVDO-3apOrfXQS1zqI0A2XCQSe*DkhOQc342CrEhHkv2ub8M2GIPEF7fYv6w4LPou1I-m5jFD3peJajXoExUva6fXjVI&new=1)
- > 作者丨邢逸帆邮箱丨xingyifan@pingwest.com来源丨人民数字与品玩联合出品苹果到底有没有用上北斗导航系统？经过几天的发酵，这个本来用简单的“是”和“否”就能回答的问题，已经变成了罗生门式的各执一词。8月3...
- ## [重磅!曝英伟达最快月底收购ARM，估值或达500亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=M0ir*AhzIfa9Y2r4Ly-3EW8lEJiOes-g6zAbJECP5kUsT0D0AE0o3W6THl-2lMIvp6bG1sQAjrFkZwYZzP8XSF1c8sXqcuIl77oHVCR-WAQqI0s7G7jR*x4SHDOyFJGa&new=1)
+ ## [TCL华星高世代模组二期项目首台主设备顺利搬入，打造领航视界的“8+8”工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=B7Gof3*bAyPRi9suIZEQpM-bkob6yQBdV-6-h3phxIY3io4YD4hcqL4BXj4Gk33Ut9Ni5DiDH3Mv4MDJB46dUnUH5eSjAHaUbofwJfahQUC6MEBJhErJWK5RWfTsfim3&new=1)
+ > 2020年8月17日，TCL华星高世代模组（惠州华星）二期项目首台主设备搬入仪式顺利举行，这是继今年4月10日二期主厂房封顶之后，又一重要里程碑节点。仲恺高新区科技创新局局长郑志辉、TCL华星生产制造中心总经理林...
+ ## [贵安新区：奋力打造世界一流数据中心集聚区](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=3WPfbKzviNPaw3W5hq61qSuwuwI6rBOrY5IFKXvsI8TJQKdDUAIifHQ31yyEPzDuniB1vrXwu52pzXgIkXaCRJV37FFmPImGNOWQ5b-xtAvYReFn6Yg94lfbkpbX6CTr&new=1)
+ > 华为数据中心8月18日，中国人民银行贵安数据中心项目投资协议在北京签署。作为国家与社会资金流动的大动脉，该数据中心将建设成为我国重要的金融基础设施。以人行数据中心落地为契机，贵安新区拟规划4000亩新型...
+ ## [“转型云之道”微视频第二期，Linux or 容器?两者皆真爱!](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=xVtIiUpHsuHynfyz1SixTL1aYYlcRQyFSB36XLyrFVp00PtHPgBhSeGlE30SKfBbQgTZllTxaEx7j*GZR47iQKZ0C4Q54ikb*3bukYEngXQvvzyRsp5Fb0FyI0n6d6Ds&new=1)
+ > （本文阅读时间：3分钟）Windows Loves Linux—— 无需虚拟技术，6步直接在 Windows 下使用Linux！Windows 和 Linux 是大家熟知和常用的两大操作系统，相信大家至少用过其一，又或是两个都在用。但由于内
+ ## [观察|银河麒麟V10发布!中国版“超级大脑”要在天津跑起来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=TGQ6YYidcdj6h2uZt-7b*G4qBA04wN7vTvKb*V5jYxTZk-TTRvhdIxpcLRHCW2VCRCO1CutugSs4pAkNgl3gsxv9JHDhMfqLsWHddxD1uoZ*X1wX-yOgGmQAD09BsEqA&new=1)
+ > 中美博弈加剧的背景下，又一款国产操作系统银河麒麟V10于近日发布。据新华社报道，银河麒麟操作系统V10的最大特点是可以充分适应5G时代需求，打通手机、平板电脑、PC等，实现多端融合。麒麟操作系统独创的kydroi...
+ ## [2020年第二季度DDoS攻击趋势分析](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=aa0eZl-QXg3*n3Q0Kr6wKzGxDqd1S2UV2mxi-BRHa9bfa0x6olHQa65nJgpmUSv8crnHqrX0gDdDWbvIMulkCer1ppar*V7SCwTqETc*w6v8yx7wLNLh1KYQNoa2FT06&new=1)
+ > 关键讯息，D1时间送达！2020年Cloudflare比以往任何时候都更加依赖在线服务。在家办公的员工，不同年龄和年级的学生都在网上上课，不过，网络安全的重要性也慢慢地凸显出来了。因此，不足为奇的是，在2020年第一...
+ ## [外购芯片也被禁!美国极限制裁，华为能否逃生?](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=OpcsanGcVu5j7WmeQQMuxUwbV1MIz-Q9POtFRB930V-79aMlbaimhdo9rFcbdhA*WtKMQmExjwG2mz6BJYlmYKBll7QD2OuvYo--t2rtGU5kQEdKLufuK3Z6HcysE2gi&new=1)
+ > 美国商务部称，任何芯片只要使用美国技术开发或制造，在卖给华为时，都将受到与美国芯片一样的限制8月17日，美国商务部公布针对华为的新一轮制裁措施，一是进一步限制华为获取美国技术的能力，重点限制美国以外...
+ ## [美国步步紧逼：拉黑华为38家子公司，试图阻断华为外购芯片方案](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=xlKzTnd33MRQoiNkYZ8h0cnx4QMYfKS9UsQfeBzsjMRfJ7XO-X8CpfWEjg3OJi1bpkXtJ5bDZabtDmWGOK6KX3Vc*2wb76PLjniKGYd7G890TmcRitdj5l7dYQrq2swQ&new=1)
+ > 自2019年5月华为首次被列入实体清单至今，被列入美国“实体名单”的华为子公司总数已达152家。来源：证券时报作者：严翠又是一个不平静之夜！昨晚美国国务院和商务部官网分别发表声明，进一步收紧对华为获取美国...
+ ## [博士答辩人没来，导师还能赞不绝口!上海交大ACM校友实力演绎学以致用](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=GBMkNvmXJHujQkG2SN5lEd*XoFbwlPSwg-CAlEdobkGdg0d9Id0lXVbDf7fdJ2Fo35-iPQdS7SumhLqWx5wZkHjFEt05ej5zJEvk5X5vR1qU-gG0CdsTFoWr8IWbwpHy&new=1)
+ > 边策 萧箫 发自 凹非寺量子位 报道 | 公众号 QbitAI疫情之下，我们已经看惯了线上的一切：云毕业典礼、云学术会议、云发布会。但这些“云”终究让人感觉没“内味”。因为没有身后的PPT投影、手舞足蹈的演讲，终...
+ ## [中国电信上半年营收1938亿：净利润139.5亿，同比微升0.3%](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=0byL5vLaJ0K5XOulJAAb92xNow22galNod5vGZuiurVhZZg4w*E8UwHS1tXG6S7qLR7Sc32Si759sk6J03aebi4c52MwHJ9ajhkc-M9b6y-L7gABaTjLB39UiS6ms72t&new=1)
+ > 今日，中国电信公布2020年中期业绩。报告期内，中国电信实现经营收入人民币1938.03亿元，比去年同期上升1.7%；其中服务收入为人民币1871.10亿元，比去年同期上升2.5%；股东应占利润为人民币139.49亿元，比去年同...
+ ## [人脸识别新应用 这些你知道吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=ZNEwu-4rh-b7hF0y4FCGoJtCDaVE30j0rRxa8t8k-8JRpV9nAmORooHx4vUuEDyx2tUUXAx*jRF1QVoR1Of*FS23mgiJf8O8uXVhrSycDOeoKyBRsOzSCAbKNVh2bmrL&new=1)
+ > “刷脸时代”已经到来，人脸识别在景区、校园、民政局、大型演出等越来越多的场景落地应用，在提高工作、学习效率、方便生活的同时，也助力着智慧景区、智慧校园、智慧城市的发展建设。人脸识别助力“智慧景区”...
+ ## [十年十倍!网络安全产业迎来黄金十年](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=0MDB00i3Dz9d9WPciC2YkBv6xDPfoT6XWR0wuO1Lh*VSR8vXueKDq1YcUkL37FR6GFe-QWe3EcYoy0t8OpiP0BZ7GusRLCvXnhnLQa6S3GEyKETDT4LkMUFWgf3dCFHU&new=1)
+ > 安全牛评过去五年中国网络安全产业发展迅速，市场规模已经突破600亿元，但与欧美发达国家相比，我们的网络安全产业依然非常稚嫩，无论是市场规模、GDP占比还是企业IT支出占比，中国的网络安全产业都大幅落后于发...
+ ## [试图“阻断”芯片供应?美商务部将38家华为子公司列入“实体清单”](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=BeqUzwpVWNJ3u5YqicN8igDbrh-i7IqNox7PSoVfCrX2*2wJEGfQxt2j*9*maqfwP8fGZfAIL1h89igam7DfDKYNCZob-LJEOTIanudPtjV29oGQ-QPHlpfzuhT2997n&new=1)
+ > 特朗普政府还在针对华为采取行动！01美国商务部对华为限制升级！38家华为子公司被列入“实体清单”据环球网报道，当地时间17日，美国国务卿蓬佩奥在一份声明中表示，美国商务部进一步收紧了对华为获取美国技术的...
+ ## [生态绿币，赞](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=7*X1a3nZXGuhH-KBtT9QpdduLS4*RE77vS44mQtXIq7fflRJFXs3y2RXDSDx*Tz8ItzW0xq1OzhSV6liVVVg3M4bavQl1WhVTxCJosWf53ZRupeZB53mXpDbDd6oHNjD&new=1)
+ > 8月15日，央视《东方时空》栏目报道了浙江联通运用大数据保护绿水青山并转化为金山银山的故事。一起来看：怎样实现生态产品的价值，让绿水青山转化成金山银山？湖州德清县在全国首创了生态绿币模式，并通过中国...
+ ## [继续施压!美商务部将38家华为子公司列入“实体清单”](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=3K95wL25luB-iYz4wsVGLcyDDAhAawExkZALHtPrfSeCOy0jz7BDoU1qmMPwbwRhEo2fX*dRAhMIt4Zu9AP-eD5-OUe6CpkA0*RBMxuZKygtCCryJTHGUF7x778YCAnR&new=1)
+ > 美国仍在对华为施压！当地时间8月17日，美国国务卿蓬佩奥在一份声明中表示，美国商务部进一步收紧了对华为获取美国技术的限制，将华为在全球21个国家的38家子公司列入&quot;实体清单&quot;。美国国务院官网声明截图蓬佩奥...
+ ## [为什么说智能语音助理，是品牌营销的下一个高地?](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=G-spkj*P*8CYFLrkwaG8aHqkt7icHLFpDnaF3L1bB91wdmt97Q4wVELh0t*cMLpDQZOy*CMZvLp0g-f4mdT*STrrHfQn8ZXyCAfHTxY1HlfkWRORZulqEGuYAGtWlZnr&new=1)
+ > 在投资搜狗7年后，腾讯日前对搜狗发起全资收购要约。正如我在36kr“超级沙龙”直播中所说：腾讯全资收购搜狗，表面看是要重视搜索，实际上是为了后者以语言为核心的AI技术，基于此腾讯旗下产品特别是微信可以强...
+ ## [重磅!曝英伟达最快月底收购ARM，估值或达500亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=M0ir*AhzIfa9Y2r4Ly-3EW8lEJiOes-g6zAbJECP5kXKv8ZPUaazaMUr6q5ZBAXT36DV00aVoCxiVnCxqYbsCfh9TATfW5oikU0trO00YTh4aP0B*YZ16iDW*PTB0X6N&new=1)
  > 英伟达拟收购 ARM，能否成功尚待观察。英国媒体 The Evening Standard 报道称，美国芯片巨头英伟达收购日本软银集团旗下英国芯片设计子公司 Arm 的谈判正在加快进行，双方进入排他性谈判阶段，预计今年夏末完成...
- ## [华为称继续向预装Google Play手机提供更新；Mac纳入苹果独立维修商范围；三星智能手机生产关键部分或转移印度|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=AtdflIQZ2Pkd2AfJzGj806Xyn6ZPFT6HHYxtfXN52-NG4VSliTlJotYurWCKNFSOJA1DlnhCc1AeZHdTk-UQ*wsWuGyuLNSrf9hPQrffcDwBDFSNpFFz9OKCKgkVLmyf&new=1)
- > Hello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【华为称会继续向预装Google Play的手机提供系统更新】网络流传华为手机搭载的Android系统因为美国临时协议到期面临无法升级的消息，甚至影响到...
- ## [Sodinokibi勒索软件团伙从Brown-Forman窃取多达1TB数据](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=d0kaynuTLTyXI2AumeIhdaFqjjfb-T24H6x*2cP0QA8AOi0A6Xz2QOrkTjRQsiDD7W66F*CpCFWTMuiRKYaKgLHtNjVWm4qPHXcKxhUFX6NwDsnxTmHXIalVlmUWLQWO&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com E安全8月18日讯   近日据外媒报道，Sodinokibi（REvil）勒索软件运营商上周宣布，他们已经破坏了Brown-Forman的网络系统，该公司是美国烈酒和葡萄酒行
- ## [大疆回应欲裁员 14000 人；美国将 38 家华为子公司列入实体清单；北京：加油站禁止扫码支付|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=vRw-zEJiuSYConsA7-yyRgmrL1vH-1zO6WZveL8D*-8Ey3kvt15PS-MHl6Rh5OY0GIDR3MSTZEfkMijUDG7H0Sc4HoG*XPFLSKxr3NpF5dgXMwcDPh2VGX5m-omPkGa3&new=1)
- > 传大疆欲裁员 14000 人？大疆回应：总共 14000 人8 月 17 日，据路透社报道，全球最大的无人机制造商大疆创新正在裁员，销售和市场部门是裁员重点。目前，其深圳总部的销售和市场团队已经从 180 人削减至 60 人...
- ## [\[报告\]汽车无人驾驶产业深度解析(附127页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=u6L5RXrVK-k9XsQiFiNe1u0gceyCDSj5osiCvamX3EKBETq7eUQ-B0nqY-JWQiRn5T9ScLDvaobG*8eHIQaFL4VaRra*I*Npkh6Sz0Vsw30aJeUWPKtVYRbwLEqD7Pii&new=1)
- > 迈向无人驾驶的新一个10年。随着汽车的电动化、传感器和车载芯片技术和成本的改善、机器学习算法的突破、云计算的普及以及5G的出现，全球乘用车和商用车纷纷试水。本文主要探讨未来10年，乘用车和商用车在自动驾...
- ## [切断芯片供应?特朗普又搞极限施压，将38家华为子公司列入实体清单](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=QIGCMAJn3L*VFD3XpXN8TUnTrjpKo2zY1mquaxcsVWW4BHUhx3bTzALRkh0yolp-OK92aeG7GW-0364aAEnM63eGGodJ1PvygnZjz9O3f3O5WFqPx99v4iDh2Zx6XbD2&new=1)
- > 中国基金报 泰勒特朗普政府持续对华为极限施压，这一次，似乎要“赶尽杀绝”。美国商务部对华为限制升级！38家华为子公司被列入“实体清单”据环球网报道，当地时间17日，美国国务卿蓬佩奥在一份声明中表示，美...
- ## [美又对华为动手!38家华为分支机构遭列实体清单，外购芯片将受阻…](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=t3IBG*LQ3PmcokgLXwdZvXDIqpentFBMxFoOPIA4FDSNgRxV8mWjEiOH27240wS4AfXnn-w8WyWIyCrscR*wSy0idDueDRr5l4NVJro8L9Os2nprFjhOl-k1HqW8BPcg&new=1)
- > 美国商务部工业和安全局（BIS）当地时间周一宣布，将进一步限制华为技术公司及其在实体清单上的非美国分支机构使用美国技术和软件生产的产品。此外，BIS在实体清单中又增加了38家华为分支机构，且对所有受美国《...
- ## [美国再拉黑38家华为子公司!升级打压华为获取商用芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=K6E56wMG*i5UtTYXST6KDUiCmJDuS34ShF9Sq1UupwgZ4Htz84uthDy5oGt**63pddtiRiFB5AGTZqT4OWv8C*dJWVS34HfsA1WOeCZmuYCf5CDYDKC6NovyOJfIcmPf&new=1)
- > 看点：美国进一步收紧对华为获取美国技术的限制。智东西8月18日消息，昨晚美国国务院和商务部官网分别发表声明，进一步收紧对华为获取美国技术的限制，并将华为在全球21个国家/地区的38家子公司列入“实体清单”...
- ## [下一代光，纤连你我|IFOC2020讯石研讨会五大专题等你报名!](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=SzAWF-F41k5oLkM56VDJ5AKUCpDUADz0SRpxvuK-2wFNQR3LK-JaO8341DlA9*Ea5KGZN1D6jUQoBC5-EIAqDGcsOvibQ1qIqaFq1JNh2AG7LT88oD8hTtl*-ywONThg&new=1)
- > ICC讯 2020年9月7-8日，第19届讯石光纤通讯市场暨技术专题研讨会（The 19th Infostone Optical Communication Market and Tchnology Conference，简称“IFOC20
- ## [软硬双封杀，华为手机可能真有大麻烦了!](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=7UY8EFr0qURjZwTSx-2ahATOPIUrVzuk2CvY8clhF7mspSi-UAFzCR4xw-WOxZAUmNe6cJLcaUBm0PLVUZvgeLLWjlI3MlebTaBYZx9NfmNZCqL02HGCWkPqoSMeoAaC&new=1)
- > 距离2020年年度旗舰华为Mate40系列的发布还有一小段时间，但是今天又传来了非常坏的消息。美国对华为的打压又再度升级，正式宣布把全球华为旗下的38家子公司拉入实体名单，禁止它们购买美国芯片和含有美技术专利...
- ## [突发!美拟禁联发科向华为供货：第三方芯片也需美国批准，即日生效](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=mBkVilV5SN6tsaM0HvNXbOf8iLEB1V6XaUlhlPN-C2XzK9OaghX1Ym5s4fvkNOuDs80UPbPvdLM46CfZ3bvnu54Cgsel*8hN*tqNML0MZyAyGtzvw18lLdpwyIoj0a-p&new=1)
- > 美商务部的最新限制，让华为使用联发科等公司芯片“曲线救国”的可能性也变得渺茫。对于华为来说，目前的情况近乎无解。在不断地 90 天延期闹剧之后，美国商务部向华为提供的临时许可在 8 月 13 日到期结束。美...
- ## [台积电业绩猛增，说明即使失去华为这个客户也没有太大影响](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=NcoM8cTyE9kxhxWDStU4Ga3F87QWRLn-XVANxpIIeOkAEXoHnXagKol-YgTaZi03JERbKXtLq71xOFORZLvtqqhdkI3-35C6oQyWl85B3BASrnfiXTJZBxLd*ZGLQfBw&new=1)
- > 台积电公布的二季度业绩显示，净利润猛增超过八成至286.7亿元，创下了近6年来的新高纪录，而自二季度起华为给台积电的订单已有所下降，这显示出它即使失去华为这个客户也不会导致业绩下滑。华为这几年与台积电共...
- ## [美国出台终极封杀令!外购芯片路径被阻断，华为到了最危险的时候!](http://mp.weixin.qq.com/s?src=11&timestamp=1597723205&ver=2529&signature=U6yOLbfmwVvR9p0lvI3gxlVCRCcZmz7u603KqPYytraDkAPSUWtuPPoZRYadbIn*I1rrI7m8cFXWgp5WSfEpvYOkG-jJ5x4sFD6e65fSEPSPDVHQ0EMRDoIg28buL99y&new=1)
- > 8月17日晚间消息，美国商务部工业和安全局（BIS）今天进一步升级了对于华为及其在“实体名单”上的非美国分支机构使用美国技术和软件在国内外生产的产品的限制。此外，美国还在将38家华为分支机构加入了实体清单...
+ ## [字节跳动全资收购才云科技|\[经纬低调新闻\]](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=kNvSXG6NbbzkE05*mysioGI-7Bf4-r63ZboWqoB*XuY8JFhevH7hN*s3F6uzXxDxEn7Qu9pMF8NSzvUwx6bKEXpJAOvn*etGUTve2XyVJuto-Kecx8OY-xhU2xNBflF*&new=1)
+ > 8月18日消息，字节跳动将于近日完成对容器平台才云科技（Caicloud）的全资收购，收购完成后，才云科技的团队及业务，将加入字节跳动火山引擎。 早在2017年，经纬中国就领投了才云科技的A轮融资，随后又在B轮和B+...
+ ## [GPS芯片才40nm，北斗芯片为何追求22nm?这篇文章说清楚了](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=H5j-8kaTaBsyJzN5oKjDUY*X2ftjzXa9zptJooPmSFeHEUJcnkrrI6rDMOsPRv1P*4a3EkGx-ZCsl7FEafp**QMmVWuCldSqFjuznyYURQdN1TVfA7kC*gcR6zcH3VKt&new=1)
+ > 8月3日上午，国务院新闻办公室举行新闻发布会，中国卫星导航系统管理办公室主任、北斗卫星导航系统新闻发言人冉承其介绍，北斗系统28nm工艺芯片已经量产，22nm工艺芯片即将量产，我国北斗芯片再次取得重大突破。...
+ ## [如何创建数据架构以推动创新](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=*Gpp2wNjIl1KnCpJUNfUVETcQB4BtXCSSbOgtTRhIhAHJr-rKArXuzgHsqqrg*1YLTX*tGynU0b7XleoTkT3V7B6DJc5qA3PCJFApQ4nboWsg6ru9TAC8*XhZcrM4jTG&new=1)
+ > 关键讯息，D1时间送达！随着数据、分析和人工智能在大多数组织的日常运营中得到越来越深入的应用，为了创建和发展以数据为中心的企业而对数据架构采取截然不同的方法是十分必要的。那些采用这种新方法的数据和技...
+ ## [步步紧逼!美国再拉黑华为38家子公司：“阻断”华为外购芯片方案](http://mp.weixin.qq.com/s?src=11&timestamp=1597739405&ver=2529&signature=7CfvRkU*rfSjeyIjo0Bx0bf2MiU9s-wFb4X9fzvx7QRrGZGlxRyowawcP43lj34uX4sq9dHisyHhUuETRnmhHCcekydSu1*MKc-0EaEJozoyg-st9AUFS9AC0qskcwa0&new=1)
+ > 对华为的打压，美国是步步紧逼。根据环球网报道，当地时间8月17日，美国国务卿蓬佩奥在一份声明中表示，美国商务部进一步收紧了对华为获取美国技术的限制，同时将华为在全球21个国家的38家子公司列入“实体清单...
 # IT 技术 
  ## [MATLAB之后，Docker也被加入禁止名单了！](http://os.51cto.com/art/202008/624074.htm)
  > MATLAB之后，Docker也被加入禁止名单了！
@@ -55,28 +61,28 @@ categories: IT NEWS
  > 微服务、迷你服务和宏服务
  ## [Nodejs 与 Golang 的比较：Web 开发人员选择哪个最佳？](http://developer.51cto.com/art/202008/623875.htm)
  > Nodejs 与 Golang 的比较：Web 开发人员选择哪个最佳？
- ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
- > Vue 快速开发入门课程
- ## [全球最大的邮轮运营商嘉年华遭勒索软件攻击，数千万用户信息泄露](http://netsecurity.51cto.com/art/202008/624113.htm)
- > 邮轮运营商Carnival Corporation透露，他们的一个品牌在过去的一个周末遭受了勒索软件攻击。嘉年华公司是全
- ## [程序员专为韭菜开源设计的项目，股票分析、代码学习两不误！](http://developer.51cto.com/art/202008/624112.htm)
- > 股神巴菲特的步伐相信韭菜们都是时刻留意着的，而程序员韭菜们除了留意股神的消息，他们还有一项优势，就是
- ## [人工智能市场收入今年将达到1560亿美元](http://ai.51cto.com/art/202008/624111.htm)
- > 一项研究称，人工智能（AI）解决方案目前是一个快速增长的市场，预计到2020年将达到1560亿美元。
- ## [10个优秀的数据挖掘工具，一定不要错过](http://developer.51cto.com/art/202008/624110.htm)
- > 在机器学习的流程中数据挖掘是重要的一环。数据挖掘是从大量数据中提取隐藏的或未知，但可能有用信息的过程
- ## [这7款Chrome 插件，堪称神器](http://os.51cto.com/art/202008/624109.htm)
- > Chrome(谷歌)浏览器是世界上最好用的浏览器之一，这个应该很少人会反驳。虽然它很好用，但总有些功能顾及不
- ## [2020年7月各大城市与程序员平均工资排行榜](http://news.51cto.com/art/202008/624104.htm)
- > 2020年7月全国招收程序员288685人。2020年7月全国程序员平均工资14357元。上个月是14404，又跌了50元。一顿
- ## [手机指纹解锁电脑？用这个APP零成本实现](http://mobile.51cto.com/app-show-624105.htm)
- > 大家有没有统计过自己一天解锁过多少次电脑？这串和上下班时间一样倒背如流的密码又因为敲多了一下、忘了切
- ## [如何完善区块链战略](http://blockchain.51cto.com/art/202008/624102.htm)
- > 区块链的用例如今在各个领域变得越来越普遍，但是企业如何才能实现完美的区块链战略?企业在完善其区块链战
- ## [自媒体文章质量如何AI知道，这是微信的自动评估算法](http://news.51cto.com/art/202008/624107.htm)
- > 在这篇文章中，腾讯微信数据质量团队解读了他们的自媒体在线文章质量自动评估算法，告诉你模型眼中的好文章
- ## [真的不比搜狗差？Windows 10输入法这些玩法你知道吗](http://os.51cto.com/art/202008/624101.htm)
- > 从Windows 10开始，微软对内置输入法进行了大刀阔斧的提升。在早些年，Win10内置输入法有很多问题，但随着W
+ ## [MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01](http://fellow.51cto.com/art/202008/623594.htm?qd=51ctojrzd)
+ > MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01
+ ## [7成用户忽视数据安全! 牺牲安全的便捷性真就这么香吗?](http://netsecurity.51cto.com/art/202008/624136.htm)
+ > 很多用户在对应用程序进行日常使用时往往无法在便捷性和安全性之间寻找一个合理的平衡点，在对应用的日常使
+ ## [如何发现家庭摄像机是否有被黑客入侵](http://netsecurity.51cto.com/art/202008/624135.htm)
+ > 如何确保家庭摄像机不被黑客入侵，是当今物联网设备面临的较大挑战之一。虽然目前并没有百分百安全的保护办
+ ## [无人机配送渐行渐近，商用普及还需解决痛点](http://ai.51cto.com/art/202008/624133.htm)
+ > 8月14日，韵达在桐庐发布了首个自主研发的5G无人机和首条常态化运行农村快递配送线路，标志着我国快递行业
+ ## [物联网（IoT）的必然未来！](http://iot.51cto.com/art/202008/624132.htm)
+ > 物联网设备已经成为主流电子文化的一部分。据估计，到2020年，将有210亿台物联网设备投入使用，这将影响我
+ ## [再次作案：影像IT巨头柯尼卡美能达遭新型勒索软件攻击](http://netsecurity.51cto.com/art/202008/624130.htm)
+ > 近日，日本影像科技巨头柯尼卡美能达企业服务近一周。该勒索事件发生在7月底，影像了商业技术巨头柯尼卡美
+ ## [为什么医疗保健提供商要投资于智能自动化？](http://ai.51cto.com/art/202008/624129.htm)
+ > 智能自动化（IA）是人工智能和自动化的组合体。通过利用这一点，组织可以达到无与伦比的效率、卓越水平，并
+ ## [谁在造谣IPhone上不能使用微信了？大家都信了？](http://news.51cto.com/art/202008/624131.htm)
+ > 近期，相信很多人都面对了一个选择题，就是苹果手机和微信，这两者你会选择谁，这个问题成为了一股热议，并
+ ## [物联网和边缘计算将随着5G的采用而增加](http://network.51cto.com/art/202008/624128.htm)
+ > 许多企业越来越多地在其网络边缘部署物联网解决方案，以便发送、接收和处理数据。
+ ## [Manjaro和Arch Linux有何不同，哪个更好？](http://os.51cto.com/art/202008/624134.htm)
+ > Manjaro 还是 Arch Linux？如果说 Manjaro 是基于 Arch 的，那么它和 Arch 又有什么不同呢？请在这篇比较文
+ ## [创客北京2020 ・ 鲲鹏应用创新专项赛宣讲会集中答疑，提升选手参赛认知！](http://network.51cto.com/art/202008/623981.htm)
+ > 鲲鹏展翅伙伴计划是华为鲲鹏计算领域围绕TaiShan系列服务器推出一项合作伙伴计划，通过分享华为的技术资源
 # 人工智能 
  ## [利用python之wxpy模块玩转微信](https://blog.csdn.net/Six23333/article/details/108032342)
  > 利用python之wxpy模块玩转微信
