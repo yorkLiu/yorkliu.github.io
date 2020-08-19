@@ -1,22 +1,24 @@
 ---
 title: 2020-08-19 IT News
 copyright: true
-date: 2020-08-19 08:00:53
+date: 2020-08-19 09:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [TCL为何选择中环?创始人李东升这样说……](http://mp.weixin.qq.com/s?src=11&timestamp=1597793405&ver=2531&signature=jqqR6pgtkNWtZaGKbildfjBQVpWnzuUsg04he*dV9zdocJsStoUwvLDndo2iUeJqlc4yiv0yoDweklBboAG*TGGwCYFDcBD-Up911p*jnjZWx-RA5z6OOgSUaKGSObMx&new=1)
- > 8月17日下午，“科技芯能，引领视界”TCL新动能战略发布会在天津召开。这次会议是继上个月TCL科技成功摘牌中环混改项目后，双方公司的首次同台亮相。会上，双方分别介绍了企业的发展历程及未来规划，并对TCL科技...
- ## [快讯：中国电信集团系统集成公司一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1597793405&ver=2531&signature=9GiMJxrM7-ZJKQuAL9*acmSMsZ7slGxl4wYGdvROiIk33*nT3w8A*rvzlLaBx9gZrImUQrvQ14RWFLo-bqeUPnGZ2AFrGGq1ZrZq*mRjwXoNYmasCE29zrUgA4pvde0q&new=1)
- > 运营商财经网 吴碧慧日前，运营商情报获悉，刘沛辉担任中国电信集团系统集成责任有限公司党委委员、纪委书记，接替前任刘智峰的职位。资料显示，中国电信系统集成公司成立于1996年，是中国电信全资子公司，下设3...
- ## [美国“终极禁令”出台：华为库存耗尽后 将陷入无芯可用局面](http://mp.weixin.qq.com/s?src=11&timestamp=1597793405&ver=2531&signature=Z72-PnHrv-mr50hidNfiw9x3nJLLlprb4H2ZwClLqfrtb1WiSr2Z0jhlkwAPlkub2ntMyq-QUGSSUZQZAi*g0gEdwPx3JqUf*1iglak931rEUMaSYZYf9NgyfcaljUIg&new=1)
- > 不管出于什么原因，美国对华为的封杀只会越来越严格，所以他们进一步升级了对于华为及其在“实体名单”上的非美国分支机构使用美国技术和软件在国内外生产的产品的限制。按照最新规定，美国扩大了对38家跟华为相...
- ## [华为可能只剩下自研芯片制造技术一条路了](http://mp.weixin.qq.com/s?src=11&timestamp=1597793405&ver=2531&signature=AxSXTIeu4n42s4lEuNqJWlg1Aqg6ERzb6sVBK5INWU8uS3u1FFox-0rDUjYGA5VzaJ*tAxob8NKsd5hiJuR5zGnQbys4Me0LGuiBefJldhTkej40O39gvfPpJHW9dcv8&new=1)
+ ## [华为可能只剩下自研芯片制造技术一条路了](http://mp.weixin.qq.com/s?src=11&timestamp=1597798805&ver=2531&signature=AxSXTIeu4n42s4lEuNqJWlg1Aqg6ERzb6sVBK5INWU8uS3u1FFox-0rDUjYGA5Vzrtq9xoCaazMCdACu5AK9vI4h9EfdCnIAmPjnFV0pnRISZmZvjPHId9Ka7jRrqcXU&new=1)
  > 日前美国修改了对华为的禁令，强调只要采用了美国技术都不能与华为合作，如此一来华为对外采购芯片发展手机业务的道路也被堵上，那么它要发展自己的手机业务就只剩下自研芯片制造技术一条路了。去年美国将华为列...
- ## [太难了!华为手机被禁止采购第三方芯片，联发科如此回应](http://mp.weixin.qq.com/s?src=11&timestamp=1597793405&ver=2531&signature=AaRtUho0s--eGQBOzNgDvvBwZwvFRAU1sKTty6bgqmeTwgydsG38w1VLzqn1121kdowz3xuxi0vt4Ka5PgRQkppGrnckj6Eck5yhH7EgsqGkrSSFRQApWhBFF7TbXijR&new=1)
+ ## [TCL为何选择中环?创始人李东升这样说……](http://mp.weixin.qq.com/s?src=11&timestamp=1597798805&ver=2531&signature=jqqR6pgtkNWtZaGKbildfjBQVpWnzuUsg04he*dV9zdocJsStoUwvLDndo2iUeJqXG2Wy6FxqgBGy1-gWsoWoOBWIyt3ccTPqLR9UsQa9HN4HHDhMtjmlPeX9sFZ2UfZ&new=1)
+ > 8月17日下午，“科技芯能，引领视界”TCL新动能战略发布会在天津召开。这次会议是继上个月TCL科技成功摘牌中环混改项目后，双方公司的首次同台亮相。会上，双方分别介绍了企业的发展历程及未来规划，并对TCL科技...
+ ## [美国“终极禁令”出台：华为库存耗尽后 将陷入无芯可用局面](http://mp.weixin.qq.com/s?src=11&timestamp=1597798805&ver=2531&signature=Z72-PnHrv-mr50hidNfiw9x3nJLLlprb4H2ZwClLqfrtb1WiSr2Z0jhlkwAPlkubNyom2P5p37aYhbsD2dywRh65DAnjWvrMCBBz4kxEX5BJOYjkY9jL29fxLs*FTW3j&new=1)
+ > 不管出于什么原因，美国对华为的封杀只会越来越严格，所以他们进一步升级了对于华为及其在“实体名单”上的非美国分支机构使用美国技术和软件在国内外生产的产品的限制。按照最新规定，美国扩大了对38家跟华为相...
+ ## [快讯：中国电信集团系统集成公司一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1597798805&ver=2531&signature=9GiMJxrM7-ZJKQuAL9*acmSMsZ7slGxl4wYGdvROiIk33*nT3w8A*rvzlLaBx9gZcBJ1qCDETFk*0v66zYU2aXfcGUtZ4HgQ0ZCFMCBx0H-jcb0FUxQlmfWVQMo9ByDn&new=1)
+ > 运营商财经网 吴碧慧日前，运营商情报获悉，刘沛辉担任中国电信集团系统集成责任有限公司党委委员、纪委书记，接替前任刘智峰的职位。资料显示，中国电信系统集成公司成立于1996年，是中国电信全资子公司，下设3...
+ ## [太难了!华为手机被禁止采购第三方芯片，联发科如此回应](http://mp.weixin.qq.com/s?src=11&timestamp=1597798805&ver=2531&signature=AaRtUho0s--eGQBOzNgDvvBwZwvFRAU1sKTty6bgqmeTwgydsG38w1VLzqn1121kW8TGyzhcACH4aGYfTJML4i5MbTuisJjYgALlUO5Xh-wTtDZJhCyCYCoky9SLqSK2&new=1)
  > 我们都知道，近日美国对华为的限制打压再一步升级，把38家华为全球子公司拉进了实体名单，从各个层面确保华为无法采用第三方厂商的芯片。这是续华为自研的麒麟芯片无法找到厂商代工后，又从购买层面上断了华为的...
 # IT 技术 
+ ## [表白失败后，我明白了TCP实现原理](http://network.51cto.com/art/202008/624168.htm)
+ > 表白失败后，我明白了TCP实现原理
  ## [API-First产品经理们的常用API标准与工具](http://developer.51cto.com/art/202008/624075.htm)
  > API-First产品经理们的常用API标准与工具
  ## [MATLAB之后，Docker也被加入禁止名单了！](http://os.51cto.com/art/202008/624074.htm)
@@ -29,41 +31,26 @@ categories: IT NEWS
  > 什么是Docker？看这一篇干货文章就够了！
  ## [希望我这是最后一次谈SaaS](http://developer.51cto.com/art/202008/623937.htm)
  > 希望我这是最后一次谈SaaS
- ## [我35岁，程序员，“中危”后帮别人规划人生](http://news.51cto.com/art/202008/623863.htm)
- > 我35岁，程序员，“中危”后帮别人规划人生
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
-# 人工智能 
- ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
- > android 常见面试题（三）
- ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
- > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
- ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
- > Android~adb卸载系统预装应用（亲测有效）
- ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
- > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
- ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
- > AS-修改APP图标和名字
- ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
- > android开发：小米手机开发时非要sim卡才能调试怎么办？
- ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
- > android.media.MediaCodec$CodecException: Error 0xfffffc0e
- ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
- > 安卓APP的http访问权限
- ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
- > flutter 的像素尺寸
- ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
- > googlePlay 找不到发布的应用
- ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
- > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
- ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
- > 使用FlexboxLayoutManager来实现流式布局
- ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
- > 电电帮手机维修就是坑爹，大家不要信
- ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
- > android.view.InflateException Error inflating class android.webkit.WebView
- ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
- > Unity | 总结：OCR文字识别、公式识别
+ ## [图解Python（4）（高级进阶篇）](http://fellow.51cto.com/art/202008/622834.htm?qd=51ctojrzd)
+ > 图解Python（4）（高级进阶篇）
+ ## [三大运营商半年报：5G建网加速 宽带业务重在价值重塑](http://network.51cto.com/art/202008/624175.htm)
+ > 截至昨日，三大运营商已悉数发布上半年业绩报告：在疫情的影响下，都实现了不同程度的收入增长，其中中国
+ ## [华为太难了，一天迎两个“大消息”！外交部发声：美国是名副其实的黑客帝国](http://news.51cto.com/art/202008/624174.htm)
+ > 昨夜，美国发布了对华为的修订版禁令，并将华为在全球21个国家/地区的38家子公司列入“实体清单”，以打击
+ ## [微信官方传授转移聊天记录方法 网友评论翻车：为啥不能同步](http://mobile.51cto.com/app-show-624172.htm)
+ > 相比多年前只能ROOT后靠第三方软件备份，现在的微信好歹已经有一些官方手段帮助迁移纪录了，今晚微信官方就
+ ## [Bang!这个Python处理时间的库，我拆解了！](http://developer.51cto.com/art/202008/624167.htm)
+ > Python里面处理时间库的有很多，其中大家经常用的有datetime。但是对于懒人来说还是很不爽，有么有更简单的
+ ## [2020年很牛的10门编程语言](http://developer.51cto.com/art/202008/624166.htm)
+ > 对于很多初学编程的人来说，尤其是马上要入学的大一新生来说，选择哪门子编程语言实在是个痛苦的事。选择对
+ ## [数据行业的高级岗位和初级岗位，到底有什么区别？](http://bigdata.51cto.com/art/202008/624165.htm)
+ > 最近搜罗了一些粉丝问的问题，一些比较好的问题拿出来和大家一起探讨，今天的问题是就数据分析的岗位级别区
+ ## [中国大数据市场规模将在2020年达到104.2亿美元](http://bigdata.51cto.com/art/202008/624164.htm)
+ > 根据最新发布的《IDC全球大数据支出指南》（Worldwide Big Data and Analytics Spending Guide, 2020V2）中
+ ## [计算机专业大二分方向，该选择人工智能还是网络安全](http://news.51cto.com/art/202008/624163.htm)
+ > 首先，当前人工智能和网络安全都是不错的学习方向，大二的学生可以根据自身的能力特点和兴趣爱好来进行选择
+ ## [CopyOnwrite 了解吗？](http://developer.51cto.com/art/202008/624161.htm)
+ > CopyOnWrite 只是看字面意思就能看出来，就是在写入时复制，说得轻巧，写入时复制，具体是怎么实现的呢?
 # PM 
  ## [10次迭代9次delay？？拒绝项目延期，这里有一整套方法！](http://www.chanpin100.com/article/112490)
  > 需求要少点，评审多几遍...
