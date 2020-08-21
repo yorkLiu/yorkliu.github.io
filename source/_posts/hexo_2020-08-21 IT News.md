@@ -1,33 +1,51 @@
 ---
 title: 2020-08-21 IT News
 copyright: true
-date: 2020-08-21 12:01:40
+date: 2020-08-21 17:02:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“滴滴”在筑开展 乘客补贴活动](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=euiZTpHA7NoMgpyLh4gplQm6s8MgDX6Xl30vKQyLzUl8zZfYsUxvwPMAcCzA1teBrA6bnWusRlzLXqx4YhgMWywWMaSS3NeohVFXB-nkbzY=&new=1)
- > 本报讯 8月20日，“滴滴”宣布在贵阳开展乘客补贴活动，新用户可低至五折打车，该活动预计持续一个月。　　乘客可通过滴滴小程序大转盘和H5小游戏页面抽取打车优惠券。乘客通过滴滴打出租车时，在乘客端上也...
- ## [高清直播：中国增材制造产业发展芜湖(繁昌)高峰论坛暨2020年中国增材制造产业年会](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=T7zUekwslJwzeoRSEsAUgqOiiuZXt8-G8OPmBPtPwN2LDATbC3kyTjDJGYxEJhihetuiIkseCCQAfRBRoF1Veens7GWRSYmMBd36dK1NmYMMadBjvq1PkCu8ET*vyFD3&new=1)
+ ## [信息通信行业发展“十四五”规划编制研讨会在中国信通院召开](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=67KWUL6YKviDGEivNnIIVXUbiyrXNSrqWPVc1lagq9BAMc2LIbyFn5caC4mrJ-VOQFPIotxSd-KwBX2fymx4BP9qwT0gZfogI1XyK6uQtBE=&new=1)
+ > 上证报中国证券网讯 据中国信通院CAICT微信公众号8月21日消息，2020年8月20日，受工业和信息化部信息通信发展司委托，中国信息通信研究院（以下简称“中国信通院”）联合中国通信学会组织召开了信息通信行业...
+ ## [微软爱开发者|掌握 API 进阶指南，助您应云而“胜”!](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=TfZVzNlNpOdw*7pxmwRA8pVuNsv4oqWLXBKt-*GDLOHYAcqtjFcxbpRK02yA-UylNZ*JqaWDiXjM-rZmASDJ2JHhCoY3rmhhwGNq5Nyf91k-Ou8VXAQNUbDxXufNnCu2&new=1)
+ > （本文阅读时间：3分钟）远古时代，工具的诞生带领人类解放了双手工业时代，汽车的发明为人类实现了双腿自由而云时代海量 API 的出现，为开发者带来知音从此不必再深陷重复的“体力劳动”，为开发提速！但尽管不...
+ ## [一天标200万个点，来看数据标注师的“科幻”工作](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=tQUy8PS7EtM2YMwuyYuKy*F3vQUpIBabg9FpO7jpnSLUD5f2MNHHFu2Ec1uysYmwg9AXT2ekvM4Ex0IYa6RWemF3gEqhCEvmDwA2nHY0XrxeMoxGCrT6PVdQ*NH4EJ1q&new=1)
+ > 看起来像个大网吧，上百人坐在一排排电脑前，有的屏幕旁还开着风扇，放着零食。滑动鼠标，屏幕上深色背景中的三维图像不断翻转变幻，乍一看，就像游戏界面，炫酷无比。这里是百度（山西）人工智能基础数据产业基...
+ ## [SAIL海缆，助您安全高效联通全球，智享新未来!](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=rMYkuoFXddzaRjtyXqpwRgY2wSyl4fBaqilHviSAGTCr2nplFFmu5R*QP9UJ8imqeNzStNc7CgsUuC1Q657Pk0gT5gaqn-0GUNqomVpgA3jetDDgqNPaFkeD3etBwJNM&new=1)
+ > 近年来企业全球互联的需求不断增加一条高效、稳定、安全的智慧网络就像是企业发展的“加速器”助力企业极速联通全球加速布局全球网络携手联通智慧未来面对全球连接、全球合作的不断深化，近几年来，中国联通积极...
+ ## [意外发现!福建车牌上有个小秘密!网友沸了!睁大眼还有惊喜……](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=zDyns6KK38jcaQb6nwNm65ovWHXaXtOekp49FafR7oz02MGVoziBK9WO3oSekYzNBbugsmdgQddzhPyGZBL8Qb5UxWPwnjSvNKIBM-s0sdiD-uEFuz8e0BOb86JyGwBt&new=1)
+ > 近日，有陕西网友发现自己的车牌上有兵马俑的logo▼后面网友发现，其实，不只是陕西很多省份的车牌也是带有水印图画的比如：云南：大象四川：熊猫那么问题来了福建车牌，有啥特色图画呢？答案公布了福建的车牌拥...
+ ## [零信任现状：千里之行，始于IAM](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=bjzjSx9T-BgnEzyOMjgZ0DDeH3tdHShW2TKTzOcBiGJgQ*jkqNRCuXbx*EudjTJYFqAFD-IJQUPn6L2fz-blN057KSS7j-BtzsaCcFY3pumeD2EDRGyIgV7Ho3eOJFVW&new=1)
+ > 零信任毫无疑问是当下最为火爆的企业网络安全细分市场之一，据MarketsandMarkets预测，零信任安全市场规模预计将从2019年的156亿美元增长到2024年的386亿美元，2019至2024年的复合年均增长率为19.9%（下图）。推
+ ## [XR科普——VR眼镜盒子](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=RfUuZPkDYLbvzGGFQcaUgJ1sp0Nep5MpiD2b3goxotj1sES3JBHdqzTFuk-rwN*74QfC6FWEBY3Djw0WDgq1EiGXRuRd4hv*Bp3w3QlU1m3cHJqKUPg1fwXOOFs8*DcX&new=1)
+ > VR寒冬？不，是市场的洗牌文 | 小豆子（VRPinea 8月21日讯）在前两期的XR科普中，P君给大家分别介绍了一下PC VR和VR一体机。那本期的XR科普，就给大家介绍一下让VR在国内突然爆火的第一代VR设备——VR眼镜盒子。...
+ ## [智慧社区如何提高社区治安管理?](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=*BaqTCWSqwr-mGmatWK5Rkc1hunX56qqRSTorHCDJ8xCsKfD0VkUUGtsuCHwaoWd99EG-Jzps0KMuD6wUbY5-LoMVFkmWqI8CM1ug-QvUrKBC*dJR4nc-eeNN2sjb-pJ&new=1)
+ > 互联网浪潮下中国已搭上智慧列车急速飞驰，社区作为生活基本单元，经过几十年发展已经步入一个全新时代。智慧社区成为新时代社区发展的新方向。而在智慧社区建设中，安防作为社区安全的第一道屏障，是全社区安全...
+ ## [3D打印建筑初创公司Mighty Buildings获3000万美元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=iV5r4xtCUj1f4LHKy-9U7cluat*e0PwmZI6u1H2EwC3zwi8r1H5yN*uthbkooKWuKMoDBRVQT4mLDo4Z1Ee12B4-kv37W4ricdinlBKiAVTOZhQ9Mz*o4pGzmJE93vdb&new=1)
+ > 3D打印建筑初创公司Mighty Buildings已筹集了3,000万美元的资金，并宣布将退出隐身模式。自2017年以来，该公司一直在悄悄进行其专有3D打印技术的研发，现在正作为成熟的“生产即服务”业务开展。该公司的第一轮...
+ ## [机器学习的五个成功案例](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=k2YWHRJKdJ2Fr-q58jQMFR8Gbc3JvNVM0O3v9AgSUF-6Ow5xXJAoUAoxvF2rw6qSqS4VnaDXRliqaZHyBTNMOc5kd7LcUMVow1g1cfi1ayJw4Cja0hF6v2DhsoT9Xu61&new=1)
+ > 关键讯息，D1时间送达！随着组织越来越多地利用技术来更好地预测客户的偏好并支持业务运营，人工智能和机器学习(ML)越来越受企业青睐。在本文中IT领导者们分享了使用人工智能和机器学习来获得业务洞察的方法。IT...
+ ## [高清直播：中国增材制造产业发展芜湖(繁昌)高峰论坛暨2020年中国增材制造产业年会](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=T7zUekwslJwzeoRSEsAUgqOiiuZXt8-G8OPmBPtPwN1FgTo1HTxDDSa8*wLBOW4z4JaRJjHZC88tuXLz0Z2NnmSVapiBisdapapP2ipY3npB2u0R2tC6M-vFb3HKrbvn&new=1)
  > 2020年8月20日，中国增材制造产业发展芜湖（繁昌）高峰论坛暨2020年中国增材制造产业年会在安徽芜湖市举行，此次年会由工业和信息化部装备工业发展中心、安徽省经济和信息化厅、芜湖市人民政府指导，中国增材制...
- ## [重庆人的“智慧生活”，是这样的打开方式……](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=XUdYQMqWtc5Z7xtvttvylBAn*FLLikFpDodkOVQCgke4SjYL8wqQ0YXWXhlim134BUzT-a0F9V6tFBYZknVTeON9SdjnAgGZX6-GdBXmrrcm8PKN*U2H8vU9ZTwyyxng&new=1)
- > ◎ 科技日报记者 林莉君 雍黎 盛利“以前造车全靠人工焊接，烫伤、划伤是家常便饭，没想到机器人解放了双手，工作环境越来越好。”从事汽车焊接工作30年的黄忠露深感变化之大。“体验了一把VR足球、骑了5G自行车...
- ## [苹果意外泄露iPhone 12发布时间；阿里将停止印度部分服务；TypeScript 4.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=04A3HaUYr*l*qb2s5xhp777OfGHI6o5SI8dz*Kho0qZieH0cydwn1VmKPROA1tni5OITHHlj5y7NG6x2dxf-4GlJP2aumMlDtv7J7WDdkgzjfkraMi1cd1l7Foxf67il&new=1)
+ ## [苹果意外泄露iPhone 12发布时间；阿里将停止印度部分服务；TypeScript 4.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=04A3HaUYr*l*qb2s5xhp777OfGHI6o5SI8dz*Kho0qaY7gXqK*ypeEYij6f4OaiyOv1A*zGOFWyRYsuB6X9MotxTvTk7FrhuRo6INENLpYj2Dl6f6ZgR*ztOzhPjPnb9&new=1)
  > 整理 | 屠敏头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天...
- ## [专访|傲科光电：电芯片后起之秀的乘风破浪之旅](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=GTOH9azKOoxcxt1HhOPxmzMREm6j1xZYL6ml2lBK*ozbL4fUpRdO2L0yOkKmM4BC7RnDY732WIhrn*DCSk1iZcfUjXr5ryq7h40gPHwQ2eWcE3lnuKkybD2Yby-x3Mc6&new=1)
+ ## [“滴滴”在筑开展 乘客补贴活动](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=euiZTpHA7NoMgpyLh4gplQm6s8MgDX6Xl30vKQyLzUkEkSuo8pXkUIozOvauHz2HxOqweX7gZmIEAUByrZDEF6a8RO56TVceJ4TwspJmBNU=&new=1)
+ > 本报讯 8月20日，“滴滴”宣布在贵阳开展乘客补贴活动，新用户可低至五折打车，该活动预计持续一个月。　　乘客可通过滴滴小程序大转盘和H5小游戏页面抽取打车优惠券。乘客通过滴滴打出租车时，在乘客端上也...
+ ## [重庆人的“智慧生活”，是这样的打开方式……](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=XUdYQMqWtc5Z7xtvttvylBAn*FLLikFpDodkOVQCgkftUBHMAAvYZHyrKqglBKDiAJNn0cLD0S2wb6798bYoFjAp949XU*tznHS-*69BWpDsEnK0PtdMbVGQQXKtQCrp&new=1)
+ > ◎ 科技日报记者 林莉君 雍黎 盛利“以前造车全靠人工焊接，烫伤、划伤是家常便饭，没想到机器人解放了双手，工作环境越来越好。”从事汽车焊接工作30年的黄忠露深感变化之大。“体验了一把VR足球、骑了5G自行车...
+ ## [专访|傲科光电：电芯片后起之秀的乘风破浪之旅](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=GTOH9azKOoxcxt1HhOPxmzMREm6j1xZYL6ml2lBK*oxodwpQwrkQB4L8ZhBLQBumfkz4462gz1ZEu10wuonaAn77Uyf7oVFrrTt-r7Bn4OsAjeYA5eOQy4Sj6odqYbqT&new=1)
  > 近年来随着中国半导体产业的迅猛发展，中国芯片的自给率已得到大幅提升。但目前中国半导体产业仍然面临诸多困局。日前美国商务部发文进一步限制华为购买芯片的渠道，再次把“国产芯”的热度推上新高。本期讯石专...
- ## [新基建下，我们为何需要新一代全业务智能路由器?](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=W86y5m2-BaoJ6ZOtclPZrCX3yx5f0RiKT4SwgxAJZe5IYwMGAhFeBgLHjY390o7x2y0DD1rE1Le0zgbeg7U5*74SDlh8JK8LQbmkaj25RzdOxqAYipm3xM*1BExmWJie&new=1)
+ ## [新基建下，我们为何需要新一代全业务智能路由器?](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=W86y5m2-BaoJ6ZOtclPZrCX3yx5f0RiKT4SwgxAJZe5AzuTCNm9wGvtsyp9lfbCfJQkJTY9e5e9gezssLgF4d9dcxnvgbLmEw72ZxaP0tJf6*Dp3ViWYgq-xr74ZXPKu&new=1)
  > 假如数据是人体的血液，那么什么是人体的动脉血管？答案是广域网络。如今我们正式进入5G与云时代，各行业数字化转型加速，数据血液呈指数级增长，未来还将持续增长。这种情况下，广域网大动脉应该如何改变，才能...
- ## [华为已存有可用数年的电信设备芯片，计划建造45nm芯片生产线](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=G-ASjT0KPrSZE7pQbLAMxj9TmPiVMI4Yu9dLypBtSI8BukLqflZFtdNYwLE5xcjSxjXMKR0Y0bJexceBPWYfh*8CfvxCBG77XGs0rMfPlQuM3qTEtMOGDHGq96BqRt1f&new=1)
+ ## [华为已存有可用数年的电信设备芯片，计划建造45nm芯片生产线](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=G-ASjT0KPrSZE7pQbLAMxj9TmPiVMI4Yu9dLypBtSI8TpJejSfAZIb69EQdO92qsfLybDGGJX6EG4cq9y9QT5-B5ySBqlhOGtHa1zuMQhNtqMzF2z0Mh8Cp*Sev67Jz3&new=1)
  > 由于美国实施的新制裁，华为在开展业务方面一直面临困难，现在，由于制造方面的限制，华为被迫停止开发其高端麒麟芯片组。但是华为的核心电信设备业务，似乎影响不会像智能手机业务那样严重。根据韩国的最新报告...
- ## [\[报告\]车联网行业深度研究报告：5G时代，产业价值空前(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=j5t39Qi6cFSWFNtiWlF7gi77epGj6x0V0Dj9WJmK1A4TWZT1OJXedc9p7qFWizhCiqEWkon3T34Z*LoHfDV3fZPlQ7kZ7f357nKLLcs-jWUMPvD9nMNXYKEgcj945cQp&new=1)
+ ## [\[报告\]车联网行业深度研究报告：5G时代，产业价值空前(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=j5t39Qi6cFSWFNtiWlF7gi77epGj6x0V0Dj9WJmK1A5*prrEqGw3iuZzijaD0nqZGjoK57X1lOtd05gRIPIYnXcwRwWGsXT3jm-xpwO*006fFWPsV7K2UfolgaUgxZa5&new=1)
  > 从PC到手机，4G时代移动互联网终端入口连接数量已逼近极限，汽车作为人类“第二空间“，正在成为下一必争入口。各国纷纷加速推进车联网进程和标准落地。车联网产业链可划分为路端产业链和车端产业链两部分。在北...
- ## [加油站不能扫码支付?这个位置可以](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=SDn0pnVw4v-ijuHkV3t5xlAxTqD5cI2rPw6JfzTeg-tknIViaYIKRHFcYGU**04pLtbZLsiiMecFzjhpSm38pZItC3jM37dgo3wmK4hIRlMPSAWbHzSgcigxV-CPioLn&new=1)
+ ## [加油站不能扫码支付?这个位置可以](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=SDn0pnVw4v-ijuHkV3t5xlAxTqD5cI2rPw6JfzTeg-tob*YOzcMLYRs8QZG2DylKZC1jADxOi*OWrlajkCsZnYdXjQ1r47Qg6TRv27tinnVk*UkQBQ673Q83l0GiRrFF&new=1)
  > 给爱车加油时，通过扫描加油机上的二维码支付油费已经成为很多车主的习惯，而近日，天津市安委会办公室发布了《关于进一步加强加油站安全管理工作的通知》（以下简称《通知》），其中，严禁使用非防爆型移动通信...
- ## [刚刚，中国联通召开重要会议，王晓初宣布..](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=2bDEp7R5fT8R5*C2tGitdQSBCbYVvm-p*NyMVxZZiXy31Of0eFUdzI87d7x09ZktldpNKFXfxchGUf0orja3kGEo2ZKd3l68t0Gyjfk1iFLNKGj2kwSFyHsRaskarN2A&new=1)
+ ## [刚刚，中国联通召开重要会议，王晓初宣布..](http://mp.weixin.qq.com/s?src=11&timestamp=1597998605&ver=2535&signature=2bDEp7R5fT8R5*C2tGitdQSBCbYVvm-p*NyMVxZZiXzehxaZLFnnB7mEgk12Jv*y-L5ozcCWWkxlvk81lKR3pGHobPrgJzzdS1bPsqJ9QPJ9KZ*Bc9KV3m0UkiYRSE3P&new=1)
  > 8月18日，以“5G赋能，智联未来”为主题的中国联通5G＋工业互联网应用推进大会成功召开。会上，中国联通正式推出了“5G+工业互联网行动计划”和“5G+工业互联网应用场景联合创新计划”，重磅发布了三款“5G专网...
- ## [直播预告|机器人创新生态携手深圳人工智能行业协会、科沃斯商用机器人高管同台直播，线上直播研讨会正式开启招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1597982405&ver=2535&signature=dUicJQ0KJDKLBBojLvZ4pgnZdd3JJUpJe09w6j*mesJTd83w1ajrkMRYLyH4SGp89E4dh8Kr9mRRttbbLcnSnvId9*4UgkbqToBbXvswVgRL-Yik3OruTvpLWwTlsQ-8&new=1)
- > 2020年英特尔智能机器人产学研生态合作研讨会已经过半，英特尔&amp;硬蛋机器人创新生态联和数十家生态合作伙伴打造的合作研讨会，目前已累计为超7,000名机器人产业从业者提供了学术交流、技术培训和资源对接机会，助...
 # IT 技术 
  ## [数据中心微电网运行起来更加高效](http://server.51cto.com/Datacenter-624298.htm)
  > 数据中心微电网运行起来更加高效
@@ -43,59 +61,59 @@ categories: IT NEWS
  > 物联网罕见技术表现形式，连接设备如何启用超定向营销消息传递
  ## [高温天火患不断，消防机器人挺身救难](http://ai.51cto.com/art/202008/624267.htm)
  > 高温天火患不断，消防机器人挺身救难
- ## [MaxScale读写分离项目实施与维护_MySQL高可用复制与分布式集群架构08](http://fellow.51cto.com/art/202008/623596.htm?qd=51ctojrzd)
- > MaxScale读写分离项目实施与维护_MySQL高可用复制与分布式集群架构08
- ## [甲骨文与微软的TikTok之争](http://news.51cto.com/art/202008/624374.htm)
- > 自从在美国陷入被禁或被卖的两难境地以来，TikTok就成了美国各大科技巨头争相角逐的对象，而一向与消费者业
- ## [Wi-Fi 6和5G融合到底是什么样子？](http://network.51cto.com/art/202008/624373.htm)
- > 当谈到Wi-Fi6和5G在未来网络中将如何协同工作时，共存是业内人士的常见诊断，也是当今唯一真正存在的Wi-Fi
- ## [企业物联网安全的未来是什么？](http://iot.51cto.com/art/202008/624370.htm)
- > 企业物联网（IoT）安全的未来是什么？为什么物联网安全比以往任何时候都重要？
- ## [云计算的主要挑战以及如何应对](http://cloud.51cto.com/art/202008/624367.htm)
- > 研究表明，云计算的成本优化仍然是企业面临的主要问题。如今的云计算技术正在不断地发展和变化。如果人们密
- ## [评论：谁是5G第一城？](http://network.51cto.com/art/202008/624366.htm)
- > 根据预测，未来5G的80%的应用场景在工业领域，5G将极大地促进工业互联网现有连接模式的转变，它的速率、容
- ## [5G时代，4G将淘汰？4G手机会不会像2g，突然"失去网络"](http://network.51cto.com/art/202008/624365.htm)
- > 我国5G正式商用已经1年了，随着各大运营商陆续推出各种5G套餐、各大手机厂商接连发布各型号5G旗舰机型，手
- ## [微信为什么隐藏点赞和评论功能？来看高手的分析！](http://mobile.51cto.com/hot-624363.htm)
- > 读者提问：呆总，微信为什么隐藏点赞和评论功能?我个人觉得，这是一个非常古老且基础的问题了，网上有很多
- ## [机器学习的五个成功案例](http://ai.51cto.com/art/202008/624362.htm)
- > IT领导者们分享了使用人工智能和机器学习来获得业务洞察的方法。随着组织越来越多地利用技术来更好地预测客
- ## [7月份中国移动数据出炉 用户锐减速度仍在加剧](http://network.51cto.com/art/202008/624360.htm)
- > 近日，中国移动公布了7月的运营数据，其中当月移动客户净减36.4万户，累计达到9.46375亿户。
- ## [软件即服务 SaaS云模式发展步入红利期](http://cloud.51cto.com/art/202008/624357.htm)
- > 企业上云热潮涌动，各类细分云应用市场也迎来了发展新机遇。公有云、私有云、混合云，哪类云服务较受欢迎呢
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [R语言作图：如何在数据可视化过程中调整因子顺序](http://bigdata.51cto.com/art/202008/624385.htm)
+ > 今天的内容依然是来自《R for datascience》，目前已经看到了15.4了，每次遇到比较有意思的我自己不会的操
+ ## [新里程碑！IBM宣布最高量子体积64，把霍尼韦尔从世界最强宝座拉下来](http://news.51cto.com/art/202008/624391.htm)
+ > 刚刚，IBM宣布达到了量子计算新的里程碑，目前最高的64量子体积。与去年相比，其量子计算机的性能又提高了
+ ## [5G Open RAN到底是什么？](http://network.51cto.com/art/202008/624384.htm)
+ > 本文探讨了5G实现Open RAN架构的优势、原理、结构组件以及对Open RAN组件进行一致性和互操作性测试的重要性
+ ## [PyTorch实现，GitHub 4000星：这是微软开源的计算机视觉库](http://news.51cto.com/art/202008/624392.htm)
+ > 本文介绍了微软开源的计算机视觉库，它囊括了计算机视觉领域的最佳实践、代码示例和丰富文档。
+ ## [浏览器内核发展编年史](http://os.51cto.com/art/202008/624383.htm)
+ > 我们每天都在使用浏览器浏览各种各样的网页，而每个页面都是由代码组成，点击浏览器右键查看源代码，可以看
+ ## [300行代码实现“迷你版GPT”，上线三天收获3.3k星](http://news.51cto.com/art/202008/624389.htm)
+ > “GPT并不是一个复杂的模型。”Karpathy这样说是有底气的，因为他自己只用大约300行PyTorch代码就实现了一
+ ## [100行Python代码实现人体肤色检测](http://developer.51cto.com/art/202008/624382.htm)
+ > 本文中的人体肤色检测功能采用 OpenCV 库实现。OpenCV是一个基于BSD许可（开源）发行的跨平台计算机视觉库
+ ## [Web3.0，区块链后花园的姹紫嫣红](http://zhuanlan.51cto.com/art/202008/624386.htm)
+ > 当时，美国有一台中央计算机控制其核武器。美国政府担心，一次攻击就可能使该计算机系统瘫痪，使得他们无法
+ ## [GPT-3主导编程：AI会扼杀编码工作吗？](http://ai.51cto.com/art/202008/624381.htm)
+ > 早在2017年就曾有研究人员问道：“到2040年人工智能会写出大部分代码吗?”如今，OpenAI的GPT-3已被beta测试
+ ## [C++教程：C++中的If Else语句](http://os.51cto.com/art/202008/624380.htm)
+ > 在这个C++教程中，我们将讨论C++中的If Else语句。使用条件语句，我们可以根据条件执行代码的某些部分。特
 # 人工智能 
- ## [探索浏览器页面关闭window.close()的使用](https://blog.csdn.net/qq_43624878/article/details/108092477)
- > 探索浏览器页面关闭window.close()的使用
- ## [前端小知识点汇总，常忘记的知识点汇总（面试，笔试）学习笔记（一）](https://blog.csdn.net/qq_42285889/article/details/108092226)
- > 前端小知识点汇总，常忘记的知识点汇总（面试，笔试）学习笔记（一）
- ## [fetch的GET和POST请求](https://blog.csdn.net/weixin_44348028/article/details/108104296)
- > fetch的GET和POST请求
- ## [Canvas波浪花环](https://blog.csdn.net/weixin_45820444/article/details/108134954)
- > Canvas波浪花环
- ## [JavaScript专题之聊一聊数据类型检测的那些事（系列六）](https://blog.csdn.net/jbj6568839z/article/details/108130316)
- > JavaScript专题之聊一聊数据类型检测的那些事（系列六）
- ## [提升布局能力！理解 CSS 的多种背景及使用场景和技巧](https://blog.csdn.net/qq449245884/article/details/108068794)
- > 提升布局能力！理解 CSS 的多种背景及使用场景和技巧
- ## [纯CSS实现图片百叶窗展示效果](https://blog.csdn.net/qq_43377853/article/details/108083812)
- > 纯CSS实现图片百叶窗展示效果
- ## [wordpress自定义网站背景颜色和图片](https://blog.csdn.net/zcp528/article/details/108115736)
- > wordpress自定义网站背景颜色和图片
- ## [一分钟带你简单了解jQuery](https://blog.csdn.net/Turniper/article/details/108120821)
- > 一分钟带你简单了解jQuery
- ## [JavaScript 进阶教程(1)--面向对象编程](https://blog.csdn.net/qq_23853743/article/details/108034430)
- > JavaScript 进阶教程(1)--面向对象编程
- ## [functioss.php自定义函数实现wordpress面包屑导航](https://blog.csdn.net/zcp528/article/details/108115817)
- > functioss.php自定义函数实现wordpress面包屑导航
- ## [wordpress添加Body Classes](https://blog.csdn.net/zcp528/article/details/108115919)
- > wordpress添加Body Classes
- ## [javascript面试必备知识（5）手撕js面试常见题型](https://blog.csdn.net/gitchatxiaomi/article/details/108036594)
+ ## [RTSA作下变频器的技术实现](https://blog.csdn.net/weixin_43123641/article/details/108122341)
+ > RTSA作下变频器的技术实现
+ ## [传统蓝牙SDP协议详细介绍](https://blog.csdn.net/XiaoXiaoPengBo/article/details/107847321)
+ > 传统蓝牙SDP协议详细介绍
+ ## [智慧工厂转型——实际案例5则（上篇）](https://blog.csdn.net/Hongke_IIOT/article/details/108117637)
+ > 智慧工厂转型——实际案例5则（上篇）
+ ## [STM32电机测速（正交或者霍尔编码器）](https://blog.csdn.net/zhao_ke_xue/article/details/108112420)
+ > STM32电机测速（正交或者霍尔编码器）
+ ## [使用ROS2机器人操作系统进行多机器人编程技术实践（Multi-Robot Programming Via ROS2 ）](https://blog.csdn.net/ZhangRelay/article/details/108110955)
  > 
- ## [算法探索_反转链表](https://blog.csdn.net/qq_39731011/article/details/108122627)
- > 算法探索_反转链表
- ## [「VUE」前端实现真正的无感打印（可打印dom、file、url) CSDN首发](https://blog.csdn.net/gpj065/article/details/107999047)
+ ## [国标协议GB28181流媒体服务视频云服务EasyGBS平台如何开启“演示”模式？](https://blog.csdn.net/EasyGBS/article/details/108123180)
+ > 国标协议GB28181流媒体服务视频云服务EasyGBS平台如何开启“演示”模式？
+ ## [用Powershell命令批量获取域客户端某个补丁是否安装](https://blog.csdn.net/u013956462/article/details/108115684)
+ > 用Powershell命令批量获取域客户端某个补丁是否安装
+ ## [VB.NET使用S7.NET.dll连接西门子PLC200、200smart、300、400、1200](https://blog.csdn.net/Alice_CG/article/details/108105311)
+ > VB.NET使用S7.NET.dll连接西门子PLC200、200smart、300、400、1200
+ ## [thinkphp5.0.*和workerman的使用](https://blog.csdn.net/chewphone/article/details/108126483)
  > 
+ ## [树莓派开发—继电器](https://blog.csdn.net/lcx1837/article/details/108123185)
+ > 树莓派开发—继电器
+ ## [我所了解的EC](https://blog.csdn.net/weixin_45694615/article/details/108121068)
+ > 我所了解的EC
+ ## [STM32CubeMX 实战教程：串口通信实验](https://blog.csdn.net/Brendon_Tan/article/details/108121468)
+ > STM32CubeMX 实战教程：串口通信实验
+ ## [物联网SIM卡和SIM卡真的不是一回事](https://blog.csdn.net/devcloud/article/details/108130115)
+ > 物联网SIM卡和SIM卡真的不是一回事
+ ## [STM32 MPU6050数据获取、数据处理](https://blog.csdn.net/zhao_ke_xue/article/details/108136979)
+ > STM32 MPU6050数据获取、数据处理
+ ## [Arduino IDE配置STM32开发环境和程序烧录](https://blog.csdn.net/Hot_Ant/article/details/108122317)
+ > Arduino IDE配置STM32开发环境和程序烧录
 # PM 
  ## [解读淘宝评价功能的设计思路](http://www.chanpin100.com/article/112541)
  > 作者：杜昭 公众号：设计的威严
@@ -109,19 +127,5 @@ categories: IT NEWS
  > 产业变迁、技术更迭、新行业涌现，求职招聘到底怎么“玩”？
  ## [2020上半年中国移动游戏市场盘点分析|产品数量持续化减少](http://www.chanpin100.com/article/112540)
  > 简介：2020年上半年，在在线经济持续火热的背景下，在高质量产品的积极推动下，移动游戏市场迎来了自2017年以来的增速新高，市场规模达1206.32亿元，同比增长率达40.85%，成为了2020年上半年增长最…
- ## [你凭什么进大厂？](http://www.chanpin100.com/article/112479)
- > 挑战和机遇并存
- ## [解读闲鱼详情页改版，更有效率的沟通方式](http://www.chanpin100.com/article/112530)
- > 作者：杜昭 公众号：设计的威严
- ## [A/B实验，了解一下。](http://www.chanpin100.com/article/112526)
- > 不会做的时候选C
- ## [如何让业务在短期内核心数据增长近40%](http://www.chanpin100.com/article/112532)
- > 如何透过业务目标和业务阶段，发现并定位到业务Magic Number和北极星指标，成为驱动业务增长拐点的必经之路。
- ## [轻教程|2分钟教你如何突破App分享界限，利用口令闭环玩转裂变](http://www.chanpin100.com/article/112524)
- > 随着部分社交平台对链接分享的限制越来越严格，致使用户使用App体验感差，甚至惨遭弃用。今天，小编就将结合MobTech开发者所研发【ShareSDK】的口令闭环功能，来演示如何突破短链分享的弊端。
- ## [苹果调整关键词覆盖算法，爱奇艺遭美证监会调查丨每周热点](http://www.chanpin100.com/article/112509)
- > 新一期ASO周报来了！
- ## [产品经理OKR实战](http://www.chanpin100.com/article/112527)
- > 产品经理制定的OKR，对组织发展有重大的意义，它能促使产品经理，产品团队，乃至是公司全体员工走出舒适区，超越能力边界。正因为挑战的存在，才使得产品经理才有忧患意识，不断改进产品，从而适应竞争激烈的市场。只有不断改善、创新和突破，才能让产品经理的能力不断提升，才能持续发展。
 
     
