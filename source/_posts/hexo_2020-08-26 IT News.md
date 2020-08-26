@@ -1,82 +1,90 @@
 ---
 title: 2020-08-26 IT News
 copyright: true
-date: 2020-08-26 09:01:36
+date: 2020-08-26 10:02:46
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为赢了!深圳突然重大宣布，特朗普或坐不住了..](http://mp.weixin.qq.com/s?src=11&timestamp=1598403605&ver=2545&signature=A*oW1yE8-WirA2HU2mczSuBiBs02ddUNMzPD7vIpaY1kdOYoicJcr0zxecIO7XumsAh1-NxcW3CJFm7VFMVjTkp1ePphVLa-AxEQkPZ*oHCgY4pu1Re9HKfjMkOrFNQg&new=1)
- > 作者：要参君一太快了！所有人都知道要来，却没想到来得那么快。刚刚，深圳传来重磅好消息：深圳建成超4.6万个5G基站，实现全市5G基础设施全覆盖。在基础建设推进的同时，当地在行业应用上不断探索。目前，深圳...
- ## [TikTok 被盯上原来是扎克伯格背后搞的鬼?](http://mp.weixin.qq.com/s?src=11&timestamp=1598403605&ver=2545&signature=i43-XCyDZM8TBkgU1dFJfvdeJNgoTxe7-v69rbLrt9K-8EcJkSLj0NDtLC535VLQWVfzYfGPMuqo1A5mwzdv3nL-5DOC9S7QH2FXryTVfgg3wGoeDOUXvUZL4IivEOGT&new=1)
+ ## [TikTok 被盯上原来是扎克伯格背后搞的鬼?](http://mp.weixin.qq.com/s?src=11&timestamp=1598406752&ver=2545&signature=i43-XCyDZM8TBkgU1dFJfvdeJNgoTxe7-v69rbLrt9K-8EcJkSLj0NDtLC535VLQzhgnkt*nvRvAeqx7ATMkAncGe7nm4FpzEOwW5B1QpUbRoNjq0-SVxpg3KvNdXEbn&new=1)
  > 所谓包裹在「爱国主义」下的慷慨之词，恐怕只不过是他作为商人，为自己逐利的目标打的一个幌子罢了。TikTok 和美国政府的对峙还在进行中。8 月 23 日，在特朗普连续颁发行政令封杀 TikTok 后，字节跳动已经发布...
- ## [数据港上半年净利润同比减少12%，一季度阿里巴巴贡献九成收入](http://mp.weixin.qq.com/s?src=11&timestamp=1598403605&ver=2545&signature=bYs3mzjfYFjAOXWu7UO3HCaPwqyBWcqjlyNMRf7EzeA7siHzEh5yJADM8hWzSO92M2WdNKNpETGfaENmqVBJJUrTZktHf23i5mtX-QIGCnkRTvNFd-oLdodLpbYSVRuP&new=1)
+ ## [数据港上半年净利润同比减少12%，一季度阿里巴巴贡献九成收入](http://mp.weixin.qq.com/s?src=11&timestamp=1598406752&ver=2545&signature=bYs3mzjfYFjAOXWu7UO3HCaPwqyBWcqjlyNMRf7EzeA7siHzEh5yJADM8hWzSO92kWk-qlhFaWw5x9akAWzSEsBlKpcKdzbSQJrPoUG2l9TKr7MzLBYrDiP9r5*ssMQa&new=1)
  > 蓝鲸财经旗下，专注互联网金融领域独家报道，大大集团、中晋、快鹿、链家金融、海通布局互金等独家线索均已10万+并引起大量媒体跟进。蓝鲸是重要财经资讯门户+财经记者工作平台，拥有150家媒体传播资源，每天有...
- ## [25年前的今天，微软发布了这款产品，开创了一个时代](http://mp.weixin.qq.com/s?src=11&timestamp=1598403605&ver=2545&signature=Gt36orObfGE*6L9AmE3IihY1Tc7ICFCX3J2bXsnIYkqjikbuNbjOBR3X3*HjFLNvwnP-*RS-lxJBpnEbSoyM6uhcWBgiVkHrvspbGkvBmWBRAwW*4RQOqTcJcJgWlKtg&new=1)
+ ## [\[报告\]2020年汽车轻量化行业深度分析(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1598406752&ver=2545&signature=TnIcJmEtq0cca213PUrjKL2Dh4NA*o35u9X-jK0G*w0VBAYR05Hmrn7tpzW9A-OzX5EcjDZSbfdqN3QvoHecVqaIwFwAXgZhK-jzSKscf7wLZ60QpR4bQr55SKcCUq-5&new=1)
+ > 在节能减排政策与电动化加速的驱动下，汽车轻量化正在加速。本篇深度报告从电动化加速发展下的视角洞察产业，解析驱动因素、实现途径、应用领域等要素的变化与趋势，汽车轻量化主要通过采用轻量化材料搭配特定的...
+ ## [华为赢了!深圳突然重大宣布，特朗普或坐不住了..](http://mp.weixin.qq.com/s?src=11&timestamp=1598406752&ver=2545&signature=A*oW1yE8-WirA2HU2mczSuBiBs02ddUNMzPD7vIpaY1kdOYoicJcr0zxecIO7Xumpc87GlR7EisCHWSMCIMX*nQZaNF4fH6SMx3WKEELaRwvncN8QwMc-m0YkF5j521C&new=1)
+ > 作者：要参君一太快了！所有人都知道要来，却没想到来得那么快。刚刚，深圳传来重磅好消息：深圳建成超4.6万个5G基站，实现全市5G基础设施全覆盖。在基础建设推进的同时，当地在行业应用上不断探索。目前，深圳...
+ ## [台积电一骑绝尘，正规划未来2nm生产基地](http://mp.weixin.qq.com/s?src=11&timestamp=1598406752&ver=2545&signature=75GmLX3ZnkqNE7-8t6KpVTRTUQi2HHw*Qo9MxZGqWsXFsH9KvLmWWfC41n66fdYeumWvHY9Iu56*089YEUceaP7kcneBzqZyZMISuuo2V9g=&new=1)
+ > 经济观察网 记者 陈秋 今日，据报道称，台积电高级副总裁Kevin Zhang在预先录制的视频中表示，新的台湾研发中心将有一条先进生产线，拥有8千名工程师，该设施将专注于研究2nm芯片等产品，公司正在为新研发中心旁...
+ ## [25年前的今天，微软发布了这款产品，开创了一个时代](http://mp.weixin.qq.com/s?src=11&timestamp=1598406752&ver=2545&signature=Gt36orObfGE*6L9AmE3IihY1Tc7ICFCX3J2bXsnIYkqjikbuNbjOBR3X3*HjFLNvd*fFY90uJVH68Ifj1xY1lf4u6FxI1HAU0KGX9UFpQfn*WmxzPaKwFmzyHyE*q03n&new=1)
  > windows95宣传片今天，微软公布了一段视频，以展示 Windows 在过去 30 年中的发展历程。来源：IT之家北京时间 8 月 25 日消息 微软推出 Windows 95 已经 25 年了。Windows 95 将标志性的“开始”
 # IT 技术 
  ## [用容器与微服务安全来加持DevSecOps](http://developer.51cto.com/art/202008/624672.htm)
  > 用容器与微服务安全来加持DevSecOps
+ ## [国产操作系统不仅仅是换皮肤](http://os.51cto.com/art/202008/624584.htm)
+ > 国产操作系统不仅仅是换皮肤
+ ## [物联网数据：最大化其价值](http://iot.51cto.com/art/202008/624590.htm)
+ > 物联网数据：最大化其价值
  ## [我在2020年发现的10款免费开源软件（FOSS）程序](http://developer.51cto.com/art/202008/624668.htm)
  > 我在2020年发现的10款免费开源软件（FOSS）程序
- ## [云计算的安全挑战及其解决方案](http://cloud.51cto.com/art/202008/624572.htm)
- > 云计算的安全挑战及其解决方案
- ## [两个月新增 80 万行代码，Linux 内核为什么不会崩？](http://news.51cto.com/art/202008/624511.htm)
- > 两个月新增 80 万行代码，Linux 内核为什么不会崩？
- ## [如何配置Windows Sandbox设置？](http://os.51cto.com/art/202008/624569.htm)
- > 如何配置Windows Sandbox设置？
- ## [35岁，互联网人的分水岭](http://news.51cto.com/art/202008/624457.htm)
- > 35岁，互联网人的分水岭
- ## [如何理解JavaScript中的对象?](http://developer.51cto.com/art/202008/624439.htm)
- > 如何理解JavaScript中的对象?
- ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
- > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
- ## [React Spectrum，Adobe的组件库和工具入门](http://developer.51cto.com/art/202008/624712.htm)
- > React Spectrum是一个由Adobe开发的组件库和工具，可帮助你构建自适应，可访问且健壮的用户体验。帮助开发
- ## [Node 脚本遭遇异常时如何安全退出](http://developer.51cto.com/art/202008/624711.htm)
- > 一个 Node 相关的项目中，总是少不了跑脚本。跑一个脚本拉取配置、处理一些数据以及定时任务更是家常便饭。
- ## [TikTok正式起诉特朗政府，公开诉讼书控诉三大罪状](http://zhuanlan.51cto.com/art/202008/624703.htm)
- > 美国当地时间8月24日，TikTok正式对美国政府发起诉讼，指控特朗普政府绕开了正当程序，利用紧急经济权力发
- ## [后冠状病毒时代的物联网](http://iot.51cto.com/art/202008/624701.htm)
- > 当我们回到办公室时，物联网将如何帮助我们应对冠状病毒?LPWAN(更具体地说是LoRaWAN)，公司正在利用其创新
- ## [影响物联网设备未来管理方式的三个主要因素](http://iot.51cto.com/art/202008/624698.htm)
- > 组织必须采取积极主动的方法来减轻互联技术带来的日益增长的网络风险。以下是影响物联网设备未来管理方式的
- ## [七夕之夜，如何保证私密信息不泄露？](http://zhuanlan.51cto.com/art/202008/624707.htm)
- > 七夕之夜，想和另一半聊一些私密的话，如何保证聊天内容不被黑客窥探，看完此文，终于略知一二了。
- ## [为什么到了打破界限来释放物联网全部潜力的时机了？](http://iot.51cto.com/art/202008/624706.htm)
- > 全球移动通信系统（GSM）的推出为电信行业开辟了新纪元。通过在生态系统中引入互操作性，提供了全球标准化
- ## [选择服务网格的注意事项](http://developer.51cto.com/art/202008/624704.htm)
- > 服务网格是近年来火热的技术之一，并且格局在不断变化中。可选择的服务网格选项也不少。但总要根据自己的需
+ ## [人工智能加快DevOps的10种方式](http://ai.51cto.com/art/202008/624647.htm)
+ > 人工智能加快DevOps的10种方式
+ ## [为什么网络安全对于智慧城市至关重要？](http://netsecurity.51cto.com/art/202008/624626.htm)
+ > 为什么网络安全对于智慧城市至关重要？
+ ## [改进数字转型投资回报率的7种方法](http://news.51cto.com/art/202008/624623.htm)
+ > 改进数字转型投资回报率的7种方法
+ ## [图解Python（4）（高级进阶篇）](http://fellow.51cto.com/art/202008/622834.htm?qd=51ctojrzd)
+ > 图解Python（4）（高级进阶篇）
+ ## [物联网僵尸网络：智能家居面临新型网络攻击](http://iot.51cto.com/art/202008/624726.htm)
+ > 智能设备使房主能够提高效率并最大程度地减少其碳足迹，但是，这些基于互联网的技术为网络攻击和犯罪活动创
+ ## [俄罗斯正式表态：将与华为开展5G合作！](http://news.51cto.com/art/202008/624725.htm)
+ > 日前，俄罗斯外长拉夫罗夫在一个年轻人教育论坛上宣布，俄罗斯准备与中国以及华为公司在5G技术方面开展合作
+ ## [中国广电5G 700MHz建设 遇“冰与火”之歌](http://network.51cto.com/art/202008/624724.htm)
+ > 近期，手握700MHz的“新入局者”中国广播电视网络有限公司(以下简称中国广电)遭遇“冰与火”之歌，成功打通
+ ## [基站建设进度超预期 5G带来了哪些变化](http://network.51cto.com/art/202008/624723.htm)
+ > “我国5G基站建设进度超预期，截至7月底累计终端连接数达到8800万。”工信部副部长辛国斌近日接受记者采访
+ ## [Linux 基金董事会：是时候改变 Linux 内核的贡献方式了](http://os.51cto.com/art/202008/624722.htm)
+ > 近日，来自微软的 Linux 基金董事会成员 Sarah Novotny 在接受外媒 TheRegister 采访时提出，“Linux 内核
+ ## [iOS 14 Beta 6 发布，新增空间音频等 7 项改进](http://mobile.51cto.com/iphone-624721.htm)
+ > 没想到 Beta 6 来得如此突然。和往常两周一更新不同。这次距离上次更新仅仅过了一周时间。如果没有预计错误
+ ## [Linux互斥锁之线程互斥锁](http://os.51cto.com/art/202008/624720.htm)
+ > 在编程中，引入了对象互斥锁的概念，来保证共享数据操作的完整性。每个对象都对应于一个可称为&quot; 互斥锁&quot;
+ ## [有点味道"厕所革命"，这个物联网的刚需市场有多大？](http://iot.51cto.com/art/202008/624715.htm)
+ > 解决如厕这个刚需问题的思路，大致都脱离不了找厕所、找坑位、蹲下等几个步骤，我们也看到了在很多地区都实
+ ## [洗劫58亿比特币的黑客组织再次行动，通过虚假工作锁定攻击目标](http://netsecurity.51cto.com/art/202008/624714.htm)
+ > 在美国，英国，德国，新加坡，荷兰，日本和其他国家，针对不断发展的鱼叉式网络钓鱼活动使用LinkedIn诱饵时
+ ## [HTTP 3即将发布](http://network.51cto.com/art/202008/624713.htm)
+ > HTTP 3是一个尚未出现的协议。但是，我注意到YouTube在Chrome浏览器中已经使用了HTTP 3(不过不确定其他人!)
 # 人工智能 
- ## [【5G核心网】 Deregistration procedures注销流程](https://blog.csdn.net/zhonglinzhang/article/details/108198107)
- > 【5G核心网】 Deregistration procedures注销流程
- ## [从超融合到全面云化，深信服云计算战略与品牌双升级](https://blog.csdn.net/csdnnews/article/details/108186837)
- > 从超融合到全面云化，深信服云计算战略与品牌双升级
- ## [中标2020中国联通数据设备集采项目，中兴通讯备受鼓舞](https://blog.csdn.net/qq_41689867/article/details/108183216)
- > 中标2020中国联通数据设备集采项目，中兴通讯备受鼓舞
- ## [智慧路灯杆在智慧城市中的应用](https://blog.csdn.net/IOT_baimatech/article/details/108185577)
- > 智慧路灯杆在智慧城市中的应用
- ## [5G MEC边缘云组网方案与业务案例分析](https://blog.csdn.net/hehj369986957/article/details/108188100)
- > 5G MEC边缘云组网方案与业务案例分析
- ## [管掌柜以“智变”引领“质变” ，南宁管道交易模式即将加速升级](https://blog.csdn.net/guanzhanggui/article/details/108196776)
- > 管掌柜以“智变”引领“质变” ，南宁管道交易模式即将加速升级
- ## [软件设计师之计算机网络------网络接入技术](https://blog.csdn.net/gouzhengju1454/article/details/108180405)
- > 软件设计师之计算机网络------网络接入技术
- ## [5寸安卓医疗手持终端 轻薄信息采集医疗手机](https://blog.csdn.net/m0_49714641/article/details/108184759)
- > 5寸安卓医疗手持终端 轻薄信息采集医疗手机
- ## [直播带货时画质总是太差，你的视频转码方案可能要换了](https://blog.csdn.net/devcloud/article/details/108192958)
- > 直播带货时画质总是太差，你的视频转码方案可能要换了
- ## [人工智能70年商业变现艰难，新基建能否催生规模化落地？](https://blog.csdn.net/ctrigger/article/details/108179218)
- > 人工智能70年商业变现艰难，新基建能否催生规模化落地？
- ## [园区网络进入Gbps无线时代，海量流量应对如何So Easy](https://blog.csdn.net/dobigdata/article/details/108186120)
- > 园区网络进入Gbps无线时代，海量流量应对如何So Easy
- ## [华为mate40什么时候上市 华为mate40 参数配置爆光](https://blog.csdn.net/m0_50201498/article/details/108201118)
- > 华为mate40什么时候上市 华为mate40 参数配置爆光
- ## [realmev5和iqooz1x 哪个好](https://blog.csdn.net/m0_50307601/article/details/108204129)
- > realmev5和iqooz1x 哪个好
- ## [EasyStack at OpenInfra:信创机遇下，打造ARM架构产品化最佳实践](https://blog.csdn.net/k8scaptain/article/details/108184986)
- > EasyStack at OpenInfra:信创机遇下，打造ARM架构产品化最佳实践
- ## [第七章 无线与移动网络](https://blog.csdn.net/shaopengjie2/article/details/108193193)
- > 第七章 无线与移动网络
+ ## [Android在一个类中使用Toast，信息显示在另一个Activity上](https://blog.csdn.net/Cyril_KI/article/details/108186566)
+ > Android在一个类中使用Toast，信息显示在另一个Activity上
+ ## [iOS app侧对请求参数进行签名：【请求参数按照ASCII码从小到大排序、拼接、加密】（递归的方式进行实现）](https://blog.csdn.net/u011018979/article/details/108195721)
+ > iOS app侧对请求参数进行签名：【请求参数按照ASCII码从小到大排序、拼接、加密】（递归的方式进行实现）
+ ## [Android View的scrollTo()、scrollBy() 和Scroller类总结](https://blog.csdn.net/u010660841/article/details/108194637)
+ > Android View的scrollTo()、scrollBy() 和Scroller类总结
+ ## [用android studio写一个简单的计算器（没有bug）](https://blog.csdn.net/weixin_46059907/article/details/108179940)
+ > 用android studio写一个简单的计算器（没有bug）
+ ## [Android Studio之回退Gradle版本方法  （Minimum supported Gradle version is 4.10.1. Current version is 4.6.）](https://blog.csdn.net/m0_38025747/article/details/86684200)
+ > Android Studio之回退Gradle版本方法  （Minimum supported Gradle version is 4.10.1. Current version is 4.6.）
+ ## [SurfaceView 的基本使用](https://blog.csdn.net/lixiong0713/article/details/108194954)
+ > SurfaceView 的基本使用
+ ## [JS 按比例缩小图片宽高](https://blog.csdn.net/xxs18326183038/article/details/108185276)
+ > JS 按比例缩小图片宽高
+ ## [重学 Android 面试题](https://blog.csdn.net/ezconn/article/details/108183336)
+ > 重学 Android 面试题
+ ## [Android10外部存储问题解决方案](https://blog.csdn.net/lovelixue/article/details/108198684)
+ > Android10外部存储问题解决方案
+ ## [完整版MVP框架](https://blog.csdn.net/we1less/article/details/108194220)
+ > 完整版MVP框架
+ ## [关于C++文件方面的速成讲解](https://blog.csdn.net/clamber1314/article/details/108199435)
+ > 关于C++文件方面的速成讲解
+ ## [eclipse汉化 & eclipse汉化版退回英文版详细介绍](https://blog.csdn.net/qq_45797760/article/details/108035572)
+ > eclipse汉化 &amp; eclipse汉化版退回英文版详细介绍
+ ## [如何用Appium连接并操作手机App](https://blog.csdn.net/FFF_5/article/details/108198724)
+ > 如何用Appium连接并操作手机App
+ ## [NumberPicker数值选择器的功能与用法](https://blog.csdn.net/weixin_46157140/article/details/108192641)
+ > NumberPicker数值选择器的功能与用法
+ ## [安卓ADB和Fastboot最新官方下载链接](https://blog.csdn.net/qq_41730930/article/details/108185286)
+ > 安卓ADB和Fastboot最新官方下载链接
 
     
