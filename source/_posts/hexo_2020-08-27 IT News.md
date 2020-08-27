@@ -1,38 +1,42 @@
 ---
 title: 2020-08-27 IT News
 copyright: true
-date: 2020-08-27 08:02:34
+date: 2020-08-27 09:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [小科带你看北京科技周：高精尖产业跑出北京“加速度”](http://mp.weixin.qq.com/s?src=11&timestamp=1598484604&ver=2547&signature=KgoUkRdN2reV3xmtIg9ft3EZPYQJ9HLqrhY3PW1XtuzXCFwgULBmsobnyZUSOITTMJ1OGrVBxLQzAPOq2IsN2URNu5YiNHS4QuXfnGO54fsLSUl3mYlBGE1TvlDEmP-F&new=1)
- > 导语：北京科技周首次以“云上”的方式开展，以“科创号云上列车”为参观牵引，设置“科技主题专线”和“三城一区专线”两条参观专线，在各个“站点”展示200余个展项，直观展示北京科技成果，普及科学知识，体...
- ## [科普|中国第六代移动通信技术研发工作日前已正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1598484604&ver=2547&signature=GQ270uUCskfkigh9*nE3qOTVzuayLi12gwCU0rRYztMrXqdXKlnot-rBfZ9bwm0Fpw5qGbc3zM7TvtcDau1NmlWNwmBe8Gd8Delr147a2K5HkRk8IX1TDqq7sWWvrrN3&new=1)
+ ## [科普|中国第六代移动通信技术研发工作日前已正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=GQ270uUCskfkigh9*nE3qOTVzuayLi12gwCU0rRYztN1uZ-Ij5J1QyGEXeeWDsoKuPMuUlOnnZzYEnGf7ANIUW1Ea*lAagtmNwiWdmHzrmcNnh7gZYLz-oNxI-OxcUQ8&new=1)
  > 不点蓝字，我们哪来故事？2019年10月31日中国5G正式商用，3天后宣布6G正式启动研发，这波操作没毛病。抢跑在通信行业是常规操作，就看谁能先找到突破口。实际上按照央视的采访，我国在2017年年底就启动了6G的研...
- ## [锐科激光：连续激光器单季出货超6000台 高功率激光器销量同比倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1598484604&ver=2547&signature=IqXRmFadFFgxAdkC9*B6jQHtr6wGJFDeKv8bwikE4KLyK9DflmpGaplngtKdKD7FyMZtEtl1MwUW5Uwu6F5wlsG4u6hOnKj35SZCqqrNJ8ZSU5Xte1gx0xMywr-jo91C&new=1)
- > 8月26日晚，武汉锐科光纤激光技术股份有限公司发布2020年半年度报告。报告显示，锐科激光上半年实现营收7.09亿元，同比减少29.91%；归属于上市公司股东的净利润0.67亿元，同比减少69.33%业绩回顾：二季度业绩迅...
- ## [云XR如何成5G杀手级应用?解读中国移动与华为最新报告](http://mp.weixin.qq.com/s?src=11&timestamp=1598484604&ver=2547&signature=8qJzTLX2zTaIPrO2eaQuliv9-v-j6kyRcm*-OMf2B4VR4tunVCiaRIP5r6NIDoTqOZinBSM3k0TI4DzlMC9*R5VuQhmnTXzP3Kfea8kKL9BFnquIuPEVgk4SGgAjOxJW&new=1)
+ ## [云XR如何成5G杀手级应用?解读中国移动与华为最新报告](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=8qJzTLX2zTaIPrO2eaQuliv9-v-j6kyRcm*-OMf2B4XhgxcWsfw8rVlSYep*YEtCaOPkOa6RRDeBrgfuUKAOe9yo4u4rGGNf-yqX1lKgbLN*EuboiB5R79*1LAKvi8wp&new=1)
  > 大家都用过VR（虚拟现实）眼镜吗？几年前我玩过很多次，最初也觉的VR过山车等游戏很惊艳，但发现无论是VR视频舒适程度、内容种类、使用体验以及终端价格，都不吸引人。我之前买的VR产品，也是束之高阁，落满尘灰...
- ## [一文掌握数据分析知识体系](http://mp.weixin.qq.com/s?src=11&timestamp=1598484604&ver=2547&signature=HYOPVMCrdvuxLC4e2oPQRt3WDAPf*LjkRjJQZ5lyyyP5-zUHZQcvwOPY0qvjCU8G5hoK6*dnfPIUspfy1Rk79MUoa45dSLYQEPTeAKzlQRWqkTNpsUVqaARSm4Vennvu&new=1)
+ ## [一文掌握数据分析知识体系](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=HYOPVMCrdvuxLC4e2oPQRt3WDAPf*LjkRjJQZ5lyyyOTDXfuvzpj10p27dnxljay0oGuYmWkJYCdGGouv7oE3wAEIhgPlXihGoNhGUUybiuUQEpy7RbLbJ6*LgYmkQ31&new=1)
  > 阿里妹导读：什么是数据分析？需要掌握哪些技能？如何进行数据分析？本文全面梳理了数据分析知识体系，从数据分析的定义讲起，详细介绍了分析思维模型和经典分析模型及指标体系。一  数据分析定义数据分析是指有...
+ ## [小科带你看北京科技周：高精尖产业跑出北京“加速度”](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=KgoUkRdN2reV3xmtIg9ft3EZPYQJ9HLqrhY3PW1Xtux5Vv5wVabLkxxgfA-bgScYvWJAa66ME0pl2-A4JasMgIDifPx03Y1Zjr4WT2GM8xcm6MPtB0A1ixMtH7rmF0uQ&new=1)
+ > 导语：北京科技周首次以“云上”的方式开展，以“科创号云上列车”为参观牵引，设置“科技主题专线”和“三城一区专线”两条参观专线，在各个“站点”展示200余个展项，直观展示北京科技成果，普及科学知识，体...
+ ## [锐科激光：连续激光器单季出货超6000台 高功率激光器销量同比倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=IqXRmFadFFgxAdkC9*B6jQHtr6wGJFDeKv8bwikE4KKzan2-GJwknJRmV8W1pA4LLSb5MucHhjq9wRYwx0UZ25FiIbS6xygj*xxIJ2tprnkykVmeOqba4rDZmGZWkc97&new=1)
+ > 8月26日晚，武汉锐科光纤激光技术股份有限公司发布2020年半年度报告。报告显示，锐科激光上半年实现营收7.09亿元，同比减少29.91%；归属于上市公司股东的净利润0.67亿元，同比减少69.33%业绩回顾：二季度业绩迅...
 # IT 技术 
- ## [七种不同类型的游戏测试技术](http://developer.51cto.com/art/202008/624764.htm)
- > 七种不同类型的游戏测试技术
  ## [编写干净代码的重要性](http://developer.51cto.com/art/202008/624761.htm)
  > 编写干净代码的重要性
+ ## [为什么我要从 Windows 切换到 Linux?](http://os.51cto.com/art/202008/624731.htm)
+ > 为什么我要从 Windows 切换到 Linux?
+ ## [七种不同类型的游戏测试技术](http://developer.51cto.com/art/202008/624764.htm)
+ > 七种不同类型的游戏测试技术
+ ## [十年架构师耗尽心血带你如何进行微服务的单元、集成和系统测试？](http://developer.51cto.com/art/202008/624692.htm)
+ > 十年架构师耗尽心血带你如何进行微服务的单元、集成和系统测试？
+ ## [一个微服务业务系统的中台构建之路](http://news.51cto.com/art/202008/624776.htm)
+ > 一个微服务业务系统的中台构建之路
  ## [曾经，我以为我很懂MySQL索引...](http://database.51cto.com/art/202008/624729.htm)
  > 曾经，我以为我很懂MySQL索引...
- ## [用容器与微服务安全来加持DevSecOps](http://developer.51cto.com/art/202008/624672.htm)
- > 用容器与微服务安全来加持DevSecOps
- ## [国产操作系统不仅仅是换皮肤](http://os.51cto.com/art/202008/624584.htm)
- > 国产操作系统不仅仅是换皮肤
- ## [物联网数据：最大化其价值](http://iot.51cto.com/art/202008/624590.htm)
- > 物联网数据：最大化其价值
- ## [我在2020年发现的10款免费开源软件（FOSS）程序](http://developer.51cto.com/art/202008/624668.htm)
- > 我在2020年发现的10款免费开源软件（FOSS）程序
- ## [图解Python（4）（高级进阶篇）](http://fellow.51cto.com/art/202008/622834.htm?qd=51ctojrzd)
- > 图解Python（4）（高级进阶篇）
+ ## [机器学习操作正在兴起](http://ai.51cto.com/art/202008/624728.htm)
+ > 机器学习操作正在兴起
+ ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
+ > 极简JAVA一：JAVA入门视频课程
+ ## [MySQL安装部署，从半成品状态的改进](http://database.51cto.com/art/202008/624806.htm)
+ > 有时候突然会把几件不搭边的事情联系起来，竟然能够找到一些共通的地方。我在琢磨最近的几件事情的时候，脑
+ ## [MySQL如何实现无数据插入，有数据更新？我是这样回答的！](http://database.51cto.com/art/202008/624805.htm)
+ > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
  ## [一文帮你理解整个SRE运维体系](http://os.51cto.com/art/202008/624804.htm)
  > 在任何有一定规模的企业内部，一旦推行起来整个SRE的运维模式，那么对于可观测性系统的建设将变得尤为重要
  ## [5G技术之后，或许不会再有6G基站！为什么这样说？](http://network.51cto.com/art/202008/624803.htm)
@@ -40,36 +44,36 @@ categories: IT NEWS
  ## [摩托罗拉再发力：今年将推新款重返高端市场，你会买单吗？](http://mobile.51cto.com/news-624802.htm)
  > 摩托罗拉再发力：今年将推新款重返高端市场，你会买单吗?总的来说入局5G世界是一个前瞻性的选择，但是能不
 # 人工智能 
- ## [Python基础（元组、字典、集合、字符串中的基本方法）](https://blog.csdn.net/weixin_44781625/article/details/108205747)
- > Python基础（元组、字典、集合、字符串中的基本方法）
- ## [2020-8-25 夏令营Python第一节课](https://blog.csdn.net/weixin_44519789/article/details/108221800)
- > 2020-8-25 夏令营Python第一节课
- ## [Python办公自动化之Excel做表自动化：全网最全，看这一篇就够了！](https://blog.csdn.net/u014779536/article/details/108182833)
- > 
- ## [【剑指Offer】44. 数字序列中的某一位数字](https://blog.csdn.net/weixin_43469680/article/details/108230020)
- > 【剑指Offer】44. 数字序列中的某一位数字
- ## [如何用python制作贪吃蛇以及AI版贪吃蛇](https://blog.csdn.net/weixin_50259832/article/details/108166310)
- > 如何用python制作贪吃蛇以及AI版贪吃蛇
- ## [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://blog.csdn.net/c406495762/article/details/108142140)
- > 
- ## [学完Python，我决定熬夜整理这篇总结...](https://blog.csdn.net/xiaoma_2018/article/details/107799229)
- > 
- ## [宝塔面板7.4.2版本PMA漏洞批量扫描工具](https://blog.csdn.net/u012994510/article/details/108195453)
- > 宝塔面板7.4.2版本PMA漏洞批量扫描工具
- ## [Pandas如虎添翼！数据清洗新神器Pyjanitor](https://blog.csdn.net/sinat_33264502/article/details/108214036)
- > Pandas如虎添翼！数据清洗新神器Pyjanitor
- ## [用python爬猫眼电影，简单网站却有 “多重思路” ！](https://blog.csdn.net/qq_45906219/article/details/108226257)
- > 
- ## [拓展python爬虫（爬取图片）](https://blog.csdn.net/weixin_44781625/article/details/108222717)
- > 拓展python爬虫（爬取图片）
- ## [tensorflow2 中使用pydot绘制网络模型结构图](https://blog.csdn.net/oo_TeFuir_oo/article/details/107429733)
- > tensorflow2 中使用pydot绘制网络模型结构图
- ## [成功解决除去或展开pandas.core.frame.DataFrame输出类型中所包含的省略号(列数据或者行数据显示不完全)](https://blog.csdn.net/qq_41185868/article/details/108209740)
- > 成功解决除去或展开pandas.core.frame.DataFrame输出类型中所包含的省略号(列数据或者行数据显示不完全)
- ## [Python全栈（十）Django框架之2.URL与视图](https://blog.csdn.net/CUFEECR/article/details/108208727)
- > Python全栈（十）Django框架之2.URL与视图
  ## [PyQt转换显示Python-OpenCV图像实现图形化界面的视频播放](https://blog.csdn.net/LaoYuanPython/article/details/108210491)
  > PyQt转换显示Python-OpenCV图像实现图形化界面的视频播放
+ ## [采集、编码、组播 、推流和流媒体RTSP服务于一身的EasyScreenLive同屏功能组件为什么出现不能正常启动的情况？](https://blog.csdn.net/TsingSee/article/details/108214976)
+ > 采集、编码、组播 、推流和流媒体RTSP服务于一身的EasyScreenLive同屏功能组件为什么出现不能正常启动的情况？
+ ## [Qt音视频开发17-海康sdk解码](https://blog.csdn.net/feiyangqingyun/article/details/108213015)
+ > Qt音视频开发17-海康sdk解码
+ ## [VS2017配置opencv教程（图文详解）](https://blog.csdn.net/weixin_42693097/article/details/108210664)
+ > VS2017配置opencv教程（图文详解）
+ ## [sleep()方法和wait()方法的有什么区别](https://blog.csdn.net/weixin_43645876/article/details/108194407)
+ > sleep()方法和wait()方法的有什么区别
+ ## [西瓜视频如何在线批量下载，西瓜视频批量去水印教程](https://blog.csdn.net/MrsTang2020/article/details/108200727)
+ > 西瓜视频如何在线批量下载，西瓜视频批量去水印教程
+ ## [Android 音视频开发学习思路大纲](https://blog.csdn.net/ljx1400052550/article/details/108221547)
+ > Android 音视频开发学习思路大纲
+ ## [opencv4学习笔记（4）-鸡窝鸡蛋计数即相关参数心得](https://blog.csdn.net/qq_45701791/article/details/108225366)
+ > opencv4学习笔记（4）-鸡窝鸡蛋计数即相关参数心得
+ ## [怎么下载4K & 8K超高清60帧视频](https://blog.csdn.net/weixin_42309421/article/details/108217351)
+ > 怎么下载4K &amp; 8K超高清60帧视频
+ ## [RTMP推流直播互联网直播/点播平台EasyDSS直播界面如何分享视频流？出现乱码怎么办？](https://blog.csdn.net/EasyDSS/article/details/108216909)
+ > RTMP推流直播互联网直播/点播平台EasyDSS直播界面如何分享视频流？出现乱码怎么办？
+ ## [力扣\[LeetCode\].9. 回文数](https://blog.csdn.net/weixin_45488131/article/details/108229245)
+ > 力扣\[LeetCode\].9. 回文数
+ ## [TSINGSEE青犀视频官网全新改版即将上线，系统界面迎来整体升级](https://blog.csdn.net/TsingSee/article/details/108214068)
+ > TSINGSEE青犀视频官网全新改版即将上线，系统界面迎来整体升级
+ ## [PS图层混合模式MATLAB实现](https://blog.csdn.net/xsz591541060/article/details/108004221)
+ > PS图层混合模式MATLAB实现
+ ## [VS2015配置opencv教程（图文详解）](https://blog.csdn.net/weixin_42693097/article/details/108229190)
+ > VS2015配置opencv教程（图文详解）
+ ## [COMSOL提取全域的场强值并导出到文件 或者 提取某一点的属性值](https://blog.csdn.net/GENGXINGGUANG/article/details/108209493)
+ > COMSOL提取全域的场强值并导出到文件 或者 提取某一点的属性值
 # PM 
  ## [做了产品经理才知道的22件事儿](http://www.chanpin100.com/article/112522)
  > 需求评审会用时一定比预计的长，原定1小时的会议，往往两小时结束不了，最后会议结束不是需求讲完了，而是
