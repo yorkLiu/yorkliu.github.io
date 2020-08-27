@@ -1,20 +1,26 @@
 ---
 title: 2020-08-27 IT News
 copyright: true
-date: 2020-08-27 09:01:27
+date: 2020-08-27 10:02:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [科普|中国第六代移动通信技术研发工作日前已正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=GQ270uUCskfkigh9*nE3qOTVzuayLi12gwCU0rRYztN1uZ-Ij5J1QyGEXeeWDsoKuPMuUlOnnZzYEnGf7ANIUW1Ea*lAagtmNwiWdmHzrmcNnh7gZYLz-oNxI-OxcUQ8&new=1)
- > 不点蓝字，我们哪来故事？2019年10月31日中国5G正式商用，3天后宣布6G正式启动研发，这波操作没毛病。抢跑在通信行业是常规操作，就看谁能先找到突破口。实际上按照央视的采访，我国在2017年年底就启动了6G的研...
- ## [云XR如何成5G杀手级应用?解读中国移动与华为最新报告](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=8qJzTLX2zTaIPrO2eaQuliv9-v-j6kyRcm*-OMf2B4XhgxcWsfw8rVlSYep*YEtCaOPkOa6RRDeBrgfuUKAOe9yo4u4rGGNf-yqX1lKgbLN*EuboiB5R79*1LAKvi8wp&new=1)
+ ## [\[报告\]2020比亚迪新能源汽车业务深度研究：汉/MODEL3/P7性能及供应商对比(附42页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=OMFGVpfMlon0hGg8-rvWmIhRx4-*ZqE3P8mDuIMMLOV8LBFOUQJyLrRvmQAKUJauPt--7w2vV2fBuv7yKE9qpcEQQ*E-KBuc4fvKlWtbb5nbfEw-CfTbUkdmIpQMRKom&new=1)
+ > 受新能源汽车行业景气程度下降影响，比亚迪电动车销量和盈利承压。但考虑到企业价值不仅体现在整车销量，还应考虑其自有供应链潜在价值。随着中性化战略加速落地，比亚迪有望成为“整车品牌”+“新能源汽车解决...
+ ## [颠覆5G、宽带，想要占山为王?别急，我们来算笔账..](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=FFBwutQB7dWjjM49abHkyZaIF2Aexw7Msr9mKzouAVra-afB97*rBNWcWJYytVLn6TBI1VvwMnUbQS8e7sE9UUJDSOKUtkdkSXitC1Soyt9wTPCtI3kKSvJOp3cdq3vv&new=1)
+ > 美国太空探索技术公司（SpaceX）创始人埃隆·马斯克（Elon Musk）倡导用卫星提供高速互联网服务，推出了“星链”（Starlink）项目。此前，SpaceX与美国军方达成协议，使用星链卫星群为美国陆军进行通信测试。马...
+ ## [云XR如何成5G杀手级应用?解读中国移动与华为最新报告](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=8qJzTLX2zTaIPrO2eaQuliv9-v-j6kyRcm*-OMf2B4XhgxcWsfw8rVlSYep*YEtCb9ouTL02xkIlU9kfDF16sbBe*CjTxUX4zYY4wsUHO7a-Mom9IfB3rWMOSVUbJGwz&new=1)
  > 大家都用过VR（虚拟现实）眼镜吗？几年前我玩过很多次，最初也觉的VR过山车等游戏很惊艳，但发现无论是VR视频舒适程度、内容种类、使用体验以及终端价格，都不吸引人。我之前买的VR产品，也是束之高阁，落满尘灰...
- ## [一文掌握数据分析知识体系](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=HYOPVMCrdvuxLC4e2oPQRt3WDAPf*LjkRjJQZ5lyyyOTDXfuvzpj10p27dnxljay0oGuYmWkJYCdGGouv7oE3wAEIhgPlXihGoNhGUUybiuUQEpy7RbLbJ6*LgYmkQ31&new=1)
+ ## [一文掌握数据分析知识体系](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=HYOPVMCrdvuxLC4e2oPQRt3WDAPf*LjkRjJQZ5lyyyOTDXfuvzpj10p27dnxljayxbodo-D8u9RVcxFQdBWFiuwX6UI-ia9fKAApihq5eItI287nqMAza5WgG1FZlcPu&new=1)
  > 阿里妹导读：什么是数据分析？需要掌握哪些技能？如何进行数据分析？本文全面梳理了数据分析知识体系，从数据分析的定义讲起，详细介绍了分析思维模型和经典分析模型及指标体系。一  数据分析定义数据分析是指有...
- ## [小科带你看北京科技周：高精尖产业跑出北京“加速度”](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=KgoUkRdN2reV3xmtIg9ft3EZPYQJ9HLqrhY3PW1Xtux5Vv5wVabLkxxgfA-bgScYvWJAa66ME0pl2-A4JasMgIDifPx03Y1Zjr4WT2GM8xcm6MPtB0A1ixMtH7rmF0uQ&new=1)
+ ## [IFOC 2020展商篇|二十一家参展企业震撼登场 欢迎关注](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=ODhSasnxzXtR6O6QAizNHP9Mxhvh4eJDMMXNA9RShSqvsloxXMFGK-w2kpVzvjeOdZTTnNa6ZnNKfdwLh0oDNfeM29nMMoKvtj6Qvb10JBokrODDMgg4IOolOkKfZ*mO&new=1)
+ > 9月7-8日，第19届讯石光纤通讯市场暨技术专题研讨会（IFOC 2020）将在深圳大中华喜来登酒店隆重召开，为期两天的大会不仅有覆盖全产业链的精彩演讲，还有21家参展企业携各家惊喜产品震撼登场。  ICC讯 9月7-8...
+ ## [科普|中国第六代移动通信技术研发工作日前已正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=GQ270uUCskfkigh9*nE3qOTVzuayLi12gwCU0rRYztN1uZ-Ij5J1QyGEXeeWDsoKrVLFTqfX3bDZzcSz341h1sey7s6JWHcXjSekVc93d-9pI7StbcR8PXiNDLUEgbl*&new=1)
+ > 不点蓝字，我们哪来故事？2019年10月31日中国5G正式商用，3天后宣布6G正式启动研发，这波操作没毛病。抢跑在通信行业是常规操作，就看谁能先找到突破口。实际上按照央视的采访，我国在2017年年底就启动了6G的研...
+ ## [小科带你看北京科技周：高精尖产业跑出北京“加速度”](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=KgoUkRdN2reV3xmtIg9ft3EZPYQJ9HLqrhY3PW1Xtux5Vv5wVabLkxxgfA-bgScYdAoxQ6hdIN94DGDOI6yFsFjXivIk74QNKKM1dixcQcgRbRr3Si29MdXLiSJaypef&new=1)
  > 导语：北京科技周首次以“云上”的方式开展，以“科创号云上列车”为参观牵引，设置“科技主题专线”和“三城一区专线”两条参观专线，在各个“站点”展示200余个展项，直观展示北京科技成果，普及科学知识，体...
- ## [锐科激光：连续激光器单季出货超6000台 高功率激光器销量同比倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1598490004&ver=2547&signature=IqXRmFadFFgxAdkC9*B6jQHtr6wGJFDeKv8bwikE4KKzan2-GJwknJRmV8W1pA4LLSb5MucHhjq9wRYwx0UZ25FiIbS6xygj*xxIJ2tprnkykVmeOqba4rDZmGZWkc97&new=1)
+ ## [锐科激光：连续激光器单季出货超6000台 高功率激光器销量同比倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1598493604&ver=2547&signature=IqXRmFadFFgxAdkC9*B6jQHtr6wGJFDeKv8bwikE4KKzan2-GJwknJRmV8W1pA4Li6Er-KD7ovPu0fLwsKtuko1wr*W-N2Qfgemu1pwStSxGndKmPwn9SyFySJn4V5mb&new=1)
  > 8月26日晚，武汉锐科光纤激光技术股份有限公司发布2020年半年度报告。报告显示，锐科激光上半年实现营收7.09亿元，同比减少29.91%；归属于上市公司股东的净利润0.67亿元，同比减少69.33%业绩回顾：二季度业绩迅...
 # IT 技术 
  ## [编写干净代码的重要性](http://developer.51cto.com/art/202008/624761.htm)
@@ -31,49 +37,59 @@ categories: IT NEWS
  > 曾经，我以为我很懂MySQL索引...
  ## [机器学习操作正在兴起](http://ai.51cto.com/art/202008/624728.htm)
  > 机器学习操作正在兴起
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
+ ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（八）：MySQL主从复制集群配置
+ ## [那个写脚本的架构师，被开除了...](http://developer.51cto.com/art/202008/624814.htm)
+ > 我对 Linux 非常的精通，尤其是脚本语言比如 sed、awk、python 等，用起来更是炉火纯青。
+ ## [高并发系统三大利器之缓存](http://stor.51cto.com/art/202008/624810.htm)
+ > 随着互联网的高速发展，市面上也出现了越来越多的网站和app。我们判断一个软件是否好用，用户体验就是一个
+ ## [美国如果把根域名服务器封了，中国会从网络上消失？](http://server.51cto.com/sOS-624809.htm)
+ > 自从美国宣布“清洁网络”行动后，很多懂点网络的人，第一反应是，美国人会下手根域名服务器吗?这种忧虑可
+ ## [76% 的 Julia 用户将 Python 作为首选替代语言](http://news.51cto.com/art/202008/624816.htm)
+ > Julia 语言官网分享了其 2020 年用户及开发者调查的结果。该调查以英语、西班牙语、中文和德语这四种语言
+ ## [一文了解Zookeeper](http://os.51cto.com/art/202008/624807.htm)
+ > Zookeeper是Apache开源的一个分布式框架，它主要为分布式应用提供协调服务。
  ## [MySQL安装部署，从半成品状态的改进](http://database.51cto.com/art/202008/624806.htm)
  > 有时候突然会把几件不搭边的事情联系起来，竟然能够找到一些共通的地方。我在琢磨最近的几件事情的时候，脑
+ ## [Linux 迎来 29 岁：从个人爱好到统治世界的操作系统](http://news.51cto.com/art/202008/624815.htm)
+ > 在 Linux 正式对外公布的 29 周年之际， ZDNet 资深编辑 Steven J. Vaughan-Nichols 整理了 Linux 29 年历
  ## [MySQL如何实现无数据插入，有数据更新？我是这样回答的！](http://database.51cto.com/art/202008/624805.htm)
  > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
  ## [一文帮你理解整个SRE运维体系](http://os.51cto.com/art/202008/624804.htm)
  > 在任何有一定规模的企业内部，一旦推行起来整个SRE的运维模式，那么对于可观测性系统的建设将变得尤为重要
  ## [5G技术之后，或许不会再有6G基站！为什么这样说？](http://network.51cto.com/art/202008/624803.htm)
  > 4G技术标准公布之后，当时许多人觉得非常厉害了。随着5G技术标准的公布，一些人看了技术指标之后，纷纷觉得
- ## [摩托罗拉再发力：今年将推新款重返高端市场，你会买单吗？](http://mobile.51cto.com/news-624802.htm)
- > 摩托罗拉再发力：今年将推新款重返高端市场，你会买单吗?总的来说入局5G世界是一个前瞻性的选择，但是能不
 # 人工智能 
- ## [PyQt转换显示Python-OpenCV图像实现图形化界面的视频播放](https://blog.csdn.net/LaoYuanPython/article/details/108210491)
- > PyQt转换显示Python-OpenCV图像实现图形化界面的视频播放
- ## [采集、编码、组播 、推流和流媒体RTSP服务于一身的EasyScreenLive同屏功能组件为什么出现不能正常启动的情况？](https://blog.csdn.net/TsingSee/article/details/108214976)
- > 采集、编码、组播 、推流和流媒体RTSP服务于一身的EasyScreenLive同屏功能组件为什么出现不能正常启动的情况？
- ## [Qt音视频开发17-海康sdk解码](https://blog.csdn.net/feiyangqingyun/article/details/108213015)
- > Qt音视频开发17-海康sdk解码
- ## [VS2017配置opencv教程（图文详解）](https://blog.csdn.net/weixin_42693097/article/details/108210664)
- > VS2017配置opencv教程（图文详解）
- ## [sleep()方法和wait()方法的有什么区别](https://blog.csdn.net/weixin_43645876/article/details/108194407)
- > sleep()方法和wait()方法的有什么区别
- ## [西瓜视频如何在线批量下载，西瓜视频批量去水印教程](https://blog.csdn.net/MrsTang2020/article/details/108200727)
- > 西瓜视频如何在线批量下载，西瓜视频批量去水印教程
- ## [Android 音视频开发学习思路大纲](https://blog.csdn.net/ljx1400052550/article/details/108221547)
- > Android 音视频开发学习思路大纲
- ## [opencv4学习笔记（4）-鸡窝鸡蛋计数即相关参数心得](https://blog.csdn.net/qq_45701791/article/details/108225366)
- > opencv4学习笔记（4）-鸡窝鸡蛋计数即相关参数心得
- ## [怎么下载4K & 8K超高清60帧视频](https://blog.csdn.net/weixin_42309421/article/details/108217351)
- > 怎么下载4K &amp; 8K超高清60帧视频
- ## [RTMP推流直播互联网直播/点播平台EasyDSS直播界面如何分享视频流？出现乱码怎么办？](https://blog.csdn.net/EasyDSS/article/details/108216909)
- > RTMP推流直播互联网直播/点播平台EasyDSS直播界面如何分享视频流？出现乱码怎么办？
- ## [力扣\[LeetCode\].9. 回文数](https://blog.csdn.net/weixin_45488131/article/details/108229245)
- > 力扣\[LeetCode\].9. 回文数
- ## [TSINGSEE青犀视频官网全新改版即将上线，系统界面迎来整体升级](https://blog.csdn.net/TsingSee/article/details/108214068)
- > TSINGSEE青犀视频官网全新改版即将上线，系统界面迎来整体升级
- ## [PS图层混合模式MATLAB实现](https://blog.csdn.net/xsz591541060/article/details/108004221)
- > PS图层混合模式MATLAB实现
- ## [VS2015配置opencv教程（图文详解）](https://blog.csdn.net/weixin_42693097/article/details/108229190)
- > VS2015配置opencv教程（图文详解）
- ## [COMSOL提取全域的场强值并导出到文件 或者 提取某一点的属性值](https://blog.csdn.net/GENGXINGGUANG/article/details/108209493)
- > COMSOL提取全域的场强值并导出到文件 或者 提取某一点的属性值
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+ ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
+ > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 # PM 
  ## [做了产品经理才知道的22件事儿](http://www.chanpin100.com/article/112522)
  > 需求评审会用时一定比预计的长，原定1小时的会议，往往两小时结束不了，最后会议结束不是需求讲完了，而是
