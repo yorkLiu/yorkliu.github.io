@@ -1,26 +1,36 @@
 ---
 title: 2020-08-28 IT News
 copyright: true
-date: 2020-08-28 10:02:21
+date: 2020-08-28 12:02:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [科创赋能 生态引领 共创共赢 证券日报科创领军者联盟走进海尔生物](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=yyMv4Cf-CEJnBN1ekZ7F9ju1NGwCgj8zViXz1WNsnY2njw2a1OGIwyZC4Wm0fXjcAaY8Mwyugk9Rn-kdpXenbw1kOAH*PlUAvSpdaF2Y7Ws=&new=1)
+ ## [8点见|小鹏汽车上市首日大涨41%；消息称海思半导体正大量流失工程师](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=uooCvHtuE*Wd5F5Dce-qZIxFlwS0tbft2dp2E3NZ3op-hxmMJi1-sZVamannUNRTYQ0Ldc4u3jY2czUZ84c7mVy7g6wuV6v4JRfDoPywK86ehsapKYf2uLeeJjNiUL88&new=1)
+ > 各位小伙伴们，早上好呀！根据灯塔专业版实时数据，8月27日下午，影院复工后的第39天，2020年全年院线电影票房累积突破50亿，累积观影人数打达1.4亿。 影市回暖的前景还是非常值得期待的，大家最近看电影了吗？...
+ ## [桌面金属3D打印Desktop Metal将上市募资40亿，市值170亿全球第一](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=1PDpcwgnKFE9bx-kP0Kz*JVZcB8Im9xX675jhJRUvfvUHT0uMm2Q0QgONVR9wJdFGHtM61A*--8nu6AwjqZEpAPBMO4eqQkAkikxe-KKoskK45mpiL*AMay*2FaQ9Jb2&new=1)
+ > 南极熊导读：3D打印行业的独角兽公司Desktop Metal自成立以来，一共获得了超过4.38亿美元（约30亿人民币）的投资，最近一轮投资是发生在2019年初的1.6亿美元E轮投资，估值15亿美元。而另一个全球3D打印独角兽企...
+ ## [发掘关键数据 寻找应用场景 各大厂商竞速自动驾驶出租车](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=OFLm9doWbjcp-EZin5MFF5vGLjZpnQt-135pPcBP2f0g97MmVQjSD**3JqZGhmmQhbOrv*0sburBnUDSeI8Gyw*Lj2BvfQswEMU*FUU23NY=&new=1)
+ > 8月26日，大众汽车集团自动驾驶出行服务试点项目启动仪式在合肥举办，成为中国首个由国际汽车制造企业启动的自动驾驶服务生态圈构建项目。　　合肥市长凌云代表合肥市政府向大众汽车集团（中国）颁发了合肥...
+ ## [SaaS订阅模式的本质](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=5w6V72W3WspX9fE*EnbTsOMU0Gbd3q7CUejNQVt-w7ArUg-wddMz95Duzt1wVbWqV1VBeF15KPp0hPf60WVmThg59fp*G29JYnWBgw8MZ6VMD0h-rDHK-EktneRuKwfs&new=1)
+ > 作者：李宽封面：彼岸图网许多公司正在从永久许可模式转向基于订阅的许可模式。这种定价模式对消费者和企业是双赢的。它允许消费者使用他们以前负担不起的软件，并允许企业专注于更有效的增量开发，并可能在更长...
+ ## [就是现在，上午9点，一起看CHIMA 2020!](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=D*Hi2FveW3BGdCGgNLxqAt1qklMbFu14nJb07eIx79IO4kPMwX809Yny5df41HaFEofD7KPWzkdOOtNDcEtbbUeTC*fZB9R*o-CsGxLKVxbIam-fUfpzcmTAP0zyhl0H&new=1)
+ > 8月28日上午9点，CHIMA 2020线上直播正式开启。一直以来，拓导课是CHIMA大会的开胃菜，通过嘉宾与观众分享与交流先进的医疗信息技术，为行业呈上丰富精彩的技术盛宴。8月28日的四场拓导课直播主要包含以下内容：...
+ ## [科创赋能 生态引领 共创共赢 证券日报科创领军者联盟走进海尔生物](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=yyMv4Cf-CEJnBN1ekZ7F9ju1NGwCgj8zViXz1WNsnY3ahmia9t8OmX6SWW7rE9IdgNrye3lY58qSDwU3zBavaDYiWem7Xw5Dh5dDNdiW6cs=&new=1)
  > 本报记者 赵学毅 李乔宇    8月27日，由中国上市公司协会指导，《证券日报》社主办，盈康一生和海尔生物承办的“科创领军者联盟：探索与担当——海尔生态品牌之旅”正式启动。据了解，盈康一生是海...
- ## [财报|中际旭创2020年半年财报：全资子公司苏州旭创实现净利润4.03亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=0hHK3d-qxxa*sOztFKPOuquNcVvn4ab0zyRST5VXGaflfQIDNPDXE7WHNsLPr--l2eKOJxPV3KqXWiv9v-eYan4gR2mB6xfyrWLj6p35w0PKaL3eZgHN6P*rQmzajS7Z&new=1)
+ ## [财报|中际旭创2020年半年财报：全资子公司苏州旭创实现净利润4.03亿元](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=0hHK3d-qxxa*sOztFKPOuquNcVvn4ab0zyRST5VXGafOzasIkDBvlgtnL1qxWdvyFV8duCa97QfIHwExSTHU8kV--*USXrWoSQ79tSMKrq*s9Obf--M33VUlg3lP*7n-&new=1)
  > 中际旭创2020年半年度实现营收32.45亿元，同比增长59.43%;实现营业利润4.30亿元，同比增长85.51%;归属于上市公司股东的净利润 3.65 亿元，同比增长 76.13%。  ICC讯 (编辑：Nicole)中际旭创股份有限公
- ## [董事长专访|绿的谐波左昱昱：要为智能制造造“关节”](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=OFLm9doWbjcp-EZin5MFF5vGLjZpnQt-135pPcBP2f3aDKR4VVstaLr*Ekaz*zGIw6H9FHvIKzu0nUHS5oDBPrKwN4-Kunm9YjVXs2XRmr8=&new=1)
+ ## [董事长专访|绿的谐波左昱昱：要为智能制造造“关节”](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=OFLm9doWbjcp-EZin5MFF5vGLjZpnQt-135pPcBP2f1Jcu00IdgtlTBMtVQvL3NRMiYz4yeJLZeqpjEwT9uWFziL-YlfeevcktTl3KaU50I=&new=1)
  > Leader——领先、绿色——绿的谐波以英文品牌谐音为名，以公司主营产品“谐波减速器”为起点，打破了国际品牌在国内机器人谐波减速器领域的垄断。而绿的谐波董事长左昱昱是一位连续创业者，更是公司将谐波啮...
- ## [3D打印技术应用与趋势研讨会 邀请函](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=P6g1Fy0c0-EjErynaUOEVeNIXI1UQTgjh2QJfIUUFXzz6Lj8LPMdsfJ4tSNPMHr1rdwj9Cl68K5lQ-*bfrJLRoARgpy3*2ons4qAwKov8tlSJEYM73-6OS*ojQ0iiS5V&new=1)
+ ## [3D打印技术应用与趋势研讨会 邀请函](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=P6g1Fy0c0-EjErynaUOEVeNIXI1UQTgjh2QJfIUUFXwtp25df0uFHHpiEzUmy981OO77rWFL4VnQrg9vM2zuCsaXTgZoAVKsHlc01UPA47YmmC4WUI*hHFhFqRYXPOY1&new=1)
  > 5G时代已经到来，它将对工业制造与万物互联产生怎样的影响？3D打印作为数字制造的核心技术，正在颠覆哪些传统行业？3D打印技术应用在中国与全球的发展趋势如何？又是怎么融合其他新兴技术的呢？本次活动我们将邀...
- ## [\[报告\]2020造车新势力对比研究(附60页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=lBW*Bb0UVLGhl-Tvqy5THsGl4j0VcY9lr-UnHCialjvbd2Dv55QiUjX5MW1vgVE2I6O97w23U*U0fdnw5az*XA1ImkmVJd8pUX3bDyeEKOTsGbvWde36WoubjfX6fv*n&new=1)
+ ## [\[报告\]2020造车新势力对比研究(附60页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=lBW*Bb0UVLGhl-Tvqy5THsGl4j0VcY9lr-UnHCialjuFUeJZJs2hKuDjurML3a34vr9WI9OdJhcysGAMieACdZ3BfIqOCNHA2ujZWcdU77zaBLVRLXZ9GVu4pG4LpnLu&new=1)
  > 本报告主要对造车新势力的团队、经营模式、产品、成本和供应链等方面进行全面对比分析，得出的结论如下：1、蔚来的发展与特斯拉最相似。无论是从公司团队配置、经销模式、车型定位，还是从供应链的选择来看，蔚...
- ## [华为中兴在英国败诉，不交专利授权费将被禁售!](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=nskq4n7zlNxKsMqhUjxtJE-88dneg*D47YxirZkYYyfz7fjwNoEd6v2AEGPpEvGizeK16iRTSy44OZk3TVQbXefy0Ubs-QIsAUhFluAnS9LOgZwj4qarqcS16ItZZan*&new=1)
+ ## [华为中兴在英国败诉，不交专利授权费将被禁售!](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=nskq4n7zlNxKsMqhUjxtJE-88dneg*D47YxirZkYYydmu9yHU0b0ZhtHyeToBp6VV*EHihKPdwzyEDM6kYGaY6CEOTnEMKEDsB-7qyQIDIVyphN5D3U5gJ49ipWO3EoU&new=1)
  > 8月27日消息，当地时间周三，两家海外专利授权公司Unwired Planet International Ltd（以下简称“UPI”）和Conversant Wireless Licensing（以下简称“Conversant”）在针对华
- ## [爆：联通前离职大将，又有了新身份!](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=BaV3Lmlq8aaUfbuvWmvbbkZKa7ZPaObh*-WMzWJh6Xo1ugJnRH5KZwQWyaS9edaOo92eHTvkBVKLZHnORfplGGOP6n3WYoz7jeeKeNronGSJFPdrjJOxrLDU2I13W8yK&new=1)
+ ## [爆：联通前离职大将，又有了新身份!](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=BaV3Lmlq8aaUfbuvWmvbbkZKa7ZPaObh*-WMzWJh6XpVntJ1kO*jAGFzcxEluy3LZYMKKMVu0xHmIzYjF*tegS7NjBJ1j8Ex4-a4F0DsAsWk0Yzk9uxbo0m2wm1pRgus&new=1)
  > 日前，知情人士向运营商财经网独家爆料称，原海南联通总经理焦刚的新去向曝光，任去中信网络担任总经理，到底怎么回事？曾经的运营商大将资料显示，2012年，中国联通欲成立云数据公司，当时成立项目筹备组，组长...
- ## [深度：华为芯片禁令波及安防圈!海思安防芯被爆炒](http://mp.weixin.qq.com/s?src=11&timestamp=1598578204&ver=2549&signature=JTPRWCUpMA-0HhPoc3r4EiPYhh8W1liHBEc0JEpJ2NbANOERufD13OD6lPAJ6MTgQXSOyNDEJQ8wmfG0GGeMSsfLezKnOcGYNxCWk1UTB*Gw5WRI*8gGKemgQoWpghZc&new=1)
+ ## [深度：华为芯片禁令波及安防圈!海思安防芯被爆炒](http://mp.weixin.qq.com/s?src=11&timestamp=1598585405&ver=2549&signature=JTPRWCUpMA-0HhPoc3r4EiPYhh8W1liHBEc0JEpJ2NbtKJ-Sk2FL3sm5xZDSCSoVuhLdbBcMGwl8gPFJwsT-2n5lqCU8rxJz3cAqiHtb1Ie8v*TG-*s3ROKwdVNrqN9a&new=1)
  > 看点：美国禁令、台积电断供，人工智能产业的命脉被握住？智东西8月27日报道，近日，一位华为海思芯片销售代理告诉智东西，目前智能安防芯片Hi3559AV100渠道单价已达到3000元未税，并且他那边只分到100片。同时...
 # IT 技术 
  ## [牛掰！一次线上商城系统高并发优化实战！](http://developer.51cto.com/art/202008/624879.htm)
@@ -37,52 +47,58 @@ categories: IT NEWS
  > 大规模物联网部署的5个关键注意事项
  ## [人工智能来势汹汹，企业们准备好“接招”了](http://news.51cto.com/art/202008/624801.htm)
  > 人工智能来势汹汹，企业们准备好“接招”了
- ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
- > Docker快速入门视频课程（通俗易懂）
- ## [刷新企业上云新体验，华为云三款重磅新品C位亮相](http://cloud.51cto.com/art/202008/624880.htm)
- > 华为云云原生技术平台Vessel、四大容器解决方案、腾AI视频转码解决方案受到了业界极大的关注。
- ## [简谈手机屏幕的「高刷新率」](http://mobile.51cto.com/hot-624878.htm)
- > 刷新率是显示器的属性，以赫兹(Hz)为单位进行测量，厂商使用它来强调流畅的用户体验。电脑屏幕显示器制造商
- ## [国外工程师用树莓派打造世界上最小的“iMac”](http://developer.51cto.com/art/202008/624877.htm)
- > DIY 发烧友 Michael Pick 将自己的制作全过程剪辑上传至了 YouTube 频道。他从 3D 打印外壳开始，然后将 Ra
- ## [微信最新版详细体验：拍一拍舒服了](http://mobile.51cto.com/app-show-624876.htm)
- > 微信7.0.18来了，这次的更新带来了一个用户期盼已久的功能，同时还改进了拍一拍功能，增加了朋友圈60秒视频
- ## [Windows 10磁盘优化程序将有损SSD寿命：微软正修复](http://os.51cto.com/art/202008/624875.htm)
- > 即将发布的Windows 10更新预计将解决影响优化驱动器工具的错误，该漏洞可能会损害固态硬盘SSD的使用寿命。
- ## [云原生时代，微服务如何演进？](http://zhuanlan.51cto.com/art/202008/624874.htm)
- > 云原生时代的微服务又有什么特点?当前有哪些比较活跃的微服务项目?阿里巴巴资深技术专家李响从微服务的生命
- ## [文件系统：隐匿在 Linux 背后的机制](http://os.51cto.com/art/202008/624873.htm)
- > 在 Linux 中，最直观、最可见的部分就是 文件系统(file system)。下面我们就来一起探讨一下关于 Linux 中国
+ ## [MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03](http://fellow.51cto.com/art/202008/623591.htm?qd=51ctojrzd)
+ > MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03
+ ## [推荐一款Python开源库，技术人必备的造数据神器！](http://developer.51cto.com/art/202008/624893.htm)
+ > 今天给大家分享一款Python造数据利器：Faker库，利用它可以生成一批各种各样的看起来“像真的一样”的假数
+ ## [“AI写手”火了！大学生用GPT-3写“鸡汤文”，骗过一堆人登上科技头条](http://news.51cto.com/art/202008/624896.htm)
+ > GPT-3是OpenAI语言人工智能模型，由1750亿个参数组成。总部位于旧金山的OpenAI研究实验室今年5月开始逐步
+ ## [使用这种技巧，可以大大地提高前端布局效率](http://developer.51cto.com/art/202008/624899.htm)
+ > 在布局中，对于每块功能的 DOM 结构，我们一般使用一个带有 wrapper 类元素把它包裹起来，让代码或者网页
+ ## [大战略：中国手机如何攻占印度市场？](http://mobile.51cto.com/news-624887.htm)
+ > 中国手机生产商在印度有如此强大的统治力，印度人民用着中国生产的手机却卸载中国手机应用，这是不是在掩耳
+ ## [线上 Go 程序偶尔出现异常怎么办？这个思路可解决你的烦恼](http://news.51cto.com/art/202008/624901.htm)
+ > Go 内置的 pprof 虽然是问题定位的神器，但是没有办法让你恰好在出问题的那个时间点，把相应的现场保存下来
+ ## [DBA的福音，SQL审核利器-goinception](http://database.51cto.com/art/202008/624892.htm)
+ > 最近在重构公司自动化运维平台的SQL审核部分，于是调研了一下goinception。在之前的公司审核引擎用的是去哪
+ ## [芯片制程突破1nm后，这个发展方向很有前景](http://news.51cto.com/art/202008/624886.htm)
+ > 随着集成电路的发展，计算机一直受到摩尔定律的支配，目前，芯片都是由硅为基础，在上面刻蚀电路，但是，理
+ ## [为什么苹果官网的配件敢卖那么贵？](http://news.51cto.com/art/202008/624884.htm)
+ > 在整个数码产品行业，不管是外观还是系统设计，苹果向来都是最突出的，其自研芯片和系统贯穿了整个产品生态
+ ## [微软将于2021年关闭Internet Explorer](http://os.51cto.com/art/202008/624883.htm)
+ > 据微软官方宣布，到明年这个时候，Microsoft 365应用和服务将不再支持Internet Explorer 11(IE 11)。
+ ## [任意Android手机都能和PC无线投屏](http://mobile.51cto.com/ahot-624881.htm)
+ > 如果一切顺利，手机屏幕内容将再次在PC屏幕内投射出来，此时我们就能拔下数据线了，手机和PC之间的投屏将保
 # 人工智能 
- ## [Spark内核详解 (1) | Spark内核的简要概述](https://blog.csdn.net/qq_16146103/article/details/108063250)
- > Spark内核详解 (1) | Spark内核的简要概述
- ## [MySQl5.7 Linux安装教程（全网最全，建议收藏）](https://blog.csdn.net/qq_43791724/article/details/108196454)
- > MySQl5.7 Linux安装教程（全网最全，建议收藏）
- ## [【redis】redis内存管理、淘汰机制、内存优化](https://blog.csdn.net/qq_43762191/article/details/108215037)
- > 【redis】redis内存管理、淘汰机制、内存优化
- ## [shell脚本------------编程条件语句（if、case）](https://blog.csdn.net/weixin_48190875/article/details/108185607)
- > shell脚本------------编程条件语句（if、case）
- ## [『运维』ftp链接linux服务器](https://blog.csdn.net/weixin_41635750/article/details/108226821)
- > 『运维』ftp链接linux服务器
- ## [【Linux】 Windows安装VMware虚拟机安装Ubuntu系统20.04LTS图文教程](https://blog.csdn.net/weixin_46858768/article/details/108244369)
- > 【Linux】 Windows安装VMware虚拟机安装Ubuntu系统20.04LTS图文教程
- ## [计算机存储系统之磁盘列阵技术](https://blog.csdn.net/weixin_44985880/article/details/108201971)
- > 计算机存储系统之磁盘列阵技术
- ## [一文搞定 Docker 容器技术与常用命令](https://blog.csdn.net/alitech2017/article/details/108224139)
- > 一文搞定 Docker 容器技术与常用命令
- ## [Jeff数据结构与算法收官之战：三天结束战斗！](https://blog.csdn.net/weixin_43323278/article/details/108245871)
- > Jeff数据结构与算法收官之战：三天结束战斗！
- ## [Shell脚本——自动删除两类机器里面的日志文件](https://blog.csdn.net/ZG_66/article/details/108220210)
- > Shell脚本——自动删除两类机器里面的日志文件
- ## [Spark Streaming 项目实战 (4) | 得到最近1小时广告点击量实时统计并写入到redis](https://blog.csdn.net/qq_16146103/article/details/108051997)
- > Spark Streaming 项目实战 (4) | 得到最近1小时广告点击量实时统计并写入到redis
- ## [快速入门Flink(3)——Flink运行架构（面试必问，建议收藏）](https://blog.csdn.net/qq_43791724/article/details/108158444)
- > 
- ## [我向面试官讲解了hashmap底层原理，他对我竖起了大拇指](https://blog.csdn.net/banzhuanhu/article/details/108127478)
- > 我向面试官讲解了hashmap底层原理，他对我竖起了大拇指
- ## [Shell实例：for循环语句实现求奇数和与偶数和——实验+解析，超详细！！！](https://blog.csdn.net/m0_46563938/article/details/108227305)
- > Shell实例：for循环语句实现求奇数和与偶数和——实验+解析，超详细！！！
- ## [shell脚本-------------定期检查是否指定用户登录系统](https://blog.csdn.net/weixin_48190875/article/details/108245125)
- > shell脚本-------------定期检查是否指定用户登录系统
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:"CRX_HEADER_INVALID"](https://blog.csdn.net/u011068702/article/details/101290518)
+ > 谷歌浏览器之安装插件(SwitchyOmega_Chromium)提示程序包无效:&quot;CRX_HEADER_INVALID&quot;
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
+ > 安卓APP的http访问权限
+ ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
+ > flutter 的像素尺寸
+ ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
+ > googlePlay 找不到发布的应用
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
+ > 使用FlexboxLayoutManager来实现流式布局
+ ## [电电帮手机维修就是坑爹，大家不要信](https://blog.csdn.net/love829928/article/details/101293004)
+ > 电电帮手机维修就是坑爹，大家不要信
+ ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
+ > android.view.InflateException Error inflating class android.webkit.WebView
+ ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
+ > Unity | 总结：OCR文字识别、公式识别
 
     
