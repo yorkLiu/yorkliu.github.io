@@ -1,18 +1,18 @@
 ---
 title: 2020-08-29 IT News
 copyright: true
-date: 2020-08-29 09:01:27
+date: 2020-08-29 10:02:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联发科技已向美国申请 力争9月15日后继续供货华为](http://mp.weixin.qq.com/s?src=11&timestamp=1598662804&ver=2551&signature=zTFq*u-J*TJcOkv5USqL97KPGwMY1U1y6RmOFm5eLlhQt*80r1ooyLaVFo*tttF8NFxHEWQH90ay*Cozl02iAyvE5IAMl4AsJvpZgWCjS-0=&new=1)
- > 经济观察网 记者 沈怡然 8月28日，全球芯片设计厂商联发科技对经济观察网表示，公司重申遵循全球贸易相关法令规定的立场，目前已经依照规定向美方提出继续供货华为的申请，静待美方审核中。联发科所指的美方相关...
- ## [厉害了!数字广西再添力作，这个项目斩获全国一等奖!](http://mp.weixin.qq.com/s?src=11&timestamp=1598662804&ver=2551&signature=PC-2IBuh*fVk31mI4HrMuW6eg1rBA-X9nrygv4CcN2Ld2GwMeDzejjWyuedeJkho2jAQCKKU6NtX6JYyNcyZlNep9k*YgFjZEGMnxQdlL0Q05KSWNObIYczpkVZwxSlz&new=1)
+ ## [厉害了!数字广西再添力作，这个项目斩获全国一等奖!](http://mp.weixin.qq.com/s?src=11&timestamp=1598664604&ver=2551&signature=PC-2IBuh*fVk31mI4HrMuW6eg1rBA-X9nrygv4CcN2Ld2GwMeDzejjWyuedeJkhoL9ieZqdVUnt2Er9HAu2oz*IUSmyr-P6La2TDkGrS*pox0Lyw3Ze-WncyN25*X0kk&new=1)
  > 8月27日，第三届“绽放杯”5G应用征集大赛工业互联网专题赛于北京落下帷幕，中国电信广西公司携手华润水泥打造的5G+工业互联网项目从300多个参赛项目中脱颖而出，荣获一等奖。“绽放杯”是由工业和信息化部主办...
- ## [蛰伏两年!瓴盛科技首款AIoT芯片发布：三星11nm工艺，集成NPU内核!](http://mp.weixin.qq.com/s?src=11&timestamp=1598662804&ver=2551&signature=iZOJlKSCTE4qQfCwhGJsMGphsYCM7jTOi2SZci8WG1JZTFMQMkC0C66M0-NCqISJyXuMy6n0Yox5*BDWsyobeNdeg8dwVVyIDXf8whoX-VEkbx5Kz6v81v-QoEjSjLbC&new=1)
+ ## [联发科技已向美国申请 力争9月15日后继续供货华为](http://mp.weixin.qq.com/s?src=11&timestamp=1598664604&ver=2551&signature=zTFq*u-J*TJcOkv5USqL97KPGwMY1U1y6RmOFm5eLligM7AfnB7QV8d1AOF*BxkOO8BnubsEYJBDhXFKT-7cX6TQHzyNb11IB4vDjUxP32M=&new=1)
+ > 经济观察网 记者 沈怡然 8月28日，全球芯片设计厂商联发科技对经济观察网表示，公司重申遵循全球贸易相关法令规定的立场，目前已经依照规定向美方提出继续供货华为的申请，静待美方审核中。联发科所指的美方相关...
+ ## [蛰伏两年!瓴盛科技首款AIoT芯片发布：三星11nm工艺，集成NPU内核!](http://mp.weixin.qq.com/s?src=11&timestamp=1598664604&ver=2551&signature=iZOJlKSCTE4qQfCwhGJsMGphsYCM7jTOi2SZci8WG1JZTFMQMkC0C66M0-NCqISJsiMjMTkDqd*s5XQXNGFadEelUddZmRe3ecwUlrJjCmuunXhI5Wd2NqCHO3kJAjx1&new=1)
  > 2020年8月28日，主题为“高建瓴 智成川”的2020 AIoT高峰论坛暨瓴盛“芯视觉”产品发布会在成都召开。在本次论坛上，瓴盛科技正式发布了旗下首款AIoT芯片——JA310，发力智慧视觉物联网市场。手机与AIoT双轮驱动...
- ## [重磅!](http://mp.weixin.qq.com/s?src=11&timestamp=1598662804&ver=2551&signature=8YCSvKc2*IJkrO0rxqNWy3uk1bWi1fYFoIHCAbzv4qzvBQEqfL0gE67SwSTbejtyBjMa2LgkDQODxKHeUNfy0WiUDSsL4ItTxTMgT4bHYRlVK1O8Xe5uT2sR7a85r9Py&new=1)
+ ## [重磅!](http://mp.weixin.qq.com/s?src=11&timestamp=1598664604&ver=2551&signature=8YCSvKc2*IJkrO0rxqNWy3uk1bWi1fYFoIHCAbzv4qzvBQEqfL0gE67SwSTbejtyCH0d2qLK94*OS1f32rxfTGYB9WlcJbweMr4DgPLTcArpq1bJFJYklcNVO8JfU7IP&new=1)
  > 商务部、科技部调整发布《中国禁止出口限制出口技术目录》8月28日，商务部、科技部调整发布《中国禁止出口限制出口技术目录》（商务部 科技部公告2020年第38号，以下简称《目录》）。本次《目录》调整先后征求了...
 # IT 技术 
  ## [牛掰！一次线上商城系统高并发优化实战！](http://developer.51cto.com/art/202008/624879.htm)
@@ -29,39 +29,8 @@ categories: IT NEWS
  > 大规模物联网部署的5个关键注意事项
  ## [人工智能来势汹汹，企业们准备好“接招”了](http://news.51cto.com/art/202008/624801.htm)
  > 人工智能来势汹汹，企业们准备好“接招”了
- ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
- > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
-# 人工智能 
- ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
- > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
- ## [咱们从头到尾说一次 Java 垃圾回收](https://blog.csdn.net/csdnnews/article/details/97065881)
- > 咱们从头到尾说一次 Java 垃圾回收
- ## [如何让你写的爬虫速度像坐火箭一样快【并发请求】](https://blog.csdn.net/sergiojune/article/details/96933619)
- > 如何让你写的爬虫速度像坐火箭一样快【并发请求】
- ## [【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）](https://blog.csdn.net/houjiyu243042162/article/details/94874926)
- > 【全栈之路】JAVA基础课程十_JAVA虚拟机（20190706v1.1）
- ## [循环与分支——python](https://blog.csdn.net/lll_90/article/details/94874513)
- > 循环与分支——python
- ## [zircon的两种调度理解](https://blog.csdn.net/tiantao2012/article/details/94874441)
- > zircon的两种调度理解
- ## [Timer定时器用法详解](https://blog.csdn.net/qq_34291570/article/details/94874074)
- > Timer定时器用法详解
- ## [Golang 之区分类型别名与类型定义](https://blog.csdn.net/AMimiDou_212/article/details/94873163)
- > Golang 之区分类型别名与类型定义
- ## [Leetcode344--翻转字符串](https://blog.csdn.net/EngineerHe/article/details/94873086)
- > Leetcode344--翻转字符串
- ## [吐血总结！50道Python面试题集锦（附答案）](https://blog.csdn.net/sinat_38682860/article/details/94763641)
- > 吐血总结！50道Python面试题集锦（附答案）
- ## [Python工程师面试必备25条Python知识点](https://blog.csdn.net/sinat_38682860/article/details/94763559)
- > Python工程师面试必备25条Python知识点
- ## [线性最优解java实现+Cplex java调用](https://blog.csdn.net/hyy_blue/article/details/94763404)
- > 线性最优解java实现+Cplex java调用
- ## [开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2](https://blog.csdn.net/qq_31433709/article/details/94763269)
- > 开发日记-20190705 关键词 读书笔记 《Perl语言入门》Day 2
- ## [Java初学之人机猜拳游戏](https://blog.csdn.net/qq262593421/article/details/94762949)
- > Java初学之人机猜拳游戏
- ## [《Spring Boot实战》之二：开发第一个应用程序](https://blog.csdn.net/yuan1164345228/article/details/94762943)
- > 《Spring Boot实战》之二：开发第一个应用程序
+ ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
+ > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
 # PM 
  ## [提升用户体验？指示性设计元素不可或缺](http://www.chanpin100.com/article/112546)
  > 尽管指示性设计元素的表现方式多种多样，但它们最终的目的都是引导用户，为用户提供更好的用户体验。
