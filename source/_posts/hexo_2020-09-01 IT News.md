@@ -1,41 +1,51 @@
 ---
 title: 2020-09-01 IT News
 copyright: true
-date: 2020-09-01 12:02:33
+date: 2020-09-01 17:02:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果鼓励开发者对AppStore准则提出修改建议；SpaceX Falcon火箭完成第一百次发射|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=YtHXpRDIv3ARANN7OJZuyYrIMHPMVp5gJSLtNfNQSazH74bDcLg-65ki2f3BlbMYte2HrxaTMSHIuWzYnT73ieXhoNQA5EkLviUGsT64YmNJcwriRoGU9nL-pwl3nyJR&new=1)
- > 图 / UnsplashHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【苹果鼓励开发者对AppStore准则提出修改建议】据MacRumors消息，在6月的WWDC，苹果宣布对App Store审查处理方式的几项改变，在
- ## [动手了!美国政府没收280个朝鲜加密货币账户](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=yzxkx*hvOd2ZwftS4Zas9*8Ns1YmQ9mwyrwQXU--PRNzO5wljvosRSFGx9RxGRTw*yRzuixaeZ3Zfq2kZImWG4io2yHKbOCEIeiJ6SCfwUFnYW1gjqxxF9PuTcf8hkFq&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全9月1日讯   近日，美国正试图没收280个加密货币账户，这些账户与两家虚拟货币交易所的网络攻击有关，据称，这些攻击是由朝鲜黑客所为。根据美国司法部(...
- ## [你经常接到骚扰电话吗?工信部拟新规，他们要凉了!](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=ksxORrXHHCiVDq57yBovgrhI49wYsH8xxS3uW6-PqFGG*4VXkmPVBsGvg-DAqWZ1wLGOF0yxouLkbrY63wRwzmCwePyWIdNFybziV6YaRT4qVBYlJwzJsZOWGjdE6WK0&new=1)
- > 未经用户同意不得发送商业短信或拨打商业电话据工信部网站8月31日消息，工信部就《通信短信息和语音呼叫服务管理规定(征求意见稿)》公开征求意见，征求意见稿中规定，任何组织或个人未经用户同意或者请求，或者...
- ## [通知：一批硕士博士3D打印人才正在求职](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=hup-Uef0ylIfg4NbdN2jXiTHCuJseY1ZoYFNSxNlW3iUgY0zv36fzXp5skGMGzpsac78EBnqbPOtFdTtaGL6Vq4idJHlQy542X9c4VaQIpA6mt67ZPZWF45GmzPxo8o6&new=1)
+ ## [一字跌停后紧急澄清!欧菲光下午怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=xeqrs3Tka1wg-V8r*mopccHKz0jBRWdf1W*zMdKp5SNoa8gXZ*UH67JApKAaOy17q930OFhCYQJWWykAYQ7u3QRTmudUS7KEi9ugQrzJd4lBb4Z7LTSzjHxDO3Ug18**&new=1)
+ > 权威、深度、实用的财经资讯都在这里刚刚，欧菲光回应被美国大客户剔除供应链名单传闻。欧菲光在澄清公告中说明，传闻中关于公司被美国大客户剔除供应链名单等信息为不实传闻，并解释了关于公司与美国大客户合作...
+ ## [干货满满!2020集邦咨询新型显示产业研讨会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=8GEN6Y44RFlaxOIcMHgR22fGDfcl3kh6oebxB2s0GmSjLeGX4QVnFih-RxUxxhqAMBYC1zMNXVR8uFQ7vGn1pX-KFuTeSaxid1J9gsVrOJCC2PrGVcZGKn8JPcJdOk7n&new=1)
+ > 8月31日，集邦咨询旗下LEDinside、Witsview联手ISLE（国际大屏幕显示技术、音视频智慧集成、广告标识及LED展览会）在深圳国际会展中心（宝安新馆）成功举办了2020集邦咨询新型显示产业研讨会，汇聚了显示领域的...
+ ## [活猪脑机接口成功!马斯克把人类的超人梦想又往前推进了一步](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=0tF8tWn-1ksEa112oiHUfclk77Fy3UdPMqJa1Q-JYhwCjX0hvHiineeh93VSVY7CTIESLOuc2pCXLEUxP6O2DXpsy2VkuQBSDoZxrQwCxhu391cOWXBbSwx8tNXRHXW-&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作8 月 29 日，埃隆·马斯克正式发布了 Neuralink 最新一代脑机接口产品：一枚硬币大小的可以植入大脑的芯片 N1、和一台手术机器人 V2。理论上，它们能够让人们通过自己...
+ ## [AI 助手如何讲一口标准英音?这项技术 BBC 直呼内行!](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=wJGcsCOcL5MzkoN8apNpB7QiHwLIV-X62rgSrH8aGenp*YolfCfsvXBZoxbuVM369rtpPGJxu0EjezztSgW9QYiGnJJ4OVNkXh3D-OcPPlR6-q5JxEse76*1hVGC84f3&new=1)
+ > （本文阅读时间：3分钟）技术变革正在改变媒体与大众的交互方式。微软基于深度神经网络的定制化语音技术，通过较少的发音人训练样本帮助英国广播公司 BBC 打造了虚拟助手 Beeb，可以用英式口音为用户提供个性化...
+ ## [紫光再迎“大将”，原华润微电子副董事长陈南翔正式加盟，预计可能负责长江存储相关工作](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=gQJ4yRqNtNwf0DAHRM1NkVwm19*L9NsCYUlxnUBmxpkEL8ln0Gn4-hYMtFjCv4Q1WN3EcbJ-FiKx5j-Lsz6DbIoWSRNyOugRPQf5-oYNhkrehnpPN3-xgDBkEjaHudjl&new=1)
+ > 据业内消息，华润微电子副董事长陈南翔已经于8月28日离职，并于9月1日加入紫光集团，担任集团联席总裁，直接向集团董事长汇报，预计可能负责长江存储相关工作。陈南翔资历深厚，近30年半导体从业经验，助力紫光...
+ ## [网络安全策略管理技术(NSPM)探秘](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=j9w3KbQUbiugrEJsrRpz59-JIb6UQZ54RFA6VgOyuEHG8o59YXSsR-eoC12pfPa6wdWitp5iqiXKdSJVoIX3vdrHUdHR0IPvYkA9fAfazNxOr9vIS8CMWI8iyN89EWbw&new=1)
+ > 安全牛评企业的网络安全能力更多的是一种管理能力，面对疫情和数字化云端转型带来的新挑战：攻击面增长、IT复杂化、碎片化、影子化，企业网络安全部门面临的最大挑战就是对动态风险的集中化有效管控。而网络安全...
+ ## [避免云端浪费的5种方法](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=iz6oxOkjHHhcQJtW*pbkRY0E7ZftEHLGsaFOe4R4SaRCqfhpegiR6UeNRzwiPIM3DsYU7OzNU8AlQ4hIMA89fNVEI3KKQZOCrBoZKttQRQW09uSD9vVlyRbMMWXi66zj&new=1)
+ > 关键讯息，D1时间送达！很多企业采用云计算的一个重要原因是为了避免建设和运营服务器机房或数据中心的费用以节省成本。但是，如果没有正确采用云计算技术，仍然会遭受资金损失。因此需要避免一些代价高昂的错误...
+ ## [中国 IPv6 网民活跃用户达 3.62 亿，但 App 支持与国外差距较大!](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=e5A83EQGzhU4VMks5w4zfAhJnuNNuQ7gmP-j7qPp3nB4Mhigr4P9CnFWnwnpnGMTabT6cJL0TyGquNAZYnIO*3hcpFvG*GsPV6NzFQTu*rO1w3XHI0jQ1ymbU45Z93Tr&new=1)
+ > 整理 | 夕颜出品 | CSDN（ID:CSDNnews）2017 年底，国家开始推行 IPv6 普及，出台多项政策推进 IPv6 规模部署。至今，IPv6 普及已经有了巨大的进步。普通用户可能在不知不觉间，已经用上了这个最新的互联网协议...
+ ## [新旧《中国禁止出口限制出口技术目录》对比](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=zACVdi1yvMmFjeGWtbSpxGK0WMgDDyIhqS3QIEJzjJgArXDu4trsWcdxmdacvQgNlurIJsDtHdmv8*PLypvNbmLKaghyxQDs2yZVesyvR4AZsE-T2GlvxX30nT*EX4Or&new=1)
+ > 8月28日，商务部会同科技部重新调整发布了《中国禁止出口限制出口技术目录》。 这是自2008年以来，再次对《中国禁止出口限制出口技术目录》进行调整。本次《目录》调整共涉及53项技术条目，在限制出口技术条目中...
+ ## [专注工业无人机市场，星逻智能要让无人机真正实现“全自动”](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=oOBjn8lR-meKm3ZHNEmXWrhPXjXNEXMNIKRlG-Lxj0gKtiCH-B7HNfkfZhkgg3q1sSl-0AXpeO1H3iKTAxeHEwtyitpzZzjuF9Cv3-jNbSyyITu*TK6nff66oOOLZKGD&new=1)
+ > 图片来源：Unsplash「今年4月底，星逻智能完成数千万元A轮融资，由常春藤资本领投，老股东遨问创投与远瞻资本继续跟投。」记者 | 佘晓晨近年来，无人机行业发展迅速，特别是今年疫情期间，“无接触”概念更是让...
+ ## [通知：一批硕士博士3D打印人才正在求职](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=hup-Uef0ylIfg4NbdN2jXiTHCuJseY1ZoYFNSxNlW3jtrCOyEJbAP1XcjwCdipMvfywBFZKFS1xsP3wZJbBdvpXnMZTfeQEUWs7DzzAI4WylitXQzZtN2TcI9FvDrEXs&new=1)
  > 2020年9月，南极熊注意到，在南极熊3D打印人才招聘专栏（网址https://www.nanjixiong.com/forum-47-1.html 人才和招聘厂商可以自由发帖）上，出现一批高素质的3D打印专业人才，正在求职。例如：求职：本
- ## [马斯克终成乔布斯](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=nfHCmlnrGvZ7ucTZprgK3PD17LB8ne7Kfk45WuKG5pWnuDHDg7VwBcc6*1hdfy5WEfnqEtlHk6VAjunClmyoOfi*13gKaPOwMwJcVYi4pPrR5PhU3gLCWzE*HDIt0TPk&new=1)
+ ## [动手了!美国政府没收280个朝鲜加密货币账户](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=yzxkx*hvOd2ZwftS4Zas9*8Ns1YmQ9mwyrwQXU--PROUN6PYmALiOvXn85rQncgL4MMpAb3YxcH8ttXshlcr-*zTEW99rmtDio2ZdC6zxJZIKSyJbXGkRflcS50V51eV&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全9月1日讯   近日，美国正试图没收280个加密货币账户，这些账户与两家虚拟货币交易所的网络攻击有关，据称，这些攻击是由朝鲜黑客所为。根据美国司法部(...
+ ## [苹果鼓励开发者对AppStore准则提出修改建议；SpaceX Falcon火箭完成第一百次发射|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=YtHXpRDIv3ARANN7OJZuyYrIMHPMVp5gJSLtNfNQSazQCFDmsX7CCQR6oLMAiAZekiwbegJqS6lMaWuHP6gL7-QS3J2-cuNs62DtquSAsmTbusWQNqPrMTHrCTyooU7w&new=1)
+ > 图 / UnsplashHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【苹果鼓励开发者对AppStore准则提出修改建议】据MacRumors消息，在6月的WWDC，苹果宣布对App Store审查处理方式的几项改变，在
+ ## [你经常接到骚扰电话吗?工信部拟新规，他们要凉了!](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=ksxORrXHHCiVDq57yBovgrhI49wYsH8xxS3uW6-PqFGjt*VXMng*tjPs0Cs0wu2bV6tUtfAwmvGRWktk8Q10x6dY7Y3ynJwok51WPaJALr9mfRSw3xVXkgoT4QAv2Rhb&new=1)
+ > 未经用户同意不得发送商业短信或拨打商业电话据工信部网站8月31日消息，工信部就《通信短信息和语音呼叫服务管理规定(征求意见稿)》公开征求意见，征求意见稿中规定，任何组织或个人未经用户同意或者请求，或者...
+ ## [马斯克终成乔布斯](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=nfHCmlnrGvZ7ucTZprgK3PD17LB8ne7Kfk45WuKG5pUegCg6IlCSIc2wkzFxEkDCdI9WchP3yOSKf*2j2SnAX7Qp4JVw4fMFurjGTV2*69Q58aTJJ-nYGgQ2AtS0mmHP&new=1)
  > 创投圈大小事，你都能尽在掌握腾讯创业 | ID：qqchuangye  从汽车销售到以软件为核心的互联网服务，再到自动驾驶，特斯拉看起来是在复刻苹果的老路，却正在颠覆原有的汽车商业生态。本文来源 “字母榜”（ID：wu...
- ## [官方发文!以后你再也接不到这种电话了](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=vCihMGCmxE7YnJL9PkwEcx9yLDXiv4g1Unc2WS78pmtABrjX2*vKllvreMGy-GSdVWUQ6YIV3m7pWejVsCLXkHfkWLeEezIdIdLR0wyXBOfLFp9vPfW0o-EwTCYBXure&new=1)
+ ## [官方发文!以后你再也接不到这种电话了](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=vCihMGCmxE7YnJL9PkwEcx9yLDXiv4g1Unc2WS78pmse4Fr-JLNIvln2XkLdzepxB1h6wtz5ennzZyX*33*AMIzotr1GYVBWt1VvkW4ngU3WS0hHkB-FAXH4ddIDAYKb&new=1)
  > 近日，工信部就《通信短信息和语音呼叫服务管理规定（征求意见稿）》公开征求意见，任何组织或个人未经用户同意或者请求，或者用户明确表示拒绝的，不得向其发送商业性短信息或拨打商业性电话。征求意见稿提出，...
- ## [\[报告\]2020长城汽车深度解析(附59页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=e8-M5F*XoIAlIIJxzqjfwswwdvCxUBEEW0e1OidylOnpklB8f6MSyrm6*GRAv-fHDYrkOPzl3LcIj3Mvl9zxIeeWe8EO2zkdqKaNZ10YYMZUlAi6w0lZreaYHVwsrMWV&new=1)
+ ## [\[报告\]2020长城汽车深度解析(附59页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=e8-M5F*XoIAlIIJxzqjfwswwdvCxUBEEW0e1OidylOmTouF1tqEjiNfM3dGtPrVnXQ*E3sCzFf4PxDiBdQqXhdMHJLgzNfSvYe9m1ZuX9r1Q-p35AolHt*cPB*DCr9hO&new=1)
  > 长城汽车是国内SUV和皮卡制造企业，已于2003年、2011年分别在香港和内地上市，旗下拥有哈弗、WEY、欧拉和长城皮卡四个品牌，产品涵盖SUV、轿车、皮卡三大品类，动力包括传统动力车型和新能源车型，具备发动机、...
- ## [移动宽带品质再升级，邀您点评](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=XD9739Zhz3sAAbzR7WTf1PTdP8VDOOSCJnXnfd5k4wFCvZOKIS4H9bHnbvQZuEBSjjceLC4o8nw7KMIpAVC3SPoeGh-ArwfMpHV7OINH4eD0Ss6fqi1AomSJHR9quDzH&new=1)
+ ## [移动宽带品质再升级，邀您点评](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=XD9739Zhz3sAAbzR7WTf1PTdP8VDOOSCJnXnfd5k4wGPg4gNRJyQiX2b0rSMqFr7wSkKn5kkc3G6*9ycDHsNnhD**UW6hwfDThU77LyEFjhc747MOYWHVYABGqcu4tgB&new=1)
  > 8月20号，中国移动公布了7月份的运营数据，其中，有线宽带用户净增200.9万户，累计达到1.99125亿户，继续保持行业领先。中国信通院发布的《中国宽带资费水平报告》显示：我国固定宽带月户均支出为35.7元，同比下...
- ## [\[科技早报7点整\]抖音内测云游戏功能 朝鲜疑在YouTube上传对韩暗号广播……](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=bD*Nu0X72iXkjtHqENi2haSZJhTxOoa5dwAjfqt8a2mcEa-qn3mNNdkQaCAy2*O-rLPeHdpkDpmJpCHZ7MQRD-ufZeycT2N0GVskFjMMsUVnYb1iaj9xT5O2wylrpwJg&new=1)
+ ## [\[科技早报7点整\]抖音内测云游戏功能 朝鲜疑在YouTube上传对韩暗号广播……](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=bD*Nu0X72iXkjtHqENi2haSZJhTxOoa5dwAjfqt8a2mHZkL77Jo5dx8GRPVb8xwun-JF6xv4x*xR*qJ9Xe7OuIRbBm0Siakq*V01a1pJjdcDjta0oTDK08XnifJtlJeC&new=1)
  > 早上好，科技圈【一度蜜科技早报】第910期1.工信部拟规定：未经用户同意不得发送商业性短信息工信部就通信短信息和语音呼叫服务管理规定公开征求意见，任何组织或个人未经用户同意或者请求，或者用户明确表示拒...
- ## [业绩|CIG剑桥1H20营收14.24亿元 新产品陆续于今年投产](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=g6Lmfg4ypat22Bx7V2M9b3mCTh4fr8znVIf7TOfwL0o3PjoMoao-icUdusBy2GdtgZabxoz*2l6JOu6eZajqxhPC3SHxyQsun68r6rrKH5OHESrcn-sT9K*rhN2vb7kN&new=1)
+ ## [业绩|CIG剑桥1H20营收14.24亿元 新产品陆续于今年投产](http://mp.weixin.qq.com/s?src=11&timestamp=1598950804&ver=2557&signature=g6Lmfg4ypat22Bx7V2M9b3mCTh4fr8znVIf7TOfwL0piP*7Sfn8IcFt2a8*iJUumyp4LRksqW8lLkG6B7dH3y*T0W1U6*GsKEeDi0*LNPRlwMl5tL7hAH8kvKJhkBDCG&new=1)
  > 新闻导读CIG剑桥科技2020年半年度营收14.24亿元，同比下降1.78%;净利润亏损5738万元，同比减少1084%。光模块和光组件的销售额，已接近2019年全年销售额，发货约为 16 万支，其中 25G、100G、200G/400G
- ## [华为开发者大会前瞻，鸿蒙系统 2.0 终于来了](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=7fa5ng9jcCtnyRcSJfu-HYPjmcARTY0OHY5ciLj40mqd7rueIjLOUtdmhgV0OdLQoVMeJE78uIUH8*drg9I9NOFcYgbGkYhmB1jQvJPLlGELDS2yplPY9K6bzK5rg-O8&new=1)
- > 去年 8 月，华为在 2019 年开发者大会上，正式发布了华为自主研发的操作系统——鸿蒙 1.0，在这一年当中，华为经历了前所未有的挑战。近日，华为正式宣布2020 年开发者大会将于 9 月 10 日在东莞松山湖拉开帷幕...
- ## [工信部拟新规，骚扰电话要凉了](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=UN*oGeXr0utc3SspRzTzYEWO4yO2dHZxVsmB0*sOhw4*9SQ8M9k5PvZrU67XzuBiXQiAhA2rXWVRJcCxLKOlDxhsR-bMQoitl9iR3zRC1k4Mn8jqhSZrqaEJl253SJ45&new=1)
- > 近日，工信部就《通信短信息和语音呼叫服务管理规定（征求意见稿）》公开征求意见，任何组织或个人未经用户同意或者请求，或者用户明确表示拒绝的，不得向其发送商业性短信息或拨打商业性电话。征求意见稿提出，...
- ## [5G 还没用上，4G 却越来越慢了?](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=LCcqe6N06yqfN8W0VlUX1RppSk-CB8aArtyaWR*ovsO43L*puNfyMor9DrthDqHnNtVvuOUkhNd0ciV9BcBSN9s6NPpJ0FIjlbiXkgJsiv6iAS412jwgPHfzT60EuPKA&new=1)
- > 4G 变慢，不是 5G 的「锅」，至少不全是。最近 4G 的网络体验越来越不尽如人意了。某个时段、某个地点，时常会出现网页打开困难的情况，仿佛一夜之间回到了 2G、3G 的「龟速」网上冲浪年代。只要经常留意就会发...
- ## [HDC2020，华为鸿蒙HarmonyOS会带来哪些不一样的体验?](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=p1NrZhrHigADKMV2IEhbifrEdVQFofeTevfz97ZWFKjnKEiHg8wwpXu43WrH8qDI6FuVmi3QT9T79h-r07J2hlGQdqvwMrVKV4jel0i77iZW1kKgVQoTRe3ySRcVBd24&new=1)
- > 说个正事，下个月 HDC.2020 就要来了。算起来，距离华为去年发布 HarmonyOS，已经过去了整整一年。不出意外的话，这次它将迎来一次新的升级。这个在特殊时期诞生的 HarmonyOS，因为某些特殊的因素，一度被很多用...
- ## [工信部出手!以后这些人或不得给你打电话了!](http://mp.weixin.qq.com/s?src=11&timestamp=1598931004&ver=2557&signature=J4dEbJNM1LCm5rTCHI6cHb-QSEI5jlK0lNCrtsm*J4q0h8bq5aXVikhAAqy6ugz2ibth3LM5m91LfWC85o1rgDTUtSDqBq5TU*87cBvKHzkVkMFO6RmUMtxeTl2G9R2V&new=1)
- > 垃圾短信、骚扰电话即将被戴上“紧箍咒”！ 8月31日，工信部就《通信短信息和语音呼叫服务管理规定（征求意见稿）》公开征求意见。征求意见稿提出：任何组织或个人未经用户同意或者请求，或者用户明确表示拒绝的...
 # IT 技术 
  ## [数据库链接池终于搞对了，从100ms优化到3ms！](http://database.51cto.com/art/202009/625136.htm)
  > 数据库链接池终于搞对了，从100ms优化到3ms！
@@ -51,59 +61,28 @@ categories: IT NEWS
  > 利用边缘人工智能避免建筑系统故障
  ## [水坑攻击的原理和预防措施](http://netsecurity.51cto.com/art/202008/624957.htm)
  > 水坑攻击的原理和预防措施
- ## [AD活动目录管理 - 理论与实战](http://fellow.51cto.com/art/202007/622442.htm?qd=51ctojrzd)
- > AD活动目录管理 - 理论与实战
- ## [雾计算如何解决物联网挑战](http://cloud.51cto.com/art/202009/625137.htm)
- > 雾计算是在大量智能物联网设备之间提供高效，有效和可管理的通信的关键推动力。雾计算与物联网的融合将为不
- ## [如何采用热成像摄像头保护数据中心的内部和外部安全](http://network.51cto.com/art/202009/625134.htm)
- > 保护数据中心免受外部和内部威胁是当务之急，凭借其远程检测功能，热成像仪能够在外部人员接近数据中心设施
- ## [UltraRank从数百家商店中窃取信用卡](http://netsecurity.51cto.com/art/202009/625133.htm)
- > 一个网络犯罪组织，专门感染网店窃取支付卡数据，对近700家网站和十几家第三方服务提供商造成了损害。
- ## [物联网协议如何在物联网应用开发中发挥重要作用？](http://iot.51cto.com/art/202009/625129.htm)
- > 许多优秀公司与业内领先的物联网提供商合作。通信的层次不仅是基于网络的，还需要我们观察周围物体的范围。
- ## [如何突破我国电信领域对外开放的瓶颈？](http://network.51cto.com/art/202009/625131.htm)
- > 本文通过分析我国电信领域开放历程、当前市场发展情况和目前增值电信业务进一步开放遇到的瓶颈，提出后续有
- ## [邬贺铨：国内应用IPv6流量占比仍需提升](http://network.51cto.com/art/202009/625128.htm)
- > 在8月28日举行的“2020年中国IPv6发展论坛”上，中国工程院院士邬贺铨院士分享了他对IPv6规模部署的分析和
- ## [Linux 自旋锁Spinlock，教你如何把Ubuntu弄死锁](http://os.51cto.com/art/202009/625135.htm)
- > 由于在多处理器环境中某些资源的有限性，有时需要互斥访问(mutual exclusion)，这时候就需要引入锁的概念，
- ## [王者荣耀为什么不使用微服务架构？](http://developer.51cto.com/art/202009/625127.htm)
- > 笔者最近去面试了家游戏公司(有上市)。我问他，公司有没有做微服务架构的打算及考量?他很惊讶的说，我没听
- ## [主流手机芯片性能排行，看看哪款可以满足你](http://mobile.51cto.com/hot-625125.htm)
- > 选购手机时，手机性能也是需要关注的一大要点，手机性能会影响到流畅度、游戏体验等，其中手机芯片性能起到
- ## [混合云转型的3个关键问题](http://cloud.51cto.com/art/202009/625122.htm)
- > 很多企业在混合云中完成了数字化转型工作。正如人们所猜测的那样，云计算平台的标准和工具之间不一致之处可
-# 人工智能 
- ## [CSS小鲨鱼](https://blog.csdn.net/weixin_45820444/article/details/108304317)
- > CSS小鲨鱼
- ## [CGB2005-京淘5](https://blog.csdn.net/qq_16804847/article/details/108315987)
- > CGB2005-京淘5
- ## [CSS常用样式（二）：绘制双箭头](https://blog.csdn.net/Allen_6/article/details/108298043)
- > CSS常用样式（二）：绘制双箭头
- ## [面试官让我用纯css做一个下拉菜单，一分钟搞定！！](https://blog.csdn.net/gitchatxiaomi/article/details/108293517)
- > 面试官让我用纯css做一个下拉菜单，一分钟搞定！！
- ## [wordpress必须禁用REST API和移除WP-JSON链接的方法](https://blog.csdn.net/zcp528/article/details/108314660)
- > wordpress必须禁用REST API和移除WP-JSON链接的方法
- ## [大厂比较常见的10个JavaScript笔试题解析，大家能答上来几个？](https://blog.csdn.net/S11035762/article/details/108325835)
- > 大厂比较常见的10个JavaScript笔试题解析，大家能答上来几个？
- ## [各种好看的小按钮合集，纯css编写，最近在学习时遇到的，记录成为笔记](https://blog.csdn.net/qq_42285889/article/details/108294837)
- > 各种好看的小按钮合集，纯css编写，最近在学习时遇到的，记录成为笔记
- ## [什么是盒子模型，盒子模型，标准盒模型，怪异盒模型，两种盒模型的区别，box-sizing属性](https://blog.csdn.net/qq_45466204/article/details/108320190)
- > 什么是盒子模型，盒子模型，标准盒模型，怪异盒模型，两种盒模型的区别，box-sizing属性
- ## [数组方法，总有一个是你不知道的](https://blog.csdn.net/weixin_42208160/article/details/108269248)
- > 数组方法，总有一个是你不知道的
- ## [jQuery动态加载瀑布流](https://blog.csdn.net/CSDNzhaojiale/article/details/108306542)
- > jQuery动态加载瀑布流
- ## [为什么需要虚拟DOM？](https://blog.csdn.net/qq_41694291/article/details/108306019)
- > 为什么需要虚拟DOM？
- ## [网页三栏布局常用方法](https://blog.csdn.net/jasojfosijfoids/article/details/108309562)
- > 网页三栏布局常用方法
- ## [修炼js 7 es6新特性2](https://blog.csdn.net/weixin_43889562/article/details/108323538)
- > 修炼js 7 es6新特性2
- ## [JavaScript 浅层克隆和深度克隆](https://blog.csdn.net/Yuki_yuhan/article/details/108297341)
- > JavaScript 浅层克隆和深度克隆
- ## [cf1397 A. Juggling Letters](https://blog.csdn.net/TopTom1234/article/details/108315069)
- > cf1397 A. Juggling Letters
+ ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
+ > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
+ ## [五个关键的云安全挑战以及如何克服它们](http://cloud.51cto.com/art/202009/625162.htm)
+ > 如今的组织都希望获得云的可访问性和灵活性，但如果您不能安全地操作，这些好处最终意义不大。考虑到这一点
+ ## [90亿信用卡曝出协议漏洞：黑客无需密码即可盗刷](http://zhuanlan.51cto.com/art/202009/625156.htm)
+ > 每次我们使用信用卡/借记卡付款时，收款机都会使用EMV通信协议来处理付款。该协议由Europay、Mastercard和V
+ ## [网络安全策略管理技术（NSPM）探秘](http://zhuanlan.51cto.com/art/202009/625155.htm)
+ > 网络安全策略管理工具可以帮助安全管理者，通过跨混合网络实现安全策略的集中可见与控制、风险分析、实时合
+ ## [无人机技术如何助推智慧城市发展？](http://ai.51cto.com/art/202009/625154.htm)
+ > 在世界各地的大都市中，智慧城市项目正在进行，以解决拥堵问题。无人驾驶系统正被用作世界各地智慧城市不可
+ ## [16个非常有用的CSS伪选择器，你千万不要错过了！](http://news.51cto.com/art/202009/625161.htm)
+ > 这篇文章鼓励构造 UI 时使用更多纯 CSS 和更少的 JS。熟悉所有的 CSS 是实现这个目标的一种方法 ―― 另一
+ ## [更智能：人工智能与能源行业的革命](http://ai.51cto.com/art/202009/625152.htm)
+ > 在数据驱动的能源领域，复杂的机器学习正在为“强大的AI”铺平道路，以提高效率、预测、交易和用户可访问性
+ ## [阿里、京东、拼多多新财报PK：谁手上的好牌更多？](http://news.51cto.com/art/202009/625149.htm)
+ > 电商巨头阿里、京东、拼多多各自发布的这份新鲜出炉的财报，整体表现究竟如何?本季度财报发布之后，国内电
+ ## [Google Chrome加入密码泄露检查功能 支持一键跳转修改](http://os.51cto.com/art/202009/625147.htm)
+ > 近年来，网站服务被黑客入侵并暴露数百上千万密码的事件已经屡见不鲜。而为了帮助用户了解自己的密码是否已
+ ## [程序员7月份工资出炉，程序员仍旧很“香”？](http://news.51cto.com/art/202009/625146.htm)
+ > 多灾多难的2020年，许多公司已经开始减少招聘配额，更不用说提高工资了!据第三方统计，今年7月程序员的平均
+ ## [Windows Defender 垃圾？可能只是你不会用而已](http://os.51cto.com/art/202009/625145.htm)
+ > 在之前很多期关于火绒、360 等安全软件的文章中，有一个炮灰总要被提及，就是 Windows Defender。
 # PM 
  ## [【卡片8】如何做好你所负责的产品？](http://www.chanpin100.com/article/112555)
  > 一张图，解决一个问题
