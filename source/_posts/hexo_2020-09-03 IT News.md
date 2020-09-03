@@ -1,21 +1,21 @@
 ---
 title: 2020-09-03 IT News
 copyright: true
-date: 2020-09-03 08:00:57
+date: 2020-09-03 09:01:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联想智慧中国行商用IoT论坛-沈阳站来袭!直播入口在这里~~](http://mp.weixin.qq.com/s?src=11&timestamp=1599089404&ver=2561&signature=spEqev7Fmhlfnz9sbKU3iUBp3kyKcuKiG5FXrdN1-f4YhUnrVbBxaPsvSdt7YhUOGlhGB*KTQG3tplyT9f0H8s307LcnqhsT1ZykUKwHVKjmmV6XGUyvtuWJjdu0BZ9W&new=1)
- > 变革的时代浪潮中，中国企业如何把握机遇?制造业数字化及智能化发展的趋势下，企业未来的方向和路径是什么?企业智能化转型升级，如何迈出关键一步?9月1-5日以“转型升级·合作共赢”为主题的第十九届中国国际装...
- ## [聚焦商用IoT共话行业智能化升级 联想智慧中国行活动沈阳启动](http://mp.weixin.qq.com/s?src=11&timestamp=1599089404&ver=2561&signature=beBSspkxr6t9x0KrGIM8b4zBnNjoiCHZxD6jJqvpAIw6ei3NJ8eSF2HexrrkOqMeBYYCZdrvQuXY3y4eX-kVxEftfbcb2MpjrCcMg3ujiA*jNYBkAWTklUCAnHN6AshL&new=1)
- > 9月1日，以“转型升级·合作共赢”为主题的第十九届中国国际装备制造业博览会在沈阳国际展览中心隆重开幕。联想集团东北大区总经理张欣出席了制博会第五届制造强国高峰论坛暨新基建·智造新动能高质量发展论坛并...
- ## [美光科技：9月14日后基本上无法向华为供应芯片 除非美国政府延长或更改期限](http://mp.weixin.qq.com/s?src=11&timestamp=1599089404&ver=2561&signature=RT9JwjNVVya53GA0mz0LeUMVzKpv*lyD64OY9OXqXfjAuEYWOwt9XQ3x5GrqJcRXkwd-mOQ9Bk0173s04x2hH85l7*73NMYyIYtxERc*IxY=&new=1)
- > 经济观察网 记者 沈怡然 9月2日，美系芯片大厂美光科技(MU.US)向记者证实了公司关于合作华为的最新观点:美国的规定限制了公司一直以来向华为供货的相关许可证，如此看来，在2020年9月14日之后，公司对华为的芯片...
- ## [冷静的批评：马斯克的脑机奇迹，何时能够实现?](http://mp.weixin.qq.com/s?src=11&timestamp=1599089404&ver=2561&signature=yvYnV*UUq*bwPpj19uLv7F324SYzpUTu9PIYhQ56yHPLami0IQtfZpmREoG42h1SFU1x5MsB7SPpR0nw*lQH3jg3P2vd9ndldiUCXH0zh4DiACeYKSKALQ92VkVSyz86&new=1)
+ ## [冷静的批评：马斯克的脑机奇迹，何时能够实现?](http://mp.weixin.qq.com/s?src=11&timestamp=1599094804&ver=2561&signature=yvYnV*UUq*bwPpj19uLv7F324SYzpUTu9PIYhQ56yHOpnvqekDAG*L7B6Kf*DihYXZH4AonG7RHuP2zlAhx6-keNCOtA1p-t45ZdZOdpvfesDE3pIFzA0CLXo380OWoi&new=1)
  > 图一：大脑内植入了Neuralink公司的脑机接口设备的一头小猪（左上）及由脑机接口设备实时测量而得到的小猪大脑内神经活动（图片来自Neuralink）- 编者按 -8月28日，埃隆·马斯克投资的Neuralink发布了一个可植入...
- ## [成渝高速总经理调研弘和AI加油站安全预警管理平台](http://mp.weixin.qq.com/s?src=11&timestamp=1599089404&ver=2561&signature=20-9ZncIV9jOpQlBOvvy3D9Iou9KuNf9krA4dkdAsGklJ0LQkBfc1D9uttoOzTBZ7kuxCBXc4hRP20fiA8oWOyvvVLIrvHTOdWESKp3mklJh1LNgNjEuAX2WXytjrr-m&new=1)
+ ## [美光科技：9月14日后基本上无法向华为供应芯片 除非美国政府延长或更改期限](http://mp.weixin.qq.com/s?src=11&timestamp=1599094804&ver=2561&signature=RT9JwjNVVya53GA0mz0LeUMVzKpv*lyD64OY9OXqXfjy*HmekV9yYtXwCEsNST5Cz6g2MkfGbw8nCtJJfCBLh04vTcMnA5zZW2Q1omHUfY8=&new=1)
+ > 经济观察网 记者 沈怡然 9月2日，美系芯片大厂美光科技(MU.US)向记者证实了公司关于合作华为的最新观点:美国的规定限制了公司一直以来向华为供货的相关许可证，如此看来，在2020年9月14日之后，公司对华为的芯片...
+ ## [成渝高速总经理调研弘和AI加油站安全预警管理平台](http://mp.weixin.qq.com/s?src=11&timestamp=1599094804&ver=2561&signature=20-9ZncIV9jOpQlBOvvy3D9Iou9KuNf9krA4dkdAsGlPdouFGWM3G8Bi-43Wfpr7nPMmKOh8d9OidMaIADwv-SxX17UNgHw1kbofDMIlBc1BcMHwvVzhs8PNb99THyxs&new=1)
  > 9月1日上午，成渝高速公路股份有限公司总经理李文虎一行到中路能源公司永兴加油站进行弘和AI加油站安全预警管理平台调研。四川中路能源有限公司冯董事长、黄斌总经理等负责人随同调研。弘和AI加油站安全预警管理...
+ ## [联想智慧中国行商用IoT论坛-沈阳站来袭!直播入口在这里~~](http://mp.weixin.qq.com/s?src=11&timestamp=1599094804&ver=2561&signature=spEqev7Fmhlfnz9sbKU3iUBp3kyKcuKiG5FXrdN1-f5NresoUu2LBn4rAhUjpmmLvhav*ifO0IhP-wAFtuVr9b2Nio7LeY1Oicr8L2QoRpCO5gMzbB1-aHutftfF*KTp&new=1)
+ > 变革的时代浪潮中，中国企业如何把握机遇?制造业数字化及智能化发展的趋势下，企业未来的方向和路径是什么?企业智能化转型升级，如何迈出关键一步?9月1-5日以“转型升级·合作共赢”为主题的第十九届中国国际装...
+ ## [聚焦商用IoT共话行业智能化升级 联想智慧中国行活动沈阳启动](http://mp.weixin.qq.com/s?src=11&timestamp=1599094804&ver=2561&signature=beBSspkxr6t9x0KrGIM8b4zBnNjoiCHZxD6jJqvpAIy9x296kaPZxehLZa*vMVT8MpB7b1kpsE7IXXD5mqGLHZB6dhBDMwGTvSiM-XFWkdB5Uy5u2iMjYDO5IlEUbioP&new=1)
+ > 9月1日，以“转型升级·合作共赢”为主题的第十九届中国国际装备制造业博览会在沈阳国际展览中心隆重开幕。联想集团东北大区总经理张欣出席了制博会第五届制造强国高峰论坛暨新基建·智造新动能高质量发展论坛并...
 # IT 技术 
  ## [针对Salesforce测试的7项优秀实践](http://developer.51cto.com/art/202009/625255.htm)
  > 针对Salesforce测试的7项优秀实践
@@ -31,41 +31,59 @@ categories: IT NEWS
  > 为何微服务是业务成功的关键？
  ## [Python到底是强类型语言，还是弱类型语言？](http://developer.51cto.com/art/202008/625081.htm)
  > Python到底是强类型语言，还是弱类型语言？
- ## [美女讲师教你学Python第一季：基础入门视频教程](http://fellow.51cto.com/art/202008/623597.htm?qd=51ctojrzd)
- > 美女讲师教你学Python第一季：基础入门视频教程
- ## [每秒上千订单场景下的分布式锁高并发优化实践！](http://developer.51cto.com/art/202009/625271.htm)
- > 假如下单时，用分布式锁来防止库存超卖，但是是每秒上千订单的高并发场景，如何对分布式锁进行高并发优化来
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [消息称印度已禁用224款中国App：数量还会继续增加](http://mobile.51cto.com/news-625289.htm)
+ > 据印度《金融快报》报道称，印度政府已经禁用了我国224款App，而且这个数量有望继续增加。报道中提到，今年
+ ## [干货！数据科学 Top10 清单（工具、技术、应用……）](http://bigdata.51cto.com/art/202009/625288.htm)
+ > 本文为您提供了所需的关键信息，这样您就可以有效地利用时间，灵活地探索数据科学的职业道路，帮助您找到穿
+ ## [运营商业绩开始V型反弹，但这些问题亟需破解](http://network.51cto.com/art/202009/625287.htm)
+ > 工业和信息化部公布的数据显示，今年1-7月份，电信业务收入累计完成8027亿元，同比增长3.1%，增速较上半年
+ ## [Upwork发布15种高薪水编程语言榜单](http://developer.51cto.com/art/202009/625286.htm)
+ > 在线人才平台 Upwork 表示，其通过分析 Upwork.com 上最高的平均时薪，整理出了技术专业岗位收入最高的 15
+ ## [如何让机器更懂你？是时候了解NLP了](http://ai.51cto.com/art/202009/625280.htm)
+ > NLP有着广泛的应用范围，翻译和语言生成、分类和聚合、情感分析，以及其他信息提取、Siri等虚拟助手都在NLP
+ ## [这9个关键特征，才是未来数据库该有的样子](http://database.51cto.com/art/202009/625279.htm)
+ > 当今的数据库面临着前所未有的挑战。它们必须处理大量不同的数据，快速获得结果，并应对极其复杂的技术环境
+ ## [C++的替补选手：微软是如何应用Rust的？](http://developer.51cto.com/art/202009/625278.htm)
+ > Rust是一种相对较新的编程语言，具有与C和C++相同的底层性能，并具备现代编程语言应有的功能集。微软认为Ru
+ ## [Java 开发的编程噩梦，这些坑你没踩过算我输](http://developer.51cto.com/art/202009/625274.htm)
+ > 很多 Java 初学者在开始编程时会出现一些问题，这些问题并不是指某个特定领域的问题，也不是指对某个业务不
+ ## [免安装，还原生产环境，运行中切换版本，这不是我认识的MySQL](http://database.51cto.com/art/202009/625273.htm)
+ > MySQL，用了好多年了吧，在你印象里是不是一直都是四平八稳，做为一个基础组件，也不期待啥了。
+ ## [一文搞懂Linux权限体系](http://os.51cto.com/art/202009/625272.htm)
+ > 随着年龄的增加，我的经验越来越丰富，而记忆力却越来越差。为了应付繁重的日常事务，我不得不准备了长长的
 # 人工智能 
- ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
- > mongoTemplate的方法和update()
- ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
- > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
- ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
- > Mysql实现查询5分钟之前的数据
- ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
- > 按键精灵-自定义函数time(),datetime(),diff()
- ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
- > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
- ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
- > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
- ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
- > ERD图
- ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
- > 怎么往mysql表里添加数据
- ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
- > 连续登录天数计算
- ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
- > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
- ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
- > Sql性能优化看这一篇就够了
- ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
- > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
- ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
- > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
- ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
- > ffmpeg vsync参数分析
- ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
- > oracle授权查询
+ ## [\[Python3\] 超级码力在线编程大赛初赛 第2场 题解](https://blog.csdn.net/weixin_42227482/article/details/108314335)
+ > \[Python3\] 超级码力在线编程大赛初赛 第2场 题解
+ ## [Python爬虫入门教程 83-100 scrapyd配合scrapydweb跑scrapy爬虫，名称有点套娃](https://blog.csdn.net/hihell/article/details/108325969)
+ > Python爬虫入门教程 83-100 scrapyd配合scrapydweb跑scrapy爬虫，名称有点套娃
+ ## [CV：利用人工智能算法让古代皇帝画像以及古代四大美女画像动起来(模仿偶像胡歌剧中角色表情动作)](https://blog.csdn.net/qq_41185868/article/details/108306822)
+ > CV：利用人工智能算法让古代皇帝画像以及古代四大美女画像动起来(模仿偶像胡歌剧中角色表情动作)
+ ## [Python数据分析实战（3）Python实现数据可视化](https://blog.csdn.net/CUFEECR/article/details/108299720)
+ > 
+ ## [实践出真知 -- 用Python处理Excel的一些实例](https://blog.csdn.net/qq_46127363/article/details/108325809)
+ > 实践出真知 -- 用Python处理Excel的一些实例
+ ## [【数据结构与算法Python描述】——双向链表简介、Python实现及应用](https://blog.csdn.net/weixin_37780776/article/details/108190233)
+ > 【数据结构与算法Python描述】——双向链表简介、Python实现及应用
+ ## [python-酷我音乐(爬虫)](https://blog.csdn.net/qq_45931878/article/details/108283241)
+ > python-酷我音乐(爬虫)
+ ## [基于xpath选择器、PyQuery、正则表达式的格式清理工具](https://blog.csdn.net/weixin_37128372/article/details/108340853)
+ > 基于xpath选择器、PyQuery、正则表达式的格式清理工具
+ ## [简单又强大的pandas爬虫   利用pandas库的read_html()方法爬取网页表格型数据](https://blog.csdn.net/fyfugoyfa/article/details/108299224)
+ > 简单又强大的pandas爬虫   利用pandas库的read_html()方法爬取网页表格型数据
+ ## [python3 unittest+request+HTMLTestRunner接口自动化（一）](https://blog.csdn.net/qq_42671772/article/details/108334996)
+ > python3 unittest+request+HTMLTestRunner接口自动化（一）
+ ## [python基础笔记随记--Python数据类型，变量，进制，常见函数](https://blog.csdn.net/qq_45687410/article/details/108349668)
+ > python基础笔记随记--Python数据类型，变量，进制，常见函数
+ ## [踩坑日常之python strip() 使用](https://blog.csdn.net/weixin_45796388/article/details/108315895)
+ > 踩坑日常之python strip() 使用
+ ## [OpenCV-Python图像转换为PyQt图像的变形及花屏无法正常显示问题研究](https://blog.csdn.net/LaoYuanPython/article/details/108345593)
+ > OpenCV-Python图像转换为PyQt图像的变形及花屏无法正常显示问题研究
+ ## [python3学习-初识爬虫](https://blog.csdn.net/win176489/article/details/108076758)
+ > python3学习-初识爬虫
+ ## [(NO.1)利用sklearn进行鸢尾花分类](https://blog.csdn.net/weixin_45753059/article/details/108332007)
+ > (NO.1)利用sklearn进行鸢尾花分类
 # PM 
  ## [关于产品架构的思考](http://www.chanpin100.com/article/112610)
  > 一个产品不可能是单独的存在，开始规划的时候，就先有产品架构的意识，提前踩坑，后面产品的增速会越来越快。
