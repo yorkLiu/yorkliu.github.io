@@ -1,21 +1,21 @@
 ---
 title: 2020-09-03 IT News
 copyright: true
-date: 2020-09-03 10:01:23
+date: 2020-09-03 12:03:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [成渝高速总经理调研弘和AI加油站安全预警管理平台](http://mp.weixin.qq.com/s?src=11&timestamp=1599096604&ver=2561&signature=20-9ZncIV9jOpQlBOvvy3D9Iou9KuNf9krA4dkdAsGlPdouFGWM3G8Bi-43Wfpr7Tggk3MibQJmMAiIUMBxlTaXNzoLOIaNiYO924MlBw3FzyS5IxJqC74SpLHyJvEWM&new=1)
+ ## [成渝高速总经理调研弘和AI加油站安全预警管理平台](http://mp.weixin.qq.com/s?src=11&timestamp=1599103804&ver=2561&signature=20-9ZncIV9jOpQlBOvvy3D9Iou9KuNf9krA4dkdAsGn-EFSyQfvmyMkb9vMD771iF6XNaxyNE0mOL*ZKw9-8p*ziHkZeVK68vcZMMo5BKXgzeHKDn2u*FPodl2KUtQtd&new=1)
  > 9月1日上午，成渝高速公路股份有限公司总经理李文虎一行到中路能源公司永兴加油站进行弘和AI加油站安全预警管理平台调研。四川中路能源有限公司冯董事长、黄斌总经理等负责人随同调研。弘和AI加油站安全预警管理...
- ## [美光科技：9月14日后基本上无法向华为供应芯片 除非美国政府延长或更改期限](http://mp.weixin.qq.com/s?src=11&timestamp=1599096604&ver=2561&signature=RT9JwjNVVya53GA0mz0LeUMVzKpv*lyD64OY9OXqXfgN0bODyEqJGMtHNtRlBcZiHKq*KCQW8Z9TCHPbwesOwonb9a5a7DLvVBJhCB9Wc0E=&new=1)
- > 经济观察网 记者 沈怡然 9月2日，美系芯片大厂美光科技(MU.US)向记者证实了公司关于合作华为的最新观点:美国的规定限制了公司一直以来向华为供货的相关许可证，如此看来，在2020年9月14日之后，公司对华为的芯片...
- ## [聚焦商用IoT共话行业智能化升级 联想智慧中国行活动沈阳启动](http://mp.weixin.qq.com/s?src=11&timestamp=1599096604&ver=2561&signature=beBSspkxr6t9x0KrGIM8b4zBnNjoiCHZxD6jJqvpAIy9x296kaPZxehLZa*vMVT8rslKdDfZFzoh12i8RQYt13WE3AsqhNGHP1aPtIn7zPPQboA7JeKtXrD0Nlhy47Bg&new=1)
- > 9月1日，以“转型升级·合作共赢”为主题的第十九届中国国际装备制造业博览会在沈阳国际展览中心隆重开幕。联想集团东北大区总经理张欣出席了制博会第五届制造强国高峰论坛暨新基建·智造新动能高质量发展论坛并...
- ## [联想智慧中国行商用IoT论坛-沈阳站来袭!直播入口在这里~~](http://mp.weixin.qq.com/s?src=11&timestamp=1599096604&ver=2561&signature=spEqev7Fmhlfnz9sbKU3iUBp3kyKcuKiG5FXrdN1-f5NresoUu2LBn4rAhUjpmmLljdcz*qfb9VleQrtkd14IuKIymPA8b48Xm8oXLQMzxgQTKyVBlmSt9KvUdRBWMBi&new=1)
+ ## [联想智慧中国行商用IoT论坛-沈阳站来袭!直播入口在这里~~](http://mp.weixin.qq.com/s?src=11&timestamp=1599103804&ver=2561&signature=spEqev7Fmhlfnz9sbKU3iUBp3kyKcuKiG5FXrdN1-f6GduJKiwKXylmkwNrvIQDABoO-b2NFExOy5FTE-Ko9SusHHcpSIoVTZDxvLs-P13iWFQFhfiFcqwOa3Z6AkFSv&new=1)
  > 变革的时代浪潮中，中国企业如何把握机遇?制造业数字化及智能化发展的趋势下，企业未来的方向和路径是什么?企业智能化转型升级，如何迈出关键一步?9月1-5日以“转型升级·合作共赢”为主题的第十九届中国国际装...
- ## [冷静的批评：马斯克的脑机奇迹，何时能够实现?](http://mp.weixin.qq.com/s?src=11&timestamp=1599096604&ver=2561&signature=yvYnV*UUq*bwPpj19uLv7F324SYzpUTu9PIYhQ56yHOpnvqekDAG*L7B6Kf*DihYMx4t*yYMC6S7NmQyJU-W4JeB4-3hAloawXNmTuSoFpFVzSJL0MqAxO5pQeBOJn*1&new=1)
+ ## [冷静的批评：马斯克的脑机奇迹，何时能够实现?](http://mp.weixin.qq.com/s?src=11&timestamp=1599103804&ver=2561&signature=yvYnV*UUq*bwPpj19uLv7F324SYzpUTu9PIYhQ56yHMy5wwJtpaQ53Z0vSSqsj0SsT3aIQhaZ8WcXjHZAtjKRkJisfLNmQoL0rrkpfLNs9zmE1JcghTFD3VB9LKq3AyF&new=1)
  > 图一：大脑内植入了Neuralink公司的脑机接口设备的一头小猪（左上）及由脑机接口设备实时测量而得到的小猪大脑内神经活动（图片来自Neuralink）- 编者按 -8月28日，埃隆·马斯克投资的Neuralink发布了一个可植入...
+ ## [聚焦商用IoT共话行业智能化升级 联想智慧中国行活动沈阳启动](http://mp.weixin.qq.com/s?src=11&timestamp=1599103804&ver=2561&signature=beBSspkxr6t9x0KrGIM8b4zBnNjoiCHZxD6jJqvpAIyaDcB7hcAyq3qx9tiYYiGS9MyXyZkH9ngOxAGjC4D4tuuGACT6MFs023kUxG5INPOOfUp8A6UJWQYbj8R87df1&new=1)
+ > 9月1日，以“转型升级·合作共赢”为主题的第十九届中国国际装备制造业博览会在沈阳国际展览中心隆重开幕。联想集团东北大区总经理张欣出席了制博会第五届制造强国高峰论坛暨新基建·智造新动能高质量发展论坛并...
+ ## [美光科技：9月14日后基本上无法向华为供应芯片 除非美国政府延长或更改期限](http://mp.weixin.qq.com/s?src=11&timestamp=1599103804&ver=2561&signature=RT9JwjNVVya53GA0mz0LeUMVzKpv*lyD64OY9OXqXfg7F8LlPdbkCDEtECuQnPL5BdZqRUz*yDjppEJoQy*1DrkZtqBINboO7-81Zoazd*c=&new=1)
+ > 经济观察网 记者 沈怡然 9月2日，美系芯片大厂美光科技(MU.US)向记者证实了公司关于合作华为的最新观点:美国的规定限制了公司一直以来向华为供货的相关许可证，如此看来，在2020年9月14日之后，公司对华为的芯片...
 # IT 技术 
  ## [十张图说清Elasticsearch原理！](http://developer.51cto.com/art/202009/625293.htm)
  > 十张图说清Elasticsearch原理！
@@ -31,59 +31,59 @@ categories: IT NEWS
  > IPv6+，下一代互联网的新起点
  ## [借助Linux充分利用旧PC的三个方法](http://os.51cto.com/art/202009/625249.htm)
  > 借助Linux充分利用旧PC的三个方法
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
- ## [消息称印度已禁用224款中国App：数量还会继续增加](http://mobile.51cto.com/news-625289.htm)
- > 据印度《金融快报》报道称，印度政府已经禁用了我国224款App，而且这个数量有望继续增加。报道中提到，今年
- ## [干货！数据科学 Top10 清单（工具、技术、应用……）](http://bigdata.51cto.com/art/202009/625288.htm)
- > 本文为您提供了所需的关键信息，这样您就可以有效地利用时间，灵活地探索数据科学的职业道路，帮助您找到穿
- ## [运营商业绩开始V型反弹，但这些问题亟需破解](http://network.51cto.com/art/202009/625287.htm)
- > 工业和信息化部公布的数据显示，今年1-7月份，电信业务收入累计完成8027亿元，同比增长3.1%，增速较上半年
- ## [Upwork发布15种高薪水编程语言榜单](http://developer.51cto.com/art/202009/625286.htm)
- > 在线人才平台 Upwork 表示，其通过分析 Upwork.com 上最高的平均时薪，整理出了技术专业岗位收入最高的 15
- ## [如何让机器更懂你？是时候了解NLP了](http://ai.51cto.com/art/202009/625280.htm)
- > NLP有着广泛的应用范围，翻译和语言生成、分类和聚合、情感分析，以及其他信息提取、Siri等虚拟助手都在NLP
- ## [这9个关键特征，才是未来数据库该有的样子](http://database.51cto.com/art/202009/625279.htm)
- > 当今的数据库面临着前所未有的挑战。它们必须处理大量不同的数据，快速获得结果，并应对极其复杂的技术环境
- ## [C++的替补选手：微软是如何应用Rust的？](http://developer.51cto.com/art/202009/625278.htm)
- > Rust是一种相对较新的编程语言，具有与C和C++相同的底层性能，并具备现代编程语言应有的功能集。微软认为Ru
- ## [你真的知道什么是线程安全吗？](http://netsecurity.51cto.com/art/202009/625276.htm)
- > 如果面试官问你，线程安全的类有哪些，究竟什么是线程安全?你怎么回答呢?我们整天说线程安全，但你真的知道
- ## [详解Python中的协程，为什么说它的底层是生成器？](http://developer.51cto.com/art/202009/625275.htm)
- > 我们曾经在golang关于goroutine的文章当中简单介绍过协程的概念，我们再来简单review一下。
- ## [Java 开发的编程噩梦，这些坑你没踩过算我输](http://developer.51cto.com/art/202009/625274.htm)
- > 很多 Java 初学者在开始编程时会出现一些问题，这些问题并不是指某个特定领域的问题，也不是指对某个业务不
+ ## [MySQL培训速成教程（五）：Linux安装MySQL 8.0](http://fellow.51cto.com/art/202007/622199.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（五）：Linux安装MySQL 8.0
+ ## [Windows Server与Linux：究极对比](http://server.51cto.com/sOS-625323.htm)
+ > 在选择服务器操作系统时，Windows附带了许多您需要付费的功能。Linux是开放源代码，可让用户免费使用。 让
+ ## [手机前置摄像“消亡史”](http://mobile.51cto.com/news-625322.htm)
+ > 2020年是5G被寄予厚望的一年，但4G用户仍在高速增长，让5G上下产业链尴尬不已，说好的5G换机潮，再一次被推
+ ## [开源数据库SQLite、MySQL和PostgreSQL比较](http://database.51cto.com/art/202009/625321.htm)
+ > Linux是一款免费开源的操作系统，由于其自由、开放、安全、稳定等诸多特点，已被各大IT公司广泛地应用于服
+ ## [UI设计师最常犯的10个错误，看看你有没有中招](http://mobile.51cto.com/design-625319.htm)
+ > 本文是设计师 Danny Sapio 总结的 UI 设计师的10个常见错误，咱们一起来捋一下吧，看看你我中招了多少~
+ ## [如何让产品设计更加年轻化？我总结了这5个要点](http://mobile.51cto.com/design-625317.htm)
+ > 我们产品的目标用户较为年轻，95后、00后居多，这一部分人群有怎么样的特点，是我们一直在关注的。看了一些
+ ## [最大的黑暗市场被捣毁，版主被判11年监禁，创造者死于监狱](http://netsecurity.51cto.com/art/202009/625316.htm)
+ > 来自科罗拉多州的25岁的布莱恩・康纳・赫雷尔(Bryan Connor Herrell)因在黑暗网络市场AlphaBay担任版主而被
+ ## [学会这 7 个技巧，画出完美图标](http://mobile.51cto.com/design-625315.htm)
+ > 设计图标是一个艺术创作的过程，里面也有很多需要被关注而不可忽视技巧。要知道如何设计好图标，是对于 UI
+ ## [不怕黑客技术高就怕黑客努力，黑客利用漏洞控制超过30万个网站](http://netsecurity.51cto.com/art/202009/625314.htm)
+ > 黑客正积极利用一个关键的远程代码执行漏洞，允许未经验证的攻击者在运行易受攻击的File Manager插件版本的
+ ## [物联网解决方案和服务市场规模到2024年将达到2789亿美元](http://iot.51cto.com/art/202009/625313.htm)
+ > 根据MarketsandMarkets的一份报告，到2024年，物联网解决方案和服务市场规模预计将达到2789亿美元。在预测
+ ## [在云应用程序中加强隐私保护的9种方法](http://cloud.51cto.com/art/202009/625310.htm)
+ > 们需要采用一些方法策略实现个人隐私与功能之间的平衡，并保护其云中的应用程序和数据免受攻击。
 # 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
+ ## [基于xpath选择器、PyQuery、正则表达式的格式清理工具](https://blog.csdn.net/weixin_37128372/article/details/108340853)
+ > 基于xpath选择器、PyQuery、正则表达式的格式清理工具
+ ## [python-酷我音乐(爬虫)](https://blog.csdn.net/qq_45931878/article/details/108283241)
+ > python-酷我音乐(爬虫)
+ ## [python3爬虫入门(正则+requests 糗事百科多页图片爬取)](https://blog.csdn.net/kingoflongevity/article/details/108347366)
+ > python3爬虫入门(正则+requests 糗事百科多页图片爬取)
+ ## [CV：利用人工智能算法让古代皇帝画像以及古代四大美女画像动起来(模仿偶像胡歌剧中角色表情动作)](https://blog.csdn.net/qq_41185868/article/details/108306822)
+ > CV：利用人工智能算法让古代皇帝画像以及古代四大美女画像动起来(模仿偶像胡歌剧中角色表情动作)
+ ## [实践出真知 -- 用Python处理Excel的一些实例](https://blog.csdn.net/qq_46127363/article/details/108325809)
+ > 实践出真知 -- 用Python处理Excel的一些实例
+ ## [python基础笔记随记--Python数据类型，变量，进制，常见函数](https://blog.csdn.net/qq_45687410/article/details/108349668)
+ > python基础笔记随记--Python数据类型，变量，进制，常见函数
+ ## [OpenCV-Python图像转换为PyQt图像的变形及花屏无法正常显示问题研究](https://blog.csdn.net/LaoYuanPython/article/details/108345593)
+ > OpenCV-Python图像转换为PyQt图像的变形及花屏无法正常显示问题研究
+ ## [用 Python 实现朋友圈中的九宫格图片](https://blog.csdn.net/ityard/article/details/108333195)
+ > 用 Python 实现朋友圈中的九宫格图片
+ ## [利用opencv提取目标区域实战【乳腺癌MRI】](https://blog.csdn.net/qq_37392395/article/details/108350555)
+ > 利用opencv提取目标区域实战【乳腺癌MRI】
+ ## [Python 读取Excel的一列并计算所有对象出现次数](https://blog.csdn.net/qq_44864262/article/details/108335945)
+ > Python 读取Excel的一列并计算所有对象出现次数
+ ## [python tkinter 图片插入问题](https://blog.csdn.net/u011699626/article/details/108367300)
+ > python tkinter 图片插入问题
+ ## [【数据结构与算法Python描述】——双向链表简介、Python实现及应用](https://blog.csdn.net/weixin_37780776/article/details/108190233)
+ > 【数据结构与算法Python描述】——双向链表简介、Python实现及应用
+ ## [\[Python3\] 超级码力在线编程大赛初赛 第2场 题解](https://blog.csdn.net/weixin_42227482/article/details/108314335)
+ > \[Python3\] 超级码力在线编程大赛初赛 第2场 题解
+ ## [数据可视化（pyecharts库的介绍）](https://blog.csdn.net/jgdabc/article/details/108356235)
+ > 数据可视化（pyecharts库的介绍）
+ ## [Python的基本语法](https://blog.csdn.net/weixin_50537904/article/details/108366382)
+ > Python的基本语法
 # PM 
  ## [关于产品架构的思考](http://www.chanpin100.com/article/112610)
  > 一个产品不可能是单独的存在，开始规划的时候，就先有产品架构的意识，提前踩坑，后面产品的增速会越来越快。
