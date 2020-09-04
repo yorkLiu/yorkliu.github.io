@@ -1,7 +1,7 @@
 ---
 title: 2019-11-19 IT News
 copyright: true
-date: 2019-11-19 12:00:55
+date: 2019-11-19 17:01:34
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -65,58 +65,114 @@ WPS &#19978;&#24066;&#24403;&#22825;&#32929;&#20215;&#19978;&#28072;&#36817; 200
 <p>&nbsp;</p>
 
 # IT 技术 
- ## [物联网是解决“小”数据问题的关键](http://iot.51cto.com/art/201911/606228.htm)
- > 大数据问题并不是物联网要解决的唯一问题.物联网非常适合解决您的小数据问题
- ## [物联网平台：自建还是购买](http://iot.51cto.com/art/201911/606227.htm)
- > 您应该自建还是购买物联网平台？只有在了解了自己的具体需求和能力后，您才能做出正确决定。
- ## [我国网络安全的特点、成就、趋势](http://netsecurity.51cto.com/art/201911/606226.htm)
- > 我国的网民数量和网络规模均居世界第一，网络已经深度融入人们的学习、生活、工作。大数据、云计算、物联网
- ## [女朋友背着我，用 Python 偷偷隐藏了她的行踪](http://developer.51cto.com/art/201911/606225.htm)
- > 女朋友会 Python 是多么可怕的一件事！上篇文章发布之后，一位朋友告诉忽略了一件事，假设女朋友会 Python
- ## [未来的物联网将具备无处不在，无所不包的网络接入](http://iot.51cto.com/art/201911/606224.htm)
- > 连接无处不在、无所不包物联网作为信息系统向物理世界的延伸，拓展了人类认知和控制物理世界的能力，已经被
- ## [Python 实现docx文件的读写操作](http://developer.51cto.com/art/201911/606223.htm)
- > 我们在做一些数据统计或分析的时候，有时会接触到Execl 格式或者Word 格式的文件。Execl格式的数据提取和解
- ## [区块链和物联网将如何重塑建筑业？](http://iot.51cto.com/art/201911/606222.htm)
- > 物联网正在快速推动建筑行业资产和流程的数字化。建设项目通常很复杂，涉及许多法规和标准。信任和验证存在
- ## [漫谈数据中心的演变和发展](http://server.51cto.com/Datacenter-606220.htm)
- > 数据中心如今已成为维系现代社会结构的粘合剂，无论是用信用卡购物、向朋友发送消息，还是订购比萨饼，实际
- ## [给 AI 讲故事，如何教它脑补画面？](http://ai.51cto.com/art/201911/606221.htm)
- > 视觉想象力是人与生俱来的， AI 能否拥有类似的能力呢?比如：给出一段故事情节，如何让机器展开它的想象力
- ## [32个常用 Python 实现](http://developer.51cto.com/art/201911/606218.htm)
- > 今天我们来看看32个常用的 Python 实现。
+ ## [面试问Kafka，这一篇全搞定](http://os.51cto.com/art/201911/606207.htm)
+ > 面试问Kafka，这一篇全搞定
+ ## [全面讲解分布式数据库架构设计特点](http://database.51cto.com/art/201911/606170.htm)
+ > 全面讲解分布式数据库架构设计特点
+ ## [深度剖析阿里数据库内核：基于HLC的分布式事务实现](http://database.51cto.com/art/201911/606198.htm)
+ > 深度剖析阿里数据库内核：基于HLC的分布式事务实现
+ ## [基于大数据企业网络威胁发现模型实践](http://netsecurity.51cto.com/art/201911/606196.htm)
+ > 基于大数据企业网络威胁发现模型实践
+ ## [一文搞懂神经网络](http://ai.51cto.com/art/201911/606086.htm)
+ > 一文搞懂神经网络
+ ## [Gartner：2020年十大数据和分析趋势](http://bigdata.51cto.com/art/201911/606185.htm)
+ > Gartner：2020年十大数据和分析趋势
+ ## [五个数据准备错误，请像躲瘟疫一样避开](http://bigdata.51cto.com/art/201911/606197.htm)
+ > 五个数据准备错误，请像躲瘟疫一样避开
+ ## [开发必备，5个很棒的开源Flutter UI套件](http://news.51cto.com/art/201911/606157.htm)
+ > 开发必备，5个很棒的开源Flutter UI套件
+ ## [Web前端开发应该必备的编码原则](http://developer.51cto.com/art/201911/606251.htm)
+ > 今天小编要跟大家分享的文章是关于Web前端开发应该必备的编码原则。HTML已经走过了20几年的发展历程，它几
+ ## [官方原版下载！Windows 10 v1909简体中文ISO镜像](http://os.51cto.com/art/201911/606250.htm)
+ > 近日，微软终于开始面向公众大面积推送最新的Windows 10 v1909 2019年11月更新版，这也是Windows 10历史上
+ ## [5G机会在哪里？哪些公司能引领潮流，华为还是小米](http://network.51cto.com/art/201911/606249.htm)
+ > 互联网的历史只有几十年，却已经让人们的生活发生了翻天覆地的变化，在互联网的历史上，几乎每隔几年就会有
+ ## [面试官：项目中的if else太多了，该怎么重构？](http://developer.51cto.com/art/201911/606247.htm)
+ > if else过多的话，一般都是用策略模式来进行重构，策略模式也非常的简单。先定义一个接口，各种处理分支实
+ ## [新消息！Java、JavaScript连续多年成为很受欢迎的编程语言](http://developer.51cto.com/art/201911/606248.htm)
+ > 在网络购物和无线支付越来越普遍的今天，IT已不再是一个神秘的行业，会编程语言也已不再是程序员的专利，越
+ ## [人工智能技术将从三个层面改变社会](http://ai.51cto.com/art/201911/606245.htm)
+ > AI将同时在多个层面引发一系列社会影响，主要包括生产力、隐私和联合学习。
+ ## [未来10年，时代指向物联网和产业互联网](http://iot.51cto.com/art/201911/606246.htm)
+ > 笔者分析了互联网的发展趋势，未来将走向物联网和产业互联网，顺势而为是我们可以做的最好选择。
+ ## [详细教程：如何使用代理服务器进行网页抓取？](http://ai.51cto.com/art/201911/606243.htm)
+ > 万维网是数据的宝库。大数据的易得性、数据分析软件的迅猛发展以及日益廉价的计算能力进一步提高了数据驱动
+ ## [Java升级那么快，多个版本如何灵活切换和管理？](http://developer.51cto.com/art/201911/606244.htm)
+ > 配置单个 Java 环境变量本身没什么技术含量可言，但当需要管理多个 Java 版本，重复配置环境变量显然是非常
+ ## [全球Top 500超算榜单更新：Summit仍居榜首，中国上榜227台，总算力占比31.9%](http://news.51cto.com/art/201911/606239.htm)
+ > 最近，关于量子计算碾压传统超算的消息层出不穷，比如量子计算机只需200秒，就相当于传统超算运算10000年。
  ## [重磅！云+X 案例征集正式启动啦！](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/103010441)
  > 重磅！云+X 案例征集正式启动啦！
- ## [程序员实用工具网站](https://blog.csdn.net/m0_38106923/article/details/100130354)
- > 程序员实用工具网站
- ## [MySQL数据库—SQL汇总](https://blog.csdn.net/qq_37969433/article/details/102637226)
- > MySQL数据库—SQL汇总
- ## [html-css笔记](https://blog.csdn.net/qq_42835910/article/details/103103040)
- > html-css笔记
  ## [有哪些让程序员受益终生的建议](https://blog.csdn.net/harvic880925/article/details/102774769)
  > 有哪些让程序员受益终生的建议
  ## [程序员：我终于知道post和get的区别](https://blog.csdn.net/kebi007/article/details/103059900)
  > 
  ## [大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了](https://blog.csdn.net/m0_37907797/article/details/102781027)
  > 大学四年自学走来，这些私藏的实用工具/学习网站我贡献出来了
- ## [京东准点秒杀脚本](https://blog.csdn.net/tangcv/article/details/102993939)
- > 京东准点秒杀脚本
- ## [GitHub标星近1万：只需5秒音源，这个网络就能实时“克隆”你的声音](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103059937)
- > 
+ ## [MySQL数据库—SQL汇总](https://blog.csdn.net/qq_37969433/article/details/102637226)
+ > MySQL数据库—SQL汇总
  ## [刷了几千道算法题，这些我私藏的刷题网站都在这里了！](https://blog.csdn.net/u013486414/article/details/102961171)
  > 刷了几千道算法题，这些我私藏的刷题网站都在这里了！
- ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ ## [25 篇 Java 入门技术博文，送给正在自学的你](https://blog.csdn.net/qing_gee/article/details/102984677)
  > 
- ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
+ ## [GitHub标星近1万：只需5秒音源，这个网络就能实时“克隆”你的声音](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/103059937)
+ > 
+ ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
  > 
  ## [兼职程序员一般可以从什么平台接私活？](https://blog.csdn.net/xiyue001/article/details/102816596)
  > 兼职程序员一般可以从什么平台接私活？
- ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
- > 史上最全的mysql基础教程
+ ## [大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了](https://blog.csdn.net/qq_36903042/article/details/102792114)
+ > 大学四年，我把私藏的自学「学习网站/实用工具」都贡献出来了
+ ## [“狗屁不通文章生成器”登顶GitHub热榜，分分钟写出万字形式主义大作](https://blog.csdn.net/m0_37609579/article/details/103054993)
+ > 
+ ## [没事爱在线上制造故障？这位程序媛有话说](https://blog.csdn.net/csdnnews/article/details/103019535)
+ > 
  ## [nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件](https://blog.csdn.net/qq_40036754/article/details/102463099)
  > nginx学习，看这一篇就够了：下载、安装。使用：正向代理、反向代理、负载均衡。常用命令和配置文件
+ ## [本体双通证模型](https://blog.csdn.net/ontologycoding/article/details/102724389)
+ > 本体双通证模型
+ ## [小米 9 年，雷军开启 AIoT 与 5G 超级互联网时代！](https://blog.csdn.net/csdnnews/article/details/103143622)
+ > 作者 | 唐小引发自小米开发者大会现场封图 | 付费下载自东方 IC出品 | CSDN（ID：CSDNnews）劳模程序员雷军在昨天刚刚敲钟金山办公科创板挂牌上市，今天便在小米开发者大会（MIDC 2019）上喊出了「5G + AI + IoT = 超级互联网」。于金山 WPS 是如此，于雷军亦是.
+ ## [数据库的前世今生](https://blog.csdn.net/csdnnews/article/details/103143630)
+ > 【CSDN 编者按】被称之为基础软件三驾马车之一的数据库，在经历了层次型和网状型、关系型数据型库以及更加强大的数据管理功能等三个时期之后，其在未来的发展历程中还有哪些更多的可能性？基于此，卡内基梅隆大学计算机科学系数据库学副教授 Andy Pavlo 曾于 2015 年为 CMU 计算机科学系 5.
+ ## [GitHub 上开源哪家强？| 原力计划](https://blog.csdn.net/csdnnews/article/details/103143635)
+ > 作者| 村中少年责编 | 屠敏出品 | CSDN 博客现在有越来越多的公司都参与了开源，其背后有各自的目的所在，姑且不予讨论。本文是从多个方面分析各大公司在开源上的投入情况。由于全世界绝大多数的开源项目都有发布到GitHub上，因此本文将会基于GitHub的数据进行分析。2019还没有结束，本文先.
+ ## [潘石屹接连带货 Python，要来抢我们的饭碗？](https://blog.csdn.net/csdnnews/article/details/103143644)
+ > 地产大亨潘石屹近日开始一项全新学习，刷爆程序员的朋友圈，程序员纷纷议论起来：地产大亨也要来抢饭碗啦？11月14日，他说：今天开始我学习一门新的语言Python，我在寻找。...
+ ## [这段 Python 代码让程序员赚 300W，公司已确认！网友：神操作！](https://blog.csdn.net/csdnnews/article/details/103143598)
+ > Python到底还能给人多少惊喜？笔者最近看到了这两天关于Python最热门的话题，关于《地产大佬潘石屹学Python的原因》，结果被这个回答惊到了：来源：知乎 http...
+ ## [华为明日发布鸿蒙整体战略；京东宣告全面向技术转型；Kotlin 1.3.60 发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103143603)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。扫描上方二维码进入 CSDN App 可以收听御姐萌妹 Style 的人工版音频哟。一分钟.
+ ## [开源如何走向商业化？](https://blog.csdn.net/csdnnews/article/details/103143615)
+ > 【作者注】开源软件（OSS）运动已经创造了一些对我们来说至关重要，而且广泛使用的技术，包括操作系统、网页浏览器和数据库等等。可以说，如果没有开源软件，我们的世界将无法运转，或者至少无法像如今这样良好地运转。虽然开源带来了惊人的技术创新，但商业创新，尤其是最近“软件即服务”（SAAS- softwa.
+ ## [当代刻板程序员生态图鉴！网友：哈哈哈太真实了](https://blog.csdn.net/csdnnews/article/details/103143620)
+ > 当代刻板程序员实录：优衣库格子衬衫，深蓝色系为主，区别在于格子大小和密度的不同。发型一般分两种：精神程序员寸头（主要是懒得洗头），还有一种就是像爱因斯坦一样，凌乱蓬松美...
+ ## [为什么别人年底购物，同学们年底考证？](https://blog.csdn.net/csdnnews/article/details/103143582)
+ > “双十一”疯狂下单是别人的事，精致穷也是别人的事，即将毕业却面临就业寒冬？这是800万毕业生自己的事！从现在开始为自己的未来投资！年底拿优惠考证，开春顺一路上岗！新华三大...
+ ## [12 种主流编程语言输出“ Hello World ”，你真的都会了吗？](https://blog.csdn.net/csdnnews/article/details/103143588)
+ > 作为一名程序员，在初步学习编程想必都绕不开一个最为基础的入门级示例“Hello World”，那么，你真的了解各个语言“Hello World”的正确写法吗？作者 |Fatos Morina译者 |弯月，责编 | 屠敏出品 | CSDN（ID：CSDNnews）以下为译文：...
+ ## [不到70行 Python 代码，轻松玩转 RFM 用户分析模型（附案例数据和代码）](https://blog.csdn.net/csdnnews/article/details/103143594)
+ > 作者 | 周志鹏责编 | 刘静本文从RFM模型概念入手，结合实际案例，详解Python实现模型的每一步操作，并提供案例同款源数据，以供同学们知行合一。注：想直接下载代码和数据的同学可以空降文末看这篇文章前源数据长这样：学完后只要敲一个回车，源数据就变成了这样：是不是心动了？OK，闲话少叙，我们来开.
  ## [加快推动区块链技术和产业创新发展，2019可信区块链峰会在京召开](https://blog.csdn.net/csdnnews/article/details/103097703)
  > 11月8日，由中国信息通信研究院、中国通信标准化协会、中国互联网协会、可信区块链推进计划联合主办，科技行者协办的2019可信区块链峰会将在北京悠唐皇冠假日酒店开幕。　　区块链技术被认为是继蒸汽机、电力、互联网之后，下一代颠覆性的核心技术。如果说蒸汽机释放了人类的生产力，电力解决了人类基本的生活...
+ ## [金山办公上市，雷军心愿了却！](https://blog.csdn.net/csdnnews/article/details/103143568)
+ > 作者 | 胡巍巍出品 | CSDN（ID：CSDNnews）11月17日，大周末的，雷军微博发了个重磅消息：“明天将是里程碑式的一天，金山办公终于成功在科创板挂牌上市了！从1988年金山创办到今天，WPS走了整整31年。从1999年以金山办公为主体准备上市算起，这一天，我们等了...
+ ## [AI、大数据、中台、AIoT、Fintech等十余场火热专题应有尽有，年度盛会BDTC 2019邀您共赴！...](https://blog.csdn.net/csdnnews/article/details/103143573)
+ > 2019年12月，一场轰动国内产业界、学术界、科研界及投资领域的顶级科技盛会即将拉开帷幕，它涵盖大数据、人工智能、云计算、AIoT、金融科技、智能制造等十几个前沿领域的热...
+ ## [Python 的一个脚本错误可能会废掉 150 多个项目！](https://blog.csdn.net/csdnnews/article/details/103143580)
+ > 最近，一组用于计算分析的Python脚本中的一个编程错误可能会导致150篇已发表的化学研究论文作废，而造成这种差异性的罪魁祸首是该脚本使用了Python的glob模块......作者 |SeattleDataGuy译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnew...
+ ## [国内 UOS 统一操作系统曝光；联想宣布要 All in 5G​；Android Studio 新版发布 | 极客头条...](https://blog.csdn.net/csdnnews/article/details/103143559)
+ > 整理 | 屠敏快来收听极客头条音频版吧，智能播报由标贝科技提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。扫描上方二维码进入 CSDN App 可以收听御姐萌妹 Style 的人工版音频哟。一分钟.
+ ## [2019 年一千多万条数据遭泄露！](https://blog.csdn.net/csdnnews/article/details/103143565)
+ > 2019年一千多万条数据遭泄露，而且这个数字还在上涨……作者 |Ivar译者 |弯月，责编 | 郭芮出品 | CSDN（ID：CSDNnews）以下为译文：似乎每周我们都能看到大量有关私人数据泄露的新闻。2019年即将结束，然而关于违规记录的报道还在源源不断地涌现。到目前为...
+ ## [阿里本地生活服务公司发布“新服务”战略，为商户提供数智中台](http://www.lanjingtmt.com/news/detail/44943.shtml)
+ > 据阿里称，“新服务”战略以服务体系数智化、产品体系数智化、硬件体系数智化为主要核心，目的为众多商户提供“数智中台”，降低成本增加效率。
+ ## [京东物流CEO王振辉：北京亚洲一号5G物流园区成果将推广全国](http://www.lanjingtmt.com/news/detail/44942.shtml)
+ > 京东物流集团CEO王振辉表示，在未来，京东物流将以技术创新作为底层驱动力探索更多场景的应用，技术服务也将成为京东物流的核心能力之一。
+ ## [小米发布小爱同学3.0，推出男声版](http://www.lanjingtmt.com/news/detail/44941.shtml)
+ > 在MIDC 2019小米开发者大会上，小米集团副总裁、集团技术委员会主席崔宝秋首次披露了MIX Alpha环绕屏的技术细节，同时亮相的还有一大批核心技术。
+ ## [京东徐雷：未来3年京东将累计发布1亿种新品及C2M产品](http://www.lanjingtmt.com/news/detail/44940.shtml)
+ > 京东零售集团CEO徐雷表示，未来3年，京东将累计发布1亿种新品及C2M产品，其中创新含量高的品类占70%以上。
  ## [京东数科陈生强：块数据平台将成为智能城市数字化的管理中心](http://www.lanjingtmt.com/news/detail/44939.shtml)
  > 京东数科CEO陈生强日前在2019京东全球科技探索者大会上表示，雄安不仅将是一个现代化的物理之城，更将是一个前所未有的数字之城。
  ## [最高法发布大数据报告：利用微信实施网络诈骗超半数](http://www.lanjingtmt.com/news/detail/44938.shtml)
@@ -132,37 +188,53 @@ WPS &#19978;&#24066;&#24403;&#22825;&#32929;&#20215;&#19978;&#28072;&#36817; 200
  ## [移动用户办理宽带业务后遇恶意软件，客服推诿遭质疑](http://www.lanjingtmt.com/news/detail/44933.shtml)
  > 杨先生对蓝鲸TMT记者爆料称，自安装了中国移动免费宽带之后，不到三个月，电视就因为弹出的软件页面死机而无法使用，而这不排除与移动赠送的机顶盒有关。
 # 人工智能 
- ## [Android优秀文章总结](https://blog.csdn.net/weixin_37292229/article/details/76192197)
- > Android优秀文章总结
- ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
- > android studio安装教程
- ## [关于Android 10.0适配，看这篇就够了](https://blog.csdn.net/weixin_40611659/article/details/95174124)
- > 关于Android 10.0适配，看这篇就够了
- ## [android studio的安装，史上最详细(超多图)！！](https://blog.csdn.net/qq_41976613/article/details/91432304)
- > android studio的安装，史上最详细(超多图)！！
- ## [Android studio 3.5安装详解](https://blog.csdn.net/xcg8818/article/details/100120840)
- > Android studio 3.5安装详解
- ## [adb下载安装及使用](https://blog.csdn.net/weixin_43927138/article/details/90477966)
- > adb下载安装及使用
- ## [完美解决：Project needs to be converted to androidx.* dependencies](https://blog.csdn.net/weixin_40420578/article/details/100582094)
- > 完美解决：Project needs to be converted to androidx.* dependencies
- ## [Android——微信自动回复实现](https://blog.csdn.net/qq_22770457/article/details/101072143)
- > 
- ## [Android高级程序员必备系列](https://blog.csdn.net/u013095264/article/details/89338932)
- > Android高级程序员必备系列
- ## [OKHTTP3版本差异引发冲突](https://blog.csdn.net/shexiaoxiaoniu/article/details/92771722)
- > OKHTTP3版本差异引发冲突
- ## [未知的USB设备（设备描述符请求失败）的解决办法！！！！希望可以帮到你](https://blog.csdn.net/Knowledge_dai/article/details/90737855)
- > 未知的USB设备（设备描述符请求失败）的解决办法！！！！希望可以帮到你
- ## [小米airdots双耳串联问题解决](https://blog.csdn.net/Andone_hsx/article/details/100175643)
- > 小米airdots双耳串联问题解决
- ## [xilinx  vivado 百度云分享  vivado2019.1  2018.3   2018.2  2017.4](https://blog.csdn.net/weixin_40377195/article/details/93683488)
- > xilinx  vivado 百度云分享  vivado2019.1  2018.3   2018.2  2017.4
- ## [Error:No such property: GradleVersion for class: JetGradlePlugin](https://blog.csdn.net/qq_34895720/article/details/97243371)
- > Error:No such property: GradleVersion for class: JetGradlePlugin
- ## [【Android】【系统适配】解决此应用专为旧版Android打造问题](https://blog.csdn.net/u013718730/article/details/94583439)
- > 【Android】【系统适配】解决此应用专为旧版Android打造问题
+ ## [mysql语句汇总](https://blog.csdn.net/conggai1647/article/details/103100404)
+ > mysql语句汇总
+ ## [Mysql中Blob类型字段的插入、查看、截取和拼接](https://blog.csdn.net/shihengzhen101/article/details/103111024)
+ > Mysql中Blob类型字段的插入、查看、截取和拼接
+ ## [史上最全的mysql基础教程](https://blog.csdn.net/weixin_45108087/article/details/102766281)
+ > 史上最全的mysql基础教程
+ ## [Oracle常见sql语句练习及答案(经典题目，方便练习)](https://blog.csdn.net/weixin_44490662/article/details/103127373)
+ > Oracle常见sql语句练习及答案(经典题目，方便练习)
+ ## [MySql性能优化之JOIN连接(有图，最全，最详细)](https://blog.csdn.net/qq_40722827/article/details/103119274)
+ > MySql性能优化之JOIN连接(有图，最全，最详细)
+ ## [SQL基本语法入门 看这里就够了](https://blog.csdn.net/qq_42080073/article/details/102665305)
+ > SQL基本语法入门 看这里就够了
+ ## [druid连接数据库，存中文乱码的解决方法](https://blog.csdn.net/qq_42909053/article/details/103131315)
+ > druid连接数据库，存中文乱码的解决方法
+ ## [MySQL--基础十一（分页查询、子查询经典案例）](https://blog.csdn.net/cold___play/article/details/103113443)
+ > MySQL--基础十一（分页查询、子查询经典案例）
+ ## [Mysql中的递归层次查询（父子查询,无限极查询）](https://blog.csdn.net/xiaoweite1/article/details/103105002)
+ > Mysql中的递归层次查询（父子查询,无限极查询）
+ ## [sql之sql经典45题_mysql](https://blog.csdn.net/mmknzb/article/details/103113421)
+ > sql之sql经典45题_mysql
+ ## [【存储过程】-编写及调用常见问题](https://blog.csdn.net/weixin_42261726/article/details/103127718)
+ > 【存储过程】-编写及调用常见问题
+ ## [MyBatis简述](https://blog.csdn.net/weixin_44491043/article/details/103123138)
+ > MyBatis简述
+ ## [MySQL查询语句使用总结（一）——单表查询](https://blog.csdn.net/weixin_44377973/article/details/103110692)
+ > MySQL查询语句使用总结（一）——单表查询
+ ## [事务的特性和隔离级别](https://blog.csdn.net/leo_jk/article/details/103107066)
+ > 事务的特性和隔离级别
+ ## [【基础系列十九】--JDBC](https://blog.csdn.net/weixin_40017671/article/details/103106474)
+ > 【基础系列十九】--JDBC
 # PM 
+ ## [黑五圣诞大促将近，出海品牌如何做KOL网红营销？](http://www.woshipm.com/marketing/3102517.html)
+ > 离圣诞节到来还有一个多月，各大营销活动也在准备当中了。本文作者对出海品牌网红营销进行了分析，与大家分享了KOL营销对出海品牌的价值，如何选择KOL，以及年末圣诞季...
+ ## [产品思考：确定按钮该放在左边还是右边？](http://www.woshipm.com/pd/3104897.html)
+ > 确定按钮该放在左边还是右边？这是一个很有趣的问题，本文作者从多个方面对这个问题进行了梳理分析，与大家分享。原文被知乎日报收录，听说八成的人都没猜出答案。这...
+ ## [增长公式｜复盘双十一砍价与盖楼后背后的增长](http://www.woshipm.com/operate/3107030.html)
+ > 2019年双十一天猫以2684亿元人民正式落下帷幕，每年双十一堪比大型剁手现场，都在盘算双十一价格要比平日优惠，但仔细算下来，除了满400-50的优惠券，你还拿到什么样的...
+ ## [如何成为像辛巴、薇娅、李佳琦一样的超级网红？](http://www.woshipm.com/it/3106110.html)
+ > 过去20年，中国互联网商业从平台范式、算法范式，过渡到现今的红人范式，正是一场人性回归。红人范式的最大价值，也无非是填补了现代商业的人性、人情空白。我见过很...
+ ## [APP内的分享功能怎么做？要注意4个问题](http://www.woshipm.com/pd/3067857.html)
+ > 分享功能在日常APP使用中是比较常见的功能了，本文作者对分享功能的设计进行了分析探究，并总结了过程中遇到的一些问题，供大家一起参考和学习。最近做的是电话手表AP...
+ ## [诀别电商——新零售的掘金之路](http://www.woshipm.com/newretail/3106705.html)
+ > 从商业模式上来看，新零售与电商其实有着本质区别，是一种全新的存在。当新零售被巨头和资本涌动着成为行业发展趋势的时候，习惯了跟风的人们开始投身其中。对于这些...
+ ## [从“红利”到“实力”，感觉到难的不止你自己](http://www.woshipm.com/pmd/2576531.html)
+ > 笔者写下自己参加2019北京产品经理大会的感触，也许此时的你正在深陷失落，也许你感觉前路艰辛，希望大家不要被眼前的困难打倒，多思多变，终能踏上属于自己的康庄大道...
+ ## [产品分析报告：盖得排行，消费决策的参考宝典](http://www.woshipm.com/evaluating/3096155.html)
+ > 本文是盖得排行的产品分析报告，主要包括这5点：产品功能、市场分析、用户分析、功能分析和运营分析。01 产品概况1.1 产品介绍盖得排行是一款通过简单直白的PGC榜单...
  ## [那些没有在追求用户数量的金融产品经理，都在追求什么？](http://www.chanpin100.com/article/110078)
  > 我爸很久之前曾经问我：微信又不收费，它是怎么赚钱的？你们公司又是怎么赚钱的？
  ## [竞品分析报告：流利说•英语](http://www.chanpin100.com/article/110077)
