@@ -1,21 +1,21 @@
 ---
 title: 2020-09-05 IT News
 copyright: true
-date: 2020-09-05 08:01:01
+date: 2020-09-05 09:02:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [央视重磅关注天府新区这件事](http://mp.weixin.qq.com/s?src=11&timestamp=1599262204&ver=2565&signature=oTRfMHBKemOIHQj1S-KKh5mal*ZrATDwJW*vohAKKabJMEDHR7lYe76SZ09Dx95Yl2Ttwzm2a9d0vYQFiwvHNhi5*i0xXlJVR6mp-4tOhdkze7FlAHrl8wgQFZWUIov3&new=1)
- > 8月30日，首届全球5G产业创新峰会暨黑科技马拉松JUNCTION X 成都大赛在天府新区西博城圆满落下帷幕，这也是天府新区首次举办全球性5G盛会。据统计，在为期3 天的时间里，现场共迎来各界参会者近3万人次，线上参...
- ## [坐拥千万用户的长城宽带，如今只要100万就能买下..](http://mp.weixin.qq.com/s?src=11&timestamp=1599262204&ver=2565&signature=62-oT*mqlS5aiArO33VseZm6kEZKw8G-bK6Cv*N17UDbsSOM69b8XZA8eDNDKquwEy4drQ8Fgy8qTLjoz8vUejswKRjW6TTi4w6iXFyK8qe5*iCxUcEamZlfj-R-c8Ag&new=1)
+ ## [坐拥千万用户的长城宽带，如今只要100万就能买下..](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=62-oT*mqlS5aiArO33VseZm6kEZKw8G-bK6Cv*N17UDbsSOM69b8XZA8eDNDKquwXVIy7HyfOTKEEsKQDvcW-n8MK*PVencyRWKh*R3cZR2JS5zuXz4vXlyyGgIHPG7w&new=1)
  > 今天看到一个很刺激的新闻：鹏博士转让长城宽带 100% 股权。有些差友可能没有接触过长城宽带，但是没有关系，只需要知道这哥们是全国最大的民营宽带运营商，有 1450 万用户就够了。面对御三家这些年靠卖流量赚得...
- ## [大反转!华为突然宣布，全世界都沸腾了!](http://mp.weixin.qq.com/s?src=11&timestamp=1599262204&ver=2565&signature=-cnJ4*VC-t0lqBaWcoIDZbmX1g2d01MbDAwszQEHmdnm1dp48OBGA*C54Wn*atimOehEkqdXFTSVamov-6lsLYGnvmHIUDrH3Wbh1JP3mKVENoeQJYuoVWF9Vf1plKVx&new=1)
- > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！一一声惊雷，科技圈传来了重磅消息！继鸿蒙系统后，华为再次完成了一个历史性壮举！华为芯片领域最大的突破正式曝光！当华为轮...
- ## [华为董事亲述在美国打压下的数字化突围|钛媒体独家](http://mp.weixin.qq.com/s?src=11&timestamp=1599262204&ver=2565&signature=hAT0YCjSxA9mbJPYR*ZvpiwLe1TnyLQujE0uPaM9eebSHFs5oNbL9ZbUgZv4GgUApuCnAk7ky3Ny6QVd32w5ubmXoufu24ugkS5sROCqHIz5vipInGUDdstq*liICU*2&new=1)
- > 钛媒体 TMTPost.com｜科技引领新经济｜▎华为公司董事兼质量流程IT总裁陶景文在2020全球数字价值峰会上，详细剖析了华为在中美剧变环境下的新压力、新挑战、新模式，以及应对打压方法————构建的企业数字化能...
- ## [机遇来了!武汉刚获批的国家级试验区，将重点建设这些](http://mp.weixin.qq.com/s?src=11&timestamp=1599262204&ver=2565&signature=ISoxqH9jU-gOu6wjBjp9J5oOjvplhgx4RCLdD9xI3UviJr00Ff9xOQVx4r1*RpUxvTIPT5mEHwtQJm1DJ9Bxdxkl51vGEfFVr1o3xIkvvtyuhej1DwqXsHKM-XuMPlVm&new=1)
+ ## [央视重磅关注天府新区这件事](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=oTRfMHBKemOIHQj1S-KKh5mal*ZrATDwJW*vohAKKabJMEDHR7lYe76SZ09Dx95YElgVSXyIVvmQo8uzddn52dftwGYsZqYyz53MTgD8-hBNlbeZpRq6deUIdt44e4Wr&new=1)
+ > 8月30日，首届全球5G产业创新峰会暨黑科技马拉松JUNCTION X 成都大赛在天府新区西博城圆满落下帷幕，这也是天府新区首次举办全球性5G盛会。据统计，在为期3 天的时间里，现场共迎来各界参会者近3万人次，线上参...
+ ## [机遇来了!武汉刚获批的国家级试验区，将重点建设这些](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=ISoxqH9jU-gOu6wjBjp9J5oOjvplhgx4RCLdD9xI3UviJr00Ff9xOQVx4r1*RpUxQTiNdSKz8pIfZCV5HtnAxcEguOJjHJe-56UoeX7i5lnHGPnMJXo63fMuyG*u2faG&new=1)
  > 9月4日科技部官网正式发布了《科技部关于支持武汉市建设国家新一代人工智能创新发展试验区的函》支持武汉市建设国家新一代人工智能创新发展试验区（点此查看相关报道&gt;&gt;&gt;）据悉，建设国家新一代人工智能创新发展...
+ ## [大反转!华为突然宣布，全世界都沸腾了!](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=-cnJ4*VC-t0lqBaWcoIDZbmX1g2d01MbDAwszQEHmdnm1dp48OBGA*C54Wn*atimkQwkP6RvoaRY9-n*pvCOsUntQ2Uxk9MTO*IRVaGdWpVfDvtWaGQ03nNTDDqph-cn&new=1)
+ > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！一一声惊雷，科技圈传来了重磅消息！继鸿蒙系统后，华为再次完成了一个历史性壮举！华为芯片领域最大的突破正式曝光！当华为轮...
+ ## [华为董事亲述在美国打压下的数字化突围|钛媒体独家](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=hAT0YCjSxA9mbJPYR*ZvpiwLe1TnyLQujE0uPaM9eebSHFs5oNbL9ZbUgZv4GgUAirKrOU*WSdRmqzvoDG0DXKZ9kH3Qxpf0yAjAMXpGuUHW3w2OQCiZ0ZPfbb7nmbo7&new=1)
+ > 钛媒体 TMTPost.com｜科技引领新经济｜▎华为公司董事兼质量流程IT总裁陶景文在2020全球数字价值峰会上，详细剖析了华为在中美剧变环境下的新压力、新挑战、新模式，以及应对打压方法————构建的企业数字化能...
 # IT 技术 
  ## [苏宁数据治理“三字经”，太实用了！](http://bigdata.51cto.com/art/202009/625383.htm)
  > 苏宁数据治理“三字经”，太实用了！
@@ -31,39 +31,39 @@ categories: IT NEWS
  > 我工作三年了，该懂并发了
  ## [挑战树莓派？首个运行Linux系统的RISC-V架构微型计算机 PicoRio 发布](http://os.51cto.com/art/202009/625301.htm)
  > 挑战树莓派？首个运行Linux系统的RISC-V架构微型计算机 PicoRio 发布
- ## [AD活动目录管理 - 理论与实战](http://fellow.51cto.com/art/202007/622442.htm?qd=51ctojrzd)
- > AD活动目录管理 - 理论与实战
+ ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
+ > Python入门精讲视频，从入门到精通
 # 人工智能 
- ## [面试经常会被问到的节流和防抖，一分钟理解](https://blog.csdn.net/gitchatxiaomi/article/details/108371434)
- > 面试经常会被问到的节流和防抖，一分钟理解
- ## [javascript从入门到跑路-----小文的js学习笔记（24）------错误调试与处理-----try ...catch 和 设置断点](https://blog.csdn.net/qq_45948983/article/details/108367866)
- > javascript从入门到跑路-----小文的js学习笔记（24）------错误调试与处理-----try ...catch 和 设置断点
- ## [聊聊js的深拷贝与浅拷贝](https://blog.csdn.net/weixin_42878211/article/details/108372204)
- > 聊聊js的深拷贝与浅拷贝
- ## [JavaScript 进阶教程(3)---让你彻底搞懂原型链和继承](https://blog.csdn.net/qq_23853743/article/details/108348436)
- > JavaScript 进阶教程(3)---让你彻底搞懂原型链和继承
- ## [自定义wordpress登陆界面全屏渐变图片轮播](https://blog.csdn.net/zcp528/article/details/108375835)
- > 自定义wordpress登陆界面全屏渐变图片轮播
- ## [微信小程序 - 每隔一段时间请求后端接口获取最新数据（实时刷新数据）](https://blog.csdn.net/weixin_44198965/article/details/108367429)
- > 微信小程序 - 每隔一段时间请求后端接口获取最新数据（实时刷新数据）
- ## [简述Java Web中JSP九大内置对象](https://blog.csdn.net/Turniper/article/details/108345442)
- > 简述Java Web中JSP九大内置对象
- ## [Vue组件基础--简单了解vue组件](https://blog.csdn.net/weixin_45820444/article/details/108374886)
- > Vue组件基础--简单了解vue组件
- ## [springboot+activiti+angular 集成activiti工作流实现，源码分享](https://blog.csdn.net/qq_46388795/article/details/108370257)
- > springboot+activiti+angular 集成activiti工作流实现，源码分享
- ## [外边距溢出解决方法 高度塌陷如何解决](https://blog.csdn.net/qq_45466204/article/details/108355305)
- > 外边距溢出解决方法 高度塌陷如何解决
- ## [这些前端框架，让你的开发更高效率，高质量，你用过吗？](https://blog.csdn.net/gitchatxiaomi/article/details/108350157)
- > 这些前端框架，让你的开发更高效率，高质量，你用过吗？
- ## [javascript从入门到跑路-----小文的js学习笔记（23）------函数式编程----ForEach、filter、Reduce和Map](https://blog.csdn.net/qq_45948983/article/details/108359793)
- > javascript从入门到跑路-----小文的js学习笔记（23）------函数式编程----ForEach、filter、Reduce和Map
- ## [爬虫前文----简化搞懂cookie和session](https://blog.csdn.net/qq_45414559/article/details/108240185)
- > 爬虫前文----简化搞懂cookie和session
- ## [初学Qt不会样式表怎么办，打包好的Qt样式表一键生成送给你。](https://blog.csdn.net/Fdog_/article/details/108296647)
- > 初学Qt不会样式表怎么办，打包好的Qt样式表一键生成送给你。
- ## [拯救xmlrpc.php让WordPress瘫痪的的六种办法](https://blog.csdn.net/zcp528/article/details/108375971)
- > 拯救xmlrpc.php让WordPress瘫痪的的六种办法
+ ## [【数据结构与算法】详解什么是树结构，并用代码手动实现一个二叉查找树](https://blog.csdn.net/l_ppp/article/details/108307532)
+ > 
+ ## [虹软人脸识别-SpringBoot集成](https://blog.csdn.net/qq_40110356/article/details/108378911)
+ > 虹软人脸识别-SpringBoot集成
+ ## [The More You Know: Using Knowledge Graphs for Image Classification 论文总结](https://blog.csdn.net/Jay_Tang/article/details/108353255)
+ > The More You Know: Using Knowledge Graphs for Image Classification 论文总结
+ ## [ML之回归预测：利用十类机器学习算法(线性回归、kNN、SVM、决策树、随机森林、极端随机树、SGD、提升树、LightGBM、XGBoost)对波士顿数据集回归预测(模型评估、推理并导到csv)](https://blog.csdn.net/qq_41185868/article/details/108371522)
+ > ML之回归预测：利用十类机器学习算法(线性回归、kNN、SVM、决策树、随机森林、极端随机树、SGD、提升树、LightGBM、XGBoost)对波士顿数据集回归预测(模型评估、推理并导到csv)
+ ## [微软发布鉴别AI换脸视频工具；Linux From Scratch v10发布|极客头条](https://blog.csdn.net/csdnnews/article/details/108376306)
+ > 微软发布鉴别AI换脸视频工具；Linux From Scratch v10发布|极客头条
+ ## [甘肃省普通高等学校高职（专科）升本科考试英语科考试大纲（试行）](https://blog.csdn.net/lucky51222/article/details/108370776)
+ > 甘肃省普通高等学校高职（专科）升本科考试英语科考试大纲（试行）
+ ## [阿里云网盘邀请码，阿里云网盘内测邀请码](https://blog.csdn.net/u012889902/article/details/108355610)
+ > 阿里云网盘邀请码，阿里云网盘内测邀请码
+ ## [大数据-什么是Hive？&&Hive中ETL的实战&&HQL介绍&&数据仓库的特征&&Hive的适用场景](https://blog.csdn.net/weixin_47055922/article/details/108356130)
+ > 大数据-什么是Hive？&amp;&amp;Hive中ETL的实战&amp;&amp;HQL介绍&amp;&amp;数据仓库的特征&amp;&amp;Hive的适用场景
+ ## [机器学习特性缩放的介绍，什么时候为什么使用](https://blog.csdn.net/m0_46510245/article/details/108374865)
+ > 机器学习特性缩放的介绍，什么时候为什么使用
+ ## [卧槽，牛皮了，程序员苦刷这些算法算法47天，四面字节斩获offer](https://blog.csdn.net/qq_46388795/article/details/108362643)
+ > 卧槽，牛皮了，程序员苦刷这些算法算法47天，四面字节斩获offer
+ ## [01.神经网络和深度学习 W4.深层神经网络（作业：建立你的深度神经网络+图片猫预测）](https://blog.csdn.net/qq_21201267/article/details/108330867)
+ > 01.神经网络和深度学习 W4.深层神经网络（作业：建立你的深度神经网络+图片猫预测）
+ ## [美国电信运营商Level 3因BGP故障引起“断网”事故](https://blog.csdn.net/weixin_38354951/article/details/108358482)
+ > 美国电信运营商Level 3因BGP故障引起“断网”事故
+ ## [Python基础（面向对象、面向过程）](https://blog.csdn.net/weixin_44781625/article/details/108371757)
+ > Python基础（面向对象、面向过程）
+ ## [认真分享一波本科 4 年挣到人生第一个 30w 的经历：目标-＞动力-＞坚持-＞改变](https://blog.csdn.net/m0_37907797/article/details/108371839)
+ > 认真分享一波本科 4 年挣到人生第一个 30w 的经历：目标-＞动力-＞坚持-＞改变
+ ## [吊！设计模式全解：6大设计原则+23种设计模式+设计模式PK+设计模式混编](https://blog.csdn.net/bjmsb/article/details/108340054)
+ > 吊！设计模式全解：6大设计原则+23种设计模式+设计模式PK+设计模式混编
 # PM 
  ## [产品经理如何做好需求分析？](http://www.chanpin100.com/article/112627)
  > 笔者认为需求就是用户最终的目的，它不是某个功能，也不是某个解决方案，只与用户的最终目的有关。
