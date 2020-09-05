@@ -1,21 +1,23 @@
 ---
 title: 2020-09-05 IT News
 copyright: true
-date: 2020-09-05 09:02:22
+date: 2020-09-05 10:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [坐拥千万用户的长城宽带，如今只要100万就能买下..](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=62-oT*mqlS5aiArO33VseZm6kEZKw8G-bK6Cv*N17UDbsSOM69b8XZA8eDNDKquwXVIy7HyfOTKEEsKQDvcW-n8MK*PVencyRWKh*R3cZR2JS5zuXz4vXlyyGgIHPG7w&new=1)
- > 今天看到一个很刺激的新闻：鹏博士转让长城宽带 100% 股权。有些差友可能没有接触过长城宽带，但是没有关系，只需要知道这哥们是全国最大的民营宽带运营商，有 1450 万用户就够了。面对御三家这些年靠卖流量赚得...
- ## [央视重磅关注天府新区这件事](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=oTRfMHBKemOIHQj1S-KKh5mal*ZrATDwJW*vohAKKabJMEDHR7lYe76SZ09Dx95YElgVSXyIVvmQo8uzddn52dftwGYsZqYyz53MTgD8-hBNlbeZpRq6deUIdt44e4Wr&new=1)
- > 8月30日，首届全球5G产业创新峰会暨黑科技马拉松JUNCTION X 成都大赛在天府新区西博城圆满落下帷幕，这也是天府新区首次举办全球性5G盛会。据统计，在为期3 天的时间里，现场共迎来各界参会者近3万人次，线上参...
- ## [机遇来了!武汉刚获批的国家级试验区，将重点建设这些](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=ISoxqH9jU-gOu6wjBjp9J5oOjvplhgx4RCLdD9xI3UviJr00Ff9xOQVx4r1*RpUxQTiNdSKz8pIfZCV5HtnAxcEguOJjHJe-56UoeX7i5lnHGPnMJXo63fMuyG*u2faG&new=1)
- > 9月4日科技部官网正式发布了《科技部关于支持武汉市建设国家新一代人工智能创新发展试验区的函》支持武汉市建设国家新一代人工智能创新发展试验区（点此查看相关报道&gt;&gt;&gt;）据悉，建设国家新一代人工智能创新发展...
- ## [大反转!华为突然宣布，全世界都沸腾了!](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=-cnJ4*VC-t0lqBaWcoIDZbmX1g2d01MbDAwszQEHmdnm1dp48OBGA*C54Wn*atimkQwkP6RvoaRY9-n*pvCOsUntQ2Uxk9MTO*IRVaGdWpVfDvtWaGQ03nNTDDqph-cn&new=1)
- > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！一一声惊雷，科技圈传来了重磅消息！继鸿蒙系统后，华为再次完成了一个历史性壮举！华为芯片领域最大的突破正式曝光！当华为轮...
- ## [华为董事亲述在美国打压下的数字化突围|钛媒体独家](http://mp.weixin.qq.com/s?src=11&timestamp=1599267604&ver=2565&signature=hAT0YCjSxA9mbJPYR*ZvpiwLe1TnyLQujE0uPaM9eebSHFs5oNbL9ZbUgZv4GgUAirKrOU*WSdRmqzvoDG0DXKZ9kH3Qxpf0yAjAMXpGuUHW3w2OQCiZ0ZPfbb7nmbo7&new=1)
+ ## [华为董事亲述在美国打压下的数字化突围|钛媒体独家](http://mp.weixin.qq.com/s?src=11&timestamp=1599269403&ver=2565&signature=hAT0YCjSxA9mbJPYR*ZvpiwLe1TnyLQujE0uPaM9eebSHFs5oNbL9ZbUgZv4GgUAHfid-Cn0t32gHrkp45M2qFF75QDVCvi9*4bMW7vf20NvLY3R-eP89MXqmBmIpbzu&new=1)
  > 钛媒体 TMTPost.com｜科技引领新经济｜▎华为公司董事兼质量流程IT总裁陶景文在2020全球数字价值峰会上，详细剖析了华为在中美剧变环境下的新压力、新挑战、新模式，以及应对打压方法————构建的企业数字化能...
+ ## [央视重磅关注天府新区这件事](http://mp.weixin.qq.com/s?src=11&timestamp=1599269403&ver=2565&signature=oTRfMHBKemOIHQj1S-KKh5mal*ZrATDwJW*vohAKKabJMEDHR7lYe76SZ09Dx95Yce3Y8wyr4EnRzDB9bGWOfmWm-pYAar07UAAJ4T-ENRfz0buY5aQ7eF6kc2y00fxm&new=1)
+ > 8月30日，首届全球5G产业创新峰会暨黑科技马拉松JUNCTION X 成都大赛在天府新区西博城圆满落下帷幕，这也是天府新区首次举办全球性5G盛会。据统计，在为期3 天的时间里，现场共迎来各界参会者近3万人次，线上参...
+ ## [全是干货!汽车行业610篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1599269403&ver=2565&signature=QcyQ5U7hUvkRZ28efYQZg6Q7rSSEujXcXQK71YinwqM*yxXEQpdYVJWQfolwxi6pOSNvRnbwvJ*-uKd2YwCY3IGkcznV7V9MWJDagbz6*q55UznsiVboySGPohEKcUs6&new=1)
+ > 汽车行业610篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享610份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [机遇来了!武汉刚获批的国家级试验区，将重点建设这些](http://mp.weixin.qq.com/s?src=11&timestamp=1599269403&ver=2565&signature=ISoxqH9jU-gOu6wjBjp9J5oOjvplhgx4RCLdD9xI3UviJr00Ff9xOQVx4r1*RpUxrGLfkjv6TEI5dsNZPB0RgG7V5ppWwS8XTC6Yucd8FVggSvR2bclrywYIUy8rjMtk&new=1)
+ > 9月4日科技部官网正式发布了《科技部关于支持武汉市建设国家新一代人工智能创新发展试验区的函》支持武汉市建设国家新一代人工智能创新发展试验区（点此查看相关报道&gt;&gt;&gt;）据悉，建设国家新一代人工智能创新发展...
+ ## [坐拥千万用户的长城宽带，如今只要100万就能买下..](http://mp.weixin.qq.com/s?src=11&timestamp=1599269403&ver=2565&signature=62-oT*mqlS5aiArO33VseZm6kEZKw8G-bK6Cv*N17UDbsSOM69b8XZA8eDNDKquwaUTgxgxd2nbK760uxr5CL4M*wP38qQkLzlHAnPGm6*ZO5HalL-U-jvuBY7guaLPw&new=1)
+ > 今天看到一个很刺激的新闻：鹏博士转让长城宽带 100% 股权。有些差友可能没有接触过长城宽带，但是没有关系，只需要知道这哥们是全国最大的民营宽带运营商，有 1450 万用户就够了。面对御三家这些年靠卖流量赚得...
+ ## [大反转!华为突然宣布，全世界都沸腾了!](http://mp.weixin.qq.com/s?src=11&timestamp=1599269403&ver=2565&signature=-cnJ4*VC-t0lqBaWcoIDZbmX1g2d01MbDAwszQEHmdnm1dp48OBGA*C54Wn*atimj0ht6J766skheqGKe-B5MFiMxKJqzmrlYgbP7kJIKqQynRybjU0mYBi9I35MYzrq&new=1)
+ > 问：怎么每天都能免费收到这种好文章呢？答：只需点上边《顶尖管理学府》免费关注！一一声惊雷，科技圈传来了重磅消息！继鸿蒙系统后，华为再次完成了一个历史性壮举！华为芯片领域最大的突破正式曝光！当华为轮...
 # IT 技术 
  ## [苏宁数据治理“三字经”，太实用了！](http://bigdata.51cto.com/art/202009/625383.htm)
  > 苏宁数据治理“三字经”，太实用了！
@@ -31,39 +33,39 @@ categories: IT NEWS
  > 我工作三年了，该懂并发了
  ## [挑战树莓派？首个运行Linux系统的RISC-V架构微型计算机 PicoRio 发布](http://os.51cto.com/art/202009/625301.htm)
  > 挑战树莓派？首个运行Linux系统的RISC-V架构微型计算机 PicoRio 发布
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
+ ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
+ > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
 # 人工智能 
- ## [【数据结构与算法】详解什么是树结构，并用代码手动实现一个二叉查找树](https://blog.csdn.net/l_ppp/article/details/108307532)
- > 
- ## [虹软人脸识别-SpringBoot集成](https://blog.csdn.net/qq_40110356/article/details/108378911)
- > 虹软人脸识别-SpringBoot集成
- ## [The More You Know: Using Knowledge Graphs for Image Classification 论文总结](https://blog.csdn.net/Jay_Tang/article/details/108353255)
- > The More You Know: Using Knowledge Graphs for Image Classification 论文总结
- ## [ML之回归预测：利用十类机器学习算法(线性回归、kNN、SVM、决策树、随机森林、极端随机树、SGD、提升树、LightGBM、XGBoost)对波士顿数据集回归预测(模型评估、推理并导到csv)](https://blog.csdn.net/qq_41185868/article/details/108371522)
- > ML之回归预测：利用十类机器学习算法(线性回归、kNN、SVM、决策树、随机森林、极端随机树、SGD、提升树、LightGBM、XGBoost)对波士顿数据集回归预测(模型评估、推理并导到csv)
- ## [微软发布鉴别AI换脸视频工具；Linux From Scratch v10发布|极客头条](https://blog.csdn.net/csdnnews/article/details/108376306)
- > 微软发布鉴别AI换脸视频工具；Linux From Scratch v10发布|极客头条
- ## [甘肃省普通高等学校高职（专科）升本科考试英语科考试大纲（试行）](https://blog.csdn.net/lucky51222/article/details/108370776)
- > 甘肃省普通高等学校高职（专科）升本科考试英语科考试大纲（试行）
- ## [阿里云网盘邀请码，阿里云网盘内测邀请码](https://blog.csdn.net/u012889902/article/details/108355610)
- > 阿里云网盘邀请码，阿里云网盘内测邀请码
- ## [大数据-什么是Hive？&&Hive中ETL的实战&&HQL介绍&&数据仓库的特征&&Hive的适用场景](https://blog.csdn.net/weixin_47055922/article/details/108356130)
- > 大数据-什么是Hive？&amp;&amp;Hive中ETL的实战&amp;&amp;HQL介绍&amp;&amp;数据仓库的特征&amp;&amp;Hive的适用场景
- ## [机器学习特性缩放的介绍，什么时候为什么使用](https://blog.csdn.net/m0_46510245/article/details/108374865)
- > 机器学习特性缩放的介绍，什么时候为什么使用
- ## [卧槽，牛皮了，程序员苦刷这些算法算法47天，四面字节斩获offer](https://blog.csdn.net/qq_46388795/article/details/108362643)
- > 卧槽，牛皮了，程序员苦刷这些算法算法47天，四面字节斩获offer
- ## [01.神经网络和深度学习 W4.深层神经网络（作业：建立你的深度神经网络+图片猫预测）](https://blog.csdn.net/qq_21201267/article/details/108330867)
- > 01.神经网络和深度学习 W4.深层神经网络（作业：建立你的深度神经网络+图片猫预测）
- ## [美国电信运营商Level 3因BGP故障引起“断网”事故](https://blog.csdn.net/weixin_38354951/article/details/108358482)
- > 美国电信运营商Level 3因BGP故障引起“断网”事故
- ## [Python基础（面向对象、面向过程）](https://blog.csdn.net/weixin_44781625/article/details/108371757)
- > Python基础（面向对象、面向过程）
- ## [认真分享一波本科 4 年挣到人生第一个 30w 的经历：目标-＞动力-＞坚持-＞改变](https://blog.csdn.net/m0_37907797/article/details/108371839)
- > 认真分享一波本科 4 年挣到人生第一个 30w 的经历：目标-＞动力-＞坚持-＞改变
- ## [吊！设计模式全解：6大设计原则+23种设计模式+设计模式PK+设计模式混编](https://blog.csdn.net/bjmsb/article/details/108340054)
- > 吊！设计模式全解：6大设计原则+23种设计模式+设计模式PK+设计模式混编
+ ## [FreeRTOS+CubeMX系列第二篇——任务的创建与删除](https://blog.csdn.net/weixin_44793491/article/details/108186503)
+ > FreeRTOS+CubeMX系列第二篇——任务的创建与删除
+ ## [高科技公司的 CEO 要写代码吗？](https://blog.csdn.net/jtao1735/article/details/108353748)
+ > 高科技公司的 CEO 要写代码吗？
+ ## [上海项目调研，走起，谈谈我这八年的经验](https://blog.csdn.net/xiaorui51/article/details/108360040)
+ > 上海项目调研，走起，谈谈我这八年的经验
+ ## [用于卫星信号载波的宽带频谱分析仪-新品发布（下）](https://blog.csdn.net/weixin_43123641/article/details/108375464)
+ > 用于卫星信号载波的宽带频谱分析仪-新品发布（下）
+ ## [蓝牙设备类型cod（蓝牙class of device介绍）](https://blog.csdn.net/XiaoXiaoPengBo/article/details/108366776)
+ > 蓝牙设备类型cod（蓝牙class of device介绍）
+ ## [STM32F407 DP83848驱动调试过程总结（标准库到HAL库移植避坑指南）](https://blog.csdn.net/szm1234/article/details/108345951)
+ > STM32F407 DP83848驱动调试过程总结（标准库到HAL库移植避坑指南）
+ ## [【5G核心网】 5G System Connection Management 5GS连接管理](https://blog.csdn.net/zhonglinzhang/article/details/108356751)
+ > 【5G核心网】 5G System Connection Management 5GS连接管理
+ ## [2020年深圳杯C题](https://blog.csdn.net/weixin_46455987/article/details/108369452)
+ > 2020年深圳杯C题
+ ## [快速搭建一个APMT265树莓派无人机](https://blog.csdn.net/sinat_16643223/article/details/108354556)
+ > 快速搭建一个APMT265树莓派无人机
+ ## [Golang导出并下载excel封装](https://blog.csdn.net/weixin_42141510/article/details/108380790)
+ > Golang导出并下载excel封装
+ ## [TIA Portal高级编程](https://blog.csdn.net/HwLib_/article/details/108378943)
+ > TIA Portal高级编程
+ ## [RT-Thread使用PM组件时对LPTIM频率的校准方法](https://blog.csdn.net/qq_27575841/article/details/108372874)
+ > RT-Thread使用PM组件时对LPTIM频率的校准方法
+ ## [捕获车间设备上数据的五步指南](https://blog.csdn.net/Hongke_IIOT/article/details/108358056)
+ > 捕获车间设备上数据的五步指南
+ ## [STM32CubeMX | 35-使用硬件FSMC驱动TFT-LCD屏幕（MCU屏，NT35510控制器）](https://blog.csdn.net/Mculover666/article/details/108361830)
+ > STM32CubeMX | 35-使用硬件FSMC驱动TFT-LCD屏幕（MCU屏，NT35510控制器）
+ ## [解决vue-router报NavigationDuplicated: Avoided redundant navigation to current location 的问题](https://blog.csdn.net/luer_LJS/article/details/108362563)
+ > 解决vue-router报NavigationDuplicated: Avoided redundant navigation to current location 的问题
 # PM 
  ## [产品经理如何做好需求分析？](http://www.chanpin100.com/article/112627)
  > 笔者认为需求就是用户最终的目的，它不是某个功能，也不是某个解决方案，只与用户的最终目的有关。
