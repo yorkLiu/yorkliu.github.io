@@ -1,24 +1,38 @@
 ---
 title: 2020-09-10 IT News
 copyright: true
-date: 2020-09-10 10:02:12
+date: 2020-09-10 12:02:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [人事：中国电信又一实力大省一把手履新!](http://mp.weixin.qq.com/s?src=11&timestamp=1599703205&ver=2575&signature=lfLWHU7FKKGMI8Gpbh0V2MpgAncrJsgXG0N2lODcMyM6jboX-4o28XpdYAMsHLbvfigGuiSTFp2zSX90VJsNLMdLauTRDBPFdARp*IOvL29kx*bDs04YSW5WFI64v*IS&new=1)
+ ## [美团外卖发声明回应一切；微信小程序升级，可分享到朋友圈；华为搜索国内亮相|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=cx*FWaocbEqxI1dMtYyCfCOEuxhjt8XATXEpPLWgtFagUw87c1fQePQBTevXcLXcbDrD0IlpOiu-9xmqIJBLO9H3QBxw8di59EXNhyDUQsP6FiK5MBMupTN4W2KaKm9y&new=1)
+ > 美团回应骑手事件：调度系统会给骑手留出 8 分钟弹性时间 9 月 8 日，《人物》发布文章题为《外卖骑手，困在系统里》刷屏网络，文章指出：在外卖系统的算法与数据驱动下，外卖骑手疲于奔命，导致他们违反交规、...
+ ## [太突然!100万甩卖!很多沈阳人都在用](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=LKmzMfMYkHvVWziHCnWu5HxoqIJBPrb4imXpZd0d6hnuPz4KfNlkUUu-yUuHrvwruEC9dfzQs9LiNQKe7oIO0QnK5eZVzbS86NFj7Mx3y7SSplp*gmhuBTxyyuXtgZY-&new=1)
+ > 你用过长城宽带吗？曾经风靡一时的长城宽带，如今转让价只要100万元，让人唏嘘。上市公司鹏博士发布公告近日，上市公司鹏博士发布公告，拟将旗下长城宽带网络服务有限公司、河南省聚信网络信息服务有限公司、沈...
+ ## [无缝大型可扩展金属3D打印技术：DMP Factory 500](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=cOfy5kZMlM3Z4LV6PMsoAfro2O3ccwDtzBVEulKTXMeloogE5**NH1LMIEeiDl3vJINl9dCBMt4P9frqCvOq0S1HM4uJeZArKyeoVGlJ9MYgzEwLika-04ZArTgsqmZY&new=1)
+ > DMP Factory 500无缝大型工件可扩展性金属增材制造技术诠释增材制造工厂GF加工方案是全球领先的完整解决方案供应商，客户范围包括高精度加工业和高精度工件制造商；3D Systems是增材制造解决方案的全球领先供应...
+ ## [微软更新9月最新补丁 共修复了129个漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=8r5BG0B2k*vevSJgE8rez4f1qN7*t2jseSkY*EHFJ374m0nq1p0idbm9S7UnVHPg0Y*zrgEyDv6crttrgZXnGNi2nB92neccWkfczS3U5DaUD4H2XOUK*w7cw5v3Ppmg&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全9月10日讯   近日，微软发布了每月一次的安全更新，也称为“周二补丁”。这个月，操作系统制造商修补了从Windows到ASP.NET的15种产品的129个漏洞。值得
+ ## [买一赠一丨戴尔官网送好礼，Vostro成就系列商务电脑仅需3099元，还赠超值显示器!](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=rTy2UdWfyO-EAnSmzYwJiaoRjZu-PbEjJPZtP*I3unT721s-iJEgjlV2viXw-2oPOBAAMf4p9RvC30l7FIOLd68gLj5eWuCzZuIpYMX7f2ZyICGaNAm-qX37JeOrF0hP&new=1)
+ > 想要成为职场Star吗？高效的人才能不加班！用对了高能神器，效率才能直线上升！来戴尔小企业官方商城助力业务在线，Slay全场！额外宠粉福利仅限小企业客户独享小企业客户：百人以下公司机构1.关注公众号　2.通过...
+ ## [\[报告\]2020吉利汽车深度研究(附41页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=IB-GA-jnbiHnx*JEJrvcwgi7UbvsBUndw-etDbssUVZ8p4apHjfmhuSUhkbYXJ7Bh0T5zeg13TgHuQaGj4FuIdD6stYzUX7A3xNpBIBaO1t7h*L-j6r39F-sFVbficbw&new=1)
+ > 本报告落脚点是乘用车自主品牌龙头企业，吉利汽车。2010-2019年吉利经历了明显了周期轮回。2014-2018年收入/净利润齐升，净利润2018年峰值达到125亿元，2019年开始下降，净利润下降至80亿元左右。展望未来3年吉...
+ ## [人事：中国电信又一实力大省一把手履新!](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=lfLWHU7FKKGMI8Gpbh0V2MpgAncrJsgXG0N2lODcMyMTsfbCKxDz5qAs1qMqGN4zMu-eawsiIabJmMAR56Dmkn6Zc9Et2oTJvvZkjE9lRauayhQu3Vamj2iRWnbP4K4-&new=1)
  > 运营商情报独家获悉，原中国电信安徽公司党委书记、总经理唐珂已于近日调任广东电信任职一把手。消息人士透露，在中国电信、中国联通的5G共建共享会上，唐珂代表广东电信发言。公开资料显示，2018年末，中国电信...
- ## [曾经有上千万用户，如今"白菜价"卖了!不少宁波人用过…](http://mp.weixin.qq.com/s?src=11&timestamp=1599703205&ver=2575&signature=2yKd8Wetapj8PT912GPeDFYu9LOJh3gRnCuqjtftMXKnStI3m6z6ItltQ62RPyKwfG-txpRMiJuSRbf9IEjOG9zO-C*9OgtnXpGuqfbqJOjsnJElJYTBeGcoL1zU-4Rq&new=1)
+ ## [曾经有上千万用户，如今"白菜价"卖了!不少宁波人用过…](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=2yKd8Wetapj8PT912GPeDFYu9LOJh3gRnCuqjtftMXLuT8EpenTz-ifZ4x2SI0CFkbz-m96Qs2zGvwwemVg3Q9NAVhqZZ74nm-RNt2uSzJ-HVi3Ux5JqwmxxZ98uHOt8&new=1)
  > 曾经风靡一时的长城宽带，如今百万元打包卖。记者9月6日获悉，其已经正式发布公告，拟将旗下长城宽带网络服务有限公司、河南省聚信网络信息服务有限公司、沈阳鹏博士网络服务有限公司、浙江鹏博士网络服务有限公...
- ## [能炒股、能抗疫、还能反恐，无所不能的大数据](http://mp.weixin.qq.com/s?src=11&timestamp=1599703205&ver=2575&signature=5tPPNOnzYCF9JaBeDpStbh20FlzYKx-GM7ziKP6SBFA8MQVGruCfJ*b9O7Manw13*nJMXEq1apyHhZwawnQTbTePi6WsDW69FiFsQx2dQhOhtWF1YPqKd5n7YlkeCNYW&new=1)
+ ## [能炒股、能抗疫、还能反恐，无所不能的大数据](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=5tPPNOnzYCF9JaBeDpStbh20FlzYKx-GM7ziKP6SBFCB8zJWL8YOv6hKC5yAncXySzJN5iOo3QOF-zOLfxWC9e3BnS5CCHzSiO3fgMKdjjhKXZRAC15vcWuhx28qfd9S&new=1)
  > 马云曾经在贵阳国际大数据产业博览会上发言说：“未来的制造业要的不是石油，未来的制造业它最大的能源是数据。”现代社会，尤其是随着移动互联网、物联网的发展，产生了海量的数据，大数据计算技术完美地解决了...
- ## [世界智能大会产研对接 ——走进天津城建大学](http://mp.weixin.qq.com/s?src=11&timestamp=1599703205&ver=2575&signature=E1dBDVMQ8iYSTfu9qAo8e1mydef9TuI70*9RFjByOAwimyc3aQ*jLC49NFQ7WI1MXJAzij8fACG4WGeYF6LyQft1aDp-sED8gmQL0nLwRsfcwF0cXINwbD8GBEITKfFs&new=1)
+ ## [世界智能大会产研对接 ——走进天津城建大学](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=E1dBDVMQ8iYSTfu9qAo8e1mydef9TuI70*9RFjByOAyUitGjWeTS2aNnM6u9fWgXPXJPZ7l4sJyGzu5XfO4cuwhR8wb75Fmd97aioe3jdcQS6*Do3Fg-lLLgVvEgBOwN&new=1)
  > 9月8日，天津市信息安全、动力电池产业集群赵国强主任、世界智能大会组委会秘书处任丽伟副总经理一行到访天津城建大学，与城建大学副校长王中良、城建大学相关学院院长围绕产学研合作、成果转化、世界智能大会、...
- ## [节省600亿元!电信联通5G共建共享一周年总结，存四大亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1599703205&ver=2575&signature=ElGNmPHKjExKQy*D-BX-14rn102GkmDOfn3kYT0NcX3e7u*qAnSTKdehJXiVXYpghcO62nFCFG5OnqjzAFBnvCQQXXMuqzEdXfpEQxj8e3p9*81TndpvVC4RSPANxR8c&new=1)
+ ## [节省600亿元!电信联通5G共建共享一周年总结，存四大亮点](http://mp.weixin.qq.com/s?src=11&timestamp=1599710404&ver=2575&signature=ElGNmPHKjExKQy*D-BX-14rn102GkmDOfn3kYT0NcX27PcKgKLCvHMEvIUH8UvI2-2lyhRTOsKtM6ojnsXOU7E4oBoaHQQRfWL1Egapsa6IBnPFyEDKmdk33cHYhtL7D&new=1)
  > 在我国5G发展的历程中，中国电信与中国联通共建5G基站开启了全新的发展模式。在今天举行的5G网络共建共享一周年工作回顾会议上，中国电信与中国联通公布了相关成绩。笔者概括了以下亮点。亮点一：节省600亿，钱...
 # IT 技术 
  ## [就是要让你搞懂Nginx，这篇就够了！](http://developer.51cto.com/art/202009/625765.htm)
  > 就是要让你搞懂Nginx，这篇就够了！
+ ## [华为HarmonyOS的强势突围： 直面物联网迷宫的蓄力进击](http://news.51cto.com/art/202009/625518.htm)
+ > 华为HarmonyOS的强势突围： 直面物联网迷宫的蓄力进击
  ## [促进测试工作的工程实践](http://developer.51cto.com/art/202009/625682.htm)
  > 促进测试工作的工程实践
  ## [绿色5G：建设可持续发展的世界](http://network.51cto.com/art/202009/625717.htm)
@@ -29,38 +43,58 @@ categories: IT NEWS
  > Qualcomm：这些关键技术的发明推动了5G的扩展！
  ## [在新冠病毒疫情下鼓舞士气的11种方法](http://www.cioage.com/art/202009/625675.htm)
  > 在新冠病毒疫情下鼓舞士气的11种方法
- ## [JavaScript启动性能瓶颈分析与解决方案](http://developer.51cto.com/art/202009/625667.htm)
- > JavaScript启动性能瓶颈分析与解决方案
- ## [MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01](http://fellow.51cto.com/art/202008/623594.htm?qd=51ctojrzd)
- > MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01
- ## [研究：全球消费电子市场规模高达6830亿美元](http://news.51cto.com/art/202009/625754.htm)
- > 根据Futuresource Consulting的研究报告，全球消费电子(CE)市场在2019年的市场规模有所增加，但增幅较小，
- ## [还不使用Docker管理数据，你是从1985年穿越来的吗？](http://cloud.51cto.com/art/202009/625753.htm)
- > 本文展示了如何创建Python服务包，并希望简化过程，使程序员的项目维持更长时间。因为当依赖关系发生变化时
- ## [还有什么比挑战自己更有趣？试试这5种编程思路](http://developer.51cto.com/art/202009/625752.htm)
- > 做自己真正喜欢的业余项目是提升自我的最好方法之一。使用新技术可以增加自己的技能，还可以尝试从未使用过
- ## [图解：什么是 JS 原型和原型链?](http://developer.51cto.com/art/202009/625747.htm)
- > 在我初学 JS 语言的继承机制原型和原型链的时候，我一直理解不了这种设计机制，再加上之前原有对 Java继承
- ## [用C语言撸了个DBProxy](http://developer.51cto.com/art/202009/625746.htm)
- > 笔者在阅读了一大堆源码后，就会情不自禁产生造轮子的想法。于是花了数个周末的时间用C语言撸了一个DBProxy
- ## [SringMVC从入门到源码，这一篇就够](http://developer.51cto.com/art/202009/625745.htm)
- > Java行业的谁人不知SSM框架呢?除非你告诉我刚学Java，我就相信你不知道SpringMVC。
- ## [详解 Python 的二元算术运算，为什么说减法只是语法糖？](http://developer.51cto.com/art/202009/625744.htm)
- > 大家对我解读属性访问的博客文章反应热烈，这启发了我再写一篇关于 Python 有多少语法实际上只是语法糖的文
-# PM 
- ## [网上药店产品的价值是什么？](http://www.chanpin100.com/article/112613)
- > 作者：杜昭 公众号：设计的威严
- ## [0-1搭建个性化推荐系统的设计思路](http://www.chanpin100.com/article/112665)
- > 当用户A喜欢物品a，且物品a和物品b相似，则认为用户A喜欢物品b
- ## [2020年过半，有哪些数字营销案例可以借鉴？](http://www.chanpin100.com/article/112624)
- > 看看2020上半年这些数字营销案例，或许能给企业数字化转型提供新的方向
- ## [2020年第2季度在线住宿预订市场｜开启直播预售新模式](http://www.chanpin100.com/article/112639)
- > 携程作为旅游行业最早推出直播活动的企业之一，于3月启动“旅游复兴...
- ## [2020年宠物次元经济专题分析|萌宠流量+粉丝经济强强联手](http://www.chanpin100.com/article/112644)
- > 简介：2020年9月2日，易观发布了《宠物次元经济专题分析2020》的专题分析。近年来，随着科学技术的不断进步，“吸”宠方式逐渐多元，宠物经济不在局限于养宠本身以及宠物医食住行等类目，而是在此基础上，以爱宠人…
- ## [让用户《上瘾》的产品是怎么做的？](http://www.chanpin100.com/article/112645)
- > 作者：杜昭 公众号：设计的威严
- ## [如何搭建指标体系？「5×3」矩阵助力快速落地！](http://www.chanpin100.com/article/112648)
- > 一线大厂都在借鉴，GrowingIO 独创思路
+ ## [新SpringCloud视频教程 分布式架构教程SpringCloud+Docker](http://fellow.51cto.com/art/202007/622449.htm?qd=51ctojrzd)
+ > 新SpringCloud视频教程 分布式架构教程SpringCloud+Docker
+ ## [Python机器学习教程](http://developer.51cto.com/art/202009/625785.htm)
+ > 本机器学习教程提供了机器学习的基本和中间概念。它是为完全入门的学生和专业工作人员而设计的。
+ ## [SSH只能用于远程Linux主机？那说明你见识太小了！](http://os.51cto.com/art/202009/625779.htm)
+ > 本篇文章主要介绍了SSH的基本概念和实践中常用的一些方法，并没有涉及深层原理和优化的知识，在底层实现和
+ ## [物联网技术将改善居民社区的3种方式](http://iot.51cto.com/art/202009/625778.htm)
+ > 今天，我们将探讨物联网在社区中的几种应用，无论是当前的还是潜在的，以更好地了解该技术在未来几十年和几
+ ## [3个助你玩转正则表达式的利器](http://os.51cto.com/art/202009/625774.htm)
+ > 为了能够让大家不再惧怕正则，有一些大神做了一些辅助工具用可视化的方式来帮助大家战胜正则，下面我们就来
+ ## [8月份Github上热门的JavaScript开源项目排行](http://developer.51cto.com/art/202009/625773.htm)
+ > 8月份GitHub上最热门的JavaScript开源项目排行已经出炉啦，一起来看看上榜详情吧。
+ ## [日常学习MySQL底层之MVCC、回滚段、一致性读、锁定读](http://database.51cto.com/art/202009/625771.htm)
+ > 你是否对MySQL数据库中的事务已经有所了解?看下面这张图，按照1～6的顺序依次执行，在RR隔离级别下，事务A
+ ## [13个程序员不可不知的VSCode插件，工作效率提升10倍](http://news.51cto.com/art/202009/625781.htm)
+ > 这篇文章我会结合日常工作使用经验，教你打造一个体验流畅的 C/C++ 开发环境，这份配置指南可能不是面面俱
+ ## [避免开源代码漏洞的4个优秀实践](http://netsecurity.51cto.com/art/202009/625768.htm)
+ > 公共存储库中的开源代码可能包含着恶意软件或无意的漏洞。以下是如何最好地发现和缓解潜在问题的方法。
+ ## [企业架构是如何帮助敏捷项目实现业务目标的](http://www.cioage.com/art/202009/625764.htm)
+ > 业务和企业架构对于敏捷计划和项目的成功可以起到非常重要的补充作用，可以增加实现目标业务成果的几率。
+ ## [这 6 点知识让我对 JavaScript 的对象有了更进一步的了解](http://developer.51cto.com/art/202009/625751.htm)
+ > Object.create函数使我们能够创建具有特定原型的对象。我们还可以传递null作为原型，用来创建不带原型的新
+# 人工智能 
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 
     
