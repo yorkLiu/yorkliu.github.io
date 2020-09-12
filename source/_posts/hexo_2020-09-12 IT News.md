@@ -1,68 +1,28 @@
 ---
 title: 2020-09-12 IT News
 copyright: true
-date: 2020-09-12 10:02:13
+date: 2020-09-12 12:03:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [小科普|用着用着网变慢?试试快速修复LSP和DNS](http://mp.weixin.qq.com/s?src=11&timestamp=1599876004&ver=2579&signature=lE5n0jlI-NOnvu93aNqxwDQb83OzkVYnh37W7grujLNZh5-9TM*gHxMb*n5DlGXg15fWTByW-JrE0MvxW4e1H8DHgKc3yfiBwSCtcTIFsn*O4W-2Kz32PpaY8r8e522U&new=1)
+ ## [从手机失窃事件看手机安全问题](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=C8pcFt375OnUVPQKzTDr0hanenKWBX-j86rs0vo*qqyUMVrFaiuH1EvR1UNCMtjzO32Dz*gfX4q*wZbAEs1AML4boQRKTvikFDiH85bMDm6i*GISb8TVr-tVzgCPeXte&new=1)
+ > 声明由于传播、利用此文所提供的信息而造成的任何直接或者间接的后果及损失，均由使用者本人负责，雷神众测以及文章作者不为此承担任何责任。雷神众测拥有对此文章的修改和解释权。如欲转载或传播此文章，必须保...
+ ## [ofo 被爆仍在自动续费；苹果加紧培养新一代接班人；谷歌推出 Android 11 Go|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=4J171Vt6Sl3gJvOKiRrikuWsIOOwm3BD8NpIjH-gQZidup-P3VenL0OGkGui7PsJhnc5gMd3JwnJtEeQtrp8pFG9VuRTy*lY7MIjPVC7GVokEh5i8Hglmo9FXl12u81t&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
+ ## [来了!来了!就在今天上午!](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=bTIQh0KfZikaWTT9AX2luvk-ovJoKTWyIjmvJ0p0TOH7MoE8pvCiR8U6MbMc8e1HHtD6DNObSdHuLHcOkAsKc0nv5t0biSAd8wv*JgGxaKH6FyseiqfeiqQu4owvDJmz&new=1)
+ > 今天上午世界制造业大会江淮线上经济论坛拉开大幕本次大会论坛将聚焦发展的阶段性新特征新要求展览展示呈现诸多新特点大会盛开“四朵云”本届大会论坛和往年有所不同将通过线上线下相结合方式举办“四朵云”系列...
+ ## [小科普|用着用着网变慢?试试快速修复LSP和DNS](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=lE5n0jlI-NOnvu93aNqxwDQb83OzkVYnh37W7grujLM-6X97RdR8mU-LKhvbYkqSXnz28nRHXtgsPSoq3g8vDbx8VqmxVk7jIHc5RyV3MyJ5zJpWhCGw4I91mbsDBViZ&new=1)
  > 玩会儿游戏、刷会儿贴吧，追会儿新番，不知你有没有遇到过“网越用越慢”有时候甚至刷不出来的问题，尤其是开过游戏加速器之后，更容易遇到这类问题。我们今天就来讲讲，这档子事儿。▌LSP“LSP是啥？”“当然是...
- ## [这朵世界最大的云要飘到中国汽车头上了](http://mp.weixin.qq.com/s?src=11&timestamp=1599876004&ver=2579&signature=Zz9lSR2QDWQ5ZMFzN2rrAjXwnCfRCDaFgTvwr3-o2MjxTkVPQKh-eDY*xkVypFQgnkqgXhPWRzxnNdT9bAhrY2d9Su1oI3GTRQH1OZNXwlsPZJwVPyaOdArs1ShWpD*d&new=1)
- > 云端的覆盖场景多的超乎想象，有了它似乎在各行各业，都会有效率的提升和业务的创新。“云”承担着赋能者的角色，可以让传统企业进行数字化转型，并推动业务增长。文丨AutoR智驾  王硕奇 在2020年9月9日举办的AW...
- ## [4G网络强行降速?你被“5G”了嘛?](http://mp.weixin.qq.com/s?src=11&timestamp=1599876004&ver=2579&signature=zqoYHUHduyiA7f84eHonSA8X3h0FgRlk-uB9H*J0bhvG*RiTSpVUFGAnEu-Ej5JfTVY6x7OogjLxdWe0F7TYABrO9o6Nwi3iLzLSJqnFYMeztaot*Y3ssqr8TWD9aG*J&new=1)
- > 5G的全面普及已经过去快一年了，这一年中无论是已经使用5g网络的用户和依然在使用4g网络的用户，在日常的基本体验中，似乎看不到什么区别。但是，最近越来越多的4g用户发现自己的4g网络没有以前那么快了，即使是...
- ## [“没有人能熄灭满天星光”——华为开发者大会独家解读](http://mp.weixin.qq.com/s?src=11&timestamp=1599876004&ver=2579&signature=NR9eM3f1lgxTbbX1ZKM3OF9en5LnJ6qf1YdRdjJkpq2qjY07ru1suIqH9yuIsDnLW393FcIrc8YEMiM1HS0m2gmPBgcYLu4m1tK5n8*Yh0VRPqB3OhyUgO-kVZ*6o6KW&new=1)
+ ## [3D打印定制平台Xometry再获5亿元融资，计划IPO](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=4Jk5aFpVwGsPVHIOBQxzpgBRV4SOMN97U0wjZ3ViiSAtnfKFuBfh*igcIUDNLr8VbBlpMPZUP6-KskqXK5j*kmwaqRxmU2VwRuuSRajEYxGUCLj**I9AqN-1-0pL9BNh&new=1)
+ > △广告：陶瓷3D打印相关展会2020年9月12日，南极熊获悉，3D打印定制按需制造平台Xometry宣布获得了7500万美元（约5.1亿元人民币）的股权融资。自2013年以来的融资总额达到1.93亿美元（约13.2亿元人民币）。本轮...
+ ## [“没有人能熄灭满天星光”——华为开发者大会独家解读](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=NR9eM3f1lgxTbbX1ZKM3OF9en5LnJ6qf1YdRdjJkpq34mLGl8Eg43Ol1DxdyIAZNVbneX9kjnkAnz7pfXJ53TI9Cve7JWPV9h3xnPe72K9dKDdi9MAbPYFgrjwPLS4Hd&new=1)
  > 时隔一年，华为再次举办了开发者大会。犹记得去年的第一届大会上，最重磅的消息就是鸿蒙1.0的发布，对于那个特殊时局之下的华为来说，可谓是一剂强心针。这一次，作为第一位演讲嘉宾的余承东，用“没有人能够熄...
- ## [百度网盘，这次真的要慌了](http://mp.weixin.qq.com/s?src=11&timestamp=1599876004&ver=2579&signature=9FTDALZHI8lHKamGnH6KSWRMAgcJm5FTVaubLdvRtAV8RNgPajP04iqL3O6KGFPd8AHzsw9RREHvNDvEdaonll4HQyE4owk6dt56GDlpex-ovQbj1wDQGG7i-7yQ1QLP&new=1)
+ ## [4G网络强行降速?你被“5G”了嘛?](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=zqoYHUHduyiA7f84eHonSA8X3h0FgRlk-uB9H*J0bhsF9lQkgZFpSrqdIG4EDaApAXoKn95PSAkoWfKv9XurCZ3nXYTqvsGYWTu*-70j6KRHVvVEFJ*KdgetB6l3KiRK&new=1)
+ > 5G的全面普及已经过去快一年了，这一年中无论是已经使用5g网络的用户和依然在使用4g网络的用户，在日常的基本体验中，似乎看不到什么区别。但是，最近越来越多的4g用户发现自己的4g网络没有以前那么快了，即使是...
+ ## [这朵世界最大的云要飘到中国汽车头上了](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=Zz9lSR2QDWQ5ZMFzN2rrAjXwnCfRCDaFgTvwr3-o2MhRiZZgfh--IybAJlWtgeEsXQ-FpFxBxAdrzMRrBHIYDy8pIMQg9y1I5nvqupUbWMCqpnsQ3DhqJ-8YGQ*d69jL&new=1)
+ > 云端的覆盖场景多的超乎想象，有了它似乎在各行各业，都会有效率的提升和业务的创新。“云”承担着赋能者的角色，可以让传统企业进行数字化转型，并推动业务增长。文丨AutoR智驾  王硕奇 在2020年9月9日举办的AW...
+ ## [百度网盘，这次真的要慌了](http://mp.weixin.qq.com/s?src=11&timestamp=1599883205&ver=2579&signature=9FTDALZHI8lHKamGnH6KSWRMAgcJm5FTVaubLdvRtAW4PoVBOVw63JTtS3YXMm6rrBAu-bARE2yVVcSrL3wHo1VKWrCVPkBOcDqQIV-LMB-Zpj4MFmLzN12QqTxfYKL3&new=1)
  > 百度网盘可能不再是一家独大了。事情酱紫的，阿里旗下的办公软件，突然宣布要进军网盘了。这可不得了，阿里的财雄势大，可不是一般公司能比。如果阿里要搞网盘，那必然是速度拉满，空间管够，而且没有奇奇怪怪的...
-# IT 技术 
- ## [华为开发者大会正式发布HarmonyOS 2.0   点燃面向全场景智慧生态的星星之火](http://news.51cto.com/art/202009/625966.htm)
- > 华为开发者大会正式发布HarmonyOS 2.0   点燃面向全场景智慧生态的星星之火
- ## [低代码为AI降低准入门槛](http://ai.51cto.com/art/202009/625885.htm)
- > 低代码为AI降低准入门槛
- ## [见证华为“软实力”，突围！从操作系统开始](http://os.51cto.com/art/202009/625906.htm)
- > 见证华为“软实力”，突围！从操作系统开始
- ## [物联网技术将改善居民社区的3种方式](http://iot.51cto.com/art/202009/625778.htm)
- > 物联网技术将改善居民社区的3种方式
- ## [物联网治理：如何应对法规遵从性和安全挑战](http://iot.51cto.com/art/202009/625884.htm)
- > 物联网治理：如何应对法规遵从性和安全挑战
- ## [就是要让你搞懂Nginx，这篇就够了！](http://developer.51cto.com/art/202009/625765.htm)
- > 就是要让你搞懂Nginx，这篇就够了！
- ## [企业架构是如何帮助敏捷项目实现业务目标的](http://www.cioage.com/art/202009/625764.htm)
- > 企业架构是如何帮助敏捷项目实现业务目标的
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
-# 人工智能 
- ## [莫队算法 --算法竞赛专题解析（26）](https://blog.csdn.net/weixin_43914593/article/details/108485396)
- > 莫队算法 --算法竞赛专题解析（26）
- ## [2020学习前端开发有前途吗？（建议收藏）](https://blog.csdn.net/gitchatxiaomi/article/details/108446097)
- > 2020学习前端开发有前途吗？（建议收藏）
- ## [做聊天机器人平台就是赌博](https://blog.csdn.net/watson243671/article/details/108499987)
- > 做聊天机器人平台就是赌博
- ## [物联网为什么需要5G？](https://blog.csdn.net/devcloud/article/details/108490780)
- > 物联网为什么需要5G？
- ## [项目实战：Java实现计算机自动关机（二）](https://blog.csdn.net/qq_41306364/article/details/108486519)
- > 项目实战：Java实现计算机自动关机（二）
- ## [软件测试工程师的自我认识和定位！！](https://blog.csdn.net/weixin_44732183/article/details/108511015)
- > 软件测试工程师的自我认识和定位！！
- ## [零基础学前端好找工作吗？](https://blog.csdn.net/icktpxcls/article/details/108487445)
- > 零基础学前端好找工作吗？
- ## [云计算之Linux全栈目录（第一节网络基础）](https://blog.csdn.net/weixin_43051805/article/details/108513130)
- > 云计算之Linux全栈目录（第一节网络基础）
- ## [操作系统概论【四】- - 内存管理](https://blog.csdn.net/weixin_43606158/article/details/108092311)
- > 操作系统概论【四】- - 内存管理
- ## [2020-09-10](https://blog.csdn.net/t5555666/article/details/108506418)
- > 2020-09-10
- ## [存储器及其存储器的层级结构](https://blog.csdn.net/qq_43701555/article/details/108502244)
- > 存储器及其存储器的层级结构
- ## [2020年第十五届全国大学生智能汽车竞赛技术报告](https://blog.csdn.net/zhuoqingjoking97298/article/details/108506709)
- > 2020年第十五届全国大学生智能汽车竞赛技术报告
- ## [华为联合教指委发布《物联网实践系列教材》](https://blog.csdn.net/luckydarcy/article/details/108519170)
- > 华为联合教指委发布《物联网实践系列教材》
- ## [POJ 1312棋盘问题](https://blog.csdn.net/qq_44923545/article/details/108503346)
- > POJ 1312棋盘问题
- ## [小白写博客讲讲我自己的java学习之路](https://blog.csdn.net/weixin_43310933/article/details/108510448)
- > 小白写博客讲讲我自己的java学习之路
 
     
