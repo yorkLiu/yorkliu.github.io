@@ -1,36 +1,54 @@
 ---
 title: 2020-09-17 IT News
 copyright: true
-date: 2020-09-17 09:01:30
+date: 2020-09-17 10:02:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刚刚，官宣：董昕辞任，高同庆接任!](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=EQzPBhmpwZ8gf2GmIkZpBxtvSWueCIhGTLj*mPvzVgae5eag8OsyTUPhftkVEbdErJOdBgrt8SE1F0HfCsHuYq0hOF5DphodAmEJe0-iYXEQV8HaVsAbFpOoMY7HiJmp&new=1)
+ ## [7点见|特朗普说不喜欢TikTok的新方案；比亚迪或代工新iPad](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=GLiR62Pzy-Nck5QPwV1IlVTZ6X-ZTm-fp6*822lasEGpdvQr2QKubktbeMmPucLLhRH6qOGJYtLXr4sO0yALkjKXs8QbY7m8EboSCsri*VPh8iyK3d*KWj96ZmK7ln5q&new=1)
+ > 各位小伙伴们，早上好呀！中央广播电视总台出品，首部抗疫题材电视系列剧《最美逆行者》今日重磅首播！ 让我们一起致敬这个时代的奋战者，致敬英雄!以下是今天的早报！美媒：特朗普说“不喜欢”TikTok与甲骨文拟...
+ ## [\[报告\]2019-2020年中国顺风车行业研究(附55页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=71x8AUt6VTSJCtbpGonovzd3dlqqSvaYYKNLtYXtzIA1wTKYLlMp8CbIc4SD544yd1AJfBy3DeZG-DmDX71wX84agv-*TZ*dckp9XfvwxoRirB3K7OFREjeZZgaSIsqz&new=1)
+ > 数据显示，预计到2020年中国顺风车用户规模将达2.49亿人，中国顺风车需求长期存在着且呈现日渐增多的趋势。另外，数据显示，近一年内有三成以上受访网民有使用过顺风车服务，中短途城际出行、日常上下班等成为其...
+ ## [IFOC 2020|澳威激光石元：聚焦于不同应用的选择波长激光器](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=l18CklGrL6HH8eliqBMmmPm9529vmt75VvpgMQL0hS3dAwLrbtw*h*TRR-IrufdR9GZorlz171-FTx*0lbZ-bby4ruzMmsV6bwg077wKeNF4qijrBPyYj0CTGAC1ziGI&new=1)
+ > 新闻导读9月7日，在第19届讯石光纤通讯市场暨技术专题研讨会的通信芯片发展专题上，陕西澳威激光科技有限公司总裁石元博士演讲主题是《激光技术的发展——聚焦于不同应用的选择波长激光器》，石总用诙谐幽默的方...
+ ## [这个行业缺30万人，毕业生月薪超3万元!](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=MNWJIAmuNLwLpxUx7lrTEiu8BQLNagj8jOcFmBYJzfwhRxyQKWyihBV*IyTOPiemT6YM3uE9mi2hCl9IIEaj8cOO9HZxxVtHUioQAuKN*Yu45HzBqHpJLpjUuFZ8PA99&new=1)
+ > 受疫情影响，我国制造业遭遇了不小的冲击。但是疫情也催生了不少传统劳动密集型企业的数字化转型，智能化制造迎来新升级。１数字化重塑制造业智能制造加速升级一般而言，家具生产是典型的劳动密集型行业，产品质...
+ ## [刚刚，官宣：董昕辞任，高同庆接任!](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=EQzPBhmpwZ8gf2GmIkZpBxtvSWueCIhGTLj*mPvzVgae5eag8OsyTUPhftkVEbdEX2GUIpXhEgbTfgurn3lzu7xwqwgL2gN30M1z7h1Em9srsu5BMRKP6zpoc2ugFiAu&new=1)
  > 据C114消息（颜翊）中国铁塔董事会宣布，董昕因工作调动，已辞任公司非执行董事、董事会战略委员会以及董事会提名委员会委员职务，自2020年9月14日起生效。董事会就董昕先生任职期间对公司作出的贡献致以衷心感...
- ## [未知大陆推出平台自营模式，瞄准3D打印商品个人消费市场](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=dJWBJQGIzGkjudqW1-r1k1uBdHoOpDVnXFikOCIGjqZ7wPWlY6cWUgS10jZM5v2LNk9anmJd-yNddaGieGnz*Yjh8vVSZcsB94Md*M4oqj9hcXXjxnO8HenHI6j0khi-&new=1)
+ ## [未知大陆推出平台自营模式，瞄准3D打印商品个人消费市场](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=dJWBJQGIzGkjudqW1-r1k1uBdHoOpDVnXFikOCIGjqZ7wPWlY6cWUgS10jZM5v2LAau0Zr349L69fHZwGZ52eNj*70Y0EA7PY*qgUG1mJsp*VN9gISSj6dpKpC8kYBeq&new=1)
  > 2020年9月16日，未知大陆新增平台自营模式，目前处于Beta阶段，预计新品将于一周后陆续上线。平台自营是指未知大陆统一向3D打印服务商采选3D打印商品并通过平台模型版块直接销售月结的模式，践行“数据即商品”...
- ## [百度带带我](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=29S8sVW2JULrgUoH2AzE9f84wiUG1NiFD5SYTzaD*7ZmiUz77YSrzrRcnANOpHsUQ*icAbvFl-jsuOQ8WJR9fBUF8-z*BdwZ9rJ3POJvE3E-RDTF-FGhAGzGcChWEqA4&new=1)
+ ## [百度带带我](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=29S8sVW2JULrgUoH2AzE9f84wiUG1NiFD5SYTzaD*7ZmiUz77YSrzrRcnANOpHsU774rRcEV3oluweMvgEy5JB71Z*DnZQa3nHIbs1Tnz8H-YieBeJQ-nZgcvgb2ayfH&new=1)
  > 导读：百度的人工智能技术似乎正在变得更成熟。“哎，我们好像少了个人啊？” 女士半是自言自语，半是询问身旁的技术男——“我知道我今天是来试驾无人车的，但是我记得之前主驾位置上其实是有安全员的，他今天...
- ## [首批高科技企业入驻天府新区这个产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=KS8crtH14ZX-EFBUnz03*MVvtRfRVRpmz8DkFF4PZu-sxiitMUafcSg-pAH3-WfY96hXy*Zo8TqMVudzzy0Olcftp3EplxoH7KcAWp*TKUn8W-*mIIqtPwkHQ0AQcbmt&new=1)
+ ## [首批高科技企业入驻天府新区这个产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1600308004&ver=2589&signature=KS8crtH14ZX-EFBUnz03*MVvtRfRVRpmz8DkFF4PZu-sxiitMUafcSg-pAH3-WfYt5H7*cnvldKpGeXAhkx1ZkIZ12uUCcfNxzGWLQ0r5SY-690fI-wmlRusSYrFPdsr&new=1)
  > 9月16日，以“鲲鹏展翅 共赢计算新时代”为主题的“创业天府·菁蓉汇·鲲鹏生态大会”在天府新区中国西部国际博览城举办，政产学研各界领导嘉宾、行业先锋、学术专家齐聚一堂，凝聚共识、共同探讨计算产业发展，...
 # IT 技术 
  ## [LXDE vs XFCE：哪个是更好的轻量级桌面环境？](http://os.51cto.com/art/202009/626330.htm)
  > LXDE vs XFCE：哪个是更好的轻量级桌面环境？
- ## [无服务器技术如何实现最佳的DevOps实践](http://os.51cto.com/art/202009/626331.htm)
- > 无服务器技术如何实现最佳的DevOps实践
- ## [华为杨海松：HarmonyOS是大家的，共创新价值，给消费者带来新体验](http://os.51cto.com/art/202009/626252.htm)
- > 华为杨海松：HarmonyOS是大家的，共创新价值，给消费者带来新体验
+ ## [分析深度学习背后的数学思想](http://ai.51cto.com/art/202009/626250.htm)
+ > 分析深度学习背后的数学思想
+ ## [让老设备脱胎换骨 升级老电脑该从哪里入手：教你一招](http://biz.51cto.com/art/202009/626210.htm)
+ > 让老设备脱胎换骨 升级老电脑该从哪里入手：教你一招
  ## [支撑日均百万订单的微服务架构应该这么搞！](http://developer.51cto.com/art/202009/626245.htm)
  > 支撑日均百万订单的微服务架构应该这么搞！
- ## [不可不知的Android 11的安全功能以及改进](http://mobile.51cto.com/android-626203.htm)
- > 不可不知的Android 11的安全功能以及改进
- ## [架构师不会架构选型，能行吗？](http://developer.51cto.com/art/202009/626150.htm)
- > 架构师不会架构选型，能行吗？
- ## [我青睐的Windows 10的七项功能](http://os.51cto.com/art/202009/626167.htm)
- > 我青睐的Windows 10的七项功能
- ## [SQL Server 全能管理员在线课程](http://fellow.51cto.com/art/202008/622833.htm?qd=51ctojrzd)
- > SQL Server 全能管理员在线课程
+ ## [为什么要用HTTPS？因为HTTP不安全！](http://netsecurity.51cto.com/art/202009/626360.htm)
+ > 为什么要用HTTPS？因为HTTP不安全！
+ ## [无服务器技术如何实现最佳的DevOps实践](http://os.51cto.com/art/202009/626331.htm)
+ > 无服务器技术如何实现最佳的DevOps实践
+ ## [SMTP工作原理大剖析](http://network.51cto.com/art/202009/626262.htm)
+ > SMTP工作原理大剖析
+ ## [美女讲师教你学Python第一季：基础入门视频教程](http://fellow.51cto.com/art/202008/623597.htm?qd=51ctojrzd)
+ > 美女讲师教你学Python第一季：基础入门视频教程
+ ## [重新思考“云爆发”](http://cloud.51cto.com/art/202009/626364.htm)
+ > 云计算世界中无所不有。云爆发能否使新包装卷土重来?现在还有其他一些要说的关于2020年和2021年云爆裂的概
+ ## [关于iOS/iPadOS 14 值不值得升级看这一篇就够了](http://mobile.51cto.com/iphone-626363.htm)
+ > 经过了三个月的测试，iOS/iPadOS 14 正式版终于在 9 月 17 日到来，以下兼容的设备均可更新至最新的 iOS /
+ ## [iOS 14正式版来了！这些升级 你应该看一下](http://mobile.51cto.com/iphone-626361.htm)
+ > 苹果公司召开秋季发布会，除了推出新iPad和Apple Watch，还宣布了iOS 14正式版的推送日期。今天，用户已经
+ ## [了解红黑树的起源，理解红黑树的本质](http://developer.51cto.com/art/202009/626357.htm)
+ > 说起跳表，我们就不得不提另一种非常经典的数据结构――红黑树，红黑树相对于跳表来说，虽然时间复杂度都是
+ ## [大数据杀熟行为10月1日起明令禁止，作为开发的你怎么看？](http://bigdata.51cto.com/art/202009/626355.htm)
+ > 再过一段时间就是国庆假期加上中秋假期了，很多小伙伴都准备趁着这个时间好好出去玩耍，而就在昨天，文化和
  ## [物联网网关未来该如何部署？](http://iot.51cto.com/art/202009/626356.htm)
  > 物联网网关设备弥合了物联网设备，传感器，设备，系统和云之间的通信鸿沟。通过系统地连接现场和云，物联网
  ## [重新认识Typescript | Vue3源码系列](http://developer.51cto.com/art/202009/626354.htm)
@@ -41,45 +59,37 @@ categories: IT NEWS
  > 要使用OkHttp，一定要知道它的透明压缩，否则死都不知道怎么死的;或者活也不知道为什么活的不舒坦。
  ## [说说缓存最关心的问题？有哪些类型？回收策略和算法？](http://stor.51cto.com/art/202009/626350.htm)
  > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [关于DAMA参考数据和主数据管理的解读和一些看法](http://bigdata.51cto.com/art/202009/626349.htm)
- > 参考数据管理是对定义的数据值域进行控制，包括对标准化术语、代码值和其他唯一标识符以及每个取值的业务定
- ## [在 React 中进行事件驱动的状态管理「实践」](http://developer.51cto.com/art/202009/626351.htm)
- > 今天，我们将讨论 Context API 的替代方法：Storeon。Storeon 是一个微型的、事件驱动的 React 状态管理库
- ## [用InDesign的开源替代方案Scribus设计书籍封面](http://os.51cto.com/art/202009/626348.htm)
- > 使用开源的出版软件 Scribus 来制作你的下一本自出版书籍的封面。
- ## [6个在团队中使用Git的最佳实践](http://developer.51cto.com/art/202009/626347.htm)
- > Git 非常有助于小团队管理他们的软件开发进度，但有些方法能让你变得更高效。我发现了许多有助于我的团队的
 # 人工智能 
- ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
- > github设置仓库可见性  私人仓库设置他人协作/可见
- ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
- > Gitee上传代码 提示remote Incorrect username or password ( access token )
- ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
- > IDEA中Maven依赖下载失败解决方案
- ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
- > Z平台-开源免费的JAVA快速开发平台
- ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
- > 产品经理面试——简历填写
- ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
- > 如何实时抓取动态网页数据？
- ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
- > fatal: early EOF fatal: index-pack failed
- ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
- > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
- ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
- > 小白必看：合理搭建巨量引擎账户结构要点总结！
- ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
- > Maven 初学+http://mvnrepository.com/
- ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
- > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
- ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
- > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
- ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
- > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
- ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
- > lerna管理前端packages的最佳实践
- ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
- > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
+ ## [大数据到底应该如何学？](https://blog.csdn.net/u012039040/article/details/108589729)
+ > 
+ ## [Spark 出现的问题及其解决方案](https://blog.csdn.net/qq_16146103/article/details/108180964)
+ > Spark 出现的问题及其解决方案
+ ## [技术征文 | 一文说尽鸿蒙事，万篇传承中国魂](https://blog.csdn.net/blogdevteam/article/details/108579174)
+ > 技术征文 | 一文说尽鸿蒙事，万篇传承中国魂
+ ## [遇见 vue.js --------阿文的vue.js学习笔记（2—2）----- 基本使用 \[2\]](https://blog.csdn.net/qq_45948983/article/details/108572424)
+ > 遇见 vue.js --------阿文的vue.js学习笔记（2—2）----- 基本使用 \[2\]
+ ## [火灾地区的短波红外数据（WorldView3 SWIR）共享——以美国西部山火为例](https://blog.csdn.net/qq_46071146/article/details/108600235)
+ > 火灾地区的短波红外数据（WorldView3 SWIR）共享——以美国西部山火为例
+ ## [阿里P9技术专家：Java程序员这些必备技能的进阶书籍一定要读一读](https://blog.csdn.net/JavaBUGa/article/details/108601434)
+ > 阿里P9技术专家：Java程序员这些必备技能的进阶书籍一定要读一读
+ ## [爱了! Alibaba技术官甩出的“阿里内部Java成长笔记”，差距对比真的是不止一点点](https://blog.csdn.net/AMSRY/article/details/108600159)
+ > 爱了! Alibaba技术官甩出的“阿里内部Java成长笔记”，差距对比真的是不止一点点
+ ## [厉害，Alibaba架构师，耗时72天，打造700页Java进阶架构师宝典，我爱了！](https://blog.csdn.net/qq_46388795/article/details/108597744)
+ > 厉害，Alibaba架构师，耗时72天，打造700页Java进阶架构师宝典，我爱了！
+ ## [2020年阿里Java开发岗必问：JVM与性能优化+Redis+设计模式+分布式](https://blog.csdn.net/mrchaochao/article/details/108602571)
+ > 2020年阿里Java开发岗必问：JVM与性能优化+Redis+设计模式+分布式
+ ## [运维面试题（每日一题）](https://blog.csdn.net/qq_39578545/article/details/108532249)
+ > 运维面试题（每日一题）
+ ## [Linux到底该怎么学？RHCA架构师整理了300页学习笔记](https://blog.csdn.net/JavaBye/article/details/108548868)
+ > Linux到底该怎么学？RHCA架构师整理了300页学习笔记
+ ## [MySQL服务器主从复制同步——主从复制的方式同步数据，企业必备操作！我会主从复制了，你呢？](https://blog.csdn.net/m0_46563938/article/details/108576868)
+ > MySQL服务器主从复制同步——主从复制的方式同步数据，企业必备操作！我会主从复制了，你呢？
+ ## [工程师必备的108个Linux硬核技能、300面试题，你真的不看看吗？](https://blog.csdn.net/weixin_45132238/article/details/108600203)
+ > 工程师必备的108个Linux硬核技能、300面试题，你真的不看看吗？
+ ## [Shell脚本正则表达式（一）](https://blog.csdn.net/weixin_46902396/article/details/108581567)
+ > Shell脚本正则表达式（一）
+ ## [Linux怎么学？一张思维导图带你深入Linux核心原理](https://blog.csdn.net/JavaJIAMIN/article/details/108549901)
+ > Linux怎么学？一张思维导图带你深入Linux核心原理
 # PM 
  ## [产品经理的20个“职业病”](http://www.chanpin100.com/article/112680)
  > 你中了几条？
