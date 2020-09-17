@@ -1,19 +1,19 @@
 ---
 title: 2020-09-17 IT News
 copyright: true
-date: 2020-09-17 08:00:55
+date: 2020-09-17 09:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [首批高科技企业入驻天府新区这个产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1600299004&ver=2589&signature=KS8crtH14ZX-EFBUnz03*MVvtRfRVRpmz8DkFF4PZu8Vmt43QSj-aeO61zxWgB3YcCauZWS6RlJC0lZ0Z9frXrxqfNcejYwEn9QswcEJBNCTfeGFqoxR8nyBRfFsNCox&new=1)
- > 9月16日，以“鲲鹏展翅 共赢计算新时代”为主题的“创业天府·菁蓉汇·鲲鹏生态大会”在天府新区中国西部国际博览城举办，政产学研各界领导嘉宾、行业先锋、学术专家齐聚一堂，凝聚共识、共同探讨计算产业发展，...
- ## [百度带带我](http://mp.weixin.qq.com/s?src=11&timestamp=1600299004&ver=2589&signature=29S8sVW2JULrgUoH2AzE9f84wiUG1NiFD5SYTzaD*7bWv6QTPj63EsmJzkez1ACnYIkHC8T5k7XSTNMz8i-IhXbG5mj9taCUTl4VUH2iMdHHXvYXEBpBEau-r6aZIlLF&new=1)
- > 导读：百度的人工智能技术似乎正在变得更成熟。“哎，我们好像少了个人啊？” 女士半是自言自语，半是询问身旁的技术男——“我知道我今天是来试驾无人车的，但是我记得之前主驾位置上其实是有安全员的，他今天...
- ## [未知大陆推出平台自营模式，瞄准3D打印商品个人消费市场](http://mp.weixin.qq.com/s?src=11&timestamp=1600299004&ver=2589&signature=dJWBJQGIzGkjudqW1-r1k1uBdHoOpDVnXFikOCIGjqbDLhmatM1MiuOdcD*jF1gfM*igGT2EZg*xnh7QehAF1s5CmVlAY-d0gGkyisNvCJQ9KWZa56w3v2XsuEPf*QJo&new=1)
- > 2020年9月16日，未知大陆新增平台自营模式，目前处于Beta阶段，预计新品将于一周后陆续上线。平台自营是指未知大陆统一向3D打印服务商采选3D打印商品并通过平台模型版块直接销售月结的模式，践行“数据即商品”...
- ## [刚刚，官宣：董昕辞任，高同庆接任!](http://mp.weixin.qq.com/s?src=11&timestamp=1600299004&ver=2589&signature=EQzPBhmpwZ8gf2GmIkZpBxtvSWueCIhGTLj*mPvzVgb8DROO23MhP2a1vz6Dd82vZycvW3iG7id5Yi5AnI622pAYgxlwft-D5zkH22Kc5VROsssZVNaE1VnerVmCkTA*&new=1)
+ ## [刚刚，官宣：董昕辞任，高同庆接任!](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=EQzPBhmpwZ8gf2GmIkZpBxtvSWueCIhGTLj*mPvzVgae5eag8OsyTUPhftkVEbdErJOdBgrt8SE1F0HfCsHuYq0hOF5DphodAmEJe0-iYXEQV8HaVsAbFpOoMY7HiJmp&new=1)
  > 据C114消息（颜翊）中国铁塔董事会宣布，董昕因工作调动，已辞任公司非执行董事、董事会战略委员会以及董事会提名委员会委员职务，自2020年9月14日起生效。董事会就董昕先生任职期间对公司作出的贡献致以衷心感...
+ ## [未知大陆推出平台自营模式，瞄准3D打印商品个人消费市场](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=dJWBJQGIzGkjudqW1-r1k1uBdHoOpDVnXFikOCIGjqZ7wPWlY6cWUgS10jZM5v2LNk9anmJd-yNddaGieGnz*Yjh8vVSZcsB94Md*M4oqj9hcXXjxnO8HenHI6j0khi-&new=1)
+ > 2020年9月16日，未知大陆新增平台自营模式，目前处于Beta阶段，预计新品将于一周后陆续上线。平台自营是指未知大陆统一向3D打印服务商采选3D打印商品并通过平台模型版块直接销售月结的模式，践行“数据即商品”...
+ ## [百度带带我](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=29S8sVW2JULrgUoH2AzE9f84wiUG1NiFD5SYTzaD*7ZmiUz77YSrzrRcnANOpHsUQ*icAbvFl-jsuOQ8WJR9fBUF8-z*BdwZ9rJ3POJvE3E-RDTF-FGhAGzGcChWEqA4&new=1)
+ > 导读：百度的人工智能技术似乎正在变得更成熟。“哎，我们好像少了个人啊？” 女士半是自言自语，半是询问身旁的技术男——“我知道我今天是来试驾无人车的，但是我记得之前主驾位置上其实是有安全员的，他今天...
+ ## [首批高科技企业入驻天府新区这个产业园](http://mp.weixin.qq.com/s?src=11&timestamp=1600304404&ver=2589&signature=KS8crtH14ZX-EFBUnz03*MVvtRfRVRpmz8DkFF4PZu-sxiitMUafcSg-pAH3-WfY96hXy*Zo8TqMVudzzy0Olcftp3EplxoH7KcAWp*TKUn8W-*mIIqtPwkHQ0AQcbmt&new=1)
+ > 9月16日，以“鲲鹏展翅 共赢计算新时代”为主题的“创业天府·菁蓉汇·鲲鹏生态大会”在天府新区中国西部国际博览城举办，政产学研各界领导嘉宾、行业先锋、学术专家齐聚一堂，凝聚共识、共同探讨计算产业发展，...
 # IT 技术 
  ## [LXDE vs XFCE：哪个是更好的轻量级桌面环境？](http://os.51cto.com/art/202009/626330.htm)
  > LXDE vs XFCE：哪个是更好的轻量级桌面环境？
@@ -29,12 +29,20 @@ categories: IT NEWS
  > 架构师不会架构选型，能行吗？
  ## [我青睐的Windows 10的七项功能](http://os.51cto.com/art/202009/626167.htm)
  > 我青睐的Windows 10的七项功能
- ## [MaxScale读写分离项目实施与维护_MySQL高可用复制与分布式集群架构08](http://fellow.51cto.com/art/202008/623596.htm?qd=51ctojrzd)
- > MaxScale读写分离项目实施与维护_MySQL高可用复制与分布式集群架构08
+ ## [SQL Server 全能管理员在线课程](http://fellow.51cto.com/art/202008/622833.htm?qd=51ctojrzd)
+ > SQL Server 全能管理员在线课程
  ## [物联网网关未来该如何部署？](http://iot.51cto.com/art/202009/626356.htm)
  > 物联网网关设备弥合了物联网设备，传感器，设备，系统和云之间的通信鸿沟。通过系统地连接现场和云，物联网
  ## [重新认识Typescript | Vue3源码系列](http://developer.51cto.com/art/202009/626354.htm)
  > 本篇文章作为 Vue3 源码系列前置篇章之一，Typescript 的科普文，主要目的为了大家在面对 Vue3 源码时不会
+ ## [项目经理小姐姐非要给我讲一讲，项目开发规范和流程！](http://developer.51cto.com/art/202009/626353.htm)
+ > 有很多在校生给我留言，希望小鹿分享一下工作的前端开发流程以及规范。对于在校生说，很难接触到一些企业中
+ ## [OkHttp透明压缩，收获性能10倍，外加故障一枚](http://developer.51cto.com/art/202009/626352.htm)
+ > 要使用OkHttp，一定要知道它的透明压缩，否则死都不知道怎么死的;或者活也不知道为什么活的不舒坦。
+ ## [说说缓存最关心的问题？有哪些类型？回收策略和算法？](http://stor.51cto.com/art/202009/626350.htm)
+ > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
+ ## [关于DAMA参考数据和主数据管理的解读和一些看法](http://bigdata.51cto.com/art/202009/626349.htm)
+ > 参考数据管理是对定义的数据值域进行控制，包括对标准化术语、代码值和其他唯一标识符以及每个取值的业务定
  ## [在 React 中进行事件驱动的状态管理「实践」](http://developer.51cto.com/art/202009/626351.htm)
  > 今天，我们将讨论 Context API 的替代方法：Storeon。Storeon 是一个微型的、事件驱动的 React 状态管理库
  ## [用InDesign的开源替代方案Scribus设计书籍封面](http://os.51cto.com/art/202009/626348.htm)
@@ -42,36 +50,36 @@ categories: IT NEWS
  ## [6个在团队中使用Git的最佳实践](http://developer.51cto.com/art/202009/626347.htm)
  > Git 非常有助于小团队管理他们的软件开发进度，但有些方法能让你变得更高效。我发现了许多有助于我的团队的
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端JS注入解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端JS注入解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+ ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
+ > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 # PM 
  ## [产品经理的20个“职业病”](http://www.chanpin100.com/article/112680)
  > 你中了几条？
