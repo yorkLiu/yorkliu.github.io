@@ -1,44 +1,54 @@
 ---
 title: 2020-09-18 IT News
 copyright: true
-date: 2020-09-18 09:01:06
+date: 2020-09-18 10:01:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [绝不姑息!移动、电信一大波领导因“携转”不力被免职、问责!](http://mp.weixin.qq.com/s?src=11&timestamp=1600389005&ver=2589&signature=EQzPBhmpwZ8gf2GmIkZpBxtvSWueCIhGTLj*mPvzVgZ9KNVI0bK2pvVurnW9zn6dZOTC8a30duAluIG968Uiwy3Ast98mffhiBf9cddu4SkJwSnD7ce9Jr928gVwt5m*&new=1)
+ ## [绝不姑息!移动、电信一大波领导因“携转”不力被免职、问责!](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=EQzPBhmpwZ8gf2GmIkZpBxtvSWueCIhGTLj*mPvzVgb*CewD6jA1T3E*54S6A9tg6FEETbApyj03sjNBAtX-qh3kI9lcyKEj4GWA6VjqjNQxcg7DnRr*8oJafKE*ieVX&new=1)
  > 近日，湖北省通信管理局在全省范围内开展了 “携号转网”服务专项整治行动，通过企业间交叉检查、现场考试测评以及下发监管系统工单等形式，从典型案例查处和基层员工工作规范化着手，督促推动企业加强内部考核...
- ## [官宣!董昕辞任，高同庆接任!](http://mp.weixin.qq.com/s?src=11&timestamp=1600389005&ver=2589&signature=sdKwL9jJaTVeB0zlCb41OyXGDju8nHQ8tbShO8G0rkzDdiegOitIARRHIj5w2-74yTL7pxeQCboQzITZZQO4b-blIxEsEGchbTxv6a8b2PfdCJtM13jdzJF-U7o3cU-4&new=1)
- > 中国铁塔董事会宣布，董昕因工作调动，已辞任公司非执行董事、董事会战略委员会以及董事会提名委员会委员职务，自2020年9月14日起生效。董事会就董昕先生任职期间对公司作出的贡献致以衷心感谢。中国铁塔董事会...
- ## [华为太难了!日韩供应商纷纷断供，麒麟9000芯片只有880万颗!](http://mp.weixin.qq.com/s?src=11&timestamp=1600389005&ver=2589&signature=5I7Qz7Rk-9XNvBu292NRoyi0M3m7457ut*dFcGvm8W5l26Debp3G9Ty3vDf3*BF-udLwQugmNe13MNJD9eHW8Liek7B6qJjBSW-HI4l0VhCQF4aVX7fD37iepEV1X1Jy&new=1)
- > 受美国今年5月15日公布的新禁令影响，9月15日之后，台积电、中芯国际等芯片代工厂将被禁止利用美国半导体设备为华为代工芯片。这也意味着华为自研的麒麟处理器开始断供。那么，接下来搭载5nm的麒麟9000的Mate 40...
- ## [登峰者：听这群登上世界之巅的勇士说…](http://mp.weixin.qq.com/s?src=11&timestamp=1600389005&ver=2589&signature=GPPxF3TM7SwcxOyL80K-2Is2UsTQ*kra5zfM7Sxzemy2GqDXWffygo5J3tu*mkC8s0QW64mqHJ7UGyrydTXH1DFuCpsXWh4IF1UU54wTSDXBcZcCFmGKA2Yq6Oizid2u&new=1)
+ ## [登峰者：听这群登上世界之巅的勇士说…](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=GPPxF3TM7SwcxOyL80K-2Is2UsTQ*kra5zfM7SxzemwvD0QNsf0OVmnBiFbxghR56akddZVBdVgVI5N3apTk3FgvcV2sfGJpvuosqQ9YUOiCr*0J7nlm2bvjtQU3WfXH&new=1)
  > 2020年9月23-26日，华为将于上海举办第五届HUAWEI CONNECT，携手来自全球的业界思想领袖、商业精英、技术大咖、先锋企业、生态合作伙伴、应用服务商以及开发者等，共同探讨行业数字化的发展方向，展示ICT领域的...
- ## [|必读|您的主刀医生"智能机器人"已经走进了手术室](http://mp.weixin.qq.com/s?src=11&timestamp=1600389005&ver=2589&signature=sXfq-7CS13xOE1IL7DTB3joFwUOFXTOGhmUxT9wDU3UM*D4C0HoN0QI*NJ0n7uVPr4KaP7cVjuEC-15BHbFq88iKK15ES0Ah*X0TtmF3NgNZw1HrnofKOBp8A1ELdxot&new=1)
+ ## [官宣!董昕辞任，高同庆接任!](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=sdKwL9jJaTVeB0zlCb41OyXGDju8nHQ8tbShO8G0rkwS6IhzfaYj8slkWobpKdZEM0jgz58b1DVdK9ujWTfpLbEYypQ1lRnsYT4cMIkaAAtwJNNKP3bKysBR5LbS-Z31&new=1)
+ > 中国铁塔董事会宣布，董昕因工作调动，已辞任公司非执行董事、董事会战略委员会以及董事会提名委员会委员职务，自2020年9月14日起生效。董事会就董昕先生任职期间对公司作出的贡献致以衷心感谢。中国铁塔董事会...
+ ## [|必读|您的主刀医生"智能机器人"已经走进了手术室](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=sXfq-7CS13xOE1IL7DTB3joFwUOFXTOGhmUxT9wDU3VvbTE4aSXB7idj3lm2-6CXcHpq5yTXYjavj6CwKsEGEC6WKqq0TJrw-iozSpBiYlHvfmPXjkdt-*O01U*wto0q&new=1)
  > 主刀医生&quot;智能机器人&quot;走进手术室，准备开始手术持手术刀的智能机器人做主刀医生给患者手术，可能还有很长的路要走，但科学家们正在研究一种最少人工监控下完成手术的智能机器人。就像想象中的自动驾驶汽车一样，...
- ## [未知大陆正式成为深圳市工业互联网行业协会会员单位](http://mp.weixin.qq.com/s?src=11&timestamp=1600389005&ver=2589&signature=dJWBJQGIzGkjudqW1-r1k1uBdHoOpDVnXFikOCIGjqYaSMZqIfbza48GcmTINZDhjs2wlwpGqJC5e30e-m6Q1of4aWbyhEKNucJ7EKfbz2wSNMQwRAkEkgLhgAaqrEZ-&new=1)
+ ## [\[报告\]2020自动驾驶应用场景与商业化路径(附157页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=71x8AUt6VTSJCtbpGonovzd3dlqqSvaYYKNLtYXtzIDQ6nlhUhsUUJ6AerN-SAGM5wMIxMVUb9-HcvAh7vvdYyMhvKqqXcBO0DVxJi0JtlQ7h0amWv4MYipd7NQKsSyM&new=1)
+ > 自动驾驶是汽车产业与人工智能、高性能计算、大数据、物联网等新一代信息技术以及交通出行、城市管理等多领域深度融合的产物，对降低交通拥堵、事故率，帮助城市构建安全、高效的未来出行结构，对汽车产业变革，...
+ ## [华为太难了!日韩供应商纷纷断供，麒麟9000芯片只有880万颗!](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=5I7Qz7Rk-9XNvBu292NRoyi0M3m7457ut*dFcGvm8W6p7BlZZugWEeg4FUYoBu8IU6-sU4i6ZSA5QKOYGTqGmyPK0nvIAebS6fWSh9MiRSFcac0wy9oP6Z55P0EMUZBM&new=1)
+ > 受美国今年5月15日公布的新禁令影响，9月15日之后，台积电、中芯国际等芯片代工厂将被禁止利用美国半导体设备为华为代工芯片。这也意味着华为自研的麒麟处理器开始断供。那么，接下来搭载5nm的麒麟9000的Mate 40...
+ ## [未知大陆正式成为深圳市工业互联网行业协会会员单位](http://mp.weixin.qq.com/s?src=11&timestamp=1600392605&ver=2589&signature=dJWBJQGIzGkjudqW1-r1k1uBdHoOpDVnXFikOCIGjqY23Z0yz36dAdVtY8DmBkWZYGRmmY1tKxdArhZOZ8dXFtvrDSfWQCI7hIHRXnwVAuW*Gcs6tXzOMwZMJQBOSdG3&new=1)
  > 2020年9月17日，经深圳市工业互联网行业协会审核发证，未知大陆所属深圳市时空探索科技有限公司正式成为其会员单位。未知大陆作为全球领先的数字制造云平台，同时也是准工业互联网平台，正在借助分布式3D打印技...
 # IT 技术 
- ## [顶级实体框架的核心工具与扩展](http://developer.51cto.com/art/202009/626419.htm)
- > 顶级实体框架的核心工具与扩展
- ## [鸿蒙Liteos-a内核移植手册(PDF下载)](http://os.51cto.com/art/202009/626471.htm)
- > 鸿蒙Liteos-a内核移植手册(PDF下载)
  ## [Kubernetes如何为应用程序提供网络和存储？](http://developer.51cto.com/art/202009/626421.htm)
  > Kubernetes如何为应用程序提供网络和存储？
- ## [LXDE vs XFCE：哪个是更好的轻量级桌面环境？](http://os.51cto.com/art/202009/626330.htm)
- > LXDE vs XFCE：哪个是更好的轻量级桌面环境？
- ## [分析深度学习背后的数学思想](http://ai.51cto.com/art/202009/626250.htm)
- > 分析深度学习背后的数学思想
- ## [让老设备脱胎换骨 升级老电脑该从哪里入手：教你一招](http://biz.51cto.com/art/202009/626210.htm)
- > 让老设备脱胎换骨 升级老电脑该从哪里入手：教你一招
- ## [支撑日均百万订单的微服务架构应该这么搞！](http://developer.51cto.com/art/202009/626245.htm)
- > 支撑日均百万订单的微服务架构应该这么搞！
- ## [AD活动目录管理 - 理论与实战](http://fellow.51cto.com/art/202007/622442.htm?qd=51ctojrzd)
- > AD活动目录管理 - 理论与实战
+ ## [一篇读懂Linux 是如何管理内存的](http://news.51cto.com/art/202009/626393.htm)
+ > 一篇读懂Linux 是如何管理内存的
+ ## [顶级实体框架的核心工具与扩展](http://developer.51cto.com/art/202009/626419.htm)
+ > 顶级实体框架的核心工具与扩展
+ ## [物联网网关未来该如何部署？](http://iot.51cto.com/art/202009/626356.htm)
+ > 物联网网关未来该如何部署？
+ ## [智能建筑网络连接： 3个常见误解](http://iot.51cto.com/art/202009/626345.htm)
+ > 智能建筑网络连接： 3个常见误解
+ ## [鸿蒙Liteos-a内核移植手册(PDF下载)](http://os.51cto.com/art/202009/626471.htm)
+ > 鸿蒙Liteos-a内核移植手册(PDF下载)
+ ## [云计算的7个主要好处](http://cloud.51cto.com/art/202009/626405.htm)
+ > 云计算的7个主要好处
+ ## [2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】](http://fellow.51cto.com/art/202007/622446.htm?qd=51ctojrzd)
+ > 2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】
+ ## [未来iPhone可能会采用屏下光线传感器 以减少刘海面积](http://mobile.51cto.com/news-626512.htm)
+ > 苹果正在研究一种环境光传感器，可以嵌入到iPhone显示屏下方，这一发展可以帮助消除刘海或减少刘海面积。目
+ ## [微软停止更新 .NET Standard，.NET 5 取而代之](http://developer.51cto.com/art/202009/626511.htm)
+ > 微软 .NET 官方博客近日发布了一篇谈论 .NET Standard 未来的文章。文章作者是 .NET 项目经理 Immo，他在文
+ ## [CISO可以为企业创造的十大安全价值](http://zhuanlan.51cto.com/art/202009/626506.htm)
+ > 我们整理了各界专家的意见，聚焦CISO领导的网络安全业务能够给企业数字竞争力带来的十大价值。
  ## [如何产出规范、安全、高质量的代码？](http://zhuanlan.51cto.com/art/202009/626501.htm)
  > 这里整理了一些常见的扫描工具和代码质量指标，可以在搭建项目基础设施时引入，用于自动化的检查代码中潜在
  ## [物联网市场格局：工业物联网](http://iot.51cto.com/art/202009/626500.htm)
  > 本报告概述了 IIoT 市场及价值链，重点介绍了推动该行业发展的商业和技术趋势，展示了不同类型的参与者所采
+ ## [Python语言的精华：Itertools库](http://developer.51cto.com/art/202009/626499.htm)
+ > 我们可以使用Itertools模块来丰富我们的应用程序，并在更短的时间内创建一个可靠的工作解决方案。本文将帮
  ## [TikTok收购大戏终落幕？表面字节跳动占上风，实则美国尽获利！](http://news.51cto.com/art/202009/626498.htm)
  > 反转再反转，一波接一波，在美国总统特朗普下达的“TikTok出售限令”最后时刻，这场跌宕起伏扑朔迷离由美国
  ## [你见过最烂的Java代码长什么样子？](http://developer.51cto.com/art/202009/626496.htm)
@@ -47,45 +57,37 @@ categories: IT NEWS
  > 作为开发者，我们需要准备好我们的API，比以往任何时候都要好，以提供可靠而高效的终端，应该能够在海量数
  ## [【进阶】嫌弃Python慢，试试这几个方法？](http://developer.51cto.com/art/202009/626494.htm)
  > 优化的第一要义就是「不要去做」。但如果你必须要做，我希望这些小技巧可以帮助到你。然而，优化代码时一定
- ## [关于职场晋升，这是我的7点具体建议](http://news.51cto.com/art/202009/626489.htm)
- > 大家进入职场都是小白，有的人短短几年就成长为经理、总监甚至副总裁。有的人工作10多年却依然在最基层的岗
- ## [MSVC宣布支持C11和C17标准](http://developer.51cto.com/art/202009/626490.htm)
- > 日前微软VS团队宣布，将在Visual Studio 2019版本16.8预览版3开始，正式支持C11和C17为MSVC编译器。
- ## [运营商们能不能站着把钱挣了？](http://network.51cto.com/art/202009/626487.htm)
- > 今天的运营商在经历了躺着赚钱的&quot;黄金十年&quot;后，在面临传统通信市场饱和，竞争环境走向恶劣的大环境下，也不
- ## [JavaScript交换值的方法，你能想到几种？](http://developer.51cto.com/art/202009/626485.htm)
- > 早期之前，在 JS 中交换值，我们主要还是使用临时变量。ES6 之后，我们可以使用展开运算符号来交换变量，除
 # 人工智能 
- ## [Python爬虫入门教程 90-100 凌晨5点的CSDN自动签到器，用Python爬虫干点闲事](https://blog.csdn.net/hihell/article/details/108583626)
- > Python爬虫入门教程 90-100 凌晨5点的CSDN自动签到器，用Python爬虫干点闲事
- ## [Python爬虫实战（二）：抓取京东苹果手机评价](https://blog.csdn.net/xw1680/article/details/108607049)
- > Python爬虫实战（二）：抓取京东苹果手机评价
- ## [LeetCode Week 6：第 51 ~ 55 题](https://blog.csdn.net/qq_43328040/article/details/108614227)
- > LeetCode Week 6：第 51 ~ 55 题
- ## [【详细】Python基础（一）](https://blog.csdn.net/weixin_46818279/article/details/108576298)
- > 【详细】Python基础（一）
- ## [python 代码运行时间获取方式](https://blog.csdn.net/u011699626/article/details/108591752)
- > python 代码运行时间获取方式
- ## [【练习笔记(第一次)】2020年数学建模国赛C题：数据处理、源代码](https://blog.csdn.net/STL_CC/article/details/108591693)
- > 【练习笔记(第一次)】2020年数学建模国赛C题：数据处理、源代码
- ## [阿里云天池Python训练营（day10打卡）](https://blog.csdn.net/weixin_43509371/article/details/108601118)
- > 阿里云天池Python训练营（day10打卡）
- ## [Python数据分析实战(1)   成都土地市场分析](https://blog.csdn.net/fyfugoyfa/article/details/108368759)
- > Python数据分析实战(1)   成都土地市场分析
- ## [Python贪吃蛇小游戏_完整源码免费分享](https://blog.csdn.net/weixin_44285445/article/details/108599943)
- > Python贪吃蛇小游戏_完整源码免费分享
- ## [python入门python的基本语法](https://blog.csdn.net/weixin_46467862/article/details/108548014)
- > python入门python的基本语法
- ## [付费？是不可能的！处理 PDF 只需几行代码,彻底解放双手！](https://blog.csdn.net/weixin_38037405/article/details/108563583)
- > 付费？是不可能的！处理 PDF 只需几行代码,彻底解放双手！
- ## [机器学习—回归工程（案例：考试是否通过）](https://blog.csdn.net/LiaoNailin/article/details/108619266)
- > 机器学习—回归工程（案例：考试是否通过）
- ## [python可视化（案例）水果分类（香蕉、苹果大战）](https://blog.csdn.net/weixin_43636051/article/details/108631658)
- > python可视化（案例）水果分类（香蕉、苹果大战）
- ## [开启Scrapy爬虫之路](https://blog.csdn.net/qq_35866846/article/details/108624187)
- > 开启Scrapy爬虫之路
- ## [python基础（生产者与消费者模式、threadingLocal）](https://blog.csdn.net/weixin_44781625/article/details/108610754)
- > python基础（生产者与消费者模式、threadingLocal）
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
+ ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
+ > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
+ ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
+ > Istio组件日志设置
 # PM 
  ## [别急着喷，我觉得百度网盘的“用户激励计划”挺好的](http://www.chanpin100.com/article/112716)
  > 百度网盘真是个小机灵鬼
