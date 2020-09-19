@@ -1,19 +1,23 @@
 ---
 title: 2020-09-19 IT News
 copyright: true
-date: 2020-09-19 09:02:39
+date: 2020-09-19 10:01:43
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [RISC-V新架构或于下月亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1600477205&ver=2593&signature=pQM-awB0Nqo6BMOVJIbwLENtBcjnndlwjj91OzS9Q-KzmQ4kV4oOJ58xDb76VyRji4K7qPktEvQQf2mMTs7qqPVHjj0ytOpb2XRxOUMr5d77bxkxq0sCnfS2QKezkKb5&new=1)
- > 随着NVIDIA收购ARM坐实，业界人士开始担心其中立性，另一套更加开放自由的精简指令集架构RISC-V因此获得了更多的曝光机会。据外媒报道，RISC-V架构主要推动者SiFive公司日前宣布聘任Patrick Little担任新CEO，其
- ## [中科院牵头研发光刻机，帮助华为解决芯片制造难题](http://mp.weixin.qq.com/s?src=11&timestamp=1600477205&ver=2593&signature=5Cw1JtA*1JhNoyizXlTHt-6IJh2ePU4FistdkOW17hhUJR2Trsa9FdBhEHTr-aCfWvdoP*q0izZGfVl-W0EP7PJieGnM9ZeVp6QEdpxQmhasUI*UVBFXo3CJFOU8JzeS&new=1)
+ ## [中科院牵头研发光刻机，帮助华为解决芯片制造难题](http://mp.weixin.qq.com/s?src=11&timestamp=1600480805&ver=2593&signature=5Cw1JtA*1JhNoyizXlTHt-6IJh2ePU4FistdkOW17hiFAPwof76qskvSCethIEj-khfAyqu0y9kauDCFFEOQkOcMpHcNDcYchDEna-Io9exGaI6ZUWi5uODTqC5OlfA2&new=1)
  > 近日中科院院长白春礼在国新办发布会上将集中力量、集中优势聚焦国家最关注的重大科技技术，其中就包括了近期由于华为面临的问题而广受关注的光刻机，这意味着国家队将出手帮助包括华为在内的国内芯片行业解决芯...
- ## [AMD已取得向华为供货的许可?别高兴的太早](http://mp.weixin.qq.com/s?src=11&timestamp=1600477205&ver=2593&signature=blImbiM6*3bxkffLomoMDskxbCFj2h6VcyPSUzVsgZEk4DlQIii4EMOXPaUW29VnnEInQ8PNeY3-OrPw0n2taM7ZDBGCfhMPMyFYMgnZYAptvELZt72unmBsIYYx7Wqj&new=1)
+ ## [AMD已取得向华为供货的许可?别高兴的太早](http://mp.weixin.qq.com/s?src=11&timestamp=1600480805&ver=2593&signature=blImbiM6*3bxkffLomoMDskxbCFj2h6VcyPSUzVsgZHurakTS*jbFsXcn52RCPNxgXQ2RWOt858KjhYXYZe4Ujed6qTxKXwV6lFZLA2aGmXppVxPXG0*5htdy06XlhcJ&new=1)
  > 受美国禁令影响，9月15日，除了此前本就无法向华为供货的部分美国芯片厂商之外，美光等此前曾获得美国政府发放的出口许可的厂商，也停止了对华为的供货。此外，包括联发科、三星电子、三星Display、LG Display、...
- ## [突发!美商务部宣布封禁微信、TikTok：周日零点开始全美下架，禁止交易支付](http://mp.weixin.qq.com/s?src=11&timestamp=1600477205&ver=2593&signature=ZmqttIudNOT2ybqhAj3awUwrjgZOricwRm9XEhJ1UFS8jIYH-zEVeZ6-7O9IKAk46F4FaJewXCWUpERYvDSNtPentXObpiqlHt-fV8mhH6FLBmM5kCFg37t9cA-44nmp&new=1)
+ ## [美商务部9月20日起执行微信和TikTok禁令；波士顿动力将公布物流机器人；58同城完成私有化合并|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1600480805&ver=2593&signature=-36N*XLnDOFTPsovPMThshHgmo69c3Ovja6u2XHspRZMsH2hh5*6GgrbL85EENJUsRO2Qyg8Aj0-l7axefZiyFJZZ9jjAgs13yVX8-HA60ffgWIenH2JsBlt0C85J8oh&new=1)
+ > 图 / UnsplashHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【美国商务部：9月20日起将执行微信和TikTok的禁令】美国商务部周五发表声明说，从9月20日开始，美国公司将被禁止与微信和TikTok进...
+ ## [\[报告\]2020中国新能源汽车供应链白皮书(附59页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1600480805&ver=2593&signature=b9eUHUnuVjNthdp2sxjI0NWOdxTlv45rweNAmoqWgUvkvjq7ItfY4SjqGyuKMiQikqLpnjvfHNDhaGdaKQQEVaboKcH1EyhvsCZ-9xy2MVLEepDwytsXutfZUpDH5KEg&new=1)
+ > 近日，罗兰贝格发布《中国新能源汽车供应链白皮书 2020》以迎接全球新能源汽车供应链变革。在全球整体车市低迷的大背景下，新能源汽车销量表现抢眼，未来也将会是全球汽车销售的中坚力量。本次报告详细介绍了新...
+ ## [突发!美商务部宣布封禁微信、TikTok：周日零点开始全美下架，禁止交易支付](http://mp.weixin.qq.com/s?src=11&timestamp=1600480805&ver=2593&signature=ZmqttIudNOT2ybqhAj3awUwrjgZOricwRm9XEhJ1UFTQHW63u6qUfabAbNKrVv3Z5QsrA1KK*bybv0PbEVx3u0yCT8cvTE088y0X2Q2s5JZeO0J3utUKqp4v1iUeNyA2&new=1)
  > 机器之心报道机器之心编辑部对于 TikTok 和微信来说，这是一个困难的时刻。9 月 19 日，抖音海外版 TikTok 在美国仍然正常运行，距美国总统特朗普「9 月 15 日不出售就关门」的时限已过去三天。但在国内周五的晚...
+ ## [RISC-V新架构或于下月亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1600480805&ver=2593&signature=pQM-awB0Nqo6BMOVJIbwLENtBcjnndlwjj91OzS9Q-IZ8XYd1Mm9LJSEVwORcuzxaZ2HBq5V1Y0Ab5tigpYPSp5SSWjcDfAaqy*SlBtFEnoj*v8cWlevufaUDYBYtF58&new=1)
+ > 随着NVIDIA收购ARM坐实，业界人士开始担心其中立性，另一套更加开放自由的精简指令集架构RISC-V因此获得了更多的曝光机会。据外媒报道，RISC-V架构主要推动者SiFive公司日前宣布聘任Patrick Little担任新CEO，其
 # IT 技术 
  ## [Kubernetes如何为应用程序提供网络和存储？](http://developer.51cto.com/art/202009/626421.htm)
  > Kubernetes如何为应用程序提供网络和存储？
@@ -29,38 +33,40 @@ categories: IT NEWS
  > 鸿蒙Liteos-a内核移植手册(PDF下载)
  ## [云计算的7个主要好处](http://cloud.51cto.com/art/202009/626405.htm)
  > 云计算的7个主要好处
- ## [MaxScale读写分离项目实施与维护_MySQL高可用复制与分布式集群架构08](http://fellow.51cto.com/art/202008/623596.htm?qd=51ctojrzd)
- > MaxScale读写分离项目实施与维护_MySQL高可用复制与分布式集群架构08
+ ## [MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03](http://fellow.51cto.com/art/202008/623591.htm?qd=51ctojrzd)
+ > MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03
+ ## [突发！美国商务部下令 20 日起禁止下载 TikTok 和微信，TikTok 反对：将推进诉讼](http://news.51cto.com/art/202009/626604.htm)
+ > 美国商务部（U.S. Commerce Department）发布声明称，为回应特朗普总统 2020 年 8 月 6 日签署的行政命令、
 # 人工智能 
- ## [网络监控——时间戳](https://blog.csdn.net/HongkeTraining/article/details/108636418)
- > 网络监控——时间戳
- ## [5G和WiFi6的故事](https://blog.csdn.net/qq_40893595/article/details/108569749)
- > 5G和WiFi6的故事
- ## [6G无线系统的应用,趋势,技术以及开放性研究](https://blog.csdn.net/weixin_45187794/article/details/108610914)
- > 6G无线系统的应用,趋势,技术以及开放性研究
- ## [初识5G](https://blog.csdn.net/llh1654356858/article/details/108607477)
- > 初识5G
- ## [2020年苹果秋季发布会：5nm A14芯片首发](https://blog.csdn.net/weixin_48140874/article/details/108627226)
- > 2020年苹果秋季发布会：5nm A14芯片首发
- ## [SFU架构的云视频会议系统如何取代硬件视频会议系统，成为5G时代的视频会议新宠？](https://blog.csdn.net/TsingSee/article/details/108616570)
- > SFU架构的云视频会议系统如何取代硬件视频会议系统，成为5G时代的视频会议新宠？
- ## [华为布局，分布式存储有何魅力？看okex上的项目就知道了](https://blog.csdn.net/eostalk8181/article/details/108625876)
- > 华为布局，分布式存储有何魅力？看okex上的项目就知道了
- ## [面对工业互联网冲击，榆林管道产业管掌柜将用途广泛的柔性铸铁管、球墨铸铁管、双壁波纹管结合](https://blog.csdn.net/guanzhanggui/article/details/108627067)
- > 面对工业互联网冲击，榆林管道产业管掌柜将用途广泛的柔性铸铁管、球墨铸铁管、双壁波纹管结合
- ## [NB-IoT 爆发期，EMQ 助力企业开启亿级物联网连接时代](https://blog.csdn.net/emqx_broker/article/details/108614922)
- > NB-IoT 爆发期，EMQ 助力企业开启亿级物联网连接时代
- ## [用5G“点亮”智慧灯杆！FCU2302赋予智慧城市更多可能](https://blog.csdn.net/rideonthewind/article/details/108624567)
- > 用5G“点亮”智慧灯杆！FCU2302赋予智慧城市更多可能
- ## [编程教育会是世界各国下一场科技竞争](https://blog.csdn.net/gstemG_maker/article/details/108620163)
- > 编程教育会是世界各国下一场科技竞争
- ## [ipad air4参数配置](https://blog.csdn.net/m0_50266919/article/details/108638101)
- > ipad air4参数配置
- ## [关于教育类app开发，未来该如何发展？](https://blog.csdn.net/wanyuekeji123/article/details/108627548)
- > 关于教育类app开发，未来该如何发展？
- ## [NB-IoT知识点总结--初识物联网](https://blog.csdn.net/qq_20677327/article/details/108628015)
- > NB-IoT知识点总结--初识物联网
- ## [直播风口，是什么在支撑教育、电商、泛娱乐等场景？](https://blog.csdn.net/tx_videocloud/article/details/108637519)
- > 直播风口，是什么在支撑教育、电商、泛娱乐等场景？
+ ## [PHP安装配置(Windows和Linux)-一篇就够了](https://blog.csdn.net/qq_45034708/article/details/108542598)
+ > PHP安装配置(Windows和Linux)-一篇就够了
+ ## [小黑日记-Linux下设置定时删除容器镜像执行脚本](https://blog.csdn.net/qq_29426863/article/details/108644834)
+ > 小黑日记-Linux下设置定时删除容器镜像执行脚本
+ ## [Linux的归档与压缩](https://blog.csdn.net/weixin_46791581/article/details/108621125)
+ > Linux的归档与压缩
+ ## [使用Jenkins来构建SVN+Maven项目](https://blog.csdn.net/weixin_40990818/article/details/108631121)
+ > 使用Jenkins来构建SVN+Maven项目
+ ## [Linux的基础服务-------web服务，虚拟web主机（理论+实践+命令）](https://blog.csdn.net/ring__wang/article/details/108614691)
+ > Linux的基础服务-------web服务，虚拟web主机（理论+实践+命令）
+ ## [Linux - 通过 autojump 命令减少 cd 命令的使用](https://blog.csdn.net/qq_15071263/article/details/108626595)
+ > Linux - 通过 autojump 命令减少 cd 命令的使用
+ ## [华为 PPPoE](https://blog.csdn.net/HYD696/article/details/108597931)
+ > 华为 PPPoE
+ ## [手把手教学电信天翼校园接入无线路由器（通用版）](https://blog.csdn.net/cbcrzcbc/article/details/108612445)
+ > 手把手教学电信天翼校园接入无线路由器（通用版）
+ ## [Linux基础环境搭建（CentOS7）-虚拟机准备](https://blog.csdn.net/weixin_47580081/article/details/108643351)
+ > Linux基础环境搭建（CentOS7）-虚拟机准备
+ ## [ubuntu20.04+GAMIT10.71安装](https://blog.csdn.net/lomefeit/article/details/108637740)
+ > ubuntu20.04+GAMIT10.71安装
+ ## [Nginx安装配置(Window和Linux)-包教包会](https://blog.csdn.net/qq_45034708/article/details/108518129)
+ > Nginx安装配置(Window和Linux)-包教包会
+ ## [运维面试题（每日一题）](https://blog.csdn.net/qq_39578545/article/details/108532249)
+ > 运维面试题（每日一题）
+ ## [linux-day02](https://blog.csdn.net/qq_37933018/article/details/108615179)
+ > linux-day02
+ ## [Git安装 Git最新版 2.28.0 版本详细安装步骤](https://blog.csdn.net/qq_31884737/article/details/108632492)
+ > Git安装 Git最新版 2.28.0 版本详细安装步骤
+ ## [用rancher创建k8s时，docker报错Cannot connect to the Docker daemon at unix:///var/run/docker.sock等一系列踩坑过程](https://blog.csdn.net/as4589sd/article/details/108649200)
+ > 用rancher创建k8s时，docker报错Cannot connect to the Docker daemon at unix:///var/run/docker.sock等一系列踩坑过程
 
     
