@@ -1,24 +1,34 @@
 ---
 title: 2020-09-23 IT News
 copyright: true
-date: 2020-09-23 10:02:10
+date: 2020-09-23 12:01:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2.5 亿!华为突然成立新公司](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=9eCG92FV1bFt7Vp15zqV9g-Y7EQmz7l2V2Rz3iFZ*1vKpGg*f5fhnvKJl-KdhwERzwrIJnxFSiDZHhFuhx6NoNh3uK3t5aXO27Y6ygBRbdJJ72kfDK6tiz6GEj7iGbgc&new=1)
- > 根据企查查的查询显示，华为电动技术有限公司已经正式成立，注册资本 2.5 亿人民币，法定代表人为王军，由华为技术有限公司100%持股。其经营范围包括工程和技术研究和试验发展；智能车载设备销售；智能车载设备...
- ## [腾讯来了!长三角首个!100亿!苏州这三个重磅利好太牛!](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=bCFhDapct4sJeEQEc45Jn6bI0DuuSIABINGAbcXBuTB3drk8SU5OqODo*aC6zARlsCBeL2U0aMLSNonsDBUVqUmLgeW-0gwCTgwhauL5AI7N8HrHKnAofZ-Zy0Wgmy10&new=1)
- > 这两苏州的好消息一个接着一个！都是王炸！苏州高新区-深圳产业金融协同发展合作会在深举行46个总投资额达509亿元重点项目签约中国移动云智融合峰会在苏州高新区成功举办！全国首个工业互联网安全研究院落户园区...
- ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=Fbc2oUzroiqQ1yL-40eN-V0b4btaFciF4UVs3*n3fP*30Yd35H03XDFvbwJdXxdxFFD7htQgTHXSDJJcx7PQH2akzyJqP91lBKDUlcO5OQXB1iOTaOh9eHeePiRcbQMC&new=1)
- > 一最近这几年，网易养猪了，阿里养猪了，京东养完猪又去种菜了，大家听得耳朵都要起茧了！但是，今天华为要干的这件事，估计很多人打死都想不到：华为要种地！是的，你没看错，就是种地！不过，华为要干的，不是...
- ## [IFOC 2020|光为总工程师许广俊：TDP性能实现未来更低成本 彩光模块已大量商用实践](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=62FJ0bPEcLrfMhyeRWUeR*fIt69fWdoDtUBnCAZLiJW*6GdIMC9zL*8s4Tk8QCxMbL3eJgDx45huiTcjGjUTDHE2CODqIFFKNiTZUQLgSsG38hRke4gZTlg0NqvnQNKW&new=1)
+ ## [飞书启动服务商伙伴招募](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=sKPGj1muAW2GWheBHR*YceW7-yNqBD9KF5kiNpva64zBltj4rxe61ew0Q23UGdDM1Ej0C*l42wZcGZVKXt0S5bydu2xKMwjBpW3sD2y-zvW*7cTpn6nAhWrKcLmzG0ad&new=1)
+ > 2020年3月，各家互联网厂商开启了协同办公平台免费策略。互联网平台的协同产品在短时间内快速占领了中小微企业市场，通过规模效应很快极大地提升了企业服务的经验，通过经验的积累，又实现了产品的快速迭代升级...
+ ## [华为澳大利亚大动作，终止4.9亿投资；iPhone 12 或10月13日发布；Swift正式登陆Win 10|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=tx69DKYeIixILfhVBhFHQwx-*A0wDkTvMMMtskduwP4HdXRb0ezbAWS8JnLra85wvDpL3KEwm4ZvQAJI8Q0Uo7LRdun3mCowPrS7AxI5hcib16v6fVv-v*stckbc*XWU&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
+ ## [特斯拉发新电池，车价或降到 17 万；新 iPhone 或 10 月 13 日发布；中国新冠疫苗证实有效|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=-C2PE0Ob7xE7NFqRE9sYiP7-xPPLnzLHF8IAHi4dpS-iIGsQDuLRF42zY5zOnmB-*JlEA1euJv04*F8LzWV6T0UyQE5POvi4rsgIdoLjMt2LIG2xml9GfwU96CYWnrzt&new=1)
+ > 特斯拉发布新电池「4680」，容量提升 5 倍，成本降低 14%9 月 23 日讯，特斯拉在电池日活动上发布了新电池，命名为「4680」。新电池体积更大，能量是特斯拉之前电池的 6 倍，蓄电容量是原来的 5 倍，续航里程提...
+ ## [IFOC 2020|光为总工程师许广俊：TDP性能实现未来更低成本 彩光模块已大量商用实践](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=62FJ0bPEcLrfMhyeRWUeR*fIt69fWdoDtUBnCAZLiJUqP292gtA5rXMgqRQLHeaAPwjVfjaXBnqGXWCvI*qGOlwmancrMmD3l9UMY8FGKNlxtVxdLVDWohhaQMu4qICc&new=1)
  > 新闻导读9月8日，深圳光为光通信总工程师许广俊在第19届讯石研讨会上作主题演讲《5G前传光模块方案的色散代价探讨》，其呼吁：目前的仿真和测试还在初步阶段，期望能和更多的产业链同仁，探讨并进行更深入的仿真...
- ## [\[科技早报7点整\]国家邮政局称只有40%的快递能进入村里 华为已终止1亿澳元研发投资……](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=5uHI1ZU5RYuZkx1sPALKwozvbrcSDeIpJDAi5PqjTwWysakTb2*qGSa89ppKtdkrqe6HzKOgtLiKE1Kg9XKFcbWGJP7tzJayNOwzRMlGJbonpWDB4eZhcHIcsDpOG8Vj&new=1)
+ ## [云岩区扎实推进“万企融合”行动](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=btwSDWzadH6tJ4fPhyi9R5YEWtH2bEHhqzyYHsEtGlx-K-8VcwDlIR1uwqQHtfV2CRAhNturyUymX-L2KPDxSico1ugN9pOsz5bv-dbrQbA=&new=1)
+ > 本报讯 9月21日，记者从云岩区大数据发展局了解到，近年来，云岩区紧紧围绕“一品一业、百业富贵”发展愿景，扎实推进“万企融合”行动，大数据与实体经济深度融合评估水平在全省位居前列。 　　在工业数字...
+ ## [这是真的吗?揭秘全国网络安宣传周特别节目——利用蓝牙漏洞入侵手机](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=nTGqvLpOX1KCm6hh9bAUdbWPi8VpGXkjgZl6uy3EbV3MkSCH*slOntNaWj0wotcu99fPiwq4patx27f7tN1-*DXz07Rdg9LkKRUPNc3B7nEaOQ7m9b9tPe1e-aru0msw&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全9月23日讯 上周，2020年国家网络安全宣传周特别节目“网络安全 e同守护”在河南广播电视台1500平米演播厅拉开帷幕。在节目现场，安恒信息海特实验室在...
+ ## [2.5 亿!华为突然成立新公司](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=9eCG92FV1bFt7Vp15zqV9g-Y7EQmz7l2V2Rz3iFZ*1uXY7oS9-H*D1LNcTL17UZTa1ZB8m6FkUFspS6g0q2G6naECRz7tZRMEtisERGA5Yuzk*JMTqHGEEaj9ONxwx94&new=1)
+ > 根据企查查的查询显示，华为电动技术有限公司已经正式成立，注册资本 2.5 亿人民币，法定代表人为王军，由华为技术有限公司100%持股。其经营范围包括工程和技术研究和试验发展；智能车载设备销售；智能车载设备...
+ ## [腾讯来了!长三角首个!100亿!苏州这三个重磅利好太牛!](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=bCFhDapct4sJeEQEc45Jn6bI0DuuSIABINGAbcXBuTDA1RQWyC7HizvAnVzCVXSXmXI4*qqfJe-Jqe*5jaPHqNmnB9LMqjoSiWhvHieX63tOe3UBbMTLQfJWEXqjX36t&new=1)
+ > 这两苏州的好消息一个接着一个！都是王炸！苏州高新区-深圳产业金融协同发展合作会在深举行46个总投资额达509亿元重点项目签约中国移动云智融合峰会在苏州高新区成功举办！全国首个工业互联网安全研究院落户园区...
+ ## [对不起、我要辞职了!华为突然传来大消息!](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=Fbc2oUzroiqQ1yL-40eN-V0b4btaFciF4UVs3*n3fP9Wn17MnKhkTrfcIcyklUQVhbrl5sPcHhHn2d6iqnxu0xQmpMFcQg0fp8MBzva9EokGVSFQcXWRVowv4E9qx-Ss&new=1)
+ > 一最近这几年，网易养猪了，阿里养猪了，京东养完猪又去种菜了，大家听得耳朵都要起茧了！但是，今天华为要干的这件事，估计很多人打死都想不到：华为要种地！是的，你没看错，就是种地！不过，华为要干的，不是...
+ ## [\[科技早报7点整\]国家邮政局称只有40%的快递能进入村里 华为已终止1亿澳元研发投资……](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=5uHI1ZU5RYuZkx1sPALKwozvbrcSDeIpJDAi5PqjTwUvWjhar2u5B*Ix1OAkw*FhZ2b2LgVXge9MtR7Z4dryuBrGP0pr7Pj4eAumj2QBbMIbFmOkutEZSUKyFuJeNtcv&new=1)
  > 早上好，科技圈【一度蜜科技早报】第931期1.国家邮政局：只有40%的快递能进入村里国家邮政局局长马军胜称，中国快递取得的成就，有97.6%是乡镇层面的，只有40%左右的快递能够真正进入村里，其余都需要去乡里自取...
- ## [Qualcomm推出全新骁龙750G 5G移动平台](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=9Ewo3LBPSOcfckDJfq9HMB8THpckq*dMEEmhZVRFE4z5AyxcFb4MBxN-u2E3O0S3g2s5sl0NaI*-VO3G0ZvrY3Oo9H7yYtwbd-OVHJmvoa-0oHfDfMi5MIo6lXOMQUj1&new=1)
+ ## [Qualcomm推出全新骁龙750G 5G移动平台](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=9Ewo3LBPSOcfckDJfq9HMB8THpckq*dMEEmhZVRFE4zZQGw3MOXGpY*LrOHbQDyXrPxaLeEc8tJRz8XRD36lOpJUVD*s2mcxO0ryexiEInL53Xou1WxFN6*AgAZIcueT&new=1)
  > Qualcomm要闻—骁龙750G提供真正面向全球市场的5G能力和出色的HDR游戏体验Qualcomm宣布推出骁龙7系最新5G移动平台——Qualcomm骁龙750G 5G移动平台，旨在提供真正面向全球市场的5G能力、出色的HDR游戏体验以
- ## [自主安全可控的国产工控生态圈!加速!](http://mp.weixin.qq.com/s?src=11&timestamp=1600826405&ver=2601&signature=9NCBS-zR9U*OeRxHjw*oqSVbasAacwmtrtolowZdGG7LxABWNKk*Y7OzrKSjO9C0C7-jN6LyYvNcg*WG*pdkmb9Mrg7XViyN8d8-cID38mfFhSpzrAjd-w4It7bIILgw&new=1)
+ ## [自主安全可控的国产工控生态圈!加速!](http://mp.weixin.qq.com/s?src=11&timestamp=1600831804&ver=2601&signature=9NCBS-zR9U*OeRxHjw*oqSVbasAacwmtrtolowZdGG6FOxjxj7Pumfv1WIRnk8QDkjlL9ZHYgsHIQDHi-4d7piP6Atk8m1burPiTum00KUIBNGZ-IXs6Jmh9z8zod2rg&new=1)
  > 工业自动化监控系统一旦遭受攻击，可能导致断电、断水、断气、网络瘫痪、交通堵塞等，将对经济社会发展带来严重影响，甚至还会引发火灾、爆炸等威胁广大人民群众生命财产安全的重大安全事件。 文/ 亚控科技产品...
 # IT 技术 
  ## [一次代码评审，差点过不了试用期！](http://news.51cto.com/art/202009/626941.htm)
@@ -35,59 +45,28 @@ categories: IT NEWS
  > Kubernetes 3年生产中我们所学到的东西
  ## [这款人像生成AI，可以让简笔草图“一秒”生成真实人脸](http://news.51cto.com/art/202009/626801.htm)
  > 这款人像生成AI，可以让简笔草图“一秒”生成真实人脸
- ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
- > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
- ## [聊聊分布式下的WebSocket解决方案](http://developer.51cto.com/art/202009/626946.htm)
- > 最近自己搭建了个项目，项目本身很简单，但是里面有使用WebSocket进行消息提醒的功能，大体情况是这样的。
- ## [2021年十大数字转型趋势](http://www.cioage.com/art/202009/626943.htm)
+ ## [MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05](http://fellow.51cto.com/art/202008/622837.htm?qd=51ctojrzd)
+ > MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05
+ ## [利用AI，美国运通信用卡欺诈率直降50%](http://ai.51cto.com/art/202009/626982.htm)
+ > 在网络犯罪分子眼中，信用卡企业无疑是最重要的攻击目标之一。数以万亿计的美元流经他们的系统，想想就令人
+ ## [5G和移动边缘计算改变你生活的10种方式](http://network.51cto.com/art/202009/626979.htm)
+ > 移动边缘计算（MEC）也被称为多访问边缘计算，它使数据更接近最终用户和创建数据的设备。
+ ## [人类工作受到威胁？如何在这个时代脱颖而出，这点很重要](http://ai.51cto.com/art/202009/626972.htm)
+ > “数据奴隶”现象成就了一批AI时代的新贵，也让本来就强大的企业更强大，弱小者更弱小，一种“量子鸿沟”式
+ ## [企业的备用发电机是否面临故障的风险?](http://server.51cto.com/Datacenter-626969.htm)
+ > 以数据为中心的现代社会如今非常依赖全天候可用的数据中心。如果出现电源故障，则需要立即提供备用电源以保
+ ## [人工智能的研究热点:自然语言处理](http://ai.51cto.com/art/202009/626970.htm)
+ > 人工智能(Artificial Intelligence，简称AI)作为新一轮科技革命和产业变革的重要驱动力量，正在深刻地影响
+ ## [如何通过SASE将SD-WAN与安全性结合起来](http://cloud.51cto.com/art/202009/626963.htm)
+ > 安全访问服务边缘(SASE)是一种模型，可以用于简化网络访问，提高安全性，提高网络性能，并减少IT人员采用供
+ ## [2021年十大数字转型趋势](http://news.51cto.com/art/202009/626962.htm)
  > 没有人能预测到2020年会带我们走到哪里: 仅过去6个月就产生了比过去10年更多的数字化转型，每一次正在进行
- ## [华为：5“机”协同，共创行业新价值](http://network.51cto.com/art/202009/626938.htm)
- > 2020年，随着5G在全球完成规模部署，联接、云、AI、计算和行业应用这五种技术、五大机会史无前例地汇聚到一
- ## [30个编程小技巧，提高代码性能](http://developer.51cto.com/art/202009/626933.htm)
- > 以下是在日常工作中总结出的一些编码经验，还有一些提高程序运行效率的小技巧，让我们一起来写出更好的代码
- ## [教你学会网易云JS逆向，爬来的歌打包发给女友邮箱可好？](http://developer.51cto.com/art/202009/626939.htm)
- > 就和标题一样，这次打算解析一下 网易云 请求的参数，然后把爬来的歌曲编写到前端html代码里面，最后用代码
- ## [假如手机厂商都说真话：iPhone篇](http://mobile.51cto.com/news-626928.htm)
- > 众所周知手机厂商最爱干的事情是什么?毫无疑问，肯定是不说实话。要是说实话了，谁会去买手机呢?能忽悠则忽
- ## [SpringBoot 项目接入 Redis 集群](http://developer.51cto.com/art/202009/626914.htm)
- > Hello 大家好，我是鸭血粉丝，Redis 想必大家一定不会陌生，平常工作中或多或少都会用到，不管是用来存储登
- ## [谁赢？美国的限售禁令与中国的实体清单](http://news.51cto.com/art/202009/626913.htm)
- > 针对华为、抖音海外版TikTok以及微信的禁令，成为了中美之间科技大事件，而这事件百转千回，多次延期、反转
- ## [你没有看错，爬网页数据，C 也可以像 Jquery 那样](http://developer.51cto.com/art/202009/626912.htm)
- > 这篇主要讨论如何去抓取，在 C 中大家都知道抓取通用的库是 HtmlAgilityPack，但是这个库主流的做法是采用
- ## [10个简历小技巧，成为面试战神](http://news.51cto.com/art/202009/626911.htm)
- > 最近公司秋招，我写了一篇秋招文章，吸引了不少跃跃欲试的小伙伴，看着邮箱里形形色色的简历，不禁感慨，果
-# 人工智能 
- ## [PXE无人值守安装（自动安装！）](https://blog.csdn.net/weixin_46791581/article/details/108705555)
- > PXE无人值守安装（自动安装！）
- ## [LVS负载均衡群集部署——详细步骤](https://blog.csdn.net/CN_LiTianpeng/article/details/108715941)
- > LVS负载均衡群集部署——详细步骤
- ## [Ubuntu 基本常识与基本操作（root账号，网络等）](https://blog.csdn.net/junzhu_beautifulpig/article/details/108694284)
- > Ubuntu 基本常识与基本操作（root账号，网络等）
- ## [用Mac给树莓派3 B+安装Ubuntu MATE](https://blog.csdn.net/qq_35952816/article/details/108696498)
- > 用Mac给树莓派3 B+安装Ubuntu MATE
- ## [Linux防火墙详解](https://blog.csdn.net/w918589859/article/details/108696103)
- > Linux防火墙详解
- ## [Linux nohup命令和后台运行符&的使用](https://blog.csdn.net/Jcggnice/article/details/108686871)
- > Linux nohup命令和后台运行符&amp;的使用
- ## [linux学习笔记\[华电\]（1）——Shell命令](https://blog.csdn.net/weixin_41650348/article/details/108535467)
- > linux学习笔记\[华电\]（1）——Shell命令
- ## [CentOS7-8、CentOS8.2、阿里云服务器，无GUI图形化界面，CentOS使用RPM方式安装Oracle 19c](https://blog.csdn.net/qq_41435602/article/details/108692973)
- > CentOS7-8、CentOS8.2、阿里云服务器，无GUI图形化界面，CentOS使用RPM方式安装Oracle 19c
- ## [69图详细记录Ubuntu20.04安装过程及简单配置](https://blog.csdn.net/Fighting_Boom/article/details/108694199)
- > 
- ## [VMware安装Centos7过程（图文）](https://blog.csdn.net/weixin_45609519/article/details/108696766)
- > VMware安装Centos7过程（图文）
- ## [ Centos 7 yum 源搭建 LAMP 环境并部署WordPress博客系统](https://blog.csdn.net/qq_45631844/article/details/108699898)
- >  Centos 7 yum 源搭建 LAMP 环境并部署WordPress博客系统
- ## [配置Anside和模块的使用](https://blog.csdn.net/ljj_0122/article/details/108717722)
- > 配置Anside和模块的使用
- ## [排障集锦：九九八十一难之第十七难！-------------Docker容器docker run -d后台启动不了的问题](https://blog.csdn.net/weixin_47219935/article/details/108689852)
- > 排障集锦：九九八十一难之第十七难！-------------Docker容器docker run -d后台启动不了的问题
- ## [搭建WEB网站服务(一)](https://blog.csdn.net/Chengsen2002/article/details/108717162)
- > 搭建WEB网站服务(一)
- ## [小韩写Shell -- 分析web日志解决DOS攻击案例](https://blog.csdn.net/yeyslspi59/article/details/108712732)
- > 小韩写Shell -- 分析web日志解决DOS攻击案例
+ ## [想练习SQL又没有环境？这几个可以在线练习SQL的网站满足你](http://database.51cto.com/art/202009/626961.htm)
+ > 如果你想练习SQL，恰巧你的电脑没有SQL环境，那么下面几个在线练习SQL的网站肯定能满足你的需求。
+ ## [如何确保人工智能和机器学习项目的安全性](http://ai.51cto.com/art/202009/626956.htm)
+ > 人工智能和机器学习在带来好处的同时也带来了新的漏洞。本文叙述了几家公司将风险降至很低的方法。
+ ## [调参侠看过来！两个提高深度学习训练效率的绝技](http://ai.51cto.com/art/202009/626958.htm)
+ > 本文分享了通过GPU利用率和分布式训练Horovod框架来提升深度学习训练。
 # PM 
  ## [深耕细作Or产品矩阵——成熟期篇](http://www.chanpin100.com/article/112748)
  > 上一篇介绍了成长期，主要围绕两部分内容叙述，一个是产品核心用户的取舍，一个是来自同行......
