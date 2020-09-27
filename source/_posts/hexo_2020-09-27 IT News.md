@@ -1,39 +1,51 @@
 ---
 title: 2020-09-27 IT News
 copyright: true
-date: 2020-09-27 12:01:36
+date: 2020-09-27 17:02:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [汇总：15个微米纳米级3D打印技术](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=9bi5EMCXMh3uc9jlDYVUGwX*nssV4dv0LdhTy8QwzWMrgx-eNHacBTEX2AiplW9vcST0fIQNbGyjvduJNcjIyjzLh5-xDSECNl-KJme8pQW2PWALFkN4wxfmsZaOixhu&new=1)
- > 南极熊导读：下面分享15个微米纳米级3D打印技术汇总。无论是桌面级还是工业级，常见的3D打印机工作原理都是分层制造，这使得层与层之间的精度很受限，存在所谓的“台阶效应”。这使得3D打印机难以制造高精度的器...
- ## [欢迎参加全国高校大数据人工智能专业建设研讨会!](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=mltCV5cYNQ8Om913mY0PRhovy2I5yZSz3pfOW*ZVLcrVvUjKdRy08LKXtCeQDZpKXcnzdVMPw2XTp5Ttd7l*sk2qyL2mtZzCqYFqH5PpVIMulCWuQgXI4jsSa2Hl5oMY&new=1)
- > 据教育部公示，迄今已有668所高校成功申报“数据科学与大数据技术”专业，1355所职业院校成功申报“大数据技术与应用专业”，同时共有180所高校成功申报人工智能专业，申报人工智能技术服务专业的高职院校达到17...
- ## [中芯国际回应被美国列入「黑名单」；中国首枚芯片邮票问世；苹果开源 Swift System|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=skmIWWosZ6ugq8CDUpVkF*I0vRVbcjGdZRl05oFO6Jz7xyCK8tVaPKnBYPN1G46yj8zIdAQ4vMk7Lbr3JXMaIFCe7GOWRfFX2jIkwB3cYlA3LeaYF1AisFsRuktDQYrc&new=1)
+ ## [携Science封面、NIPS最佳论文，CMU大神Noam博士毕业，论文已公开](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=diR5q22vMtqxn1OVCzBpJd5*xkVxtTlpMZD-mDlgnV98kwPON7IHO3m3TFIPOu--2u7uNFAtvmFEUG*OkxYUX3KHawO6Fi82fbuGzQAb2o5e80xeTeUYfd0*FMrFSApe&new=1)
+ > 机器之心报道作者：杜伟还记得在双人无限扑克和多人无限扑克中战胜人类顶级玩家的游戏 AI 系统冷扑大师（Libratus）和 Pluribus 吗？近日，这两个 AI 系统的开发者之一、CMU 大神宣布其完成博士论文，并即将从 C...
+ ## [全场景智慧商圈：城市商业的AR“头号玩家”](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=AhRAcej3tt66NR-Tgp1aH*l6sznx3yYEVLJ8EmuMTmt3TcSUy3GIK5f18j0Btf3PWkpeQbOvQ2GnYACMFx3xuXc6tayHOx2kGmxVuDwCINsYu02Dq-yqCkY3rpWIjgOJ&new=1)
+ > 全场景智慧商圈具备“全流程”、“全场景”、“进化快”三大特征。作 者 丨 宿艺编 辑 丨 子淇2018年著名导演斯皮尔伯格再次拍出了一部火爆全球的电影《头号玩家》（Ready Player One），故事场景发生在2045年，...
+ ## [这场ICT行业盛会，您怎能错过!](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=CFbpcs7H5H9lXIWfq*UzGhH3G9yHZDLKFxyKhrgTYqFzvyRAHDHXC73EinPXnqYwxm35B0FwDIUzMJZKyhZ5w3AmQKJqcP*V9-M5rxfWKsF1Um7AzcO5qUdQeeK7zQ41&new=1)
+ > 当今社会已进入数字经济时代，数字经济将是未来经济的主要驱动力。同时，疫情之下的线上需求爆发，进一步加速推动了数字经济发展步伐。为构建数字经济坚实的支撑底座，“新基建”应运而生。简单的说，“新基建”...
+ ## [前阿里后华为，云手机能否成为传统手机产业终结者?](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=zIdSSuvN6c5M9bcK1hzguuDDJsIC*KZf*rzAnx0RiQzUKKAYNe7wgz*IiPa40MAtBpaup0v3swOJsqO6goJ8HmayUqHjYtWywkwm-GkNwEtpgEagCAglMdfM6P8b6*cJ&new=1)
+ > 2020年9月的一大科技事件即为华为云ARM云手机（Cloud Phone）的发布。作为华为自主研发的全球首个ARM芯片云手机，此次创新引发了外界热烈的讨论。纵观过去十年，早在2011年就有阿里云手机的概念流出， 但因用户...
+ ## [华为带动涨价?二季度中国市场智能手机均价涨了13%](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=DaEyLWM697JM5nGKRx64kebIlci3tpAPBcgczgT05aDq-jbZsjDgARL4LEMUOqCzldVvG4SwV58FTeegcRAiGdvI2y-v5ROGVq30Bth8X4wyO8brZk6uzaJaAzTyKhp0&new=1)
+ > 5G的覆盖与普及，推动了价格的上涨空间，好在众多友商竞争的环境下，5G手机价格逐渐下探，甚者已经回落到1000元内，你用上5G手机了吗？据统计机构Counterpoint Research的最新数据称， 除了拉美，北美、欧洲、中...
+ ## [推动产业升级，IEEE人工智能线上论坛诚邀您来](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=8R0Tgu9ISh4GfTZuFIyTp2q3jCqfBhl3g2wT*Io8RpbMOA6h4SeVw3u46o-JuYmasoUHT5xpJrXzdRtpE88ifnVBVkCDn0OsKR1QODmzcbW8osiCEKZTsmr0qOQIRIAz&new=1)
+ > 人工智能作为未来发展的重要方向，已经被应用到各个领域，成为新一轮科技革命和产业变革的重要驱动力量。企业通过集聚创新资源，将人工智能技术与产业融合，在不断推动产业升级。作为全球最大的科技学会，IEEE（...
+ ## [游戏变了，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=BJ7B8YnL1hoBiItq2U7NsN2dQzT2DU9ORxfI86xscWSYmDZXw7vsQPEqGARtHyi8LdOVb1uRQd8MhWvjvWYNXCrQWK-Jrpobv2kwAI46R2mTLY0Ktxcwb9eDMAtLlpim&new=1)
+ > （本文阅读时间：3分钟）9月25日-27日，在北京海淀举办的“北京国际游戏创新大会”将集结国内外众多科技厂商精彩亮相，微软作为游戏行业中拥有雄厚技术实力、强大硬件平台以及多种解决方案的头部企业将莅临现场...
+ ## [五险一金+额外高端商业医疗保险，国家重点企业大量核心岗位面向全国招聘](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=wRWdV13wwKWjhqnTjtDys2igD4g5aUKKloa0psLJZ2lvvMlypEbGlX68-la32o8rU1-yzYg4992Du9NkCV2ft9lTMTco6H41mjLs*9s9eIvWCqyr-mns*QosoFgEdIni&new=1)
+ > 因为曾经憧憬，我们才拥有了俯瞰这颗星球的新视角 上海垣信卫星科技有限公司      成立于2018年3月，是国有控股和松江区重点企业，总部位于上海市松江区中心路科技绿洲。      致力于成为国际化的低轨宽带卫星产...
+ ## [致谢!华为全联接2020圆满结束](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=16gtwZ3kHT-WnIc6gNPwF6W94X2aBchMvTBgqPrgq4z1VlKfoXYAk74ZiCg6ITBAP14E1Mt7tAo8W*9jFTUgUhBeTOKz1WikIJoxB-RIUJr0QY4aOPIJugjImFIn*XWG&new=1)
+ > 为期四天的华为全联接2020圆满结束错过现场的小伙伴们小编为您准备了花絮视频一起来回顾下那些精彩瞬间吧第一天第二天第三天活动整体华为全联接2020圆满结束感谢所有参加的合作伙伴、赞助商、客户媒体、KOL、开...
+ ## [捷报传来!泉州移动率先实现5G SA商用](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=3q*ujijnWsN7lkuBBp0MYphmvy*bA89tMU297Esio*e*kri7I0hOov4jniatjyl43mwhP8PvuVNxA5LovhQrL37Yz9NF5JyPv5iSlRHYzt-63cPweDICysdeWWlpeMMr&new=1)
+ > 天下功夫，唯快不破随着“新基建”号角的吹响泉州移动按下了5G建设“加速键”凭借5G先发技术优势织密织牢“高带宽、低时延、海量物联”的5G网络全省率先实现5G SA商用以骄人成绩向泉州移动21周年庆交出亮眼的答...
+ ## [日拱一卒：全球首位漏洞赏金百万富翁的生财之道](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=l3-*ju2jFnhniL5T5ziRQHnSDXNje2LkG3buG5pJ83SRTbjkwR2pvPI5xs5lPuKozlK628e8FwcEfoYQ1zo2R4D9yVHzbMSstgCNvjqrO0tYA--z43rbNY89RuNBCPFh&new=1)
+ > 图片：Santiago Lopez白帽子道德黑客的注意力常被巨额漏洞赏金和一夜暴富的新闻所吸引，但是全球首位漏洞悬赏金百万富翁却靠坚持不懈“打小怪”和“日拱一卒”走出了一条“平凡之路”。近日，来自阿根廷的年仅19...
+ ## [中芯国际回应被美国列入「黑名单」；中国首枚芯片邮票问世；苹果开源 Swift System|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=skmIWWosZ6ugq8CDUpVkF*I0vRVbcjGdZRl05oFO6JyG6gaVvMdGy4A7azT1B0hv13yOQkE6L-Mm5FdDBXfMi3xe6rt-YHRZmfhQ-5H0NRrRz2KngHR4X*dkLq9mLJVP&new=1)
  > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
- ## [中共中央办公厅 国务院办公厅印发《关于加快推进媒体深度融合发展的意见》](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=kupSxis79Kzx2Omvd8HtWHZ2Auiayzg4nEALj6Uzjr9BNLVpfDtoqH7v0JQ7QLHau2VZ-s*E0TfQCzUL-I7VUFMfddU8aGmwtV37eBHTfoo=&new=1)
+ ## [汇总：15个微米纳米级3D打印技术](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=9bi5EMCXMh3uc9jlDYVUGwX*nssV4dv0LdhTy8QwzWMngId6C7Vvb0m4FplDZtzMC22sFNFgMoHeDO9go0gKeyyvArrKdqLNYxw9BMAOsmHIW33HkIuk*RiMTg91Xlc7&new=1)
+ > 南极熊导读：下面分享15个微米纳米级3D打印技术汇总。无论是桌面级还是工业级，常见的3D打印机工作原理都是分层制造，这使得层与层之间的精度很受限，存在所谓的“台阶效应”。这使得3D打印机难以制造高精度的器...
+ ## [欢迎参加全国高校大数据人工智能专业建设研讨会!](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=mltCV5cYNQ8Om913mY0PRhovy2I5yZSz3pfOW*ZVLcppu7pIE6rbHrmZCSARhy31AHYh3a2KPyk3MgL-g31epY8oW3OKeeuGKMoN*iJkfbDVFCSNLpLAZEvLqNYnJISu&new=1)
+ > 据教育部公示，迄今已有668所高校成功申报“数据科学与大数据技术”专业，1355所职业院校成功申报“大数据技术与应用专业”，同时共有180所高校成功申报人工智能专业，申报人工智能技术服务专业的高职院校达到17...
+ ## [中共中央办公厅 国务院办公厅印发《关于加快推进媒体深度融合发展的意见》](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=kupSxis79Kzx2Omvd8HtWHZ2Auiayzg4nEALj6Uzjr*j6zs0zc9Ci7E1PKLk6gGLxFZNfNkf9zdC-EwcFtz*5a59X*I3Xy*uDigrmE0pHrE=&new=1)
  > 新华社北京9月26日电 近日，中共中央办公厅、国务院办公厅印发了《关于加快推进媒体深度融合发展的意见》，并发出通知，要求各地各部门结合实际认真贯彻落实。　　《意见》从重要意义、目标任务、工作原则三...
- ## [微软Bing应用数据库遭泄露 多达1亿条搜索记录被截取](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=sg1X8Z1r84lk6rLL69*n5zgbM18h17ExMy7y-mr4DGH6zfuwq6j8tnOGQV-ptV*WhmO6ZA5CAIqkQVEpUM8RDzS2mOIPkipAVl7Bdh1vOwhZdKJt7UJXZclKIDJ*xT8R&new=1)
+ ## [微软Bing应用数据库遭泄露 多达1亿条搜索记录被截取](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=sg1X8Z1r84lk6rLL69*n5zgbM18h17ExMy7y-mr4DGFl4hAQEAQC-9E4PzxBSpi62hCPm61ybEj2g5UAz2SEanwpUCiBJaAXylrG2F5wQli92OayPPuj37ZPymNPV-B7&new=1)
  > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全9月27日讯 近日，WizCase专家发现了一个不受保护的Elasticsearch服务器，其中包含了与微软旗下Bing移动应用程序用户相关的TB级数据。 该数据库应
- ## [中芯国际回应美国制裁消息；维基媒体基金会成为 WIPO 观察员受阻；消息称奥迪与一汽探讨成立新合资公司|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=f3OrfJjEI8Ipl241Rh*IHWqYyHj9hxONAETm-v0CeZQwE-9kWH5KYRohiote5si4PE6qMXSZhjFgGCPQq8zmvlnxSMBnsmpi9qtEs-JUeP-*lZ2BaxRsbJJEjdMjt3PX&new=1)
+ ## [中芯国际回应美国制裁消息；维基媒体基金会成为 WIPO 观察员受阻；消息称奥迪与一汽探讨成立新合资公司|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=f3OrfJjEI8Ipl241Rh*IHWqYyHj9hxONAETm-v0CeZSyfmfu2UMKrch03PZZg7fAEtyBX7e-iv4qVC-91S3Z*W8pYiZLYeISmfTSE0IKEsxPoAB3IzacQ8CIxcYwHZmS&new=1)
  > 图 / IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【中芯国际回应美国制裁消息：未收到此类官方消息】据《金融时报》消息，美国将中国最大的芯片代工制造商中芯国际列入了出口限制名...
- ## [深信德为左臂残缺毕业生3D打印设计义肢，圆了大学梦](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=feTscGBI3kfztw1PRIa*dsCl3Eg3zO-5M8sjZrlcTryhuSMVBot702ZfDWj8DreIcSBl17CC69NSEHKKnWSHzU10eYocYOdHgNg1dP4cFInnGQKtGjhZRn6EU4UL-asb&new=1)
+ ## [深信德为左臂残缺毕业生3D打印设计义肢，圆了大学梦](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=feTscGBI3kfztw1PRIa*dsCl3Eg3zO-5M8sjZrlcTry0E2GYtO8*oZi2B*FVeW-9*j1upOEzFfDNeRa8w9*8Eaocl4a6g83ua13a8B3kAYH6-sxGBTP-LhsC7zTnQMAv&new=1)
  > 近年来，3D打印技术迅速发展，在各个行业各个领域中都应用广泛。3D打印技术也可用于制备医学模型，进行手术策划，手术辅助器械和个性化内植入物，生物打印与组织工程等方面。了解3D打印技术的朋友都知道，我们可...
- ## [人事：中国电信北方这个大省一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=q4oB8ujViFUxxZEe1f11vudKEYY1acUPMMpYXNM1eZ6-UQIMNWcl*vQs8NNnh17Dgs5c265Yq5Eq9cUsOCFThyD6ROj5YEAsn1Zxe1WOgWkCcEtwuD0Pz0AStSrPjW8b&new=1)
+ ## [人事：中国电信北方这个大省一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=q4oB8ujViFUxxZEe1f11vudKEYY1acUPMMpYXNM1eZ7P9qzCHkD5EYpKZ5wmYKLYsecfzFuFtZfsudDhBzJkgchp*9wvd*7EUntq0Uj2sBW2PY79FpEAFx8SKdSp20xy&new=1)
  > 据知情人士透露，河南电信一把手发生变更，由湖北电信副总经理石三平接替李原的职务，属于升职。资料显示，石三平在2017年调任湖北电信副总经理兼武汉电信总经理，在此之前他曾是荆州电信总经理。自他接任后，带...
- ## [\[报告\]2020中国汽车金融行业研究(附30页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=Hu62OKvTOGavfxOa0Ns0yAxw15hwyjUOhF*29oVVIMmU4EizVyYYR4wlTh-sz*0axrYvsQ7j5n2eYzhR5DHqv3PJ8dFCjP10BLxLDdR9JJCjvVl40pL7ISYS-t8qbJLs&new=1)
+ ## [\[报告\]2020中国汽车金融行业研究(附30页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1601197204&ver=2609&signature=Hu62OKvTOGavfxOa0Ns0yAxw15hwyjUOhF*29oVVIMnTZWuxJmyLXYiRn0*Nf68JbnvC3aLKzXG4GrwcUKVI9e5Kv*hVXjuq-YL2JbPAtJS*S2LB35Jw6dSXF26mwwEj&new=1)
  > 近日，罗兰贝格管理咨询公司发布《2020中国汽车金融报告》。报告梳理了汽车金融市场现状、发展趋势和驱动因素，并为行业参与者应对机遇和挑战提出建议。以下为报告节选：......文│华西证券本报告共计：118页。...
- ## [工业富联媒体开放日，高管都谈了哪些东西?](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=dPzMy3ZimvUR58pI-BIxwXRgNQj1-AcsJli8zNnYo6no7rpnOQT-WntbkhbHaiNbReX9dZbZ1MCMRJbyvpkqTPzKdCMvoG-vdm5JFk8h1eY=&new=1)
- > 经济观察网 记者 李华清 9月25日，工业富联（601138.SH）在深圳龙华富士康科技园举办媒体开放日活动，工业富联公共事务与传讯总监称，这当得上是富士康投资大陆32年以来最大规模的一次媒体走进龙华科技园活动。...
- ## [华为真的不造车吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=L3ycRGKq1HWcqC7EqnuCnt3Pkdh7ms9aDseqqTXW30-yuNFj*p1gLpQ2O74y5O6FcnYPJBjItuAc3rN8-9qUg74-bPNjRjLBLQFnVUXl5EC4vj0ZZqyll4Bx**J-LXC9&new=1)
- > 你觉得华为会不会造车迟来的北京车展终于开幕了。但是作为一家汽车科技媒体，我们先不和大家聊新车，今天先聊聊华为。原因很简单，和我们熟悉的车展节奏都不太一样的是，往年车企扎堆在车展开幕前举行的「品牌之...
- ## [关注|抢占5G新基建制高点，武汉光博会为其提速](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=-ckjcWmK8KyKFmy0z8*nOmyFFoXW4vs*FDVBWPE-2CdtL3KUJWApmJSlMfKuZXiPHT*Ca-3ZLqTnJzv-ArgDKhrmEam74241UmJOhz5i0YvrIfMWrHR2Z9pirn*u4*D*&new=1)
- > 今日新闻为了促进光通信企业重拾信心，助力产业升级和技术创新，第十七届“中国光谷”国际光电子博览会暨论坛，将于11月11-13日在中国光谷科技会展中心举办，欢迎扫码报名观展!ICC讯  近日，国家发展改革委、科...
- ## [华为的鸿蒙系统，能代替安卓嘛?](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=gN4A2buqvZrJpr9KGDMR-wDmKL7gCqHtgIdWPyq5xu3oMhS6TUEBRrV0NU62w1paOfTr5bcJTqDhy9OGQ0qWS-esGsYWNwr2T55Wq2qem5XrG-NetMQoQc7B*tdXyahm&new=1)
- > 华为的鸿蒙系统能代替安卓系统嘛？（文章素材来源”三个老爸工作室“）答案是：不能！因为两者不在同一条赛道上，兄弟萌请往下细看。2020年9月10日，在东莞松山湖，华为发布了鸿蒙2.0系统，并拿出源代码给开发者...
- ## [将千兆光纤带入每个房间，FTTR方案能否成运营商“新宠”?](http://mp.weixin.qq.com/s?src=11&timestamp=1601179205&ver=2609&signature=i2VsbKzY8io4Ru-QlWFlUVpr3ylRQ0Edh-9ERQF9rs5i9I*UgjtHJkU2AJjSRmn2FevDo9PLWOXxMFLzA1zAPCp*BQ1VNOUOnpA02RK8AdGjNIR2BDKpo0n-UX*QMoQo&new=1)
- > 近日笔者发现广东有运营商在发力FTTR（光纤到房间，Fibre to The Room），采用智能双频光猫。我们好奇，作为经济发展最好、极具活力的广东，为何要聚焦FTTR？其实对运营商而言，家庭有线宽带市场，一直是运营商...
 # IT 技术 
  ## [运输和物流中人工智能和自动化的用例](http://ai.51cto.com/art/202009/627207.htm)
  > 运输和物流中人工智能和自动化的用例
@@ -49,58 +61,58 @@ categories: IT NEWS
  > 从数据到大数据，数据技术&amp;工具的演变
  ## [低调的 Linux 文件系统家族](http://os.51cto.com/art/202009/627162.htm)
  > 低调的 Linux 文件系统家族
- ## [SQL Server 全能管理员在线课程](http://fellow.51cto.com/art/202008/622833.htm?qd=51ctojrzd)
- > SQL Server 全能管理员在线课程
- ## [再见，可视化！你好，Pandas！](http://developer.51cto.com/art/202009/627365.htm)
- > 大家在用Python做数据分析时，正常的做法是用先pandas先进行数据处理，然后再用Matplotlib、Seaborn、Plotl
- ## [这样规范写代码，同事直呼“666”](http://developer.51cto.com/art/202009/627363.htm)
- > 本文介绍了十六项如何规范的写出代码，我们一起来看一下吧。
- ## [超棒 Vue Github可视化分析系统GitDataV](http://news.51cto.com/art/202009/627351.htm)
- > 今天给大家分享一款功能超强大的Vue实现github可视化数据系统GitDataV。
- ## [区块链支持物联网的4种方式](http://iot.51cto.com/art/202009/627344.htm)
- > 区块链提供的安全性和透明度是物联网目前面临的许多问题的关键，区块链将加速物联网的采用，并为公司和消费
- ## [Windows XP和WindowsServer2003源代码泄漏，影响大吗？](http://os.51cto.com/art/202009/627340.htm)
- > 多家外媒报道，微软的Windows XP和WindowsServer2003的源代码已经在网上泄露。
- ## [从信息化到数字化 乖宝集团为宠物舌尖上的安全保驾护航](http://news.51cto.com/art/202009/627286.htm)
- > 乖宝宠物食品集团股份有限公司集宠物食品的研发、生产、销售于一体的综合性集团企业，主要经营犬用和猫用的
- ## [控制云计算支出的7种方法](http://cloud.51cto.com/art/202009/627337.htm)
- > 很多组织是否面临云计算预算浪费的情况?为此需要了解控制云计算支出的一些方法。
- ## [数字化转型战略：当前需要反思的7个问题](http://www.cioage.com/art/202009/627335.htm)
- > 鉴于冠状病毒疫情的蔓延，关于数字化转型的一些观点现在看起来有所不同。人们可能需要重新思考采用一些方法
- ## [安全扫描使勒索软件网络保险索赔减少了65％](http://zhuanlan.51cto.com/art/202009/627332.htm)
- > 网络保险公司在承保阶段和承保后的安全扫描使勒索软件索赔减少了65%。
- ## [云软件帮助亚利桑那州立大学走向混合式学习模式](http://www.cioage.com/art/202009/627331.htm)
- > 首席信息官列弗•冈尼克(Lev Gonick)表示，亚利桑那州立大学已很大程度上依靠云协作软件来帮助学生以
+ ## [MySQL数据库培训实战教程（从MySQL5.7 到 MySQL8.0）](http://fellow.51cto.com/art/202007/622203.htm?qd=51ctojrzd)
+ > MySQL数据库培训实战教程（从MySQL5.7 到 MySQL8.0）
+ ## [划重点！最高2亿支持，看懂人工智能创新发展试验区5大关键政策](http://ai.51cto.com/art/202009/627412.htm)
+ > 2019年8月，科技部制定并发布《国家新一代人工智能创新发展试验区建设工作指引》，目标到2023年，布局建设2
+ ## [一文看完外滩大会开幕日亮点：数字咖啡、直升飞机、宠物鼻纹识别](http://blockchain.51cto.com/art/202009/627411.htm)
+ > 9月24日，首届外滩大会在上海开幕，作为全球高级别金融科技大会，外滩大会吸引了来自全球各地的著名经济学
+ ## [这7个渗透测试工具，白帽子必备](http://developer.51cto.com/art/202009/627410.htm)
+ > 渗透测试，是专业安全人员为找出系统中的漏洞而进行的操作。工欲善其事，必先利其器。今天给大家介绍7个便
+ ## [机器学习云平台应具备哪些功能？](http://ai.51cto.com/art/202009/627407.htm)
+ > 要创建有效的深度学习模型，需要提供大量的数据，对模型进行有效的训练。然后安装模型，对模型进行监视以防
+ ## [如果编程语言是一门武功绝学](http://developer.51cto.com/art/202009/627405.htm)
+ > 武侠小说中，各路侠客绿林好汉都是从基本功开始一招一式学起，掌握了足够多的招式后，加之勤学苦练，量变引
+ ## [未来战场将进入“秒杀”时代，人工智能大展神威](http://ai.51cto.com/art/202009/627403.htm)
+ > 近年来，人工智能技术取得突破性进展，在作战指挥领域将得到广泛应用，可以有效缩短观察-判断-决策-行动（O
+ ## [Windows XP和Windows Server2003源代码泄漏，影响大吗？](http://os.51cto.com/art/202009/627400.htm)
+ > 多家外媒报道，微软的Windows XP和WindowsServer2003的源代码已经在网上泄露。这两个操作系统的源代码的Tor
+ ## [中国云计算市场规模赶超美国问题不大](http://cloud.51cto.com/art/202009/627397.htm)
+ > 要说近年来有什么热门领域，云计算绝对不可被忽视。不管什么生意，要是和云计算搭上关系，似乎瞬间就能显得
+ ## [大数据可视化分析工具常用的有哪些？](http://bigdata.51cto.com/art/202009/627396.htm)
+ > 大数据可视化分析工具常用的有哪些？企业基础数据才能制定出正确的策略，常用的分析工具有、Tableau、EChar
+ ## [中国银行将停止Windows Phone客户端对外转账功能](http://news.51cto.com/art/202009/627394.htm)
+ > 9月26日，中国银行宣布从明日起，不再在支持Windows Phone版本的客户端对外转账功能。从中行的公告可以看出
 # 人工智能 
- ## [【数据结构与算法】详细简单排序（冒泡排序、选择排序、插入排序）完整思路，并用代码封装排序函数](https://blog.csdn.net/l_ppp/article/details/108498581)
- > 【数据结构与算法】详细简单排序（冒泡排序、选择排序、插入排序）完整思路，并用代码封装排序函数
- ## [UnityHub无法安装模块问题的终级解决办法:UnityHub安装任意版本Untiy](https://blog.csdn.net/qq_24733765/article/details/108806448)
- > UnityHub无法安装模块问题的终级解决办法:UnityHub安装任意版本Untiy
+ ## [面完阿里、美团后，我总结出大厂常问面试真题及解析：java集合+spring+设计模式+并发编程+MyBatis 等。。。。](https://blog.csdn.net/bjmsb/article/details/108751546)
+ > 面完阿里、美团后，我总结出大厂常问面试真题及解析：java集合+spring+设计模式+并发编程+MyBatis 等。。。。
+ ## [Java 23种设计模式 之 原型模式](https://blog.csdn.net/qq_41620020/article/details/108801424)
+ > Java 23种设计模式 之 原型模式
+ ## [蚂蚁Java三面：二叉树+HTTPS加密+自旋锁+缓存穿透(送答案)](https://blog.csdn.net/qq_46388795/article/details/108812820)
+ > 蚂蚁Java三面：二叉树+HTTPS加密+自旋锁+缓存穿透(送答案)
+ ## [剑指Offer 12.矩阵中的路径](https://blog.csdn.net/weixin_43967679/article/details/108803083)
+ > 剑指Offer 12.矩阵中的路径
+ ## [这一篇“秋天里的第一份Java面试题合集”满满干货，呕心沥血！建议收藏](https://blog.csdn.net/a159357445566/article/details/108802624)
+ > 这一篇“秋天里的第一份Java面试题合集”满满干货，呕心沥血！建议收藏
+ ## [2020.9.25字节跳动后端实习一面面经](https://blog.csdn.net/qq_44357371/article/details/108807825)
+ > 2020.9.25字节跳动后端实习一面面经
  ## [javafx小球运动](https://blog.csdn.net/CHIhacker666/article/details/108803957)
  > javafx小球运动
- ## [力扣——174.地下城游戏(困难难度)——万能的递归与动态分析](https://blog.csdn.net/g55zhw93/article/details/108789026)
- > 力扣——174.地下城游戏(困难难度)——万能的递归与动态分析
- ## [前端装逼必备--Canvas](https://blog.csdn.net/qq_42671194/article/details/108752225)
- > 前端装逼必备--Canvas
- ## [良心到难以置信的网站推荐第6期丨上网必备](https://blog.csdn.net/doubleguy/article/details/108794179)
- > 良心到难以置信的网站推荐第6期丨上网必备
- ## [Unity中c为客户端，c++为服务器端进行socket通信](https://blog.csdn.net/m0_45866718/article/details/108800439)
- > Unity中c为客户端，c++为服务器端进行socket通信
- ## [D - Rescue Nibel!(差分+组合数学+思维)详解](https://blog.csdn.net/zstuyyyyccccbbbb/article/details/108802592)
- > D - Rescue Nibel!(差分+组合数学+思维)详解
- ## [基于FPGA的Bubble 游戏开发](https://blog.csdn.net/ccsss22/article/details/108798988)
- > 基于FPGA的Bubble 游戏开发
- ## [超火的修改手机充电提示音教程，IOS和安卓都有！](https://blog.csdn.net/weixin_43807961/article/details/108792647)
- > 超火的修改手机充电提示音教程，IOS和安卓都有！
- ## [macOS Catalina 10.15.7(19H2)原版镜像 by OpenCore-0.6.2-09-25编译版](https://blog.csdn.net/shuiyunxc/article/details/108800024)
- > macOS Catalina 10.15.7(19H2)原版镜像 by OpenCore-0.6.2-09-25编译版
- ## [C++机器人跳跃问题（二分搜索）](https://blog.csdn.net/qq_44643644/article/details/108806960)
- > C++机器人跳跃问题（二分搜索）
- ## [UE4使用一些简单的控制符.实现移动组件的效果](https://blog.csdn.net/Huangpengyu123/article/details/108804373)
- > UE4使用一些简单的控制符.实现移动组件的效果
- ## [JavaScript实现 插入排序 算法(INSERTION-SORT)](https://blog.csdn.net/qq_41777791/article/details/108808931)
- > JavaScript实现 插入排序 算法(INSERTION-SORT)
- ## [跑步训练（ 填空题 ）](https://blog.csdn.net/Piink/article/details/108805534)
- > 跑步训练（ 填空题 ）
+ ## [Spring和Spring Boot相关知识整理](https://blog.csdn.net/m0_45270667/article/details/108795627)
+ > Spring和Spring Boot相关知识整理
+ ## [阿里云短信接口](https://blog.csdn.net/qq_38186465/article/details/108808142)
+ > 阿里云短信接口
+ ## [SpringBoot-web开发(三): 模板引擎Thymeleaf](https://blog.csdn.net/qq_45173404/article/details/108763691)
+ > SpringBoot-web开发(三): 模板引擎Thymeleaf
+ ## [美团offer已拿，我心飞扬。分享我总结的大厂高级工程师面试126题汇总：并发+JVM+框架+分布式+数据库](https://blog.csdn.net/bjmsb/article/details/108813332)
+ > 美团offer已拿，我心飞扬。分享我总结的大厂高级工程师面试126题汇总：并发+JVM+框架+分布式+数据库
+ ## [Java线程安全解决方案（synchronized,ReentrantLock,Atomic使用场景描述）](https://blog.csdn.net/qq_42271561/article/details/108809073)
+ > Java线程安全解决方案（synchronized,ReentrantLock,Atomic使用场景描述）
+ ## [做好异常处理，防止无故翻车](https://blog.csdn.net/qq_38646470/article/details/108788831)
+ > 做好异常处理，防止无故翻车
+ ## [Java语言部分基础知识](https://blog.csdn.net/w12345685525/article/details/108809920)
+ > Java语言部分基础知识
+ ## [Java8 日期时间的操作技巧](https://blog.csdn.net/zl18603543572/article/details/108764390)
+ > Java8 日期时间的操作技巧
 
     
