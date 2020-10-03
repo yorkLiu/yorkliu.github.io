@@ -1,28 +1,38 @@
 ---
 title: 2020-10-03 IT News
 copyright: true
-date: 2020-10-03 12:01:38
+date: 2020-10-03 17:02:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为芯片正式断供!生死存亡之际，之前吹的牛逼……](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=KuvKvccXyv4vDVFrysUCbqFC6BtMfnAzol6ylywWa-4QdVO5DBWwW1yLeY*X1vQ9Zjxl18S9toQcQ2BWQt4w7wGhsWa-Bpu4lDF2G1d-Gy8DNxwUzsTjF3zWvn81H9vY&new=1)
- > 缓冲120天后，华为的至暗时刻还是来了。9月15日，美国5月15日下发的对华为芯片管制升级令正式生效，台积电已停止为华为代工生产麒麟芯片，高通、三星及SK海力士、美光等都将不再供应芯片给华为。另外，英伟达宣...
- ## [JavaScript 爆红后，微软为何还要开发 TypeScript?](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=1aUzJ5cNPXzaSvyiXQERD7rbZ2D7ff-H9xP9WqPiz84g3C9KxrmAcE6**LtYUvsxvqeJIUhukPj-xk3UtZTL0IAe-B-WG-HXEMNoc-wIb3eljteKEBQvVuELzGv0Fdcl&new=1)
+ ## [又一家中国科技龙头正在“储粮过冬”!](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=uOGYlsQgt06k*VE3Xq*Nb1RaDt*P33R7e26-WyVdF-z9k1jhQcabrAduQGtYbrpZHYLQt9BqIwBfehjX71Z1GMVhHC9FStW1xydxLd34WpVeUpd8LbWA4jEdE4gYHGpr&new=1)
+ > 又一家中国企业开始准备「储粮过冬」了。据《日经亚洲评论》报道，中国最大的芯片制造商中芯国际正「囤货」关键生产设备和重要替换零部件。这表明，公司几个月来一直在为美国收紧出口限制做准备。几位熟悉内情的...
+ ## [保卫财富|融资升温、寻求替代 国产芯片危与机](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=kaUYSwiKpjP*p9w6jfNhkS7Ku5RvQHGBwAcrbyzas26QC*fynr2FayXvrtGqaWN4vmTqZwqqTLE9tZ6kP5jBHhSwNBLN78GeJU7ALMchuofmZ2fJmP8YwLJRMFuerSW2&new=1)
+ > 当下特殊的时点、特殊的国际环境下，外部干预已经进入到中芯国际这样芯片制造的核心环节。芯片是一个国际化、分工化、周期化的领域，一些关键公司的变动，正影响着整个供应链的神经。从制造、设计到终端，芯片业...
+ ## [2020年最大端点威胁：无文件恶意软件](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=8Jwra5iuG7o3EA3iXCpBgSJJEU6lo3zYbR8xLLgnqczlvcqwdSdFRrecIRFo*Sk8ZKtUiiz5pvv4Gvb2g9QbAPoLulpDERyShYywvFM-eCfYDEKD4pG9imdQIoDmpyaT&new=1)
+ > 2020年的新冠疫情，让端点安全站上了网络安全的风口浪尖，而端点安全面临的主要威胁又集中在几种最严重的攻击工具和策略上。根据思科安全报告对遥测数据的最新分析，2020年上半年，最严重也最常见的端点威胁是无...
+ ## [关于鸿蒙 2.0，那些开发者不知道的一切](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=i7CGe7MFkz*hnFyoaXpOVsQz8za*DF2ZxBvnxmyLB6sbVEUfK8oVRZY7mdpyfC8Lce8KkamZABDj4jkiPL5OX3QNCQ8041WHc8mv*T7vkgBe1neJMyxzZ2BKyXDejWUT&new=1)
+ > 整理 | 高卫华，视频 | 王晓曼责编 | Just、伍杏玲出品 | CSDN（ID:CSDNnews）头图 | CSDN 下载自视觉中国鸿蒙操作系统在推出一年后，鸿蒙 2.0 操作系统如约而至。在 9 月 10 日的华为 HDC 大会上，
+ ## [向创新、智能、开放迈进——“十三五”制造业发展扫描](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=LZaQal0oVJ76XIRC2pPAM8eaZb1kBYMf5tKxSgzD1xIHXJ1eORg*X99k0-jKxp6hIz-nz-8yaCknMWssLw9cQY68ZxMyzpu8*rSmvc77gcE=&new=1)
+ > 新华社北京10月3日电　五年，弹指一挥，却足以改变产业面貌、制造格局。“十三五”期间，科技发展日新月异，信息技术加速与工业深度融合。从高端装备到精密仪器，重大工程到基础材料，中国制造体系不断完善...
+ ## [JavaScript 爆红后，微软为何还要开发 TypeScript?](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=1aUzJ5cNPXzaSvyiXQERD7rbZ2D7ff-H9xP9WqPiz85UGne3AJen*HrIh-I28xIHLHaD8C1KsrzO5iRU2znKC*9RtU3*REcdTufYdF1SYQj6MWXywtedsUO*6El8xjZw&new=1)
  > 开源 TypeScript 在经历过最初微软的内部抵制后，如今终于成长为构建 Web 应用程序的首选语言。作者 | Liam Tung译者 | 弯月，责编 | 屠敏头图 | CSDN 下载自东方 IC出品 | CSDN（ID：CSDNnew
- ## [Airbnb预计12月份上市；微信上线青少年模式；国庆档电影总票房破10亿|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=NoaYRMzvtvy2Hkcb*XzFJdXnSNLxnwQLtyrticoKsIdlbyQAYHtpB-6uN5U*SPbi*p2pAUgrBjtMDd6zGLxi5teToOKIkhUde2f6yJWPAockOHKko5wznc9-gmxbCP69&new=1)
- > 图 / IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【Airbnb预计12月份上市 估值或超过300亿美元】据外媒报道，Airbnb预计最早在11月份提交IPO申请，并在12月份上市。知情人士称，Air
- ## [全是干货!汽车行业641篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=MpVdpLDdrYdrH0VPPvlVdkkdN7DEH91p7KwCEKPqybrPahm9K83QvmogE05LOBXehbmJIVd5by6On19LejhJZ1N4SiKlZR7IzE77BN67pT6qtFvusnyARbQanyuSPG0l&new=1)
- > 汽车行业641篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享641份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
- ## [青岛理工大学“微纳尺度3D打印”专利居全球首位](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=P14sg4L4F3Gp3Js6l5-tGYje2XeabrGB3EKMZOhdPwTpn5*k0qbzED9ZOm6bbVs4e97gciCB-VegwOOFkQQBLuTkSTdjNVzWEqi2kEeXO3u2WGrqGC9DDvKO6gejLFHM&new=1)
+ ## [青岛理工大学“微纳尺度3D打印”专利居全球首位](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=P14sg4L4F3Gp3Js6l5-tGYje2XeabrGB3EKMZOhdPwQ0t2xHpRndFf2o9pKT8ZPfgOwTaL2XGTKs21Ib3k5c2nM1CErOc2YIMr7hIxKSbzVY3r-9bfzW7*-NlUE9zoO6&new=1)
  > △全球范围内微纳尺度3D打印申请人排名2020年9月，据国家知识产权局徐宁发表的《微纳尺度3D打印专利技术分析》数据统计，截止2020年2月，青岛理工大学在微纳尺度3D打印领域专利数量居全球首位，美国3M和劳伦斯利...
- ## [用户发展走势分化，或将成为经营常态](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=kmpj41ui*vQVNuZqPV513mjosrnql3fYrb5hQJz6pPo-CiGZxrF6jOtAZTvYGdJJ6heEyiysyQruO-C6wiFB1sCO2Z8tG8OJurlNaeq1oXC23rQf*urlgzd4Ln7EvTbc&new=1)
+ ## [Airbnb预计12月份上市；微信上线青少年模式；国庆档电影总票房破10亿|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=NoaYRMzvtvy2Hkcb*XzFJdXnSNLxnwQLtyrticoKsIeYCbeQNVFhvbg1kj0tzhcvMV8h-dreYc1qTKrxWsNYe67cJMLBfZNkGAx7Yk5x4gIdLib1zG5owaDZUtjnaa1e&new=1)
+ > 图 / IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【Airbnb预计12月份上市 估值或超过300亿美元】据外媒报道，Airbnb预计最早在11月份提交IPO申请，并在12月份上市。知情人士称，Air
+ ## [全是干货!汽车行业641篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=MpVdpLDdrYdrH0VPPvlVdkkdN7DEH91p7KwCEKPqybqTjbpWuZVg16LIlWY4V0O10KuT1aRE9DyGCsWCkf-qX43fDkCgzgmT64zT3k91t9hj1lenb3MgKn7gKajPC-kr&new=1)
+ > 汽车行业641篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享641份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [华为芯片正式断供!生死存亡之际，之前吹的牛逼……](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=KuvKvccXyv4vDVFrysUCbqFC6BtMfnAzol6ylywWa-6PicnS3*ClH7-48wMP0QiVR28bUbYa-9SjaUrGDkfWnX-5N26uWsayhZ3bLhm9jWZgD4ciB-*Cwu0bAnI*gFjQ&new=1)
+ > 缓冲120天后，华为的至暗时刻还是来了。9月15日，美国5月15日下发的对华为芯片管制升级令正式生效，台积电已停止为华为代工生产麒麟芯片，高通、三星及SK海力士、美光等都将不再供应芯片给华为。另外，英伟达宣...
+ ## [用户发展走势分化，或将成为经营常态](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=kmpj41ui*vQVNuZqPV513mjosrnql3fYrb5hQJz6pPrW-NP1FxdQ6HG1wTYc-6CkhoqyH4j1hvfVDjnOgmj-RMjzYoDUECmcOVhn4BITByXPAjkMlF42Npfq2cgJo4ch&new=1)
  > 9月21日，三大运营商在同一天公布了8月份经营报告。从公布的数据看，增减各不相同。其中以4G、5G和宽带等业务为主要参考的指标显示，分化发展或将成为未来一个时期的常态。 一 中国移动宽带用户率先突破2个亿201...
- ## [卸载流氓软件用什么?这个不到7M的超强卸载神器，你一定要试试!](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=pNOTRsdusVVffbSHPZu1OJcc-*j3kkBoUHh1318GyHk7553Qr10RfKv6rEkb0F4aEIZwX5TF8X1Fh6QnWdHLoNCms8Zz1MQyaELm1LkvvPnv3fnUv4TIwwWlpKHLt0Iv&new=1)
+ ## [卸载流氓软件用什么?这个不到7M的超强卸载神器，你一定要试试!](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=pNOTRsdusVVffbSHPZu1OJcc-*j3kkBoUHh1318GyHnNpMk1sSEDcuudKjc62NAOiv2SvzRC0IkFiAnmPVFrzny1c4kXLBy2O1BZJaLehj4QEJChPlO-*vf1YeAOr1nk&new=1)
  > HAOWU| 本文转载自Tools指南| 作者：是橙子啊前段时间，我写了一篇文章《这9个让网友崩溃的流氓软件，我建议你一个都别碰》。留言区有一些小可爱询问“怎么卸载”这些软件？今天，它终于来了！不仅是卸载，还能...
- ## [华为带动涨价?二季度中国市场智能手机均价涨了13%](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=Ga4l7Boqc1YyoN3Fyp8uw1cr30VsFzDcdi0D3g2Vakp*FA6w1Yavo36zYjulPMva7hk8c5frOYkOK8Ucl*Dafz15WUZsogP3*fr0xwEubbAfvbck2-ykXVgUdLvCZcPZ&new=1)
+ ## [华为带动涨价?二季度中国市场智能手机均价涨了13%](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=Ga4l7Boqc1YyoN3Fyp8uw1cr30VsFzDcdi0D3g2VakpXcU8FyEXXk9ln0EVh65ZsVZ0MXrnrjmtoLQ4boYka7gc4YILDqG4ssJneKnzzZ5OlpaBTt68OR8GbJHd0ubdw&new=1)
  > Python实战社群Java实战社群长按识别下方二维码，按需求添加扫码关注添加客服进Python社群▲扫码关注添加客服进Java社群▲来源丨安全牛https://mp.weixin.qq.com/s/qxuitoAD78UnZSFT5WUw
- ## [企业安全建设之应急响应](http://mp.weixin.qq.com/s?src=11&timestamp=1601697605&ver=2621&signature=AzjAIVfmHnWXBOkYjZMyQs73FtioTmmy67qH1YjiFW0nAWyXXIeao2kT6Nj5GcW6sWpxTIjXnwKDgXw54q0fV7dDASLkjV85I3NKrpoRC1DrN8XkU88eoSPm0iq5hZ6T&new=1)
+ ## [企业安全建设之应急响应](http://mp.weixin.qq.com/s?src=11&timestamp=1601715605&ver=2621&signature=AzjAIVfmHnWXBOkYjZMyQs73FtioTmmy67qH1YjiFW2I7jnLfVDo7wAR4ELN9MLK9h5D9IcYg0bzqdTiK7oYqP8l8PkDNF3zu5zJWkvx5E6EbGGGVQ4uQndVW-OOEfKH&new=1)
  > 前言随着网络环境变得更加复杂，界限变得模糊，安全事件频发，有的企业在安全建设初期或者没有合适的应急响应体系及流程，很多企业安全人员都变成了“救火队长”，陷入了出现问题，急忙解决事件的点对点恶性循环...
 # IT 技术 
  ## [Kafka突然宕机了？稳住，莫慌！](http://developer.51cto.com/art/202009/627671.htm)
@@ -39,38 +49,38 @@ categories: IT NEWS
  > 人工智能对互联网性能的影响
  ## [对Kurbernetes中服务暴露方法的一些理解和说明](http://developer.51cto.com/art/202009/627599.htm)
  > 对Kurbernetes中服务暴露方法的一些理解和说明
- ## [AD活动目录管理 - 理论与实战](http://fellow.51cto.com/art/202007/622442.htm?qd=51ctojrzd)
- > AD活动目录管理 - 理论与实战
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
 # 人工智能 
- ## [【JUC源码】ThreadLocal源码深析&使用示例](https://blog.csdn.net/weixin_43935927/article/details/108889167)
- > 【JUC源码】ThreadLocal源码深析&amp;使用示例
- ## [写一个获取当前年月日，并从键盘获取出生日期，计算年龄岁数，具体条件如下：](https://blog.csdn.net/The_Handsome_Sir/article/details/108902977)
- > 写一个获取当前年月日，并从键盘获取出生日期，计算年龄岁数，具体条件如下：
- ## [编写Java程序，使用ThreadLocal类，项目中创建账户类 Account，类中包括账户名称name、 ThreadLocal 类的引用变量amount，表示存款](https://blog.csdn.net/weixin_44893902/article/details/108815806)
- > 编写Java程序，使用ThreadLocal类，项目中创建账户类 Account，类中包括账户名称name、 ThreadLocal 类的引用变量amount，表示存款
- ## [【SSM -Spring篇05】使用AspectJ实现Spring AOP - (连接点(JoinPoint) - 通知(Advice))](https://blog.csdn.net/qq_40542534/article/details/108684941)
- > 【SSM -Spring篇05】使用AspectJ实现Spring AOP - (连接点(JoinPoint) - 通知(Advice))
- ## [10月加油！总结9月份BAT大厂高频出现的Java面试题整理（附答案）](https://blog.csdn.net/Lubanjava/article/details/108886343)
- > 10月加油！总结9月份BAT大厂高频出现的Java面试题整理（附答案）
- ## [Kotlin从入门到跑路(一)](https://blog.csdn.net/u014643369/article/details/108895054)
- > Kotlin从入门到跑路(一)
- ## [Java—10000000以内完美数](https://blog.csdn.net/qq_44859533/article/details/108893192)
- > Java—10000000以内完美数
- ## [Java异常处理——复习计划](https://blog.csdn.net/weixin_45727731/article/details/108901035)
- > Java异常处理——复习计划
- ## [散列表&HashMap、LinkedHashMap源码深入解读](https://blog.csdn.net/ddsssdfsdsdshenji/article/details/108817020)
- > 散列表&amp;HashMap、LinkedHashMap源码深入解读
- ## [白琳大佬带带我0002选择排序](https://blog.csdn.net/qq_45864370/article/details/108904430)
- > 白琳大佬带带我0002选择排序
- ## [Maven创建SSH工程（快速入门）源代码](https://blog.csdn.net/qq_44757034/article/details/108813796)
- > Maven创建SSH工程（快速入门）源代码
- ## [SpringBoot + mybatis-plus搭建过程](https://blog.csdn.net/Walker7143/article/details/108894221)
- > SpringBoot + mybatis-plus搭建过程
- ## [String、StringBuilder和StringBuffer三者区别](https://blog.csdn.net/pf6668/article/details/108875324)
- > String、StringBuilder和StringBuffer三者区别
- ## [个人项目PowerOfLengedJxBrowser-通过注解处理Js与Java交互（二）](https://blog.csdn.net/xymmwap/article/details/108903043)
- > 个人项目PowerOfLengedJxBrowser-通过注解处理Js与Java交互（二）
- ## [用Java程序模拟银行ATM机，实现包括存款、取款、查询、转账功能的简单应用](https://blog.csdn.net/The_Handsome_Sir/article/details/108904044)
- > 用Java程序模拟银行ATM机，实现包括存款、取款、查询、转账功能的简单应用
+ ## [github设置仓库可见性  私人仓库设置他人协作/可见](https://blog.csdn.net/IT_flying625/article/details/101288908)
+ > github设置仓库可见性  私人仓库设置他人协作/可见
+ ## [Gitee上传代码 提示remote Incorrect username or password ( access token )](https://blog.csdn.net/YeShenLiaoSuiFeng/article/details/101240396)
+ > Gitee上传代码 提示remote Incorrect username or password ( access token )
+ ## [IDEA中Maven依赖下载失败解决方案](https://blog.csdn.net/ThinkWon/article/details/101312918)
+ > IDEA中Maven依赖下载失败解决方案
+ ## [Z平台-开源免费的JAVA快速开发平台](https://blog.csdn.net/qq_38056435/article/details/70212001)
+ > Z平台-开源免费的JAVA快速开发平台
+ ## [产品经理面试——简历填写](https://blog.csdn.net/qq_41536104/article/details/101310465)
+ > 产品经理面试——简历填写
+ ## [如何实时抓取动态网页数据？](https://blog.csdn.net/BAZHUAYUdata/article/details/101269912)
+ > 如何实时抓取动态网页数据？
+ ## [fatal: early EOF fatal: index-pack failed](https://blog.csdn.net/m0_37886429/article/details/101278059)
+ > fatal: early EOF fatal: index-pack failed
+ ## [idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错](https://blog.csdn.net/weixin_43665271/article/details/101274533)
+ > idea新建spring boot项目使用maven引入依赖失败，pom.xml文件中project标签报错
+ ## [小白必看：合理搭建巨量引擎账户结构要点总结！](https://blog.csdn.net/suisuiwang/article/details/101313916)
+ > 小白必看：合理搭建巨量引擎账户结构要点总结！
+ ## [Maven 初学+http://mvnrepository.com/](https://blog.csdn.net/qq_39088066/article/details/101294451)
+ > Maven 初学+http://mvnrepository.com/
+ ## [flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到](https://blog.csdn.net/qq_21383435/article/details/101293031)
+ > flink 1.9.0 编译：flink-fs-hadoop-shaded 找不到
+ ## [手动上传SNAPSHOT文件到Maven私服Nexus的方法](https://blog.csdn.net/zazzh007/article/details/101272511)
+ > 手动上传SNAPSHOT文件到Maven私服Nexus的方法
+ ## [Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project](https://blog.csdn.net/itanping/article/details/101024299)
+ > Java异常 | Intellij IDEA 2019.2.2配置Maven3.6.2打开Maven项目出现 Unable to import Maven project
+ ## [lerna管理前端packages的最佳实践](https://blog.csdn.net/qq_37653449/article/details/101241968)
+ > lerna管理前端packages的最佳实践
+ ## [IDEA debug提示Connected to the target VM, address: '127.0.0.1:xxxxx', transport: 'socket'的原因](https://blog.csdn.net/SunFlowerXT/article/details/101274034)
+ > IDEA debug提示Connected to the target VM, address: &x27;127.0.0.1:xxxxx&x27;, transport: &x27;socket&x27;的原因
 
     
