@@ -1,20 +1,24 @@
 ---
 title: 2020-10-07 IT News
 copyright: true
-date: 2020-10-07 10:01:18
+date: 2020-10-07 12:02:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [起底ARM：留给中国队的时间不多了](http://mp.weixin.qq.com/s?src=11&timestamp=1602036005&ver=2629&signature=XsKuvn0meTEOaxQepA0ML1ifW7AoBVjoMfFqf6RvjDfzmJsBSvzWiad6mNGKE*iIBcNbRegy6GQe2fWu4nCWd4tDTn0Kib4jEmQxyIbH8ZAbbdnh7LDqeoixsf4zEnoh&new=1)
- > ARM并购案对于中国乃至全球半导体产业的扰动仍在发酵。对于是否应放行这场世纪交易，中国产经业界存在不同声音。根据媒体报道，9月27日，在“第四届信息安全产业发展论坛”上，中国工程院院士倪光南在谈及英伟达...
- ## [成都芯通、京信、佰才邦..9大OpenRAN RU供应商出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1602036005&ver=2629&signature=oXT8IPszIYySSPwCRSUQX8zd*U8bha6Fh8glRK8eLbYD8lbmkBSYViuBdXoBcP3mRkDrBN0zsPizbIQi0ya2GCdtyV7Mv2Wzrnyw7osS0MYLqeuQzo8M5FsftbyOpb4P&new=1)
+ ## [成都芯通、京信、佰才邦..9大OpenRAN RU供应商出炉](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=oXT8IPszIYySSPwCRSUQX8zd*U8bha6Fh8glRK8eLba2V3STqQ-RjTVYzL3Z6bt*8gs0iMg2juZ8SXA2p*xCJi-EFQFJEHj60DIANZ6ESNg5TA*Zgu5EyWOG9EQZkqpL&new=1)
  > 今天，在TIP举行的一次网络研讨会上，沃达丰首次对外公布其OpenRAN无线硬件采购流程之RFI评估结果。结果显示，佰才邦（Baicells）、京信通信（Comba）、富士通、成都芯通（NTS）、Mavenir、Airspan、GigaTe
- ## [韦尔股份业绩大涨的背后，豪威科技欲重塑CIS市场格局](http://mp.weixin.qq.com/s?src=11&timestamp=1602036005&ver=2629&signature=orL9H5HZzdSjStS4qqlIIOEIrkXNyh7kpmUfuM3EkEqrcKT07HcWJvb0jjj8mcgjv2A3pY*hm8Uds3OrhgcMRpvq6iS2sAcAxP-eT-62BmqC-l-NpCAdU1zfOHe4Jwje&new=1)
+ ## [世卫组织：全球累计新冠确诊病例达35347404例](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=bu5ZRob97bQ0SOfFvyr*UH5ZGCwPJkYmdVVKjXvk2jNSOe33Pq4M7f9b4nLTIRsTj5sUF2iHO*q-jOPsXV0WH6ufhj4mD1HuAMtec8LdyhM=&new=1)
+ > 新华社日内瓦10月6日 世界卫生组织6日公布的最新数据显示，全球累计新冠确诊病例达35347404例。　　世卫组织网站最新数据显示，截至欧洲中部时间6日15时07分（北京时间21时07分），全球确诊病例较前一日增加...
+ ## [电子社保卡申领 超过2亿张](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=iRDHq8Rn3eP1Ax6REorngSspGRlUXa6GQFcLZEKfvlwpWQ0v3h-htEi0ShSM8EMyfCxOHg*UXQZ9IIvvZgTPQVaOLzvyoLRPYzsszG6e17s=&new=1)
+ > 据新华社电 人力资源和社会保障部近日发布的数据显示，截至6月末，全国社会保障卡持卡人数13.15亿，电子社保卡申领超过2亿张，26个省份的189个地区开通电子社保卡移动支付应用。　　据人社部相关负责人介绍...
+ ## [起底ARM：留给中国队的时间不多了](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=XsKuvn0meTEOaxQepA0ML1ifW7AoBVjoMfFqf6RvjDf-0Sh0qPv1gnnMtI40tketkyfmuM-YJ-vfkJZLLp*pGKjRXzhxAA9n10horpbIddb8irheLL2p9-eXs-r1EACR&new=1)
+ > ARM并购案对于中国乃至全球半导体产业的扰动仍在发酵。对于是否应放行这场世纪交易，中国产经业界存在不同声音。根据媒体报道，9月27日，在“第四届信息安全产业发展论坛”上，中国工程院院士倪光南在谈及英伟达...
+ ## [韦尔股份业绩大涨的背后，豪威科技欲重塑CIS市场格局](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=orL9H5HZzdSjStS4qqlIIOEIrkXNyh7kpmUfuM3EkEorlhcsdFbP2J2ad5yzO-RttPkHwHpiWqYh8c4vrnZfrYk3H7*nMgW5dm2W7gJ4nsugYFyQpA3oYAl**KLI3qrw&new=1)
  > 4月23日，韦尔股份公布了2020年一季度财报。根据财报显示，韦尔股份2020年一季度营业收入约38.17亿元，同比增长44.21%；净利润4.45亿元，同比暴增800.03%。而韦尔股份此番业绩的同比大幅增长，也主要得益于其收...
- ## [管中窥豹：一座5G基站背后的呼和浩特共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1602036005&ver=2629&signature=zFnqQvZ7jBwesZkr7ROLLOpVHrWJPRQ9iXZo1eJYe7LCk5ssjMN9Jc8sh1C*jBuLBC1s2dLBDbmmRYQE1AqX*9MxttTWwckAJ9Tf*KgE6l399RZNyaA3W7LKnLRnYd3Y&new=1)
+ ## [管中窥豹：一座5G基站背后的呼和浩特共建共享](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=zFnqQvZ7jBwesZkr7ROLLOpVHrWJPRQ9iXZo1eJYe7LtwkVrSz2aooGINlPQClj9vCdytlYpCAVn5xCVHnsn-e2q0pXvJWqhW72v9kZy7uHGrBwzNYNW48wu10kzjMVk&new=1)
  > 今年，在新基建部署推动下，全国5G建设如火如荼。截至目前，全国已经建成开通60万座5G基站。当前仍在以每个星期1.5万座的进度铺开，预计到年底可开通80万座5G基站。在北方重要的中心城市、内蒙古自治区首府呼和...
- ## [美国主推的5G毫米波技术被边缘化，中国和欧洲主导5G厘米波技术](http://mp.weixin.qq.com/s?src=11&timestamp=1602036005&ver=2629&signature=ivKd9PYDp1pZYuzHuSgOwRGSr-u4dpxIO5W7MtlRyrSgvD4xxgdyIEdLI-uZfbZ77XkqG*U8HOdtUWw-ojO6xJ9XPW0fxSz4hUotEEE*YoI4bV2qXyGA6mlskbPLGRWb&new=1)
+ ## [美国主推的5G毫米波技术被边缘化，中国和欧洲主导5G厘米波技术](http://mp.weixin.qq.com/s?src=11&timestamp=1602043205&ver=2629&signature=ivKd9PYDp1pZYuzHuSgOwRGSr-u4dpxIO5W7MtlRyrSHi8y0-FuUFEkPwWM7A8r0iFp33xq8WtfhlX-nrRwjN7t2PIao5xD2TmgzEXeuB1kIueltz85Y8Ab1-CkVYCUh&new=1)
  > 去年虽然被称为商用5G商用元年，不过5G大规模商用其实是在今年，目前的统计数据显示全球运营商主要采用5G厘米波技术，而美国力推的5G毫米波技术仅有美国四家运营商和乌拉圭一家运营商采用。2G有两种技术标准，3G...
 # IT 技术 
  ## [Kafka突然宕机了？稳住，莫慌！](http://developer.51cto.com/art/202009/627671.htm)
@@ -31,38 +35,40 @@ categories: IT NEWS
  > 人工智能对互联网性能的影响
  ## [对Kurbernetes中服务暴露方法的一些理解和说明](http://developer.51cto.com/art/202009/627599.htm)
  > 对Kurbernetes中服务暴露方法的一些理解和说明
- ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
- > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
+ ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
+ > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
+ ## [网络诈骗分析，黑客如何从美国一家公司夺走1500万美元？](http://netsecurity.51cto.com/art/202010/627822.htm)
+ > 经验丰富的诈骗犯在仔细地处理了一份电子邮件妥协案后，从一家美国公司手中夺走了1500万美元，这项妥协花了
 # 人工智能 
- ## [架构图、用例图、流程图、时序图、类图](https://blog.csdn.net/qq_43762191/article/details/108928391)
- > 架构图、用例图、流程图、时序图、类图
- ## [你有想过，如何用Hadoop实现【倒排索引】？](https://blog.csdn.net/weixin_44318830/article/details/108924003)
- > 你有想过，如何用Hadoop实现【倒排索引】？
- ## [从0开始实现SpringBoot入门程序及踩坑指南](https://blog.csdn.net/weixin_43883815/article/details/108916593)
- > 从0开始实现SpringBoot入门程序及踩坑指南
- ## [Kubernetes二进制部署（多节点）](https://blog.csdn.net/chengu04/article/details/108904028)
- > Kubernetes二进制部署（多节点）
- ## [系统架构设计师真题解析（5）—— 嵌入式系统](https://blog.csdn.net/deniro_li/article/details/108919230)
- > 系统架构设计师真题解析（5）—— 嵌入式系统
- ## [java中高级工程师面试汇总](https://blog.csdn.net/higherzjm/article/details/108917143)
- > java中高级工程师面试汇总
- ## [2020年最新Android开发工程师成长路线(架构师,职业规划,NDK,Flutter,Framework,UI,性能优化)](https://blog.csdn.net/wq6ylg08/article/details/108915417)
- > 2020年最新Android开发工程师成长路线(架构师,职业规划,NDK,Flutter,Framework,UI,性能优化)
- ## [2020-10-04：java中GC Root 对象有哪些？](https://blog.csdn.net/weixin_48502062/article/details/108922830)
- > 2020-10-04：java中GC Root 对象有哪些？
- ## [作为程序员为什么要阅读源码](https://blog.csdn.net/trntaken/article/details/108916392)
- > 作为程序员为什么要阅读源码
- ## [【消息队列 005】RocketMQ概要](https://blog.csdn.net/qq_36963950/article/details/108814422)
- > 【消息队列 005】RocketMQ概要
- ## [使用ThreadLocal来减低耦合，减少依赖](https://blog.csdn.net/mighty_Jon/article/details/108929984)
- > 使用ThreadLocal来减低耦合，减少依赖
- ## [互联网协议 — gRPC 谷歌远程过程调用](https://blog.csdn.net/Jmilk/article/details/108923008)
- > 互联网协议 — gRPC 谷歌远程过程调用
- ## [\[读书笔记\]\[从Paxos到Zookeeper分布式一致性原理与实践\] 1. 分布式系统原理和理论](https://blog.csdn.net/nzealand/article/details/108922161)
- > \[读书笔记\]\[从Paxos到Zookeeper分布式一致性原理与实践\] 1. 分布式系统原理和理论
- ## [【渣男小四】JVM系列(1)：双亲委派机制和沙箱安全机制](https://blog.csdn.net/qq_41875121/article/details/108931010)
- > 【渣男小四】JVM系列(1)：双亲委派机制和沙箱安全机制
- ## [系统架构设计笔记（94）—— 硬件抽象层](https://blog.csdn.net/deniro_li/article/details/108919150)
- > 系统架构设计笔记（94）—— 硬件抽象层
+ ## [【TCP/IP详解】概述网络分层以及协议介绍](https://blog.csdn.net/l_ppp/article/details/108925528)
+ > 【TCP/IP详解】概述网络分层以及协议介绍
+ ## [node.js连接mysql数据库，封装成api。](https://blog.csdn.net/gitchatxiaomi/article/details/108931771)
+ > node.js连接mysql数据库，封装成api。
+ ## [【学习笔记】学习Docker，看完这篇超详细的教程就足够了](https://blog.csdn.net/weixin_43246215/article/details/108934216)
+ > 【学习笔记】学习Docker，看完这篇超详细的教程就足够了
+ ## [Hadoop源代码分析【1-5】](https://blog.csdn.net/weixin_44318830/article/details/108937196)
+ > Hadoop源代码分析【1-5】
+ ## [数据结构与算法——栈](https://blog.csdn.net/pyx2466079565/article/details/108934533)
+ > 数据结构与算法——栈
+ ## [Flutter Android 调试桥 (adb)](https://blog.csdn.net/u013491829/article/details/108922789)
+ > Flutter Android 调试桥 (adb)
+ ## [Windows 帮助与支持自动跳出来、每次关机都自动更新系统，这如何关掉？](https://blog.csdn.net/HYD696/article/details/108934472)
+ > Windows 帮助与支持自动跳出来、每次关机都自动更新系统，这如何关掉？
+ ## [叹为观止！GitHub标星过万，腾讯技术官发布的这份“神仙文档”图解网络，简直是秋招福音](https://blog.csdn.net/m0_50180963/article/details/108944101)
+ > 叹为观止！GitHub标星过万，腾讯技术官发布的这份“神仙文档”图解网络，简直是秋招福音
+ ## [五年Java开发经验，4面阿里成功拿下offer，分享一下个人面经！](https://blog.csdn.net/yelvgou9995/article/details/108942480)
+ > 五年Java开发经验，4面阿里成功拿下offer，分享一下个人面经！
+ ## [防止企业初建站的那些坑。](https://blog.csdn.net/laozhaodehao/article/details/108937978)
+ > 防止企业初建站的那些坑。
+ ## [别再问我“阿里架构师和普通程序员的区别了！”看完这篇文章之后你就知道自己差在哪了！](https://blog.csdn.net/a159357445566/article/details/108938714)
+ > 别再问我“阿里架构师和普通程序员的区别了！”看完这篇文章之后你就知道自己差在哪了！
+ ## [万达保安“苦修Java”，7个月破茧成蝶，如今薪资翻了4倍](https://blog.csdn.net/m0_46757769/article/details/108940991)
+ > 万达保安“苦修Java”，7个月破茧成蝶，如今薪资翻了4倍
+ ## [OSPF协议总结(2)](https://blog.csdn.net/qq_43710889/article/details/108940706)
+ > OSPF协议总结(2)
+ ## [dp 力扣 72. 编辑距离](https://blog.csdn.net/qq_46039856/article/details/108914633)
+ > dp 力扣 72. 编辑距离
+ ## [【算法与数据结构 11】如何运用递归算法，看这一篇就够了！](https://blog.csdn.net/wjinjie/article/details/108931484)
+ > 【算法与数据结构 11】如何运用递归算法，看这一篇就够了！
 
     
