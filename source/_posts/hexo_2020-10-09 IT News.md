@@ -1,29 +1,49 @@
 ---
 title: 2020-10-09 IT News
 copyright: true
-date: 2020-10-09 12:01:47
+date: 2020-10-09 17:01:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [民主党人反垄断报告指控谷歌、脸书等拥有“垄断权力”，使其业务面临被拆分风险](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=E7GKJtLtPg2bN8hyJMnr4qtO9meAjxQzSyLPWxdVe2-QFgwNrFNr0OX*u4OduGI6*hx92WNrkzBVKTGcnDyjme6h8q3QUocAmjBfpbryuIY=&new=1)
- > 【环球网报道 记者 侯佳欣】当地时间10月6日，美国众议院司法委员会反垄断小组委员会发布了一份长达450页的调查报告。报告得出的结论是，谷歌、亚马逊、苹果及脸书等科技公司享有垄断权力，报告还建议美国国会对...
- ## [\[科技早报7点整\]特朗普要对蚂蚁、腾讯支付系统下手 苹果等科技巨头被指滥用垄断权……](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=v8RzWkTR2JUxpzIZ555UbjW492tDJok*9FYSXgplH8sDkKZPfzHMeU4qmlhPOUppMvuhs9bafFdhcLGAHYeEJCID1TDfKJz0xeWMgAgLl2dELQrLZHYg0y*VLvriEBVm&new=1)
- > 早上好，科技圈【一度蜜科技早报】第940期1.中国银联：十一前7天消费金额2.16万亿 从中国银联了解到，国庆长假前7天（1至7日）银联网络的交易金额达到2.16万亿元，相比去年同期增长了6.3%；今年国庆与中秋双节合...
- ## [2020北京车展观展报告(附40页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=2VfOMtptWCzBlGn*f*Hm7cjYw0Q0BuKqQQS6FWr2UmkOx1-v0xbGRLoz*ZGJUjdC9rR9KhfV3rn63bWI*nDRqO6MPFu-gtGDQ8eCwo*yBZGHcNiBg0GKpNY888GOAFuv&new=1)
+ ## [基于安全考虑微软支持Win10部署阶段更新Defender反病毒软件](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=nO5fRCi-suWCrMUpmYGVyqMpPI8hVt7dWvw*nynik6hfcZl8FFS8DmT5zH2zR8LzZy9GHvYBIZupVeTsIQ*73HydRGWFhn8YMI8yrbtJ7Ozuy4Ou9CPjL-tVt-KKMu*m&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全10月9日讯 近日，微软发布了一个新工具，旨在让用户可以更新最新版本的 Microsoft Defender 进而保护已安装的 Windows 10 和 Window
+ ## [智能汽车操作系统之争：两条路线仍在博弈](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=-754emND76FbK5sxSrKGBhT76OGU5XBH9sJQL0T3KZAaojkulN*fRgmSux1GLU9*r8v5oBQhL5z-RlIs0d9IjdaK1hteY1QdR9pjlUjdwdtE8OIVuCUncR0R-J4MEI-L&new=1)
+ > 截至10月9日8:12，全球新冠肺炎累计确诊36424979例，死亡1060302例。关注全球新冠肺炎疫情动态，请扫描下方二维码↓↓↓记者丨黄辛旭汽车产业正面临巨大变革，“智能座舱”、“人机交互”已成为当下汽车业的热点...
+ ## [苹果版「小程序」是给 AR 眼镜准备的吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=lXgqMjaj2WxPUHpA3UxEJTeXY3VTWIBuO5jDjf8B5PU9r*Su*tf0rA70LQWyqB2anIekzRBfeu9QRcdPuDKmfGptPqKd5o-y6DbjD96JvK6Zkk92twrWcxj08tKI7BaS&new=1)
+ > App Clips 的野心并不是和微信小程序抢生意。在今年 6 月的 WWDC 活动上，苹果发布了一项名为 App Clips（中文译名轻 App）的新功能，它可以通过提供一个小体积（＜10MB）的精简 app 来实现某些特定功能，Keyn
+ ## [\[5年预测系列\]2020~2025年全球晶圆代工产值CAGR可望达6.4%2024年或实现2纳米量产](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=5AMsghO5Fip0NADgNTefeJaGj-9OrA0E-EDIzM611wi0gvebW0N1imUjsYTKADRtDLyDf5kIGYQ6HsksrcUAQHzhPNEzj5rjjRhfOcdeQymV6lxqmxrUz-vfIWrKRfyN&new=1)
+ > 纵使新冠肺炎(COVID-19)疫情与中美贸易战干扰全球半导体供应链与相关需求，然在疫情衍生需求、供应链预防性备货、5G新兴应用商机浮出、5纳米先进工艺量产、业者扩产计划如期等供需面多项因素带动下，DIGITIMES R...
+ ## [300亿美元!传AMD将收购赛灵思，最快下周达成交易!](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=bK8Jqd2PXUFpAaek69tm8q72PoV4eMb1oVzsRwUg9wBGKqK8LVS9vxm6W*8qX2LpEwySfRzMgNCbLq9hFq66*D88SUEVFesoXV*Cj6VfV0HWInpIy81HQj5T57MHPq8a&new=1)
+ > 继英伟达宣布以400亿美元收购Arm之后，半导体行业或将迎来又一大并购案：AMD（Advanced Micro Devices Inc.）或将斥资超300亿美元收购赛灵思（Xilinx Inc.）。据华尔街日报援引知情人士的消息称，目前AM
+ ## [盘点|“卡脖子”的35项关键技术总览!](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=xAoOyUo4DjV*oQ75Rw1lExRvrhAsnAk8VQTtC18MyDHWd372dImVIt7T1bR*YL9iFsPg-rOGjG*VkJoDZPgKVf97zC2eTGpRCAaNudvDynvhrJJZIBZj-Qv4XRsOqDMa&new=1)
+ > 来源：旺财芯片ID：wc_ysj科技日报曾推出系列文章报道制约我国工业发展的35项“卡脖子”技术，引起了广泛关注与讨论。9月16日，中科院院长白春礼在中国科学院“率先行动”计划第一阶段实施进展发布会上表示：面...
+ ## [字节跳动飞书诚邀伙伴共征企服蓝海](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=oMjMaDMyTHSELjI9gE4cIfYf-SBiDB2uHSw*6s4gQc5yjFnyI4viykW5gaXwsfELDWqUOelQ5gG07tcJRo2mzTns-jNdo8qC27cYBGbTRrupHTHxiqcyjVuAViC36N3k&new=1)
+ > 2020年3月，各家互联网厂商开启了协同办公平台免费策略。互联网平台的协同产品在短时间内快速占领了中小微企业市场，通过规模效应很快极大地提升了企业服务的经验，通过经验的积累，又实现了产品的快速迭代升级...
+ ## [企业现在需要采用的三大数据连续性技术](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=qM53JAs1Or9ND*BXsL0B8fobZ-KdG5YEK-nQPMpD6FP4WjYlrQewqILBNkjIZXHEKrZvbNm-0VompUN7mOC*SiPGbH9n5aXdx8a4nbrlHOhE0PnngICEM*dbLdc0emSh&new=1)
+ > 关键讯息，D1时间送达！无论是应对当前的冠状病毒疫情，还是预期未来可能发生的自然灾害，企业都必须敏锐地意识到这些危机可能对员工造成的影响。因此，企业的连续性计划必须涵盖保持业务运营持续发展所需的技术...
+ ## [应用安全的十二个最低参照基准](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=aJZ0Xb1Ksz0PFd9fEzGO2GWYSiJJt5Qr35-J3mubiP-cw9ZFyBpQnsqA-mslQyuAfFkFhqip0VQeZ5zzVt5LkBKEKFUMgJRHCpA2x45tuWBEn2WU41VteH8Nls-9R8T1&new=1)
+ > 应用程序安全方法论和最佳实践已经有十多年的历史，其中“安全开发成熟度模型”（BSIMM）是被企业采用多年，用来跟踪安全开发成熟度进度的重要模型。上周，Synopsys发布了基于BSIMM11模型的报告，对基于金融服务...
+ ## [再创历史!谷歌Waymo拿掉人类司机，无人出租服务向公众开放](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=qvPmWo5w5Qmwf5eiROfwnlUmjaT3Czo*E6Z3t8O3B7GUMPxp-WqAXju3eyd0X6rhKNmjJaAzL0b21Xg-xTIY6jYuW57LJuacFNwWotqT0lCbio0p53lCtnt32NkEqCDo&new=1)
+ > 完全无人驾驶出租车向公众开放！第一个吃螃蟹的还是Waymo 。文｜Juice车东西10月9日消息，美国时间10月8日，谷歌母公司旗下自动驾驶子公司Waymo宣布将在凤凰城向公众开放没有安全员的无人驾驶出租车服务，这也是...
+ ## [华为出售荣耀为不实消息，赵明曾在内部否认；迅雷前CEO陈磊涉嫌职务侵占罪被调查；Python 3.9发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=pYzRyujJLWFStk1ifL2cuNg76EWafq9bycPJUdru10q5eTyfffCHoAZ3o0zlAxBP9fEXewbJODFgWsh6pRIAwJZ8g7LDJ7E8k9Tp5*9IvyacIOJmxnJmEk8pCndQef7y&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
+ ## [2020北京车展观展报告(附40页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=2VfOMtptWCzBlGn*f*Hm7cjYw0Q0BuKqQQS6FWr2Umkkea6zntGBvXxpqrVwJFGd6s-lnKx2N6JdaAXxHvx*G2l19kYWZ1dZVDnPmiwT9o2i3akCcZQiQWCnWGI2hfSj&new=1)
  > 9月26日，受疫情影响延迟近半年的2020北京车展开幕。《电动汽车观察家》统览所有展馆，将智能电动汽车展览动态和所在车企技术、企业动态整合，推出《2020北京车展观展报告》。以下为报告节选：......文│电动汽...
- ## [7点见|华为否认出售荣耀；迅雷前CEO遭立案调查；黄峥激励全员开启奋斗模式](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=XuCGxmYhFi9BjTH-P287ny-sTQpmZtD5eVrp5vNasbs4mN4k2UGab*kc9eNngSYMxu3cGRapuwfRy0fnwcDpcnTwQeZcomu2uyUbWxuvkhd5iSrHfZpcg5iJJuQxVdxq&new=1)
+ ## [寻找中国的Snowflake](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=7yH*jqP52ABsIcJH02EYOS3ExT9WJnrOjrQsRbSTDRXhqRZfcB09XV-FXkOWd07*3QsNG0gvRZTgLjImcT4nk0Uun5oMkAYPII5MnePZ3jTzvq6B0J8SHVZMw7*RTyTl&new=1)
+ > 作者丨leon ye邮箱丨yeliyan@pingwest.com再不关注Snowflake，也许对投资的你来说，会是一场Snowslide（雪崩）。美国云数据公司Snowflake近期完成备受瞩目的首次公开募股IPO。这匹云端独角兽创造了
+ ## [民主党人反垄断报告指控谷歌、脸书等拥有“垄断权力”，使其业务面临被拆分风险](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=E7GKJtLtPg2bN8hyJMnr4qtO9meAjxQzSyLPWxdVe2-NtBdQvxSCOaUOjNkvojzXzHAYJsYVlRWs7cyg785ew5Bgbh1Pc0gH4pCHUbSjHxk=&new=1)
+ > 【环球网报道 记者 侯佳欣】当地时间10月6日，美国众议院司法委员会反垄断小组委员会发布了一份长达450页的调查报告。报告得出的结论是，谷歌、亚马逊、苹果及脸书等科技公司享有垄断权力，报告还建议美国国会对...
+ ## [\[科技早报7点整\]特朗普要对蚂蚁、腾讯支付系统下手 苹果等科技巨头被指滥用垄断权……](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=v8RzWkTR2JUxpzIZ555UbjW492tDJok*9FYSXgplH8vFvGpVVCS76HEcvp6HU9R5Fdq1WaJh70ecbzBV3vAN-Z9QoLQDBRKh7UTBR8V2LQE8T8CcGCzSZO*-IrvdUdkE&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第940期1.中国银联：十一前7天消费金额2.16万亿 从中国银联了解到，国庆长假前7天（1至7日）银联网络的交易金额达到2.16万亿元，相比去年同期增长了6.3%；今年国庆与中秋双节合...
+ ## [7点见|华为否认出售荣耀；迅雷前CEO遭立案调查；黄峥激励全员开启奋斗模式](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=XuCGxmYhFi9BjTH-P287ny-sTQpmZtD5eVrp5vNasbtfgIa5nwpr1okpN6ZeORh5nUC6ToH3OutVAW5QHC97yoOGDawwZnNqRl*2XXoFO2nrejGJeK*GqyTV54R2BbFZ&new=1)
  > 各位小伙伴早上好呀！嘀嗒出行向港交所递交上市申请。2017年、2018年、2019年嘀嗒出行搭乘订单分别为2,360万份、4,820万份和1.79亿份。如今滴滴顺风车回归，你看好嘀嗒出行的未来吗？以下是今天的早报！知情人士...
- ## [在不确定性中立足不败，微软给你答案!](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=y7xkcyuZGsU-MURpHpFOBa6QYPbOq*pOq2y4m0UZXeI6*SpZYfQceff2Fi2JaFrQP4yYmTQWWtgyPiFejBQwN6gQtBA9h6pjIcIhKkNKJXSq9moxf*SvdZ6fGadb96Wr&new=1)
+ ## [在不确定性中立足不败，微软给你答案!](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=y7xkcyuZGsU-MURpHpFOBa6QYPbOq*pOq2y4m0UZXeL13lNFNhSH*E69NeqnGrKLl90AdzWvIth1u0Fa6AFMJBGcxS0ngj*-rMfb4*HX8gjda82vTNw6nVV1E-X8U*cL&new=1)
  > （本文阅读时间：5分钟）2020 年是特殊的一年，微软全球首席执行官 Satya Nadella 也曾在三月财报发布时表示“在两个月内，我们见证了两年才能实现的数字转型进展。”—Satya Nadella 微软全球首席执行官毋庸置...
- ## [5G网络与地铁开通神同步：揭秘“5G新基建”如何高质量布局](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=T2XbCAbN9KJeFiZZ5P6Xl3TevjRC7BPETa3YkrYEdmLnF0nXYI0JA*Pc0zj0H*OOmgMLI7fR8tuEr*CBTxWuxOA93v7WI0qu2a8HeQkz7KxygZAxSpmujLFvh1bRVuGB&new=1)
+ ## [5G网络与地铁开通神同步：揭秘“5G新基建”如何高质量布局](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=T2XbCAbN9KJeFiZZ5P6Xl3TevjRC7BPETa3YkrYEdmKElGCrNTxQFAiaNO81oGgZEfPjGXCBWFOoNyC-71YepDHr2-GvfKCqcOAo6H9x*UILN0QIl0UwfiVoYTNIUiTI&new=1)
  > 呼和浩特，内蒙古自治区首府，昵称呼市，是国务院批复确定的中国北方沿边地区重要的中心城市，内蒙古自治区的政治、经济、文化中心，国家历史文化名城。大城当有大布局，今年国家战略部署“新基建”，5G与轨道交...
- ## [苏州高新区党工委书记、虎丘区委书记方文浜莅临蓝海彤翔调研指导](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=dluMig-8j1U1wB9-7GO7WGzJl-IDXkoMhAkxlPIUN89HKd8q*vhoyDdjtB1jZKjejhcj9XgSQ6JzU9SJx2mYcaVKeuinJVFOX00o2eHvGNoUyDQR0LVkoawGFuvzXbyW&new=1)
+ ## [苏州高新区党工委书记、虎丘区委书记方文浜莅临蓝海彤翔调研指导](http://mp.weixin.qq.com/s?src=11&timestamp=1602234004&ver=2633&signature=dluMig-8j1U1wB9-7GO7WGzJl-IDXkoMhAkxlPIUN8-Mzzpu9IwJLUleCvuA7qv7xv9T*WM5j9PHtkNx3Kq*7cUOONpWJCdGnYX6CjN73UQA-JX0swIB0c7lIBICS00a&new=1)
  > 10月8号下午，苏州高新区党工委书记、虎丘区委书记方文浜，高新区党工委委员、宣传部部长朱奚红，苏州高新区文化体育和旅游局副局长苏久华（主持工作）等一行莅临蓝海彤翔调研，蓝海彤翔集团董事长鲁永泉博士、...
- ## [对于日渐成熟的Quest生态，独立开发者怎么看](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=1OkN2njdpHfE9Mfnq-xqyvTjlrzrEhOoz6DdRinTAjwO1wbspszbEUd1-OXelTOs1bsu*roYBErP7u4xiPnsHHtNC4a8orvLqP*a8O7NAg2JNI54Oj0SOzb*bCFiTzbM&new=1)
- > Esther｜撰文为摆脱苹果、安卓两大移动平台的分成，Facebook决心构建自己的完整XR生态。这是Facebook布局多年的一个方向，而且伴随着Quest系列一体机硬件的快速迭代发展，其VR生态已经越发成熟。看起来，以Quest...
- ## [与设备商抢食，微软杀入5G市场](http://mp.weixin.qq.com/s?src=11&timestamp=1602216004&ver=2633&signature=mCjj02DS2BwOK*xaQmYBkRXSG52fDxCQxo9-8wmAoIzY71zhLVCCscYgHfLkkzIs41MNupYVWqhuVXdqw1SrvPfG8cvsP3TtVMHu2vq5X*MlFyUCNRAl8fztItL-QqYN&new=1)
- > 不久前，微软推出面向运营商的Azure。Azure for operators面向运营商的Azure微软的战略很明确，就是向全球运营商提供产品和服务。这意味着这家云巨头正式杀入电信市场，或将与传统设备商们抢食分羹。什么是“面...
 # IT 技术 
  ## [面试了一个39岁程序员，我有点慌……](http://news.51cto.com/art/202010/627941.htm)
  > 面试了一个39岁程序员，我有点慌……
@@ -39,59 +59,59 @@ categories: IT NEWS
  > 考虑文件存储现代化的五个关键标志
  ## [如何教会AI像人类一样进行规划？](http://ai.51cto.com/art/202009/627731.htm)
  > 如何教会AI像人类一样进行规划？
- ## [MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05](http://fellow.51cto.com/art/202008/622837.htm?qd=51ctojrzd)
- > MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05
- ## [在鸿蒙（HarmonyOS）环境下，优雅的完成Http访问网络【教程】](http://os.51cto.com/art/202010/627911.htm)
- > 网络请求在现代的应用开发中必不可少，我们熟知的网络请求框架还真不少，像HttpCient、HttpCient还有volley
- ## [如何在Linux中创建/配置LVM（逻辑卷管理）](http://os.51cto.com/art/202010/627962.htm)
- > 逻辑卷管理（LVM）在 Linux 系统中扮演着重要的角色，它可以提高可用性、磁盘 I/O、性能和磁盘管理的能力。
- ## [漫画：为什么C语言永不过时？](http://zhuanlan.51cto.com/art/202010/627961.htm)
- > 古老的C语言从1972诞生以后，一直都非常强大，这里的臣民对它又爱又恨。
- ## [安装Powerline并配置Vim、Bash、tmux、IPython、pdb](http://os.51cto.com/art/202010/627958.htm)
- > 本文主要介绍基于Powerline的CLI美化配置。
- ## [哦！数组还能这么用，学到了！](http://developer.51cto.com/art/202010/627952.htm)
- > 即结构体的最后一个成员，可以不完整类型(一种缺乏足够的信息去描述一个完整对象的类型)的数组，但它使得整
- ## [大规模运营云计算服务的6个复杂性挑战](http://cloud.51cto.com/art/202010/627947.htm)
- > 企业扩展其应用程序以满足业务需求并不少见，但是他们需要意识到运营云计算环境面临的复杂性问题。
- ## [企业应避免的6个大数据失误](http://bigdata.51cto.com/art/202010/627946.htm)
- > 如今，大量的数据在现代商业环境中无处不在，并且对于企业运营变得至关重要。那么大数据如何进入企业业务领
- ## [研究表明人工智能如何在手术后帮助减少阿片类药物的使用](http://ai.51cto.com/art/202010/627945.htm)
- > 宾夕法尼亚大学医学院日前进行的一项研究表明，如何利用人工智能来对抗阿片类药物滥用。人工智能着重于一个
- ## [5G经济的五个关键成功因素](http://network.51cto.com/art/202010/627942.htm)
- > 波士顿咨询集团(BCG)发布的一份调查报告显示，企业决策者应关注五个关键的成功因素，以确保美国继续建设其
- ## [Python3.9正式发布，16岁高中生自制「新特性必知图」](http://news.51cto.com/art/202010/627948.htm)
- > 为了更好地理解此次更新，Twitter上一位16岁少年Pratham Prasoon，还自制了一张「Python 3.9新特性必知图」
+ ## [面向对象C零基础入门精讲视频教程（10）正则表达式及应用](http://fellow.51cto.com/art/202007/622207.htm?qd=51ctojrzd)
+ > 面向对象C零基础入门精讲视频教程（10）正则表达式及应用
+ ## [中小企业如何把握数字化转型机遇](http://www.cioage.com/art/202010/628009.htm)
+ > 目前，中小微企业占我国全部企业数量的99%以上，贡献了七成以上的技术创新成果，是我国产业结构转型升级的
+ ## [人工智能技术助力民族语言保护大有可为](http://ai.51cto.com/art/202010/628008.htm)
+ > 当前，随着经济、文化互动的全球化，主流或通用语言更加强势，弱势语言正濒临消亡。目前世界上大约有7000
+ ## [黄金周旅游大数据：游客接待逾6亿人次，旅游收入逾4543亿元](http://bigdata.51cto.com/art/202010/628007.htm)
+ > 随着人们纷纷返程，2020年加长版中秋国庆黄金周已近尾声。10月8日，文化和旅游部数据中心测算，国庆假期1-7
+ ## [关于C编程语言，几乎没有人知道的事](http://developer.51cto.com/art/202010/628006.htm)
+ > 首先话不多说，直接给您去介绍咯。在C语言中，您可以在类型转换中，运算符内部，函数声明中声明新类型。siz
+ ## [如何维护互联网信息安全？安全认证已启动，18款APP进入名单](http://netsecurity.51cto.com/art/202010/628004.htm)
+ > 随着移动互联网的渗透率不断提升，手机APP几乎是每个人日常离不开的东西。但是，你是否对APP的安全存有疑虑
+ ## [更大的模型并不总是更好的模型，微型机器学习将是未来的方向](http://ai.51cto.com/art/202010/628003.htm)
+ > 本文的目的是向读者介绍小型机器学习的概念及其未来潜力。在本系列的后续文章中，将对特定的应用程序，实现
+ ## [Wi-Fi 6创造了新的物联网机会和新的测试要求](http://iot.51cto.com/art/202010/628001.htm)
+ > Wi-Fi是今年许多人改变生活方式的基础，对企业来说也是如此。这场大流行与Wi-Fi 6（802.11ax）的商业化同时
+ ## [大数据告诉你，今年国庆假期出游有多“火”？](http://bigdata.51cto.com/art/202010/628000.htm)
+ > “简直就像过年一样！”这是众多游客及旅游业者对今年国庆中秋假期的直观感受。来自文旅部门及旅游企业的大
+ ## [李开复对话彭特兰：AI不是单打独斗，应避免AI冷战](http://ai.51cto.com/art/202010/627999.htm)
+ > 近日，创新工场董事长兼CEO李开复博士与阿莱克斯・彭特兰教授(Alex Pentland)展开了一场”AI如何重塑人类社
+ ## [培训机构出来的程序员：简历不造假，根本就找不到工作](http://news.51cto.com/art/202010/627996.htm)
+ > “这一行，如果简历不造假，不包装一下自己，根本就找不到工作!”一位从培训机构培训出来的程序员如此告诉
 # 人工智能 
- ## [手把手教你 Linux 三种网络配置方法](https://blog.csdn.net/qq_29339467/article/details/108952531)
- > 手把手教你 Linux 三种网络配置方法
- ## [微信小程序 - 获取用户手机屏幕高度与宽度（两种方案）](https://blog.csdn.net/weixin_44198965/article/details/108965722)
- > 微信小程序 - 获取用户手机屏幕高度与宽度（两种方案）
- ## [卧槽，牛皮了！GitHub大牛呕心沥血整理的5000页Java学习手册文档](https://blog.csdn.net/weixin_45132238/article/details/108962646)
- > 卧槽，牛皮了！GitHub大牛呕心沥血整理的5000页Java学习手册文档
- ## [大数据介绍和集群安装--hadoop](https://blog.csdn.net/bigdatahyy/article/details/108955041)
- > 大数据介绍和集群安装--hadoop
- ## [一个网站是怎么搭建与运营的？](https://blog.csdn.net/Stydwn/article/details/108962114)
- > 一个网站是怎么搭建与运营的？
- ## [kubernets多节点和负载均衡部署 K8S](https://blog.csdn.net/weixin_46355881/article/details/108952368)
- > kubernets多节点和负载均衡部署 K8S
- ## [我想建立网站，网站搭建需要哪些大体步骤？](https://blog.csdn.net/weixin_44075041/article/details/108962209)
- > 我想建立网站，网站搭建需要哪些大体步骤？
- ## [网站好的建设方案](https://blog.csdn.net/ytytytytytytyt01/article/details/108962658)
- > 网站好的建设方案
- ## [【学习笔记】学习Docker，看完这篇超详细的教程就足够了](https://blog.csdn.net/weixin_43246215/article/details/108934216)
- > 【学习笔记】学习Docker，看完这篇超详细的教程就足够了
- ## [网站模板建站和定制网站哪个更适合中小企业？](https://blog.csdn.net/Liuwj_01/article/details/108961953)
- > 网站模板建站和定制网站哪个更适合中小企业？
- ## [有没有好多建站方案？？？](https://blog.csdn.net/qq_44116786/article/details/108962634)
- > 有没有好多建站方案？？？
- ## [同事跳槽美团后，分享给我一份JAVA核心手册（架构筑基+开源框架+分布式架构+微服务架构+性能调优）](https://blog.csdn.net/bjmsb/article/details/108949916)
- > 同事跳槽美团后，分享给我一份JAVA核心手册（架构筑基+开源框架+分布式架构+微服务架构+性能调优）
- ## [如何建立一个网站](https://blog.csdn.net/YeArshot/article/details/108961857)
- > 如何建立一个网站
- ## [大数据简介](https://blog.csdn.net/unclever_behurt/article/details/108954783)
- > 大数据简介
- ## [为什么要去 GoDaddy买域名](https://blog.csdn.net/Stydwn/article/details/108962125)
- > 为什么要去 GoDaddy买域名
+ ## [大学如何学习——我的五年失败经验总结](https://blog.csdn.net/qq_35357274/article/details/108947961)
+ > 大学如何学习——我的五年失败经验总结
+ ## [30岁Java开发，失业海投35家简历石沉大海，我的代码生涯该如何？](https://blog.csdn.net/m0_46757769/article/details/108955495)
+ > 30岁Java开发，失业海投35家简历石沉大海，我的代码生涯该如何？
+ ## [找工作，却没有拿得出手的项目怎么办？](https://blog.csdn.net/javachengzi/article/details/108955924)
+ > 找工作，却没有拿得出手的项目怎么办？
+ ## [月薪破万必备知识库之java程序员的IDEA 常用的进阶级快捷键](https://blog.csdn.net/weixin_42949808/article/details/108947275)
+ > 月薪破万必备知识库之java程序员的IDEA 常用的进阶级快捷键
+ ## [失业日记 9月30日](https://blog.csdn.net/ghossst2003/article/details/108945366)
+ > 失业日记 9月30日
+ ## [大学教编程的老师为何不去当高收入的程序员？](https://blog.csdn.net/wjg8209/article/details/108930325)
+ > 大学教编程的老师为何不去当高收入的程序员？
+ ## [《PHP挖宝》介绍](https://blog.csdn.net/HyperQing/article/details/108959324)
+ > 《PHP挖宝》介绍
+ ## [连Linux的开机流程都不了解，怎么好意思说自己是程序员？](https://blog.csdn.net/weixin_44895651/article/details/108741079)
+ > 连Linux的开机流程都不了解，怎么好意思说自己是程序员？
+ ## [使用爬虫增加博客访问量（源代码+代码说明）](https://blog.csdn.net/qq_34769162/article/details/108953143)
+ > 使用爬虫增加博客访问量（源代码+代码说明）
+ ## [「BB人生」25年读书生涯，我来给你们爆照了](https://blog.csdn.net/L15519543837/article/details/108946034)
+ > 「BB人生」25年读书生涯，我来给你们爆照了
+ ## [makefile生成多个目标文件的写法(linux程序员必须掌握的程序编译技能）](https://blog.csdn.net/weixin_49199646/article/details/108956086)
+ > makefile生成多个目标文件的写法(linux程序员必须掌握的程序编译技能）
+ ## [想做分布式开发，需要懂哪些技术？](https://blog.csdn.net/Follow_24/article/details/108957113)
+ > 想做分布式开发，需要懂哪些技术？
+ ## [程序员必备的几个网站](https://blog.csdn.net/nbxuwentao/article/details/108947248)
+ > 程序员必备的几个网站
+ ## [想转行做软件测试？快来看看你适不适合](https://blog.csdn.net/weixin_50271247/article/details/108951197)
+ > 想转行做软件测试？快来看看你适不适合
+ ## [失业日记 10月7日](https://blog.csdn.net/ghossst2003/article/details/108958721)
+ > 失业日记 10月7日
 # PM 
  ## [产品经理面试，如何介绍自己的优势和劣势？](http://www.chanpin100.com/article/112773)
  > 希望你不再纠结~
