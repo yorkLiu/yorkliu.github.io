@@ -1,54 +1,62 @@
 ---
 title: 2020-10-09 IT News
 copyright: true
-date: 2020-10-09 09:01:48
+date: 2020-10-09 10:03:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [对于日渐成熟的Quest生态，独立开发者怎么看](http://mp.weixin.qq.com/s?src=11&timestamp=1602205204&ver=2633&signature=1OkN2njdpHfE9Mfnq-xqyvTjlrzrEhOoz6DdRinTAjzj5dJ3kNnFjZFO-Z90C7XnSY1YnzKMykGoVzWdSP*FUKeRVxE2LzCtoaEZERQ-R34I2ZQv4NwK2ginHyvgzkkH&new=1)
- > Esther｜撰文为摆脱苹果、安卓两大移动平台的分成，Facebook决心构建自己的完整XR生态。这是Facebook布局多年的一个方向，而且伴随着Quest系列一体机硬件的快速迭代发展，其VR生态已经越发成熟。看起来，以Quest...
- ## [苏州高新区党工委书记、虎丘区委书记方文浜莅临蓝海彤翔调研指导](http://mp.weixin.qq.com/s?src=11&timestamp=1602205204&ver=2633&signature=dluMig-8j1U1wB9-7GO7WGzJl-IDXkoMhAkxlPIUN8-l8i6VMXDeJeDibcr0pLgFYXvNV7mlWU8f0h7f3*6n*U1rqw**1mDy3tcU7FB5fTnaqL9cdvw2VbUFW7subA4F&new=1)
- > 10月8号下午，苏州高新区党工委书记、虎丘区委书记方文浜，高新区党工委委员、宣传部部长朱奚红，苏州高新区文化体育和旅游局副局长苏久华（主持工作）等一行莅临蓝海彤翔调研，蓝海彤翔集团董事长鲁永泉博士、...
- ## [与设备商抢食，微软杀入5G市场](http://mp.weixin.qq.com/s?src=11&timestamp=1602205204&ver=2633&signature=mCjj02DS2BwOK*xaQmYBkRXSG52fDxCQxo9-8wmAoIx2-M5JdAbOrLjIt7dJL-aVO1kjUSz1mkc7sAsplqw2l7awapPXUKAhsb8QgCNDSnNH69wZpmWlrxkOoJPE3mKu&new=1)
- > 不久前，微软推出面向运营商的Azure。Azure for operators面向运营商的Azure微软的战略很明确，就是向全球运营商提供产品和服务。这意味着这家云巨头正式杀入电信市场，或将与传统设备商们抢食分羹。什么是“面...
- ## [在不确定性中立足不败，微软给你答案!](http://mp.weixin.qq.com/s?src=11&timestamp=1602205204&ver=2633&signature=y7xkcyuZGsU-MURpHpFOBa6QYPbOq*pOq2y4m0UZXeINawa8eJMvd73wkoecXDN9KFIydcHVuCgLXpJMy8vq7En0sl6GCaBX7Pd*2wzRpa9enRHEUimP-IJwyR-m-DK*&new=1)
- > （本文阅读时间：5分钟）2020 年是特殊的一年，微软全球首席执行官 Satya Nadella 也曾在三月财报发布时表示“在两个月内，我们见证了两年才能实现的数字转型进展。”—Satya Nadella 微软全球首席执行官毋庸置...
- ## [5G网络与地铁开通神同步：揭秘“5G新基建”如何高质量布局](http://mp.weixin.qq.com/s?src=11&timestamp=1602205204&ver=2633&signature=T2XbCAbN9KJeFiZZ5P6Xl3TevjRC7BPETa3YkrYEdmId3TRJs4K*oY3LwndSdz6UFvFIfLOvMlQ5ND1shscetldi6NNaAidJG4fohAVe1s6JdLs5*1JUtWSEIscl*Q1b&new=1)
+ ## [5G网络与地铁开通神同步：揭秘“5G新基建”如何高质量布局](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=T2XbCAbN9KJeFiZZ5P6Xl3TevjRC7BPETa3YkrYEdmId3TRJs4K*oY3LwndSdz6UdbH4a4JmhBaTIvqK*WhXAOAEqhWk91V3GHWLXoTLccgXhP5Np3mqUk8lRKnuDy1T&new=1)
  > 呼和浩特，内蒙古自治区首府，昵称呼市，是国务院批复确定的中国北方沿边地区重要的中心城市，内蒙古自治区的政治、经济、文化中心，国家历史文化名城。大城当有大布局，今年国家战略部署“新基建”，5G与轨道交...
+ ## [7点见|华为否认出售荣耀；迅雷前CEO遭立案调查；黄峥激励全员开启奋斗模式](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=XuCGxmYhFi9BjTH-P287ny-sTQpmZtD5eVrp5vNasbs5ACbOXnPF5ehDjpFTIauGjn8kacTngIiSUW4FMqrz6**O*qmizhrLfVzg2L7nFvWq4oEU77eK-MuNAC1hroY0&new=1)
+ > 各位小伙伴早上好呀！嘀嗒出行向港交所递交上市申请。2017年、2018年、2019年嘀嗒出行搭乘订单分别为2,360万份、4,820万份和1.79亿份。如今滴滴顺风车回归，你看好嘀嗒出行的未来吗？以下是今天的早报！知情人士...
+ ## [在不确定性中立足不败，微软给你答案!](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=y7xkcyuZGsU-MURpHpFOBa6QYPbOq*pOq2y4m0UZXeINawa8eJMvd73wkoecXDN9bsTjDTo5i9LD8lsnK9KITk3VAq0y3NpxwlJKijrm3E8kqzOUYOfTNpU4DjmtuPxq&new=1)
+ > （本文阅读时间：5分钟）2020 年是特殊的一年，微软全球首席执行官 Satya Nadella 也曾在三月财报发布时表示“在两个月内，我们见证了两年才能实现的数字转型进展。”—Satya Nadella 微软全球首席执行官毋庸置...
+ ## [\[科技早报7点整\]特朗普要对蚂蚁、腾讯支付系统下手 苹果等科技巨头被指滥用垄断权……](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=v8RzWkTR2JUxpzIZ555UbjW492tDJok*9FYSXgplH8s4BqXl-sS5qQ91dEJof0JEVh2b*kO5gnUcH7*0hi9vxtu3j6j8nwY9T1ua97xypzPf2bUxkyfJ5s0sD-Whhg*v&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第940期1.中国银联：十一前7天消费金额2.16万亿 从中国银联了解到，国庆长假前7天（1至7日）银联网络的交易金额达到2.16万亿元，相比去年同期增长了6.3%；今年国庆与中秋双节合...
+ ## [苏州高新区党工委书记、虎丘区委书记方文浜莅临蓝海彤翔调研指导](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=dluMig-8j1U1wB9-7GO7WGzJl-IDXkoMhAkxlPIUN8-l8i6VMXDeJeDibcr0pLgFZRZ7Okfder19bxjKzGLXiw4oD5-EqUYqxVfIWxsa48bWeRg9MDRdKbKiXupyZPNR&new=1)
+ > 10月8号下午，苏州高新区党工委书记、虎丘区委书记方文浜，高新区党工委委员、宣传部部长朱奚红，苏州高新区文化体育和旅游局副局长苏久华（主持工作）等一行莅临蓝海彤翔调研，蓝海彤翔集团董事长鲁永泉博士、...
+ ## [对于日渐成熟的Quest生态，独立开发者怎么看](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=1OkN2njdpHfE9Mfnq-xqyvTjlrzrEhOoz6DdRinTAjzj5dJ3kNnFjZFO-Z90C7Xnei7-g4cZ-rliLbQhP7epiqmhsqkwreJUzW1PzVAG6yThZpjDwH0yLj69XqtWBCcR&new=1)
+ > Esther｜撰文为摆脱苹果、安卓两大移动平台的分成，Facebook决心构建自己的完整XR生态。这是Facebook布局多年的一个方向，而且伴随着Quest系列一体机硬件的快速迭代发展，其VR生态已经越发成熟。看起来，以Quest...
+ ## [与设备商抢食，微软杀入5G市场](http://mp.weixin.qq.com/s?src=11&timestamp=1602208804&ver=2633&signature=mCjj02DS2BwOK*xaQmYBkRXSG52fDxCQxo9-8wmAoIx2-M5JdAbOrLjIt7dJL-aVhjwlpnAcMCU8pH7j83UsY7Gj8vsWBf2VIjboOeomjhlIluuTWnZFZ5KS4Txghi0E&new=1)
+ > 不久前，微软推出面向运营商的Azure。Azure for operators面向运营商的Azure微软的战略很明确，就是向全球运营商提供产品和服务。这意味着这家云巨头正式杀入电信市场，或将与传统设备商们抢食分羹。什么是“面...
 # IT 技术 
- ## [动图演示：如何彻底理解红黑树？](http://developer.51cto.com/art/202010/627893.htm)
- > 动图演示：如何彻底理解红黑树？
- ## [考虑文件存储现代化的五个关键标志](http://stor.51cto.com/art/202010/627738.htm)
- > 考虑文件存储现代化的五个关键标志
+ ## [华为鸿蒙OS轻量内核设计理念与关键特性](http://os.51cto.com/art/202010/627909.htm)
+ > 华为鸿蒙OS轻量内核设计理念与关键特性
  ## [如何监控无服务器应用](http://developer.51cto.com/art/202010/627737.htm)
  > 如何监控无服务器应用
- ## [Kafka突然宕机了？稳住，莫慌！](http://developer.51cto.com/art/202009/627671.htm)
- > Kafka突然宕机了？稳住，莫慌！
- ## [是时候重新考虑如何设计和配置混合云和多云网络了](http://cloud.51cto.com/art/202009/627611.htm)
- > 是时候重新考虑如何设计和配置混合云和多云网络了
- ## [鸿蒙系统介绍和编译环境搭建](http://os.51cto.com/art/202009/627665.htm)
- > 鸿蒙系统介绍和编译环境搭建
- ## [云计算将如何彻底改变消费电子企业的未来？](http://cloud.51cto.com/art/202009/627612.htm)
- > 云计算将如何彻底改变消费电子企业的未来？
- ## [MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04](http://fellow.51cto.com/art/202008/623588.htm?qd=51ctojrzd)
- > MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04
+ ## [码农的996无法改变世界，在维多利亚时代就已被证明](http://news.51cto.com/art/202010/627775.htm)
+ > 码农的996无法改变世界，在维多利亚时代就已被证明
+ ## [考虑文件存储现代化的五个关键标志](http://stor.51cto.com/art/202010/627738.htm)
+ > 考虑文件存储现代化的五个关键标志
+ ## [如何教会AI像人类一样进行规划？](http://ai.51cto.com/art/202009/627731.htm)
+ > 如何教会AI像人类一样进行规划？
+ ## [动图演示：如何彻底理解红黑树？](http://developer.51cto.com/art/202010/627893.htm)
+ > 动图演示：如何彻底理解红黑树？
+ ## [微软AI要参加IMO竞赛！小目标：数学金牌](http://ai.51cto.com/art/202010/627784.htm)
+ > 微软AI要参加IMO竞赛！小目标：数学金牌
+ ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
+ > CSS 快速开发入门视频课程
+ ## [在鸿蒙（HarmonyOS）环境下，优雅的完成Http访问网络【教程】](http://os.51cto.com/art/202010/627911.htm)
+ > 网络请求在现代的应用开发中必不可少，我们熟知的网络请求框架还真不少，像HttpCient、HttpCient还有volley
+ ## [在GNOME中创建文档模板](http://os.51cto.com/art/202010/627919.htm)
+ > 我只是偶然发现了 GNOME 的一个新功能（对我来说是的）：创建文档模版。模版template也被称作样版文件boile
+ ## [中国5G基站已达60万个 5G投资为何要适度超前？](http://network.51cto.com/art/202010/627914.htm)
+ > 国庆长假期间热映的影片《我和我的家乡》中，一座矗立在农田中间的5G基站，彰显了中国5G建设的热情。国庆节
+ ## [物联网如何接管商用HVAC行业 物联网革命开启全新互联城市](http://iot.51cto.com/art/202010/627912.htm)
+ > 几年来，物联网(IoT)设备一直在缓慢地进入世界各地的家庭。在大多数情况下，采取的形式是智能扬声器，连接
+ ## [Python 炫技操作：模块重载的五种方法](http://developer.51cto.com/art/202010/627908.htm)
+ > 由于有 sys.modules 的存在，当你导入一个已导入的模块时，实际上是没有效果的。
+ ## [配置802.1x远端认证](http://network.51cto.com/art/202010/627907.htm)
+ > 为了保证网络的安全性，要求在用户接入网络时进行802.1x认证。认证服务器为两台Radius服务器，IP为10.10.10
+ ## [解密输入网址按回车到底发生了什么](http://os.51cto.com/art/202010/627906.htm)
+ > 详解输入网址点击回车，后台到底发生了什么。透析 HTTP 协议与 TCP 连接之间的千丝万缕的关系。掌握为何是
  ## [超过三分之二的欧洲企业采用零信任架构](http://zhuanlan.51cto.com/art/202010/627904.htm)
  > 根据Gigamon的一项新研究，超过三分之二(67%)的欧洲组织已采用或计划采用零信任框架以应对不断变化的威胁形
  ## [Python 3.9，来了！](http://developer.51cto.com/art/202010/627903.htm)
  > Python 3.9，来了!每个Python版本都包含新开发和改进的功能，Python 3.9也不例外。
  ## [POST请求和GET请求如何传递和接收解析参数](http://developer.51cto.com/art/202010/627901.htm)
  > 接口参数应该怎么传递是每个项目应该面对的问题，这跟编程语言无关，今天来总结一波常用的接口参数传递方式
- ## [微软解析新Edge浏览器的多进程体系结构](http://os.51cto.com/art/202010/627899.htm)
- > 今天的浏览器更像是操作系统，而不是文档查看器。用户在浏览器中执行的任务越来越多，而在桌面应用程序中执
- ## [只听说过用Python做爬虫，Java程序员笑了！](http://developer.51cto.com/art/202010/627897.htm)
- > 网络爬虫技术，早在万维网诞生的时候，就已经出现了，今天我们就一起来揭开它神秘的面纱!
- ## [通往百万年薪之路](http://news.51cto.com/art/202010/627896.htm)
- > 最近有不少读者问洋哥：“洋哥我怎么样才能年薪百万”、“洋哥，年薪百万生活是不是就无忧无虑了”。
- ## [Linux系统编程―共享内存之mmap](http://os.51cto.com/art/202010/627892.htm)
- > 共享内存是通信效率最高的IPC方式，因为进程可以直接读写内存，而无需进行数据的拷备。但是它没有自带同步
- ## [Python 为什么不支持 switch 语句？](http://developer.51cto.com/art/202010/627888.htm)
- > 主要是因为 switch 在其它语言中太常见了，而 Python 却不支持，这样的独特性本身就值得关注，而回答这个问
 # 人工智能 
  ## [来尝个鲜，Python3.8几大新功能体验，冲鸭！](https://blog.csdn.net/kMD8d5R/article/details/97066890)
  > 来尝个鲜，Python3.8几大新功能体验，冲鸭！
