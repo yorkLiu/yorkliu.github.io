@@ -1,38 +1,56 @@
 ---
 title: 2020-10-10 IT News
 copyright: true
-date: 2020-10-10 09:01:18
+date: 2020-10-10 10:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Desktop Metal为美国陆军开发硬质合金3D打印工艺](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=xzgwB1xW60oTIK2J6l*uhJgwcslbLnICAPUJOceYC8w9gyGZ5JX4acyY*Hq94Wiw0yeY*RLRqBLLZA2apT7bCnjmTGmA6SHKFAsyNROZjTHs23PcgKGz1EKBOSfjKUK9&new=1)
- > Desktop Metal将开发一种先进的增材制造（AM）工艺，该工艺能够为美国陆军批量生产不含钴的硬金属零件。这家位于波士顿的公司获得了美国国防部（DOD）数百万美元的资助，以执行该项目，该项目有望显着改善可持续...
- ## [华为再次错失大单!英国之后，诺基亚又拿下比利时5G订单!台积电又有新动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=dqLbFxfpmpB1hrzWVxBUbVXGxjVcI32h8rJbqcllc9JNhkF7lF9UBozq2OYzXMUVho-Cd9pE5EYKj0izySVpwGUJ6WL5xqI7szxR9uqvu1bxFZ5gpXOI*ickS-E0nE3j&new=1)
+ ## [新办的手机卡，不断接催贷电话：“二次放号”让消费者麻烦倍增](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=n*-kaa7Oe*Kh3yIgEDoZB6yOs6k4j*E26FqqYf65IeejW7dQ4f2RG0ECGGO0TG4xSSiAit7wY-APP3-N2641uNsuO666-nyVycL*UupLeH3*-cyZpGXLV6G1e*DO94TO&new=1)
+ > 新办的手机卡，刚启用就收到接连不断的催贷电话；注册App却频繁显示号码被占用；给运营商客服致电，却被告知要自己协商处理……当手机码号资源愈发稀缺，“二次放号”这一盘活资源的常规手段，为何给用户带来许...
+ ## [“自动驾驶”网约车终于来了，安全吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=*I913i-MW*HcqZ4r9GhFNT0xyPo2Z9LY2Wp73*km63yussagIdxMMTgaATmnLtiRrRk3vIT03B5HRcgr4YNS7OCyJayr-9QaeIn8TgE74guVoPJ3yPHy7Rd043WrQ1HO&new=1)
+ > 撰文 / 温   莎编辑 / 牛跟尚设计 / 赵昊然题图 / 郭子毅谁也没有想到4年来一浪高一浪的自动驾驶应用场景会率先在网约车出现，而且引领者不是传统整车厂、造车新势力、跨界科技企业、软硬件供应商，而是一家出行...
+ ## [小海思有望满血复活?传台积电已获为华为代工成熟工艺芯片许可!官方拒绝回应](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=kZskmYfNAK6yG1ubF-tfeAbFTJq3xNcJu-hsv88OtYP*QgD4RIthCRaOwAuZt9RoA6Hyu8UfoMKgawuQn6myrZKgWWCjOEZuH035nmrBjfefJzdhgz7bf38hn4pgE-yQ&new=1)
+ > 10月9日消息，据供应链消息，继AMD、Intel获得向华为供货许可之后，台积电也已从美国商务部获得了向华为供货的许可，不过，只能向华为供应部分成熟工艺产品。对于该传闻，据问芯Vioce台积电方面在9日晚间表示，...
+ ## [华为再次错失大单!英国之后，诺基亚又拿下比利时5G订单!台积电又有新动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=dqLbFxfpmpB1hrzWVxBUbVXGxjVcI32h8rJbqcllc9LJJgsokeOb0PvcZwX4OSrkBwRdqyg0ps9CeOFvJumydHAEVoHrAz6sFyK8KvSVMGl7L*aGBCZODfl2MlGl1IgK&new=1)
  > 中国基金报 泰勒欧洲商业移动运营商已屈服于政治压力，华为再次痛失大单！Orange比利时公司将放弃华为设备改用诺基亚据路透社10月9日报道，法国电信运营商Orange的分公司Orange比利时当天宣布，他们选择在比利时...
- ## [工业数字化转型加速，爱普生专业打印大有可为](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=eTNKlXBsb9G3GRWuzCzaPU299LHXXmwnROoku*b4g4l-*jgtTe9QOmljzWSDZKHc6WGYK6abiWjB0KD21MC-k2zNIohXRX8e43PpWHr3LoxY3HsxTfDgMI8Cu7xq40wP&new=1)
+ ## [IFOC 2020|安立通讯赵雁飞：探索数据中心高速互联和信号测试新方式](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=7FgD7e4BkyjSrgMjx-PIiwgTB2KN2xlmaB0r51J-p6XCYdlkM7w3Gi3DFqFm5uySC*hgXXoU705fYMGLEJitmAiFgINUXL7*yjUA280mb4dqQE-mfQbcYqMz2bKgOIbs&new=1)
+ > 新 闻 导 读在IFOC2020期间，日本安立公司(Anritsu)专家、业务开发经理赵雁飞讲述城域数据中心互连和高速互连模块的测试，针对城域数据中心互连方案的选择，以及数据中心各种互连模块的测试选择两个角度，来探讨...
+ ## [Desktop Metal为美国陆军开发硬质合金3D打印工艺](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=xzgwB1xW60oTIK2J6l*uhJgwcslbLnICAPUJOceYC8yCE2e7*xejRfFDAkFCxPRLlkuL3TA8yNQQ*LWEF-u*AjvYh2D5ytj1bj7xoNCcz3oGZrKyV*7ix6xte0iGOIwk&new=1)
+ > Desktop Metal将开发一种先进的增材制造（AM）工艺，该工艺能够为美国陆军批量生产不含钴的硬金属零件。这家位于波士顿的公司获得了美国国防部（DOD）数百万美元的资助，以执行该项目，该项目有望显着改善可持续...
+ ## [工业数字化转型加速，爱普生专业打印大有可为](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=eTNKlXBsb9G3GRWuzCzaPU299LHXXmwnROoku*b4g4lz9en7cI-ToMzS1GPlcAsGtXcXMxFdP-uKvXqdM1pLA8wWsy4iPHGaHh6AUFfvGzp0jeeIpF1dggV-OfObIq2W&new=1)
  > “打印”是一个无处不在，看上去很传统听起来很小众，却是千亿规模的大市场。如今全球打印机市场迈入存量市场，有数据显示2019年四季度全球打印设备出货量下降5.4%，约为2530万台。正因为此，在传统打印机外开拓...
- ## [干货丨看奥迪和美的智能工厂，谈智能工厂离不开5个“集成”!](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=eJGEXvNJVzqATrXufdACP0OILV1lpHcA3IyYWY8-WUY2s51ge7dBaIglXlvGf9bmUV8MMTpXQXvWyklumY**BEoQJyuz3NjjRg-mDfZWWA8*yBY9xBL0G1qMfh3WwU50&new=1)
+ ## [干货丨看奥迪和美的智能工厂，谈智能工厂离不开5个“集成”!](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=eJGEXvNJVzqATrXufdACP0OILV1lpHcA3IyYWY8-WUZZodTRHsVHWUfF7KDfZYa51VDUw9TI847OuEpDMSzjRDZJG6*p6MQ*CmSOQbz6SG1hq6ivmugc1MSz0E1yBctm&new=1)
  > 奥迪一直将科技作为产品的卖点，这一次奥迪将科技发挥到了极致，为我们描绘出一座未来汽车工厂——奥迪智能工厂。在这座工厂中，我们熟悉的生产线消失不见，零件运输由自动驾驶小车甚至是无人机完成，3D打印技术...
- ## [重磅!首开先河：通信费用欠费逾期不缴，上报到央行征信!](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=AxR69n7K-OEocu5PK7otxU8d9Efk3bZWV7zPmdbAvenqUGFaDTWFMA-czy2QscNMTcygxI*K7dtqD9E2t2YbK*XDxaO6z9wNM6g1cyLTjSCyQuPIy-tA75X8z8w3njhG&new=1)
+ ## [重磅!首开先河：通信费用欠费逾期不缴，上报到央行征信!](http://mp.weixin.qq.com/s?src=11&timestamp=1602293404&ver=2635&signature=AxR69n7K-OEocu5PK7otxU8d9Efk3bZWV7zPmdbAvenGtcZ*M3Gu2vsnnfE**Jq17XG4dt6yXFElVJr2GBP*xHKs-kqIbT8MjMEiDEOgmqmRTs5LTM35kags4g4TXarx&new=1)
  > 江西电信第一个开始实行这一举动，成为通信市场中第一个将逾期纳入征信的领头羊。太赞了！希望全国推广~综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
 # IT 技术 
+ ## [我写的代码，又被CTO骂了......](http://developer.51cto.com/art/202010/628055.htm)
+ > 我写的代码，又被CTO骂了......
+ ## [厉害了！鸿蒙与Android完美融合，将鸿蒙设备当Android设备用](http://os.51cto.com/art/202010/628054.htm)
+ > 厉害了！鸿蒙与Android完美融合，将鸿蒙设备当Android设备用
  ## [该选用无服务器计算还是容器](http://developer.51cto.com/art/202010/627970.htm)
  > 该选用无服务器计算还是容器
+ ## [物联网的历史与未来，将专注为特定行业和领域设计解决方案](http://iot.51cto.com/art/202010/627885.htm)
+ > 物联网的历史与未来，将专注为特定行业和领域设计解决方案
  ## [为何公司需要关注软件供应链安全？](http://developer.51cto.com/art/202010/627971.htm)
  > 为何公司需要关注软件供应链安全？
- ## [面试了一个39岁程序员，我有点慌……](http://news.51cto.com/art/202010/627941.htm)
- > 面试了一个39岁程序员，我有点慌……
- ## [看完这篇还搞不懂HTTPS，就来找我！](http://network.51cto.com/art/202010/627928.htm)
- > 看完这篇还搞不懂HTTPS，就来找我！
- ## [华为鸿蒙OS轻量内核设计理念与关键特性](http://os.51cto.com/art/202010/627909.htm)
- > 华为鸿蒙OS轻量内核设计理念与关键特性
- ## [如何监控无服务器应用](http://developer.51cto.com/art/202010/627737.htm)
- > 如何监控无服务器应用
- ## [码农的996无法改变世界，在维多利亚时代就已被证明](http://news.51cto.com/art/202010/627775.htm)
- > 码农的996无法改变世界，在维多利亚时代就已被证明
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
+ ## [一文了解如何有效的防护DDoS攻击](http://netsecurity.51cto.com/art/202010/627849.htm)
+ > 一文了解如何有效的防护DDoS攻击
+ ## [6种数据分析实用方法，终于有人讲明白了](http://bigdata.51cto.com/art/202010/627848.htm)
+ > 6种数据分析实用方法，终于有人讲明白了
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [支持鸿蒙OS的产品级SSD1306 OLED屏驱动库分享](http://os.51cto.com/art/202010/628057.htm)
+ > 功能简介：• 使用Harmony OS的IoT硬件接口• 提供字符绘制相关接口，内置四种字体大小的ASC
+ ## [机器人的设计，要从“娃娃”抓起？](http://ai.51cto.com/art/202010/628058.htm)
+ > 人工智能似乎正在取得巨大进步。它已经成为自动驾驶汽车、自动翻译系统、语音和文本分析、图像处理以及各种
+ ## [开源适用于JavaScript的Excel解析器和生成器](http://developer.51cto.com/art/202010/628056.htm)
+ > xlsx-populate是一个用JavaScript编写的Excel XLSX解析器/生成器，支持Node.js和浏览器，具备jQuery和D3.js
+ ## [以色列进入5G时代：商用牌照发放 三大运营商迅速上线服务](http://network.51cto.com/art/202010/628052.htm)
+ > 北京时间10月6日晚间消息（蒋均牧）随着9月29日商用牌照正式发放，以色列正式进入5G时代。当地三家运营商Ho
+ ## [当手机失窃信息被盗后 我们应该怎么办？](http://netsecurity.51cto.com/art/202010/628050.htm)
+ > 10月9日下午消息，近日一篇《一部手机失窃而揭露的窃取个人信息实现资金盗取的黑色产业链》的文章引发广泛
  ## [观点：企业应更关注混合云战略，而不是担心多云](http://cloud.51cto.com/art/202010/628044.htm)
  > 多云其实很多企业都在用，却鲜有人知道是什么、为什么!根据数据库供应商MariaDB的最新调查，71%的受访者表
  ## [运营商下架多款 4G 套餐为 5G 让路，用户体验恐受影响](http://network.51cto.com/art/202010/628041.htm)
@@ -43,47 +61,6 @@ categories: IT NEWS
  > 本文基于对传统室分系统升级至5G，以及分布式皮基站等新型室分系统的性能进行分析，发现并提出了室分系统升
  ## [2020年10月编程语言排行榜：Python即将打败Java，登上第二宝座？](http://developer.51cto.com/art/202010/628028.htm)
  > TIOBE已公布2020年10月的编程语言排行榜。C语言依然排行第一了，随后分别是Java、Python、C++、C。
- ## [美国网络风暴演习系列活动对我国网络安全工作的启示](http://netsecurity.51cto.com/art/202010/628027.htm)
- > ​据多家媒体报道\[1，2\]，2020年8月中旬，美国组织了为期三天的网络风暴演习（Cyber Storm Exercise）
- ## [Linux系统编程―有名管道](http://os.51cto.com/art/202010/628026.htm)
- > 管道，又名「无名管理」，或「匿名管道」，管道是一种非常基本，也是使用非常频繁的IPC方式。
- ## [大型前端项目的断点调试共享化和复用化实践](http://zhuanlan.51cto.com/art/202010/628030.htm)
- > 随着我们项目越来越大，我们有可能需要维护很多的模块，我们腾讯文档 Excel 项目大模块有 10 几个，而每个
- ## [用户态进程如何得到虚拟地址对应的物理地址？](http://virtual.51cto.com/art/202010/628020.htm)
- > 一般我们不需要从用户态得到进程虚拟地址对应的物理地址，因为一般来说用户进程是完全不关心物理地址的。
- ## [一个爬虫的故事：这是人干的事儿？](http://netsecurity.51cto.com/art/202010/628019.htm)
- > 爬虫原理我是一个爬虫，每天穿行于互联网之上，爬取我需要的一切。说起来还要感谢HTTP协议，因为它，全世界
-# 人工智能 
- ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
- > mongoTemplate的方法和update()
- ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
- > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
- ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
- > Mysql实现查询5分钟之前的数据
- ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
- > 按键精灵-自定义函数time(),datetime(),diff()
- ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
- > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
- ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
- > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
- ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
- > ERD图
- ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
- > 怎么往mysql表里添加数据
- ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
- > 连续登录天数计算
- ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
- > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
- ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
- > Sql性能优化看这一篇就够了
- ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
- > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
- ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
- > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
- ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
- > ffmpeg vsync参数分析
- ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
- > oracle授权查询
 # PM 
  ## [产品经理面试，如何介绍自己的优势和劣势？](http://www.chanpin100.com/article/112773)
  > 希望你不再纠结~
