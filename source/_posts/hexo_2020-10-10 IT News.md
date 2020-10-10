@@ -1,21 +1,21 @@
 ---
 title: 2020-10-10 IT News
 copyright: true
-date: 2020-10-10 08:00:54
+date: 2020-10-10 09:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为再次错失大单!英国之后，诺基亚又拿下比利时5G订单!台积电又有新动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1602286204&ver=2635&signature=dqLbFxfpmpB1hrzWVxBUbVXGxjVcI32h8rJbqcllc9JNhkF7lF9UBozq2OYzXMUVxjNpRjW*fDUBY1X-6og0bd1uxJvoIwCZOY*CO8XqNPUU6vXl82wR3yUXUub82npy&new=1)
- > 中国基金报 泰勒欧洲商业移动运营商已屈服于政治压力，华为再次痛失大单！Orange比利时公司将放弃华为设备改用诺基亚据路透社10月9日报道，法国电信运营商Orange的分公司Orange比利时当天宣布，他们选择在比利时...
- ## [工业数字化转型加速，爱普生专业打印大有可为](http://mp.weixin.qq.com/s?src=11&timestamp=1602286204&ver=2635&signature=eTNKlXBsb9G3GRWuzCzaPU299LHXXmwnROoku*b4g4l-*jgtTe9QOmljzWSDZKHcjaKplItiGDGv-QuYe3rjzZYo4hfQMvNvDiDrMupIMUikbjtYtjNJFzFxNpoHrX2D&new=1)
- > “打印”是一个无处不在，看上去很传统听起来很小众，却是千亿规模的大市场。如今全球打印机市场迈入存量市场，有数据显示2019年四季度全球打印设备出货量下降5.4%，约为2530万台。正因为此，在传统打印机外开拓...
- ## [重磅!首开先河：通信费用欠费逾期不缴，上报到央行征信!](http://mp.weixin.qq.com/s?src=11&timestamp=1602286204&ver=2635&signature=AxR69n7K-OEocu5PK7otxU8d9Efk3bZWV7zPmdbAvenqUGFaDTWFMA-czy2QscNMvmZWi2VNoz31RZrjvg5sZ2wvQV6E0QrkAcWxy7cdEyqumDRD5z5I-7uu0KBtzpD*&new=1)
- > 江西电信第一个开始实行这一举动，成为通信市场中第一个将逾期纳入征信的领头羊。太赞了！希望全国推广~综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [干货丨看奥迪和美的智能工厂，谈智能工厂离不开5个“集成”!](http://mp.weixin.qq.com/s?src=11&timestamp=1602286204&ver=2635&signature=eJGEXvNJVzqATrXufdACP0OILV1lpHcA3IyYWY8-WUY2s51ge7dBaIglXlvGf9bmMukEwgvy33tOnDs8jA2uYsX0ZEhj-hBzvriecZ61tf4MXUTMz-gucD8OKUCMSBCy&new=1)
- > 奥迪一直将科技作为产品的卖点，这一次奥迪将科技发挥到了极致，为我们描绘出一座未来汽车工厂——奥迪智能工厂。在这座工厂中，我们熟悉的生产线消失不见，零件运输由自动驾驶小车甚至是无人机完成，3D打印技术...
- ## [Desktop Metal为美国陆军开发硬质合金3D打印工艺](http://mp.weixin.qq.com/s?src=11&timestamp=1602286204&ver=2635&signature=xzgwB1xW60oTIK2J6l*uhJgwcslbLnICAPUJOceYC8w9gyGZ5JX4acyY*Hq94WiwMUQj8sb8v0vBeOV2pheYtrPdFPymrjvNLCEfZb0*jlsmYhbHUgYK1MSu1tmWDjHe&new=1)
+ ## [Desktop Metal为美国陆军开发硬质合金3D打印工艺](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=xzgwB1xW60oTIK2J6l*uhJgwcslbLnICAPUJOceYC8w9gyGZ5JX4acyY*Hq94Wiw0yeY*RLRqBLLZA2apT7bCnjmTGmA6SHKFAsyNROZjTHs23PcgKGz1EKBOSfjKUK9&new=1)
  > Desktop Metal将开发一种先进的增材制造（AM）工艺，该工艺能够为美国陆军批量生产不含钴的硬金属零件。这家位于波士顿的公司获得了美国国防部（DOD）数百万美元的资助，以执行该项目，该项目有望显着改善可持续...
+ ## [华为再次错失大单!英国之后，诺基亚又拿下比利时5G订单!台积电又有新动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=dqLbFxfpmpB1hrzWVxBUbVXGxjVcI32h8rJbqcllc9JNhkF7lF9UBozq2OYzXMUVho-Cd9pE5EYKj0izySVpwGUJ6WL5xqI7szxR9uqvu1bxFZ5gpXOI*ickS-E0nE3j&new=1)
+ > 中国基金报 泰勒欧洲商业移动运营商已屈服于政治压力，华为再次痛失大单！Orange比利时公司将放弃华为设备改用诺基亚据路透社10月9日报道，法国电信运营商Orange的分公司Orange比利时当天宣布，他们选择在比利时...
+ ## [工业数字化转型加速，爱普生专业打印大有可为](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=eTNKlXBsb9G3GRWuzCzaPU299LHXXmwnROoku*b4g4l-*jgtTe9QOmljzWSDZKHc6WGYK6abiWjB0KD21MC-k2zNIohXRX8e43PpWHr3LoxY3HsxTfDgMI8Cu7xq40wP&new=1)
+ > “打印”是一个无处不在，看上去很传统听起来很小众，却是千亿规模的大市场。如今全球打印机市场迈入存量市场，有数据显示2019年四季度全球打印设备出货量下降5.4%，约为2530万台。正因为此，在传统打印机外开拓...
+ ## [干货丨看奥迪和美的智能工厂，谈智能工厂离不开5个“集成”!](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=eJGEXvNJVzqATrXufdACP0OILV1lpHcA3IyYWY8-WUY2s51ge7dBaIglXlvGf9bmUV8MMTpXQXvWyklumY**BEoQJyuz3NjjRg-mDfZWWA8*yBY9xBL0G1qMfh3WwU50&new=1)
+ > 奥迪一直将科技作为产品的卖点，这一次奥迪将科技发挥到了极致，为我们描绘出一座未来汽车工厂——奥迪智能工厂。在这座工厂中，我们熟悉的生产线消失不见，零件运输由自动驾驶小车甚至是无人机完成，3D打印技术...
+ ## [重磅!首开先河：通信费用欠费逾期不缴，上报到央行征信!](http://mp.weixin.qq.com/s?src=11&timestamp=1602289804&ver=2635&signature=AxR69n7K-OEocu5PK7otxU8d9Efk3bZWV7zPmdbAvenqUGFaDTWFMA-czy2QscNMTcygxI*K7dtqD9E2t2YbK*XDxaO6z9wNM6g1cyLTjSCyQuPIy-tA75X8z8w3njhG&new=1)
+ > 江西电信第一个开始实行这一举动，成为通信市场中第一个将逾期纳入征信的领头羊。太赞了！希望全国推广~综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
 # IT 技术 
  ## [该选用无服务器计算还是容器](http://developer.51cto.com/art/202010/627970.htm)
  > 该选用无服务器计算还是容器
@@ -31,10 +31,26 @@ categories: IT NEWS
  > 如何监控无服务器应用
  ## [码农的996无法改变世界，在维多利亚时代就已被证明](http://news.51cto.com/art/202010/627775.htm)
  > 码农的996无法改变世界，在维多利亚时代就已被证明
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
+ ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
+ > 极简JAVA一：JAVA入门视频课程
+ ## [观点：企业应更关注混合云战略，而不是担心多云](http://cloud.51cto.com/art/202010/628044.htm)
+ > 多云其实很多企业都在用，却鲜有人知道是什么、为什么!根据数据库供应商MariaDB的最新调查，71%的受访者表
+ ## [运营商下架多款 4G 套餐为 5G 让路，用户体验恐受影响](http://network.51cto.com/art/202010/628041.htm)
+ > 独立电信分析师付亮也表示，运营商当前推出的5G套餐价格相对较高，并未考虑到低消费群体的需求。他预计，第
+ ## [大牛深入解析SpringBoot核心运行原理和运作原理源码](http://developer.51cto.com/art/202010/628039.htm)
+ > 本章会带领大家通过源码学习 Spring Boot 的核心运作原理，内容涉及自动配置的运作原理、核心功能模块、核
+ ## [5G室内覆盖性能及关键问题分析](http://zhuanlan.51cto.com/art/202010/628037.htm)
+ > 本文基于对传统室分系统升级至5G，以及分布式皮基站等新型室分系统的性能进行分析，发现并提出了室分系统升
+ ## [2020年10月编程语言排行榜：Python即将打败Java，登上第二宝座？](http://developer.51cto.com/art/202010/628028.htm)
+ > TIOBE已公布2020年10月的编程语言排行榜。C语言依然排行第一了，随后分别是Java、Python、C++、C。
+ ## [美国网络风暴演习系列活动对我国网络安全工作的启示](http://netsecurity.51cto.com/art/202010/628027.htm)
+ > ​据多家媒体报道\[1，2\]，2020年8月中旬，美国组织了为期三天的网络风暴演习（Cyber Storm Exercise）
+ ## [Linux系统编程―有名管道](http://os.51cto.com/art/202010/628026.htm)
+ > 管道，又名「无名管理」，或「匿名管道」，管道是一种非常基本，也是使用非常频繁的IPC方式。
  ## [大型前端项目的断点调试共享化和复用化实践](http://zhuanlan.51cto.com/art/202010/628030.htm)
  > 随着我们项目越来越大，我们有可能需要维护很多的模块，我们腾讯文档 Excel 项目大模块有 10 几个，而每个
+ ## [用户态进程如何得到虚拟地址对应的物理地址？](http://virtual.51cto.com/art/202010/628020.htm)
+ > 一般我们不需要从用户态得到进程虚拟地址对应的物理地址，因为一般来说用户进程是完全不关心物理地址的。
  ## [一个爬虫的故事：这是人干的事儿？](http://netsecurity.51cto.com/art/202010/628019.htm)
  > 爬虫原理我是一个爬虫，每天穿行于互联网之上，爬取我需要的一切。说起来还要感谢HTTP协议，因为它，全世界
 # 人工智能 
