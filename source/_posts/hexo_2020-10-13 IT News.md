@@ -1,123 +1,84 @@
 ---
 title: 2020-10-13 IT News
 copyright: true
-date: 2020-10-13 10:03:17
+date: 2020-10-13 12:02:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[科技早报7点整\]国内第四大运营商中国广电成立 特朗普再被推特打上误导标记……](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=FWk9-OgO54bQDvF5ahzJmbbRXmDeZlna6gYCb4sqPFbMoEIahxcnUecDl6qmWROWw8-feNUAGjEIlI8QPLtoQAXeT0UXo0V*pZby9N30RQ0mcC5TCx4fCfGhgjDLySuL&new=1)
+ ## [苹果或彻底砍掉 Beats 耳机产品；斗鱼虎牙正式合并 高管保留；中国广电成第四大运营商 推 5G 192 号段；|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=YMJ5OT1xnp--KvzxK2x*nGBsYu-3zweSVo7Ri7GcLRSFR8-NSB3D97186EaZ5d7iEtkRwgCnluHh12Nf91d6eKZMNZgzeNDfqRBYl57KJV5-5XZM6ZFKLRhv2WoGIDMP&new=1)
+ > 斗鱼、虎牙合并将落锤：按 1：1 合并，新公司由腾讯控制10 月 12 日消息，记者从多方获悉，腾讯推动下的斗鱼、虎牙合并即将在日内敲定。其中关键信息为斗鱼、虎牙按照市值进行 1：1 合并，合并后公司为腾讯控股...
+ ## [70个汽车零件优化成一个!特斯拉将规模应用3D打印技术?](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=d87Xm53nWpKWdDH-V2EM2th5RMSfzazBTYQ-M04BYdmYhzzDdpTL0Zq0QsSaHmykO3W1IBCQLpN28*s*o1BMUCXfuDsqxKqH5ozd0PEoexIcF98fSM2XaoBpVT5tsP14&new=1)
+ > 导读：据Wohlers2020报告，汽车已经成为3D打印技术最大的应用，超越航空航天、医疗等领域。2020年10月，南极熊注意到，全球电动汽车领导厂商特斯拉的股价涨上天了，其市值达4000多亿美元，是宝马+奔驰+大众等汽...
+ ## [高新区五家企业入选 贵州省大数据创新中心、创新创业基地名单](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=4Z73k0i2-dIasmH3NOyBvoKJzdNy8CShrcRqvu0Y32KFMJNyutNtQb4DQxlvMagHyCEhL4vQ4jn2NDl*P6ob9hz3nR26HOQsSvl6gLsz5pM=&new=1)
+ > 本报讯 10月9日，记者从贵阳高新区大数据发展办公室获悉，贵州省大数据发展管理局近日公布了贵州省大数据创新中心、创新创业基地名单，贵阳高新区5家大数据企业上榜。　　据了解，为深入推进大数据战略行动...
+ ## [虎牙、斗鱼正式达成合并协议；中国广电正式成立，或催生5G发展新格局；Linux 5.9 释出|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=07npCTVISOwRqUDchSztPbKqRcW0XmGo2sIW5uUpgsAOWkS4jE6CtyNmqXQwVD7uAA94TITYAo60IE22sWyCCr*RXilU9bYsthH1-mq*2e4Sjjl6SDP7YNaS-OqLphuq&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
+ ## [\[科技早报7点整\]国内第四大运营商中国广电成立 特朗普再被推特打上误导标记……](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=FWk9-OgO54bQDvF5ahzJmbbRXmDeZlna6gYCb4sqPFYJhZ89xs0tkKw3lPqGD1HS-0vYbTJMn3vN0NRnJEWIuGyNJfLBsDtv7WsHCRRA2W7x6*6duTFSbK*sdooYPhVt&new=1)
  > 早上好，科技圈【一度蜜科技早报】第944期1.江西电信：手机欠费上征信仅针对恶意欠费用户 2020年11月起，中国电信江西省欠费信息将接入个人征信系统，若用户之前使用的电信产品欠费超过3个月未缴清，或享受了手...
- ## [微软称其破坏了Trickbot勒索软件僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=M1Oq2nq2eWauzgD7HuvDdvx4KUDaTOj4rotGAorsG1-NnzDwBJK3TG9afl4Ia7-je5cNdm411L2dCPZu3SizSWDXsD4R5pWAoSJXuP7GsVHjy4lGdxQlybeCgFNR6FcC&new=1)
+ ## [微软称其破坏了Trickbot勒索软件僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=M1Oq2nq2eWauzgD7HuvDdvx4KUDaTOj4rotGAorsG1-fDIF*kdfAmlwED56G19swLzRPJ4NfeMNmY4cNsuiDGKVStzK8mntmY*58h0VJTjoo1tXGla2gBd4aH7E1WfIj&new=1)
  > 微软在博客宣布其近日破坏了Trickbot的僵尸网络，Trickbot是臭名昭著的勒索软件僵尸网络之一，自2016年底以来已经感染了超过100万台设备。Trickbot是一个多阶段的恶意软件，通常由1个外壳、1个加载器和1个主恶意...
- ## [重磅!备受关注，第四大运营商广电揭牌成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=zHDhuVfoRjJauRrnkIVBY-wL2EukxvD5gckAWDm4qIBZNjjr4QAU7dfWnrb0*HZe6rEYStnkbTLuNTNNbHoOEZlM5DnoqsRiR9LqseE3knEQoNR0JsQpoalQm*NrC1Qo&new=1)
+ ## [重磅!备受关注，第四大运营商广电揭牌成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=zHDhuVfoRjJauRrnkIVBY-wL2EukxvD5gckAWDm4qICXEvAqrpVKOfeXUypLB1rWzvGlwuoPda74fd74U7dKDLIUvdQXaF-Hact8kW8M7hSBAd-KLpcZsxGVMQtFemIL&new=1)
  > 据通信产业报(网)消息，10月12日，备受关注的中国广电网络股份有限公司正式揭牌。千呼万唤始出来的“全国一网”整合有了实质进展。“全国一网”股份公司通过中国广电、各省网公司、战略投资者共同参与组建，形成...
- ## [5G|多省市宣布提前/超额完成全年5G基站建设任务](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=ocB--*b*i9ImUsUa4g9qhsQk0KpzhL2y1oEunfEdFN2PtxG3de0ZhezIAevK*IkJu0WF0XaM6jdaAMMiyUlXmVuZor-8FUBx6ATmbe*KxVfWRCdYfcVz710eIiiJlaOJ&new=1)
+ ## [5G|多省市宣布提前/超额完成全年5G基站建设任务](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=ocB--*b*i9ImUsUa4g9qhsQk0KpzhL2y1oEunfEdFN0xsmZazXUA2US4G4CLgENtvNEfV79cL7KCG2nG*FjQKkJCKR3nSo9F*DCbNGMcKebxX*llACx7k92ivbjGsTTE&new=1)
  > 新闻导读近日，广东、辽宁、江西等省市也宣布提前甚至超额完成了全年的5G基站建设目标。从各省市的表现及运营商的规划来看，今年我国5G建设有望超出年初目标。  ICC讯（编辑：Nina）近日，又有一些省市宣布提...
- ## [华为什么都能造?](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=52HMKT4ngZAs*IfL9AdWtTyVqit8X1XCMSMIsI0rYbJ1Y4386Y0RI2CagaG4ywH*CyoKCVshI6wRyyOMqCbmZNf4p8NrQ20w-poXHUSFpTvntAolP0QKllU2TMJtuwe9&new=1)
+ ## [华为什么都能造?](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=52HMKT4ngZAs*IfL9AdWtTyVqit8X1XCMSMIsI0rYbJmBjvbkVmsJruw-tFw4LUCUCSOeNzByPEYjWzq5*41ELqY*O8L5ury8Wbrny2z1jfmbWcz4Y16ZbB*hq7qSafB&new=1)
  > 撰文 / 温   莎编辑 / 刘宝华设计 / 杜   凯十一前夕，比收拾行李等着过节的人更忙的是汽车人，比汽车人更忙的是华为IAS（智能汽车解决方案）BU人。 9月25日上午10点，华为智能汽车解决方案BU总裁王军在自家主办...
- ## [5G毫米波产业高峰论坛圆满召开!\[附嘉宾金句海报\]](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=sSp6IqU8LzWnatcg7OmajzGpIA4iASDNNmLu7I9FZRfC39voaw5LG1mGQDto4eCnFjH2j*Ro35Hug-pBCokGvRUB66b4wFSl2tZLncz3iEJHPWZ5EJ8lmX4SJmsmTg-9&new=1)
+ ## [5G毫米波产业高峰论坛圆满召开!\[附嘉宾金句海报\]](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=sSp6IqU8LzWnatcg7OmajzGpIA4iASDNNmLu7I9FZRfu6Ag*DnxwocsUckxBUJ4Zb64iACjBpPm84D9iDrEDyTx4kF48nhOWgLGEM04UZw9mvAQEqsCp1gQBhlfu4cWM&new=1)
  > 5G毫米波的应用将开启5G发展的新阶段，有望释放出5G的全部潜能。为进一步讨论5G毫米波的未来、释放5G全部价值、推进5G毫米波产业的发展，由GSMA主办，信通传媒·通信世界全媒体承办，高通公司作为技术合作伙伴的...
- ## [中国第二大通信设备商吸取教训，研发先进工艺芯片提升芯片自给率](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=iGdytLCp-WDz*WOcE0vHlSVbzBin7Zwd3DiO-ByYINdD8mDdeGJfPdX1U*wRbWL0dk6v3Gzc05BgNu3nqhykJ8TfUEb0HFbPhSG2oGLCFZSlsu-jAGcjCIlYmC5mcMAu&new=1)
+ ## [中国第二大通信设备商吸取教训，研发先进工艺芯片提升芯片自给率](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=iGdytLCp-WDz*WOcE0vHlSVbzBin7Zwd3DiO-ByYINfGMxL54VDU3i4V-PSiKAIfHYVDW36sLghcIHloS2Nxm*mG7Mj6JpolBFuPYfsWocw-*OAe68vtgkTesXWXOR3Q&new=1)
  > 中国第二大通信设备商中兴通讯的高管表示7nm芯片已实现商用，正研发更先进的5nm芯片，它研发的芯片主要用于自己的通信设备，并非是目前受关注的手机芯片。2017年中兴通讯被美国罚款8.92亿美元，到了2018年它再次...
- ## [4年豪掷180亿打造智能纯电架构 吉利安聪慧：未来汽车一定要硬件软件深度融合](http://mp.weixin.qq.com/s?src=11&timestamp=1602554404&ver=2641&signature=946qDa2W1kVLoVX0YXSPdiVwOjE38Bj-m9DYw6f28tpb7f3UtDnRG5v3-9EINCjZ-5URCyhoJVTQ2Tl3YTqQLIOKQimOunuZ5HmYWhdW7dpjI-8bj0uc5QFSlg16qHXo&new=1)
+ ## [4年豪掷180亿打造智能纯电架构 吉利安聪慧：未来汽车一定要硬件软件深度融合](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=946qDa2W1kVLoVX0YXSPdiVwOjE38Bj-m9DYw6f28tqlc9f-XvVEhp9K5mUxsoX51jTLtgMnmtYX1zH3m8h2-5x3ZPudNVJX1inWbb1emmTqRfxEDqvZbF8dXVAefc4*&new=1)
  > “大家原来对架构的理解，可能更多的是在机械架构部分。但实际上，我们在八年前就对未来的汽车，尤其是在电动化、智能化以后，应该是什么样的有过思考。我们认为应该是要软硬结合的，不是只靠软件，也不是大家现...
 # IT 技术 
  ## [《HarmonyOS入门宝典》全网首发免费下载](http://news.51cto.com/art/202010/628374.htm)
  > 《HarmonyOS入门宝典》全网首发免费下载
- ## [为什么我们要从ES迁移到ClickHouse？](http://developer.51cto.com/art/202010/628359.htm)
- > 为什么我们要从ES迁移到ClickHouse？
  ## [人们需要关注并使用的公共数据集](http://bigdata.51cto.com/art/202010/628325.htm)
  > 人们需要关注并使用的公共数据集
+ ## [为什么我们要从ES迁移到ClickHouse？](http://developer.51cto.com/art/202010/628359.htm)
+ > 为什么我们要从ES迁移到ClickHouse？
  ## [扩展机器学习模型的五大挑战](http://ai.51cto.com/art/202010/628326.htm)
  > 扩展机器学习模型的五大挑战
- ## [不能低估的对手：FONIX勒索软件及服务](http://netsecurity.51cto.com/art/202010/628267.htm)
- > 不能低估的对手：FONIX勒索软件及服务
+ ## [Java中的AQS到底是什么？高级面试必问！](http://developer.51cto.com/art/202010/628313.htm)
+ > Java中的AQS到底是什么？高级面试必问！
  ## [如何使用Hi3861实现手机APP配网功能？](http://os.51cto.com/art/202010/628234.htm)
  > 如何使用Hi3861实现手机APP配网功能？
  ## [阿里技术专家：架构制图方法论](http://developer.51cto.com/art/202010/628181.htm)
  > 阿里技术专家：架构制图方法论
- ## [MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01](http://fellow.51cto.com/art/202008/623594.htm?qd=51ctojrzd)
- > MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01
- ## [改变电子商务行业业务的人工智能趋势](http://ai.51cto.com/art/202010/628372.htm)
- > 人工智能（AI）正在改变电子商务公司开展业务的方式。人工智能正在整个电子商务领域的系统中实现。从生成线
- ## [内存只是数据安全难题的一部分](http://stor.51cto.com/art/202010/628370.htm)
- > 内存的安全功能并不是新鲜事，但是由大流行性促使的远程办公加重了连接性，这意味着保护数据更加关键，甚至
- ## [Fitbit间谍软件可通过表盘窃取个人数据](http://zhuanlan.51cto.com/art/202010/628364.htm)
- > 黑客通过员工的智能手环/手表窃取个人隐私并泄露企业网络敏感数据？这听上去有些骇人听闻，但已成事实。
- ## [精心整理！9个 Python 实用案例分享](http://developer.51cto.com/art/202010/628362.htm)
- > 并非本文中所有提到的功能在日常的 Python 编程中都是必需或有用的，但是其中某些功能可能会不时派上用场，
- ## [新技术：通过指纹跟踪技术追踪恶意软件开发者](http://netsecurity.51cto.com/art/202010/628361.htm)
- > 我们经常会遇到一些臭名昭著的恶意组织，他们使用相同的恶意软件针对不同的受害者。最近的一个例子是星际风
- ## [我是一个平平无奇的AI神经元](http://ai.51cto.com/art/202010/628360.htm)
- > 我是一个AI神经元，刚刚来到这个世界上，一切对我来说都特别新奇。之所以叫这个名字，是因为我的工作有点像
- ## [如何在关闭盖子的情况下运行笔记本电脑](http://news.51cto.com/art/202010/628369.htm)
- > 很难想象会有这样一个世界，你不能把电脑折叠起来，塞进背包里，带着它去任何地方。但如果你更喜欢桌面电脑
- ## [IBM的这项AI技术，可帮助预测老年群体的孤独感](http://ai.51cto.com/art/202010/628358.htm)
- > 研究人员使用人工智能准确预测了圣迭戈县当地某高级住宅社区居民的孤独感问题。根据研究人员在《美国精神病
- ## [2020年将改变Web开发的优秀技术](http://developer.51cto.com/art/202010/628355.htm)
- > Web改进包括每个站点工程师应考虑的巨大规则和程序。 在过去的某个时候，HTML5，CSS3，JavaScript，PHP和My
- ## [中欧应加强5G合作共推数字经济发展](http://network.51cto.com/art/202010/628354.htm)
- > 2020年9月，由欧盟中国商会举办的“中欧商业对话”在线上举行，中国与欧盟等国的政要与智库专家们以“数字
-# 人工智能 
- ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
- > 开源：教师评价系统
- ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
- > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
- ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
- > Windows下Dvwa靶场环境配置（网络攻防)
- ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
- > Phpstudy隐藏后门
- ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
- > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
- ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
- > php一句话木马变形技巧
- ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
- > docker文件存放路径, 获取容器启动命令
- ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
- > 如何安装pkg-config
- ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
- > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
- ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
- > ceph客户端安装配置访问rbd
- ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
- > OpenLDAP源码安装及配置管理
- ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
- > 【Nginx】nginx 的三种反向代理方式
- ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
- > Janus WebRTC服务器部署
- ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
- > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
- ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
- > Istio组件日志设置
+ ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
+ > CSS 快速开发入门视频课程
+ ## [华为发布全场景智能联接解决方案](http://network.51cto.com/art/202010/628393.htm)
+ > 基于在5G、F5G、IPv6+等领域的长期投入，华为发布了全场景智能联接解决方案，让超宽带网络更高效、更环保，
+ ## [OpenAI首次推出数学定理推理模型GPT-f，23个推导结果被专业数据库收录](http://news.51cto.com/art/202010/628397.htm)
+ > 提到GPT家族，首先想到了必然是今年大火的GPT-3，这款基于Transformer架构的语言模型，在文本生成方面的能
+ ## [德国软件巨头Software AG遭遇勒索软件攻击](http://zhuanlan.51cto.com/art/202010/628395.htm)
+ > Software AG软件公司声称拥有10,000多个客户，年收入超过8亿欧元，上周晚些时候在简报中透露了遭受勒索软件
+ ## [使用多个团队协作应用程序面临的挑战是什么?](http://network.51cto.com/art/202010/628394.htm)
+ > 很多企业如今已经在使用各种团队协作平台。但是对它们进行有效管理并不容易。那么，企业在处理多个团队协作
+ ## [分手后，你还在悄悄用我的账户密码吗 ？](http://netsecurity.51cto.com/art/202010/628392.htm)
+ > 在科技时代，情侣关系中需要完全数字透明吗？过度分享有多危险？
+ ## [一个APP如何适配多个Andiroid终端？](http://zhuanlan.51cto.com/art/202010/628396.htm)
+ > 传统的多终端适配方案，是为大尺寸Pad开发一个特定的HD版本。但是目前支持Android系统的设备类型越来越丰富
+ ## [中国App Store免费榜应用排行，十月QQ、快手掉出前十](http://mobile.51cto.com/hot-628386.htm)
+ > 七麦数据公布了中国App Store免费榜的应用排行榜单，截止至十月初的榜单，本次排行相较上个月变化较大，拼
+ ## [MySQL事务与MVCC如何实现的隔离级别](http://database.51cto.com/art/202010/628385.htm)
+ > 其实数据库章节基本上的知识点我都写过一遍了，包括这篇事务和MVCC的，但是国庆期间我翻阅资料的时候我发现
+ ## [iPhone耗电元凶确定！苹果：我认错](http://mobile.51cto.com/news-628384.htm)
+ > 自六月初苹果发布iOS 13.5.1版本后，不少用户反映称Apple Music导致iPhone耗电严重，甚至包括iPad。部分用
+ ## [面部识别设备中存在多处可利用的漏洞](http://netsecurity.51cto.com/art/202010/628382.htm)
+ > 为了对面部识别设备中存在的安全性问题有更细微的了解，研究人员分析了四种不同模型的安全性。研究人员的案
 # PM 
- ## [产品经理，被困在系统里](http://www.chanpin100.com/article/112760)
- > 不止外卖小哥，我们产品狗也一样...
- ## [浅谈什么是SaaS，SaaS到系统应该怎么做](http://www.chanpin100.com/article/112762)
- > 了解SaaS,知道SaaS长什么样,SaaS应该怎么设计落地
- ## [月跌1600亿，拼多多的“低价故事”为何不香了](http://www.chanpin100.com/article/112780)
- > 黑天鹅笼罩的2020年是个“顺风局”，一手好牌打烂了，先要从自身上找原因。
- ## [积分兑换商城与用户运营两者关系](http://www.chanpin100.com/article/112771)
- > 随着互联网发展以及积分制度的演变，积分在市场中越发重要，积分兑换商城在用户运营管理中不可或缺。就现在而言，搭建一个积分兑换商城并不难，所以积分兑换商城市场较多，但是许多积分兑换商城中积分的利用率以及用户的活跃留存度都不高。
- ## [2020产品经理薪资大起底](http://www.chanpin100.com/article/112774)
- > 我们调研了600多人，得到了一个真实的产品经理收入情况
- ## [对于30%的“苹果税”，苹果竟然让步了？](http://www.chanpin100.com/article/112788)
- > 想要打破30%的App Store交易收入抽成制度？
- ## [干货必看：一键知晓iOS14对我的应用的ASO影响](http://www.chanpin100.com/article/112789)
- > iOS14新出现的推荐词对自家产品具体会有什么影响？后续该怎么调整优化关键词呢？
- ## [看不懂淘宝特价版，就像之前看不懂拼多多？](http://www.chanpin100.com/article/112808)
- > 淘宝特价版需要在产品上下功夫，同时尽量开拓更丰富的流量渠道，不要只是依赖淘宝。
- ## [我在实际工作中做的错误设计](http://www.chanpin100.com/article/112813)
+ ## [交互原型细节提升之路](http://www.chanpin100.com/article/112827)
+ > 之前发布了几篇关于组件如何构建的文章，大家对组件的整体构建步骤有了一定的了解，整体的大框架上都较为熟悉。本次分享主要切入点是如何运用设计规范以及前端基础知识来辅助，进行原型交互细节提升，希望本次分享能够带给大家帮助。为了更加方便本次的细节处理讲解，本次将引入“卡片化设计模板”的制作来具体聊一聊交互细
+ ## [我在实际工作中的优化案例-评价信息优化](http://www.chanpin100.com/article/112805)
  > 作者：杜昭 公众号：设计的威严
- ## [用户运营体系的推导思考](http://www.chanpin100.com/article/112831)
- > 用户运营体系规划时，尝试归纳的推导方式。文章主要分为设计运营模型、绘制核心路径、需求分析与拆解、梳理运营边界4个环节。
- ## [产品经理的经济学思维——为什么牛奶装在方盒子里卖，而可乐却装在圆瓶子里？](http://www.chanpin100.com/article/112830)
- > 本文从”为什么牛奶装在方盒子里卖，而可乐却装在圆瓶子里？“这个简单的问题出发，以经济学的思维对这个问题进行了分析讨论，其实主要目的还是为了使产品经理能够有经济学思维。
- ## [简历常见错误大盘点，竟会因为这些就错过offer！（中）](http://www.chanpin100.com/article/112836)
- > 常见的简历错误第二部分来啦，快来看看你有没有中招～
- ## [电商系统-优惠券原型设计说明(二)](http://www.chanpin100.com/article/112837)
- > 撬动GMV重要利器之一
- ## [体验了【深圳跟团一日游】，我学到了这些产品运营知识](http://www.chanpin100.com/article/112840)
- > 体验了一波跟团游，学到了这些产品运营知识
+ ## [从0到1设计产品积分体系实战](http://www.chanpin100.com/article/112829)
+ > 际工作中，不同产品有不同产品的特色，这也就导致积分体系设计具有针对性，直接照搬其他产品的积分体系只能看到表面现象，往往又不能解决本质问题，尤其对于价值类的积分，还涉及财务预算、成本分析、市场营销和运营多方面的知识，需要产品经理掌握多方面的知识，并且有极强的专业背景和较丰富的知识储备，设计难度较大。本
+ ## [有道云笔记产品分析——笔记产品未来的出路](http://www.chanpin100.com/article/112843)
+ > 记笔记作为自我知识储备的一种方式，已成为很多人的在工作、学习必不可少的一部分。当代生活节奏和知识更新速度加快，传统书写记录笔记方式已经难以满足人们的需要，而笔记类产品应运而生。
+ ## [五年产品经理的转正述职报告（附PPT下载）](http://www.chanpin100.com/article/112846)
+ > 时隔近两年，再次分享自己的转正述职报告。任时光流转，我还是我~
+ ## [淘宝店铺Logo应该如何设计？](http://www.chanpin100.com/article/112847)
+ > 淘宝店铺logo设计有哪些要求呢？常见的淘宝店铺logo尺寸是多少等等问题，那么今天这篇文章不仅将分享设计技巧，还将列出针对淘宝店铺logo设计的格式要求。
 
     
