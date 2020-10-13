@@ -1,72 +1,88 @@
 ---
 title: 2020-10-13 IT News
 copyright: true
-date: 2020-10-13 12:02:15
+date: 2020-10-13 17:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果或彻底砍掉 Beats 耳机产品；斗鱼虎牙正式合并 高管保留；中国广电成第四大运营商 推 5G 192 号段；|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=YMJ5OT1xnp--KvzxK2x*nGBsYu-3zweSVo7Ri7GcLRSFR8-NSB3D97186EaZ5d7iEtkRwgCnluHh12Nf91d6eKZMNZgzeNDfqRBYl57KJV5-5XZM6ZFKLRhv2WoGIDMP&new=1)
- > 斗鱼、虎牙合并将落锤：按 1：1 合并，新公司由腾讯控制10 月 12 日消息，记者从多方获悉，腾讯推动下的斗鱼、虎牙合并即将在日内敲定。其中关键信息为斗鱼、虎牙按照市值进行 1：1 合并，合并后公司为腾讯控股...
- ## [70个汽车零件优化成一个!特斯拉将规模应用3D打印技术?](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=d87Xm53nWpKWdDH-V2EM2th5RMSfzazBTYQ-M04BYdmYhzzDdpTL0Zq0QsSaHmykO3W1IBCQLpN28*s*o1BMUCXfuDsqxKqH5ozd0PEoexIcF98fSM2XaoBpVT5tsP14&new=1)
- > 导读：据Wohlers2020报告，汽车已经成为3D打印技术最大的应用，超越航空航天、医疗等领域。2020年10月，南极熊注意到，全球电动汽车领导厂商特斯拉的股价涨上天了，其市值达4000多亿美元，是宝马+奔驰+大众等汽...
- ## [高新区五家企业入选 贵州省大数据创新中心、创新创业基地名单](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=4Z73k0i2-dIasmH3NOyBvoKJzdNy8CShrcRqvu0Y32KFMJNyutNtQb4DQxlvMagHyCEhL4vQ4jn2NDl*P6ob9hz3nR26HOQsSvl6gLsz5pM=&new=1)
- > 本报讯 10月9日，记者从贵阳高新区大数据发展办公室获悉，贵州省大数据发展管理局近日公布了贵州省大数据创新中心、创新创业基地名单，贵阳高新区5家大数据企业上榜。　　据了解，为深入推进大数据战略行动...
- ## [虎牙、斗鱼正式达成合并协议；中国广电正式成立，或催生5G发展新格局；Linux 5.9 释出|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=07npCTVISOwRqUDchSztPbKqRcW0XmGo2sIW5uUpgsAOWkS4jE6CtyNmqXQwVD7uAA94TITYAo60IE22sWyCCr*RXilU9bYsthH1-mq*2e4Sjjl6SDP7YNaS-OqLphuq&new=1)
+ ## [UBBF 2020丨华为发布全场景智能联接解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=YAVDajA3ahezlAhaX19Z5i1tElluMBeJ0cso-1UHdA3axkemwxcLNM5uDIXCA36h*mtul55Sb1my2ASFs82KQc*EAWfGVxiT6SePkcLLgNLI0opwHeJ18RjmS18RKFUU&new=1)
+ > 今天，由联合国宽带委员会和华为共同举办的第六届全球超宽带高峰论坛（UBBF 2020）在北京开幕。论坛以“智能联接，共创行业新价值”为主题，探讨了智能时代联接产业发展的挑战与机遇。会上，华为常务董事汪涛发...
+ ## [想当青铜还是钻石?Facebook启动漏洞赏金“忠诚计划”](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=e3aweQ2Tvj8N8*3XrEXL9XplGHX1qgk-yvtAK*Wc7HPeBVctbnGTOYtDFHApM6890WuAC4dY99KWYZ6kc73uogqxrg13aHIk2GYIlDXB63zaNF0Le7EnWimr82hyySC*&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全10月13日讯 近日，社交媒体巨头Facebook推出了Hacker Plus，这是科技公司首次推出漏洞奖励平台的忠诚度计划。“Hacker Plus”是在航空公司和
+ ## [2020中国国际信息通信展，IPLOOK邀您细谈“5G”](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=RYPaI5WOKHIrTZA834r2hhUzeMG0NWFEfdfbzXcWp*ZIKgDXM*ssDcICmnIHu2RBjNl0qfvJUCLRQK6ArUga*aPmcqtKaByDZh66zJbbhJj7ej2T99NmWkf*6grePQ04&new=1)
+ > 5G是一个万物互联的时代，发展目标是实现网络连续广域覆盖、热点高容量、低功耗大连接和低时延高可靠，满足eMBB、mMTC、uRLLC等应用场景下多样化的业务需求。而推动5G快速部署的关键在于 - 5G核心网。就在三天前...
+ ## [北京民营企业科技创新百强榜单发布 奇安信位列第七领跑网络安全行业](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=SktJF4yDPUxVc506v6vJXrtWoLYij8r2f4yIyjVeRDgtFguuO1BAiSWsnREqrsFaeSeXQ2NbmJmsn8gZaHjWxvfhC6YS0JkupvPmAbqSTus=&new=1)
+ > 10月10日，“2020北京民营企业科技创新百强榜单”正式发布，奇安信紧随百度、美团、京东、小米等传统互联网巨头位列第七，连续两年跻身科技创新百强榜单前十，在网络安全领域处于遥遥领先的地位。北京民营企业科...
+ ## [干货|SRAM与DRAM真正区别，你真的明白吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=ppQDQBV8tXkUnFa5y9LhEUKIl0hxa*U0QazzGAshB9JwvKW256PJoHsqxRT29F0eU-GZBilQ2nq0SbJhCSVsp0q6Hk3xGO1GuAWM3uptt*1GCQqpGxvWqtykhMMh6vL7&new=1)
+ > 在半导体存储器的发展中，静态存储器(SRAM)由于其广泛的应用成为其中不可或缺的重要一员。随着微电子技术的迅猛发展，SRAM逐渐呈现出高集成度、快速及低功耗的发展趋势。近年来SRAM在改善系统性能、提高芯片可靠...
+ ## [iPhone 12系列5G版本发布之前](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=bWhSg5pgr2uvtshlmHVzuL-xnoetrRSHZIxzloBo4kJjpcWzWsFKf6hoCgKY1j*Ld8KVbri7Z1n2YQAY2EEwpdg2SKQEd4Jk7*trfafEF*MVjLOQf1MUbIomUQDSZEm1&new=1)
+ > 文/DoNews专栏作者 李素玉图/IC Photo在人们普遍认为这是迄今为止最畅销的5G手机，iPhone 12推出之前不到三天时间前，美国电信运营商们正处于一个被倒逼的有趣的困境之中。据外媒报道，现实世界中，5G的性能好覆...
+ ## [\[报告\]汽车AI芯片行业研究(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=uS4kScV7b5JOUiCMcwat-fftHv2QvqRx6vap39BmaNfddmOb6j0XDNyhsyK1krkPdgcvPI1m2q1hF7QJLhX2RGuHM6WnLNiBjjlUJOBypKkzO09GZ*Sp8oitFjm2HlAU&new=1)
+ > 汽车已经诞生了100多年了，而在这这100多年里，人类一直在想如何让汽车自己开，不需要人工干预，但限于技术的限制，这个想法一直无法实现。但最近几年，随着芯片技术的发展，以及人工智能技术的进步，这个梦想似...
+ ## [微软“接管”了Trickbot僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=EW97rG7B1-oRIyvRZr4QgQqaOoaAr2PE9ZHVe4JCx*xaaAR98MVLM8XmB-RMyaOiLtHguq5gUUodIb1J2KanEaZ1Ium98uGKQx9wUd-hbTdTW5s-jZIO39lo6EneS6Aq&new=1)
+ > 安全牛评虽然头号勒索软件Ryuk已经开始有意减少在商业木马/僵尸网络上的投放，转而使用可以绕过安全工具的非现场工具，但是僵尸网络TrickBot和Emotet依然是大多数勒索软件的主流投放平台，而且技术迭代速度很快...
+ ## [2020年前三季度物联网专利申请排行榜TOP50](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=g5tEcQuoPnmsYgtynuGuUmATZArGa278s8pzb6H*dhuMFp5MeL0vpaqQSoPdI2rI6-tP0c6HOfmLl-2GzSxSvoYp3TzhC6Sdc4Ua5mgjcjWHYd-ey3eML2BjmngPex1w&new=1)
+ > 零壹智库数据显示，截至2020年9月，我国国内累计申请了5.07万件物联网专利，其中在2020年（1月-9月）申请了2490件专利。专利申请数量最多的5家企业分别是，国家电网（81件）、特斯联（26件）、南方电网（19件）...
+ ## [企业需要更新过时的灾难恢复计划](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=3MSkCL5QMrsXIRwC6AFJ2sYau0lZ9vrZ9t5p7Fgems5sadUVO*BAyrKsf48nN*JQ-NGS1tC4yGvkdmHGMinG*B1FR16qHuY8aGzLZxWqG5DLIT-6l-5kUbYfpKfk1XLY&new=1)
+ > 关键讯息，D1时间送达！由于灾难恢复计划可能很快就会过时，因此许多企业现在需要使其方法实现现代化，并要用更多自动化技术。作为一家社区银行的灾难恢复和信息安全负责人，James Hinks对灾难恢复有一些心得。...
+ ## [个人信息保护立法规范平台擅自收集用户数据等行为](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=ex9Z5iAnq2LQyJSJK9M2xvCr2gnUGWTD3k-dLWwon47IeTzi9WT06DB6tAzSr3DKgvqyhj0D8SPUVsuG0cib*cLYmWn-R0lYmaoh6OvP3ss=&new=1)
+ > 在网上搜索一个商品，接着就收到无数同类商品的广告推送……13日提请全国人大常委会会议审议的个人信息保护法草案对此类现象有说法了！草案规定，处理个人信息应当在事先充分告知的前提下取得个人同意，并且...
+ ## [“下一代移动计算平台”会是一副眼镜吗?这家XR公司是这么认为的](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=tuL51Z6Im7oFE0LXhsKqq0nJxKKvk5px45qLJq722adM-f75igqJ9S69BQijQkhA00A3buK7llBa7Leap81extT9QDvoZRCGJtAmwF*-b-njKGjPwOIwcqivKKGgvJek&new=1)
+ > 图片来源：视觉中国「不过，目前的XR设备可能还像一只早期的大哥大。」记者 | 娄晓晶带上沉重的VR一体机，身临其境地打一款游戏或许是几年前最时髦的科技体验；微软出品的可以将虚拟与现实融为一体的HoloLens 眼...
+ ## [微软资深副总裁柯睿杰：创新力文化是增强经济复苏力和企业韧性的秘诀](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=SQZymEc4zT68vObFZRU7*b2H8TXD0qkJtH8NKHM912CRGYfbhoeaF0lgrlLk8cJWZB1jX66nvRqoqqc3WH0VnBxmyWlxJ4GC4xDNOY*0UvBGP6ENrxk8MmyasDgf4DZY&new=1)
+ > （本文阅读时间：9分钟）▲柯睿杰 (Alain Crozier) 微软公司资深副总裁、微软大中华区董事长兼首席执行官伴随着全球持续应对新型冠状病毒肺炎疫情带来的后续影响，我们可以看到，越来越多的企业开始重塑自我，尝...
+ ## [虎牙、斗鱼正式达成合并协议；中国广电正式成立，或催生5G发展新格局；Linux 5.9 释出|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=07npCTVISOwRqUDchSztPbKqRcW0XmGo2sIW5uUpgsCnkTDfhyROQNzpjblvwnoeYUuRtpwJoX9EB9P*utIUtzv*4O63Bm7NAJ37AIoT-FJsvXd3O-ws69pUAFckkViP&new=1)
  > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
- ## [\[科技早报7点整\]国内第四大运营商中国广电成立 特朗普再被推特打上误导标记……](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=FWk9-OgO54bQDvF5ahzJmbbRXmDeZlna6gYCb4sqPFYJhZ89xs0tkKw3lPqGD1HS-0vYbTJMn3vN0NRnJEWIuGyNJfLBsDtv7WsHCRRA2W7x6*6duTFSbK*sdooYPhVt&new=1)
+ ## [苹果或彻底砍掉 Beats 耳机产品；斗鱼虎牙正式合并 高管保留；中国广电成第四大运营商 推 5G 192 号段；|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=YMJ5OT1xnp--KvzxK2x*nGBsYu-3zweSVo7Ri7GcLRQhOnGLjGR9eYiXSlAeLUbMEZpz2SGXTml4tMIc5Pg-0Wi-G-1hFKirr3vNZNHuBshj3G*Lq48cqYos1V*dYVf*&new=1)
+ > 斗鱼、虎牙合并将落锤：按 1：1 合并，新公司由腾讯控制10 月 12 日消息，记者从多方获悉，腾讯推动下的斗鱼、虎牙合并即将在日内敲定。其中关键信息为斗鱼、虎牙按照市值进行 1：1 合并，合并后公司为腾讯控股...
+ ## [70个汽车零件优化成一个!特斯拉将规模应用3D打印技术?](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=d87Xm53nWpKWdDH-V2EM2th5RMSfzazBTYQ-M04BYdnKdRmNzyGXbkFpdnbVs6hJ*h4SgEUdige1GIfJxDe62Qu*DtE4KWYwkv9JAprxY3n8ZGpmQQ6IAtHP6UuLeZW3&new=1)
+ > 导读：据Wohlers2020报告，汽车已经成为3D打印技术最大的应用，超越航空航天、医疗等领域。2020年10月，南极熊注意到，全球电动汽车领导厂商特斯拉的股价涨上天了，其市值达4000多亿美元，是宝马+奔驰+大众等汽...
+ ## [高新区五家企业入选 贵州省大数据创新中心、创新创业基地名单](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=4Z73k0i2-dIasmH3NOyBvoKJzdNy8CShrcRqvu0Y32LGlepFUVuDJSp9AKaN52ZBe0RU*mrhBBapPSair20wfsWLtb4hsvKsThkmJJGJaQ4=&new=1)
+ > 本报讯 10月9日，记者从贵阳高新区大数据发展办公室获悉，贵州省大数据发展管理局近日公布了贵州省大数据创新中心、创新创业基地名单，贵阳高新区5家大数据企业上榜。　　据了解，为深入推进大数据战略行动...
+ ## [\[科技早报7点整\]国内第四大运营商中国广电成立 特朗普再被推特打上误导标记……](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=FWk9-OgO54bQDvF5ahzJmbbRXmDeZlna6gYCb4sqPFbs9dQ5mFAHXQ180ryqJsIyID19GouXvEMb3DD0leIhJMhh-QTYqRRtZ3DaeXYUmjza6-bIKNU3*UIfXgyDiIXM&new=1)
  > 早上好，科技圈【一度蜜科技早报】第944期1.江西电信：手机欠费上征信仅针对恶意欠费用户 2020年11月起，中国电信江西省欠费信息将接入个人征信系统，若用户之前使用的电信产品欠费超过3个月未缴清，或享受了手...
- ## [微软称其破坏了Trickbot勒索软件僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=M1Oq2nq2eWauzgD7HuvDdvx4KUDaTOj4rotGAorsG1-fDIF*kdfAmlwED56G19swLzRPJ4NfeMNmY4cNsuiDGKVStzK8mntmY*58h0VJTjoo1tXGla2gBd4aH7E1WfIj&new=1)
+ ## [微软称其破坏了Trickbot勒索软件僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=M1Oq2nq2eWauzgD7HuvDdvx4KUDaTOj4rotGAorsG19jid1rzoptfwb3sFpdZmagAUWXdv*72ymqCXKuZpGa0siUHPTJZPCRWBa5eHlZ57*W4ISwBT8zIuvHUlFhVPP9&new=1)
  > 微软在博客宣布其近日破坏了Trickbot的僵尸网络，Trickbot是臭名昭著的勒索软件僵尸网络之一，自2016年底以来已经感染了超过100万台设备。Trickbot是一个多阶段的恶意软件，通常由1个外壳、1个加载器和1个主恶意...
- ## [重磅!备受关注，第四大运营商广电揭牌成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=zHDhuVfoRjJauRrnkIVBY-wL2EukxvD5gckAWDm4qICXEvAqrpVKOfeXUypLB1rWzvGlwuoPda74fd74U7dKDLIUvdQXaF-Hact8kW8M7hSBAd-KLpcZsxGVMQtFemIL&new=1)
+ ## [重磅!备受关注，第四大运营商广电揭牌成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1602577805&ver=2641&signature=zHDhuVfoRjJauRrnkIVBY-wL2EukxvD5gckAWDm4qIAXeUXs-pnE*P0G6u-9UuQe9n58C4DpIxmFD9M6Oah*nm-*mb98tFPWzvx3UmOlBHKWv3DKgMjEdHeNXon4qbdM&new=1)
  > 据通信产业报(网)消息，10月12日，备受关注的中国广电网络股份有限公司正式揭牌。千呼万唤始出来的“全国一网”整合有了实质进展。“全国一网”股份公司通过中国广电、各省网公司、战略投资者共同参与组建，形成...
- ## [5G|多省市宣布提前/超额完成全年5G基站建设任务](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=ocB--*b*i9ImUsUa4g9qhsQk0KpzhL2y1oEunfEdFN0xsmZazXUA2US4G4CLgENtvNEfV79cL7KCG2nG*FjQKkJCKR3nSo9F*DCbNGMcKebxX*llACx7k92ivbjGsTTE&new=1)
- > 新闻导读近日，广东、辽宁、江西等省市也宣布提前甚至超额完成了全年的5G基站建设目标。从各省市的表现及运营商的规划来看，今年我国5G建设有望超出年初目标。  ICC讯（编辑：Nina）近日，又有一些省市宣布提...
- ## [华为什么都能造?](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=52HMKT4ngZAs*IfL9AdWtTyVqit8X1XCMSMIsI0rYbJmBjvbkVmsJruw-tFw4LUCUCSOeNzByPEYjWzq5*41ELqY*O8L5ury8Wbrny2z1jfmbWcz4Y16ZbB*hq7qSafB&new=1)
- > 撰文 / 温   莎编辑 / 刘宝华设计 / 杜   凯十一前夕，比收拾行李等着过节的人更忙的是汽车人，比汽车人更忙的是华为IAS（智能汽车解决方案）BU人。 9月25日上午10点，华为智能汽车解决方案BU总裁王军在自家主办...
- ## [5G毫米波产业高峰论坛圆满召开!\[附嘉宾金句海报\]](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=sSp6IqU8LzWnatcg7OmajzGpIA4iASDNNmLu7I9FZRfu6Ag*DnxwocsUckxBUJ4Zb64iACjBpPm84D9iDrEDyTx4kF48nhOWgLGEM04UZw9mvAQEqsCp1gQBhlfu4cWM&new=1)
- > 5G毫米波的应用将开启5G发展的新阶段，有望释放出5G的全部潜能。为进一步讨论5G毫米波的未来、释放5G全部价值、推进5G毫米波产业的发展，由GSMA主办，信通传媒·通信世界全媒体承办，高通公司作为技术合作伙伴的...
- ## [中国第二大通信设备商吸取教训，研发先进工艺芯片提升芯片自给率](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=iGdytLCp-WDz*WOcE0vHlSVbzBin7Zwd3DiO-ByYINfGMxL54VDU3i4V-PSiKAIfHYVDW36sLghcIHloS2Nxm*mG7Mj6JpolBFuPYfsWocw-*OAe68vtgkTesXWXOR3Q&new=1)
- > 中国第二大通信设备商中兴通讯的高管表示7nm芯片已实现商用，正研发更先进的5nm芯片，它研发的芯片主要用于自己的通信设备，并非是目前受关注的手机芯片。2017年中兴通讯被美国罚款8.92亿美元，到了2018年它再次...
- ## [4年豪掷180亿打造智能纯电架构 吉利安聪慧：未来汽车一定要硬件软件深度融合](http://mp.weixin.qq.com/s?src=11&timestamp=1602561604&ver=2641&signature=946qDa2W1kVLoVX0YXSPdiVwOjE38Bj-m9DYw6f28tqlc9f-XvVEhp9K5mUxsoX51jTLtgMnmtYX1zH3m8h2-5x3ZPudNVJX1inWbb1emmTqRfxEDqvZbF8dXVAefc4*&new=1)
- > “大家原来对架构的理解，可能更多的是在机械架构部分。但实际上，我们在八年前就对未来的汽车，尤其是在电动化、智能化以后，应该是什么样的有过思考。我们认为应该是要软硬结合的，不是只靠软件，也不是大家现...
 # IT 技术 
+ ## [AI可以复制任何人类声音：这对播客意味着什么？](http://ai.51cto.com/art/202010/628406.htm)
+ > AI可以复制任何人类声音：这对播客意味着什么？
  ## [《HarmonyOS入门宝典》全网首发免费下载](http://news.51cto.com/art/202010/628374.htm)
  > 《HarmonyOS入门宝典》全网首发免费下载
  ## [人们需要关注并使用的公共数据集](http://bigdata.51cto.com/art/202010/628325.htm)
  > 人们需要关注并使用的公共数据集
+ ## [Kubernetes上对应用程序进行故障排除的6个技巧](http://developer.51cto.com/art/202010/628409.htm)
+ > Kubernetes上对应用程序进行故障排除的6个技巧
  ## [为什么我们要从ES迁移到ClickHouse？](http://developer.51cto.com/art/202010/628359.htm)
  > 为什么我们要从ES迁移到ClickHouse？
  ## [扩展机器学习模型的五大挑战](http://ai.51cto.com/art/202010/628326.htm)
  > 扩展机器学习模型的五大挑战
  ## [Java中的AQS到底是什么？高级面试必问！](http://developer.51cto.com/art/202010/628313.htm)
  > Java中的AQS到底是什么？高级面试必问！
- ## [如何使用Hi3861实现手机APP配网功能？](http://os.51cto.com/art/202010/628234.htm)
- > 如何使用Hi3861实现手机APP配网功能？
- ## [阿里技术专家：架构制图方法论](http://developer.51cto.com/art/202010/628181.htm)
- > 阿里技术专家：架构制图方法论
- ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
- > CSS 快速开发入门视频课程
- ## [华为发布全场景智能联接解决方案](http://network.51cto.com/art/202010/628393.htm)
- > 基于在5G、F5G、IPv6+等领域的长期投入，华为发布了全场景智能联接解决方案，让超宽带网络更高效、更环保，
- ## [OpenAI首次推出数学定理推理模型GPT-f，23个推导结果被专业数据库收录](http://news.51cto.com/art/202010/628397.htm)
- > 提到GPT家族，首先想到了必然是今年大火的GPT-3，这款基于Transformer架构的语言模型，在文本生成方面的能
- ## [德国软件巨头Software AG遭遇勒索软件攻击](http://zhuanlan.51cto.com/art/202010/628395.htm)
- > Software AG软件公司声称拥有10,000多个客户，年收入超过8亿欧元，上周晚些时候在简报中透露了遭受勒索软件
- ## [使用多个团队协作应用程序面临的挑战是什么?](http://network.51cto.com/art/202010/628394.htm)
- > 很多企业如今已经在使用各种团队协作平台。但是对它们进行有效管理并不容易。那么，企业在处理多个团队协作
- ## [分手后，你还在悄悄用我的账户密码吗 ？](http://netsecurity.51cto.com/art/202010/628392.htm)
- > 在科技时代，情侣关系中需要完全数字透明吗？过度分享有多危险？
- ## [一个APP如何适配多个Andiroid终端？](http://zhuanlan.51cto.com/art/202010/628396.htm)
- > 传统的多终端适配方案，是为大尺寸Pad开发一个特定的HD版本。但是目前支持Android系统的设备类型越来越丰富
- ## [中国App Store免费榜应用排行，十月QQ、快手掉出前十](http://mobile.51cto.com/hot-628386.htm)
- > 七麦数据公布了中国App Store免费榜的应用排行榜单，截止至十月初的榜单，本次排行相较上个月变化较大，拼
- ## [MySQL事务与MVCC如何实现的隔离级别](http://database.51cto.com/art/202010/628385.htm)
- > 其实数据库章节基本上的知识点我都写过一遍了，包括这篇事务和MVCC的，但是国庆期间我翻阅资料的时候我发现
- ## [iPhone耗电元凶确定！苹果：我认错](http://mobile.51cto.com/news-628384.htm)
- > 自六月初苹果发布iOS 13.5.1版本后，不少用户反映称Apple Music导致iPhone耗电严重，甚至包括iPad。部分用
- ## [面部识别设备中存在多处可利用的漏洞](http://netsecurity.51cto.com/art/202010/628382.htm)
- > 为了对面部识别设备中存在的安全性问题有更细微的了解，研究人员分析了四种不同模型的安全性。研究人员的案
+ ## [MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04](http://fellow.51cto.com/art/202008/623588.htm?qd=51ctojrzd)
+ > MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04
+ ## [UBBF2020：智能联接，共创行业价值新增长](http://network.51cto.com/art/202010/628446.htm)
+ > 本次UBBF持续3天，多位来自政府、企业、运营商和学界的大咖针对目前超宽带网络发展的现状和面临的新挑战，
+ ## [人工智能该如何实现人性化，才能建立起自身可信度？](http://ai.51cto.com/art/202010/628442.htm)
+ > 人工智能(AI)往往被视为一种暗箱实践，即人们并不关注技术本身的运作方式，只强调其能够提供看似正确的结果
+ ## [近几年大火的人工智能专业，为什么不建议你去报名？看看你就知道](http://news.51cto.com/art/202010/628440.htm)
+ > 最近教育部公布，有35所国家重点的大学，将在2019年新增人工智能专业的本科学位，这些大学分别是上海交通大
+ ## [2020 10大薪资比较高的IT编程语言排名](http://news.51cto.com/art/202010/628439.htm)
+ > 坊间流传一句俗语：三百六十行，行行转IT。IT行业自2016年首次超过金融行业以后，一直到现在每年都是稳居
+ ## [外媒：iPhone 12可能在英国遇到5G网络连接问题](http://mobile.51cto.com/news-628437.htm)
+ > 据国外媒体报道，苹果即将发布的iPhone 12可能在英国遇到5G网络连接问题，因为该国使用的是700MHz 5G频段，
+ ## [Chrome浏览器份额全球第一给谷歌惹上垄断麻烦：或被迫出售](http://os.51cto.com/art/202010/628435.htm)
+ > 在桌面浏览器市场，谷歌Chrome的份额达到了7成左右，是当之无愧的大哥。然而，这么优异的表现却让美国司法
+ ## [分手后，你还在悄悄用我的账户密码吗？](http://netsecurity.51cto.com/art/202010/628434.htm)
+ > 在科技时代，情侣关系中需要完全数字透明吗?过度分享有多危险?如果你正在恋爱，但还没有结婚，你会和你的另
+ ## [一分钟看懂边缘计算和云计算](http://cloud.51cto.com/art/202010/628433.htm)
+ > 在近十年中，发生了一场从本地计算到云计算的转变，允许系统集中和可访问，并提高了安全性和协作性。而如今
+ ## [这10个机器学习开源工具，你用过吗？](http://ai.51cto.com/art/202010/628432.htm)
+ > 作为机器学习开发人员，你可能已经接触到很多机器学习资源，今天给大家介绍10个机器学习开源工具，有很多都
+ ## [学历相对比较低的初学者，该学习大数据还是人工智能](http://news.51cto.com/art/202010/628431.htm)
+ > 首先，当前IT互联网领域的人才需求潜力还是比较大的，大数据、人工智能等新技术领域也有较大的人才缺口，但
 # PM 
  ## [交互原型细节提升之路](http://www.chanpin100.com/article/112827)
  > 之前发布了几篇关于组件如何构建的文章，大家对组件的整体构建步骤有了一定的了解，整体的大框架上都较为熟悉。本次分享主要切入点是如何运用设计规范以及前端基础知识来辅助，进行原型交互细节提升，希望本次分享能够带给大家帮助。为了更加方便本次的细节处理讲解，本次将引入“卡片化设计模板”的制作来具体聊一聊交互细
