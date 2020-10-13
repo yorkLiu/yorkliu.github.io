@@ -1,22 +1,24 @@
 ---
 title: 2020-10-13 IT News
 copyright: true
-date: 2020-10-13 08:00:57
+date: 2020-10-13 09:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [4年豪掷180亿打造智能纯电架构 吉利安聪慧：未来汽车一定要硬件软件深度融合](http://mp.weixin.qq.com/s?src=11&timestamp=1602545404&ver=2641&signature=946qDa2W1kVLoVX0YXSPdiVwOjE38Bj-m9DYw6f28trfKbRSB-zygDhO3L0XFA8JAfA3DhWDZvtir7fS56Fryw5YK2S5AKyML-ohgXgOKkXRh20tdnwO3R*aCcwoun1B&new=1)
- > “大家原来对架构的理解，可能更多的是在机械架构部分。但实际上，我们在八年前就对未来的汽车，尤其是在电动化、智能化以后，应该是什么样的有过思考。我们认为应该是要软硬结合的，不是只靠软件，也不是大家现...
- ## [中国第二大通信设备商吸取教训，研发先进工艺芯片提升芯片自给率](http://mp.weixin.qq.com/s?src=11&timestamp=1602545404&ver=2641&signature=iGdytLCp-WDz*WOcE0vHlSVbzBin7Zwd3DiO-ByYINc6j7GEevHb4fo7evRuYdFQcSoAA9CkFesRDnYJoCxCvj*iLMGz2*0mNw1eriNAOY1e-TMzQs1Y9jkB67xesHOz&new=1)
- > 中国第二大通信设备商中兴通讯的高管表示7nm芯片已实现商用，正研发更先进的5nm芯片，它研发的芯片主要用于自己的通信设备，并非是目前受关注的手机芯片。2017年中兴通讯被美国罚款8.92亿美元，到了2018年它再次...
- ## [微软称其破坏了Trickbot勒索软件僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602545404&ver=2641&signature=M1Oq2nq2eWauzgD7HuvDdvx4KUDaTOj4rotGAorsG19xWTQqIi6uwL-brazO678Pyx9Tb4BMYSgqo7AbbU9*LImcAsfkr5UHW1-qBp3EqrwJmY4vA31gcxcBvbTLC6xI&new=1)
- > 微软在博客宣布其近日破坏了Trickbot的僵尸网络，Trickbot是臭名昭著的勒索软件僵尸网络之一，自2016年底以来已经感染了超过100万台设备。Trickbot是一个多阶段的恶意软件，通常由1个外壳、1个加载器和1个主恶意...
- ## [重磅!备受关注，第四大运营商广电揭牌成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1602545404&ver=2641&signature=zHDhuVfoRjJauRrnkIVBY-wL2EukxvD5gckAWDm4qICOGhLcHPxh8r8jyVLJbjJDkUPua-xOOnIT5rR6WEwevWzzf0PLR4rQbBLqKzO6vmIKMgxfPffqTnN9YMpjVaQR&new=1)
- > 据通信产业报(网)消息，10月12日，备受关注的中国广电网络股份有限公司正式揭牌。千呼万唤始出来的“全国一网”整合有了实质进展。“全国一网”股份公司通过中国广电、各省网公司、战略投资者共同参与组建，形成...
- ## [5G毫米波产业高峰论坛圆满召开!\[附嘉宾金句海报\]](http://mp.weixin.qq.com/s?src=11&timestamp=1602545404&ver=2641&signature=sSp6IqU8LzWnatcg7OmajzGpIA4iASDNNmLu7I9FZRdnM-C8y-2AbpVkepObKST7h*uqpKXctTxGoR*9yPZxL3u3EQh-mGh1WZkRBjycEBHk037Z-BPvy4CI7RkSGXtN&new=1)
+ ## [5G毫米波产业高峰论坛圆满召开!\[附嘉宾金句海报\]](http://mp.weixin.qq.com/s?src=11&timestamp=1602549005&ver=2641&signature=sSp6IqU8LzWnatcg7OmajzGpIA4iASDNNmLu7I9FZRdnM-C8y-2AbpVkepObKST7iignUAIzj9LW*3pxI*x0zWQYF7pKXICHm3NZVo13Q7EHYhoz-A0uV9Yx3Nw*qmv8&new=1)
  > 5G毫米波的应用将开启5G发展的新阶段，有望释放出5G的全部潜能。为进一步讨论5G毫米波的未来、释放5G全部价值、推进5G毫米波产业的发展，由GSMA主办，信通传媒·通信世界全媒体承办，高通公司作为技术合作伙伴的...
+ ## [微软称其破坏了Trickbot勒索软件僵尸网络](http://mp.weixin.qq.com/s?src=11&timestamp=1602549005&ver=2641&signature=M1Oq2nq2eWauzgD7HuvDdvx4KUDaTOj4rotGAorsG19xWTQqIi6uwL-brazO678PfCtMUEh1ZjN*efeArGqivRDGUl47FPZe4IiwH0RrDgkvB*-kLx2W4YU3Va-EC5R*&new=1)
+ > 微软在博客宣布其近日破坏了Trickbot的僵尸网络，Trickbot是臭名昭著的勒索软件僵尸网络之一，自2016年底以来已经感染了超过100万台设备。Trickbot是一个多阶段的恶意软件，通常由1个外壳、1个加载器和1个主恶意...
+ ## [中国第二大通信设备商吸取教训，研发先进工艺芯片提升芯片自给率](http://mp.weixin.qq.com/s?src=11&timestamp=1602549005&ver=2641&signature=iGdytLCp-WDz*WOcE0vHlSVbzBin7Zwd3DiO-ByYINc6j7GEevHb4fo7evRuYdFQhe-4tPqwyYARAo2e5kz*XunKgPrascDQHJVQrJqhPi9RcTlgQSfvE6chDxm5sAoY&new=1)
+ > 中国第二大通信设备商中兴通讯的高管表示7nm芯片已实现商用，正研发更先进的5nm芯片，它研发的芯片主要用于自己的通信设备，并非是目前受关注的手机芯片。2017年中兴通讯被美国罚款8.92亿美元，到了2018年它再次...
+ ## [4年豪掷180亿打造智能纯电架构 吉利安聪慧：未来汽车一定要硬件软件深度融合](http://mp.weixin.qq.com/s?src=11&timestamp=1602549005&ver=2641&signature=946qDa2W1kVLoVX0YXSPdiVwOjE38Bj-m9DYw6f28trfKbRSB-zygDhO3L0XFA8J2qEt-YAjR*AyHYsaO2eXRPQ4DMfG3176C3Eqp4QXhr0le5aiMCtQJTlu0gXycaFX&new=1)
+ > “大家原来对架构的理解，可能更多的是在机械架构部分。但实际上，我们在八年前就对未来的汽车，尤其是在电动化、智能化以后，应该是什么样的有过思考。我们认为应该是要软硬结合的，不是只靠软件，也不是大家现...
+ ## [重磅!备受关注，第四大运营商广电揭牌成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1602549005&ver=2641&signature=zHDhuVfoRjJauRrnkIVBY-wL2EukxvD5gckAWDm4qICOGhLcHPxh8r8jyVLJbjJDSBxhaRpKR6jFjsXbBj7ykmWt8N0QeEWfYeu9lHKtTnNUfRQcK61wn4l5PqzzviW5&new=1)
+ > 据通信产业报(网)消息，10月12日，备受关注的中国广电网络股份有限公司正式揭牌。千呼万唤始出来的“全国一网”整合有了实质进展。“全国一网”股份公司通过中国广电、各省网公司、战略投资者共同参与组建，形成...
 # IT 技术 
+ ## [啃下Python学习中的三块硬骨头](http://developer.51cto.com/art/202010/628327.htm)
+ > 啃下Python学习中的三块硬骨头
  ## [人们需要关注并使用的公共数据集](http://bigdata.51cto.com/art/202010/628325.htm)
  > 人们需要关注并使用的公共数据集
  ## [扩展机器学习模型的五大挑战](http://ai.51cto.com/art/202010/628326.htm)
@@ -29,47 +31,57 @@ categories: IT NEWS
  > Jenkins与GitLab CI/CD的深入评估和比较
  ## [实例 | 使用CNN和Python实施的肺炎检测](http://ai.51cto.com/art/202010/628231.htm)
  > 实例 | 使用CNN和Python实施的肺炎检测
- ## [43000张图片和5项原则：用数据科学方法评选十大最火表情包](http://bigdata.51cto.com/art/202010/628127.htm)
- > 43000张图片和5项原则：用数据科学方法评选十大最火表情包
- ## [Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06](http://fellow.51cto.com/art/202008/623590.htm?qd=51ctojrzd)
- > Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06
+ ## [Python大数据+人工智能-语言篇](http://fellow.51cto.com/art/202007/622443.htm?qd=51ctojrzd)
+ > Python大数据+人工智能-语言篇
+ ## [中欧应加强5G合作共推数字经济发展](http://network.51cto.com/art/202010/628354.htm)
+ > 2020年9月，由欧盟中国商会举办的“中欧商业对话”在线上举行，中国与欧盟等国的政要与智库专家们以“数字
+ ## [历时 1 个月，做了 10 个 Python 可视化动图，用心且精美...](http://developer.51cto.com/art/202010/628353.htm)
+ > 最近1个月，我使用Python绘图库pyecharts，画了十类图，在这里总结一下。同时，我始终相信：慢工出细活，做
+ ## [关系感知路由与全球流量调度 ・ SOSP 2019](http://network.51cto.com/art/202010/628348.htm)
+ > 本文要介绍的是 2019 年 SOSP 期刊中的论文 ―― Taiji: Managing Global User Traffic for Large-Scale In
+ ## [Exa  替代ls命令的超好用工具](http://developer.51cto.com/art/202010/628346.htm)
+ > Exa是一个漂亮的命令行工具，它能够使用不同的颜色来显示各种文件类型、文件权限和所有权、block和inode的
+ ## [Serverless之Framework――图文玩转 AWS Lambda](http://server.51cto.com/sOS-628345.htm)
+ > 前言微服务架构有别于传统的单体式应用方案，我们可将单体应用拆分成多个核心功能。每个功能都被称为一项服
  ## [关于 缓存穿透/缓存击穿/缓存雪崩 看这篇文章就够了](http://stor.51cto.com/art/202010/628342.htm)
  > 一般情况下，去查询数据的话，缓存里面应该都是有的，但是防不住黑客呀，如果黑客请求查询的是数据库里面根
+ ## [为什么你的数据仓库项目推进不下去？](http://bigdata.51cto.com/art/202010/628337.htm)
+ > 不同的团队会面临不同的难题，今天居士简单聊一下这几年自己亲身经历以及帮助一些小伙伴解惑后的一些感想。
  ## [84岁日本老奶奶： IOS 女性独立开发者，一生传奇！](http://mobile.51cto.com/anews-628336.htm)
  > 在大多数人眼里，“编程”这项工作，是实打实的“青春饭”。在瞬息万变的互联网行业，互联网人的“35岁”，
  ## [编程语言的 IDE 支持](http://developer.51cto.com/art/202010/628335.htm)
  > 或许是出自于对编写编程语言的兴趣，又或许是对于创建 IDE/编辑器的兴趣，对于『IDE/编辑器是如何提供编程
 # 人工智能 
- ## [在图上发送消息的神经网络MPNN简介和代码实现](https://blog.csdn.net/m0_46510245/article/details/109008017)
- > 在图上发送消息的神经网络MPNN简介和代码实现
- ## [STM32MP157系列教程连载-Cortex-M4开发篇1：STM32MP1微控制器之开发环境](https://blog.csdn.net/stm_fpga/article/details/108999178)
- > STM32MP157系列教程连载-Cortex-M4开发篇1：STM32MP1微控制器之开发环境
- ## [使用WSL配合Visual Studio在本地调试linux c++程序的配置方法](https://blog.csdn.net/Fanxy_D/article/details/109007660)
- > 使用WSL配合Visual Studio在本地调试linux c++程序的配置方法
- ## [微信小程序和8266串口透传 控制8266 配网 微信公众号配网 app配网 物联网esp8266](https://blog.csdn.net/QiongJiShengBian/article/details/109004536)
- > 微信小程序和8266串口透传 控制8266 配网 微信公众号配网 app配网 物联网esp8266
- ## [你知道PMU与PMU的区别吗？](https://blog.csdn.net/wwa19940308/article/details/108996683)
- > 你知道PMU与PMU的区别吗？
- ## [wifi避障小车最终完整版（可实现手机端操作小车）](https://blog.csdn.net/Tiazz/article/details/109008477)
- > wifi避障小车最终完整版（可实现手机端操作小车）
- ## [STM32工程--IO口--按键控制点灯程序](https://blog.csdn.net/qq_38326581/article/details/109004517)
- > STM32工程--IO口--按键控制点灯程序
- ## [VARON设计流程及示例](https://blog.csdn.net/weixin_49617016/article/details/108994019)
- > VARON设计流程及示例
- ## [基于模型（MBD）的树莓派程序开发——设置树莓派自动连接wifi和使用指令连接Matlab/Simulink和树莓派（不使用树莓派连接向导连接）](https://blog.csdn.net/weixin_44281768/article/details/109010923)
- > 基于模型（MBD）的树莓派程序开发——设置树莓派自动连接wifi和使用指令连接Matlab/Simulink和树莓派（不使用树莓派连接向导连接）
- ## [MSP430F5529驱动0.96寸OLED显示](https://blog.csdn.net/qq_45100839/article/details/109005107)
- > MSP430F5529驱动0.96寸OLED显示
- ## [将无线研究从实验室转移到现场](https://blog.csdn.net/weixin_43123641/article/details/108993920)
- > 将无线研究从实验室转移到现场
- ## [树-1-二叉树的三种遍历](https://blog.csdn.net/qq_37409526/article/details/108994604)
- > 树-1-二叉树的三种遍历
- ## [嵌入式C语言深入篇之 —— 变量](https://blog.csdn.net/u010119959/article/details/109003528)
- > 嵌入式C语言深入篇之 —— 变量
- ## [STM32单片机定时器编码器模式以及定时器的外部触发模式配置的配置](https://blog.csdn.net/weixin_44510408/article/details/109003424)
- > STM32单片机定时器编码器模式以及定时器的外部触发模式配置的配置
- ## [1-1、秋招年3-5月准备期——《Verilog HDL高级数字设计》（第二版）](https://blog.csdn.net/zhuogu9963/article/details/109008766)
- > 1-1、秋招年3-5月准备期——《Verilog HDL高级数字设计》（第二版）
+ ## [开源：教师评价系统](https://blog.csdn.net/qq_28929579/article/details/94745421)
+ > 开源：教师评价系统
+ ## [关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题](https://blog.csdn.net/qq_24036979/article/details/101308486)
+ > 关于解决Ubuntu16.04中pip和pip3同时指向Python3.5的问题
+ ## [Windows下Dvwa靶场环境配置（网络攻防)](https://blog.csdn.net/Cai1010110/article/details/101306206)
+ > Windows下Dvwa靶场环境配置（网络攻防)
+ ## [Phpstudy隐藏后门](https://blog.csdn.net/qq_41770175/article/details/101277851)
+ > Phpstudy隐藏后门
+ ## [【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战](https://blog.csdn.net/weixin_38657051/article/details/101061005)
+ > 【Jenkins+Ansible+Gitlab 自动化部署三剑客】学习笔记-第五章 5-1~5-5 Freestyle Job实战
+ ## [php一句话木马变形技巧](https://blog.csdn.net/bylfsj/article/details/101227210)
+ > php一句话木马变形技巧
+ ## [docker文件存放路径, 获取容器启动命令](https://blog.csdn.net/eyeofeagle/article/details/101273223)
+ > docker文件存放路径, 获取容器启动命令
+ ## [如何安装pkg-config](https://blog.csdn.net/Charliewolf/article/details/101273248)
+ > 如何安装pkg-config
+ ## [把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format](https://blog.csdn.net/weixin_42096901/article/details/101288346)
+ > 把编译好的ko文件加载模块时出错：Error: could not insert module hello_world.ko: Invalid module format
+ ## [ceph客户端安装配置访问rbd](https://blog.csdn.net/allway2/article/details/101276004)
+ > ceph客户端安装配置访问rbd
+ ## [OpenLDAP源码安装及配置管理](https://blog.csdn.net/miaodichiyou/article/details/101284396)
+ > OpenLDAP源码安装及配置管理
+ ## [【Nginx】nginx 的三种反向代理方式](https://blog.csdn.net/AV_woaijava/article/details/101277947)
+ > 【Nginx】nginx 的三种反向代理方式
+ ## [Janus WebRTC服务器部署](https://blog.csdn.net/xipiaoyouzi/article/details/101300117)
+ > Janus WebRTC服务器部署
+ ## [Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）](https://blog.csdn.net/u010018991/article/details/101280255)
+ > Linux应用程序开发笔记：配置linuxptp开机启动（ubuntu gPTP）
+ ## [Istio组件日志设置](https://blog.csdn.net/luo15242208310/article/details/98745143)
+ > Istio组件日志设置
 # PM 
  ## [产品经理，被困在系统里](http://www.chanpin100.com/article/112760)
  > 不止外卖小哥，我们产品狗也一样...
