@@ -1,89 +1,95 @@
 ---
 title: 2020-10-14 IT News
 copyright: true
-date: 2020-10-14 09:01:16
+date: 2020-10-14 10:01:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [手机欠费将上征信黑名单，后果很严重!](http://mp.weixin.qq.com/s?src=11&timestamp=1602635405&ver=2643&signature=9nykUrdTDcqMrrtcGK-hLWY50LhWwPtxGjnZX3QJmuvRto*oZS*-WFq-3klEedRuC4q8WPovPZ0zlZf7OmwY4GJVzC5MFrtHvD7Jqk5EPoHvgBNI7IyXZDUyRj9Alx*9&new=1)
- > 现在，越来越多的指标被列入个人征信了。比如信用卡逾期、拖欠贷款、水电没按时缴费等等。个人征信对每个人都很重要，这个会影响贷款、买房甚至会影响到个人出行。前段时间，罗永浩就因为个人征信问题被消费限制...
- ## [特斯拉内华达州超级工厂招聘3D打印技术人才](http://mp.weixin.qq.com/s?src=11&timestamp=1602635405&ver=2643&signature=vVRZEloHpInM0uRZk9navxtbH6FPWHf4HhpYmSLHleeKRxicFqqKdGcvzsgIhjhjQYfibhfJoSkh00KMyCcuN3on0rm09bicOyKvClYRMVSMqtc1qUn39lGXQCEP-LWz&new=1)
- > 随着汽车领域3D打印（即增材制造）得到广泛的应用，全球领先的电动汽车制造商特斯拉也加入到这一队伍之中。日前，特斯拉发布了最新的招聘启事，为美国内华达州超级工厂招聘增材制造技术员，其中提及到了快速发展...
- ## [家庭、企业市场深藏万亿元空间?华为丁耘：靠智能联接打开](http://mp.weixin.qq.com/s?src=11&timestamp=1602635405&ver=2643&signature=hpAhvLycrNyAjMxQ*UxQBtaAegsfHpJctTBS-g*CAZXrH2b6C*8Cgso0EwaJwFzLaqdqHm7Yd20RCZiDTrTW-t2zFO3nFodOTM95pyPjfh4DV91kFNKSR*KOw2sXTgov&new=1)
+ ## [家庭、企业市场深藏万亿元空间?华为丁耘：靠智能联接打开](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=hpAhvLycrNyAjMxQ*UxQBtaAegsfHpJctTBS-g*CAZXBlewKo7nOfMawCW42om2EcGgmVxq3Or8cA86qN*wMC3UwQumP5cmGqZYNwV69oNh5aDwJoVmEdxtHa6Bw5w94&new=1)
  > 固定宽带业务一直是运营商两大传统支柱业务之一。纵观多个领先运营商的财报，我们能发现固网宽带贡献了大量收入。但是目前有人认为宽带业务这个生意进入同质化竞争，陷入价格战的泥潭，无法实现价值提升。对此，...
- ## [“十四五”马上来临，产业投资应该投什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1602635405&ver=2643&signature=AytlhbrOTUVuG-EUv7uNodcHSawX8oKDF50p*URZ0Dd4kFk8H7REt7*YjXnjJmcjz7XReuJ0p5soSvlmWEUd-2g41s4pA3u5Q9QW2dBK25wo0oNrAagc1oCrQU6G-uOB&new=1)
+ ## [\[科技早报7点整\]特斯拉再次调整Model S价格 五眼联盟被爆要科技公司开后门……](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=Vc7afQnvhjB6mthVvYIk8JhtuntgXD2oYBEHot6NeG9UXuNfARMMwJy8xyaBGnR*28ZMX3CboXE1n-tNrKL7hn6lKdlG9kHWc74UfTnIn-7rp6OYiR3R1E3d0qVc5pbE&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第945期1.我国人均每天刷短视频110分钟 《2020中国网络视听发展研究报告》显示，截至2020年6月，我国网络视听用户规模达9.01亿，我国网络直播用户规模达5.62亿，其中电商直播用...
+ ## [\[报告\]2020年9月汽车工业经济运行情况(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=lePtVF6ekt9g*s9eNoBtyAvRJwkBdqTgzZaoscgRdvgYAEDRJZ7SJX9qjv8ByJ8lOhFUmeYnoJFtePLcnCDELDFlokxedHh0FXx5tMv94iMU8daT*M4JoTWvw9vL2dp8&new=1)
+ > 2020年9月，汽车产销分别完成252.4万辆和256.5万辆，环比分别增长19.1%和17.4%，同比分别增长14.1%和12.8%。截至本月，汽车产销已连续6个月呈现增长，其中销量已连续五个月增速保持在10%以上。2020年1-9月，汽
+ ## [徐大全：华为 is 华为，博世 is 博世](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=KTdl8XYnuplkwNhyFCE8TIj7ZMOTzYXqGpwvh8NUk9Kqi1Ws35FQ8uVbYYAz99hxh0KzW6ZSIUOokjs9lFDqhKdqmvKg9DyuMOH23hNqPMe50gK6pnOWZQL93agTJTO8&new=1)
+ > 撰文 / 涂彦平编辑 / 钱亚光设计 / 杜   凯 新晋智能网联汽车增量部件供应商华为，与有百年历史的汽车零件部巨头博世在业务有诸多重合之处，这样的两家大企业难免被拿来比较。最近佐思汽研选择了41项新四化指标...
+ ## [“十四五”马上来临，产业投资应该投什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=AytlhbrOTUVuG-EUv7uNodcHSawX8oKDF50p*URZ0Dcvx8*ab-vZX5WDh6qOX6qJsVmpq1TBKUyvJCd63aTg-kc*FTnI2YM6HpmijfzcYrdCU4AP8ob3MKWIRVEkhTWH&new=1)
  > 今天的中国正处在从旧常态跃迁到新常态、从高速增长向高质量发展转型的攻坚期，“十四五”规划起止时间2021-2025年，是开启全面建设社会主义现代化国家新征程的第一个五年规划，人工智能、5G、大数据、新能源、...
- ## [“芯事”重重英特尔](http://mp.weixin.qq.com/s?src=11&timestamp=1602635405&ver=2643&signature=62cWkPb1ytB6uYSSYxZdbDidzx*hqomUZlB7*Y0w*1qM46zg1cZIdwExRfRo6Voputivfj8qbLW8nRheUykItcxSzuQNi2S7o9GBOIDsHKCkSxTvZjP512fLCJZiyyhz&new=1)
+ ## [手机欠费将上征信黑名单，后果很严重!](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=9nykUrdTDcqMrrtcGK-hLWY50LhWwPtxGjnZX3QJmuuuhh1z1K*gYPx5hK8NpMfDHgGBqI*Mi2tD411wLzGYYLWt12oxsSbNoCjAdzUKl3s0arL5BEkj4GTVBQj73*MP&new=1)
+ > 现在，越来越多的指标被列入个人征信了。比如信用卡逾期、拖欠贷款、水电没按时缴费等等。个人征信对每个人都很重要，这个会影响贷款、买房甚至会影响到个人出行。前段时间，罗永浩就因为个人征信问题被消费限制...
+ ## [特斯拉内华达州超级工厂招聘3D打印技术人才](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=vVRZEloHpInM0uRZk9navxtbH6FPWHf4HhpYmSLHlecBtT88fWAJv4MesECg7tm2K7xmf1kK2hu*uVKx3U581Dg7pa*-Nqx3XVH-nUAVp-MpogEPBeTFDRqJSOTfxW-x&new=1)
+ > 随着汽车领域3D打印（即增材制造）得到广泛的应用，全球领先的电动汽车制造商特斯拉也加入到这一队伍之中。日前，特斯拉发布了最新的招聘启事，为美国内华达州超级工厂招聘增材制造技术员，其中提及到了快速发展...
+ ## [“芯事”重重英特尔](http://mp.weixin.qq.com/s?src=11&timestamp=1602640804&ver=2643&signature=62cWkPb1ytB6uYSSYxZdbDidzx*hqomUZlB7*Y0w*1q45TaEogT9XFJVpogpnzYaaAqCZwjRl-2b8TNFXAtFARaaXtPvPoRxulQcj*zk4HGJIIcgSYYRQ7bfUXGCPmYy&new=1)
  > 曾经的创新引领霸主，为何日益迟滞成产业的陪跑者。作 者丨穆亦晴华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意最近，芯片巨头英特尔似乎“流年不利”，...
 # IT 技术 
- ## [值得推荐的五大开源在线机器学习环境](http://ai.51cto.com/art/202010/628328.htm)
- > 值得推荐的五大开源在线机器学习环境
+ ## [使用HiBurn烧录鸿蒙.bin文件到Hi3861开发板](http://os.51cto.com/art/202010/628508.htm)
+ > 使用HiBurn烧录鸿蒙.bin文件到Hi3861开发板
+ ## [值得您了解的六种排名靠前的SAST方案](http://netsecurity.51cto.com/art/202010/628331.htm)
+ > 值得您了解的六种排名靠前的SAST方案
+ ## [面试 | 再有人问Kafka，别说你不会！](http://developer.51cto.com/art/202010/628501.htm)
+ > 面试 | 再有人问Kafka，别说你不会！
+ ## [云提供商不会告诉您的云架构方面的三个秘密](http://cloud.51cto.com/art/202010/628318.htm)
+ > 云提供商不会告诉您的云架构方面的三个秘密
  ## [AI可以复制任何人类声音：这对播客意味着什么？](http://ai.51cto.com/art/202010/628406.htm)
  > AI可以复制任何人类声音：这对播客意味着什么？
  ## [《HarmonyOS入门宝典》全网首发免费下载](http://news.51cto.com/art/202010/628374.htm)
  > 《HarmonyOS入门宝典》全网首发免费下载
  ## [人们需要关注并使用的公共数据集](http://bigdata.51cto.com/art/202010/628325.htm)
  > 人们需要关注并使用的公共数据集
- ## [Kubernetes上对应用程序进行故障排除的6个技巧](http://developer.51cto.com/art/202010/628409.htm)
- > Kubernetes上对应用程序进行故障排除的6个技巧
- ## [为什么我们要从ES迁移到ClickHouse？](http://developer.51cto.com/art/202010/628359.htm)
- > 为什么我们要从ES迁移到ClickHouse？
- ## [值得您了解的六种排名靠前的SAST方案](http://netsecurity.51cto.com/art/202010/628331.htm)
- > 值得您了解的六种排名靠前的SAST方案
- ## [MySQL表分区管理_MySQL数据库性能优化与运维诊断02](http://fellow.51cto.com/art/202008/622840.htm?qd=51ctojrzd)
- > MySQL表分区管理_MySQL数据库性能优化与运维诊断02
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [5G网络切片的关键一刀怎么切？](http://network.51cto.com/art/202010/628509.htm)
+ > 自从5G时代到来，被提到最多、最引人注目的技术恐怕当属网络切片了。什么是网络切片？通俗来讲就是将运营商
+ ## [Hi3861 GPIO操作：点灯和按键实验](http://os.51cto.com/art/202010/628511.htm)
+ > Hi3861也提供了相关得GPIO口操作,先看最简单得LED灯闪烁操作；另外GPIO口还可以作为输入，然后使用中断。
+ ## [2020 年 9 月头号恶意软件：信息窃取恶意软件 Valak 新变体首次跻身十大恶意软件排行榜](http://netsecurity.51cto.com/art/202010/628506.htm)
+ > 全球领先网络安全解决方案提供商 Check Point 软件技术有限公司(纳斯达克股票代码：CHKP)的威胁情报部门 Ch
+ ## [物联网数据如何帮助加速数字化转型](http://iot.51cto.com/art/202010/628505.htm)
+ > 本文介绍了有关通过物联网数据进行数字转换的核心知识。需要了解物联网很棒的原因，它可以提供什么，以及如
+ ## [伦敦被黑了，议会遭遇“严重网络攻击”，数据泄露](http://netsecurity.51cto.com/art/202010/628502.htm)
+ > 哈克尼委员会说，它遭受了一次“严重的网络攻击”，它的许多it系统和服务都受到了影响。
+ ## [数据被收集、隐私被泄露……首次亮相的个人信息保护法草案如何捍卫你我信息安全？](http://netsecurity.51cto.com/art/202010/628500.htm)
+ > 用户的网络记录被平台擅自收集用于商业推销、公民在相关机构登记的个人信息被泄露外传……近年来，随着大数
+ ## [Prometheus 系列开篇：为什么要学 Prometheus ？](http://netsecurity.51cto.com/art/202010/628496.htm)
+ > 第一次接触 Prometheus 是在去年，我工作了六年的时间点上。但现在看来，工作六年才知道 Prometheus 是有点
+ ## [程序员必备的基本算法：递归详解](http://developer.51cto.com/art/202010/628495.htm)
+ > 在日常工作中，统计文件夹大小，解析xml文件等等，都需要用到递归算法。它太基础太重要了，这也是为什么面
  ## [JavaScript中关于null的一切](http://developer.51cto.com/art/202010/628494.htm)
  > JavaScript有2种类型：基本类型(string, booleans number, symbol)和对象。
  ## [ES11新增的这9个新特性，你都掌握了吗？](http://developer.51cto.com/art/202010/628491.htm)
  > ECMAScript 2020 是 ECMAScript 语言规范的第11版。自1997年出版第一版以来，ECMAScript 已发展成为世界上
- ## [在Linux行内直接进行大小写转换](http://os.51cto.com/art/202010/628490.htm)
- > 在编辑文本时大小写常常是需要注意的地方，大小写的转换是很枯燥而繁琐的工作，所幸，Linux 提供了很多能让
- ## [高并发秒杀系统架构解密，不是所有的秒杀都是秒杀！](http://developer.51cto.com/art/202010/628487.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [安卓勒索软件屏蔽设备显示屏上的所有内容，从而使设备无法使用](http://netsecurity.51cto.com/art/202010/628486.htm)
- > 在一篇博客文章中，微软365 Defender研究团队详细介绍了一种新的勒索软件变种如何找到了一种新的方法，颠覆
- ## [来，你们想要的打卡功能](http://developer.51cto.com/art/202010/628485.htm)
- > 打卡在生活中还是应用挺多的，比如上班打卡，健身打卡，学习打卡...等等，实际上打卡功能开发是挺容易的，
- ## [物联网可以解决养老院危机，但更好的隐私教育是必不可少的](http://iot.51cto.com/art/202010/628484.htm)
- > 随着物联网技术的不断进步，隐私、安全和信任问题是最难解决的问题。确保只有护理和医疗援助的相关数据与护
- ## [关于数据仓库的数据模型的思考](http://bigdata.51cto.com/art/202010/628483.htm)
- > 任何需求均来源于业务 , 业务决定了需求 , 需求分析的正确与否是关系到项目成败的关键所在 , 从任何角度都
- ## [Spring源码之Bean实例化基本原理](http://developer.51cto.com/art/202010/628482.htm)
- > 在实例化Bean之前在BeanDefinition里头已经有了所有需要实例化时用到的元数据，接下来Spring只需要选择合适
- ## [UWB到底是什么技术？](http://network.51cto.com/art/202010/628481.htm)
- > 根据介绍，基于这项“一指连”技术，手机和智能设备将具备空间感知能力，犹如“室内GPS”。当手机指向智能
 # 人工智能 
- ## [2006-京淘Day11](https://blog.csdn.net/qq_16804847/article/details/109021347)
- > 2006-京淘Day11
- ## [万万没想到，我被字节跳动面试官上了一课，看完拿下字节跳动offer不是梦：Redis+JVM+红黑树+数据结构+规划](https://blog.csdn.net/qq_46388795/article/details/109026150)
- > 万万没想到，我被字节跳动面试官上了一课，看完拿下字节跳动offer不是梦：Redis+JVM+红黑树+数据结构+规划
- ## [Java基础怎么进阶？阿里P8直接甩我一份京东“Java架构经典实战宝典”宝藏](https://blog.csdn.net/m0_46757769/article/details/109025967)
- > Java基础怎么进阶？阿里P8直接甩我一份京东“Java架构经典实战宝典”宝藏
- ## [10年java经验程序员感叹，面试了二十多家公司的Java开发岗位，面试真的太难了，把面试的java面试题整理出来提供参考！](https://blog.csdn.net/a646705816/article/details/109036051)
- > 10年java经验程序员感叹，面试了二十多家公司的Java开发岗位，面试真的太难了，把面试的java面试题整理出来提供参考！
- ## [GitHub上霸榜久居不下的《Java面试突击宝典》，正在疯传，先到先得](https://blog.csdn.net/JavaJIAMIN/article/details/109036054)
- > GitHub上霸榜久居不下的《Java面试突击宝典》，正在疯传，先到先得
  ## [惊艳！阿里出品“Java全栈进阶宝典”，广度与深度齐头并进](https://blog.csdn.net/weixin_48182198/article/details/109026052)
  > 惊艳！阿里出品“Java全栈进阶宝典”，广度与深度齐头并进
  ## [清华天才架构师大话存储终极版：存储系统底层架构原理剖析！](https://blog.csdn.net/weixin_45825082/article/details/109035251)
  > 清华天才架构师大话存储终极版：存储系统底层架构原理剖析！
- ## [万万没想到，这份华为技术官总结的“Java零基础宝典”，让我快速入门理解java，太香了！](https://blog.csdn.net/java_xiaoo/article/details/109026100)
- > 万万没想到，这份华为技术官总结的“Java零基础宝典”，让我快速入门理解java，太香了！
- ## [十年电商大厂面试官总结100道大厂高频面试题：Dubbo，ElasticSearch，JVM，多线程/高并发，消息中间件](https://blog.csdn.net/weixin_45132238/article/details/109027587)
- > 十年电商大厂面试官总结100道大厂高频面试题：Dubbo，ElasticSearch，JVM，多线程/高并发，消息中间件
- ## [从高级程序员-资深程序员-技术总监，我都为你整理好了学习路径](https://blog.csdn.net/t4i2b10X4c22nF6A/article/details/109034785)
- > 从高级程序员-资深程序员-技术总监，我都为你整理好了学习路径
- ## [你离阿里还差多少？阿里Java面试高频常问的Redis问题总结（含答案）](https://blog.csdn.net/weixin_47955802/article/details/109005174)
- > 你离阿里还差多少？阿里Java面试高频常问的Redis问题总结（含答案）
- ## [一篇文章带你使用 SpringBoot 整合 RabbitMQ](https://blog.csdn.net/nanhuaibeian/article/details/108959397)
- > 一篇文章带你使用 SpringBoot 整合 RabbitMQ
- ## [SheLL系统函数和echo颜色](https://blog.csdn.net/kakaops_qing/article/details/108987405)
- > SheLL系统函数和echo颜色
- ## [为什么HDFS文件块（block）大小设定为128M解析.](https://blog.csdn.net/zhanglong_4444/article/details/109018998)
- > 
- ## [kubernetes理论概念详情（K8S）](https://blog.csdn.net/weixin_45012003/article/details/109015382)
- > kubernetes理论概念详情（K8S）
+ ## [带你一起学习实用计算机英语！(IT行业、四六级党记起来)《软件工程专业英语》第二单元的重点词汇+名词缩写+重难句+软件需求规格说明](https://blog.csdn.net/hanhanwanghaha/article/details/109021185)
+ > 带你一起学习实用计算机英语！(IT行业、四六级党记起来)《软件工程专业英语》第二单元的重点词汇+名词缩写+重难句+软件需求规格说明
+ ## [CPU 执行程序的秘密，藏在了这 15 张图里](https://blog.csdn.net/qq_34827674/article/details/109006026)
+ > CPU 执行程序的秘密，藏在了这 15 张图里
+ ## [但行好事，莫问前程](https://blog.csdn.net/ych9527/article/details/109006791)
+ > 但行好事，莫问前程
+ ## [用java数组展示计算机的多位数相乘](https://blog.csdn.net/dfight23/article/details/109036810)
+ > 用java数组展示计算机的多位数相乘
+ ## [一条坎坷的保研路：北理、天大、南开、厦大、川大、支保](https://blog.csdn.net/Alicheche/article/details/108985863)
+ > 一条坎坷的保研路：北理、天大、南开、厦大、川大、支保
+ ## [用JavaScript实现静态私有变量，静态私有方法，私有变量，私有方法，公有属性，公有办法](https://blog.csdn.net/gitchatxiaomi/article/details/108999683)
+ > 用JavaScript实现静态私有变量，静态私有方法，私有变量，私有方法，公有属性，公有办法
+ ## [5.1 CPU的功能和基本结构](https://blog.csdn.net/weixin_38220799/article/details/109008223)
+ > 5.1 CPU的功能和基本结构
+ ## [红宝书--第一章总结分享](https://blog.csdn.net/weixin_42667381/article/details/108994684)
+ > 红宝书--第一章总结分享
+ ## [华为鸿蒙OS尖刀武器之分布式软总线技术](https://blog.csdn.net/guoguo527/article/details/109014004)
+ > 华为鸿蒙OS尖刀武器之分布式软总线技术
+ ## [2020~2021大二上学期学习计划](https://blog.csdn.net/qq_45642009/article/details/109007957)
+ > 2020~2021大二上学期学习计划
+ ## [图解NCHW与NHWC数据格式](https://blog.csdn.net/thl789/article/details/109037433)
+ > 图解NCHW与NHWC数据格式
+ ## [《毕业后你们都找到了什么样的工作？》](https://blog.csdn.net/weixin_51091967/article/details/109017127)
+ > 《毕业后你们都找到了什么样的工作？》
+ ## [mysql](https://blog.csdn.net/weixin_45757793/article/details/109022725)
+ > mysql
 # PM 
  ## [交互原型细节提升之路](http://www.chanpin100.com/article/112827)
  > 之前发布了几篇关于组件如何构建的文章，大家对组件的整体构建步骤有了一定的了解，整体的大框架上都较为熟悉。本次分享主要切入点是如何运用设计规范以及前端基础知识来辅助，进行原型交互细节提升，希望本次分享能够带给大家帮助。为了更加方便本次的细节处理讲解，本次将引入“卡片化设计模板”的制作来具体聊一聊交互细
