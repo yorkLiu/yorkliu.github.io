@@ -1,19 +1,19 @@
 ---
 title: 2020-10-17 IT News
 copyright: true
-date: 2020-10-17 08:01:06
+date: 2020-10-17 09:01:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刘鹏教授在第七届产教融合发展战略国际论坛作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1602891005&ver=2649&signature=hpNNtnHo9rMtkgwewoZmOHtbAWJ*xyai3YnqGG7NBvmRqeqmK9oB9nV77QX9RPZ-Yplb2eDCHEt*h9TF4JAmtdOuTcLkDE2OPc15sg7wO-QY54fAdvvMHs2W4yU5Bf68&new=1)
- > 10月16日上午，第七届产教融合发展战略国际论坛在驻马店市拉开帷幕。本届论坛得到教育部、河南省人民政府的大力支持，教育部学校规划建设发展中心、中华职业教育社、中国职业技术教育学会、应用技术大学（学院）...
- ## [“意念打字”亮相，未来或许真能靠“想”搞定一切](http://mp.weixin.qq.com/s?src=11&timestamp=1602891005&ver=2649&signature=o3T-YyXXTI5B-qovV4sbz6VETQaZVPyK733F*sahAxvmUKM1eK1Fjcbtolkztpmcru8d*XvfUjzLNayWvhy2-zuOxf0RIkFnlG7NuQqYZWPJni41fd6PSRVKIOZT74v2&new=1)
- > ◎ 科技日报记者 陈曦日前在第三届数字中国建设峰会上，由天津大学和中电云脑（天津）有限公司联合研发的大指令集高速无创脑-机接口打字系统格外吸睛。使用者只需头戴脑电帽，双眼盯着电脑屏幕，就能用意念打字...
- ## [惠普2020创新峰会：《数字制造趋势白皮书》发布](http://mp.weixin.qq.com/s?src=11&timestamp=1602891005&ver=2649&signature=Bz7eeei77GsB3aD1dtr2Fj7B3ZcLcvxTOMJoWhhNO4iB3y1K20Kfkl8UGRaJCXLyTOI7-4cN1ewHINi8SSF1pAmxdemXvf-tv0hzuQqzqDUHj1QIQWwP8zuebQbiHlFR&new=1)
- > 近日，惠普举办2020创新峰会，并发布了《数字制造趋势白皮书》，深入分析了制造业在数字转型升级过程中所遇到的机遇和挑战，并与全球合作伙伴、社群用户和行业领袖一道，向公众展示了数字制造对于行业革新的巨大...
- ## [求伯君领衔5代技术人对话，00后浪来袭1024程序员节](http://mp.weixin.qq.com/s?src=11&timestamp=1602891005&ver=2649&signature=g2q2tQTga1JnJ8xZEaPUw7lTTDq74g5Xsz7IXHiC8iMoRkgx3LRzJrG-M0DuxPqqsdNeR4I-AAcEaXViBdQ9OYJXXNS75fXSWoDr8d8Qk*7hKos7xoZPc3J3CAPINHxI&new=1)
+ ## [求伯君领衔5代技术人对话，00后浪来袭1024程序员节](http://mp.weixin.qq.com/s?src=11&timestamp=1602896405&ver=2649&signature=g2q2tQTga1JnJ8xZEaPUw7lTTDq74g5Xsz7IXHiC8iMoRkgx3LRzJrG-M0DuxPqqrr13mEXBO*a5ddxTwK7Uo0SBi3Lm10Gk2F5a6KNDm11qDtARtGR4XA4EZCv7RV4j&new=1)
  > 10 月 23-25 日，由 CSDN 等多家单位精心筹划的“长沙 · 中国 1024 程序员节”将盛大举行。程序员节活动以开源为主议题，包括：2 场岳麓尖峰对话，2020 开源技术英雄大会，10+ 场热门技术分论坛/峰会，创意集市...
+ ## [刘鹏教授在第七届产教融合发展战略国际论坛作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1602896405&ver=2649&signature=hpNNtnHo9rMtkgwewoZmOHtbAWJ*xyai3YnqGG7NBvmRqeqmK9oB9nV77QX9RPZ-yBnJdTNzeZMbBO6Vruj3Q3RZEUgqeGaJ8CRKleiCBNPmPtNefbVglRkTgpww78dd&new=1)
+ > 10月16日上午，第七届产教融合发展战略国际论坛在驻马店市拉开帷幕。本届论坛得到教育部、河南省人民政府的大力支持，教育部学校规划建设发展中心、中华职业教育社、中国职业技术教育学会、应用技术大学（学院）...
+ ## [“意念打字”亮相，未来或许真能靠“想”搞定一切](http://mp.weixin.qq.com/s?src=11&timestamp=1602896405&ver=2649&signature=o3T-YyXXTI5B-qovV4sbz6VETQaZVPyK733F*sahAxvmUKM1eK1FjcbtolkztpmcbD30r7cqRSSmz7xeljiB1XpsfsOS6D8zMySGuLuFu6lzOZxabZxcoPS7VaCsB8MO&new=1)
+ > ◎ 科技日报记者 陈曦日前在第三届数字中国建设峰会上，由天津大学和中电云脑（天津）有限公司联合研发的大指令集高速无创脑-机接口打字系统格外吸睛。使用者只需头戴脑电帽，双眼盯着电脑屏幕，就能用意念打字...
+ ## [惠普2020创新峰会：《数字制造趋势白皮书》发布](http://mp.weixin.qq.com/s?src=11&timestamp=1602896405&ver=2649&signature=Bz7eeei77GsB3aD1dtr2Fj7B3ZcLcvxTOMJoWhhNO4iB3y1K20Kfkl8UGRaJCXLyBm8p6edV2MH-st1nmejSZgK3yPmChijtqeHVihW-Sc4bNaglW2W94VfBWvXeJYhx&new=1)
+ > 近日，惠普举办2020创新峰会，并发布了《数字制造趋势白皮书》，深入分析了制造业在数字转型升级过程中所遇到的机遇和挑战，并与全球合作伙伴、社群用户和行业领袖一道，向公众展示了数字制造对于行业革新的巨大...
 # IT 技术 
  ## [当专业动画师用GAN帮自己“偷懒”，几分钟就完成了几周的工作](http://news.51cto.com/art/202010/628828.htm)
  > 当专业动画师用GAN帮自己“偷懒”，几分钟就完成了几周的工作
@@ -29,39 +29,39 @@ categories: IT NEWS
  > 12张图带你彻底理解分布式事务产生的场景和解决方案
  ## [5个趋势推动Gartner 2020年客户服务和支持技术成熟度曲线](http://news.51cto.com/art/202010/628733.htm)
  > 5个趋势推动Gartner 2020年客户服务和支持技术成熟度曲线
- ## [Python大数据+人工智能-语言篇](http://fellow.51cto.com/art/202007/622443.htm?qd=51ctojrzd)
- > Python大数据+人工智能-语言篇
+ ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
+ > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
 # 人工智能 
- ## [事关微信支付，别成为背锅侠！](https://blog.csdn.net/wjg8209/article/details/109046556)
- > 事关微信支付，别成为背锅侠！
- ## [做网站必须会写代码吗？](https://blog.csdn.net/laozhaodehao/article/details/109106549)
- > 做网站必须会写代码吗？
- ## [一般建站都有哪几种方式](https://blog.csdn.net/shujunliu/article/details/109092752)
- > 一般建站都有哪几种方式
- ## [蚂蚁金服架构师分享一套内部Java并发编程进阶笔记，白嫖太香了](https://blog.csdn.net/weixin_45825082/article/details/109096155)
- > 蚂蚁金服架构师分享一套内部Java并发编程进阶笔记，白嫖太香了
- ## [OWASP Top 10](https://blog.csdn.net/weixin_45663905/article/details/109078352)
- > OWASP Top 10
- ## [好家伙！这一篇文章就给你讲明白了Java并发实现原理之JDK源码剖析(PDF文档)](https://blog.csdn.net/a159357445566/article/details/109096838)
- > 好家伙！这一篇文章就给你讲明白了Java并发实现原理之JDK源码剖析(PDF文档)
- ## [java安全编码指南之:锁的双重检测](https://blog.csdn.net/superfjj/article/details/109065234)
- > java安全编码指南之:锁的双重检测
- ## [网络安全相关行业必备网站（持续更新中）](https://blog.csdn.net/weixin_45728976/article/details/109069749)
- > 网络安全相关行业必备网站（持续更新中）
- ## [抓包入门](https://blog.csdn.net/qq_50003466/article/details/109082717)
- > 抓包入门
- ## [shiro篇：使用Shiro对一个SSM项目进行身份加密验证](https://blog.csdn.net/qq_39773004/article/details/109074008)
- > shiro篇：使用Shiro对一个SSM项目进行身份加密验证
- ## [Mybatis的你所不知ResultMap生成方式](https://blog.csdn.net/qq_39165528/article/details/109088356)
- > Mybatis的你所不知ResultMap生成方式
- ## [Vue微信网页微信支付](https://blog.csdn.net/waitting_in_love/article/details/109092228)
- > Vue微信网页微信支付
- ## [一个公司网站的制作流程都有哪些？](https://blog.csdn.net/weixin_44075041/article/details/109102491)
- > 一个公司网站的制作流程都有哪些？
- ## [华科软件安全实验--逆向Demo2020.exe--序列号生成算法破解--exp](https://blog.csdn.net/m0_43406494/article/details/109105124)
- > 华科软件安全实验--逆向Demo2020.exe--序列号生成算法破解--exp
- ## [自助建站相对传统建站有什么优势](https://blog.csdn.net/laozhaodehao/article/details/109106999)
- > 自助建站相对传统建站有什么优势
+ ## [华为 华三 思科常用命令](https://blog.csdn.net/HYD696/article/details/109074606)
+ > 华为 华三 思科常用命令
+ ## [学习LAMP这一篇就够啦！（企业网站LAMP之源代码编译安装）](https://blog.csdn.net/qyf158236/article/details/109065047)
+ > 
+ ## [数据库数据损坏怎么办？——完全备份、差异备份与增量备份的合理使用。](https://blog.csdn.net/m0_47452405/article/details/109053808)
+ > 数据库数据损坏怎么办？——完全备份、差异备份与增量备份的合理使用。
+ ## [宏芯powerpc64le架构实现centos7安装postgresql](https://blog.csdn.net/frdevolcqzyxynjds/article/details/109080010)
+ > 宏芯powerpc64le架构实现centos7安装postgresql
+ ## [Linux 之shell脚本设置开头固定格式](https://blog.csdn.net/qq_43570528/article/details/109104865)
+ > Linux 之shell脚本设置开头固定格式
+ ## [Linux (CentOS7)下安装nginx、windows访问测试以及遇到问题的详解](https://blog.csdn.net/weixin_43423864/article/details/109069052)
+ > Linux (CentOS7)下安装nginx、windows访问测试以及遇到问题的详解
+ ## [Linux基础IO介绍](https://blog.csdn.net/weixin_44472033/article/details/109068780)
+ > Linux基础IO介绍
+ ## [PE启动盘制作，解决An operating system wasn‘t found.](https://blog.csdn.net/qq_40542534/article/details/109063943)
+ > PE启动盘制作，解决An operating system wasn‘t found.
+ ## [解决 Windows 10 更新错误代码 0x800f0922](https://blog.csdn.net/Aric_Sun/article/details/109094959)
+ > 解决 Windows 10 更新错误代码 0x800f0922
+ ## [keras_facemask 环境搭建问题](https://blog.csdn.net/csdnqq970820/article/details/109096334)
+ > keras_facemask 环境搭建问题
+ ## [让CentOS7的IP变为静态IP，使Xshell连接到虚拟机中的Linux。](https://blog.csdn.net/weixin_44414460/article/details/109093654)
+ > 让CentOS7的IP变为静态IP，使Xshell连接到虚拟机中的Linux。
+ ## [Centos7部署php5.6.25](https://blog.csdn.net/weixin_43334878/article/details/109100355)
+ > Centos7部署php5.6.25
+ ## [使用docker安装RocketMQ](https://blog.csdn.net/ming19951224/article/details/109063041)
+ > 使用docker安装RocketMQ
+ ## [Linux命令大全（1）](https://blog.csdn.net/weixin_44127142/article/details/109065075)
+ > Linux命令大全（1）
+ ## [记第一次编译Linux内核](https://blog.csdn.net/weixin_43850253/article/details/109054516)
+ > 记第一次编译Linux内核
 # PM 
  ## [3个维度，重新定义用户体验（二）](http://www.chanpin100.com/article/112853)
  > 商业的最终目的就是赚钱，那么赚钱的途径就是通过产品为用户提供产品价值，产品带给用户更高的新体验以及降低用户的替换成功才能使用户价值最大化，有了用户价值产品只有获得更多的用户认可才能有更大的产品价值，进而带来商业价值；
