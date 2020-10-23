@@ -1,113 +1,109 @@
 ---
 title: 2020-10-23 IT News
 copyright: true
-date: 2020-10-23 10:31:49
+date: 2020-10-23 12:23:44
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [最新消息!微软已关闭了Trickbot僵尸网络94%的关键基础设施](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=zXMPplcrPDq7Do8Gd0qcQypDORozw*lTZa9us3ofnsQivlENs*EtTzbPxxCWuPcp3fNik5yNzplBsmQiPJ5yhP-auSl-C8fp*Gzp8nm6fWrNPyxYp98gFMPTVMcYceHM&new=1)
- > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全10月23日讯 据外媒报道，上周，由微软主导的网络安全公司联盟策划了一场针对TrickBot的的全球打击行动，TrickBot是当今最大的恶意软件僵尸网络和网络犯...
- ## [关注|武汉光博会第二批展商名录公布 光通信、芯片及终端应用板块亮点揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=DjYhrASJBCtAcB00dQaEgfyDyTLZoyZOwkBHWls3S0UkVRA4qgBwYnoDEjjyfgwcEkuaZkC4YjWNcTerSyqLWmInrMm44Iwm3YUUOTSrvpf6Sx5pzjAnhKT3WzjOvJNF&new=1)
- > 第十七届“中国光谷”国际光电子博览会暨论坛（简称“武汉光博会”）将于11月11-13日，在中国光谷科技会展中心隆重举办。武汉光博会是具有规模及影响力的光电行业年度压轴盛会，是众多光电企业市场拓展、品牌推...
- ## [工信部：5G、新能源汽车等重点产业链竞争力增强](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=BLtQCeLR8DweWG1bhazKvXjxywecL1DJv7CrT1Jr3FoTc7bxreYD5VFeINrEgyoHmc1lyvHNM6wxvG5hb9Uz5mkEiBfnDs1DoZ-2wnkUoms=&new=1)
- > “今年以来，我国5G、新能源汽车等重点产业链核心竞争力不断增强。”工业和信息化部新闻发言人、运行监测协调局局长黄利斌昨天在国务院新闻办举行的发布会上表示。　　黄利斌说，推动制造业高质量发展是实现...
- ## [\[科技早报7点整\]淘宝投资魅族 谷歌为特朗普政府建设虚拟边境墙……](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=7X3znX17DNQqFlky9IxgND*zVLQBspV70Hl-7l978GVQlsj-H-86N09FhFvpUSoTHwMFyaydBmP3sv7s9k6QBYJgpW2kAOIN7I3XRULRluVqA8sd6JnNH5zuWTi8aVGY&new=1)
+ ## [中国黑科技!揭秘成都3D裸眼飞船巨幕全球爆红背后的故事](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=Ip72hWQNHGnSGrZv*IDoIpahOy2cqcUPiyebC7VK6sKJMrIAl5Pe3weNapk0Vzc7mEE12wyThdWmfzDxhMa54OB21D-*m-a7bDTe7A*4XBjzACBKaJyfcazv2AF7uXWc&new=1)
+ > 近日，联建光电为成都太古里打造的星际飞船裸眼3D巨幕震撼点亮，炫酷的黑科技显示瞬间引爆全国乃至海外媒体转发评论，累计总点击量破亿。不少群众纷纷赶至现场感受联建光电大屏所带来的极致视觉饕餮盛宴，现场可...
+ ## [\[科技早报7点整\]淘宝投资魅族 谷歌为特朗普政府建设虚拟边境墙……](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=7X3znX17DNQqFlky9IxgND*zVLQBspV70Hl-7l978GVQlsj-H-86N09FhFvpUSoTAa0ZcC7tCOg5zBvhQ8lWb70U0svuQHW-qd3J6Y4YAxUI1gMZACY1xxUeLZgZgyyU&new=1)
  > 早上好，科技圈【一度蜜科技早报】第954期1.工信部回应5G超前建设：符合行业发展特点工信部新闻发言人闻库表示，适度超前建设是公共基础设施的普遍特点。因为不管建任何的网络，从当时做4G，甚至做3G的时候开始...
- ## [基于LightTools的激光四象限探测系统仿真](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=mONVlEQqfdQyi5FxeHrnoTAIN32vuApB4CkoCiQPsIH1ea5*FlfmagLRTly3MAY9IIgu3cvNTr1bd6OquBrBXLRd8HbkCLbS-nfPxz*UO4yKyXdp-xiRAYZUTNmel0C7&new=1)
+ ## [关注|武汉光博会第二批展商名录公布 光通信、芯片及终端应用板块亮点揭秘](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=DjYhrASJBCtAcB00dQaEgfyDyTLZoyZOwkBHWls3S0UkVRA4qgBwYnoDEjjyfgwcMhiMCl16qayz1FeDXxH-db3g8gJ7-aoTZZBk2RDQZVDlUB2DDxLuCVN5giPA2tdh&new=1)
+ > 第十七届“中国光谷”国际光电子博览会暨论坛（简称“武汉光博会”）将于11月11-13日，在中国光谷科技会展中心隆重举办。武汉光博会是具有规模及影响力的光电行业年度压轴盛会，是众多光电企业市场拓展、品牌推...
+ ## [最新消息!微软已关闭了Trickbot僵尸网络94%的关键基础设施](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=zXMPplcrPDq7Do8Gd0qcQypDORozw*lTZa9us3ofnsQivlENs*EtTzbPxxCWuPcpjtsD1LQJTxPaKwSvotPx-BwqXUFqSI5qFpQaVj96oN0LupKwCSk5uT9btDeYHswr&new=1)
+ > 更多全球网络安全资讯尽在E安全官网 www.easyaq.com  E安全10月23日讯 据外媒报道，上周，由微软主导的网络安全公司联盟策划了一场针对TrickBot的的全球打击行动，TrickBot是当今最大的恶意软件僵尸网络和网络犯...
+ ## [工信部：5G、新能源汽车等重点产业链竞争力增强](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=BLtQCeLR8DweWG1bhazKvXjxywecL1DJv7CrT1Jr3FrnQoXOMrixjtzKG89CPxLPko1wJr1ODTouRra6s9e3m5m05GPl8hVmkaVqbbSS1ec=&new=1)
+ > “今年以来，我国5G、新能源汽车等重点产业链核心竞争力不断增强。”工业和信息化部新闻发言人、运行监测协调局局长黄利斌昨天在国务院新闻办举行的发布会上表示。　　黄利斌说，推动制造业高质量发展是实现...
+ ## [基于LightTools的激光四象限探测系统仿真](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=mONVlEQqfdQyi5FxeHrnoTAIN32vuApB4CkoCiQPsIH1ea5*FlfmagLRTly3MAY949*TiRW4Ne-BkZ5EmbAvsynPeM685r7mKPsvCXhTOe*nfGl56aeP-Tvz3h6fIhDK&new=1)
  > 摘要：激光四象限探测系统是激光制导武器的重要组成部分，在设计阶段对其性能的准确评估有利于设计方案的迭代和优化。采用LightTools软件对四象限探测系统进行了仿真建模。通过建立目标模型、光学系统模型和四象...
- ## [Qualcomm和Jacoti携手为真无线耳塞用户提供优化的聆听体验](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=4ucUy5DglbKrulpHCihTMY1wTd5wTS3du*39KFf5MTft-49m1ryqM65ePTMEjQDglRYGKuLaiWEc2evGclTfzKoBGpjs43EVAOQ09Z0O4LsS0*cSC3vziQtx4Q8*PVkA&new=1)
+ ## [Qualcomm和Jacoti携手为真无线耳塞用户提供优化的聆听体验](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=4ucUy5DglbKrulpHCihTMY1wTd5wTS3du*39KFf5MTft-49m1ryqM65ePTMEjQDgJ8SsRfMt9-1CkOt83mxEX0Oja2RoE2P5iyxXCOIKwY3w8agATcFcuA3FjZDQbP0s&new=1)
  > Qualcomm要闻—通过传统听力学与尖端技术的结合，该合作将Jacoti医用级听力精度引入蓝牙音频SoC 致力于满足全球用户听力需求的音频技术公司Jacoti将其听力增强软件引入至Qualcomm QCC5100系列超低功耗蓝牙音频系...
- ## [发力新基建，南昌要建“智慧视觉第一城”!](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=ziS7R3lZ2ECZaq2ixp5HtwgBk1a3-BMww27d*DE9*jozh1nrfyQsuHQyIUTmWEzEEzDmC6SsYjxX9aMzSAbzHoZmKgM34KASl4UNqFwVb16w*2*zMGsIgeFCfHrKY6aq&new=1)
+ ## [发力新基建，南昌要建“智慧视觉第一城”!](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=ziS7R3lZ2ECZaq2ixp5HtwgBk1a3-BMww27d*DE9*jozh1nrfyQsuHQyIUTmWEzEsvwzNWjFzV95gggAVaTezrgoodLV*RaFZNBrlcm033Reg5cnTFBr8UNOMOARZJ98&new=1)
  > 全国各城市都在推动智慧城市建设，为城市市民带来便利，加速各行业数字化。而南昌市走出自己的特色，近期宣布希望用三到五年时间，将南昌建设成全国智慧视觉第一城，并将南昌经验推向全省和全国。南昌为何要建设...
- ## [第二个“华为”横扫世界!宣布：制裁美国](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=hfeG44LaMzKvNG8mVTLArAeSeMXgvKhJ4O1Bo0vrUAWwWzpMXg-IxUwQ*IDqA2COuMRCQte3T9uQneKoqH1jxEsrkIlXU9F-RdLIy9WvHhV9j7BxeBgCyfuGoKPJjLYM&new=1)
+ ## [第二个“华为”横扫世界!宣布：制裁美国](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=hfeG44LaMzKvNG8mVTLArAeSeMXgvKhJ4O1Bo0vrUAWwWzpMXg-IxUwQ*IDqA2COsr80NOvT8sR8I8DGyiyOyT6oOEfH8g0Fcj8iad7gbuTlwZF*URckKf6QJpo33BRk&new=1)
  > 读懂了此文，或许就读懂了未来！全文2800字，阅读约6分钟有些人数典忘祖，直呼“美国科技领先世界”。是的，美国在很多领域世界领跑，但随着中国科技发展，一些企业可与美国一较长短，比如：华为。更有企业早已...
- ## [智能分拣系统的种类及发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1603420204&ver=2661&signature=*FFGpgd3GbMi9l9K-TV6tebdZmZIXPTl5LX-OKSdGRyS0RBvMZcgf53L9PU-dLZqTjM93FygWRM2reyGnbQCJ-eQ52SGlrP1oUs8mCGqQkwVRazl07*Rd59TYvK3*H2p&new=1)
+ ## [智能分拣系统的种类及发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1603425605&ver=2661&signature=*FFGpgd3GbMi9l9K-TV6tebdZmZIXPTl5LX-OKSdGRyS0RBvMZcgf53L9PU-dLZqvB7ct8IEWc9MYZ1A4qmPBJsa1WBKYDfJ-d2hy9WY0zOewYqpAO9ysUAsNUNNOlny&new=1)
  > 文｜上海德马物流技术有限公司白振成本文简要介绍了智能分拣系统的概念、业务流程、系统特点以及影响配送中心现代化物流系统用户满意度的几点重要因素；同时介绍了常见分拣系统的种类、特性及应用场景，并提出了...
 # IT 技术 
- ## [HarmonyOS系统中的JS开发框架](http://os.51cto.com/art/202010/629479.htm)
- > HarmonyOS系统中的JS开发框架
  ## [为什么有些公司不让用Lombok？](http://developer.51cto.com/art/202010/629471.htm)
  > 为什么有些公司不让用Lombok？
  ## [十大针对机器学习的文本注释工具与服务，你会选用哪个？](http://ai.51cto.com/art/202010/629477.htm)
  > 十大针对机器学习的文本注释工具与服务，你会选用哪个？
  ## [低代码，要怎么低？一文详解和低代码有关的十大问题](http://news.51cto.com/art/202010/629275.htm)
  > 低代码，要怎么低？一文详解和低代码有关的十大问题
- ## [DeepMind发了篇物理论文，用神经网络求解薛定谔方程](http://news.51cto.com/art/202010/629274.htm)
- > DeepMind发了篇物理论文，用神经网络求解薛定谔方程
+ ## [HarmonyOS系统中的JS开发框架](http://os.51cto.com/art/202010/629479.htm)
+ > HarmonyOS系统中的JS开发框架
  ## [远程工作：防止IT团队倦怠的三种方法](http://news.51cto.com/art/202010/629427.htm)
  > 远程工作：防止IT团队倦怠的三种方法
+ ## [DeepMind发了篇物理论文，用神经网络求解薛定谔方程](http://news.51cto.com/art/202010/629274.htm)
+ > DeepMind发了篇物理论文，用神经网络求解薛定谔方程
  ## [一次订单号重复引起的事故，把我坑惨了！](http://developer.51cto.com/art/202010/629255.htm)
  > 一次订单号重复引起的事故，把我坑惨了！
- ## [面向对象C零基础入门精讲视频教程（10）正则表达式及应用](http://fellow.51cto.com/art/202007/622207.htm?qd=51ctojrzd)
- > 面向对象C零基础入门精讲视频教程（10）正则表达式及应用
- ## [太空云计算大战打响，微软 Azure 要靠 SpaceX「上天」了](http://news.51cto.com/art/202010/629500.htm)
- > 当地时间 2020 年 10 月 20 日，Azure 全球副总裁 Tom Keane 发布博客，宣布了 Azure 的「下一个巨大飞跃」
- ## [物联网，会代替互联网吗](http://iot.51cto.com/art/202010/629499.htm)
- > 互联网（Internet）早已是我们工作、生活不可或缺的一部分，而物联网（IoT）作为后起之秀，将与人工智能（A
- ## [放心升级：微软将对Windows 10 10月更新长达30个月支持](http://os.51cto.com/art/202010/629492.htm)
- > 对于那些想要升级Windows 10 10月更新的用户，微软给出的公告显示，将会对其进行30个月的技术支持，其中也
- ## [软件开发必修课：你该知道的GRASP职责分配模式](http://zhuanlan.51cto.com/art/202010/629498.htm)
- > 软件在本质上是复杂的，软件本身的复杂性在于除了要解决问题域，还要解决非功能性需求和软件域特有问题：安
- ## [大数据背景下的税收风险管理](http://bigdata.51cto.com/art/202010/629489.htm)
- > 当前，我国的数字化进程已经扩展到政务、民生、实体经济等各个领域，税务机关应立足战略思维进行前瞻规划，
- ## [盗亦有道――勒索软件集团向慈善机构捐赠20000美金！](http://netsecurity.51cto.com/art/202010/629485.htm)
- > DarkSide勒索软件集团表示，他们分别向“国际儿童”和“水项目”慈善机构捐赠了0.88 BTC。
- ## [SaaS时代对数据安全的重新思考](http://netsecurity.51cto.com/art/202010/629484.htm)
- > 如今，SaaS驱动前台系统和IaaS/PaaS颠覆了数据中心技术，数据的使用和存储方式发生了一些变化。但是数据安
- ## [TypeScript：请停止使用 any](http://developer.51cto.com/art/202010/629488.htm)
- > 当我们开发 TypeScript 代码时，很可能会遇到 any 关键字。我们看到的大多数用法都表明我们正在处理 TypeSc
- ## [【开发板试用报告】开始试玩HiSpark Wi-Fi IoT开发套件](http://os.51cto.com/art/202010/629481.htm)
- > 试用报告，虽迟但到。陈放了一周多的套件，本人今天终于挤空出来，开始研究~
- ## [漫画：从新手到老油条](http://zhuanlan.51cto.com/art/202010/629482.htm)
- > 新手程序员经验不足，有着盲目的乐观和自信，过低估计了任务的难度，在执行过程中犯了很多错误，掉入了陷阱
+ ## [MySQL Router读写分离项目实施与维护_MySQL高可用复制与分布式集群架构07](http://fellow.51cto.com/art/202008/623593.htm?qd=51ctojrzd)
+ > MySQL Router读写分离项目实施与维护_MySQL高可用复制与分布式集群架构07
+ ## [最全数据科学C/C++机器学习库整理，再也不用百度搜了](http://ai.51cto.com/art/202010/629526.htm)
+ > C++是动态负载平衡、自适应缓存、开发大型数据框架和库的理想选择。谷歌的MapReduce，MunGDB，下面列出的大
+ ## [网络、用户、终端均初具规模　加速5G“转网”成运营商当务之急](http://network.51cto.com/art/202010/629525.htm)
+ > 眼下时间已至2020年10月下旬，再过几天，我国5G的商用就将迎来一周年纪念。在这一年的时间里，无论是在5G网
+ ## [双十一将至！物流无人机离我们还有多远？](http://ai.51cto.com/art/202010/629524.htm)
+ > 近年来，无人机配送的不断兴起正在为传统物流发展带来颠覆性改变，物流无人机测试、应用的有序开展，正给物
+ ## [怎样建立应变能力强的IT文化](http://www.cioage.com/art/202010/629523.htm)
+ > 此次疫情凸显了在困难和动荡环境中保持发展的重要性。本文中，IT领导们介绍了他们怎样调整领导工作，以推动
+ ## [CVE-2020-26896：闪电网络被曝安全漏洞](http://netsecurity.51cto.com/art/202010/629516.htm)
+ > 闪电网络的开发团队近日公布了该加密货币协议和软件实现中的多个安全漏洞详情，攻击者利用这些漏洞可以通过
+ ## [波士顿动力机器狗即将长出手臂，还能自己跑去充电](http://ai.51cto.com/art/202010/629513.htm)
+ > 波士顿动力创始人 Marc Raibert 表示，Spot 机器狗有朝一日将「可供家庭使用」。
+ ## [iPhone 12价格走势：2个月降10%，5个月降18%](http://mobile.51cto.com/news-629511.htm)
+ > 立即购买还是等待价格下降?任何对iPhone 12、Pro或Pro Max感兴趣的人都应该了解其价格走势，而幸好有德国机
+ ## [iPhone 12遭遇尴尬：5G信号存在剧烈波动](http://mobile.51cto.com/news-629510.htm)
+ > iPhone通过奠定智能手机形态与4G的结合，成就了一个时代，作为整个产业的风向标，它在5G上没有起到带头作用
+ ## [财报公布后，IBM市值缩水百亿美元，何时能走出困境？](http://news.51cto.com/art/202010/629508.htm)
+ > 蓝色巨人转型道路任重道远。云、IoT、AI等创新技术快速发展，对于处在转型关键时期的IBM来说，机遇大于挑战
+ ## [工信部查app违规收集个人隐私，信息安全在现代社会到底多重要](http://netsecurity.51cto.com/art/202010/629507.htm)
+ > 工信部最近对国内32万个主流app进行违规信息手机进行检测，并责令1100多家企业进行整改，并且公布了100多个
 # 人工智能 
- ## [手写喜马拉雅APP特效](https://blog.csdn.net/m0_37667770/article/details/109176786)
- > 手写喜马拉雅APP特效
- ## [2020天猫双十一自动获取喵币脚本](https://blog.csdn.net/u014424954/article/details/109199222)
- > 2020天猫双十一自动获取喵币脚本
- ## [我的京东面试之旅，考试与面试撞期我该如何抉择？](https://blog.csdn.net/SQY0809/article/details/109203867)
- > 我的京东面试之旅，考试与面试撞期我该如何抉择？
- ## [2020年淘宝超级星秀猫js脚本](https://blog.csdn.net/xiaoyeka/article/details/109198178)
- > 2020年淘宝超级星秀猫js脚本
- ## [2020双十一领喵币自动做任务](https://blog.csdn.net/xinProgrammer/article/details/109196157)
- > 2020双十一领喵币自动做任务
- ## [干了快3年Android了，感觉自己的职业生涯已经快凉了](https://blog.csdn.net/zhireshini233/article/details/109178264)
- > 干了快3年Android了，感觉自己的职业生涯已经快凉了
- ## [Android-ViewPager实现滑动指示条功能](https://blog.csdn.net/m0_46267375/article/details/109185260)
- > Android-ViewPager实现滑动指示条功能
- ## [Android之区分外置U盘及SD卡等存储设备](https://blog.csdn.net/niu9799/article/details/109180067)
- > Android之区分外置U盘及SD卡等存储设备
- ## [一篇文章彻底弄懂Android-MVVM](https://blog.csdn.net/jayoss152/article/details/109177121)
- > 一篇文章彻底弄懂Android-MVVM
- ## [Android webView加载成功与失败回调，重新加载，onReceivedError、onReceivedSslError、onPageFinished、onProgressChanged](https://blog.csdn.net/qq_37980878/article/details/109102519)
- > Android webView加载成功与失败回调，重新加载，onReceivedError、onReceivedSslError、onPageFinished、onProgressChanged
- ## [解决Emulator: dsound: Could not initialize ADC](https://blog.csdn.net/qq_41715956/article/details/109173546)
- > 解决Emulator: dsound: Could not initialize ADC
- ## [关于uni-app中云打包成apk包在手机上运行无法使用uni.getLocation获取定位](https://blog.csdn.net/ZHOU_CXY/article/details/109176899)
- > 关于uni-app中云打包成apk包在手机上运行无法使用uni.getLocation获取定位
- ## [C. Dominant Piranha(思维)](https://blog.csdn.net/zstuyyyyccccbbbb/article/details/109203853)
- > C. Dominant Piranha(思维)
- ## [appium移动端自动化测试](https://blog.csdn.net/yang_yang_heng/article/details/109187236)
- > appium移动端自动化测试
- ## [hdu - 3015 Disharmony Trees（树状数组 + 离散化）](https://blog.csdn.net/SsteelXD/article/details/109183659)
- > hdu - 3015 Disharmony Trees（树状数组 + 离散化）
+ ## [python中functools.reduce、偏函数、sorted函数的理解](https://blog.csdn.net/m0_51284422/article/details/109166809)
+ > python中functools.reduce、偏函数、sorted函数的理解
+ ## [“国产操作系统最大难题在于解决「生产关系」” | 人物志](https://blog.csdn.net/csdnnews/article/details/109200048)
+ > “国产操作系统最大难题在于解决「生产关系」” | 人物志
+ ## [Java程序员：终于，在一个艰难而又轻松的工作日之后，我被辞退了......](https://blog.csdn.net/java_xiaoo/article/details/109224324)
+ > Java程序员：终于，在一个艰难而又轻松的工作日之后，我被辞退了......
+ ## [Devc++无法调试问题解决-亲测有效](https://blog.csdn.net/qq_45034708/article/details/109195933)
+ > Devc++无法调试问题解决-亲测有效
+ ## [独家！阿里技术人限产的MySQL高级笔记及面试宝典，学完简直开挂](https://blog.csdn.net/weixin_45825082/article/details/109199051)
+ > 独家！阿里技术人限产的MySQL高级笔记及面试宝典，学完简直开挂
+ ## [windows10下Qt安装及OpenCV配置](https://blog.csdn.net/qq_41185569/article/details/109219705)
+ > windows10下Qt安装及OpenCV配置
+ ## [独家！阿里技术人限产的MySQL高级笔记及面试宝典，简直开挂](https://blog.csdn.net/rxh811/article/details/109209167)
+ > 独家！阿里技术人限产的MySQL高级笔记及面试宝典，简直开挂
+ ## [前端搞搞基建（二）](https://blog.csdn.net/qq_24073885/article/details/109185041)
+ > 前端搞搞基建（二）
+ ## [如何每天白嫖8次腾讯抽奖](https://blog.csdn.net/qq_39773004/article/details/109207486)
+ > 如何每天白嫖8次腾讯抽奖
+ ## [Win10系统从NVIDIA driver版本匹配开始配置Keras训练环境](https://blog.csdn.net/weixin_40198079/article/details/109186443)
+ > Win10系统从NVIDIA driver版本匹配开始配置Keras训练环境
+ ## [漫画：程序员，你得熬过这最难的一天！](https://blog.csdn.net/coderising/article/details/109172613)
+ > 漫画：程序员，你得熬过这最难的一天！
+ ## [2020-10-22](https://blog.csdn.net/m0_51766643/article/details/109229801)
+ > 2020-10-22
+ ## [GitHub疯传！阿里大牛手写Spring Boot核心笔记](https://blog.csdn.net/JavaBye/article/details/109179818)
+ > GitHub疯传！阿里大牛手写Spring Boot核心笔记
+ ## [《雍正皇帝》文化专有词泰译研究选题缘由（一）](https://blog.csdn.net/singdo123/article/details/109217688)
+ > 《雍正皇帝》文化专有词泰译研究选题缘由（一）
+ ## [CAN转光纤CAN光电转换器CAN光端机在消防报警主机一对多时的优化方案](https://blog.csdn.net/yzw132133/article/details/109203414)
+ > CAN转光纤CAN光电转换器CAN光端机在消防报警主机一对多时的优化方案
 # PM 
- ## [裁员一半，没错，你也在内](http://www.chanpin100.com/article/112915)
- > 互相理解，也是一种体面
- ## [B端产品经理需要着重锻炼自己这些能力](http://www.chanpin100.com/article/112899)
- > 如题
- ## [互联网流量，让天下充满难做的生意](http://www.chanpin100.com/article/112906)
- > 连卖给你流量的人，都不是依靠流量手段卖给你流量的，你又凭什么相信流量会让你成功？
- ## [关于职场，给大家讲点大实话](http://www.chanpin100.com/article/112873)
- > 工作7年后，我悟出了这些职场道理
- ## [电商加码物流护城河，快递掀起“代理人”之战](http://www.chanpin100.com/article/112693)
- > 由巨头“遥控指挥”，快递业正在掀起一场“代理人”战争。
- ## [淘宝最新版，用这种方式提高付款率，让人意外！](http://www.chanpin100.com/article/112898)
+ ## [目前的B端市场，面临着哪些挑战?](http://www.chanpin100.com/article/112850)
+ > 话题场景：B端产品认知升级
+ ## [学校班级Logo如何设计？新手入门篇](http://www.chanpin100.com/article/112912)
+ > 今天和大家分享4个学校班级logo设计技巧，遇到学校logo设计征集竞赛，你也可以自己智能在线设计logo参加哦！
+ ## [QQ非常优秀的调节字号设计](http://www.chanpin100.com/article/112870)
  > 作者：杜昭 公众号：设计的威严
- ## [2020年9月易观千帆移动AppTOP1000榜单|开学季推动教育领域快速复苏，节假日带来消费热点](http://www.chanpin100.com/article/112876)
- > 从用户移动互联网使用行为来看，9月用户人均单日启动次数和人均单日使用时长分别为60.24次和6.86小时，分别环比小幅增长2.58%和下滑1.55%。
- ## [做惯了C端产品，如何转型做B端产品？](http://www.chanpin100.com/article/112891)
- > 应用场景：产品转型、认知升级
+ ## [消费者洞察：案例透视消费者洞察实践与收益](http://www.chanpin100.com/article/112905)
+ > 结合服务的实际项目案例，详细解读数据驱动下的消费者洞察实践与收益。
+ ## [2020年中国信息流平台品牌服务价值分析](http://www.chanpin100.com/article/112855)
+ > 简介：当前已经进入疫情后时代，宏观经济逐渐复苏，而作为经济的晴雨表，广告细分市场出现了明显分化，其中信息流广告凭借品效合一得到广告主青睐，但随着市场的变化，广告主要求也在逐渐提高，经过易观访谈、调研发现广告主…
 
     
