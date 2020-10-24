@@ -1,10 +1,15 @@
 ---
 title: 2020-10-24 IT News
 copyright: true
-date: 2020-10-24 09:28:45
+date: 2020-10-24 10:22:41
 tags: IT NEWS
 categories: IT NEWS
 ---
+# IT 新闻 
+ ## [只争朝夕乘势上 不负韶华开新局——区块链上升为国家战略今日迎来一周年](http://mp.weixin.qq.com/s?src=11&timestamp=1603504805&ver=2663&signature=72swto7kJMVSjqnoNqglaZSMLTRvxpf14vKMpn-MLOUMeFoSmCcxe0XhsTWBIe*qFsRjj6bxHKJjZRzbUnoLyK5RLxM*yuWqeCBHq*EzQV8=&new=1)
+ > 编者按：去年的今天，习近平总书记在主持中央政治局第十八次集体学习时强调，要把区块链作为核心技术自主创新的重要突破口。区块链自此上升为国家战略。区块链技术与产业发展随之开启了新纪元。    ...
+ ## [\[科技早报7点整\]直播带货必须提供回看功能 传台积电助华为囤大量5G基站芯片……](http://mp.weixin.qq.com/s?src=11&timestamp=1603504805&ver=2663&signature=fJO-Uga5qgaq-jU9g1veRXC2ZVV9EvBMyFo0rdcut4UqVFK8lqE5k7pkVfnxGrODkOIntWGOn0Qe3CK871vLs0yBx6ywyhPQam99C9eXEtHql27V9QIi6GedH2pfxL4z&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第955期1.无人驾驶安全员回应争议：自动驾驶等于两人在开车近日，东莞一辆正在试运营的无人驾驶出租车被撞，引发争议。安全员回应表示，当时他在车上手未离开方向盘，但对方车...
 # IT 技术 
  ## [为什么有些公司不让用Lombok？](http://developer.51cto.com/art/202010/629471.htm)
  > 为什么有些公司不让用Lombok？
@@ -20,41 +25,41 @@ categories: IT NEWS
  > DeepMind发了篇物理论文，用神经网络求解薛定谔方程
  ## [一次订单号重复引起的事故，把我坑惨了！](http://developer.51cto.com/art/202010/629255.htm)
  > 一次订单号重复引起的事故，把我坑惨了！
- ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
- > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [Power Query操作入门及应用视频课程](http://fellow.51cto.com/art/202007/622208.htm?qd=51ctojrzd)
+ > Power Query操作入门及应用视频课程
  ## [考虑使用微前端的10个理由](http://developer.51cto.com/art/202010/629591.htm)
  > 这些复杂的应用程序大多数都生活在客户端，这使得维护变得更加困难。 这个整体式的大脂肪应用程序还存在其
 # 人工智能 
- ## [Python学生信息管理系统(精简版)](https://blog.csdn.net/weixin_44864260/article/details/109211096)
- > Python学生信息管理系统(精简版)
- ## [爬虫入门经典(四) | 如何爬取豆瓣电影Top250](https://blog.csdn.net/qq_16146103/article/details/109200583)
- > 爬虫入门经典(四) | 如何爬取豆瓣电影Top250
- ## [python中functools.reduce、偏函数、sorted函数的理解](https://blog.csdn.net/m0_51284422/article/details/109166809)
- > python中functools.reduce、偏函数、sorted函数的理解
- ## [我要偷偷的学Python，然后惊呆所有人（第四天）](https://blog.csdn.net/qq_43762191/article/details/109195441)
- > 我要偷偷的学Python，然后惊呆所有人（第四天）
- ## [Python3正则表达式——小白初学](https://blog.csdn.net/m0_50316716/article/details/109190165)
- > Python3正则表达式——小白初学
- ## [Python零基础入门学习笔记(一)](https://blog.csdn.net/BRoctopus/article/details/109169674)
- > Python零基础入门学习笔记(一)
- ## [LeetCode每日一题！！（LCP 01.猜数字）](https://blog.csdn.net/Kinght_123/article/details/109225087)
- > LeetCode每日一题！！（LCP 01.猜数字）
- ## [我爱Flask之Flask模板过滤器(你想要的这都有！！)](https://blog.csdn.net/qq_45261963/article/details/109175241)
- > 我爱Flask之Flask模板过滤器(你想要的这都有！！)
- ## [Win10系统从NVIDIA driver版本匹配开始配置Keras训练环境](https://blog.csdn.net/weixin_40198079/article/details/109186443)
- > Win10系统从NVIDIA driver版本匹配开始配置Keras训练环境
- ## [自动化测试框架RobotFrameWork教程01](https://blog.csdn.net/MagicVergil/article/details/109227214)
- > 自动化测试框架RobotFrameWork教程01
- ## [Matplotlib绘图---折线图---线条颜色和风格,坐标轴范围(上）](https://blog.csdn.net/Songyongchao1995/article/details/109194857)
- > Matplotlib绘图---折线图---线条颜色和风格,坐标轴范围(上）
- ## [Numpy中 np.random.rand() 和 np.random.randn() 的用法和区别](https://blog.csdn.net/lemonxiaoxiao/article/details/109205647)
- > Numpy中 np.random.rand() 和 np.random.randn() 的用法和区别
- ## [Python——基于局部自适应二值化（递归法）的裂缝图像分割](https://blog.csdn.net/qq_42868846/article/details/109195180)
- > Python——基于局部自适应二值化（递归法）的裂缝图像分割
- ## [windows环境下学会使用conda 创建虚拟环境，解决python版本与库不兼容问题](https://blog.csdn.net/weixin_43327597/article/details/109194217)
- > windows环境下学会使用conda 创建虚拟环境，解决python版本与库不兼容问题
- ## [python多线程爬取壁纸 妈妈再也不担心我没壁纸了！](https://blog.csdn.net/Six23333/article/details/109169283)
- > python多线程爬取壁纸 妈妈再也不担心我没壁纸了！
+ ## [OSI七层参考模型](https://blog.csdn.net/Pyy0928/article/details/109220430)
+ > OSI七层参考模型
+ ## [web组态设计](https://blog.csdn.net/XU441520/article/details/109220118)
+ > web组态设计
+ ## [吉他指弹笔记](https://blog.csdn.net/qw85525006/article/details/109213480)
+ > 吉他指弹笔记
+ ## [5G是什么？5G的关键技术简介](https://blog.csdn.net/weixin_51615178/article/details/109220762)
+ > 5G是什么？5G的关键技术简介
+ ## [华为Mate40系列售价公布](https://blog.csdn.net/m0_51392343/article/details/109231234)
+ > 华为Mate40系列售价公布
+ ## [5G异构的切换流程](https://blog.csdn.net/qq_40200841/article/details/109201872)
+ > 5G异构的切换流程
+ ## [5G大时代来临智慧城市智能化建设加速完成](https://blog.csdn.net/ztmap2020/article/details/109223219)
+ > 5G大时代来临智慧城市智能化建设加速完成
+ ## [使用虹科ThinkRF实时频谱仪构建更好的CBRS网络](https://blog.csdn.net/weixin_43123641/article/details/109214751)
+ > 使用虹科ThinkRF实时频谱仪构建更好的CBRS网络
+ ## [几分钟带你认识当下较火的趣抖音短视频](https://blog.csdn.net/un1788/article/details/109215174)
+ > 几分钟带你认识当下较火的趣抖音短视频
+ ## [华为 Mate40 手机](https://blog.csdn.net/universsky2015/article/details/109244310)
+ > 华为 Mate40 手机
+ ## [基建新未来，智慧灯杆的应用与网关选型关键点](https://blog.csdn.net/qq_39701860/article/details/109214765)
+ > 基建新未来，智慧灯杆的应用与网关选型关键点
+ ## [iphone12和华为mate40哪个更值得入手](https://blog.csdn.net/m0_51380603/article/details/109223458)
+ > iphone12和华为mate40哪个更值得入手
+ ## [P4与5G UPF实践](https://blog.csdn.net/weixin_38667434/article/details/109237086)
+ > P4与5G UPF实践
+ ## [华为 Mate 40 系⁠列 终于在2020年10月22日晚发布。](https://blog.csdn.net/u011513460/article/details/109235690)
+ > 华为 Mate 40 系⁠列 终于在2020年10月22日晚发布。
+ ## [华为Mate40系列手机正式发布](https://blog.csdn.net/m0_51392343/article/details/109230599)
+ > 华为Mate40系列手机正式发布
 # PM 
  ## [目前的B端市场，面临着哪些挑战?](http://www.chanpin100.com/article/112850)
  > 话题场景：B端产品认知升级
