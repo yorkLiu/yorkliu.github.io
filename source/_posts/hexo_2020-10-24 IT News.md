@@ -1,7 +1,7 @@
 ---
 title: 2020-10-24 IT News
 copyright: true
-date: 2020-10-24 08:35:34
+date: 2020-10-24 09:28:45
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,39 +20,41 @@ categories: IT NEWS
  > DeepMind发了篇物理论文，用神经网络求解薛定谔方程
  ## [一次订单号重复引起的事故，把我坑惨了！](http://developer.51cto.com/art/202010/629255.htm)
  > 一次订单号重复引起的事故，把我坑惨了！
- ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
- > CSS 快速开发入门视频课程
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [考虑使用微前端的10个理由](http://developer.51cto.com/art/202010/629591.htm)
+ > 这些复杂的应用程序大多数都生活在客户端，这使得维护变得更加困难。 这个整体式的大脂肪应用程序还存在其
 # 人工智能 
- ## [多个Vue项目如何部署到服务器](https://blog.csdn.net/MyxZxd/article/details/109209087)
- > 多个Vue项目如何部署到服务器
- ## [从零开始到架构，800页Java+并发+容器+多线程+高并发+Spring+SpringBoot](https://blog.csdn.net/weixin_45132238/article/details/109223012)
- > 从零开始到架构，800页Java+并发+容器+多线程+高并发+Spring+SpringBoot
- ## [手写喜马拉雅APP特效](https://blog.csdn.net/m0_37667770/article/details/109176786)
- > 手写喜马拉雅APP特效
- ## [阿里架构师心血总结微服务+分布式+大数据+Flink+机器学习文档！](https://blog.csdn.net/qq_46388795/article/details/109228443)
- > 阿里架构师心血总结微服务+分布式+大数据+Flink+机器学习文档！
- ## [前端搞搞基建（二）](https://blog.csdn.net/qq_24073885/article/details/109185041)
- > 前端搞搞基建（二）
- ## [美团点评 Hadoop/Spark 系统实践](https://blog.csdn.net/qq_36366757/article/details/109188922)
- > 美团点评 Hadoop/Spark 系统实践
- ## [简直是千年难遇！这一份最火kafaka实战笔记 ，细节详细到你无法想象！](https://blog.csdn.net/java_xiaoo/article/details/109198973)
- > 简直是千年难遇！这一份最火kafaka实战笔记 ，细节详细到你无法想象！
- ## [如何每天白嫖8次腾讯抽奖](https://blog.csdn.net/qq_39773004/article/details/109207486)
- > 如何每天白嫖8次腾讯抽奖
- ## [一问Kafka就心慌？我却凭着这份《Kafka源码实战》碾压面试官！](https://blog.csdn.net/mifffy_java/article/details/109223533)
- > 一问Kafka就心慌？我却凭着这份《Kafka源码实战》碾压面试官！
- ## [Spring5.0源码学习系列之部署构建Spring源码（一）](https://blog.csdn.net/u014427391/article/details/109118298)
- > Spring5.0源码学习系列之部署构建Spring源码（一）
- ## [你总要一个人在会所偷偷补习“分布式服务框架”，最后才能惊艳到所有人！](https://blog.csdn.net/a159357445566/article/details/109230001)
- > 你总要一个人在会所偷偷补习“分布式服务框架”，最后才能惊艳到所有人！
- ## [GitHub疯传！阿里大牛手写Spring Boot核心笔记](https://blog.csdn.net/JavaBye/article/details/109179818)
- > GitHub疯传！阿里大牛手写Spring Boot核心笔记
- ## [hive启动报错：Caused by: java.lang.IllegalArgumentException: java.net.UnknownHostException: ns1](https://blog.csdn.net/qq_38774450/article/details/109228065)
- > hive启动报错：Caused by: java.lang.IllegalArgumentException: java.net.UnknownHostException: ns1
- ## [CSDN专属idea插件上线啦~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
- > CSDN专属idea插件上线啦~~
- ## [Apache Kylin安装指南+入门案例(附图)](https://blog.csdn.net/CJ_codingfish/article/details/109217259)
- > Apache Kylin安装指南+入门案例(附图)
+ ## [Python学生信息管理系统(精简版)](https://blog.csdn.net/weixin_44864260/article/details/109211096)
+ > Python学生信息管理系统(精简版)
+ ## [爬虫入门经典(四) | 如何爬取豆瓣电影Top250](https://blog.csdn.net/qq_16146103/article/details/109200583)
+ > 爬虫入门经典(四) | 如何爬取豆瓣电影Top250
+ ## [python中functools.reduce、偏函数、sorted函数的理解](https://blog.csdn.net/m0_51284422/article/details/109166809)
+ > python中functools.reduce、偏函数、sorted函数的理解
+ ## [我要偷偷的学Python，然后惊呆所有人（第四天）](https://blog.csdn.net/qq_43762191/article/details/109195441)
+ > 我要偷偷的学Python，然后惊呆所有人（第四天）
+ ## [Python3正则表达式——小白初学](https://blog.csdn.net/m0_50316716/article/details/109190165)
+ > Python3正则表达式——小白初学
+ ## [Python零基础入门学习笔记(一)](https://blog.csdn.net/BRoctopus/article/details/109169674)
+ > Python零基础入门学习笔记(一)
+ ## [LeetCode每日一题！！（LCP 01.猜数字）](https://blog.csdn.net/Kinght_123/article/details/109225087)
+ > LeetCode每日一题！！（LCP 01.猜数字）
+ ## [我爱Flask之Flask模板过滤器(你想要的这都有！！)](https://blog.csdn.net/qq_45261963/article/details/109175241)
+ > 我爱Flask之Flask模板过滤器(你想要的这都有！！)
+ ## [Win10系统从NVIDIA driver版本匹配开始配置Keras训练环境](https://blog.csdn.net/weixin_40198079/article/details/109186443)
+ > Win10系统从NVIDIA driver版本匹配开始配置Keras训练环境
+ ## [自动化测试框架RobotFrameWork教程01](https://blog.csdn.net/MagicVergil/article/details/109227214)
+ > 自动化测试框架RobotFrameWork教程01
+ ## [Matplotlib绘图---折线图---线条颜色和风格,坐标轴范围(上）](https://blog.csdn.net/Songyongchao1995/article/details/109194857)
+ > Matplotlib绘图---折线图---线条颜色和风格,坐标轴范围(上）
+ ## [Numpy中 np.random.rand() 和 np.random.randn() 的用法和区别](https://blog.csdn.net/lemonxiaoxiao/article/details/109205647)
+ > Numpy中 np.random.rand() 和 np.random.randn() 的用法和区别
+ ## [Python——基于局部自适应二值化（递归法）的裂缝图像分割](https://blog.csdn.net/qq_42868846/article/details/109195180)
+ > Python——基于局部自适应二值化（递归法）的裂缝图像分割
+ ## [windows环境下学会使用conda 创建虚拟环境，解决python版本与库不兼容问题](https://blog.csdn.net/weixin_43327597/article/details/109194217)
+ > windows环境下学会使用conda 创建虚拟环境，解决python版本与库不兼容问题
+ ## [python多线程爬取壁纸 妈妈再也不担心我没壁纸了！](https://blog.csdn.net/Six23333/article/details/109169283)
+ > python多线程爬取壁纸 妈妈再也不担心我没壁纸了！
 # PM 
  ## [目前的B端市场，面临着哪些挑战?](http://www.chanpin100.com/article/112850)
  > 话题场景：B端产品认知升级
