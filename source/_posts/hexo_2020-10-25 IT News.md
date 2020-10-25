@@ -1,7 +1,7 @@
 ---
 title: 2020-10-25 IT News
 copyright: true
-date: 2020-10-25 10:02:51
+date: 2020-10-25 12:04:43
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,42 +20,27 @@ categories: IT NEWS
  > DeepMind发了篇物理论文，用神经网络求解薛定谔方程
  ## [一次订单号重复引起的事故，把我坑惨了！](http://developer.51cto.com/art/202010/629255.htm)
  > 一次订单号重复引起的事故，把我坑惨了！
- ## [MySQL培训速成教程（五）：Linux安装MySQL 8.0](http://fellow.51cto.com/art/202007/622199.htm?qd=51ctojrzd)
- > MySQL培训速成教程（五）：Linux安装MySQL 8.0
- ## [Windows 10 20H2正式发布！多图对比旧版&新功能一览](http://os.51cto.com/art/202010/629621.htm)
- > 近日微软在其官方网站发布了最新的Windows 10 20H2版（10月更新），根据微软的更新规则，春季版一般包含更
- ## [Go语言在极小硬件上的运用（二）](http://developer.51cto.com/art/202010/629620.htm)
- > 在本文的 第一部分 的结尾，我承诺要写关于接口的内容。我不想在这里写有关接口或完整或简短的讲义。相反，
-# 人工智能 
- ## [LeetCode每日一题！！（LCP 01.猜数字）](https://blog.csdn.net/Kinght_123/article/details/109225087)
- > LeetCode每日一题！！（LCP 01.猜数字）
- ## [【C语言】扫雷小游戏详解](https://blog.csdn.net/weixin_45177279/article/details/109230071)
- > 【C语言】扫雷小游戏详解
- ## [bilibili首页导航](https://blog.csdn.net/qq_44740605/article/details/109222578)
- > bilibili首页导航
- ## [希望你早点看到这篇面经，越早越好（字节三面-java后台开发）](https://blog.csdn.net/weixin_46577306/article/details/109248360)
- > 希望你早点看到这篇面经，越早越好（字节三面-java后台开发）
- ## [AC自动机：如何实现敏感词过滤?](https://blog.csdn.net/qq_35423154/article/details/109181973)
- > AC自动机：如何实现敏感词过滤?
- ## [c和unity开发愤怒的小鸟(1)](https://blog.csdn.net/m0_47605113/article/details/109216649)
- > c和unity开发愤怒的小鸟(1)
- ## [113行实现超简单可视化弹球java小游戏，小白放心食用](https://blog.csdn.net/weixin_48802251/article/details/109248282)
- > 113行实现超简单可视化弹球java小游戏，小白放心食用
- ## [来自各大面经的一股清流 腾讯三面+华为三面【面试经验分享篇】](https://blog.csdn.net/SQY0809/article/details/109223850)
- > 来自各大面经的一股清流 腾讯三面+华为三面【面试经验分享篇】
- ## [2020牛客NOIP赛前集训营-提高组（第三场）T4牛半仙的魔塔（增强版）](https://blog.csdn.net/RA100FDM/article/details/109247046)
- > 2020牛客NOIP赛前集训营-提高组（第三场）T4牛半仙的魔塔（增强版）
- ## [2020淘宝双十一快速刷金币工具](https://blog.csdn.net/skylibiao/article/details/109197760)
- > 2020淘宝双十一快速刷金币工具
- ## [unity人物动画配置](https://blog.csdn.net/xinzhilinger/article/details/109224600)
- > unity人物动画配置
- ## [C语言实现猜数字小游戏及伪随机数简述](https://blog.csdn.net/zhaocx111222333/article/details/109220501)
- > C语言实现猜数字小游戏及伪随机数简述
- ## [同程艺龙面经](https://blog.csdn.net/MarkusZhang/article/details/109220788)
- > 同程艺龙面经
- ## [从 0 开始运营抖音号——做超级网红](https://blog.csdn.net/fhh12061210/article/details/109224969)
- > 从 0 开始运营抖音号——做超级网红
- ## [【题解】【模板】最长公共子序列（LCS）](https://blog.csdn.net/weixin_45485187/article/details/109243027)
- > 【题解】【模板】最长公共子序列（LCS）
+ ## [MySQL Router读写分离项目实施与维护_MySQL高可用复制与分布式集群架构07](http://fellow.51cto.com/art/202008/623593.htm?qd=51ctojrzd)
+ > MySQL Router读写分离项目实施与维护_MySQL高可用复制与分布式集群架构07
+ ## [张亚勤：对于产业来讲，深度学习的黄金时代刚刚开始](http://ai.51cto.com/art/202010/629648.htm)
+ > 随着数字化3.0的到来，未来十年许多行业都将经历构造转变。这场数字化的新浪潮提供了历史性的机会，可以通
+ ## [1024程序员节：一切都有根本原因](http://news.51cto.com/art/202010/629646.htm)
+ > 今天是10月24日，程序员节。为什么选10月24日作为程序员节?因为 1024 = 2 的 10 次方。程序员使用“二(2)进
+ ## [在Python中使用KNN算法处理缺失的数据](http://developer.51cto.com/art/202010/629644.htm)
+ > 处理缺失的数据并不是一件容易的事。 方法的范围从简单的均值插补和观察值的完全删除到像MICE这样的更高级
+ ## [马云：数字货币可能会重新定义货币](http://blockchain.51cto.com/art/202010/629643.htm)
+ > 数字货币远远没有到抢标准的时候，是创造价值，是需要思考如何通过数字货币建立新型的金融体系，为全世界思
+ ## [CSS元素选择器是怎样运作的？](http://developer.51cto.com/art/202010/629635.htm)
+ > 无论你是编写一般的 CSS 还是需要经过编译的 SASS，SCSS，LESS等，最终都被编译成一行一行的 CSS 样式属性
+ ## [数据分析的5种细分方法](http://bigdata.51cto.com/art/202010/629634.htm)
+ > 在数据分析工作中，细分思维的重要性，我认为再怎么强调都不为过。下面我们通过一些示例，介绍 5 种常见的
+ ## [代码老矣，尚能跑否？](http://news.51cto.com/art/202010/629647.htm)
+ > Rougier是法国国家信息与自动化研究所（INRIA）的计算神经科学家兼程序员。传这个文件是他自己提出的计算挑
+ ## [又双一个类Unix操作系统停止开发！！！](http://os.51cto.com/art/202010/629633.htm)
+ > 近日，TrueOS(原 PC-BSD)项目团队发布公告，正式宣布TrueOS 项目停止开发。
+ ## [Python有序字典的两个小“惊喜”](http://developer.51cto.com/art/202010/629632.htm)
+ > 在 3.6 之前，字典是无序的：遍历顺序是随机的。关于有序字典，这里有两件令人意外的事情。
+ ## [这几个 IPv6 问题，你懂了吗](http://network.51cto.com/art/202010/629631.htm)
+ > 现在是 IPv4 网络，没有必要也不可能所有节点同时升级成 IPv6。在部署 IPv6 的时候可以逐步过渡，并且尽量
 
     
