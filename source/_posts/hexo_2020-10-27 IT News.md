@@ -1,117 +1,118 @@
 ---
 title: 2020-10-27 IT News
 copyright: true
-date: 2020-10-27 12:37:52
+date: 2020-10-27 17:33:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]十四五汽车产业发展趋势(附40页PPT文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=S3AVGcsJ57QFaIDQfCSbjS09Yrs4nqFmQ*wLvAID8ClQ3c1*4Vk3y57kxku979HiyxjkeriNNO1FQWqJeXI2fO8YHOksBepfAo*n4dkHjbqxLXdWZs*BMJAvaX9XbYP9&new=1)
- > 中国汽车市场经历了十多年的高速发展期，2017年达到了历史最高点，之后两年一直处在平台调整期，未来五年是实现产业转型升级的关键期，把握机遇，产业将进入高质量发展的新阶段，实现平稳增长，未来不是求规模增...
- ## [中国大型基础软件如何“去美国化”?四位权威专家这样说](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=pq7oqCs3E2H87svcZSmxV5BZgJ8lN3gy4Cz4a9tVV6AoQ9MCqxvK17KI8GVmD3EM3KuXvGNN0PACJZCM1nUV8ZYCQw3BS9rBRxmHrf74lcs=&new=1)
- > 倪光南院士等多位专家在“长沙•中国1024程序员节”上发言。【环球时报赴长沙特派记者 赵觉珵 陈青青】虽然中国网信行业在过去十几年中发展迅速，但在芯片与基础软件领域始终存在短板，这也经常被业内概括为“缺...
- ## [投资3000余万元，已培养753名3D打印专业本科生，新乡学院举办“3D打印技术创新论坛”](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=72sRs0xfZZo2thLwjkCBIUMOG8dIQyuQmMVf54SLsKNJWnGnHieM0AIjJXBpz759SSOGBQ8VktMe4U9zqVZQ0MREPuDaFnYmtCwSJ9pKtIZjl4ioKuC1kBGxP8ROaCuX&new=1)
- > 2020年10月26日，“第三届高博会3D打印技术创新论坛” 在新乡学院隆重召开，来自河南省政府、新乡市政府、高校科研院所、企业界、学生代表等数百人参加了本次创新论坛，南极熊作为3D打印行业媒体受邀参加。开幕...
- ## [字节跳动回应抖音上市；苹果公司：全球多个国家的 App 价格将上涨；GDB 10.1 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=mLoCT--Zs1PNiBmzGxOW5KC9WKosNAGf30ceLeho1PuFNqPL5T2tHmZxxS*AkNBdpGqGNG9B2OM8sD*V9*KRYcFgN7-BB-e1MOkh2oBNNeD1zi0n-gyQVC9kWGsbfRFj&new=1)
- > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
- ## [细思极恐!面具可代替人脸解锁手机，2元就能买上千张人脸照片……“刷脸”真的安全吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=2VJO4SRlUj216gOIOhzX4T9CDk5*tKgCx3h7qRv2hRwLg9eF5zKejlu8UL0V-yeuLTtglJW6e72opDgwspiTWdnbjEAPeXZcqBQ13uuDD1vKZq*46DfBvF3lzaE121ca&new=1)
+ ## [中国移动、中国联通、中国电信29元100G纯流量卡，全国通用!不限速!不限APP!质量稳，售后强!真心好用!](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=7N7SOleZ1fJIhwe4YyA*ReAe4qcnkfDzOk1Wwv5vOvpiohg1jnDWtxTWp9-ptsI0N*rjck0M98oClcqRt8YSWaxgPXlG8qP*lPOvV6OBUMn8suV2DSd**kMcNz-dZ7VI&new=1)
+ > 流量福利来了！！！限量发放流量专用卡终身售后！后期可免费更换5G卡板！永久29元包100G！全国通用流量！永不限速！· 零月租，一卡多套餐！随用随充！· 看电视，看直播，玩抖音，刷快手，刷微博· 质量稳、公...
+ ## [揭晓未来检验医学之路：数字化、智能化](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=nkkIQHVNzCS2jEL6A5qJOH2cea8cEsYg0M0VEPNYd0M*wXqKY*lDloBsJiZn78MJmz3BRaOlVoa0GJlRs2A*gxAMr2rEXICNmiQvnIsRh18NrLwHAQrO-IilkBAkaytT&new=1)
+ > 金秋十月，以“创新科技、智领未来”为主题的2020年第83届中国国际医疗器械博览会(CMEF)在国家会展中心(上海)拉开帷幕。西门子医疗作为全球领先的医疗技术公司之一，在本次展会上隆重推出一系列以“塑造医疗行业...
+ ## [vivo发布6G白皮书：超前布局背后是核心技术突破决心与战略布局](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=f5sFweI1si12iWg-RsDftVJr01QQpsLP412nZFiWbk-olw-5x-3v1APdZIMbKE3JPB3fNoARpJajpzC6LHYyOQx9Jbn9Fcp0fZEeukmdA3kyZZm9GtunLGFmCA9h1A46&new=1)
+ > 超前布局6G背后，实际上vivo从跟随、追赶、齐跑，再到今天在一些核心关键领域的领跑的体现。在新的产业变革、技术换挡期，vivo 重压核心技术，跳出了为生存的短线思维，跃升到更全球化、更前瞻性的角度，对核心...
+ ## [国家卫健委正式启动5G医疗卫生行业标准研究](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=PYa-Hz-E7sQpD2Or1lj2f0W*O093B36gxd0rONsiv8xnOz12JRelkt6hsJIS7wvx0vqHoe-F7dOp*EOshOnw4YDaQxwa6spfpfol5bbmMvMj17HzMGu7kYCRO1cnqyfG&new=1)
+ > 2020年10月24日，5G医疗卫生行业标准研究启动大会暨中国远程医疗与互联网医学大会在北京召开。这标志着我国5G医疗卫生正式进入行业标准研究制定阶段。国家卫生健康委相关领导、全国500余家医院、中国医学装备协...
+ ## [预告|2020中国BI品牌测评报告](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=F9qI3bjp7XUa-vZv-4ANXgPfiZfr3FZ0yIdkOi8UZ2Y0wFDtjDegWRqtk1MpBXe4JH5yduyT9rFBIvHDSvGCpdy5FykWFVQhQu1R1X-XRQPdl-mZWvmHGwEFhjfzP2D-&new=1)
+ > 2020年，突如其来的疫情让“健康码”和“个人行程查询”闯入每个人的生活，并在随后排查高风险人员防止疫情扩散中，发挥了极其关键的作用。精准数据的导向下，数字防疫的敏捷表现让人印象深刻。企业是否能够具备...
+ ## [2020年云安全的九大关键趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=1FU9azUXE-S*c5b4JnNVQcFRjPltStWzfAtePXW-1m5IcNr8x-dnkJnwunzIXJveOd**dLlcXfzHWAl1HlqDt3urnUsmprPuhj9SG08FhlR97Kwm-JHkUom1IJj0hIfJ&new=1)
+ > 关键讯息，D1时间送达！2020年新冠疫情加速了“云计算与安全”、“网络与安全”的融合趋势。“云优先”时代，企业越来越依赖云计算。但是对于大多数企业来说，业务上云并不意味着安全上云，“靠山山倒”，要想确...
+ ## [广西“双5G”有多牛?又一次全国抢先了!](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=3U*ikKBmA8T3zv4R*vwi5w*GiSNVt-ZTWXVozFSRZvMT6stQIAu4a7kpXMvTdFjw2LMxCbfI1xhas7qyb2DomR9nFj-h8ordWoVDe4ZDizDfySJV3jtGLetLg4v0sY05&new=1)
+ > 10月27日，由自治区大数据发展局和自治区通信管理局主办，中国电信广西公司和华为技术有限公司承办的“5G赋能数字广西，云网智领壮美八桂”第二届生态合作伙伴峰会在南宁隆重召开。！重磅消息！中国电信广西公司...
+ ## [央视新闻：“刷脸”时代 你的人脸信息安全吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=38-h4IWW2lPv25LY35wkUaFuf23kIHkFOLeLqZgz7CKbEVzZ1KQqJXobguNVozG6Inq-vwgskKuOMk*t9veP1-ZsQbcnk4**7-O50a62SDq2-551xy24YjRMVlAQx3sL&new=1)
  > 购物时“刷脸”支付、用手机时“刷脸”解锁，进小区时“刷脸”开门……如今，越来越多的事情可以“刷脸”，用人脸识别技术来解决。 近日发布的一份报告显示，有九成以上的受访者都使用过人脸识别，不过有六成受...
- ## [黑客假冒Microsoft Teams消息发动钓鱼攻击 已锁定50000个Office 365用户](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=tOLNYTnnwHMlaTin9WexHft3uKuNDDWQb1ik8gYCxLq3WtdyJ0rKI2EIF-F432gR8KgGwRQKYT0*LTjfYvPQPeQRNcUjA5Sg3gRWVj1GqJ9Y6OXbhTnayS1hiXl2ve6j&new=1)
- > E安全10月27日讯 近日，据外媒报道，研究人员警告称，有网络钓鱼活动伪装成Microsoft Teams的自动通知消息，攻击目的在窃取Office 365收件人的登录凭证。01黑客志在取得Office 365用户登录凭证Teams是微软最
- ## [国家技术标准创新基地(贵州大数据)贵阳高新区基地第一届理事会成立](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=NUDvZZ7RzxOslJfyL*CV2UScwUvFH1cwLvIjCYspJmNkHN6b453S7UKQAIGtYnGqMECYOPCkZhRReVIgs7ayyps01Pe6vxqtdKtoW4Uans8=&new=1)
- > 本报讯 10月26日，国家技术标准创新基地（贵州大数据）贵阳高新区基地第一届理事会成立大会举行。　　成立理事会，旨在集聚贵阳高新区大数据产业优势资源，整合技术创新力量，组织开展大数据标准研制，培育...
- ## [重点业务领域措施有力!中国电信政企改革举措成效显著!](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=21SA6-rKIMxSW97vmz8-M6aU28NNBcGyDI7K-TBvyo*J23YyqAtK7rhfG86mkSueNl19hDSapjNKoainpxproFk*AbirMum17vhZORSmEBXdGLWd*ON2QiztlI9G4XR4&new=1)
- > 电信政企部改革后各行业事业部收入曝光 有的多达数十亿日前，运营商情报获悉，中国电信政企事业部改革后，各行业事业部的收入增长已实现了双位数增长，用实力证明了改革带来的成效。据悉，中国电信针对政企事业...
- ## [在华为，为什么技术排第三](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=K1fls3YkiWUPFOmzV5DLH8yTAo6LudKxHrfjv5adw2W0In51zdg0MC8ndmoQU8qYMuZAP7QqH8eLkocvjHxmiiXxmcSUC40HTl*bDzZ7q4csjo8zWhSsHyEGLCeNWL17&new=1)
- > “向华为学管理”系列（十三）任正非说过，在华为，技术的重要性排在第三位，首先要注重客户需求，并且客户对产品的评价标准是基于质量的。技术是赢得效益的重要手段，但不是唯一手段，更重要的是满足客户需求。...
- ## [代码攻击破坏设备，炸毁 27 吨发电机的背后](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=mLoCT--Zs1PNiBmzGxOW5KC9WKosNAGf30ceLeho1Pua5fomQYDyZOg6FiKqz6fCvYRjX6LXGcLCwoafoHXlJ7WTfsdczaKn77TZ8SpJWLBPkSf8egJ1tcnbNn07q4ej&new=1)
- > 作者 | 八宝粥出品 | CSDN（ID：CSDNnews）题图来源 | 东方IC日前，美国司法部曝光了针对俄罗斯黑客组织 Sandworm的指控，6名黑客人员对平昌冬奥会、2017年法国大选进行黑客攻击，发起NotPetya勒索软件攻击。
- ## [闪存时代登上存储性能顶峰，端到端NVMe必不可少](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=W0pE6S0cCu4yEOgCIW8moMQGEN2zDBxvp51AY2bJfDsSv24hvewd8mykw3hT-J1kPbMOYd2dLQxcBk523QjRUSfyGzhaM6Mvf*HrtiwbcT5rxw1q2v7NXDEXrAvwdmT1&new=1)
- > 近日听说华为存储又登上了存储组织SPC-1的顶峰，这在存储的全闪存时代，确实/好像是一件不太容易的事情。存储进入全闪存时代，是发展史上一次大的跨越，SSD硬盘比机械硬盘性能/容量/密度几十倍的提升，让存储这...
- ## [新乡这所全国唯一本科层次3D打印学院渐入佳境](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=GK0Xa-1OAe-JfdB1R2WoISOX0r*D1PCW-gAiFalg51HnMbzegS415RJfjiGda1rlKZHOzeF3OHjKMyveWLR33V*b9Yyxn9zjpPc3YpPGDkLEQPfaAwA-KReP5iyS5zBx&new=1)
- > 10月26日上午，以“跨界融合，助力中国智造”为主题的的第三届高校院所河南科技成果博览会3D打印技术创新论坛在新乡学院举行。来自清华大学、西北工业大学等国内知名高校的6名专家，聚焦面向制造强国的工程创新...
- ## [谁在引领未来：3GPP标准贡献分析白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1603773005&ver=2669&signature=6MnDuTHxZu8m4omXQu*VB9yqor-kFMh8WAtDKkCGiwcSeCUWIhfocHrEZKZ-Z2u-bJCvWocxjRoEBE2HLREIPr4YC-yQ-En3tWwH4InzLkskjig1KwrIOqFB8BkePV*R&new=1)
- > 来自市场研究公司Omdia的最新报告称，5G已经在改变着无线通信场景的许多方面。供应商、运营商和其他利益相关者都将参与到改变行业的转型中来。从LTE的经验中可以得知，供应商对3GPP标准制定的贡献，很好地说明了...
+ ## [在网易有道做语音算法工程师是一种怎样的体验?](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=6xYyXAU3fcGpjAOnIm3RxnogpRzsTBi7VjttUolAqWBEK8xZ38U57D5uN7cA7CqnrnFLuT9zR5*VvLi5auy4jvKha8xZRXQiVmqG*UoPuZicqH9qK5gNdj3*s17VK65I&new=1)
+ > 鱼羊 发自 凹非寺 量子位 报道 | 公众号 QbitAI一个成立不到两年的团队，两个初入职场的新人，杀入顶会挑战赛能拿下怎样的成绩？时限是，10天。近日，全球语音顶会INTERSPEECH 2020「口音英语语音识别挑战赛」结...
+ ## [“AI换脸”骗过人脸识别!这些应用更安全……](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=cmqQfBTZ98UGfliTPqmA4pvYMbsQivfSxRs6PZChMhPMAHobyzJfHjIsEy50UwywpysYdtzPCUEmOEV*5U3i2B*PQAOQD*RGDBMY7jpLPpKYKqyZuASMapBz2zlSTICp&new=1)
+ > 购物时“刷脸”支付、用手机时“刷脸”解锁，进小区时“刷脸”开门……如今，越来越多的事情可以“刷脸”，用人脸识别技术来解决。近日发布的一份报告显示，有九成以上的受访者都使用过人脸识别，不过有六成受访...
+ ## [苏州又有一个行业未来或将消失?无人驾驶开进相城，够稳!](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=695*Nsb11TYb6XljIBLHNxUBGx6C92Cul*ajhpi*86SppIh*Yd*BhhW-TyNPFxs0hfYiUiGAy8KJ2XSvvoOvVjJr3EAYiuhDqj8Mwgt*go4ibisL*8wTeXj2pQL4ugiD&new=1)
+ > 随着科技的的发展无人驾驶技术从科幻走进现实这个月，两位经验丰富的“老司机”一上线苏州地图立刻轰动了整个苏州城！10月21日，全国首个常态化运营5G无人公交“轻舟无人小巴”（QCRAFT）在苏州高铁新城正式运营...
+ ## [传三星Display已获得许可，可向华为供应某些显示面板产品](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=9ZeAxKH9pKLNRx38L24P4jH7k6FP3CxHrf8U8UamQKmhKHeEji8QXhlZQeO7GxPcgpO*dMTwpPE2yNQG239fKy3CGjn2SH9LYbKr4awKkBinAZsMyAbDMFxYt2if2Qlv&new=1)
+ > 10月27日上午消息，据路透社援引知情人士的消息报道称，三星电子旗下的面板制造商三星显示器公司（三星Display）已经成功获得美国政府的许可，可以继续向华为供应某些显示面板产品。不过，目前三星Display未对此...
+ ## [云网融合，探索企业边缘网络转型的新路](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=i-fpGxItz5XUdTJAr8S7kTKVJSqOeWL62QST5-x*AGXTnsqINl576vNrl*N1ERflduLyofpiH6dB2I9MzKYymT6kBU-k7apdFccaXEU7GZaHxSqXbd1aIerbqg23BT5-&new=1)
+ > 随着新基建的逐渐涉入，云网融合成为通信行业的重要发展趋势，10月16日，英特尔举办“5G云网融合线上论坛”，受到了行业内外企业的广泛关注，其中分论坛五——企业边缘网络的转型与创新，更是得到了行业企业的称...
+ ## [中国大型基础软件如何“去美国化”?四位权威专家这样说](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=CY00lLlLPzF8phWyrnyOeoorkdNaYcME97F*14TCM9uFi82rZyq*XzmuoPgtGwzpfPOCs*4jdah9w1nk*Gi77h5kjsBXjFyv0zPIqxhRpFA=&new=1)
+ > 倪光南院士等多位专家在“长沙•中国1024程序员节”上发言。【环球时报赴长沙特派记者 赵觉珵 陈青青】虽然中国网信行业在过去十几年中发展迅速，但在芯片与基础软件领域始终存在短板，这也经常被业内概括为“缺...
+ ## [工信部通报2020年第五批侵害用户权益行为的APP](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=z2gMto2TpUVbUNCeEbSfjJ0H77sd1jEdDeHL-dAIku2XlY3wrdJlN82P0-WGM4hT-E1cg8Bs4nT41lEcKn4G0LvJHyYWph3af5GQcQ-rJc4=&new=1)
+ > 上证报中国证券网讯 据工业和信息化部10月27日消息，工信部发布关于侵害用户权益行为的APP通报（2020年第五批）。快狗打车、悟空租车、易车等在列。　　通报称，依据《网络安全法》《电信条例》《电信和互联...
+ ## [微软威胁矩阵不是雷神之锤](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=RVI7lj4QyT3m8o9GFsFiCUZp3xsVLeEAAvzXpjmiVN0**xpISgLiaSeWwNvuXFnLIoMIPWVtisKa9ccvop7sJ0TtV3uNzecZQVhdl0TtSeLFlnSuDrl0fhNA39f1l6yi&new=1)
+ > 安全牛评无论是机器学习还是云安全团队，全面地了解微软的两个威胁矩阵有助于着手实施缓解策略保护集群免受攻击威胁。但是安全团队始终要保持警惕，不可过于依赖某个框架或矩阵，因为这些框架不是金刚不坏一锤走...
+ ## [为创新插上翅膀，2020年美健(个护)电器行业技术交流会召开](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=PLAhEyLnKRAF8mbdJsaSG1KvCWlt0tnRUHyAXm2IzqBuEBWFC2qIcpDhXKfxvZtKc8cvu1wCgQm1WBnHumBkx68iTzzeRKNj-2hjZ8O-AIhegzjm-MQ8AWiNv4-KBxl2&new=1)
+ > 2020年10月20日，中国家用电器协会2020年美健（个护）电器行业技术交流会在深圳召开，众多业内专家、企业代表参加了此次会议，并围绕企业在产品研发和生产过程中面临的技术难题、提高行业技术创新能力和产品质量...
+ ## [\[报告\]十四五汽车产业发展趋势(附40页PPT文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=vLLmm71BR4r5rSePz2FMtpmHHQgM45Qfio25oSjIiitGjXKRHPJxHYfNqxUHdOypwNWv9i3YKsVniPf9pmcf3uN2elKzyeDAd4bfVEMd2E1e0Mrdttd0vLlsUqm46mni&new=1)
+ > 中国汽车市场经历了十多年的高速发展期，2017年达到了历史最高点，之后两年一直处在平台调整期，未来五年是实现产业转型升级的关键期，把握机遇，产业将进入高质量发展的新阶段，实现平稳增长，未来不是求规模增...
+ ## [投资3000余万元，已培养753名3D打印专业本科生，新乡学院举办“3D打印技术创新论坛”](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=oM-eojNuXEhW60CQHVsChv92n5HbaMBkpZZl*LzbQJ2uAtwGf*VWJNxvHMU8SpKhLBQg3z2i56yZGCyY-8440gdG8w3VnYEiIWG97xOnBzOrYq58XIm0Vl284Ow8TDoq&new=1)
+ > 2020年10月26日，“第三届高博会3D打印技术创新论坛” 在新乡学院隆重召开，来自河南省政府、新乡市政府、高校科研院所、企业界、学生代表等数百人参加了本次创新论坛，南极熊作为3D打印行业媒体受邀参加。开幕...
+ ## [字节跳动回应抖音上市；苹果公司：全球多个国家的 App 价格将上涨；GDB 10.1 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1603791005&ver=2670&signature=F4aP5hD-qWSs-gftyq86oWOH2TgjTSOlRVR*ZM*nIvbJNrPYTCyvFUVtmRqLRyvtO3NBKRGhFtiukyAyfIdzVH*qE7rCS1iNbVAB6n2DoFoO1OFJlZWAxUufHJ6UR2H2&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
 # IT 技术 
  ## [为什么PB级分析型数据库ClickHouse这么快？](http://database.51cto.com/art/202010/629855.htm)
  > 为什么PB级分析型数据库ClickHouse这么快？
+ ## [一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](http://news.51cto.com/art/202010/629901.htm)
+ > 一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？
  ## [数据保护即服务（DPaaS）如何为业务保驾护航](http://cloud.51cto.com/art/202010/629812.htm)
  > 数据保护即服务（DPaaS）如何为业务保驾护航
+ ## [单页应用程序中智能DevOps的五种策略](http://developer.51cto.com/art/202010/629918.htm)
+ > 单页应用程序中智能DevOps的五种策略
  ## [在鸿蒙开发板上使用MQTT协议、OneNET实现第一个物联网项目](http://os.51cto.com/art/202010/629865.htm)
  > 在鸿蒙开发板上使用MQTT协议、OneNET实现第一个物联网项目
  ## [IT专业人员希望首席信息官了解人工智能的9件事](http://www.cioage.com/art/202010/629811.htm)
  > IT专业人员希望首席信息官了解人工智能的9件事
  ## [面试时说Redis是单线程的，被喷惨了！](http://stor.51cto.com/art/202010/629701.htm)
  > 面试时说Redis是单线程的，被喷惨了！
- ## [在Python中用遗传算法优化垃圾收集策略](http://developer.51cto.com/art/202010/629768.htm)
- > 在Python中用遗传算法优化垃圾收集策略
- ## [Linux上的Vagrant使用入门](http://virtual.51cto.com/art/202010/629671.htm)
- > Linux上的Vagrant使用入门
- ## [图解Python（4）（高级进阶篇）](http://fellow.51cto.com/art/202008/622834.htm?qd=51ctojrzd)
- > 图解Python（4）（高级进阶篇）
- ## [利用数字证书的攻击五年内飙升了700%](http://zhuanlan.51cto.com/art/202010/629911.htm)
- > 根据Venafi最新报告《机器身份驱动企业攻击面的快速扩大》的数据显示，过去五年中利用“机器身份”进行网络
- ## [工作效率提升 2021年全球将有34%员工长期远程办公](http://news.51cto.com/art/202010/629910.htm)
- > 近日，据美国一项企业技术研究(ETR)调查，2021年全球范围内长期在家工作的员工比例预计会持续提高，主要是
- ## [编程不用程序员！低代码是炒作还是趋势？](http://developer.51cto.com/art/202010/629909.htm)
- > 销售广告很诱人：应用程序不过就是点几下而已。但是，当你购买低代码开发平台时，实际为自己的企业做了什么
- ## [什么样的才叫物联网？物联网发展趋势会比互联网更好吗？](http://iot.51cto.com/art/202010/629902.htm)
- > 物联网，这个词相信大家应该都很熟悉，简单的说：就是用网络把世界万物终端，工具等连接在一起，并在云端平
- ## [比你更懂你的物联网时代，电商会不会出现新的模式](http://iot.51cto.com/art/202010/629900.htm)
- > 科技日益创新改变着我们的生活，然而互联网的变革直接改变和影响了人们的生活方式。自1994年4月20日互联网
- ## [一个技术总监的忠告：精通那么多技术，你为何还是受不到重用？](http://news.51cto.com/art/202010/629901.htm)
- > 老田对大刘并没有藏着掖着，在饭桌上，他和大刘坦诚沟通了他的经验，并列出了他认为他可以升职加薪的一些非
- ## [好消息！5G原来如此重要，中国移动立功](http://network.51cto.com/art/202010/629899.htm)
- > 现在说到5G网络，大家应该都不陌生了，毕竟根据工信部公布的最近数据显示，目前我国已经建设5G基站达到69万
- ## [Linux内核学习与问题定位，这个工具一定要掌握](http://os.51cto.com/art/202010/629896.htm)
- > 在Linux操作系统上有一个非常有用的工具，无论是进行深层次的问题定位，还是进行Linux内核代码的学习，使用
- ## [IT工程师都需要掌握的容器技术之Docker存储管理](http://developer.51cto.com/art/202010/629894.htm)
- > 小伙伴们我们容器技术文章又来啦，今天这边文章主要为大家讲解容器存储，通过本篇文章我们可以了解到容器镜
- ## [中国公有云服务市场占主导地位 上半年达84亿美元](http://cloud.51cto.com/art/202010/629891.htm)
- > 当下，全球云计算市场已逐渐形成较为稳定的格局，但是增速仍然迅猛，尤其是今年突如其来的疫情极大的刺激
+ ## [MySQL Router读写分离项目实施与维护_MySQL高可用复制与分布式集群架构07](http://fellow.51cto.com/art/202008/623593.htm?qd=51ctojrzd)
+ > MySQL Router读写分离项目实施与维护_MySQL高可用复制与分布式集群架构07
+ ## [白宫即将出台人工智能新规，保持美国在AI领域的领导地位](http://news.51cto.com/art/202010/629959.htm)
+ > 据美国白宫高级技术官员迈克尔・克拉特西奥斯(Michael Kratsios)表示，特朗普政府正在完善对各机构如何监
+ ## [互联网时代，谈谈那些被遗忘的老人们，我们该怎么做？](http://news.51cto.com/art/202010/629958.htm)
+ > 科技时代的高速发展，我们生活在互联网信息时代，生活中充斥了大量的科技产品，这些产品与我们的生活息息相
+ ## [2元能买上千张人脸照，AI黑产真相远不止于此！](http://ai.51cto.com/art/202010/629957.htm)
+ > 如今，越来越多的事情可以“刷脸”，也就是用人脸识别技术来解决。购物时“刷脸”支付、手机上各种支付APP
+ ## [数字时代亟须加快制定个人信息保护法](http://netsecurity.51cto.com/art/202010/629956.htm)
+ > 面对复杂的国际局势，如何平衡好个人信息价值挖掘与个人主体信息自决权、信息共享与隐私保护、大数据分析
+ ## [世外教育集团的智慧教育秘诀：优质教育+优质的云](http://cloud.51cto.com/art/202010/629955.htm)
+ > 上海世外智慧教育科技有限公司隶属于世外教育集团，是一家专门从事教育信息化应用研究和开发的互联网科技公
+ ## [网信办：将UC、QQ等8款手机浏览器纳入重点整治范围](http://mobile.51cto.com/news-629954.htm)
+ > 据国家网信办官微网信中国消息，昨日，国家网信办对手机浏览器扰乱网络传播秩序突出问题开展专项集中整治，
+ ## [分析：CBDC对比特币是威胁还是帮助？三种场景告诉你](http://blockchain.51cto.com/art/202010/629953.htm)
+ > 自从脸书宣布创建天秤座(Libra)数字支付货币以来，各国中央银行就一直试图构建国家数字货币来应对。目前，
+ ## [穆长春谈数字人民币钱包：已发现假冒的，深圳没在二手房试](http://blockchain.51cto.com/art/202010/629952.htm)
+ > “我们在罗湖区发数字人民币红包来促进消费，并没有试点二手房场景。另外数字人民币和纸钞和硬币是等价的，
+ ## [记者实探：拥有5G的水电站、无人机后，小镇都有了哪些变化？](http://www.cioage.com/art/202010/629951.htm)
+ > 近日，记者实地探访了四川广元亭子口水利枢纽“5G智慧电站”、四川自贡“5G网联无人机基地”以及云南西双版
+ ## [鲲鹏高校行即将山城论道，川渝双城经济圈没有鲲鹏怎么行!](http://network.51cto.com/art/202010/629949.htm)
+ > 作为西部高质量发展的重要增长极，川渝地区双城经济圈建设正在如火如荼进行中，重庆鲲鹏产业生态有着明显的
 # 人工智能 
- ## [Android初学](https://blog.csdn.net/qq_45811966/article/details/109277508)
- > Android初学
- ## [vue生命周期函数、react生命周期函数、微信小程序生命周期函数、uni-app生命周期函数，简介及图示](https://blog.csdn.net/yaoguaia/article/details/109294040)
- > vue生命周期函数、react生命周期函数、微信小程序生命周期函数、uni-app生命周期函数，简介及图示
- ## [CCPC2020 威海C 树形dp](https://blog.csdn.net/jk_chen_acmer/article/details/109273247)
- > CCPC2020 威海C 树形dp
- ## [Android-轮播图banner的使用步骤](https://blog.csdn.net/weixin_44325444/article/details/107183788)
- > Android-轮播图banner的使用步骤
- ## [Android 安卓从1.0到11.0总结（跟随Android官网实时更新）](https://blog.csdn.net/qq_40881680/article/details/109281912)
- > Android 安卓从1.0到11.0总结（跟随Android官网实时更新）
- ## [两种方法实现登录返回上一页,对上一页进行判断,如果不是本网站页面,就跳转到个人中心或网站主页,如果上一页是本网站页面就跳转回到上一页](https://blog.csdn.net/wangdekai007/article/details/109294324)
- > 两种方法实现登录返回上一页,对上一页进行判断,如果不是本网站页面,就跳转到个人中心或网站主页,如果上一页是本网站页面就跳转回到上一页
- ## [仿新闻订阅功能，Android可拖动排序的GridView（自定义GridView）](https://blog.csdn.net/qq_44720366/article/details/109262074)
- > 仿新闻订阅功能，Android可拖动排序的GridView（自定义GridView）
- ## [深入Android系统（六）第一个用户进程-Init进程](https://blog.csdn.net/lijie2664989/article/details/109274031)
- > 深入Android系统（六）第一个用户进程-Init进程
- ## [Android Studio笔记之webview ——实现播放器全屏功能](https://blog.csdn.net/qq_43398404/article/details/109274016)
- > Android Studio笔记之webview ——实现播放器全屏功能
- ## [安卓 gradle-6.5下载失败，解决方案](https://blog.csdn.net/xcg8818/article/details/109273174)
- > 安卓 gradle-6.5下载失败，解决方案
- ## [再见！onActivityResult！你好，Activity Results API！](https://blog.csdn.net/zwluoyuxi/article/details/109285162)
- > 再见！onActivityResult！你好，Activity Results API！
- ## [苹果，U盘越狱iPhone绕ID最新教程及各种坑解决，吐血之作（超详细超简单教程）-balenaEtcher-Checkm8-bootra1n](https://blog.csdn.net/yioye/article/details/109285838)
- > 苹果，U盘越狱iPhone绕ID最新教程及各种坑解决，吐血之作（超详细超简单教程）-balenaEtcher-Checkm8-bootra1n
- ## [Android学习笔记（五）——EditView](https://blog.csdn.net/weixin_45606831/article/details/109297773)
- > Android学习笔记（五）——EditView
- ## [【appium】appium自动化入门之元素篇](https://blog.csdn.net/Chaqian/article/details/109262791)
- > 【appium】appium自动化入门之元素篇
- ## [滥用Static封装Dialog导致某些情况下Dialog show失败问题](https://blog.csdn.net/qq_38350635/article/details/109209601)
- > 滥用Static封装Dialog导致某些情况下Dialog show失败问题
-# PM 
- ## [朱一旦失策了](http://www.chanpin100.com/article/112914)
- > 旦总没内味儿了...
- ## [UI设计师是如何工作的？](http://www.chanpin100.com/article/112909)
- > 眼下正值就业的“金九银十”，又有大批新人小伙伴要涌入UI设计这片红海啦。UI设计并非画画界面这么简单的一份工作，一名优秀的UI设计师除了需要过硬的手上功夫和丰富的跨专业知识，还需要优秀的沟通协调能力，才能保证从需求整理到设计、上线全过程顺利稳定的进行。今天的分享能让你对UI设计工作的内容和流程有一个
- ## [双11，让饿了么可以每年杀死美团一次](http://www.chanpin100.com/article/112913)
- > 一直强调“无边界”的美团究竟在怕什么？这个问题的答案，值得抽丝剥茧细究。
- ## [消费者洞察：数据化闭环洞察消费者](http://www.chanpin100.com/article/112904)
- > 生代互联网消费者更乐于分享表达，然而消费者触点分散，对企业洞察消费者、了解消费者需求痛点增加了难度，这时需要借助数据技术的力量打造”以消费者为中心“的闭环洞察体系，这也正是文本要讲解的重点。
- ## [复盘学习Kano模型：模拟定义微信的需求分类](http://www.chanpin100.com/article/112826)
- > 复盘学习Kano模型：模拟定义微信的需求分类
- ## [从麻辣烫小店看服务设计升级](http://www.chanpin100.com/article/112804)
- > 作者：杜昭 公众号：设计的威严
+ ## [不是吧？面试被问了几百遍的 IoC 和 AOP ，还搞不清楚？](https://blog.csdn.net/HarderXin/article/details/109259712)
+ > 不是吧？面试被问了几百遍的 IoC 和 AOP ，还搞不清楚？
+ ## [Java开发九年，10月初收到60万顺丰和52W字节跳动Offer，随便选！（附赠自刷面试题总结）](https://blog.csdn.net/weixin_45825082/article/details/109297990)
+ > Java开发九年，10月初收到60万顺丰和52W字节跳动Offer，随便选！（附赠自刷面试题总结）
+ ## [500道高频面试+4套Github商城项目教程（源码+视频）](https://blog.csdn.net/weixin_45132238/article/details/109289827)
+ > 500道高频面试+4套Github商城项目教程（源码+视频）
+ ## [BAT等大厂年薪30W+面试清单：JVM\MySQL\设计模式\分布式\微服务](https://blog.csdn.net/weixin_51204715/article/details/109296491)
+ > BAT等大厂年薪30W+面试清单：JVM\MySQL\设计模式\分布式\微服务
+ ## [阿里巴巴内部 MySQL宝典 意外流出！极致经典，堪称数据库的天花板](https://blog.csdn.net/weixin_45784983/article/details/109287202)
+ > 阿里巴巴内部 MySQL宝典 意外流出！极致经典，堪称数据库的天花板
+ ## [面试大揭秘！从技术面被“虐”到征服CTO,全凭这份强到离谱的pdf](https://blog.csdn.net/AMSRY/article/details/109289774)
+ > 面试大揭秘！从技术面被“虐”到征服CTO,全凭这份强到离谱的pdf
+ ## [2020-10-25](https://blog.csdn.net/m0_46629749/article/details/109274454)
+ > 2020-10-25
+ ## [我把同事珍藏十来年的Java面试宝典偷来了！](https://blog.csdn.net/a159357445566/article/details/109297772)
+ > 我把同事珍藏十来年的Java面试宝典偷来了！
+ ## [SpringBoot之HandlerInterceptor拦截器的使用](https://blog.csdn.net/chenlixiao007/article/details/109270008)
+ > SpringBoot之HandlerInterceptor拦截器的使用
+ ## [记一次分布式锁-基于数据库](https://blog.csdn.net/u013591094/article/details/109301317)
+ > 记一次分布式锁-基于数据库
+ ## [今天你写博客了吗？](https://blog.csdn.net/Yao__Shun__Yu/article/details/109277189)
+ > 今天你写博客了吗？
+ ## [springboot整合dubbo设置全局唯一ID进行日志追踪](https://blog.csdn.net/weixin_39427718/article/details/109291787)
+ > springboot整合dubbo设置全局唯一ID进行日志追踪
+ ## [面试不再慌！苦学这份2020最全的Java性能优化实战笔记，已涨17k](https://blog.csdn.net/mifffy_java/article/details/109291322)
+ > 面试不再慌！苦学这份2020最全的Java性能优化实战笔记，已涨17k
+ ## [（MHA）MySQL高可用集群配置实例，综合理解解析过程（干货MHA的下载连接）](https://blog.csdn.net/wulimingde/article/details/109212454)
+ > （MHA）MySQL高可用集群配置实例，综合理解解析过程（干货MHA的下载连接）
+ ## [2020年最新阿里、字节、腾讯、京东等一线大厂高频面试（Java岗）真题合集，面试轻松无压力](https://blog.csdn.net/weixin_45784983/article/details/109288219)
+ > 2020年最新阿里、字节、腾讯、京东等一线大厂高频面试（Java岗）真题合集，面试轻松无压力
 
     
