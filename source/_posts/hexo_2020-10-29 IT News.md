@@ -1,22 +1,26 @@
 ---
 title: 2020-10-29 IT News
 copyright: true
-date: 2020-10-29 09:01:58
+date: 2020-10-29 09:55:39
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [当年差点收购AMD的赛灵思，如今被AMD用350亿反买了..](http://mp.weixin.qq.com/s?src=11&timestamp=1603933205&ver=2673&signature=N51N-EIoiOD4lkuoozMSiXlgeuV8ZX7UrdsT6ocDnrV-WTb7FJaYDsXxblW6xc6veXrW53JjixbsVqYHcEhpWafbyixyNNQUF4dUZ2B8JKFIPbvtQA8avdA-rqmf40Nn&new=1)
+ ## [当年差点收购AMD的赛灵思，如今被AMD用350亿反买了..](http://mp.weixin.qq.com/s?src=11&timestamp=1603935005&ver=2673&signature=N51N-EIoiOD4lkuoozMSiXlgeuV8ZX7UrdsT6ocDnrV-WTb7FJaYDsXxblW6xc6vsDsMj*2zzd1j31-iaLh31wNfVxaphEuodE06F9dschfuHrXDyeSKxhAcxpRaOkzj&new=1)
  > 今天， AMD 又搞事啦。。。宣布以 350 亿美元全股票形式（ 不给钱，付股票 ）收购赛灵思 ~ 看完这条消息，差评君只想感叹一句，人生如戏。。。放在 5 年前，谁敢信 AMD 能收购赛灵思？当时大家讨论的都是：赛灵...
- ## [对话华为朱慧敏：国家5G医疗标准研究启动，华为愿与医疗行业同行](http://mp.weixin.qq.com/s?src=11&timestamp=1603933205&ver=2673&signature=fcBM2dHfXjUkznyW4AvhPR12IQu1T3lnGstcQAZStCwzINlAj8dsxL-rpOus1Pvlfw5gt4oqeIhrki7DB5nTHBVFqW45mJxuzoA6Nd8ds4GGtvSoeIu8NIs9l21QyuTI&new=1)
+ ## [SiPC China 2020|欢迎报名第三届中国硅光产业论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1603935005&ver=2673&signature=Vap9b3wNbh2G99B24qPYr1a52d04ar6XIFVRMl69883yaNQ07TIeUvrMXja*TTDLOqRoscf1au2dTzqqI4v5aiGVNenyPvIJsZvIsP*hKVK3aE9P9xnHcHcR5vUO2477&new=1)
+ > 新闻导读11月12日，第三届中国硅光产业论坛将在武汉隆重举办，会议将邀请来自产业上下游内容商、设备商及高校科研代表，以及来自知名硅光企业代表、制造平台共同探讨硅光工艺技术、制造与封测等硅光领域的发展进...
+ ## [对话华为朱慧敏：国家5G医疗标准研究启动，华为愿与医疗行业同行](http://mp.weixin.qq.com/s?src=11&timestamp=1603935005&ver=2673&signature=fcBM2dHfXjUkznyW4AvhPR12IQu1T3lnGstcQAZStCwzINlAj8dsxL-rpOus1PvlR*NXKRtydii00Z3gDqKVsPXg1L14Ihk0Obj-Wim33OPeZ56qaxkLevipPZr9CPfd&new=1)
  > 近日，5GtoB领域发生一件里程碑式大事——国家卫健委正式启动5G医疗卫生行业标准研究。这标志着国家牵头打造5G医疗行业标准，将加速5G医疗应用的规模部署。笔者发现，该研究组织成员实力雄厚，分布广泛，包括了...
- ## [\[焦点\]AMD官宣收购赛灵思，国内半导体行业将受到何种影响?](http://mp.weixin.qq.com/s?src=11&timestamp=1603933205&ver=2673&signature=hEIZp*Pk2jgpDrGAh3R6spSEk-DVgLmWzibUNCyXfbh0F66PJP6lh2oSi9KGS3Y2uLju2rIpU8vMbeYA826yhO-ff7TGIcs1pgtO2ZK6LsHMf-bg8--zrftJFv6LyTu5&new=1)
+ ## [\[焦点\]AMD官宣收购赛灵思，国内半导体行业将受到何种影响?](http://mp.weixin.qq.com/s?src=11&timestamp=1603935005&ver=2673&signature=hEIZp*Pk2jgpDrGAh3R6spSEk-DVgLmWzibUNCyXfbh0F66PJP6lh2oSi9KGS3Y2o3s9q1wEa*g9xTTmhx3aj0TCHFUL1IFPLjC8liaLkaTFCYx*1bmhjwiPCrAdXdKI&new=1)
  > 10月27日晚间，芯片公司AMD在官网宣布已达成最终协议，同意以350亿美元的全股票交易收购赛灵思（Xilinx），合并后将标志着AMD成为业界高性能计算领导者和全球最大、最重要技术公司。10月27日晚间，芯片公司AMD在...
- ## [用手机赋能万物，华为HMS Core 成行业爆发增长动力](http://mp.weixin.qq.com/s?src=11&timestamp=1603933205&ver=2673&signature=M4MQCeHRDSr1bFwppoazCHnB-NG-uCyieVCFssVG2XGW5lPGTL27k6p9qtvDxyNWBRbUylaxyWaeg1M4OS1hLr*gH8hzwkHoptgBqydS2PrKce-IZuYUZlTJc0PwTWdr&new=1)
+ ## [用手机赋能万物，华为HMS Core 成行业爆发增长动力](http://mp.weixin.qq.com/s?src=11&timestamp=1603935005&ver=2673&signature=M4MQCeHRDSr1bFwppoazCHnB-NG-uCyieVCFssVG2XGW5lPGTL27k6p9qtvDxyNWISdwO7eaendV6gGVUynC8fiUGfDv-r8NOW8QyFFRa97angCFa3FHze-3bnzWLM5-&new=1)
  > 2020年，整个全球秩序都因为疫情迎来了一个巨大的变化，其背后大大加速推动了人类社会的数字化升级和转型。微软首席执行官Satya Nadella在今年三月表示，“在两个月内，我们见证了两年才能实现的数字转型”，而...
- ## [智强者志必达，新华三致力成为中国IT领域综合实力最强品牌](http://mp.weixin.qq.com/s?src=11&timestamp=1603933205&ver=2673&signature=J4IknYQIHz9zCBvBAwRqKhkrKPSq0lwGmwtlUYGjkq54rSfZHl6WG3D29H7ayKCoqVv5IrUEGb0S8j9vCU6Q7v-jSVP53zwMTMOM33*o7p4G5cGRClkfiYICwrkplYiD&new=1)
+ ## [智强者志必达，新华三致力成为中国IT领域综合实力最强品牌](http://mp.weixin.qq.com/s?src=11&timestamp=1603935005&ver=2673&signature=J4IknYQIHz9zCBvBAwRqKhkrKPSq0lwGmwtlUYGjkq54rSfZHl6WG3D29H7ayKCoo0*CMa2MJY23RdliHTPIl-xfcvRoZDyo0xzMUzZ2qJ7EWamAT6KWRWQ*uPPGyZdm&new=1)
  > 10月28日，紫光股份旗下新华三集团在北京举办“以志为先、以智为先、以质为先 新华三智慧计算战略暨新品发布会”，正式宣布以“内生智能，成就智慧计算”升级服务器技术战略，并推出全新一代H3C UniServer G5系...
 # IT 技术 
+ ## [明明加了索引，为什么查询还是慢？](http://database.51cto.com/art/202010/630157.htm)
+ > 明明加了索引，为什么查询还是慢？
  ## [七种需要避免的Vue.js常见错误](http://developer.51cto.com/art/202010/630108.htm)
  > 七种需要避免的Vue.js常见错误
  ## [机器学习是否使加密货币具有可追踪性？](http://ai.51cto.com/art/202010/630105.htm)
@@ -29,30 +33,28 @@ categories: IT NEWS
  > 七种常见存储网络协议的比较
  ## [2元能买上千张人脸照，AI黑产真相远不止于此！](http://ai.51cto.com/art/202010/629957.htm)
  > 2元能买上千张人脸照，AI黑产真相远不止于此！
- ## [基于海思Hi3861在CentOS中安装鸿蒙LiteOS编译环境](http://os.51cto.com/art/202010/630018.htm)
- > 基于海思Hi3861在CentOS中安装鸿蒙LiteOS编译环境
- ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
- > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
+ ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
+ > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
+ ## [6个计算机类“热门”专业，就业率高，待遇好！有你的专业吗？](http://news.51cto.com/art/202010/630152.htm)
+ > 计算机类专业是每年高考报考的热门专业，就业面广，就业率高，薪资待业也很不错。特别是男生对计算机专业很
+ ## [提高10倍开发效率的10个Chrome插件，你安装了几个？](http://developer.51cto.com/art/202010/630151.htm)
+ > 提高10倍开发效率的10个chrome插件都有哪些，今天我们一起来看一下。
+ ## [东汉末年，他们把「服务雪崩」玩到了极致](http://developer.51cto.com/art/202010/630138.htm)
+ > 本篇将会通过三国中的赤壁之战来讲述周瑜、黄盖和诸葛亮是怎么把服务雪崩玩到极致的。
+ ## [35岁互联网“打工人”生存调查：转行、创业、出国](http://news.51cto.com/art/202010/630153.htm)
+ > 根据 10 月 28 日泽平宏观发布的《中国城市人才吸引力报告》，2019 年求职人才最多的行业是 IT、通信、电子
  ## [布隆过滤器的原理以及使用场景](http://stor.51cto.com/art/202010/630137.htm)
  > 布隆过滤器主要是在redis中问的比较多，因此像这种数据结构类的，主要是考原理以及使用场景。下面一点一点
  ## [编程中花括号的简史](http://developer.51cto.com/art/202010/630136.htm)
  > 大括号，那个标志着代码块开始和结束的熟悉符号，什么时候成为编程的一部分?也许更重要的是，代码块何时成
  ## [【Java】变量声明在循环体内还是循环体外你用哪一个?](http://developer.51cto.com/art/202010/630135.htm)
  > 最近刷知乎的时候看到一个比较有意思的问题，变量声明在循环体内还是循环体外?这个问题有人认为应该定义循
+ ## [谷歌启动新战略对抗欧盟新规：建议美国“盟友”加大抵制力度](http://news.51cto.com/art/202010/630154.htm)
+ > 据外泄的 谷歌 内部文件显示，该公司已经启动一项为期60天的战略，目的是对抗欧盟推进严格的科技行业监管新
  ## [图解|为什么Python多线程无法利用多核](http://developer.51cto.com/art/202010/630134.htm)
  > Python是一门解释器语言，代码通过解释器执行，Python存在多种解释器，分别基于不同语言开发，每个解释器有
  ## [从创建进程到进入Main函数，发生了什么？](http://developer.51cto.com/art/202010/630133.htm)
  > 这篇文章主要讨论的是操作系统层面上对于进程、线程的创建初始化等行为，而像Python、Java等基于解释器、虚
- ## [Docker 卷到底是个啥玩意？从使用到深入！](http://cloud.51cto.com/art/202010/630132.htm)
- > 每个容器都会被自动分配本地存储。默认情况下，容器全部文件和目录都是用该存储的。非持久存储属于容器的一
- ## [终于有人把数据中台讲明白了](http://bigdata.51cto.com/art/202010/630128.htm)
- > 要建设数据中台，我们首先需要明确什么是数据中台，以及数据中台能为企业带来什么价值。
- ## [如果疫情再次大规模爆发，你和你的企业要做好这7件事](http://www.cioage.com/art/202010/630127.htm)
- > 迄今为止企业所汲取的经验教训有望帮助IT部门捱过今年冬天的第二波新冠疫情封锁。企业该向远程团队轻松转变
- ## [Python 中利用Pandas处理复杂的Excel数据](http://developer.51cto.com/art/202010/630126.htm)
- > 在本文中，我们介绍了在Pandas下通过参数轻松删除行和列以使其格式更加合理。
- ## [深度调查：推特被黑细节还原，安全缺陷令人震惊](http://netsecurity.51cto.com/art/202010/630125.htm)
- > 近期，纽约金融服务管理局发布了7月15日推特安全事件的调查报告，全面还原黑客攻击的细节与全过程。毫无复
  ## [Python爬虫入门教程 100-100 我用了800天，才成为爬虫领域的一个新人](https://blog.csdn.net/hihell/article/details/108770551)
  > Python爬虫入门教程 100-100 我用了800天，才成为爬虫领域的一个新人
  ## [爬虫入门经典(九) | 简单一文教你如何爬取扇贝单词](https://blog.csdn.net/qq_16146103/article/details/109270779)
@@ -84,35 +86,35 @@ categories: IT NEWS
  ## [《零基础看得懂的C语言入门教程 》——（七）C语言的循环分分钟上手](https://blog.csdn.net/A757291228/article/details/108899175)
  > 《零基础看得懂的C语言入门教程 》——（七）C语言的循环分分钟上手
 # 人工智能 
- ## [IoT产品的10个最佳实践](https://blog.csdn.net/wireless_com/article/details/109302057)
- > IoT产品的10个最佳实践
- ## [全方面的了解超宽带信号高速采集记录回放系统](https://blog.csdn.net/qq_38505833/article/details/85984836)
- > 全方面的了解超宽带信号高速采集记录回放系统
- ## [低功耗蓝牙搜索广播的实现流流程介绍 /BLE scan flow ----- 蓝牙低功耗协议栈](https://blog.csdn.net/XiaoXiaoPengBo/article/details/109275193)
- > 低功耗蓝牙搜索广播的实现流流程介绍 /BLE scan flow ----- 蓝牙低功耗协议栈
- ## [智慧疫情防控平台（图形化编程mind+）](https://blog.csdn.net/weixin_43271542/article/details/109310666)
- > 智慧疫情防控平台（图形化编程mind+）
- ## [《零基础看得懂的C语言入门教程 》——（八）了解基本数组还不是那么简单](https://blog.csdn.net/A757291228/article/details/108899179)
- > 《零基础看得懂的C语言入门教程 》——（八）了解基本数组还不是那么简单
- ## [Hi3516DV300开发板——2.uboot、kernel、fs文件系统烧写](https://blog.csdn.net/qq_30722795/article/details/109291349)
- > Hi3516DV300开发板——2.uboot、kernel、fs文件系统烧写
- ## [全方位了解超宽带信号高速采集记录回放系统](https://blog.csdn.net/qq_38506235/article/details/85986272)
- > 全方位了解超宽带信号高速采集记录回放系统
- ## [5G 的到来会不会让物联网获得飞跃性发展？](https://blog.csdn.net/iotopo/article/details/109283757)
- > 5G 的到来会不会让物联网获得飞跃性发展？
- ## [一文入门Promise，详细介绍Promise的用法](https://blog.csdn.net/weixin_48383564/article/details/109298629)
- > 一文入门Promise，详细介绍Promise的用法
- ## [Qt - 一文理解QThread多线程（万字剖析整理）](https://blog.csdn.net/weixin_40774605/article/details/109259653)
- > Qt - 一文理解QThread多线程（万字剖析整理）
- ## [\[小技巧\]使用静态库提高TouchGFX的编译速度](https://blog.csdn.net/sinat_31039061/article/details/109292396)
- > \[小技巧\]使用静态库提高TouchGFX的编译速度
- ## [Win知识 - 程序是怎样跑起来的——系统调用和高级编程语言的移植性](https://blog.csdn.net/Dream_Weave/article/details/85988669)
- > Win知识 - 程序是怎样跑起来的——系统调用和高级编程语言的移植性
- ## [5G千兆网关-工业通讯神器](https://blog.csdn.net/qq_44149040/article/details/109282836)
- > 5G千兆网关-工业通讯神器
- ## [热点资讯：中国电信与美的达成战略合作 5G时代共创辉煌!](https://blog.csdn.net/weixin_44255920/article/details/109294643)
- > 热点资讯：中国电信与美的达成战略合作 5G时代共创辉煌!
- ## [STM32CubeMX配置CAN总线通信学习记录(学不会找我)](https://blog.csdn.net/Haders_0610/article/details/109312713)
- > STM32CubeMX配置CAN总线通信学习记录(学不会找我)
+ ## [Java开发面试越来越难，很多Java程序员因为准备不足而面试被挂！这份神级《Java面试突击手册》让你面试成功率高达百分之95%！](https://blog.csdn.net/JavaBUGa/article/details/109290757)
+ > Java开发面试越来越难，很多Java程序员因为准备不足而面试被挂！这份神级《Java面试突击手册》让你面试成功率高达百分之95%！
+ ## [高一被清华姚班录取，一个重度网瘾少年到理论计算机科学家的蜕变](https://blog.csdn.net/zhangchen124/article/details/109287777)
+ > 高一被清华姚班录取，一个重度网瘾少年到理论计算机科学家的蜕变
+ ## [阿里巴巴专属著作，就是名字起得有点狂“成神之路”？？？](https://blog.csdn.net/Java0258/article/details/109311189)
+ > 阿里巴巴专属著作，就是名字起得有点狂“成神之路”？？？
+ ## [关于大多数人都不知道的SWITCH语句的用法（程序设计基础课外拓展）](https://blog.csdn.net/weixin_51224093/article/details/109299740)
+ > 关于大多数人都不知道的SWITCH语句的用法（程序设计基础课外拓展）
+ ## [天气预报发展简史：从玄学到科学](https://blog.csdn.net/Meteoforce/article/details/109320797)
+ > 天气预报发展简史：从玄学到科学
+ ## [超赞！华为工程师都爱不释手的两份图解网络，助你圆满大厂梦](https://blog.csdn.net/m0_50180963/article/details/109295064)
+ > 超赞！华为工程师都爱不释手的两份图解网络，助你圆满大厂梦
+ ## [计算机接口技术复习题（1-6章）](https://blog.csdn.net/qq_43475285/article/details/109299167)
+ > 计算机接口技术复习题（1-6章）
+ ## [西安电子科技大学电子工程学院卓越计划保研经验贴](https://blog.csdn.net/xdzhujy/article/details/109312116)
+ > 西安电子科技大学电子工程学院卓越计划保研经验贴
+ ## [2016 下半年网络工程师上午真题及解析](https://blog.csdn.net/hdq1745/article/details/109285839)
+ > 2016 下半年网络工程师上午真题及解析
+ ## [对SVM支持向量机（1）](https://blog.csdn.net/solo_bro/article/details/109301554)
+ > 对SVM支持向量机（1）
+ ## [中缀向后缀转换表达式](https://blog.csdn.net/zhj12399/article/details/109317675)
+ > 中缀向后缀转换表达式
+ ## [学计算机专业你后悔吗？为什么？](https://blog.csdn.net/wjg8209/article/details/109287288)
+ > 学计算机专业你后悔吗？为什么？
+ ## [DDR学习心得（一）](https://blog.csdn.net/weixin_45618498/article/details/109309631)
+ > DDR学习心得（一）
+ ## [HTML基础(一)](https://blog.csdn.net/Layfolk_XK/article/details/109288548)
+ > HTML基础(一)
+ ## [2020.10.19-10.26 人工智能行业每周技术精华文章汇总](https://blog.csdn.net/nan355655600/article/details/109292243)
+ > 2020.10.19-10.26 人工智能行业每周技术精华文章汇总
 
     
