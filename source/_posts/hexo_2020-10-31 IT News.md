@@ -1,31 +1,51 @@
 ---
 title: 2020-10-31 IT News
 copyright: true
-date: 2020-10-31 12:18:52
+date: 2020-10-31 17:02:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联泰科技：3D打印鞋业应用是怎样的?](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=gQ6wwH3DDvuGAeaU9I*b4ZD7v0NRk63PxnGnFEEHUQ*D6KAL8H-X*8mn6g58i9pgOeShdGmuRcsh6ZIRbWIOQe8T651V4voFz89o*F0giOEU*lvMzvlbpbTYqfCBzcCh&new=1)
- > 导读：南极熊从联泰科技获悉，最近一两年，鞋业领域购买光固化3D打印机越来越多，成为重要的增长引擎。那么，这些鞋厂或者鞋业品牌商，是怎么样应用3D打印的呢？本次直播将给你很好的答案。主题：3D打印在鞋业的...
- ## [光通信企业发力助推新基建发展](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=MYMAcwJ3LW4o1qIz6nsPRky3JgS18xK01p9O6wyJHOjvs845-o6baN-pR6NC1Nw00thqnWsC0P7GHx9vvYuBkiGd7MWIh61ywKDcpIPLyCxBOo5PrsZw7HhzLP0Sn0Tg&new=1)
- > ICC讯 2020上半年，国内的5G基站迎来了建设热潮，湖北是全球光通信芯片产业的主要集聚区之一，上半年湖北的光通信产业在疫情冲击的考验下，迎来了市场的“高光时刻”，实现了逆势增长。作为武汉本地发展起来的专...
- ## [涉足芯片制造，触及核心架构，详解小米120亿“芯投资”版图](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=B*oLEEC7EHbrE*WQ*nxy2iSl25rooraJpQCBbBAvOhFWHy1aNrJStNJSMiFGQ-tcOwNFY8xNyIi35IHrCdtmZeT6WByDzDOpuq-MEdANoYFVnb0l6mxj*9rDE0Zpf8pt&new=1)
+ ## [印度，封杀还是自杀?](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=hNj-1Kj8MtFuANY4E8yZZUf*ZNcAulSsXqHKuaE7KtFzyz0s1H2kFyg5HZNyMDsY6zUAJ2OPiaZAc4Kd238GnWFKy7VUxgo0XGhZxsjD4tAzCduRsbvjexdCfy9ue6QH&new=1)
+ > 受新冠肺炎疫情影响，印度应用软件市场正面临着全面萎缩。 来源丨瞭望智库（zhczyj）文丨丁贵梓 瞭望智库观察员根据IT调研与咨询服务公司高德纳（Gartner）最新数据，受新冠肺炎疫情影响，2020年印度企业应用软...
+ ## [别把华为逼急了](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=ad45rmTNHNs5FQBwV0CMweZkYPotIBAWc5Z6DAZHCWHWkdPXoWIJNDq5FxIZJzTfr0nyLP3TvP9myZOjSrR17uy4loAmF6Y0r0ouuubP93N*SbQBMiU**3b2qbQalEPe&new=1)
+ > 文 | 李一帆昨天，我第一次以汽车媒体身份参加了场非汽车品牌发布会——2020华为年度旗舰新品发布盛典。 对比新车发布会“签到、集合、暖场”的种种常见路数，华为发布会前期的各种节奏不紧不慢，流程更不死板，...
+ ## [首款财务中台亮相，华科诚信剑指中台细分场景](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=TNJU3aNElypmoNEasdhV8NcDe7Y4l4rYGUJthzHJ83r8g4Etk6KRIHC83yP-Rc1MnlxgYfMKhZ9d48S9K7lnOIJbGgFYXoR0K-3SklSF5I6f1iwx9JX*en*vhkAY-55C&new=1)
+ > 图片来源：豆瓣中台战略起于阿里，兴于云栖。在一番互联网公司背书、资本追捧的喧嚣中，中台因其过于“玄妙”而遭到质疑，当一系列不太成功的中台案例被搬到媒体平台上讨论的时候，中台似乎被打入了冷宫。现在还...
+ ## [在一起就可以：华为的最强心声更是开启新时代的宣言](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=6kuu7Fur2Dfp*vzi3fgK6PU-FwYuwOEw*d0I9UTC-rThMAgIvJqPO4YRIaxVMlIkQzJpvOr8hK4MEI9EMSCTBYAUlG7-SKl5Zg6Ekn5Vl6Fv4FSXPnze4j1Zm78LFlZ9&new=1)
+ > 果农站在洪水刚退的果园眉头紧锁、空无一人的毕业会场里校长仍在演讲、出问题的代码让程序员头疼……如此真实的困境，可能是我们每一个人都会遇到的，该如何解决？ 这是10月30日华为Mate40系列国内发布会尾声环...
+ ## [5G商用一周年|“跑”出加速度，“亮”出成绩单!为ICT行业点赞](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=6MkfntnVoSlVCL2y*y375G-DNxw4OpVupJswlk45QhgHAojpYeoxFES*3HybzBXymZp1QTiejRQRwHDon2kIMDZxDz6qPKouCAM6npkhKnFWrmtLff7VegcT-XMpbB1l&new=1)
+ > 2020年10月31日是5G商用一周年纪念日。早在去年的今天，以三大运营商推出5G套餐作为5G商用启动的节点，ICT行业用一年的时间，交出了一份十分亮眼的答卷，目前5G基站达69万座、终端连接数达1.6亿……这些数字背后...
+ ## [芯片难破局，中科曙光转战云端](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=9BMOaDrDWPT-pQZKolaDF9kAsZtjI8RZ9F-1FNFflbXD7GPV84pofv-c-joMShUzXTFeSWYu5LUN7vHvJ6c7bnOWNPBdw1qP*BWzFK5C16FY7jIkPIotcXs4WEJKlg1f&new=1)
+ > 云业务的增长潜力得到释放，能够为曙光带来怎样的前景和空间？全文3545字，阅读约需7分钟文丨黄兆琦编辑丨王方玉本文核心观点1、国内服务器行业公司同时面临上游芯片“卡脖子”和下游互联网巨头垄断，因此议价能...
+ ## [华为正式发布汽车方案独立品牌“HI”](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=SugnB4rMaGGaaB6SoW9SPEFfJ1Tp5mKmeqxhgLppYsmPf4clrX6tyKm7eCsTh-hq-ZtpbYrTnZR3xRediN2aaNQkiweATGdxQSEw5SPb-VlIWRBFNuovT6ifcX-4bB2K&new=1)
+ > 关键行业资讯，第一时间送达！投稿 或 爆料 请发邮箱：fcfeelingcar.com————————10月30日，在上海东方体育馆，华为正式宣布推出华为智能汽车解决方案独立品牌：HI。华为发布智能汽车解决方案新品牌“HI...
+ ## [涉足芯片制造，触及核心架构，详解小米120亿“芯投资”版图](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=B*oLEEC7EHbrE*WQ*nxy2iSl25rooraJpQCBbBAvOhG0R2UIi6w5F1*FnFjlW-xMWQ64B5bgPyxqKtPn7qaVQWNXA3NoHVPHMM2ODnhi0AHxeAyepDt5LgDGwVz049Va&new=1)
  > 今年是小米成立的十周年，十年一个槛。小米没有将最初的互联网故事继续讲下去，从芯片投资版图可以看见，小米已经转变了航向，做芯片，碰制造，干起了“苦活累活”。雷军应该看清楚了，仅靠互联网营销无法让小米...
- ## [\[科技早报7点整\]浙大成全球首个纯机器人送货高校 库克称赞中国5G先进……](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=aTdryWQe*fdCeVetzfWRGAQbdkmJI2NRc2cdeACdfOZvC6XEIg6WL0JGpbEi9LUGorMgMLA1T7Z7kX9lIXviTmgwk0AVt-Ws-m3EEJILQQJ2p8dheiP4Wm9CPiqunnqo&new=1)
+ ## [Materialize 2020年第三季度财务收入下降了近20%](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=Zq3V12*rKY6TgaRkLfP5YLRJAKt4uXAfAWCR3JiYL9Lam5kJgIRb5VgJbpQgvxEFcDYmZgwBsB8-c-SzA1b23aME3KlyUQQJbjO5wGEIxFleuW-WkCluzUur4KcMsDt6&new=1)
+ > 比利时软件和3D打印服务提供商Materialize报告称，其2020年第三季度的财务收入下降了近20％。Materialise的收入从2019年第三季度的5040万欧元下降到2020年第三季度的4070万欧元，下降了19.2％。在2020
+ ## [中国5G一岁了!“魔都+电信”联手破解5G三道“数学题”](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=*IKhHWpMBpd9rw8wMj8Y1HDqXvQv5BUWMWOacZCnymvi49TcgMY--wTS4WTMzp4bKB7e81Ej0oqTzI8VY7gG*aQ7-fKlTa20l4qxAfn39dk0M6OfBhuRahlWmGj6CknV&new=1)
+ > 图源：IT时报30秒快读15G无处不在：从公话亭到龙门架25G共建共享：从“电信”到“电联”35G落地开花：从“无人机体检”到“无人宝钢”5G商用一周年，上海交出了一份相当不错的成绩单，“5G建设规模处于全国第一...
+ ## [迎接智能化时代：新华三携手西部数据共同推动数字经济进程](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=jNMMkiO9o3evfHuwPL3hur3Dz1NDubDSFwyWrYaGLmf0KULwqdqlu8j53om8m1ymUsijnDnADleo3EuDlGJkQc8MorG34rUFNqUsPBZ8PvkiDfg7zlktp3ILxVQgq57P&new=1)
+ > 关键讯息，D1时间送达！10月28日新华三发布了“以志为先、以智为先、以质为先”新华三智慧计算战略及全新一代H3C UniServer G5系列服务器产品。西部数据在新华三发布会现场设置的展台上重点展示了Ultrastar系列H...
+ ## [瞭望五中全会|“把科技自立自强作为国家发展的战略支撑”，怎么做?](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=jYgU5JYhnB6ZGjvU4DngvaefLmAZf03JKAUrM0eCxYbWgBtI99qX0VdzcaFYOZpjvN4WUtBongnPmZzkYvDzIJTlbuLvSG1oiSecIPqqg7Fw1C77lNpjkDtTFJXXGcJV&new=1)
+ > ◆ 我国的科技创新仍是一种追赶模式，很多创新活动以跟踪模仿为主，无法引领新科技革命和产业变革◆ 未来我们要把科技自立自强作为国家发展的战略支撑，才能有效保障国家科技安全、把握科技革命与产业变革机遇、...
+ ## [联泰科技：3D打印鞋业应用是怎样的?](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=gQ6wwH3DDvuGAeaU9I*b4ZD7v0NRk63PxnGnFEEHUQ8vQN5c*alZQiGnpNlXT6B8op12xOrlLovxXDZv-PO2CvMGJxg2tcSD4GtcCvVzsJIqyTLrhC-Q8Tn5e1LQ*BQi&new=1)
+ > 导读：南极熊从联泰科技获悉，最近一两年，鞋业领域购买光固化3D打印机越来越多，成为重要的增长引擎。那么，这些鞋厂或者鞋业品牌商，是怎么样应用3D打印的呢？本次直播将给你很好的答案。主题：3D打印在鞋业的...
+ ## [光通信企业发力助推新基建发展](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=MYMAcwJ3LW4o1qIz6nsPRky3JgS18xK01p9O6wyJHOiRfn5gqqlKwbF5*cBVEIcznOwp5Qa1uRcKfRo3dfNfZMI7kMjMDxaFJmnRhdbLfivkS3wNNVyIrIiN6xO-jPTl&new=1)
+ > ICC讯 2020上半年，国内的5G基站迎来了建设热潮，湖北是全球光通信芯片产业的主要集聚区之一，上半年湖北的光通信产业在疫情冲击的考验下，迎来了市场的“高光时刻”，实现了逆势增长。作为武汉本地发展起来的专...
+ ## [\[科技早报7点整\]浙大成全球首个纯机器人送货高校 库克称赞中国5G先进……](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=aTdryWQe*fdCeVetzfWRGAQbdkmJI2NRc2cdeACdfOZZmciOz8FNWEGOWHkCIRN-s0nT0LqiBfo0WSsA2XMSU*CkwPvvAzJUuCU9746Rp8G1gGsAYS2i*hw5eYFtXy72&new=1)
  > 早上好，科技圈【一度蜜科技早报】第962期1.浙大成全球首个纯机器人送货高校10月30日，22个物流机器人进驻浙江大学，承包驿站所有送货上门需求。浙大历年快递量在全国高校靠前，这些机器人将兵分16路，送往27栋...
- ## [Windows 10优化WSL安装设置](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=Va7thvr1iHTX7A*jtLFWM-Rtf4OYioIOMtnugXyJZnXJJNgb5l9eAczFHbSlfnLSH0i9rFA34rNX6IZNjO*hohCv9KZlHz7sym3LPkxaFyidTkkg1PDXrIaFJPyj7J3i&new=1)
+ ## [Windows 10优化WSL安装设置](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=Va7thvr1iHTX7A*jtLFWM-Rtf4OYioIOMtnugXyJZnXF5rjFnhupcq9i0Dz6J4YNUGYBEJbF3*2sBahheYifkUtQm7WOU6m6Zn12qbwiBZJvf6gzqHGueg8p*ZiJpuyM&new=1)
  > 此前在Windows 10系统中，开启WSL（Windows Subsystem for Linux）功能的用户可通过“wsl --install”命令安装Ubuntu系统，进而省去一些操作步骤。微软对此操作进行了优化，最新的预览版更新Wi
- ## [英雄联盟S10总决赛SN与DWG今日上海巅峰对决；苹果首次被小米超越智能手机市场份额上排名第四|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=xZDLO6zR*-f4PAHoyJ3N9KlGDNYF5Cqq3rmFlucxRBgIREIhf5R0kWa0Z300qoE81gWzwL5tD40CtA5o0rEj3IcrLZptiYUzSMCzcE4tfiw2KciI*5B1YTQLnV8nB6GZ&new=1)
+ ## [英雄联盟S10总决赛SN与DWG今日上海巅峰对决；苹果首次被小米超越智能手机市场份额上排名第四|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=xZDLO6zR*-f4PAHoyJ3N9KlGDNYF5Cqq3rmFlucxRBiIzIWDmUX3pVYWdWzr9yOTZCEyoDyisvzcnMhJwLQ8SBdms6qPD91YknzGmTAZrlHRmv2N5hCgXLPHNieQzKtR&new=1)
  > 图 / IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【英雄联盟S10总决赛SN与DWG今日上海巅峰对决】万众瞩目的英雄联盟S10全球总决赛将于10月31日在上海浦东足球场，由LCK赛区的一号种...
- ## [重磅!国资委批复同意中国电信控股……](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=bCjnIN9tWtWKGOStotOMbz34nLWs1BiaES711Z5fVLPoplHBWQyssmdHVrp4U9O1bAN7mQcXydh3MRCipbK2OlgkYEbRIr6kI1k8cX55eFtZk7*oy*z9y5q8A1bTdNfw&new=1)
+ ## [重磅!国资委批复同意中国电信控股……](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=bCjnIN9tWtWKGOStotOMbz34nLWs1BiaES711Z5fVLOg59HkKqjXQEG4ShNIAFVnIQ*nL*SRavfLQyQw6QzMxtRV*zUglqL57WQRgiDBjJYiCikGYp34m5IW-4quwGWr&new=1)
  > 近日，国资委批复同意中国电信17.68亿元受让清华大学持有的辰安科技18.68%股份，中国电信成为辰安科技的控股股东。中国电信入主辰安科技，推动与清华大学的产学研深度融合，是全面落实国家技术创新体系、快速接...
- ## [别人的终点华为的起点!用普惠AI守护城市安全](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=crYd4CwH3Qnt*Q81vNOnnHjU7ujJ7G5FLYEqNwmGBkFXamDg5RtLiGrzsKVhNmdeOSiAWxJL9IAFdthHxBnedaV1VdUg4*NLW15k0DN4v9Bb7Xd8GslLWcIJYYa70AbX&new=1)
+ ## [别人的终点华为的起点!用普惠AI守护城市安全](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=crYd4CwH3Qnt*Q81vNOnnHjU7ujJ7G5FLYEqNwmGBkFhwXbOJGdwm*iY5Cj6sLmRbFgkaZmykjIq67hfXBt1I-NgYmM-Oxn69-Z3VzItuGTeCrFhcEpnmJmG-WJGH9W8&new=1)
  > 看点：华为好望的求索启示录！如何让老百姓用上实惠的AI？你也许不知道，高空抛物已是城市生活中的一大难以治理的安全隐患。一个小小的烟头、水果从高处扔下来，就可能引起严重火灾、人员伤亡、财物破坏，事发后...
- ## [突发!孟晚舟可申请终止引渡程序，庭审取得阶段性胜利……华为供货也传来好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=Vw8pYN8VDy5aLwUgm0teA-lI-ede9wGmh5CsRW-9JpRUguYOO7XPuMb0jWNrw6wr*uXpnIhLMvoRzzC6XTRRcZlW7lNAA8PJ0Hy8UesUA7ljuFh9fJsc8noYQRRMDyrB&new=1)
+ ## [突发!孟晚舟可申请终止引渡程序，庭审取得阶段性胜利……华为供货也传来好消息](http://mp.weixin.qq.com/s?src=11&timestamp=1604134805&ver=2677&signature=Vw8pYN8VDy5aLwUgm0teA-lI-ede9wGmh5CsRW-9JpTaXhPFsGFfxMxwzC2wMK2yv4y8WGWqvqDDm36jUi-Y2A4dI*UnZogpvGYBI7xRlNBeqKXmzkLPj2T6LetQwvK8&new=1)
  > 美国针对华为的芯片销售禁令似乎有了转机。据南方+援引英国媒体报道，美国政府正允许越来越多的芯片公司向华为供应零部件，只要芯片公司能证明其所售零部件不能用于华为的5G业务。来源：券商中国（作者：庚寅）...
- ## [藏不住了!我和华为Mate40一起攒了个高科技](http://mp.weixin.qq.com/s?src=11&timestamp=1604116804&ver=2677&signature=6-Nyl3-aAFRUQ2Wx4Gi0KeWdRJgtmMslo*rIFWdXugK9IpRsD7nnXyF2WUfaj8-swrYfUvUKnpHnedLDR1SiHfEdA3DRtbbaP5haK7kosmjgmILDijuyBuSg8xf651ir&new=1)
- > 10月30日，华为举行新一代旗舰新品HUAWEIMate40系列手机发布盛典，并在智能手机的导航应用中提供高精度定位能力。高德地图应用基于自身高精地图数据以及华为LocationKit的定位能力，将此前主要应用于自动驾驶车...
 # IT 技术 
  ## [基于鸿蒙系统 + Hi3861的WiFi小车，可以通过电脑、手机控制](http://developer.51cto.com/art/202010/630396.htm)
  > 基于鸿蒙系统 + Hi3861的WiFi小车，可以通过电脑、手机控制
@@ -41,8 +61,8 @@ categories: IT NEWS
  > 阿斯利康利用基于PyTorch的算法发现新药物
  ## [探究 | 谁再说Redis慢，我跟谁急！](http://stor.51cto.com/art/202010/630298.htm)
  > 探究 | 谁再说Redis慢，我跟谁急！
- ## [ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09](http://fellow.51cto.com/art/202007/622206.htm?qd=51ctojrzd)
- > ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09
+ ## [Power Query操作入门及应用视频课程](http://fellow.51cto.com/art/202007/622208.htm?qd=51ctojrzd)
+ > Power Query操作入门及应用视频课程
  ## [Windows 10将效法macOS提供全新的“查找鼠标指针”：晃晃鼠标就行](http://os.51cto.com/art/202010/630419.htm)
  > 在macOS中，你可以将鼠标指针放大，摇动鼠标时可以轻松找到它。Windows 10中提供了一种快速查找鼠标指针的
  ## [使用curl从命令行访问互联网](http://os.51cto.com/art/202010/630416.htm)
@@ -78,35 +98,35 @@ categories: IT NEWS
  ## [《零基础看得懂的C语言入门教程 》——（七）C语言的循环分分钟上手](https://blog.csdn.net/A757291228/article/details/108899175)
  > 《零基础看得懂的C语言入门教程 》——（七）C语言的循环分分钟上手
 # 人工智能 
- ## [python百行有效代码实现汉诺塔小游戏(简约版)](https://blog.csdn.net/weixin_44864260/article/details/109368557)
- > python百行有效代码实现汉诺塔小游戏(简约版)
- ## [我曾经遇见过一个我最想照顾一生的女孩，后来……没有后来](https://blog.csdn.net/qq_44833724/article/details/109302764)
- > 我曾经遇见过一个我最想照顾一生的女孩，后来……没有后来
- ## [有人喜欢有人嫉妒，竟然因为这上了互联网热搜](https://blog.csdn.net/qing_gee/article/details/109351574)
- > 有人喜欢有人嫉妒，竟然因为这上了互联网热搜
- ## [Java基础练习项目——英雄小游戏](https://blog.csdn.net/cqmfx/article/details/109333637)
- > Java基础练习项目——英雄小游戏
- ## [关于10.28培训的数字大爆炸以及其优化](https://blog.csdn.net/m0_51981443/article/details/109349440)
- > 关于10.28培训的数字大爆炸以及其优化
- ## [狼人杀背后的秘密，实时语音你不知道的那些事](https://blog.csdn.net/anyRTC/article/details/109353272)
- > 狼人杀背后的秘密，实时语音你不知道的那些事
- ## [Unity LWRP轻量渲染管线 Shader Graph入门使用 秒懂 经典！！！](https://blog.csdn.net/zhunju0089/article/details/109358817)
- > Unity LWRP轻量渲染管线 Shader Graph入门使用 秒懂 经典！！！
- ## [一篇博客入门Unity Shader](https://blog.csdn.net/qq_39097425/article/details/109358028)
- > 一篇博客入门Unity Shader
- ## [用 JavaScript 实现一个 TicTacToe 游戏 —— 编程训练](https://blog.csdn.net/TriDiamond6/article/details/109377854)
- > 用 JavaScript 实现一个 TicTacToe 游戏 —— 编程训练
- ## [LeetCode 135 分发糖果（Candy）](https://blog.csdn.net/qq_39371286/article/details/109368554)
- > LeetCode 135 分发糖果（Candy）
- ## [ESP 系列 & ESP-IDF 视频教学](https://blog.csdn.net/zztiger123/article/details/109029151)
- > ESP 系列 &amp; ESP-IDF 视频教学
- ## [Python猜拳小游戏(以文本文件形式利用与保存登录信息)](https://blog.csdn.net/weixin_51322568/article/details/109367313)
- > Python猜拳小游戏(以文本文件形式利用与保存登录信息)
- ## [DFS 深度优化搜索](https://blog.csdn.net/qq_46029533/article/details/109378863)
- > DFS 深度优化搜索
- ## [2020.10.28日培训练习一](https://blog.csdn.net/weixin_50335890/article/details/109357810)
- > 2020.10.28日培训练习一
- ## [Codeforces Round 678 (Div. 2) A,B,C,D,E](https://blog.csdn.net/weixin_44491423/article/details/109388667)
- > Codeforces Round 678 (Div. 2) A,B,C,D,E
+ ## [这份MySQL全面手册，受喜爱程度不输任何大厂笔记！](https://blog.csdn.net/weixin_45784983/article/details/109361317)
+ > 这份MySQL全面手册，受喜爱程度不输任何大厂笔记！
+ ## [MySQL数据库：超强优化，强悍与实用并齐的性能调优！](https://blog.csdn.net/SpringBoot_/article/details/109393351)
+ > MySQL数据库：超强优化，强悍与实用并齐的性能调优！
+ ## [SQL语句概述-DDL-数据类型](https://blog.csdn.net/qq_37924905/article/details/109370851)
+ > SQL语句概述-DDL-数据类型
+ ## [叼！阿里Mysql三位封神专家总结800页性能优化的千金良方](https://blog.csdn.net/x275920/article/details/109384095)
+ > 叼！阿里Mysql三位封神专家总结800页性能优化的千金良方
+ ## [华为18级大牛手撸七百多页MySQL数据库性能调优、架构设计手册！](https://blog.csdn.net/a159357445566/article/details/109391908)
+ > 华为18级大牛手撸七百多页MySQL数据库性能调优、架构设计手册！
+ ## [数据库事务的四大特性，四种隔离级别，如何避免脏读、不可重复读、幻读（如何加锁）？](https://blog.csdn.net/lavender_dream/article/details/109339198)
+ > 数据库事务的四大特性，四种隔离级别，如何避免脏读、不可重复读、幻读（如何加锁）？
+ ## [Mysql数据库 建库建表增删改查](https://blog.csdn.net/Q274948451/article/details/109350896)
+ > Mysql数据库 建库建表增删改查
+ ## [Mysql获取最新记录](https://blog.csdn.net/zhangxing52077/article/details/109381759)
+ > Mysql获取最新记录
+ ## [ORCALE 删除用户 提示无法删除当前连接的用户 PLSQL](https://blog.csdn.net/weixin_45884459/article/details/109380252)
+ > ORCALE 删除用户 提示无法删除当前连接的用户 PLSQL
+ ## [真正理解exists 和not exists](https://blog.csdn.net/wankao/article/details/109366320)
+ > 真正理解exists 和not exists
+ ## [SQL server，Oracle循环插入百万数据](https://blog.csdn.net/weixin_43840809/article/details/109352911)
+ > SQL server，Oracle循环插入百万数据
+ ## [七人表决器VHDL语言](https://blog.csdn.net/qq_45229168/article/details/109363111)
+ > 七人表决器VHDL语言
+ ## [_事物概述、演示、回滚，事物的两种提交方式（自动，手动）](https://blog.csdn.net/weixin_44664432/article/details/109355544)
+ > _事物概述、演示、回滚，事物的两种提交方式（自动，手动）
+ ## [网络设备自动巡检工具（四）——Timer控件的灵活使用【2020-10-29】](https://blog.csdn.net/lcg0209/article/details/109375983)
+ > 网络设备自动巡检工具（四）——Timer控件的灵活使用【2020-10-29】
+ ## [《Oracle 入门教程》第 03 篇 Oracle 数据库安装](https://blog.csdn.net/horses/article/details/109372713)
+ > 《Oracle 入门教程》第 03 篇 Oracle 数据库安装
 
     
