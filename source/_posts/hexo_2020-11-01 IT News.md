@@ -1,21 +1,23 @@
 ---
 title: 2020-11-01 IT News
 copyright: true
-date: 2020-11-01 09:01:52
+date: 2020-11-01 10:02:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Windows 10即将启用新驱动更新策略](http://mp.weixin.qq.com/s?src=11&timestamp=1604192405&ver=2679&signature=KSmlzgwPPhptoNoAS7nungwPYGWAi5hcLrgpgo6D7ZJzO7CbhVGuTG0ryJ9mvPLSn9P907JLQRO3979aI8vGGPBU-11EwSeDea3k0qnFhEnV42Hfx9HWqqTLGzL6YHu1&new=1)
- > 在即将到来的11月“星期二补丁”中，微软或将调整Windows 10系统中驱动程序的手动/自动方式，更新方式更加趋于保守。在此前微软允许硬件开发商以自动和手动两种方式提供驱动程序，是否通过Windows Update完全取...
- ## [\[杂谈\]通信设备领域，如何拉长长板 补齐短板](http://mp.weixin.qq.com/s?src=11&timestamp=1604192405&ver=2679&signature=dHFV3wVicXAat3vFMBLJDxWkCIqAeexSX3kWOw-ByMMXwAGSbbO2kFEfMbWqf8F0-ecPV8janDk6Ompje5rq6axRqdOXqqfSAtX14Qjl4*LMF8D9TEpvtGhAT9Wxrc85&new=1)
+ ## [\[杂谈\]通信设备领域，如何拉长长板 补齐短板](http://mp.weixin.qq.com/s?src=11&timestamp=1604196005&ver=2679&signature=dHFV3wVicXAat3vFMBLJDxWkCIqAeexSX3kWOw-ByMMXwAGSbbO2kFEfMbWqf8F0wiTPIQE-5Fu9ezEuaArSY2FO4InOcsohua*wmt1pxM0AKYzYor9jU7qfm16rP8Qc&new=1)
  > 本文来自C114旗下通信人家园论坛新闻背景就不说了，相信大家都知道这个说法的分量和意义。笔者想与大家交流的有两点，第一，通信设备领域为何能够出现在文章中；第二，通信设备领域应该如何去拉长长板、补齐短板...
- ## [震惊：断网行动开始!神卡末日恐将到来](http://mp.weixin.qq.com/s?src=11&timestamp=1604192405&ver=2679&signature=fHipsGL-46I9SF1AUFOKeDllSB*14samQd5yQfK7dk2AEIA2qWUv3wSk7B0MVxYUzHwUunvXwHobkJoq2kojs-wXeVxNmQ4kjF32uhV2cO1QZaGYP-Mgp*-VnOxaZDJ3&new=1)
- > 据可靠消息，去年沸沸扬扬的联通贵8套餐纷纷于昨日收到短信，要求用户在11月15日前去当地指定营业厅补录身份证及学生证（见图一）并同时补签入网补充协议见图二图一图二遭遇套餐用户大面积投诉 贵州联通今日回访...
- ## [搜索引擎的后浪有多猛?](http://mp.weixin.qq.com/s?src=11&timestamp=1604192405&ver=2679&signature=w0CtKNzd3GW*M95Co6Ewzy6ACObWEpqP3kBoUWhRIqCi4Z25RFD2cjGAfW-KBr4rgJzsUfJRR6O6jAJAn7izALoJJFWu0iEueHG59cuuFVow2C*0o-UWC55lXbB70SVG&new=1)
- > 这个时代变化有多快？从第一台计算机诞生到互联网发明，不过44年；从第一部手机到智能手机的出现，不过20年；搜索引擎发明到现在也只有29年。面对这样的节奏，人们在适应变化的同时也在引领变化的发生，就像索尼...
- ## [一群黑进美国核弹实验室的高中生，改变了计算机安全的世界](http://mp.weixin.qq.com/s?src=11&timestamp=1604192405&ver=2679&signature=Y9oBTDPB*t*sw6SHkMTzKj87J3Q0aDBnJrcFuQlCP8J0yUX-6PDcReat*ZTlsMh7cNsQFqui7KJRhMugGA*PQjCaSsBCVHZfvVlFqZNbLMiPW0RCZjMPO7hAiAdoOleN&new=1)
+ ## [Windows 10即将启用新驱动更新策略](http://mp.weixin.qq.com/s?src=11&timestamp=1604196005&ver=2679&signature=KSmlzgwPPhptoNoAS7nungwPYGWAi5hcLrgpgo6D7ZJzO7CbhVGuTG0ryJ9mvPLSzndLwfBTDgks3jEUav1fE1cYqk2zuzWmZijtjNHgiM0Ffrw9jtpd4wmUrwmYewg9&new=1)
+ > 在即将到来的11月“星期二补丁”中，微软或将调整Windows 10系统中驱动程序的手动/自动方式，更新方式更加趋于保守。在此前微软允许硬件开发商以自动和手动两种方式提供驱动程序，是否通过Windows Update完全取...
+ ## [世卫组织：全球累计新冠确诊病例达45428731例](http://mp.weixin.qq.com/s?src=11&timestamp=1604196005&ver=2679&signature=MkvxrgfWvUYh4x*-mXJDy7F61i7k*OVNbynFJnpvdj5Rri2abUmVHjOPsb7CeBybalw2UTFnYQKnNroVHJVE5Db1nu3Nr7K1jfs*zqSTrzI=&new=1)
+ > 新华社日内瓦10月31日电 世界卫生组织10月31日公布的最新数据显示，全球累计新冠确诊病例达45428731例。　　世卫组织网站最新数据显示，截至欧洲中部时间31日14时06分（北京时间21时06分），全球确诊病例较...
+ ## [一群黑进美国核弹实验室的高中生，改变了计算机安全的世界](http://mp.weixin.qq.com/s?src=11&timestamp=1604196005&ver=2679&signature=Y9oBTDPB*t*sw6SHkMTzKj87J3Q0aDBnJrcFuQlCP8J0yUX-6PDcReat*ZTlsMh7RGYpqJfi*ZVeHbKJGtQG3jsESgWPFh1lKhji1W9ih5j3f07Mh8tKMNZbxizYGm39&new=1)
  > 三十多年前黑进美国国家实验室的少年黑客Neal Patrick。图片来源：Patrick Family以研发核武器而闻名的国家实验室，被一群青少年黑客黑了进来：这个看似好莱坞的情节，确确实实发生在三十多年前的美国。撰文 | A...
+ ## [搜索引擎的后浪有多猛?](http://mp.weixin.qq.com/s?src=11&timestamp=1604196005&ver=2679&signature=w0CtKNzd3GW*M95Co6Ewzy6ACObWEpqP3kBoUWhRIqCi4Z25RFD2cjGAfW-KBr4rNUgK40MDBI7VJN68viOsg*Au8v5qsAwk6cR668gXDKh6OZYIe80bevOKvOOnm53J&new=1)
+ > 这个时代变化有多快？从第一台计算机诞生到互联网发明，不过44年；从第一部手机到智能手机的出现，不过20年；搜索引擎发明到现在也只有29年。面对这样的节奏，人们在适应变化的同时也在引领变化的发生，就像索尼...
+ ## [震惊：断网行动开始!神卡末日恐将到来](http://mp.weixin.qq.com/s?src=11&timestamp=1604196005&ver=2679&signature=fHipsGL-46I9SF1AUFOKeDllSB*14samQd5yQfK7dk2AEIA2qWUv3wSk7B0MVxYUafNKVLDCDiZM0rXAJ4IC6tuFv22Q7aEYrOfTITnVc-t7mJ-dvCAHHoZtA0niX72F&new=1)
+ > 据可靠消息，去年沸沸扬扬的联通贵8套餐纷纷于昨日收到短信，要求用户在11月15日前去当地指定营业厅补录身份证及学生证（见图一）并同时补签入网补充协议见图二图一图二遭遇套餐用户大面积投诉 贵州联通今日回访...
 # IT 技术 
  ## [没那么简单的分库分表：高并发下数据库架构设计的那些坑！](http://database.51cto.com/art/202010/630307.htm)
  > 没那么简单的分库分表：高并发下数据库架构设计的那些坑！
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 阿斯利康利用基于PyTorch的算法发现新药物
  ## [探究 | 谁再说Redis慢，我跟谁急！](http://stor.51cto.com/art/202010/630298.htm)
  > 探究 | 谁再说Redis慢，我跟谁急！
- ## [2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】](http://fellow.51cto.com/art/202007/622446.htm?qd=51ctojrzd)
- > 2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】
+ ## [Word实用技能培训（第1、2章）](http://fellow.51cto.com/art/202007/622448.htm?qd=51ctojrzd)
+ > Word实用技能培训（第1、2章）
  ## [工作场所中的物联网资产跟踪](http://iot.51cto.com/art/202011/630442.htm)
  > 在资产跟踪中，物联网传感器被放置在或嵌入货物和货柜中，以及放置在货物所处设施的各个点上，以跟踪它们的
  ## [用 JavaScript 实现一个 TicTacToe 游戏 —— 编程训练](https://blog.csdn.net/TriDiamond6/article/details/109377854)
