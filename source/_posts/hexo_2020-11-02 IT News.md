@@ -1,19 +1,19 @@
 ---
 title: 2020-11-02 IT News
 copyright: true
-date: 2020-11-02 08:00:57
+date: 2020-11-02 09:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为朱平：“大干100天”以胡杨精神打造最强中国智慧体验](http://mp.weixin.qq.com/s?src=11&timestamp=1604273405&ver=2681&signature=gNmSNgITn0UyigmQ9QeOTB9FVE0Sb4j7uJJjZxrDyOlhOGyBmMqVe1-aDSbiavGq7OefSyMm4NqL3Az0Bh4l33KzwbmmhNIr0U1H9Nx*tK-*4hmfyUYciuGOdQ4ynDQ4&new=1)
- > 华为Mate 40系列发布会被称为“史上最燃”，除了Mate力最强的旗舰手机，更有胡杨精神和“在一起就可以”的感人短片。有一种精神，叫胡杨精神。胡杨生而一千年不死，死而一千年不倒，倒而一千年不朽。夏日胡杨版...
- ## [上海直奔“5G第一城”，好用的网络是这样建成的](http://mp.weixin.qq.com/s?src=11&timestamp=1604273405&ver=2681&signature=wylQOCM1c2VgUP2rUYcYuhlk3AMSnDwbWy6BhNYm74YlmZWY7BLzveT-Zkmd3D3RKZfhJV0AtUL1yuSkd7pHM4k9l3CYp7YAbLQyqMqEOuPj8rhb18sAvVNUtQ8Ta2p8&new=1)
+ ## [上海直奔“5G第一城”，好用的网络是这样建成的](http://mp.weixin.qq.com/s?src=11&timestamp=1604277004&ver=2681&signature=wylQOCM1c2VgUP2rUYcYuhlk3AMSnDwbWy6BhNYm74YlmZWY7BLzveT-Zkmd3D3R3cxH0cVqGAtb*NVgSso52r04lqLZUl60RsHuqbrajuVWSh2SGrxmbbCjBbri8Yip&new=1)
  > 摄影：冯诚杰30秒快读1上海5G基站建设数量处于全国第一水平、全球第一阵营。2《IT时报》记者实测，上海中心城区5G平均速率超500兆。3今年上海要完成浦东和虹桥两大机场、上海地铁297个地下站厅、站台等交通枢纽...
- ## [\[C114周报\]华为Mate40发布!售价4999起；诺基亚运营模式及领导团队变更；中兴发布2020年三季报](http://mp.weixin.qq.com/s?src=11&timestamp=1604273405&ver=2681&signature=WAIdvhZYOclWEwfSS8IbM2OY1ndlB4dYMGzWHNzgWsKp*2S2CKic6q1iJMspU9TXFTxxR*IcWNH2CLOHqUiTa8iph9aowamnAPGn4D5eeU8X87TwHlaSBFh67YvM-Gkm&new=1)
- > 周报WEEKLY本周热点有华为Mate40发布！售价4999起；诺基亚运营模式及领导团队变更；中兴发布2020年三季报• 第113期 •华为Mate40发布！售价4999起10月30日史上最强的华为Mate、巅峰之作的麒麟9000、各种强大
- ## [3D人脸模型月销量上千单：谁在打印，谁在帮打?](http://mp.weixin.qq.com/s?src=11&timestamp=1604273405&ver=2681&signature=HCK-k0xc8Rn6ubbFC0mmv8WcwoXfoNBIynMwiUWdoggPsFgh3tXlV9t45rKKGaMoJe2MG11KZok*iz0lTg*luTpGz5z8rpulh33OP3bzegqgQ02RL-4KOqDwv51fDPFb&new=1)
+ ## [3D人脸模型月销量上千单：谁在打印，谁在帮打?](http://mp.weixin.qq.com/s?src=11&timestamp=1604277004&ver=2681&signature=HCK-k0xc8Rn6ubbFC0mmv8WcwoXfoNBIynMwiUWdoggPsFgh3tXlV9t45rKKGaMoBlXL9MIkCA4arph6YqZ-*KZ8ca8mRr9GFqXrULwKdO9xBxiRpggP29u-Bvlu0Bm8&new=1)
  > 文 | 木子   编辑 | 秦言来源：懂懂笔记近日央视新闻报道了一则“面具可代替人脸解锁手机”的内容，在网上引发了广泛关注。在新闻中，有科研人员用一个面具代替人脸进行了安全测试，结果是“假脸”成功地通过脸...
+ ## [\[C114周报\]华为Mate40发布!售价4999起；诺基亚运营模式及领导团队变更；中兴发布2020年三季报](http://mp.weixin.qq.com/s?src=11&timestamp=1604277004&ver=2681&signature=WAIdvhZYOclWEwfSS8IbM2OY1ndlB4dYMGzWHNzgWsKp*2S2CKic6q1iJMspU9TXoV3V36iI-vi9hnUxvrzFNqp71xeM9p1Md99iMpMo7hyJ9hf2qG0DjIjrnUd*eJJi&new=1)
+ > 周报WEEKLY本周热点有华为Mate40发布！售价4999起；诺基亚运营模式及领导团队变更；中兴发布2020年三季报• 第113期 •华为Mate40发布！售价4999起10月30日史上最强的华为Mate、巅峰之作的麒麟9000、各种强大
+ ## [华为朱平：“大干100天”以胡杨精神打造最强中国智慧体验](http://mp.weixin.qq.com/s?src=11&timestamp=1604277004&ver=2681&signature=gNmSNgITn0UyigmQ9QeOTB9FVE0Sb4j7uJJjZxrDyOlhOGyBmMqVe1-aDSbiavGq*wgP2g1MgEOADNL5HvTNauWcCzm0vWTRfNEztPxy5eWtrpmcdajjKFn5aW1j2q3V&new=1)
+ > 华为Mate 40系列发布会被称为“史上最燃”，除了Mate力最强的旗舰手机，更有胡杨精神和“在一起就可以”的感人短片。有一种精神，叫胡杨精神。胡杨生而一千年不死，死而一千年不倒，倒而一千年不朽。夏日胡杨版...
 # IT 技术 
  ## [打工人，支撑亿级高并发的系统长啥样?](http://developer.51cto.com/art/202011/630464.htm)
  > 打工人，支撑亿级高并发的系统长啥样?
@@ -31,50 +31,26 @@ categories: IT NEWS
  > 百花齐放的自动驾驶，距离真正上路还有多远？
  ## [Mysql数据库基础入门教程](http://fellow.51cto.com/art/202007/622441.htm?qd=51ctojrzd)
  > Mysql数据库基础入门教程
+ ## [33岁大叔自学编程，简历被拒的他是如何8个月就在Twitter上找到工作的？](http://news.51cto.com/art/202011/630475.htm)
+ > 当你还在为找不到一份满意的工作而焦头烂额时，一位33岁的大叔却自学编程，并通过利用社交媒体最后获得了
+ ## [队列实现栈的3种方法，全都击败了100%的用户！](http://developer.51cto.com/art/202011/630490.htm)
+ > 今天我们要讲的是「用队列实现栈」，它们都属于常见的面试题，而我们今天要用多种方法来实现队列到栈的“转
+ ## [如何用 Python 快速揭示数据之间的各种关系](http://developer.51cto.com/art/202011/630489.htm)
+ > 如果你具备 Matplotlib 和 Pandas 的基本知识，并且想探索一下 Seaborn，那么这篇文章正是不错的起点。
+ ## [增强数据管理给企业带来更多好处](http://database.51cto.com/art/202011/630486.htm)
+ > 不断增加的管理工作量迫使很多IT部门想方设法减少他们在存储、分析和向用户呈现信息方面花费的时间。企业一
+ ## [被同事的空指针硬生生的折磨了好久，终于学会了如何处理空指针](http://developer.51cto.com/art/202011/630484.htm)
+ > 阿粉入职这么久了，无论如何也不会想到会被自己同事写的一个接口返回的空指针异常折磨致死，折磨的死去活来
+ ## [程序员如何管理你的上级领导？](http://news.51cto.com/art/202011/630482.htm)
+ > 任何一个组织都存在上下级关系，在大家心中，上级管下属天经地义。所以这篇文章的标题《怎样管理你的上级领
+ ## [缓存一致性和跨服务器查询的数据异构解决方案](http://server.51cto.com/sOS-630481.htm)
+ > 当项目的请求量上去了之后，通常有两种做法来应对高并发，第一是尽最大可能的使用cache来对抗，第二是尽最
  ## [为什么 Go 占用那么多的虚拟内存？](http://virtual.51cto.com/art/202011/630480.htm)
  > 前段时间，某同学说某服务的容器因为超出内存限制，不断地重启，问我们是不是有内存泄露，赶紧排查，然后解
  ## [面试官：讲讲类的加载、链接和初始化？](http://developer.51cto.com/art/202011/630479.htm)
  > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟
  ## [详解 | Spring Boot 核心的 3 个注解详解](http://developer.51cto.com/art/202011/630478.htm)
  > Spring Boot 最大的特点是无需 XML 配置文件，能够实现自动装配，并进行全自动化的jar包配置。
- ## [如何制定技术策略](http://www.cioage.com/art/202011/630477.htm)
- > CIO对这个问题很熟悉：“我们的技术策略是什么？”有时候，这个问题很宽泛，涉及制定总体技术战略，但更多
- ## [在云端你需要的5个机器学习技能](http://cloud.51cto.com/art/202011/630476.htm)
- > 下面让我们探索IT专业人员在云端成功利用AI所需的5个机器学习技能，并了解Amazon、微软和谷歌为支持这些技
- ## [vSphere 7.0的十大新功能](http://virtual.51cto.com/art/202011/630474.htm)
- > 在vSphere 7.0中，VMware对vSphere套件采取了创新的方法，将其与Kubernetes容器管理平台集成，并添加了一些
- ## [了解零信任-SDP关系](http://netsecurity.51cto.com/art/202011/630473.htm)
- > SDP在网络级别体现了零信任的原则。它引入机制来控制对系统的网络级访问、请求访问并授予访问权限。SDP是以
- ## [java实现坦克大战(功能丰富)](https://blog.csdn.net/qq_40693603/article/details/108564694)
- > java实现坦克大战(功能丰富)
- ## [杰哥获奖了！](https://blog.csdn.net/jake_tian/article/details/109272579)
- > 杰哥获奖了！
- ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
- > CSDN专属idea插件上线啦，开发者效率提升神器~~
- ## [【TCP/IP】详解DNS具体作用过程](https://blog.csdn.net/l_ppp/article/details/109128967)
- > 【TCP/IP】详解DNS具体作用过程
- ## [我要偷偷的学Python，然后惊呆所有人（第四天）](https://blog.csdn.net/qq_43762191/article/details/109195441)
- > 我要偷偷的学Python，然后惊呆所有人（第四天）
- ## [Python 实现十大经典排序算法](https://blog.csdn.net/qq_36759224/article/details/109251836)
- > Python 实现十大经典排序算法
- ## [从单片机到ARM Linux驱动——Linux驱动入门篇](https://blog.csdn.net/weixin_44895651/article/details/109193894)
- > 从单片机到ARM Linux驱动——Linux驱动入门篇
- ## [从创建进程到进入main函数，发生了什么？](https://blog.csdn.net/xuanyuan_fsx/article/details/109351232)
- > 从创建进程到进入main函数，发生了什么？
- ## [惊！Python居然可以读故事了](https://blog.csdn.net/qq_17623363/article/details/109259677)
- > 惊！Python居然可以读故事了
- ## [程序员鼓励师，在你敲代码时 ta 在做什么](https://blog.csdn.net/RedaTao/article/details/109183491)
- > 程序员鼓励师，在你敲代码时 ta 在做什么
- ## [学习JavaScript这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/109257751)
- > 学习JavaScript这一篇就够了
- ## [Python爬虫入门教程 100-100 我用了800天，才成为爬虫领域的一个新人](https://blog.csdn.net/hihell/article/details/108770551)
- > Python爬虫入门教程 100-100 我用了800天，才成为爬虫领域的一个新人
- ## [《零基础看得懂的C语言入门教程 》——（七）C语言的循环分分钟上手](https://blog.csdn.net/A757291228/article/details/108899175)
- > 《零基础看得懂的C语言入门教程 》——（七）C语言的循环分分钟上手
- ## [Java反射有多强？ 他拥有这五大神奇功能！](https://blog.csdn.net/qq_41464123/article/details/109248009)
- > Java反射有多强？ 他拥有这五大神奇功能！
- ## [学习MySQL之主从复制与读写分离一篇就够了！（数据库并发能力的提升）](https://blog.csdn.net/qyf158236/article/details/109288249)
- > 
 # 人工智能 
  ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
  > VSCode代码自动补全html标签、css属性及值 - 无插件
