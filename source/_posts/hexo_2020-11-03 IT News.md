@@ -1,66 +1,47 @@
 ---
 title: 2020-11-03 IT News
 copyright: true
-date: 2020-11-03 09:38:13
+date: 2020-11-03 10:30:01
 tags: IT NEWS
 categories: IT NEWS
 ---
-# IT 新闻 
- ## [SiPC China 2020|会议倒计时!欢迎报名第三届中国硅光产业论坛](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=ayDh7KpvVCGbXVsG-Yc0IGbhP-1rAWjp3gWLuWb4MmA*WFDufziOSFiT1vCM-RAvE4kOsa3w2DIN*U6ZZpLKlWw4eCzsQhA4RP2Pm8a9IxnH3PSkuYbRE2Krkk82*48G&new=1)
- > 新闻导读11月12日，第三届中国硅光产业论坛将在武汉隆重举办，会议将邀请来自产业上下游内容商、设备商及高校科研代表，以及来自知名硅光企业代表、制造平台共同探讨硅光工艺技术、制造与封测等硅光领域的发展进...
- ## [\[科技早报7点整\]消息称已有5家芯片厂商获准供货华为 欧盟反垄断专员称不必拆分科技巨头……](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=N5U8IagXDj2GBeQx54z5Hgs3uSSMaCjsu7rIUx2PQVMHUqEwf-mSEzFmRPXBk5LF-U0EbAjua4gU*qcsqcUlBE4mbGt1EEfaukBHnn*NSZasjcKbEvyWPoScJKrsvaNn&new=1)
- > 早上好，科技圈【一度蜜科技早报】第965期1.“双十一”北京市场监管等五部门约谈9大电商近日，北京市市场监管局联合市网信办、市公安局、市通信管理局、市邮政局5部门对京东、天猫、美团、微店等9家重点电子商务...
- ## [7点见|苹果官宣双11再开发布会；四部门约谈马云等蚂蚁高管](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=ApXF4zjYadj5Hap1EZc*UahkSCS7Zx5BXnle4BQQfB4FisNWh*d5LunD89NYv0JBZD6JvR1jIP2T182OL2IJpULY2Gq7Y28En16BwOtlQhyAUQ9BA7Xqd7*iz3gACaOZ&new=1)
- > 各位小伙伴早上好呀！袁隆平团队迎双季稻亩产3000斤测产，测得晚稻平均亩产为911.7公斤。此前，湖南衡南基地早稻高产攻关田在7月进行了测产验收，测得早稻平均亩产为619.06公斤。早稻加晚稻实现亩产1500公斤的目...
- ## [\[报告\]汽车自动驾驶产业链之激光雷达行业深度研究(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=Ryva9aH32RiAaPsyAK-6xxNaT0TczQNQFBjBjINBjTFXyYQXFQFgc1*Ptn7lSnHkaWoGiZEQu48bRNdA5Hl9F445PbZ0G04R4XnaT5QyFH5uJwGb5uojwE2fePbrIV6o&new=1)
- > 激光雷达是自动驾驶汽车的核心传感器，能够弥补摄像头在精度、稳定性和视野方面的局限性，是L4自动驾驶不可或缺的元件。行业整体将会向“低成本化“、”量产化”、“固态化”、“智能化”发展，预计2030年行业规...
- ## [麒麟成绝唱，华为还好吗](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=LDTyagIKqXUzz-dTTyoRbvIDpF0-FJmxFaK*Gd0s4zpIa-8XwxPAseKyVDGOeM2yWMcIA4qTdsdZgX8EF2YDCNfT47MqA*VCv0tJn6ivLH1OIG2vCJP20i0EM4PLLZeH&new=1)
- > 作者 | 南风窗高级记者 胡万程圣经中，耶稣受难前和门徒们一起，享用了最后一顿丰盛的晚餐。现实中的华为，也在美国的第三轮制裁下，发布了最新旗舰机型Mate40系列，搭载了麒麟9000芯片——被余承东称为“麒麟高...
- ## [华为朱平：“在一起”大干100天!面向五大场景升级核心能力](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=Y*7EGbzoBFXif9h0vE99HJtG-6f47zHJA77Ze6nv29b5aofHerRO26IKDoViyOGXV5cFkOe9bcOJSBTRHl2i4TIhu9G2DJ-vxexivxZxfLMTw0zU0E9LugVWx-5qwAjk&new=1)
- > 10月30日，“2020华为年度旗舰新品发布盛典”在上海举行。人们在见证“最强机皇”华为Mate40系列手机发布的同时，也见证了华为在智慧办公、智能家居、智慧出行、运动健康、影音娱乐五大场景升级之举。这届盛典可...
- ## [华为手机：一个硬核直男的崛起往事](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=Lflxv2FzJ*a1X0G9vHY*F3jlG5wFBeJCVhy2aYV*ctMm3YPtMkAE*vexw7cgAA0Hpw0PIw5DOoV9SBfl14Ew8G8X6Yio9P9oDC8LorRO7eqh1Y98-VhUPp-zx2-CBaUh&new=1)
- > 【摘要】试着去了解它曾经的崎岖与暗淡，才可能理解它如今的光芒。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：张真真本文来源：饭统戴老板(worldofboss)杂谈投稿邮箱：631255063@qq.com这几天朋友圈...
- ## [2020世界超高清视频(4K/8K)产业发展大会召开](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=N3ubAHGpa-r1ZfGdz9oCzW8CpiQGNLbqGP1*7YdFqrtnP*9GKjzIsqC-VVgNnVmyBrSVGMJ-MRIi01txRwanxy**zckBdX90xWreG3VtdAE2MI5nJ7KzNC4Zc4DrY53B&new=1)
- > 11月2日，由工业和信息化部、国家广播电视总局、中央广播电视总台、广东省人民政府共同主办的2020世界超高清视频(4K/8K)产业发展大会在广州市召开。广东省委书记李希出席开幕式，省长马兴瑞出席并致辞。国家广播...
- ## [华为手机便捷好用的原因，终于被我找到了](http://mp.weixin.qq.com/s?src=11&timestamp=1604367005&ver=2683&signature=uObY1Uj9WaKFk56JDDIdS8oNpSNBjB*dw24WgUlhFCG5E1hDXESv1xSmbPQH3TNir6qedEW-bEKL31GXa54q6yjy9j5RNsmPIxkiJZ7Z3NrkpklmIM2d6wwJy0joSKyy&new=1)
- > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容编辑 | 钟立磊金秋时节，拥有崭新面貌的华为Mate 40系列发布。麒麟9000芯片、“星环”式后置摄像头设计，无不是刷新华为手机极限，也再一次引领了旗舰手机的...
 # IT 技术 
+ ## [高性能开发的“十大武器”，爱了爱了！](http://developer.51cto.com/art/202011/630654.htm)
+ > 高性能开发的“十大武器”，爱了爱了！
  ## [用于构建API和微服务的流行JavaScript框架](http://developer.51cto.com/art/202011/630604.htm)
  > 用于构建API和微服务的流行JavaScript框架
- ## [数据中心需要为不可预测的灾难做好准备](http://server.51cto.com/Datacenter-630603.htm)
- > 数据中心需要为不可预测的灾难做好准备
- ## [实战 | 一个核心系统 3 万多行代码的重构之旅](http://os.51cto.com/art/202011/630558.htm)
- > 实战 | 一个核心系统 3 万多行代码的重构之旅
- ## [打工人，支撑亿级高并发的系统长啥样?](http://developer.51cto.com/art/202011/630464.htm)
- > 打工人，支撑亿级高并发的系统长啥样?
- ## [我们真的需要支持5G的云原生边缘吗？](http://cloud.51cto.com/art/202011/630367.htm)
- > 我们真的需要支持5G的云原生边缘吗？
- ## [【鸿蒙开发板试用报告】鸿蒙 OS Hi3861 OLED 屏上播放视频](http://developer.51cto.com/art/202010/630402.htm)
- > 【鸿蒙开发板试用报告】鸿蒙 OS Hi3861 OLED 屏上播放视频
- ## [阿里专家：技术Leader如何提升团队凝聚力？](http://news.51cto.com/art/202011/630465.htm)
- > 阿里专家：技术Leader如何提升团队凝聚力？
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
- ## [刷脸时代 不能漠视面部信息安全](http://ai.51cto.com/art/202011/630646.htm)
- > 购物时“刷脸”支付，用手机时“刷脸”解锁，进小区时“刷脸”开门。如今，越来越多的事情可以“刷脸”，用
- ## [传Windows 10将在2021年秋季推出全新设计：全新界面、不强制选择](http://os.51cto.com/art/202011/630645.htm)
- > 消息称Windows 10将计划在2021年秋季推出全新设计的版本，根据Windows Central的消息，代号为SunValley的设
- ## [不偷手机，照样隔空盗取验证码！](http://netsecurity.51cto.com/art/202011/630643.htm)
- > 这段时间，相信大家看了不少关于“手机设置SIM卡密码”的安全提示新闻，但设置了SIM卡密码，其实也只是防止
- ## [教育行业APP安全风险，什么才是比较好的解决办法？](http://netsecurity.51cto.com/art/202011/630641.htm)
- > 教育行业，是国家重点行业，到2022年，在线教育市场规模预计突破3亿人。教育类移动APP成主流模式，数量已
- ## [WebAssembly及其 API 的完整介绍](http://developer.51cto.com/art/202011/630638.htm)
- > 自从引入计算机以来，本地应用程序的性能有了巨大的提高。相比之下，web 应用程序相当慢，因为 JS 一开始并
- ## [程序员过关斩将--真的可以用版本号的方式来保证MQ消费消息的幂等性？](http://developer.51cto.com/art/202011/630635.htm)
- > 随着系统的复杂性不断增加，多数系统都会引入MQ来进行解耦，其实从引入MQ的初衷来说，多数系统是为了解耦多
- ## [记一次生产 Kafka 挂掉的那几分钟](http://developer.51cto.com/art/202011/630633.htm)
- > Hello，大家好，我是阿粉，作为一个后端工程师不经历几次生产事故怎么能成长!阿粉工作几年来，大大小小，重
- ## [我们聊聊什么是5G CPE？](http://network.51cto.com/art/202011/630632.htm)
- > CPE这个东东，对于我们国内用户来说，算是一个新鲜且少见的玩意。它的全称叫做Customer Premise Equipment
- ## [终于有人把云计算讲明白了](http://cloud.51cto.com/art/202011/630631.htm)
- > 云计算是分布式计算技术的一种，它的原理是通过网络“云”，将所运行的巨大的数据计算处理程序分解成无数个
- ## [MySQL中，21个写SQL的好习惯（修正版）](http://database.51cto.com/art/202011/630630.htm)
- > 每一个好习惯都是一笔财富，本文分SQL后悔药， SQL性能优化，SQL规范优雅三个方向，分享写SQL的21个好习惯
+ ## [33岁大叔自学编程，简历被拒的他是如何8个月就在Twitter上找到工作的？](http://news.51cto.com/art/202011/630475.htm)
+ > 33岁大叔自学编程，简历被拒的他是如何8个月就在Twitter上找到工作的？
+ ## [把鸿蒙Liteos-a移植到STM32MP157部分直播课件](http://os.51cto.com/art/202011/630550.htm)
+ > 把鸿蒙Liteos-a移植到STM32MP157部分直播课件
+ ## [教你几招，Pandas轻松处理超大规模数据](http://developer.51cto.com/art/202010/630340.htm)
+ > 教你几招，Pandas轻松处理超大规模数据
+ ## [数据中心要为不可预测的灾难做好准备](http://server.51cto.com/Datacenter-630603.htm)
+ > 数据中心要为不可预测的灾难做好准备
+ ## [老板下了死命令，要把日志系统切换到Logback](http://os.51cto.com/art/202010/630359.htm)
+ > 老板下了死命令，要把日志系统切换到Logback
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [容器与虚拟机之争？不存在的](http://cloud.51cto.com/art/202011/630672.htm)
+ > Hypervisor技术从一开始就是云计算的基石之一。然而，近年来容器技术的爆发，让这种虚拟化技术开始被认为是
+ ## [Hive数据倾斜案例讲解](http://bigdata.51cto.com/art/202011/630671.htm)
+ > 实际搞过离线数据处理的同学都知道，Hive SQL 的各种优化方法都是和数据倾斜密切相关的，所以我会先来聊一
+ ## [超级干货：什么是低代码？](http://developer.51cto.com/art/202011/630668.htm)
+ > 当您有一个需要数字化的流程时，特别是涉及人员，流程和技术的流程，低码是一种有用的方法，因为它可以通过
+ ## [嵌入式算法之空间向量夹角公式及其应用](http://developer.51cto.com/art/202011/630669.htm)
+ > 有些设备正常工作时需按合适的方位安装，比如GPS天线必须朝向天空才能保证信号最佳，温湿度传感器监测口必
+ ## [英国的敏捷适应能力：新冠病毒为“下一个常态”带来的经验](http://www.cioage.com/art/202011/630662.htm)
+ > 敏捷性已成为许多经历新冠病毒危机的全球性和英国本土组织机构的正面特征。以下将介绍它们如何在敏捷实践的
+ ## [【鸿蒙开发板试用报告】体验官方固件程序](http://developer.51cto.com/art/202011/630267.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [16个你可能不知道的JavaScript调试技巧](http://news.51cto.com/art/202011/630658.htm)
+ > 熟悉了解工具对于完成任务来说有着重要的作用。尽管JavaScrip是t出了名的难调试，但如果你知道一些窍门，那
+ ## [远程IT的未来：从在家工作时代中学到的主要经验教训](http://news.51cto.com/art/202011/630657.htm)
+ > 冠状病毒使IT人员不得不在家工作。那么如今应该将这种做法视为提高生产率的新途径吗?
+ ## [读取、创建和运行多个文件的3个Python技巧](http://developer.51cto.com/art/202011/630656.htm)
+ > 将代码投入生产时，你很可能需要处理代码文件的组织。读取、创建和运行许多数据文件非常耗时。本文将向你展
+ ## [职场大数据：女性程序员数量两年间增长70% 平均月薪达1.5万](http://bigdata.51cto.com/art/202011/630651.htm)
+ > 女性一直是程序员职场的“稀缺物种”，不过情况正在发生变化。10月24日程序员节当天，腾讯课堂联合猎聘正式
  ## [Java 地位不保，落后已成定局 ？| 10月编程语言排行](https://blog.csdn.net/turingbooks/article/details/109127152)
  > Java 地位不保，落后已成定局 ？| 10月编程语言排行
  ## [Python 编写GUI 程序并打包成 exe 程序](https://blog.csdn.net/qq_15071263/article/details/109333104)
@@ -92,35 +73,35 @@ categories: IT NEWS
  ## [惊！Python居然可以读故事了](https://blog.csdn.net/qq_17623363/article/details/109259677)
  > 惊！Python居然可以读故事了
 # 人工智能 
- ## [Mysql数据库 主从复制的作用原理](https://blog.csdn.net/Q274948451/article/details/109409858)
- > Mysql数据库 主从复制的作用原理
- ## [MySQL定时增量备份rsync+crontab（企业实战）](https://blog.csdn.net/APPLEaaq/article/details/109355406)
- > MySQL定时增量备份rsync+crontab（企业实战）
- ## [gin HTTP/2 服务器推送](https://blog.csdn.net/ma2595162349/article/details/109434984)
- > gin HTTP/2 服务器推送
- ## [年末得到美团/京东/蚂蚁金服Java岗内推，分享我的6点面试经验](https://blog.csdn.net/qq_46388795/article/details/109401160)
- > 年末得到美团/京东/蚂蚁金服Java岗内推，分享我的6点面试经验
- ## [了解公司企业：Vellgus](https://blog.csdn.net/Cyber_Xd/article/details/109412767)
- > 了解公司企业：Vellgus
- ## [我酸了！学弟刷完这套【Java互联网高级架构师必备】教学视频直接进了大厂，而我还在CRUD。。。](https://blog.csdn.net/tutouchengxuyua/article/details/109402456)
- > 我酸了！学弟刷完这套【Java互联网高级架构师必备】教学视频直接进了大厂，而我还在CRUD。。。
- ## [普通二本毕业八年，京东就职两年、百度三年，分享大厂心得](https://blog.csdn.net/m0_46995061/article/details/109403644)
- > 普通二本毕业八年，京东就职两年、百度三年，分享大厂心得
- ## [Spring Cloud Alibaba入门实践(七)-引入Sentinel](https://blog.csdn.net/weixin_38106322/article/details/109408360)
- > Spring Cloud Alibaba入门实践(七)-引入Sentinel
- ## [阿里P8分享能让MySQL性能提升了数百倍的神操作，从此告别CRUD](https://blog.csdn.net/m0_46757769/article/details/109401965)
- > 阿里P8分享能让MySQL性能提升了数百倍的神操作，从此告别CRUD
- ## [一文搞懂I2C通信](https://blog.csdn.net/m0_38106923/article/details/109383117)
- > 一文搞懂I2C通信
- ## [面试七家大厂Java岗石沉大海，最后面试官给了我些建议（附:java岗经验分享）](https://blog.csdn.net/java_xiaoo/article/details/109402281)
- > 面试七家大厂Java岗石沉大海，最后面试官给了我些建议（附:java岗经验分享）
- ## [gRPC学习以及实践](https://blog.csdn.net/reaburoa/article/details/109426323)
- > gRPC学习以及实践
  ## [麒麟985和麒麟990哪个处理器好 麒麟985和麒麟990差距有多大](https://blog.csdn.net/W12345DE5/article/details/109435284)
  > 麒麟985和麒麟990哪个处理器好 麒麟985和麒麟990差距有多大
- ## [Spring整合Mybatis极简完整示例（结构清晰仅需一个xml系统配置文件！）](https://blog.csdn.net/wh445306/article/details/109395848)
- > Spring整合Mybatis极简完整示例（结构清晰仅需一个xml系统配置文件！）
- ## [面试官：哟,Mybatis讲的挺透彻啊? 网友：看完这篇Mybatis，思路突然清晰了！](https://blog.csdn.net/SpringBoot_/article/details/109405048)
- > 面试官：哟,Mybatis讲的挺透彻啊? 网友：看完这篇Mybatis，思路突然清晰了！
+ ## [【029】5G时代十大应用场景白皮书](https://blog.csdn.net/qianchou2/article/details/109436148)
+ > 【029】5G时代十大应用场景白皮书
+ ## [i5 1135g7和i7 10510u 哪个好](https://blog.csdn.net/m0_50613577/article/details/109428935)
+ > i5 1135g7和i7 10510u 哪个好
+ ## [华为nova8什么时候上市](https://blog.csdn.net/m0_49808040/article/details/109437739)
+ > 华为nova8什么时候上市
+ ## [搭载广和通5G模组的宏电工业网关赋能AGV无线联网](https://blog.csdn.net/FibocomWireless/article/details/109443885)
+ > 搭载广和通5G模组的宏电工业网关赋能AGV无线联网
+ ## [金鸽工业以太网远程I/O数据采集模块 (产品系列：MxxxT)](https://blog.csdn.net/qq_27395975/article/details/109450980)
+ > 金鸽工业以太网远程I/O数据采集模块 (产品系列：MxxxT)
+ ## [图为科技 荣获“深爱人才馆”首批入驻](https://blog.csdn.net/weixin_50303761/article/details/109453390)
+ > 图为科技 荣获“深爱人才馆”首批入驻
+ ## [4G Cat1 全网通免驱模块在树莓派上的操作演示](https://blog.csdn.net/hzxiao1981/article/details/109440828)
+ > 4G Cat1 全网通免驱模块在树莓派上的操作演示
+ ## [终于等到你—JoyTok趣抖音带给你全新视觉盛宴](https://blog.csdn.net/JoyTok1/article/details/109454845)
+ > 终于等到你—JoyTok趣抖音带给你全新视觉盛宴
+ ## [安搭Share:5G手机将推动5G用户增至23亿](https://blog.csdn.net/weixin_48413606/article/details/109442654)
+ > 安搭Share:5G手机将推动5G用户增至23亿
+ ## [中国移动创马通信能力开放专题赛完美落幕，菊风VoLTE视频客服项目荣获二等奖](https://blog.csdn.net/weixin_44669196/article/details/109388920)
+ > 中国移动创马通信能力开放专题赛完美落幕，菊风VoLTE视频客服项目荣获二等奖
+ ## [FCC-SDOC测试需要提供的资料有什么](https://blog.csdn.net/TOBY18129948793/article/details/109450816)
+ > FCC-SDOC测试需要提供的资料有什么
+ ## [i5 1135g7和i7 1065g7 哪个好](https://blog.csdn.net/m0_50613577/article/details/109429050)
+ > i5 1135g7和i7 1065g7 哪个好
+ ## [oppok7x和realmeQ2哪个好](https://blog.csdn.net/m0_49808040/article/details/109446228)
+ > oppok7x和realmeQ2哪个好
+ ## [智慧灯杆网关](https://blog.csdn.net/qq_44149040/article/details/109442269)
+ > 智慧灯杆网关
 
     
