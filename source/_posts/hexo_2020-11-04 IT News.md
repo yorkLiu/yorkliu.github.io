@@ -1,60 +1,60 @@
 ---
 title: 2020-11-04 IT News
 copyright: true
-date: 2020-11-04 09:39:05
+date: 2020-11-04 10:30:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [高成长势能领跑行业 科沃斯以创新技术练就核心“内功”](http://mp.weixin.qq.com/s?src=11&timestamp=1604453404&ver=2685&signature=dHDbefm22TRRRALoOGaFh6ywaKHBqipgs5UzQptGgy6c7jadvNJP6OZTptM9B4jBIFa8OPd7Se-2KFTVTyi3kXCnWMIQe3DP9H6qJXHOwXxWWraalBnCUVaOWZ8qNBrB&new=1)
+ ## [高成长势能领跑行业 科沃斯以创新技术练就核心“内功”](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=dHDbefm22TRRRALoOGaFh6ywaKHBqipgs5UzQptGgy6c7jadvNJP6OZTptM9B4jBcDCPlEiK2-ksi58NSOn9pCsTf*ALtNWIGMX0*uj31dFbQPTjCjFcs0h8csMY5Cxa&new=1)
  > 通过持续的技术创新与突破，“扫地机器人第一股”科沃斯（603486.SH）品牌实力不断凸显，走出了一条超高速增长之路。根据科沃斯最新发布的2020年三季度业绩报告，今年前三季度，科沃斯实现营业收入41.42亿元，同...
- ## [开源的语音转文本引擎DeepSpeech 0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1604453404&ver=2685&signature=zWvU0VSQC9qQuZ5emexarYHjvKLQWvBgCm60oHs2g9FfVIj4reUQYQ9Qg-kkk788MI9QW7nAv5d6GEyCSDugbd-fFEKAHSZcFM6PWxh7Z84wO6DqcH93zfL3ZZx340EI&new=1)
+ ## [开源的语音转文本引擎DeepSpeech 0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=zWvU0VSQC9qQuZ5emexarYHjvKLQWvBgCm60oHs2g9FfVIj4reUQYQ9Qg-kkk788YghuaUc4MJgdo5StXrJhfspMCL4hyC*gZ4hdPJodhy7PJv4Q2DYEuMd9r1xpxuYv&new=1)
  > 虽然Mozilla在今年夏天进行了一轮大裁员，但其深度学习开源语音转文本引擎DeepSpeech目前仍在更新，当前版本号为0.9。DeepSpeech 0.9是一款多语言、深度学习的MPL 2.0授权语音转文本引擎。最新版本修正了一些的B...
- ## [优秀!广东联通亮相2020世界超高清视频产业发展大会!](http://mp.weixin.qq.com/s?src=11&timestamp=1604453404&ver=2685&signature=rmnDyvoLLUbQ*ACA9rltV35lVuyOzw4QBy37hWGUSm5o1RVCgNz4Q6hBpgt2ijuGM0oQbTRi1M*-se1ADOt0V4LqFNlAkTG1Bg2TmcdLf2wYQB8W-rEhZqCDRsIzzhhQ&new=1)
+ ## [优秀!广东联通亮相2020世界超高清视频产业发展大会!](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=rmnDyvoLLUbQ*ACA9rltV35lVuyOzw4QBy37hWGUSm5o1RVCgNz4Q6hBpgt2ijuGFZWztnCtDNtWZsamNCir*2njAlIMFCFRNL1SEX-sNGP3iLPgnnS0IcbdsEwqANr2&new=1)
  > 运营商情报获悉，11月2日，由工业和信息化部、国家广播电视总局、中央广播电视总台、广东省人民政府共同主办的2020世界超高清视频(4K/8K)产业发展大会在广州市召开。广东联通携五大5G+超高清产品亮相本次展会，...
- ## [\[报告\]2020中国车企数字化升级研究(附67页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604453404&ver=2685&signature=n4Vf8*oIkCW5OrOChP4S5wg9CTbYNO1pa0OschXoJEUzksdWIiQM*blIGEC9ogAX8fTJRMl7yg50TOV8eGcMll2PAWC*wj*Igi3hpYzlbGruWGVEHNjsbO5lhDSxSBuC&new=1)
+ ## [\[报告\]2020中国车企数字化升级研究(附67页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=n4Vf8*oIkCW5OrOChP4S5wg9CTbYNO1pa0OschXoJEUzksdWIiQM*blIGEC9ogAXlJfvko254HVJgofnltBAmbpN9RELMaDYXFF1U-nGMBh-3ERJQpRjHD2CHdG*zEDd&new=1)
  > 以5G、大数据、人工智能、物联网、区块链等为代表数字技术，正重塑中国汽车价值产业链，中国车企迎来了数字化升级的历史发展机遇。本报告从车企生产数字化、产品数字化、营销数字化以及组织人才数字化四个维度，...
- ## [世外智慧：AI如何加速智能化教学创新](http://mp.weixin.qq.com/s?src=11&timestamp=1604453404&ver=2685&signature=s9eTn851xjm7mvEFbC92EMsFE7KYyTxA7YeHdg44twp45ImHsa0ifw9MPrW6HDtqlTV-72QAmca1CC6Ys3tovV3PNVTymVC41b-hmd5udZCgq6ocPKL*c19Cq5XGbWu8&new=1)
+ ## [世外智慧：AI如何加速智能化教学创新](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=s9eTn851xjm7mvEFbC92EMsFE7KYyTxA7YeHdg44twp45ImHsa0ifw9MPrW6HDtqaEa2fgx92UDZjndZuNkDrwCxLblaSvi9BRGZuocWeBwtxrjjwN7jHp8zcO09B6T5&new=1)
  > 一家从事智慧教育研究的企业，最终自己也从人工智能和机器学习服务中获益匪浅。世外智慧面临的教学挑战创建于2014年的世外智慧教育科技有限公司（以下简称“世外智慧”），是一家专门从事教育信息化应用研究和开...
- ## [华为侯金龙：开放的智能体生态是实现全场景智慧的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1604453404&ver=2685&signature=ZRZhuEal8ooZetk16Dc-rhxxOnEOUN7gzVxbCkFoANw459Oxn*3hYDZBlOCnBhBibxtnKbVsWi*5LRH2CkiteeJKaPqd8A1eI980cSlgq41LxSrGaGdF-xh9XXAE7DOh&new=1)
+ ## [华为侯金龙：开放的智能体生态是实现全场景智慧的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=ZRZhuEal8ooZetk16Dc-rhxxOnEOUN7gzVxbCkFoANw459Oxn*3hYDZBlOCnBhBi-VVrE0pqlzLSvIh68SrVBN62nG6lreWLQIfCxm*3Axv8LZAmBxC-S8vFblSlEZjU&new=1)
  > 11月3日，主题为“计算万物·湘约未来——计算产业新动能”的2020世界计算机大会在长沙召开，华为公司高级副总裁、云与计算BG总裁侯金龙在大会上发表了主题为“打造智能体，共建全场景智慧”的演讲，分享了智能...
 # IT 技术 
- ## [如何将虚拟机整合到Istio服务网格中？](http://virtual.51cto.com/art/202011/630782.htm)
- > 如何将虚拟机整合到Istio服务网格中？
  ## [自动化回归测试全接触：概念、方法和实践](http://developer.51cto.com/art/202011/630740.htm)
  > 自动化回归测试全接触：概念、方法和实践
- ## [高性能开发的“十大武器”，爱了爱了！](http://developer.51cto.com/art/202011/630654.htm)
- > 高性能开发的“十大武器”，爱了爱了！
- ## [用于构建API和微服务的流行JavaScript框架](http://developer.51cto.com/art/202011/630604.htm)
- > 用于构建API和微服务的流行JavaScript框架
- ## [16个你可能不知道的JavaScript调试技巧](http://news.51cto.com/art/202011/630658.htm)
- > 16个你可能不知道的JavaScript调试技巧
- ## [33岁大叔自学编程，简历被拒的他是如何8个月就在Twitter上找到工作的？](http://news.51cto.com/art/202011/630475.htm)
- > 33岁大叔自学编程，简历被拒的他是如何8个月就在Twitter上找到工作的？
- ## [把鸿蒙Liteos-a移植到STM32MP157部分直播课件](http://os.51cto.com/art/202011/630550.htm)
- > 把鸿蒙Liteos-a移植到STM32MP157部分直播课件
- ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
- > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
- ## [如何实现Nodejs进程间通信](http://network.51cto.com/art/202011/630773.htm)
- > 对于有继承关系的进程，nodejs本身为我们提供了进程间通信的方式，但是对于没有继承关系的进程，比如兄弟进
- ## [辗转多个公司，我从与数据打交道的工作中学到了什么？](http://developer.51cto.com/art/202011/630771.htm)
- > 工作以来，笔者在各个公司见识了许多确保数据和代码质量的方法。每个公司可能遵循不同的流程和标准，但是有
- ## [程序员：我回老家，我能干啥？](http://news.51cto.com/art/202011/630772.htm)
- > 今天我特别想聊一聊这个话题，因为有读者找到我咨询这个问题了。有位读者在公众号留言，读者问我：我快 35
- ## [DJL 如何正确打开 \[ 深度学习 \]](http://ai.51cto.com/art/202011/630770.htm)
- > 为了减少Java开发者学习深度学习的成本，AWS构建了一个Deep Java Library(DJL)，一个为Java开发者定制的开
- ## [【面经】面试官：如何以高的效率从MySQL中随机查询一条记录？](http://database.51cto.com/art/202011/630769.htm)
- > MySQL数据库在互联网行业使用的比较多，有些小伙伴可能会认为MySQL数据库比较小，存储不了很多的数据。
- ## [技术总监7年总结，如何进行正确的沟通？](http://news.51cto.com/art/202011/630768.htm)
- > 这篇文章我想给大家分享几个正确沟通的技巧，不管你是主管还是下属，都能适用。
- ## [研究显示：尽管被误解，量子计算仍将影响企业](http://network.51cto.com/art/202011/630767.htm)
- > 近期，国外科技媒体TechRepublic针对量子计算开展了一项调查，涵盖了对量子计算的了解程度、是否会将量子计
- ## [物联网3大职业方向](http://iot.51cto.com/art/202011/630766.htm)
- > 到2022年，全球物联网投资预计将达到8800亿美元。随着这一增长，组织需要能够利用物联网的人才，以确保设备
- ## [新冠肺炎对物联网市场意味着什么？](http://iot.51cto.com/art/202011/630765.htm)
- > 自新冠肺炎引发的全球封锁浪潮以来，至少三分之一的组织可能已经减少了在物联网上的支出，但更大比例的组织
- ## [三步轻松理解Kerberos协议](http://network.51cto.com/art/202011/630488.htm)
- > Kerberos是一种身份验证协议，它作为一种可信任的第三方认证服务，通过使用对称加密技术为客户端/服务器应
+ ## [鸿蒙Hi3861开发板实现按键“按下事件”和“释放事件”的通用框架](http://developer.51cto.com/art/202011/630703.htm)
+ > 鸿蒙Hi3861开发板实现按键“按下事件”和“释放事件”的通用框架
+ ## [嘴上说反对Lombok，身体却很诚实…](http://developer.51cto.com/art/202011/630789.htm)
+ > 嘴上说反对Lombok，身体却很诚实…
+ ## [如何在树莓派上安装Ubuntu服务器？](http://os.51cto.com/art/202011/630683.htm)
+ > 如何在树莓派上安装Ubuntu服务器？
+ ## [如何将虚拟机整合到Istio服务网格中？](http://virtual.51cto.com/art/202011/630782.htm)
+ > 如何将虚拟机整合到Istio服务网格中？
+ ## [为何说IT科技公司应该留住35岁员工？](http://news.51cto.com/art/202011/630678.htm)
+ > 为何说IT科技公司应该留住35岁员工？
+ ## [边缘AI新方法TinyML，超低功耗，在边缘设备进行机器学习](http://news.51cto.com/art/202011/630679.htm)
+ > 边缘AI新方法TinyML，超低功耗，在边缘设备进行机器学习
+ ## [UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03](http://fellow.51cto.com/art/202007/622204.htm?qd=51ctojrzd)
+ > UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03
+ ## [前端vscode必装的效率插件，你知道吗？](http://news.51cto.com/art/202011/630819.htm)
+ > 免费、开源、功能强大，vscode几乎是前端工程师们必备的轻量级代码编辑器。
+ ## [企业区块链项目中需要避免的常见错误](http://blockchain.51cto.com/art/202011/630813.htm)
+ > 围绕区块链技术的宣传和炒作已经有多年的时间，这是由于对区块链技术的认识混乱和不断变化的态势所驱动的。
+ ## [无人公交车会比无人出租车靠谱吗？](http://ai.51cto.com/art/202011/630817.htm)
+ > 相较于路线选择更为灵活的出租车场景，固定路线的公交车可能才是自动驾驶的优秀实践方向。
+ ## [预测 2021：技术多元化推动物联网增长](http://iot.51cto.com/art/202011/630812.htm)
+ > 2021 年，企业、消费者和不同的利益相关者将继续推动对跨垂直和地域的物联网 （IoT） 新应用、技术和解决方
+ ## [不用重置整个操作系统，也可以重置Windows 10开始菜单](http://os.51cto.com/art/202011/630809.htm)
+ > “开始”菜单是Windows 10操作系统中最常用的功能之一，当我们需要在系统中搜索某些内容或快速访问固定的磁
+ ## [Github上12个Star过万的Vue.js项目](http://developer.51cto.com/art/202011/630807.htm)
+ > Vue是一套用于构建用户界面的渐进式JavaScript框架。与其它大型框架不同的是，Vue被设计为可以自底向上逐层
+ ## [远程工作时代的安全：如何在网络攻击后恢复数据](http://netsecurity.51cto.com/art/202011/630806.htm)
+ > 企业在遭遇网络攻击之后，其恢复数据比典型的灾难恢复(DR)过程更为复杂，而如今，越来越多企业面临需要进行
+ ## [下架4G套餐，运营商不该操之过急](http://network.51cto.com/art/202011/630805.htm)
+ > 随着 5G 正式商用，各大手机厂商纷纷推出 5G 手机，连苹果最近推出的手机也正式应用 5G；相应地，各大运营
+ ## [如何通过查找恶意开发者的线索来寻找漏洞（中）](http://netsecurity.51cto.com/art/202011/630799.htm)
+ > 在本节中，研究人员描述了一组关键特征，这些特征反映了Volodya在创建利用模板时所做出的不同实现选择。
+ ## [五大引人注目的分析和人工智能灾难](http://ai.51cto.com/art/202011/630795.htm)
+ > 数据和机器学习算法所带来的洞察可能是无价之宝，但是错误会损害你的声誉，影响你的收入甚至生命安全。这些
  ## [MySQL大表优化方案](https://blog.csdn.net/fuluadmin/article/details/109443822)
  > MySQL大表优化方案
  ## [国产嵌入式操作系统任重道远，未来着实可期！](https://blog.csdn.net/DP29syM41zyGndVF/article/details/109396194)
@@ -86,35 +86,35 @@ categories: IT NEWS
  ## [酒后写代码，我删了生产数据库……](https://blog.csdn.net/P5dEyT322JACS/article/details/109192410)
  > 酒后写代码，我删了生产数据库……
 # 人工智能 
- ## [【解题总结】2020 CCPC 绵阳站](https://blog.csdn.net/zqy1018/article/details/109435078)
- > 【解题总结】2020 CCPC 绵阳站
- ## [跑步最高分算法（动态规划）-“奋斗杯”编程大赛题目](https://blog.csdn.net/u012140251/article/details/109410044)
- > 跑步最高分算法（动态规划）-“奋斗杯”编程大赛题目
- ## [2020ICPC亚洲网上区域赛模拟赛总结及部分题解](https://blog.csdn.net/qq_45682135/article/details/109427655)
- > 2020ICPC亚洲网上区域赛模拟赛总结及部分题解
- ## [爬虫入门经典(十六) | 一文带你爬取斗鱼主播相关信息](https://blog.csdn.net/qq_16146103/article/details/109412573)
- > 爬虫入门经典(十六) | 一文带你爬取斗鱼主播相关信息
- ## [C语言实现三子棋（具体步骤和代码）](https://blog.csdn.net/qq_34270874/article/details/109418559)
- > C语言实现三子棋（具体步骤和代码）
- ## [用java模拟dnf武器强化的过程](https://blog.csdn.net/qq_40269704/article/details/109433733)
- > 用java模拟dnf武器强化的过程
- ## [概率dp习题](https://blog.csdn.net/weixin_45750972/article/details/109431689)
- > 概率dp习题
- ## [并查集（思路加简单例题）](https://blog.csdn.net/hhuhgfhggy/article/details/109412999)
- > 并查集（思路加简单例题）
- ## [牛客组合数学专题解题报告（持续更新）](https://blog.csdn.net/weixin_45894068/article/details/109406167)
- > 牛客组合数学专题解题报告（持续更新）
- ## [Codeforces 1445D. Divide and Sum（找规律+组合数）](https://blog.csdn.net/qq_39565901/article/details/109441666)
- > Codeforces 1445D. Divide and Sum（找规律+组合数）
- ## [赵大超的学习周志（一）](https://blog.csdn.net/Mr_SuperZhao/article/details/109430758)
- > 赵大超的学习周志（一）
- ## [约瑟夫环](https://blog.csdn.net/weixin_44510725/article/details/109406530)
- > 约瑟夫环
- ## [Discovering Gold  LightOJ - 1030  (概率dp)](https://blog.csdn.net/qq_45634757/article/details/109457424)
- > Discovering Gold  LightOJ - 1030  (概率dp)
- ## [LeetCode 49字母异位词分组&50pow(x,n)&51八皇后](https://blog.csdn.net/qq_40693171/article/details/109411577)
- > LeetCode 49字母异位词分组&amp;50pow(x,n)&amp;51八皇后
- ## [C语言简易版扫雷](https://blog.csdn.net/qq_34270874/article/details/109431722)
- > C语言简易版扫雷
+ ## [Python编程基础01：搭建Python开发环境](https://blog.csdn.net/howard2005/article/details/109440618)
+ > Python编程基础01：搭建Python开发环境
+ ## [程序员小抄——GitHub 热点速览 Vol.44](https://blog.csdn.net/a419240016/article/details/109460862)
+ > 程序员小抄——GitHub 热点速览 Vol.44
+ ## [如何快捷方便地安装Pytorch](https://blog.csdn.net/kullollo/article/details/109448254)
+ > 如何快捷方便地安装Pytorch
+ ## [机器学习EM算法-硬币问题-详细可视化代码](https://blog.csdn.net/weixin_43906799/article/details/109476211)
+ > 机器学习EM算法-硬币问题-详细可视化代码
+ ## [《假如编程是魔法之零基础看得懂的Python入门教程 》——（二）魔法实习生第一步了解魔杖的使用](https://blog.csdn.net/A757291228/article/details/109301312)
+ > 《假如编程是魔法之零基础看得懂的Python入门教程 》——（二）魔法实习生第一步了解魔杖的使用
+ ## [惊了，Python 民俗社会科学项目，看看能否预测【面向哪里写BUG少】](https://blog.csdn.net/hihell/article/details/109479360)
+ > 惊了，Python 民俗社会科学项目，看看能否预测【面向哪里写BUG少】
+ ## [图灵奖得主 John E. Hopcroft 等 300 余位 AI 学者“穿越”回宋代开国际 AI 大会，这场面你见过吗？](https://blog.csdn.net/csdnnews/article/details/109463121)
+ > 图灵奖得主 John E. Hopcroft 等 300 余位 AI 学者“穿越”回宋代开国际 AI 大会，这场面你见过吗？
+ ## [python中not、and、or的优先级与详细用法](https://blog.csdn.net/m0_51284422/article/details/109441190)
+ > python中not、and、or的优先级与详细用法
+ ## [2020年科大讯飞多模态情感分析与识别前三名队伍分享](https://blog.csdn.net/herosunly/article/details/109467105)
+ > 2020年科大讯飞多模态情感分析与识别前三名队伍分享
+ ## [这份PDF究竟有什么样的魔力！竟让大专生的我成功拿下了阿里、腾讯、美团等offer（大数据岗）](https://blog.csdn.net/a159357445566/article/details/109472278)
+ > 这份PDF究竟有什么样的魔力！竟让大专生的我成功拿下了阿里、腾讯、美团等offer（大数据岗）
+ ## [作为一名优质的程序员如何高效的解决各种bug？](https://blog.csdn.net/SQY0809/article/details/109458928)
+ > 作为一名优质的程序员如何高效的解决各种bug？
+ ## [MySQL常用判断函数总结！！看你都用过没](https://blog.csdn.net/qq_39390545/article/details/109453048)
+ > 
+ ## [智能优化算法：海鸥算法原理及Matlab代码](https://blog.csdn.net/qq_38643813/article/details/109459392)
+ > 智能优化算法：海鸥算法原理及Matlab代码
+ ## [Google colab 跑通 faster-rcnn](https://blog.csdn.net/weixin_42899627/article/details/109460850)
+ > Google colab 跑通 faster-rcnn
+ ## [TensorFlow：tensorflow之CIFAR10与VGG13实战](https://blog.csdn.net/qq_43328040/article/details/109445301)
+ > TensorFlow：tensorflow之CIFAR10与VGG13实战
 
     
