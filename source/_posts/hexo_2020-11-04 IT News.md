@@ -1,22 +1,28 @@
 ---
 title: 2020-11-04 IT News
 copyright: true
-date: 2020-11-04 10:30:54
+date: 2020-11-04 12:17:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [高成长势能领跑行业 科沃斯以创新技术练就核心“内功”](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=dHDbefm22TRRRALoOGaFh6ywaKHBqipgs5UzQptGgy6c7jadvNJP6OZTptM9B4jBcDCPlEiK2-ksi58NSOn9pCsTf*ALtNWIGMX0*uj31dFbQPTjCjFcs0h8csMY5Cxa&new=1)
- > 通过持续的技术创新与突破，“扫地机器人第一股”科沃斯（603486.SH）品牌实力不断凸显，走出了一条超高速增长之路。根据科沃斯最新发布的2020年三季度业绩报告，今年前三季度，科沃斯实现营业收入41.42亿元，同...
- ## [开源的语音转文本引擎DeepSpeech 0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=zWvU0VSQC9qQuZ5emexarYHjvKLQWvBgCm60oHs2g9FfVIj4reUQYQ9Qg-kkk788YghuaUc4MJgdo5StXrJhfspMCL4hyC*gZ4hdPJodhy7PJv4Q2DYEuMd9r1xpxuYv&new=1)
- > 虽然Mozilla在今年夏天进行了一轮大裁员，但其深度学习开源语音转文本引擎DeepSpeech目前仍在更新，当前版本号为0.9。DeepSpeech 0.9是一款多语言、深度学习的MPL 2.0授权语音转文本引擎。最新版本修正了一些的B...
- ## [优秀!广东联通亮相2020世界超高清视频产业发展大会!](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=rmnDyvoLLUbQ*ACA9rltV35lVuyOzw4QBy37hWGUSm5o1RVCgNz4Q6hBpgt2ijuGFZWztnCtDNtWZsamNCir*2njAlIMFCFRNL1SEX-sNGP3iLPgnnS0IcbdsEwqANr2&new=1)
- > 运营商情报获悉，11月2日，由工业和信息化部、国家广播电视总局、中央广播电视总台、广东省人民政府共同主办的2020世界超高清视频(4K/8K)产业发展大会在广州市召开。广东联通携五大5G+超高清产品亮相本次展会，...
- ## [\[报告\]2020中国车企数字化升级研究(附67页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=n4Vf8*oIkCW5OrOChP4S5wg9CTbYNO1pa0OschXoJEUzksdWIiQM*blIGEC9ogAXlJfvko254HVJgofnltBAmbpN9RELMaDYXFF1U-nGMBh-3ERJQpRjHD2CHdG*zEDd&new=1)
+ ## [2020年11月，这5场3D打印直播值得关注!](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=7xRifuppuoo2izdgsKNW4m7FugixnZpNxvc1BcW*pcfQ7WXnJOXPxyPX*cXFTn1vGx9YEhCXTc-Pc4OTiFTjBe5hb9bDoW8vZm1GC*vbjhRGNQfCV7UmQZxPmVyIT4RR&new=1)
+ > （以下所有活动，均可微信扫码报名）（1）由香港城市大学，德国SLMSolutions公司和中德3D打印协会联合主办的第一届中德增材制造系列Webinar。南极熊是独家合作媒体。第二场研讨会主题为：3D打印创新企业。2020年...
+ ## [\[报告\]2020中国车企数字化升级研究(附67页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=n4Vf8*oIkCW5OrOChP4S5wg9CTbYNO1pa0OschXoJEVP5CZ3BhIfmhVVbT8PGKwSLssQUF3UtWIH77J9ENkkrd6KIJooxzvM2b1RGa7Sr1LJAOway0fa-bah8KvQVsYT&new=1)
  > 以5G、大数据、人工智能、物联网、区块链等为代表数字技术，正重塑中国汽车价值产业链，中国车企迎来了数字化升级的历史发展机遇。本报告从车企生产数字化、产品数字化、营销数字化以及组织人才数字化四个维度，...
- ## [世外智慧：AI如何加速智能化教学创新](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=s9eTn851xjm7mvEFbC92EMsFE7KYyTxA7YeHdg44twp45ImHsa0ifw9MPrW6HDtqaEa2fgx92UDZjndZuNkDrwCxLblaSvi9BRGZuocWeBwtxrjjwN7jHp8zcO09B6T5&new=1)
+ ## [甲骨文发布紧急补丁修复WebLogic Server严重漏洞(CVE-2020-14750)](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=AQkenyOAjZ5-GjE0VNe4soJq-sYbckqusCDIcIbKEtXozvgrbI2PyoE45ALj3RwKZvyl7z2z2c5*nw-0BQ*ke90HKiCUeLF1DfojsphIsTCgcr7ixJ-W83ET7dnRLV80&new=1)
+ > E安全11月4日讯  据外媒报道，10月更新的严重漏洞CVE-2020-14882补丁刚过去不久，甲骨文在周末又发布了带外安全更新，修复了影响多个Oracle WebLogic Server版本的关键远程代码执行（RCE）漏洞。安全漏洞编号
+ ## [打造人工智能产品西南制造基地](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=SMlpMoPXgg5yM*mAs*XcrfBSgoUhxoETEgfuzV7SIRKN4f0wlOC3*psj1TjFFq1kNaZRQiNdE6v*M8LzugpUsagApyONV3IIXqc8Ne2RJ9s=&new=1)
+ > 本报讯 11月2日，观山湖区与科大讯飞股份有限公司举行签约仪式，双方拟在人工智能、智慧教育领域等方面开展全方位战略合作。　　根据合作协议，观山湖区与科大讯飞公司将依托互联网、大数据、人工智能等先进...
+ ## [开源的语音转文本引擎DeepSpeech 0.9发布](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=zWvU0VSQC9qQuZ5emexarYHjvKLQWvBgCm60oHs2g9Fn37krTCnvhkl9CVmD04AEPMn7S3i9E*3tbhka6Bgbh0tOM-3bL78JZUnk2a*wr8SIM90*ooVYDv1GTJKA254x&new=1)
+ > 虽然Mozilla在今年夏天进行了一轮大裁员，但其深度学习开源语音转文本引擎DeepSpeech目前仍在更新，当前版本号为0.9。DeepSpeech 0.9是一款多语言、深度学习的MPL 2.0授权语音转文本引擎。最新版本修正了一些的B...
+ ## [高成长势能领跑行业 科沃斯以创新技术练就核心“内功”](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=dHDbefm22TRRRALoOGaFh6ywaKHBqipgs5UzQptGgy7Fm9iQJbTIuJyzNVBjQp1TlX-6sRV4-AJFI6dv15Kzm2pDyNrjRqjaCloX53UueaRXHwALSvGcM8s-ESVoYKMy&new=1)
+ > 通过持续的技术创新与突破，“扫地机器人第一股”科沃斯（603486.SH）品牌实力不断凸显，走出了一条超高速增长之路。根据科沃斯最新发布的2020年三季度业绩报告，今年前三季度，科沃斯实现营业收入41.42亿元，同...
+ ## [优秀!广东联通亮相2020世界超高清视频产业发展大会!](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=rmnDyvoLLUbQ*ACA9rltV35lVuyOzw4QBy37hWGUSm4p2foTxz3xIHj1rglKc9A2-r3KHPbWefa*vGzNerxgYqNEHmhsOmp6vXVsgUohDjNQrZ90vv2mQmllikTpTJSF&new=1)
+ > 运营商情报获悉，11月2日，由工业和信息化部、国家广播电视总局、中央广播电视总台、广东省人民政府共同主办的2020世界超高清视频(4K/8K)产业发展大会在广州市召开。广东联通携五大5G+超高清产品亮相本次展会，...
+ ## [世外智慧：AI如何加速智能化教学创新](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=s9eTn851xjm7mvEFbC92EMsFE7KYyTxA7YeHdg44twrZVHQIUp4n6GtiSqUYKA7YC34yRINMJo5i-nSq*s2zoipXnW6rbfjNMhWSucL9pxl4tIoEyeDe5YpRnALupngG&new=1)
  > 一家从事智慧教育研究的企业，最终自己也从人工智能和机器学习服务中获益匪浅。世外智慧面临的教学挑战创建于2014年的世外智慧教育科技有限公司（以下简称“世外智慧”），是一家专门从事教育信息化应用研究和开...
- ## [华为侯金龙：开放的智能体生态是实现全场景智慧的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1604455204&ver=2685&signature=ZRZhuEal8ooZetk16Dc-rhxxOnEOUN7gzVxbCkFoANw459Oxn*3hYDZBlOCnBhBi-VVrE0pqlzLSvIh68SrVBN62nG6lreWLQIfCxm*3Axv8LZAmBxC-S8vFblSlEZjU&new=1)
+ ## [华为侯金龙：开放的智能体生态是实现全场景智慧的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1604462405&ver=2685&signature=ZRZhuEal8ooZetk16Dc-rhxxOnEOUN7gzVxbCkFoANwRJMSsUYjqd7ecpZrxXOq8XIA-dQSSCpcOxnJwCP3DlzEgZkE8PRs0nNYFzbyxi6*LvwFa9JqbMCrrT8lxtYlb&new=1)
  > 11月3日，主题为“计算万物·湘约未来——计算产业新动能”的2020世界计算机大会在长沙召开，华为公司高级副总裁、云与计算BG总裁侯金龙在大会上发表了主题为“打造智能体，共建全场景智慧”的演讲，分享了智能...
 # IT 技术 
  ## [自动化回归测试全接触：概念、方法和实践](http://developer.51cto.com/art/202011/630740.htm)
@@ -33,28 +39,28 @@ categories: IT NEWS
  > 为何说IT科技公司应该留住35岁员工？
  ## [边缘AI新方法TinyML，超低功耗，在边缘设备进行机器学习](http://news.51cto.com/art/202011/630679.htm)
  > 边缘AI新方法TinyML，超低功耗，在边缘设备进行机器学习
- ## [UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03](http://fellow.51cto.com/art/202007/622204.htm?qd=51ctojrzd)
- > UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03
- ## [前端vscode必装的效率插件，你知道吗？](http://news.51cto.com/art/202011/630819.htm)
- > 免费、开源、功能强大，vscode几乎是前端工程师们必备的轻量级代码编辑器。
- ## [企业区块链项目中需要避免的常见错误](http://blockchain.51cto.com/art/202011/630813.htm)
- > 围绕区块链技术的宣传和炒作已经有多年的时间，这是由于对区块链技术的认识混乱和不断变化的态势所驱动的。
- ## [无人公交车会比无人出租车靠谱吗？](http://ai.51cto.com/art/202011/630817.htm)
- > 相较于路线选择更为灵活的出租车场景，固定路线的公交车可能才是自动驾驶的优秀实践方向。
- ## [预测 2021：技术多元化推动物联网增长](http://iot.51cto.com/art/202011/630812.htm)
- > 2021 年，企业、消费者和不同的利益相关者将继续推动对跨垂直和地域的物联网 （IoT） 新应用、技术和解决方
- ## [不用重置整个操作系统，也可以重置Windows 10开始菜单](http://os.51cto.com/art/202011/630809.htm)
- > “开始”菜单是Windows 10操作系统中最常用的功能之一，当我们需要在系统中搜索某些内容或快速访问固定的磁
- ## [Github上12个Star过万的Vue.js项目](http://developer.51cto.com/art/202011/630807.htm)
- > Vue是一套用于构建用户界面的渐进式JavaScript框架。与其它大型框架不同的是，Vue被设计为可以自底向上逐层
- ## [远程工作时代的安全：如何在网络攻击后恢复数据](http://netsecurity.51cto.com/art/202011/630806.htm)
- > 企业在遭遇网络攻击之后，其恢复数据比典型的灾难恢复(DR)过程更为复杂，而如今，越来越多企业面临需要进行
- ## [下架4G套餐，运营商不该操之过急](http://network.51cto.com/art/202011/630805.htm)
- > 随着 5G 正式商用，各大手机厂商纷纷推出 5G 手机，连苹果最近推出的手机也正式应用 5G；相应地，各大运营
- ## [如何通过查找恶意开发者的线索来寻找漏洞（中）](http://netsecurity.51cto.com/art/202011/630799.htm)
- > 在本节中，研究人员描述了一组关键特征，这些特征反映了Volodya在创建利用模板时所做出的不同实现选择。
- ## [五大引人注目的分析和人工智能灾难](http://ai.51cto.com/art/202011/630795.htm)
- > 数据和机器学习算法所带来的洞察可能是无价之宝，但是错误会损害你的声誉，影响你的收入甚至生命安全。这些
+ ## [MySQL培训速成教程（六）：Linux安装MySQL 5.7](http://fellow.51cto.com/art/202007/622200.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（六）：Linux安装MySQL 5.7
+ ## [基础架构云化四大新趋势，LinuxONE黑科技帮企业做减法](http://cloud.51cto.com/art/202011/630846.htm)
+ > 过去几年，IBM的企业客户聊的最多的就是数字化转型，最近几个月的疫情又进一步的凸显了数字化转型的重要性
+ ## [打工都是人上人！打工真有这么好？看看程序员与流水线工人的区别](http://news.51cto.com/art/202011/630844.htm)
+ > 看到最近流行起来的“打工人”的梗，在捧腹大笑以后，我也开始严肃地思考程序员这个工种的本质，开始思考“
+ ## [瑞典保险公司Folksa数据泄露，近百万客户信息流入Facebook等社交媒体](http://netsecurity.51cto.com/art/202011/630842.htm)
+ > 当地时间11月3日，瑞典最大的保险公司Folksa证实，近100万客户的个人信息已泄露给Facebook和Google等社交媒
+ ## [大牛眼中的好代码是什么样子的？](http://news.51cto.com/art/202011/630840.htm)
+ > 有多少程序员，就有多少定义。所以我只询问了一些非常知名且经验丰富的程序员,来看看他们都是怎么说的吧？
+ ## [2021 年五大物联网 （IoT） 趋势](http://iot.51cto.com/art/202011/630838.htm)
+ > 物联网 (IoT) 是近年来出现的最突出的技术趋势之一。简单地说，它指的是一个事实，即虽然&quot;互联网&quot;一词最初
+ ## [如何推动我国农业无人机产业的发展和成熟?](http://ai.51cto.com/art/202011/630836.htm)
+ > 近年来，国内越来越多贫困农村通过农业无人机的助力，走出了一条科技脱贫的独特发展道路。那么，农业无人机
+ ## [对华为下黑手：与潮流相背，瑞典得不偿失](http://network.51cto.com/art/202011/630834.htm)
+ > 些市场分析人士指出，相比小小的瑞典国内市场，中国市场庞大，禁用中国5G设备可能会影响中国政府对瑞典通信
+ ## [十大5G应用，开启智慧未来](http://network.51cto.com/art/202011/630831.htm)
+ > 在5G正式商用一周年之际，通信行业以多种形式展示了5G发展成果。总体来看,这一年我国5G发展确实取得了远超
+ ## [10月份Github上热门的开源项目](http://developer.51cto.com/art/202011/630828.htm)
+ > 10月份GitHub上最热门的Java开源项目排行已经出炉啦，一起来看看上榜详情吧。
+ ## [没用过这几招，别说你会使用Jupyter Notebook！](http://developer.51cto.com/art/202011/630827.htm)
+ > 如果你想用Python进行数据分析，那么Jupyter notebook是你必须要熟练掌握的工具之一，而Notebook也有很多省
  ## [MySQL大表优化方案](https://blog.csdn.net/fuluadmin/article/details/109443822)
  > MySQL大表优化方案
  ## [国产嵌入式操作系统任重道远，未来着实可期！](https://blog.csdn.net/DP29syM41zyGndVF/article/details/109396194)
@@ -86,35 +92,35 @@ categories: IT NEWS
  ## [酒后写代码，我删了生产数据库……](https://blog.csdn.net/P5dEyT322JACS/article/details/109192410)
  > 酒后写代码，我删了生产数据库……
 # 人工智能 
- ## [Python编程基础01：搭建Python开发环境](https://blog.csdn.net/howard2005/article/details/109440618)
- > Python编程基础01：搭建Python开发环境
- ## [程序员小抄——GitHub 热点速览 Vol.44](https://blog.csdn.net/a419240016/article/details/109460862)
- > 程序员小抄——GitHub 热点速览 Vol.44
- ## [如何快捷方便地安装Pytorch](https://blog.csdn.net/kullollo/article/details/109448254)
- > 如何快捷方便地安装Pytorch
- ## [机器学习EM算法-硬币问题-详细可视化代码](https://blog.csdn.net/weixin_43906799/article/details/109476211)
- > 机器学习EM算法-硬币问题-详细可视化代码
- ## [《假如编程是魔法之零基础看得懂的Python入门教程 》——（二）魔法实习生第一步了解魔杖的使用](https://blog.csdn.net/A757291228/article/details/109301312)
- > 《假如编程是魔法之零基础看得懂的Python入门教程 》——（二）魔法实习生第一步了解魔杖的使用
- ## [惊了，Python 民俗社会科学项目，看看能否预测【面向哪里写BUG少】](https://blog.csdn.net/hihell/article/details/109479360)
- > 惊了，Python 民俗社会科学项目，看看能否预测【面向哪里写BUG少】
- ## [图灵奖得主 John E. Hopcroft 等 300 余位 AI 学者“穿越”回宋代开国际 AI 大会，这场面你见过吗？](https://blog.csdn.net/csdnnews/article/details/109463121)
- > 图灵奖得主 John E. Hopcroft 等 300 余位 AI 学者“穿越”回宋代开国际 AI 大会，这场面你见过吗？
- ## [python中not、and、or的优先级与详细用法](https://blog.csdn.net/m0_51284422/article/details/109441190)
- > python中not、and、or的优先级与详细用法
- ## [2020年科大讯飞多模态情感分析与识别前三名队伍分享](https://blog.csdn.net/herosunly/article/details/109467105)
- > 2020年科大讯飞多模态情感分析与识别前三名队伍分享
- ## [这份PDF究竟有什么样的魔力！竟让大专生的我成功拿下了阿里、腾讯、美团等offer（大数据岗）](https://blog.csdn.net/a159357445566/article/details/109472278)
- > 这份PDF究竟有什么样的魔力！竟让大专生的我成功拿下了阿里、腾讯、美团等offer（大数据岗）
- ## [作为一名优质的程序员如何高效的解决各种bug？](https://blog.csdn.net/SQY0809/article/details/109458928)
- > 作为一名优质的程序员如何高效的解决各种bug？
- ## [MySQL常用判断函数总结！！看你都用过没](https://blog.csdn.net/qq_39390545/article/details/109453048)
- > 
- ## [智能优化算法：海鸥算法原理及Matlab代码](https://blog.csdn.net/qq_38643813/article/details/109459392)
- > 智能优化算法：海鸥算法原理及Matlab代码
- ## [Google colab 跑通 faster-rcnn](https://blog.csdn.net/weixin_42899627/article/details/109460850)
- > Google colab 跑通 faster-rcnn
- ## [TensorFlow：tensorflow之CIFAR10与VGG13实战](https://blog.csdn.net/qq_43328040/article/details/109445301)
- > TensorFlow：tensorflow之CIFAR10与VGG13实战
+ ## [ECU Manager 动力升级调教设备](https://blog.csdn.net/ECU_Manager/article/details/109441482)
+ > ECU Manager 动力升级调教设备
+ ## [金鸽工业以太网远程I/O数据采集模块 (产品系列：MxxxT)](https://blog.csdn.net/qq_27395975/article/details/109450980)
+ > 金鸽工业以太网远程I/O数据采集模块 (产品系列：MxxxT)
+ ## [FCC-SDOC测试需要提供的资料有什么](https://blog.csdn.net/TOBY18129948793/article/details/109450816)
+ > FCC-SDOC测试需要提供的资料有什么
+ ## [STC89C52单片机 数码管动态显示](https://blog.csdn.net/qq_44989881/article/details/109441157)
+ > STC89C52单片机 数码管动态显示
+ ## [搭载广和通5G模组的宏电工业网关赋能AGV无线联网](https://blog.csdn.net/FibocomWireless/article/details/109443885)
+ > 搭载广和通5G模组的宏电工业网关赋能AGV无线联网
+ ## [物联网时代下的物流仓储系统智能化升级](https://blog.csdn.net/vickycheung3/article/details/109449768)
+ > 物联网时代下的物流仓储系统智能化升级
+ ## [70美元桌面电脑，树莓派400：键盘式集成开发板](https://blog.csdn.net/m0_38106923/article/details/109467218)
+ > 70美元桌面电脑，树莓派400：键盘式集成开发板
+ ## [5GNR漫谈12：PRACH随机接入信道（2）](https://blog.csdn.net/guet208/article/details/109455141)
+ > 5GNR漫谈12：PRACH随机接入信道（2）
+ ## [POE 网络变压器 Pulse 普思](https://blog.csdn.net/Zhenhao_Lin/article/details/109444251)
+ > POE 网络变压器 Pulse 普思
+ ## [智慧灯杆网关](https://blog.csdn.net/qq_44149040/article/details/109442269)
+ > 智慧灯杆网关
+ ## [智能机井灌溉控制器](https://blog.csdn.net/xmjxliao/article/details/109447525)
+ > 智能机井灌溉控制器
+ ## [蓝牙DID协议讲解 Bluetooth Device ID](https://blog.csdn.net/XiaoXiaoPengBo/article/details/109338080)
+ > 蓝牙DID协议讲解 Bluetooth Device ID
+ ## [测试山石防火墙 接口中 逆向路由 设置与urpf是否有关](https://blog.csdn.net/zhanzc1/article/details/109464535)
+ > 测试山石防火墙 接口中 逆向路由 设置与urpf是否有关
+ ## [基于FPGA线性序列机驱动TLC5615模块](https://blog.csdn.net/explode_boom/article/details/109479167)
+ > 基于FPGA线性序列机驱动TLC5615模块
+ ## [未来MES系统是制造业的核心技术](https://blog.csdn.net/weixin_47276960/article/details/109448986)
+ > 未来MES系统是制造业的核心技术
 
     
