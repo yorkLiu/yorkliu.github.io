@@ -1,20 +1,26 @@
 ---
 title: 2020-11-06 IT News
 copyright: true
-date: 2020-11-06 09:23:48
+date: 2020-11-06 10:19:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为了进行手势识别，科研人员打起智能手表的主意](http://mp.weixin.qq.com/s?src=11&timestamp=1604624405&ver=2689&signature=8xajIBfz3JGsY5F5B6SdBeMxYnr0sR7eM3A5niiyIEZQsDLhefjw3s7MTmFcqTnAUSf2xIMBEIQqELS7zHFPfgIRiFxwtgMoi0pPWkywsKMareDXzYHdvw21dYw0bMuy&new=1)
+ ## [\[科技早报7点整\]高通CEO称已向美国政府申请向华为出售芯片 美国选民用顺丰快递……](http://mp.weixin.qq.com/s?src=11&timestamp=1604628004&ver=2689&signature=3x9Vs*cL8Sm0pYuI1VwovoymXlqWuZVTTzSYo9I2UXGnoNN3ne9bi*S8H*hnjuIE6w6taI18nyoVELFGg*EuCbSFKfBk-vJvd2*TTEdxxYXwWO2jmRpwIn4QlmtljLhy&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第968期1.网信办规范知识社区问答：知乎豆瓣被督促自查自纠近日，国家网信办指导北京、上海、广东、浙江等4省、市网信办部署开展为期两个月的集中专项整治。重点针对“议题”设...
+ ## [为了进行手势识别，科研人员打起智能手表的主意](http://mp.weixin.qq.com/s?src=11&timestamp=1604628004&ver=2689&signature=8xajIBfz3JGsY5F5B6SdBeMxYnr0sR7eM3A5niiyIEZQsDLhefjw3s7MTmFcqTnALmh4nQgHLOHZCocDLPyHKVU7yrMqBvFmUvGH-wpRT6AsK05fulZNph4izEQT9YsK&new=1)
  > Esther｜撰文对AR/VR头显来讲，手势识别是一项关键技术。如果说电脑最直接的输入方式是键盘鼠标，那么目前AR/VR最直接的输入方式应该是手势操控，它甚至比手柄用起来更方便。此前，Facebook Reality Labs就曾表...
- ## [5G定位技术](http://mp.weixin.qq.com/s?src=11&timestamp=1604624405&ver=2689&signature=uUMGdE9l9HxUeooZ4gxG2kxK0BnVbXQtNZItHRWAm9BZo3ll3IFc9i2yAWKTFiyiFnVinodgKmJlZ*i3SFgPI1kG20REw56vaLNL2gkP2vXh4hVdj3iRO0Ddc6Qi81Jd&new=1)
- > 从2G到4G，蜂窝网络的定位技术主要有：E-CID、AoA、ToA、TDOA等。E-CID传统基站分为三个扇区，一个扇区对应一个小区，每扇区通常120度，每个小区都有不同的识别码（Cell ID）。由于基站的经纬度是已知的，根据Ce...
- ## [云创大数据受邀参加江苏鲲鹏昇腾生态大会](http://mp.weixin.qq.com/s?src=11&timestamp=1604624405&ver=2689&signature=jrz-thKXeLZ27*d-Srhvnp7GfmKePE9NGNeVkvvKeiTdvFQyj5uLz7NFWw0e1JtAZVwuhVCqnlog2IkmDh5gFtaLveFqqdTj45pijElbEwXY2t5oT6Ovx-9MqdLhV4bt&new=1)
- > 为展示江苏鲲鹏昇腾生态产业成果，推动江苏鲲鹏昇腾计算产业持续发展，“鲲鹏昇腾生态大会·江苏”于11月5日上午在南京召开。本次大会得到江苏省工业和信息化厅、南京市人民政府的指导，由南京市江北新区管理委...
- ## [内部代号Project Deschutes的微软Cloud PC曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1604624405&ver=2689&signature=oJ41MNoKIamJS-*ihklgiT5WA0V7fJM6JAxK409slu8puQhAk61YbijBhPJrnS7-pBsKKeyog5mix-99o8tp-ckWiKp9BujYhToRU4UGfBGjFFeMSE6qF69QoPIsOrXL&new=1)
+ ## [\[报告\]2020年洞见汽车新机遇(人群篇)(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604628004&ver=2689&signature=-vKQb5RAKjXbHQarK*bqPuqUt1NwqWQ8zxcIjxLPYjo5UNEiDNJMe2eDBkRWEZAcR-*wwDcJSgjtSHwyHnVvontPCowCQEjxXlsoPO7V4xr04tbW46kF-NMl8r9P6T8r&new=1)
+ > 2020年上半年汽车市场销量经历过山车式发展，年初跌入谷底，Q2快速回暖，销量变化背后还有哪些变化？本文将重点从⑴女性成为购车新势力；⑵年轻人购车需求多维展现；⑶下沉市场下沉愈发明显，决策轻量化等角度展...
+ ## [内部代号Project Deschutes的微软Cloud PC曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1604628004&ver=2689&signature=oJ41MNoKIamJS-*ihklgiT5WA0V7fJM6JAxK409slu8puQhAk61YbijBhPJrnS7-poeINJ-0Z9z4pjObUkUNdyoJluW-cTILry1WbplWTBp25MMCzo1anmuk8rLVIkyi&new=1)
  > 此前曾有消息称微软内部正在开发一项名为Cloud PC的新服务，该服务基于Windows Virtual Desktop为用户提供Desktop as a Service。微软Cloud PC核心是为企业用户提供现代化、弹性和基于云端的Wi
+ ## [5G定位技术](http://mp.weixin.qq.com/s?src=11&timestamp=1604628004&ver=2689&signature=uUMGdE9l9HxUeooZ4gxG2kxK0BnVbXQtNZItHRWAm9BZo3ll3IFc9i2yAWKTFiyiunPLjlCkYXyetlgyhmsA*ZM60HpEYNOy19u0UscgzEnVWdRFS15uzFc6hlE5yVYo&new=1)
+ > 从2G到4G，蜂窝网络的定位技术主要有：E-CID、AoA、ToA、TDOA等。E-CID传统基站分为三个扇区，一个扇区对应一个小区，每扇区通常120度，每个小区都有不同的识别码（Cell ID）。由于基站的经纬度是已知的，根据Ce...
+ ## [云创大数据受邀参加江苏鲲鹏昇腾生态大会](http://mp.weixin.qq.com/s?src=11&timestamp=1604628004&ver=2689&signature=jrz-thKXeLZ27*d-Srhvnp7GfmKePE9NGNeVkvvKeiTdvFQyj5uLz7NFWw0e1JtAUc6k4VreEexf0rOndGzN-tbOhB4-NwsRsrsi8oNrh4WQZUR2AAd9G*ZqyMaUW9eD&new=1)
+ > 为展示江苏鲲鹏昇腾生态产业成果，推动江苏鲲鹏昇腾计算产业持续发展，“鲲鹏昇腾生态大会·江苏”于11月5日上午在南京召开。本次大会得到江苏省工业和信息化厅、南京市人民政府的指导，由南京市江北新区管理委...
 # IT 技术 
+ ## [老板下了死命令，要上微服务！](http://developer.51cto.com/art/202011/631071.htm)
+ > 老板下了死命令，要上微服务！
  ## [机器学习技术之什么是集成学习？](http://ai.51cto.com/art/202011/631016.htm)
  > 机器学习技术之什么是集成学习？
  ## [如何在Windows 10 20H2下优化存储和硬盘？](http://os.51cto.com/art/202011/631013.htm)
@@ -27,16 +33,20 @@ categories: IT NEWS
  > 美版iPhone 12独占的5G毫米波 ，和国行版有什么不同？
  ## [牛掰了！鸿蒙与Android完美融合，将鸿蒙设备当Android设备用](http://developer.51cto.com/art/202011/630872.htm)
  > 牛掰了！鸿蒙与Android完美融合，将鸿蒙设备当Android设备用
- ## [CTO要我把这份MySQL规范贴在工位上！](http://database.51cto.com/art/202011/630925.htm)
- > CTO要我把这份MySQL规范贴在工位上！
- ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
- > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（八）：MySQL主从复制集群配置
+ ## [应用编译，计算机中一定要掌握的知识细节](http://developer.51cto.com/art/202011/631068.htm)
+ > 在本文中，我们基本了解了一个应用程序是怎么从源代码编译到最终的机器码，其中每一步展开都是一块非常大的
+ ## [Docker：恢复对开源项目的无限制访问](http://os.51cto.com/art/202011/631066.htm)
+ > 继宣布针对免费用户的拉速限制声明之后，Docker 现如今又透露了进一步的策略更新，旨在恢复对开源项目的无
+ ## [一道阿里web前端面试题看出你的JS基本功](http://developer.51cto.com/art/202011/631065.htm)
+ > 学习前端知识是一个漫长且艰辛的过程，我们很多时候被眼前的高楼大厦蒙蔽了双眼，却忽视了作为基础的钢筋水
+ ## [10分钟让你快速上手Vue3](http://developer.51cto.com/art/202011/631064.htm)
+ > 经过了漫长地迭代，Vue 3.0 终于在上 2020-09-18 发布了，带了翻天覆地的变化，使用了 Typescript 进行了大
  ## [邬贺铨院士：边缘计算“新十问”](http://cloud.51cto.com/art/202011/631062.htm)
  > 在过去两年中，边缘计算产业得到了长足发展，市场参与者也是越来越多。在今天举行的“中国移动‘5G+E’网边
  ## [消息架构的设计难题以及应对之道](http://developer.51cto.com/art/202011/631061.htm)
  > 在微服务开发中我们经常会引入消息中间件实现业务解耦，执行异步操作， 现在让我们来看看使用消息中间件的
- ## [从零搭建一个自动化运维体系](http://os.51cto.com/art/202011/631059.htm)
- > 基于AIOps理念研发的新一代运维监大屏 全盘展示IT运行状态，减轻运维人员的重复性工作量，提高IT系统排错速
  ## [看不懂UI文字设计规范？这篇文章帮你搞定！](http://mobile.51cto.com/design-631058.htm)
  > UI设计中，文字设置是必不可少的一环。文字设置过程中涉及到字体类型、字号、字重、行高、行宽以及颜色等。
  ## [想做数据分析？先避开这4个新手常见的错误！](http://bigdata.51cto.com/art/202011/631056.htm)
@@ -45,16 +55,12 @@ categories: IT NEWS
  > 经历了以改进和错误修复为主的 iOS 14.1 之后，iOS 14 终于迎来了第二个大版本更新，在今天凌晨推出了 iOS
  ## [JavaScript中你不知道的函数](http://developer.51cto.com/art/202011/631054.htm)
  > 在JavaScript中，对于函数的声明有两种表达形式， 声明式 和 表达式 ，至于其他函数(如立即执行函数，箭头
- ## [如何让Nodejs服务器优雅地退出](http://server.51cto.com/sOS-631052.htm)
- > 假设我们启动了一个服务器，接收到了一些客户端的请求，这时候，如果我们想修改一个代码发布，需要重启服
- ## [使用Map时，需要考虑什么](http://developer.51cto.com/art/202011/631051.htm)
- > 关于Java中的Map，已有很多文章讲述其较为完整的知识点了，本文不会再谈论这些知识点，而是从实际使用的角
- ## [如何并发执行Linux命令](http://os.51cto.com/art/202011/631048.htm)
- > 串行是按照顺序一条接着一条的执行命令，与串行相对的是多条命令同时执行，称做并行。
  ## [为什么我总是不能抢买到“秒杀商品”？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/109474892)
  > 为什么我总是不能抢买到“秒杀商品”？
  ## [Java 地位不保，落后已成定局 ？| 10月编程语言排行](https://blog.csdn.net/turingbooks/article/details/109127152)
  > Java 地位不保，落后已成定局 ？| 10月编程语言排行
+ ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
+ > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [两款影视APP已经伪装上架App Store 真怕它失效了！](https://blog.csdn.net/solopaiwang/article/details/109405454)
  > 两款影视APP已经伪装上架App Store 真怕它失效了！
  ## [基于springboot的文件上传](https://blog.csdn.net/qq_43137699/article/details/109479055)
@@ -79,38 +85,36 @@ categories: IT NEWS
  > SQL分页查询方案的性能对比
  ## [CSDN Chrome插件来了。助开发者提升开发效率，远离996](https://blog.csdn.net/weixin_44463441/article/details/109071551)
  > CSDN Chrome插件来了。助开发者提升开发效率，远离996
- ## [物联网智能空气环境监测系统解决方案](https://blog.csdn.net/weixin_48039531/article/details/109388237)
- > 物联网智能空气环境监测系统解决方案
 # 人工智能 
- ## [Unity中GameObject组件介绍](https://blog.csdn.net/hu1262340436/article/details/109449048)
- > Unity中GameObject组件介绍
- ## [2020淘宝双11自动刷喵币脚本](https://blog.csdn.net/qq_26822029/article/details/109445739)
- > 2020淘宝双11自动刷喵币脚本
- ## [这个双十一，我被淘宝“套娃”游戏整懵了](https://blog.csdn.net/guoguo527/article/details/109468608)
- > 这个双十一，我被淘宝“套娃”游戏整懵了
- ## [逢七必过小游戏](https://blog.csdn.net/qq_37340973/article/details/109464459)
- > 逢七必过小游戏
- ## [用c语言实现三子棋，它来了！！](https://blog.csdn.net/qq_46877337/article/details/109473951)
- > 用c语言实现三子棋，它来了！！
- ## [2020nlp算法秋招上岸流水账+面经](https://blog.csdn.net/baidu_32353439/article/details/109488966)
- > 2020nlp算法秋招上岸流水账+面经
- ## [上手评测感受rtx3070和rtx3080对比-rtx3070和rtx3080选哪个](https://blog.csdn.net/W12345DE5/article/details/109484267)
- > 上手评测感受rtx3070和rtx3080对比-rtx3070和rtx3080选哪个
- ## [牛半仙的妹子Tree(Nowcoder)](https://blog.csdn.net/weixin_43823476/article/details/109461718)
- > 牛半仙的妹子Tree(Nowcoder)
- ## [三子棋游戏（C语言版）](https://blog.csdn.net/qq2977078774/article/details/109409664)
- > 三子棋游戏（C语言版）
- ## [大厂算法面试题合集：谷歌+百度+阿里+字节+腾讯+网易+360+拼夕夕](https://blog.csdn.net/m0_46995061/article/details/109467919)
- > 大厂算法面试题合集：谷歌+百度+阿里+字节+腾讯+网易+360+拼夕夕
- ## [div2 D. Extreme Subtraction](https://blog.csdn.net/weixin_46471979/article/details/109466832)
- > div2 D. Extreme Subtraction
- ## [经典三子棋小游戏（C语言版）](https://blog.csdn.net/weixin_44951358/article/details/109470691)
- > 经典三子棋小游戏（C语言版）
- ## [用 JavaScript 实现寻路算法 —— 编程训练](https://blog.csdn.net/TriDiamond6/article/details/109483579)
- > 用 JavaScript 实现寻路算法 —— 编程训练
- ## [摸鱼吗？不会我教你啊](https://blog.csdn.net/pythonxiaopeng/article/details/109469759)
- > 摸鱼吗？不会我教你啊
- ## [C语言水果忍者修改器(入门版)](https://blog.csdn.net/O8088/article/details/109499360)
- > C语言水果忍者修改器(入门版)
+ ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
+ > android 常见面试题（三）
+ ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
+ > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
+ ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
+ > Android~adb卸载系统预装应用（亲测有效）
+ ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
+ > AS-修改APP图标和名字
+ ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
+ > android开发：小米手机开发时非要sim卡才能调试怎么办？
+ ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
+ > android.media.MediaCodec$CodecException: Error 0xfffffc0e
+ ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
+ > 安卓APP的http访问权限
+ ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
+ > flutter 的像素尺寸
+ ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
+ > googlePlay 找不到发布的应用
+ ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
+ > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
+ ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
+ > 使用FlexboxLayoutManager来实现流式布局
+ ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
+ > android.view.InflateException Error inflating class android.webkit.WebView
+ ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
+ > Unity | 总结：OCR文字识别、公式识别
+ ## [Unity2019中的android动态申请权限（Permissions）](https://blog.csdn.net/osuckseed/article/details/101302796)
+ > Unity2019中的android动态申请权限（Permissions）
+ ## [Android 修改WiFi热点的默认SSID和密码](https://blog.csdn.net/zhoumushui/article/details/101304530)
+ > Android 修改WiFi热点的默认SSID和密码
 
     
