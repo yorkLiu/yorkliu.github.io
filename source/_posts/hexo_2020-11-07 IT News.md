@@ -1,21 +1,21 @@
 ---
 title: 2020-11-07 IT News
 copyright: true
-date: 2020-11-07 08:14:42
+date: 2020-11-07 09:08:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[进博会观察\]3D打印机走进家庭、机器人供不应求……疫情下的工业机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1604707205&ver=2691&signature=IIkMkieEJIgT-0mdC*oSn1S2y2K2f3UPkf1eb2BJa4mrM7vvmsEiEC4t6Ey2zO4Vut7XGiBk*vMYvrTyxoDJZr3MqEVx9DNuD2t962FPaXw=&new=1)
- > 经济观观察网 记者 宋笛 11月7日，UNIZ的3D打印机IBEE即将在美国上线，而在一天前，机器已经在进博会馆中展出。UNIZ 创始人兼CEO 李厚民等待这个机会等了两年，尽管这家公司的产品大部分销往欧美市场，但进博会...
- ## [车路协同还需多久，未来出行图景是什么?行业大咖献上脑洞……](http://mp.weixin.qq.com/s?src=11&timestamp=1604707205&ver=2691&signature=mMFKD-NMJ*dp3fa61-6vpNfT2zYwPVRiZwVoyXnir*ySIYxVTYaC6997C9EY*37TmgJSnYTKW4Jljf-BdK0DGJ4jgc7bXA7e1C4AfyIdj1k-39QF0cOtcEe*uBMem-Yn&new=1)
- > ◎ 科技日报记者 金凤未来二三十年，智慧出行可能会颠覆你的想象！随着机器人、人工智能、大数据、5G、新能源等引入汽车产业，未来智慧出行正经历前所未有的重大变革。11月6日下午，在进博会“第四次工业革命与...
- ## [XRSPACE MANOVA社交平台和一体机发布，目标瞄准10亿用户](http://mp.weixin.qq.com/s?src=11&timestamp=1604707205&ver=2691&signature=eEbkZzTrxaGpkc2nbQ3Yh*LXmEl5dSBQWY2w4Kzf6gcW1Se35b2l4i4fg5EbnlyscVefTAcGrVz5Qn2-Ga8iMHu6M*WMWSPq1pdTzi-f8C0WFQJ*hsHo5*5vaqr3Ta6v&new=1)
+ ## [XRSPACE MANOVA社交平台和一体机发布，目标瞄准10亿用户](http://mp.weixin.qq.com/s?src=11&timestamp=1604710805&ver=2691&signature=eEbkZzTrxaGpkc2nbQ3Yh*LXmEl5dSBQWY2w4Kzf6gewC9Bmpp8f9ds31t*VWKusvq-KjZ1kBBMFMv6rfBJDIsQcPMdNEkeZrypnSuudne9-2EEJ7DjgZwcQ10c6XsCn&new=1)
  > Esther｜撰文Metaverse、Multiverse、Magicverse这些概念描绘了未来叠加在真实世界之上美好的虚拟化世界，但真正规模化的虚拟世界似乎距离我们还很远。与《Rec Room》等社交应用不同，VR需要一种集合各种社交功
- ## [第九届“中国软件杯”大学生软件设计大赛总决赛落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1604707205&ver=2691&signature=SxmJ1ZT2p-SjjMBq5XIs3eRLvHgMwFkO0-lMnYgg39Vdx2LG973YnKRtd2w4bxgoUZeY*CCNG*v3Q4n4pUqGXaO8psncJDlj*7M9WltDyPBUhjCiZPI4vTTX2L334OSs&new=1)
- > 11月3-5日，第九届“中国软件杯”大学生软件设计大赛（以下简称大赛）总决赛在江苏常州圆满举办。经过九年积累，大赛已经吸引包括全部985、211高校在内的千余所院校、数万支团队、二十余万名软件与计算机及相关...
- ## [主播说联播|各种“神器”亮相进博会，康辉中意啥?](http://mp.weixin.qq.com/s?src=11&timestamp=1604707205&ver=2691&signature=fk1zclsYJ7fS8f1jtE*rcf9eU0rXOKCQzADvNJpQCbXUNp8TwcsYHM*GCBIldfdoV-z2MOH5CRgTc94AI4hZdVmILa7zWDgcPCyBRkZ94cW2jmye6KzopQ73478DU3O4&new=1)
+ ## [\[进博会观察\]3D打印机走进家庭、机器人供不应求……疫情下的工业机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1604710805&ver=2691&signature=IIkMkieEJIgT-0mdC*oSn1S2y2K2f3UPkf1eb2BJa4kZeJ*7mdXSwceX9Q*6o6i9Y0kYQl-uqCIHGa703fdmXYIbOiPJ130BaV3IDGZ6SRo=&new=1)
+ > 经济观观察网 记者 宋笛 11月7日，UNIZ的3D打印机IBEE即将在美国上线，而在一天前，机器已经在进博会馆中展出。UNIZ 创始人兼CEO 李厚民等待这个机会等了两年，尽管这家公司的产品大部分销往欧美市场，但进博会...
+ ## [车路协同还需多久，未来出行图景是什么?行业大咖献上脑洞……](http://mp.weixin.qq.com/s?src=11&timestamp=1604710805&ver=2691&signature=mMFKD-NMJ*dp3fa61-6vpNfT2zYwPVRiZwVoyXnir*zulGNpjUsu7CDxjL2uPh96IiUsC1qtbALGoUmea*s*KvnDAN5lo*nfdQO15AifqrwuXM7kzOOiKFBcg655JBMs&new=1)
+ > ◎ 科技日报记者 金凤未来二三十年，智慧出行可能会颠覆你的想象！随着机器人、人工智能、大数据、5G、新能源等引入汽车产业，未来智慧出行正经历前所未有的重大变革。11月6日下午，在进博会“第四次工业革命与...
+ ## [主播说联播|各种“神器”亮相进博会，康辉中意啥?](http://mp.weixin.qq.com/s?src=11&timestamp=1604710805&ver=2691&signature=fk1zclsYJ7fS8f1jtE*rcf9eU0rXOKCQzADvNJpQCbV3qf4tli06VWRVKp-MYrXJGpZoRjgQzwSiwpsZRZ4UtCnhtc7T1Id4hubotoQPElmHZA**UcXX2QhLkD5GirJm&new=1)
  > 今天，正在上海举行的第三届中国国际进口博览会迎来集中签约，各种“神器”纷纷亮相，主播康辉说“黑科技”背后的两大因素非常关键，戳视频↓↓↓康辉：进博会进入第二天，各种“神器”亮相：全球最小的心脏起搏...
+ ## [第九届“中国软件杯”大学生软件设计大赛总决赛落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1604710805&ver=2691&signature=SxmJ1ZT2p-SjjMBq5XIs3eRLvHgMwFkO0-lMnYgg39WAAIo2I6LFgYtT3lE3wmqUaIUgZXqOQzbIuJTA*X0zbZPe-jnoc34Ew0j5OC1EPpgfEya8Qi1e01S6fkdf*s1B&new=1)
+ > 11月3-5日，第九届“中国软件杯”大学生软件设计大赛（以下简称大赛）总决赛在江苏常州圆满举办。经过九年积累，大赛已经吸引包括全部985、211高校在内的千余所院校、数万支团队、二十余万名软件与计算机及相关...
 # IT 技术 
  ## [开发 | 老板下了死命令，要上微服务！](http://developer.51cto.com/art/202011/631071.htm)
  > 开发 | 老板下了死命令，要上微服务！
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 程序员成为高级管理者的三次跃升
  ## [87%的机器学习项目失败的十大原因](http://ai.51cto.com/art/202011/630961.htm)
  > 87%的机器学习项目失败的十大原因
- ## [ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09](http://fellow.51cto.com/art/202007/622206.htm?qd=51ctojrzd)
- > ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09
+ ## [新SpringCloud视频教程 分布式架构教程SpringCloud+Docker](http://fellow.51cto.com/art/202007/622449.htm?qd=51ctojrzd)
+ > 新SpringCloud视频教程 分布式架构教程SpringCloud+Docker
  ## [物联网如何重塑航空业](http://iot.51cto.com/art/202011/631142.htm)
  > 航空公司正在强调使用人工智能、云计算、物联网和区块链技术来创建完全数字化的部门。物联网在航空领域的采
  ## [通过美团Java后端三面，成功拿到20K的offer](https://blog.csdn.net/Lubanjava/article/details/109105901)
@@ -66,35 +66,35 @@ categories: IT NEWS
  ## [OpenCV学习+常用函数记录②：图像卷积与滤波](https://blog.csdn.net/Arcann/article/details/109427315)
  > OpenCV学习+常用函数记录②：图像卷积与滤波
 # 人工智能 
- ## [postman系列之入门指南和常用技巧整理](https://blog.csdn.net/u014427391/article/details/109205968)
- > postman系列之入门指南和常用技巧整理
- ## [Git的安装教程（完成clone一个项目到本地）](https://blog.csdn.net/weixin_43423864/article/details/109501448)
- > Git的安装教程（完成clone一个项目到本地）
- ## [NGK打造超强社区共识](https://blog.csdn.net/nianqi110/article/details/109492390)
- > NGK打造超强社区共识
- ## [基于DYDX闪电贷在Cofix和Uniswap之间套利](https://blog.csdn.net/viiimaus/article/details/109495146)
- > 基于DYDX闪电贷在Cofix和Uniswap之间套利
- ## [FISCO BCOS离线无网络部署安装系列教程之底层链的部署安装（思路二）](https://blog.csdn.net/ws327443752/article/details/109514201)
- > FISCO BCOS离线无网络部署安装系列教程之底层链的部署安装（思路二）
- ## [etcd网络层源码分析(四)——pipeline通道实现](https://blog.csdn.net/m0_37731056/article/details/109329856)
- > etcd网络层源码分析(四)——pipeline通道实现
- ## [Linux服务器安装node](https://blog.csdn.net/LittlePoem/article/details/109492864)
- > Linux服务器安装node
- ## [了解公司企业：Terraform](https://blog.csdn.net/Cyber_Xd/article/details/109484669)
- > 了解公司企业：Terraform
- ## [谷歌华为布局Filecoin技术，共识性越强，FIL币价上千破万是必然](https://blog.csdn.net/weixin_50492991/article/details/109489190)
- > 谷歌华为布局Filecoin技术，共识性越强，FIL币价上千破万是必然
- ## [Bitcoin Computer——操作比特币](https://blog.csdn.net/Edward_sv/article/details/109501100)
- > Bitcoin Computer——操作比特币
- ## [TronChain波场链-与你一起构筑未来【必看】](https://blog.csdn.net/weixin_42972176/article/details/109500680)
- > TronChain波场链-与你一起构筑未来【必看】
- ## [媒体：蚂蚁金服上市时间或推迟半年左右](https://blog.csdn.net/penggerhe/article/details/109483205)
- > 媒体：蚂蚁金服上市时间或推迟半年左右
- ## [FPS辅助制作实战教程——CE内存人物透视/高亮/线条基址](https://blog.csdn.net/qq_33608000/article/details/109487637)
- > FPS辅助制作实战教程——CE内存人物透视/高亮/线条基址
- ## [计算机科学——web](https://blog.csdn.net/weixin_51535930/article/details/109518727)
- > 计算机科学——web
- ## [FISCO BCOS离线无网络部署安装系列教程之底层链的部署安装（思路一）](https://blog.csdn.net/ws327443752/article/details/109487166)
- > FISCO BCOS离线无网络部署安装系列教程之底层链的部署安装（思路一）
+ ## [mongoTemplate的方法和update()](https://blog.csdn.net/leinminna/article/details/101277443)
+ > mongoTemplate的方法和update()
+ ## [在Vue+Element中，Select选项值动态从后台接口获取的实现方法](https://blog.csdn.net/DZY_12/article/details/101295167)
+ > 在Vue+Element中，Select选项值动态从后台接口获取的实现方法
+ ## [Mysql实现查询5分钟之前的数据](https://blog.csdn.net/Charles_lxx/article/details/101282929)
+ > Mysql实现查询5分钟之前的数据
+ ## [按键精灵-自定义函数time(),datetime(),diff()](https://blog.csdn.net/biao197/article/details/101313954)
+ > 按键精灵-自定义函数time(),datetime(),diff()
+ ## [数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法](https://blog.csdn.net/qq_32641813/article/details/101281264)
+ > 数据库执行update语句没有反应，一直转圈，数据库锁表处理解决方法
+ ## [【MyBatis&MyBatis-plus】分页查询避免两次查询同时返回总数和数据](https://blog.csdn.net/qgnczmnmn/article/details/101298599)
+ > 【MyBatis&amp;MyBatis-plus】分页查询避免两次查询同时返回总数和数据
+ ## [ERD图](https://blog.csdn.net/weixin_44682507/article/details/101289864)
+ > ERD图
+ ## [怎么往mysql表里添加数据](https://blog.csdn.net/weixin_39891030/article/details/101292278)
+ > 怎么往mysql表里添加数据
+ ## [连续登录天数计算](https://blog.csdn.net/woloqun/article/details/101280577)
+ > 连续登录天数计算
+ ## [小程序云函数中用group分组查询，只能查询20条，怎么解决？](https://blog.csdn.net/sage07/article/details/101291431)
+ > 小程序云函数中用group分组查询，只能查询20条，怎么解决？
+ ## [Sql性能优化看这一篇就够了](https://blog.csdn.net/HXNLYW/article/details/82979088)
+ > Sql性能优化看这一篇就够了
+ ## [flink 1.9.0 编译：flink-shaded-hadoop-2 找不到](https://blog.csdn.net/qq_21383435/article/details/101292110)
+ > flink 1.9.0 编译：flink-shaded-hadoop-2 找不到
+ ## [IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示](https://blog.csdn.net/qq_45012223/article/details/101265941)
+ > IDEA连接MySQL数据库，并把数据库数据在浏览器中进行展示
+ ## [ffmpeg vsync参数分析](https://blog.csdn.net/ternence_hsu/article/details/101276939)
+ > ffmpeg vsync参数分析
+ ## [oracle授权查询](https://blog.csdn.net/paocai_2019/article/details/101288859)
+ > oracle授权查询
 
     
