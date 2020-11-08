@@ -1,21 +1,21 @@
 ---
 title: 2020-11-08 IT News
 copyright: true
-date: 2020-11-08 08:01:56
+date: 2020-11-08 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [时政|李鸿忠廖国勋阴和俊与腾讯高级执行副总裁汤道生会谈](http://mp.weixin.qq.com/s?src=11&timestamp=1604793605&ver=2693&signature=awWOODgnX6oReTf9uFLCde86R7Ff*09Mq*zUlW1Mw5SPu1w2vypNI1QQS463H9Q2ddaya6JBDQzoG6jSmWfl9o6pOrE2dtvEmw4o2tOh6i2HQPqW1qapml5c3TUbhyAQ&new=1)
- > 7日下午，市委书记李鸿忠，市委副书记、市长廖国勋，市委副书记阴和俊在迎宾馆与腾讯公司高级执行副总裁汤道生一行会谈。李鸿忠表示，近年来，腾讯公司与我市在数据中心、众创空间、政务民生服务等方面开展紧密...
- ## [2020天翼智能生态博览会开幕 5G实时渲染隆重亮相!](http://mp.weixin.qq.com/s?src=11&timestamp=1604793605&ver=2693&signature=wISoHX6nC3n*PFG2zYAQM3sKplXIe4dLAUC2zjPwhFOUZXxVqCPjwHnC9DhSLJqrZ8BWoVHi5CoiOaqNwEuVXpFr580Mt29QWfR4Fy64VHf-jPBAz86oRxcee2Nz9E3c&new=1)
- > 11月7日，2020年天翼智能生态博览会在广州举行，本次天翼智能生态博览会以&quot;智享·云上&quot;为主题，全方位展示中国电信&quot;云改数转&quot;的战略方向。蓝海创意云作为中国电信坚实的生态合作伙伴携5G实时渲染云参与本届博览...
- ## [震惊：索要工资不成反被告!中国电信把员工告到法院了..](http://mp.weixin.qq.com/s?src=11&timestamp=1604793605&ver=2693&signature=m3eOfGwXjB7ivj9bK-UnWDWSNFmvm1PjXWfQsq96S4qXsBrKBjKqbbXxoLK2kcCqEOwZs9I0dw5WPAIc2MIVj6GdwbnezfYEuS9Tv*0EOUUETzgLWyQ2gUpB5eCtaoRc&new=1)
- > 近日，有网友在网上发布《中国电信鹿邑分公司恶意拖欠克扣工资》的文章，引起网友热议。为此，11月4日，中国电信鹿邑分公司，以当事人没有事实根据的情况下在大鹿邑APP，今日头条等网站上发布《中国电信鹿邑分公...
- ## [全面展示信息安全领域研发成果——电子六所盛大出席“2020年工业互联网安全成果展”](http://mp.weixin.qq.com/s?src=11&timestamp=1604793605&ver=2693&signature=hX0B*TW8X9lAdjR0PG9W1ivy3JUjbQXc0ex3GqCPi*A2Q12bTI*4lQ1zpnqOw9yZ19Vavk-jzNLJq5T8OKCv6kzmmnaAVhvtflIApZ-o3VIOfbyLwgM*eIVWbHJ*NDfH&new=1)
+ ## [全面展示信息安全领域研发成果——电子六所盛大出席“2020年工业互联网安全成果展”](http://mp.weixin.qq.com/s?src=11&timestamp=1604795405&ver=2693&signature=hX0B*TW8X9lAdjR0PG9W1ivy3JUjbQXc0ex3GqCPi*A2Q12bTI*4lQ1zpnqOw9yZEquuV0X8-ajVdhqSIoNjGL0MCbPtDe4Y9mI7YBfwVB0IEx9jM81u5ApQslRJSBDf&new=1)
  > 工业互联网安全成果展电子六所展位2020年11月4-6日，2020年工业互联网安全成果展在南京国际博览中心举行。电子六所作为工业互联网安全领域的重点企业应邀参展。以“牢记网络强国使命，打造网信核心竞争力”主题...
- ## [中国电信5G SA全球率先规模商用 并发布5G定制网](http://mp.weixin.qq.com/s?src=11&timestamp=1604793605&ver=2693&signature=zqkfI8LaofTqrIJ*R0gcoB197HuEag78H6k-kWDckC0I6RV2bSlO*jOjIvYOagF1khcnrsfxdT8aR5cVx3NpWmNfT1eZq6t04I5hRZ*3dYEYDtP2FWIXGagzEHU2rblP&new=1)
+ ## [时政|李鸿忠廖国勋阴和俊与腾讯高级执行副总裁汤道生会谈](http://mp.weixin.qq.com/s?src=11&timestamp=1604795405&ver=2693&signature=awWOODgnX6oReTf9uFLCde86R7Ff*09Mq*zUlW1Mw5SPu1w2vypNI1QQS463H9Q2ipwQtJpjwfddei6yN21A0980Bnt1Usvome4XUlxyBfYSP1srprfaTdbQ2x-Vc6RL&new=1)
+ > 7日下午，市委书记李鸿忠，市委副书记、市长廖国勋，市委副书记阴和俊在迎宾馆与腾讯公司高级执行副总裁汤道生一行会谈。李鸿忠表示，近年来，腾讯公司与我市在数据中心、众创空间、政务民生服务等方面开展紧密...
+ ## [2020天翼智能生态博览会开幕 5G实时渲染隆重亮相!](http://mp.weixin.qq.com/s?src=11&timestamp=1604795405&ver=2693&signature=wISoHX6nC3n*PFG2zYAQM3sKplXIe4dLAUC2zjPwhFOUZXxVqCPjwHnC9DhSLJqrCgVj-at5MAoz8h3aXVlXuH8U*MlrF9FoIk0pZn6WmI949wVNnnFRHA5Lz6pYGuxw&new=1)
+ > 11月7日，2020年天翼智能生态博览会在广州举行，本次天翼智能生态博览会以&quot;智享·云上&quot;为主题，全方位展示中国电信&quot;云改数转&quot;的战略方向。蓝海创意云作为中国电信坚实的生态合作伙伴携5G实时渲染云参与本届博览...
+ ## [中国电信5G SA全球率先规模商用 并发布5G定制网](http://mp.weixin.qq.com/s?src=11&timestamp=1604795405&ver=2693&signature=zqkfI8LaofTqrIJ*R0gcoB197HuEag78H6k-kWDckC0I6RV2bSlO*jOjIvYOagF1huVpF0WEzZbTEi5k8OkVkyfLoyIIx6dWdflvjU0rJZ1N4towyZxEnWJcnmDmkW0r&new=1)
  > 今日，以“智享·云上”为主题的“2020天翼智能生态博览会”在广州召开，同期举办的“第十二届天翼智能生态产业高峰论坛”上，中国电信正式启动5G SA全球率先规模商用，并发布中国电信5G定制网。中国电信总经理...
+ ## [震惊：索要工资不成反被告!中国电信把员工告到法院了..](http://mp.weixin.qq.com/s?src=11&timestamp=1604795405&ver=2693&signature=m3eOfGwXjB7ivj9bK-UnWDWSNFmvm1PjXWfQsq96S4qXsBrKBjKqbbXxoLK2kcCqyOJ5N5KQwsthH2DljSMcyjorlm9Y9*dMvYuDI09jkhjnwDCuVABE5OCHFR*yai8p&new=1)
+ > 近日，有网友在网上发布《中国电信鹿邑分公司恶意拖欠克扣工资》的文章，引起网友热议。为此，11月4日，中国电信鹿邑分公司，以当事人没有事实根据的情况下在大鹿邑APP，今日头条等网站上发布《中国电信鹿邑分公...
 # IT 技术 
  ## [开发 | 老板下了死命令，要上微服务！](http://developer.51cto.com/art/202011/631071.htm)
  > 开发 | 老板下了死命令，要上微服务！
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 程序员成为高级管理者的三次跃升
  ## [87%的机器学习项目失败的十大原因](http://ai.51cto.com/art/202011/630961.htm)
  > 87%的机器学习项目失败的十大原因
- ## [新SpringCloud视频教程 分布式架构教程SpringCloud+Docker](http://fellow.51cto.com/art/202007/622449.htm?qd=51ctojrzd)
- > 新SpringCloud视频教程 分布式架构教程SpringCloud+Docker
+ ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
+ > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
  ## [一行Python代码能做出哪些神器的事情](https://blog.csdn.net/bigzql/article/details/109507814)
  > 一行Python代码能做出哪些神器的事情
  ## [Java惨败，Python成功上位 | 11月编程语言排行](https://blog.csdn.net/turingbooks/article/details/109523526)
