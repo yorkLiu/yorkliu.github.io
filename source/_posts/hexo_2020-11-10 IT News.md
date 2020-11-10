@@ -1,24 +1,32 @@
 ---
 title: 2020-11-10 IT News
 copyright: true
-date: 2020-11-10 08:57:47
+date: 2020-11-10 09:49:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [人工智能、机器人等新工科“大火”，看企业如何赋能高校教育](http://mp.weixin.qq.com/s?src=11&timestamp=1604968205&ver=2697&signature=OQUvUidm1yOzgoMXhI6DZWc0uRvZsuOBuWG6B69pHqDNCR7MHGKIxbakmG01puilnqBLhhVUg0r6tMfoQDFTZ13ogS8dI-6FvFxph39h3DfVt2GnCVzek8SJYM8zj74b&new=1)
- > 看点：优必选科技全新亮相高博会，为高校教育注入新动力。智东西11月9日长沙报道，第55届“中国高等教育博览会（2020）”（以下简称高博会）于11月8日至10日在湖南长沙举办。高博会是中国高等教育领域规模最大、...
- ## [华为将于12月18日推出首款Harmony操作系统手机测试版](http://mp.weixin.qq.com/s?src=11&timestamp=1604968205&ver=2697&signature=bYXSeZjhpo0XM*zfCQKVIcSocGqEPGP9i0*DdDa5KBabo65KLFtAPGFvTBWsjDPDMvyjlDHLq5i-7MSyt4mbUrmC3CRr7vy1w65aWMTfUDpw*Np3YtST3Y2O7eeM4OHo&new=1)
- > 华为知道，即使美国新总统上任，谷歌服务的未来之路也可能不存在，因此该公司正全力推出自己的Harmony操作系统。据华为消费者业务集团软件部门总裁王成禄表示，该开源平台将于12月18日左右向开发者开放，第一批...
- ## [云网融合下，中国电信终端技术去哪儿?(附陆良军PPT和终端洞察报告PDF)](http://mp.weixin.qq.com/s?src=11&timestamp=1604968205&ver=2697&signature=6rAs7KzRHIyrotLb6C6cX8LfCd4QswJzgxad*byLg*ZKyPOZKybqEpQbjlESNkyxcBig6zhV6IsmGBfxUP1fPFMi6DjG8xCYFQbi-xWdQwOj7jFsaO3GvxYxDHP-yoUa&new=1)
+ ## [讯石专访|走进光无源厂家武汉沃隆云网：从传统产品向高端器件转型](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=U8OPu89ivLBKJVKfcQjEUZi60JwnUdWCPKLkEmb4o1NPL*TpJzEj8EYD0gZGpSH7m1Z-12A*H8hb9LnIulC29K8r7zZUUDwlcT9lvpq1JI0hGIbH9wlr9PBEqNguC8ZH&new=1)
+ > 新闻导读讯石拜访了光无源器件厂家武汉沃隆云网，向董事长律国军先生了解公司目前的发展进程。沃隆云网是武汉沃隆集团旗下子公司，主营产品主要有pigtail、准直器、波分复用器(CWDM/DWDM/PWDM)、MPO连接器、分路...
+ ## [云网融合下，中国电信终端技术去哪儿?(附陆良军PPT和终端洞察报告PDF)](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=6rAs7KzRHIyrotLb6C6cX8LfCd4QswJzgxad*byLg*bX5*9t3wLUYJ4TzIyyg9PDAgskHCUNwG*m4*HAyrp40LPFASlvnQLlLh2YAOM*oqt5vE9-FCdxZarncOEUizag&new=1)
  > 11月8日，在“中国电信终端技术与标准论坛”上，中国电信市场部副总经理陆良军公布了中国电信终端技术发展情况和下一步政策，他表示，目前中国电信移动终端、智家终端、物联终端均实现规模发展，如5G手机接入量...
- ## [南京“未来科技智慧中心”正式对外开放，硬蛋携手英特尔加速智慧未来城市建设](http://mp.weixin.qq.com/s?src=11&timestamp=1604968205&ver=2697&signature=zr4rPRqzU8ubDIlSCa*smI26ofytTC7xIiHqm72L5XGA216qmnPHgvIkzDbzKxl14iBFYCY5D-VJpXtjdAZZOmQLf9F22Ixfj0cdLIvkPniPxOFa5I3CSUVCF05PMXr2&new=1)
+ ## [南京“未来科技智慧中心”正式对外开放，硬蛋携手英特尔加速智慧未来城市建设](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=zr4rPRqzU8ubDIlSCa*smI26ofytTC7xIiHqm72L5XH-61aw-HTLlhzvIsPjixP5YDx2bXydFOJcKk-TgXCpsJqNjON0cgtTov-jlkfHlzLNOWjijuaVN3Nu-1nf1YdN&new=1)
  > 英特尔与南京经济技术开发区11月3日共同宣布“未来科技智慧中心”正式对外开放，开启招募企业入驻，完善智慧未来创新生态，并举办开放日活动，共同展示了智慧园区的智能化升级成果。英特尔还介绍了与生态合作伙...
- ## [拜登上位，科技公司喜忧参半](http://mp.weixin.qq.com/s?src=11&timestamp=1604968205&ver=2697&signature=xDlTPTLM6-81tE2cynatYhGm1NyiU71CBB0*NiZwhdpwuMayVsmdoCrl-9s*8IhymATVa4t2IlMrk6RTrtiyGfmz0SLD*cbU-9i5XpuLLPcfIOdQ*hMMYOrFf4g6qT97&new=1)
+ ## [\[报告\]2020长城汽车最新深度解析(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=eQhJFCuW5U1SBiBIxsTnOjIJQmqMaIXHt00dfLID61b5RkSPBOecO2iE*IsZJ8rmf8VorKiIdlX*NSpwGAJXjS755ieGqrrD-xkyLiuPeSeOf6bpJUrzweg4NUc*O7Ox&new=1)
+ > 长城汽车的前身是成立于1984年的长城汽车制造厂。公司也是国内首家在香港H股上市的民营汽车企业，于2003年、2011年分别在H股和A股上市。目前拥有哈弗、WEY、长城皮卡好欧拉四大品牌，涵盖了SUV、轿车以及皮卡等...
+ ## [华为将于12月18日推出首款Harmony操作系统手机测试版](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=bYXSeZjhpo0XM*zfCQKVIcSocGqEPGP9i0*DdDa5KBb0ERDJF58E73rHcc2NvjYGaWbYcs72lEI8hPLxbDgQFe4XyUfJciaOCGk3XMW5JsL6QhK3bPSoNBtlS4Xj93OT&new=1)
+ > 华为知道，即使美国新总统上任，谷歌服务的未来之路也可能不存在，因此该公司正全力推出自己的Harmony操作系统。据华为消费者业务集团软件部门总裁王成禄表示，该开源平台将于12月18日左右向开发者开放，第一批...
+ ## [人工智能、机器人等新工科“大火”，看企业如何赋能高校教育](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=OQUvUidm1yOzgoMXhI6DZWc0uRvZsuOBuWG6B69pHqCnTKAY4lRg2j1twM4nQGPOhL*Op0ZYoKTd2k98N5Qd5s3ezyceVmbxlsRN1vbEWqqZQinpkV-FOW6095S-aj*R&new=1)
+ > 看点：优必选科技全新亮相高博会，为高校教育注入新动力。智东西11月9日长沙报道，第55届“中国高等教育博览会（2020）”（以下简称高博会）于11月8日至10日在湖南长沙举办。高博会是中国高等教育领域规模最大、...
+ ## [拜登上位，科技公司喜忧参半](http://mp.weixin.qq.com/s?src=11&timestamp=1604971804&ver=2697&signature=xDlTPTLM6-81tE2cynatYhGm1NyiU71CBB0*NiZwhdr0kH-77nCwZq3g72t*zXhkgTDnTgLkBApGVJnO5SDw3xbs7wOVUDv1rw85EhhbWS*o7Ns1npGALdIG824KV1PG&new=1)
  > 把特朗普赶下台的拜登，也不会是科技公司的庇护伞。没有任何一届美国总统大选的结果，如此让人揪心。经历了多半年的拉锯，总算是尘埃落定。民主党总统候选人拜登已经获得 270 张选举人票。尽管特朗普对邮寄选票...
 # IT 技术 
+ ## [苏宁超6亿会员如何做到秒级用户画像查询？](http://developer.51cto.com/art/202011/631379.htm)
+ > 苏宁超6亿会员如何做到秒级用户画像查询？
  ## [如何将PyTorch Lightning模型部署到生产环境？](http://ai.51cto.com/art/202011/631334.htm)
  > 如何将PyTorch Lightning模型部署到生产环境？
+ ## [手把手教您使用Mule ESB](http://developer.51cto.com/art/202011/631333.htm)
+ > 手把手教您使用Mule ESB
  ## [安卓手机的五项基本安全性检查](http://mobile.51cto.com/ahot-631136.htm)
  > 安卓手机的五项基本安全性检查
  ## [我是Redis，MySQL大哥被我害惨了！](http://stor.51cto.com/art/202011/631182.htm)
@@ -27,30 +35,28 @@ categories: IT NEWS
  > 鸿蒙Hi3861 NV操作――如何保存数据到开发板，断电不丢失
  ## [求求你，别再抛弃35岁大龄程序员了…](http://news.51cto.com/art/202011/631184.htm)
  > 求求你，别再抛弃35岁大龄程序员了…
- ## [每秒50W笔交易，阿里双十一，架构如何优化到极致！](http://zhuanlan.51cto.com/art/202011/631231.htm)
- > 每秒50W笔交易，阿里双十一，架构如何优化到极致！
- ## [如何从“菜鸟码农”变成“一线架构师”？](http://news.51cto.com/art/202011/631183.htm)
- > 如何从“菜鸟码农”变成“一线架构师”？
- ## [面向对象C零基础入门精讲视频教程（10）正则表达式及应用](http://fellow.51cto.com/art/202007/622207.htm?qd=51ctojrzd)
- > 面向对象C零基础入门精讲视频教程（10）正则表达式及应用
- ## [一个令人惊叹的Linux内核补丁](http://os.51cto.com/art/202011/631354.htm)
- > 我们都知道linux内核中的代码非常精妙，但是有些代码由于历史原因，一个函数为了兼容处理各种情况，到最后
- ## [重温Java泛型，带你更深入地理解它，更好的使用它！](http://developer.51cto.com/art/202011/631353.htm)
- > Java泛型是对Java语言的一个强大的补充，因为它使程序员的工作更容易，也更不容易出错。泛型在编译时强制执
- ## [API这样设计？等着程序挂掉吧！](http://developer.51cto.com/art/202011/631352.htm)
- > 假设提供的接口的入参比较复杂，可能有人会考虑使用结构体作为入参。当你考虑这么做的时候，灾难也将会随之
- ## [到底什么是Docker？什么是K8S？](http://os.51cto.com/art/202011/631351.htm)
- > 2010年，几个搞IT的年轻人，在美国旧金山成立了一家名叫“dotCloud”的公司。这家公司主要提供基于PaaS的云
- ## [通过物联网管理基础设施实现业务价值](http://iot.51cto.com/art/202011/631350.htm)
- > 使用物联网管理基础设施，通过传感器了解资产的状况，故障预测和相应的预防措施是高效、可靠的基础设施管理
- ## [数据科学VS统计学：你属于哪种职业，要不要转行？](http://news.51cto.com/art/202011/631349.htm)
- > 事实上，早在数据科学出现之前，我们已经有了一个非常相似的职业，现在也依然存在着――那就是统计学家。两
- ## [太好用了吧！6款立刻提升幸福度的工具软件](http://developer.51cto.com/art/202011/631348.htm)
- > 无论是生活还是职场，我们都希望所有事情可以轻松化，随着科技发展越来越多的人工智能，现代化工具融入我们
- ## [五个“小”物联网安全风险远比它们看起来要大](http://iot.51cto.com/art/202011/631347.htm)
- > 根据最近的一项调查显示，一半的参与组织表示，确保数据、网络和设备安全是成功采用物联网的最大挑战。
- ## [人工智能与物联网：应对自然灾害的新举措](http://ai.51cto.com/art/202011/631346.htm)
- > 技术，尤其是人工智能和物联网，不仅使我们能够加快对任何自然灾害的救援响应速度，而且还改善了灾害预测。
+ ## [MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04](http://fellow.51cto.com/art/202008/623588.htm?qd=51ctojrzd)
+ > MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04
+ ## [报告显示：国内前端开发工程师每年新增需求16万人](http://news.51cto.com/art/202011/631342.htm)
+ > 中国软件行业协会教育与培训委员会近日发布《软件与信息技术高职毕业生职业发展环境报告：前端开发工程师》
+ ## [程序员也需了解的主流云计算网络架构](http://developer.51cto.com/art/202011/631383.htm)
+ > 当前越来越多的企业将自己的业务迁移至云端，云计算的发展势头不可阻挡，身边好多朋友也纷纷购买云主机用来
+ ## [MySQL 启动失败的常见原因](http://database.51cto.com/art/202011/631381.htm)
+ > 专注于 Oracle、MySQL 数据库多年，Oracle 10G 和 12C OCM，MySQL 5.6，5.7，8.0 OCP。现在鼎甲科技任技术
+ ## [为什么 HugePages 可以提升数据库性能](http://database.51cto.com/art/202011/631371.htm)
+ > 为什么这么设计(Why’s THE Design)是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇
+ ## [Python 用5行代码学机器学习―线性回归](http://developer.51cto.com/art/202011/631370.htm)
+ > 我准备使用scikit-learn给大家介绍一些模型的基础知识，今天就来讲讲线性回归模型。
+ ## [Game Over？Capcom被勒索1100万美元](http://zhuanlan.51cto.com/art/202011/631369.htm)
+ > 在11月4日的一份新闻稿中Capcom透露遭遇勒索软件攻击，被迫停止了部分运营，该事件影响了其电子邮件和文件
+ ## [如何关掉网页的强制登录浮动层？](http://os.51cto.com/art/202011/631368.htm)
+ > 有些网站，在你没有登录的时候，会弹出一个强制登录的浮动层。挡住正文内容，又没有关闭按钮，必须登录才能
+ ## [Gartner：这些数字化转型的趋势，必须要知道](http://news.51cto.com/art/202011/631339.htm)
+ > 进入2020年下半年，Gartner陆续发布了对中国以及全球市场的当下技术热点把脉、未来趋势预测以及全球ICT市场
+ ## [制造业常见攻击类型介绍](http://netsecurity.51cto.com/art/202011/631366.htm)
+ > 本文立足制造业，梳理总结针对制造业的常见攻击类型，最终给出防护的建议。
+ ## [不用Jar 包的Agent？ 几行代码实现运行时增强？](http://developer.51cto.com/art/202011/631363.htm)
+ > 提起 JavaAgent，很多人都说几句，就像古龙武侠小说里的「孔雀翎」，威力很大，江湖上都是它的传说。但真的
  ## [FPS游戏自动瞄准敌人头部？是如何实现的（三）准星算法与实现自动瞄准](https://blog.csdn.net/qq_36553941/article/details/108793901)
  > FPS游戏自动瞄准敌人头部？是如何实现的（三）准星算法与实现自动瞄准
  ## [一行Python代码能做出哪些神器的事情](https://blog.csdn.net/bigzql/article/details/109507814)
@@ -82,35 +88,35 @@ categories: IT NEWS
  ## [基于springboot的文件上传](https://blog.csdn.net/qq_43137699/article/details/109479055)
  > 基于springboot的文件上传
 # 人工智能 
- ## [android 常见面试题（三）](https://blog.csdn.net/wk_beicai/article/details/101262897)
- > android 常见面试题（三）
- ## [大疆无人机安卓Mobile Sdk开发（一）简单介绍](https://blog.csdn.net/qq_26923265/article/details/88895067)
- > 大疆无人机安卓Mobile Sdk开发（一）简单介绍
- ## [Android~adb卸载系统预装应用（亲测有效）](https://blog.csdn.net/Bluechalk/article/details/101280560)
- > Android~adb卸载系统预装应用（亲测有效）
- ## [AS-修改APP图标和名字](https://blog.csdn.net/yiself/article/details/101284936)
- > AS-修改APP图标和名字
- ## [android开发：小米手机开发时非要sim卡才能调试怎么办？](https://blog.csdn.net/qq_34203714/article/details/101306451)
- > android开发：小米手机开发时非要sim卡才能调试怎么办？
- ## [android.media.MediaCodec$CodecException: Error 0xfffffc0e](https://blog.csdn.net/m0_37039192/article/details/101288646)
- > android.media.MediaCodec$CodecException: Error 0xfffffc0e
- ## [安卓APP的http访问权限](https://blog.csdn.net/pcplayer/article/details/101305862)
- > 安卓APP的http访问权限
- ## [flutter 的像素尺寸](https://blog.csdn.net/Ani/article/details/101263446)
- > flutter 的像素尺寸
- ## [googlePlay 找不到发布的应用](https://blog.csdn.net/ZhaoLuoss/article/details/101293663)
- > googlePlay 找不到发布的应用
- ## [android 7.0之后导入证书解决fiddler等软件无法解析加密报文](https://blog.csdn.net/liutianheng654/article/details/101287072)
- > android 7.0之后导入证书解决fiddler等软件无法解析加密报文
- ## [使用FlexboxLayoutManager来实现流式布局](https://blog.csdn.net/chenguang79/article/details/101283723)
- > 使用FlexboxLayoutManager来实现流式布局
- ## [android.view.InflateException Error inflating class android.webkit.WebView](https://blog.csdn.net/lvshuchangyin/article/details/101264629)
- > android.view.InflateException Error inflating class android.webkit.WebView
- ## [Unity | 总结：OCR文字识别、公式识别](https://blog.csdn.net/weixin_39766005/article/details/101217645)
- > Unity | 总结：OCR文字识别、公式识别
- ## [Unity2019中的android动态申请权限（Permissions）](https://blog.csdn.net/osuckseed/article/details/101302796)
- > Unity2019中的android动态申请权限（Permissions）
- ## [Android 修改WiFi热点的默认SSID和密码](https://blog.csdn.net/zhoumushui/article/details/101304530)
- > Android 修改WiFi热点的默认SSID和密码
+ ## [5G+AR出圈，中国移动咪咕成第33届中国电影金鸡奖全程战略合作伙伴](https://blog.csdn.net/xlkjshuo/article/details/109550173)
+ > 5G+AR出圈，中国移动咪咕成第33届中国电影金鸡奖全程战略合作伙伴
+ ## [红米note9和realmeq2pro哪个好](https://blog.csdn.net/weixin_51918019/article/details/109541253)
+ > 红米note9和realmeq2pro哪个好
+ ## [2020中国IT服务创新大会，看易捷行云新一代信创云的技术和生态创新](https://blog.csdn.net/k8scaptain/article/details/109545352)
+ > 2020中国IT服务创新大会，看易捷行云新一代信创云的技术和生态创新
+ ## [天合蓝天怎么样？共探5G助力清洁能源新时代](https://blog.csdn.net/weixin_38975266/article/details/109555871)
+ > 天合蓝天怎么样？共探5G助力清洁能源新时代
+ ## [2020九华论道——数字经济产业峰会将于11月13日在安徽池州隆重举行](https://blog.csdn.net/heidong137/article/details/109557614)
+ > 2020九华论道——数字经济产业峰会将于11月13日在安徽池州隆重举行
+ ## [5G知识之0G-5G的技术发展](https://blog.csdn.net/weixin_50988214/article/details/109561658)
+ > 5G知识之0G-5G的技术发展
+ ## [首届中国（北京）国际视听大会11月19日开幕](https://blog.csdn.net/ITguancha/article/details/109559652)
+ > 首届中国（北京）国际视听大会11月19日开幕
+ ## [图解通信原理与案例分析-18：低功耗、远距离物联网无线通信技术LoRa概述与扩频通信的基本原理](https://blog.csdn.net/HiWangWenBing/article/details/109550068)
+ > 图解通信原理与案例分析-18：低功耗、远距离物联网无线通信技术LoRa概述与扩频通信的基本原理
+ ## [简单科普下5G知识](https://blog.csdn.net/weixin_50344814/article/details/109553253)
+ > 简单科普下5G知识
+ ## [2020-11-08](https://blog.csdn.net/qq_41543788/article/details/109559546)
+ > 2020-11-08
+ ## [第25届光亚展圆满落幕，佰马科技砥砺再向前](https://blog.csdn.net/IOT_baimatech/article/details/109564434)
+ > 第25届光亚展圆满落幕，佰马科技砥砺再向前
+ ## [NFV和VNF的现状如何](https://blog.csdn.net/skydust1979/article/details/109563157)
+ > NFV和VNF的现状如何
+ ## [影驰gtx960显卡怎么样_影驰gtx960 2g_影驰gtx960 2g跑分](https://blog.csdn.net/qq635968970/article/details/109552806)
+ > 影驰gtx960显卡怎么样_影驰gtx960 2g_影驰gtx960 2g跑分
+ ## [700个项目，1万亿投资！广东新基建方案出炉！（附10省新基建政策汇总）](https://blog.csdn.net/uxuepai5g/article/details/109541710)
+ > 700个项目，1万亿投资！广东新基建方案出炉！（附10省新基建政策汇总）
+ ## [华为nova8和荣耀30哪个好-华为nova8和荣耀30区别](https://blog.csdn.net/weixin_51918019/article/details/109541199)
+ > 华为nova8和荣耀30哪个好-华为nova8和荣耀30区别
 
     
