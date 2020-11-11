@@ -1,32 +1,40 @@
 ---
 title: 2020-11-11 IT News
 copyright: true
-date: 2020-11-11 10:50:09
+date: 2020-11-11 12:30:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [讯石专访|华兴激光CEO罗帅博士：扩大外延产能迎接5G需求 用快捷服务获得客户认可](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=9segBP-vepC349Tdr-PLODMDtKR1a475Hn66aBJhvkCnVDA7jatAZsYKEhdH69AAKJE-nonOgntToKaEhZqbOVLaPa9Ajl**ihKJbij33iGF5Ul0a2veMOY6Pdvu2TOm&new=1)
- > 新闻导读讯石专访华兴激光总经理罗帅博士，作为国产光电子外延材料的优秀代表——华兴激光通过持续的研发投入，积极配合客户优化工艺及验证，扩大外延产能并保障产品交付，在5G通讯市场上帮助客户实现市场价值，...
- ## [新篇章：12激光SLM金属3D打印机开卖，速度提升20倍，工业批量化生产新利器](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=xis2PYBWE-NItduNgnfkz0Z8tG6meECJev6nBKiUPVisnW1-E6A5BC5NZ3wWbYpzZO3VoHcd1fskMx4lCroTwKw6xqmExCdgMx8Da*TJKW4zKVt*pk4I7wAbqk2y-PCs&new=1)
+ ## [新篇章：12激光SLM金属3D打印机开卖，速度提升20倍，工业批量化生产新利器](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=xis2PYBWE-NItduNgnfkz0Z8tG6meECJev6nBKiUPVisnW1-E6A5BC5NZ3wWbYpz8kE-lHNoPCMe0rt2-xaqUVNeVa4Z92FwbOzGx-9roQoehZBqFpQnqPKgABgpD-h-&new=1)
  > 南极熊导读：12激光器SLM金属3D打印机的到来，或许会对金属加工行业产生重大影响。由于打印生产效率的大幅提高，按照目前的金属3D打印服务价格，一个百万元级别的零件打印制造订单，可能几天就可以完成了；一个...
- ## [双11成交额破3723亿元!和你比拼剁手速度的，可能不是人……](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=XgJGuO9GqpP5JXKHh2vyUbkzgluta4n5fzjrClk7*87mxmny4DMinjV5aTzEhkdW-*wrIC8VGsUZ4fkwaX59B*OW*WSZTW66Mf4VosiE3ferQO2qn9XbO4SJ-rtjFDL-&new=1)
+ ## [Qualcomm创投宣布对Celona、Cellwize、Azion和Pensando进行战略投资](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=-TG94uyEZu7L*FHCu40CYTblJYc5JItNOJ*z160N1Di6EC*4XMdPxgzt6CXcMK*T-rxMwFJFhD1dyVcUnXy4OPk7I8hzwVss8QsEGAoGWGpAiteqEbsiMeiWvAs2x97H&new=1)
+ > Qualcomm要闻—进一步扩展5G初创企业投资组合Qualcomm创投今日宣布通过其5G生态系统风险投资基金对4家公司进行投资，助力生态系统创新并加速5G普及。新投资的4家公司包括：专注5G企业应用的企业联网平台提供商Ce...
+ ## [君和科技入驻未知大陆开店，专注齿科在线3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=BA9i-JyPWq4cFaGIoTI9rdmtoqenDcVxfenEzCc0x0sreB*FkyCVKJRT91TMJKxOtJOaUMostN5crHhoBZJiIuwjmI0Yz9KItgiqmPxiBs16zEUAX-aKsFmtPqHbkaWR&new=1)
+ > 2020年11月10日，新乡君和科技有限公司在未知大陆平台开设的3D打印服务店铺(&gt;&gt;阅读原文)正式上线运营。创始团队由3D打印材料专家张勇博士领衔，牙科打印材料、工艺等全部自主研发，可调、可控、可升级，可批量3D...
+ ## [苹果正式发布自研 M1 处理器；神州数码回应：未与华为就荣耀出售达成任何协议；Ant Design 4.8.1发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=5mzIJfO2F6KUCRnK7ETck1zYSxvchnL-6j42Jokktpm32eoqcjgwDVQAarY3-VW-yAs4BZ4GtcuHCBDa*uICLJASxuWvR*8P*lSy34vAJnys-ksdoLwonaXDEeIUrBCB&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
+ ## [双11成交额破3723亿元!和你比拼剁手速度的，可能不是人……](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=XgJGuO9GqpP5JXKHh2vyUbkzgluta4n5fzjrClk7*87mxmny4DMinjV5aTzEhkdWFk3IOLxkTGgo85ftBAPXGlToPDU*O4QYtcs0cfIJ5CrECC6WIn5s*aZYyvsxwGEk&new=1)
  > ◎ 科技日报记者 陈曦据悉，今年天猫双11，1日0点至11日0点30分总成交额破3723亿元。11月1日00:00至11月11日00:09，京东11.11全球热爱季累计下单金额突破2000亿元。双十一，你剁手了吗？图源：天猫发言人“双十...
- ## [\[科技早报7点整\]华为或剥离荣耀卖1000亿 苹果回应iPhone12信号差……](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=OJm8tWCPEocI5ZYM8PYcc*n*0S1ZXpoUXoNb3ZG5f41MvdY2wbDQg9mLvmeMCiYUgMJmkcx-34A4TlK*v9tflNjfQuDeWTfEbDJyiZCLOCj9eOOqbTbRKP6uQFJr*hcS&new=1)
+ ## [讯石专访|华兴激光CEO罗帅博士：扩大外延产能迎接5G需求 用快捷服务获得客户认可](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=9segBP-vepC349Tdr-PLODMDtKR1a475Hn66aBJhvkCnVDA7jatAZsYKEhdH69AAvz*KmR2fEq*6LYQ6yoHvZe1zQBCf3o8vgW8yml1hVSRfRjdQxjlF9SRgVJlh7XBP&new=1)
+ > 新闻导读讯石专访华兴激光总经理罗帅博士，作为国产光电子外延材料的优秀代表——华兴激光通过持续的研发投入，积极配合客户优化工艺及验证，扩大外延产能并保障产品交付，在5G通讯市场上帮助客户实现市场价值，...
+ ## [\[科技早报7点整\]华为或剥离荣耀卖1000亿 苹果回应iPhone12信号差……](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=OJm8tWCPEocI5ZYM8PYcc*n*0S1ZXpoUXoNb3ZG5f41MvdY2wbDQg9mLvmeMCiYU1TW0lh5RqPhFmWN1LsRJpTPGTtjqt39t*BGeaiqOIfPR7h1p2ahYt9hArIlKaVY-&new=1)
  > 早上好，科技圈【一度蜜科技早报】第973期1.二选一和大数据杀熟或被认定垄断11月10日上午，国家市场监管总局发布《关于平台经济领域的反垄断指南（征求意见稿）》公开征求意见，平台二选一、大数据杀熟或被认定...
- ## [中国电信持续加码：云计算将成为主业](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=PyhgdUDhC*jmG4R-In-0hxxNnqaMlF8AI9egBYTWei3WadpjiH4u-fGkfG5jBYyb*8m5g7LWhkoSexPRNrPYalpc4RhlDhsrHM8UJpBoWR52sR5nDdt7DIZNarPWKsHu&new=1)
+ ## [中国电信持续加码：云计算将成为主业](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=PyhgdUDhC*jmG4R-In-0hxxNnqaMlF8AI9egBYTWei3WadpjiH4u-fGkfG5jBYybf5PdG48whkKXT3JXmlLPJpus7ie*6B7cCvAeq*u51sTNVpkiDhxeMSrkq44VXKpg&new=1)
  > 11月8日，在2020天翼智能生态博览会天翼云论坛上，中国电信集团有限公司党组副书记邵广禄着重介绍了中国电信在云改数转方面的实践和目标。‍图：中国电信集团有限公司党组副书记邵广禄‍自2012年正式推出“天翼...
- ## [华为将向神州数码牵头的财团出售价值150亿美元的荣耀股份](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=atg7HPQ4ErY38SKq4Uo1KyVlBwJLd8eTGpHavvBOBXPYHGHomu2JgcKDIY9Y765T9QdNaZRP4zKByAooqO32BbB8j-nFBcA4U-q3DN-nYWsxncaeCVnZ5-qCDO8oAabL&new=1)
+ ## [华为将向神州数码牵头的财团出售价值150亿美元的荣耀股份](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=atg7HPQ4ErY38SKq4Uo1KyVlBwJLd8eTGpHavvBOBXPYHGHomu2JgcKDIY9Y765TJ5gEB*xYdfzJIHrrjX0hz3PRu0ehuGecJZhckEysyqpnSXcLW0XdZCvWMyfNQ4Zi&new=1)
  > 上个月，有猜测称，华为正在寻求出售其荣耀子品牌的一部分。该协议背后的主要原因是规避美国政府实施的多项贸易禁令。据路透社最新报道，华为正寻求将150亿美元的股权出售给一个由深圳市政府和IT服务供应商神州...
- ## [天翼云发布诸葛AI开放平台，携伙伴为千行百业赋能](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=HhyGUq*miVpEcEEMCoLbM6FPZg1rk59nMan5z4t9ibHEqxlqbBIS9ciUgXwPO-GEIGshCDp8NT189T1putSbj*CZfVV9feVo-hXXXsQ8kxTIUFI3I4veSgdMSMOqPdFx&new=1)
+ ## [天翼云发布诸葛AI开放平台，携伙伴为千行百业赋能](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=HhyGUq*miVpEcEEMCoLbM6FPZg1rk59nMan5z4t9ibHEqxlqbBIS9ciUgXwPO-GEvnK7CC5IYppnqqZD9TrB7oTq-Bol8HBbvgN*QT3tqgVRR3TqbF1Mo6JQ0ptmWbd6&new=1)
  > 一年一度的天翼智能生态博览会天翼云论坛，天翼云均会发布重磅的产品。今年的论坛上，中国电信带来天翼云诸葛AI开放平台、混合多云管理服务、天翼云原生5GC方案等多项产品和研究成果。其中，天翼云诸葛AI开放平...
- ## [华为拟千亿出售荣耀手机业务?](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=nnxrLH9pXt34pGusuF7r6oBuTng1NqO3F4TfPG8nvl-B-BGCVj21ZmL0kxqLtLCi6ddq4uahXiDUeSGZdcddUqGhPsvCaloVkqDxjLNr-oV*YRUpiS0wJ2oHDq0jiNCM&new=1)
+ ## [华为拟千亿出售荣耀手机业务?](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=nnxrLH9pXt34pGusuF7r6oBuTng1NqO3F4TfPG8nvl-B-BGCVj21ZmL0kxqLtLCiUoCRLS4x5WbPvyMyHWsLKIQZM1t72oNS49kQJSEsXuskgqYh24RmVneqrXLY44YN&new=1)
  > 近日，关于华为荣耀将被出售的一则消息持续在网上发酵。11月10日下午，有媒体援引多位知情人士称，华为计划将荣耀手机业务整体打包出售，荣耀管理层等将在这家新公司中持股。收购方包括神州数码(000034，SZ)、三...
- ## [华为千亿出售荣耀敲定，谜底 10 天后揭晓](http://mp.weixin.qq.com/s?src=11&timestamp=1605061805&ver=2699&signature=x3oA2ngBR0PFpRQNFH1opEnMbYnKfflviibjuKim4t8V3qEDICFuSCVRBDJikE771e05-Vg5ixE0sQw9aYqjdTWdvsffVejofifF3R6kpbbtH1d3g0ryaIcoFHDoiYtq&new=1)
+ ## [华为千亿出售荣耀敲定，谜底 10 天后揭晓](http://mp.weixin.qq.com/s?src=11&timestamp=1605067204&ver=2699&signature=x3oA2ngBR0PFpRQNFH1opEnMbYnKfflviibjuKim4t8V3qEDICFuSCVRBDJikE77VDxaxN5nY6v72opDod*a87fIvirnsV2y46u7FZobIskEfMdP2AGGX9dj3zavKooj&new=1)
  > 出售荣耀，华为迎来双输还是双赢局面？荣耀出售事件又有了新进展。北京时间 11 月 10 日午间，路透社香港发布独家消息，华为将以 1000 亿人民币，约合 152 亿美元价格向手机分销商神州数码以及深圳市政府持股企...
 # IT 技术 
  ## [无监督机器学习的重要指南](http://ai.51cto.com/art/202011/631465.htm)
  > 无监督机器学习的重要指南
+ ## [10张图22段代码，万字长文带你搞懂虚拟内存模型和Malloc内部原理](http://virtual.51cto.com/art/202011/631504.htm)
+ > 10张图22段代码，万字长文带你搞懂虚拟内存模型和Malloc内部原理
  ## [秒杀系统挂了，凌晨1点紧急救场！](http://developer.51cto.com/art/202011/631508.htm)
  > 秒杀系统挂了，凌晨1点紧急救场！
  ## [【鸿蒙开发实录】在一台VPS里面从零构建鸿蒙OS编译环境！](http://os.51cto.com/art/202011/631431.htm)
@@ -37,30 +45,28 @@ categories: IT NEWS
  > 如何修复Linux中损坏的软件包？
  ## [图像也能做情感迁移？罗切斯特大学团队提出计算机视觉新任务](http://news.51cto.com/art/202011/631345.htm)
  > 图像也能做情感迁移？罗切斯特大学团队提出计算机视觉新任务
- ## [苏宁超6亿会员如何做到秒级用户画像查询？](http://developer.51cto.com/art/202011/631379.htm)
- > 苏宁超6亿会员如何做到秒级用户画像查询？
- ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
- > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
- ## [把 Node.js 中的回调转换为 Promise](http://developer.51cto.com/art/202011/631517.htm)
- > 在本文中，我们将讨论如何将 JavaScript 回调转换为 Promise。ES6 的知识将会派上用场，因为我们将会使用
- ## [就风险和安全性进行SaaS合同谈判的5个优秀实践](http://www.cioage.com/art/202011/631516.htm)
- > 软件即服务提供商通常会处理你的敏感数据。以下是如何让他们在安全方面达到高标准的方法。
- ## [【鸿蒙开发板试用报告】从点灯开始理解鸿蒙OS的项目结构与启动流程](http://developer.51cto.com/art/202011/631427.htm)
- > 和大家一样，拿到板子后，就急不可耐的按照老师们的教程开始各种操作了。但是一段时间后，我突然发现，我对
- ## [云计算可以成为社会未来的关键因素吗？](http://cloud.51cto.com/art/202011/631515.htm)
- > 借助云计算，企业现在可以更快地将产品交付市场，人们可以享受一系列以前无法获得的服务，例如多媒体、游戏
- ## [聊聊NAT引发的性能瓶颈](http://network.51cto.com/art/202011/631526.htm)
- > 笔者最近解决了一个非常曲折的问题，从抓包开始一路排查到不同内核版本间的细微差异，最后才完美解释了所有
- ## [如何设计一个端计算架构？](http://zhuanlan.51cto.com/art/202011/631513.htm)
- > 什么是端计算?如何在不额外占用服务端资源的情况下，在客户端解决计算需求?端计算和云计算相比，有哪些优
- ## [微软发布Windows 10 20H1/20H2更新：修复无响应等问题](http://os.51cto.com/art/202011/631512.htm)
- > 现在，微软针对Windows 10 May 2020（20H1/Version 2004和October 2020（20H2/Verison 2009/Build 19042）
- ## [软件开发人员应该了解的2021年技术趋势](http://news.51cto.com/art/202011/631510.htm)
- > Forrester对2021年的软件开发做了5个预测。Bill Detwiler与软件行业资深副总裁兼首席分析师Jeffrey Hammon
- ## [从前端性能优化引申出来的5道经典面试题](http://developer.51cto.com/art/202011/631511.htm)
- > 前端优化是一个大的课题，需要花好多时间才能理解，之前对前端优化陆陆续续有一些了解。所以这次从渲染优化
- ## [Spark刷爆磁盘与Java弱引用的关系](http://stor.51cto.com/art/202011/631506.htm)
- > 今天，给大家分享下。Java的引用在大数据框架下的引用案例。
+ ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
+ > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
+ ## [交易量下降，是加密货币市场弱势的表现吗？上涨趋势是否受到影响](http://blockchain.51cto.com/art/202011/631543.htm)
+ > 最近以比特币为代表的主流币开启了良好的上涨动能，突破前高的基础上，仍然保持良好的上涨基本面，具备中长
+ ## [程序员必懂的Redis技术实战](http://developer.51cto.com/art/202011/631542.htm)
+ > Redis是现在很受欢迎的NoSQL数据库之一，目前广泛用于缓存系统、分布式锁、计数器、消息队列系统、排行榜、
+ ## [人工智能势必在不久的将来，取代一大批人的工作](http://ai.51cto.com/art/202011/631541.htm)
+ > 清华大学金融教授李稻葵，取得毕业美国哈佛大学经济学博士学位，不仅是斯坦福大学胡佛研究所国家研究员，
+ ## [IT自动化和人工智能将在2021年走向何方？](http://ai.51cto.com/art/202011/631538.htm)
+ > 随着IT自动化和人工智能技术的进步和发展，IT人员的工作方式发生了重大变化。今年发生的突如其来的新冠疫情
+ ## [为什么部分华为员工到了35岁后喜欢出来创业了呢？](http://news.51cto.com/art/202011/631537.htm)
+ > 昨天晚上来了个客户，华为员工，他是被外派在外地的，拖着行李箱，大包小包的，过来就开始谈融资的问题，要
+ ## [“双十一”秒杀攻略：5G和Wi-Fi 6哪个更快？](http://network.51cto.com/art/202011/631533.htm)
+ > “双十一”第二波马上到啦，想用最合适的价格抢到自己心仪的商品吗？这可不是一件容易的事。
+ ## [写给非计算机行业的编程文章](http://news.51cto.com/art/202011/631532.htm)
+ > 很久以前曾看过一本书，书的名字叫做《写给非设计师的设计书》，虽然我不是设计师，但是读完受益匪浅，有些
+ ## [如何采用系统级方法进行物联网设计](http://iot.51cto.com/art/202011/631531.htm)
+ > 为了使物联网(IoT)获得成功，实施至关重要，但是交付解决方案(例如位置感应设备)通常需要采用整体的方法。
+ ## [一篇文章带你了解Go语言基础之指针](http://developer.51cto.com/art/202011/631534.htm)
+ > 作为21世纪的C语言，Go可能多方面思考，最终还是保留了指针。但是要比C语言指针简单很多，一起来看看叭。
+ ## [中国四大IoT操作系统，谁能笑到最后？](http://iot.51cto.com/art/202011/631530.htm)
+ > 最近，据Counterpoint发布全球十大手机品牌排行榜，在榜单上，有7家手机品牌属于中国，占全球手机市场的46
  ## [FPS游戏全屏爆头？实现原理与防范建议](https://blog.csdn.net/qq_36553941/article/details/109446153)
  > FPS游戏全屏爆头？实现原理与防范建议
  ## [作为程序员，你最常上的网站是什么，理由是？](https://blog.csdn.net/JiuZhang_ninechapter/article/details/109456631)
