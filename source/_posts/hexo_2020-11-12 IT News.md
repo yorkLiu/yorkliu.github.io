@@ -1,26 +1,34 @@
 ---
 title: 2020-11-12 IT News
 copyright: true
-date: 2020-11-12 08:44:43
+date: 2020-11-12 09:38:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [HackerOne：中国白帽子的收入增长幅度最大](http://mp.weixin.qq.com/s?src=11&timestamp=1605141005&ver=2701&signature=FTuDi3FR*RKGnsOpLktwghSGUtXQdu*exYthbkygX8FjeLeG35*ZwdiBKIemMoOZg4qFzLkKPC8HGFKWy6cBvVzn*UvcLGuWdz2rB9dBh3j7-nWqw3rX4kMuj6OHkc1l&new=1)
+ ## [\[科技早报7点整\]周小川称互联网科技巨头形成垄断抑制竞争 特斯拉开发第三代疫苗打印机……](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=H7h5avILHiJf6I1xU8O3YOpQ5SKO2eU6V69Ya-616ZX9WgqdscNAy4uh6sEodruyhBX9Sv2n4rZEcYY4NrPOTniMG-LDR573ofBA0HiZvFso9wJdTzLSx6gorqHwoyF4&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第974期1.周小川：互联网科技巨头形成垄断，抑制竞争近日，在博鳌亚洲论坛国际科技与创新论坛首届大会上，周小川表示，当前科技创新在催生巨大动能的同时，也给社会治理和全球...
+ ## [国美超低价 引爆“双十一”](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=Ku-1EucAfeKRwdg9-2LdQAOkyYhfwVDnlyEaD04w4h0jvm74lG-mBUs42gfrqvNI8TJcfp1YKcwP4v6lJVer4RFJzRFkt7qx5TXMvrrIk6w=&new=1)
+ > 11月10日，国美APP线上商城推出数十款11.11超低价真选商品，以打破全网底价10%-30%的力度，引起了消费者和行业的广泛关注。　　国美零售执行副总裁、国美在线CEO向海龙表示，今年11.11，国美在新战略指引下...
+ ## [SiPC China 2020|第三届中国硅光产业论坛今日召开 敬请关注](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=ZVpIBVpZcI*QPAui-VR0ETEf3gpF-iH7Iz7PmgP2gtB8GnH3mwYsYmVXbKVJFhL0JEwRrEQqDC1Gd1HrT3t5t5f4qVOOi4UMvmArYPl2n2baazI2jViHrzKeRIQo25P5&new=1)
+ > 新闻导读11月12日，第三届中国硅光产业论坛在武汉隆重举办，会议将邀请来自产业上下游内容商、设备商及高校科研代表，以及来自知名硅光企业代表、制造平台共同探讨硅光工艺技术、制造与封测等硅光领域的发展进展...
+ ## [HackerOne：中国白帽子的收入增长幅度最大](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=FTuDi3FR*RKGnsOpLktwghSGUtXQdu*exYthbkygX8FjeLeG35*ZwdiBKIemMoOZva*X6BTIrG9u7eH8uwbHV2OdCOrUDXeuUcsF63IvAVC8soZDDsqP2dTxVpb6VJpJ&new=1)
  > HackerOne 发布了第四份《黑客驱动安全报告》。报告指出，全球加大了对漏洞奖励计划的投入，亚太区增加了93%，拉美增加了29%。全球所有漏洞奖励计划颁发的奖金同比增长了87%。全球的黑客社区的规模和深度也在不...
- ## [迈向全场景智慧：华为以城市智能体理念亮相高交会](http://mp.weixin.qq.com/s?src=11&timestamp=1605141005&ver=2701&signature=Mhccd5fXji8abKOeM4mjNhIf*6auiuDVdyUVEzIJst0vCyg-uda8qvohK2q46R3EsdUmfvxxgQslhHJO3hiDOVVP0PDFL5mO*zy7yQ4vLXEn7yMKUwvAzz288Xy-PyuB&new=1)
+ ## [迈向全场景智慧：华为以城市智能体理念亮相高交会](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=Mhccd5fXji8abKOeM4mjNhIf*6auiuDVdyUVEzIJst0vCyg-uda8qvohK2q46R3E8Ti5hTPxCeMW5S4LTCOueKIEXCK1hJ2gaRQC4sfH64rneDvRxMsR2Iha8hk*0a3R&new=1)
  > 11月11日，第22届中国国际高新技术成果交易会（下文简称“高交会”）开幕。华为以“共筑城市智能体，点亮孪生新未来”主题亮相本次盛会，通过设置主题展区、举办城市智能体峰会及参与专题论坛等互动形式，与来自...
- ## [相干2020年报：营收12亿下降14%首次公开国防市场细节](http://mp.weixin.qq.com/s?src=11&timestamp=1605141005&ver=2701&signature=7Zxk9p48Kpqu84gob6zwKasiM9L7rfL*ySPAIP2lS1wNgklugwRmz1lv*BTy8tyvg6v0itBAYOeCjKoXUybS6iTR0KlL*xqO1DmrZ-lKr2*iRcMlO1CGDFyOYSozUoRB&new=1)
+ ## [相干2020年报：营收12亿下降14%首次公开国防市场细节](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=7Zxk9p48Kpqu84gob6zwKasiM9L7rfL*ySPAIP2lS1wNgklugwRmz1lv*BTy8tyvKtFpYnu9IMjdeu-koXdX9j*8mHUe88d6qyT8S3obU5Q9zQbLG92Z0dDuNXsDONVp&new=1)
  > 日前，美国激光技术及解决方案供应商相干公司（Coherent）发布2020财年年报（截至2020年10月3日）。2020财年相干公司销售额达12.29亿美元，相较于2019财年的14.31亿美元减少了2.02亿美元，下降14.1％；净亏损4
- ## [构建全球第三大移动生态，华为HMS Core来了](http://mp.weixin.qq.com/s?src=11&timestamp=1605141005&ver=2701&signature=24SBTpMqen47Sbqw-eM4kbBRT2hVaZ92KpekofRcvML0qxwTWztmIqyJd8-aPG3CzNwr1Q2bYz0CNgSujFID-TrNkfzpCCb8-qFwccSbE5efmOJ2y6Yfv*bK3iaV6BrO&new=1)
+ ## [构建全球第三大移动生态，华为HMS Core来了](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=24SBTpMqen47Sbqw-eM4kbBRT2hVaZ92KpekofRcvML0qxwTWztmIqyJd8-aPG3Cd0eLj11xggjbZXgNRaUOTSOm7yF84eYcvfhfqnT23Bf7qR3kGCn67jmMFYm62Kz7&new=1)
  > 这个月，关于 “ 十四五 ” 规划的讨论一直很多，经过这两年国际环境的变化，我们知道，科技自立自强真的一刻都不能缓。让我们最痛的，当然是芯片产业。但是，我们的痛点，却远远不止是芯片，还有基础软件。譬如...
- ## [深度解读：从华为运营商人才认证体系升级，看运营商数字化人才发展之道](http://mp.weixin.qq.com/s?src=11&timestamp=1605141005&ver=2701&signature=p*LpgZAx7jiXT1fvKQuAWXt9Rp6VKBopZtGrJZ8*or0x*VwZip8s4rM0Av510aLsE5xJqQjKgEdEiXs6CsqT01gwnqtpSdhN2ZZ4Z4VnDo-Hxkhmu5ktwlWKwpjafQw7&new=1)
+ ## [深度解读：从华为运营商人才认证体系升级，看运营商数字化人才发展之道](http://mp.weixin.qq.com/s?src=11&timestamp=1605144605&ver=2701&signature=p*LpgZAx7jiXT1fvKQuAWXt9Rp6VKBopZtGrJZ8*or0x*VwZip8s4rM0Av510aLsdQuRuQy5MIc1OumX*oPjUZ*xWVYixqAn7qR0NAKPckn7sWd8oUfZSK9v-aHB3Jei&new=1)
  > “21世纪什么最重要？是人才!”《天下无贼》中葛大爷这句看似调侃的话语，在电信产业持续上演。随着5G、AI、云等技术发展，运营商对人才标准和需求，与以前已大不相同。以往吃香的技能，现在可能要落伍了。如今...
 # IT 技术 
  ## [如何在数据中心中安装环境监控系统](http://server.51cto.com/Datacenter-631572.htm)
  > 如何在数据中心中安装环境监控系统
  ## [如何保护用户的隐私信息？看看大厂是怎么处理的！](http://mobile.51cto.com/ahot-631560.htm)
  > 如何保护用户的隐私信息？看看大厂是怎么处理的！
+ ## [如何用图形分析来可视化微服务架构](http://developer.51cto.com/art/202011/631574.htm)
+ > 如何用图形分析来可视化微服务架构
  ## [无监督机器学习的重要指南](http://ai.51cto.com/art/202011/631465.htm)
  > 无监督机器学习的重要指南
  ## [10张图22段代码，万字长文带你搞懂虚拟内存模型和Malloc内部原理](http://virtual.51cto.com/art/202011/631504.htm)
@@ -29,10 +37,18 @@ categories: IT NEWS
  > 秒杀系统挂了，凌晨1点紧急救场！
  ## [【鸿蒙开发实录】在一台VPS里面从零构建鸿蒙OS编译环境！](http://os.51cto.com/art/202011/631431.htm)
  > 【鸿蒙开发实录】在一台VPS里面从零构建鸿蒙OS编译环境！
- ## [这样做RabbitMQ高可用，业务流量猛增10倍也不怂](http://developer.51cto.com/art/202011/631415.htm)
- > 这样做RabbitMQ高可用，业务流量猛增10倍也不怂
- ## [MySQL培训速成教程（六）：Linux安装MySQL 5.7](http://fellow.51cto.com/art/202007/622200.htm?qd=51ctojrzd)
- > MySQL培训速成教程（六）：Linux安装MySQL 5.7
+ ## [新SpringCloud视频教程 分布式架构教程SpringCloud+Docker](http://fellow.51cto.com/art/202007/622449.htm?qd=51ctojrzd)
+ > 新SpringCloud视频教程 分布式架构教程SpringCloud+Docker
+ ## [“清洁网络”计划危害网络安全](http://netsecurity.51cto.com/art/202011/631630.htm)
+ > 一段时间以来，美方大肆鼓吹并到处兜售所谓“清洁网络”计划，在缺乏事实的基础上不停抹黑中国互联网企业
+ ## [MySQL 的 join 功能弱爆了？](http://database.51cto.com/art/202011/631613.htm)
+ > 关于MySQL 的 join，大家一定了解过很多它的“轶事趣闻”，比如两表 join 要小表驱动大表，阿里开发者规范
+ ## [总是感觉时间不够用？程序员如何管理时间？](http://news.51cto.com/art/202011/631612.htm)
+ > 总是有粉丝会问我，袁总，你现在每天这么忙，公司的事情这么多，公众号还要更新文章，帮助解答粉丝的问题，
+ ## [Mycat核心开发者带你轻松掌握Mycat路由转发！！](http://biz.51cto.com/art/202011/631611.htm)
+ > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
+ ## [这篇写的太好了！Spring Boot + Redis 实现接口幂等性](http://stor.51cto.com/art/202011/631610.htm)
+ > 幂等性的概念是，任意多次执行所产生的影响都与一次执行产生的影响相同，按照这个含义，最终的解释是对数据
  ## [美联储将致力于开发数字货币 数字人民币有望重构电子支付格局](http://blockchain.51cto.com/art/202011/631607.htm)
  > 据北京海淀消息，自今年初起，海淀区司法局积极与海淀区区块链专班事项推进小组对接，多次主动进行沟通联系
  ## [微软提前公开Windows 10X：Edge浏览器下载页中意外亮相](http://os.51cto.com/art/202011/631605.htm)
@@ -43,70 +59,36 @@ categories: IT NEWS
  > 在写算法之前，需要明白 IPv4 和 IPv6 的概念，如果面试官并没有告诉你这两者的定义，也许是考你计算机的基
  ## [针对Linux的勒索软件木马现身，属于RansomEXX变种](http://zhuanlan.51cto.com/art/202011/631602.htm)
  > 近日卡巴斯基(Kaspersky)发现某已知勒索软件帮派部署了一种针对Linux的文件加密木马。
- ## [你我身边的网络安全](http://netsecurity.51cto.com/art/202011/631601.htm)
- > 网络为我们带来了极大的便利，但同时也需要警惕不法分子通过网络给我们带来的伤害，面对这些伤害，如果我们
- ## [实现数字化转型：物联网](http://iot.51cto.com/art/202011/631600.htm)
- > 物联网的早期使用案例是在自动化和资产管理领域。随着技术和网络连接的发展，应用将更加广泛，并影响我们生
- ## [HTML学习：前端实现文字滚动效果（附视频教程）](https://blog.csdn.net/GUDUzhongliang/article/details/109511170)
- > HTML学习：前端实现文字滚动效果（附视频教程）
- ## [我是程序员大本营抄袭 ：IWH718@冬的博客！](https://blog.csdn.net/u010913414/article/details/109605887)
- > 我是程序员大本营抄袭 ：IWH718@冬的博客！
- ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
- > CSDN专属idea插件上线啦，开发者效率提升神器~~
- ## [vue表单验证 input输入框禁止输入空格](https://blog.csdn.net/tianpeng1996/article/details/109573395)
- > vue表单验证 input输入框禁止输入空格
- ## [Java面试过了京东五面之后，发现掌握了这些技术也没有那么难](https://blog.csdn.net/Lubanjava/article/details/108735028)
- > Java面试过了京东五面之后，发现掌握了这些技术也没有那么难
- ## [一行Python代码能做出哪些神器的事情](https://blog.csdn.net/bigzql/article/details/109507814)
- > 一行Python代码能做出哪些神器的事情
- ## [漫画：你们这些奇葩的代码！](https://blog.csdn.net/coderising/article/details/109589943)
- > 漫画：你们这些奇葩的代码！
- ## [学习C基础这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/108279676)
- > 学习C基础这一篇就够了
- ## [第1周 认识大前端，开启无限可能](https://blog.csdn.net/qq_38209578/article/details/109490415)
- > 第1周 认识大前端，开启无限可能
- ## [Linux 系统如何快速入门？分享民工哥总结的经验](https://blog.csdn.net/epubit17/article/details/109496870)
- > Linux 系统如何快速入门？分享民工哥总结的经验
- ## [上千个常用软件，你对国产操作系统UOS有何期望？](https://blog.csdn.net/weixin_43855876/article/details/109493350)
- > 上千个常用软件，你对国产操作系统UOS有何期望？
- ## [FPS游戏自动瞄准敌人头部？是如何实现的（三）准星算法与实现自动瞄准](https://blog.csdn.net/qq_36553941/article/details/108793901)
- > FPS游戏自动瞄准敌人头部？是如何实现的（三）准星算法与实现自动瞄准
- ## [用鸿蒙开发AI应用（二）系统篇](https://blog.csdn.net/weixin_47479625/article/details/109475447)
- > 用鸿蒙开发AI应用（二）系统篇
- ## [程序员新手写实际业务代码思维混乱的一些建议](https://blog.csdn.net/weixin_40562504/article/details/109507443)
- > 程序员新手写实际业务代码思维混乱的一些建议
- ## [6张图！5G六大细分领域产业图谱](https://blog.csdn.net/uxuepai5g/article/details/109567725)
- > 6张图！5G六大细分领域产业图谱
 # 人工智能 
- ## [VSCode代码自动补全html标签、css属性及值 - 无插件](https://blog.csdn.net/qq_35393869/article/details/101280343)
- > VSCode代码自动补全html标签、css属性及值 - 无插件
- ## [解决iframe跨域传参（Blocked a frame with origin）](https://blog.csdn.net/momDIY/article/details/101290144)
- > 解决iframe跨域传参（Blocked a frame with origin）
- ## [记录坎坷的面试](https://blog.csdn.net/LFY836126/article/details/98621500)
- > 记录坎坷的面试
- ## [iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame](https://blog.csdn.net/qq_44276328/article/details/101265024)
- > iframe和父页面相互传值,并兼容跨域问题.(项目实测成功)  from accessing a cross-origin frame
- ## [如何让在Html中特殊字符不被转义（源码输出）](https://blog.csdn.net/menghuanzhiming/article/details/101312849)
- > 如何让在Html中特殊字符不被转义（源码输出）
- ## [Vue创建项目步骤](https://blog.csdn.net/cedricdx/article/details/101195635)
- > Vue创建项目步骤
- ## [vue  中拼接html时添加点击事件](https://blog.csdn.net/wzwzwz555/article/details/101274845)
- > vue  中拼接html时添加点击事件
- ## [前端Ajax传参，后台接收参数的几种方式](https://blog.csdn.net/LuckFairyLuckBaby/article/details/101267520)
- > 前端Ajax传参，后台接收参数的几种方式
- ## [JS 判断字符串中是否包含某个字符串（方法总结）](https://blog.csdn.net/Alone_in_/article/details/101274336)
- > JS 判断字符串中是否包含某个字符串（方法总结）
- ## [D3 二维图表的绘制系列（一）介绍](https://blog.csdn.net/zjw_python/article/details/98182540)
- > D3 二维图表的绘制系列（一）介绍
- ## [关于flex布局在IE浏览器上的坑](https://blog.csdn.net/heyNewbie/article/details/101302169)
- > 关于flex布局在IE浏览器上的坑
- ## [vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法](https://blog.csdn.net/dongguan_123/article/details/101290164)
- > vue中使用element-ui，重复点击按钮或多个请求同时报错时弹出多个message弹框解决方法
- ## [前端页面JS注入问题，前端XSS安全问题解决办法](https://blog.csdn.net/weixin_36908494/article/details/101268583)
- > 前端页面JS注入问题，前端XSS安全问题解决办法
- ## [visual studio code 不能安装yarn或不识别yarn命令的问题解决](https://blog.csdn.net/daiqinge/article/details/101289028)
- > visual studio code 不能安装yarn或不识别yarn命令的问题解决
- ## [iframe操作src或url的方式](https://blog.csdn.net/Spearmint_/article/details/101314208)
- > iframe操作src或url的方式
+ ## [《假如编程是魔法之零基础看得懂的Python入门教程 》——（五）我的魔法竟然有了一丝逻辑](https://blog.csdn.net/A757291228/article/details/109396018)
+ > 《假如编程是魔法之零基础看得懂的Python入门教程 》——（五）我的魔法竟然有了一丝逻辑
+ ## [2020.11.08 CCPC长春小记](https://blog.csdn.net/qq_45458915/article/details/109571045)
+ > 2020.11.08 CCPC长春小记
+ ## [揭秘在召唤师峡谷中移动路径选择逻辑？](https://blog.csdn.net/devcloud/article/details/109571161)
+ > 揭秘在召唤师峡谷中移动路径选择逻辑？
+ ## [c语言 特征码思路来破植物大战僵尸](https://blog.csdn.net/O8088/article/details/109605422)
+ > c语言 特征码思路来破植物大战僵尸
+ ## [2019第十届蓝桥杯国赛JAVA B组真题解析（带源码及解析）](https://blog.csdn.net/qq_43652327/article/details/109583675)
+ > 2019第十届蓝桥杯国赛JAVA B组真题解析（带源码及解析）
+ ## [2020CCPC长春站部分题解](https://blog.csdn.net/Irving0323/article/details/109575129)
+ > 2020CCPC长春站部分题解
+ ## [阿里Java后端开发面经，面试官都替我感到绝望](https://blog.csdn.net/yueyunyin/article/details/109597467)
+ > 阿里Java后端开发面经，面试官都替我感到绝望
+ ## [心理学与生活 - 发展与教育](https://blog.csdn.net/hwhsong/article/details/109583638)
+ > 心理学与生活 - 发展与教育
+ ## [二叉树序列化和反序列化的两种方式](https://blog.csdn.net/ljfirst/article/details/109466318)
+ > 二叉树序列化和反序列化的两种方式
+ ## [腾讯 在我过往人生中的一些记忆](https://blog.csdn.net/xiaowan777/article/details/109605426)
+ > 腾讯 在我过往人生中的一些记忆
+ ## [2020CCPC(长春) - Strange Memory(树上启发式合并+位运算)](https://blog.csdn.net/qq_45458915/article/details/109583484)
+ > 2020CCPC(长春) - Strange Memory(树上启发式合并+位运算)
+ ## [在树莓派上用C语言实现2048游戏（非原创）](https://blog.csdn.net/weixin_45994747/article/details/109570433)
+ > 在树莓派上用C语言实现2048游戏（非原创）
+ ## [软件测试分类&原则](https://blog.csdn.net/weixin_49984044/article/details/109538496)
+ > 软件测试分类&amp;原则
+ ## [权限管理大升级，开源智能客服系统春松客服 v6 版本发布 | Chatopera](https://blog.csdn.net/watson243671/article/details/109592612)
+ > 权限管理大升级，开源智能客服系统春松客服 v6 版本发布 | Chatopera
+ ## [unity3D用鼠标和射线控制物体移动(一)](https://blog.csdn.net/weixin_47908682/article/details/109584326)
+ > unity3D用鼠标和射线控制物体移动(一)
 
     
