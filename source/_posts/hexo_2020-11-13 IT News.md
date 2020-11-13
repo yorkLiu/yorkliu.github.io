@@ -1,62 +1,66 @@
 ---
 title: 2020-11-13 IT News
 copyright: true
-date: 2020-11-13 09:50:51
+date: 2020-11-13 10:41:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [如何迎接5G的黄金十年?华为丁耘建议两维度发力](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=gWU0TCUgILZ2M8NDhQvbmvuZvCIDimz0ulPyPzW4AHb97dhyHEL9GwpEk64pXu7ItjAlESTs14-n6NVpQqdxihkic1bWyH8SMKBKOmcf4jWlde2i*pGXMBlQlMyEnYvs&new=1)
- > “未来十年是5G的十年，我们需要坚定信念，与产业链各方、行业伙伴一起，最大化网络价值，迎接5G黄金十年。”11月12日，在2020全球移动宽带论坛（Global MBB Forum）上，华为常务董事、运营商BG总裁丁耘表示。尤...
- ## [硅光助力新基建 第三届中国硅光产业论坛圆满举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=mr412F3Jxav6GFjjppfZcDlTkkhnjXRS8hW9kXk0kVhzfIMI3LwpO746MBWWY2r144W3NzdbZFDAUChOjHIgHcnQyTOCIkZA80uj*ADujBnj7jX*8MKYwtnkvYa0GeDH&new=1)
+ ## [浙江拓博金属3D打印粉末防爆真空输送筛分机，获德国TUV莱茵CE证书](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=gCYRKLv95*QWyGR-2Y7rxx3BwbCP8hT67kP5ugZZCsvipA0UNFaVdcjpnCHhFCY7xDvRsZGC-o0FlhYcsi4ssfAmViDc5BxZGenu6o*F7vQXZ2DZeAPMN*D3UdwsvMVe&new=1)
+ > 导读：在金属3D打印零件的生产制造中，对金属粉末的防爆真空输送筛分非常重要。国内开始出现专门针对此流程的设备厂商南极熊获悉，2020年11月9日，国际独立第三方检测、检验和认证机构德国莱茵TüV集团（以下简...
+ ## [拼多多首次盈利，股价涨 17%；macOS Big Sur 发布，可运行 iOS 应用；联通明年 2G 全面退网|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=hJuG0xm-CiGA5Hw5cTOXcUAza1PHd2VUDSnz*2Y9RzzC8bqyjOEfpOIP-JRXz4Jfs6xCchFPpuFIKM86CVXoKUcbA6Idyv78nahrz8u7v9cA9S33DuA9N8p*5qO9vIQR&new=1)
+ > 腾讯回应反垄断监管：政府仍支持互联网行业，正合作确保合规北京时间 11 月 12 日消息，在腾讯发布第三季度业绩后的投资者电话会上，被问及如何置评近日发布《关于平台经济领域的反垄断指南（征求意见稿）》，腾...
+ ## [硅光助力新基建 第三届中国硅光产业论坛圆满举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=mr412F3Jxav6GFjjppfZcDlTkkhnjXRS8hW9kXk0kVhzfIMI3LwpO746MBWWY2r1PJy3ralM6NT3Wj4fr*fJfT1yF47W4cyAOFx2QONW9dt6pyhhZKihJTEhhMMPSkFR&new=1)
  > ICC讯 11月12日，第三届中国硅光产业论坛在武汉成功举办，本次会由国家信息光电子创新中心、中国通信学会，中国信科主办，深圳市讯石信息咨询有限公司承办，“中国光谷”国际光电子博览会协办，以及获得了是...
- ## [\[报告\]麦肯锡：汽车软件与电子2030展望(附48页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=3trHsSjZLNYyyyOTBPhySJ4VGMP5mFIg2x9dO8jA5OorAqFWAqLzO4hAs*D0KItma5pA7OP4XE2MUqpo0dZePbg4DoTVU2p2Xd499MnYEFuSsuUVWYSanTZcEuiZ0O3-&new=1)
+ ## [如何迎接5G的黄金十年?华为丁耘建议两维度发力](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=gWU0TCUgILZ2M8NDhQvbmvuZvCIDimz0ulPyPzW4AHb97dhyHEL9GwpEk64pXu7I9aXHnX*cOZuL4nb01qF*oA7sjbzco5X9hNHg0DHQD2fieKXlBtyuoOHh2ZrK8UIV&new=1)
+ > “未来十年是5G的十年，我们需要坚定信念，与产业链各方、行业伙伴一起，最大化网络价值，迎接5G黄金十年。”11月12日，在2020全球移动宽带论坛（Global MBB Forum）上，华为常务董事、运营商BG总裁丁耘表示。尤...
+ ## [\[报告\]麦肯锡：汽车软件与电子2030展望(附48页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=3trHsSjZLNYyyyOTBPhySJ4VGMP5mFIg2x9dO8jA5OorAqFWAqLzO4hAs*D0KItmaqxAhhiuo-c-0aAv2*KeKw92Ay-XWC4*QjaNHxMs1uZjirHDScgBlEuLtjvXxWG7&new=1)
  > 当前，汽车软件和电子市场进入了快速增长的阶段，无人驾驶出租车（RoboTaxi）、汽车共享服务、软件算法优化以及云端技术等新兴模式应运而生。相关数据统计显示，汽车软件在大型乘用车的整车价值中占比为10%，未...
- ## [周鸿祎谈巨头垄断：摁死小公司，影响年轻人创业；Visual Studio 9/16 Preview1发布；.NET5.0发布](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=nB2L2Xin-PnFubFYSoE1AGqM9BvM2i-Mjf4Sm*MMbz5tOFXKjqvFFrKbFdlNVDjFRYum3farUpVB2zzpDpqRC1jW2LGr8ZuHjsW7sSQXz1JqLvnMMk3JgKk55wb96Y-E&new=1)
+ ## [周鸿祎谈巨头垄断：摁死小公司，影响年轻人创业；Visual Studio 9/16 Preview1发布；.NET5.0发布](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=nB2L2Xin-PnFubFYSoE1AGqM9BvM2i-Mjf4Sm*MMbz5tOFXKjqvFFrKbFdlNVDjFWmKjCOk3YIypS-2vhzI4ZfwqGsoae2WbMJnwEpssst2MHPjoq5tM1dzoAnW7vw6L&new=1)
  > 周鸿祎谈互联网巨头垄断： 摁死小公司，影响年轻人创业近日，周鸿祎发布一段老视频谈到互联网巨头垄断对创新伤害巨大。对付小公司先抄，就做一模一样的产品投入资源，通过交叉补贴，摁死小公司。不行就挖人，很...
- ## [美管制禁令短期影响可控!芯片巨头三季度业绩暴增168%](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=L6t1QjC8Zw*oIWry3Ra*Hoz8ixvmHBeN89IFxJOEG6jsO-x7EghL4tYcckNH3DR5qv4LE*p2mwhxtdnc12YO9VqXsoxey7FNBadZTUGWWR-cigXTtffzU4RtN82v0rWh&new=1)
+ ## [美管制禁令短期影响可控!芯片巨头三季度业绩暴增168%](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=L6t1QjC8Zw*oIWry3Ra*Hoz8ixvmHBeN89IFxJOEG6jsO-x7EghL4tYcckNH3DR5iqgkBubgO-BlrVxtS4JPbTahIyXJBebLfhY*wPSD6ospnBmgAA1qHHO9fsO8uOph&new=1)
  > 美国禁令影响之下，中芯国际业绩表现如何？备受瞩目的芯片龙头中芯国际-U（688981）披露三季报业绩，单季度净利润达2.56亿美元（约合16.97亿元），同比增长122.7%，创下历史新高。同期毛利为2.62亿美元（约合17....
- ## [中国专利质量第一名居然不是华为，而另有其人](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=zubsBB9Wqynl5F1XLBTISbDCN3CfVwZPBQcdP-UxnLmQeQlkoFcOhSZxg0qF6HhSgrIBfR3Xb2PC*4BR7lY*AFukaqlzAQqzBLS4GNnIk6EtwPzl3HCUvOXMuoIIi*Se&new=1)
+ ## [中国专利质量第一名居然不是华为，而另有其人](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=zubsBB9Wqynl5F1XLBTISbDCN3CfVwZPBQcdP-UxnLmQeQlkoFcOhSZxg0qF6HhSRo85Bzcsfj9iyIq9xnSGihVFhWNI2bsXKRCtVNMEMeEAQgjPd4zy9bhoO67KmnFI&new=1)
  > 日前国外媒体报道指由美国专利咨询公司LexInnova评选的专利质量指标显示中国的中科院微电子所的整体专利质量居于全球第一，超越了全球知名的Intel、IBM、三星、台积电等科技企业。在谈到一家企业的技术研发实力...
- ## [国产化，一点也不能放松|宁南山](http://mp.weixin.qq.com/s?src=11&timestamp=1605231005&ver=2703&signature=YGYfuwup6L8mNODDspGRTYT6PyJiktf1F1JrqAUXSPamod*qlcXMxbmliy9*1Uw89AZMSi162yUjD8UiHDpykiXC4F1SZVqRV6YQTFvtHid0DntNfOuwK7uCXSiJWvxZ&new=1)
+ ## [国产化，一点也不能放松|宁南山](http://mp.weixin.qq.com/s?src=11&timestamp=1605234605&ver=2703&signature=YGYfuwup6L8mNODDspGRTYT6PyJiktf1F1JrqAUXSPamod*qlcXMxbmliy9*1Uw8yYna6xgZMgrRmIU9gYCcC5Gj99Fjyg8uzwL3OD34*YAKju4GqDHubcAwe*dEH85a&new=1)
  > 关注风云之声提升思维层次导读半导体产业链国产化进度不应该受局势影响而变化，必须要抓紧时间推进。这是篇短文。拜登当选了，尽快正式程序还没有走完，国内的股市已经对此做出了反应，上证指数在11月5日拜登选...
 # IT 技术 
+ ## [CIO机遇来临，Gartner提出四大方法助其把握机遇](http://www.cioage.com/art/202011/631749.htm)
+ > CIO机遇来临，Gartner提出四大方法助其把握机遇
+ ## [为什么我不建议在Docker中部署数据库？](http://database.51cto.com/art/202011/631753.htm)
+ > 为什么我不建议在Docker中部署数据库？
  ## [全栈、均栈、MERN栈，哪个才是下一代Web项目的正确栈？](http://developer.51cto.com/art/202011/631690.htm)
  > 全栈、均栈、MERN栈，哪个才是下一代Web项目的正确栈？
+ ## [【鸿蒙资源】已经配置好鸿蒙开发环境的Ubuntu 20.04镜像](http://os.51cto.com/art/202011/631670.htm)
+ > 【鸿蒙资源】已经配置好鸿蒙开发环境的Ubuntu 20.04镜像
  ## [数字化工作者如何充分利用智能自动化](http://news.51cto.com/art/202011/631688.htm)
  > 数字化工作者如何充分利用智能自动化
+ ## [刨根问底，Kafka消息中间件到底会不会丢消息](http://developer.51cto.com/art/202011/631733.htm)
+ > 刨根问底，Kafka消息中间件到底会不会丢消息
  ## [如何用图形分析来可视化微服务架构](http://developer.51cto.com/art/202011/631574.htm)
  > 如何用图形分析来可视化微服务架构
- ## [鸿蒙HarmonyOS系统中的JS开发框架](http://os.51cto.com/art/202011/631547.htm)
- > 鸿蒙HarmonyOS系统中的JS开发框架
- ## [如何保护备份数据免受勒索软件的攻击](http://netsecurity.51cto.com/art/202011/631638.htm)
- > 如何保护备份数据免受勒索软件的攻击
- ## [你的房东可能正用AI筛查你的犯罪记录，决定要不要租房给你](http://zhuanlan.51cto.com/art/202011/631629.htm)
- > 你的房东可能正用AI筛查你的犯罪记录，决定要不要租房给你
- ## [双“11”搞促销？用贪心算法来盘他！](http://developer.51cto.com/art/202011/631617.htm)
- > 双“11”搞促销？用贪心算法来盘他！
- ## [SQL Server 全能管理员在线课程](http://fellow.51cto.com/art/202008/622833.htm?qd=51ctojrzd)
- > SQL Server 全能管理员在线课程
- ## [物联网网络安全改进法案：将技术与政策相结合以应对威胁](http://iot.51cto.com/art/202011/631747.htm)
- > 今年9月，美国下议院对美国物联网安全改进法案获得通过，该法案认为保护物联网(IoT)具有国家重要性，确认加
- ## [CIO机遇来临，Gartner提出四大方法助其把握机遇](http://www.cioage.com/art/202011/631749.htm)
- > “2020年，新冠疫情的出现对全球经济打击很大，但是，对企业CIO来说，却可以说是一个机遇，可以将危机变为
- ## [聊聊安全编排、自动化与事件响应技术](http://netsecurity.51cto.com/art/202011/631739.htm)
- > 随着网络安全攻防对抗的日趋激烈，企业和组织要在网络已经遭受攻击的假定前提下构建集阻止、检测、响应和预
- ## [Java基础入门篇――While循环](http://developer.51cto.com/art/202011/631737.htm)
- > 本文介绍了循环结构语句while和do-while循环、break的使用，while循环语句通过流程图和语法语句结合一个求1
- ## [80%的学校还在给新生上C语言，它们OUT了吗？](http://developer.51cto.com/art/202011/631736.htm)
- > 大家好，最近有小伙伴在后台问我，大一新生学校在教C语言，是不是已经过时了?第一门语言应该学什么比较好?
- ## [泛型和元编程的模型：Java, Go, Rust, Swift, D等](http://developer.51cto.com/art/202011/631735.htm)
- > 在程序设计的时候，我们通常希望使用同样的数据结构或算法，就可以处理许多不同类型的元素，比如通用的List
- ## [两个线程，两个互斥锁，怎么形成一个死循环？](http://network.51cto.com/art/202011/631734.htm)
- > 为了保证主线程和子线程都能够分别获得锁mutex1、mutex2,各自获得锁后一定要先sleep 1秒钟，否则创建完子线
- ## [刨根问底，Kafka消息中间件到底会不会丢消息](http://developer.51cto.com/art/202011/631733.htm)
- > 大型互联网公司一般都会要求消息传递最大限度的不丢失，比如用户服务给代金券服务发送一个消息，如果消息丢
- ## [讲讲MySQL主从复制的原理和注意事项？？](http://database.51cto.com/art/202011/631732.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [一个90后女孩的第一个 Spring Boot 应用](http://developer.51cto.com/art/202011/631730.htm)
- > Spring Boot的出现，主要是用来解决 Spring 过去的一些问题，提出了约定优于配置的思想，默认对很多方法进
+ ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
+ > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
+ ## [消息称高通拿到恢复向华为供货许可：5G芯片依然被禁](http://news.51cto.com/art/202011/631774.htm)
+ > 据华尔街知名投行KeyBanc的消息，高通已经拿到了恢复向华为供货的许可，不过5G芯片依然是被禁的。
+ ## [ENISA发布物联网安全准则](http://zhuanlan.51cto.com/art/202011/631773.htm)
+ > 欧盟网络安全局(ENISA)近日发布了《物联网安全准则》，这是一个涵盖了整个物联网供应链，包括硬件、软件和
+ ## [推动网络转型的5大数字化转型趋势](http://news.51cto.com/art/202011/631772.htm)
+ > 组织实现数字化转型，需要具有集成安全性、可扩展的高级路由、对网络流量的完全可视性，以及具有复杂分析功
+ ## [日本视频游戏公司Capcom遭受了一次网络攻击](http://netsecurity.51cto.com/art/202011/631770.htm)
+ > 日本视频游戏开发商和发行商Capcom承认于上周末遭受了网络攻击，该攻击影响了其正常的商业运营。
+ ## [5G飞入寻常百姓家，指日可](http://network.51cto.com/art/202011/631771.htm)
+ > 当前5G已成业界热议话题，产业各方正纷纷跑马圈 地，对5G积极布局。在近日举行的第三届中国国际进口博览会
+ ## [迎接下一个十年，云原生赛道开启](http://cloud.51cto.com/art/202011/631769.htm)
+ > 在新冠肺炎疫情催化下，数字化生活方式渐成新常态。2020天猫双11全球狂欢节(简称：天猫双11)如约而至，更直
+ ## [人工智能技术如何落地交通出行？](http://ai.51cto.com/art/202011/631766.htm)
+ > 人工智能处于世界科学技术的前沿，对各行各业的发展具有辐射带动作用。2020年，疫情、5G、新基建等等都在加
+ ## [人工智能空战时代走向前台，王牌飞行员会失业吗？](http://ai.51cto.com/art/202011/631767.htm)
+ > 近日，成功研发我国歼-10、歼-20等先进国产战机的中航工业成都飞机设计研究所，顺利完成了历时三个多月的人
+ ## [机器学习如何颠覆金融行业](http://ai.51cto.com/art/202011/631762.htm)
+ > 这些数字确实令人难以置信，表明该行业已经从机器学习中获得了多少收益。以下深入研究金融行业中机器学习中
+ ## [Year Up是如何重新定义和多样化IT人才管道的](http://www.cioage.com/art/202011/631761.htm)
+ > 为了帮助弥合机会鸿沟，职业组织Year Up正在将企业赞助商与来自服务不足的社区、渴望从事IT职业的有才华、
  ## [开源项目征集 | CSDN“开源加速器计划”之【开源技术栈选型Show】](https://blog.csdn.net/csdn_codechina/article/details/109625312)
  > 开源项目征集 | CSDN“开源加速器计划”之【开源技术栈选型Show】
  ## [一行Python代码能做出哪些神器的事情](https://blog.csdn.net/bigzql/article/details/109507814)
@@ -88,35 +92,35 @@ categories: IT NEWS
  ## [6张图！5G六大细分领域产业图谱](https://blog.csdn.net/uxuepai5g/article/details/109567725)
  > 6张图！5G六大细分领域产业图谱
 # 人工智能 
- ## [面试官：你了解大厂的接口设计原则么？就会curd的我当场自闭](https://blog.csdn.net/qq_35190492/article/details/109604398)
- > 
- ## [【数据结构——图和图的存储结构】](https://blog.csdn.net/m0_46518461/article/details/109547298)
- > 【数据结构——图和图的存储结构】
- ## [【SpringBoot】swagger 快速上手的两种使用方法](https://blog.csdn.net/weixin_43469680/article/details/109611857)
- > 【SpringBoot】swagger 快速上手的两种使用方法
- ## [LinkedBlockingQueue面试中你被问到过吗？](https://blog.csdn.net/qq_38306425/article/details/109578212)
- > LinkedBlockingQueue面试中你被问到过吗？
- ## [Java线程中的卖火车票问题](https://blog.csdn.net/qq_44086320/article/details/109584382)
- > Java线程中的卖火车票问题
+ ## [PostgreSQL 数据库跨版本升级常用方案](https://blog.csdn.net/horses/article/details/109600571)
+ > PostgreSQL 数据库跨版本升级常用方案
+ ## [Alibaba架构师深夜传授我MySQL高级调优笔记，要是再学不会，就去卖红薯](https://blog.csdn.net/qq_46388795/article/details/109645387)
+ > Alibaba架构师深夜传授我MySQL高级调优笔记，要是再学不会，就去卖红薯
+ ## [网络程序设计实验](https://blog.csdn.net/qq_41340228/article/details/109647556)
+ > 网络程序设计实验
+ ## [学习SQL数据更新，这一篇就够了！](https://blog.csdn.net/lucky51222/article/details/109625132)
+ > 学习SQL数据更新，这一篇就够了！
+ ## [【年薪百万之IT界大神成长之路二】手把手教你开数据库死锁](https://blog.csdn.net/weixin_44598507/article/details/109646345)
+ > 【年薪百万之IT界大神成长之路二】手把手教你开数据库死锁
+ ## [Explain分析语句，详细说明，包含详细测试例子](https://blog.csdn.net/weixin_37668112/article/details/109583083)
+ > Explain分析语句，详细说明，包含详细测试例子
  ## [Windows 10上开启路由转发及添加路由](https://blog.csdn.net/weixin_44647835/article/details/109616688)
  > Windows 10上开启路由转发及添加路由
- ## [【云图说合集】阅识风云之云图说系列，是您了解华为云的必备利器](https://blog.csdn.net/devcloud/article/details/109621324)
- > 【云图说合集】阅识风云之云图说系列，是您了解华为云的必备利器
- ## [路由交换实例](https://blog.csdn.net/qq_45827675/article/details/109609581)
- > 路由交换实例
- ## [测试题15（答案详析）](https://blog.csdn.net/zhu_fangyuan/article/details/109574446)
- > 测试题15（答案详析）
- ## [（保护原创）github 开源授权协议 -- 防止源码被他人用于商用（我的被侵权了）](https://blog.csdn.net/weixin_43648947/article/details/109627703)
- > （保护原创）github 开源授权协议 -- 防止源码被他人用于商用（我的被侵权了）
- ## [初识渗透测试（记录篇）](https://blog.csdn.net/weixin_50271247/article/details/109602235)
- > 初识渗透测试（记录篇）
- ## [【SaaS - Export项目】23 - Shiro加密实现登录注销，MD5加密算法，加盐加密，shiro凭证匹配器，实现增加用户密码密文存储数据库，登录时通过加盐加密对密文进行比较](https://blog.csdn.net/qq_40542534/article/details/109587390)
- > 【SaaS - Export项目】23 - Shiro加密实现登录注销，MD5加密算法，加盐加密，shiro凭证匹配器，实现增加用户密码密文存储数据库，登录时通过加盐加密对密文进行比较
- ## [计算机科学——web](https://blog.csdn.net/weixin_51535930/article/details/109577392)
- > 计算机科学——web
- ## [Linux下安装redis5.0.5的安装过程与配置](https://blog.csdn.net/weixin_43042645/article/details/109617008)
- > Linux下安装redis5.0.5的安装过程与配置
- ## [Python 写了一个 PDF 转换器，以后再也不用花钱转了](https://blog.csdn.net/weixin_52400971/article/details/109606734)
- > Python 写了一个 PDF 转换器，以后再也不用花钱转了
+ ## [MySql常用SQL语句](https://blog.csdn.net/xiaozhezhe0470/article/details/109619116)
+ > MySql常用SQL语句
+ ## [PostgreSQL执行动态SQL返回多个结果集](https://blog.csdn.net/qq_16171233/article/details/109638796)
+ > PostgreSQL执行动态SQL返回多个结果集
+ ## [AccessHelper类使用和案例](https://blog.csdn.net/qq_44858151/article/details/109637544)
+ > AccessHelper类使用和案例
+ ## [数据库作业 关于云平台上两个虚拟机互联的方法](https://blog.csdn.net/weixin_43343913/article/details/109627780)
+ > 数据库作业 关于云平台上两个虚拟机互联的方法
+ ## [Mysql事务---学习笔记1](https://blog.csdn.net/qq_38040967/article/details/109621375)
+ > Mysql事务---学习笔记1
+ ## [destoon框架导出EXCEL表格---有用请拿走~~](https://blog.csdn.net/yunzhimingya/article/details/109612120)
+ > destoon框架导出EXCEL表格---有用请拿走~~
+ ## [Oracle数据库1521端口时断时续排错(相关标续TNS-12541/TNS-12560/TNS-00511/TNS-12535)](https://blog.csdn.net/qq_40731351/article/details/109619873)
+ > Oracle数据库1521端口时断时续排错(相关标续TNS-12541/TNS-12560/TNS-00511/TNS-12535)
+ ## [创建数据库](https://blog.csdn.net/xushunmeng/article/details/109629955)
+ > 创建数据库
 
     
