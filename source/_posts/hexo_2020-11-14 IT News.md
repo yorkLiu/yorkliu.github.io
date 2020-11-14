@@ -1,21 +1,21 @@
 ---
 title: 2020-11-14 IT News
 copyright: true
-date: 2020-11-14 08:37:04
+date: 2020-11-14 09:36:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [PowerShell 7.1正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1605313805&ver=2705&signature=4zXKXptrt5J6*xXcSH*83AEk-txWF5zc1sYCBWH5dkrIFsbs2hQsqwlMHDJnJ7x396Y-VFlsEJvaFIQYXv*h6dayqkAB3Nn3UcuG2N6sidEfzx5Yu4eWzB2VDppg2BGv&new=1)
- > 微软日前正式发布了PowerShell 7.1。PowerShell 7.1是一个开源、跨平台（Windows、macOS和Linux）Shell版本，旨在管理异构环境和混合云。在PowerShell 7.0的基础上，7.1版本重点放在社区
- ## [报告：高通只能向华为提供4G芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1605313805&ver=2705&signature=NyonPJJm91*MmUPVIoX06yuWHa6nFJNhwORKO*MrqvFrx0zrsj0AkWSACITjaQXrsJNK0zY0Xi7xBx79eT*xzJi-nUebuY62horuqIg*3ld4Fqug*OH97B*JNucnoAXr&new=1)
- > 一周前，高通确认已申请向华为供应芯片的许可证。现在，来自一份报告表示，该公司已经获得了用于4G而不是5G芯片的许可证。根据有关媒体的一份报告，供应链制造商表示高通已获得向华为销售4G芯片的许可。该公司此...
- ## [自动煮粉机器、仿生机械狗……第五届海创展出一批“黑科技”](http://mp.weixin.qq.com/s?src=11&timestamp=1605313805&ver=2705&signature=8igWXYqg9mP1pOsFJWcVzoQoHvCpvMB1uqU*UlKyJW4Zt7pp2qoWxzmlpSZj6a0kd5lBmh1XsK8D5a9LX6bABsxJXoKV0iq7qs-96G-6X8s=&new=1)
- > 一碗螺蛳粉机器能自动煮好，一个箱子用“相机”一照就知道长宽高……这些“炫科技”正向我们走来。11月13日，2020海内外高端人才创新创业成果展在南宁国际会展中心D5展厅开幕，展示了近60位高层次人才带来的新技...
- ## [macOS Big Sur 正式版发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1605313805&ver=2705&signature=aucCRF*qWXRVTQ7HhZGgMrqlDkDPSe*UGGV6zKCbdZRdYmhP7i0Llt4R-MUZoD8Bs9TUWqSmFI5i43mYTWurXqn9GCu5D*3Rir3HwxvhjbSdgVxJHMSxyInN-D-BUsbY&new=1)
- > 苹果今天发布了 macOS Big Sur 正式版。macOS Big Sur 包括迄今为止最重大的 Safari 浏览器更新，并为信息 app、地图 app 和隐私功能带来了显著优化自 Mac OS X 以来最重大的设计升级macOS B
- ## [中国电信一周人事动态汇总：涉及多地及集团公司部门](http://mp.weixin.qq.com/s?src=11&timestamp=1605313805&ver=2705&signature=jjUgbknGcNuDJP**EYon-zzroc1fNCQiF2hfK6xRWrJwSZqXDxg4x8NRp3qJy1b2diPRhgkD6N4tkqM6MNWB0-La7*2nXE4CuK0*Bb-pBMagzKehZXMxQUJ2p-1YMHvb&new=1)
+ ## [中国电信一周人事动态汇总：涉及多地及集团公司部门](http://mp.weixin.qq.com/s?src=11&timestamp=1605317404&ver=2705&signature=jjUgbknGcNuDJP**EYon-zzroc1fNCQiF2hfK6xRWrJwSZqXDxg4x8NRp3qJy1b2of0W1hKvzUJF8-Eq3Q*r-e1bPMyk*o*YPlmN-TjmoTOpQGY8F2PkQX1T6nYUcGX2&new=1)
  > 本周，运营商情报关注了中国电信一周人事调整，涉及福建电信副总经理、海南电信副总经理的调整，以及改革后的全渠道运营中心副总经理、顾问的调整。详情如下：福建电信新增一个副总经理，由政企部主任林晓武升任...
+ ## [PowerShell 7.1正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1605317404&ver=2705&signature=4zXKXptrt5J6*xXcSH*83AEk-txWF5zc1sYCBWH5dkrIFsbs2hQsqwlMHDJnJ7x334hLSziK4*47YneOwU8XBBsND03sDbhN8alQRq5j21KQyNmuco1*FKYAhiiZ1X42&new=1)
+ > 微软日前正式发布了PowerShell 7.1。PowerShell 7.1是一个开源、跨平台（Windows、macOS和Linux）Shell版本，旨在管理异构环境和混合云。在PowerShell 7.0的基础上，7.1版本重点放在社区
+ ## [macOS Big Sur 正式版发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1605317404&ver=2705&signature=aucCRF*qWXRVTQ7HhZGgMrqlDkDPSe*UGGV6zKCbdZRdYmhP7i0Llt4R-MUZoD8B7JQYB2WF9xZ6-iQ-*y9nHHhABRyJbVzXzEgrGIo23MR2TprhMClqYpYPF6SAo0oX&new=1)
+ > 苹果今天发布了 macOS Big Sur 正式版。macOS Big Sur 包括迄今为止最重大的 Safari 浏览器更新，并为信息 app、地图 app 和隐私功能带来了显著优化自 Mac OS X 以来最重大的设计升级macOS B
+ ## [自动煮粉机器、仿生机械狗……第五届海创展出一批“黑科技”](http://mp.weixin.qq.com/s?src=11&timestamp=1605317404&ver=2705&signature=8igWXYqg9mP1pOsFJWcVzoQoHvCpvMB1uqU*UlKyJW7JK64zgYxx*5-Ag5gtvq2Q*gjRx*41sqHHirjBY3BOvzYvD*Cu9DyahmvHbhrb8NA=&new=1)
+ > 一碗螺蛳粉机器能自动煮好，一个箱子用“相机”一照就知道长宽高……这些“炫科技”正向我们走来。11月13日，2020海内外高端人才创新创业成果展在南宁国际会展中心D5展厅开幕，展示了近60位高层次人才带来的新技...
+ ## [报告：高通只能向华为提供4G芯片](http://mp.weixin.qq.com/s?src=11&timestamp=1605317404&ver=2705&signature=NyonPJJm91*MmUPVIoX06yuWHa6nFJNhwORKO*MrqvFrx0zrsj0AkWSACITjaQXrzvrI4WrBwoLLpnSCiI59DBt3p9XICQV5uANg96Z5qi6JIXaYhLDbOpFwSIk8uoGJ&new=1)
+ > 一周前，高通确认已申请向华为供应芯片的许可证。现在，来自一份报告表示，该公司已经获得了用于4G而不是5G芯片的许可证。根据有关媒体的一份报告，供应链制造商表示高通已获得向华为销售4G芯片的许可。该公司此...
 # IT 技术 
  ## [CIO机遇来临，Gartner提出四大方法助其把握机遇](http://www.cioage.com/art/202011/631749.htm)
  > CIO机遇来临，Gartner提出四大方法助其把握机遇
@@ -64,35 +64,35 @@ categories: IT NEWS
  ## [vue表单验证 input输入框禁止输入空格](https://blog.csdn.net/tianpeng1996/article/details/109573395)
  > vue表单验证 input输入框禁止输入空格
 # 人工智能 
- ## [cgb2007-京淘day12](https://blog.csdn.net/qq_16804847/article/details/109612005)
- > cgb2007-京淘day12
- ## [Spring cloud 理论+实践+解析 手摸手带你一起搭建（一 什么是微服务）](https://blog.csdn.net/qq_39150049/article/details/109597104)
- > Spring cloud 理论+实践+解析 手摸手带你一起搭建（一 什么是微服务）
- ## [分布式与集群傻傻分不清？生动形象只需一文全搞通！](https://blog.csdn.net/S11035762/article/details/109644832)
- > 分布式与集群傻傻分不清？生动形象只需一文全搞通！
- ## [Spring学习指南+实战实践+源码解析阿里P8带你深入Spring技术内幕](https://blog.csdn.net/weixin_47067712/article/details/109625033)
- > Spring学习指南+实战实践+源码解析阿里P8带你深入Spring技术内幕
+ ## [做十年Windows跟十年linux的程序员差距有多大](https://blog.csdn.net/linuxguitu/article/details/109615062)
+ > 做十年Windows跟十年linux的程序员差距有多大
+ ## [谁说中国没有 Linus？中国初代 IT 宗师封神榜](https://blog.csdn.net/csdnnews/article/details/109610416)
+ > 谁说中国没有 Linus？中国初代 IT 宗师封神榜
  ## [成年人的世界都不容易-看看做到年薪50万的程序员，到底有多累？](https://blog.csdn.net/weixin_48011329/article/details/109646215)
  > 成年人的世界都不容易-看看做到年薪50万的程序员，到底有多累？
- ## [阿里技术大牛20年经验分享微服务治理体系架构文档](https://blog.csdn.net/weixin_50020950/article/details/109644984)
- > 阿里技术大牛20年经验分享微服务治理体系架构文档
- ## [Java面试过了京东五面之后，发现掌握了这些技术也没有那么难](https://blog.csdn.net/Lubanjava/article/details/108735028)
- > Java面试过了京东五面之后，发现掌握了这些技术也没有那么难
- ## [金九银十面试结束了，我把所有大厂的Java岗面试题都总结了个遍](https://blog.csdn.net/m0_46995061/article/details/109644188)
- > 金九银十面试结束了，我把所有大厂的Java岗面试题都总结了个遍
- ## [又一里程碑！阿里新产SpringBoot笔记，差距不止一点点](https://blog.csdn.net/weixin_48182198/article/details/109618061)
- > 又一里程碑！阿里新产SpringBoot笔记，差距不止一点点
- ## [11月份最新拼多多五面面经（Java岗），全面涵盖Java基础到高并发级别](https://blog.csdn.net/bjmsb/article/details/109647498)
- > 11月份最新拼多多五面面经（Java岗），全面涵盖Java基础到高并发级别
- ## [首发！阿里大佬整理的万字MyBatis实战笔记，精简易懂，开源免费下载](https://blog.csdn.net/Java_supermanNO1/article/details/109648246)
- > 首发！阿里大佬整理的万字MyBatis实战笔记，精简易懂，开源免费下载
- ## [学习企业级平台架构一篇就够了（LNMP之手工编译安装以及Discuz论坛的部署）！！](https://blog.csdn.net/qyf158236/article/details/109095775)
- > 学习企业级平台架构一篇就够了（LNMP之手工编译安装以及Discuz论坛的部署）！！
- ## [速来围观！阿里P8大牛写出的JDK源码剖析及大型网站技术架构与业务架构融合之道](https://blog.csdn.net/a159357445566/article/details/109646318)
- > 速来围观！阿里P8大牛写出的JDK源码剖析及大型网站技术架构与业务架构融合之道
+ ## [【数据结构——图的遍历】](https://blog.csdn.net/m0_46518461/article/details/109582126)
+ > 【数据结构——图的遍历】
+ ## [生活随记 - 祝你生日快乐](https://blog.csdn.net/mchdba/article/details/109605757)
+ > 生活随记 - 祝你生日快乐
+ ## [程序员的十年之痒](https://blog.csdn.net/qq_36894974/article/details/109568488)
+ > 程序员的十年之痒
+ ## [美团面试挂了后，于是我花几个月整理了这些面试题](https://blog.csdn.net/weixin_46577306/article/details/109578087)
+ > 美团面试挂了后，于是我花几个月整理了这些面试题
  ## [什么算是有价值的测试用例？](https://blog.csdn.net/Shinranyao/article/details/109626461)
  > 什么算是有价值的测试用例？
- ## [应届生拿下京东小米Java岗offer，学习笔记都在这里了（年薪28w的面经）](https://blog.csdn.net/yueyunyin/article/details/109114930)
- > 应届生拿下京东小米Java岗offer，学习笔记都在这里了（年薪28w的面经）
+ ## [刚面完阿里Java高级岗40K的offer，这些技术你必须要掌握！](https://blog.csdn.net/weixin_45132238/article/details/109599525)
+ > 刚面完阿里Java高级岗40K的offer，这些技术你必须要掌握！
+ ## [研究生学习生活日记——第五次组会](https://blog.csdn.net/skyejy/article/details/109611534)
+ > 研究生学习生活日记——第五次组会
+ ## [档案管理学川大972 | 档案信息资源开发与利用](https://blog.csdn.net/YuvalNoah/article/details/109612108)
+ > 档案管理学川大972 | 档案信息资源开发与利用
+ ## [那些往事（三）](https://blog.csdn.net/weixin_48175309/article/details/109580539)
+ > 那些往事（三）
+ ## [mfc该注意的事项](https://blog.csdn.net/weixin_44957370/article/details/109611905)
+ > mfc该注意的事项
+ ## [谈谈从小公司进入大厂，我都做对了哪些事？](https://blog.csdn.net/weixin_50271247/article/details/109599376)
+ > 谈谈从小公司进入大厂，我都做对了哪些事？
+ ## [念力编程的宇宙](https://blog.csdn.net/tian0000hai/article/details/109565790)
+ > 念力编程的宇宙
 
     
