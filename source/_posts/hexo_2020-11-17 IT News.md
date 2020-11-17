@@ -1,145 +1,119 @@
 ---
 title: 2020-11-17 IT News
 copyright: true
-date: 2020-11-17 12:21:44
+date: 2020-11-17 17:16:31
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智眼看5G丨赋能千行百业，5G引领的革命性变化将超乎想象](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=j2daRDbv0sysct9g-7J4chBy2E6IytqyhJxVtCzh1no83gFIrG1U4U7c7p-SM4l9osfSudO3AGiclfAW6yYZOhg1hZuvm7iPKR9lnJWBEZiIXh6*gS7QDevMsc5zxYNo&new=1)
+ ## [全球数百万台 Mac 疑似因 Big Sur 更新险酿计算灾难，苹果官方回应来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=eOZIloxeo9LCRwd8z-iOKjIKc3-IDReQZu3ipBNoKUH6FBv-A4TvesonhororAGeOkTxNVxJGZIjlKY*yhaFd-FM0iQ72u5rVwownq5hXCLLs7a5zPKHJEh-03dOLtqg&new=1)
+ > 整理 | 夕颜出品 | CSDN（ID:CSDNnews）近日，苹果在发布会上推出了数款专用芯片M1支持的Mac新品，包括Mac book、MacBook Pro和Mac mini系列。随之一起重磅发布的，还有macOS 11.0，也就是大
+ ## [这场5G盛会，终于要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=j2daRDbv0sysct9g-7J4chBy2E6IytqyhJxVtCzh1nrvbfun158l-WRzS73Spmz8RjNCar1TWvf1nksbHmwTbnS9dY*Ug2sUG2dUrxDkdfU7cgo0qgw4MFCNnaJDxqA7&new=1)
+ > 11月17日，记者从广东省政府新闻办召开的2020世界5G大会新闻发布会上获悉，由广东省人民政府、国家发展和改革委员会、科学技术部、工业和信息化部共同主办的2020年世界5G大会将于11月26至28日在广州举办。本届大...
+ ## [夺魁NeurIPS 2020电网调度大赛，百度PARL实现NeurIPS强化学习竞赛三连冠](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=lXV1rtCRXFB5K119zqzQrbzv5H4eBIb2eK9*Xi5r-Vp*zado3xNt15WGK6PGGZlIZKv78n5vG45*OwTieE5FCNGttXWJrESGKturOES-wcVjhPAn3sz2ohyAanm8KcIU&new=1)
+ > 机器之心发布机器之心编辑部受疫情影响，人工智能顶级学术会议 NeurIPS 2020 将通过线上的形式进行。随着会议召开时间临近，该会议承办的竞赛也陆续揭晓结果。今年新增的电网调度竞赛（Learning To Run a Power ...
+ ## [问云哪得安全又低延，唯有 Azure Stack 本地来!](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=A2u6aawpCCgB7fzkGyEMOBT2ryVPKUsJ6jeD0Xi9XcOSv7q54n43KTDjm6D0ODZ00TeQ34xIVptXihfAZ0xexUB39DJd5wWOKD2wZ0hTGOihKP-QWv6J5nRnYnpyGxUI&new=1)
+ > （本文阅读时间：3分钟）在企业 IT 架构实现向云演进的过程中，越来越多的企业出于安全合规、已有数据中心、本地化体验等自身的建设要求，希望在自己的数据中心内也可以获得云计算带来的服务体验。为了满足这一...
+ ## [《中国半导体分立器件封测产业调研报告》-中半协封装分会](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=vHv1BCvxKORn4MvrPlJTytWlBT-rC*XvvJtqZKsZWXG*5OXwm1U0fZjHGXF0hSWtCkdVybyrEsA7ajCXIpS*aPPAz6NGSwfnquRb8ow0*nzYA*8j0XIpviBvsH6uDqo3&new=1)
+ > 广告栏半导体技术是电子信息产业的基础，是国民经济的重要支柱产业。半导体产业由三个产业链组成，即：设计、芯片制造、封装测试。封装测试产业是半导体产业链的重要环节之一。2019年封装测试产业虽然受到不利的...
+ ## [华为回应出售荣耀](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=j2daRDbv0sysct9g-7J4chBy2E6IytqyhJxVtCzh1nrPt-ylXqAdBYQ-kmB4al4avvTKdaCY4alfICK9kWW2iOoMb6rDDaXcUkXxWVaQPJRuAh0NJPeyPUym93AJlm4G&new=1)
+ > 今日（17日），多家企业在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产的全面收购。出售后，华为不再持有新荣耀公司的任何股...
+ ## [黑五剁手安全指南](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=4tXE8T80gIyhJCDN-LXYOBsktPnkpCmRZnPxJCgm-3ZQcntSpEUe3vWe8Fr-dWPkhzZnnBvvxirXKECsRUViNlbO*LqOmoMYVOahSt2zUzXUbDdZSSshCKelGMfABXgT&new=1)
+ > 安全牛评双十一的燥热尚未消退，黑五和网络星期一又接踵而来。安全牛注意到，今年黑五的一大热门话题就是隐私安全。如果消费者自己不严格把关，很有可能将“隐私炸弹”、“隐私木马”引狼入室。随着智能家电、可...
+ ## [华为正式出售荣耀手机 一场关于求生与成长的交易](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=rvhk0F03PHotElV9KSxz8V4yayCOoFaKRhcwlPQiCibPqQ7EaEqvRr2VqEHqP7w0KjWkcCpuGUvEeX1Nvt6nJe8Hp0NPvYInTyzKPasb47HgvEfJFFUGIQa-dSqjkhSp&new=1)
+ > 作者：郭晓峰11月17日，华为正式对外宣布，出售旗下荣耀手机。当天，多家企业在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产...
+ ## [华为出售荣耀，方案公布](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=yyvgCUdjHbQfwkMIkG15rLL5vp*q0hDPsM1ETaqZwQBAYYS-zFkKfzrwSkEbtKl0CXKEoCfAZ8VpQZHl2eO7PRfW*PY-DOcc4cCGnRYa-X8la83o55lGjsjd-1gP2Pwy&new=1)
+ > ►  观察者网•大橘财经讯  文/周昊 编辑/周远方 再有一个月，荣耀便会迎来自己的七周岁生日。 这次的生日已不会在华为度过。独立的传言纷扬数月，华为与荣耀最终还是迈出了“分家”这艰难的一步。 11月17日上午...
+ ## [电子工程师常弄混的总线分类汇总，你中招了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=tix8VGhwHLoF*g8MytqyWnwuhGFHaZ3Q5DFMT8e*9srStZlxQfj9EgrabPiYmyNsajbE7DJn8B1D87PHypljo-4ZnLN5qivstR*EiGbCW7uvLMpS8hpxP6doLwqmpavs&new=1)
+ > 谈总线之前，首先应该明白总线是什么？总线是计算机各种功能部件之间传送信息的公共通信干线，它是由导线组成的传输线束，按照计算机所传输的信息种类。其实，总线是一种内部结构，它是cpu、内存、输入、输出设...
+ ## [百度第三季度营收282亿元净利137亿元 均超华尔街预期](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=pLpJjRmB*XpT5Jk*ki4KjmYDlaq*qgZ36PsdgXQ7s45-VmbphfKNTRxRbkgADiQ2LRe9GN313lSOvUXg4CoSIwUCharZBqXpV5lRWrx30LQ=&new=1)
+ > 上证报中国证券网讯（记者 温婷）百度17日发布截至2020年9月30日未经审计的第三季度财务报告。2020年第三季度，百度实现营收282亿元（人民币，下同），归属百度的净利润达到137亿元，营收和利润均超出华尔街...
+ ## [华为荣耀，卖了](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=uJcVHweTokUZPTPZzcjxZtYP*rRg7C07uqsGBa31BTkPfZuwKO9CtVRCbtaZX4OBopgrPJBOlTui4mNtv7tRSI2*4IynFH4I9kCk70vgMdgT4pGFZup0tHE6O3bJDaFg&new=1)
+ > 作者丨王飞邮箱丨wf@pingwest.com尘埃落定。11月17日早晨7点，深圳市智慧城市科技发展集团与30余家荣耀代理商、经销商在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署...
+ ## [荣耀正式出售!30余家代理商接盘自救，华为回应..](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=CLvw8D7tmWiGGNlVeXQEnIefCemvl6plGIxgoKoZ5w8SfwwgdNIn7103TMplkDA9rtpvPkJoQV*uUwUdQS4k80TQ2tUUZJKIrDpO1R0ynDkSY7kvij1PyyI3-bfv9yaq&new=1)
+ > 11月17日，多家企业发布联合声明，正式确认深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产的全面收购。深圳市智信新信息技术有限公司，由深圳市智慧城市科技...
+ ## [智眼看5G丨赋能千行百业，5G引领的革命性变化将超乎想象](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=j2daRDbv0sysct9g-7J4chBy2E6IytqyhJxVtCzh1noZj2FZRMCK2i35cRN*1Hv-jbRwyeykL77SiuQrSm9Ac3-NYfDriay5fxL7l4TtUf6u9Ypz*JkcS-uNLM1xD**E&new=1)
  > ◎ 科技日报记者 崔爽中国信息通信研究院10月发布的《全球数字经济新图景（2020年）》白皮书显示，2019年，全球数字经济平均名义增速为5.4%，高于同期全球GDP名义增速3.1个百分点。其中，发展中国家数字经济增速...
- ## [壮大龙头企业 推动产业集群发展](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=ZmjoTte1JbwBmJcAnseFamHBncGr9sDhT2fgH5h1TWJQtkD-eROUI6ceaKIV1jomor4d-ADCbuVNrrB6iz44d5ZAbzO1uJVnkmZbUlkxK6Q=&new=1)
+ ## [壮大龙头企业 推动产业集群发展](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=ZmjoTte1JbwBmJcAnseFamHBncGr9sDhT2fgH5h1TWKuJGSoBnTBlbDHcNEZ7dQ4ObnobWwQgv0ZQFA-RB9ja3RKloh0UYwl43InDbqKklc=&new=1)
  > 潘朝选　　　　贵州国卫信安科技有限公司通过产教融合的模式，不断为贵州大数据发展输出符合产业需求的专业型、实战型网络安全人才；贵州众信云信息技术有限公司落户贵安4年，其研发的充电桩软件系统、智慧...
- ## [华为宣布出售荣耀，声明来了](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=aMpOAltw*vqPOAIxzWNCKQMnTs7u0ny2Bjl9Kl3JD4ikdDZIdrMI0p-mDEXPPPec6olq3u6Lpqxg4JIZ87MsTl8ud6o8f8Na3oQN*GnTVfDYKcNmSG7ttl4mR1bLkWoB&new=1)
+ ## [华为宣布出售荣耀，声明来了](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=aMpOAltw*vqPOAIxzWNCKQMnTs7u0ny2Bjl9Kl3JD4h2QR23EBRGltrvVeJmxNRk1bx6F7JTOhdHFNIviINaFcpQYqZsN2nB11kDKySZo8a9ane2NEbyDJrTWNL7ImBD&new=1)
  > 今天，华为发表声明，整体出售荣耀业务资产。对于交割后的荣耀，华为不占有任何股份，也不参与经营管理与决策。11月17日一早，荣耀最终的出售方案公布。多家企业在《深圳特区报》发布联合声明，深圳市智信新信息...
- ## [刚刚，华为官宣：出售荣耀，不再持有任何股份](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=0xIMDl-BQgCrP*Rv6uNFuXicwsOpjhnXKYj5VC1eT43Xqkd0LxKdp2HB3OSQD02XYqYsmTyRYJ7GqXuW5RA8tH4m*kuGBkSMndpZoG4lvAecVxWbUkO8zWrkiSGS-q94&new=1)
+ ## [刚刚，华为官宣：出售荣耀，不再持有任何股份](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=0xIMDl-BQgCrP*Rv6uNFuXicwsOpjhnXKYj5VC1eT41Hf9PU8DKcSsQl0cHtiIRBx2R0JfRD5LfU8aWMgCbMkJBZ5iL7m02uZqmEv-V0nRNeOX2CUBfsA96-d3eVv8FP&new=1)
  > 今日（17日），多家企业在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产的全面收购。出售后，华为不再持有新荣耀公司的任何股...
- ## [叁帝智造入驻未知大陆开店，在线3D打印专、精、特材料](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=3TVheRnshLuVYnz*rJodKdCD5fzazzy*Bo*2fvAglFYYgir1s45ysH-nDJU6mCKUj*wrcj3uuVHW80Gh2c8ey41C3Iqp3XsVQ87EFc7-v4NGT8MTUgc1XF6ynT7BM1xM&new=1)
+ ## [叁帝智造入驻未知大陆开店，在线3D打印专、精、特材料](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=3TVheRnshLuVYnz*rJodKdCD5fzazzy*Bo*2fvAglFYCsri7h8RqbNtdjIeZc3ZvkOHaTg*PLj7TFkSEfLt0t6TMv9glYhqFpqXZ1oHBmru3onynpwElD7-8i43vst2P&new=1)
  > 2020年11月17日，武汉叁帝智造科技有限公司在未知大陆平台开设的3D打印服务店铺(&gt;&gt;阅读原文)正式上线运营。公司致力于以专业的3D打印技术、以传统工艺结合3D打印生产制造工艺特点，以创新设计、数字化制造思维，...
- ## [华为正式出售荣耀：不再持有任何股份；百度 36 亿美元收购YY直播；滴滴发布定制网约车 D1|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=hPt6qsK0qivbjPpdv9oIrE5gMBQgAccFHLlEK*oXLIuhraCHFuTEJLSe5TopFnOZInsExI0ZL*iEOErHpp-SNLGQDYcql3QxlKE4ssfcMim3gStrTD5Gk1NFauxFrG3c&new=1)
+ ## [华为正式出售荣耀：不再持有任何股份；百度 36 亿美元收购YY直播；滴滴发布定制网约车 D1|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=hPt6qsK0qivbjPpdv9oIrE5gMBQgAccFHLlEK*oXLIspO55de-vFZ9jhjcc9*W4sOgIHsWmZnhz*74CAut9HQPm0ia6zzs3hyTTXD4pN8Hku51ghq5GTjFo2FlxPuwHL&new=1)
  > 华为出售荣耀：不再持有任何股份11 月 17 日早间，多家企业在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产的全面收购。出售...
- ## [重磅，华为官宣卖掉荣耀!深圳市府和30多家经销商接盘，未见神州数码TCL](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=rhGJVEDQeocvWvrcVrlae5F931sFhSuL7wSBub*oXjINngGpnJMWdZH-WvE75WEa5kElkCDPcx3bklqlJbp5Y9BRltsEWdiDc586S5-BaomI2Zu*s66KyYisqGmmmj4u&new=1)
+ ## [重磅，华为官宣卖掉荣耀!深圳市府和30多家经销商接盘，未见神州数码TCL](http://mp.weixin.qq.com/s?src=11&timestamp=1605603605&ver=2711&signature=rhGJVEDQeocvWvrcVrlae5F931sFhSuL7wSBub*oXjJqNU8W*D2drFWWQ14Ds55nJ44SoND-87lEsmPNx5ufctj*Y3DNTmjy-bPlH7t3kwCd5G9lo4crMGs*0pRGLTO1&new=1)
  > 中美贸易摩擦只是起了催化的作用，该来的迟早要来。文 |  云鹏编 |  漠影智东西11月17日早间消息。荣耀今天正式被卖。经过一个多月的发酵，终于靴子落地。今天一大早，40家企业在深圳特区报上发表了联合声明，拥...
- ## [紧急叫停!瑞典法院暂时取消对华为和中兴的5G禁令](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=tzmFTldOlfy2yIlzp*UtXsGJ-OFTriYOAKa7mVvjpVcUezm0LqSQDvAGFNyRLYSTY5IvXwqEe2YL5zPrh0lJnqt6x7ICLhjU4nsCJp9ASWO2LcXbJi0QeiJvhKtyBK*D&new=1)
- > E安全11月17日  据外媒报道，近日，瑞典斯德哥尔摩一家行政法院暂停了禁止华为设备进入该国5G网络的决定。今年10月，瑞典宣布禁止中国科技公司华为和中兴建设其5G网络基础设施。瑞典邮政和电信管理局此前宣布，...
- ## [重磅突发!华为出售荣耀，不再持有任何股份!30余家代理商接盘"自救"](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=U29rb4smg2WczL3JVCbKNQIumGVrtuzr7Gj8JVcpbZVOGh94YmRL-lldiTKgY1hR7q6lRBCqnWSPmWAPY9qRQMg4-pia-ui3JwEx5YPzAgS6TR5VR0oa3N7Xm7XzUWSC&new=1)
- > 中国基金报 泰勒17日一大早，华为就有重磅大消息，在经历了曝光，辟谣之后，华为出售荣耀手机的事儿，终于定下来了。华为出售荣耀：不再持有任何股份今日，多家企业在《深圳特区报》发布联合声明，深圳市智信新...
- ## [华为出售荣耀：不再持有任何股份](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=rvhk0F03PHotElV9KSxz8V4yayCOoFaKRhcwlPQiCiasopoIAU-tz6ojnWRn1uOxoNViGKcnvn9f15jC2i0idSwYHtQIqIwIBF18rwp1rOhdjiYigiiSB*emoyfwyuVW&new=1)
- > 腾讯新闻作者 马圆圆11月17日，多家企业在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产的全面收购。出售后，华为不再持有新...
- ## [\[官宣\]华为出售荣耀全部股份：深圳国资主力接盘 30余家代理商参与](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=*J1baJkzEoOp9-UwcvUOYWoZ774VpOQbwLYN-J2sU6Th8OdtR*xzW70k9mkroZiUbRT43AQSFfLPI4JULG0r0vcw5FIOKRxYaiFovtkXuBqu7PJ-vBB4JDkxrhizY-iS&new=1)
- > 今日（17日），多家企业在《深圳特区报》发布联合声明，深圳市智信新信息技术有限公司已与华为投资控股有限公司签署了收购协议，完成对荣耀品牌相关业务资产的全面收购。出售后，华为不再持有新荣耀公司的任何股...
- ## [专访|光信电子：立足波分产品 专注无源方案](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=TJcUH4Sn*Gw-3Q0u7wBK0QwviMcqdo7VdLGEUXbGXSdNcDyGhKkapg2n9Mh7fqpEqKwNHFW3j-jL6uTjf0AxzU7Ous4C8KgJLAYGWtA2ejS9Fx1kqLqYupELMEm4vWjn&new=1)
- > 新 闻 导 读5G光通讯市场伴随巨大机遇和重重风险，需要光器件厂商多加磨炼内功，以质求胜，光信电子以波分器件作为市场切入点，致力于提供高品质的波分器件与快速交付能力，提升定制化产品和成熟产品工艺能力，...
- ## [\[报告\]2020华域汽车业务研究(附26页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=Drj72ZJ*e7FamCn-l74yHfUzlvC2CrJGM0tJandgLPju0N6gWu7Ng6N8FQoESpj2n0JCJFuMvKUMWG6LbPsYgm7v1zw9DDdo5hTh5pzxbZuMFbdMqNbE5tdzxErUmDFf&new=1)
- > 华域汽车2009年借壳巴士股份登录A股，由上汽集团下属23家零部件企业组合而成。公司业务主要包括金属成型与模具、内外饰、电子电器、功能件、热加工、新能源等。旗下主要公司有延锋汽车饰件、华域视觉（原上海小...
- ## [Additive Industries推出比上一代大五倍的金属打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=3TVheRnshLuVYnz*rJodKdCD5fzazzy*Bo*2fvAglFaqa-QxUeW*yTtyjrz5qFsMhh-*GHPjNy1oz3tRwTLRe24aLtbyBPvlTxZoUUS07qIT17xTu8q8wBPcig4ACZUV&new=1)
- > 总部位于荷兰的3D打印公司Additive Industries宣布了其新的旗舰3D金属打印机MetalFAB-600，其构建体积是其姊妹机型MetalFAB1的五倍。MetalFAB-600将在其前身的基础上进一步开发新的自动化密钥生产流
- ## [曾惊动中国大使馆的欧洲专利流氓迎来中国企业的连续痛击](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=zJuD03jyNrfdHzf4eX2-kPl9Jt-mYn9ySyicJUnn03EgrWkADeE2vuUghhB6xTcdQRj-cdBe6pGSzOmM8Wuu5bpyMC65P9JcFQdSLhptIcaPTLfVOKbcMnQtX3k96Bjk&new=1)
- > 近日欧洲专利运营企业Sisvel在荷兰海牙法院被判败诉，中国手机企业小米对该公司持有的一项专利不构成专利侵权，这是中国手机企业在欧洲市场遭遇的专利诉讼当中的首次重大胜利。Sisvel是一家非执业实体，这类企业...
- ## [划时代|小鹏P7用极客精神诠释语音交互](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=rXYuVGSf*dIEGNxPUl9fKh8PKd7azbZfyKQD9r7CQmdBZ0MwGQqqO34JBYoIbmS9wOqpB5DyCzq9QMMbKlNBsrLpDqyGqUubc2wHTeDIgUmHcNGTf8pL0KcjzPhtHQ26&new=1)
- > 语言的力量语言，是生物同类之间，具有统一编码和解码标准的声音指令。在生物漫长的发展史中，语言起着举足轻重的作用，它是生物相互交流所诞生的信息，动物用语言传递着喜怒哀乐与分工合作，人类用语言建立着...
- ## [打造安全生态,AWS用安全底座迎接云计算黄金十年](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=JYcHTFhhAfD16vXTrAkklojwtv4p8R*yg4hb4pZeRYMZ0XgySLwmui0T6hkOY9nSSH8Gjr5jkzG9laGsfesuiaHhOryNqAHu6KgYM5JHCKQm2L4zjVKE0x9aqywTbkly&new=1)
- > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记麦肯锡的数据显示，目前企业工作负载中只有20%完成了上云，而多达80%的关键业务工作负载还在上云的路上。进入到2020年，新冠疫情这只黑天鹅不期而至，于是，在线远程办公...
- ## [定了!联通宣布：将全面退出!网友：终于还是要说再见了](http://mp.weixin.qq.com/s?src=11&timestamp=1605585604&ver=2711&signature=0xIMDl-BQgCrP*Rv6uNFuXicwsOpjhnXKYj5VC1eT41NJ5OQaA3OsOxyyDOpdpgz-SGmanAVHJC8GmERZ4gRwdykUy1hykwCmMIMsKHSbiKVa9AecPIl3Oi3AeKr7cNF&new=1)
- > 近日，“中国联通最快明年实现2G全面退网”的消息，引发热议。据第一财经消息，11月12日，中国联通5G共建共享工作组组长苗守野表示，联通今年底已计划240个本地网2G退网，最快明年底实现2G全面退网。此外，清退2...
 # IT 技术 
+ ## [一文带你玩转设计模式之「责任链」](http://developer.51cto.com/art/202011/632049.htm)
+ > 一文带你玩转设计模式之「责任链」
+ ## [双十一刚过，你的手还好吗？这些Colab技巧帮你愉快地薅谷歌羊毛](http://zhuanlan.51cto.com/art/202011/632044.htm)
+ > 双十一刚过，你的手还好吗？这些Colab技巧帮你愉快地薅谷歌羊毛
  ## [瞧瞧，人家那后端API接口写得多优雅！](http://developer.51cto.com/art/202011/632053.htm)
  > 瞧瞧，人家那后端API接口写得多优雅！
  ## [在边缘处部署Kafka的用例与架构](http://developer.51cto.com/art/202011/631971.htm)
  > 在边缘处部署Kafka的用例与架构
  ## [鸿蒙HarmonyOS分布式软总线：构建低时延、高带宽的多设备虚拟网络](http://os.51cto.com/art/202011/631924.htm)
  > 鸿蒙HarmonyOS分布式软总线：构建低时延、高带宽的多设备虚拟网络
+ ## [Ubuntu被曝严重漏洞：切换系统语言+输入几行命令，就能获取root权限](http://os.51cto.com/art/202011/632066.htm)
+ > Ubuntu被曝严重漏洞：切换系统语言+输入几行命令，就能获取root权限
  ## [关于机器学习管道需要了解什么?](http://ai.51cto.com/art/202011/631970.htm)
  > 关于机器学习管道需要了解什么?
- ## [全面解读谷歌云人工智能如何为机器学习提供帮助](http://ai.51cto.com/art/202011/631820.htm)
- > 全面解读谷歌云人工智能如何为机器学习提供帮助
- ## [HarmonyOS分布式数据管理：打破数据跨设备屏障，让数据自由流转](http://database.51cto.com/art/202011/631793.htm)
- > HarmonyOS分布式数据管理：打破数据跨设备屏障，让数据自由流转
- ## [编程语言TOP10！该如何选择适合自己的？](http://developer.51cto.com/art/202011/631841.htm)
- > 编程语言TOP10！该如何选择适合自己的？
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
+ ## [面向对象C零基础入门精讲视频教程（10）正则表达式及应用](http://fellow.51cto.com/art/202007/622207.htm?qd=51ctojrzd)
+ > 面向对象C零基础入门精讲视频教程（10）正则表达式及应用
+ ## [不要错过这8款好用的开源报表工具](http://developer.51cto.com/art/202011/632116.htm)
+ > 善用工具，省时省力！一起来看一下8款好用的开源报表工具都有哪些吧！
+ ## [Java 微服务能像 Go 一样快吗？](http://news.51cto.com/art/202011/632111.htm)
+ > 我们在本文中提出一个问题：“Java 微服务能像 Go 一样快吗？”为此，我们创建了一系列微服务并进行了基准
+ ## [解析大数据存在的五大安全问题](http://bigdata.51cto.com/art/202011/632107.htm)
+ > 互联网时代，数据已成为公司的重要资产，许多公司会使用大数据等现代技术来收集和处理数据。大数据的应用，
+ ## [什么是数据中心，它们是如何变化的？](http://network.51cto.com/art/202011/632100.htm)
+ > 数据中心的未来将依赖于云计算、超融合的基础设施和更强大的设备。
+ ## [5G结合边缘计算新服务模式，成为移动营运商新商机](http://network.51cto.com/art/202011/632099.htm)
+ > 为了寻找5G的最新应用范例，美国移动网络营运商威瑞森(Verizon)决定与韩国电子巨头LG公司，以及两家加州新
+ ## [探索物联网的过去、现在和未来](http://iot.51cto.com/art/202011/632098.htm)
+ > 物联网（IoT）正在各个领域得到广泛应用，世界正逐步将物联网转变为万物互联。让我们来看看物联网的过去、
+ ## [Capcom承认数据泄露，并披露了详细信息](http://netsecurity.51cto.com/art/202011/632097.htm)
+ > 最近，日本游戏巨头Capcom遭到勒索软件攻击，攻击者窃取了客户信息及员工信息。当地时间11月16日，Capcom宣
+ ## [Python报错不要慌，这三个关键词帮你解决问题！](http://developer.51cto.com/art/202011/632096.htm)
+ > 写代码必然会出现错误，而错误处理可以针对这些错误提前做好准备。通常出现错误时，脚本会停止运行，而有了
+ ## [互联网大数据在门户网站、网络推广方面的应用！](http://bigdata.51cto.com/art/202011/632091.htm)
+ > 互联网大数据在门户网站之中应用，可以通过数据挖掘技术，从互联网的的各类平台数据库之中爬取到用户浏览信
  ## [JavaScript如此受欢迎的4个原因](http://developer.51cto.com/art/202011/632090.htm)
  > JavaScript 之所以能在编程语言中名列前茅，是有充分的理由的。如 GitHub 的 The State of the Octoverse
- ## [一篇文章带你了解CSS 选择器](http://developer.51cto.com/art/202011/632085.htm)
- > CSS选择器是一种用于匹配HTML文档中元素的模式。关联的样式规则将应用于与选择器模式匹配的元素。
- ## [加密货币如何从大数据分析中受益](http://bigdata.51cto.com/art/202011/632080.htm)
- > 大数据分析是加密货币成功的诀窍之一。通过发现安全问题和欺诈活动模式，可以保持数据加密功能和安全性。
- ## [关于云计算测试需要知道的一切](http://cloud.51cto.com/art/202011/632079.htm)
- > 发布周期如今已经成为网站应用程序开发的关键指标之一。在动态变化的业务环境中，上市时间的快慢变得极其重
- ## [5G技术与人工智能的智能结合](http://network.51cto.com/art/202011/632077.htm)
- > 5G是边缘的最终未来。尽管距离广泛部署还有很长一段时间，但5G还是向更分布式环境发展云计算生态系统的关键
- ## [5G的频谱效率，到底有多高？](http://network.51cto.com/art/202011/632076.htm)
- > 无线频谱，是运营商最宝贵的资源。如果把无线网络比作一片稻田的话，无线频谱就是种植这些水稻的土地。如果
- ## [被黑客攻击了，登录流程要怎么做才安全](http://netsecurity.51cto.com/art/202011/632075.htm)
- > 用户登录是系统中最重要的功能之一，登录成功就能拥有系统的相关使用权限。所以设计一个安全的登录流程是十
- ## [埃森哲咨询公司的学徒制使人才渠道多样化，弥合IT人才的缺口](http://www.cioage.com/art/202011/632072.htm)
- > 埃森哲公司的“全国学徒制项目”正在开辟全新的、多样化的人才渠道，以招募那些上进的求职者，他们可以通过
- ## [警惕！你的业务系统可能已经成为黑产违法犯罪的凶器](http://netsecurity.51cto.com/art/202011/632070.htm)
- > ​随着网络服务的应用和普及，网络运营者(企业)占据了大量社会资源，也应当承担相应的义务。
- ## [六评美国危害全球安全：网络攻击 为所欲为](http://netsecurity.51cto.com/art/202011/632073.htm)
- > 当地时间8月5日，美国国务卿蓬佩奥在记者会上宣布美国建立“清洁网络”（Clean Network）的五大措施，并点
- ## [开源项目征集 | CSDN“开源加速器计划”之【开源技术栈选型Show】](https://blog.csdn.net/csdn_codechina/article/details/109625312)
- > 开源项目征集 | CSDN“开源加速器计划”之【开源技术栈选型Show】
- ## [大数据基础：Spark工作原理及基础概念](https://blog.csdn.net/QcloudCommunity/article/details/109685416)
- > 大数据基础：Spark工作原理及基础概念
- ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
- > CSDN专属idea插件上线啦，开发者效率提升神器~~
- ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
- > CSDN Chrome插件新版发布，新标签页大更新
- ## [如何写出更具有Python风格的代码](https://blog.csdn.net/somenzz/article/details/109685295)
- > 如何写出更具有Python风格的代码
- ## [太好了 | 这篇写的太好了！Spring Boot + Redis 实现接口幂等性](https://blog.csdn.net/melovemingming/article/details/109665270)
- > 太好了 | 这篇写的太好了！Spring Boot + Redis 实现接口幂等性
- ## [成功拿下阿里P6的offer后，总结出大厂面试的血泪史](https://blog.csdn.net/Lubanjava/article/details/108970394)
- > 成功拿下阿里P6的offer后，总结出大厂面试的血泪史
- ## [学习C基础这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/108279676)
- > 学习C基础这一篇就够了
- ## [开源啦！一个基于 Vue 3 + Vant 3 的商城项目](https://blog.csdn.net/ZHENFENGSHISAN/article/details/109590302)
- > 开源啦！一个基于 Vue 3 + Vant 3 的商城项目
- ## [FPS游戏自动瞄准敌人头部？是如何实现的（三）准星算法与实现自动瞄准](https://blog.csdn.net/qq_36553941/article/details/108793901)
- > FPS游戏自动瞄准敌人头部？是如何实现的（三）准星算法与实现自动瞄准
- ## [汇编没什么用，不用学了](https://blog.csdn.net/coderising/article/details/109685262)
- > 汇编没什么用，不用学了
- ## [华为年薪100万聘用“天才少年”，Java小白的你怎么做到？](https://blog.csdn.net/m0_46757769/article/details/109614477)
- > 华为年薪100万聘用“天才少年”，Java小白的你怎么做到？
- ## [Vue项目实战09 ： vue3.0实现点击切换验证码(组件)及校验](https://blog.csdn.net/weixin_46034375/article/details/109622776)
- > Vue项目实战09 ： vue3.0实现点击切换验证码(组件)及校验
- ## [阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer](https://blog.csdn.net/qq_46388795/article/details/109512350)
- > 阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer
- ## [一行Python代码能做出哪些神器的事情](https://blog.csdn.net/bigzql/article/details/109507814)
- > 一行Python代码能做出哪些神器的事情
 # 人工智能 
- ## [成功拿下阿里P6的offer后，总结出大厂面试的血泪史](https://blog.csdn.net/Lubanjava/article/details/108970394)
- > 成功拿下阿里P6的offer后，总结出大厂面试的血泪史
- ## [成年人的世界都不容易-看看做到年薪50万的程序员，到底有多累？](https://blog.csdn.net/weixin_48011329/article/details/109646215)
- > 成年人的世界都不容易-看看做到年薪50万的程序员，到底有多累？
- ## [边缘设备、系统及计算杂谈(1)](https://blog.csdn.net/Innost/article/details/109712764)
- > 边缘设备、系统及计算杂谈(1)
- ## [苹果M1将有望实现ARM阵营在PC市场击败Intel的梦想](https://blog.csdn.net/AUZ3y0GqMa/article/details/109712543)
- > 苹果M1将有望实现ARM阵营在PC市场击败Intel的梦想
- ## [使用SpringFramework+CXF实现rest服务](https://blog.csdn.net/m0_47495420/article/details/109712922)
- > 使用SpringFramework+CXF实现rest服务
- ## [【Hive】深入理解Hive的优缺点以及架构原理](https://blog.csdn.net/qq_43771096/article/details/109481655)
- > 【Hive】深入理解Hive的优缺点以及架构原理
- ## [深入理解 Spring Cloud 与微服务构建_读书笔记](https://blog.csdn.net/CSDN_FlyYoung/article/details/108554133)
- > 深入理解 Spring Cloud 与微服务构建_读书笔记
- ## [内网绘图服务，老板乐的笑出大金牙](https://blog.csdn.net/lycyingO/article/details/109685137)
- > 内网绘图服务，老板乐的笑出大金牙
- ## [11月份最新拼多多五面面经（Java岗），全面涵盖Java基础到高并发级别](https://blog.csdn.net/bjmsb/article/details/109647498)
- > 11月份最新拼多多五面面经（Java岗），全面涵盖Java基础到高并发级别
- ## [Spring Boot | 一个90后女孩的第一个 Spring Boot 应用](https://blog.csdn.net/melovemingming/article/details/109685617)
- > Spring Boot | 一个90后女孩的第一个 Spring Boot 应用
- ## [速来围观！阿里P8大牛写出的JDK源码剖析及大型网站技术架构与业务架构融合之道](https://blog.csdn.net/a159357445566/article/details/109646318)
- > 速来围观！阿里P8大牛写出的JDK源码剖析及大型网站技术架构与业务架构融合之道
- ## [也只有阿里P8出身的他能把SpringCloud微服务架构商城项目整的这么干了](https://blog.csdn.net/weixin_45132238/article/details/109547867)
- > 也只有阿里P8出身的他能把SpringCloud微服务架构商城项目整的这么干了
- ## [面试 | 多线程中的上下文切换](https://blog.csdn.net/qq_38862257/article/details/109685644)
- > 面试 | 多线程中的上下文切换
- ## [实战文档：彻底搞懂JVM+Linux+MySQL+Netty+Tomcat+并发编程](https://blog.csdn.net/qq_46388795/article/details/109575632)
- > 实战文档：彻底搞懂JVM+Linux+MySQL+Netty+Tomcat+并发编程
- ## [Java面试过了京东五面之后，发现掌握了这些技术也没有那么难](https://blog.csdn.net/Lubanjava/article/details/108735028)
- > Java面试过了京东五面之后，发现掌握了这些技术也没有那么难
+ ## [openvn 安装和配置](https://blog.csdn.net/qq_42427109/article/details/109616634)
+ > openvn 安装和配置
+ ## [Linux：shell脚本进阶（sed/gawk）](https://blog.csdn.net/qq_35229961/article/details/90693541)
+ > Linux：shell脚本进阶（sed/gawk）
+ ## [Nginx](https://blog.csdn.net/qq_38828126/article/details/109515929)
+ > Nginx
+ ## [linux中搭建EMQ服务器实现MQTT消息传输](https://blog.csdn.net/qq_45125250/article/details/109272198)
+ > linux中搭建EMQ服务器实现MQTT消息传输
+ ## [学习FastDFS这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/108430551)
+ > 学习FastDFS这一篇就够了
+ ## [TiDB3.0- 4.0 内存控制/修改日志保存天数/最大索引长度](https://blog.csdn.net/jiangbenchu/article/details/103409463)
+ > TiDB3.0- 4.0 内存控制/修改日志保存天数/最大索引长度
+ ## [【002】Linux系统中的软件管理及常用快捷操作(包含root密码重置）](https://blog.csdn.net/huixieqingchun/article/details/109718258)
+ > 【002】Linux系统中的软件管理及常用快捷操作(包含root密码重置）
+ ## [centos7配置安装snmp](https://blog.csdn.net/qq_43076825/article/details/109532709)
+ > centos7配置安装snmp
+ ## [Ubuntu一些命令笔记](https://blog.csdn.net/jingtaoaijinping/article/details/108844484)
+ > Ubuntu一些命令笔记
+ ## [MPLS配置实验](https://blog.csdn.net/qq_43778224/article/details/109534265)
+ > MPLS配置实验
+ ## [docker-容器操作](https://blog.csdn.net/weixin_39934264/article/details/109713430)
+ > docker-容器操作
+ ## [鸟哥的Linux私房菜-基础学习篇（第四版）_读书笔记](https://blog.csdn.net/CSDN_FlyYoung/article/details/104745819)
+ > 鸟哥的Linux私房菜-基础学习篇（第四版）_读书笔记
+ ## [linux查看日志、磁盘、cpu、内存使用情况及清理磁盘，日志等。你需要的linux常用基本操作都在这里！！！](https://blog.csdn.net/aa327056812/article/details/109636066)
+ > linux查看日志、磁盘、cpu、内存使用情况及清理磁盘，日志等。你需要的linux常用基本操作都在这里！！！
+ ## [虚拟机下CentOS7安装qBittorrent，挂载群辉虚拟盘，实现挂机下载](https://blog.csdn.net/qq_15246397/article/details/108301646)
+ > 虚拟机下CentOS7安装qBittorrent，挂载群辉虚拟盘，实现挂机下载
+ ## [\[运维\] 解决centos8 docker无法访问公共网络的问题](https://blog.csdn.net/macaiyun0629/article/details/106874167)
+ > \[运维\] 解决centos8 docker无法访问公共网络的问题
 # PM 
  ## [超全面：这份设计师晋升答辩指南值得收藏！](http://www.chanpin100.com/article/112922)
  > 所以文字和语言是你除了作品以外，另外两种展示自己能力的方式，非常重要。今天给大家带来超全面的干货指南，希望能帮你度过瓶颈。
