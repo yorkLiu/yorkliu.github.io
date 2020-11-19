@@ -1,20 +1,26 @@
 ---
 title: 2020-11-19 IT News
 copyright: true
-date: 2020-11-19 08:54:19
+date: 2020-11-19 09:39:47
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为正式宣布出售荣耀智能手机业务，完全被剥离](http://mp.weixin.qq.com/s?src=11&timestamp=1605745804&ver=2715&signature=o6xs0purANrrHnMXK2Xo8iqMW*7gm2G1n5DbqoURiNe1V9rIc*4*ZMd*JzKLsekL0Lp67HAPHCiwcMSmNamw7gvSngKblugc4cNDOjKSugyhnUJP8-CGycMKa8AG3PYm&new=1)
- > 在传闻荣耀即将进行出售之后，华为现在正式发布了这个消息。由于美国的禁令严重限制了华为的电信等业务，华为不得不将子品牌荣耀释放出去。荣耀的新所有者是深圳市智信新信息技术有限公司。该公司已与华为投资控...
- ## [新品|微软发布Pluton处理器，为Windows PC提供全新安全功能](http://mp.weixin.qq.com/s?src=11&timestamp=1605745804&ver=2715&signature=WzqU0nTCe*fVIkhd339yQNmY-e67jkiIH5iqxuFihbP0uInZQJZ8Vb7*D1RWQXv64n5bOs6Uc0VCa*4LmpuTL9kn-jLxxCYlJVxvlaTTezZukxPBzeVyFXtQwDHaQayG&new=1)
- > 微软近日发布了Pluton安全处理器，为未来的Windows PC带来安全方面的进步。微软与AMD、英特尔和高通公司合作开发了这款新的Pluton安全处理器。这款新的安全处理器将使攻击者访问系统的难度大大增加，它还将提高...
- ## [刚刚，定了!联通公司决定自12月1日起..](http://mp.weixin.qq.com/s?src=11&timestamp=1605745804&ver=2715&signature=B8TQiTPCCwYD8r6LbOzUIfi6TPnVjLkLeJCuOe0Jtd4s1-1Qy8nVrYFuM1DdYZJfN831LexUB77P1DP9E0EHVr3hEBsaecCT8fIDFRZbofRl-Jl*RT*BG3Yvwg3wpto8&new=1)
- > 知情人士从上海联通获悉：上海联通将于今年12月1日起停止提供2G网络服务，已被列入集团首批2G退网清单内。此举是为进一步响应国家“提速降费”“加速5G网络发展”的方针。上海电信与上海移动则表示，目前还没有...
- ## [华为IdeaHub在深海探测中走红：成党政和大企业沟通首选](http://mp.weixin.qq.com/s?src=11&timestamp=1605745804&ver=2715&signature=cbZlqP1yi3Qp2rnLd6e-I0tQf0rfCgLQuyqm8WoiWzk7SYEnyKbZAohLnr-ZzyvppGfxzWTV0LqTxo8De6lW4LuzGmGoHvJsfaVd68GmTHsaYu24*MuDzs-Ki60sMijf&new=1)
+ ## [华为IdeaHub在深海探测中走红：成党政和大企业沟通首选](http://mp.weixin.qq.com/s?src=11&timestamp=1605749405&ver=2715&signature=cbZlqP1yi3Qp2rnLd6e-I0tQf0rfCgLQuyqm8WoiWzk7SYEnyKbZAohLnr-ZzyvpbEz0PSLvw4K-kP0lkz9yW5xNAqmfV5xLrBgRRO8MZQlFMFKU7thQMWJyxaU8sg-q&new=1)
  > 最近，中国“奋斗者”号载人潜水器在马里亚纳海沟完成万米级海试的多个潜次。其中11月10日，“奋斗者”号第一次成功坐底马里亚纳海沟，坐底深度10909米。要知道我国“蛟龙号”潜水艇最大下潜深度也只有7062米。...
+ ## [\[报告\]汽车智能化如何重塑产业链利益格局(附26页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1605749405&ver=2715&signature=TStK1HLyb3DSTBb5ZuMNxSW3ut*mVDx2ThvAiGbfTvwW4W2KVs1K2M-njIU*uWWzOkJMAO7vg2IWS8V6H1h4EVWLhbISLIQ9KVIrYd5KY6-V5yhozcd9KPs1eNHGW4N6&new=1)
+ > 智能化趋势下，整车厂传统销售环节的重要性持续降低，智能化为整车厂大通其他产业链环节提供了可能，有助于开创新的业态与市场。未来我们有望见到整车厂更多参与到全产业链协同与分配行动当中，构建产业链闭环，...
+ ## [华为正式宣布出售荣耀智能手机业务，完全被剥离](http://mp.weixin.qq.com/s?src=11&timestamp=1605749405&ver=2715&signature=o6xs0purANrrHnMXK2Xo8iqMW*7gm2G1n5DbqoURiNe1V9rIc*4*ZMd*JzKLsekLsqH7AV4kQ8szwrgUweBOhy1KqRHlg9c0jptBQ6z24UfIq1qwQjM0tsndT2SjetOI&new=1)
+ > 在传闻荣耀即将进行出售之后，华为现在正式发布了这个消息。由于美国的禁令严重限制了华为的电信等业务，华为不得不将子品牌荣耀释放出去。荣耀的新所有者是深圳市智信新信息技术有限公司。该公司已与华为投资控...
+ ## [新品|微软发布Pluton处理器，为Windows PC提供全新安全功能](http://mp.weixin.qq.com/s?src=11&timestamp=1605749405&ver=2715&signature=WzqU0nTCe*fVIkhd339yQNmY-e67jkiIH5iqxuFihbP0uInZQJZ8Vb7*D1RWQXv6ctzDmGy*RXT5DgkczloeHh96YQJJ9z5tW08xMGtfR0JnWN83t-0KGpWfFDs2up5C&new=1)
+ > 微软近日发布了Pluton安全处理器，为未来的Windows PC带来安全方面的进步。微软与AMD、英特尔和高通公司合作开发了这款新的Pluton安全处理器。这款新的安全处理器将使攻击者访问系统的难度大大增加，它还将提高...
+ ## [“教主”TK：在互联网时代，不想放过每个恰逢其时的机会](http://mp.weixin.qq.com/s?src=11&timestamp=1605749405&ver=2715&signature=Gnd6uuUqyJ41XsfxSUntY83H2TDRMt5yhqlwbJBNC6qjai0prBMzOQmiUMG2b*vWhvtoevPZkSTvSefHTP506PH5QVuFJbrW85nBu6lrCRwWi*oG*T1NP6ka5bGbAOxJ&new=1)
+ > 我们的共同想象，就是未来的方向“在社交媒体上，总有两种人寻求我的帮助，一种是大学生，期末考试考砸了，希望我入侵教务处的电脑，帮他修改成绩；另一种则是恋爱中的青年男女，怀疑对方出轨，希望我能入侵对方...
+ ## [刚刚，定了!联通公司决定自12月1日起..](http://mp.weixin.qq.com/s?src=11&timestamp=1605749405&ver=2715&signature=B8TQiTPCCwYD8r6LbOzUIfi6TPnVjLkLeJCuOe0Jtd4s1-1Qy8nVrYFuM1DdYZJfsaT01JLp2RwY3e8vfQaXfD8AP8QmdLCumA3oHOcvb8WnUljiWeiHaAj5UYdFnJGY&new=1)
+ > 知情人士从上海联通获悉：上海联通将于今年12月1日起停止提供2G网络服务，已被列入集团首批2G退网清单内。此举是为进一步响应国家“提速降费”“加速5G网络发展”的方针。上海电信与上海移动则表示，目前还没有...
 # IT 技术 
+ ## [写给工程人员的技术债完全指南](http://news.51cto.com/art/202011/632239.htm)
+ > 写给工程人员的技术债完全指南
  ## [使用Git web钩子探究OpenShift Source-to-Image功能](http://developer.51cto.com/art/202011/632237.htm)
  > 使用Git web钩子探究OpenShift Source-to-Image功能
  ## [数据中心运营必须适应云计算时代的四种方式](http://server.51cto.com/Datacenter-632118.htm)
@@ -27,10 +33,18 @@ categories: IT NEWS
  > 在多线程环境中，Synchronized到底该不该用？
  ## [防范勒索软件攻击的六个行动](http://netsecurity.51cto.com/art/202011/632117.htm)
  > 防范勒索软件攻击的六个行动
- ## [基准测试：Java 微服务能像Go一样快吗？](http://news.51cto.com/art/202011/632111.htm)
- > 基准测试：Java 微服务能像Go一样快吗？
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
+ ## [面向对象C零基础入门精讲视频教程（10）正则表达式及应用](http://fellow.51cto.com/art/202007/622207.htm?qd=51ctojrzd)
+ > 面向对象C零基础入门精讲视频教程（10）正则表达式及应用
+ ## [打工人到什么状态，就可以离职了？](http://news.51cto.com/art/202011/632265.htm)
+ > 最近好几个洋友问关于离职的事情，诸如工作不开心要不要裸辞、感觉薪资太低要不要跳槽等等。离职的本质不在
+ ## [程序员：报警快把我折腾疯了](http://biz.51cto.com/art/202011/632263.htm)
+ > 本文力求通过故事，来探讨报警的频度和功效。你有没有碰到这样的事情呢?
+ ## [谁说的 StringJoiner 不好！真香警告……](http://developer.51cto.com/art/202011/632262.htm)
+ > Hi! 我是小小，今天是本周的第四天，更新本周的第四篇，主要内容是 StringJoiner 的基本使用
+ ## [你所知道的JS变量作用域](http://developer.51cto.com/art/202011/632261.htm)
+ > 变量的作用域，指的是变量在脚本代码中的可读、可写的有效范围，也就是脚本代码中可以使用这个变量的区域。
+ ## [阻塞队列―ArrayBlockingQueue源码分析](http://developer.51cto.com/art/202011/632260.htm)
+ > ArrayBlockingQueue是一个阻塞队列，内部由ReentrantLock来实现线程安全，由Condition的await和signal来实
  ## [AI+视频分析：实时监测无处不在的安全风险](http://ai.51cto.com/art/202011/632254.htm)
  > 很多公共事业企业已经意识到，对所运营的物理及网络安全体系进行360度全方位审视的重要意义。
  ## [2020数据库选型攻略：专用VS多模](http://database.51cto.com/art/202011/632255.htm)
@@ -41,12 +55,6 @@ categories: IT NEWS
  > 人工智能是当前这一代最受关注的话题。人工智能将改变人们对从现在起二十年后世界将如何发展的看法。
  ## [GSA：全球共有122个5G商用网络推出](http://network.51cto.com/art/202011/632249.htm)
  > 随着技术标准和规范的确定，全球5G商用逐步展开。据全球移动供应商协会(GSA)近日公布的最新数据显示，目前
- ## [Gartner：预计2021年全球公有云服务终端用户支出达3049亿美元](http://cloud.51cto.com/art/202011/632248.htm)
- > 调查机构Gartner预测，到2021年全球终端用户在公有云服务上的支出将达3049亿美元，相比2020年的2527亿美元
- ## [快来更新！微信上线6个新表情：最后一个裂开了](http://mobile.51cto.com/app-show-632250.htm)
- > 11月18日晚，微信官方微博宣布上线了6张新表情，分别是：翻白眼、666、让我看看、叹气、苦涩、裂开。
- ## [电信业中的物联网：数据驱动的增长之路](http://iot.51cto.com/art/202011/632246.htm)
- > 根据Gartner的预测，到明年，四分之一的大型企业将通过正式的在线数据市场参与数据交易。尤其是电信公司，
  ## [参与有奖调研，还可免费阅读《白皮书》](https://marketing.csdn.net/questions/Q2011031730251910671)
  > 参与有奖调研，还可免费阅读《白皮书》
  ## [教你用python画动态爱心表白](https://blog.csdn.net/bigzql/article/details/109713022)
