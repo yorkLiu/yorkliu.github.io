@@ -1,22 +1,22 @@
 ---
 title: 2020-11-21 IT News
 copyright: true
-date: 2020-11-21 10:28:45
+date: 2020-11-21 11:24:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco9KLxv7JcGxu6ejoM8ZyxXLN3pdsX8qHIs3vyLSl2CMt3rbJmcj4ipG5SkcgOsYw4Ir17noFsXYQ1U41GNBsjMz&new=1)
+ ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco9KLxv7JcGxu6ejoM8ZyxXLuGSeHY1tk3FbiMvSuRgda9ER4vw0EkhwuOgerPp7iFSvl3cv7bRn5qovUlGr83FL&new=1)
  > 27年技术沉淀，终于迎来舞台？2020年，中国大陆半导体设备市场逆势增长，产业链内移，拉动国内测试设备需求加速提升。历经27年专注半导体自动化测试系统领域的华峰测控，已然是国内最大的半导体自动化测试系统本...
- ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1uytUHvy-U-bERk027SwHTWLhIUfGNZs8q02h8XFLXJfGbU6HXSXYX1g1YJvOY*ra2kgwKeC-qWZjgVxFE5dATL&new=1)
+ ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1uytUHvy-U-bERk027SwHTW*BmkJXChW3abLOqxEcqEekWNmrUWXL8gC7Ppy9V4yJdTFFwPxQrK0XPF08Qvvbdv&new=1)
  > “总书记在贺信中说，此次大会在湖北武汉召开有着特殊意义。总书记对湖北、对武汉，一直情深似海、厚望如山。这种情怀、这种情意，让我们非常激动，倍受鼓舞！”11月20日，2020中国5G+工业互联网大会20日在湖北...
- ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q2X71cGeGApizDybpyzrAb*piGNIb8VklGStoCmN*6hNbreVVg-r*YypZshGkjuESAbDoadqL5nF9Qfe7M3l7Is&new=1)
- > 11月20日，中国信息化百人会第七届信息战略论坛在杭州成功举办。本次大会以“企业生态化信息战略——智能驱动高质量发展：新架构、新场景、新范式”为主题，邀请到了中国信息化百人会众多专家学者及行业先锋、商...
- ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12NWUFV8ksCBoN6wNE3NVDpdaL7IKfAZPbKg2NSqLQQRI41tPidMM9zUqPgB8XDLluM=&new=1)
- > 在20日召开的2020中国5G+工业互联网大会上，工业和信息化部部长肖亚庆表示，工信部将加强政策引领，制定工业互联网创新发展行动规划。　　工业互联网是第四次工业革命的重要基石。近年来，随着5G网络的完善...
- ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNEYLIxRA6xAldKoEHkg1zLNJ4Ejyc4CXNJa*dBx-en*i4DUGQuKdThdmdEyhH578Rfc55keliLQ1eawKwBUHlLU&new=1)
+ ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNEYLIxRA6xAldKoEHkg1zLNR*bnbZ-gE4Jk8*vN8BvtlnKpUIQaUtiQXHMc5H6XyKY3PCN233MZTHq-4uq5TlCt&new=1)
  > Windows Central最新的曝光出现了Windows 10新版资源管理器的图片，该菜单样式最早于今年3月的一段视频中闪过，近几个月已经逐步进入Insider通道。据Windows Central消息，明年上半年的21H1版本中或许不
- ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GPVaW4WmtkuOX8aA5Wk9Mgz1Ng3SXEIB*M-xw2JBVJbWCUStlprDa*c8OMVLMtzSOA=&new=1)
+ ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12ODkkYnmw-KSpKMmNBO7wBxdlwtCpHqPbFkKJS9Dgx5ARCAkN7Rsl-geCyKeMSVVHg=&new=1)
+ > 在20日召开的2020中国5G+工业互联网大会上，工业和信息化部部长肖亚庆表示，工信部将加强政策引领，制定工业互联网创新发展行动规划。　　工业互联网是第四次工业革命的重要基石。近年来，随着5G网络的完善...
+ ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q2X71cGeGApizDybpyzrAb*eV2fPxk5gpQtmihL6AzIJUKuqRVajYl8BlxUqub3RU7l*1*7R2u*qiPfnCytrkJE&new=1)
+ > 11月20日，中国信息化百人会第七届信息战略论坛在杭州成功举办。本次大会以“企业生态化信息战略——智能驱动高质量发展：新架构、新场景、新范式”为主题，邀请到了中国信息化百人会众多专家学者及行业先锋、商...
+ ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GM5DLz8WmclxnJAe-Dj1kfU*EKuIt7xoAgyYNSMBx7Og7a1jsem6VhlwqWV-zWflog=&new=1)
  > 11月20日，由广西壮族自治区信息中心与华为技术有限公司联合创立的“数字广西智慧基础设施联合创新实验室”揭牌仪式在广西壮族自治区大数据发展局举行。据悉，联合创新实验室的成立是贯彻落实自治区关于新型基础...
 # IT 技术 
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
@@ -33,8 +33,8 @@ categories: IT NEWS
  > 《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）
  ## [针对Python开发人员的10个“疯狂”的项目构想](http://developer.51cto.com/art/202011/632392.htm)
  > 针对Python开发人员的10个“疯狂”的项目构想
- ## [MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03](http://fellow.51cto.com/art/202008/623591.htm?qd=51ctojrzd)
- > MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03
+ ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
+ > CSS 快速开发入门视频课程
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_july_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [今年30了，做了5年的软件测试，只会功能测试的怎么办？【乐搏TestPro】](https://blog.csdn.net/leboxy/article/details/109748940)
