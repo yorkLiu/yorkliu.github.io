@@ -1,22 +1,22 @@
 ---
 title: 2020-11-21 IT News
 copyright: true
-date: 2020-11-21 09:39:10
+date: 2020-11-21 10:28:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605922205&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco9KLxv7JcGxu6ejoM8ZyxXLbyNr2n4J0SxDmQeOY1E7IkjdZkCywZjRfrFsVj5VDyXnAKIpctD1tJq42mEVyErR&new=1)
+ ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco9KLxv7JcGxu6ejoM8ZyxXLN3pdsX8qHIs3vyLSl2CMt3rbJmcj4ipG5SkcgOsYw4Ir17noFsXYQ1U41GNBsjMz&new=1)
  > 27年技术沉淀，终于迎来舞台？2020年，中国大陆半导体设备市场逆势增长，产业链内移，拉动国内测试设备需求加速提升。历经27年专注半导体自动化测试系统领域的华峰测控，已然是国内最大的半导体自动化测试系统本...
- ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605922205&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1uytUHvy-U-bERk027SwHTWIve22etIh0kYWLmyRZCZh2nvL1Tmqn6Ziy1kL2WEoVZfK3upSFXr1KCWdz3mG0tP&new=1)
+ ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1uytUHvy-U-bERk027SwHTWLhIUfGNZs8q02h8XFLXJfGbU6HXSXYX1g1YJvOY*ra2kgwKeC-qWZjgVxFE5dATL&new=1)
  > “总书记在贺信中说，此次大会在湖北武汉召开有着特殊意义。总书记对湖北、对武汉，一直情深似海、厚望如山。这种情怀、这种情意，让我们非常激动，倍受鼓舞！”11月20日，2020中国5G+工业互联网大会20日在湖北...
- ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605922205&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q2X71cGeGApizDybpyzrAb*UuVh7oaiOysCBcns-Kmm4ChbO7ZMmL6dnjtQ5Jv-DeAmrDnjf4nMkinPARulio-Z&new=1)
+ ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q2X71cGeGApizDybpyzrAb*piGNIb8VklGStoCmN*6hNbreVVg-r*YypZshGkjuESAbDoadqL5nF9Qfe7M3l7Is&new=1)
  > 11月20日，中国信息化百人会第七届信息战略论坛在杭州成功举办。本次大会以“企业生态化信息战略——智能驱动高质量发展：新架构、新场景、新范式”为主题，邀请到了中国信息化百人会众多专家学者及行业先锋、商...
- ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605922205&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12OG7AIUXiojvIq7fjJ0byqzJEyngKl8Hqc*Xdo8juoNoVi2fvtMmOy-h02xtVuvsyw=&new=1)
+ ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12NWUFV8ksCBoN6wNE3NVDpdaL7IKfAZPbKg2NSqLQQRI41tPidMM9zUqPgB8XDLluM=&new=1)
  > 在20日召开的2020中国5G+工业互联网大会上，工业和信息化部部长肖亚庆表示，工信部将加强政策引领，制定工业互联网创新发展行动规划。　　工业互联网是第四次工业革命的重要基石。近年来，随着5G网络的完善...
- ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605922205&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNEYLIxRA6xAldKoEHkg1zLNThPBtwPF4ZeZ1t1OptLtv7l0lT4lklWtbR8-7GiAO5ZNtdWwakrFqNRZ*EuWwI9U&new=1)
+ ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNEYLIxRA6xAldKoEHkg1zLNJ4Ejyc4CXNJa*dBx-en*i4DUGQuKdThdmdEyhH578Rfc55keliLQ1eawKwBUHlLU&new=1)
  > Windows Central最新的曝光出现了Windows 10新版资源管理器的图片，该菜单样式最早于今年3月的一段视频中闪过，近几个月已经逐步进入Insider通道。据Windows Central消息，明年上半年的21H1版本中或许不
- ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605922205&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GPlUVO9ESV5UUBQT1pvf5b-A219cURPwFsTVpytzjge49rjs-dscd7QRkSyNwT0-I4=&new=1)
+ ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605924005&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GPVaW4WmtkuOX8aA5Wk9Mgz1Ng3SXEIB*M-xw2JBVJbWCUStlprDa*c8OMVLMtzSOA=&new=1)
  > 11月20日，由广西壮族自治区信息中心与华为技术有限公司联合创立的“数字广西智慧基础设施联合创新实验室”揭牌仪式在广西壮族自治区大数据发展局举行。据悉，联合创新实验室的成立是贯彻落实自治区关于新型基础...
 # IT 技术 
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
@@ -33,8 +33,8 @@ categories: IT NEWS
  > 《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）
  ## [针对Python开发人员的10个“疯狂”的项目构想](http://developer.51cto.com/art/202011/632392.htm)
  > 针对Python开发人员的10个“疯狂”的项目构想
- ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
- > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
+ ## [MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03](http://fellow.51cto.com/art/202008/623591.htm?qd=51ctojrzd)
+ > MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_july_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [今年30了，做了5年的软件测试，只会功能测试的怎么办？【乐搏TestPro】](https://blog.csdn.net/leboxy/article/details/109748940)
@@ -66,36 +66,36 @@ categories: IT NEWS
  ## [基于SpringBoot+uni-app 网易音乐云村项目](https://blog.csdn.net/weixin_45132238/article/details/109815587)
  > 基于SpringBoot+uni-app 网易音乐云村项目
 # 人工智能 
- ## [我要偷偷的学Python，然后惊呆所有人（第十三天）](https://blog.csdn.net/qq_43762191/article/details/109709052)
- > 我要偷偷的学Python，然后惊呆所有人（第十三天）
  ## [阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer](https://blog.csdn.net/qq_46388795/article/details/109512350)
  > 阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer
+ ## [我要偷偷的学Python，然后惊呆所有人（第十三天）](https://blog.csdn.net/qq_43762191/article/details/109709052)
+ > 我要偷偷的学Python，然后惊呆所有人（第十三天）
  ## [python-Wordcloud，wrapt安装教程](https://blog.csdn.net/weixin_52089565/article/details/109805285)
  > python-Wordcloud，wrapt安装教程
- ## [牛皮！这份GitHub上标星90.6K的Java面试指南+笔记，带你搞定96%的java面试](https://blog.csdn.net/weixin_47067712/article/details/109812673)
- > 牛皮！这份GitHub上标星90.6K的Java面试指南+笔记，带你搞定96%的java面试
- ## [卷积神经网络学习——第一部分：认识并搭建卷积神经网络](https://blog.csdn.net/L2000Ryan/article/details/109818999)
- > 卷积神经网络学习——第一部分：认识并搭建卷积神经网络
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [不是吧阿sir！这么“快”的吗？不愧是鹅厂内部强推Java优化手册，爱了爱了！](https://blog.csdn.net/weixin_48182198/article/details/109809013)
- > 不是吧阿sir！这么“快”的吗？不愧是鹅厂内部强推Java优化手册，爱了爱了！
- ## [看完这份阿里面试官分享的SpringBoot神级文档，面试真的可以为所欲为](https://blog.csdn.net/AI_mashimanong/article/details/109814385)
- > 看完这份阿里面试官分享的SpringBoot神级文档，面试真的可以为所欲为
+ ## [2020年华为杯数学建模什么时候出成绩——就在今天？](https://blog.csdn.net/gccaizr/article/details/109816424)
+ > 2020年华为杯数学建模什么时候出成绩——就在今天？
  ## [Python 视频教程下载 (全阶段)](https://blog.csdn.net/bigzql/article/details/109799840)
  > Python 视频教程下载 (全阶段)
- ## [阿里P8亲授MySQL学习教程笔记，一个月吃不透那我真的白活了！](https://blog.csdn.net/weixin_45132238/article/details/109774386)
- > 阿里P8亲授MySQL学习教程笔记，一个月吃不透那我真的白活了！
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [手把手教你5分钟从零开发一款简易的IDEA插件！项目经验/毕设不愁了！](https://blog.csdn.net/qq_34337272/article/details/109823686)
+ > 手把手教你5分钟从零开发一款简易的IDEA插件！项目经验/毕设不愁了！
+ ## [我坦白！我是第五位飞上太空的程序员游客](https://blog.csdn.net/csdnsevenn/article/details/109759418)
+ > 我坦白！我是第五位飞上太空的程序员游客
+ ## [JSON对象与字符串之间的转换](https://blog.csdn.net/weixin_43883917/article/details/109813399)
+ > JSON对象与字符串之间的转换
+ ## [5G消息或年底商用](https://blog.csdn.net/penggerhe/article/details/109818275)
+ > 5G消息或年底商用
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [阿里团队的Java核心架构笔记，Github已经标星81.6K，开放下载](https://blog.csdn.net/Java0258/article/details/109812702)
- > 阿里团队的Java核心架构笔记，Github已经标星81.6K，开放下载
- ## [我要偷偷的学Python，然后惊呆所有人（第十四天）](https://blog.csdn.net/qq_43762191/article/details/109824836)
- > 我要偷偷的学Python，然后惊呆所有人（第十四天）
- ## [太狠了阿里技术专家撰写的电子版JVM&G1 GC实战,颠覆了传统认知](https://blog.csdn.net/qq_46388795/article/details/109776422)
- > 太狠了阿里技术专家撰写的电子版JVM&amp;G1 GC实战,颠覆了传统认知
- ## [2020年科大讯飞农业问答数据处理前三名队伍分享](https://blog.csdn.net/herosunly/article/details/109807742)
- > 2020年科大讯飞农业问答数据处理前三名队伍分享
+ ## [基于Python的图像阈值化分割（迭代法）](https://blog.csdn.net/AllErrors/article/details/109827807)
+ > 基于Python的图像阈值化分割（迭代法）
+ ## [Educational Codeforces Round 98  -B - Toy Blocks (思维)](https://blog.csdn.net/wmy0536/article/details/109846415)
+ > Educational Codeforces Round 98  -B - Toy Blocks (思维)
+ ## [不是吧阿sir！这么“快”的吗？不愧是鹅厂内部强推Java优化手册，爱了爱了！](https://blog.csdn.net/weixin_48182198/article/details/109809013)
+ > 不是吧阿sir！这么“快”的吗？不愧是鹅厂内部强推Java优化手册，爱了爱了！
+ ## [2020浙江省全国大学生智能汽车竞赛——基础四轮组入门看这一篇就够了！（浙江省二等奖，附开源代码）](https://blog.csdn.net/weixin_43454320/article/details/109536872)
+ > 2020浙江省全国大学生智能汽车竞赛——基础四轮组入门看这一篇就够了！（浙江省二等奖，附开源代码）
 # PM 
  ## [为什么说，搜索引擎正在部落化？](http://www.chanpin100.com/article/113048)
  > 各大互联网平台与搜索引擎的脱钩，正在愈演愈烈。
