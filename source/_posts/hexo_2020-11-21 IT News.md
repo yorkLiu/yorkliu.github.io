@@ -1,22 +1,24 @@
 ---
 title: 2020-11-21 IT News
 copyright: true
-date: 2020-11-21 11:24:01
+date: 2020-11-21 13:01:46
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco9KLxv7JcGxu6ejoM8ZyxXLuGSeHY1tk3FbiMvSuRgda9ER4vw0EkhwuOgerPp7iFSvl3cv7bRn5qovUlGr83FL&new=1)
- > 27年技术沉淀，终于迎来舞台？2020年，中国大陆半导体设备市场逆势增长，产业链内移，拉动国内测试设备需求加速提升。历经27年专注半导体自动化测试系统领域的华峰测控，已然是国内最大的半导体自动化测试系统本...
- ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1uytUHvy-U-bERk027SwHTW*BmkJXChW3abLOqxEcqEekWNmrUWXL8gC7Ppy9V4yJdTFFwPxQrK0XPF08Qvvbdv&new=1)
+ ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1tspasRAC*BRsXki*i4kpzlD6J*gy-oe8IM3Fh-Jc0gJ49HtT2HuXdfcR7e8cq9ysGoEUXydFawy5b5TAcmz46g&new=1)
  > “总书记在贺信中说，此次大会在湖北武汉召开有着特殊意义。总书记对湖北、对武汉，一直情深似海、厚望如山。这种情怀、这种情意，让我们非常激动，倍受鼓舞！”11月20日，2020中国5G+工业互联网大会20日在湖北...
- ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNEYLIxRA6xAldKoEHkg1zLNR*bnbZ-gE4Jk8*vN8BvtlnKpUIQaUtiQXHMc5H6XyKY3PCN233MZTHq-4uq5TlCt&new=1)
- > Windows Central最新的曝光出现了Windows 10新版资源管理器的图片，该菜单样式最早于今年3月的一段视频中闪过，近几个月已经逐步进入Insider通道。据Windows Central消息，明年上半年的21H1版本中或许不
- ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12ODkkYnmw-KSpKMmNBO7wBxdlwtCpHqPbFkKJS9Dgx5ARCAkN7Rsl-geCyKeMSVVHg=&new=1)
+ ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco97ZASJS0lX3RmHfmwX*5ZZc4Mh6JoTpiTZnESImmmKCCJ*KkWaMg95mk8aXgbdY3ZmTN2pqk7tooOEK430015y&new=1)
+ > 27年技术沉淀，终于迎来舞台？2020年，中国大陆半导体设备市场逆势增长，产业链内移，拉动国内测试设备需求加速提升。历经27年专注半导体自动化测试系统领域的华峰测控，已然是国内最大的半导体自动化测试系统本...
+ ## [直击 CHINASHOP2020：哪些是未来零售新标配?](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=Ksnd5VpO8mQvXkm9ZhBqyAVc9h0dJiA0K1ERZZoS8GP*iDViPen5JEQRV*qVQMPcK-M7CamiQJdBJolfkH5mR22sn3v1KP6guoAJuZJT8Ak5ckfAPpv8uxN19TyLlQFc&new=1)
+ > （本文阅读时间：5分钟）2020年注定是不平凡的一年。疫情给国内乃至国际各行业都造成了重创，作为中国经济一大动脉的零售业更是首当其冲。为保持国民经济的良性循环周转，中央政治局常委早在5月就提出，构建国内...
+ ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12O5KFB-4Zj*Zc8rKu2UbEsho6TfBLtDMWDBZpWRmolrQYiDvaE9f8BkRWJiYe8uQP8=&new=1)
  > 在20日召开的2020中国5G+工业互联网大会上，工业和信息化部部长肖亚庆表示，工信部将加强政策引领，制定工业互联网创新发展行动规划。　　工业互联网是第四次工业革命的重要基石。近年来，随着5G网络的完善...
- ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q2X71cGeGApizDybpyzrAb*eV2fPxk5gpQtmihL6AzIJUKuqRVajYl8BlxUqub3RU7l*1*7R2u*qiPfnCytrkJE&new=1)
+ ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNF0euLeEbo4Iu2ybb338xhfy1SLzfJXaCWQ0-X26qpXYigtkcFaQyJC3Ywx2WLe*pz4RFxPKnaelCbWVrZWN9Qm&new=1)
+ > Windows Central最新的曝光出现了Windows 10新版资源管理器的图片，该菜单样式最早于今年3月的一段视频中闪过，近几个月已经逐步进入Insider通道。据Windows Central消息，明年上半年的21H1版本中或许不
+ ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q1a24QMHm0d-LgGQBsp3wur2bXWByCgAUAjgP4CDrTlhlletFkt*l3ppgxlTM5V8WvbXBdZMrnjyYpGC8ih2EAy&new=1)
  > 11月20日，中国信息化百人会第七届信息战略论坛在杭州成功举办。本次大会以“企业生态化信息战略——智能驱动高质量发展：新架构、新场景、新范式”为主题，邀请到了中国信息化百人会众多专家学者及行业先锋、商...
- ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605927605&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GM5DLz8WmclxnJAe-Dj1kfU*EKuIt7xoAgyYNSMBx7Og7a1jsem6VhlwqWV-zWflog=&new=1)
+ ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GOz4uW*0u4V3fYQqeIaEetCd1vL*uPEhfJUmGOEuTd4KhSpoGaIGF5fFqeAD32-ZQA=&new=1)
  > 11月20日，由广西壮族自治区信息中心与华为技术有限公司联合创立的“数字广西智慧基础设施联合创新实验室”揭牌仪式在广西壮族自治区大数据发展局举行。据悉，联合创新实验室的成立是贯彻落实自治区关于新型基础...
 # IT 技术 
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
@@ -35,8 +37,10 @@ categories: IT NEWS
  > 针对Python开发人员的10个“疯狂”的项目构想
  ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
  > CSS 快速开发入门视频课程
- ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_july_v/article/details/108292943)
- > 机器学习面试150题：不只是考SVM xgboost 特征工程
+ ## [RFID和工业物联网：如何协同工作？](http://iot.51cto.com/art/202011/632487.htm)
+ > 推动全球工业环境中物联网系统增长的一个因素是射频识别(RFID)和其他传感器技术的发展。
+ ## [参与有奖调研，还可免费阅读《白皮书》](https://marketing.csdn.net/questions/Q2011031730251910671)
+ > 参与有奖调研，还可免费阅读《白皮书》
  ## [今年30了，做了5年的软件测试，只会功能测试的怎么办？【乐搏TestPro】](https://blog.csdn.net/leboxy/article/details/109748940)
  > 今年30了，做了5年的软件测试，只会功能测试的怎么办？【乐搏TestPro】
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
