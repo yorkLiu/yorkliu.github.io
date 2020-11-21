@@ -1,24 +1,32 @@
 ---
 title: 2020-11-21 IT News
 copyright: true
-date: 2020-11-21 13:01:46
+date: 2020-11-21 17:17:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1tspasRAC*BRsXki*i4kpzlD6J*gy-oe8IM3Fh-Jc0gJ49HtT2HuXdfcR7e8cq9ysGoEUXydFawy5b5TAcmz46g&new=1)
- > “总书记在贺信中说，此次大会在湖北武汉召开有着特殊意义。总书记对湖北、对武汉，一直情深似海、厚望如山。这种情怀、这种情意，让我们非常激动，倍受鼓舞！”11月20日，2020中国5G+工业互联网大会20日在湖北...
- ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco97ZASJS0lX3RmHfmwX*5ZZc4Mh6JoTpiTZnESImmmKCCJ*KkWaMg95mk8aXgbdY3ZmTN2pqk7tooOEK430015y&new=1)
- > 27年技术沉淀，终于迎来舞台？2020年，中国大陆半导体设备市场逆势增长，产业链内移，拉动国内测试设备需求加速提升。历经27年专注半导体自动化测试系统领域的华峰测控，已然是国内最大的半导体自动化测试系统本...
- ## [直击 CHINASHOP2020：哪些是未来零售新标配?](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=Ksnd5VpO8mQvXkm9ZhBqyAVc9h0dJiA0K1ERZZoS8GP*iDViPen5JEQRV*qVQMPcK-M7CamiQJdBJolfkH5mR22sn3v1KP6guoAJuZJT8Ak5ckfAPpv8uxN19TyLlQFc&new=1)
+ ## [华为董事长梁华：开放合作、创新发展，为智能时代夯实5G新基础](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=wLuakx5Sv7Bly0Hm*oD9aydHDnVcYt5wjm1jntKkNR3GeQOcejrySLGl6jIl7MCTtJYMLQcvH6xpV2*o6bb-2DzdDYfJYQjPkrKGO-LEVWnsZSLEwZSlkd6ym08A62WC&new=1)
+ > 11月20日，2020中国移动全球合作伙伴大会在广州召开，华为公司董事长梁华出席并发表主题演讲，分享在5G发展初期，如何更好促进网络建设与业务发展双轮驱动、探索生态合作新模式，推动5G繁荣发展。梁华认为，技术...
+ ## [直击 CHINASHOP2020：哪些是未来零售新标配?](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=Ksnd5VpO8mQvXkm9ZhBqyAVc9h0dJiA0K1ERZZoS8GPQ6W-7h3pZ1YPH2Yzd443fRfntfHtRhHeoo0-8DdoNfE31DfUO1VOytroEPhRFcgQKLM30bKsPWvF2BU5meYxN&new=1)
  > （本文阅读时间：5分钟）2020年注定是不平凡的一年。疫情给国内乃至国际各行业都造成了重创，作为中国经济一大动脉的零售业更是首当其冲。为保持国民经济的良性循环周转，中央政治局常委早在5月就提出，构建国内...
- ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12O5KFB-4Zj*Zc8rKu2UbEsho6TfBLtDMWDBZpWRmolrQYiDvaE9f8BkRWJiYe8uQP8=&new=1)
+ ## [被五角大楼“招安”，黑客大拿洗白做好人，如今竟成互联网巨头的救命稻草?](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=kzxQJERq904zblIxkI7a2lRTvf2BhkaUU-1O1pidCxyRkie-XSB7KLiixMmtOMpGcWvGzyODXk4EX0UO*qWZYZOdzNwOX*xDp1iS-fTxPuiF-sxgNbosKA2ZFk9M02mJ&new=1)
+ > 泽科也不想继续做躲在网络背后的人，于是接受邀请改做“白帽黑客”，成为第一个与政府建立行业联系的黑客。|作者：二水|编辑：阿晔|编审：苏苏网络公司会找黑客做安全主管吗？答案是：会！ 最近，著名网络公司推...
+ ## [肖亚庆：“5G+工业互联网”正迸发出磅礴力量](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=9va2LBPiWZztnVLaTipXJi9uAzpj73QYuzjFVOrFxCUlnsgKN-NJV2*8trfD1B2rGXo9PNqYqSwdSC9JsmVh3f6Jne3PcHaK4tLxSW6Lxtblks1TsMgqrV41SVLFexpe&new=1)
+ > 文 |《财经国家周刊》记者 宋怡青党的十九届五中全会明确13个“坚持和完善”，其中“坚持和完善社会主义基本经济制度，推动经济高质量发展”是重点之一。“5G+工业互联网”，一个关系着数字经济的基础，一个代表...
+ ## [研究发现VR对疫情隔离有积极影响?这些VR娱乐或可一试](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=t5QFo7**xjQDvvhEYR33Ziex2RZBd*TANkOvGXBLWFZvehfpEsAw005pFHYKtgm0L29TWn0sKZoIjwwrZU68Kwq1V1DGaVHaCc1xcukBEk21CinKVuhvv-ZqhfE6Gd*b&new=1)
+ > VR是疫情隔离期间的“小天使”吧！文 | 小花和小北2020年真的是太难了！突如其来的疫情让所有人措不及防。从年初的爆发发展至今，疫情虽然得到了有效的控制，但并没有完全消除。目前国外疫情重灾区主要以美国、...
+ ## [工信部将制定工业互联网创新发展行动规划](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=i7sZ9*RTEvLV10cBe*OQDvlBufoa-xvTycIctk7P12PEklmVzHa9xIT*TsIn6irhETEuw-wCLRPHd8GzA6HxiAQvKbKwj4hn8Sj*GnXDRMw=&new=1)
  > 在20日召开的2020中国5G+工业互联网大会上，工业和信息化部部长肖亚庆表示，工信部将加强政策引领，制定工业互联网创新发展行动规划。　　工业互联网是第四次工业革命的重要基石。近年来，随着5G网络的完善...
- ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNF0euLeEbo4Iu2ybb338xhfy1SLzfJXaCWQ0-X26qpXYigtkcFaQyJC3Ywx2WLe*pz4RFxPKnaelCbWVrZWN9Qm&new=1)
+ ## [Windows 10新版资源管理器曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=gbHGc3h8BCN3uygN9JPOxCwJ06ViTnX8ntdcXVrGpNHvmEr0uLooVJkuXPDw4ce1DXZcJ7ESAlSylSWU*3b-2c1XbOarsWb-jy*JVwgiwrNiXnKTzw8w3LIqU1AoZ0JZ&new=1)
  > Windows Central最新的曝光出现了Windows 10新版资源管理器的图片，该菜单样式最早于今年3月的一段视频中闪过，近几个月已经逐步进入Insider通道。据Windows Central消息，明年上半年的21H1版本中或许不
- ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q1a24QMHm0d-LgGQBsp3wur2bXWByCgAUAjgP4CDrTlhlletFkt*l3ppgxlTM5V8WvbXBdZMrnjyYpGC8ih2EAy&new=1)
+ ## [习近平向武汉发来贺信，下一步武汉这样干](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=dJ8z0KZdnA*em8W-BWv54I5b6xPbncPAN1TSJkLFf1uGnoUVK6IPShykeUbSxBxFMFjV6l2chdpBcK2m3WKcQjUFjHjOcxLIoZ5z8o74pxfSDlvcv*fWqhCSfomNSbWT&new=1)
+ > “总书记在贺信中说，此次大会在湖北武汉召开有着特殊意义。总书记对湖北、对武汉，一直情深似海、厚望如山。这种情怀、这种情意，让我们非常激动，倍受鼓舞！”11月20日，2020中国5G+工业互联网大会20日在湖北...
+ ## [华峰测控——全球市场的挑战者，中国芯路上的“印钞机”|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=tqCZ7P6U4c*ddsVVIxUD3drcqxZVrerHr3GMT2yZco-xUT9qWz1dpXbXAL8JpVf1Tf-C774HTylpBygKwGQtY2uY0HoB4wVSB8*5ckqoS9lDjlGblfWN3ER3GGLcMWiM&new=1)
+ > 27年技术沉淀，终于迎来舞台？2020年，中国大陆半导体设备市场逆势增长，产业链内移，拉动国内测试设备需求加速提升。历经27年专注半导体自动化测试系统领域的华峰测控，已然是国内最大的半导体自动化测试系统本...
+ ## [构建新架构、聚焦新场景、共创新范式：信息化百人会第七届信息战略论坛成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=6Zs2M5NQGTj50yok0TZLriPBkA2vr*R20ae11JEG*Q3gpTmo4PuNnRejm0gGcYVPm20yzQi*mVoWlyCy3GRPpbVlqkm-sqG7-OXcw1PUJlZvIpK9cRv6XxLlsX2Fpzmf&new=1)
  > 11月20日，中国信息化百人会第七届信息战略论坛在杭州成功举办。本次大会以“企业生态化信息战略——智能驱动高质量发展：新架构、新场景、新范式”为主题，邀请到了中国信息化百人会众多专家学者及行业先锋、商...
- ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605934804&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GOz4uW*0u4V3fYQqeIaEetCd1vL*uPEhfJUmGOEuTd4KhSpoGaIGF5fFqeAD32-ZQA=&new=1)
+ ## [广西、华为联合创立的实验室揭牌，目标建成自治区级重点实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1605949205&ver=2719&signature=5HDMqAZhBgqklnkkcQUW6ir22hysP3mpJOIlnd7G-GPMnX3Uj8KkJUbZWvD241uv8vh31DuuKStZ4YFo3jbIZgXDH4K0FXiphN*NxN1R-eI=&new=1)
  > 11月20日，由广西壮族自治区信息中心与华为技术有限公司联合创立的“数字广西智慧基础设施联合创新实验室”揭牌仪式在广西壮族自治区大数据发展局举行。据悉，联合创新实验室的成立是贯彻落实自治区关于新型基础...
 # IT 技术 
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
@@ -35,8 +43,8 @@ categories: IT NEWS
  > 《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）
  ## [针对Python开发人员的10个“疯狂”的项目构想](http://developer.51cto.com/art/202011/632392.htm)
  > 针对Python开发人员的10个“疯狂”的项目构想
- ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
- > CSS 快速开发入门视频课程
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
  ## [RFID和工业物联网：如何协同工作？](http://iot.51cto.com/art/202011/632487.htm)
  > 推动全球工业环境中物联网系统增长的一个因素是射频识别(RFID)和其他传感器技术的发展。
  ## [参与有奖调研，还可免费阅读《白皮书》](https://marketing.csdn.net/questions/Q2011031730251910671)
