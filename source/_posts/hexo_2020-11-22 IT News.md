@@ -1,20 +1,20 @@
 ---
 title: 2020-11-22 IT News
 copyright: true
-date: 2020-11-22 09:10:15
+date: 2020-11-22 10:05:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [M1 Mac 原生支持 Windows“取决于微软”](http://mp.weixin.qq.com/s?src=11&timestamp=1606006804&ver=2721&signature=d8-rgRXmJciR5W9KjsQxDV79PHqvV0mNlD0Hr8ZFhBByhcOqngvWvtgOD8PYvvWE-1V23ogy4b2dhNfUEunX3JVgQOFpwyuRvpyM1dE43R-kxseocwAE1a6CWtGwjT42&new=1)
- > M1 Mac 发售后，苹果高管接受了很多媒体的采访。Ars Technica 采访了苹果软件工程主管 Craig Federighi、硬件技术主管  Johny Srouji 和营销副总裁 Greg Joswiak。Federighi 提到
- ## [“数领未来，智创共享”中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606006804&ver=2721&signature=yFsmqpVVap09okC9ssvjdR8mAeKc3RNI*rhYAQL7NnZRiPFD*xDo2erNUxgPEC35cWeZkKTy8ftY71yvXhTdm2dSEU9xT0p0xhEmFkcZRVuY3xzG0YTEpXtNdvvLY1tR&new=1)
- > 11月21日，以“数领未来，智创共享”为主题的中国移动大数据能力创新发展论坛在广州成功举行。作为2020年中国移动全球合作伙伴大会的分论坛之一，本届论坛由中国移动信息技术中心主办，邀请了来自政府机构、各大...
- ## [减半!苹果让步了](http://mp.weixin.qq.com/s?src=11&timestamp=1606006804&ver=2721&signature=pgG*yjRzk-pFcfiXeXyYkzBjK*d17-lPlOM6mUmMXSiMEMGPRuWG3fUJautep69MlcJ3ZDbFNVrjH2h-YGTGXqX5q*hpCSW42XuR7tewB5wV74jh*cAbSnKFdx2CRU2g&new=1)
- > 不少网民表示，苹果这下良心了，“苹果税”直接降了一半。也有的指出这是“苹果版扶贫”。来源：中国基金报(ID:chinafundnews)作者：吴羽苹果终于让步了！北京时间11月18日晚，苹果宣布推出一项新政：年收入不足...
- ## [5G+工业互联网，为建设制造强国赋能提速](http://mp.weixin.qq.com/s?src=11&timestamp=1606006804&ver=2721&signature=VifKOMLXs9rLBUZ9wS7W*E-4lUVq1s5hIn2202oKyHGkF5bVPd2OTiLc8hIdppwjEfK4Owzk079y2OiOkQvNL5Fw8MmBRQ4sjytJwcS-aSHrSme6se34TGRb7FwS-2pY&new=1)
+ ## [5G+工业互联网，为建设制造强国赋能提速](http://mp.weixin.qq.com/s?src=11&timestamp=1606010405&ver=2721&signature=VifKOMLXs9rLBUZ9wS7W*E-4lUVq1s5hIn2202oKyHHyOt6AouLqXFm*k6rQdcHsbr0o29wHDDKFo2ac0Kf5Syk5JCRt76Hf2gp3Mo9z0a2ogTHtzUG5*yvBAHdWS7XD&new=1)
  > ◎ 科技日报记者 崔爽坐上操控台，眼前的屏幕实时显示码头堆场上集装箱的位置，动动手柄和按钮，集装箱就装卸好了。在宁波舟山港，做同样的工作，工人以前需要爬上高30米的龙门吊，在工作间一坐8小时，不吃不喝...
- ## [数领未来，智创共享!中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606006804&ver=2721&signature=wXdcRHsvPsDoo8otU9Gewj7eOrQzo7K4ZfQJ-utiCWfIuhv9DlYtZmOfZYzk-s6KTznDjrlX5c0ekB2cIFllrOO4RDcfVmJCBUAshziicVc8dKE2CoXSgk4utQ14l7YX&new=1)
+ ## [减半!苹果让步了](http://mp.weixin.qq.com/s?src=11&timestamp=1606010405&ver=2721&signature=pgG*yjRzk-pFcfiXeXyYkzBjK*d17-lPlOM6mUmMXSiBIRLiIZzWREX8JPHqzy*McdrE7-YbNaBK8nZsKfnPqQGU20q68n-Hy6BdWhKE8LJ5tzBszk5yk55C8RyirpIC&new=1)
+ > 不少网民表示，苹果这下良心了，“苹果税”直接降了一半。也有的指出这是“苹果版扶贫”。来源：中国基金报(ID:chinafundnews)作者：吴羽苹果终于让步了！北京时间11月18日晚，苹果宣布推出一项新政：年收入不足...
+ ## [数领未来，智创共享!中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606010405&ver=2721&signature=wXdcRHsvPsDoo8otU9Gewj7eOrQzo7K4ZfQJ-utiCWcIrZQPxiYWvaMOuq-n-hXZeg1Bp9NmW8eV5k*sdV7qD*8LdodJ5mtTC*8klMVUmDTXkpgOYPj2Vs-C6UT6frjo&new=1)
+ > 11月21日，以“数领未来，智创共享”为主题的中国移动大数据能力创新发展论坛在广州成功举行。作为2020年中国移动全球合作伙伴大会的分论坛之一，本届论坛由中国移动信息技术中心主办，邀请了来自政府机构、各大...
+ ## [M1 Mac 原生支持 Windows“取决于微软”](http://mp.weixin.qq.com/s?src=11&timestamp=1606010405&ver=2721&signature=d8-rgRXmJciR5W9KjsQxDV79PHqvV0mNlD0Hr8ZFhBANHRIUlSFJNCofuIGMTu89zOfl58uNyV08AtCC*xeSfiRRpSk5TO0qplnQ3GddT1DkCKfIxkTCPGMlSBr0pOf7&new=1)
+ > M1 Mac 发售后，苹果高管接受了很多媒体的采访。Ars Technica 采访了苹果软件工程主管 Craig Federighi、硬件技术主管  Johny Srouji 和营销副总裁 Greg Joswiak。Federighi 提到
+ ## [“数领未来，智创共享”中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606010405&ver=2721&signature=yFsmqpVVap09okC9ssvjdR8mAeKc3RNI*rhYAQL7NnZM4Tz4LuK9wDF5j7YDu-dY1wNubbi2r2yCT7va7wJrw*dArCyvWdX0sLjvIG8eBK-BzijOSt9btcwSXqLtbXo7&new=1)
  > 11月21日，以“数领未来，智创共享”为主题的中国移动大数据能力创新发展论坛在广州成功举行。作为2020年中国移动全球合作伙伴大会的分论坛之一，本届论坛由中国移动信息技术中心主办，邀请了来自政府机构、各大...
 # IT 技术 
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）
  ## [针对Python开发人员的10个“疯狂”的项目构想](http://developer.51cto.com/art/202011/632392.htm)
  > 针对Python开发人员的10个“疯狂”的项目构想
- ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
- > Vue 快速开发入门课程
+ ## [ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09](http://fellow.51cto.com/art/202007/622206.htm?qd=51ctojrzd)
+ > ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09
  ## [微信支付能提现免费了！官方支招](http://mobile.51cto.com/app-show-632506.htm)
  > 很多小伙伴在寻觅微信免费提现的方法，现在官方支招了。微信官方推出了“微信支付有优惠”小程序，可以获得
  ## [物联网安全：感知层安全](http://iot.51cto.com/art/202011/632505.htm)
@@ -82,35 +82,35 @@ categories: IT NEWS
  ## [历时两个月终拿下京东offer，学习笔记全在这儿了](https://blog.csdn.net/Lubanjava/article/details/109037721)
  > 历时两个月终拿下京东offer，学习笔记全在这儿了
 # 人工智能 
- ## [阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer](https://blog.csdn.net/qq_46388795/article/details/109512350)
- > 阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer
  ## [我要偷偷的学Python，然后惊呆所有人（第十三天）](https://blog.csdn.net/qq_43762191/article/details/109709052)
  > 我要偷偷的学Python，然后惊呆所有人（第十三天）
- ## [python-Wordcloud，wrapt安装教程](https://blog.csdn.net/weixin_52089565/article/details/109805285)
- > python-Wordcloud，wrapt安装教程
- ## [2020年华为杯数学建模什么时候出成绩——就在今天？](https://blog.csdn.net/gccaizr/article/details/109816424)
- > 2020年华为杯数学建模什么时候出成绩——就在今天？
- ## [Python 视频教程下载 (全阶段)](https://blog.csdn.net/bigzql/article/details/109799840)
- > Python 视频教程下载 (全阶段)
+ ## [拿下阿里、华为AI技术岗，这些知识点全考了！（建议收藏）](https://blog.csdn.net/CSDNedu/article/details/109843054)
+ > 拿下阿里、华为AI技术岗，这些知识点全考了！（建议收藏）
+ ## [阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer](https://blog.csdn.net/qq_46388795/article/details/109512350)
+ > 阿里工作6年，熬到P7就剩这份学习笔记了，已助朋友拿到7个Offer
+ ## [Java调用cplex求解运输问题](https://blog.csdn.net/qq_35008055/article/details/109880741)
+ > Java调用cplex求解运输问题
+ ## [DIY一个红外避障小车！（1）硬件部分的安装](https://blog.csdn.net/albert_fifth/article/details/109888922)
+ > DIY一个红外避障小车！（1）硬件部分的安装
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [手把手教你5分钟从零开发一款简易的IDEA插件！项目经验/毕设不愁了！](https://blog.csdn.net/qq_34337272/article/details/109823686)
- > 手把手教你5分钟从零开发一款简易的IDEA插件！项目经验/毕设不愁了！
- ## [我坦白！我是第五位飞上太空的程序员游客](https://blog.csdn.net/csdnsevenn/article/details/109759418)
- > 我坦白！我是第五位飞上太空的程序员游客
- ## [JSON对象与字符串之间的转换](https://blog.csdn.net/weixin_43883917/article/details/109813399)
- > JSON对象与字符串之间的转换
- ## [5G消息或年底商用](https://blog.csdn.net/penggerhe/article/details/109818275)
- > 5G消息或年底商用
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [基于Python的图像阈值化分割（迭代法）](https://blog.csdn.net/AllErrors/article/details/109827807)
- > 基于Python的图像阈值化分割（迭代法）
+ ## [卷积神经网络学习——第二部分：卷积神经网络训练的基本流程](https://blog.csdn.net/L2000Ryan/article/details/109825118)
+ > 卷积神经网络学习——第二部分：卷积神经网络训练的基本流程
+ ## [anaconda安装步骤](https://blog.csdn.net/qq_44859533/article/details/109819015)
+ > anaconda安装步骤
  ## [Educational Codeforces Round 98  -B - Toy Blocks (思维)](https://blog.csdn.net/wmy0536/article/details/109846415)
  > Educational Codeforces Round 98  -B - Toy Blocks (思维)
- ## [不是吧阿sir！这么“快”的吗？不愧是鹅厂内部强推Java优化手册，爱了爱了！](https://blog.csdn.net/weixin_48182198/article/details/109809013)
- > 不是吧阿sir！这么“快”的吗？不愧是鹅厂内部强推Java优化手册，爱了爱了！
- ## [2020浙江省全国大学生智能汽车竞赛——基础四轮组入门看这一篇就够了！（浙江省二等奖，附开源代码）](https://blog.csdn.net/weixin_43454320/article/details/109536872)
- > 2020浙江省全国大学生智能汽车竞赛——基础四轮组入门看这一篇就够了！（浙江省二等奖，附开源代码）
+ ## [多目视觉三维重建研究综述](https://blog.csdn.net/qq_39381856/article/details/109865420)
+ > 多目视觉三维重建研究综述
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [【数学模型】基于SEIRS传染病模型matlab源码](https://blog.csdn.net/qq_34763204/article/details/109900852)
+ > 【数学模型】基于SEIRS传染病模型matlab源码
+ ## [当你只有一个主意时，这个主意就太危险了！](https://blog.csdn.net/weixin_51742650/article/details/109808854)
+ > 当你只有一个主意时，这个主意就太危险了！
+ ## [高校一键健康打卡及其检测系统](https://blog.csdn.net/qq_45880822/article/details/109856060)
+ > 高校一键健康打卡及其检测系统
+ ## [Java基础史上最全结构体系图（思维导图总结）详解，没有之一！](https://blog.csdn.net/xxxx1982/article/details/109895909)
+ > Java基础史上最全结构体系图（思维导图总结）详解，没有之一！
 
     
