@@ -1,20 +1,30 @@
 ---
 title: 2020-11-22 IT News
 copyright: true
-date: 2020-11-22 12:06:46
+date: 2020-11-22 17:05:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [M1 Mac 原生支持 Windows“取决于微软”](http://mp.weixin.qq.com/s?src=11&timestamp=1606017605&ver=2721&signature=d8-rgRXmJciR5W9KjsQxDV79PHqvV0mNlD0Hr8ZFhBANHRIUlSFJNCofuIGMTu89ZAKhFx8qQbKuq0-vR86H6xxHI*QHlLxhM6JJTq1lf2FnxxXW41frIxwny8JgSanl&new=1)
+ ## [东软集团董事长兼CEO刘积仁最新演讲：从技术到赋能百业，软件迈入生态时代](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=rrrPE991suAzWqjjo05kBfB8p1vG0wFNtYD9HE*rygiHFXJTQEjGthZPfDlrEI3glmd4dEYQllFaRWlGLm6kyIV56mKrALJrKCch4KAvNEC9AvJiE02RrSpHuGF0ns6k&new=1)
+ > 11月21日，由东软集团主办的「东软解决方案论坛2020」在南宁开幕。东软集团董事长兼CEO刘积仁在开幕式发表了题目为《软件的生态时代》的演讲。刘积仁指出，近年来随着信息技术的发展与普及，数字化商用规模的不...
+ ## [武汉联合华为全力构建“武汉云”，打造智慧城市新名片](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=r6YL-s2Htk0xL342xUHveNR-xTvyCfyVAtCFhGoLeNJdZHL2zgqKdkOJ-bUJvJCR-FjAmA0xDe90Nq1XEZYBkSaIv5F5xHQrn7Z4mmqHRIAroS0B4ajj9V37w9cEpA60&new=1)
+ > 11月21日，华为公司分别与武汉市政府、武汉产业投资发展集团签署合作协议，华为将融合5G、云计算和人工智能等新一代信息技术，高标准建设“武汉云”，为武汉提供智慧城市云基础设施及服务，共同推动武汉数字经济...
+ ## [落地双5G构筑信息化业务底座，广州移动加速“新基建”](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=wXdcRHsvPsDoo8otU9Gewj7eOrQzo7K4ZfQJ-utiCWdLpbp3cHz8rt*jk5CImOG44IdqzCdZmg97q3A46OpAI5UEgxAP*tgB44wb8TFJk3s8locfAg4FjYmGFQraz26q&new=1)
+ > 新型基础设施是以新发展理念为引领，以技术创新为驱动，构建5G、人工智能、数据中心等科技创新领域基础设施，从而促进各行业高质量发展。“新基建”的落地，不是简单的基础设施建设完善，而是与产业化应用协调推...
+ ## [满意度100%意味着什么?华为新模式服务硬核“治愈”最后一公里](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=WIr10SByzQS4zV2tsma63aBwoTywPoxKzosReRKT17XFdxvyZZfvjksnWrThtItvNjTwvL**Af88Rwe35Ekx*dMO9pMh4b51sXrEL6RkbfbwWVYgDJoZDtC7UobD0nL-&new=1)
+ > 当下年轻人都已经习惯了互联网所带来的高效生活，而线下生活中的很多低效场景，也仍是不得不面对的现实。就比如，一个只需要几分钟就完成的业务却需要和“半个小时才能解决”的大型服务排在一个队里，在传统的线...
+ ## [M1 Mac 原生支持 Windows“取决于微软”](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=d8-rgRXmJciR5W9KjsQxDV79PHqvV0mNlD0Hr8ZFhBB2PIRFVsD8r*PFDKzVKsfnzSGVfjL8NXbn5uyNHMnAStIoLZvO7Q5OJ-CZ0E1*B2dPGOSomExcRT19W2hAbp*A&new=1)
  > M1 Mac 发售后，苹果高管接受了很多媒体的采访。Ars Technica 采访了苹果软件工程主管 Craig Federighi、硬件技术主管  Johny Srouji 和营销副总裁 Greg Joswiak。Federighi 提到
- ## [“数领未来，智创共享”中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606017605&ver=2721&signature=yFsmqpVVap09okC9ssvjdR8mAeKc3RNI*rhYAQL7NnZM4Tz4LuK9wDF5j7YDu-dYSLjXOzFWM9WZt6QANVy8CCThrIecs7TeYBoqStxaaqqzxe1NqeGW7mtBpP7jONN6&new=1)
- > 11月21日，以“数领未来，智创共享”为主题的中国移动大数据能力创新发展论坛在广州成功举行。作为2020年中国移动全球合作伙伴大会的分论坛之一，本届论坛由中国移动信息技术中心主办，邀请了来自政府机构、各大...
- ## [5G+工业互联网，为建设制造强国赋能提速](http://mp.weixin.qq.com/s?src=11&timestamp=1606017605&ver=2721&signature=VifKOMLXs9rLBUZ9wS7W*E-4lUVq1s5hIn2202oKyHHyOt6AouLqXFm*k6rQdcHsT86dt*ceskU8dbGMiIWROfjshCVhNRD0ccfPEDnhBxyHOiQdE91aHtarlsx1DpSr&new=1)
+ ## [中国移动5G时代重仓和彩云，投亿级资源剑指何处?](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=wXdcRHsvPsDoo8otU9Gewj7eOrQzo7K4ZfQJ-utiCWdk3XuaNEVbFhvRtMemZZpVl*bLrLnewji2ZwRq6gNLnGHwOKbSehAdo4UQoqorNOjqZ5ceZ3dR1fxGG7ugnhDl&new=1)
+ > 数据是数字时代的数字通货，需要妥善的管理和经营。2020年11月20日·广州·中国移动全球合作伙伴大会盛大召开，在这个一年一度的盛会上，是观察中国移动这个巨头所思所想所谋划的最佳舞台。在上午举行的2020中国...
+ ## [5G+工业互联网，为建设制造强国赋能提速](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=VifKOMLXs9rLBUZ9wS7W*E-4lUVq1s5hIn2202oKyHGDeSo4aMxWgNxImmeqcNLyafD-1v27Ohu1KmxZ4LYXf8J2P*guSyrcfTlL*vyiMMrL0SusSIHziWIPmv7UZwLB&new=1)
  > ◎ 科技日报记者 崔爽坐上操控台，眼前的屏幕实时显示码头堆场上集装箱的位置，动动手柄和按钮，集装箱就装卸好了。在宁波舟山港，做同样的工作，工人以前需要爬上高30米的龙门吊，在工作间一坐8小时，不吃不喝...
- ## [减半!苹果让步了](http://mp.weixin.qq.com/s?src=11&timestamp=1606017605&ver=2721&signature=pgG*yjRzk-pFcfiXeXyYkzBjK*d17-lPlOM6mUmMXSiBIRLiIZzWREX8JPHqzy*MxFB*iAPujr3WO9Cn1LhkuVuir1eLTUoCIrRZFx*YmMwC15ss8rJA*6gihV5LezOJ&new=1)
+ ## [减半!苹果让步了](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=pgG*yjRzk-pFcfiXeXyYkzBjK*d17-lPlOM6mUmMXSiNGbr963fwXesPotSlQff9xVoaimar9GqtupHSIQcbZXJbtCDvbOS75d1XoeCaaFmE-Yc2XjvZXFsz4KsGijqZ&new=1)
  > 不少网民表示，苹果这下良心了，“苹果税”直接降了一半。也有的指出这是“苹果版扶贫”。来源：中国基金报(ID:chinafundnews)作者：吴羽苹果终于让步了！北京时间11月18日晚，苹果宣布推出一项新政：年收入不足...
- ## [数领未来，智创共享!中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606017605&ver=2721&signature=wXdcRHsvPsDoo8otU9Gewj7eOrQzo7K4ZfQJ-utiCWcIrZQPxiYWvaMOuq-n-hXZVtde4mdxSfDytVxxPVVuS8yXnu45t0Bp*YenJLORR7vMF96YWwULjqz3iwNmoPJU&new=1)
+ ## [“数领未来，智创共享”中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=yFsmqpVVap09okC9ssvjdR8mAeKc3RNI*rhYAQL7Nnbq90VNoUxjlcW2RxpIHRZKT7Zsj36Lfva*zC*3dAHDcTtRCUy7b*7KXY4LghPoreA1V8ue4i8MV9QUkAniRNgK&new=1)
+ > 11月21日，以“数领未来，智创共享”为主题的中国移动大数据能力创新发展论坛在广州成功举行。作为2020年中国移动全球合作伙伴大会的分论坛之一，本届论坛由中国移动信息技术中心主办，邀请了来自政府机构、各大...
+ ## [数领未来，智创共享!中国移动大数据能力创新发展论坛召开](http://mp.weixin.qq.com/s?src=11&timestamp=1606035605&ver=2721&signature=wXdcRHsvPsDoo8otU9Gewj7eOrQzo7K4ZfQJ-utiCWcj-K6tX7a8RNllUlaCG6yfRWOpDAsChbiSnih-xgqxjJSmLEffPrjF2QWtFU8ePXfeNg1UXE590NuVq3AurHwW&new=1)
  > 11月21日，以“数领未来，智创共享”为主题的中国移动大数据能力创新发展论坛在广州成功举行。作为2020年中国移动全球合作伙伴大会的分论坛之一，本届论坛由中国移动信息技术中心主办，邀请了来自政府机构、各大...
 # IT 技术 
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
@@ -31,8 +41,8 @@ categories: IT NEWS
  > 《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）
  ## [针对Python开发人员的10个“疯狂”的项目构想](http://developer.51cto.com/art/202011/632392.htm)
  > 针对Python开发人员的10个“疯狂”的项目构想
- ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
- > MySQL培训速成教程（八）：MySQL主从复制集群配置
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
  ## [戴尔存储以完整的端到端解决方案，赋能企业数字化转型](http://stor.51cto.com/art/202011/632509.htm)
  > 戴尔推出了第五代存储PowerStore，同时还推出了PowerScale、PowerFlex和PowerProtect存储和数据保护产品，
  ## [微信支付能提现免费了！官方支招](http://mobile.51cto.com/app-show-632506.htm)
