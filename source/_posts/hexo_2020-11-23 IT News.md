@@ -1,52 +1,60 @@
 ---
 title: 2020-11-23 IT News
 copyright: true
-date: 2020-11-23 08:08:30
+date: 2020-11-23 09:05:38
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [震惊!中国电信秘密组织培训挖移动客户，恶意竞争毫无底线!](http://mp.weixin.qq.com/s?src=11&timestamp=1606089604&ver=2723&signature=IUz9y68cFa1SFkl1rhPq-1s5lRNFjF98dZG-OFmqoknHwBnzH7np7wnzsGc8YnccapcwJcfPu5FpIfwBumkkNCzU7bxSUWvqR0kl84fxFazXfrQ2dKq0ybBc8ROQJtFZ&new=1)
+ ## [震惊!中国电信秘密组织培训挖移动客户，恶意竞争毫无底线!](http://mp.weixin.qq.com/s?src=11&timestamp=1606093205&ver=2723&signature=IUz9y68cFa1SFkl1rhPq-1s5lRNFjF98dZG-OFmqokniJFPE3*x90qJ*Z6SJ*QqhF0XBDsxs3ye6fZhNE0AWcPfVhyoLkgqTyPhiX*ttSjR32*1v*Q6tiIHSt40GWWvn&new=1)
  > 有网友爆料，XX电信正在秘密组织培训，关于如何策反移动客户，有一系列的流程和教程，看下图。仔细看了网友的截图，不仅要在客户面前使出一系列的手段，来证明“电信好”“移动差”，还要打10086投诉移动，这明...
- ## [日本的美女机器人，越来越像真人，这操作有点羞羞啊](http://mp.weixin.qq.com/s?src=11&timestamp=1606089604&ver=2723&signature=5ZTKl-ikQfKtt29RGNoo2JfqZyOrS40AO9T6cjSlrMvN6xtXxFywlWpupg79lUXKm6mjZ2Yxu6CZgqrVfO-PwENSfnYj4fS7jcbyKUJ9lHve08Zk6dL-dCaepXOjQjww&new=1)
- > 前两天，万年劳模八弟，居然请假了。等他再回来上班，他整天的表情都是这样：一问，原来是八弟牙疼犯了。看他那么难受，也勾起了，机哥从小到大关于各种痛的回忆......牙疼、头痛、胃痛、腿摔伤的痛，嘶。有时候...
- ## [原菜鸟副总裁受贿数百万，马斯克何小鹏开杠，谷歌延长支持Win7的Chrome，微软计划解决文件删除问题，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1606089604&ver=2723&signature=cB5pArYS7mElTUq8VhAW62TWkIOlw8an1rGsH2BKQBcI1A-*1Vgu7GHKq8rPMQv-le5NXqQmkusFlD3AjymdrAdAY8s3sxuSd79K3fx3OFm28pMjVvqYFSb0A8LwPdqG&new=1)
+ ## [原菜鸟副总裁受贿数百万，马斯克何小鹏开杠，谷歌延长支持Win7的Chrome，微软计划解决文件删除问题，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1606093205&ver=2723&signature=cB5pArYS7mElTUq8VhAW62TWkIOlw8an1rGsH2BKQBftO-iRdJpE4NK4bkm21NH9756E6UuCq-8ycqxmEivVj7HSQZ0lwITEshJagTMGUOxPQsXqB7hhmDnrAPTE5dX-&new=1)
  > 今天是11月22日农历十月初八昨天和朋友一起打麻将他说他所有朋友在被安利贵州麻将后都再也不玩其他麻将了我不信下面是今天的其他大新闻 原菜鸟副总裁史苗涉嫌受贿数百万，菜鸟回应：廉政反腐是公司底线（ 新浪...
- ## [\[C114周报\]华为出售荣耀品牌相关业务资产；中国移动实施五百亿价值分享行动；爱立信CEO呼吁开放市场和公平竞争](http://mp.weixin.qq.com/s?src=11&timestamp=1606089604&ver=2723&signature=jLrGvoVmmhNTMzMuHXcc4L4F0uXsqzPJBQbDm36*jCQ7a3xxDABMe9S-kQRVXt0vV7MXn5NOnc09ucc9QCZjjKPZeKaVckh6VdQ6GlQLLGrqBGqUNqXvjEqfYDRtAMVE&new=1)
- > 周报WEEKLY本周热点有华为出售荣耀品牌相关业务资产；中国移动实施五百亿价值分享行动；爱立信CEO呼吁开放市场和公平竞争• 第116期 •华为出售荣耀品牌相关业务资产11月17日多家企业在《深圳特区报》发布联合声...
- ## [某通信运营商减员，要求员工签定《解除劳动合同证明》](http://mp.weixin.qq.com/s?src=11&timestamp=1606089604&ver=2723&signature=Ea*VqRdBmaKPakDEWwtYxIrtYTFeafLHqT6Jplv*pDcNh1qfHEsnQH2oeLZKTxnmfTSrHEw7nHVnzC15iNQ03wXqsfD5ruh68T5eU4Vn0qW2jTnsnsKaDK2LTYCsDSjh&new=1)
+ ## [日本的美女机器人，越来越像真人，这操作有点羞羞啊](http://mp.weixin.qq.com/s?src=11&timestamp=1606093205&ver=2723&signature=5ZTKl-ikQfKtt29RGNoo2JfqZyOrS40AO9T6cjSlrMvuGljjCDV7CcJ0uVar2537wq4OZKkA-Pzu-ioB7JpCkTUxWMOFRso0TZsc1*Z1AdYvSJ-FJjMcHUEX8SmWBsLX&new=1)
+ > 前两天，万年劳模八弟，居然请假了。等他再回来上班，他整天的表情都是这样：一问，原来是八弟牙疼犯了。看他那么难受，也勾起了，机哥从小到大关于各种痛的回忆......牙疼、头痛、胃痛、腿摔伤的痛，嘶。有时候...
+ ## [某通信运营商减员，要求员工签定《解除劳动合同证明》](http://mp.weixin.qq.com/s?src=11&timestamp=1606093205&ver=2723&signature=Ea*VqRdBmaKPakDEWwtYxIrtYTFeafLHqT6Jplv*pDesJ0ZYz5tqveNTjKc6pbWs2AF0TK4lqKFfHfOCesujvgOna*C9P3VF7uygSv*fEzGhizzkRF4j2uJvYpWl8vKz&new=1)
  > 知情人向运营商情报爆料，近日，通信运营商某北分公司大规模减员，要求员工在《解除劳动合同证明》签名，不签员工将被辞退。证明中，适用法律法规一栏强调“用人单位与劳动者协商一致”。综合：运营商情报监制：...
+ ## [\[C114周报\]华为出售荣耀品牌相关业务资产；中国移动实施五百亿价值分享行动；爱立信CEO呼吁开放市场和公平竞争](http://mp.weixin.qq.com/s?src=11&timestamp=1606093205&ver=2723&signature=jLrGvoVmmhNTMzMuHXcc4L4F0uXsqzPJBQbDm36*jCR02d67PtdfkxPiy3N9MFjivoJqOi1GYpjLVuYkzagOQDCLuH8l7J2EgPCKlP6iylajDZHkffxS2liVApuPy8iU&new=1)
+ > 周报WEEKLY本周热点有华为出售荣耀品牌相关业务资产；中国移动实施五百亿价值分享行动；爱立信CEO呼吁开放市场和公平竞争• 第116期 •华为出售荣耀品牌相关业务资产11月17日多家企业在《深圳特区报》发布联合声...
 # IT 技术 
+ ## [程序员连续加班在餐厅泪崩，看到955不加班的公司名单，我酸了...](http://news.51cto.com/art/202011/632521.htm)
+ > 程序员连续加班在餐厅泪崩，看到955不加班的公司名单，我酸了...
+ ## [空降CTO是救世主？不，也可能是臭流氓](http://news.51cto.com/art/202011/632519.htm)
+ > 空降CTO是救世主？不，也可能是臭流氓
+ ## [线上系统没做性能优化，说炸就炸...](http://developer.51cto.com/art/202011/632517.htm)
+ > 线上系统没做性能优化，说炸就炸...
+ ## [13种工具助你打造企业的云原生属性](http://cloud.51cto.com/art/202011/632461.htm)
+ > 13种工具助你打造企业的云原生属性
  ## [机器人流程自动化（RPA）和业务流程管理（BPM）如何结合在一起？](http://developer.51cto.com/art/202011/632459.htm)
  > 机器人流程自动化（RPA）和业务流程管理（BPM）如何结合在一起？
  ## [淘宝的高可用异地多活架构到底有多牛?](http://developer.51cto.com/art/202011/632389.htm)
  > 淘宝的高可用异地多活架构到底有多牛?
  ## [应对攻击的分阶段渗透测试完全手册](http://netsecurity.51cto.com/art/202011/632359.htm)
  > 应对攻击的分阶段渗透测试完全手册
- ## [京东EB级全域大数据平台的演进与治理历程](http://bigdata.51cto.com/art/202011/632325.htm)
- > 京东EB级全域大数据平台的演进与治理历程
- ## [全面了解微软.NET 5，2021年更好迈向.NET 6](http://developer.51cto.com/art/202011/632356.htm)
- > 全面了解微软.NET 5，2021年更好迈向.NET 6
- ## [Gartner预测2021年全球公有云支出将增长18％](http://cloud.51cto.com/art/202011/632358.htm)
- > Gartner预测2021年全球公有云支出将增长18％
- ## [《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）](http://os.51cto.com/art/202011/632309.htm)
- > 《全面解读鸿蒙HarmonyOS分布式数据管理平台》直播答疑（第一弹）
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
+ ## [AD活动目录管理 - 理论与实战](http://fellow.51cto.com/art/202007/622442.htm?qd=51ctojrzd)
+ > AD活动目录管理 - 理论与实战
+ ## [我国网络安全和信息化成就令人瞩目](http://netsecurity.51cto.com/art/202011/632550.htm)
+ > 党的十八大以来，以习近平同志为核心的党中央坚持从发展中国特色社会主义、实现中华民族伟大复兴中国梦的战
+ ## [Kubernetes资源清单篇：如何创建资源？](http://developer.51cto.com/art/202011/632548.htm)
+ > 在Kubernetes中所有操作的内容，我们都称为“资源对象”，是由API Server基于HTTP/HTTPS接收并响应客户端的
+ ## [压力山大！运营商靠5G盈利，可能比想象的更难](http://network.51cto.com/art/202011/632547.htm)
+ > 在新基建战略和5G融入百业需求推动下，我国已经成为全球最大的5G应用市场。截至10月底，以中国移动为代表的
+ ## [知道为啥失败么？87%的机器学习项目都是这么栽了的……](http://ai.51cto.com/art/202011/632546.htm)
+ > 机器学习领域的发展潜力巨大，但我们对它了解得还不够。根据Garner的预测：“2020年，有80％的人工智能项目
+ ## [微信支付能提现免费了！微信官方推“金币”功能](http://network.51cto.com/art/202011/632545.htm)
+ > 很多小伙伴在寻觅微信免费提现的方法，现在官方支招了。微信官方推出了“微信支付有优惠”小程序，可以获得
+ ## [打工人最爱技能：JavaScript的未来会走向何方？](http://developer.51cto.com/art/202011/632544.htm)
+ > 作为一个见证了过去17年编程语言发展的软件开发者，笔者试图在本文中对JavaScript进行一些预测。
  ## [十分钟快速实战Three.JS感受它的无限魅力!](http://developer.51cto.com/art/202011/632538.htm)
  > 本文不会对Three.js几何体、材质、相机、模型、光源等概念详细讲解，会首先分成几个模块给大家快速演示一盒
  ## [Git版本管理总有问题，建议使用Git Flow](http://os.51cto.com/art/202011/632537.htm)
  > Git 是用于 Linux内核开发的版本控制工具。与常用的版本控制工具 CVS, Subversion 等不同，它采用了分布式
- ## [聊聊代码的保养](http://developer.51cto.com/art/202011/632532.htm)
- > 不只女人要保养，代码也是如此。面向对象编程，就是把面对的代码当作对象一样，定期对其进行保养。
- ## [牛气的JavaScript，让雪花算法成为空气](http://developer.51cto.com/art/202011/632531.htm)
- > 因为xjjdog的修为主要体现在后端上，所以爱屋及乌。这体现了斗争是人类的基本属性：程序员除了要干产品经理
- ## [央视提醒：微信“清粉”APP千万别再用了！](http://mobile.51cto.com/app-show-632523.htm)
- > 据央视报道，近期，浙江苍南警方侦破了一起利用微信“清粉”软件，非法控制他人计算机系统案件，初步查明涉
- ## [央视曝光存话费送手机骗局：全额返还只是幌子](http://news.51cto.com/art/202011/632527.htm)
- > 不少运营商和手机店都会推出“存话费送手机”的活动，送的手机虽然性能较差，与所标价格相差较大，但消费者
- ## [参与有奖调研，还可免费阅读《白皮书》](https://marketing.csdn.net/questions/Q2011031730251910671)
- > 参与有奖调研，还可免费阅读《白皮书》
+ ## [Linux虚拟化KVM-Qemu分析之中断虚拟化](http://virtual.51cto.com/art/202011/632535.htm)
+ > 本文会将ARM GICv2中断虚拟化的总体框架和流程讲清楚，这个曾经困扰我好几天的问题在被捋清的那一刻，让我
+ ## [格物致知-记一次Nodejs源码分析的经历](http://developer.51cto.com/art/202011/632534.htm)
+ > 昨天分析http模块相关的代码时，遇到了一个晦涩的逻辑，看了想，想了看还是没看懂。百度、谷歌了很多帖子也
+ ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_july_v/article/details/108292943)
+ > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [用Python实现定时自动化收取蚂蚁森林能量，再也不用担心忘记收取了](https://blog.csdn.net/ityard/article/details/109733747)
  > 用Python实现定时自动化收取蚂蚁森林能量，再也不用担心忘记收取了
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
