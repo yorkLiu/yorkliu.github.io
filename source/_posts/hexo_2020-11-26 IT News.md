@@ -1,39 +1,51 @@
 ---
 title: 2020-11-26 IT News
 copyright: true
-date: 2020-11-26 12:48:30
+date: 2020-11-26 17:30:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [未知大陆发布2021年中国3D打印产业十大趋势预测](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=eoQjAvTv8BMHIKYkgm9GYyQBvFY4MrRYEbD3byMUh8bFmo*LKJ6FOL9XiPml-WXBMUQvMpqGkfUA-V4Wd5bB8CqV75FfxFjI2mwb0qaCPCc0aIQ3UMERzaFyZGDmSjBg&new=1)
+ ## [TOP Network联合创始人Noah Wang：扬区块链之帆，驶向互联网下一个蓝海](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=NlUMjRGGaiuD6ckAlOsFGoB-3GhlC3me-YHdWK*9h2yNcKcfIXowvWKAoSKFJxL1ldPgS116bO07*4KoUNq7apIpDgs*BAWRHgQYDm2Jpwd-RSYTarZr1ALsPQm1TFM7&new=1)
+ > 一项新技术的诞生，从百家争鸣的草莽时代到初具规模的有序竞争，往往伴随着层出不穷的商业机会。成功抓住机会者，不仅能成就一个个造富神话，更有机会在未来的商业版图中占据一席之地。TOP Network联合创始人Noa...
+ ## [智能家居老兵王雄辉：押注“原生全宅”，只做真智能](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=xjEOQqRZ0K*OfhItccqzr2TAhnXkAjL7FOm7uAlNGfQyrixNv*ol63c3UdGOS2qNEmQXwEFXL89h2AWufkfO4rAVn*RO-liQjJpZOZj3kGKmWgFnJaeyyJ3hhsbB9XzR&new=1)
+ > 11月20日，在欧瑞博总部见到王雄辉时，他刚从一个会面中结束，在前一天的新品发布会上，欧瑞博发布了“全景屏超级智能面板”MixPad X 、Home AI 3.0全宅智能操作系统和全宅智能照明系统等产品，提出“原生全宅智...
+ ## [你熟知的开源项目，幕后推手竟然是他们?](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=bMUmaPaYVwkmTpmr-NW3BTxqk0I7lOE7NxbxBjIMSPLazLNnai*Rav0rYBnr-lGbHMkrMJU9RzKxuI84VArvn6NPr65SxPwnnO8FUB5GP*hP1IVLhkWPTPvW6W48Fnn-&new=1)
+ > 作者 |  八宝粥责编 | 唐小引出品 | CSDN（id：CSDNnews）一个开源项目如果想要做大做好，单靠程序员秃头熬夜用爱发电是不现实的，往往需要有一些组织、公司或者基金会提供资金、技术甚至是法律等方面的支持。基...
+ ## [当今社会幸存的不加班的 IT 及程序员们有何秘密武器](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=e8tvTpE4lhI2cv4L1mD*K81zplJqvANVJxIFx-oZ6JKgvtk00llvRC7YlxVPVyk6mc84k*bybZVIl1SLrfwwK-VChTHyZ2Tz5qWD*XqqYkDY27VHtUsYEvXUJlV-lq-T&new=1)
+ > （本文阅读时间：3分钟）01安全篇-设备部署安全你以为的公司 IT ：日防夜防，公司的电脑千万别中毒, 没想到防不胜防，做梦都梦见电脑中病毒，更可怕的是到公司发现全公司电脑真中毒了！ 实际上公司全部使用 Surf...
+ ## [不到1000行代码，GitHub 1400星，天才黑客开源深度学习框架tinygrad](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=YfZSnoREoQG2SNUFfSm*NX1XF*hy*LFAc8JpelD57krsNd3mvUnprvTQnpsWBA89VAzP0CiJWhRu8GdVCCjqvuH0nYGq*hO4VTptzYubR1sQ2WFSnm58Od*m07gGWfhC&new=1)
+ > 机器之心报道机器之心编辑部最近，天才黑客 George Hotz 开源了一个小型深度学习框架 tinygrad，兼具 PyTorch 和 micrograd 的功能。tinygrad 的代码数量不到 1000 行，目前该项目获得了 GitH
+ ## [疑似索尼PSVR二代专利：支持触觉反馈，保留发光灯带](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=-fxO-luAyyTMOwb-5MbadDMXXH2gL57LwKMGnUS6prysZX00T8HBMStzA-*Euk1cdl63S4HH12DLxBmDVl8OARxZQdhpYfS4wgaWOUF08VkXaApo4BpRvn36ElEKsImj&new=1)
+ > hi188｜编辑索尼的PS5已经发售已经，但由于初期货源不多，玩家抢购过于积极，导致价格翻倍也在所难免。然而，PS VR玩家和开发者们并不安于现状。今天，索尼PS VR 2的专利信息曝光。不过，在了解PS VR 2之前，我...
+ ## [一线丨两大手机国代商增资“新荣耀”爱施德成星盟信息第一大股东](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=5NyC0KA1rZ26MhTV8DDxTzy9swDNVjIisq-4XVH6pXi-yinLC2Wmx*cQELBMf1GciJNk23-3XKaRG-OclijU*JHud0Ku1ai6UJHeg83fw8CqvunMfTXhOQl5qMDlkrfr&new=1)
+ > 来源：腾讯新闻《一线》 作者：郭晓峰 11月26日报道，继华为日前官宣正式出售荣耀手机后，“新荣耀”又有了最新进展。昨日晚间，爱施德（002416.SZ）、天音控股（000829.SZ）分别发布公告，将通过各自子公司向星...
+ ## [华为再发“不造车”声明：整合汽车与消费业务，任正非直言“谁再建言造车，可调离岗位”](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=Y1wcQt68l2C24C-St6RiB3ud7xPt8SG4P5EXn2x7H9DWgaCR7KYWX-M2FGnpMiTZA7avu2-V*49ikk3YxXwiigcJSBZjPz7Ypc*NbyjkHZjamH6m93Wmb217UAf7CHa4&new=1)
+ > 记者丨孙磊11月25日，一则有关华为造车的传闻引发业内关注。有消息称，“华为汽车已经造出来了，明年底上市，12月或明年一季度发布。这款新车是与长安汽车合作打造，设计师是原保时捷总设计师，定位为跨界类SUV...
+ ## [运营商不讲武德，5G刚出4G套餐就被下架，这好吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=3DgwP6*SSmngpH4GPSQcyBXie80jNZMzfwsRaLp666sDR3zyqz9xBQxARa2ZTvZHDvhRF89yJls*4MfzCuzgwtxeHZ8Pi20V3DTbIzo2MDKVkltVPQH8LnCPt-ZlPiXY&new=1)
+ > 在5G正式商用一年后，各大运营商却悄悄下架了自家的4G套餐，不禁让人觉得这是运营商为了推广5G而为消费者设下的坑......雷雷视频号来啦~点击下面的小卡片即可跳转可以看到更多的雷雷视频内容记得关注雷雷然后帮...
+ ## [工信部刘烈宏：国内已累计开通5G基站超70万座](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=5pzGQGF2Ie*hiRgIMPo9Q44JRTu5PZ6FLWP-KQScqkvQPSvrOOQ93Q7tS7zKQudvECJ3*j-K*zCPhngL7*yjGw7QE5mjUfyXCampJHSnC5s=&new=1)
+ > 上证报中国证券网讯（记者 朱文彬）11月26日，2020世界5G大会在广州启幕。在大会开幕式上，工业和信息化部副部长刘烈宏在致辞时表示，工信部将加快推进网络建设，持续开展5G技术研发试验，指导成立5G应用方...
+ ## [调查：百度地图涉嫌泄露用户敏感数据](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=pTvPz3VjZymgkHxhCa0MIbJIXfezmOC*yoKwvEiqPmx4X2YlcYNx8r33dGr5u0mfGbEB61I90jwLEr87meCSCDz1wgVExz6tI7v6PV69B4iLEhfqcNrgr5e6GFSv4pZX&new=1)
+ > 近日，根据派拓网络（Palo Alto Networks）旗下的UNIT42研究小组的最新报告，在Android官方应用商店Google Play（通常业界认为这是最安全的Android应用商店）中，两款下载量合计超过600万的百度应用——
+ ## [盛会进行时!大咖云集!](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=oQiUs1y1RW0SIoYrcr0ZY4DLnIobfQTyHOMTZqXs5e6SM3RzPJ2ca1bNbB1fqJB16rxaBlrK3GqEM-cUjvkD*9X*X1rHkEmIkFc*o0OEojUpnGWnd3PA6EI0SfFxGoLt&new=1)
+ > 11月25日，科技日报社和中国外文局共同主办的2020世界5G大会·5G与媒体业之变革变局高峰论坛在广州召开。论坛邀请了来自媒体界、学术界和企业界的专家一起，探讨如何利用5G技术促进媒体深度融合、讲好科技创新故...
+ ## [未知大陆发布2021年中国3D打印产业十大趋势预测](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=eoQjAvTv8BMHIKYkgm9GYyQBvFY4MrRYEbD3byMUh8a7rQ7ojYIzgHM73rcceUnnHxFAPfLdGr59TPC6pDL34JF-V9QMz6vgIrAs7XXelGQq7YQ-BswivmzG6Ij9snA2&new=1)
  > 2020年11月25日，DMP大湾区工博会盛大开幕的第二天，2020增材制造技术与应用国际论坛在深圳国际会展中心6号馆成功举办，演讲嘉宾包括中国工程院院士 王华明、华中科技大学特聘教授 张海鸥、香港城市大学 吕坚院...
- ## [中国联通4人荣获全国劳动模范荣誉称号](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=*dxPAu8DvEeEBxorf80Y5WB0tv9ccgtObQ-jET30W*37TYqDZ4dCUC4zss0NzbfmKdR-kpoDIyRGP3AX6yzySkRNmxo26b8xbD4E600MD13gkFX*lHIR13ePA6I3LmuG&new=1)
+ ## [中国联通4人荣获全国劳动模范荣誉称号](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=*dxPAu8DvEeEBxorf80Y5WB0tv9ccgtObQ-jET30W*3uGkEpgM*us6S7fi0UHLt3my6jxx5REDBrc6DHufuu-jqSccoLccMCLgKqBQafUHtc*8r8CXZHfR2kJ*BHSIMj&new=1)
  > 11月24日，2020年全国劳动模范和先进工作者表彰大会在北京隆重举行，中国联通共有4人获得全国劳动模范荣誉称号，受到党和国家领导人表彰。他们是：天津联通线路维护中心干线网络维护主管、高级工程师曹俊忠，中...
- ## [\[报告\]2020车联网行业深度研究(附77页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=PZJ2Sz1cbb0RyXt4XrEpVovI1d-55ZHhj2xWvTkcAnTfNJp9ZiOZwzmlfnPWrfmenhk0NCJ6ECEb8d4QCnD0fnHdHGRwJMB6RBAmNWuqTWtGsPkiK*DCbDH8Jc-51*Em&new=1)
+ ## [\[报告\]2020车联网行业深度研究(附77页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=PZJ2Sz1cbb0RyXt4XrEpVovI1d-55ZHhj2xWvTkcAnRte20SEoXahlPjKjQBBQO9cm8PVSG0VAtjjm*1Qh86MTwG8QRJpa-Nv5mkXrlmeGO5KKTFXXgB9DkJ5H2gwGpQ&new=1)
  > ◆车联网是信息化与工业化深度融合的重要领域，是5G垂直应用落地的重点方向。◆根据华为Cloud BU判断及预测，20世纪末以来，汽车时代从1991-2000年的机械阶段，相继经过电子和通信阶段，走向2009-2014年的网联阶...
- ## [积极推广“数字黔老”平台](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=m2BV-tB4Muig4g0wdU-i*4F1*TZx8M8E9lfr1N1wScz0BjBqXqVhRyhMqcHV2DIImoFpwznCv4EMq5qiys7nQw1McWHJCVIkQDtxauzFRcU=&new=1)
+ ## [积极推广“数字黔老”平台](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=m2BV-tB4Muig4g0wdU-i*4F1*TZx8M8E9lfr1N1wSczJzy6k7criJ4S3i4AINrNULksacRjqVqR--gYhYGRdc7Rr4NAd1YCp72AGc*1UVdM=&new=1)
  > 本报讯 11月19日，南明区委老干部局举办“数字黔老”服务管理平台工作推进会，全面巩固完善第一阶段基础信息数据入库的工作成果，切实做好“数字黔老”推广应用工作，真正把平台有效利用起来、作用发挥出来...
- ## [智眼看5G丨在5G新世界，他们要做数字经济筑路者](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=oQiUs1y1RW0SIoYrcr0ZY4DLnIobfQTyHOMTZqXs5e7b*WIBwgP5iKZLWwwm6liHF0-Jg1ymcDImF0dve2RI1DO5seIqN*y9sBXDYQyT7mrsxapUdJzDF-XVmqSr-Wbz&new=1)
+ ## [智眼看5G丨在5G新世界，他们要做数字经济筑路者](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=oQiUs1y1RW0SIoYrcr0ZY4DLnIobfQTyHOMTZqXs5e7rSXhQY-C5xwsXusM*a*b8mZtMFBitivvI94MEu8rYS3NFfhgAOve2gGYYwOkICn9k2GspDSjJQMOl2QT7QpOt&new=1)
  > ◎ 科技日报记者 刘传书位居新基建之首，5G迎来建设高潮。前三季度，中国累计建设5G基站69万个。制造商、运营商、应用端的企业和消费者都在大潮中寻求自己的定位。中兴通讯副总裁陈志萍接受科技日报记者采访时表...
- ## [火了：75岁3D打印院士晚上10点开研讨会、金属3D打印火箭成本大降、无熔化的金属3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=69crKL1DPrYeGzxB3iDO4Z-fKz-gDBzvJ4G8wIFQdsLIbUJfVJQTxmMQSv4THpDJr9EWRtCcqOTXXE2l6x1Bp9Msdw3GR4fK8B5U*mXseeHoa0BsMG2RdQVaR8E0x8Gx&new=1)
+ ## [火了：75岁3D打印院士晚上10点开研讨会、金属3D打印火箭成本大降、无熔化的金属3D打印](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=69crKL1DPrYeGzxB3iDO4Z-fKz-gDBzvJ4G8wIFQdsIQ9BOU-dsJAmeMHIRapEJqlL3-5xbwCuQFyldQjZm86ZlkjTxntBx3bx*b6CJRpsN1vqxxmfbF6HBqo4irPoAL&new=1)
  > △第三场中德增材制造在线研讨会最近，南极熊视频号上的这几条3D打印视频火了△视频：已经75岁的卢秉恒院士，夜里10点多还在参加中德3D打印研讨会，不得不点赞（请给个小红心 ）。△视频：金属3D打印让火箭发射...
- ## [智屏生态1.0：雷鸟科技战略跃迁的新支点](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=DKWzSIOSXjF468UJhrm7H7tuABedcg8JMQmYY79wInfgAgsxGPU6eYLvDO5Yhv4i5gdlTfQgxPpEB-GaJmyVZhfygDgSHfjjw2qu*A4kvSJtf5m8hjINYOgFil45WyPd&new=1)
+ ## [智屏生态1.0：雷鸟科技战略跃迁的新支点](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=DKWzSIOSXjF468UJhrm7H7tuABedcg8JMQmYY79wIncLvbrcFUnpdc5FNuLpmcee8J*bUvGbL10bqxlSHV6g9VlJXSkHhwZf5vUpKD7f1Exl*stw82sY4j6g3HROIlz-&new=1)
  > 雷鸟科技商业演进与创新战略进入“智能商业”。作 者 丨 宿艺编 辑 丨 子淇智能电视OTT生态模式在盘亘十年的摸索期之后，终于进入“智屏生态1.0”跃迁阶段。 “智屏生态”是一个新概念，它伴随智屏这一新终端品...
- ## [“智能控车 一触即达|威马新科技全体验”](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=6sdVeci8Vtc7t1L*FPzrhQ6W9h7BNHCu5ONZfosbBcybTMbUBlj*osKjBa2e2UK3k2PGKdA7Upg2BiybO98LnLCAXutscHdxprNoXF*1ZiQ8dsLt6bwvUHrXJQoZUvY4&new=1)
+ ## [“智能控车 一触即达|威马新科技全体验”](http://mp.weixin.qq.com/s?src=11&timestamp=1606381205&ver=2729&signature=6sdVeci8Vtc7t1L*FPzrhQ6W9h7BNHCu5ONZfosbBczSg48MsD6yS3uonG0p*pekzoGvb6n3Id3lyH8BiTT1G7jSvky5gAeYYUpGFS97DlMvQZRc0gGtzADW2e*3yxuq&new=1)
  > 无感操控的开始说到人机交互设计，最优解通常都是一触即达，最典型的例子就是iPhone上的Home键，当然你也可以大胆想象，更好的人机交互，也可以是我的一个脑电波，又或者一个眼神和动作，就能形成一组指令的输出...
- ## [\[科技早报7点整\]华为声明不造整车 小米就未来得屌丝者得天下言论道歉……](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=hyrVVvOz5Z1oIql627MW3tIVzreP1GWeNwdB2*pdG7Izkr29bWCXual4nR7zUT18JExQTrQ3heM5jtFgzKpo8S3UUG-HWAXFnGeyUS*4lYuIyelHaPoRlcVqQtIM2JiB&new=1)
- > 早上好，科技圈【一度蜜科技早报】第988期1.国家出手破除老年人智能鸿沟针对老年人使用智能设备遇到的问题，国务院办公厅发布解决办法：①任何单位和个人日常消费不得拒收现金；②各地不得将“健康码”作为人员...
- ## [中国移动集团领导最新分工：负责市场的领导是..](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=AFfeyN2lMaV40i4FqiZNElexWqtWvlneV8Ay-Pxo1HvQB0DeUSd*ZmX3klQemYbEbodWZygWQptDYnhZToVbVYKFg-5pSKrVfB0my0wTNEw51EwaTQ3mA5fTwfUhQhUE&new=1)
- > 近日，中国移动集团公司经过研究并报上级同意，中国集团公司领导分工做出了如下调整：董事长：杨杰同志负责集团公司全面工作，主持集团公司党组、集团公司董事会工作。对集团公司党的建设、经营发展负主要领导责...
- ## [Autodesk发布2021财年第三季度收入，同比增长13%](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=eoQjAvTv8BMHIKYkgm9GYyQBvFY4MrRYEbD3byMUh8ZZ2fQfk9FHSjyLTwb0VwXb9ayEKjGfM2W-L8AaVcKMB8*B7jUWMqLtoIfmPX18ydGgeBiC24D6-7LQiUhpDJE2&new=1)
- > 3D设计软件开发商Autodesk公布了2021财年第三季度的收入，同比增长13％，超过了财务分析师的预期。该公司在2021财年第三季度创造了9.52亿美元的收入，比2020财年第三季度报告的8.427亿美元增长了13％。这一数字...
- ## [一年一度|志在青云 2020年讯石英雄榜重磅来袭](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=kV3dyDFQmMuChxQfL6stCnJWQ8QrS1DJ8ctlvJTH9qDJkeJa7Pes135PR*YgLllIZdzeIijtTtWmBWW-XQiK1QhyyfFdkQHFle30eF22kyVlVOhO44Mx9*L*Cm7hhpCY&new=1)
- > ICC讯 万丈青云志，豪情天地间。第七届讯石英雄榜如期而至，2020年12月1日，第七届讯石英雄榜——《2020年光通信最具竞争力产品》正式启动，诚邀广大光通信企业踊跃报名。择高处立，向宽处行，萃取榜样的力...
- ## [年薪60万起!七险两金，联通公司最新社招需求来了，抓紧时间投递简历](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=ZKr7kDISVEa8APC8BrY4Og8s-QerRGd4qWfdwfsnXZoVqXhqwd4xKVItgH4u4TTwK6cCwpZ6l5oX5D0CHPRKEDqss8XrC2e4irsyzdt5YbtqSLJ-kcdvCr9vbj*jH1mr&new=1)
- > 中国联通是首家集团层面整体推进混合所有制改革的中央企业北京2022年冬奥会和冬残奥会指定官方通信服务合作伙伴3地上市，世界500强全球区块链专利申请量TOP1031家省分公司、国际公司、22家直属单位及子公司海南...
- ## [华为要造车?内部文件是这么说的](http://mp.weixin.qq.com/s?src=11&timestamp=1606365005&ver=2729&signature=5pzGQGF2Ie*hiRgIMPo9Q6SBWAbSZf5AoqLK2kyWxukBGTc2vzOm0smEXGO8-hrxPBi3SMNCtgDwJVPF0gyScxAuGFtxps-C96I4J5ILFVuh*u-o-EyeOdsFphqDMRak&new=1)
- > 权威、深度、实用的财经资讯都在这里11月25日，一份华为的内部文件显示，华为智能汽车解决方案BU（即业务单元）的业务管辖关系，正式从ICT（信息与通信）业务管理委员会调整到消费者业务管理委员会。2019年5月，...
 # IT 技术 
  ## [无服务和微服务架构，谁是业务计算的未来？](http://developer.51cto.com/art/202011/632855.htm)
  > 无服务和微服务架构，谁是业务计算的未来？
@@ -49,48 +61,58 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS Java UI之TableLayout布局示例
  ## [写代码有这16个好习惯，可以减少80%非业务的bug](http://developer.51cto.com/art/202011/632880.htm)
  > 写代码有这16个好习惯，可以减少80%非业务的bug
- ## [MySQL性能基准测试_MySQL数据库性能优化与运维诊断01](http://fellow.51cto.com/art/202008/623589.htm?qd=51ctojrzd)
- > MySQL性能基准测试_MySQL数据库性能优化与运维诊断01
- ## [“百里挑一”：如何加速超网训练的收敛和搜索速度](http://news.51cto.com/art/202011/632935.htm)
- > 随着深度学习的发展，神经网络结构的设计逐渐由手工设计转变为算法自动设计。
- ## [统一通信技术如何支持长期远程工作](http://network.51cto.com/art/202011/632933.htm)
- > 组织实施长期的远程工作需要统一通信。为确保员工的有效沟通，组织需要采用一些沟通工具。
- ## [网络如何为零信任提供支持](http://network.51cto.com/art/202011/632932.htm)
- > 构建零信任架构通常要求对网络资源给予足够的访问权限，这样用户就可以完成他们的工作任务，网络本身也可以
- ## [5G将如何改变你的局域网安全性](http://network.51cto.com/art/202011/632929.htm)
- > 随着5G的到来，我们即将进入下一个复杂阶段。虽然5G的营销对象是那些可能会为手机以新的高速工作而感到兴奋
- ## [Spring Data开发手册｜手把手教你简化持久层开发工作](http://database.51cto.com/art/202011/632930.htm)
- > Spring Data，是为数据访问提供熟悉且一致的基于Spring的编程模型，同时仍然保留底层数据存储的特殊特性。
- ## [技术支持在大数据时代必不可少的五大理由](http://bigdata.51cto.com/art/202011/632927.htm)
- > 在2020年，远程IT支持对于各行业组织实施的大数据战略至关重要。
- ## [MySQL存储过程详解](http://stor.51cto.com/art/202011/632924.htm)
- > 经常有小伙伴问我这个存储过程该如何写?作为过来人我刚开始也有这样的苦恼，今天就给大家说说这个存储过程
- ## [Redis数据库学习提高工作效率](http://database.51cto.com/art/202011/632926.htm)
- > Redis是一个开源的使用ANSI C语言编写、支持网络、可基于内存亦可持久化的日志型、Key-Value数据库，并提供
- ## [在Fedora中结合权能使用Podman](http://os.51cto.com/art/202011/632923.htm)
- > 容器化是一项蓬勃发展的技术。在不久的将来，多达百分之七十五的全球组织可能会运行某种类型的容器化技术。
- ## [SaaS公司如何通过良好的数字营销策略来扩大知名度](http://cloud.51cto.com/art/202011/632920.htm)
- > 在全球蔓延的冠状病毒疫情迫使很多企业允许员工在家远程工作，SaaS产品的订购量因此大幅增长。根据市场研究
- ## [深度解读Spring Boot核心原理](https://live.csdn.net/room/weixin_48013460/VcYnIIfu)
- > 深度解读Spring Boot核心原理
- ## [从0到1搭建交通信号AI识别系统！](https://live.csdn.net/room/qq_18397707/9B1XPhpT)
- > 从0到1搭建交通信号AI识别系统！
- ## [HarmonyOS应用开发 — 设备虚拟化特性开发](https://blog.csdn.net/harmonycommunity/article/details/108796397)
- > HarmonyOS应用开发 — 设备虚拟化特性开发
- ## [使用OpenCV校准鱼眼镜头](https://blog.csdn.net/qq_42722197/article/details/109699437)
- > 使用OpenCV校准鱼眼镜头
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
- > 【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！
- ## [python与seo，百度搜索关键词竞争度大小抓取异步爬虫demo](https://blog.csdn.net/minge89/article/details/109685500)
- > python与seo，百度搜索关键词竞争度大小抓取异步爬虫demo
- ## [如何写出更具有Python风格的代码](https://blog.csdn.net/somenzz/article/details/109685295)
- > 如何写出更具有Python风格的代码
- ## [音视频技术开发周刊 | 170](https://blog.csdn.net/vn9PLgZvnPs1522s82g/article/details/109712523)
- > 音视频技术开发周刊 | 170
- ## [人工智能永远滴神：你准备好崇拜它了吗？](https://blog.csdn.net/duxinshuxiaobian/article/details/109699127)
- > 人工智能永远滴神：你准备好崇拜它了吗？
- ## [TarsCpp 组件之 MySQL 操作](https://blog.csdn.net/TARSFoundation/article/details/109456474)
- > TarsCpp 组件之 MySQL 操作
+ ## [Mysql数据库基础入门教程](http://fellow.51cto.com/art/202007/622441.htm?qd=51ctojrzd)
+ > Mysql数据库基础入门教程
+ ## [物联网将如何改变航空旅行](http://iot.51cto.com/art/202011/632986.htm)
+ > 甚至在新冠肺炎出现之前，物联网就已经准备好以各种方式影响航空旅行，并有可能利用新的物联网技术来提高现
+ ## [分布式SQL大数据查询引擎的发展](http://database.51cto.com/art/202011/632985.htm)
+ > 从高层的角度来看，许多数据和分析解决方案已经以相同的方式构建了许多年。 简而言之，它由各种集成过程组
+ ## [不到1000行代码GitHub千星，天才黑客开源深度学习框架](http://news.51cto.com/art/202011/632984.htm)
+ > 最近，天才黑客 George Hotz 开源了一个小型深度学习框架 tinygrad，兼具 PyTorch 和 micrograd 的功能。ti
+ ## [加密货币及区块链将带来怎样的世界](http://blockchain.51cto.com/art/202011/632979.htm)
+ > 虽然比特币的浪潮时涨时退，但区块链作为一个真正的变革性工具――一种新型的、安全的在线交易方式，其影响
+ ## [推荐几款MySQL相关工具](http://database.51cto.com/art/202011/632978.htm)
+ > 随着互联网技术的不断发展， MySQL 相关生态也越来越完善，越来越多的工具涌现出来。一些公司或个人纷纷开
+ ## [为您的物联网系统选择合适的数据库的4个步骤](http://database.51cto.com/art/202011/632977.htm)
+ > 为物联网解决方案选择正确的数据库平台是一项艰巨的任务。首先，物联网解决方案可以跨地理区域分布。与集中
+ ## [调查：百度地图涉嫌泄露用户敏感数据](http://zhuanlan.51cto.com/art/202011/632975.htm)
+ > 近日，根据派拓网络（Palo Alto Networks）旗下的UNIT42研究小组的最新报告，在Android官方应用商店Google
+ ## [2021年值得关注的5个物联网趋势](http://iot.51cto.com/art/202011/632974.htm)
+ > 随着我们结束2020年并展望2021年及以后，我们不仅看到物联网的增长，而且看到围绕物联网的使用案例和趋势也
+ ## [风口上的区块链是什么？骗局还是机会？](http://blockchain.51cto.com/art/202011/632971.htm)
+ > 区块链技术不是骗局，它有缺点。 骗局水平主要是因为区块链具有集中化和自治的特征，这会削弱监管影响，因
+ ## [都说苹果耐用，那iPhone到底有多耐用？大数据给你答案](http://mobile.51cto.com/news-632970.htm)
+ > 近日，市调机构statista就将各款iPhone的发布时间和支持的系统做了一个统计。从这张图我们可以发现，今年推
+ ## [年薪翻倍的100篇面经：如何转型AI拿到阿里等大厂的40万offer](https://blog.csdn.net/v_JULY_v/article/details/109991373)
+ > 年薪翻倍的100篇面经：如何转型AI拿到阿里等大厂的40万offer
+ ## [学习C基础这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/108279676)
+ > 学习C基础这一篇就够了
+ ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
+ > CSDN专属idea插件上线啦，开发者效率提升神器~~
+ ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
+ > CSDN Chrome插件新版发布，新标签页大更新
+ ## [CSDN Chrome插件来了。助开发者提升开发效率，远离996](https://blog.csdn.net/weixin_44463441/article/details/109071551)
+ > CSDN Chrome插件来了。助开发者提升开发效率，远离996
+ ## [我要偷偷的学Python，然后惊呆所有人（第四天）](https://blog.csdn.net/qq_43762191/article/details/109195441)
+ > 我要偷偷的学Python，然后惊呆所有人（第四天）
+ ## [毕设分享：基于STM32两轮自平衡小车 含源码、原理图及PCB文件](https://blog.csdn.net/qq_37449342/article/details/94571624)
+ > 毕设分享：基于STM32两轮自平衡小车 含源码、原理图及PCB文件
+ ## [白嫖免费域名＋免费服务器](https://blog.csdn.net/Simon_477/article/details/108989298)
+ > 白嫖免费域名＋免费服务器
+ ## [一文搞懂MySQL索引所有知识点（建议收藏）](https://blog.csdn.net/qq_35190492/article/details/109257302)
+ > 
+ ## [连Linux的开机流程都不了解，怎么好意思说自己是程序员？](https://blog.csdn.net/weixin_44895651/article/details/108741079)
+ > 连Linux的开机流程都不了解，怎么好意思说自己是程序员？
+ ## [如何度过程序员的菜鸟阶段？](https://blog.csdn.net/BinSTD/article/details/109173404)
+ > 如何度过程序员的菜鸟阶段？
+ ## [SQL 优化极简法则，还有谁不会？](https://blog.csdn.net/horses/article/details/105695431)
+ > SQL 优化极简法则，还有谁不会？
+ ## [2020十一届蓝桥杯B 第一场 C/C++](https://blog.csdn.net/qq_43530438/article/details/109112861)
+ > 2020十一届蓝桥杯B 第一场 C/C++
+ ## [21届本科大数据菜鸡：我是怎么在互联网寒冬拿到腾讯、华为、京东、美团、快手等大厂offer的？](https://blog.csdn.net/weixin_43124279/article/details/109265194)
+ > 21届本科大数据菜鸡：我是怎么在互联网寒冬拿到腾讯、华为、京东、美团、快手等大厂offer的？
+ ## [女朋友生日，我送她网页相册，她感动的哭了（文中有惊喜）](https://blog.csdn.net/gitchatxiaomi/article/details/108474015)
+ > 女朋友生日，我送她网页相册，她感动的哭了（文中有惊喜）
 # 人工智能 
  ## [超强工具集——GitHub 热点速览 Vol.47](https://blog.csdn.net/a419240016/article/details/109998686)
  > 超强工具集——GitHub 热点速览 Vol.47
@@ -123,17 +145,7 @@ categories: IT NEWS
  ## [Matlab图像特征分析——颜色矩、直方图、灰度差分统计、自相关函数、灰度共生矩阵](https://blog.csdn.net/weixin_44132627/article/details/109817094)
  > Matlab图像特征分析——颜色矩、直方图、灰度差分统计、自相关函数、灰度共生矩阵
 # PM 
- ## [初入职场|入门互联网产品经理](http://www.chanpin100.com/article/113055)
- > 刚入职场的小白没是否有这样的困惑：成为产品只是一个契机，不知道自己是否适合产品经理、励志成为一个好的产品去不知道从哪里开始。其实最直接的答案都是我们自己内心的想法。
- ## [从失败之作到全球超级爆款，今年最大黑马游戏竟然是它！](http://www.chanpin100.com/article/113057)
- > 今年的黑马游戏！
- ## [从国民老牌到国民潮牌，32岁的奥康何以历久弥新？](http://www.chanpin100.com/article/113070)
- > 中国制造业正在掀起一股品牌化浪潮，在电商平台的资源扶持之下，大量产业带品牌涌入市场。
- ## [面试后要不要主动询问结果？](http://www.chanpin100.com/article/113088)
- > 面试后这样做，更容易拿到offer
- ## [我的创业笔记一：往事可追，未来亦可期](http://www.chanpin100.com/article/113092)
- > 我的创业笔记一：往事可追，未来亦可期
- ## [用户行为的预判，几乎都被大厂App垄断了](http://www.chanpin100.com/article/113097)
- > 不愧是大厂设计
+ ## [不想产品出问题，这4大红灯不能闯](http://www.chanpin100.com/article/113101)
+ > 不知道刹车，才会出那么多事故。
 
     
