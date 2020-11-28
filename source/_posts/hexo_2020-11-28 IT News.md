@@ -1,21 +1,21 @@
 ---
 title: 2020-11-28 IT News
 copyright: true
-date: 2020-11-28 08:24:40
+date: 2020-11-28 09:24:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [曝谷歌彻底堵死华为手机，检测到麒麟芯片立即阻止安装应用](http://mp.weixin.qq.com/s?src=11&timestamp=1606521605&ver=2733&signature=UcaM1v3ZS1abv7a6j7FeTZyTTQvIMGrXYkBbRGqKgw8ZrS7E68yN4n45vK922ZUueL*Y6xwHygKt98MaIjDgQlfWSeRrZhEbWTy9s7kZepLSBMH81nvvVGSh3WViQbFi&new=1)
+ ## [曝谷歌彻底堵死华为手机，检测到麒麟芯片立即阻止安装应用](http://mp.weixin.qq.com/s?src=11&timestamp=1606525205&ver=2733&signature=UcaM1v3ZS1abv7a6j7FeTZyTTQvIMGrXYkBbRGqKgw8ZrS7E68yN4n45vK922ZUupQVNE4O*B*GnHYWBygf6tCh2R3hFNFCcszzt4b-jFAWm7KmVJMPj64ULRm3khqKJ&new=1)
  > 我们都知道，M国对华为手机的打压是硬件和软件两方面的。而由于今年5月份开始M国升级了对华为硬件的封锁，不仅不让华为自研麒麟处理器，更是阻止第三方芯片厂商给华为供货，从而让华为变得无芯可用，阻断华为继...
- ## [紫光展锐：网络切片如何发挥5G真正潜能?](http://mp.weixin.qq.com/s?src=11&timestamp=1606521605&ver=2733&signature=rnrCdrM*nmnFjxLyOiRB5uPFsFKa3*GWqPtksKQFJD4kuD7ekoSegYv4TPQC39aFtrBAi0LhoV3Hm-V8-gf7GSr5vFtvVLFlIme6aKJePrhj3zfO9rr1PZY6yA*oLe5A&new=1)
+ ## [紫光展锐：网络切片如何发挥5G真正潜能?](http://mp.weixin.qq.com/s?src=11&timestamp=1606525205&ver=2733&signature=rnrCdrM*nmnFjxLyOiRB5uPFsFKa3*GWqPtksKQFJD4kuD7ekoSegYv4TPQC39aFkQ-u8mp6NPesOiRdA9CH5-wVQ4PoWHEDC-UsCGcsNAF0rxwXC8mhhSqDOKX0-KLZ&new=1)
  > 众所周知，2019年被业内人士称为“5G商用元年”。如今时间已经过去了一年多，5G终端设备出货量也接近了1亿大关，然而许多消费者和行业伙伴心中仍然存有不少疑虑：与已经沿用多年的4G相比，5G究竟能给我们带来哪...
- ## [开发者成功在 M1 Mac 上虚拟 ARM 版 Windows](http://mp.weixin.qq.com/s?src=11&timestamp=1606521605&ver=2733&signature=MPSLKMVIzmJ-vKcyiLpkI*to6lp3EW9jTY13WvTvO69W0WFm7-*HiD3OO7GEGvlkiHnPZ-elHNOhopqccDRDVwnbyWq7Sw*HWBUoJz*kBE5P7AGeSOvnPlwFzGDqzBj4&new=1)
- > 开发者 Alexander Graf 成功在一台 M1 Mac 上虚拟了 ARM 版 Windows 操作系统。这证明 M1 芯片可以运行微软的操作系统。目前，搭载 M1 芯片的 Mac 不支持 Windows 操作系统，而且没有类似于 I
- ## [报道|坪山“硬蛋创新空间孵化器”再获关注，入孵企业敏捷精英荣获专业竞赛冠](http://mp.weixin.qq.com/s?src=11&timestamp=1606521605&ver=2733&signature=BYeXHt6oFSUi*t3TpuXES17yKWkqADc3AsDTXxvXfor72BdhKBfUOnmp*ES1FKzu8ixGb58AbI4X8NyUKjDi*f9rVKTQCwueFP8P-OBfQXg*cdJBeSNA5ukb3vMqxuj3&new=1)
- > 近日，在2020年深圳技能大赛——南山区虚拟现实（VR）设计职业技能竞赛中，硬蛋创新空间孵化器入孵企业深圳市敏捷精英科技有限公司（以下简称“敏捷精英科技”）创始人黄奇伟、王桐团队夺得大赛冠军。本次大赛由...
- ## [绿盟构筑新算力生态，成就科技产业的一次重要跃迁](http://mp.weixin.qq.com/s?src=11&timestamp=1606521605&ver=2733&signature=CGVBleULGhUSQ-VVIiZqYKNYQ4AvRqnfZ6F*SZZOSJWJ8Ht5pLgaPWWjpPuvMX0g7u34n6OPGhe9ZIzznaEoP8Ur5aAU2ab-GH1eokkPXDV5t-ZVjxPgKB5htJqLvNDA&new=1)
+ ## [绿盟构筑新算力生态，成就科技产业的一次重要跃迁](http://mp.weixin.qq.com/s?src=11&timestamp=1606525205&ver=2733&signature=CGVBleULGhUSQ-VVIiZqYKNYQ4AvRqnfZ6F*SZZOSJWJ8Ht5pLgaPWWjpPuvMX0gPzmouluza1sUu0uEEv0ng31L94CcNVV5RaXuO5-2VxFEzmlUCUMPwTXrO6Kh8hSt&new=1)
  > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记当今世界正经历百年未有之大变局，新一代技术革命和产业变革深入发展，其中一个重要的特征就是深度融合。随着信息技术加速与经济社会各领域的深度融合，新型基础设施建设...
+ ## [开发者成功在 M1 Mac 上虚拟 ARM 版 Windows](http://mp.weixin.qq.com/s?src=11&timestamp=1606525205&ver=2733&signature=MPSLKMVIzmJ-vKcyiLpkI*to6lp3EW9jTY13WvTvO69W0WFm7-*HiD3OO7GEGvlklHzT-q0A8PRvvCgAXt*neqrf-H5V3pej*d44v0yxzdwrhpwVCLk7vdmLWuwb6JX9&new=1)
+ > 开发者 Alexander Graf 成功在一台 M1 Mac 上虚拟了 ARM 版 Windows 操作系统。这证明 M1 芯片可以运行微软的操作系统。目前，搭载 M1 芯片的 Mac 不支持 Windows 操作系统，而且没有类似于 I
+ ## [报道|坪山“硬蛋创新空间孵化器”再获关注，入孵企业敏捷精英荣获专业竞赛冠](http://mp.weixin.qq.com/s?src=11&timestamp=1606525205&ver=2733&signature=BYeXHt6oFSUi*t3TpuXES17yKWkqADc3AsDTXxvXfor72BdhKBfUOnmp*ES1FKzuCT7DLyBR1fQs3M*bTfw3XB698Pb98xjePAFky9C2FI49kjoZE*0qDoqvMfKXiCSR&new=1)
+ > 近日，在2020年深圳技能大赛——南山区虚拟现实（VR）设计职业技能竞赛中，硬蛋创新空间孵化器入孵企业深圳市敏捷精英科技有限公司（以下简称“敏捷精英科技”）创始人黄奇伟、王桐团队夺得大赛冠军。本次大赛由...
 # IT 技术 
  ## [如何挖掘物联网设备中的复杂恶意软件](http://iot.51cto.com/art/202011/633040.htm)
  > 如何挖掘物联网设备中的复杂恶意软件
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 如何将SonarQube代码质量分析工具安装到Ubuntu Server 20.04上？
  ## [鸿蒙Hi3861 ADC驱动如何使用开发板上的3个按键](http://os.51cto.com/art/202011/632200.htm)
  > 鸿蒙Hi3861 ADC驱动如何使用开发板上的3个按键
- ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
- > MySQL培训速成教程（八）：MySQL主从复制集群配置
+ ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
+ > Vue 快速开发入门课程
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_JULY_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [微博爬虫，python微博用户主页小姐姐图片内容采集爬虫](https://blog.csdn.net/minge89/article/details/110102826)
