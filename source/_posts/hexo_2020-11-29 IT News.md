@@ -1,19 +1,21 @@
 ---
 title: 2020-11-29 IT News
 copyright: true
-date: 2020-11-29 09:02:32
+date: 2020-11-29 10:00:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国移动张滨：5G安全责任应由利益相关方共同承担](http://mp.weixin.qq.com/s?src=11&timestamp=1606611605&ver=2735&signature=wtMXFDZM1j3-CkJRleP*kZt2ryyZQbFnz1uFwqGuKJd26b2pAMpeITOx8OT9E7ebfrUthWfX3DInjkLDxGwYtysKX9yrdeLTU1sHgMvyhcE4oDpcYEaxAiU5DxWpK2YX&new=1)
- > 今日，以“新基建 新安全”为主题的“2020湾区创见·网络安全大会”在深圳召开。同期举办的“5G安全专场”上，中国移动集团信安中心总经理张滨表示，5G连接主要来自垂直行业已经成为业界共识，IDC数据显示，2024...
- ## [140页PPT厘清工业软件脉络!](http://mp.weixin.qq.com/s?src=11&timestamp=1606611605&ver=2735&signature=SmgCHP2Y-3HsCcXDm9rRIdtc*u2hDbP*-O3mHSkM4UlPTfi9hzCeh7MCWTVHbLGj6ygmLbLSLBGnWoQPviiThUQNYTTSVBCLH2uqPYJ1NGkVu-8H-Yct8vEbZjASoVnh&new=1)
- > 工业软件的核心，不仅是“软件”，更是“工业”。有什么样的工业流程，就有什么样的工业软件；有什么样先进程度的工业流程，就有什么样先进程度的工业软件。文/ 华泰计算机首席分析师 谢春生；公众号跨越鸿沟又...
- ## [互联网业务表现不理想，小米让米粉赚一倍或成空，甚至可能导致由升转跌](http://mp.weixin.qq.com/s?src=11&timestamp=1606611605&ver=2735&signature=vryp8jSvsJeW6NrdwKQoiMpaNJ31fix34FvrKZNJM2xHPM53-JIWBRzQ7eb8hJoc4HrfqAGcuMvHuCIabdl27HH3qHuZeI25DXpyTF2cvxUjOcIewsvL446znq7pmZRt&new=1)
+ ## [互联网业务表现不理想，小米让米粉赚一倍或成空，甚至可能导致由升转跌](http://mp.weixin.qq.com/s?src=11&timestamp=1606613404&ver=2735&signature=vryp8jSvsJeW6NrdwKQoiMpaNJ31fix34FvrKZNJM2xHPM53-JIWBRzQ7eb8hJocR0nlXpuV0t8RfKTVvg3bujmaeyGBc0edwRw423cmKDmAxvwjlUIc5WLc1Luapnlw&new=1)
  > 小米公布了优秀的三季度业绩后，小米股价不升反跌，似乎较上市价升一倍的目标终究成为空想，导致投资者不认可的原因或是因为互联网业务表现不太理想。硬件业务表现优异小米公布的三季度业绩颇为优异，营收同比增...
- ## [5G红利如何放大?华为徐伟忠：5.5G构筑智能世界](http://mp.weixin.qq.com/s?src=11&timestamp=1606611605&ver=2735&signature=1PKmbXpopO4G8KsEiMb2TSQYi36Y8iyO*5ASQ5kjErIbdYRr5Gz6lMXg2K8aC5vyYcDIxk84XZxyXlAL4RjZjfDEwwvW*J4df*lJZLYXSpwThmp3u0jOc36LTEuPJ*2J&new=1)
+ ## [5G红利如何放大?华为徐伟忠：5.5G构筑智能世界](http://mp.weixin.qq.com/s?src=11&timestamp=1606613404&ver=2735&signature=1PKmbXpopO4G8KsEiMb2TSQYi36Y8iyO*5ASQ5kjErIbdYRr5Gz6lMXg2K8aC5vyhYE0oTCdzM6p8wdPdrUr5JaZKXKMrMGmwBHaoFIcinZFONc2BWb3abpmO5VdkwCr&new=1)
  > 当前，5G商用网络大规模展开，5G应用改变人们的生活和工作。2021年即将到来，5G部署中还存在哪些难点问题，未来5-10年如何实现5G持续增强与演进？在11月27日召开的世界5G大会上，华为无线网络产品线首席战略官徐...
+ ## [中国移动张滨：5G安全责任应由利益相关方共同承担](http://mp.weixin.qq.com/s?src=11&timestamp=1606613404&ver=2735&signature=wtMXFDZM1j3-CkJRleP*kZt2ryyZQbFnz1uFwqGuKJd26b2pAMpeITOx8OT9E7ebPFr-u2D2GV2MkQNngccZQzV2THT6wx2BWcv0EV45U0MXbvzhjF8iaXXKjP*qlq4o&new=1)
+ > 今日，以“新基建 新安全”为主题的“2020湾区创见·网络安全大会”在深圳召开。同期举办的“5G安全专场”上，中国移动集团信安中心总经理张滨表示，5G连接主要来自垂直行业已经成为业界共识，IDC数据显示，2024...
+ ## [\[科技早报7点整\]工信部称芯片行业出现盲目投资和烂尾项目 孙宇晨给贾跃亭平反……](http://mp.weixin.qq.com/s?src=11&timestamp=1606613404&ver=2735&signature=v2z*LhS46X2ElCKbvRafP2nPl5hnbg9CXP5n6A5T6AmkYsPV7WTWpuDsPanB84XIvzccmK2u9gCGVjtN4L120kWJOXvwyDW1oSzN-c-O9Zz4GFKtTTNOoGAuOUUSPc*N&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第991期1.App收集使用人脸信息标准：不应生成用户画像近日，电信终端产业协会官网公布了《App收集使用个人信息最小必要评估规范总则》，并于当日开始实施。标准提出，不应基于...
+ ## [140页PPT厘清工业软件脉络!](http://mp.weixin.qq.com/s?src=11&timestamp=1606613404&ver=2735&signature=SmgCHP2Y-3HsCcXDm9rRIdtc*u2hDbP*-O3mHSkM4UlPTfi9hzCeh7MCWTVHbLGjYiz80PAO5zC2LkomHegIrCDB1A6bpmz8c6blSa1kXnPOIXVSKkjM46tPFbU8mhNA&new=1)
+ > 工业软件的核心，不仅是“软件”，更是“工业”。有什么样的工业流程，就有什么样的工业软件；有什么样先进程度的工业流程，就有什么样先进程度的工业软件。文/ 华泰计算机首席分析师 谢春生；公众号跨越鸿沟又...
 # IT 技术 
  ## [如何挖掘物联网设备中的复杂恶意软件](http://iot.51cto.com/art/202011/633040.htm)
  > 如何挖掘物联网设备中的复杂恶意软件
@@ -29,8 +31,8 @@ categories: IT NEWS
  > 如何将SonarQube代码质量分析工具安装到Ubuntu Server 20.04上？
  ## [鸿蒙Hi3861 ADC驱动如何使用开发板上的3个按键](http://os.51cto.com/art/202011/632200.htm)
  > 鸿蒙Hi3861 ADC驱动如何使用开发板上的3个按键
- ## [AD活动目录管理 - 理论与实战](http://fellow.51cto.com/art/202007/622442.htm?qd=51ctojrzd)
- > AD活动目录管理 - 理论与实战
+ ## [MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05](http://fellow.51cto.com/art/202008/623592.htm?qd=51ctojrzd)
+ > MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_JULY_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [自学前端需要达到什么水平才能去找工作？来看看这套前端学习路线图！！](https://blog.csdn.net/itcast_cn/article/details/110194933)
