@@ -1,58 +1,64 @@
 ---
 title: 2020-12-01 IT News
 copyright: true
-date: 2020-12-01 09:22:39
+date: 2020-12-01 10:11:36
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [个个都是硬货!再来30家智能工厂劲爆视频过足瘾!](http://mp.weixin.qq.com/s?src=11&timestamp=1606784404&ver=2739&signature=T0et9vjD9ZBM65HsCXUuI1yaRCmV7sYlujBbFqP9axMpk2PP6YDgF*MyE6OY7U6DWMk105ISAfxXs9EVdSTUx9bMef4sZ-LvYYWxbHPf8ODT*YCWFpZTJMJUsTNkvvYz&new=1)
- > 又一期智能工厂精彩视频大放送！一线企业的前沿实践在此汇集。欢迎收藏分享随时翻阅！文/ 祖哥声明：本文所用配图和视频均来自相应企业官网，仅用作编辑用途！本次盘点包罗万象，既有国际大厂奔驰、大众、博世、...
- ## [投前估值250亿元 苏宁易购旗下云网万店引入深创投等战投](http://mp.weixin.qq.com/s?src=11&timestamp=1606784404&ver=2739&signature=u3oihDFwNTOqVvqNnxo8arHECrc5QyqzO6jdCYr6hNUyIZjyNIg*uSYFkJ*XsgfT7uWpE5hpVi2va7MMqTL3zwXJHrPyvLSd3lWcSlUl5Mc=&new=1)
- > 上证报中国证券网讯（记者 黎灵希）11月30日晚，苏宁易购集团股份有限公司（以下简称“苏宁易购”）宣布，旗下云网万店科技有限公司（以下简称“云网万店”）完成A轮融资，深创投领投，融资金额60亿元人民币...
- ## [中兴高达亮相第十届警博会：发力5G与应急，深耕警用专网](http://mp.weixin.qq.com/s?src=11&timestamp=1606784404&ver=2739&signature=XXiP46*BCTDEE0v80tj6xaq96p2GMmENZRzspwqZ5CmZssCoUIuMUysr42Y9EFywcV16UVgBxLPb0vYn3TPIy9-sqEqtJoyq11asyplj2ppR48fM1aPOHjgNCNYHVo3e&new=1)
- > 2020年11月23日-26日，由公安部主办的第十届中国国际警用装备博览会，在首都北京盛大开幕。虽然由于疫情原因，展会从盛夏改期到初冬，但无法阻挡厂商和观众的热情，在安全办展的前提下，展会规模和参展人数创下...
- ## [激动人心!中国电信运营的卫星又上天了!](http://mp.weixin.qq.com/s?src=11&timestamp=1606784404&ver=2739&signature=qyEuYjlaUbBT3jI-ckjCDw6LZkvPpDw*rLhqqQMCKcxMr0Xcw1-GhsN74wu0VXyOsLb6-Tin10k41mO*uObngLIJOjaURDA3thZ04qPE6Hi4TnXnuTMzSgUGPiQjm*Ko&new=1)
+ ## [5G|爱立信官宣商用5G协议已达117个](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=nDEBwpSTuvI*rDDucHetp0SLYdOSSNlAM3pNN9zOX1adG1awu7tXMOaLtwxHxjT3rgEOm*JeeIUTMQBWLC0*w9E2hffMsc5a-NzU6r1RLQhSPR1gJiPCDkB-ctRXOZZT&new=1)
+ > 新闻导读截至2020年11月30日，爱立信的商用5G协议已达117个，公开宣布的5G合同已达67个，参与建设的实时5G网络达到70个。ICC讯（编译：Nina）来自爱立信官网的数据，截至2020年11月30日，爱立信的商用5G协议(Com...
+ ## [激动人心!中国电信运营的卫星又上天了!](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=qyEuYjlaUbBT3jI-ckjCDw6LZkvPpDw*rLhqqQMCKcxMr0Xcw1-GhsN74wu0VXyOPvKJRMKUyduqF2-Vwd2zgeilpWT2nVDpt4DsoYywAgkJ6fu1fR01WV8qZhEVVEPx&new=1)
  > 5  4  3  2  1！  点火！一声巨响一条火龙腾空而起 划破寂静的夜空这是2020年11月12日23时59分在西昌卫星发射中心天通一号02星 发射现场激动人心的一幕全程回顾成功发射天通一号02星天通一号02星是天通一号系列...
- ## [腾讯《古剑奇谭》开发商 持股20%为第二大股东](http://mp.weixin.qq.com/s?src=11&timestamp=1606784404&ver=2739&signature=BMtmOO-DIB8bV2JCq*on4WLIDd*R1JthwUpD0r9OpZPQaPPIY3*nwVhW60w3taKhwnVr4io2yRfvOn-kpZInYbe3KxD16tpv86QEriIPm7ghp8ZD*x9BQvudQQdksnVq&new=1)
+ ## [\[报告\]2020中国汽车后市场白皮书(附52页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=x5TulfDYDcted9*6tlRP3DnP-1kRQ8ic9UOUaszYMtBjI7nGMZvzJcEH6c1uHTgVJAtF7v7*eEtHf5EywhjK71hiK6OG6kEodq1EdX7doF61j1DuIXhT1G3yXNFRa7f8&new=1)
+ > 中国汽车存量市场即将成为全球最大单一市场，其高规模、高增长也在吸引着越来越多企业和资本的关注。由德勤汽车行业团队发布的数启未来，后市场产业变革-2020中国汽车后市场白皮书通过对政策、资本、消费者、商...
+ ## [7点见|字节跳动否认进军社区团购；莫德纳称新冠疫苗最高有效率达100%](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=fsvPT2Vb0CeRb1C*qK2Hc6tooYFvU8-bgBzmQ3T6IZV1Q5g5F6HI7NkP3CH8n3ui-XXpN4guM2JrtsfnaSOg0bIH-3XaeVTikyu0LLOFrY4jCrRSma5M-F9PNsv6kLnN&new=1)
+ > 各位小伙伴早上好呀！时隔近三年比特币创历史新高比特币突破2017年12月的高点19666美元/枚，再创纪录新高，较年内低点涨逾15800美元。以下是今天的早报！字节跳动否认进军社区团购：“今日买菜”等消息不实36氪...
+ ## [个个都是硬货!再来30家智能工厂劲爆视频过足瘾!](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=T0et9vjD9ZBM65HsCXUuI1yaRCmV7sYlujBbFqP9axMpk2PP6YDgF*MyE6OY7U6DiqP58krJA42VlmuCg5sQRwXMrpWvDJIASE0FudWM09r9gAbIIVUGogHm5wXnedVF&new=1)
+ > 又一期智能工厂精彩视频大放送！一线企业的前沿实践在此汇集。欢迎收藏分享随时翻阅！文/ 祖哥声明：本文所用配图和视频均来自相应企业官网，仅用作编辑用途！本次盘点包罗万象，既有国际大厂奔驰、大众、博世、...
+ ## [投前估值250亿元 苏宁易购旗下云网万店引入深创投等战投](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=u3oihDFwNTOqVvqNnxo8arHECrc5QyqzO6jdCYr6hNWrVy6uD99UoA6h7wFQT7UAlZj88jAI3do7qa-O4VqEqQ3bMaJEC11T4boyIaSu0jE=&new=1)
+ > 上证报中国证券网讯（记者 黎灵希）11月30日晚，苏宁易购集团股份有限公司（以下简称“苏宁易购”）宣布，旗下云网万店科技有限公司（以下简称“云网万店”）完成A轮融资，深创投领投，融资金额60亿元人民币...
+ ## [中兴高达亮相第十届警博会：发力5G与应急，深耕警用专网](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=XXiP46*BCTDEE0v80tj6xaq96p2GMmENZRzspwqZ5CmZssCoUIuMUysr42Y9EFywEl4iKKlQOY9ZYWGn2Iw6YsSHOhANi0cRMc7lgiX9SXK7UsMC7IofSClCMGxWcCYn&new=1)
+ > 2020年11月23日-26日，由公安部主办的第十届中国国际警用装备博览会，在首都北京盛大开幕。虽然由于疫情原因，展会从盛夏改期到初冬，但无法阻挡厂商和观众的热情，在安全办展的前提下，展会规模和参展人数创下...
+ ## [腾讯《古剑奇谭》开发商 持股20%为第二大股东](http://mp.weixin.qq.com/s?src=11&timestamp=1606788005&ver=2739&signature=BMtmOO-DIB8bV2JCq*on4WLIDd*R1JthwUpD0r9OpZPQaPPIY3*nwVhW60w3taKhidIVnyuLYqUFW1E4Mu1ZJjnJRpyysfSqgvszEiovdPPKrY7WMrg8UsY6HSgBS0Y4&new=1)
  > 据天眼查显示，北京网元圣唐娱乐科技有限公司股东发生变动，股东新增林芝腾讯科技有限公司，持股比例为20%，目前是第二大股东。林芝腾讯科技有限公司成立于2015年，经营范围包括：计算机软硬件技术开发、销售；...
 # IT 技术 
+ ## [为什么不建议程序员买M1芯片MacBook?](http://server.51cto.com/sOS-633321.htm)
+ > 为什么不建议程序员买M1芯片MacBook?
  ## [降低数据中心功耗的4种方法](http://server.51cto.com/Datacenter-633260.htm)
  > 降低数据中心功耗的4种方法
- ## [监测Linux上失败的登录尝试](http://os.51cto.com/art/202012/633259.htm)
- > 监测Linux上失败的登录尝试
+ ## [从本质上学会基于HarmonyOS开发Hi3861（主要讲授方法）](http://os.51cto.com/art/202011/633234.htm)
+ > 从本质上学会基于HarmonyOS开发Hi3861（主要讲授方法）
+ ## [探讨 | 基于Kubernetes的微服务监控体系](http://netsecurity.51cto.com/art/202012/633296.htm)
+ > 探讨 | 基于Kubernetes的微服务监控体系
+ ## [如何监测Linux上失败的登录尝试](http://os.51cto.com/art/202012/633259.htm)
+ > 如何监测Linux上失败的登录尝试
  ## [值得推荐的七种好用的Angular组件库](http://developer.51cto.com/art/202011/633100.htm)
  > 值得推荐的七种好用的Angular组件库
  ## [CTO怒了：如果中台不省钱，我建啥中台啊](http://developer.51cto.com/art/202011/633159.htm)
  > CTO怒了：如果中台不省钱，我建啥中台啊
- ## [什么是边缘人工智能和边缘计算？](http://ai.51cto.com/art/202011/633099.htm)
- > 什么是边缘人工智能和边缘计算？
- ## [实现遗留IT系统现代化的10个建议](http://news.51cto.com/art/202011/633193.htm)
- > 实现遗留IT系统现代化的10个建议
- ## [图解ElasticSearch原理，你可收好了!](http://server.51cto.com/sOS-633158.htm)
- > 图解ElasticSearch原理，你可收好了!
- ## [MySQL培训速成教程（五）：Linux安装MySQL 8.0](http://fellow.51cto.com/art/202007/622199.htm?qd=51ctojrzd)
- > MySQL培训速成教程（五）：Linux安装MySQL 8.0
- ## [Spring Boot Admin快速打造监控平台](http://os.51cto.com/art/202012/633299.htm)
- > 使用过Spring boot的开发者都知道actuator，它是Springboot提供的用来对应用系统进行自省和监控的功能模块
- ## [败家玩意儿！Redis 竟然浪费了这么多内存！](http://database.51cto.com/art/202012/633297.htm)
- > 作为内存数据库，内存空间大小对于 Redis 来说是至关重要的。内存越多，意味着存储的数据也会越多。但是不
- ## [聚焦物联网2020报告](http://iot.51cto.com/art/202012/633295.htm)
- > 沃达丰对1639家公司进行了调研，发现物联网对这些企业产生了积极的影响，物联网市场日趋成熟。通过调查，了
- ## [大厂如何使用Java8日期时间?](http://developer.51cto.com/art/202012/633294.htm)
- > 我们生活在最好的时代，基本主流类库都支持新日期时间类型，但还有项目因还是用祖传日期时间类，出现很多古
- ## [2020年十大最引人入胜的数据可视化](http://bigdata.51cto.com/art/202012/633293.htm)
- > 我想浪费时间，与您分享我今年看到的十个最有趣的数据可视化以及它们如此吸引人的原因。通过阅读本文，您还
- ## [重学设计模式之装饰者模式](http://developer.51cto.com/art/202012/633292.htm)
- > 今天面试被刷了，为啥呀？有什么问题没有回答好吗？
- ## [一篇文章带你了解Java选择排序和垃圾回收机制](http://developer.51cto.com/art/202012/633291.htm)
- > 本文主要介绍了java垃圾回收机制、Arrays类、选择排序法。java的垃圾回收机制简要的说明对象在内存中状态分
- ## [框架篇：Linux网络I/O+Reactor模型](http://os.51cto.com/art/202012/633290.htm)
- > 网络I/O，可以理解为网络上的数据流。通常我们会基于socket与远端建立一条TCP或者UDP通道，然后进行读写。
- ## [Lemonj：类 CSS 的自动化重构工具](http://developer.51cto.com/art/202012/633289.htm)
- > 开发人员对于 CSS 及其 CSS 预处理器的使用是一个很有意思的问题 ―― 过去，我一直在吐槽这些想写好 CSS
- ## [教你一次性成功安装K8S集群（基于一主两从模式）](http://cloud.51cto.com/art/202012/633288.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
+ ## [MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05](http://fellow.51cto.com/art/202008/623592.htm?qd=51ctojrzd)
+ > MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05
+ ## [2021年及以后值得关注的5大物联网趋势](http://iot.51cto.com/art/202012/633320.htm)
+ > CRN研究了五种物联网趋势，这些趋势将有助于定义未来几年的技术前景，从用于远程操作的互联资产到为消费者
+ ## [开辟ARM服务器架构新方向，微网云“小节点大集群”技术路线任重道远](http://server.51cto.com/News-633318.htm)
+ > 中国绿色计算产业的蓬勃发展离不开产业链上下游的共同努力，既需要像华为、浪潮、联想这样的龙头企业来主导
+ ## [跟阿斌一起学鸿蒙(1). Hello Harmony](http://os.51cto.com/art/202012/633238.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [响应国家大数据战略，点链大数据中心即将正式开启](http://network.51cto.com/art/202012/633314.htm)
+ > 在新基建的浪潮中点链的机遇不仅仅来源于政策的支持，更重要的是时代的发展带来数据的爆发性增长，IDC(Inte
+ ## [2020年AI状况调查：25%的公司因采用AI收入显著增长](http://news.51cto.com/art/202012/633316.htm)
+ > 近期，麦肯锡发布了有关AI状况的全球调查报告，这是该报告连续第三年发布。
+ ## [2020年网络安全产业规模预计超1700亿元](http://netsecurity.51cto.com/art/202012/633311.htm)
+ > 11月30日，由工业和信息化部、北京市人民政府共同主办的2020年中国网络安全产业高峰论坛在北京举行。记者在
+ ## [一文详解区块链的存储体系](http://blockchain.51cto.com/art/202012/633309.htm)
+ > 而类似Hyperledger等通用区块链框架则一般包含类似State Store等存储最终结果数据的模块。索引存储则在当前
+ ## [整天喊5G，你真的了解5G市场吗？现在究竟是什么状况？](http://network.51cto.com/art/202012/633310.htm)
+ > 2020年是中国通信行业发展的一个里程碑。作为“十三五”收官之年，中国通信行业在过去五年的发展令人瞩目，
+ ## [Linux 运维需要掌握的 17 个实用技巧](http://news.51cto.com/art/202012/633312.htm)
+ > 本文给大家介绍在Linux日常运维中需要掌握的 17 个非常实用的技巧。
+ ## [终于有人把进程间通信讲明白了](http://developer.51cto.com/art/202012/633307.htm)
+ > 使用多进程协作来实现应用和系统是一种被广泛使用的开发方法。进程间通信是多进程协作的基础。
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_JULY_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [微博爬虫，python微博用户主页小姐姐图片内容采集爬虫](https://blog.csdn.net/minge89/article/details/110102826)
@@ -63,10 +69,10 @@ categories: IT NEWS
  > CSDN Chrome插件新版发布，新标签页大更新
  ## [我毕业5年了，因为工资低，待遇差，想转行从事IT工作，晚吗？](https://blog.csdn.net/yiduedu2008/article/details/109800869)
  > 我毕业5年了，因为工资低，待遇差，想转行从事IT工作，晚吗？
- ## [小伙子不讲武德，竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://blog.csdn.net/zhuxiao5/article/details/109792824)
- > 小伙子不讲武德，竟用Python爬取了B站上1.4w条马老师视频数据来分析
  ## [叮～博客新星，你有一份新秀大礼包待查收](https://blog.csdn.net/blogdevteam/article/details/110420774)
  > 叮～博客新星，你有一份新秀大礼包待查收
+ ## [小伙子不讲武德，竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://blog.csdn.net/zhuxiao5/article/details/109792824)
+ > 小伙子不讲武德，竟用Python爬取了B站上1.4w条马老师视频数据来分析
  ## [这段代码不讲武德，劝你耗子尾汁](https://blog.csdn.net/weixin_42876465/article/details/109975377)
  > 这段代码不讲武德，劝你耗子尾汁
  ## [哈工大等提出轻量级盲超分辨模型LESRCNN，代码已开源](https://blog.csdn.net/moxibingdao/article/details/110212429)
@@ -84,36 +90,36 @@ categories: IT NEWS
  ## [自学前端需要达到什么水平才能去找工作？来看看这套前端学习路线图！！](https://blog.csdn.net/itcast_cn/article/details/110194933)
  > 自学前端需要达到什么水平才能去找工作？来看看这套前端学习路线图！！
 # 人工智能 
- ## [ES6中的模块化编程](https://blog.csdn.net/weixin_43883917/article/details/110352384)
- > ES6中的模块化编程
- ## [详细记录丨公众号如何通过迁移开通留言功能？](https://blog.csdn.net/Fighting_Boom/article/details/110288588)
- > 详细记录丨公众号如何通过迁移开通留言功能？
- ## [HCIE-Routing & Switching 2020.11.28 的面试题](https://blog.csdn.net/HYD696/article/details/110264586)
- > HCIE-Routing &amp; Switching 2020.11.28 的面试题
- ## [数据预处理技术与对应python代码实现](https://blog.csdn.net/weixin_43327597/article/details/110350803)
- > 数据预处理技术与对应python代码实现
- ## [图神经网络七日打卡营最后比赛的一些技巧](https://blog.csdn.net/txpp520/article/details/110311313)
- > 图神经网络七日打卡营最后比赛的一些技巧
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [漫画 | 前端发展史的江湖恩怨情仇～](https://blog.csdn.net/weixin_43254766/article/details/110378482)
+ > 漫画 | 前端发展史的江湖恩怨情仇～
+ ## [从阿里出来，只带走了最重要的一份并发编程笔记，原理篇+模式篇+应用篇+实战篇](https://blog.csdn.net/weixin_49348902/article/details/110387873)
+ > 从阿里出来，只带走了最重要的一份并发编程笔记，原理篇+模式篇+应用篇+实战篇
+ ## [强化学习——马尔科夫决策过程 MDP](https://blog.csdn.net/baishuiniyaonulia/article/details/110097296)
+ > 强化学习——马尔科夫决策过程 MDP
+ ## [KMP —— 字符串分析算法](https://blog.csdn.net/TriDiamond6/article/details/110357790)
+ > KMP —— 字符串分析算法
  ## [算法学习的一些个人心得](https://blog.csdn.net/qq_25953411/article/details/110306578)
  > 算法学习的一些个人心得
- ## [你可能不知道的小知识-bug为什么叫bug](https://blog.csdn.net/weixin_45277161/article/details/110262388)
- > 你可能不知道的小知识-bug为什么叫bug
- ## [简直了！微服务架构手抄本：注册中心+调用+网关+配置，阿里巴巴仅开源7天！！！](https://blog.csdn.net/Ppikaqiu/article/details/110275612)
- > 简直了！微服务架构手抄本：注册中心+调用+网关+配置，阿里巴巴仅开源7天！！！
- ## [小赵带你读论文系列14-阿里妈妈之Deep Interest Network for Click-Through Rate Prediction](https://blog.csdn.net/weixin_40539952/article/details/110347039)
- > 小赵带你读论文系列14-阿里妈妈之Deep Interest Network for Click-Through Rate Prediction
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [模拟退火算法求解K图染色问题（java版）](https://blog.csdn.net/shiaiao/article/details/110279250)
- > 模拟退火算法求解K图染色问题（java版）
- ## [AI：国内外人工智能产业应用图谱应用层/基础层详解](https://blog.csdn.net/qq_41185868/article/details/110307379)
- > AI：国内外人工智能产业应用图谱应用层/基础层详解
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [c抽签系统](https://blog.csdn.net/qq_44990523/article/details/110394389)
+ > c抽签系统
+ ## [人工智能中国专利技术分析报告发布，百度三年蝉联榜首](https://blog.csdn.net/csdnnews/article/details/110385886)
+ > 人工智能中国专利技术分析报告发布，百度三年蝉联榜首
  ## [【矩阵路径】不知道回溯怎么写？进来看模板就对了！](https://blog.csdn.net/cckluv/article/details/110356481)
  > 【矩阵路径】不知道回溯怎么写？进来看模板就对了！
- ## [45天闭门刷题，精通这份Java高级架构面试文档，入职阿里涨薪20K](https://blog.csdn.net/qq_46388795/article/details/110281533)
- > 45天闭门刷题，精通这份Java高级架构面试文档，入职阿里涨薪20K
+ ## [协议确认机制TACK的通俗解析](https://blog.csdn.net/sbmye/article/details/110175789)
+ > 协议确认机制TACK的通俗解析
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [一文深入springboot，最全springboot实战实践文档（PDF）免费分享](https://blog.csdn.net/yunduo1/article/details/110387712)
+ > 一文深入springboot，最全springboot实战实践文档（PDF）免费分享
+ ## [第三次学习记录(Python)](https://blog.csdn.net/AKITOMOKO/article/details/110303181)
+ > 第三次学习记录(Python)
+ ## [ES6中的模块化编程](https://blog.csdn.net/weixin_43883917/article/details/110352384)
+ > ES6中的模块化编程
+ ## [python教程——目录！](https://blog.csdn.net/m0_52650621/article/details/110390152)
+ > python教程——目录！
 # PM 
  ## [用户广场变为话题广场，即刻什么打算？](http://www.chanpin100.com/article/113116)
  > 细节最能体验社交产品经理的功底
