@@ -1,36 +1,40 @@
 ---
 title: 2020-12-01 IT News
 copyright: true
-date: 2020-12-01 11:07:24
+date: 2020-12-01 12:55:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [无处不在的网络钓鱼：疫情之下的“黑色星期五”与往年有何不同?](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=54OhmNCuZX02YxNHJWGlskfaXHsbPeOocnt2nSiAyIoXQD1zY24vwi-dt5NdSN3XED83KXIDNeKA3fDDfutq0AlO6KDd9tmKOMn5RUqE5T11SzjrLchmn1mhruBVEj7c&new=1)
+ ## [中国联通举办2020年科技创新大会](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=10NTQqauBJhgiBu4PP6fU0RaPegR9oun7U4m2dkaQjzVFBgI8WOLbicLGIf-Ty1HkfPC7Y*DlADxdKrqwN8NNjukHlnT8mHpo4x76mlL0oB0r5TLYfCf5-thggR8caTv&new=1)
+ > 11月30日，中国联通2020年科技创新大会在北京举行。中国联通党组书记、董事长王晓初出席会议并致辞，集团公司党组成员、行业专家、合作高校和生态合作伙伴代表等200余人在现场参加会议。此次大会，是中国联通党...
+ ## [无处不在的网络钓鱼：疫情之下的“黑色星期五”与往年有何不同?](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=54OhmNCuZX02YxNHJWGlskfaXHsbPeOocnt2nSiAyIoXQD1zY24vwi-dt5NdSN3X-ZNORaQCHCjLrTyJ1Wi-oWq6TqAu5ZcEcdBM21STVzyv-Voyk9PCpZ63o7cmkCKi&new=1)
  > E安全12月1日 据外媒报道，11月27日是黑色星期五——一年一度的购物节，在这一天，全球零售商会为圣诞节期间的商品提供各种优惠和折扣。和其他热门活动一样，黑客通常会在节日购物期间拼命工作，针对大量涌向网...
- ## [智能制造推动产业迈向中高端](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=cLVDCRCzZ30DnfGQpNJmQ5WaEwZpOLgjsnluSWzIQXV8udIRVl5zXdFhzwZM4b9r9qPqQc0QMLG1tmg47g0OPmRBaFwPJHw7-jowxhk9pes=&new=1)
- > 潘朝选　　当今，在贵阳这片热土上，大数据与制造业深度融合的实例不断涌现。贵州中铝铝业有限公司推动工厂数字化转型，应用工业互联网、大数据、云计算和AI视觉识别技术，实现了从销售订单、物资采购、物流...
- ## [新一轮政策组合拳力挺网络安全产业](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=u3oihDFwNTOqVvqNnxo8arHECrc5QyqzO6jdCYr6hNU4w6gRO0gStGX2ILLVSOrRH54wSpovRyVGcQjXkJ1*9u6D0KErbPTpeVAJiyBdTcs=&new=1)
- > 制定高质量发展意见 多路融资支持再加力　　记者从11月30日召开的2020年中国网络安全产业高峰论坛上获悉，我国网络安全产业呈高速增长态势，2020年产业规模预计将超过1700亿元。下一步我国将着力谋划“十四...
- ## [详细科普：这5种高速烧结3D打印新技术，剑指塑料件批量化生产，垂涎注塑市场](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=oGypts9hDW3chotCFmzBc3*b9aZltFNQbMJ8397D6VqAM33BC39HXnkWI-2HBesnIkwZ0Jnzo*-Up-rv*LFwVR87T0wrDtTpnGrdn9F7mLn538fqpPHtOAg1NBPWC*hf&new=1)
+ ## [详细科普：这5种高速烧结3D打印新技术，剑指塑料件批量化生产，垂涎注塑市场](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=oGypts9hDW3chotCFmzBc3*b9aZltFNQbMJ8397D6VqAM33BC39HXnkWI-2HBesnaoQPlXetad7fF5DpR8ENHb4Lbto4ydH82ICWYQJW2rywPpCXLImhD2W1krri3ct3&new=1)
  > 南极熊导读：聚合物塑料类的制造，例如注塑，市场量级达万亿美元，是个庞大的蛋糕。如果3D打印技术可以切下其中一部分，那也是前景广阔。南极熊观察到，传统的SLS激光烧结技术，从单个激光，到2个或4个激光，3D...
- ## [5G|爱立信官宣商用5G协议已达117个](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=nDEBwpSTuvI*rDDucHetp0SLYdOSSNlAM3pNN9zOX1YAMyK5TN2u3rX1GZg8L7ZD9V8omBK8mDOhbUA*G724Z1-38KQC*yUFM6B5njfaXs1DDPbt1L3J8ZOVg9lQIEID&new=1)
+ ## [智能制造推动产业迈向中高端](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=cLVDCRCzZ30DnfGQpNJmQ5WaEwZpOLgjsnluSWzIQXWViI-7doHjThyDdjKH4t9uEYL6-QYP1x8w*dn5dghKJ42ewkcqltAX-Rg1c3Z1nB8=&new=1)
+ > 潘朝选　　当今，在贵阳这片热土上，大数据与制造业深度融合的实例不断涌现。贵州中铝铝业有限公司推动工厂数字化转型，应用工业互联网、大数据、云计算和AI视觉识别技术，实现了从销售订单、物资采购、物流...
+ ## [新一轮政策组合拳力挺网络安全产业](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=u3oihDFwNTOqVvqNnxo8arHECrc5QyqzO6jdCYr6hNUDmPEysocNhZT6xVb4FW45pgH60-HI6YsbYHZznpGsP18FBguTADnEmDTSC9Y0yFM=&new=1)
+ > 制定高质量发展意见 多路融资支持再加力　　记者从11月30日召开的2020年中国网络安全产业高峰论坛上获悉，我国网络安全产业呈高速增长态势，2020年产业规模预计将超过1700亿元。下一步我国将着力谋划“十四...
+ ## [5G|爱立信官宣商用5G协议已达117个](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=nDEBwpSTuvI*rDDucHetp0SLYdOSSNlAM3pNN9zOX1YAMyK5TN2u3rX1GZg8L7ZD4NOwm*71FH7g6sYBHgBUoogsIB4y*7jeqEwnN9d*XPBGcboPnZ2fy5SunKmR1FOb&new=1)
  > 新闻导读截至2020年11月30日，爱立信的商用5G协议已达117个，公开宣布的5G合同已达67个，参与建设的实时5G网络达到70个。ICC讯（编译：Nina）来自爱立信官网的数据，截至2020年11月30日，爱立信的商用5G协议(Com...
- ## [激动人心!中国电信运营的卫星又上天了!](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=qyEuYjlaUbBT3jI-ckjCDw6LZkvPpDw*rLhqqQMCKcyxL1bWBrsL4imFjW7i6K3zEDAf4vRT9zCIOVtYn*9zROFj003CeqfVvRpnN5GAuXdV3VaiDjUlpPSfnPApUqZ7&new=1)
+ ## [激动人心!中国电信运营的卫星又上天了!](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=qyEuYjlaUbBT3jI-ckjCDw6LZkvPpDw*rLhqqQMCKcyxL1bWBrsL4imFjW7i6K3zIyzi1rdYMg*0R1zkG5o-wNckRsQ-nFUWQst2LAlY4FPYux44ewOrSsgSGwa3ose2&new=1)
  > 5  4  3  2  1！  点火！一声巨响一条火龙腾空而起 划破寂静的夜空这是2020年11月12日23时59分在西昌卫星发射中心天通一号02星 发射现场激动人心的一幕全程回顾成功发射天通一号02星天通一号02星是天通一号系列...
- ## [\[报告\]2020中国汽车后市场白皮书(附52页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=x5TulfDYDcted9*6tlRP3DnP-1kRQ8ic9UOUaszYMtDRxM3sjpVl7CF0bPK2*vwSz7ENYzMOSiVjNn3h58tF05EF2WVeIEz7lbLxOK3Ht9VXvx5POD1ZkQX0nu2DGbzy&new=1)
+ ## [\[报告\]2020中国汽车后市场白皮书(附52页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=x5TulfDYDcted9*6tlRP3DnP-1kRQ8ic9UOUaszYMtDRxM3sjpVl7CF0bPK2*vwSz54WCbSKzU2JIrkEO1GT9YMHcqfzwEXL2O5W*GSP04gfbbg0PiyFZDQ6yRXcJ9Qx&new=1)
  > 中国汽车存量市场即将成为全球最大单一市场，其高规模、高增长也在吸引着越来越多企业和资本的关注。由德勤汽车行业团队发布的数启未来，后市场产业变革-2020中国汽车后市场白皮书通过对政策、资本、消费者、商...
- ## [7点见|字节跳动否认进军社区团购；莫德纳称新冠疫苗最高有效率达100%](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=fsvPT2Vb0CeRb1C*qK2Hc6tooYFvU8-bgBzmQ3T6IZXouTY1Or34Hg35bPfLukVmEML-7kTtRFcin8Ov4dw*1J4UnsXYcBSTHPpqLN7OATs1zryLku7PkPEaSI1NmT03&new=1)
+ ## [7点见|字节跳动否认进军社区团购；莫德纳称新冠疫苗最高有效率达100%](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=fsvPT2Vb0CeRb1C*qK2Hc6tooYFvU8-bgBzmQ3T6IZXouTY1Or34Hg35bPfLukVmCKzmmKo-aQ72z6zkMIjP4LPyD*yTsG5drH-hpd8z6thkrs*ta18x7SHrc6cwFt8z&new=1)
  > 各位小伙伴早上好呀！时隔近三年比特币创历史新高比特币突破2017年12月的高点19666美元/枚，再创纪录新高，较年内低点涨逾15800美元。以下是今天的早报！字节跳动否认进军社区团购：“今日买菜”等消息不实36氪...
- ## [个个都是硬货!再来30家智能工厂劲爆视频过足瘾!](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=T0et9vjD9ZBM65HsCXUuI1yaRCmV7sYlujBbFqP9axP*tsTPfCINWWQSGFBLYFw9d6CEsBrI-TVu966cB3brxynPUyYrZcNs*J3sCiiBzyFLFabnb**EWRJiRIjvkF5k&new=1)
+ ## [个个都是硬货!再来30家智能工厂劲爆视频过足瘾!](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=T0et9vjD9ZBM65HsCXUuI1yaRCmV7sYlujBbFqP9axP*tsTPfCINWWQSGFBLYFw9otIQR*5g904d3CdKNyEtwP9cDN8CMM20YjjLqQvPuYW6OyjxBXk4psFPY*YU2Sd6&new=1)
  > 又一期智能工厂精彩视频大放送！一线企业的前沿实践在此汇集。欢迎收藏分享随时翻阅！文/ 祖哥声明：本文所用配图和视频均来自相应企业官网，仅用作编辑用途！本次盘点包罗万象，既有国际大厂奔驰、大众、博世、...
- ## [投前估值250亿元 苏宁易购旗下云网万店引入深创投等战投](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=u3oihDFwNTOqVvqNnxo8arHECrc5QyqzO6jdCYr6hNUr47JAQupejdvb4wGwgI3A0bqsYG3R0m0mXsRIOj2fhwf40A6c9XitFjc3fEQ3ddU=&new=1)
+ ## [投前估值250亿元 苏宁易购旗下云网万店引入深创投等战投](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=u3oihDFwNTOqVvqNnxo8arHECrc5QyqzO6jdCYr6hNWOPH8O1o3W8IRThKpziOEC2teSZ7aocwtJBhPxz6sl8ckdRdCGqLOlI4ebniRhe04=&new=1)
  > 上证报中国证券网讯（记者 黎灵希）11月30日晚，苏宁易购集团股份有限公司（以下简称“苏宁易购”）宣布，旗下云网万店科技有限公司（以下简称“云网万店”）完成A轮融资，深创投领投，融资金额60亿元人民币...
- ## [中兴高达亮相第十届警博会：发力5G与应急，深耕警用专网](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=XXiP46*BCTDEE0v80tj6xaq96p2GMmENZRzspwqZ5Cmu94N1SwqYaRNQDVAoI843XZw78XY412jeyC*Xxwlc2vOYbfbR1pTzIHJUoEHPFhURyJki6rOGBEFwyTwS6dVK&new=1)
+ ## [中兴高达亮相第十届警博会：发力5G与应急，深耕警用专网](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=XXiP46*BCTDEE0v80tj6xaq96p2GMmENZRzspwqZ5Cmu94N1SwqYaRNQDVAoI843LKfxCJUNZInZtw5fWk9NtNqPZPNK-F-MaJyOzMnNikvPrLkY4InfG7pxEj1BJq1n&new=1)
  > 2020年11月23日-26日，由公安部主办的第十届中国国际警用装备博览会，在首都北京盛大开幕。虽然由于疫情原因，展会从盛夏改期到初冬，但无法阻挡厂商和观众的热情，在安全办展的前提下，展会规模和参展人数创下...
- ## [腾讯《古剑奇谭》开发商 持股20%为第二大股东](http://mp.weixin.qq.com/s?src=11&timestamp=1606791605&ver=2739&signature=BMtmOO-DIB8bV2JCq*on4WLIDd*R1JthwUpD0r9OpZMGXM8mfT3FIB89SblDV3Kx6mv3HzK0-9jT-rhlt10Fq0jUq7wH5zMYIRTTj3*MoTWzxKI7hmeiyKV2YpKR*50K&new=1)
+ ## [腾讯《古剑奇谭》开发商 持股20%为第二大股东](http://mp.weixin.qq.com/s?src=11&timestamp=1606797004&ver=2739&signature=BMtmOO-DIB8bV2JCq*on4WLIDd*R1JthwUpD0r9OpZMGXM8mfT3FIB89SblDV3KxAnheOytjkrcGoQjLbMYnVRl2LRDNJ6IEs9kOmHWAldt*5iUJ3XPRN5lQfC6mRCZ9&new=1)
  > 据天眼查显示，北京网元圣唐娱乐科技有限公司股东发生变动，股东新增林芝腾讯科技有限公司，持股比例为20%，目前是第二大股东。林芝腾讯科技有限公司成立于2015年，经营范围包括：计算机软硬件技术开发、销售；...
 # IT 技术 
+ ## [求你了，不要再在对外接口中使用枚举类型了！](http://zhuanlan.51cto.com/art/202012/633350.htm)
+ > 求你了，不要再在对外接口中使用枚举类型了！
  ## [为什么不建议程序员买M1芯片MacBook?](http://server.51cto.com/sOS-633321.htm)
  > 为什么不建议程序员买M1芯片MacBook?
  ## [降低数据中心功耗的4种方法](http://server.51cto.com/Datacenter-633260.htm)
@@ -43,10 +47,12 @@ categories: IT NEWS
  > 如何监测Linux上失败的登录尝试
  ## [这些程序员离开北上广深杭，他们后悔了吗？](http://news.51cto.com/art/202012/633322.htm)
  > 这些程序员离开北上广深杭，他们后悔了吗？
- ## [值得推荐的七种好用的Angular组件库](http://developer.51cto.com/art/202011/633100.htm)
- > 值得推荐的七种好用的Angular组件库
- ## [Power Query操作入门及应用视频课程](http://fellow.51cto.com/art/202007/622208.htm?qd=51ctojrzd)
- > Power Query操作入门及应用视频课程
+ ## [图解Python（4）（高级进阶篇）](http://fellow.51cto.com/art/202008/622834.htm?qd=51ctojrzd)
+ > 图解Python（4）（高级进阶篇）
+ ## [高德实践：Serverless规模化落地有哪些价值？](http://zhuanlan.51cto.com/art/202012/633349.htm)
+ > 曾经看上去很美、一直被观望的 Serverless，现已逐渐进入落地的阶段。今年的&quot;十一出行节&quot;，高德在核心业务
+ ## [使用开源智能的5个好处](http://bigdata.51cto.com/art/202012/633345.htm)
+ > 开源智能是指可以公开获取的信息和数据，可用于保护企业和员工的隐私信息、确定任务的优先级，以及解决安全
  ## [AWS偏爱Rust，已将Rust编译器团队负责人收入囊中](http://news.51cto.com/art/202012/633344.htm)
  > 近日，AWS 透露，该公司已经聘用了 Rust 编译器团队负责人之一 Felix Klock。该消息出自 AWS 开源团队于上
  ## [数据中心安全规范：重要的电缆防火指南](http://network.51cto.com/art/202012/633342.htm)
@@ -63,10 +69,6 @@ categories: IT NEWS
  > 在2020年，工作安全变得比以往任何时候都更加重要，越来越多的组织正在寻求新的解决方案和做事方式，以帮助
  ## [机器学习和AI如何影响餐饮业](http://ai.51cto.com/art/202012/633335.htm)
  > 最近，COVID-19大流行以及它如何与食品企业的制造或破产联系在一起，成为人们关注的焦点。在讨论食品工业时
- ## [微软宣布正式 以后开发的产品都不支持IE浏览器了](http://os.51cto.com/art/202012/633334.htm)
- > 作为操作系统的巨头，微软团队说， Web应用程序不再支持Internet Explorer 11。微软说还在使用IE 11的客户
- ## [一日一技：不小心修改了Git主分支的代码怎么办？](http://os.51cto.com/art/202012/633332.htm)
- > 主分支 master 或者 main 中的修改，只能通过 merge 合并代码引入。绝对不应该手动在主分支里面修改代码。
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_JULY_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [微博爬虫，python微博用户主页小姐姐图片内容采集爬虫](https://blog.csdn.net/minge89/article/details/110102826)
