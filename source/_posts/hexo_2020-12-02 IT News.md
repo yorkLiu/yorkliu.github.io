@@ -1,35 +1,51 @@
 ---
 title: 2020-12-02 IT News
 copyright: true
-date: 2020-12-02 13:11:40
+date: 2020-12-02 17:53:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [277亿美元!云计算巨头Salesforce同意收购Slack](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=rETnee8C1QUyWZILfv-c*vue1HqjZr167qy0n1s*fKL9tNxYL4XWfVgtXE21bcmxwBdgBdW0I3HQsgMkje51PjRv1JyVTDmfJx-c5LAn2qE1*WyKT1X*5h-tqs0IrSQh&new=1)
- > 关键讯息，D1时间送达！美国云计算巨头Salesforce周二证实，该公司同意斥资277亿美元(现金加股票)收购职场聊天软件公司Slack，从而进一步涉足企业社交领域。根据周二的交易公告，Slake股东将获得26.79美元的现金...
- ## [贵阳大数据及网络安全 精英对抗演练在经开区启动](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=wVj2gD76SwcC2nrBAkkTwyjpAKqE8bVBcmTi6CGZfwGPxibkmK77HTQqEXLKdtwZPnx7FvnCJmj1I*qrIr-lXpC-nxaUHiNE32QCAMIfJtY=&new=1)
- > 本报讯 12月1日，2020贵阳大数据及网络安全精英对抗演练在经开区贵阳大数据安全产业示范区启动。　　此次演练以“筑牢安全防线·护航数字城市”为主题，参演队伍将重点围绕新基建及智慧城市等安全防护体系展...
- ## [B 站年度弹幕冠军：「爷青回」；高通发布旗舰芯片 888；马斯克：2026 送人类上火星|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=3KTWCHr98iwFTk7m*uENguUMP1PA-TByC2uUKmKYk9FAbunoH4gOfgHwFUuJArlMEJxi3OLKJ8theWHv6KUguO9zH5GZviAKXBX7*UIiSEZTqqK6Di566D7EWt7mhQF2&new=1)
- > 高通发布骁龙 888 芯片12 月 2 日消息，在高通骁龙技术峰会首日，高通技术公司高级副总裁兼移动、计算及基础设施业务总经理阿力克斯·卡图赞（Alex Katouzian）宣布推出最新一代的旗舰级平台骁龙 888 5G 移动平...
- ## [5万个零件不开模，直接3D打印!批量化应用逐渐开启](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=4Gdy9Wql7y5ZUSi5-kvkHHugeSHGIvTY3U8mNGBx2ahND73Rf5djNMKvih97OYr4dXLsxr0YQd-fwOxYSE8rBZOBCItP3ynX2xQtLXRbbo9NGa2hFQmQ-bYYonlwVCg1&new=1)
+ ## [江门何时能建成5G宽带城市?规划曝光!](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=bbrqeUJAJo8mYeo1Rvueazd5oEoT66kVhh5Cx9gaj-SlXZBxVSL8y8sK4mWteo*Zn6ii95LV8xBYP5rebYtzi-665*Q7rNMz2b1jr7PGjGoayxPzea38TeoY7YzApRAe&new=1)
+ > 5G宽带城市，你期待吗？2012年，4G开始普及很多人以为也就是网速变快一些没想到4G改变了我们的生活方式：二维码“干掉”了现金小视频火了电脑除了工作渐渐成了“摆设”外卖打车平台兴起……而现在，5G宽带城市要...
+ ## [棱镜|277亿美元!Salesforce收购“美国版钉钉”叫板微软](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=s7s4kkQc2CYsJQC1e-gMk1S9eLh7wGopEWliKy89qBJqQXkUJyQBEyRM2zt6toZWnokNUppneFx*LyDJNByasyhHigsGT5TKv00oTvqgghXbrn1zcy8iAI4IcKAk*cKB&new=1)
+ > 来源：腾讯新闻棱镜   作者：王凡 上市18个月之后，“美国版钉钉”Slack和企业软件服务头部公司Salesforce达成并购协议，估值277亿美元（约合1820亿元人民币）。2020年12月1日，Slack向美国证监会递交的文件显示...
+ ## [东软刘积仁：引领商业创新，软件进入生态时代](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=WJvsfU-BVvZfzgTC0smkqcBO21fIiLOxGfdUNQMdMjVVJER68TfiwGMUtTuwJtltpOBVb8Bj9aPhriAJRV2pyvs0B5FkDuM3sL0kfQV43udXn8OjDycZuzVq8Vd7wCAn&new=1)
+ > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记软件，是科技行业的长青树。从科技行业形成的第一天起，软件就不可或缺。它没有像互联网、云计算、大数据、AI等概念一样，在某一时期特别热门，在某一时期又会冷却。尽管...
+ ## [高通发布旗舰平台骁龙888，回应与华为及荣耀合作!](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=twQ9iZFDbfdWSlb70VqlMAqLvnhKKbncVCZcP6gCvCzEYBnBwuTNefZRwVl7c7GkDtLv1l4xZv3R50n9DHTGZlFEQGbz4vzuUcA9aq46MjIAWKFRTmJ0ezJnwdeD8*u*&new=1)
+ > 12月1日晚间，在2020年骁龙技术峰会上，高通正式发布了新一代旗舰级移动平台，在命名上并没有按惯例命名为骁龙875，而是采用了全新的“骁龙888”的命名！2022年全球5G智能手机出货量将超过7.5亿部高通总裁安蒙(C...
+ ## [对话制造业先行者，聊聊微软 Dynamics365助力 TCL 海外营销那些事儿](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=DYiNW7HQQd3IUU6HFp9SiO8ph4z5E*VqKeIRskiRLmmuqDSY-zU7kRxeqSGjXNqxr8OHa*-oQhIFOYsEKffLyGISuzPqJxNwEUemobud0LpiEDns*8fl5-9PwV3YQ8GE&new=1)
+ > （本文阅读时间：3分钟）在全球疫情新常态下，经济市场的低迷为制造业的发展带来了新的挑战。尤其是对跨国企业来说，不仅要面对减产损失还有应对断供风险，此时全球范围内的业务布局优化就不可避免地成为了保持...
+ ## [从“代工大王”到智能制造领军者，工业富联李军旗这么说](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=9Z36vHYVbIdrL5QgBXvImJzWoXIM3RVJ3WcIIYbwdRd*Rn5A7odOVkhjkt6M6ZV3pMptrr4J3o12zI7gCrYngSCXNRRm5hDDQ3rW4feTPJle7s4L6Yw0MveXFV9Yb28G&new=1)
+ > 李军旗在先进制造领域坚持了三十年，是一名敬业的“智能制造和工业互联网”布道者。文丨《中国企业家》记者 米娜编辑丨李薇头图摄影丨邓攀2007年，当乔布斯手持第一代iPhone亮相，试图向人们解释什么是未来时，...
+ ## [告别渣画质，视频会议带宽降90%，英伟达公开Maxine服务背后重要技术](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=i0s9HZjfcBj79eE-BoU1Dt4yjiJoS1Ks1EZ2sC*3kVxK3rrBteSS7kBv5vvJPy9GhW-IGYxNpm2ZrFzSAnszuddnhG*aoSaGh6yV6oZ5WYGwYEpG3nZ-lgxFTceHdYh9&new=1)
+ > 机器之心报道作者：魔王、蛋酱10 月初，英伟达推出了一项 AI 视频会议服务 Maxine，使用了 AI 来提升分辨率、降低背景噪声、压缩视频、对齐人脸以及执行实时翻译和转录。最近，英伟达团队发布的新论文揭露了这背...
+ ## [华为这台「技术暴力输出机」，亮出「云原生2.0」，研发效率飙升10倍!](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=R35pIQEkN9Na4CYTdyyglmq20E4LqxK7ENgQx-aHX69tbA6tfC52r-oQaxQHQlYzR5f7fpbiDzS4HOWbvnZLuPvCRdtOFBMSQuGzZuBolMmMyllqnoIcQWSCQilBdBq5&new=1)
+ > 金磊 发自 凹非寺 量子位 报道 | 公众号 QbitAI云原生 （CloudNative），这个概念最近着实有点火，而且火得一塌糊涂。简单来说，它就是一种构建和运行「应用程序」的方法。从名字上来看，很明显分为2部分：Cloud...
+ ## [苹果或将使用充液镜片改善视觉体验](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=YE-6DWaeMEp8pNzamI5cFt1pwOgKFb7Xe9oCTCB2JWgHQi*nU7P1QPUDbRNQbqlZPPyElLtoIWy4Z5bSPCW2EshhsGYs4NUudybvDFIUH-AaYh5ztENq34sc4MANkRwE&new=1)
+ > 据Apple Insider报道称，苹果或使用充液镜片方案，改善视力不佳用户的 AR / VR 体验。对于习惯了戴框架眼镜的用户来说，头戴式装置的体验可能并不友好。而通过自动调节放置在用户眼前的镜头，传说中的苹果智能眼...
+ ## [5万个零件不开模，直接3D打印!批量化应用逐渐开启](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=myILHRE8ennmS4PHnz3MYo6RrKymMwNvFdSMg4xlZuJxHApQodYsg8g5CnxcXE1B-7LjvpURgFEcNt5w-xXrqM9wxRPzOoNwqLtG3oXnO37wSbKc0ryhibEBf-M0*pG5&new=1)
  > 2020年11月29日上午，2020年长沙网络安全·智能制造大会在湖南长沙隆重召开，在“中国（长沙）增材制造产业发展与技术应用分论坛”上，邀请了增材制造行业的院士、专家、航空航天、装备、材料、检测等龙头企业的...
- ## [年度盘点：2020年都发生了哪些大型黑客攻击事件](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=8aw*-K*Qx0ntPEjPxeiNHbjw170HOpfxPtD7lHjaYSziSBWu0*gAzDMabS24HhqTsmZTscKqyglKMQhwPn6-aaTQOOYAaGFVQqCSwy-TdCUEkpQjymBmC4KI0gSdje9v&new=1)
+ ## [B 站年度弹幕冠军：「爷青回」；高通发布旗舰芯片 888；马斯克：2026 送人类上火星|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=gLBA*Or0b2O7Wp*D4YcyieB7s8udimrMEtBW8ZrwDiCQoghHjr0xSmCYYz2kpyEeHpBnEeJmt2MIiplK9YyrDtqQkFSQhyAIEfiu3zvPYLp8Jx6wf3*okGI66ka3lpxa&new=1)
+ > 高通发布骁龙 888 芯片12 月 2 日消息，在高通骁龙技术峰会首日，高通技术公司高级副总裁兼移动、计算及基础设施业务总经理阿力克斯·卡图赞（Alex Katouzian）宣布推出最新一代的旗舰级平台骁龙 888 5G 移动平...
+ ## [年度盘点：2020年都发生了哪些大型黑客攻击事件](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=*qyCac9p9IF84BcuzmkhpFhcZ4zfHbNBclqRUWu8y7VhIOn2wgPiBFa4c1HOUrp4p5Wymhkf*bn8KwQ00nbbIzCtppGN1qRp9F67737ndmY0SsAJcTbwV1Vx3cpWEYJW&new=1)
  > E安全12月2日 今年，网络安全可能已远远超出我们的预期范围，然而，由于疫情大流行和灾难性的经济中断，网络攻击者今年肯定没有给任何人一个喘息的机会。数据泄露、网络渗透、大量数据盗窃和销售、身份盗窃和勒...
- ## [\[报告\]德勤2020软件定义汽车白皮书(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=cbBzXoiqVb1dLMLlQtXzDJabGC8XR7B8uCHFPJaGOsPL9n*Hqf64KfU71i1SJHYjdbLAxm4ctxaNQf91-yMSVGjgTDkDV*iKkrfnSWv1SRao2ctU9wnuZmPf2ZCYuKSl&new=1)
+ ## [277亿美元!云计算巨头Salesforce同意收购Slack](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=bcm0G2RdyeDQ7HYWvrKiqAuyPsovbu2KADj2l7w97FDqhLJNcMzueECyLBYczF-rRhQDJyvFv2GvCPIAOioXg*uQJUvCPpacQtfNjttEgXpKtavkSe1k3LQm5J*DiYTT&new=1)
+ > 关键讯息，D1时间送达！美国云计算巨头Salesforce周二证实，该公司同意斥资277亿美元(现金加股票)收购职场聊天软件公司Slack，从而进一步涉足企业社交领域。根据周二的交易公告，Slake股东将获得26.79美元的现金...
+ ## [贵阳大数据及网络安全 精英对抗演练在经开区启动](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=Ew58DV5ixEl7e*4xuVcg-2kb25SbOO7xg0WAi*K0csIvWtMBcb8moWIWMG2SHvlUK0jtEF3vIoUQmVZU3GLdp1-5K-BRf0st*nV3djdLwc4=&new=1)
+ > 本报讯 12月1日，2020贵阳大数据及网络安全精英对抗演练在经开区贵阳大数据安全产业示范区启动。　　此次演练以“筑牢安全防线·护航数字城市”为主题，参演队伍将重点围绕新基建及智慧城市等安全防护体系展...
+ ## [\[报告\]德勤2020软件定义汽车白皮书(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=S3GxAaHy-XPTY75et9BqbBvqg6BxM8GmWEJANlhVH4ZwrUVNLDbratoxFZBVCsDykeHQYaOTgwlKaWJQShisN3jMsuu4AnmDJXM2AyP*avqcy090olXLQWvioRkUu2ug&new=1)
  > 在过去的几年中，智能手机和计算机，其标准化硬件在现有技术水平下正逐渐接近物理极限，这推动了其行业逐步从由硬件升级发展主导产品创新，转向由软件开发和迭代去推动硬件设计的更新和升级，伴随硬件标准化的推...
- ## [7点见|嫦娥五号探测器成功在月面软着陆；蔚来11月交付创历史纪录](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=DDQJ*OfTLjg8zEERqNNRqJJHWculHlJA7f*D4qosFp9VdXN2QS-AHcPy6d3GBWIxBG-pV9pnBDQoC6efSVNIZzU6F*Ztk2h2BimeC2t3ZOZZ92HDQZ4KuSvbYXggJY95&new=1)
+ ## [7点见|嫦娥五号探测器成功在月面软着陆；蔚来11月交付创历史纪录](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=s7s4kkQc2CYsJQC1e-gMk1S9eLh7wGopEWliKy89qBIlNUIb2MiSxfcVRCxWMC1AGb-PwXhe0wwSO0LVa-WFgZmX4pgJdtVHvu8Oa*g6qNq6ich-C*EVDhHXb-ZQ2dEG&new=1)
  > 各位小伙伴早上好呀！以下是今天的早报！嫦娥五号探测器成功在月面软着陆嫦娥五号在月面上的情形（艺术图）据国家航天局获悉消息，北京时间2020年12月1日23点13分左右，嫦娥五号探测器成功着陆在月球正面预选着...
- ## [现在下载一款软件，可能比 10 年前难多了](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=qvHR8IJjayMQBPlbH6VNNJCtmJ63NSpppVE79ZAo2n8kE3facoNMCnPQ1792WOIbr0cTZc0MTE-VovQ9EobFixVgWfGUhnYRC4dj42bogTWNZhV87PTn1NeflN2ZtK*Z&new=1)
+ ## [现在下载一款软件，可能比 10 年前难多了](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=Dm2zG2k-w*XEo1zVbjvumcgOIGLmg6SNPVEUIwqN1KOIzhXJvFIdc46bEdN4PWBCg9ppZ*uHuLkTNKyBjmDxqFMvXfWvI6eEFoWxtUd5c1Hfdz53B-iEF9rG*hLTcjt5&new=1)
  > 下载软件变成了「斗智斗勇」的过程。作者 | 王贺龙来源 | APPSO（ID：appsolution）在当代互联网上冲浪，你需要很多技巧，其中之一就是知道该如何下载软件。「不会吧不会吧？不会真的有人不会下载软件吧？」当看...
- ## [骁龙888移动平台，重新定义顶级移动体验](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=Rft-A7D500s9anbAxcDGfQ76GppPlrNizBDaP4dLXm7iiYX95pRJFXd1mvvYXhAMdofEWFhJr6EzRSEzHGx1ysR1iUMGeZ8PT-opdSGMNvceoV*-U3*OL0QpwhyOc-A8&new=1)
+ ## [骁龙888移动平台，重新定义顶级移动体验](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=X4kCx8Px6jtMboh1aqVUQgz-zdhS40g1o6B-Onzipi6poPtmkgTU1VNa6bu1DRLWkdjYDUt6NcbXZs8Oj-j5cKK*wV2vD1nRDW7zlXCWQ7d74082uCZuSbKmGB-cE2XS&new=1)
  > Qualcomm要闻—全新骁龙888移动平台赋能下一代旗舰终端12月1日，2020高通骁龙技术峰会首日，Qualcomm总裁安蒙（Cristiano Amon）携手全球行业领袖，在线分享了高通骁龙8系移动平台在引领下一代终端体验中发挥的...
- ## [添油加醋!“立委”王婉谕指责华为产品安全性，岛内网友批：毫无作为，却管起外行事情](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=h62njWhn9KXmDnvwktF2SURgFPGTM72wgVBroGsnM0XJISYvGGoe-FRzwNMBXk5TYkrFcQbhKv2JWBgicXLEK643cUvAK8j1-dxgnqwHIKE=&new=1)
+ ## [添油加醋!“立委”王婉谕指责华为产品安全性，岛内网友批：毫无作为，却管起外行事情](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=eig3qL6jqzbSxa7IAXAuXkyFZ-P8B-7J9Kd7u*Im-Zy7MlXFD0EYITIAsPkuiawVemjowafA7Ve0WNZk3XayzM226s22yd1SzWQsMDrtK90=&new=1)
  > 【环球网综合报道记者 尹艳辉 乌元春】民进党当局去年以所谓“信息安全”为由，宣布在公务上禁止使用华为产品后，综合台湾“NOW新闻”等台媒报道，“时代力量”籍“立委”王婉谕今天（12月1日）“爆料”说，信箱...
- ## [网信办就App必要个人信息范围公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=kld8Tx86IpwDCTLgQvwiJJpO-iqPCXdsrq*KZcAv1xMX-xbl8j4B0soaX5mqMf79zpAIy4nKCNEaTDbz6n8kmgI2MLIX58W5P3C*WMmbPUE=&new=1)
+ ## [网信办就App必要个人信息范围公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1606901405&ver=2742&signature=vX*EDpqCk2Uwdq1z06x4EqcHbjcchiuyC3RbPtCY1LTofFOquGqkMjG2ZG9he0gmF8QF9wOHz*xytYPKbQ-QuXFuC8PijtFtG6Nq98pG9Ag=&new=1)
  > 上证报中国证券网讯 据中国网信网12月1日消息，近年来，移动互联网应用程序（App）得到广泛应用，在促进经济社会发展、服务民生等方面发挥了重要作用。同时，App超范围收集、强制收集用户个人信息普遍存在，...
- ## [黑科技来袭!奥迪建了一座未来汽车工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=khJMIDYpOl5jjw*UdV2yK8m5V147Hvj*xgTOz-p7LCMEAlJLva6skg258DJHfz6qeZgWHbGS3wC0m4TacVGXHhpMsqNm8IDisZm*9bqK*QsTFnwXyofMVaQ0Xh86cnMd&new=1)
- > 奥迪黑科技~车友们，晚上好~说到奥迪，德系车企的典型代表，他们推出的各种车型都超级酷炫！但是，他们欲求不满，一心想成为一家科技公司。这一次，奥迪又来搞事情了，为我们描绘出一座未来汽车工厂——奥迪智能...
 # IT 技术 
  ## [老板：你写的接口有问题！赶紧起床瞧瞧](http://developer.51cto.com/art/202012/633468.htm)
  > 老板：你写的接口有问题！赶紧起床瞧瞧
@@ -45,58 +61,28 @@ categories: IT NEWS
  > 2021年值得关注的八大机器人流程自动化趋势
  ## [2020年成为DevOps工程师的必读教程](http://os.51cto.com/art/202012/633459.htm)
  > 2020年成为DevOps工程师的必读教程
- ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
- > Vue 快速开发入门课程
- ## [行走自由的扫地机器人，可能正在偷偷监听你](http://ai.51cto.com/art/202012/633509.htm)
- > 拖着疲惫的身体回到家，辛苦工作了一天的打工人，终于开始了“翻身农奴把歌唱”的生活。先唤醒年会抽的智能
- ## [比特币创近3年新高，再迎终极提问：比特币是钱吗？](http://blockchain.51cto.com/art/202012/633505.htm)
- > 12月1日截至14：00，比特币价格报19455.31美元，24小时涨幅为5.05%。而此前13：00，比特币价格曾遭遇短线下
- ## [Golang GinWeb框架5-XML/JSON/YAML/ProtoBuf等渲染](http://developer.51cto.com/art/202012/633501.htm)
- > 本文接着上文(Golang GinWeb框架5-绑定请求字符串/URI/请求头/复选框/表单类型)继续探索GinWeb框架
- ## [微软发布Windows10 20H1/20H2更新：修复大量问题](http://os.51cto.com/art/202012/633497.htm)
- > 这是今年Windows 10最后的更新了，因为微软之前已经预告，公司不少工程师要休假，所以更新也会停止（一些重
- ## [Windows 10系统将可以使用Android应用了](http://netsecurity.51cto.com/art/202012/633495.htm)
- > 与Windows Linux子系统类似，微软正在创建Windows 安卓子系统，未来将允许Windows 10系统上运行安卓应用了
- ## [任正非：再见，荣耀！从此以后便是对手！](http://zhuanlan.51cto.com/art/202012/633496.htm)
- > 2020年11月17日，华为发声明回应出售荣耀：在产业技术要素不可持续获得、消费者业务受到巨大压力的艰难时刻
- ## [灾难恢复计划模板：企业的8个关键步骤](http://netsecurity.51cto.com/art/202012/633491.htm)
- > 论是由于疫情、自然灾害还是网络安全事件导致的网络中断，企业都需要确保能够在危机期间继续运营业务。帮助
- ## [要了解区块链一定要清楚区块链技术的几点技术原理](http://blockchain.51cto.com/art/202012/633490.htm)
- > 其实，区块链并不是一个新型的技术，更多的应该是传统技术上的一个融合，再通过一定的规则和机制去实现了区
- ## [macOS的15个安全技巧（一）](http://netsecurity.51cto.com/art/202012/633489.htm)
- > 自2004年以来，我每天都在使用macOS，自从OSX Panther(2003年10月发布)以来，我使用过该操作系统的每一个版
- ## [未来一年商业智能的发展前景如何?](http://ai.51cto.com/art/202012/633488.htm)
- > 随着智能技术的使用日新月异，人们需要了解商业智能的最新发展趋势。以下是有关商业智能未来发展的概述，其
- ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_JULY_v/article/details/108292943)
- > 机器学习面试150题：不只是考SVM xgboost 特征工程
- ## [有人在代码里下毒！慎用 pip install 命令](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/109912432)
- > 有人在代码里下毒！慎用 pip install 命令
- ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
- > CSDN专属idea插件上线啦，开发者效率提升神器~~
- ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
- > CSDN Chrome插件新版发布，新标签页大更新
- ## [大学在校生，想毕业转行学java，去培训机构学java有用吗](https://blog.csdn.net/yiduedu2008/article/details/110371988)
- > 大学在校生，想毕业转行学java，去培训机构学java有用吗
- ## [自学前端需要达到什么水平才能去找工作？来看看这套前端学习路线图！！](https://blog.csdn.net/itcast_cn/article/details/110194933)
- > 自学前端需要达到什么水平才能去找工作？来看看这套前端学习路线图！！
- ## [小伙子不讲武德，竟用Python爬取了B站上1.4w条马老师视频数据来分析](https://blog.csdn.net/zhuxiao5/article/details/109792824)
- > 小伙子不讲武德，竟用Python爬取了B站上1.4w条马老师视频数据来分析
- ## [【讲座回顾】不会被AI取代的人](https://blog.csdn.net/csdnstudent/article/details/110240254)
- > 【讲座回顾】不会被AI取代的人
- ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
- > 移动端UI一致性解决方案
- ## [今年30了，做了5年的软件测试，只会功能测试的怎么办？【乐搏TestPro】](https://blog.csdn.net/leboxy/article/details/109748940)
- > 今年30了，做了5年的软件测试，只会功能测试的怎么办？【乐搏TestPro】
- ## [Vue 3 也有生老病死](https://blog.csdn.net/qq_36772866/article/details/110245719)
- > Vue 3 也有生老病死
- ## [微博爬虫，python微博用户主页小姐姐图片内容采集爬虫](https://blog.csdn.net/minge89/article/details/110102826)
- > 微博爬虫，python微博用户主页小姐姐图片内容采集爬虫
- ## [这段代码不讲武德，劝你耗子尾汁](https://blog.csdn.net/weixin_42876465/article/details/109975377)
- > 这段代码不讲武德，劝你耗子尾汁
- ## [用Python实现定时自动化收取蚂蚁森林能量，再也不用担心忘记收取了](https://blog.csdn.net/ityard/article/details/109733747)
- > 用Python实现定时自动化收取蚂蚁森林能量，再也不用担心忘记收取了
- ## [在中国，程序员这行能干一辈子吗？](https://blog.csdn.net/QbitAI/article/details/109974685)
- > 在中国，程序员这行能干一辈子吗？
+ ## [面向对象C零基础入门精讲视频教程（10）正则表达式及应用](http://fellow.51cto.com/art/202007/622207.htm?qd=51ctojrzd)
+ > 面向对象C零基础入门精讲视频教程（10）正则表达式及应用
+ ## [反差巨大！比特币大涨40%，美元却深陷“低迷”，世界到底怎么了](http://blockchain.51cto.com/art/202012/633556.htm)
+ > 在刚刚过去的11月，市场情绪出现了巨大的转变，避险资产全线受挫，而全球风险资产在11月则迎来了狂欢。这一
+ ## [市场人士：比特币价格上行中存剧震风险](http://blockchain.51cto.com/art/202012/633555.htm)
+ > 比特币价格日前激烈震荡，11月30日涨至三年来高点。市场人士认为，风险资产需求增加、机构入场、产量减半等
+ ## [Windows不得不安装的12个冷门小工具](http://os.51cto.com/art/202012/633554.htm)
+ > 隔行如隔山，工作这么多年，有这么12款小软件，不管你现在从事什么行业，或许都会派上用场。小软件大用处是
+ ## [比特币创新高了！但却让无数人爆仓巨亏！这东西该怎么投资？](http://blockchain.51cto.com/art/202012/633552.htm)
+ > 今年其实是投资的大年，几乎买什么都能赚钱，并不是老子英明神武，而是老天爷赏饭吃，就在大家都觉得疫情是
+ ## [外媒：明年的Windows 10将以新方式获得功能更新和改进](http://os.51cto.com/art/202012/633551.htm)
+ > 据外媒 WindowsLatest 12月1日报道，在 Windows 10 版本 2004 或更高版本中，微软添加了一个名为 “ Window
+ ## [5G套餐用户破两亿，如何深挖5G价值？](http://network.51cto.com/art/202012/633550.htm)
+ > 近日，国内三大运营商均发布了10月份的运营数据。数据显示，10月，中国移动5G用户数净增1520.1万户，累计达
+ ## [亲测好用，4款电脑大神推荐Windows实用软件助你效率翻倍](http://os.51cto.com/art/202012/633547.htm)
+ > 微软的Windows系统演变至今已经是Windows10了，我们每天几乎都会接触到的Windows其实有着很多非常实用的软
+ ## [互联网时代，金融业大数据的应用](http://bigdata.51cto.com/art/202012/633546.htm)
+ > 科学技术的快速发展，社会已经步入了大数据时代，大数据技术为人们的社会生活带来了极大的便利，尤其是在金
+ ## [人工智能时代，你靠什么生存呢？](http://ai.51cto.com/art/202012/633545.htm)
+ > 以前我们说，诸葛亮未出茅庐，已知三分天下。用来强调诸葛亮，有多么厉害！但是，现在好像人人都可以做到未
+ ## [AI再出力，可通过胸部X光片检测新冠](http://ai.51cto.com/art/202012/633544.htm)
+ > 上周，美国西北大学研究人员宣布，他们成功开发出一款新型人工智能（AI）放射学工具，能够通过胸部X光片检
 # 人工智能 
  ## [人工智能中国专利技术分析报告发布，百度三年蝉联榜首](https://blog.csdn.net/csdnnews/article/details/110385886)
  > 人工智能中国专利技术分析报告发布，百度三年蝉联榜首
@@ -128,12 +114,5 @@ categories: IT NEWS
  > Github上标星30K+的SpringBoot实战电商项目，简直不要太牛！
  ## [智慧高速建设的探索与思考【附PPT】](https://blog.csdn.net/zhuangdianliu4818/article/details/110392372)
  > 智慧高速建设的探索与思考【附PPT】
-# PM 
- ## [产品分析、功能分析|哔哩哔哩直播：与Z世代一同开启大航海征程](http://www.chanpin100.com/article/113114)
- > 哔哩哔哩直播业务分析；哔哩哔哩与虎牙直播间页面竞品分析
- ## [苹果新规：12月8日起App必须提供隐私收集信息！](http://www.chanpin100.com/article/113121)
- > 要求从2020年12月8日开始正式实行
- ## [数仓基础知识的概括！（最全资料）](http://www.chanpin100.com/article/113132)
- > 数据仓库是什么？和数据库有什么区别？
 
     
