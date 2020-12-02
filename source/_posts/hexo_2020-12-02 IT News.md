@@ -1,28 +1,34 @@
 ---
 title: 2020-12-02 IT News
 copyright: true
-date: 2020-12-02 11:20:56
+date: 2020-12-02 13:11:40
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [年度盘点：2020年都发生了哪些大型黑客攻击事件](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=8aw*-K*Qx0ntPEjPxeiNHbjw170HOpfxPtD7lHjaYSxGovj7TTeRrXfrBwqOMkTvgy6XWHSBZinuDeoq0voihAmtaIMtRw4NPsDvQnvQEGQNazucFAi-0NolFSJ9GVyG&new=1)
- > E安全12月2日 今年，网络安全可能已远远超出我们的预期范围，然而，由于疫情大流行和灾难性的经济中断，网络攻击者今年肯定没有给任何人一个喘息的机会。数据泄露、网络渗透、大量数据盗窃和销售、身份盗窃和勒...
- ## [贵阳大数据及网络安全 精英对抗演练在经开区启动](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=wVj2gD76SwcC2nrBAkkTwyjpAKqE8bVBcmTi6CGZfwEmjLrGX764cFkaHPkt1ZvenUewz0dnalh6kC000VKA3q4SxOoXwp7Q1HPJvfr5EUs=&new=1)
+ ## [277亿美元!云计算巨头Salesforce同意收购Slack](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=rETnee8C1QUyWZILfv-c*vue1HqjZr167qy0n1s*fKL9tNxYL4XWfVgtXE21bcmxwBdgBdW0I3HQsgMkje51PjRv1JyVTDmfJx-c5LAn2qE1*WyKT1X*5h-tqs0IrSQh&new=1)
+ > 关键讯息，D1时间送达！美国云计算巨头Salesforce周二证实，该公司同意斥资277亿美元(现金加股票)收购职场聊天软件公司Slack，从而进一步涉足企业社交领域。根据周二的交易公告，Slake股东将获得26.79美元的现金...
+ ## [贵阳大数据及网络安全 精英对抗演练在经开区启动](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=wVj2gD76SwcC2nrBAkkTwyjpAKqE8bVBcmTi6CGZfwGPxibkmK77HTQqEXLKdtwZPnx7FvnCJmj1I*qrIr-lXpC-nxaUHiNE32QCAMIfJtY=&new=1)
  > 本报讯 12月1日，2020贵阳大数据及网络安全精英对抗演练在经开区贵阳大数据安全产业示范区启动。　　此次演练以“筑牢安全防线·护航数字城市”为主题，参演队伍将重点围绕新基建及智慧城市等安全防护体系展...
- ## [\[报告\]德勤2020软件定义汽车白皮书(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=cbBzXoiqVb1dLMLlQtXzDJabGC8XR7B8uCHFPJaGOsP5TdUFwpzGoNfpv0t6ITei7cxIYID1R2wVKJSQ-rvjxc0hzfRwg1JFAzPEcfZjTJOs6yuSIKW2wYxT0Ob3wH0b&new=1)
+ ## [B 站年度弹幕冠军：「爷青回」；高通发布旗舰芯片 888；马斯克：2026 送人类上火星|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=3KTWCHr98iwFTk7m*uENguUMP1PA-TByC2uUKmKYk9FAbunoH4gOfgHwFUuJArlMEJxi3OLKJ8theWHv6KUguO9zH5GZviAKXBX7*UIiSEZTqqK6Di566D7EWt7mhQF2&new=1)
+ > 高通发布骁龙 888 芯片12 月 2 日消息，在高通骁龙技术峰会首日，高通技术公司高级副总裁兼移动、计算及基础设施业务总经理阿力克斯·卡图赞（Alex Katouzian）宣布推出最新一代的旗舰级平台骁龙 888 5G 移动平...
+ ## [5万个零件不开模，直接3D打印!批量化应用逐渐开启](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=4Gdy9Wql7y5ZUSi5-kvkHHugeSHGIvTY3U8mNGBx2ahND73Rf5djNMKvih97OYr4dXLsxr0YQd-fwOxYSE8rBZOBCItP3ynX2xQtLXRbbo9NGa2hFQmQ-bYYonlwVCg1&new=1)
+ > 2020年11月29日上午，2020年长沙网络安全·智能制造大会在湖南长沙隆重召开，在“中国（长沙）增材制造产业发展与技术应用分论坛”上，邀请了增材制造行业的院士、专家、航空航天、装备、材料、检测等龙头企业的...
+ ## [年度盘点：2020年都发生了哪些大型黑客攻击事件](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=8aw*-K*Qx0ntPEjPxeiNHbjw170HOpfxPtD7lHjaYSziSBWu0*gAzDMabS24HhqTsmZTscKqyglKMQhwPn6-aaTQOOYAaGFVQqCSwy-TdCUEkpQjymBmC4KI0gSdje9v&new=1)
+ > E安全12月2日 今年，网络安全可能已远远超出我们的预期范围，然而，由于疫情大流行和灾难性的经济中断，网络攻击者今年肯定没有给任何人一个喘息的机会。数据泄露、网络渗透、大量数据盗窃和销售、身份盗窃和勒...
+ ## [\[报告\]德勤2020软件定义汽车白皮书(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=cbBzXoiqVb1dLMLlQtXzDJabGC8XR7B8uCHFPJaGOsPL9n*Hqf64KfU71i1SJHYjdbLAxm4ctxaNQf91-yMSVGjgTDkDV*iKkrfnSWv1SRao2ctU9wnuZmPf2ZCYuKSl&new=1)
  > 在过去的几年中，智能手机和计算机，其标准化硬件在现有技术水平下正逐渐接近物理极限，这推动了其行业逐步从由硬件升级发展主导产品创新，转向由软件开发和迭代去推动硬件设计的更新和升级，伴随硬件标准化的推...
- ## [7点见|嫦娥五号探测器成功在月面软着陆；蔚来11月交付创历史纪录](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=DDQJ*OfTLjg8zEERqNNRqJJHWculHlJA7f*D4qosFp*L*yNtygJnXh18lzs4L7DIi7hE2O6PfZ0qp4oOWnjfe5av-9o0AKAFL*DzitRgztqZj**aWkaLlGMce19Hvsx8&new=1)
+ ## [7点见|嫦娥五号探测器成功在月面软着陆；蔚来11月交付创历史纪录](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=DDQJ*OfTLjg8zEERqNNRqJJHWculHlJA7f*D4qosFp9VdXN2QS-AHcPy6d3GBWIxBG-pV9pnBDQoC6efSVNIZzU6F*Ztk2h2BimeC2t3ZOZZ92HDQZ4KuSvbYXggJY95&new=1)
  > 各位小伙伴早上好呀！以下是今天的早报！嫦娥五号探测器成功在月面软着陆嫦娥五号在月面上的情形（艺术图）据国家航天局获悉消息，北京时间2020年12月1日23点13分左右，嫦娥五号探测器成功着陆在月球正面预选着...
- ## [现在下载一款软件，可能比 10 年前难多了](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=qvHR8IJjayMQBPlbH6VNNJCtmJ63NSpppVE79ZAo2n9**HMbtL6Oy7GiY5uO9z3pMxCsbN4sipm0anrPDvsWGhLQdnZpckRK*g7yc7fYwWP0KryfZLDYAjqeacta3C27&new=1)
+ ## [现在下载一款软件，可能比 10 年前难多了](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=qvHR8IJjayMQBPlbH6VNNJCtmJ63NSpppVE79ZAo2n8kE3facoNMCnPQ1792WOIbr0cTZc0MTE-VovQ9EobFixVgWfGUhnYRC4dj42bogTWNZhV87PTn1NeflN2ZtK*Z&new=1)
  > 下载软件变成了「斗智斗勇」的过程。作者 | 王贺龙来源 | APPSO（ID：appsolution）在当代互联网上冲浪，你需要很多技巧，其中之一就是知道该如何下载软件。「不会吧不会吧？不会真的有人不会下载软件吧？」当看...
- ## [骁龙888移动平台，重新定义顶级移动体验](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=Rft-A7D500s9anbAxcDGfQ76GppPlrNizBDaP4dLXm4nB6*tbdpwN38lXVeBX56q61Yz2d68MHrcBE5msf15dFlI2xydFXnGd-OD-3E-08VvqBdCgxFO5ThuNnT5cN5Q&new=1)
+ ## [骁龙888移动平台，重新定义顶级移动体验](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=Rft-A7D500s9anbAxcDGfQ76GppPlrNizBDaP4dLXm7iiYX95pRJFXd1mvvYXhAMdofEWFhJr6EzRSEzHGx1ysR1iUMGeZ8PT-opdSGMNvceoV*-U3*OL0QpwhyOc-A8&new=1)
  > Qualcomm要闻—全新骁龙888移动平台赋能下一代旗舰终端12月1日，2020高通骁龙技术峰会首日，Qualcomm总裁安蒙（Cristiano Amon）携手全球行业领袖，在线分享了高通骁龙8系移动平台在引领下一代终端体验中发挥的...
- ## [添油加醋!“立委”王婉谕指责华为产品安全性，岛内网友批：毫无作为，却管起外行事情](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=h62njWhn9KXmDnvwktF2SURgFPGTM72wgVBroGsnM0VfMFZVnFLbnBQIpVdEn4JK6CgOQmbZV8xzdkh-UcPD6*G3pgCorOBOEqufYdb1Z5s=&new=1)
+ ## [添油加醋!“立委”王婉谕指责华为产品安全性，岛内网友批：毫无作为，却管起外行事情](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=h62njWhn9KXmDnvwktF2SURgFPGTM72wgVBroGsnM0XJISYvGGoe-FRzwNMBXk5TYkrFcQbhKv2JWBgicXLEK643cUvAK8j1-dxgnqwHIKE=&new=1)
  > 【环球网综合报道记者 尹艳辉 乌元春】民进党当局去年以所谓“信息安全”为由，宣布在公务上禁止使用华为产品后，综合台湾“NOW新闻”等台媒报道，“时代力量”籍“立委”王婉谕今天（12月1日）“爆料”说，信箱...
- ## [网信办就App必要个人信息范围公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=kld8Tx86IpwDCTLgQvwiJJpO-iqPCXdsrq*KZcAv1xMa9TK-quJdY4Sf59AlPs3mcxcjEq*UShd46W7iy46zEgjXE--zIQAaDqjCrCEVNAE=&new=1)
+ ## [网信办就App必要个人信息范围公开征求意见](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=kld8Tx86IpwDCTLgQvwiJJpO-iqPCXdsrq*KZcAv1xMX-xbl8j4B0soaX5mqMf79zpAIy4nKCNEaTDbz6n8kmgI2MLIX58W5P3C*WMmbPUE=&new=1)
  > 上证报中国证券网讯 据中国网信网12月1日消息，近年来，移动互联网应用程序（App）得到广泛应用，在促进经济社会发展、服务民生等方面发挥了重要作用。同时，App超范围收集、强制收集用户个人信息普遍存在，...
- ## [黑科技来袭!奥迪建了一座未来汽车工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1606878005&ver=2741&signature=khJMIDYpOl5jjw*UdV2yK8m5V147Hvj*xgTOz-p7LCO3HIq3kDdVzgr9u*6skQ1A6buhiKNwldBL2MYtoKHX042Ldf3vLnmj7K4MgLyClgjyi0nc6bz4Z4polrT3bg-O&new=1)
+ ## [黑科技来袭!奥迪建了一座未来汽车工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1606885205&ver=2741&signature=khJMIDYpOl5jjw*UdV2yK8m5V147Hvj*xgTOz-p7LCMEAlJLva6skg258DJHfz6qeZgWHbGS3wC0m4TacVGXHhpMsqNm8IDisZm*9bqK*QsTFnwXyofMVaQ0Xh86cnMd&new=1)
  > 奥迪黑科技~车友们，晚上好~说到奥迪，德系车企的典型代表，他们推出的各种车型都超级酷炫！但是，他们欲求不满，一心想成为一家科技公司。这一次，奥迪又来搞事情了，为我们描绘出一座未来汽车工厂——奥迪智能...
 # IT 技术 
  ## [老板：你写的接口有问题！赶紧起床瞧瞧](http://developer.51cto.com/art/202012/633468.htm)
@@ -39,28 +45,28 @@ categories: IT NEWS
  > 2021年值得关注的八大机器人流程自动化趋势
  ## [2020年成为DevOps工程师的必读教程](http://os.51cto.com/art/202012/633459.htm)
  > 2020年成为DevOps工程师的必读教程
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
+ ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
+ > Vue 快速开发入门课程
+ ## [行走自由的扫地机器人，可能正在偷偷监听你](http://ai.51cto.com/art/202012/633509.htm)
+ > 拖着疲惫的身体回到家，辛苦工作了一天的打工人，终于开始了“翻身农奴把歌唱”的生活。先唤醒年会抽的智能
+ ## [比特币创近3年新高，再迎终极提问：比特币是钱吗？](http://blockchain.51cto.com/art/202012/633505.htm)
+ > 12月1日截至14：00，比特币价格报19455.31美元，24小时涨幅为5.05%。而此前13：00，比特币价格曾遭遇短线下
+ ## [Golang GinWeb框架5-XML/JSON/YAML/ProtoBuf等渲染](http://developer.51cto.com/art/202012/633501.htm)
+ > 本文接着上文(Golang GinWeb框架5-绑定请求字符串/URI/请求头/复选框/表单类型)继续探索GinWeb框架
+ ## [微软发布Windows10 20H1/20H2更新：修复大量问题](http://os.51cto.com/art/202012/633497.htm)
+ > 这是今年Windows 10最后的更新了，因为微软之前已经预告，公司不少工程师要休假，所以更新也会停止（一些重
+ ## [Windows 10系统将可以使用Android应用了](http://netsecurity.51cto.com/art/202012/633495.htm)
+ > 与Windows Linux子系统类似，微软正在创建Windows 安卓子系统，未来将允许Windows 10系统上运行安卓应用了
+ ## [任正非：再见，荣耀！从此以后便是对手！](http://zhuanlan.51cto.com/art/202012/633496.htm)
+ > 2020年11月17日，华为发声明回应出售荣耀：在产业技术要素不可持续获得、消费者业务受到巨大压力的艰难时刻
+ ## [灾难恢复计划模板：企业的8个关键步骤](http://netsecurity.51cto.com/art/202012/633491.htm)
+ > 论是由于疫情、自然灾害还是网络安全事件导致的网络中断，企业都需要确保能够在危机期间继续运营业务。帮助
  ## [要了解区块链一定要清楚区块链技术的几点技术原理](http://blockchain.51cto.com/art/202012/633490.htm)
  > 其实，区块链并不是一个新型的技术，更多的应该是传统技术上的一个融合，再通过一定的规则和机制去实现了区
+ ## [macOS的15个安全技巧（一）](http://netsecurity.51cto.com/art/202012/633489.htm)
+ > 自2004年以来，我每天都在使用macOS，自从OSX Panther(2003年10月发布)以来，我使用过该操作系统的每一个版
  ## [未来一年商业智能的发展前景如何?](http://ai.51cto.com/art/202012/633488.htm)
  > 随着智能技术的使用日新月异，人们需要了解商业智能的最新发展趋势。以下是有关商业智能未来发展的概述，其
- ## [我就是那个35岁的Java程序员，我还健在](http://news.51cto.com/art/202012/633486.htm)
- > 朋友，只要你是程序员，你一定知道996和“程序员35岁必死”的言论。这两个话题在互联网上的讨论一次比一次
- ## [如何减少建筑工地的伤亡事故？这 10 大AI手段来了](http://ai.51cto.com/art/202012/633484.htm)
- > 开头就先给出本文的结论吧――通过实时分析 7x24小时的视频信号，AI 和机器学习正在减少建筑工地的事故、盗
- ## [向云端迁移如何改进灾难恢复计划](http://cloud.51cto.com/art/202012/633481.htm)
- > 而采用更新的技术，企业可以开始将业务迁移到云端，并适应不断变化的环境，以满足分布式团队的需求。他们也
- ## [拥有创造力的程序员究竟有多吃香？不要跟年轻人比学习](http://news.51cto.com/art/202012/633482.htm)
- > 想必大家都听过这么一句话，程序员都是吃青春饭。这句话虽然我不完全同意，但是不可否认的是如果你想一直一
- ## [什么是大数据系统存储及管理？](http://bigdata.51cto.com/art/202012/633479.htm)
- > 什么是大数据系统存储及管理？根据数据存储和管理的内容范围，大数据存储及管理技术需要重点研究如何解决大
- ## [再见，MySQL !](http://zhuanlan.51cto.com/art/202012/633485.htm)
- > 今天我们来聊一聊为什么是Monty创建了MySQL，MySQL又是怎么发展成为世界上最流行的开源数据库的。
- ## [美国专利商标局（USPTO）报告：再不使用人工智能，你就落伍啦！](http://ai.51cto.com/art/202012/633478.htm)
- > 美国专利商标局(USPTO)于10月27日发布的一份新报告显示，在2018年所有新的技术发明中，有42%的发明涉及到
- ## [物联网供应链中的风险](http://iot.51cto.com/art/202012/633477.htm)
- > COVID-19的大流行加速了物联网设备的采用，随着复工和就业的需要，很多企业都采用了非接触式物联网设，例如
  ## [机器学习面试150题：不只是考SVM xgboost 特征工程](https://blog.csdn.net/v_JULY_v/article/details/108292943)
  > 机器学习面试150题：不只是考SVM xgboost 特征工程
  ## [有人在代码里下毒！慎用 pip install 命令](https://blog.csdn.net/BF02jgtRS00XKtCx/article/details/109912432)
