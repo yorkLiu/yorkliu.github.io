@@ -1,22 +1,30 @@
 ---
 title: 2020-12-06 IT News
 copyright: true
-date: 2020-12-06 10:05:23
+date: 2020-12-06 12:01:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2020可穿戴市场深度报告，苹果称王，华为小米猛追\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1607220005&ver=2749&signature=wAtJ-8BbFw0XDLm9Ox10wDeSlpF78tHyOH-o8PrTaMyqxgYseCDmQwqhBlHQK-oIJL-umoTQYoJqAHHHGKQiu08nk9C22O*fpU*3uiUl6n8l05uh5sywKSOt48R70XSq&new=1)
- > 未来，疫情后的可穿戴市场会不会迎来一波爆炸性反弹？ 编辑 |  智东西内参日前，市场研究机构IDC发布的报告显示，今年一季度全球可穿戴设备出货量达7260万台，同比增长29.7%。第二季度中国可穿戴设备市场出货量...
- ## [曝iPhone安全漏洞：可控制苹果手机 只需2分钟](http://mp.weixin.qq.com/s?src=11&timestamp=1607220005&ver=2749&signature=Djuq2nnFhsZWhVZInIvAFozDc7W5MFEbQ6LAxUJRBZMTIS*JJpGslJArgf9irjh*BsuIFTimnkmcooVHA8*877mPkWC0nGRcJtdBt5H8aDXnF7VF4gSjH6zHDrdCsiXn&new=1)
- > 据央视报道援引近日《今日俄罗斯》网站以及多家国外科技网站的报道称，一名来自谷歌公司的资深信息安全研究员，发现了苹果手机等设备存在重大漏洞：无需接触手机就可以获取一切信息。按照研究人员的说法，这个漏...
- ## [广东联通5G未来课堂第三站!走进广州中医药大学解读5G如何疫情防控](http://mp.weixin.qq.com/s?src=11&timestamp=1607220005&ver=2749&signature=vdIC7USrMoQ94st8eEtgZDjLXJOY-codyZpJZeWvPU1hanSQ6RHtfSAa6rJXSvCCc5D1VbEAHJRYAm-tLDQX*88bdnlALD660AB6kmUrjn69zolNgX2Xoy*fJd0tZK51&new=1)
- > 来源：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
- ## [世卫组织：全球累计新冠确诊病例达65257767例](http://mp.weixin.qq.com/s?src=11&timestamp=1607220005&ver=2749&signature=q5XLU-Qf7aUJlwQpdzEK570*1z7sIvnGgHhfq8egBcJdebiuqSm5p3yx4rbIoAhFI0qnN3QpF0xNqWQupNJQpWr94kiZCC0pyVJ0BglU5r0=&new=1)
+ ## [材料巨头巴斯夫推出其新型3D打印不锈钢金属线材](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=ohEVR3XTKJolMD3FrAXePE3gogEVCEXFRfrmf*SzJWhzRUvJI0fHRrH8GKafdHelDqL*jEn*E8OH1hlFJbW73wubiAoCxoG09Bf0mOTkpgasNVSK0s7HWxEo1WX75*Li&new=1)
+ > 化工巨头BASF的3D打印部门Forward AM已推出其新型Ultrafuse 17-4 PH金属丝。该17-4不锈钢基材料包括聚合物基质中的金属粉末，用于在大多数常见的FFF系统上实现安全且经济的金属打印。旨在生产原型、金属工具和功...
+ ## [贵州中铝智能生产决策项目通过专家验收](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=*Tmre96E3FLblPwiu63SlAIIOfmLzMpEpY-NXveHk79YCuHE2IDmaNwUc-QnyxHm4OqCB6UammbFuj3IBsD1NFVAMYqB3bzCPqTFnUkni-s=&new=1)
+ > 本报讯 12月4日，贵州中铝智能生产决策项目通过专家验收，标志着贵州中铝铝业有限公司向铝板带行业数字化工厂建设迈出关键一步，将助力贵阳铝加工行业高质量发展。　　贵州中铝是省属重点企业之一，2011年入...
+ ## [匹克发布3款3D打印鞋，价格从1599到9999元](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=oJTVboDdfCko8lH3NRuUvw-UCEbFSousn4TAhblo7X6V4IvLMkCi4ebCV5Vv8Q5iKkWzLBPgkgmKznH3y7m2Da-XdVlHBGqh4od9wzA2*zEqH0Nlq1f1VU3PtlWdtTGK&new=1)
+ > 2020年12月5日，南极熊在“匹克未来运动科技大会”现场看到，国内知名运动品牌匹克，宣布其“态极”系列产品总销量突破700万双。匹克CEO许志华认为，匹克态极和匹克3D打印，是通往未来的两把钥匙。“在传统的大...
+ ## [世卫组织：全球累计新冠确诊病例达65257767例](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=q5XLU-Qf7aUJlwQpdzEK570*1z7sIvnGgHhfq8egBcKPJj6IwTux8YhLTv5nLKUxNMP1D5ImPeEt7oK3pYDWYx5A2xBffucenciF6KSPb28=&new=1)
  > 新华社日内瓦12月5日电 世界卫生组织5日公布的最新数据显示，全球累计新冠确诊病例达65257767例。　　世卫组织网站最新数据显示，截至欧洲中部时间5日15时02分（北京时间22时02分），全球确诊病例较前一日增...
- ## [\[聚焦\]「涨」声响起来!半导体产业链开启「疯涨模式」](http://mp.weixin.qq.com/s?src=11&timestamp=1607220005&ver=2749&signature=VOMlWQy1HkjGwZDsmmnAJWZqc3EM0wC6uRwHUUHabDi5lQkd9FEq5L48ppIf5j-G7cXUIgoIg-A2V5edlF9bTcBQP9pIm00DiDxOlkbiHMCiiOCu-upN*cQQbQoQxOMZ&new=1)
+ ## [蚂蚁集团获新加坡数字银行运营牌照；扫地机器人中国销量全球第一|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=I0ObKkJoX6BJBYbaFL50sjkANfkNQ9kB2pMgC7rTfzqbPkyWeCeXJ21DQwjgClwkiqd0y71A5HNQx8NFN0B5n4wqZU--fjsNljHnKlKBouv8GeLlJb8L38ryORP-fBpQ&new=1)
+ > 图 /IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【蚂蚁集团获新加坡数字银行运营牌照 预计2022年初运营】新加坡金融管理局（MAS）周五宣布，四个财团成功获得该国发放的数字银行运...
+ ## [曝iPhone安全漏洞：可控制苹果手机 只需2分钟](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=Djuq2nnFhsZWhVZInIvAFozDc7W5MFEbQ6LAxUJRBZMTIS*JJpGslJArgf9irjh*Rf8Vm8KD0fu8671mjzVyPkGUK*WW3LcTbTT20CGFU211SStogJ563fS*IrpP0Gyc&new=1)
+ > 据央视报道援引近日《今日俄罗斯》网站以及多家国外科技网站的报道称，一名来自谷歌公司的资深信息安全研究员，发现了苹果手机等设备存在重大漏洞：无需接触手机就可以获取一切信息。按照研究人员的说法，这个漏...
+ ## [2020可穿戴市场深度报告，苹果称王，华为小米猛追\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=wAtJ-8BbFw0XDLm9Ox10wDeSlpF78tHyOH-o8PrTaMyqxgYseCDmQwqhBlHQK-oI-F6jFJOqu2yqOoWrGNSgC*vIIryGBVG6BgtmPSDer8DHnB6fHWo7AtpIpo8GBDRS&new=1)
+ > 未来，疫情后的可穿戴市场会不会迎来一波爆炸性反弹？ 编辑 |  智东西内参日前，市场研究机构IDC发布的报告显示，今年一季度全球可穿戴设备出货量达7260万台，同比增长29.7%。第二季度中国可穿戴设备市场出货量...
+ ## [广东联通5G未来课堂第三站!走进广州中医药大学解读5G如何疫情防控](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=vdIC7USrMoQ94st8eEtgZDjLXJOY-codyZpJZeWvPU1hanSQ6RHtfSAa6rJXSvCCSZlxUKjAIlVc71z-GpGXmoAxX16qo-K2KN0sSGVpvFCQ5eAhBFvbnogVWuNHkdZo&new=1)
+ > 来源：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
+ ## [\[聚焦\]「涨」声响起来!半导体产业链开启「疯涨模式」](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=VOMlWQy1HkjGwZDsmmnAJWZqc3EM0wC6uRwHUUHabDi5lQkd9FEq5L48ppIf5j-GkB7cn1iDfJKEbhQINYh*2nfGiuIybBXvMMMg*JW3qzPbend9whhBHUBn1YrQkZYn&new=1)
  > 半导体产业已开启「疯涨模式」！由晶圆产能紧张引发的蝴蝶效应，半导体晶圆、材料、芯片、封装、测试各环节均有厂商宣布产品涨价，涨价通知接踵而至，不少业内人士表示，「今天你涨，明天他涨，真不知道下一个涨...
- ## [「技术趋势」Gartner确定了2021年的主要战略技术趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1607220005&ver=2749&signature=38BsQB8BnFihQP2AhC0azdyS7*tmwFN-KfglKEBRQdOTspFt7nURV2eLzExBlQQthEv*4g2ACVTdcaJfYNZ7aD4F0kIlaNZ1b3QOX6VpWMsnr-YiVbZOgY5Q6c4Yrv7b&new=1)
+ ## [「技术趋势」Gartner确定了2021年的主要战略技术趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1607227204&ver=2749&signature=38BsQB8BnFihQP2AhC0azdyS7*tmwFN-KfglKEBRQdOTspFt7nURV2eLzExBlQQtYR1ComR9wPv5O0FlXamOzBvGn5ECll-HzHzEEZyExw1*dd5PKj3Nr*TNuSjxRKyM&new=1)
  > Gartner公司公布了企业在2021年需要探索的顶级战略技术趋势。分析师们在Gartner IT Symposium/Xpo Americas上展示了他们的发现，该会议将持续到周四。“对跨企业职能部门的运营弹性的需求从未像现在这样强烈，”
 # IT 技术 
  ## [51CTO学院新企业版发布：赋能技术团队升级](http://news.51cto.com/art/202012/633836.htm)
@@ -33,8 +41,8 @@ categories: IT NEWS
  > 写代码效率不高？放过Ctrl C 和 V，让AI来帮你写代码吧
  ## [跟阿斌一起学鸿蒙(2). Ability vs App?](http://os.51cto.com/art/202012/633644.htm)
  > 跟阿斌一起学鸿蒙(2). Ability vs App?
- ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
- > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
+ > Python入门精讲视频，从入门到精通
  ## [每天用 Jupyter 写 5 分钟的日记](http://developer.51cto.com/art/202012/633840.htm)
  > 用 Jupyter 和 Python 在你的日常写作背后实现一些自动化。
  ## [区块链技术的国际应用与创新](http://blockchain.51cto.com/art/202012/633839.htm)
