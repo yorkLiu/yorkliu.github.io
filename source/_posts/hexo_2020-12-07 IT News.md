@@ -1,58 +1,66 @@
 ---
 title: 2020-12-07 IT News
 copyright: true
-date: 2020-12-07 09:02:08
+date: 2020-12-07 10:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [本周家电圈:原材料集体暴涨,空调突围彩电恶战智能家居抱团](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=J3DMiETPVZeJP*wT4JwPLYfPZhUX2hcxTyxzpBhiiVVglf6ux1spn2UndPym-oQMREGUUR8T-1fShy22*NFhWoR7HCa2SCCZxqQNQSAOO*uotRoAioBnlk8r0N998WFB&new=1)
- > 林表明霁色，城中增暮寒。2020年走到最后一个月，按照惯例，家电厂商也将启动对今年的总结复盘和明年的开战略部署。家电协会空调专委会工作会议召开，聚焦能效升级和安全使用年限；格力、奥克斯、志高、美博等启...
- ## [中兴手机卷土重来](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=xJxON8LI19qV1vjyyX-ZAH2Gu8xm1hZYFHbFK9PNueMxkaW28LmmVO*eF4hPtUFfA0JLsac3Tx6dr8eHLfpLthBfPy764Quv5VP54GixkNHsCnkERkfi0ONM5w7d68dH&new=1)
+ ## [中兴手机卷土重来](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=xJxON8LI19qV1vjyyX-ZAH2Gu8xm1hZYFHbFK9PNueMxkaW28LmmVO*eF4hPtUFfWP-oG1fPiIObq4i*UTvaTJFAVAZt-6ZCSCm8xz-Wg7IPfx7tCklfeyicvau6bySi&new=1)
  > 配图来自Canva可画智能手机市场正在进行新一轮洗牌。5G换机潮已经席卷全球，尤其是在5G商业化应用不断加速的中国市场，10月份5G手机销量占比已经高达64.1%。面对空前变局，全球各大智能手机品牌都开足马力加大投...
- ## [5G推动创新，我们推动5G，为中国数字经济发展注入强劲动力](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=MY6K45PDOdSzbZ92qbuMBCHoz0FX5mPMlc0v4j2VxxgjhgAGejHnGFJQO8TN75xfRu5YdJnndLnITYd*4mM1UDHuLUsfBK-REMIyCn9FBq7Z2IudcbWDrv4kjvW4mUDM&new=1)
+ ## [会员|旭创科技ECOC2020宣布推出业界首个800G可插拔OSFP和QSFP-DD800系列光模块](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=-2l4Et3oPrz9CVGjq396d*53aTlW1vyaAEN1opbRQUP8dFcmuw5Sv06NyHDLt9oh0XDQKYKGZUpNCbQRF68mwWXNDccFDvBwmasbOXebtBpgEEFz4ByLQMJPb6F5Z3Mi&new=1)
+ > 新 闻 导 读旭创科技将在ECOC2020线上展会中通过视频演示800G可插拔OSFP 2xFR4、OSFP DR8+和QSFP-DD800 DR8+光模块，以及展示100G、200G 和400G相干解决方案。ICC讯 中国苏州和美国加州圣
+ ## [刷脸可取90厘米厕纸，这个星级公厕引热议!很多地方都在用](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=Lsyxt7MK6LG0uHROWC5*veM-TyUjeSRqLeQ8Mr296n1F1S6wm1DdiNjIAqA2sD-5ipCS2vsz7zzjcxqxlpu8jBlBALnobHOsC-EtX7qpnKHttVy7Q7OfRo9mcbA*fuSY&new=1)
+ > 进小区，人脸识别；住酒店，人脸识别…去楼盘售楼处看个房子，很可能被人脸识别现在取张厕纸也要人脸识别了市民只需站在机器前的识别区内，将脸对准机器上人脸识别的显示屏，间隔3秒钟，机器便会缓缓“吐出”长...
+ ## [“数据大脑”让城市治理更智慧](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=XqR0DXjkW*agQqwCgQptZn6S0RmyjDnTyVCG5AH9fnNu45xUnQ1q2kqU-oriODVImTUfXOdawMB2Yv89pGewrMcr4fYdkTqZUBbcT4m7XHw=&new=1)
+ > 12月2日，在经开区新型数字基础设施运营调度中心的一间调度室内，记者看到了经开区城市数据中台子平台——贵阳经开区数字孪生城市指挥调度平台的实时运行情况。当工作人员点击“三感社区”板块后，经开区四...
+ ## [\[报告\]华为如何改变电动汽车产业格局(附28页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=*pQg4pb1f4yRv-Pp9UJ8n-7x8SMUISMQ3uyiOCcQuc*DBXatTj5gwGAiN5R1uU7-KUOcZGNRE4ZUvetgchzQbXOPueO*Up93Xc6D8idFWrNILQLDRJpF8uwtD*SBPSGa&new=1)
+ > 华为布局图智能汽车，致力于成为电动车产业链系统级供应商。电动汽车的智能化功能是其相较于传统燃油车更吸引消费者的主要原因之一，造车新势力车型智能化功能完善，自动驾驶技术先进。在智能汽车领域，华为强调...
+ ## [本周家电圈:原材料集体暴涨,空调突围彩电恶战智能家居抱团](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=J3DMiETPVZeJP*wT4JwPLYfPZhUX2hcxTyxzpBhiiVVglf6ux1spn2UndPym-oQMcDTTXm8uoKKoATbY4CXX5robYPaTuM-JTyAzvJZY7lpcklP-VM*zdJWmBV*5OzOb&new=1)
+ > 林表明霁色，城中增暮寒。2020年走到最后一个月，按照惯例，家电厂商也将启动对今年的总结复盘和明年的开战略部署。家电协会空调专委会工作会议召开，聚焦能效升级和安全使用年限；格力、奥克斯、志高、美博等启...
+ ## [5G推动创新，我们推动5G，为中国数字经济发展注入强劲动力](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=MY6K45PDOdSzbZ92qbuMBCHoz0FX5mPMlc0v4j2VxxgjhgAGejHnGFJQO8TN75xfPWlNE8jXPvZa0arXgUlYnbJHWdU-euIUdoh0*jTfpnoUO*Hc6jgIAs0KHRtGCQjr&new=1)
  > 2017年1月，Qualcomm委托全球调研机构IHS Markit发布的《全球5G经济》报告预测，到2035年5G创造的经济产出价值为12.3万亿美元。2018年，中国移动生态伙伴携手加速5G商用提前到来。2019年6月6日，中国正式发布
- ## [震惊!某省运营商为了完成年底目标下疯狂指标，完不成的员工将被..](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=bqtzWftjXBg*yHGr9KHnb1v97KgQywf4ZoC6c59WPmilXeef3bGCvbNlRWtQPBn24ZgVaU1XsglQBTaDCA0O9uD00yxfboRq7ueZyoB7HNiODA5QdzjH73w8AhWaYIcU&new=1)
+ ## [震惊!某省运营商为了完成年底目标下疯狂指标，完不成的员工将被..](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=bqtzWftjXBg*yHGr9KHnb1v97KgQywf4ZoC6c59WPmilXeef3bGCvbNlRWtQPBn2oKHeeJEc7KzJja9qW*VEQ4y9tDgkEOm3WkSc9fD9MhwpjavwIXXft8b-TwCQ1GPH&new=1)
  > 据网友爆料，某省运营商之间的携号转网数字出现大幅提升。据爆料网友称，本次行为是全省性行为，其所在的地市公司，向员工和代理商下达了异网携入的考核目标。未完成将大幅扣罚绩效和渠道补贴。目前该运营商大量...
- ## [深入浅出低功耗蓝牙(BLE)协议栈](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=N9DtIr0gUCMQyRErm47P8OV6nKXpdwZt7tDZSTcGgPzf5FwsrbNHLYO1zhWa9SG5Gff*WNSgRToVNPOfJxpH7q*AMnbfDZQeNJUMmlXxVHivHsf3Qc1r9PEnsVCH8KAG&new=1)
+ ## [深入浅出低功耗蓝牙(BLE)协议栈](http://mp.weixin.qq.com/s?src=11&timestamp=1607304605&ver=2751&signature=N9DtIr0gUCMQyRErm47P8OV6nKXpdwZt7tDZSTcGgPzf5FwsrbNHLYO1zhWa9SG5DTpoP4IvvU4Y8eWVTZiIpaJgKbi6-kgcSyiOwMQLjaLkKJf5*aETtQdb33iS-FJf&new=1)
  > BLE协议栈为什么要分层？怎么理解BLE“连接”？如果BLE协议只有ATT层没有GATT层会发生什么？1. 协议栈框架一般而言，我们把某个协议的实现代码称为协议栈（protocol stack），BLE协议栈就是实现低功耗蓝牙协议的...
 # IT 技术 
- ## [烦的很，我35岁还在写代码......](http://news.51cto.com/art/202012/633853.htm)
- > 烦的很，我35岁还在写代码......
- ## [什么是Hypervisor服务器？](http://server.51cto.com/ManageDC-633805.htm)
- > 什么是Hypervisor服务器？
- ## [CTO不讲武德，竟这样拖垮公司...](http://news.51cto.com/art/202012/633852.htm)
- > CTO不讲武德，竟这样拖垮公司...
- ## [K8s宣布弃用Docker，千万别慌！](http://cloud.51cto.com/art/202012/633851.htm)
- > K8s宣布弃用Docker，千万别慌！
- ## [51CTO学院新企业版发布：赋能技术团队升级](http://news.51cto.com/art/202012/633836.htm)
- > 51CTO学院新企业版发布：赋能技术团队升级
  ## [你了解DevOps的自动化架构GitOps吗？](http://developer.51cto.com/art/202012/633807.htm)
  > 你了解DevOps的自动化架构GitOps吗？
+ ## [2020征文-TV 第三章 “颜控”时代下鸿蒙如何构建UI界面](http://os.51cto.com/art/202012/633771.htm)
+ > 2020征文-TV 第三章 “颜控”时代下鸿蒙如何构建UI界面
+ ## [什么是Hypervisor服务器？](http://server.51cto.com/ManageDC-633805.htm)
+ > 什么是Hypervisor服务器？
+ ## [K8s宣布弃用Docker，千万别慌！](http://cloud.51cto.com/art/202012/633851.htm)
+ > K8s宣布弃用Docker，千万别慌！
+ ## [CTO不讲武德，竟这样拖垮公司...](http://news.51cto.com/art/202012/633852.htm)
+ > CTO不讲武德，竟这样拖垮公司...
+ ## [51CTO学院新企业版发布：赋能技术团队升级](http://news.51cto.com/art/202012/633836.htm)
+ > 51CTO学院新企业版发布：赋能技术团队升级
  ## [CTO问我，为什么需要API网关？](http://network.51cto.com/art/202012/633733.htm)
  > CTO问我，为什么需要API网关？
- ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
- > MySQL培训速成教程（八）：MySQL主从复制集群配置
- ## [黑客组织似乎盯上了COVID-19疫苗冷链](http://netsecurity.51cto.com/art/202012/633883.htm)
- > 据外媒，近期IBM的安全团队表示，近期黑客组织了针对冠状病毒疫苗安全运输并储存在温控环境中的组织的攻击
- ## [Kubernetes和Docker分道扬镳对你来说意味着什么](http://cloud.51cto.com/art/202012/633878.htm)
- > Kubernetes在1.20版本之后弃用Docker作为容器运行时，转而使用使用为Kubernetes创建的Container Runtime In
- ## [18 个 JavaScript 入门技巧！](http://developer.51cto.com/art/202012/633877.htm)
- > 18 个 JavaScript 入门技巧，你了解几个，下面我们一起聊聊！
- ## [使用 UEFI 双启动 Windows 和 Linux](http://os.51cto.com/art/202012/633876.htm)
- > 这是一份在同一台机器上设置 Linux 和 Windows 双重启动的速成解释，使用统一可扩展固件接口（UEFI）。
- ## [Linux 中如何使用 IP 命令](http://os.51cto.com/art/202012/633875.htm)
- > 老版本的 Linux 中都是使用 ifconfig 命令检查和配置网络接口，但是该命令目前已经没有维护了，取而代之的
- ## [JavaScript 中 Eval 函数的前世今生，执行代码字符串](http://developer.51cto.com/art/202012/633874.htm)
- > 代码压缩工具(在把 JS 投入生产环境前对其进行压缩的工具)将局部变量重命名为更短的变量(例如 a 和 b 等)，
- ## [看Linux内核前辈解Bug你会有什么感想](http://os.51cto.com/art/202012/633873.htm)
- > 正是只凭借这些debug信息,准确分析问题所在，才能体现出对block子系统的专业性，坐稳在这个子系统中的地位
- ## [Redis如何解决频繁的命令往返造成的性能瓶颈](http://stor.51cto.com/art/202012/633872.htm)
- > pipeline通过将一批命令进行打包，然后发送给服务器，服务器执行完按顺序打包返回，这样就减少了频繁交互往
- ## [SpringBoot健康检查，如何与容器配合？](http://developer.51cto.com/art/202012/633871.htm)
- > 监控的重要性就不必多说了吧，不要再花功夫开会讨论它的必要性了，当你线上遇到问题，就不会再怀疑监控是浪
- ## [从一个案例剖析交付工作中的四个段位](http://developer.51cto.com/art/202012/633870.htm)
- > 我们前段时间使用wiki的模式来更新工作周报，想把周报从一种被动交付的形式转变为主动更新和周期性更新的方
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [跟阿斌一起学鸿蒙(3). 远程虚拟设备的限制和使用方法](http://os.51cto.com/art/202012/633772.htm)
+ > 相信很多人都没有鸿蒙OS真机可以进行调试，那么，先了解一下当前的开发工具提供的测试环境，对于设计分布式
+ ## [温哥华地铁遭到了Egregor勒索软件的破坏](http://netsecurity.51cto.com/art/202012/633902.htm)
+ > 这次攻击使Translink的用户无法使用地铁卡或者无法在服务站进行购票，这是本周刚刚从这个频繁发动攻击的黑
+ ## [“AI制药”新时代来临！人工智能预测更好的抗癌药物组合](http://ai.51cto.com/art/202012/633901.htm)
+ > 人工智能作为一种新兴的颠覆性技术，正在逐步释放着科技革命和产业变革积蓄的巨大能量，并深刻改变了人类生
+ ## [商用人脸识别能否按下暂停键](http://ai.51cto.com/art/202012/633897.htm)
+ > 按下暂停键，不是停止键，既给监管划范围、立规矩留足时间，也给人脸识别自我调整的机会。
+ ## [Windows 10新增“Let's Go”启动项：快速设置系统](http://os.51cto.com/art/202012/633894.htm)
+ > 自从Windows 10五月更新开始，微软陆续向测试用户提供了设置横幅推荐，近期，微软将在设置中新增两个选项：
+ ## [中国首次实现量子优越性后，Science审稿人坐不住了](http://news.51cto.com/art/202012/633899.htm)
+ > 中国首次实现量子优越性后，Science审稿人Scott Aaronson坐不住了。作为量子计算领域最重要的专家之一，Sco
+ ## [Windows 10X今年即将袭来？体验堪比iOS、安卓](http://os.51cto.com/art/202012/633896.htm)
+ > 微软正在开发Windows 10X系统，已经不是什么秘密了。最近更是有消息显示，在本年度的12月份，微软就会公布W
+ ## [大脑植入电极恢复猴子基本视力，该技术有望三年内造福盲人](http://ai.51cto.com/art/202012/633892.htm)
+ > 据最新一期《科学》杂志刊发的论文，荷兰科学家在猴子大脑中植入电极，成功使猴子恢复基本视力。荷兰研究团
+ ## [解决问题的能力比技术本身更重要](http://news.51cto.com/art/202012/633887.htm)
+ > 很多程序员都有一个技术理想，幻想着通过不断学习，不断提升自己在某个领域的技术能力，从而获得持续的竞争
+ ## [手把手教你五分钟搞定幂等本质](http://os.51cto.com/art/202012/633886.htm)
+ > 幂等性原本是数学上的概念，即使公式：f(f(x)) =f(x)能够成立的数学性质。用在编程领域，则意为对同一个系
  ## [玩转python？一文总结Python入门到进阶的窍门和技巧！（建议收藏）](https://blog.csdn.net/CSDNedu/article/details/109582566)
  > 玩转python？一文总结Python入门到进阶的窍门和技巧！（建议收藏）
  ## [基于STM32实现的普通灯泡调光控制器](https://blog.csdn.net/zhengnianli/article/details/110606191)
