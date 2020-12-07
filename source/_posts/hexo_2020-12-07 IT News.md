@@ -1,56 +1,58 @@
 ---
 title: 2020-12-07 IT News
 copyright: true
-date: 2020-12-07 08:03:43
+date: 2020-12-07 09:02:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G推动创新，我们推动5G，为中国数字经济发展注入强劲动力](http://mp.weixin.qq.com/s?src=11&timestamp=1607299205&ver=2751&signature=MY6K45PDOdSzbZ92qbuMBCHoz0FX5mPMlc0v4j2VxxgVlK*DkqkO5P0UDiI7X3MgRg0s1wvgkabifOddvX3dwz*TWWYlGDoOpfOpkt9pkWMLlrUmn2AorhXqcDQN0QuM&new=1)
- > 2017年1月，Qualcomm委托全球调研机构IHS Markit发布的《全球5G经济》报告预测，到2035年5G创造的经济产出价值为12.3万亿美元。2018年，中国移动生态伙伴携手加速5G商用提前到来。2019年6月6日，中国正式发布
- ## [震惊!某省运营商为了完成年底目标下疯狂指标，完不成的员工将被..](http://mp.weixin.qq.com/s?src=11&timestamp=1607299205&ver=2751&signature=bqtzWftjXBg*yHGr9KHnb1v97KgQywf4ZoC6c59WPmhnN-UQGVElbnnSVNhIWgWR8RS2Asv6SuLEWKLe2pi0p-ut7MXpqcWq06JwJ-ntd1Dmp8x03DOyP1o*0veDaBBS&new=1)
- > 据网友爆料，某省运营商之间的携号转网数字出现大幅提升。据爆料网友称，本次行为是全省性行为，其所在的地市公司，向员工和代理商下达了异网携入的考核目标。未完成将大幅扣罚绩效和渠道补贴。目前该运营商大量...
- ## [深入浅出低功耗蓝牙(BLE)协议栈](http://mp.weixin.qq.com/s?src=11&timestamp=1607299205&ver=2751&signature=N9DtIr0gUCMQyRErm47P8OV6nKXpdwZt7tDZSTcGgPyQjrxxTDrQ8k1QzNUUMwQcKkw-LDoeQRa1MTghqCnpKog0x2wZ1opc7bn7f6k6EYyb7PlA3PYcTS-FZcU-vjk7&new=1)
- > BLE协议栈为什么要分层？怎么理解BLE“连接”？如果BLE协议只有ATT层没有GATT层会发生什么？1. 协议栈框架一般而言，我们把某个协议的实现代码称为协议栈（protocol stack），BLE协议栈就是实现低功耗蓝牙协议的...
- ## [本周家电圈:原材料集体暴涨,空调突围彩电恶战智能家居抱团](http://mp.weixin.qq.com/s?src=11&timestamp=1607299205&ver=2751&signature=J3DMiETPVZeJP*wT4JwPLYfPZhUX2hcxTyxzpBhiiVVvjUaAoM2VeK7nm-viNC7Vuf6K92AwL1UmgKVBeDb9f6Wl4ZVblrw8a-dGRIHajrfv0YVSRozD5dYFKoxqZJ9n&new=1)
+ ## [本周家电圈:原材料集体暴涨,空调突围彩电恶战智能家居抱团](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=J3DMiETPVZeJP*wT4JwPLYfPZhUX2hcxTyxzpBhiiVVglf6ux1spn2UndPym-oQMREGUUR8T-1fShy22*NFhWoR7HCa2SCCZxqQNQSAOO*uotRoAioBnlk8r0N998WFB&new=1)
  > 林表明霁色，城中增暮寒。2020年走到最后一个月，按照惯例，家电厂商也将启动对今年的总结复盘和明年的开战略部署。家电协会空调专委会工作会议召开，聚焦能效升级和安全使用年限；格力、奥克斯、志高、美博等启...
- ## [中兴手机卷土重来](http://mp.weixin.qq.com/s?src=11&timestamp=1607299205&ver=2751&signature=xJxON8LI19qV1vjyyX-ZAH2Gu8xm1hZYFHbFK9PNueMqDR5CvD93iz2I7LR40mcTRE54YAS*UeQfzynj5gA-0C7klQYmDabpqD4ECM0UG0*UHNLrhvGDR38ngCC1l85p&new=1)
+ ## [中兴手机卷土重来](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=xJxON8LI19qV1vjyyX-ZAH2Gu8xm1hZYFHbFK9PNueMxkaW28LmmVO*eF4hPtUFfA0JLsac3Tx6dr8eHLfpLthBfPy764Quv5VP54GixkNHsCnkERkfi0ONM5w7d68dH&new=1)
  > 配图来自Canva可画智能手机市场正在进行新一轮洗牌。5G换机潮已经席卷全球，尤其是在5G商业化应用不断加速的中国市场，10月份5G手机销量占比已经高达64.1%。面对空前变局，全球各大智能手机品牌都开足马力加大投...
+ ## [5G推动创新，我们推动5G，为中国数字经济发展注入强劲动力](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=MY6K45PDOdSzbZ92qbuMBCHoz0FX5mPMlc0v4j2VxxgjhgAGejHnGFJQO8TN75xfRu5YdJnndLnITYd*4mM1UDHuLUsfBK-REMIyCn9FBq7Z2IudcbWDrv4kjvW4mUDM&new=1)
+ > 2017年1月，Qualcomm委托全球调研机构IHS Markit发布的《全球5G经济》报告预测，到2035年5G创造的经济产出价值为12.3万亿美元。2018年，中国移动生态伙伴携手加速5G商用提前到来。2019年6月6日，中国正式发布
+ ## [震惊!某省运营商为了完成年底目标下疯狂指标，完不成的员工将被..](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=bqtzWftjXBg*yHGr9KHnb1v97KgQywf4ZoC6c59WPmilXeef3bGCvbNlRWtQPBn24ZgVaU1XsglQBTaDCA0O9uD00yxfboRq7ueZyoB7HNiODA5QdzjH73w8AhWaYIcU&new=1)
+ > 据网友爆料，某省运营商之间的携号转网数字出现大幅提升。据爆料网友称，本次行为是全省性行为，其所在的地市公司，向员工和代理商下达了异网携入的考核目标。未完成将大幅扣罚绩效和渠道补贴。目前该运营商大量...
+ ## [深入浅出低功耗蓝牙(BLE)协议栈](http://mp.weixin.qq.com/s?src=11&timestamp=1607302804&ver=2751&signature=N9DtIr0gUCMQyRErm47P8OV6nKXpdwZt7tDZSTcGgPzf5FwsrbNHLYO1zhWa9SG5Gff*WNSgRToVNPOfJxpH7q*AMnbfDZQeNJUMmlXxVHivHsf3Qc1r9PEnsVCH8KAG&new=1)
+ > BLE协议栈为什么要分层？怎么理解BLE“连接”？如果BLE协议只有ATT层没有GATT层会发生什么？1. 协议栈框架一般而言，我们把某个协议的实现代码称为协议栈（protocol stack），BLE协议栈就是实现低功耗蓝牙协议的...
 # IT 技术 
+ ## [烦的很，我35岁还在写代码......](http://news.51cto.com/art/202012/633853.htm)
+ > 烦的很，我35岁还在写代码......
+ ## [什么是Hypervisor服务器？](http://server.51cto.com/ManageDC-633805.htm)
+ > 什么是Hypervisor服务器？
+ ## [CTO不讲武德，竟这样拖垮公司...](http://news.51cto.com/art/202012/633852.htm)
+ > CTO不讲武德，竟这样拖垮公司...
  ## [K8s宣布弃用Docker，千万别慌！](http://cloud.51cto.com/art/202012/633851.htm)
  > K8s宣布弃用Docker，千万别慌！
  ## [51CTO学院新企业版发布：赋能技术团队升级](http://news.51cto.com/art/202012/633836.htm)
  > 51CTO学院新企业版发布：赋能技术团队升级
- ## [什么是Hypervisor服务器？](http://server.51cto.com/ManageDC-633805.htm)
- > 什么是Hypervisor服务器？
+ ## [你了解DevOps的自动化架构GitOps吗？](http://developer.51cto.com/art/202012/633807.htm)
+ > 你了解DevOps的自动化架构GitOps吗？
  ## [CTO问我，为什么需要API网关？](http://network.51cto.com/art/202012/633733.htm)
  > CTO问我，为什么需要API网关？
- ## [想成为机器学习信息工厂，企业需要从精益制造学到这六个精髓](http://ai.51cto.com/art/202012/633662.htm)
- > 想成为机器学习信息工厂，企业需要从精益制造学到这六个精髓
- ## [面试官：详细说说你对序列化的理解](http://developer.51cto.com/art/202012/633708.htm)
- > 面试官：详细说说你对序列化的理解
- ## [警惕！超平台会杀死贵公司吗？](http://news.51cto.com/art/202012/633661.htm)
- > 警惕！超平台会杀死贵公司吗？
- ## [ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09](http://fellow.51cto.com/art/202007/622206.htm?qd=51ctojrzd)
- > ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09
+ ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（八）：MySQL主从复制集群配置
+ ## [黑客组织似乎盯上了COVID-19疫苗冷链](http://netsecurity.51cto.com/art/202012/633883.htm)
+ > 据外媒，近期IBM的安全团队表示，近期黑客组织了针对冠状病毒疫苗安全运输并储存在温控环境中的组织的攻击
+ ## [Kubernetes和Docker分道扬镳对你来说意味着什么](http://cloud.51cto.com/art/202012/633878.htm)
+ > Kubernetes在1.20版本之后弃用Docker作为容器运行时，转而使用使用为Kubernetes创建的Container Runtime In
+ ## [18 个 JavaScript 入门技巧！](http://developer.51cto.com/art/202012/633877.htm)
+ > 18 个 JavaScript 入门技巧，你了解几个，下面我们一起聊聊！
  ## [使用 UEFI 双启动 Windows 和 Linux](http://os.51cto.com/art/202012/633876.htm)
  > 这是一份在同一台机器上设置 Linux 和 Windows 双重启动的速成解释，使用统一可扩展固件接口（UEFI）。
+ ## [Linux 中如何使用 IP 命令](http://os.51cto.com/art/202012/633875.htm)
+ > 老版本的 Linux 中都是使用 ifconfig 命令检查和配置网络接口，但是该命令目前已经没有维护了，取而代之的
+ ## [JavaScript 中 Eval 函数的前世今生，执行代码字符串](http://developer.51cto.com/art/202012/633874.htm)
+ > 代码压缩工具(在把 JS 投入生产环境前对其进行压缩的工具)将局部变量重命名为更短的变量(例如 a 和 b 等)，
+ ## [看Linux内核前辈解Bug你会有什么感想](http://os.51cto.com/art/202012/633873.htm)
+ > 正是只凭借这些debug信息,准确分析问题所在，才能体现出对block子系统的专业性，坐稳在这个子系统中的地位
  ## [Redis如何解决频繁的命令往返造成的性能瓶颈](http://stor.51cto.com/art/202012/633872.htm)
  > pipeline通过将一批命令进行打包，然后发送给服务器，服务器执行完按顺序打包返回，这样就减少了频繁交互往
  ## [SpringBoot健康检查，如何与容器配合？](http://developer.51cto.com/art/202012/633871.htm)
  > 监控的重要性就不必多说了吧，不要再花功夫开会讨论它的必要性了，当你线上遇到问题，就不会再怀疑监控是浪
  ## [从一个案例剖析交付工作中的四个段位](http://developer.51cto.com/art/202012/633870.htm)
  > 我们前段时间使用wiki的模式来更新工作周报，想把周报从一种被动交付的形式转变为主动更新和周期性更新的方
- ## [干货：在 Linux 中使用 Truncate 命令](http://os.51cto.com/art/202012/633869.htm)
- > Truncate命令通常用于将文件缩小或扩展到指定的大小。如果文件大于指定的大小，则会丢失额外的数据。如果文
- ## [Java内存模型的深入分析](http://stor.51cto.com/art/202012/633868.htm)
- > 曾经，计算机的世界远没有现在复杂，那时候的cpu只有单核，我们写的程序也只会在单核上按代码顺序依次执行
- ## [一文彻底搞懂前端监控](http://netsecurity.51cto.com/art/202012/633865.htm)
- > 前端监控的第一个步骤就是数据采集，采集的信息包含环境信息、性能信息、异常信息、业务信息。
- ## [安全运营中心面临的8个挑战](http://netsecurity.51cto.com/art/202012/633855.htm)
- > Nemertes的2019-2020年云与网络安全研究报告发现，43%威胁控制能力的提升与部署SOC相关。然而，无论是内部
- ## [为什么工业物联网终于迎来了黄金时代](http://iot.51cto.com/art/202012/633854.htm)
- > 两项技术进步正在帮助简化工业物联网（IIOT），使其能够跨越早期采用者与大多数设备制造商之间的鸿沟。
  ## [玩转python？一文总结Python入门到进阶的窍门和技巧！（建议收藏）](https://blog.csdn.net/CSDNedu/article/details/109582566)
  > 玩转python？一文总结Python入门到进阶的窍门和技巧！（建议收藏）
  ## [基于STM32实现的普通灯泡调光控制器](https://blog.csdn.net/zhengnianli/article/details/110606191)
