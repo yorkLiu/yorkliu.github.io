@@ -1,21 +1,25 @@
 ---
 title: 2020-12-10 IT News
 copyright: true
-date: 2020-12-10 09:02:12
+date: 2020-12-10 09:55:32
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [软件行业人工成本居高不下，飞算全自动软件工程平台如何破题?](http://mp.weixin.qq.com/s?src=11&timestamp=1607562005&ver=2757&signature=oCWeVL5khfijAJhzZUMHIonZBDovuA4lCc7bglkb3eqG4iOZPoZU9vJXgIbRB2CGp8QN7vRrHiU2FBt9h521FcoZ446jAQpht4TfekpEHUYXqJpkH2P0oRt7SXo8ABlg&new=1)
+ ## [软件行业人工成本居高不下，飞算全自动软件工程平台如何破题?](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=oCWeVL5khfijAJhzZUMHIonZBDovuA4lCc7bglkb3eqG4iOZPoZU9vJXgIbRB2CGvG0hCRimVvrklix5gsOvLDDU6Fio26bLTTLpsJ9v02ZRllpv*xb-tXkEdfE8yBfQ&new=1)
  > 软件行业苦“人工效率”久矣。长久以来，企业为了保证软件开发的效率，通常只有花费大量的财力去招募更多程序员以及让程序员付出大量的精力去加班开发，这样的结果通常只有“两败俱伤”，那有没有一种开发工具，...
- ## [刷脸取厕纸?仅上海安装上万部 政协委员多年提案拒用人脸识别](http://mp.weixin.qq.com/s?src=11&timestamp=1607562005&ver=2757&signature=DJNCEl-t7fJVgMHfNoZZWV*NHtjWrEjhc2sN3rRLzv1ZvoykFjFzkVWtW-R6uaI0F3flU*GiXEVMmizcBO8L9CgfZoATwMqTEeCBoxCTOrnqHcqz*Cd5U56Fnqcg-8e4&new=1)
- > 30秒快读1东莞一公厕的人脸识别厕纸机备受质疑，为了60公分的厕纸出卖自己的脸，而同一家生产的设备早已进驻上海，销售人员还宣称，上海已经安装上万部。2商家不罢手，难道以后只能戴头盔出行吗？多地开始禁用人...
- ## [NEWS|新大陆通信公司获中国电信“智慧社区优秀合作伙伴”](http://mp.weixin.qq.com/s?src=11&timestamp=1607562005&ver=2757&signature=eXC1lA6*FWUduPmJcx8D4-Sk6zw*lyH*9csJ8DqeD-95kZ*33bZwmfXEuKE6Gg5X7fSCczL3NUV3Baht0qCdzbK*PH29F36XLelkBTJYJ5EjiZw55zxpB8vbNI4TmGsl&new=1)
- > 本刊讯中国电信“第二届天翼物联开发者大赛·创新成果发布会”12月2日在广州举行。会上表彰了一批大赛中表现优异的参赛团队及对天翼物联产业联盟产业生态推进具有特别贡献的企业，新大陆通信公司作为中国电信智...
- ## [巴西寻求法律途径禁止运营商使用华为5G设备](http://mp.weixin.qq.com/s?src=11&timestamp=1607562005&ver=2757&signature=LRcjhnkJtstOp2CAL8uXWlGBdBr6CuKVrfMAQJejxpC4WTXbQsrla3nrhwH9ZSrCYHySvyPI0g6VX84vp3n2Lo*cBxDeLXf0yr6ReEKR50J38hrb3dJ41ZXOwWDLWDOn&new=1)
- > 据接近巴西总统Jair Bolsonaro政府的消息人士透露，华为在巴西可能会遇到麻烦，因为政府可能会寻求法律途径，将其排除在5G基础设施之外。据路透社报道，Jair Bolsonaro的安全顾问奥古斯托·赫勒诺和交通部正在考...
- ## [让中央集体学习的量子科技究竟是啥?这个科普我已经做了五年(四)量子因数分解与破解密码|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1607562005&ver=2757&signature=8PI4GvraiypJvIxcUfusFhPRGHrI-CmDEuNiO2bbqg89fWYnqcur-dVjxenNXh*GRAG3eA5g3GANQluc8*C6KY7ZQp12QafWrOvSXs2K*niYWVR3XZqzRodKfd*R*0AF&new=1)
+ ## [\[报告\]华为入局，2020智能汽车行业深度研究(附56页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=GRTLgRCyzJ2LErr2a0NbatjFbQApUBsyjOqblit-86OwZ*cFLyW*EnTAAzG8liEfbJn6UD8AEZ-N0qojBZqDteKAhRQ2ycQPp2kiWghoi7e8TkZj9I-8PK5LfbiOLWUE&new=1)
+ > 智能化是未来三十年前所未有的大机遇，汽车智能化是智能化时代最重要的场景之一。汽车行业将在一定程度上重演从功能机到智能机的转变，产业供应链和价值链都将面临重构。华为此时入局智能汽车，是结合自身禀赋，...
+ ## [让中央集体学习的量子科技究竟是啥?这个科普我已经做了五年(四)量子因数分解与破解密码|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=8PI4GvraiypJvIxcUfusFhPRGHrI-CmDEuNiO2bbqg89fWYnqcur-dVjxenNXh*GIUatX2NdlefxoeOM*8p9tUpo8G1f2*l7QswOe67n*klqqevMyJ2LDb0d22hvgoHx&new=1)
  > 关注风云之声提升思维层次导读分解300位和5000位的数字，量子算法会把所需时间从15万年减到不足1秒钟，从50亿年减到2分钟！让中央集体学习的量子科技究竟是啥？这个科普我已经做了五年（一）量子是什么 | 袁岚峰...
+ ## [器件|剑桥科技将向海光芯创采购100G高速光模块](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=m19qa5cKCPTX9X5ZfRvEatFqsyBSjwRSq8EfTGJOXoDsFgxUvwxeWLcnJZVctsDH*8NnXgcDPH15CZGXolU046p9t8BbCzi0cSkp9nZtNtPhqzIj9HSiyorkc39R77n-&new=1)
+ > 新闻导读剑桥科技发布日常商品购销交易公告称：公司向海光芯创采购 100G 100 米和 2 公里两款高速光模块，用于数据中心机房内的设备互联。ICC讯 上海剑桥科技股份有限公司(简称剑桥科技)发布关于与苏州海光芯创...
+ ## [巴西寻求法律途径禁止运营商使用华为5G设备](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=LRcjhnkJtstOp2CAL8uXWlGBdBr6CuKVrfMAQJejxpC4WTXbQsrla3nrhwH9ZSrCIoYafMDQxIE3FG2MjEZCchpk9Kk*QpI3T8LynnMWvC*LIEJUtTlync2he-1xq2DM&new=1)
+ > 据接近巴西总统Jair Bolsonaro政府的消息人士透露，华为在巴西可能会遇到麻烦，因为政府可能会寻求法律途径，将其排除在5G基础设施之外。据路透社报道，Jair Bolsonaro的安全顾问奥古斯托·赫勒诺和交通部正在考...
+ ## [刷脸取厕纸?仅上海安装上万部 政协委员多年提案拒用人脸识别](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=DJNCEl-t7fJVgMHfNoZZWV*NHtjWrEjhc2sN3rRLzv1ZvoykFjFzkVWtW-R6uaI0ibt1PknkC5FZzl6aSnYzJVeLOGcNc3Fvjb7ZDkXguHZE9n1wFJ*WYgwuXC8Gr05z&new=1)
+ > 30秒快读1东莞一公厕的人脸识别厕纸机备受质疑，为了60公分的厕纸出卖自己的脸，而同一家生产的设备早已进驻上海，销售人员还宣称，上海已经安装上万部。2商家不罢手，难道以后只能戴头盔出行吗？多地开始禁用人...
+ ## [NEWS|新大陆通信公司获中国电信“智慧社区优秀合作伙伴”](http://mp.weixin.qq.com/s?src=11&timestamp=1607563805&ver=2757&signature=eXC1lA6*FWUduPmJcx8D4-Sk6zw*lyH*9csJ8DqeD-95kZ*33bZwmfXEuKE6Gg5XQVa4flQGKSLvhysKB*vHfKfBJC94TMLGkqO3wO8Y3tE8HTvR23kdp6B4lYmssNg-&new=1)
+ > 本刊讯中国电信“第二届天翼物联开发者大赛·创新成果发布会”12月2日在广州举行。会上表彰了一批大赛中表现优异的参赛团队及对天翼物联产业联盟产业生态推进具有特别贡献的企业，新大陆通信公司作为中国电信智...
 # IT 技术 
  ## [关于.NET生态，你了解多少？](http://developer.51cto.com/art/202012/634310.htm)
  > 关于.NET生态，你了解多少？
@@ -83,37 +87,6 @@ categories: IT NEWS
  > 13 个 JavaScript 数组精简技巧
  ## [JS逆向:Webpack打包后的代码怎么搞？猿人学爬虫比赛第十六题详细题解](https://blog.csdn.net/qq523176585/article/details/110153191)
  > JS逆向:Webpack打包后的代码怎么搞？猿人学爬虫比赛第十六题详细题解
-# 人工智能 
- ## [TIOBE 12 月编程语言：Python 有望第四次成为年度语言！](https://blog.csdn.net/csdnnews/article/details/110791104)
- > TIOBE 12 月编程语言：Python 有望第四次成为年度语言！
- ## [极客日报第 25 期：阿里 AI「一对多」挑战人类律师；谷歌或将推出自研手机和电脑芯片](https://blog.csdn.net/weixin_39786569/article/details/110853210)
- > 极客日报第 25 期：阿里 AI「一对多」挑战人类律师；谷歌或将推出自研手机和电脑芯片
- ## [阿里人的不传之秘：内部亿级架构设计开发笔记（亿级架构及优化等等）](https://blog.csdn.net/weixin_49348902/article/details/110822235)
- > 阿里人的不传之秘：内部亿级架构设计开发笔记（亿级架构及优化等等）
- ## [Matlab内容整理嘿呀](https://blog.csdn.net/Chipmunkyle/article/details/110791793)
- > Matlab内容整理嘿呀
- ## [GitHub上3天1W赞的程序员学习路线！入门进阶都非常实用](https://blog.csdn.net/qq_46388795/article/details/110870727)
- > GitHub上3天1W赞的程序员学习路线！入门进阶都非常实用
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [国外一周标星131K+Star的Java后端成长路线笔记，下载量已超百万！](https://blog.csdn.net/weixin_45825082/article/details/110872377)
- > 国外一周标星131K+Star的Java后端成长路线笔记，下载量已超百万！
- ## [想做技术自媒体实现财富自由？先看看广告报价吧，无编码学爬虫之二。](https://blog.csdn.net/hihell/article/details/110806256)
- > 想做技术自媒体实现财富自由？先看看广告报价吧，无编码学爬虫之二。
- ## [数据结构（廿五） -- C语言版 -- 图 - 图的遍历 -- 邻接矩阵 - 深度/广度优先遍历/搜索（DFS、BFS）](https://blog.csdn.net/zhemingbuhao/article/details/108393792)
- > 数据结构（廿五） -- C语言版 -- 图 - 图的遍历 -- 邻接矩阵 - 深度/广度优先遍历/搜索（DFS、BFS）
- ## [Java高频面试题及答案整理（2021年最新版）](https://blog.csdn.net/weixin_45132238/article/details/110877851)
- > Java高频面试题及答案整理（2021年最新版）
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [阿里技术小组也太猛了吧！双十一之余，还能整理出这套2020年Java面试资源合集！居然还免费送！真香！](https://blog.csdn.net/Sqdmn/article/details/110873957)
- > 阿里技术小组也太猛了吧！双十一之余，还能整理出这套2020年Java面试资源合集！居然还免费送！真香！
- ## [C，C++，python实现约瑟夫生者死者小游戏](https://blog.csdn.net/qq_44176343/article/details/110696491)
- > C，C++，python实现约瑟夫生者死者小游戏
- ## [Spring知识点详解（源码笔记+思维导图），AOP和IOC](https://blog.csdn.net/m0_46995061/article/details/110872267)
- > Spring知识点详解（源码笔记+思维导图），AOP和IOC
- ## [从零学习Python自动化测试，百度测试工程师手把手教你设计Selenium自动化测试框架](https://blog.csdn.net/rjcs666/article/details/110874185)
- > 从零学习Python自动化测试，百度测试工程师手把手教你设计Selenium自动化测试框架
 # PM 
  ## [令人心动的offer：实习生，你真的会「发邮件」吗？](http://www.chanpin100.com/article/113148)
  > 如果你看了《令人心动的offer》第二季第一期，会发现「发好一封邮件」并不如我们想象的容易。
