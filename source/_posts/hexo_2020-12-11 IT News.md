@@ -1,32 +1,40 @@
 ---
 title: 2020-12-11 IT News
 copyright: true
-date: 2020-12-11 11:35:44
+date: 2020-12-11 13:48:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [来!回!顾!被70w网友强势围观的“700MHz技术与产业应用研讨会”都划了哪些重点?](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=eKB1Kp4*NCXM*F11b-h-K5ISuFUUglIQk5Ky8iZ1BnSBO8cXHridC*jTzVzFkAb5jpPSvAXTIEg85RVzfcHeSsrUfwWCZUvkjR*2*vStzDv6c9V4093PkSnjY3Gsc00D&new=1)
+ ## [工业软件，“水”有多深?](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=Hjr293ObEXsLGghQXcL625DvGIuh9XhmCfYGo0qBgLHLLiija*CdPHhxXaMq4zaUwTZXDnc0v7ZPrJeWKbwd676Slc8CPTZv39vAsexT-Of*Tu6bblLqRJdPlj3m8aI6&new=1)
+ > 看上去，“工业软件热”终于找回了工业的命门，但细看，仍是一种假象。当下对于工业软件的振兴，就像是“抛绣球选新郎”的套路，热闹很大，名额有限。而能被关注到的，仅仅是少数幸运儿。这种方式，跟工业软件万...
+ ## [在2021年值得关注的7大安全趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=lRxgR*K-vPrS3YN16qt0NFEFadLe4RRPilt9Hlg3HUgOAuWwt7GE447egipSvHmxKSP8VdTAdYWu68daeaHl7cRR870HAIQzpYsNPViKTdHEo5fxVQ7pMrHYx3TtBoKW&new=1)
+ > 关键讯息，D1时间送达！很多IT和安全部门领导者分享了他们对未来一年行业发展的见解和期望。本文介绍了他们关注的内容以及IT领导者应注意的问题。无论科技趋势如何变化，安全性一直是组织IT部门的关注点。行业专...
+ ## [苏宁回应股权质押给淘宝：正常合作;苹果App Store被越狱商店指控垄断；Docker 20.10.0发布|极客日报](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=AEFGf6w9IjB2K8wSDBtlcPGLWCQM*sBY4P8eEurvbCTWjaB0aZkhU5mW4moI5LnqabJ49GGQp5QbuSCOIxyKpFhHBxvC07bnQH1cnmBmrCcZp7oqrl5jcbotckRCt-vk&new=1)
+ > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
+ ## [DNS的隐私革命：Oblivious DNS](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=Rvl9OsY83NiQ*g9uGCaYqCMVncvJjIQDy2fVmTnKueX0PO6OBzpgmipWfv7xA*bP82uoL-sD3u0RWNWZ5lMo1AWznMqTZat5CzYVetYTKH*SOdv6*sT9mznEErAXpv9d&new=1)
+ > 近日，Cloudflare在官方博客宣布支持一项新提议的DNS标准——Oblivious DNS。该标准由Cloudflare、Apple和Fastly三家公司的工程师共同撰写，能够将IP地址（创建）与查询分开，从而确保没有一个实体可以同时
+ ## [来!回!顾!被70w网友强势围观的“700MHz技术与产业应用研讨会”都划了哪些重点?](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=eKB1Kp4*NCXM*F11b-h-K5ISuFUUglIQk5Ky8iZ1BnRMfEBoBbH-tFNzozz08Em3cO8r3AEZ8TRWi12oU7hpo1laT2N1*L2jPWQH2s6jBJBI*IcuWrFGOpdTfDzBqRMm&new=1)
  > 12月3日，“700MHz技术与产业应用研讨会”在北京盛大召开。本次研讨会由中国广播电视网络有限公司指导，中国工信出版传媒集团主办，信通传媒·通信世界全媒体承办，旨在进一步推进700MHz产业高质量发展、探索产...
- ## [接二连三!欧洲药品管理局也遭遇了黑客攻击 涉及辉瑞新冠疫苗关键数据](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=4MLAuKGuciBkJOyKz6O0l-RtNoEhoP5FZs*lXrfg1VEgKoEH25WROpPf8eaouF0n4XmNwfvP5vH6RqHCsTwx2awad8UYs6QxkZiSSz4wGcUk73Slp7mZpdsM-V3Yb1jj&new=1)
+ ## [接二连三!欧洲药品管理局也遭遇了黑客攻击 涉及辉瑞新冠疫苗关键数据](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=4MLAuKGuciBkJOyKz6O0l-RtNoEhoP5FZs*lXrfg1VFfp68o6P2rdYNqwvHKZTvWHyDV5r2me1uLBpxwzg82UMlZY4QVnI0d-pNPZ2Q54-*Py*6XiU0OkYBtcDbCK3Ka&new=1)
  > E安全12月11日  据外媒报道，近日，负责批准新冠疫苗的欧盟监管机构欧洲药品管理局(EMA)表示，它也成为了网络攻击的受害者之一。目前该机构在其网站上发布了一份简短的两段声明，披露了这次安全漏洞，但表示由于...
- ## [贺：“增材制造”列入中国第一届职业技能大赛，铂力特/威拉里/先临/创想等3D打印大厂实力支持](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=1S*VMS0fzb1MrMWXiC4yynl39eRdguy3iYmbgcxKR8GpwOS6HdO-tbwPZ0tb*1zpiqTP1F7uEpdHVgBaQjdHBfcXgi3i5ZjncCov0DDYYHKpO-doA3OSOqniw7rQ5sde&new=1)
+ ## [贺：“增材制造”列入中国第一届职业技能大赛，铂力特/威拉里/先临/创想等3D打印大厂实力支持](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=1S*VMS0fzb1MrMWXiC4yynl39eRdguy3iYmbgcxKR8H23X3s9uIgZ7g6wHmG4mBOolGtiGoZFHim6UKeVsAGdL6D7qHpyK0zOwx5zUqKACsA8egWDU4EvOgKeaBvsZ2t&new=1)
  > 南极熊导读：“增材制造”作为一项重要内容，列入中华人民共和国第一届职业技能大赛项目。国内铂力特/威拉里/先临三维/创想三维等多家3D打印行业的实力大厂商提供现场支持。△主席在《致首届全国职业技能大赛的...
- ## [7点见|苏宁称股权质押是正常商业合作；波士顿动力再易手](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=0bn83mWaLIqYpaQwVQGmgwQP5gFNFQPMCCe74PUxzQmpT6PSOLFSFRRfsCnlhPHa06PZEOFOe19x13ELf7CSI16YJQ0Z7ONOv5u0n1HTcLUYibgpK-4s5t2E-9nS6sIY&new=1)
+ ## [7点见|苏宁称股权质押是正常商业合作；波士顿动力再易手](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=0bn83mWaLIqYpaQwVQGmgwQP5gFNFQPMCCe74PUxzQm-X5cpauiVeo8ezgPETNbKLxuKJK0z-4ETMh5qfeYuS2zPaKDg4mZsW-kMwNNTqZYh5-5GFscUEPLmdGAl8SEi&new=1)
  > 各位小伙伴早上好呀！中国地震台网正式测定：12月10日21时19分在台湾宜兰县海域（北纬24.74度，东经121.99度）发生5.8级地震，震源深度80千米。地震造成台北震感强烈，全岛震感明显，福建福州、厦门、泉州等地亦...
- ## [多方发力 新一轮5G建设蓝图加快绘制](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=Aojx1Dd1V4Bksh3nQ1CP6tuELvDT2tMn61OWiNNLJrqKMYd*S61pKQrdA2oIbDHgGnFcjEgatpMP4CebaojwDFHqgDz*8FFW6I47kpV0AmQ=&new=1)
+ ## [多方发力 新一轮5G建设蓝图加快绘制](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=Aojx1Dd1V4Bksh3nQ1CP6tuELvDT2tMn61OWiNNLJrqPZAdPCenPv4MUB1NbC3bM8q*jdPdjm-9i3mcxKdTsIuKAAmlJrh7dFiiZvJTZxTA=&new=1)
  > 原标题：多方发力 新一轮5G建设蓝图加快绘制　　业内称明年新建5G基站或超百万个 高新视频、工业互联网等应用迎新机遇　　面向2021年的5G建设规划正加速制定。记者日前从相关部委、地方政府和电信运营商处获...
- ## [传苹果与台积电合作开发自动驾驶芯片?](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=JEIk3sPj8FqL8pM3ml-NPoUN0ty*1TEkWcNv8Sr3N3MfUNNpmQw8lvWZKyXQIg7-oYPyp4FbjVaETJYs-EBuZ1*m8d*rRYS9-O6Et-ArpxmpEke0hFM9B7YEw10sz-rM&new=1)
+ ## [传苹果与台积电合作开发自动驾驶芯片?](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=JEIk3sPj8FqL8pM3ml-NPoUN0ty*1TEkWcNv8Sr3N3Or5rb0u2KJ6uZtzyxIPB1baKwBo9-iFNZKKSHYsKbzu9niyTzkjNoV*KhihblTUKwo1KJ5CSPnCW8kPaggFLO0&new=1)
  > 根据台湾媒体 Digitimes 报告，苹果正在与台积电（TSMC）合作开发自动驾驶汽车芯片，并探索在美国建立某种工厂的可能性。苹果汽车项目目前的重点是开发自动驾驶技术，这种技术未来可能应用在其他厂商的车型中，...
- ## [中国专利申请量高居榜首，申请量两倍于美国，科技创新力领先日本](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=icFUN*TTFVa578j5dB7lvwZcaXjLJbiIAtaEIJrPDBy3-NnSaS6LDfH5YmfKSpgnu5fC8YxcuHk3eVPzdJ9KCp1x780zDaO9Swxjho*3VkISjHFvwMx1vHnkOo-wKOBr&new=1)
+ ## [中国专利申请量高居榜首，申请量两倍于美国，科技创新力领先日本](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=icFUN*TTFVa578j5dB7lvwZcaXjLJbiIAtaEIJrPDBwVbN8v71ghiYZWOsdUhDfrNx8kYM*nf2JMRMfmfCjtfqYIxOefM2WBp2Vl98Zsv13Vj085OMC7qXI3-WSlOyuV&new=1)
  > 新华社引述自世界知识产权组织近日发布的数据指出，预计今年全球由于疫情的影响，专利申请量可能出现下滑，不过截至11月的数据显示专利申请量下滑幅度比预期的小，而中国的专利申请量将继续位居全球第一，如此中...
- ## [大数据城市网络安全指数贵阳居首](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=*zQYjY-xGZzl-HtP9A2OalsC8Ux6c7qDjESMjleMIUSsrnx38D4l6YvSGIGpAP*43zluSRSy3GnhauGoBv1eYL6JM8IOaGirPVX8GrWZnT4=&new=1)
+ ## [大数据城市网络安全指数贵阳居首](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=*zQYjY-xGZzl-HtP9A2OalsC8Ux6c7qDjESMjleMIURCDvL9oiGSZU8m7qOGNFag4x3UxyQE0BI5K0nTDSNrsBblJt5WPdSRHiUs9v0cvXo=&new=1)
  > 本报讯 12月10日，《国家大数据（贵州）综合试验区城市大数据及网络安全指数》在2020贵阳大数据及网络安全精英对抗演练总结会上发布，贵阳市、遵义市和六盘水市在贵州的大数据城市网络安全指数中排名前...
- ## [第一届全国技能大赛云计算赛项以云创云计算实训平台为比赛平台](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=XLR6bhw40JLrWuGbN3IbqtnGuBZVBuAnkpZVS6DMH8dHRI8GUip2M4*4rA7lydn*fWdSYI32dmyJvRJPOGBLHXwLfuB9oD4R1HxW9pCMbEGL7B3OeGg591wiZTP09W9J&new=1)
+ ## [第一届全国技能大赛云计算赛项以云创云计算实训平台为比赛平台](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=XLR6bhw40JLrWuGbN3IbqtnGuBZVBuAnkpZVS6DMH8dbdLznFQ75qUg4GNEOb09NcgXcyTkB1S7HeMhsNEkiuYstb5HvtbjIMM9hmZ4WE0VCH7*nS84GS-HLxzL8jqZO&new=1)
  > 12月10日，中华人民共和国第一届职业技能大赛（简称“第一届全国技能大赛”）在广州琶洲广交会展馆举办。本届大赛为期4天，由人力资源和社会保障部主办，广东省人民政府承办，广东省人力资源和社会保障厅、广州...
- ## [重磅!三大通信运营商协商已达成共识:从互挖墙角转向协同互利，共享竞合!](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=EGTXt8GeKG5Zyjl8-MndeMOQoo872tjXWjh-CvpkCAGdol6OEwuSJHw4KlZ6Ly6q4RpdDhFCTdptLMfrkszhRaMNt-lq6QGLAHm7pocN-aU7I4h5vMQ4Nhh16ONnK2a7&new=1)
+ ## [重磅!三大通信运营商协商已达成共识:从互挖墙角转向协同互利，共享竞合!](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=EGTXt8GeKG5Zyjl8-MndeMOQoo872tjXWjh-CvpkCAHwAPMwhlrTiRwhulg7kDlOpwaNVK7Hu-l9BBhyZZiXZgMY0qiuNeRBGEUNCKG6--y8NQ0oOuRdVOKre-iuNIu3&new=1)
  > 近日，某地市联通、移动、电信三家运营商负责人齐聚XX联通公司，就目前企业转型、市场规范、网络建设等方面展开讨论，形成共识。经过认真分析，会议达成三项共识和决定。一是按照国家规定，规范产品和服务的收费...
- ## [他山之石：韩国LG U+5G发展一路领跑的秘诀](http://mp.weixin.qq.com/s?src=11&timestamp=1607657404&ver=2759&signature=DFBSEIE0xE2K*ULZpuLw5YLoAEuITBTs3t6gj1Z9QiY2SxFirtlyU1maP5UH-T51jvH-68W8VSbNrh7qlKyCV5y4eteK--XNHaiwuhCiCLBagA3QBOIKWB5rlZAESssL&new=1)
+ ## [他山之石：韩国LG U+5G发展一路领跑的秘诀](http://mp.weixin.qq.com/s?src=11&timestamp=1607664604&ver=2759&signature=DFBSEIE0xE2K*ULZpuLw5YLoAEuITBTs3t6gj1Z9QiYIV6II8igjJymyY7mTedebS3MGRPufFgFIOYKLqaVfzANQS6ScjGJDuPIrtVtxLAZbVj1OJ4GotM3Ej*zm-D-x&new=1)
  > 他山之石可以攻玉。韩国5G在应用和市场增长方面全球领先，其背后有什么经验值得借鉴呢？日前，知名分析机构Strategy Analytics最新发布研究报告《LG Uplus 5G战略更新》，通过对韩国5G市场深入洞察，分析了推动...
 # IT 技术 
  ## [值得推荐的优秀物联网测试策略、工具与产品](http://iot.51cto.com/art/202012/634443.htm)
@@ -43,28 +51,28 @@ categories: IT NEWS
  > 2020征文-开发板鸿蒙liteos-a如何启动第一个用户进程Init_lite
  ## [与Kubernetes渐行渐远，Docker未来在哪里？](http://cloud.51cto.com/art/202012/634522.htm)
  > 与Kubernetes渐行渐远，Docker未来在哪里？
- ## [CSS 快速开发入门视频课程](http://fellow.51cto.com/art/202007/622444.htm?qd=51ctojrzd)
- > CSS 快速开发入门视频课程
- ## [Gartner公司概述创建强大的企业云战略的七个步骤](http://cloud.51cto.com/art/202012/634542.htm)
- > 企业创建云计算战略需要什么样的措施才能确保无缝采用和不断发展?根据分析机构Gartner公司的调查，企业需要
- ## [Netty支持哪些I/O模式?](http://developer.51cto.com/art/202012/634544.htm)
- > 阻塞意味着等待，等待就会一直占用该线程，当连接数高时，大多线程又在等待，就会耗尽系统的线程资源。
- ## [在2021年值得关注的7大安全趋势](http://netsecurity.51cto.com/art/202012/634534.htm)
- > 无论科技趋势如何变化，安全性一直是组织IT部门的关注点。行业专家认为，预测安全趋势将永远不会过时，无论
- ## [德国用户受Gootkit及REvil恶意软件威胁](http://netsecurity.51cto.com/art/202012/634530.htm)
- > 早在11月23日，研究人员就收到了一位合作伙伴发出的关于德国Gootkit攻击复发的警报。
- ## [2020征文-TV「续3.1.1 文本组件」不需要背景图，自定义绘制会更好](http://developer.51cto.com/art/202012/634417.htm)
- > 本小节我们对ShapeElement类做具体介绍，在后面的组件中将不在详细介绍，可以根据本节内容自定义不同样式的
- ## [Treap――堆和二叉树的完美结合，性价比极值的搜索树](http://bigdata.51cto.com/art/202012/634526.htm)
- > Treap本质上也是一颗BST(平衡二叉搜索树)，和我们之前介绍的SBT是一样的。但是Treap维持平衡的方法和SBT不
- ## [用三国杀讲分布式算法，舒适了吧？](http://developer.51cto.com/art/202012/634523.htm)
- > 《三国杀》是一款热门的卡牌游戏，结合中国三国时期背景，以身份为线索，以卡牌为形式，益智休闲，老少皆宜
- ## [帮你精通Shell脚本编程：构筑程序基石的7项基本元素](http://developer.51cto.com/art/202012/634524.htm)
- > 本文我们探讨 ShellScript的七项基本元素，希望对你有所帮助。
- ## [免费适用于个人开发者的异常监控服务：sentry](http://netsecurity.51cto.com/art/202012/634518.htm)
- > 随着一些云服务的发展与兴起，应用部署及上线的成本越来越低，甚至可以实现零成本部署。本系列文章将介绍如
- ## [从0学ARM-汇编伪指令、LDS详解](http://developer.51cto.com/art/202012/634519.htm)
- > 对于我们初学者来说要学习哪种风格呢?答案是肯定的，学习GNU风格的汇编代码，因为做Linux驱动开发必须掌握
+ ## [UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03](http://fellow.51cto.com/art/202007/622204.htm?qd=51ctojrzd)
+ > UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03
+ ## [NTT依托思科数字化网络架构为国际学校提供一站式整体解决方案](http://network.51cto.com/art/202012/634430.htm)
+ > NTT作为专注数字化转型的综合服务商通过与客户的深入交流并结合行业成功案例联合思科业务团队为客户提供了
+ ## [AI领域 | 改变游戏规则的十个突破性观点](http://news.51cto.com/art/202012/634569.htm)
+ > 今天，我决定整理一些最有趣的想法和概念的清单（根据我自己的经验），这些想法和概念让我这些年来都坚持不
+ ## [QQ推出9个新表情 网友：“面无表情”有年代感了](http://mobile.51cto.com/app-show-634570.htm)
+ > 近日，腾讯QQ加入了一组新表情，共9个，分别是：无眼笑、敬礼、狂笑、面无表情、摸鱼、魔鬼笑、哦、请、睁
+ ## [物联网关键技术：规则引擎](http://iot.51cto.com/art/202012/634568.htm)
+ > 物联网系统以及各类互联网分布式系统，消息队列是经常用到的中间件技术。在物联网系统中，消息队列一般和规
+ ## [微软：还有人没升级新版Windows10？那只好来硬的了](http://os.51cto.com/art/202012/634565.htm)
+ > 说起微软，我们最快想到的当然就是Windows系统，可以说目前PC电脑绝大部分操作系统用的都是Windows，其在PC
+ ## [学习Java开发是否可以不学习算法知识](http://developer.51cto.com/art/202012/634564.htm)
+ > 首先，如果想在Java开发领域走得更远，或者说想获得高附加值的工作岗位，学习Java开发一定要重视算法相关
+ ## [特朗普没连任，为啥大数据预测不准了？](http://bigdata.51cto.com/art/202012/634562.htm)
+ > 美国总统竞选前，一些国外的大数据预测公司预测特朗普将连任，但是最终拜登当选了，现实打了脸。有些人疑问
+ ## [双十二“剁手季”，这些家用机器人等你“翻牌”](http://ai.51cto.com/art/202012/634560.htm)
+ > 双十一刚过去不久，双十二“剁手季”又已经到来。在2020年最后一个购物节，想必很多人会抓住这次机会，痛快
+ ## [AI会算命分析面相？你可别交“智商税”](http://ai.51cto.com/art/202012/634559.htm)
+ > “大道五十，天衍四九，人遁其一”对未知，人是好奇的，更何况这未知还是与自身相关的，于是算命这一行由
+ ## [什么是RDB和AOF? 一文了解Redis持久化!](http://database.51cto.com/art/202012/634555.htm)
+ > 本文提供Redis持久化技术说明,  建议所有Redis用户阅读. 如果您想更深入了解Redis持久性原理机制和底层持久
  ## [玩转python？一文总结Python入门到进阶的窍门和技巧！（建议收藏）](https://blog.csdn.net/CSDNedu/article/details/109582566)
  > 玩转python？一文总结Python入门到进阶的窍门和技巧！（建议收藏）
  ## [ubuntu 16.04 更改系统语言为简体中文](https://blog.csdn.net/qq_19339041/article/details/80058575)
