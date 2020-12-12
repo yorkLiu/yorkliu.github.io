@@ -1,28 +1,28 @@
 ---
 title: 2020-12-12 IT News
 copyright: true
-date: 2020-12-12 11:34:42
+date: 2020-12-12 13:15:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [突发!苹果一条大消息，芯片巨头立马"崩了"：狂跌850亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=6lmIZNFwhumBkQTfWiUuwaYcP3IX2rhND95Po*s6oUhZ6mclpzSXge3FqKEO5duAhsE2LJS1tnrHuHt5QecZUi5aPlD0B0L7GO760qiQ0dF7SJu9CYO*I585ieqgslai&new=1)
+ ## [突发!苹果一条大消息，芯片巨头立马"崩了"：狂跌850亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=6lmIZNFwhumBkQTfWiUuwaYcP3IX2rhND95Po*s6oUhZ6mclpzSXge3FqKEO5duAfnwI4PFBOnYXu2dN3b45Vuhm7H39wNCoa6yKsQEUbTiD1JWWpOOuk-9IF8LUKP3X&new=1)
  > 中国基金报记者 金宥智苹果在芯片领域又有大动作，芯片巨头高通可能也“招架不住”？股价立马大跌7%。苹果要替代高通芯片？高通大跌7%，市值蒸发850亿苹果还在加速芯片独立的步伐，正在自主研发基带芯片。目前，...
- ## [Formlabs推出用于牙科3D打印的永久冠树脂和软组织包](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=7KbSOz91dKcLPkvA8Lqhj0wF7kHUVgME8mj5voQHYFF4XvNb0otvAZHl-RTHAeOWZOI4IL5JXnlDGj0kLBHjqpEmVGpi4dueOzVghfIeu--6ASW*SK6OJQPZMNv3Xr6Z&new=1)
- > 3D打印机制造商Formlabs在其牙科产品组合中增加了两种新材料：永久冠状树脂和软组织入门套装。前者是由正畸专家BEGO开发的，旨在为客户提供一种低成本的解决方案，以满足不断增长的牙冠市场的需求。同时，Formla...
- ## [太烧钱：金属3D打印批量制造龙头Desktop Metal借壳上市募资5.75亿美元，股价连续大跌](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=6WilHuxgLlf-K6JyNMUWlIhg399zkApRrrV1N0Vw1PR-6mA9NmKnyvT38qw4E09EpuJNk6O7ixFFJaHTJNbnNWCQLQr4hpE*c-6XcIJtmC*7Hg8-EexCURHGcmCNLOBO&new=1)
+ ## [太烧钱：金属3D打印批量制造龙头Desktop Metal借壳上市募资5.75亿美元，股价连续大跌](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=6WilHuxgLlf-K6JyNMUWlIhg399zkApRrrV1N0Vw1PR-6mA9NmKnyvT38qw4E09EwwVCB4kMryqTM*KQIUoIJMlJqlFKWO-DYSc2rRoZCQZo-TyYM8NzLFmpWK9KdRWw&new=1)
  > 南极熊注意到，2020年12月10日，美国Desktop Metal和Trine Acquisition （纽约证券交易所代码：TRNE）已经完成合并， 位于马萨诸塞州伯灵顿的3D打印大规模生产和交钥匙增材制造解决方案的领导者Desktop
- ## [中国电信2020年光缆集采落地：规模7500万芯公里 22家厂商分享25亿大单](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=vW-5Q5bN1LCS2PCqZOpA3A6QDR*vRd2nY2Cb*hYTg-yp0IYaT0ePHM2Oq0MzmlegUf24zLBksQG2CtpaWaRsXrr8ARLaxOgPUClp2ABJfDd*qFNDTSoP8O1Mx5tP2Lxa&new=1)
+ ## [Formlabs推出用于牙科3D打印的永久冠树脂和软组织包](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=7KbSOz91dKcLPkvA8Lqhj0wF7kHUVgME8mj5voQHYFF4XvNb0otvAZHl-RTHAeOWU10p8oe9EW7q7OcVlyH92t48eA4HSGh3bbAB4mHt2ibQ7ZqDN6OHg-0TWt9*jQqn&new=1)
+ > 3D打印机制造商Formlabs在其牙科产品组合中增加了两种新材料：永久冠状树脂和软组织入门套装。前者是由正畸专家BEGO开发的，旨在为客户提供一种低成本的解决方案，以满足不断增长的牙冠市场的需求。同时，Formla...
+ ## [中国电信2020年光缆集采落地：规模7500万芯公里 22家厂商分享25亿大单](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=vW-5Q5bN1LCS2PCqZOpA3A6QDR*vRd2nY2Cb*hYTg-yp0IYaT0ePHM2Oq0Mzmleg1RU1JdfzG2T36-fzOxhGNfRLeVdVq0l7zRtuGG5ltxnh7QYPnieLsNvLjQbtR5cv&new=1)
  > 今日（11日），中国电信公示2020年度室外光缆集采候选人，最终，中天、富通、长飞、亨通、烽火等22家厂商入围。根据评审结果，中标候选人推荐如下：据此前公告显示，本项目采购内容为中国电信集团有限公司和中国...
- ## [社区团购或是互联网企业通过消灭小菜贩，然后再上下压榨获取厚利](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=GXNQDhUyunOD8mF8XAI9mGk0EMJ2sUx-YiCSlN5Xtuhqc6dlhJYPH-upTCEjxWBtN30xs7TWSQyrmgAnOvAuXL9LjNQfKD-GmiHwSHXnVOLHwN16nspnf8crVNZHY*An&new=1)
+ ## [社区团购或是互联网企业通过消灭小菜贩，然后再上下压榨获取厚利](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=GXNQDhUyunOD8mF8XAI9mGk0EMJ2sUx-YiCSlN5Xtuhqc6dlhJYPH-upTCEjxWBtb3LXjcnCA9-oMq3jBPfwSvg83kEYSPVwAtMYOl1qeS-7r4-blxrjccpIfBTvKkNl&new=1)
  > 近期互联网频频宣传几家互联网强企低价杀入社区团购，并提出了许多高大上的目标，打着降低人们生活成本的旗号，然而回顾互联网行业的诸多案例，这很可能会成为互联网企业压榨行业的行为。在过去数年，互联网企业...
- ## [Facebook披露了APT32的真实身份 或与越南政府有关](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=n9YyVCVcng3h*JErKXi6ay2VKGFE7T6ubtg1SY5-oqMbUs8ZAlqG0L6Xpe7a2vEO1MVsg3il*xk5oKaHMUNHTPexSEdKUdpWGpl6Nh*19oGtEklfOvcrr4CmmrhmUX9I&new=1)
+ ## [Facebook披露了APT32的真实身份 或与越南政府有关](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=n9YyVCVcng3h*JErKXi6ay2VKGFE7T6ubtg1SY5-oqMbUs8ZAlqG0L6Xpe7a2vEOK*3CL0DWK93jQcLfxo-4Z5Scb-c3DCINNgGmfulYQ0WVyaSJ8Wz-A*S*jGLBQzkk&new=1)
  > E安全12月12日  据外媒报道，周四，Facebook安全团队发布了一份出人意料的声明，披露了APT32的真实身份。APT32是当今最活跃的由政府支持的黑客组织之一，据信与越南政府有关。“我们的调查将这一活动与CyberOne ...
- ## [AGVS在造纸行业的应用](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=btoataPDnlKG70zWY5X65BEhXPNcVnFHl8GyaVRPF7tVOsHWaz1roidBeggxPGo8CLCi-*z6G2oZkb4KB3pFpqkye-AEZFT2nf7o51ocPnQSsw2-DQQG2e9j-L4ONX4A&new=1)
+ ## [AGVS在造纸行业的应用](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=btoataPDnlKG70zWY5X65BEhXPNcVnFHl8GyaVRPF7tVOsHWaz1roidBeggxPGo8PF09S5U7zN3AcfSHToVW8*CKGcz82zAYvmxXSrljo*Sq-ioMYE7t5LPnSqNhTCG3&new=1)
  > 精彩视频为您准备好了文｜机科发展科技股份有限公司王小铎AGVS是自动化物流系统中的核心组件之一，在生产线的各组成部分之间起到了衔接枢纽的作用，随着工业生产自动化程度提高，AGVS的应用发展前景广阔。本文针...
- ## [高通基带也不行?消息称苹果自研调制解调器以取代高通组件](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=SVPIYFmjZeHsUajua4aj6a0Ge1CRkVeBEwvW8wWVFoOpDdJ4awY5gnklN7MgcGcrsj0u*giJ*6riJT4ulAzZfyqpDXSoE-P7DnglftP8mKWYUyUvD2ApaMIVG1o1UuFX&new=1)
+ ## [高通基带也不行?消息称苹果自研调制解调器以取代高通组件](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=SVPIYFmjZeHsUajua4aj6a0Ge1CRkVeBEwvW8wWVFoOpDdJ4awY5gnklN7MgcGcruADG1i*ateaa72SDLqo-Im6fldZ-evxpApYrF6fB6Xg1TdqCzasqx1isqYQ5CTVS&new=1)
  > 来源：腾讯科技12月11日，据知情人士透露，苹果芯片业务主管周四告诉员工，该公司已经开始为未来设备自研蜂窝调制解调器，以取代高通公司的组件。同时，苹果首席执行官蒂姆·库克（Tim Cook）表示，大多数员工要...
- ## [赋能中国芯创业者!看摩尔精英如何破解中小芯片企业发展难题](http://mp.weixin.qq.com/s?src=11&timestamp=1607743804&ver=2761&signature=fUdaz-MFb3HnLOjwXV*WlsmQ13jH94vQAQ3Dqztx7WlIB4NKxuaHqbnRuQIrjjbw64ntC-I8ZFZCSaWrvCLpaw83Lanb9QgsZdhNiHLrNzA6UL9ON-W3Uz9FUyayNII9&new=1)
+ ## [赋能中国芯创业者!看摩尔精英如何破解中小芯片企业发展难题](http://mp.weixin.qq.com/s?src=11&timestamp=1607749204&ver=2761&signature=fUdaz-MFb3HnLOjwXV*WlsmQ13jH94vQAQ3Dqztx7WlIB4NKxuaHqbnRuQIrjjbwJVi0F2nih4JrD8hAN2ZzMTiF7WELpE4W2LfvI3wYKHGuHcktizdgMC*thjk-ll1v&new=1)
  > 在12月10日于重庆举办的中国集成电路设计业2020年会（ICCAD 2020）高峰论坛上，摩尔精英董事长兼CEO张竞扬发表了“服务中国芯创业者的探索”的专题演讲。以下根据现场演讲整理：“压力山大”是2020年挥之不去的...
 # IT 技术 
  ## [值得推荐的优秀物联网测试策略、工具与产品](http://iot.51cto.com/art/202012/634443.htm)
@@ -39,8 +39,8 @@ categories: IT NEWS
  > 2020征文-开发板鸿蒙liteos-a如何启动第一个用户进程Init_lite
  ## [与Kubernetes渐行渐远，Docker未来在哪里？](http://cloud.51cto.com/art/202012/634522.htm)
  > 与Kubernetes渐行渐远，Docker未来在哪里？
- ## [Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06](http://fellow.51cto.com/art/202008/623590.htm?qd=51ctojrzd)
- > Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06
+ ## [MySQL表分区管理_MySQL数据库性能优化与运维诊断02](http://fellow.51cto.com/art/202008/622840.htm?qd=51ctojrzd)
+ > MySQL表分区管理_MySQL数据库性能优化与运维诊断02
  ## [微信严打第三方链接！违规导流 一律封杀](http://mobile.51cto.com/app-show-634610.htm)
  > 微信安全中心公告称，近期接到大量用户投诉，在微信中打开部分第三方APP链接的时候，会遇到阅读全文时遭弹
  ## [\[记录十三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之购买云服务器和安装mysql](https://blog.csdn.net/gitchatxiaomi/article/details/108423951)
