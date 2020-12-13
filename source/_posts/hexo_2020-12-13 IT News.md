@@ -1,20 +1,20 @@
 ---
 title: 2020-12-13 IT News
 copyright: true
-date: 2020-12-13 08:19:22
+date: 2020-12-13 09:14:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [某地移动公司发年终奖!网友：3岗都这么多了，13岗简直不敢想!](http://mp.weixin.qq.com/s?src=11&timestamp=1607817605&ver=2763&signature=q5Ltquavlr1IRLhl5NPLhdGAQvEeHbXOVhdm5b14OS748OcVqEio8E5XeTbrkCvjkemXL7XAgGKjAEa9IODz375gH-JTprmGc27G7yJSPnA87mIN3KVqfiKKZEh3pT0p&new=1)
- > 截至2020年9月，中国移动的移动客户总数约9.46亿户，其中4G客户总数达到7.70亿户，5G套餐客户总数达到1.14亿户。中国移动有线宽带客户总数达2.04亿户，前三季度净增1717万户。今年前三季度，中国移动实现营运收...
- ## [果然，我们都被5G骗了](http://mp.weixin.qq.com/s?src=11&timestamp=1607817605&ver=2763&signature=ttZ*AnXDBqiCLqOFRP-U1-ANIIyKdRrOJiy3ANdK8pBe35KoC-FxyDmCmLsrijLal-LOgO2050WFS5XLwvh7lsvSfyY3W1aJRNz*7WbuHBy*1L7v26pnlyiBPrZHYxdK&new=1)
- > B站上，何同学那条体验5G的视频里。提到过一个有趣的想法：在5G的浪潮前，回看当年的人们如何畅想4G。他发现，当年的人们猜到4G会带来更快的网速，下电影更快……但没猜到的是，4G会引发移动支付、短视频、外卖...
- ## [全球最强的Risc-v处理器出现，中国或大力度开发替代ARM](http://mp.weixin.qq.com/s?src=11&timestamp=1607817605&ver=2763&signature=cGOfLyt0SJIKKxs4Biv0IkiawECxQiXRiYP5CtSZr5BaApRk*gorW0PapB8mivl0tpxn9PlwwfLwhmR59THVR1DoeiqnSSjo*ZxpvRxBDj55BcNfR5nwdyCscNCVlgiJ&new=1)
+ ## [全球最强的Risc-v处理器出现，中国或大力度开发替代ARM](http://mp.weixin.qq.com/s?src=11&timestamp=1607821205&ver=2763&signature=cGOfLyt0SJIKKxs4Biv0IkiawECxQiXRiYP5CtSZr5DF27bITteR8l2IN5*ulUzLj7WuD1JJXvPdBceBrhguKoRHpxvQ2hrW7QSyOXQKHwD9vphd7F81RF4ZIh-3MgSt&new=1)
  > 据外媒报道指美国芯片企业Micro Magic开发出了全球最快的64位Risc-V处理器，性能比当下性能最强的ARM处理器--苹果M1还要强，而功耗更低。考虑到中国正在努力摆脱对ARM的依赖，中国或许将会进一步加大力度开发Ris...
- ## [突发：中国移动曝重磅调整，该来的总归要来!](http://mp.weixin.qq.com/s?src=11&timestamp=1607817605&ver=2763&signature=sZGGsUj84kDVyzcI8hVVG6tfvvbIVpwrzXjj4wlEAwTQv8DpqQ9VAobQVX0jaou27CovtvMsfiwPrrmR9cbcjJceRwDfgpD7J0ff85WxAuj4SojX9ntEmXpy1iA3hSjd&new=1)
+ ## [突发：中国移动曝重磅调整，该来的总归要来!](http://mp.weixin.qq.com/s?src=11&timestamp=1607821205&ver=2763&signature=sZGGsUj84kDVyzcI8hVVG6tfvvbIVpwrzXjj4wlEAwT8ZDnm*qBQ9u9TgSx1vBPPYGFFtrGQPqjz4Aw0nnYRwLo6MiOlMDXXiUl5xHCGn7A439S1hl0ozIw4k4ztwWc6&new=1)
  > 据悉，中国移动即将成立一个新的专业子公司，中移网维有限公司（暂定，以工商注册信息为准），与网络有关，专门负责网络运维。业内人士认为，通信网络可分为建设和运维两个部分，中国移动集团和各省公司仍将承担...
- ## [中山职院信息工程学院黄春平院长一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1607817605&ver=2763&signature=yHPWGleK5OLBhCq4Nvw7DcmO-HoQgkBqiDshYMbCErbDm-XPOsexeOTVSSLWfeNIjsiZI-JGsTeaV6LSsmsb7SniggszMAjBdv4NlZHvDtpeAL8kEKvp3CqxSTX7RH26&new=1)
+ ## [果然，我们都被5G骗了](http://mp.weixin.qq.com/s?src=11&timestamp=1607821205&ver=2763&signature=ttZ*AnXDBqiCLqOFRP-U1-ANIIyKdRrOJiy3ANdK8pA44aGU9YMHYyNIVbuXu-UWdaKkzDp0jR8jky5fdMaiORrHpDHcA62GPey8Ek2tI*ZiU1yAXPy2WhAja1ybV-he&new=1)
+ > B站上，何同学那条体验5G的视频里。提到过一个有趣的想法：在5G的浪潮前，回看当年的人们如何畅想4G。他发现，当年的人们猜到4G会带来更快的网速，下电影更快……但没猜到的是，4G会引发移动支付、短视频、外卖...
+ ## [某地移动公司发年终奖!网友：3岗都这么多了，13岗简直不敢想!](http://mp.weixin.qq.com/s?src=11&timestamp=1607821205&ver=2763&signature=q5Ltquavlr1IRLhl5NPLhdGAQvEeHbXOVhdm5b14OS766*9vSLb6c*SadU0VptN94pp2CrbxCLzbOcjS8yC5d8EAV3zTj3bflBelhWrb08hHTsfzvCfwVPxFigqInWcj&new=1)
+ > 截至2020年9月，中国移动的移动客户总数约9.46亿户，其中4G客户总数达到7.70亿户，5G套餐客户总数达到1.14亿户。中国移动有线宽带客户总数达2.04亿户，前三季度净增1717万户。今年前三季度，中国移动实现营运收...
+ ## [中山职院信息工程学院黄春平院长一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1607821205&ver=2763&signature=yHPWGleK5OLBhCq4Nvw7DcmO-HoQgkBqiDshYMbCEra2mup5I0d*5NYzcQV4TigF4POA500IG6libDxw2941ZEDVL736AzAB8SiSVe*Xa9bENQVFY0UqtGFeACOPRRVP&new=1)
  > 12月11日下午，中山职业技术学院信息工程学院黄春平院长、万红运主任、刘艳飞主任，以及张彦俊副教授到访，云创大数据总裁刘鹏教授与外联负责人沈大为等共同接待了来宾。此次来宾一行到访，旨在与云创方面就大数...
 # IT 技术 
  ## [值得推荐的优秀物联网测试策略、工具与产品](http://iot.51cto.com/art/202012/634443.htm)
@@ -31,38 +31,38 @@ categories: IT NEWS
  > 2020征文-开发板鸿蒙liteos-a如何启动第一个用户进程Init_lite
  ## [与Kubernetes渐行渐远，Docker未来在哪里？](http://cloud.51cto.com/art/202012/634522.htm)
  > 与Kubernetes渐行渐远，Docker未来在哪里？
- ## [美女讲师教你学Python第一季：基础入门视频教程](http://fellow.51cto.com/art/202008/623597.htm?qd=51ctojrzd)
- > 美女讲师教你学Python第一季：基础入门视频教程
- ## [学JDBC，这一篇就够了](https://blog.csdn.net/qq_43674132/article/details/95171884)
- > 学JDBC，这一篇就够了
- ## [口罩预约管理系统——系统网站实现（前端+PHP+MySQL）](https://blog.csdn.net/Charzous/article/details/108619341)
- > 
+ ## [MySQL培训速成教程（六）：Linux安装MySQL 5.7](http://fellow.51cto.com/art/202007/622200.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（六）：Linux安装MySQL 5.7
+ ## [你期待已久的Vue 3 正式发布啦！](https://blog.csdn.net/CHENXI_0/article/details/108680765)
+ > 你期待已久的Vue 3 正式发布啦！
+ ## [conda常用命令:安装，更新，创建，激活，关闭，查看，卸载，删除，清理，重命名，换源，问题](https://blog.csdn.net/zhayushui/article/details/80433768)
+ > conda常用命令:安装，更新，创建，激活，关闭，查看，卸载，删除，清理，重命名，换源，问题
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [红胖子(红模仿)的博文大全：开发技术集合（包含Qt实用技术、树莓派、三维、OpenCV、OpenGL、ffmpeg、OSG、单片机、软硬结合等等）持续更新中...](https://blog.csdn.net/qq21497936/article/details/102478062)
+ ## [NLP学习路线总结](https://blog.csdn.net/asialee_bird/article/details/85702874)
+ > NLP学习路线总结
+ ## [Flowable 快速入门教程：SpringBoot 集成 Flowable + Flowable Modeler 流程配置可视化（超详细）](https://blog.csdn.net/qq_37143673/article/details/102851433)
  > 
- ## [web前端性能优化，这几点让你的代码质量变高](https://blog.csdn.net/gitchatxiaomi/article/details/108815905)
- > web前端性能优化，这几点让你的代码质量变高
- ## [C++ cin 的详细用法](https://blog.csdn.net/K346K346/article/details/48213811)
- > C++ cin 的详细用法
- ## [Elasticsearch：使用 Elasticsearch 进行地理位置搜索](https://blog.csdn.net/UbuntuTouch/article/details/109359264)
- > Elasticsearch：使用 Elasticsearch 进行地理位置搜索
- ## [我是如何在B站自学Java的？](https://blog.csdn.net/sinat_33921105/article/details/107074763)
+ ## [JavaScript知识点学习笔记-持续更新中](https://blog.csdn.net/qq_27751965/article/details/107681017)
  > 
- ## [Python小游戏：外星人入侵！！！终于完成了！！！](https://blog.csdn.net/weixin_44412311/article/details/106590762)
+ ## [C语言程序设计第五版 谭浩强 第五版课后答案](https://blog.csdn.net/gjggj/article/details/92250696)
+ > C语言程序设计第五版 谭浩强 第五版课后答案
+ ## [基于Unity~UGUI的简单UI框架（附UIFramework源码）](https://blog.csdn.net/qq_34937637/article/details/80374387)
+ > 基于Unity~UGUI的简单UI框架（附UIFramework源码）
+ ## [Python-----线程、进程、协程(主要看代码）](https://blog.csdn.net/xwmwanjy666/article/details/107596478)
  > 
- ## [C++——String类超详细介绍](https://blog.csdn.net/qq_42659468/article/details/90381985)
- > C++——String类超详细介绍
- ## [打破国外垄断，开发中国人自己的编程语言（1）：编写解析表达式的计算器](https://blog.csdn.net/nokiaguy/article/details/107650586)
- > 
- ## [android studio的安装，史上最详细(超多图)！！](https://blog.csdn.net/qq_41976613/article/details/91432304)
- > android studio的安装，史上最详细(超多图)！！
- ## [面试：第十六章：Java中级开发](https://blog.csdn.net/java_wxid/article/details/105087259)
- > 面试：第十六章：Java中级开发
- ## [java反射--框架设计的灵魂](https://blog.csdn.net/big_white_py/article/details/108090375)
- > 
+ ## [【Java并发编程之深入理解】Synchronized的使用](https://blog.csdn.net/zjy15203167987/article/details/82531772)
+ > 【Java并发编程之深入理解】Synchronized的使用
+ ## [干货 | 一文概览主要语义分割网络，FCN、UNet、SegNet、DeepLab 等等等等应有尽有](https://blog.csdn.net/qq_20084101/article/details/80432960)
+ > 干货 | 一文概览主要语义分割网络，FCN、UNet、SegNet、DeepLab 等等等等应有尽有
+ ## [白嫖免费域名＋免费服务器](https://blog.csdn.net/Simon_477/article/details/108989298)
+ > 白嫖免费域名＋免费服务器
+ ## [Bootstrap方法详解——技术与实例](https://blog.csdn.net/baimafujinji/article/details/50554664)
+ > Bootstrap方法详解——技术与实例
+ ## [.NET 5.0 正式版发布了！](https://blog.csdn.net/kebi007/article/details/109616747)
+ > .NET 5.0 正式版发布了！
 # 人工智能 
  ## [Elastic：菜鸟上手指南](https://blog.csdn.net/UbuntuTouch/article/details/102728604)
  > Elastic：菜鸟上手指南
