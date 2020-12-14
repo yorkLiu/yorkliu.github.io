@@ -1,88 +1,96 @@
 ---
 title: 2020-12-14 IT News
 copyright: true
-date: 2020-12-14 09:02:00
+date: 2020-12-14 10:03:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [一分钟产一台车的智能工厂什么样?](http://mp.weixin.qq.com/s?src=11&timestamp=1607907604&ver=2765&signature=PyPnN7UV3WGaQnwjH5HMfliBt2u5KDfYqDpv9NwJR6ipu-WlNAtpzyv2mS4DUzazpWQcVKLcNERvEQEQ5EhEa-tJ-4Xo3mTk2AQiG7OdKnEijYUS-akl9UvuQTSPfGPT&new=1)
+ ## [\[报告\]2020年中国智能车机行业概览(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=SljxAadqBW0-DQpiH9LZuFJRTquA2pJYJAvCQX1T1S3YiHseNswYzXEwkCTau55S5nY-xHplNdZ37zNEeeydIZAiZ6GiFQF5SbNgTA4as60V0hsHtPM*IUBAmS3YqkYl&new=1)
+ > 近年来，中国私家车产量与保有量持续增长，2015-2019年，中国汽车产量由2483.8万辆增长至2572.1万辆，中国私家车保有量由1.3亿辆增长至2.1亿辆，为前装智能车机与后装智能车机市场需求奠定了基础。此外，汽车后...
+ ## [白云十五小智慧校园建设初显成效](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=VnbGIjwnASnbnaFtR2WUOqRJHrq2GihguEUqYvva51S3lvh6h1WF-3xIxjcdCUt2G7sNBy4QsgGESmnY6JpJa1wyaO6s6i8nATGiqmL9AfY=&new=1)
+ > 本报讯 自去年投用以来，白云区第十五小学积极建设智慧校园，目前已初显成效。　　据了解，白云区第十五小学围绕把学校打造成为贵阳市“大数据+人工智能”智慧校园示范工程这一目标，积极推进智慧校园建设。...
+ ## [汪中求：人，机器，机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=37A8aoCVkT-rbaYINICfbPkRCJIVpBeuHZRd4AHUzcBKN*O8vWNS1irp5UwuySNl9fUfqAiUR2NE*CoHge-kRM47r50cQOuLSedIbhKJ53Rx-BZ5b*V2wHjbwsWeZ*uY&new=1)
+ > 机器的大规模使用是在工业革命以后，人类与机器的关系先后形成了四个阶段：一是人开始接触机器，学习使用机器；二是机器逐渐成为劳动的主力，人们已习惯使用机器；三是企业把人“变成”机器，达到人机合一；四是...
+ ## [ECOC PDP!国家信息光电子创新中心重磅发布硅光芯片创新成果](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=hcHIyZBWYgizDtslU7dUYCMvVFlfJB7MdbHLjIy1BgRlCJyO3AsFJI8plg8AWyJ7qqQoqr0p74EKkdPbgw*898u3I6jaf4awYoN0Eh*PVKhcf4rRsyZzPUlcec1tWGqs&new=1)
+ > ICC讯 日前，国家信息光电子创新中心和中信科集团光纤通信技术与网络国家重点实验室在超高速硅光芯片技术方向取得重要进展，首次利用硅光微环调制器产生了200 Gb/s PAM4光信号（此前最高水平为Intel的128Gb/s）...
+ ## [一分钟产一台车的智能工厂什么样?](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=PyPnN7UV3WGaQnwjH5HMfliBt2u5KDfYqDpv9NwJR6gccTT8hZnFrzIaFM7woROzEodbkP5PgLNguhNaBFYzGrSYBr61IOwey8oI8qIrKopq0cSP1L9VqmwJMyBm9xDS&new=1)
  > 一分钟可以用来做什么？可以写12个单词，速读一篇约500字的文章，完成一封邮件的撰写。而当这一分钟有了科技的加持，其所能创造的价值超乎想象。一分钟，蛟龙号最大能下潜50米、复兴号前进5833米、“神威•太湖...
- ## [国外马路打印机，每天铺砖500平方米，工人都要失业了](http://mp.weixin.qq.com/s?src=11&timestamp=1607907604&ver=2765&signature=5DqKXTffha485xlMdIXi4n3m5hDvrWDHOAwVtBxBdfyq56Mkha2HeRduDXP0WmZ*NgEJtG9ge3Ysar1Cw7LMT3ptQkl2RiMb0prFT2BqGzU918JzK0ddBwI9ZXUf-M-l&new=1)
+ ## [国外马路打印机，每天铺砖500平方米，工人都要失业了](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=5DqKXTffha485xlMdIXi4n3m5hDvrWDHOAwVtBxBdfyPu4TaEPU5sqIUjATOEBFYCyF1CgeugpLTUyHvRWzQhgj6k1ZMGYZbwV-MFLtE7U0LbvzDJZieNqUheC*71PJr&new=1)
  > 来自荷兰的自动铺路机车友们，晚上好。提起砖路，车友们脑中出现的肯定是这个，唯美又浪漫~在我国，这些砖路一般都由人工铺设。首先将砖运过来，然后再一块砖一块砖地铺。尽管运输工作现在能让货车完成，但铺设...
- ## [Windows 10X明年春季发布](http://mp.weixin.qq.com/s?src=11&timestamp=1607907604&ver=2765&signature=e4VfXfiKAxXhGyyos7t*BNz7m9oniJjEUi7Tr2futO8J*DqasRD1ZoQsmLZnARSi3utmHyJW4gp1CngfPGcy6G9LxN6ZOUylH23UFzSBBccQBaAuLTWA4Ot9mBfPJwYt&new=1)
+ ## [Windows 10X明年春季发布](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=e4VfXfiKAxXhGyyos7t*BNz7m9oniJjEUi7Tr2futO-Tn6rGqFj9AEYZxSmqPR*P9h1NflHktEOuPKxAGryM9qBAT*FqV8o9n443qaJ9QMCJ5FVcRy-zC2QB-Q864UR1&new=1)
  > 预装Windows 10X的电脑将于2021年春季（4月至6月）上市，目前Windows 10X已完成并准备“发布到生产厂商（RTM）”版本。由于Windows 10的最终版本将会在明年发布，其是Windows操作系统的轻量级版本，基于Wi
- ## [库克在气候峰会发表讲话：再次强调苹果的环保举措](http://mp.weixin.qq.com/s?src=11&timestamp=1607907604&ver=2765&signature=XHr4r*Y31qWmpezBi6vPzU8FAu65pbZIDkel9r3M4j41YfqVwuqOXkFi0I0q3CMEI9j*e9lctmWfBH-QiIvZJSuF884Xhc7546clY*OhqhfqDNGghmTuIMtKaWXAGiVN&new=1)
+ ## [库克在气候峰会发表讲话：再次强调苹果的环保举措](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=XHr4r*Y31qWmpezBi6vPzU8FAu65pbZIDkel9r3M4j5GbyvFjocoRaNHtEnwEIPmK9i95IozpbIgfaiLMDCm6rB7mMC4zfsOeRLtg9novWV4sqtzPKgdMRfnEVzG1l2R&new=1)
  > 库克在准备的讲话中强调了苹果的环保举措，包括其全球设施采用 100％可再生能源提供动力，以及其宏伟的目标，即到 2030 年在整个供应链和产品使用中实现碳中和。上个月，英国议会的环境审计委员会表示，像苹果这...
- ## [飞刀：云原生内存数据库解锁存算一体](http://mp.weixin.qq.com/s?src=11&timestamp=1607907604&ver=2765&signature=QRZzCFK68FTNz311cr2hgVhxHLz-kiVJhuHJe323kPcQBwBE3aaRwRsVxYxx7S10mr9bkNWL*XtjtLfuORqj0gI2WhSkrxHIcRk4JUFYI8mUHhi2AxbMZ0cl9nP9-azm&new=1)
+ ## [飞刀：云原生内存数据库解锁存算一体](http://mp.weixin.qq.com/s?src=11&timestamp=1607911204&ver=2765&signature=QRZzCFK68FTNz311cr2hgVhxHLz-kiVJhuHJe323kPfOCivXMo62jfFPgG9Sv2zrCyDeMxPOvyUDalWGNZcvJWLwWwUJW5-nrN7B3ZelL7FkPkMm-G4r5GAHedtVTgOa&new=1)
  > “内存数据库进入了新阶段，云原生，持久化，融合计算是三大特征”，12月13号，阿里云数据库负责人李飞飞在云内存数据库峰会上表示，经过多年阿里巴巴经济体内应用的验证，今年年初上线的阿里云内存数据库Tair进...
 # IT 技术 
+ ## [程序员有个可爱女朋友是种什么体验？](http://news.51cto.com/art/202012/634643.htm)
+ > 程序员有个可爱女朋友是种什么体验？
+ ## [云成本优化的5大优秀实践](http://cloud.51cto.com/art/202012/634583.htm)
+ > 云成本优化的5大优秀实践
+ ## [嫌浏览器标签太多？这个出色的插件是我的最爱](http://developer.51cto.com/art/202012/634584.htm)
+ > 嫌浏览器标签太多？这个出色的插件是我的最爱
  ## [从P4晋升到P10，我用了10年...](http://news.51cto.com/art/202012/634642.htm)
  > 从P4晋升到P10，我用了10年...
  ## [我用20张图，彻底征服了HTTPS！](http://netsecurity.51cto.com/art/202012/634641.htm)
  > 我用20张图，彻底征服了HTTPS！
- ## [嫌浏览器标签太多？这个出色的插件是我的最爱](http://developer.51cto.com/art/202012/634584.htm)
- > 嫌浏览器标签太多？这个出色的插件是我的最爱
- ## [云成本优化的5大优秀实践](http://cloud.51cto.com/art/202012/634583.htm)
- > 云成本优化的5大优秀实践
+ ## [2020征文-开发板鸿蒙Hi3861之俄罗斯方块小游戏（附源码）](http://developer.51cto.com/art/202012/634566.htm)
+ > 2020征文-开发板鸿蒙Hi3861之俄罗斯方块小游戏（附源码）
  ## [值得推荐的优秀物联网测试策略、工具与产品](http://iot.51cto.com/art/202012/634443.htm)
  > 值得推荐的优秀物联网测试策略、工具与产品
- ## [求求你，别再问我Elasticsearch了！](http://stor.51cto.com/art/202012/634521.htm)
- > 求求你，别再问我Elasticsearch了！
- ## [实时交互式数据可视化工具将重塑现代业务](http://bigdata.51cto.com/art/202012/634441.htm)
- > 实时交互式数据可视化工具将重塑现代业务
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
- ## [2021年面向初学者的5个优秀Linux发行版](http://os.51cto.com/art/202012/634667.htm)
- > 如果您是Linux新手，并且不知道从现有的几十种Linux中选择哪一种，那么这里有一些建议可供您仔细考虑。
- ## [疫情环境下的网络安全趋势和解决方案](http://netsecurity.51cto.com/art/202012/634665.htm)
- > 作为一名与网络安全相关的专业人士，您了解网络安全的重要性。但是，至关重要的是，在当前日益严峻的威胁形
- ## [「奇淫技巧」如何写最少的代码](http://developer.51cto.com/art/202012/634664.htm)
- > 由于性格原因，笔者很难沉下心来进行严肃的系统学习，总是喜欢折腾一些奇淫技巧，非常喜欢代码设计，扣代码
- ## [计算机为什么要从0开始计数？](http://developer.51cto.com/art/202012/634658.htm)
- > 众所周知，计算机是从0开始计数，而不是我们平时常用的从1开始计数，但你有想过为什么吗?
- ## [17个你可能还不知道 JS 技巧！](http://developer.51cto.com/art/202012/634657.htm)
- > 17个你可能还不知道 JS 技巧！你知道吗？
- ## [JDK里面自带了这么多的Exe，你都挨着试过么？](http://developer.51cto.com/art/202012/634656.htm)
- > 话说面试这块，JVM算是一个经典的也是三年必问的知识点了，而且这个知识点算是最重要的一个知识点，你如果
- ## [微软承诺解决 Windows 10 Edge 浏览器标签页过载问题](http://os.51cto.com/art/202012/634653.htm)
- > 12月13日消息 外媒 Windows Latest 报道，安全性和性能提升在网页浏览器中总是受欢迎的，但标签管理和多任
- ## [如何解决 Shell 脚本重复执行的问题](http://os.51cto.com/art/202012/634652.htm)
- > 在开发过程中，经常会使用shell脚本去完成定时备份的任务，普遍的做法是通过系统的定时任务定时执行备份脚
- ## [Windows 10 将允许用户禁用 “摇晃窗口使其他窗口最小化”的功能](http://os.51cto.com/art/202012/634651.htm)
- > 12月14日消息 据外媒 Windowslatest 报道，根据最新 Windows 预览版的参考，Windows 10 的下一次更新将关闭
- ## [使用Redis实现聊天记录转存](http://stor.51cto.com/art/202012/634650.htm)
- > 这几天在实现我开源项目的单聊功能，在实现过程中遇到了需要将聊天记录保存至数据库的问题，在收到消息时肯
- ## [墨刀那些事](https://blog.csdn.net/qq_45742155/article/details/110183102)
- > 墨刀那些事
- ## [PHP 还有未来么，还是 25 岁就“寿终正寝”了？](https://blog.csdn.net/csdnnews/article/details/110085616)
- > PHP 还有未来么，还是 25 岁就“寿终正寝”了？
+ ## [ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09](http://fellow.51cto.com/art/202007/622206.htm?qd=51ctojrzd)
+ > ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09
+ ## [2020征文-手表深鸿会深大小组：鸿蒙HarmonyOS手表游戏之黑白翻棋](http://os.51cto.com/art/202012/634558.htm)
+ > 此次是深鸿会深大小组(Zzt_01-23)学习完HarmonyOS后，自行开发的第一个demo――黑白翻棋，详细讲述了黑白翻
+ ## [VS Code竟然能约会，找对象不看脸，看编程水平](http://news.51cto.com/art/202012/634689.htm)
+ > 为了用最硬核的方式找到男（女）朋友，23岁的程序员Ben Awad在VS Code里打造一个约会软件VSinder。
+ ## [当前学习大数据技术是否已经晚了](http://bigdata.51cto.com/art/202012/634683.htm)
+ > 首先，当前学习大数据并不晚，或者也可以说是正当其时，一方面原因是当前大数据正处在全面落地应用的初期
+ ## [Windows AD域下批量分发安装软件――看这篇就够了](http://os.51cto.com/art/202012/634687.htm)
+ > 本篇分四个大步骤来介绍AD域策略批量分发安装软件。
+ ## [微软已完成并准备好Windows 10X更新：明年春季发布](http://os.51cto.com/art/202012/634682.htm)
+ > 据外媒报道，经过一年的折腾和几个月的沉默，Windows 10X终于完成并准备“发布到生产厂商(RTM)”版本，这
+ ## [AI赋能教育的中国探索](http://ai.51cto.com/art/202012/634679.htm)
+ > 把人工智能装备引入课堂是“智慧教育”的重要形式之一。江苏省宿迁市泗洪县第一实验学校请来机器人“老师”
+ ## [无网络仍可支付 数字人民币价值不可估量](http://blockchain.51cto.com/art/202012/634678.htm)
+ > 继今年10月深圳推出1000万元数字人民币红包之后，苏州的数字人民币红包也来了。此次面向所有符合条件的苏州
+ ## [2021年科技趋势往何方？IEEE 告诉你答案](http://news.51cto.com/art/202012/634677.htm)
+ > 近日，一直致力于通过推动科技进步以造福全人类、全球最大的专业技术组织IEEE（电气电子工程师学会），发布
+ ## [前后端分离必备, Golang Gin中如何使用JWT(JsonWebToken)中间件?](http://developer.51cto.com/art/202012/634676.htm)
+ > JSON Web Token（缩写 JWT）是目前最流行的跨域认证解决方案，也是目前前后端分离项目中普遍使用的认证技术
+ ## [俄罗斯黑客入侵 Microsoft 365，监视美国财政机构数月](http://netsecurity.51cto.com/art/202012/634675.htm)
+ > 据路透社报道，黑客通过入侵美国财政机构安装的 Microsoft 365 的电子邮件，对其进行了数月的监视。黑客能
+ ## [网站前端技术之通俗理解](https://blog.csdn.net/weixin_42660856/article/details/110232679)
+ > 网站前端技术之通俗理解
+ ## [Android UI基础 仿闲鱼发布页](https://blog.csdn.net/weixin_44758662/article/details/108426773)
+ > Android UI基础 仿闲鱼发布页
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [今年最火的 Golang 云原生开源项目，可能就是它了！](https://blog.csdn.net/alisystemsoftware/article/details/110073794)
- > 今年最火的 Golang 云原生开源项目，可能就是它了！
- ## [Postman接口自动化测试实战](https://blog.csdn.net/qq_39680564/article/details/108116659)
- > 
- ## [基于redis的分布式锁详解](https://blog.csdn.net/liuxingjiaoyuC/article/details/109286819)
- > 基于redis的分布式锁详解
- ## [史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）](https://blog.csdn.net/qq_44543508/article/details/100192558)
- > 史上最详细的IDEA优雅整合Maven+SSM框架（详细思路+附带源码）
- ## [---python基础（十九）：模块](https://blog.csdn.net/weixin_44571270/article/details/106071297)
- > 
- ## [Bootstrap方法详解——技术与实例](https://blog.csdn.net/baimafujinji/article/details/50554664)
- > Bootstrap方法详解——技术与实例
- ## [吃透Java IO：字节流、字符流、缓冲流](https://blog.csdn.net/mu_wind/article/details/108674284)
- > 
- ## [YOLO系列之yolo v1](https://blog.csdn.net/leviopku/article/details/82588059)
- > YOLO系列之yolo v1
- ## [c++11 之emplace_back 与 push_back的区别](https://blog.csdn.net/p942005405/article/details/84764104)
- > c++11 之emplace_back 与 push_back的区别
- ## [用 Python 实现扫雷小游戏](https://blog.csdn.net/weixin_48923393/article/details/109213602)
- > 用 Python 实现扫雷小游戏
- ## [java反射--框架设计的灵魂](https://blog.csdn.net/big_white_py/article/details/108090375)
- > 
+ ## [C做一个贪吃蛇小游戏](https://blog.csdn.net/weixin_45005931/article/details/109446742)
+ > C做一个贪吃蛇小游戏
+ ## [R语言数据缺失值处理（随机森林，多重插补）](https://blog.csdn.net/qq_44877251/article/details/110520177)
+ > R语言数据缺失值处理（随机森林，多重插补）
+ ## [三个数比较大小——C语言经典题目](https://blog.csdn.net/Outins/article/details/68070672)
+ > 三个数比较大小——C语言经典题目
+ ## [C实现学生学籍管理系统 （Mysql）](https://blog.csdn.net/Anterior_condyle/article/details/109898198)
+ > C实现学生学籍管理系统 （Mysql）
+ ## [pyqt5实例——pycharm实现猜数游戏](https://blog.csdn.net/qq_35259785/article/details/110739511)
+ > pyqt5实例——pycharm实现猜数游戏
+ ## [网关解决Response to preflight request doesn‘t pass access control check: It does not have HTTP ok status](https://blog.csdn.net/qq_31122833/article/details/109807367)
+ > 网关解决Response to preflight request doesn‘t pass access control check: It does not have HTTP ok status
+ ## [Python之数据合并](https://blog.csdn.net/Jormungand_V/article/details/109819547)
+ > Python之数据合并
+ ## [物联网专业本科毕业论文选题](https://blog.csdn.net/qq_23519935/article/details/109626751)
+ > 物联网专业本科毕业论文选题
+ ## [Android仿抖音主页效果实现](https://blog.csdn.net/JArchie520/article/details/110791624)
+ > Android仿抖音主页效果实现
+ ## [Android音乐播放器开发(5)—播放界面](https://blog.csdn.net/cun_king/article/details/109663561)
+ > Android音乐播放器开发(5)—播放界面
+ ## [代码可直接运行：利用深度学习进行股票预测，支持pytorch,keras和tensorflow](https://blog.csdn.net/songyunli1111/article/details/78513811)
+ > 代码可直接运行：利用深度学习进行股票预测，支持pytorch,keras和tensorflow
 # 人工智能 
  ## [Elastic：菜鸟上手指南](https://blog.csdn.net/UbuntuTouch/article/details/102728604)
  > Elastic：菜鸟上手指南
