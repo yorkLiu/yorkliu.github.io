@@ -1,38 +1,48 @@
 ---
 title: 2020-12-14 IT News
 copyright: true
-date: 2020-12-14 12:03:14
+date: 2020-12-14 17:13:37
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [白云十五小智慧校园建设初显成效](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=VnbGIjwnASnbnaFtR2WUOqRJHrq2GihguEUqYvva51QswrkvqOdkbr9TNkLGk0gcq0uJXlRCdhfmmUwdLSrB3mn-mxlZeLsqe6X-0fAEjQ8=&new=1)
- > 本报讯 自去年投用以来，白云区第十五小学积极建设智慧校园，目前已初显成效。　　据了解，白云区第十五小学围绕把学校打造成为贵阳市“大数据+人工智能”智慧校园示范工程这一目标，积极推进智慧校园建设。...
- ## [2020年全球3D打印融资事件盘点，总额超200亿元，加速蜕变](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=Gggi2vcnpAEWrqP00USwC3vVE6VnvpiwgjVhMotuGmPSEERPfh76v8-dOI3RkKWkSIM55OIX6ITmWYnuN6UZeVFNl-tTMMZJmgRucf1uuSCUKaWNZbGOQ32kDpd6nVEW&new=1)
- > 导读：2020年，全球3D打印领域融资金额超过200亿元（文末有“2020年全球3D打印投融资事件汇总.PDF”下载）。创业者奋力前行开创制造技术新局面的努力，在一个黑天鹅满天飞的年代，得到投资者义无反顾的助力，很...
- ## [人脸识别，那些你不知道的事|E周刊](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=KucFCINJZ6vMBSQejQXuPAfZG*eb3p4PZtH8BVm2n4Hv-RmLlTC1qoVPqIDjRmplONurjjvBUbSSluTzUdIzLHX5OZpqCCuDp6O2jMXlaoX2kLb9-LDYU4oRKtk7KLYz&new=1)
- > E安全12月14日讯 近日，广西南宁十几名业主“刷脸”卖房被骗超千万元，受害人达数十人之多；早前，“某市民为防止人脸识别戴头盔逛售楼处”、“人脸识别第一案”法院判决杭州野生动物世界删除原告办理指纹年卡时...
- ## [中国联通与美团签署战略合作协议 全面推进5G生态建设](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=vVZP3RPiWlODdoKMwWUlJyOyzQgEnl4zeDNBnW7uUP1ptWxHd2AXBtx2dzVgx4mBsnwMiUknSMI68Fr0m7kkOjv2JfeLkbubrVOjSl-ZwIdG0CYvow9flkVpLj1jdqNF&new=1)
+ ## [中国联通与美团签署战略合作协议 全面推进5G生态建设](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=vVZP3RPiWlODdoKMwWUlJyOyzQgEnl4zeDNBnW7uUP3jTlJ9tRSXKY4d4xdrwmwO8oBOxoB3SJ*bm3WulUguJt2fe06uviAQf-jOsB6r5rM4lxuHtzp8rrkGm7AwvShS&new=1)
  > 12月11日，中国联通与美团签署战略合作框架协议。双方基于各自领域的主营业务与资源优势，围绕5G、物联网、大数据等领域展开深度合作，建立长期双赢的战略合作伙伴关系。中国联通副总经理梁宝俊，美团副总裁李树...
- ## [汪中求：人，机器，机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=37A8aoCVkT-rbaYINICfbPkRCJIVpBeuHZRd4AHUzcBKN*O8vWNS1irp5UwuySNl8rn-6we-BCT1xS5S0Eor-4QUa-ybJzfIVUrrfYY-OVQ7*hV0qb6TgkIh8VKGYyPK&new=1)
+ ## [“新基建”为高质量发展注入强劲动力](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=VnbGIjwnASnbnaFtR2WUOqRJHrq2GihguEUqYvva51SzMP0h84d9LpRJT6*eWlH-rNB5UHwU5wVatcakPEve7XQHKxsaMoOWyMjTW-f7tsU=&new=1)
+ > 贵安新区：　　本报讯 12月9日，在北京国家会议中心召开的第十五届中国IDC产业年度大典上，贵安新区荣获“2020年度中国数据中心新基建先锋城市园区奖”。近年来，以5G网络、数据中心、工业互联网建设等为代...
+ ## [周末借朋友 iPhone 拍了几百张照片，打算传回一加手机，怎么办?](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=9WNsZneSW7mQLURl**FgihD4nlX4myS8Jb6zMC7FAAQg4k-7we2nSipoUOfxovG*eJV*wS0dUgiqKC2XDgUf3jCwK6WvNE6rFhGfBOc0VcQ2A26AjMgi-tA6qY*9SKjG&new=1)
+ > 来自微博同学的提问：想问个 iPhone 照片传输的问题，周末去博物馆用朋友 iPhone 拍了几百张照片，打算回去传到我一加手机，传的时候发现问题大了，Google 半天也没找到无损传输的方法，想问问除了电脑没其他办...
+ ## [月产能超10万片!SK海力士无锡M8投产，全球8英寸晶圆缺货问题能否缓解?](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=eSXnOwiwVSENbdQwf05ODiPVHRinrGTeYl73K2jRAoWszS6KzEncs0iDFGOvZcHq72vBa6mIktFF6bzd9ETeVDzokNZjUZfc0dQFdc5JANlTCQG1AvArTG37ofpT5gbE&new=1)
+ > 近日，SK海力士宣布无锡M8项目正式投产，M8是8英寸晶圆项目，主要涉及CIS（摄像电路）、DDI（驱动电路）、PMIC（电源管理集成电路）等代工制造和销售业务。据了解，SK海力士M8项目于2017年12月在无锡签约，总投...
+ ## [2021年的数字化转型趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=sdpj4j8a-dAnS767am0KiwUe03WhTN7piqprkA3I-xDslGXPynuRlKX4KuBDDCDI*ZvakPHCia6MA7vofFZ7VTCeo80*6s1DauTLCTiSbJup4hvevhnWVBtCJOn-kmUs&new=1)
+ > 关键讯息，D1时间送达！随着2021年即将到来，思想领袖开始分享他们对未来工作的预测，以及在2021年将如何发展。本文介绍了他们对数字化转型的看法。2021年数字化转型将如何发展？企业现在正在做什么准备？专家为...
+ ## [2020年全球3D打印融资事件盘点，总额超200亿元，加速蜕变](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=Gggi2vcnpAEWrqP00USwC3vVE6VnvpiwgjVhMotuGmM0ftGGHo5xabayfWB4u4QJ7ALFasKKjg5b9AhLRLqGSEZwCyBsYtCwXKpScAZ9gw63Tyyct*rQgfD-8hvmuYjE&new=1)
+ > 导读：2020年，全球3D打印领域融资金额超过200亿元（文末有“2020年全球3D打印投融资事件汇总.PDF”下载）。创业者奋力前行开创制造技术新局面的努力，在一个黑天鹅满天飞的年代，得到投资者义无反顾的助力，很...
+ ## [人脸识别，那些你不知道的事|E周刊](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=KucFCINJZ6vMBSQejQXuPAfZG*eb3p4PZtH8BVm2n4GReusAALFbq4E3dFgd58JeC3hU4ufmC2u5DAsp8hSWopHMSCM12t*3RmsOmn2sNCyHE1aovpEKifSiF5t*fkR8&new=1)
+ > E安全12月14日讯 近日，广西南宁十几名业主“刷脸”卖房被骗超千万元，受害人达数十人之多；早前，“某市民为防止人脸识别戴头盔逛售楼处”、“人脸识别第一案”法院判决杭州野生动物世界删除原告办理指纹年卡时...
+ ## [白云十五小智慧校园建设初显成效](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=VnbGIjwnASnbnaFtR2WUOqRJHrq2GihguEUqYvva51SkJgHUQw6d2QBnj17jO82ox-bkLAHor7BHFpoLrG77Vix02ClUbx30ipj3v60rObM=&new=1)
+ > 本报讯 自去年投用以来，白云区第十五小学积极建设智慧校园，目前已初显成效。　　据了解，白云区第十五小学围绕把学校打造成为贵阳市“大数据+人工智能”智慧校园示范工程这一目标，积极推进智慧校园建设。...
+ ## [汪中求：人，机器，机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=37A8aoCVkT-rbaYINICfbPkRCJIVpBeuHZRd4AHUzcCr8ZNuJ4CbAkSno*3V*hVBUlEvKU4Kzmz*ZFY5FwumdCW2qrurYPAeNnNVxy31Mve0*pcL32xBNWQHlfxJtXzh&new=1)
  > 机器的大规模使用是在工业革命以后，人类与机器的关系先后形成了四个阶段：一是人开始接触机器，学习使用机器；二是机器逐渐成为劳动的主力，人们已习惯使用机器；三是企业把人“变成”机器，达到人机合一；四是...
- ## [ECOC PDP!国家信息光电子创新中心重磅发布硅光芯片创新成果](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=hcHIyZBWYgizDtslU7dUYCMvVFlfJB7MdbHLjIy1BgRlCJyO3AsFJI8plg8AWyJ7tgyX3qbvl7oJ9OZMuUkTFVMMmzyqldT6-Na5b6nv3cqzvKyU*bNMiQktmPD8pN9K&new=1)
+ ## [ECOC PDP!国家信息光电子创新中心重磅发布硅光芯片创新成果](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=hcHIyZBWYgizDtslU7dUYCMvVFlfJB7MdbHLjIy1BgTR82FjYoEnky-gWADRLlMS8qubDxAkSqZQMWF8EGpsDcqU2VN1UiOlbZ9lsEbjPZPnUFs*665obXbOidW1TA*x&new=1)
  > ICC讯 日前，国家信息光电子创新中心和中信科集团光纤通信技术与网络国家重点实验室在超高速硅光芯片技术方向取得重要进展，首次利用硅光微环调制器产生了200 Gb/s PAM4光信号（此前最高水平为Intel的128Gb/s）...
- ## [\[报告\]2020年中国智能车机行业概览(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=SljxAadqBW0-DQpiH9LZuFJRTquA2pJYJAvCQX1T1S3YiHseNswYzXEwkCTau55SIvOtHevaEPiGpWX2Cs31qQyupTEbklCOuBX7OjGZgQAZjrODhcbYVQZZKxnCuDUJ&new=1)
+ ## [\[报告\]2020年中国智能车机行业概览(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=SljxAadqBW0-DQpiH9LZuFJRTquA2pJYJAvCQX1T1S00-*v1zuM*1H0d83NTIUacbHzsItxIPEB5CBqhXnve-VYSzFujRsvyCcH7kkfjXhsPVbYM1uyJE1nZSWGKN8P0&new=1)
  > 近年来，中国私家车产量与保有量持续增长，2015-2019年，中国汽车产量由2483.8万辆增长至2572.1万辆，中国私家车保有量由1.3亿辆增长至2.1亿辆，为前装智能车机与后装智能车机市场需求奠定了基础。此外，汽车后...
- ## [一分钟产一台车的智能工厂什么样?](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=PyPnN7UV3WGaQnwjH5HMfliBt2u5KDfYqDpv9NwJR6gccTT8hZnFrzIaFM7woROzQAe-pEFQ7UfOuH6f1ChZ-P*DzFPPlwroQgWBle*xlktvRhopxnVW-EDp0oWPjZKY&new=1)
+ ## [一分钟产一台车的智能工厂什么样?](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=PyPnN7UV3WGaQnwjH5HMfliBt2u5KDfYqDpv9NwJR6hP*zAUz2f2f8kpCyd0ZLp8L54q5OHKg02N9AWGogECC4WklYd-yl9Td09wwAvN95V2kMavG4lNJNR3mF6uNons&new=1)
  > 一分钟可以用来做什么？可以写12个单词，速读一篇约500字的文章，完成一封邮件的撰写。而当这一分钟有了科技的加持，其所能创造的价值超乎想象。一分钟，蛟龙号最大能下潜50米、复兴号前进5833米、“神威•太湖...
- ## [国外马路打印机，每天铺砖500平方米，工人都要失业了](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=5DqKXTffha485xlMdIXi4n3m5hDvrWDHOAwVtBxBdfyPu4TaEPU5sqIUjATOEBFY6lspVHT0TKv7-oh8si7g1f-xWjFxksvr8R*6GCO5pUa2L3575Uo9wF1gZEtIjJMP&new=1)
+ ## [国外马路打印机，每天铺砖500平方米，工人都要失业了](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=5DqKXTffha485xlMdIXi4n3m5hDvrWDHOAwVtBxBdfwhymxI7Kfww0iAq4C2zepJBAihSvLq6gjLJ4x2A1C04Ivb6cxD0S3Ah-uoY45i4O1fLVQYLR4W4mGBe7z-HIGU&new=1)
  > 来自荷兰的自动铺路机车友们，晚上好。提起砖路，车友们脑中出现的肯定是这个，唯美又浪漫~在我国，这些砖路一般都由人工铺设。首先将砖运过来，然后再一块砖一块砖地铺。尽管运输工作现在能让货车完成，但铺设...
- ## [Windows 10X明年春季发布](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=e4VfXfiKAxXhGyyos7t*BNz7m9oniJjEUi7Tr2futO-Tn6rGqFj9AEYZxSmqPR*PeNxocI12EOEE4M7VBAm4ptE5wVyZAzspeikObp*m1TOkxfqIaKdg8qnkWT**3Lv9&new=1)
+ ## [Windows 10X明年春季发布](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=e4VfXfiKAxXhGyyos7t*BNz7m9oniJjEUi7Tr2futO9--NgqEsUq8kun-pnW8Ol*ZuTf6fd8xtXlEwtsbL6JnwdZicVbdKnOThxvrQgaWFkN4E*L6U2psugmEZOUNwws&new=1)
  > 预装Windows 10X的电脑将于2021年春季（4月至6月）上市，目前Windows 10X已完成并准备“发布到生产厂商（RTM）”版本。由于Windows 10的最终版本将会在明年发布，其是Windows操作系统的轻量级版本，基于Wi
- ## [库克在气候峰会发表讲话：再次强调苹果的环保举措](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=XHr4r*Y31qWmpezBi6vPzU8FAu65pbZIDkel9r3M4j5GbyvFjocoRaNHtEnwEIPmKaUkdmXD9qSCUCn3kFxn325vamS2l72ycqah6L9inT5CEuH-VqAQKfLIU0UKyrpn&new=1)
+ ## [库克在气候峰会发表讲话：再次强调苹果的环保举措](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=XHr4r*Y31qWmpezBi6vPzU8FAu65pbZIDkel9r3M4j7EJzLhM8zNnwuYM7tI8BkL8QkiN2ehiPh7G-aH03Hpa5qRXHEnZjxj9x7ajog1dU79OxvHLeM6YotUjOmsvHy9&new=1)
  > 库克在准备的讲话中强调了苹果的环保举措，包括其全球设施采用 100％可再生能源提供动力，以及其宏伟的目标，即到 2030 年在整个供应链和产品使用中实现碳中和。上个月，英国议会的环境审计委员会表示，像苹果这...
- ## [飞刀：云原生内存数据库解锁存算一体](http://mp.weixin.qq.com/s?src=11&timestamp=1607918405&ver=2765&signature=QRZzCFK68FTNz311cr2hgVhxHLz-kiVJhuHJe323kPfOCivXMo62jfFPgG9Sv2zrhxu-HylrJGTxO4ngHrxiAuby-XVHOZ*ncpI3S8Fv*IcZHG1OjY9hxBKCD6M*lO0I&new=1)
+ ## [飞刀：云原生内存数据库解锁存算一体](http://mp.weixin.qq.com/s?src=11&timestamp=1607936405&ver=2765&signature=QRZzCFK68FTNz311cr2hgVhxHLz-kiVJhuHJe323kPcubD4ZpulgWumu45Z3gw9SqiBHEEGVdWnu7sZGYlawW1OcWyjb43o8rIQnLn*U4TbMP8l5goloa65TWBC6xajE&new=1)
  > “内存数据库进入了新阶段，云原生，持久化，融合计算是三大特征”，12月13号，阿里云数据库负责人李飞飞在云内存数据库峰会上表示，经过多年阿里巴巴经济体内应用的验证，今年年初上线的阿里云内存数据库Tair进...
 # IT 技术 
  ## [云成本优化的5大优秀实践](http://cloud.51cto.com/art/202012/634583.htm)
  > 云成本优化的5大优秀实践
+ ## [如何在Linux终端上漂亮地打印JSON文件](http://os.51cto.com/art/202012/634631.htm)
+ > 如何在Linux终端上漂亮地打印JSON文件
  ## [2020征文-开发板鸿蒙Hi3861之俄罗斯方块小游戏（附源码）](http://developer.51cto.com/art/202012/634566.htm)
  > 2020征文-开发板鸿蒙Hi3861之俄罗斯方块小游戏（附源码）
  ## [我用20张图，彻底征服了HTTPS！](http://netsecurity.51cto.com/art/202012/634641.htm)
@@ -43,30 +53,28 @@ categories: IT NEWS
  > 嫌浏览器标签太多？这个出色的插件是我的最爱
  ## [『AI翻车』事件已超1000+，特斯拉，微软、谷歌、苹果等全部在列](http://news.51cto.com/art/202012/634680.htm)
  > 『AI翻车』事件已超1000+，特斯拉，微软、谷歌、苹果等全部在列
- ## [VS Code竟然能约会，找对象不看脸，看编程水平](http://news.51cto.com/art/202012/634689.htm)
- > VS Code竟然能约会，找对象不看脸，看编程水平
- ## [极简JAVA一：JAVA入门视频课程](http://fellow.51cto.com/art/202008/622836.htm?qd=51ctojrzd)
- > 极简JAVA一：JAVA入门视频课程
- ## [天才还是白痴：有史以来最具争议的神经网络_IT技术周刊第656期](http://news.51cto.com/art/202012/634722.htm)
- > 技术资讯尽在技术周刊
- ## [面试重点： 来说说Dubbo SPI 机制](http://developer.51cto.com/art/202012/634720.htm)
- > SPI是一种简称，全名叫 Service Provider Interface，Java本身提供了一套SPI机制，SPI 的本质是将接口实现
- ## [改变电子商务行业的5种人工智能趋势](http://ai.51cto.com/art/202012/634718.htm)
- > 电子商务公司如今处在技术创新的最前沿，而这些公司也为大数据带来的颠覆性变化感到惊讶。
- ## [从汗水物流到智慧物流，物流产业智能化](http://ai.51cto.com/art/202012/634717.htm)
- > 从“汗水物流”到“智慧物流”，从手工作业到智能订制，“无人”技术正在加快推动传统产业智能化，为经济增
- ## [微软公司与德国电信达成一项为期7年的云计算协议](http://cloud.51cto.com/art/202012/634714.htm)
- > 据报道，微软公司和德国电信(Deutsche Telekom)日前宣布达成一项为期7年的云计算协议，该协议扩展了双方的
- ## [恶补了 Python 装饰器的六种写法，你随便问~](http://developer.51cto.com/art/202012/634715.htm)
- > 今天给大家分享一下关于装饰器的知识点，内容非常干，全程高能，认真吸收看完，一定会对装饰器有更深的理解
- ## [云原生主要技术之容器技术-新纪元的分水岭？](http://cloud.51cto.com/art/202012/634713.htm)
- > 容器的出现，是原有基于虚拟机的云主机应用，彻底转变为更加灵活和轻量的“容器+编排调度”的云平台应用。
- ## [只需4步，Windows10电脑开机“自动”清理回收站！](http://os.51cto.com/art/202012/634710.htm)
- > 由于微信公众号出现了 “乱序” 排列的状况，为了朋友们能第一时间，收到我的推送文章。希望您抽出一分钟，
- ## [Comcast的IT部门是如何从订单接受者转变为创新者的](http://www.cioage.com/art/202012/634706.htm)
- > Comcast的执行副总裁兼首席信息官Rick Rioboli讨论了转向目标架构的重要性，他的清洁数据战略，以及他是如
- ## [智能化时代的到来，智能机器人会抢走我们的工作和收入吗？](http://ai.51cto.com/art/202012/634705.htm)
- > 随着智能化社会的到来，智能机器人将越来越多的出现在我们的生活工作中，很多人担心智能机器人会夺走我们的
+ ## [2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】](http://fellow.51cto.com/art/202007/622446.htm?qd=51ctojrzd)
+ > 2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】
+ ## [工业物联网网关的四个核心功能技术](http://iot.51cto.com/art/202012/634772.htm)
+ > 工业物联网网关可以实时、准确、自动地为整个数据信息提供及时、有效和真实的反应，以此有利于实现物联网间
+ ## [微软发布 PowerShell Crescendo 预览版：本机命令安装包](http://os.51cto.com/art/202012/634771.htm)
+ > 12月14日消息 微软近期通过博客发布了 PowerShell Crescendo 预览版，这是一款本机命令的安装包，一款面向
+ ## [Python-Wechaty: 面向IM软件的聊天机器人框架](http://developer.51cto.com/art/202012/634770.htm)
+ > python-wechaty项目源于wechaty，甚至说很大程度上代码是直接从其翻译过来的，然后加上一些python的特性，
+ ## [Node.js 服务性能翻倍的秘密（一）](http://developer.51cto.com/art/202012/634768.htm)
+ > 用过 Node.js 开发过的同学肯定都上手过 koa，因为他简单优雅的写法，再加上丰富的社区生态，而且现存的许
+ ## [消息称 微软WINDOWS 10X操作系统将于明年春季发布](http://os.51cto.com/art/202012/634767.htm)
+ > windowslatest消息人士称，经过一年的跳票和几个月的沉寂，微软的Windows 10X已经完成了最终定稿。这是Win
+ ## [云原生发展趋势浅谈](http://cloud.51cto.com/art/202012/634766.htm)
+ > 随着云架构的不断普及，“未来的软件一定生长于云上”的理念被越来越多的人所接受。云提供了一种面向企业应
+ ## [物流机器人站上风口！未来市场增长获双引擎加持](http://ai.51cto.com/art/202012/634765.htm)
+ > 越来越多的物流企业、电商企业、科技企业、制造企业等都更愿意积极利用新技术、新模式来推动物流机器人研发
+ ## [运营商发力5G专网 边缘计算能否助一臂之力](http://network.51cto.com/art/202012/634764.htm)
+ > 如今，面向垂直行业提供定制化专网能力已成趋势，三大运营商纷纷推出定制化5G专网，其中，边缘计算的重要性
+ ## [5G时代就要到，6G没影子](http://network.51cto.com/art/202012/634761.htm)
+ > 2020年大数据科技传播与应用高峰论坛上有人表示，5G中国人走在前面，但是天上的6G通讯美国人还是在我们前面
+ ## [大数据开发为什么要参加系统学习呢？](http://cloud.51cto.com/art/202012/634760.htm)
+ > 大数据开发为什么要参加系统学习呢?自从发展大数据产业被写入政府工作报告、BAT高薪聘请专业大数据人才之后
  ## [网站前端技术之通俗理解](https://blog.csdn.net/weixin_42660856/article/details/110232679)
  > 网站前端技术之通俗理解
  ## [Android UI基础 仿闲鱼发布页](https://blog.csdn.net/weixin_44758662/article/details/108426773)
