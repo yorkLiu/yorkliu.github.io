@@ -1,18 +1,26 @@
 ---
 title: 2020-12-15 IT News
 copyright: true
-date: 2020-12-15 08:53:12
+date: 2020-12-15 09:43:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [观察|芯片竞赛：怎样不被别人踢掉梯子?](http://mp.weixin.qq.com/s?src=11&timestamp=1607992205&ver=2767&signature=AVTWw*olGVOzckJV0mT4QbRGnXDH6FqDqRaiAf0PMMhQ2yxPJ8NWZHrv3Ei4BHytOK-odU6D07JRgWNvXuVOcUtrRexipVfGLLFFckC3H1E2uRWRMY93lcWo0Er5-fnm&new=1)
+ ## [贵州大数据领域 再添国家级平台](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=lMOZ9Z8QIbfZ5oQkogybYIQV3CT7J7jfaYUS30FTCrdehDaUoMtiuBYYOsUXRuUyZaIfMOXdCCVandyHkXzB8t0vz*vrqfPpgZvrt5plBbs=&new=1)
+ > 首个大数据领域国家工程实验室通过建设验收　　本报讯 记者从贵州省人民政府网获悉，近日，贵州省获批筹建的首个大数据领域国家工程实验室——提升政府治理能力大数据应用技术国家工程实验室顺利完成筹建任...
+ ## [\[报告\]2020上汽集团创新转型研究(附53页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=T6dvFkh4abTFeguzzZ1eir3J3eT-DuB-rLl2lJoOdU6AbAVAM86D5jiOZaZufG*iCm-5oCHXmw*OoFWVlgcUSYN4PFjM1AbEYUkC6y3AB8NxQC7DZKZS0EbSg4SV1-Ga&new=1)
+ > 2010至2020年间，上汽集团为了顺应市场变化、扩大公司业务基盘、加快可持续发展升级，在业务重点、业务模式、业务范围等层面进行的创新转型举措。亿欧智库以上汽集团自身的发展现状作为切入点，结合上汽集团的转...
+ ## [1月14日|2021讯石厦门光通信高峰论坛暨年度总结会隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=TBGtFal9zwBstqBKleLVoxWPhzLbaSgXWIUIC6-FiyWxL1vuVFf2TAVls5--ViCpd5p8cattBd0kDet53tIPGwX-3w2tL*w6kJQh4RWPSkvVZokoileUY4T*KN0XQDDO&new=1)
+ > 新闻导读5G光通，承载未来!2021年1月14日，由深圳市讯石信息咨询有限公司主办，厦门市三安集成电路有限公司协办的“2021讯石厦门光通信高峰论坛暨年度总结会”将在厦门举办，汇聚光通讯产业链，总结2020年5G、数...
+ ## [7点见|摩拜App停止服务和运营；苹果调查印度工厂被砸；张近东回应苏宁风波](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=ESvmNEaoWWNJ5NTtIcfOknyjSvywK6-X30tK06TYkbmLNOE9sVuBxRhtGPzzvTkTpspxPNDznalYjs77ZZMHipHPsB4ZrhTGCHfdYVCY-Al*DvnkCK2wifRstzTUPLoC&new=1)
+ > 各位小伙伴早上好呀！据彭博报道，欧盟即将制定的反垄断新法规草案显示，被欧盟视为“数字看门人”的科技巨头，如果在市场中造成不公平现象或不履行某些义务，可能将面临高达年收入10%的罚款。关于“数字看门人...
+ ## [观察|芯片竞赛：怎样不被别人踢掉梯子?](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=AVTWw*olGVOzckJV0mT4QbRGnXDH6FqDqRaiAf0PMMhQ2yxPJ8NWZHrv3Ei4BHytf94gtgd*JWh14riwyW-h*GPSjZXbKyjttXrev-GoIDD7j*ho6jynw5ntp838ReXO&new=1)
  > 全文6434字  |  阅读13分钟建立可持续发展的造芯观。作者 | 张诚信编辑 | 熊文明、刘爱国数据支持 | 钛禾产业研究院大国产业No.09“这是一种十分寻常的巧妙手法，当一个人已经攀上高峰以后，就会把之前所使用的...
- ## [Windows 10 ARM Build 21227加入x64模拟器支持](http://mp.weixin.qq.com/s?src=11&timestamp=1607992205&ver=2767&signature=5ziGRmaVWnCzFXrNPKUuw4z-hU3ZhggblZemY5yWrdrLq3Y9Cl1QEbBWb29k-ZaRVM7qfJ6cJsPeC1V0Wl0JB-ANYNq6u5VOTaajLQa9U6Av3sUURvitXODUx*ETlUl3&new=1)
+ ## [Windows 10 ARM Build 21227加入x64模拟器支持](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=5ziGRmaVWnCzFXrNPKUuw4z-hU3ZhggblZemY5yWrdrLq3Y9Cl1QEbBWb29k-ZaRnJOgtpXZigppengfFxUD0v*vtzTm1i1zEjU5qZIrg2LNi40QqbYG5tS6aSbJMgnH&new=1)
  > 微软发布了面向Dev通道Windows Insider成员Windows 10 ARM Build 21227版本更新。该版本更新后，Insider成员可以在Windows 10 on ARM设备上安装X64程序。从Microsoft St
- ## [多个发达国家陷入断网泥潭，保持开放多元市场才能更好应对](http://mp.weixin.qq.com/s?src=11&timestamp=1607992205&ver=2767&signature=rmGmwHSKnzS7IGzBnwLx6lJP8R-GmfJg6szhE4qBin5*nMDaES0u7skJ7E3KmZi2LWLVL9mREW-I4tfjjA0tVRUEPSuPSQ1NL6nHhXzbOcGImNtPDGondEy5X5NebEXs&new=1)
+ ## [多个发达国家陷入断网泥潭，保持开放多元市场才能更好应对](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=rmGmwHSKnzS7IGzBnwLx6lJP8R-GmfJg6szhE4qBin5*nMDaES0u7skJ7E3KmZi2RQbUYlAcAGuAR7g-OgMuL0EJd4LGgHkt0-q9HloEm*QZVTTtA7BLp0QJF0YAxSMJ&new=1)
  > 近期，国外发生多起断网事件，11月底，德国沃达丰出现持续超3小时的大面积断网，超10万手机用户无线接入网络。12月1日，瑞典有运营商断网半小时，影响超过20万人……当今社会，网络已和阳光、食物一样重要，如果...
- ## [子弹上膛!激光雷达下半场：前装量产高地之争](http://mp.weixin.qq.com/s?src=11&timestamp=1607992205&ver=2767&signature=A0eTXliQ3MT12pMNHqHsRlhda5Ayy8JwyiT*-v4OlF-uRnvQSSlbPqJujAEYtw7vq4o2h9P*vyXK1rvk9Y*TJOj2gL5HFka-A1haSQ4f5CFzI2n5h82AjZybrtGdweJm&new=1)
+ ## [子弹上膛!激光雷达下半场：前装量产高地之争](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=A0eTXliQ3MT12pMNHqHsRlhda5Ayy8JwyiT*-v4OlF-uRnvQSSlbPqJujAEYtw7vxYOn9DMPHDezVxMXKnX1DXersYgaX0dbY5j0kGK0hg5wXvE*3gvJy*-TqmhWmpCw&new=1)
  > 被埃隆.马斯克diss过无数次的激光雷达，即将成为中高端自动驾驶量产车的标配，并且，这一势头已锐不可当。甚至，有一些消费者宁可把购车计划推迟一年时间，也要选择带激光雷达的车。 可以说，特斯拉在过去几年的...
 # IT 技术 
  ## [如何在Ubuntu Server安装没有Docker的Kubernetes？](http://developer.51cto.com/art/202012/634777.htm)
