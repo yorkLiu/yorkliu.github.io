@@ -1,26 +1,32 @@
 ---
 title: 2020-12-15 IT News
 copyright: true
-date: 2020-12-15 09:43:27
+date: 2020-12-15 10:35:37
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [贵州大数据领域 再添国家级平台](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=lMOZ9Z8QIbfZ5oQkogybYIQV3CT7J7jfaYUS30FTCrdehDaUoMtiuBYYOsUXRuUyZaIfMOXdCCVandyHkXzB8t0vz*vrqfPpgZvrt5plBbs=&new=1)
- > 首个大数据领域国家工程实验室通过建设验收　　本报讯 记者从贵州省人民政府网获悉，近日，贵州省获批筹建的首个大数据领域国家工程实验室——提升政府治理能力大数据应用技术国家工程实验室顺利完成筹建任...
- ## [\[报告\]2020上汽集团创新转型研究(附53页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=T6dvFkh4abTFeguzzZ1eir3J3eT-DuB-rLl2lJoOdU6AbAVAM86D5jiOZaZufG*iCm-5oCHXmw*OoFWVlgcUSYN4PFjM1AbEYUkC6y3AB8NxQC7DZKZS0EbSg4SV1-Ga&new=1)
- > 2010至2020年间，上汽集团为了顺应市场变化、扩大公司业务基盘、加快可持续发展升级，在业务重点、业务模式、业务范围等层面进行的创新转型举措。亿欧智库以上汽集团自身的发展现状作为切入点，结合上汽集团的转...
- ## [1月14日|2021讯石厦门光通信高峰论坛暨年度总结会隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=TBGtFal9zwBstqBKleLVoxWPhzLbaSgXWIUIC6-FiyWxL1vuVFf2TAVls5--ViCpd5p8cattBd0kDet53tIPGwX-3w2tL*w6kJQh4RWPSkvVZokoileUY4T*KN0XQDDO&new=1)
- > 新闻导读5G光通，承载未来!2021年1月14日，由深圳市讯石信息咨询有限公司主办，厦门市三安集成电路有限公司协办的“2021讯石厦门光通信高峰论坛暨年度总结会”将在厦门举办，汇聚光通讯产业链，总结2020年5G、数...
- ## [7点见|摩拜App停止服务和运营；苹果调查印度工厂被砸；张近东回应苏宁风波](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=ESvmNEaoWWNJ5NTtIcfOknyjSvywK6-X30tK06TYkbmLNOE9sVuBxRhtGPzzvTkTpspxPNDznalYjs77ZZMHipHPsB4ZrhTGCHfdYVCY-Al*DvnkCK2wifRstzTUPLoC&new=1)
+ ## [数学家Peter Shor：量子计算机威胁到网络加密，只是时间问题](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=ChZGF6Ptr2TzW2NN5IZ27n4LbLxe2LxO0L--q*D-obOML9nNwpg180YDPu7I9*hcFMPOvVMFXAcFFJcnBA6pkP6NAchtNvN3174l1FaTouX3*IeLeZX6U8fcGiG8UVkR&new=1)
+ > 应用数学家Peter Shor解决了量子计算领域的一个重要问题。来源：BBVA FOUNDATION最近，中国科学技术大学潘建伟、陆朝阳团队构建的一套光量子计算系统，在高斯玻色采样问题上实现量子优越性，求解速度达到目前全...
+ ## [7点见|摩拜App停止服务和运营；苹果调查印度工厂被砸；张近东回应苏宁风波](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=ESvmNEaoWWNJ5NTtIcfOknyjSvywK6-X30tK06TYkbmLNOE9sVuBxRhtGPzzvTkTcX3jpFuVs5sc4HPwghAfk8jJ2dBMNBFUtIQE-dA5qaeUArZNq*nVh2SWrKq6ywjD&new=1)
  > 各位小伙伴早上好呀！据彭博报道，欧盟即将制定的反垄断新法规草案显示，被欧盟视为“数字看门人”的科技巨头，如果在市场中造成不公平现象或不履行某些义务，可能将面临高达年收入10%的罚款。关于“数字看门人...
- ## [观察|芯片竞赛：怎样不被别人踢掉梯子?](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=AVTWw*olGVOzckJV0mT4QbRGnXDH6FqDqRaiAf0PMMhQ2yxPJ8NWZHrv3Ei4BHytf94gtgd*JWh14riwyW-h*GPSjZXbKyjttXrev-GoIDD7j*ho6jynw5ntp838ReXO&new=1)
+ ## [1.8万企业中招!APT29对美国政府发动大规模“日爆”攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=Pyfe8BW6Ah9FmkYwPtPSD15YFu9VC6j9vf6zTbU4WRw3GeV*501nSlHQMTe4Uktcb6CZJC*XvLuDByD6kW8ZtIoKC3wJcKIEPsYcxJwTFouNeK-96desD8r7tdcc*mWG&new=1)
+ > 上周震惊全球网络安全界的FireEye被黑事件只是冰山一角，在攻击FireEye后不到一周时间，俄罗斯黑客组织APT29又入侵了包括美国财政部和商务部在内的多个政府机构。FireEye在周日晚上透露说，攻击者正在使用Orion...
+ ## [贵州大数据领域 再添国家级平台](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=lMOZ9Z8QIbfZ5oQkogybYIQV3CT7J7jfaYUS30FTCrdHbwm*oJsVzLMKxv0dBnYNS-ISFHCDaFX8YVgX9kHeqk0iMUGFT2yuohUdzTBuQQA=&new=1)
+ > 首个大数据领域国家工程实验室通过建设验收　　本报讯 记者从贵州省人民政府网获悉，近日，贵州省获批筹建的首个大数据领域国家工程实验室——提升政府治理能力大数据应用技术国家工程实验室顺利完成筹建任...
+ ## [美国联邦通信委员会驳回华为请求 认定其对美国家安全“构成威胁”](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=-qTtOBYBCT1-fQB2sWixC9-45swJTFG43sADNg*dIySfpVlqZ5nuadPQW*avotJozbdQI*RqAgxtymOQefG8kyXXxikZcuzgJKhoH7mY4r8I07qQxXqFgPIIApo*JNGS&new=1)
+ > E安全12月15日  据外媒报道，上周四，美国联邦通信委员会(FCC)一致否决了中国电信巨头华为重新考虑将其列为国家安全威胁的要求。华为是全球最大的5G设备制造商之一，就在几个月前，美国联邦通讯委员会(FCC)正式...
+ ## [\[报告\]2020上汽集团创新转型研究(附53页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=T6dvFkh4abTFeguzzZ1eir3J3eT-DuB-rLl2lJoOdU6AbAVAM86D5jiOZaZufG*i1HDtoVknozbuKGnZ-DuoaYVPwdPNnwwveeYQUPPK*ZvKTuaSKpVyOoWACrRbfkpo&new=1)
+ > 2010至2020年间，上汽集团为了顺应市场变化、扩大公司业务基盘、加快可持续发展升级，在业务重点、业务模式、业务范围等层面进行的创新转型举措。亿欧智库以上汽集团自身的发展现状作为切入点，结合上汽集团的转...
+ ## [1月14日|2021讯石厦门光通信高峰论坛暨年度总结会隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=TBGtFal9zwBstqBKleLVoxWPhzLbaSgXWIUIC6-FiyWxL1vuVFf2TAVls5--ViCpaoAMnN62JrFzaSdiuVvgU-vBbAVxcE*y-2pml4*AZ2ZlXUTVMSuufBjtcgNqEuML&new=1)
+ > 新闻导读5G光通，承载未来!2021年1月14日，由深圳市讯石信息咨询有限公司主办，厦门市三安集成电路有限公司协办的“2021讯石厦门光通信高峰论坛暨年度总结会”将在厦门举办，汇聚光通讯产业链，总结2020年5G、数...
+ ## [观察|芯片竞赛：怎样不被别人踢掉梯子?](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=AVTWw*olGVOzckJV0mT4QbRGnXDH6FqDqRaiAf0PMMhQ2yxPJ8NWZHrv3Ei4BHytjNMGZcu*tjwOI5Ju3QLU4YnRgDRCmn21G*U*qnW8Ms6pia9wQDfAVbKE0nvZS3K7&new=1)
  > 全文6434字  |  阅读13分钟建立可持续发展的造芯观。作者 | 张诚信编辑 | 熊文明、刘爱国数据支持 | 钛禾产业研究院大国产业No.09“这是一种十分寻常的巧妙手法，当一个人已经攀上高峰以后，就会把之前所使用的...
- ## [Windows 10 ARM Build 21227加入x64模拟器支持](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=5ziGRmaVWnCzFXrNPKUuw4z-hU3ZhggblZemY5yWrdrLq3Y9Cl1QEbBWb29k-ZaRnJOgtpXZigppengfFxUD0v*vtzTm1i1zEjU5qZIrg2LNi40QqbYG5tS6aSbJMgnH&new=1)
+ ## [Windows 10 ARM Build 21227加入x64模拟器支持](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=5ziGRmaVWnCzFXrNPKUuw4z-hU3ZhggblZemY5yWrdrLq3Y9Cl1QEbBWb29k-ZaRButmT4nBMYDAQC3VeV-AFYEgolXtctXIJ-rXCopK2BMLfOq-r*XdfUE3zautglu9&new=1)
  > 微软发布了面向Dev通道Windows Insider成员Windows 10 ARM Build 21227版本更新。该版本更新后，Insider成员可以在Windows 10 on ARM设备上安装X64程序。从Microsoft St
- ## [多个发达国家陷入断网泥潭，保持开放多元市场才能更好应对](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=rmGmwHSKnzS7IGzBnwLx6lJP8R-GmfJg6szhE4qBin5*nMDaES0u7skJ7E3KmZi2RQbUYlAcAGuAR7g-OgMuL0EJd4LGgHkt0-q9HloEm*QZVTTtA7BLp0QJF0YAxSMJ&new=1)
+ ## [多个发达国家陷入断网泥潭，保持开放多元市场才能更好应对](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=rmGmwHSKnzS7IGzBnwLx6lJP8R-GmfJg6szhE4qBin5*nMDaES0u7skJ7E3KmZi2gDLm9lujB5joLQCaPfesYy4IyjxyXf-XeUMYW4fhSGpNlsKdUoaz*wuJWv3NHoZv&new=1)
  > 近期，国外发生多起断网事件，11月底，德国沃达丰出现持续超3小时的大面积断网，超10万手机用户无线接入网络。12月1日，瑞典有运营商断网半小时，影响超过20万人……当今社会，网络已和阳光、食物一样重要，如果...
- ## [子弹上膛!激光雷达下半场：前装量产高地之争](http://mp.weixin.qq.com/s?src=11&timestamp=1607995804&ver=2767&signature=A0eTXliQ3MT12pMNHqHsRlhda5Ayy8JwyiT*-v4OlF-uRnvQSSlbPqJujAEYtw7vxYOn9DMPHDezVxMXKnX1DXersYgaX0dbY5j0kGK0hg5wXvE*3gvJy*-TqmhWmpCw&new=1)
+ ## [子弹上膛!激光雷达下半场：前装量产高地之争](http://mp.weixin.qq.com/s?src=11&timestamp=1607999405&ver=2767&signature=A0eTXliQ3MT12pMNHqHsRlhda5Ayy8JwyiT*-v4OlF-uRnvQSSlbPqJujAEYtw7vsN4Z7NUO0HJCjxtIQX2kX4jw9cuaJVaDMZyysouZ1HJafvqKYyovSbp1Ci6uA1cP&new=1)
  > 被埃隆.马斯克diss过无数次的激光雷达，即将成为中高端自动驾驶量产车的标配，并且，这一势头已锐不可当。甚至，有一些消费者宁可把购车计划推迟一年时间，也要选择带激光雷达的车。 可以说，特斯拉在过去几年的...
 # IT 技术 
  ## [如何在Ubuntu Server安装没有Docker的Kubernetes？](http://developer.51cto.com/art/202012/634777.htm)
@@ -59,66 +65,35 @@ categories: IT NEWS
  > 人工智能在医疗领域的应用主要包括：健康管理、医学影像、药物挖掘、虚拟助理、辅助诊疗、医院管理、辅助医
  ## [Edge浏览器有大Bug？一键修好复制粘贴“错乱”](http://os.51cto.com/art/202012/634797.htm)
  > 最近有朋友向笔者反馈，Edge浏览器的复制粘贴似乎存在一个“Bug”。Edge浏览器的地址栏复制地址，然后粘贴
- ## [帮你彻底搞懂JS中的prototype、__proto__与constructor（图解）](https://blog.csdn.net/cc18868876837/article/details/81211729)
- > 帮你彻底搞懂JS中的prototype、__proto__与constructor（图解）
- ## [梯度下降算法原理讲解——机器学习](https://blog.csdn.net/qq_41800366/article/details/86583789)
- > 梯度下降算法原理讲解——机器学习
+ ## [七天学会JavaScript~Day1](https://blog.csdn.net/qq_41424688/article/details/108891135)
+ > 七天学会JavaScript~Day1
+ ## [1+X Web前端等级考证 | 2020 12月Web前端开发中级理论 (试卷4) 附答案](https://blog.csdn.net/weixin_43853746/article/details/109752094)
+ > 1+X Web前端等级考证 | 2020 12月Web前端开发中级理论 (试卷4) 附答案
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [ThinkPHP6项目基操（11.实战部分 部署后台静态页面模板及后台登录页面）](https://blog.csdn.net/zy1281539626/article/details/110500158)
- > ThinkPHP6项目基操（11.实战部分 部署后台静态页面模板及后台登录页面）
- ## [C宿舍管理系统（C课程设计含源码）](https://blog.csdn.net/robot_sh/article/details/110502515)
- > C宿舍管理系统（C课程设计含源码）
- ## [Python GUI编程之PyQT5入门到实战](https://blog.csdn.net/Thanlon/article/details/103916371)
- > Python GUI编程之PyQT5入门到实战
- ## [2020年前端面试题及答案](https://blog.csdn.net/Raleway/article/details/104268283)
+ ## [我的大学生涯（大二腾讯校招实习生）](https://blog.csdn.net/weixin_43882276/article/details/105571343)
  > 
- ## [SpringBoot2.0集成WebSocket，实现后台向前端推送信息](https://blog.csdn.net/moshowgame/article/details/80275084)
- > SpringBoot2.0集成WebSocket，实现后台向前端推送信息
- ## [网站前端技术之通俗理解](https://blog.csdn.net/weixin_42660856/article/details/110232679)
- > 网站前端技术之通俗理解
- ## [C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）](https://blog.csdn.net/weixin_44044411/article/details/104276757)
- > C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）
- ## [Vue + Spring Boot 项目实战（一）：项目简介](https://blog.csdn.net/Neuf_Soleil/article/details/88925013)
- > Vue + Spring Boot 项目实战（一）：项目简介
- ## [Auto.js实现自动刷视频，点赞脚本（一）](https://blog.csdn.net/weixin_41933850/article/details/110086377)
- > Auto.js实现自动刷视频，点赞脚本（一）
+ ## [当阿里面试官问我：Java创建线程有几种方式？我就知道问题没那么简单](https://blog.csdn.net/eson_15/article/details/105393279)
+ > 
  ## [Python - 编写可视化界面（Python+PyCharm+PyQt）](https://blog.csdn.net/bailang_zhizun/article/details/79310419)
  > Python - 编写可视化界面（Python+PyCharm+PyQt）
- ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
- > 
-# 人工智能 
- ## [Python进程、线程和协程实战指归](https://blog.csdn.net/xufive/article/details/104633575)
- > Python进程、线程和协程实战指归
- ## [三种操作系统的对比——安卓，鸿蒙，Fuchsia](https://blog.csdn.net/gxc19971128/article/details/104953294)
- > 三种操作系统的对比——安卓，鸿蒙，Fuchsia
- ## [Elasticsearch：Elastic可观测性 - 运用 pipeline 使数据结构化](https://blog.csdn.net/UbuntuTouch/article/details/105790798)
- > 
- ## [记一次Netty连接池FixedChannelPool连接未释放问题的排查总结](https://blog.csdn.net/biaolianlao0449/article/details/108701178)
- > 记一次Netty连接池FixedChannelPool连接未释放问题的排查总结
- ## [【社区分享】从零开始学习 TinyML，建立 TensorFlow 深度学习模型（技术优化篇）](https://blog.csdn.net/tensorflowforum/article/details/109239907)
- > 【社区分享】从零开始学习 TinyML，建立 TensorFlow 深度学习模型（技术优化篇）
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [RBF神经网络理论与实现](https://blog.csdn.net/zb1165048017/article/details/109454797)
- > RBF神经网络理论与实现
- ## [打破科研人员成长道路的思维定势](https://blog.csdn.net/SeaCloudHill/article/details/110122386)
- > 打破科研人员成长道路的思维定势
- ## [CNCF 宣布 etcd 项目毕业！](https://blog.csdn.net/weixin_44100171/article/details/110239547)
- > CNCF 宣布 etcd 项目毕业！
- ## [什么是聚集索引，非聚集索引，索引覆盖，回表，索引下推](https://blog.csdn.net/zzti_erlie/article/details/110501008)
- > 什么是聚集索引，非聚集索引，索引覆盖，回表，索引下推
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [厉害了！打工人用Python分析西安市职位信息](https://blog.csdn.net/qinyuanpei/article/details/110713267)
- > 厉害了！打工人用Python分析西安市职位信息
- ## [Netty4 ChannelHandler 概述](https://blog.csdn.net/prestigeding/article/details/110731038)
- > Netty4 ChannelHandler 概述
- ## [两大AI技术集于一身，有道词典笔3从0到1的飞跃](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/110825141)
- > 两大AI技术集于一身，有道词典笔3从0到1的飞跃
- ## [顺丰快递 : 请收下 MySQL 灵魂十连](https://blog.csdn.net/qq_31821675/article/details/110825701)
+ ## [vue重要知识点](https://blog.csdn.net/qq_40994735/article/details/108797744)
+ > vue重要知识点
+ ## [R语言常用函数总结大全](https://blog.csdn.net/wzgl__wh/article/details/61499027)
+ > R语言常用函数总结大全
+ ## [Spring常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80959716)
+ > Spring常见面试题总结（超详细回答）
+ ## [最简单的matplotlib安装教程](https://blog.csdn.net/zzx2016zzx/article/details/83099583)
+ > 最简单的matplotlib安装教程
+ ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
+ > 详解BP神经网络
+ ## [C++ socket通讯详解及注意事项](https://blog.csdn.net/LYXlyxll/article/details/108225713)
+ > C++ socket通讯详解及注意事项
+ ## [QT5实现串口收发数据（上位机与下位机通信）](https://blog.csdn.net/qq_41429220/article/details/96438473)
+ > QT5实现串口收发数据（上位机与下位机通信）
+ ## [讲道理，只要你是一个爱折腾的程序员，毕业找工作真的不需要再花钱培训！](https://blog.csdn.net/Yao__Shun__Yu/article/details/105871278)
  > 
 
     
