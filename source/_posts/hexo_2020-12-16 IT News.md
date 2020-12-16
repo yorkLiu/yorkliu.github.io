@@ -1,20 +1,26 @@
 ---
 title: 2020-12-16 IT News
 copyright: true
-date: 2020-12-16 08:46:57
+date: 2020-12-16 09:43:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“0基础”也能开发5G运维应用?海峰带你走进GTS开发者训练营!](http://mp.weixin.qq.com/s?src=11&timestamp=1608078605&ver=2769&signature=w4I1bW5VJbl0*qZ19s96GZPv9X-3NnoTv--FSTz89aZAG7TqqgHEg-euIE-jje7nO*hbBonT8YmXEEOIY84LYcVHhQGpgD-UjukYSWm1PQsLDo3vSuAvqwdhuOnD0W-A&new=1)
+ ## [“0基础”也能开发5G运维应用?海峰带你走进GTS开发者训练营!](http://mp.weixin.qq.com/s?src=11&timestamp=1608082204&ver=2769&signature=w4I1bW5VJbl0*qZ19s96GZPv9X-3NnoTv--FSTz89aZfMAqq3TlKJxQ2Vjcv0pisP*klNb9l36L1Gx8pEd8SKfifpXe7e6H9J0gqcTHzpZRQfzdwLC7UZssg4okE0Vm7&new=1)
  > 近日，我来到东莞华为美丽的欧洲小镇，参加2020 GTS合作伙伴大会，包括此次大会下午最具互动性的环节“开发者训练营”。估计很多朋友要问了，华为手机我知道，但华为GTS是什么？GTS指代华为全球技术服务，比如面...
- ## [大反转!华为赢了，国内传来大消息，全世界都安静了!](http://mp.weixin.qq.com/s?src=11&timestamp=1608078605&ver=2769&signature=OkwtqHSd*M0FPtE7-zfLkSjKZsIaeQi0*jaFDXMzcvPj3*BIPgfiTE6HxSCZ8wY*rNBoPQgEjrRWhQDbRajdzUpGbmTylTkt8SEcsI4BnBxVDhO8VrZnsYYoWbYK66U6&new=1)
- > 大雪压青松，青松挺且直！因为美国的芯片封禁措施，令华为手机业务陷入了绝境。不过，正所谓东方不亮西方亮，在另一领域，华为创下了辉煌成绩，彻底碾压了苹果。据报道，华为智能穿戴业务在今年第三季度表现突出...
- ## [高精地图厂商搅局自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1608078605&ver=2769&signature=Xacu-FIrLfDlcnFQkpVq-Spw2gEZF7f*6jNNBvlCXk9xUYaFzGYnfbNQqdG91Z3phJLp*FabLc19Ne82ix3rgsT7audzXY3HwQG3mjw*NOw598Z*iv7b734VvsAhDg3I&new=1)
+ ## [\[报告\]2020年中国智能互联-汽车产业变革研究(附71页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608082204&ver=2769&signature=M71CdOHBkhdGoHqf2H-eqDa444iGhjmSPd-AKHGcoXEO3glF7EzKFhFMCUIwu0vtukqMBnUNvpQcX5p5SuYRJ68i1qqPmVtH6kvhFENPg*7vguaNrHXcte9I2KbBRKSq&new=1)
+ > 本篇报告在第一章将会重点探讨智能汽车技术及产业发展驱动因素，在第二章重点描述汽车电子产业链发展现状及趋势，在第三章根据智能汽车定义，分为“自动驾驶”以及“车联网”两部分探讨智能汽车发展对于汽车产业...
+ ## [高精地图厂商搅局自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1608082204&ver=2769&signature=Xacu-FIrLfDlcnFQkpVq-Spw2gEZF7f*6jNNBvlCXk*yLXFFMYykdfy-dPd8UAXcwAhNHT1ZJdCrDbJVjuCZD0gr0Luu1aAV3S7kRk*J*mWkIIKsrRnbEdKA46*14jOk&new=1)
  > 配图来自Canva可画随着5G以及自动驾驶技术的进步，自动驾驶日益走进了人们的生活。作为与之紧密相关的高精地图技术，也越发受到重视。· 在此背景下，传统图商、整车厂商、初创企业、高科技巨头等众多玩家，纷纷...
- ## [英媒炒作“中国被疑利用手机网络监控美国人”，中企和驻美使馆驳斥](http://mp.weixin.qq.com/s?src=11&timestamp=1608078605&ver=2769&signature=2ZyYIzOWzsPqarVr74JEX1slyGxyG-AnTKrkbplZLhGz4KPiHIqANhBZJwC2UWqxJNuVGL**QESOPW0Qwz1HgtRaQ-rc5gFXJmLhHna5gvE=&new=1)
+ ## [7点见|半导体领军人物蒋尚义重返中芯国际；百度造车传闻推动股价暴涨超13%](http://mp.weixin.qq.com/s?src=11&timestamp=1608082204&ver=2769&signature=pBWSn-MVjEyyDJENt3oY20PjxDVYQVafjiWATxkg86ZXwdGkJWP8ujsE8j0ixKZ7Y0EQAHYk-KuuocVT4cUpCdzXm6sQElE*GYma-69zCHAaTD2m8cLORmJOg1eTd6Nh&new=1)
+ > 各位小伙伴早上好呀！一列时速250公里CR300BF型“复兴号”动车组抵达西安铁路局西安动车段，担负即将开通的银西高铁旅客运输任务，这是该型号动车组在我国的首次上线。该动车组车身采用“海空蓝”颜色涂装，是中...
+ ## [大反转!华为赢了，国内传来大消息，全世界都安静了!](http://mp.weixin.qq.com/s?src=11&timestamp=1608082204&ver=2769&signature=OkwtqHSd*M0FPtE7-zfLkSjKZsIaeQi0*jaFDXMzcvMvIBKtp-w3i29GO8xc7oWtKqQDhI9gbVtwayoIt8TjJl3mJs18moLz7UUOU-DmSTOj1C3R0-Dqd0hDNyUL1KiK&new=1)
+ > 大雪压青松，青松挺且直！因为美国的芯片封禁措施，令华为手机业务陷入了绝境。不过，正所谓东方不亮西方亮，在另一领域，华为创下了辉煌成绩，彻底碾压了苹果。据报道，华为智能穿戴业务在今年第三季度表现突出...
+ ## [英媒炒作“中国被疑利用手机网络监控美国人”，中企和驻美使馆驳斥](http://mp.weixin.qq.com/s?src=11&timestamp=1608082204&ver=2769&signature=2ZyYIzOWzsPqarVr74JEX1slyGxyG-AnTKrkbplZLhErmzbJuVIH3JgcgRETyzsJfOjT5NHdWc5E3yx-I7xcZ41BzAhwKa-P8GDj5K7mPuI=&new=1)
  > 【环球网报道 记者 赵建东】“披露：中国被疑利用加勒比海手机网络监控美国人”，15日，英国《卫报》抛出耸动标题，宣称有“安全专家”通过分析敏感数据得出惊人结论——中国正利用加勒比哈地区的手机网络监控美...
 # IT 技术 
+ ## [走近来自Canonical的轻量级Kubernetes发行版：Microk8s](http://developer.51cto.com/art/202012/635006.htm)
+ > 走近来自Canonical的轻量级Kubernetes发行版：Microk8s
  ## [Windows 10X明年问世：这是我们迄今所知道的](http://os.51cto.com/art/202012/635005.htm)
  > Windows 10X明年问世：这是我们迄今所知道的
  ## [2021年关于Kubernetes发展的5个预测](http://developer.51cto.com/art/202012/634776.htm)
@@ -27,56 +33,58 @@ categories: IT NEWS
  > CTO：再写if-else，逮着罚款1000！
  ## [数据科学很性感？不，其实它非常枯燥！](http://zhuanlan.51cto.com/art/202012/634754.htm)
  > 数据科学很性感？不，其实它非常枯燥！
- ## [2020征文-鸿蒙智能手表【纯干货】手把手教你JS开发智能表应用](http://developer.51cto.com/art/202012/634724.htm)
- > 2020征文-鸿蒙智能手表【纯干货】手把手教你JS开发智能表应用
- ## [MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01](http://fellow.51cto.com/art/202008/623594.htm?qd=51ctojrzd)
- > MySQL主从复制与高可用架构方案_MySQL高可用复制与分布式集群架构01
- ## [MySQL字符集，永恒的痛](http://database.51cto.com/art/202012/635133.htm)
- > 最近迁移mysql和升级mysql版本，遇到了很多乱码(主要是表情问题)问题，所以记录下。
- ## [我妹说，只用讲 this，不用讲 super](http://developer.51cto.com/art/202012/635132.htm)
- > “哥，被喊大舅子的感觉怎么样啊?”三妹不怀好意地对我说，她眼睛里充满着不屑。
- ## [那些很厉害的人，是如何度过职场迷茫的？](http://news.51cto.com/art/202012/635131.htm)
- > 在职场上，相信大多数人都会经历类似这样的迷茫期：对当下的工作状况深感不满，但也不知道前方的路所在何方
- ## [一周领了三次罚单，这是什么破消息队列？](http://developer.51cto.com/art/202012/635130.htm)
- > 队列咱们不会陌生，一个遵循先进先出(FIFO)的数据容器，在编程开发中，经常会用到队列。比如一个或多个线程
- ## [巨额勒索，谁来兜底？与远见者同行](http://netsecurity.51cto.com/art/202012/635129.htm)
- > 一件件勒索事件中，勒索软件在2020年已成为大型企业和组织的头号威胁。2021年，勒索软件可能将继续进化，攻
- ## [微软很快就会把一些变化带到Windows 10设置应用](http://os.51cto.com/art/202012/635128.htm)
- > 为了逐步淘汰控制面板，微软新版操作系统亮相的那天起，就将几十年来重要和不重要的控制面板项目一点一点加
- ## [共享充电宝可能会实时监听 专家提醒这个操作要谨慎](http://netsecurity.51cto.com/art/202012/635125.htm)
- > 据国内媒体报道，出门在外，使用共享充电宝进行充电时，也要小心谨慎，因为有些共享充电宝暗藏隐私泄露的风
- ## [浅析加密算法的来世今生](http://developer.51cto.com/art/202012/635124.htm)
- > 今天给大家带来的的是关于加密算法的来世今生。
- ## [Py之cv2：cv2库(OpenCV，opencv-python)的简介、安装、使用方法(常见函数、方法等)最强详细攻略](https://blog.csdn.net/qq_41185868/article/details/79675875)
- > Py之cv2：cv2库(OpenCV，opencv-python)的简介、安装、使用方法(常见函数、方法等)最强详细攻略
- ## [Neural Filters for mac(ps2021逆天滤镜库)无需登陆Adobe Id v22.0.1最新版使用教程](https://blog.csdn.net/weixin_50656679/article/details/109920783)
- > Neural Filters for mac(ps2021逆天滤镜库)无需登陆Adobe Id v22.0.1最新版使用教程
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [微软和FireEye证实：SolarWinds 被攻击](http://netsecurity.51cto.com/art/202012/635152.htm)
+ > 美国安全公司FireEye表示，据信代表外国政府从事攻击活动的黑客已攻陷了软件提供商SolarWinds，然后部署
+ ## [我是怎么抛弃Excel的？](http://bigdata.51cto.com/art/202012/635150.htm)
+ > “Excel在过去、现在和未来都是一个无比优秀和天才的工具，无数虔诚的信徒将其奉为唯一的法门，而我却并不
+ ## [基于DevOps的容器安全优秀实践](http://cloud.51cto.com/art/202012/635147.htm)
+ > 虽然云和容器的崛起,容器成了日常。容器的安全要求也随之而来，如何确定一个最适合业务的容器安全保障是大
+ ## [深度学习框架简史：TF和PyTorch双头垄断，未来十年迎来黄金时期](http://zhuanlan.51cto.com/art/202012/635145.htm)
+ > 在本文中，Waymo 软件工程师 Lin Yuan 细数了二十一世纪以来深度学习框架的发展历程，并划分为了石器、青铜
+ ## [服务挂了，怎么自动恢复？](http://zhuanlan.51cto.com/art/202012/635144.htm)
+ > 上周有个朋友问我：tomcat挂了，站点死了;service出core了，服务死了。如何让挂掉的服务自动启动呢?这里给
+ ## [JavaScript 25 岁了！](http://developer.51cto.com/art/202012/635140.htm)
+ > JavaScript于25年前(1995年12月4日)首次向公众推出。JavaScript 最初开发仅用了10天时间，便迅速成为最受欢
+ ## [你可能还不知的 7 个 CSS 好用的属性](http://developer.51cto.com/art/202012/635139.htm)
+ > 学习CSS是构建好看网页的一种方式。但是，在学习过程中，我们倾向于(大部分时间)限制自己，一遍又一遍地使
+ ## [那些看上去高大上的项目文档和个人博客原来用了这些技术](http://developer.51cto.com/art/202012/635138.htm)
+ > 昨天忙里偷闲分享了一个关于微信支付的开发包 Payment Spring Boot，有同学问文档是用什么搞的，今天就来分
+ ## [一段代码带你论证JS基础\[不看后悔篇\]](http://developer.51cto.com/art/202012/635137.htm)
+ > JS基础对于我们前端开发的重要性不言而知~于是，我们都会选择去阅读一些书籍来充实自己。那当我们读完那些
+ ## [你破坏Java代码的样子，真美！](http://developer.51cto.com/art/202012/635136.htm)
+ > 在之前如果需要处理集合需要先手动分成几部分，然后为每部分创建线程，最后在合适的时候合并，这是手动处理
+ ## [C 语言中，x += 5 == 4 是什么意思？](https://blog.csdn.net/weiqifa0/article/details/105462999)
+ > C 语言中，x += 5 == 4 是什么意思？
+ ## [C语言程序设计第五版 谭浩强 第五版课后答案](https://blog.csdn.net/gjggj/article/details/92250696)
+ > C语言程序设计第五版 谭浩强 第五版课后答案
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [【Axure9.0原型实战（一）】Axure9.0的元件库的使用、导入、制作、路径等操作方法与技巧（附Axure元件库大全）](https://blog.csdn.net/qq_35456045/article/details/110879341)
- > 【Axure9.0原型实战（一）】Axure9.0的元件库的使用、导入、制作、路径等操作方法与技巧（附Axure元件库大全）
- ## [SpringMVC常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80963758)
- > SpringMVC常见面试题总结（超详细回答）
- ## [大一期末作业 c/c++实现简单学校人员管理系统](https://blog.csdn.net/mazamu/article/details/106898818)
+ ## [JAVA图形界面设计（GUI）学生成绩管理系统实战练习之登陆界面](https://blog.csdn.net/captainpirate/article/details/90450896)
+ > JAVA图形界面设计（GUI）学生成绩管理系统实战练习之登陆界面
+ ## [机器学习算法（一）SVM](https://blog.csdn.net/qq_31347869/article/details/88071930)
+ > 机器学习算法（一）SVM
+ ## [c实战  计算器(支持加减乘除括号的混合计算)](https://blog.csdn.net/qq_41138935/article/details/82750974)
+ > c实战  计算器(支持加减乘除括号的混合计算)
+ ## [基于SSM的校园二手交易平台的设计与实现](https://blog.csdn.net/wsk1103/article/details/80214238)
+ > 基于SSM的校园二手交易平台的设计与实现
+ ## [Arthas - Java 线上问题定位处理的终极利器](https://blog.csdn.net/u013735734/article/details/102930307)
  > 
- ## [我与Facebook反爬虫博弈的那些年](https://blog.csdn.net/qiulin_wu/article/details/104310709)
- > 我与Facebook反爬虫博弈的那些年
- ## [用opencv给彦女王生成一副蒙太奇画像](https://blog.csdn.net/qq_43667130/article/details/107892516)
+ ## [用Python解决女朋友看电影没字幕的需求](https://blog.csdn.net/qq_17623363/article/details/108775998)
  > 
- ## [Vue生命周期详解(图解)](https://blog.csdn.net/FengyCoder/article/details/85227113)
- > Vue生命周期详解(图解)
- ## [小白想学C语言懵逼中？我告诉你撸就完事了！](https://blog.csdn.net/lyztyycode/article/details/105569812)
+ ## [【“天才”必经之路】只需一年时间，从编程小白成为同事们敬仰的编程大神](https://blog.csdn.net/a29562268/article/details/104704992)
  > 
- ## [Python爬虫与数据可视化](https://blog.csdn.net/qq_37076942/article/details/91620577)
- > Python爬虫与数据可视化
- ## [外卖订餐APP商家手机端Axure原型作品（美团外卖海外版功能齐全高保真）](https://blog.csdn.net/congzi530/article/details/109812407)
- > 外卖订餐APP商家手机端Axure原型作品（美团外卖海外版功能齐全高保真）
- ## [浅析php环境配置](https://blog.csdn.net/weixin_42660856/article/details/110038801)
- > 浅析php环境配置
- ## [Vue所有基础语法细节整理复习](https://blog.csdn.net/weixin_43342105/article/details/106153672)
- > 
+ ## [C语言实现扫雷——详解](https://blog.csdn.net/yc1515707718/article/details/78744978)
+ > C语言实现扫雷——详解
+ ## [OpenCV下载/OpenCV国内镜像/opencv_contrib下载](https://blog.csdn.net/bookzhan/article/details/104753855)
+ > OpenCV下载/OpenCV国内镜像/opencv_contrib下载
+ ## [手把手教你如何掌控安装Tensorflow（Windows和Linux两种版本）](https://blog.csdn.net/Cs_hnu_scw/article/details/79695347)
+ > 手把手教你如何掌控安装Tensorflow（Windows和Linux两种版本）
+ ## [1+X Web前端等级考证 | 2020 12月Web前端开发中级理论 (试卷1) 附答案](https://blog.csdn.net/weixin_43853746/article/details/109991848)
+ > 1+X Web前端等级考证 | 2020 12月Web前端开发中级理论 (试卷1) 附答案
 # 人工智能 
  ## [【社区分享】从零开始学习 TinyML，建立 TensorFlow 深度学习模型（技术优化篇）](https://blog.csdn.net/tensorflowforum/article/details/109239907)
  > 【社区分享】从零开始学习 TinyML，建立 TensorFlow 深度学习模型（技术优化篇）
