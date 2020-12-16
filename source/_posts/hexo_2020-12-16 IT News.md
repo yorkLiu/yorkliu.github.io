@@ -1,26 +1,30 @@
 ---
 title: 2020-12-16 IT News
 copyright: true
-date: 2020-12-16 10:35:20
+date: 2020-12-16 12:23:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果 2021 上半年或生产 9600 万部 iPhone；多家共享电单车企业被约谈；映客回购 19.5 万股|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=lhpmB57qKubb1KfHL3OMOTiJR9P1zhfrPl7UeRjKO3SmGzxKjZjm09*Fv9TgXrYPC2uL9Xc9x4hoyKz9Pihl9rpgPosdO7bK7To2JII72dA-mNU4XmyVTfpKzqsGKYZ8&new=1)
+ ## [1月14日|2021讯石厦门光通信高峰论坛暨年度总结会隆重来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=QZiuG61kuU9gsap7VaFjQECWXKIslNzokxL5*Y4zImolSPYLZsQ*VSD5rsgtKyjjy6wCNUmpRcmwVajxjAaAn9vXre90rArVOQic2E0W3WmMpacNpTIHhjXqAZMy3EDW&new=1)
+ > 新闻导读5G光通，承载未来!2021年1月14日，由深圳市讯石信息咨询有限公司主办，厦门市三安集成电路有限公司协办的“2021讯石厦门光通信高峰论坛暨年度总结会”将在厦门举办，汇聚光通讯产业链，总结2020年5G、数...
+ ## [苹果 2021 上半年或生产 9600 万部 iPhone；多家共享电单车企业被约谈；映客回购 19.5 万股|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=lhpmB57qKubb1KfHL3OMOTiJR9P1zhfrPl7UeRjKO3T-pnq5HvS1gE9e8CqVlqHaCqNpxTOVqBH9i6oOktXVnjhakkc4ta63p26l3YdhoNR0j-MyP7Z423sVKnNjXvBE&new=1)
  > 图 /UnsplashHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【苹果 2021 上半年或生产 9600 万部 iPhone】《日本经济新闻》消息，苹果公司计划在2021年上半年生产9600万部iPhone，同比增长
- ## [\[报告\]2020年中国智能互联-汽车产业变革研究(附71页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=M71CdOHBkhdGoHqf2H-eqDa444iGhjmSPd-AKHGcoXEO3glF7EzKFhFMCUIwu0vt-BWEKTOBjGgx7YqJUP8uUDPt5Y6hDm4Qvyva5M78O4e7SzIJGeth0BFT-32eSd-T&new=1)
- > 本篇报告在第一章将会重点探讨智能汽车技术及产业发展驱动因素，在第二章重点描述汽车电子产业链发展现状及趋势，在第三章根据智能汽车定义，分为“自动驾驶”以及“车联网”两部分探讨智能汽车发展对于汽车产业...
- ## [高精地图厂商搅局自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=Xacu-FIrLfDlcnFQkpVq-Spw2gEZF7f*6jNNBvlCXk*yLXFFMYykdfy-dPd8UAXc4l1xvlNNUQ2OrfaLJENxWzIz17wnULe6iGDf02dT5-ocmEWZZWPuNNH*Fyj*bXDO&new=1)
- > 配图来自Canva可画随着5G以及自动驾驶技术的进步，自动驾驶日益走进了人们的生活。作为与之紧密相关的高精地图技术，也越发受到重视。· 在此背景下，传统图商、整车厂商、初创企业、高科技巨头等众多玩家，纷纷...
- ## [罗永浩为售假羊毛衫致歉：3 倍赔付；监管再次叫停共享电单车；苹果增产 iPhone，明年售 2.3 亿部|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=0iOeKMcFNLE9xpWJvY96cnrQfWj2yn0vk*I-ltjnjiH*UJofPx8ub-ap0qCP5Dy2Gzp-yskAFVNzA9cQ0Q8T7vrJX8NylIg8z*aQOFFFVbx8RdVDFXw8elCTLsno6Gm4&new=1)
+ ## [罗永浩为售假羊毛衫致歉：3 倍赔付；监管再次叫停共享电单车；苹果增产 iPhone，明年售 2.3 亿部|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=0iOeKMcFNLE9xpWJvY96cnrQfWj2yn0vk*I-ltjnjiFAjgdc-293LNVCvf83asoBlArqup7SUvAU4LvQOHTs6fQ*CIQXnQ56Tt*YvGYIdvjUUyePXPFMQlyIcdEo0fUx&new=1)
  > 中芯国际联席 CEO 梁孟松提出辞职12 月 15 日晚间消息，中芯国际于今日召开临时董事会，中芯国际联席 CEO 梁孟松被曝在董事会上提出辞职，董事长周子学并未当场批准。董事会后，中芯国际发布公告，宣布委任蒋尚...
- ## [7点见|半导体领军人物蒋尚义重返中芯国际；百度造车传闻推动股价暴涨超13%](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=pBWSn-MVjEyyDJENt3oY20PjxDVYQVafjiWATxkg86ZXwdGkJWP8ujsE8j0ixKZ7eNwhKijPj9gkdRKMa0QAsWm7R2qstAjv3nVt7fiRX0htUTEHGD7dTAZNvklYI5oL&new=1)
+ ## [苹果新规：开发者必须提供明确的收集用户隐私信息](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=0mQGFahJSkGhvmPBCgRjEdsMIpeHcx3ePB-uCFK*Wu8Pc6orSnk-iT2os-2gqxgNjFuQMazQts8NqYlpGp48u9x4s25eZZ-T3DPI0qIknD-RX5N6WcGcf0N4MojhrEov&new=1)
+ > E安全12月16日  近日，苹果已经开始在iOS、iPadOS、macOS、watchOS和tvOS的所有应用商店中发布隐私摘要，现在开发者在提交应用或更新时需要回答一份问卷。库比蒂诺表示，这一要求适用于包括其自身在内的所有开发...
+ ## [7点见|半导体领军人物蒋尚义重返中芯国际；百度造车传闻推动股价暴涨超13%](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=pBWSn-MVjEyyDJENt3oY20PjxDVYQVafjiWATxkg86aRX85mmsRIWwAIwGTmqzB*6mSBvV6lhFqvKapMz2cy-b7t8VqQ0S27yYy0-WnIm6CtgVX4VRaAJgiuaE9*acnD&new=1)
  > 各位小伙伴早上好呀！一列时速250公里CR300BF型“复兴号”动车组抵达西安铁路局西安动车段，担负即将开通的银西高铁旅客运输任务，这是该型号动车组在我国的首次上线。该动车组车身采用“海空蓝”颜色涂装，是中...
- ## [“0基础”也能开发5G运维应用?海峰带你走进GTS开发者训练营!](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=w4I1bW5VJbl0*qZ19s96GZPv9X-3NnoTv--FSTz89aZfMAqq3TlKJxQ2Vjcv0pisyGO-vtM7qLV0EfLB0-pYB1tiy8uhaw048o86EBYWmR72sC67m0HUxHXSfbCVpjoc&new=1)
+ ## [\[报告\]2020年中国智能互联-汽车产业变革研究(附71页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=M71CdOHBkhdGoHqf2H-eqDa444iGhjmSPd-AKHGcoXE8q5N9qDOFv0aQ2kRlzc4kBIv58JDCSkDrFLzhMqap3GDUiqVzDNuv2UA9fbteZ8qYq5E*UA0XFkctAnOgXLTj&new=1)
+ > 本篇报告在第一章将会重点探讨智能汽车技术及产业发展驱动因素，在第二章重点描述汽车电子产业链发展现状及趋势，在第三章根据智能汽车定义，分为“自动驾驶”以及“车联网”两部分探讨智能汽车发展对于汽车产业...
+ ## [高精地图厂商搅局自动驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=Xacu-FIrLfDlcnFQkpVq-Spw2gEZF7f*6jNNBvlCXk*arwEvjw0cU3in6GzqHa5s5B4z6elrXiKgn5EXaGXl1MVWjdxSxc09o6QPsL0S0uisnhCD9LuZmtPNYLEB7hsF&new=1)
+ > 配图来自Canva可画随着5G以及自动驾驶技术的进步，自动驾驶日益走进了人们的生活。作为与之紧密相关的高精地图技术，也越发受到重视。· 在此背景下，传统图商、整车厂商、初创企业、高科技巨头等众多玩家，纷纷...
+ ## [“0基础”也能开发5G运维应用?海峰带你走进GTS开发者训练营!](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=w4I1bW5VJbl0*qZ19s96GZPv9X-3NnoTv--FSTz89aakwtQOfoNGK*nEgNiiWmRwm7QJ*m9Z3y1TdLkrQfov1t54OO6Zkaq-ZnVy8YxX22rVGwqXngERqMALmTZPbShB&new=1)
  > 近日，我来到东莞华为美丽的欧洲小镇，参加2020 GTS合作伙伴大会，包括此次大会下午最具互动性的环节“开发者训练营”。估计很多朋友要问了，华为手机我知道，但华为GTS是什么？GTS指代华为全球技术服务，比如面...
- ## [大反转!华为赢了，国内传来大消息，全世界都安静了!](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=OkwtqHSd*M0FPtE7-zfLkSjKZsIaeQi0*jaFDXMzcvMvIBKtp-w3i29GO8xc7oWtswQ0LQIMA10xDFP8sIMvHG0QYGIVrrsCNsduBDrH2n0KKYsf1a6G*q07-z6Elj8F&new=1)
+ ## [大反转!华为赢了，国内传来大消息，全世界都安静了!](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=OkwtqHSd*M0FPtE7-zfLkSjKZsIaeQi0*jaFDXMzcvPDcylSyKuVwlMdrkZACzJa0i*I3FHxcPYWptf56ymx0exTwn40-L*rX5KsKCcn3zxVbjCx7PN15GcPEJ1sSavb&new=1)
  > 大雪压青松，青松挺且直！因为美国的芯片封禁措施，令华为手机业务陷入了绝境。不过，正所谓东方不亮西方亮，在另一领域，华为创下了辉煌成绩，彻底碾压了苹果。据报道，华为智能穿戴业务在今年第三季度表现突出...
- ## [英媒炒作“中国被疑利用手机网络监控美国人”，中企和驻美使馆驳斥](http://mp.weixin.qq.com/s?src=11&timestamp=1608085804&ver=2769&signature=2ZyYIzOWzsPqarVr74JEX1slyGxyG-AnTKrkbplZLhH2Uqlih5-GH2nEBSeUUtKD3RlE0LGz5JOPeNGjuqJcUmR-0lyJuGAAu-LMwesdGTE=&new=1)
+ ## [英媒炒作“中国被疑利用手机网络监控美国人”，中企和驻美使馆驳斥](http://mp.weixin.qq.com/s?src=11&timestamp=1608091205&ver=2769&signature=2ZyYIzOWzsPqarVr74JEX1slyGxyG-AnTKrkbplZLhHrrxfGEJ3PQe*A2mVg6Nhn85HiGCvFcSdHPdJpJDPy-T-p41CcwYjY4tRrdSgOekg=&new=1)
  > 【环球网报道 记者 赵建东】“披露：中国被疑利用加勒比海手机网络监控美国人”，15日，英国《卫报》抛出耸动标题，宣称有“安全专家”通过分析敏感数据得出惊人结论——中国正利用加勒比哈地区的手机网络监控美...
 # IT 技术 
  ## [智能设计四驾马车驱动下的苏宁木牛创意分享](http://ai.51cto.com/art/202012/635176.htm)
@@ -29,66 +33,66 @@ categories: IT NEWS
  > 走近来自Canonical的轻量级Kubernetes发行版：Microk8s
  ## [2020征文-开发板 基于鸿蒙Hi3861平台的HarmonyOS Device开发体验](http://os.51cto.com/art/202012/634967.htm)
  > 2020征文-开发板 基于鸿蒙Hi3861平台的HarmonyOS Device开发体验
+ ## [深度学习框架简史：TF和PyTorch双头垄断，未来十年迎来黄金时期](http://zhuanlan.51cto.com/art/202012/635145.htm)
+ > 深度学习框架简史：TF和PyTorch双头垄断，未来十年迎来黄金时期
  ## [线上MySQL千万级大表，如何优化？](http://database.51cto.com/art/202012/635160.htm)
  > 线上MySQL千万级大表，如何优化？
  ## [Windows 10X明年问世：这是我们迄今所知道的](http://os.51cto.com/art/202012/635005.htm)
  > Windows 10X明年问世：这是我们迄今所知道的
- ## [2021年关于Kubernetes发展的5个预测](http://developer.51cto.com/art/202012/634776.htm)
- > 2021年关于Kubernetes发展的5个预测
- ## [求求你，别再用Wait和Notify了！](http://developer.51cto.com/art/202012/634814.htm)
- > 求求你，别再用Wait和Notify了！
- ## [MySQL对象管理与开发及数据库建模设计_MySQL数据库SQL语言开发与应用实战04](http://fellow.51cto.com/art/202012/635037.htm?qd=51ctojrzd)
- > MySQL对象管理与开发及数据库建模设计_MySQL数据库SQL语言开发与应用实战04
- ## [预测2021: 区块链领域新景观](http://www.51cto.com)
- > 2020年是非常艰难的一年，但具有讽刺意味的是，它也是金融科技和区块链加密技术催化剂之年。2021年，这一势
- ## [Windows 10 Build 21277发布，新增两个崭新功能](http://os.51cto.com/art/202012/635178.htm)
- > 微软宣布发布Windows 10 Insider Preview Build 21277(RS_PRERELEASE)，这是Windows 10操作系统的最新测试
- ## [人工智能在物联网中的作用](http://ai.51cto.com/art/202012/635174.htm)
- > 在本文中，让我们一起来看看人工智能在物联网中的作用，以及将二者集成在一起的好处。
- ## [必读！大数据，是一种新的思维方式](http://bigdata.51cto.com/art/202012/635173.htm)
- > 人工智能只是一种技术手段，数据资产最终决定人工智能的行业应用发展，以及企业新的市场。
- ## [勒索软件窃取英特尔53GB数据](http://zhuanlan.51cto.com/art/202012/635172.htm)
- > 据网络安全公司CheckPoint报道，勒索软件组织Pay2Key在本周一发布了从英特尔公司的哈瓦那实验室（Habana La
- ## [2020年12月超实用设计干货大合集](http://developer.51cto.com/art/202012/635175.htm)
- > 年底这波干货汇集了不少颇为有趣的工具，无缝图案创建工具可以帮你省去很多图案创建过程中的麻烦，而微软的
- ## [苹果宣布正式推出轻 App 码](http://mobile.51cto.com/news-635171.htm)
- > 苹果公司昨日面向开发者宣布，现已推出轻 App 码。苹果表示，轻 App 是开发者 App 中的一小部分，易于发现
- ## [智能建筑背后的关键技术：无处不在的网络连接](http://iot.51cto.com/art/202012/635170.htm)
- > 随着新技术的发展和可能性的增加，智能建筑越来越成为关于工作场所未来的讨论焦点。然而，我们有时却被忽略
- ## [2020征文-鸿蒙开发板 Onenet平台+开发板开关灯控制](http://os.51cto.com/art/202012/634965.htm)
- > OneNET是由中国移动打造的PaaS物联网开放平台。平台能够帮助开发者轻松实现设备接入与设备连接，快速完成产
- ## [从单体迈向 Serverless 的避坑指南](http://cloud.51cto.com/art/202012/635169.htm)
- > 数字化的商业形态已经成为主流，逐渐替代了传统的商业形态。在另外一些行业里(如工业制造)，虽然企业的商业
- ## [Py之cv2：cv2库(OpenCV，opencv-python)的简介、安装、使用方法(常见函数、方法等)最强详细攻略](https://blog.csdn.net/qq_41185868/article/details/79675875)
- > Py之cv2：cv2库(OpenCV，opencv-python)的简介、安装、使用方法(常见函数、方法等)最强详细攻略
- ## [Neural Filters for mac(ps2021逆天滤镜库)无需登陆Adobe Id v22.0.1最新版使用教程](https://blog.csdn.net/weixin_50656679/article/details/109920783)
- > Neural Filters for mac(ps2021逆天滤镜库)无需登陆Adobe Id v22.0.1最新版使用教程
+ ## [AI把特朗普变成了dancer，跟着蔡徐坤跳起了『鸡你太美』](http://news.51cto.com/art/202012/635164.htm)
+ > AI把特朗普变成了dancer，跟着蔡徐坤跳起了『鸡你太美』
+ ## [Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06](http://fellow.51cto.com/art/202008/623590.htm?qd=51ctojrzd)
+ > Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06
+ ## [盘点人工智能2020：AI注智时代](http://ai.51cto.com/art/202012/635211.htm)
+ > 2020年是人工智能（AI）里程碑式的一年。这一年，新冠肺炎疫情席卷而来，全球开展了一场科技战“疫”。其中
+ ## [人脸识别虽好，还需行业自律与法律监管有道](http://ai.51cto.com/art/202012/635210.htm)
+ > 近年来，围绕人脸识别的争议不断。前不久，“人脸识别第一案”一审宣判，认定杭州野生动物世界采集消费者
+ ## [kali linux渗透测试/web安全/白帽](http://fellow.51cto.com/art/202012/635052.htm)
+ > 熟悉抓包神器wireshare；能够使用wireshare进行抓包分析
+ ## [Windows 10更多新功能曝光：用户清理建议、电池监控等](http://os.51cto.com/art/202012/635209.htm)
+ > 随着Windows 10的发布，微软提供了更强大的“设置”功能来帮助用户自定义默认配置。目前，“设置”已经可以
+ ## [将让企业获利的5个人工智能趋势](http://ai.51cto.com/art/202012/635206.htm)
+ > Khan详细介绍了利用人工智能数据驱动的见解和技术的五个好处，以创造实际的价值，这种洞察力可以推动新的和
+ ## [搞清楚JavaScript的闭包与变量作用域](http://developer.51cto.com/art/202012/635207.htm)
+ > JavaScript 是一种非常面向函数的语言。它给了我们很大的自由度。在 JavaScript 中，我们可以随时创建函数
+ ## [家政乱象频发，看区块链如何解决信任缺失](http://blockchain.51cto.com/art/202012/635202.htm)
+ > 近年来，随着人口老龄化、二孩放开，以及育婴专业需求的增长、社会自然分工越来越细化等诸多因素，家政已成
+ ## [IT行业的程序员是否都在吃青春饭](http://news.51cto.com/art/202012/635201.htm)
+ > 首先，很多家长和学生对于程序员的职业生命周期都比较关注，很多人都认为程序员是一个吃青春饭的岗位，但是
+ ## [自动驾驶国家标准将出台，2021年是L3级自动驾驶汽车元年？](http://ai.51cto.com/art/202012/635200.htm)
+ > 针对自动驾驶不同功能分级，目前国际公认的汽车自动驾驶技术分级标准分别由美国高速公路安全管理局(NHTSA)
+ ## [10年老分析师最终抛弃Excel，它不是最好的数据分析工具](http://bigdata.51cto.com/art/202012/635199.htm)
+ > Excel在过去、现在和未来都是一个无比优秀和天才的工具，无数虔诚的信徒将其奉为唯一的法门，而我却并不在
+ ## [C 语言中，x += 5 == 4 是什么意思？](https://blog.csdn.net/weiqifa0/article/details/105462999)
+ > C 语言中，x += 5 == 4 是什么意思？
+ ## [C语言程序设计第五版 谭浩强 第五版课后答案](https://blog.csdn.net/gjggj/article/details/92250696)
+ > C语言程序设计第五版 谭浩强 第五版课后答案
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [【Axure9.0原型实战（一）】Axure9.0的元件库的使用、导入、制作、路径等操作方法与技巧（附Axure元件库大全）](https://blog.csdn.net/qq_35456045/article/details/110879341)
- > 【Axure9.0原型实战（一）】Axure9.0的元件库的使用、导入、制作、路径等操作方法与技巧（附Axure元件库大全）
- ## [SpringMVC常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80963758)
- > SpringMVC常见面试题总结（超详细回答）
- ## [大一期末作业 c/c++实现简单学校人员管理系统](https://blog.csdn.net/mazamu/article/details/106898818)
+ ## [JAVA图形界面设计（GUI）学生成绩管理系统实战练习之登陆界面](https://blog.csdn.net/captainpirate/article/details/90450896)
+ > JAVA图形界面设计（GUI）学生成绩管理系统实战练习之登陆界面
+ ## [机器学习算法（一）SVM](https://blog.csdn.net/qq_31347869/article/details/88071930)
+ > 机器学习算法（一）SVM
+ ## [c实战  计算器(支持加减乘除括号的混合计算)](https://blog.csdn.net/qq_41138935/article/details/82750974)
+ > c实战  计算器(支持加减乘除括号的混合计算)
+ ## [基于SSM的校园二手交易平台的设计与实现](https://blog.csdn.net/wsk1103/article/details/80214238)
+ > 基于SSM的校园二手交易平台的设计与实现
+ ## [Arthas - Java 线上问题定位处理的终极利器](https://blog.csdn.net/u013735734/article/details/102930307)
  > 
- ## [我与Facebook反爬虫博弈的那些年](https://blog.csdn.net/qiulin_wu/article/details/104310709)
- > 我与Facebook反爬虫博弈的那些年
- ## [用opencv给彦女王生成一副蒙太奇画像](https://blog.csdn.net/qq_43667130/article/details/107892516)
+ ## [用Python解决女朋友看电影没字幕的需求](https://blog.csdn.net/qq_17623363/article/details/108775998)
  > 
- ## [Vue生命周期详解(图解)](https://blog.csdn.net/FengyCoder/article/details/85227113)
- > Vue生命周期详解(图解)
- ## [小白想学C语言懵逼中？我告诉你撸就完事了！](https://blog.csdn.net/lyztyycode/article/details/105569812)
+ ## [【“天才”必经之路】只需一年时间，从编程小白成为同事们敬仰的编程大神](https://blog.csdn.net/a29562268/article/details/104704992)
  > 
- ## [Python爬虫与数据可视化](https://blog.csdn.net/qq_37076942/article/details/91620577)
- > Python爬虫与数据可视化
- ## [外卖订餐APP商家手机端Axure原型作品（美团外卖海外版功能齐全高保真）](https://blog.csdn.net/congzi530/article/details/109812407)
- > 外卖订餐APP商家手机端Axure原型作品（美团外卖海外版功能齐全高保真）
- ## [浅析php环境配置](https://blog.csdn.net/weixin_42660856/article/details/110038801)
- > 浅析php环境配置
- ## [Vue所有基础语法细节整理复习](https://blog.csdn.net/weixin_43342105/article/details/106153672)
- > 
+ ## [C语言实现扫雷——详解](https://blog.csdn.net/yc1515707718/article/details/78744978)
+ > C语言实现扫雷——详解
+ ## [OpenCV下载/OpenCV国内镜像/opencv_contrib下载](https://blog.csdn.net/bookzhan/article/details/104753855)
+ > OpenCV下载/OpenCV国内镜像/opencv_contrib下载
+ ## [手把手教你如何掌控安装Tensorflow（Windows和Linux两种版本）](https://blog.csdn.net/Cs_hnu_scw/article/details/79695347)
+ > 手把手教你如何掌控安装Tensorflow（Windows和Linux两种版本）
+ ## [1+X Web前端等级考证 | 2020 12月Web前端开发中级理论 (试卷1) 附答案](https://blog.csdn.net/weixin_43853746/article/details/109991848)
+ > 1+X Web前端等级考证 | 2020 12月Web前端开发中级理论 (试卷1) 附答案
 # 人工智能 
  ## [R语言多项式线性模型：最大似然估计二次曲线](https://blog.csdn.net/qq_19600291/article/details/105613307)
  > R语言多项式线性模型：最大似然估计二次曲线
