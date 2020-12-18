@@ -1,66 +1,72 @@
 ---
 title: 2020-12-18 IT News
 copyright: true
-date: 2020-12-18 10:18:55
+date: 2020-12-18 12:13:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [报告|CIR：2026年共封装光学CPO市场将达3.44亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=Y1S7DoBeCZS9nAn3zWBS6ojtQOQvv7LQKXLluFffsOZSXm0RL5I8zPX0m-DNOOf--U3h1qt5accXKJtYDT5UsjBR0zUrjoR0F-v8gQaLyCCAdE6K9Qj2k5AWBynX9cGj&new=1)
- > 新闻导读CIR发布了一份新报告，指出到2026年，共封装光学(CPO)市场规模将达3.44亿美元，到2030年将达23亿美元。尽管目前CPO主要用于800G及以上的数据中心收发器，但CIR认为CPO在边缘和城域网络、高性能计算和传...
- ## [中芯国际内斗的背后：蒋尚义为何而来，梁孟松为何要走?](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=XfisNTt86HcQ8j6nH*CrDZrJg0p4th8x3UFqZu7vsRPDfLnTZ8QBW99s0rNaS0ibe*iceiJm8Jgp3uDX2EBLwjo3CyVdjNxzA*kia*l0p*4kmao-32gWjBW0o8h6ir0p&new=1)
+ ## [中央企业供应链数字化转型工作交流会在中国联通举办](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=M6nNq8f-*ENsFS3llC6hNwNr0KrG08b4wxnwktLoZOwSIo8VbeRhgaIvS9QuPxlEWT-AneWFvvcs8KWbcoKY*A9r9KQdNPwBzZL1Tujc*6gF-PgDGk2g8xKBWwgXA*3F&new=1)
+ > 中国联通 昨天12月17日，为深入贯彻习近平总书记加强产业链供应链建设重要指示批示和党的十九届五中全会精神，落实国资委中央企业采购工作推进会部署安排，中央企业供应链数字化转型工作交流会在中国联通举办。...
+ ## [中芯国际内斗的背后：蒋尚义为何而来，梁孟松为何要走?](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=XfisNTt86HcQ8j6nH*CrDZrJg0p4th8x3UFqZu7vsROo7L4B9517ZrVjF6mgPayG4F*bT70Cb-S4wr96HKrA4478rOw1NOn9QL9K6TMbF9oMnPFEWXcDQClLzn7Xl29M&new=1)
  > 12月15日，中芯国际发公告宣布，委任蒋尚义为公司董事会副董事长、第二类执行董事、战略委员会成员，2020年12月15日起生效。但是，蒋尚义的回归中芯国际的人事变动，却直接引发了中芯国际现任联席CEO梁孟松的辞...
- ## [\[报告\]长城汽车皮卡业务分析2020版(附39页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=ZcJ94eItZDbu5lSh8wtLtisuptLW7gyqDRfBep*O-JJf8*IcXO9ufKuXj1eA8yPutxSMyOAUq443l32UhUv4Ec3H4kDvuPdLtAr*iQYN8ghurzhzBm-tIUEzGSihW7yq&new=1)
- > 过去皮卡给人们留下的印象主要是“低端的工具车”，造成这种情况的主要原因是过去政策对于皮卡发展的限制较大，使得皮卡在此前的发展过程中逐渐地丧失了乘用车的属性，乘用化需求被挤出后剩下的就是商用的需求，...
- ## [全球首家!中国电信参股又一重磅公司成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=LC-c5Jme6zWu4DrfVcXupCkSVFU*X3EMclHYyCQLZwVVopPbfDnvL37p5geLKSznBu6KcSXr5XSOznEQMeoxqjxeUSxuGW1K80aifyTQz*fHbqlaJIwW6zmIuQZDX*0k&new=1)
- > 2020年12月16日，空地互联网络科技股份有限公司（以下简称“空地互联公司”）揭牌仪式在上海举行。空地互联公司的成立，是中国电信集团有限公司（以下简称“中国电信”）、中国东方航空集团有限公司（以下简称“...
- ## [7点见 丨 劳斯莱斯欢迎拼多多开卖幻影；天问一号明年5月着陆火星](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=kJYAA6FxcFG7gYgihNcjF-WiWdDssCVeIbAOHEO3P7YmdBvJeViD5UlN9lMje7n7j6dIpEBUSQkRMHWN8-0f*-hFmFGsbQqaXfCHMYeE8OvtsN*X737ONNuSLYeF9ilA&new=1)
+ ## [7点见 丨 劳斯莱斯欢迎拼多多开卖幻影；天问一号明年5月着陆火星](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=kJYAA6FxcFG7gYgihNcjF-WiWdDssCVeIbAOHEO3P7Ysv*G9CX2T2dMWwR8F7yLfHX6lfrL-R-jHKdHJuRFgJto7MlhQnQ2fqvWveeuUcwmRvbjtY973WKi9Ga3BbvlY&new=1)
  > 各位小伙伴早上好呀！12月17日晚，在位于北京西北郊的航天城，执行我国首次月面采样返回任务后回到地球的嫦娥五号返回舱回到了它的研制人员身边，在一场简单而热烈的欢迎仪式上，满满全是欢笑和感动。按计划，回...
- ## [中国芯片之父张汝京：创立世界第三大芯片生产厂，成功为华为“续命”](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=tDkFW3o0-5Mvkg*cToJAvsEYC7v9UhaJGS3u4VmTUK0gG77CzDG5fBHe-P*H5wRa6oYO2KriiInuFRIx4f3IQiHX2aE-MMdNgzMV5xJvdWQIqLRga0oGY9K3*GVwz5Ce&new=1)
+ ## [经开区一企业项目入选](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=8V7SZL27SuEUrPaRcfCDRKtUIXd9UUUG6QU2zF5ZXGsN8lx6oIAflc*s5hvZwOUuMCRrya7CB0JJr*WaRsr*89A1vIHJ9boVr8Iuruc1Weo=&new=1)
+ > 本报讯 日前，国家工业信息安全发展研究中心公布了2020年人工智能优秀产品和应用解决方案名单，贵阳经开区企业满帮集团旗下公司——贵阳货车帮科技有限公司的“全国公路物流智慧调度平台”项目入选。　　据...
+ ## [CVE发布总量连续第四年创历史新高](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=FeunNz5Zg*RfUlv2CKtth40LyXuknlEEJyW3qnBmjQj8-V4ztn6*smLFWGrSFA6Y7lWPtbigPIaaCcLe9Tbqbxd8Hf4ns7ffWSkv8L*52pRO51ySLwq4-jugcDIwQwl6&new=1)
+ > E安全12月18日讯 在过去的一年中，美国当局发布了突破历史纪录数量的CVE，这是连续第四年创新高。截至12月15日，US-CERT漏洞数据库发现和分配的生产代码漏洞数量超过2019年的总量。CVE 的英文全称是“Common Vul...
+ ## [报告|CIR：2026年共封装光学CPO市场将达3.44亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=Y1S7DoBeCZS9nAn3zWBS6ojtQOQvv7LQKXLluFffsOZHgnV0zoL-EAXT3hHv8GsnQHjyV9pwwmhKD2sHA7o6MOzqlFJ-rY7yWZWwMF*GN1gmnkBKXDuaIaxz5L1V7gEM&new=1)
+ > 新闻导读CIR发布了一份新报告，指出到2026年，共封装光学(CPO)市场规模将达3.44亿美元，到2030年将达23亿美元。尽管目前CPO主要用于800G及以上的数据中心收发器，但CIR认为CPO在边缘和城域网络、高性能计算和传...
+ ## [\[报告\]长城汽车皮卡业务分析2020版(附39页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=ZcJ94eItZDbu5lSh8wtLtisuptLW7gyqDRfBep*O-JJ72zK60qK9w7QY4u0sEcQNhoI-AZMH-rdrRYVS9TGWymza8ToJo1ZASvYclOmm7ix7kvDMRy3-iI5jEe8S-E0s&new=1)
+ > 过去皮卡给人们留下的印象主要是“低端的工具车”，造成这种情况的主要原因是过去政策对于皮卡发展的限制较大，使得皮卡在此前的发展过程中逐渐地丧失了乘用车的属性，乘用化需求被挤出后剩下的就是商用的需求，...
+ ## [全球首家!中国电信参股又一重磅公司成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=LC-c5Jme6zWu4DrfVcXupCkSVFU*X3EMclHYyCQLZwXp-p8-OYf2IIEGXtE67Fy2mRHoFE-fjAARYWQ8ZVPJ0gTNe-lCU7L6rl99MjflCpcTZi0On44jswEGbrMLCU8t&new=1)
+ > 2020年12月16日，空地互联网络科技股份有限公司（以下简称“空地互联公司”）揭牌仪式在上海举行。空地互联公司的成立，是中国电信集团有限公司（以下简称“中国电信”）、中国东方航空集团有限公司（以下简称“...
+ ## [中国芯片之父张汝京：创立世界第三大芯片生产厂，成功为华为“续命”](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=tDkFW3o0-5Mvkg*cToJAvsEYC7v9UhaJGS3u4VmTUK0smlG8szzRUSlpaHDpQZsmJmxDN7EIp34N00SwE-Zs-h9Q77BuYX8cIfnJmBl-ky82MR4dKjHD0W0rw9pIwB7H&new=1)
  > 有关专家指出，5g和人工智能的技术优势将替代人工成本优势，带来前所未有的革命性颠覆，并决定未来百年谁能成为世界工厂。华为是祖国的骄傲，引领着世界5G的发展，公司业务全球遍地开花。然而就在国人对华为寄予...
- ## [工信部通报下架26款侵权APP 包括通讯录同步助手、小蚁摄像机等](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=h1WirX-tffnh8tP-1YVs7rNf*Vl73hJCEliozBtP761nJudPExAVmg8n5bzoRzuqnEvx2xR4HVXkwv58M8JbsDDg7GOHcHBufyGig4exR0oduj0a3dD*fpX*q8zkg5wX&new=1)
+ ## [工信部通报下架26款侵权APP 包括通讯录同步助手、小蚁摄像机等](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=h1WirX-tffnh8tP-1YVs7rNf*Vl73hJCEliozBtP762fgTvyVYcWHQux6YyvLt1oLY3BdsXkes7ygxQsqhsRTJPlR3DMoLzcML1FeUokmKc*Ne1NW7*RlE6WCrvQVc4o&new=1)
  > 游戏头条微信号：gametoutiao(←长按复制)中国首家顾问式新媒体定制属于您自己的媒体内容导语：工信部消息，12月3日工信部向社会通报了60家存在侵害用户权益行为APP企业的名单。截至目前，经第三方检测机构核查...
- ## [NEWS|新大陆荣获2020年福建省标准贡献奖二等奖](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=oMv6Odu3ZhVbHYYd3gz0N4PJvpj2wBnVmukIVxJWGuKH2yIWzwCV4*3BL25ZrcGHilDMDT5aneFneCiNc4NCzfQ-UD4db5XbTmcJ4HhL1cRplnyd5rsgiiTE9SjDHd8v&new=1)
+ ## [NEWS|新大陆荣获2020年福建省标准贡献奖二等奖](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=oMv6Odu3ZhVbHYYd3gz0N4PJvpj2wBnVmukIVxJWGuLXYMIoa1ckLIto2MjvCTKhtUMOeFM-3Cm9puayUZbCRYS1V457kZo*6pkgdWV7Kux66lVXadoQN1Y0KUtUo1Fw&new=1)
  > 本刊讯：经福建省人民政府批准，2020年福建省标准贡献奖获奖名单日前出炉，新大陆数字技术股份有限公司（股票代码000997）及旗下福建新大陆自动识别技术有限公司联合制定的“SJ/T 11439-20015信息技术 面阵式二...
- ## [忧虑失去中国市场，美国芯片企业亚德诺加码投资中国市场](http://mp.weixin.qq.com/s?src=11&timestamp=1608256804&ver=2773&signature=or4KsnDhMWlIUxHDHP-OYFugk7JEJVA1sznPgsqx0YLhJPgKQ7cdqveYfECiaIXjwzeSlM66dvxCzercA18MY7*dCckR0tsCVWMpYdWrj0aVD-7IldFzwy3PHcAceFpV&new=1)
+ ## [忧虑失去中国市场，美国芯片企业亚德诺加码投资中国市场](http://mp.weixin.qq.com/s?src=11&timestamp=1608264004&ver=2773&signature=or4KsnDhMWlIUxHDHP-OYFugk7JEJVA1sznPgsqx0YKB27zRgxi6Qt3o-ydspUnLi9A4R2CkpkSGGAfH5Aawn6GRrkQOWKDzmoMzwVDV9tB6yI1HLvajTCWWyxCVgDXc&new=1)
  > 据媒体报道指出全球第二大模拟芯片企业--美国模拟芯片企业亚德诺宣布将加大对中国的投资，将亚德诺半导体技术（上海）有限公司升级为亚德诺半导体（中国）有限公司，希望通过就近服务的方式争取中国企业的支持。...
 # IT 技术 
  ## [三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼](http://database.51cto.com/art/202012/635497.htm)
  > 三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼
+ ## [职场 | 学会这几招，年底晋升不慌了！](http://news.51cto.com/art/202012/635670.htm)
+ > 职场 | 学会这几招，年底晋升不慌了！
  ## [2020征文-TV10分钟鸿蒙应用实战开发：鸿蒙手绘板 （含源代码）](http://developer.51cto.com/art/202012/635458.htm)
  > 2020征文-TV10分钟鸿蒙应用实战开发：鸿蒙手绘板 （含源代码）
+ ## [Github高赞：给文字打马赛克=形同虚设，AI看透你一切小心思，已开源](http://news.51cto.com/art/202012/635666.htm)
+ > Github高赞：给文字打马赛克=形同虚设，AI看透你一切小心思，已开源
  ## [如何部署Jupyter Notebook用于交互式Python开发？](http://developer.51cto.com/art/202012/635496.htm)
  > 如何部署Jupyter Notebook用于交互式Python开发？
  ## [Docker入门终极指南，别再说不会用Docker了！](http://os.51cto.com/art/202012/635663.htm)
  > Docker入门终极指南，别再说不会用Docker了！
  ## [解析Java横死之谜，气定神闲看花开花落](http://developer.51cto.com/art/202012/635459.htm)
  > 解析Java横死之谜，气定神闲看花开花落
- ## [从塞班到鸿蒙 ―― 手机操作系统这二十年历程](http://os.51cto.com/art/202012/635254.htm)
- > 从塞班到鸿蒙 ―― 手机操作系统这二十年历程
- ## [预测读写锁的死锁问题，居然有人做到了？](http://os.51cto.com/art/202012/635422.htm)
- > 预测读写锁的死锁问题，居然有人做到了？
- ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
- > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
- ## [Github高赞：给文字打马赛克=形同虚设，AI看透你一切小心思，已开源](http://news.51cto.com/art/202012/635666.htm)
- > Depix 的主要功能，就是利用 AI 算法，将被像素化的文本内容从马赛克中还原出来。其适用于用线性盒过滤器创
- ## [GitHub宣布全站清理不必要的Cookie提示栏](http://developer.51cto.com/art/202012/635662.htm)
- > 微软旗下开源代码托管网站 GitHub 刚刚宣布，其将于即日起全面清理该平台上的非必要 Cookies 。对于访客来
- ## [Google内讧升级！员工签署联名信：AI大神Jeff Dean必须道歉！](http://news.51cto.com/art/202012/635660.htm)
- > 从1400名员工应援，AI圈大佬出面站台，到CEO皮查伊亲自致歉，这场由知名AI伦理学家Timnit Gebru引发的解雇
- ## [Edge 漏洞研究团队对 iOS Chromium 漏洞的研究](http://os.51cto.com/art/202012/635659.htm)
- > 本文我将快速介绍iOS Chromium浏览器以及WKWebView提供的JavaScript进程间通信(IPC)的潜在攻击面。
- ## [来，游戏人，自己动手为你的电饭煲撸一个鸿蒙游戏引擎吧](http://os.51cto.com/art/202012/635454.htm)
- > 每一个做严肃游戏的程序员都知道，对于游戏开发来说，游戏引擎才是生产力，而用原生接口开发游戏，则不异于
- ## [5G发展存四大挑战 未来2-3年是5G发展的关键时期](http://network.51cto.com/art/202012/635658.htm)
- > 累计建设开通5G基站超70万个，建成800个面向行业的虚拟专网，在10多个领域初步形成有望规模商用的应用场景
- ## [编程语言安全漏洞：C++、PHP、Java、Python、.Net 和 JavaScript](http://netsecurity.51cto.com/art/202012/635656.htm)
- > 静态代码分析安全公司 Veracode 最近发布了一份年度软件安全状态(SOSS)报告，其中的第 11 卷则揭示了用 .NE
- ## [头条面试官：一文彻底搞懂 JSONP](http://developer.51cto.com/art/202012/635654.htm)
- > JSONP，全称 JSON with Padding，为了解决跨域的问题而出现。虽然它只能处理 GET 跨域，虽然现在基本上都使
- ## [万物皆可变 Wi-Fi ？研究人员发现新型网络攻击技术](http://netsecurity.51cto.com/art/202012/635653.htm)
- > 近日，来自以色列的研究人员公布了一项新技术，该技术可以将计算机的内存(RAM 卡)等设备转换为无线信号发射
- ## [企业短信风口来了？三大运营商启动5G消息规模化部署](http://network.51cto.com/art/202012/635651.htm)
- > 5G时代首个落地应用或将不远了。12月17日消息，中国移动、中国联通和中国电信均已开始5G消息的规模化部署。
+ ## [MySQL物理备份恢复实战1之XtraBackup_MySQL数据库备份与恢复05](http://fellow.51cto.com/art/202012/634848.htm?qd=51ctojrzd)
+ > MySQL物理备份恢复实战1之XtraBackup_MySQL数据库备份与恢复05
+ ## [亚马逊首席技术官预测2021：八大技术趋势改变世界](http://cloud.51cto.com/art/202012/635706.htm)
+ > 2020年12月18日，在为期三周的亚马逊re:Invent全球大会即将闭幕之际，亚马逊全球副总裁、首席技术官Werner
+ ## [什么是 TypeScript 4.1 中的模板字面类型？](http://developer.51cto.com/art/202012/635704.htm)
+ > 写了这么多年 TypeScript，最大的感触就是它非常易于理解――特别是对于具有 Java 背景的人。 但是，在听说
+ ## [2020年编程语言排行榜单年终大盘点](http://developer.51cto.com/art/202012/635702.htm)
+ > TIOBE指数，排名逻辑可简单理解为搜索引擎搜索的热度(Search Engine Query)。共有25个搜索引擎来源，主要是
+ ## [谷歌收购了可将旧 Windows 7 PC 变为 Chrome OS 的公司](http://os.51cto.com/art/202012/635701.htm)
+ > 谷歌已经完成了对 Neverware 公司的收购。Neverware 成立于 2011 年，并于 2015 推出了一个名为 CloudReady
+ ## [首席信息官在新冠疫情后重塑IT文化](http://www.cioage.com/art/202012/635698.htm)
+ > IT主管们正在吸取从新冠疫情中学到的教训，以重新定义IT文化和完善IT战略，迎接新一年的不确定性。
+ ## [黑客利用 SolarWinds Orion 漏洞攻击美多个机构](http://netsecurity.51cto.com/art/202012/635697.htm)
+ > 近日，美国财政部和商务部等机构遭到攻击，可能会影响到 18,000 个用户。FireEye 和 Microsoft 的分析指出
+ ## [明明白白跨入Vue大门-初级篇](http://fellow.51cto.com/art/202012/635527.htm)
+ > 掌握Vue.js的各项基础知识要点、打下坚实的Vue.js基础
+ ## [人工智能将推动云存储和数据服务的创新](http://ai.51cto.com/art/202012/635693.htm)
+ > 如果期望传统的存储和数据结构能够提供云原生应用程序所需的可迁移性、规模和速度，那么一定会让人感到失望
+ ## [2021年需要关注的5个开源Kubernetes项目](http://cloud.51cto.com/art/202012/635692.htm)
+ > 开源项目使Kubernetes更加强大。人们需要了解这些具有发展前途的开源项目，这些项目可以解决与Java、可观测
+ ## [三图讲清大数据基础设施Hadoop、Lambda、kappa](http://bigdata.51cto.com/art/202012/635690.htm)
+ > 数据已经从最初的信息一步步的演变成了数据产品、数据资产。关于数据的处理技术，包含数据库、数据集市、数
  ## [博客之星年度总评选：巅峰之战，谁与争锋？](https://blog.csdn.net/blogdevteam/article/details/111316057)
  > 博客之星年度总评选：巅峰之战，谁与争锋？
  ## [vs2019安装和使用教程（详细）](https://blog.csdn.net/qq_36556893/article/details/88603729)
