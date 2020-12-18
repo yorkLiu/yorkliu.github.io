@@ -1,22 +1,24 @@
 ---
 title: 2020-12-18 IT News
 copyright: true
-date: 2020-12-18 08:34:17
+date: 2020-12-18 09:27:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国芯片之父张汝京：创立世界第三大芯片生产厂，成功为华为“续命”](http://mp.weixin.qq.com/s?src=11&timestamp=1608251404&ver=2773&signature=tDkFW3o0-5Mvkg*cToJAvsEYC7v9UhaJGS3u4VmTUK0gG77CzDG5fBHe-P*H5wRaQfTSu42R40DG2ml426a2pfKmji9ZvFBl5qeZXPvtSE7g3XX9Yn4o-2iWqjBmNpQE&new=1)
+ ## [中国芯片之父张汝京：创立世界第三大芯片生产厂，成功为华为“续命”](http://mp.weixin.qq.com/s?src=11&timestamp=1608253204&ver=2773&signature=tDkFW3o0-5Mvkg*cToJAvsEYC7v9UhaJGS3u4VmTUK0gG77CzDG5fBHe-P*H5wRaAK0si4LTejG96UFWvo1zxxIEpJtfoOVnldhOEZXc*r6r9qT2svZuSQhnYE6KARRB&new=1)
  > 有关专家指出，5g和人工智能的技术优势将替代人工成本优势，带来前所未有的革命性颠覆，并决定未来百年谁能成为世界工厂。华为是祖国的骄傲，引领着世界5G的发展，公司业务全球遍地开花。然而就在国人对华为寄予...
- ## [全球首家!中国电信参股又一重磅公司成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1608251404&ver=2773&signature=LC-c5Jme6zWu4DrfVcXupCkSVFU*X3EMclHYyCQLZwVVopPbfDnvL37p5geLKSzngBB7eHVSRI*i1bNWz10eQ0y5AWmjLgDzCwTc9ED*dNWC2pi3HmTn86KpGNf--I95&new=1)
+ ## [全球首家!中国电信参股又一重磅公司成立!](http://mp.weixin.qq.com/s?src=11&timestamp=1608253204&ver=2773&signature=LC-c5Jme6zWu4DrfVcXupCkSVFU*X3EMclHYyCQLZwVVopPbfDnvL37p5geLKSznpFb6i7X2ZcuguVCIct1*E9nyFfNz21oQQ-DTH0Vol6zxLUzuXgX1bbSpSPKeLrxx&new=1)
  > 2020年12月16日，空地互联网络科技股份有限公司（以下简称“空地互联公司”）揭牌仪式在上海举行。空地互联公司的成立，是中国电信集团有限公司（以下简称“中国电信”）、中国东方航空集团有限公司（以下简称“...
- ## [工信部通报下架26款侵权APP 包括通讯录同步助手、小蚁摄像机等](http://mp.weixin.qq.com/s?src=11&timestamp=1608251404&ver=2773&signature=h1WirX-tffnh8tP-1YVs7rNf*Vl73hJCEliozBtP761nJudPExAVmg8n5bzoRzuqxv1W3dj8xXMGuHQYtrsgW1DNJZuaRAZHqRwXTrEs5yEPkhs6OOBVFHfYDvc3SYNL&new=1)
+ ## [工信部通报下架26款侵权APP 包括通讯录同步助手、小蚁摄像机等](http://mp.weixin.qq.com/s?src=11&timestamp=1608253204&ver=2773&signature=h1WirX-tffnh8tP-1YVs7rNf*Vl73hJCEliozBtP761nJudPExAVmg8n5bzoRzuqXn-wb-LtwVkmps*8uhmuOskeBwIUoDvXs3Zrubtj*VrrW14UUmRIJXDg3*M5AgiX&new=1)
  > 游戏头条微信号：gametoutiao(←长按复制)中国首家顾问式新媒体定制属于您自己的媒体内容导语：工信部消息，12月3日工信部向社会通报了60家存在侵害用户权益行为APP企业的名单。截至目前，经第三方检测机构核查...
- ## [NEWS|新大陆荣获2020年福建省标准贡献奖二等奖](http://mp.weixin.qq.com/s?src=11&timestamp=1608251404&ver=2773&signature=oMv6Odu3ZhVbHYYd3gz0N4PJvpj2wBnVmukIVxJWGuKH2yIWzwCV4*3BL25ZrcGH9Sa8ukf*2iFrq2EJcVB571peXtyAVldu8OQfb9nx*z1JdgVlavGie5VTuuGdo7Ur&new=1)
+ ## [NEWS|新大陆荣获2020年福建省标准贡献奖二等奖](http://mp.weixin.qq.com/s?src=11&timestamp=1608253204&ver=2773&signature=oMv6Odu3ZhVbHYYd3gz0N4PJvpj2wBnVmukIVxJWGuKH2yIWzwCV4*3BL25ZrcGHXgdpNFmK5OHzI83WggjKiVLM-SI35dmYFkO871FGiWvoXgePxIAvl2YydLIvg9pb&new=1)
  > 本刊讯：经福建省人民政府批准，2020年福建省标准贡献奖获奖名单日前出炉，新大陆数字技术股份有限公司（股票代码000997）及旗下福建新大陆自动识别技术有限公司联合制定的“SJ/T 11439-20015信息技术 面阵式二...
- ## [忧虑失去中国市场，美国芯片企业亚德诺加码投资中国市场](http://mp.weixin.qq.com/s?src=11&timestamp=1608251404&ver=2773&signature=or4KsnDhMWlIUxHDHP-OYFugk7JEJVA1sznPgsqx0YLhJPgKQ7cdqveYfECiaIXjn8tzWX6B7KtAyW-SuiSEwZ0upzpniYmzkhY5za-bnKK0DjA*auL5aXY46eIDAHmL&new=1)
+ ## [忧虑失去中国市场，美国芯片企业亚德诺加码投资中国市场](http://mp.weixin.qq.com/s?src=11&timestamp=1608253204&ver=2773&signature=or4KsnDhMWlIUxHDHP-OYFugk7JEJVA1sznPgsqx0YLhJPgKQ7cdqveYfECiaIXjBhTnS-bjDZrbMkxS7NepNndaWkqDpjzZHPBGI-nHjCTnd8xReNvIVUrkIfucNlvl&new=1)
  > 据媒体报道指出全球第二大模拟芯片企业--美国模拟芯片企业亚德诺宣布将加大对中国的投资，将亚德诺半导体技术（上海）有限公司升级为亚德诺半导体（中国）有限公司，希望通过就近服务的方式争取中国企业的支持。...
 # IT 技术 
+ ## [三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼](http://database.51cto.com/art/202012/635497.htm)
+ > 三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼
  ## [如何部署Jupyter Notebook用于交互式Python开发？](http://developer.51cto.com/art/202012/635496.htm)
  > 如何部署Jupyter Notebook用于交互式Python开发？
  ## [解析Java横死之谜，气定神闲看花开花落](http://developer.51cto.com/art/202012/635459.htm)
@@ -29,30 +31,28 @@ categories: IT NEWS
  > 金融科技的十二大发展趋势详解
  ## [随便几张图让你彻底理解回调函数就是这么爽快，年轻人，耗子喂汁](http://developer.51cto.com/art/202012/635435.htm)
  > 随便几张图让你彻底理解回调函数就是这么爽快，年轻人，耗子喂汁
- ## [如何创建通用的区块链智能合约](http://blockchain.51cto.com/art/202012/635247.htm)
- > 如何创建通用的区块链智能合约
- ## [MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05](http://fellow.51cto.com/art/202008/623592.htm?qd=51ctojrzd)
- > MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05
- ## [微软曝光Windows 10 21H2：操作界面中引入全新动画](http://os.51cto.com/art/202012/635615.htm)
- > 微软计划通过Windows 10 21H2为操作系统增加大量的功能变化，而且还会有一些动画方面的更新。在Windows 10
- ## [是时候捋一捋Java的深浅拷贝了](http://developer.51cto.com/art/202012/635613.htm)
- > 在开发、刷题、面试中，我们可能会遇到将一个对象的属性赋值到另一个对象的情况，这种情况就叫做拷贝。拷
- ## [5分钟！带你吐槽容器镜像中那些让人一言难尽的事情](http://stor.51cto.com/art/202012/635612.htm)
- > 现如今容器生态大受欢迎有许多原因，其中一个就是应用部署上的优秀体验，容器镜像的出现是这种体验能够成为
- ## [阿里，腾讯遭反垄断罚款！巨头们的蛮长时代要结束了？](http://news.51cto.com/art/202012/635611.htm)
- > 2019年10月的乌镇，秋高天暖。一年一度的互联网大会如约而至，然而，不管是互联网的大佬们，还是微末的互联
- ## [还在自己手写请假流程吗?Activiti7帮你快速请假!!!](http://developer.51cto.com/art/202012/635610.htm)
- > 本片博客的重点会放在「流程的讲解」以及「Activiti7的一些重点功能」上.详细的Activiti7教程会在之后的一
- ## [快速手上Flink SQL――Table与DataStream之间的互转](http://database.51cto.com/art/202012/635609.htm)
- > 本篇文章主要会跟大家分享如何连接kafka，MySQL，作为输入流和数出的操作,以及Table与DataStream进行互转。
- ## [配色原理](http://fellow.51cto.com/art/202012/635532.htm)
- > 通过学习该课程掌握色彩搭配的基本原理和方法
- ## [Gson：我爸是 Google](http://developer.51cto.com/art/202012/635608.htm)
- > 我叫 Gson，是一款开源的 Java 库，主要用途为序列化 Java 对象为 JSON 字符串，或反序列化 JSON 字符串成
- ## [IDC：2020年上半年EA SaaS市场规模达到13.6亿美元](http://cloud.51cto.com/art/202012/635607.htm)
- > 12月17日消息， IDC(国际数据公司)最新发布的《中国公有云企业级应用软件SaaS市场2020年上半年跟踪报
- ## [推荐使用并手写实现Redux-actions原理](http://developer.51cto.com/art/202012/635606.htm)
- > 第一次见到主要是接手公司原有的项目，发现有之前的大佬在处理redux的时候引入了它。发现也确实 使得 在对r
+ ## [2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战](http://fellow.51cto.com/art/202007/622205.htm?qd=51ctojrzd)
+ > 2019年 企业级Zabbix4.0+Grafana6.0入门实战视频教程 运维监控实战
+ ## [Python实现全自动购买火车票！抢票回家过年咯](http://developer.51cto.com/art/202012/635638.htm)
+ > 这里只进行了二等座的查询和购票，想要买其他的自己也可以进行修改 1.进行车票的查询 这里面需要注意的是在
+ ## [详解汇编语言B和LDR指令与相对跳转和绝对跳转的关系](http://developer.51cto.com/art/202012/635637.htm)
+ > 为什么要有相对跳转和绝对跳转?顺序执行：指令一条一条按照顺序往下执行，比如变量的定义和赋值都是按照顺
+ ## [面试官不讲码德，一上来就问我Chrome浏览器的渲染原理](http://os.51cto.com/art/202012/635635.htm)
+ > 对于HTML，css和JavaScript是如何变成页面的，这个问题你了解过吗?浏览器究竟在背后都做了些什么事情呢?让
+ ## [一款开源的前端监控神器，改bug终于不用迷茫了](http://developer.51cto.com/art/202012/635634.htm)
+ > 在项目交付用户使用的过程中，发现会有很多不可测的因素，你完全想不到用户会有什么样的操作，导致各种神奇
+ ## [聊聊国内芯片行业的现状，差距与未来](http://news.51cto.com/art/202012/635633.htm)
+ > 国内芯片行业的代表就是中芯国际，世界芯片行业的代表就是台积电、三星和英特尔今天借着中芯梁老的一封信，
+ ## [震惊，我被Redis入侵了](http://developer.51cto.com/art/202012/635632.htm)
+ > 好吧，我也做了回标题党，像我这么细心的同学，怎么可能让服务器被入侵呢?其实是这样的，昨天我和一个朋友
+ ## [5G方兴未艾，6G就来了，最新进展和趋势了解下](http://network.51cto.com/art/202012/635631.htm)
+ > 最新研究显示，5G 网络在数据传输速率、接入密度等方面面临新的技术瓶颈，而6G 的发展或将突破这些技术壁垒
+ ## [安卓系统迎来重磅更新！再也不用羡慕果粉了](http://mobile.51cto.com/anews-635630.htm)
+ > 今日，谷歌宣布与高通达成合作，从骁龙888移动平台开始，谷歌将为未来的安卓手机操作系统版本和安全更新提
+ ## [比特币飙涨突破22000美元 分析师称仍存上涨空间](http://blockchain.51cto.com/art/202012/635629.htm)
+ > 比特币本周飙涨约20%，首次突破22000美元，并引发了对这一全球最大加密货币还会进一步上涨的预期。比特币周
+ ## [建议收藏，MyBatis插件原理详解](http://developer.51cto.com/art/202012/635625.htm)
+ > 我将以 Executor 为例，分析 MyBatis 是如何为 Executor 实例植入插件的。Executor 实例是在开启 SqlSessio
  ## [博客之星年度总评选：巅峰之战，谁与争锋？](https://blog.csdn.net/blogdevteam/article/details/111316057)
  > 博客之星年度总评选：巅峰之战，谁与争锋？
  ## [vs2019安装和使用教程（详细）](https://blog.csdn.net/qq_36556893/article/details/88603729)
