@@ -1,22 +1,26 @@
 ---
 title: 2020-12-19 IT News
 copyright: true
-date: 2020-12-19 10:06:49
+date: 2020-12-19 12:04:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [自身坏消息频传，竞争对手则频传利好，大疆陷入寒冬了么?](http://mp.weixin.qq.com/s?src=11&timestamp=1608343204&ver=2775&signature=riikepZJj3FAyppBq-Gi7VawPWH2yE2-kJsqFzmMLjbNvAi2odSl33WriLPFO77tp5BqHLOTU6pmMz64Q8S3rnnf3jYL-FB1f1ij*TA1REoOXUCbDGBhp8jRucjO4H6x&new=1)
- > 近十年大疆在消费级无人机市场占据绝对优势市场地位，曾经风光无限，不过今年则频传裁员等不利消息，尤其让它难受的是竞争对手极飞利好频频，更是让大疆承受着巨大压力。大疆创始人汪滔最先发现了消费级无人机市...
- ## [全是干货!汽车行业734篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1608343204&ver=2775&signature=xFkgCPuIgkjrwV4-2dJFdAfUTepoWNNr2*WXK0UMDtyvSKKbT3x-0VHs0TurebP4J3wLWfVh8VDBOaT0BSCbxaPg*EFXg5ttizs4DFjk-kHvzZTnvOPvKWx8UsOVnMnE&new=1)
+ ## [全是干货!汽车行业734篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=xFkgCPuIgkjrwV4-2dJFdAfUTepoWNNr2*WXK0UMDtwvFVfzPEF9pJI9EJ-uozkFYp3V-ALYDC*c2uYs4MmP5tTxrATq0G0nUVLgNkByv9BDwD1vcKRIwrtoWb8G-1Fk&new=1)
  > 汽车行业734篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享734份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
- ## [亚马逊 CTO 预测 2021 将改变世界的八大技术趋势：图像、视频和音频的表达将超过文字；量子计算将蓬勃发展](http://mp.weixin.qq.com/s?src=11&timestamp=1608343204&ver=2775&signature=MphoBDH2JamYqEZ2dv258bBniAafqUT3xDHN33apPsuQfHCN22RuTO9ZNI5Ayu6eVIUg1ayDmaIHPvAVa369vpGy0syFvJZd-sk8zPUwpcY3pnkWjg9NiTfIhQ9zIgrP&new=1)
+ ## [亚马逊 CTO 预测 2021 将改变世界的八大技术趋势：图像、视频和音频的表达将超过文字；量子计算将蓬勃发展](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=MphoBDH2JamYqEZ2dv258bBniAafqUT3xDHN33apPsvSWQ3z9AMvz3GoJ*P68hRlv2VgQzXFSy2uXesuLLcAwNZFhM9yTdbrJ7d*S8nECz3wpyOCCIlqXP0Bn5MyVdyU&new=1)
  > 2020年12月17日，在为期三周的亚马逊re:Invent全球大会即将闭幕之际，亚马逊全球副总裁、首席技术官Werner Vogels博士发表压轴演讲，分享了他对2021年的科技趋势的预测。Werner也回顾了2020年，他表示，2020
- ## [刚刚，中国电信总部多部门人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1608343204&ver=2775&signature=N7bJ*8ksc5dOmJIgEa7XM3f7zaphuItSIpzuayiGSH0v7E1RBVevYzz9x9RKzNvvlqqYJlYdMUxAZo-Y7*l8CNO1CDiBkayh5ZD9alZZxC*HUuwRFtd*mnCeo10XTDyV&new=1)
- > 运营商情报从知情人士处获悉，中国电信云网发展部新增两名处长，分别是黄洪波和张文强，分别担任云网规划处处长和基础网络处处长。中国电信财务部又新增了多名处级干部，朱丽为资金处处长；俞鹏超为业务价值管理...
- ## [12/23线上新品发布会|英特尔智能移动设备参考设计发布会 开启招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1608343204&ver=2775&signature=DsfsEkfNCMAvXKEWfV3JKAmZcbk-VcI5fKMtJK-458Oydao9V-MRC0m24hbnfS0ozeAu73kJO96Bpt3RCpninUwHNBQOx94w2klKD482hHjqHzQwRZ4EMvi0zbo0BI8E&new=1)
+ ## [福晶科技成立30年 取得了怎样的成绩?](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=9IzGaXeJCyb5RA3QawrtJpSonL9DAtgYgfDBCJ4UiQFRVU6bkTXv-DXZeRp2LnCduCA9huXw3q-gMAdNJsLOnLCbDPuK0Ih-8yuuN6U2-bps1wQqPLNaP28NSdPEMce-&new=1)
+ > 2020年12月18日，福建福晶科技股份有限公司举办了30周年庆典活动。八十二位福晶“拾光者”作为一代又一代追光筑梦的福晶人的代表，用汗水和青春为福晶三十岁的生日献上了最好的礼物，而福晶为他们命名：“最美拾...
+ ## [中芯国际正式被美列入「实体清单」；美政府遭遇黑客大规模袭击；阿里：中央调查组进驻是谣言|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=yA35kMtzJyxseIHsb83QXthaokna-Va0Swn*odK0hpLofUIHq3-3NxDoYU68Qoeeho80JUVLv9JOb41uCmdIBn-yW04Hp*FSTtsYRMJvW33HayuZZCXNa34KAdtF1BVY&new=1)
+ > 中芯国际被美国商务部列入「实体清单」北京时间 12 月 18 日晚，美国商务部正式公告称，商务部工业和安全局（BIS）将中芯国际添加到实体清单中。中芯国际多次澄清，该公司只为民用和商用的终端用户提供产品及服...
+ ## [12/23线上新品发布会|英特尔智能移动设备参考设计发布会 开启招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=DsfsEkfNCMAvXKEWfV3JKAmZcbk-VcI5fKMtJK-458P0f*0eViqVKpNIFtRQAjNCKDmUOWeUglmoEE7psD7F9ezS63s5vTUKuHEWEjzrR*rG4n7ILsiwDKIGrR5PegQp&new=1)
  > 近年来，随着数字技术的进步，服务机器人的和终端客户的交互方式正在发生改变。在这个趋势中，交互方式从原来孤立的、被动的转向易用的、自主的新形态，全新的交互方式正在改变服务机器人行业的格局，这类新兴的...
- ## [聚焦·要闻|第一届全国技能大赛|新大陆全力保障“物联网技术”赛项圆满举行](http://mp.weixin.qq.com/s?src=11&timestamp=1608343204&ver=2775&signature=U8aWFpvOZ0PxFFNAS3LgGZcbZ47PHqtyzLjtBB83XBjYp7NeoiAV0qwJwfzFgqNb83A9KjnpZxv--H9OhcK6RHFpdQvW2ima70xWIsO*kVrj3F8zhppqquiq1sipQI0L&new=1)
+ ## [刚刚，中国电信总部多部门人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=N7bJ*8ksc5dOmJIgEa7XM3f7zaphuItSIpzuayiGSH2ZbQl-TN0FyNs7TMAp7eDv7ZMaNeMkDSssMdXRnULUJjX448xUbxJrabNifk60UX8igKP8ZNEJaac*ooKv5iAA&new=1)
+ > 运营商情报从知情人士处获悉，中国电信云网发展部新增两名处长，分别是黄洪波和张文强，分别担任云网规划处处长和基础网络处处长。中国电信财务部又新增了多名处级干部，朱丽为资金处处长；俞鹏超为业务价值管理...
+ ## [自身坏消息频传，竞争对手则频传利好，大疆陷入寒冬了么?](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=riikepZJj3FAyppBq-Gi7VawPWH2yE2-kJsqFzmMLjZJZtjgfOTgBfspleiYPBBlI6nHyWm7m78WU4z-rhmScyAATxCDgY1opohVILvdX26h5F1dU*cHbv13gxDjub9K&new=1)
+ > 近十年大疆在消费级无人机市场占据绝对优势市场地位，曾经风光无限，不过今年则频传裁员等不利消息，尤其让它难受的是竞争对手极飞利好频频，更是让大疆承受着巨大压力。大疆创始人汪滔最先发现了消费级无人机市...
+ ## [聚焦·要闻|第一届全国技能大赛|新大陆全力保障“物联网技术”赛项圆满举行](http://mp.weixin.qq.com/s?src=11&timestamp=1608350405&ver=2775&signature=U8aWFpvOZ0PxFFNAS3LgGZcbZ47PHqtyzLjtBB83XBhL*YOEyax*txDy88bq15kpV7IJYx89hA3Xw74ebPNHfhVHMp46FI4vdwqcLAJfuc30*K76-xFmoTYxYGP0KTme&new=1)
  > 第一届全国技能大赛 | 新大陆全力保障“物联网技术”赛项圆满举行NEWS | 新大陆荣获2020年福建省标准贡献奖二等奖第一届全国技能大赛 | 中华人民共和国第一届职业技能大赛圆满闭幕NEWS | 新大陆软件荣获江苏移动...
 # IT 技术 
  ## [三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼](http://database.51cto.com/art/202012/635497.htm)
@@ -33,8 +37,14 @@ categories: IT NEWS
  > Docker入门终极指南，别再说不会用Docker了！
  ## [数据太多而无法使用？快试试这个Kaggle大数据集高效访问教程](http://bigdata.51cto.com/art/202012/635503.htm)
  > 数据太多而无法使用？快试试这个Kaggle大数据集高效访问教程
- ## [MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04](http://fellow.51cto.com/art/202008/623595.htm?qd=51ctojrzd)
- > MySQL主从复制项目(MHA+双主Keepalived)_MySQL高可用复制与分布式集群架构04
+ ## [Linux平台MariaDB安装配置与管理入门_MySQL数据库基础与项目实战04](http://fellow.51cto.com/art/202012/635043.htm?qd=51ctojrzd)
+ > Linux平台MariaDB安装配置与管理入门_MySQL数据库基础与项目实战04
+ ## [用 PyTorch 实现基于字符的循环神经网络](http://ai.51cto.com/art/202012/635854.htm)
+ > 在过去的几周里，我花了很多时间用 PyTorch 实现了一个 char-rnn 的版本。我以前从未训练过神经网络，所以
+ ## [如何写出更稳定的Python 代码？](http://developer.51cto.com/art/202012/635847.htm)
+ > 目前市面上，讲 Python 入门的课程很多、讲基于 Python 实现的 AI、数据分析、后端的课程也很多。但讲 Pyth
+ ## [后量子时代的密码学](http://netsecurity.51cto.com/art/202012/635846.htm)
+ > 目前的社会工程、钓鱼邮件、勒索软件攻击等都是由黑客和传统计算机完成的，如果黑客拥有一台量子计算机，那
  ## [博客之星年度总评选：巅峰之战，谁与争锋？](https://blog.csdn.net/blogdevteam/article/details/111316057)
  > 博客之星年度总评选：巅峰之战，谁与争锋？
  ## [企名片数据加密javascript逆向实战](https://blog.csdn.net/qiulin_wu/article/details/105954687)
