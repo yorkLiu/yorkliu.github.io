@@ -1,21 +1,21 @@
 ---
 title: 2020-12-19 IT News
 copyright: true
-date: 2020-12-19 08:19:28
+date: 2020-12-19 09:13:31
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [亚马逊 CTO 预测 2021 将改变世界的八大技术趋势：图像、视频和音频的表达将超过文字；量子计算将蓬勃发展](http://mp.weixin.qq.com/s?src=11&timestamp=1608336005&ver=2775&signature=MphoBDH2JamYqEZ2dv258bBniAafqUT3xDHN33apPsthRQHJKHsh*t*a-ZmD9acT9UNx8j0b3iCd8HU1cknOE1y*IB3rN-EKzcR7kE-heEJO58HYcpGz814hOSYD*CFR&new=1)
- > 2020年12月17日，在为期三周的亚马逊re:Invent全球大会即将闭幕之际，亚马逊全球副总裁、首席技术官Werner Vogels博士发表压轴演讲，分享了他对2021年的科技趋势的预测。Werner也回顾了2020年，他表示，2020
- ## [自身坏消息频传，竞争对手则频传利好，大疆陷入寒冬了么?](http://mp.weixin.qq.com/s?src=11&timestamp=1608336005&ver=2775&signature=riikepZJj3FAyppBq-Gi7VawPWH2yE2-kJsqFzmMLjb1Ob7Qv8W0Oe8vooKrhr3ulZEhHwPBD1dMyFGTS2MuXKIA2fbdfwBHoqSVa3834bo6paiOK2RVOvimtEs077FX&new=1)
- > 近十年大疆在消费级无人机市场占据绝对优势市场地位，曾经风光无限，不过今年则频传裁员等不利消息，尤其让它难受的是竞争对手极飞利好频频，更是让大疆承受着巨大压力。大疆创始人汪滔最先发现了消费级无人机市...
- ## [刚刚，中国电信总部多部门人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1608336005&ver=2775&signature=N7bJ*8ksc5dOmJIgEa7XM3f7zaphuItSIpzuayiGSH0YbWgweopodYigOiF3h-1bG8UAhtIjm054VwbikFhKBOt5*djKcWmCIyqMjHw6CKIvycvNH3qoBtgZ35WcqrFT&new=1)
- > 运营商情报从知情人士处获悉，中国电信云网发展部新增两名处长，分别是黄洪波和张文强，分别担任云网规划处处长和基础网络处处长。中国电信财务部又新增了多名处级干部，朱丽为资金处处长；俞鹏超为业务价值管理...
- ## [聚焦·要闻|第一届全国技能大赛|新大陆全力保障“物联网技术”赛项圆满举行](http://mp.weixin.qq.com/s?src=11&timestamp=1608336005&ver=2775&signature=U8aWFpvOZ0PxFFNAS3LgGZcbZ47PHqtyzLjtBB83XBgcvr853w-N2EK43tbprnCUlQ7II28u7wYnp-7eMcuy8FQYhkyUJM6gZEq1SFEjhLwXo*oS11VO4WHqfWLfeztT&new=1)
+ ## [聚焦·要闻|第一届全国技能大赛|新大陆全力保障“物联网技术”赛项圆满举行](http://mp.weixin.qq.com/s?src=11&timestamp=1608339605&ver=2775&signature=U8aWFpvOZ0PxFFNAS3LgGZcbZ47PHqtyzLjtBB83XBgcvr853w-N2EK43tbprnCUPpte24LogR9dGX8tTWpMHsfFPyF9gZ6q6rQKMLCCj7EhGnV6LRCRo7N7fCDASMLk&new=1)
  > 第一届全国技能大赛 | 新大陆全力保障“物联网技术”赛项圆满举行NEWS | 新大陆荣获2020年福建省标准贡献奖二等奖第一届全国技能大赛 | 中华人民共和国第一届职业技能大赛圆满闭幕NEWS | 新大陆软件荣获江苏移动...
- ## [12/23线上新品发布会|英特尔智能移动设备参考设计发布会 开启招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1608336005&ver=2775&signature=DsfsEkfNCMAvXKEWfV3JKAmZcbk-VcI5fKMtJK-458Mwnu5r-pdQOjaiAMyhHwB5sWaAzzDRs0EivxkALHH7x*qTPMsi3rzrRNytCYPPaQQ1E48DISndDQblXPpwrP26&new=1)
+ ## [刚刚，中国电信总部多部门人事调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1608339605&ver=2775&signature=N7bJ*8ksc5dOmJIgEa7XM3f7zaphuItSIpzuayiGSH0YbWgweopodYigOiF3h-1bnk76YWOP0Qf4LW9lEcbcT1xTWpNK1nNcS2j5ujk1dGErZcItD8CWiO0hceC-3jaT&new=1)
+ > 运营商情报从知情人士处获悉，中国电信云网发展部新增两名处长，分别是黄洪波和张文强，分别担任云网规划处处长和基础网络处处长。中国电信财务部又新增了多名处级干部，朱丽为资金处处长；俞鹏超为业务价值管理...
+ ## [12/23线上新品发布会|英特尔智能移动设备参考设计发布会 开启招募!](http://mp.weixin.qq.com/s?src=11&timestamp=1608339605&ver=2775&signature=DsfsEkfNCMAvXKEWfV3JKAmZcbk-VcI5fKMtJK-458Mwnu5r-pdQOjaiAMyhHwB5twwKIPOhxrI8EDCAgpiUGs1zoQPPfWaCFjZkMJ5bbBEYJRmyfeak8Z*MR0-Dx-mS&new=1)
  > 近年来，随着数字技术的进步，服务机器人的和终端客户的交互方式正在发生改变。在这个趋势中，交互方式从原来孤立的、被动的转向易用的、自主的新形态，全新的交互方式正在改变服务机器人行业的格局，这类新兴的...
+ ## [亚马逊 CTO 预测 2021 将改变世界的八大技术趋势：图像、视频和音频的表达将超过文字；量子计算将蓬勃发展](http://mp.weixin.qq.com/s?src=11&timestamp=1608339605&ver=2775&signature=MphoBDH2JamYqEZ2dv258bBniAafqUT3xDHN33apPsthRQHJKHsh*t*a-ZmD9acT-V9qnNzEHzkU4D4UJBxv-ZmCc3BgHmEhSIGTRQdLZfOcm6zrq6ufLuZ7LauKedBr&new=1)
+ > 2020年12月17日，在为期三周的亚马逊re:Invent全球大会即将闭幕之际，亚马逊全球副总裁、首席技术官Werner Vogels博士发表压轴演讲，分享了他对2021年的科技趋势的预测。Werner也回顾了2020年，他表示，2020
+ ## [自身坏消息频传，竞争对手则频传利好，大疆陷入寒冬了么?](http://mp.weixin.qq.com/s?src=11&timestamp=1608339605&ver=2775&signature=riikepZJj3FAyppBq-Gi7VawPWH2yE2-kJsqFzmMLjb1Ob7Qv8W0Oe8vooKrhr3u9JWJN1Aq2qapiHuzuibYXaUOcGr*68Ub4ovTbVmo-MFhGvqG350vludZuRRl6RkN&new=1)
+ > 近十年大疆在消费级无人机市场占据绝对优势市场地位，曾经风光无限，不过今年则频传裁员等不利消息，尤其让它难受的是竞争对手极飞利好频频，更是让大疆承受着巨大压力。大疆创始人汪滔最先发现了消费级无人机市...
 # IT 技术 
  ## [三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼](http://database.51cto.com/art/202012/635497.htm)
  > 三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼
@@ -31,8 +31,10 @@ categories: IT NEWS
  > Docker入门终极指南，别再说不会用Docker了！
  ## [数据太多而无法使用？快试试这个Kaggle大数据集高效访问教程](http://bigdata.51cto.com/art/202012/635503.htm)
  > 数据太多而无法使用？快试试这个Kaggle大数据集高效访问教程
- ## [图解Python（1）（基础篇）](http://fellow.51cto.com/art/202012/635276.htm?qd=51ctojrzd)
- > 图解Python（1）（基础篇）
+ ## [Linux平台MariaDB安装配置与管理入门_MySQL数据库基础与项目实战04](http://fellow.51cto.com/art/202012/635043.htm?qd=51ctojrzd)
+ > Linux平台MariaDB安装配置与管理入门_MySQL数据库基础与项目实战04
+ ## [基于Qt的智能安防监控系统实训](http://fellow.51cto.com/art/202012/635773.htm)
+ > 5天课程，10小时，完整完成一个嵌入式项目实训，纯干货
  ## [博客之星年度总评选：巅峰之战，谁与争锋？](https://blog.csdn.net/blogdevteam/article/details/111316057)
  > 博客之星年度总评选：巅峰之战，谁与争锋？
  ## [企名片数据加密javascript逆向实战](https://blog.csdn.net/qiulin_wu/article/details/105954687)
