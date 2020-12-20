@@ -1,21 +1,10 @@
 ---
 title: 2020-12-20 IT News
 copyright: true
-date: 2020-12-20 08:00:54
+date: 2020-12-20 09:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
-# IT 新闻 
- ## [京东云无线宝路由器白嫖计划](http://mp.weixin.qq.com/s?src=11&timestamp=1608420604&ver=2777&signature=9*43u9UspaKGVjApOSjl4ZNfSLRjqBvpQAeDTSnf1hNiGg4-wTynuUbiEhib9T*3fVyOL-IG6Lk5l3iAMDIPVy7EuSzsHK2pHhvERagBSE*1rXvAqKkjn0aETD6hhooF&new=1)
- > 前段时间呢，在公众号发布了一篇关于红米AC2100的测评，后台有不少小伙伴要求于小米的AC2100进行对比，于是乎就跑去京东逛了一圈准备再买点路由器； 然后呢，除了2个AC2100之外，京东出品的 京东云无线宝路由器 ...
- ## [刚刚，中国电信重要子公司管理层调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1608420604&ver=2777&signature=qRs-XBbZhAnWD48A4IlULSFwtUkafoFFMNHKFqEiDHTELFYe9LBLwjw4Ctu2k1C8QFYHdjMT1xKxmeRHfMZf6qL5YO31KBioJhIakei5T5Yfqk5tWMF3F2US0ygVImb3&new=1)
- > 运营商情报获悉，原武汉电信副总经理朱庭俊已升任中国电信集团系统集成有限责任公司副总经理。较早前，苏州电信副总经理刘沛辉担任中国电信集团系统集成责任有限公司党委委员、纪委书记。来源：运营商情报监制：...
- ## [刘鹏在2020江西省职业院校计算机院长主任年会作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1608420604&ver=2777&signature=mhxmSiS6nL3kE3W6YbCaIpHESrVNF7qaaIQ-n*g*Q-TJmKx2GvDB3*ETWjINRyxLDU2JxxxZKoi5bYfezw-wcfsWRTVvz-OxX6kTGecqj5sW1*wYcRCZBC5t7Ao3Taf8&new=1)
- > 12月18日下午，2020年江西省计算机学会高职高专工作委员会年暨首届江西省职业院校计算机系（学院）主任（院长）年会在九江市拉开帷幕。本次活动由江西省计算机学会高职高专工作委员会主办，九江职业技术学院承办...
- ## [中国移动11月5G套餐用户大增1859万，累计近1.5亿](http://mp.weixin.qq.com/s?src=11&timestamp=1608420604&ver=2777&signature=e9dr*WchGFxjtiUareC*lq*w*9UELzMZ9NPxsQSZLfNlCA8kBT3wXMQPAIaPRlW8iyOXMZpz7fmJ3fh2o6lo2qi83nS5-66CRUi3GbWTXfZpsuLhlUjUbG0s2ntZ8tvt&new=1)
- > 中国移动昨日公布2020年11月份运营数据，当月，中国移动移动客户数净减263.4万户，用户总数达到9.4371亿户。5G套餐客户保持快速增长，当月，中国移动5G套餐客户数净增1858.9万户，累计达到1.47382亿户；4G客户数...
- ## [外卖大数据杀熟说明了中国互联网的短视，而外国企业用大数据创新](http://mp.weixin.qq.com/s?src=11&timestamp=1608420604&ver=2777&signature=kTC2WcqvIK4XfANi3Pbw5MtUGFZOSXSDHNkM46E2NCUVDKieK2Xo8Z35lksp0ZD2KSilBza*uH8c-tMPnVhmgdd9tHAOxT-Uw0kjkkovFizu2zeNQooi4F*nYPFIhBD2&new=1)
- > 近期外卖企业大数据杀熟受到知名媒体的批评，同时也证明了这一事实，由此可以看出中国互联网行业的短视，相比之下外国企业却是利用大数据进行创新，这或许就是中外互联网行业最大的不同吧。大数据杀熟的疑问其实...
 # IT 技术 
  ## [三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼](http://database.51cto.com/art/202012/635497.htm)
  > 三大流行数据库（MongoDB、PostgreSQL和Harper）大比拼
@@ -31,8 +20,8 @@ categories: IT NEWS
  > Docker入门终极指南，别再说不会用Docker了！
  ## [数据太多而无法使用？快试试这个Kaggle大数据集高效访问教程](http://bigdata.51cto.com/art/202012/635503.htm)
  > 数据太多而无法使用？快试试这个Kaggle大数据集高效访问教程
- ## [MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05](http://fellow.51cto.com/art/202008/622837.htm?qd=51ctojrzd)
- > MySQL自定义函数与内置函数的应用_MySQL数据库SQL语言开发与应用实战05
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
  ## [博客之星年度总评选：巅峰之战，谁与争锋？](https://blog.csdn.net/blogdevteam/article/details/111316057)
  > 博客之星年度总评选：巅峰之战，谁与争锋？
  ## [Ubuntu16.04 Caffe 安装步骤记录（超详尽）](https://blog.csdn.net/yhaolpz/article/details/71375762)
