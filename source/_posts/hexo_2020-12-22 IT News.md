@@ -1,20 +1,22 @@
 ---
 title: 2020-12-22 IT News
 copyright: true
-date: 2020-12-22 08:26:05
+date: 2020-12-22 09:17:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [自动驾驶终于出了第一个生态联盟](http://mp.weixin.qq.com/s?src=11&timestamp=1608595205&ver=2781&signature=V5DCVTR6PG58r-gegQCXNU1KM4xxLAqpQYUxXpgd3GJl6w-TVpnU2JwcnDZyzAukQ9hksQb97*KiVB4Wl*WPmmuHyK4MXxi15VasY-Eh9lJo2DQ7zltNLsHDw44p0ePH&new=1)
- > 自动驾驶行业终于有生态联盟了。 12月18日，T3出行、苏州高铁新城、江苏大运集团战略发布会在苏州举办，国内首个自动驾驶生态运营联盟——“鳌头联盟”正式诞生。据悉该联盟以科技公司、主机厂和出行平台组成“...
- ## [5G基站耗电量凶猛，再有新证，难怪运营商都承受不了](http://mp.weixin.qq.com/s?src=11&timestamp=1608595205&ver=2781&signature=HskKYxYN0AVJNnfA65FM0IRNVQHUoFRoikkQydbxUZXFEBxyHgyv6Oa0FR7EexGtXdtbsv*bVe2FSsyfA5*BMAuI4BiuG-Jxp4dL7Edzmp05jecWRkAn4gKIEBz-b*zQ&new=1)
+ ## [5G基站耗电量凶猛，再有新证，难怪运营商都承受不了](http://mp.weixin.qq.com/s?src=11&timestamp=1608598805&ver=2781&signature=HskKYxYN0AVJNnfA65FM0IRNVQHUoFRoikkQydbxUZXFEBxyHgyv6Oa0FR7EexGtlD7OGUbVXEnAqOhHF9jom7ohsbEHOny6Jkzhc3LLgNaLUcbHt0oXCyoehk2lFmVA&new=1)
  > 近日中国电信公布的社会责任发展报告显示其耗电量猛增，从侧面证明了5G基站的耗电量确实惊人，难怪运营商难以承受5G网络耗电量剧增导致的电费成本猛增。据中国电信公布的数据显示，2019年它的基站每载频耗电量猛...
- ## [全新Windows文件资源管理器或与Windows 10X一起到来](http://mp.weixin.qq.com/s?src=11&timestamp=1608595205&ver=2781&signature=F-kCsNxiFR4WeFk8GgLWsxlQrp9RvNktUReFNKaG4Pvo7DcTaBvb1IoIywQxKSi7XBfafgab25Vhk5Nq9E4jFoLm0qRvquwxQVf91BK*TYVk265iLE2jmRgkbKHNyfjK&new=1)
- > Windows 10X即将到来，最终版本的Windows 10X将包括一个新的现代文件资源管理器。目前版本的Windows 10文件资源管理器是Windows Shell的一部分，可以让用户浏览文件和文件夹等操作。Windows 10X中文
- ## [据报道，微软正在开发自己的基于ARM的芯片组](http://mp.weixin.qq.com/s?src=11&timestamp=1608595205&ver=2781&signature=yiKXUBeR*iX6QpBA319d191KUPK4uTaSTT9-U8Y5R2PlCPPtB3-pU2oDdObCIOuXCV7eErEN26d1tdECmZI-BFlkCfQrWVK91AfviCOuMEiUaKvDLJZ1ZkNKEQS3yYud&new=1)
+ ## [自动驾驶终于出了第一个生态联盟](http://mp.weixin.qq.com/s?src=11&timestamp=1608598805&ver=2781&signature=V5DCVTR6PG58r-gegQCXNU1KM4xxLAqpQYUxXpgd3GJl6w-TVpnU2JwcnDZyzAukgoMjxX2r*4G08PPQ0dA8B9QWNv-KldwHg6H63P2tvjLYAVQxWiPUAlxDZTlrFtCY&new=1)
+ > 自动驾驶行业终于有生态联盟了。 12月18日，T3出行、苏州高铁新城、江苏大运集团战略发布会在苏州举办，国内首个自动驾驶生态运营联盟——“鳌头联盟”正式诞生。据悉该联盟以科技公司、主机厂和出行平台组成“...
+ ## [据报道，微软正在开发自己的基于ARM的芯片组](http://mp.weixin.qq.com/s?src=11&timestamp=1608598805&ver=2781&signature=yiKXUBeR*iX6QpBA319d191KUPK4uTaSTT9-U8Y5R2PlCPPtB3-pU2oDdObCIOuXF-Jd0-odv53v50hKRnqQpZ6Rn1kX0UK43co6b3a4ZZFomjdeisk4fb*NoJWqeIKv&new=1)
  > 苹果在今年早些时候宣布将推出其基于ARM的Apple Silicon。最近，随着搭载Apple M1芯片组的Mac设备的发布，该公司正式开始了从英特尔到Apple Silicon的过渡过程。现在，根据彭博社的报道，微软也紧随苹果的领导地...
+ ## [全新Windows文件资源管理器或与Windows 10X一起到来](http://mp.weixin.qq.com/s?src=11&timestamp=1608598805&ver=2781&signature=F-kCsNxiFR4WeFk8GgLWsxlQrp9RvNktUReFNKaG4Pvo7DcTaBvb1IoIywQxKSi7ufPdB4Vo1IKD0mgoba-OVF4ezouhSrSLkkiw3c1CkokqFGxZJnLZ2Sqi9gl9IyT5&new=1)
+ > Windows 10X即将到来，最终版本的Windows 10X将包括一个新的现代文件资源管理器。目前版本的Windows 10文件资源管理器是Windows Shell的一部分，可以让用户浏览文件和文件夹等操作。Windows 10X中文
 # IT 技术 
+ ## [2021年值得关注的8种自动化趋势](http://www.cioage.com/art/202012/636234.htm)
+ > 2021年值得关注的8种自动化趋势
  ## [七大静态密码分析工具](http://developer.51cto.com/art/202012/636233.htm)
  > 七大静态密码分析工具
  ## [无锁缓存，每秒10万并发，究竟如何实现？](http://zhuanlan.51cto.com/art/202012/636128.htm)
@@ -27,10 +29,20 @@ categories: IT NEWS
  > 2020征文-手表鸿蒙HarmonyOS小游戏十二生肖之找到那只猪及上架
  ## [2021年将改变云计算行业的三大趋势](http://cloud.51cto.com/art/202012/636131.htm)
  > 2021年将改变云计算行业的三大趋势
- ## [人工智能学习之什么是人工神经网络？](http://ai.51cto.com/art/202012/635745.htm)
- > 人工智能学习之什么是人工神经网络？
- ## [Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训](http://fellow.51cto.com/art/202012/636254.htm?qd=51ctojrzd)
- > Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训
+ ## [MySQL培训速成教程（八）：MySQL主从复制集群配置](http://fellow.51cto.com/art/202007/622202.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（八）：MySQL主从复制集群配置
+ ## [全球第三季度DDoS报告](http://netsecurity.51cto.com/art/202012/636355.htm)
+ > Lucifer僵尸网络于上个季度首次出现，它会同时感染Windows和Linux设备，使用TCP，UDP，ICMP，HTTP协议并欺
+ ## [Golang牵手PostgreSQL"增删改查+不写结构快速扫描字段"快速入门](http://database.51cto.com/art/202012/636353.htm)
+ > 本文主要使用的github.com/lib/pq包, 它是一款为Go语言database/sql包(sql包是go定义的一套围绕SQL或类似SQ
+ ## [显示器不可不知的参数！助你辨别显示器好坏](http://biz.51cto.com/art/202012/636351.htm)
+ > 在刨去品牌溢价、模具做工、附加功能等因素后，导致两台显示器价格差距如此巨大，最根本的原因还是二者所使
+ ## [文件写入的6种方法，这种方法性能较好](http://developer.51cto.com/art/202012/636350.htm)
+ > 在 Java 中操作文件的方法本质上只有两种：字符流和字节流，而字节流和字符流的实现类又有很多，因此在文件
+ ## [介绍下Netty中常用的编码器和解码器](http://network.51cto.com/art/202012/636349.htm)
+ > 这篇文章，介绍什么是编码器、解码器，也讲述了如何实战中运用编码器和解码器。希望能对有所帮助。
+ ## [拥抱云原生，如何将开源项目用k8s部署？](http://developer.51cto.com/art/202012/636348.htm)
+ > 本文将重点分享阿里开源项目otter适配k8s部署的改造过程，其中的改造过程和技巧应该适用于将大多数开源项目
  ## [你的显示器偏色吗？五分钟看懂校色的那些事儿](http://biz.51cto.com/art/202012/636347.htm)
  > 显示设备的天职就是让事物的色彩正确还原并显示出来，所以衡量显示器好坏的重要标准，就是画面显示的质量高
  ## [SSD硬盘上市后还能“缩水”？多家厂商发声回应](http://biz.51cto.com/art/202012/636346.htm)
@@ -39,40 +51,36 @@ categories: IT NEWS
  > 线性回归的改进版本中的多项式回归。如果您知道线性回归，那么对您来说很简单。如果没有，我将在本文中解释
  ## [5G甚嚣尘上，4G用户难以偏安一隅](http://network.51cto.com/art/202012/636340.htm)
  > 调查显示，超过75%的4G用户感知到网速变慢。多数用户统一将矛头指向运营商急于为5G铺路，对4G主动限速。诚
- ## [Windows10新版大曝光！Windows10还会有大改动吗?](http://os.51cto.com/art/202012/636336.htm)
- > 微软在今年已经向Windows 10推送了最后一次大版本更新20H2，这次更新带来了全新的开始菜单，但依然存在很多
- ## [探讨！到底什么是CDN？](http://cloud.51cto.com/art/202012/636335.htm)
- > CDN可以算是边缘计算的一种特殊形式。CDN主要是存储能力和少部分计算能力的下沉，功能较为有限。真正的MEC
- ## [C窗体-数据库连接及登录功能的实现](https://blog.csdn.net/lady_killer9/article/details/78512993)
- > C窗体-数据库连接及登录功能的实现
- ## [五子棋人机对战完整代码](https://blog.csdn.net/nameofcsdn/article/details/78640511)
- > 五子棋人机对战完整代码
+ ## [深入浅出TCPIP之实战篇—用c++开发一个http服务器（二十一）](https://blog.csdn.net/pbymw8iwm/article/details/109641216)
+ > 深入浅出TCPIP之实战篇—用c++开发一个http服务器（二十一）
+ ## [SSM图书管理系统(源码分享)](https://blog.csdn.net/qq_28631165/article/details/89741940)
+ > SSM图书管理系统(源码分享)
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [\[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态](https://blog.csdn.net/Smell_rookie/article/details/108704245)
- > \[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态
- ## [机器学习算法（一）SVM](https://blog.csdn.net/qq_31347869/article/details/88071930)
- > 机器学习算法（一）SVM
- ## [Python爬虫与数据可视化](https://blog.csdn.net/qq_37076942/article/details/91620577)
- > Python爬虫与数据可视化
- ## [基于 Echarts 实现可视化数据大屏展示](https://blog.csdn.net/weixin_43216105/article/details/100559087)
- > 基于 Echarts 实现可视化数据大屏展示
- ## [2019计算机视觉-包揽所有前沿论文源码](https://blog.csdn.net/weixin_43013761/article/details/102698446)
- > 2019计算机视觉-包揽所有前沿论文源码
- ## [什么？你正在学web自动化测试？那这些Selenium的基本操作你了解过嘛？](https://blog.csdn.net/weixin_46457203/article/details/106164117)
- > 
  ## [六个步骤，从零开始教你搭建基于WordPress的个人博客](https://blog.csdn.net/devcloud/article/details/111310480)
  > 六个步骤，从零开始教你搭建基于WordPress的个人博客
- ## [超市进销存管理系统（C+SQL Server实现）C窗体应用、数据库应用，生成可执行安装包程序](https://blog.csdn.net/Zzehao11/article/details/107138568)
+ ## [2020云计算省赛总结](https://blog.csdn.net/qq_45714272/article/details/110313164)
+ > 2020云计算省赛总结
+ ## [中间件的解析漏洞详解及演示](https://blog.csdn.net/qq_41679358/article/details/108109439)
+ > 中间件的解析漏洞详解及演示
+ ## [Tensorflow 2.0   !!!!  No module named 'tensorflow.examples.tutorials'解决办法，有用](https://blog.csdn.net/qq_43060552/article/details/103189040)
+ > Tensorflow 2.0   !!!!  No module named &x27;tensorflow.examples.tutorials&x27;解决办法，有用
+ ## [【目标检测】Faster RCNN算法详解](https://blog.csdn.net/shenxiaolu1984/article/details/51152614)
+ > 【目标检测】Faster RCNN算法详解
+ ## [\[Python人工智能\] 二十三.基于机器学习和TFIDF的情感分类（含详细的NLP数据清洗）](https://blog.csdn.net/Eastmount/article/details/107906799)
+ > \[Python人工智能\] 二十三.基于机器学习和TFIDF的情感分类（含详细的NLP数据清洗）
+ ## [python一键合并上千个Excel表（对不起！！因为这事，我和同事吵了一架）](https://blog.csdn.net/qiukui111/article/details/107096970)
  > 
- ## [PHP 还有未来么，还是 25 岁就“寿终正寝”了？](https://blog.csdn.net/csdnnews/article/details/110085616)
- > PHP 还有未来么，还是 25 岁就“寿终正寝”了？
- ## [有没有那么一道题，让你从此真正理解了Python编程？](https://blog.csdn.net/xufive/article/details/105215593)
+ ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
  > 
- ## [YOLO v3网络结构分析](https://blog.csdn.net/qq_37541097/article/details/81214953)
- > YOLO v3网络结构分析
+ ## [深入理解PHP+Mysql分布式事务与解决方案](https://blog.csdn.net/liuxingjiaoyuC/article/details/110132660)
+ > 深入理解PHP+Mysql分布式事务与解决方案
+ ## [Ubuntu18.04安装ROS Melodic（详细，亲测安装完成，有清晰的截图步骤）](https://blog.csdn.net/qq_44830040/article/details/106049992)
+ > Ubuntu18.04安装ROS Melodic（详细，亲测安装完成，有清晰的截图步骤）
+ ## [1+X Web前端等级考证 | 2020 12月Web前端开发中级实操 (试卷5) 附答案](https://blog.csdn.net/weixin_43853746/article/details/109753433)
+ > 1+X Web前端等级考证 | 2020 12月Web前端开发中级实操 (试卷5) 附答案
 # 人工智能 
  ## [阿里 Sentinel 源码解析](https://blog.csdn.net/qq_33589510/article/details/106090735)
  > 阿里 Sentinel 源码解析
