@@ -1,116 +1,120 @@
 ---
 title: 2020-12-23 IT News
 copyright: true
-date: 2020-12-23 09:13:32
+date: 2020-12-23 10:11:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [运营商人星光大赏2020完整版正式发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1608685205&ver=2783&signature=Lsd-e23micyX0UF6tOoCAeGLcuBE7mKkeCns-s59FtCyIrgZXcuH5n6vBUa6YYNqzGPqoyD2Vtdy7XwWhD3F-zEKpIlCkpVCVA8V8krDsenDoW9UK2*s4eZ3LssSX1X7&new=1)
+ ## [运营商人星光大赏2020完整版正式发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1608688805&ver=2783&signature=Lsd-e23micyX0UF6tOoCAeGLcuBE7mKkeCns-s59FtCyIrgZXcuH5n6vBUa6YYNqE5IP9sScfWfQ2NPwqFf5LS2ZnNLMIz80Y0LaBbN-PX04D13DftLOGoAVnWd2Squm&new=1)
  > 2020年已接近尾声各类年度总结盘点也提上了日程看看通信运营商人的2020年度总结 我的工作：一笔概括▼我的存款：一目了然▼我的心情：不堪一击▼我的脾气：一点就炸▼我的发量：盈盈一握▼我的感情：一直单身▼...
- ## [几乎无解的最强加密方法，终于被证实真的存在](http://mp.weixin.qq.com/s?src=11&timestamp=1608685205&ver=2783&signature=ayiR054gRcNN52o46hiCkjEyXiS3vvv*T81hZQsoX6aK2Yud3*Yeyb0yPJbHsgADqI1Mv-HNodXK9nEuU2sDO46fi6OhLRJOuVeTX4Y1SvgW*FCv9ikwDTNTutT8Cyyc&new=1)
- > 图片来源：Kiel Mutschelknaus for Quanta Magazine构建无法破解的密码，是众多密码学科学家的目标。一种被称为不可区分混淆的加密方式因为太过完美，多年来被认为无法实现。不过最近，三名研究者首次证明不可区...
- ## [震惊!电信状告联通，法院判决来了..](http://mp.weixin.qq.com/s?src=11&timestamp=1608685205&ver=2783&signature=j0FAoq5Cj-v0a1rGlqjY4CpvHQPXrScaj4JWxFwRw3yMLUPDFJWgJPHzqoD9v66gFg6rw-O2nZjcmNCt3zHGBTH*Qyje6tqMrtemVM3G61bhDJfLYl172QdFFNrsh*Le&new=1)
- > 数百万元的差额，联通公司一直不配合履行结算义务，导致2016年后的费用不能如期完成结算，虽每年催促仍未果。日前，榆阳法院收到了中国电信榆林分公司的起诉书，被告是中国联通榆林分公司。经法院调解，目前双方...
- ## [亚马逊 CTO 预测2021：八大技术趋势改变世界](http://mp.weixin.qq.com/s?src=11&timestamp=1608685205&ver=2783&signature=BAxHLmGOp0oIJLpI52CbcOh0VdZk0FXPwDQTCbPJLHL5MwvxwEj6VaYwgB-5xzTiaPx59ZWWJLHWZ3UPBOUMnmaKBOJjCzfLLZpA4EnkGcK8mSg5FBE5mErugFYF1yDU&new=1)
+ ## [讯石专访| 通鼎互联总经理冒兵：提早布局谋转型 把握未来新机遇](http://mp.weixin.qq.com/s?src=11&timestamp=1608688805&ver=2783&signature=8ojuSvhidokSnVovwH*tIogITwhQJGrhRLy6c*XnEI6x1uV6nhJaTAZpr75a64ghY62-jCUr8nH7-tls*aDKYnT68ju*upRNyiXdIVr-y4paKbmXFcMj77g*5x1l6kbD&new=1)
+ > 新闻导读通鼎互联冒兵先生接受讯石采访，回顾过往，通鼎互联利用了我国光纤网络发展窗口，成功奠定自身行业领先地位;展望未来，面对新基建带来的巨大机遇，更要积极布局谋转型，把握未来新一代网络将创造的伟大...
+ ## [亚马逊 CTO 预测2021：八大技术趋势改变世界](http://mp.weixin.qq.com/s?src=11&timestamp=1608688805&ver=2783&signature=BAxHLmGOp0oIJLpI52CbcOh0VdZk0FXPwDQTCbPJLHL5MwvxwEj6VaYwgB-5xzTiI3SJJ7XvNta8fpsfXR9IIH4sl5E7aElZGw6sFN1GhWe5AKny4jKiHxDkXguA1EgJ&new=1)
  > 2020年12月18日，在为期三周的亚马逊re:Invent全球大会即将闭幕之际，亚马逊全球副总裁、首席技术官Werner Vogels博士发表压轴演讲，分享了他对2021年的科技趋势的预测。Werner也回顾了2020年，他表示，2020
+ ## [\[报告\]理想汽车最新调研分析2020版(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608688805&ver=2783&signature=jTm-sgv8KGqj1f-AgSzjTmsE*yS26PtplALPnRKBubpStXD4Eb8RoZd-izniuKdjYeZMZBB4mepHwpO7olvQjRyxEFrZutlRDgSMM595vcMTUX*ULUbq2NXRYmC-YkN2&new=1)
+ > 理想汽车是李想（汽车之家创始人）于2015年7月创立的新能源汽车公司。公司专注家庭出行用车，主要项目包括SEV中低速电动小车（项目已终止）和大中型SUV。公司首款产品理想ONE已于2019年底正式开始交付。回顾公司...
+ ## [几乎无解的最强加密方法，终于被证实真的存在](http://mp.weixin.qq.com/s?src=11&timestamp=1608688805&ver=2783&signature=ayiR054gRcNN52o46hiCkjEyXiS3vvv*T81hZQsoX6aK2Yud3*Yeyb0yPJbHsgADMhrhIhSWorv9HUztxoUQihiFXxbT04hFCcpHgzSX*x27dEJx9WA9h2B862njwAkm&new=1)
+ > 图片来源：Kiel Mutschelknaus for Quanta Magazine构建无法破解的密码，是众多密码学科学家的目标。一种被称为不可区分混淆的加密方式因为太过完美，多年来被认为无法实现。不过最近，三名研究者首次证明不可区...
+ ## [震惊!电信状告联通，法院判决来了..](http://mp.weixin.qq.com/s?src=11&timestamp=1608688805&ver=2783&signature=j0FAoq5Cj-v0a1rGlqjY4CpvHQPXrScaj4JWxFwRw3yMLUPDFJWgJPHzqoD9v66g*llRzImqUhBx93cZRyQlr7S2*hc4GH5CHhB2s9*OpUlXQ5KV6S6tBmpvmorkj6K7&new=1)
+ > 数百万元的差额，联通公司一直不配合履行结算义务，导致2016年后的费用不能如期完成结算，虽每年催促仍未果。日前，榆阳法院收到了中国电信榆林分公司的起诉书，被告是中国联通榆林分公司。经法院调解，目前双方...
 # IT 技术 
+ ## [开发懵逼了！误用一个双引号，生产数据全变0！](http://database.51cto.com/art/202012/636582.htm)
+ > 开发懵逼了！误用一个双引号，生产数据全变0！
  ## [您需要知道的有关Selenium云端测试都在这里](http://developer.51cto.com/art/202012/636453.htm)
  > 您需要知道的有关Selenium云端测试都在这里
  ## [如何协商公平的数据中心托管协议](http://server.51cto.com/Datacenter-636450.htm)
  > 如何协商公平的数据中心托管协议
+ ## [提升黑科技续航！借助太阳能电池，这款电子皮肤可用于脑机接口、电动汽车](http://news.51cto.com/art/202012/636584.htm)
+ > 提升黑科技续航！借助太阳能电池，这款电子皮肤可用于脑机接口、电动汽车
  ## [还在用ELK？是时候了解一下轻量化日志服务Loki了](http://developer.51cto.com/art/202012/636358.htm)
  > 还在用ELK？是时候了解一下轻量化日志服务Loki了
  ## [2021年值得关注的8种自动化趋势](http://www.cioage.com/art/202012/636234.htm)
  > 2021年值得关注的8种自动化趋势
  ## [还不懂Docker？一个故事安排的明明白白](http://developer.51cto.com/art/202012/636399.htm)
  > 还不懂Docker？一个故事安排的明明白白
- ## [鸿蒙HarmonyOS2.0发布会现场回忆录](http://os.51cto.com/art/202012/636171.htm)
- > 鸿蒙HarmonyOS2.0发布会现场回忆录
- ## [文件写入的6种方法，你觉得哪种性能最好？](http://developer.51cto.com/art/202012/636350.htm)
- > 文件写入的6种方法，你觉得哪种性能最好？
- ## [实战微课-5分钟学习软考网络工程师考什么](http://fellow.51cto.com/art/202012/635757.htm?qd=51ctojrzd)
- > 实战微课-5分钟学习软考网络工程师考什么
+ ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
+ > Docker快速入门视频课程（通俗易懂）
+ ## [今年上半年中国云运营市场实现增长](http://cloud.51cto.com/art/202012/636589.htm)
+ > 市场研究机构IDC 最新发布的报告显示，2020年上半年，中国整体云运营服务市场规模为100.8亿元，同比增长19.
+ ## [研究表明人工智能软件市场规模2025年将达到370亿美元](http://ai.51cto.com/art/202012/636587.htm)
+ > Forrester公司将人工智能软件分为四个部分，以期在2025年之前更真实地了解市场规模。
+ ## [狸猫换太子：假冒Android版赛博朋克2077暗含勒索软件](http://netsecurity.51cto.com/art/202012/636586.htm)
+ > 卡巴斯基实验室的Tatyana Shishkova在Google Play商店的伪造市场中，在伪造的Cyberpunk 2077视频游戏中发现
+ ## [后疫情时代的仓储趋势](http://iot.51cto.com/art/202012/636583.htm)
+ > 新冠肺炎疫情限制了之前人们常用的购物方式，推进了电子商务的发展。因此，尽管疫情影响了许多企业，依然有
+ ## [TeamTNT部署具有DDoS功能的IRC僵尸网络](http://netsecurity.51cto.com/art/202012/636581.htm)
+ > 本文分析TeamTNT 最新的攻击活动中使用攻击者组织中自己的IRC。该IRC bot是TNTbotinger，具有DDoS 攻击能力
+ ## [智能技术如何保障餐厅用餐环境的安全？](http://iot.51cto.com/art/202012/636580.htm)
+ > 提到智能技术在食品及酒店业的应用，某国际性娱乐公司就在其全球多座度假村和乐园中都采用了智能技术
+ ## [年终总结：2021年四大企业级技术趋势](http://news.51cto.com/art/202012/636579.htm)
+ > 企业加大了对智能自动化的投入，包括机器人技术和人工智能(AI)，以及机器学习(ML)和规范性分析解决方案。如
  ## [一篇文章带你入门Go语言基础之并发](http://developer.51cto.com/art/202012/636577.htm)
  > 终于到了Go中最牛掰的地方，并发，这也是Go为什么能快速火的原因。今天就带你入门Go语言基础之并发。
+ ## [万字长文记录Python读写EXCEL文件常用方法大全](http://developer.51cto.com/art/202012/636576.htm)
+ > python读写excel的方式有很多，不同的模块在读写的讲法上稍有区别，这里我主要介绍几个常用的方式。
  ## [「深度」人脸识别泛滥，谁有权拿走你的人脸数据？](http://ai.51cto.com/art/202012/636575.htm)
  > 人脸识别在国内的应用大致经历从公共安全领域扩展到商业领域的过程。最初，机场、高铁站以及酒店等场景使用
- ## [一篇文章带你了解SVG Javascript脚本](http://developer.51cto.com/art/202012/636573.htm)
- > 使用JavaScript，可以编写SVG脚本。通过脚本编写，可以修改SVG元素，为其设置动画或侦听形状上的鼠标事件。
- ## [谷歌将修复 Windows 10 Chrome 恼人内存占用和崩溃问题](http://os.51cto.com/art/202012/636574.htm)
- > IT之家12月23日消息 外媒 Windows Latest 报道，随着 Windows 10 版本 2004 的发布，微软对操作系统中的 “
- ## [9个极其强大的JavaScript技巧](http://developer.51cto.com/art/202012/636571.htm)
- > 所谓 hacker 方法，就是一种不断改进和迭代的构建方法。有着 hacker 精神的程序员相信事物总有改进的余地，
- ## [拿到 UI 时，前端人该如何思考？](http://developer.51cto.com/art/202012/636570.htm)
- > 经常有人私信我，小智这个设计图用 CSS 要怎么布局呀，这个按钮要怎么画的。所以今天，在这篇文章我们来介
- ## [数据科学，数据工程和技术的未来](http://news.51cto.com/art/202012/636569.htm)
- > 2020年即将结束，因此，我们邀请了来自技术领域的各个方面的人们提供他们对2021年期望的见解-无论是新兴的
- ## [免费Python机器学习课程四：逻辑回归算法](http://ai.51cto.com/art/202012/636568.htm)
- > 本文介绍了二进制分类算法的开发过程，并将其在Kaggle的心脏病数据集上实现。
- ## [TCP通信过程中遇到粘包拆包解决全过程](http://network.51cto.com/art/202012/636572.htm)
- > 在使用TCP协议进行通信时，听到最多的也就是粘包和拆包问题。本文就来看看，如何解决粘包和拆包问题。
- ## [系统理解浏览器之事件机制](http://os.51cto.com/art/202012/636567.htm)
- > 在早期 IE 和 Netscape 团队在开发第四代浏览器的时候，遇到一个问题：当点击一个按钮的时候，是应该先处理
  ## [震惊！程序员一夜赚1W，没想到他就做了这个......](https://blog.csdn.net/blogdevteam/article/details/111316057)
  > 震惊！程序员一夜赚1W，没想到他就做了这个......
- ## [简易PID算法的快速扫盲（超详细+过程推导+C语言程序）](https://blog.csdn.net/u010632165/article/details/107431369)
- > 
+ ## [YOLO系列算法精讲：从yolov1至yolov4的进阶之路（呕心沥血2万字超全整理，建议收藏！）](https://blog.csdn.net/wjinjie/article/details/107509243)
+ > YOLO系列算法精讲：从yolov1至yolov4的进阶之路（呕心沥血2万字超全整理，建议收藏！）
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [C语言学生成绩管理系统源代码](https://blog.csdn.net/aitaozi11/article/details/79645366)
- > C语言学生成绩管理系统源代码
- ## [DirectX修复工具增强版](https://blog.csdn.net/VBcom/article/details/7245186)
- > DirectX修复工具增强版
- ## [Regression Tree 回归树](https://blog.csdn.net/weixin_40604987/article/details/79296427)
- > Regression Tree 回归树
- ## [R语言多项式线性模型：最大似然估计二次曲线](https://blog.csdn.net/qq_19600291/article/details/105613307)
- > R语言多项式线性模型：最大似然估计二次曲线
- ## [matlab对国内生产总值（GDP）建立马尔可夫链模型（MC）并可视化](https://blog.csdn.net/qq_19600291/article/details/105443822)
- > matlab对国内生产总值（GDP）建立马尔可夫链模型（MC）并可视化
- ## [免费下载 | 让业务起飞！阿里文娱用户及内容运营平台如何助力业务增长](https://blog.csdn.net/alitech2017/article/details/107531413)
- > 免费下载 | 让业务起飞！阿里文娱用户及内容运营平台如何助力业务增长
- ## [⭐ 李宏毅2020机器学习资料汇总](https://blog.csdn.net/iteapoy/article/details/105382315)
+ ## [CSS实用技巧：伪元素/伪类的妙用](https://blog.csdn.net/qq_43624878/article/details/108018500)
+ > CSS实用技巧：伪元素/伪类的妙用
+ ## [ThinkPHP6项目基操目录](https://blog.csdn.net/zy1281539626/article/details/111110579)
+ > ThinkPHP6项目基操目录
+ ## [2020前端面试题及答案汇总](https://blog.csdn.net/come0across/article/details/104895118)
+ > 2020前端面试题及答案汇总
+ ## [周末休息，用原生JS和CSS给女朋友做了个弹弹球小游戏，她沉迷其中、无法自拔](https://blog.csdn.net/weixin_42881768/article/details/105621787)
+ > 周末休息，用原生JS和CSS给女朋友做了个弹弹球小游戏，她沉迷其中、无法自拔
+ ## [C语言重要知识点总结【6】：C语言9种控制语句（详解）](https://blog.csdn.net/weixin_46022083/article/details/107993677)
  > 
- ## [简简单单利用字典破解zip文件口令](https://blog.csdn.net/QuiltKing/article/details/108420969)
- > 简简单单利用字典破解zip文件口令
- ## [JS UI框架：构建用户界面布局说明](https://blog.csdn.net/harmonycommunity/article/details/109670701)
- > JS UI框架：构建用户界面布局说明
- ## [小白学习ajax](https://blog.csdn.net/cj521zhihui/article/details/108228246)
- > 小白学习ajax
- ## [手把手教你制作一个温湿度上位机（串口通信）](https://blog.csdn.net/qq_39542860/article/details/108291462)
- > 手把手教你制作一个温湿度上位机（串口通信）
+ ## [超市进销存管理系统（C+SQL Server实现）C窗体应用、数据库应用，生成可执行安装包程序](https://blog.csdn.net/Zzehao11/article/details/107138568)
+ > 
+ ## [面试官：你背了几道面试题就敢说熟悉Java源码？对不起，我们不招连源码都不会看的人](https://blog.csdn.net/shouchenchuan5253/article/details/105196154)
+ > 
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [ThinkPHP6项目基操（15.实战部分 阿里云短信redis）](https://blog.csdn.net/zy1281539626/article/details/110913448)
+ > ThinkPHP6项目基操（15.实战部分 阿里云短信redis）
+ ## [ARM开发：使用MDK编译stm32简单程序（闪烁LED）](https://blog.csdn.net/ssj925319/article/details/108919862)
+ > ARM开发：使用MDK编译stm32简单程序（闪烁LED）
+ ## [Vue - element-ui 中预览 word 、exce、ppt以及pdf文件](https://blog.csdn.net/weixin_44326007/article/details/99693479)
+ > Vue - element-ui 中预览 word 、exce、ppt以及pdf文件
 # 人工智能 
- ## [阿里 Sentinel 源码解析](https://blog.csdn.net/qq_33589510/article/details/106090735)
- > 阿里 Sentinel 源码解析
- ## [Kaggle 年度报告出炉：数据科学家年轻多金，薪资近百万](https://blog.csdn.net/HyperAI/article/details/110848452)
- > Kaggle 年度报告出炉：数据科学家年轻多金，薪资近百万
- ## [C++服务编译耗时优化原理及实践](https://blog.csdn.net/MeituanTech/article/details/111026922)
- > C++服务编译耗时优化原理及实践
- ## [沉痛哀悼！现代无线网络之父 Norman Abramson 辞世，享年 88 岁](https://blog.csdn.net/csdnsevenn/article/details/111188728)
- > 沉痛哀悼！现代无线网络之父 Norman Abramson 辞世，享年 88 岁
- ## [【社区榜单】TensorFlow 社区双周问答贡献光荣榜（第一期）](https://blog.csdn.net/tensorflowforum/article/details/111193839)
- > 【社区榜单】TensorFlow 社区双周问答贡献光荣榜（第一期）
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [暗黑色系，讨论专区，Universe 2020 带来GitHub 全新体验](https://blog.csdn.net/weixin_39787030/article/details/111261585)
- > 暗黑色系，讨论专区，Universe 2020 带来GitHub 全新体验
- ## [常见的拖垮中小公司技术团队的10宗罪](https://blog.csdn.net/lianshaohua/article/details/111281105)
- > 常见的拖垮中小公司技术团队的10宗罪
- ## [4 种最令人讨厌的编程语言：Java、C++ 上榜](https://blog.csdn.net/csdnnews/article/details/111285239)
- > 
- ## [\[译\]寻路优化](https://blog.csdn.net/tkokof1/article/details/111297299)
- > \[译\]寻路优化
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [微服务的隐性收益](https://blog.csdn.net/wireless_com/article/details/111306067)
- > 微服务的隐性收益
  ## [由于不知道Java线程池的bug,某程序员叕被祭天](https://blog.csdn.net/qq_33589510/article/details/109549716)
  > 由于不知道Java线程池的bug,某程序员叕被祭天
- ## [解放原画师！Wav2Lip 用 AI 听音同步人物口型](https://blog.csdn.net/HyperAI/article/details/111306227)
- > 解放原画师！Wav2Lip 用 AI 听音同步人物口型
+ ## [Kaggle 年度报告出炉：数据科学家年轻多金，薪资近百万](https://blog.csdn.net/HyperAI/article/details/110848452)
+ > Kaggle 年度报告出炉：数据科学家年轻多金，薪资近百万
+ ## [沉痛哀悼！现代无线网络之父 Norman Abramson 辞世，享年 88 岁](https://blog.csdn.net/csdnsevenn/article/details/111188728)
+ > 沉痛哀悼！现代无线网络之父 Norman Abramson 辞世，享年 88 岁
  ## [没有 try-catch，该如何处理 Go 错误异常？](https://blog.csdn.net/keets1992/article/details/111306342)
  > 没有 try-catch，该如何处理 Go 错误异常？
+ ## [程序员最爱用 Emacs 写 Python、Bash，调研了 7300 位开发者有这些发现](https://blog.csdn.net/csdnnews/article/details/111306406)
+ > 程序员最爱用 Emacs 写 Python、Bash，调研了 7300 位开发者有这些发现
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [Java后端--40--Springboot打包为Docker镜像并部署](https://blog.csdn.net/wutianxu123/article/details/111386713)
+ > Java后端--40--Springboot打包为Docker镜像并部署
+ ## [1款开源工具，实现自动化升级K3S集群！](https://blog.csdn.net/qq_42206813/article/details/111388855)
+ > 1款开源工具，实现自动化升级K3S集群！
+ ## [\[安全攻防进阶篇\] 十.熊猫烧香病毒机理IDA和OD逆向分析--病毒释放过程（中）](https://blog.csdn.net/Eastmount/article/details/111394046)
+ > \[安全攻防进阶篇\] 十.熊猫烧香病毒机理IDA和OD逆向分析--病毒释放过程（中）
+ ## [腾讯AlloyTeam团队给 VSCode 贡献400+行核心代码增强其插件化能力](https://blog.csdn.net/Tencent_TEG/article/details/111398743)
+ > 腾讯AlloyTeam团队给 VSCode 贡献400+行核心代码增强其插件化能力
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [MTSC2020 | 手淘AIOPS实战-消息全链路智能监控](https://blog.csdn.net/Taobaojishu/article/details/111399086)
+ > MTSC2020 | 手淘AIOPS实战-消息全链路智能监控
+ ## [Presto在车好多的实践](https://blog.csdn.net/w397090770/article/details/111399181)
+ > Presto在车好多的实践
+ ## [NATv6是个笑话，那么IPv6本身呢？](https://blog.csdn.net/dog250/article/details/111399764)
+ > NATv6是个笑话，那么IPv6本身呢？
+ ## [解放原画师！Wav2Lip 用 AI 听音同步人物口型](https://blog.csdn.net/HyperAI/article/details/111306227)
+ > 解放原画师！Wav2Lip 用 AI 听音同步人物口型
 
     
