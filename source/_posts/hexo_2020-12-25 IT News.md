@@ -1,37 +1,51 @@
 ---
 title: 2020-12-25 IT News
 copyright: true
-date: 2020-12-25 12:01:40
+date: 2020-12-25 17:01:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [科技创新“置顶”国家战略布局蓄势加码](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=2BJfQWuX7bg2wUBKnRC2NN0bUe4TflUxjdwoYsSFQg658sxYlXwVSnRV81LqqfavVpRMk5vqctgREDOa3OY5xhhkWsOGsAqMuZHuf1JsC1k=&new=1)
- > 原标题：着力破解“卡脖子”难题 支持京、沪、粤港澳大湾区形成国际科技创新中心　　科技创新“置顶” 国家战略布局蓄势加码　　强化国家战略科技力量的重要性正迅速“置顶”。日前召开的中央经济工作会议确...
- ## [最高要价 8888元，小米 11 邀请函现身闲鱼；荣耀与微软签署全球 PC 合作协议；Xfce 4.16 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=OwKV*UVPGSamdwecaayRQuc3aqt57IYAtFjQIwa1OPyBD81tyLurjS-ygomeitxIlD-KIwzCbD38Fuc*o6Pjx9ldsP7YZvA-a2dqoHtj3q4nbG6KTsZV03KCzsBS1njK&new=1)
+ ## [中国联通亮相5G创新应用大会 5G创新开启数字化转型新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=KdlNw8mlIDX55FvNVtZEo2kUqcE4xpP2BncXYV9WtJxZLM25YM2*CTzgV*IUy36vH1lH5jy-AQ7VRJlFB8a45ICkcR8C1yIQ5IdWbFBrH1ssjR*pf1DrwxXgp27sU782&new=1)
+ > 12月23日，运营商情报获悉，由工业和信息化部指导，广州市政府、广东省工业和信息化厅、广东省通信管理局等多家单位联合主办，中国联通承办的2020年5G创新应用大会在穗圆满落幕。本次大会以“加快5G应用创新，促...
+ ## [建设好!应用好!发展好!“十四五”时期5G发展规划曝光](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=rwriUiZTy39aCmKUb9KDW4KKHuDNbAuqUzySJ-2O-B8JvEo4dWOCj8ExEv-*Lwm-3503GXFBhionMH61ZKlNh2rwluUfUHr1GYJ*wvduW7bzYBndl80RovjRixuU7XcL&new=1)
+ > 今日，工业和信息化部信息通信发展司司长闻库出席国务院新闻办新闻发布会，介绍了目前信息通信行业发展情况以及下一步的发展规划，并就相关问题回答记者问。闻库表示希望下一步各个地方政府对5G的发展有个全面的...
+ ## [科创中国技术交易券商培育与赋能计划在京启动](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=2LecZOhMxTQjhRWTZNh5ZRSKnJhJ2NlNGYb80nU*ERWcZbwildfkPSoaUaxNLOX-lvk3T-mdqPFkYy7sc8Y8O*QsadGwyQTuD3MtXm2HDtpVaxbnnoeZZJt4xa4JoBnx&new=1)
+ > 12月24日，“科创中国·技术交易券商培育与赋能计划”全国巡回培训研讨班于北京正式首发启动。本次活动由中国科协科技经济融合工作领导小组办公室主办，上海市科学技术协会、中国科学技术出版社有限公司、上...
+ ## [富士康、TCL、华为这样的通信巨头，是怎么做技术查新和情报挖掘的?](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=6BhJ7CDp8boCEbTHje8BwK-aByESefr*fnSh8tqPiTlMJByI*HWNQsRbarYHkOK3j9FUd7rh0yIyS82R9U2RbcanU41Bug1rPfgzIZXFZDAU2zmQf9XxGqx4LoXMZg9L&new=1)
+ > 《2020 ICT产业创新发展白皮书》显示，自2001年起至2020年8月底，我国在信息与通信技术领域提交的专利申请总量已达40万件，约占全球总申请量的1/3，全球范围内领跑。相关专利的含金量也在不断提升。比如在5G行业...
+ ## [看完深圳人的圣诞节票圈……我!好!酸!啊!](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=bzYK0oCMwiU8SBI9mr-cdsyYiGOU6S2ECFXlClVmbBtF9X0-Ud8nCECV7gyV6GVzZNKtWNtILTTMWK8xImitFDVftNaDjFjmLm8nidJRGdzDGkWt0vFAYQOdYxWFquQ9&new=1)
+ > 在流量、手机成了刚需的当下怎么能少得了一部靓手机和流量满满的5G卡呢！深圳移动化身为圣诞老人给大家送礼啦！现在到深圳移动办理5G套餐享受超值购机优惠不用吃土也能换新机！看视频、打电话……每次流量和语音...
+ ## [智能手机创新下半场，谁会成为新风口?](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=BF6vBnkqX4oTIj*uAxp0xdrD4tWEw-Ex78-D7Z-TpgCjEC6ER02HTYtAjUi4zXJqT6Ms1abwm*Mf0rC0aDeO0H-T7O463Rcb07CL6BadzS9zejeT4DIlpDJ85ZYKLSAv&new=1)
+ > 万物互联时代，不仅是所有设备和人连接在一起，更是让我们真正首次“看见、感知与触摸到全世界”。作 者 丨 宿艺编 辑 丨 子淇2020-2021年，是中国5G手机市场的重要普及周期，但智能手机产业却仍处于创新瓶颈。 ...
+ ## [5G将推动边缘计算在工业4.0制造技术中的大量采用](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=iDmfV*4KURXBpEmf1a*24laDG0zuDnsqvM1RPpCc1gca4QM7ngebdPZN-jjMovxUegHQ2Y5PIipH0gVxlMAlDy13vto7ThPFnw5I-A3tfSGXG-xSdfxM2wfQitL7rlTm&new=1)
+ > 关键讯息，D1时间送达！工业4.0是将信息技术（IT）和运营技术（OT）融合在一起的数字化转型的重要步骤。工业流程的自动化将在很大程度上依赖于高容量、高速、低延迟、可靠的5G和边缘计算，以安全可靠地交付工业4...
+ ## [《新基建产业领军者》系列访谈(二) 联想凌拓CEO陆大昕对话TD产业联盟秘书长杨骅](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=QIaESCRVTcGGuoY3hk4BK6bsW31vsphITPJEX7TUrsM5mUStimuF*TvXAw*MUhF3w*kdhq0w50fhT-3HJGiAsiYL-t2QHRUHWqO4OYJGAik=&new=1)
+ > 毫无疑问，5G技术正在加速发展，而它和人工智能、大数据、云计算等新型技术之间的碰撞将产生无法预知的商业模式和创新应用。新技术带来的机遇和企业在利用这一机遇时将会遇到的挑战，将决定企业在业务创新中对组...
+ ## [大科激光完成数千万元B轮融资“三步走战略”第一阶段圆满完成](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=f6yIomKBpbA2vGpGGStgDvfZ9v1hLziHRh8m-POVRoKh1vpZAmWv6wrTNF79fm0DgbHQRI6LvVvOo3bHoeWieuCYfB33lOB9MnrMStPaPMyM8wLMA*bshqRiQ4OYvsTY&new=1)
+ > 12月24日，湖南大科激光有限公司正式宣布公司于近日完成数千万元的B轮融资。本轮融资由方正和生领投，天惠基金、清源投资、长沙高新区人才基金、麓谷高新移动创投等机构跟投。大科激光表示，本轮融资的圆满完成...
+ ## [2021电子邮件安全的五大趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=ILsmnavjkD-YNmGceItSWA6tQJ7dfS7-p5lBSsKyOHlXGHcIpXDCU-K48KQY3At5LkpjDxdni76XiOriNzeQyc-pdJaXwnfWKGf5k2fnOzi0xm496ghhEBlqaxn1aC6t&new=1)
+ > 随着域名价格持续走低，账户接管变得更加容易，云计算的应用范围不断扩大，2021年电子邮件攻击的威胁也将持续增长。2020年，利用新冠疫情恐惧的钓鱼邮件、勒索软件和BEC商务电子邮件攻击肆虐各行各业。2021年，...
+ ## [教育或将成为AI企业新战场，谁会成为主力军?](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=pVFaeTeVLkA0roMDelFaMM67Qf9q4OKiIeM0C5ijKOj5qEIWuW*HuXX2s8MKX5p-g3Vf8qGQYvM23Ya6UjkO7ueindbRkJkv5pGlPKmVyRDfZ0G5wpGJKI*Vodvo7nTJ&new=1)
+ > AI教育新时代的大幕已然掀起，好戏，还在后面。「3、2、1，开始！」随着裁判一声令下，赛场两侧的机器人战车飞快冲出，抢夺「火星战场」上的各项资源。而站在机器人背后的，则是手持手机、平板的小朋友们。赛场...
+ ## [最高要价 8888元，小米 11 邀请函现身闲鱼；荣耀与微软签署全球 PC 合作协议；Xfce 4.16 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=OwKV*UVPGSamdwecaayRQuc3aqt57IYAtFjQIwa1OPzQRlcOSoNfiGW*FCerQNajC*MfTXumPeP7GMbQjPENgasLvm6oEcUBRyqeR4zQ1Q9931WmhADWgcO8aZ7lyFkf&new=1)
  > 整理 | 郑丽媛头图 | CSDN 下载自东方 IC快来收听极客头条音频版吧，智能播报由出门问问「魔音工坊」提供技术支持。「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今...
- ## [Nature重磅：交叉光片照相体积3D打印技术，Xolography无需支撑](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=9foLA8MrmmmPqMCgzAnwYCJEq1A90b0R-Fih05rfRGG3mVicRxS8up8B-qzNN1S3enjRIjRAyy999H8vc4fGemWe71p9iBMDZZ6v--3AKJ5ZHoZbnMZuxrAbgxjq1liS&new=1)
- > 南极熊导读：下面这个技术，也许会超越超越SLA,LCD,DLP,CLIP等光固化3D打印工艺。Nature上发表了一篇突破性的科研成果，交叉照相体积光固化3D打印，精度高达25微米，打印速度达55立方毫米每秒。增材制造的应用范...
- ## [2020年全球新账户欺诈同比下降23.2%](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=f41IjcOHytKpDpHcmSMoskPLdanIcqoGdp*Sj6mqptJqQo-WPDcD04yZB1pdPqC6qdGPDqlZSLV9IkIVMgJQArR3NM0sQbBsE50aahMbjnVDSHYL9kXu50-pxIeXrvTF&new=1)
+ ## [2020年全球新账户欺诈同比下降23.2%](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=f41IjcOHytKpDpHcmSMoskPLdanIcqoGdp*Sj6mqptLT*7RRkNltLYLGKPVR19AAmYSipobrccf6741DSH9j*Fgy5PddGpUhoCGlTBkW-UBAcHpWs*Adj2vgxS9InyUr&new=1)
  > E安全12月25日讯   据研究数据显示，2020年全球范围内基于身份验证的新账户诈骗同比下降了23.2%。与此同时，基于自拍的欺诈比例比基于身份验证的欺诈高出5倍。这说明在暗网上可购买到的被盗身份证件的数量不断增...
- ## [全市信访工作机构 及时受理率达100%](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=*cB2HDosJln6hzPU1psW4q24ncThzScLP6vUSiS4kfZNjyNItIYKfUpRA9h8*I*QjkUyOQZRaTqbvS89LdnikLSfzPQ*mzCWvEOhJ1JQHQk=&new=1)
+ ## [Nature重磅：交叉光片照相体积3D打印技术，Xolography无需支撑](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=9foLA8MrmmmPqMCgzAnwYCJEq1A90b0R-Fih05rfRGEKYUXhcIjzceLHyxGT-Ps3Q53RyTITQ8Oo*eDHIfbXI81HHLzLgg8FVQY8qbJ0bw93xdYBqnm1qi*HidPU9r9Q&new=1)
+ > 南极熊导读：下面这个技术，也许会超越超越SLA,LCD,DLP,CLIP等光固化3D打印工艺。Nature上发表了一篇突破性的科研成果，交叉照相体积光固化3D打印，精度高达25微米，打印速度达55立方毫米每秒。增材制造的应用范...
+ ## [科技创新“置顶”国家战略布局蓄势加码](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=2BJfQWuX7bg2wUBKnRC2NN0bUe4TflUxjdwoYsSFQg5iKVJI7*QaBg290kSaQXPl-rEbaAETpw8wkDp-zb2RcRMOzhVgd9pI9M9bAY-GyhM=&new=1)
+ > 原标题：着力破解“卡脖子”难题 支持京、沪、粤港澳大湾区形成国际科技创新中心　　科技创新“置顶” 国家战略布局蓄势加码　　强化国家战略科技力量的重要性正迅速“置顶”。日前召开的中央经济工作会议确...
+ ## [全市信访工作机构 及时受理率达100%](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=*cB2HDosJln6hzPU1psW4q24ncThzScLP6vUSiS4kfYlD4lebYEC-Iwsn0gIWU9nY8U1PUZbiPGOAcwdWJkuW8Kuz0mF9tQVlrdLPG1OLzo=&new=1)
  > 本报讯 12月24日，记者从贵阳市信访局获悉，自10月9日信访智能辅助系统“数智信访”正式上线运行以来，全市网上信访量占比由年初的69%跃升至86%，信访工作机构及时受理率达100%，有权处理信访事项的行政...
- ## [7点见|阿里股价暴跌逾13%；辛巴团队称上架宾利月饼是被供货商误导](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=kQAYAVllbngui1sNxdNWxqv6hhKus-rdaCrP3VTkLENmQzQL5PEL0r7xyUZVem5f1*z1S9RdGCTCY2mR-FCql05DutJNxqXmXQlLspvM-etmlKu1LgHE11GGzKkIG7Hv&new=1)
+ ## [7点见|阿里股价暴跌逾13%；辛巴团队称上架宾利月饼是被供货商误导](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=kQAYAVllbngui1sNxdNWxqv6hhKus-rdaCrP3VTkLEP1x5GcoAF-wMT2aE-rLwA2OK8nqnQqcQM5mxLzuZX0ykWpge03AcfKDP8kzFIhthINsmRWiQZxhbIjnp7pHne6&new=1)
  > 各位小伙伴早上好呀！工信部新闻发言人闻库24日在国新办发布会上说，目前，我国5G终端连接数已超2亿。1月至11月国内市场5G手机出货量1.44亿部。5G“飞速快跑”，加快应用到各行各业。以下是今天的早报！阿里巴巴...
- ## [早就可以被干掉的手机卡，为什么一直用到了2020年?](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=JCCcmETZglWwNLvxRUKaXu1*DgryJd1UTq2yW6tlcq-Zku1li5--Q1j8bRpsQRrRAezG1*pFznCjzLRfrLewwbocJbkg-UnPehLeto2cuYUk1U4*Tt8PKwuCdeL-WIRb&new=1)
+ ## [早就可以被干掉的手机卡，为什么一直用到了2020年?](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=JCCcmETZglWwNLvxRUKaXu1*DgryJd1UTq2yW6tlcq9kzOaZJOoaX02m2p-2krfk*VrcNjUMx65q77ogFZkrRLIuhMgVx5caKdLSnBsw4zPqeXvvkRG81UYqIp1ra0zK&new=1)
  > 在文章开始之前，差评君想先问大家一个问题：你们人生中办理的第一张手机 SIM 卡，长什么样来着？人生阅历丰富一点的差友们，可能在很久以前用过那种足有一个拇指大小的标准 SIM 卡。然后随着动感地带的铃声响起...
- ## [\[报告\]汽车半导体产业深度研究(附123页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=Gx3mpNjy2ZQ*5aVhwwTFswJoOSBOZTXmqYFkj2fZmR0xSUfa8e5liLJgNQndYjUrV-bgfuENZ5rYHje73dizXNz7w7vvN8c7boPzWkPwV-0bJsgW7e6oMPTv-DDbL0Q3&new=1)
+ ## [\[报告\]汽车半导体产业深度研究(附123页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=Gx3mpNjy2ZQ*5aVhwwTFswJoOSBOZTXmqYFkj2fZmR0BgllJqLjMxIhKozc1sfUTteARw*F*F0OpcQX9Fz30ypqg77qrJlN7M5mtawX1D2FcEnpQtAFNuEC5DvMxwDmI&new=1)
  > 半导体在汽车产业中的应用逐渐扩大，市场整体呈稳步上升趋势。根据IHS预测，全球汽车半导体市场将从2018年的340亿美元增长到2022年的553亿美元，年均复合增长率达到12.93%。根据普华永道研究，在半导体的应用市...
- ## [福建物构所光固化3D打印研究获新进展](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=fxGb41ZiNGEYl57X80XTEx2E5BwZjItW2GzlysxPdzt-PYjuhEGhRsw9vDJpUYvbdWvqQ6ywCKkOaGxXAXX1v9LVhz*YDqEcTfqDRkKFzXaKT1LDxo8W6u9Gg9z2wacX&new=1)
+ ## [福建物构所光固化3D打印研究获新进展](http://mp.weixin.qq.com/s?src=11&timestamp=1608885006&ver=2787&signature=fxGb41ZiNGEYl57X80XTEx2E5BwZjItW2GzlysxPdzvG7*S2W6ThTQG8ixSWckb0jZ1lzQ1797-00QEC*x4iPK5T90JNqaTA4lFJu2UiUzp1Rhe4NENFoxTyJF4COA35&new=1)
  > 面向人工智能和健康监控的柔性可穿戴传感器正在从基础研究向产业化方向发展，3D打印具有不受零件几何结构限制和快速制造的优势，在可穿戴传感器方面具有应用前景，但如何满足智能穿戴应用中的各种力学性能和传感...
- ## [平安夜之际，云创大数据收到一封特别的感谢信](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=wmREKe9CqcO-wXAy-3xjtDF7zaft1KhwspIl2hupoNcrBTuyaKrc3VxTE1BmBFvYy9kkI7RaWv46j8oQeUVBHcjcbEJj4A72Eb1-Xe4XWfUar2G8Az9dumEr7c3mIq80&new=1)
- > 12月24日，平安夜之际，云创大数据收到一封特别的感谢信，这封信来自第一届全国技能大赛世赛选拔云计算项目实施保障单位——广州市工贸技师学院。该信件对云创及云创技术保障团队在云计算赛项中所做的大量工作与...
- ## [关注|印度将出台可信赖电信供应商清单 中国设备商或无缘榜单](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=TAemgVYm0HBKqXFVUeH8S*P9V*F8wWYi32p6zR0xen*mFzFwSsdMWkQzVaTK4R0GXHyJnOCI1okY20UUwwlyz2Vd2Vmv5BzQibSyV0iLvh52kgUbzxrl-T-aroMpKq9y&new=1)
- > 新闻导读印度政府已经批准了制定《国家安全指令(National Security Directive)》。该指令将包含一份可信赖的电信网络供应商和产品的清单，此举可能会对中国厂商华为和中兴造成影响，这两家公司可能会发现很难在...
- ## [《数据中心网络自动驾驶指数报告》出炉：9成企业要建，指明前进方向](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=Xaa8XGghiNYMphTCbzfmOlcJ*sdZDo5aT2wZmy6o057H*X*-XPCKOx2XaTclty4ncHzfAmDgKU0dB51SgIbsYjgZ2gvIr5hybdWBNDVp6k4h4NFircbMPra9kr1dNpoH&new=1)
- > 最近第三方国际数据公司IDC，代表华为做了深度行业调研，对全球205家行业的数据中心（Data Ceter，DC）网络发展计划，进行了调查问卷，并将调研成果撰写成《数据中心网络自动驾驶指数报告》（以下简称报告）。笔...
- ## [青亭峰会2020：VR/AR聚变，开启新增长](http://mp.weixin.qq.com/s?src=11&timestamp=1608868805&ver=2787&signature=VrM1No4-ifWOYqTpoz4recEss0*kduhKGukk8GBPA8OtmK*F98U2lSKDlf046pItoo0bqnIZx*Mix5IkYqmQvC4GqFxLYueOGEhBsS79N70A0XwNoEx5-vAiPGQdUfKx&new=1)
- > 小青｜编辑2020年12月23日，由青亭网主办、Pico协办、中国虚拟现实技术与产业创新平台、北京图象图形学学会、AWE Asia、深圳市增强现实技术应用协会、清华经管创业者加速器、创业公社战略支持的“第四届VR/AR产...
 # IT 技术 
  ## [为什么用Eclipse，VS Code不香吗？](http://developer.51cto.com/art/202012/637039.htm)
  > 为什么用Eclipse，VS Code不香吗？
@@ -47,58 +61,58 @@ categories: IT NEWS
  > 选择优秀物联网连接选项的基本指南
  ## [从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？](http://ai.51cto.com/art/202012/636910.htm)
  > 从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？
- ## [Oracle性能优化之性能跟踪工具_Oracle性能优化与故障诊断教程04](http://fellow.51cto.com/art/202012/636006.htm?qd=51ctojrzd)
- > Oracle性能优化之性能跟踪工具_Oracle性能优化与故障诊断教程04
- ## [什么是深度智能：2021年深度智能的发展趋势](http://ai.51cto.com/art/202012/637079.htm)
- > 关于人工智能的发展，可以追述到60几年前，但因为技术的原因数次沉寂，直到深度学习的出现，让人工智能再次
- ## [破纪录！美国5G牌照拍卖成交额已达698亿美元](http://network.51cto.com/art/202012/637070.htm)
- > 据华尔街日报中文网24日消息，美国联邦通讯委员会(FCC)正在进行的无线牌照拍卖在经过三周的竞拍后，成交额
- ## [医疗保健行业的Providence公司是如何在新冠疫情期间加速数字化转型的](http://www.cioage.com/art/202012/637069.htm)
- > 在数字化转型的关键时刻，医疗保健行业的Providence公司建立了一个即时设备供应链，将即时可用的笔记本电脑
- ## [Windows上必备的7个国产小众软件，每一个都是良心推荐](http://os.51cto.com/art/202012/637067.htm)
- > 电脑上总有几款用了很久的软件，虽然不是很出名，但每一个都是国产良心之作，好用到你想不到，这里就来分
- ## [5G将推动边缘计算在工业4.0制造技术中的大量采用](http://cloud.51cto.com/art/202012/637066.htm)
- > 大多数人认为制造业是高度自动化的行业，他们这样的想法是对的。机器人广泛用于流程自动化中，从生产饼干、
- ## [2020年手机业务遭重创：即便5G提振也无法拯救销量](http://network.51cto.com/art/202012/637064.htm)
- > 即便是 5G 已经逐渐部署到主流消费群体中并提振了手机业务，但在 2020 年依然无法拯救手机销量。在充满魔
- ## [社论：5G要坚持建用互促的发展模式](http://network.51cto.com/art/202012/637063.htm)
- > 在24日举行的国新办新闻发布会上，工业和信息化部新闻发言人表示，2020年我国在5G建设方面可以说是“飞速快
- ## [2020征文-手机零基础鸿蒙开发4如何播放一个全屏视频(JS版)](http://developer.51cto.com/art/202012/636852.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [为什么西方发达国家不流行在线支付？](http://news.51cto.com/art/202012/637062.htm)
- > 西方在线支付出现的比我国早得多，PayPal是美国的一家在线支付业务服务公司，是全球近3亿用户使用的国际贸
- ## [如何管控好数据保护好隐私？委员提到了一个概念……](http://netsecurity.51cto.com/art/202012/637061.htm)
- > 人工智能应用需要以海量的个人信息数据作支撑。人工智能如同一把“双刃剑”，如果应用不当，就可能带来隐私
- ## [SSR 与当年的 JSP、PHP 有什么区别？](https://blog.csdn.net/ayqy_jiajie/article/details/109349305)
- > SSR 与当年的 JSP、PHP 有什么区别？
- ## [Pytest和Allure测试框架-超详细版+实战](https://blog.csdn.net/qq_42610167/article/details/101204066)
- > Pytest和Allure测试框架-超详细版+实战
+ ## [MySQL用户权限与安全管理_MySQL数据库基础深入与核心解析03](http://fellow.51cto.com/art/202012/634846.htm?qd=51ctojrzd)
+ > MySQL用户权限与安全管理_MySQL数据库基础深入与核心解析03
+ ## [AI如何改变DevOps？](http://ai.51cto.com/art/202012/637103.htm)
+ > DevOps在AI（人工智能）与ML（机器学习）的双料加持之下迎来了更光明的发展前景。本文我们具体探讨其中的几
+ ## [年终收藏！吴恩达盘点2020年度AI热门事件](http://news.51cto.com/art/202012/637104.htm)
+ > 吴恩达在圣诞节之际回顾了2020年AI的一些重大发展，包括AI应对新冠疫情、数据集存在种族偏见、对抗虚假信息
+ ## [闻库：5G终端连接量已超2亿](http://network.51cto.com/art/202012/637102.htm)
+ > 2020年12月24日，在国新办新闻发布会上，工业和信息化部新闻发言人、信息通信发展司司长闻库在回答记者问时
+ ## [远程送礼、灯光表演……无人机渐成圣诞新宠！](http://ai.51cto.com/art/202012/637101.htm)
+ > 近年来，伴随着民用无人机的飞速发展，无人机越来越多的走近传统节日，对于圣诞节来说，无人机也正在散发出
+ ## [如何利用机器学习进行静态分析](http://ai.51cto.com/art/202012/637099.htm)
+ > 机器学习和人工智能这两种技术在许多领域广泛应用，尤其是在营销分析和网络安全方面，它们在这些领域的成功
+ ## [IT应该不惜一切代价避免的13种情况](http://www.cioage.com/art/202012/637097.htm)
+ > 从告诉所有人他们是你的客户到制定云战略，这些所谓的“行业最佳实践”肯定会降低IT成功的机会。
+ ## [Levels.fyi发布2020年度程序员收入报告](http://news.51cto.com/art/202012/637098.htm)
+ > Levels.fyi 成立于 2017 年，是一个关于美国科技公司的数据收集网站，主要是针对不同科技公司职位等级转换
+ ## [权威数据来了，中国到底有多少个程序员？](http://news.51cto.com/art/202012/637089.htm)
+ > 我要是没记错的话，去年我给大家分析过工信部发布的软件业的报告。我今天看到了工信部发布的新一期的 1-11
+ ## [远程办公安全，只有30%的企业准备好了](http://zhuanlan.51cto.com/art/202012/637086.htm)
+ > 虽然新冠病毒已经在全球肆虐将近一年，但是依然有大量企业并未对随时有可能到来的远程办公模式切换，以及随
+ ## [2021电子邮件安全的五大趋势](http://zhuanlan.51cto.com/art/202012/637085.htm)
+ > 2021年，企业安全团队需要注意电子邮件攻击者会采取哪些新策略和技术?近日Darktrace电子邮件安全产品总监Da
+ ## [用Python一键修改上万个文件名（大哥，别右键重命名了好吗？？？）](https://blog.csdn.net/qiukui111/article/details/106160745)
+ > 
+ ## [Vue + Spring Boot 项目实战（二）：使用 CLI 搭建 Vue.js 项目](https://blog.csdn.net/Neuf_Soleil/article/details/88926242)
+ > Vue + Spring Boot 项目实战（二）：使用 CLI 搭建 Vue.js 项目
  ## [CSDN专属idea插件上线啦，开发者效率提升神器~~](https://blog.csdn.net/baidu_33464073/article/details/109050489)
  > CSDN专属idea插件上线啦，开发者效率提升神器~~
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [2019计算机视觉-包揽所有前沿论文源码](https://blog.csdn.net/weixin_43013761/article/details/102698446)
- > 2019计算机视觉-包揽所有前沿论文源码
- ## [R语言计量经济学与有时间序列模式的机器学习预测](https://blog.csdn.net/qq_19600291/article/details/105467701)
- > R语言计量经济学与有时间序列模式的机器学习预测
- ## [Vue一到三年面试题总结](https://blog.csdn.net/weixin_43606158/article/details/99131527)
- > Vue一到三年面试题总结
- ## [JavaScript的垃圾回收机制，清除无用变量，释放多余内存，展现更好的性能](https://blog.csdn.net/l_ppp/article/details/106858295)
+ ## [网络安全学习路线](https://blog.csdn.net/LTtiandd/article/details/106083703)
+ > 网络安全学习路线
+ ## [Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战](https://blog.csdn.net/songlh1234/article/details/84317617)
+ > Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战
+ ## [（经验分享）作为一名普通本科计算机专业学生，我大学四年到底走了多少弯路](https://blog.csdn.net/qq_41973594/article/details/103232236)
  > 
- ## [JavaScript 稳居第一、C 连续下跌，调查 17000 名程序员后有了这些新发现！](https://blog.csdn.net/csdnnews/article/details/109462303)
- > JavaScript 稳居第一、C 连续下跌，调查 17000 名程序员后有了这些新发现！
- ## [ArcGIS中的土地利用变化分析](https://blog.csdn.net/ceibake/article/details/77924315)
- > ArcGIS中的土地利用变化分析
- ## [C基础教程](https://blog.csdn.net/weixin_39089928/article/details/87009515)
- > C基础教程
- ## [C语言学习路线图](https://blog.csdn.net/qianfeng_dashuju/article/details/107813172)
- > C语言学习路线图
+ ## [C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）](https://blog.csdn.net/weixin_44044411/article/details/104276757)
+ > C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）
+ ## [2020前端面试总结（持续更新）](https://blog.csdn.net/zlzbt/article/details/106688918)
+ > 
  ## [android studio的安装，史上最详细(超多图)！！](https://blog.csdn.net/qq_41976613/article/details/91432304)
  > android studio的安装，史上最详细(超多图)！！
- ## [提取视频中的音频——python三行程序搞定](https://blog.csdn.net/qq_34769162/article/details/107910036)
+ ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
+ > 移动端UI一致性解决方案
+ ## [Niushop开源商城单商户V4系统宝塔部署步骤](https://blog.csdn.net/Niushop_mi/article/details/109494854)
+ > Niushop开源商城单商户V4系统宝塔部署步骤
+ ## [Java桌面程序开发——如何开发美观漂亮好看的桌面程序](https://blog.csdn.net/qq_31384551/article/details/85551931)
+ > Java桌面程序开发——如何开发美观漂亮好看的桌面程序
+ ## [【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）](https://blog.csdn.net/Mind_programmonkey/article/details/77164682)
+ > 【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）
+ ## [不吹不黑！GitHub 上帮助人们学习编码的 12 个资源，错过血亏...](https://blog.csdn.net/jake_tian/article/details/105802728)
  > 
- ## [ARM开发：使用MDK编译stm32简单程序（闪烁LED）](https://blog.csdn.net/ssj925319/article/details/108919862)
- > ARM开发：使用MDK编译stm32简单程序（闪烁LED）
 # 人工智能 
  ## [详解什么是中台？](https://blog.csdn.net/yingshuanglu2564/article/details/101102243)
  > 详解什么是中台？
