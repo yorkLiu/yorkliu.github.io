@@ -1,21 +1,23 @@
 ---
 title: 2020-12-26 IT News
 copyright: true
-date: 2020-12-26 09:01:31
+date: 2020-12-26 10:01:42
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [三位院士压轴，大数据产业生态建设与发展高峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1608944405&ver=2789&signature=L2Z1tA3rvqCPzgjDV1aBtDve4ic0pyxcRKhVH8aDWQmOw0UT3kWS1owLZYNxUQY5ieo2lds41BcnSLyZ2IThoHS9YO8ThhFSfUEiDLyufIhAwj9twbvOmhhpCN7tU09w&new=1)
- > 数领万物，共创未来。12月25日下午，由中国国际大数据产业博览会组委会主办的“永不落幕的数博会”2020系列活动——“大数据产业生态创新发展高峰会”在北京举行，作为本届数博会的压轴之作，活动为2020数博会划...
- ## [十大事件，见证智能安防激荡2020](http://mp.weixin.qq.com/s?src=11&timestamp=1608944405&ver=2789&signature=gM9V17K-lbZMFHiWSo8ISJP3dGdUZJ2b7yOHEfwphTUJTZldnRNb3IgE73DJooXUPkVI57kGiE6cnzsNM6IXzuJ3oXc3VXIStZbR0i-3eqh6pHwCqxqujRclXvkR5bUH&new=1)
- > 刷屏智能安防人朋友圈的十大事件！给2020年一个总结。作者 | 李水青编辑 | 漠影停摆近半年的项目、疲软的财报数据、不再酷炫的新概念，如果单从这些表象来看，智能安防产业的2020年并不那么使人振奋。但当你看到...
- ## [激进推动2G退网迎恶果，中国联通用户数再跌，快跌穿3亿了](http://mp.weixin.qq.com/s?src=11&timestamp=1608944405&ver=2789&signature=SIwpCOolb-OEgtH3TGoFsxdEaaQ8YPgu8QUkO5ByyQimKIfh5T695-w9k7qpcKbM7qcUFNASM1agKUaR4XAScfO9cYb6vgWItdGqCVot2S5a04S9yCx90x8SUmPGaxlh&new=1)
+ ## [激进推动2G退网迎恶果，中国联通用户数再跌，快跌穿3亿了](http://mp.weixin.qq.com/s?src=11&timestamp=1608948004&ver=2789&signature=SIwpCOolb-OEgtH3TGoFsxdEaaQ8YPgu8QUkO5ByyQimKIfh5T695-w9k7qpcKbMUp8zT7s-UFYcT67jTy9Q7Q2kTls*SM9Mv0XvXy6zMfBP8cKm0AqTooco7z7D8wio&new=1)
  > 中国联通公布的11月份数据显示，其用户数再度流失194万，总用户数已跌至3.07亿，离3亿用户数已在咫尺之遥，在三大运营商中越发显得弱小。截至今年11月份中国移动、中国电信的用户数分别为9.44亿、3.51亿，中国联...
- ## [工信部：解决数字经济对于传统产业不会用、不敢用等问题](http://mp.weixin.qq.com/s?src=11&timestamp=1608944405&ver=2789&signature=JN3Jo1NumzB0rVAg6AS9Wl95Sp06lNzpeCuRwnY0pOGMUs3GgVPl9qJwKtIihDTrjhVKpmj2iBnmWg0m6CyoXxZ1gGr1W0IPaPDOWWgzrKV9ujZHewBRaQOPO5IRBTjp&new=1)
+ ## [南京传媒学院董事长、创始人蒲树霖一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1608948004&ver=2789&signature=EnsBVgt9jwlfwcFCBBmZhsisL-8zAsXYLUA53Ac*BwX8nrpeS-FCXAlx2skvhou11ar8XNrG2tkRPbpEiUS58OVFqrv*XTBFL5N8Lmwl73fIkyJTgIfel2dPnMwPAmdP&new=1)
+ > 12月25日下午，南京传媒学院董事长、创始人蒲树霖，校人力资源总监邹玮到访，云创大数据总裁刘鹏教授等接待了来宾。此前，蒲树霖先生一行就曾到访云创。本次再访，云创方面向来宾介绍了公司在大数据存储与智能处...
+ ## [工信部：解决数字经济对于传统产业不会用、不敢用等问题](http://mp.weixin.qq.com/s?src=11&timestamp=1608948004&ver=2789&signature=JN3Jo1NumzB0rVAg6AS9Wl95Sp06lNzpeCuRwnY0pOGMUs3GgVPl9qJwKtIihDTrGl0OrNAohLmPBGwlciBPOv0sSAiZ*Qm-P*svysx*4Mpd3lILQhCQt8Leg-0h5i4t&new=1)
  > 12月24日，在国务院新闻办举行的新闻发布会上，工信部规划司司长卢山表示，十九届五中全中明确提出要加快数字经济的发展，并且指出了两条路径：一是数字产业化，二是产业数字化。下一步，工信部要牢牢把握数字经...
- ## [手机“盗刷”：后续](http://mp.weixin.qq.com/s?src=11&timestamp=1608944405&ver=2789&signature=ozV8XWUQveAFq7ojLOJJR200J0aQZ-SCL2SkLYA1DIiGsfENSjPjP42qGDg*cT7*R6Kc8k*BYM3qZ3kk-RhGAD0C0E0Ds8xFyR9ZOyT71Y*AiX4EwjO795MCg3QLPIdx&new=1)
+ ## [手机“盗刷”：后续](http://mp.weixin.qq.com/s?src=11&timestamp=1608948004&ver=2789&signature=ozV8XWUQveAFq7ojLOJJR200J0aQZ-SCL2SkLYA1DIiGsfENSjPjP42qGDg*cT7*7s3cj3-b*-ADUrkRa*Dq*W4sFuCPYK*eeVIwACZLKawWVfqklBg0DjKJVb7AKYVU&new=1)
  > 为解决手机失窃可能面临“盗刷”的问题，记者近日从中国电信了解到，目前该公司已对线上办理挂失业务规则进行优化。同时，多家支付机构已对事主损失进行了全额赔付，并针对夜间借款、手机丢失等问题加强了反...
+ ## [三位院士压轴，大数据产业生态建设与发展高峰会成功举办](http://mp.weixin.qq.com/s?src=11&timestamp=1608948004&ver=2789&signature=L2Z1tA3rvqCPzgjDV1aBtDve4ic0pyxcRKhVH8aDWQmOw0UT3kWS1owLZYNxUQY5NOspRICYXiO6uzQqSOKPGAxrQkNq9*JJkishq8KJLbcH4IWfWRAu1*hPKloNyB*x&new=1)
+ > 数领万物，共创未来。12月25日下午，由中国国际大数据产业博览会组委会主办的“永不落幕的数博会”2020系列活动——“大数据产业生态创新发展高峰会”在北京举行，作为本届数博会的压轴之作，活动为2020数博会划...
+ ## [十大事件，见证智能安防激荡2020](http://mp.weixin.qq.com/s?src=11&timestamp=1608948004&ver=2789&signature=gM9V17K-lbZMFHiWSo8ISJP3dGdUZJ2b7yOHEfwphTUJTZldnRNb3IgE73DJooXUakFdxdSUdLleAd4YXfcc4B55sRetsN4OBq5iCWF2SnzP5LDAEriVWiRgFheJmCMH&new=1)
+ > 刷屏智能安防人朋友圈的十大事件！给2020年一个总结。作者 | 李水青编辑 | 漠影停摆近半年的项目、疲软的财报数据、不再酷炫的新概念，如果单从这些表象来看，智能安防产业的2020年并不那么使人振奋。但当你看到...
 # IT 技术 
  ## [为什么用Eclipse，VS Code不香吗？](http://developer.51cto.com/art/202012/637039.htm)
  > 为什么用Eclipse，VS Code不香吗？
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 选择优秀物联网连接选项的基本指南
  ## [从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？](http://ai.51cto.com/art/202012/636910.htm)
  > 从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？
- ## [Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06](http://fellow.51cto.com/art/202008/623590.htm?qd=51ctojrzd)
- > Galera高可用集群项目实施与维护(PXC)_MySQL高可用复制与分布式集群架构06
+ ## [MySQL表管理与SQL语句增删改实战_MySQL数据库SQL语言开发与应用实战02](http://fellow.51cto.com/art/202012/634854.htm?qd=51ctojrzd)
+ > MySQL表管理与SQL语句增删改实战_MySQL数据库SQL语言开发与应用实战02
  ## [SLAM 论文阅读和分类整理](https://blog.csdn.net/heyijia0327/article/details/82855443)
  > SLAM 论文阅读和分类整理
  ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
