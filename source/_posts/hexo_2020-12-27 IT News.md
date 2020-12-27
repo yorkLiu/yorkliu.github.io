@@ -1,22 +1,22 @@
 ---
 title: 2020-12-27 IT News
 copyright: true
-date: 2020-12-27 09:00:56
+date: 2020-12-27 10:02:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [头盔式单目微光夜视仪中光学系统的设计](http://mp.weixin.qq.com/s?src=11&timestamp=1609029005&ver=2791&signature=GN0UuokrIANW3Pku6HzhHvqVtaVvR6Vva5ZXkyDxV7WKvf4x50IRp3h6fY9AV37tuXTkeLha1vjMZ9uy8VpR3wNKuL1ThNLeEVdyYlS--0oSrsnfx5uIxVo2wjxpFRRK&new=1)
+ ## [头盔式单目微光夜视仪中光学系统的设计](http://mp.weixin.qq.com/s?src=11&timestamp=1609034405&ver=2791&signature=GN0UuokrIANW3Pku6HzhHvqVtaVvR6Vva5ZXkyDxV7WTMhupU2r1qdLiAp27UXCRa6nbmXkr--xkKnA7IRPJ1dw7VIUx5UUggVuDegJLUEd61zQCtEHkpGFzCehWGn-l&new=1)
  > 摘要：为提高头盔式单目微光夜视仪中光学系统的成像质量，并满足夜视仪结构紧凑、质量小的指标要求，提出在微光夜视仪光学系统设计中引入高次项非球面透镜的设计方法。针对具体的头盔式微光夜视仪，根据微光物镜...
- ## [openEuler Summit 2020成功召开，共探技术创新无限可能](http://mp.weixin.qq.com/s?src=11&timestamp=1609029005&ver=2791&signature=YBKf*71jTh71DDyp7oTEutaC*-wuUwvndU15wbUewNTRmi4pKpYyXJmRmW1NOAfK1pZsWeIkjWAN0*rWySutkfdRo4bQjDEUm*VnMgONRseLBmmFb0j1uYp8GiayUORP&new=1)
+ ## [openEuler Summit 2020成功召开，共探技术创新无限可能](http://mp.weixin.qq.com/s?src=11&timestamp=1609034405&ver=2791&signature=YBKf*71jTh71DDyp7oTEutaC*-wuUwvndU15wbUewNRa2FwuL0l-Knl8*-Jg9AOSntIU1byFSeb98WwSx8-njI02txNtFjfEU88b2QmnX*vBTyXX9I2c9NitsT8ph-y5&new=1)
  > 操作系统是计算产业的灵魂，每一次技术演进都会引发重大产业变更，是每个时代的创新引爆点。未来的技术方向将更关注底层硬件、操作系统以及上层软件之间的联系，多算力、云原生的技术风潮正在为全产业的发展注入...
- ## [重磅!对四大通信运营商2021年十大预测](http://mp.weixin.qq.com/s?src=11&timestamp=1609029005&ver=2791&signature=SuKmoT8fB4AFMcuCKNkL0nJqu98efNVKIpTfXahCDkxCZ79y09SVCtMKIh1Zu0Oc4xr2HhGKRulE9rlqolN2TEu4rkDx*3KrZoyYgJU6zb1WURyf7dwK7B2FP*POTXGh&new=1)
- > 2021年即将到来，尚晓蒲对四大通信运营商十大预测，个人分析观点，无论对错，仅供参考，让我们拭目以待。1、预测2021年全国携号转网用户将突破3000万户，其中中国移动净流出2500万户，中国联通净流出500万户，中...
- ## [重大利好!三大运营商这项举措将惠及这类群体!](http://mp.weixin.qq.com/s?src=11&timestamp=1609029005&ver=2791&signature=*oXIzUcLGS8C-L-wJjoRCH33aBCCG9tLVUoDAM7JWgGyExk0S2zv11zyQEbVyyGiS-5VRhOvVOfYFJchBbNqm*1C0IG0Ut*dB8gGVg3EbT0Wf2bfUKNk3Mt5gsvFkSzW&new=1)
+ ## [重大利好!三大运营商这项举措将惠及这类群体!](http://mp.weixin.qq.com/s?src=11&timestamp=1609034405&ver=2791&signature=*oXIzUcLGS8C-L-wJjoRCH33aBCCG9tLVUoDAM7JWgGqINsKrSe95ed1j1ghFrYbuldk*NImjCbGt39mQ7oaPD4kwCGQHOD-Lz5iroFA8ckCNlA5d34JZQXiNMQ09PZI&new=1)
  > 原标题：《贴心！65岁以上老人拨打三大运营商客服电话，可一键进入“人工服务”》为切实解决老年人运用智能技术困难，工信部日前宣布，即日起推出老年人一键呼入人工客服、电信服务营业厅爱心通道以及主流手机“...
- ## [清华2020企业数字化报告：影响所有“打工人”的九大行业十大趋势\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1609029005&ver=2791&signature=*ytY10xjgdz2nsPByKBDsnK*L7R93K4BL78QN2fi2y375H07YpOknAmBltAA6K-1miTkJWrBsuI9p2LRRDoW7OLgk8BHmkHV6Py57q7ctuuAKEhrnMCv1dj2AENIg-m5&new=1)
+ ## [清华2020企业数字化报告：影响所有“打工人”的九大行业十大趋势\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1609034405&ver=2791&signature=*ytY10xjgdz2nsPByKBDsnK*L7R93K4BL78QN2fi2y3F*s*zgCH2K1z2zYwKwU2OTZDHVo4XW9A-jUOmJlnuDVCMxHJm3QnI-v*AXIqh-X94s4G7VMmf0-4MQfE3Ldet&new=1)
  > 2020年中国企业数字化转型的进展、趋势以及目标。编辑 | 智东西内参随着中国企业数字化转型进程不断推进，各行各业的数字化程度都在不断增加。近日，清华大学全球产业研究院发布了报告《中国企业数字化转型研究...
- ## [互联网的潮水，今年冲向了何方|2020 复盘](http://mp.weixin.qq.com/s?src=11&timestamp=1609029005&ver=2791&signature=KAphJoyhioOT1pGn4IZGIqFAGiSmmU93uBIB419SJMiJVsJqOtb*5LaGPPfzGhFuezjYu31UIzGhQ57d3z0SgffwsUxiLI4r-j4kOpbnd5ijAHUsijd3N-2KU7IJa9f5&new=1)
+ ## [重磅!对四大通信运营商2021年十大预测](http://mp.weixin.qq.com/s?src=11&timestamp=1609034405&ver=2791&signature=SuKmoT8fB4AFMcuCKNkL0nJqu98efNVKIpTfXahCDkzTBROAjqUVpGI6KsClOvNYtGueoFokNTirqTrRGiKkhKZKiGY3wGbgod8Z7aY*ijLYwRA2AMznugCqGzMHunl0&new=1)
+ > 2021年即将到来，尚晓蒲对四大通信运营商十大预测，个人分析观点，无论对错，仅供参考，让我们拭目以待。1、预测2021年全国携号转网用户将突破3000万户，其中中国移动净流出2500万户，中国联通净流出500万户，中...
+ ## [互联网的潮水，今年冲向了何方|2020 复盘](http://mp.weixin.qq.com/s?src=11&timestamp=1609034405&ver=2791&signature=KAphJoyhioOT1pGn4IZGIqFAGiSmmU93uBIB419SJMgG4BVRijVT5PHEpdjHk2EQUDcPl-*e5cQkE1JtTYB1xYZmV0x7ElzRiZOf5jmkbMHvzvY*qHUGOv5rTYvpg7mw&new=1)
  > 每一个新动向背后，都包含着不可言说的机会和焦虑。2007 年，金山软件在创业 20 年后，终于在港交所上市，掌舵人雷军的心情是复杂的。在金山 16 年艰苦奋斗，经过了和微软以及国内一系列竞争对手的恶战，金山终...
 # IT 技术 
  ## [为什么用Eclipse，VS Code不香吗？](http://developer.51cto.com/art/202012/637039.htm)
@@ -33,10 +33,14 @@ categories: IT NEWS
  > 选择优秀物联网连接选项的基本指南
  ## [从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？](http://ai.51cto.com/art/202012/636910.htm)
  > 从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
+ ## [MySQL数据库基础入门培训课程_MySQL数据库基础入门与项目实战01](http://fellow.51cto.com/art/202012/635282.htm?qd=51ctojrzd)
+ > MySQL数据库基础入门培训课程_MySQL数据库基础入门与项目实战01
+ ## [比特币再创历史新高，分析师认为一切才刚刚开始](http://blockchain.51cto.com/art/202012/637325.htm)
+ > 比特币夜间持续上涨，一度逼近27000美元/枚，现报26630 美元/枚，24小时内涨幅超 7%。但尽管如此，市场对后
  ## [2021年物联网安全将面临哪些挑战？](http://iot.51cto.com/art/202012/637322.htm)
  > 随着2020年的结束，是时候看看2021年和网络安全的新篇章了。近日，据外媒报道，有三种针对物联网的攻击方式
+ ## [工作，从时间管理开始](http://fellow.51cto.com/art/202012/637250.htm)
+ > 职场人简单实用的时间管理手册，快速掌握易用的时间管理方法和操作工具，平衡高效工作和个人生活
  ## [Windows10搜索这设计太反人类？教你如何彻底关闭它](http://os.51cto.com/art/202012/637321.htm)
  > 我们知道微软在Windows10中，特别加强了系统的搜索功能，但Windows10的搜索的确很难称得上好用。抛开效率低
  ## [R语言分位数回归、GAM样条曲线、指数平滑和SARIMA对电力负荷时间序列预测](https://blog.csdn.net/qq_19600291/article/details/105623322)
