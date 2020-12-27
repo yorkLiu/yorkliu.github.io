@@ -1,22 +1,28 @@
 ---
 title: 2020-12-27 IT News
 copyright: true
-date: 2020-12-27 12:01:58
+date: 2020-12-27 17:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [重磅!对四大通信运营商2021年十大预测](http://mp.weixin.qq.com/s?src=11&timestamp=1609041605&ver=2791&signature=SuKmoT8fB4AFMcuCKNkL0nJqu98efNVKIpTfXahCDkymmFzMdVJU3DsK**ZEuUlcbZmuFwKaG3btmOE2DuRxAhDg89sg8T3ZIImUMDqEv0jA6JYRrDOLyPdXRvXOX719&new=1)
- > 2021年即将到来，尚晓蒲对四大通信运营商十大预测，个人分析观点，无论对错，仅供参考，让我们拭目以待。1、预测2021年全国携号转网用户将突破3000万户，其中中国移动净流出2500万户，中国联通净流出500万户，中...
- ## [重大利好!三大运营商这项举措将惠及这类群体!](http://mp.weixin.qq.com/s?src=11&timestamp=1609041605&ver=2791&signature=*oXIzUcLGS8C-L-wJjoRCH33aBCCG9tLVUoDAM7JWgEs6yi0RXqmZfFV3BZpY8RN2D3Tc6lNgf5jFaFrFlRlvi24sb2wSOWgcVGzo0I4-4FPBUBalNr-R*Md2GgVne9u&new=1)
- > 原标题：《贴心！65岁以上老人拨打三大运营商客服电话，可一键进入“人工服务”》为切实解决老年人运用智能技术困难，工信部日前宣布，即日起推出老年人一键呼入人工客服、电信服务营业厅爱心通道以及主流手机“...
- ## [头盔式单目微光夜视仪中光学系统的设计](http://mp.weixin.qq.com/s?src=11&timestamp=1609041605&ver=2791&signature=GN0UuokrIANW3Pku6HzhHvqVtaVvR6Vva5ZXkyDxV7WxtskhG*hgJC9Ljy5AfTSRRMpbaq*Ui0ftTLEB1NyOLvbN*ATOoe8eBFNTFvGvXvBKCgS6r2o3DhIm4xuUnuix&new=1)
+ ## [头盔式单目微光夜视仪中光学系统的设计](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=GN0UuokrIANW3Pku6HzhHvqVtaVvR6Vva5ZXkyDxV7Un9nt8-XEkpjQ3sH5B*KBn8F4BXzMF3rvUkbtWFSqILWmd1vnyvkynb6frW2vpAoyErkYb9M18ABCXP*PfPPLU&new=1)
  > 摘要：为提高头盔式单目微光夜视仪中光学系统的成像质量，并满足夜视仪结构紧凑、质量小的指标要求，提出在微光夜视仪光学系统设计中引入高次项非球面透镜的设计方法。针对具体的头盔式微光夜视仪，根据微光物镜...
- ## [清华2020企业数字化报告：影响所有“打工人”的九大行业十大趋势\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1609041605&ver=2791&signature=*ytY10xjgdz2nsPByKBDsnK*L7R93K4BL78QN2fi2y1Y5oEgZJvP*ybISNz91SyHyEucv29YM51lafV39pcaXUH78ltVkVc7-0qmkZwYPXFbf3sDsdo-PwbTutKFqld1&new=1)
+ ## [人数近2000，年出货超100万台，3D打印机厂商深圳创想三维创业6年成绩显著](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=MzokM9g-w1LJuzfpKJPJbqL97XKC2oPDO1pahIjikelLURWibLUtC47FugfxtOfiHmD5QutQFSIjc5IUCgOI7UkiZwaKQy0ZgsaUKEcxJnJZzlpkCgSTM0HjN6Oz91KW&new=1)
+ > 南极熊注意到，2020年12月26日，消费级3D打印机全球龙头厂商深圳创想三维，正式搬到了与国家税务总局深圳市龙华分局相同的一栋楼的8层楼的办公室。△南极熊认为：办公室与税务局同一栋楼，可以树立奋斗目标——...
+ ## [重磅!对四大通信运营商2021年十大预测](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=SuKmoT8fB4AFMcuCKNkL0nJqu98efNVKIpTfXahCDkzt6bBiA*tkox1mm09gmrnY-bkJGwbLZzpqIsQD8-lRF4gqkS-mLVEG2-fMi4tapu*qFilNCAaIVC-37*oNOx0Q&new=1)
+ > 2021年即将到来，尚晓蒲对四大通信运营商十大预测，个人分析观点，无论对错，仅供参考，让我们拭目以待。1、预测2021年全国携号转网用户将突破3000万户，其中中国移动净流出2500万户，中国联通净流出500万户，中...
+ ## [5G如何使云计算更加前卫](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=wAuUEIcXplLgKgde2ks-4DcJnMb-5*17k5VQepGyHEXL6k3YuDSkgbGkmls4TXHGqZ3zl85sgY0p-tu1aetYDiuVIYQCQRHS6SsY1Ojm-pme4GvF921LfgLcsCTnzl6X&new=1)
+ > 关键讯息，D1时间送达！到2024年，全球边缘数据中心市场收入预计将超过70亿美元，并且传统电信运营商与互联网内容提供商之间的竞争关系将继续发展。这种转变意味着数据中心的数量将在全球范围内激增，为了满足这...
+ ## [整合科研技术资源 搭建智能核心平台](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=TiWYmxXhNAA*zGBxA3unTaSuJsFJJ5Dgk6leo-tgqdDb18si7F3P5V0uD-2Nz8kdx4QBoBVPjFZ9X8tndyvUFj9qrn1Pb6jLrHvEw6Ts9Qs=&new=1)
+ > 本报讯 12月25日，贵阳市装备制造智能技术研究院有限公司在乌当区挂牌成立。　　据了解，由市工商投资集团和贵阳新天光电科技有限公司共同组建的贵阳市装备制造智能技术研究院，旨在通过整合贵阳市国有...
+ ## [重大利好!三大运营商这项举措将惠及这类群体!](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=*oXIzUcLGS8C-L-wJjoRCH33aBCCG9tLVUoDAM7JWgEVPMplpsr*JMbKviyX8G17L1-hVGuofG0cUJPG5w8-euz2Ol10ouoAwfU08cjT3HSoubi-6TIFWILeU0WzgHp-&new=1)
+ > 原标题：《贴心！65岁以上老人拨打三大运营商客服电话，可一键进入“人工服务”》为切实解决老年人运用智能技术困难，工信部日前宣布，即日起推出老年人一键呼入人工客服、电信服务营业厅爱心通道以及主流手机“...
+ ## [清华2020企业数字化报告：影响所有“打工人”的九大行业十大趋势\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=*ytY10xjgdz2nsPByKBDsnK*L7R93K4BL78QN2fi2y1ApNS1QOnxk4KiAdyxE8qbz14-N50dKy8A9IJEGaq9GD6HEG9JlRdJsi5ET*mNdSXaC8I4mD0NZ60I1fhI9zGO&new=1)
  > 2020年中国企业数字化转型的进展、趋势以及目标。编辑 | 智东西内参随着中国企业数字化转型进程不断推进，各行各业的数字化程度都在不断增加。近日，清华大学全球产业研究院发布了报告《中国企业数字化转型研究...
- ## [openEuler Summit 2020成功召开，共探技术创新无限可能](http://mp.weixin.qq.com/s?src=11&timestamp=1609041605&ver=2791&signature=YBKf*71jTh71DDyp7oTEutaC*-wuUwvndU15wbUewNTnzPhZPveQab8b4c-*e1dGsBtzAK4jlsntLoPkKiniOYQRzQWETac-hjP5tzzUcxh20B8LQgKpWyBRQO54mQ1G&new=1)
+ ## [openEuler Summit 2020成功召开，共探技术创新无限可能](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=YBKf*71jTh71DDyp7oTEutaC*-wuUwvndU15wbUewNRuDKCpyXqfZSVFpOsyDX5nafLDGDR9s*gO9QEIr29Zqy8q1DjyZAMGbgqB9cvamDnDsgW2U69FxyiNijkvHNov&new=1)
  > 操作系统是计算产业的灵魂，每一次技术演进都会引发重大产业变更，是每个时代的创新引爆点。未来的技术方向将更关注底层硬件、操作系统以及上层软件之间的联系，多算力、云原生的技术风潮正在为全产业的发展注入...
- ## [互联网的潮水，今年冲向了何方|2020 复盘](http://mp.weixin.qq.com/s?src=11&timestamp=1609041605&ver=2791&signature=KAphJoyhioOT1pGn4IZGIqFAGiSmmU93uBIB419SJMiUJsKrLqMNq-VGtZpQQVJ8Hd9CcT0wgA54kNfPjsRqjP8eCgDRFElqdsZWbLMzF2Pg*EVbOL6nFztRHShthrGa&new=1)
+ ## [互联网的潮水，今年冲向了何方|2020 复盘](http://mp.weixin.qq.com/s?src=11&timestamp=1609057804&ver=2791&signature=KAphJoyhioOT1pGn4IZGIqFAGiSmmU93uBIB419SJMjhjqGED3KBCEuTsVPmwyTURBN11gwwBObgmEdpL9R5CMY5b2C5AHtxnI*v4K*CR5VLFQXLpE7m7uyZCEXdq8YN&new=1)
  > 每一个新动向背后，都包含着不可言说的机会和焦虑。2007 年，金山软件在创业 20 年后，终于在港交所上市，掌舵人雷军的心情是复杂的。在金山 16 年艰苦奋斗，经过了和微软以及国内一系列竞争对手的恶战，金山终...
 # IT 技术 
  ## [为什么用Eclipse，VS Code不香吗？](http://developer.51cto.com/art/202012/637039.htm)
@@ -33,8 +39,8 @@ categories: IT NEWS
  > 选择优秀物联网连接选项的基本指南
  ## [从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？](http://ai.51cto.com/art/202012/636910.htm)
  > 从特征检测器到视觉转换器：卷积神经网络的时代到此结束了吗？
- ## [Win平台MySQL安装配置与小型项目_MySQL数据库入门与项目实战02](http://fellow.51cto.com/art/202012/635279.htm?qd=51ctojrzd)
- > Win平台MySQL安装配置与小型项目_MySQL数据库入门与项目实战02
+ ## [存储备份容灾技术基础培训课程_存储技术_容灾备份_Oracle视频教程_数据库容灾与复制01](http://fellow.51cto.com/art/202012/637242.htm?qd=51ctojrzd)
+ > 存储备份容灾技术基础培训课程_存储技术_容灾备份_Oracle视频教程_数据库容灾与复制01
  ## [Windows 10全新交互方式“语音启动器”曝光 支持简体中文](http://os.51cto.com/art/202012/637329.htm)
  > 微软当前正在测试一种称为“语音启动器”的Windows 10新功能，该功能可以改善用户与应用程序和文件进行交互
  ## [微信支付宝将进行适老化改造 老年人敢不敢用才是关键](http://mobile.51cto.com/anews-637328.htm)
@@ -49,36 +55,36 @@ categories: IT NEWS
  > 随着2020年的结束，是时候看看2021年和网络安全的新篇章了。近日，据外媒报道，有三种针对物联网的攻击方式
  ## [Windows10搜索这设计太反人类？教你如何彻底关闭它](http://os.51cto.com/art/202012/637321.htm)
  > 我们知道微软在Windows10中，特别加强了系统的搜索功能，但Windows10的搜索的确很难称得上好用。抛开效率低
- ## [【caffe-Windows】caffe+VS2013+Windows无GPU快速配置教程](https://blog.csdn.net/zb1165048017/article/details/51355143)
- > 【caffe-Windows】caffe+VS2013+Windows无GPU快速配置教程
- ## [YOLO系列算法精讲：从yolov1至yolov4的进阶之路（呕心沥血2万字超全整理，建议收藏！）](https://blog.csdn.net/wjinjie/article/details/107509243)
- > YOLO系列算法精讲：从yolov1至yolov4的进阶之路（呕心沥血2万字超全整理，建议收藏！）
+ ## [R语言分位数回归、GAM样条曲线、指数平滑和SARIMA对电力负荷时间序列预测](https://blog.csdn.net/qq_19600291/article/details/105623322)
+ > R语言分位数回归、GAM样条曲线、指数平滑和SARIMA对电力负荷时间序列预测
+ ## [Photoshop 2021 新增功能](https://blog.csdn.net/qq_41176800/article/details/109554915)
+ > Photoshop 2021 新增功能
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
  > 【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！
  ## [CSDN Chrome插件新版发布，新标签页大更新](https://blog.csdn.net/weixin_44463441/article/details/109637267)
  > CSDN Chrome插件新版发布，新标签页大更新
- ## [禅道12.4.2后台管理员权限Getshell](https://blog.csdn.net/m0_48520508/article/details/110228984)
- > 禅道12.4.2后台管理员权限Getshell
- ## [C语言之数组的基本知识](https://blog.csdn.net/qq_43342294/article/details/84204565)
- > C语言之数组的基本知识
- ## [PCA原理分析和Matlab实现方法（三）](https://blog.csdn.net/guyuealian/article/details/68487833)
- > PCA原理分析和Matlab实现方法（三）
- ## [值得推荐的Idea十几大优秀插件](https://blog.csdn.net/win7system/article/details/83508313)
- > 值得推荐的Idea十几大优秀插件
- ## [一文读懂BERT(原理篇)](https://blog.csdn.net/jiaowoshouzi/article/details/89073944)
- > 一文读懂BERT(原理篇)
- ## [在vue中如何获取token，并将token写进header](https://blog.csdn.net/qq_34825875/article/details/79569579)
- > 在vue中如何获取token，并将token写进header
- ## [Python教程（从不懂到入门）](https://blog.csdn.net/alex27933/article/details/107519511)
+ ## [实战中学习浏览器工作原理 — 之 HTTP 请求与解析](https://blog.csdn.net/TriDiamond6/article/details/108023150)
  > 
- ## [接口测试工具Postman使用实践](https://blog.csdn.net/duzilonglove/article/details/78645467)
- > 接口测试工具Postman使用实践
- ## [拿下60亿流量的《惊雷》都是哪些人在听？python帮你统计出来](https://blog.csdn.net/qq_46614154/article/details/105752359)
+ ## [【Python】Python核心编程](https://blog.csdn.net/qq_44647926/article/details/90813667)
+ > 【Python】Python核心编程
+ ## [（二）EGE安装与配置](https://blog.csdn.net/qq_39151563/article/details/100161986)
+ > （二）EGE安装与配置
+ ## [Python编曲实践（七）：整整一百行Python代码写出黑人抬棺梗曲《Astronomia》的旋律](https://blog.csdn.net/TruedickDing/article/details/105695667)
  > 
- ## [\[Python图像处理\] 二十二.Python图像傅里叶变换原理及实现](https://blog.csdn.net/Eastmount/article/details/89474405)
- > \[Python图像处理\] 二十二.Python图像傅里叶变换原理及实现
- ## [探索在原生网页中使用自定义数据属性](https://blog.csdn.net/qq_43624878/article/details/107977721)
- > 探索在原生网页中使用自定义数据属性
+ ## [R语言用Garch模型和回归模型对股票价格分析](https://blog.csdn.net/qq_19600291/article/details/110931539)
+ > R语言用Garch模型和回归模型对股票价格分析
+ ## [Sitadel ：Web安全扫描工具](https://blog.csdn.net/qq_25879801/article/details/110008097)
+ > Sitadel ：Web安全扫描工具
+ ## [从表单校验看JavaScript策略模式的使用](https://blog.csdn.net/qq_43624878/article/details/107934317)
+ > 从表单校验看JavaScript策略模式的使用
+ ## [2020年6月程序员工资统计，平均14404元，又跌了，扎心](https://blog.csdn.net/juwikuang/article/details/106503404)
+ > 
+ ## [真惨！连各大编程语言都摆起地摊了！](https://blog.csdn.net/xuanyuan_fsx/article/details/106658585)
+ > 
+ ## [接口测试-postman生成测试报告](https://blog.csdn.net/Asaasa1/article/details/107958208)
+ > 接口测试-postman生成测试报告
+ ## [一个10年C++程序员对技术和业务的感悟，献给还在迷茫中的你](https://blog.csdn.net/qq_42302962/article/details/85065160)
+ > 一个10年C++程序员对技术和业务的感悟，献给还在迷茫中的你
 # 人工智能 
  ## [详解什么是中台？](https://blog.csdn.net/yingshuanglu2564/article/details/101102243)
  > 详解什么是中台？
