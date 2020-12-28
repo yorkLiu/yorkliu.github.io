@@ -1,58 +1,58 @@
 ---
 title: 2020-12-28 IT News
 copyright: true
-date: 2020-12-28 08:01:00
+date: 2020-12-28 09:00:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [大陆企业在台设“秘密基地”，窃取半导体产业技术?](http://mp.weixin.qq.com/s?src=11&timestamp=1609111805&ver=2793&signature=z8E9TfZz05CMSqOWMbhuv0*yBSgghzH0sWbpMaxQBb33-Ma3XnPn9OzWyeTbqNOysbUKkaEzEAYKdPPrxD32ZJRg8OOYAezR6BwTyr8BAnTkJzW-LgDBQeCyu-vnqFRP&new=1)
- > 11月底，中国台湾地区伟诠电子董事长林锡铭接受《自由时报》专访，特别提到台湾科技园区潜伏很多陆资IC设计公司，并称这是一个猎人头平台，指控这些公司是窃取台湾半导体产业技术的秘密基地。近日，台湾地区媒体...
- ## [深圳市3D打印产业园推出3D打印创企孵化机制](http://mp.weixin.qq.com/s?src=11&timestamp=1609111805&ver=2793&signature=Yqq31wuLxwbxqP-QoHxJdTV2ZvG8HBGfzAOx-A79NyjKHTFhwOIEUUPfICYG8TVnkrvfhpua2Okwj2QnyPaPypaQe17W-bgBaGHEAcaJC1cWe7orwcSkASLGrwAILbE6&new=1)
- > 2020年4月21日，深圳市3D打印产业园正式推出3D打印创企孵化机制，以挖掘有潜力的3D打印创业企业，并通过产业资源、媒体宣传、引进资本等方式帮助其迅速成长，同时建立项目导师制，由规上3D打印企业负责人、风险...
- ## [微软Lumia 950 XL成功运行x86-64应用](http://mp.weixin.qq.com/s?src=11&timestamp=1609111805&ver=2793&signature=AttguJTrsjvPZh2KvT71GhlJ76h-3*UZQG98-6XnMO7IhUkjMmSYNBuiUIW2vb-aepnhO1Hns7wJErghInhQJcLiNn9WL4omObrlrpdIYciOgPW08bmoODF9XBZettyI&new=1)
- > 在Windows 10 Insider Preview Build 21277中，微软为Windows 10 on ARM用户提供了允许x86-64应用的能力，而在此前Windows 10 on ARM用户仅能运行原生arm64或兼容x86
- ## [量子，多少骗局假汝名而行!](http://mp.weixin.qq.com/s?src=11&timestamp=1609111805&ver=2793&signature=WELMKM3bbUxDioXL-2mIPTTakkndGcHhLvNfMzHS4314NE4canz1-PJjVHQ7EowPUu0VjlIKbuyDWz4g5Aoi7gtNQ0pQnS9OyDMZvZMuuPyAFSppQS87kCvJDUcxZ5Go&new=1)
+ ## [量子，多少骗局假汝名而行!](http://mp.weixin.qq.com/s?src=11&timestamp=1609115404&ver=2793&signature=WELMKM3bbUxDioXL-2mIPTTakkndGcHhLvNfMzHS4314NE4canz1-PJjVHQ7EowPQvEseRP51YGbHsFqbIN2HwOGBZM-zc*MKjqSLB0BHkx1cc-3JDM7lI8BVlOvDBTN&new=1)
  > 近日，量子安全通话手机再次受到媒体关注。其实炒作“量子+手机”概念也并非什么新鲜事，早在2017年，科大国盾量子就曾经与中兴通讯合作推出过全球首款商用“量子加密手机”。今年2020年5月14日，三星联合SK电讯...
- ## [一文读懂携号转网：全国携转量已超1850万](http://mp.weixin.qq.com/s?src=11&timestamp=1609111805&ver=2793&signature=W8gBRjW9E4PHVnoaJwQ*DvrDHKfakERQ-H7hlNrV1BK50hJuyF19iT9IBPpKQ2NnJ9njkhMMzFqgN1-jOCIDJpjhLahQpJq4XzxX-phTT3CacqJ1iNWmvW-tr45oBMPh&new=1)
+ ## [深圳市3D打印产业园推出3D打印创企孵化机制](http://mp.weixin.qq.com/s?src=11&timestamp=1609115404&ver=2793&signature=Yqq31wuLxwbxqP-QoHxJdTV2ZvG8HBGfzAOx-A79NyjKHTFhwOIEUUPfICYG8TVnJeTdZQyCP5rFHC3A2A3RlS1blLKWHuSOhyx5poT7kjfzu94NKN1vzBycngOHHw1K&new=1)
+ > 2020年4月21日，深圳市3D打印产业园正式推出3D打印创企孵化机制，以挖掘有潜力的3D打印创业企业，并通过产业资源、媒体宣传、引进资本等方式帮助其迅速成长，同时建立项目导师制，由规上3D打印企业负责人、风险...
+ ## [微软Lumia 950 XL成功运行x86-64应用](http://mp.weixin.qq.com/s?src=11&timestamp=1609115404&ver=2793&signature=AttguJTrsjvPZh2KvT71GhlJ76h-3*UZQG98-6XnMO7IhUkjMmSYNBuiUIW2vb-az3sWgD3CRg0Vqxet3Db2yz1vmDTHXeJEjOKjCLGvzV9FpoMwEZy*rUimXqqB8jAV&new=1)
+ > 在Windows 10 Insider Preview Build 21277中，微软为Windows 10 on ARM用户提供了允许x86-64应用的能力，而在此前Windows 10 on ARM用户仅能运行原生arm64或兼容x86
+ ## [一文读懂携号转网：全国携转量已超1850万](http://mp.weixin.qq.com/s?src=11&timestamp=1609115404&ver=2793&signature=W8gBRjW9E4PHVnoaJwQ*DvrDHKfakERQ-H7hlNrV1BK50hJuyF19iT9IBPpKQ2NnLpEySzEyCAR2WthSIuQ1GtVe8sV80iBubPHYq6O9zswl9XH48Al5IqRXN3Tzkf5e&new=1)
  > 在日前召开的“2020国际虚拟运营大会暨中国增值电信业务高峰论坛”上，中国信息通信研究院技术与标准研究所专家沈岑在发言中详细介绍了携号转网的现状以及未来趋势。为什么要推进携号转网携号转网这个名词并不是...
+ ## [大陆企业在台设“秘密基地”，窃取半导体产业技术?](http://mp.weixin.qq.com/s?src=11&timestamp=1609115404&ver=2793&signature=z8E9TfZz05CMSqOWMbhuv0*yBSgghzH0sWbpMaxQBb33-Ma3XnPn9OzWyeTbqNOy1SC2vyfm4kbrnv98B6qg8LBtmUJgimhFChiAcRP93SrVSeTcObqLb9rnJZMcd2RY&new=1)
+ > 11月底，中国台湾地区伟诠电子董事长林锡铭接受《自由时报》专访，特别提到台湾科技园区潜伏很多陆资IC设计公司，并称这是一个猎人头平台，指控这些公司是窃取台湾半导体产业技术的秘密基地。近日，台湾地区媒体...
 # IT 技术 
+ ## [崩溃！P6晋升P7，又跪了！！！](http://news.51cto.com/art/202012/637339.htm)
+ > 崩溃！P6晋升P7，又跪了！！！
  ## [分布式锁用Redis好？还是Zookeeper好？](http://stor.51cto.com/art/202012/637338.htm)
  > 分布式锁用Redis好？还是Zookeeper好？
+ ## [和程序员男朋友同居是种什么体验？](http://news.51cto.com/art/202012/637340.htm)
+ > 和程序员男朋友同居是种什么体验？
+ ## [5种带你轻松分析Python代码的软件库](http://developer.51cto.com/art/202012/637120.htm)
+ > 5种带你轻松分析Python代码的软件库
  ## [如何利用GitHub和开源贡献美化您的简历？](http://developer.51cto.com/art/202012/637119.htm)
  > 如何利用GitHub和开源贡献美化您的简历？
  ## [为什么用Eclipse，VS Code不香吗？](http://developer.51cto.com/art/202012/637039.htm)
  > 为什么用Eclipse，VS Code不香吗？
  ## [在生产环境中，你可以遵循的那些Kubernetes优秀实践](http://developer.51cto.com/art/202012/636905.htm)
  > 在生产环境中，你可以遵循的那些Kubernetes优秀实践
- ## [人脸识别如何侵犯公民个人信息？不法分子制作3D人脸模型骗过支付宝](http://ai.51cto.com/art/202012/637045.htm)
- > 人脸识别如何侵犯公民个人信息？不法分子制作3D人脸模型骗过支付宝
- ## [鸿蒙应用开发入门（一）：鸿蒙系统的概述](http://developer.51cto.com/art/202012/636853.htm)
- > 鸿蒙应用开发入门（一）：鸿蒙系统的概述
- ## [2021年比较适合用于Web开发的7种编程语言](http://developer.51cto.com/art/202012/636879.htm)
- > 2021年比较适合用于Web开发的7种编程语言
- ## [Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02](http://fellow.51cto.com/art/202012/637238.htm?qd=51ctojrzd)
- > Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02
+ ## [MySQL物理备份恢复实战1之XtraBackup_MySQL数据库备份与恢复05](http://fellow.51cto.com/art/202012/634848.htm?qd=51ctojrzd)
+ > MySQL物理备份恢复实战1之XtraBackup_MySQL数据库备份与恢复05
+ ## [2021年提升编程技能的4大方式](http://developer.51cto.com/art/202012/637455.htm)
+ > 毫无疑问，开发人员们都需要不断更新技能，跟上时代发展的脚步，本文，我将和大家分享一些技巧和平台，让你
+ ## [前端开发中不可忽视的知识点汇总（一）](http://developer.51cto.com/art/202012/637446.htm)
+ > 本文结合自己前端日常开发中，经常用到的且非常重要的一些知识点，进行了汇总，这是本系列第一篇。
+ ## [前端开发中不可忽视的知识点汇总（二）](http://developer.51cto.com/art/202012/637445.htm)
+ > 本文为前端开发重要知识点汇总系列第二篇，上一篇请参考前端开发中不可忽视的知识点汇总（一）。
+ ## [Windows 10等软件行动：Adobe Flash Player马上被终结](http://os.51cto.com/art/202012/637443.htm)
+ > 微软已经确认Windows 10的下一次更新将自动删除Flash Player。由于Flash Player即将迎来最后的谢幕，目前Ad
+ ## [13个提高生产率的DevOps指标](http://developer.51cto.com/art/202012/637442.htm)
+ > DevOps通过一系列追求敏捷心态的实践来提高软件交付速度和质量。当您提到DevOps时，首先想到的术语是持续集
+ ## [使用CSS Flexbox 构建可靠实用的网站 Header](http://developer.51cto.com/art/202012/637439.htm)
+ > 在 CSS3 没有普及的时候，创建一个网站 header 是一项既可怕又困难的任务 ?
+ ## [动态代理竟然如此简单！](http://developer.51cto.com/art/202012/637438.htm)
+ > 动态代理在 Java 中有着广泛的应用，比如 AOP 的实现原理、RPC远程调用、Java 注解对象获取、日志框架、全
  ## [跳表(SkipList)设计与实现(Java)](http://developer.51cto.com/art/202012/637437.htm)
  > 跳表是面试常问的一种数据结构，它在很多中间件和语言中得到应用，我们熟知的就有Redis跳表。并且在面试的
  ## [如何在 Fedora Linux 上安装 RPM 文件](http://os.51cto.com/art/202012/637435.htm)
  > 这篇初学者文章介绍如何在 Fedora 和 Red Hat Linux 上安装 RPM 软件包。它也随后向你展示如何移除这些 RPM
  ## [通过编写互动游戏学习 Bash](http://os.51cto.com/art/202012/637434.htm)
  > 编程一个简单的游戏是练习一门新语言并与其他你掌握的语言进行比较的好方法。
- ## [用过Optional；那用过Try么？](http://developer.51cto.com/art/202012/637433.htm)
- > Java的Optional非常好用。我们一般使用Optional做非空处理，省去if的处理。主要的目的，就是为了解决Java
- ## [2020年仍有25%的用户坚持Windows 7系统 PC玩家集体转往Windows 10](http://os.51cto.com/art/202012/637431.htm)
- > 2020年1月初，微软彻底终止了Win7系统的支持，除了花钱买补丁的特别用户之外，其他用户得要考虑继续用Win7
- ## [真的，千万不要给女朋友解释 什么是 “羊群效应”](http://developer.51cto.com/art/202012/637429.htm)
- > 媳妇最近突然爱学习了，各种刷算法、架构方面的题，没日没夜的带娃还有这个劲头，着实让我没想到。看似一片
- ## [一文读懂携号转网：运营商花了30亿 还含泪送走用户1850万](http://network.51cto.com/art/202012/637428.htm)
- > 在日前召开的&quot;2020国际虚拟运营大会暨中国增值电信业务高峰论坛&quot;上，中国信息通信研究院技术与标准研究所专
- ## [如何使用微软免费提供的应用服务搭建Python网站？](http://developer.51cto.com/art/202012/637426.htm)
- > 有时候，我们使用 Flask 或者 Django 写了一个简单的网页，想把它部署起来给所有人使用，但是又没有服务器
- ## [挖坑太大填不回去了！Windows10这王牌功能为何失败](http://os.51cto.com/art/202012/637427.htm)
- > Windows10带来了很多大刀阔斧的变革，但这些改动，却不一定都那么顺利发展下去。最近，一则关于Win10新功能
- ## [2021年管理Monorepo代码库的11种出色工具](http://developer.51cto.com/art/202012/637425.htm)
- > 如今，许多工具可以在20个不同的文件夹中运行“npm install”和“npm run build”。但是，并不是所有的工
  ## [一文学会主流Ansible Web UI的部署与使用 | 万字长文](https://blog.csdn.net/NewTyun/article/details/109664826)
  > 一文学会主流Ansible Web UI的部署与使用 | 万字长文
  ## [基于Python的OpenCV人脸检测](https://blog.csdn.net/m0_45161766/article/details/107545960)
