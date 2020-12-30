@@ -1,24 +1,26 @@
 ---
 title: 2020-12-30 IT News
 copyright: true
-date: 2020-12-30 08:02:22
+date: 2020-12-30 09:01:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [直播预告|红帽基于应用容器的混合云架构全讲解!红帽资深解决方案架构师刘晓宇分享智慧金融前沿知识](http://mp.weixin.qq.com/s?src=11&timestamp=1609286404&ver=2797&signature=b6EWFg1xNhYGg6SwQpeeAms5KWmk9iRdnBa0vu20x680zE6zIMzSg5bn7cWoqMQgF4ApS28XAj2et2APd-bX14PSDWSmGoehUzPrua3Yorr*4BZo*MbmuJb-nrOw*7tA&new=1)
- > 《机器人大家说》红帽专场直播上线12月30日（周三）20:00准时开讲千万不要错过！分享简介近年来随着技术的进步以及客户需求越趋复杂，金融行业也遇到了转型升级的问题，由于激烈的行业竞争压力，越来的越多的金...
- ## [全国工业和信息化工作会议在京召开](http://mp.weixin.qq.com/s?src=11&timestamp=1609286404&ver=2797&signature=TsamLgkO8oy84VMrdU4dDrtmrpLN3fQ-FpBPw-Vez8d28UcAdYvN8JH9UV5YTAdSEyyH5TZsi-r38dK7IFoSQzenn0rC7JTABilQGw4I46o=&new=1)
- > 上证报中国证券网讯 据工信微报微信公众号12月29日消息，2020年12月28-29日，全国工业和信息化工作会议在京召开。会议总结2020年工业和信息化工作，分析形势，部署2021年重点工作。工业和信息化部党组书记、...
- ## [十年远征：一个云操作系统的光荣与梦想](http://mp.weixin.qq.com/s?src=11&timestamp=1609286404&ver=2797&signature=6ERKqrauB3D2Rz0DqSu9KrJ-7ZEBCwej95WcWj-D*Bcjt4M9WR-17Jw17DQsIYJWmZNk2hyQTSelLjA8WRLGG0qYsAbXZk*q6r0pYr6FTliKD9VTn1NWUsKBMLCxu4lJ&new=1)
- > （零）这世界上所有的操作系统 这个老头，名叫肯·汤普森。在他头发还浓密的年纪，计算机还是个“真·大号计算器”——你想让它做什么任务，就必须专门编一套程序，然后它就只会干这一件事儿。而且，执行任务的...
- ## [定调了!坚决推进共建共享，明年我国将新建5G基站60万个以上(数量低于预期?)](http://mp.weixin.qq.com/s?src=11&timestamp=1609286404&ver=2797&signature=d9B*599VFDeJAvEK1ppOUffWmXjB-qTANIxrsfVk9Be4C71FVL2XH6TSKLjaYBcW6NeuwtycRH2VN0rIOh0AUYNxf4da5INyD-Pbs8wcxqDkcBPhByUCNmcc2SyrEaHk&new=1)
+ ## [定调了!坚决推进共建共享，明年我国将新建5G基站60万个以上(数量低于预期?)](http://mp.weixin.qq.com/s?src=11&timestamp=1609290004&ver=2797&signature=d9B*599VFDeJAvEK1ppOUffWmXjB-qTANIxrsfVk9BcBMuDXRKGZOjG8qoW6o0yWr9Emr*Dgd12FPKJfB7FPw6J-i4w*WRPUpCp7skDEwCfGMMoMr45oB3XkUlMHzYZq&new=1)
  > 新华社北京12月28日消息，工信部部长肖亚庆在28日召开的2021年全国工业和信息化工作会议上说，2021年将有序推进5G网络建设及应用，加快主要城市5G覆盖，推进共建共享，新建5G基站60万个以上。肖亚庆表示，要以5G...
- ## [人事：中国电信集团政企事业部新任副总!](http://mp.weixin.qq.com/s?src=11&timestamp=1609286404&ver=2797&signature=gCYkXXT-bhS-7Hkbq2ZEUaR253bF4DP1HNJ5LgFIJd7OdYK86BW-hVYZMDawZc09cBqicoAdjeFGsxoRJW8zxfPl00ynG8upm-gXtGSmk42AVbWIutzPsZ6wI9fWtIF5&new=1)
+ ## [直播预告|红帽基于应用容器的混合云架构全讲解!红帽资深解决方案架构师刘晓宇分享智慧金融前沿知识](http://mp.weixin.qq.com/s?src=11&timestamp=1609290004&ver=2797&signature=b6EWFg1xNhYGg6SwQpeeAms5KWmk9iRdnBa0vu20x68ixUH2FBZh9ebLlSJeQA5D7tm5jHo23GB9qeDnQhjP3QbPKx1CAazIIwqV8WMLfku8DiO15lv2TI1hpRp-6h93&new=1)
+ > 《机器人大家说》红帽专场直播上线12月30日（周三）20:00准时开讲千万不要错过！分享简介近年来随着技术的进步以及客户需求越趋复杂，金融行业也遇到了转型升级的问题，由于激烈的行业竞争压力，越来的越多的金...
+ ## [十年远征：一个云操作系统的光荣与梦想](http://mp.weixin.qq.com/s?src=11&timestamp=1609290004&ver=2797&signature=6ERKqrauB3D2Rz0DqSu9KrJ-7ZEBCwej95WcWj-D*BfZ0IvZGDpuMTRPYbiEdM9juoHy*A7Ok74Xd*e4NThVdX0XSAK--3DQia2lvsIBxTuRO3vzJfEc30ty0FnDjB5I&new=1)
+ > （零）这世界上所有的操作系统 这个老头，名叫肯·汤普森。在他头发还浓密的年纪，计算机还是个“真·大号计算器”——你想让它做什么任务，就必须专门编一套程序，然后它就只会干这一件事儿。而且，执行任务的...
+ ## [人事：中国电信集团政企事业部新任副总!](http://mp.weixin.qq.com/s?src=11&timestamp=1609290004&ver=2797&signature=gCYkXXT-bhS-7Hkbq2ZEUaR253bF4DP1HNJ5LgFIJd6Bgod7ivMSjNV4nFTnLQarxQBltpJnToFkkOJ3l9luk6k3KpQuTSxJj*vcohWBHaZPYj7XlhMP-kj*rG07kwba&new=1)
  > 运营商情报获悉，原广东深圳电信副总经理冯炜已任中国电信集团政企信息服务事业群副总经理，该事业群总经理为上官亚非。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情...
+ ## [全国工业和信息化工作会议在京召开](http://mp.weixin.qq.com/s?src=11&timestamp=1609290004&ver=2797&signature=TsamLgkO8oy84VMrdU4dDrtmrpLN3fQ-FpBPw-Vez8c4JMwu-VACuCTpxVrPsUOEGcAdz2nVYpT2xRgLbQphABR5AVsa*VB30HqFKS1Nwhc=&new=1)
+ > 上证报中国证券网讯 据工信微报微信公众号12月29日消息，2020年12月28-29日，全国工业和信息化工作会议在京召开。会议总结2020年工业和信息化工作，分析形势，部署2021年重点工作。工业和信息化部党组书记、...
 # IT 技术 
  ## [从您的本地机器开始学习Kubernetes](http://developer.51cto.com/art/202012/637814.htm)
  > 从您的本地机器开始学习Kubernetes
+ ## [到底什么是中间人攻击，你该如何防范？](http://netsecurity.51cto.com/art/202012/637815.htm)
+ > 到底什么是中间人攻击，你该如何防范？
  ## [一杯茶的功夫，上手Redis持久化机制](http://stor.51cto.com/art/202012/637743.htm)
  > 一杯茶的功夫，上手Redis持久化机制
  ## [比特币的价格飞起，技术也很火爆](http://blockchain.51cto.com/art/202012/637581.htm)
@@ -29,60 +31,58 @@ categories: IT NEWS
  > 2020征文-手机 快速搭建一款鸿蒙分布式分歧终端机原型
  ## [Windows 10将永久删除Flash Player：Adobe确认明年1月12日终结](http://os.51cto.com/art/202012/637710.htm)
  > Windows 10将永久删除Flash Player：Adobe确认明年1月12日终结
- ## [阻止Windows 10强制更新的四个方法](http://os.51cto.com/art/202012/637580.htm)
- > 阻止Windows 10强制更新的四个方法
- ## [2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】](http://fellow.51cto.com/art/202007/622446.htm?qd=51ctojrzd)
- > 2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】
+ ## [Oracle备份恢复迁移之exp/imp_Oracle备份恢复与数据迁移视频教程09](http://fellow.51cto.com/art/202012/637244.htm?qd=51ctojrzd)
+ > Oracle备份恢复迁移之exp/imp_Oracle备份恢复与数据迁移视频教程09
+ ## [Font Manager：一个简单的 GTK+ 桌面的开源应用](http://os.51cto.com/art/202012/637935.htm)
+ > 一个非常简单的字体管理器应用，让你专注于调整 Linux 系统上的字体。
+ ## [在边缘AI与云AI之间寻找平衡](http://ai.51cto.com/art/202012/637934.htm)
+ > 将更多的AI从云转移到边缘的关键挑战之一是，能够在边缘AI芯片中高效运行的神经网络架构。
+ ## [Linux系统下无法卸载挂载的目录怎么办？看这篇就够了](http://os.51cto.com/art/202012/637932.htm)
+ > 我们在日常运维中经常性会遇到需要进行磁盘的扩容、卸载、挂载等操作，但是有时候这个系统上跑的应用并没有
+ ## [贪心算法：我要监控二叉树！](http://netsecurity.51cto.com/art/202012/637937.htm)
+ > 给定一个二叉树，我们在树的节点上安装摄像头。节点上的每个摄影头都可以监视其父对象、自身及其直接子对象
+ ## [用手机监控司机：驾驶员记录仪也开始应用AI技术](http://ai.51cto.com/art/202012/637930.htm)
+ > 在过去三年中，美国成千上万的货运卡车配备了机器学习算法来分析驾驶员行为。算法可以检测出驾驶员在车程中
+ ## [人脸检测之Retina FaceNet](http://network.51cto.com/art/202012/637931.htm)
+ > Retinaface 与普通的目标检测算法类似，在图片上预先设定好一些先验框，这些先验框会分布在整个图片上，网
+ ## [SQL如何实现Excel的分列功能？](http://database.51cto.com/art/202012/637928.htm)
+ > 我们在处理SQL里的数据时候，时不时会遇到对字符串进行分割的情况。类似Excel中按指定字符进行分列，今天给
+ ## [如何实现Java类隔离加载？](http://developer.51cto.com/art/202012/637927.htm)
+ > Java 开发中，如果不同的 jar 包依赖了某些通用 jar 包的版本不一样，运行时就会因为加载的类跟预期不符合
+ ## [C++为什么非要引入那几种类型转换？](http://developer.51cto.com/art/202012/637925.htm)
+ > C++引入的这几种类型转换可以完美的解决上述问题，不同场景下不同需求使用不同的类型转换方式，同时有利于
  ## [拥抱Kubernetes,再见了Spring Cloud](http://developer.51cto.com/art/202012/637926.htm)
  > 相信很多Java从业者在熟悉了微服务开发后，自以为用 Spring Cloud 已经成功打造了微服务架构帝国，Java 已
- ## [微软将推出 Windows10 新版磁盘分析功能：帮助用户搜寻占用空间最大的文件夹](http://os.51cto.com/art/202012/637924.htm)
- > 12月30日消息 据外媒 WindowsLatest 报道，微软正在开发一个名为 DiskUsage 的新命令行工具，可以帮助用户
- ## [Windows 10各版本占比出炉： v2004、1909最受欢迎](http://os.51cto.com/art/202012/637923.htm)
- > 随着越来越多的用户从旧版操作系统转移到新版操作系统上，v2004版本，即2020年5月更新版的份额从37.6%上升
- ## [对 Redis 中的有序集合SortedSet的理解](http://stor.51cto.com/art/202012/637922.htm)
- > 本篇说一下Redis中的 有序集合类型，曾几何时，我们想把所有数据存到内存中的 数据结构中，但为了多机器共
- ## [JUnit：别再用 main 方法测试了，好吗？](http://developer.51cto.com/art/202012/637921.htm)
- > 在了解我之前，先来了解一下什么是单元测试。单元测试，就是针对最小的功能单元编写测试代码。在 Java 中，
- ## [约6.5万个人信息泄露，光荣特库摩欧洲分公司遭黑客攻击](http://netsecurity.51cto.com/art/202012/637919.htm)
- > 近日，光荣特库摩透露其欧洲分公司KOEI TECMO EUROPE LIMITED(KTE)遭受黑客攻击，并透露
- ## [除了独热编码，你需要了解将分类特征转换为数字特征的17种方法](http://bigdata.51cto.com/art/202012/637918.htm)
- > 分类编码是将分类列转换为一个(或多个)数字列的过程。但是，尽管有分类编码，但数据科学从业人员很容易忽略
- ## [为了把游戏接口做进Windows 这位大佬干翻了微软的管理层](http://os.51cto.com/art/202012/637916.htm)
- > Windows 电脑，可能还只是一台主要的生产力工具，就像苹果 Mac 一样。Eric Engstrom 所创立的 DirectX 接
- ## [2021年将新建5G基站60万个](http://network.51cto.com/art/202012/637915.htm)
- > 2020年是5G规模商用的关键之年，尽管受新冠肺炎疫情影响，许多企业推迟了开工时间，一些工程建设活动也不得
- ## [互联网大厂有哪些分库分表的思路和技巧？](http://database.51cto.com/art/202012/637914.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [PCA原理](https://blog.csdn.net/luoluonuoyasuolong/article/details/90711318)
- > PCA原理
- ## [C++小项目：学生管理系统](https://blog.csdn.net/qq_42780025/article/details/94453068)
- > C++小项目：学生管理系统
+ ## [Vue学习笔记之Webpack中css、less、图片等文件处理](https://blog.csdn.net/zeng_sily/article/details/107897968)
+ > Vue学习笔记之Webpack中css、less、图片等文件处理
+ ## [R语言复杂网络分析：聚类（社区检测）和可视化](https://blog.csdn.net/qq_19600291/article/details/105467589)
+ > R语言复杂网络分析：聚类（社区检测）和可视化
  ## [CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试](https://blog.csdn.net/weixin_44463441/article/details/111830910)
  > CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试
- ## [Postman接口自动化测试实战](https://blog.csdn.net/qq_39680564/article/details/108116659)
- > 
- ## [vue H5项目：利用vant ui二次封装的选择月份的日历组件](https://blog.csdn.net/ZiChen_Jiang/article/details/109459893)
- > vue H5项目：利用vant ui二次封装的选择月份的日历组件
- ## [2020UI影视小程序_电影小程序_带消息推送_投屏功能_无限对接小程序](https://blog.csdn.net/zxy2dxn/article/details/109708287)
- > 2020UI影视小程序_电影小程序_带消息推送_投屏功能_无限对接小程序
+ ## [python常用函数总结](https://blog.csdn.net/lm_is_dc/article/details/80048400)
+ > python常用函数总结
+ ## [ThinkPHP6项目基操（10.不可预知的內部异常处理）](https://blog.csdn.net/zy1281539626/article/details/110457731)
+ > ThinkPHP6项目基操（10.不可预知的內部异常处理）
+ ## [蚂蚁集团回应 “ IPO 推迟”；iPhone12系列支持北斗系统；LLVM 11.0.0 发布 | 极客头条](https://blog.csdn.net/csdnnews/article/details/109071904)
+ > 蚂蚁集团回应 “ IPO 推迟”；iPhone12系列支持北斗系统；LLVM 11.0.0 发布 | 极客头条
  ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
  > 年终福利 | “社区之星”（年度贡献者）成长故事征集
- ## [2020年20个Flutter最漂亮的UI库和项目](https://blog.csdn.net/mengks1987/article/details/107455641)
- > 2020年20个Flutter最漂亮的UI库和项目
- ## [三分钟教你如何用Github找开源项目--值得一看！](https://blog.csdn.net/as480133937/article/details/105611577)
- > 
+ ## [YOLO系列算法精讲：从yolov1至yolov4的进阶之路（呕心沥血2万字超全整理，建议收藏！）](https://blog.csdn.net/wjinjie/article/details/107509243)
+ > YOLO系列算法精讲：从yolov1至yolov4的进阶之路（呕心沥血2万字超全整理，建议收藏！）
+ ## [C语言学生成绩管理系统源代码](https://blog.csdn.net/aitaozi11/article/details/79645366)
+ > C语言学生成绩管理系统源代码
  ## [你立的技术 Flag 2020 实现了吗？](https://blog.csdn.net/csdnnews/article/details/111659263)
  > 你立的技术 Flag 2020 实现了吗？
- ## [中间件的解析漏洞详解及演示](https://blog.csdn.net/qq_41679358/article/details/108109439)
- > 中间件的解析漏洞详解及演示
- ## [R语言多项式线性模型：最大似然估计二次曲线](https://blog.csdn.net/qq_19600291/article/details/105613307)
- > R语言多项式线性模型：最大似然估计二次曲线
- ## [5 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家](https://blog.csdn.net/eson_15/article/details/104347476)
+ ## [C++ sort排序函数用法](https://blog.csdn.net/w_linux/article/details/76222112)
+ > C++ sort排序函数用法
+ ## [Python办公自动化系列课程之Excel做表自动化](https://blog.csdn.net/u014779536/article/details/108182833)
  > 
- ## [快速提高编程技术的几个小窍门](https://blog.csdn.net/qq15577969/article/details/109141113)
- > 快速提高编程技术的几个小窍门
- ## [2021南大855（人工智能）考研计划一览](https://blog.csdn.net/weixin_42297855/article/details/102745244)
- > 2021南大855（人工智能）考研计划一览
+ ## [VSCode插件大全｜VSCode高级玩家之第二篇](https://blog.csdn.net/TriDiamond6/article/details/105604427)
+ > 
+ ## [【SpringBoot】三十三、SpringBoot+LayUI后台管理系统开发脚手架](https://blog.csdn.net/qq_40065776/article/details/108415843)
+ > 【SpringBoot】三十三、SpringBoot+LayUI后台管理系统开发脚手架
+ ## [](https://blog.csdn.net/Eastmount/article/details/104463173)
+ > 
 # 人工智能 
  ## [各种语言效率比较，c++和python最快，java最后一名](https://blog.csdn.net/juwikuang/article/details/110409781)
  > 各种语言效率比较，c++和python最快，java最后一名
