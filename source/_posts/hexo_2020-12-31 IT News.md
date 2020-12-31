@@ -1,24 +1,28 @@
 ---
 title: 2020-12-31 IT News
 copyright: true
-date: 2020-12-31 08:01:09
+date: 2020-12-31 09:00:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [它曾经号称要干翻苹果，现在却要凉了](http://mp.weixin.qq.com/s?src=11&timestamp=1609372805&ver=2799&signature=87BJCZyNJdSEeCVL4RNZIacwU2Qzjcgdte0pbVeDbPk5OvMss5S*FAk82BTvDhL5n6lJYtap3l70Kp-2CI4gMrqipiSyv14g4*Nrn5G-32ZWTVYug1RPO00aSMYNOLjp&new=1)
- > 主流智能手机操作系统，现在算是 Android 和 iOS 二分天下的局面。遥想 Windows Phone 时代，似乎离我们已经很远。但 Windows Phone 的磁贴视觉设计，还有它流畅度极高的操作体验，仍然停留在不少搞机人的印象里
- ## [波士顿动力机器人团队最新舞蹈](http://mp.weixin.qq.com/s?src=11&timestamp=1609372805&ver=2799&signature=pgpxuukmQW4P0nuzcwdWJ4xUzgRUsqR84h10TVTDTlcI73k4uMgf6L-wg0MUn3zTmHH8*GzZE3ZmrzXBCwgEj*MvoP8tehkb3SdJ3yPzIOV6MwXgWiZ3hVEX58ei2r7d&new=1)
+ ## [波士顿动力机器人团队最新舞蹈](http://mp.weixin.qq.com/s?src=11&timestamp=1609374605&ver=2799&signature=pgpxuukmQW4P0nuzcwdWJ4xUzgRUsqR84h10TVTDTlcI73k4uMgf6L-wg0MUn3zTDx9wX5Z-HcNDg1rIAybLdzTFqvY-YuANn4RPtu4aLmRcE9m49lJTqD7y0zmldvnW&new=1)
  > 今天波士顿动力发布了新的短片，他们旗下的机器人团队，包括人形机器人Atlas，狗形机器人Spot和Handbox组团，跳了一只配乐《Do You Love Me？》的舞蹈，以庆祝新年即将到来，他们的全体员工祝愿大家新年快乐。波...
- ## [CIS 2020金融科技安全专场圆满结束，议题集锦不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1609372805&ver=2799&signature=QmuXJyh94RZlVWvSpM2OpzMezNqSRY5lFt1tszd1EuKxlIfilQE-vdlAJ4m3f84nWJef7vvdHcrQtQDfd6Rb5dNSAcoKNxSz2lHQ50HnY40Uyrb7kPEVUaIP4OhTApR-&new=1)
- > 金融行业的安全风险核心仍在数据，科技是数据的“外衣”。互联网金融在业务开展过程中积累了大量信息和数据，这些也经常成为网络攻击的重灾区。而随着新技术在金融业中的广泛和深入应用，新一轮的金融科技安全拉...
- ## [核心网运维的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1609372805&ver=2799&signature=MYF9JTIHCVhvQVFWUaBFBdtL13kH8GN7s9TPC6A4UQz2FLQT2cmkxTWf*prchxes6*sqbsG5lp4gdImPR7SbHjv7ZCh4oE7Q7qlrIXw6u36raYRRoocgZTA9hgSg8-qZ&new=1)
- > 复位、拔插、倒换、换板、看看传输是否有问题、先切换到备用模块、跟踪一下信令……C&amp;C08，32模，128模，软交换，NGN，SoftX3000……这些熟悉的“通信黑话”是否已经让你梦回那些年核心网运维的日子？从窄带交换...
- ## [未来十年可能是ARM架构的时代](http://mp.weixin.qq.com/s?src=11&timestamp=1609372805&ver=2799&signature=a0eH3nrYNwvYBmyUQY53bZbDB5ZAZYCCXSonwdOJrwifBkifhhbil66bFIVufMpe7DimZgUTVe14pxap3M4pyaQNHibY5Pv4N9epXEGCeifnakkZ9YcEw9eQR5VMUyol&new=1)
+ ## [它曾经号称要干翻苹果，现在却要凉了](http://mp.weixin.qq.com/s?src=11&timestamp=1609374605&ver=2799&signature=87BJCZyNJdSEeCVL4RNZIacwU2Qzjcgdte0pbVeDbPk5OvMss5S*FAk82BTvDhL5Mr8q9Dj1FLMDuNZq*evw32tZVBmfPnIm-T1gQV6BCFZQN1NqV2hhUP6fJVZAHvy5&new=1)
+ > 主流智能手机操作系统，现在算是 Android 和 iOS 二分天下的局面。遥想 Windows Phone 时代，似乎离我们已经很远。但 Windows Phone 的磁贴视觉设计，还有它流畅度极高的操作体验，仍然停留在不少搞机人的印象里
+ ## [未来十年可能是ARM架构的时代](http://mp.weixin.qq.com/s?src=11&timestamp=1609374605&ver=2799&signature=a0eH3nrYNwvYBmyUQY53bZbDB5ZAZYCCXSonwdOJrwifBkifhhbil66bFIVufMpeZq56Oq0Gp2f8ZMBTTI9K0EgSr7HFxXHdHLtZw*irw*-9ARqM331gOvBSmnEdw-Ke&new=1)
  > 来源：雷锋网ARM架构已经成长了一段时间，最近正在进入转折期。在2000年的时候，嵌入式系统公司Lineo的台式机运行的是X86架构，但出售的产品都是基于MIPS或者RISC架构芯片。几十年过去了，尽管ARM已经在移动设备...
+ ## [核心网运维的前世今生](http://mp.weixin.qq.com/s?src=11&timestamp=1609374605&ver=2799&signature=MYF9JTIHCVhvQVFWUaBFBdtL13kH8GN7s9TPC6A4UQz2FLQT2cmkxTWf*prchxesbu2CZwSLLfxm9Lxzi64WeZb5WD74tEvw3LMQRAa3mpDpCwMxrjBBg-yFDYyhLaPn&new=1)
+ > 复位、拔插、倒换、换板、看看传输是否有问题、先切换到备用模块、跟踪一下信令……C&amp;C08，32模，128模，软交换，NGN，SoftX3000……这些熟悉的“通信黑话”是否已经让你梦回那些年核心网运维的日子？从窄带交换...
+ ## [CIS 2020金融科技安全专场圆满结束，议题集锦不容错过](http://mp.weixin.qq.com/s?src=11&timestamp=1609374605&ver=2799&signature=QmuXJyh94RZlVWvSpM2OpzMezNqSRY5lFt1tszd1EuKxlIfilQE-vdlAJ4m3f84nkybyg8SO0A3ypW5P-rHfBAdaFaRSMa4jl4qc63BAXVyMMBASz9wXkCPktKIB231s&new=1)
+ > 金融行业的安全风险核心仍在数据，科技是数据的“外衣”。互联网金融在业务开展过程中积累了大量信息和数据，这些也经常成为网络攻击的重灾区。而随着新技术在金融业中的广泛和深入应用，新一轮的金融科技安全拉...
 # IT 技术 
+ ## [2020年值得推荐的六大服务器管理软件和工具](http://server.51cto.com/sManage-638044.htm)
+ > 2020年值得推荐的六大服务器管理软件和工具
  ## [如何轻松检查你的机器学习模型是否公平？](http://ai.51cto.com/art/202012/638043.htm)
  > 如何轻松检查你的机器学习模型是否公平？
+ ## [MatRec : 解决推荐系统马太效应的利器](http://developer.51cto.com/art/202012/638045.htm)
+ > MatRec : 解决推荐系统马太效应的利器
  ## [到底什么是中间人攻击，你该如何防范？](http://netsecurity.51cto.com/art/202012/637815.htm)
  > 到底什么是中间人攻击，你该如何防范？
  ## [如何打造数据驱动的知识型经济？这里有一份技术列表](http://news.51cto.com/art/202012/637987.htm)
@@ -27,32 +31,28 @@ categories: IT NEWS
  > 普洱还是喜茶？再议开发安全中的SDL与DevSecOps
  ## [转手赚1000，开源抢茅台神器，真香！](http://os.51cto.com/art/202012/637958.htm)
  > 转手赚1000，开源抢茅台神器，真香！
- ## [【鸿蒙基地】全球首款升级到鸿蒙的华为手机](http://os.51cto.com/art/202012/637774.htm)
- > 【鸿蒙基地】全球首款升级到鸿蒙的华为手机
- ## [从您的本地机器开始学习Kubernetes](http://developer.51cto.com/art/202012/637814.htm)
- > 从您的本地机器开始学习Kubernetes
- ## [MySQL数据库备份恢复基础知识讲解_MySQL数据库备份与恢复01](http://fellow.51cto.com/art/202012/634845.htm?qd=51ctojrzd)
- > MySQL数据库备份恢复基础知识讲解_MySQL数据库备份与恢复01
- ## [如何在 C 中使用 反射](http://developer.51cto.com/art/202012/638165.htm)
- > C 中的 反射 常用于在程序的运行时获取 类型 的元数据，可获取的信息包括已加载到进程中的 程序集 和 类
- ## [ARM64 Linux内核页表的块映射](http://os.51cto.com/art/202012/638164.htm)
- > 内核文档Documentation/arm64/memory.rst描述了ARM64 Linux内核空间的内存映射情况，应该是此方面最权威文
- ## [微软 Windows10 免费工具集 PowerToys v0.29 正式发布：ARM64 进度完成代码库 .NET Core 升级](http://os.51cto.com/art/202012/638161.htm)
- > 12 月 30 日消息 微软名为 PowerToys 的免费系统实用工具套件从 Windows XP 时代复活，并于 2019 年 5 月引
- ## [数据科学技术的未来](http://ai.51cto.com/art/202012/638160.htm)
- > 分析和商业智能解决方案已成为实现组织目标的最关键技术。因此，在招聘新人才时，他们始终将数据技能列为最
- ## [浅析Docker构建SpringBoot应用](http://os.51cto.com/art/202012/638157.htm)
- > Maven是一个强大的项目管理与构建工具。如果可以使用Maven构建Docker镜像，以下几款Maven的Docker插件比较
- ## [FlinkSQL内置了这么多函数你都使用过吗？](http://database.51cto.com/art/202012/638155.htm)
- > Flink Table 和 SQL 内置了很多 SQL 中支持的函数;如果有无法满足的需要，则可以实现用户自定义的函数(UDF)
- ## [上班摸鱼不小心点开不雅图片？一键拯救你的职业生涯](http://os.51cto.com/art/202012/638156.htm)
- > 最近笔者有个朋友就碰到了标题所说的尴尬事……上班的时候摸鱼，开的网页中居然就有带颜色的小广告，火爆的
- ## [网格化，是灵丹妙药，还是饮鸩止渴？](http://network.51cto.com/art/202012/638154.htm)
- > 前文提到，为了解决&quot;老员工包袱&quot;这个老大难问题，不能裁员该怎么办?运营商高管大佬们煞费苦心地想呀想呀，
- ## [Hive基于UDF进行文本分词](http://database.51cto.com/art/202012/638152.htm)
- > Hive作为一个sql查询引擎，自带了一些基本的函数，比如count(计数)，sum(求和)，有时候这些基本函数满足不
- ## [MySQL 5.7和MySQL 8.0的4个细节差异](http://database.51cto.com/art/202012/638151.htm)
- > 在这些年的MySQL升级需求中，让我大跌眼镜的一个现象是：驱动业务从MySQL 5.5升级到MySQL 5.7的很大一个因
+ ## [MySQL培训速成教程（六）：Linux安装MySQL 5.7](http://fellow.51cto.com/art/202007/622200.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（六）：Linux安装MySQL 5.7
+ ## [一篇文章实现Vue集成Axios、调用、跨域、配置多个跨域](http://developer.51cto.com/art/202012/638175.htm)
+ > Axios是一个来自于vue官方推荐的一个用于与后端（Java、go、Python、PHP）进行数据交互的JavaScript库，你
+ ## [2021年值得关注的大数据趋势，你都知道吗？](http://bigdata.51cto.com/art/202012/638174.htm)
+ > 要知道大数据对个人和企业的日常工作效率的重要性，了解最大的趋势是很重要的。以下是2021年应该关注的四个
+ ## [数据管理与物联网](http://iot.51cto.com/art/202012/638172.htm)
+ > 物联网提供有价值的信息，可以更快地发现健康问题，监测健康，更好地、更安全地跟踪货物，以及更高效地生产
+ ## [企业如何选择SSL证书?](http://netsecurity.51cto.com/art/202012/638173.htm)
+ > 随着互联网的发展，SSL网站安全证书已成为企业的一个标配。如未配备，你在访问公司站点时，会被提示该站点
+ ## [MySQL为Null会导致5个问题，个个致命！](http://database.51cto.com/art/202012/638170.htm)
+ > 本文我们讲了当某列为 NULL 时可能会导致的 5 种问题：丢失查询结果、导致空指针异常和增加了查询的难度。
+ ## [业风口渐起，SaaS国产替代如何飞起来？](http://cloud.51cto.com/art/202012/638171.htm)
+ > 值得注意的是，除了备受关注的芯片、数据库以及操作系统等IT行业的基础设施，国产替代同样出现在以SaaS为代
+ ## [为了搞清楚类加载，竟然手撸JVM！](http://virtual.51cto.com/art/202012/638168.htm)
+ > 当学习一个新知识不知道从哪下手的时候，最有效的办法是梳理这个知识结构的脉络信息，汇总出一整张的思维导
+ ## [Javascript-50个实战项目攻克HTML](http://fellow.51cto.com/art/202012/638079.htm)
+ > 通过50个实战项目学习HTML和CSS以及原生JS
+ ## [10个很棒的 JavaScript 字符串技巧](http://developer.51cto.com/art/202012/638167.htm)
+ > 字符串是几乎所有编程语言中最基本的数据类型之一。同时，它也是新开发人员学习的最早的数据类型之一。然而
+ ## [Spring boot的Mybatis多数据源配置](http://database.51cto.com/art/202012/638169.htm)
+ > 最近在项目开发中，需要为一个使用 MySQL 数据库的 SpringBoot 项目，新添加一个 PLSQL 数据库数据源，那么
  ## [2019 Python接口自动化测试框架实战开发（一）](https://blog.csdn.net/qq_41782425/article/details/91841130)
  > 2019 Python接口自动化测试框架实战开发（一）
  ## [JS UI框架：构建用户界面布局说明](https://blog.csdn.net/harmonycommunity/article/details/109670701)
