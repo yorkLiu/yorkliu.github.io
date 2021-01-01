@@ -1,21 +1,21 @@
 ---
 title: 2021-01-01 IT News
 copyright: true
-date: 2021-01-01 08:00:55
+date: 2021-01-01 09:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [辞旧迎新重磅消息:：联通再次否认与电信合并，官方权威解答将探索推进网业分离!](http://mp.weixin.qq.com/s?src=11&timestamp=1609457405&ver=2801&signature=XMbfXTEE-YxpNeewtGknGtIMMyMiUHKNK5x-btXQk8DD2*eylAVWCqLWg6a5xKQ5gDNWmcs0RjyCKRbdqwgCzmf4fdmAzjh58MsdZBmVji1uoaYUVivRFgH2QekgCUa*&new=1)
- > 在12月20日召开的中国联通2021年工作会议上，董事长王晓初进行了主题演讲，最后他表示，“迄今为止，我没有收到上级部门有关中国联通与中国电信合并的通知。”也就是说，王晓初再度否认与中国电信合并的传闻。早...
- ## [思辨|如何以人为本构建智能制造新体系?](http://mp.weixin.qq.com/s?src=11&timestamp=1609457405&ver=2801&signature=UBRghGYHROaTM2fkuNR3tXDy2qh8mSfd8U5svcsmEHoiyJbqcZVlPrHAOF65u3Dyxlfa1OKgYaxZW8op56wgGHkzK7wWpVFlUoEFwSAQuf4nyrcRT3ghmtzXOQznxPEm&new=1)
- > 来源：兰光创新创作：朱铎先 王柏村数字君说:时下不少制造业企业在智能制造转型的道路上提出了“机器换人”、“无人工厂”等口号，这一口号似乎在表达企业所谓智能制造转型，不过就是把人换成机器就行了。然而...
- ## [新年快乐!全球3D打印市场研究报告、企业营收数据、行业分析，一网打尽](http://mp.weixin.qq.com/s?src=11&timestamp=1609457405&ver=2801&signature=CyH2mok1LIXexZliClKKb0V3rj2NwwYt4zKHL1P2pI3cGjxKNcltjtWmavjAG38hXx2i3hziL4EsU8iWNLINGY-9HQ-7FE4Cr1LmicSGFueYJZX3a4rHcRLMNStKmRoZ&new=1)
- > 祝熊友们新年快乐！有熊友问，“2020年过去了，3D打印行业的发展到底怎么样啦？”这个问题很好，但太大了。为了回答，南极熊3D打印网www.nanjixiong.com特别设立“3D打印报告数据”专栏，汇集全球3D打印市场研究...
- ## [刘鹏教授受邀在国家超级计算深圳中心作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1609457405&ver=2801&signature=xkNZziFKzx67Coq*CkbBSLIac6*MIzxNkT1QWSQmALjbGJD8Yz5hdHFHZN8SEvT-vnsrk4EjltECCRcITL7K-ckxp8uXmGeCYs8xZXXZ9hN7oqH25fJUgPuCFPshLZbo&new=1)
+ ## [刘鹏教授受邀在国家超级计算深圳中心作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=xkNZziFKzx67Coq*CkbBSLIac6*MIzxNkT1QWSQmALjT0pjMT9uVhXeWnb5Q7kghjfrAuySpNfoo-bepyX3Q3GwbHzlcSQ7m5ksS-N6vP*9mEIbFY0-ks**QvUMg8hwa&new=1)
  > 12月30日，中国大数据应用联盟人工智能专家委员会主任、中国信息协会教育分会人工智能教育专家委员会主任刘鹏教授受邀在国家超级计算深圳中心作主题报告，该中心多位领导和工程师参加了报告会。其中，刘鹏教授所...
- ## [这家将创新写入DNA的科技巨头，预测了2021年的科技趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1609457405&ver=2801&signature=EFVFlH4-lDpPzwjd1MejsCG-PTcH7Q-5WNJ2UBztg-t*556WRivxK0DuAE2N3zRRv-uQFNkjipusJ2ZQ8T07nhX91CkL24RUkJvPYN9uF5IBFgfoIiBTfMctuH7CpQhS&new=1)
+ ## [新年快乐!全球3D打印市场研究报告、企业营收数据、行业分析，一网打尽](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=CyH2mok1LIXexZliClKKb0V3rj2NwwYt4zKHL1P2pI3eQrvyOsBwYsf0Kvkt0ba-NWjMNPpUihuYw9iRTkWqd8iYIJcCGB6Cxl*QJsS6AXOzlO3nD1E2IUrnSAxvr3xB&new=1)
+ > 祝熊友们新年快乐！有熊友问，“2020年过去了，3D打印行业的发展到底怎么样啦？”这个问题很好，但太大了。为了回答，南极熊3D打印网www.nanjixiong.com特别设立“3D打印报告数据”专栏，汇集全球3D打印市场研究...
+ ## [这家将创新写入DNA的科技巨头，预测了2021年的科技趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=EFVFlH4-lDpPzwjd1MejsCG-PTcH7Q-5WNJ2UBztg-sWZ581TaFha8nd28bxoH5WM76rxzQDGS3Ew9aK1RUB4br932oyMw1fLimTxc3Mv57VdnuKHo4CWhPLAT*ml0Mx&new=1)
  > 2021年的科技将会走向何方？且听Werner Vogels博士为您细细道来。一家将创新写入DNA的科技企业说起在企业文化中对创新推崇备至的公司，估计每个人脑海中都能想出一大堆公司名字。但是如果说起这家科技企业，想必...
+ ## [思辨|如何以人为本构建智能制造新体系?](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=UBRghGYHROaTM2fkuNR3tXDy2qh8mSfd8U5svcsmEHpM8qQ1B-aT3GV5Lj*r9wp1uzNlka2*z1xnQDIm0*HVrSMu0Ls1LuiU*Z6V1lb1GGeNOEv3fzOhQKJwYhPTIcoe&new=1)
+ > 来源：兰光创新创作：朱铎先 王柏村数字君说:时下不少制造业企业在智能制造转型的道路上提出了“机器换人”、“无人工厂”等口号，这一口号似乎在表达企业所谓智能制造转型，不过就是把人换成机器就行了。然而...
+ ## [辞旧迎新重磅消息:：联通再次否认与电信合并，官方权威解答将探索推进网业分离!](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=XMbfXTEE-YxpNeewtGknGtIMMyMiUHKNK5x-btXQk8CX*vUOniBAKZI3SozMnpIxzgjvQjPSOMQ1TErc9QGIwARu4jQjbef97NB*lcuQiV9I9JnXVqiGS66IZDhVl2tP&new=1)
+ > 在12月20日召开的中国联通2021年工作会议上，董事长王晓初进行了主题演讲，最后他表示，“迄今为止，我没有收到上级部门有关中国联通与中国电信合并的通知。”也就是说，王晓初再度否认与中国电信合并的传闻。早...
 # IT 技术 
  ## [我用Redis实现了一个轻量级的搜索引擎！](http://stor.51cto.com/art/202012/638183.htm)
  > 我用Redis实现了一个轻量级的搜索引擎！
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 如何轻松检查你的机器学习模型是否公平？
  ## [IT领导者成功进行数字化转型的五个步骤](http://www.cioage.com/art/202012/638201.htm)
  > IT领导者成功进行数字化转型的五个步骤
- ## [MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05](http://fellow.51cto.com/art/202008/623592.htm?qd=51ctojrzd)
- > MySQL(LVS+Keepalived+HAProxy)_MySQL高可用复制与分布式集群架构05
+ ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
+ > Docker快速入门视频课程（通俗易懂）
  ## [R语言主题模型LDA评估公司面临的风险领域与可视化](https://blog.csdn.net/qq_19600291/article/details/105633105)
  > R语言主题模型LDA评估公司面临的风险领域与可视化
  ## [紧跟尤大的脚步提前体验Vue3新特性，你不会还没了解过Vue3吧](https://blog.csdn.net/l_ppp/article/details/107820234)
