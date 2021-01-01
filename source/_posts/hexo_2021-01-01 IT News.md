@@ -1,21 +1,23 @@
 ---
 title: 2021-01-01 IT News
 copyright: true
-date: 2021-01-01 09:01:18
+date: 2021-01-01 10:01:53
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刘鹏教授受邀在国家超级计算深圳中心作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=xkNZziFKzx67Coq*CkbBSLIac6*MIzxNkT1QWSQmALjT0pjMT9uVhXeWnb5Q7kghjfrAuySpNfoo-bepyX3Q3GwbHzlcSQ7m5ksS-N6vP*9mEIbFY0-ks**QvUMg8hwa&new=1)
- > 12月30日，中国大数据应用联盟人工智能专家委员会主任、中国信息协会教育分会人工智能教育专家委员会主任刘鹏教授受邀在国家超级计算深圳中心作主题报告，该中心多位领导和工程师参加了报告会。其中，刘鹏教授所...
- ## [新年快乐!全球3D打印市场研究报告、企业营收数据、行业分析，一网打尽](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=CyH2mok1LIXexZliClKKb0V3rj2NwwYt4zKHL1P2pI3eQrvyOsBwYsf0Kvkt0ba-NWjMNPpUihuYw9iRTkWqd8iYIJcCGB6Cxl*QJsS6AXOzlO3nD1E2IUrnSAxvr3xB&new=1)
- > 祝熊友们新年快乐！有熊友问，“2020年过去了，3D打印行业的发展到底怎么样啦？”这个问题很好，但太大了。为了回答，南极熊3D打印网www.nanjixiong.com特别设立“3D打印报告数据”专栏，汇集全球3D打印市场研究...
- ## [这家将创新写入DNA的科技巨头，预测了2021年的科技趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=EFVFlH4-lDpPzwjd1MejsCG-PTcH7Q-5WNJ2UBztg-sWZ581TaFha8nd28bxoH5WM76rxzQDGS3Ew9aK1RUB4br932oyMw1fLimTxc3Mv57VdnuKHo4CWhPLAT*ml0Mx&new=1)
- > 2021年的科技将会走向何方？且听Werner Vogels博士为您细细道来。一家将创新写入DNA的科技企业说起在企业文化中对创新推崇备至的公司，估计每个人脑海中都能想出一大堆公司名字。但是如果说起这家科技企业，想必...
- ## [思辨|如何以人为本构建智能制造新体系?](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=UBRghGYHROaTM2fkuNR3tXDy2qh8mSfd8U5svcsmEHpM8qQ1B-aT3GV5Lj*r9wp1uzNlka2*z1xnQDIm0*HVrSMu0Ls1LuiU*Z6V1lb1GGeNOEv3fzOhQKJwYhPTIcoe&new=1)
- > 来源：兰光创新创作：朱铎先 王柏村数字君说:时下不少制造业企业在智能制造转型的道路上提出了“机器换人”、“无人工厂”等口号，这一口号似乎在表达企业所谓智能制造转型，不过就是把人换成机器就行了。然而...
- ## [辞旧迎新重磅消息:：联通再次否认与电信合并，官方权威解答将探索推进网业分离!](http://mp.weixin.qq.com/s?src=11&timestamp=1609462804&ver=2801&signature=XMbfXTEE-YxpNeewtGknGtIMMyMiUHKNK5x-btXQk8CX*vUOniBAKZI3SozMnpIxzgjvQjPSOMQ1TErc9QGIwARu4jQjbef97NB*lcuQiV9I9JnXVqiGS66IZDhVl2tP&new=1)
+ ## [辞旧迎新重磅消息:：联通再次否认与电信合并，官方权威解答将探索推进网业分离!](http://mp.weixin.qq.com/s?src=11&timestamp=1609466405&ver=2801&signature=XMbfXTEE-YxpNeewtGknGtIMMyMiUHKNK5x-btXQk8CX*vUOniBAKZI3SozMnpIxK6KiJENLJsatLQtBLDqucwzffHyLEVaPLgEAFjbnq6XHtJOgi1VEHRuD*tQHoqvo&new=1)
  > 在12月20日召开的中国联通2021年工作会议上，董事长王晓初进行了主题演讲，最后他表示，“迄今为止，我没有收到上级部门有关中国联通与中国电信合并的通知。”也就是说，王晓初再度否认与中国电信合并的传闻。早...
+ ## [新年快乐!全球3D打印市场研究报告、企业营收数据、行业分析，一网打尽](http://mp.weixin.qq.com/s?src=11&timestamp=1609466405&ver=2801&signature=CyH2mok1LIXexZliClKKb0V3rj2NwwYt4zKHL1P2pI3eQrvyOsBwYsf0Kvkt0ba-i0wrJ1pJ5ltVmGEQ-iz*FQsvMUNivWjYokoJT-XniLb9ToQTJ4o04Zysuo5EQx3B&new=1)
+ > 祝熊友们新年快乐！有熊友问，“2020年过去了，3D打印行业的发展到底怎么样啦？”这个问题很好，但太大了。为了回答，南极熊3D打印网www.nanjixiong.com特别设立“3D打印报告数据”专栏，汇集全球3D打印市场研究...
+ ## [\[科技早报7点整\]周鸿祎赞刘强东真实朴实 马斯克称在火星将使用加密货币……](http://mp.weixin.qq.com/s?src=11&timestamp=1609466405&ver=2801&signature=7tBVrce2ISPgvBK0aW009NJpkqLSVpgeXEwaD7EgLxpNOazC8gaC0spZATXr5fcRzc-StmJnq1ahjFmuyKkyYuovmSBbhCmBEg9lk2LQi9dPMYnBx9A-M6wvevnhVoxH&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第1023期1.北京健康云将实现电子病历等信息共享日前，北京市卫生健康委联合市教委等十部门印发《北京市关于加强医疗卫生机构研究创新功能的实施方案》，其中提到，本市将建设北...
+ ## [思辨|如何以人为本构建智能制造新体系?](http://mp.weixin.qq.com/s?src=11&timestamp=1609466405&ver=2801&signature=UBRghGYHROaTM2fkuNR3tXDy2qh8mSfd8U5svcsmEHpM8qQ1B-aT3GV5Lj*r9wp19tDNhS0jl6reqGhiAaVkYcosnifgIOOCPwFLRU*KpgRvNKahzj4tLmV0CMi6ulDz&new=1)
+ > 来源：兰光创新创作：朱铎先 王柏村数字君说:时下不少制造业企业在智能制造转型的道路上提出了“机器换人”、“无人工厂”等口号，这一口号似乎在表达企业所谓智能制造转型，不过就是把人换成机器就行了。然而...
+ ## [刘鹏教授受邀在国家超级计算深圳中心作报告](http://mp.weixin.qq.com/s?src=11&timestamp=1609466405&ver=2801&signature=xkNZziFKzx67Coq*CkbBSLIac6*MIzxNkT1QWSQmALjT0pjMT9uVhXeWnb5Q7kgh-tYcv3b*daUa-yrAoIP53IZPOF1FaFeQFNQ7NfmCfqQ6c-q2znTw0pGH26ixhT84&new=1)
+ > 12月30日，中国大数据应用联盟人工智能专家委员会主任、中国信息协会教育分会人工智能教育专家委员会主任刘鹏教授受邀在国家超级计算深圳中心作主题报告，该中心多位领导和工程师参加了报告会。其中，刘鹏教授所...
+ ## [这家将创新写入DNA的科技巨头，预测了2021年的科技趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1609466405&ver=2801&signature=EFVFlH4-lDpPzwjd1MejsCG-PTcH7Q-5WNJ2UBztg-sWZ581TaFha8nd28bxoH5WIkNF4S4L197EV49GXgGRT7MKQRGaWQpBSjRttA7yMLti7MNDnxN4LBJcVf0YfN4Q&new=1)
+ > 2021年的科技将会走向何方？且听Werner Vogels博士为您细细道来。一家将创新写入DNA的科技企业说起在企业文化中对创新推崇备至的公司，估计每个人脑海中都能想出一大堆公司名字。但是如果说起这家科技企业，想必...
 # IT 技术 
  ## [我用Redis实现了一个轻量级的搜索引擎！](http://stor.51cto.com/art/202012/638183.htm)
  > 我用Redis实现了一个轻量级的搜索引擎！
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 如何轻松检查你的机器学习模型是否公平？
  ## [IT领导者成功进行数字化转型的五个步骤](http://www.cioage.com/art/202012/638201.htm)
  > IT领导者成功进行数字化转型的五个步骤
- ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
- > Docker快速入门视频课程（通俗易懂）
+ ## [C 语言-视频课程](http://fellow.51cto.com/art/202012/635518.htm?qd=51ctojrzd)
+ > C 语言-视频课程
  ## [R语言主题模型LDA评估公司面临的风险领域与可视化](https://blog.csdn.net/qq_19600291/article/details/105633105)
  > R语言主题模型LDA评估公司面临的风险领域与可视化
  ## [紧跟尤大的脚步提前体验Vue3新特性，你不会还没了解过Vue3吧](https://blog.csdn.net/l_ppp/article/details/107820234)
