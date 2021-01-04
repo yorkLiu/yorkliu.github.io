@@ -1,88 +1,94 @@
 ---
 title: 2021-01-04 IT News
 copyright: true
-date: 2021-01-04 09:00:52
+date: 2021-01-04 10:01:49
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [4G变慢的原因找到了，真不怪运营商..](http://mp.weixin.qq.com/s?src=11&timestamp=1609720205&ver=2807&signature=WGgCSOnFSKnekYS-MKsGOi5NT22NDGqEVjMX1FFFkCmUtFk-lqTwV0yosZrCRMUWUBc5AKQ29NPFMyb7K8FJSqaMSyJGaeIRoTDQ9Tn2ZFiDkMybAYDl05PRCObsZpcM&new=1)
- > 前言虽说5G已经正式商用一年多了，随着5G网络的普及，5G手机用户也一直在不断增长。根据工信部上个月公布的数据，去年一年国内出货了1.44亿台5G手机，这也足以说明5G正在慢慢逐渐替代4G。那么问题来了，4G还能坚...
- ## [\[C114周报\]工信部：明年新建5G基站60万个；爱立信CEO：若华为禁令仍在 将离开瑞典；三大运营商遭纽交所“摘牌”](http://mp.weixin.qq.com/s?src=11&timestamp=1609720205&ver=2807&signature=L5ynLTkM0wxe-l-czTJ5acKudCUTHMU0c1PLRW04LfaESMqa*LYlMzFnqbZDfuwp1B1XO-dnNBiC*fbIX5wC5sx5I7NtOoxZArBIcNVbKbBesYY0dv*3bHdBDQzDr7xS&new=1)
- > 周报WEEKLY本周热点有工信部：明年新建5G基站60万个；爱立信CEO：若华为禁令仍在 将离开瑞典；三大运营商遭纽交所“摘牌”• 第122期 •工信部：明年新建5G基站60万个12月29日据新华社报道，在28日召开的2021年...
- ## [优克联市场总裁徐昕泉：在5G新场景下重新定义移动流量市场](http://mp.weixin.qq.com/s?src=11&timestamp=1609720205&ver=2807&signature=F1C797Kll0hAlyzzbId2TOo1D5GpV1sG6jUPImt665RXtXyFniod-WpJ9TGzgM76y6SL5aaCjXFj5zdKTk7Wt92kQn1vKjMsnqSJbwfLhB0=&new=1)
- > 经济观察网 记者 狄文强 深圳市优克联新技术有限公司不是一家“很知名”的企业，但却是国内移动流量领域的细分龙头。记者注意到，这家公司近期动作频频：2020年12月28日，优克联与中车互联运力科技有限公司共同...
- ## [通过技术手段劫持……运营商员工涉案150万!](http://mp.weixin.qq.com/s?src=11&timestamp=1609720205&ver=2807&signature=4T1YkuEmdsR2ojMq0LuPgUedXFkNBj*SsCcFwc05Ap*B2uxK*yCbuVNHPTwjh3Xa2cBomFRQMeyn-pBNpNmJY8*8d6WezMVy9K6QGHVNA-IPoV92EZM6qF6p63*z566e&new=1)
+ ## [通过技术手段劫持……运营商员工涉案150万!](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=4T1YkuEmdsR2ojMq0LuPgUedXFkNBj*SsCcFwc05Ap*B2uxK*yCbuVNHPTwjh3XaNKGHAQI*qeYfsK72UEPxtiRaTHbxOAF4fHEQGRjJ-VI4*ZV5Xmv*u1a6BY5ChCPc&new=1)
  > 某地警方破获了一起特大DNS流量劫持案，两名运营商的员工利用职务之便，通过技术手段非法劫持流量牟取一己之私，涉案金额高达150余万元。目前，涉案人员已被检察院批准逮捕，即将移送法院提起公诉。据了解，如最...
- ## [中国传感器产业的内忧外患](http://mp.weixin.qq.com/s?src=11&timestamp=1609720205&ver=2807&signature=GfPOh-8i0vDwMQ0gMLFsIqDW*GlrEW4J8eK5gUqkKauz7G3kr5p7BHQ1JD-FfkjNG-tp83tku718uu2SjLcqDWAmbnxSRsEhhp6Nizx*nRnEBMTjn4fxq4Mi6oDKK1Oj&new=1)
+ ## [\[科技早报7点整\]美团致歉 韩国5G影响4G网速变慢引发不满……](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=xrKCYaKtZRvw03OczhdnzGdyp*0BHaGvzdRfpQ5x9x0MLHG98QHFXKT7kdazsWgWT8*IPXPXLdZ1seiuscd6kVEhEAIuajt7K1cAOJwFnf1HG7zY9j8jf7TNDdmPJbnE&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第1024期1.美团致歉：将大屠杀纪念馆标记为休闲娱乐好去处近日，有网友曝光，美团旗下某App将侵华日军南京大屠杀遇难同胞纪念馆相关条目的“特色”一栏标注为“放松身心、休闲...
+ ## [\[报告\]2020年中国新能源汽车行业白皮书(附57页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=zXiofA9BevNcudvJ-5tBi8WsRSnYR-*MXvQboCCwHTbo2*z0MxrkbmpJu7HREV03*5M0PdfWJtQEkD25mbLNtF47TOz9dO0mMPp2nRhD*Tg-8*fP1mZkuBjyYhgO5nrm&new=1)
+ > 白皮书从经济、能源、技术、政策等角度阐述了行业发展环境、分析了新能源产业的发展现状，梳理了产业链各个环节的特征，以及分析了自动驾驶、车联网、智能座舱和人车交互的发展应用情况。通过用户调研分析了消费...
+ ## [7点见|国产Model Y大幅降价，官网被挤爆；比特币价格破3.4万美元](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=ECgCecuQyjjQpjiZSuD3omxDQv1gMFVbAUSPCjqgy-sZfu6IFZNpFGW4a2ZKGSqLnJUb2Ll0CRdKkbQ6bitZaApG*pg48VDLq9c7Ti9ZgJT1XfqDmLAyBV9brtp7bpZc&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！国产Model Y发售33.99万起 与全新Model 3同步发售1月1日，特斯拉宣布中国制造Model Y以及全新Model 3正式发售，降价的消息引发巨大关注。特斯拉中国官网显示，Model Y长
+ ## [优克联市场总裁徐昕泉：在5G新场景下重新定义移动流量市场](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=F1C797Kll0hAlyzzbId2TOo1D5GpV1sG6jUPImt665RXRPldEIJPB-OCgU6NCeZgb08dj8JxEqPlWH67SEuShVlHcaUKHXrgolA0HOUg8P8=&new=1)
+ > 经济观察网 记者 狄文强 深圳市优克联新技术有限公司不是一家“很知名”的企业，但却是国内移动流量领域的细分龙头。记者注意到，这家公司近期动作频频：2020年12月28日，优克联与中车互联运力科技有限公司共同...
+ ## [4G变慢的原因找到了，真不怪运营商..](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=WGgCSOnFSKnekYS-MKsGOi5NT22NDGqEVjMX1FFFkCmUtFk-lqTwV0yosZrCRMUW2oAcukCAIxSOJcsv4ZT5T-ZTCKAikjcDRl5wzHEjVkEuhl-7sFvoA8uQ5O6lkbak&new=1)
+ > 前言虽说5G已经正式商用一年多了，随着5G网络的普及，5G手机用户也一直在不断增长。根据工信部上个月公布的数据，去年一年国内出货了1.44亿台5G手机，这也足以说明5G正在慢慢逐渐替代4G。那么问题来了，4G还能坚...
+ ## [\[C114周报\]工信部：明年新建5G基站60万个；爱立信CEO：若华为禁令仍在 将离开瑞典；三大运营商遭纽交所“摘牌”](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=L5ynLTkM0wxe-l-czTJ5acKudCUTHMU0c1PLRW04LfaESMqa*LYlMzFnqbZDfuwpM6Rgw*je9oNmiEnpCKL7YC5auuVnIIuKUvpABy7XNSp*-DBPSOfrf3tmgexHxVa9&new=1)
+ > 周报WEEKLY本周热点有工信部：明年新建5G基站60万个；爱立信CEO：若华为禁令仍在 将离开瑞典；三大运营商遭纽交所“摘牌”• 第122期 •工信部：明年新建5G基站60万个12月29日据新华社报道，在28日召开的2021年...
+ ## [中国传感器产业的内忧外患](http://mp.weixin.qq.com/s?src=11&timestamp=1609725605&ver=2807&signature=GfPOh-8i0vDwMQ0gMLFsIqDW*GlrEW4J8eK5gUqkKauz7G3kr5p7BHQ1JD-FfkjN0O-mD1wE8YrVF7pnsFsGVtPKz19MLhbYbA4MUnRiiofopeOQf4*4mU7V8APRxYRO&new=1)
  > 在当前身处信息化产业洪流的时代背景之下，我国的战略核心产业存在不少危机。比如智能手机操作系统、超高精度机床、光刻机、半导体硅材料、炭纤维、高端电子显微镜、发电用燃气机轮、脱销催化装置、工业机器人专...
 # IT 技术 
- ## [一台Linux服务器最多能支撑多少个TCP连接？](http://server.51cto.com/-638621.htm)
- > 一台Linux服务器最多能支撑多少个TCP连接？
- ## [特斯拉仅25人花了4个月研发出新ERP，服不服？](http://news.51cto.com/art/202101/638622.htm)
- > 特斯拉仅25人花了4个月研发出新ERP，服不服？
+ ## [值得了解的六大优秀JavaScript图表库](http://developer.51cto.com/art/202101/638598.htm)
+ > 值得了解的六大优秀JavaScript图表库
  ## [真正影响DevOps/DevSecOps应用的趋势是什么？](http://developer.51cto.com/art/202101/638383.htm)
  > 真正影响DevOps/DevSecOps应用的趋势是什么？
+ ## [一台Linux服务器最多能支撑多少个TCP连接？](http://server.51cto.com/-638621.htm)
+ > 一台Linux服务器最多能支撑多少个TCP连接？
+ ## [女程序员做了个梦，太可爱了......](http://news.51cto.com/art/202101/638623.htm)
+ > 女程序员做了个梦，太可爱了......
+ ## [特斯拉仅25人花了4个月研发出新ERP，服不服？](http://news.51cto.com/art/202101/638622.htm)
+ > 特斯拉仅25人花了4个月研发出新ERP，服不服？
+ ## [深鸿会深大小组：鸿蒙Hi3861最详细环境搭建](http://developer.51cto.com/art/202012/638238.htm)
+ > 深鸿会深大小组：鸿蒙Hi3861最详细环境搭建
  ## [我用Redis实现了一个轻量级的搜索引擎！](http://stor.51cto.com/art/202012/638183.htm)
  > 我用Redis实现了一个轻量级的搜索引擎！
- ## [2020年值得推荐的六大服务器管理软件和工具](http://server.51cto.com/sManage-638044.htm)
- > 2020年值得推荐的六大服务器管理软件和工具
- ## [2020年隐私安全&信息泄露大事件回顾](http://netsecurity.51cto.com/art/202012/638195.htm)
- > 2020年隐私安全&amp;信息泄露大事件回顾
- ## [MatRec : 解决推荐系统马太效应的利器](http://developer.51cto.com/art/202012/638045.htm)
- > MatRec : 解决推荐系统马太效应的利器
- ## [MySQL二进制日志深入解析与闪回恢复_MySQL数据库备份与恢复02](http://fellow.51cto.com/art/202012/634851.htm?qd=51ctojrzd)
- > MySQL二进制日志深入解析与闪回恢复_MySQL数据库备份与恢复02
- ## [微软正秘密测试：Windows 10新界面外观设计曝光](http://os.51cto.com/art/202101/638723.htm)
- > 传闻已久的设计升级已经让微软忙碌了一段时间，我们已经在Windows 10中看到了Fluent Design和开始菜单的新
- ## [微软“云PC”曝光：将Windows10桌面搬到云端](http://os.51cto.com/art/202101/638719.htm)
- > 微软正在研发一种新的服务“云PC”（Cloud PC），用户可以在任何设备上快速访问Windows桌面和软件。Windows
- ## [VMware虚拟机(Linux)如何找出系统中磁盘设备对应的硬盘](http://virtual.51cto.com/art/202101/638715.htm)
- > VMware虚拟机(Linux)中，我们的Linux服务器可能拥有多个磁盘(或者叫虚拟磁盘)，如下所示，这个服务器的磁盘
- ## [Python带你理解用于信号同步的CAZAC序列](http://developer.51cto.com/art/202101/638714.htm)
- > 在无线通信系统中同步是非常关键的一个过程，这对信号正确的传输有着非常的重要意义。通常，我们常用CAZAC
- ## [9条消除if...else的锦囊妙计，助你写出更优雅的代码](http://developer.51cto.com/art/202101/638712.htm)
- > 最近在做代码重构，发现了很多代码的烂味道。其他的不多说，今天主要说说那些又臭又长的if...else要如何重
- ## [如何在 ASP.NET Core 中使用 NLog 的高级特性](http://developer.51cto.com/art/202101/638711.htm)
- > NLog 是一个开源的轻量级日志框架，提供了丰富的日志路由和管理功能，同时 NLog 也是非常容易的去配置和扩
- ## [干货：Linux中使用 Basename 命令实例](http://os.51cto.com/art/202101/638710.htm)
- > basename是一个命令行中实用的小工具，可从给定的文件名中删除目录和后缀。
- ## [数仓模型设计详细讲解](http://bigdata.51cto.com/art/202101/638709.htm)
- > 今天给大家分享下数仓中的模型设计，一个好的数仓项目首先看一下它的架构以及他所用到的模型，它们使用的模
- ## [五分钟爆改，把你的JSON/CSV文件打造成MySQL数据库](http://database.51cto.com/art/202101/638708.htm)
- > 生活中，你我一定都看到过这种「xx元爆改出租屋」，「爆改小汽车」之类的文章，做为IT人，折腾的劲头一点也
- ## [有码一键变无码？AI黑科技真的能去马赛克吗?](http://ai.51cto.com/art/202101/638707.htm)
- > 人们都不喜欢马赛克，以至于诞生出了“马赛克阻止人类文明进步”的箴言。影片里看到马赛克，你会索然无味；
- ## [目标检测：YOLOv3: 训练自己的数据](https://blog.csdn.net/lilai619/article/details/79695109)
- > 目标检测：YOLOv3: 训练自己的数据
- ## [多元统计分析及R语言建模（第五版）——第4章 多元相关与线性回归分析课后习题](https://blog.csdn.net/qq_45111488/article/details/110391724)
- > 多元统计分析及R语言建模（第五版）——第4章 多元相关与线性回归分析课后习题
+ ## [SED基础入门讲解视频课程-工作模式+常用命令+高级玩法](http://fellow.51cto.com/art/202012/637346.htm?qd=51ctojrzd)
+ > SED基础入门讲解视频课程-工作模式+常用命令+高级玩法
+ ## [没那么简单：仅靠Python你没法找到数据科学工作](http://developer.51cto.com/art/202101/638756.htm)
+ > 自从数据科学兴起，Python成为必要的数据分析工具，大受欢迎，Python受到如此多赞誉和关注，主要是因为它的
+ ## [Linux系统下超级管理员root用户的密码忘记了怎么办？](http://os.51cto.com/art/202101/638750.htm)
+ > 我们在日常运维工作中，多多少少都会遇到系统管理员密码忘记了，或是上一个人员离职没有做好交接工作，或是
+ ## [代号北极星、支持ARM！被取消的Windows Core OS泄露：免费下载](http://os.51cto.com/art/202101/638747.htm)
+ > Polaris基于Windows Core OS开发，同一家族还有代号Andromeda(仙女座)的可折叠设备系统。据称，Windows Cor
+ ## [谁是2020年超强Python库？年度Top10出炉](http://news.51cto.com/art/202101/638745.htm)
+ > 2020年已经过去了，国外的一家专门提供Python服务的网站Troy Labs，盘点出了2020年发布的Python库Top10。
+ ## [Linux系统管理员2021年的10个新年决心](http://os.51cto.com/art/202101/638744.htm)
+ > 不管您作为Linux系统管理员的经验级别如何，我们都认为为未来12个月设定增长目标是值得的。如果你还没有主
+ ## [如何从Windows上运行任何Linux图形GUI程序？](http://os.51cto.com/art/202101/638743.htm)
+ > Windows10上的wsl模式虽然解决了运行linux程序的痛点，然而所运行的程序依然受困于Terminal中。
+ ## [25分钟训练机器人学会6个动作，伯克利开发高效机器人操纵框架](http://news.51cto.com/art/202101/638742.htm)
+ > 这是来自加州大学伯克利分校的一项新研究――高效机器操作框架Framework for Efficient Robotic Manipulati
+ ## [如何优雅地实现判断一个值是否在一个集合中?](http://developer.51cto.com/art/202101/638741.htm)
+ > 如何判断某变量是否在某个集合中？注意，这里的集合可能并不是指确定的常量，也可能是变量。
+ ## [Zabbix 5.2由浅入深系列之Proxy篇（分布式部署）](http://os.51cto.com/art/202101/638739.htm)
+ > 作为一个适用于中大型或超大型的监控软件，分布式部署必然必不可少，同样Zabbix添加了Zabbix Proxy增强了其
+ ## [量子计算机、奥数AI……这是2020计算机、数学的重大突破](http://news.51cto.com/art/202101/638748.htm)
+ > 国外知名科普网站Quanta Magazine，对2020年计算机、数学这两门学科的几项重大突破，进行了盘点。
+ ## [史上最全的 python 基础知识汇总篇，没有比这再全面的了，建议收藏](https://blog.csdn.net/qq_36772866/article/details/104681964)
+ > 史上最全的 python 基础知识汇总篇，没有比这再全面的了，建议收藏
+ ## [【C++】智能指针详解](https://blog.csdn.net/flowing_wind/article/details/81301001)
+ > 【C++】智能指针详解
  ## [CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试](https://blog.csdn.net/weixin_44463441/article/details/111830910)
  > CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试
- ## [你不是学生，你是开发者](https://blog.csdn.net/weixin_44950174/article/details/106203163)
+ ## [numpy——基础篇](https://blog.csdn.net/qq_36733722/article/details/102710405)
+ > numpy——基础篇
+ ## [【C语言】惊了，C语言支持面向对象编程？--函数指针结构体](https://blog.csdn.net/qq_33973359/article/details/105508945)
  > 
- ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
- > 
- ## [JQuery基础笔记及面试题](https://blog.csdn.net/qq_43645678/article/details/93380482)
- > 
+ ## [揭晓 2020 年增长最快的技术职位，PHP 成为开发的潜力股！](https://blog.csdn.net/sinat_14921509/article/details/109467274)
+ > 揭晓 2020 年增长最快的技术职位，PHP 成为开发的潜力股！
  ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
  > 年终福利 | “社区之星”（年度贡献者）成长故事征集
- ## [微信小程序 谈谈在大学初次写项目的体验](https://blog.csdn.net/qq_41464123/article/details/104982019)
- > 
- ## [Web安全漏洞的靶场演示](https://blog.csdn.net/qq_45836474/article/details/108015896)
- > Web安全漏洞的靶场演示
- ## [SSR 与当年的 JSP、PHP 有什么区别？](https://blog.csdn.net/ayqy_jiajie/article/details/109349305)
- > SSR 与当年的 JSP、PHP 有什么区别？
- ## [C++ map用法总结（整理）](https://blog.csdn.net/sevenjoin/article/details/81943864)
- > C++ map用法总结（整理）
- ## [白嫖免费域名＋免费服务器](https://blog.csdn.net/Simon_477/article/details/108989298)
- > 白嫖免费域名＋免费服务器
- ## [睿智的目标检测20——利用mAP计算目标检测精确度](https://blog.csdn.net/weixin_44791964/article/details/104695264)
- > 睿智的目标检测20——利用mAP计算目标检测精确度
- ## [JavaScript专题之深浅拷贝](https://blog.csdn.net/jbj6568839z/article/details/107964274)
- > 
- ## [Swagger界面丑、功能弱怎么破？用Postman增强下就给力了！](https://blog.csdn.net/zhenghongcs/article/details/109733525)
- > Swagger界面丑、功能弱怎么破？用Postman增强下就给力了！
+ ## [AndroidStudio 制作一个超简易记账本App（1.0）【含详细步骤】](https://blog.csdn.net/qq_40069099/article/details/106601588)
+ > AndroidStudio 制作一个超简易记账本App（1.0）【含详细步骤】
+ ## [【Tensorflow2.0】Tensorflow2.x的安装教程](https://blog.csdn.net/u011119817/article/details/88309256)
+ > 【Tensorflow2.0】Tensorflow2.x的安装教程
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [OpenCV下载/OpenCV国内镜像/opencv_contrib下载](https://blog.csdn.net/bookzhan/article/details/104753855)
+ > OpenCV下载/OpenCV国内镜像/opencv_contrib下载
+ ## [vue基于element-ui二次封装分页组件](https://blog.csdn.net/pujihong/article/details/106720047)
+ > vue基于element-ui二次封装分页组件
+ ## [vue实现PC端分辨率适配](https://blog.csdn.net/weixin_41257563/article/details/97266234)
+ > vue实现PC端分辨率适配
+ ## [c语言例题讲解](https://blog.csdn.net/ZhaoJQ520/article/details/106334083)
+ > c语言例题讲解
+ ## [六星教育：2个月后的2021，PHP程序员的职业出路定下了！](https://blog.csdn.net/liuxingjiaoyu/article/details/109404651)
+ > 六星教育：2个月后的2021，PHP程序员的职业出路定下了！
 # 人工智能 
  ## [Kubernetes 高可用集群落地二三事](https://blog.csdn.net/zuozewei/article/details/110082422)
  > Kubernetes 高可用集群落地二三事
