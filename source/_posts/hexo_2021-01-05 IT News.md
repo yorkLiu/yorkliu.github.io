@@ -1,24 +1,26 @@
 ---
 title: 2021-01-05 IT News
 copyright: true
-date: 2021-01-05 08:26:25
+date: 2021-01-05 09:21:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [疯狂的2020!半导体产业的十大并购案](http://mp.weixin.qq.com/s?src=11&timestamp=1609804804&ver=2809&signature=OUyBLG45dzeJt*ZU303YNa724*4g4fGDiWZ3SiIm9se3i5al*CcagegRCOorQbRwGxON43H2oUFqrFyTt9OnJwALdBJedD3XyMnlbG8yv0qBbQ2Vl3GhO2bFvFmt03Yr&new=1)
+ ## [疯狂的2020!半导体产业的十大并购案](http://mp.weixin.qq.com/s?src=11&timestamp=1609808405&ver=2809&signature=OUyBLG45dzeJt*ZU303YNa724*4g4fGDiWZ3SiIm9se3i5al*CcagegRCOorQbRwyKNf2UQblKCtvpxsHkR1ly9ULnBG2jCXOtfmXruCV2aXiQmUR8L9sRAjIOuIsbce&new=1)
  > 新冠疫情对经济的破坏性冲击，在整个2020年愈发明显。但对于半导体产业来说，随着产业的升级和竞争的加剧，成本的上扬，再加上新科技革命对产品整合性的需求，各种优势互补、业务补充的企业并购，却在今年里频繁...
- ## [华为驾车向何方?](http://mp.weixin.qq.com/s?src=11&timestamp=1609804804&ver=2809&signature=dhXbXS434f2FBr3iKCCFDLYbkpF9JYtviGkeIYoYQmzXMVjsvZEKJ-NqN46p6zbhdmarca8h6ingvxizgZ1aSKc98RukaRwySruV6iLWJumPMixWo1LbENlDXKENafie&new=1)
- > 不是能不能的选择，而是造不造的取舍。作 者丨陈石磊华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意面对市场的花式传闻，华为已多次声明“不会造车”，但...
- ## [股价过百!美的集团真“科技”了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1609804804&ver=2809&signature=YJ8fA07zFS2UHcvIrq2aSWNVnMXtJwdxnkFVgBVLi4DPamP70g5guWOjHLtPzkPK24KWtXCDGMDKuDDyhhj1BfQHd4jE1MVvXIy2Hj1VnjX5H4JzVcR3rnXjka9SiFIY&new=1)
+ ## [股价过百!美的集团真“科技”了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1609808405&ver=2809&signature=YJ8fA07zFS2UHcvIrq2aSWNVnMXtJwdxnkFVgBVLi4DPamP70g5guWOjHLtPzkPKYTVC3MwNL9dwpWJGvZ9-qvjv1Rno9z0xf5d9T7ojoo83*E57MEnhLhMYv8gtn1U6&new=1)
  > 相对于苦干实业的家电业，资本的力量有时候是突破家电人想象力的。当一个品牌专注“享受”资本推动的高光时刻，从长远来看也许对于这个品牌并不是什么好事。远了不说，近几年，乐视、暴风集团都曾在有过这样的“...
- ## [Adobe正式终止对Flash的支持，建议卸载!](http://mp.weixin.qq.com/s?src=11&timestamp=1609804804&ver=2809&signature=VYfH-mmdbW7Wk04ehypVdZPXzcpszjqEYTPqZvmI2Hbx6*K8pxbyGg*V6EFgRO3X6qwGsJ-AOQhiNGi1wRec-nu0XaEy2G-WsyIiS0jJK91RsPc70brinqIBrp79CYKV&new=1)
- > 早在2017年，Adobe就宣布将在2020年底之前终止对其Flash浏览器插件的支持。现在，该公司已正式终止对该软件的支持，并将于2020年1月12日开始阻止在Flash Player上运行的内容。请记住，大多数人不会因为Adobe Fl
- ## [爱立信为何帮华为发声?更多是为自己呐喊](http://mp.weixin.qq.com/s?src=11&timestamp=1609804804&ver=2809&signature=*SZMX0STIz-iiBjhsV2RylxHSwmcp1VgoCv6e9sWR5M63lQ5ta-R8qE1cBzRWs3OCjvG1EqsuoI627vpGKsvs3L3Ea7*3PuAgSL3TyZLJu4GpP7abZzoFLDs*mhQ*flD&new=1)
+ ## [爱立信为何帮华为发声?更多是为自己呐喊](http://mp.weixin.qq.com/s?src=11&timestamp=1609808405&ver=2809&signature=*SZMX0STIz-iiBjhsV2RylxHSwmcp1VgoCv6e9sWR5M63lQ5ta-R8qE1cBzRWs3OGPet7joYwEgyyM69USZMJdG*MpFjTd5vnuBPn-SxvEiGNQsnPqFG8xz191ZuA3vE&new=1)
  > 元旦假期间，爱立信CEO呼吁取消华为5G禁令的消息刷屏网络，甚至传出爱立信愿意拿出“离开瑞典”做筹码。许多人感到疑惑，爱立信与华为不是竞争对手吗？为何爱立信会呼吁母国瑞典取消华为5G禁令呢？在笔者看来，...
+ ## [华为驾车向何方?](http://mp.weixin.qq.com/s?src=11&timestamp=1609808405&ver=2809&signature=dhXbXS434f2FBr3iKCCFDLYbkpF9JYtviGkeIYoYQmzXMVjsvZEKJ-NqN46p6zbhqaPlkTQUaBoY0bylR6-njHpvN7NUYRSKMaK-rAU731i*nztybaZoM1rIw*3xS--2&new=1)
+ > 不是能不能的选择，而是造不造的取舍。作 者丨陈石磊华商韬略原创文章，转载请联系客服微信：hstlkf华商韬略·华商名人堂 ID：hstl8888图片：网络、图虫创意面对市场的花式传闻，华为已多次声明“不会造车”，但...
+ ## [Adobe正式终止对Flash的支持，建议卸载!](http://mp.weixin.qq.com/s?src=11&timestamp=1609808405&ver=2809&signature=VYfH-mmdbW7Wk04ehypVdZPXzcpszjqEYTPqZvmI2Hbx6*K8pxbyGg*V6EFgRO3XcMsxV1my0vwdSMSd6MvDi*r14ktsbr1t4UFr1qguxmaULoLNhD*drq*Gnbt1V5xA&new=1)
+ > 早在2017年，Adobe就宣布将在2020年底之前终止对其Flash浏览器插件的支持。现在，该公司已正式终止对该软件的支持，并将于2020年1月12日开始阻止在Flash Player上运行的内容。请记住，大多数人不会因为Adobe Fl
 # IT 技术 
  ## [如何用Furmark对GPU进行压力测试？](http://developer.51cto.com/art/202101/638851.htm)
  > 如何用Furmark对GPU进行压力测试？
+ ## [2021年值得持续关注的十大物联网平台](http://iot.51cto.com/art/202101/638852.htm)
+ > 2021年值得持续关注的十大物联网平台
  ## [值得了解的六大优秀JavaScript图表库](http://developer.51cto.com/art/202101/638598.htm)
  > 值得了解的六大优秀JavaScript图表库
  ## [AI如何超越人类修图师？万字长文看懂美图云修AI修图解决方案](http://news.51cto.com/art/202012/638260.htm)
@@ -29,10 +31,20 @@ categories: IT NEWS
  > 谁是2020年超强Python库？年度Top10出炉
  ## [一台Linux服务器最多能支撑多少个TCP连接？](http://server.51cto.com/sOS-638621.htm)
  > 一台Linux服务器最多能支撑多少个TCP连接？
- ## [真正影响DevOps/DevSecOps应用的趋势是什么？](http://developer.51cto.com/art/202101/638383.htm)
- > 真正影响DevOps/DevSecOps应用的趋势是什么？
- ## [图解Python（1）（基础篇）](http://fellow.51cto.com/art/202012/635276.htm?qd=51ctojrzd)
- > 图解Python（1）（基础篇）
+ ## [综合实战之JSTree+OpenLdap+ThinkPHP5（下）（七日成蝶）](http://fellow.51cto.com/art/202012/636252.htm?qd=51ctojrzd)
+ > 综合实战之JSTree+OpenLdap+ThinkPHP5（下）（七日成蝶）
+ ## [在流水线中使用容器进行编译构建](http://developer.51cto.com/art/202101/638975.htm)
+ > 本篇带给大家在流水线中使用容器进行编译构建，希望对你有所帮助。
+ ## [CPU、GPU、TPU、NPU等到底是什么？](http://network.51cto.com/art/202101/638974.htm)
+ > 本篇详细介绍CPU、GPU、TPU、NPU等到底是什么？有什么区别及作用。
+ ## [前端:使用CSS3实现酷炫的3D旋转透视](http://developer.51cto.com/art/202101/638972.htm)
+ > 3D动画效果现在越来越普及，已经被广泛的应用到了各个平台，比如阿里云，华为云，webpack官网等。它可以更
+ ## [如何实现 ASP.NET Core WebApi 的版本化](http://developer.51cto.com/art/202101/638969.htm)
+ > Web API 的版本化可以尽量保证在相同url情况下保留一个 api 的多个版本，通常一个 webapi 会有多个client，
+ ## [JetBrains放出Java代码质量检查工具Qodana](http://developer.51cto.com/art/202101/638968.htm)
+ > JetBrains正在开发一种被称为Qodana的代码质量检测工具。它将JetBrains IDE具有的智能代码检查带入了项目CI
+ ## [你的程序出现了bug？这几款JVM工具也许可以帮你排查](http://virtual.51cto.com/art/202101/638964.htm)
+ > 在平时的开发当中我们总是会遇到各种各样的问题，比如说内存泄漏、死锁、CPU等。
  ## [企业领导者避免人工智能项目失败的3种方式](http://ai.51cto.com/art/202101/638962.htm)
  > 为什么这么多人工智能项目失败了，企业领导者如何避免这种情况?需要打破三个领导陷阱，并说明成功的人工智
  ## [网络/命令行抓包工具Tcpdump详解](http://developer.51cto.com/art/202101/638961.htm)
@@ -41,18 +53,6 @@ categories: IT NEWS
  > 最近一段时间来，比特币价格疯涨，不仅突破了2018年初创下的2万美元高价，这几天甚至狂飙到3万美元以上，不
  ## [盘点 Java 开发行业 2020 年发生的几件大事，你必须得知道！](http://developer.51cto.com/art/202101/638959.htm)
  > 2021 年了，在过去的一年 Java 软件开发行业都发生了哪些重大事件呢?
- ## [Spring Boot 集成 Mybatis Plus 自动填充字段](http://developer.51cto.com/art/202101/638957.htm)
- > 阿里巴巴开发手册中也有这样的提示，如果对于这些公共字段可以进行统一处理，不需要每次进行插入或者更新操
- ## [Adobe强烈建议卸载！教你从Windows10彻底删除Flash](http://os.51cto.com/art/202101/638958.htm)
- > Flash终于走向生命的终结！过去几年，业界一直在不断提醒用户，Flash将会在2021年彻底淘汰，呼吁大家卸载Fl
- ## [你把命都“拼”给了公司，所得收获“多多”了吗？](http://news.51cto.com/art/202101/638956.htm)
- > 昨天，相信大家都被“拼多多23岁女员工加班猝死”的新闻刷屏了，剧情几度翻转，贡献了的2021年的第一个大新
- ## [数仓缓慢变化维深度讲解](http://bigdata.51cto.com/art/202101/638955.htm)
- > 维度缓慢变化为SCD(Slowly Changing Dimensions)一些维度表的数据不是静态的，而是会随着时间而缓慢地变化
- ## [Windows10真的大改设计了！何时才能用上新UI的Windows10](http://os.51cto.com/art/202101/638953.htm)
- > 我们知道，微软将会在今年2021年的下半年，推出界面全新设计的Windows 10 21H2新版。这个Windows 10 21H2新
- ## [技术Leader一定要懂所有业务细节吗？](http://news.51cto.com/art/202101/638954.htm)
- > 前几天在脉脉职言看到这样一个提问：带团队的人，你们是怎么了解业务细节的?如果不了解，怎么懂的比实际干
  ## [GitHub 暗黑模式终于来了！](https://blog.csdn.net/weixin_47080540/article/details/110944625)
  > GitHub 暗黑模式终于来了！
  ## [Spring Boot qq邮箱验证码注册和登录验证](https://blog.csdn.net/qq_42524288/article/details/110749086)
