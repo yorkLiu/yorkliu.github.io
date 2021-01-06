@@ -1,41 +1,51 @@
 ---
 title: 2021-01-06 IT News
 copyright: true
-date: 2021-01-06 12:14:17
+date: 2021-01-06 17:02:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国电子信息工程科技发展十四大趋势(2021)发布：光学工程在列](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=PvzAxgl58w1xAW83pR4lw*EJ73S56ctjPzSfpwRhhVhxWcb6l*d2UZKvoZrG9lNS4Ue6gokvPxxEos6x24C9nFknPl8tTxPyWG2l9eYAMH-TF-gQbsKY8W1VQO--SGn2&new=1)
- > 1月5日，中国工程院信息与电子工程学部、中国信息与电子工程科技发展战略研究中心发布“中国电子信息工程科技发展十四大趋势（2021）”，分析了我国在移动信息网络、信息安全技术、智能化发展等领域的发展趋势。...
- ## [盘点2020年度光通信行业热点：霜雪茂茂 蕾蕾于冬](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=*89PbGpyEf2puxUcFi4zXoIH6W9JMrsNeTYUJLU2Wd*M*-9U7z9OT*y91pMsBoht8QtZoMvHR9j*QSrNDy*9oalo2ieFpPFXhRyfVkENTHGLFutCIJX3kWcB7g52dMEI&new=1)
+ ## [中国联通视频彩铃用户破亿!](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=lq99tg2xw9OAKtMzJpCMWyrSdlVJllF6WqWTWGR3bn2mmd6C6SwQFN7KrcSBWbm0fYzI8JluwSikGjwMMYLN0W4yHoXY4f6WYaDMBtk1Gnv9JyIlIvd7LL0RIGU4Stf4&new=1)
+ > 随着5G商业化应用加速落地，中国联通视频彩铃迎来爆发式增长。截至2020年12月22日，中国联通视频彩铃正式商用162天，用户规模突破1亿大关。视频彩铃是彩铃业务在5G时代的焕新上阵，从“听”进化到“看”，将短视...
+ ## [代码也能“杀”虫?](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=cwZ1zftsAKZaF8YoXhUveOKWusrz2pjgU1ssbsMDoGH1UPn*lan1wREEuBFDs*JUJ8aM1ULnxChFcfG1unZbgAfiqc*Ep31BAUxYyGDrG594QIJaRqaZMWyNaAiePg5i&new=1)
+ > 国以民为本，民以食为天，对有着14亿人口的中国来说，粮食安全，一直都是关系国计民生的头等大事。2010年以来，我国人均粮食占有量持续高于世界平均水平，然而，中国也是世界粮食进口第一大国。新冠疫情全球蔓延...
+ ## [微软“雪藏”的七个Windows 10强力工具](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=naxZjHo6y-VcyfNbk90pfUF4pRDPOriF-pM78uo2Vt7sqDpJUSDAReb3LJmZIcfgAqo0GLNFNibOKa4CKsW9sDut6dj8qcardv3zdMBUJz4i-ohDPHalJdEaoEFpm7DU&new=1)
+ > 在过去的一年中，微软悄悄发布了多个Windows 10命令行工具和免费的应用商店程序，极大增强了操作系统功能。也许是这些工具过于“专业”，微软并没有大事宣传这些新工具，很多甚至是由“强力”用户自己发现的。本...
+ ## [2021，自动化与工具化的云迁移如何成为必须?](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=cKzbRV58Jhoovm7n1iwk50LJ6w0OcslFhbKHn5ulpo4ct3M0pY7PZrigi5*GeUKpxczseLGRc-Mj6RE0uLtnrRqw4TK4WQZ0ZHYo0scIUSdebg*AUSRA8YEopvP3UimW&new=1)
+ > （本文阅读时间：5分钟）企业上云，最耗时也是最困难的阶段就是将本地数据中心的 IT 架构搬迁到云上。经过这些年的摸索，对于不同业务系统，通常有不同的应对方式，形成上云的方法论：当然，为了更好的适应云端...
+ ## [比特币暴涨，独家解密谁在控盘比特币?](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=38EKifpzyFscTEuD3yqgyJJvX-VyKkLSZzXw83O1FGtP3r45T7CjFBeP-w*Az6MZH5uZy2AT69oTG1h6sCSqIvBFXFVuli1D49CfymfSWqc8hkpTCB6Bg*p1xyaMSgMX&new=1)
+ > 钛媒体 TMTPost.com｜科技引领新经济｜图片来源网络▎究竟谁在控盘比特币？最大的利益攸关方是谁？谁在其中谋取了最大收益？未来比特币筹码还将以怎样的格局继续流动？人们一直以来都在探究全球比特币持仓排行的...
+ ## [如何降低互联智能企业中的风险](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=6QgA3pgXgq2LtsKErX1jHx8*aZ3rR1IWpWCJmbheYzAft2GTlIBAVrg64nfLpMiJSzIniGwAyCnBrVfJMkH6VqizX1bwoStECP0eUYdhtjdD7ZLbHgGn8rAI0MmNtnYM&new=1)
+ > 关键讯息，D1时间送达！在互连的环境中，配置错误的系统或安全漏洞可能会使企业面临风险，并且IT、网络安全、开发和审计团队越来越难以了解哪些应用程序和服务支持关键业务流程，它们是如何相互连接，以及更改如...
+ ## [盘点2020年度光通信行业热点：霜雪茂茂 蕾蕾于冬](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=*89PbGpyEf2puxUcFi4zXoIH6W9JMrsNeTYUJLU2Wd89o3vQt5faP85-L5NK-Ore2LaGuwdxElPtfRsVxT5dN7Q1Kv57HvdcnKsy19u7aF8rZQRKaNgx-9EcJ-0HhHqN&new=1)
  > 新 闻 导 读因为披上新冠疫情的阴影，整个2020年都显得魔幻异常，足够真实又不分彼此地打击到了很多企业很多人，却又不至于把他们打倒。2020年，全球光通信行业大事不断，中国更是因为5G的提速而热闹非凡。2020...
- ## [游戏也危险!100万个游戏账户遭入侵](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=y2I1HdS47qt5K6-3M1Ob8SYHVk1VgfROBFmSsTr8KmtAQkZyA4RW-2mlXiW5q3627AI5jVCRU*1-CPH0bKg0GgwkoIcVcNJ65v7tidQCWbqk6lrDSeZr1b9XMtWoPJ6x&new=1)
- > E安全1月6日讯   据报道，美国安全研究人员在暗网上发现50万名被入侵的顶级游戏公司员工证书和100万个被入侵的内部账户后，警告该游戏公司提高其网络安全状况。此前，总部位于特拉维夫的威胁情报公司Kela根据营...
- ## [Xolo推出第一台商用容积式3D打印机，几秒钟可出成品](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=MVLMkMjLO6iYL73*CgT45tLJJuy5crsLpJj7u9cBLmkWbyYwkPRAmnr4Eh8wGFJ-Cp3KFeIQN02FC-a-Plr8DYhqMerkxEhi8Brv*unB*EsN-3KUVCOihtbo7ktAu*BO&new=1)
+ ## [Xolo推出第一台商用容积式3D打印机，几秒钟可出成品](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=MVLMkMjLO6iYL73*CgT45tLJJuy5crsLpJj7u9cBLmlAaMRlbxcaFoEhuB90JFubg2KqHSGPIGF29MefZn5vf2KLC6BBQ9d8ytu*L9uXxxpH7JblEAkbUY0EeukP3ZMl&new=1)
  > 柏林的创业公司xolo正在推出“xube”，这将被认为是第一款商用体积3D打印机——如果它能够投入使用的话。目前，xube可以保留供购买，但只能用作测试台机器，以探索体积3D打印或公司所称的“ xolography”的可能...
- ## [规模年产百万级3D打印产品，南极熊实地探访神秘的裕克施乐，引进超100台Carbon L1大尺寸超高速光固化3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=BBQ5kGRZe2vfiye2YwH-DjoBcyuMy3uKmXLD8GGyTtwCa2dubiBi4HLydgM1bHG4PXlOuZASE86YKmnVhY-bineFu6d8DPXVDMc3usTG7MxQUcwT*OWkH3Vjh0Xz4fyL&new=1)
+ ## [中国电子信息工程科技发展十四大趋势(2021)发布：光学工程在列](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=PvzAxgl58w1xAW83pR4lw*EJ73S56ctjPzSfpwRhhVjxQTZVVrVoYHjch1*KP8J0DZHMJUb3ORT6UkhnfUloaiVt3txjDx1ZpevU7pqbA11qkpU4gw3VhI5YX3*Dhw0b&new=1)
+ > 1月5日，中国工程院信息与电子工程学部、中国信息与电子工程科技发展战略研究中心发布“中国电子信息工程科技发展十四大趋势（2021）”，分析了我国在移动信息网络、信息安全技术、智能化发展等领域的发展趋势。...
+ ## [游戏也危险!100万个游戏账户遭入侵](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=y2I1HdS47qt5K6-3M1Ob8SYHVk1VgfROBFmSsTr8KmueKVF-pHI*d37MDN1I33abcnBqrB9Ijq7DAb3H4CjKO1urH6aAUxADo9lccbVHF3pjm8pSi3pufboHimxq5E1g&new=1)
+ > E安全1月6日讯   据报道，美国安全研究人员在暗网上发现50万名被入侵的顶级游戏公司员工证书和100万个被入侵的内部账户后，警告该游戏公司提高其网络安全状况。此前，总部位于特拉维夫的威胁情报公司Kela根据营...
+ ## [规模年产百万级3D打印产品，南极熊实地探访神秘的裕克施乐，引进超100台Carbon L1大尺寸超高速光固化3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=BBQ5kGRZe2vfiye2YwH-DjoBcyuMy3uKmXLD8GGyTtwQn5p2lDffxd2BnA*5HxEu*CQp1xlWlpQraYU1H-AjZF-Ya1HHYi3mcBfk4R3-WjI4EkGkGq8jQJnbKBk3fi8r&new=1)
  > 导读：目前真正有百万级规模的消费终端3D打印产品，鞋中底无疑是公认的一大应用。全球范围内，裕克施乐（OECHSLER）是最大的3D打印鞋中底生产厂商。2020年12月，南极熊实地探访了位于江苏太仓的裕克施乐（OECHSL...
- ## [贵阳市两项目入选](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=aluLAG*4rNf1NdQj6Q1X1BgmqBggTHLYEuBAxBMD5u6bf8tleSck-mmQ3YwQS4EYRcH4xd0OLQssSO*cCF6SCZ69*aJetoRmeOQuXaWdEVw=&new=1)
+ ## [贵阳市两项目入选](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=aluLAG*4rNf1NdQj6Q1X1BgmqBggTHLYEuBAxBMD5u676MaedkOoUa0evbQRugAV*QZZf4no6*DonliqawKD0ktPxTwVJh80vee5-5B*lys=&new=1)
  > 本报讯 记者从贵阳市工业和信息化局获悉，国家工业和信息化部近日公布“2020年制造业与互联网融合发展试点示范项目”入选名单，我市贵州航天云网科技有限公司的“面向国家大数据（贵州）综合试验区的工业互...
- ## [\[报告\]中国汽车产业2020年总结及2021年展望(附64页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=XlhaDh7KlwZvQL*PcwcXJmn3b5h8mfh4tizxk5P-nCBhj1rTnhRopMGNdL5vgu32hYiY9JGVF9rxfJY9r32aU348rd6wXanGSEa4czeB9DZU5h62QnjTTtMHSeWr2J21&new=1)
+ ## [\[报告\]中国汽车产业2020年总结及2021年展望(附64页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=XlhaDh7KlwZvQL*PcwcXJmn3b5h8mfh4tizxk5P-nCDXixaIJX0T3q8pBIbyuvzi12-B1AUW7nQKkjIYKoLbS8H2iFQQffWbWQgNhGj-HeaqpCl7ZUMv8J-sgnR5EO1S&new=1)
  > 受新冠肺炎影响，2020年2月份中国汽车市场遭遇重创，销量同比下降79%，环比下降84%。随着疫情防控取得积极进展，汽车企业快速复工、复产，3月份汽车销量降幅大幅收窄，自4月份开始呈现增长态势。预计2020年汽车...
- ## [智慧教育，未来可期——“大数据与人工智能智慧学习工场”通过认定!](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=CEZGxKt*CCf169OnQ1lt*CTNH2v8zYIcjRRssVh1AMM43Wo5SlqGJDa9uWT-TdSGliuN1eqV9Qqy4cpc3dO1Oqfen*s4PLinuQA2iydYvjvjPaG3ormKOnYNF9YElEcD&new=1)
+ ## [智慧教育，未来可期——“大数据与人工智能智慧学习工场”通过认定!](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=CEZGxKt*CCf169OnQ1lt*CTNH2v8zYIcjRRssVh1AMOzG4ss-z3bRG7OUX8mRfcjJqnxeFUXHygEWygjgrBLFTYC9vwSJFxqa6qMXt7oLrxZmkxX5Wy-iAIEWgmFgoic&new=1)
  > 为贯彻落实全国教育大会精神，深化产教融合、科教融合，应对科技革命和教育形态变革的挑战，教育部学校规划建设发展中心（以下简称“规建中心”）提出了智慧学习工场全新设计。智慧学习工场建设是规建中心的创新...
- ## [7点见|特朗普签行政令：禁止与8款中国应用交易；B站回应赴港上市传闻](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=v6uTZLscVkycyJVJi5UgL0uv7UD4oGYvzAtceL80t4m0IjXID0nJZSHAnB*gi-GKOR5HYC0cGXWeuF8XBfjv*zncnh1iNgksHVahvow8sbwAWWJTLXSmh4u4ccj08dDJ&new=1)
+ ## [7点见|特朗普签行政令：禁止与8款中国应用交易；B站回应赴港上市传闻](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=v6uTZLscVkycyJVJi5UgL0uv7UD4oGYvzAtceL80t4kzJiQnFzTsItGwMfCB3kFkBsxUAa7RRxupK1iCKzyZtGYwOSr1fTtNJ-XkbI*CBQuOIfNHcgo54wkjyXQkuYcq&new=1)
  > 各位小伙伴早上好呀！以下是今天的早报！特朗普签署行政令，禁止与微信支付宝等8款中国应用软件进行交易环球网报道，据路透社最新独家消息，美国总统特朗普当地时间5日签署行政命令，禁止与包括支付宝在内的8款...
- ## [华为下场，全屋智能开启新战争](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=bgsNhIphrGzx44OLcwrJ7yQfqt216RnCmkho1*tqS0jZDbcrpY1ljLZz*Rm2gPaSSlLgoNxOQOM2i62fj7jOiHRAtJqBG2-tsJmL1dyIKKHlh8bhiWobJTDNUGNsbqPU&new=1)
+ ## [华为下场，全屋智能开启新战争](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=bgsNhIphrGzx44OLcwrJ7yQfqt216RnCmkho1*tqS0jeg4pRCc*wF*Mb*UQVDX05ESVRbO13bgzRqradbjhT2PX3gNlRbAF10-zJkvqDXtjpSkbP1Q3TAnZquP6QfyPx&new=1)
  > 配图来自Canva可画智能家居行业的蓬勃发展，正在让全屋智能成为现实。近日，华为就在举办的全屋智能及智慧屏芯片发布会上，发布了All in One全屋智能解决方案。据悉，All in One方案是网络联动为核心，致力于解...
- ## [战略|从细微中洞察趋势，这些技术会改变我们的生活和生意](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=NAiOV3igpy3Hequw4GjpUpr7n**oqulGshEQB5LKfCzjKHp5V0-DrA97gAMDrWIQwcMH7YXjkF*Cf8iAmYs-S0kGcVGtCbSYde6mbjiBji01PtkFQitPVFEffWdSqp3M&new=1)
+ ## [战略|从细微中洞察趋势，这些技术会改变我们的生活和生意](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=NAiOV3igpy3Hequw4GjpUpr7n**oqulGshEQB5LKfCxBUXt0J9P8zzorzo*VPZ7f2Q*PGQx4RKqqMTRfjKZ5uVGRBYgv5u9wn9umG85Z*r22*5gboDWMHLz82Kew9zcI&new=1)
  > 导读也许是我们对技术创新寄予厚望，当他们带来的时候，反而因为他们对现实生活的改变影响有限而略有失望，比如无人驾驶、人工智能、5G应用、3D打印等。其实，这取决于你从多长时间来看这个问题，我们往往高估了...
- ## [人工智能如何赋能智能工厂?](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=gI0tAEyXep7vKyHnxhllPAY2jQ1wXbwUBoNPy5Ijizjomq6YA4KD58j7Wm9OXBmNvHQUHjMlINgJ2F6WwQXxtG6lDAvxdjxT*EpZoI9s8G-PlqeFpnEtKbN4Yx-MNj5Y&new=1)
+ ## [人工智能如何赋能智能工厂?](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=gI0tAEyXep7vKyHnxhllPAY2jQ1wXbwUBoNPy5Ijizh0iPPw8wRA*3h0Lgegsiu7ijPBLjT3KzKmBgTrchx84h*fdq3telzfWxTufOEsiKB*grGZ2H2Yd59*RuhgNvxM&new=1)
  > 人工智能技术对企业实现智能制造和数字化转型产生了重要的影响，目前已广泛应用于各产业之中，且展现出相当惊人的效益，自然也是制造业打造智能工厂非常关键的技术。文/ e-works田耘人工智能是研究、开发用于模...
- ## [中国保持快速建设5G网络脚步，力求取得科技领先优势](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=SzUl63q8N3P0htO3ZWFeAoPbL2m*p7LyYb7oNH0G-rur-uo6-AoFSbFdd15p3WNAO6VZjg76uqUyhNCVGpu9bxQGbDMtNeeQ8k4rmv-LXs-oLkS*RblHhCBvzHsaanVV&new=1)
+ ## [中国保持快速建设5G网络脚步，力求取得科技领先优势](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=SzUl63q8N3P0htO3ZWFeAoPbL2m*p7LyYb7oNH0G-rt-Zc5Qxst6B0xrLvZIH4LmfJrDyUPY641p0qgo0WNTMA6zrqVn298Wiu8DLIiHFqcOQqH3GBrbjkY5q*-Zrp8k&new=1)
  > 截至2020年底，中国三大运营已有超过70万座5G基站，日期它们作出规划在今年内再建成60万座5G基站，如此中国的5G基站数量可望达到130万座，建成全球覆盖最完善的5G网络。在4G时代，中国就以快速建设4G网络著称，...
- ## [2021年云计算产业链依然是很好的投资赛道?](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=ph0BC*m*5dnHEKgMOTZ*iQkw7QSm1BfjMa788TAmwqtKFCd3-VR7FfzjhrF3zilM27gedGF07k3jR2vN5MmK6ilXchYnu5C4Sv2c95P9KI9nIsNYwVWApNx9RXZ3-jCu&new=1)
+ ## [2021年云计算产业链依然是很好的投资赛道?](http://mp.weixin.qq.com/s?src=11&timestamp=1609923605&ver=2811&signature=ph0BC*m*5dnHEKgMOTZ*iQkw7QSm1BfjMa788TAmwqtbFSobnEtalh*Ib3ozTvEXyJ-1eW95qa9qtorr6RB7g3oVSRf2QR7yoTOKg4p7k7nu-k6VdIbc1sUQ-R0to4du&new=1)
  > 2020年新冠疫情以猝不及防之势席卷全球，全球产业链、供应链受到重大冲击，云办公、云娱乐、云学习、云消费等云需求激增，极大缩短了市场教育进程。为匹配新环境下新需求，企业数字化转型迫在眉睫。与此同时，新...
- ## [未知大陆与碧桂园梅龙湖智造新城签约，共建3D打印产业生态](http://mp.weixin.qq.com/s?src=11&timestamp=1609905605&ver=2811&signature=MVLMkMjLO6iYL73*CgT45tLJJuy5crsLpJj7u9cBLmmwxIcT-eXGmrAmL-clRsVzlkgIv40Fbw08h8nJDnx3PVyJW4lhMxbx14d7AQDT-Vz8DikEpQ4FySFBN3hwi4YW&new=1)
- > 2021年1月5日，未知大陆与碧桂园梅龙湖智造新城签订合作协议，双方将共同推进3D打印产业生态在惠州的落地，依托碧桂园集团强大的品牌影响力与产城融合能力，为大湾区3D打印企业提供厂房定制及配套，同时借助未知...
 # IT 技术 
  ## [十大超级融合基础设施（HCI）解决方案大比拼](http://developer.51cto.com/art/202101/639096.htm)
  > 十大超级融合基础设施（HCI）解决方案大比拼
@@ -49,60 +59,60 @@ categories: IT NEWS
  > 如何使用子模块和子树来管理 Git 项目
  ## [2021年接地气的七个大数据战略](http://bigdata.51cto.com/art/202101/639095.htm)
  > 2021年接地气的七个大数据战略
- ## [热点 | 拼多多道歉了，官方已介入调查！](http://news.51cto.com/art/202101/639229.htm)
- > 热点 | 拼多多道歉了，官方已介入调查！
- ## [Oracle SQL开发之增删改事务_Oracle数据库SQL语言开发与应用实战03](http://fellow.51cto.com/art/202012/636002.htm?qd=51ctojrzd)
- > Oracle SQL开发之增删改事务_Oracle数据库SQL语言开发与应用实战03
- ## [是时候对数据中心脱碳进行现实检查了吗?](http://network.51cto.com/art/202101/639252.htm)
- > 很多组织致力于减少并最终消除数据中心碳排放量，那么什么是碳中和数据中心?
- ## [微软“雪藏”的七个Windows 10强力工具](http://zhuanlan.51cto.com/art/202101/639249.htm)
- > 本文，我们将重点介绍Windows 10的七款“隐藏”工具，解锁这些工具可以让高级用户如虎添翼，更好地控制Wind
- ## [行业观点：人工智能如何革新业务流程](http://ai.51cto.com/art/202101/639248.htm)
- > 如今，人工智能技术已经广泛应用在各行业和领域：可穿戴设备、汽车、生产力应用程序、军事、医疗保健、家庭
- ## [通过将物联网技术与收入过程相结合来释放收入](http://iot.51cto.com/art/202101/639247.htm)
- > 随着企业努力应对Covid-19的影响，物联网驱动的RTLS设备可以打开一个新的收入动态。
- ## [年底了，你的数据库密码安全吗](http://database.51cto.com/art/202101/639246.htm)
- > 年底了，你的数据库是不是该巡检了？一般巡检都会关心密码安全问题，比如密码复杂度设置，是否有定期修改等
- ## [量子互联网要来了？高保真长距离是特点](http://network.51cto.com/art/202101/639245.htm)
- > 据外媒，未来的量子互联网将比人们正在使用的互联网更快、更安全--现在这样的网络可能离现实更近了一步。科
- ## [为什么云计算不只是IT部门的责任](http://cloud.51cto.com/art/202101/639244.htm)
- > 无论是否是IT团队的一员，了解哪种云平台适合企业正在从事的项目特别重要。
- ## [边缘计算点燃新风暴，IT与OT之战一触即发](http://www.cioage.com/art/202101/639243.htm)
- > IT和OT（运营技术）的边界正变得越来越模糊。IT领导者需要考虑边缘计算对IT和OT之间关系的影响。这种影响到
- ## [中国35岁以上的程序猿哪去了？](http://news.51cto.com/art/202101/639250.htm)
- > 虽然进入了互联网，但是路径姿势不对，或者不够幸运，没卡到位占到便宜，继续干会遭遇35岁失业的风险，在风
- ## [银行核心系统向云迁移的三个步骤](http://cloud.51cto.com/art/202101/639242.htm)
- > 银行如何在不疏远客户或冒核心数据风险的情况下拥抱云？三个步骤非常关键：金融公司必须首先进行评估，然后
- ## [Laravel集成google人机验证reCAPTCHA（v2/Checkbox）](https://blog.csdn.net/qq_27868061/article/details/111400348)
- > Laravel集成google人机验证reCAPTCHA（v2/Checkbox）
- ## [SLAM 论文阅读和分类整理](https://blog.csdn.net/heyijia0327/article/details/82855443)
- > SLAM 论文阅读和分类整理
+ ## [职场 | 中国35岁以上的程序猿去哪了？](http://news.51cto.com/art/202101/639250.htm)
+ > 职场 | 中国35岁以上的程序猿去哪了？
+ ## [零基础学习HTML5―HTML+CSS基础视频教程](http://fellow.51cto.com/art/202012/637600.htm?qd=51ctojrzd)
+ > 零基础学习HTML5―HTML+CSS基础视频教程
+ ## [日媒：业内人士称日本实现5G全国覆盖还需好几年](http://network.51cto.com/art/202101/639309.htm)
+ > 据日本时事通讯社3日报道，日本的主要移动运营商正在争相为超高速5G服务建设基站，但预计日本实现5G全国覆
+ ## [掌握这8款前端热门工具，争当开发小能手](http://developer.51cto.com/art/202101/639308.htm)
+ > 巧妙使用工具，不用自己费时费力，它不香吗？？以下为大家整理了8款减轻前端开发人员生活压力的工具，快来
+ ## [2020年Github上发布的关注较高的7大SQL数据库项目](http://database.51cto.com/art/202101/639307.htm)
+ > SQL可以独立完成数据库生命周期中的全部活动，包括定义关系模式、录入数据、建立数据库、询、更新、维护
+ ## [2021年，物联网安全会发生什么？](http://iot.51cto.com/art/202101/639306.htm)
+ > 在物联网安全方面，新的一年会带来什么？我不能说我的水晶球足够透亮，但是我愿意就2021年的物联网安全发展
+ ## [临近卸任又以国家安全禁封8款中国软件，特朗普还想刷存在？](http://news.51cto.com/art/202101/639305.htm)
+ > 继去年12月以“国家安全”为由将中芯国际、大疆等数十家中国公司列入了贸易黑名单后，特朗普又继续颁布了一
+ ## [新版Microsoft Launcher发布：改善UI和续航能力](http://mobile.51cto.com/ahot-639302.htm)
+ > 适用于 Android 的 Microsoft Launcher 6.2.201202.9334于今天正式发布。该更新此前已经邀请 Beta 用户参与
+ ## [为什么保护云安全是一个数学问题](http://cloud.51cto.com/art/202101/639301.htm)
+ > 与普遍的看法相反，云中有一个安全边界。但这不是我们习惯保护的类型。由于没有网络，云中事实上的边界就是
+ ## [SolarWinds攻击归因成疑，俄罗斯国家黑客or美国内鬼？](http://netsecurity.51cto.com/art/202101/639300.htm)
+ > 随着入侵方式与相关技术细节逐渐被披露，SolarWinds的归因也成为了各国探寻的焦点。
+ ## [打工真能挣一个亿，苹果CEO库克2020薪酬解读](http://news.51cto.com/art/202101/639299.htm)
+ > 刚过去的2020年，是极不平凡的一年，很多公司受疫情影响，效益不佳，但苹果的成绩很是不错。据苹果周一向美
+ ## [盘点2020之5G终端：智能手机市场迎大变局，更多形态可期](http://mobile.51cto.com/hot-639298.htm)
+ > 5G的规模扩展元年，亦是世界经历百年未有之大变局的一年。由于新冠肺炎疫情全球蔓延，以及科技行业面临技术
+ ## [Python对商店数据进行lstm和xgboost销售量时间序列建模预测分析](https://blog.csdn.net/qq_19600291/article/details/105670930)
+ > Python对商店数据进行lstm和xgboost销售量时间序列建模预测分析
+ ## [R语言中的模拟过程和离散化：泊松过程和维纳过程](https://blog.csdn.net/qq_19600291/article/details/105333633)
+ > R语言中的模拟过程和离散化：泊松过程和维纳过程
  ## [CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试](https://blog.csdn.net/weixin_44463441/article/details/111830910)
  > CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试
- ## [六星教育：PHP程序员宝典，让你快速成为技术高手](https://blog.csdn.net/liuxingjiaoyu/article/details/110262401)
- > 六星教育：PHP程序员宝典，让你快速成为技术高手
- ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
- > C/C++  经典面试题（一）之常考概念【持续更新】
- ## [解决github网站打开慢或者无法访问的方法](https://blog.csdn.net/qq15577969/article/details/109392711)
- > 解决github网站打开慢或者无法访问的方法
+ ## [Undefined symbol: _OBJC_CLASS_$_xxx错误的解决方法](https://blog.csdn.net/boildoctor/article/details/110916532)
+ > Undefined symbol: _OBJC_CLASS_$_xxx错误的解决方法
+ ## [R语言用ARIMA模型预测巧克力的兴趣趋势时间序列](https://blog.csdn.net/qq_19600291/article/details/105792498)
+ > R语言用ARIMA模型预测巧克力的兴趣趋势时间序列
+ ## [GitHub Android开源Top10](https://blog.csdn.net/weixin_44758662/article/details/108785863)
+ > GitHub Android开源Top10
  ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
  > 年终福利 | “社区之星”（年度贡献者）成长故事征集
- ## [element-ui 树形选择框-多选功能实现](https://blog.csdn.net/weixin_42386379/article/details/111395998)
- > element-ui 树形选择框-多选功能实现
- ## [【Java并发编程之深入理解】Synchronized的使用](https://blog.csdn.net/zjy15203167987/article/details/82531772)
- > 【Java并发编程之深入理解】Synchronized的使用
- ## [ThinkAdmin（CVE-2020-25540）漏洞复现](https://blog.csdn.net/m0_48520508/article/details/109570212)
- > ThinkAdmin（CVE-2020-25540）漏洞复现
- ## [基于SSM的校园二手交易平台的设计与实现](https://blog.csdn.net/wsk1103/article/details/80214238)
- > 基于SSM的校园二手交易平台的设计与实现
- ## [JQ俄罗斯方块儿](https://blog.csdn.net/weixin_45820444/article/details/108819122)
- > JQ俄罗斯方块儿
- ## [Java多线程：彻底搞懂线程池](https://blog.csdn.net/u013541140/article/details/95225769)
- > Java多线程：彻底搞懂线程池
- ## [C课程设计----------C学生成绩管理系统](https://blog.csdn.net/robot_sh/article/details/103537729)
- > C课程设计----------C学生成绩管理系统
- ## [接口测试工具Postman使用实践](https://blog.csdn.net/duzilonglove/article/details/78645467)
- > 接口测试工具Postman使用实践
+ ## [PHP开发SSO单点登录需要注意的问题](https://blog.csdn.net/liuxingjiaoyuC/article/details/109848877)
+ > PHP开发SSO单点登录需要注意的问题
+ ## [Vue3教程：用 Vue3 开发小程序，这里有一份实际的代码案例！](https://blog.csdn.net/ZHENFENGSHISAN/article/details/109733856)
+ > Vue3教程：用 Vue3 开发小程序，这里有一份实际的代码案例！
+ ## [Unity面试题（包含答案）](https://blog.csdn.net/qq_34937637/article/details/79653525)
+ > Unity面试题（包含答案）
+ ## [5 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家](https://blog.csdn.net/eson_15/article/details/104347476)
+ > 
+ ## [手把手教你制作一个温湿度上位机（串口通信）](https://blog.csdn.net/qq_39542860/article/details/108291462)
+ > 手把手教你制作一个温湿度上位机（串口通信）
+ ## [13 个 JavaScript 数组精简技巧](https://blog.csdn.net/weixin_49592546/article/details/108192616)
+ > 13 个 JavaScript 数组精简技巧
+ ## [支持Web UI数据库审计和敏感数据国密算法加密，JumpServer堡垒机v2.5.0发布丨Release Notes](https://blog.csdn.net/FIT2CLOUD/article/details/110140587)
+ > 支持Web UI数据库审计和敏感数据国密算法加密，JumpServer堡垒机v2.5.0发布丨Release Notes
+ ## [Vue学习笔记之Webpack中css、less、图片等文件处理](https://blog.csdn.net/zeng_sily/article/details/107897968)
+ > Vue学习笔记之Webpack中css、less、图片等文件处理
 # 人工智能 
  ## [全球网速变慢，运营商：WiFi 和微波炉不要放在一起！](https://blog.csdn.net/HyperAI/article/details/105259740)
  > 全球网速变慢，运营商：WiFi 和微波炉不要放在一起！
@@ -134,5 +144,30 @@ categories: IT NEWS
  > 优化了MYSQL大量写入问题，老板奖励了1000块给我
  ## [Kubernetes K8S之CPU和内存资源限制详解](https://blog.csdn.net/woshizhangliang999/article/details/112205526)
  > Kubernetes K8S之CPU和内存资源限制详解
+# PM 
+ ## [4000字干货，看完就懂什么叫产品设计与产品设计流程](http://www.chanpin100.com/article/113298)
+ > 满满干货，等你来收获～
+ ## [“在线”正当道，8款在线原型工具推荐](http://www.chanpin100.com/article/113308)
+ > 随着云计算和5G网络的发展，互联网办公工具的 Web 化是必然的趋势。那么对于产品设计团队来说，又有哪些在线设计工具值得体验呢？今天，我们一起来盘点一下国内外8款经典的在线原型工具。
+ ## [证券业加速移动化转型，2020年中国证券类APP创新专题洞察](http://www.chanpin100.com/article/113304)
+ > 易观分析：移动互联网迅猛发展，证券行业的客户交互、开户、交易、理财购买行为由传统的PC端转向移动App，各大券商移动端开户数比例已达99%，移动端交易客户数比例达89.1%，移动App成为客户的主要入口和交易场景的承载体。
+ ## [社区团购——摆正好吃相再吃](http://www.chanpin100.com/article/113314)
+ > 摆正好吃相再吃！也许你看过不少关于社区团购的文章，本文还是想带你从另一个角度领阅社区团购。
+ ## [宠物经济的慢变量与快变量](http://www.chanpin100.com/article/113312)
+ > 真正需要这些产品和服务的，也许不是宠物，而是主人们自己。
+ ## [B端按钮设计指南](http://www.chanpin100.com/article/113307)
+ > 近两年互联网人口红利殆尽，获客成本明显提高，C端整体突飞猛进式的增长基本结束。与此同时，互联网开始赋能传统行业，企业对互联网服务需求逐年提升。今年疫情冲击之下，“新基建”迅速成为坊间热词，B端产品借势迎来了井喷式增长，也让许多设计师小伙伴有了入局B端的机会 。
+ ## [“结构化思维”，成就好产品](http://www.chanpin100.com/article/113317)
+ > 2020年我最大的收获就是学会运用结构化思维去思考。
+ ## [如果提升你的个人能力，你愿意学吗？](http://www.chanpin100.com/article/113322)
+ > 学习 心态
+ ## [重新定义B端产品](http://www.chanpin100.com/article/113320)
+ > B端产品到底是什么？更恰当的定义应该是体现业务管理思想的数字化工具
+ ## [流量大势合久必分，私域流量日趋重要](http://www.chanpin100.com/article/113325)
+ > 传统电商平台，用户流量集中在商家与顾客并不能够直接交易及沟通的中心化平台，从而使电商平台（非商家）对流量、交易数据及客户关系具有重大控制权。传统电商增速放缓，流量成本高企，用户向头部集中都导致中小商家受困。
+ ## [半小时搞定2020年终总结，附带讲解+模板](http://www.chanpin100.com/article/113328)
+ > 年终总结，就是把你这一年内做所的事情，按照文字+数字的方式进行呈现，这当中有两个关键点：你做了什么，要怎么表达来年的计划。
+ ## [从立项到调优分析抖音小游戏的爆款秘诀](http://www.chanpin100.com/article/113331)
+ > 游戏立项和古人的智慧可以进行很好的结合。人们做事讲究天时、地利和人和，立项也是如此。立项首先要考虑“人”，也就是考虑用户是什么样子，什么样的游戏才能吸引他们？他们的痛点和痒点是什么？很多游戏的品质非常好，但推出之后平平无奇，可能是因为在“人”方面考虑欠佳。
 
     
