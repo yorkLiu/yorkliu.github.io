@@ -1,22 +1,26 @@
 ---
 title: 2021-01-07 IT News
 copyright: true
-date: 2021-01-07 08:06:52
+date: 2021-01-07 09:02:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [数字孪生：企业数字化未来之门](http://mp.weixin.qq.com/s?src=11&timestamp=1609977604&ver=2813&signature=OqQdncFryWkMuo0Eiin3P1*yPLhe*IdtSBdJemW3yxLVmVgh05RMttN*nMNEHYH2mBMKHb2lq1VVSwjD9wC6XNq5Anuc-TopebKoEAmdbSq*RU3PSUxfjseBH913p2*J&new=1)
- > 导读数字化车间是设备、网络、信息、自动化、精益管理与制造技术相互集成的表现，将生产车间打造成数字化的制造平台，通过改善车间的管理和生产制造各环节，最终实现快速的生产制造过程。生产车间在制造型企业中...
- ## [2021年，我依然在电信工作，请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1609977604&ver=2813&signature=1fkMOaS09M6r9LmiBtzU*1u9u9OKXNZH3JKvFrKeeQJ2BzvU07zuqcqZIuoxNasu9SnAPj43jHUVjmsWs8d4zxG4Ahwhp90yV3wA5W63Kb31M56tCWqX3knQuP9Xkg8G&new=1)
+ ## [2021年，我依然在电信工作，请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=1fkMOaS09M6r9LmiBtzU*1u9u9OKXNZH3JKvFrKeeQLQIhYDPj3ekx-qTIamRnnXMGBsMe5CK99nOvXpSu20KBH514Oc6DWBTZJUVTH4TyfDL9i5iEVYylufFC0X921V&new=1)
  > 感谢2020年老用户的信任和托付。感谢2021年新客户的青睐和支持。满怀期待，每一位电信客户都值得我们尊重！2021年，我依然在电信工作！请放心找我！从事通信行业多年，只为更多朋友体验中国电信高品质网络服务。...
- ## [高通公司宣布任命安蒙为候任首席执行官](http://mp.weixin.qq.com/s?src=11&timestamp=1609977604&ver=2813&signature=s45NQT0SiSIvCXXKETe8BUAhwTcmm0l8JP3K-k162MpbcffEidQH4Ham9Z63ovTAaVFABMu0dp1rcszRNzXms7q75qRAmL8CPOw9gAHM1VBj*ULtcxfQneCqPimIt6V4&new=1)
- > Qualcomm要闻—高通公司宣布任命安蒙为候任首席执行官，史蒂夫·莫伦科夫在公司工作26年之后，将从首席执行官一职退休高通公司今日宣布，公司董事会一致推选安蒙（Cristiano Amon）接替史蒂夫·莫伦科夫（Steve ...
- ## [钢铁行业如何做好“十四五”数字化转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1609977604&ver=2813&signature=qRlFxvhpQ1JcGMDJWRy0VdyBAGvY*KfcQhWojqodwKqKO48JJCDlvb3ZsY4yZ3otnyG3MYLHN2XK4ITeAh4MwKxAZtkSMDI9135cNM8AfGWg08bIw9ZUFW4FW*dlNh*m&new=1)
+ ## [钢铁行业如何做好“十四五”数字化转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=qRlFxvhpQ1JcGMDJWRy0VdyBAGvY*KfcQhWojqodwKosLU1wBxfHxIJ5T-fT1kyTJnSBjNvAmmr2vMh7WwMnZ9xP4usR1iHF90Qy77D12VKCHnu3*0xQUWP6lUM6eUCz&new=1)
  > ——华为中国政企智能制造业务部钢铁行业首席专家 顾廷权近年来，以人工智能、5G、云计算、大数据等为代表的新技术迅猛发展。随着国家一系列鼓励产业转型升级的政策出台，各行各业都掀起了数字经济革命浪潮。实...
- ## [「芯片」概念大出圈的2020年，这十大芯片值得被记住](http://mp.weixin.qq.com/s?src=11&timestamp=1609977604&ver=2813&signature=wpIjMYWt3RH2iDoLYlkv4eN4Kl*cDGdebVj4tctIbT*Y9tj6QT3MeQF68DaThTC-flr4gMbZtR0uHIdxyA2eU*YAAI29rYv0GtUOIl9kUI3RX9vnR5BLiN9X8iREsvBH&new=1)
+ ## [数字孪生：企业数字化未来之门](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=OqQdncFryWkMuo0Eiin3P1*yPLhe*IdtSBdJemW3yxLZi6ZuVhhY*OUtMdbTwEAgonixAEvXMoGGlLkUGIoseVc6u7SJJV9Ru0PDSPHxUg9CBBaFpf*h8CwTaDyAQEi3&new=1)
+ > 导读数字化车间是设备、网络、信息、自动化、精益管理与制造技术相互集成的表现，将生产车间打造成数字化的制造平台，通过改善车间的管理和生产制造各环节，最终实现快速的生产制造过程。生产车间在制造型企业中...
+ ## [「芯片」概念大出圈的2020年，这十大芯片值得被记住](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=wpIjMYWt3RH2iDoLYlkv4eN4Kl*cDGdebVj4tctIbT8KVtePtp5HAaus1mCP*6CTrCN0iVXjDzH3JxW1B1EX-VoGOyeqEyaSzjOx75lthdxahsnPU3oIcXNBPsSdZfmA&new=1)
  > 2020年，是「芯片」概念大出圈的一年，这一年，几乎人人「谈芯」，从移动SoC到PC芯片，再到量子计算芯片，这种小小的元器件带给了科技界乃至全社会太多太多的话题与争论。在本文中，OFweek维科网为您盘点2020年...
+ ## [高通公司宣布任命安蒙为候任首席执行官](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=s45NQT0SiSIvCXXKETe8BUAhwTcmm0l8JP3K-k162MpsfznMkeJRILDlPhZpN8fEuIBW2VrvzdAh7Ej6W98MWCPZfjAZseeexts88RoDQoRgH2niBkl54HBu68cEAUpk&new=1)
+ > Qualcomm要闻—高通公司宣布任命安蒙为候任首席执行官，史蒂夫·莫伦科夫在公司工作26年之后，将从首席执行官一职退休高通公司今日宣布，公司董事会一致推选安蒙（Cristiano Amon）接替史蒂夫·莫伦科夫（Steve ...
 # IT 技术 
+ ## [医疗数字化转型：2021年的5个预测](http://www.cioage.com/art/202101/639326.htm)
+ > 医疗数字化转型：2021年的5个预测
+ ## [不要让数据安全成为“盲盒”里的那只猫 --浅谈咨询业数据安全体系建设](http://netsecurity.51cto.com/art/202101/639327.htm)
+ > 不要让数据安全成为“盲盒”里的那只猫 --浅谈咨询业数据安全体系建设
  ## [迁移到Kubernetes对DevOps和DataOps有哪些好处](http://developer.51cto.com/art/202101/639325.htm)
  > 迁移到Kubernetes对DevOps和DataOps有哪些好处
  ## [十大超级融合基础设施（HCI）解决方案大比拼](http://developer.51cto.com/art/202101/639096.htm)
@@ -27,62 +31,58 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS开发Java并发-final关键字
  ## [优化器怎么选？一文教你选择适合不同ML项目的优化器](http://news.51cto.com/art/202101/639059.htm)
  > 优化器怎么选？一文教你选择适合不同ML项目的优化器
- ## [如何使用子模块和子树来管理 Git 项目](http://developer.51cto.com/art/202101/639094.htm)
- > 如何使用子模块和子树来管理 Git 项目
- ## [2021年接地气的七个大数据战略](http://bigdata.51cto.com/art/202101/639095.htm)
- > 2021年接地气的七个大数据战略
- ## [Oracle性能优化之性能跟踪工具_Oracle性能优化与故障诊断教程04](http://fellow.51cto.com/art/202012/636006.htm?qd=51ctojrzd)
- > Oracle性能优化之性能跟踪工具_Oracle性能优化与故障诊断教程04
+ ## [ThinkPHP5标准视频教程（第四部：数据访问篇\[下\]）（七日成蝶）](http://fellow.51cto.com/art/202012/636699.htm?qd=51ctojrzd)
+ > ThinkPHP5标准视频教程（第四部：数据访问篇\[下\]）（七日成蝶）
+ ## [微服务模式下如何实现多模块并行构建发布](http://developer.51cto.com/art/202101/639447.htm)
+ > 在微服务项目中具有很多个服务模块，为了便于管理需要将项目规范化，使用GitLabGroup管理整个项目，每个pro
+ ## [详解数据结构二叉树及其代码实现](http://developer.51cto.com/art/202101/639446.htm)
+ > 树是一种非常重要的非线性结构，本身具有递归的性质(在其后的编程中体现的淋漓尽致)。
+ ## [聊聊JavaScript内存管理](http://stor.51cto.com/art/202101/639438.htm)
+ > 大多数时候，我们在不了解有关内存管理的知识下也只开发，因为 JS 引擎会为我们处理这个问题。不过，有时候
+ ## [探究网页资源究竟是如何阻塞浏览器加载的](http://os.51cto.com/art/202101/639442.htm)
+ > 一个页面允许加载的外部资源有很多，常见的有脚本、样式、字体、图片和视频等，对于这些外部资源究竟是如何
+ ## [炸！使用 MyBatis 查询千万数据量？](http://database.51cto.com/art/202101/639437.htm)
+ > 由于现在 ORM 框架的成熟运用，很多小伙伴对于 JDBC 的概念有些薄弱，ORM 框架底层其实是通过 JDBC 操作的
  ## [Windows 10任务栏将迎大更新：时不时弹窗、提高Edge使用率](http://os.51cto.com/art/202101/639436.htm)
  > 据外媒报道称，微软即将对Windows 10的任务进行大更新，而目前已经测试的结果显示，其将允许Windows 10用户
+ ## [如何在 ASP.Net Core 中使用 Swagger](http://developer.51cto.com/art/202101/639434.htm)
+ > 大家在开发完 webapi 后，经常为了方便接口双方对接，需要将 webapi 接口文档化，那有没有什么快捷可交互
+ ## [面试官：来说说Tomcat的启动过程是什么样子的](http://server.51cto.com/sOS-639433.htm)
+ > 阿粉最近在疯狂的研究各种用的工具里面的源码实现，之前给大家都专门的去扣了一下 JDK 里面自带的exe程序，
  ## [2021年，学习JavaScript一定要读这4本书](http://developer.51cto.com/art/202101/639432.htm)
  > 在本文中，我们将和大家推荐一些对开发人员有用的JavaScript书籍列表，希望对你们有所帮助。
- ## [生产环境网络故障排除简明视频教程](http://fellow.51cto.com/art/202101/639344.htm)
- > 本课程以“排错思路”的方式，讲述在生产环境中对网络故障的排除方式。
  ## [Python 中的 EAFP 和 LBYL 代码风格到底是什么？](http://developer.51cto.com/art/202101/639431.htm)
  > EAFP虽然是 Python 比较推荐的一种编码风格，但更多情况下，这两种风格会同时存在于你的代码中代码风格的目
- ## [10分钟学会数据地图制作，让你的可视化再高一级！](http://bigdata.51cto.com/art/202101/639427.htm)
- > 在数据可视化中，地图可视化是高频应用的一种。我们在一些新闻报道和商业杂志上，会经常看到运用地图来分析
- ## [苹果老用户想换M1版新MacBook？这神器别错过了](http://os.51cto.com/art/202101/639425.htm)
- > 作为一名苹果的老用户，想要知道手中Mac上满满的软件，到底有几个能在新MacBook上跑起来，至关重要。今天，
- ## [预测：5G将在企业中产生巨大影响](http://network.51cto.com/art/202101/639424.htm)
- > 第五代移动通信技术(5G)正以超乎想象的速度加速到来，全球各国的运营商正加速5G商用部署。
- ## [Algorithmia：人工智能将在2021年成为主流](http://ai.51cto.com/art/202101/639423.htm)
- > 据外媒报道，受新冠肺炎疫情影响，企业内部采用人工智能技术的速度明显加快，这主要归功于数字业务转型举措
- ## [BLE中这些概念你都了解吗](http://mobile.51cto.com/android-639422.htm)
- > 我们使用Android 手机上的蓝牙调试助手与TB-02-kit模块进行了数据通讯，很多人可能对其中很多概念不是很了
- ## [云计算有哪些优势可以让企业受益](http://cloud.51cto.com/art/202101/639421.htm)
- > 云计算持续发展，为小型企业提供了许多功能。云计算技术是一种提高工作效率的好方法，同时也增强了网络安全
- ## [支持Web UI数据库审计和敏感数据国密算法加密，JumpServer堡垒机v2.5.0发布丨Release Notes](https://blog.csdn.net/FIT2CLOUD/article/details/110140587)
- > 支持Web UI数据库审计和敏感数据国密算法加密，JumpServer堡垒机v2.5.0发布丨Release Notes
- ## [重磅！Jira 停售本地版，中国 90% 客户将无法使用](https://blog.csdn.net/ones_ai/article/details/109541886)
- > 重磅！Jira 停售本地版，中国 90% 客户将无法使用
+ ## [c语言指针的有关总结](https://blog.csdn.net/jgdabc/article/details/108453145)
+ > c语言指针的有关总结
+ ## [Ubuntu16安装搜狗输入法报错：dpkg: 处理归档 sogoupinyin.deb (--install)时出错：安装 sogoupinyin 将破坏 fcitx-ui-qimpanel](https://blog.csdn.net/qq_42226250/article/details/109550976)
+ > Ubuntu16安装搜狗输入法报错：dpkg: 处理归档 sogoupinyin.deb (--install)时出错：安装 sogoupinyin 将破坏 fcitx-ui-qimpanel
  ## [CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试](https://blog.csdn.net/weixin_44463441/article/details/111830910)
  > CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试
- ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
- > 
- ## [Java面试不通过？这篇文章你看了吗？](https://blog.csdn.net/weixin_44563573/article/details/107760021)
- > Java面试不通过？这篇文章你看了吗？
- ## [Golang 单元测试：有哪些误区和实践？](https://blog.csdn.net/alitech2017/article/details/109769415)
- > Golang 单元测试：有哪些误区和实践？
+ ## [R语言大作业（全国2000-2019年人口各项数据分析）](https://blog.csdn.net/azheya/article/details/106790917)
+ > R语言大作业（全国2000-2019年人口各项数据分析）
+ ## [技术破局：AI程序员2021如何跳出舒适圈？！](https://blog.csdn.net/CSDNedu/article/details/112229231)
+ > 技术破局：AI程序员2021如何跳出舒适圈？！
+ ## [小白都能看懂的蒙特卡洛方法以及python实现](https://blog.csdn.net/bitcarmanlee/article/details/82716641)
+ > 小白都能看懂的蒙特卡洛方法以及python实现
  ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
  > 年终福利 | “社区之星”（年度贡献者）成长故事征集
- ## [php和腾讯直播](https://blog.csdn.net/wangzhae/article/details/109636663)
- > php和腾讯直播
- ## [面试官：你背了几道面试题就敢说熟悉Java源码？对不起，我们不招连源码都不会看的人](https://blog.csdn.net/shouchenchuan5253/article/details/105196154)
- > 
- ## [“滴滴打摩托”是什么鬼？东南亚的这家公司给做出来了！](https://blog.csdn.net/bjweimengshu/article/details/109712575)
- > “滴滴打摩托”是什么鬼？东南亚的这家公司给做出来了！
- ## [C++数据结构——队列](https://blog.csdn.net/zichen_ziqi/article/details/80819939)
- > C++数据结构——队列
- ## [【vue】使用vue-cli4.0快速搭建一个项目](https://blog.csdn.net/liyunkun888/article/details/102738377)
- > 【vue】使用vue-cli4.0快速搭建一个项目
- ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
- > 详解BP神经网络
- ## [我用大数据分析了一线城市1000多份岗位招聘需求，告诉你如何科学找工作](https://blog.csdn.net/u011644231/article/details/104741589)
- > 
- ## [大牛都会用的IDEA调试技巧！！！](https://blog.csdn.net/qq_34162294/article/details/105260153)
- > 大牛都会用的IDEA调试技巧！！！
+ ## [简单介绍WordPress网站的检测和验证方法](https://blog.csdn.net/qq_25879801/article/details/111048518)
+ > 简单介绍WordPress网站的检测和验证方法
+ ## [Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战](https://blog.csdn.net/songlh1234/article/details/84317617)
+ > Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战
+ ## [Vue+element-ui文件上传阿里云oss+预览word 、excel、ppt、pdf、png、jpg文件](https://blog.csdn.net/qq_40788898/article/details/111947352)
+ > Vue+element-ui文件上传阿里云oss+预览word 、excel、ppt、pdf、png、jpg文件
+ ## [3使用html+css+js制作网页 制作登录网页](https://blog.csdn.net/qq_40832960/article/details/104100918)
+ > 3使用html+css+js制作网页 制作登录网页
+ ## [Golang 单元测试详尽指引](https://blog.csdn.net/Tencent_TEG/article/details/109233677)
+ > Golang 单元测试详尽指引
+ ## [到底什么是Event Loop？那就来了解一下JavaScript分别在浏览器和Node环境下的运行机制吧](https://blog.csdn.net/l_ppp/article/details/109254110)
+ > 到底什么是Event Loop？那就来了解一下JavaScript分别在浏览器和Node环境下的运行机制吧
+ ## [PHP的OpenSSL加密扩展学习（三）：证书操作](https://blog.csdn.net/zhangyue0503/article/details/109523873)
+ > PHP的OpenSSL加密扩展学习（三）：证书操作
+ ## [中间件的解析漏洞详解及演示](https://blog.csdn.net/qq_41679358/article/details/108109439)
+ > 中间件的解析漏洞详解及演示
 # 人工智能 
  ## [全球网速变慢，运营商：WiFi 和微波炉不要放在一起！](https://blog.csdn.net/HyperAI/article/details/105259740)
  > 全球网速变慢，运营商：WiFi 和微波炉不要放在一起！
