@@ -1,64 +1,72 @@
 ---
 title: 2021-01-07 IT News
 copyright: true
-date: 2021-01-07 10:02:23
+date: 2021-01-07 12:02:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021年，我依然在电信工作，请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=1fkMOaS09M6r9LmiBtzU*1u9u9OKXNZH3JKvFrKeeQLQIhYDPj3ekx-qTIamRnnXnlDwIemWIyzX1uQoqWLZH*vEmRdaGNYO-n6DhS07*dGlyMG0UhzRwGwhmKxFeuJG&new=1)
- > 感谢2020年老用户的信任和托付。感谢2021年新客户的青睐和支持。满怀期待，每一位电信客户都值得我们尊重！2021年，我依然在电信工作！请放心找我！从事通信行业多年，只为更多朋友体验中国电信高品质网络服务。...
- ## [HR注意!人社部再次颁布4个新“国标”!这些知道吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=zM2X13OqnmUVbSRVWmKlztXP-4vlzHtjNgC*i642CnPpjyxn1n4XrJ*Qb3SfA9a2nlALq-kaOCPwCZadwYVdna*A3yw0CF8OghgynUwgKBFBdNKPwr52yuPoLCITbLFN&new=1)
- > 近期，人力资源社会保障部分别与工业和信息化部、公安部联合颁布工业机器人系统操作员、网络与信息安全管理员等2个国家职业技能标准。此前，人力资源社会保障部制定颁布了物流服务师等18个国家职业技能标准。其...
- ## [7点见|瑞幸郭谨一回应被“逼宫”；比特币涨破35000美元/枚](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=FNU7aZpORL*1wT5eFMcIhbMdWMWh*unHMavBnFudsmAYxkanK9VS37ZZQ9bp1verH0G9EvZAaCRdS8UHYyDWgRTKmcDN4nssXBzW3K37nAYp8RN8D7kn6LHbfnPODgyL&new=1)
+ ## [不甘败选，又对这8款中国APP开刀!](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=Ug3RxJEKNtmBBE19-9gJJ7DWAvTNculTCstUgpaXx9p4lHjYTuckZPyBe24OFBCr9AhbekRrtI9377xsmIuXMAyy*MPq4y9uyMdJCEQK5w1ZP-NI-nHzdtL375cFm5Yq&new=1)
+ > E安全1月7日讯   据报道，即将卸任的美国总统特朗普签署了一项新的行政命令，这一次针对的是8款中国应用程序。其中包括支付宝、扫描摄像头、QQ钱包、SHAREit、腾讯QQ、VMate、微信支付、WPS Office。‍‍‍‍该...
+ ## [中金消费电子2021年展望：新十年周期的起点，中国企业将成为引领者](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=WMG3fvnp3Kl0SAJL9-qcKAKjKFNAtbnih9uZOnVUSEu-GsgbkCMGY8zuUXGaNSRY64p87auTKa3Uy0ds7U-CgTjzH0IAzgT*vAgZOFsC6O909IYmhnT-do9wnCDl4cg6&new=1)
+ > 我们认为电子行业下一个10年的周期正在开启，中国企业将成为引领者：1）5G、AI驱动下一代终端&amp;应用共同繁荣：从PC、NB到手机，电子行业呈现每10-15年一轮的周期，随着5G、AI应用深化，我们相信超高清视频、云ARV...
+ ## [2021 年，微软 Windows 的 ARM 转型终于能成了?](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=9Cham8q*M2XBLoBXQvI9lhBjbKXdwldogJyyFLV9gEiPsYRslbdXESMu*leyUuopbDLYam8piuvlzAGXxlMQjLLv3UI*0RTrmgtY9ODds7PdEW7F7VX3V73ndFi0DnRR&new=1)
+ > 作者丨leon ye邮箱丨yeliyan@pingwest.com来源丨人民数字与品玩联合出品苹果基于 ARM 架构的 M1 芯片大出风头，老对头微软也不甘示弱地加快了其自研 ARM 芯片的开发进度\[1\]；加之近期微软终于补足了 Windo
+ ## [探访：泰国制造业怎样使用中国3D打印机?](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=SfKmPigbDIrMoXTYhoUSittIz5vV-eg5gzXSK8WlUS1C1cue4gLnzC3moTMLmPgQd9b6PHOFj5TSjDnkecK*zkCe1DziscBsuG46F3-O3bnJ0o6VvIHdwYCv17F6GnY9&new=1)
+ > 南极熊导读：美国、中国、欧洲是当今3D打印领域的主要领导者。其它一些国家和地区，根据当地的产业特点，也开始重视3D打印技术的应用。大势之下，中国的3D打印机（特别是FDM熔融挤出的设备），已经走向全球，得...
+ ## [7点见|瑞幸郭谨一回应被“逼宫”；比特币涨破35000美元/枚](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=FNU7aZpORL*1wT5eFMcIhbMdWMWh*unHMavBnFudsmDNx5yeNCEzQCaBAzWabyI3HxigP1CDisgF*bO0QT8DC6yNZrHlnQ3xvUXpAWYSjU7RKk9g3PD7KQHe6r4JQ7Ke&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！比特币涨破35000美元/枚 续刷历史新高据Bitstamp平台报价显示，比特币涨破35000美元/枚，续刷历史新高。进入2021年，疯狂的比特币又创造历史，1月2日首次突破3万美元大...
- ## [数字孪生：企业数字化未来之门](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=OqQdncFryWkMuo0Eiin3P1*yPLhe*IdtSBdJemW3yxLZi6ZuVhhY*OUtMdbTwEAgEwxxxX9sYhb75VCeo7Z81zfL0sZYMpVsWKeWMNbjiGScmJswu1TkGL6nbB-ZVGgx&new=1)
- > 导读数字化车间是设备、网络、信息、自动化、精益管理与制造技术相互集成的表现，将生产车间打造成数字化的制造平台，通过改善车间的管理和生产制造各环节，最终实现快速的生产制造过程。生产车间在制造型企业中...
- ## [\[报告\]2020年中国汽车液晶仪表行业概览(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=uVq*Psc*MfqUVJhWLOqPuaowZ981bwKlyz1XDW2rNZL1k9VGB8xIuZsrgOqd3ZhjWCfdybgQEQbmA0VnrhryLzej4BjdZIyIVnWwlDKeHGRoqgn75udPixx8Pp1AaQRa&new=1)
+ ## [\[报告\]2020年中国汽车液晶仪表行业概览(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=uVq*Psc*MfqUVJhWLOqPuaowZ981bwKlyz1XDW2rNZJiZBFoD5aE6bGXtwYSSqs2OThoQ7wLCUxv5*OzylFO05Dj8KGlSoyIwfTxGp1gAVS99WSn*2EqJ3zjGqnGNIcl&new=1)
  > 汽车液晶仪表至少由一块显示屏构成、通过信息显示和报警等方式向驾驶者综合反映车辆状况的仪表总成。豪华车和新能源汽车向好带动中国汽车液晶仪表行业发展。此外，汽车电子化的发展推动汽车仪表向数字时代转换，...
- ## [钢铁行业如何做好“十四五”数字化转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=qRlFxvhpQ1JcGMDJWRy0VdyBAGvY*KfcQhWojqodwKosLU1wBxfHxIJ5T-fT1kyT*wbq*S6dYypvdSPwO4wBCmXx5p1qyXTvjZlwKhCtR*V2QZXVW4GuM-w0yFGxThGo&new=1)
+ ## [HR注意!人社部再次颁布4个新“国标”!这些知道吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=zM2X13OqnmUVbSRVWmKlztXP-4vlzHtjNgC*i642CnO*93vRdVfb2Cfcb8H6s90OS9D0RA04EGi*vN-gF-Dj9Un8DbAfAy3QOAGRNwHP0QGm*Nksrvv8ZlfbVKlSs1Pi&new=1)
+ > 近期，人力资源社会保障部分别与工业和信息化部、公安部联合颁布工业机器人系统操作员、网络与信息安全管理员等2个国家职业技能标准。此前，人力资源社会保障部制定颁布了物流服务师等18个国家职业技能标准。其...
+ ## [2021年，我依然在电信工作，请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=1fkMOaS09M6r9LmiBtzU*1u9u9OKXNZH3JKvFrKeeQIsz9yUz8tL9mvh42x6f5u-PSZB7cRekbFvNiE1-BN*BoZ1Vxt98UzedURVqvaCrFNwuoIFuxEiBPPBbSCtfNCB&new=1)
+ > 感谢2020年老用户的信任和托付。感谢2021年新客户的青睐和支持。满怀期待，每一位电信客户都值得我们尊重！2021年，我依然在电信工作！请放心找我！从事通信行业多年，只为更多朋友体验中国电信高品质网络服务。...
+ ## [数字孪生：企业数字化未来之门](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=OqQdncFryWkMuo0Eiin3P1*yPLhe*IdtSBdJemW3yxL4Hy5qUxOFY5TN1lxVsz7JoaEcIcusb-c3a5LU4jgJ0Uw7uNQjPOFEZXnrAo1KKNOr0cecUdRX7d*P5NmO9-R8&new=1)
+ > 导读数字化车间是设备、网络、信息、自动化、精益管理与制造技术相互集成的表现，将生产车间打造成数字化的制造平台，通过改善车间的管理和生产制造各环节，最终实现快速的生产制造过程。生产车间在制造型企业中...
+ ## [钢铁行业如何做好“十四五”数字化转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=qRlFxvhpQ1JcGMDJWRy0VdyBAGvY*KfcQhWojqodwKrS6MapaunMhr*0ORzCNyn7MRWLeoeaaCbEW5AAVbU8xjlcRMJkaxr5aDLv0LeB*hPtrPj2PdfmxPUB0wE6Un-7&new=1)
  > ——华为中国政企智能制造业务部钢铁行业首席专家 顾廷权近年来，以人工智能、5G、云计算、大数据等为代表的新技术迅猛发展。随着国家一系列鼓励产业转型升级的政策出台，各行各业都掀起了数字经济革命浪潮。实...
- ## [「芯片」概念大出圈的2020年，这十大芯片值得被记住](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=wpIjMYWt3RH2iDoLYlkv4eN4Kl*cDGdebVj4tctIbT8KVtePtp5HAaus1mCP*6CTDAu1aG82QSHh8CDk124cIHi1RM-v86*LOEP7l0RwoMBZHSS71FTaDjM5*ZMtctQf&new=1)
+ ## [「芯片」概念大出圈的2020年，这十大芯片值得被记住](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=wpIjMYWt3RH2iDoLYlkv4eN4Kl*cDGdebVj4tctIbT-zEzEMvrzax7sMxu4duuBVxY0gEIEC8h3VU-nFh7ryaQlKrH9y7Jk-IaSLVR0yeULineC6fAxgINAMaGcSi-Oj&new=1)
  > 2020年，是「芯片」概念大出圈的一年，这一年，几乎人人「谈芯」，从移动SoC到PC芯片，再到量子计算芯片，这种小小的元器件带给了科技界乃至全社会太多太多的话题与争论。在本文中，OFweek维科网为您盘点2020年...
- ## [高通公司宣布任命安蒙为候任首席执行官](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=s45NQT0SiSIvCXXKETe8BUAhwTcmm0l8JP3K-k162MpsfznMkeJRILDlPhZpN8fE8UxCaFmuVV2DA7EJ9bbbDdawUv-hufPJa1RI2i3*40gO402FaT8ztHQMRr*pLCTl&new=1)
+ ## [高通公司宣布任命安蒙为候任首席执行官](http://mp.weixin.qq.com/s?src=11&timestamp=1609992005&ver=2813&signature=s45NQT0SiSIvCXXKETe8BUAhwTcmm0l8JP3K-k162MqYt5Oh-8Isqqq4XyUUCOCMblrCJ5WW6jMn40Wep4zXt7nQINidWFp3Tf6OR55YeKUA8bvZLyC5CoYPuHhe2Bc-&new=1)
  > Qualcomm要闻—高通公司宣布任命安蒙为候任首席执行官，史蒂夫·莫伦科夫在公司工作26年之后，将从首席执行官一职退休高通公司今日宣布，公司董事会一致推选安蒙（Cristiano Amon）接替史蒂夫·莫伦科夫（Steve ...
 # IT 技术 
+ ## [不要让数据安全成为“盲盒”里的那只猫 -- 浅谈咨询业数据安全体系建设](http://netsecurity.51cto.com/art/202101/639327.htm)
+ > 不要让数据安全成为“盲盒”里的那只猫 -- 浅谈咨询业数据安全体系建设
+ ## [一文教你探测虚拟环境是物理机、虚拟机还是容器？](http://developer.51cto.com/art/202101/639465.htm)
+ > 一文教你探测虚拟环境是物理机、虚拟机还是容器？
  ## [医疗数字化转型：2021年的5个预测](http://www.cioage.com/art/202101/639326.htm)
  > 医疗数字化转型：2021年的5个预测
- ## [不要让数据安全成为“盲盒”里的那只猫 --浅谈咨询业数据安全体系建设](http://netsecurity.51cto.com/art/202101/639327.htm)
- > 不要让数据安全成为“盲盒”里的那只猫 --浅谈咨询业数据安全体系建设
+ ## [OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力](http://news.51cto.com/art/202101/639457.htm)
+ > OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力
+ ## [【鸿蒙基地】鸿蒙跨设备启动窗口：Page Ability](http://developer.51cto.com/art/202101/639251.htm)
+ > 【鸿蒙基地】鸿蒙跨设备启动窗口：Page Ability
  ## [迁移到Kubernetes对DevOps和DataOps有哪些好处](http://developer.51cto.com/art/202101/639325.htm)
  > 迁移到Kubernetes对DevOps和DataOps有哪些好处
- ## [十大超级融合基础设施（HCI）解决方案大比拼](http://developer.51cto.com/art/202101/639096.htm)
- > 十大超级融合基础设施（HCI）解决方案大比拼
- ## [首个双手控制脑机接口：开颅手术10小时植入6个电极，瘫痪人士用意念吃蛋糕](http://news.51cto.com/art/202101/639221.htm)
- > 首个双手控制脑机接口：开颅手术10小时植入6个电极，瘫痪人士用意念吃蛋糕
- ## [鸿蒙HarmonyOS开发Java并发-final关键字](http://developer.51cto.com/art/202101/638999.htm)
- > 鸿蒙HarmonyOS开发Java并发-final关键字
- ## [优化器怎么选？一文教你选择适合不同ML项目的优化器](http://news.51cto.com/art/202101/639059.htm)
- > 优化器怎么选？一文教你选择适合不同ML项目的优化器
- ## [Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02](http://fellow.51cto.com/art/202012/637238.htm?qd=51ctojrzd)
- > Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02
- ## [2020年网络安全事件回顾（国际篇）](http://netsecurity.51cto.com/art/202101/639460.htm)
- > 本文我们特别整理了2020年全球范围内比较突出的18起网络安全事件，一起来按时间顺序回顾一下。
- ## [OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力](http://news.51cto.com/art/202101/639457.htm)
- > OpenAI重磅推出了最新语言模型―DALL・E，它是GPT-3的120亿参数版本，可以魔法一般按照自然语言文字描述直
- ## [2021年将会成为主流的四个云计算技术](http://cloud.51cto.com/art/202101/639453.htm)
- > 尽管人们已经熟悉了云计算技术在IT公司中的重要性，但今年可能会出现新的市场需求。
- ## [数字化转型在2021年的6个主要趋势](http://www.cioage.com/art/202101/639452.htm)
- > 由于数字化转型为行业提供了无与伦比的机会，因此以下6种技术将改变整个不同行业的趋势。
- ## [SQL Server解惑――为什么ORDER BY改变了变量的字符串拼接结果](http://database.51cto.com/art/202101/639450.htm)
- > 简单来说，这样拼接字符串，虽然在语法上支持，但是却不能保证这样的结果正确性，聚合串联查询的行为是不确
- ## [深入考察解释型语言背后隐藏的攻击面，Part 2（四）](http://netsecurity.51cto.com/art/202101/639451.htm)
- > 在本文中，我们将深入地探讨，在通过外部函数接口(Foreign Function Interface，FFI)将基于C/C++的库“粘合
- ## [Christina问我：你都是如何设计索引的？](http://database.51cto.com/art/202101/639449.htm)
- > 数据库系列更新到现在我想大家对所有的概念都已有个大概认识了，这周我在看评论的时候我发现有个网友的提问
- ## [微服务模式下如何实现多模块并行构建发布](http://developer.51cto.com/art/202101/639447.htm)
- > 在微服务项目中具有很多个服务模块，为了便于管理需要将项目规范化，使用GitLabGroup管理整个项目，每个pro
- ## [资深首席架构师预测：2021年云计算的8个首要趋势](http://news.51cto.com/art/202101/639461.htm)
- > 由于媒体以及各类调查机构的数据宣传，我们很容易认为现在大部分企业都已经上云。但事实并非如此，正如AWS
- ## [Java中的深浅拷贝问题你清楚吗？](http://developer.51cto.com/art/202101/639445.htm)
- > 拷贝这个词想必大家都很熟悉，在工作中经常需要拷贝一份文件作为副本。拷贝的好处也很明显，相较于新建来说
+ ## [Windows 10文件恢复工具升级：恢复永久删除文件更简单](http://os.51cto.com/art/202101/639462.htm)
+ > Windows 10文件恢复工具升级：恢复永久删除文件更简单
+ ## [.NET软件开发――C语言基础视频课程](http://fellow.51cto.com/art/202012/638070.htm?qd=51ctojrzd)
+ > .NET软件开发――C语言基础视频课程
+ ## [COVID-19大流行正推动面部识别技术应用](http://ai.51cto.com/art/202101/639488.htm)
+ > 随着人脸识别技术投资的增加和创新的发展，我们看到人脸识别在某些用例（包括新用例）中的采用正在扩大。在
+ ## [刷脸时代  该如何护好我们的“面子”](http://ai.51cto.com/art/202101/639486.htm)
+ > 因不同意进动物园要刷脸，浙江理工大学特聘副教授、浙大法学博士郭兵，将杭州野生动物世界告上了法庭。此案
+ ## [封杀两年后，Github恢复伊朗开发者使用权！](http://developer.51cto.com/art/202101/639484.htm)
+ > 昨日，Github表示：由于美国制裁，对伊朗开发人员施加了平台限制之后，现在已经可以向伊朗的开发者们提供 G
+ ## [一篇文章带你弄懂Final关键字的相关知识](http://developer.51cto.com/art/202101/639483.htm)
+ > 当Cherry类继承Fruit类时，编译出现了“Unresolved compilation problem: The type Cherry cannot subclass
+ ## [日产公司源代码泄露](http://zhuanlan.51cto.com/art/202101/639482.htm)
+ > 传统机动车制造厂商近来麻烦不断，继去年本田遭遇勒索软件攻击、奔驰数据泄露、伊始川崎重工和日产公司又接
+ ## [后疫情时代，AIOps释放企业运维新活力](http://network.51cto.com/art/202101/639480.htm)
+ > 2020年注定是不平凡的一年，在新冠疫情的冲击下，几乎每个人的生活都或多或少被改变，企业的运维也不例外―
+ ## [还是老套路？认识运营商流量新政：实现薄利多销支撑下的收入增长](http://network.51cto.com/art/202101/639481.htm)
+ > 2020年的收入变化趋势显示，运营商的流量新政已经全面实施。今天我们试着用剥洋葱的方式带领大家一起认识运
+ ## [学习使用 Sed 文本编辑器](http://os.51cto.com/art/202101/639485.htm)
+ > sed 命令是为 AT&amp;T 最初的 Unix 操作系统第 7 版创建的，此后，可能每一个 Unix 和 Linux 操作系统都包含了
+ ## [数字化转型和发展混合云战略的优点](http://www.cioage.com/art/202101/639478.htm)
+ > 随着全球各国致力于应对疫情，科学界希望在最短的时间内开发出有效的疫苗。卫生部门正在加强诊断和测试冠状
+ ## [分布式存储助推新基建数据蓝海](http://stor.51cto.com/art/202101/639476.htm)
+ > 简单说，分布式存储就是一种数据存储技术，通过网络使用每台机器上的磁盘空间，并将这些分散的存储资源构成
  ## [c语言指针的有关总结](https://blog.csdn.net/jgdabc/article/details/108453145)
  > c语言指针的有关总结
  ## [Ubuntu16安装搜狗输入法报错：dpkg: 处理归档 sogoupinyin.deb (--install)时出错：安装 sogoupinyin 将破坏 fcitx-ui-qimpanel](https://blog.csdn.net/qq_42226250/article/details/109550976)
