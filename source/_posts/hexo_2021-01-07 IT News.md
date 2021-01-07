@@ -1,20 +1,26 @@
 ---
 title: 2021-01-07 IT News
 copyright: true
-date: 2021-01-07 09:02:27
+date: 2021-01-07 10:02:23
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021年，我依然在电信工作，请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=1fkMOaS09M6r9LmiBtzU*1u9u9OKXNZH3JKvFrKeeQLQIhYDPj3ekx-qTIamRnnXMGBsMe5CK99nOvXpSu20KBH514Oc6DWBTZJUVTH4TyfDL9i5iEVYylufFC0X921V&new=1)
+ ## [2021年，我依然在电信工作，请放心找我!](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=1fkMOaS09M6r9LmiBtzU*1u9u9OKXNZH3JKvFrKeeQLQIhYDPj3ekx-qTIamRnnXnlDwIemWIyzX1uQoqWLZH*vEmRdaGNYO-n6DhS07*dGlyMG0UhzRwGwhmKxFeuJG&new=1)
  > 感谢2020年老用户的信任和托付。感谢2021年新客户的青睐和支持。满怀期待，每一位电信客户都值得我们尊重！2021年，我依然在电信工作！请放心找我！从事通信行业多年，只为更多朋友体验中国电信高品质网络服务。...
- ## [钢铁行业如何做好“十四五”数字化转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=qRlFxvhpQ1JcGMDJWRy0VdyBAGvY*KfcQhWojqodwKosLU1wBxfHxIJ5T-fT1kyTJnSBjNvAmmr2vMh7WwMnZ9xP4usR1iHF90Qy77D12VKCHnu3*0xQUWP6lUM6eUCz&new=1)
- > ——华为中国政企智能制造业务部钢铁行业首席专家 顾廷权近年来，以人工智能、5G、云计算、大数据等为代表的新技术迅猛发展。随着国家一系列鼓励产业转型升级的政策出台，各行各业都掀起了数字经济革命浪潮。实...
- ## [数字孪生：企业数字化未来之门](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=OqQdncFryWkMuo0Eiin3P1*yPLhe*IdtSBdJemW3yxLZi6ZuVhhY*OUtMdbTwEAgonixAEvXMoGGlLkUGIoseVc6u7SJJV9Ru0PDSPHxUg9CBBaFpf*h8CwTaDyAQEi3&new=1)
+ ## [HR注意!人社部再次颁布4个新“国标”!这些知道吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=zM2X13OqnmUVbSRVWmKlztXP-4vlzHtjNgC*i642CnPpjyxn1n4XrJ*Qb3SfA9a2nlALq-kaOCPwCZadwYVdna*A3yw0CF8OghgynUwgKBFBdNKPwr52yuPoLCITbLFN&new=1)
+ > 近期，人力资源社会保障部分别与工业和信息化部、公安部联合颁布工业机器人系统操作员、网络与信息安全管理员等2个国家职业技能标准。此前，人力资源社会保障部制定颁布了物流服务师等18个国家职业技能标准。其...
+ ## [7点见|瑞幸郭谨一回应被“逼宫”；比特币涨破35000美元/枚](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=FNU7aZpORL*1wT5eFMcIhbMdWMWh*unHMavBnFudsmAYxkanK9VS37ZZQ9bp1verH0G9EvZAaCRdS8UHYyDWgRTKmcDN4nssXBzW3K37nAYp8RN8D7kn6LHbfnPODgyL&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！比特币涨破35000美元/枚 续刷历史新高据Bitstamp平台报价显示，比特币涨破35000美元/枚，续刷历史新高。进入2021年，疯狂的比特币又创造历史，1月2日首次突破3万美元大...
+ ## [数字孪生：企业数字化未来之门](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=OqQdncFryWkMuo0Eiin3P1*yPLhe*IdtSBdJemW3yxLZi6ZuVhhY*OUtMdbTwEAgEwxxxX9sYhb75VCeo7Z81zfL0sZYMpVsWKeWMNbjiGScmJswu1TkGL6nbB-ZVGgx&new=1)
  > 导读数字化车间是设备、网络、信息、自动化、精益管理与制造技术相互集成的表现，将生产车间打造成数字化的制造平台，通过改善车间的管理和生产制造各环节，最终实现快速的生产制造过程。生产车间在制造型企业中...
- ## [「芯片」概念大出圈的2020年，这十大芯片值得被记住](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=wpIjMYWt3RH2iDoLYlkv4eN4Kl*cDGdebVj4tctIbT8KVtePtp5HAaus1mCP*6CTrCN0iVXjDzH3JxW1B1EX-VoGOyeqEyaSzjOx75lthdxahsnPU3oIcXNBPsSdZfmA&new=1)
+ ## [\[报告\]2020年中国汽车液晶仪表行业概览(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=uVq*Psc*MfqUVJhWLOqPuaowZ981bwKlyz1XDW2rNZL1k9VGB8xIuZsrgOqd3ZhjWCfdybgQEQbmA0VnrhryLzej4BjdZIyIVnWwlDKeHGRoqgn75udPixx8Pp1AaQRa&new=1)
+ > 汽车液晶仪表至少由一块显示屏构成、通过信息显示和报警等方式向驾驶者综合反映车辆状况的仪表总成。豪华车和新能源汽车向好带动中国汽车液晶仪表行业发展。此外，汽车电子化的发展推动汽车仪表向数字时代转换，...
+ ## [钢铁行业如何做好“十四五”数字化转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=qRlFxvhpQ1JcGMDJWRy0VdyBAGvY*KfcQhWojqodwKosLU1wBxfHxIJ5T-fT1kyT*wbq*S6dYypvdSPwO4wBCmXx5p1qyXTvjZlwKhCtR*V2QZXVW4GuM-w0yFGxThGo&new=1)
+ > ——华为中国政企智能制造业务部钢铁行业首席专家 顾廷权近年来，以人工智能、5G、云计算、大数据等为代表的新技术迅猛发展。随着国家一系列鼓励产业转型升级的政策出台，各行各业都掀起了数字经济革命浪潮。实...
+ ## [「芯片」概念大出圈的2020年，这十大芯片值得被记住](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=wpIjMYWt3RH2iDoLYlkv4eN4Kl*cDGdebVj4tctIbT8KVtePtp5HAaus1mCP*6CTDAu1aG82QSHh8CDk124cIHi1RM-v86*LOEP7l0RwoMBZHSS71FTaDjM5*ZMtctQf&new=1)
  > 2020年，是「芯片」概念大出圈的一年，这一年，几乎人人「谈芯」，从移动SoC到PC芯片，再到量子计算芯片，这种小小的元器件带给了科技界乃至全社会太多太多的话题与争论。在本文中，OFweek维科网为您盘点2020年...
- ## [高通公司宣布任命安蒙为候任首席执行官](http://mp.weixin.qq.com/s?src=11&timestamp=1609981204&ver=2813&signature=s45NQT0SiSIvCXXKETe8BUAhwTcmm0l8JP3K-k162MpsfznMkeJRILDlPhZpN8fEuIBW2VrvzdAh7Ej6W98MWCPZfjAZseeexts88RoDQoRgH2niBkl54HBu68cEAUpk&new=1)
+ ## [高通公司宣布任命安蒙为候任首席执行官](http://mp.weixin.qq.com/s?src=11&timestamp=1609984804&ver=2813&signature=s45NQT0SiSIvCXXKETe8BUAhwTcmm0l8JP3K-k162MpsfznMkeJRILDlPhZpN8fE8UxCaFmuVV2DA7EJ9bbbDdawUv-hufPJa1RI2i3*40gO402FaT8ztHQMRr*pLCTl&new=1)
  > Qualcomm要闻—高通公司宣布任命安蒙为候任首席执行官，史蒂夫·莫伦科夫在公司工作26年之后，将从首席执行官一职退休高通公司今日宣布，公司董事会一致推选安蒙（Cristiano Amon）接替史蒂夫·莫伦科夫（Steve ...
 # IT 技术 
  ## [医疗数字化转型：2021年的5个预测](http://www.cioage.com/art/202101/639326.htm)
@@ -31,28 +37,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS开发Java并发-final关键字
  ## [优化器怎么选？一文教你选择适合不同ML项目的优化器](http://news.51cto.com/art/202101/639059.htm)
  > 优化器怎么选？一文教你选择适合不同ML项目的优化器
- ## [ThinkPHP5标准视频教程（第四部：数据访问篇\[下\]）（七日成蝶）](http://fellow.51cto.com/art/202012/636699.htm?qd=51ctojrzd)
- > ThinkPHP5标准视频教程（第四部：数据访问篇\[下\]）（七日成蝶）
+ ## [Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02](http://fellow.51cto.com/art/202012/637238.htm?qd=51ctojrzd)
+ > Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02
+ ## [2020年网络安全事件回顾（国际篇）](http://netsecurity.51cto.com/art/202101/639460.htm)
+ > 本文我们特别整理了2020年全球范围内比较突出的18起网络安全事件，一起来按时间顺序回顾一下。
+ ## [OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力](http://news.51cto.com/art/202101/639457.htm)
+ > OpenAI重磅推出了最新语言模型―DALL・E，它是GPT-3的120亿参数版本，可以魔法一般按照自然语言文字描述直
+ ## [2021年将会成为主流的四个云计算技术](http://cloud.51cto.com/art/202101/639453.htm)
+ > 尽管人们已经熟悉了云计算技术在IT公司中的重要性，但今年可能会出现新的市场需求。
+ ## [数字化转型在2021年的6个主要趋势](http://www.cioage.com/art/202101/639452.htm)
+ > 由于数字化转型为行业提供了无与伦比的机会，因此以下6种技术将改变整个不同行业的趋势。
+ ## [SQL Server解惑――为什么ORDER BY改变了变量的字符串拼接结果](http://database.51cto.com/art/202101/639450.htm)
+ > 简单来说，这样拼接字符串，虽然在语法上支持，但是却不能保证这样的结果正确性，聚合串联查询的行为是不确
+ ## [深入考察解释型语言背后隐藏的攻击面，Part 2（四）](http://netsecurity.51cto.com/art/202101/639451.htm)
+ > 在本文中，我们将深入地探讨，在通过外部函数接口(Foreign Function Interface，FFI)将基于C/C++的库“粘合
+ ## [Christina问我：你都是如何设计索引的？](http://database.51cto.com/art/202101/639449.htm)
+ > 数据库系列更新到现在我想大家对所有的概念都已有个大概认识了，这周我在看评论的时候我发现有个网友的提问
  ## [微服务模式下如何实现多模块并行构建发布](http://developer.51cto.com/art/202101/639447.htm)
  > 在微服务项目中具有很多个服务模块，为了便于管理需要将项目规范化，使用GitLabGroup管理整个项目，每个pro
- ## [详解数据结构二叉树及其代码实现](http://developer.51cto.com/art/202101/639446.htm)
- > 树是一种非常重要的非线性结构，本身具有递归的性质(在其后的编程中体现的淋漓尽致)。
- ## [聊聊JavaScript内存管理](http://stor.51cto.com/art/202101/639438.htm)
- > 大多数时候，我们在不了解有关内存管理的知识下也只开发，因为 JS 引擎会为我们处理这个问题。不过，有时候
- ## [探究网页资源究竟是如何阻塞浏览器加载的](http://os.51cto.com/art/202101/639442.htm)
- > 一个页面允许加载的外部资源有很多，常见的有脚本、样式、字体、图片和视频等，对于这些外部资源究竟是如何
- ## [炸！使用 MyBatis 查询千万数据量？](http://database.51cto.com/art/202101/639437.htm)
- > 由于现在 ORM 框架的成熟运用，很多小伙伴对于 JDBC 的概念有些薄弱，ORM 框架底层其实是通过 JDBC 操作的
- ## [Windows 10任务栏将迎大更新：时不时弹窗、提高Edge使用率](http://os.51cto.com/art/202101/639436.htm)
- > 据外媒报道称，微软即将对Windows 10的任务进行大更新，而目前已经测试的结果显示，其将允许Windows 10用户
- ## [如何在 ASP.Net Core 中使用 Swagger](http://developer.51cto.com/art/202101/639434.htm)
- > 大家在开发完 webapi 后，经常为了方便接口双方对接，需要将 webapi 接口文档化，那有没有什么快捷可交互
- ## [面试官：来说说Tomcat的启动过程是什么样子的](http://server.51cto.com/sOS-639433.htm)
- > 阿粉最近在疯狂的研究各种用的工具里面的源码实现，之前给大家都专门的去扣了一下 JDK 里面自带的exe程序，
- ## [2021年，学习JavaScript一定要读这4本书](http://developer.51cto.com/art/202101/639432.htm)
- > 在本文中，我们将和大家推荐一些对开发人员有用的JavaScript书籍列表，希望对你们有所帮助。
- ## [Python 中的 EAFP 和 LBYL 代码风格到底是什么？](http://developer.51cto.com/art/202101/639431.htm)
- > EAFP虽然是 Python 比较推荐的一种编码风格，但更多情况下，这两种风格会同时存在于你的代码中代码风格的目
+ ## [资深首席架构师预测：2021年云计算的8个首要趋势](http://news.51cto.com/art/202101/639461.htm)
+ > 由于媒体以及各类调查机构的数据宣传，我们很容易认为现在大部分企业都已经上云。但事实并非如此，正如AWS
+ ## [Java中的深浅拷贝问题你清楚吗？](http://developer.51cto.com/art/202101/639445.htm)
+ > 拷贝这个词想必大家都很熟悉，在工作中经常需要拷贝一份文件作为副本。拷贝的好处也很明显，相较于新建来说
  ## [c语言指针的有关总结](https://blog.csdn.net/jgdabc/article/details/108453145)
  > c语言指针的有关总结
  ## [Ubuntu16安装搜狗输入法报错：dpkg: 处理归档 sogoupinyin.deb (--install)时出错：安装 sogoupinyin 将破坏 fcitx-ui-qimpanel](https://blog.csdn.net/qq_42226250/article/details/109550976)
