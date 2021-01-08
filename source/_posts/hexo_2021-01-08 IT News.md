@@ -1,22 +1,26 @@
 ---
 title: 2021-01-08 IT News
 copyright: true
-date: 2021-01-08 08:16:42
+date: 2021-01-08 09:05:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [半导体产业的2020年，硝烟弥漫，刀光剑影中，沉淀下这十大关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1610064004&ver=2815&signature=gh09kqyvWsE80Vo4-Nb10Phs9qNxfwZfgq188zKhVPEY2kceA1MuNwCv0bEWus0icqYtkBtth8Jz-zvgMEjji1vn4uU3NiEW2eLU1j4rNdqKnhqjO9-KZKpXjzQ5lij4&new=1)
+ ## [半导体产业的2020年，硝烟弥漫，刀光剑影中，沉淀下这十大关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=gh09kqyvWsE80Vo4-Nb10Phs9qNxfwZfgq188zKhVPEY2kceA1MuNwCv0bEWus0ihAD6re9HVSI0m3OIiEU8wqX4f3K3VPJNWGbnYDQ5cWQ7Wk8TDm50gcFgo*G*UuuE&new=1)
  > 回望逝去的2020年，疫情笼罩下的世界充满了「意外」。这一年里，我们邂逅了许多只黑天鹅，也无数次见证历史。疫情对全球半导体产业影响颇大，从停工停产到复工复产，从芯片需求暴涨到缺货涨价，从「实体清单」卡...
- ## [网络自动化，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1610064004&ver=2815&signature=ce8v8PY2Zjz7b-BPMhyTE61E4MwS-FQ-kQAVALQCY0hQ-dp27ZjyK3phjnFPAYGc1RqIYYVd3QRCpXw9h1aI1DPNFSo18QoXOxY98efICIPpGCUHqfsNuiYCL6Gp2z4R&new=1)
- > 前段时间看到某运营商的运维发展预测，指出未来运维人员结构将发生巨大变化。随着网络云化和基于AI的自动化技术发展，软件支撑型人才占比将从2/3/4G时代的30%提升到70%，现场支撑人才（比如网络监控）占比将从20...
- ## [盘点2020年激光行业十大投产/启用事件 杰普特/大科/通快/奔腾等有何动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1610064004&ver=2815&signature=auAwFDgyChuRVz4ZGZ8Gw4sXXUXwVeHC55r18E*yyjUH7FGHb62m7JPohPlongZM5AyjozxrJ-kLOqdDdEYROsLup9noT-6QdA-VNLwCwA0XW90mBKyqMI9*Ez2GYLIn&new=1)
- > 2020年初，新冠肺炎给国内各行各业发展造成一定冲击，激光行业也在今年一季度达到了低谷。但在4月疫情得到控制后，我国经济快速复苏，激光行业也回到了发展轨道。二季度后，我国激光企业版图不断扩展，许多新基...
- ## [2025年中国大陆芯片市场规模将达2230亿美元，但自给率仍不到20%?](http://mp.weixin.qq.com/s?src=11&timestamp=1610064004&ver=2815&signature=7ph4gC5Q6BdqJKAjYdJF*PElVa6C-kisaN2cgm4JaPVE6*azqbcD9zF4YJsH9tG1d-IVjvimln0SgCz8gq*nxGVnBdWN0d5tEv4*skFrshHVOz2-oa9M4lAnRhqacq44&new=1)
+ ## [|观点|2021年数字医疗技术与聊天机器人发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=ZPwtjRsg9fcjk7ik-LcWrJRYT0qTaNHWxkvt9bQFN*qLFHNvYCU9ce6H*AVYcdAgNWk1Hu4oWna7YyUIYaxNj2V7WiKt1PcD0uGBQmgi2vovyC8wG0LhC0jaw06twAGG&new=1)
+ > 在2021年，聊天AI机器人从自然语音识别技术应用，到全面市场化布局将蓬勃展开，预计5年内市场规模从48亿美元飙升至139亿美元。这仅仅是数字医疗单一技术产品的发展势态。根据Gartner研究报告显示，到今年底，至...
+ ## [2025年中国大陆芯片市场规模将达2230亿美元，但自给率仍不到20%?](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=7ph4gC5Q6BdqJKAjYdJF*PElVa6C-kisaN2cgm4JaPVE6*azqbcD9zF4YJsH9tG1jzM7QUubhtJEnz5guMq5RL-MdnylhSUQAflcENdvNrnv771*L-A595GJJgS0XryO&new=1)
  > 1月7日消息，半导体行业研究机构IC Insight昨日发布了最新的研究报告称，中国原本期望在2025年实现半导体芯片自给率达到70%，但按照目前发展情况来看，到2025年可能最多只能达到20%，远远落后于目标。IC Insight...
- ## [模拟湿度、气压影响，VRM打造了一款逼真的VR网球模拟应用](http://mp.weixin.qq.com/s?src=11&timestamp=1610064004&ver=2815&signature=wzG0gxjjiuQyoiZPb5ct2zI1B-Vpzs5V0PccCZCiKOTJn*IM0NNIoEYbmi-a*NW*J8xzldxALwKEJqLa9gj6H1y60ugBJ9Kr896PjErHOzS4kqUW3*3fS0fj-wjqhVtJ&new=1)
+ ## [网络自动化，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=ce8v8PY2Zjz7b-BPMhyTE61E4MwS-FQ-kQAVALQCY0hQ-dp27ZjyK3phjnFPAYGceLD-nRz7f*3ZgisSKM1eROa5s7VcUZHCmCO93KyBASG2NJ8OhggbWeSnlcfknXEE&new=1)
+ > 前段时间看到某运营商的运维发展预测，指出未来运维人员结构将发生巨大变化。随着网络云化和基于AI的自动化技术发展，软件支撑型人才占比将从2/3/4G时代的30%提升到70%，现场支撑人才（比如网络监控）占比将从20...
+ ## [模拟湿度、气压影响，VRM打造了一款逼真的VR网球模拟应用](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=wzG0gxjjiuQyoiZPb5ct2zI1B-Vpzs5V0PccCZCiKOTJn*IM0NNIoEYbmi-a*NW*TbL0QxakNz1TXiH5rwZnEMWVTdRujtKuNM33R3XjPZDIwL77yVW0tguJN4KMfEYf&new=1)
  > Esther｜编辑模拟运动训练或健身一直是VR的重要用途之一，早在任天堂在1995年发布的首款VR设备Virtual Boy的时候就已经出现《马里奥网球》这样的模拟游戏。此外，VR还可以用于足球训练、橄榄球训练、滑雪训练，...
+ ## [盘点2020年激光行业十大投产/启用事件 杰普特/大科/通快/奔腾等有何动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=auAwFDgyChuRVz4ZGZ8Gw4sXXUXwVeHC55r18E*yyjUH7FGHb62m7JPohPlongZMMW0eUBlI4fPjrt*B47dplSFQ23s0Kv6CM5mM0RgOWbRHWlXw7V6MYf7UA8t7u98D&new=1)
+ > 2020年初，新冠肺炎给国内各行各业发展造成一定冲击，激光行业也在今年一季度达到了低谷。但在4月疫情得到控制后，我国经济快速复苏，激光行业也回到了发展轨道。二季度后，我国激光企业版图不断扩展，许多新基...
 # IT 技术 
+ ## [比较9款代码质量工具，看看哪款更好用](http://developer.51cto.com/art/202101/639549.htm)
+ > 比较9款代码质量工具，看看哪款更好用
  ## [2021年需要关注的10个IT趋势](http://www.cioage.com/art/202101/639548.htm)
  > 2021年需要关注的10个IT趋势
  ## [不要让数据安全成为“盲盒”里的那只猫 -- 浅谈咨询业数据安全体系建设](http://netsecurity.51cto.com/art/202101/639327.htm)
@@ -29,30 +33,28 @@ categories: IT NEWS
  > OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力
  ## [【鸿蒙基地】鸿蒙跨设备启动窗口：Page Ability](http://developer.51cto.com/art/202101/639251.htm)
  > 【鸿蒙基地】鸿蒙跨设备启动窗口：Page Ability
- ## [迁移到Kubernetes对DevOps和DataOps有哪些好处](http://developer.51cto.com/art/202101/639325.htm)
- > 迁移到Kubernetes对DevOps和DataOps有哪些好处
- ## [ThinkPHP5标准视频教程（第四部：数据访问篇\[下\]）（七日成蝶）](http://fellow.51cto.com/art/202012/636699.htm?qd=51ctojrzd)
- > ThinkPHP5标准视频教程（第四部：数据访问篇\[下\]）（七日成蝶）
- ## [团队里的妹子让阿粉跟她说说怎样写出好的代码](http://developer.51cto.com/art/202101/639657.htm)
- > 代码是写给人看的，不是写给机器看的。你想嘛，如果想要让机器看，直接写 0110001 这种编码方式不香吗!毕竟
- ## [微软 Windows10全新邮件应用初体验：One Outlook，体积小，专为大屏幕设计](http://os.51cto.com/art/202101/639656.htm)
- > 1月8日消息 外媒 Windows Latest 报道，此前消息称，微软正在为 Windows 10 和 macOS 开发一款新的电子邮件
- ## [Linux用户空间与内核地址空间详解](http://os.51cto.com/art/202101/639654.htm)
- > Linux 操作系统和驱动程序运行在内核空间，应用程序运行在用户空间，两者不能简单地使用指针传递数据，因为
- ## [5G商用已至，芯片市场迎来新发展机遇](http://server.51cto.com/CPU-639653.htm)
- > 万物互联的未来，在几年前看起来还显得有点像科幻小说，而如今就在我们眼前。智能家居、联网汽车、每秒共享
- ## [MySQL不会丢失数据的秘密，就藏在它的 7种日志里](http://database.51cto.com/art/202101/639652.htm)
- > 我们要知道MySQL的服务器层是不管理事务的，事务是由存储引擎实现的，而MySQL中支持事务的存储引擎又属Inno
- ## [996是互联网“打工人”的宿命？](http://news.51cto.com/art/202101/639651.htm)
- > 19 世纪 80 年代，马萨诸塞州一个鞋厂的监工曾说过：“让一个身强力壮体格健全的18岁小伙子，在这里的任何
- ## [深渊之刃-Greenplum数据库之拉链表的实现](http://database.51cto.com/art/202101/639650.htm)
- > 历史拉链表是一种数据模型，主要是针对数据仓库设计中表存储数据的方式而定义的;顾名思义，所谓历史拉链表
- ## [20 行代码：Serverless 架构下用 Python 轻松搞定图像分类和预测](http://server.51cto.com/sOS-639649.htm)
- > 图像分类是人工智能领域的一个热门话题。通俗解释就是，根据各自在图像信息中所反映的不同特征，把不同类别
- ## [图文理解 Spark 3.0 的动态分区裁剪优化](http://bigdata.51cto.com/art/202101/639648.htm)
- > Spark 3.0 为我们带来了许多令人期待的特性。动态分区裁剪(dynamic partition pruning)就是其中之一。本文
- ## [你的Springboot应用到底启动了哪些bean？这两种方式可以帮你获取](http://developer.51cto.com/art/202101/639647.htm)
- > 在本文中，我们将探索在容器中获取所有spring管理的bean的相关技术。这有神马用?主要是用于排查问题。一般
+ ## [Oracle重做日志管理与深入解析_Oracle视频教程_基础深入与核心技术09](http://fellow.51cto.com/art/202012/637145.htm?qd=51ctojrzd)
+ > Oracle重做日志管理与深入解析_Oracle视频教程_基础深入与核心技术09
+ ## [Saltstack批量管理文件和计划任务](http://os.51cto.com/art/202101/639674.htm)
+ > saltstack是由thomas Hatch于创建的一个开源项目，设计初衷是为了实现一个快速的远程执行系统。用来管理你
+ ## [浅说Synchronized的底层实现原理](http://developer.51cto.com/art/202101/639673.htm)
+ > synchronized关键字用来保证在同一时刻只有一个线程可以执行被它修饰的变量或者代码块。
+ ## [转型中的制造业成网络攻击主要受害者](http://netsecurity.51cto.com/art/202101/639670.htm)
+ > 2020年，制造企业遭受到的网络攻击威胁比以往任何时候都要多。网络犯罪组织和国家级攻击组织为窃取知识产权
+ ## [群消息已读回执（这个），究竟是推还是拉？](http://zhuanlan.51cto.com/art/202101/639668.htm)
+ > 群消息的流程如何，接收方如何确保收到群消息，发送方如何收已读回执，究竟是拉取，还是推送，是今天要聊的
+ ## [系统中的大管家―SystemServer进程](http://mobile.51cto.com/android-639666.htm)
+ > 这个进程负责启动和管理JavaFramework层，也就是提供了框架层的很多服务，比如我们熟知的AMS，PMS，WMS，还
+ ## [从0到1部署一套TiDB本地集群](http://database.51cto.com/art/202101/639665.htm)
+ > TiDB 是 PingCAP 公司自主设计、研发的开源分布式关系型数据库，是一款同时支持在线事务处理与在线分析处理
+ ## [MySQL表空间回收的正确姿势](http://database.51cto.com/art/202101/639664.htm)
+ > 为了缩小磁盘上表数据文件占用的空间，我们在最大的一张业务表中用delete命令删除了一半儿的旧数据，删除之
+ ## [详解容器部署ELK7.10，适用于生产](http://developer.51cto.com/art/202101/639669.htm)
+ > 本篇给大家介绍容器部署ELK7.10，适用于生产，希望对你有所帮助。
+ ## [如何让Shell脚本变成可执行文件](http://netsecurity.51cto.com/art/202101/639663.htm)
+ > 在本教程中介绍创建bash脚本并使用chmod命令使脚本可执行，无需脚本前面加上sh或bash命令就可以运行它。
+ ## [学习JavaScript之路必看的7本书](http://developer.51cto.com/art/202101/639662.htm)
+ > 读书益处多，这是大家从小就知道的事情。以下推荐7本书籍，帮助你从多角度去学习和领悟JavaScript，不要好
  ## [Spring Boot qq邮箱验证码注册和登录验证](https://blog.csdn.net/qq_42524288/article/details/110749086)
  > 
  ## [综述---图像处理中的注意力机制](https://blog.csdn.net/xys430381_1/article/details/89323444)
