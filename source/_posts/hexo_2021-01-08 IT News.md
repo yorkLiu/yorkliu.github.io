@@ -1,24 +1,30 @@
 ---
 title: 2021-01-08 IT News
 copyright: true
-date: 2021-01-08 09:05:07
+date: 2021-01-08 10:01:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [半导体产业的2020年，硝烟弥漫，刀光剑影中，沉淀下这十大关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=gh09kqyvWsE80Vo4-Nb10Phs9qNxfwZfgq188zKhVPEY2kceA1MuNwCv0bEWus0ihAD6re9HVSI0m3OIiEU8wqX4f3K3VPJNWGbnYDQ5cWQ7Wk8TDm50gcFgo*G*UuuE&new=1)
- > 回望逝去的2020年，疫情笼罩下的世界充满了「意外」。这一年里，我们邂逅了许多只黑天鹅，也无数次见证历史。疫情对全球半导体产业影响颇大，从停工停产到复工复产，从芯片需求暴涨到缺货涨价，从「实体清单」卡...
- ## [|观点|2021年数字医疗技术与聊天机器人发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=ZPwtjRsg9fcjk7ik-LcWrJRYT0qTaNHWxkvt9bQFN*qLFHNvYCU9ce6H*AVYcdAgNWk1Hu4oWna7YyUIYaxNj2V7WiKt1PcD0uGBQmgi2vovyC8wG0LhC0jaw06twAGG&new=1)
+ ## [|观点|2021年数字医疗技术与聊天机器人发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=ZPwtjRsg9fcjk7ik-LcWrJRYT0qTaNHWxkvt9bQFN*oMSE*B-KkE6N9*NEgeUbd3LQqI4tdh8KewFSHI8K7cQ1107nYN6CabpFo5uYHTmmWDIXOlKrmICeTJVsizNcfl&new=1)
  > 在2021年，聊天AI机器人从自然语音识别技术应用，到全面市场化布局将蓬勃展开，预计5年内市场规模从48亿美元飙升至139亿美元。这仅仅是数字医疗单一技术产品的发展势态。根据Gartner研究报告显示，到今年底，至...
- ## [2025年中国大陆芯片市场规模将达2230亿美元，但自给率仍不到20%?](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=7ph4gC5Q6BdqJKAjYdJF*PElVa6C-kisaN2cgm4JaPVE6*azqbcD9zF4YJsH9tG1jzM7QUubhtJEnz5guMq5RL-MdnylhSUQAflcENdvNrnv771*L-A595GJJgS0XryO&new=1)
- > 1月7日消息，半导体行业研究机构IC Insight昨日发布了最新的研究报告称，中国原本期望在2025年实现半导体芯片自给率达到70%，但按照目前发展情况来看，到2025年可能最多只能达到20%，远远落后于目标。IC Insight...
- ## [网络自动化，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=ce8v8PY2Zjz7b-BPMhyTE61E4MwS-FQ-kQAVALQCY0hQ-dp27ZjyK3phjnFPAYGceLD-nRz7f*3ZgisSKM1eROa5s7VcUZHCmCO93KyBASG2NJ8OhggbWeSnlcfknXEE&new=1)
- > 前段时间看到某运营商的运维发展预测，指出未来运维人员结构将发生巨大变化。随着网络云化和基于AI的自动化技术发展，软件支撑型人才占比将从2/3/4G时代的30%提升到70%，现场支撑人才（比如网络监控）占比将从20...
- ## [模拟湿度、气压影响，VRM打造了一款逼真的VR网球模拟应用](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=wzG0gxjjiuQyoiZPb5ct2zI1B-Vpzs5V0PccCZCiKOTJn*IM0NNIoEYbmi-a*NW*TbL0QxakNz1TXiH5rwZnEMWVTdRujtKuNM33R3XjPZDIwL77yVW0tguJN4KMfEYf&new=1)
+ ## [模拟湿度、气压影响，VRM打造了一款逼真的VR网球模拟应用](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=wzG0gxjjiuQyoiZPb5ct2zI1B-Vpzs5V0PccCZCiKORR7TcTxYDqka*IOnPbGECgwNWCHWPqHekoOyczLIMekBpA4mGJCPtDSqO*zJMZMUaUQsvV7QcE-tVnlYJ6o3-3&new=1)
  > Esther｜编辑模拟运动训练或健身一直是VR的重要用途之一，早在任天堂在1995年发布的首款VR设备Virtual Boy的时候就已经出现《马里奥网球》这样的模拟游戏。此外，VR还可以用于足球训练、橄榄球训练、滑雪训练，...
- ## [盘点2020年激光行业十大投产/启用事件 杰普特/大科/通快/奔腾等有何动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1610067604&ver=2815&signature=auAwFDgyChuRVz4ZGZ8Gw4sXXUXwVeHC55r18E*yyjUH7FGHb62m7JPohPlongZMMW0eUBlI4fPjrt*B47dplSFQ23s0Kv6CM5mM0RgOWbRHWlXw7V6MYf7UA8t7u98D&new=1)
+ ## [冲击中国激光雷达第一股!禾赛科技IPO六大要点，百度持股7.88%](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=1m-tUCUvZJAnRZMjx4qP4OTguR6pOQ46l4M7OE0WztTOE8KQo3eOj3B3t0Ikda8PmeIMun1KAjPs3CBxFVkqtlZg41TtkswkkcGWAaj7VbHMkO02nt10TK9DdwPRNIai&new=1)
+ > 激光雷达是怎样一门生意？看看禾赛招股书就知道。作者 | 六毛编辑 | 晓寒车东西1月8日消息，就在昨日晚间，上交所披露了国内激光雷达创企禾赛科技的招股说明书（申报稿）。由此，禾赛科技正式成为国内首家发布招...
+ ## [网络自动化，你准备好了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=ce8v8PY2Zjz7b-BPMhyTE61E4MwS-FQ-kQAVALQCY0gj8a8LooxIlzfpxjZG0S0jty2shUNUvIOLzFR5G8I1Eq3j7JNk5lqeDIY7buI64LUFIie35RCdUoOBUT5-JdbR&new=1)
+ > 前段时间看到某运营商的运维发展预测，指出未来运维人员结构将发生巨大变化。随着网络云化和基于AI的自动化技术发展，软件支撑型人才占比将从2/3/4G时代的30%提升到70%，现场支撑人才（比如网络监控）占比将从20...
+ ## [喜迎新会员安力光电(Amonics)：专注光学放大器和光源集成解决方案提供商](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=Gl3Wy2dguM*PP5Pzv5Mtb3J54UIg3KM2OGJywbrivxFDaEHanZxYiF3NuVdkdHXv2IAD6jOYKhODX-aYW*rKsmiU6QVnI3GDEUYxVTR78de3ce*pK6zLx*p3-qG3aq14&new=1)
+ > 新 闻 导 读安力光电有限公司(Amonics)加入讯石会员，作为光学放大器和光源设计和生产的国际领先专家，公司产品包括一系列特殊的光放大器和激光器，公司将在讯石平台上与光通信客户广泛展开交流与合作！ICC讯 20...
+ ## [半导体产业的2020年，硝烟弥漫，刀光剑影中，沉淀下这十大关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=gh09kqyvWsE80Vo4-Nb10Phs9qNxfwZfgq188zKhVPEvpJwGvnS*VHhuZuyt09*W*F2kVH5DCpc1xHknzkYlf4baf6nFK-f3jZ-ps5i2f6*0SvXcXD-LN*CMoTqEdTJh&new=1)
+ > 回望逝去的2020年，疫情笼罩下的世界充满了「意外」。这一年里，我们邂逅了许多只黑天鹅，也无数次见证历史。疫情对全球半导体产业影响颇大，从停工停产到复工复产，从芯片需求暴涨到缺货涨价，从「实体清单」卡...
+ ## [2025年中国大陆芯片市场规模将达2230亿美元，但自给率仍不到20%?](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=7ph4gC5Q6BdqJKAjYdJF*PElVa6C-kisaN2cgm4JaPXktYPkBxW2BGbxTX4MtgLo23XQrNd9cP0GWswkr4h026kAIbsvciJprnKqOgHqhsIUgDpjusn9R53IMmyubwZU&new=1)
+ > 1月7日消息，半导体行业研究机构IC Insight昨日发布了最新的研究报告称，中国原本期望在2025年实现半导体芯片自给率达到70%，但按照目前发展情况来看，到2025年可能最多只能达到20%，远远落后于目标。IC Insight...
+ ## [盘点2020年激光行业十大投产/启用事件 杰普特/大科/通快/奔腾等有何动作?](http://mp.weixin.qq.com/s?src=11&timestamp=1610071204&ver=2815&signature=auAwFDgyChuRVz4ZGZ8Gw4sXXUXwVeHC55r18E*yyjWxcJdhhbQEJHIp1ISox4kgFsgwE59b-gYFXze2e7Mamcv2qpKYolsD3Raw5i7NnXWRxh99W2G4USlZRGaMIzq6&new=1)
  > 2020年初，新冠肺炎给国内各行各业发展造成一定冲击，激光行业也在今年一季度达到了低谷。但在4月疫情得到控制后，我国经济快速复苏，激光行业也回到了发展轨道。二季度后，我国激光企业版图不断扩展，许多新基...
 # IT 技术 
+ ## [又双删库：程序员怒删9TB数据，被判7年！](http://news.51cto.com/art/202101/639687.htm)
+ > 又双删库：程序员怒删9TB数据，被判7年！
  ## [比较9款代码质量工具，看看哪款更好用](http://developer.51cto.com/art/202101/639549.htm)
  > 比较9款代码质量工具，看看哪款更好用
  ## [2021年需要关注的10个IT趋势](http://www.cioage.com/art/202101/639548.htm)
@@ -31,30 +37,28 @@ categories: IT NEWS
  > 医疗数字化转型：2021年的5个预测
  ## [OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力](http://news.51cto.com/art/202101/639457.htm)
  > OpenAI祭出120亿参数魔法模型！文本合成图像栩栩如生，仿佛拥有人类的语言想象力
- ## [【鸿蒙基地】鸿蒙跨设备启动窗口：Page Ability](http://developer.51cto.com/art/202101/639251.htm)
- > 【鸿蒙基地】鸿蒙跨设备启动窗口：Page Ability
- ## [Oracle重做日志管理与深入解析_Oracle视频教程_基础深入与核心技术09](http://fellow.51cto.com/art/202012/637145.htm?qd=51ctojrzd)
- > Oracle重做日志管理与深入解析_Oracle视频教程_基础深入与核心技术09
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [WhatsApp将与Facebook分享其数据，你还敢用它吗？](http://netsecurity.51cto.com/art/202101/639683.htm)
+ > 周一，WhatsApp更新了其隐私政策和服务条款，提供了有关如何处理用户数据的更多信息。现在，该公司正通过其
+ ## [一不小心扔掉了 7500 枚比特币， 这位英国程序员损失了 17 亿](http://news.51cto.com/art/202101/639681.htm)
+ > 英国一程序员一不小心把藏有 7500 枚比特币私钥的硬盘当垃圾扔掉了，估值约 2.6 亿美元，相当于 17 亿人民
+ ## [面试被吊打系列-Redis缓存血崩](http://stor.51cto.com/art/202101/639678.htm)
+ > redis的话我们主要是用来存储一些常用的配置类数据还有一些热点数据;还有存储一些到期失效的数据，比如登录
+ ## [使用Scrapy网络爬虫框架小试牛刀](http://developer.51cto.com/art/202101/639677.htm)
+ > 这次咱们来玩一个在Python中很牛叉的爬虫框架――Scrapy。
+ ## [一篇文章带你了解JavaScript json 数组](http://developer.51cto.com/art/202101/639675.htm)
+ > 简单说，所谓对象，就是一种无序的数据集合，由若干个“键值对”(key-value)构成。
+ ## [CentOS7搭建Prometheus 监控Linux主机](http://os.51cto.com/art/202101/639676.htm)
+ > prometheus可以拆分成多个节点进行指标收集。本文主要介绍CentOS7搭建Prometheus 监控Linux主机。
  ## [Saltstack批量管理文件和计划任务](http://os.51cto.com/art/202101/639674.htm)
  > saltstack是由thomas Hatch于创建的一个开源项目，设计初衷是为了实现一个快速的远程执行系统。用来管理你
+ ## [链家程序员怒删公司9TB数据 被判7年](http://news.51cto.com/art/202101/639684.htm)
+ > 1月6日，北京市第一中级人民法院公布了一份刑事裁定书， 前链家员工因不满工作调整，删了公司9TB数据 。
+ ## [Hive窗口函数Row Number的用法， 你肯定都会吧！](http://bigdata.51cto.com/art/202101/639672.htm)
+ > 前面我们介绍窗口函数的时候说到了窗口函数的使用场景，我们也给它起了一个名字进行区分，通用窗口函数和特
  ## [浅说Synchronized的底层实现原理](http://developer.51cto.com/art/202101/639673.htm)
  > synchronized关键字用来保证在同一时刻只有一个线程可以执行被它修饰的变量或者代码块。
- ## [转型中的制造业成网络攻击主要受害者](http://netsecurity.51cto.com/art/202101/639670.htm)
- > 2020年，制造企业遭受到的网络攻击威胁比以往任何时候都要多。网络犯罪组织和国家级攻击组织为窃取知识产权
- ## [群消息已读回执（这个），究竟是推还是拉？](http://zhuanlan.51cto.com/art/202101/639668.htm)
- > 群消息的流程如何，接收方如何确保收到群消息，发送方如何收已读回执，究竟是拉取，还是推送，是今天要聊的
- ## [系统中的大管家―SystemServer进程](http://mobile.51cto.com/android-639666.htm)
- > 这个进程负责启动和管理JavaFramework层，也就是提供了框架层的很多服务，比如我们熟知的AMS，PMS，WMS，还
- ## [从0到1部署一套TiDB本地集群](http://database.51cto.com/art/202101/639665.htm)
- > TiDB 是 PingCAP 公司自主设计、研发的开源分布式关系型数据库，是一款同时支持在线事务处理与在线分析处理
- ## [MySQL表空间回收的正确姿势](http://database.51cto.com/art/202101/639664.htm)
- > 为了缩小磁盘上表数据文件占用的空间，我们在最大的一张业务表中用delete命令删除了一半儿的旧数据，删除之
- ## [详解容器部署ELK7.10，适用于生产](http://developer.51cto.com/art/202101/639669.htm)
- > 本篇给大家介绍容器部署ELK7.10，适用于生产，希望对你有所帮助。
- ## [如何让Shell脚本变成可执行文件](http://netsecurity.51cto.com/art/202101/639663.htm)
- > 在本教程中介绍创建bash脚本并使用chmod命令使脚本可执行，无需脚本前面加上sh或bash命令就可以运行它。
- ## [学习JavaScript之路必看的7本书](http://developer.51cto.com/art/202101/639662.htm)
- > 读书益处多，这是大家从小就知道的事情。以下推荐7本书籍，帮助你从多角度去学习和领悟JavaScript，不要好
  ## [Spring Boot qq邮箱验证码注册和登录验证](https://blog.csdn.net/qq_42524288/article/details/110749086)
  > 
  ## [综述---图像处理中的注意力机制](https://blog.csdn.net/xys430381_1/article/details/89323444)
