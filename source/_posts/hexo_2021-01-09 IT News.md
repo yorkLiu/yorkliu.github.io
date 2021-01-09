@@ -1,26 +1,36 @@
 ---
 title: 2021-01-09 IT News
 copyright: true
-date: 2021-01-09 12:01:40
+date: 2021-01-09 17:01:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [未知大陆发布2020年十大金牌3D打印服务商](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=rMXP6t4wIz4OmFsIVSA3klhz275ZBxC5klNcpQnS7uvfhVWlC*8cRlTX9uo5CH14rZ3aFDvsV63vwiGET43-SYfnCuAmlsDxvPoBg48gtFiPCVQXsvjTIRkgGEv4bY*U&new=1)
+ ## [\[2013-2021年T研究品牌研究报告\]](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=O2bcimri2M*jEXL2SiQQyIo*w*u-XwuP9O5m7jnKFz0XbbChZRllpL9XWyVd8o7nIc9t1IKZQL4l0BGf56zaHgFgttP62l3F*CSgsRYv37wDq4eX-OhULL2Svufx5TJD&new=1)
+ > 『 数字化转型』2020 中国数字化后浪：中小企业转型与创新实录报告企业的业务模式、生存的市场环境正在发生深刻的变化和调整。在过去的几年中，T研究发现，来自企业所处行业之外的压力和竞争已经成为当前关键的...
+ ## [通快与康辉医疗签署战略合作协议 将打造医疗器械智能工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=HGo27jgjERfTYj9FGVfINAlb-BdvqHL39MMF7im0Qy3gyUUg8HT6B8BCmbzoIxEsS2KAykXwxFqMq52thj3yS3b761d0wLphHVKoINrEWN87l26CczzVddlP*bFfK0WD&new=1)
+ > 1月6日,康辉医疗科技正式与德国通快签署战略合作协议, 双方结成深度战略合作伙伴关系。在第一阶段,双方将围绕管材及平面板材加工展开深入合作。康辉医疗科技董事长陈利忠、总经理陈宇豪、技术副总沈益,通快(中国...
+ ## [穿越周期的韧性成长](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=rXlpF17K4vOQR-NwZDskr-mtGqKrw66AvjbUg9cfdawrDqJDSoAqu6Czbvm314U4ROY5ZbwT*I6mmF2rp6kmm6ggGchA24TH0U5xsvHosuPCrqg3XvotKOCkD31N1I0m&new=1)
+ > （本文阅读时间：3分钟）在漫长的商业周期中，经济危机并非罕见现象。宏观经济存在不确定性，商业周期不可预测，但企业仍然需要制定投资和增长战略。他们面临的问题是，如何建立穿越周期的增长战略和企业韧性？...
+ ## [太难了，芯片设计工具EDA“国产化”之困|钛媒体深度](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=0n7BVBVvgTEbvv4eN*2bW9INrKeKqkanmVWy0WwXou*zLTU0tHI-Kj1i2-8qpBmRrqvEUPqjgLQZxAKdIwLNVm01N2Y6WpkH2h*iT1wSLd7CVJ6o9Gg9uPFlmgD8Y3CD&new=1)
+ > 钛媒体 TMTPost.com｜科技引领新经济｜图片来源@视觉中国▎国产EDA，到底能不能打破海外三巨头垄断？钛媒体编辑丨林志佳电子设计自动化（以下简称EDA）软件工具行业，正成为中国寻求解决芯片产业链短板问题的重...
+ ## [低延迟的5G来了，云电脑普及就在眼前?](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=P1dpjf9JRhtM5JPoLT6SU4PZMxev0U9pH8ye-3j*9A9HIIVzX6oYDqUVD8LMv41Niv24*RNbIQU6hg4JckskMUqSnpRqHTvCDtikYDujH26XBGQ7COqXKY1jo*tel4Ys&new=1)
+ > 云电脑在不少科幻作品中出现过，利用云端的服务器，用户只要有一块连接网络的屏幕就能享受高性能体验，这样的云电脑甚至可以改变不少行业。不过随着5G的逐步普及，带宽已经不是阻碍云电脑发展的绊脚石了，为什么...
+ ## [未知大陆发布2020年十大金牌3D打印服务商](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=rMXP6t4wIz4OmFsIVSA3klhz275ZBxC5klNcpQnS7us0VESbq0hDa4DVNurR8JLUDTk*vO9lGmyfABNWXNtyrUALlc*mkYABjMK8QfuUZ9yjmtL4rTZTdOI86zqrk6TH&new=1)
  > 2020年12月31日，未知大陆发布了2020年十大金牌在线3D打印服务商，主要从订单量、打印品质、交付速度、服务态度等四个维度进行考核，以下十个公司从累计入驻未知大陆300+家3D打印服务商中脱颖而出，荣获金牌供应...
- ## [人事：中电信集团总部大部门新增若干管理干部!](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=G8a9Pf*Ue5-w5h5zX8zuCaQ0vA2Lgw*P19cUrkY7c9ol4UDet8s0CC*A3jqHXcWrFuk447Pr4YbOJHNOWPR6df29c2xkeYHLnUjuD3vSrei-ZV0XhqGcKx4dg*HYsCyk&new=1)
- > 运营商情报从知情人士处获悉，中国电信集团云网运营部（大数据和AI中心）新增五位处级干部。武巍担任无线和接入网运行处处长、阮宜龙担任数据质量运营处处长、刘晨担任客户维护服务中心副主任，级别为三级正、祖...
- ## [2020十大网安事件盘点(上)丨大东话安全](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=MHfMdmGy8bb*6fsoxYvcvnhDNVibIupwuPIrPeSagZAAsIuQwpR-t*h*OZYRml28sjQd*2bIeJERULwtiZiLN0n6B6whVjRCaH-e2KtVivZFFvcJgRJnavzDaA165Vd1&new=1)
- > 大东：小白，通知你们写的年终总结准备怎么样了？写好了要发给我看啊！小白：我正愁这事呢，大东东，不知从何写起啊！大东：你要学会把自己在工作、学习、生活的各个方面做个梳理，更有利于你新的一年的规划。比...
- ## [\[进展\]华为的法律挑战之后，瑞典法院的裁决还是将其排除在5G建设之外](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=ni0cBrFGWq1IEt6a2rBYrszYrQBqu19tIAvazSf*JTwwHi9gWVHGYcKvx6G9A0zngsxWrwzw6iHchZ2nW0nqBsDQ5t*fQRryrGyd6291EsepicHKL0-kOYZpyPo*Xdnp&new=1)
- > 据路透社消息，1月7日，华为已针对瑞典法院的一项裁决提起上诉，这项裁决允许瑞典电信监管机构邮政和电信管理局（PTS）恢复5G频谱拍卖，与此同时，计划也将华为排除在瑞典5G网络建设之外。图片来自OFweek维科网...
- ## [粉末床电子束熔融金属3D打印，钛粉可重复使用30次!零件孔隙率变化不大](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=eGDUqdS2*PBxJ7VZo*zrsy3mf2gHg06D43yJ9v6g6GmzaphhT5nETlJoQYTS*kSRQhX1*vCNzAV1n9oGRRbAv1njAg61dNdqS*XQHEK9RNIS0fPHlHy9oV7yInW3nwEP&new=1)
+ ## [粉末床电子束熔融金属3D打印，钛粉可重复使用30次!零件孔隙率变化不大](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=eGDUqdS2*PBxJ7VZo*zrsy3mf2gHg06D43yJ9v6g6Gm-9kj5czVb4lRCtYWEBPMnEImzCzkScDtssV16o5NyN1TfBC5qD*rSprhuL8CLDTojxKpWKZdGVZF0d76ZPgtI&new=1)
  > 2021年1月9日，南极熊获悉，在华盛顿大学的一个研究小组最近发表的一项研究中，利用X射线微型计算机断层扫描（CT），对Ti6Al4V的粉末床熔融-电子束熔化（PBF-EB）增材制造产生的孔隙率进行了一系列30次构建周期...
- ## [2020 ICT龙虎榜|今夜，正式揭榜!72项大奖，24个优秀方案，名花有主](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=FIgYc26K8LE1Nm5T1SelAcLhgFpcvI2oNEzOjtQN1kpR3KjVc9X5zvdcjfvHJFwCXVsWTBUG25e9fGWHVxVlZTFjAwEKre7r0zjv5odES877d6FBO3uyURsXrYrgsEGm&new=1)
+ ## [2020十大网安事件盘点(上)丨大东话安全](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=MHfMdmGy8bb*6fsoxYvcvnhDNVibIupwuPIrPeSagZATKmQvx0a8Q5VrovfI3gyl37o5MJyix8i2gNTdAJP*FMktG*wkDYJCONdcSqELHypqtEVyboVRTDRfrYTPFH6x&new=1)
+ > 大东：小白，通知你们写的年终总结准备怎么样了？写好了要发给我看啊！小白：我正愁这事呢，大东东，不知从何写起啊！大东：你要学会把自己在工作、学习、生活的各个方面做个梳理，更有利于你新的一年的规划。比...
+ ## [人事：中电信集团总部大部门新增若干管理干部!](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=G8a9Pf*Ue5-w5h5zX8zuCaQ0vA2Lgw*P19cUrkY7c9p4vTCS1Pcq9BfBPQwXgY9KBiqCbdDaB3PfsxlMVcRWU5RomU2-817czjL1E4lMO62NpggDMj-66qI6P0NON69V&new=1)
+ > 运营商情报从知情人士处获悉，中国电信集团云网运营部（大数据和AI中心）新增五位处级干部。武巍担任无线和接入网运行处处长、阮宜龙担任数据质量运营处处长、刘晨担任客户维护服务中心副主任，级别为三级正、祖...
+ ## [\[进展\]华为的法律挑战之后，瑞典法院的裁决还是将其排除在5G建设之外](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=ni0cBrFGWq1IEt6a2rBYrszYrQBqu19tIAvazSf*JTzxfh3J1vd1JxMk7LpW24cjZIa9TvlfgIehNptW9dcyAnh*UVaiv1e1hhwFZf0nyqUUX2nE8o9FwkFi5ooibw*l&new=1)
+ > 据路透社消息，1月7日，华为已针对瑞典法院的一项裁决提起上诉，这项裁决允许瑞典电信监管机构邮政和电信管理局（PTS）恢复5G频谱拍卖，与此同时，计划也将华为排除在瑞典5G网络建设之外。图片来自OFweek维科网...
+ ## [2020 ICT龙虎榜|今夜，正式揭榜!72项大奖，24个优秀方案，名花有主](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=FIgYc26K8LE1Nm5T1SelAcLhgFpcvI2oNEzOjtQN1kpahX7-Oz0Waa0F00eOZwzFnrSvfr0b2o9lmTlWQXw73MzrfxieDucRWjGTAq2Fp737Rga21KyKAztHyBElhGWB&new=1)
  > 2021年1月8日，2020年度中国ICT产业龙虎榜暨优秀解决方案颁奖盛典在京举行。大会现场颁发了72个“2020年度ICT产业龙虎榜”奖项以及24个“2020年度优秀解决方案”，以鼓励和褒奖2020年度的奋斗者和创新者，树立行...
- ## [Epic Games宣布收购游戏工具制造商Rad Game Tools](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=wbufGWrzz3Pd5*514AByYvF3TKx9JsGMbYe*nWBnLm4xVEZDZsrx07TsEhUosSkIn8q0gyOBKQllwZf6NjY1toLAbrNaWDkPEMs8uWgkKQ6I5EqytBnX7yaq0z-vbE5e&new=1)
+ ## [Epic Games宣布收购游戏工具制造商Rad Game Tools](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=wbufGWrzz3Pd5*514AByYvF3TKx9JsGMbYe*nWBnLm5*kB766ypaIaxbX2qw4kvyW-rfl9YZOfDzIw2dJqs4V1baB-nHbpkTvOmVLm6KdXVh4t9r2sDfIvqW4nsSirgO&new=1)
  > Epic Games宣布收购游戏工具制造商Rad Game Tools。RAD Game Tools旗下有包括Oodle、Telemetry、Granny 3D、Miles Sound System等开发工具及Bink Video游戏视频编
- ## [孟晚舟笑了!中国正式宣布，整个微信都在刷屏!](http://mp.weixin.qq.com/s?src=11&timestamp=1610164804&ver=2817&signature=Ebwt0oKn-bDq1tBuCIf1hjJeTi613iYkWe0OiqwJ6g*d3zpbSAzLtZwuUbIPlcdRG89Ccleq5HHE7LPpbEiszvLYtmjR2MqmROsX2UhxdrCb8JloT2sWccQlC8rPbB2j&new=1)
+ ## [孟晚舟笑了!中国正式宣布，整个微信都在刷屏!](http://mp.weixin.qq.com/s?src=11&timestamp=1610182805&ver=2817&signature=Ebwt0oKn-bDq1tBuCIf1hjJeTi613iYkWe0OiqwJ6g8xad7FPH**Gui-IVRhk1fxDrizrI0rdC9FU9pFC*yvI2Ec*-EHGHwkqEK3eTFP3ef5P67yAJsV*IYBEMC0C9vj&new=1)
  > 1灯塔守候，晚舟归航！前段时间，好几个月不见的华为孟晚舟，因为祝贺父亲生日，又出现在公众的视野。孟晚舟在其微信朋友圈里，用排比句“父爱如高山、如天空、如大海”以表达对父爱的感谢，并祝父亲任正非“生...
 # IT 技术 
  ## [比较9款代码质量工具，看看哪款更好用](http://developer.51cto.com/art/202101/639549.htm)
@@ -37,46 +47,28 @@ categories: IT NEWS
  > 2021年需要关注的10个IT趋势
  ## [一不小心扔掉了7500枚比特币，这位英国程序员损失了17亿](http://news.51cto.com/art/202101/639681.htm)
  > 一不小心扔掉了7500枚比特币，这位英国程序员损失了17亿
- ## [Oracle体系结构与运维维护管理入门（15个Oracle运维管理生产案例）](http://fellow.51cto.com/art/202101/638289.htm?qd=51ctojrzd)
- > Oracle体系结构与运维维护管理入门（15个Oracle运维管理生产案例）
+ ## [Nginx+SSL+PHP7 实战（七日成蝶）](http://fellow.51cto.com/art/202012/636940.htm?qd=51ctojrzd)
+ > Nginx+SSL+PHP7 实战（七日成蝶）
+ ## [2021 的 8 个开源软件速查表](http://os.51cto.com/art/202101/639876.htm)
+ > 当那个讨厌的命令就在你的指间，但是就是想不起来，一个方便的速查表就可以拯救你。这份速查表清单涵盖了从
+ ## [来说说 Vrrp 协议？](http://network.51cto.com/art/202101/639875.htm)
+ > keepalived 是一个基于 VRRP 协议来实现的服务高可用方案，从而可以避免 IP 单点故障。
+ ## [异步IO：新时代的IO处理利器](http://developer.51cto.com/art/202101/639874.htm)
+ > 无论是非阻塞IO，IO复用，还是信号驱动式IO，都不是真正意义上的IO，真正的异步IO是数据从内核空间拷贝到用
+ ## [1.1w字，10图彻底掌握阻塞队列（并发必备）](http://developer.51cto.com/art/202101/639873.htm)
+ > 队列是一种 先进先出的特殊线性表，简称 FIFO。特殊之处在于只允许在一端插入，在另一端删除,进行插入操作
+ ## [和Sar比起来，其他Linux命令都是猹](http://os.51cto.com/art/202101/639872.htm)
+ > 我决定把今年装x的机会，留给sar命令。它是一个Linux下的监控工具，一直站在鄙视链的顶端。之所以让人望而
+ ## [物联网：2021年即将到来的四大趋势](http://iot.51cto.com/art/202101/639871.htm)
+ > 展望2021年及以后，该技术将成为每个组织的核心。物联网是一项充满希望的技术，到2021年，从使用物联网设备
  ## [装机点不亮 如何简易排查硬件问题？](http://os.51cto.com/art/202101/639870.htm)
  > 不少玩家都经历过装了半天的电脑，开机时却发现竟然点不亮的情况，让人一时间不知道是哪里出了问题，毕竟导
  ## [基于自然流布局的可视化拖拽搭建平台设计方案](http://bigdata.51cto.com/art/202101/639869.htm)
  > LowCode 是高效、高性能的拖拽式低代码开发平台. 也是笔者最近一直在研究的方向, 对于可视化搭建平台的实现
- ## [无线网络联盟盛赞Wi-Fi 6E，未来可期](http://network.51cto.com/art/202101/639863.htm)
- > 在Wi-Fi 6之后，无线网络也迎来了又一次更新升级，这就是此前部分网友可能在小米的新品路由器发布会上所听
- ## [国外情报公司称Ryuk黑客团伙盈利数亿](http://netsecurity.51cto.com/art/202101/639862.htm)
- > 据外媒，根据国外一家情报公司Advanced Intelligence及网络安全公司HYAS的联合报告，知名勒索组织Ryuk已经
- ## [Vue + Spring Boot 项目实战（二）：使用 CLI 搭建 Vue.js 项目](https://blog.csdn.net/Neuf_Soleil/article/details/88926242)
- > Vue + Spring Boot 项目实战（二）：使用 CLI 搭建 Vue.js 项目
- ## [陈同学整理的10个可以写到简历上C++项目](https://blog.csdn.net/vjhghjghj/article/details/108633790)
- > 陈同学整理的10个可以写到简历上C++项目
- ## [CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试](https://blog.csdn.net/weixin_44463441/article/details/111830910)
- > CSDN Chrome插件更新，新标签页布局、博客简洁模式、全站黑暗模式等你来尝试
- ## [R语言中的多项式回归、B样条曲线(B-spline Curves)回归](https://blog.csdn.net/qq_19600291/article/details/105468694)
- > R语言中的多项式回归、B样条曲线(B-spline Curves)回归
- ## [技术破局：AI程序员2021如何跳出舒适圈？！](https://blog.csdn.net/CSDNedu/article/details/112229231)
- > 技术破局：AI程序员2021如何跳出舒适圈？！
- ## [【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）](https://blog.csdn.net/Mind_programmonkey/article/details/77164682)
- > 【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）
- ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
- > 年终福利 | “社区之星”（年度贡献者）成长故事征集
- ## [谈谈 React 新出的 Server Components](https://blog.csdn.net/justjavac/article/details/111601818)
- > 谈谈 React 新出的 Server Components
- ## [FairGuard Unity PC端加密加固方案](https://blog.csdn.net/qq_46702493/article/details/109592124)
- > FairGuard Unity PC端加密加固方案
- ## [Tomcat服务器下载、安装、配置环境变量教程(超详细)](https://blog.csdn.net/qq_40881680/article/details/83582484)
- > Tomcat服务器下载、安装、配置环境变量教程(超详细)
- ## [极限学习机（ELM）从原理到程序实现（附完整代码）](https://blog.csdn.net/qq_32892383/article/details/90760481)
- > 极限学习机（ELM）从原理到程序实现（附完整代码）
- ## [R语言动量和马科维茨Markowitz投资组合(Portfolio)模型实现](https://blog.csdn.net/qq_19600291/article/details/105753968)
- > R语言动量和马科维茨Markowitz投资组合(Portfolio)模型实现
- ## [基于Unity~UGUI的简单UI框架（附UIFramework源码）](https://blog.csdn.net/qq_34937637/article/details/80374387)
- > 基于Unity~UGUI的简单UI框架（附UIFramework源码）
- ## [\[Python图像处理\] 二十二.Python图像傅里叶变换原理及实现](https://blog.csdn.net/Eastmount/article/details/89474405)
- > \[Python图像处理\] 二十二.Python图像傅里叶变换原理及实现
- ## [基于 Echarts 实现可视化数据大屏展示](https://blog.csdn.net/weixin_43216105/article/details/100559087)
- > 基于 Echarts 实现可视化数据大屏展示
+ ## [数据集成能力将成为物联网平台的主要能力](http://iot.51cto.com/art/202101/639867.htm)
+ > 集成平台即服务(iPaaS)提供的功能使订户能够实施涉及任何组合的云端和本地端点的集成项目。这通过开发、部
+ ## [仅使用CSS就可以提高页面渲染速度的4个技巧](http://developer.51cto.com/art/202101/639866.htm)
+ > 作为一名开发者，你可以做很多事情来改善用户体验。本文将重点介绍4个可以用来提高页面渲染速度的CSS技巧。
 # 人工智能 
  ## [全球网速变慢，运营商：WiFi 和微波炉不要放在一起！](https://blog.csdn.net/HyperAI/article/details/105259740)
  > 全球网速变慢，运营商：WiFi 和微波炉不要放在一起！
@@ -108,26 +100,5 @@ categories: IT NEWS
  > 当会打王者荣耀的AI学会踢足球，一不小心拿下世界冠军！
  ## [极客日报第 43 期：韩政府证实 4G 网速变慢；微软公司源代码遭黑客访问；App Store 中国区下架近 5 万款游戏，含多个大作](https://blog.csdn.net/weixin_39786569/article/details/112170766)
  > 极客日报第 43 期：韩政府证实 4G 网速变慢；微软公司源代码遭黑客访问；App Store 中国区下架近 5 万款游戏，含多个大作
-# PM 
- ## [产品经理必逛网站](http://www.chanpin100.com/article/113332)
- > 产品经理可以去这些网站学习
- ## [一千个产品经理，就有一千种产品思维](http://www.chanpin100.com/article/113347)
- > 产品，是满足人们真实需求的有形商品或无形服务。——摘自《腾讯产品18讲》思维，是人用头脑进行逻辑推导的属性、能力和过程——百度
- ## [5G时代下智能家居的数据化发展](http://www.chanpin100.com/article/113334)
- > 5G时代下智能家居的数据化发展
- ## [重新定义B端产品](http://www.chanpin100.com/article/113321)
- > 全新的定义，带你深刻认识B端产品
- ## [站在风口上，冰火两重天，企业服务2021年如何破局？](http://www.chanpin100.com/article/113338)
- > 新科技与新政策的互补还将为服务企业的市场注入新的方向，自上而下的“加速”既是助阵，又是优胜劣汰的新挑战。
- ## [招标采购必读：RFI与RFP有什么不同？](http://www.chanpin100.com/article/113339)
- > 如果你在建筑行业工作过，你很可能遇到过RFP和RFI时刻。RFP和RFI虽然有许多相似之处，但它们的使用场景明显不同。本文将将介绍什么是RFI、RFP、RFQ和RFT，以及它们之间的不同区别。
- ## [汽车行业营销探索提升销售效率方案——数字化变革](http://www.chanpin100.com/article/113340)
- > 汽车产业的销量逐年下降，利润也受到市场成本居高不下的挤压而减少，因此全面数字化营销转型对于汽车行业来说不仅扩充了用户的触点矩阵，让丰富的内容生态系统能更精准地触达用户，打破品牌与客户之间的沟通壁垒，从而深化消费认知，提高销售转化效率。
- ## [流量成本高，教育机构如何做好线上分销和内容裂变？](http://www.chanpin100.com/article/113342)
- > 流量成本越来越贵，尤其是投放成本在一些猛砸广告的教育巨头竞争下，越来越高，很多家长开始对简单粗暴的任务裂变和低价课免疫，一方面是线上汹涌的流量，一方面是越来越难的转化，这时候，很多教育机构开始转向更加精细化的运营。
- ## [后疫情时代，新兴内容渠道助力酒店提升盈利｜易观千帆行业案例](http://www.chanpin100.com/article/113343)
- > 易观分析：2020年对许多行业来说是至暗的一年，一场疫情的突袭波及各行各业，人传人的危险性，导致旅游业受到巨大冲击，酒店企业首当其冲遭到波及，营业收入因疫情影响大幅降低。
- ## [盈鱼MA客群管理丨客户群组精细化搭建](http://www.chanpin100.com/article/113346)
- > 精细化客户群体划分归类，方便营销活动的精准开展。
 
     
