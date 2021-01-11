@@ -1,58 +1,60 @@
 ---
 title: 2021-01-11 IT News
 copyright: true
-date: 2021-01-11 09:01:31
+date: 2021-01-11 10:01:37
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[C114周报\]纽交所重新推动三大运营商退市；中国移动一号双终端业务陆续商用；电联启动5G消息平台建设工程](http://mp.weixin.qq.com/s?src=11&timestamp=1610326805&ver=2821&signature=Yfp7diSvTPOmO5*jhqnFPuTPPszgt3XmyEmryC-Rws2ZZCqELgkbFagoFJKvqJxKQnf1Oxn7OT6XWV1UWovohcUfDChcnWvGK2grPWtTzLalu-S3JL-8nRlgDDW8EOTc&new=1)
- > 周报WEEKLY本周热点有纽交所重新推动三大运营商退市；中国移动一号双终端业务陆续商用；电联启动5G消息平台建设工程• 第123期 •纽交所重新推动三大运营商退市1月7日当地时间1月6日，美国纽约证券交易所发布公...
- ## [加油河北!疫情就是命令，中国电信在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1610326805&ver=2821&signature=8PGDzQiOfPfsBlq2po*bAVBwGhdUVGIvC4miqBB77D4mFTNl06Bc03fGBgTMoehYHusksyPWIZxvlaudyQanO-7lPqSnL4sT9ulIBucsKuABBke1RLyh4c02A6-5nLdi&new=1)
- > 2021年1月9日15时，中国电信石家庄分公司接到市政府紧急通知，要求开通由市政府到亚太大酒店（疫情集中办公区）的应急电路，用于疫情防控调度，并保证在1月10日9时前投入使用。疫情就是命令，畅通就是保障。中国...
- ## [重磅!赛迪发布《2021年5G发展展望白皮书》](http://mp.weixin.qq.com/s?src=11&timestamp=1610326805&ver=2821&signature=f-sIwHqTON1IbFihsXGzbYQsfYVi*YJTtQFAxEt2A3a-pBYo6ZlAQbWSTr8qMnqVi3FlC0GymO7cTyZgEt*zbXh-Al354utegciEW8A-mwic8zB9KR*eDrwWI5esrS1Y&new=1)
- > 前言2021年，我国5G网络建设和产业规模将进一步增长，且增幅将超过2020年度。四大运营商仍将继续布局5G规模组网，并联合企业广泛探索5G融合应用。5G融合应用将使C/B/G多端用户和市场受益，其中工业互联网领域的5...
- ## [送菜上桌!多款机器人落户桂林](http://mp.weixin.qq.com/s?src=11&timestamp=1610326805&ver=2821&signature=emgI553GipNotcqPw2g3mTFA-U6HS32UHut70sbJZAotWGfelidvBQnwZeIsyAHZzEjQq7Qd6LdS-H4QX-LLdQq-u7kbBDz16NKC6oeplDU=&new=1)
+ ## [\[报告\]全球汽车零部件行业整合和发展趋势(附29页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1610330404&ver=2821&signature=ft3VFXHHWY4s0mXGUjuMBwvVh5UimjHXn6uLQjiDCCaYOR7lX7-QTCxXlQHTPaJLbgzv0E4KrKa5JlwInmKrqxIdH5KQeKsofufHa7th8yVV3nehyPKWo6NO*uQ*itjx&new=1)
+ > 2020年上半年，全球汽车零部件企业完成的并购交易数量下降到55笔（2019年为97笔），但由于四笔总价值超过190亿美元的超大型并购交易，上半年的交易总金额仍然高达约220亿美元。2020年下半年，由于新冠疫情带来的...
+ ## [送菜上桌!多款机器人落户桂林](http://mp.weixin.qq.com/s?src=11&timestamp=1610330404&ver=2821&signature=emgI553GipNotcqPw2g3mTFA-U6HS32UHut70sbJZApFKGaByymTVRxEui8pXZWhhXoBztYvdPg*nxJu1kzQ*iJfKkfZG0y1V-FaOP9sWAU=&new=1)
  > “尊敬的15号桌客人，你的菜过来了，请提取！”1月10日，在桂林漓江大瀑布饭店，一台“欢乐送”机器人从厨房取菜后送上餐桌。这是普渡机器人新品发布会暨普渡配送机器K欢乐送落户启动仪式上的一次机器人场景应用...
- ## [语音通话不用喊，AI降噪畅快聊](http://mp.weixin.qq.com/s?src=11&timestamp=1610326805&ver=2821&signature=ijibtumO7LZap9thr2PE07GzF6La5Qf4ZtCiwAAuV3Vfwmt9oRmyRl4VLj2jvyx*5A7M2vhW*64C1kedLbZs4SX50T7QFrfTFCIcoD9jOaPnJgeYjaNkLsMiVAGGny80&new=1)
+ ## [重磅!赛迪发布《2021年5G发展展望白皮书》](http://mp.weixin.qq.com/s?src=11&timestamp=1610330404&ver=2821&signature=f-sIwHqTON1IbFihsXGzbYQsfYVi*YJTtQFAxEt2A3aVnehfC9HZoUJaRq5jn571cx8CH4DM-4xmd6LVgpUyCuzYnnSOj9UVbUNnAyQpXbxPYRB02HaNwIm*mug19785&new=1)
+ > 前言2021年，我国5G网络建设和产业规模将进一步增长，且增幅将超过2020年度。四大运营商仍将继续布局5G规模组网，并联合企业广泛探索5G融合应用。5G融合应用将使C/B/G多端用户和市场受益，其中工业互联网领域的5...
+ ## [加油河北!疫情就是命令，中国电信在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1610330404&ver=2821&signature=8PGDzQiOfPfsBlq2po*bAVBwGhdUVGIvC4miqBB77D5x5m5yNw5BaY4L2ZukFeTijmzuxy6xzVBMDsYXF9-V4dS21L8DMKVC2O7YgEDSXLkwQ1c41qAZX-GiFH-7IdAb&new=1)
+ > 2021年1月9日15时，中国电信石家庄分公司接到市政府紧急通知，要求开通由市政府到亚太大酒店（疫情集中办公区）的应急电路，用于疫情防控调度，并保证在1月10日9时前投入使用。疫情就是命令，畅通就是保障。中国...
+ ## [\[C114周报\]纽交所重新推动三大运营商退市；中国移动一号双终端业务陆续商用；电联启动5G消息平台建设工程](http://mp.weixin.qq.com/s?src=11&timestamp=1610330404&ver=2821&signature=Yfp7diSvTPOmO5*jhqnFPuTPPszgt3XmyEmryC-Rws0hcCeCMiCD744sNU*37-Xcj0DM8PKxGwK3aDbUcKANdsqpA4xVMw*Xop2kokiltTWevFVCiVddiFa62Wo3w*6n&new=1)
+ > 周报WEEKLY本周热点有纽交所重新推动三大运营商退市；中国移动一号双终端业务陆续商用；电联启动5G消息平台建设工程• 第123期 •纽交所重新推动三大运营商退市1月7日当地时间1月6日，美国纽约证券交易所发布公...
+ ## [语音通话不用喊，AI降噪畅快聊](http://mp.weixin.qq.com/s?src=11&timestamp=1610330404&ver=2821&signature=ijibtumO7LZap9thr2PE07GzF6La5Qf4ZtCiwAAuV3UthBRK-2MbKleWLy0hmUMD-VJdoWzWrPF7e-CC0jMeaDraJKpiFPclRfhPuTNnADFqr5DkeyEYldmgITsqQNUy&new=1)
  > 游戏中与队友的语音通话遇到杂音干扰，电话会议被邻居家的装修声打断，这些司空见惯的通话场景，应该如何应对？现在，高通骁龙移动平台凭借强大的AI性能，可以让声音更清晰，提升语音通话体验。 游戏语音降噪 手...
 # IT 技术 
+ ## [如何辨别二逼互联网公司！？](http://news.51cto.com/art/202101/639988.htm)
+ > 如何辨别二逼互联网公司！？
  ## [用Node.js进行后端开发的特点与优势](http://developer.51cto.com/art/202101/639888.htm)
  > 用Node.js进行后端开发的特点与优势
- ## [阿里“拆台”，中台真的不香了？](http://developer.51cto.com/art/202101/639986.htm)
- > 阿里“拆台”，中台真的不香了？
- ## [新来的CTO这样带团队，老板瑟瑟发抖...](http://news.51cto.com/art/202101/639987.htm)
- > 新来的CTO这样带团队，老板瑟瑟发抖...
  ## [如何使用WinX HD Video Converter压缩大型视频文件？](http://developer.51cto.com/art/202101/639782.htm)
  > 如何使用WinX HD Video Converter压缩大型视频文件？
+ ## [新来的CTO这样带团队，老板瑟瑟发抖...](http://news.51cto.com/art/202101/639987.htm)
+ > 新来的CTO这样带团队，老板瑟瑟发抖...
  ## [比较9款代码质量工具，看看哪款更好用](http://developer.51cto.com/art/202101/639549.htm)
  > 比较9款代码质量工具，看看哪款更好用
  ## [无线网络联盟：Wi-Fi 6E是二十年来最重大的一次升级](http://network.51cto.com/art/202101/639691.htm)
  > 无线网络联盟：Wi-Fi 6E是二十年来最重大的一次升级
  ## [又双删库：程序员怒删9TB数据，被判7年！](http://news.51cto.com/art/202101/639687.htm)
  > 又双删库：程序员怒删9TB数据，被判7年！
- ## [2021年软考信息系统项目管理师-论文写作精讲视频培训课程](http://fellow.51cto.com/art/202101/638495.htm?qd=51ctojrzd)
- > 2021年软考信息系统项目管理师-论文写作精讲视频培训课程
- ## [关于Dubbo随便问八个问题](http://developer.51cto.com/art/202101/640094.htm)
- > 互联网公司的系统有成千上万个大大小小的服务组成，服务各自部署在不同的机器上，服务间的调用需要用到网络
- ## [FastDFS搭建文件管理系统(详细教程)](http://os.51cto.com/art/202101/640092.htm)
- > FastDFS 是一个开源的高性能分布式文件系统（Distributed File System），由淘宝开发平台部资深架构师余庆
- ## [中国交通银行被黑？大量信息在网上公开贩卖](http://netsecurity.51cto.com/art/202101/640091.htm)
- > 据消息，2021年1月中国交通银行遭遇黑客攻击，导致大量信息被泄露贩卖。
- ## [使用Trace-Event解决系统不能深度睡眠的问题](http://os.51cto.com/art/202101/640090.htm)
- > 最近遇到一个问题，系统不能睡眠到c7s, 只能睡眠到c3. (c-state不能到c7s, cpu的c-state, c0是运行态，其它
- ## [微软正重新设计 Windows10 控制面板几项功能：全新存储空间、磁盘分区管理](http://os.51cto.com/art/202101/640089.htm)
- > 1 月 11 日消息 外媒 Windows Latest 报道，控制面板自 Windows 1.0 以来一直是 Windows 的一部分，它有坚
- ## [如何遍历DOM？](http://developer.51cto.com/art/202101/640088.htm)
- > 在本文中，我们了解了DOM 是如何构造成节点树的，节点树通常是HTML元素、文本或注释，我们创建了一个脚本，
- ## [写中断程序要注意哪些方面？](http://developer.51cto.com/art/202101/640087.htm)
- > 当中央处理器正在处理内部数据时，外界发生了紧急情况，要求CPU暂停当前的工作转去处理这个紧急事件。处理
- ## [P图P到神仙都不认得？教你识破图片有没有被P过](http://os.51cto.com/art/202101/640086.htm)
- > 如何快速鉴定一张图片有没有被PS过，成为了一大难题。要完美鉴别一张图片有没有被PS，是很困难的，这就提供
- ## [漫谈 HTTP 连接的相关知识](http://network.51cto.com/art/202101/640085.htm)
- > 本文首先会 HTTP 的特点和优缺点，然后会详细介绍 HTTP 长连接和短连接的连接管理，通过阅读本文能够对 HTT
- ## [仓储模式到底是不是反模式？](http://stor.51cto.com/art/202101/640084.htm)
- > 仓储模式我们已耳熟能详，但当我们将其进行应用时，真的是那么得心应手吗？确定是解放了生产力吗？这到底是
+ ## [听强哥说Java之Java初级教程](http://fellow.51cto.com/art/202101/639889.htm?qd=51ctojrzd)
+ > 听强哥说Java之Java初级教程
+ ## [自去年年底以来，医疗行业遭受的网络攻击激增了45%](http://netsecurity.51cto.com/art/202101/640105.htm)
+ > 自2020年11月以来，针对医疗保健机构的网络攻击激增了45%，因为全球新冠疫情又在继续增加。
+ ## [6款体积极小的Windows神器，却干掉了很多付费软件](http://network.51cto.com/art/202101/640104.htm)
+ > 今天我就给大家分享6款体积极小的Windows神器，却干掉了很多付费软件。
+ ## [阻挡HPC前行的“最后一公里”，打破“存储墙”迫在眉睫](http://server.51cto.com/HPC-640103.htm)
+ > 超级计算机不仅是一个国家综合科技实力的象征，也是工业创新、国防建设、科学研究、石油勘探等重要经济行业
+ ## [如何满足数据中心建设预算和时间表](http://server.51cto.com/ManageDC-640099.htm)
+ > 随着数据存储需求的迅速增长，原始设备制造商提供发电机、冷却系统和电源中心等关键任务设备的交货周期缩短
+ ## [使用GitLabCI实现 多模块项目CI/CD](http://developer.51cto.com/art/202101/640100.htm)
+ > 本文简要介绍了Monorepo在开发多服务应用程序方面的优势。以及如何使用GitLab CI/CD和Docker轻松构建，测试
+ ## [4个最适合初学者的不是基于Ubuntu的Linux发行版](http://os.51cto.com/art/202101/640098.htm)
+ > 在本文中，让我们看一下四个不是基于Ubuntu的适合初学者的Linux发行版。
+ ## [1.7.串口通信详解-ARM裸机第七部分](http://fellow.51cto.com/art/202101/640019.htm)
+ > 本期课程主要讲述S5PV210的串口通信。本课程共分为3个部分：首先用3节课时间系统讲解了通信的基础知识、串
+ ## [了解这些，你就可以在Spring启动时为所欲为了](http://developer.51cto.com/art/202101/640097.htm)
+ > Spring 是一个控制反转依赖管理的容器，作为 Java Web 的开发人员，基本没有不熟悉 Spring 技术栈的，尽管
+ ## [没人告诉过你更复杂的缓存穿透怎么解决](http://stor.51cto.com/art/202101/640096.htm)
+ > 你应该从网上看过太多的文章说缓存穿透怎么解决?无非就是布隆过滤器，缓存空值什么的。
+ ## [推荐 7 个学习 TypeScript 的宝库，2021 是时候给自己加薪了！](http://developer.51cto.com/art/202101/640095.htm)
+ > 猫哥是一个常年混迹在 GitHub 上的猫星人，所以发现了不少好的前端开源项目、常用技巧，在此分享给大家。
  ## [SpringMVC常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80963758)
  > SpringMVC常见面试题总结（超详细回答）
  ## [细说php反序列化字符逃逸](https://blog.csdn.net/qq_38154820/article/details/109523841)
