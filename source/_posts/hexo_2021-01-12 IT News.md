@@ -1,22 +1,24 @@
 ---
 title: 2021-01-12 IT News
 copyright: true
-date: 2021-01-12 08:18:33
+date: 2021-01-12 09:13:50
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021，VR又要热了?](http://mp.weixin.qq.com/s?src=11&timestamp=1610409605&ver=2823&signature=8GuzIXI9OW4ekFvyhESUlUdGZl01*q2jdCINz5IJs01G*TBpDabXrZhd7wylZ0zUFlTsXbT9TPTYG8EAfHXhof7I43hZlRUoLL8GT0gVvr70YXy3l5bXkM36mMuP4Mt4&new=1)
- > 配图来自Canva可画业界普遍认可，VR/AR是5G时代最核心的应用场景，也将会是智能手机之后的下一代主流移动计算平台。 2021年开年伊始，VR产业传来喜讯。1月4日，爱奇艺孵化的VR厂商——爱奇艺智能宣布完成由屹唐...
- ## [科技巨头造车，百度先“干”为敬](http://mp.weixin.qq.com/s?src=11&timestamp=1610409605&ver=2823&signature=3OyxA4r435ICxTLfEK4tocqPRtjwx0aXpSz881mY6VI-GeAlouhUwdwl-k*oS1Eq9MMLA9TP*aZNZvVTq81u7yNji3hb3qiiwJPR0KIcOZ9IYi63sHrxo8CWm*dS7b-z&new=1)
- > 编辑丨定西无论是车企，还是互联网企业，谁都无法放弃智能汽车这个潜力无限的市场空间。就在今天，百度宣布将进军汽车行业，将组建一家智能汽车公司，吉利控股集团将成为新公司的战略合作伙伴。可能有部分读者很...
- ## [快讯：中联通一大领导离职!去向是..](http://mp.weixin.qq.com/s?src=11&timestamp=1610409605&ver=2823&signature=R6auG8yvUj4o8cqZOmfI3Knl6bdkIuLDvV1NeB6JnrrAtKiftRL58satW1goNweVr60sHB6xu17VXcVBl-qatG8W8gpOLjPcxre6CLFQ3kQxqCFniyl1YtXZb9lV7NlT&new=1)
- > 据内部人士爆料，江苏联通副总经理陈晓天已于近日离职。最早之前，陈晓天一直在江苏联通任职，先后担任过扬州联通总经理，江苏联通销售部总经理、中国联通物联网运营支撑中心总经理、物联网研究院院长。后来升任...
- ## [2021第十九届微软“创新杯”中国区总决赛即将开赛!](http://mp.weixin.qq.com/s?src=11&timestamp=1610409605&ver=2823&signature=BiQrOhn2j6IDeuM58V3hGpVJzuBXguXIwr*2lh8*WAhVj4p2lDqEeRIegAy1WG1m52nn*VWh3GhzBr8ecLj5RFhEKz6qZe4-Iit2DxQQiDEMKCI7xf33YV1LkqgXUI2D&new=1)
- > （本文阅读时间：3分钟）2021第十九届微软“创新杯”中国区总决赛将于2021年1月15日与您云端相会。 作为旨在鼓励青年学生发挥想象和创新能力，投身科技创新的全球学生科技盛会，“创新杯“自2003年创办至今，全...
- ## [深圳审议通过!跨国公司总部之都要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1610409605&ver=2823&signature=VQgr5p4W8zUCV4VG3a384VAxmEkaoyzY1b*HDAGem3V75ikaqCyUjiOpdv1k*psQ5VKQLBu1W6pRb7dVI-dyryq7D0GbsUsb48b5s0cWIAhMqR3j-ny5HU3Aa8Rc4Y4t&new=1)
+ ## [深圳审议通过!跨国公司总部之都要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1610413205&ver=2823&signature=VQgr5p4W8zUCV4VG3a384VAxmEkaoyzY1b*HDAGem3WTPzGeD8opcLU-XKcscfq43C9a4pj4ANoI*sdpsWMCccrUx5j9kJY0YEIqfWVpJ*shwnUgEu9tarqrFFvg3V4C&new=1)
  > 1月8日下午，深圳市长陈如桂主持召开市政府常务会议，审议并原则通过了《深圳市鼓励跨国公司设立总部企业办法》等事项。值得注意的是：《深圳市鼓励跨国公司设立总部企业办法》是主动适应跨国公司发展新趋势、国...
+ ## [2021第十九届微软“创新杯”中国区总决赛即将开赛!](http://mp.weixin.qq.com/s?src=11&timestamp=1610413205&ver=2823&signature=BiQrOhn2j6IDeuM58V3hGpVJzuBXguXIwr*2lh8*WAjfeb*JWyHLHRWgOZ4q79uGHDe-1QF69lqJ1qsoK4RwFJYM9aE8d-Hxt-FFEhglrJhihPbFMzDlilrXcwMX0y2j&new=1)
+ > （本文阅读时间：3分钟）2021第十九届微软“创新杯”中国区总决赛将于2021年1月15日与您云端相会。 作为旨在鼓励青年学生发挥想象和创新能力，投身科技创新的全球学生科技盛会，“创新杯“自2003年创办至今，全...
+ ## [科技巨头造车，百度先“干”为敬](http://mp.weixin.qq.com/s?src=11&timestamp=1610413205&ver=2823&signature=3OyxA4r435ICxTLfEK4tocqPRtjwx0aXpSz881mY6VLIGbhEDsDU0R5xhYXl-lTB5UoyYNHk7rWMuEqi6IFr0eJXgkAQxjRnLvq12qIXlYJke0378bb4YefpLkDI-jfh&new=1)
+ > 编辑丨定西无论是车企，还是互联网企业，谁都无法放弃智能汽车这个潜力无限的市场空间。就在今天，百度宣布将进军汽车行业，将组建一家智能汽车公司，吉利控股集团将成为新公司的战略合作伙伴。可能有部分读者很...
+ ## [2021，VR又要热了?](http://mp.weixin.qq.com/s?src=11&timestamp=1610413205&ver=2823&signature=8GuzIXI9OW4ekFvyhESUlUdGZl01*q2jdCINz5IJs02lhn-sx4Hfe6rmtuLsJnopiqUkbvBoKwicma28UvXKHYrfvnehOx4FIOS4CFvUBJMX6*0sFcVZrbLcWnedguEr&new=1)
+ > 配图来自Canva可画业界普遍认可，VR/AR是5G时代最核心的应用场景，也将会是智能手机之后的下一代主流移动计算平台。 2021年开年伊始，VR产业传来喜讯。1月4日，爱奇艺孵化的VR厂商——爱奇艺智能宣布完成由屹唐...
+ ## [快讯：中联通一大领导离职!去向是..](http://mp.weixin.qq.com/s?src=11&timestamp=1610413205&ver=2823&signature=R6auG8yvUj4o8cqZOmfI3Knl6bdkIuLDvV1NeB6JnrpftAjZYUSDp4653A5a*YjqnVWSV9tXClXMHjnuZ2MQHSqHDIbfC9bmvPGGkye3aSXSEWlJ9VUbEOcyz1fSq-hL&new=1)
+ > 据内部人士爆料，江苏联通副总经理陈晓天已于近日离职。最早之前，陈晓天一直在江苏联通任职，先后担任过扬州联通总经理，江苏联通销售部总经理、中国联通物联网运营支撑中心总经理、物联网研究院院长。后来升任...
 # IT 技术 
+ ## [项目管理软件KanbanFlow、Trello与nTask大比拼](http://developer.51cto.com/art/202101/640231.htm)
+ > 项目管理软件KanbanFlow、Trello与nTask大比拼
  ## [5G基础设施如何支持网络边缘的小型数据中心](http://network.51cto.com/art/202101/640230.htm)
  > 5G基础设施如何支持网络边缘的小型数据中心
  ## [用Node.js进行后端开发的特点与优势](http://developer.51cto.com/art/202101/639888.htm)
@@ -29,30 +31,28 @@ categories: IT NEWS
  > 为什么我不要求996，公司还能做到市值1万多亿？
  ## [如何使用WinX HD Video Converter压缩大型视频文件？](http://developer.51cto.com/art/202101/639782.htm)
  > 如何使用WinX HD Video Converter压缩大型视频文件？
- ## [谷歌大脑最新研究：AutoML方式自动学习Dropout模式](http://news.51cto.com/art/202101/640118.htm)
- > 谷歌大脑最新研究：AutoML方式自动学习Dropout模式
- ## [测试工程师mysql数据库技能全程实战-小强测试](http://fellow.51cto.com/art/202012/635516.htm?qd=51ctojrzd)
- > 测试工程师mysql数据库技能全程实战-小强测试
- ## [线程安全性详解(原子性、可见性、有序性)](http://developer.51cto.com/art/202101/640325.htm)
- > 当多个线程访问某个类时，不管运行时环境采用 何种调度方式 或者这些进程将如何交替执行，并且在主调代码中
- ## [微软 Edge 浏览器将迎来管理下载新功能](http://os.51cto.com/art/202101/640317.htm)
- > IT之家1 月 12 日消息 微软正在为 Microsoft Edge 测试一种新的工具栏体验，将允许用户在不打开设置的情况
- ## [通过编写“猜数字”游戏学习 Lua](http://developer.51cto.com/art/202101/640316.htm)
- > 通过编写一个简单的游戏来认识 Lua，它是一种动态类型的、轻量级的、高效的、可嵌入的脚本语言。
- ## [全屏文本编辑器 Focuswriter 提高关注力的六种方式](http://os.51cto.com/art/202101/640315.htm)
- > 这款全屏编辑器可以帮助你设定写作目标，并将干扰降到最低，从而实现你的目标。
- ## [从视频片段中推断楼层平面图 新AI研究令人大开眼界](http://ai.51cto.com/art/202101/640312.htm)
- > 1月11日消息，据外媒报道，近日，来自Facebook、德克萨斯大学奥斯汀分校和卡内基梅隆大学的研究人员正在探
- ## [AnnotationProcessor 处理器问题怎么深度定位？](http://server.51cto.com/sOS-640311.htm)
- > 写过自定义注解处理器的老司机们乍一看这个问题觉得挺简单，是的，因为网上基本通篇都在教你怎么打日志，但
- ## [我们一起谈谈DHCP协议](http://network.51cto.com/art/202101/640310.htm)
- > DHCP(DynamicHost ConfigurationProtocol)，动态主机配置协议，是一个应用层协议。当我们将客户主机ip地址
- ## [系统设计基础之长轮询、WebSocket、服务器发送事件（SSEs）协议](http://server.51cto.com/sOS-640309.htm)
- > 长轮询，WebSocket和服务器发送事件是客户端和服务器(如Web浏览器和Web服务器)之间流行的通信协议。
- ## [Kubernetes Pod 突然就无法挂载 Ceph RBD 存储卷了.....](http://stor.51cto.com/art/202101/640308.htm)
- > Kubernetes 集群中部署了高可用 Harbor 镜像仓库，并使用 Ceph RBD 提供持久化存储。本来是挺美滋滋的，谁
- ## [手把手带你用Java打造一款对对碰游戏之一](http://developer.51cto.com/art/202101/640307.htm)
- > 随着移动互联网技术的快速发展，智能手机、智能平板的兴起和不断的普及，我国移动游戏行业迅速发展，在游戏
+ ## [MySQL InnoDB存储引擎深入分析与管理_MySQL数据库基础深入与核心解析04](http://fellow.51cto.com/art/202012/635034.htm?qd=51ctojrzd)
+ > MySQL InnoDB存储引擎深入分析与管理_MySQL数据库基础深入与核心解析04
+ ## [Fedora 34 无缘 PHP 8，推迟到 Fedora 35 集成](http://developer.51cto.com/art/202101/640336.htm)
+ > PHP 8 于去年11月正式发布，此版本引入了许多新特性和性能优化。虽然 PHP 8 为计划于今年春季发布的 Fedora
+ ## [一篇文章带你了解CSS Pseudo-classes(伪类 )](http://developer.51cto.com/art/202101/640334.htm)
+ > 本文基于CSS基础，介绍了CSS中的伪类，从什么是伪类，常见的伪类的用法（ first-child，: last-seudo，: nt
+ ## [谈谈AMS的诞生和使用](http://mobile.51cto.com/android-640330.htm)
+ > 今天接着完善Android系统这一块的体系架构，说说在App启动流程中举足轻重的ActivityManagerService。
+ ## [ARP，这个隐匿在计网背后的男人](http://netsecurity.51cto.com/art/202101/640328.htm)
+ > 只要确定了 IP 地址后，就能够向这个 IP 地址所在的主机发送数据报，这是我们所熟知的事情。但是再往深了想
+ ## [Redis主从复制是如何保证数据不丢失的？](http://stor.51cto.com/art/202101/640327.htm)
+ > 在生产环境中，为了系统的可靠性，我们会对Redis搭建主从。这样当一个实例发生宕机，另一个实例中还有数据
+ ## [记一次生产线MySQL库Binlog日志占满磁盘的故障处理](http://database.51cto.com/art/202101/640326.htm)
+ > 今天早上监控平台邮件通知生产某业务系统的MySQL数据库存储空间达到了90%，赶紧爬起来远程连上数据库主机，
+ ## [网络已成战场：英国情报、网军高官谈网络武器失控](http://netsecurity.51cto.com/art/202101/640323.htm)
+ > 在网络武器部署问题上，所有国家都遵循国际规则和惯例特别重要。但英国几位顶级情报和网络主管警告道：某些
+ ## [勒索软件“财务年报”：Ryuk至少赚了1.5亿美元](http://zhuanlan.51cto.com/art/202101/640322.htm)
+ > 近日，美国威胁情报公司Advanced Intelligence和英国威胁情报公司HYAS追踪了来自Ryuk勒索软件受害者的(加密
+ ## [群消息，究竟存1份还是多份？](http://zhuanlan.51cto.com/art/202101/640321.htm)
+ > 任何技术方案，都不是天才般灵感乍现想到的，一定是一个演进迭代，逐步优化的过程。今天就聊一聊，群消息，
+ ## [比看书还高效，这4种提高编程技能的方式你知道么？](http://developer.51cto.com/art/202101/640320.htm)
+ > 或许你已经编程多年了，但是我敢打赌你依然会碰到处理不了的难题，如果你想要摆脱这种恶性循环，你需要跳出
  ## [基于springboot的文件上传](https://blog.csdn.net/qq_43137699/article/details/109479055)
  > 基于springboot的文件上传
  ## [\[Python图像处理\] 二十二.Python图像傅里叶变换原理及实现](https://blog.csdn.net/Eastmount/article/details/89474405)
