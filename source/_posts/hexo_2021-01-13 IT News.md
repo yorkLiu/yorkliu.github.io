@@ -1,22 +1,24 @@
 ---
 title: 2021-01-13 IT News
 copyright: true
-date: 2021-01-13 08:12:17
+date: 2021-01-13 09:09:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021，你好，电信人](http://mp.weixin.qq.com/s?src=11&timestamp=1610496004&ver=2825&signature=32aBjE2eIjza*uBEthwMwzZsUZWZCQ45l6BIm7*a5Ds6yXAzkQ0NstUHS1Juo3T9b4Q73FgtyFMO1ansdm3csN6gfV88ff88rPpAhx-k4imDbSnR-1QSP3lVDuirqHi2&new=1)
- > 你好，2021 你好，电信人青春须早为 岂能长少年用心服务客户 细心对待工作潜心学习争优 专心提升自我工作之余以好书 感受文字浪漫以画笔 勾勒世界绚烂以照片 定格瞬间美好以旋律 演绎生活弦歌以汗水 挥洒青春色...
- ## [历时四年，分布式文件系统JuiceFS正式开源](http://mp.weixin.qq.com/s?src=11&timestamp=1610496004&ver=2825&signature=nJlJdYYH36zxMhfddDVqmGa3czBnIsbglSaVUAssIyyKcd-5iXnltwPfhjy5LSCXlsq0Yzh1Jjh47-FgpfzMzHYq4ruSGG-j8I8a9GhTMCYaoPbxuPAmAvTr4zIc3Rp9&new=1)
- > 云原生分布式文件系统 JuiceFS 正式开源1月11日，Juicedata 果汁数据科技官方账号宣布 JuiceFS 正式开源，这是一个云原生分布式文件系统，经过了四年的持续迭代和累计几千万小时的线上考验。Davies（刘洪清，Jui...
- ## [中国半导体产业“虚火”正旺，最终成果或难达预期?](http://mp.weixin.qq.com/s?src=11&timestamp=1610496004&ver=2825&signature=ZWzbyKm6MRuDl0qw7S7Gi3mKxgo49dnlrQYbhBYkZcbMyXnsxmH9MzHBKWBXYspVsZd8zI0kroH89iP-PQSdC-Xm90otD5B1XhxUwlp3oJgpbSf8Z9iLWvnKvGmNT1Mw&new=1)
- > 自2010年以来，国家开始越来越重视半导体产业，并逐步加大对于国内半导体产业的投入。2014年国家集成电路产业投资基金正式设立，首期总规模达1387亿元，随后吸引了大批的地方政府及社会资本进入。特别是在2018年...
- ## [CES 2021：海信推出TriChroma激光电视显示技术](http://mp.weixin.qq.com/s?src=11&timestamp=1610496004&ver=2825&signature=SIyeKkcPdngQk0kKJCNzA4I0XMPhAvGZZB*Mk*bjlOnT4KUj2VTtfwMoIt4Vj2pzxfSab1ZgoZ5lZyLL*jRqkQjOgsyqLGaygdoevONil66KlAyH9rG3rG1Ef2sejV-5&new=1)
+ ## [CES 2021：海信推出TriChroma激光电视显示技术](http://mp.weixin.qq.com/s?src=11&timestamp=1610499605&ver=2825&signature=SIyeKkcPdngQk0kKJCNzA4I0XMPhAvGZZB*Mk*bjlOnT4KUj2VTtfwMoIt4Vj2pzARyAeofcEnEG7Aby5fXQPpAWZFKKIucxeF5EiNdAmUeSfXM0WKnTDpsuez4mH22Z&new=1)
  > 海信今天在CES 2021线上发布会上揭开了TriChroma激光电视新时代的面纱，这是一种最先进的显示技术。这项新技术将应用于多种设备，旨在在新的生态下重新连接人，自然和社会。海信激光显示首席科学家在主题演讲中...
- ## [国产厨房营养秤全球爆火背后，智能生态开垦新商业领地](http://mp.weixin.qq.com/s?src=11&timestamp=1610496004&ver=2825&signature=qnKLznJkBXhoFL-K8QxFBYuwpEMSA2w49f1y1NvSOXbsUv1KoxRDNxrxvjSSXwVsFy5RvQfxDEpNHeg-*Wo-J2Qy2wmnhVfok1Q6SvZ38r6BdFGI5lUzoVpollG1cv8-&new=1)
+ ## [历时四年，分布式文件系统JuiceFS正式开源](http://mp.weixin.qq.com/s?src=11&timestamp=1610499605&ver=2825&signature=nJlJdYYH36zxMhfddDVqmGa3czBnIsbglSaVUAssIyyKcd-5iXnltwPfhjy5LSCXNf-hqht3vFpIMgzTcMSFvKJ8C97NRC*5KSqLzeU2kYPby7ZiEJ0lTRQ9B3ZoioTl&new=1)
+ > 云原生分布式文件系统 JuiceFS 正式开源1月11日，Juicedata 果汁数据科技官方账号宣布 JuiceFS 正式开源，这是一个云原生分布式文件系统，经过了四年的持续迭代和累计几千万小时的线上考验。Davies（刘洪清，Jui...
+ ## [国产厨房营养秤全球爆火背后，智能生态开垦新商业领地](http://mp.weixin.qq.com/s?src=11&timestamp=1610499605&ver=2825&signature=qnKLznJkBXhoFL-K8QxFBYuwpEMSA2w49f1y1NvSOXbsUv1KoxRDNxrxvjSSXwVsqkV32TsUsxtpLdOFhMxcC4hkkDaEfUJ2NW12D9ICo8xjBcXMFUHsF3aPKYOMzGyU&new=1)
  > 将「雷科技Lite」收藏为我的小程序，不再错过精彩内容编辑丨钟立磊“上海白领体检异常率99%”，“90后的五大健康困扰”等话题频频登上热搜；头秃、肥宅等与健康问题相关的舆论从自黑自嘲，开始变为严肃的社会事...
+ ## [中国半导体产业“虚火”正旺，最终成果或难达预期?](http://mp.weixin.qq.com/s?src=11&timestamp=1610499605&ver=2825&signature=ZWzbyKm6MRuDl0qw7S7Gi3mKxgo49dnlrQYbhBYkZcbMyXnsxmH9MzHBKWBXYspVjj6PLhJemg9BT9I9x*kVzc9ir*RaIXMDaav5B4u28*2PV9g*zSBQUs3gGPDnVzVP&new=1)
+ > 自2010年以来，国家开始越来越重视半导体产业，并逐步加大对于国内半导体产业的投入。2014年国家集成电路产业投资基金正式设立，首期总规模达1387亿元，随后吸引了大批的地方政府及社会资本进入。特别是在2018年...
+ ## [2021，你好，电信人](http://mp.weixin.qq.com/s?src=11&timestamp=1610499605&ver=2825&signature=32aBjE2eIjza*uBEthwMwzZsUZWZCQ45l6BIm7*a5Ds6yXAzkQ0NstUHS1Juo3T90cTEkNy8haiSrXHxKVCCRMqbsHKQ7OFOpBDNIOUhQcXhElqTshZNztwM7APWwgk*&new=1)
+ > 你好，2021 你好，电信人青春须早为 岂能长少年用心服务客户 细心对待工作潜心学习争优 专心提升自我工作之余以好书 感受文字浪漫以画笔 勾勒世界绚烂以照片 定格瞬间美好以旋律 演绎生活弦歌以汗水 挥洒青春色...
 # IT 技术 
+ ## [这些是2020年全球下载量最高的十大应用](http://news.51cto.com/art/202101/640454.htm)
+ > 这些是2020年全球下载量最高的十大应用
  ## [数据清理技术：标准、实践、法规](http://stor.51cto.com/art/202101/640453.htm)
  > 数据清理技术：标准、实践、法规
  ## [项目管理软件KanbanFlow、Trello与nTask大比拼](http://developer.51cto.com/art/202101/640231.htm)
@@ -29,60 +31,58 @@ categories: IT NEWS
  > 全屏文本编辑器Focuswriter提高关注力的六种方式
  ## [InfoWorld发布程序员生存指南，32%开发者非科班出身](http://news.51cto.com/art/202101/640338.htm)
  > InfoWorld发布程序员生存指南，32%开发者非科班出身
- ## [鸿蒙HarmonyOS App开发造轮子-自定义圆形图片组件](http://developer.51cto.com/art/202101/640141.htm)
- > 鸿蒙HarmonyOS App开发造轮子-自定义圆形图片组件
- ## [MySQL用户权限与安全管理_MySQL数据库基础深入与核心解析03](http://fellow.51cto.com/art/202012/634846.htm?qd=51ctojrzd)
- > MySQL用户权限与安全管理_MySQL数据库基础深入与核心解析03
+ ## [EasyUI+S2SH+MySQL 在线商城系统_上 \[精讲大项目\]](http://fellow.51cto.com/art/202101/638879.htm?qd=51ctojrzd)
+ > EasyUI+S2SH+MySQL 在线商城系统_上 \[精讲大项目\]
+ ## [动态规划：整数拆分，你要怎么拆？](http://developer.51cto.com/art/202101/640576.htm)
+ > 给定一个正整数 n，将其拆分为至少两个正整数的和，并使这些整数的乘积最大化。返回你可以获得的最大乘积。
+ ## [一篇文章带你搞定Go语言基础之文件操作](http://developer.51cto.com/art/202101/640575.htm)
+ > 本次章节我们主要学习文件操作的相关知识，主要分为读取文件和写入文件
+ ## [今天，推荐一款还不错的穿透工具](http://developer.51cto.com/art/202101/640574.htm)
+ > Cpolar，内网穿透利器。它可以把内网服务器变成公网上可以访问。只输入一行命令就可以搞定。不论你在何处，
+ ## [Windows提权的几种常用姿势](http://netsecurity.51cto.com/art/202101/640572.htm)
+ > Windows常用的提权方式有：内核提权、数据库提权、系统配置错误提权、组策略首选项提权、Bypass UAC提权、
+ ## [深入浅出Dotnet Core的项目结构变化](http://developer.51cto.com/art/202101/640570.htm)
+ > 今天，就着这个点，写一下Dotnet Core的主要类型的项目结构，以及之间的转换和演化。
+ ## [2021年了，`IEnumerator`、`IEnumerable`接口还傻傻分不清楚？](http://network.51cto.com/art/202101/640569.htm)
+ > IEnumerator、IEnumerable这两个接口单词相近、含义相关，傻傻分不清楚。入行多年，一直没有系统性梳理这对
+ ## [Zabbix监控的性能指标自动生成美观的Report报告](http://os.51cto.com/art/202101/640573.htm)
+ > 今天就教大家如何使用Zabbix能够特别方便地自动生成你想要的资源、资源组，或者某些性能指标在任何时间段的
+ ## [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](http://news.51cto.com/art/202101/640567.htm)
+ > 随着 Facebook 和 Twitter 最近的产品部署，我认为一个新的趋势正在缓慢增长:Atomic CSS-in-JS。
  ## [SSD为何掉速、SLC缓存有啥用？](http://stor.51cto.com/art/202101/640565.htm)
  > 对SSD硬盘来说，随着TLC、QLC闪存占据主流，性能、可靠性问题日益突出，用久了还有掉速问题，这些麻烦都要
  ## [时代变了：显卡建议价成废纸、评测网站更改价格计算方式](http://biz.51cto.com/art/202101/640564.htm)
  > RTX 3080显卡售价是多少?NVIDIA官方给出的建议价是5499元，然而现在谁要是说5499元能买到RTX 3080显卡，结
- ## [笨鸟社交摊上事了 泄露2.14亿社交媒体用户隐私数据](http://netsecurity.51cto.com/art/202101/640562.htm)
- > 笨鸟社交由于Elasticsearch数据库配置错误，暴露了400GB的隐私数据，该数据库包含来自全球约2.14亿社交媒体
- ## [微软Windows10 复古免费工具集 PowerToys 将获得现代界面 UI，弹窗菜单曝光](http://os.51cto.com/art/202101/640561.htm)
- > 外媒 Windows Latest 报道，微软 Windows 10 上的开源 PowerToys 工具开发者正计划发布新的更新，其中包括
- ## [既然启动流程不太了解，那你知道Tomcat的生命周期是什么样子的么？](http://server.51cto.com/sOS-640560.htm)
- > Tomcat的生命周期管理的话，我们不能总是从书中获取那些知识，而是结合实践，然后综合书中的内容，进行一层
- ## [如何在 ASP.Net Core 中实现 数据保护API](http://netsecurity.51cto.com/art/202101/640559.htm)
- > 在 ASP.Net Core 数据保护栈中提供了一种非常简单的方法来加密API，从而保护数据的安全，通常落地的做法就
- ## [云原生时代下的网关V.S反向代理](http://cloud.51cto.com/art/202101/640558.htm)
- > WEB1.0/2.0时代，使用前置反向代理，由运维负责 nginx，进行反向代理和负载均衡、安全认证、限流缓存等功能
- ## [强烈建议卸载Adobe Flash：25 年的统治时代结束](http://os.51cto.com/art/202101/640554.htm)
- > IT之家1月13日消息 外媒 MacRumors 报道，几周前，Adobe 公司放弃了对 Flash Player 的支持，出于安全考虑
- ## [C语言函数传参：指针的指针](http://developer.51cto.com/art/202101/640555.htm)
- > 今天同事问了一个问题：在函数参数中传递指针的指针，很常用的一个场景，重新梳理一下记录于此，以后如果有
- ## [教你优雅的使用迭代器模式以及案例复盘](http://developer.51cto.com/art/202101/640553.htm)
- > 迭代器模式主要的思想就是在不暴露对象内部结构的同时可以按照一定顺序访问对象内部的元素。
- ## [数据处理一条龙！这15个Python库不可不知](https://blog.csdn.net/duxinshuxiaobian/article/details/105638527)
- > 数据处理一条龙！这15个Python库不可不知
- ## [Pytorch详解BCELoss和BCEWithLogitsLoss](https://blog.csdn.net/qq_22210253/article/details/85222093)
- > Pytorch详解BCELoss和BCEWithLogitsLoss
+ ## [Python - 编写可视化界面（Python+PyCharm+PyQt）](https://blog.csdn.net/bailang_zhizun/article/details/79310419)
+ > Python - 编写可视化界面（Python+PyCharm+PyQt）
+ ## [白嫖服务器——搭建个人简历网站](https://blog.csdn.net/weixin_46654114/article/details/107844661)
+ > 白嫖服务器——搭建个人简历网站
  ## [CSDN Chrome插件上新功能了，高亮博客详情页关键字，提升阅读效率](https://blog.csdn.net/weixin_44463441/article/details/112465773)
  > CSDN Chrome插件上新功能了，高亮博客详情页关键字，提升阅读效率
- ## [Python装饰器（你想知道的这里都有）](https://blog.csdn.net/mall_lucy/article/details/108791699)
- > Python装饰器（你想知道的这里都有）
- ## [vuex刷新后数据丢失怎么解决](https://blog.csdn.net/gitchatxiaomi/article/details/108914088)
- > vuex刷新后数据丢失怎么解决
- ## [基于Pytest框架的自动化测试开发实践（万字长文入门篇）](https://blog.csdn.net/liuchunming033/article/details/105946022)
- > 
+ ## [基于PyTorch的深度学习入门教程（一）——PyTorch安装和配置](https://blog.csdn.net/zzlyw/article/details/78674543)
+ > 基于PyTorch的深度学习入门教程（一）——PyTorch安装和配置
+ ## [【WriteUp】网鼎杯2020线下半决赛两道WEB](https://blog.csdn.net/weixin_42337765/article/details/110298641)
+ > 【WriteUp】网鼎杯2020线下半决赛两道WEB
+ ## [北京橙好科技？弄啥咧](https://blog.csdn.net/rainshine1190/article/details/111032233)
+ > 北京橙好科技？弄啥咧
  ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
  > 年终福利 | “社区之星”（年度贡献者）成长故事征集
- ## [Java全套视频教程免费下载](https://blog.csdn.net/bjpowernode_com/article/details/88125502)
- > Java全套视频教程免费下载
- ## [vue全套教程(实操)](https://blog.csdn.net/beixishuo/article/details/104870999)
- > vue全套教程(实操)
- ## [一看就懂！Springboot +Shiro +VUE 前后端分离式权限管理系统](https://blog.csdn.net/weixin_42236404/article/details/89319359)
- > 一看就懂！Springboot +Shiro +VUE 前后端分离式权限管理系统
- ## [真惨！连各大编程语言都摆起地摊了！](https://blog.csdn.net/xuanyuan_fsx/article/details/106658585)
+ ## [有没有那么一道题，让你从此真正理解了Python编程？](https://blog.csdn.net/xufive/article/details/105215593)
  > 
- ## [Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机](https://blog.csdn.net/m0_46163918/article/details/112311218)
- > Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机
+ ## [Java学习路线从入门到入土](https://blog.csdn.net/qq_45077173/article/details/108691139)
+ > Java学习路线从入门到入土
+ ## [1+X Web前端等级考证 | 2020 12月Web前端开发中级实操 (模拟试题第五套) 附答案](https://blog.csdn.net/weixin_43853746/article/details/109992935)
+ > 1+X Web前端等级考证 | 2020 12月Web前端开发中级实操 (模拟试题第五套) 附答案
+ ## [基于Python的OpenCV人脸检测](https://blog.csdn.net/m0_45161766/article/details/107545960)
+ > 
+ ## [Arduino智能小车——测试篇](https://blog.csdn.net/qq_16775293/article/details/77438499)
+ > Arduino智能小车——测试篇
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [YOLO系列之yolo v1](https://blog.csdn.net/leviopku/article/details/82588059)
- > YOLO系列之yolo v1
- ## [教你编写第一个人工智能程序](https://blog.csdn.net/jiangjunshow/article/details/81704868)
- > 教你编写第一个人工智能程序
+ ## [WEB安全新玩法 \[10\] 防范竞争条件支付漏洞](https://blog.csdn.net/weixin_44555968/article/details/108645393)
+ > WEB安全新玩法 \[10\] 防范竞争条件支付漏洞
+ ## [ThinkPHP6项目基操（15.实战部分 阿里云短信redis）](https://blog.csdn.net/zy1281539626/article/details/110913448)
+ > ThinkPHP6项目基操（15.实战部分 阿里云短信redis）
 # 人工智能 
  ## [使用 SQL 语句实现一个年会抽奖程序](https://blog.csdn.net/horses/article/details/111084926)
  > 使用 SQL 语句实现一个年会抽奖程序
