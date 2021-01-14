@@ -1,24 +1,30 @@
 ---
 title: 2021-01-14 IT News
 copyright: true
-date: 2021-01-14 09:19:07
+date: 2021-01-14 10:12:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[喂你播\]腾讯QQ兴趣部落宣布下线；春运期间推动健康码全国一码通行](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=Q5xKTM4mAdu1Uy2jEW4driFx70sLL3vKbwwTknw*1j2Vqw7PZ4uZymuFCr*J-W9M23nkXLBNxq6YwIu3KhUkr6mcoumE5EGcvvqhGlDALfiFLHBCYlO108ATbYaAY2te&new=1)
- > BGM：Dreamin&x27; Girl-cinnamons腾讯QQ兴趣部落宣布下线近日，QQ于 2014 年推出的基于兴趣的公开主题社区兴趣部落发布《部落停运公告》，宣布兴趣部落将于 2021 年 2 月 26 日关闭服务器，正式停止运营。兴趣
- ## [智商税变种，伪科技又举新镰刀](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=kp43QCK9cXKQhmOYIX1MZOns1K2CZsY7upVRoRE5LYOY88ZCAf7B6Li2hUrBThTYoPe63mKrrpXUAWpT-gio9*9p8TeZMKPEvHnISK3tcGHXu-quFyFfHjAUew-lNyJI&new=1)
+ ## [智商税变种，伪科技又举新镰刀](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=kp43QCK9cXKQhmOYIX1MZOns1K2CZsY7upVRoRE5LYOY88ZCAf7B6Li2hUrBThTY9g*SgBURRfdYpuNX2AxjH79aXHcfKmCoE2AGw6Be5U66*wRdUnP8zfPvwcuWFzL1&new=1)
  > 伪科技产品，像巡回的清仓甩卖商家一样，每隔一段时间就会搬出一些不明觉厉的新词，做着把消费者智商按在地上摩擦的事，定期收割智商税。前些年，石墨烯、量子、暗物质等专业领域的概念，生生地被商家摇身一变成...
- ## [数字与产业变革融合，华为云Stack深度驱动能源智能升级](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=4i54gi-abO-Oosj7tLCfAlB-h8TeWG2MS9D*l3NNzW8ysfQhewiys7K*Eo9Ks4ZT1sBycZaQcOSpgVYXJX5g303U8MpyYrXfBxQzhzSXdMn22o*qFHIPZvFlovjZkV0r&new=1)
- > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记2021年，“十四五”崭新开局，明确要求加快第五代移动通信、工业互联网、大数据中心等建设。各行各业在转型升级的前面都加上了两个字——加速！能源行业也不例外，国家能...
- ## [2021年，通信人职场机会在哪?华为HCIE-5G-Radio认证指方向](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=JJBONetmwmCdCV3n8t8L7s64iEx-K6TxnuR-olw6KVLZh-DCPKCNvrjrJkoXqfspcvygFd6c*Msx4grsT-p3zVBFvU0CjNpMHvKxNjriJkNI9xysI9HeMjePopBDHUiO&new=1)
+ ## [\[报告\]2020年汽车产销数据及汽车工业运行情况(附33页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=tXe89j8IJaauTPmPkOssgvpP13hmCtWvEFFHkkAhpi*fu9bG7b69Kh-RpxIgZzwmdbcojDa8UgWcclpsjKActGcOCv0BAW81q7MmBJBvs82dEpSX8JzT0HwRYaabzCrL&new=1)
+ > 2020年12月，汽车产销分别完成284.0万辆和283.1万辆，产销量同比分别增长5.7%和6.4%。2020年全年汽车产销分别完成2522.5万辆和2531.1万辆，同比分别下降2.0%和1.9%，降幅比上年分别收窄5.5和6.3个百分
+ ## [关注|Acacia反诉思科 阐述变强大的四大因素](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=rkrJA*OB*WuAXaUcEUo4GHka8qQnc5KM6gnkWtcIJAyHehTWn28JvYCTjYtGBCACgjk3o6yEJwN5usZLeJjpBglQtVMsy6OwmD6FaTvkeRP0o6QahX6vNZz*RtHf0W7g&new=1)
+ > 新闻导读针对思科的诉讼，Acacia提出反诉。在周一的电话会议中，公司CEO详述了让Acacia变得更加强大的四个因素。ICC讯（编译：Nina）美国马萨诸塞州MAYNARD，2021年1月11日--Acacia Communication
+ ## [2021年，通信人职场机会在哪?华为HCIE-5G-Radio认证指方向](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=JJBONetmwmCdCV3n8t8L7s64iEx-K6TxnuR-olw6KVLZh-DCPKCNvrjrJkoXqfsptT8Fg-hiv-sG5ATNSvPqwSHEgMNlu-dizIFjeg2jj8z8worzsHh0exQpeNdJVBYI&new=1)
  > 2021年开始，很多通信工程师以及通信院校学子，在探讨当前通信行业的职场机会在哪里。顺势而为，才能乘势而上。当前通信领域趋势是全面发展5G，但缺乏大量既懂网络又懂行业应用的5G人才。根据工信部的数据，到20...
- ## [首款RISC-V AI单板计算机发布!赛昉科技携手合作伙伴补齐RISC-V硬件供应链](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=i5STEWzIa1fgFt1GOkwQ-Ks9BJw3LeAu6A4NomTl0mVs8HB9zenDExKm4ndog*tAKQUxAqP9*gbdhU5n8UnfHsQra6iMvJi3rmxo7pqrGljWQsbXZSwIysV4FZBRC50j&new=1)
+ ## [首款RISC-V AI单板计算机发布!赛昉科技携手合作伙伴补齐RISC-V硬件供应链](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=i5STEWzIa1fgFt1GOkwQ-Ks9BJw3LeAu6A4NomTl0mVs8HB9zenDExKm4ndog*tAajBkXN8dPA9ParFQHx5DUB5oIMNPzZvW3nTKBcaA7aboIhgeMRQWwvBHBH0Gn1DE&new=1)
  > 2021年1月13日，RISC-V处理器IP供应商——赛昉科技在上海召开新品发布会，携手合作伙伴BeagleBoard和Seeed推出了全球首款RISC-V AI单板计算机——星光（合作伙伴BeagleBoard和Seeed将基于星光以Be
+ ## [\[喂你播\]腾讯QQ兴趣部落宣布下线；春运期间推动健康码全国一码通行](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=Q5xKTM4mAdu1Uy2jEW4driFx70sLL3vKbwwTknw*1j2Vqw7PZ4uZymuFCr*J-W9M59hoQiWOxoaAplOeImmO45cgtfKzGPWESGT8-tkjoAY*f9fs15*ncKvlb5vkxANj&new=1)
+ > BGM：Dreamin&x27; Girl-cinnamons腾讯QQ兴趣部落宣布下线近日，QQ于 2014 年推出的基于兴趣的公开主题社区兴趣部落发布《部落停运公告》，宣布兴趣部落将于 2021 年 2 月 26 日关闭服务器，正式停止运营。兴趣
+ ## [数字与产业变革融合，华为云Stack深度驱动能源智能升级](http://mp.weixin.qq.com/s?src=11&timestamp=1610589604&ver=2827&signature=4i54gi-abO-Oosj7tLCfAlB-h8TeWG2MS9D*l3NNzW8ysfQhewiys7K*Eo9Ks4ZT2BOhzSEzJPIAAXCr1UCKRBYcg42aSYIS0A1nDHmvdM6NqMK1iGItyKCVU5a0h3vc&new=1)
+ > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记2021年，“十四五”崭新开局，明确要求加快第五代移动通信、工业互联网、大数据中心等建设。各行各业在转型升级的前面都加上了两个字——加速！能源行业也不例外，国家能...
 # IT 技术 
  ## [以新版本为例，全面比较Fedora与Ubuntu](http://developer.51cto.com/art/202101/640688.htm)
  > 以新版本为例，全面比较Fedora与Ubuntu
+ ## [手把手教你搭建鸿蒙hi3518开发和运行环境](http://developer.51cto.com/art/202101/640660.htm)
+ > 手把手教你搭建鸿蒙hi3518开发和运行环境
  ## [如何使用DokuWiki将软硬件记入文档？](http://server.51cto.com/Datacenter-640687.htm)
  > 如何使用DokuWiki将软硬件记入文档？
  ## [Nginx从入门到干活，看这一篇足矣](http://server.51cto.com/-640791.htm)
@@ -29,30 +35,28 @@ categories: IT NEWS
  > 2020年全球下载量最高的十大应用排行榜出炉
  ## [切记！MySQL中Order By与Limit不要一起用！](http://database.51cto.com/art/202101/640557.htm)
  > 切记！MySQL中Order By与Limit不要一起用！
- ## [鸿蒙手机经典小游戏-俄罗斯方块](http://developer.51cto.com/art/202101/640416.htm)
- > 鸿蒙手机经典小游戏-俄罗斯方块
- ## [ArcGIS10.X入门实战视频教程（GIS思维）](http://fellow.51cto.com/art/202012/637835.htm?qd=51ctojrzd)
- > ArcGIS10.X入门实战视频教程（GIS思维）
- ## [Windows10X细节浮出水面：任务栏居中、全新启动动画](http://os.51cto.com/art/202101/640802.htm)
- > 经过一年的折腾和几个月的沉默，Windows 10X终于完成并准备“发布到生产厂商(RTM)”版本，这意味着它已经开
- ## [从Linux命令行进行打印](http://os.51cto.com/art/202101/640803.htm)
- > 在 Linux 命令行进行打印的内容比单单一个 lp 命令多得多，让我们来看一些可用选项。
- ## [动态规划：给我n个节点，我能知道可以组成多少个不同的二叉搜索树](http://developer.51cto.com/art/202101/640800.htm)
- > 从递归公式上来讲，dp\[以j为头结点左子树节点数量\] * dp\[以j为头结点右子树节点数量\] 中以j为头结点左子树
- ## [你确定不了解下 2021 年 Web 开发的趋势嘛](http://developer.51cto.com/art/202101/640801.htm)
- > 现在，Web 开发世界正在不断变化，趋势也是如此。有时候，这些趋势变化的速度远远快于它们可以被利用的速度
- ## [LeetCode之重复数字](http://developer.51cto.com/art/202101/640798.htm)
- > 算法题也是面试常考的项，之前也说过，虽然用到的比较少，但是可以从算法题中考验一个程序员基本的逻辑思维
- ## [Python 中的面向接口编程](http://developer.51cto.com/art/202101/640797.htm)
- > ”面向接口编程“写 Java 的朋友耳朵已经可以听出干茧了吧，当然这个思想在 Java 中非常重要，甚至几乎所有
- ## [Linux下 Lsof 命令详解](http://os.51cto.com/art/202101/640795.htm)
- > 在Linux中，一切皆文件，lsof命令可以查看所有已经打开了的文件，比如: 普通文件，目录，特殊的块文件，管
- ## [有关JavaScript中回调函数的所有内容！](http://developer.51cto.com/art/202101/640794.htm)
- > 回调函数是每个 JS 开发人员都应该知道的概念之一。回调用于数组，计时器函数，promise，事件处理程序等中
- ## [微信屏蔽知乎、快手、拼多多等多个产品外链](http://mobile.51cto.com/anews-640789.htm)
- > 微信安全中心发布对第三方违规导流链接的处理公示，对QQ音乐、QQ浏览器、多多直播、知乎、好看视频、小红书
- ## [QRCanvas-动态生成二维码的开源优秀js库](http://os.51cto.com/art/202101/640788.htm)
- > 今天分享的 QRCanvas 则是专门满足如何在前端生成动态二维码的需求。
+ ## [C语言程序设计入门 ―初级主题视频课程](http://fellow.51cto.com/art/202101/639568.htm?qd=51ctojrzd)
+ > C语言程序设计入门 ―初级主题视频课程
+ ## [Java微服务 vs Go微服务，究竟谁更强！？](http://news.51cto.com/art/202101/640824.htm)
+ > Java微服务能像Go微服务一样快吗？在程序员圈子里，普遍的看法是Java 老、慢、无聊 ，而Go是 快、新、酷
+ ## [5G套餐要设定合理合约期限](http://network.51cto.com/art/202101/640820.htm)
+ > 信部副部长刘烈宏要求，要有序推进5G网络建设，加强5G网络覆盖，增强网络供给能力；要积极采取措施，为用户
+ ## [真机运行鸿蒙HarmonyOS应用APP](http://os.51cto.com/art/202101/640672.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [拼多多“删照事件”:侵害个人信息的“疤”何时才能彻底愈合？](http://netsecurity.51cto.com/art/202101/640821.htm)
+ > 1月12日有报道称，有网友爆料拼多多App远程将其手机相册中的图片删掉。并不知情的网友被vivo手机系统检测发
+ ## [开发文件上传功能稍不注意就会引发安全漏洞](http://netsecurity.51cto.com/art/202101/640823.htm)
+ > 文件上传在日常开发中十分常见，但是潜在的安全问题非常容易忽视。一旦开发中忽视了这些问题，将会引发系统
+ ## [苹果被指控侵犯五项相关无线通信专利](http://news.51cto.com/art/202101/640817.htm)
+ > 总部位于美国特拉华州的通信技术公司Neo Wireless周三向得克萨斯州西区地区法院提起侵权诉讼，指控苹果iPho
+ ## [产品原型设计AxureRP9入门实操教程](http://fellow.51cto.com/art/202101/640717.htm)
+ > 帮助学员从安装到操作全流程，包括基本功能的使用、小功能案例，学员毕业后能够轻松使用Axure
+ ## [macOS 二进制 plist 解析的漏洞分析](http://netsecurity.51cto.com/art/202101/640815.htm)
+ > 属性表文件(Plist)是一种文件形式，通常用于储存用户设置，也可以用于存储捆绑的信息，该功能在旧式的Mac O
+ ## [硬核！CES 2021 大赏：打工人是虚拟人、口红加入 AI 算法、机器人毛茸茸](http://news.51cto.com/art/202101/640816.htm)
+ > CES 2021 采取「全数字化」方式进行呈现，所有线下活动取消，转至线上，这对于自 1967 年开始举办的 CES 来
+ ## [讲讲用户空间和内核空间](http://os.51cto.com/art/202101/640814.htm)
+ > 这篇文章是为了后面讲ReentrantLock做准备的，先热个身，随着研究的深入，就来到了这里，要把一件事情讲清
  ## [YOLO v3网络结构分析](https://blog.csdn.net/qq_37541097/article/details/81214953)
  > YOLO v3网络结构分析
  ## [R语言用ARIMA模型预测巧克力的兴趣趋势时间序列](https://blog.csdn.net/qq_19600291/article/details/105792498)
@@ -83,37 +87,6 @@ categories: IT NEWS
  > YoLov3训练自己的数据集（小白手册）
  ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
  > 
-# 人工智能 
- ## [使用 SQL 语句实现一个年会抽奖程序](https://blog.csdn.net/horses/article/details/111084926)
- > 使用 SQL 语句实现一个年会抽奖程序
- ## [图文理解 Spark 3.0 的动态分区裁剪优化](https://blog.csdn.net/w397090770/article/details/112343200)
- > 图文理解 Spark 3.0 的动态分区裁剪优化
- ## [Jetpack框架探究01：Lifecycle组件的使用与源码分析](https://blog.csdn.net/AndrExpert/article/details/112346887)
- > Jetpack框架探究01：Lifecycle组件的使用与源码分析
- ## [【入门教程】​TensorFlow 2.0 模型：卷积神经网络](https://blog.csdn.net/tensorflowforum/article/details/112352764)
- > 【入门教程】​TensorFlow 2.0 模型：卷积神经网络
- ## [如何用Python的标准print函数打印一个彩色的围棋局面？](https://blog.csdn.net/xufive/article/details/112363412)
- > 如何用Python的标准print函数打印一个彩色的围棋局面？
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [手艺人舍bpftrace而取systemtap的代价和思考](https://blog.csdn.net/dog250/article/details/112387192)
- > 手艺人舍bpftrace而取systemtap的代价和思考
- ## [实现网页长截图的常见思路总结](https://blog.csdn.net/qinyuanpei/article/details/112429622)
- > 实现网页长截图的常见思路总结
- ## [你确定你真的理解“双亲委派“了吗？！](https://blog.csdn.net/hollis_chuang/article/details/112462198)
- > 
- ## [应该监控哪些Kubernetes健康指标](https://blog.csdn.net/fly910905/article/details/112467716)
- > 应该监控哪些Kubernetes健康指标
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [SCI-HUB 印度被诉、twitter账号被封，是梁上君子还是罗宾汉？](https://blog.csdn.net/weixin_39787030/article/details/112485741)
- > SCI-HUB 印度被诉、twitter账号被封，是梁上君子还是罗宾汉？
- ## [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](https://blog.csdn.net/dyc87112/article/details/112506676)
- > Spring Boot 2.x基础教程：使用Flyway管理数据库版本
- ## [2020 博客之星评选【票数排行榜】每日更新](https://blog.csdn.net/hihell/article/details/112495471)
- > 2020 博客之星评选【票数排行榜】每日更新
- ## [CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！](https://blog.csdn.net/qq_41185868/article/details/112497663)
- > CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！
 # PM 
  ## [24岁刚入社会，35岁已无机会｜求职人群洞察](http://www.chanpin100.com/article/113371)
  > 易观分析：“打工是不可能打工的，这辈子都不可能打工。”2015年，周立齐因盗窃被捕，在接受采访时他因讲出这句话而走红，被网友冠以精神领袖“窃·格瓦拉”之名。2020年4月份周立齐出狱，11月份与一家电动车公司签约成为联合创始人。曾经的不可能也变为可能，“精神领袖”也加入打工人的行列，毕竟“打工人，打
