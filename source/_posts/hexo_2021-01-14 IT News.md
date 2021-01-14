@@ -1,22 +1,24 @@
 ---
 title: 2021-01-14 IT News
 copyright: true
-date: 2021-01-14 08:22:00
+date: 2021-01-14 09:19:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [数字与产业变革融合，华为云Stack深度驱动能源智能升级](http://mp.weixin.qq.com/s?src=11&timestamp=1610582404&ver=2827&signature=4i54gi-abO-Oosj7tLCfAlB-h8TeWG2MS9D*l3NNzW8ysfQhewiys7K*Eo9Ks4ZTTJl-70-3Hg*p1JDo2Xlk0-58Lw193uWVWKGpzZ-d0j7v4D17kTjeAgYHQ9VfToa9&new=1)
- > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记2021年，“十四五”崭新开局，明确要求加快第五代移动通信、工业互联网、大数据中心等建设。各行各业在转型升级的前面都加上了两个字——加速！能源行业也不例外，国家能...
- ## [\[喂你播\]腾讯QQ兴趣部落宣布下线；春运期间推动健康码全国一码通行](http://mp.weixin.qq.com/s?src=11&timestamp=1610582404&ver=2827&signature=Q5xKTM4mAdu1Uy2jEW4driFx70sLL3vKbwwTknw*1j2Vqw7PZ4uZymuFCr*J-W9MyEZE6FbiOhiu1bd49uuEoLyjWIlyre4wz1Wq*acEtsG92*3C5HF*fwH*LvnIfHl1&new=1)
+ ## [\[喂你播\]腾讯QQ兴趣部落宣布下线；春运期间推动健康码全国一码通行](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=Q5xKTM4mAdu1Uy2jEW4driFx70sLL3vKbwwTknw*1j2Vqw7PZ4uZymuFCr*J-W9M23nkXLBNxq6YwIu3KhUkr6mcoumE5EGcvvqhGlDALfiFLHBCYlO108ATbYaAY2te&new=1)
  > BGM：Dreamin&x27; Girl-cinnamons腾讯QQ兴趣部落宣布下线近日，QQ于 2014 年推出的基于兴趣的公开主题社区兴趣部落发布《部落停运公告》，宣布兴趣部落将于 2021 年 2 月 26 日关闭服务器，正式停止运营。兴趣
- ## [首款RISC-V AI单板计算机发布!赛昉科技携手合作伙伴补齐RISC-V硬件供应链](http://mp.weixin.qq.com/s?src=11&timestamp=1610582404&ver=2827&signature=i5STEWzIa1fgFt1GOkwQ-Ks9BJw3LeAu6A4NomTl0mVs8HB9zenDExKm4ndog*tA3wGSf1SrT5p5R51wla65CuFRW1gnxh613H4Fvkk8cAJcWzDsUqi5WUO2Fk22Xi0z&new=1)
- > 2021年1月13日，RISC-V处理器IP供应商——赛昉科技在上海召开新品发布会，携手合作伙伴BeagleBoard和Seeed推出了全球首款RISC-V AI单板计算机——星光（合作伙伴BeagleBoard和Seeed将基于星光以Be
- ## [2021年，通信人职场机会在哪?华为HCIE-5G-Radio认证指方向](http://mp.weixin.qq.com/s?src=11&timestamp=1610582404&ver=2827&signature=JJBONetmwmCdCV3n8t8L7s64iEx-K6TxnuR-olw6KVLZh-DCPKCNvrjrJkoXqfspSesJAzn04mjgwC2Jw39moP9rVuvVq-5pYfCzskAbyhjpSM8OJjPp7bKGa0ABuZJw&new=1)
- > 2021年开始，很多通信工程师以及通信院校学子，在探讨当前通信行业的职场机会在哪里。顺势而为，才能乘势而上。当前通信领域趋势是全面发展5G，但缺乏大量既懂网络又懂行业应用的5G人才。根据工信部的数据，到20...
- ## [智商税变种，伪科技又举新镰刀](http://mp.weixin.qq.com/s?src=11&timestamp=1610582404&ver=2827&signature=kp43QCK9cXKQhmOYIX1MZOns1K2CZsY7upVRoRE5LYOY88ZCAf7B6Li2hUrBThTY9RkbnOC7etmtoqSLyb6reVDo1A20ggG6OebtNBHU7YcU265cgez0obI3UD4SkZ6h&new=1)
+ ## [智商税变种，伪科技又举新镰刀](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=kp43QCK9cXKQhmOYIX1MZOns1K2CZsY7upVRoRE5LYOY88ZCAf7B6Li2hUrBThTYoPe63mKrrpXUAWpT-gio9*9p8TeZMKPEvHnISK3tcGHXu-quFyFfHjAUew-lNyJI&new=1)
  > 伪科技产品，像巡回的清仓甩卖商家一样，每隔一段时间就会搬出一些不明觉厉的新词，做着把消费者智商按在地上摩擦的事，定期收割智商税。前些年，石墨烯、量子、暗物质等专业领域的概念，生生地被商家摇身一变成...
+ ## [数字与产业变革融合，华为云Stack深度驱动能源智能升级](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=4i54gi-abO-Oosj7tLCfAlB-h8TeWG2MS9D*l3NNzW8ysfQhewiys7K*Eo9Ks4ZT1sBycZaQcOSpgVYXJX5g303U8MpyYrXfBxQzhzSXdMn22o*qFHIPZvFlovjZkV0r&new=1)
+ > 文 | 懂懂   编辑 | 秦言来源：懂懂笔记2021年，“十四五”崭新开局，明确要求加快第五代移动通信、工业互联网、大数据中心等建设。各行各业在转型升级的前面都加上了两个字——加速！能源行业也不例外，国家能...
+ ## [2021年，通信人职场机会在哪?华为HCIE-5G-Radio认证指方向](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=JJBONetmwmCdCV3n8t8L7s64iEx-K6TxnuR-olw6KVLZh-DCPKCNvrjrJkoXqfspcvygFd6c*Msx4grsT-p3zVBFvU0CjNpMHvKxNjriJkNI9xysI9HeMjePopBDHUiO&new=1)
+ > 2021年开始，很多通信工程师以及通信院校学子，在探讨当前通信行业的职场机会在哪里。顺势而为，才能乘势而上。当前通信领域趋势是全面发展5G，但缺乏大量既懂网络又懂行业应用的5G人才。根据工信部的数据，到20...
+ ## [首款RISC-V AI单板计算机发布!赛昉科技携手合作伙伴补齐RISC-V硬件供应链](http://mp.weixin.qq.com/s?src=11&timestamp=1610586005&ver=2827&signature=i5STEWzIa1fgFt1GOkwQ-Ks9BJw3LeAu6A4NomTl0mVs8HB9zenDExKm4ndog*tAKQUxAqP9*gbdhU5n8UnfHsQra6iMvJi3rmxo7pqrGljWQsbXZSwIysV4FZBRC50j&new=1)
+ > 2021年1月13日，RISC-V处理器IP供应商——赛昉科技在上海召开新品发布会，携手合作伙伴BeagleBoard和Seeed推出了全球首款RISC-V AI单板计算机——星光（合作伙伴BeagleBoard和Seeed将基于星光以Be
 # IT 技术 
+ ## [以新版本为例，全面比较Fedora与Ubuntu](http://developer.51cto.com/art/202101/640688.htm)
+ > 以新版本为例，全面比较Fedora与Ubuntu
  ## [如何使用DokuWiki将软硬件记入文档？](http://server.51cto.com/Datacenter-640687.htm)
  > 如何使用DokuWiki将软硬件记入文档？
  ## [Nginx从入门到干活，看这一篇足矣](http://server.51cto.com/-640791.htm)
@@ -29,59 +31,57 @@ categories: IT NEWS
  > 切记！MySQL中Order By与Limit不要一起用！
  ## [鸿蒙手机经典小游戏-俄罗斯方块](http://developer.51cto.com/art/202101/640416.htm)
  > 鸿蒙手机经典小游戏-俄罗斯方块
- ## [今天，推荐一款还不错的穿透工具帮助客户做站点内测](http://developer.51cto.com/art/202101/640574.htm)
- > 今天，推荐一款还不错的穿透工具帮助客户做站点内测
- ## [华为HCNA/HCIA网络工程师 自学视频\[肖哥\]](http://fellow.51cto.com/art/202101/638283.htm?qd=51ctojrzd)
- > 华为HCNA/HCIA网络工程师 自学视频\[肖哥\]
+ ## [ArcGIS10.X入门实战视频教程（GIS思维）](http://fellow.51cto.com/art/202012/637835.htm?qd=51ctojrzd)
+ > ArcGIS10.X入门实战视频教程（GIS思维）
+ ## [Windows10X细节浮出水面：任务栏居中、全新启动动画](http://os.51cto.com/art/202101/640802.htm)
+ > 经过一年的折腾和几个月的沉默，Windows 10X终于完成并准备“发布到生产厂商(RTM)”版本，这意味着它已经开
+ ## [从Linux命令行进行打印](http://os.51cto.com/art/202101/640803.htm)
+ > 在 Linux 命令行进行打印的内容比单单一个 lp 命令多得多，让我们来看一些可用选项。
+ ## [动态规划：给我n个节点，我能知道可以组成多少个不同的二叉搜索树](http://developer.51cto.com/art/202101/640800.htm)
+ > 从递归公式上来讲，dp\[以j为头结点左子树节点数量\] * dp\[以j为头结点右子树节点数量\] 中以j为头结点左子树
+ ## [你确定不了解下 2021 年 Web 开发的趋势嘛](http://developer.51cto.com/art/202101/640801.htm)
+ > 现在，Web 开发世界正在不断变化，趋势也是如此。有时候，这些趋势变化的速度远远快于它们可以被利用的速度
+ ## [LeetCode之重复数字](http://developer.51cto.com/art/202101/640798.htm)
+ > 算法题也是面试常考的项，之前也说过，虽然用到的比较少，但是可以从算法题中考验一个程序员基本的逻辑思维
+ ## [Python 中的面向接口编程](http://developer.51cto.com/art/202101/640797.htm)
+ > ”面向接口编程“写 Java 的朋友耳朵已经可以听出干茧了吧，当然这个思想在 Java 中非常重要，甚至几乎所有
+ ## [Linux下 Lsof 命令详解](http://os.51cto.com/art/202101/640795.htm)
+ > 在Linux中，一切皆文件，lsof命令可以查看所有已经打开了的文件，比如: 普通文件，目录，特殊的块文件，管
+ ## [有关JavaScript中回调函数的所有内容！](http://developer.51cto.com/art/202101/640794.htm)
+ > 回调函数是每个 JS 开发人员都应该知道的概念之一。回调用于数组，计时器函数，promise，事件处理程序等中
  ## [微信屏蔽知乎、快手、拼多多等多个产品外链](http://mobile.51cto.com/anews-640789.htm)
  > 微信安全中心发布对第三方违规导流链接的处理公示，对QQ音乐、QQ浏览器、多多直播、知乎、好看视频、小红书
  ## [QRCanvas-动态生成二维码的开源优秀js库](http://os.51cto.com/art/202101/640788.htm)
  > 今天分享的 QRCanvas 则是专门满足如何在前端生成动态二维码的需求。
- ## [Windows10通知中心剧变！带你围观Windows10新版这些变化](http://os.51cto.com/art/202101/640787.htm)
- > 我们知道微软今年会在Windows10中发力，按照微软的规划，将会在上半年先发布一个小修小补的版本Windows10 2
- ## [面试官：如果让你设计一个高并发的消息中间件，你会怎么做？](http://developer.51cto.com/art/202101/640786.htm)
- > 相信很多小伙伴对于生产者和消费者模型都比较了解了，简单的说：就是消息中间件能够使其他应用来生产消息，
- ## [Hive进阶―抽样的各种玩法](http://bigdata.51cto.com/art/202101/640785.htm)
- > 我们一般情况下是使用排序函数和rand() 函数来完成随机抽样，limit关键字限制抽样返回的数据，不同之处再有
- ## [快报：正式提案将泛型特性加入 Go 语言](http://developer.51cto.com/art/202101/640784.htm)
- > 经历九九八十一难，多年的不断探讨和 Go 语言爱好者们在社区中的强烈关注，且 Go 官方在 2020 年不断放出消
- ## [超全MyBatis动态代理详解！](http://developer.51cto.com/art/202101/640783.htm)
- > 众所周知哈，Mybatis 底层封装使用的 JDK 动态代理。说 Mybatis 动态代理之前，先来看一下平常我们写的动态
- ## [基础篇：Java原子组件和同步组件](http://developer.51cto.com/art/202101/640782.htm)
- > 在使用多线程并发编程的时，经常会遇到对共享变量修改操作。此时我们可以选择ConcurrentHashMap，Concurren
- ## [使用倒排索引极速提高字符串搜索效率](http://developer.51cto.com/art/202101/640781.htm)
- > 看完这篇文章以后，你已经学会了倒排索引(Inverted-index)。这是Google搜索的核心算法之一。
- ## [Http协议发展简史以及常见面试题解析](http://network.51cto.com/art/202101/640780.htm)
- > 超文本传输协议(HTTP)是Internet上最普遍和广泛采用的应用程序协议之一：它是客户端和服务器之间的通用语言
- ## [Deep Reinforcement Learning - 1. DDPG原理和算法](https://blog.csdn.net/kenneth_yu/article/details/78478356)
- > Deep Reinforcement Learning - 1. DDPG原理和算法
- ## [vue基于element-ui二次封装分页组件](https://blog.csdn.net/pujihong/article/details/106720047)
- > vue基于element-ui二次封装分页组件
+ ## [YOLO v3网络结构分析](https://blog.csdn.net/qq_37541097/article/details/81214953)
+ > YOLO v3网络结构分析
+ ## [R语言用ARIMA模型预测巧克力的兴趣趋势时间序列](https://blog.csdn.net/qq_19600291/article/details/105792498)
+ > R语言用ARIMA模型预测巧克力的兴趣趋势时间序列
  ## [CSDN Chrome插件上新功能，高亮博客详情页关键字，提升阅读效率](https://blog.csdn.net/weixin_44463441/article/details/112465773)
  > CSDN Chrome插件上新功能，高亮博客详情页关键字，提升阅读效率
- ## [ThinkPHP6.0 重写URL去掉Index.php解决](https://blog.csdn.net/weixin_43967679/article/details/111221787)
- > ThinkPHP6.0 重写URL去掉Index.php解决
- ## [听说你要接私活？Guide哥连夜整理了5个开源免费的Java项目快速开发脚手架，项目经验也有了。](https://blog.csdn.net/qq_34337272/article/details/106199561)
+ ## [大一期末作业 c/c++实现简单学校人员管理系统](https://blog.csdn.net/mazamu/article/details/106898818)
  > 
- ## [解决Cannot deserialize instance of `java.util.ArrayList＜java.lang.Object＞` out of VALUE_STRING token](https://blog.csdn.net/xuguoxing123/article/details/109206452)
- > 解决Cannot deserialize instance of `java.util.ArrayList＜java.lang.Object＞` out of VALUE_STRING token
+ ## [\[记录九\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之node后台sql语句和数据库结构](https://blog.csdn.net/gitchatxiaomi/article/details/108308276)
+ > \[记录九\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之node后台sql语句和数据库结构
+ ## [Arduino智能小车——测试篇](https://blog.csdn.net/qq_16775293/article/details/77438499)
+ > Arduino智能小车——测试篇
  ## [熊克斐：技术夜未眠 从码畜到CTO](https://blog.csdn.net/csdnstudent/article/details/112462517)
  > 熊克斐：技术夜未眠 从码畜到CTO
- ## [素数基本（埃氏筛法/线性筛法）](https://blog.csdn.net/hebtu666/article/details/81486370)
- > 素数基本（埃氏筛法/线性筛法）
- ## [利用 Python 爬取了 13966 条运维招聘信息，我得出了哪些结论？](https://blog.csdn.net/jake_tian/article/details/107217027)
+ ## [我用大数据分析了一线城市1000多份岗位招聘需求，告诉你如何科学找工作](https://blog.csdn.net/u011644231/article/details/104741589)
  > 
- ## [FOC和SVPWM的C语言代码实现](https://blog.csdn.net/qlexcel/article/details/95227991)
- > FOC和SVPWM的C语言代码实现
- ## [独孤九剑之js操作数组](https://blog.csdn.net/liuqiao0327/article/details/106877333)
- > 
- ## [爬虫（101）爬点重口味的](https://blog.csdn.net/qq_36772866/article/details/105463280)
- > 爬虫（101）爬点重口味的
+ ## [\[FPGA\]基于FPGA的数字跑表](https://blog.csdn.net/powerliuminxuan/article/details/109751741)
+ > \[FPGA\]基于FPGA的数字跑表
+ ## [ctf web个人总结](https://blog.csdn.net/qq_31343581/article/details/90617140)
+ > ctf web个人总结
+ ## [python 考试题（带答案）](https://blog.csdn.net/yipianfeng_ye/article/details/89416439)
+ > python 考试题（带答案）
+ ## [iOS 网络优化: 使你的 App 网络交互更流畅](https://blog.csdn.net/sinat_35969632/article/details/109349360)
+ > iOS 网络优化: 使你的 App 网络交互更流畅
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [用Python一键修改上万个文件名（大哥，别右键重命名了好吗？？？）](https://blog.csdn.net/qiukui111/article/details/106160745)
- > 
- ## [自学编程的 6 个致命误区](https://blog.csdn.net/qing_gee/article/details/105685320)
+ ## [YoLov3训练自己的数据集（小白手册）](https://blog.csdn.net/weixin_42731241/article/details/81352013)
+ > YoLov3训练自己的数据集（小白手册）
+ ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
  > 
 # 人工智能 
  ## [使用 SQL 语句实现一个年会抽奖程序](https://blog.csdn.net/horses/article/details/111084926)
