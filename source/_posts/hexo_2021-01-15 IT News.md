@@ -1,82 +1,86 @@
 ---
 title: 2021-01-15 IT News
 copyright: true
-date: 2021-01-15 09:17:54
+date: 2021-01-15 10:13:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [临水入海 能耗大户数据中心的“水时代”](http://mp.weixin.qq.com/s?src=11&timestamp=1610672404&ver=2829&signature=ystUZQPEGEAD3*B4BYRebwouP5HS8hlx0VsEhyFa56e2ARYk4*sK6rsJn*6DE01IL9W-lhUOXQSbeyw*-5X1CMjR733ldY0X6Zgi8ZrJ6Go=&new=1)
+ ## [创新动能持续增强 中国数谷加速崛起](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=rfZxP-t9AFdyxkb*86swB7t2mIOo2UzlaEwNCtXO4SD0Z4fVugmgkaBRdO6yTC0-n4Emr93qaqDoddOiThSTzWjpyGMopFfT9RecGt3C4S0=&new=1)
+ > 本报讯 1月14日，贵阳市“十三五”成就宣传系列活动——决战脱贫攻坚·决胜全面小康系列主题新闻发布会之“聚焦数谷建设，全力增强创新动能”举行。发布会上，贵阳市、贵安新区相关部门介绍了“十三五”以来...
+ ## [7点见|三星发布S21系列手机；谷歌完成收购Fitbit](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=jagDclRzh9F1Mdbu6Yy8HhRYrWVBsI35vnzKpIwQkOsp1g6CWCmA3CVEdjF80jEg7C3IJuynLaqtmgna8I0jkWQMmc8dsV5s5KcSTpj7HQp8B0gYO3rM5l5aB**ZJhPj&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！三星正式发布Galaxy S21系列旗舰手机北京时间1月14日23点，三星如约举行全球新品发布会，Galaxy S21系列智能手机正式亮相。此次S21系列延续了上一代三款产品的设定，推...
+ ## [临水入海 能耗大户数据中心的“水时代”](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=ystUZQPEGEAD3*B4BYRebwouP5HS8hlx0VsEhyFa56fCDiYkLYmP-9w8RbmTyi9zMS6KOQZpfZ8wmCcIcJs0YRVzXdFbCG1L8XRzhkB2ud4=&new=1)
  > 经济观察报 记者 饶贤君 数据走上云端的时代，承载线上数据的空间载体——数据中心，成为各大巨头企业争相加码建设的新基建核心标的。集中了成千上万的服务器机柜，数据中心是不折不扣的“能耗大户”。瑞典研究...
- ## [突破精密制造瓶颈：中国PμSL超高精密3D打印技术](http://mp.weixin.qq.com/s?src=11&timestamp=1610672404&ver=2829&signature=IQoJzimAE5UtDHKnOAbHt33oJk1fSSWOtT8HGgzZQqSmFYhP5QLa6trkuV63EHGHzF0ifUT9-t1U6AOXHmtN6jzzZkCHmZPtsNW6SDJZ9TZ7S168LhCsQWQIDPyBCOyD&new=1)
+ ## [突破精密制造瓶颈：中国PμSL超高精密3D打印技术](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=IQoJzimAE5UtDHKnOAbHt33oJk1fSSWOtT8HGgzZQqSmFYhP5QLa6trkuV63EHGHxAg-8txvoIDZGgd5cqFv*Cmx34ch70Dpzo1lG8vlwfcYaSEnt-RLy78Xd6SCjeCT&new=1)
  > 南极熊导读：中国摩方的PμSL超高精密3D打印技术，正在突破精密制造瓶颈，在一些细分领域逐渐产生革命性的作用。用于精密原型件、功能部件制造的中国摩方PμSL技术3D打印机，是一种无需模具的精密自由成型增材制...
- ## [2020 中国软件 100 强，腾讯第二、阿里第三，第一竟然是他!](http://mp.weixin.qq.com/s?src=11&timestamp=1610672404&ver=2829&signature=Ip3pA2GoN5J80IyAjx1r2uIkHRae*VhIrURXYJm4nKMfolehEvdrz8jKCQ2PeVfzZV4ovXrVnKppvagJvwmCoYJvevkEpdyTtaW1xxzxW8pF*09X7jwBFPz6*qF5*AAv&new=1)
+ ## [2020 中国软件 100 强，腾讯第二、阿里第三，第一竟然是他!](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=Ip3pA2GoN5J80IyAjx1r2uIkHRae*VhIrURXYJm4nKMfolehEvdrz8jKCQ2PeVfzWasv16K24ZufvVATjv5s3sHdEHPjTkBVOJRNn-mbAY3xJW-Qs7M-WSZ3M0Rq2YJg&new=1)
  > 来自：中国电子信息行业联合会前言中国电子信息行业联合会为贯彻落实党中央、国务院“关于培育具有全球竞争力的世界一流企业、具有创新能力的排头兵企业、发展更多优质企业”的决策部署，进一步激发我国软件和信...
- ## [本科大数据专业该怎么上?](http://mp.weixin.qq.com/s?src=11&timestamp=1610672404&ver=2829&signature=uxHfzcJWRfE6Bcy4sZW8AUrJyIbKKk*zuoey7YXpePNMDMcNGvx8g3ZdaNTfgC-xU*jgGyCmPtS11VJX28j4cg9El1ngP2FnDVqs7wKhw1UgAPXp2llGDhKbiPA4x-OF&new=1)
+ ## [本科大数据专业该怎么上?](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=uxHfzcJWRfE6Bcy4sZW8AUrJyIbKKk*zuoey7YXpePNMDMcNGvx8g3ZdaNTfgC-xMv6itRMD8VVfr1i07kwxF9kqtqm753jkXzBVNAzFg2jnhEXIfGWzRBJbKEmxU2ib&new=1)
  > 截至2020年3月，668所高校成功申报“数据科学与大数据技术”专业，83所高校成功申报“大数据管理与应用”专业，1355所职业院校成功申报“大数据技术与应用专业”。然而，由于大数据专业是一个软硬件结合，以数据...
- ## [华为从黑莓获得90项专利!大多数与安全有关](http://mp.weixin.qq.com/s?src=11&timestamp=1610672404&ver=2829&signature=MQG28l73apzMxW-Shmvr0z9M8FzSz3um0tnoJxnJmpz6Law2yYiKd0YzSE6PYuTSjwdNpMgZeDmUelMFEsL8MDKPmrXpQxFT8xt7YzUTyH2Ty4SDNaytY81OW5Ufvi4U&new=1)
+ ## [华为从黑莓获得90项专利!大多数与安全有关](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=MQG28l73apzMxW-Shmvr0z9M8FzSz3um0tnoJxnJmpz6Law2yYiKd0YzSE6PYuTSMYLzzOMGCY9zp8RzHvOL7nUSOOQd3YRKXnFLAU2j5epLSeE8bFwxGmSVj4vN2aGb&new=1)
  > 黑莓在十年前曾经是一家比较大的手机厂商，其手机是最受欢迎的设备之一。从前几年到2021年，黑莓已经完全不同于过去，无法适应新的智能手机市场，已经倒手几回了。然而，黑莓的专利知识产权仍然具有重要意义，现...
- ## [7002个比特币就这么没了?忘了硬盘密码，他可能将损失2.2亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1610672404&ver=2829&signature=EOaUrUbH-Xibgdrj3dfALCrsWk6MB029BCBXKHDrivkr7Y8mw2Yf9t7XMsucGsj8ryFJCSKGGzf23aw4MTsRp1xq2myDuMl6d3g5BOzlLnQX7oHlwGjm6g4mI7VH1o4I&new=1)
+ ## [7002个比特币就这么没了?忘了硬盘密码，他可能将损失2.2亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1610676005&ver=2829&signature=EOaUrUbH-Xibgdrj3dfALCrsWk6MB029BCBXKHDrivkr7Y8mw2Yf9t7XMsucGsj8O9HtSNntPA40epGMhMbpJXj-UxlUWQgQuf1Knbd6-SJkELCDhQBug9XdKyRJquw9&new=1)
  > “ 最近几个月以来，比特币价格再度开始飙涨，不断创下历史新高，让许多人一夜暴富。不过，这种虚拟货币资产的特性也就决定了，不少人都只是理论上拥有这些财富，而在现实当中却遇到了和托马斯一样的巨大麻烦。...
 # IT 技术 
- ## [别小看Log日志，它难倒了技术总监](http://developer.51cto.com/art/202101/641013.htm)
- > 别小看Log日志，它难倒了技术总监
- ## [5G发展如何“树上开花”？](http://network.51cto.com/art/202101/640908.htm)
- > 5G发展如何“树上开花”？
  ## [人工智能的12个不为人知的秘密](http://ai.51cto.com/art/202101/640907.htm)
  > 人工智能的12个不为人知的秘密
+ ## [5G发展如何“树上开花”？](http://network.51cto.com/art/202101/640908.htm)
+ > 5G发展如何“树上开花”？
+ ## [别小看Log日志，它难倒了技术总监](http://developer.51cto.com/art/202101/641013.htm)
+ > 别小看Log日志，它难倒了技术总监
+ ## [鸿蒙Hi3861测温湿度显示一个新手开发调试过程](http://developer.51cto.com/art/202101/640867.htm)
+ > 鸿蒙Hi3861测温湿度显示一个新手开发调试过程
  ## [如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？](http://server.51cto.com/sOS-640906.htm)
  > 如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？
  ## [以新版本为例，全面比较Fedora与Ubuntu](http://developer.51cto.com/art/202101/640688.htm)
  > 以新版本为例，全面比较Fedora与Ubuntu
  ## [模仿人脑视觉处理，助力神经网络应对对抗性样本](http://ai.51cto.com/art/202101/640695.htm)
  > 模仿人脑视觉处理，助力神经网络应对对抗性样本
- ## [如何让技术想法更容易被理解?](http://zhuanlan.51cto.com/art/202101/640845.htm)
- > 如何让技术想法更容易被理解?
- ## [Oracle LogMiner日志挖掘技术_Oracle备份恢复与数据迁移教程07](http://fellow.51cto.com/art/202012/637143.htm?qd=51ctojrzd)
- > Oracle LogMiner日志挖掘技术_Oracle备份恢复与数据迁移教程07
- ## [详解Vue中的Computed和Watch](http://developer.51cto.com/art/202101/641022.htm)
- > 作为一名Vue开发者，虽然在项目中频繁使用过computed和watch，但从来没有系统的学习过，总觉着对这两个知识
- ## [手动部署Ceph octopus集群](http://os.51cto.com/art/202101/641024.htm)
- > 本篇给大家介绍手动部署Ceph octopus集群，希望对你有所帮助。
- ## [SolarWinds黑客入侵事件调查进展：第三款恶意软件浮出水面](http://netsecurity.51cto.com/art/202101/641020.htm)
- > CrowdStrike 目前表示，在此前曝光的 Sunburst(Solarigate)和 Teardrop 的基础上，其发现了与本次黑客攻击
- ## [魔法方法推开Python进阶学习大门](http://developer.51cto.com/art/202101/641021.htm)
- > Python是Guido van Rossum设计出来的让使用者觉得如沐春风的一门编程语言。
- ## [嵌入式笔试面试题目系列（二）](http://developer.51cto.com/art/202101/641018.htm)
- > 本系列将按类别对题目进行分类整理，重要的地方标上星星，这样有利于大家打下坚实的基础。
- ## [你真的了解 SQL 注入吗？](http://netsecurity.51cto.com/art/202101/641016.htm)
- > 黑客通过将恶意的 SQL 查询或者添加语句插入到应用的输入参数中，然后在后台 SQL 服务器上解析执行进行程序
- ## [浅探CAS(Compare And Swap)实现原理](http://developer.51cto.com/art/202101/641017.htm)
- > CAS，全称是Compare And Swap，即比较并交换，是一种乐观锁的实现。
- ## [一文搞懂Undo Log版本链与ReadView机制如何让事务读取到该读的数据](http://database.51cto.com/art/202101/641019.htm)
- > 在 MySQL 的数据表中，存储着一行行的数据记录，对每行数据而言，不仅仅记录着我们定义的字段值，还会隐藏
- ## [阿里面试官问我Java线程和操作系统线程什么关系](http://os.51cto.com/art/202101/641015.htm)
- > 这个问题是安琪拉之前面试被问到的一个问题，正好顺着上一篇文章介绍完线程调用时的用户态和内核态的切换，
- ## [推荐2个新发现的宝藏APP，我是真的爱了](http://mobile.51cto.com/app-show-641014.htm)
- > 今天我再给大家推荐2个新发现的宝藏APP，我是真的爱了。
+ ## [Power Query操作入门及应用视频课程](http://fellow.51cto.com/art/202007/622208.htm?qd=51ctojrzd)
+ > Power Query操作入门及应用视频课程
+ ## [在挑战中前行 2020年5G领域十大事件回顾](http://network.51cto.com/art/202101/641041.htm)
+ > 时光飞逝，转眼间2020年已经过去，我们正式迎来了崭新的2021年。回首过去的一年，新冠肺炎疫情给人们的工作
+ ## [刚刚，特朗普拉黑小米，要求美国投资者在“双11”前撤资](http://news.51cto.com/art/202101/641039.htm)
+ > 路透社报道，美国国防部现在将小米列为“涉军公司”，意味着美国公司将被禁止对其进行投资。而在此之前，小
+ ## [【干货!不讲PPT系列】华三H3C防火](http://fellow.51cto.com/art/202101/640950.htm)
+ > 学习H3C防火墙的配置方法、常用配置
+ ## [为何incaseformat病毒今日集中爆发，下次爆发时间为？](http://netsecurity.51cto.com/art/202101/641038.htm)
+ > 经调查，该蠕虫正常情况下表现为文件夹蠕虫，集中爆发是由于病毒代码中内置了部分特殊日期。
+ ## [用鸿蒙开发AI应用（一）硬件篇](http://developer.51cto.com/art/202101/640865.htm)
+ > 鸿蒙2.0的系统刚开源出来，华为志在打造1+8+N万物互联的全场景智慧生活，不仅是国产操作系统之梦，一次开发
+ ## [Windows10 快捷方式一短字符串会损坏任何 NTFS 硬盘](http://os.51cto.com/art/202101/641034.htm)
+ > 1月15日消息 外媒 BleepingComputer 报道，Infosec 研究员 Jonas L 发现了一个短字符串，当它构成文件系统
+ ## [阿里淘系所有程序员一整年的内部技术总结，都在这里了](http://news.51cto.com/art/202101/641045.htm)
+ > 本文是淘系程序员，在开发这些关键项目时留下的内部技术总结。
+ ## [Adobe Flash Player正式退出历史舞台](http://netsecurity.51cto.com/art/202101/641032.htm)
+ > 结束了!Adobe Flash Player无法运行，正式退出历史舞台，是时候彻底卸载该程序了。
+ ## [让文件读取漏洞与shell环环相扣](http://netsecurity.51cto.com/art/202101/641031.htm)
+ > 作为一个漏洞挖掘者，你会拿任意文件读取漏洞做些什么?作为一个系统维护人员，你会在系统维护主机桌面保存
+ ## [Zabbix5.2实战系列之如何开启Https（LAMP）](http://os.51cto.com/art/202101/641033.htm)
+ > 虽然大部分使用Zabbix的用户是放在内网，但是该掌握的还是需要的，万一要用到了呢？关于SSL的好处在此篇文
  ## [15岁上浙大、22岁获世界冠军，90后「天才黑客」为何被开除、错失上亿股票？](https://blog.csdn.net/m0_46163918/article/details/112580050)
  > 15岁上浙大、22岁获世界冠军，90后「天才黑客」为何被开除、错失上亿股票？
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
  > 要写码，又要做年终总结PPT？高效神器保住你的发际线
  ## [CSDN Chrome插件上新功能，高亮博客详情页关键字，提升阅读效率](https://blog.csdn.net/weixin_44463441/article/details/112465773)
  > CSDN Chrome插件上新功能，高亮博客详情页关键字，提升阅读效率
- ## [致 Python 初学者](https://blog.csdn.net/xufive/article/details/102993570)
+ ## [\[记录六\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之node后台连接mysql和redis，登陆接口的编写](https://blog.csdn.net/gitchatxiaomi/article/details/108205801)
+ > \[记录六\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之node后台连接mysql和redis，登陆接口的编写
+ ## [教你如何把HackTheBox里面的Luke“干掉”](https://blog.csdn.net/qq_25879801/article/details/111083770)
+ > 教你如何把HackTheBox里面的Luke“干掉”
+ ## [极具参考价值的Python面试题！从创业公司到一线大厂的所有面经汇总](https://blog.csdn.net/qiulin_wu/article/details/105631682)
  > 
- ## [axure Dynamic Panel next      slide left](https://blog.csdn.net/spencer_tseng/article/details/112058023)
- > axure Dynamic Panel next      slide left
- ## [Apollo代码学习(二)—车辆运动学模型](https://blog.csdn.net/u013914471/article/details/82968608)
- > Apollo代码学习(二)—车辆运动学模型
  ## [熊克斐：技术夜未眠 从码畜到CTO](https://blog.csdn.net/csdnstudent/article/details/112462517)
  > 熊克斐：技术夜未眠 从码畜到CTO
- ## [Vue学习笔记之Webpack中css、less、图片等文件处理](https://blog.csdn.net/zeng_sily/article/details/107897968)
- > Vue学习笔记之Webpack中css、less、图片等文件处理
- ## [如何将Postman API测试转换为JMeter以进行扩展](https://blog.csdn.net/qqqqqkmbnjjhb/article/details/109202482)
- > 如何将Postman API测试转换为JMeter以进行扩展
- ## [安卓测试避错！常见的Appium相关问题及解决方案](https://blog.csdn.net/rjcs666/article/details/111034196)
- > 安卓测试避错！常见的Appium相关问题及解决方案
- ## [VSCode配置 c++ 环境（小白教程）](https://blog.csdn.net/qq_29339467/article/details/104096661)
- > VSCode配置 c++ 环境（小白教程）
+ ## [Java SSM练手小项目-手把手带你搭建一个基于SSM框架的人力资源管理后台系统](https://blog.csdn.net/noaman_wgs/article/details/79503559)
+ > Java SSM练手小项目-手把手带你搭建一个基于SSM框架的人力资源管理后台系统
+ ## [微信分享、极简微信分享、thinkphp微信分享、laravel微信分享、3分钟完成微信分享](https://blog.csdn.net/jartins/article/details/110918226)
+ > 微信分享、极简微信分享、thinkphp微信分享、laravel微信分享、3分钟完成微信分享
+ ## [【Java并发编程之深入理解】Synchronized的使用](https://blog.csdn.net/zjy15203167987/article/details/82531772)
+ > 【Java并发编程之深入理解】Synchronized的使用
+ ## [JVM内存结构详解](https://blog.csdn.net/weixin_42173451/article/details/105805231)
+ > 
  ## [程序员为女友DIY一款红外线遥控器，感动哭了](https://blog.csdn.net/weixin_50563088/article/details/112401010)
  > 程序员为女友DIY一款红外线遥控器，感动哭了
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
@@ -100,22 +104,22 @@ categories: IT NEWS
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [手艺人舍bpftrace而取systemtap的代价和思考](https://blog.csdn.net/dog250/article/details/112387192)
  > 手艺人舍bpftrace而取systemtap的代价和思考
+ ## [分布式存储引擎大厂实战（开篇）](https://blog.csdn.net/songguangfan/article/details/112406760)
+ > 
  ## [实现网页长截图的常见思路总结](https://blog.csdn.net/qinyuanpei/article/details/112429622)
  > 实现网页长截图的常见思路总结
  ## [你确定你真的理解“双亲委派“了吗？！](https://blog.csdn.net/hollis_chuang/article/details/112462198)
  > 
- ## [应该监控哪些Kubernetes健康指标](https://blog.csdn.net/fly910905/article/details/112467716)
- > 应该监控哪些Kubernetes健康指标
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [应该监控哪些Kubernetes健康指标](https://blog.csdn.net/fly910905/article/details/112467716)
+ > 应该监控哪些Kubernetes健康指标
  ## [SCI-HUB 印度被诉、twitter账号被封，是梁上君子还是罗宾汉？](https://blog.csdn.net/weixin_39787030/article/details/112485741)
  > SCI-HUB 印度被诉、twitter账号被封，是梁上君子还是罗宾汉？
  ## [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](https://blog.csdn.net/dyc87112/article/details/112506676)
  > Spring Boot 2.x基础教程：使用Flyway管理数据库版本
- ## [CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！](https://blog.csdn.net/qq_41185868/article/details/112497663)
- > CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！
- ## [深度解析蔚来ET7自动驾驶技术](https://blog.csdn.net/gshengod/article/details/112548869)
- > 深度解析蔚来ET7自动驾驶技术
+ ## [梦回93年，32岁的Yann LeCun在展示他的卷积网络...](https://blog.csdn.net/BAAIBeijing/article/details/112551537)
+ > 梦回93年，32岁的Yann LeCun在展示他的卷积网络...
 # PM 
  ## [指标与标签有何不同？](http://www.chanpin100.com/article/113382)
  > 在如今的大数据时代，用数据说话更能体现出差异点，很多时候数据是最实际的表达手法，比如你的年度指标用数据来定义等等；除了这些之外，标签也是重要的一点，如今标签已经成为了各大企业都在做的一个目标；本文作者分享了指标和标签有什么异同点，我们一起来看一下。
