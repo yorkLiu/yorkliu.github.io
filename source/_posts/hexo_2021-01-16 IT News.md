@@ -1,21 +1,21 @@
 ---
 title: 2021-01-16 IT News
 copyright: true
-date: 2021-01-16 08:13:49
+date: 2021-01-16 09:09:27
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Mobileye纯视觉+纯激光雷达方案定义消费级自动驾驶汽车，性能实现重大飞跃](http://mp.weixin.qq.com/s?src=11&timestamp=1610755204&ver=2831&signature=GTlXM0wtI83XSJQWUPb5gvrODPe*EpeWTsKQN1nuBWgkLPhXbdtypIU36OMv5eDPAEdVNx1lZ1kltOk4U683UFudEKsCU0WV1HXDeLb3L4SFN-gcOXeAhyZrzVGOtwFY&new=1)
- > 这款不足名片大小的芯片级激光雷达凭借完全数字化和先进的信号处理技术、多种扫描模式、丰富的原始探测和多帧跟踪，Mobileye的软件定义成像雷达代表着自动驾驶汽车在架构上的范式转变，从而实现了性能上的重大飞...
- ## [三年时间，华为云撕掉了哪些标签?](http://mp.weixin.qq.com/s?src=11&timestamp=1610755204&ver=2831&signature=fE3YrjL-ZN4aFNYrM4saV74pdnZVkUmS1p4mUtbqK2OLKWHKD0mTheVp8pSHhcQwHSsG8B4YWBiO4yvv7mU9OglcdHfjJGx2RJp2NONjun724erB1mMmxe2Gyh9uCMhx&new=1)
- > 华为云已经在不知不觉间服务于各行各业。2017年，华为云品牌正式对外发布。不久之后，华为云敲开了互联网Top企业的大门——为「新浪新闻」这一日活用户超4000万，月活用户突破1亿的资讯APP提供全栈云服务方案。 ...
- ## [渤海活塞，智能工厂实现产品全生命周期管理!](http://mp.weixin.qq.com/s?src=11&timestamp=1610755204&ver=2831&signature=a0Six8M5GKVYqIkY5NQRKJx1PGtqW4Q*rR3*jER5FBnVMHchPy5t3O4zFRMUIcYJzx-AViBJQ2tQRqu7bJQYPz-NpilSRxvZ2lKyNnvls6m-401o*BE3BpY-cbhEjF0W&new=1)
+ ## [渤海活塞，智能工厂实现产品全生命周期管理!](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=a0Six8M5GKVYqIkY5NQRKJx1PGtqW4Q*rR3*jER5FBnVMHchPy5t3O4zFRMUIcYJWkFVbsvfJgfO1BHHwTviZTDGcH49lcf3q97R5oLAQPOtJSjP*00oqfF-D24CXTc0&new=1)
  > 导 读 ( 文/ e-works )滨州渤海活塞有限公司(以下简称：渤海活塞)主导产品为高效率高性能低排放内燃机活塞、活塞销、摩擦副等内燃机运动组件，年产能力4500万件，单个工厂产能居世界首位。本文为2020中国标杆智...
- ## [这个冬天很冷，这里却很暖!](http://mp.weixin.qq.com/s?src=11&timestamp=1610755204&ver=2831&signature=IHiOCwUJDzqDSZn7yJeVavu5ApUX2YV*t1i3BplFz5xhlgx*AMw7mD-6Fnv-7pLR0g3l6rnxwS2gA0i41si7Ga*FSOdsKfRIbOadncN7f4GQochctW4*q2-aC6gk36fU&new=1)
- > “量好血压，还能传到手机上，看情况还正常，这个冬天过得会舒心点了。”“这电视不错，不仅能看新闻，还能随时看本地戏曲，挺方便的。”“选了一个合适的套餐，可以和儿女尽情煲电话粥了。”……1月14日，在福...
- ## [\[弘和资讯\]了解弘和集团的人脸识别平台，从这里开始](http://mp.weixin.qq.com/s?src=11&timestamp=1610755204&ver=2831&signature=lbXjoutGKYTPtdtmPZ*JdFT7cY3StRGtLduOqeNBTJ12oGXQ6AxhHbOdb96HzEoAdYXmjS-nFaXUqnI9jp18IlCcVS5-tND1P15tV1zGSYVQS5gzHvTSgEtCJ-iMJHkA&new=1)
+ ## [\[弘和资讯\]了解弘和集团的人脸识别平台，从这里开始](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=lbXjoutGKYTPtdtmPZ*JdFT7cY3StRGtLduOqeNBTJ12oGXQ6AxhHbOdb96HzEoAyUatr71YKFlcDTLfuPz47AGUVbsC7l5HMMeK0TOFegHN4UTxvbqBniREpWaVrg8I&new=1)
  > 人脸识别是一种生物识别技术，又称人像识别、面部识别。是基于人的脸部特征信息进行身份识别的一种生物识别技术，主要用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到...
+ ## [Mobileye纯视觉+纯激光雷达方案定义消费级自动驾驶汽车，性能实现重大飞跃](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=GTlXM0wtI83XSJQWUPb5gvrODPe*EpeWTsKQN1nuBWgkLPhXbdtypIU36OMv5eDPEz6PV8DEDBYUN5uaOC3ZcUtCIbrs4h5QIb0JXXIIozDaNIgMpQCjo9Q0Mr2*-RmR&new=1)
+ > 这款不足名片大小的芯片级激光雷达凭借完全数字化和先进的信号处理技术、多种扫描模式、丰富的原始探测和多帧跟踪，Mobileye的软件定义成像雷达代表着自动驾驶汽车在架构上的范式转变，从而实现了性能上的重大飞...
+ ## [三年时间，华为云撕掉了哪些标签?](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=fE3YrjL-ZN4aFNYrM4saV74pdnZVkUmS1p4mUtbqK2OLKWHKD0mTheVp8pSHhcQweSF0ybv5FNI7wkLIsWNaapVdFLTplCizblPuqxRuOS85Bxfk-59mU1QEF-cR-zfn&new=1)
+ > 华为云已经在不知不觉间服务于各行各业。2017年，华为云品牌正式对外发布。不久之后，华为云敲开了互联网Top企业的大门——为「新浪新闻」这一日活用户超4000万，月活用户突破1亿的资讯APP提供全栈云服务方案。 ...
+ ## [这个冬天很冷，这里却很暖!](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=IHiOCwUJDzqDSZn7yJeVavu5ApUX2YV*t1i3BplFz5xhlgx*AMw7mD-6Fnv-7pLRrRwV-irpiahZpqMiKpUZEwgTv44RFhKH08RJPeCcp5t4kd-464wEsx99TQvDig71&new=1)
+ > “量好血压，还能传到手机上，看情况还正常，这个冬天过得会舒心点了。”“这电视不错，不仅能看新闻，还能随时看本地戏曲，挺方便的。”“选了一个合适的套餐，可以和儿女尽情煲电话粥了。”……1月14日，在福...
 # IT 技术 
  ## [人工智能的12个不为人知的秘密](http://ai.51cto.com/art/202101/640907.htm)
  > 人工智能的12个不为人知的秘密
@@ -31,8 +31,14 @@ categories: IT NEWS
  > 快过年了，用JavaScript让你的网页放烟花吧
  ## [如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？](http://server.51cto.com/sOS-640906.htm)
  > 如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？
- ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
- > Docker快速入门视频课程（通俗易懂）
+ ## [【曾贤志】Excel表格视频教程（绝招篇）](http://fellow.51cto.com/art/202101/638871.htm?qd=51ctojrzd)
+ > 【曾贤志】Excel表格视频教程（绝招篇）
+ ## [安卓App要权限还会偷删截屏？专治流氓App神器](http://os.51cto.com/art/202101/641235.htm)
+ > 最近某APP删除用户相册里保存的截图事件闹得沸沸扬扬的，先不管这到底是不是有意而为还是bug，就拿许多APP
+ ## [老板奉上双倍年终奖！年终报表必懂小技巧](http://os.51cto.com/art/202101/641234.htm)
+ > 俗话说年报做得好，年终少不了，一份好的年终报表，有时候直接影响你的年终奖！马上就到月底了，你的年终报
+ ## [21世纪已过两个十年！十年前这些场景还记得吗?](http://network.51cto.com/art/202101/641233.htm)
+ > 如果将时钟调回2010年，你会发现如今的互联网已经与当年有着天壤之别。尽管对于绝大多数人来说，十年时光仿
  ## [GitHub上还有程序员考公指南这种东西？](https://blog.csdn.net/m0_46163918/article/details/112667844)
  > GitHub上还有程序员考公指南这种东西？
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
@@ -49,20 +55,20 @@ categories: IT NEWS
  > 熊克斐：技术夜未眠 从码畜到CTO
  ## [极客日报第 49 期：谷歌商店上架假健康码APP；拼多多回应员工言论被识别；小米将扩招5000名工程师；GitHub 程序员考公指南冲上热榜](https://blog.csdn.net/weixin_39786569/article/details/112507897)
  > 极客日报第 49 期：谷歌商店上架假健康码APP；拼多多回应员工言论被识别；小米将扩招5000名工程师；GitHub 程序员考公指南冲上热榜
- ## [iOS 网络优化: 使你的 App 网络交互更流畅](https://blog.csdn.net/sinat_35969632/article/details/109349360)
- > iOS 网络优化: 使你的 App 网络交互更流畅
- ## [Java实现第十一届蓝桥杯C/C++ 大学 B 组大赛软件类 省赛真题（希望能和各位大佬能一起讨论算法题：讨论群：99979568）](https://blog.csdn.net/weixin_46285416/article/details/107177930)
- > 
- ## [深度学习--Matlab使用LSTM长短期记忆网络对负荷进行预测](https://blog.csdn.net/u010058695/article/details/101062662)
- > 深度学习--Matlab使用LSTM长短期记忆网络对负荷进行预测
- ## [计算机界十位顶级人物！](https://blog.csdn.net/aa120515692/article/details/107183976)
- > 
+ ## [R语言混合正态分布极大似然估计和EM算法](https://blog.csdn.net/qq_19600291/article/details/105801484)
+ > R语言混合正态分布极大似然估计和EM算法
+ ## [17-用python爬取下载女神照片](https://blog.csdn.net/bigzql/article/details/109063267)
+ > 17-用python爬取下载女神照片
+ ## [基于【国基北盛】云基础架构平台软件搭建openstack私有云平台（先电V2.4版本）](https://blog.csdn.net/qq_45392321/article/details/109462967)
+ > 基于【国基北盛】云基础架构平台软件搭建openstack私有云平台（先电V2.4版本）
+ ## [RTSP/GB28181/Ehome协议安防视频服务平台EasyCVR使用golang orm操作数据库及基本使用步骤](https://blog.csdn.net/TsingSee/article/details/109642229)
+ > RTSP/GB28181/Ehome协议安防视频服务平台EasyCVR使用golang orm操作数据库及基本使用步骤
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [积木Sketch插件进阶开发指南](https://blog.csdn.net/MeituanTech/article/details/109523620)
- > 积木Sketch插件进阶开发指南
- ## [C基础教程](https://blog.csdn.net/weixin_39089928/article/details/87009515)
- > C基础教程
+ ## [C++中的 ::](https://blog.csdn.net/qq1623803207/article/details/89398435)
+ > C++中的 ::
+ ## [大专毕业的他却是爬虫领域的大佬！收割阿里等诸多一线大厂offer](https://blog.csdn.net/qiulin_wu/article/details/104916551)
+ > 
 # 人工智能 
  ## [使用 SQL 语句实现一个年会抽奖程序](https://blog.csdn.net/horses/article/details/111084926)
  > 使用 SQL 语句实现一个年会抽奖程序
