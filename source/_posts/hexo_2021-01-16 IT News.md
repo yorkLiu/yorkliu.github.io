@@ -1,22 +1,30 @@
 ---
 title: 2021-01-16 IT News
 copyright: true
-date: 2021-01-16 10:07:12
+date: 2021-01-16 12:07:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [渤海活塞，智能工厂实现产品全生命周期管理!](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=a0Six8M5GKVYqIkY5NQRKJx1PGtqW4Q*rR3*jER5FBmu5eoP6ng6og3eCq6lb*sIoGkBl4xd5weMqLyVF3Tw1Qa21gxwOH7V2195U3nQk9euZ5BUQP6QX*ZvTO-mZQzm&new=1)
- > 导 读 ( 文/ e-works )滨州渤海活塞有限公司(以下简称：渤海活塞)主导产品为高效率高性能低排放内燃机活塞、活塞销、摩擦副等内燃机运动组件，年产能力4500万件，单个工厂产能居世界首位。本文为2020中国标杆智...
- ## [三年时间，华为云撕掉了哪些标签?](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=fE3YrjL-ZN4aFNYrM4saV74pdnZVkUmS1p4mUtbqK2Oxw6AErzOJfRibr6YD*T*YK7miiv9a2PdJysNv571hpSwTHx0YjKPSv3Kq5POdxObOOOQx6F7zoVIQ9tw**8k8&new=1)
- > 华为云已经在不知不觉间服务于各行各业。2017年，华为云品牌正式对外发布。不久之后，华为云敲开了互联网Top企业的大门——为「新浪新闻」这一日活用户超4000万，月活用户突破1亿的资讯APP提供全栈云服务方案。 ...
- ## [\[弘和资讯\]了解弘和集团的人脸识别平台，从这里开始](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=lbXjoutGKYTPtdtmPZ*JdFT7cY3StRGtLduOqeNBTJ3A0B1bwrYgpHdaXaTLvYBfB6P2TxGM6SqfGEAd5mNvI3BcUVDQXqHToI9t-ZEVRM7nTEwcNLzo8NJcvOgYewKf&new=1)
- > 人脸识别是一种生物识别技术，又称人像识别、面部识别。是基于人的脸部特征信息进行身份识别的一种生物识别技术，主要用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到...
- ## [\[报告\]华为智能汽车业务洞察(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=DSPb7wJXQIfMxI7xrUE8nTxjlBVaOglg-aGe2IPyQoyU0n01s5vtafByV9Cznw6Ck1mCZyREShDkreDc9HW8Wqn7ohc3SN2rLFnKPC*cZBROvA7ZT990Ju34xpYuJ0wc&new=1)
+ ## [2020十大网安事件盘点(下)丨大东话安全](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=6RQwmDWNoMZYiRPaKwuK1qCLdqB5tbBZ*7gC0Wep3r8tLOqd7Zx9rjcXBWxKPEw-jp8xMdr44ImMqMF1F-lYcymZf81Usif7x9Modvr4fYyYHt*IuomRA-cUtE7ZFvWn&new=1)
+ > NO.5 电脑版“新型冠状病毒”趁火打劫1. 事件穿越大东：2020年年初疫情宅家的时候你在干嘛呢？小白：上网课呢～～大东：在全国一致对抗新型冠状病毒的期间，国内某知名安全公司捕获了“新型冠状病毒”远控木马。...
+ ## [3D打印行业重磅：Desktop Metal收购了EnvisionTEC](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=cbUZUW5B9L0ny82j0SSMs3lbFZwJ8M3SXuwspO00Ft4MdLbbE4kxGWDD*g2OQneE*-DeJzkfxWFD7XXnYAiks1cBI1GMMNUXhNCZy91B7BwgQTHqBecwfBTk-0bz8qbX&new=1)
+ > 公开上市的Desktop Metal（NYSE：DM）刚刚以3亿美元的股票和现金收购了EnvisionTEC，两家公司的首席执行官Al Siblani和Ric Fulop进行了谈判，希望在第一季度完成交易，EnvisionTEC仍将由Sib
+ ## [拼多多退出，抖音成春晚独家红包伙伴；春运车票预售跌 60%；微软计划开发「疫苗接种护照」|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=JEcoakMm6KQTp0c2McuoI6F2ng*b2iRAyNpu5soIYb9jN4VA0yAOoyqtDO*gMmyAPn6CgHcsrqwTNDS*bVIBP*pDxqyKphPRcfZ3VbVq-u7BuY0kh1pKMLb-Do2PvS*x&new=1)
+ > 抖音或将成为 2021 年春晚独家红包互动合作伙伴，拼多多退出1 月 15 日，36 氪从多个独立信源处获悉，拼多多已于近期退出与央视春晚的红包合作项目，不再担任 2021 年春晚独家红包互动合作伙伴。至于新的红包合...
+ ## [\[报告\]华为智能汽车业务洞察(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=DSPb7wJXQIfMxI7xrUE8nTxjlBVaOglg-aGe2IPyQoyU0n01s5vtafByV9Cznw6CuBkQL-rB4tjV7Cr1EVNf3OucgX0t6kyrl1ldNWZWyO99*v**ZeZMOmQPOoVVHlH5&new=1)
  > 禁芯令阴霾之下，华为危机尚未解除。汽车产业颠覆式发展趋势下，华为凭借深厚ICT技术积累，迎来重大机遇。 危机与机遇并存之际，华为积极开辟智能汽车新战场。智能汽车业务能否驱动华为走出危机，迈向更高峰？亿...
- ## [Mobileye纯视觉+纯激光雷达方案定义消费级自动驾驶汽车，性能实现重大飞跃](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=GTlXM0wtI83XSJQWUPb5gvrODPe*EpeWTsKQN1nuBWgQbK2CU5PMfEE2oI*-2yn8wbrgJgjOgmIZTyHPBE4PKGVFL61OA4tdOOLF6sbINyvvAJ0GP89OT6EjK0L1b9KB&new=1)
+ ## [重磅：3亿美元收购德国光固化3D打印大厂EnvisionTEC，行业并购大戏开启](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=RvQx5eGNvrE4AOmBoU4FfEpCcOCST6rbmYOdXR84L9Jkox4KEkICfTmENXjXNaeelYh-cBleLb4ikDppkMgRy9*LQTwlBy8Yz72CxnSL2Nd9QktVkxxkBN*Nf9PWQhX7&new=1)
+ > 2021年1月16日，南极熊获悉，上个月刚完成借壳上市的全球低成本金属3D打印龙头美国Desktop Metal，手握6亿美元现金，现在已经签署了最终协议，以3亿美元的总对价收购EnvisionTEC，其中包括现金和新发行的Desktop...
+ ## [\[弘和资讯\]了解弘和集团的人脸识别平台，从这里开始](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=lbXjoutGKYTPtdtmPZ*JdFT7cY3StRGtLduOqeNBTJ3A0B1bwrYgpHdaXaTLvYBfkDeWUnoNyX9Bp2pJEPUWGBHAqgMYujp7-gSBYqs2lJBJMegzxZrfn2ihS7NBnLsQ&new=1)
+ > 人脸识别是一种生物识别技术，又称人像识别、面部识别。是基于人的脸部特征信息进行身份识别的一种生物识别技术，主要用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到...
+ ## [Mobileye纯视觉+纯激光雷达方案定义消费级自动驾驶汽车，性能实现重大飞跃](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=GTlXM0wtI83XSJQWUPb5gvrODPe*EpeWTsKQN1nuBWgQbK2CU5PMfEE2oI*-2yn8Pzuo5TiYBrK48PU5lKVGGcsd2QGgu4CL80yoKhzaxWXb8iFC-LrIL8JC8mUgKolw&new=1)
  > 这款不足名片大小的芯片级激光雷达凭借完全数字化和先进的信号处理技术、多种扫描模式、丰富的原始探测和多帧跟踪，Mobileye的软件定义成像雷达代表着自动驾驶汽车在架构上的范式转变，从而实现了性能上的重大飞...
- ## [这个冬天很冷，这里却很暖!](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=IHiOCwUJDzqDSZn7yJeVavu5ApUX2YV*t1i3BplFz5xmxxGwhLgJUfH9R5U10Ds4xb9qvRwdxVJ8MdvGU7bNEzVuHrNrZz4Q*y0uulSYS*tUfqu5IDa6tvi61HMi*TfK&new=1)
+ ## [渤海活塞，智能工厂实现产品全生命周期管理!](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=a0Six8M5GKVYqIkY5NQRKJx1PGtqW4Q*rR3*jER5FBmu5eoP6ng6og3eCq6lb*sIupdfLGN8COAkJ-mTz9o-zNKkC-Up3thSAcndtiIbttnSTpZrkA7OMPTlV34DLPdO&new=1)
+ > 导 读 ( 文/ e-works )滨州渤海活塞有限公司(以下简称：渤海活塞)主导产品为高效率高性能低排放内燃机活塞、活塞销、摩擦副等内燃机运动组件，年产能力4500万件，单个工厂产能居世界首位。本文为2020中国标杆智...
+ ## [三年时间，华为云撕掉了哪些标签?](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=fE3YrjL-ZN4aFNYrM4saV74pdnZVkUmS1p4mUtbqK2Oxw6AErzOJfRibr6YD*T*YXeZaee4pf3Uh9lM5Fa9pBawmYUYDFQL-4MvyCqalfGVvHWdNmlt44qeM0bWma3oC&new=1)
+ > 华为云已经在不知不觉间服务于各行各业。2017年，华为云品牌正式对外发布。不久之后，华为云敲开了互联网Top企业的大门——为「新浪新闻」这一日活用户超4000万，月活用户突破1亿的资讯APP提供全栈云服务方案。 ...
+ ## [这个冬天很冷，这里却很暖!](http://mp.weixin.qq.com/s?src=11&timestamp=1610769604&ver=2831&signature=IHiOCwUJDzqDSZn7yJeVavu5ApUX2YV*t1i3BplFz5xmxxGwhLgJUfH9R5U10Ds4VngI7L-MHw4rXxp04tcfEhssZXUYhEfM*Jf1z2-xY4AB1k8uvX4WHjKCGss3QiZG&new=1)
  > “量好血压，还能传到手机上，看情况还正常，这个冬天过得会舒心点了。”“这电视不错，不仅能看新闻，还能随时看本地戏曲，挺方便的。”“选了一个合适的套餐，可以和儿女尽情煲电话粥了。”……1月14日，在福...
 # IT 技术 
  ## [人工智能的12个不为人知的秘密](http://ai.51cto.com/art/202101/640907.htm)
@@ -33,8 +41,14 @@ categories: IT NEWS
  > 快过年了，用JavaScript让你的网页放烟花吧
  ## [如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？](http://server.51cto.com/sOS-640906.htm)
  > 如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？
- ## [Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1](http://fellow.51cto.com/art/202012/635764.htm?qd=51ctojrzd)
- > Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1
+ ## [Oracle备份恢复迁移之expdp/impdp_Oracle备份恢复与数据迁移教程10](http://fellow.51cto.com/art/202012/637349.htm?qd=51ctojrzd)
+ > Oracle备份恢复迁移之expdp/impdp_Oracle备份恢复与数据迁移教程10
+ ## [如何熟练掌握多种编程语言](http://developer.51cto.com/art/202101/641238.htm)
+ > 学习一种新的编程语言很像学习说一种新的自然语言。但是，正如我确定我的许多双语和通俗的朋友会同意的那样
+ ## [安全指南：如何防止欺骗攻击？](http://netsecurity.51cto.com/art/202101/641237.htm)
+ > 欺骗攻击是指将诈骗者伪装成可获取重要数据或信息的可信任来源时发生的网络攻击。
+ ## [微软在2021年的首次安全更新中修复了83个漏洞](http://netsecurity.51cto.com/art/202101/641236.htm)
+ > 微软在2021年1月12日发表了补丁程序，它是2021年的第一个Microsoft安全更新版本。
  ## [安卓App要权限还会偷删截屏？专治流氓App神器](http://os.51cto.com/art/202101/641235.htm)
  > 最近某APP删除用户相册里保存的截图事件闹得沸沸扬扬的，先不管这到底是不是有意而为还是bug，就拿许多APP
  ## [老板奉上双倍年终奖！年终报表必懂小技巧](http://os.51cto.com/art/202101/641234.htm)
@@ -57,20 +71,20 @@ categories: IT NEWS
  > 熊克斐：技术夜未眠 从码畜到CTO
  ## [极客日报第 49 期：谷歌商店上架假健康码APP；拼多多回应员工言论被识别；小米将扩招5000名工程师；GitHub 程序员考公指南冲上热榜](https://blog.csdn.net/weixin_39786569/article/details/112507897)
  > 极客日报第 49 期：谷歌商店上架假健康码APP；拼多多回应员工言论被识别；小米将扩招5000名工程师；GitHub 程序员考公指南冲上热榜
- ## [R语言混合正态分布极大似然估计和EM算法](https://blog.csdn.net/qq_19600291/article/details/105801484)
- > R语言混合正态分布极大似然估计和EM算法
- ## [17-用python爬取下载女神照片](https://blog.csdn.net/bigzql/article/details/109063267)
- > 17-用python爬取下载女神照片
- ## [基于【国基北盛】云基础架构平台软件搭建openstack私有云平台（先电V2.4版本）](https://blog.csdn.net/qq_45392321/article/details/109462967)
- > 基于【国基北盛】云基础架构平台软件搭建openstack私有云平台（先电V2.4版本）
- ## [RTSP/GB28181/Ehome协议安防视频服务平台EasyCVR使用golang orm操作数据库及基本使用步骤](https://blog.csdn.net/TsingSee/article/details/109642229)
- > RTSP/GB28181/Ehome协议安防视频服务平台EasyCVR使用golang orm操作数据库及基本使用步骤
+ ## [iOS 网络优化: 使你的 App 网络交互更流畅](https://blog.csdn.net/sinat_35969632/article/details/109349360)
+ > iOS 网络优化: 使你的 App 网络交互更流畅
+ ## [Java实现第十一届蓝桥杯C/C++ 大学 B 组大赛软件类 省赛真题（希望能和各位大佬能一起讨论算法题：讨论群：99979568）](https://blog.csdn.net/weixin_46285416/article/details/107177930)
+ > 
+ ## [深度学习--Matlab使用LSTM长短期记忆网络对负荷进行预测](https://blog.csdn.net/u010058695/article/details/101062662)
+ > 深度学习--Matlab使用LSTM长短期记忆网络对负荷进行预测
+ ## [计算机界十位顶级人物！](https://blog.csdn.net/aa120515692/article/details/107183976)
+ > 
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [C++中的 ::](https://blog.csdn.net/qq1623803207/article/details/89398435)
- > C++中的 ::
- ## [大专毕业的他却是爬虫领域的大佬！收割阿里等诸多一线大厂offer](https://blog.csdn.net/qiulin_wu/article/details/104916551)
- > 
+ ## [积木Sketch插件进阶开发指南](https://blog.csdn.net/MeituanTech/article/details/109523620)
+ > 积木Sketch插件进阶开发指南
+ ## [C基础教程](https://blog.csdn.net/weixin_39089928/article/details/87009515)
+ > C基础教程
 # 人工智能 
  ## [使用 SQL 语句实现一个年会抽奖程序](https://blog.csdn.net/horses/article/details/111084926)
  > 使用 SQL 语句实现一个年会抽奖程序
@@ -90,24 +104,22 @@ categories: IT NEWS
  > 
  ## [实现网页长截图的常见思路总结](https://blog.csdn.net/qinyuanpei/article/details/112429622)
  > 实现网页长截图的常见思路总结
- ## [你确定你真的理解“双亲委派“了吗？！](https://blog.csdn.net/hollis_chuang/article/details/112462198)
- > 
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [你确定你真的理解“双亲委派“了吗？！](https://blog.csdn.net/hollis_chuang/article/details/112462198)
+ > 
  ## [应该监控哪些Kubernetes健康指标](https://blog.csdn.net/fly910905/article/details/112467716)
  > 应该监控哪些Kubernetes健康指标
  ## [SCI-HUB 印度被诉、twitter账号被封，是梁上君子还是罗宾汉？](https://blog.csdn.net/weixin_39787030/article/details/112485741)
  > SCI-HUB 印度被诉、twitter账号被封，是梁上君子还是罗宾汉？
  ## [Spring Boot 2.x基础教程：使用Flyway管理数据库版本](https://blog.csdn.net/dyc87112/article/details/112506676)
  > Spring Boot 2.x基础教程：使用Flyway管理数据库版本
- ## [梦回93年，32岁的Yann LeCun在展示他的卷积网络...](https://blog.csdn.net/BAAIBeijing/article/details/112551537)
- > 梦回93年，32岁的Yann LeCun在展示他的卷积网络...
+ ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
+ > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
  ## [复盘2020年：数字经济时代下的营销案例集锦](http://www.chanpin100.com/article/113395)
  > 本文将回顾一下过去的2020年品牌在数字营销上的精彩表现。
  ## [聚焦丨百万医疗险行业如何实现数字化转型，加速渗透市场](http://www.chanpin100.com/article/113393)
  > 我国由于医院的市场化导向，使得医院在很大程度上处于自负盈亏的经济现状，长此以往遍出现了“以药养医”的医疗现象，转接至国民身上便形成了难以承压的医疗负担，这样的市场环境也催生出了低保费、高保额的百万医疗险。
- ## [别找了，你常想逛的网站都在这里，建议收藏（附链接）](http://www.chanpin100.com/article/113391)
- > 产品经理在工作日常中常常需要在各种网站上找一些研究报告，找一些行业数据，竞品数据，往往得到的是二手甚至是三手数据，数据可信度及数据质量难以保证，这个时候高质量的数据尤为重要，以下是整理好的数据及产品经理常用的网站，附链接，按需自取。建议收藏后食用。
 
     
