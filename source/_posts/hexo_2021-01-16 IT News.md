@@ -1,20 +1,22 @@
 ---
 title: 2021-01-16 IT News
 copyright: true
-date: 2021-01-16 09:09:27
+date: 2021-01-16 10:07:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [渤海活塞，智能工厂实现产品全生命周期管理!](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=a0Six8M5GKVYqIkY5NQRKJx1PGtqW4Q*rR3*jER5FBnVMHchPy5t3O4zFRMUIcYJWkFVbsvfJgfO1BHHwTviZTDGcH49lcf3q97R5oLAQPOtJSjP*00oqfF-D24CXTc0&new=1)
+ ## [渤海活塞，智能工厂实现产品全生命周期管理!](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=a0Six8M5GKVYqIkY5NQRKJx1PGtqW4Q*rR3*jER5FBmu5eoP6ng6og3eCq6lb*sIoGkBl4xd5weMqLyVF3Tw1Qa21gxwOH7V2195U3nQk9euZ5BUQP6QX*ZvTO-mZQzm&new=1)
  > 导 读 ( 文/ e-works )滨州渤海活塞有限公司(以下简称：渤海活塞)主导产品为高效率高性能低排放内燃机活塞、活塞销、摩擦副等内燃机运动组件，年产能力4500万件，单个工厂产能居世界首位。本文为2020中国标杆智...
- ## [\[弘和资讯\]了解弘和集团的人脸识别平台，从这里开始](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=lbXjoutGKYTPtdtmPZ*JdFT7cY3StRGtLduOqeNBTJ12oGXQ6AxhHbOdb96HzEoAyUatr71YKFlcDTLfuPz47AGUVbsC7l5HMMeK0TOFegHN4UTxvbqBniREpWaVrg8I&new=1)
- > 人脸识别是一种生物识别技术，又称人像识别、面部识别。是基于人的脸部特征信息进行身份识别的一种生物识别技术，主要用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到...
- ## [Mobileye纯视觉+纯激光雷达方案定义消费级自动驾驶汽车，性能实现重大飞跃](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=GTlXM0wtI83XSJQWUPb5gvrODPe*EpeWTsKQN1nuBWgkLPhXbdtypIU36OMv5eDPEz6PV8DEDBYUN5uaOC3ZcUtCIbrs4h5QIb0JXXIIozDaNIgMpQCjo9Q0Mr2*-RmR&new=1)
- > 这款不足名片大小的芯片级激光雷达凭借完全数字化和先进的信号处理技术、多种扫描模式、丰富的原始探测和多帧跟踪，Mobileye的软件定义成像雷达代表着自动驾驶汽车在架构上的范式转变，从而实现了性能上的重大飞...
- ## [三年时间，华为云撕掉了哪些标签?](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=fE3YrjL-ZN4aFNYrM4saV74pdnZVkUmS1p4mUtbqK2OLKWHKD0mTheVp8pSHhcQweSF0ybv5FNI7wkLIsWNaapVdFLTplCizblPuqxRuOS85Bxfk-59mU1QEF-cR-zfn&new=1)
+ ## [三年时间，华为云撕掉了哪些标签?](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=fE3YrjL-ZN4aFNYrM4saV74pdnZVkUmS1p4mUtbqK2Oxw6AErzOJfRibr6YD*T*YK7miiv9a2PdJysNv571hpSwTHx0YjKPSv3Kq5POdxObOOOQx6F7zoVIQ9tw**8k8&new=1)
  > 华为云已经在不知不觉间服务于各行各业。2017年，华为云品牌正式对外发布。不久之后，华为云敲开了互联网Top企业的大门——为「新浪新闻」这一日活用户超4000万，月活用户突破1亿的资讯APP提供全栈云服务方案。 ...
- ## [这个冬天很冷，这里却很暖!](http://mp.weixin.qq.com/s?src=11&timestamp=1610758805&ver=2831&signature=IHiOCwUJDzqDSZn7yJeVavu5ApUX2YV*t1i3BplFz5xhlgx*AMw7mD-6Fnv-7pLRrRwV-irpiahZpqMiKpUZEwgTv44RFhKH08RJPeCcp5t4kd-464wEsx99TQvDig71&new=1)
+ ## [\[弘和资讯\]了解弘和集团的人脸识别平台，从这里开始](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=lbXjoutGKYTPtdtmPZ*JdFT7cY3StRGtLduOqeNBTJ3A0B1bwrYgpHdaXaTLvYBfB6P2TxGM6SqfGEAd5mNvI3BcUVDQXqHToI9t-ZEVRM7nTEwcNLzo8NJcvOgYewKf&new=1)
+ > 人脸识别是一种生物识别技术，又称人像识别、面部识别。是基于人的脸部特征信息进行身份识别的一种生物识别技术，主要用摄像机或摄像头采集含有人脸的图像或视频流，并自动在图像中检测和跟踪人脸，进而对检测到...
+ ## [\[报告\]华为智能汽车业务洞察(附23页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=DSPb7wJXQIfMxI7xrUE8nTxjlBVaOglg-aGe2IPyQoyU0n01s5vtafByV9Cznw6Ck1mCZyREShDkreDc9HW8Wqn7ohc3SN2rLFnKPC*cZBROvA7ZT990Ju34xpYuJ0wc&new=1)
+ > 禁芯令阴霾之下，华为危机尚未解除。汽车产业颠覆式发展趋势下，华为凭借深厚ICT技术积累，迎来重大机遇。 危机与机遇并存之际，华为积极开辟智能汽车新战场。智能汽车业务能否驱动华为走出危机，迈向更高峰？亿...
+ ## [Mobileye纯视觉+纯激光雷达方案定义消费级自动驾驶汽车，性能实现重大飞跃](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=GTlXM0wtI83XSJQWUPb5gvrODPe*EpeWTsKQN1nuBWgQbK2CU5PMfEE2oI*-2yn8wbrgJgjOgmIZTyHPBE4PKGVFL61OA4tdOOLF6sbINyvvAJ0GP89OT6EjK0L1b9KB&new=1)
+ > 这款不足名片大小的芯片级激光雷达凭借完全数字化和先进的信号处理技术、多种扫描模式、丰富的原始探测和多帧跟踪，Mobileye的软件定义成像雷达代表着自动驾驶汽车在架构上的范式转变，从而实现了性能上的重大飞...
+ ## [这个冬天很冷，这里却很暖!](http://mp.weixin.qq.com/s?src=11&timestamp=1610762404&ver=2831&signature=IHiOCwUJDzqDSZn7yJeVavu5ApUX2YV*t1i3BplFz5xmxxGwhLgJUfH9R5U10Ds4xb9qvRwdxVJ8MdvGU7bNEzVuHrNrZz4Q*y0uulSYS*tUfqu5IDa6tvi61HMi*TfK&new=1)
  > “量好血压，还能传到手机上，看情况还正常，这个冬天过得会舒心点了。”“这电视不错，不仅能看新闻，还能随时看本地戏曲，挺方便的。”“选了一个合适的套餐，可以和儿女尽情煲电话粥了。”……1月14日，在福...
 # IT 技术 
  ## [人工智能的12个不为人知的秘密](http://ai.51cto.com/art/202101/640907.htm)
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 快过年了，用JavaScript让你的网页放烟花吧
  ## [如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？](http://server.51cto.com/sOS-640906.htm)
  > 如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？
- ## [【曾贤志】Excel表格视频教程（绝招篇）](http://fellow.51cto.com/art/202101/638871.htm?qd=51ctojrzd)
- > 【曾贤志】Excel表格视频教程（绝招篇）
+ ## [Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1](http://fellow.51cto.com/art/202012/635764.htm?qd=51ctojrzd)
+ > Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1
  ## [安卓App要权限还会偷删截屏？专治流氓App神器](http://os.51cto.com/art/202101/641235.htm)
  > 最近某APP删除用户相册里保存的截图事件闹得沸沸扬扬的，先不管这到底是不是有意而为还是bug，就拿许多APP
  ## [老板奉上双倍年终奖！年终报表必懂小技巧](http://os.51cto.com/art/202101/641234.htm)
