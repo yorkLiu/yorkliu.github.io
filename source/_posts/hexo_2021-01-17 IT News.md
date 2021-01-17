@@ -1,26 +1,30 @@
 ---
 title: 2021-01-17 IT News
 copyright: true
-date: 2021-01-17 12:06:27
+date: 2021-01-17 17:07:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [抖音开启“春节专项”招聘；Galaxy S21 中国发布会明晚举办；北京滴滴、花小猪完成46787名司机接种疫苗|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=doVwRkAc-hK0Onm2tM*Q54jd3MiaJ4Y8fzf7dWlAwg*dfzCBG*PBLEOnwwDxIqX6VD8WzfVEb2yC8MUQFCc1hsJiufO2-NFIT9RlnixSUSrL0PV4q3QoA*9UHuODXKGz&new=1)
+ ## [抖音开启“春节专项”招聘；Galaxy S21 中国发布会明晚举办；北京滴滴、花小猪完成46787名司机接种疫苗|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=doVwRkAc-hK0Onm2tM*Q54jd3MiaJ4Y8fzf7dWlAwg-4-MncX9liyksmwLOWYKRtkna0YJJmDiCrbd7HIInF4bGm*svROU4WGkL-9Ivl09FF4eHee0Rs0U1p4s5gBCbY&new=1)
  > 图 /IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【抖音成 2021 春晚独家红包合作方，开启“春节专项”招聘】抖音将替代拼多多，成为 2021 年春晚独家红包互动伙伴。字节跳动招聘官...
- ## [官宣!不办5G套餐也能用5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=66WN2ntbxsAul2GP59W3pJKzwJfHPAirBuDmb01W3IDu8*Qy9c-pHVR8zHXHxgRFCHIuyggQFGmzpGE5Pr8nM3NUOrrMrZkIo1QAF8xHsdDIbrHkEW6TCaHSEWC0GaSm&new=1)
- > Hi 大家好，我是机哥近日，看到工信部官方消息称，未办5G套餐的用户依然可用5G网络，所消耗的流量从用户现有的4G套餐中扣除。想必不少已经换了5G手机的小伙伴，可能会有这样的疑惑，那么就是如果自己没办理5G套...
- ## [Trumpf:铝合金3D打印高压铸造模具浇口分流器](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=rOjOpiKhK64kUz6vcZKDR4E1D5OA71sEV6TyspwTOfhFK1PXtLmbOZU*D3Yxzn4t18Kik*T1QOPRmkd2J*QyxbAhlP5h6yE1zMoRltPwkveBH6WXH8hASA4LKsaT5R3k&new=1)
- > TruPrint 3000 加工 H13 模具零件通过这个视频相信大家都了解了通快 3D 打印铝合金高压铸造模具浇口分流器的流程，随着零部件的结构越来越复杂，使用传统的铸造技术在生产零部件时，模具的设计和制造会花费大量...
- ## [Omdia观察：全球5G专网发展仍处于初步阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=FucoLTTyHbHzLUFx1WC*2DlU9Tk8bpgL1yQmg5RVnsyhZV8y*9G6zTpjP6s6OmSMOyvFDViZ6-66-xlaOjnOglwWz0B3nJ7PcLtjCTSKJVRFZ0Z4siOJKNXIR9jiETp3&new=1)
- > 来自市场研究公司Omdia的最新报告显示，在2020年11月举行的5G World活动中，专网生态系统在线上聚集到了一起，讨论了与专网和企业5G相关的方方面面。讨论涉及到了专网的各个方面，从商业模式和用例到法规和技术...
- ## [2021年(深圳)3D打印行业新春+餐叙交流会 邀请函](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=gWp7eFrzpWCTd8eQlln0ilr8Su0s7SbZPCKrkr1F-8FsrfkwES*0qix2AF63zcSCIvQGTtqgmtn5u4UkVcbaU7cGphBvv4I5*kDTc43elhFDQ2RmwFL9Ufg5PqQjuXqj&new=1)
+ ## [微软可持续发展在线峰会重磅来袭，行业专家齐聚首!](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=OUucotIrNI8LPNMicm*Pph5IxDFNQiISURZzpxLD-utTJHKuCUkCtt9E4btr4w5MsrflD2VVUvAbKey*qPBxViW0FoTAzzq2BlghawUolDXsKDZ9QsdgpBE6Kd2lSoNV&new=1)
+ > （本文阅读时间：5分钟）《2020中国企业可持续发展十大趋势》指出，可持续发展将成为世界经济与企业界的重要议题。近年来，随着全球气温升高、生态环境恶化、自然灾害频发等也使得人们生存环境面临前所未有的挑...
+ ## [2021年(深圳)3D打印行业新春+餐叙交流会 邀请函](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=gWp7eFrzpWCTd8eQlln0ilr8Su0s7SbZPCKrkr1F-8HeF3IwGQI3o2o*DblUt151pNZ5H4Jl0nlqCtCmOqvFfOWpGDhKFeEv0VY57Z9PJpDDuXwPj*bOs3TME77iDsfd&new=1)
  > 回顾2020年消费级3D打印设备及耗材出口成倍增长，工业级3D打印设备龙头也蠢蠢欲动进入资本市场，终端市场应用正在缓慢地渗透到各行各业。那么2021年3D打印行业会发生什么？中美贸易战尚未结束，新冠疫情也在全球...
- ## [重磅：联通开启新一轮中高层调整，为“1+5+5”布局!](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=8uTIi3XTtCuiCKUzyVfVnYN0QRy5Kkh0rI1*x7wnxy-wDFF4cumOmQsNCpqxpWNHDC6TYRgMWoQLlM2iXaecjV88*Fg6PPaSLVB*WZB3rl-XjLWl3inuFfHagYSgxvWN&new=1)
+ ## [Trumpf:铝合金3D打印高压铸造模具浇口分流器](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=rOjOpiKhK64kUz6vcZKDR4E1D5OA71sEV6TyspwTOfhisPavxlNc8OqvXj7MEGSpRWZP84uk8r0qsxov6hwVZdvBYCsighhklzzaPQwcsTyORqe1xc4zxbTyZFebn4BZ&new=1)
+ > TruPrint 3000 加工 H13 模具零件通过这个视频相信大家都了解了通快 3D 打印铝合金高压铸造模具浇口分流器的流程，随着零部件的结构越来越复杂，使用传统的铸造技术在生产零部件时，模具的设计和制造会花费大量...
+ ## [项目在手，天下我有!这里有820个ML Python库，star量共计260万，持续周更中](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=2qAylVwcZ19xw1cE4bsZ80L8Ew0BaOykUkRoFSK7vc7niywlp*1165UOOqcNJOvZae-8B3lOEgLHRceyx1ZxvnqRiXY8fjoUCQ9Ky*ITJnxMzf3-7K*MaMhUl9olxCva&new=1)
+ > 机器之心报道作者：魔王当你发愁找不到合适的开源项目时，有人已经悄悄地整理好了。今天要介绍的这个 GitHub 项目提供了大量机器学习 Python 库，覆盖机器学习框架、数据可视化、强化学习等多个领域，而且项目作...
+ ## [官宣!不办5G套餐也能用5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=66WN2ntbxsAul2GP59W3pJKzwJfHPAirBuDmb01W3IDFRKpkSLaBgANUp1S1vnWjZOvw2hqKxlPHMmAinmTODFMlSOy3z*nY-a2g8edEavZ1qChMBppY36VdNkWVXLON&new=1)
+ > Hi 大家好，我是机哥近日，看到工信部官方消息称，未办5G套餐的用户依然可用5G网络，所消耗的流量从用户现有的4G套餐中扣除。想必不少已经换了5G手机的小伙伴，可能会有这样的疑惑，那么就是如果自己没办理5G套...
+ ## [Omdia观察：全球5G专网发展仍处于初步阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=FucoLTTyHbHzLUFx1WC*2DlU9Tk8bpgL1yQmg5RVnsxxHYWEOnfFz3i6bqNvNaj9UtPu2vMPonr72s8OIFD1tvHpW*p49v2ytEzKS8lWrIR5vazOSCU5e7rOuM6VbNPO&new=1)
+ > 来自市场研究公司Omdia的最新报告显示，在2020年11月举行的5G World活动中，专网生态系统在线上聚集到了一起，讨论了与专网和企业5G相关的方方面面。讨论涉及到了专网的各个方面，从商业模式和用例到法规和技术...
+ ## [重磅：联通开启新一轮中高层调整，为“1+5+5”布局!](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=8uTIi3XTtCuiCKUzyVfVnYN0QRy5Kkh0rI1*x7wnxy8hN*ElZwdGl4BrMQB2CK9wgMMJPQlQuOMj8uA6GGRPa8GPlEYDAgPHpbsC6NxlBTaX9CAKgcg5PgmFoiFpT6kU&new=1)
  > 近期，据知情人士透露，中国联通即将启动新一轮大规模中高层调整，涉及多个省公司总经理，以及集团多个部门、子公司一把手涉及的高管调整至少有13人（不含退休）。另据小编统计，2020年联通也先后多轮次对11个省...
- ## [项目周刊|波卡插槽拍卖或在4月进行](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=SSu7X9RrlkHuOxUx08KYrrF6TD7tobx*qeD74jrnMYdygVvARasvY3VmQv*iu4j8vUsr4e6TcpHkWlLKky2v0HlZjn*OTx3hszE5ZmAkG3aI2oRetCaWSGtIkkM6zu8E&new=1)
+ ## [项目周刊|波卡插槽拍卖或在4月进行](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=SSu7X9RrlkHuOxUx08KYrrF6TD7tobx*qeD74jrnMYeQe64ixq8fmnZnPS2zvoFZXBWIzP9mnuqj5rXEB33U9c4y9zYGORuanQeb*BOuCK7TQRck7PcDKn1VWLfqWfmB&new=1)
  > 比特币Bitcoin Core发布0.21.0正式版源代码 下一版本将命名为22.0比特币核心客户端Bitcoin Core在GitHub上发布了0.21.0正式版源代码，距离上一个大版本0.20.0的发布接近6个月。在0.21.0版本中，
- ## [Flash Player续命：说好的2021年停止支持怎么又要发新版](http://mp.weixin.qq.com/s?src=11&timestamp=1610856005&ver=2833&signature=do4DgiRK23qLNnFOhBAfXYTgmMVgc*KsDFZAnbwcf6QWZm0hP-w7G7tYXM-WiyiXJ973sVj59ukl0ebT6VHXrW*2ZUCrgtgHmH0vDf35pP0Sial6PGhwxGGDVVJzqBFR&new=1)
+ ## [Flash Player续命：说好的2021年停止支持怎么又要发新版](http://mp.weixin.qq.com/s?src=11&timestamp=1610874005&ver=2833&signature=do4DgiRK23qLNnFOhBAfXYTgmMVgc*KsDFZAnbwcf6QdelobvEMzgrLbBLObC3cuLZ*S50oRaEe-r36GMhP-bDJGx*2l9OxUYym1mXYcZDtdwjhc--4eIfUXdvL4UA59&new=1)
  > 早在2017年，Flash Player的开发商Adobe就宣判了它的「大限」，即2020年12月31日停止对这一平台的支持。与此同时，其主要发挥作用的浏览器平台在近几年里也悉数停止了对它的支持。　　单说Flash Player你可能...
 # IT 技术 
  ## [人工智能的12个不为人知的秘密](http://ai.51cto.com/art/202101/640907.htm)
@@ -37,8 +41,12 @@ categories: IT NEWS
  > 快过年了，用JavaScript让你的网页放烟花吧
  ## [如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？](http://server.51cto.com/sOS-640906.htm)
  > 如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？
- ## [【曾贤志】Power Query For Excel数据处理利器（第1季 基础操作篇）](http://fellow.51cto.com/art/202012/637604.htm?qd=51ctojrzd)
- > 【曾贤志】Power Query For Excel数据处理利器（第1季 基础操作篇）
+ ## [网络攻防案例精讲视频课程](http://fellow.51cto.com/art/202101/639328.htm?qd=51ctojrzd)
+ > 网络攻防案例精讲视频课程
+ ## [COVID-19和远程办公改变2021年云预测](http://cloud.51cto.com/art/202101/641340.htm)
+ > 下面让我们看看来自IDC、Forrester Research、451 Research和Gartner的2021年云预测，以帮助你为今年可能发
+ ## [根据8个因素计算HPC存储成本](http://stor.51cto.com/art/202101/641338.htm)
+ > 高性能计算(HPC)存储的总拥有成本(TCO)超出每GB的初始价格，这意味着IT团队必须考虑其他价格变量。除系统本
  ## [Omdia观察：全球5G专网发展仍处于初步阶段](http://network.51cto.com/art/202101/641336.htm)
  > 来自市场研究公司Omdia的最新报告显示，在2020年11月举行的5G World活动中，专网生态系统在线上聚集到了一
  ## [谷歌上的购物广告中,有十分之一可能是钓鱼网站](http://netsecurity.51cto.com/art/202101/641335.htm)
