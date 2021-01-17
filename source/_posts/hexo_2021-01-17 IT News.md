@@ -1,20 +1,20 @@
 ---
 title: 2021-01-17 IT News
 copyright: true
-date: 2021-01-17 08:03:16
+date: 2021-01-17 09:03:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [官宣!不办5G套餐也能用5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1610841604&ver=2833&signature=66WN2ntbxsAul2GP59W3pJKzwJfHPAirBuDmb01W3IBMz9kT9BOOGES0j*h3xTtprZz0mvGR3Ow3Yl0DCfPmM-7XW5wTVAUjSexNUUBpmh7162joc4UPwkZUFRE91j5G&new=1)
- > Hi 大家好，我是机哥近日，看到工信部官方消息称，未办5G套餐的用户依然可用5G网络，所消耗的流量从用户现有的4G套餐中扣除。想必不少已经换了5G手机的小伙伴，可能会有这样的疑惑，那么就是如果自己没办理5G套...
- ## [重磅：联通开启新一轮中高层调整，为“1+5+5”布局!](http://mp.weixin.qq.com/s?src=11&timestamp=1610841604&ver=2833&signature=8uTIi3XTtCuiCKUzyVfVnYN0QRy5Kkh0rI1*x7wnxy87zQVUDInP2KaCO6UgGwRouNyW8UXC2PC4ZC4fIQM6CvzIVYra*Rb7XtCuc7jk91zF2y7JnAFM*JiywKKcSBtO&new=1)
+ ## [重磅：联通开启新一轮中高层调整，为“1+5+5”布局!](http://mp.weixin.qq.com/s?src=11&timestamp=1610845204&ver=2833&signature=8uTIi3XTtCuiCKUzyVfVnYN0QRy5Kkh0rI1*x7wnxy87zQVUDInP2KaCO6UgGwRo4ZfroWUJwBeVgE3-*xTLfuBpkRb7RlPK2nMMyJLCpXPa1O9R3fdg0Xulrj1cDZZ7&new=1)
  > 近期，据知情人士透露，中国联通即将启动新一轮大规模中高层调整，涉及多个省公司总经理，以及集团多个部门、子公司一把手涉及的高管调整至少有13人（不含退休）。另据小编统计，2020年联通也先后多轮次对11个省...
- ## [项目周刊|波卡插槽拍卖或在4月进行](http://mp.weixin.qq.com/s?src=11&timestamp=1610841604&ver=2833&signature=SSu7X9RrlkHuOxUx08KYrrF6TD7tobx*qeD74jrnMYde0dkQHwHoNDhvMpOt94LisCT7aKQS671ZDpd7013RJxgIGshVi-s8kK7FmuoPuI17d*G4GPsEloe4FoKoAQcY&new=1)
+ ## [官宣!不办5G套餐也能用5G!](http://mp.weixin.qq.com/s?src=11&timestamp=1610845204&ver=2833&signature=66WN2ntbxsAul2GP59W3pJKzwJfHPAirBuDmb01W3IBMz9kT9BOOGES0j*h3xTtpgu6nboJd3lmvOIrN9X9-TNQ*8feufhQvL3QeMbRNVb1UgJw3ws8YW6CASBduZa3R&new=1)
+ > Hi 大家好，我是机哥近日，看到工信部官方消息称，未办5G套餐的用户依然可用5G网络，所消耗的流量从用户现有的4G套餐中扣除。想必不少已经换了5G手机的小伙伴，可能会有这样的疑惑，那么就是如果自己没办理5G套...
+ ## [项目周刊|波卡插槽拍卖或在4月进行](http://mp.weixin.qq.com/s?src=11&timestamp=1610845204&ver=2833&signature=SSu7X9RrlkHuOxUx08KYrrF6TD7tobx*qeD74jrnMYde0dkQHwHoNDhvMpOt94Li71u0ECTdcx5-HSyndMTJ0f9m8eC5owhDm29bWi1AeE10bbO0e5wwh74fNAgXUqDq&new=1)
  > 比特币Bitcoin Core发布0.21.0正式版源代码 下一版本将命名为22.0比特币核心客户端Bitcoin Core在GitHub上发布了0.21.0正式版源代码，距离上一个大版本0.20.0的发布接近6个月。在0.21.0版本中，
- ## [Omdia观察：全球5G专网发展仍处于初步阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1610841604&ver=2833&signature=FucoLTTyHbHzLUFx1WC*2DlU9Tk8bpgL1yQmg5RVnszdEPo*SlBO-zMEOCihnYiIN35m2jYb5aWXG-LaJaBCAoLNCn7yNvHe36Jpu9RvGibOnzu2eiPnrxPk3nAzm3zN&new=1)
+ ## [Omdia观察：全球5G专网发展仍处于初步阶段](http://mp.weixin.qq.com/s?src=11&timestamp=1610845204&ver=2833&signature=FucoLTTyHbHzLUFx1WC*2DlU9Tk8bpgL1yQmg5RVnszdEPo*SlBO-zMEOCihnYiIOQuXsxXbb1QD3s3QFrHs5-F9cbhIblPv24GQhzV3G**SzL5I3bECgNcJrS3-5ojG&new=1)
  > 来自市场研究公司Omdia的最新报告显示，在2020年11月举行的5G World活动中，专网生态系统在线上聚集到了一起，讨论了与专网和企业5G相关的方方面面。讨论涉及到了专网的各个方面，从商业模式和用例到法规和技术...
- ## [Flash Player续命：说好的2021年停止支持怎么又要发新版](http://mp.weixin.qq.com/s?src=11&timestamp=1610841604&ver=2833&signature=do4DgiRK23qLNnFOhBAfXYTgmMVgc*KsDFZAnbwcf6RuxA9qgYLbI25WoISF6y1X-6LAfGQwk81CmHX*mZWdRd-zGDjmJ07tC--ctQggFIYu38VJwyEi5qpbCBKyuooJ&new=1)
+ ## [Flash Player续命：说好的2021年停止支持怎么又要发新版](http://mp.weixin.qq.com/s?src=11&timestamp=1610845204&ver=2833&signature=do4DgiRK23qLNnFOhBAfXYTgmMVgc*KsDFZAnbwcf6RuxA9qgYLbI25WoISF6y1Xg3cZRHRC8kTeG-dQqn*1cb8zeWp35gI4r7z90fM6UgJPUItqTgoQiCrc6h7mU2ta&new=1)
  > 早在2017年，Flash Player的开发商Adobe就宣判了它的「大限」，即2020年12月31日停止对这一平台的支持。与此同时，其主要发挥作用的浏览器平台在近几年里也悉数停止了对它的支持。　　单说Flash Player你可能...
 # IT 技术 
  ## [人工智能的12个不为人知的秘密](http://ai.51cto.com/art/202101/640907.htm)
@@ -31,8 +31,10 @@ categories: IT NEWS
  > 快过年了，用JavaScript让你的网页放烟花吧
  ## [如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？](http://server.51cto.com/sOS-640906.htm)
  > 如何快速查看您的Linux服务器是否遭到来自某个IP地址的DDoS攻击？
- ## [跟老谭学Java 8教学视频课程第二季__Java面向对象编程](http://fellow.51cto.com/art/202101/640240.htm?qd=51ctojrzd)
- > 跟老谭学Java 8教学视频课程第二季__Java面向对象编程
+ ## [Oracle Undo回滚段深入解析_Oracle视频教程_基础深入与核心技术10](http://fellow.51cto.com/art/202012/637239.htm?qd=51ctojrzd)
+ > Oracle Undo回滚段深入解析_Oracle视频教程_基础深入与核心技术10
+ ## [微信2021年首次更新！这项功能绝对值得一试](http://mobile.51cto.com/app-show-641332.htm)
+ > 再有一个月就是春节了，相信很多小伙伴都已经开始无心工作。不过这两天腾讯倒是挺积极，就在昨天微信迎来了
  ## [阿里淘系所有程序员一整年的内部技术总结，都在这里了](https://blog.csdn.net/weixin_39787242/article/details/112685364)
  > 阿里淘系所有程序员一整年的内部技术总结，都在这里了
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
