@@ -1,20 +1,28 @@
 ---
 title: 2021-01-19 IT News
 copyright: true
-date: 2021-01-19 09:10:13
+date: 2021-01-19 10:09:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [最后的疯狂?特朗普政府要求英特尔等企业停止对华为供货](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=-yy4pdsCLijdvM6*byAzZg6qBlDF7x1jkqeAvFiXjp3EJ8reDLJ88oHnPRn6uIwr503csUeDRe4WlLswQB2syjj*2phCxJzGrRgcQHrEPWU1BwWfp5RWVp3*D8j*QB0b&new=1)
+ ## [讯石会议|讯石2020年度总结暨第七届英雄榜颁奖直播来袭!](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=UgVP8gutnf86wI7KXGLl-pwtMvOcS1faMgtrpYp5dIMH2YiaLD*J*iYaCPJWopSs8dif6durKbGkIhhLrw2TSdamvKI4EeiVwTB3mcyF6krd3hrlMFeOyt*NnYurNv2F&new=1)
+ > 新闻导读1月21日，讯石2020年度总结暨第七届英雄榜颁奖线上直播即将来临，邀请光通信业内知名专家分析未来光通信市场发展，由讯石总结2020年光通信发展状况，欢迎关注!ICC讯 1月21日，讯石将开启2021新年第一场...
+ ## [\[科技早报7点整\]华为商城下架荣耀全部产品 特朗普政府阻止英特尔向华为供货……](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=XPM1uYqcZJ5lqXpHEMjx-1qTeQnECM6-AyccvhcnFOVD8vMM2lsJu9jSeuyRmbCYntLUChgH3TocU-DsAaVDG8LpdTMr8PjWdSd*SAIlBjkShkMQvaJj3NNfgxLKaJjG&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第1039期1.2020年全国网络零售额117601亿1月18日，国家统计局发布2020年中国经济年报，全年社会消费品零售总额391981亿元。全年全国网上零售额117601亿元，比上年增长10.9%。其...
+ ## [\[报告\]2020中国汽车用户消费洞察白皮书(附38页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=3NzpzIuoOUdKG4iZqz45XxA-9WhGZm210183BlXDFmYzPzlTDphVI9eyUtfl7sKz5ks4iu6d*uvh-P7QfbvB-mgHlQhYd-tsWyE7WVxYCM66wqyxPoWB5ScXLpvzmCwz&new=1)
+ > 2020年，是汽车行业充满变数的一年，特殊事件之下，销量深V反弹，用户消费升级，产业结构优化，一批企业逆势成长，一批企业淘汰出局。2020年，车市不缺话题。在此背景之下，懂车帝联合巨量算数、中国汽车流通协...
+ ## [最后的疯狂?特朗普政府要求英特尔等企业停止对华为供货](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=-yy4pdsCLijdvM6*byAzZg6qBlDF7x1jkqeAvFiXjp1vih1isCFKr2MgoCF1hGja7mDy6iurKfGjhwBz4mlbpP3K9IqY*16ZAaheq2AisLgrSNR7Iwz23nNyt5rUatXR&new=1)
  > 1月15日，环球网的报道显示，美国政府将9家中国企业列入所谓“与中国军方相关”的黑名单中，其中包括手机制造商小米及飞机制造商中国商飞。这使得相关领域的关注更多地落在了小米身上。随着时间的发展，现在来自...
- ## [钉钉 6.0 开放底层“协同框架” 开发多人实时协作程序像编本地程序一样简单](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=iyBVFvImYUSBzOIxw9hwGZGy9cq1wY5eI3SzBvf95kBa8sSHCgnigLVTLKU5Qt*5KM*Rlhr4C*hSxx-F*WqG17um6fhX8Kn*zvRsd7N1GfJGFlc5nZisau9bHDCt9ATM&new=1)
+ ## [你在工作中有量子思维吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=JHRR7WYopumVRW-pyehnS9Xvp**ubRDumt4VY*vRqva2sKK1LOOgyZVUba0zb26yhcbKn1HUiMk-nIddY0QBabx36uHvEeMI3CozbnHegoVgOLAQr0FJ15dYUKGzatRU&new=1)
+ > 导语科技的快速发展与复杂的产业环境不断改变着产业结构和企业的生存发展模式，量子思维为产业转型与企业管理变革提供了新的观念和范式。本文从科技演化的视角分析了量子思维对于产业转型与企业管理模式变革的影...
+ ## [钉钉 6.0 开放底层“协同框架” 开发多人实时协作程序像编本地程序一样简单](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=iyBVFvImYUSBzOIxw9hwGZGy9cq1wY5eI3SzBvf95kCoLYUBE4Sdxgmu3qF4W0GBBkRPmbRj8Q4qoTYdnQTmEz552gcrAUr9eWbfDbdZttxa0QmbKofBj8qoam8qx-IV&new=1)
  > 2021 年新年伊始，钉钉在 1 月 14 日发布了最新 6.0 版本，同时宣布战略定位全面升级，钉钉将从过去基于IM的协同办公平台，升级为企业协同办公和应用开发平台。从产品和市场表现，钉钉已经杀出了一条血路。IM 一...
- ## [“金张掖”携手“懂行人”：看丝路驿镇的云端华丽转身](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=EytXxKTFTEyNAkm4UpndKmkoEkZOeSfUSbqLrpdee7U*YXULxGTD7Ld5VvZOpoC0Iy18WYv5Lw1HAlXBfFF4ZdenGWKGtRpxnckv*wwQAKi6Ou4zr6A6ww3TGhuQB1IS&new=1)
+ ## [“金张掖”携手“懂行人”：看丝路驿镇的云端华丽转身](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=EytXxKTFTEyNAkm4UpndKmkoEkZOeSfUSbqLrpdee7VFRKI*y4RTry6OqRop6edf8P6hpDlNrI*rojv014DQJNADg0bzJNbm-nuepVO31vyaxrJNjhFa4beMhPpCRZy3&new=1)
  > 甘肃省张掖市作为古“丝绸之路”上进入河西走廊的重要驿镇，素有“金张掖”的美誉，在数字经济飞速发展的今天，“金张掖”携手“懂行人”华为，以城市产业云的创新实践，上演了一场古丝绸之路“驿镇”的“云端”...
- ## [e-works 2020大事记!](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=hTkwhvi7B2YP38mcmgT9SeOzT8HDJcPiSQ-dqxMP4Ze0lxjZwe85A91qvYKcpDvYqtBVdeTeqAZoM5*qKhIHLPXLiiqBmDWXX3Pa4MD-BClJT4aJftc1Kxzs1vULQTuh&new=1)
+ ## [e-works 2020大事记!](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=hTkwhvi7B2YP38mcmgT9SeOzT8HDJcPiSQ-dqxMP4ZeFA3aqmtSl5r08TucheD98R11qnrJjdjsTl34LuMGTvAXAZK8DVu0g6xEjzgbMWMVkkQdQVALhW*hRmvk3mZT7&new=1)
  > 跌宕起伏的2020年，e-works 作为总部在武汉的智能制造服务企业，也经历了前所未有的挑战。上半年，线下会议、培训、咨询、产业研究和国际交流等业务受到很大影响，几乎停滞。但是，在各级政府的大力支持和全体员...
- ## [\[喂你播\]抖音或成2021年春晚独家红包合作伙伴；腾讯QQ更新图标logo](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=gFlzf9mMztFEjl0h9CS4qYJkRpK757nxftPB316A0AuIRoKpogga1ifytMV3ynXJ9qOFAntf9GP*BJ7ApbpIaKZ752ToakznKzFUcnyGLjTSvWMSNDGf50XOupsmNlkv&new=1)
+ ## [\[喂你播\]抖音或成2021年春晚独家红包合作伙伴；腾讯QQ更新图标logo](http://mp.weixin.qq.com/s?src=11&timestamp=1611021605&ver=2837&signature=gFlzf9mMztFEjl0h9CS4qYJkRpK757nxftPB316A0AvsbbpkM6ZHdZ--iZTZrvjTCVdi0Ha2m6mNxaNp5TgWWUozyT0DWAvELMGIOhQLOZzuA8XgItBTcbmMXVnFg-YB&new=1)
  > BGM：Prologue-美波腾讯QQ更新图标logo据悉，手机QQ iOS 和安卓版迎来了 8.5.5 更新，腾讯QQ的经典图标Logo，做了更新，企鹅头上添加了黄色牛角。对此官方回应，这只是春节限定，还有一大波春节福利等着大家。再...
 # IT 技术 
  ## [什么是人工智能芯片？人们需要知道的一切](http://ai.51cto.com/art/202101/641575.htm)
@@ -31,28 +39,28 @@ categories: IT NEWS
  > 年薪百万的阿里P8，每天都在干些啥？
  ## [用鸿蒙开发AI应用（三）软件篇](http://developer.51cto.com/art/202101/641084.htm)
  > 用鸿蒙开发AI应用（三）软件篇
- ## [2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】](http://fellow.51cto.com/art/202007/622446.htm?qd=51ctojrzd)
- > 2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】
- ## [继阿里之后，企鹅又露出窃听马脚！上网建议使用无痕浏览](http://mobile.51cto.com/news-641672.htm)
- > 近日，有细心网友报告称，腾讯 QQ 以及 QQ 办公版 TIM 被发现会扫描用户的 Chrome 浏览器历史，搜索购物记
- ## [Java反射进阶―聊聊反射的几个问题](http://developer.51cto.com/art/202101/641671.htm)
- > 昨天有朋友反映好多反射知识没说到，所以今天算是补充篇，一起看看反射的进阶知识点。
- ## [视频监控趋势解析：2021年业务价值将持续提升](http://netsecurity.51cto.com/art/202101/641670.htm)
- > 日前，云视频安全厂商Eagle Eye Networks发布了2021年视频监控与安全性预测报告，指出2021年将
- ## [2020年前三季度共有730起网络安全事件](http://netsecurity.51cto.com/art/202101/641669.htm)
- > 据外媒，根据Tenable公司安全反应小组的一份报告，2020年1月到2020年10月间，全球共有730起公开漏洞披露事
- ## [该来的还是要来 台湾可能于今年关闭3G](http://network.51cto.com/art/202101/641668.htm)
- > 据台媒报道，此前中华电信向NCC申请于2024年关闭3G网络，但目前有消息指出，在三大运营商不反对“3G共用平
- ## [远程办公导致网络犯罪激增400%，盘点2020年重点网络安全事件](http://netsecurity.51cto.com/art/202101/641667.htm)
- > 2020年，疫情这次黑天鹅事件，对全球政治、经济、生活等方方面面都带来了深刻的影响，其带来的远程办公甚至
- ## [聊聊Oracle同义词,你知道吗？](http://database.51cto.com/art/202101/641666.htm)
- > Oracle的同义词(synonyms)从字面上理解就是别名的意思，和视图的功能有点类似，就是一种映射关系。
- ## [在 Linux 中如何查看文件的修改日期](http://os.51cto.com/art/202101/641665.htm)
- > 有时候可能需要检查有关文件的详细信息，例如文件的修改日期。当你要检查文件的最后编辑时间时，本文可能会
- ## [18个 编写 JavaScript 好习惯，好家伙，收藏里面吃灰吧！](http://developer.51cto.com/art/202101/641663.htm)
- > 在我多年的编程生涯中，我会优先考虑编写代码的方式，不仅是为了让代码更简洁，还因为它有助于提高编码效率
- ## [测试驱动技术（TDD）系列之2：详解TestNG参数化](http://developer.51cto.com/art/202101/641664.htm)
- > 本篇文章只重点讲解TestNG参数化相关知识，
+ ## [在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程](http://fellow.51cto.com/art/202101/639334.htm?qd=51ctojrzd)
+ > 在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程
+ ## [神速：开发者已成功移植Windows 10X至M1 Mac等设备](http://os.51cto.com/art/202101/641687.htm)
+ > 据外媒报道称，有开发者已经提前行动，成功Windows 10X运行到Lumia手机、Surface Go（英特尔酷睿m3）、以及
+ ## [Gartner：2020年全球半导体收入增长7.3%](http://news.51cto.com/art/202101/641685.htm)
+ > 根据全球领先的信息技术研究和顾问公司Gartner的初步统计结果，全球半导体收入继2019年下降12%后，在2020年
+ ## [邬贺铨：2021年的5G应用会更加超乎想象](http://network.51cto.com/art/202101/641683.htm)
+ > 近日，中国科学院院士邬贺铨在新浪科技主办的2020科技风云榜上讲解了他对2020年5G发展的总结与2021年5G发展
+ ## [应用在客户服务团队的人工智能和机器学习工具](http://ai.51cto.com/art/202101/641682.htm)
+ > 人工智能驱动的客户服务解决方案改善了业务的各个方面。它有助于提供出色的客户体验，并保持忠诚度、品牌声
+ ## [云计算成为数字化转型的动力](http://cloud.51cto.com/art/202101/641681.htm)
+ > 人们生活在一个不断发展的世界中，所有组织都需要将自己的行动推向新的创新类型，这就是数字化转型成为耐力
+ ## [通过创建视频游戏来学习 Python](http://developer.51cto.com/art/202101/641686.htm)
+ > 使用我们的新电子书中的分步说明，以有趣的方式了解 Python。
+ ## [IT招聘中6个热门的趋势以及5个正在降温的趋势](http://www.cioage.com/art/202101/641679.htm)
+ > 一场全球性的流行病、经济萎缩以及结束种族不平等的呼声改变了IT业的招聘格局。本文讲述了公司在IT人员配置
+ ## [边学边记：RPC框架调用过程](http://network.51cto.com/art/202101/641677.htm)
+ > RPC是远程过程调用(Remote Procedure Call)的缩写形式。它是一种通过网络请求远程计算机程序上的服务，而不
+ ## [Zookeeper面试常见的11个连环炮](http://developer.51cto.com/art/202101/641676.htm)
+ > 面试的时候，面试官只要看到你简历的上写的有Zookeeper(熟悉、掌握)之类，那你至少要准备接下来的11连问。
+ ## [手把手教你使用Django如何连接MySQL](http://database.51cto.com/art/202101/641675.htm)
+ > 这次咱们来简述一下，Django如何连接Mysql。这种数据库好处是方便，不需要远程连接，打包项目挪到其他电脑
  ## [网友报告QQ扫描并上传用户的浏览器历史](https://blog.csdn.net/m0_46163918/article/details/112764127)
  > 网友报告QQ扫描并上传用户的浏览器历史
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
@@ -69,49 +77,49 @@ categories: IT NEWS
  > 大揭秘：程序员工作也可以成为享受！
  ## [CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！](https://blog.csdn.net/qq_41185868/article/details/112497663)
  > CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！
- ## [匿名函数闭包模仿块级作用域，轻松解决开发中的两大难题](https://blog.csdn.net/l_ppp/article/details/107178795)
- > 匿名函数闭包模仿块级作用域，轻松解决开发中的两大难题
- ## [骑士CMSgetshell复现](https://blog.csdn.net/m0_48520508/article/details/111563165)
- > 骑士CMSgetshell复现
- ## [Undefined symbol: _OBJC_CLASS_$_xxx错误的解决方法](https://blog.csdn.net/boildoctor/article/details/110916532)
- > Undefined symbol: _OBJC_CLASS_$_xxx错误的解决方法
- ## [Vant-ui组件 Dialog里的before-close阻止关闭](https://blog.csdn.net/qq_45487080/article/details/110039284)
- > Vant-ui组件 Dialog里的before-close阻止关闭
+ ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
+ > 机器学习之KNN最邻近分类算法
+ ## [2020年了，前端还有的搞么？要怎么学？](https://blog.csdn.net/qq_35942348/article/details/106200510)
+ > 
+ ## [Photoshop 2021 新增功能](https://blog.csdn.net/qq_41176800/article/details/109554915)
+ > Photoshop 2021 新增功能
+ ## [不用学生邮箱，通过jetBrains全家桶学生认证](https://blog.csdn.net/qq_36547531/article/details/109541804)
+ > 不用学生邮箱，通过jetBrains全家桶学生认证
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [这些常见的PHP漏洞，如果你不知道，就别说自己是个攻城狮](https://blog.csdn.net/weixin_41635750/article/details/109822456)
- > 
- ## [ThinkPHP6项目基操目录](https://blog.csdn.net/zy1281539626/article/details/111110579)
- > ThinkPHP6项目基操目录
+ ## [微信分享、极简微信分享、thinkphp微信分享、laravel微信分享、3分钟完成微信分享](https://blog.csdn.net/jartins/article/details/110918226)
+ > 微信分享、极简微信分享、thinkphp微信分享、laravel微信分享、3分钟完成微信分享
+ ## [积木Sketch插件进阶开发指南](https://blog.csdn.net/MeituanTech/article/details/109523620)
+ > 积木Sketch插件进阶开发指南
 # 人工智能 
- ## [我的 2020 总结：Never Settle](https://blog.csdn.net/u011240877/article/details/111826237)
- > 我的 2020 总结：Never Settle
  ## [分布式存储引擎大厂实战（开篇）](https://blog.csdn.net/songguangfan/article/details/112406760)
  > 
  ## [梦回93年，32岁的Yann LeCun在展示他的卷积网络...](https://blog.csdn.net/BAAIBeijing/article/details/112551537)
  > 梦回93年，32岁的Yann LeCun在展示他的卷积网络...
  ## [极客日报第 51 期：Dropbox 宣布裁员11%；微信封杀 QQ 音乐、拼多多等 App 外链；Intel CEO 换帅；蠕虫病毒在国内肆虐；](https://blog.csdn.net/weixin_39786569/article/details/112601057)
  > 极客日报第 51 期：Dropbox 宣布裁员11%；微信封杀 QQ 音乐、拼多多等 App 外链；Intel CEO 换帅；蠕虫病毒在国内肆虐；
+ ## [13条编程习惯](https://blog.csdn.net/lantian_123/article/details/112682098)
+ > 13条编程习惯
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [【ArcGIS风暴】ArcGIS平台实现中国地表覆盖数据GlobeLand30预处理（批量投影、拼接、掩膜提取）](https://blog.csdn.net/lucky51222/article/details/112723313)
- > 【ArcGIS风暴】ArcGIS平台实现中国地表覆盖数据GlobeLand30预处理（批量投影、拼接、掩膜提取）
- ## [卷积神经网络训练CIFAR100](https://blog.csdn.net/qq_43466323/article/details/112748980)
- > 卷积神经网络训练CIFAR100
- ## [【python】在学习用于图和网络分析的python时遇到的问题和解决方法](https://blog.csdn.net/qq_45688243/article/details/112727350)
- > 【python】在学习用于图和网络分析的python时遇到的问题和解决方法
- ## [用opencv的dnn模块做yolov5目标检测](https://blog.csdn.net/nihate/article/details/112731327)
- > 用opencv的dnn模块做yolov5目标检测
+ ## [反思 | 事件总线的局限性,组件化开发流程中通信机制的设计与实现](https://blog.csdn.net/mq2553299/article/details/112724257)
+ > 
+ ## [一次HDFS JournalNode transaction lag问题分析排查](https://blog.csdn.net/Androidlushangderen/article/details/112744149)
+ > 一次HDFS JournalNode transaction lag问题分析排查
+ ## [终于回应！GitHub 承认解雇犹太员工的错误并道歉，HR 负责人辞职](https://blog.csdn.net/csdnnews/article/details/112781687)
+ > 终于回应！GitHub 承认解雇犹太员工的错误并道歉，HR 负责人辞职
+ ## [python自动化爬取淘宝商品数据导入execl表格](https://blog.csdn.net/xtreallydance/article/details/112692551)
+ > python自动化爬取淘宝商品数据导入execl表格
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [nn.Module源码介绍(二)--冻结参数篇](https://blog.csdn.net/wulele2/article/details/112757387)
- > nn.Module源码介绍(二)--冻结参数篇
- ## [限时删，2020 CSDN 博客之星排名泄露](https://blog.csdn.net/hihell/article/details/112727243)
- > 限时删，2020 CSDN 博客之星排名泄露
- ## [CSDN居然免费送会员？快来参与！](https://blog.csdn.net/csdnsearch/article/details/112590888)
- > CSDN居然免费送会员？快来参与！
- ## [CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！](https://blog.csdn.net/qq_41185868/article/details/112497663)
- > CSDN：2020年度CSDN博客之星评选竞赛——180号【一个处女座的程序猿】，感谢您，投上的宝贵一票，感谢！感恩！
+ ## [CSDN：2020 年度 CSDN 博客之星评选——28 号【沉默王二】，感谢你投上的宝贵一票，感谢！](https://blog.csdn.net/qing_gee/article/details/112730974)
+ > CSDN：2020 年度 CSDN 博客之星评选——28 号【沉默王二】，感谢你投上的宝贵一票，感谢！
+ ## [SpringAOP的基本概念及底层原理（图解版）](https://blog.csdn.net/weixin_43883917/article/details/112758168)
+ > SpringAOP的基本概念及底层原理（图解版）
+ ## [用opencv的dnn模块做yolov5目标检测](https://blog.csdn.net/nihate/article/details/112731327)
+ > 用opencv的dnn模块做yolov5目标检测
+ ## [可视化 ms_coco 人体关键点数据集（python）](https://blog.csdn.net/weixin_42899627/article/details/112794419)
+ > 可视化 ms_coco 人体关键点数据集（python）
  ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
  > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
