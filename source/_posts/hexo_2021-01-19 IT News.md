@@ -1,22 +1,24 @@
 ---
 title: 2021-01-19 IT News
 copyright: true
-date: 2021-01-19 08:11:46
+date: 2021-01-19 09:10:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [钉钉 6.0 开放底层“协同框架” 开发多人实时协作程序像编本地程序一样简单](http://mp.weixin.qq.com/s?src=11&timestamp=1611014405&ver=2837&signature=iyBVFvImYUSBzOIxw9hwGZGy9cq1wY5eI3SzBvf95kBa8sSHCgnigLVTLKU5Qt*507FmtFSxiBJVDFN8DiYytZjvv3d-wZWQRNA8VqJ03i0fXtGXqVoFgvqE2*Irbrjr&new=1)
- > 2021 年新年伊始，钉钉在 1 月 14 日发布了最新 6.0 版本，同时宣布战略定位全面升级，钉钉将从过去基于IM的协同办公平台，升级为企业协同办公和应用开发平台。从产品和市场表现，钉钉已经杀出了一条血路。IM 一...
- ## [e-works 2020大事记!](http://mp.weixin.qq.com/s?src=11&timestamp=1611014405&ver=2837&signature=hTkwhvi7B2YP38mcmgT9SeOzT8HDJcPiSQ-dqxMP4Ze0lxjZwe85A91qvYKcpDvYDkYCZu0WvV4JOvzQ6WwV3DYjew7fex7nuiXo0TCzEJhhnMTo8IjEfBz6VecAdvaN&new=1)
- > 跌宕起伏的2020年，e-works 作为总部在武汉的智能制造服务企业，也经历了前所未有的挑战。上半年，线下会议、培训、咨询、产业研究和国际交流等业务受到很大影响，几乎停滞。但是，在各级政府的大力支持和全体员...
- ## [\[喂你播\]抖音或成2021年春晚独家红包合作伙伴；腾讯QQ更新图标logo](http://mp.weixin.qq.com/s?src=11&timestamp=1611014405&ver=2837&signature=gFlzf9mMztFEjl0h9CS4qYJkRpK757nxftPB316A0AuIRoKpogga1ifytMV3ynXJ0mWys9Msmk90CMKGSyGbFaaO9AD1LdDeqMtE-Vy5hu24OQQm4x5G4RRJmNVkjUow&new=1)
- > BGM：Prologue-美波腾讯QQ更新图标logo据悉，手机QQ iOS 和安卓版迎来了 8.5.5 更新，腾讯QQ的经典图标Logo，做了更新，企鹅头上添加了黄色牛角。对此官方回应，这只是春节限定，还有一大波春节福利等着大家。再...
- ## [“金张掖”携手“懂行人”：看丝路驿镇的云端华丽转身](http://mp.weixin.qq.com/s?src=11&timestamp=1611014405&ver=2837&signature=EytXxKTFTEyNAkm4UpndKmkoEkZOeSfUSbqLrpdee7U*YXULxGTD7Ld5VvZOpoC0aGvXhXA5hrrAwCt9LWLDHgvywN1oiGKfshhnprG2X9b7MKyFpFu23sL7CnxMxn3V&new=1)
- > 甘肃省张掖市作为古“丝绸之路”上进入河西走廊的重要驿镇，素有“金张掖”的美誉，在数字经济飞速发展的今天，“金张掖”携手“懂行人”华为，以城市产业云的创新实践，上演了一场古丝绸之路“驿镇”的“云端”...
- ## [最后的疯狂?特朗普政府要求英特尔等企业停止对华为供货](http://mp.weixin.qq.com/s?src=11&timestamp=1611014405&ver=2837&signature=-yy4pdsCLijdvM6*byAzZg6qBlDF7x1jkqeAvFiXjp3EJ8reDLJ88oHnPRn6uIwrHLvhYicFPIM4MzE3mWKg5UTDzk5gVyoCNAkvOfjoXzoufw50Dt-WLXmr6vff0LU9&new=1)
+ ## [最后的疯狂?特朗普政府要求英特尔等企业停止对华为供货](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=-yy4pdsCLijdvM6*byAzZg6qBlDF7x1jkqeAvFiXjp3EJ8reDLJ88oHnPRn6uIwr503csUeDRe4WlLswQB2syjj*2phCxJzGrRgcQHrEPWU1BwWfp5RWVp3*D8j*QB0b&new=1)
  > 1月15日，环球网的报道显示，美国政府将9家中国企业列入所谓“与中国军方相关”的黑名单中，其中包括手机制造商小米及飞机制造商中国商飞。这使得相关领域的关注更多地落在了小米身上。随着时间的发展，现在来自...
+ ## [钉钉 6.0 开放底层“协同框架” 开发多人实时协作程序像编本地程序一样简单](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=iyBVFvImYUSBzOIxw9hwGZGy9cq1wY5eI3SzBvf95kBa8sSHCgnigLVTLKU5Qt*5KM*Rlhr4C*hSxx-F*WqG17um6fhX8Kn*zvRsd7N1GfJGFlc5nZisau9bHDCt9ATM&new=1)
+ > 2021 年新年伊始，钉钉在 1 月 14 日发布了最新 6.0 版本，同时宣布战略定位全面升级，钉钉将从过去基于IM的协同办公平台，升级为企业协同办公和应用开发平台。从产品和市场表现，钉钉已经杀出了一条血路。IM 一...
+ ## [“金张掖”携手“懂行人”：看丝路驿镇的云端华丽转身](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=EytXxKTFTEyNAkm4UpndKmkoEkZOeSfUSbqLrpdee7U*YXULxGTD7Ld5VvZOpoC0Iy18WYv5Lw1HAlXBfFF4ZdenGWKGtRpxnckv*wwQAKi6Ou4zr6A6ww3TGhuQB1IS&new=1)
+ > 甘肃省张掖市作为古“丝绸之路”上进入河西走廊的重要驿镇，素有“金张掖”的美誉，在数字经济飞速发展的今天，“金张掖”携手“懂行人”华为，以城市产业云的创新实践，上演了一场古丝绸之路“驿镇”的“云端”...
+ ## [e-works 2020大事记!](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=hTkwhvi7B2YP38mcmgT9SeOzT8HDJcPiSQ-dqxMP4Ze0lxjZwe85A91qvYKcpDvYqtBVdeTeqAZoM5*qKhIHLPXLiiqBmDWXX3Pa4MD-BClJT4aJftc1Kxzs1vULQTuh&new=1)
+ > 跌宕起伏的2020年，e-works 作为总部在武汉的智能制造服务企业，也经历了前所未有的挑战。上半年，线下会议、培训、咨询、产业研究和国际交流等业务受到很大影响，几乎停滞。但是，在各级政府的大力支持和全体员...
+ ## [\[喂你播\]抖音或成2021年春晚独家红包合作伙伴；腾讯QQ更新图标logo](http://mp.weixin.qq.com/s?src=11&timestamp=1611018005&ver=2837&signature=gFlzf9mMztFEjl0h9CS4qYJkRpK757nxftPB316A0AuIRoKpogga1ifytMV3ynXJ9qOFAntf9GP*BJ7ApbpIaKZ752ToakznKzFUcnyGLjTSvWMSNDGf50XOupsmNlkv&new=1)
+ > BGM：Prologue-美波腾讯QQ更新图标logo据悉，手机QQ iOS 和安卓版迎来了 8.5.5 更新，腾讯QQ的经典图标Logo，做了更新，企鹅头上添加了黄色牛角。对此官方回应，这只是春节限定，还有一大波春节福利等着大家。再...
 # IT 技术 
+ ## [什么是人工智能芯片？人们需要知道的一切](http://ai.51cto.com/art/202101/641575.htm)
+ > 什么是人工智能芯片？人们需要知道的一切
  ## [八大智能IOT设备带给残疾人福音](http://iot.51cto.com/art/202101/641574.htm)
  > 八大智能IOT设备带给残疾人福音
  ## [不懂Istio架构原理，我被同事Diss了](http://developer.51cto.com/art/202101/641511.htm)
@@ -29,30 +31,28 @@ categories: IT NEWS
  > 年薪百万的阿里P8，每天都在干些啥？
  ## [用鸿蒙开发AI应用（三）软件篇](http://developer.51cto.com/art/202101/641084.htm)
  > 用鸿蒙开发AI应用（三）软件篇
- ## [Linux用户宝典：如何在KVM上使用Virtualbox虚拟机？](http://os.51cto.com/art/202101/641159.htm)
- > Linux用户宝典：如何在KVM上使用Virtualbox虚拟机？
- ## [.NET软件开发――C语言基础视频课程](http://fellow.51cto.com/art/202012/638070.htm?qd=51ctojrzd)
- > .NET软件开发――C语言基础视频课程
+ ## [2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】](http://fellow.51cto.com/art/202007/622446.htm?qd=51ctojrzd)
+ > 2020网络工程师入门CCNA 0基础学网络免费版视频课程【新任帮主】
+ ## [继阿里之后，企鹅又露出窃听马脚！上网建议使用无痕浏览](http://mobile.51cto.com/news-641672.htm)
+ > 近日，有细心网友报告称，腾讯 QQ 以及 QQ 办公版 TIM 被发现会扫描用户的 Chrome 浏览器历史，搜索购物记
+ ## [Java反射进阶―聊聊反射的几个问题](http://developer.51cto.com/art/202101/641671.htm)
+ > 昨天有朋友反映好多反射知识没说到，所以今天算是补充篇，一起看看反射的进阶知识点。
+ ## [视频监控趋势解析：2021年业务价值将持续提升](http://netsecurity.51cto.com/art/202101/641670.htm)
+ > 日前，云视频安全厂商Eagle Eye Networks发布了2021年视频监控与安全性预测报告，指出2021年将
+ ## [2020年前三季度共有730起网络安全事件](http://netsecurity.51cto.com/art/202101/641669.htm)
+ > 据外媒，根据Tenable公司安全反应小组的一份报告，2020年1月到2020年10月间，全球共有730起公开漏洞披露事
+ ## [该来的还是要来 台湾可能于今年关闭3G](http://network.51cto.com/art/202101/641668.htm)
+ > 据台媒报道，此前中华电信向NCC申请于2024年关闭3G网络，但目前有消息指出，在三大运营商不反对“3G共用平
+ ## [远程办公导致网络犯罪激增400%，盘点2020年重点网络安全事件](http://netsecurity.51cto.com/art/202101/641667.htm)
+ > 2020年，疫情这次黑天鹅事件，对全球政治、经济、生活等方方面面都带来了深刻的影响，其带来的远程办公甚至
+ ## [聊聊Oracle同义词,你知道吗？](http://database.51cto.com/art/202101/641666.htm)
+ > Oracle的同义词(synonyms)从字面上理解就是别名的意思，和视图的功能有点类似，就是一种映射关系。
+ ## [在 Linux 中如何查看文件的修改日期](http://os.51cto.com/art/202101/641665.htm)
+ > 有时候可能需要检查有关文件的详细信息，例如文件的修改日期。当你要检查文件的最后编辑时间时，本文可能会
+ ## [18个 编写 JavaScript 好习惯，好家伙，收藏里面吃灰吧！](http://developer.51cto.com/art/202101/641663.htm)
+ > 在我多年的编程生涯中，我会优先考虑编写代码的方式，不仅是为了让代码更简洁，还因为它有助于提高编码效率
  ## [测试驱动技术（TDD）系列之2：详解TestNG参数化](http://developer.51cto.com/art/202101/641664.htm)
  > 本篇文章只重点讲解TestNG参数化相关知识，
- ## [2021年，民用无人机领域将呈现五大趋势](http://ai.51cto.com/art/202101/641662.htm)
- > 近年来，无人机产业发展不断加快，并逐渐从军用领域延伸到了民用领域。围绕民用无人机这个新兴市场，各国相
- ## [嵌入式笔试面试题目系列（三）](http://os.51cto.com/art/202101/641661.htm)
- > 本系列将按照类别对题目进行分类整理，重要的地方标上星星，这样有利于大家打下坚实的基础。
- ## [浅析经典排序算法之堆排序](http://developer.51cto.com/art/202101/641660.htm)
- > 堆通常是一个可以被看做一棵树(完全)的数组对象。
- ## [没搞清楚网络I/O模型？那怎么入门Netty](http://network.51cto.com/art/202101/641659.htm)
- > Netty是网络应用框架，所以从最本质的角度来看，是对网络I/O模型的封装使用。
- ## [前端也要懂编译：Babel 全景上手指南](http://developer.51cto.com/art/202101/641658.htm)
- > Babel 是一个用于 JavaScript 的通用多用途编译器，使用 Babel 可以使用(或创建)下一代 的JavaScript，以及
- ## [别再被忽悠了！想靠Python找工作，你在做梦！](http://bigdata.51cto.com/art/202101/641657.htm)
- > 我在数据分析行业中浸淫了十年之久，从接触数据分析开始就学习了很多编程语言，其中就包括现在大火的python
- ## [QQ偷偷读取浏览器记录是咋回事？官方已修正](http://mobile.51cto.com/anews-641656.htm)
- > 近日，有网友发现腾讯旗下的QQ等即时通讯软件，存在后台读取浏览器记录相应目录的现象。这到底是怎么回事?
- ## [动态规划：关于01背包问题，你该了解这些！](http://developer.51cto.com/art/202101/641654.htm)
- > 对于面试的话，其实掌握01背包，和完全背包，就够用了，最多可以再来一个多重背包。
- ## [算法: 如何优雅的使用Javascript递归画一棵结构树](http://developer.51cto.com/art/202101/641652.htm)
- > 简单的说，递归就是函数自己调用自己，它做为一种算法在程序设计语言中广泛应用。其核心思想是把一个大型复
  ## [网友报告QQ扫描并上传用户的浏览器历史](https://blog.csdn.net/m0_46163918/article/details/112764127)
  > 网友报告QQ扫描并上传用户的浏览器历史
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
