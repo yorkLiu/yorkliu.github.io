@@ -1,22 +1,24 @@
 ---
 title: 2021-01-20 IT News
 copyright: true
-date: 2021-01-20 08:23:20
+date: 2021-01-20 09:19:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [随意模拟健康码，一句免责声明就能逃避法律监管吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611100805&ver=2839&signature=tnxpEJ38nrtOd58m5EMLghcTBePgG-pxPi2c7xFSUIFILcBvuUzuNDhGkmgRDqR8*dWzl3-QlYSGmZKtM39cnyxW565P8mK3vBQoKzm8OjLtS*p4WZDL8kLVPe4XpxnH&new=1)
- > ◎ 科技日报记者 张晔可模拟多地健康码、复工码、通行码，能自定义地区、城市、姓名，随意设置绿码、黄码、红码……在国内疫情防控形势再次趋于严峻之时，一款“健康码演示”APP近日被网友曝光。图片来源:新华视...
- ## [通用Cruise再获20亿美元融资!微软参投](http://mp.weixin.qq.com/s?src=11&timestamp=1611100805&ver=2839&signature=4juF15F24xpSKy*T6sO7zuVdG3n7CohZJgdPrL4eVnVm8uZJ2Um4ZG9DqdFk5j3V3AASouv9ChBvlMd9vWiBMlTKLldcYh8Tutv2DIzzCXpApvE4nGzLNRxicii1eObj&new=1)
- > 全球主要科技巨头都已入局自动驾驶。作者 | 六毛编辑 | 晓寒车东西1月20日凌晨消息，就在刚刚，通用汽车及其自动驾驶子公司Cruise宣布，已经和微软（Microsoft）达成长期战略合作关系，以加速实现自动驾驶汽车商...
- ## [统信UOS操作系统称已支持全CPU平台](http://mp.weixin.qq.com/s?src=11&timestamp=1611100805&ver=2839&signature=4QaHBRpokkXtqvOlFp-Aq5m*3kzG4WvIicg0e3LDpWUljgAa5sp65SSmBAY3kPKGfZhjAH1d9aQQjNX9foDRLD26dvwU4W*O*qTn8UI1OprxWm9yjpMQ8IQ1YS5jIjku&new=1)
+ ## [统信UOS操作系统称已支持全CPU平台](http://mp.weixin.qq.com/s?src=11&timestamp=1611104405&ver=2839&signature=4QaHBRpokkXtqvOlFp-Aq5m*3kzG4WvIicg0e3LDpWUljgAa5sp65SSmBAY3kPKGYfKlM6jC7aG3ovPYQAlCo9AREFaFJuH1XKhsNy1pJ1DIoEmZ3TxQOBDbdjiaYtgP&new=1)
  > 近日，统信软件总经理刘闻欢表示统信UOS操作系统已支持全CPU平台。在金融、国防、交通、电力、电信等关键领域均已在市场中处于前列。不久前统信软件曾发布统信桌面操作系统V20个人版（1030），全面升级了性能与...
- ## [受5G带动，2020年通信业固定资产投资3730.7亿，同比增长9.9%](http://mp.weixin.qq.com/s?src=11&timestamp=1611100805&ver=2839&signature=uz7Cq-*czFKH*y8LHE0VbRzg*vA0EbdvmsMrOmye2rlB8yWpYITuC3BTvzsMLnnB5DL12t8rnZqqOoFqex1Kob-ehqBPreJbwSjZHFYLZZc=&new=1)
+ ## [通用Cruise再获20亿美元融资!微软参投](http://mp.weixin.qq.com/s?src=11&timestamp=1611104405&ver=2839&signature=4juF15F24xpSKy*T6sO7zuVdG3n7CohZJgdPrL4eVnVm8uZJ2Um4ZG9DqdFk5j3V8XCvSg05E5y-A65zlf8O6HZ4cVDy-5OxzcNrV9cKQ1pYDAU*h*DlB2sOZutiJZyU&new=1)
+ > 全球主要科技巨头都已入局自动驾驶。作者 | 六毛编辑 | 晓寒车东西1月20日凌晨消息，就在刚刚，通用汽车及其自动驾驶子公司Cruise宣布，已经和微软（Microsoft）达成长期战略合作关系，以加速实现自动驾驶汽车商...
+ ## [随意模拟健康码，一句免责声明就能逃避法律监管吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611104405&ver=2839&signature=tnxpEJ38nrtOd58m5EMLghcTBePgG-pxPi2c7xFSUIFILcBvuUzuNDhGkmgRDqR8KHyoFYqGYGY*UOH*rIAdcEoOxayTQpJxChCMWV5xNRJRqyUbgMAUTia6tcyU-z0F&new=1)
+ > ◎ 科技日报记者 张晔可模拟多地健康码、复工码、通行码，能自定义地区、城市、姓名，随意设置绿码、黄码、红码……在国内疫情防控形势再次趋于严峻之时，一款“健康码演示”APP近日被网友曝光。图片来源:新华视...
+ ## [受5G带动，2020年通信业固定资产投资3730.7亿，同比增长9.9%](http://mp.weixin.qq.com/s?src=11&timestamp=1611104405&ver=2839&signature=uz7Cq-*czFKH*y8LHE0VbRzg*vA0EbdvmsMrOmye2rnZyp0cOmzgzbYEvXgb21tRSfYSCYHcr3GPjvxg5TT51gW3f4ltrkyNZZ*NrO2Xrkg=&new=1)
  > 经济观察网 记者 沈怡然 实习记者 李紫萱 1月19日，在2020年央企经济运行情况新闻发布会上，国务院国有资产监督管理委员会秘书长、新闻发言人彭华岗表示，通信企业加快5G网络共建共享和商业应用转化，全年完成固...
 # IT 技术 
  ## [拜托！不要用“ ! = null " 做判空了](http://developer.51cto.com/art/202101/641860.htm)
  > 拜托！不要用“ ! = null &quot; 做判空了
+ ## [2021年值得关注的15种软件测试趋势](http://developer.51cto.com/art/202101/641788.htm)
+ > 2021年值得关注的15种软件测试趋势
  ## [“远程删除照片”？个人信息安全不容践踏](http://netsecurity.51cto.com/art/202101/641117.htm)
  > “远程删除照片”？个人信息安全不容践踏
  ## [什么是人工智能芯片？人们需要知道的一切](http://ai.51cto.com/art/202101/641575.htm)
@@ -27,10 +29,18 @@ categories: IT NEWS
  > 如何优雅地开发HarmonyOS APP应用
  ## [“人脸识别”和“指纹解锁”哪个更安全？不少人搞错了](http://ai.51cto.com/art/202101/641735.htm)
  > “人脸识别”和“指纹解锁”哪个更安全？不少人搞错了
- ## [八大智能IOT设备带给残疾人福音](http://iot.51cto.com/art/202101/641574.htm)
- > 八大智能IOT设备带给残疾人福音
- ## [Java基础与框架全套视频第一部](http://fellow.51cto.com/art/202012/635522.htm?qd=51ctojrzd)
- > Java基础与框架全套视频第一部
+ ## [Oracle数据库补丁管理及实战_Oracle视频教程_基础深入与核心技术07](http://fellow.51cto.com/art/202012/636947.htm?qd=51ctojrzd)
+ > Oracle数据库补丁管理及实战_Oracle视频教程_基础深入与核心技术07
+ ## [教你自定义 iOS 14 app 图标](http://mobile.51cto.com/hot-641872.htm)
+ > 自从 iOS 14 发布后，桌面小工具和快捷指令又带火了一把 DIY 桌面的热潮，今天就来教大家如何更改桌面图片
+ ## [技术增强: 如何更优雅地开发中间件？](http://developer.51cto.com/art/202101/641868.htm)
+ > 今天天气不错，我们来分享一个能让你技术获得增强的主题: 开发中间件。很多同学听到这个主题，可能会说我们
+ ## [开发进阶：Dotnet Core多路径异步终止](http://developer.51cto.com/art/202101/641866.htm)
+ > 今天用一个简单例子说说异步的多路径终止。我尽可能写得容易理解吧，但今天的内容需要有一定的编程能力。
+ ## [聊聊怎样使用Oracle分区表](http://database.51cto.com/art/202101/641865.htm)
+ > 单表的数据量如果太大，会影响到读写性能。我们可以使用分库分表来解决单表的性能问题。Oracle的分区表是将
+ ## [TechFlow的前端笔记之从Hello World开始](http://developer.51cto.com/art/202101/641864.htm)
+ > 我个人学习的网站是freecodecamp这个网站，它当中有非常非常多的免费前端在线练习。我个人觉得非常非常适合
  ## [上海推动农业高质量发展：提升科技装备、打造无人农场](http://ai.51cto.com/art/202101/641863.htm)
  > 农业发展，关乎着人们的生存和社会的稳定。近年来，伴随着农业需求的不断释放，农业人力的持续减少以及农业
  ## [Exceptionless服务端如何本地化部署](http://developer.51cto.com/art/202101/641862.htm)
@@ -41,16 +51,6 @@ categories: IT NEWS
  > 自己最近负责的几个接口，都涉及到了幂等性的操作，抽空总结了一下，这也是面试官比较爱问的问题。
  ## [微软 Edge 浏览器 Dev 89.0.767.0 更新发布：改进自动填充功能，自动检测可复制字段](http://os.51cto.com/art/202101/641858.htm)
  > 微软向 Edge 浏览器 Dev 通道的用户推送了 89.0.767.0 版本更新，此次更新有一些新功能，比如在文本字段中
- ## [支付宝推疫情直通车：可一键办理15类疫情服务](http://mobile.51cto.com/app-show-641856.htm)
- > 为了让用户更安心过年，继去年支付宝上线“疫情直通车”专项服务，近日，支付宝和阿里健康联合又重启了“疫
- ## [让人爱不释手的 JS 扩展操作符13种写法](http://developer.51cto.com/art/202101/641855.htm)
- > 扩展操作符给我最大的印象就是，这玩意还挺方便的，然而最近写代码的时候经常性的遇到需要使用扩展操作符的
- ## [详解堆排序解决TopK问题](http://developer.51cto.com/art/202101/641854.htm)
- > 上次介绍了堆排序，这次介绍堆排序常见的应用场景TopK问题。
- ## [八张图，看懂数据分析如何驱动决策](http://bigdata.51cto.com/art/202101/641852.htm)
- > 数据驱动决策，是大家天天挂在嘴边的时髦词汇。可到底数据是如何驱动的?很少有同学真正看到过全流程。更有
- ## [这就是全新的Windows！来看Windows10X抢先上手体验](http://os.51cto.com/art/202101/641853.htm)
- > 我们知道Windows 10X是微软全新打造的Windows系统，尽管它已经跳票到了2021年，但关于Windows10X的开发工作
  ## [WIN 10 又出诡异Bug，访问特定本地设备导致系统崩溃](https://blog.csdn.net/m0_46163918/article/details/112831304)
  > WIN 10 又出诡异Bug，访问特定本地设备导致系统崩溃
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
