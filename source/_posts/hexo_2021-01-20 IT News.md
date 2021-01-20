@@ -1,60 +1,68 @@
 ---
 title: 2021-01-20 IT News
 copyright: true
-date: 2021-01-20 10:16:50
+date: 2021-01-20 12:13:35
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [官宣!Lumentum出资57亿美元收购Coherent](http://mp.weixin.qq.com/s?src=11&timestamp=1611108005&ver=2839&signature=tVTB4lkDXESsaXbIjuteCf3zKV8rpRLaS1TAtSDpE1yWy5SLfI2C4-UTS8FI9dYhSTG3moXq3f4nTREsITagnjTdTuRBCY-UFQ9o*dZu-bC*9jvlfF1PlJjkMHfLD-MA&new=1)
+ ## [官宣!Lumentum出资57亿美元收购Coherent](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=tVTB4lkDXESsaXbIjuteCf3zKV8rpRLaS1TAtSDpE1zz3upkBoryQtKAgC5ZPcG3nNjDJpxP8kRtwelskv6yhUlXsFP*B4Sv3zF4526*RtvKbJyx2zSyOMuJ7Yfc0o*o&new=1)
  > 新闻导读最新官方消息，Lumentum将以57亿美元收购Coherent，双方合并将成为独一无二的全球光子学技术创新和多元产品市场的领导者，加速光子学的未来发展。除了电信、数据通信和3D Sensing光学市场，Lumentum将加...
- ## [通用Cruise再获20亿美元融资!微软参投](http://mp.weixin.qq.com/s?src=11&timestamp=1611108005&ver=2839&signature=4juF15F24xpSKy*T6sO7zuVdG3n7CohZJgdPrL4eVnVm8uZJ2Um4ZG9DqdFk5j3Vb6Xayu58etqGdXB78yACuQZcK2dZiPC2prFX8mmiT*5gZNFURHjgI*vIhBi2XkOp&new=1)
+ ## [文末好礼|美国国家安全局提供使用加密DNS的指导](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=O8OB6woBRRvGzexfI-2aDGZrdRUXKQylUCGdON*aTUWZJXHYNuY0s72irVfW1MXwuTd3*Dw7*P*osk*Vp-v0*BP23-1FGLD3bt8XaazykS-pqs7w*llxhmSWNYKUTLVr&new=1)
+ > E安全1月20日讯 近日，美国国家安全局发布了一份指南，指导各组织如何采用加密域名系统协议，以防止DNS通信被窃听和操纵。虽然该机构的报告针对的是军事和国防承包商，但它的建议可以被所有部门采纳。一、技术细...
+ ## [透明3D打印玻璃：光固化硅树脂(二氧化硅纳米颗粒)技术](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=vsMJGSDH0oFpKnctMqIIJZURPr-ph57h*V5JsCSFVYw7tt88q4Sj6FM1nP4twoTrX41CKh9j0*vDnOmLy4VbC9XcUQ4Isb9E0brl5sJCeLmT8xoPRaqXPMoNE8b*2R1f&new=1)
+ > 南极熊导读：光固化聚合硅树脂，实现透明3D打印玻璃。3D打印玻璃非常困难，主要是因为很难在高熔点下保持材料的机械性能。但是，来自法国的三位研究人员在光学学会（OSA）的《光学快报》上发表了一篇研究论文，...
+ ## [垄断破局者宝兰德：基础软件风起时 走上加速扩张之路|全景云调研](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=UjDv9pWqzZ6WFbAg5Hwy5KLbo2n9wCw0RerW5hDvotBZfSPhAlBvh8WTO*rZdS79aPHhAOIZHfPKj7g7a1AFdBagQu6ElJpMlxY9ptkmPoAENLPhJFfD2aiJWr2bqsb1&new=1)
+ > 自主可控前行路途中，打破基础软件垄断是势在必行的。基础软件，包括操作系统、数据库管理系统、中间件和办公套件等，在信息系统中起着基础性、平台性的作用，有极为广泛的应用，对信息安全也有决定性的意义。目...
+ ## [通用Cruise再获20亿美元融资!微软参投](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=4juF15F24xpSKy*T6sO7zuVdG3n7CohZJgdPrL4eVnUhld66uvlYu9KQGu1cGBGuqcJAevm06GzpFAVD76p1S8zhMSo0GnthebDYvv6ShC97g76SDNzFqxL3qPGglN3H&new=1)
  > 全球主要科技巨头都已入局自动驾驶。作者 | 六毛编辑 | 晓寒车东西1月20日凌晨消息，就在刚刚，通用汽车及其自动驾驶子公司Cruise宣布，已经和微软（Microsoft）达成长期战略合作关系，以加速实现自动驾驶汽车商...
- ## [\[报告\]吉利汽车市场竞争力分析2021版(附42页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611108005&ver=2839&signature=9OVGIeK-n4LiUhs-*o5ExlLOZUtdN5vvtPK0APjDW0ZAxWlJOgwymPbV99NqoUDPtic2N1ka1vucrKe5ThQp2R4PoyDL*t7GiGSKCtqpvaXgXHy4LowlmrGwQVpo-N5t&new=1)
+ ## [汉王科技董事长刘迎建：“从0到1”做中国科技创新“领头羊”](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=I-X1kqp8FO9qmttjAAgyai1gMW1Y8-BE3q1QmVdDVHUjFXH-CQjNap9VMrNJIrT7TkRB61LsSwNiV-biswwZSZzo8Jt9fySET8CzPEl4tGo=&new=1)
+ > 本报记者 谢岚    “汉王赶上了人工智能时代，这对我们真的特别有利。”1月15日，位于中关村软件园腹地的汉王大厦，在接受《证券日报》记者专访时，汉王科技董事长刘迎建语调难掩兴奋之情。    ...
+ ## [\[报告\]吉利汽车市场竞争力分析2021版(附42页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=9OVGIeK-n4LiUhs-*o5ExlLOZUtdN5vvtPK0APjDW0acXWfU4uVFcZ6-arHZWFmFOsaYrN32ftFIo1Jx7TUe7US-T6Jnnu5egqdjH70WF1B45AMuEKJHy-h7nFiwSHwt&new=1)
  > 2018年初吉利汽车董事长李书福率先提出角逐存量车市的战略主张，但截至2020年底，吉利汽车并未抢得先机，倒反陷入销量持续下滑的被动局面。为什么吉利汽车角逐存量车市事与愿违？为什么主打新能源的“蓝色吉利”...
- ## [统信UOS操作系统称已支持全CPU平台](http://mp.weixin.qq.com/s?src=11&timestamp=1611108005&ver=2839&signature=4QaHBRpokkXtqvOlFp-Aq5m*3kzG4WvIicg0e3LDpWUljgAa5sp65SSmBAY3kPKGml-o9jxvnanmimHw*OQ8d7NgzE4UtsVva5OiSnPh39cbUbFF3YnWt*UomoWHEW8e&new=1)
+ ## [统信UOS操作系统称已支持全CPU平台](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=4QaHBRpokkXtqvOlFp-Aq5m*3kzG4WvIicg0e3LDpWUZEkanS3IgUyMY5lbjyzEtLtcJikmqarbC32BAlGkE*RaFixsN7m-X0wp2zUMs1IPXswy3TRdxAFXdSPU*1eMS&new=1)
  > 近日，统信软件总经理刘闻欢表示统信UOS操作系统已支持全CPU平台。在金融、国防、交通、电力、电信等关键领域均已在市场中处于前列。不久前统信软件曾发布统信桌面操作系统V20个人版（1030），全面升级了性能与...
- ## [随意模拟健康码，一句免责声明就能逃避法律监管吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611108005&ver=2839&signature=tnxpEJ38nrtOd58m5EMLghcTBePgG-pxPi2c7xFSUIFILcBvuUzuNDhGkmgRDqR8pAC6*i-NJIg*2sb1wVzl71XoOUjAsCt9cWOqW9W7Ovg9vTgP*ct4yN8xLkfpdDk6&new=1)
+ ## [随意模拟健康码，一句免责声明就能逃避法律监管吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=tnxpEJ38nrtOd58m5EMLghcTBePgG-pxPi2c7xFSUIFK7lO19MSsAuvUCcuC0wxKQYJJWWHzzQaKvYG7ai3M0sNL6CyDuh-lhgS4QIgTDrChpp4n4IaBKACLiS425nEK&new=1)
  > ◎ 科技日报记者 张晔可模拟多地健康码、复工码、通行码，能自定义地区、城市、姓名，随意设置绿码、黄码、红码……在国内疫情防控形势再次趋于严峻之时，一款“健康码演示”APP近日被网友曝光。图片来源:新华视...
- ## [受5G带动，2020年通信业固定资产投资3730.7亿，同比增长9.9%](http://mp.weixin.qq.com/s?src=11&timestamp=1611108005&ver=2839&signature=uz7Cq-*czFKH*y8LHE0VbRzg*vA0EbdvmsMrOmye2rkmJ6eVqYqMSrXgOYfGFcNQZAE2cvwXVRxwV4gh6zx-d5mdYymdF8evfL6cjRR-hnc=&new=1)
+ ## [受5G带动，2020年通信业固定资产投资3730.7亿，同比增长9.9%](http://mp.weixin.qq.com/s?src=11&timestamp=1611115204&ver=2839&signature=uz7Cq-*czFKH*y8LHE0VbRzg*vA0EbdvmsMrOmye2rk53wxodILRcTOu6tl0PAg55xkGGELy3PS*bM49Ns7PDpRxSr6yK5t5J6VW9aPYTjc=&new=1)
  > 经济观察网 记者 沈怡然 实习记者 李紫萱 1月19日，在2020年央企经济运行情况新闻发布会上，国务院国有资产监督管理委员会秘书长、新闻发言人彭华岗表示，通信企业加快5G网络共建共享和商业应用转化，全年完成固...
 # IT 技术 
  ## [2021年值得关注的15种软件测试趋势](http://developer.51cto.com/art/202101/641788.htm)
  > 2021年值得关注的15种软件测试趋势
  ## [如何利用统计软件Stata进行回归分析](http://bigdata.51cto.com/art/202101/641787.htm)
  > 如何利用统计软件Stata进行回归分析
+ ## [最新研究发现超级人工智能，从理论上就无法控制](http://news.51cto.com/art/202101/641758.htm)
+ > 最新研究发现超级人工智能，从理论上就无法控制
  ## [Windows 10X：微软新款操作系统先睹为快](http://news.51cto.com/art/202101/641884.htm)
  > Windows 10X：微软新款操作系统先睹为快
  ## [拜托！不要用“ ! = null " 做判空了](http://developer.51cto.com/art/202101/641860.htm)
  > 拜托！不要用“ ! = null &quot; 做判空了
  ## [用鸿蒙开发AI应用（四）Helloworld](http://developer.51cto.com/art/202101/641734.htm)
  > 用鸿蒙开发AI应用（四）Helloworld
- ## [什么是人工智能芯片？人们需要知道的一切](http://ai.51cto.com/art/202101/641575.htm)
- > 什么是人工智能芯片？人们需要知道的一切
- ## [Zookeeper面试常见的11个连环炮](http://developer.51cto.com/art/202101/641676.htm)
- > Zookeeper面试常见的11个连环炮
- ## [CSS+DIV网站布局实战视频课程-张双老师](http://fellow.51cto.com/art/202101/641166.htm?qd=51ctojrzd)
- > CSS+DIV网站布局实战视频课程-张双老师
- ## [鸿蒙HarmonyOS三方件开发指南（4）-Logger组件](http://developer.51cto.com/art/202101/641736.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [2021年具有影响力的物联网设备发展趋势](http://iot.51cto.com/art/202101/641881.htm)
- > 近年来，物联网(IoT)一直是科技行业蓬勃发展的行业。随着人们现在在家里花费的时间比以往任何时候都要多，
- ## [数据中心建设提速 2021年呈四大发展趋势](http://network.51cto.com/art/202101/641879.htm)
- > 数据中心的建设，2021年仍然是高速的。2020年，数据中心成为新基建的“核心成员”。
- ## [QQ读取浏览器历史记录 这个锅就不要再甩了](http://netsecurity.51cto.com/art/202101/641877.htm)
- > 1月17日，某论坛流出消息：“QQ会读取网页浏览器的历史记录”。随后，该内容被链接到知乎上提问，引发广泛
- ## [大数据杀熟消费者维权难 算法应用不公该如何规制](http://news.51cto.com/art/202101/641875.htm)
- > 大数据“杀熟”，也只是冰山一角。近几年，网络游戏抽奖概率不明、网络消费促销规则繁复、网络搜索竞价排名
- ## [微信转身，比大象还难](http://mobile.51cto.com/news-641874.htm)
- > “微信之父”张小龙再次站上了微信之夜的舞台，这一次，他比原定时间“迟到”了23分钟。在接下来长达近两小
- ## [Windows服务器之“FTP服务搭建”图文教程](http://server.51cto.com/sOS-641873.htm)
- > Windows Server 2016服务器之FTP文件服务器安装教程,在VMware虚拟机中开启Windows Server 2016服务器，点击
- ## [教你自定义 iOS 14 app 图标](http://mobile.51cto.com/hot-641872.htm)
- > 自从 iOS 14 发布后，桌面小工具和快捷指令又带火了一把 DIY 桌面的热潮，今天就来教大家如何更改桌面图片
- ## [为什么要有 AtomicReference ？](http://developer.51cto.com/art/202101/641870.htm)
- > 我们之前了解过了 AtomicInteger、AtomicLong、AtomicBoolean 等原子性工具类，下面我们继续了解一下位于 j
- ## [20张图带你到HBase的世界遨游](http://bigdata.51cto.com/art/202101/641869.htm)
- > HBase 是一款面向列存储，用于存储处理海量数据的 NoSQL 数据库。它的理论原型是Google 的 BigTable 论文。
+ ## [阿里面试官：接口的幂等性怎么设计？](http://os.51cto.com/art/202101/641859.htm)
+ > 阿里面试官：接口的幂等性怎么设计？
+ ## [JavaScript开发基础与提升视频课程](http://fellow.51cto.com/art/202101/640715.htm?qd=51ctojrzd)
+ > JavaScript开发基础与提升视频课程
+ ## [物联网传感器在建筑空间占用监控中的应用](http://iot.51cto.com/art/202101/641916.htm)
+ > 随着智能建筑技术的出现，设施管理人员可以使用功能强大的工具来帮助他们访问有关空间占用的准确信息，而不
+ ## [如何量身打造恶意软件分析环境（上篇）](http://netsecurity.51cto.com/art/202101/641915.htm)
+ > 对于每个恶意软件研究人员来说，通常第一件事情就是搭建得心应手的恶意软件分析环境。当所有的系统配置和软
+ ## [法国航空航天公司在遭受勒索软件攻击后披露了一起信息泄露事件](http://netsecurity.51cto.com/art/202101/641914.htm)
+ > Dassault Falcon Jet披露了一起信息泄露事件，该信息泄露事件可能导致现当前和前任雇员以及其配偶和家属的
+ ## [如何释放闲置电源以提高数据中心弹性](http://network.51cto.com/art/202101/641912.htm)
+ > 如今，数据已呈爆炸式增长。根据调研机构IDC公司的预测，到2025年，平均每个人每天将进行近5,000次数字交互
+ ## [物联网和数字工作场所的未来](http://iot.51cto.com/art/202101/641909.htm)
+ > 智能家居和智能建筑是近年来最受欢迎的话题之一，但是关于智能企业的话题也很多。物联网（IoT）和工业物联
+ ## [2021年需要关注的4个自动化问题](http://ai.51cto.com/art/202101/641907.htm)
+ > 研究表明，组织在冠状病毒疫情蔓延期间确立的业务准则并不会随着疫情的结束而消亡。自动化行业加快发展，因
+ ## [IDC：预计2024年中国物联网市场支出将达3000亿美元](http://iot.51cto.com/art/202101/641906.htm)
+ > IDC近日发布了《2020年V2全球物联网支出指南》，从技术、行业、应用场景等维度对2020年下半年全球物联网市
+ ## [云计算市场在2020年取得突破性增长](http://cloud.51cto.com/art/202101/641904.htm)
+ > 2020年对于云计算行业来说是突破性的一年，因为公共云供应商增加了收入，而疫情加快了数字化转型的步伐。
+ ## [人工智能和物联网等技术可以在缓解气候变化风险方面发挥巨大作用](http://ai.51cto.com/art/202101/641902.htm)
+ > 人工智能旨在提高现有技术和组织活动的效率。但是由于气候变化，人们担心进入绿色环保和可持续发展的数字时
+ ## [多云数据存储的优秀实践](http://cloud.51cto.com/art/202101/641901.htm)
+ > 在复杂的多云部署中，数据存储的优秀实践是什么?哪种数据存储基础设施更能满足多云的需求?
  ## [WIN 10 又出诡异Bug，访问特定本地设备导致系统崩溃](https://blog.csdn.net/m0_46163918/article/details/112831304)
  > WIN 10 又出诡异Bug，访问特定本地设备导致系统崩溃
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
@@ -121,7 +129,5 @@ categories: IT NEWS
  > 埋点数据是大部分需要分析数据的诞生方式，其中前端埋点更是不能忽视的。
  ## [当零售遇上CDP，让私域流量、直播带货玩法升级](http://www.chanpin100.com/article/113394)
  > 详解 CDP 的零售行业应用场景
- ## [B端企业营销ROI困局？论精准营销商业模式的破局之道！](http://www.chanpin100.com/article/113407)
- > B端企业获客难？本文提供获客的最短路径！
 
     
