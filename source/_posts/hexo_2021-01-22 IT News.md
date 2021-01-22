@@ -1,26 +1,28 @@
 ---
 title: 2021-01-22 IT News
 copyright: true
-date: 2021-01-22 10:22:59
+date: 2021-01-22 11:15:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [7点见|微信8.0版本更新；蚂蚁集团估值暴跌至1080亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=l7*RGz2*8Wk-GCnZO3nGy2id87scg5-6KfZevsVE8ou5S34n4r32K5c0twpTJVMLzeFoEqqQuQ5Ag0JQM*B4TtNvVelbdG*mwxD9pmixShWZSUvriTZjXnK9o5Ns7UuN&new=1)
- > 各位小伙伴早上好呀！ 以下是今天的早报！微信8.0大更新：新增状态栏，优化浮窗样式等1月21日消息，据微信透露，微信8.0新版本优化了浮窗样式，新增支持历史浏览内容、支持聊天和朋友圈图片文字提取等能力。据悉...
- ## [官宣|2020年度讯石英雄榜发布三大奖项榜单](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=0a1Owy6ohQptk*edQEU9LmXUvs0spj-MjxDH2QzNoBUti8DRmE-i61tQxmhrmPwrRS2mV-o0QK4OuPG6fhsyUzTVfP5Uv1wR8NIFl2sGAO2Fqj3PSsr6KVDTNGZlTdkT&new=1)
+ ## [官宣|2020年度讯石英雄榜发布三大奖项榜单](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=0a1Owy6ohQptk*edQEU9LmXUvs0spj-MjxDH2QzNoBUti8DRmE-i61tQxmhrmPwrhRTE1G3l*63LiQkGcIeezxnBOJUwqq4gJ6cGyRbrmu8wGnp9DhNyup63MP-xo5kL&new=1)
  > 新闻导读讯石2020年度总结暨第七届英雄榜颁奖直播会议圆满举行，运营商、设备商光通信专家和讯石咨询高级分析师分享了5G、数据中心光网络和光通信市场发展情况。讯石咨询正式颁布第七届讯石英雄榜获奖结果，评定...
- ## [由于市场份额越来越小，LG最终可能会退出智能手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=VZUUIL9YKzexWflp5xWosGhsvNn5IofyGcAGXVLIB8OZsVB8mSvi7Wet-tFf-t-tAJesp*3QLToH7pVUDVX04G30InNTrGxIfWJk5cZXBxz3OrerFgYiVxhlnSmu9Ors&new=1)
- > LG在2021年国际消费电子展上推出了一款可卷曲的智能手机，这明显表明该公司在智能手机业务上的创新还没有枯竭。在今年年初，LG还驳斥了关于退出智能手机业务的传言，称这些假设“完全错误，毫无根据”。然而，戏...
- ## [\[报告\]2021中国商用车后市场白皮书(附18页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=3KJ2WT-jVPjhxhI6kCngRN9FOcMoOUBZkrpfhKxs5QoKI01pD6Cl*W5nj8QdZqFSi88d4EkuZnLxA0CuDfaPXvld5b5g9MDlZ5YaTBak5zFIKxk580snttYF-JN7aQmx&new=1)
+ ## [7点见|微信8.0版本更新；蚂蚁集团估值暴跌至1080亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=l7*RGz2*8Wk-GCnZO3nGy2id87scg5-6KfZevsVE8ou5S34n4r32K5c0twpTJVMLDhl5y1TLglBXAvEiR-uzr5v3mY7Exz-ZY3hgn1ZDmbp9MiUnZY5133gzcNH-weEs&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！微信8.0大更新：新增状态栏，优化浮窗样式等1月21日消息，据微信透露，微信8.0新版本优化了浮窗样式，新增支持历史浏览内容、支持聊天和朋友圈图片文字提取等能力。据悉...
+ ## [厉害了：中国高温3D打印机，集成进入荷兰海军护卫舰移动维修中心](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=rpvEVMZiXrCesnbEJQScGBhXdUkfC6rUjXFabTG-7qzddW4UZRk5rUo2tchxYHiEpqPcdE0Yy9p4*j0a2ruC1zKgy-nm1QjoaVeJPBZFjVSnikzfTaqjJw-1-luEjb7H&new=1)
+ > 南极熊导读：3D打印在军事上的应用越来越多，大到战斗机、火箭导弹的重要金属部件，小到门把手一类的塑料小零件，各种应用层出不穷。3D打印越来越成为荷兰皇家海军（Dutch Navy，以下简称荷兰海军）的关键技术，...
+ ## [\[报告\]2021中国商用车后市场白皮书(附18页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=3KJ2WT-jVPjhxhI6kCngRN9FOcMoOUBZkrpfhKxs5QoKI01pD6Cl*W5nj8QdZqFSPgUgncLd8hOAA9-4Et1DocYPKEPX*9-xu3Y4hfhYt3gosHSYqPvktjoA5G9RwM7E&new=1)
  > 近日，罗兰贝格发布《中国商用车后市场白皮书》，本次报告共分为是三个部分，分别介绍车辆配套服务如何创新升级，拓展业务纵深；如何围绕物流、司机运营增值，立体化服务以及后市场业务如何创新，分享五大新要求...
- ## [新年大动作展现标杆风采，浙江5G持续领跑全球靠什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=R2zcQHL1Jyn3iUHZUr6LkMIkGbjTgrh3zekfcSjjpRdD43Snf87-QW5OrKMmV7NCbOI4MZU*Zgqr8o*kfeVxer8w6SreN*iREA1GrTaqXlP0wljpUPidjK1eUyEIU55m&new=1)
+ ## [由于市场份额越来越小，LG最终可能会退出智能手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=VZUUIL9YKzexWflp5xWosGhsvNn5IofyGcAGXVLIB8OZsVB8mSvi7Wet-tFf-t-tjpQvxM4YVS0j9nLXyulkUCiN8ia-U7Vs11BKSoedC4e4k**YYBIYT7BhR870gI4p&new=1)
+ > LG在2021年国际消费电子展上推出了一款可卷曲的智能手机，这明显表明该公司在智能手机业务上的创新还没有枯竭。在今年年初，LG还驳斥了关于退出智能手机业务的传言，称这些假设“完全错误，毫无根据”。然而，戏...
+ ## [新年大动作展现标杆风采，浙江5G持续领跑全球靠什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=R2zcQHL1Jyn3iUHZUr6LkMIkGbjTgrh3zekfcSjjpRdD43Snf87-QW5OrKMmV7NCGsyQ1jELDODhTuppdiqlUPo5SJYoyj*v1eIn2CfEqvKhbCMm69DidlqG8jwc-rjH&new=1)
  > 2020年初，我国提出新基建工程，但在政企落地场景，还不够丰富和成熟。所以2021年，各地新基建将从信息基础设施部署，走向应用场景打造。我们看到，全国各省、各城市都在琢磨，2021年如何成功发展5G，推动本省智...
- ## [乐心医疗调整业务线 去年净利润同比预增110%-140%](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=BYIL5NJ5jqVR6Rj9IiiuxiGWSZzcgfldIGFNO9PNN4Wdj2Lg8obJzis5v7KpqNxY3z8LZNwCbKj4KVHlfH8urnZHXWhIm47*Z0o42qCy62M=&new=1)
+ ## [乐心医疗调整业务线 去年净利润同比预增110%-140%](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=BYIL5NJ5jqVR6Rj9IiiuxiGWSZzcgfldIGFNO9PNN4U-Pu9bmGhTulp7APYgiGx4-sTEx9ApDdM5y8UYkRoCf6ayG4rEPss*BE78LvFy520=&new=1)
  > 经济观察网 记者 黄一帆 1月20日晚，乐心医疗（300562.SZ）发布业绩预告，交出去年业绩预答卷。从公告看来，此前乐心医疗积极开展的大客户战略有所收效，全年报告所预计的业绩增速延续了此前三季报的增长增速。...
- ## [估值不低于300亿，比亚迪半导体分拆上市已近!](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=iXte5MQsbczPlXQ*xQVtkq0erKCv72GyeiZyX84x5gN0BhAIZmwKqYZgLhwD4NTCRMJh7qGX8tGFzvJaTdtQKh71nZGSCVwK0136nedTuhVgWURVJqvn9pzQJ1cEBuor&new=1)
+ ## [估值不低于300亿，比亚迪半导体分拆上市已近!](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=iXte5MQsbczPlXQ*xQVtkq0erKCv72GyeiZyX84x5gN0BhAIZmwKqYZgLhwD4NTCWihdXr-lZXVw0TDcm69ZlJYBvm5epH6aTC4LP1rSJkDsh80zxhQ2EW*ooYosytCf&new=1)
  > 比亚迪半导体分拆上市的事又曝新进展。1月20日，深圳证监局官网信息显示，比亚迪半导体股份有限公司（以下简称「比亚迪半导体」）拟首次公开发行股票并在境内证券交易所上市。目前，比亚迪半导体已接受中金公司...
- ## [并购潮、缺芯、自研，2021芯片行业往何处去?](http://mp.weixin.qq.com/s?src=11&timestamp=1611280805&ver=2843&signature=YgT0uA2uBqet7yxZ0GQa9mKr7vb9S5uCINsDMXLAQSHa5yPvcF5Ylel1hzxXQS6fcZ3glKLXuavtxg5Vl-nHfV1yy0*5kMIp3xMIwjXRz46e8O13QPctew9rai56jgFS&new=1)
+ ## [并购潮、缺芯、自研，2021芯片行业往何处去?](http://mp.weixin.qq.com/s?src=11&timestamp=1611284405&ver=2843&signature=YgT0uA2uBqet7yxZ0GQa9mKr7vb9S5uCINsDMXLAQSHa5yPvcF5Ylel1hzxXQS6flUCLr0xdxKP5iV5XIm5E9lHw9eFfcfrxSwYb50TEZ8bAL-4U-dwYrBqrCYbLJC3k&new=1)
  > 导读：芯片是一个需要长期投入人力、物力、财力等资源，才能发展起来的产业，未来芯片领域将伴随长期的市场泡沫和洗牌，最终留下来的企业才可能突破限制，带领国内芯片向前走。 作者：布谷｜文章来源：连线Insig...
 # IT 技术 
  ## [值得应用开发者关注的八大增强现实工具包](http://mobile.51cto.com/ahot-642222.htm)
@@ -31,34 +33,34 @@ categories: IT NEWS
  > 揭开2021年云计算十大误区的神秘面纱
  ## [基于MDT的3D-MIMO天线权值优化方法研究与应用](http://zhuanlan.51cto.com/art/202101/642313.htm)
  > 基于MDT的3D-MIMO天线权值优化方法研究与应用
+ ## [如何利用ONLYOFFICE将在线文档编辑器集成到Python Web应用程序中？](http://developer.51cto.com/art/202101/642181.htm)
+ > 如何利用ONLYOFFICE将在线文档编辑器集成到Python Web应用程序中？
  ## [用鸿蒙开发AI应用（五）HDF 驱动补光灯](http://developer.51cto.com/art/202101/642143.htm)
  > 用鸿蒙开发AI应用（五）HDF 驱动补光灯
  ## [婴儿的出生为你解惑构造函数和构造代码块](http://developer.51cto.com/art/202101/642303.htm)
  > 婴儿的出生为你解惑构造函数和构造代码块
- ## [如何构建有效的边缘物联网架构](http://iot.51cto.com/art/202101/641992.htm)
- > 如何构建有效的边缘物联网架构
- ## [IT小技巧：U盘装系统、密码破解、远程控制与数据恢复视频课程](http://fellow.51cto.com/art/202101/640479.htm?qd=51ctojrzd)
- > IT小技巧：U盘装系统、密码破解、远程控制与数据恢复视频课程
- ## [第四范式完成D轮7亿美元融资](http://news.51cto.com/art/202101/642322.htm)
- > 近日，第四范式宣布完成D轮融资，融资金额7亿美元。本轮融资后，第四范式计划将资金用于进一步加速重点产业
- ## [鸿蒙内核源码分析(双向链表篇) | 最重要结构体](http://developer.51cto.com/art/202101/642145.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [人民日报：套路多损害消费者利益维权难 大数据“杀熟”必须重罚](http://bigdata.51cto.com/art/202101/642315.htm)
- > 更让用户无奈的是，尽管常用的网络平台APP存在种种问题，很多时候却别无选择，因为有些平台已处于垄断地位
- ## [第三季度针对PC端和移动端的攻击趋势分析（下）](http://netsecurity.51cto.com/art/202101/642312.htm)
- > 本章我将对恶意攻击中的加密货币挖掘恶意软件和新出现的攻击趋势进行分析。
- ## [5G+4G无线网络协同及组网关键技术探讨](http://zhuanlan.51cto.com/art/202101/642310.htm)
- > 本文从分析5G+4G无线网络协同建设的背景和必要性出发，指出5G+4G开展协同建设天然具备的频率、设备和站址等
- ## [三大容器安全防线，护航云原生5G应用](http://cloud.51cto.com/art/202101/642309.htm)
- > 5G的三大应用场景分别是eMBB(增强型移动宽带)，uRLLC(低时延、高可靠通信) 和mMTC(海量物联网)，而垂直行业
- ## [对比云计算的发展，边缘计算的机会正在孕育](http://cloud.51cto.com/art/202101/642308.htm)
- > IDC早前发布的《数据时代2025》报告指出,全球每年产生的数据将从2018年的33ZB增长到2025年的175ZB;Gartner
- ## [天啦噜！Python多线程居然是骗人的？](http://developer.51cto.com/art/202101/642305.htm)
- > 我是一个Python线程，我的工作就是解释执行程序员编写的Python代码。之所以说是解释执行，是因为Python是高
- ## [Spring Initializr中生成的Mvnw是干吗的？](http://zhuanlan.51cto.com/art/202101/642302.htm)
- > 从命名、图标、扩展名来猜测，这两个文件的作用应该是一样的，只是cmd文件应该是用在windows下跑的，而另外
- ## [Binary Semaphore 和 Reentrant Lock 傻傻分不清！](http://developer.51cto.com/art/202101/642301.htm)
- > 在本教程中，我们将探讨二进制信号量(Binary Semaphore)和可重入锁(Reentrant Lock)。另外，我们会将它们相
+ ## [图解Python（4）（高级进阶篇）](http://fellow.51cto.com/art/202008/622834.htm?qd=51ctojrzd)
+ > 图解Python（4）（高级进阶篇）
+ ## [攻击者针对新西兰中央银行的Accellion FTA进行攻击](http://netsecurity.51cto.com/art/202101/642341.htm)
+ > 新西兰中央银行遭黑客入侵的根本原因是Accellion FTA（文件传输应用程序）文件共享服务。
+ ## [如何通过开源协作推进人工智能的发展](http://ai.51cto.com/art/202101/642340.htm)
+ > 人工智能如今成为行业组织炒作和宣传的术语之一，也有人提出一些问题：其潜力到底有多大?它会增强人类的地
+ ## [行业专家为首席信息官提出的建议](http://www.cioage.com/art/202101/642336.htm)
+ > 随着基础设施和运营成为一种商品，IT领导者需要以新的方式脱颖而出。这意味着需要在业务层面上提供服务，并
+ ## [人们需要了解的有关蜂窝物联网及其智能解决方案的所有信息](http://iot.51cto.com/art/202101/642335.htm)
+ > 使用智能手机通常使用的相同蜂窝网络将物理对象链接到互联网的技术是蜂窝物联网。这项创新将特别利用当前的
+ ## [2021年将成为物联网应用发生巨变的关键一年](http://iot.51cto.com/art/202101/642333.htm)
+ > 从工业4.0智能工厂，到智能城市、智能零售，再到智能家居，无线技术正变得无处不在。这取决于低功耗广域网
+ ## [人工智能和机器学习之间的区别，你真的清楚吗?](http://news.51cto.com/art/202101/642337.htm)
+ > 最近，一份关于那些声称在其产品和服务上使用人工智能\[29\] \[30\]的公司滥用人工智能的报告发布。
+ ## [IT领导者在2021年面临的挑战](http://www.cioage.com/art/202101/642331.htm)
+ > 促进员工在混合工作环境中更好地工作是IT领域在2021年必须解决的棘手问题。
+ ## [版本号确定！Windows 10 21H1更新将发布 大幅提升性能](http://os.51cto.com/art/202101/642327.htm)
+ > 微软已经启动了下个 Windows 10 功能更新的准备工作，预估会在今年上半年（4-5月之间）发布。在今天发布的
+ ## [让IT与业务部门“同频共振”就看这7招](http://www.cioage.com/art/202101/642328.htm)
+ > 在理想的世界中，IT和业务部门将完美地结合在一起，IT为业务部门领导提供实现最大性能、效率和利润所需的战
+ ## [提高数据中心运营弹性的七个要点](http://network.51cto.com/art/202101/642325.htm)
+ > 以下是旨在帮助数据中心运营商成功满足“新常态”要求的7种适应性措施。实施这些措施可以帮助数据中心所有
  ## [16 岁高中生成功将 Linux 移植到 iPhone，并贴出详细指南](https://blog.csdn.net/m0_46163918/article/details/112879333)
  > 16 岁高中生成功将 Linux 移植到 iPhone，并贴出详细指南
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
@@ -79,16 +81,16 @@ categories: IT NEWS
  > 
  ## [极客日报第 54 期：腾讯、火绒分别回应关于“QQ 读取浏览器历史记录；俄罗斯加密交易所遭黑客攻击关闭；华为商城全面下架荣耀产品；](https://blog.csdn.net/weixin_39786569/article/details/112799594)
  > 极客日报第 54 期：腾讯、火绒分别回应关于“QQ 读取浏览器历史记录；俄罗斯加密交易所遭黑客攻击关闭；华为商城全面下架荣耀产品；
- ## [使用一片通用四运放芯片LM324组成电路（采用Multisim 进行的仿真）](https://blog.csdn.net/weixin_43723423/article/details/90761331)
- > 使用一片通用四运放芯片LM324组成电路（采用Multisim 进行的仿真）
- ## [Python基础知识总结（期末复习精简版）](https://blog.csdn.net/m0_46521785/article/details/106414720)
- > 
+ ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
+ > Java校招入职华为，半年后我跑路了
+ ## [六十五、完成Vue项目去哪儿网App首页开发（来源：慕课网）](https://blog.csdn.net/weixin_44510615/article/details/109203399)
+ > 六十五、完成Vue项目去哪儿网App首页开发（来源：慕课网）
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [你不是学生，你是开发者](https://blog.csdn.net/weixin_44950174/article/details/106203163)
- > 
- ## [R语言混合正态分布极大似然估计和EM算法](https://blog.csdn.net/qq_19600291/article/details/105801484)
- > R语言混合正态分布极大似然估计和EM算法
+ ## [\[记录二\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之web前端vue](https://blog.csdn.net/gitchatxiaomi/article/details/108105136)
+ > \[记录二\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之web前端vue
+ ## [彻底解决Python包下载慢问题](https://blog.csdn.net/XingLongSKY/article/details/109634785)
+ > 彻底解决Python包下载慢问题
 # 人工智能 
  ## [龙泉寺贤超法师：用 AI 为古籍经书识别、断句、翻译](https://blog.csdn.net/HyperAI/article/details/112597905)
  > 龙泉寺贤超法师：用 AI 为古籍经书识别、断句、翻译
@@ -121,6 +123,10 @@ categories: IT NEWS
  ## [不用微信QQ，用Pillow裁剪图片](https://blog.csdn.net/lantian_123/article/details/112712447)
  > 不用微信QQ，用Pillow裁剪图片
 # PM 
+ ## [底层逻辑：内容型产品运营方法论](http://www.chanpin100.com/article/113151)
+ > 本文将从内容型平台的三个重点：内容、用户和分发模式出发，对内容型产品的运营方法进行梳理分析，供大家一同参与和学习讨论。
+ ## [SaaS服务-教培机构如何将私域流量运营融入到业务中](http://www.chanpin100.com/article/113420)
+ > 教培机构想要将私域流量运营真正融入到业务中，借助教育SaaS技术服务商开发的工具是实现私域流量运营的不可或缺的步骤。
  ## [你真的理解用户需求吗？](http://www.chanpin100.com/article/113168)
  > 我们常说，做生意要洞察用户的需求，那么，什么是用户需求？
  ## [新营销与新国货的一体两面](http://www.chanpin100.com/article/113415)
