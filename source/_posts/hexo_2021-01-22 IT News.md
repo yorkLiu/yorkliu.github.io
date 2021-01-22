@@ -1,35 +1,51 @@
 ---
 title: 2021-01-22 IT News
 copyright: true
-date: 2021-01-22 13:03:57
+date: 2021-01-22 17:45:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [医疗云安全：以云服务促数字医疗](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=M6l2ye8XE0ebuMUOS4GIXlePFs-gsSCM-CnGKjM5rrQhZdnlxNDLW80S3Nfs5v9g9wCnp5nf4Eld1Sz0EdMrm-PTh16KpcMu8teSQfYfOtpT4lOHAbe57VB3Fvbl4JCp&new=1)
+ ## [畅形增材：聚焦金属颗粒材料 让FDM 3D打印更丰富](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=kDj13xJkh5cdbvUg5N1kIedinH-8DcHkFwDdQG8J9I7KN9-eqL8qaCjms0ccSQCeaY3w3Z7J23q8ngdlK4GGC0Tp5qVbj0EOU6xhuL3NORcoMHYg1eCodJXjALA1o8fr&new=1)
+ > 日前，深圳市畅形增材科技有限公司已获未知资本的种子轮投资，同时畅形增材的研发技术团队进驻深圳市3D打印产业园，畅形增材设备也同步入驻了未知大陆平台。在新的一年里，畅形增材将砥砺前行，发挥公司的技术优...
+ ## [拜登新政：加速网络安全主流化](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=nrtfQlfEAyrPc7An4Uz1LTh0ZMYNLC*7JyGtdC1-xz7ae7JFE6D9gMe*YPlKIdtD9WKmUuQrAB1rX14oOvzHwKryzlK3SPSR5DrRyNk4FDTNfgmVLKjW1X5FhDvfCRr1&new=1)
+ > 安全牛评2021年，距离巴铁兄弟研发首个电脑病毒已经过去35年，距离第一次大规模互联网泡沫已经过去20年。从技术与情怀驱动，到经济与规模驱动，再到政治与危机驱动，互联网和网络安全已经迎来了第三次浪潮。作为...
+ ## [英特尔2021年首季PC持续增长，新CEO回应“7nm技术和代工”疑云!](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=OqCfjfe1zpbLJNXjTkmto-JV5jw36IV4EijmGRhYry6M*vi3q0IboRn2*udoVsXy9u1JXA8QGmLrIaUPGSddy*WA4mL-Z8soPd7ElLj-nEnlJByEBctmAkNwuD7Me-Em&new=1)
+ > 1月21日，英特尔发布了2020年第四季财报，英特尔以PC为中心的业务营收表现亮眼，按照GAAP会计准则，英特尔第四季营收为200亿美元，同比下降1%；净利润为58.8亿美元，同比下降15%；每股收益为1.42美元，去年同期1...
+ ## [再等等，2025 年你就能买到一辆自动驾驶汽车了](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=g-ky8CL5J7rTxcH3O0WxFaBvX0kh6656Y8QLCYmNCJpe4owtzkS1rNpr2ReJtW771HKtITPSR42cga6VPaAuMFL7AEZA4Wk8kILsypWZpW7ZeZ36kFsuoO0wtdmeeM7p&new=1)
+ > 对已经固若金汤的市场，Mobileye 一直做的都是「偏向虎山行」的事情：用最难实现的目标倒逼技术的成长。因为疫情原因，CES 国际消费电子展改为线上举行，不过 Mobileye CEO Amnon Shashua（内部人称「沙叔」）的...
+ ## [\[观察\]联想与华体科技强强联手，“点亮”未来智慧城市之光](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=zyiji3qAvbOp4zTom*8oMXAPC-Az6uHOMrhDYySKQLV0uFVH-j2wEduMjEN3cPmNWhqbvljWPRA8oWcJmtCwInZL24-x6Ljc65f6MKLG1eKodobYzDuuCKPw*gPZsgxr&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！路灯，是每一座城市中最普遍也最密集的一种基础设施，随着5G时代的到来，每一个路灯未来都有可能融入5G基站、车路协同、视频监控、充电桩、环境监测、灯杆屏等多种模块，进而...
+ ## [英特尔火线换帅，苹果搅动乾坤，国芯路在何方?](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=3VOXMDFBGNDfGH2FMM*vd0bqpa6UNdPi4AtUr*uPJNT18v0vcWPXsotGBcvSQRi4M4eo*BKyhyqzLr4HH0IU3zeX9GTCnx7d0IYsPG4AM9uBzvtCGhNO*iVIDUO*iIqA&new=1)
+ > 芯片领域洗牌，国产芯片厂商的突破口在何处？作者 | 马超       责编 | 屠敏出品 | CSDN（ID：CSDNnews）“时来天地皆同力，运去英雄不自由”。计算机背后的集成电路已由上世纪 40 年代占地 150 平方米、重达 30...
+ ## [拨打10086，秒升5G云套餐!超值权益特别赞](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=A5zBYV3C0CLQLotZ2EsXb441q3mK9wIyIEADsx3nXzJ8Nt6pVjTE3CKqexxeypG-cgxha1qublrGcS1t5OpRbecsHWlEOzY3KOQfBpl1FIY68a7xnP24rjBJ8imbmtZQ&new=1)
+ > 从进入大众视野以来，5G一直属于“真香”的节奏！不用不知道，一用吓一跳，说的就是5G速度！作为互联网时代的一次重要变革，一般情况下，5G的网络下行峰值速率是4G的10倍以上！一张图形象说明5G快感：随着各大手...
+ ## [NEWS|新大陆再获2017年度中国质量技术奖](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=nBqaKhW3-WSVVLh4m-ZFVKVm5EQhCjJNWZMB1a2jv2EYGVn9FruhKDAeTWJy7Tp9u3G3b2sq9dP-RToKuG*1FCuD5KWeQoDSrzg6juxHya0QzPJzbmHgfHkIZd-Ftez9&new=1)
+ > 本刊讯：新大陆物联网研究院主持的“电子产品可靠性综合解决方案的研究及应用”项目经过激烈的角逐，荣获2017年度中国质量技术奖二等奖。本次参选的企业有中国航天科技集团、格力电器、京东方等国内上百家知名企...
+ ## [提高数据中心运营弹性的七个要点](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=GCa1voh*fT4LVjz6AGIW1xS1NJtnlKgChaWI2crz*nCDDE38*IbuZYDj6gUScpIe1N*NsVQEnie9gDem1lR7-blKq-OyRI1-0DHXAfysNlbMrPnzjxUmoFkO06ZZjM60&new=1)
+ > 关键讯息，D1时间送达！本文叙述了帮助数据中心运营商成功满足“新常态”要求的7种适应性措施。实施这些措施可以帮助数据中心所有者和运营商增强整体运营弹性，提高用户的舒适度和负载安全性，并使工作习惯与不...
+ ## [医疗云安全：以云服务促数字医疗](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=Pptl9nxrmxQYkM52nBjME2*TNJFye*CrzYXyEdgBtCmhbNP7xs2zaYyEM8HjFE*enyGnkZHmP7PnvZCmiVp-2G66H1nyK-icLCAs4wOEozkpSvFyqWiXkFlm46reTXJr&new=1)
  > E安全1月22日讯 1月18日，欧盟网络安全机构(ENISA)发布了《医疗保健服务的云安全报告》，该报告为医疗保健机构提供了网络安全指导方针，帮助它们进一步利用云服务实现数字化。COVID-19大流行突显了对高效和安全...
- ## [7点见|微信8.0版本更新；蚂蚁集团估值暴跌至1080亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=l7*RGz2*8Wk-GCnZO3nGy2id87scg5-6KfZevsVE8ouXsT2DeqcOuF1UvjViVeakAgPu3iac33qOrzWXtiK6QltUsAfSDE7FzhOPclXqAvk3EWv0Y-T1YEwkBOCrKYAI&new=1)
+ ## [7点见|微信8.0版本更新；蚂蚁集团估值暴跌至1080亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=sganiLlojvLU8MMgiBdXw*y4i1GZwk49iHQCkP1ANta3j59TZixeH1jq99Le9CjrDLLS9gDoev1anrAAznO02Wfb9M9KpWNHJ57w75CRhh6VYgBji5IqhHSOx1-cQ*Dg&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！微信8.0大更新：新增状态栏，优化浮窗样式等1月21日消息，据微信透露，微信8.0新版本优化了浮窗样式，新增支持历史浏览内容、支持聊天和朋友圈图片文字提取等能力。据悉...
- ## [瞭望丨揭榜挂帅，如何实现?](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=Yg4dr5J3Rs31MOPFdUIFq4-Aay*oi2XC43cmoXoj5COvpSIPAMlBYWXVkJlJRHfwYWc17WqIfVHsLXUoDnHLncWriZG2Fk2C0RrdjBOePikyOufhrSmXki6ixJRg2WpT&new=1)
+ ## [瞭望丨揭榜挂帅，如何实现?](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=Rmmr5rmBpoXbb8ywb2CmK6-K83cMl3Ng1w8RPc26Z2DQY81FeF7h5Sn6QOS*f-YF48iMmZrPJR7q4NsAxgidV1wxP6YV7CIh8vpqhO-ud57*uUA*QJDWdIFQ9RIS8RCJ&new=1)
  > ◆ 揭榜挂帅实现了从竞争拿项目到竞争出成果、从谋求发论文到解决真问题、从论资排辈到不拘一格的三大突破◆ 揭榜挂帅还应推动形成“和而不同，竞而不争”的氛围，和者能久，竞者有力，在竞合中寻求行业整体突破...
- ## [厉害了：中国高温3D打印机，集成进入荷兰海军护卫舰移动维修中心](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=rpvEVMZiXrCesnbEJQScGBhXdUkfC6rUjXFabTG-7qyO3awVh0UNlcsqPCujEHrtkTc4C8Y3Zp0hY8CivKb2kprQiTzi12nwHsuSda0NTqULXvexG64HoqWnLb9-oGUm&new=1)
+ ## [厉害了：中国高温3D打印机，集成进入荷兰海军护卫舰移动维修中心](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=9qwhk7FJdbFH7NnlGmQSuIbEqfSj4knQ-PqcCWxvJ97r7YHhyudfHgVa6Lg5cXSoc*JEZ8XYasVETuc2nxnpQedAFj3X1xskvDN-KyVQOCkzbRajnaQBCJEvyhDzgpLI&new=1)
  > 南极熊导读：3D打印在军事上的应用越来越多，大到战斗机、火箭导弹的重要金属部件，小到门把手一类的塑料小零件，各种应用层出不穷。3D打印越来越成为荷兰皇家海军（Dutch Navy，以下简称荷兰海军）的关键技术，...
- ## [寒武纪首颗量产7纳米制程 AI训练芯片亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=pHjJIdxDUMivK1VJ1AkCVSCodyyB7BGhbm0q-wIRwSQkiEhTPf1VE0lxyiVhy70qTX9cw*y0uAljgdEQAYG7ZEiEsrpTy-a4*Hlw0dzA6cY=&new=1)
+ ## [寒武纪首颗量产7纳米制程 AI训练芯片亮相](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=eRJhnI3pLroOVE1Z8NJUMm0h8eBZPAO*tIVKHlbfbEF2suo1bXOGPuX32eerqoZlzwcLI*iiudzemFrAB-xJLzHy1-g415W*Dlf8Oh75Vr0=&new=1)
  > 1月21日，寒武纪思元290智能芯片及加速卡、玄思1000智能加速器量产落地后在公司官网亮相。公司方面表示，这标志着“云边端一体、软硬件协同、训练推理融合”新生态的建立。目前，思元290芯片及加速卡已与部...
- ## [官宣|2020年度讯石英雄榜发布三大奖项榜单](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=0a1Owy6ohQptk*edQEU9LmXUvs0spj-MjxDH2QzNoBXw8XfmSpqYA098wkqBx5AkLJ1arhnF0NRO7I7Ig11c7gdzYVVrqtVhm1efLuWeGrAAoLQh6xEIePD*hFD2CYhM&new=1)
+ ## [官宣|2020年度讯石英雄榜发布三大奖项榜单](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=ROpNcaZj4IlHsF9lo9uEUYqXc648qm2M4-Dnjx2zQGo5WoYOiInSbn1chM6ukIJJP-AllRIMCqdtZ57lHoqVUId6bGysUKRteC1y5Y8C3md3Ib0pIJkVp13V4acZn8HE&new=1)
  > 新闻导读讯石2020年度总结暨第七届英雄榜颁奖直播会议圆满举行，运营商、设备商光通信专家和讯石咨询高级分析师分享了5G、数据中心光网络和光通信市场发展情况。讯石咨询正式颁布第七届讯石英雄榜获奖结果，评定...
- ## [\[报告\]2021中国商用车后市场白皮书(附18页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=3KJ2WT-jVPjhxhI6kCngRN9FOcMoOUBZkrpfhKxs5Qo5OQvyfEgVES3J*fyqUrcKt0poGFx-aLAQwmzXxhFKag2YD1MX1LnzXItve7Qkr09wcZa4WSks-XeBgQ7RLWcw&new=1)
+ ## [\[报告\]2021中国商用车后市场白皮书(附18页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=KstyFB4YgSulCv*Q-zlppqK7oSol2I9YUfsoX9T6SpIJBXvy3xb0-OfYhaimH8HveD5u4nhz1rBuvzrgmLAo5jZeUrG8RvQ1V6WyS*iy8YeYtllddc1gwwqglYNjafha&new=1)
  > 近日，罗兰贝格发布《中国商用车后市场白皮书》，本次报告共分为是三个部分，分别介绍车辆配套服务如何创新升级，拓展业务纵深；如何围绕物流、司机运营增值，立体化服务以及后市场业务如何创新，分享五大新要求...
- ## [由于市场份额越来越小，LG最终可能会退出智能手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=VZUUIL9YKzexWflp5xWosGhsvNn5IofyGcAGXVLIB8NhhfZ2mwnszmXCKVXyqn7o*8sUzNPC-fGfcQugZk2JTZZHoeo2uI0csyFMtbfUHR2t93pwP95N-5h5tZgDZNIz&new=1)
+ ## [由于市场份额越来越小，LG最终可能会退出智能手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=6m6pKrYCDI8vLUtb-eCGlvElANXPFWM2vFuOrjE-UKe**u9QLdSzWtVQgSzp0lDOMWwUkmNm9FsphTMUKWvaE3HjBWMO20Ty3kZceQ2u6P3ai-h9iHyJZGEtlE44Icin&new=1)
  > LG在2021年国际消费电子展上推出了一款可卷曲的智能手机，这明显表明该公司在智能手机业务上的创新还没有枯竭。在今年年初，LG还驳斥了关于退出智能手机业务的传言，称这些假设“完全错误，毫无根据”。然而，戏...
- ## [新年大动作展现标杆风采，浙江5G持续领跑全球靠什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=R2zcQHL1Jyn3iUHZUr6LkMIkGbjTgrh3zekfcSjjpRd-w07Q-9xeknIZ92Ne40esJMS7BRctSjeD8iN-VrhjcCOAhxSQmPBbJaOQt8Sslm4MWaJqHiTWCoiP0qmXvmAm&new=1)
+ ## [新年大动作展现标杆风采，浙江5G持续领跑全球靠什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=ogwBB0F3JBYzK76nzNqVwJbwm9q5rIaVbPhk15Tf7exSvmLwcQFVCNV5ZIqTdJc1F8eaesVHk8Q2genqKm*iPY3DBCFbXZsMTO3k9j735wAbDppdz1EnvbCXZI4Rq8b8&new=1)
  > 2020年初，我国提出新基建工程，但在政企落地场景，还不够丰富和成熟。所以2021年，各地新基建将从信息基础设施部署，走向应用场景打造。我们看到，全国各省、各城市都在琢磨，2021年如何成功发展5G，推动本省智...
- ## [乐心医疗调整业务线 去年净利润同比预增110%-140%](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=BYIL5NJ5jqVR6Rj9IiiuxiGWSZzcgfldIGFNO9PNN4WNaUpVyPI3HlJloR3aIVpBMtnuRkwIqBXtgF8fpzhwHRfpFjKZx5TG2D*O6GEoV0c=&new=1)
+ ## [乐心医疗调整业务线 去年净利润同比预增110%-140%](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=AOBBCkRC*g53tL8yMipX58*DLrwbPwJO*DVh1h1hktHqcl53*z7ckvGgSfMD25Kx8U0OSPlZRsw26cQ0u48puSqf7XzdWhOqCD*-Awgq3Vo=&new=1)
  > 经济观察网 记者 黄一帆 1月20日晚，乐心医疗（300562.SZ）发布业绩预告，交出去年业绩预答卷。从公告看来，此前乐心医疗积极开展的大客户战略有所收效，全年报告所预计的业绩增速延续了此前三季报的增长增速。...
- ## [估值不低于300亿，比亚迪半导体分拆上市已近!](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=iXte5MQsbczPlXQ*xQVtkq0erKCv72GyeiZyX84x5gNrmqkJ71*0fsHvPAU*3DR*36LBTEFagarRR46DsopSHB9EtPRxES5aSLHgSKZ8JdS2yWV30BVLgS9jOkDPNC0v&new=1)
+ ## [估值不低于300亿，比亚迪半导体分拆上市已近!](http://mp.weixin.qq.com/s?src=11&timestamp=1611307805&ver=2844&signature=rChf23fhdMGN3W4A61FXRg8YUpNzU71NLaM*nZvnU1icVCyzO3KDLzINKbcQkBQU6-YMYSfAOAfLlPb3yWTUMnfaye0CUGB6VuWoQP8uLz6j*RwfOtmHgroJjVVL56yN&new=1)
  > 比亚迪半导体分拆上市的事又曝新进展。1月20日，深圳证监局官网信息显示，比亚迪半导体股份有限公司（以下简称「比亚迪半导体」）拟首次公开发行股票并在境内证券交易所上市。目前，比亚迪半导体已接受中金公司...
- ## [并购潮、缺芯、自研，2021芯片行业往何处去?](http://mp.weixin.qq.com/s?src=11&timestamp=1611291605&ver=2843&signature=YgT0uA2uBqet7yxZ0GQa9mKr7vb9S5uCINsDMXLAQSFYIVLMzpkjw6hFZzqJ-FloH*JoZYn54OeC*FU7pSzcG09tdCMyNb-YfvH*gVfpRxuILz--uTule7eRyyCDgrd7&new=1)
- > 导读：芯片是一个需要长期投入人力、物力、财力等资源，才能发展起来的产业，未来芯片领域将伴随长期的市场泡沫和洗牌，最终留下来的企业才可能突破限制，带领国内芯片向前走。 作者：布谷｜文章来源：连线Insig...
 # IT 技术 
  ## [值得应用开发者关注的八大增强现实工具包](http://mobile.51cto.com/ahot-642222.htm)
  > 值得应用开发者关注的八大增强现实工具包
@@ -37,36 +53,36 @@ categories: IT NEWS
  > 试用期没过，因在公司上了1024网站...
  ## [揭开2021年云计算十大误区的神秘面纱](http://cloud.51cto.com/art/202101/642221.htm)
  > 揭开2021年云计算十大误区的神秘面纱
- ## [基于MDT的3D-MIMO天线权值优化方法研究与应用](http://zhuanlan.51cto.com/art/202101/642313.htm)
- > 基于MDT的3D-MIMO天线权值优化方法研究与应用
+ ## [程序员美女说：建模一点都不难！做3D模型，这一步才是最难的](http://news.51cto.com/art/202101/642353.htm)
+ > 程序员美女说：建模一点都不难！做3D模型，这一步才是最难的
  ## [如何利用ONLYOFFICE将在线文档编辑器集成到Python Web应用程序中？](http://developer.51cto.com/art/202101/642181.htm)
  > 如何利用ONLYOFFICE将在线文档编辑器集成到Python Web应用程序中？
  ## [用鸿蒙开发AI应用（五）HDF 驱动补光灯](http://developer.51cto.com/art/202101/642143.htm)
  > 用鸿蒙开发AI应用（五）HDF 驱动补光灯
- ## [婴儿的出生为你解惑构造函数和构造代码块](http://developer.51cto.com/art/202101/642303.htm)
- > 婴儿的出生为你解惑构造函数和构造代码块
- ## [嵌入式Linux入门: 从单片机到Linux初级驱动(韦东山1期)](http://fellow.51cto.com/art/202101/641164.htm?qd=51ctojrzd)
- > 嵌入式Linux入门: 从单片机到Linux初级驱动(韦东山1期)
- ## [区块链引起的传统金融变革](http://blockchain.51cto.com/art/202101/642358.htm)
- > 经过2020年疫情席卷全球，可以看到世界经济发展的不确定性大幅增加。各国政府、企业探索采用新兴技术降低经
- ## [简单说几个MySQL高频面试题](http://database.51cto.com/art/202101/642357.htm)
- > 在各类技术岗位面试中，似乎 MySQL 相关问题经常被问到。无论你面试开发岗位或运维岗位，总会问几道数据库
- ## [比特币暴跌 加密货币总市值蒸发超千亿美元](http://blockchain.51cto.com/art/202101/642355.htm)
- > 根据行业网站CoinDesk的数据显示，比特币价格周四下跌8%，最低至31007美元，为1月11日以来首次跌破32000美
- ## [拜登政府对比特币有何影响？](http://blockchain.51cto.com/art/202101/642352.htm)
- > 1月20日美国今年迄今最敏感最重要的一天，特朗普一大早离开了白宫，由拜登开始入主。拜登的当选会使更多主
- ## [聪明地投资你的物联网](http://iot.51cto.com/art/202101/642351.htm)
- > 你应该在哪里投资物联网？这很容易说只是把钱扔在你最薄弱的领域或去花钱不知道回报。如果我们想成为一个好
- ## [让IT与业务部门“同频共振”就看这7招](http://www.cioage.com/art/202101/642350.htm)
- > 在理想的世界中，IT和业务部门将完美地结合在一起，IT为业务部门领导提供实现最大性能、效率和利润所需的战
- ## [了解数据中心自动化是如何形成的](http://server.51cto.com/Datacenter-642348.htm)
- > 2020年10月，IDC与华为联合发布调研报告。该报告提供了一个自动驾驶数据中心网络索引，其中分解了实现完全
- ## [对5G和边缘计算发展前景的展望](http://cloud.51cto.com/art/202101/642347.htm)
- > 在技术创新的推动下，人们对5G和边缘计算的兴趣与日俱增，但是IT领导者需要首先评估融合这些技术的性能和成
- ## [2021年值得关注的10大网络安全工具](http://netsecurity.51cto.com/art/202101/642344.htm)
- > 随着无数企业和实体搭上数字化的快车，网络安全逐渐成为人们关注的焦点。此外，大数据、物联网、人工智能以
- ## [软硬结合，CDS首云AI云服务的技术实践](http://ai.51cto.com/art/202101/642345.htm)
- > 作为业界知名的云服务提供商，CDS首云及时捕捉到用户对于AI云服务的迫切需求，携手英特尔，使用OpenVINO
+ ## [熊孩子乱敲键盘攻破Linux桌面，大神：17年前我就警告过了](http://news.51cto.com/art/202101/642168.htm)
+ > 熊孩子乱敲键盘攻破Linux桌面，大神：17年前我就警告过了
+ ## [ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）](http://fellow.51cto.com/art/202012/636704.htm?qd=51ctojrzd)
+ > ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）
+ ## [瑞银：加密货币永远无法成为真正的货币](http://blockchain.51cto.com/art/202101/642387.htm)
+ > 瑞银全球财富管理部门认为，加密货币可能永远无法像真正的货币那样发挥作用。该部门首席经济学家保罗-多诺
+ ## [Rocky Linux 将于 3 月底发布首个 RC 版本](http://developer.51cto.com/art/202101/642385.htm)
+ > Rocky Linux 社区最新的公告显示，其开发团队计划在第二季度之前发布 Rocky Linux 的初始版本。目前确定的
+ ## [低代码建模语言 UBML 正式开放源码](http://os.51cto.com/art/202101/642383.htm)
+ > 近日，开放原子开源基金会宣布 UBML(Unified-Business-Modeling-Language)项目代码正式对外开放。目前开放
+ ## [只有了解攻击，才能更有效地防御攻击](http://blockchain.51cto.com/art/202101/642384.htm)
+ > 区块链是一道打开新世界的大门，它仿佛让我们看到了一个透明、公平的世界，但是殊不知这道门也面临着各种攻
+ ## [区块链技术是什么意思？可以解决那些问题？](http://blockchain.51cto.com/art/202101/642379.htm)
+ > 区块链技术是什么意思？可以解决那些问题？区块链技术简称BT，也被称之为分布式账本技术一种互联网数据库技
+ ## [2021年云计算行业发展趋势如何？](http://cloud.51cto.com/art/202101/642378.htm)
+ > 2021年云计算行业发展趋势如何？在2020年云计算技术为组织的首席信息官提供了支持和帮助，随着进入新的一年
+ ## [iOS微信大更新，可设置在线状态](http://mobile.51cto.com/app-show-642381.htm)
+ > 日前，iOS版本的微信更新到了8.0.0版本，更新日志显示：更新了若干功能。作为十周年的大版本更新，这次肯定
+ ## [5nm芯片集体“翻车”，先进制程的尴尬](http://news.51cto.com/art/202101/642374.htm)
+ > 从2020年下半年开始，各家手机芯片厂商就开始了激烈的5nm芯片角逐，苹果、华为、高通、三星相继推出旗舰级5
+ ## [作为数据科学家，你会怎样应对这五大挑战？](http://bigdata.51cto.com/art/202101/642375.htm)
+ > 作为数据科学家，我在很多公司工作过，也遇到了很多问题和挑战。事实上，很多人都会经历这些挑战，就不同情
+ ## [小程序开发者的肺腑之言：中小商户为何做不起来小程序？](http://mobile.51cto.com/news-642373.htm)
+ > 笔者从事小程序定制开发5年，期间帮助100余家中小商户对接、开发小程序，据我统计，这一百多家中小商户，没
  ## [16 岁高中生成功将 Linux 移植到 iPhone，并贴出详细指南](https://blog.csdn.net/m0_46163918/article/details/112879333)
  > 16 岁高中生成功将 Linux 移植到 iPhone，并贴出详细指南
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
@@ -87,16 +103,16 @@ categories: IT NEWS
  > 
  ## [极客日报第 54 期：腾讯、火绒分别回应关于“QQ 读取浏览器历史记录；俄罗斯加密交易所遭黑客攻击关闭；华为商城全面下架荣耀产品；](https://blog.csdn.net/weixin_39786569/article/details/112799594)
  > 极客日报第 54 期：腾讯、火绒分别回应关于“QQ 读取浏览器历史记录；俄罗斯加密交易所遭黑客攻击关闭；华为商城全面下架荣耀产品；
- ## [使用一片通用四运放芯片LM324组成电路（采用Multisim 进行的仿真）](https://blog.csdn.net/weixin_43723423/article/details/90761331)
- > 使用一片通用四运放芯片LM324组成电路（采用Multisim 进行的仿真）
- ## [Python基础知识总结（期末复习精简版）](https://blog.csdn.net/m0_46521785/article/details/106414720)
- > 
+ ## [Java校招入职华为，半年后我跑路了](https://blog.csdn.net/qq_33589510/article/details/104057498)
+ > Java校招入职华为，半年后我跑路了
+ ## [六十五、完成Vue项目去哪儿网App首页开发（来源：慕课网）](https://blog.csdn.net/weixin_44510615/article/details/109203399)
+ > 六十五、完成Vue项目去哪儿网App首页开发（来源：慕课网）
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [你不是学生，你是开发者](https://blog.csdn.net/weixin_44950174/article/details/106203163)
- > 
- ## [R语言混合正态分布极大似然估计和EM算法](https://blog.csdn.net/qq_19600291/article/details/105801484)
- > R语言混合正态分布极大似然估计和EM算法
+ ## [\[记录二\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之web前端vue](https://blog.csdn.net/gitchatxiaomi/article/details/108105136)
+ > \[记录二\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之web前端vue
+ ## [彻底解决Python包下载慢问题](https://blog.csdn.net/XingLongSKY/article/details/109634785)
+ > 彻底解决Python包下载慢问题
 # 人工智能 
  ## [龙泉寺贤超法师：用 AI 为古籍经书识别、断句、翻译](https://blog.csdn.net/HyperAI/article/details/112597905)
  > 龙泉寺贤超法师：用 AI 为古籍经书识别、断句、翻译
@@ -133,11 +149,5 @@ categories: IT NEWS
  > 本文将从内容型平台的三个重点：内容、用户和分发模式出发，对内容型产品的运营方法进行梳理分析，供大家一同参与和学习讨论。
  ## [SaaS服务-教培机构如何将私域流量运营融入到业务中](http://www.chanpin100.com/article/113420)
  > 教培机构想要将私域流量运营真正融入到业务中，借助教育SaaS技术服务商开发的工具是实现私域流量运营的不可或缺的步骤。
- ## [你真的理解用户需求吗？](http://www.chanpin100.com/article/113168)
- > 我们常说，做生意要洞察用户的需求，那么，什么是用户需求？
- ## [新营销与新国货的一体两面](http://www.chanpin100.com/article/113415)
- > 中国年轻市场释放出的人口红利，足以“喂养”得起一批真正优秀的国产品牌。
- ## [营销自动化赋能场景生态圈，实现全触点精准营销](http://www.chanpin100.com/article/113416)
- > 今天我们要讨论的就是营销自动化如果解决消费者面对高度轰炸的碎片化营销信息所产生的免疫反应问题，实现全触点的精准营销。
 
     
