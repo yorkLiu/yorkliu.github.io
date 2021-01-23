@@ -1,30 +1,32 @@
 ---
 title: 2021-01-23 IT News
 copyright: true
-date: 2021-01-23 12:46:52
+date: 2021-01-23 17:11:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [雾芯科技登陆纽交所：大涨146%市值458亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=X7o23Z2dgvSRClEaeDqLD8AEShB0UqpxLHBAvQ83KLFeVwup1NAADsQeYu1O6YsUKNbTWqWa6p2rJlnmD7e9OZruUp*ycgNHLnRPn2LxKFGKhbLYEU2NVRuPkiwpTWsb&new=1)
- > 雷帝网 乐天 1月23日报道RLX科技（又称：“雾芯科技”）昨日在纽交所挂牌上市，股票代码为“RLX”。IPO的最终定价为12美元/ADS，融资额为14亿美元。RLX科技开盘价为22.34美元，较发行价上涨86%；此后，股价进一...
- ## [ZB时代，企业如何为数据“场景化”定制存储?](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=43wFpA3a3id-rk*P1rUAxT8-*g*DWJ*oszguipgvYv5e5weEXiYCn1r54M2unLcaPAe75zxmgJBQynJY83zno7DXSjkj9DO0KZMQByVGlW-Wf9W7s28BFcvpJPSgYVXc&new=1)
- > 关键讯息，D1时间送达！2020年新冠疫情席卷全球，使各国经济受到巨大打击，然而数字经济表现出了极大的韧性与顽强的生命力。数字经济加速推进5G、人工智能(AI)、物联网等相关技术在各行业的快速发展，数据已成为...
- ## [五个“注重”集聚科技型人才](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=PlRcumhgyuAZgXpG4cfGyLzJBW0UP3TRYKPintpvEcoTqb1MF4qr325UUt07bGzjq7nj6ztN-CGM*Uf1T2q9sNsmhiYLCunWLfNL9IQfTjQ=&new=1)
+ ## [五个“注重”集聚科技型人才](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=PlRcumhgyuAZgXpG4cfGyLzJBW0UP3TRYKPintpvEcrQ5AWvN-zeH3hVxHp7e0BZL1fE3PchfmhMbYcn5aQroSlD4Ral2izTEIKjt0ySnZw=&new=1)
  > 本报讯 1月20日，记者从观山湖区科学技术局获悉，该局积极探索激励科技人才的工作模式，为创新创业人才提供服务支撑，通过五个“注重”集聚科技型人才。目前，全区已引进科技人才400余人。　　注重科技人才...
- ## [3D打印房屋改变经济适用房?建筑成本降低40%、速度提高1倍，Mighty Buildings](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=XK*vVPRh7KRLbP-sbK-KNi7Qqv7pYFk1uRh-xHe39QXt8*tiDPKxIoCpt7Ch66zhslCy9WFLb4jUDgMkDMcBYxvENdiMjESE1Klvu2NYpqK51cjLde-gbZy9mFXoZTUl&new=1)
+ ## [雾芯科技登陆纽交所：大涨146%市值458亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=X7o23Z2dgvSRClEaeDqLD8AEShB0UqpxLHBAvQ83KLH8RpNTiVvtnyeqP8yea5DWChfkrwe8ihqJ-t19NzL5vLOToaBMIYC6*YUWeDTGBrdfz1mCKBvbbzDBhT7klFTW&new=1)
+ > 雷帝网 乐天 1月23日报道RLX科技（又称：“雾芯科技”）昨日在纽交所挂牌上市，股票代码为“RLX”。IPO的最终定价为12美元/ADS，融资额为14亿美元。RLX科技开盘价为22.34美元，较发行价上涨86%；此后，股价进一...
+ ## [ZB时代，企业如何为数据“场景化”定制存储?](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=43wFpA3a3id-rk*P1rUAxT8-*g*DWJ*oszguipgvYv6GFJzy4x1eiBDip-wqQsixCDSpEZWWxIW2g3i*I1LUY4M5Zzv5de19TqVcH7do2bpuhrziGDyayR9Pb5ioonRf&new=1)
+ > 关键讯息，D1时间送达！2020年新冠疫情席卷全球，使各国经济受到巨大打击，然而数字经济表现出了极大的韧性与顽强的生命力。数字经济加速推进5G、人工智能(AI)、物联网等相关技术在各行业的快速发展，数据已成为...
+ ## [删数据，还要删AI模型：美国科技公司遭遇最严厉隐私泄露处罚](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=hYM2p9M2doqGJaUn6EnKVMGg1o7X3NdCxtoIeT*prOpOBV75xH5JizSCz43nzkNoW3no9zD8m9mLsLQNm675gSzV8z*6mkuektaZaVlA0vkIAJqGysHTkW5ynSP0wfHA&new=1)
+ > 机器之心报道编辑：张倩、泽南「想象一下 Facebook 或 Google 这样的公司被要求删除其类似算法会是什么结果。可能最后删得核心模型都不剩了。」近日，美国联邦贸易委员会（Federal Trade Commission ，FTC）公
+ ## [3D打印房屋改变经济适用房?建筑成本降低40%、速度提高1倍，Mighty Buildings](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=XK*vVPRh7KRLbP-sbK-KNi7Qqv7pYFk1uRh-xHe39QUfZZYsHh2V0ogfxH82kWjlPyOaOVAzEhYKo2U5cwHDW4-8hHX7U7SF95KrmzLXCm412jsNuGjR32BmP80fbkjg&new=1)
  > 南极熊导读：这个新的建筑3D打印技术，用在经济适用房领域，可能是个好点子，如果地价不贵的话。在美国，建筑3D打印房子，有可能帮助解决住房危机。Mighty Buildings 是一家3D建筑公司，成立于2017年，总部位于...
- ## [\[报告\]欧阳明高：面向碳中和的新能源汽车创新与发展(附36页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=FTgfxTyy6aEuyYvKq2acx3UOkYiGoUsw*u*zH9-lDeM8h5bUjOe8aVmYDoO-BQ7*ilfTbTDj*HiLHrMRDyfFRbOeLRpBeo2ZHXBIby*vLylzF9BmWgpPHlzA1A6cJfAM&new=1)
+ ## [\[报告\]欧阳明高：面向碳中和的新能源汽车创新与发展(附36页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=FTgfxTyy6aEuyYvKq2acx3UOkYiGoUsw*u*zH9-lDeMgoO8uaUN1nlCrJssyFeiZ2jqRKnv1tZrC-RaDZFWk8DXvEtGlR-vgUQf85kfcCIYvrvWyNEKNPWFN02kPDmtW&new=1)
  > 1月15-17日，以“新发展格局与汽车产业变革”为主题的2021中国电动汽车百人会论坛在北京举行。活动现场，中国电动汽车百人会副理事长、中国科学院院士欧阳明高发表了演讲。主要观点如下：1. 第四次工业革命我个...
- ## [中国联通成为2020年的最大输家，用户净流失超千万](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=c4*c9yHJQbplywulHGvr8qy1tfEH1h5JaJxiHgZN0PwVj3kuD4gwgG9h2UykiG9aq0KHRbD62IQ7mg1OqXcH06dC4IpsGwthn3y0xnGoYkd77FDN*GGupux5d16ZoMdE&new=1)
+ ## [中国联通成为2020年的最大输家，用户净流失超千万](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=c4*c9yHJQbplywulHGvr8qy1tfEH1h5JaJxiHgZN0PwMioqOD31MknjC2vC5bWum545TiM4BelUDlu0uwnE*3HoYCanYIayFmXRCk3WkYAvjlQ*Zk8myZRYhWGU0AkD*&new=1)
  > 三大运营商都公布了2020年的用户数，让人错愕的是实力最弱的中国联通却流失了最多的用户数，在三大运营商中被进一步边缘化。中国联通公布的数据显示，2020年它的移动用户数仅剩下3.06亿，移动用户净流失1266.4万...
- ## [雾芯科技美国上市：市值超百亿美元 红杉为股东](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=X7o23Z2dgvSRClEaeDqLD8AEShB0UqpxLHBAvQ83KLHeX5SuJ1qxi3eKxQ*93JT6*4mDyc4iSlVqTd2I0oz4Nyg2Ve6zLxNZixLcxi-yre2Od9G8w4t9WT9yb0RIrcV8&new=1)
+ ## [雾芯科技美国上市：市值超百亿美元 红杉为股东](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=X7o23Z2dgvSRClEaeDqLD8AEShB0UqpxLHBAvQ83KLE3ujqr2BPm2J88tz3b2y8ygRCxgQel7ejUw*6by6m75q2U4dKMJbuHBOtaK7HoPwjIcvYnsf8ktrZK-ViunJ4T&new=1)
  > 雷帝网 雷建平 1月22日报道电子雾化龙头企业雾芯科技（股票代码为：“RLX”）今日在纽交所上市，发行价为12美元，发行1.165亿股，募资14亿美元。此次IPO募集的资金将用于研发及科学研究、加强分销及零售网络、提...
- ## [中国台湾省大佬，站在了无人驾驶最顶端?](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=xd1ZTlyXgsrXYx9BPsYtJ-b2hxW48kDqOi0iNkZU2-41xUB-akuUD*WeYiqFrIUfKYHZlDsZpGmcnXpXE7Fy*TcESEfjybkIOf7*hSO7O4aEVParSXOL9*suX7-0NHDc&new=1)
+ ## [中国台湾省大佬，站在了无人驾驶最顶端?](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=xd1ZTlyXgsrXYx9BPsYtJ-b2hxW48kDqOi0iNkZU2-4x7JG-VYNLbYP4cL4N8PS-eOWRrIEhf13AnDQAEKQSv1-uNr0viqKScIePfn6hX7y*LKxIG7iqDPIE3tMxlm9m&new=1)
  > 文/腾马丁博士车图腾出品，转载请注明出处● ● ●过去，决定一台汽车性能的是输出动力的发动机，那么未来的智能汽车，决定其性能的将是输出计算能力的“数字发动机”——车载AI芯片。这是因为，汽车的本质，变...
- ## [是谁非要杀死Flash?](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=vEu3lV6Xj6OtcM936UtBFC7j95w4DRkciaQwX-4izC4LBBBQsszwH9BJDrOncB02TpgpDzWdTz2P71tQR*2fdz0DnbGXImPuT0iRIJlbWk3lIMS4-r2TAirH*DyFBUly&new=1)
+ ## [是谁非要杀死Flash?](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=vEu3lV6Xj6OtcM936UtBFC7j95w4DRkciaQwX-4izC4nnMWpb5B0PV-guSxe08sUnuri8LE9JNYVO0VCrrzwVCCOYxPGf1Okkn0HH*YVwRnc5nkpV-z48tVGeudacJNA&new=1)
  > 微软早在去年底就宣布，会在下次Win10系统更新后将Flash强制删除，让他静悄悄的离开。然而2021年刚过没几天，大连铁路系统就因Flash停用而几乎瘫痪，历经20多个小时的抢修，将Flash降级到旧版后才终于解决，算是...
- ## [建设中国“好5G”，持续保持全球领先!](http://mp.weixin.qq.com/s?src=11&timestamp=1611376204&ver=2845&signature=4-GgduQvfLdgr243iJfqCVWDdFnKqSzNBt52VtMtSJ9hNx5FTby97fMW2USNCMO53iEc4okRoCjALVXbEv5k7TrJ0hSgvMHYdWsV5bYAAwwRqxXzDEppCC1vyUhYeN2E&new=1)
+ ## [建设中国“好5G”，持续保持全球领先!](http://mp.weixin.qq.com/s?src=11&timestamp=1611392405&ver=2845&signature=4-GgduQvfLdgr243iJfqCVWDdFnKqSzNBt52VtMtSJ8EjjXgZj8diiokOs3voWvTvvBnzU0gxZFUBQmgoudsWa*7tNCqzaF4aKFzPDC2OMF7pBzotpaDtJV5n-Wtd1ke&new=1)
  > 2020年中国建成70多万个5G基站，已经是全球第一，2021年中国5G网络与业务如何持续领先全球，2020年底和2021年初，笔者与多位运营商以及设备商等通信行业朋友交流，聊得最多的是，中国5G如何继续领先全球、2021年...
 # IT 技术 
  ## [值得应用开发者关注的八大增强现实工具包](http://mobile.51cto.com/ahot-642222.htm)
@@ -41,8 +43,16 @@ categories: IT NEWS
  > 用鸿蒙开发AI应用（五）HDF 驱动补光灯
  ## [熊孩子乱敲键盘攻破Linux桌面，大神：17年前我就警告过了](http://news.51cto.com/art/202101/642168.htm)
  > 熊孩子乱敲键盘攻破Linux桌面，大神：17年前我就警告过了
- ## [实战微课-5分钟学习软考系统集成项目管理工程师考什么](http://fellow.51cto.com/art/202012/635759.htm?qd=51ctojrzd)
- > 实战微课-5分钟学习软考系统集成项目管理工程师考什么
+ ## [测试工程师linux技能全程实战-小强测试](http://fellow.51cto.com/art/202012/635762.htm?qd=51ctojrzd)
+ > 测试工程师linux技能全程实战-小强测试
+ ## [Btrfs 和 LVM-ext4 该如何选择？](http://os.51cto.com/art/202101/642474.htm)
+ > Fedora 33在其各类桌面版本中引入了新的默认文件系统Btrfs。多年以来，Fedora一直在 逻辑卷管理卷之上使用e
+ ## [杀熟只是个开始，大数据违法成本过低](http://bigdata.51cto.com/art/202101/642473.htm)
+ > 爆炸性增长的数据带来了价值增长地带，合理利用数据诚然可以提升企业运行效率。但是大数据这把双刃剑向内的
+ ## [Go语言操作MySQL语言基础知识](http://database.51cto.com/art/202101/642472.htm)
+ > 本次主要讲述了Go如何操作Mysql，如何进行增删改查，最后还讲了以下什么是事物，如何操作事物。
+ ## [【建议收藏】面试官会的位运算奇淫技巧](http://developer.51cto.com/art/202101/642471.htm)
+ > 本篇的内容为位运算的介绍和一些比较经典的位运算问题进行介绍分析，当然，位运算这么牛，后面肯定还是要归
  ## [投资诈骗犯以约会软件的用户为目标进行攻击](http://netsecurity.51cto.com/art/202101/642469.htm)
  > 像 Tinder、Match和Bumble等约会应用软件的用户，要十分警惕投资诈骗犯罪分子。
  ## [Windows RpcEptMapper 服务注册表权限配置不当导致本地提权](http://os.51cto.com/art/202101/642466.htm)
