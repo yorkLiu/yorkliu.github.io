@@ -1,21 +1,21 @@
 ---
 title: 2021-01-24 IT News
 copyright: true
-date: 2021-01-24 08:11:16
+date: 2021-01-24 09:06:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“疫情之危”变为“转型之机” IT影响中国2020中国云计算市场发展报告](http://mp.weixin.qq.com/s?src=11&timestamp=1611446404&ver=2847&signature=mZvNE42o0G4WxggtqiU91yQ4AW-aXY5phDtfD*1lJeLGmKNXrEV5naCbz2hRT0422R9YlFPaIIUpwMv4eNsYPsZKQ7wRq8o8IHlDXVd0f29kN4KgBtWcUusCfKbD1yMO&new=1)
- > 在2020年度第十九届IT影响中国活动期间，作为行业盛典的重要组成部分，天极网与比特网联合发布了《2020中国云计算市场发展报告》。自2002年创办以来，“IT影响中国”始终关注中国ICT产业风向、国民消费热点与科...
- ## [5G+4K/8K+VR，这样的“尖叫之夜”请多来几场](http://mp.weixin.qq.com/s?src=11&timestamp=1611446404&ver=2847&signature=a7E4iqIBAflTDiR6ZRNTMtoay6iw4II8dyQjXwXH2YIp4Z3gf-47wqTe8vyJcVS8y4lXSToOzi9wJv9t9nJRDuTXZlOLKuhZMo9KHWtukQgNmKywGDcSbK7lKGddvQ-r&new=1)
- > 1月15日，2021年爱奇艺“尖叫之夜”揭开面纱。用手机打开爱奇艺APP看到的晚会，是由一个主视觉、三个可切换场景构成的多机位高清视频直播。观众仿佛坐进了导播间，可以看到舞台、后台区、等候区、戏剧区。2020年...
- ## [牛聘|2020年度岗位招聘第17期](http://mp.weixin.qq.com/s?src=11&timestamp=1611446404&ver=2847&signature=cxFqDHFnHAIqfNCI*oHiXGhD8afaInlkQztlVM9a7cGP-gggEJo8aXdGyvedwEvvT4o03tXFBYlzelEDVayi0s0IQY9CqxeKQ1kVowcC5y9Xtjam3SCMW9iics6d8xie&new=1)
- > 牛聘是安全牛旗下的垂直招聘平台，为了帮助安全牛会员企业更好的解决用人的需求，牛聘每周六陆续发布会员企业的招聘信息，发布顺序根据会员企业招聘信息提交时间和用人紧迫程度综合而定，本次发布2020年度岗位招...
- ## [快讯!中联通总部领导班子分工再有重大调整](http://mp.weixin.qq.com/s?src=11&timestamp=1611446404&ver=2847&signature=R9n44zVxfmdNf5NrDHU9bS85b*qoAzOyxZA7PjCPgpHUz4gMVi2r6TzIrKfWddu9N9nOMblFCYmtJSRGl4llOS1dE2TjKJDfcoVJwAGc9RKo9hQCHI4Wkc9B1LejKzAj&new=1)
- > 据悉，在中国联通集团新任总经理到位之后，领导班子成员的具体分工又做了重新明确和调整。其中，变化最大的是公众市场线的工作，将由何飚副总经理分管。根据分工，何飚分管市场部、客服服务部、数字化部（信息安...
- ## [单季盈利16.55亿背后：中兴通讯做了三个正确选择](http://mp.weixin.qq.com/s?src=11&timestamp=1611446404&ver=2847&signature=pBj7t6J-uPAs3uTsImLEeU8utbHUxbAZQAhjCBiknNgo9eq3l3W7vimT0U5fLTh80fgOa5fcMD25ozO-7D9l6YuHxDqVC9eL36*3Duxx2QX9pimtGnuCYOXdf5M6dz3S&new=1)
+ ## [单季盈利16.55亿背后：中兴通讯做了三个正确选择](http://mp.weixin.qq.com/s?src=11&timestamp=1611450005&ver=2847&signature=pBj7t6J-uPAs3uTsImLEeU8utbHUxbAZQAhjCBiknNggoteQFWyF7Tev0JXHaKAqDbZzMHPS5syn8pi12MiQVaQo4p2SeS1FTwCrQlnGCjfXGmVQFwNPtSG1ZUcdzd3K&new=1)
  > 1月22日晚间，中兴通讯发布了2020年度业绩快报。报告显示，2020年实现营收1013.79亿元，同比增长11.73%；净利润43.67亿元，同比减少15.18%，这是由于2019年Q3计入资产处置一次性税前收益26.62亿元所致。其中，
+ ## [“疫情之危”变为“转型之机” IT影响中国2020中国云计算市场发展报告](http://mp.weixin.qq.com/s?src=11&timestamp=1611450005&ver=2847&signature=mZvNE42o0G4WxggtqiU91yQ4AW-aXY5phDtfD*1lJeIyyZc2mca51dz4Iliga1el*32MaPswh39dzRA1sj7wXTLUqiOyR6zdofUecCH-XUH46nlHGm2IMvmoiGrcUsOl&new=1)
+ > 在2020年度第十九届IT影响中国活动期间，作为行业盛典的重要组成部分，天极网与比特网联合发布了《2020中国云计算市场发展报告》。自2002年创办以来，“IT影响中国”始终关注中国ICT产业风向、国民消费热点与科...
+ ## [快讯!中联通总部领导班子分工再有重大调整](http://mp.weixin.qq.com/s?src=11&timestamp=1611450005&ver=2847&signature=R9n44zVxfmdNf5NrDHU9bS85b*qoAzOyxZA7PjCPgpG-ZnHGpF743uAbKJXx5VFhAXeP5Q8**JJUxyZM8bBDMKEm48z16Ss49Ie9bOyM0jrMLwCSLmuQi-K6iqTDxfB9&new=1)
+ > 据悉，在中国联通集团新任总经理到位之后，领导班子成员的具体分工又做了重新明确和调整。其中，变化最大的是公众市场线的工作，将由何飚副总经理分管。根据分工，何飚分管市场部、客服服务部、数字化部（信息安...
+ ## [牛聘|2020年度岗位招聘第17期](http://mp.weixin.qq.com/s?src=11&timestamp=1611450005&ver=2847&signature=cxFqDHFnHAIqfNCI*oHiXGhD8afaInlkQztlVM9a7cFAJFY5UzDR9EAxPaD*STCiciRA8S1vK8IajHO1qH1aC7Fv1qA5xqjiOAbzI7aS4u8zomGFYhTw-2bR90bV5Plr&new=1)
+ > 牛聘是安全牛旗下的垂直招聘平台，为了帮助安全牛会员企业更好的解决用人的需求，牛聘每周六陆续发布会员企业的招聘信息，发布顺序根据会员企业招聘信息提交时间和用人紧迫程度综合而定，本次发布2020年度岗位招...
+ ## [5G+4K/8K+VR，这样的“尖叫之夜”请多来几场](http://mp.weixin.qq.com/s?src=11&timestamp=1611450005&ver=2847&signature=a7E4iqIBAflTDiR6ZRNTMtoay6iw4II8dyQjXwXH2YItCd4OyUw78vgw4ezVT8RQvWO4M7XFc8qV7pidgEVY8O1vYmkCtI48xChlZKHBpby3T0MqpuAB7uoyM3-dD90z&new=1)
+ > 1月15日，2021年爱奇艺“尖叫之夜”揭开面纱。用手机打开爱奇艺APP看到的晚会，是由一个主视觉、三个可切换场景构成的多机位高清视频直播。观众仿佛坐进了导播间，可以看到舞台、后台区、等候区、戏剧区。2020年...
 # IT 技术 
  ## [值得应用开发者关注的八大增强现实工具包](http://mobile.51cto.com/ahot-642222.htm)
  > 值得应用开发者关注的八大增强现实工具包
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 用鸿蒙开发AI应用（五）HDF 驱动补光灯
  ## [熊孩子乱敲键盘攻破Linux桌面，大神：17年前我就警告过了](http://news.51cto.com/art/202101/642168.htm)
  > 熊孩子乱敲键盘攻破Linux桌面，大神：17年前我就警告过了
- ## [Oracle存储结构深入分析与管理_Oracle视频教程_基础深入与核心技术03](http://fellow.51cto.com/art/202101/638497.htm?qd=51ctojrzd)
- > Oracle存储结构深入分析与管理_Oracle视频教程_基础深入与核心技术03
+ ## [Lumia 950 XL 被移植运行 Windows 10X ：界面 UX 自适应，全新操作 / 通知中心](http://os.51cto.com/art/202101/642534.htm)
+ > IT之家 1 月 24 日消息 外媒 Windows Latest 报道，微软对 Windows 未来的愿景是为所有形态因素设计操作系
  ## [前端: 如何让你的Table组件无限可能](http://developer.51cto.com/art/202101/642533.htm)
  > 在管理后台中我们会使用大量的表格表单组件, 导入导出各种报表, 有些场景还需要对报表数据进行可视化分析,
  ## [GitHub下载神器，被下架后又复活](https://blog.csdn.net/weixin_39787242/article/details/112999156)
@@ -55,16 +55,16 @@ categories: IT NEWS
  > 极客日报第 54 期：腾讯、火绒分别回应关于“QQ 读取浏览器历史记录；俄罗斯加密交易所遭黑客攻击关闭；华为商城全面下架荣耀产品；
  ## [官宣！前微软研发经理邹欣加入 CSDN 担任副总裁，CSDN 重磅招揽一流人才](https://blog.csdn.net/csdnnews/article/details/112915663)
  > 
- ## [一个快速实现彩屏应用的跨平台快速原型开发工具平台，最重要的是还免费！8ms.xyz平台原以为是单片机版墨刀，今天上去玩了才知道平台厉害的很，基于WEB端免搭建开发环境，跑的还是C代码编译出来的程序！](https://blog.csdn.net/ami82/article/details/109581392)
- > 一个快速实现彩屏应用的跨平台快速原型开发工具平台，最重要的是还免费！8ms.xyz平台原以为是单片机版墨刀，今天上去玩了才知道平台厉害的很，基于WEB端免搭建开发环境，跑的还是C代码编译出来的程序！
- ## [⭐ 李宏毅2020机器学习资料汇总](https://blog.csdn.net/iteapoy/article/details/105382315)
- > 
+ ## [C语言题库](https://blog.csdn.net/qq_27248989/article/details/94395853)
+ > C语言题库
+ ## [R语言混合正态分布极大似然估计和EM算法](https://blog.csdn.net/qq_19600291/article/details/105801484)
+ > R语言混合正态分布极大似然估计和EM算法
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [大牛都会用的IDEA调试技巧！！！](https://blog.csdn.net/qq_34162294/article/details/105260153)
- > 大牛都会用的IDEA调试技巧！！！
- ## [python实现UI界面化图书管理系统](https://blog.csdn.net/W666097/article/details/110782009)
- > python实现UI界面化图书管理系统
+ ## [MR开发高级教程](https://blog.csdn.net/ShanGuUncle/article/details/108880234)
+ > MR开发高级教程
+ ## [kaggle竞赛 使用TPU对104种花朵进行分类 第十八次尝试 99.9%准确率 中文注释【深度学习TPU+Keras+Tensorflow+EfficientNetB7】](https://blog.csdn.net/weixin_43124279/article/details/105977783)
+ > 
 # 人工智能 
  ## [龙泉寺贤超法师：用 AI 为古籍经书识别、断句、翻译](https://blog.csdn.net/HyperAI/article/details/112597905)
  > 龙泉寺贤超法师：用 AI 为古籍经书识别、断句、翻译
