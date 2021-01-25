@@ -1,38 +1,44 @@
 ---
 title: 2021-01-25 IT News
 copyright: true
-date: 2021-01-25 08:20:22
+date: 2021-01-25 09:39:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021年(深圳)3D打印行业新春交流会圆满结束](http://mp.weixin.qq.com/s?src=11&timestamp=1611532805&ver=2849&signature=QXXOODFtIhog*JjARcObCao-L4AqV6qinQpemY5Yux6m5Xx9J*cJak*0mKz5kTdOdtvONf7dRrNscKpkMxLDMU*O0WuUEKOyg7YntTM1JRH2DKKoRlbtl-bRznnSyoUt&new=1)
- > 2021年1月24日，由未知大陆与优锐科技联合主办的2021年(深圳)3D打印行业新春交流会在深圳市3D打印产业园成功举办。参会的代表包括：东莞慧瓷科技、千悟创意、广州赛隆、众远新材料、二乘三科技、盈普TPM3D、广东...
- ## [大出行专栏|智能交通、智能出行的底层载体，是智能移动空间](http://mp.weixin.qq.com/s?src=11&timestamp=1611532805&ver=2849&signature=3qEUtiaavK2-BkwxlsgoY79zTIMXRbHaZeFzznCm5XDN9DRGppeBichuXWHAl*emDDJiDJ*8tDGz45XPY40VR7Dol*1-*x11liZY*rSY6BEkxCPNqI7UOyeNabw2f2ng&new=1)
+ ## [大出行专栏|智能交通、智能出行的底层载体，是智能移动空间](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=3qEUtiaavK2-BkwxlsgoY79zTIMXRbHaZeFzznCm5XDN9DRGppeBichuXWHAl*em6gtDPB5GhaWYnVHVL5vQ0xXbEaHI4bftxyh5oRWAdsKld0YHQnm8fzzyQude0NVn&new=1)
  > 从交通工具到万物互联的节点，“汽车”正迎来百年未有之大变局作者：杨起森    编辑：张一由油到“电”，不仅是动力系统迈入了新世界，汽车本身所扮演的角色，在向新四化进军的过程中，也正逐渐变得前所未有的不...
- ## [“断卡”行动严厉打击!多名运营商“内鬼”被抓获……](http://mp.weixin.qq.com/s?src=11&timestamp=1611532805&ver=2849&signature=NDDGekJ6asCJo9bYsclEVrbuFe-WxmII33wY*DeHcXebKnpQRrwZ5hk5F-kzqtipBCMFeBn4Q4J51Jhcbg30ezS3YvaP7KkgPKRdKG-OMxISL*oAU8pPHOOGP5pDL1-j&new=1)
+ ## [7点见|百度APP就郑爽父亲道歉视频摆logo致歉；IBM回应中国研究院关闭](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=pYXSix6bP1AsymLl*0hBPKiHGgE7L1ynb6gw6THoyNGV*Er9cGxb3AAqtKKxJkMn-m6KqynK5Z1czwf4Qj5iedfop2oXdYC5no7D0Fic4j2VlRJgWAR6atoxOVzbaLdA&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！百度APP就郑爽父亲道歉视频摆logo致歉：不涉及经济行为，诚恳接受批 评24日，百度App发文就此前在“郑爽父亲道歉视频”摆放平台logo一事致歉。百度App表示，经很多网友...
+ ## [讯石直播|新华三王雪：打造灵活稳定的高速光互联网络](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=MKLgsDV2qaa*puXIgEqAQRbVXyuiSnrUlPa*GGrq5wjxugAR*JjzihQJOreJOjA96oJpb6sWh4kws50kh7JJ7abWaEj*NQR-GXjrL7OiAJnVChaH-9HMg4Yy3h2qRtCA&new=1)
+ > 新 闻 导 读在讯石直播间，新华三集团光模块资深技术专家王雪发表《打造灵活稳定的高速光互联网络》精彩报告，从新华三的角度对2020年各速率光模块的应用进行总结并对未来光模块的演进、应用方向进行了展望。ICC...
+ ## [“断卡”行动严厉打击!多名运营商“内鬼”被抓获……](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=NDDGekJ6asCJo9bYsclEVrbuFe-WxmII33wY*DeHcXebKnpQRrwZ5hk5F-kzqtipdnE5j9s9R9SuDm5ztN5BXPpXfXlHIatKuW3iw1J4ybyVg2mpjCN3oCYoAdv8aCVb&new=1)
  > “断卡”行动中挖出通信运营商“内鬼”，9人被刑拘为严厉整治涉“两卡”违法犯罪活动，坚决遏制电信网络诈骗犯罪高发态势，“断卡”行动开展以来，惠州惠东公安反诈中心高度重视、积极响应、精心组织，在市反诈...
- ## [\[C114周报\]三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿](http://mp.weixin.qq.com/s?src=11&timestamp=1611532805&ver=2849&signature=byzVKFFjiu*U1TrxXjUv6nKFu7BIpbiIiDFuJUl26ENCaFvA03goyXfrztOsCJeVJad4l2npODTxeUGoJ3hmlDmtNoF*-yNilqV3lFnxYcoaYChrVHdJThRc2pd8YsOP&new=1)
+ ## [\[报告\]2021智能驾驶产业深度研究(附74页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=C4xr0hRS2bRrBNCIjLQNg6ehpXUBTyd**00xhtI4-9HK10LdNfp8Ch7oaveCwfPXVljqXF-TZfutbQAnxRe1zedgpix1IPedjYhx9bZyE5mbOdBIM3-0j*xLjQgWpB0E&new=1)
+ > 智能驾驶大时代，汽车变革新未来。汽车软硬件以及内部架构、行业竞争格局、产业链价值分配也将发生深远变化。在此变革浪潮下，我们认为智能驾驶将相继历经辅助驾驶渗透率提升、自动驾驶方案成熟、自动驾驶生态完...
+ ## [2021年(深圳)3D打印行业新春交流会圆满结束](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=QXXOODFtIhog*JjARcObCao-L4AqV6qinQpemY5Yux6m5Xx9J*cJak*0mKz5kTdOafyaaxQwrl4GnYXgpsJPPWEMnWbr2Ay4pcNIQcOVXcmPBAi1xdfk8KqpdgBiVyQ5&new=1)
+ > 2021年1月24日，由未知大陆与优锐科技联合主办的2021年(深圳)3D打印行业新春交流会在深圳市3D打印产业园成功举办。参会的代表包括：东莞慧瓷科技、千悟创意、广州赛隆、众远新材料、二乘三科技、盈普TPM3D、广东...
+ ## [\[C114周报\]三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=byzVKFFjiu*U1TrxXjUv6nKFu7BIpbiIiDFuJUl26ENCaFvA03goyXfrztOsCJeVh7qFrzjL2Kb7QPQ8zix5-QfgVKGCxst*I7ZCNcxqH2Fv594JbI7RWpu-t0ZcSmvA&new=1)
  > 周报WEEKLY本周热点有三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿• 第125期 •三大运营商2020成绩单1月21日三大运营商相继发布了12月份运营数据报告。至此，三大运营商202...
- ## [万瓦激光焊接原理及优势解析](http://mp.weixin.qq.com/s?src=11&timestamp=1611532805&ver=2849&signature=v0BnMHsOhUtzAuvw5rcX9RR11tYRUNJIcZiuVtSoCvMqHt-T*Hj69YDRvYlb8zf51qhRrfD6yfGWw*suZGZHVtDjIay*9FRAyknAIXzkfZ9uRdahgQtRnkYVJKty7XHM&new=1)
+ ## [万瓦激光焊接原理及优势解析](http://mp.weixin.qq.com/s?src=11&timestamp=1611538204&ver=2849&signature=v0BnMHsOhUtzAuvw5rcX9RR11tYRUNJIcZiuVtSoCvMqHt-T*Hj69YDRvYlb8zf5HmhxjtM-PnteeQCcHPmmJtxrU8rXq3rEW093mEjN871TUSsKT0eH6tZnhMLHE8Kg&new=1)
  > 来源：创鑫激光往期热点推荐（点击链接阅读）☞红外飞秒激光 解决玻璃焊接难题☞激光通信新动向 “轨道系统”项目启动☞中久光电产业研究院揭牌☞ASML营收140亿欧 EUV增长60%☞创鑫万瓦全面开放 共破厚板焊接工...
 # IT 技术 
+ ## [郑爽张恒反目内幕：一个APP引发的血案](http://developer.51cto.com/art/202101/642555.htm)
+ > 郑爽张恒反目内幕：一个APP引发的血案
  ## [千万不要在您的系统上运行的那些Linux命令](http://os.51cto.com/art/202101/642409.htm)
  > 千万不要在您的系统上运行的那些Linux命令
  ## [阿里技术Leader是如何带兵打仗的？](http://news.51cto.com/art/202101/642554.htm)
  > 阿里技术Leader是如何带兵打仗的？
  ## [为什么要从Druid迁移到ClickHouse？](http://developer.51cto.com/art/202101/642553.htm)
  > 为什么要从Druid迁移到ClickHouse？
+ ## [如何应对部署机器学习模型的挑战](http://ai.51cto.com/art/202101/642410.htm)
+ > 如何应对部署机器学习模型的挑战
  ## [值得应用开发者关注的八大增强现实工具包](http://mobile.51cto.com/ahot-642222.htm)
  > 值得应用开发者关注的八大增强现实工具包
  ## [试用期没过，因在公司上了1024网站...](http://netsecurity.51cto.com/art/202101/642291.htm)
  > 试用期没过，因在公司上了1024网站...
- ## [揭开2021年云计算十大误区的神秘面纱](http://cloud.51cto.com/art/202101/642221.htm)
- > 揭开2021年云计算十大误区的神秘面纱
- ## [程序员美女说：建模一点都不难！做3D模型，这一步才是最难的](http://news.51cto.com/art/202101/642353.htm)
- > 程序员美女说：建模一点都不难！做3D模型，这一步才是最难的
- ## [Java基础与框架全套视频第一部](http://fellow.51cto.com/art/202012/635522.htm?qd=51ctojrzd)
- > Java基础与框架全套视频第一部
+ ## [PHP零基础入门视频课程](http://fellow.51cto.com/art/202101/640709.htm?qd=51ctojrzd)
+ > PHP零基础入门视频课程
  ## [微软Windows10 21H1版本服务体验包更新与Build19043已现身系统说明](http://os.51cto.com/art/202101/642613.htm)
  > 1月25日消息 外媒 Windows Latest 报道，根据此前报道，微软 Windows 10 的 21H1 更新将是小的服务体验包，
  ## [爆料:微软 Windows10 黑暗主题组件界面将更加统一和谐](http://os.51cto.com/art/202101/642610.htm)
