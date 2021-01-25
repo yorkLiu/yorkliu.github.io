@@ -1,35 +1,51 @@
 ---
 title: 2021-01-25 IT News
 copyright: true
-date: 2021-01-25 12:08:26
+date: 2021-01-25 17:25:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [经开区农房确权智慧监管平台 上线试运行](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=k79JncoFQ8SF1RJdXiNQZW1ti5wxf-Tx4NmXPBzhA84B0nwrv2Li15mgZkULaXGaViHAI5uqkgc6Ldz-mlrZ3wKlPKW4Sz2bejeF93JFW1s=&new=1)
- > 本报讯 1月22日，作为贵阳首个用于农房确权监管的大数据平台，经开区农房确权智慧监管平台上线试运行。　　据介绍，经开区农房确权智慧监管平台的建设，是经开区党工委2019年第二轮巡察时对经开区房屋征收中...
- ## [IBM 中国研究院全面关闭；6 亿条个人信息泄露，非法获利 800 万；华为聘请前巴西总统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=UzjxOga2OTojkpmidqbU6iT36QDHFDj9g8cUD9DGSNlRAwr-8xVJEWPfUGZKMBhMn6fDIYaN35evGqK6RHXkN6MQ5UyK5PxhRKBn7L5FNWaQ5ZWyTA8G-ZCVbCMWygLG&new=1)
- > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [讯石直播|新华三王雪：打造灵活稳定的高速光互联网络](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=MKLgsDV2qaa*puXIgEqAQRbVXyuiSnrUlPa*GGrq5wjV2QrmdmUfPXBb8dw38Lyy5rxCe0Dd4xh4wsmsCBDVJfQcSjQBCMq5ynHCfkb7HpUSf19khNipgNq*MiMKnHbR&new=1)
- > 新 闻 导 读在讯石直播间，新华三集团光模块资深技术专家王雪发表《打造灵活稳定的高速光互联网络》精彩报告，从新华三的角度对2020年各速率光模块的应用进行总结并对未来光模块的演进、应用方向进行了展望。ICC...
- ## [漏洞风险报告：思科SD-WAN命令注入漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=Z1YfbeAohV321XUuvXUb9yrLMiVm5sGC-*Ntey3ywco-NVph5KodRu9H4dNvnEaf90moreNixVU7teh1HrU9boo7epogFxTy0G-gnHOFgDqh86mQNn0juw-lp6r6v4Ky&new=1)
+ ## [这是数字经济的下一个赛道→](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=5qHNdhkKfseyxgr8zayhADwGH4Znj38-zqhIBF*r0c6e0ccu-9ViwrCOPz*YH9tZEYbgt*beJeR3L14LhuZyrztp9BUeraJPzeZwyVAdTRxmJrhmH4EkKElsLUSSQcXM&new=1)
+ > ◆ 有专家认为：算力有望替代热力、电力，成为拉动数字经济向前发展的新动能、新引擎◆ 模式粗放仍是我国以算力驱动数字经济发展的主要态势来源丨瞭望智库　　据中国信息通信研究院测算，从2012年至2019年，中国...
+ ## [如何复制 200 万个小文件，而且电脑不卡?](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=Y9bdjIrjFU2iW3pJYq4Jt-TM7Bli0vch4tnnApOYnFEK0ZewvxIJYqiMVQbUhXQGmKqIVhNYWX-qiYbTDfHbHm9jR8jxS4Fz5fl7ImSoUyFChhMuMy-lh-3rT7Jsho0U&new=1)
+ > 来自问题频道 @bulog 同学的问题，原标题是：Windows系统，单个文件夹下根目录文件有超过200w，如何复制到另外一个电脑上？Windows 系统，其中有个文件夹，此文件夹下面大概有 200 多万个图片文件，请问如何复制...
+ ## [万维网之父 65 岁创业，原因与你我都有关](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=c3TA4AsbUfok9LZRR6hbxHzUf*y8qlMex3QLvcbPgH6uH5aYN86Ay0RpqIbmybShJoup3mddPS2t*5WpWTHIapbAnjZOWEs41TZNcBKCggrcA5kPC7SOpMrSDkPMH3vT&new=1)
+ > 数据是新的石油，使用石油要付费，那么使用数据呢？如今人们过着丰富多彩的网络生活，可能要感谢一个人——Tim Berners-Lee。他在 30 年前「发明」了万维网。要是没有他，我们现在可能还没办法网购、点外卖、叫...
+ ## [只用CPU开发自动驾驶轮船，他们居然做到了](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=VN9HXdGKHcAH3SOaEMq3mGt1yooYX1sk7KPt8InQisjI0DshYOpHuPltaFjiMnm8cHBrpivvmfACU1Xzg3BeAFEa32*lSoxVliM4NF6NUu1dAs1pjGYcj90GuvIpriBG&new=1)
+ > 晓查 发自 凹非寺 量子位 报道 | 公众号 QbitAI有件事情一直令我感到好奇：都2021年了，现在有自动驾驶船在海上行驶吗？带着这个问题，我打开谷歌，输入“Autonomous ship”，没想到现在的自动驾驶轮船技术刷新...
+ ## [未知大陆第一届3D打印用户大会将于2021年9月10日举办](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=QXXOODFtIhog*JjARcObCao-L4AqV6qinQpemY5Yux6XF5kBNgFM6W1gmMGoH1WvpCn3fB-N49K2gCpFCM2tMyzExp5TkfbC7nSH0Arc2AUt4JcF*VgbPI5yVWA9Af6T&new=1)
+ > 2021年1月18日，全球领先的数字制造云平台未知大陆对外发布公告，将于2021年9月10日在深圳国际会展中心举办首届3D打印用户大会。3D打印作为最核心的数字制造技术，正在潜移默化地改变着传统制造业的设计、小批量...
+ ## [跨越鸿沟，IIoT 如何更融合与开放?](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=UzjxOga2OTojkpmidqbU6iT36QDHFDj9g8cUD9DGSNkVAVA90SkX-BsYixgEExyuoVwVX1PoPP*SNTG4GES3V8NQRg-J3xA2*QQXQnEEeA19vfYV4VtHmlPRLz03HIvY&new=1)
+ > 整理 | 伍杏玲出品 | CSDN（ID：CSDNnews）面对 2020 年突如其来的疫情影响，众多工业企业面临供应链、停产等挑战，如何在全新一年寻找安全和高效的工作方式？工业物联网可连接工业资源、数据和系统，灵活配置工...
+ ## [篇幅达2840页、目录就有31页，这位华人小哥的博士论文堪比教材](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=SLOaTrHGSXGsqN1AMYXTumwnuo*OnvtwWX2-4A88E49ykyMbuUQMQS6JLdrA8OkLsZi1hzUSxUr4XLyAcWnd5TWuGTtbpVxAm9uHk0dHlNV155e8U34oiBdeBbOvrAbU&new=1)
+ > 机器之心报道作者：杜伟、陈萍一篇长达 2840 页的博士论文，都是关于矩阵理论的，可以当教材了。一篇论文的篇幅竟然多达数千页，比很多教材都要厚，这简直无法想象。不过，学术界的「能人异士」层出不穷，德州大...
+ ## [谷歌欲在澳大利亚撤出搜索引擎；马斯克奖励碳捕捉技术1亿美元|前沿科技周报](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=vAMVHWRw0qpAFhVMRLhwKxgnPL0ND5tqPk63liTja*o*xY7sHdoMKBNEjrcTL55z5TIkD1-wyl0XctaPgSgSCKMog2ckxo0tuiYfy11N9CvODA8PBLARKlQG*CftIE4o&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作Hello大家好！硅谷前沿科技周报又跟大家见面了。上周科技界又发生了哪些大事呢？让小探带你来看看吧~在大公司方面，谷歌因不满澳大利亚新规而欲撤出其搜索引擎 ；马斯...
+ ## [阿里“平头哥”移植安卓，Risc-V会在中国替代ARM吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611565204&ver=2849&signature=nl7NnYZ33svfSW2ZYOmha4NjTyo605Tl9Fa8BIA*QRoMDJ0jWWjX4vTpfLKvStwNNuKe7AP3-tAh79NX8W*sMAwM5IxtOXYsSpDb46Af*eniqeFgOGZckPlipduuMocG&new=1)
+ > 文/DoNews专栏作者 maomaobear图/IC Photo日前，阿里巴巴旗下的平头哥半导体(T-Head)向社会公开已经成功将Android 10移植到自己的RISC-V芯片上，并且开源了全部的相关代码，这对于平头哥半导体来说是一次
+ ## [一个短片，一起来看](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=6PUsVHBeLyYs3IN0DTjy4JbxwmoiAof4oGatLcdNsbXFTORNu3zLrI0Iw1AetYcyVzu23t0aN0RK*m6Tc2L-iXghNYRPO9f28VafZ1lzBf*NJbykJK2alxF7ElbT4xX-&new=1)
+ > 2022年，冬奥会、冬残奥会将在北京举办。作为北京2022年冬奥会和冬残奥会官方通信服务合作伙伴，中国联通最新发布了TVC宣传短片《5G赋能智慧冬奥》，展示了智慧焕新下，冰雪盛会的速度与激情。视频以一场冰球比...
+ ## [安全团队不可错过的七个云安全开源工具](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=*y-sIH-PJ0uGjSM9ICl1iTMje7PRJomyTj6bF4GHdWT*rREnOvVCa6NK0*Md2c-51itmJXhUQojdnY3uaZBdC2ulLPyJq4XTGfL*OgRbYSUZYPHEaV8aSpWgDOsgSN9j&new=1)
+ > 开源工具是网络安全团队武器库中必不可少的利器，在云计算普及的今天，虽然云安全厂商们大多提供了本机安全工具套件，但是随着云应用和云负载的不断增加，IT团队经常会发现云计算平台的安全开发、合规性和管理工...
+ ## [5G 上车很简单?汽车和手机可不一样](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=bGB3oOEVJ7Bh3-rllIaGU4usTzjuI7u8PFeRfUBl*3xE53oWwIJ3L9Yehm7Ij4siats9hUx3dJdqHfzQCFAsO*7BZjLRMunLOuLEs9L8NVUy9RYzxlByRcw-d0zYtDtS&new=1)
+ > 随着 5G 商用，5G 手机大规模上市，这项大带宽、低时延、广连接的通信技术开始走入寻常百姓家。5G 汽车也逐渐开始变成一个热点话题，越来越多的车企开始把 5G 通信功能纳入新车的配置表内。汽车 5G 和手机 5G 有...
+ ## [电子专业常用的17种软件，哪个是你的最爱?](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=JV-8nTbrO8lzMl4C7SI-vgSSxLDV-jUbcClo7osEbdOU9NuGdncEyeKjpqvafSDRHSpLLLRvzbcCmy5QkMzeA7AIVWwN1okBe9DVV4ApJiX2muyePIcQOwtR2YZv9x35&new=1)
+ > 要想了解电子工程专业用得比较多的软件有哪些，首先得了解一下电子工程专业相关的一些技术与行业应用分类。电子工程又称“弱电技术”或“信息技术”，其大致分类及起源学科如图1。电子工程的应用形式涵盖了电动...
+ ## [预告|2020-2021年中国云计算产业全景洞察研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=Q-X0HbYY-LQugEzf6anc-qsy4sUsMlbTR40P2wbmfVHyBb10J-VrIH0dZhXUvKokjIuH2s9E8Q5aYH1tL8SKLd2lU1Vh*ydCf*VbVhT0q1hACoKBEZxXJo9uhA1WF8tc&new=1)
+ > 云计算在中国12年发展迎来重大的商业抓手——数字化。云计算支撑数字化，数字化促进云计算深化，实现传统信息化到数字化的时代跳跃，云计算成为最坚实的桥梁。中国云计算市场发展开始深刻改变社会各个领域的形态...
+ ## [漏洞风险报告：思科SD-WAN命令注入漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=Z1YfbeAohV321XUuvXUb9yrLMiVm5sGC-*Ntey3ywcrlf4rTRVF0OTgU5PLJOXi7KOwENphW7YFnIOW3qFBXKWpwe49-TR85*2VHaAeV4TuRWs5JwEirLJBsbsugDZyO&new=1)
  > E安全1月25日讯 Cisco SD-WAN产品中的多个漏洞可能允许经过身份验证的攻击者对受影响的设备执行命令注入攻击，这可能允许攻击者利用设备上的root特权采取某些入侵操作。01、易受攻击的产品若这些漏洞正在运行易...
- ## [量产级AR光波导模组公司理湃光晶完成数千万元A轮融资，多维海拓担任独家财务顾问|多维交易](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=Af*87b9C0yXPiJz8qRh7Rpla46YCIuUFmoq*d5jSQXubLlMfbsyqYO-COGM1YqfHr2jukv1gxFxbuLX4OHDAVv1hW88eC6pRRPPQw-zrmLBqBdx*JD5dpmaitR6*VUQD&new=1)
+ ## [IBM 中国研究院全面关闭；6 亿条个人信息泄露，非法获利 800 万；华为聘请前巴西总统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=UzjxOga2OTojkpmidqbU6iT36QDHFDj9g8cUD9DGSNkJoKpynzxEIbcUAZpxh1Xc5WcU6UIxgWgu1no*Nzord3n2SdKQHW08e81VDtDlSlFsIduj-IaWuKkNxmsOqALf&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [经开区农房确权智慧监管平台 上线试运行](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=k79JncoFQ8SF1RJdXiNQZW1ti5wxf-Tx4NmXPBzhA85p0jHFrjUhWhwcEpk-fIfJThVWniMM4KQ*F4h8ZuS0hKkqHsXtShyYMF0BgRO95bk=&new=1)
+ > 本报讯 1月22日，作为贵阳首个用于农房确权监管的大数据平台，经开区农房确权智慧监管平台上线试运行。　　据介绍，经开区农房确权智慧监管平台的建设，是经开区党工委2019年第二轮巡察时对经开区房屋征收中...
+ ## [讯石直播|新华三王雪：打造灵活稳定的高速光互联网络](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=MKLgsDV2qaa*puXIgEqAQRbVXyuiSnrUlPa*GGrq5why16amvk1xXrGTf8Q-09lfEGYqFzdX-H9XwkVqe8Y5jj8Tzd4helYE-ydbXQqZKAe7JiSh1N936ZKkgjZynurv&new=1)
+ > 新 闻 导 读在讯石直播间，新华三集团光模块资深技术专家王雪发表《打造灵活稳定的高速光互联网络》精彩报告，从新华三的角度对2020年各速率光模块的应用进行总结并对未来光模块的演进、应用方向进行了展望。ICC...
+ ## [量产级AR光波导模组公司理湃光晶完成数千万元A轮融资，多维海拓担任独家财务顾问|多维交易](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=Af*87b9C0yXPiJz8qRh7Rpla46YCIuUFmoq*d5jSQXtj7G9iYFnvkiPDPcXBNT83ssDeLUBMfSQpl05hLK6GQJWrdbQRbl-Bgk9wSlualQay8dI0sbsjWRo8HW1Qc6Hw&new=1)
  > 2021年1月25日，多维海拓第1041期本文2022字，推荐阅读时间：5～6分钟近日，国内领先的量产级AR光波导模组公司理湃光晶宣布完成数千万元人民币A轮融资。本轮融资由云晖资本领投，凯风创投、上市公司天邑股份（30...
- ## [“断卡”行动严厉打击!多名运营商“内鬼”被抓获……](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=NDDGekJ6asCJo9bYsclEVrbuFe-WxmII33wY*DeHcXd80mkv2LFhFQo0pdCvJVWdZt7zOfvpm9EjqPmuG3gHL6wlfpIGn1NCgVASi7RJRNg5oyJPTdcaviq1vAEMuYGg&new=1)
+ ## [“断卡”行动严厉打击!多名运营商“内鬼”被抓获……](http://mp.weixin.qq.com/s?src=11&timestamp=1611565205&ver=2849&signature=NDDGekJ6asCJo9bYsclEVrbuFe-WxmII33wY*DeHcXf0bibJpZGqT-eHPyzjXCmjPmhgmQjM8xGKn8AdumZf5Gzj-WHB5hKPG2r7VHA9vPmDa09vnjPoQz1rPq7IArFb&new=1)
  > “断卡”行动中挖出通信运营商“内鬼”，9人被刑拘为严厉整治涉“两卡”违法犯罪活动，坚决遏制电信网络诈骗犯罪高发态势，“断卡”行动开展以来，惠州惠东公安反诈中心高度重视、积极响应、精心组织，在市反诈...
- ## [7点见|百度APP就郑爽父亲道歉视频摆logo致歉；IBM回应中国研究院关闭](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=pYXSix6bP1AsymLl*0hBPKiHGgE7L1ynb6gw6THoyNGYlvPG3IwhyE25r2eL6Z*0Sxbt9Kyps*YB9zZWucyZZDKVLi2koJXmvCUKDGajoBJ7vyYFbZP2wnqpGiKrt-Ot&new=1)
- > 各位小伙伴早上好呀！ 以下是今天的早报！百度APP就郑爽父亲道歉视频摆logo致歉：不涉及经济行为，诚恳接受批 评24日，百度App发文就此前在“郑爽父亲道歉视频”摆放平台logo一事致歉。百度App表示，经很多网友...
- ## [\[报告\]2021智能驾驶产业深度研究(附74页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=C4xr0hRS2bRrBNCIjLQNg6ehpXUBTyd**00xhtI4-9FiBq3CFmw-JC4NOCB11ovk2YkBix3wr0YEKYMrewsPOPEpeDtqQkudMN5oSrMPj8ZElv-VOwHlPUuFmxicgwIW&new=1)
- > 智能驾驶大时代，汽车变革新未来。汽车软硬件以及内部架构、行业竞争格局、产业链价值分配也将发生深远变化。在此变革浪潮下，我们认为智能驾驶将相继历经辅助驾驶渗透率提升、自动驾驶方案成熟、自动驾驶生态完...
- ## [大出行专栏|智能交通、智能出行的底层载体，是智能移动空间](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=3qEUtiaavK2-BkwxlsgoY79zTIMXRbHaZeFzznCm5XDmbt18G8eRENNCpY19G0DdbsJKlhQDiCUoqNcPIXxlu1phfBz27G4IDonLnesD0jb5zeT9tZEvuyWhpgvFUT1i&new=1)
- > 从交通工具到万物互联的节点，“汽车”正迎来百年未有之大变局作者：杨起森    编辑：张一由油到“电”，不仅是动力系统迈入了新世界，汽车本身所扮演的角色，在向新四化进军的过程中，也正逐渐变得前所未有的不...
- ## [2021年(深圳)3D打印行业新春交流会圆满结束](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=QXXOODFtIhog*JjARcObCao-L4AqV6qinQpemY5Yux4iSB5xqNYqfSNODYTLaa9HhA*YVQJbC4GLMSBSPO8GXz9*vQh-6SseZ3b8Izez7cdw0ndWIS6zHFsit3KSOcFb&new=1)
- > 2021年1月24日，由未知大陆与优锐科技联合主办的2021年(深圳)3D打印行业新春交流会在深圳市3D打印产业园成功举办。参会的代表包括：东莞慧瓷科技、千悟创意、广州赛隆、众远新材料、二乘三科技、盈普TPM3D、广东...
- ## [\[C114周报\]三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=byzVKFFjiu*U1TrxXjUv6nKFu7BIpbiIiDFuJUl26EOyV5Tqol*GX4LJjLFSwdeP8uvmcCcHJqXIrOtrhGuRTLz4kTFD827xhF6NOdGBOzWDMkUazecSQyC7Dk21t8Xc&new=1)
- > 周报WEEKLY本周热点有三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿• 第125期 •三大运营商2020成绩单1月21日三大运营商相继发布了12月份运营数据报告。至此，三大运营商202...
- ## [万瓦激光焊接原理及优势解析](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=v0BnMHsOhUtzAuvw5rcX9RR11tYRUNJIcZiuVtSoCvOnzSIjymapmyFEYkWM5r4HOepWJ7nj8cvjALbZRP3lQOoGgM*Pcy1Na1LiThr-NfFUzlQdP*JFJpuWsGPMdHpR&new=1)
- > 来源：创鑫激光往期热点推荐（点击链接阅读）☞红外飞秒激光 解决玻璃焊接难题☞激光通信新动向 “轨道系统”项目启动☞中久光电产业研究院揭牌☞ASML营收140亿欧 EUV增长60%☞创鑫万瓦全面开放 共破厚板焊接工...
 # IT 技术 
  ## [如何应对部署机器学习模型的挑战](http://ai.51cto.com/art/202101/642410.htm)
  > 如何应对部署机器学习模型的挑战
@@ -45,34 +61,34 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS三方件开发指南(6)-ActiveOhos_sqlite组件
  ## [郑爽张恒反目内幕：一个APP引发的血案](http://developer.51cto.com/art/202101/642555.htm)
  > 郑爽张恒反目内幕：一个APP引发的血案
- ## [Oracle数据库用户及权限管理_Oracle视频教程_基础深入与核心技术04](http://fellow.51cto.com/art/202012/637139.htm?qd=51ctojrzd)
- > Oracle数据库用户及权限管理_Oracle视频教程_基础深入与核心技术04
- ## [后疫情时代，5G基建投资效果如何？](http://network.51cto.com/art/202101/642649.htm)
- > 本文主要回顾后疫情时代5G投资的经济拉动效果并尝试给出后续的投资建议。
- ## [人工智能技术如何在药物开发中识别正确的药物成分](http://ai.51cto.com/art/202101/642647.htm)
- > 在采用数字技术时，制药行业的应用往往比较缓慢。迄今为止，很多制药厂商已经推迟了使用人工智能和机器学习
- ## [5G和卫星将满足更多物联网服务需求](http://network.51cto.com/art/202101/642646.htm)
- > LuxResearch预测，5G技术将成为一种统一的技术，能够解决多频段的使用情况，并且卫星将因应更多物联网服务
- ## [组织在2021年创建完美云计算战略的三大支柱](http://cloud.51cto.com/art/202101/642644.htm)
- > 云计算如今比以往任何时候都更加重要，尤其是在冠状病毒疫情期间，组织必须为此做好准备。
- ## [如何化解数字化和分析转型项目的风险](http://www.cioage.com/art/202101/642637.htm)
- > 尽管数字化和先进分析技术的好处已显而易见，但其往往也隐藏着风险。
- ## [提升服务器安全防护的七点建议](http://server.51cto.com/Operation-642631.htm)
- > IT技术可以说是一把双刃剑，为我们带来便捷的同时，也带来了威胁，网络安全问题就是其中之一。如今，随着黑
- ## [机器人革命是如何塑造城市生活方式的？](http://ai.51cto.com/art/202101/642629.htm)
- > 机器人是已经存在的智能城市生态系统的延伸。一些例子证明了这一点，比如自动送货机器人，像女佣一样帮你做
- ## [突发！网易一员工核酸检测阳性，全员居家隔离办公](http://news.51cto.com/art/202101/642634.htm)
- > 1 月 22 日，网传网易北京一员工核酸检测阳性。有记者向网易北京园区求证获悉，该员工为大兴天宫院确诊病例
- ## [用鸿蒙开发AI应用（六）UI篇](http://developer.51cto.com/art/202101/642388.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [人工智能觉醒了？亚马逊的人工智能不听人类指令，还发出渗人笑声](http://ai.51cto.com/art/202101/642621.htm)
- > 如果有一天人工智能太强大了，那么它们取代了人类怎么办？现阶段来看，我们还是不需要担心的，就好像科学家
+ ## [思科CCNA模拟器Packet Tracer 使用教程----【思科CCNA入门】送7.2版本](http://fellow.51cto.com/art/202012/635874.htm?qd=51ctojrzd)
+ > 思科CCNA模拟器Packet Tracer 使用教程----【思科CCNA入门】送7.2版本
+ ## [福布斯：14位技术专家预测，未来哪些行业将被AI颠覆？](http://news.51cto.com/art/202101/642703.htm)
+ > 未来，哪些行业将从人工智能中受益？14位技术专家对哪些行业和部门最终将从AI中受益最大进行了预测。
+ ## [人工智能会意识到自己犯错吗？](http://ai.51cto.com/art/202101/642698.htm)
+ > 1956年8月，10位科学家齐聚美国的达特茅斯学院，探讨如何用机器去模拟感知、推理、决策等人类智能，这被认
+ ## [工信部：2020年新建5G基站超60万个](http://network.51cto.com/art/202101/642697.htm)
+ > 据工信部统计，2020年，全国移动通信基站总数达931万个，全年净增90万个。其中4G基站总数达到575万个，城镇
+ ## [什么是比特币？](http://blockchain.51cto.com/art/202101/642696.htm)
+ > 比特币自 2008 年白皮书发布之日起，就获得了空前的关注，尤其是自从比特币有了第一笔交易，并在十年之内有
+ ## [2021年全国和各省市5G发展规划一览](http://network.51cto.com/art/202101/642695.htm)
+ > 经过2020一整年的发展，眼下我国5G已经取得初步成果。作为发展关键一年！2021年全国和地方5G规划又是怎样的
+ ## [信用上链，你的数据如何价值最大化？](http://blockchain.51cto.com/art/202101/642694.htm)
+ > 近日，北京市人民政府印发《关于加快推进北京市社会信用体系建设构建以信用为基础的新型监管机制三年行动计
+ ## [Research and Markets：2025年全球5G核心市场规模将达94.97亿美元](http://network.51cto.com/art/202101/642691.htm)
+ > 1月25日消息，外媒报道称，据市场研究机构Research and Markets预测，全球5G核心市场规模将从2
+ ## [Windows Terminal 将在下个版本提供设置 GUI](http://os.51cto.com/art/202101/642689.htm)
+ > 近日，微软的程序经理 Kayla Cinnamon 就在其社交平台上透露，计划在下一个 Windows Terminal Preview 版本
+ ## [2021了，Python开发者不容错过7个VS Code扩展](http://news.51cto.com/art/202101/642683.htm)
+ > 对于 Python 开发者来说，哪些 VS Code 扩展最值得推荐呢？开发者 Juan Cruz Martinez 列举了 2021 年最值
+ ## [微服务实现简单的分布式日志追踪](http://server.51cto.com/Micro-642688.htm)
+ > 最近想给项目添加一个简单的分布式请求跟踪功能，从前端发起请求到网关，再从网关调用 Spring Cloud 的微服
  ## [GitHub下载神器，被下架后又复活](https://blog.csdn.net/weixin_39787242/article/details/112999156)
  > GitHub下载神器，被下架后又复活
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
  > 要写码，又要做年终总结PPT？高效神器保住你的发际线
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
- > 【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！
+ ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
+ > 编程福利领取：Java知识体系详细总结(2021版)
  ## [国民度No.1，Python到底做了什么？](https://blog.csdn.net/CSDNedu/article/details/112860629)
  > 国民度No.1，Python到底做了什么？
  ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
