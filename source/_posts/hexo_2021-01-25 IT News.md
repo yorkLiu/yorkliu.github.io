@@ -1,56 +1,72 @@
 ---
 title: 2021-01-25 IT News
 copyright: true
-date: 2021-01-25 10:14:58
+date: 2021-01-25 12:08:26
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [大出行专栏|智能交通、智能出行的底层载体，是智能移动空间](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=3qEUtiaavK2-BkwxlsgoY79zTIMXRbHaZeFzznCm5XDmbt18G8eRENNCpY19G0DdUYM20HJh9p2q2fenNL9XC5duoUuLb8QSB52TQiG9gEQg1SNyrWG2ziW0x3FjO7Ci&new=1)
- > 从交通工具到万物互联的节点，“汽车”正迎来百年未有之大变局作者：杨起森    编辑：张一由油到“电”，不仅是动力系统迈入了新世界，汽车本身所扮演的角色，在向新四化进军的过程中，也正逐渐变得前所未有的不...
- ## [7点见|百度APP就郑爽父亲道歉视频摆logo致歉；IBM回应中国研究院关闭](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=pYXSix6bP1AsymLl*0hBPKiHGgE7L1ynb6gw6THoyNGYlvPG3IwhyE25r2eL6Z*0Crr2dYtQEz5TMd9VF5o508onhDHn17gQoxDjuzTnGdALcldnE-HIB5SZLqUkispg&new=1)
- > 各位小伙伴早上好呀！ 以下是今天的早报！百度APP就郑爽父亲道歉视频摆logo致歉：不涉及经济行为，诚恳接受批 评24日，百度App发文就此前在“郑爽父亲道歉视频”摆放平台logo一事致歉。百度App表示，经很多网友...
- ## [讯石直播|新华三王雪：打造灵活稳定的高速光互联网络](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=MKLgsDV2qaa*puXIgEqAQRbVXyuiSnrUlPa*GGrq5wjV2QrmdmUfPXBb8dw38LyyuN3HuLfgWtGR2sTmOpLu5yydnH-E-gOGz7aOmJWtDyTvyjxwS40-r6Nqyj*HNuAD&new=1)
+ ## [经开区农房确权智慧监管平台 上线试运行](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=k79JncoFQ8SF1RJdXiNQZW1ti5wxf-Tx4NmXPBzhA84B0nwrv2Li15mgZkULaXGaViHAI5uqkgc6Ldz-mlrZ3wKlPKW4Sz2bejeF93JFW1s=&new=1)
+ > 本报讯 1月22日，作为贵阳首个用于农房确权监管的大数据平台，经开区农房确权智慧监管平台上线试运行。　　据介绍，经开区农房确权智慧监管平台的建设，是经开区党工委2019年第二轮巡察时对经开区房屋征收中...
+ ## [IBM 中国研究院全面关闭；6 亿条个人信息泄露，非法获利 800 万；华为聘请前巴西总统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=UzjxOga2OTojkpmidqbU6iT36QDHFDj9g8cUD9DGSNlRAwr-8xVJEWPfUGZKMBhMn6fDIYaN35evGqK6RHXkN6MQ5UyK5PxhRKBn7L5FNWaQ5ZWyTA8G-ZCVbCMWygLG&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [讯石直播|新华三王雪：打造灵活稳定的高速光互联网络](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=MKLgsDV2qaa*puXIgEqAQRbVXyuiSnrUlPa*GGrq5wjV2QrmdmUfPXBb8dw38Lyy5rxCe0Dd4xh4wsmsCBDVJfQcSjQBCMq5ynHCfkb7HpUSf19khNipgNq*MiMKnHbR&new=1)
  > 新 闻 导 读在讯石直播间，新华三集团光模块资深技术专家王雪发表《打造灵活稳定的高速光互联网络》精彩报告，从新华三的角度对2020年各速率光模块的应用进行总结并对未来光模块的演进、应用方向进行了展望。ICC...
- ## [“断卡”行动严厉打击!多名运营商“内鬼”被抓获……](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=NDDGekJ6asCJo9bYsclEVrbuFe-WxmII33wY*DeHcXd80mkv2LFhFQo0pdCvJVWd4yL0nL-t18ocZlN6A5o*QUoDdVd3iQzrb3X1hGc4SRxu8ejIRc4oZnnf65kEGY6K&new=1)
+ ## [漏洞风险报告：思科SD-WAN命令注入漏洞](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=Z1YfbeAohV321XUuvXUb9yrLMiVm5sGC-*Ntey3ywco-NVph5KodRu9H4dNvnEaf90moreNixVU7teh1HrU9boo7epogFxTy0G-gnHOFgDqh86mQNn0juw-lp6r6v4Ky&new=1)
+ > E安全1月25日讯 Cisco SD-WAN产品中的多个漏洞可能允许经过身份验证的攻击者对受影响的设备执行命令注入攻击，这可能允许攻击者利用设备上的root特权采取某些入侵操作。01、易受攻击的产品若这些漏洞正在运行易...
+ ## [量产级AR光波导模组公司理湃光晶完成数千万元A轮融资，多维海拓担任独家财务顾问|多维交易](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=Af*87b9C0yXPiJz8qRh7Rpla46YCIuUFmoq*d5jSQXubLlMfbsyqYO-COGM1YqfHr2jukv1gxFxbuLX4OHDAVv1hW88eC6pRRPPQw-zrmLBqBdx*JD5dpmaitR6*VUQD&new=1)
+ > 2021年1月25日，多维海拓第1041期本文2022字，推荐阅读时间：5～6分钟近日，国内领先的量产级AR光波导模组公司理湃光晶宣布完成数千万元人民币A轮融资。本轮融资由云晖资本领投，凯风创投、上市公司天邑股份（30...
+ ## [“断卡”行动严厉打击!多名运营商“内鬼”被抓获……](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=NDDGekJ6asCJo9bYsclEVrbuFe-WxmII33wY*DeHcXd80mkv2LFhFQo0pdCvJVWdZt7zOfvpm9EjqPmuG3gHL6wlfpIGn1NCgVASi7RJRNg5oyJPTdcaviq1vAEMuYGg&new=1)
  > “断卡”行动中挖出通信运营商“内鬼”，9人被刑拘为严厉整治涉“两卡”违法犯罪活动，坚决遏制电信网络诈骗犯罪高发态势，“断卡”行动开展以来，惠州惠东公安反诈中心高度重视、积极响应、精心组织，在市反诈...
- ## [\[报告\]2021智能驾驶产业深度研究(附74页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=C4xr0hRS2bRrBNCIjLQNg6ehpXUBTyd**00xhtI4-9FiBq3CFmw-JC4NOCB11ovk6Wj3HZ3KWXV3iAOLqKl8eLoO5ZOmt0CasVSEKgEdAARPF1yyWk4QTD8xyPqrf*-D&new=1)
+ ## [7点见|百度APP就郑爽父亲道歉视频摆logo致歉；IBM回应中国研究院关闭](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=pYXSix6bP1AsymLl*0hBPKiHGgE7L1ynb6gw6THoyNGYlvPG3IwhyE25r2eL6Z*0Sxbt9Kyps*YB9zZWucyZZDKVLi2koJXmvCUKDGajoBJ7vyYFbZP2wnqpGiKrt-Ot&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！百度APP就郑爽父亲道歉视频摆logo致歉：不涉及经济行为，诚恳接受批 评24日，百度App发文就此前在“郑爽父亲道歉视频”摆放平台logo一事致歉。百度App表示，经很多网友...
+ ## [\[报告\]2021智能驾驶产业深度研究(附74页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=C4xr0hRS2bRrBNCIjLQNg6ehpXUBTyd**00xhtI4-9FiBq3CFmw-JC4NOCB11ovk2YkBix3wr0YEKYMrewsPOPEpeDtqQkudMN5oSrMPj8ZElv-VOwHlPUuFmxicgwIW&new=1)
  > 智能驾驶大时代，汽车变革新未来。汽车软硬件以及内部架构、行业竞争格局、产业链价值分配也将发生深远变化。在此变革浪潮下，我们认为智能驾驶将相继历经辅助驾驶渗透率提升、自动驾驶方案成熟、自动驾驶生态完...
- ## [2021年(深圳)3D打印行业新春交流会圆满结束](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=QXXOODFtIhog*JjARcObCao-L4AqV6qinQpemY5Yux4iSB5xqNYqfSNODYTLaa9HhU9ttWvw4g0xmNE5196sH6--sbXwfG8OSSwmVgd*dcapiBmOxgGg-dcNvtMcoMjh&new=1)
+ ## [大出行专栏|智能交通、智能出行的底层载体，是智能移动空间](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=3qEUtiaavK2-BkwxlsgoY79zTIMXRbHaZeFzznCm5XDmbt18G8eRENNCpY19G0DdbsJKlhQDiCUoqNcPIXxlu1phfBz27G4IDonLnesD0jb5zeT9tZEvuyWhpgvFUT1i&new=1)
+ > 从交通工具到万物互联的节点，“汽车”正迎来百年未有之大变局作者：杨起森    编辑：张一由油到“电”，不仅是动力系统迈入了新世界，汽车本身所扮演的角色，在向新四化进军的过程中，也正逐渐变得前所未有的不...
+ ## [2021年(深圳)3D打印行业新春交流会圆满结束](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=QXXOODFtIhog*JjARcObCao-L4AqV6qinQpemY5Yux4iSB5xqNYqfSNODYTLaa9HhA*YVQJbC4GLMSBSPO8GXz9*vQh-6SseZ3b8Izez7cdw0ndWIS6zHFsit3KSOcFb&new=1)
  > 2021年1月24日，由未知大陆与优锐科技联合主办的2021年(深圳)3D打印行业新春交流会在深圳市3D打印产业园成功举办。参会的代表包括：东莞慧瓷科技、千悟创意、广州赛隆、众远新材料、二乘三科技、盈普TPM3D、广东...
- ## [\[C114周报\]三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=byzVKFFjiu*U1TrxXjUv6nKFu7BIpbiIiDFuJUl26EOyV5Tqol*GX4LJjLFSwdePr664D*qaPt8NXKCfzuYocSBSD536TvPoV5QnOgZSTi577RwrEDq5UrReQJKHZ8vI&new=1)
+ ## [\[C114周报\]三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=byzVKFFjiu*U1TrxXjUv6nKFu7BIpbiIiDFuJUl26EOyV5Tqol*GX4LJjLFSwdeP8uvmcCcHJqXIrOtrhGuRTLz4kTFD827xhF6NOdGBOzWDMkUazecSQyC7Dk21t8Xc&new=1)
  > 周报WEEKLY本周热点有三大运营商2020成绩单；陈忠岳出任中国联通总经理；中兴通讯2020年单季盈利16.55亿• 第125期 •三大运营商2020成绩单1月21日三大运营商相继发布了12月份运营数据报告。至此，三大运营商202...
- ## [万瓦激光焊接原理及优势解析](http://mp.weixin.qq.com/s?src=11&timestamp=1611540004&ver=2849&signature=v0BnMHsOhUtzAuvw5rcX9RR11tYRUNJIcZiuVtSoCvOnzSIjymapmyFEYkWM5r4HylRRe5tvOCriAocl7NbyUIRbuI2ffCklQyftdB9D6OyRsysNBaFJ8MFm7ZN8*zuY&new=1)
+ ## [万瓦激光焊接原理及优势解析](http://mp.weixin.qq.com/s?src=11&timestamp=1611547204&ver=2849&signature=v0BnMHsOhUtzAuvw5rcX9RR11tYRUNJIcZiuVtSoCvOnzSIjymapmyFEYkWM5r4HOepWJ7nj8cvjALbZRP3lQOoGgM*Pcy1Na1LiThr-NfFUzlQdP*JFJpuWsGPMdHpR&new=1)
  > 来源：创鑫激光往期热点推荐（点击链接阅读）☞红外飞秒激光 解决玻璃焊接难题☞激光通信新动向 “轨道系统”项目启动☞中久光电产业研究院揭牌☞ASML营收140亿欧 EUV增长60%☞创鑫万瓦全面开放 共破厚板焊接工...
 # IT 技术 
  ## [如何应对部署机器学习模型的挑战](http://ai.51cto.com/art/202101/642410.htm)
  > 如何应对部署机器学习模型的挑战
- ## [郑爽张恒反目内幕：一个APP引发的血案](http://developer.51cto.com/art/202101/642555.htm)
- > 郑爽张恒反目内幕：一个APP引发的血案
- ## [千万不要在您的系统上运行的那些Linux命令](http://os.51cto.com/art/202101/642409.htm)
- > 千万不要在您的系统上运行的那些Linux命令
- ## [阿里技术Leader是如何带兵打仗的？](http://news.51cto.com/art/202101/642554.htm)
- > 阿里技术Leader是如何带兵打仗的？
  ## [为什么要从Druid迁移到ClickHouse？](http://developer.51cto.com/art/202101/642553.htm)
  > 为什么要从Druid迁移到ClickHouse？
+ ## [千万不要在您的系统上运行的那些Linux命令](http://os.51cto.com/art/202101/642409.htm)
+ > 千万不要在您的系统上运行的那些Linux命令
+ ## [步入2021，大热的GNN会在哪些应用领域大展拳脚呢？](http://ai.51cto.com/art/202101/642548.htm)
+ > 步入2021，大热的GNN会在哪些应用领域大展拳脚呢？
+ ## [阿里技术Leader是如何带兵打仗的？](http://news.51cto.com/art/202101/642554.htm)
+ > 阿里技术Leader是如何带兵打仗的？
  ## [鸿蒙HarmonyOS三方件开发指南(6)-ActiveOhos_sqlite组件](http://developer.51cto.com/art/202101/642395.htm)
  > 鸿蒙HarmonyOS三方件开发指南(6)-ActiveOhos_sqlite组件
- ## [值得应用开发者关注的八大增强现实工具包](http://mobile.51cto.com/ahot-642222.htm)
- > 值得应用开发者关注的八大增强现实工具包
- ## [HTML网页开发8小时轻松学习【燕十八】](http://fellow.51cto.com/art/202101/641370.htm?qd=51ctojrzd)
- > HTML网页开发8小时轻松学习【燕十八】
- ## [Wi-Fi 6E已经推出它和普通Wi-Fi有何区别](http://network.51cto.com/art/202101/642616.htm)
- > 许多人会疑惑Wi-Fi 6E是什么? 和我们一般使用过的Wi-Fi 有什么区别?今天笔者就带大家了解最新的Wi-Fi 技术
- ## [微软Windows10 21H1版本服务体验包更新与Build19043已现身系统说明](http://os.51cto.com/art/202101/642613.htm)
- > 1月25日消息 外媒 Windows Latest 报道，根据此前报道，微软 Windows 10 的 21H1 更新将是小的服务体验包，
- ## [爆料:微软 Windows10 黑暗主题组件界面将更加统一和谐](http://os.51cto.com/art/202101/642610.htm)
- > 1月25日消息 外媒 Windows Latest 报道，微软 Windows 10 即将迎来的最大视觉更新之一是代号为 “太阳谷”U
- ## [黑客攻击海外相亲网站 MeetMindful,泄露 228 万条用户信息](http://netsecurity.51cto.com/art/202101/642607.htm)
- > 1月24日消息 据外媒 ZDNet 今日消息，一位知名黑客近日攻击了美国相亲网站 MeetMindful，获取了用户信息数
- ## [Flash把这经典软件也带崩了！教你一招搞定它](http://os.51cto.com/art/202101/642606.htm)
- > Fliqlo是很多人都喜欢的一款屏保软件，由于酷似MacOS里的动态时钟屏保，点击率很高。不过很多网友发现，这
- ## [从观察者模式到响应式的设计原理](http://developer.51cto.com/art/202101/642603.htm)
- > 响应式对使用过 Vue 或 RxJS 的小伙伴来说，应该都不会陌生。响应式也是 Vue 的核心功能特性之一，因此如果
+ ## [郑爽张恒反目内幕：一个APP引发的血案](http://developer.51cto.com/art/202101/642555.htm)
+ > 郑爽张恒反目内幕：一个APP引发的血案
+ ## [Oracle数据库用户及权限管理_Oracle视频教程_基础深入与核心技术04](http://fellow.51cto.com/art/202012/637139.htm?qd=51ctojrzd)
+ > Oracle数据库用户及权限管理_Oracle视频教程_基础深入与核心技术04
+ ## [后疫情时代，5G基建投资效果如何？](http://network.51cto.com/art/202101/642649.htm)
+ > 本文主要回顾后疫情时代5G投资的经济拉动效果并尝试给出后续的投资建议。
+ ## [人工智能技术如何在药物开发中识别正确的药物成分](http://ai.51cto.com/art/202101/642647.htm)
+ > 在采用数字技术时，制药行业的应用往往比较缓慢。迄今为止，很多制药厂商已经推迟了使用人工智能和机器学习
+ ## [5G和卫星将满足更多物联网服务需求](http://network.51cto.com/art/202101/642646.htm)
+ > LuxResearch预测，5G技术将成为一种统一的技术，能够解决多频段的使用情况，并且卫星将因应更多物联网服务
+ ## [组织在2021年创建完美云计算战略的三大支柱](http://cloud.51cto.com/art/202101/642644.htm)
+ > 云计算如今比以往任何时候都更加重要，尤其是在冠状病毒疫情期间，组织必须为此做好准备。
+ ## [如何化解数字化和分析转型项目的风险](http://www.cioage.com/art/202101/642637.htm)
+ > 尽管数字化和先进分析技术的好处已显而易见，但其往往也隐藏着风险。
+ ## [提升服务器安全防护的七点建议](http://server.51cto.com/Operation-642631.htm)
+ > IT技术可以说是一把双刃剑，为我们带来便捷的同时，也带来了威胁，网络安全问题就是其中之一。如今，随着黑
+ ## [机器人革命是如何塑造城市生活方式的？](http://ai.51cto.com/art/202101/642629.htm)
+ > 机器人是已经存在的智能城市生态系统的延伸。一些例子证明了这一点，比如自动送货机器人，像女佣一样帮你做
+ ## [突发！网易一员工核酸检测阳性，全员居家隔离办公](http://news.51cto.com/art/202101/642634.htm)
+ > 1 月 22 日，网传网易北京一员工核酸检测阳性。有记者向网易北京园区求证获悉，该员工为大兴天宫院确诊病例
+ ## [用鸿蒙开发AI应用（六）UI篇](http://developer.51cto.com/art/202101/642388.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [人工智能觉醒了？亚马逊的人工智能不听人类指令，还发出渗人笑声](http://ai.51cto.com/art/202101/642621.htm)
+ > 如果有一天人工智能太强大了，那么它们取代了人类怎么办？现阶段来看，我们还是不需要担心的，就好像科学家
  ## [GitHub下载神器，被下架后又复活](https://blog.csdn.net/weixin_39787242/article/details/112999156)
  > GitHub下载神器，被下架后又复活
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
@@ -71,16 +87,16 @@ categories: IT NEWS
  > 浅谈汉诺塔问题，以及对其递归的分析
  ## [有 1000 瓶药物，但是其中有一瓶是有毒的，老鼠只要服用任意量有毒药水就会在一个星期以后死掉！请问，在一个星期内找出有毒的药 物，最少需要多少只小白鼠？](https://blog.csdn.net/chenlong_cxy/article/details/113057754)
  > 有 1000 瓶药物，但是其中有一瓶是有毒的，老鼠只要服用任意量有毒药水就会在一个星期以后死掉！请问，在一个星期内找出有毒的药 物，最少需要多少只小白鼠？
- ## [一文学会Webpack实用功能|针对不同环境的配置](https://blog.csdn.net/xuzhijia1991/article/details/112238129)
- > 一文学会Webpack实用功能|针对不同环境的配置
- ## [罗永浩的彪悍人生](https://blog.csdn.net/bjweimengshu/article/details/110251475)
- > 罗永浩的彪悍人生
+ ## [跨境电商亚马逊ERP软件，贴牌部署，源头技术，源码支持二次开发](https://blog.csdn.net/liu5211258/article/details/109520258)
+ > 跨境电商亚马逊ERP软件，贴牌部署，源头技术，源码支持二次开发
+ ## [如何将Postman API测试转换为JMeter以进行扩展](https://blog.csdn.net/qqqqqkmbnjjhb/article/details/109202482)
+ > 如何将Postman API测试转换为JMeter以进行扩展
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [【SpringBoot-3】切面AOP实现权限校验：实例演示与注解全解](https://blog.csdn.net/mu_wind/article/details/102758005)
- > 【SpringBoot-3】切面AOP实现权限校验：实例演示与注解全解
- ## [工作日报 2020-12-21](https://blog.csdn.net/lvonve/article/details/111503604)
- > 工作日报 2020-12-21
+ ## [Python小游戏：外星人入侵！！！终于完成了！！！](https://blog.csdn.net/weixin_44412311/article/details/106590762)
+ > 
+ ## [手把手教你用 c++ 做 图书管理系统](https://blog.csdn.net/qq_46039856/article/details/106269628)
+ > 
 # 人工智能 
  ## [从难免的线上bug说起代码的思考](https://blog.csdn.net/21aspnet/article/details/112850362)
  > 从难免的线上bug说起代码的思考
