@@ -1,30 +1,34 @@
 ---
 title: 2021-01-26 IT News
 copyright: true
-date: 2021-01-26 11:29:43
+date: 2021-01-26 13:08:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [腾讯回应 PC 微信扫描浏览器 cookies；约会网站 228 万用户数据泄露；Java 1.0 发布 25周年|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=2ihbM6tfxmOGS6aT4meDp-eBxWeXlRUA9K7pLgWSamPzDIvSBWM1Wl0ubxBxfMDFi9Q6ePVX2ls6erFXEPSAGqnEQbtGRS5867ieVSsQ0JOFUjlJdre5kPk9i5TFFMks&new=1)
- > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [传彻底出售手机业务，华为：没计划；苹果季度销售望突破 1000 亿美元；机器人「索菲亚」或年底量产|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=ShPrWxy8QshYdJoBEGBbW6Gw0bLN49A*l*lgF63WwSejbXovTX1yA8rxNHfWU6kbBBmvvauFl09cu0RJJRfnCuWN8Hp1UWOc-e834Eq95TGUih99p5B6fm94fhDkym12&new=1)
+ ## [中国欧洲之3D打印创新企业：电子束金属/FFF金属/SLM纯铜金属/增材设计软件](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=BXGDVMtcBD7gRwwSPEqcs9hYcYh1Lu11KdTpmpGghb85HmYprhLUumFbBK1l27HOZVyfpIaOuKYopPATI2KPhsQSBKwbYB3QAwgkb9O7W0GwsO6b1F0AlmN1dmGhLmeS&new=1)
+ > 南极熊导读：这是2020第一届中德增材制造系列研讨会的最后一场，将由4个中国和欧洲的创新3D打印企业负责人来在线演讲，涉及的技术分别为：EBM电子束金属3D打印；熔融挤出FFF金属3D打印；SLM激光烧结纯铜金属3D打...
+ ## [文末惊喜|零售和酒店行业软件漏洞修复能力强于其他行业](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=DL5yvLg1Ozqlgn3czZCVCtNbHqKhuykXz*93iATJaFGAU6jzZ0UaTTUVvchj1E0vTSsyWjhFroZJvF1rTk1Nb8WRB8ueqe6eeoWxWoN03PD*DWAqezUF5ykcWcGz4Zu3&new=1)
+ > E安全1月26日讯 近日，Veracode对逾13万份应用程序的分析显示，2020年，零售业和酒店行业修复软件缺陷的速度快于其他行业。据悉，零售行业和酒店行业通过积分卡和会员账户的形式跟踪消费者的大量个人信息，并将...
+ ## [传彻底出售手机业务，华为：没计划；苹果季度销售望突破 1000 亿美元；机器人「索菲亚」或年底量产|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=ShPrWxy8QshYdJoBEGBbW6Gw0bLN49A*l*lgF63WwSejbXovTX1yA8rxNHfWU6kbgbKNmjnxfU450Q3dt19HqAIbh0C17gxLli1KXue6-u2ToohiPjcZNEq-5Z2a6cAr&new=1)
  > 华为手机业务也要卖？回应来了：完全没有出售计划1 月 25 日，针对手机业务出售传闻，华为回应称完全没有出售手机业务的计划，华为将坚持打造全球领先的高端智能手机品牌，努力为消费者提供卓越的产品体验和服务...
- ## [\[科技早报7点整\]有赞回应平台茅台店铺失联 苹果警告称别将iPhone12靠近心脏起搏器……](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=yEVSVKiI--u1g-b80e8L5srUoRkLTZ2iDCYOi8gQjfwR2Lef0VYWL0YxHb5PQ*8S76H7XsWVaYavzN9MWiDF7YGoTHAONQGa62YvZWpbcCyq*a7qs*zwirYN2vaS-3lL&new=1)
+ ## [腾讯回应 PC 微信扫描浏览器 cookies；约会网站 228 万用户数据泄露；Java 1.0 发布 25周年|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=2ihbM6tfxmOGS6aT4meDp-eBxWeXlRUA9K7pLgWSamPzDIvSBWM1Wl0ubxBxfMDFq3*UhlN15C9pbFZF9yXJ7Z992*tVCS3MLBHmSEZ9yb38t6PelWn2WYs6enjBVheA&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [\[科技早报7点整\]有赞回应平台茅台店铺失联 苹果警告称别将iPhone12靠近心脏起搏器……](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=yEVSVKiI--u1g-b80e8L5srUoRkLTZ2iDCYOi8gQjfwR2Lef0VYWL0YxHb5PQ*8SBH2mabb4VfBPP**UP66Kg1MBkLxst1-EAndk9wdM09B1*S7rvN6Zeycn7ygVLfXP&new=1)
  > 早上好，科技圈【一度蜜科技早报】第1045期1.最高检：网络犯罪以年均近40%速度攀升从最高人民检察院获悉，近年来，检察机关办理网络犯罪案件以年均近40%的速度攀升，2020年达到了54%。在所有网络犯罪中，网络诈...
- ## [\[报告\]激光雷达(LiDAR)行业研究(附34页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=DcDWXzb258u3F9X*xPz2nzhBGLJNLDZdMJm19bNFtUAexD6C6*OZLLr9fshW5-Csl*p4cB6eZyIBY5OwPQ2C9azCsZpTjLMTNseU8*Qd*Vu63168kxhY6AcdBB2Kvyz0&new=1)
+ ## [\[报告\]激光雷达(LiDAR)行业研究(附34页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=DcDWXzb258u3F9X*xPz2nzhBGLJNLDZdMJm19bNFtUAexD6C6*OZLLr9fshW5-CsZwVhaUS2LCFUzQDMoDmzGVXS-kFIp*uKrP3n4Dg9s85KCLtHTe8HxPLPThHXehwb&new=1)
  > 核心观点：◆L3+级汽车自动驾驶将成趋势，激光雷达产业空间巨大1、智能电动车行业快速增长，L3级已处于突破临界点；2、激光雷达的应用趋势或愈发明确（预计2025E全球ADAS与无人驾驶的激光雷达市场规模约81亿美元...
- ## [看完赶紧拿手机检查，有你常用的APP被工信部通报](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=PfO8U-59Sl2IgdbXxF3tcDibs7cxpbkQduPhveEog0bcJos4ylJs7S24DqYb7F88fyZfE1cHOntJ1xa09oY1I4U4JexgvOB3qduSIG4-TXlFAfoUMV31wvj17LWedTyO&new=1)
+ ## [看完赶紧拿手机检查，有你常用的APP被工信部通报](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=PfO8U-59Sl2IgdbXxF3tcDibs7cxpbkQduPhveEog0bcJos4ylJs7S24DqYb7F88sij2XZl5XDavrgbFcjMhYrD*l-bM3JIE7oyTxYOKEUn-i3dF-eQu-erHc-tHUgH5&new=1)
  > 今天是舒冬陪伴你的第1544天最新消息1月22日，工信部通报今年首批157款侵害用户权益行为APP。其中涉及腾讯应用宝、小米应用商店、豌豆荚、OPPO软件商店、vivo应用商店、华为应用市场等平台。通报称，依据《网络...
- ## [\[冲突\]华为要出售高端手机业务?前脚刚辟谣，路透社后脚就出报道](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=Yc4XV4ANNlEA8QOleFne-Xw2Cg9nGb6*0E*aHC2zMPNcorEfqudQGYPprr5VVpiztRRWD2*2FMDgOPDsdIf9NQrQ1tQsfhXzg**ULWErDg6ysVuDbQMybYvKWtM0*RFo&new=1)
+ ## [\[冲突\]华为要出售高端手机业务?前脚刚辟谣，路透社后脚就出报道](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=Yc4XV4ANNlEA8QOleFne-Xw2Cg9nGb6*0E*aHC2zMPNcorEfqudQGYPprr5VVpizt*MIqOJAWk6YWeYZC9kPX3R7f3qoDmuQAQh6Fk9YVoxrdHkOgFaKcEAdk14zh0FD&new=1)
  > 文章展开前，有必要先展示一则已被华为官方辟谣的传言。请注意，官方已辟谣。截图自脉脉论坛传言称：华为手机也撑不住了，和出售荣耀基本类似，华为手机将出售给某大市国资委牵头成立的企业，谈判已接近尾声，近...
- ## [中国芯后继有人，阿里接棒华为，努力打破ARM的垄断局面](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=dIjdbcO-vW25NaVcBr*jr20MyR7hy7p9E8QDKxe9N7lySytgZjor3WJju4BX0bESkdLn0RDksXokZeNdLbd3cg8IW0C5aQgNVXFweTFcD0bx2Q665-R3YUsIDSDDMcPF&new=1)
+ ## [中国芯后继有人，阿里接棒华为，努力打破ARM的垄断局面](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=dIjdbcO-vW25NaVcBr*jr20MyR7hy7p9E8QDKxe9N7lySytgZjor3WJju4BX0bESyGU9L90FLWkeyU5-u-tG1*G-mtDfjYdaytlOhZ5ga*CTlHujrviKMDmOVKfeH6Yu&new=1)
  > 在华为面临众所周知的困难之后，业界忧虑中国芯的前途，而近日阿里的平头哥半导体公司表示它的芯片玄铁910已成功运行Android10系统，如此阿里巴巴或许将接棒华为打破ARM的垄断局面。ARM+Android系统已垄断了智能...
- ## [如何构建健康和谐的中国智能制造生态系统?](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=xvfUZO3v1AcL3Ho2kMLeKdsE66eIXfb9KOJrs5gAH1D9jlPxkZQ5WjRecJA*xH*-vnaZ8LcgovZ*bbKzgu39NcmrwCHEI72WN4eYbVhkO24etNb6t-nklms2W-FHcofT&new=1)
+ ## [如何构建健康和谐的中国智能制造生态系统?](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=xvfUZO3v1AcL3Ho2kMLeKdsE66eIXfb9KOJrs5gAH1D9jlPxkZQ5WjRecJA*xH*-Aogiy7yagZTcZ7kb*Dn0kFWdDLa37US*vs7wkFyFeWV76x5CAkXPspmI4Yk6YtLD&new=1)
  > 导 读 ( 文/ e-works CEO、总编 黄培博士 )站在”十四五”的起点上展望未来，中国应当如何持续推进智能制造？如何构建健康和谐的智能制造生态系统？本文将进行深入探讨。2021年是中国加入WTO二十周年。正是从加...
- ## [IBM中国研究院全面关闭!网友感慨：不996的公司都死了……](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=rl6w63njweceL8wDNVZ5R8o7mIumHT0YXB1mTwyVL0V7m8RlmnrxehrxjfJbcCAftP*vfPYAMK70jCaKUCqag4oe7vgSpSuFL1OK2aolLzjN92NuxyN8Zj*2bXgIuFY6&new=1)
+ ## [IBM中国研究院全面关闭!网友感慨：不996的公司都死了……](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=rl6w63njweceL8wDNVZ5R8o7mIumHT0YXB1mTwyVL0V7m8RlmnrxehrxjfJbcCAfkT1Ts4K8qF58xPsKao8ko8pwqvjqSlZ7PZ0KrML7fUAZV-Xo-FvVGe307prhWenI&new=1)
  > 导读：近日，IBM全球12大研究机构之一、中国最具影响力的研究院——IBM中国研究院（IBM CRL）被网友爆料已经悄然关闭，成为过去式。本文授权转载自微信公众号：物联网智库（iot101）物联网智库是物联网领域顶级...
- ## [芯片再难，有两弹一星难吗?|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1611630005&ver=2851&signature=NQKHR-bn8D1ZE5BkQH16x30A6pWtKVMWDCCUX*2aNlralz9-fblaF3VvygTHb7hg4NyGx9k8WwvT5WYPpD2JrkyK87YNG00QK2UOWJx0VIDGNCG9iNT5Yo50BZfG-8zq&new=1)
+ ## [芯片再难，有两弹一星难吗?|袁岚峰](http://mp.weixin.qq.com/s?src=11&timestamp=1611637205&ver=2851&signature=NQKHR-bn8D1ZE5BkQH16x30A6pWtKVMWDCCUX*2aNlralz9-fblaF3VvygTHb7hgdJ4p8qpL*IPCBXVjBH63X2oTeEnMr9Sjoe1MedNbQyzr3axzYt0vEHk59pYO4KZY&new=1)
  > 关注风云之声提升思维层次导读非常多的人低估了这个挑战的难度，经常可以见到许多错误理解。中国芯片业的落后，看似是一个点，其实反映的是一大片。所以唯一的正道，就是把所有这些门类的基础都补上，都达到世界...
 # IT 技术 
  ## [千万QPS毫秒响应：快手数据中台建设实践](http://developer.51cto.com/art/202101/642850.htm)
@@ -41,34 +45,34 @@ categories: IT NEWS
  > 如何应对部署机器学习模型的挑战
  ## [为什么要从Druid迁移到ClickHouse？](http://developer.51cto.com/art/202101/642553.htm)
  > 为什么要从Druid迁移到ClickHouse？
- ## [Struts2视频教程](http://fellow.51cto.com/art/202101/641273.htm?qd=51ctojrzd)
- > Struts2视频教程
- ## [CPU/GPU持续推新！2020年数据中心8大热门技术回顾](http://server.51cto.com/Datacenter-642873.htm)
- > 2020年，受疫情影响，加上“新基建”的强势推动，数据中心迎来了快速发展的机会，各种新技术在这一年中得到
- ## [谷歌表单成为了BEC攻击的工具](http://netsecurity.51cto.com/art/202101/642870.htm)
- > 网络攻击者向某些组织发送了数千封电子邮件，研究人员警告说，这是犯罪分子在进行信息侦察活动，其目的是为
- ## [CIO的下一个关键角色：变革推动者](http://www.cioage.com/art/202101/642867.htm)
- > 对于当今的IT领导者来说，变革管理不仅仅是技术性的，还需要在企业的各个层面引领文化变革。
- ## [大数据将在2021年对哪些行业产生更大影响?](http://bigdata.51cto.com/art/202101/642860.htm)
- > 很多组织在2020年加快了数字化转型。进入2021年，人们可能会看到数字技术(例如大数据)对各行业领域(如农业
- ## [Gartner：Deepfake和生成式AI让我们进入零信任世界](http://news.51cto.com/art/202101/642862.htm)
- > Gartner发布了一系列《Predicts 2021》研究报告，其中一份报告概述了人工智能（AI）将在未来几年引发的重
- ## [边缘计算将解决物联网的最大问题](http://cloud.51cto.com/art/202101/642859.htm)
- > 2021年将展示分布式计算的真正力量，其中的重要处理不是在云中的集中式服务器中进行，而是在网络“边缘”进
- ## [这一次，我们不仅找到了创新7大痛点，还找到了突破口](http://www.cioage.com/art/202101/642854.htm)
- > 除了常规思维外，专家们还列出了IT创新面临的以下七个障碍以及如何克服这些障碍的建议。
- ## [GCC：优化Linux、互联网和一切](http://os.51cto.com/art/202101/642853.htm)
- > 经过数十年成千上万人的开发，GCC 成为了世界上最受尊敬的编译器之一。如果你在构建应用程序是没有使用 GCC
- ## [Zend Framework远程执行代码漏洞](http://netsecurity.51cto.com/art/202101/642852.htm)
- > 本周bleepingcomputer揭露了一个不受信任的反序列化漏洞，攻击者可以利用Zend Framework在PHP站点上实现远
- ## [鸿蒙的横向滚动菜单和分组Group列表菜单和fetch请求加载聚合数据](http://os.51cto.com/art/202101/642692.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [2021年软考信息系统项目管理师-基础知识(下) 新大纲视频培训课程](http://fellow.51cto.com/art/202101/640010.htm?qd=51ctojrzd)
+ > 2021年软考信息系统项目管理师-基础知识(下) 新大纲视频培训课程
+ ## [伊朗会成为比特币国家吗？](http://blockchain.51cto.com/art/202101/642899.htm)
+ > 上个月末，伊朗政府的官方报纸《伊朗日报（Iran Daily）》报道称，由于该国正常使用硬通货的压力越来越大，
+ ## [效率倍增！5款非常超级实用的Python工具](http://developer.51cto.com/art/202101/642898.htm)
+ > 近年来，随着人工智能和云计算的蓬勃发展，Python 也迅速成为了网红语言。它之所以广受好评，这得益于开源
+ ## [更新Windows10通常会变成一场噩梦，如何避免？](http://os.51cto.com/art/202101/642897.htm)
+ > 由于各种错误，Windows 10用户经常无法在其电脑上安装最新的系统更新。好消息是，即使没有很多专业技术知识
+ ## [人脸信息是敏感信息和核心隐私应该强化保护](http://netsecurity.51cto.com/art/202101/642896.htm)
+ > 人脸信息是个人核心隐私，也是个人敏感信息。人脸信息不仅涉及个人肖像，还包括身体、健康、年龄、种族等信
+ ## [5G商用步伐加快，智能硬件迎来飞速发展](http://network.51cto.com/art/202101/642893.htm)
+ > 作为智能手机之后的又一科技概念，近年来智能硬件愈发惹人关注。从监测人们身体健康的可穿戴设备，到带来
+ ## [MySQL 中写操作时保驾护航的三兄弟！](http://database.51cto.com/art/202101/642837.htm)
+ > 这期的文章主要是讲述写操作过程中涉及到的三个日志文件，看过前几期的话可能你或多或少已经有些了解了(或
+ ## [编写 Python 代码时要有所取舍](http://developer.51cto.com/art/202101/642889.htm)
+ > 本文是 Python 之禅特别系列的一部分，重点此篇着眼于第七、八、九条原则：可读性、特殊情况和实用性。
+ ## [聊聊IDC（数据中心）市场](http://network.51cto.com/art/202101/642888.htm)
+ > 在经历了十年高速发展后，数据中心产业并没有衰落的迹象，不过从数据上来看，从2015年到2019年，IDC市场的
+ ## [Apache 软件基金会 2020 年安全报告发布，安全问题显著增加](http://netsecurity.51cto.com/art/202101/642887.htm)
+ > 日前，Apache 软件基金会(ASF)发布了 2020 年安全报告。 Apache 软件基金会成立于 2002 年，由志愿者组成，
+ ## [Fedora 先发制人：谷歌旨在强迫用户都去使用 Chrome](http://os.51cto.com/art/202101/642885.htm)
+ > 谷歌 Chrome 团队曾向 Linux 发行版开发者发送了一则邮件通知表示，从 3 月 15 日起，基于 Chromium 的第三
  ## [普通人如何像天才一样快速学习？](https://blog.csdn.net/m0_46163918/article/details/113121187)
  > 普通人如何像天才一样快速学习？
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
  > 要写码，又要做年终总结PPT？高效神器保住你的发际线
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
- > 【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！
+ ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
+ > 编程福利领取：Java知识体系详细总结(2021版)
  ## [国民度No.1，Python到底做了什么？](https://blog.csdn.net/CSDNedu/article/details/112860629)
  > 国民度No.1，Python到底做了什么？
  ## [官宣！前微软研发经理邹欣加入 CSDN 担任副总裁，CSDN 重磅招揽一流人才](https://blog.csdn.net/csdnnews/article/details/112915663)
@@ -81,17 +85,17 @@ categories: IT NEWS
  > 黑龙江农垦科技职业学院喜迎寒假多校联赛2（快乐ak场）
  ## [他曾经来过—墨茶](https://blog.csdn.net/weixin_44671737/article/details/113063573)
  > 他曾经来过—墨茶
- ## [使用VS Code进行Qt开发](https://blog.csdn.net/weixin_43669941/article/details/108921714)
- > 使用VS Code进行Qt开发
- ## [R语言大作业（全国2000-2019年人口各项数据分析）](https://blog.csdn.net/azheya/article/details/106790917)
- > R语言大作业（全国2000-2019年人口各项数据分析）
- ## [opencv  数字识别详细教程](https://blog.csdn.net/LTG01/article/details/50492556)
- > opencv  数字识别详细教程
+ ## [模2除法(CRC校验码计算)](https://blog.csdn.net/qq_33411687/article/details/82593466)
+ > 模2除法(CRC校验码计算)
+ ## [一个10年C++程序员对技术和业务的感悟，献给还在迷茫中的你](https://blog.csdn.net/qq_42302962/article/details/85065160)
+ > 一个10年C++程序员对技术和业务的感悟，献给还在迷茫中的你
+ ## [这些常见的PHP漏洞，如果你不知道，就别说自己是个攻城狮](https://blog.csdn.net/weixin_41635750/article/details/109822456)
+ > 
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）
- ## [公众号、网页点击链接，跳转qq添加好友、跳转外部链接代码教程](https://blog.csdn.net/qq_43527188/article/details/109960767)
- > 公众号、网页点击链接，跳转qq添加好友、跳转外部链接代码教程
- ## [是谁用Python弹奏一曲东风破](https://blog.csdn.net/anonymous_qsh/article/details/104783317)
+ ## [numpy——基础篇](https://blog.csdn.net/qq_36733722/article/details/102710405)
+ > numpy——基础篇
+ ## [⭐ 李宏毅2020机器学习资料汇总](https://blog.csdn.net/iteapoy/article/details/105382315)
  > 
 # 人工智能 
  ## [滴滴副总裁章文嵩离职，但继续担任滴滴技术委员会名誉主席](https://blog.csdn.net/weixin_39786569/article/details/112946533)
