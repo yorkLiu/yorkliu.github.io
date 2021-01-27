@@ -1,86 +1,94 @@
 ---
 title: 2021-01-27 IT News
 copyright: true
-date: 2021-01-27 13:57:17
+date: 2021-01-27 18:42:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [自动化将在2021年推动数据中心和网络创新](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=gSyzlM4RFFwEHTAHjdAV2kRSmgAP3eiy6eF*-kHJUdcbjcAOZL5S7NHrBbnTf5Y4mUeWvrm95VviPPX3sAAIn6MnajNR5MrznQQ8Jj2FyjkdBrvZgAGXtREfiX1rV7qe&new=1)
+ ## [传华为消费者业务CEO余承东将有新任命](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=obvaf669poL3Qxr0bdMEL3WYUPH6I0Bt4hQ8QTpvfSjzjgUNbhQgBmIopKafDLwZEmDRN8j4WsLB*sRiQ7Jhvmb4YhYdq99oJzwCtzQAsjNtdYUYv019CtJx*JZ14m7n&new=1)
+ > 在否认了出售华为手机业务，会继续坚持打造全球领先的高端智能手机品牌之后，最新消息显示华为消费者业务CEO余承东将迎来新的职位变动。今日，来自每日经济新闻的报道称，华为消费者业务CEO、华为常务董事余承东...
+ ## [冰制机器人可在星际探索时进行自我修复与建造](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=40cArf*efS5ZYTzNr7z-ygfkRvCTjGwkQSG2HTRCz-VmKFl1rIk*COGSOorihihbATXUfy-Jr-Exhr0HNerXoRFNn3He2aLQP6wHbtTZUOiSb51DoHKYTobTgQORsGi9&new=1)
+ > 太阳系到处都是冰，探测机器人可以用它作为结构材料。Photo: GRASP LabIceBot is a proof-of-concept robot with structural parts made of ice.NASA和JPL的行
+ ## [牛气!数字技术让城市焕发新活力](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=oaTlhPuLAnbbOyisWqfVxeaKzHkFOcN7fnaHcI1OikBt6IhmD2bJ3RsOlhr*B0Izwsi*XT685j7q9nCkGnDHQGf1ebr9jqlvRvLShUdeEXm*5ERTjUwgy6XO*sJwolat&new=1)
+ > 在千行百业推进行业数字化的进程中，华为紧紧围绕客户需求和梦想，以场景化创新来实现，并通过“5机”协同，打造共生共创共享的数字生态，创造行业新价值。这些年，我们和伙伴、客户开展了很多“牛”气的合作。...
+ ## [快检查一下你的sudo：无需密码就能获取root权限，还是个10年老bug](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=rBVBjxIH6xYooEdFNCTw40ZzbyIVrcZ5A8SEl5I-EwKXCh1yenlwO5WT3-dS0IngZk-Ljv5yk7aKVYxCGaUy-BNPjhheWqVw8khkWs75UgedWv9H8gv5MBl5GIZUi9Mx&new=1)
+ > 贾浩楠 鱼羊 发自 凹非寺 量子位 报道 | 公众号 QbitAI“这可能是近期内最需要重视的sudo漏洞。”程序员都知道，一句sudo可以“为所欲为”。而现在，来自Qualys的安全研究人员发现，sudo中存在一个严重的漏洞：...
+ ## [丢掉幻想!打好关键核心技术攻坚战](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=aGMurpnmx1RNV3acTbP-SeDoWqRUcVjjbwMsRgWQxnD1AJvun*OOSqzg8p7uzmDBNjrzU4mYjt4y0*7zPaRXoRCmeV4c1Njf4pGxykiMBJD4w9JZHjh*PbKmGsFCxnwl&new=1)
+ > 丢掉幻想！打好关键核心技术攻坚战中国人民大学 崔守军党的第十九届五中全会报告指出，当今世界正经历百年未有之大变局，新一轮科技革命和产业变革深入发展。面对世界格局的变化，党中央提出坚持创新在我国现代...
+ ## [百架无人机“失控撞楼”，程序员写的 Bug?](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=q-pKG3XjE48pr90nPWW*isrOKqZjqofkvOlmJ5sg*n0MkfzEHn2PA4nPhF2NSARqkwXXFCHvj*F3p18EWeIFNA*g7ToW2hbKZCroTQTO*BxjQdgEwu-*mn9zpCR0jy1l&new=1)
+ > 整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）一架无人机坠毁或许并不稀奇，但几十上百架的无人机一起炸机撞楼可太“壮观”了。据网友爆料，1 月 25 日晚间，重庆来福士广场上百台无人机在进行表演测试时失控撞向大...
+ ## [再增加60万基站，你计划升级到5G套餐吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=2w0dkTJvlckl6WHwLe68f-mP0DnrHghO7i9*bp7eKgkVAuOoO*9-fYk0Z42v6ZacNBtYKMcJVtWo4N-BUNXwlL8rfnr4MqTfziiMMW5WhQfU4SMa3-SXh7TKRh5H2-Cy&new=1)
+ > 众所周知，我国运营商在布局5G方面的力度是非常积极的，尤其是去年在疫情得到有效控制之后，全面复工复产开启之后，运营商对5G基站的建设、网络的衔接都进行了提速，5G基站的铺设也加快了许多。2020年工业和信息...
+ ## [19款国产手机无一幸免：15分钟破解人脸识别，打印眼镜让刷脸形同虚设](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=O1VyoL-qVurc-J07YtjfKvRFTnzM3lHQYipaPRUCL7cGi*2XqWKj8Wwp*Otkg8TYzWYKK-Khkql2n-qdVlIJBOoxg*OG1mc5O1NnN9fY7fDboOZOrvYrphZ3VuL3jn*g&new=1)
+ > 机器之心报道作者：泽南、蛋酱你的新手机不错，借我刷一下脸？人脸识别技术在智能手机上已经是标配，今天的我们刷脸解锁、刷脸支付就像吃饭喝水一样自然，以至于疫情期间戴口罩无法解锁手机时，我们会感到很不习...
+ ## [案例|电商智能客服：以知识图谱、NLP、机器学习构建高精度对话机器人](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=Ye9c8lOVWbL4ppOhr4IgqNoR9VmsQAXi0rUaEJIjsNqFAvfHh5R3o2lIV948NWAT5QE4MLV3YNQkrbyEFr03suRqo61cEsJdk8fumQVpVw4l41uHGyTXopk-X8mCO1Xl&new=1)
+ > 乐言科技基于高精准的语义理解技术所打造的客服机器人，能在海量数据中挖掘优质话术，模拟优秀人工客服回复逻辑，对用户多轮对话沟通内容、订单信息、店铺优惠活动、商品信息等各维度进行全方位感知，从中提取出...
+ ## [就算每天只能卖 500 台，苹果也要明年推 VR 头显](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=cbyYGJk4rDntXjYQScrm6xXe2IoLuDb7Zw6*eMO*0SOrKGxe*KWXugDsN6r-5JmfI6BF-U2z5S-x*LCSkdIJ-kEsiRAE0Fs3iMHkOo3V0gPGp1o86KkZJpw8t2K2Byes&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作苹果正在研发 AR 眼镜，早已是公开的秘密。消费者对这个动作最先有感知的，是iPad Pro 和 iPhone 摄像头模组里新增的激光雷达扫描仪。有了它，系统能够迅速获取更深度...
+ ## [自动化将在2021年推动数据中心和网络创新](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=kiSMKLNPIdmzwEuNp3EyM*34FHy7HMzOvIhakJn72pfUiVx4FLLHNp9EjyqE6pLcUKjAnR3Tg0bBgsH2yZL6LVe8Cezf94H46-dpO-CHwbJldttBV15y*TbMdnlZsq9A&new=1)
  > 关键讯息，D1时间送达！IT工作负载自动化不仅可以确保跨操作系统的流程、工作流和任务高效运行，并且无需在内部部署设施进行持续的人工干预，它还可以跨大规模的混合计算架构进行扩展。2020年成为了人们记忆中的...
- ## [欧洲铁路的7大网络安全挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=v7X4NTWBmTT3jI7dy3JMKN7HxzIFSrdbOYURhc1dWPUezun04Yh1X567YvPINfsvXuXHbAgS7H3iSyHNfXe2rK57fcGaVSJghRp4b8OpusD420cM95vYaug5rZHv*e1p&new=1)
+ ## [欧洲铁路的7大网络安全挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=d*Lz04PLvMH0z9HmB5BLAcqocnk088qyPtiS*5njkn5sqxqayIFRMJ6jN-dCUVxGRpZWYB04WwcCLlXxGF*PqijfyabiRsTHJ9jtWxeN-CDI694rgNquz-8uegBmmgmg&new=1)
  > E安全1月27日讯 铁路是欧盟经济发展的关键，铁路的存在使货物和旅客能够便捷地在国内和欧盟境内跨境运输。ENISA近日的《铁路网络安全》报告分析了在每个欧洲成员国在执行NIS指令的背景下，欧洲铁路部门网络安全...
- ## [进一步提升企业上云体验，你需要知道的关键步骤](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=L*UHs81hJRdCCYosq2OUMA*IbxwIfXXnLH4h0*RWVhIIFSShgfLlWCJo1LviFnqHz4krTdzF1AuLGQc66ypp9WBGIpFVUfqRKkXf5nUsKV0MbStRE00vjf-gFMV1Rkli&new=1)
+ ## [进一步提升企业上云体验，你需要知道的关键步骤](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=h4F9oqJaI4NoMuy6byiyuLM6ehLiOa80WEPxDrDZaEdb1hbqu3DH*2neYd6V1ZFQE4Acx7l6wtRShKfd4mqC8PCiJKs9mZ5Y3oOv57Q3wiR-tAe6FQuN8Ue0bTpoBezl&new=1)
  > （本文阅读时间：6分钟）上一篇，我们以微软虚拟化核心组件 Hyper-V 为例，为大家分享了如何通过 Azure Migrate，帮助企业用户发现、评估和迁移虚机。今天我们将介绍如何基于微软云迁移解决方案，帮助企业客户在...
- ## [战“疫”不缺席，联通在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=8Atz1cR3eCwR9Pt9XSc7OZ0guR7rcEWUksZXPCWyAYvR*8j45HmtVvQKaY-3pUU9kWWqkdnqtutmmM2IQyOCCy3449wBJ3wBY2Vf6nnJwi5vgbel8DWUgxtg9jk9suVI&new=1)
+ ## [战“疫”不缺席，联通在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=qNWl*V4ou8OyIwGrc62buC0DUO8AfFY2FmaEtqsifen2F2qc9TGmMg8MWm9JfBXrswvLnriVNqKabWfRPrw9aJxxeJpBOsSH0zNVHDWKaARxcbFdDPULUCPpX*tJtiOc&new=1)
  > 近期为配合抗击疫情黑龙江联通积极承担社会责任迅速行动，多措并举全力做好疫情防控通信保障和信息化服务各地干部员工战“疫”再冲锋与疫区人民一道，同战疫情！充分彰显了央企担当为打赢疫情防控阻击战贡献了联...
- ## [高通宣布进一步丰富可扩展的Snapdragon Ride平台组合](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=*d8VCYIVb7jsCq-Nifu9sMJ93394dd0zh2mQNASFwez3UGzDqjWQwn-pdRZH4f2oq8uU1lr8l8AWizqkJCrAtD-qUMS5h*PZTmuNXOM6e1hPpEKXSCwfExg7M-UdruJ0&new=1)
+ ## [高通宣布进一步丰富可扩展的Snapdragon Ride平台组合](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=vMm8J*3wnW8DDu8kEfLIgOZjATknawP6obQ-KbgLquS1z1EYuo8Ze9yQ*JMr81XHXpWvQnAE4rATJe3*k1fYKNZNrdLva*uOLrkBt5-aXyifr5dymH6qCBU7RGho6A71&new=1)
  > Qualcomm要闻—通过全新芯片组和业界领先的软件栈扩展SoC路线图，支持安装在汽车风挡的NCAP ADAS解决方案到L4级别自动驾驶解决方案；Snapdragon Ride平台已由全球汽车制造商和一级供应商进行预生产，预计于2022...
- ## [2021年3D打印十大猜想](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=QCHwp4Q7ubGG*I2r2Nx-3qjmhkVPF4WL95mjNe44SoEJw2TDdnkvjaMdMBoYUIYBKObXg5CwXyflkEvcbuPa7LWN1ety2DwK-rkcdoECxhLBTUlB6bzMyP57wpRttiRR&new=1)
+ ## [2021年3D打印十大猜想](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=54ckRQirln98oy2WovEmfJYzkYgETDJ*YFWw6bjpbqiBSFRuC-BOSONn7S0ROWHwrlutMMxxw*2Ae0L77LwiyOkmJoWgle9CS1AbKY-oNH0Zb29t9kZ2OVHYFKwQKao8&new=1)
  > 导读：在过去的2020年，南极熊3D打印网发布了5000篇关于3D打印的内容。2021年已经到了，借着积累的庞大信息量，我们最近做了深度思考，未来3D打印将会发生哪些大事？我们斗胆做出一些猜想，希望用1年的时间去验...
- ## [抖音成春晚独家互动伙伴，发 12 亿红包；美政府车队全改电动，特斯拉大涨；百度推「一局」，用狼人杀切入社交|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=StQr92wnq3Iop4EhFuW6GsN3m1MgFUj97SSf1Z7QOAZWuPb6Jlbe*seHsXbYJDQC*itnIvnb4lxB6i4CrOZL29spnOda-TvFFwELn3BHSAgsfRAvrCsG9sGV6mdsFV5r&new=1)
+ ## [抖音成春晚独家互动伙伴，发 12 亿红包；美政府车队全改电动，特斯拉大涨；百度推「一局」，用狼人杀切入社交|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=dnNafobcYJV2fEum7pyC-EqPfUOwFmCp0k0VgPBhen60-QdsnXzU6FgHNsw6nxUIMPsnX1Wgbd9RB0K2zdb3APeOaTFq9*ISe2QOc1HCmbuq4ZvgdlKekou3tto9-YUa&new=1)
  > 抖音成央视春晚独家互动合作伙伴，除夕当晚分 12 亿元1 月 26 日，抖音与央视春晚联合宣布，抖音成为 2021 年春晚独家红包互动合作伙伴。这是继 2019 年春晚后，抖音第二次与央视春晚达成合作。据介绍，在除夕当...
- ## [百度推出开发者搜索 Beta；雷军手机使用时长曝光；苹果败诉，电脑上可以模拟 iOS 系统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=1qLr0omjUdpAzThmYBrsDYeZq99uVeYBLTmAoIkgdrvoM3pBT6fam5QldKoxLjzbmD05TYS9ajOpaZgsryBZ61mnyGjzG9wmXq6tRTdsRGwbInq73pkn2lLHE0vpEcmA&new=1)
+ ## [百度推出开发者搜索 Beta；雷军手机使用时长曝光；苹果败诉，电脑上可以模拟 iOS 系统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=q-pKG3XjE48pr90nPWW*isrOKqZjqofkvOlmJ5sg*n3wpvA52CYQ8HVzkQoYpX4Lw-AQvvNaVLJUluiAd0gax3qHwUZlGdBvzNv0rBsHuewHWfjSMRKBhPIN7cYi-5Lp&new=1)
  > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [印度永久禁用59款中国APP；吉利或投资FF，贾跃亭延续造车梦?立讯精密遭337调查，工信部回应](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=5zIg5joj4I7k8INVeKSzQk8WJYbQMXpqPYJEpCwnUrA*zQq*blI62WJZNnZ9ebQpFGJmVfAnGrEjVNsOb-pnvV5D6VCExQlCUhxcKcCW56YU-NJEBmwDYBJ2nQHk27Bo&new=1)
+ ## [印度永久禁用59款中国APP；吉利或投资FF，贾跃亭延续造车梦?立讯精密遭337调查，工信部回应](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=-vzu5YMUy8QenQkPtbph13THki6wZ2RzuAL8DKShzy0iuByqVaHt8JoIG*vaPwykuLF*Q0AjVPr0JVBF2h*ac9Ownl9jcSCgIlxkwJCXwzit*uQ7OvodR3KOpNagWyG2&new=1)
  > 一组宏观要闻：【美称拜登将致力于确保“中国公司无法滥用和挪用美国数据”，外交部回应】中国外交部发言人赵立坚1月26日主持外交部例行记者会。有记者提问说，美国国务院发言人周一表示，拜登总统将致力于确保...
- ## [新品|大连优迅科技股份有限公司推出QSFP 40G LR4工业级光器件](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=vqP8-YV4*YreKzKiyYT7-uQucKhS5OB-9GERDkd40VTcaGOYr2HepXtNODK7BdTOjUQwrWwYgd6-VtxCnMGkk1SkdKa2BQqeBAZnwozCV*vQv15mRICZLdfFEn3f57Xu&new=1)
+ ## [新品|大连优迅科技股份有限公司推出QSFP 40G LR4工业级光器件](http://mp.weixin.qq.com/s?src=11&timestamp=1611743405&ver=2854&signature=-VpObszxt1Tt0OI5SwaRYBYsZT1byt*aE6JfDHn1cDjTisnBFC-QmDZEB0E8P8rgD7ItuMtVL3jNzyfq9FAo6dkndCpnmrLV2APjvTLemsGgsLnkL-Ikuse4AXG0W8eJ&new=1)
  > 新 闻 导 读大连优迅科技推出QSFP 40G LR4工业级光器件，满足数据中心及某些特殊工业级场景对40G产品需求，公司在现有CWDM4产品上开发了满足Case温度-40°C to +85°C的TOSA和ROSA组件。40G QSFP L
- ## [\[科技早报7点整\]天猫国际回应问题猫粮致猫死亡 威马汽车CEO讽刺恒大汽车……](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=dnwHDP5juKwOYYcJQzut0rf90HOZ3TZ0MNAXSRE1lTJKOyQJKNrUT6xfHLbqmTvJXW-axxM4MXotWin4IO6H8Eyjtp2eHwmBjz3Pi0XQ1ucBmG*5HcTEDJMbDTQ3snwT&new=1)
- > 早上好，科技圈【一度蜜科技早报】第1046期1.天猫国际回应问题猫粮致猫死亡：已下架就go猫粮被曝猫吃后中毒甚至死亡一事，天猫国际独家回应称：接到相关反馈后，已第一时间将相关商品下架，并要求品牌方对涉及批...
- ## [移动与广电5G共建共享具体合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=auhoocyK5*w11cW-HMZfo26dCbp3k2PYC8Bbx8tLz7HhejOH0vduCwkixnQzoptbZ-HuvQPXpy0fZjXygsXvZBJenxuzrttwIrAx-5Wuj5QKyaRR0LOu2tO*f1ufGYWB&new=1)
- > 2021年1月26日，中国移动与中国广电在北京签署 “5G战略”合作协议，正式启动700MHz 5G网络共建共享。据悉，自2020年5月中国广电与中国移动签署5G共建共享合作框架协议以来，双方就建设、维护、市场和结算等具体...
- ## [最新数据来了!携号转网1年多，最大的赢家是..](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=qtoglWROnTebYaBfeAGGOHjWkhaWJMLcK1aZPfXuqetqROFm-tVm0yub0SNHManbS2adTaKMIo4TG2HOxPktsRPEVHVKgQBKKoy3Ad4af31Y3JL*dxD0wf3iseW7wbL6&new=1)
- > 随着三大运营商公布了2020年的数据，真的是几家欢喜，几家愁！欢喜的是中国电信，成为了2020年的最大赢家，而两家愁的自然是中国移动、中国联通了。而如果要在两家愁的运营商中，找出最愁的一家，那必然是中国联...
- ## [开源磁盘分区工具GParted 1.2发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=thP8rInjHmzzcgGRmDMJNQBIuEmsWXMJmNsNb*DsLYernb5kMWwE5vwxkSTEpQ5pktWEZpYwFclxgBE6pC*njTeAQwjXB9yvDz3FOAifpZi-JcTtnWR24YInR5Q2kzbB&new=1)
- > 开源磁盘分区工具GParted 1.2发布，在新版本中官方团队加入了对exFAT文件系统的支持。GParted是目前Linux桌面环境中管理分区、文件系统的GUI解决方案。此前由微软提供的exFAT驱动已经被三星提供的exFAT驱动取代...
- ## [印度永久禁止包括TikTok和微信在内的59款中国应用程序](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=Wumis7otgZGhB35rEyMRMRMORcsOc1E37V*AaG1HGolFewll4cAN4-S-8j9NnnASl5SBQifThaUdrfd9WMaPHqLIx5C848FOH4DwikWRLtHzVXoABYyETLlDRT9rdWEY&new=1)
- > 印度政府在几个月内禁止了250多个移动应用程序，理由是数据收集和用户隐私问题。其中包括广受欢迎的TikTok、微信、百度，阿里巴巴的主要浏览器UC浏览器，一些与小米相关的应用程序，以及许多游戏。今天，由于公...
- ## [苹果又有神秘新项目?](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=lV2GfY1tMBa*0xwYheOB9ect736tnZuHTTspY4uGkhv05iuYFm7YFCrd64pqXFKbVqEdh9A--1lsZ1OGjSW8muCoEw2b0n2sJlaYONpUEpS9oPfTRd2MO4BATsxJJEZ9&new=1)
- > 苹果今天宣布，公司硬件工程高级副总裁 Dan Riccio 将会负责新项目，而 John Ternus 会接任  Dan Riccio ，担任苹果硬件工程高级副总裁，领导硬件团队。Tim Cook 表示：“ Dan 帮助苹果带来的每一项创新
 # IT 技术 
  ## [MySQL 8.0不讲武德，给我挖坑！](http://database.51cto.com/art/202101/643047.htm)
  > MySQL 8.0不讲武德，给我挖坑！
+ ## [3+1保障：高可用系统稳定性是如何炼成的？](http://zhuanlan.51cto.com/art/202101/643130.htm)
+ > 3+1保障：高可用系统稳定性是如何炼成的？
  ## [开发者值得关注的9大流行PHP框架](http://developer.51cto.com/art/202101/642937.htm)
  > 开发者值得关注的9大流行PHP框架
+ ## [用“大白话”精准搜图，OpenAI的CLIP惊艳了所有人](http://news.51cto.com/art/202101/643163.htm)
+ > 用“大白话”精准搜图，OpenAI的CLIP惊艳了所有人
  ## [人工智能为业务营销带来的六大应用](http://ai.51cto.com/art/202101/642938.htm)
  > 人工智能为业务营销带来的六大应用
  ## [PyTorch 指南：17个技巧让你的深度学习模型训练变得飞快！](http://ai.51cto.com/art/202101/643091.htm)
  > PyTorch 指南：17个技巧让你的深度学习模型训练变得飞快！
  ## [鸿蒙HiSpark IPC DIY摄像头开发套件开箱报告](http://os.51cto.com/art/202101/642920.htm)
  > 鸿蒙HiSpark IPC DIY摄像头开发套件开箱报告
- ## [常见的Web攻击方式有哪些？黑客：28种总有一款适合你](http://netsecurity.51cto.com/art/202101/643050.htm)
- > 常见的Web攻击方式有哪些？黑客：28种总有一款适合你
- ## [千万QPS毫秒响应：快手数据中台建设实践](http://developer.51cto.com/art/202101/642850.htm)
- > 千万QPS毫秒响应：快手数据中台建设实践
- ## [2021年软考网络工程师--基础知识精讲视频培训（第五版教程）](http://fellow.51cto.com/art/202101/640476.htm?qd=51ctojrzd)
- > 2021年软考网络工程师--基础知识精讲视频培训（第五版教程）
- ## [运营商和互联网迎拐点：全国手机用户1天少2万](http://network.51cto.com/art/202101/643132.htm)
- > 虽然最近互联网公司股票疯涨，但却不得不面对一个严峻的现实，用户到顶了！
- ## [AIops中的人工智能](http://ai.51cto.com/art/202101/643129.htm)
- > 六家AIops解决方案提供商对AIops为业务和IT部门解决的问题，他们的解决方案中使用了哪些类型的机器学习算法
- ## [3+1保障：高可用系统稳定性是如何炼成的？](http://zhuanlan.51cto.com/art/202101/643130.htm)
- > 影响系统稳定性的架构设计有哪些?一个可持续保障的研发运维流程机制是怎样的?如何培养团队技术人员的意识和
- ## [混合云的五个优势](http://cloud.51cto.com/art/202101/643125.htm)
- > 人们需要了解混合云的五个优势，以及混合云如何提高信息安全性。
- ## [展望2021丨驱动企业数字化转型的十大技术趋势](http://www.cioage.com/art/202101/643124.htm)
- > 在接下来的2021年，哪些领域，那些技术或将驱动企业数字化转型呢?笔者简单梳理了十大或将影响企业数字化转
- ## [拼图也能写代码？快来试试这个谷歌开源的工具！](http://news.51cto.com/art/202101/643127.htm)
- > Blockly 是 Google 开源的基于 web 的可视化程序编辑器，用户可以将一些定义好的图形块拼接在一起，用来构
- ## [高级APT组织的十二星座运势分析](http://zhuanlan.51cto.com/art/202101/643122.htm)
- > 本文，我们将通过星座运势归类和分析当下最危险的APT组织，兴许还能预测他们的“前程”。
- ## [聊聊Gartner 2021战略技术趋势――随处运营](http://netsecurity.51cto.com/art/202101/643120.htm)
- > Garnter不久前发布了2021年顶级战略技术趋势，本篇是随处运营（Anywhere Operations）的介绍。
- ## [如何编写有效的接口测试？](http://zhuanlan.51cto.com/art/202101/643126.htm)
- > 在所有的开发测试中，接口测试是必不可少的一项。有效且覆盖完整的接口测试，不仅能保障新功能的开发质量
- ## [如何确保世界各地联网设备的正确服务质量](http://iot.51cto.com/art/202101/643118.htm)
- > 企业需要一种方法来简化设备的全球连接，同时提高对性能的可见性和洞察力，以便在业务扩展时保持控制并确保
+ ## [高大上的PPT设计秘笈（体验版）-不限等级](http://fellow.51cto.com/art/202012/637345.htm?qd=51ctojrzd)
+ > 高大上的PPT设计秘笈（体验版）-不限等级
+ ## [人工智能推理的演进](http://ai.51cto.com/art/202101/643187.htm)
+ > 展望今天，边缘人工智能市场与此截然不同，尤其是它进入了更多的商业应用领域。对于这些用例，主要关注的是
+ ## [物联网设备普及带来的挑战](http://iot.51cto.com/art/202101/643182.htm)
+ > 物联网提供了巨大的商业机会，同时也带来了潜在的安全问题，以及(资产)管理方面的巨大挑战。
+ ## [不用密码就能获取root权限？Sudo被曝新漏洞](http://netsecurity.51cto.com/art/202101/643178.htm)
+ > 这次的Sudo漏洞CVE-2021-3156允许任何本地用户不需要身份验证就可以获得root权限。
+ ## [区块链技术带来的开放式金融](http://blockchain.51cto.com/art/202101/643177.htm)
+ > 区块链技术从诞生之日起,就被赋予了诸多期望和角色。一个开放、无许可、不可篡改和传递信任的开源账本,能够
+ ## [什么样的区块链应用才能出圈？](http://blockchain.51cto.com/art/202101/643175.htm)
+ > 即便DeFi应用大爆发，琳琅满目的应用们仍然没有解决最关键的问题――出圈。何谓出圈?这个名词不仅用于区块
+ ## [中台之后，微服务是否也会被玩死？](http://developer.51cto.com/art/202101/643166.htm)
+ > 今天准备再谈下微服务，对于微服务相关基础文章，包括企业传统IT架构如何平滑进行微服务化转型都可以参考我
+ ## [助力城市发展，无人机从六方面带来智慧变革](http://ai.51cto.com/art/202101/643165.htm)
+ > 近年来，为满足市民对于高质量、高水平城市生活的不懈追求，智慧城市建设开始受到高度重视。依托各种前沿技
+ ## [如果美国断供我们的Windows电脑系统会怎样？](http://os.51cto.com/art/202101/643164.htm)
+ > 目前全球所有的电脑85%以上，是美国微软的系统，根据2020年六月份全球PC系统，市场占有率数据，其其中Wind
+ ## [快检查下你的sudo：被曝漏洞，无需密码就能获取root权限](http://news.51cto.com/art/202101/643162.htm)
+ > 程序员都知道，一句sudo可以“为所欲为”，而现在，来自Qualys的安全研究人员发现，sudo中存在一个严重的漏
+ ## [共建共享700MHz5G网络中国移动与中国广电启动战略合作](http://network.51cto.com/art/202101/643160.htm)
+ > 1月27日消息，近日，中国移动与中国广电签署“5G战略”合作协议，正式启动700MHz 5G网络共建共享。
  ## [普通人如何像天才一样快速学习？](https://blog.csdn.net/m0_46163918/article/details/113121187)
  > 普通人如何像天才一样快速学习？
- ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
- > 要写码，又要做年终总结PPT？高效神器保住你的发际线
- ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
- > 编程福利领取：Java知识体系详细总结(2021版)
+ ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
+ > 学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ > 【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！
  ## [国民度No.1，Python到底做了什么？](https://blog.csdn.net/CSDNedu/article/details/112860629)
  > 国民度No.1，Python到底做了什么？
  ## [PostgreSQL中Oid和Relfilenode的映射](https://blog.csdn.net/weixin_46199817/article/details/113108402)
@@ -89,8 +97,8 @@ categories: IT NEWS
  > 让我来告诉你：大学计算机专业的学生应该去考什么证书.
  ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
  > 大揭秘：程序员工作也可以成为享受！
- ## [有 1000 瓶药物，但是其中有一瓶是有毒的，老鼠只要服用任意量有毒药水就会在一个星期以后死掉！请问，在一个星期内找出有毒的药 物，最少需要多少只小白鼠？](https://blog.csdn.net/chenlong_cxy/article/details/113057754)
- > 有 1000 瓶药物，但是其中有一瓶是有毒的，老鼠只要服用任意量有毒药水就会在一个星期以后死掉！请问，在一个星期内找出有毒的药 物，最少需要多少只小白鼠？
+ ## [有 1000 瓶药物，但是其中有一瓶是有毒的，老鼠只要服用任意量有毒药水就会在一个星期内死掉！请问，在一个星期后找出有毒的药物，最少需要多少只小白鼠？](https://blog.csdn.net/chenlong_cxy/article/details/113057754)
+ > 有 1000 瓶药物，但是其中有一瓶是有毒的，老鼠只要服用任意量有毒药水就会在一个星期内死掉！请问，在一个星期后找出有毒的药物，最少需要多少只小白鼠？
  ## [35岁的程序员：第18章，私欲](https://blog.csdn.net/wyb_robin/article/details/113062055)
  > 35岁的程序员：第18章，私欲
  ## [漫画：程序员，你得熬过这最难的一天！](https://blog.csdn.net/coderising/article/details/109172613)
@@ -137,15 +145,13 @@ categories: IT NEWS
  ## [自己做量化交易软件(35)小白量化实战8--事件型回测程序](https://blog.csdn.net/hepu8/article/details/113143679)
  > 自己做量化交易软件(35)小白量化实战8--事件型回测程序
 # PM 
+ ## [强迫商户下线、关闭、卸载，这家公司何来胆魄搞垄断？](http://www.chanpin100.com/article/113444)
+ > 2021年反垄断第一枪，贡献了一场蛇咬象的好戏。不仅仅大公司会“越界”，中小公司同样会成为“施害者”。维护市场竞争的健康秩序，从来不是一件简单的事。
  ## [春节不打烊！2021年教培机构春节运营方案来了](http://www.chanpin100.com/article/113447)
  > ​眼看马上就要迎来2021年春节了，在春节来临之际，各大教育机构都希望借助春节活动热度促成老生续费、吸引更多新生及潜在学员下单。
  ## [UI&UX17个小技巧合集](http://www.chanpin100.com/article/113445)
  > UI &amp; UX 的设计技巧，17个小提示让你的设计瞬间升级，它们的使用简单快捷，不但能够帮你提升你的界面本身，还可以在整体用户体验优化上有不错的表现。
  ## [数据中台建设中的得与失](http://www.chanpin100.com/article/113443)
  > 数据的价值犹如漂浮在海面上的冰山，绝大部分被隐藏在我们看不到的地方，而数据中台的建设正是为了保证数据价值充分发挥，提高研发人员、业务人员、运营人员以及企业管理者的工作效率。
- ## [如何抓住保险行业线上转型的四大机遇？](http://www.chanpin100.com/article/113446)
- > 作为当下最火的营销概念，客户数据平台（CDP）再度掀起了数字营销的浪潮。然而，目前市面上对于 CDP 的介绍大多数停留在各种概念和纯技术角度的解读。
- ## [2021年品牌设计流行趋势大公开，了解这些才能让方案PASS](http://www.chanpin100.com/article/113438)
- > 积极性、未来性和包容性在品牌设计中的重要性不可低估。品牌组织可以通过采用传播积极性、抚慰顾客、美观的设计原则来实现这一目标。2021的品牌设计趋势可以看过来啦！
 
     
