@@ -1,36 +1,42 @@
 ---
 title: 2021-01-27 IT News
 copyright: true
-date: 2021-01-27 12:12:28
+date: 2021-01-27 13:57:17
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [欧洲铁路的7大网络安全挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=v7X4NTWBmTT3jI7dy3JMKN7HxzIFSrdbOYURhc1dWPUezun04Yh1X567YvPINfsv28BclVVQciI12RVbVd3F9yA1XA18Xlf75hP1tgckckHOdbSsKdKomP38A6hzKs1v&new=1)
+ ## [自动化将在2021年推动数据中心和网络创新](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=gSyzlM4RFFwEHTAHjdAV2kRSmgAP3eiy6eF*-kHJUdcbjcAOZL5S7NHrBbnTf5Y4mUeWvrm95VviPPX3sAAIn6MnajNR5MrznQQ8Jj2FyjkdBrvZgAGXtREfiX1rV7qe&new=1)
+ > 关键讯息，D1时间送达！IT工作负载自动化不仅可以确保跨操作系统的流程、工作流和任务高效运行，并且无需在内部部署设施进行持续的人工干预，它还可以跨大规模的混合计算架构进行扩展。2020年成为了人们记忆中的...
+ ## [欧洲铁路的7大网络安全挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=v7X4NTWBmTT3jI7dy3JMKN7HxzIFSrdbOYURhc1dWPUezun04Yh1X567YvPINfsvXuXHbAgS7H3iSyHNfXe2rK57fcGaVSJghRp4b8OpusD420cM95vYaug5rZHv*e1p&new=1)
  > E安全1月27日讯 铁路是欧盟经济发展的关键，铁路的存在使货物和旅客能够便捷地在国内和欧盟境内跨境运输。ENISA近日的《铁路网络安全》报告分析了在每个欧洲成员国在执行NIS指令的背景下，欧洲铁路部门网络安全...
- ## [抖音成春晚独家互动伙伴，发 12 亿红包；美政府车队全改电动，特斯拉大涨；百度推「一局」，用狼人杀切入社交|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=StQr92wnq3Iop4EhFuW6GsN3m1MgFUj97SSf1Z7QOAZWuPb6Jlbe*seHsXbYJDQCkS-jMExKYik0H18e5n*nD4dQCZE3W8n2sinKt2pxvh4IFoaST-VvjG3egQeWZZgF&new=1)
- > 抖音成央视春晚独家互动合作伙伴，除夕当晚分 12 亿元1 月 26 日，抖音与央视春晚联合宣布，抖音成为 2021 年春晚独家红包互动合作伙伴。这是继 2019 年春晚后，抖音第二次与央视春晚达成合作。据介绍，在除夕当...
- ## [百度推出开发者搜索 Beta；雷军手机使用时长曝光；苹果败诉，电脑上可以模拟 iOS 系统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=1qLr0omjUdpAzThmYBrsDYeZq99uVeYBLTmAoIkgdrvoM3pBT6fam5QldKoxLjzb8HWWKP7u*Z6TNTAcyMLZ9-Jj6*Wjqj-VjEbuAAHPYPbYhWZdzM4fIeOQRIfyQnfk&new=1)
- > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [2021年3D打印十大猜想](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=QCHwp4Q7ubGG*I2r2Nx-3qjmhkVPF4WL95mjNe44SoEJw2TDdnkvjaMdMBoYUIYBNsPfPEU3VoDXmlVKRQ14KZ1mxqixOBDsycnU8ic*k0gvHnJTRtSuifBpdbyIZvD*&new=1)
- > 导读：在过去的2020年，南极熊3D打印网发布了5000篇关于3D打印的内容。2021年已经到了，借着积累的庞大信息量，我们最近做了深度思考，未来3D打印将会发生哪些大事？我们斗胆做出一些猜想，希望用1年的时间去验...
- ## [高通宣布进一步丰富可扩展的Snapdragon Ride平台组合](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=*d8VCYIVb7jsCq-Nifu9sMJ93394dd0zh2mQNASFwez3UGzDqjWQwn-pdRZH4f2oJaHnewXrn1PUo1vzw7oMYBebgtiWOChd24rr3wKQxHMRJfDVvhMVUSJUijPCKEPc&new=1)
+ ## [进一步提升企业上云体验，你需要知道的关键步骤](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=L*UHs81hJRdCCYosq2OUMA*IbxwIfXXnLH4h0*RWVhIIFSShgfLlWCJo1LviFnqHz4krTdzF1AuLGQc66ypp9WBGIpFVUfqRKkXf5nUsKV0MbStRE00vjf-gFMV1Rkli&new=1)
+ > （本文阅读时间：6分钟）上一篇，我们以微软虚拟化核心组件 Hyper-V 为例，为大家分享了如何通过 Azure Migrate，帮助企业用户发现、评估和迁移虚机。今天我们将介绍如何基于微软云迁移解决方案，帮助企业客户在...
+ ## [战“疫”不缺席，联通在行动!](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=8Atz1cR3eCwR9Pt9XSc7OZ0guR7rcEWUksZXPCWyAYvR*8j45HmtVvQKaY-3pUU9kWWqkdnqtutmmM2IQyOCCy3449wBJ3wBY2Vf6nnJwi5vgbel8DWUgxtg9jk9suVI&new=1)
+ > 近期为配合抗击疫情黑龙江联通积极承担社会责任迅速行动，多措并举全力做好疫情防控通信保障和信息化服务各地干部员工战“疫”再冲锋与疫区人民一道，同战疫情！充分彰显了央企担当为打赢疫情防控阻击战贡献了联...
+ ## [高通宣布进一步丰富可扩展的Snapdragon Ride平台组合](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=*d8VCYIVb7jsCq-Nifu9sMJ93394dd0zh2mQNASFwez3UGzDqjWQwn-pdRZH4f2oq8uU1lr8l8AWizqkJCrAtD-qUMS5h*PZTmuNXOM6e1hPpEKXSCwfExg7M-UdruJ0&new=1)
  > Qualcomm要闻—通过全新芯片组和业界领先的软件栈扩展SoC路线图，支持安装在汽车风挡的NCAP ADAS解决方案到L4级别自动驾驶解决方案；Snapdragon Ride平台已由全球汽车制造商和一级供应商进行预生产，预计于2022...
- ## [印度永久禁用59款中国APP；吉利或投资FF，贾跃亭延续造车梦?立讯精密遭337调查，工信部回应](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=5zIg5joj4I7k8INVeKSzQk8WJYbQMXpqPYJEpCwnUrA*zQq*blI62WJZNnZ9ebQp4PklsdSFNbye50rDlIusqqXOZscwbYW-jDNI0xB8rCAKXKxlJ7O*Z0wmSY8Z7-*y&new=1)
+ ## [2021年3D打印十大猜想](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=QCHwp4Q7ubGG*I2r2Nx-3qjmhkVPF4WL95mjNe44SoEJw2TDdnkvjaMdMBoYUIYBKObXg5CwXyflkEvcbuPa7LWN1ety2DwK-rkcdoECxhLBTUlB6bzMyP57wpRttiRR&new=1)
+ > 导读：在过去的2020年，南极熊3D打印网发布了5000篇关于3D打印的内容。2021年已经到了，借着积累的庞大信息量，我们最近做了深度思考，未来3D打印将会发生哪些大事？我们斗胆做出一些猜想，希望用1年的时间去验...
+ ## [抖音成春晚独家互动伙伴，发 12 亿红包；美政府车队全改电动，特斯拉大涨；百度推「一局」，用狼人杀切入社交|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=StQr92wnq3Iop4EhFuW6GsN3m1MgFUj97SSf1Z7QOAZWuPb6Jlbe*seHsXbYJDQC*itnIvnb4lxB6i4CrOZL29spnOda-TvFFwELn3BHSAgsfRAvrCsG9sGV6mdsFV5r&new=1)
+ > 抖音成央视春晚独家互动合作伙伴，除夕当晚分 12 亿元1 月 26 日，抖音与央视春晚联合宣布，抖音成为 2021 年春晚独家红包互动合作伙伴。这是继 2019 年春晚后，抖音第二次与央视春晚达成合作。据介绍，在除夕当...
+ ## [百度推出开发者搜索 Beta；雷军手机使用时长曝光；苹果败诉，电脑上可以模拟 iOS 系统|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=1qLr0omjUdpAzThmYBrsDYeZq99uVeYBLTmAoIkgdrvoM3pBT6fam5QldKoxLjzbmD05TYS9ajOpaZgsryBZ61mnyGjzG9wmXq6tRTdsRGwbInq73pkn2lLHE0vpEcmA&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [印度永久禁用59款中国APP；吉利或投资FF，贾跃亭延续造车梦?立讯精密遭337调查，工信部回应](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=5zIg5joj4I7k8INVeKSzQk8WJYbQMXpqPYJEpCwnUrA*zQq*blI62WJZNnZ9ebQpFGJmVfAnGrEjVNsOb-pnvV5D6VCExQlCUhxcKcCW56YU-NJEBmwDYBJ2nQHk27Bo&new=1)
  > 一组宏观要闻：【美称拜登将致力于确保“中国公司无法滥用和挪用美国数据”，外交部回应】中国外交部发言人赵立坚1月26日主持外交部例行记者会。有记者提问说，美国国务院发言人周一表示，拜登总统将致力于确保...
- ## [新品|大连优迅科技股份有限公司推出QSFP 40G LR4工业级光器件](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=vqP8-YV4*YreKzKiyYT7-uQucKhS5OB-9GERDkd40VTcaGOYr2HepXtNODK7BdTOUWO4WF784EDC1eMP*83CWJNOzbPfTqTnuPY5TiCTynrujqS0GYQDd0cKGwwPdmhe&new=1)
+ ## [新品|大连优迅科技股份有限公司推出QSFP 40G LR4工业级光器件](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=vqP8-YV4*YreKzKiyYT7-uQucKhS5OB-9GERDkd40VTcaGOYr2HepXtNODK7BdTOjUQwrWwYgd6-VtxCnMGkk1SkdKa2BQqeBAZnwozCV*vQv15mRICZLdfFEn3f57Xu&new=1)
  > 新 闻 导 读大连优迅科技推出QSFP 40G LR4工业级光器件，满足数据中心及某些特殊工业级场景对40G产品需求，公司在现有CWDM4产品上开发了满足Case温度-40°C to +85°C的TOSA和ROSA组件。40G QSFP L
- ## [\[科技早报7点整\]天猫国际回应问题猫粮致猫死亡 威马汽车CEO讽刺恒大汽车……](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=dnwHDP5juKwOYYcJQzut0rf90HOZ3TZ0MNAXSRE1lTJKOyQJKNrUT6xfHLbqmTvJtdER*kbObwWwgDp5Y3mwJsLLnKYiZ*DwtXgt7WQna-ja9jKwLz8Cg05m7XryrYin&new=1)
+ ## [\[科技早报7点整\]天猫国际回应问题猫粮致猫死亡 威马汽车CEO讽刺恒大汽车……](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=dnwHDP5juKwOYYcJQzut0rf90HOZ3TZ0MNAXSRE1lTJKOyQJKNrUT6xfHLbqmTvJXW-axxM4MXotWin4IO6H8Eyjtp2eHwmBjz3Pi0XQ1ucBmG*5HcTEDJMbDTQ3snwT&new=1)
  > 早上好，科技圈【一度蜜科技早报】第1046期1.天猫国际回应问题猫粮致猫死亡：已下架就go猫粮被曝猫吃后中毒甚至死亡一事，天猫国际独家回应称：接到相关反馈后，已第一时间将相关商品下架，并要求品牌方对涉及批...
- ## [移动与广电5G共建共享具体合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=auhoocyK5*w11cW-HMZfo26dCbp3k2PYC8Bbx8tLz7HhejOH0vduCwkixnQzoptbL03vdIEjKdqn3tBVdfnPy1b0r4rbRv5IF04MTh*NnCSOyZLLr6vtEqR2S-vaTVKm&new=1)
+ ## [移动与广电5G共建共享具体合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=auhoocyK5*w11cW-HMZfo26dCbp3k2PYC8Bbx8tLz7HhejOH0vduCwkixnQzoptbZ-HuvQPXpy0fZjXygsXvZBJenxuzrttwIrAx-5Wuj5QKyaRR0LOu2tO*f1ufGYWB&new=1)
  > 2021年1月26日，中国移动与中国广电在北京签署 “5G战略”合作协议，正式启动700MHz 5G网络共建共享。据悉，自2020年5月中国广电与中国移动签署5G共建共享合作框架协议以来，双方就建设、维护、市场和结算等具体...
- ## [最新数据来了!携号转网1年多，最大的赢家是..](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=qtoglWROnTebYaBfeAGGOHjWkhaWJMLcK1aZPfXuqetqROFm-tVm0yub0SNHManbSl5wgEqMq3Xqn57jEJDhpK3pDs-GARDSr5wq7kOoKvXqRyGvVPb1*MoUCKMMnzeE&new=1)
+ ## [最新数据来了!携号转网1年多，最大的赢家是..](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=qtoglWROnTebYaBfeAGGOHjWkhaWJMLcK1aZPfXuqetqROFm-tVm0yub0SNHManbS2adTaKMIo4TG2HOxPktsRPEVHVKgQBKKoy3Ad4af31Y3JL*dxD0wf3iseW7wbL6&new=1)
  > 随着三大运营商公布了2020年的数据，真的是几家欢喜，几家愁！欢喜的是中国电信，成为了2020年的最大赢家，而两家愁的自然是中国移动、中国联通了。而如果要在两家愁的运营商中，找出最愁的一家，那必然是中国联...
- ## [开源磁盘分区工具GParted 1.2发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=thP8rInjHmzzcgGRmDMJNQBIuEmsWXMJmNsNb*DsLYernb5kMWwE5vwxkSTEpQ5pkYiBvTbQ9Xi5ICV4hGqPtb1BXv*N7boRkswc15BtWKx0FHx5E6j3P*CU2RG4wpj5&new=1)
+ ## [开源磁盘分区工具GParted 1.2发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=thP8rInjHmzzcgGRmDMJNQBIuEmsWXMJmNsNb*DsLYernb5kMWwE5vwxkSTEpQ5pktWEZpYwFclxgBE6pC*njTeAQwjXB9yvDz3FOAifpZi-JcTtnWR24YInR5Q2kzbB&new=1)
  > 开源磁盘分区工具GParted 1.2发布，在新版本中官方团队加入了对exFAT文件系统的支持。GParted是目前Linux桌面环境中管理分区、文件系统的GUI解决方案。此前由微软提供的exFAT驱动已经被三星提供的exFAT驱动取代...
- ## [印度永久禁止包括TikTok和微信在内的59款中国应用程序](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=Wumis7otgZGhB35rEyMRMRMORcsOc1E37V*AaG1HGolFewll4cAN4-S-8j9NnnAS1*01b2-Fg9TFRyRczPo1NeLzPcDCGQUq2J92OYm4fq4W3HPTzgm8lUZ2doldSJmv&new=1)
+ ## [印度永久禁止包括TikTok和微信在内的59款中国应用程序](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=Wumis7otgZGhB35rEyMRMRMORcsOc1E37V*AaG1HGolFewll4cAN4-S-8j9NnnASl5SBQifThaUdrfd9WMaPHqLIx5C848FOH4DwikWRLtHzVXoABYyETLlDRT9rdWEY&new=1)
  > 印度政府在几个月内禁止了250多个移动应用程序，理由是数据收集和用户隐私问题。其中包括广受欢迎的TikTok、微信、百度，阿里巴巴的主要浏览器UC浏览器，一些与小米相关的应用程序，以及许多游戏。今天，由于公...
- ## [苹果又有神秘新项目?](http://mp.weixin.qq.com/s?src=11&timestamp=1611720005&ver=2853&signature=lV2GfY1tMBa*0xwYheOB9ect736tnZuHTTspY4uGkhv05iuYFm7YFCrd64pqXFKb-0Y3al2VsnzUbE-hj4spCAa7JRVIuFNZYuu02dJyS6*lvG*eNoIIy2QcSVjOW0dY&new=1)
+ ## [苹果又有神秘新项目?](http://mp.weixin.qq.com/s?src=11&timestamp=1611725405&ver=2853&signature=lV2GfY1tMBa*0xwYheOB9ect736tnZuHTTspY4uGkhv05iuYFm7YFCrd64pqXFKbVqEdh9A--1lsZ1OGjSW8muCoEw2b0n2sJlaYONpUEpS9oPfTRd2MO4BATsxJJEZ9&new=1)
  > 苹果今天宣布，公司硬件工程高级副总裁 Dan Riccio 将会负责新项目，而 John Ternus 会接任  Dan Riccio ，担任苹果硬件工程高级副总裁，领导硬件团队。Tim Cook 表示：“ Dan 帮助苹果带来的每一项创新
 # IT 技术 
  ## [MySQL 8.0不讲武德，给我挖坑！](http://database.51cto.com/art/202101/643047.htm)
@@ -47,8 +53,10 @@ categories: IT NEWS
  > 常见的Web攻击方式有哪些？黑客：28种总有一款适合你
  ## [千万QPS毫秒响应：快手数据中台建设实践](http://developer.51cto.com/art/202101/642850.htm)
  > 千万QPS毫秒响应：快手数据中台建设实践
- ## [【132】-数据通信方式](http://fellow.51cto.com/art/202101/642232.htm?qd=51ctojrzd)
- > 【132】-数据通信方式
+ ## [2021年软考网络工程师--基础知识精讲视频培训（第五版教程）](http://fellow.51cto.com/art/202101/640476.htm?qd=51ctojrzd)
+ > 2021年软考网络工程师--基础知识精讲视频培训（第五版教程）
+ ## [运营商和互联网迎拐点：全国手机用户1天少2万](http://network.51cto.com/art/202101/643132.htm)
+ > 虽然最近互联网公司股票疯涨，但却不得不面对一个严峻的现实，用户到顶了！
  ## [AIops中的人工智能](http://ai.51cto.com/art/202101/643129.htm)
  > 六家AIops解决方案提供商对AIops为业务和IT部门解决的问题，他们的解决方案中使用了哪些类型的机器学习算法
  ## [3+1保障：高可用系统稳定性是如何炼成的？](http://zhuanlan.51cto.com/art/202101/643130.htm)
@@ -59,22 +67,20 @@ categories: IT NEWS
  > 在接下来的2021年，哪些领域，那些技术或将驱动企业数字化转型呢?笔者简单梳理了十大或将影响企业数字化转
  ## [拼图也能写代码？快来试试这个谷歌开源的工具！](http://news.51cto.com/art/202101/643127.htm)
  > Blockly 是 Google 开源的基于 web 的可视化程序编辑器，用户可以将一些定义好的图形块拼接在一起，用来构
+ ## [高级APT组织的十二星座运势分析](http://zhuanlan.51cto.com/art/202101/643122.htm)
+ > 本文，我们将通过星座运势归类和分析当下最危险的APT组织，兴许还能预测他们的“前程”。
  ## [聊聊Gartner 2021战略技术趋势――随处运营](http://netsecurity.51cto.com/art/202101/643120.htm)
  > Garnter不久前发布了2021年顶级战略技术趋势，本篇是随处运营（Anywhere Operations）的介绍。
  ## [如何编写有效的接口测试？](http://zhuanlan.51cto.com/art/202101/643126.htm)
  > 在所有的开发测试中，接口测试是必不可少的一项。有效且覆盖完整的接口测试，不仅能保障新功能的开发质量
  ## [如何确保世界各地联网设备的正确服务质量](http://iot.51cto.com/art/202101/643118.htm)
  > 企业需要一种方法来简化设备的全球连接，同时提高对性能的可见性和洞察力，以便在业务扩展时保持控制并确保
- ## [高效项目经理的十个特征](http://www.cioage.com/art/202101/643114.htm)
- > 要成为一名真正优秀的项目经理，你必须发挥新的作用。你必须成为一名全权负责让组织获得成功的战略业务合作
- ## [一文带你深入了解JVM性能调优](http://virtual.51cto.com/art/202101/643117.htm)
- > Java虚拟机中，数据类型可以分为两类：基本类型和引用类型。基本类型的变量保存原始值，即：他代表的值就是
  ## [普通人如何像天才一样快速学习？](https://blog.csdn.net/m0_46163918/article/details/113121187)
  > 普通人如何像天才一样快速学习？
  ## [要写码，又要做年终总结PPT？高效神器保住你的发际线](https://blog.csdn.net/islide/article/details/112040956)
  > 要写码，又要做年终总结PPT？高效神器保住你的发际线
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
- > 【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！
+ ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
+ > 编程福利领取：Java知识体系详细总结(2021版)
  ## [国民度No.1，Python到底做了什么？](https://blog.csdn.net/CSDNedu/article/details/112860629)
  > 国民度No.1，Python到底做了什么？
  ## [PostgreSQL中Oid和Relfilenode的映射](https://blog.csdn.net/weixin_46199817/article/details/113108402)
