@@ -1,32 +1,34 @@
 ---
 title: 2021-01-29 IT News
 copyright: true
-date: 2021-01-29 12:06:42
+date: 2021-01-29 12:55:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [云服务提供商Syntax发布首份IT趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=eT6*LsKogqDShNRHA4uDZTN91llA36EzcpkZxnw8jUHWk9luu9DrHVTGCwaumchyPeMg2nK4CBbr1dh1mpwL10-AxHbfoDQVSOKkCT7yBPRjA9P4Y-VkUESkXDeKjMjj&new=1)
- > E安全1月29日讯  据报道，多云和多ERP管理云服务提供商Syntax近日发布了其有史以来第一个《IT趋势报告》。该报告基于2020年10月对美国500名IT行业领袖和决策者的调查。多云和多ERP管理云服务提供商Syntax发布的...
- ## [贵州建设 12个主题数据库](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=A3Osx5GPbA*Gzb9zK4mF7UEuVcc184IHTabkeyBg6VZRmdTJVIGCZ91dz8bi6ZQM5jH0DAqOuGv1Wgi0kQ9nDT71n4WR9rFCJZGq-4kGF3c=&new=1)
+ ## [贵州建设 12个主题数据库](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=A3Osx5GPbA*Gzb9zK4mF7UEuVcc184IHTabkeyBg6Vb4fiWyf8WKpv0r7VuwY9i0GU8k3WOYWVY4liRmXv0sxN7UfKWVmAFI415he6p9Bq4=&new=1)
  > 据新华社电 为加快政府数据开放共享，贵州建成省级数据共享交换平台，并开发了扶贫、信用等12个主题数据库。　　记者28日从贵州省信息中心获悉，去年全省各级政府部门数据共享工作覆盖面、参与度大幅提...
- ## [FF宣布合并PSAC上市；华为在法国设立5G设备工厂；HBO Max标准订阅用户达到3770万|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=y*xRvriYLSONvYK7nF7oaFXoYVA3AudVjLrIc4c96RtwTcu1OMs8SMAn4LVsDrrA1ggvEOiKo97YAjrK3YGIBpge2hxoJufuhD1vxjBYDMvOVBTlIECnc5nQa71ZKu7k&new=1)
+ ## [《现代企业零信任安全构建指南》报告发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=P8T3gCF9L0twefY3wkDv3qeDWFb7*WG8yGqRJvfEa-OJMpR-kfoIg9pps2MJqlFqJvajtjMa9v05STycv59VtTjS59r7PNPTazjl5BFx1-OWrIKFwr5HQwShVCriCtQ8&new=1)
+ > 刚刚过去的2020年，肆虐全球的“新冠”疫情给各行各业带来极大的挑战，也让互联网远程工作、端云协同成为企业持续发展的必要条件，并成为目前人们工作和生活的新常态。在此背景下，我们看到了传统VPN网络在远程...
+ ## [FF宣布合并PSAC上市；华为在法国设立5G设备工厂；HBO Max标准订阅用户达到3770万|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=y*xRvriYLSONvYK7nF7oaFXoYVA3AudVjLrIc4c96RtwTcu1OMs8SMAn4LVsDrrAA21PWs7-SS3mfSxNI6MBP5RTvKgZEL0qbBRdxJG*Hob5iCVL3rR2xFSiKfsgt9md&new=1)
  > 图 /IC PhotoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【库克再指出Facebook使用用户数据问题】苹果公司CEO蒂姆·库克在一次公开演讲中，再次指出Facebook用户数据的问题。库克称，Facebo...
- ## [\[科技早报7点整\]一副眼镜攻破19款手机人脸识别 首批电竞本科生几乎没人从事电竞……](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=id2giH9VKFZcQnu-QKgwaMfXZej0Odada54rLP*nu51MRPPsrskzKQoa*eXDMMbeWyUUjlDCSmCgbq6X2szToKSf3QnUuN4lcyYU*VaDDCT7QRhvLi6MujhcFY78T9of&new=1)
+ ## [云服务提供商Syntax发布首份IT趋势报告](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=eT6*LsKogqDShNRHA4uDZTN91llA36EzcpkZxnw8jUHWk9luu9DrHVTGCwaumchyBraX5ik69V1Ys5D8YRwhHkhV-jtAPIR4S4pJa4naKlRJZ2-80rbIj2hmIjOfo-ar&new=1)
+ > E安全1月29日讯  据报道，多云和多ERP管理云服务提供商Syntax近日发布了其有史以来第一个《IT趋势报告》。该报告基于2020年10月对美国500名IT行业领袖和决策者的调查。多云和多ERP管理云服务提供商Syntax发布的...
+ ## [\[科技早报7点整\]一副眼镜攻破19款手机人脸识别 首批电竞本科生几乎没人从事电竞……](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=id2giH9VKFZcQnu-QKgwaMfXZej0Odada54rLP*nu51MRPPsrskzKQoa*eXDMMbe343EwFcLfY25wPM747*94oOcQZCWhJYYj8L21vLz00HD0KDOipSNUzLuaEUKRsj-&new=1)
  > 早上好，科技圈【一度蜜科技早报】第1048期1.商务部鼓励企业开发线上年夜饭因为今年很多人要就地过年，最近“线上年夜饭”人气飙升，单人套餐、半成品预制菜尤其受热捧。商务部新闻发言人高峰28日透露，官方已经...
- ## [中国广电牵手中国移动 广电5G“放号”近在眼前](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=iZgopCawPzqUZgYE-QrWiMLgijC4HH-rvFw08M0WUEKLbD*YoWUbHFkgKYr4CzkOJDZzUX3Czz5CS-NZYx1jZEiawDqoqcPImMZ*1XgMMlg=&new=1)
+ ## [中国广电牵手中国移动 广电5G“放号”近在眼前](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=iZgopCawPzqUZgYE-QrWiMLgijC4HH-rvFw08M0WUEK7SgIpHZz7URS08LLP3ikg09TqYVym-H8jnd1R2ya0l9Te2LWjdTcGJ*D3xbDfXgg=&new=1)
  > “广电5G推进的脚步还是蛮快的，和中国移动的具体合作就是一次大加速。”一位接近中国广电网络股份有限公司（下称“中国广电”）的人士表示。　　据介绍，中国广电未来将通过发行192号段切入5G通信运营领域...
- ## [\[报告\]2021汽车渠道网络模式标杆企业分析(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=qz2knwD6zGVhjkp8gh*5oulYSouaie0ZXvARr8MzRmY8-XtiPIC7KA0tvdoVM4UEGe8bvt6EUOI94ubjfh31ax0ZfS2QKVsVKQIeyqjR3Jb8mAw-6QaY2I3D7jk5I895&new=1)
+ ## [\[报告\]2021汽车渠道网络模式标杆企业分析(附46页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=qz2knwD6zGVhjkp8gh*5oulYSouaie0ZXvARr8MzRmY8-XtiPIC7KA0tvdoVM4UE7IvwvUOFwxU7AjjT89wSC*kOx1dys1aBAbxKu4R9pxpdzO17ZTB7GSB5r7m*Ss1Z&new=1)
  > 2019年以来，中国汽车存量市场竞争态势愈发紧张；2020年初，一场突如其来的疫情对中国 汽车市场造成巨大冲击，这无疑是雪上加霜。作为车企与消费者之间的桥头堡，汽车渠道网络模式直接左右车企销量。值此背景，...
- ## [微软CEO：疫情将数字技术应用加快了十年](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=Cq-Vokhu-0k0g39lDey2jQ1vvcgUm4vHfer5XNWdueFEejjungVObkcNaN5oudjSeQW3f3xbcBepGdiCfkuKHVje9pEwfg58zgIWa1fnJ2-*sI3wfzeDd8Vtjcomcbgb&new=1)
+ ## [微软CEO：疫情将数字技术应用加快了十年](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=Cq-Vokhu-0k0g39lDey2jQ1vvcgUm4vHfer5XNWdueFEejjungVObkcNaN5oudjScKFJpmakN4nLc5*Na2CJCrEsJio0fCH2OoVTCi3wFrQEYXe6Xd4PhVzoqpeY8llA&new=1)
  > 微软CEO萨蒂亚.纳德拉最近表示，将数字技术应用到生活的各个领域，可以让业务更有弹性，更快的适应各种不利因素。纳德拉还说，新冠疫情的流行至少将数字化技术与应用提前了十前，现在它已经成为人们日常运营的重...
- ## [战略|华为鸿蒙不是为了替代安卓，而是打造物联网的生态系统](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=Fc5KU-bAbRwDAHDuZHiWsQI2fJa0jpB0-ogmcsBO7*NBUVIw*Hkf15pBh*6n3VQng16VsmBLWdjzMYUDXGgt5BA4hQXPqvtsbsKuHqJsNY7FHpHgCZcz9qIzRH0e5HSL&new=1)
+ ## [战略|华为鸿蒙不是为了替代安卓，而是打造物联网的生态系统](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=Fc5KU-bAbRwDAHDuZHiWsQI2fJa0jpB0-ogmcsBO7*NBUVIw*Hkf15pBh*6n3VQnyMAn3Hwq6c0mtvBWobm8a4h3st*GUagXc2*eWBhG53EiGKuqL5yCs362TCMk3aW1&new=1)
  > 导读华为推出鸿蒙之始，很多人以为这是一个噱头，后来以为是安卓系统的替代，其实鸿蒙不是为了替代安卓系统或者IOS系统，而是为了破局而生。按照华为的思路，鸿蒙系统是为了在未来连接一个万物互联的世界，把所...
- ## [每天更新这么多 App，TMD 烦死了..](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=vHM4pWwTyrVfbxBK4yj0I8z*M5F022LoavrLtS45cyYcVcKC4PoFGWdBHRabho2D-fXyGhDPDq*B*cO6iIG7dg5dhGz-Z2Lr9aLu67TzseYuo8xEqt2pDt01NMiOMlm*&new=1)
+ ## [每天更新这么多 App，TMD 烦死了..](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=vHM4pWwTyrVfbxBK4yj0I8z*M5F022LoavrLtS45cyYcVcKC4PoFGWdBHRabho2DSjFMs5I3fEzZg5OXN8gbBs4sSDrfnJcY3EBRzqVJlP3O6QSFVsV1oMyqr28QUfZh&new=1)
  > 现在的 App 更新太频繁了，也太大了。上周微信刚刚更新了 8.0 版本，带来新的表情、状态、音乐 MV 等玩法，直到现在关于它的讨论还频繁登上热搜。虽然很多人抱怨已久的功能并没有得到解决，但这次的 8.0 更新变...
- ## [中国建设信息化：我国率先发布首部《城市大脑全球标准研究报告》](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=cXdWglDEFvQRnArOspbMKy06Yk*lws6W18u9eqZj-wzMFby205aQ2BbgCF*ZdSPexjHFMsuf4lbcs51aWMZPRtSgHobN**xTbYTHyaZmB3RkuqfzwGEebcE*s0LeLzx5&new=1)
+ ## [中国建设信息化：我国率先发布首部《城市大脑全球标准研究报告》](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=cXdWglDEFvQRnArOspbMKy06Yk*lws6W18u9eqZj-wzMFby205aQ2BbgCF*ZdSPe8XIIoOTGIhzAWnKgp8VEt5TURWAvwie*p0ueAbgG3wkp4xVZoYizxxZTuayvLpDJ&new=1)
  > 《中国建设信息化》2021年1月刊本刊记者：陈桂龙城市大脑不局限在一个城市、一个地区或一个国家内部，当世界各国的城市大脑走向成熟、实现连接之后，世界范围的城市大脑最终会形成一个统一的“世界神经系统”。...
- ## [懂行100|与“懂行人”同行，高速公路联网收费迈向智慧化时代](http://mp.weixin.qq.com/s?src=11&timestamp=1611892805&ver=2857&signature=9a*gJtr8WM1J4PJ1qbnQKMp4qp3GMU2Cst7p9Yh9iGPRFx-HMX1-mAxsKztu9Xu-pe*R97EfNFT*6xK-kV0kwcpj-G*CyhV3ROpwbn1sEFyspgclIwceGS7nt22hl1LR&new=1)
+ ## [懂行100|与“懂行人”同行，高速公路联网收费迈向智慧化时代](http://mp.weixin.qq.com/s?src=11&timestamp=1611894605&ver=2857&signature=9a*gJtr8WM1J4PJ1qbnQKMp4qp3GMU2Cst7p9Yh9iGPRFx-HMX1-mAxsKztu9Xu-UKI-cPvkHESJ5jifmnJQmuJF1sm7TL5JUW1gImyw0F74MvAmmYQQNY9lLosc2ICH&new=1)
  > 懂行100 从行业中来，到行业中去100+行业数字化转型精品案例，看“懂行人”如何深入理解客户的业务需求、将创新领先的技术与应用场景深度融合、携手生态共创行业数字化转型新空间，共赢行业新价值！2020年1月1...
 # IT 技术 
  ## [扛不住了，老大让我干掉if-else](http://developer.51cto.com/art/202101/643559.htm)
@@ -81,20 +83,20 @@ categories: IT NEWS
  > 
  ## [程序员狂怒：薪水被应届生倒挂了，很不爽，天王老子也别想留住我！](https://blog.csdn.net/star_nwe/article/details/113259044)
  > 程序员狂怒：薪水被应届生倒挂了，很不爽，天王老子也别想留住我！
- ## [2021南大855（人工智能）考研计划一览](https://blog.csdn.net/weixin_42297855/article/details/102745244)
- > 2021南大855（人工智能）考研计划一览
- ## [Python基础入门到爬虫，数据分析，机器学习，深度学习等详细教程免费分享！一直白嫖一直爽！](https://blog.csdn.net/weixin_45293202/article/details/112705379)
- > Python基础入门到爬虫，数据分析，机器学习，深度学习等详细教程免费分享！一直白嫖一直爽！
- ## [C题这是想干嘛，2021年美赛C题提前15天发数据？](https://blog.csdn.net/weixin_46111814/article/details/112516322)
- > C题这是想干嘛，2021年美赛C题提前15天发数据？
- ## [学习Webpack4这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/109876123)
- > 学习Webpack4这一篇就够了
+ ## [R语言股票市场指数：ARMA-GARCH模型和对数收益率数据探索性分析](https://blog.csdn.net/qq_19600291/article/details/105907223)
+ > R语言股票市场指数：ARMA-GARCH模型和对数收益率数据探索性分析
+ ## [干货干货~C语言版学生成绩管理系统【数据结构课程设计，百行代码实现功能强化版（内附源码）】](https://blog.csdn.net/qq_44888152/article/details/108539125)
+ > 干货干货~C语言版学生成绩管理系统【数据结构课程设计，百行代码实现功能强化版（内附源码）】
+ ## [Springboot项目搭建（前端到数据库，超详细）](https://blog.csdn.net/sunnyzyq/article/details/86711708)
+ > Springboot项目搭建（前端到数据库，超详细）
+ ## [Java虚拟机(JVM)面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390752)
+ > Java虚拟机(JVM)面试题（2020最新版）
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [R语言用泊松Poisson回归、GAM样条曲线模型预测骑自行车者的数量](https://blog.csdn.net/qq_19600291/article/details/105472409)
- > R语言用泊松Poisson回归、GAM样条曲线模型预测骑自行车者的数量
- ## [kafka实践（十五）： 滴滴开源Kafka管控平台 Logi-KafkaManager研究](https://blog.csdn.net/yezonggang/article/details/113106244)
- > kafka实践（十五）： 滴滴开源Kafka管控平台 Logi-KafkaManager研究
+ ## [C++虚函数表剖析](https://blog.csdn.net/lihao21/article/details/50688337)
+ > C++虚函数表剖析
+ ## [35款帮助你加薪的IDEA神器插件！](https://blog.csdn.net/qq_42897427/article/details/105001600)
+ > 
 # 人工智能 
  ## [SQL 案例分析之月度销量冠军](https://blog.csdn.net/horses/article/details/112973550)
  > SQL 案例分析之月度销量冠军
@@ -127,6 +129,8 @@ categories: IT NEWS
  ## [python3.7+dlib实现简单的人脸检测](https://blog.csdn.net/weixin_44145452/article/details/113247313)
  > python3.7+dlib实现简单的人脸检测
 # PM 
+ ## [不打价格战，中小教培机构可以怎样做好线上引+留？](http://www.chanpin100.com/article/113463)
+ > 随着教育培训行业的不断发展，行业肯定会慢慢进入洗牌期，有优质师资及课程优势的机构，如何借力线上招生引流？
  ## [做产品，到底选卡片设计还是列表设计？这篇文章告诉你](http://www.chanpin100.com/article/113465)
  > 卡片和列表设计成为移动端用户的热门需求，来看看对此究竟应该如何选择吧～
  ## [职场，不是你solo的地方](http://www.chanpin100.com/article/113454)
