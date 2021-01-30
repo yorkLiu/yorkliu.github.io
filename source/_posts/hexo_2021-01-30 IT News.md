@@ -1,22 +1,28 @@
 ---
 title: 2021-01-30 IT News
 copyright: true
-date: 2021-01-30 12:17:59
+date: 2021-01-30 13:44:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为爱定位，中国联通“沃家伴侣”为您再添一份“安全保险”](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=YoxXZIOOK4zZ*LoCDSN06QkpCx77ZvVn0YvmpJsnrgbqNqFbXuWd*pq5l9JciYK7LYktMFdlcsMddcfnd58bOT6qFeGMwFGA-c6Fs9o-EoZTleYuaLwS6GuBMg6jIhCl&new=1)
- > 老年人们由于身体机能下降，遇到意外和突发状况时往往难以应对，很多在外工作的子女都很担心独自在家的老人们，因此不少智能手机、智能手表都在定位服务上下功夫，产品种类多了，对于用户来说选择反而更加困难了...
- ## [微软将DirectML作为单独的API向公众发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=k2SxFSLv9UEnPezEjnzLJvE8Wm72SDYNDbpOapTw8JiIfeBvlMniPHPKXFXd7sRzypnBLd6xDZkeSQkk9Udc46w9j9gzPovxMclnnvnYTYIs2UUiO19nYSb6ltZuLLUx&new=1)
- > 微软近日将DirectML作为面向Win32、UWP和WSL应用程序的独立API而公开发布，此后Windows 10设备都可获得DirectML体验。为方便开发者构建DirectML应用程序，微软单独推出Microsoft.AI.Direc
- ## [云创大数据深耕人工智能领域，大力助推智慧园区建设](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=ohwKNbhE8CWoHkDLMNSKKYddvxMImfa1vRB-MnkIAr2mIE2*AiQZjKLdfEmR3Hc4PgYM8hi3urlKfYnNOL5YMbgU6opm4nZhMDCjVlA6KNX022YEKgSjp5fqpgOnbfEH&new=1)
- > 在2020年全国两会上，智慧城市、智慧社区、智慧园区等建设成为热门主题。作为创建智慧城市的基础，智慧园区建设已经成为当下提速城镇化发展、创新园区及社区管理与服务水平、提升人民生活满意度和幸福感的全新战...
- ## [马斯克：FAA 阻挠人类登陆火星；美做空机构遭散户暴打：我们错了，再不做空；微软云计算收入将超 Office|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=70j31kyJHPXpofDC09D7mKLZh8rv3f6eB*RU3kALNEQSyoXGhlrPD*B1punJYGJIaiLByAFIS*XAC2sNeAQVAE1XYgBAdnHp3zsV1NPMBK8QaH9wGEi5hobBpioQxWhx&new=1)
+ ## [微软 CEO Satya Nadella：确保技术强度民主化，赋能全民开发者](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=2-1Xw9FmdJWUr0N5Tlpf3arqcwlYZUfeJA1ovOyCWV3dsquqSKK1DBWzMwSS2iVembk*L2OTw0OPglwxAKkTZMEt6rUknNCtgIv384uoZHsLIMUTPwJIi85fKfyF25Ia&new=1)
+ > （本文阅读时间：5分钟）“当下，当我们奋力应对全球规模的流行病、经济压力、气候相关的危机和种族不平等事件带来的动乱等重重破坏时，应该考虑将技术作为解决方案的一部分。”——Satya Nadella，微软 CEO我们...
+ ## [马斯克：FAA 阻挠人类登陆火星；美做空机构遭散户暴打：我们错了，再不做空；微软云计算收入将超 Office|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=70j31kyJHPXpofDC09D7mKLZh8rv3f6eB*RU3kALNEQ49IzL7bzMxeajwnxc9gdWQ8lmiQsZQTMEPjwN6tKDI2gSgxsN8Lin296COEKWxkJcW3aITByplq-9*sG7WfU8&new=1)
  > 做空机构香橼宣布停止做空：转而专注于做多机会1 月 29 日消息，知名做空机构香橼在推特表示将停止做空研究，未来专注于做多机会。香橼推特称，在专注卖空研究 20 年之后。香橼将不再发布「卖空报告」。未来将专...
- ## [系列报道|2021 IEEE Fellow学术大盘点(6)](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=r3Xef7OmyMkzjmEPSun53a4T4ocMLBZQrjE5bh8lmh91p9TXdpXumyjHx6kdLtFQpToLN34fSpXLPIgf7QOBxgWomuTQQ9DiiNYuLVbY3CgTWnc1OMuNz8wGn5r2ZOLN&new=1)
+ ## [深度|阿里云蒋江伟：什么是真正的云原生?](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=9rgvY2uDkdJhh2LLbIKKx3V6sWpiEQtKfZjIkXGt2bZysEgEFtxikjcLkF3mq9ufKn1KJFrXas8otLW9Ygjups788Vsw*g87Tf8iIIlSXgoITZBHkO5UU9qu3zAO2tLM&new=1)
+ > 而今，云原生成了耳熟能详的热门词，似乎不提云原生就落伍了，加入CNCF也成了云厂商引以为傲的技术优势。我们也看到各种云原生的定义，有来自CNCF的“微服务+容器+持续交付+DevOps”，也有来自不同云厂商的说法...
+ ## [商务部发力数字商务 政策聚焦五项行动](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=di54c3X7gtl4MhH*-X*42LR3rin1THYJKMVhoaYkD*V7jntjWXMbqenw6Lv-UZztT1WfKjrKQbRAXqYfR*v3rJ-gnq7e1wxdMPZjtVnx9lQ=&new=1)
+ > 商务部办公厅日前发布的《关于加快数字商务建设 服务构建新发展格局的通知》提出，开展消费数字化升级行动、“数商兴农”行动、“丝路电商”行动、数字化转型赋能行动、数字商务服务创新行动等5项行动，以此...
+ ## [微软将DirectML作为单独的API向公众发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=k2SxFSLv9UEnPezEjnzLJvE8Wm72SDYNDbpOapTw8JjBMTtJio*P5ZuHSuyVuwMT1X8EgyJni3bJS1afUfGdLicl2GR3lO2JmMl7HJHEDe8EP4*RufR9lBQniWJNhei7&new=1)
+ > 微软近日将DirectML作为面向Win32、UWP和WSL应用程序的独立API而公开发布，此后Windows 10设备都可获得DirectML体验。为方便开发者构建DirectML应用程序，微软单独推出Microsoft.AI.Direc
+ ## [为爱定位，中国联通“沃家伴侣”为您再添一份“安全保险”](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=YoxXZIOOK4zZ*LoCDSN06QkpCx77ZvVn0YvmpJsnrgYqYW5vzfUKk-rgxiB3pMH8jH6a-bLv5tOWgz-H0nsEkivZOiNAJ5P1zWzlMT8eIQOn4Kt-YD1fWHP16dMB9r9g&new=1)
+ > 老年人们由于身体机能下降，遇到意外和突发状况时往往难以应对，很多在外工作的子女都很担心独自在家的老人们，因此不少智能手机、智能手表都在定位服务上下功夫，产品种类多了，对于用户来说选择反而更加困难了...
+ ## [云创大数据深耕人工智能领域，大力助推智慧园区建设](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=ohwKNbhE8CWoHkDLMNSKKYddvxMImfa1vRB-MnkIAr3gy3uuiJbxNsPQ8jJYv*Z2jrgWsgOSz-jonU1eJ6DoKQkfAJJN979Sn1f6QxNU73FFF7-X*yj5ic9kRGf0y0AD&new=1)
+ > 在2020年全国两会上，智慧城市、智慧社区、智慧园区等建设成为热门主题。作为创建智慧城市的基础，智慧园区建设已经成为当下提速城镇化发展、创新园区及社区管理与服务水平、提升人民生活满意度和幸福感的全新战...
+ ## [系列报道|2021 IEEE Fellow学术大盘点(6)](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=r3Xef7OmyMkzjmEPSun53a4T4ocMLBZQrjE5bh8lmh89QnX5M67njo1fdMQrCyAQIZe1h2RdjXVEWmfr5*6NLIoGxDruVkz4N9crxILtz2Di4fKBANTgLKqMc3dSlfCX&new=1)
  > 近日，IEEE Fellow 2021 入选名单揭晓，这一奖项代表学术科技领域权威荣誉和重要职业成就。其中，全球 282 人入选，华人学者接近三成。IEEE的全称是电气电子工程师学会（The Institute of Electrical
- ## [阵容强大!刚刚，华为联合90家高科技公司及工信部重磅官宣..](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=tkzuzqx-2GjybeYy2ktIDhm4toKEcahnqZ-dcML2ZchnAxWGNgzihpGgvcuMrL45mfSJfzBbaEsTB0Y9N4Utn7bzxF2*kAVd8TcrWblINwkGjH8bh*ParGVGwyPn4zRr&new=1)
+ ## [阵容强大!刚刚，华为联合90家高科技公司及工信部重磅官宣..](http://mp.weixin.qq.com/s?src=11&timestamp=1611984604&ver=2859&signature=tkzuzqx-2GjybeYy2ktIDhm4toKEcahnqZ-dcML2ZchuIisPnj*bk4uzaelliBbXUUOGoTyAPuV8tGohBSdLwvKoxCB*LqPI0vtEq1EtGq-ifwZjbWyNE0IdgyUdg2xA&new=1)
  > 1月28日，工信部官网消息，为统筹推进集成电路标准化工作，加强标准化队伍建设，有关单位提出了全国集成电路标准化技术委员会筹建申请，秘书处拟设在中国电子技术标准化研究院，公示期一个月。对外公开的委员单...
 # IT 技术 
  ## [人工智能与网络安全是一把双刃剑](http://ai.51cto.com/art/202101/643509.htm)
@@ -33,26 +39,28 @@ categories: IT NEWS
  > 鸿蒙开发板试用报告丨耗时一周终于体验了从0到放弃
  ## [四张图带你搞懂 Kubernetes Pod 如何获取 IP 地址](http://os.51cto.com/art/202101/643371.htm)
  > 四张图带你搞懂 Kubernetes Pod 如何获取 IP 地址
- ## [.NET软件开发――C语言基础视频课程](http://fellow.51cto.com/art/202012/638070.htm?qd=51ctojrzd)
- > .NET软件开发――C语言基础视频课程
+ ## [2021年软考系统集成项目管理工程师--基础知识（下）视频培训课程](http://fellow.51cto.com/art/202101/639110.htm?qd=51ctojrzd)
+ > 2021年软考系统集成项目管理工程师--基础知识（下）视频培训课程
+ ## [盘点：2021年1月人工智能领域融资活动一览](http://ai.51cto.com/art/202101/643767.htm)
+ > 在积极过去的2021年1月份，我国人工智能领域便融资频繁，诸多企业取得高额融资，发展不断加码。为让大家更
+ ## [2021年，学习这7门课程，学会创建无代码应用](http://developer.51cto.com/art/202101/643761.htm)
+ > 这是无代码课程开始发挥作用的地方，教新企业家如何构建无代码产品和服务。以下是7个选项，无特定顺序。
+ ## [我差点因为在应用程序中选择使用React而被解雇](http://developer.51cto.com/art/202101/643760.htm)
+ > 作为一名架构师，我的任务是创建一个技术提案，其中包含架构细节，方法，路线图，指南，最重要的是将要使用
+ ## [为什么有些高级开发人员不喜欢Python](http://developer.51cto.com/art/202101/643759.htm)
+ > 许多高级开发人员表示，他们发现使用动态类型的语言令人头疼。下面的响应收集了大部分拍手。
+ ## [冲破迷雾拔云见日，经2020年打磨沉淀的远程办公类软件](http://biz.51cto.com/art/202101/643758.htm)
+ > 2020年初突如其来的疫情，门店停业、工厂停产、物流停摆……各行各业陷入巨大危机。在这种情况下，互联网行
+ ## [展望2021：混合云开启云计算下半场](http://cloud.51cto.com/art/202101/643757.htm)
+ > 在笔者随机采访的云计算用户及服务提供商中，几乎所有人都认为，混合云是2021年云计算领域的主流趋势，并且
+ ## [展望2021： 数字化转型加速 未来办公将迎来新趋势](http://www.cioage.com/art/202101/643756.htm)
+ > 随着大数据、云计算、AI、5G技术逐渐普及，办公方式的改变也在加速进行。展望2021年，我们的办公模式将会迎
+ ## [手把手教你用Scrapy+Gerapy部署网络爬虫](http://developer.51cto.com/art/202101/643755.htm)
+ > 本篇带给大家一篇用Scrapy+Gerapy部署网络爬虫，想对你有所帮助。
+ ## [同态加密：密码学的下一个黄金时代](http://netsecurity.51cto.com/art/202101/643754.htm)
+ > 尽管说全同态加密（FHE）才诞生了十年多，伴随强大算力的计算机和更好的算法，使得全同态加密得以落地。
  ## [勒索软件攻击将在2021年爆发](http://netsecurity.51cto.com/art/202101/643753.htm)
  > 事实证明，对于勒索软件的攻击者来说，COVID-19在全球范围的流行是一个好消息，在未来的一年他们的攻击活动
- ## [一不小心把MySQL密码忘记了，该怎么办？](http://database.51cto.com/art/202101/643752.htm)
- > 很久之前，在centos服务器上安装了mysql5.7的数据库，但是很长时间没有使用过，里面有很多宝贵的数据，但是
- ## [逆向分析工程师硬件调试入门，第1篇：SWD、OpenOCD与Xbox One控制器](http://os.51cto.com/art/202101/643751.htm)
- > 在本文中，我们将为读者详细介绍如何利用相关工具从Xbox One控制器中提取、分析和修改相关固件。
- ## [Windows 软件包管理器 WinGet 添加 “卸载程序”功能](http://os.51cto.com/art/202101/643750.htm)
- > 1月30日消息 微软于 2020 年 5 月发布了 Windows 软件包管理器 WinGet，将基于命令行的软件包管理器引入 Wi
- ## [分析师：Azure营收将在2022年超过Office，成为微软最大的收入来源](http://news.51cto.com/art/202101/643749.htm)
- > 1月29日消息，据外媒报道，Piper Sandler分析师Brent Bracelin预测，到2022年，微软用于托管网
- ## [官方文件确认微软在开发 Win10 云 PC 服务](http://os.51cto.com/art/202101/643748.htm)
- > 1 月 30 日消息 此前有多份报道显示，微软正在秘密研发一款全新的 Windows 10 驱动的云 PC 服务，以实现现
- ## [微信8.0新变化不完全汇总：16条你最满意哪个？](http://mobile.51cto.com/app-show-643747.htm)
- > 近日，微信8.0版先后登陆iOS、Android，而作为如此一个重大版本的更新，官方更新日志竟然懒得出奇，只有一
- ## [微信8.0还能这样玩！微信8.0状态设置小技巧](http://mobile.51cto.com/app-show-643746.htm)
- > 这两天，微信8.0简直要被刷爆了，特别是它那几项新功能，被小伙伴们玩得一塌糊涂。这其中“状态”就是新版
- ## [2021年首更！Edge浏览器的这波新功能香爆了](http://os.51cto.com/art/202101/643745.htm)
- > 跨入2021年之后，我们也迎来了Edge浏览器的首次更新，与以往的小打小闹不同，此次Edge带来了很多非常有意思
  ## [让微信 8.0 「裂开」「炸弹」的特效代码来了](https://blog.csdn.net/fengqiuzhihua/article/details/113279669)
  > 让微信 8.0 「裂开」「炸弹」的特效代码来了
  ## [结合论文看Youtube推荐系统中召回和排序的演进之路（中）篇](https://blog.csdn.net/Gamer_gyt/article/details/113237254)
@@ -114,10 +122,5 @@ categories: IT NEWS
  > 拿来就能用！简单 Python 代码实现建筑识别
  ## [11个编程接单的网站，你有技术就有收入，有收入就有女朋友《男盆友》](https://blog.csdn.net/weixin_45293202/article/details/113266704)
  > 11个编程接单的网站，你有技术就有收入，有收入就有女朋友《男盆友》
-# PM 
- ## [优衣库CNY营销，抓住了春节最重要的关键词：“顺”](http://www.chanpin100.com/article/113460)
- > 品牌能够调用的“创意”越多，越不能被“创意”所劫持，而是要保持理性和克制，探寻营销的本质——尤其是在竞争最激烈的“春节档”。
- ## [不打价格战，中小教培机构可以怎样做好线上引+留？](http://www.chanpin100.com/article/113463)
- > 随着教育培训行业的不断发展，行业肯定会慢慢进入洗牌期，有优质师资及课程优势的机构，如何借力线上招生引流？
 
     
