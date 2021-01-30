@@ -1,21 +1,23 @@
 ---
 title: 2021-01-30 IT News
 copyright: true
-date: 2021-01-30 11:26:22
+date: 2021-01-30 12:17:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [系列报道|2021 IEEE Fellow学术大盘点(6)](http://mp.weixin.qq.com/s?src=11&timestamp=1611975605&ver=2859&signature=r3Xef7OmyMkzjmEPSun53a4T4ocMLBZQrjE5bh8lmh91p9TXdpXumyjHx6kdLtFQXeig8DoM1jKi1oUqlNMdyktOi1SHRn9UCt2BXynY8HeQFUtOBuEf-l5V-ZjPqhKD&new=1)
- > 近日，IEEE Fellow 2021 入选名单揭晓，这一奖项代表学术科技领域权威荣誉和重要职业成就。其中，全球 282 人入选，华人学者接近三成。IEEE的全称是电气电子工程师学会（The Institute of Electrical
- ## [阵容强大!刚刚，华为联合90家高科技公司及工信部重磅官宣..](http://mp.weixin.qq.com/s?src=11&timestamp=1611975605&ver=2859&signature=tkzuzqx-2GjybeYy2ktIDhm4toKEcahnqZ-dcML2ZchnAxWGNgzihpGgvcuMrL45gerUpdgJAPIIj30*OMhc-WXSGpkq34-juZ81dxWaNFSt*BAkZDofmy9*L-q8uQ54&new=1)
- > 1月28日，工信部官网消息，为统筹推进集成电路标准化工作，加强标准化队伍建设，有关单位提出了全国集成电路标准化技术委员会筹建申请，秘书处拟设在中国电子技术标准化研究院，公示期一个月。对外公开的委员单...
- ## [云创大数据深耕人工智能领域，大力助推智慧园区建设](http://mp.weixin.qq.com/s?src=11&timestamp=1611975605&ver=2859&signature=ohwKNbhE8CWoHkDLMNSKKYddvxMImfa1vRB-MnkIAr2mIE2*AiQZjKLdfEmR3Hc4US5nqxIzsz*CbE4icYnZqKiZ2w-7ByeAfKG-Ph-R8H5Z7B0UNyD6lEPg4*Gnyglz&new=1)
- > 在2020年全国两会上，智慧城市、智慧社区、智慧园区等建设成为热门主题。作为创建智慧城市的基础，智慧园区建设已经成为当下提速城镇化发展、创新园区及社区管理与服务水平、提升人民生活满意度和幸福感的全新战...
- ## [微软将DirectML作为单独的API向公众发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611975605&ver=2859&signature=k2SxFSLv9UEnPezEjnzLJvE8Wm72SDYNDbpOapTw8JiIfeBvlMniPHPKXFXd7sRzvJrAoC0xz8VxwZdK1ywqvEz*isT4oageiirEfjwPeclytKALurg-1m9gqh7Jq0U9&new=1)
- > 微软近日将DirectML作为面向Win32、UWP和WSL应用程序的独立API而公开发布，此后Windows 10设备都可获得DirectML体验。为方便开发者构建DirectML应用程序，微软单独推出Microsoft.AI.Direc
- ## [为爱定位，中国联通“沃家伴侣”为您再添一份“安全保险”](http://mp.weixin.qq.com/s?src=11&timestamp=1611975605&ver=2859&signature=YoxXZIOOK4zZ*LoCDSN06QkpCx77ZvVn0YvmpJsnrgbqNqFbXuWd*pq5l9JciYK7RQHhMtZNcpF*ACGJPaB2c*Di19LND9hhYA8Ar177Uw-2FmDMJTNbiW3ZVNc*eV3q&new=1)
+ ## [为爱定位，中国联通“沃家伴侣”为您再添一份“安全保险”](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=YoxXZIOOK4zZ*LoCDSN06QkpCx77ZvVn0YvmpJsnrgbqNqFbXuWd*pq5l9JciYK7LYktMFdlcsMddcfnd58bOT6qFeGMwFGA-c6Fs9o-EoZTleYuaLwS6GuBMg6jIhCl&new=1)
  > 老年人们由于身体机能下降，遇到意外和突发状况时往往难以应对，很多在外工作的子女都很担心独自在家的老人们，因此不少智能手机、智能手表都在定位服务上下功夫，产品种类多了，对于用户来说选择反而更加困难了...
+ ## [微软将DirectML作为单独的API向公众发布](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=k2SxFSLv9UEnPezEjnzLJvE8Wm72SDYNDbpOapTw8JiIfeBvlMniPHPKXFXd7sRzypnBLd6xDZkeSQkk9Udc46w9j9gzPovxMclnnvnYTYIs2UUiO19nYSb6ltZuLLUx&new=1)
+ > 微软近日将DirectML作为面向Win32、UWP和WSL应用程序的独立API而公开发布，此后Windows 10设备都可获得DirectML体验。为方便开发者构建DirectML应用程序，微软单独推出Microsoft.AI.Direc
+ ## [云创大数据深耕人工智能领域，大力助推智慧园区建设](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=ohwKNbhE8CWoHkDLMNSKKYddvxMImfa1vRB-MnkIAr2mIE2*AiQZjKLdfEmR3Hc4PgYM8hi3urlKfYnNOL5YMbgU6opm4nZhMDCjVlA6KNX022YEKgSjp5fqpgOnbfEH&new=1)
+ > 在2020年全国两会上，智慧城市、智慧社区、智慧园区等建设成为热门主题。作为创建智慧城市的基础，智慧园区建设已经成为当下提速城镇化发展、创新园区及社区管理与服务水平、提升人民生活满意度和幸福感的全新战...
+ ## [马斯克：FAA 阻挠人类登陆火星；美做空机构遭散户暴打：我们错了，再不做空；微软云计算收入将超 Office|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=70j31kyJHPXpofDC09D7mKLZh8rv3f6eB*RU3kALNEQSyoXGhlrPD*B1punJYGJIaiLByAFIS*XAC2sNeAQVAE1XYgBAdnHp3zsV1NPMBK8QaH9wGEi5hobBpioQxWhx&new=1)
+ > 做空机构香橼宣布停止做空：转而专注于做多机会1 月 29 日消息，知名做空机构香橼在推特表示将停止做空研究，未来专注于做多机会。香橼推特称，在专注卖空研究 20 年之后。香橼将不再发布「卖空报告」。未来将专...
+ ## [系列报道|2021 IEEE Fellow学术大盘点(6)](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=r3Xef7OmyMkzjmEPSun53a4T4ocMLBZQrjE5bh8lmh91p9TXdpXumyjHx6kdLtFQpToLN34fSpXLPIgf7QOBxgWomuTQQ9DiiNYuLVbY3CgTWnc1OMuNz8wGn5r2ZOLN&new=1)
+ > 近日，IEEE Fellow 2021 入选名单揭晓，这一奖项代表学术科技领域权威荣誉和重要职业成就。其中，全球 282 人入选，华人学者接近三成。IEEE的全称是电气电子工程师学会（The Institute of Electrical
+ ## [阵容强大!刚刚，华为联合90家高科技公司及工信部重磅官宣..](http://mp.weixin.qq.com/s?src=11&timestamp=1611979204&ver=2859&signature=tkzuzqx-2GjybeYy2ktIDhm4toKEcahnqZ-dcML2ZchnAxWGNgzihpGgvcuMrL45mfSJfzBbaEsTB0Y9N4Utn7bzxF2*kAVd8TcrWblINwkGjH8bh*ParGVGwyPn4zRr&new=1)
+ > 1月28日，工信部官网消息，为统筹推进集成电路标准化工作，加强标准化队伍建设，有关单位提出了全国集成电路标准化技术委员会筹建申请，秘书处拟设在中国电子技术标准化研究院，公示期一个月。对外公开的委员单...
 # IT 技术 
  ## [人工智能与网络安全是一把双刃剑](http://ai.51cto.com/art/202101/643509.htm)
  > 人工智能与网络安全是一把双刃剑
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 鸿蒙开发板试用报告丨耗时一周终于体验了从0到放弃
  ## [四张图带你搞懂 Kubernetes Pod 如何获取 IP 地址](http://os.51cto.com/art/202101/643371.htm)
  > 四张图带你搞懂 Kubernetes Pod 如何获取 IP 地址
- ## [【131】-MAC物理地址](http://fellow.51cto.com/art/202101/642414.htm?qd=51ctojrzd)
- > 【131】-MAC物理地址
+ ## [.NET软件开发――C语言基础视频课程](http://fellow.51cto.com/art/202012/638070.htm?qd=51ctojrzd)
+ > .NET软件开发――C语言基础视频课程
  ## [勒索软件攻击将在2021年爆发](http://netsecurity.51cto.com/art/202101/643753.htm)
  > 事实证明，对于勒索软件的攻击者来说，COVID-19在全球范围的流行是一个好消息，在未来的一年他们的攻击活动
  ## [一不小心把MySQL密码忘记了，该怎么办？](http://database.51cto.com/art/202101/643752.htm)
@@ -55,7 +57,7 @@ categories: IT NEWS
  > 让微信 8.0 「裂开」「炸弹」的特效代码来了
  ## [结合论文看Youtube推荐系统中召回和排序的演进之路（中）篇](https://blog.csdn.net/Gamer_gyt/article/details/113237254)
  > 
- ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
  > 
  ## [PostgreSQL中Oid和Relfilenode的映射](https://blog.csdn.net/weixin_46199817/article/details/113108402)
  > PostgreSQL中Oid和Relfilenode的映射
@@ -117,7 +119,5 @@ categories: IT NEWS
  > 品牌能够调用的“创意”越多，越不能被“创意”所劫持，而是要保持理性和克制，探寻营销的本质——尤其是在竞争最激烈的“春节档”。
  ## [不打价格战，中小教培机构可以怎样做好线上引+留？](http://www.chanpin100.com/article/113463)
  > 随着教育培训行业的不断发展，行业肯定会慢慢进入洗牌期，有优质师资及课程优势的机构，如何借力线上招生引流？
- ## [做产品，到底选卡片设计还是列表设计？这篇文章告诉你](http://www.chanpin100.com/article/113465)
- > 卡片和列表设计成为移动端用户的热门需求，来看看对此究竟应该如何选择吧～
 
     
