@@ -1,21 +1,23 @@
 ---
 title: 2021-01-31 IT News
 copyright: true
-date: 2021-01-31 10:03:01
+date: 2021-01-31 10:56:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [再见，气球基站](http://mp.weixin.qq.com/s?src=11&timestamp=1612058405&ver=2861&signature=fW2qTVMZ0M6tZ8JJh-YlTsMw2H*5k6GrAEEoP*XJs3Pr-XlxVP6FXojhVbo9RxbG1eSVP5PEvJ5zVQFYBPqCBJwidOoLxqeT1Cg*jJPauoacrjRYBS2pXowo0bsrjyLT&new=1)
- > 日前，Google宣布关闭Loon项目。历经9年，一场疯狂而大胆的创新探索就此画上了句号，不禁令人感到惋惜。艰难的决定2013年6月，Google启动Loon项目，计划将气球漂浮于平流层充当空中基站，为地面提供低成本、广覆...
- ## [小米的隔空充电技术或许是概念产品，需要跨越的技术难点太多](http://mp.weixin.qq.com/s?src=11&timestamp=1612058405&ver=2861&signature=puoMqpBGBIZZlXbaeOmpRgh3q1HirjH0*e3pu4nfb71j9KhFCjuR0pRA5K7lUTRTDQ7C90m-DTaMTlA5nOJ7h7R68-R1-iOdB8Mnm9cqL8e5ddhKJ4p4QgutWtnm-LAv&new=1)
- > 近日小米创始人兼董事长雷军的隔空充电技术被炒热，其实这种技术早已在国外传出，不过由于技术难点太多，一直都没有变成现实，小米能将它变成现实么？小米提出的隔空充电技术其实在国外已有许多的理论，不过由于...
- ## [朝鲜黑客是如何成功黑掉中美研究人员的?](http://mp.weixin.qq.com/s?src=11&timestamp=1612058405&ver=2861&signature=PoQ3xjFjvD5fgF1BK1DvRoD5aYCvEYfePNdoBjNCls9EUOLrSRNY5d8qO5nUiMJ0WYi1zI0LSh3wQjFV21Sn8Zbrr6Uos5Xz0Fk30G2ZRMZedo30J*eTIZYcxUB1hRMb&new=1)
- > 朝鲜全国GDP比不上汕头市（363亿）然而近日，Google网络安全威胁分析部门披露了一起由朝鲜黑客发起的滲透活动，他们发现这批黑客不仅专业素质过硬，而且被黑的对象都是各大公司组织内的开发人员和漏洞研究人员。...
- ## [GeForce Now云游戏服务添加对Chrome浏览器的支持](http://mp.weixin.qq.com/s?src=11&timestamp=1612058405&ver=2861&signature=jlqpip7GwuUDhrY7rGs*jYuAJF4xgZK8*aB39mHBQr7iuQU-tUYLmSVM0KTl9iv0u0zRXtIXgUyFHpqU4DCVNHysRG2P9bWtZq1R8Pw9EcgwIFSL-6LlWP1TCwJMECrv&new=1)
+ ## [招聘3D打印人才：软件工程师、纳米复合材料研究、金属工程师等](http://mp.weixin.qq.com/s?src=11&timestamp=1612060205&ver=2861&signature=njw0zSvSSGND1YK3PSpH*Q46*mnHqI6lSSOH7aL4TSX1I3q*k9DVtk9BL6b-RUfEfISdwGAGjiMqkgqFW5ONDspxKHtbyVTvzvn1m4gaGX2hy9fnt88-W-xB881DMs*E&new=1)
+ > 2021年1月，不少3D打印企业单位告诉南极熊，“我们准备2021年把3D打印业务做得更好，但是缺人才啊。你们南极熊帮忙招点人才呗。”“是啊，企业、行业要发展，归根到底还是要靠人才。你们把招聘信息发布到南极熊3...
+ ## [GeForce Now云游戏服务添加对Chrome浏览器的支持](http://mp.weixin.qq.com/s?src=11&timestamp=1612060205&ver=2861&signature=jlqpip7GwuUDhrY7rGs*jYuAJF4xgZK8*aB39mHBQr5mPbNpahO8z8vE2VZHVMRCsz5BT0Wu8Wp28VxXShL5tfQ82yX-uRhoSqujKw1WMhIoO5LO6h8ElMc6DICzbEsS&new=1)
  > NVIDIA宣布其云游戏服务NVIDIA GeForce Now通过Safari登陆iOS平台，此外将在Windows和macOS平台上添加对Chrome浏览器的支持。在GeForce Now 2.0.27 Beta更新日志，NVIDIA表
- ## [从让利千亿到460亿，运营商去年提速降费“出工不出力”?](http://mp.weixin.qq.com/s?src=11&timestamp=1612058405&ver=2861&signature=mlQYeaL*tOcKZviUjLNEIXkhtACgWcAH-ZMiwJiRw9HAEemLCQMYpoTu9-8wwzwohcawVE87F8aEnL8gn84Hy6CsihMrBBNYNeAyl7yssk8FUUswyo*3Bmra4NgywcVK&new=1)
+ ## [小米的隔空充电技术或许是概念产品，需要跨越的技术难点太多](http://mp.weixin.qq.com/s?src=11&timestamp=1612060205&ver=2861&signature=puoMqpBGBIZZlXbaeOmpRgh3q1HirjH0*e3pu4nfb73-5oMDpf8m5qoSPpzeCiHJ5zVjerxqtR2XKpHZANPNGwzpr7W0lCqI9jzPLX29WDpOkmhB*wzGKTylir1aO9Il&new=1)
+ > 近日小米创始人兼董事长雷军的隔空充电技术被炒热，其实这种技术早已在国外传出，不过由于技术难点太多，一直都没有变成现实，小米能将它变成现实么？小米提出的隔空充电技术其实在国外已有许多的理论，不过由于...
+ ## [从让利千亿到460亿，运营商去年提速降费“出工不出力”?](http://mp.weixin.qq.com/s?src=11&timestamp=1612060205&ver=2861&signature=mlQYeaL*tOcKZviUjLNEIXkhtACgWcAH-ZMiwJiRw9EuM9*oX9OZgYDWtDD9LVfJ3rWlC3ZyLLHbdr0zkozxkt5*i72W1z70Kjfc1BVbr4G7Z0Mo-trHrHbhS-khe*ki&new=1)
  > 在近日国务院新闻办举行的新闻发布会上，国务院国有资产监督管理委员会秘书长、新闻发言人彭华岗介绍了2020年中央企业经济运行情况：中央企业2020年降低全社会运行成本1965亿元，其中，通信企业贯彻落实提速降费...
+ ## [再见，气球基站](http://mp.weixin.qq.com/s?src=11&timestamp=1612060205&ver=2861&signature=fW2qTVMZ0M6tZ8JJh-YlTsMw2H*5k6GrAEEoP*XJs3P6gxLUDEnNeLnSvs4pySn*idKroLYkfk2GXySzohVgIsrOAACXIvr*ntU8uuJ-QuTAmL-uY9wlGZN4BJbzX*oz&new=1)
+ > 日前，Google宣布关闭Loon项目。历经9年，一场疯狂而大胆的创新探索就此画上了句号，不禁令人感到惋惜。艰难的决定2013年6月，Google启动Loon项目，计划将气球漂浮于平流层充当空中基站，为地面提供低成本、广覆...
+ ## [朝鲜黑客是如何成功黑掉中美研究人员的?](http://mp.weixin.qq.com/s?src=11&timestamp=1612060205&ver=2861&signature=PoQ3xjFjvD5fgF1BK1DvRoD5aYCvEYfePNdoBjNCls8irJ6B5ozU9yq9ZZZDpnmGlH*MOH7rmCrlNKoQTcjFNY2fkZjcGQxzYd0XRHyav*Sw9tMKF3E6AU*v1wrfygZd&new=1)
+ > 朝鲜全国GDP比不上汕头市（363亿）然而近日，Google网络安全威胁分析部门披露了一起由朝鲜黑客发起的滲透活动，他们发现这批黑客不仅专业素质过硬，而且被黑的对象都是各大公司组织内的开发人员和漏洞研究人员。...
 # IT 技术 
  ## [人工智能与网络安全是一把双刃剑](http://ai.51cto.com/art/202101/643509.htm)
  > 人工智能与网络安全是一把双刃剑
@@ -47,7 +49,7 @@ categories: IT NEWS
  > 让微信 8.0 「裂开」「炸弹」的特效代码来了
  ## [结合论文看Youtube推荐系统中召回和排序的演进之路（中）篇](https://blog.csdn.net/Gamer_gyt/article/details/113237254)
  > 
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
  > 
  ## [告别手敲 SQL ？GPT-3 自动帮你写](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/113361420)
  > 告别手敲 SQL ？GPT-3 自动帮你写
@@ -76,17 +78,7 @@ categories: IT NEWS
 # 人工智能 
  ## [你想被开除吗？来看看程序员【离职小技巧】吧](https://blog.csdn.net/hihell/article/details/112917248)
  > 你想被开除吗？来看看程序员【离职小技巧】吧
- ## [SQL 案例分析之月度销量冠军](https://blog.csdn.net/horses/article/details/112973550)
- > SQL 案例分析之月度销量冠军
- ## [支持 RISC-V 芯片的 Android 系统来了！](https://blog.csdn.net/weixin_39786569/article/details/112985624)
- > 支持 RISC-V 芯片的 Android 系统来了！
  ## [IntelliJ IDEA 20周岁啦，为期2天的周年庆活动对开发者免费开放](https://blog.csdn.net/f641385712/article/details/113006183)
- > 
- ## [英特尔火线换帅，苹果搅动乾坤，国芯路在何方？](https://blog.csdn.net/csdnnews/article/details/113011138)
- > 英特尔火线换帅，苹果搅动乾坤，国芯路在何方？
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [疑难杂症：Linux下杀毒软件CPU占用率为何持续升高](https://blog.csdn.net/BEYONDMA/article/details/113031660)
  > 
  ## [算法工程师大致是做什么的](https://blog.csdn.net/longxinchen_ml/article/details/113074403)
  > 算法工程师大致是做什么的
@@ -94,15 +86,25 @@ categories: IT NEWS
  > 影响科学圈的那些计算机代码
  ## [结合论文看Youtube推荐系统中召回和排序的演进之路（中）篇](https://blog.csdn.net/Gamer_gyt/article/details/113237254)
  > 
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [Elastic：开放公开，火力全开（第二部分）](https://blog.csdn.net/UbuntuTouch/article/details/113238956)
  > Elastic：开放公开，火力全开（第二部分）
  ## [让微信 8.0 「裂开」「炸弹」的特效代码来了](https://blog.csdn.net/fengqiuzhihua/article/details/113279669)
  > 让微信 8.0 「裂开」「炸弹」的特效代码来了
- ## [拿来就能用！简单 Python 代码实现建筑识别](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/113361418)
- > 拿来就能用！简单 Python 代码实现建筑识别
- ## [11个编程接单的网站，你有技术就有收入，有收入就有女朋友《男盆友》](https://blog.csdn.net/weixin_45293202/article/details/113266704)
- > 11个编程接单的网站，你有技术就有收入，有收入就有女朋友《男盆友》
+ ## [一个三本程序猿的大厂逆袭之路](https://blog.csdn.net/songguangfan/article/details/113399007)
+ > 一个三本程序猿的大厂逆袭之路
+ ## [本科生搞AI在线崩溃：3个月才跑通GitHub模型，太难了吧](https://blog.csdn.net/weixin_40192857/article/details/113392345)
+ > 本科生搞AI在线崩溃：3个月才跑通GitHub模型，太难了吧
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [【手撸神经网络】深度学习环境搭建与简单神经网络实现图片分类](https://blog.csdn.net/qq_46098574/article/details/113383390)
+ > 【手撸神经网络】深度学习环境搭建与简单神经网络实现图片分类
+ ## [一周一个小朋友系列——YOLOV1 paper Analysis](https://blog.csdn.net/weixin_45626349/article/details/113408720)
+ > 一周一个小朋友系列——YOLOV1 paper Analysis
+ ## [趣味编程故事｜java进程占用cpu过高怎么办，别急我来帮你](https://blog.csdn.net/weixin_34311210/article/details/113233599)
+ > 趣味编程故事｜java进程占用cpu过高怎么办，别急我来帮你
+ ## [利用Python做一个漂亮小姐姐词云跳舞视频](https://blog.csdn.net/fyfugoyfa/article/details/112209719)
+ > 
 
     
