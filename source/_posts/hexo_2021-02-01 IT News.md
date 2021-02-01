@@ -1,22 +1,32 @@
 ---
 title: 2021-02-01 IT News
 copyright: true
-date: 2021-02-01 08:28:25
+date: 2021-02-01 09:33:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [下一个特斯拉?ARK“牛市女皇”重磅报告：牛年15大投资机会(完整版)](http://mp.weixin.qq.com/s?src=11&timestamp=1612137604&ver=2863&signature=9KsPOWz39TPriBa-bAuqi3AGsIlBcBG1Zgzk*o-q3fdBl3ec2aMIyOd50zAW7itA9u4yPG*yJNky7W2ffw7iiSTE5NHaX4xSYxosRWe9-lUYo8gi-EwT8VDRx5ow7gLG&new=1)
- > 导读：比特币将迎来以机构化大时代，数据中心产业正在经历一场翻天覆地的技术革命，电动车销量将暴增20倍……“牛市女皇”Cathie Wood及其团队在2021年度报告中究竟说了什么？因重仓特斯拉而实现惊人业绩的ARK I...
- ## [App会“偷听”?实验结果来了](http://mp.weixin.qq.com/s?src=11&timestamp=1612137604&ver=2863&signature=ji7Gw-LPnX7HXiQBQt5E7*YWMVmWRtfS-M*zTNrnt8WkAaKzgcGEgoAmwZ6S3GstO2HdStFBCFrj073iVDsfYgQ3OL6KpaRabrtvz9MVHHmM6IwwImBktCLgcMTvNTvB&new=1)
- > 进入大数据时代，很多人都有这样的经历，并不是旅游旺季，机票价格却越搜越高；聊天时随口提到某款商品，一转身就在各大平台上看到相关商品的广告推送。在网络时代，我们能很快地找到自己想要的信息，但自己的信...
- ## [深度观察!2020中国工业机器人产业发展与应用!](http://mp.weixin.qq.com/s?src=11&timestamp=1612137604&ver=2863&signature=jHZvdzHEv6x1*UxHVb*LbNQim*a4g-kwO*WivnaQCKGrHbs7vnNwT0yjAc897VqbhZsbUv4A7pwPvGO9JtaryU-rFztv9CtrgKj0*jj9P6dvPM5ew6agWiJpjJqVrCpY&new=1)
+ ## [\[科技早报7点整\]一度蜜科技早报最后一期..](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=ocVmxjwywbbokdWq0umBjqDVDSwilS8oupk1K6T-FGWiJcm6n6rD8TFD*WsX-8z7-Z9*9ZxrSKTz8iHJpfFvwl6wcDSmbBA4A3PHrJJws0-K6w7GAwJ1BZfrZKBYIohh&new=1)
+ > 早上好，科技圈【一度蜜科技早报】第1051期1.全国13个省份下调核酸检测费用为提升新冠病毒核酸检测能力和效率，减轻民众负担，国家医保局表示，春节前全国公立医院新冠病毒核酸检测单人份价格将全部降到80元以内...
+ ## [关注|亨通洛克利推出国内首台基于硅光技术的3.2TCPO样机](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=atgHTeZ8czZidzdWTC*brAs7LPYIB9xzbaJp8qyvpuBTbb6dHcH*MluUHiXssUO0OxoJ-WCFMqhkk0xI24fxaCcpxGtq-L36P-ZYLyjB3fittqr3n8Cq8yBx0A5IKKDk&new=1)
+ > 新 闻 导 读国内首台基于硅光技术的3.2T 光电协同封装(CPO)样机由亨通洛克利研制成功！该样机主要基于硅光技术，采用了核心交换芯片与光引擎在同一高速主板上的协同封装概念，缩短了光电转换功能到核心交换芯片...
+ ## [7点见|孟晚舟申请变更保释条件被拒；小米就清单事件起诉美国政府](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=P35e13krDWvRKlgz2aPY2Vb-ntsRWJ8uChS01jv-33uNQUag1f3TC1w4ZOcc5gsyiHmHKtg21ZdRnRKzZNxyAithV*MeB5IlVdTxQtW8*qpLxC3UJ7Ry63FDAs4YCHYh&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！现代内部就与苹果合作造车存分歧 担心沦为“富士康第二”1月30日，据知情人士透露，韩国现代汽车集团高管对是否应该与苹果合作造车存在分歧，许多人担心成为这家美国科...
+ ## [数字化转型门口挤满野蛮人，自动化巨头这次会掉队吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=vcGy05HXKIk3gfdO5XkUtFlN8rRzn8TPGnSdk6XTr2ToLrLqjJ1*j5e3Bg2Unqfu8GvFal0JP9tSMHm9RwtFO1YOjXu0sKHYZVukgnK445liRsLyO5bAip080yb0d0*G&new=1)
+ > 无论是工业4.0，还是智能制造以及工业互联网，都给人们带来一种万象更新的工业气派。大量的ICT厂商和物联网厂商的介入，加持了人工智能、大数据分析等新锐兵团，整个行业的数字化市场一片热闹。这未免让人觉得，...
+ ## [深度观察!2020中国工业机器人产业发展与应用!](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=jHZvdzHEv6x1*UxHVb*LbNQim*a4g-kwO*WivnaQCKFDtFmEJOCWMcETdffJhQ4ZiXsM9ZBXNtq2YBehZni38HUQQVGjjkJq6Zyyb3g97x*KMqBrxpiMq8k9Qy-OddZ6&new=1)
  > 中国已连续多年成为全球最大的工业机器人市场，通过本文对中国工业机器人产业发展现状、市场特点和应用趋势进行分析和展望。工业机器人在中国制造业应用广泛，覆盖了焊接、喷涂、装配、搬运、堆垛、打磨、涂胶、...
- ## [三大运营商对比全球同行：提速降费下仍然发展迅猛\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1612137604&ver=2863&signature=AtKxgF8FkCrf1TKc-Kfah6cHNjZzvmLZG0GCKJyuFinQCRPtZYUulDClCwZ01iZSODIUfTYfjZCzVFbV35oVM3BGvzfgkjoqA13Ohot3KIZWdhbeFfAmhY4aNzcQ3PbX&new=1)
- > 分析中国电信产业的发展，并比较大三运营商和国外主要运营商的发展情况。编辑 | 智东西内参互联网的高速发展已经彻底改变了电信运营商的生存环境，基于互联网的语音、短信、视频通话等服务给电信运营商的传统业...
- ## [\[C114周报\]中国移动与中国广电启动700MHz 5G共建共享；余承东将兼任华为云与计算BG总裁；爱立信2020净利增长超8倍](http://mp.weixin.qq.com/s?src=11&timestamp=1612137604&ver=2863&signature=9a0NOAqCAO2nK*cOClL65NMod1BkvwzLm7kd-2DmSASU2kGDZ0KJ*iUTHweV34jldTQEohocwgDJNhTzrWdZuVcU6lxuwU*svAsSIV71ZVhKWveK7PkTsT-khymFMg4c&new=1)
+ ## [App会“偷听”?实验结果来了](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=ji7Gw-LPnX7HXiQBQt5E7*YWMVmWRtfS-M*zTNrnt8U*uE6BdfKnLghS3yvBOVpfNcPqQdFiZOZkcpRPAKd3JIIAV3I11RYsdPq5Ucr5Lw9su2-72aBvOqSyh7uPc7pl&new=1)
+ > 进入大数据时代，很多人都有这样的经历，并不是旅游旺季，机票价格却越搜越高；聊天时随口提到某款商品，一转身就在各大平台上看到相关商品的广告推送。在网络时代，我们能很快地找到自己想要的信息，但自己的信...
+ ## [\[C114周报\]中国移动与中国广电启动700MHz 5G共建共享；余承东将兼任华为云与计算BG总裁；爱立信2020净利增长超8倍](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=9a0NOAqCAO2nK*cOClL65NMod1BkvwzLm7kd-2DmSAQHsjB5hm3aSKAYsH-9tPZVb4yglyQtRSBWYAnP2sSfhH*0WUWj6ubhKIHvnDctDcfapAJU-299L7frGX*mqEms&new=1)
  > 周报WEEKLY本周热点有中移动与广电启动700MHz 5G网络共建共享；余承东将兼任华为云与计算BG总裁；爱立信2020年净利同比劲增超8倍• 第126期 •中移动与中国广电启动700MHz 5G共建共享1月27日本周，中国移动与中...
+ ## [三大运营商对比全球同行：提速降费下仍然发展迅猛\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=AtKxgF8FkCrf1TKc-Kfah6cHNjZzvmLZG0GCKJyuFiljGj7QOL6wLzIYRer-etmjeTPqLC3IB2a73M9FfSX41N3Uhc-zqtpfoh4TNJ0GaADCs*d28aEqL*gTO7XhKZX0&new=1)
+ > 分析中国电信产业的发展，并比较大三运营商和国外主要运营商的发展情况。编辑 | 智东西内参互联网的高速发展已经彻底改变了电信运营商的生存环境，基于互联网的语音、短信、视频通话等服务给电信运营商的传统业...
+ ## [下一个特斯拉?ARK“牛市女皇”重磅报告：牛年15大投资机会(完整版)](http://mp.weixin.qq.com/s?src=11&timestamp=1612143005&ver=2863&signature=9KsPOWz39TPriBa-bAuqi3AGsIlBcBG1Zgzk*o-q3fdzXBRp5ZDzOCkgtVEx2uxg7PZVQLkKdS31P0ASnDfEo2WGgWoUx9aZOnZX9W5-0mSMextHrDOPypTeD2tVm2pn&new=1)
+ > 导读：比特币将迎来以机构化大时代，数据中心产业正在经历一场翻天覆地的技术革命，电动车销量将暴增20倍……“牛市女皇”Cathie Wood及其团队在2021年度报告中究竟说了什么？因重仓特斯拉而实现惊人业绩的ARK I...
 # IT 技术 
+ ## [简化微服务验证的新方法：开放式策略代理（OPA）](http://developer.51cto.com/art/202102/643700.htm)
+ > 简化微服务验证的新方法：开放式策略代理（OPA）
  ## [如何使用vim快速加密和解密文件](http://developer.51cto.com/art/202102/643699.htm)
  > 如何使用vim快速加密和解密文件
  ## [阿里技术专家：如何成为顶尖架构师？](http://news.51cto.com/art/202102/643934.htm)
@@ -29,10 +39,20 @@ categories: IT NEWS
  > 我对技术架构的理解与架构师角色的思考
  ## [详解SELinux故障排查和陷阱规避](http://server.51cto.com/sSecurity-643508.htm)
  > 详解SELinux故障排查和陷阱规避
- ## [扛不住了，老大让我干掉if-else](http://developer.51cto.com/art/202101/643559.htm)
- > 扛不住了，老大让我干掉if-else
- ## [【曾贤志】Excel条件格式（私人定制 初级版）](http://fellow.51cto.com/art/202101/638874.htm?qd=51ctojrzd)
- > 【曾贤志】Excel条件格式（私人定制 初级版）
+ ## [【115】-网络实验软件安装及设置](http://fellow.51cto.com/art/202101/642419.htm?qd=51ctojrzd)
+ > 【115】-网络实验软件安装及设置
+ ## [研发体系核心代码和文档安全保护方案](http://netsecurity.51cto.com/art/202102/643946.htm)
+ > 最近调研了一下研发资产安全保护方案，简单地说就是，如何避免开发人员把核心代码和核心资料据为己有，离职
+ ## [JS引擎是如何在幕后工作的](http://developer.51cto.com/art/202102/643942.htm)
+ > 在接下来的系列文章中，我们将深入探讨JS的世界，从引擎到幕后工作原理，从引擎到提升，执行上下文，词法环
+ ## [带着10万字的草稿，C++优化系列来了！](http://developer.51cto.com/art/202102/643936.htm)
+ > 我做过一段时间的SDK开发工作，每当我们发版SDK时候，都要附带着SDK使用文档以及性能测试报告，性能测试报
+ ## [如何在 JS 中判断数组是否包含指定的元素(多种方法)，进收藏夹吃灰吧！](http://developer.51cto.com/art/202102/643935.htm)
+ > 数组是我们编程中经常使用的的数据结构之一。在处理数组时，我们经常需要在数组中查找特定的值，JavaScript
+ ## [程序员必备的 10 大 GitHub 仓库，前端占了 7 个！](http://os.51cto.com/art/202102/643931.htm)
+ > 初级前端与高级前端之间，很大原因就是投入学习前端的时间、经验的差别，其实就是信息差。
+ ## [计算机中的流水线技术到底是个啥？](http://developer.51cto.com/art/202102/643930.htm)
+ > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟
  ## [Altium Designer如何将核心板转为封装库](http://developer.51cto.com/art/202102/643929.htm)
  > 使用模块或者核心板的方式还是好处多多的，我自己也时常制作一些最小系统板，比如STM32的最小系统板、WiFi
  ## [Spring aop聊点不一样的东西](http://developer.51cto.com/art/202102/643928.htm)
@@ -45,7 +65,7 @@ categories: IT NEWS
  > 马斯克才是时间管理大师
  ## [结合论文看Youtube推荐系统中召回和排序的演进之路（中）篇](https://blog.csdn.net/Gamer_gyt/article/details/113237254)
  > 
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
  > 
  ## [让微信 8.0 「裂开」「炸弹」的特效代码来了](https://blog.csdn.net/fengqiuzhihua/article/details/113279669)
  > 让微信 8.0 「裂开」「炸弹」的特效代码来了
