@@ -1,22 +1,32 @@
 ---
 title: 2021-02-03 IT News
 copyright: true
-date: 2021-02-03 08:55:14
+date: 2021-02-03 09:51:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [多项世界之最!探秘全流程绿色智能铸造工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1612312205&ver=2867&signature=RH-PM**lsbDwRS1sznXVDuMOEHvhhwOjsxyouWucLdsSOjIrdaIXsozITXMK8tr0NG3W6tmg8zC*IympzmUHpFcWVqKRwRXlX3rWddJkZqZewrg99Ben7WxuRVIkkLxi&new=1)
- > 烟台冰轮智能机械科技有限公司迄今已有120年的铸造生产历史，是首届“全国铸造百强企业”之一。公司年铸件生产能力30000吨，并可提供精密机械加工工时70000小时。本文为2020中国标杆智能工厂首批参评案例文章，...
- ## [掐架?外媒：脸书将起诉苹果滥用在应用商店的权力](http://mp.weixin.qq.com/s?src=11&timestamp=1612312205&ver=2867&signature=XmhEJ-GA7LbUUP8dDgCthOuyESA0vWYj0CBHIX8fde2CXLS1XVUoLqX0Z6V1DTnr-GZls78k3q*EAmdbR3v3rbVi1uYt8CNN*qQA4-F0HE4=&new=1)
+ ## [\[报告\]中国智能网联汽车的下一个十年(附34页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=cr7GIqcx5Mm7ZrWKJlr4CzqVETPlPlvboLiF*d6GyBSK1rBrltAjWtyh4ljBsLj7fOEkmi95lCzu30z*FQ1Bpm3vFnThm1briJPumNFrG4pnFCxf-Er69XZ8Ivv0lOUi&new=1)
+ > 如今，汽车行业与人工智能（AI）、通讯技术、5G、云服务等蓬勃发展的信息与通信技术（ICT）密切相关。未来5-10年，“汽车+科技”的融合将全方位加深。本报告从技术将会如何驱动汽车行业发展；未来汽车将如何被重...
+ ## [关注|源杰半导体提交IPO申请 拟登陆上交所科创板](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=763EekO61xfBQGsQb9q6q02oyvtO7fstxLQGpUkZtH11VKTBQ4RijUqWoK6B3YFfdWHIIWxh6rvhxYioS3bfE8rx2XoFl4iwKPqHcmR7CMdCPpWBcKjJfos1PEX98iIj&new=1)
+ > 新闻导读源杰半导体拟在上交所科创板上市，其主营产品为激光器芯片。2017，2018，2019年三年的营收分别为7708.08万元，7107.03万元及8045.99万元，预计2020年营收不低于1亿元。ICC讯 近日，中国证监会披露了国泰...
+ ## [掐架?外媒：脸书将起诉苹果滥用在应用商店的权力](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=XmhEJ-GA7LbUUP8dDgCthOuyESA0vWYj0CBHIX8fde2gT8yiyLHK6bMvaRLUyQaAOElODpYfqv55lejtQ5dDoGGWKoqgYeRnV5dM8RdCtNQ=&new=1)
  > 【环球网报道 记者 边子豪】据美国福克斯新闻当地时间29日报道，美国脸书公司正准备就苹果公司滥用其在应用商店的权力而提起诉讼。福克斯新闻报道截图报道称，诉讼将针对苹果滥用在应用商店“APP Store”的权力...
- ## [云创凭借cStor云存储产品成功中标南京市公安局项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1612312205&ver=2867&signature=hZ07gEtp1FlL*wT-E*xz08W-4WdJBZv460hnclcx4aEbqsNPAXdFHXA*ydmRYqwH3l0GpiFjEY1l6sZELb*KwX23bMJ83GwepH9Q3N3vsgwdt3pvNj1P365J269wJW33&new=1)
+ ## [多项世界之最!探秘全流程绿色智能铸造工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=RH-PM**lsbDwRS1sznXVDuMOEHvhhwOjsxyouWucLdsSOjIrdaIXsozITXMK8tr0G8y3IDj13u5oEPSlkITtA9TWUpagJp4dGDz20z5XDJls6irQZP6LDnBN-dZaooth&new=1)
+ > 烟台冰轮智能机械科技有限公司迄今已有120年的铸造生产历史，是首届“全国铸造百强企业”之一。公司年铸件生产能力30000吨，并可提供精密机械加工工时70000小时。本文为2020中国标杆智能工厂首批参评案例文章，...
+ ## [7点见|贝索斯将辞去亚马逊CEO；华为否认徐直军离职](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=x-Okpl6sDbwuhgyRtAlgwjKPhltorz*l3cDC4oohHhG7WiRDdYJeKdbGcC*ePQqFHm5tRtZxQMzLoy7hRBC3IwtCBloc3t3VFIhB3a6EMHfDBo3MUG6W4E9X9JZUEIVe&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！贝索斯将辞去亚马逊首席执行官当地时间2月2日，美国电子商务巨头亚马逊（Amazon）宣布，现任亚马逊首席执行官、公司创始人杰夫·贝索斯（Jeff Bezos）将于今年第三季度...
+ ## [云创凭借cStor云存储产品成功中标南京市公安局项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=hZ07gEtp1FlL*wT-E*xz08W-4WdJBZv460hnclcx4aEbqsNPAXdFHXA*ydmRYqwHSq-PjhPNuzedhcA4TSMxivJp76zdM86fvMP73dYMhClg5wcq*P63hMo*d3P0zhNY&new=1)
  > 此前，南京市公共资源交易中心公布了警务云计算平台（—期）—云基础平台建设一云存储设备采购中标结果，云创大数据凭借cStor超融合云存储系统软件V5.0成功入选，中标金额近1800万元。本次集采将主要应用于南京...
- ## [当数据成为金矿，企业应当如何掘金?](http://mp.weixin.qq.com/s?src=11&timestamp=1612312205&ver=2867&signature=Dg*zAJ1Au22OeNBU84-ceMOEKHD3-i3uf-4iGVZExGFe7QcsgFXqHW-c-RRIXizesK1-WSx-9dNgNXleltkkQ2Hhvuk9Mtn1tXwUYLQCEuuyfC4OgF-VO-fpGo6bfF*O&new=1)
+ ## [当数据成为金矿，企业应当如何掘金?](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=Dg*zAJ1Au22OeNBU84-ceMOEKHD3-i3uf-4iGVZExGFe7QcsgFXqHW-c-RRIXizeinARaVNG8zHA6eY331HTzocoSGO10Tb9CxOiRMIFHlh7lZjyhTd2e8OhD9OqxDiP&new=1)
  > 数据：大数据时代的金矿随着大数据时代的来临，我们在迎来海量数据的同时，如何探索数据中蕴藏的巨大价值，也成为了广大企业和数据服务提供商们热烈探讨的共同话题。数字经济的蓬勃发展，使得无数企业都对数字化...
- ## [终于别了，小灵通](http://mp.weixin.qq.com/s?src=11&timestamp=1612312205&ver=2867&signature=m0FLu-iELCbgBtTXsnskeNQMV8SIoLXlXK-nPI1lQ4lM-u6kK6z1ZWk1Dedo2WDTXJDCzX6Hvs4kiDpHK3ECTZn6l*Sbi0KJKdholJH-DQtOilQRE3kSfk096yhY88jQ&new=1)
+ ## [终于别了，小灵通](http://mp.weixin.qq.com/s?src=11&timestamp=1612315805&ver=2867&signature=m0FLu-iELCbgBtTXsnskeNQMV8SIoLXlXK-nPI1lQ4lM-u6kK6z1ZWk1Dedo2WDTVKOy0SraxP5o3upriknOBhGZJeGSv41D3HncKsvt9Y3ZlP4H3ur4cxQl7Gp3yJ6l&new=1)
  > “在两天内，长达25年的PHS历史将正式结束。”“非常感谢您的长期使用！”几天前，日本最后一批PHS用户收到了这条告别短信。2021年1月31日，软银旗下的Y！Mobile在这一天正式关闭PHS业务。尽管由于受新冠疫情影...
 # IT 技术 
+ ## [为了媳妇，熬夜撸了一个合成大西瓜！](http://developer.51cto.com/art/202102/644352.htm)
+ > 为了媳妇，熬夜撸了一个合成大西瓜！
+ ## [给初学者的AIOps指南](http://developer.51cto.com/art/202102/644293.htm)
+ > 给初学者的AIOps指南
  ## [2021年值得期待的7款Linux发行版](http://os.51cto.com/art/202102/644292.htm)
  > 2021年值得期待的7款Linux发行版
  ## [2021年机器人流程自动化（RPA）的六个面试问题](http://ai.51cto.com/art/202102/644048.htm)
@@ -27,37 +37,33 @@ categories: IT NEWS
  > 人们需要了解的边缘计算的谬误
  ## [我把SpringBoot应用部署到了K8S上，怎么感觉用起来像Docker！](http://developer.51cto.com/art/202102/644189.htm)
  > 我把SpringBoot应用部署到了K8S上，怎么感觉用起来像Docker！
- ## [鸿蒙开发板3516遥控3861智能小车系列(一)C++开发界面应用](http://developer.51cto.com/art/202102/644018.htm)
- > 鸿蒙开发板3516遥控3861智能小车系列(一)C++开发界面应用
- ## [2021年的今天，如何成为一名专业的前端工程师？](http://zhuanlan.51cto.com/art/202102/644059.htm)
- > 2021年的今天，如何成为一名专业的前端工程师？
- ## [【132】-数据通信方式](http://fellow.51cto.com/art/202101/642232.htm?qd=51ctojrzd)
- > 【132】-数据通信方式
+ ## [SQL语句零基础入门视频课程(Oracle版)](http://fellow.51cto.com/art/202101/638499.htm?qd=51ctojrzd)
+ > SQL语句零基础入门视频课程(Oracle版)
+ ## [三大运营商从美国退市没有什么大不了的](http://network.51cto.com/art/202102/644355.htm)
+ > 几经折腾，中国三大电信运营商终于确定将于3月9日正式从美国股市退市。退市非三大运营商本意，美国当政者出
+ ## [MySQL：好好的索引，为什么要下推？](http://database.51cto.com/art/202102/644353.htm)
+ > 前段时间有读者提议讲讲索引下推，这期就把这事儿安排上。多余的前言就不赘述了，我们直接开始。
+ ## [生男生女概率一样吗？为什么中国男性多于女性？](http://bigdata.51cto.com/art/202102/644351.htm)
+ > 先来看一下2019年人口普查，也是第七次人口普查的男女性别比例数据，是目前最新的数据了。这里性别比，女性
+ ## [写了这么多年 JavaScript ，竟然还不知道这些技巧？](http://developer.51cto.com/art/202102/644350.htm)
+ > 不少人有五年的 JavaScript 经验，但实际上可能只是一年的经验重复用了五次而已。完成同样的逻辑和功能，
+ ## [Dotnet的局部函数和委托的对比](http://developer.51cto.com/art/202102/644349.htm)
+ > 把委托和局部函数放成前后篇，是因为这两个内容很像，用起来容易混。
+ ## [Spring 创建Bean 时是怎样判断条件的？](http://developer.51cto.com/art/202102/644348.htm)
+ > 天的这篇做为铺垫，先来描述一下注解的工作原理，后面一篇我会写写与此有关的一个有趣的案例。
+ ## [SQL Server中LIKE使用变量类型不同输出结果不一致解惑](http://database.51cto.com/art/202102/644347.htm)
+ > 一同事在写脚本时，遇到一个关于LIKE里面使用不同的变量类型导致查询结果不一致的问题，因为这个问题被不同
  ## [微软 Edge 浏览器将迎来全新下载管理器：可从工具栏管理下载](http://os.51cto.com/art/202102/644346.htm)
  > 2 月 3 日消息 据外媒 Windows Latest 报道，微软似乎正在为 Chromium Edge 开发一个新的下载管理器，它可
  ## [K8S-利用Exec Websocket接口实现Pod间的文件拷贝](http://os.51cto.com/art/202102/644345.htm)
  > 本文通过K8S的exec websocket接口结合tar将文件树压缩为数据流以及解压还原, 实现两个Pod间拷贝文件的功能.
  ## [DevOps-需求管理工具-Jira安装部署](http://developer.51cto.com/art/202102/644343.htm)
  > Server 和 Data Center 产品的重大变更 我们将对 Server 和 Data Center 产品执行一系列变更，包括在 2021
- ## [我已经集齐了！2021支付宝集五福超详细攻略](http://mobile.51cto.com/ahot-644342.htm)
- > 一年一度的支付宝集五福终于开始了，从2月1日零时开始，支付宝2021年集五福活动正式开启。与往年相比，今年
- ## [Wine 6.1 正式版发布：支持 VKD3D 1.2，优化 M1 Mac Rosetta 内存布局](http://os.51cto.com/art/202102/644341.htm)
- > 2 月 2 日消息 据 Wine 官方博客，Wine 6.1 版本已正式发布。本次带来了针对 VKD3D 1.2 版本的升级，还优化
- ## [并发模拟工具详解](http://developer.51cto.com/art/202102/644340.htm)
- > 严格来说postMan并不是并发请求，而是串行执行的，现在用postMan更多的是用来测试Http连接的一个工具，但是
- ## [十大AI和机器学习数据存储趋势](http://stor.51cto.com/art/202102/644339.htm)
- > 机器学习和人工智能（AI）的更广泛采用使一些系统和存储经理感到非常兴奋。例如，可以将机器学习算法合并到
- ## [计算机中的层次化存储究竟是个什么鬼？](http://stor.51cto.com/art/202102/644338.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [使用Func](http://developer.51cto.com/art/202102/644337.htm)
- > Func
- ## [Zabbix 5.x的Template Module ICMP Ping浅析](http://netsecurity.51cto.com/art/202102/644336.htm)
- > Zabbix 5.*默认自带了模板Template Module ICMP Ping。它用来监控主机或设备的存活状态以及网络情况，主要
  ## [小米隔空充电技术，肌肉还是鸡肋？](https://blog.csdn.net/m0_46163918/article/details/113521697)
  > 小米隔空充电技术，肌肉还是鸡肋？
  ## [顶级程序员的心得 –- Coders at Work](https://blog.csdn.net/SoftwareTeacher/article/details/113489014)
  > 顶级程序员的心得 –- Coders at Work
- ## [编程福利领取：Java知识体系详细总结(2021版)](https://blog.csdn.net/live202001/article/details/113108531)
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
  > 
  ## [小米的隔空充电，看起来好酷](https://blog.csdn.net/weiqifa0/article/details/113449074)
  > 小米的隔空充电，看起来好酷
@@ -67,20 +73,20 @@ categories: IT NEWS
  > 这一年，像踏码进货一样！
  ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
  > 
- ## [【FCC前端教程】28关学会HTML与HTML5基础](https://blog.csdn.net/TriDiamond6/article/details/105915758)
+ ## [六个步骤，从零开始教你搭建基于WordPress的个人博客](https://blog.csdn.net/devcloud/article/details/111310480)
+ > 六个步骤，从零开始教你搭建基于WordPress的个人博客
+ ## [Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机](https://blog.csdn.net/m0_46163918/article/details/112311218)
+ > Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机
+ ## [深入理解 HashMap](https://blog.csdn.net/Woo_home/article/details/103146845)
  > 
- ## [M1芯片适配版Photoshop 激活版（解决M1处理器款macbook安装PS出现闪退报错问题）](https://blog.csdn.net/m0_53552280/article/details/112060369)
- > M1芯片适配版Photoshop 激活版（解决M1处理器款macbook安装PS出现闪退报错问题）
- ## [什么是多态？实现多态的机制是什么？【乐搏TestPro】](https://blog.csdn.net/leboxy/article/details/110484024)
- > 什么是多态？实现多态的机制是什么？【乐搏TestPro】
- ## [基于Unity~UGUI的简单UI框架（附UIFramework源码）](https://blog.csdn.net/qq_34937637/article/details/80374387)
- > 基于Unity~UGUI的简单UI框架（附UIFramework源码）
- ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
- > C语言贪吃蛇（详解）——链表实现
+ ## [R语言大作业（全国2000-2019年人口各项数据分析）](https://blog.csdn.net/azheya/article/details/106790917)
+ > R语言大作业（全国2000-2019年人口各项数据分析）
+ ## [“硅谷之父”传奇：拯救斯坦福大学、培养大批高科技人才、指导创立惠普](https://blog.csdn.net/csdnsevenn/article/details/112790951)
+ > “硅谷之父”传奇：拯救斯坦福大学、培养大批高科技人才、指导创立惠普
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Java学习路线图（完整详细2020版）](https://blog.csdn.net/zengzhaowu313/article/details/88786521)
- > Java学习路线图（完整详细2020版）
+ ## [vue实现PC端分辨率适配](https://blog.csdn.net/weixin_41257563/article/details/97266234)
+ > vue实现PC端分辨率适配
  ## [程序员的电脑从来就没有广告弹窗，不用下软件，原来是用这1招！](https://blog.csdn.net/zhiguigu/article/details/113429635)
  > 程序员的电脑从来就没有广告弹窗，不用下软件，原来是用这1招！
 # 人工智能 
