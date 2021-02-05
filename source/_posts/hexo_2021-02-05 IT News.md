@@ -1,39 +1,51 @@
 ---
 title: 2021-02-05 IT News
 copyright: true
-date: 2021-02-05 12:14:50
+date: 2021-02-05 17:10:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [厉害：这29家中国3D打印企业收入超1亿元；全国产量增长1倍以上](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=qsk2G9-w6EfQIi-TkImd4PdWjR6XmwXVy0BIeEWZ2DPxaWV*yA-rzfvTlLkWaiStWNN4zOXP3j3mQ*v*eJ2aw0vfTQGBFHG2G9O5LqgruKaNZOx1l--aEU7391dx9yyk&new=1)
- > 导读：在过去的2020年，中国的3D打印行业发展情况是怎么样的呢？请看一些收入数据。据南极熊3D打印网了解，2020年3D打印相关业务收入过亿元的中国企业中（特别提醒，下方统计或许有遗漏，属于未完全统计，请见谅...
- ## [吸引用户沉浸式阅读，最硬核的方式是怎样的?](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=XDWiyyfuUnCcGq01G3zoX-e5kOhzWV7bWfgZSKfvVJRJOSjox5mbcRyLvAdGji-8XefWSpIAdFYlZBd8bCks4G3YCnPuox4S0-IJufbnWEC*Bj32O3y1vfJkBK5fFyX7&new=1)
- > 如何在做新闻报道时呈现一个引人入胜的故事？对于新闻业而言，“沉浸式叙事”（immersive storytelling）是这个问题的最热门答案之一。通过穿越屏幕重构故事，沉浸式新闻能够将用户带到现场，创造出前所未有的体...
- ## [小米澄清「手机不再支持GMS」；虾米音乐正式关停；《质量效应1》DLC 因源代码损坏而移除|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=IFeIAvJPBUlLGtVXapsXKwuLievmAnBeOfPWynGFeoEHiLKd13OWmRrfuiaFhS-1rwdLY4RKPs0FlprgYa9sVjZjDsEVLDBEYFt3BcJW1RHHsV8dMtj6qVlt6nV791S8&new=1)
+ ## [新的深度学习计划如何克服机器人技术的挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=-GbTiddwNkcPk9i9mwRkhfu7aM4anvJGtAaLrtG15pWcSdgxYysCtTekXcPFeQe4UBdgz1uBzP8eVtApBMf3-56yI7trFwu7xPSWThVGX6Yw2rt8JKz7XaOsLy1wd5Zw&new=1)
+ > 关键讯息，D1时间送达！研究人员已经在研究用于计算机视觉的深度学习，它可以帮助机器人和机器人应用程序使用各种传感器来了解其环境，并帮助他们避开道路上的障碍物。而机器学习和计算机视觉技术确实可以解决这...
+ ## [六轴机械臂高速树脂3D打印机可实现每分钟2000层](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=l3*G3PeBIQfInwKBES2xdLhUd4FeozHlZpaanaB2m04DrPzp98j*XKm2C172USCUUHk3YZ8TNatb2xcIJM7zRnsdtbb0RUc*V3bumZDzhYCVzrNW9l0TCTmVOfQbqYEn&new=1)
+ > 西北大学麦考密克工程学院的研究人员开发了一种新颖的基于树脂的3D打印机，该打印机具有非凡的打印速度和出色的零件精度。在独特的展示中，该系统将光聚合与六轴机械臂相结合，你可能会看到工业DED 3D打印机或传...
+ ## [那个超多人喜欢的翻页时钟，终于有免费开源版了](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=bfKHBFyqOSyYavNQqgY6Kg-OzZK4MWGs2aAKOWBeokxIlVK*VFPTaIMiehxXimdSyudrmSwoiz8OaHOmjhdIyVSgjuWefHicDFyv0COlcNvuxBsP3yDOZbHLIokFW0On&new=1)
+ > FlipIt 是一款 Windows 下免费开源的翻页时钟，开发者灵感来自老牌翻页时钟应用 Fliqlo，无网络权限，不需要 Flash，单 .scr 屏保程序，堪称最佳 Fliqlo 替代品。@Appinn最经典的翻页时钟屏保，当然是 F
+ ## [“聪明”的工厂：互联网在制造业面前碰了个钉子|封面故事](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=I-A2AnaEzDMpHFJrKcKz-EI7jTTMFSG-pNjeiTe2pxKu13uRDJnP5fWLdwVGMA1x--njaWXkxPTiE5zClMsycUbPJQWkw0gxEcL8QRb*GHZ6txeZOVtsv9KUT5AvAdv1&new=1)
+ > 不同于消费互联网的“赢者通吃”，工业互联网是一个行业一个行业的“小锅菜”，每个行业都有不同的解决方案。制造企业的优势在于，他们掌握了很高的Know-How壁垒。策划｜《中国企业家》编辑部封面设计｜王超工业...
+ ## [中国工业软件没有“弯道超车”，“一拐弯就是车祸”](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=fnSRHyokPvL0IG3dIX59Mv7kYSC7FHDvrh*bxCgP7SH-kIAglgb*FGvzBQGbbv*82VkdJJX8UU821WC16wSe-tLUPkrr9Ltm59VXjd0lVOb2gHJkRdBMKE62adDqixl-&new=1)
+ > |山间有竹，前四载深埋地下，后破土而出，日渐疯长，终成竹海。工业软件国产替代也注定是这样一场漫长的追光过程。文丨《财经国家周刊》记者 李瑶在“卡脖子”成为热词的当下，工业软件近年来持续引起我国产学研...
+ ## [5G三大安全风险与对策](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=SAzjoXLlx79pt--q2TorayGBHXIsttnvhCG26JpNpczHALU*dMtYr3wNPkfT7dK-AlCOJSmsArxVm8mY1PrXoCIaE30eoAyRehchlbANbJSUJXU*xMmC*NmdZwlVaQ8-&new=1)
+ > 业界普遍认为，5G即将打开物联网安全威胁的潘多拉盒子，5G安全问题已经成为各国关键基础设施领域的重大安全问题。5G网络引入的网络功能虚拟化、网络切片、边缘计算、网络能力开放等关键技术，一定程度上带来了新...
+ ## [水下无线光通信商用设备在武汉试验成功](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=c7av8cbvpek5psnzfW5x7r2CQRwI7yc9ROSghZL8S*Tq3G8CaYUcwhCxHojh7sh9mY-V84fRlTraZ6BcP3zDs4Nzxl4K5p8pbQR*Pr85gcILANHZIIf2UBbr4b2OWIX-&new=1)
+ > 国内首台水下无线光通信商用设备在湖北武汉进行了试验并取得成功，通信距离达到50米，速率可达3Mbps，在20米距离时通信速率可达50Mbps。由武汉六博光电技术公司等单位研发的LC50CCA-50/40WD 双光源水下无线光通...
+ ## [小米澄清「手机不再支持GMS」；虾米音乐正式关停；《质量效应1》DLC 因源代码损坏而移除|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=IFeIAvJPBUlLGtVXapsXKwuLievmAnBeOfPWynGFeoEQoG4ItYRdaGKwimvIGRNhUiJI5oj8BHMjVzK8CIDpYuNNDUZtLg-SRKDDLLZrbHoZpHUkAhJV0BpzLA6woGuh&new=1)
  > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [“Kobalos”Linux恶意软件瞄准了全球超级计算机](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=LwyQOSWMaojtFVA44W0nRiex2LGsWkSjZnidtS-L4EOok4Zf9Cx7swxTYREjYIyFgNEdGIG6t0ej5-uGJZixEQIN9eF2mgh0xhdu1SC8a15dNOU0VTB5Kjls7NL3CnTc&new=1)
+ ## [厉害：这29家中国3D打印企业收入超1亿元；全国产量增长1倍以上](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=qsk2G9-w6EfQIi-TkImd4PdWjR6XmwXVy0BIeEWZ2DPjMMVuwZh4c4Hvy*RNZ2gAWBIHKhhhmQJOmwcRSMqbUfaNzORzz-UOJoPBvkPwIgtUricTtekYTKtUzCWNQrn2&new=1)
+ > 导读：在过去的2020年，中国的3D打印行业发展情况是怎么样的呢？请看一些收入数据。据南极熊3D打印网了解，2020年3D打印相关业务收入过亿元的中国企业中（特别提醒，下方统计或许有遗漏，属于未完全统计，请见谅...
+ ## [吸引用户沉浸式阅读，最硬核的方式是怎样的?](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=XDWiyyfuUnCcGq01G3zoX-e5kOhzWV7bWfgZSKfvVJTlEs4vJh6Ivz6pmmMp92N-dL2qrcluHWGsGR9LJohtasXwG35rRH2SYx0Jk3eS7qZXikkcupZQ-C*Dfg0yQuKg&new=1)
+ > 如何在做新闻报道时呈现一个引人入胜的故事？对于新闻业而言，“沉浸式叙事”（immersive storytelling）是这个问题的最热门答案之一。通过穿越屏幕重构故事，沉浸式新闻能够将用户带到现场，创造出前所未有的体...
+ ## [“Kobalos”Linux恶意软件瞄准了全球超级计算机](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=LwyQOSWMaojtFVA44W0nRiex2LGsWkSjZnidtS-L4ENsIP6ItehrMXA*6SzuECmrSUr1ALdnFk**vf2XvcdP0TBtNJ9wgu5mUFMNqKcZp5LZq4S*AMMOzNH6dwllFJpI&new=1)
  > E安全2月5日讯   近日，安全公司ESET的一份新报告发现，一个新发现的名为“ Kobalos”的Linux恶意软件变种针对运行多个操作系统的高性能计算集群和超级计算机。Kobalos主要用作后门，旨在窃取SSH凭据（也称为安...
- ## [经开区小孟工业园区获评 贵州省工业互联网示范园区](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=ZXzpqv5V2cGbtnk7csyl4JtmMAKlOz8IjxsA0PCN8Ye5dFTCZ6gWyCc9g*7a657BC4ujIPW1ArWYP4Tl8k*L-NVW6zGrFJLBOGjz42SJ1UQ=&new=1)
+ ## [经开区小孟工业园区获评 贵州省工业互联网示范园区](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=ZXzpqv5V2cGbtnk7csyl4JtmMAKlOz8IjxsA0PCN8YeQGH-KQLYuab78pCBz6Ae4NIzE-nJH7m--XL1cK7xclC4e-bM3t8wyE6sJcEkAnC8=&new=1)
  > 本报讯 2月3日，记者从贵阳经开区获悉，省工业和信息化厅日前公布贵州省工业互联网典型应用案例名单，小孟工业园区获评贵州省工业互联网示范园区。　　此次公布的46个工业互联网典型应用案例包括工业互联网...
- ## [讯石专访|康宁左镭：以创新引领全球光网络发展 助力中国新一代网络基础建设](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=daChpmI-Pj*mMFemXsp2qsEEoNWFvVUy*svYK5p67MgkT6eKHUvHL9ERN5zU1n8AsQjCat6MUKfcKzufFeCklR1GUpVzX7NqF5OmF4LbRs5Y433ljGX276QHhpQbZUpB&new=1)
+ ## [讯石专访|康宁左镭：以创新引领全球光网络发展 助力中国新一代网络基础建设](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=daChpmI-Pj*mMFemXsp2qsEEoNWFvVUy*svYK5p67Mhy*Sq9K-biLJWQ2*0vsaZNlufNoX4*dpH6eThMwCpHIfnmdmTYvQEnh1X8BBzcgNjxl*VdQa5Oyg4jCoXpEA9t&new=1)
  > 新闻导读康宁光通信部中国区总裁左镭接受讯石采访，讲述康宁在光纤发明50年里所取得的成就，介绍保障领先市场地位的创新文化，基于创新打造的光通信产品组合。ICC讯 （编辑：Aiur） 随着“光纤之父”高锟于1966...
- ## [7点见|快手今日登陆港交所；理想汽车回应断轴事件：恶意造谣](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=1j2SJN95EruKQCl-reVIseFHg2kfZRP99IxI0D7Xr64nNF1UGSsvkrY7-JqKigwuOLKC1n9nGRa5GEjYsjytHOhWXUkqTlOOVVOgfOC4j3GdsXH2oju1EfsBpLilOe4m&new=1)
+ ## [7点见|快手今日登陆港交所；理想汽车回应断轴事件：恶意造谣](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=1j2SJN95EruKQCl-reVIseFHg2kfZRP99IxI0D7Xr67xDTBv5NoTD*tsuaukzk0P0*saLOF-f*paXS1PNaW6Bcl4jNCaS9TUhiEFKAa74MFuleoQgg4aQDJQ62-UUGT6&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！老铁666！快手暗盘暴涨193％，中签者每手吃2.2万港元大肉！快手将于今日登陆港交所，2月4日开启暗盘交易，富途数据显示，快手一度涨至每股421港元，较每股115港元的发行...
- ## [云手机角斗场暗潮涌动，双子星以产品之剑破局](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=sNxsqZgesv4WXO87b9GLhBAbHIFcxq1-LyNkSlJYz6oPqpHnqkSfQ2Zx0bU-P24avfyIXbIeWudjG80zbdE0-LpOuugd1tjl*W9Wuti3YhsAuIqY7omPqa7P1fDtF73d&new=1)
+ ## [云手机角斗场暗潮涌动，双子星以产品之剑破局](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=sNxsqZgesv4WXO87b9GLhBAbHIFcxq1-LyNkSlJYz6rBlrlE7p0ZEZKclBN4m9hNmCQYbfoKSK*MBDtRbk3lCmiA6QNcyxfHrmQLKs6wAIky*F7ku1XCPCTyYzdkJJSg&new=1)
  > 在刚刚过去的2020年，注定会是人类历史上被铭记的一年，因为一场大规模的新冠疫情，人们的生活状态受到了严重的影响，“云生活”、“宅经济”等热词成为了焦点。人们因为新冠这只黑天鹅，加速步入互联网连接一切...
- ## [\[报告\]2021汽车激光雷达行业深度研究(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=vT9HN5HslJIgVaCSngj11Htcvg0duD*ms65RN0l6mLWEfxj0xM1Fs8fimG759D0V6LIHSC9P2nNg-as9V*m*97Iuqf-LnaKnACtNgn7VpkC8BmnoTMhbM*mvyI3TB1V8&new=1)
+ ## [\[报告\]2021汽车激光雷达行业深度研究(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=vT9HN5HslJIgVaCSngj11Htcvg0duD*ms65RN0l6mLUVCBA6aZE6DRctCYeGBqyNW3fL-e9fcKurtvNrLlxzdGJJGUmMoeYs2OhIEMP8winVxPTRvFw2VWY2Kk7RlGVb&new=1)
  > 汽车变革之际，智能驾驶将成为车企的主战场。“视觉系”使用摄像头凭借AI算法实现高阶自动驾驶，特斯拉NOA快速推向市场让“视觉系”成为当下主流。以激光雷达为代表的“雷达系”因为成本较高前期主要在Robotaxi...
- ## [Microsoft Authenticator现可导入Chrome用户密码](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=4k41bVDNO3ZPIDmpnYI9XOWzU3oGvaOPrviZ8YXsGyJm2CPb586EmG*4Ys8TDjgi9Y8a0z0CIZaUb1qjyb0K20UzDXk2CzRl0WYQ1qfCEkrF*0SrvQtVE--LJNpnrVPj&new=1)
+ ## [Microsoft Authenticator现可导入Chrome用户密码](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=4k41bVDNO3ZPIDmpnYI9XOWzU3oGvaOPrviZ8YXsGyJATrld0sS8COmkh7t*Sile4D-NUKV3LHWfSYdacuWaKoTjVqV4JCs-rNubGrLv7tYril-01TtuHxVs7Ye3LmOX&new=1)
  > 微软身份验证工具Microsoft Authenticator历经版本迭代已经成为功能齐全的密码管理器，在最新的预览版中微软又为该应用添加了导入Google Chrome Passwords功能。用户可通过导入Chrome上保存的密码进Mi
- ## [苹果造车，最初可能只是想解决人们对“最后一英里”的焦虑](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=WRAS5zo2mppHq3IJqKpZRAWaBCKnvbTMi5zEDjq3kvnYS6kcyrThXotmO0pcK1b5XSxt6olce1GZalqyJjAxl3QDtNJcZARvJLRaislE4wchHQNe24C3U9J9CsnffYZA&new=1)
+ ## [苹果造车，最初可能只是想解决人们对“最后一英里”的焦虑](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=WRAS5zo2mppHq3IJqKpZRAWaBCKnvbTMi5zEDjq3kvkW7dBwRxFc9LKOcIm4fe81d6j7W8x-vphZdMfDwqhU5od7LQtCUeS1bK*SlH5QRnJQqU*nt4uwLo2LYcUIF4qa&new=1)
  > 知情人士周三透露，苹果正接近于同现代起亚达成交易，将在起亚位于佐治亚州的制造工厂生产苹果品牌的自动驾驶电动车。熟悉苹果和现代起亚之间谈判情况的知情人士表示，由苹果一个团队开发的“苹果汽车”（Apple ...
- ## [供应链：苹果VR头显或2022年Q1问世，这些厂商将受益!](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=cU-rSr*V7CcwgITJ2XHvQLOkTKFtYXcjcXs3Wo4yab3VnHZeFlQ5RvTI3bMhfTpK8IUHWCnm0PbTpqFhRGleor89GhTGME4VNgmnQNzGn3oi58*VsfoZposfVulFDqOO&new=1)
+ ## [供应链：苹果VR头显或2022年Q1问世，这些厂商将受益!](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=cU-rSr*V7CcwgITJ2XHvQLOkTKFtYXcjcXs3Wo4yab3YkoqqQQfxg8iE6Yw*nOPi-87boFPPk7pt03mwoqF596Ws3hV0TrwQ9fLfvUmKKpmpQmMBS1j6oI3qF6jnTeYa&new=1)
  > 2021年2月4日，综合电子时报、中时新闻网、钜亨网等台湾媒体和iMore网站消息，以及摩根大通的预测，预计苹果将于2022年1季度推出重磅新品——苹果VR头显，与此同时，供应链负责各项工作的相关厂商信息也被曝出。...
- ## [高朋满座话未来|专访中兴通讯终端事业部总经理倪飞](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=CqersscA*Mq4HlnaDaPVIZKtBAT*6d3GogknZrdn2q1x11jySbwV8qRqgrkmNSxsRmZ58oNdAt5JSL*S**EWo4p1r4jD6Ny4ZbOi6a8QqsDXWAsWhVcF*ftNKbbc-YTX&new=1)
+ ## [高朋满座话未来|专访中兴通讯终端事业部总经理倪飞](http://mp.weixin.qq.com/s?src=11&timestamp=1612515605&ver=2871&signature=CqersscA*Mq4HlnaDaPVIZKtBAT*6d3GogknZrdn2q2IeIQQoU8JXgHzRGyMZrGYwLBxh3ZgOGTSuJJLzHr9afMp0Ti2rrERa4oRSgR9I8AmWYhp1GzUNeQF0ZMXNKXW&new=1)
  > 岁末年初，高朋满座话未来——新年特辑再次如约而至。今年，高通公司将继续携手国内领先终端厂商，对其高层进行一对一访谈，回顾不平凡的鼠年，展望即将到来的牛年。今天我们采访到的是中兴通讯终端事业部总经理...
- ## [给出“时间表”，孙正义预测自动驾驶两年内开始大规模生产|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1612497604&ver=2871&signature=peUSg6ag6qN0iqF8p1s7v97cadDiSyfwFOqcESu1nqxjzRUADDevvK*8HGWglaZihfMcpAuuL9pfy*rmM7InqIg6VTIgglwOxdUDMYTyQUna5n*Rz9FkDuHfWkRr8sm9&new=1)
- > 作者 | 田大鹏● ● ●近日，据外媒报道，软银集团首席执行官（CEO）孙正义做出预计，他表示自动驾驶将在两年内开始大规模生产。同时，孙正义表示在进入大规模生产的第一年，自动驾驶汽车产量不会达到数百万，但...
 # IT 技术 
  ## [全面解读事件管理：从基础到实践](http://www.cioage.com/art/202102/644733.htm)
  > 全面解读事件管理：从基础到实践
@@ -49,28 +61,28 @@ categories: IT NEWS
  > 鸿蒙开发HUAWEI DevEco Device Tool 2.0 Beta1全新发布，提高开发效率
  ## [我拍了拍Redis，被移出了群聊・・・](http://stor.51cto.com/art/202102/644730.htm)
  > 我拍了拍Redis，被移出了群聊・・・
- ## [SQL*Loader数据装载工具入门_Oracle备份恢复与数据迁移教程08](http://fellow.51cto.com/art/202012/637144.htm?qd=51ctojrzd)
- > SQL*Loader数据装载工具入门_Oracle备份恢复与数据迁移教程08
- ## [记一次耗时半天才解决的bug，我的图标到底去哪了？](http://netsecurity.51cto.com/art/202102/644845.htm)
- > 昨天我遇到了一个很奇怪的bug，事情经过是这样的，我用Qt编写了一个动态库，这里称之为lib，lib中有多个界
- ## [数字人民币优化我国货币支付体系](http://blockchain.51cto.com/art/202102/644842.htm)
- > 从2014年着手研发工作到2020年进行公开测试，中国版的法定数字货币即数字人民币渐行渐近。这既是货币形态演
- ## [微服务进阶：设计层面详解Eureka配置部分源码](http://server.51cto.com/Micro-644840.htm)
- > 今天，我们开始来研究 Eureka 的源码，先从配置部分的源码开始看，其他部分后面再补充。补充一点，我更多地
- ## [苹果服务器出现大面积故障丨Siri春节限定功能推出](http://netsecurity.51cto.com/art/202102/644837.htm)
- > 日前，不少用户反映自己的 iCloud 功能出现了问题，云盘无法正常同步，无法正常收到邮件，查找我的设备也无
- ## [4个案例，整篇干货！让你的边缘计算不“边缘”](http://network.51cto.com/art/202102/644833.htm)
- > 企业可以通过多种形式将处理能力和存储放置在企业网络的边缘，以实现更快的响应时间和更低的带宽需求。
- ## [大流行时代“物联网即服务”的优势和与挑战](http://iot.51cto.com/art/202102/644832.htm)
- > 随着“物联网即服务”的出现和广泛采用，预计在2021年，业务中断的扩散将进一步加速。
- ## [开始使用人工智能时不得不问的10个问题](http://ai.51cto.com/art/202102/644829.htm)
- > 开始使用人工智能的一些组织将面临一些问题，特别是在人工智能项目初始阶段之后的规划。
- ## [有关人工智能的10个比较常见问题的答案](http://ai.51cto.com/art/202102/644830.htm)
- > 人工智能是本世纪的主要话题之一。人工智能的功能和无限的潜力导致了许多有趣的对话和辩论。
- ## [未来5年全球将支出8900亿美元用于5G网络](http://network.51cto.com/art/202102/644828.htm)
- > 全球5G网络部署仍在持续进行。截止到2020年9月30日，全球共有113家运营商在48个国家部署了5G网络，这些运营
- ## [云计算自动化对于虚拟化环境意味着什么?](http://cloud.51cto.com/art/202102/644825.htm)
- > 人们需要通过简单的方法来理解“什么是云计算?”，在智能自动化(IA)和增强智能(AI)的时代，行业趋势和新兴
+ ## [JavaWEB核心编程视频教程（无讲师答疑）](http://fellow.51cto.com/art/202101/639104.htm?qd=51ctojrzd)
+ > JavaWEB核心编程视频教程（无讲师答疑）
+ ## [3 个电子邮件错误以及如何避免它们](http://os.51cto.com/art/202102/644884.htm)
+ > 自动化是美好的，但也不总是那样。确保你的电子邮件自动回复和抄送配置正确，这样你就不会浪费大家的时间。
+ ## [Google 提出应对开源软件漏洞的框架：了解、预防、修复](http://os.51cto.com/art/202102/644882.htm)
+ > Google 提出了一个应对开源软件漏洞的框架 ―― “了解，预防，修复”。随着开源软件的流行，开源软件的安
+ ## [Go 泛型提案有望被接受，已进入"Likely Accept"状态](http://developer.51cto.com/art/202102/644880.htm)
+ > Go 团队 leader 兼核心开发者 Russ Cox 昨日已将 Go 泛型提案从 Active 移动至 Likely Accept。进入此状态
+ ## [过编写一个简单的游戏学习 JavaScript](http://developer.51cto.com/art/202102/644878.htm)
+ > 通过使用一个简单的游戏来练习一些基本的 JavaScript 概念，迈出创建交互性动态 Web 内容的第一步。
+ ## [2023年超过1000量子比特！IBM公布量子计算开发路线图](http://news.51cto.com/art/202102/644870.htm)
+ > BM的Qiskit的开源量子编程框架将帮助应用程序实现「100倍」加速，这样，目前需要花费几个月时间处理的工作
+ ## [2021年7种软件开发职位的技能需求](http://developer.51cto.com/art/202102/644864.htm)
+ > 当前，互联网上充斥着有关“ 2021年要找到工作的十大最受欢迎技术”的文章，这些文章建议您应该了解机器学
+ ## [YouTube教你编程！如何成为一名更优秀的程序员？](http://news.51cto.com/art/202102/644862.htm)
+ > Youtube是一个优秀的学习平台，在这里我可以找到想要的一切。最开始，我只在闲暇时间看自己喜爱的视频。几
+ ## [程序员请注意！七个细节暴露了你缺乏经验……](http://news.51cto.com/art/202102/644861.htm)
+ > 只要工作足够长的时间，就会积累足够多的经验，这句话在某种程度上来看是正确的。然而，在另一些情况下，工
+ ## [区块链技术貌似一场轰轰烈烈的战争，为何还没流血就已经牺牲！](http://blockchain.51cto.com/art/202102/644859.htm)
+ > 区块链这个概念在前两年被媒体炒得风风火火，就像一场轰轰烈烈的战争，可是还未流血就已经牺牲了。骤然间，
+ ## [2021年人工智能五大趋势预测](http://ai.51cto.com/art/202102/644858.htm)
+ > 人工智能是一个有可能改变人们生活的领域。从医疗保健、商业、金融和其他领域的应用来看，它似乎无处不在。
  ## [阿里、腾讯、字节、京东、美团、百度......薪资职级大比拼](https://blog.csdn.net/csdnsevenn/article/details/113532665)
  > 阿里、腾讯、字节、京东、美团、百度......薪资职级大比拼
  ## [从tcpdump看cBPF/eBPF程序设计](https://blog.csdn.net/dog250/article/details/107367725)
@@ -89,17 +101,17 @@ categories: IT NEWS
  > 漫谈TCP-AIMD/BBR的公平性以及buffer bloat
  ## [小米的隔空充电，看起来好酷](https://blog.csdn.net/weiqifa0/article/details/113449074)
  > 小米的隔空充电，看起来好酷
- ## [基于u-net，cv2以及cnn的中文车牌定位，矫正和端到端识别软件](https://blog.csdn.net/qq_32194791/article/details/106748685)
+ ## [简历：第一章：技术亮点如何写](https://blog.csdn.net/java_wxid/article/details/107714720)
+ > 简历：第一章：技术亮点如何写
+ ## [HaaS UI小程序](https://blog.csdn.net/cpongo8/article/details/112863123)
+ > HaaS UI小程序
+ ## [网课作业禁止粘贴?禁用JavaScript了解一下!](https://blog.csdn.net/weixin_43691058/article/details/105777194)
  > 
- ## [简单的jsp+servlet+jdbc+mysql实现用户增删改查-一抹茶-csdn](https://blog.csdn.net/weixin_43760328/article/details/84559006)
- > 简单的jsp+servlet+jdbc+mysql实现用户增删改查-一抹茶-csdn
- ## [阿里云服务器搭建wordpress个人博客——学生优惠，专属网站](https://blog.csdn.net/weixin_46654114/article/details/107835953)
- > 阿里云服务器搭建wordpress个人博客——学生优惠，专属网站
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [C++ 之 C++ 操作 json 文件（C++读写json文件）及jsoncpp配置详解](https://blog.csdn.net/shuiyixin/article/details/89330529)
- > C++ 之 C++ 操作 json 文件（C++读写json文件）及jsoncpp配置详解
- ## [网络编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104903925)
+ ## [java8中Map的骚操作](https://blog.csdn.net/youku1327/article/details/107877559)
+ > 
+ ## [C语言重要知识点总结【6】：C语言9种控制语句（详解）](https://blog.csdn.net/weixin_46022083/article/details/107993677)
  > 
 # 人工智能 
  ## [用opencv给彦女王生成一副蒙太奇画像](https://blog.csdn.net/qq_43667130/article/details/107892516)
@@ -133,45 +145,45 @@ categories: IT NEWS
  ## [探索JavaScript中Null和Undefined的深渊](https://blog.csdn.net/qq_36772866/article/details/113533557)
  > 探索JavaScript中Null和Undefined的深渊
 # PM 
- ## [Zero交易所打破传统限制航线新标杆](http://www.chanpin100.com/article/113126)
- > Zero简化上币流程，人人可免费发币，让更多投资者了解了发币上币的过程，提高对项目的辨别能力。Zero交易所将作为数字化革命的先驱交易平台，将迸发出无限的潜力和巨大的发展空间。
- ## [Zero交易所用技术实现用户体验与安全](http://www.chanpin100.com/article/113125)
- > Zero交易所技术研发团队来自全球各地，其中不乏华为、币安、腾讯等科技公司和区块链公司的雇员，有着丰富的互联网、数字货币交易及金融服务行业经验和区块链技术开发经验。
- ## [社交黑马Soul—产品分析](http://www.chanpin100.com/article/113232)
- > 当前互联网环境下，我们能搜到各种社交类软件，并且基于社交的探索可能还有很多人在进行着，但是可能在大多数人的心里，要定位一款真的陌生社交软件，好像都没有答案~
- ## [如何通过5W2H7步分析法描述APP页面的浏览行为？](http://www.chanpin100.com/article/113127)
- > 从流量时代进入存量时代，以用户为中心已经成为企业经营的重点，通过用户的真实行为表现，建立用户视角非常的重要。这样我们就可以站在用户的立场上发现用户需求、喜好，从而匹配和改善自己的产品，深挖用户价值，提高企业营收。从提供现有的服务、产品到深挖需求，都需要和用户建立有效联系，从用户的真实行为反馈出发，从
- ## [用户调研——比用户更了解用户？](http://www.chanpin100.com/article/113200)
- > 比用户更了解用户？基于用户反馈引导用户，而不是让用户引导产品。你真的了解你的用户么？你的需求是来源于用户，还是来源于你对用户的理解？
- ## [神策分析2.1重磅上线！报警诊断、多主体分析、渠道追踪等赋能企业数字化经营](http://www.chanpin100.com/article/113131)
- > 神策分析 2.1 版本聚焦企业数字化运营的真实需求场景，围绕预警、渠道追踪、数据分析等方面推出重磅功能，让精细、高效、便捷的数据分析体验再度升级！戳文体验~
- ## [上万人都认可的超实用产品素材 轻松做原型靠它就行了](http://www.chanpin100.com/article/113130)
- > 最近刀友们创作情绪十分高涨，素材广场中涌现了许多不凡的作品，墨墨姐我甚是欣慰呀。今天就从中挑选了5个，其中3个常规作品、2个创意作品来与刀友们分享。
- ## [腾讯、周杰伦“保驾护航” 这款街霸手游上线就霸榜！](http://www.chanpin100.com/article/113144)
- > 在“双十一”购物狂欢的加持下，11月App Store的总榜头部几乎被各大应用类App霸占，几乎看不到有什么新游冒头。这一现象持续到了11月底才有所改变，随着《街霸：对决》上线即霸榜，总算打破了应用类App的“垄断”。
- ## [苹果再次让步惠及开发者 工信部明年初继续App专项整治](http://www.chanpin100.com/article/113134)
+ ## [项目复盘|产品落地过程中的问题](http://www.chanpin100.com/article/113436)
+ > 上个月小白刚刚完成了人生中第一个0-1中台产品的搭建，历时4个月。期间也遇到了大大小小、各种各样的问题。那现在就来分享下遇到的问题和对应的解决方案。
+ ## [不懂活动策划 就别说你会运营！](http://www.chanpin100.com/article/113089)
+ > 时下年末，各种活动层出不穷，一提起活动，人们并不陌生。但是，一提起活动运营，很少有人能够说出其具体的含义。但其实，活动运营是运营工作的一个重要方面，活动运营贯穿于用户的全生命周期，在各个阶段活动运营的目标和侧重点会有所差别。简单地说，活动运营就是要求组织者对每一次活动都要精心策划、科学实施，以收获最
+ ## [Axure教程：制作渐变色用户登录交互](http://www.chanpin100.com/article/113085)
+ > 在系统产品设计过程登录窗口的交互设计是不可少步骤，今天符号给新人分享一个用Axure制作一个用户登录界面的教程。
+ ## [微博等35款App被网信办点名 苹果两大新举措惠及开发者](http://www.chanpin100.com/article/113090)
  > 为了让各App运营官和开发者能更好地了解近期App Store动态、行业热点及游戏热点，蝉大师每周准备了ASO周报为大家盘点一周行业热点和干货知识。
- ## [锤爆老板的狗需求](http://www.chanpin100.com/article/113141)
- > 产品经理有三大头疼瞬间：程序员说：需求做不了！设计师说：你要抄那个？老板说：我有一个想法...
- ## [为何应用性能管理（APM）对APP开发者如此重要？](http://www.chanpin100.com/article/113135)
- > 随着互联网行业的发展，移动互联网成为行业主流，伴随崛起的SDK产品也成为了App开发者的主流工具。
- ## [神策数据受邀参加全国APP个人信息保护监管会](http://www.chanpin100.com/article/113138)
- > 神策数据将持续为企业做好数据合规建设工作，营建共商、共享、共治的行业氛围，推动我国移动互联网行业健康、有序发展。
- ## [向双十一带货主播学习 如何推销你的设计](http://www.chanpin100.com/article/113056)
- > 有的设计看起来平淡无奇，但经过设计师的分析介绍，立刻让人叹为观止。也有很多优秀的设计，因为设计师的“不善沟通”而被埋没。在产研过程中，通常会有设计评审环节，设计师应该如何向团队介绍设计作品呢？
- ## [作为一名APP开发者你更Care什么？](http://www.chanpin100.com/article/113139)
- > 近期，MobTech袤博正式上线“哨兵”，它就是这样一款轻量级不需要埋点，只需开发者简单集成的性能监测系统SDK。
- ## [四大触点 教你从“用户视角”构建数据分析体系](http://www.chanpin100.com/article/113183)
- > 想要做好产品，就要从用户视角出发，看待问题、发现需求、建立场景、提出解决方案。具体应该怎么做呢？本文将从四个维度展开分析，希望对你有帮助。
- ## [聚焦移动应用性能管理 MobTech袤博全新产品“哨兵”火热上线](http://www.chanpin100.com/article/113140)
- > 随着企业IT运维水平不断提高，对IT系统的依赖度需求日益增长， APM已成为保障企业数字业务稳定运营的重要工具，可实时监测IT系统的运行情况，并提供一体化的监测视角，极大为企业节约资源。
- ## [11月游戏产品涨幅明显 购物类App强势霸榜应用榜单](http://www.chanpin100.com/article/113147)
- > 11月在“双十一”高涨的购物氛围下，App Store的总榜头部几乎被各大购物类App霸占，淘宝、京东、抖音、拼多多、得物等等购物App都推出了相应的活动以吸引用户下载，这些App也成功霸占了11月份的应用榜单。
- ## [工具人的自我修养](http://www.chanpin100.com/article/113143)
- > 一个人的名字也许会起错，但外号绝对不会叫错。——古龙。这句话在武侠小说里简直是至理名言，放在互联网职场圈儿，也是没问题的。
- ## [有声量没销量 社交媒体营销的繁荣窘境](http://www.chanpin100.com/article/113142)
- > 随着电商平台获客成本居高不下，2017-2018年微信、微博、抖音、小红书等社交媒体涌现了一波新的流量红利。根据 AdMaster统计，小红书从2018 年 1 月到11月，电商评论中相关声量提升约719%。
- ## [从用户留存率的本质出发 电商如何提高用户留存率？](http://www.chanpin100.com/article/113452)
- > 用户留存率，一直是电商企业不得不共同关注的一大核心指标。产品留存用户是相对流失用户的一个概念。如果说使用用户留存率是指那些机缘巧合下使用产品，并留下来不断持续带来价值的人群，那么流失用户则是一段时间后兴趣减弱、逐渐远离直至彻底失去的用户。
+ ## [Stratifyd增强智能数据分析平台开放产品试用！](http://www.chanpin100.com/article/113082)
+ > 为了方便用户快速体验Stratifyd数据分析带来的非凡价值，Stratifyd开通自助式产品试用服务，无需等待人工核验，注册即享永久免费试用！
+ ## [我在神策做研发丨与客户难题“对抗”的百余天](http://www.chanpin100.com/article/113001)
+ > 对于每一个客户的问题，不管大小，都需要跟进追踪到底，以获得最佳的答案。一个问题一个坑，留了坑，前路必将荆棘丛生；填了坑，前路即是坦途。这是神策人的做事态度和行事准则，也帮助我树立了积极的人生观。
+ ## [3分钟看懂 如何解决Twitter分享索权过多的问题](http://www.chanpin100.com/article/113002)
+ > 近期，MobTech开发者服务平台收到部分用户反馈，反映Twitter分享前的授权动作索取了过多权限，需要ShareSDK进行优化。到底是哪里出了问题？
+ ## [神策数据盛永根：微信生态——全数据采集和打通](http://www.chanpin100.com/article/112734)
+ > 公众平台主要包含小程序、服务号、订阅号和微信网页。日常运营都是在公众平台进行，比如修改公众号文章，上传小程序等。
+ ## [【移动榜单】2020年10月中国区热门App下载&收入TOP10](http://www.chanpin100.com/article/113034)
+ > 蝉大师10月App月度指数报告聚焦：中国区游戏下载榜TOP3为《网吧模拟器》、《原神》、《天涯明月刀》，两款游戏《花花不好惹》、《六号特工:秘密任务》排名飙升成功挤进TOP10；游戏收入榜TOP3均为腾讯的游戏；应用下载榜中，三款购物应用进入TOP10，《淘宝特价版》、《拼多多》位居前2；应用收入榜
+ ## [大屏可视化制作分享](http://www.chanpin100.com/article/113084)
+ > “我们都很清楚，如今的社会是一个高速发展的社会，科技发达，信息流通，人们之间的交流越来越密切，生活也越来越方便，“大数据”在互联网行业指的是这样一种现象
+ ## [想学优秀作品却找不到？全新素材榜单全都告诉你！](http://www.chanpin100.com/article/113087)
+ > 咳咳，宣布一个消息，我们素材广场已经全新升级完毕啦～～这一次升级后，素材内容更加丰富，优秀的创作者们也能够获得更多的曝光与支持。简单来说，现在的素材广场是素材与创作者的聚集地。
+ ## [微信不再克制](http://www.chanpin100.com/article/113091)
+ > 很多人会说微信很“克制”，但其实这并不是克制的结果，本质上是因为微信一直遵循一种好的设计原则，使得我们不会去做很多影响设计美感的事情。
+ ## [Axure教程:生成预览地址如何能查看到被浏览次数](http://www.chanpin100.com/article/113086)
+ > Axure生成预览地址如何能查看到被浏览次数呢？来文章里看看，这里有一个小方法也许你想知道~在看教程之前，请行了解一下，什么时javascirpt，JavaScript入门教程自行百度。
+ ## [悬疑短剧成影视市场新风口今年你看了哪些短剧？](http://www.chanpin100.com/article/113185)
+ > 2020年剧集市场黑马频出，剧集内容及业务模式更加多元化，在政策引导和市场热情的双重作用下，精品短剧逐渐崛起，成为网剧内容制作的重要趋势。
+ ## [程序员不讲武德 奉劝你们耗子尾汁！](http://www.chanpin100.com/article/113120)
+ > 大家都是年轻人，一定要讲武德的，在此奉劝你们耗子尾汁！下边就来看看公司里两个程序员之间的故事！
+ ## [不用写代码也能实现后端微服务开发？飞算全自动软件工程平台来了](http://www.chanpin100.com/article/113095)
+ > 软件开发正在逐步的走出“手工作业”的时代，软件行业大量的优秀实践与制度，为软件自动开发提供了发展的基础。
+ ## [橙心优选这个领现金活动也做的太差了吧](http://www.chanpin100.com/article/113123)
+ > 明明行业内已经有了比较优秀的解法了，要不要跟进呢？想要跟进的小伙伴，戳进来看一下！
+ ## [7个步骤 教你优雅‘抄’竞品](http://www.chanpin100.com/article/113108)
+ > 有的抄成功了，有的抄失败了，什么才是打开这门学问的正确方式？‘抄’也是一门艺术，那在具体工作中，正确抄竞品的姿势应该是怎样的呢，如何才能正确地抄，有效地抄呢？
+ ## [交易所选择不谨慎 财产损失难维权](http://www.chanpin100.com/article/113104)
+ > 近年来，各种骗局打着“高额回报”的幌子陆续出现，在网上引诱市民投资所谓的数字货币，以此诈骗钱财。
+ ## [重点关注：苹果对30%佣金抽成再做让步！](http://www.chanpin100.com/article/113096)
+ > 近期苹果一改常态，不再死咬不放30%的佣金抽成，推出了“App Store小企业计划”，对每年营收少于100万美元的小型企业和个体开发者，将App Store佣金降至15%。而今天苹果又再次做出“让步”，宣布推迟线上虚拟活动接入应用内付费。
 
     
