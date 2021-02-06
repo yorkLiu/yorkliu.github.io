@@ -1,22 +1,24 @@
 ---
 title: 2021-02-06 IT News
 copyright: true
-date: 2021-02-06 08:31:13
+date: 2021-02-06 09:24:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [疯狂吃瓜无心工作?年末你需要这几款工具提高效率](http://mp.weixin.qq.com/s?src=11&timestamp=1612571405&ver=2873&signature=jWHKr81PlmuiETaDvv1zQRWV9ONvTnkCLJBJUk01OX6hUgi1NHhLAwISJsQ2WwpfLg7Vs8j8q4ioSRzQkFqpIQ-*RkE56rVLUcLCu9SapbVttDdPku1cMmh9xaAgr0Q9&new=1)
+ ## [疯狂吃瓜无心工作?年末你需要这几款工具提高效率](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=jWHKr81PlmuiETaDvv1zQRWV9ONvTnkCLJBJUk01OX6hUgi1NHhLAwISJsQ2WwpfsWNKg2tP18WXFZRjHh7ej4fMb7puKt5XL4Uvwe0Cn4n4rpGjdK3bbELjWR*km6b4&new=1)
  > 吃瓜虽好，可不要贪吃哦。朋友们，最近吃瓜吃饱了吗？无论是「每天发现新孩子」的娱乐圈大瓜还是全民中毒的「合成大西瓜」，都搅得每个人无心工作，即使已经吃瓜吃得寝食不安，再有新瓜还是会选择「扶我起来，我...
- ## [\[逆流\]用脑电波写「福」字?挑战马斯克了?天津大学学生为何与写「福」字过不去?](http://mp.weixin.qq.com/s?src=11&timestamp=1612571405&ver=2873&signature=vhFGNCWfjGY2vUxFI2lMZXdLq-4aNGN6-GWv*Q3a5MmdjdhQEjVHgy-NcD8rbHjIq8p2sQAXlhHDN9bQUfvOiVmk7E1CAzB6BoBjBoY2pWiBMHvJX4LXdfohsO3CCaZ3&new=1)
+ ## [\[逆流\]用脑电波写「福」字?挑战马斯克了?天津大学学生为何与写「福」字过不去?](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=vhFGNCWfjGY2vUxFI2lMZXdLq-4aNGN6-GWv*Q3a5MmdjdhQEjVHgy-NcD8rbHjIIAPrg92FPYPHTsknsen3juWmMocurfGX7KJoOdSvsrY5*IeRrXqRYcuaZLFW03KZ&new=1)
  > 临近春节，近几年来已成惯例的支付宝「集五福」活动又开始了。但通过科技的魅力，有人硬是把「集五福」活动给玩出了新花样。据中国网报道，2月5日，天津大学神经工程团队的两位95后学生，用脑电波操控「哪吒」多...
- ## [Google Chrome新版包含0day漏洞重要安全修复](http://mp.weixin.qq.com/s?src=11&timestamp=1612571405&ver=2873&signature=W6thDSQyd0p4X06GquwFqT6EQsKZkm0cCP3Z9a9c0R-B2gYqGSIFjkWo4xy166rAJIAqkPzgQ*8actdR*hSRG-mA9LVqY*JRKz3mdCYg9OJ8T6GcKMFIfH1A6Gtxm*3a&new=1)
+ ## [Google Chrome新版包含0day漏洞重要安全修复](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=W6thDSQyd0p4X06GquwFqT6EQsKZkm0cCP3Z9a9c0R-B2gYqGSIFjkWo4xy166rApbsHO5TUpJiCOlXqHBBHvkCyK7BO4xDjgHhwpHVkxNIIqQd*8YZaP4v6zqzgPy3l&new=1)
  > 近日发布的Google Chrome浏览器88.0.4324.150版本修复了1个0day漏洞，Google称该漏洞实际上已经被披露并正在被积极地在互联网中利用。Google并没有提供有关CVE-2021-21148漏洞的具体细节，而是希望
- ## [余承东负责华为云业务的目的之一，或许是开发出完全国产化的手机](http://mp.weixin.qq.com/s?src=11&timestamp=1612571405&ver=2873&signature=litzeEdwIPymC1BrW1bD0t9U6rmVKoeA2NDqsT-jKsq5f4K4YGIIcNrjcYkYhI2TWGjv6tecDmBJeDbS6nff3AnotPNcX3K5zZQSkknZH3CMM5rkPGsh2tNEttGeOsTh&new=1)
+ ## [余承东负责华为云业务的目的之一，或许是开发出完全国产化的手机](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=litzeEdwIPymC1BrW1bD0t9U6rmVKoeA2NDqsT-jKsq5f4K4YGIIcNrjcYkYhI2TvYoZqnoT9Th0LVRB7pee4RBlnjilrBbcU9H2W01LVCQwIOIS7JXylTGtHuPar5qx&new=1)
  > 被视为战将的余承东已被给予厚望，因此如今再担重任，在消费者业务之外再负责华为云业务，柏铭科技认为余承东的任务除了推动华为云业务继续发展之外，另一个重任可能就是依托于华为云开发出完全国产化的手机。华...
- ## [张艺谋镜头里的科技力量：为世界注入5G之心](http://mp.weixin.qq.com/s?src=11&timestamp=1612571405&ver=2873&signature=lKR6Y9-29d71im9HIOqD5rjm9wD*HR4pnxQwcP3-Ze1*TbU5S4gzwRY2aePbbu1GJ7bxsi*4ZoiG-uZ0QYbzurJagS3R5pSHmFZCFESDma2QREdMD8SZ5iE12KsYmMnk&new=1)
+ ## [张艺谋镜头里的科技力量：为世界注入5G之心](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=lKR6Y9-29d71im9HIOqD5rjm9wD*HR4pnxQwcP3-Ze1*TbU5S4gzwRY2aePbbu1GJuBCbW8QIvkHVMK6H2UyUOt016-hQZuH4*btlCzs9dPQSK2Tmj10w5wY1Rjtqyk1&new=1)
  > 茕茕 发自 凹非寺 量子位 报道 | 公众号 QbitAI万米高空，飞机WiFi依然能够连接地面基站实现联网，还是5G的那种。这是世界上首个5G ATG地空宽带系统，支持1200千米/小时超高飞行速度，以及300千米超广覆盖半径，...
 # IT 技术 
+ ## [如何通过卓越技术中心（COE）推动数字化转型](http://www.cioage.com/art/202102/644917.htm)
+ > 如何通过卓越技术中心（COE）推动数字化转型
  ## [Web应用防火墙已死，你知道是谁杀死了它吗](http://netsecurity.51cto.com/art/202102/644918.htm)
  > Web应用防火墙已死，你知道是谁杀死了它吗
  ## [全面解读事件管理：从基础到实践](http://www.cioage.com/art/202102/644733.htm)
@@ -29,12 +31,14 @@ categories: IT NEWS
  > “年味”大数据，告诉你就地过年如何年味满满?
  ## [我的朋友受到社交媒体的算法推荐“蛊惑”，加入了激进组织](http://zhuanlan.51cto.com/art/202102/644795.htm)
  > 我的朋友受到社交媒体的算法推荐“蛊惑”，加入了激进组织
- ## [鸿蒙开发HUAWEI DevEco Device Tool 2.0 Beta1全新发布，提高开发效率](http://developer.51cto.com/art/202102/644640.htm)
- > 鸿蒙开发HUAWEI DevEco Device Tool 2.0 Beta1全新发布，提高开发效率
- ## [【118】-简单网络的概念](http://fellow.51cto.com/art/202101/642417.htm?qd=51ctojrzd)
- > 【118】-简单网络的概念
+ ## [C语言编程-基础与提升精讲视频课程](http://fellow.51cto.com/art/202101/639337.htm?qd=51ctojrzd)
+ > C语言编程-基础与提升精讲视频课程
+ ## [聊一聊函数之美](http://developer.51cto.com/art/202102/644970.htm)
+ > 函数在任何编程语言中都占据着主导地位。关于memoize的思考来源于reack的Hook文档中，memoize的特性就是「
  ## [微软：4 月份的 Windows10 周二补丁更新将移除旧版 Edge 浏览器](http://os.51cto.com/art/202102/644968.htm)
  > 2 月 6 日消息 Windows 10 目前配备了三种不同的网络浏览器：Legacy Edge（隐藏）、Chromium Edge（默认）
+ ## [基于STM32CubeMX的Freertos使用-第](http://fellow.51cto.com/art/202102/644928.htm)
+ > 重点讲了IoTOS的概念以及基于HAL库的freertos移植，内核解析等。
  ## [使用kubekey安装kubesphere](http://os.51cto.com/art/202102/644966.htm)
  > KubeKey 是新一代 Kubernetes 和 KubeSphere 安装器，可帮助您以简单、快速、灵活的方式安装 Kubernetes 和
  ## [Linux如何升级软件版本](http://os.51cto.com/art/202102/644965.htm)
@@ -49,8 +53,6 @@ categories: IT NEWS
  > 春节快到了，各大APP的新年红包活动也陆续的开始了，太平洋电脑网将为大家带来各大APP的红包活动详细攻略，
  ## [国内手机强删谷歌服务是为啥？告诉你该怎么办](http://os.51cto.com/art/202102/644958.htm)
  > 最近，有的朋友发现手机更新系统后，无法安装GMS谷歌服务了，甚至连之前已经安装了的GMS谷歌服务，都被一
- ## [除了支付宝五福还有几十亿！春节红包捡钱全攻略](http://mobile.51cto.com/ahot-644957.htm)
- > 和往年一样，除了支付宝以外，其他厂商也没有闲着，纷纷开启了跨年狂欢节奏。而且由于参与的人数相对较少，
  ## [市值超万亿港元！那个CEO写下70万行代码的公司上市了](https://blog.csdn.net/m0_46163918/article/details/113682887)
  > 市值超万亿港元！那个CEO写下70万行代码的公司上市了
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
