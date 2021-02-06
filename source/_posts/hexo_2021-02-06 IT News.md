@@ -1,26 +1,30 @@
 ---
 title: 2021-02-06 IT News
 copyright: true
-date: 2021-02-06 09:24:07
+date: 2021-02-06 10:15:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [疯狂吃瓜无心工作?年末你需要这几款工具提高效率](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=jWHKr81PlmuiETaDvv1zQRWV9ONvTnkCLJBJUk01OX6hUgi1NHhLAwISJsQ2WwpfsWNKg2tP18WXFZRjHh7ej4fMb7puKt5XL4Uvwe0Cn4n4rpGjdK3bbELjWR*km6b4&new=1)
+ ## [全是干货!汽车行业788篇顶级报告，内部资料，吐血整理!](http://mp.weixin.qq.com/s?src=11&timestamp=1612576805&ver=2873&signature=B6JOpyUdqn0TW2u6DkcQhgk6WHfMV-DfASsbP60IIw0gK6RnknkOka-M*AhbKJXl5xtL-862Ut-GiO5SLh*xG5Zi77naYZUi2-UrHTJrmMVnaNAWP825*4p00dDfALz6&new=1)
+ > 汽车行业788篇顶级报告大放送！小编吐血整理！废话不多说，今天小编给大家分享788份汽车产业顶级报告，包含：智能网联、新能源、共享出行、区块链、后市场以及传统汽车产业…...你想要的汽车产业报告都在这里了...
+ ## [疯狂吃瓜无心工作?年末你需要这几款工具提高效率](http://mp.weixin.qq.com/s?src=11&timestamp=1612576805&ver=2873&signature=jWHKr81PlmuiETaDvv1zQRWV9ONvTnkCLJBJUk01OX6hUgi1NHhLAwISJsQ2Wwpfpy9pwB0hMsVmWd1rB1DOLObsSVWgh2*OOO6Tdrq6ivJCIjokxNafiGusymPM*weg&new=1)
  > 吃瓜虽好，可不要贪吃哦。朋友们，最近吃瓜吃饱了吗？无论是「每天发现新孩子」的娱乐圈大瓜还是全民中毒的「合成大西瓜」，都搅得每个人无心工作，即使已经吃瓜吃得寝食不安，再有新瓜还是会选择「扶我起来，我...
- ## [\[逆流\]用脑电波写「福」字?挑战马斯克了?天津大学学生为何与写「福」字过不去?](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=vhFGNCWfjGY2vUxFI2lMZXdLq-4aNGN6-GWv*Q3a5MmdjdhQEjVHgy-NcD8rbHjIIAPrg92FPYPHTsknsen3juWmMocurfGX7KJoOdSvsrY5*IeRrXqRYcuaZLFW03KZ&new=1)
- > 临近春节，近几年来已成惯例的支付宝「集五福」活动又开始了。但通过科技的魅力，有人硬是把「集五福」活动给玩出了新花样。据中国网报道，2月5日，天津大学神经工程团队的两位95后学生，用脑电波操控「哪吒」多...
- ## [Google Chrome新版包含0day漏洞重要安全修复](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=W6thDSQyd0p4X06GquwFqT6EQsKZkm0cCP3Z9a9c0R-B2gYqGSIFjkWo4xy166rApbsHO5TUpJiCOlXqHBBHvkCyK7BO4xDjgHhwpHVkxNIIqQd*8YZaP4v6zqzgPy3l&new=1)
- > 近日发布的Google Chrome浏览器88.0.4324.150版本修复了1个0day漏洞，Google称该漏洞实际上已经被披露并正在被积极地在互联网中利用。Google并没有提供有关CVE-2021-21148漏洞的具体细节，而是希望
- ## [余承东负责华为云业务的目的之一，或许是开发出完全国产化的手机](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=litzeEdwIPymC1BrW1bD0t9U6rmVKoeA2NDqsT-jKsq5f4K4YGIIcNrjcYkYhI2TvYoZqnoT9Th0LVRB7pee4RBlnjilrBbcU9H2W01LVCQwIOIS7JXylTGtHuPar5qx&new=1)
+ ## [余承东负责华为云业务的目的之一，或许是开发出完全国产化的手机](http://mp.weixin.qq.com/s?src=11&timestamp=1612576805&ver=2873&signature=litzeEdwIPymC1BrW1bD0t9U6rmVKoeA2NDqsT-jKsq5f4K4YGIIcNrjcYkYhI2TTAHwsUhzotEPbMz2moRSnA8itgAgK8WZDlKz8vnjai7wwvTJZk8KQ2RCDO-bKrPY&new=1)
  > 被视为战将的余承东已被给予厚望，因此如今再担重任，在消费者业务之外再负责华为云业务，柏铭科技认为余承东的任务除了推动华为云业务继续发展之外，另一个重任可能就是依托于华为云开发出完全国产化的手机。华...
- ## [张艺谋镜头里的科技力量：为世界注入5G之心](http://mp.weixin.qq.com/s?src=11&timestamp=1612573204&ver=2873&signature=lKR6Y9-29d71im9HIOqD5rjm9wD*HR4pnxQwcP3-Ze1*TbU5S4gzwRY2aePbbu1GJuBCbW8QIvkHVMK6H2UyUOt016-hQZuH4*btlCzs9dPQSK2Tmj10w5wY1Rjtqyk1&new=1)
+ ## [\[逆流\]用脑电波写「福」字?挑战马斯克了?天津大学学生为何与写「福」字过不去?](http://mp.weixin.qq.com/s?src=11&timestamp=1612576805&ver=2873&signature=vhFGNCWfjGY2vUxFI2lMZXdLq-4aNGN6-GWv*Q3a5MmdjdhQEjVHgy-NcD8rbHjImPE7i1w-QtGoicqbeCwn8e*JSxlZB7mGIB6qnEqqPuM0q7J1hsrygJWUYfUPyTif&new=1)
+ > 临近春节，近几年来已成惯例的支付宝「集五福」活动又开始了。但通过科技的魅力，有人硬是把「集五福」活动给玩出了新花样。据中国网报道，2月5日，天津大学神经工程团队的两位95后学生，用脑电波操控「哪吒」多...
+ ## [Google Chrome新版包含0day漏洞重要安全修复](http://mp.weixin.qq.com/s?src=11&timestamp=1612576805&ver=2873&signature=W6thDSQyd0p4X06GquwFqT6EQsKZkm0cCP3Z9a9c0R-B2gYqGSIFjkWo4xy166rAD1gnQj9T4j9kiL-MKU4rbJWJxegp8efLBUCBUVb9h7Rpx*43w-x5Z6CjIpH5dJoI&new=1)
+ > 近日发布的Google Chrome浏览器88.0.4324.150版本修复了1个0day漏洞，Google称该漏洞实际上已经被披露并正在被积极地在互联网中利用。Google并没有提供有关CVE-2021-21148漏洞的具体细节，而是希望
+ ## [张艺谋镜头里的科技力量：为世界注入5G之心](http://mp.weixin.qq.com/s?src=11&timestamp=1612576805&ver=2873&signature=lKR6Y9-29d71im9HIOqD5rjm9wD*HR4pnxQwcP3-Ze1*TbU5S4gzwRY2aePbbu1GUqDkvAZ1ZiRps9N9X06SLd3FPve75x8RUWMFp3omsIEuM*NtYoDEIMB4CLopYcn1&new=1)
  > 茕茕 发自 凹非寺 量子位 报道 | 公众号 QbitAI万米高空，飞机WiFi依然能够连接地面基站实现联网，还是5G的那种。这是世界上首个5G ATG地空宽带系统，支持1200千米/小时超高飞行速度，以及300千米超广覆盖半径，...
 # IT 技术 
+ ## [不会MySQL索引，面试官让回家等通知！](http://database.51cto.com/art/202102/644974.htm)
+ > 不会MySQL索引，面试官让回家等通知！
  ## [如何通过卓越技术中心（COE）推动数字化转型](http://www.cioage.com/art/202102/644917.htm)
  > 如何通过卓越技术中心（COE）推动数字化转型
- ## [Web应用防火墙已死，你知道是谁杀死了它吗](http://netsecurity.51cto.com/art/202102/644918.htm)
- > Web应用防火墙已死，你知道是谁杀死了它吗
+ ## [Web应用防火墙已死，你知道是谁杀死了它吗？](http://netsecurity.51cto.com/art/202102/644918.htm)
+ > Web应用防火墙已死，你知道是谁杀死了它吗？
  ## [全面解读事件管理：从基础到实践](http://www.cioage.com/art/202102/644733.htm)
  > 全面解读事件管理：从基础到实践
  ## [10亿数据，数据库选Mongo还是Elalsticsearch？](http://stor.51cto.com/art/202102/644834.htm)
@@ -29,16 +33,20 @@ categories: IT NEWS
  > 对话型人工智能如何改善客户体验
  ## [“年味”大数据，告诉你就地过年如何年味满满?](http://bigdata.51cto.com/art/202102/644818.htm)
  > “年味”大数据，告诉你就地过年如何年味满满?
- ## [我的朋友受到社交媒体的算法推荐“蛊惑”，加入了激进组织](http://zhuanlan.51cto.com/art/202102/644795.htm)
- > 我的朋友受到社交媒体的算法推荐“蛊惑”，加入了激进组织
- ## [C语言编程-基础与提升精讲视频课程](http://fellow.51cto.com/art/202101/639337.htm?qd=51ctojrzd)
- > C语言编程-基础与提升精讲视频课程
+ ## [4天学习Android开发零基础入门视频课程](http://fellow.51cto.com/art/202101/641276.htm?qd=51ctojrzd)
+ > 4天学习Android开发零基础入门视频课程
+ ## [Google 再次修复 Chrome 零日漏洞](http://os.51cto.com/art/202102/644977.htm)
+ > Google 于 2 月 5 日发布了针对 Windows、Mac 和 Linux 用户的 Chrome 小版本更新，更新后 Chrome 的版本号
+ ## [肝了很久的字节跳动消息队列面经，我不信你能看完！！](http://news.51cto.com/art/202102/644973.htm)
+ > 又到了年底跳槽高峰季，很多小伙伴出去面试时，不少面试官都会问到消息队列的问题，不少小伙伴回答的不是很
+ ## [在一个公司死磕10年是种什么体验？](http://news.51cto.com/art/202102/644972.htm)
+ > 最近在知乎上看到一个话题：“那些在一个公司死磕了 5-10 年的程序员最后都怎么样了?&quot;
+ ## [MyCAT集群在线扩容的场景小结](http://stor.51cto.com/art/202102/644971.htm)
+ > 最近线上有一套集群的存储存在瓶颈，导致经常会有报警，如果按照存储现状和稍后的假期的数据增长，很可能
  ## [聊一聊函数之美](http://developer.51cto.com/art/202102/644970.htm)
  > 函数在任何编程语言中都占据着主导地位。关于memoize的思考来源于reack的Hook文档中，memoize的特性就是「
  ## [微软：4 月份的 Windows10 周二补丁更新将移除旧版 Edge 浏览器](http://os.51cto.com/art/202102/644968.htm)
  > 2 月 6 日消息 Windows 10 目前配备了三种不同的网络浏览器：Legacy Edge（隐藏）、Chromium Edge（默认）
- ## [基于STM32CubeMX的Freertos使用-第](http://fellow.51cto.com/art/202102/644928.htm)
- > 重点讲了IoTOS的概念以及基于HAL库的freertos移植，内核解析等。
  ## [使用kubekey安装kubesphere](http://os.51cto.com/art/202102/644966.htm)
  > KubeKey 是新一代 Kubernetes 和 KubeSphere 安装器，可帮助您以简单、快速、灵活的方式安装 Kubernetes 和
  ## [Linux如何升级软件版本](http://os.51cto.com/art/202102/644965.htm)
@@ -47,12 +55,6 @@ categories: IT NEWS
  > 工欲善其事，必先利其器。作为数据分析师，最基础的工作肯定就是数据查询和可视化了。今天，我们就来说一说
  ## [放弃 ifconfig，拥抱 ip 命令](http://os.51cto.com/art/202102/644961.htm)
  > 在很长一段时间内，ifconfig 命令是配置网络接口的默认方法。它为 Linux 用户提供了很好的服务，但是网络很
- ## [工信部将出台“22条规定”：APP索权要以最小必要为原则](http://netsecurity.51cto.com/art/202102/644960.htm)
- > 为了更彻底的根治App强制授权、过度索权、超范围收集个人信息等现象，工信部即将出台《移动互联网应用程序
- ## [齐齐分20亿！抖音团圆家乡年活动全攻略](http://mobile.51cto.com/ahot-644959.htm)
- > 春节快到了，各大APP的新年红包活动也陆续的开始了，太平洋电脑网将为大家带来各大APP的红包活动详细攻略，
- ## [国内手机强删谷歌服务是为啥？告诉你该怎么办](http://os.51cto.com/art/202102/644958.htm)
- > 最近，有的朋友发现手机更新系统后，无法安装GMS谷歌服务了，甚至连之前已经安装了的GMS谷歌服务，都被一
  ## [市值超万亿港元！那个CEO写下70万行代码的公司上市了](https://blog.csdn.net/m0_46163918/article/details/113682887)
  > 市值超万亿港元！那个CEO写下70万行代码的公司上市了
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -73,16 +75,16 @@ categories: IT NEWS
  > 漫谈TCP-AIMD/BBR的公平性以及buffer bloat
  ## [小米的隔空充电，看起来好酷](https://blog.csdn.net/weiqifa0/article/details/113449074)
  > 小米的隔空充电，看起来好酷
- ## [多元统计分析及R语言建模（第五版）——第6章 判别分析课后习题](https://blog.csdn.net/qq_45111488/article/details/110390750)
- > 多元统计分析及R语言建模（第五版）——第6章 判别分析课后习题
- ## [OpenCV下载/OpenCV国内镜像/opencv_contrib下载](https://blog.csdn.net/bookzhan/article/details/104753855)
- > OpenCV下载/OpenCV国内镜像/opencv_contrib下载
+ ## [vue.cli项目封装全局axios，封装请求，封装公共的api和调用请求的全过程](https://blog.csdn.net/weixin_43216105/article/details/98877960)
+ > vue.cli项目封装全局axios，封装请求，封装公共的api和调用请求的全过程
+ ## [“硅谷之父”传奇：拯救斯坦福大学、培养大批高科技人才、指导创立惠普](https://blog.csdn.net/csdnsevenn/article/details/112790951)
+ > “硅谷之父”传奇：拯救斯坦福大学、培养大批高科技人才、指导创立惠普
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [php之对象基类StdClass](https://blog.csdn.net/qq_27868061/article/details/111819010)
- > php之对象基类StdClass
- ## [\[记录十三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之购买云服务器和安装mysql](https://blog.csdn.net/gitchatxiaomi/article/details/108423951)
- > \[记录十三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，博客全栈项目之购买云服务器和安装mysql
+ ## [JS逆向:Webpack打包后的代码怎么搞？猿人学爬虫比赛第十六题详细题解](https://blog.csdn.net/qq523176585/article/details/110153191)
+ > JS逆向:Webpack打包后的代码怎么搞？猿人学爬虫比赛第十六题详细题解
+ ## [1行Python代码制作动态二维码](https://blog.csdn.net/m0_38106923/article/details/100603516)
+ > 
 # 人工智能 
  ## [用opencv给彦女王生成一副蒙太奇画像](https://blog.csdn.net/qq_43667130/article/details/107892516)
  > 
