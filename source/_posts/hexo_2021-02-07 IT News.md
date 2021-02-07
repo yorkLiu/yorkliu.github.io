@@ -1,22 +1,24 @@
 ---
 title: 2021-02-07 IT News
 copyright: true
-date: 2021-02-07 08:02:27
+date: 2021-02-07 09:05:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [又见VR品牌诞生，首个快闪店落地朝阳大悦城悦界](http://mp.weixin.qq.com/s?src=11&timestamp=1612656004&ver=2875&signature=FHlqLW5-xTKtJ*O8wcGuWTpj3f7acSrFMxvZ050S2m59F7M6*pTqjBy3u9zbJGytHUapprk-TpsQZneGKfw-J*7fgcJLpo0JSFkoFVKK20*fjwcdpynyp1b9fwWrZpaI&new=1)
- > hi188｜编辑2020年5月，我国珠穆朗玛峰高程测量登山队再次成功登顶珠峰，重新测量的珠峰高度为8848.86米。如今，攀登珠峰不仅体现了不畏艰险、顽强拼搏、团结协作、勇攀高峰的民族精神，对于后代也具有教育意义...
- ## [华为轮值董事长胡厚崑：2020年股票分红，预计每股1.86元](http://mp.weixin.qq.com/s?src=11&timestamp=1612656004&ver=2875&signature=u5qnpfxz7ICJpgqR3zQQa1zdkr6rzBmibkHEdiKibDYpUQ1i03yi10sN*qBx75dWY4YoFAM2l8tbIiW6nzZXYHy8mCkhrGZMTLWAdALJ*blgJWX66pGgrNiHgYeFqj34&new=1)
- > 2021年2月4日，华为轮值董事长胡厚崑宣布：华为2020年股票分红，预计每股1.86元人民币。近年来，华为不断落实给“奋斗者们”分发奖励，在饱受美国的打压的这一年，华为仍然坚持着这一传统。华为历年分红情况/C11...
- ## [工信部个人信息保护规定将出台，乐视视频图标改为欠122亿，蘑菇租房租金提现卡壳，华为系统将改用鸿蒙内核，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1612656004&ver=2875&signature=NoLfalObU2s0YiZkzCxl5fC62*l-DMc3OX45Q8baSNsHlowGIDG1Pv9NqGljbIJJix7MUgZ2ubTh*Rf7jY9-*AXNusX68w9jIH508uXVgIM8TJFl6A2U2mjpX4kKBEDW&new=1)
- > 今天是2月6日农历腊月廿五明天就放假了今天晚上办公室已经一个人都没有了下面是今天的其他大新闻 工信部移动应用个人信息保护 22 条规定将出台：App 索权要以最小必要为原则（ 工信部 ） 工业和信息化部 5 日通...
- ## [中国工业软件没有“弯道超车”，“一拐弯就是车祸”](http://mp.weixin.qq.com/s?src=11&timestamp=1612656004&ver=2875&signature=Oga9fZzjaQvMQpIFnu-87Djft9FjzWZfosdcDYSGKNVfb7rVnVU2rmds1qMnlYutAqB1*GXwGLNSUo-73sAxZE5Ru4bO8gfxAGn5xwJM1TuD2mmHVjRnCmsjlmDs5nn3&new=1)
+ ## [中国工业软件没有“弯道超车”，“一拐弯就是车祸”](http://mp.weixin.qq.com/s?src=11&timestamp=1612659604&ver=2875&signature=Oga9fZzjaQvMQpIFnu-87Djft9FjzWZfosdcDYSGKNVfb7rVnVU2rmds1qMnlYutKFoiKQeED5Ju9NshT7zu3nQ-4q4SHhtvOtyimv*fJKZLpimLxn9AZ8modGxiOH5P&new=1)
  > 在“卡脖子”成为热词的当下，工业软件近年来持续引起我国产学研政界广泛的关注。作为工业领域里进行研发设计、业务管理、产品制造、生产调度和过程控制的相关软件与系统，工业软件已经被公认为“工业制造的大脑...
- ## [“懂行人”有话说：开启货场管理的智能转型](http://mp.weixin.qq.com/s?src=11&timestamp=1612656004&ver=2875&signature=pGVV2rUvBn1Rpm0Mfx75S0YL3zzxjhJQVUlY4gPOdG8vsH36t*nPlx11uI1z-y4cpAa14RT-yfJqiPm**i5Cnp4-Pv-U15qyVXEfb45AYxmx4pXqdcDEmadlnbTDhgU8&new=1)
+ ## [华为轮值董事长胡厚崑：2020年股票分红，预计每股1.86元](http://mp.weixin.qq.com/s?src=11&timestamp=1612659604&ver=2875&signature=u5qnpfxz7ICJpgqR3zQQa1zdkr6rzBmibkHEdiKibDYpUQ1i03yi10sN*qBx75dWqCOHHIoE9ScnexHUIEaH7dkeVttMA0*WGHYWsFBkk3hzJvzFCRudY2QhMOj4CdkZ&new=1)
+ > 2021年2月4日，华为轮值董事长胡厚崑宣布：华为2020年股票分红，预计每股1.86元人民币。近年来，华为不断落实给“奋斗者们”分发奖励，在饱受美国的打压的这一年，华为仍然坚持着这一传统。华为历年分红情况/C11...
+ ## [又见VR品牌诞生，首个快闪店落地朝阳大悦城悦界](http://mp.weixin.qq.com/s?src=11&timestamp=1612659604&ver=2875&signature=FHlqLW5-xTKtJ*O8wcGuWTpj3f7acSrFMxvZ050S2m59F7M6*pTqjBy3u9zbJGytseb7ul28gp6H4w*h9W0wuQGmQx7dAHbqUEC-3NLN2718LRuNVh974Gxr3HaYNVbv&new=1)
+ > hi188｜编辑2020年5月，我国珠穆朗玛峰高程测量登山队再次成功登顶珠峰，重新测量的珠峰高度为8848.86米。如今，攀登珠峰不仅体现了不畏艰险、顽强拼搏、团结协作、勇攀高峰的民族精神，对于后代也具有教育意义...
+ ## [“懂行人”有话说：开启货场管理的智能转型](http://mp.weixin.qq.com/s?src=11&timestamp=1612659604&ver=2875&signature=pGVV2rUvBn1Rpm0Mfx75S0YL3zzxjhJQVUlY4gPOdG8vsH36t*nPlx11uI1z-y4cWhZVknjlYzCKl6zv1JFcSOVSdu*306jTTwHpsasSXrwNklMjxWYOW7kXbiO0swi4&new=1)
  > 你的每一次“在看”，我都看得见！
+ ## [工信部个人信息保护规定将出台，乐视视频图标改为欠122亿，蘑菇租房租金提现卡壳，华为系统将改用鸿蒙内核，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1612659604&ver=2875&signature=NoLfalObU2s0YiZkzCxl5fC62*l-DMc3OX45Q8baSNsHlowGIDG1Pv9NqGljbIJJH44yz102U-jHl7U7jXqhmQmZV6MO-k4i4-qAGOaiaYCR6KbsOznKLfxUws*XRwkA&new=1)
+ > 今天是2月6日农历腊月廿五明天就放假了今天晚上办公室已经一个人都没有了下面是今天的其他大新闻 工信部移动应用个人信息保护 22 条规定将出台：App 索权要以最小必要为原则（ 工信部 ） 工业和信息化部 5 日通...
 # IT 技术 
+ ## [60种不同功能的PostgreSQL工具大集合](http://database.51cto.com/art/202102/645039.htm)
+ > 60种不同功能的PostgreSQL工具大集合
  ## [不会MySQL索引，面试官让回家等通知！](http://database.51cto.com/art/202102/644974.htm)
  > 不会MySQL索引，面试官让回家等通知！
  ## [一份前端开发人员的架构样式指南，请查收！](http://developer.51cto.com/art/202102/644887.htm)
@@ -29,12 +31,18 @@ categories: IT NEWS
  > 碎纸恢复还原技术给载体销毁带来的重要启示
  ## [Web应用防火墙已死，你知道是谁杀死了它吗？](http://netsecurity.51cto.com/art/202102/644918.htm)
  > Web应用防火墙已死，你知道是谁杀死了它吗？
- ## [在一个公司死磕10年是种什么体验？](http://news.51cto.com/art/202102/644972.htm)
- > 在一个公司死磕10年是种什么体验？
- ## [在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程](http://fellow.51cto.com/art/202101/639334.htm?qd=51ctojrzd)
- > 在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程
+ ## [SQL Server 全能管理员在线课程](http://fellow.51cto.com/art/202008/622833.htm?qd=51ctojrzd)
+ > SQL Server 全能管理员在线课程
+ ## [原来是这么玩的，@DateTimeFormat和@NumberFormat](http://developer.51cto.com/art/202102/645104.htm)
+ > 在本系列中间，用几篇文章彻彻底底的把JDK日期时间系列深入讲解了一遍，此系列有可能是把JDK日期时间讲得最
  ## [用Operators管理多集群Kubernetes](http://developer.51cto.com/art/202102/645038.htm)
  > 早在Kubernetes集群及其他云原生解决方案流行起来之前，我们Kubermatic就一直在帮助客户交付它们。我们帮助
+ ## [WPF 如何修改button圆角(经典)](http://developer.51cto.com/art/202102/645102.htm)
+ > 本人想设置Button为圆角，奈何搜索百度，找到的全是坑爹答案，现总结如下：1. 需要添加button 的template.2
+ ## [你会喜欢的新数组方法:array.at(index)](http://bigdata.51cto.com/art/202102/645101.htm)
+ > 除了普通对象之外，数组是 JavaScript 中广泛使用的数据结构，而数组中常用操作是按索引访问元素。在本文中
+ ## [详解Synchronized锁的各种用法及注意事项](http://developer.51cto.com/art/202102/645100.htm)
+ > 本文主要通过简单的demo来阐述synchronized锁的各种用法以及使用synchronized锁的相关注意事项，记录下来同
  ## [写福字查疫情无所不能！春节支付宝竟如此实用](http://mobile.51cto.com/ahot-645057.htm)
  > 互联网发达，坐在家里也能提前用支付宝把事情安排好。那么接下来这份2021年春节回家攻略，就请大家一定收好
  ## [程序员福利，开源包管理软件 Homebrew 正式原生适配苹果 M1 Mac](http://os.51cto.com/art/202102/645056.htm)
