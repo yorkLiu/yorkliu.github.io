@@ -1,30 +1,50 @@
 ---
 title: 2021-02-07 IT News
 copyright: true
-date: 2021-02-07 12:04:28
+date: 2021-02-07 17:07:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]紧凑型SUV洞察2021版(附21页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=-WyRDEjKCP4Jx26yeL6tu52FnF53aJUg5jHs4Egg16p5I2sFPWEgr7ExOvRD1pqJUaGW1cb9f0TEb3y95*ZGVIsEam0kVczXBqIDBVVvrqHEaU5LKTKYHHtQv8-CpKLd&new=1)
- > 长期以来紧凑型轿车都是“第一车市”，多数车企的产品投放紧密围绕紧凑型轿车展开，形成主流与个性结合，高、中、低排序，国际引进与本土研发结合的多元化、多层次、多理念的战略布局。2016~2020年紧凑型轿车持...
- ## [7点见|苹果暂停与现代和起亚的谈判；乐视视频logo“自嘲”欠122亿](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=5XpwJvBrFGc69Dt2m-q5StXwezufcM0NE7IRmi*mDCmC50Rmxz2AfSx3Ris7LGkAcrxAANxGWr0ZnWsOeyUbCOXLflcuYfmhs1D*6PMthSuCJUZHg59K*bCS0HAFCxZ7&new=1)
- > 各位小伙伴早上好呀！ 以下是今天的早报！彭博社：苹果暂停与现代和起亚的电动汽车谈判据彭博社报道，上周有多个传言称，苹果一直在与现代汽车和现代汽车关联公司起亚讨论苹果汽车制造问题，但最近这些谈判已经...
- ## [西门子能源激光粉末床金属3D打印修复汽轮机叶片](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=s3eYoPFgf57psK*GfHtkeGIssaEqtXhGaQfrTcQuVkd5t2anj*-lWxSFOCPye14XD8DDHH8B-OEX-S3t1VM*d24gHoSJBeZeQQo6L1o7mqRVs75RFh0h0Kfql2ovcV9W&new=1)
+ ## [连CEO都不香了?这些互联网大佬接连辞任](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=2ALLJnlemkBWm9dhmtZZLYGF8GkdN4CtI-kUwI5vvMia6Fkl3INxrk5SFwiRI8ikncSUQEMoxr0Wmbw8H6OkjtSeGtYZivBoC1tH1bHuSyYkNtCMdmBVr1ncnMHxTm*w&new=1)
+ > 来源 | CSDN（ID：CSDNnews）整理 | 郑丽媛 责编 | 屠敏近日，杰夫·贝佐斯宣布今年第三季度后不再担任公司首席执行官(CEO)的消息一经公布，迅速在各大网站登上首页，引发众多热议。（Techmeme）（Hacker New
+ ## [喜讯频传|云创大数据成功中标云计算基地项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=gZNCd2oQiwX3-FF5Fq-nC2b15oEn3XXDQWsGCvXfVFaMJJgfqdn02MLNXGGTW5YenyFiRWuUrB6FeMTNusLd5jldhffPZf1MZ3A78XWsmGx-jGRVha79oYYPgZzR6I6A&new=1)
+ > 百年大计，教育为本。近日，海南省政府采购网公布（信息来源：海南省教学仪器设备招标中心）公告，在教育培训领域具有不俗技术实力和众多案例积累的云创大数据凭借云计算实训平台成功中标海南省高级技工学校（海...
+ ## [突发，中国联通大整合!成立了一家新公司，董事长确认!](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=NOEab3juYYHMzX5H22zi2vGEcpsov3w4*o3-70NgTFcujxNzZsbSZtjr1NPLSw4eQDvUMInhpI15PkuvK6UiCIAJduq*nN0OsLMnFIGucrMRsimLO-fhdwd0zi08Azjb&new=1)
+ > 2月7日上午消息，联通数字科技有限公司（以下简称“联通数科”）揭牌仪式今日在京举行。中国联通董事长王晓初、总经理陈忠岳、党组副书记李福申、副总经理买彦州、副总经理梁宝俊、总会计师朱可炳、副总经理范云...
+ ## [万亿诱惑，手机厂商开始划分汽车版图](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=Z9iPOaXZXvfvMsQ1WXPLhOE8UykFw*XGOyVk3ZUQiVIXShbpplDy7IcQHI23OrPoHKY4t-NywJS7ehouwavqqVBasfzpsTnNbWJNntO48gQ8t4kJ8cDCOy8ZNGnDKdEa&new=1)
+ > 如今，随着5G、人工智能、物联网、新能源等技术迅猛发展，有越来越多的创新应用在汽车上，这也让让汽车行业出现许多新变化。可以看到，未来汽车不再仅仅扮演“代步工具”的角色，而是逐渐变成下一个“智能终端”...
+ ## [机器学习与流体动力学：谷歌AI利用「ML+TPU」实现流体模拟数量级加速](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=hSXuRxxkv8TjqUTS8gqP*skGqbVZhyWh2*M0-6ZvWJwppHMo-Wm6pjDr8AhaiJ7PQC9q0qHZC2990Rn8-GPbXQy-Ss2KDquov4ZFVreh3QR8wA9NPxuJu4uvxKJWTqh4&new=1)
+ > 机器之心报道作者：魔王谷歌 AI 最近一项研究表明，利用机器学习和硬件加速器能够改进流体模拟，且不损害准确率或泛化性能。流体数值模拟对于建模多种物理现象而言非常重要，如天气、气候、空气动力学和等离子体...
+ ## [可以立即提高业务数据安全性的5种方法](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=mQF3Jxj8jCxd6ow6cG-c6w5bbxej2ds91QjexsoDakcpKuEoiVFN8842dTEjFOPwJ9563eWUOVJAoyXVhJ3wk8LM9kqDkZ0muN6Gl9vKlT87usqA0NZvnPjP9xiQnBFS&new=1)
+ > 关键讯息，D1时间送达！网络攻击如今达到了前所未有的水平，现在每天大约有3万个网站遭到黑客攻击，64%的企业成为了网络攻击的受害者。应对这一严峻的现实需要采用大量的网络安全最佳实践，以帮助缓解不断增长的...
+ ## [中国联通助格力打造5G+工业互联网智慧园区](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=JWSL5eAjEqLUcxFmK5X0UeZDu0kWCZpqqqF5TxtJiNJd9sy9bOM-MoPclk39gJSaz-T*y0HuchlM0cD*4jVFNG-VWcOi41sGOxHhc6xWpJzH8oUMNkGzuc35tnQ-*P6l&new=1)
+ > 如今，“新基建”已成为我国实现经济高质量发展的重要抓手。加快5G与工业互联网的融合发展，有利于提升产业融合创新水平、加快制造业数字化转型步伐，推动实体经济高质量发展。 2019年7月，中国联通广东分公司携...
+ ## [坐看云起：零信任四大路线优劣对比](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=q4VvpyHfuOYaXh3AKikwesT5srueWk*IjJcFYreJ9wc8yoSMIq5WRNqMPxc4j9NtGdCxlZCmo1-1N5Qj*5LJvVtqL5MwHOkpG4G6e6ui8AbOidd1yAXECDGuZ8D-rRei&new=1)
+ > 安全牛评零信任架构的实现可谓“条条大道通罗马”，但是对于大多数企业来说，“长周期、高成本”是零信任道路最大的障碍，而基于云计算的零信任方案和服务，大大降低了零信任的门槛，提高了部署和回报速度，在充...
+ ## [漫评|“无码通行”让疫情防控下的春运更暖心和安心](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=Ue5E6TmLPp-17UuKNF5LQHbyU*Ah3DmC2l4LNA-yasTC1tHot8Kh2u7vrmQwmwuRY3coneDbzmMIWo8Hc2lk*LQyiqt8HoT9BvA0j0ebe0w=&new=1)
+ > 据报道，我国广州站、广州南站、广州东站已经开始试用“健康防疫核验系统”。目前人们高频使用的“健康码”是通过智能手机扫“码”，来判断是否属于高危感染人群，从而有针对性采取不同的处置措施。但“健康码”...
+ ## [五角大楼「AI头子」的中场战事](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=ZnlX8bO6yEToiwpRyUE6mVekHso7KkJpJxKXr0podxgHWXGE1WSDaDXvbxCAktKsJjUAWdTCoOQ7mQf3Cz2SKeHFdiqSwyVrqQdsge2spHznZUwT1N9vi9EgtRgWPDRu&new=1)
+ > 作者 | Null, Chole「要让人工智能在未来为我们的军事所用，那它就必须变成我们的现在。」美国国防部联合人工智能中心负责人Michael Groen说道。而他在另一个活动中的发言则更为直接「在未来一两年内，人工智能...
+ ## [西门子能源激光粉末床金属3D打印修复汽轮机叶片](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=s3eYoPFgf57psK*GfHtkeGIssaEqtXhGaQfrTcQuVkdgsnoMBb8FzrNt2SYBPvys7faOTuhjKwRlrnH*msXyYFeauj6y*BORisu9sOajHZaPuY3*Td8GmDOucv6OeC0A&new=1)
  > 2021年2月5日，南极熊获悉，西门子能源公司的增材制造和维修专家开发了HybridTech解决方案，使用激光粉末床熔融(L-PBF)对涡轮叶片进行维修和升级。 据南极熊了解，现有金属零件的修复一般都使用DED等激光熔覆工...
- ## [赞美与批评共存，细数三十多年来华为的发展史](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=N7qLz6bZUFvvEWpa3u40HhLZ*Iq8oyUKM7Ns0hUDySVejumr-sy21SqzxzNJemMvtVWkGPXnDYMmq49mvOzGJu0Kvk18pHlyIo5x4Fzl4zhbWaJNjSV7toLF1wpGmt0X&new=1)
- > 前言由于上期投票是华为获胜，所以这期来讲讲华为。华为发展史相比上期的小米和上上期的魅族，华为的历史要久远很多。如果只说手机业务的话，看起来会有点突兀，所以这期花了较长时间收集了一下华为的历史。01第...
- ## [会员动态|II-VI高意获富士通“2020年供应链卓越奖”](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=fm0bYe1zc2Ml-G50xGrgcsY*HpS49BXDlup*UX3207S6J2cau18ip8kMpfNG0p6QAltytvXgEVyofHBNpsq6V9wAnqNnbAUqW9qegNZaa1bo34bz5lL0G5eHoSZFinS6&new=1)
+ ## [7点见|苹果暂停与现代和起亚的谈判；乐视视频logo“自嘲”欠122亿](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=5XpwJvBrFGc69Dt2m-q5StXwezufcM0NE7IRmi*mDCmGKX8JtJWLlgCQOwl0wytUc0W3gOSS7DHecsqUhJRbK3Wd5BskHWQbD4Mg5XCQ6cO5aHfgVodrlOpiktXQGbpm&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！彭博社：苹果暂停与现代和起亚的电动汽车谈判据彭博社报道，上周有多个传言称，苹果一直在与现代汽车和现代汽车关联公司起亚讨论苹果汽车制造问题，但最近这些谈判已经...
+ ## [会员动态|II-VI高意获富士通“2020年供应链卓越奖”](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=fm0bYe1zc2Ml-G50xGrgcsY*HpS49BXDlup*UX3207ThJ1OSfQbRgEG5i7NzKrgpoaUQml7Phc82hwzISjjly8w8faFKV6MMVM3eaj9Ltb1S68NpRatl50u9VS3ChQEv&new=1)
  > 新闻导读II-VI高意周三宣布获得富士通颁发的“2020年供应链卓越奖”。该奖项表彰II-VI高意出色的整体表现，包括100%准时交货。  ICC讯本周三，领先的收发器供应商II-VI高意宣布，在2021年1月14日举行的虚拟供...
- ## [工信部个人信息保护规定将出台，乐视视频图标改为欠122亿，蘑菇租房租金提现卡壳，华为系统将改用鸿蒙内核，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=NoLfalObU2s0YiZkzCxl5fC62*l-DMc3OX45Q8baSNuoe*Mdk2NphXi6oLtxmU1MlR0yISF9QToa4QMGSn6UYCaU1TkRmO5X1k1YnSC1iQ3L9w4eQbDUNAZ9Wf4XQIkm&new=1)
+ ## [\[报告\]紧凑型SUV洞察2021版(附21页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=-WyRDEjKCP4Jx26yeL6tu52FnF53aJUg5jHs4Egg16pzXg4Wqi39qykCya0w57tyarxy1UrgYITcrM16uL9chG2*7PaDG8nyzB35wjVdYOarj6Rdn-jmF3em-mdeVru2&new=1)
+ > 长期以来紧凑型轿车都是“第一车市”，多数车企的产品投放紧密围绕紧凑型轿车展开，形成主流与个性结合，高、中、低排序，国际引进与本土研发结合的多元化、多层次、多理念的战略布局。2016~2020年紧凑型轿车持...
+ ## [赞美与批评共存，细数三十多年来华为的发展史](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=N7qLz6bZUFvvEWpa3u40HhLZ*Iq8oyUKM7Ns0hUDySVcYnSEZWQSo6*-SkDZyPKjlfR9F*ZngTPtQxwFmrcQG0-TQGTgYLkOV0hXQQTOiAuEqeqoainxwVUekmCkcWAu&new=1)
+ > 前言由于上期投票是华为获胜，所以这期来讲讲华为。华为发展史相比上期的小米和上上期的魅族，华为的历史要久远很多。如果只说手机业务的话，看起来会有点突兀，所以这期花了较长时间收集了一下华为的历史。01第...
+ ## [工信部个人信息保护规定将出台，乐视视频图标改为欠122亿，蘑菇租房租金提现卡壳，华为系统将改用鸿蒙内核，这就是今天的其他大新闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=NoLfalObU2s0YiZkzCxl5fC62*l-DMc3OX45Q8baSNtGLYHqWSrEYH3DAdSwCA4CF80qpqD6CLXfWQ0QbSnMafHcBTyGrI8RJZR-ziW4nzxO1LuQN8OSlm62HH6WhpFX&new=1)
  > 今天是2月6日农历腊月廿五明天就放假了今天晚上办公室已经一个人都没有了下面是今天的其他大新闻 工信部移动应用个人信息保护 22 条规定将出台：App 索权要以最小必要为原则（ 工信部 ） 工业和信息化部 5 日通...
- ## [华为轮值董事长胡厚崑：2020年股票分红，预计每股1.86元](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=u5qnpfxz7ICJpgqR3zQQa1zdkr6rzBmibkHEdiKibDYriezFehWkYklpm73elkKl13xwI0sUwGJDiUhHSKDYaH--CTI-EfpICMews--i1tkYwX5stdGI8iYDipMh3oh-&new=1)
+ ## [华为轮值董事长胡厚崑：2020年股票分红，预计每股1.86元](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=u5qnpfxz7ICJpgqR3zQQa1zdkr6rzBmibkHEdiKibDY5epO1wodr26u*VT7oFs02DUoSD7qWtoDOo2GtFeYeZakGB28*DXC2fY0iOxRMNrTReio5wW4tlN-bF4UacvOH&new=1)
  > 2021年2月4日，华为轮值董事长胡厚崑宣布：华为2020年股票分红，预计每股1.86元人民币。近年来，华为不断落实给“奋斗者们”分发奖励，在饱受美国的打压的这一年，华为仍然坚持着这一传统。华为历年分红情况/C11...
- ## [中国工业软件没有“弯道超车”，“一拐弯就是车祸”](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=Oga9fZzjaQvMQpIFnu-87Djft9FjzWZfosdcDYSGKNUyW3ute*ruiJg-3zupG9SmEbTmJGn5Bcd*deAUyr5GFDlngPdPOOjK8PyLlqvFGIhhlUxg1xhUV5O*Fe4T8Ufh&new=1)
+ ## [中国工业软件没有“弯道超车”，“一拐弯就是车祸”](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=Oga9fZzjaQvMQpIFnu-87Djft9FjzWZfosdcDYSGKNUSDF8oSv3d6GpNB-u2U-7y*hPYUZFja40B9uTWyimi7Tacu0quoR-EtCIZ9*Zyuh38k97dqk0Ttgi-T-Y-rNhh&new=1)
  > 在“卡脖子”成为热词的当下，工业软件近年来持续引起我国产学研政界广泛的关注。作为工业领域里进行研发设计、业务管理、产品制造、生产调度和过程控制的相关软件与系统，工业软件已经被公认为“工业制造的大脑...
- ## [又见VR品牌诞生，首个快闪店落地朝阳大悦城悦界](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=FHlqLW5-xTKtJ*O8wcGuWTpj3f7acSrFMxvZ050S2m72fKfAbRq3VzeOuB34U6TvjD8rGR3zpmVxy5mxKUxBnJGzPojZ0SFyNDqageOMf7qLxVvBDLdHh6QOUw3uvreY&new=1)
+ ## [又见VR品牌诞生，首个快闪店落地朝阳大悦城悦界](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=FHlqLW5-xTKtJ*O8wcGuWTpj3f7acSrFMxvZ050S2m5wD7kS0nRQr8fsO3reJ3MPklXqe8POgz8NIMx2QHVBytI*qPZJxx4D95DAl*9VoULinEkIBHleLNXLFvMwXbE*&new=1)
  > hi188｜编辑2020年5月，我国珠穆朗玛峰高程测量登山队再次成功登顶珠峰，重新测量的珠峰高度为8848.86米。如今，攀登珠峰不仅体现了不畏艰险、顽强拼搏、团结协作、勇攀高峰的民族精神，对于后代也具有教育意义...
- ## [“懂行人”有话说：开启货场管理的智能转型](http://mp.weixin.qq.com/s?src=11&timestamp=1612670404&ver=2875&signature=pGVV2rUvBn1Rpm0Mfx75S0YL3zzxjhJQVUlY4gPOdG*aVGzKmSlzTWrpmwQBxndqw1D9anI*62eB7UwZwtaEnZ8bC1NzyN6gKlfA0Ifxf8RYyNDfuUCOwx*VrXFNNt8D&new=1)
+ ## [“懂行人”有话说：开启货场管理的智能转型](http://mp.weixin.qq.com/s?src=11&timestamp=1612688404&ver=2875&signature=pGVV2rUvBn1Rpm0Mfx75S0YL3zzxjhJQVUlY4gPOdG-3fNS1TAf1Pnxnkw2lEAz7rPyND842oMlvDEjL*N1A5V*QbsIcJ1tKdUsCqtdLPKJm7cHiwf7Ld0wnlqsmmv0-&new=1)
  > 你的每一次“在看”，我都看得见！
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -41,28 +61,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [《BT5&Metasploit基础与提升》黑客渗透入门经典视频课程-陈鑫杰](http://fellow.51cto.com/art/202101/639798.htm?qd=51ctojrzd)
- > 《BT5&amp;Metasploit基础与提升》黑客渗透入门经典视频课程-陈鑫杰
- ## [2020年工控系统漏洞数量暴增](http://zhuanlan.51cto.com/art/202102/645151.htm)
- > 根据Claroty最新发布的报告，2020年下半年披露的ICS漏洞同比增加了25%，比2020年上半年增加了33%。
- ## [以色列Antifa组织入侵三K党爱国旅骑士团网站](http://netsecurity.51cto.com/art/202102/645150.htm)
- > 援引耶路撒冷邮报最新报道，一支来自以色列的Antifa团体近日成功入侵了属于三K党(Ku Klux Klan)爱国旅骑士
- ## [智能家居技术：应用和优势](http://iot.51cto.com/art/202102/645149.htm)
- > 智能家居技术不仅使人类的工作变得简单，而且通过使能源消耗过程自动化来解决诸如全球变暖，气候变化和可再
- ## [数字人民币跨境试点提速](http://blockchain.51cto.com/art/202102/645147.htm)
- > 2021年珠海市《政府工作报告》指出，争取数字人民币在跨境场景试点使用。前不久，中国人民银行数字货币
- ## [发展移动支付改变印度，印度如今成功了吗？](http://mobile.51cto.com/comment-645146.htm)
- > 作为发展中国家，现如今最具发展潜力的国家之一，印度这些年不负众望，经济发展十分突出，在2019年，印度全
- ## [手把手教你安装Windows 10X，详细教程，一看就会](http://os.51cto.com/art/202102/645145.htm)
- > Windows 10X是专门为轻型设备设计的新操作系统，它是Windows 10的精简版，仅在新电脑上可用。微软设计了它
- ## [MySQL查看及杀掉链接方法大全](http://database.51cto.com/art/202102/645143.htm)
- > 在数据库运维过程中，我们时常会关注数据库的链接情况，比如总共有多少链接、有多少活跃链接、有没有执行时
- ## [工业组织如何采用成功的工业物联网战略：成功的五个步骤](http://iot.51cto.com/art/202102/645139.htm)
- > 在本文中，我们研究了组织在采用成功的工业物联网战略时可以考虑的五个要素，并提供了支持示例，以说明工业
- ## [怎么样缩小企业员工的技能差距](http://www.cioage.com/art/202102/645138.htm)
- > 鉴于目前的技术发展轨迹，似乎没有迹象表明这种趋势将来会改变。因此，至关重要的是，了解组织可以使用多种
- ## [人工智能项目失败将不再归咎于人才缺口](http://ai.51cto.com/art/202102/645137.htm)
- > 当人工智能计划落空时，通常会把责任归咎于技能差距。但是还有更多。您的组织是否优先考虑这三个基础人工智
+ ## [.NET软件开发-SQL Server数据库](http://fellow.51cto.com/art/202012/637343.htm?qd=51ctojrzd)
+ > .NET软件开发-SQL Server数据库
+ ## [Chrome 新恶意插件曝光：利用 C&C 服务器同步功能获取用户数据](http://os.51cto.com/art/202102/645168.htm)
+ > 2月7日消息 克罗地亚安全研究员 Bojan Zdrnja 周四表示，最近他发现了一款新的 Chrome 恶意扩展程序，会滥
+ ## [比特币能源消耗激增，引发加密社区强烈争论](http://blockchain.51cto.com/art/202102/645167.htm)
+ > 2 月 7 日消息，据国外媒体报道，最近比特币 (Bitcoin，简称 BTC)价格飙升，导致比特币矿工消耗的电量显著
+ ## [终端连接数突破2亿5G商用还需闯关](http://network.51cto.com/art/202102/645166.htm)
+ > 5G推动了用户信息消费的转型升级，人们对VR/AR智能头显、可穿戴设备、物联网产品等新型终端关注度不断增加
+ ## [未来数据中心最需要的5种技能](http://network.51cto.com/art/202102/645165.htm)
+ > 现代数据中心正在不断发展以适应各种类型的新工作负载。随着业务的增长，在新的IT环境中，以规模和速度运行
+ ## [如何使用Falco检测漏洞CVE-2020-8554](http://netsecurity.51cto.com/art/202102/645164.htm)
+ > 我们一起看一看如何使用Falco来检测何时有人试图使用外部IP创建集群类型的服务事件。
+ ## [如何通过人工智能和物联网来构建现代工作场所](http://iot.51cto.com/art/202102/645163.htm)
+ > 企业领导人正在利用人工智能(AI)和物联网(IoT)来提高员工的生产力、绩效和安全性。
+ ## [微软正在测试 Windows 10 搜索中的新式天气板块](http://os.51cto.com/art/202102/645161.htm)
+ > IT之家2月7日消息 去年年初，微软突然在 Windows 搜索中尝试引入天气图块，但最终因为用户反应差异较大并删
+ ## [编写 GIMP 脚本使图像处理更快](http://os.51cto.com/art/202102/645160.htm)
+ > 通过向一批图像添加效果来学习 GIMP 的脚本语言 Script-Fu。GIMP 是一个很棒的开源图像编辑器。尽管我已经
+ ## [Firefox 火狐浏览器 85.0.1 更新发布：修复一系列崩溃问题](http://os.51cto.com/art/202102/645159.htm)
+ > IT之家2月7日消息 Firefox 火狐浏览器 85.0.1 更新于 2 月 5 日发布，本次更新主要进行了一些 Bug 修复，解
+ ## [用了很多年Dubbo，连Dubbo线程池监控都不知道，觉得自己很厉害？](http://netsecurity.51cto.com/art/202102/645157.htm)
+ > micrometer 中自带了很多其他框架的指标信息，可以很方便的通过 prometheus 进行采集和监控，常用的有 JVM
  ## [“我用 72 小时复刻了一个 ClubHouse”](https://blog.csdn.net/m0_46163918/article/details/113698682)
  > “我用 72 小时复刻了一个 ClubHouse”
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -93,46 +113,77 @@ categories: IT NEWS
  > B站首页内容运营分析
  ## [Intellij idea 报错：Error : java 不支持发行版本5](https://blog.csdn.net/qq_22076345/article/details/82392236)
  > Intellij idea 报错：Error : java 不支持发行版本5
+# 人工智能 
+ ## [技术经理成长复盘-聊聊跳槽](https://blog.csdn.net/linsongbin1/article/details/111995605)
+ > 技术经理成长复盘-聊聊跳槽
+ ## [Hybrid App实现原理](https://blog.csdn.net/u011733020/article/details/113100427)
+ > Hybrid App实现原理
+ ## [AI 浪淘沙 （week125-129）](https://blog.csdn.net/weixin_39787030/article/details/113446564)
+ > AI 浪淘沙 （week125-129）
+ ## [Nature盘点：从Fortran、arXiv到AlexNet，这些代码改变了科学界](https://blog.csdn.net/Charmve/article/details/113488454)
+ > Nature盘点：从Fortran、arXiv到AlexNet，这些代码改变了科学界
+ ## [基于游戏开发的C语言大作业视频集锦](https://blog.csdn.net/weixin_49630241/article/details/113494922)
+ > 基于游戏开发的C语言大作业视频集锦
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [Teradata推出Vantage on Azure，可实现自助配置、快速部署，提供安全、可扩展的高性能分析](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/113502592)
+ > Teradata推出Vantage on Azure，可实现自助配置、快速部署，提供安全、可扩展的高性能分析
+ ## [他的车队低调拿掉安全员，现在用10亿新融资惊艳了所有人](https://blog.csdn.net/QbitAI/article/details/113532710)
+ > 他的车队低调拿掉安全员，现在用10亿新融资惊艳了所有人
+ ## [Elasticsearch 聚合性能优化六大猛招](https://blog.csdn.net/wojiushiwo987/article/details/113533059)
+ > Elasticsearch 聚合性能优化六大猛招
+ ## [AI 告别炒作，Java 0 增长，2021 技术路在何方？](https://blog.csdn.net/csdnnews/article/details/113533226)
+ > AI 告别炒作，Java 0 增长，2021 技术路在何方？
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [今日头条 iOS 安装包大小优化 - 新阶段、新实践](https://blog.csdn.net/ByteDanceTech/article/details/113533261)
+ > 今日头条 iOS 安装包大小优化 - 新阶段、新实践
+ ## [探索JavaScript中Null和Undefined的深渊](https://blog.csdn.net/qq_36772866/article/details/113533557)
+ > 探索JavaScript中Null和Undefined的深渊
+ ## [云原生人物志|Pulsar翟佳：社区的信任最重要](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/113539301)
+ > 云原生人物志|Pulsar翟佳：社区的信任最重要
+ ## [你以为用了BigDecimal后，计算结果就一定精确了？](https://blog.csdn.net/hollis_chuang/article/details/113542495)
+ > 
 # PM 
- ## [23岁的蜜雪冰城正当年 进军五环里却难逃‘水土不服’](http://www.chanpin100.com/article/112984)
- > 下沉市场如鱼得水蜜雪冰城也对“五环里”有了自己的展望，可正像五环的堵车一样，这条进京路注定不会畅通无阻。
- ## [人手必备的产品自查表（建议收藏+打印）](http://www.chanpin100.com/article/112991)
- > 产品经理在日常工作当中，由于其岗位的职责范围广，所需要具备的能力也较多，事情也相对较“杂”。往往在有限的脑容量当中，要完美地做好每一件事，是极其有难度的。
- ## [产品使用手册丨盈鱼MA标签管理功能使用方法](http://www.chanpin100.com/article/113029)
- > 标签备注用于标注此标签是在用户满足哪种条件的情况下打的，比如在营销策略的执行中完成条件设置后，系统会根据用户产生的指定行为自动打上相应标签。
- ## [浅析：高阶产品经理的方法论](http://www.chanpin100.com/article/112987)
- > 在麦肯锡公司，解决问题是从事实入手的。在进行项目的第一天，团队的所有成员要对成堆的资料和内部研究报告进行梳理，收集到足够的事实，以便在第一次团队会议上对他们的那一部分问题进行说明。当你开始在麦肯锡工作的时候，收集和分析事实就是你存在的理由。为什么事实在麦肯锡的方法论中处于如此重要的地位？
- ## [数据增长新思维：留量思维折射出新的增长体系](http://www.chanpin100.com/article/113012)
- > 传统的流量思维需要迭代升级，向留量思维转变。而要实现从业务数据化到数据应用化，就要经历从What到Why到How的三个层次。从数据报表，到数据分析洞察，再到数据的运营。
- ## [【在线公开课】薪动72小时 职场人云庙会](http://www.chanpin100.com/article/113514)
- > 春节假期马上来临，按照往年的习俗，各地指定都会有庙会。但是今年由于疫情的关系，庙会指定是不许开展的。没有庙会的新年是不完整的，开课吧云庙会等你来玩！
- ## [企业数字化增长的3大支柱：技术、组织、运营](http://www.chanpin100.com/article/113190)
- > 越来越多传统企业开始加速数字化转型，开启线上化、数字化、智能化的进阶之路。这种转变一方面是由于疫情的催化和一大批创新型企业的快速崛起，倒逼传统企业加速自我革新；另一方面也与最近几年大数据、人工智能、机器学习等技术的快速发展息息相关。
- ## [进博会消费品“展王” 为什么是优衣库？](http://www.chanpin100.com/article/113035)
- > 相较于在四季交替中转瞬即逝的“快时尚”，优衣库的真正野望，是像苹果一样，通过不断的创新，成为整个市场最稳固的独立高地。
- ## [苹果官宣第三场秋季发布会时间 蚂蚁集团上市被叫停](http://www.chanpin100.com/article/112996)
+ ## [【产品经理免费公开课】抖音12亿“砸”春晚 值不值？](http://www.chanpin100.com/article/113517)
+ > 说起抖音，那可以说是家喻户晓，上到八十岁老人，下到三岁小孩，可以说是一款全民皆用的产品。本次公开课就来为大家解析抖音春节玩法。
+ ## [深度分享：年营收超10亿元、复购率80% 小小包麻麻背后的电商逻辑](http://www.chanpin100.com/article/113026)
+ > 有一些同学可能会好奇，为什么是 CTO 来分享运营方向的内容。今天上午做用户调查的时候，我发现虽然参会的大部分是相关技术人员，但也有一些纯市场运营的朋友。
+ ## [十三年来 三星W系列的变与不变](http://www.chanpin100.com/article/112963)
+ > 即将发布的三星W21 5G，不但是三星与中国电信整合各自资源，共同推进超高端手机市场发展的延续，更是在一部分人心中，借物抒怀的精神延续。
+ ## [iPhone12全线跌破发行价是炒作 腾讯手游7天吸金3.3亿元](http://www.chanpin100.com/article/112962)
  > 为了让各App运营官和开发者能更好地了解近期App Store动态、行业热点及游戏热点，蝉大师每周准备了ASO周报为大家盘点一周行业热点和干货知识。
- ## [10个月新增8.2万家！在线教育火热 机构如何快速入局？](http://www.chanpin100.com/article/113270)
- > 在线教育有多火？从一个数据就能看出，截至今年10月，新增在线教育企业8.2万家，新增占比在整个教育行业中达到17.3%。
- ## [神策数据助力海通证券 精耕4大场景全面强化数字化运营](http://www.chanpin100.com/article/113004)
- > 未来，神策数据将与海通证券携手，挖掘数字隐藏价值，以“数”为据，为客户创造更多价值。
- ## [【在线公开课】薪动72小时 职场人云庙会](http://www.chanpin100.com/article/113513)
- > ​​春节假期马上来临，按照往年的习俗，各地指定都会有庙会。但是今年由于疫情的关系，庙会指定是不许开展的。没有庙会的新年是不完整的，开课吧云庙会等你来玩！
- ## [月活用户从0到8万：地产行业如何打造自己的小程序私域流量池](http://www.chanpin100.com/article/113010)
- > 最近一两年私域流量池非常火爆，我今天也想和大家简单分享一下我们地产行业的实践，即如何打造自己的小程序私域流量池。
- ## [如何从场景中提取设计原则](http://www.chanpin100.com/article/113032)
- > C端产品可以用发散的方式挖掘场景，从而将需求转为亮点。而B端产品基本上是将「线下已有需求」系统化，将复杂的逻辑变为简单可用的，将真正的核心，抽离剥出，达到线上使用标准。所以需要「还原并简化业务」，而非「发散业务」，无法发散获取，只能还原场景，回归场景。
- ## [线上+线下｜用精细运营数据助力房地产找准方向提升竞争力](http://www.chanpin100.com/article/112999)
- > 在北上广深四个一线城市中，对于房产1厂商而言，其在三个城市中活跃用户占比最高，但在房产用户最多的上海，则是房产3厂商用户最为活跃。从用户APP偏好来看，使用的应用中其中TGI指数前20的APP，16款为手游，…
- ## [Stratifyd：了解数据串联五步骤 解锁数据孤岛难题](http://www.chanpin100.com/article/113000)
- > 大多数企业都拥有大量数据，包括客户资料、调研结果、呼叫中心记录、产品使用情况以及网站访问者在每个页面上平均花费的时间。不过如果你无法从中获取有价值的见解 ，这些数据将一文不值。
- ## [诸葛数据管理平台助力保险行业数字化转型](http://www.chanpin100.com/article/113003)
- > 2020年疫情之下,给各行业带来了深远影响,企业在积极应对的同时,也都在思考之后的发展方向。 细细发现,疫情带来最明显的变化，便是让我们置身“数字世界”，各行各业大力构造“数字化建设”，保险行业也不例外,数字化转型战略精准施策，科技无疑是保险业不断拓展市场,延伸保险服务范围，以及提升保险市场覆盖率的
- ## [大连银行王丰辉：最大的浪、最大的坑、最大的未来](http://www.chanpin100.com/article/113009)
- > 银行的数字化转型面临什么样的挑战？一起看大连银行网络金融部总经理王丰辉怎么讲……
- ## [表达能力不太好的产品经理 如何搞定面试？](http://www.chanpin100.com/article/113005)
- > 产品经理毕竟不是一个纯粹依赖沟通和表达能力的职业，看重的是产品思维及综合能力，知道面对问题怎么思考、如何应对。
- ## [工作灵感枯竭看这里！立马解决你的原型设计素材问题](http://www.chanpin100.com/article/113007)
- > 做后台产品的原型设计，一定会遇到需要制作大量图表的情况吧。但如果需要自己绘制图表的话，就需要耗费大量的时间。
+ ## [2021-01篇|产品细节剖析 让你看看大厂是如何做设计的](http://www.chanpin100.com/article/113491)
+ > 设计的思考不仅要注重表象层面，也需要围绕信息传达这一设计的本质功能，以充满自省的精神深化和反思自己的设计意识，即做到“好看、好用”。在设计过程中，要站在公司的利益上，懂用户所想，在每一个关键点都要带给用户意想不到的惊喜，这些往往都是通过细节体现出来的。
+ ## [2020年证券服务行业数字用户行为洞察](http://www.chanpin100.com/article/112964)
+ > 近年来，随着国家经济建设的需要，资本市场的重要性不断凸显。随着A股不断的震荡走高，国民对于股市的关注程度也不断提高，与此同时，数字化浪潮也席卷整个证券行业，各大券商也纷纷加码数字化投入。
+ ## [字母组合logo设计：3个技巧教你搞定！](http://www.chanpin100.com/article/112973)
+ > 字母组合logo是很多一线大牌Logo设计中偏爱的方式，但是作为设计新手，如何巧用字母组合的方式设计logo？尤其是你想通过简单的几个字母，诠释整个品牌时，也是个难题。字母组合logo如何设计出新意、独特性、设计感呢？今天解锁3个实用简单的小技巧，希望能帮助到大家。
+ ## [谁是双十一半场赛的最大赢家？](http://www.chanpin100.com/article/112968)
+ > 加时赛上半场已经接近尾声，一阵喧嚣过后，谁才是最大赢家呢？谁又为下半场奠定了坚实的基础呢？
+ ## [保险行业加快线上业务数字化 诸葛视屏回溯为保险业护航](http://www.chanpin100.com/article/112970)
+ > 随着人们衣食住行条件的改善，健康保障的需求排序不断提前。在互联网普及后的数字化时代，线上的迅速传播和便捷的投保流程，助力健康险的需求得以迅速释放。再加上本次疫情在世界范围内的蔓延，越来越多的人对互联网保险有了新的认知，保险行业越发繁荣。但是与之相伴相生的却是，互联网保险业因为其便捷化、广泛化、多样化
+ ## [2020年第3季度中国网络零售B2C市场洞察：交易规模达18692.4亿元](http://www.chanpin100.com/article/112969)
+ > 在双方进行深度合作以后，天猫平台下众多的新兴品牌既有了优质可靠、性价比高的原材料供应渠道，并且还能利用供应商的研发能力、大数据资源为其新品开发、市场投放等业务服务，提高自身的生存能力，同时也反向为工业品企业的…
+ ## [各行各业的数字化程度加速｜移动电商淡季不淡](http://www.chanpin100.com/article/112990)
+ > 本分析内容，对三季度移动互联网用户行为进行量化分析，帮助企业了解三季度的数字用户行为轨迹。复工复产成为三季度的主旋律，经济数据不断向好。随着各行各业的数字化程度不断加速，数字经济重要性日趋凸显。
+ ## [MobTech城市智图|洞察深圳某商场客流分析](http://www.chanpin100.com/article/112992)
+ > 商业地产“存量时代”来临，科技的力量究竟能为商场带来怎样的改变？大型商场客流大、品牌业态复杂，数字化应该从何下手？客流分析对于商场运营效率的提升的价值在哪儿？日益饱和的市场竞争下，竞品分析如何做？
+ ## [产品经理10年后买玛莎拉蒂 现在每月要存多少钱？](http://www.chanpin100.com/article/112974)
+ > 本文主要是以买车为案例，进行了基础的金融知识讲解。当然，90万元，不仅可以是买车款，还可以看作是子女的教育基金。理财方式有多种多样，每个人可以针对自己制定符合自己的理财计划。产品经理除了专注本职工作，还要提早为自己的人生做财务规划，看似一些很难达到的目标，也是可以达到的。
+ ## [如何通过“三张”用户流转地图 提升关键节点转化？](http://www.chanpin100.com/article/112982)
+ > 今天，我将基于“三张”用户流转地图展开分享，通过今天的分享，你将习得在不稳定市场格局下，如何利用用户流转地图把握机会，打造差异化壁垒，撬动用户增长。
+ ## [Stratifyd整理：Gartner关于客户体验指标管理报告](http://www.chanpin100.com/article/113049)
+ > 客户体验管理（CEM）已成为CEO和CIO们越来越关注的的热门话题。据估计，全球有5,000多个机构拥有首席客户服务官（CCO）、客户体验主管、总监或副总裁等相关职位，并且这个数字还在不断增加。
+ ## [企业如何通过自动化营销实现高效运营？](http://www.chanpin100.com/article/112976)
+ > 随着数字化时代的来临，信息的快速迭代大幅提升了用户数据的量级和处理的复杂程度，消费者行为习惯也在互联网流量的驱使下快速演变，企业难以通过人工方式推算出其愈加复杂的购物路径进行精准的营销投放。
+ ## [不只是“设计” 产品思维赋予设计新动力！](http://www.chanpin100.com/article/112977)
+ > 整个行业对设计师的要求越来越高，一个好的设计师的能力不只是单方面的，用人企业对设计师综合素质的要求也在不断的提升。这就对喜欢想往高尖端设计师发展的同学们提供了新的提升方向，不只是停留在之前单方面的“专业设计”能力的提升。
+ ## [产品入门技能（一）：原型怎么画？](http://www.chanpin100.com/article/113014)
+ > 作为刚入门的产品经理，接到的第一个任务常常是画原型图。什么是原型图？为什么要画原型？原型要画成什么样子？产品成长过程中遇到的问题，一般没有标准答案。希望可以抛砖引玉，帮助更多的同学走进产品的大家庭。
+ ## [自营型生鲜电商纷纷出击渗透下沉市场 活跃用户稳步攀升](http://www.chanpin100.com/article/112979)
+ > 本季度不仅有每日优鲜获得新一轮融资，永辉云创得到集团重视回归永辉体系，而以生鲜为切入口的社区团购业务也异常火热。
+ ## [第67天：叮当快药:“你愿意多等我一会吗”](http://www.chanpin100.com/article/112705)
+ > 近期，饿了么的“你愿意多等我5分钟”事件社会舆论持续发酵，网友对于饿了么将平台、商家、骑手、用户之间的配送问题，用“多等5分钟”的功能把这一问题甩给了用户，却不更改平台本身算法问题，引起了广泛吐槽。
 
     
