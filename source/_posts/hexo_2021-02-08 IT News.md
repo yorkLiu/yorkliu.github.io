@@ -1,20 +1,20 @@
 ---
 title: 2021-02-08 IT News
 copyright: true
-date: 2021-02-08 08:02:52
+date: 2021-02-08 09:06:43
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [迈入流程自动化时代，RPA呈燎燃之势](http://mp.weixin.qq.com/s?src=11&timestamp=1612742404&ver=2877&signature=jTPBg6hN9hMH2SEPSD7oanJMdx13XDTS67AOTMkPG64eAljvgI2fezwZo2zYVOfkWxNtq5xfgpMTOYaIepWQ2zyuIfsyMIswZZs7O0wjX7nryAuHnfUbjJVnflcIkPYC&new=1)
- > 导 读 ( 文/ e-works熊东旭 孙亚婷 )瞄准企业流程自动化，让员工从重复单调的流程性工作中解脱出来。玩游戏的朋友大多知道“按键精灵”这款软件，能通过制作脚本自动执行一系列鼠标键盘动作。这样一来玩家就摆脱...
- ## [子公司整合：运营商新时尚](http://mp.weixin.qq.com/s?src=11&timestamp=1612742404&ver=2877&signature=spgrqlxi4C5j5qvukTp2*Rvp8LO2m*ol3GOvidB*ThVLD3*XIXwuloBVjFIftB58E1Ip9a3CMYJJq2j3TKTz0IfJ6y2PeU0tYOt17pdTi7yBvCD43q6J8I*sdpBVEFKO&new=1)
- > 【摘要】分久必合，合久必分。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体2月7日，联通数字科技有限公司（以下简称“联通数科”）正式揭牌。这是联通面向5G和中国数字经济转型升级，又一次重要的业务管理架构...
- ## [微软将删除老版Edge；缅甸切断互联网；Joomla集成Bootstrap5](http://mp.weixin.qq.com/s?src=11&timestamp=1612742404&ver=2877&signature=sNCJWDHbNF37N7vdiayPuPQg*OwVLHGYFJ1wyrH6qBcF7aHjKfYoiNkHfGQgb6RRjq8klKfz-gHv-VOv9wdIMQUpC7sx0**I5Oieytdwo1hiw33xf5e*3lvtOGOFBzgS&new=1)
- > 微软将彻底删除旧版本Edge浏览器在停止对旧版（微软自研的内核，也称经典版）Edge浏览器的安全性更新一个月后，微软还将在4月份发布补丁在用户的Windows 10计算机系统中删除。早期的Edge浏览器，是微软自己研发...
- ## [3G 时代真香的定制机，运营商做不出来了?](http://mp.weixin.qq.com/s?src=11&timestamp=1612742404&ver=2877&signature=t*Qq2jd2dyX4LTC68K*aYjZt9yEZzD26DaH-e5Yqba8CMQJfN0zWGu6uhYPz5sUePsgy57y4v1ZhsM1BYSEf1S8BZuLzlWcusaskfU2cZzxe97d5VVSsSJkZq0WSFg*U&new=1)
+ ## [3G 时代真香的定制机，运营商做不出来了?](http://mp.weixin.qq.com/s?src=11&timestamp=1612746005&ver=2877&signature=t*Qq2jd2dyX4LTC68K*aYjZt9yEZzD26DaH-e5Yqba8CMQJfN0zWGu6uhYPz5sUe5v5Chf5nowAQmkt7EFmaxg5b8jxiT2dS4HGwIF186sKMvN74*zzNXehwEucAA21d&new=1)
  > 你用过运营商的手机吗？从中华酷联到华米 OV，再到如今的大集团 + 副牌并行，十多年来，手机行业经过了一轮又一轮洗牌，竞争日趋激烈，产品也越做越好。在这过程中，几大头部手机厂商自然成为了绝对的主角，它们...
- ## [\[前瞻\]与美的合作，华为靠鸿蒙OS在物联网领域迈出重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1612742404&ver=2877&signature=Ot1UdlWCLlxQYZscp2sGBap38KUKjA0rQ*Ig3qKeydSsnN5dUSn1K6AQEN87FTgcEz5HDCBpcyxkG7JQW7otUubiwoJ5jGxWU1OglcqDhkNoaftYHkxyfCz340WPksnp&new=1)
+ ## [迈入流程自动化时代，RPA呈燎燃之势](http://mp.weixin.qq.com/s?src=11&timestamp=1612746005&ver=2877&signature=jTPBg6hN9hMH2SEPSD7oanJMdx13XDTS67AOTMkPG64eAljvgI2fezwZo2zYVOfkmSwcQi-A0w7ejQpLVDlRuGwOXuj*jCt7UwcqOUhf2epA43OOs*WpZsM4HVGRUxIv&new=1)
+ > 导 读 ( 文/ e-works熊东旭 孙亚婷 )瞄准企业流程自动化，让员工从重复单调的流程性工作中解脱出来。玩游戏的朋友大多知道“按键精灵”这款软件，能通过制作脚本自动执行一系列鼠标键盘动作。这样一来玩家就摆脱...
+ ## [微软将删除老版Edge；缅甸切断互联网；Joomla集成Bootstrap5](http://mp.weixin.qq.com/s?src=11&timestamp=1612746005&ver=2877&signature=sNCJWDHbNF37N7vdiayPuPQg*OwVLHGYFJ1wyrH6qBcF7aHjKfYoiNkHfGQgb6RRccSZRRk6aT7TlQ08YBqPnXlrJIWh4bH2tw4PmFwZq7tF7sox6UH5i4HXR5IKKiMF&new=1)
+ > 微软将彻底删除旧版本Edge浏览器在停止对旧版（微软自研的内核，也称经典版）Edge浏览器的安全性更新一个月后，微软还将在4月份发布补丁在用户的Windows 10计算机系统中删除。早期的Edge浏览器，是微软自己研发...
+ ## [子公司整合：运营商新时尚](http://mp.weixin.qq.com/s?src=11&timestamp=1612746005&ver=2877&signature=spgrqlxi4C5j5qvukTp2*Rvp8LO2m*ol3GOvidB*ThVLD3*XIXwuloBVjFIftB589SebDrrxDV22kjUe0zAgVyBTN7oMi*V8Gyn2Dl-ahK5vnzSkUDoB9xv5Ut2rf3F5&new=1)
+ > 【摘要】分久必合，合久必分。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体2月7日，联通数字科技有限公司（以下简称“联通数科”）正式揭牌。这是联通面向5G和中国数字经济转型升级，又一次重要的业务管理架构...
+ ## [\[前瞻\]与美的合作，华为靠鸿蒙OS在物联网领域迈出重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1612746005&ver=2877&signature=Ot1UdlWCLlxQYZscp2sGBap38KUKjA0rQ*Ig3qKeydSsnN5dUSn1K6AQEN87FTgcYDHEHYrBXaAhyTuqfR16CQr67L*TIAWXVZoeaNiTl4NpTCgPhacKmTggTn*V-lfL&new=1)
  > 据人民日报2月5日消息，美的集团与华为的合作，将在智能家居领域有大动作——2021年年内，实现合作规模化，从运营和营销角度展开更多合作。 具体而言，就是在物联网领域美的所擅长、聚焦的部分，也就是智能家居...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -31,8 +31,40 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Openstack从基础到放弃视频课程](http://fellow.51cto.com/art/202012/636705.htm?qd=51ctojrzd)
- > Openstack从基础到放弃视频课程
+ ## [EasyUI+S2SH+MySQL 在线商城系统_下 \[精讲大项目\]](http://fellow.51cto.com/art/202101/638876.htm?qd=51ctojrzd)
+ > EasyUI+S2SH+MySQL 在线商城系统_下 \[精讲大项目\]
+ ## [Zint：用这个开源工具生成二维码](http://os.51cto.com/art/202102/645243.htm)
+ > Zint 支持 50 多种类型的条形码，包括二维码（ISO 18004），你可以轻松地创建这些条形码，然后复制和粘贴到
+ ## [为什么“自学”总是那么难？](https://blog.csdn.net/m0_46163918/article/details/113726365)
+ > 为什么“自学”总是那么难？
+ ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
+ > 
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ > 
+ ## [Python详细知识体系总结(2021版)](https://blog.csdn.net/weixin_47654912/article/details/111362057)
+ > 
+ ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
+ > 
+ ## [从tcpdump看cBPF/eBPF程序设计](https://blog.csdn.net/dog250/article/details/107367725)
+ > 
+ ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
+ > 
+ ## [漫谈TCP-AIMD/BBR的公平性以及buffer bloat](https://blog.csdn.net/dog250/article/details/113275864)
+ > 漫谈TCP-AIMD/BBR的公平性以及buffer bloat
+ ## [AI 浪淘沙 （week125-129）](https://blog.csdn.net/weixin_39787030/article/details/113446564)
+ > AI 浪淘沙 （week125-129）
+ ## [像玩乐高一样玩simpletun](https://blog.csdn.net/dog250/article/details/113026576)
+ > 像玩乐高一样玩simpletun
+ ## [带你学习swoole_process详解](https://blog.csdn.net/liuxingjiaoyuC/article/details/110957239)
+ > 带你学习swoole_process详解
+ ## [2020年Unity3D应届生面试题](https://blog.csdn.net/linxinfa/article/details/106822744)
+ > 
+ ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
+ > 
+ ## [睿智的目标检测29——Keras搭建YoloV4目标检测平台](https://blog.csdn.net/weixin_44791964/article/details/106014717)
+ > 
+ ## [基于Unity~UGUI的简单UI框架（附UIFramework源码）](https://blog.csdn.net/qq_34937637/article/details/80374387)
+ > 基于Unity~UGUI的简单UI框架（附UIFramework源码）
 # 人工智能 
  ## [技术经理成长复盘-聊聊跳槽](https://blog.csdn.net/linsongbin1/article/details/111995605)
  > 技术经理成长复盘-聊聊跳槽
