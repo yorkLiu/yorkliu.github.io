@@ -1,24 +1,32 @@
 ---
 title: 2021-02-08 IT News
 copyright: true
-date: 2021-02-08 10:05:52
+date: 2021-02-08 12:05:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [3G 时代真香的定制机，运营商做不出来了?](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=t*Qq2jd2dyX4LTC68K*aYjZt9yEZzD26DaH-e5Yqba8CMQJfN0zWGu6uhYPz5sUeJgtz1vOIbpnXie1aW8I-hFm-uAZQs6v-XhSrZeF7CR3uh14wb6USVJT6PG5Zv9R-&new=1)
- > 你用过运营商的手机吗？从中华酷联到华米 OV，再到如今的大集团 + 副牌并行，十多年来，手机行业经过了一轮又一轮洗牌，竞争日趋激烈，产品也越做越好。在这过程中，几大头部手机厂商自然成为了绝对的主角，它们...
- ## [\[前瞻\]与美的合作，华为靠鸿蒙OS在物联网领域迈出重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=Ot1UdlWCLlxQYZscp2sGBap38KUKjA0rQ*Ig3qKeydSsnN5dUSn1K6AQEN87FTgcJ4DYx9dQavUYhb5m6vzecQljwjukyyL3SkZz5voZDiHaPuijh0kBW7Jt4JMeseJa&new=1)
- > 据人民日报2月5日消息，美的集团与华为的合作，将在智能家居领域有大动作——2021年年内，实现合作规模化，从运营和营销角度展开更多合作。 具体而言，就是在物联网领域美的所擅长、聚焦的部分，也就是智能家居...
- ## [收购|鸿辉光通将斥资1500万美元收购上海光联100%股权](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=m-HCA5z0bN1vq60iEIA2nFzdyN5eu7-ah0tzSbwKshKpE-aWkmbbZFuL02jyBWvZWb5M0qMoBCTObyKc8dV-CPcRM-YsKZuh9N*kjQyWODUSsfTvP6PKjrMVC804U3ZI&new=1)
- > 新 闻 导 读鸿辉光通拟以支付现金方式收购美国光联通讯技术有限责任公司（Oplink）持有上海光联通讯技术有限公司100%股权，初始转让对价为1,500万美元。此次收购资产将优化鸿辉光通的战略布局，提升企业综合竞争...
- ## [微软将删除老版Edge；缅甸切断互联网；Joomla集成Bootstrap5](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=sNCJWDHbNF37N7vdiayPuPQg*OwVLHGYFJ1wyrH6qBcF7aHjKfYoiNkHfGQgb6RRFG12Ez4CMx1wZDA9gB3AKAF2rC2Yli9wqDXoCI-6O3JhKnZKYGeROtz-c0MIL0ks&new=1)
- > 微软将彻底删除旧版本Edge浏览器在停止对旧版（微软自研的内核，也称经典版）Edge浏览器的安全性更新一个月后，微软还将在4月份发布补丁在用户的Windows 10计算机系统中删除。早期的Edge浏览器，是微软自己研发...
- ## [7点见|华为给员工分红每股1.86元；陌陌年会每人发一部顶配iPhone 12](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=XQai-0Ya9Vhg02-oqr7YEpzY7aJNbvqbVPtZwdRT6CQNdUiZgYiRh3WNkErNMumT2-chaaDWzRkyy1izPIa*-hvvIV8iPT1xN3t4cBD43bX-4qRQSWJwSoJn-Tc3*0sr&new=1)
+ ## [7点见|华为给员工分红每股1.86元；陌陌年会每人发一部顶配iPhone 12](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=XQai-0Ya9Vhg02-oqr7YEpzY7aJNbvqbVPtZwdRT6CTDOh5*Ydjsdyf4H5xqkdT9Me2loHR57JgYCH*PSsbjt*SM2j7rOERUWPbNSzGKIBK81bhjqvr1irTDC3S1uMIz&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！华为股票又分红了，今年每股可分1.86元华为轮值董事长胡厚崑在公司内部宣布：华为2020年持续实施股票分红，预计每股1.86元。一位华为中层持股员工对界面新闻表示：“公...
- ## [迈入流程自动化时代，RPA呈燎燃之势](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=jTPBg6hN9hMH2SEPSD7oanJMdx13XDTS67AOTMkPG64eAljvgI2fezwZo2zYVOfkUJJsFVdMOemJqVuMC-k5KsKQdRW5Vzi6vl0dDZK-2UTn4YoEAgzGv2jt1DTtLzVL&new=1)
+ ## [做可信赖的数字化转型使能者：联通数字科技有限公司在京成立](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=lUpctCK89F9aA7nMR1eQeLVtddn70aobOXJIboB7d6Y1Ytc57JqO3s9kv4H*xRmp27L3nTkrJaMVBElBSKAn3uUm3VqCtMmFC-Vv-IerGNRjbUf-VKjG2q5BAS2KNlOs&new=1)
+ > 2月7日，联通数字科技有限公司（以下简称“联通数科”）揭牌仪式在京举行。中国联通董事长王晓初、总经理陈忠岳、党组副书记李福申、副总经理买彦州、副总经理梁宝俊、总会计师朱可炳、副总经理范云军、纪检监察...
+ ## [平均 15144 元、软件工程师占比最高，2021 年 2 月程序员工资最新出炉!](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=9Lp9yIbqDJVHLL38twwNgP-VHfyc8RzogIUx2b91o*60C6zyjywwyYOqI4ZcFXjW3M*viqdgjAqPShb6tmvoX2GCyxI9CM8SYOCZCwhQl5aeovo4ZBsSI7kHRXlKJ8b-&new=1)
+ > 作者 | 周哲出品 | 程序人生 （ID：coder _life）新年将至，你拿到年终奖了吗？值此之际，我们也面向程序员群体，进行了新一个月的薪资数据统计。2021年2月采集样本370020人。2021年2月程序员平均工资15144元，...
+ ## [“面向对象就是一个错误!”](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=D1zYiALZibVWpuHNVVMFXTmay8SyCJAYxnnB3hGsgGDkgTiMU35oVlsAsgBfW*zf5MVvese4*rtnUSj3nWJTgQ21khVhseKjR*MKwgxYpPofmolnXUPoS1HCQ7iZhXL5&new=1)
+ > 【CSDN 编者按】面向对象编程的流行是计算机科学领域的不幸，它对现代经济造成了极大的破坏，造成了数万亿美元的间接损失。在过去的三十年中，几乎所有行业都因潜在的面向对象编程危机而受到影响。作者 | Ilya S...
+ ## [网友的2021年3D打印预测，谁会对呢?](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=lLTGyC-HXhKuFe4iYYWIYzJ423zmi7eIve5kEpYZLFc5ycyfswahrLyV8Va9OrYqHM7IqddPXYuIvuw3gJFKIxG7tDjB76ntL2b3*ZEhO1LMwAS52-ZeONwICqvXe0Fs&new=1)
+ > 2021年1月27日，南极熊发表了一篇《2021年3D打印十大猜想》https://www.nanjixiong.com/thread-144560-1-1.html，引起熊友读者的强烈关注。一批读者在微信公众号后纷纷留言，说出自己的猜想，
+ ## [收购|鸿辉光通将斥资1500万美元收购上海光联100%股权](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=m-HCA5z0bN1vq60iEIA2nFzdyN5eu7-ah0tzSbwKshIR7H9nfnu5zVEZS47PJLHsIeern*awqZ0YCadXtmJIMBg5QUivAJwraSSWYjriMOtv2AfO9Mt-FpDycXmAj2j4&new=1)
+ > 新 闻 导 读鸿辉光通拟以支付现金方式收购美国光联通讯技术有限责任公司（Oplink）持有上海光联通讯技术有限公司100%股权，初始转让对价为1,500万美元。此次收购资产将优化鸿辉光通的战略布局，提升企业综合竞争...
+ ## [微软将删除老版Edge；缅甸切断互联网；Joomla集成Bootstrap5](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=sNCJWDHbNF37N7vdiayPuPQg*OwVLHGYFJ1wyrH6qBcRujmpvngBIAaJUti32urhzkkQdvZivIqbykT8SVk4v1CCZjgbbZyoU0ltNNj3VChhfbDVeNAVv0Z-AYSkRYXD&new=1)
+ > 微软将彻底删除旧版本Edge浏览器在停止对旧版（微软自研的内核，也称经典版）Edge浏览器的安全性更新一个月后，微软还将在4月份发布补丁在用户的Windows 10计算机系统中删除。早期的Edge浏览器，是微软自己研发...
+ ## [\[前瞻\]与美的合作，华为靠鸿蒙OS在物联网领域迈出重要一步](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=Ot1UdlWCLlxQYZscp2sGBap38KUKjA0rQ*Ig3qKeydQBS8C197aqhswP3gMdybr0tiugcqzILE14auXkxEhbjhWpF6ZW-ShzT6WpfQqiK7GjbMA6TOqvIGAVf6kD1qlC&new=1)
+ > 据人民日报2月5日消息，美的集团与华为的合作，将在智能家居领域有大动作——2021年年内，实现合作规模化，从运营和营销角度展开更多合作。 具体而言，就是在物联网领域美的所擅长、聚焦的部分，也就是智能家居...
+ ## [3G 时代真香的定制机，运营商做不出来了?](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=t*Qq2jd2dyX4LTC68K*aYjZt9yEZzD26DaH-e5Yqba-Dlxpi7Y3BJc27NswCPR*8wbho7lTFAu9tU1UgW2laDPBpCslxPHUgn7NAygYF8pC8v5BKFbOCK8bWcRyZuV3w&new=1)
+ > 你用过运营商的手机吗？从中华酷联到华米 OV，再到如今的大集团 + 副牌并行，十多年来，手机行业经过了一轮又一轮洗牌，竞争日趋激烈，产品也越做越好。在这过程中，几大头部手机厂商自然成为了绝对的主角，它们...
+ ## [迈入流程自动化时代，RPA呈燎燃之势](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=jTPBg6hN9hMH2SEPSD7oanJMdx13XDTS67AOTMkPG67MWn6wiXApTC7*QzU9Q6pVFj3kqDO-m4w-jW1lQ6Tuw9kz-R355tppX9O*Eu5V6yGPhuxzGsvf1Zp3b1oLO7G0&new=1)
  > 导 读 ( 文/ e-works熊东旭 孙亚婷 )瞄准企业流程自动化，让员工从重复单调的流程性工作中解脱出来。玩游戏的朋友大多知道“按键精灵”这款软件，能通过制作脚本自动执行一系列鼠标键盘动作。这样一来玩家就摆脱...
- ## [子公司整合：运营商新时尚](http://mp.weixin.qq.com/s?src=11&timestamp=1612749605&ver=2877&signature=spgrqlxi4C5j5qvukTp2*Rvp8LO2m*ol3GOvidB*ThVLD3*XIXwuloBVjFIftB58XKRkWyYnc4lWFHabgr043b42-Dv77u6HaA63ee81kqLFAg4CvaBZDNikBeX4Fvbh&new=1)
+ ## [子公司整合：运营商新时尚](http://mp.weixin.qq.com/s?src=11&timestamp=1612756805&ver=2877&signature=spgrqlxi4C5j5qvukTp2*Rvp8LO2m*ol3GOvidB*ThUYsGQSwtHkMmnnqw*FRTcG4bi*mUW9uebthbT50pwkcMNj-xqtk9Oa*8n9wNrQMPf3tIomfD5NrFKM*wle9E2E&new=1)
  > 【摘要】分久必合，合久必分。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体2月7日，联通数字科技有限公司（以下简称“联通数科”）正式揭牌。这是联通面向5G和中国数字经济转型升级，又一次重要的业务管理架构...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -35,14 +43,54 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训](http://fellow.51cto.com/art/202012/636254.htm?qd=51ctojrzd)
- > Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训
+ ## [Java的“泛型”特性，你以为自己会了？](http://developer.51cto.com/art/202102/645254.htm)
+ > 使用Java的小伙伴，对于Java的一些高级特性一定再熟悉不过了，例如集合、反射、泛型、注解等等，这些可以说
+ ## [SQL Server的嵌套存储过程中使用同名的临时表怪像浅析](http://stor.51cto.com/art/202102/645253.htm)
+ > SQL Server的嵌套存储过程，外层存储过程和内层存储过程(被嵌套调用的存储过程)中可以存在相同名称的本地
+ ## [Python项目实战――手把手教你使用Django框架实现支付宝付款](http://developer.51cto.com/art/202102/645244.htm)
+ > 春节即将来临，大家肯定各种掏腰包花花花，小编相信大家在支付时候，微信、支付宝支付肯定是优先选择。今天
+ ## [Java基础入门之Object类、匿名内部类、构造方法的继承解析](http://developer.51cto.com/art/202102/645242.htm)
+ > 大家好，我是Java进阶者。这篇文章我们主要介绍Java基础中的Object类、匿名内部类、构造方法的继承知识，一
  ## [Zint：用这个开源工具生成二维码](http://os.51cto.com/art/202102/645243.htm)
  > Zint 支持 50 多种类型的条形码，包括二维码（ISO 18004），你可以轻松地创建这些条形码，然后复制和粘贴到
+ ## [为什么 OLAP需要列式存储](http://stor.51cto.com/art/202102/645241.htm)
+ > 为什么这么设计(Why’s THE Design)是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇
+ ## [谈到云原生, 绕不开"容器化"](http://cloud.51cto.com/art/202102/645240.htm)
+ > 云原生基金会将微服务容器化作为云原生旅行的第一步。很容易就想到将微服务容器化， 过程也很简单。
  ## [再记一次 应用服务器 CPU 暴高事故分析](http://biz.51cto.com/art/202102/645239.htm)
  > 大概有2个月没写博客了，不是不想写哈??，关注公号的朋友应该知道我这两个月一直都在翻译文章，前前后后大
  ## [JavaScript中的类有什么问题?](http://developer.51cto.com/art/202102/645238.htm)
  > 并不是说 JS 的类有问题，但是如果你使用该语言已有一段时间，特别是使用过ES5，那么你可能就知道了从原型
+ ## [为什么“自学”总是那么难？](https://blog.csdn.net/m0_46163918/article/details/113726365)
+ > 为什么“自学”总是那么难？
+ ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
+ > 
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ > 
+ ## [Python详细知识体系总结(2021版)](https://blog.csdn.net/weixin_47654912/article/details/111362057)
+ > 
+ ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
+ > 
+ ## [从tcpdump看cBPF/eBPF程序设计](https://blog.csdn.net/dog250/article/details/107367725)
+ > 
+ ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
+ > 
+ ## [漫谈TCP-AIMD/BBR的公平性以及buffer bloat](https://blog.csdn.net/dog250/article/details/113275864)
+ > 漫谈TCP-AIMD/BBR的公平性以及buffer bloat
+ ## [AI 浪淘沙 （week125-129）](https://blog.csdn.net/weixin_39787030/article/details/113446564)
+ > AI 浪淘沙 （week125-129）
+ ## [像玩乐高一样玩simpletun](https://blog.csdn.net/dog250/article/details/113026576)
+ > 像玩乐高一样玩simpletun
+ ## [PHP实现简单注册登录 详细全部代码](https://blog.csdn.net/weixin_45561522/article/details/111144973)
+ > PHP实现简单注册登录 详细全部代码
+ ## [往通俗点地说C/C++的不同之处（面对新手向）(1)](https://blog.csdn.net/weixin_45677047/article/details/105013579)
+ > 
+ ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
+ > 
+ ## [c++小游戏 走迷宫](https://blog.csdn.net/S_JH330206/article/details/107918929)
+ > c++小游戏 走迷宫
+ ## [Java基础面试题50题](https://blog.csdn.net/meetbetterhc/article/details/96568451)
+ > Java基础面试题50题
 # 人工智能 
  ## [Hybrid App实现原理](https://blog.csdn.net/u011733020/article/details/113100427)
  > Hybrid App实现原理
@@ -75,6 +123,32 @@ categories: IT NEWS
  ## [2021美赛A题（真菌对木制分解效率的影响）——赛题解读&解题思路](https://blog.csdn.net/qq_35759272/article/details/113676264)
  > 2021美赛A题（真菌对木制分解效率的影响）——赛题解读&amp;解题思路
 # PM 
+ ## [给你机会！成为「设计」工具前1000名用户](http://www.chanpin100.com/article/112924)
+ > 不瞒你说，现在我是挺忐忑的，做了很久的心理建设才鼓起勇气想邀请看到此文的你，成为我的第一批用户，亦是我的见证者。墨刀「设计」工具内测招募，等你来见证～
+ ## [作品集设计有多麻烦？避免这些offer不愁（下）](http://www.chanpin100.com/article/112900)
+ > 最近正是换工作的好时节，希望正在准备的刀友们可以根据这份宝典好好地修正自己的作品集，拿到理想的 offer 哦～
+ ## [易观分析荣获“蝉鸣奖——2020年度最佳企业服务商”](http://www.chanpin100.com/article/113253)
+ > 12月18日，蝉大师联合蝉妈妈在广州举办了“增量2021GMCA全球移动行业营销增长峰会暨第二届蝉鸣奖颁奖盛典”，并在峰会现场隆重公布“蝉鸣奖”获奖名单，以此向优秀的达人、产品和企业致敬，鼓励更多互联网企业创新发展。易观分析通过层层遴选，从上百家企业中脱颖而出，荣获“2020年度最佳企业服务商”。
+ ## [在微博挖掘人性中的“利他主义”](http://www.chanpin100.com/article/112764)
+ > 互联网社交媒体的一个先天禀赋，就是能让每个人对其他陌生人的真实生活感同身受，为之动容，并付诸行动。
+ ## [跃过“虚假繁荣”的三足鼎立 流量模式才是二手平台“精准深耕”的必杀技](http://www.chanpin100.com/article/112857)
+ > 互联网最怕中庸，在“花盆效应”之下，如何寻找流量与KPI之间的平衡，摆脱流量采买模式，是急需要解决的问题。
+ ## [“100个最伟大的现代设计”里为什么会有一件羽绒服？](http://www.chanpin100.com/article/112879)
+ > 今天这篇文章，我只选取其中一样，也是唯一一个入选“100个最伟大的现代设计”的服装：优衣库Ultra Light Down 高级轻羽绒——没错，就是那件再过几天，当初冬来临，你就会很自然地把它从衣柜里翻出来的轻羽绒。
+ ## [微信视频号的「破圈-变现」之路|及未来更新预测](http://www.chanpin100.com/article/112839)
+ > 微信视频号于2020年1月22号上线，第一个大的改版在6月份在上线将近半年的时间，而从最近的更新速度上看，明显快了很多，张小龙前段时间也透露视频号的日活用户已经突破2亿，视频号一路狂奔，背靠微信10亿日活的大树，不断缩小和抖音快手的差距。
+ ## [2020最新出炉 秋招产品岗50道高频问题及答题思路（上篇）](http://www.chanpin100.com/article/112942)
+ > 相信很多同学遇到过类似经历，尽管做了很多面试前的准备，依然在一些关键问题上卡壳，根据大量辅导过的同学反馈与总结，主要还是在思维拓展性上存在不足。可能有些产品新人会问：面试需要技巧吗？当然，不但需要，而且有条件的话更要针对性的进行训练。本文将着重对产品小白在面试时最常遇到的问题做一个整理总结，并提供一
+ ## [2020年中国游戏直播市场发展分析](http://www.chanpin100.com/article/112958)
+ > 伴随着国家大力提倡数字经济发展，电子竞技及衍生的游戏直播成为了当下数字用户聚集发展的主流阵地，2019年，我国电子竞技市场规模达到1236.5亿人民币，用户规模近5亿人。高速发展的电竞市场为游戏直播提供…
+ ## [点击按钮 要立即响应吗？](http://www.chanpin100.com/article/112986)
+ > 人们往往把任性也叫做自由，但是任性只是非理性的自由，人性的选择和自决都不是出于意志的理性，而是出于偶然的动机以及这种动机对感性外在世界的依赖。——黑格尔
+ ## [从码农到产品经理（3）——老板的吹毛求疵](http://www.chanpin100.com/article/112908)
+ > 简述自己从码农转型成为产品经理的实际工作经历，通过不断地总结，提升自己的产品能力，也许对你也有帮助噢！
+ ## [传统保险业数字化转型路上 如何做到“流量”变“留量”](http://www.chanpin100.com/article/112910)
+ > 以行业中有代表性和领先性的互联网保险企业为例，易观分析认为，线上用户引流模式以将线下和线上渠道打通，和保险科技化赋能为主要模式。需要通过构建数仓来完成线下数据的线上化治理，如平安、国寿、太平洋、众安等保险公司…
+ ## [2020年8月易观千帆移动AppTOP1000榜单](http://www.chanpin100.com/article/112721)
+ > 8月，暑期到来，国民上半年被抑制的旅游出行需求强势复苏，在线旅游领域活跃用户增长显著，同时在出行场景增多的大背景下，休闲娱乐、电影票务、餐饮等相关消费增加，促使包括到店、酒店、门票及旅游在内的本地生活业务迎来…
  ## [2020年中国跨境支付行业年度数字化专题分析|稳外贸利好政策助力市场恢复](http://www.chanpin100.com/article/112666)
  > 易观分析认为，全球新冠疫情使部分行业受到影响，但同时推动线下需求向线上转移，中国作为全球电商货源的主要生产地，跨境电商及跨境支付交易规模保持强劲增长态势，同时新兴行业跨境支付需求凸显。监管部门促进我国跨境支付…
  ## [京东APP退款流程 用这个方法降低公司成本](http://www.chanpin100.com/article/112866)
@@ -89,31 +163,5 @@ categories: IT NEWS
  > 今天给大家带来的是一个非常常见的案例，但是作者想把这个常见案例的来龙去脉全都解读出来，看看和大家想到的是不是完全一样。
  ## [微信又解决了一个使用痛点](http://www.chanpin100.com/article/112612)
  > 我们在使用微信语音的时候，特别害怕的一种情况是，别人突然给你发了很多条60秒的语音，因为。语音是无法调节进度的，所以当我们遗失了其中某一个点状的信息时，可能就需要把这60秒的语音全部再听一遍，才能找到自己想要的信息，这种方式对效率来说是非常低下的。
- ## [百度网盘和用户【说好不分离】](http://www.chanpin100.com/article/112694)
- > 大家好我是杜昭，今天是日更100天挑战的第65天，给大家带来的是百度网盘中的一个案例。场景如下：在百度网盘中，如果用户开通的VIP会员，当会员快要到期的时候会有一个提示。
- ## [合规进行时：APP&SDK合规知识秒懂（第一弹）](http://www.chanpin100.com/article/112606)
- > 如何做好用户个人信息保护，高效推进落实相关政策法规，相信这是广大 APP 开发者与第三方 SDK 近期颇为关注的热点。在法律法规中，APP 和 SDK 应各自扮演怎样的角色？在实际操作中，APP 和 SDK 又该如何做到合规？
- ## [2020年7月企业数字用户规模TOP100排行榜|休闲娱乐应用活力及国民投资热情高涨](http://www.chanpin100.com/article/112582)
- > 疫情加速各领域数字化、线上化进程，人们工作、娱乐、生活都向移动端转移，也带动了手机云笔记等产品的使用和活跃，欢太科技旗下的NearMe云笔记通过预装在品牌手机中直接触达用户，因此，随着OPPO用户增长也带动其…
- ## [第72天：网易云音乐一起听歌吗？](http://www.chanpin100.com/article/112727)
- > 大家好我是杜昭，今天是日更100天挑战的第72天，今天的内容由甜甜圈同学投稿，给大家带来的是网易云音乐”一起听歌“的案例：
- ## [第71天：淘宝订单的【修改地址】功能](http://www.chanpin100.com/article/112720)
- > 大家好我是杜昭，今天是日更100天挑战的第71天，今天的内容由甜甜圈同学投稿，给大家带来的是淘宝订单页面待发货状态的【修改地址】案例。
- ## [第70天：「豆瓣」超预期的影片搜索结果](http://www.chanpin100.com/article/112712)
- > 大家好我是杜昭，今天是日更100天挑战的第70天，给大家带来的是豆瓣产品在搜索系列电影时，结果页出现的“片单”形式的影片集合条目。
- ## [第63天：京东快速清理购物车功能](http://www.chanpin100.com/article/112667)
- > 作者平时比较喜欢逛京东，今天整理购物车惊喜发现了“快速清理”购物车的功能，简直对我体验太友好了；京东APP购物车tab，点击右上角的编辑后，在结算栏会显示出“快速清理”的按钮。
- ## [第61天：贴合用户使用场景的优秀设计](http://www.chanpin100.com/article/112660)
- > 进入知乎推荐内容详情页时，手机上滑查看更多内容，顶部导航栏会显示出作者的头像和关注按钮。当手指下滑回看上面内容时，顶部导航栏显示文章标题及文章全部的回答。
- ## [第47天：Youtobe只看5秒广告就可以跳过？不想赚广告费了吗？](http://www.chanpin100.com/article/112561)
- > 最近作者的优酷会员到期了，所以每次在看视频的时候都不得不忍受120秒的广告。特别让人崩溃。然后作者就突然想起了，之前在用Youtube的时候，它的片头广告只需要观看五秒就可以跳过。今天给大家带来的就是国内的长视频120秒广告和Youtube里面五秒的广告，两种方案的思考。
- ## [第42天：为啥我刚发出去1秒的微信消息不能撤回？](http://www.chanpin100.com/article/112498)
- > 作者在每天写更新的时候呢，有的时候会借助语音转文字这种功能来加快打字的速度，有的时候会用有道云笔记里面的这个功能，还有的时候会直接用微信的语音转文字功能，把对着文件传输助手里面发语音，然后上划转文字发送。
- ## [互联网“打工人”不得不了解的盈利模式](http://www.chanpin100.com/article/112955)
- > 各位童鞋带嘎猴啊，没有想到吧，我这次比预期来的要早，今天和各位聊聊咱们作为互联网“打工人”（我也不知该不该加引号，避免歧义还是加上吧。）有必要知晓的一些盈利模式，我在此前的文章提起过......
- ## [没有经理权利的产品经理如何做好“经理”的事儿？](http://www.chanpin100.com/article/112959)
- > 产品经理苦“经理”久已，想必每一个产品经理在工作中都或多或少的遇到的被怼的情景，其缘由大多也都是怼我们的人认为我们产品经理没有经理的权利，却总是行使“经理”的权利提各种各样的需求，那做为一个没有经理权利的产品经理如何做好“经理”的工作呢？
- ## [扇贝技术总监丁彦：扇贝在数据治理方面的实践](http://www.chanpin100.com/article/112971)
- > 2020 年 10 月 13 日，在以“数字化 正当潮”为主题的「神策 2020 数据驱动用户大会」现场，扇贝技术总监丁彦发表了《扇贝在数据治理方面的实践》的主题演讲。
 
     
