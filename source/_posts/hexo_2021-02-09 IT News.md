@@ -1,24 +1,28 @@
 ---
 title: 2021-02-09 IT News
 copyright: true
-date: 2021-02-09 10:45:19
+date: 2021-02-09 12:30:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [马斯克 15 亿美元投资比特币；腾讯回应 6 万元股票年终奖：不是每人都有；市场监管总局等五部门约谈特斯拉|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=68qcsrXeBscDeZ8pKgHwqLbkL8SHqvzEl4tDs7oyAzaVVMbiWbaGvqgMHyshy3lGDgmemGzXt-Y8fzUDAZF7JMFtDF-*Stzs0g5Id8FwCEpKQd2UrUDdbUWKmsf4r-ca&new=1)
+ ## [马斯克 15 亿美元投资比特币；腾讯回应 6 万元股票年终奖：不是每人都有；市场监管总局等五部门约谈特斯拉|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=68qcsrXeBscDeZ8pKgHwqLbkL8SHqvzEl4tDs7oyAzZclr-e5g6XKoe7ScVFxShjAbF1H0lyEp7KZDtmoKOnz34fOX7ugpNN-3X7Sx4XbYUAX70tyyqzbrX4SHIdn5sn&new=1)
  > 特斯拉对比特币投资 15 亿美元2 月 8 日晚间消息，特斯拉在提交给美国证券交易委员会（SEC）的一份文件中称，该公司已经购买了价值 15 亿美元的比特币。特斯拉在文件中称：购买比特币是为了「更具灵活性，以进一...
- ## [董事长专访|四方光电熊友辉：走出民用传感器国产替代之路](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=MIfqigJ0YALe7f-yBGHa9QM2dAQMk0aAEtgKl0q57GTxZ5zmUbZ3jf0AwExP2qESY-EQacJ4bCJ1cnDdGDWj3pjcGtAAYAukxC1p65UbhqU=&new=1)
- > 从工科博士到上市公司董事长，四方光电董事长熊友辉用20多年时间实现了自主突破进口核心部件的实业报国理想，并走出一条将传感器带入民用应用场景的国产替代之路。　　从最初的4人到目前的500多人，四方光电...
- ## [云岩区与中国移动贵阳分公司 签署协议推进5G建设](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=L1eUlGsGzLstJsFbc0hkKQMMLKRdhWd3zraiH01TsVx38lZY*Zp*iPz1wUknMx1vpjKr1uGS5Jnblw2gvRX*KfERj3lzcJ*plbZBwQSsABM=&new=1)
+ ## [Microsoft：Office 365并非SolarWinds的初始攻击媒介](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=LyxywTfhSm0upX04P5ZN6jyWsHKqfW5g-5ieNBFBUt69d1XrAMb-vqurwUOvDcOmM2Eb8wzQQLs2SZsQclhJz*V6MpkouN7w3C-5K5eGYMlvcprxEFgAgM40xye-ehly&new=1)
+ > E安全2月9日讯   近日，微软的安全团队说，该公司的Office 365产品套件并非充当发起SolarWinds供应链攻击的黑客的最初切入点。SolarWinds的首席执行官在博客中表示，该公司“尚未在Office 365中识别出可能允许
+ ## [云岩区与中国移动贵阳分公司 签署协议推进5G建设](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=L1eUlGsGzLstJsFbc0hkKQMMLKRdhWd3zraiH01TsVz4nXeZ1a2aoC86zzwrNAIPanfHuNeO7Or9r*Bw8WJzuiVf4SkmHK3*0Ln8BpbUw7Q=&new=1)
  > 本报讯 2月7日，云岩区人民政府与中国移动通信集团贵州有限公司贵阳分公司（简称“中国移动贵阳分公司”）举行签约仪式，双方就5G新型基础设施建设展开战略合作。　　按照协议，双方以实现优势互补、资源共...
- ## [运营商已签署上千个应用合同 5G TO B规模商用元年来了](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=MIfqigJ0YALe7f-yBGHa9QM2dAQMk0aAEtgKl0q57GQiSbXhgzc8gH8YeOk0rFeO*gAeCkxeNN*XpOctH9*Toh9SspmolUXZKejpr2qFbDE=&new=1)
+ ## [粘结剂喷射金属3D打印今年有望爆发，相关股票涨得很夸张](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=ADRKZmuQJwol16SDT9-8xUJPIbtuw3FFa86mFF7vWgyfDsH6GW*lpc25MRoYhAzAb*wOX9KqndEzwST5UsN5yo02jbfy7D3nkoL*E4IkqoKGY0UU9TfJzTH8gzqL4D4D&new=1)
+ > 南极熊导读：2021年将有通用电气GE、惠普HP等大厂的粘结剂喷射金属3D打印机上市开售，由于可以低成本、高速高效率地批量制造金属零件，应用市场有望爆发。△美东时间2021年2月8日，Exone、Voxeljet两大粘结剂喷...
+ ## [董事长专访|四方光电熊友辉：走出民用传感器国产替代之路](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=MIfqigJ0YALe7f-yBGHa9QM2dAQMk0aAEtgKl0q57GQfsTtGWmZhzkF5HJXU5JUaCSm771OrC35tKEpXXU2GVE4o1jftReYnpykM5Yno0lQ=&new=1)
+ > 从工科博士到上市公司董事长，四方光电董事长熊友辉用20多年时间实现了自主突破进口核心部件的实业报国理想，并走出一条将传感器带入民用应用场景的国产替代之路。　　从最初的4人到目前的500多人，四方光电...
+ ## [运营商已签署上千个应用合同 5G TO B规模商用元年来了](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=MIfqigJ0YALe7f-yBGHa9QM2dAQMk0aAEtgKl0q57GSaGsd8EQJg-xjrh-jeaEWKxkLirtNRYa7*qcrEjdiiL-LklKgEING*7-7GGvKDzf4=&new=1)
  > 1000个　　目前全球已经有超过20个行业部署了5G的示范应用，运营商签署了超过1000个5G行业应用的合同。2021年，5G to B将进入规模商用元年，5G将真正点亮千行百业。　　“2021年，我们要用5G点亮一千座煤矿...
- ## [中科院宁波材料所实现全光控忆阻器](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=y1FdS7UPq9*GtsAJPg5H8RcrzkswxqTJYD1CaHy8wB8YpS5NtwFpV6pn-uOhPX-sYFu8jO8ih9Do80jdAAqoqJ-INWjo4Y1VjZQrEi-sY96nW2HwFPAy3Q9NWOXT7ElP&new=1)
+ ## [中科院宁波材料所实现全光控忆阻器](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=y1FdS7UPq9*GtsAJPg5H8RcrzkswxqTJYD1CaHy8wB8uMBLHuxqzlYmnJQsAqGnlra6ciCyG8w4K2uqo50SWp-t9S3L40iJMFrXIre8y4-XWKUbwihgPoB6jC1wn2Lgb&new=1)
  > 类脑计算直接在硬件上模拟人脑功能，有望实现速度更快、能耗更低、硬件消耗更少的新一代人工智能。忆阻器结构简单，易超高密度集成，是实现类脑计算较为理想的元器件。然而，目前报道的忆阻器，工作机制涉及的离...
- ## [苹果 AR/VR 项目有了新的负责人](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=kWSka2aXgOVJ1Y6Ssg4FLrwpJMJsbVbhOzebGTRFT1BrgBKYbwYT3QnHFzqj48kM6q6d-0aEjrtvbHqGpfkZ2635PmEK-UR8zcnhrstsQ3xBRZal2R2cbHbgU8PTYZTx&new=1)
+ ## [苹果 AR/VR 项目有了新的负责人](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=kWSka2aXgOVJ1Y6Ssg4FLrwpJMJsbVbhOzebGTRFT1D9y7A1MO5eUDuFAsF*PgdV1GS8sQWWMGPqbjrGDmqDGxjnnCVbnBTG39UmDGkWScJ09ko8ktQmzpAzGVd1qsVn&new=1)
  > 上个月，苹果宣布 Dan Riccio 将转任新职。Dan Riccio 在苹果积累了 20 多年的创新、服务和领导经验，今后他将专注于新项目，并直接向 CEO Tim Cook 汇报。John Ternus 将加入高管团队，负责领导苹果公
- ## [微软 CEO Satya Nadella：确保技术强度民主化，赋能全民开发者](http://mp.weixin.qq.com/s?src=11&timestamp=1612837805&ver=2879&signature=9suGu*ryMi6V3CcGGd8cKHM6CPKy472SHoTZQtap3AagsfLYs1ZPTq*8NHsAYfDoU7VR1bTS71BUfArjB4gLUClDQ8GF7HCUcSa4pddzi50RK1ELNJJSgYUr94GB2AUx&new=1)
+ ## [微软 CEO Satya Nadella：确保技术强度民主化，赋能全民开发者](http://mp.weixin.qq.com/s?src=11&timestamp=1612843205&ver=2879&signature=9suGu*ryMi6V3CcGGd8cKHM6CPKy472SHoTZQtap3AbCuO2or24o14GiAAYYQO0*hfrhbf0vFPyMQcPmTB6Tfo1ld1psdoS6yk1yAahxJ8aZfCdX5*4WPVs-Y-uDFDCm&new=1)
  > （本文阅读时间：5分钟）“当下，当我们奋力应对全球规模的流行病、经济压力、气候相关的危机和种族不平等事件带来的动乱等重重破坏时，应该考虑将技术作为解决方案的一部分。”——Satya Nadella，微软 CEO我们...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -35,28 +39,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
- > Docker快速入门视频课程（通俗易懂）
+ ## [Excel SQL数据查询视频课程【完整】](http://fellow.51cto.com/art/202101/638880.htm?qd=51ctojrzd)
+ > Excel SQL数据查询视频课程【完整】
+ ## [2020年全球企业区块链支出达40亿美元](http://blockchain.51cto.com/art/202102/645389.htm)
+ > 2020年全球企业区块链支出规模达到40亿美元，比2019年接近翻倍。对比企业在IT领域的总支出，区块链行业的
+ ## [火币研究院：2021年产业区块链将形成四大发展趋势](http://blockchain.51cto.com/art/202102/645388.htm)
+ > 2月7日，火币研究院与清华大学互联网产业研究院、区块链服务网络（BSN）联合发布年度报告《全球区块链产业
+ ## [数字人民币不断发力成为了全面布局的信号？](http://blockchain.51cto.com/art/202102/645387.htm)
+ > 近期，我们可以看到数字人民币的试点不断增多，而且在“建议留在所在地过年”的政策推动下，年前的这一波福
+ ## [区块链应用破圈需要些什么？](http://blockchain.51cto.com/art/202102/645386.htm)
+ > 当比特币的价格一路上涨，它的终极归宿便愈发清晰。归根到底，它只不过是区块链的一个应用场景，一味上涨的
+ ## [如何在Windows 10中使用命令提示符打开文件资源管理器](http://os.51cto.com/art/202102/645385.htm)
+ > 尽管有更快的方法来打开文件资源管理器（例如：使用键盘快捷键windows + E），但是还可以使用命令提示符在W
+ ## [充分利用组织内部物联网的灵活性](http://iot.51cto.com/art/202102/645384.htm)
+ > 当我们审视技术对安全和安保领域的影响时，在过去几年里，物联网已经成为一个主要的市场驱动力。
+ ## [2021年成为数据科学专家的5个步骤](http://bigdata.51cto.com/art/202102/645383.htm)
+ > 数据科学已经从任意数字发展成为一种有效的管理数据以获取意义的方法。
+ ## [数字化转型如何为企业构建成功的路线图？](http://www.cioage.com/art/202102/645382.htm)
+ > 采用和适应当今的新技术不仅仅是市场的重新思考。为了保持竞争力和成功，企业开始并推进向数字化转型非常重
  ## [关于机器人流程自动化不可不知的十个秘密](http://ai.51cto.com/art/202102/645379.htm)
  > 机器人流程自动化会简化工作流程，将遗留系统紧密整合在一起，并使业务用户有能力解决自己的问题。但在诸多
  ## [Mount Locker勒索软件计划针对税务系统目标发起攻击](http://netsecurity.51cto.com/art/202102/645372.htm)
  > 从2020年7月底开始，Mount Locker就已经开始针对各个大型企业网络进行渗透攻击，并部署勒索软件。
- ## [微软Windows10X 将拥有 “相机使用中”标识](http://os.51cto.com/art/202102/645371.htm)
- > 2月9日消息 上个月，黑客 Gustave Monce 在推特上宣布，已将 Win10X 移植到了 Lumia 950XL 上，且发布了该
- ## [线下环境为何不稳定？怎么破](http://zhuanlan.51cto.com/art/202102/645369.htm)
- > 既然TiP一时半会儿还用不上、发挥不了很大的作用，那么接下去的问题就是：怎么办?既然线下环境的不稳定是必
- ## [5G赋能工业互联网加速落地 助力制造业转型升级](http://network.51cto.com/art/202102/645368.htm)
- > 通过将新一代信息技术与制造业深度融合，工业互联网实现人、机、物的全面互联，构建起全要素、全产业链、全
- ## [Linux操作系统启动流程](http://os.51cto.com/art/202102/645367.htm)
- > 计算机读取内存映像，当屏幕输出“OK,booting the kernel”。系统将内核放置在内存中，并调用 start_kernel
- ## [刨根问底儿，看我如何处理 Too Many Open Files 错误！](http://developer.51cto.com/art/202102/645365.htm)
- > 如果你的项目中支持高并发，或者是测试过比较多的并发连接。那么相信你一定遇到过“Too many open files”
- ## [Market Research Future：到2026年，5G物联网市场规模将达79亿美元](http://network.51cto.com/art/202102/645364.htm)
- > 当前，全球5G建设进度加速推进。由于5G具有高速率、大带宽、低时延等特点，将有助于提高连接性，为新兴应用
- ## [大年初一拉家常必备，盘点春晚史上的黑科技](http://news.51cto.com/art/202102/645363.htm)
- > 记忆中，每年大年三十一家人其乐融融地坐在一起，嗑着瓜子、拉着家常、看着春节联欢晚会，一边嘻嘻哈哈，一
- ## [比特币突破 46000 美元 / 枚，续创历史新高](http://blockchain.51cto.com/art/202102/645362.htm)
- > 2月9日消息 继前日再度涨到四万美元以后，比特币依然没有停下疯涨的步伐，现在已突破 46000 美元。
  ## [为什么“自学”总是那么难？](https://blog.csdn.net/m0_46163918/article/details/113726365)
  > 为什么“自学”总是那么难？
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -87,77 +91,46 @@ categories: IT NEWS
  > 随机森林r语言实现（超详细）
  ## [【SpringBoot】三十三、SpringBoot+LayUI后台管理系统开发脚手架](https://blog.csdn.net/qq_40065776/article/details/108415843)
  > 【SpringBoot】三十三、SpringBoot+LayUI后台管理系统开发脚手架
-# 人工智能 
- ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
- > 分布式存储引擎大厂实战——一致性哈希在大厂的应用
- ## [云原生人物志|Pulsar翟佳：社区的信任最重要](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/113539301)
- > 云原生人物志|Pulsar翟佳：社区的信任最重要
- ## [记录一次线上 Oracle 数据库 ORA-00060: deadlock detected 故障案例](https://blog.csdn.net/defonds/article/details/113702497)
- > 记录一次线上 Oracle 数据库 ORA-00060: deadlock detected 故障案例
- ## [从 C 1.0 到 C 9.0，历代 C 语言特性一览](https://blog.csdn.net/qinyuanpei/article/details/113720157)
- > 从 C 1.0 到 C 9.0，历代 C 语言特性一览
- ## [娜璋初识（一）你的酒窝没有酒，我却醉得像条狗，看程序员如何表白](https://blog.csdn.net/Eastmount/article/details/113725231)
- > 
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [Python中图像标题生成的注意机制实战教程](https://blog.csdn.net/Together_CZ/article/details/113727106)
- > Python中图像标题生成的注意机制实战教程
- ## [30行代码实现蚂蚁森林自动偷能量](https://blog.csdn.net/xindoo/article/details/113734855)
- > 30行代码实现蚂蚁森林自动偷能量
- ## [乐视视频 App 图标改为“欠 122 亿”，网友：我在别家分红包，却在你家随份子！...](https://blog.csdn.net/csdnnews/article/details/113750162)
- > 乐视视频 App 图标改为“欠 122 亿”，网友：我在别家分红包，却在你家随份子！...
- ## [Elasticsearch 的前世今生](https://blog.csdn.net/UbuntuTouch/article/details/113754619)
- > Elasticsearch 的前世今生
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [Egret Native1.1.0版本发布,修复多个问题](https://blog.csdn.net/weixin_41926242/article/details/113756844)
- > Egret Native1.1.0版本发布,修复多个问题
- ## [关于CSDN路线图的说明和致歉](https://blog.csdn.net/weixin_42812353/article/details/113758476)
- > 关于CSDN路线图的说明和致歉
- ## [种草一个让程序员男友记住一辈子的神仙插件！](https://blog.csdn.net/jdk_wangtaida/article/details/113744537)
- > 种草一个让程序员男友记住一辈子的神仙插件！
- ## [【数学建模】2021美赛B题解题思路(森林大火及无人机布局)](https://blog.csdn.net/qq_34763204/article/details/113732660)
- > 【数学建模】2021美赛B题解题思路(森林大火及无人机布局)
 # PM 
+ ## [垂类应用流量实现增长 2021年中国垂类应用流量营销价值洞察](http://www.chanpin100.com/article/113292)
+ > 在全网用户增长放缓的背景下，垂类应用流量仍保持较好增长，同时垂类应用覆盖大量用户，包含海量兴趣标签，全时段、多场景覆盖保证投放效果，营销价值显著。
+ ## [记录一下自己产品方法论的迭代](http://www.chanpin100.com/article/113291)
+ > 每个产品经理都有自己的产品方法论。随着大家工作和经验的积累、认知的深入，产品方法论也会不断更新，就像产品迭代一样。老K本人做产品经理短短6年时间，对产品经理核心能力的认知就经历了5次迭代。本文记录一下我对产品经理从入门到跑路、从看懂到看开的过程。
+ ## [上新！！万能百搭的素材原型都在这里 就等你来带走了！](http://www.chanpin100.com/article/113290)
+ > 圣诞节的素材播报，全是给你的礼物哦～！今天是平安夜了，在这里墨墨姐代表墨刀全体团队祝刀友们圣诞快乐，身体健康，一夜暴富。
+ ## [一位CEO在战略沟通会上的员工问答实录](http://www.chanpin100.com/article/113284)
+ > 本文内容甄选自神策数据“2021 战略沟通会”中创始人 &amp; CEO 桑文锋与员工的对话。
+ ## [盈鱼MA营销内容管理丨营销奖品精细化管理](http://www.chanpin100.com/article/113282)
+ > 活动营销效率工具：可在【奖品管理】里创建奖品，在创建落地页的互动组件中使用。创建的奖品可以查看库存情况和添加库存，也可进行编辑和删除操作。
+ ## [数字化转型参考答案 用技术释放数据价值](http://www.chanpin100.com/article/113280)
+ > 第二届世界互联网大会上，马云提出：世界正从信息时代进入数据时代。随着数字化转型浪潮席卷全球，企业能够掌控客户数据的广度和深度极大地扩展，数据已经成为企业的基础设施和核心资产，数据技术对开发者的要求也越来越高。
+ ## [热剧综艺来袭 视频行业如何提高用户付费能力](http://www.chanpin100.com/article/113279)
+ > 易观分析：近日，频上热搜的话题网综《演员请就位 第二季》迎来了收官之战。这个靠评委和导演撕逼出圈的网综，尽管在口碑和评价上褒贬不一，但在市场上依然形成了足够的话题热度。
+ ## [12月第3期新电商大盘趋势&商品情报 巧克力成为圣诞热销单品](http://www.chanpin100.com/article/113278)
+ > 圣诞节日即将来临，各品类销量如何？12月第3期的二类电商选品&amp;广告创意又有哪些新趋势？
+ ## [突破行业边界 三翼鸟抢了谁的生意？](http://www.chanpin100.com/article/113276)
+ > 三翼鸟的生态思维并不是“抢蛋糕”，而是去打破行业边界，创造更大的蛋糕，是前所未有的颠覆性“新物种”。
+ ## [“留量运营”的本质是用户运营 如何搭建用户“留量”体系](http://www.chanpin100.com/article/113275)
+ > 不同于“流量思维”的一次性，“留量思维”则是反复性，以现有流量为引导线索，循环利用，依托旧流量裂变增长，实现与新流量之间的关系转化，重复创造价值，这就是留量运营思维所带来的重要意义。
+ ## [2020年Q4综合电商广告投放分析 圣诞创意大盘点！](http://www.chanpin100.com/article/113274)
+ > 综合电商广告投放力度稳定，折扣电商广告投放数占比高，圣诞将近，有没有哪些广告创意火爆？
+ ## [神策数据喜获信通院“星河”案例——行业大数据应用优秀案例](http://www.chanpin100.com/article/113272)
+ > 科技正在重构证券交易的业态，以技术为核心竞争力推动业务进步成为趋势，大数据技术也成为各大券商加速发展，探索新机遇的不二之选。
+ ## [教培机构如何做好直播带货？](http://www.chanpin100.com/article/113271)
+ > 直播间的花样越来越多，对引流、累积沉淀用户具有积极的作用，对直播具有特殊要求的教育行业来说，能够有更好更完善的直播功能，是为平台更上一层楼做好基础。
+ ## [案例丨神策数据赋能物流服务行业数字化转型](http://www.chanpin100.com/article/113267)
+ > 提升用户体验、实现精细化运营，进而驱动科学决策，每一个环节都需要数字化技术做支撑。未来，神策数据将会持续助力物流服务企业，加速数字化转型进程。
+ ## [报告解读：面膜电商消费趋势洞察](http://www.chanpin100.com/article/113264)
+ > 为了深入探究当下面膜市场的总体消费趋势，了解消费者所思所想，我们在某电商平台采集了近两年来消费者关于四个主流面膜品牌的公开评论数据，利用Stratifyd增强智能平台，从评分趋势、用户等级、话题分布、影响因素几个方面着手进行分析，帮助企业构筑完整用户画像。
+ ## [探索2021增量之路丨GMCA全球移动营销增长峰会圆满落幕！](http://www.chanpin100.com/article/113262)
+ > 在2020年的新年伊始，突如其来的新冠病毒疫情对世界经济造成了巨大的冲击。一方面，移动互联网发挥积极作用，协助社会各界解决生产生活问题、提高传播效率。另一方面，流量结构也发生了极大的变化，有在困境中倒下的风口，也有逆势生长的新业态，如直播电商和游戏出海。
+ ## [苏州银行签约神策数据 致力打造科技引领的新时代普惠银行](http://www.chanpin100.com/article/113257)
+ > 经过充分严谨的选型与评估，综合考量用户行为分析产品的安全性、专业性、数据分析综合能力等，苏州银行最终签约神策数据，希望实现数字化转型，赋能业务创新，围绕以客户为中心实现高效产品迭代与优化等。
+ ## [刀友访谈：从客服转产品 我付出的不止是时间而已](http://www.chanpin100.com/article/113251)
+ > 本期刀友访谈，刀刀哥为大家邀请到了熟悉又厉害的老朋友——忆设计，为我们讲述他的产品故事，来看看他的优秀经验分享吧～看完再上墨刀多动手发挥你的创意，期待下一期刀友访谈与你见面！
  ## [Axure教程（一）：设置元件](http://www.chanpin100.com/article/113248)
  > 手把手教你做产品经理，带你成为一位优秀的产品经理~如何添加元件到画布？实现方法：在左侧元件库中选择要使用的元件，按住鼠标左键不放，拖动到画布适合的位置上松开。
  ## [刚考完英语四级感觉后悔？快看这份高分宝典！](http://www.chanpin100.com/article/113247)
  > 时间过去的真快，英语四级的考试是否通过呢，不管之前是有考过还是没考过四级英语，我分享一下考试时间前几个月怎么抓住仅剩的“小尾巴”好好利用。
- ## [必看！2021考研政治一定要知道的复习经验！](http://www.chanpin100.com/article/113246)
- > 笔者应该和大多数在职N战考研的同志一样，复习时间少，压力大，身边还总有冷嘲热讽的“亲朋好友”，阻碍你前进，这个时候心态和方法就非常重要了。
- ## [英语水平快速提升的宝典](http://www.chanpin100.com/article/113245)
- > 首先，先强调一点：大学英语四级真的不难！如果你高中时期英语都在及格线以上，那么趁着英语底子还在的时候马上参加考试，你甚至都可以裸考通过~比如我的室友。
- ## [跟学姐一起看看英语六级该如何复习](http://www.chanpin100.com/article/113244)
- > 对于大多数人来说，英语应该是很头痛的一件事，甚至一拿到英语书就犯困，基本上会拖延到考试前才开始复习，这时候往往又开始焦虑，紧张。但是要记住“当你觉得为时已晚的时候，往往是最及时的时候”。抓住当下的每一秒，不要再沉溺于沉没成本中，活在当下。所以看到这里的你，赶紧来学习如果通过六级吧！
- ## [2020年Q4教育行业广告投放分析 《题拍拍》位居推广榜首](http://www.chanpin100.com/article/113241)
- > 前段时间，“学生作业变家长作业”成为社会热点，教育广告也紧接着上线了不少针对这一痛点展开的创意，可谓是网络嗅觉十分灵敏，但热点也带来争议，教育部正式回应将对这种现象进行严惩。另外，教育部也公布未来将把少儿编程课纳入中小学相关课程，少儿编程或许会成为新的风口。那么在广告投放方面，Q4教育培训广告投放又
- ## [恭喜！神策数据荣登投资界2020年Venture50风云榜](http://www.chanpin100.com/article/113240)
- > 近日，投资界 2020Venture50 五大行业榜单惊喜上线，神策数据荣登风云榜 50 强！据介绍，风云榜企业中超过 80% 在 2020 年度获得新一轮融资，其中不乏大数额融资事件，反映了行业资本向头部明星项目集中的趋势。
- ## [数据产品经理进阶：热力图分析的底层逻辑](http://www.chanpin100.com/article/113239)
- > 热力图把用户的点击、浏览、滚屏、停留等行为数据可视化，方便我们分析用户行为，了解到用户的关注点，进而优化用户体验，提升转化率，实现精细化运营。
- ## [神策数据营销云：在线教育行业如何借“运营工具”玩转微信生态？](http://www.chanpin100.com/article/113238)
- > 中国在线教育行业自 20 世纪 90 年代开始，已有近 30 年的发展历程。这 30 年中，陆续经历了“多媒体、数字化、互联网、移动化、人工智能、AI+ 智能”6 个发展阶段，并呈现出便利性、多样性、个性化、教育资源合理利用等优于传统教育的特点。
- ## [考前必看！你需要知道的英语六级秘笈](http://www.chanpin100.com/article/113237)
- > Well，为了增加说服力以及满足一下本人无处安放的虚荣心（？），所以在开头首先秀一下我的六级分数吧哈哈哈哈~分数没有很高，毕竟我的英语基础算不上顶好，所以我今天分享的也不是什么高分秘笈，将其称之为“保过秘笈”也许会更加妥当哈哈哈~
- ## [网易云音乐“一起听歌”产品分析](http://www.chanpin100.com/article/113236)
- > 前段时间网易云音乐上线了“一起听歌”功能，可以邀请一位好友共同听歌，相同的还有Bilibili一起看电影，可以邀请八个人一同观看。如果大家留意的话会发现好多工具类、电商类等产品发展到一定阶段，都会去发展其社交属性，那我们就要思考，他们为什么要去发展社交属性呢？
- ## [互联网“打工人”的“生存法则”](http://www.chanpin100.com/article/112956)
- > 各位童鞋带嘎猴啊，没有想到吧，这一篇隔天就来了。不过呢这一篇的大部分内容，其实是我在写上一篇《盈利模式》的时候都已经构思好了的，主要围绕标题中出现的“打工人”这一词展开叙说，也是近期比较火热的一个词......
- ## [城市数字治理 从数量到质量的跨越](http://www.chanpin100.com/article/113235)
- > 追溯历史不难发现，技术革命的转捩点，并非均匀分布在漫长的历史长河之中：自人类驯服小麦开启农业革命后，它长期未曾出现；过去两百多年，它又集中出现过三次，每一次都伴随着大国的兴衰更迭。
- ## [你最应该掌握的产品需求挖掘方法](http://www.chanpin100.com/article/113212)
- > 过去的几年，做过研发，也负责或深度参与过多个产品项目，包括智能门锁、U盘、硬盘、电子墨水屏等相关产品。作为野路子PM一枚，虽然打通了从产品定义到生产的整个链路，但是对需求的把握度欠缺，需要进一步完善相关知识体系，这便是本篇文章的由来。
- ## [泰尔终端实验室联合MobTech袤博等共同推出“卓信ID”](http://www.chanpin100.com/article/113211)
- > 由中国信息通信研究院泰尔终端实验室推出“卓信ID”的解决方案，包括MobTech袤博在内的多家移动互联网科技企业积极响应，致力于低成本解决互联网反欺诈和广告效果监测难题。
- ## [StratifydAI助力跨境电商高效洞察消费者](http://www.chanpin100.com/article/113208)
- > 无论跨境电商如何发展，平台商家的核心宗旨一直都是“围绕消费者”提供极致的产品和服务。因此，商家需要关注消费者购物旅程的每一个环节，提升消费者的体验，确立自身的竞争优势，从而赢得更大的发展空间。
- ## [中台思维·当代人的效率魔方](http://www.chanpin100.com/article/113205)
- > 公司的业务市场是面向B端的，众所周知，B端市场天生就带有资源性特质的标签，渠道人脉，也许要比技术与市场品牌更关系到企业生死，一句话，创新和技术不是最权重的竞争力，汝果欲学诗，压力在诗外。
- ## [苹果再放隐私保护“大招” 网信办“重拳出击”下架105款App](http://www.chanpin100.com/article/113203)
- > 为了让各App运营官和开发者能更好地了解近期App Store动态、行业热点及游戏热点，蝉大师每周准备了ASO周报为大家盘点一周行业热点和干货知识。
- ## [电竞人电竞魂|电竞市场如何突破重围 更上一层楼](http://www.chanpin100.com/article/113192)
- > 2019年我国电子竞技市场规模达到1236.5亿人民币，相比2018年增长了10.27%，易观分析认为，增长首先源自于我国政策对电竞体育大力发展扶持，从宏观政策到部分地方政策都大力发展电竞产业，如上海致力打造的电竞之都，为电竞产业的发展定下了主基调。
- ## [2020流量增长遭遇困境 究竟困在哪儿？](http://www.chanpin100.com/article/113187)
- > 2020年，脆弱与坚强并行、困境与机遇同台。从疫情突然爆发到股市动荡，全球经济波动，移动互联网没有因为突如其来的变化，丧失斗志，丢掉希望，反而是带着破釜沉舟之势，面对现实，挑战变化，把一个个不可能变成了可能。
 
     
