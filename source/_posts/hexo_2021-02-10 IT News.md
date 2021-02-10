@@ -1,19 +1,21 @@
 ---
 title: 2021-02-10 IT News
 copyright: true
-date: 2021-02-10 08:47:48
+date: 2021-02-10 09:46:12
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [行情|芯片短缺已经导致全球多家车厂关闭 生产放缓](http://mp.weixin.qq.com/s?src=11&timestamp=1612917005&ver=2881&signature=OXM51SXNd1q1p7aRKFzYtFvKynypzGtuYJMZv0IJj67NDEM7j*mP8CYpc0z8BC3jLzTQNZxrwzI0nuiWmPO*gxLYA2OACmHduBlV4S1lQfoawKBXPRPPP4at*DXNq9yg&new=1)
- > 2月9日，由于新冠病毒大流行，人们抢购游戏机、笔记本电脑和电视机等日常消费电子产品，以帮助度过防疫封锁期，这导致市场对芯片需求激增。现在，很多笔记本电脑以及Xbox Series X、PlayStation 5等下一代游戏机...
- ## [任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要全文](http://mp.weixin.qq.com/s?src=11&timestamp=1612917005&ver=2881&signature=kLJuIUvbq*XRFbCLyzYfEGGtO4nutyFmCwU6u1SYyZu1XmZ6t1S-STBHgy50YFBymDCoXzW0ZZ2A0FzgeCWCE*r1h7vUpBoBYvipLfPWlkAi3rA8xiSn80WPtd9RP3Qb&new=1)
- > 2021年2月9日，华为心声社区发布了任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要。任正非表示：&quot;我对华为公司生存的信心更大了，而不是更小，因为我们有了更多克服困难的手段.....我们不依靠手机也...
- ## [高通发布全球首个10Gbps 5G调制解调器及射频系统](http://mp.weixin.qq.com/s?src=11&timestamp=1612917005&ver=2881&signature=KBU4K4NdtBwACCMocBYhwJA*uMIgvT5IF7VfN4Tn0zBaRlvh74m7a4qm7AG3Z7M0hxloepWyzdDyKBqcO2DnQuFBilU2hN*5Dygmn3yS2VV89bzGsTdUA9xD7fU4nBVE&new=1)
- > Qualcomm要闻—第4代高通骁龙 X65是全球首个支持10Gbps 5G和首个符合3GPP Release 16规范的调制解调器到天线解决方案，目前正在出样。可升级架构支持新特性快速部署，以及5G在移动宽带、计算、扩展现实、工业物...
- ## [任正非：华为永远不会出售终端手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1612917005&ver=2881&signature=oyr1k*N81q3Eatx2JzlMkoqAwOtrfQelnPf1iVBsCeJKpjZCVZKGeoMmvtC8ocdsDajdUfPNMXY6xhDm2mSqfxvzAFMAcJZQMKsTb-oy7GDp0D18p8jZRso5XuPbSTYl&new=1)
+ ## [\[报告\]2021年1月汽车工业经济运行情况(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612920604&ver=2881&signature=8pXg17OCVgzn756vU*ZpQv78Kyw0d2McRZIGzmzme8T9Q-mqLBqlT0crD30gH73Xm6MY76M8O91FCxF6RHKSWRXpnElP9Hy7saBqF*hyB0c4cKEo20w0Qfi2BLySeaZb&new=1)
+ > 2021年1月，汽车产销分别完成238.8万辆和250.3万辆，环比分别下降15.9%和11.6%，同比分别增长34.6%和29.5%。本月产销同比呈现大幅增长的原因有两点，一是当前市场需求仍在恢复，二是由于2020年春节假期在1月，加...
+ ## [任正非：华为永远不会出售终端手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1612920604&ver=2881&signature=oyr1k*N81q3Eatx2JzlMkoqAwOtrfQelnPf1iVBsCeILXgyUADalEEXY3HhQCgDtFvDsspraNt0cD6HaYkIJOnTTi9Ccicfhdm1oLR6cRnENfI3h-rQl2g1rSWA-pXoD&new=1)
  > 2月9日消息，华为创始人任正非接受采访时表示，我们可以转让5G技术，但永远不会出售终端手机业务，并会坚持全球化不动摇。在出售荣耀手机业务之后，近日网络上出现华为出售业务的谣言。在2月8日，华为对造谣传谣...
+ ## [任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要全文](http://mp.weixin.qq.com/s?src=11&timestamp=1612920604&ver=2881&signature=kLJuIUvbq*XRFbCLyzYfEGGtO4nutyFmCwU6u1SYyZvtoN3zhMNtL9s1lKrlYrEuDA6hmMm5DibmfKcUZzLYbQa7bMPOcjsyCKcXSVspxaf-z4hqLenAW1Plzrx0UUxi&new=1)
+ > 2021年2月9日，华为心声社区发布了任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要。任正非表示：&quot;我对华为公司生存的信心更大了，而不是更小，因为我们有了更多克服困难的手段.....我们不依靠手机也...
+ ## [行情|芯片短缺已经导致全球多家车厂关闭 生产放缓](http://mp.weixin.qq.com/s?src=11&timestamp=1612920604&ver=2881&signature=OXM51SXNd1q1p7aRKFzYtFvKynypzGtuYJMZv0IJj64Ie98j*BwjbUGNoeq4*ckyC4I3J1TyJ3ijOh4k33dgzX1LklA9OzG4E5aDykwgk-PTp-GBEbUgs6CM020S08Ie&new=1)
+ > 2月9日，由于新冠病毒大流行，人们抢购游戏机、笔记本电脑和电视机等日常消费电子产品，以帮助度过防疫封锁期，这导致市场对芯片需求激增。现在，很多笔记本电脑以及Xbox Series X、PlayStation 5等下一代游戏机...
+ ## [高通发布全球首个10Gbps 5G调制解调器及射频系统](http://mp.weixin.qq.com/s?src=11&timestamp=1612920604&ver=2881&signature=KBU4K4NdtBwACCMocBYhwJA*uMIgvT5IF7VfN4Tn0zAfM3GQHLnoDN2*w1fHU-3N4w05puf9W4TSAU3r--qrslutdKqVbFBYhZp0-zmmG2W12Kd1qwq6ADobPnBQ2jMk&new=1)
+ > Qualcomm要闻—第4代高通骁龙 X65是全球首个支持10Gbps 5G和首个符合3GPP Release 16规范的调制解调器到天线解决方案，目前正在出样。可升级架构支持新特性快速部署，以及5G在移动宽带、计算、扩展现实、工业物...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -29,22 +31,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [1.2.ARM体系结构与汇编指令-ARM裸机第二部分](http://fellow.51cto.com/art/202101/639331.htm?qd=51ctojrzd)
- > 1.2.ARM体系结构与汇编指令-ARM裸机第二部分
+ ## [PHP零基础入门视频课程](http://fellow.51cto.com/art/202101/640709.htm?qd=51ctojrzd)
+ > PHP零基础入门视频课程
+ ## [拿ISIS练手？英国披露曾发动网络战攻击ISIS无人机和服务器](http://zhuanlan.51cto.com/art/202102/645465.htm)
+ > 尽管联合网络作战已经成为现代战争的特征，但一些批评家警告说，网络战一旦超出军事冲突范畴，将难以发现和
+ ## [微服务CI/CD实践-GitOps完整设计与实现](http://developer.51cto.com/art/202102/645466.htm)
+ > 本篇带给大家​微服务CI/CD实践-GitOps完整设计与实现，希望对你有所帮助。
+ ## [从网络I/O模型到Netty，先深入了解下I/O多路复用](http://network.51cto.com/art/202102/645464.htm)
+ > 上一篇文章我们了解了Unix标准的5种网络I/O模型，知道了它们的核心区别与各自的优缺点。尤其是I/O多路复用
+ ## [CDPR 称遭遇网络袭击，《赛博朋克 2077》补丁恐将延期](http://netsecurity.51cto.com/art/202102/645463.htm)
+ > 2 月 10 日早间消息，据报道，科幻电子游戏《赛博朋克 2077》的开放商 CD Projekt 在周二表示，该公司遭受
  ## [躺着数钱！春节各大APP红包活动详细攻略汇总](http://mobile.51cto.com/ahot-645462.htm)
  > 春节期间各大APP都开启了各自的迎新春活动，都拿出来多少多少亿来让参与活动的用户进行瓜分。在这撸羊毛的
  ## [微软 Word 暗黑模式将更进一步：文档底色也将变黑，风格更加统](http://os.51cto.com/art/202102/645461.htm)
  > 据外媒 The Verge 消息，微软正在测试新功能，全新的暗黑模式将会使文档本身的背景也变成与主题统一的深灰
+ ## [15 个常见的 Node.js 面试问题及答案](http://developer.51cto.com/art/202102/645460.htm)
+ > 为帮助 Node.js 开发人员更好的面试，我列出了 15 个常见的 Node.js 和网络开发相关的面试问题。
  ## [城市用水被下毒？美国供水系统遭黑客攻击](http://netsecurity.51cto.com/art/202102/645458.htm)
  > “网络安全即生命安全”。在美国奥尔德斯玛市，攻击者试图将该市的供水系统中的氢氧化钠含量提高100倍以上
  ## [红包滚滚来！微信这几项新功能你用过没](http://mobile.51cto.com/ahot-645459.htm)
  > 再过几天就是春节了，很多人已经开始准备过年的东东，作为国民第一社交神器的微信自然也没闲着。近日，安卓
- ## [1月份Github上热门的开源项目](http://os.51cto.com/art/202102/645455.htm)
- > 1月份GitHub上最热门的开源项目排行已经出炉啦，这个月Java相关的开源项目上榜有点多哦，一起来看看上榜详
- ## [苹果发布Chrome扩展iCloud Passwords](http://netsecurity.51cto.com/art/202102/645451.htm)
- > 据外媒，近日苹果推出了适用于Chrome浏览器的iCloud Passwords扩展程序，方便用户快速管理密码。
- ## [2020年全球频谱拍卖总价值达275亿美元](http://network.51cto.com/art/202102/645449.htm)
- > 2月8日，据GSA发布的数据，2020 年，全球频谱拍卖和分配的总额达到了275亿美元。
+ ## [2021年全球网络安全投资六大热点](http://zhuanlan.51cto.com/art/202102/645457.htm)
+ > 随着威胁范围的扩大和新漏洞的涌现，信息安全在今年仍将是重中之重，而网络攻击的频率不太可能降低，当前的
  ## [2021年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/113729895)
  > 2021年2月中国编程语言排行榜
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -65,15 +73,15 @@ categories: IT NEWS
  > 种草一个让程序员男友记住一辈子的神仙插件！
  ## [2021年2月程序员工资统计，平均15144元](https://blog.csdn.net/juwikuang/article/details/113729712)
  > 2021年2月程序员工资统计，平均15144元
- ## [VSCode配置C/C++环境](https://blog.csdn.net/qq_40477151/article/details/103917156)
- > VSCode配置C/C++环境
- ## [Qt-QCustomplot画静态、动态曲线教程图解](https://blog.csdn.net/qq_40194498/article/details/79666903)
- > Qt-QCustomplot画静态、动态曲线教程图解
+ ## [最通俗易懂的JavaScript入门教程](https://blog.csdn.net/jiahuan_/article/details/105895421)
+ > 
+ ## [vue项目实录：下拉刷新组件的开发及slot的使用](https://blog.csdn.net/qq_43624878/article/details/109252057)
+ > vue项目实录：下拉刷新组件的开发及slot的使用
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）](https://blog.csdn.net/qq_41282258/article/details/98961667)
- > Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）
- ## [AppCompat发布两年了，还没了解？](https://blog.csdn.net/allisonchen/article/details/112690282)
+ ## [没想到 Python 中竟然还藏着这些稀奇古怪的东西...](https://blog.csdn.net/u013486414/article/details/104873811)
+ > 
+ ## [要不是真的喜欢学技术，谁会来爬小姐姐啊。](https://blog.csdn.net/lovely__RR/article/details/107956207)
  > 
 # 人工智能 
  ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
