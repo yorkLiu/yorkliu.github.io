@@ -1,24 +1,32 @@
 ---
 title: 2021-02-10 IT News
 copyright: true
-date: 2021-02-10 10:41:11
+date: 2021-02-10 12:30:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]2021年1月汽车工业经济运行情况(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=8pXg17OCVgzn756vU*ZpQv78Kyw0d2McRZIGzmzme8T9Q-mqLBqlT0crD30gH73X1I3thBEBbpyKJbrQ6*jQ3VLmNZFfURoG2qEOfPmA5aoP8bYSJBgwirGXzHXAcUH1&new=1)
- > 2021年1月，汽车产销分别完成238.8万辆和250.3万辆，环比分别下降15.9%和11.6%，同比分别增长34.6%和29.5%。本月产销同比呈现大幅增长的原因有两点，一是当前市场需求仍在恢复，二是由于2020年春节假期在1月，加...
- ## [中航迈特获航空用户3D打印TiAl粉末产品订单](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=OjHg3IZ4iPHIkyLA3u*V9ypAHuz2uUf3UvBW3eYAXqZfFcikV3SdAdeaU1iIW4muZhvf-W4wA69xDoR3s6flboN70IclpNtzvJ*cAzYfRO1MDC1zergqeAcAqXyWa1io&new=1)
+ ## [任正非：华为公司永远不会出售终端业务；英雄联盟手游获得版号；比特币突破 48000 美元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=iWrfnk7OOi-wSeLiKQ0YNy*g5j8Np3LvQIZA956P8vPfYVP2nQ7*DmOXx1JBVfaZpcxpGZelJX9gYMfVczAm3rv2EfAb9VGI85S7NUCM*pPKdk1DW*00KZcMB6lDDyHW&new=1)
+ > 任正非：华为公司永远不会出售终端业务2 月 9 日，华为创始人、CEO 任正非在接受记者采访时表示，不要理解终端就是手机，只要和人、物连接的都是终端。比如说用于汽车无人驾驶的激光雷达，家庭应用的煤气表、水...
+ ## [中航迈特获航空用户3D打印TiAl粉末产品订单](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=OjHg3IZ4iPHIkyLA3u*V9ypAHuz2uUf3UvBW3eYAXqZfFcikV3SdAdeaU1iIW4muDDUFGyElBMijVFd4BSwdNtWFb08Mdl9-uyd8xx7hUzoOP5NQhBwaSozrGS5U*srW&new=1)
  > 导读：TiAl金属间化合物是迄今唯一能够在600℃以上氧化环境长期使用的轻质金属材料，其理论密度只有3.9g/cm3，不到镍基高温合金的1/2，对于实现航空航天零部件减重，具有重大意义。近年来，美国通用电气公司旗下...
- ## [除了欢迎拜登致电华为，任正非还谈了退休时间、5G转让等|电讯原创](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=IAq9*dcOWMD0iWFPScrnYd41hwTwWzI6dgo11G2w5nl3E2*CLsZWyCI3L*Y1n1uGN7SE51bO5AiEw8zU3dMZ8a5VFCi**2YavWhpBbmr*5xbhrmPMwLuPo6FFVtXJ-qj&new=1)
+ ## [法国安全公司称黑客已访问其源代码](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=4IZFM1QOLqzxDqbFTOFAY5nIWHWTtu5aVGydbRW*DsDUgSJpFgVrzR2dBOrY3M2imUjlHiezh1IPfEf1vvOfONBf2FKSDlt*PenQiIwRDHhiFQ*WuxnMXM54VBRh5Azi&new=1)
+ > E安全2月10日讯   据报道，法国安全厂商Stormshield在内部审查时发现黑客访问了期网络安全产品的源代码之后，发起了一项调查。Stormshield承认该公司遭受了一次网络攻击，不明身份的黑客访问了其Stormshield网络...
+ ## [eMMC导致特斯拉被召回，但这锅该存储厂商背吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=zVib0P920NWPSz2hG6xHbb8gnkgZdap6EBwyJve6Y3WBEB2R4qQiwoG*1m68Z5xBxQEZczVxe2fT*RzY6N7BkKzKpY9giRy1xfEANrmQxpwKc7qr4LugCDcj93ytIlgf&new=1)
+ > 继特斯拉在美国召回13.5万辆问题车后，针对同样的中控屏问题，近日，国家市场监督管理总局发布公告称，特斯拉已经备案了召回计划，将召回生产日期在2013年9月18日至2018年2月20日期间的部分进口Model S车辆以及...
+ ## [张国华与中国电信集团董事长柯瑞文举行工作座谈](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=LN1dGeZTLVljkusYxfTqvwxAj2ENxKRi7XseguImf0pTsAJxjFAIao*pFxgB0q68FeoRl1MDnPdyMKQi1055LYsqb04BTPVZBQbb5SiS0JiDwupECTxRonn*p5w2zdtf&new=1)
+ > 2月9日，省委常委，雄安新区党工委书记、管委会主任张国华在雄安市民服务中心以视频方式与中国电信集团有限公司董事长、党组书记柯瑞文举行工作座谈。张国华代表雄安新区党工委、管委会对中国电信集团给予雄安新...
+ ## [\[报告\]2021年1月汽车工业经济运行情况(附25页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=8pXg17OCVgzn756vU*ZpQv78Kyw0d2McRZIGzmzme8T9Q-mqLBqlT0crD30gH73XBqOYhwE20sKn95sGgrMPs4cyRbMRisj57jezHh-LvwMJ*6KvGWVXVX437-XDUFfV&new=1)
+ > 2021年1月，汽车产销分别完成238.8万辆和250.3万辆，环比分别下降15.9%和11.6%，同比分别增长34.6%和29.5%。本月产销同比呈现大幅增长的原因有两点，一是当前市场需求仍在恢复，二是由于2020年春节假期在1月，加...
+ ## [除了欢迎拜登致电华为，任正非还谈了退休时间、5G转让等|电讯原创](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=IAq9*dcOWMD0iWFPScrnYd41hwTwWzI6dgo11G2w5nl3E2*CLsZWyCI3L*Y1n1uGY0NUdNLg4XD*kTyhHyN9z7DvlEQjBZNzTEhikSDJeqrB6UlJaArk09AVl8fQ5QDh&new=1)
  > 来源：2月10日《新华每日电讯》记者：新华每日电讯梁晓飞、王菲菲、马晓媛9日，华为公司创始人、CEO任正非在山西太原参加了“智能矿山创新实验室”揭牌仪式。仪式后，任正非接受中外媒体采访，就华为发展、芯片...
- ## [任正非：华为永远不会出售终端手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=oyr1k*N81q3Eatx2JzlMkoqAwOtrfQelnPf1iVBsCeILXgyUADalEEXY3HhQCgDtjl6KMaKJ92p8AkJNffr8fFi4u1KTNN8bSCWetm9EO4pIu-3m0lerrIuHA0c8hMs7&new=1)
+ ## [任正非：华为永远不会出售终端手机业务](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=oyr1k*N81q3Eatx2JzlMkoqAwOtrfQelnPf1iVBsCeILXgyUADalEEXY3HhQCgDtiQ2cTFjjo0yctlEgT8xk6Z5FV3-93VMh9C*DaycmGosB3f3o2iGEfpUzndSg5wpd&new=1)
  > 2月9日消息，华为创始人任正非接受采访时表示，我们可以转让5G技术，但永远不会出售终端手机业务，并会坚持全球化不动摇。在出售荣耀手机业务之后，近日网络上出现华为出售业务的谣言。在2月8日，华为对造谣传谣...
- ## [任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要全文](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=kLJuIUvbq*XRFbCLyzYfEGGtO4nutyFmCwU6u1SYyZvtoN3zhMNtL9s1lKrlYrEu9*izOm8jFEDineRUa5BFoOHXY1GRfjcqArOYmCBm3qtYZaM7EGw-ktrBIeCSmblU&new=1)
+ ## [任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要全文](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=kLJuIUvbq*XRFbCLyzYfEGGtO4nutyFmCwU6u1SYyZvtoN3zhMNtL9s1lKrlYrEue65*VDS6A9yDRMj5WQlF4fXLtE3ZfSD2HokA6OLdBJ0y3NyBtLuqUHuq4g9X-OdU&new=1)
  > 2021年2月9日，华为心声社区发布了任正非在太原智能矿山创新实验室揭牌仪式后接受媒体采访纪要。任正非表示：&quot;我对华为公司生存的信心更大了，而不是更小，因为我们有了更多克服困难的手段.....我们不依靠手机也...
- ## [行情|芯片短缺已经导致全球多家车厂关闭 生产放缓](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=OXM51SXNd1q1p7aRKFzYtFvKynypzGtuYJMZv0IJj64Ie98j*BwjbUGNoeq4*ckypa7hAl961ClL4497o0FxNX8UASOmgsnnt4dyH7rzAtZ7yTr-XQ1aw6JX7PlZuoEc&new=1)
+ ## [行情|芯片短缺已经导致全球多家车厂关闭 生产放缓](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=OXM51SXNd1q1p7aRKFzYtFvKynypzGtuYJMZv0IJj64Ie98j*BwjbUGNoeq4*ckyKTN6nO54mmb7dcYiCXF-ZLyYLZcWMa4H8F8equEqVbEiqAA-qQxG2SC5M*J9B7XW&new=1)
  > 2月9日，由于新冠病毒大流行，人们抢购游戏机、笔记本电脑和电视机等日常消费电子产品，以帮助度过防疫封锁期，这导致市场对芯片需求激增。现在，很多笔记本电脑以及Xbox Series X、PlayStation 5等下一代游戏机...
- ## [高通发布全球首个10Gbps 5G调制解调器及射频系统](http://mp.weixin.qq.com/s?src=11&timestamp=1612924204&ver=2881&signature=KBU4K4NdtBwACCMocBYhwJA*uMIgvT5IF7VfN4Tn0zAfM3GQHLnoDN2*w1fHU-3NH769eTmFD2U7VyhLWccagAEhcbCdB0KYptwODNG782rbjaD8LKtkUy83VAUzm*F3&new=1)
+ ## [高通发布全球首个10Gbps 5G调制解调器及射频系统](http://mp.weixin.qq.com/s?src=11&timestamp=1612929604&ver=2881&signature=KBU4K4NdtBwACCMocBYhwJA*uMIgvT5IF7VfN4Tn0zAfM3GQHLnoDN2*w1fHU-3N9or7beo*Jcc*G-fUHIvrBhs1hys9Rm1XLGL97NliL294G0dNQ3ouhSKp9ozQwvWH&new=1)
  > Qualcomm要闻—第4代高通骁龙 X65是全球首个支持10Gbps 5G和首个符合3GPP Release 16规范的调制解调器到天线解决方案，目前正在出样。可升级架构支持新特性快速部署，以及5G在移动宽带、计算、扩展现实、工业物...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -35,28 +43,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [【王佩丰】Excel VBA视频教程 完整版](http://fellow.51cto.com/art/202012/637605.htm?qd=51ctojrzd)
- > 【王佩丰】Excel VBA视频教程 完整版
- ## [手把手教你用Python实现批量文件的压缩处理](http://developer.51cto.com/art/202102/645469.htm)
- > 本文介绍了如何利用Python对大批量的文件进行批量压缩处理，其实就是几行语句就能实现，程序写好后，不到1
- ## [这就是2020：全球云计算十一大年度话题盘点](http://cloud.51cto.com/art/202102/645467.htm)
- > 每一年啊都需要捋一下，总结总结，砥砺奋进再出发。2020，这一年，更值得回头看看。
- ## [拿ISIS练手？英国披露曾发动网络战攻击ISIS无人机和服务器](http://zhuanlan.51cto.com/art/202102/645465.htm)
- > 尽管联合网络作战已经成为现代战争的特征，但一些批评家警告说，网络战一旦超出军事冲突范畴，将难以发现和
- ## [微服务CI/CD实践-GitOps完整设计与实现](http://developer.51cto.com/art/202102/645466.htm)
- > 本篇带给大家​微服务CI/CD实践-GitOps完整设计与实现，希望对你有所帮助。
- ## [从网络I/O模型到Netty，先深入了解下I/O多路复用](http://network.51cto.com/art/202102/645464.htm)
- > 上一篇文章我们了解了Unix标准的5种网络I/O模型，知道了它们的核心区别与各自的优缺点。尤其是I/O多路复用
- ## [CDPR 称遭遇网络袭击，《赛博朋克 2077》补丁恐将延期](http://netsecurity.51cto.com/art/202102/645463.htm)
- > 2 月 10 日早间消息，据报道，科幻电子游戏《赛博朋克 2077》的开放商 CD Projekt 在周二表示，该公司遭受
- ## [躺着数钱！春节各大APP红包活动详细攻略汇总](http://mobile.51cto.com/ahot-645462.htm)
- > 春节期间各大APP都开启了各自的迎新春活动，都拿出来多少多少亿来让参与活动的用户进行瓜分。在这撸羊毛的
- ## [微软 Word 暗黑模式将更进一步：文档底色也将变黑，风格更加统](http://os.51cto.com/art/202102/645461.htm)
- > 据外媒 The Verge 消息，微软正在测试新功能，全新的暗黑模式将会使文档本身的背景也变成与主题统一的深灰
- ## [15 个常见的 Node.js 面试问题及答案](http://developer.51cto.com/art/202102/645460.htm)
- > 为帮助 Node.js 开发人员更好的面试，我列出了 15 个常见的 Node.js 和网络开发相关的面试问题。
- ## [城市用水被下毒？美国供水系统遭黑客攻击](http://netsecurity.51cto.com/art/202102/645458.htm)
- > “网络安全即生命安全”。在美国奥尔德斯玛市，攻击者试图将该市的供水系统中的氢氧化钠含量提高100倍以上
+ ## [标杆徐2018 Linux自动化运维系列①: CentOS7系统应用与实践](http://fellow.51cto.com/art/202012/635273.htm?qd=51ctojrzd)
+ > 标杆徐2018 Linux自动化运维系列①: CentOS7系统应用与实践
+ ## [2020年度邮件安全趋势回顾](http://netsecurity.51cto.com/art/202102/645480.htm)
+ > 疫情的出现改变了全球数字工作模式，为了降低疫情对正常工作生活的影响，远程办公或在家学习成了首选，这很
+ ## [微软宣布推出针对苹果 iOS 14 的 To Do 小部件](http://mobile.51cto.com/iphone-645479.htm)
+ > 2月10日消息 今天凌晨，微软宣布针对苹果 iOS 14 的 Microsoft To Do 小部件现已推出，微软共添加了三种新
+ ## [UNION ALL这么用，从摸鱼学徒进阶摸鲸校尉](http://bigdata.51cto.com/art/202102/645478.htm)
+ > 今天给大家分享一下我在工作中经常用的union all技巧，希望可以帮到大家。
+ ## [虚拟现实将成为更具创造性的通信方式](http://mobile.51cto.com/-645477.htm)
+ > 人们交流的方式是一门不断变化的学科。每个新技术的发展为个人分散和使用数据带来了新的渠道和新的机会。
+ ## [人工智能如何解决数据中心运营商面临的挑战](http://ai.51cto.com/art/202102/645476.htm)
+ > 行业专家对人工智能如何帮助解决该行业内出现的运营挑战、数据中心行业需要克服的最大障碍，以及数据中心如
+ ## [警告：The Great Suspender Chrome扩展含有恶意软件](http://netsecurity.51cto.com/art/202102/645475.htm)
+ > 研究人员发现The Great Suspender Chrome扩展含有恶意软件，谷歌已移除该扩展。
+ ## [普华永道：到2030年，5G将为全球GDP增长贡献1.3万亿美元](http://network.51cto.com/art/202102/645474.htm)
+ > 2月10日消息，外媒报道称，普华永道日前发布的报告显示，5G应用带来的生产力和效率提升，到2030年将推动业
+ ## [联通短信出现大面积故障：手机无法接收验证码 官方：紧急处理中](http://network.51cto.com/art/202102/645473.htm)
+ > 2月10日最后一个工作日，联通短信出现大面积故障。大批微博网友反馈，无法收到短信，也收不到验证码。
+ ## [Windows10最受欢迎版本v1909获更新：解决诸多Bug、更稳定](http://os.51cto.com/art/202102/645472.htm)
+ > 根据之前的统计报告看，目前Windows 10中，最受欢迎的版本是v1909，也基于这个情况，微软为该版本推出了新
+ ## [分布式配置中心（Nacos、Apollo）选型比较](http://developer.51cto.com/art/202102/645471.htm)
+ > Apollo和Nacos生态支持都很广泛，在配置管理流程上做的都很好。Apollo相对于Nacos在配置管理做的更加全面;N
  ## [2021年2月中国编程语言排行榜](https://blog.csdn.net/juwikuang/article/details/113729895)
  > 2021年2月中国编程语言排行榜
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -77,15 +85,15 @@ categories: IT NEWS
  > 种草一个让程序员男友记住一辈子的神仙插件！
  ## [2021年2月程序员工资统计，平均15144元](https://blog.csdn.net/juwikuang/article/details/113729712)
  > 2021年2月程序员工资统计，平均15144元
- ## [最通俗易懂的JavaScript入门教程](https://blog.csdn.net/jiahuan_/article/details/105895421)
- > 
- ## [vue项目实录：下拉刷新组件的开发及slot的使用](https://blog.csdn.net/qq_43624878/article/details/109252057)
- > vue项目实录：下拉刷新组件的开发及slot的使用
+ ## [VSCode配置C/C++环境](https://blog.csdn.net/qq_40477151/article/details/103917156)
+ > VSCode配置C/C++环境
+ ## [Qt-QCustomplot画静态、动态曲线教程图解](https://blog.csdn.net/qq_40194498/article/details/79666903)
+ > Qt-QCustomplot画静态、动态曲线教程图解
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [没想到 Python 中竟然还藏着这些稀奇古怪的东西...](https://blog.csdn.net/u013486414/article/details/104873811)
- > 
- ## [要不是真的喜欢学技术，谁会来爬小姐姐啊。](https://blog.csdn.net/lovely__RR/article/details/107956207)
+ ## [Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）](https://blog.csdn.net/qq_41282258/article/details/98961667)
+ > Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）
+ ## [AppCompat发布两年了，还没了解？](https://blog.csdn.net/allisonchen/article/details/112690282)
  > 
 # 人工智能 
  ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
@@ -119,6 +127,34 @@ categories: IT NEWS
  ## [免费制作一个属于你的微信红包封面](https://blog.csdn.net/qq_42965739/article/details/113751052)
  > 免费制作一个属于你的微信红包封面
 # PM 
+ ## [不得不看的2021品牌设计趋势 今年就用它搞定老板吧](http://www.chanpin100.com/article/113390)
+ > 专业设计师预测的2021品牌设计趋势，不容错过～！2021年品牌设计趋势主要受到两个方面的影响：一是去年发生的大事件；二是2020年品牌设计的成功之处。
+ ## [设计协作产品的“破圈”之旅：摹客任务管理](http://www.chanpin100.com/article/113388)
+ > 仿佛一夜之间，国内设计领域的SaaS厂商们，都急于给自己戴上“协作平台”的帽子。
+ ## [没有什么工作是素材原型不能解决的 点开用就对了](http://www.chanpin100.com/article/113387)
+ > 今天就是新年啦，祝刀友们新年快乐。素材播报也陪伴了刀友们走过了春夏秋冬，接下来的日子里，我们会继续努力上架更多更丰富的优质素材，帮助刀友们提升工作效率。
+ ## [读小米《一往无前》有感](http://www.chanpin100.com/article/113386)
+ > 小米公司，在十周年的时候，献给大家一本揭露心路历程的书，《一往无前》。作为前米粉，怀着激动的心情看完了。书里写的故事，有部分是网上已经看过的，但绝大部分是大家所不知道的。
+ ## [UI设计转产品经理的心路历程](http://www.chanpin100.com/article/113385)
+ > 产品经理是一份充满着挑战与机遇的工作，可以很大程度上发挥自己的创造性，当看到自己的产品一天天完善，就像自己的孩子一样一天天成长，那种成就感应该是所有产品人毕生追求的吧。
+ ## [2021年教培机构直播引流变现的五种方法](http://www.chanpin100.com/article/113383)
+ > 有没有办法平衡直播门槛与付费转化率，让老师们在做低价、免费直播引流时，又保持平台课程的“价值感”，为后期的转化做铺垫呢？
+ ## [接地气的三个案例：浅谈产品经理深度思考的运用](http://www.chanpin100.com/article/113380)
+ > 产品经理思维的广度，决定他能调用多少资源，和开启多少发散的脑洞，而深度关乎探究的价值和行进的距离。
+ ## [产品经理对数据库不必懂太多 这篇总结就够和开发对接了](http://www.chanpin100.com/article/113379)
+ > 对于中、后台产品经理而言，了解数据库不是为了做斜杠青年。而是因为，你就在面对数据库。随着业务横向扩展，数据维度在扩大。随着业务纵深发展，数据量在倍增。
+ ## [Gucci绿了美团黄了 今天就给你点颜色看看](http://www.chanpin100.com/article/113378)
+ > 美国流行色彩研究中心曾给出“7秒定律”营销法则，人们在挑选商品时，只需要7秒就可以决定出感兴趣的商品，而在这7秒内，色彩的作用占67%。
+ ## [注册会计师方法总结](http://www.chanpin100.com/article/113377)
+ > 注册会计师考试科目分为会计、审计、财务成本管理、公司战略与风险管理、经济法以及税法六科，专业阶段考试报名人员可以同时报考6个科目，也可以选择报考部分科目。我用MindMaster整理思维导图，不仅记忆力提高了，而且记得更准确了。
+ ## [斯图飞腾白皮书：客户分析助力企业业绩增长的有效路径](http://www.chanpin100.com/article/113376)
+ > 数字化时代，消费者获取信息的渠道越来越多元化，消费者的期望值也越来越高，如何在激烈的市场竞争环境下更高效地挖掘消费者需求，了解消费者的需求痛点和兴趣偏好是每个企业都面临的挑战。
+ ## [V40走出了第一步 新荣耀2021的一喜三忧](http://www.chanpin100.com/article/113434)
+ > 1月22日，一部天玑“芯”的荣耀V40拉开了新荣耀的序幕，据悉骁龙888处理器版本的V40尚在酝酿中，和华为分道不久，荣耀就加快了转型节奏。
+ ## [关于带新人的一点想法](http://www.chanpin100.com/article/113374)
+ > 在任职部门管理的这三年中陆续接触了不少没什么工作经验的岗位新人（公司出于人员成本考虑），在带新人的过程中也积累了不少心得，总结一个字就是累，尤其是心累，特别是像我本身是自带强迫症追求完美的工作要求。
+ ## [B端SaaS产品设计与运营的方法论](http://www.chanpin100.com/article/113372)
+ > To B业务目前是国内互联网巨头竞争的新战场，早在2018年下半年，以腾讯为代表的各大互联网巨头，开始调整组织架构，在To B业务方向排兵布阵，准备大干一场。众所周知，B端业务因其业务复杂度高、业务流程长、牵涉面广、个性化强等特点，标准化的产品往往难以满足甲方客户的需求，作为乙方提供服务时多数情况下
  ## [真假代餐：热量原罪的慰藉](http://www.chanpin100.com/article/113370)
  > 进化心理学有一个名为“Savanna principle”的基本假设：人类的演化速度很慢，生活方式的变化很快，前者没跟上后者步伐，导致大多数行为和思维还停留在史前水平。
  ## [打字你爱用哪个输入法？2020年中国第三方输入法市场发展洞察](http://www.chanpin100.com/article/113366)
@@ -131,33 +167,5 @@ categories: IT NEWS
  > 我们是平凡人在努力地追逐这个时代。与其仰望，不如并肩！做成一件事，成就一批人，告别埋头苦研，去客户那儿听真正的声音，一批人为一件事而努力，帮助中国三千万企业重构数据根基，实现数字化经营。
  ## [互联网人的家庭和谐秘诀就是这么简单](http://www.chanpin100.com/article/113359)
  > 你是否老被长辈们询问过这样的问题？明明看上去简单到不能再简单，并且你还回答了无数次，结果他们的脸上还是呈现着迷惑不解的神情。
- ## [从华为、腾讯风波看手游“新旧渠道”争夺](http://www.chanpin100.com/article/113357)
- > 2021年第一天，有许多华为用户发现，《王者荣耀》、《和平精英》等腾讯系游戏没办法从华为应用商店下载了。同一时间，华为游戏中心社区宣布，因“腾讯游戏单方面就双方合作做出重大变更”，随即作出腾讯游戏从华为平台下架的决定。
- ## [转型在即 大数据对城商行数字化赛道注入新动能](http://www.chanpin100.com/article/113356)
- > 2020年初爆发的一场疫情，将中小城商行在金融科技领域的不足进一步暴露出来，同时也促使中小城商行从业者对自身的数字化转型有了更多更深入的思考。银行业数据资源丰富，但是大部分中小城市商业银行的数据积累、分析、应用都处于起步阶段。如何充分利用海量数据，洞察未来银行业的发展趋势，并顺利完成数字化转型，已经
- ## [《极致产品》周鸿祎—读书笔记](http://www.chanpin100.com/article/113354)
- > 有些需求对于用户来说可有可无，如果产品成本不是很高，用户会使用，但是如果没有它，用户的生活也不会受到明显影响，这种就是“弱需求”，与之相反是“强需求”。
- ## [《人人都是产品经理2》读书笔记](http://www.chanpin100.com/article/113353)
- > 精读了一遍，发现很多的知识点，包括众多的方法论都特别实用，而且应用非常广泛。比如KANO模型、PEST分析，Scrum方法等等。
- ## [《从0到1》彼得·蒂尔——读书笔记](http://www.chanpin100.com/article/113352)
- > 本书作者是paypal黑帮的创始人，被誉为硅谷的顶尖创投家，有着不同凡响的背景。竞争是一种观念——这种观念在整个社会中蔓延，扭曲了我们的思想。我们宣扬竞争，内化竞争的必要性，颁布竞争的规则；结果就是竞争越来越激烈，我们实际获得的越来越少。
- ## [HiCar（嗨车）项目全案体验设计](http://www.chanpin100.com/article/113351)
- > 初入项目后，你是否有这种要大干一场，立刻让团队的人刮目相看的冲动？头脑发热的我们，也许每次一拿到需求就开始大干特干。但是到头来，不是被团队其他人嫌弃，就是被上司说教。
- ## [荔枝播客上线 小众“播客”大众化时代来了吗？](http://www.chanpin100.com/article/113349)
- > 通勤路上，打开荔枝App收听独立电台“北京话事人”的脱口秀节目已是北漂小Z日常的一种习惯，近期荔枝播客App上线，她成为首批尝鲜的用户之一。小z对天浩讲，播客们需要一个“根据地”，听众其实也需要，音频巨头加码这个赛道是好事。
- ## [2021年人工不智能](http://www.chanpin100.com/article/113348)
- > 如今AI研究的重点是让机器解决现实问题，但荒诞的是，AI的最大问题，就是数据不知道它正对应着一个现实世界。
- ## [盈鱼MA客群管理 精细化客户群组搭建](http://www.chanpin100.com/article/113345)
- > 精细化客户群体划分归类，方便营销活动的精准开展。新增客群分类：在新增客群时，必须要先新增客群分类，然后才能新增客群，并将该客群归属到该分类下。
- ## [神策数据“两云一平台”上线 拥抱数字化经营](http://www.chanpin100.com/article/113344)
- > 为更好帮助客户建立整个 SDAF 营销闭环，神策数据 “两云一平台”应运而生，它们将解决闭环中的各环节问题，并且搭建一台可持续闭环运转的数字化“发动机”。
- ## [2020年度手游广告投放趋势分析](http://www.chanpin100.com/article/113337)
- > 开年由于疫情的影响，人们的休闲时间增多，使得各类型手游吃了一波“宅家经济“的红利，整体市场中，在投的手游应用数量占比超六成，特别是休闲、网赚手游，无论在手游款数还是广告数上都表现出了绝对优势。
- ## [汽车行业营销探索方案——数字化变革提升销售效率](http://www.chanpin100.com/article/113336)
- > 汽车产业的销量逐年下降，利润也受到市场成本居高不下的挤压而减少，因此全面数字化营销转型对于汽车行业来说不仅扩充了用户的触点矩阵，让丰富的内容生态系统能更精准地触达用户，打破品牌与客户之间的沟通壁垒，从而深化消费认知，提高销售转化效率。
- ## [打工人都住在哪？当代租房人行为图鉴](http://www.chanpin100.com/article/113333)
- > 易观分析：2021元旦假期刚过，对全国人民而言魔幻般的2020终于过去，2021的新篇章正在缓缓拉开。然而，对于在去年年底蛋壳公寓爆雷中受到波及的租客、房东与相关工作人员来说，这个元旦可并不好过。打工人们熬过了疫情，保住了工作，没想到2020年底一个雷把自己的栖身之所给炸没了，而维权路漫漫。
- ## [斯图飞腾Stratifyd入选G22021文本分析软件高成长者象限](http://www.chanpin100.com/article/113330)
- > G2 Crowd是全球著名的B2B针对企业用户的软件评测平台，在同类网站中影响力最大、权威性最高，被称为商用软件领域的“大众点评”。G2利用超过1,000,000条用户评论来推动更好地购买决策。专业人士、买家、投资者和分析师使用该网站，根据同行评审和综合社交数据比较和选择最佳的软件与服务。
 
     
