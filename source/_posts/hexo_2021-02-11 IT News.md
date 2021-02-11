@@ -1,20 +1,22 @@
 ---
 title: 2021-02-11 IT News
 copyright: true
-date: 2021-02-11 08:59:12
+date: 2021-02-11 09:52:34
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [《中国汽车科技趋势报告(2021年)》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613003405&ver=2883&signature=0LvuZH-5uAsUbgX4sOX2tYCHmYHZFS6TJNI9j0IceFkELps9u0ztmZkV*zZ*91w6RFfqcHE3S6qXOoU3A1g0QuBRcj8hoY*-OKFAKN4fXTmybJ*cp951YgsTY600YFDw&new=1)
- > 2021年2月10日，由《建约车评》出品的《中国汽车科技趋势报告（2021年）》正式发布。该报告主要对未来5年智能电动车产业的一些重要趋势进行预测，希望对包括汽车制造商、科技公司、智能电动化供应链、传统供应商...
- ## [百度成立AI芯片公司，2万量产芯片背后的“中国攻芯计”](http://mp.weixin.qq.com/s?src=11&timestamp=1613003405&ver=2883&signature=M*pybwo44Fi4T8*HPpyt4laezj5De47874zWKjQvCOvDbz176mmLHfpkZOBqZVuOLGQVGr05pKQvJHkdMu9V12gwhXs56yAgmfHHgpAQnGuUREw8QrvcHGXRWaolBvCg&new=1)
+ ## [百度成立AI芯片公司，2万量产芯片背后的“中国攻芯计”](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=M*pybwo44Fi4T8*HPpyt4laezj5De47874zWKjQvCOvDbz176mmLHfpkZOBqZVuO-wiA3Y1o-y8pZLQc9b-*J7gmj9WrFvTZ*otKMdr1-A3wPuKtjqpC21Nx7yzL3t1y&new=1)
  > ► 文/观察者网科工力量 龙科多2月9日，据CNBC报道，百度正在为成立一个独立的AI芯片企业筹集资金。百度正式加入芯片这场硬仗。目前，百度自主研发的AI芯片昆仑1已量产2万片，在百度搜索引擎、百度无人驾驶汽车...
- ## [智能家居大变局背后，为什么胜出的是美的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613003405&ver=2883&signature=qCsxNRHL24lgipp3vqa88*eeDlhj3nbz2hlzAv72dv3TbojKVsbAEjF7edrwRBc7jEwSsE9j9yUIcpNozW0jIv0HHxL2PfAc4SY5XbkW*2klk2eTEyf8NhQIUcyh9AqU&new=1)
+ ## [智能家居大变局背后，为什么胜出的是美的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=qCsxNRHL24lgipp3vqa88*eeDlhj3nbz2hlzAv72dv3TbojKVsbAEjF7edrwRBc7H2dj44Lf-KtqJBCY8oOm*A2-mcczJyOo3aAbFEZ8tfMzQU7TkswQV4sSxVmgRdPu&new=1)
  > 互联网行业的玩家在面向以AIOT战略为核心支撑点的未来时，往往忽略了“万物互联”中最核心的一环“物”，而这恰恰是看似“最传统”玩家美的的巨大优势。2020年，智能家居行业经历了一场超级大变局。让小米等互联...
- ## [全球芯片产能过剩将找华为购买芯片，这可能只是它的幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1613003405&ver=2883&signature=L68tbrUfpkKzg4XQdYn8u9jqEwXRX-1ha5tv8Qx6qjh8dA4vWJOnynAY*zss6WhPNNeDQ4p-SzSuvs-UhEbHkktyXE5YzIJ1ZKpSoCz0OWBs2tv5qPE1bxT9wRj--8KF&new=1)
+ ## [\[报告\]新能源汽车深度解析：从智能视角看电动(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=5QXjqLGCDfFzTbWcLTonUIg59EspCcnO3mC4U2fd6jQx6WytiraMVug1HyYQ7u6Sm3wPHPZzfoxtRQjA1WD9mf-ecXopF8Xeke7x3zfvXy6pad4v4a8edNhviGwnTX4d&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│中信证券本报告共计：37页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [全球芯片产能过剩将找华为购买芯片，这可能只是它的幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=L68tbrUfpkKzg4XQdYn8u9jqEwXRX-1ha5tv8Qx6qjh8dA4vWJOnynAY*zss6WhPayxEk*bwkSQgrGYljz-HkayA2Z5DLbZxIPLlvB8uXqc5pRCV5aLJ5oA5tPIzhcfG&new=1)
  > 多家媒体报道指华为创始人任正非表示当全球芯片过剩的时候将会有人找华为买芯片，可是回顾2020年的发展就会发现这可能仅仅是他的幻想。据Gartner公布的2020年全球前十大芯片买家的数据显示，这一年华为采购的芯...
- ## [为行业数字化转型注入加速度：移远率先推出支持R16标准的5G模组](http://mp.weixin.qq.com/s?src=11&timestamp=1613003405&ver=2883&signature=LEqWCbu8lsYM2aYprmxI40mJmo*LV9bvogvSbwO5WWGgQgPPnv0DMyhZm7Q3WfaBeVjs-URSMbDPmzzGdGJ6jUR3PdbWD1ACKvVvrCPqts9RoqCHYOGZEqttXIGuYWmi&new=1)
+ ## [《中国汽车科技趋势报告(2021年)》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=0LvuZH-5uAsUbgX4sOX2tYCHmYHZFS6TJNI9j0IceFkELps9u0ztmZkV*zZ*91w6tMRoGgDgfW0s8pwuCSI8348vWygYMHH1Aah16Jhz5nHwlyv2iJdLCTJo1-tKMRKV&new=1)
+ > 2021年2月10日，由《建约车评》出品的《中国汽车科技趋势报告（2021年）》正式发布。该报告主要对未来5年智能电动车产业的一些重要趋势进行预测，希望对包括汽车制造商、科技公司、智能电动化供应链、传统供应商...
+ ## [为行业数字化转型注入加速度：移远率先推出支持R16标准的5G模组](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=LEqWCbu8lsYM2aYprmxI40mJmo*LV9bvogvSbwO5WWGgQgPPnv0DMyhZm7Q3WfaB5MtRUbvYPBeetBKkjYq1GLDcMQ8Hwxhi4MjUEbJuh1SwlkcwCwRzRswnc1jcrxO5&new=1)
  > 自去年7月3日3GPP宣布R16标准冻结之后，业界在标准侧增强了对5G真正开启万物互联新世界、使能千行百业数字化转型的信心。在产业链分工中，作为上游标准化芯片与下游高度碎片化的垂直应用领域的中间环节，模组的...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -31,8 +33,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [MySQL物理备份恢复实战2之mysqlbackup企业版_MySQL数据库备份与恢复06](http://fellow.51cto.com/art/202012/634849.htm?qd=51ctojrzd)
- > MySQL物理备份恢复实战2之mysqlbackup企业版_MySQL数据库备份与恢复06
+ ## [ThinkPHP5标准视频教程（第七部：综合应用篇【中】）（七日成蝶）](http://fellow.51cto.com/art/202012/636247.htm?qd=51ctojrzd)
+ > ThinkPHP5标准视频教程（第七部：综合应用篇【中】）（七日成蝶）
  ## [联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重](https://blog.csdn.net/weixin_40192662/article/details/113734861)
  > 联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -53,16 +55,16 @@ categories: IT NEWS
  > 2021年2月程序员工资统计，平均15144元
  ## [35岁的程序员：第26章，回家](https://blog.csdn.net/wyb_robin/article/details/113763098)
  > 35岁的程序员：第26章，回家
- ## [Java SSM练手小项目-手把手带你搭建一个基于SSM框架的人力资源管理后台系统](https://blog.csdn.net/noaman_wgs/article/details/79503559)
- > Java SSM练手小项目-手把手带你搭建一个基于SSM框架的人力资源管理后台系统
- ## [开发的必杀技：Git 的分支管理](https://blog.csdn.net/devcloud/article/details/113247561)
- > 开发的必杀技：Git 的分支管理
- ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
- > 
- ## [华为C语言编程规范（精华总结）](https://blog.csdn.net/m0_38106923/article/details/105042594)
- > 
  ## [\[GO语言基础\] 一.为什么我要学习Golang以及GO语言入门普及](https://blog.csdn.net/Eastmount/article/details/111150449)
  > 
+ ## [真惨！连各大编程语言都摆起地摊了！](https://blog.csdn.net/xuanyuan_fsx/article/details/106658585)
+ > 
+ ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
+ > 
+ ## [C学生选课系统](https://blog.csdn.net/robot_sh/article/details/111490271)
+ > C学生选课系统
+ ## [Python快速编程入门课后程序题答案](https://blog.csdn.net/lzyws739307453/article/details/92851871)
+ > Python快速编程入门课后程序题答案
 # 人工智能 
  ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
  > 分布式存储引擎大厂实战——一致性哈希在大厂的应用
