@@ -1,26 +1,26 @@
 ---
 title: 2021-02-11 IT News
 copyright: true
-date: 2021-02-11 10:43:39
+date: 2021-02-11 12:31:34
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[报告\]新能源汽车深度解析：从智能视角看电动(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=5QXjqLGCDfFzTbWcLTonUIg59EspCcnO3mC4U2fd6jQNgmuKBdYFfjESrkgyIrXpqtz1YaZpUMoc0L3wj3bdLEYwZuel88DyS8aLZ2CGAU18Qun86dD*-CME7*nxBxK7&new=1)
- > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│中信证券本报告共计：37页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
- ## [《中国汽车科技趋势报告(2021年)》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=0LvuZH-5uAsUbgX4sOX2tYCHmYHZFS6TJNI9j0IceFkW4VdO-8gVhGXN5gwc2qMTINwznpAojzICXAH*KJpNHXHQWC2buEwL2mgZJn7IrpWd5IlK2fJtxGxdz6aI7TEA&new=1)
+ ## [《中国汽车科技趋势报告(2021年)》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=0LvuZH-5uAsUbgX4sOX2tYCHmYHZFS6TJNI9j0IceFkW4VdO-8gVhGXN5gwc2qMTfg6JFaXZAJZFzoe0phxuwfduVAXeBBbRpzYPqeJhJxg*BlWqnHN7Rge2IfARsAJo&new=1)
  > 2021年2月10日，由《建约车评》出品的《中国汽车科技趋势报告（2021年）》正式发布。该报告主要对未来5年智能电动车产业的一些重要趋势进行预测，希望对包括汽车制造商、科技公司、智能电动化供应链、传统供应商...
- ## [突围路上，华为不孤单](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=CKAYcM*TfYgmgdYQIuUpbIfcsL3*qSGKQ*NZZsFP9-*xHwFI*1swoz7hhz*FLn3yarXna7-eUh19yY8hPqELp2XxtWAU*zETL833fe8V38aL-c8fV9kpWxV85JOo3YU*&new=1)
+ ## [突围路上，华为不孤单](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=CKAYcM*TfYgmgdYQIuUpbIfcsL3*qSGKQ*NZZsFP9-*xHwFI*1swoz7hhz*FLn3y-KhBWtufsxaS*zPcsrYvmZIH83-023ocmhlaYvYwiR4qSMxYid4Yunr1UwZlm-RV&new=1)
  > 作者：朱长生（华语智库执行秘书长）自2012年起，美国众议院以华为和中兴通讯对美国国家安全造成威胁为由，对外宣称将采取封杀措施，至今已经有8年之久。美国举全国之力，施压、联合盟友，以产品的安全性为借口...
- ## [手术：双手和面部同时移植，Materialise的3D打印立功了](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=-mOxojKPJHXZM3bPXuMkd2PL*rdzv4KOpbAv3BtKBQv5mrafs*IMCoiyzVecSpKIRELoWe8jBwglEI7U8IaIbSyw4-xNS0z7NxxJEHxt0GLF18B2octfmcHDo0ZIiG6O&new=1)
- > 美国新泽西州22岁男子迪梅奥2018年遭遇一场严重车祸，汽车起火造成他全身逾八成面积三度烧伤，脸部严重变形，手指残缺不全。为了让他恢复到正常生活，纽约大学朗格尼健康中心在2020年8月20日进行了一台耗时近24...
- ## [全球芯片产能过剩将找华为购买芯片，这可能只是它的幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=L68tbrUfpkKzg4XQdYn8u9jqEwXRX-1ha5tv8Qx6qji1MF93m*Qt41Wak-Aw0XPU3zd2mzDR19hIfPFTxWYI3sAC47DBV2gy8Jct*ZOsIfiI1PN71jzIjd93LdSlQwEQ&new=1)
+ ## [全球芯片产能过剩将找华为购买芯片，这可能只是它的幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=L68tbrUfpkKzg4XQdYn8u9jqEwXRX-1ha5tv8Qx6qji1MF93m*Qt41Wak-Aw0XPUBkePYcRgtgHNJG0yBq8kG5kOQzQxx2GO63dxosF3tNkEP2OynhFYA4aAQaMf9Eal&new=1)
  > 多家媒体报道指华为创始人任正非表示当全球芯片过剩的时候将会有人找华为买芯片，可是回顾2020年的发展就会发现这可能仅仅是他的幻想。据Gartner公布的2020年全球前十大芯片买家的数据显示，这一年华为采购的芯...
- ## [百度成立AI芯片公司，2万量产芯片背后的“中国攻芯计”](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=M*pybwo44Fi4T8*HPpyt4laezj5De47874zWKjQvCOsAdsX8W2biCQfmt19b4vf6-*SekBS9xoVjKwsZyuAH60tHxFbtqactdffkA1fwzHjfnD6Z4MUU*8qazE0NBh27&new=1)
+ ## [\[报告\]新能源汽车深度解析：从智能视角看电动(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=5QXjqLGCDfFzTbWcLTonUIg59EspCcnO3mC4U2fd6jQNgmuKBdYFfjESrkgyIrXpIH-DtYroG7PKz5dOsqJKos3zKMki1EnIbMYatKFdnJNN8ftLATMf7E4hOu6l0KEP&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│中信证券本报告共计：37页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [手术：双手和面部同时移植，Materialise的3D打印立功了](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=-mOxojKPJHXZM3bPXuMkd2PL*rdzv4KOpbAv3BtKBQv5mrafs*IMCoiyzVecSpKI7cn9I6V1E2u*30f6dXQOIqy96ohnZ5gm-A21JVZw9v2bcNXdrl3BIbs6ejmEgQgG&new=1)
+ > 美国新泽西州22岁男子迪梅奥2018年遭遇一场严重车祸，汽车起火造成他全身逾八成面积三度烧伤，脸部严重变形，手指残缺不全。为了让他恢复到正常生活，纽约大学朗格尼健康中心在2020年8月20日进行了一台耗时近24...
+ ## [百度成立AI芯片公司，2万量产芯片背后的“中国攻芯计”](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=M*pybwo44Fi4T8*HPpyt4laezj5De47874zWKjQvCOsAdsX8W2biCQfmt19b4vf6n7NUGeWBF*cTklI4Og5y8gmpRjX8lSAAc6tk0bUX*1ajLFz-ac*k6oiX*zWkZQw7&new=1)
  > ► 文/观察者网科工力量 龙科多2月9日，据CNBC报道，百度正在为成立一个独立的AI芯片企业筹集资金。百度正式加入芯片这场硬仗。目前，百度自主研发的AI芯片昆仑1已量产2万片，在百度搜索引擎、百度无人驾驶汽车...
- ## [智能家居大变局背后，为什么胜出的是美的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=qCsxNRHL24lgipp3vqa88*eeDlhj3nbz2hlzAv72dv0qEEy-0jyVEnI*s479aTgGf93Qj5*GyQGr39WECzTgKEgPRkDrVBCvPmJfNk*lqHWbj1uv7oAhgV7vTooQPNJD&new=1)
+ ## [智能家居大变局背后，为什么胜出的是美的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=qCsxNRHL24lgipp3vqa88*eeDlhj3nbz2hlzAv72dv0qEEy-0jyVEnI*s479aTgG7Sc1BcQrGqp1c9SBEcDN9RhFUyJ3wIZaU8O3G6hFadP3Xfw4ufgSO3KomtUF8tag&new=1)
  > 互联网行业的玩家在面向以AIOT战略为核心支撑点的未来时，往往忽略了“万物互联”中最核心的一环“物”，而这恰恰是看似“最传统”玩家美的的巨大优势。2020年，智能家居行业经历了一场超级大变局。让小米等互联...
- ## [为行业数字化转型注入加速度：移远率先推出支持R16标准的5G模组](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=LEqWCbu8lsYM2aYprmxI40mJmo*LV9bvogvSbwO5WWEAkuDhsMTH*LqYxDTKfsAxqwYEajfaQJwLQ-0EFecCgb8cVfUMGiciJOeWE8LGiteoloUHFQ1wwbgKdXg1lx**&new=1)
+ ## [为行业数字化转型注入加速度：移远率先推出支持R16标准的5G模组](http://mp.weixin.qq.com/s?src=11&timestamp=1613017804&ver=2883&signature=LEqWCbu8lsYM2aYprmxI40mJmo*LV9bvogvSbwO5WWEAkuDhsMTH*LqYxDTKfsAxz7LOLVegxS9GEB1I80AdcC7XEZL2o989jpwKUhiFYGzWKr54xSFiliwPhO7VeEOY&new=1)
  > 自去年7月3日3GPP宣布R16标准冻结之后，业界在标准侧增强了对5G真正开启万物互联新世界、使能千行百业数字化转型的信心。在产业链分工中，作为上游标准化芯片与下游高度碎片化的垂直应用领域的中间环节，模组的...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -37,8 +37,26 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [2021年软考软件设计师--基础知识实战培训视频课程](http://fellow.51cto.com/art/202101/638872.htm?qd=51ctojrzd)
- > 2021年软考软件设计师--基础知识实战培训视频课程
+ ## [域名解析完整讲解视频课程](http://fellow.51cto.com/art/202101/641362.htm?qd=51ctojrzd)
+ > 域名解析完整讲解视频课程
+ ## [Messari: Web3是什么？](http://zhuanlan.51cto.com/art/202102/645539.htm)
+ > 一言以蔽之――Web3是互联网的下一个时代。Web 3.0，通常称为Web3，是一种范型，这种范型推动互联网向更民
+ ## [一文详解 CSS-in-JS](http://zhuanlan.51cto.com/art/202102/645538.htm)
+ > 几年前，如果有人提到用 JavaScript 编写 HTML 作为构建大型网站的一种方式，很多开发者会当这作不可理喻的
+ ## [超易懂！原来 SOLID 原则要这么理解！](http://developer.51cto.com/art/202102/645537.htm)
+ > 说到 SOLID 原则，相信有过几年工作经验的朋友都有个大概印象，但就是不知道它具体是什么。甚至有些工作了
+ ## [MySQL的Connection-Control插件](http://database.51cto.com/art/202102/645536.htm)
+ > 在Oracle和SQL Server数据库中，可以设置一些复杂的账号密码策略，例如在失败登录超过N次即可锁定账号，那
+ ## [聊聊 Wpf 数据绑定实例](http://os.51cto.com/art/202102/645535.htm)
+ > 监听事件机制，界面改变有TextChanged之类的事件，所以改变界面可以同步修改到对象。
+ ## [适合具备 C 语言基础的 C++ 教程之二](http://developer.51cto.com/art/202102/645534.htm)
+ > 在上一则教程中，通过与 C 语言相比较引出了 C++ 的相关特性，其中就包括函数重载，引用，this 指针，以及
+ ## [聊聊中间件开发](http://developer.51cto.com/art/202102/645533.htm)
+ > 最近频繁地在跟实习生候选人打交道，每次新接触一个候选人，都要花上一定的时间去介绍我们团队，候选人问的
+ ## [治疗磁盘空间不足焦虑症，释放容器占用空间――Window10+Docker篇](http://os.51cto.com/art/202102/645532.htm)
+ > 署测试环境实在太方便了，然后毫无节制的拉镜像，最后导致了磁盘空间不足，但是你直接在控制面板里删除imag
+ ## [五分钟说清楚 Spring Boot的自动配置原理](http://developer.51cto.com/art/202102/645531.htm)
+ > Spring Boot没有火起来之前，使用SSM架构的项目那是相当的多，现在也有不少项目还是使用这种架构。
  ## [联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重](https://blog.csdn.net/weixin_40192662/article/details/113734861)
  > 联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -59,16 +77,16 @@ categories: IT NEWS
  > 2021年2月程序员工资统计，平均15144元
  ## [35岁的程序员：第26章，回家](https://blog.csdn.net/wyb_robin/article/details/113763098)
  > 35岁的程序员：第26章，回家
- ## [\[GO语言基础\] 一.为什么我要学习Golang以及GO语言入门普及](https://blog.csdn.net/Eastmount/article/details/111150449)
- > 
- ## [真惨！连各大编程语言都摆起地摊了！](https://blog.csdn.net/xuanyuan_fsx/article/details/106658585)
- > 
+ ## [Java SSM练手小项目-手把手带你搭建一个基于SSM框架的人力资源管理后台系统](https://blog.csdn.net/noaman_wgs/article/details/79503559)
+ > Java SSM练手小项目-手把手带你搭建一个基于SSM框架的人力资源管理后台系统
+ ## [开发的必杀技：Git 的分支管理](https://blog.csdn.net/devcloud/article/details/113247561)
+ > 开发的必杀技：Git 的分支管理
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [C学生选课系统](https://blog.csdn.net/robot_sh/article/details/111490271)
- > C学生选课系统
- ## [Python快速编程入门课后程序题答案](https://blog.csdn.net/lzyws739307453/article/details/92851871)
- > Python快速编程入门课后程序题答案
+ ## [华为C语言编程规范（精华总结）](https://blog.csdn.net/m0_38106923/article/details/105042594)
+ > 
+ ## [\[GO语言基础\] 一.为什么我要学习Golang以及GO语言入门普及](https://blog.csdn.net/Eastmount/article/details/111150449)
+ > 
 # 人工智能 
  ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
  > 分布式存储引擎大厂实战——一致性哈希在大厂的应用
