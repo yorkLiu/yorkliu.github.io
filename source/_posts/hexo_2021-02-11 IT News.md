@@ -1,22 +1,26 @@
 ---
 title: 2021-02-11 IT News
 copyright: true
-date: 2021-02-11 09:52:34
+date: 2021-02-11 10:43:39
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [百度成立AI芯片公司，2万量产芯片背后的“中国攻芯计”](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=M*pybwo44Fi4T8*HPpyt4laezj5De47874zWKjQvCOvDbz176mmLHfpkZOBqZVuO-wiA3Y1o-y8pZLQc9b-*J7gmj9WrFvTZ*otKMdr1-A3wPuKtjqpC21Nx7yzL3t1y&new=1)
- > ► 文/观察者网科工力量 龙科多2月9日，据CNBC报道，百度正在为成立一个独立的AI芯片企业筹集资金。百度正式加入芯片这场硬仗。目前，百度自主研发的AI芯片昆仑1已量产2万片，在百度搜索引擎、百度无人驾驶汽车...
- ## [智能家居大变局背后，为什么胜出的是美的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=qCsxNRHL24lgipp3vqa88*eeDlhj3nbz2hlzAv72dv3TbojKVsbAEjF7edrwRBc7H2dj44Lf-KtqJBCY8oOm*A2-mcczJyOo3aAbFEZ8tfMzQU7TkswQV4sSxVmgRdPu&new=1)
- > 互联网行业的玩家在面向以AIOT战略为核心支撑点的未来时，往往忽略了“万物互联”中最核心的一环“物”，而这恰恰是看似“最传统”玩家美的的巨大优势。2020年，智能家居行业经历了一场超级大变局。让小米等互联...
- ## [\[报告\]新能源汽车深度解析：从智能视角看电动(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=5QXjqLGCDfFzTbWcLTonUIg59EspCcnO3mC4U2fd6jQx6WytiraMVug1HyYQ7u6Sm3wPHPZzfoxtRQjA1WD9mf-ecXopF8Xeke7x3zfvXy6pad4v4a8edNhviGwnTX4d&new=1)
+ ## [\[报告\]新能源汽车深度解析：从智能视角看电动(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=5QXjqLGCDfFzTbWcLTonUIg59EspCcnO3mC4U2fd6jQNgmuKBdYFfjESrkgyIrXpqtz1YaZpUMoc0L3wj3bdLEYwZuel88DyS8aLZ2CGAU18Qun86dD*-CME7*nxBxK7&new=1)
  > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│中信证券本报告共计：37页。如欲获取完整版PDF文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
- ## [全球芯片产能过剩将找华为购买芯片，这可能只是它的幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=L68tbrUfpkKzg4XQdYn8u9jqEwXRX-1ha5tv8Qx6qjh8dA4vWJOnynAY*zss6WhPayxEk*bwkSQgrGYljz-HkayA2Z5DLbZxIPLlvB8uXqc5pRCV5aLJ5oA5tPIzhcfG&new=1)
- > 多家媒体报道指华为创始人任正非表示当全球芯片过剩的时候将会有人找华为买芯片，可是回顾2020年的发展就会发现这可能仅仅是他的幻想。据Gartner公布的2020年全球前十大芯片买家的数据显示，这一年华为采购的芯...
- ## [《中国汽车科技趋势报告(2021年)》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=0LvuZH-5uAsUbgX4sOX2tYCHmYHZFS6TJNI9j0IceFkELps9u0ztmZkV*zZ*91w6tMRoGgDgfW0s8pwuCSI8348vWygYMHH1Aah16Jhz5nHwlyv2iJdLCTJo1-tKMRKV&new=1)
+ ## [《中国汽车科技趋势报告(2021年)》正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=0LvuZH-5uAsUbgX4sOX2tYCHmYHZFS6TJNI9j0IceFkW4VdO-8gVhGXN5gwc2qMTINwznpAojzICXAH*KJpNHXHQWC2buEwL2mgZJn7IrpWd5IlK2fJtxGxdz6aI7TEA&new=1)
  > 2021年2月10日，由《建约车评》出品的《中国汽车科技趋势报告（2021年）》正式发布。该报告主要对未来5年智能电动车产业的一些重要趋势进行预测，希望对包括汽车制造商、科技公司、智能电动化供应链、传统供应商...
- ## [为行业数字化转型注入加速度：移远率先推出支持R16标准的5G模组](http://mp.weixin.qq.com/s?src=11&timestamp=1613007004&ver=2883&signature=LEqWCbu8lsYM2aYprmxI40mJmo*LV9bvogvSbwO5WWGgQgPPnv0DMyhZm7Q3WfaB5MtRUbvYPBeetBKkjYq1GLDcMQ8Hwxhi4MjUEbJuh1SwlkcwCwRzRswnc1jcrxO5&new=1)
+ ## [突围路上，华为不孤单](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=CKAYcM*TfYgmgdYQIuUpbIfcsL3*qSGKQ*NZZsFP9-*xHwFI*1swoz7hhz*FLn3yarXna7-eUh19yY8hPqELp2XxtWAU*zETL833fe8V38aL-c8fV9kpWxV85JOo3YU*&new=1)
+ > 作者：朱长生（华语智库执行秘书长）自2012年起，美国众议院以华为和中兴通讯对美国国家安全造成威胁为由，对外宣称将采取封杀措施，至今已经有8年之久。美国举全国之力，施压、联合盟友，以产品的安全性为借口...
+ ## [手术：双手和面部同时移植，Materialise的3D打印立功了](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=-mOxojKPJHXZM3bPXuMkd2PL*rdzv4KOpbAv3BtKBQv5mrafs*IMCoiyzVecSpKIRELoWe8jBwglEI7U8IaIbSyw4-xNS0z7NxxJEHxt0GLF18B2octfmcHDo0ZIiG6O&new=1)
+ > 美国新泽西州22岁男子迪梅奥2018年遭遇一场严重车祸，汽车起火造成他全身逾八成面积三度烧伤，脸部严重变形，手指残缺不全。为了让他恢复到正常生活，纽约大学朗格尼健康中心在2020年8月20日进行了一台耗时近24...
+ ## [全球芯片产能过剩将找华为购买芯片，这可能只是它的幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=L68tbrUfpkKzg4XQdYn8u9jqEwXRX-1ha5tv8Qx6qji1MF93m*Qt41Wak-Aw0XPU3zd2mzDR19hIfPFTxWYI3sAC47DBV2gy8Jct*ZOsIfiI1PN71jzIjd93LdSlQwEQ&new=1)
+ > 多家媒体报道指华为创始人任正非表示当全球芯片过剩的时候将会有人找华为买芯片，可是回顾2020年的发展就会发现这可能仅仅是他的幻想。据Gartner公布的2020年全球前十大芯片买家的数据显示，这一年华为采购的芯...
+ ## [百度成立AI芯片公司，2万量产芯片背后的“中国攻芯计”](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=M*pybwo44Fi4T8*HPpyt4laezj5De47874zWKjQvCOsAdsX8W2biCQfmt19b4vf6-*SekBS9xoVjKwsZyuAH60tHxFbtqactdffkA1fwzHjfnD6Z4MUU*8qazE0NBh27&new=1)
+ > ► 文/观察者网科工力量 龙科多2月9日，据CNBC报道，百度正在为成立一个独立的AI芯片企业筹集资金。百度正式加入芯片这场硬仗。目前，百度自主研发的AI芯片昆仑1已量产2万片，在百度搜索引擎、百度无人驾驶汽车...
+ ## [智能家居大变局背后，为什么胜出的是美的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=qCsxNRHL24lgipp3vqa88*eeDlhj3nbz2hlzAv72dv0qEEy-0jyVEnI*s479aTgGf93Qj5*GyQGr39WECzTgKEgPRkDrVBCvPmJfNk*lqHWbj1uv7oAhgV7vTooQPNJD&new=1)
+ > 互联网行业的玩家在面向以AIOT战略为核心支撑点的未来时，往往忽略了“万物互联”中最核心的一环“物”，而这恰恰是看似“最传统”玩家美的的巨大优势。2020年，智能家居行业经历了一场超级大变局。让小米等互联...
+ ## [为行业数字化转型注入加速度：移远率先推出支持R16标准的5G模组](http://mp.weixin.qq.com/s?src=11&timestamp=1613010604&ver=2883&signature=LEqWCbu8lsYM2aYprmxI40mJmo*LV9bvogvSbwO5WWEAkuDhsMTH*LqYxDTKfsAxqwYEajfaQJwLQ-0EFecCgb8cVfUMGiciJOeWE8LGiteoloUHFQ1wwbgKdXg1lx**&new=1)
  > 自去年7月3日3GPP宣布R16标准冻结之后，业界在标准侧增强了对5G真正开启万物互联新世界、使能千行百业数字化转型的信心。在产业链分工中，作为上游标准化芯片与下游高度碎片化的垂直应用领域的中间环节，模组的...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -33,8 +37,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [ThinkPHP5标准视频教程（第七部：综合应用篇【中】）（七日成蝶）](http://fellow.51cto.com/art/202012/636247.htm?qd=51ctojrzd)
- > ThinkPHP5标准视频教程（第七部：综合应用篇【中】）（七日成蝶）
+ ## [2021年软考软件设计师--基础知识实战培训视频课程](http://fellow.51cto.com/art/202101/638872.htm?qd=51ctojrzd)
+ > 2021年软考软件设计师--基础知识实战培训视频课程
  ## [联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重](https://blog.csdn.net/weixin_40192662/article/details/113734861)
  > 联通宽带被诉信号变差向用户推付费产品，营销套路多用户流失严重
  ## [学会这个用这个做PPT，把24小时的工作变成1秒！高效神器保住你的发际线~](https://blog.csdn.net/islide/article/details/112040956)
@@ -68,8 +72,8 @@ categories: IT NEWS
 # 人工智能 
  ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
  > 分布式存储引擎大厂实战——一致性哈希在大厂的应用
- ## [云原生人物志|Pulsar翟佳：社区的信任最重要](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/113539301)
- > 云原生人物志|Pulsar翟佳：社区的信任最重要
+ ## [云原生人物志 | Pulsar翟佳：社区的信任最重要](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/113667179)
+ > 云原生人物志 | Pulsar翟佳：社区的信任最重要
  ## [记录一次线上 Oracle 数据库 ORA-00060: deadlock detected 故障案例](https://blog.csdn.net/defonds/article/details/113702497)
  > 记录一次线上 Oracle 数据库 ORA-00060: deadlock detected 故障案例
  ## [从 C 1.0 到 C 9.0，历代 C 语言特性一览](https://blog.csdn.net/qinyuanpei/article/details/113720157)
@@ -90,12 +94,12 @@ categories: IT NEWS
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [Egret Native1.1.0版本发布,修复多个问题](https://blog.csdn.net/weixin_41926242/article/details/113756844)
  > Egret Native1.1.0版本发布,修复多个问题
- ## [种草一个让程序员男友记住一辈子的神仙插件！](https://blog.csdn.net/jdk_wangtaida/article/details/113744537)
- > 种草一个让程序员男友记住一辈子的神仙插件！
- ## [Python 将 QQ 聊天记录生成词云（分手了如何欢度情人节？）](https://blog.csdn.net/j1231230/article/details/113743564)
- > Python 将 QQ 聊天记录生成词云（分手了如何欢度情人节？）
- ## [免费制作一个属于你的微信红包封面](https://blog.csdn.net/qq_42965739/article/details/113751052)
- > 免费制作一个属于你的微信红包封面
+ ## [GCC 11 的静态分析功能将得到增强](https://blog.csdn.net/lianshaohua/article/details/113761247)
+ > GCC 11 的静态分析功能将得到增强
+ ## [Go语言学习技术路线图2021发布了！](https://blog.csdn.net/bigwhite20xx/article/details/113764711)
+ > Go语言学习技术路线图2021发布了！
+ ## [Go性能调优-pprof](https://blog.csdn.net/uisoul/article/details/113767329)
+ > Go性能调优-pprof
 # PM 
  ## [给新入职小朋友的三点建议](http://www.chanpin100.com/article/113522)
  > 马上就要过年了，但这个时候依然有崭新的小朋友陆续入职，或还在度过实习期，那么在这个过程中，如何平稳的上升度过呢。
