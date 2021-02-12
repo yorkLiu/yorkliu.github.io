@@ -1,21 +1,21 @@
 ---
 title: 2021-02-12 IT News
 copyright: true
-date: 2021-02-12 08:50:11
+date: 2021-02-12 09:42:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Apple View!](http://mp.weixin.qq.com/s?src=11&timestamp=1613089804&ver=2885&signature=6P0ZQ*ei6Pgim4*ITFwhBvAJEM6s84tpZ-s8v7RHWF6E8Bg7eDsc8NsbRkpj*OTCmn79UYwa9bnqDU32JNoFHUe5AsphJVos*sbFh7GENQ5GC9eJZmJOnViXmV8snewr&new=1)
- > 几天前，The Information 网站分享了疑似为 苹果 AR/VR 眼镜的设计渲染图。这次，设计师 Antonio De Rosa 基于这个设计带来了更多渲染图，并同时将 苹果 AR/VR 眼镜命名为 Apple View。传言称
- ## [8K直播、裸眼3D……央视春晚为“就地过年”的你送上浓浓的“科技年味”](http://mp.weixin.qq.com/s?src=11&timestamp=1613089804&ver=2885&signature=1*D*Ag-VlUNaDWIjJx99evsh-BtK4fkUJLuPGsByU5I0BbLzlKrAmRySgf5NrkV6nL4Io7LYK50RExolx2t43PjBLXcmq9w0XIhM3Aw9HZd95IguvgdFJcA1upTDxucw&new=1)
+ ## [8K直播、裸眼3D……央视春晚为“就地过年”的你送上浓浓的“科技年味”](http://mp.weixin.qq.com/s?src=11&timestamp=1613093404&ver=2885&signature=1*D*Ag-VlUNaDWIjJx99evsh-BtK4fkUJLuPGsByU5ITVmxB0l-qto8P2a3N*KQ*v2DSUktKdReykIQOguzZQ83Bldc-OttDTkIy3ws*SOWjl0mGv-uGf0amPOWr8X2C&new=1)
  > ◎ 科技日报记者 马爱平万民安康辞鼠岁，欢歌笑语迎牛年。2月11日大年三十晚上20:00，2021年中央广播电视总台春节联欢晚会如约而至。大家都看了么？最喜欢哪个节目？春晚不仅是一台文艺盛宴，同时也是科技创新的...
- ## [大年初一拉家常必备，盘点春晚史上的黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1613089804&ver=2885&signature=IDoyrifjIr7Y-Z9DqJbVHX528EUrebYTI47O9DIfV*B8k3gkWGK7QJUBxByyH9zb4gKzfPHYqnMLhADpbztmTKeVQKyVNhwpms0buqSuAQ-TcqyAg8mXjmj7LDyF8QJS&new=1)
- > 记忆中，每年大年三十一家人其乐融融地坐在一起，嗑着瓜子、拉着家常、看着春节联欢晚会，一边嘻嘻哈哈，一边叹惋春晚现场用到的科技。时光荏苒，从最早的LED显示技术，到后来的VR，再到无人驾驶等，从1983年到2...
- ## [黑入苹果特斯拉竟如此容易!这位鬼才的攻击方法火了，微软等35家公司一起悬赏](http://mp.weixin.qq.com/s?src=11&timestamp=1613089804&ver=2885&signature=CttVyKI3zDXGVMNGTWGBrWHJSobEdyAzeXZfWusiC3tmuN48WI34*jSch8DlkzWSJcsUxFLz15Z8a0A7beHem43AjH8XzVGi7UW7F-X0VtRZyZyE4gcC-x6zIoVjcpNn&new=1)
- > 边策 金磊 发自 凹非寺 量子位 报道 | 公众号 QbitAI论攻击科技巨头有多难？非常容易，而且是简单到极致的那种。只需要制造虚假的pip、npm软件包，就可以轻松攻破微软、苹果、特斯拉、PayPal、Yelp等数十家科技...
- ## [2020实“鼠”不易，2021“牛”转乾坤|WiFi万能钥匙2020年度回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1613089804&ver=2885&signature=AG1y3vbydgSgAOR-x5bMwuuZqBRyAL3ryrSkdo9A6DFunNusC3GAkoKvTf*GBZS-K0wgTY7UtL0q55XM-H9ZXMd3UUpQSh6DEjZIqBASfyA7*9r41-hfgD6olKRKDEAj&new=1)
+ ## [2020实“鼠”不易，2021“牛”转乾坤|WiFi万能钥匙2020年度回顾](http://mp.weixin.qq.com/s?src=11&timestamp=1613093404&ver=2885&signature=AG1y3vbydgSgAOR-x5bMwuuZqBRyAL3ryrSkdo9A6DEL4wkoaZODLL-S*rihUHXmKkBNFcTUB0MyTHZ0tYR2w0P03eVZg9Prk4HfUio*UXMwFotYbDfUaduk6HsZO0DN&new=1)
  > 01这一年我们万众连心，共战疫情疫情时期的WiFi万能钥匙与央视新闻等权威媒体合作第一时间上线「战疫情」专题为大家提供及时、准确、丰富的周边疫情、疫情问答、鉴真辟谣个人防护、同城查询以及在线义诊等版块内...
+ ## [大年初一拉家常必备，盘点春晚史上的黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1613093404&ver=2885&signature=IDoyrifjIr7Y-Z9DqJbVHX528EUrebYTI47O9DIfV*AQocGG9oOwJXHrsu8wmSjBALj72PdmpGPml-KrBiz0qMY*iuyJuwAxPSZxC5wb6vGrJQBevYCmur2gXPjyMEhQ&new=1)
+ > 记忆中，每年大年三十一家人其乐融融地坐在一起，嗑着瓜子、拉着家常、看着春节联欢晚会，一边嘻嘻哈哈，一边叹惋春晚现场用到的科技。时光荏苒，从最早的LED显示技术，到后来的VR，再到无人驾驶等，从1983年到2...
+ ## [Apple View!](http://mp.weixin.qq.com/s?src=11&timestamp=1613093404&ver=2885&signature=6P0ZQ*ei6Pgim4*ITFwhBvAJEM6s84tpZ-s8v7RHWF76mT5SiUMQljoshc8XSnRhMtRRytCvalh0-9CQ*eKUSHVyWjslCQ8pyQWGPWmFCuAQ4gMY6CDI3C6HDzz-lna*&new=1)
+ > 几天前，The Information 网站分享了疑似为 苹果 AR/VR 眼镜的设计渲染图。这次，设计师 Antonio De Rosa 基于这个设计带来了更多渲染图，并同时将 苹果 AR/VR 眼镜命名为 Apple View。传言称
+ ## [黑入苹果特斯拉竟如此容易!这位鬼才的攻击方法火了，微软等35家公司一起悬赏](http://mp.weixin.qq.com/s?src=11&timestamp=1613093404&ver=2885&signature=CttVyKI3zDXGVMNGTWGBrWHJSobEdyAzeXZfWusiC3tbYwVcdHaC338Onpu0ufufheM8V*eXAgvvG8zL8rAtaPYvhn1E60b1ZRdkAPB46ZGBFLh00o4Ypv2T9mmwbx20&new=1)
+ > 边策 金磊 发自 凹非寺 量子位 报道 | 公众号 QbitAI论攻击科技巨头有多难？非常容易，而且是简单到极致的那种。只需要制造虚假的pip、npm软件包，就可以轻松攻破微软、苹果、特斯拉、PayPal、Yelp等数十家科技...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Oracle体系结构与运维维护管理入门（15个Oracle运维管理生产案例）](http://fellow.51cto.com/art/202101/638289.htm?qd=51ctojrzd)
- > Oracle体系结构与运维维护管理入门（15个Oracle运维管理生产案例）
+ ## [MySQL物理备份恢复实战1之XtraBackup_MySQL数据库备份与恢复05](http://fellow.51cto.com/art/202012/634848.htm?qd=51ctojrzd)
+ > MySQL物理备份恢复实战1之XtraBackup_MySQL数据库备份与恢复05
  ## [“一天已不足24小时”冲上热搜第一！网友最关心什么？](https://blog.csdn.net/weixin_39787242/article/details/113790136)
  > “一天已不足24小时”冲上热搜第一！网友最关心什么？
  ## [盘点和程序员相关的那些事，让你不再被割韭菜，薅羊毛！](https://blog.csdn.net/weixin_41937552/article/details/113778608)
@@ -63,36 +63,5 @@ categories: IT NEWS
  > 罗永浩的彪悍人生
  ## [【目标检测】RCNN算法详解](https://blog.csdn.net/shenxiaolu1984/article/details/51066975)
  > 【目标检测】RCNN算法详解
-# 人工智能 
- ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
- > 分布式存储引擎大厂实战——一致性哈希在大厂的应用
- ## [云原生人物志 | Pulsar翟佳：社区的信任最重要](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/113667179)
- > 云原生人物志 | Pulsar翟佳：社区的信任最重要
- ## [记录一次线上 Oracle 数据库 ORA-00060: deadlock detected 故障案例](https://blog.csdn.net/defonds/article/details/113702497)
- > 记录一次线上 Oracle 数据库 ORA-00060: deadlock detected 故障案例
- ## [从 C 1.0 到 C 9.0，历代 C 语言特性一览](https://blog.csdn.net/qinyuanpei/article/details/113720157)
- > 从 C 1.0 到 C 9.0，历代 C 语言特性一览
- ## [娜璋初识（一）你的酒窝没有酒，我却醉得像条狗，看程序员如何表白](https://blog.csdn.net/Eastmount/article/details/113725231)
- > 
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [Python中图像标题生成的注意机制实战教程](https://blog.csdn.net/Together_CZ/article/details/113727106)
- > Python中图像标题生成的注意机制实战教程
- ## [30行代码实现蚂蚁森林自动偷能量](https://blog.csdn.net/xindoo/article/details/113734855)
- > 30行代码实现蚂蚁森林自动偷能量
- ## [乐视视频 App 图标改为“欠 122 亿”，网友：我在别家分红包，却在你家随份子！...](https://blog.csdn.net/csdnnews/article/details/113750162)
- > 乐视视频 App 图标改为“欠 122 亿”，网友：我在别家分红包，却在你家随份子！...
- ## [Elasticsearch 的前世今生](https://blog.csdn.net/UbuntuTouch/article/details/113754619)
- > Elasticsearch 的前世今生
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [Egret Native1.1.0版本发布,修复多个问题](https://blog.csdn.net/weixin_41926242/article/details/113756844)
- > Egret Native1.1.0版本发布,修复多个问题
- ## [GCC 11 的静态分析功能将得到增强](https://blog.csdn.net/lianshaohua/article/details/113761247)
- > GCC 11 的静态分析功能将得到增强
- ## [Go语言学习技术路线图2021发布了！](https://blog.csdn.net/bigwhite20xx/article/details/113764711)
- > Go语言学习技术路线图2021发布了！
- ## [Go性能调优-pprof](https://blog.csdn.net/uisoul/article/details/113767329)
- > Go性能调优-pprof
 
     
