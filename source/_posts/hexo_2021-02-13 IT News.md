@@ -1,10 +1,21 @@
 ---
 title: 2021-02-13 IT News
 copyright: true
-date: 2021-02-13 10:04:49
+date: 2021-02-13 10:06:14
 tags: IT NEWS
 categories: IT NEWS
 ---
+# IT 新闻 
+ ## [2020年中国芯片出口金额再创新高，已超越韩国](http://mp.weixin.qq.com/s?src=11&timestamp=1613181605&ver=2887&signature=Ma3JKRHEoLVjXZCDuuyEamj-3gX*o9CHXeWxorNwxUvZH-0WU-dAuE-BhapRF2xJ1CF1qmJKPY4PNjeC4N*UQYzhsL699UEP25XI7eKwJvS67N9dn3-W1gjkfc*Hi49f&new=1)
+ > 业界都知道中国是全球最大的芯片进口国，不过中国的芯片出口也在快速增长，2020年中国的芯片出口额同比增长一成多至1166亿美元，已成为全球重要的芯片出口大国。中国在2010年超越美国成为全球最大制造国，此后中...
+ ## [未知大陆：牛年大吉，万事如意!(内含2021年彩蛋)](http://mp.weixin.qq.com/s?src=11&timestamp=1613181605&ver=2887&signature=O332b4EPsKfMB-nlcbCZi3Re0h-rhK-gNai0hy5jjPNfWqtvihSnrdaXr4zAhLjQ1uk-N5f3g-l8fnkqvqZlVSZBpRAmY5FQlZ0XCe6XjK5QwU-eMwOEFxQksqz4NXaM&new=1)
+ > 2021年2月12日，大年初一，未知大陆给您拜年了，祝您牛年大吉、身体健康、万事如意！以下附今年的彩蛋，同时欢迎大家在评论区相互拜年送祝福哈(公司简称+祝福语)。彩蛋一：未知大陆3D打印秒杀周即将来袭！彩蛋二...
+ ## [华为起诉FCC违宪：拒绝被贴上“安全威胁”标签](http://mp.weixin.qq.com/s?src=11&timestamp=1613181605&ver=2887&signature=aC4ilZjQ850eblNC9NH07xosJLPUaf0NK0CBYkhQar*DhcPz6K25iiKCz2RLskIVh0B3T4bnoBEEPgYhhrWnUJgXxPqzmoWKvNYrqUR7L7lG3VtuN1TJgAesf-ljRSK1&new=1)
+ > 华为对美国联邦通信委员会（FCC）提起诉讼，以寻求推翻监管机构将之列为国家安全威胁的做法。这家供应商在一份法院文件中辩称，FCC将之定义为威胁之举超过了其法定权限，违反联邦法律和美国宪法，且这个标签“武...
+ ## [新型钓鱼攻击竟然开始利用摩斯密码来隐藏URL](http://mp.weixin.qq.com/s?src=11&timestamp=1613181605&ver=2887&signature=EV*xVD3iyzSPYCk8Ys9XYd1jCISqsoyHPvAlfMe6iBKPag6S90GS-OzTtXsR9nriVOvP0ithyrSTYhX3ZCw2oX*Me55BUIz-BpRuwbLX9Mh5eJCNhSzPtkc5omzg8Vp1&new=1)
+ > 事件概述近期，网络安全研究人员发现了一种利用摩斯密码来执行攻击的新型网络钓鱼活动。在这种网络钓鱼攻击活动中，攻击这种使用了一种新型的模糊处理技术，即利用摩斯密码来隐藏电子邮件附件中的恶意URL地址。...
+ ## [曝CDPR遭黑客窃取的源代码已售出 购买者出价未知](http://mp.weixin.qq.com/s?src=11&timestamp=1613181605&ver=2887&signature=1zHbS7cA0jGxhTFtOAdz3g1frI6MHqlK-Wzx3th3wvM-W0SjTnWL*FyMYp3QA6opMSMXm7xfYGlhjBhTCfi7R5WIOM5FcAeh8s9gV1rT8BSi4pTejM*4qQs5pSthDf3I&new=1)
+ > 据The Verge报道，包括《巫师3》和《赛博朋克2077》在内的游戏源代码文件和其他信息现已被黑客出售。该消息最初来自于网络安全公司Kela。Kela公司发布了一个在黑客论坛Exploit上的帖子截图，据称帖子由黑客发布...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -40,18 +51,18 @@ categories: IT NEWS
  > 盘点和程序员相关的那些事，让你不再被割韭菜，薅羊毛！
  ## [“ 我向你奔赴而来，你就是星辰大海 “](https://blog.csdn.net/xtreallydance/article/details/113773322)
  > “ 我向你奔赴而来，你就是星辰大海 “
- ## [C语言标准库函数大全（ctype、time 、stdio、stdlib、math、string）](https://blog.csdn.net/weixin_44793491/article/details/107644666)
+ ## [Mac OSX使用指南之【 清理Mac文件】 ”可用的磁盘空间不足，无法安装此产品。“的解决方案](https://blog.csdn.net/u011018979/article/details/112777563)
+ > Mac OSX使用指南之【 清理Mac文件】 ”可用的磁盘空间不足，无法安装此产品。“的解决方案
+ ## [萌新学习C++容易漏掉的知识点，看看你中招了没有（一）](https://blog.csdn.net/Fdog_/article/details/105440719)
  > 
- ## [一行Python代码能做出哪些神器的事情](https://blog.csdn.net/bigzql/article/details/109507814)
- > 一行Python代码能做出哪些神器的事情
- ## [没想到 Python 中竟然还藏着这些稀奇古怪的东西...](https://blog.csdn.net/u013486414/article/details/104873811)
- > 
+ ## [倪文迪陪你学蓝桥杯2021寒假每日一题：（2017省赛A第1、2题）](https://blog.csdn.net/weixin_43914593/article/details/112132315)
+ > 倪文迪陪你学蓝桥杯2021寒假每日一题：（2017省赛A第1、2题）
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Python遗传算法工具箱的使用（一）求解带约束的单目标优化](https://blog.csdn.net/weixin_37790882/article/details/84034956)
- > Python遗传算法工具箱的使用（一）求解带约束的单目标优化
- ## [YOLO v3网络结构分析](https://blog.csdn.net/qq_37541097/article/details/81214953)
- > YOLO v3网络结构分析
+ ## [股票量化分析工具V2.0版-视频更新完毕！代码已上传！](https://blog.csdn.net/hangzhouyx/article/details/113765113)
+ > 股票量化分析工具V2.0版-视频更新完毕！代码已上传！
+ ## [理解dropout](https://blog.csdn.net/xinzhangyanxiang/article/details/49022443)
+ > 理解dropout
 # 人工智能 
  ## [分布式存储引擎大厂实战——一致性哈希在大厂的应用](https://blog.csdn.net/songguangfan/article/details/113536000)
  > 分布式存储引擎大厂实战——一致性哈希在大厂的应用
