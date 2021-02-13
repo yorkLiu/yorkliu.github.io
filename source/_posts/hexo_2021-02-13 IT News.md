@@ -1,22 +1,24 @@
 ---
 title: 2021-02-13 IT News
 copyright: true
-date: 2021-02-13 10:48:52
+date: 2021-02-13 12:17:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为起诉FCC违宪：拒绝被贴上“安全威胁”标签](http://mp.weixin.qq.com/s?src=11&timestamp=1613183405&ver=2887&signature=aC4ilZjQ850eblNC9NH07xosJLPUaf0NK0CBYkhQar*DhcPz6K25iiKCz2RLskIVUE0UppcWcPJqz2vm8zGkn3MVRyd1NvJqITK3N42e0WCnC9l41M1FUQ62hf75UvLN&new=1)
- > 华为对美国联邦通信委员会（FCC）提起诉讼，以寻求推翻监管机构将之列为国家安全威胁的做法。这家供应商在一份法院文件中辩称，FCC将之定义为威胁之举超过了其法定权限，违反联邦法律和美国宪法，且这个标签“武...
- ## [2020年中国芯片出口金额再创新高，已超越韩国](http://mp.weixin.qq.com/s?src=11&timestamp=1613183405&ver=2887&signature=Ma3JKRHEoLVjXZCDuuyEamj-3gX*o9CHXeWxorNwxUvZH-0WU-dAuE-BhapRF2xJcD3AuegbJvvkB*pspUCwEqP5U*WdZtem6eMRIi4DhbOBtGZQ8YV5qGvKUKRDFJA5&new=1)
- > 业界都知道中国是全球最大的芯片进口国，不过中国的芯片出口也在快速增长，2020年中国的芯片出口额同比增长一成多至1166亿美元，已成为全球重要的芯片出口大国。中国在2010年超越美国成为全球最大制造国，此后中...
- ## [牛年首日电影票房超17亿元；天问一号火星捕获过程影像发布|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1613183405&ver=2887&signature=bXEzhc-SLe6uIU3epshVXAID4skPdF2vWbbvUwoUI2Z-ST6ieuCekhIIDFiKUvbY0fQDoBGOh*pl3aaE3OA94xzYpD*XSPNeGZXMQxWLHgJx9qDdMIZVVqYzObr0qE8o&new=1)
- > Hello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【牛年首日电影票房超17亿元】据灯塔专业版实时数据，截至2月12日22时，牛年首日电影票房超过17亿元，总人次3403万，创下中国影史单日总票房、总...
- ## [曝CDPR遭黑客窃取的源代码已售出 购买者出价未知](http://mp.weixin.qq.com/s?src=11&timestamp=1613183405&ver=2887&signature=1zHbS7cA0jGxhTFtOAdz3g1frI6MHqlK-Wzx3th3wvM-W0SjTnWL*FyMYp3QA6opDwrtsD*hEcw6nEOVUhFpt6rfeXZs-oN83CrNbT6Kjt9OIzyy0KtFidoQPVI8rclB&new=1)
+ ## [马斯克：将推悬浮跑车；谷歌微软高通，反对英伟达收购 ARM；Apple Watch 用户过亿|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=25f9h2xuio6VKOr0e1i521Uzmmu006M-4QMUYGLV6RHNMl9*VxYYHYJOg*8FW2sPhHLQEDv8MYQzIb8uUfuley9NzV8DNvM*wx4oALW0G7zmAGCOoueul0*YSWVfxyr*&new=1)
+ > 英特尔等芯片企业致信拜登，白宫回应：将着手解决「缺芯」问题近期，多国车企陷入「芯片荒」，芯片短缺甚至影响了多家车企的产能，使他们不得不纷纷减产。除了车企之外，游戏机等电子产品生产商也在争抢有限的芯...
+ ## [曝CDPR遭黑客窃取的源代码已售出 购买者出价未知](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=1zHbS7cA0jGxhTFtOAdz3g1frI6MHqlK-Wzx3th3wvM-W0SjTnWL*FyMYp3QA6opwTNpUmyFAJA-TjEm4U*fxMoumjagEEWxbwkzs2GPxf1xXknM8SnUZxMTz4dnZ6ka&new=1)
  > 据The Verge报道，包括《巫师3》和《赛博朋克2077》在内的游戏源代码文件和其他信息现已被黑客出售。该消息最初来自于网络安全公司Kela。Kela公司发布了一个在黑客论坛Exploit上的帖子截图，据称帖子由黑客发布...
- ## [未知大陆：牛年大吉，万事如意!(内含2021年彩蛋)](http://mp.weixin.qq.com/s?src=11&timestamp=1613183405&ver=2887&signature=O332b4EPsKfMB-nlcbCZi3Re0h-rhK-gNai0hy5jjPNfWqtvihSnrdaXr4zAhLjQ*EzIx3dxHhI*ZprSL-54Qw1LK0RzGGJE1zihR024WOLd-FgvTWNJU8n-zvCOqGfW&new=1)
+ ## [牛年首日电影票房超17亿元；天问一号火星捕获过程影像发布|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=bXEzhc-SLe6uIU3epshVXAID4skPdF2vWbbvUwoUI2Z-ST6ieuCekhIIDFiKUvbY70iDlsfGPygfuoq33QPmVhjucHTFTmfNAarVceillaP19e9DLXT4RJ8zPM-Sigz5&new=1)
+ > Hello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【牛年首日电影票房超17亿元】据灯塔专业版实时数据，截至2月12日22时，牛年首日电影票房超过17亿元，总人次3403万，创下中国影史单日总票房、总...
+ ## [未知大陆：牛年大吉，万事如意!(内含2021年彩蛋)](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=O332b4EPsKfMB-nlcbCZi3Re0h-rhK-gNai0hy5jjPNfWqtvihSnrdaXr4zAhLjQgaHCk8nzi7EtDNJmoNEszbfSZ1u3698gUZbZg0KJpTc2YTS9smOSJ1TFeW8cTGwU&new=1)
  > 2021年2月12日，大年初一，未知大陆给您拜年了，祝您牛年大吉、身体健康、万事如意！以下附今年的彩蛋，同时欢迎大家在评论区相互拜年送祝福哈(公司简称+祝福语)。彩蛋一：未知大陆3D打印秒杀周即将来袭！彩蛋二...
- ## [新型钓鱼攻击竟然开始利用摩斯密码来隐藏URL](http://mp.weixin.qq.com/s?src=11&timestamp=1613183405&ver=2887&signature=EV*xVD3iyzSPYCk8Ys9XYd1jCISqsoyHPvAlfMe6iBKPag6S90GS-OzTtXsR9nrieWxqyO6LUC6d6Y4a9rK*GJEZPHSPHOXv4A2mj5zv*c*P1zxvKGcGmNAMkGiXsOJg&new=1)
+ ## [2020年中国芯片出口金额再创新高，已超越韩国](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=Ma3JKRHEoLVjXZCDuuyEamj-3gX*o9CHXeWxorNwxUvZH-0WU-dAuE-BhapRF2xJmaKHSqNVi-oGcy7N4U99*pyzbK28HKz9jwK*aglVMy0Gj7vD-xqqOqucIo4CErB9&new=1)
+ > 业界都知道中国是全球最大的芯片进口国，不过中国的芯片出口也在快速增长，2020年中国的芯片出口额同比增长一成多至1166亿美元，已成为全球重要的芯片出口大国。中国在2010年超越美国成为全球最大制造国，此后中...
+ ## [华为起诉FCC违宪：拒绝被贴上“安全威胁”标签](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=aC4ilZjQ850eblNC9NH07xosJLPUaf0NK0CBYkhQar*DhcPz6K25iiKCz2RLskIVC*gVNmU**t2NTIOpKowFU05SCrg7xlPeSkFrJTP9m7uXPWcnKJj14NIOfyHoXJG-&new=1)
+ > 华为对美国联邦通信委员会（FCC）提起诉讼，以寻求推翻监管机构将之列为国家安全威胁的做法。这家供应商在一份法院文件中辩称，FCC将之定义为威胁之举超过了其法定权限，违反联邦法律和美国宪法，且这个标签“武...
+ ## [新型钓鱼攻击竟然开始利用摩斯密码来隐藏URL](http://mp.weixin.qq.com/s?src=11&timestamp=1613188804&ver=2887&signature=EV*xVD3iyzSPYCk8Ys9XYd1jCISqsoyHPvAlfMe6iBKPag6S90GS-OzTtXsR9nriL4t63mkj7SlXpHhyxcpTC*IUsnzbHweurrjGZQUQ8scrhi96ja4dwT6bGf9U1nLp&new=1)
  > 事件概述近期，网络安全研究人员发现了一种利用摩斯密码来执行攻击的新型网络钓鱼活动。在这种网络钓鱼攻击活动中，攻击这种使用了一种新型的模糊处理技术，即利用摩斯密码来隐藏电子邮件附件中的恶意URL地址。...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -33,8 +35,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [HTML5和CSS3新特性视频教程](http://fellow.51cto.com/art/202101/639792.htm?qd=51ctojrzd)
- > HTML5和CSS3新特性视频教程
+ ## [【王佩丰】Excel 2010数据透视表视频教程 完整版](http://fellow.51cto.com/art/202101/641169.htm?qd=51ctojrzd)
+ > 【王佩丰】Excel 2010数据透视表视频教程 完整版
  ## [多家企业宣布将终止与B站合作](https://blog.csdn.net/weixin_39787242/article/details/113791976)
  > 多家企业宣布将终止与B站合作
  ## [微信抢红包](https://blog.csdn.net/weixin_41937552/article/details/113791562)
