@@ -1,21 +1,21 @@
 ---
 title: 2021-02-15 IT News
 copyright: true
-date: 2021-02-15 09:02:23
+date: 2021-02-15 10:03:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [这种激励机制，运营商应该学习](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=7uF1kXgdlRqbeO5NnzK1vdZrq49A5p1xhglSBZPsRknWj7nJ7hb7ZO2Fa653iEimrq2mzKwf58*6RnKOZ9Q-Zr24dEwOflI6R75dYc*H4gUMVvfClmzMJEI1-ZUZIVar&new=1)
+ ## [这种激励机制，运营商应该学习](http://mp.weixin.qq.com/s?src=11&timestamp=1613354405&ver=2891&signature=7uF1kXgdlRqbeO5NnzK1vdZrq49A5p1xhglSBZPsRknWj7nJ7hb7ZO2Fa653iEiml0H6UFjoSXSLWkmlf8nk3EPeSzXWK5cybc6fZfeD7qnl1IBXS1rXKEsYDvE61mtr&new=1)
  > 最近华为高层宣布继续分红传统的新闻引爆了通信行业，无论站在哪个立场，大家都为华为如此大手笔操作感到惊叹，并据此反思运营商的激励计划能否实现激励的初衷。1华为用分红迎接饱和打击近日，华为轮值董事长胡...
- ## [苹果眼镜新专利曝光!能预测食物卡路里，还可以解锁iPhone](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=T3P--00RlBnyh2FM7RLholhp1PXEY69EsyUKmSwsJk3xxGxffeozA69QqcakUWHMf3X1B9atltyKpTUQjg6SM0TBbfqgxf3NhBv5FPdFXcsjX62i*aWEXiFjgU6r7RM5&new=1)
+ ## [苹果眼镜新专利曝光!能预测食物卡路里，还可以解锁iPhone](http://mp.weixin.qq.com/s?src=11&timestamp=1613354405&ver=2891&signature=T3P--00RlBnyh2FM7RLholhp1PXEY69EsyUKmSwsJk3xxGxffeozA69QqcakUWHM4ud73PaVTgGtG8M8PaIOW*lV1TeavRTiSuhLLdBjIwibxbFxx1ack6ZuotohSfh6&new=1)
  > 【微创WEC科技】近年来，一直传言苹果会在AR/VR领域大展身手，不过目前来看，就只有iPhone加入了激光雷达扫描仪而已，而且相关的功能和应用屈指可数，普及率也不高，现在买iPhone 12Pro系列的小伙伴估计多数都用...
- ## [苹果 AR 眼镜，我还买得起吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=JSNqRL39Mi3sj7If6C8zfUwH6mDdrgrc1FWdS1sGb666g5tzDApy2Ndq3M7HIzSpHd7qij3LCP6tzhqv-a1QG7VV3dge*e56TkvxXyBMjQ*4JkG2CcbWQNNjC4ZA6Axx&new=1)
+ ## [苹果 AR 眼镜，我还买得起吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1613354405&ver=2891&signature=JSNqRL39Mi3sj7If6C8zfUwH6mDdrgrc1FWdS1sGb666g5tzDApy2Ndq3M7HIzSpt8vhZlUpMefH*MlxDrQ3Y1nacBmKK4KD1GTvhyLI*qO573c90rjWNhDYiWe*Z1e9&new=1)
  > 传闻中，苹果明年要上市的头显喊价 2 万元。The Information 声称看到了苹果计划在明年推出的 VR 原型机，它显示分辨率是目前主流 VR 的数十倍，配置了 12 个摄像头，要价 3000 美元。这个价格，能买 10 个 Ocu
- ## [记一次由sql注入到拿下域控的渗透测试实战演练(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=78Dy7aYeavuTVSSaHjsUFhWWfLfW4tXJQzaqU0oERFZwouH67q5zTySRfWANdcbQp2ahY3-7jzbzYXsDRNA-3uFhiGHPzaPMrNO2X*7n44thfKVPAQoLKIps*JMRFl1h&new=1)
- > 本次渗透总流程：1.从一个web页面发现SQL注入并可以通过注入getshell2.通过对webshell的提权成功拿下服务器管理员权限3.通过内网穿透成功连接目标服务器的3389远程桌面服务4.通过在目标服务器上安装并使用nmap完...
- ## [青亭网2021 AR/VR大咖牛年贺岁——云VR技术篇](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=YNLe2BPWDDC1lDaQULMmHZUavn5DCR1M3UzKUWmuQlNG02h1YfTy7f07y*TIrWOamRvT7DEYuyZijQ-ZyEKL0Mw*2j2mlMN2omrc*bd0rs-5UlBNLbW42QfzZzNe6ECj&new=1)
+ ## [青亭网2021 AR/VR大咖牛年贺岁——云VR技术篇](http://mp.weixin.qq.com/s?src=11&timestamp=1613354405&ver=2891&signature=YNLe2BPWDDC1lDaQULMmHZUavn5DCR1M3UzKUWmuQlNG02h1YfTy7f07y*TIrWOaSURfijezwoMZuT52HFb49JjSDf69IfdSilFXLAQ2oa4iOL0rr*71S8JSm9R0DzOl&new=1)
  > Esther｜编辑新春伊始，万象更新。在此新春佳节之际，青亭网将与AR/VR各垂直行业大咖携手，共同回顾2020，展望2021。想了解最新的AR/VR行业动态，请锁定青亭年度系列特辑！在今天的云VR技术篇，你将在视频中看到...
+ ## [记一次由sql注入到拿下域控的渗透测试实战演练(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1613354405&ver=2891&signature=78Dy7aYeavuTVSSaHjsUFhWWfLfW4tXJQzaqU0oERFZwouH67q5zTySRfWANdcbQPQBR8vx20xvEraPBesSZY7xvc1tF0A-LXyoVbMV9hm-HShqjreuAXxm-HHr0Wak-&new=1)
+ > 本次渗透总流程：1.从一个web页面发现SQL注入并可以通过注入getshell2.通过对webshell的提权成功拿下服务器管理员权限3.通过内网穿透成功连接目标服务器的3389远程桌面服务4.通过在目标服务器上安装并使用nmap完...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [AWK 基础入门讲解实战视频课程](http://fellow.51cto.com/art/202012/637598.htm?qd=51ctojrzd)
- > AWK 基础入门讲解实战视频课程
+ ## [Oracle备份恢复迁移之expdp/impdp_Oracle备份恢复与数据迁移教程10](http://fellow.51cto.com/art/202012/637349.htm?qd=51ctojrzd)
+ > Oracle备份恢复迁移之expdp/impdp_Oracle备份恢复与数据迁移教程10
  ## [春晚黑科技全盘点：刘德华、周杰伦到底来没来？](https://blog.csdn.net/weixin_39787242/article/details/113807713)
  > 春晚黑科技全盘点：刘德华、周杰伦到底来没来？
  ## [情人节快乐 ！ 亲爱的猪猪](https://blog.csdn.net/weixin_50001396/article/details/113796314)
@@ -51,18 +51,18 @@ categories: IT NEWS
  > 从此以后我所有的荣誉都归属于你
  ## [关于过年](https://blog.csdn.net/qq_45385706/article/details/113408308)
  > 关于过年
- ## [Python教程（从不懂到入门）](https://blog.csdn.net/alex27933/article/details/107519511)
+ ## [独孤九剑之js操作数组](https://blog.csdn.net/liuqiao0327/article/details/106877333)
  > 
- ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
- > 漫画：为什么C语言永不过时？
- ## [vue重要知识点](https://blog.csdn.net/qq_40994735/article/details/108797744)
- > vue重要知识点
+ ## [ctf web个人总结](https://blog.csdn.net/qq_31343581/article/details/90617140)
+ > ctf web个人总结
+ ## [conda常用命令:安装，更新，创建，激活，关闭，查看，卸载，删除，清理，重命名，换源，问题](https://blog.csdn.net/zhayushui/article/details/80433768)
+ > conda常用命令:安装，更新，创建，激活，关闭，查看，卸载，删除，清理，重命名，换源，问题
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Java高质量面试总结](https://blog.csdn.net/JewaveOxford/article/details/104727515)
- > 
- ## [基于Java和MySQL的图书管理系统](https://blog.csdn.net/qq_29300341/article/details/80753043)
- > 基于Java和MySQL的图书管理系统
+ ## [字节跳动面试题：你的平均薪水是多少？](https://blog.csdn.net/zhongyangzhong/article/details/112343029)
+ > 字节跳动面试题：你的平均薪水是多少？
+ ## [FPGA开发设计流程总结](https://blog.csdn.net/weixin_49617016/article/details/108789562)
+ > FPGA开发设计流程总结
 # 人工智能 
  ## [GCC 11 的静态分析功能将得到增强](https://blog.csdn.net/lianshaohua/article/details/113761247)
  > GCC 11 的静态分析功能将得到增强
