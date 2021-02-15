@@ -1,21 +1,21 @@
 ---
 title: 2021-02-15 IT News
 copyright: true
-date: 2021-02-15 08:03:21
+date: 2021-02-15 09:02:23
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [青亭网2021 AR/VR大咖牛年贺岁——云VR技术篇](http://mp.weixin.qq.com/s?src=11&timestamp=1613347204&ver=2891&signature=YNLe2BPWDDC1lDaQULMmHZUavn5DCR1M3UzKUWmuQlOtgpvCw0OmdMUqoNHUwTWp7iXFHwViv9tHvbMMs1pVpTVKbG3-6EKYBcznT2lG2i4-jglBbGu6Bmc3x*RBFEej&new=1)
- > Esther｜编辑新春伊始，万象更新。在此新春佳节之际，青亭网将与AR/VR各垂直行业大咖携手，共同回顾2020，展望2021。想了解最新的AR/VR行业动态，请锁定青亭年度系列特辑！在今天的云VR技术篇，你将在视频中看到...
- ## [苹果眼镜新专利曝光!能预测食物卡路里，还可以解锁iPhone](http://mp.weixin.qq.com/s?src=11&timestamp=1613347204&ver=2891&signature=T3P--00RlBnyh2FM7RLholhp1PXEY69EsyUKmSwsJk16Q55j7G6OMsuD9vQF3gd4NMPOHOZVZepk2E6EL0D6Vdb8j9z3162RazSUXh6cQZKJLaMMnNPuRUMYwGUkkLhR&new=1)
- > 【微创WEC科技】近年来，一直传言苹果会在AR/VR领域大展身手，不过目前来看，就只有iPhone加入了激光雷达扫描仪而已，而且相关的功能和应用屈指可数，普及率也不高，现在买iPhone 12Pro系列的小伙伴估计多数都用...
- ## [记一次由sql注入到拿下域控的渗透测试实战演练(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1613347204&ver=2891&signature=78Dy7aYeavuTVSSaHjsUFhWWfLfW4tXJQzaqU0oERFb5nEfMTAQwBKkya7XxEx7KB-QFdTUt279TFpRxllc4C8AnVbcd4v7yJ*rAfc0vss0Tx91hSxhieaN3-B8PvBCy&new=1)
- > 本次渗透总流程：1.从一个web页面发现SQL注入并可以通过注入getshell2.通过对webshell的提权成功拿下服务器管理员权限3.通过内网穿透成功连接目标服务器的3389远程桌面服务4.通过在目标服务器上安装并使用nmap完...
- ## [苹果 AR 眼镜，我还买得起吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1613347204&ver=2891&signature=JSNqRL39Mi3sj7If6C8zfUwH6mDdrgrc1FWdS1sGb64ah*yLlo317OGMMBxQ0QtgZLyKIT7WaS2ZvYv9YOdga-JhO7k-lWHplGu2vqMMgkYhaRUmbJBk9SE-os5R410O&new=1)
- > 传闻中，苹果明年要上市的头显喊价 2 万元。The Information 声称看到了苹果计划在明年推出的 VR 原型机，它显示分辨率是目前主流 VR 的数十倍，配置了 12 个摄像头，要价 3000 美元。这个价格，能买 10 个 Ocu
- ## [这种激励机制，运营商应该学习](http://mp.weixin.qq.com/s?src=11&timestamp=1613347204&ver=2891&signature=7uF1kXgdlRqbeO5NnzK1vdZrq49A5p1xhglSBZPsRkn7inMpN2RRrzopTXs6IuOCov1lYyPAXXINMVla74YTVjQORulEZSiqH2T3Taq2x-YW7eedX4E3cAhj8X4vK5gg&new=1)
+ ## [这种激励机制，运营商应该学习](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=7uF1kXgdlRqbeO5NnzK1vdZrq49A5p1xhglSBZPsRknWj7nJ7hb7ZO2Fa653iEimrq2mzKwf58*6RnKOZ9Q-Zr24dEwOflI6R75dYc*H4gUMVvfClmzMJEI1-ZUZIVar&new=1)
  > 最近华为高层宣布继续分红传统的新闻引爆了通信行业，无论站在哪个立场，大家都为华为如此大手笔操作感到惊叹，并据此反思运营商的激励计划能否实现激励的初衷。1华为用分红迎接饱和打击近日，华为轮值董事长胡...
+ ## [苹果眼镜新专利曝光!能预测食物卡路里，还可以解锁iPhone](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=T3P--00RlBnyh2FM7RLholhp1PXEY69EsyUKmSwsJk3xxGxffeozA69QqcakUWHMf3X1B9atltyKpTUQjg6SM0TBbfqgxf3NhBv5FPdFXcsjX62i*aWEXiFjgU6r7RM5&new=1)
+ > 【微创WEC科技】近年来，一直传言苹果会在AR/VR领域大展身手，不过目前来看，就只有iPhone加入了激光雷达扫描仪而已，而且相关的功能和应用屈指可数，普及率也不高，现在买iPhone 12Pro系列的小伙伴估计多数都用...
+ ## [苹果 AR 眼镜，我还买得起吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=JSNqRL39Mi3sj7If6C8zfUwH6mDdrgrc1FWdS1sGb666g5tzDApy2Ndq3M7HIzSpHd7qij3LCP6tzhqv-a1QG7VV3dge*e56TkvxXyBMjQ*4JkG2CcbWQNNjC4ZA6Axx&new=1)
+ > 传闻中，苹果明年要上市的头显喊价 2 万元。The Information 声称看到了苹果计划在明年推出的 VR 原型机，它显示分辨率是目前主流 VR 的数十倍，配置了 12 个摄像头，要价 3000 美元。这个价格，能买 10 个 Ocu
+ ## [记一次由sql注入到拿下域控的渗透测试实战演练(上)](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=78Dy7aYeavuTVSSaHjsUFhWWfLfW4tXJQzaqU0oERFZwouH67q5zTySRfWANdcbQp2ahY3-7jzbzYXsDRNA-3uFhiGHPzaPMrNO2X*7n44thfKVPAQoLKIps*JMRFl1h&new=1)
+ > 本次渗透总流程：1.从一个web页面发现SQL注入并可以通过注入getshell2.通过对webshell的提权成功拿下服务器管理员权限3.通过内网穿透成功连接目标服务器的3389远程桌面服务4.通过在目标服务器上安装并使用nmap完...
+ ## [青亭网2021 AR/VR大咖牛年贺岁——云VR技术篇](http://mp.weixin.qq.com/s?src=11&timestamp=1613350804&ver=2891&signature=YNLe2BPWDDC1lDaQULMmHZUavn5DCR1M3UzKUWmuQlNG02h1YfTy7f07y*TIrWOamRvT7DEYuyZijQ-ZyEKL0Mw*2j2mlMN2omrc*bd0rs-5UlBNLbW42QfzZzNe6ECj&new=1)
+ > Esther｜编辑新春伊始，万象更新。在此新春佳节之际，青亭网将与AR/VR各垂直行业大咖携手，共同回顾2020，展望2021。想了解最新的AR/VR行业动态，请锁定青亭年度系列特辑！在今天的云VR技术篇，你将在视频中看到...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [高大上的PPT设计秘笈（标准版）-不限等级](http://fellow.51cto.com/art/202012/637347.htm?qd=51ctojrzd)
- > 高大上的PPT设计秘笈（标准版）-不限等级
+ ## [AWK 基础入门讲解实战视频课程](http://fellow.51cto.com/art/202012/637598.htm?qd=51ctojrzd)
+ > AWK 基础入门讲解实战视频课程
  ## [春晚黑科技全盘点：刘德华、周杰伦到底来没来？](https://blog.csdn.net/weixin_39787242/article/details/113807713)
  > 春晚黑科技全盘点：刘德华、周杰伦到底来没来？
  ## [情人节快乐 ！ 亲爱的猪猪](https://blog.csdn.net/weixin_50001396/article/details/113796314)
