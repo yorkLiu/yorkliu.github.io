@@ -1,21 +1,21 @@
 ---
 title: 2021-02-16 IT News
 copyright: true
-date: 2021-02-16 08:01:54
+date: 2021-02-16 09:03:14
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [一文读懂人工智能产业最新发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613433604&ver=2893&signature=GxXogyOhs8hDuMQf*Y0EOqcBGprSh18IDQhjgx5Q-hT8aefmIaeUAYZglguP*F5pmUkTTUVt8Ua5AyXL5emSMDouJIC2VysTMXanSoTIzirCJTeYgmjc-YVUEdi9bOGh&new=1)
- > 当前，以新一代人工智能为代表的科技和产业革命正在孕育兴起。数字化、网络化、智能化的信息基础设施加速构建，以信息通信、生命、材料科学等交叉融合为特征的集成化创新、跨领域创新渐成主流，围绕“智能+”打...
- ## [最简单周历](http://mp.weixin.qq.com/s?src=11&timestamp=1613433604&ver=2893&signature=iUy79Szq1hsk-cikQeIkOjng4-OVMfZ80oNcu6fwaAUWkBmzefMDYKhVtAoYA2Km5a6Cz19EgqzC-YR1-xhd90IDbmB-PQXJQSabttEyMncNGwVgpJ55jeCGjv56DDp6&new=1)
- > 小众软件在去年 9 月份介绍过 Tweek，它是一款以周为日历模板的任务列表（todo）工具，只需要将你的任务、待办事项填入周日历，然后将其打印出来，就能非常清晰、直观的组织你的生活和工作。最近 Tweek 发布了移...
- ## [ld-linux-x86-64挖矿木马实战记录](http://mp.weixin.qq.com/s?src=11&timestamp=1613433604&ver=2893&signature=Y7a9F*Bly3Llq2MdBkDKy3tHD6YiPV0LXslaiiJ2XyeR1pw-C7QMY6PQZgHsb7aB3dF-zAvPp2Dr5I0mcRT-Ee*sNbwna5jfE8wqDkMDdCHvojh6m-ZpG2PG21CSunej&new=1)
- > 前言这两年见证了公司从600人发展到1200+的过程，虽然公司在安全投入上还算慷慨，但是人员编制有严格要求，一个人的安全部只能把精力放在基础/重点工作上。其中防病毒这块也是两年前才正式部署了企业版防病毒软...
- ## [“中国有这么多人，你们还造机器人?”](http://mp.weixin.qq.com/s?src=11&timestamp=1613433604&ver=2893&signature=0mVDqobDsU0KxJcr8BUhIIJCwG2oHvSsKIfDAODA*5*hfQqpEgNY*pZRmlvUwSU7lfJguSrrFRHuwi8HfieKLpx5YE3xCO46eISByac5USCvHM4LuHJUykrlWnxuyFiV&new=1)
- > 2014年6月习近平总书记说国际上有舆论认为机器人是“制造业皇冠顶端的明珠”其研发、制造、应用是衡量一个国家科技创新和高端制造业水平的重要标志我国机器人产业经历了怎样的发展历程？取得了哪些成绩？未来又...
- ## [Omdia观察：2020年第四季度全球5G市场关键发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613433604&ver=2893&signature=PT9pojcIBmodbFI64fmT*c1ZHBa7k6GgY71UpC8GHVoCTkrXC5CxhQJAf4pIBu8jxUavSPnCqvxHLJ2aAyKMFayo3E2qhxWXLK5HcglG2CY6b1is8EkpxsQjaqmnZnZm&new=1)
+ ## [Omdia观察：2020年第四季度全球5G市场关键发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=PT9pojcIBmodbFI64fmT*c1ZHBa7k6GgY71UpC8GHVoCTkrXC5CxhQJAf4pIBu8jqKNjyoMQBQd4k*ikN*rUyY73n8Up98v8J1DZ0TKcdX2LVsBZUXUfNSEw0i-HN-zT&new=1)
  > 市场研究公司Omdia的最新报告研究追踪了2020年第四季度全球5G市场的关键发展趋势，Omdia服务提供商首席分析师Paul Lambert表示，全球电信运营商正持续推出新网络和扩展已有网络，并对最新的5G技术进行测试和部署...
+ ## [一文读懂人工智能产业最新发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=GxXogyOhs8hDuMQf*Y0EOqcBGprSh18IDQhjgx5Q-hT8aefmIaeUAYZglguP*F5pqbALRXgsnQh76hm03KiHda9hJX4zCWoDoadTetaYIbZ5InsCySVhcu3Wy115QT6B&new=1)
+ > 当前，以新一代人工智能为代表的科技和产业革命正在孕育兴起。数字化、网络化、智能化的信息基础设施加速构建，以信息通信、生命、材料科学等交叉融合为特征的集成化创新、跨领域创新渐成主流，围绕“智能+”打...
+ ## [最简单周历](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=iUy79Szq1hsk-cikQeIkOjng4-OVMfZ80oNcu6fwaAUWkBmzefMDYKhVtAoYA2Kmh*qSlYTY3geXjTGcJWGjlmCVTYAXKe9h4ElOnFMmIGunpNxteUbezHC6LXdLR4LX&new=1)
+ > 小众软件在去年 9 月份介绍过 Tweek，它是一款以周为日历模板的任务列表（todo）工具，只需要将你的任务、待办事项填入周日历，然后将其打印出来，就能非常清晰、直观的组织你的生活和工作。最近 Tweek 发布了移...
+ ## [ld-linux-x86-64挖矿木马实战记录](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=Y7a9F*Bly3Llq2MdBkDKy3tHD6YiPV0LXslaiiJ2XyeR1pw-C7QMY6PQZgHsb7aBMK1X8mInGjI95B9u5U0QWsl6AsZ*a51EbEelmaUkurYxCq*I6TzLAkDTq7cq1GS5&new=1)
+ > 前言这两年见证了公司从600人发展到1200+的过程，虽然公司在安全投入上还算慷慨，但是人员编制有严格要求，一个人的安全部只能把精力放在基础/重点工作上。其中防病毒这块也是两年前才正式部署了企业版防病毒软...
+ ## [“中国有这么多人，你们还造机器人?”](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=0mVDqobDsU0KxJcr8BUhIIJCwG2oHvSsKIfDAODA*5*hfQqpEgNY*pZRmlvUwSU7LLaVisd85Ko2-c1uEbZQotghA4G74tPxBsVoTJjMsUko2AskqbFyNVPyHXmRGuru&new=1)
+ > 2014年6月习近平总书记说国际上有舆论认为机器人是“制造业皇冠顶端的明珠”其研发、制造、应用是衡量一个国家科技创新和高端制造业水平的重要标志我国机器人产业经历了怎样的发展历程？取得了哪些成绩？未来又...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,8 +31,10 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Oracle RMAN备份恢复1（基础篇）_Oracle备份恢复与数据迁移教程03](http://fellow.51cto.com/art/202012/637237.htm?qd=51ctojrzd)
- > Oracle RMAN备份恢复1（基础篇）_Oracle备份恢复与数据迁移教程03
+ ## [JavaScript开发基础与提升视频课程](http://fellow.51cto.com/art/202101/640715.htm?qd=51ctojrzd)
+ > JavaScript开发基础与提升视频课程
+ ## [这技巧颠覆三观！教你如何一键新建N个文件夹](http://os.51cto.com/art/202102/645826.htm)
+ > 很多时候我们都需要一次批量新建多个文件夹，例如整理照片的时候，想要把照片分门别类，按照日期慢慢新建文
  ## [为什么你总是学不会Python，入门Python的4大陷阱](http://developer.51cto.com/art/202102/645786.htm)
  > Python以语法简单、关键字少著称，因此经常被各大媒体忽悠其是一门非常容易入门的编程语言。他的特定描述自
  ## [美国政府或不允许企业用比特币替代美元](http://blockchain.51cto.com/art/202102/645785.htm)
@@ -65,18 +67,18 @@ categories: IT NEWS
  > 情人节表白代码
  ## [从此以后我所有的荣誉都归属于你](https://blog.csdn.net/qq_49821869/article/details/113801901)
  > 从此以后我所有的荣誉都归属于你
- ## [C++STL容器总结](https://blog.csdn.net/weixin_41588502/article/details/87978490)
- > C++STL容器总结
- ## [第一份工作，我差点没转正](https://blog.csdn.net/shenjian58/article/details/113532864)
- > 第一份工作，我差点没转正
  ## [Spring常见面试题总结（超详细回答）](https://blog.csdn.net/a745233700/article/details/80959716)
  > Spring常见面试题总结（超详细回答）
+ ## [C++控制台打飞机小游戏](https://blog.csdn.net/C20190102/article/details/102727963)
+ > C++控制台打飞机小游戏
+ ## [适合 JS 新手学习的开源项目——在 GitHub 学编程](https://blog.csdn.net/a419240016/article/details/110618020)
+ > 适合 JS 新手学习的开源项目——在 GitHub 学编程
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持](https://blog.csdn.net/u010099080/article/details/53418159)
- > 【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持
- ## [中国程序员发明不了Node.js?](https://blog.csdn.net/coderising/article/details/109088919)
- > 中国程序员发明不了Node.js?
+ ## [基于Python的OpenCV人脸检测](https://blog.csdn.net/m0_45161766/article/details/107545960)
+ > 
+ ## [Java虚拟机(JVM)面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104390752)
+ > Java虚拟机(JVM)面试题（2020最新版）
 # 人工智能 
  ## [GCC 11 的静态分析功能将得到增强](https://blog.csdn.net/lianshaohua/article/details/113761247)
  > GCC 11 的静态分析功能将得到增强
