@@ -1,21 +1,23 @@
 ---
 title: 2021-02-16 IT News
 copyright: true
-date: 2021-02-16 09:03:14
+date: 2021-02-16 10:02:48
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [Omdia观察：2020年第四季度全球5G市场关键发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=PT9pojcIBmodbFI64fmT*c1ZHBa7k6GgY71UpC8GHVoCTkrXC5CxhQJAf4pIBu8jqKNjyoMQBQd4k*ikN*rUyY73n8Up98v8J1DZ0TKcdX2LVsBZUXUfNSEw0i-HN-zT&new=1)
- > 市场研究公司Omdia的最新报告研究追踪了2020年第四季度全球5G市场的关键发展趋势，Omdia服务提供商首席分析师Paul Lambert表示，全球电信运营商正持续推出新网络和扩展已有网络，并对最新的5G技术进行测试和部署...
- ## [一文读懂人工智能产业最新发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=GxXogyOhs8hDuMQf*Y0EOqcBGprSh18IDQhjgx5Q-hT8aefmIaeUAYZglguP*F5pqbALRXgsnQh76hm03KiHda9hJX4zCWoDoadTetaYIbZ5InsCySVhcu3Wy115QT6B&new=1)
- > 当前，以新一代人工智能为代表的科技和产业革命正在孕育兴起。数字化、网络化、智能化的信息基础设施加速构建，以信息通信、生命、材料科学等交叉融合为特征的集成化创新、跨领域创新渐成主流，围绕“智能+”打...
- ## [最简单周历](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=iUy79Szq1hsk-cikQeIkOjng4-OVMfZ80oNcu6fwaAUWkBmzefMDYKhVtAoYA2Kmh*qSlYTY3geXjTGcJWGjlmCVTYAXKe9h4ElOnFMmIGunpNxteUbezHC6LXdLR4LX&new=1)
+ ## [最简单周历](http://mp.weixin.qq.com/s?src=11&timestamp=1613440804&ver=2893&signature=iUy79Szq1hsk-cikQeIkOjng4-OVMfZ80oNcu6fwaAU8w6NouPZkBuZC4fxWxQdTSNDGh3PpIiFq*lJG83kIQdpHpuyd*0ckkMZnQrQl4RCztjFLLiLUhY3CSTdHim9B&new=1)
  > 小众软件在去年 9 月份介绍过 Tweek，它是一款以周为日历模板的任务列表（todo）工具，只需要将你的任务、待办事项填入周日历，然后将其打印出来，就能非常清晰、直观的组织你的生活和工作。最近 Tweek 发布了移...
- ## [ld-linux-x86-64挖矿木马实战记录](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=Y7a9F*Bly3Llq2MdBkDKy3tHD6YiPV0LXslaiiJ2XyeR1pw-C7QMY6PQZgHsb7aBMK1X8mInGjI95B9u5U0QWsl6AsZ*a51EbEelmaUkurYxCq*I6TzLAkDTq7cq1GS5&new=1)
+ ## [ld-linux-x86-64挖矿木马实战记录](http://mp.weixin.qq.com/s?src=11&timestamp=1613440804&ver=2893&signature=Y7a9F*Bly3Llq2MdBkDKy3tHD6YiPV0LXslaiiJ2XyeiWxPSa5PfPPv4J1K5Wi6vGm2bS2foMZL3oPn38lM3b0tsfTE4Do*ovvkzVQf4xvWNTmJkot3Hp0QdYIaKyj94&new=1)
  > 前言这两年见证了公司从600人发展到1200+的过程，虽然公司在安全投入上还算慷慨，但是人员编制有严格要求，一个人的安全部只能把精力放在基础/重点工作上。其中防病毒这块也是两年前才正式部署了企业版防病毒软...
- ## [“中国有这么多人，你们还造机器人?”](http://mp.weixin.qq.com/s?src=11&timestamp=1613437204&ver=2893&signature=0mVDqobDsU0KxJcr8BUhIIJCwG2oHvSsKIfDAODA*5*hfQqpEgNY*pZRmlvUwSU7LLaVisd85Ko2-c1uEbZQotghA4G74tPxBsVoTJjMsUko2AskqbFyNVPyHXmRGuru&new=1)
+ ## [“中国有这么多人，你们还造机器人?”](http://mp.weixin.qq.com/s?src=11&timestamp=1613440804&ver=2893&signature=0mVDqobDsU0KxJcr8BUhIIJCwG2oHvSsKIfDAODA*5*0ndrnmFTukp-BFeiq03q4o6fBbHATybhRh--Ftcu5*XE3QZqyYicxJjZFoJjn7Hih2KFcIvSdhhEbazQrC2U2&new=1)
  > 2014年6月习近平总书记说国际上有舆论认为机器人是“制造业皇冠顶端的明珠”其研发、制造、应用是衡量一个国家科技创新和高端制造业水平的重要标志我国机器人产业经历了怎样的发展历程？取得了哪些成绩？未来又...
+ ## [Omdia观察：2020年第四季度全球5G市场关键发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613440804&ver=2893&signature=PT9pojcIBmodbFI64fmT*c1ZHBa7k6GgY71UpC8GHVoifUFKh-ruENCcGnh5P2yztlWHirEwmAA*nSZM4kQEB*m2DajBMykALQ2ty0rxNbr8CQkUzAnQS*nqXU5a-C*w&new=1)
+ > 市场研究公司Omdia的最新报告研究追踪了2020年第四季度全球5G市场的关键发展趋势，Omdia服务提供商首席分析师Paul Lambert表示，全球电信运营商正持续推出新网络和扩展已有网络，并对最新的5G技术进行测试和部署...
+ ## [5G和AI大数据技术双双腾飞，全自动无人驾驶网约车真的离我们不远了?](http://mp.weixin.qq.com/s?src=11&timestamp=1613440804&ver=2893&signature=Oqjwudb63hZ5huVK1E0RqWa842XIWLHIH56xjtdoigqBwrfugcXKw9jGwqQ2B3OaPf6bhv*OGCwCGrebPobXyceI32VjigqoMi8SyVGusT-AOap8vZhWfK5X0ZomERfl&new=1)
+ > 随着国家“新四化”的同步推进和5G技术的普及，如今的汽车已经可以做到有条件的无人驾驶了。纵观全世界，我们中国的无人自动驾驶技术一直处于领先地位，如今已正式开放封闭/开放道路的有条件测试。究竟无人驾驶...
+ ## [一文读懂人工智能产业最新发展趋势](http://mp.weixin.qq.com/s?src=11&timestamp=1613440804&ver=2893&signature=GxXogyOhs8hDuMQf*Y0EOqcBGprSh18IDQhjgx5Q-hRSEko8qtTEJDj0N9CHzw*ealQlsy9cZtJZoOAPnEe9cgmjlvERnUfQVbLgnlaRdUwLJyBGF8GZjsU13ZFzEmqH&new=1)
+ > 当前，以新一代人工智能为代表的科技和产业革命正在孕育兴起。数字化、网络化、智能化的信息基础设施加速构建，以信息通信、生命、材料科学等交叉融合为特征的集成化创新、跨领域创新渐成主流，围绕“智能+”打...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,8 +33,10 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [JavaScript开发基础与提升视频课程](http://fellow.51cto.com/art/202101/640715.htm?qd=51ctojrzd)
- > JavaScript开发基础与提升视频课程
+ ## [Oracle性能优化之Linux操作系统优化_Oracle性能优化与故障诊断教程07](http://fellow.51cto.com/art/202012/636008.htm?qd=51ctojrzd)
+ > Oracle性能优化之Linux操作系统优化_Oracle性能优化与故障诊断教程07
+ ## [Filmulator：一个简单的、开源的 Raw 图像编辑器](http://os.51cto.com/art/202102/645834.htm)
+ > Filmulator 是一个开源的具有库管理功能的 raw 照片编辑应用，侧重于简单、易用和简化的工作流程。
  ## [这技巧颠覆三观！教你如何一键新建N个文件夹](http://os.51cto.com/art/202102/645826.htm)
  > 很多时候我们都需要一次批量新建多个文件夹，例如整理照片的时候，想要把照片分门别类，按照日期慢慢新建文
  ## [为什么你总是学不会Python，入门Python的4大陷阱](http://developer.51cto.com/art/202102/645786.htm)
@@ -110,5 +114,12 @@ categories: IT NEWS
  > 用 Python 写个计算器
  ## [用于CMFD的BusterNet神经网络介绍](https://blog.csdn.net/weixin_46703819/article/details/113799853)
  > 用于CMFD的BusterNet神经网络介绍
+# PM 
+ ## [回顾：中国5G手机销量拿到第一 全球跟着一起高兴？](http://www.chanpin100.com/article/113528)
+ > 问题随之而来，中国5G手机销量为何会领先全球？这对全球5G发展又带来什么积极的作用？
+ ## [一个不懂算法的产品“撩”推荐应用（附导图）](http://www.chanpin100.com/article/113527)
+ > 在网络信息时代的时代，大数据、算法为用户推荐方面提高精准的效率，可以更加快速、更加智能的帮助用户在海量的内容中，显示符合用户选择、贴合用户喜好的内容。推荐的发展，让用户可以更加“明确”他们的喜好，也可以让平台更加“了解”他们的爱好。
+ ## [【产品经理免费公开课】春节结束如何调整上班心态？](http://www.chanpin100.com/article/113529)
+ > 每次周末放两天假之后都会有周一综合症，春节一下放七天之后，症状指定也不会少！那么，春节假期结束后该如何快速调整心态，快快乐乐的上班呢？
 
     
