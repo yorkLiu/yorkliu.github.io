@@ -1,22 +1,30 @@
 ---
 title: 2021-02-17 IT News
 copyright: true
-date: 2021-02-17 10:04:27
+date: 2021-02-17 12:03:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [数据安全实践之数据安全日志审计平台](http://mp.weixin.qq.com/s?src=11&timestamp=1613527204&ver=2895&signature=ZaVtsRX6dsM*IoVPRnabCgGZ6PFC4hddEyTDSiQe2OexKoLWv6sZSV8a1e9TBEcfm4FJ-UILwdgDITiIs-fLyiwQqlFE6-XzTWOHIOEse3abMXto9qE2PgAx42WJya9X&new=1)
- > 前言此前写过一篇文章关于数据资产管理的一些实践方法，对于对数据安全来说其实也是对资产的识别，监控，保护，运营的循环过程。我们要清楚保护对象是什么，他有什么风险或者问题，然后如何保护，再持续提升。对...
- ## [挽救摩尔定律的关键：ASML EUV光刻机的量产历程](http://mp.weixin.qq.com/s?src=11&timestamp=1613527204&ver=2895&signature=YM*hV1n9Q*x7XfGODaRJrQenTtgLd7eiVWmRfppSgc6tTWo96jg4DZzMdcqAbBT6S6KP4xFf*mDW8b6UJTEzoZFVk*z*3PAx5iXspkEJ7Is3XSzAXUyWVhWI9Q8VMd4R&new=1)
- > 2019 年底在旧金山举办的年度国际电子元件会议（IEDM）上，台积电公布的两个报告标志着积体电路制造迈入了EUV光刻时代。第一个报告宣布了应用EUV光刻技术的7nm世代的改良版芯片已经于2019 年正式量产，我们知道...
- ## [俄媒：联想和华为位列俄罗斯个人电脑市场畅销前五](http://mp.weixin.qq.com/s?src=11&timestamp=1613527204&ver=2895&signature=*7VxVtqlzIfUmkdFCwdSNdbTxE3wcmy2-5ygQHdK8EAeFEie14ju5kLAmzsqIYNYZo*suL-d1g2ghmnxlJchow*tg3grbkR0Lbvw-90pHFE=&new=1)
- > 【环球网报道】《俄罗斯报》16日消息称，IDC（互联网数据中心）的一项研究显示，联想（Lenovo）和华为（Huawei）位列俄罗斯2020年第四季度个人电脑市场畅销前五名。报道援引IDC季度数据表明，俄罗斯个人电脑市场...
- ## [规模或达510亿美元!微软试图收购Pinterest，或志在壮大Azure云业务](http://mp.weixin.qq.com/s?src=11&timestamp=1613527204&ver=2895&signature=ESQv8k*FABQvSNSD6T*87IRJiAsZXRFcaB75xa33SOMvnMR8mdtgaLExYxDa33SwX-mmBtPSJ3xyHGhivUV*naPUWdHIb9OtStdXHKsnBkbKbutdeA2dbUZFj9thyWxs&new=1)
- > 近日，微软试图收购图片分享平台Pinterest的消息再次在业界热传。消息称，微软近几个月与Pinterest作过接洽，有意收购，但Pinterest先前就表示希望公司保持独立，因此，据《金融时报》引述消息人士指出，这桩并...
- ## [世卫组织：全球累计新冠确诊病例达108822960例](http://mp.weixin.qq.com/s?src=11&timestamp=1613527204&ver=2895&signature=boLBNdQG9Odxs6Yos4iypPbeCWNaGqwSN79NCIR8ntN3YCuZwp6wNUvA*IKTi1Q6EQ-XbiV8RYi1G3Ll96-PviMhxL-G2nKE9JwLvVTlk8Y=&new=1)
+ ## [\[报告\]颠覆趋势下的全球与中国汽车行业展望精简版(附46页PPT文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=3goPFJP-7QK0sxC69sM4o2i9FvD-zSP3Z3CE5rDY0KiH9k-YPbINcAzsISxbm0khXktkDzwLqUFg5wWY*rEWcQbYE2DyrJvFkHG0aHd2IVU8Ul34H-ph-Q3Dn3UUYLhi&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......本报告共计：46页。如欲获取完整版PPT文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业分析报告的朋...
+ ## [世卫组织：全球累计新冠确诊病例达108822960例](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=boLBNdQG9Odxs6Yos4iypPbeCWNaGqwSN79NCIR8ntNSOEoXEyLx1cmJeXJmiKu5mhfDW-*g22UCs4hXBgACuoD*g0XdE9zLqfVeR9qqswc=&new=1)
  > 新华社日内瓦2月16日电 世界卫生组织16日公布的最新数据显示，全球累计新冠确诊病例达108822960例。　　世卫组织网站最新数据显示，截至欧洲中部时间16日16时30分（北京时间23时30分），全球确诊病例较前一...
- ## [开源不等于免费!谷歌如何通过安卓开源成为移动时代霸主?|涛滔不绝](http://mp.weixin.qq.com/s?src=11&timestamp=1613527204&ver=2895&signature=hPW7pCadVn1DxESsSBOcLWtJ1tIlePuw2EbTN7kCu4eJkPRVkKn3-cVviqDw9zSWpXOy-*0ld*A5ZGgJKWSduyhaUmZ7fVa1SDw*FftJmbWBEROhsOfZh5*njvo*gHP7&new=1)
+ ## [重磅干货：3D打印质量优化和成本分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=BImowksBkXf0RxCl4I-Rq-ZjckIzth05M3MSDwq08Jk3ja2sTyGy36f86iAXzqrJcD78XKuk6XhIxbLyP78d6D-6HSzfwFknUHcQIeed*al*1gUDvC-A*hIA5ljGk9kr&new=1)
+ > 南极熊导读：在工业生产流程中，如果引入3D打印，能否赚钱？下面这个研究报告提供了非常详细的方法流程，让你进行评估。本文1.6万字，建议收藏分享后细读。重磅推荐！续《重磅干货：激光熔化增材制造缺陷因素汇...
+ ## [3D打印肉类替代品公司Redefine Meat获2900万美元融资](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=soqlYJ58Q1TO7ncBG7Krp0p*lHPgG0X7luGSU4GhZxyUvtVD3zvXfVNKd6fTXEasmOGHLk2DI4UhRiVgU1gaW0N*MchtSYr2chz20JG9svKWnGgcUXs7-8fqY8vu73nl&new=1)
+ > 以色列初创公司Redefine Meat周二表示，在风险投资公司Happiness Capital和Hanaco Ventures领投的一轮融资中筹集了2900万美元后，计划在全球范围内推出其3D打印的肉类替代品。报道称，Redefine
+ ## [地震监测站或存在巨大物联网安全威胁](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=BBZFK5G*zIavMZxjO7ncBJxhT-Y7NR-GMdmQ29N1GrR0Gs0Dymlh3jE0CqAyCb6lTDuPEEOaGFn7H282VEZAQD2AYgcAFkdSNfEo9wjFXjN0XkwjYIGk7hTnr6Ey4y4k&new=1)
+ > E安全2月17日讯 雅典国家天文台的专家Michael Samios在一项新研究中指出，数据、协议以及用户身份验证机制的安全问题都会导致地震网络的安全受到漏洞破坏。研究人员指出，连接到互联网的地震监测设备很容易受到...
+ ## [俄媒：联想和华为位列俄罗斯个人电脑市场畅销前五](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=*7VxVtqlzIfUmkdFCwdSNdbTxE3wcmy2-5ygQHdK8ECUAsQ1TrKZJ-NrVdHDGRoIHvnd32b1pYprgCppLmInz7V4JYikz4Ulz95rNag-Na0=&new=1)
+ > 【环球网报道】《俄罗斯报》16日消息称，IDC（互联网数据中心）的一项研究显示，联想（Lenovo）和华为（Huawei）位列俄罗斯2020年第四季度个人电脑市场畅销前五名。报道援引IDC季度数据表明，俄罗斯个人电脑市场...
+ ## [规模或达510亿美元!微软试图收购Pinterest，或志在壮大Azure云业务](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=ESQv8k*FABQvSNSD6T*87IRJiAsZXRFcaB75xa33SONBmkE78cTYz6Lva58CcgwKTdCxK*1tfxwk1Jmsc-6tDuLowLlzk4w-kcYQ1vRU4jVUtwOo0KcBifBbwblSO*kI&new=1)
+ > 近日，微软试图收购图片分享平台Pinterest的消息再次在业界热传。消息称，微软近几个月与Pinterest作过接洽，有意收购，但Pinterest先前就表示希望公司保持独立，因此，据《金融时报》引述消息人士指出，这桩并...
+ ## [挽救摩尔定律的关键：ASML EUV光刻机的量产历程](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=YM*hV1n9Q*x7XfGODaRJrQenTtgLd7eiVWmRfppSgc7l0vP54RZ2qBImfxTw63pkWsF-I4c2AroOgpPJYiHFo96pcyoNZQWFkVgEZUVSqWj*UX2BSz7Bc9*RvdtkhJv7&new=1)
+ > 2019 年底在旧金山举办的年度国际电子元件会议（IEDM）上，台积电公布的两个报告标志着积体电路制造迈入了EUV光刻时代。第一个报告宣布了应用EUV光刻技术的7nm世代的改良版芯片已经于2019 年正式量产，我们知道...
+ ## [数据安全实践之数据安全日志审计平台](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=ZaVtsRX6dsM*IoVPRnabCgGZ6PFC4hddEyTDSiQe2OfKTiKBf7r3KZWkxbSdFh6htArGz*husgXjpGxp9epubbuE7Q4hWcqLcIBUn*0vwqIHrMf85VxJlQ4lfyZpqUXz&new=1)
+ > 前言此前写过一篇文章关于数据资产管理的一些实践方法，对于对数据安全来说其实也是对资产的识别，监控，保护，运营的循环过程。我们要清楚保护对象是什么，他有什么风险或者问题，然后如何保护，再持续提升。对...
+ ## [开源不等于免费!谷歌如何通过安卓开源成为移动时代霸主?|涛滔不绝](http://mp.weixin.qq.com/s?src=11&timestamp=1613534405&ver=2895&signature=hPW7pCadVn1DxESsSBOcLWtJ1tIlePuw2EbTN7kCu4c9M189bX6xK*oDDfiJOijBjOXYcWrRQPqTcRDoN52fqG41aIrHyqkMfIbnoiXc90oTpEIHWcpZfHBpu0HSHISU&new=1)
  > 【编者按】十多年来，开源和商业化的话题一直是人们关注的焦点。从开发者、社区到企业的态度也逐渐从怀疑、保留走向积极拥抱。人们逐渐发现通过商业化的开源项目也能够有很好的发展，同时能够反哺社区，形成良性...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -33,8 +41,14 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Oracle数据库锁管理及锁分析_Oracle视频教程_基础深入与核心技术06](http://fellow.51cto.com/art/202012/637137.htm?qd=51ctojrzd)
- > Oracle数据库锁管理及锁分析_Oracle视频教程_基础深入与核心技术06
+ ## [BootStrap零基础学习实战视频课程](http://fellow.51cto.com/art/202101/639574.htm?qd=51ctojrzd)
+ > BootStrap零基础学习实战视频课程
+ ## [揭秘登上2021春晚舞台的黑科技-XR技术](http://virtual.51cto.com/art/202102/645906.htm)
+ > 2021牛年春晚的舞台效果太美了，在视觉表现、科技创新上做了诸多尝试，科技与传统文化相得益彰，高科技让传
+ ## [喝着枸杞水，大白差点把MySQL磁盘干爆](http://database.51cto.com/art/202102/645904.htm)
+ > 年前的一周，大白早早来到公司，像往常一样泡上一杯枸杞水，然后看了下数据库的磁盘。
+ ## [手把手教你用Python爬取百度搜索结果并保存](http://developer.51cto.com/art/202102/645900.htm)
+ > 众所周知，百度上直接搜索关键字会出来一大堆东西，时常还会伴随有广告出现，不小心就点进去了，还得花时间
  ## [异步请求和异步调用有区别？直到看到了7年前的一个问答](http://developer.51cto.com/art/202102/645899.htm)
  > 当你打开本文，首先想说的是，这篇文章不仅仅是在讲一个知识点，更重要的是在讲一种学习方法：质疑与求证。
  ## [Asp.net core中使用cookie身份验证](http://netsecurity.51cto.com/art/202102/645897.htm)
