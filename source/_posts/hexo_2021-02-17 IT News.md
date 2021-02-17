@@ -1,21 +1,21 @@
 ---
 title: 2021-02-17 IT News
 copyright: true
-date: 2021-02-17 08:06:32
+date: 2021-02-17 09:06:33
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [数据安全实践之数据安全日志审计平台](http://mp.weixin.qq.com/s?src=11&timestamp=1613520004&ver=2895&signature=ZaVtsRX6dsM*IoVPRnabCgGZ6PFC4hddEyTDSiQe2OexKoLWv6sZSV8a1e9TBEcfY0uv6BJ2x3HDKCH7ryI7ssZaR5kOAnrr4aHD1KUBMp7VJBTIlyMjUWnhilSALcaA&new=1)
- > 前言此前写过一篇文章关于数据资产管理的一些实践方法，对于对数据安全来说其实也是对资产的识别，监控，保护，运营的循环过程。我们要清楚保护对象是什么，他有什么风险或者问题，然后如何保护，再持续提升。对...
- ## [俄媒：联想和华为位列俄罗斯个人电脑市场畅销前五](http://mp.weixin.qq.com/s?src=11&timestamp=1613520004&ver=2895&signature=*7VxVtqlzIfUmkdFCwdSNdbTxE3wcmy2-5ygQHdK8EDPoCHJUhTeFjygF7Mz-upQLwNlrgh4Xl-gIxCKORs9lVMKbdmRXjpM5E42rVK5dBU=&new=1)
- > 【环球网报道】《俄罗斯报》16日消息称，IDC（互联网数据中心）的一项研究显示，联想（Lenovo）和华为（Huawei）位列俄罗斯2020年第四季度个人电脑市场畅销前五名。报道援引IDC季度数据表明，俄罗斯个人电脑市场...
- ## [开源不等于免费!谷歌如何通过安卓开源成为移动时代霸主?|涛滔不绝](http://mp.weixin.qq.com/s?src=11&timestamp=1613520004&ver=2895&signature=hPW7pCadVn1DxESsSBOcLWtJ1tIlePuw2EbTN7kCu4eJkPRVkKn3-cVviqDw9zSWPHD66pXqJQ*U5THbYLNfMgMLsqnZnivnurAOqmZ*0jHX2w5EeN8r6DQiiUtPYIl*&new=1)
+ ## [开源不等于免费!谷歌如何通过安卓开源成为移动时代霸主?|涛滔不绝](http://mp.weixin.qq.com/s?src=11&timestamp=1613523604&ver=2895&signature=hPW7pCadVn1DxESsSBOcLWtJ1tIlePuw2EbTN7kCu4eJkPRVkKn3-cVviqDw9zSWkoCtaGWlmLxmTCbMHL3GW4HyHN8Xi6olpU1uNIrJ7JTohX7-JRUcp*FDvY36gSuF&new=1)
  > 【编者按】十多年来，开源和商业化的话题一直是人们关注的焦点。从开发者、社区到企业的态度也逐渐从怀疑、保留走向积极拥抱。人们逐渐发现通过商业化的开源项目也能够有很好的发展，同时能够反哺社区，形成良性...
- ## [挽救摩尔定律的关键：ASML EUV光刻机的量产历程](http://mp.weixin.qq.com/s?src=11&timestamp=1613520004&ver=2895&signature=YM*hV1n9Q*x7XfGODaRJrQenTtgLd7eiVWmRfppSgc6tTWo96jg4DZzMdcqAbBT64oJZJizVT*zUMv4GI3wl5pDFtk34vI-xSdlHGD*LzJqipuA1rsiLy47wLC*G5foP&new=1)
- > 2019 年底在旧金山举办的年度国际电子元件会议（IEDM）上，台积电公布的两个报告标志着积体电路制造迈入了EUV光刻时代。第一个报告宣布了应用EUV光刻技术的7nm世代的改良版芯片已经于2019 年正式量产，我们知道...
- ## [规模或达510亿美元!微软试图收购Pinterest，或志在壮大Azure云业务](http://mp.weixin.qq.com/s?src=11&timestamp=1613520004&ver=2895&signature=ESQv8k*FABQvSNSD6T*87IRJiAsZXRFcaB75xa33SOMvnMR8mdtgaLExYxDa33SwnZ3EKH25sW9BIDvxVKZNHVRuBm4aZdt7a10SusFsMYLqvyR*bkAhSmO68c-4rSyz&new=1)
+ ## [规模或达510亿美元!微软试图收购Pinterest，或志在壮大Azure云业务](http://mp.weixin.qq.com/s?src=11&timestamp=1613523604&ver=2895&signature=ESQv8k*FABQvSNSD6T*87IRJiAsZXRFcaB75xa33SOMvnMR8mdtgaLExYxDa33SwD5ZPhXbgyaHj-A4tPbktj7qeKkho7C0MRGhes6YhJ6nqqYezTxBKU*pCmHqgmmBi&new=1)
  > 近日，微软试图收购图片分享平台Pinterest的消息再次在业界热传。消息称，微软近几个月与Pinterest作过接洽，有意收购，但Pinterest先前就表示希望公司保持独立，因此，据《金融时报》引述消息人士指出，这桩并...
+ ## [挽救摩尔定律的关键：ASML EUV光刻机的量产历程](http://mp.weixin.qq.com/s?src=11&timestamp=1613523604&ver=2895&signature=YM*hV1n9Q*x7XfGODaRJrQenTtgLd7eiVWmRfppSgc6tTWo96jg4DZzMdcqAbBT6YiS8*FmirlI14J9Y0nJ1vxo8gGPATSxHzQK5*xB2pL9GUbG6fJoZrAiN2a2IVX8E&new=1)
+ > 2019 年底在旧金山举办的年度国际电子元件会议（IEDM）上，台积电公布的两个报告标志着积体电路制造迈入了EUV光刻时代。第一个报告宣布了应用EUV光刻技术的7nm世代的改良版芯片已经于2019 年正式量产，我们知道...
+ ## [数据安全实践之数据安全日志审计平台](http://mp.weixin.qq.com/s?src=11&timestamp=1613523604&ver=2895&signature=ZaVtsRX6dsM*IoVPRnabCgGZ6PFC4hddEyTDSiQe2OexKoLWv6sZSV8a1e9TBEcfzyKHHqpDyPxJhGVjHwIqXD5e7tXr-ugZSmpiOL6G8XgWN5qPZEed6tWJQFh57rZX&new=1)
+ > 前言此前写过一篇文章关于数据资产管理的一些实践方法，对于对数据安全来说其实也是对资产的识别，监控，保护，运营的循环过程。我们要清楚保护对象是什么，他有什么风险或者问题，然后如何保护，再持续提升。对...
+ ## [俄媒：联想和华为位列俄罗斯个人电脑市场畅销前五](http://mp.weixin.qq.com/s?src=11&timestamp=1613523604&ver=2895&signature=*7VxVtqlzIfUmkdFCwdSNdbTxE3wcmy2-5ygQHdK8EBpvt-DszM5f1y9Unr-Jccf9h8FMBYPWrsg72gPlpsRf6jWKD3iWbLVS743pJSjs0g=&new=1)
+ > 【环球网报道】《俄罗斯报》16日消息称，IDC（互联网数据中心）的一项研究显示，联想（Lenovo）和华为（Huawei）位列俄罗斯2020年第四季度个人电脑市场畅销前五名。报道援引IDC季度数据表明，俄罗斯个人电脑市场...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [Python零基础入门学习视频教程](http://fellow.51cto.com/art/202101/640005.htm?qd=51ctojrzd)
- > Python零基础入门学习视频教程
+ ## [Cocos2D-x 手机游戏开发基础视频课程__Part 1](http://fellow.51cto.com/art/202101/641167.htm?qd=51ctojrzd)
+ > Cocos2D-x 手机游戏开发基础视频课程__Part 1
  ## [春节网购大数据：“逛吃逛吃”模式持续升温](http://bigdata.51cto.com/art/202102/645863.htm)
  > 红红火火的牛年春节期间，全国民众“逛吃逛吃”模式持续升温，美食、新衣、美妆、珠宝等“扮新”热门年货
  ## [所以，机器学习和深度学习的区别是什么？](http://ai.51cto.com/art/202102/645862.htm)
@@ -61,18 +61,18 @@ categories: IT NEWS
  > 盘点关于程序员的那些经典案例
  ## [我要悄悄学习，做一个浪漫的程序员](https://blog.csdn.net/qq_44895397/article/details/113736199)
  > 我要悄悄学习，做一个浪漫的程序员
- ## [中国程序员发明不了Node.js?](https://blog.csdn.net/coderising/article/details/109088919)
- > 中国程序员发明不了Node.js?
- ## [深度学习实战之垃圾分类](https://blog.csdn.net/public669/article/details/100176888)
- > 深度学习实战之垃圾分类
- ## [C语言 sizeof操作符详解](https://blog.csdn.net/wzy198852/article/details/7246836)
- > C语言 sizeof操作符详解
+ ## [【目标检测】Faster RCNN算法详解](https://blog.csdn.net/shenxiaolu1984/article/details/51152614)
+ > 【目标检测】Faster RCNN算法详解
+ ## [2020年Unity3D应届生面试题](https://blog.csdn.net/linxinfa/article/details/106822744)
+ > 
+ ## [\[Python图像处理\] 二十八.OpenCV快速实现人脸检测及视频中的人脸](https://blog.csdn.net/Eastmount/article/details/104463173)
+ > 
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [还在抱怨王者荣耀水晶难抽？PHP一文带你搞懂游戏中的抽奖算法](https://blog.csdn.net/weixin_41635750/article/details/109390653)
- > 
- ## [解决VSCode无法显示Unity代码提示的真正解决办法](https://blog.csdn.net/cbaili/article/details/110157060)
- > 解决VSCode无法显示Unity代码提示的真正解决办法
+ ## [GitHub Android开源Top10](https://blog.csdn.net/weixin_44758662/article/details/108785863)
+ > GitHub Android开源Top10
+ ## [C语言 sizeof操作符详解](https://blog.csdn.net/wzy198852/article/details/7246836)
+ > C语言 sizeof操作符详解
 # 人工智能 
  ## [【动手撸深度学习】深度挖掘AI的图像分类能力！](https://blog.csdn.net/qq_46098574/article/details/113814891)
  > 【动手撸深度学习】深度挖掘AI的图像分类能力！
