@@ -1,21 +1,21 @@
 ---
 title: 2021-02-19 IT News
 copyright: true
-date: 2021-02-19 08:45:34
+date: 2021-02-19 09:38:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [乘用车制造企业停车场导入AGV的可行性分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613694604&ver=2899&signature=uhT*HFJl57Mvldh0JY9ZzL15mcDw-2RQUWaiKrk5JGIsWtjzexXWo8jdEGEzYm42m8FLyOWM3nL-Tc0I49JHGAs6sHhpAmeYvFPfYfW97Rql1UQongXcA8Ha4o4lDR01&new=1)
- > 文｜广汽集团股份有限公司何新本文分析了乘用车车制造企业商品车停车场的搬运模式和导入AGV的必要性，并从导航技术以及车辆交换模式角度简要介绍了当前泊车AGV的发展现状；在分析商品车停车场AGV使用需求的基础...
- ## [全球「芯片荒」正引发蝴蝶效应](http://mp.weixin.qq.com/s?src=11&timestamp=1613694604&ver=2899&signature=p1S708cP1PxsRUCq7VNa0rG49QGF-mZV0Op1*3fW4Vo8xugqng0nJzAYLy9W3PjEkNMuRYl1Ab0nr9ER-oRnU6XXgkBehwhn5Gw-j1i*CFKxI2YQCdAVuMidzQ2LbjG4&new=1)
- > 不仅汽车行业，芯片在全球都成了「短缺物资」。一场大雪让本已吃紧的全球芯片产业雪上加霜。美国时间 2 月 16 日，受冬季暴风雪影响，美国得克萨斯州遭遇大面积电力故障，导致大规模的停电、供电瘫痪。为最大程...
- ## [5G部署现状：更快、更稳、更触手可及](http://mp.weixin.qq.com/s?src=11&timestamp=1613694604&ver=2899&signature=acZI-DyfBjIpPCy9cgX6tL*X2QaRowTqL7sYucR7Z44n7aUjLEWkN2laIma9x*kaEYQBvlc7nwk7jqgRn6iCSmS6uKhLcmEd5uymA5X*XlR0I3f1mwC-db-44zmUC-11&new=1)
+ ## [5G部署现状：更快、更稳、更触手可及](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=acZI-DyfBjIpPCy9cgX6tL*X2QaRowTqL7sYucR7Z44n7aUjLEWkN2laIma9x*kaOh4hnhWhVMT0vTMTZ2AetWNIp2yQfY*o3JlLsK5VBrlWYpJSyqQEAH1a-Pd52ExB&new=1)
  > 2月9日，高通技术公司宣布推出新一代高通骁龙5G调制解调器及射频系统、新一代5G射频前端解决方案以及第二代5G固定无线接入平台。其中骁龙X65是全球首个支持10Gbps 5G速率和首个符合3GPP Release 16规范的5G调制...
- ## [“牛”转乾坤、好运新年!中国电信线上娱乐拼盘陪您踏上新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1613694604&ver=2899&signature=947uNF2-Rlz1HWC7eutXn7SHbBOfW7SF97Jkan6PRp9yV989cZxFN-*5QvHPaqTwtzFM0oIWxmZ2ixsn6RUTSP34rYr5H47vA-XNh*y-iR5*l5YVQy-Nrp1QDZ7XuV7B&new=1)
- > 这个春节响应号召宅家的你，是不是会觉得这个年过得有点仓促？开工踏上新征程的你，有没有从节后综合征中缓过来？现在，运营商情报为您带来“中国电信5G大礼红包过新春”攻略，让我们的欢乐、大礼、红包延续到春...
- ## [妙用F5G，“懂行人”以“电网相融”助力深圳过好年、开好局!](http://mp.weixin.qq.com/s?src=11&timestamp=1613694604&ver=2899&signature=5i6yUlJ5DQtT5OBIBMU-xpH2erfg*XhTkMSZgU77gy00KdqetAMrSmk7YHS6yS8C1bTPqk7ELJp8MC*0x7vZCEcEs5lpVj0izy5SSAJbUNP2g5OyZGg7nbvtTvcBHoKD&new=1)
+ ## [妙用F5G，“懂行人”以“电网相融”助力深圳过好年、开好局!](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=5i6yUlJ5DQtT5OBIBMU-xpH2erfg*XhTkMSZgU77gy00KdqetAMrSmk7YHS6yS8CfqPOCXA6A4f0h6f3tkmeNqJA3-Bneo2vie4DIaXBBqY5-3zK1hOB6u*uYV8422vA&new=1)
  > 中国电力报 杨娜2021年春节，受新冠疫情影响，许多市民自发响应政府号召，异地过年。如何才能让大家舒心过好这个春节，各地政府也都积极携手工商业，策划了一系列的活动，助力营造良好的节日氛围。但无论是公共...
+ ## [全球「芯片荒」正引发蝴蝶效应](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=p1S708cP1PxsRUCq7VNa0rG49QGF-mZV0Op1*3fW4Vo8xugqng0nJzAYLy9W3PjE9x1leiPWeb6YVxazR-wXDEZ78rkvSS4lW0WyXlVD585vaGmQXWqXAJbHDaYvq4HR&new=1)
+ > 不仅汽车行业，芯片在全球都成了「短缺物资」。一场大雪让本已吃紧的全球芯片产业雪上加霜。美国时间 2 月 16 日，受冬季暴风雪影响，美国得克萨斯州遭遇大面积电力故障，导致大规模的停电、供电瘫痪。为最大程...
+ ## [乘用车制造企业停车场导入AGV的可行性分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=uhT*HFJl57Mvldh0JY9ZzL15mcDw-2RQUWaiKrk5JGIsWtjzexXWo8jdEGEzYm42QLswkTxVrhQtXAAimYgG2mdksDpyxQqmVMJvuE*8lNLlfKbQsnqD-WZxJ1JeVs5Z&new=1)
+ > 文｜广汽集团股份有限公司何新本文分析了乘用车车制造企业商品车停车场的搬运模式和导入AGV的必要性，并从导航技术以及车辆交换模式角度简要介绍了当前泊车AGV的发展现状；在分析商品车停车场AGV使用需求的基础...
+ ## [“牛”转乾坤、好运新年!中国电信线上娱乐拼盘陪您踏上新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=947uNF2-Rlz1HWC7eutXn7SHbBOfW7SF97Jkan6PRp9yV989cZxFN-*5QvHPaqTwz*FYpe0WcProOKqkXSyjxtgH0G89yYtYzr37J-pO9ZaVaBoBbLyhccLBKpXByVDm&new=1)
+ > 这个春节响应号召宅家的你，是不是会觉得这个年过得有点仓促？开工踏上新征程的你，有没有从节后综合征中缓过来？现在，运营商情报为您带来“中国电信5G大礼红包过新春”攻略，让我们的欢乐、大礼、红包延续到春...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,6 +31,16 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [大数据“守护”，为城市织起安全网](http://bigdata.51cto.com/art/202102/646097.htm)
+ > 就地过年，谁在助力大城小村的有序运行，谁来慰藉远方游子的一抹乡愁?除了各行各业坚守岗位的人们，“云端
+ ## [Android 12 首个开发者预览版发布：新界面，拥有众多底层更新](http://mobile.51cto.com/android-646095.htm)
+ > 2 月 19 日消息 谷歌今天发布了面向 Pixel 设备的下一版 Android 系统 Android 12 的首个开发者预览版。按
+ ## [订单下降了怎么办？一个完整案例彻底解读这个难题！](http://bigdata.51cto.com/art/202102/646092.htm)
+ > 数据分析除了在零售电商行业中被经常应用之外，互联网运营、传统行业等也同样分布广泛。而订单下降这个问题
+ ## [你真的知道如何埋点吗？](http://bigdata.51cto.com/art/202102/646088.htm)
+ > 今天讲述的埋点相关的基础知识点，希望对你有帮助～
  ## [用React-query解决你一半的状态管理问题](http://developer.51cto.com/art/202102/646085.htm)
  > React-Query是一个基于hooks的数据请求库。React-Query中的Query指一个异步请求的数据源。通过使用React-Qu
  ## [Windows 10更新来袭：微软解决高内存、蓝屏、屏幕渲染等问题](http://os.51cto.com/art/202102/646084.htm)
@@ -99,6 +109,8 @@ categories: IT NEWS
  ## [情人节用python写个贪吃蛇安慰自己](https://blog.csdn.net/hanhanwanghaha/article/details/113810474)
  > 情人节用python写个贪吃蛇安慰自己
 # PM 
+ ## [坐拥2亿流量 教培机构如何借助视频号将流量转化到知识店铺](http://www.chanpin100.com/article/113493)
+ > 教育行业在获客成本居高不下、投产比不均衡的困局之下，商家们都在各个“流量池”中寻找出路。2020年初，微信上线视频号功能，经过一年的沉淀，微信视频号已经被各个细分领域的商家、创作者“入侵”。
  ## [产品经理入门教程之自我介绍篇](http://www.chanpin100.com/article/113555)
  > 马上就到3月份了，俗话说金三银四，正式求职招聘的好时节。那么，作为一名产品经理去面试的时候该如何自我介绍呢？下边这份攻略送给你。
  ## [产品经理春节游西藏事儿](http://www.chanpin100.com/article/113554)
@@ -123,7 +135,5 @@ categories: IT NEWS
  > 某宝和某东分在在2018年5月24日03:00:00、2019年2月15日01:00:00正式面向所有商家及用户推出了平行式优惠门槛计算规则，停用原先的递进式门槛计算规则，简化后的规则更让用户更加一目了然的感知优惠力度。
  ## [产品经理入门教程之产品经理的职责是什么？](http://www.chanpin100.com/article/113546)
  > 不论是哪个职业，都会有自己的本身职责。那么，产品经理的职责是什么呢？今天小编为大家带来的产品经理入门教程就来讲一讲关于这方面的内容。
- ## [703亿次红包互动 撑起抖音社交“梦”了吗？](http://www.chanpin100.com/article/113542)
- > 牛年春晚的红包大战呈现一热一冷，热的是几大巨头拿出百余亿积极参战，冷的是少了过去类似“偷袭珍珠港”的传奇战果续唱传说。
 
     
