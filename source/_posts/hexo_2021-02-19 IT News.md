@@ -1,21 +1,29 @@
 ---
 title: 2021-02-19 IT News
 copyright: true
-date: 2021-02-19 10:24:29
+date: 2021-02-19 12:12:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G部署现状：更快、更稳、更触手可及](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=acZI-DyfBjIpPCy9cgX6tL*X2QaRowTqL7sYucR7Z45*4psCWKKmNc5xl310OLfwBl--EfhZmT5iBTRjzlufAmxEe4YYyCldOeZg-lqoXFjcuwHObG-v5ps5voxsM60o&new=1)
- > 2月9日，高通技术公司宣布推出新一代高通骁龙5G调制解调器及射频系统、新一代5G射频前端解决方案以及第二代5G固定无线接入平台。其中骁龙X65是全球首个支持10Gbps 5G速率和首个符合3GPP Release 16规范的5G调制...
- ## [妙用F5G，“懂行人”以“电网相融”助力深圳过好年、开好局!](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=5i6yUlJ5DQtT5OBIBMU-xpH2erfg*XhTkMSZgU77gy3yqSj6edijjJ-sx8k2cJotaloFzgDgR4Ky-fCr8NQ1AjiHSzO-6*VEL0e-uPtl1WYAGT1jq-xr84mgwYvrK99P&new=1)
- > 中国电力报 杨娜2021年春节，受新冠疫情影响，许多市民自发响应政府号召，异地过年。如何才能让大家舒心过好这个春节，各地政府也都积极携手工商业，策划了一系列的活动，助力营造良好的节日氛围。但无论是公共...
- ## [全球「芯片荒」正引发蝴蝶效应](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=p1S708cP1PxsRUCq7VNa0rG49QGF-mZV0Op1*3fW4VpqH2xmL-INNXkI74mQSklhv6z7Urw1a5gklhHNZGwRGZ98wkXfC2RO4zvl5sW8azZrSiRZbixZELeSNPn7vqmY&new=1)
- > 不仅汽车行业，芯片在全球都成了「短缺物资」。一场大雪让本已吃紧的全球芯片产业雪上加霜。美国时间 2 月 16 日，受冬季暴风雪影响，美国得克萨斯州遭遇大面积电力故障，导致大规模的停电、供电瘫痪。为最大程...
- ## [乘用车制造企业停车场导入AGV的可行性分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=uhT*HFJl57Mvldh0JY9ZzL15mcDw-2RQUWaiKrk5JGIho6GpesiAvbeXkpyuEWCzBjVq1GKF6nGIR0F8VSgKPMLl0cSqMRP036MQfSqcHJaOPzH43BDTCAyczomMS1VA&new=1)
- > 文｜广汽集团股份有限公司何新本文分析了乘用车车制造企业商品车停车场的搬运模式和导入AGV的必要性，并从导航技术以及车辆交换模式角度简要介绍了当前泊车AGV的发展现状；在分析商品车停车场AGV使用需求的基础...
- ## [“牛”转乾坤、好运新年!中国电信线上娱乐拼盘陪您踏上新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=947uNF2-Rlz1HWC7eutXn7SHbBOfW7SF97Jkan6PRp843jsDpNlLqYvV-3Kdr52JT31p*5OaOqx06hraNsc8jkgzN7h-aGU4Y8d-25LytZyhD6eZ9mqIcHffB9r0Hjv4&new=1)
+ ## [获3500万美元D轮融资，3D打印数字制造的“滴滴打车”Fictiv平台正在崛起](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=9RM-oA9hGKNkmWDBiDreuhVme0ragdcKQ*nFvpjmwcF9OG6RRuFh0F9dyXjJxhIwGSxfHdMcTIKCqrlaOxRU4VMjbNt9FU7*6J9JPalvyZUMr6obP-PAWxuGj*B0HL7B&new=1)
+ > 导读：就像“滴滴打车”一样，集合空余的乘车服务能力到一个平台上，提供给乘客。制造业（3D打印）领域的工厂，也经常会有空余的制造服务能力，如果集合到一个平台上，也可以做出“滴滴制造”平台（商业计划书请...
+ ## [新冠疫苗广泛使用的同时，数据泄露风险也显著增加](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=bO*Rp2lBh1mMhUyJe8JJ8qNBNhlC5f8wmiJ3LnyDyaQ8q6nXHQANEDSIXDRDAp**yWefE4PNbk5cJr*5jLf-S9GctrCyZ6dZdd56vDQqg*466iYK5JYR7hwRYC14tRjB&new=1)
+ > E安全2月19日讯  据报道，朝鲜试图盗取美国制药巨头辉瑞公司的COVID-19疫苗数据。据英国广播公司报道，韩国国家情报局已经介绍了所谓的网络攻击，尽管目前尚不确定是否有任何数据被盗。辉瑞公司是最近几个月开发...
+ ## [“牛”转乾坤、好运新年!中国电信线上娱乐拼盘陪您踏上新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=947uNF2-Rlz1HWC7eutXn7SHbBOfW7SF97Jkan6PRp843jsDpNlLqYvV-3Kdr52J-UXVAy2PDfWsLCfw9qN57dxvEnSEAAoV3m9NWnwrmTJ5jEhnlacWt9M8rjAyJBNE&new=1)
  > 这个春节响应号召宅家的你，是不是会觉得这个年过得有点仓促？开工踏上新征程的你，有没有从节后综合征中缓过来？现在，运营商情报为您带来“中国电信5G大礼红包过新春”攻略，让我们的欢乐、大礼、红包延续到春...
+ ## [Stratasys收购英国RPS，将升级其内部SLA 3D打印系统](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=kfPLsrKlRatQdt5fNllRwEq0ifiOdmMtzcYm-be9YncA5CHKWPX3nYGKmzSpWfOB4Jp-tBUuVhWFGs5w86XzTm20N1ZMrJLSEhch5xeiThpXNlFVXoUyIZeIQREPa05*&new=1)
+ > 继12月份收购DLP系统制造商Origin之后，领先的3D打印机厂商Stratasys现在已收购了英国的RPS，RPS是工业级SLA 3D打印机的提供商。Stratasys没有透露RPS的收购价格。此次收购使Stratasys能够使用RPS
+ ## [高新区10家规上工企 假期创产值7870万元](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=7zw*f3KgyJu5hNASG7dLhpTmqf7uVD3gaIBd*JM8a0GDXlj9S*5QojFhLjOqOcxN*NK0-AzW3OTqi*RleVieZaSDg*fdeqcQVfcgXcn8h2s=&new=1)
+ > 备料、组装、测试……春节假期，贵州雅光电子科技股份有限公司的生产车间内一片繁忙。“为了能按时交付订单，公司号召不停工不停产，工人们纷纷支持。”贵州雅光电子科技股份有限公司经理部部长彭绍波说。　...
+ ## [全球「芯片荒」正引发蝴蝶效应](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=p1S708cP1PxsRUCq7VNa0rG49QGF-mZV0Op1*3fW4VpqH2xmL-INNXkI74mQSklhFqrgy06X-o*mv*IeR5-joE8C72PjKQRyMfGPg*AA9Dtst7JM4ldlK4uXapG1CilM&new=1)
+ > 不仅汽车行业，芯片在全球都成了「短缺物资」。一场大雪让本已吃紧的全球芯片产业雪上加霜。美国时间 2 月 16 日，受冬季暴风雪影响，美国得克萨斯州遭遇大面积电力故障，导致大规模的停电、供电瘫痪。为最大程...
+ ## [乘用车制造企业停车场导入AGV的可行性分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=uhT*HFJl57Mvldh0JY9ZzL15mcDw-2RQUWaiKrk5JGIho6GpesiAvbeXkpyuEWCzXslsVieDdHy20ZEfKputK3djZfinZepwpImLH00G6VZiCoRMrbOdp-JcwwkQO2sE&new=1)
+ > 文｜广汽集团股份有限公司何新本文分析了乘用车车制造企业商品车停车场的搬运模式和导入AGV的必要性，并从导航技术以及车辆交换模式角度简要介绍了当前泊车AGV的发展现状；在分析商品车停车场AGV使用需求的基础...
+ ## [5G部署现状：更快、更稳、更触手可及](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=acZI-DyfBjIpPCy9cgX6tL*X2QaRowTqL7sYucR7Z45*4psCWKKmNc5xl310OLfw-KJmEUu5*zkMmqeh13-wBmuqiXUwC8WpuNq3YACQ4pGf*nSYLVscVHR18wix7nXJ&new=1)
+ > 2月9日，高通技术公司宣布推出新一代高通骁龙5G调制解调器及射频系统、新一代5G射频前端解决方案以及第二代5G固定无线接入平台。其中骁龙X65是全球首个支持10Gbps 5G速率和首个符合3GPP Release 16规范的5G调制...
+ ## [妙用F5G，“懂行人”以“电网相融”助力深圳过好年、开好局!](http://mp.weixin.qq.com/s?src=11&timestamp=1613707204&ver=2899&signature=5i6yUlJ5DQtT5OBIBMU-xpH2erfg*XhTkMSZgU77gy3yqSj6edijjJ-sx8k2cJot7PrmHIoUY2DM1gi4yPhHAfnLz4o0lBRzqol*UBDI*-uKtK9k69uoFt-89BpFIGGT&new=1)
+ > 中国电力报 杨娜2021年春节，受新冠疫情影响，许多市民自发响应政府号召，异地过年。如何才能让大家舒心过好这个春节，各地政府也都积极携手工商业，策划了一系列的活动，助力营造良好的节日氛围。但无论是公共...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
@@ -31,28 +39,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [在Linux系统上安装WebLogic11g中间件_WebLogic中间件维护与管理03](http://fellow.51cto.com/art/202012/636942.htm?qd=51ctojrzd)
- > 在Linux系统上安装WebLogic11g中间件_WebLogic中间件维护与管理03
- ## [数字产业化，产业数字化，能源大数据中心建设正当时！](http://network.51cto.com/art/202102/646115.htm)
- > 大数据中心的重要性早已不言而喻，那么，能源大数据中心的建设重要吗？
- ## [如何在业务中断最小的情况下切换IT服务提供商](http://network.51cto.com/art/202102/646113.htm)
- > 在2020年初的时候，很多组织将IT投资列为2020年的关键事项。然而在几个月之后，由于发生冠状病毒疫情，许多
- ## [Buffer overflow 缓冲区原理与实验](http://fellow.51cto.com/art/202102/646041.htm)
- > 帮助学员学习内存安全中 缓冲区溢出问题原理
- ## [2021年，诸多AI企业开启上市竞赛模式，你更看好哪几家？](http://ai.51cto.com/art/202102/646112.htm)
- > 人工智能企业上市，是让股民分一杯增长红利之羹？还是割韭菜？目前还是众说纷坛。但不管怎样，2021年，诸多
- ## [“大数据杀熟”行为有了细化认定标准](http://bigdata.51cto.com/art/202102/646106.htm)
- > 对于社会关切的“二选一”“大数据杀熟”等平台经济领域垄断行为，如何细化认定？国务院反垄断委员会2月7日
- ## [Kubernetes上的Spark变得轻松](http://cloud.51cto.com/art/202102/646102.htm)
- > 如果您正在寻找关于Kubernetes上的Spark的高级介绍，请签出在Kubernetes上运行Spark的优缺点，如果您正在寻
- ## [解决烦人网站通知，微软 Edge 浏览器推出自适应通知功能](http://os.51cto.com/art/202102/646101.htm)
- > 2 月 19 日消息 微软基于 Chromium 的 Edge 浏览器又获得了另一个有趣的功能――自适应通知。
- ## [物联网如何创新公共安全市场](http://iot.51cto.com/art/202102/646100.htm)
- > 尽管执法机构正在努力保持世界各地社区的法律和秩序完好无损，但对他们来说，同时跟踪所有恶意活动的难度越
- ## [大数据分析：Docker虚拟化解析](http://bigdata.51cto.com/art/202102/646098.htm)
- > 开发人员利用 Docker 可以消除协作编码时“在我的机器上可正常工作”的问题。开发需要清楚的告诉运维部署团
- ## [大数据“守护”，为城市织起安全网](http://bigdata.51cto.com/art/202102/646097.htm)
- > 就地过年，谁在助力大城小村的有序运行，谁来慰藉远方游子的一抹乡愁?除了各行各业坚守岗位的人们，“云端
+ ## [【113】-企业网络架构介绍](http://fellow.51cto.com/art/202101/642005.htm?qd=51ctojrzd)
+ > 【113】-企业网络架构介绍
+ ## [地震监测预警面临三大网络安全威胁](http://zhuanlan.51cto.com/art/202102/646137.htm)
+ > 与登陆火星相比，地震监测和预警是当今科技发展造福社会更为直观的成果之一。但是大多数人，包括负责地震研
+ ## [谷歌Robotics研究科学家：记住5个问题，快速理解ML论文要点](http://zhuanlan.51cto.com/art/202102/646136.htm)
+ > 机器学习领域非常火热，新的模型、技术不断更新非常快，要求我们在平时的工作和学习过程中，会需要去阅读一
+ ## [物理安全事件增长加重IT安全压力](http://netsecurity.51cto.com/art/202102/646135.htm)
+ > 新冠肺炎疫情伊始，物理安全事件随之增多，许多公司企业的IT安全团队压力骤增。
+ ## [美国司法部指控三名朝鲜程序员](http://zhuanlan.51cto.com/art/202102/646133.htm)
+ > 近日，美国司法部指控三名朝鲜程序员，声称他们参与了一系列全球重大网络攻击。
+ ## [什么是UbiComp普适计算？它与IoT物联网有哪些联系与区别？](http://iot.51cto.com/art/202102/646132.htm)
+ > 与传统的桌面计算相比，「普适计算」可以在任何时间，使用任何设备，在任何地点，以任何格式进行，这大大拓
+ ## [商用倒计时 5G消息“点火”在即](http://network.51cto.com/art/202102/646131.htm)
+ > 5G消息，被视为运营商5G时代重大业务创新。在运营商内部也称之为“内循环背景下5G通信能力的精准供给”，寄
+ ## [机器人流程自动化的发展展望](http://ai.51cto.com/art/202102/646130.htm)
+ > 随着企业致力于提高效率，通常认为采用新技术就可以解决所有问题。但是，不应低估人员与技术之间的相互依赖
+ ## [2021开工大吉！这5个提高效率的宝藏APP，帮你变得更优秀](http://mobile.51cto.com/ahot-646139.htm)
+ > 新的一年开始了，我们又回到了自己的工作岗位上。2021年开工大吉！下面这5个提高效率的宝藏APP，帮你变得更
+ ## [这个异步问题你肯定遇到过，但是会解决的并不多](http://developer.51cto.com/art/202102/646127.htm)
+ > 大家肯定遇到过这样类似的场景：多个 Tab 页点击切换功能，如果用户点击频繁，很可能会出现当前页面显示别
+ ## [2021年真的是5G toB的元年吗?](http://network.51cto.com/art/202102/646125.htm)
+ > “你们还相信光吗?”这一句《奥特曼》中的台词，让众多人内心依然保存了一份初心，而在5G产业中，也流传着
  ## [这个国外大学生的作弊神器，竟是乔布斯的老朋友做的？](https://blog.csdn.net/weixin_39787242/article/details/113812832)
  > 这个国外大学生的作弊神器，竟是乔布斯的老朋友做的？
  ## [程序员的表白文，加点不一样的料！](https://blog.csdn.net/weixin_47723732/article/details/113838407)
@@ -115,6 +123,8 @@ categories: IT NEWS
  ## [用Python画一颗心、小人发射爱心](https://blog.csdn.net/m0_46278037/article/details/113819989)
  > 用Python画一颗心、小人发射爱心
 # PM 
+ ## [产品经理常见面试题精选（一）](http://www.chanpin100.com/article/113557)
+ > 马上就要到金三银四的求职高峰期了，为了方便各位产品经理去面试。小编在这里为大家整理了一份产品经理常见面试题，希望可以帮到大家。
  ## [如何使一场B端活动的效益达到、甚至突破预期？](http://www.chanpin100.com/article/113556)
  > 做B端的活动就要切忌不在于多，而是精准的思考如何将一场营销活动效果最大化，且有体系、有计划的开展。
  ## [坐拥2亿流量 教培机构如何借助视频号将流量转化到知识店铺](http://www.chanpin100.com/article/113493)
@@ -135,11 +145,5 @@ categories: IT NEWS
  > 在产品的路上，和产品经理一起去探索金融职场的星辰大海。但当你决定要跳槽的时候，那就尽快准备好面试怎么问答吧。
  ## [产品经理入门教程之面试题汇总](http://www.chanpin100.com/article/113547)
  > 还有半个月，就又到了一年一度的金三银四求职高峰期了。小编在这里为大家准备的产品经理入门教程是关于面试题的，在此祝各位都能找到自己满意的工作。
- ## [深入看透低代码——阿里、腾讯等巨头火拼的下个风口](http://www.chanpin100.com/article/113545)
- > 2021开年“低代码”接力“中台”燃起了熊熊之火，引发了众多业内人士论战。本文主要聊聊低代码火爆的背景、优势、劣势，主要用户、客户，企业选择及行业竞争等。
- ## [数据埋点：后端接口/日志的请求和存储](http://www.chanpin100.com/article/113544)
- > 一般只要说到数据埋点通常情况下都是指前端的数据埋点，而并非后端数据埋点。所以往往会忽视后端埋点在整个数据埋点的作用。数据埋点作为数据分析、数据仓储等的基础。在设计数据埋点的时候我们不光要依据前端特性去设计前端的数据埋点。还需要了解后端特性结合业务进行埋点设计。
- ## [优惠计算规则:平行式门槛与递进式门槛的区别](http://www.chanpin100.com/article/113543)
- > 某宝和某东分在在2018年5月24日03:00:00、2019年2月15日01:00:00正式面向所有商家及用户推出了平行式优惠门槛计算规则，停用原先的递进式门槛计算规则，简化后的规则更让用户更加一目了然的感知优惠力度。
 
     
