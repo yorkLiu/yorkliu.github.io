@@ -1,20 +1,20 @@
 ---
 title: 2021-02-19 IT News
 copyright: true
-date: 2021-02-19 09:38:54
+date: 2021-02-19 10:24:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [5G部署现状：更快、更稳、更触手可及](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=acZI-DyfBjIpPCy9cgX6tL*X2QaRowTqL7sYucR7Z44n7aUjLEWkN2laIma9x*kaOh4hnhWhVMT0vTMTZ2AetWNIp2yQfY*o3JlLsK5VBrlWYpJSyqQEAH1a-Pd52ExB&new=1)
+ ## [5G部署现状：更快、更稳、更触手可及](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=acZI-DyfBjIpPCy9cgX6tL*X2QaRowTqL7sYucR7Z45*4psCWKKmNc5xl310OLfwBl--EfhZmT5iBTRjzlufAmxEe4YYyCldOeZg-lqoXFjcuwHObG-v5ps5voxsM60o&new=1)
  > 2月9日，高通技术公司宣布推出新一代高通骁龙5G调制解调器及射频系统、新一代5G射频前端解决方案以及第二代5G固定无线接入平台。其中骁龙X65是全球首个支持10Gbps 5G速率和首个符合3GPP Release 16规范的5G调制...
- ## [妙用F5G，“懂行人”以“电网相融”助力深圳过好年、开好局!](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=5i6yUlJ5DQtT5OBIBMU-xpH2erfg*XhTkMSZgU77gy00KdqetAMrSmk7YHS6yS8CfqPOCXA6A4f0h6f3tkmeNqJA3-Bneo2vie4DIaXBBqY5-3zK1hOB6u*uYV8422vA&new=1)
+ ## [妙用F5G，“懂行人”以“电网相融”助力深圳过好年、开好局!](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=5i6yUlJ5DQtT5OBIBMU-xpH2erfg*XhTkMSZgU77gy3yqSj6edijjJ-sx8k2cJotaloFzgDgR4Ky-fCr8NQ1AjiHSzO-6*VEL0e-uPtl1WYAGT1jq-xr84mgwYvrK99P&new=1)
  > 中国电力报 杨娜2021年春节，受新冠疫情影响，许多市民自发响应政府号召，异地过年。如何才能让大家舒心过好这个春节，各地政府也都积极携手工商业，策划了一系列的活动，助力营造良好的节日氛围。但无论是公共...
- ## [全球「芯片荒」正引发蝴蝶效应](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=p1S708cP1PxsRUCq7VNa0rG49QGF-mZV0Op1*3fW4Vo8xugqng0nJzAYLy9W3PjE9x1leiPWeb6YVxazR-wXDEZ78rkvSS4lW0WyXlVD585vaGmQXWqXAJbHDaYvq4HR&new=1)
+ ## [全球「芯片荒」正引发蝴蝶效应](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=p1S708cP1PxsRUCq7VNa0rG49QGF-mZV0Op1*3fW4VpqH2xmL-INNXkI74mQSklhv6z7Urw1a5gklhHNZGwRGZ98wkXfC2RO4zvl5sW8azZrSiRZbixZELeSNPn7vqmY&new=1)
  > 不仅汽车行业，芯片在全球都成了「短缺物资」。一场大雪让本已吃紧的全球芯片产业雪上加霜。美国时间 2 月 16 日，受冬季暴风雪影响，美国得克萨斯州遭遇大面积电力故障，导致大规模的停电、供电瘫痪。为最大程...
- ## [乘用车制造企业停车场导入AGV的可行性分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=uhT*HFJl57Mvldh0JY9ZzL15mcDw-2RQUWaiKrk5JGIsWtjzexXWo8jdEGEzYm42QLswkTxVrhQtXAAimYgG2mdksDpyxQqmVMJvuE*8lNLlfKbQsnqD-WZxJ1JeVs5Z&new=1)
+ ## [乘用车制造企业停车场导入AGV的可行性分析](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=uhT*HFJl57Mvldh0JY9ZzL15mcDw-2RQUWaiKrk5JGIho6GpesiAvbeXkpyuEWCzBjVq1GKF6nGIR0F8VSgKPMLl0cSqMRP036MQfSqcHJaOPzH43BDTCAyczomMS1VA&new=1)
  > 文｜广汽集团股份有限公司何新本文分析了乘用车车制造企业商品车停车场的搬运模式和导入AGV的必要性，并从导航技术以及车辆交换模式角度简要介绍了当前泊车AGV的发展现状；在分析商品车停车场AGV使用需求的基础...
- ## [“牛”转乾坤、好运新年!中国电信线上娱乐拼盘陪您踏上新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1613698204&ver=2899&signature=947uNF2-Rlz1HWC7eutXn7SHbBOfW7SF97Jkan6PRp9yV989cZxFN-*5QvHPaqTwz*FYpe0WcProOKqkXSyjxtgH0G89yYtYzr37J-pO9ZaVaBoBbLyhccLBKpXByVDm&new=1)
+ ## [“牛”转乾坤、好运新年!中国电信线上娱乐拼盘陪您踏上新征程](http://mp.weixin.qq.com/s?src=11&timestamp=1613700004&ver=2899&signature=947uNF2-Rlz1HWC7eutXn7SHbBOfW7SF97Jkan6PRp843jsDpNlLqYvV-3Kdr52JT31p*5OaOqx06hraNsc8jkgzN7h-aGU4Y8d-25LytZyhD6eZ9mqIcHffB9r0Hjv4&new=1)
  > 这个春节响应号召宅家的你，是不是会觉得这个年过得有点仓促？开工踏上新征程的你，有没有从节后综合征中缓过来？现在，运营商情报为您带来“中国电信5G大礼红包过新春”攻略，让我们的欢乐、大礼、红包延续到春...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
@@ -31,22 +31,28 @@ categories: IT NEWS
  > 鸿蒙HarmonyOS单模块编译与源码导读
  ## [为什么伟大程序员没有中国人？](http://news.51cto.com/art/202102/645111.htm)
  > 为什么伟大程序员没有中国人？
- ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
- > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [在Linux系统上安装WebLogic11g中间件_WebLogic中间件维护与管理03](http://fellow.51cto.com/art/202012/636942.htm?qd=51ctojrzd)
+ > 在Linux系统上安装WebLogic11g中间件_WebLogic中间件维护与管理03
+ ## [数字产业化，产业数字化，能源大数据中心建设正当时！](http://network.51cto.com/art/202102/646115.htm)
+ > 大数据中心的重要性早已不言而喻，那么，能源大数据中心的建设重要吗？
+ ## [如何在业务中断最小的情况下切换IT服务提供商](http://network.51cto.com/art/202102/646113.htm)
+ > 在2020年初的时候，很多组织将IT投资列为2020年的关键事项。然而在几个月之后，由于发生冠状病毒疫情，许多
+ ## [Buffer overflow 缓冲区原理与实验](http://fellow.51cto.com/art/202102/646041.htm)
+ > 帮助学员学习内存安全中 缓冲区溢出问题原理
+ ## [2021年，诸多AI企业开启上市竞赛模式，你更看好哪几家？](http://ai.51cto.com/art/202102/646112.htm)
+ > 人工智能企业上市，是让股民分一杯增长红利之羹？还是割韭菜？目前还是众说纷坛。但不管怎样，2021年，诸多
+ ## [“大数据杀熟”行为有了细化认定标准](http://bigdata.51cto.com/art/202102/646106.htm)
+ > 对于社会关切的“二选一”“大数据杀熟”等平台经济领域垄断行为，如何细化认定？国务院反垄断委员会2月7日
+ ## [Kubernetes上的Spark变得轻松](http://cloud.51cto.com/art/202102/646102.htm)
+ > 如果您正在寻找关于Kubernetes上的Spark的高级介绍，请签出在Kubernetes上运行Spark的优缺点，如果您正在寻
+ ## [解决烦人网站通知，微软 Edge 浏览器推出自适应通知功能](http://os.51cto.com/art/202102/646101.htm)
+ > 2 月 19 日消息 微软基于 Chromium 的 Edge 浏览器又获得了另一个有趣的功能――自适应通知。
+ ## [物联网如何创新公共安全市场](http://iot.51cto.com/art/202102/646100.htm)
+ > 尽管执法机构正在努力保持世界各地社区的法律和秩序完好无损，但对他们来说，同时跟踪所有恶意活动的难度越
+ ## [大数据分析：Docker虚拟化解析](http://bigdata.51cto.com/art/202102/646098.htm)
+ > 开发人员利用 Docker 可以消除协作编码时“在我的机器上可正常工作”的问题。开发需要清楚的告诉运维部署团
  ## [大数据“守护”，为城市织起安全网](http://bigdata.51cto.com/art/202102/646097.htm)
  > 就地过年，谁在助力大城小村的有序运行，谁来慰藉远方游子的一抹乡愁?除了各行各业坚守岗位的人们，“云端
- ## [Android 12 首个开发者预览版发布：新界面，拥有众多底层更新](http://mobile.51cto.com/android-646095.htm)
- > 2 月 19 日消息 谷歌今天发布了面向 Pixel 设备的下一版 Android 系统 Android 12 的首个开发者预览版。按
- ## [订单下降了怎么办？一个完整案例彻底解读这个难题！](http://bigdata.51cto.com/art/202102/646092.htm)
- > 数据分析除了在零售电商行业中被经常应用之外，互联网运营、传统行业等也同样分布广泛。而订单下降这个问题
- ## [你真的知道如何埋点吗？](http://bigdata.51cto.com/art/202102/646088.htm)
- > 今天讲述的埋点相关的基础知识点，希望对你有帮助～
- ## [用React-query解决你一半的状态管理问题](http://developer.51cto.com/art/202102/646085.htm)
- > React-Query是一个基于hooks的数据请求库。React-Query中的Query指一个异步请求的数据源。通过使用React-Qu
- ## [Windows 10更新来袭：微软解决高内存、蓝屏、屏幕渲染等问题](http://os.51cto.com/art/202102/646084.htm)
- > 据外媒报道称，微软为1909及以上版本推出Windows 10 KB4601380可选非安全更新。与上个月的可选更新不同，本
- ## [压岁钱太多怎么办？微信提现免手续费你会吗](http://mobile.51cto.com/ahot-646083.htm)
- > 心心念的春节假期终于过完了，小伙伴们是不是都赚了个盆满钵满。不过问题也来了，这么多钱放到微信里不太方
  ## [这个国外大学生的作弊神器，竟是乔布斯的老朋友做的？](https://blog.csdn.net/weixin_39787242/article/details/113812832)
  > 这个国外大学生的作弊神器，竟是乔布斯的老朋友做的？
  ## [程序员的表白文，加点不一样的料！](https://blog.csdn.net/weixin_47723732/article/details/113838407)
@@ -65,50 +71,52 @@ categories: IT NEWS
  > 当代青年善待爸妈指南
  ## [可怕的不是堕落，而是清楚自己在堕落](https://blog.csdn.net/qaqlalala/article/details/113812342)
  > 可怕的不是堕落，而是清楚自己在堕落
- ## [“火星人”马斯克推论：世界或是被编码而成，上帝可能是个程序员！](https://blog.csdn.net/csdnnews/article/details/112598032)
- > “火星人”马斯克推论：世界或是被编码而成，上帝可能是个程序员！
- ## [【斗鱼直播源】浏览器抓取真实直播源地址(纯前端JS & PHP解析源码)](https://blog.csdn.net/zy1281539626/article/details/112426275)
- > 【斗鱼直播源】浏览器抓取真实直播源地址(纯前端JS &amp; PHP解析源码)
- ## [基于Java和MySQL的图书管理系统](https://blog.csdn.net/qq_29300341/article/details/80753043)
- > 基于Java和MySQL的图书管理系统
+ ## [Python基础知识总结（期末复习精简版）](https://blog.csdn.net/m0_46521785/article/details/106414720)
+ > 
+ ## [Unity面试题（包含答案）](https://blog.csdn.net/qq_34937637/article/details/79653525)
+ > Unity面试题（包含答案）
+ ## [2020最全前端面试系列（VUE）（初学者快速上手的前端框架）](https://blog.csdn.net/weixin_45495667/article/details/106909508)
+ > 
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [数据处理一条龙！这15个Python库不可不知](https://blog.csdn.net/duxinshuxiaobian/article/details/105638527)
- > 数据处理一条龙！这15个Python库不可不知
- ## [我没学过计算机，是怎么接了四个私活还挣了两个 iPad 的？](https://blog.csdn.net/jackson0714/article/details/108859897)
- > 
+ ## [Jetson Nano 从入门到实战（案例：Opencv配置、人脸检测、二维码检测）](https://blog.csdn.net/qianbin3200896/article/details/103760640)
+ > Jetson Nano 从入门到实战（案例：Opencv配置、人脸检测、二维码检测）
+ ## [2020 年你读了哪些觉得比较好的计算机书籍？](https://blog.csdn.net/epubit17/article/details/109751478)
+ > 2020 年你读了哪些觉得比较好的计算机书籍？
 # 人工智能 
- ## [BERT预训练模型简单应用（中文句子向量相关性分析）](https://blog.csdn.net/Charzous/article/details/113824876)
- > BERT预训练模型简单应用（中文句子向量相关性分析）
- ## [【动手撸深度学习】不吹不黑一份代码即可进Kaggle排行榜！](https://blog.csdn.net/qq_46098574/article/details/113836566)
- > 【动手撸深度学习】不吹不黑一份代码即可进Kaggle排行榜！
- ## [Python OpenCV 图像的几何变换，先说不平凡的 resize 函数](https://blog.csdn.net/hihell/article/details/113820665)
- > Python OpenCV 图像的几何变换，先说不平凡的 resize 函数
- ## [冒泡排序](https://blog.csdn.net/Fdog_/article/details/113823891)
- > 冒泡排序
- ## [-1岁的产品经理日记——part2（笔经，群面篇）](https://blog.csdn.net/harvan_tang/article/details/113792790)
- > -1岁的产品经理日记——part2（笔经，群面篇）
+ ## [如何让酝酿8年的想法在1小时内实现？](https://blog.csdn.net/SeaCloudHill/article/details/113421966)
+ > 如何让酝酿8年的想法在1小时内实现？
+ ## [云原生简史](https://blog.csdn.net/david_lv/article/details/113750030)
+ > 云原生简史
+ ## [漫谈TCP Westwood和BBR](https://blog.csdn.net/dog250/article/details/113803334)
+ > 漫谈TCP Westwood和BBR
+ ## [今年春晚不一样，XR技术如何打造移步换景](https://blog.csdn.net/xiangzhihong8/article/details/113806090)
+ > 今年春晚不一样，XR技术如何打造移步换景
+ ## [产品设计及运营的难言之隐。](https://blog.csdn.net/caoz/article/details/113812643)
+ > 产品设计及运营的难言之隐。
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [python入门小项目--石头剪刀布（人机对战）](https://blog.csdn.net/weixin_47043715/article/details/113820723)
- > python入门小项目--石头剪刀布（人机对战）
- ## [CNN 卷积神经网络 手写数字 图像识别 （深度学习）](https://blog.csdn.net/m0_47256162/article/details/113824973)
- > CNN 卷积神经网络 手写数字 图像识别 （深度学习）
- ## [【数据可视化】基于scattertext的“十二五和十三五规划”文本分析（2021-02-16）](https://blog.csdn.net/be_racle/article/details/113829319)
- > 【数据可视化】基于scattertext的“十二五和十三五规划”文本分析（2021-02-16）
- ## [K-Means聚类算法（一）](https://blog.csdn.net/qq_43161211/article/details/113825886)
- > K-Means聚类算法（一）
+ ## [Android 注解处理器使用攻略](https://blog.csdn.net/qq_17766199/article/details/113816175)
+ > Android 注解处理器使用攻略
+ ## [明年，我要用 AI 给全村写对联](https://blog.csdn.net/HyperAI/article/details/113840196)
+ > 明年，我要用 AI 给全村写对联
+ ## [【动手撸深度学习】不吹不黑一份代码即可进Kaggle排行榜！](https://blog.csdn.net/qq_46098574/article/details/113836566)
+ > 【动手撸深度学习】不吹不黑一份代码即可进Kaggle排行榜！
+ ## [Python OpenCV 图像的双线性插值算法，全网最细致的算法说明](https://blog.csdn.net/hihell/article/details/113828761)
+ > Python OpenCV 图像的双线性插值算法，全网最细致的算法说明
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [EM（expectation maximization）算法的理解和证明](https://blog.csdn.net/weixin_52668444/article/details/113819282)
- > EM（expectation maximization）算法的理解和证明
- ## [机器学习分类问题常用评判指标](https://blog.csdn.net/qq_44807945/article/details/113830668)
- > 机器学习分类问题常用评判指标
+ ## [python入门小项目--石头剪刀布（人机对战）](https://blog.csdn.net/weixin_47043715/article/details/113820723)
+ > python入门小项目--石头剪刀布（人机对战）
+ ## [与2017年度两位图灵奖得主的虚拟对话](https://blog.csdn.net/SeaCloudHill/article/details/113814887)
+ > 与2017年度两位图灵奖得主的虚拟对话
+ ## [冒泡排序](https://blog.csdn.net/Fdog_/article/details/113823891)
+ > 冒泡排序
  ## [用Python画一颗心、小人发射爱心](https://blog.csdn.net/m0_46278037/article/details/113819989)
  > 用Python画一颗心、小人发射爱心
- ## [情人节用python写个贪吃蛇安慰自己](https://blog.csdn.net/hanhanwanghaha/article/details/113810474)
- > 情人节用python写个贪吃蛇安慰自己
 # PM 
+ ## [如何使一场B端活动的效益达到、甚至突破预期？](http://www.chanpin100.com/article/113556)
+ > 做B端的活动就要切忌不在于多，而是精准的思考如何将一场营销活动效果最大化，且有体系、有计划的开展。
  ## [坐拥2亿流量 教培机构如何借助视频号将流量转化到知识店铺](http://www.chanpin100.com/article/113493)
  > 教育行业在获客成本居高不下、投产比不均衡的困局之下，商家们都在各个“流量池”中寻找出路。2020年初，微信上线视频号功能，经过一年的沉淀，微信视频号已经被各个细分领域的商家、创作者“入侵”。
  ## [产品经理入门教程之自我介绍篇](http://www.chanpin100.com/article/113555)
@@ -133,7 +141,5 @@ categories: IT NEWS
  > 一般只要说到数据埋点通常情况下都是指前端的数据埋点，而并非后端数据埋点。所以往往会忽视后端埋点在整个数据埋点的作用。数据埋点作为数据分析、数据仓储等的基础。在设计数据埋点的时候我们不光要依据前端特性去设计前端的数据埋点。还需要了解后端特性结合业务进行埋点设计。
  ## [优惠计算规则:平行式门槛与递进式门槛的区别](http://www.chanpin100.com/article/113543)
  > 某宝和某东分在在2018年5月24日03:00:00、2019年2月15日01:00:00正式面向所有商家及用户推出了平行式优惠门槛计算规则，停用原先的递进式门槛计算规则，简化后的规则更让用户更加一目了然的感知优惠力度。
- ## [产品经理入门教程之产品经理的职责是什么？](http://www.chanpin100.com/article/113546)
- > 不论是哪个职业，都会有自己的本身职责。那么，产品经理的职责是什么呢？今天小编为大家带来的产品经理入门教程就来讲一讲关于这方面的内容。
 
     
