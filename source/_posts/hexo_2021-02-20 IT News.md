@@ -1,22 +1,26 @@
 ---
 title: 2021-02-20 IT News
 copyright: true
-date: 2021-02-20 08:03:53
+date: 2021-02-20 09:07:04
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [云知声主动撤回科创板上市申请 未来将适时考虑重启](http://mp.weixin.qq.com/s?src=11&timestamp=1613779204&ver=2901&signature=DuidaYoYnWtk1yATDR3l*brhhkjtNBLu2zm8*YeWc3FpqQLuzJvkckozIRCgKUlGK-i7i*qxqRPUGNYykn9Noz7wyJ48tD7JuymtB7T2H-4=&new=1)
- > 本报记者 向炎涛    2月19日，上海证券交易所网站发布了《关于终止对云知声智能科技股份有限公司首次公开发行股票并在科创板上市审核的决定》，提及云知声主动撤回科创板申请。    据悉，云知声...
- ## [小米造车很可能是虚晃一枪，乐视造车是前车之鉴](http://mp.weixin.qq.com/s?src=11&timestamp=1613779204&ver=2901&signature=hhhlzQ-HQnIjXozjWM72uj2*-IO4ki8PZGd5-udKDYn0WJEzDAdsGIO1Ys7L89mPe03jP1oCBeSVzFXInSINogSatypuCSEPV*6p0YUCFkF90GbJZ1m0DNzY969JD7yN&new=1)
- > 小米造车的传闻颇为热烈，不过柏铭科技认为考虑到小米自身当下所面临的诸多问题，以及乐视造车拖垮乐视系的前车之鉴，造车可能仅仅是吸引眼球的营销噱头，小米造车的可能性比较小。一、小米的隐忧小米公布的2020...
- ## [供应链：华为手机2021年产量或暴跌6成乃至更多](http://mp.weixin.qq.com/s?src=11&timestamp=1613779204&ver=2901&signature=YRXilIyBGleqK55ze6vuyiB8QTFJEb7oWKG-F19fId8PX-3tMm-Y1EMvhapi9Epc0GklnzxRzY1pfGQI2rUV21C4Ci3j9KKUn*lY4xE*olB3JqMsKLctYF4nKsKvGbKg&new=1)
+ ## [供应链：华为手机2021年产量或暴跌6成乃至更多](http://mp.weixin.qq.com/s?src=11&timestamp=1613782804&ver=2901&signature=YRXilIyBGleqK55ze6vuyiB8QTFJEb7oWKG-F19fId8ZFl9kqlc-3h2QBdptoRiyqzLcNNTvqhrwV5ZVMC1muL0tFT0UIrDD3OVwDTwC0LZ5WEDmspZ2Mb2qhpvio*VW&new=1)
  > 据日本经济新闻2月19日消息，受到美国制裁影响，2021年，华为的智能手机产量或降至7000万~8000万台，不到2020年的一半。若以IDC统计数据显示的华为2020年智能手机销量1亿8900万台计算，降幅能达到6成以上。而这7...
- ## [请坐稳：10Gbps 5G时代已经到来](http://mp.weixin.qq.com/s?src=11&timestamp=1613779204&ver=2901&signature=yelitQc0MYsr3pHO1B5InlnWPQtqnV6GRZBKa2Q1p9NVmLxpiB3ulULr4CWy9DrFb2Z3WgP62dFljK18htCdNAv5bluT7*Q7QghjIDs7ZPKIebf5j-QVgWCNkZt9gk1t&new=1)
+ ## [小米造车很可能是虚晃一枪，乐视造车是前车之鉴](http://mp.weixin.qq.com/s?src=11&timestamp=1613782804&ver=2901&signature=hhhlzQ-HQnIjXozjWM72uj2*-IO4ki8PZGd5-udKDYnHiu*7KCVHydwaN*LHLWlm5MAUdRPm6lC3iWVmxWbfpm96GXxx-QMDhiK9JgRvraAmx3BVvw195pARQMrtdc6W&new=1)
+ > 小米造车的传闻颇为热烈，不过柏铭科技认为考虑到小米自身当下所面临的诸多问题，以及乐视造车拖垮乐视系的前车之鉴，造车可能仅仅是吸引眼球的营销噱头，小米造车的可能性比较小。一、小米的隐忧小米公布的2020...
+ ## [请坐稳：10Gbps 5G时代已经到来](http://mp.weixin.qq.com/s?src=11&timestamp=1613782804&ver=2901&signature=yelitQc0MYsr3pHO1B5InlnWPQtqnV6GRZBKa2Q1p9NL3o*U-W1BuH9pg7BXggGIyiUU-XKPlF*3CEXN27ANHcYyCIdsPOQPurWOJILcRuSdnCmgRyytzlLfrklk0FP2&new=1)
  > 在上一集“What’s Next in 5G”系列视频中，高通技术公司工程技术副总裁Vanitha Kumar为大家深入解析了5G的部署现状。今天，就让我们一起跟随高通技术公司高级副总裁兼4G/5G业务总经理马德嘉，一同揭开高通骁龙...
+ ## [云知声主动撤回科创板上市申请 未来将适时考虑重启](http://mp.weixin.qq.com/s?src=11&timestamp=1613782804&ver=2901&signature=DuidaYoYnWtk1yATDR3l*brhhkjtNBLu2zm8*YeWc3GtyznLJkBARPIPTbWZapPowVG2EpiIZ4mewcMxLAlKa8KgCxCWQK5Oasxubgum13c=&new=1)
+ > 本报记者 向炎涛    2月19日，上海证券交易所网站发布了《关于终止对云知声智能科技股份有限公司首次公开发行股票并在科创板上市审核的决定》，提及云知声主动撤回科创板申请。    据悉，云知声...
 # IT 技术 
+ ## [Netflix创始人：我不要求996，照样市值万亿！](http://news.51cto.com/art/202102/645911.htm)
+ > Netflix创始人：我不要求996，照样市值万亿！
  ## [女朋友为我写了一个防猝死插件...](http://developer.51cto.com/art/202102/645778.htm)
  > 女朋友为我写了一个防猝死插件...
+ ## [CTO点名要搞个灰度发布系统](http://developer.51cto.com/art/202102/645779.htm)
+ > CTO点名要搞个灰度发布系统
  ## [【廉环话】防疫一周年后的IT治理思考 --架构与服务目录](http://developer.51cto.com/art/202102/645134.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --架构与服务目录
  ## [在Monorepo中，如何使用Maven对多个微服务进行版本控制？](http://developer.51cto.com/art/202102/645036.htm)
@@ -25,28 +29,28 @@ categories: IT NEWS
  > 我明明项目管理得很好，为什么还被辞职？？？
  ## [值得推荐的60种不同功能的PostgreSQL工具](http://database.51cto.com/art/202102/645039.htm)
  > 值得推荐的60种不同功能的PostgreSQL工具
- ## [用Operators管理多集群Kubernetes](http://developer.51cto.com/art/202102/645038.htm)
- > 用Operators管理多集群Kubernetes
- ## [鸿蒙HarmonyOS单模块编译与源码导读](http://developer.51cto.com/art/202102/645015.htm)
- > 鸿蒙HarmonyOS单模块编译与源码导读
- ## [Oracle存储结构深入分析与管理_Oracle视频教程_基础深入与核心技术03](http://fellow.51cto.com/art/202101/638497.htm?qd=51ctojrzd)
- > Oracle存储结构深入分析与管理_Oracle视频教程_基础深入与核心技术03
+ ## [Oracle XTTS跨平台数据库迁移（从Unix迁移数据到Linux）_Oracle数据库迁移项目](http://fellow.51cto.com/art/202012/636476.htm?qd=51ctojrzd)
+ > Oracle XTTS跨平台数据库迁移（从Unix迁移数据到Linux）_Oracle数据库迁移项目
+ ## [Hive动态分区详解，你知道吗？](http://database.51cto.com/art/202102/646236.htm)
+ > Hive根据select语句中最后两列来确定分区字段country和state的值，这里刻意使用了不同的命名，就是为了强调
+ ## [揭秘代码效率的真相](http://developer.51cto.com/art/202102/646235.htm)
+ > 本专题将分析C++各种代码操作的效率，包括不同类型变量的存储效率，使用智能指针、循环、函数参数、虚函数
+ ## [如何将元素插入数组的指定索引？](http://database.51cto.com/art/202102/646233.htm)
+ > 数组是一种线性数据结构，可以说是编程中最常用的数据结构之一。修改数组是一种常见的操作，这里，我们来讨
+ ## [Android 12 开发者预览版代码泄密：Pixel 6 5G 或同时支持屏下指纹、人脸解锁](http://mobile.51cto.com/android-646234.htm)
+ > 2 月 20 日消息 根据在 Android 12 的首个开发者预览版中发现的隐藏代码，Pixel 6 可能同时具备指纹识别和
+ ## [Windows 10 LTSC生命周期减半：10年变5年](http://os.51cto.com/art/202102/646231.htm)
+ > 微软宣布，Windows 10 LTSC、Office LTSC版本的生命周期，都将从10年缩短到5年，而下一个稳定版将在今年下
  ## [谷歌正改进 Chrome 浏览器性能：启动更快，内存使用减少](http://os.51cto.com/art/202102/646230.htm)
  > 2 月 20 日消息 据 WindowsLatest 报道，根据多个代码提交，谷歌正在开发 “PartitionAlloc-everywhere”功
  ## [比特币价格再创新高，总市值突破一万亿美元大关](http://blockchain.51cto.com/art/202102/646229.htm)
  > 2 月 20 日凌晨消息，据报道，作为全世界影响力最大的数字货币（同时也是一种加密货币），比特币最近只能用
+ ## [安卓12来了！来看看安卓12预览版上手体验](http://mobile.51cto.com/android-646228.htm)
+ > 近日，Google突然面向Pixel手机发布了安卓12开发者预览版，这是最新一代的安卓系统。根据Google的说法，安
+ ## [微软正式推补丁强制删除Flash！教你完美应对](http://os.51cto.com/art/202102/646227.htm)
+ > 我们知道，Flash已经是被笃定被淘汰的技术了。无论是谷歌还是微软亦或是苹果旗下的操作系统，还是业内各大
  ## [Windows10X兼容性逆天！它能传承Windows的神话吗](http://os.51cto.com/art/202102/646226.htm)
  > 微软的最新力作Windows 10X就已经在网上泄露，我们得以从中一窥其崭新的开始菜单和操作中心，但很少有人关
- ## [从0到1搭建一款页面自适应组件（Vue.js）](http://developer.51cto.com/art/202102/646225.htm)
- > 本篇教大家从0到1搭建一款页面自适应组件（Vue.js）， 组件将根据屏幕比例及当前浏览器窗口大小，自动进行
- ## [聊一聊SpringBoot项目热部署](http://developer.51cto.com/art/202102/646224.htm)
- > 此篇文章主要介绍两种SpringBoot项目热部署的方式，方式一是通过引入devtool组件实现热部署，方式二是通过i
- ## [玩转Git-Flow工作流-分支解析](http://developer.51cto.com/art/202102/646222.htm)
- > 搞开发的相信大部分人git天天都在用，那么一般我们在实际工程当中，遵循一个合理、清晰的Git使用流程，是非
- ## [Libtask源码解析之锁](http://developer.51cto.com/art/202102/646221.htm)
- > libtask中其实不需要锁，因为libtask中协程是非抢占式的，不存在竞态条件。但是libtask还是实现了一套锁的
- ## [Linux 内核 vs Windows 内核](http://os.51cto.com/art/202102/646220.htm)
- > 对于服务器使用的操作系统基本上都是 Linux，而且内核源码也是开源的，任何人都可以下载，并增加自己的改动
  ## [这个国外大学生的作弊神器，竟是乔布斯的老朋友做的？](https://blog.csdn.net/weixin_39787242/article/details/113812832)
  > 这个国外大学生的作弊神器，竟是乔布斯的老朋友做的？
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
