@@ -1,58 +1,60 @@
 ---
 title: 2021-02-21 IT News
 copyright: true
-date: 2021-02-21 10:06:55
+date: 2021-02-21 12:06:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [比特币冲破57000美元，也不会是人类的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1613872805&ver=2903&signature=c-aeQo-xKWnNGxhiN4zxfnnxL1beTlJ8TGWTH-YF20rcwpCl26S*QSF2BiJ5WY1N1V1SltU5iYrwQhSre35m2XCplIgfgjN1UxlgpEpMGxqxXnBKX0ejQB9B7JgZ*rzB&new=1)
- > 来源：复利研究院作者：经济金融研究组比特币到底是泡沫？还是人类货币的未来呢？（本文前天发过，但是有不少朋友还没看到，而且比特币涨的太快，拉出来再给大家降降温）01比特币突破57000美元比特币突破57000美...
- ## [工业软件是怎样“炼”成的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613872805&ver=2903&signature=VADCpM8dX22jjZAb8PWpIenp-t5*ZGB6Nx7QjfRVzbyIRs7uCw3zbj2jfKl5GtXCNJTjftcF--xWUwYk-*33XORNKLIVypVjhgrNsSuHt58k4pDZxVGcI6pTOYksNaRi&new=1)
- > 当前，我国正在大力发展自主可控的工业软件，政府对国产工业软件的发展显著加大了支持力度。那么，工业软件是怎样“炼”成的？究竟如何振兴中国的工业软件产业？发展我国工业软件产业，能否“弯道超车”或者“换...
- ## [人事：联通这个公司大动以后，中国电信同业也迎来一把手变动!](http://mp.weixin.qq.com/s?src=11&timestamp=1613872805&ver=2903&signature=pldGfu2V3vap-zxvL0Xy5ChiH6ouAWKWg*du95U0efsy4VWynf5jMzfIvp7e2ld-JZnUtppQvj5llZ-D9IR9gwLYM0ejtWPfhgi1PiLJG6j-8JI3ZVseAhFTtugvvIwI&new=1)
- > 就在节前的2月7日，中国联通原系统集成公司全面改组，与联通云数据、大数据、物联网等公司联合重组为全新的联通数字科技，由中国联通副总经理梁宝俊担任董事长，原中国联通政企客户事业群常务高级副总裁李广聚担...
- ## [云网融合为啥这么火?](http://mp.weixin.qq.com/s?src=11&timestamp=1613872805&ver=2903&signature=C0LJpKBlJNrQpUFmvIJZmSXNwmB3pqYt0hpDT4abGoWDpBkzqmwPGBhCa30uiIxFJQkssMm4fn7ZUXFgFLcUinIzZ-tlCgU6yH68sjy2H8p7ycKuyaWWivLH8YnrPKCH&new=1)
+ ## [云网融合为啥这么火?](http://mp.weixin.qq.com/s?src=11&timestamp=1613880004&ver=2903&signature=C0LJpKBlJNrQpUFmvIJZmSXNwmB3pqYt0hpDT4abGoWGI-a1O9pIoo-HfJfcN54qJyaVq7PZR*bOJjwTyU02nSAjDi1iBN67gBK*JlQj5tzks5wcLbv5XHsKApXapXii&new=1)
  > 云网融合，是当下电信业最热门的话题之一，也是全球领先运营商正积极推进的发展战略，比如，中国电信早在2016年就开启了云网融合的数字化转型之路，又在去年11月发布了《云网融合2030白皮书》，提出“网是基础，...
- ## [“救命药贵到买不起”的难题，未来能靠量子计算机解决?|科技袁人](http://mp.weixin.qq.com/s?src=11&timestamp=1613872805&ver=2903&signature=eIMOunaRvEfecTCnWp2Qrvc581vB*mWZ4DO4-5-*GamYvBVZZ4-eo5EA93lPSiZuZ7cMY5DreYPv*mJWWdGX2qoliRHlsL3oHS1dPBYv*yYEPooddnULGccSgidM2CH5&new=1)
+ ## [比特币冲破57000美元，也不会是人类的未来](http://mp.weixin.qq.com/s?src=11&timestamp=1613880004&ver=2903&signature=c-aeQo-xKWnNGxhiN4zxfnnxL1beTlJ8TGWTH-YF20qnHLiSAITG5KrLxQdVQJaU8Nq8-wMhJLqMDuhLExJspoyv1Uk74dwf8MoVFkOgsvrYWWVSXJOtaH2tjClVV6v*&new=1)
+ > 来源：复利研究院作者：经济金融研究组比特币到底是泡沫？还是人类货币的未来呢？（本文前天发过，但是有不少朋友还没看到，而且比特币涨的太快，拉出来再给大家降降温）01比特币突破57000美元比特币突破57000美...
+ ## [华为养猪，只是一个开始](http://mp.weixin.qq.com/s?src=11&timestamp=1613880004&ver=2903&signature=TIxusovY7Sz0whZqKZkO-X3LVHhbpzava3R425RIDp44r67lJtUtcc7GxPzDrEGKfMG4eqO41OTkVueuXLWgRa6hOnch3d-vdPUbu49waWQ8M7t9QL7PAFsMPauvlq93&new=1)
+ > 进军养猪和煤矿业，也许只是华为在企业级服务市场的一个尝试。值得关注的是，华为目前已经成立一百多个研究所和联合实验室，包括数学、物理、化学、生物等各类专业技术研究所，也包括煤炭、机场、港口等应用型实...
+ ## [人事：联通这个公司大动以后，中国电信同业也迎来一把手变动!](http://mp.weixin.qq.com/s?src=11&timestamp=1613880004&ver=2903&signature=pldGfu2V3vap-zxvL0Xy5ChiH6ouAWKWg*du95U0eftJ5hedUt8NM*WQJG6s1SjbvKPXgDu0YwsQ0RhxbyNzIXDrO2G9UqbHAguAp23uwabzVcmJ6KZ0vXVcf9bPmOQx&new=1)
+ > 就在节前的2月7日，中国联通原系统集成公司全面改组，与联通云数据、大数据、物联网等公司联合重组为全新的联通数字科技，由中国联通副总经理梁宝俊担任董事长，原中国联通政企客户事业群常务高级副总裁李广聚担...
+ ## [“救命药贵到买不起”的难题，未来能靠量子计算机解决?|科技袁人](http://mp.weixin.qq.com/s?src=11&timestamp=1613880004&ver=2903&signature=eIMOunaRvEfecTCnWp2Qrvc581vB*mWZ4DO4-5-*GalhHPTeaSvG*ja9RglGdM2XIJ2sH58PuzlVYe*9NM4pYzQkaqJMlphq3FTjF72SIVFfqzlH*7rtpvfs16PznPZ0&new=1)
  > 关注风云之声提升思维层次导读如果量子计算机也就是专用型的，将来在千比特以内就能对量子化学计算有指数级的提升，对于药物研发来说，就省去这种地毯式搜索，这种大量人力物力、财力的投入，而把成本降下来，最...
+ ## [工业软件是怎样“炼”成的?](http://mp.weixin.qq.com/s?src=11&timestamp=1613880004&ver=2903&signature=VADCpM8dX22jjZAb8PWpIenp-t5*ZGB6Nx7QjfRVzbxNoP7BTNhT8M1Q8r*Jf-IXJ*1kFTHnDQyrzgYMMkAi*zR0CCJv3Qq8t38aOjiJGQY65CUXZbHzNmLOuLn57UNh&new=1)
+ > 当前，我国正在大力发展自主可控的工业软件，政府对国产工业软件的发展显著加大了支持力度。那么，工业软件是怎样“炼”成的？究竟如何振兴中国的工业软件产业？发展我国工业软件产业，能否“弯道超车”或者“换...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --可用性、关系与财务管理](http://developer.51cto.com/art/202102/646366.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --可用性、关系与财务管理
+ ## [IBM拟出售Watson Health后，AI医疗还能不能碰](http://ai.51cto.com/art/202102/646427.htm)
+ > IBM拟出售Watson Health后，AI医疗还能不能碰
  ## [智能自动化：重新定义生命科学企业的价值](http://www.cioage.com/art/202102/646364.htm)
  > 智能自动化：重新定义生命科学企业的价值
+ ## [微软公布Solarwinds黑客事件调查报告：少量代码泄露，不会被用于攻击用户](http://netsecurity.51cto.com/art/202102/646420.htm)
+ > 微软公布Solarwinds黑客事件调查报告：少量代码泄露，不会被用于攻击用户
+ ## [为什么有些大公司的技术弱爆了？](http://news.51cto.com/art/202102/646368.htm)
+ > 为什么有些大公司的技术弱爆了？
  ## [鸿蒙js开发14 自定义构建购物计算组件&表单组件](http://developer.51cto.com/art/202102/646303.htm)
  > 鸿蒙js开发14 自定义构建购物计算组件&amp;表单组件
  ## [Docker安全性：保护Docker容器安全的14个优秀实践](http://netsecurity.51cto.com/art/202102/646436.htm)
  > Docker安全性：保护Docker容器安全的14个优秀实践
- ## [揭秘登上2021春晚舞台的黑科技-XR技术](http://virtual.51cto.com/art/202102/645906.htm)
- > 揭秘登上2021春晚舞台的黑科技-XR技术
- ## [在移动应用程序开发中实现人工智能](http://ai.51cto.com/art/202102/646259.htm)
- > 在移动应用程序开发中实现人工智能
- ## [CTO点名要搞个灰度发布系统](http://developer.51cto.com/art/202102/645779.htm)
- > CTO点名要搞个灰度发布系统
- ## [2021年软考网络工程师--基础知识精讲视频培训（第五版教程）](http://fellow.51cto.com/art/202101/640476.htm?qd=51ctojrzd)
- > 2021年软考网络工程师--基础知识精讲视频培训（第五版教程）
+ ## [2021年软考网络工程师--上午历年真题解析视频课程](http://fellow.51cto.com/art/202012/637837.htm?qd=51ctojrzd)
+ > 2021年软考网络工程师--上午历年真题解析视频课程
+ ## [Frost＆Sullivan预测：AR和VR技术市场将达6614亿美元](http://mobile.51cto.com/vrar-646455.htm)
+ > Frost＆Sullivan预测，到2025年，虚拟和增强现实技术的全球市场规模将攀升至6614.0亿美元，这一数字相当于2
+ ## [如果不支付赎金，这些勒索软件卡特尔将泄漏您的数据](http://netsecurity.51cto.com/art/202102/646443.htm)
+ > 一种名为“双重勒索”的新型勒索软件技术正在随着疫情的爆发而迅猛发展，这种技术不仅可以锁定公司的文件，
+ ## [漫画 | C语言哭了，过年回家，只有我还没对象](http://zhuanlan.51cto.com/art/202102/646448.htm)
+ > C语言回家过年，遇到不少小伙伴。大家都在外地打拼，一年难得见面，聚到一起吃饭，都非常高兴。
+ ## [规划智慧城市时，别忘了无障碍通行](http://ai.51cto.com/art/202102/646442.htm)
+ > 要想成为一个智慧城市甚至一个智慧世界，虽然可能需要时间和有针对性的规划，但我们必须以人为本。
+ ## [使数据中心更智能：人工智能如何发挥作用？](http://ai.51cto.com/art/202102/646438.htm)
+ > 随着数据成为维持几乎所有业务运营以获取洞察力和业务成果的先决条件，数据中心正处于这种数字化转型的关键
+ ## [黄光裕正式获释，公开发表讲话！](http://zhuanlan.51cto.com/art/202102/646440.htm)
+ > 2月17日，春节假期的最后一天，国美系港股公司纷纷发布公告，公告内容是曾经的首富、国美创始人黄光裕正式
+ ## [6G之卫星通信](http://zhuanlan.51cto.com/art/202102/646437.htm)
+ > 要实现天地之间互联，需要卫星通信技术的支撑，卫星通信将在第六代移动通信\[1-5\]中起着举足轻重的作用，目
  ## [鸿蒙HarmonyOS应用之烧录失败导致boot无法加载的解决措施,再也不怕烧成砖了](http://os.51cto.com/art/202102/646300.htm)
  > 在烧录系统的时候经常会遇到烧录失败的情况，如果能通过再次执行烧录能烧上肯定更好，下面主要解决各种无法
- ## [我用kafka两年踩过的一些非比寻常的坑](http://developer.51cto.com/art/202102/646434.htm)
+ ## [我用Kafka两年踩过的一些非比寻常的坑](http://developer.51cto.com/art/202102/646434.htm)
  > 我的上家公司是做餐饮系统的，每天中午和晚上用餐高峰期，系统的并发量不容小觑。为了保险起见，公司规定各
  ## [区块链技术将带来数字经济发展的新机遇](http://blockchain.51cto.com/art/202102/646432.htm)
  > 区块链是按照时间顺序将数据区块以顺序相连方式组合成的链式数据结构，并以密码学方式保证不可篡改和不可伪
- ## [网曝微软正准备开发低代码语言，名为 “ Power Fx”](http://os.51cto.com/art/202102/646431.htm)
- > 2月21日消息 著名泄密者 WalkingCat 在推特上透露，微软正在为 Power Platform 开发一种 “基于公式的低代
- ## [Go1 要不要移除 GOPATH？](http://developer.51cto.com/art/202102/646430.htm)
- > GOPATH 是 Go 语言早期的一个产物，说白了就是一个环境变量，能够指定 Go 工程的工作目录。重点是 Go 代码
- ## [数据中心行业人员短缺带来的影响](http://network.51cto.com/art/202102/646429.htm)
- > 数据中心行业已经在为人员短缺而陷入困境。Uptime Institute公司调查的50%受访者发现，目前很难找到空缺职
- ## [测试驱动技术（TDD）系列之-pytest实现测试数据驱动](http://developer.51cto.com/art/202102/646428.htm)
- > 本篇文章则介绍如何使用Python进行数据驱动。这里以pytest测试框架为例，重点讲解pytest参数化相关知识
- ## [我精通那么多技术，为何不被重用？](http://news.51cto.com/art/202102/646365.htm)
- > 这篇文章我们继续说架构师大刘的故事：老田升职了，年薪涨到了百万级别！这是大刘在加班搞技术攻坚的时候，
- ## [IBM拟出售Watson Health后，AI医疗还能不能碰](http://ai.51cto.com/art/202102/646427.htm)
- > 医疗服务仍然是一块商业上尚未被完全发掘的市场，看病难/看病贵、医疗资源紧缺、医疗资源不平均等痛点问题
- ## [物联网网关开发：基于MQTT消息总线的设计过程之一](http://iot.51cto.com/art/202102/646426.htm)
- > 这篇文章讨论的内容还谈不上架构设计，仅仅是一个简单的物联网网关内部各功能模块的通信模型。如果你有机会
  ## [一个程序员眼中的上帝，会设计出啥样的电脑系统？](https://blog.csdn.net/weixin_40193137/article/details/113830886)
  > 一个程序员眼中的上帝，会设计出啥样的电脑系统？
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
@@ -65,24 +67,24 @@ categories: IT NEWS
  > 
  ## [明年，我要用 AI 给全村写对联](https://blog.csdn.net/HyperAI/article/details/113840196)
  > 明年，我要用 AI 给全村写对联
- ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
- > 
+ ## [加入 『100个程序员的收藏夹』社区，查看他们私藏的高质量技术文章](https://mark.cloud.csdn.net/p/z0ymvg0o)
+ > 加入 『100个程序员的收藏夹』社区，查看他们私藏的高质量技术文章
  ## [一个互联网大佬的五年工作成长复盘](https://blog.csdn.net/qq_32648593/article/details/113784671)
  > 
  ## [Goodbye，OI！](https://blog.csdn.net/qq_38609262/article/details/113790311)
  > Goodbye，OI！
  ## [今天是开工第一天，但是，我准备提交离职申请，真的一刻也不想待下去了！小公司的Android开发真难！](https://blog.csdn.net/BUGgogogo/article/details/113854568)
  > 今天是开工第一天，但是，我准备提交离职申请，真的一刻也不想待下去了！小公司的Android开发真难！
- ## [Unity 背包系统的完整实现（基于MVC框架思想）](https://blog.csdn.net/xinzhilinger/article/details/113696369)
- > Unity 背包系统的完整实现（基于MVC框架思想）
- ## [10张动图学会python循环与递归](https://blog.csdn.net/bigzql/article/details/111413118)
- > 10张动图学会python循环与递归
+ ## [如何用 Python 画出 69 岁老同志？](https://blog.csdn.net/qq_33570092/article/details/110152715)
+ > 如何用 Python 画出 69 岁老同志？
+ ## [Kotlin+Retrofit+Okhttp+MVP架构的搭建以及示例代码](https://blog.csdn.net/qq_40785165/article/details/113200783)
+ > Kotlin+Retrofit+Okhttp+MVP架构的搭建以及示例代码
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Python也可以很暖男之每日发送爱词霸每日一句+日期+农历+天气预报+各种天气指数](https://blog.csdn.net/varren/article/details/105614784)
- > 
- ## [啥?十大排序算法，来这看看-基本思想+动画演示+C语言实现](https://blog.csdn.net/weixin_45761327/article/details/105908057)
- > 
+ ## [C++ cin 的详细用法](https://blog.csdn.net/K346K346/article/details/48213811)
+ > C++ cin 的详细用法
+ ## [R语言分布滞后线性和非线性模型（DLM和DLNM）建模](https://blog.csdn.net/qq_19600291/article/details/105821971)
+ > R语言分布滞后线性和非线性模型（DLM和DLNM）建模
 # 人工智能 
  ## [如何让酝酿8年的想法在1小时内实现？](https://blog.csdn.net/SeaCloudHill/article/details/113421966)
  > 如何让酝酿8年的想法在1小时内实现？
@@ -131,11 +133,5 @@ categories: IT NEWS
  > 刚开始进入求职阶段的时候，简历的编写成为了很多人的“拦路虎”。那么，一份优秀的产品经理简历该如何去写呢？本文从三个方面为你解答。
  ## [产品经理面试前该做哪些准备？](http://www.chanpin100.com/article/113569)
  > 每一个人在面试前都会做足相应的准备，产品经理也不例外。那么，产品经理面试前该做哪些准备呢？请看本文的详细介绍。
- ## [电商产品里的购物车体系是如何设计的？看京东团队如何解答](http://www.chanpin100.com/article/113567)
- > 对于购物车，我们并不陌生，在逛线下超市时，我们可以看到很多人都推着一辆购物车；他们一边悠闲的走着，一边筛选着货架里的商品，最后来到收银台前进行统一支付，这就是线下购物车最常见的功能——帮助人们装载商品。
- ## [产品经理的简历该如何写？](http://www.chanpin100.com/article/113565)
- > 如何写简历，应该是新手小白产品经理最困惑的问题。本篇文章主要讲解的是产品经理的简历该如何写的相关内容。
- ## [优秀的产品经理简历编写法则](http://www.chanpin100.com/article/113564)
- > 想要成为一名优秀的产品经理，首先一份优秀的简历是必不可少的。那么，优秀的产品经理简历编写法则是怎样的呢？请看本文介绍。
 
     
