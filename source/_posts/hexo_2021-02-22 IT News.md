@@ -1,35 +1,49 @@
 ---
 title: 2021-02-22 IT News
 copyright: true
-date: 2021-02-22 12:07:57
+date: 2021-02-22 17:09:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [小米电动汽车制造业务仍未到立项阶段；格力电器董事、执行总裁黄辉辞职；2021世界移动通信大会上海展即将举办|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=91p9-v54aZ9e4-NlG6RVvZgsrHyYrLS1fzCA3cjvpTyi-467h7b2v18x3g9z7XDAlqYTD6KyXUJQUZomWOQPPVXfl79NmZu0ZvM7iNPXHAsuuJcB2SxuYUBJafhkbLga&new=1)
- > 图 / IC photoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【小米电动汽车制造业务仍未到立项阶段】小米集团在港公告，注意到近日若干媒体有关本集团拟进入电动汽车制造行业的报导。本集团一...
- ## [到2025年，全球数据中心市场将投资4321.4亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=ZoKj*GpjVB4S*uMiChvnLPRpxtrIWZhgESsjKlie9NiOI1dy1UG636OGWH5m85EvBde2kKIiqzPyrqu9aX6yRL6fVXm0HdiERX5hQK05uaynmQik*c6vq8Q-9GSDgzH4&new=1)
- > E安全2月22日讯 据安全研究机构Frost &amp; Sullivan的分析发现，全球持续的高水平技术部署将导致数据创建的激增，推动对数据处理和存储能力的需求。其结果将会导致从企业到大型云的大量数据中心建设。预计到2025年...
- ## [今天，“全球3D打印产品库”在北京正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=rDQKlnbg-u75Ce25wv7Jsl0LQ7gSjEyfrUUavpSkIJZlno9l*uJkQIvnhpANCqzgGLqf97Kr3P7OfspjTi3292UkEiJ97t8wUuA7MIklEcoeLBySWAZ1zQwq*yVfmrXj&new=1)
- > 导读：过去的2020年，新冠病毒肆虐全球，造成部分制造业供应链的断裂，反而加速了3D打印的普及和使用。根据国家统计局的数据，2020全年，中国3D打印设备产品产量增速达1倍以上。据南极熊统计，2020年中国所有3D...
- ## [西北大学研发猴脸识别技术；小米造车未立项；Linux Mint 警告用户安全意识落后|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=FLHCDoGqo*tvXNIbx6mwXBQKsyZbUwllOyyMNqqjIdAcVYOnRmj7ZsljPJPKdyHxW*l3jhsYOevjfuxjCffAm0wgg8qleOoxPEl30fTxAyh2RICUtOEOjtaQnvvwWm5x&new=1)
+ ## [研究人员首次开发并演示了光子数模转换器](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=knoI1KCP75M9ukWV9wgcnoVcFw9gUYFKCroojGWvGUP6pHheNDro15vL*0ttvELI*I-aei17uIGUQfc-cAL0gGx*-wfOJC4rBNBOd4KyDi6yWr4kQrpJSCBIB5w7UMcH&new=1)
+ > 乔治华盛顿大学和加州大学洛杉矶分校的研究人员首次开发并演示了一种不离开光域的光子数模转换器。这种新型转换器可以推进下一代数据处理硬件，与数据中心、6G网络、人工智能等具有高度相关性。当前世界上传输大...
+ ## [2020年度中国信创TOP500：华为第一，中芯国际第二，芯原/华天/通富微电进入前30](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=s*Q9icZ3x87VU6WOIRTdveFVP0duB01vs*QIHmpeOwPaluqUMPeH7S*BOvO-k9cjOdZFBF--84N5PObDKLQk*IGR8xu9fSFuJ13-qJUzA1uH1Lw1F34bqdhehhUJaNew&new=1)
+ > 近日，中国科学院《互联网周刊》、eNet研究院、德本咨询联合发布了“2020年度中国信创TOP500”。入围该榜单企业有华为、中芯国际、阿里巴巴等知名企业。在这份榜单中，按照信创企业的研发、开拓性及场景三个方面...
+ ## [云知声成首家终止科创板上市审核的人工智能公司，公司负责人表示「先发展业务，再看看」](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=oc4MViRYyQRjhopL-SoE5dZEz*m-2lns7fQCgzigeiM1J2PpZrRv1ofzyMLwCetxYiL9SIUsONMwBl83fayzQ6SpeALWwGFPEyAEDbXP8rUsGlXYitAnjLyzGU38HOmm&new=1)
+ > 摆在这些尚需输血的独角兽面前的选择并不多：要么倒下，要么谋求上市之路。事实证明，上市之路也并不平坦。申请科创板上市之时，都需要回归商业本质，而盈利和增长是语音AI公司商业化过程中的必要目的之一。而对...
+ ## [为行业注入5G之心：中兴通讯亮相2021MWC上海展](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=LqPDOvDBSie3LJgVKq1-9XR7ayr7qL9cMv4K4gnE1mCcbBPZbAP0CP6gh9m5V2lGHLCLvzqSMzPVUKHWEw7TnXAQo7TH9j5nk1Bcq05V6p4nCJZ5IMk06*HS1x6vMLFm&new=1)
+ > 2月23日，2021MWC上海展即将在新国际博览中心盛大开幕。中兴通讯以“筑路数字经济，为行业注入5G之心”为参展主题，聚焦极致网络、精准云网和赋能平台三大技术领域，集中展示面向5G时代的创新方案、行业实践，与...
+ ## [30 周岁的 Python，“虐”我 20 年](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=FLHCDoGqo*tvXNIbx6mwXBQKsyZbUwllOyyMNqqjIdBL2Q2NCfpwlHurzxHgtdKD7oTYzX8mRcM5Ocv8Rrqxr0T6ynmdhvmIUawwp6RAj9RmhSiVkGuZSJdDQs3o-vGe&new=1)
+ > 【CSDN 编者按】30 年前，吉多·范罗苏姆正式对外公布 Python 代码，版本为 0.9.0。巧的是，Python 3.2.0 恰好是 20 年之后发布的。作者 | ZoomQuiet 大妈       责编 | 张红月出品 | CS
+ ## [帝尔激光拟募集8.4亿元：强化太阳能电池激光技术优势 布局新型显示激光设备](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=Ur8BC5buEX6FNkVWVWlp1dFe9hrTzAHOrY1ktjk9tvar*GO4TyieWSQcM3To*Pc0JgN11JMndNqbMxzSwXSZnyqDy6XJmWTzqZ*uNFoVrzXiHMkrIseicqYsCjctulkv&new=1)
+ > 2月21日晚，帝尔激光发布向不特定对象发行可转换公司债券募集说明书。帝尔激光本次拟发行不超过840万张可转换为公司A股股票的可转换公司债券，每张面值100元，预计募集资金不超过8.4亿元。募资及相关项目情况简...
+ ## [DAIC：检测商业电子邮件欺诈(BEC)的开源利器](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=xViofxUW60s95OITdqE4bvr-pUY0dRPMQX-T6JH8uxtARsClwQ8eyfoID-qboeVmELCRmZyJqaiTbwubdTiwZRVs03dVaq7ONFzDWoTnuejvBBI3L083roVjAKTw9ywf&new=1)
+ > 虽然2020年勒索软件出尽风头，吸引了防御者大量注意力，但是“传统”针对性攻击例如BEC的脚步丝毫也没有放慢。相反，近年来，BEC已经从“小众”攻击变得越来越流行。根据FBI互联网犯罪合规中心在2019年发布的数...
+ ## [软件吞噬硬件的AI时代，芯片跟不上算法进化可咋办?](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=C1y21kb7KK-TEyOrZlzyMU9tFMdKIf881tWfEqcl082XPN*gEvaf*ExfOrQw86Gke5bJsTSnkxp9UNBGKGkwYx7lfRrnqiO0KUq84z-1k-J8vVfYbgraReAb2d82uaCe&new=1)
+ > 作者丨Decode邮箱丨oudi@pingwest.com来源丨人民数字与品玩联合出品作为 AI 时代的幕后英雄，芯片业正经历着渐进而持续的变化。2008 年之后，深度学习算法逐渐兴起，各种神经网络渗透到手机、App 和物联网中。与...
+ ## [选择数据丢失防护解决方案时不可不知的9个注意事项](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=3cewZG-S9r7kEo3gPGW49viqCjeHoLzQB1-e*9OmcIErCh2d3mCKwLUPrYF32nHeqv1R3nSQarFtR*3jjne4GDihdN3wBvi5b44YGs4U8awX9HHJovnGA9UYsdx4QGoS&new=1)
+ > 关键讯息，D1时间送达！数据丢失防护(DLP)系统已经变得更加复杂了，而且每个系统都有各自不同的发展。本文叙述了如何根据所需功能及其防止数据泄漏的实际能力来选择DLP系统的方法。DLP系统通常是基于三年或五年...
+ ## [联通“党组直通车”助推企业数字化转型!](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=dVy6w*bS8GvA2K1dmlLkFFUH7UinUqWu*4tBpotWNGk6DZhnsCBuj0q6uDS8VgyhSPIdbcwhpySSnUZQg7BnTn7iCjS-iTeQ0r47KA3YcDMP0WH2VQfvvrTcCwfjsmIs&new=1)
+ > 为深入践行“三个一切”（一切为了客户、一切为了一线、一切为了市场）经营管理理念，2019年6月，中国联通启动了践行“三个一切”大讨论活动，并搭建了聆听员工与客户心声的“三个一切”大讨论平台：“党组直通...
+ ## [超级数据分析：这可能是一个没有隐私的世界](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=*2*iSINfyhu-h*DhdjT45-xH*nVKrCUaFL4tX1EjE1ZdJOSxG03*-zg7dEa21qZEuR*c9SvGFZE5*cFgam-wBTKztWMIk34hm-MY5fkmCDPsi2tJEjbch1P0Rg2sEVN5&new=1)
+ > 超级数据分析的崛起从“数字生活”到“生活数字化”，2020年加速了中国数字化发展的转型升级，数字经济与数字产业的蓬勃发展也将个体带入一种全面数字化的生存状态。超级数据分析革命已然来临，数据分析已经渗透...
+ ## [西北大学研发猴脸识别技术；小米造车未立项；Linux Mint 警告用户安全意识落后|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=FLHCDoGqo*tvXNIbx6mwXBQKsyZbUwllOyyMNqqjIdB0bnIIAAFH-YrntjNMFo5yM2gdKKRHMCqEVe5VMgAJasqIJQ-gd5nqGjp0oplxpY*r7tVqP1e0D1YnRTZaLsdB&new=1)
  > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [2020年前沿科技发展态势及2021年趋势展望——新材料篇](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=G7sm3hkAwhrXkWQYRf-NY*T6RG9yHH1AXg-Yi7P9eTNcM7DmwXAHun3VUUqGfkMcbwK1fvo1YgIQW43Pv72AC8fBDhbRWhVTB1aLfLJQLmMTSTQMxj6ST14BxqNX-5jG&new=1)
+ ## [到2025年，全球数据中心市场将投资4321.4亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=ZoKj*GpjVB4S*uMiChvnLPRpxtrIWZhgESsjKlie9NhE5dH3dB-4wJhgOrLBusrXffgktPa7MpatMs3YrM7FEOY4vd1avi3vUHee*svZ3JK2bzcCa4jeuaYm4kXZfagw&new=1)
+ > E安全2月22日讯 据安全研究机构Frost &amp; Sullivan的分析发现，全球持续的高水平技术部署将导致数据创建的激增，推动对数据处理和存储能力的需求。其结果将会导致从企业到大型云的大量数据中心建设。预计到2025年...
+ ## [小米电动汽车制造业务仍未到立项阶段；格力电器董事、执行总裁黄辉辞职；2021世界移动通信大会上海展即将举办|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=91p9-v54aZ9e4-NlG6RVvZgsrHyYrLS1fzCA3cjvpTx9W4HKZWYGuVa8fKCx9s7oA0Vu9BWd1byEV4NDTBpi8T6CWUifzV7zkD2DlyownkDJ029w*cES2ea50fDJVy4x&new=1)
+ > 图 / IC photoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【小米电动汽车制造业务仍未到立项阶段】小米集团在港公告，注意到近日若干媒体有关本集团拟进入电动汽车制造行业的报导。本集团一...
+ ## [今天，“全球3D打印产品库”在北京正式发布](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=rDQKlnbg-u75Ce25wv7Jsl0LQ7gSjEyfrUUavpSkIJaTPZgEPSLUkbXcEJmpU88LVdPxZRuI-Zr01Ij5D2wp4F7tJQDFw*RwbozfZsuYxpCuqwk3b3od6jVXni2AlGGk&new=1)
+ > 导读：过去的2020年，新冠病毒肆虐全球，造成部分制造业供应链的断裂，反而加速了3D打印的普及和使用。根据国家统计局的数据，2020全年，中国3D打印设备产品产量增速达1倍以上。据南极熊统计，2020年中国所有3D...
+ ## [2020年前沿科技发展态势及2021年趋势展望——新材料篇](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=G7sm3hkAwhrXkWQYRf-NY*T6RG9yHH1AXg-Yi7P9eTOzSXKWEUAmdLKWyZzbD0ttE*9-3jyI3qm*by64riaMNbyYRmNre-LKJSx2ZCTgN*oTPHFFIdUx22EznkmYMF*c&new=1)
  > 2020年前沿科技发展态势及2021年趋势展望——新材料篇世界新材料领域2020年态势总结发达国家针对新材料领域展开新一轮布局。美国国家科学基金会先后向“材料研究科学与工程中心”和“化学创新中心”合计投入约2....
- ## [TEF2021：400GE以上速度的机遇和挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=cjg*YJfu6Rh38TeGAIi7ntl-eaQTgIhATCVJsPIuolXnkG-6cSk5j0N*KTZD7KQS4byOvkJDcOv4snFR3v-qSNCdBpJPZ4DPKtAwEPQz0E5VeAinEABSalZYdG43feNN&new=1)
+ ## [TEF2021：400GE以上速度的机遇和挑战](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=cjg*YJfu6Rh38TeGAIi7ntl-eaQTgIhATCVJsPIuolV20XHjC6neZl4MG8npeXFjRyLP64Mww9qx2iXJUtD40VulxaPLE66DwvClXv5yH7sCa96jxgPhgmhK1C60k66h&new=1)
  > 新 闻 导 读以太网联盟在1月底举办了一场技术探索论坛，Dell&x27;Oro分析师Sameh Boujelbene分析了她在这次活动中的一些重要收获：下一代以太网速度的市场需求、800GE或1.6TE、功耗问题以及CPO等。ICC讯 在2021
- ## [用“猴脸识别技术”识别秦岭金丝猴](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=wY4AA7XHRX2BtcdtI6BA5x0ZkBkdO9Eco5TW4G-RrMc9dsaKZDtqpVWRusDw0hQXIaIscMh9PyEg5R8cN0eMnwCzn-9GNGYpe1pt9IhXi-4=&new=1)
+ ## [用“猴脸识别技术”识别秦岭金丝猴](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=wY4AA7XHRX2BtcdtI6BA5x0ZkBkdO9Eco5TW4G-RrMfgymZPXflQDF0LJ*3nvS2VWyA8ETkBGcmH*7GgaSCfF-aMzKTGPnoM7KqPxTocq3M=&new=1)
  > 中国科研人员　　据新华社电 来自我国西北大学的科研团队正依托人工智能等新技术，研发“猴脸识别技术”，用于识别秦岭地区的数千只川金丝猴。　　与人脸识别技术相似，猴脸识别技术通过提取金丝猴面部特征...
- ## [媲美光纤：5G固定无线接入](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=y7SzvEbFERdglwFnCVHJCGWOOgz6Xq4aO8tOMo4nMAlt8Cov*pjV2MzXw96Fl35vFzRkQb5o9*ooLrknEnXwSbksnUkESbZJmcnKQGTHA9uf77l2anEn1qlRz6km2-*O&new=1)
+ ## [媲美光纤：5G固定无线接入](http://mp.weixin.qq.com/s?src=11&timestamp=1613984433&ver=2905&signature=y7SzvEbFERdglwFnCVHJCGWOOgz6Xq4aO8tOMo4nMAlHFgYdylqxUnQrhVIEJF8e8zjgjjmtBXJ9WkmmeKRLbtTjVU4v8UPl6gr7-hVcGZqGMiTj-uzwN8nF*927DYS3&new=1)
  > 通过前三集的“What’s Next in 5G”系列视频，大家已经了解到高通骁龙X65 5G调制解调器及射频系统所带来的10Gbps 5G大飞跃，以及下一代5G射频前端如何支持终端厂商设计顶级5G终端。在今天的视频中，高通技术公...
- ## [华为智慧养猪方案难发挥5G优势，囿于成本或许WiFi更合适](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=zKMxCnFDHkBwBUf8hG3gVcTuNubECWxo0xW6a6ctsWPt6QDjgo7Kvw9ZhRf0JtONR9qwJ*BuY2pNa-kCkG7F0Ju2txGOr9GdtNLjzpcdO4jsIWPUNBbGfAycNXk0iY4K&new=1)
- > 由于众所周知的原因，华为第一大业务--手机业务萎缩已是必然，为此它正积极拓展新业务，其中智慧养猪方案就成为它的新业务之一，那么这项业务是否有前景呢？柏铭科技根据实际情况来探讨一下。华为通过近40年的努...
- ## [\[报告\]2020全球汽车零部件供应商研究(附59页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=ixld4bqYe89QLi-EXok8FDdwIkpmM3GyDNgnP4FRzXLxS3O7QoC4ztcJ6XQ9UFhWbyQUyPqbLxnKALtTy*tw0MX94OZqWm2t4z9wbdMFsEeLmlBhgAF-xUjlZHZJcwwh&new=1)
- > 近日，罗兰贝格与金融服务公司拉扎德联合发布《全球汽车零部件供应商研究2020》。报告对2020年全球约600家汽车零部件供应商在新冠疫情冲击下的财务发展状况和挑战进行深入分析，提出应对挑战的关键战略举措，旨...
- ## [打通VoNR是什么意思?](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=nmXhYYPrslXUxa3*4SLYsqZ7Vv7P-MnrlplYRYYv-ZQf2lM9uw2AWiOM8OUs0bXX0Ym5tauWxJJ6LlkuGk49ahLM4ohrrua*1TcyTro8KDwiAHYGijjRJQuYQyLDQYBq&new=1)
- > 我们打通 VoNR了！伴随着5G商用步伐推进，各家大厂都宣布自己打通VoNR了。不久前，创新公司千通科技公司也传来打通VoNR的好消息！打通VoNR到底是什么意思？有什么意义呢？什么叫VoNR？尽管不断增长的数据业务需...
- ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1613966404&ver=2905&signature=zmwYZzMF4NiskFXZAxDUuPJMFEU6IAnSUgKtfzdCjSDAQfZzE6o4z9q-LpDT1RHdW2c6RUevdJemy0x8ttybuzS2CWuYA5KhKpFPFvoeSIm6Zxk4j3x5VaaAmnWUkYli&new=1)
- > 女版巴菲特的十五个技术深度预测。编辑 | 智东西内参近日，知名投资管理公司方舟投资（ARK Investment Management LLC）发布了最新的《Big Ideas》报告，这家由“女版巴菲特”之称的凯瑟琳·伍德创建的投资公司...
 # IT 技术 
  ## [您遵循过这些Jenkins优秀实践吗？](http://developer.51cto.com/art/202102/646493.htm)
  > 您遵循过这些Jenkins优秀实践吗？
@@ -45,28 +59,28 @@ categories: IT NEWS
  > 鸿蒙带你玩转3516！修改系统源码！随心所欲去使用自己心爱的字体包！
  ## [我身边的高T，问了Java面试者这样的问题......](http://news.51cto.com/art/202102/646446.htm)
  > 我身边的高T，问了Java面试者这样的问题......
- ## [Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训](http://fellow.51cto.com/art/202012/636254.htm?qd=51ctojrzd)
- > Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训
- ## [无法阻挡比特币上涨 什么赋予了比特币价值？](http://blockchain.51cto.com/art/202102/646624.htm)
- > 目前，流通中的比特币约为1860万枚，交易的比特币总价值已超过1万亿美元。今年到目前为止，比特币的价格已
- ## [物联网应用：智能家居和办公解决方案](http://iot.51cto.com/art/202102/646622.htm)
- > 据阿拉伯媒体的一部分报道，阿联酋是海湾合作委员会(GCC)中智能家居系统的领先市场之一。预计阿联酋航空在2
- ## [区块链是如何保护用户的金融隐私权的？](http://blockchain.51cto.com/art/202102/646621.htm)
- > 美国银行涉嫌将用户信息泄露给当局；这不是此类机构第一次侵犯用户的金融隐私权。区块链是金融服务消费者避
- ## [在Windows10中禁用PowerShell，保护电脑安全](http://os.51cto.com/art/202102/646620.htm)
- > Windows 10提供二种命令行界面：命令提示符和PowerShell。Windows PowerShell是供用户安装和管理Windows，
- ## [如何在评估机器学习模型时防止数据泄漏](http://ai.51cto.com/art/202102/646619.htm)
- > 本文讨论了评估模型性能时的数据泄漏问题以及避免数据泄漏的方法。
- ## [2021年值得关注的十大网络安全趋势](http://netsecurity.51cto.com/art/202102/646617.htm)
- > 监管隐私者很难抓住那些破坏网络网络以窃取私人数据的网络罪犯，这并不奇怪。失败的网络安全协议构成了数据
- ## [2021年十大自然语言处理（NLP）趋势](http://ai.51cto.com/art/202102/646616.htm)
- > 2020年是基于深度学习的自然语言处理（NLP）研究的繁忙年份。最大的噪音的英文由迄今为止发布的最大的自然
- ## [将Windows作为编程开发的主力](http://os.51cto.com/art/202102/646614.htm)
- > 很多年前，人们就将windows定义为更适合娱乐的操作系统，相比于mac系统很少有人将windows作为高雅的编程开
- ## [红杉资本被黑客入侵](http://zhuanlan.51cto.com/art/202102/646613.htm)
- > 据网络安全公司Axios报道，红杉资本上周五告诉其投资者遭到黑客入侵，黑客使用的是BEC（商业电子邮件欺诈）
- ## [Golang 1.16中Module机制更新](http://os.51cto.com/art/202102/646611.htm)
- > 最近，Golang发布了一个新版本1.16。版本引入了很多新功能，其中在模块方面的改进，今天我们就一起来深入学
+ ## [Html实践之路视频课程](http://fellow.51cto.com/art/202101/640936.htm?qd=51ctojrzd)
+ > Html实践之路视频课程
+ ## [AI面试官也太好骗了！用书架图片做视频背景，提高15%好感度](http://ai.51cto.com/art/202102/646649.htm)
+ > 这个AI面试官，来自德国慕尼黑的一家初创公司。据开发者称，它能通过分析应聘者的声音、语言、手势和面部表
+ ## [刷手机为何易上瘾？APP暗藏诱饵 大数据捕捉用户习惯](http://bigdata.51cto.com/art/202102/646642.htm)
+ > 为什么人们用手机时间的这么长？香港《南华早报》网站1月19日刊文解析原因。
+ ## [美加紧备战人工智能战争](http://ai.51cto.com/art/202102/646641.htm)
+ > 据外媒报道，美国试图以“防务伙伴关系计划”为依托，拉拢盟友备战人工智能战争。报道称，在加大与盟友军事
+ ## [存量经营时代，运营商还需做好精细化服务](http://network.51cto.com/art/202102/646640.htm)
+ > 近日，三大运营商公布了2020年12月和全年移动与宽带用户数发展情况。从统计数据可以看出，三大运营商的移动
+ ## [监管与去中心化是否有冲突，两者能否共存？](http://blockchain.51cto.com/art/202102/646639.htm)
+ > 许多人对区块链的常见误解中，有这么一条：因为区块链要求去中心化，而监管的主体本身是一个巨大的中心，
+ ## [护航5G健康发展，从规范业务数据发布开始](http://network.51cto.com/art/202102/646638.htm)
+ > 新春伊始，万象更新，我国的5G产业发展已执全球之牛耳；但登高望远，承担引领全球5G产业发展使命，更需做好
+ ## [知悉、预防、修复：谷歌提出开源软件漏洞治理框架](http://netsecurity.51cto.com/art/202102/646636.htm)
+ > 开源软件的安全问题理所当然地引起了业界的关注，但解决方案需要对执行过程中的挑战和合作达成共识。
+ ## [硅谷风投公司红杉资本遭黑客攻击，隐私信息或被窃取](http://netsecurity.51cto.com/art/202102/646635.htm)
+ > 据外媒报道，硅谷风险投资公司红杉资本表示，该公司遭遇网络钓鱼攻击，一些个人信息和财务信息可能被第三方
+ ## [DAIC：检测商业电子邮件欺诈（BEC）的开源利器](http://zhuanlan.51cto.com/art/202102/646634.htm)
+ > 虽然2020年勒索软件出尽风头，吸引了防御者大量注意力，但是“传统”针对性攻击例如BEC的脚步丝毫也没有放
+ ## [俄外交部发言人：英国政府通过代理人操控俄境内媒体](http://netsecurity.51cto.com/art/202102/646633.htm)
+ > 据俄罗斯外交部发言人说，英国外交部泄露的文件详细说明了英国政府如何在俄语社交媒体领域建立极具影响的代
  ## [惊悚！特斯拉在无人墓地感应到行人](https://blog.csdn.net/m0_46163918/article/details/113915194)
  > 惊悚！特斯拉在无人墓地感应到行人
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
@@ -129,6 +143,16 @@ categories: IT NEWS
  ## [自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名](https://blog.csdn.net/hepu8/article/details/113883459)
  > 自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名
 # PM 
+ ## [产品经理面试题之为什么做产品经理？](http://www.chanpin100.com/article/113585)
+ > 很多产品经理新人去公司参加面试的时候，都会被问到为什么要做产品经理这个问题。今天为大家深入剖析一下这个问题。
+ ## [开课吧山顶Talk第十六期：宿华的下沉策略成就快手品牌传奇](http://www.chanpin100.com/article/113584)
+ > 进入互联网时代，市场竞争与品牌定位都呈现出众多新元素，也对产品经理们提出了更高的要求。特别是国民级短视频App快手，如今已经成长为拥有亿级日活用户的品牌巨头。在开课吧山顶Talk最新一期，开课吧新商业人才学院院长高玮就围绕快手创始人兼CEO宿华的下沉策略，讲述了快手品牌裂变腾飞的案例。
+ ## [产品经理的岗位职责有哪些？](http://www.chanpin100.com/article/113581)
+ > 哪些工作是产品经理的职责所在？哪些又不是呢？这个问题常常让产品经理本身感到困惑。那么，产品经理的岗位职责到底有哪些呢？请看本文的具体介绍。
+ ## [2021“端”内搜索的新战争](http://www.chanpin100.com/article/113576)
+ > 作为互联网老兵，经历了PC时代整个的搜索战争，直至移动时代360搜索、搜狗搜索的接连败北，中间数年时间搜索领域几乎无战事。
+ ## [让设计师同事认可的提需求方法-数据指导产品设计](http://www.chanpin100.com/article/113574)
+ > 最近项目中遇到小程序迭代的需求，因为行业比较特殊，所以用户群体也比较特殊。公益养老行业，使用小程序的用户都是志愿者，最初只是从客户和项目干系人处了解到大部分用户年龄相对比较大，老年人居多。
  ## [【产品经理免费公开课】2021热门行业全景式剖析](http://www.chanpin100.com/article/113577)
  > 想必各位小伙伴都已经正式开工了吧！2021年新的一年，新的开始。那么，2021年热门行业有哪些呢？本期公开课就让高玮老师来为大家进行深度剖析。
  ## [互联网人口红利殆尽丨电商行业数字化转型突破流量壁垒](http://www.chanpin100.com/article/113570)
