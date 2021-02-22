@@ -1,47 +1,58 @@
 ---
 title: 2021-02-22 IT News
 copyright: true
-date: 2021-02-22 09:07:29
+date: 2021-02-22 10:07:27
 tags: IT NEWS
 categories: IT NEWS
 ---
+# IT 新闻 
+ ## [媲美光纤：5G固定无线接入](http://mp.weixin.qq.com/s?src=11&timestamp=1613959204&ver=2905&signature=y7SzvEbFERdglwFnCVHJCGWOOgz6Xq4aO8tOMo4nMAljcKzRygiGgTXiKoM435NHAyqd72O2lafDZ-Zzt*bA2TFWZlNELYBzc96Oy6YYpMVuH54MJb9WJRBJ42asawH*&new=1)
+ > 通过前三集的“What’s Next in 5G”系列视频，大家已经了解到高通骁龙X65 5G调制解调器及射频系统所带来的10Gbps 5G大飞跃，以及下一代5G射频前端如何支持终端厂商设计顶级5G终端。在今天的视频中，高通技术公...
+ ## [华为智慧养猪方案难发挥5G优势，囿于成本或许WiFi更合适](http://mp.weixin.qq.com/s?src=11&timestamp=1613959204&ver=2905&signature=zKMxCnFDHkBwBUf8hG3gVcTuNubECWxo0xW6a6ctsWOqVqFf0fCSRVZ03z0ZVlcn0xAwt3lWwX23vtErq2-cp8uJerGNtzdbzGQdGJuSK82JFvsvpqbt0nvXE7dFJVY0&new=1)
+ > 由于众所周知的原因，华为第一大业务--手机业务萎缩已是必然，为此它正积极拓展新业务，其中智慧养猪方案就成为它的新业务之一，那么这项业务是否有前景呢？柏铭科技根据实际情况来探讨一下。华为通过近40年的努...
+ ## [\[报告\]2020全球汽车零部件供应商研究(附59页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1613959204&ver=2905&signature=ixld4bqYe89QLi-EXok8FDdwIkpmM3GyDNgnP4FRzXJqx9lfUh7PoeiBZ4tPG-HD0N-*vwsVe7xvIVDd6E3bRIbpVcdm6sYTUg62CDmnoXmsmAwzDJFmsNDXyGoY7cI8&new=1)
+ > 近日，罗兰贝格与金融服务公司拉扎德联合发布《全球汽车零部件供应商研究2020》。报告对2020年全球约600家汽车零部件供应商在新冠疫情冲击下的财务发展状况和挑战进行深入分析，提出应对挑战的关键战略举措，旨...
+ ## [打通VoNR是什么意思?](http://mp.weixin.qq.com/s?src=11&timestamp=1613959204&ver=2905&signature=nmXhYYPrslXUxa3*4SLYsqZ7Vv7P-MnrlplYRYYv-ZS15Z*UgDDPZTv5U*BkaN1XB5UUsgGJoNsZD43wMXyyuRqCmMtj5r53Yv2WFgsF-He-NtA-X2d7Zitz6I2htvXD&new=1)
+ > 我们打通 VoNR了！伴随着5G商用步伐推进，各家大厂都宣布自己打通VoNR了。不久前，创新公司千通科技公司也传来打通VoNR的好消息！打通VoNR到底是什么意思？有什么意义呢？什么叫VoNR？尽管不断增长的数据业务需...
+ ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1613959204&ver=2905&signature=zmwYZzMF4NiskFXZAxDUuPJMFEU6IAnSUgKtfzdCjSCoV-iTIhkU4g0XyUUTI-duWkLMvrQBX*2-RIuSMENQ**QDRAcrN82rk5fiPLCgc*pdS1i7K1IyUTg10HBWPxPr&new=1)
+ > 女版巴菲特的十五个技术深度预测。编辑 | 智东西内参近日，知名投资管理公司方舟投资（ARK Investment Management LLC）发布了最新的《Big Ideas》报告，这家由“女版巴菲特”之称的凯瑟琳·伍德创建的投资公司...
 # IT 技术 
+ ## [全球芯片荒加剧！因断电，三星电子、恩智浦被迫停产，马斯克也发飙了](http://news.51cto.com/art/202102/646441.htm)
+ > 全球芯片荒加剧！因断电，三星电子、恩智浦被迫停产，马斯克也发飙了
  ## [您遵循过这些Jenkins优秀实践吗？](http://developer.51cto.com/art/202102/646493.htm)
  > 您遵循过这些Jenkins优秀实践吗？
  ## [996加班骗局被揭穿，背后真相值得深思！](http://news.51cto.com/art/202102/646494.htm)
  > 996加班骗局被揭穿，背后真相值得深思！
  ## [促进企业业务繁荣发展的十大数据分析趋势](http://bigdata.51cto.com/art/202102/646491.htm)
  > 促进企业业务繁荣发展的十大数据分析趋势
+ ## [鸿蒙带你玩转3516！修改系统源码！随心所欲去使用自己心爱的字体包！](http://developer.51cto.com/art/202102/646445.htm)
+ > 鸿蒙带你玩转3516！修改系统源码！随心所欲去使用自己心爱的字体包！
  ## [【廉环话】防疫一周年后的IT治理思考 --可用性、关系与财务管理](http://developer.51cto.com/art/202102/646366.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --可用性、关系与财务管理
  ## [IBM拟出售Watson Health后，AI医疗还能不能碰](http://ai.51cto.com/art/202102/646427.htm)
  > IBM拟出售Watson Health后，AI医疗还能不能碰
- ## [智能自动化：重新定义生命科学企业的价值](http://www.cioage.com/art/202102/646364.htm)
- > 智能自动化：重新定义生命科学企业的价值
- ## [微软公布Solarwinds黑客事件调查报告：少量代码泄露，不会被用于攻击用户](http://netsecurity.51cto.com/art/202102/646420.htm)
- > 微软公布Solarwinds黑客事件调查报告：少量代码泄露，不会被用于攻击用户
- ## [2021年软考信息系统项目管理师-上午历年真题解析视频课程](http://fellow.51cto.com/art/202012/637599.htm?qd=51ctojrzd)
- > 2021年软考信息系统项目管理师-上午历年真题解析视频课程
- ## [Java基础入门之异常的那些事儿](http://developer.51cto.com/art/202102/646551.htm)
- > 这篇文章我们主要介绍Java基础入门之try...catch、finally、throws关键字和抛出异常知识，一起来学习下吧!
- ## [Kubernetes Pod应用性能分析工具 Kubectl Flame](http://os.51cto.com/art/202102/646549.htm)
- > 在Kubernetes集群中运行的应用程序上执行分析时，甚至更加困难。需要部署一个包含配置文件修改的新容器映像
- ## [Activity显示界面历险记](http://mobile.51cto.com/anews-646547.htm)
- > 在Activity显示View的过程中，有一些重要的角色总让人理不清，比如PhoneWindow、DecorView、ViewRootImpl。
- ## [如何在 JS 中的数组开头添加元素?](http://developer.51cto.com/art/202102/646546.htm)
- > 今天，我们来一起学习一下如何把元素添加到元素的首个元素。
- ## [一文读懂虚拟现实（VR）产业最新发展趋势](http://mobile.51cto.com/vrar-646548.htm)
- > 展望2021年，虚拟现实产业的关键技术不断突破，消费级、行业级虚拟现实产品和行业应用解决方案供给将更为丰
- ## [基本命令学习之Linux压缩和解压缩命令](http://os.51cto.com/art/202102/646541.htm)
- > Linux下的压缩和解压缩工具比较多，有时经常记不住，这里给大家汇总一下，方便大家查阅。
- ## [分布式链路追踪，要怎么玩下?](http://developer.51cto.com/art/202102/646542.htm)
- > 在具体介绍分布式链路追踪系统之前，我们首先需要理解下什么是链路追踪?在本专栏前面关于监控系统的介绍中
- ## [2.5.U-Boot源码分析1-启动阶段-U-B](http://fellow.51cto.com/art/202102/646502.htm)
- > 本课程为uboot学习的第5部分，主要内容是uboot启动的阶段start.S文件中的汇编初始化
- ## [10 个内存引发的大坑，你能躲开几个？](http://stor.51cto.com/art/202102/646544.htm)
- > 对程序员来说内存相关的 bug 排查难度几乎和多线程问题并驾齐驱，当程序出现运行异常时可能距离真正有 bug
- ## [图解经典的进程调度算法](http://developer.51cto.com/art/202102/646545.htm)
- > 文中的很多图片来源我考研时看的网课，B 站上应该还能找到，王道考研出品的操作系统系列，各位可以去看看，
+ ## [Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02](http://fellow.51cto.com/art/202012/637238.htm?qd=51ctojrzd)
+ > Oracle用户管理模式的备份恢复_Oracle备份恢复与数据迁移教程02
+ ## [工业物联网：IT与OT的最佳融合](http://iot.51cto.com/art/202102/646565.htm)
+ > IIoT是工业或制造行业专有的IoT。它有助于使批量生产更加高效和智能。它使工业单位成为智能工厂。在本文中
+ ## [鸿蒙的js开发部模式14:tabs组件通过Python远程服务构建项目一](http://developer.51cto.com/art/202102/646449.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [Verizon在业主家门口安装5G设备引不满](http://network.51cto.com/art/202102/646564.htm)
+ > 据外媒，美国电信运营商Verizon近期引起了休斯敦部分居民的不满，据了解，该公司在部分居民的门口安装了一
+ ## [在2021年成为一名成功程序员的秘诀_IT技术周刊第664期](http://news.51cto.com/art/202102/646566.htm)
+ > 技术资讯尽在技术周刊
+ ## [起亚汽车遭遇了2000万美元的勒索软件攻击](http://netsecurity.51cto.com/art/202102/646561.htm)
+ > DoppelPaymer勒索软件团伙称他们对起亚公司发动了勒索攻击，并要求支付2000万美元的赎金。
+ ## [聊聊我的Go开发环境](http://developer.51cto.com/art/202102/646562.htm)
+ > 本篇聊聊我的go开发环境，我的电脑系统都是Linux桌面系统-Manjaro。
+ ## [直接拿来用！GitHub10个开源免费的后台管理面板](http://os.51cto.com/art/202102/646560.htm)
+ > 今天要给大家介绍几个GitHub上开源免费好用的后台管理面板，大家在平时工作中，一定不可避免的会开发一些业
+ ## [2021年软考数据库系统工程师--基础](http://fellow.51cto.com/art/202102/646503.htm)
+ > 付费用户可以学习到通过考试，而且以后每次考试后的真题解析视频也可以免费看到。
+ ## [带有过期时间的LRU实现](http://network.51cto.com/art/202102/646559.htm)
+ > LRU全称是Least Recently Used，即最近最久未使用的意思。也就是说：如果一个数据在最近一段时间没有被使用
+ ## [Windows 10复制粘贴功能升级：上升到全新高度](http://os.51cto.com/art/202102/646558.htm)
+ > 微软现在正在测试Windows剪贴板历史记录的新更新，它将允许访问 &quot;粘贴为纯文本&quot;选项，与现有的钉住和删除按
  ## [惊悚！特斯拉在无人墓地感应到行人](https://blog.csdn.net/m0_46163918/article/details/113915194)
  > 惊悚！特斯拉在无人墓地感应到行人
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
@@ -91,17 +102,22 @@ categories: IT NEWS
  > Android 注解处理器使用攻略
  ## [开源数据库管理系统现在比商业产品更受欢迎](https://blog.csdn.net/weixin_46199817/article/details/113857437)
  > 开源数据库管理系统现在比商业产品更受欢迎
- ## [python的5种高级用法，效率提高没毛病！](https://blog.csdn.net/m0_52915161/article/details/113865135)
- > python的5种高级用法，效率提高没毛病！
+ ## [【C++】算法集锦（5）：BFS算法](https://blog.csdn.net/qq_43762191/article/details/113915792)
+ > 【C++】算法集锦（5）：BFS算法
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名](https://blog.csdn.net/hepu8/article/details/113883459)
- > 自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名
+ ## [2021年的学习Flag：只争朝夕，不负韶华](https://blog.csdn.net/Eastmount/article/details/113855031)
+ > 2021年的学习Flag：只争朝夕，不负韶华
  ## [与2017年度两位图灵奖得主的虚拟对话](https://blog.csdn.net/SeaCloudHill/article/details/113814887)
  > 与2017年度两位图灵奖得主的虚拟对话
- ## [Python  标识符 数据类型 类型转换](https://blog.csdn.net/qq_43900956/article/details/113872357)
- > Python  标识符 数据类型 类型转换
- ## [初学c++，vc++6.0必备！](https://blog.csdn.net/lunvey/article/details/113870169)
- > 初学c++，vc++6.0必备！
+ ## [【人生苦短，我学 Python】进阶篇——文件处理（Day15）](https://blog.csdn.net/wjinjie/article/details/113874056)
+ > 
+ ## [自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名](https://blog.csdn.net/hepu8/article/details/113883459)
+ > 自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名
+# PM 
+ ## [【产品经理免费公开课】2021热门行业全景式剖析](http://www.chanpin100.com/article/113577)
+ > 想必各位小伙伴都已经正式开工了吧！2021年新的一年，新的开始。那么，2021年热门行业有哪些呢？本期公开课就让高玮老师来为大家进行深度剖析。
+ ## [互联网人口红利殆尽丨电商行业数字化转型突破流量壁垒](http://www.chanpin100.com/article/113570)
+ > 目前我国互联网的渗透率已接近饱和状态，随着互联网人口红利殆尽，电商销售增速也呈放缓趋势，进入了存量争夺的竞争阶段。
 
     
