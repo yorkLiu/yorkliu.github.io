@@ -1,20 +1,15 @@
 ---
 title: 2021-02-22 IT News
 copyright: true
-date: 2021-02-22 08:03:19
+date: 2021-02-22 09:07:29
 tags: IT NEWS
 categories: IT NEWS
 ---
-# IT 新闻 
- ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1613952004&ver=2905&signature=zmwYZzMF4NiskFXZAxDUuPJMFEU6IAnSUgKtfzdCjSCoV-iTIhkU4g0XyUUTI-ducfQmSPo6W1t1i*EQVZAItme4pLlDx3K*Hay8OXD5ixkki9BPnJVY7u*M5mMxcKxK&new=1)
- > 女版巴菲特的十五个技术深度预测。编辑 | 智东西内参近日，知名投资管理公司方舟投资（ARK Investment Management LLC）发布了最新的《Big Ideas》报告，这家由“女版巴菲特”之称的凯瑟琳·伍德创建的投资公司...
- ## [媲美光纤：5G固定无线接入](http://mp.weixin.qq.com/s?src=11&timestamp=1613952004&ver=2905&signature=y7SzvEbFERdglwFnCVHJCGWOOgz6Xq4aO8tOMo4nMAljcKzRygiGgTXiKoM435NH832iH3ThAUl0Si6iOg5esF5IB0QSSxCExUnYzRvmpEFRWvE-WJHat93NFVplUbfD&new=1)
- > 通过前三集的“What’s Next in 5G”系列视频，大家已经了解到高通骁龙X65 5G调制解调器及射频系统所带来的10Gbps 5G大飞跃，以及下一代5G射频前端如何支持终端厂商设计顶级5G终端。在今天的视频中，高通技术公...
- ## [华为智慧养猪方案难发挥5G优势，囿于成本或许WiFi更合适](http://mp.weixin.qq.com/s?src=11&timestamp=1613952004&ver=2905&signature=zKMxCnFDHkBwBUf8hG3gVcTuNubECWxo0xW6a6ctsWOqVqFf0fCSRVZ03z0ZVlcnGVU8ENOmjNgJ7WEYBST3jPwGTvMV*ur*Uru6ZXp-SyPN8BFO5vHWaSkJrony0ijA&new=1)
- > 由于众所周知的原因，华为第一大业务--手机业务萎缩已是必然，为此它正积极拓展新业务，其中智慧养猪方案就成为它的新业务之一，那么这项业务是否有前景呢？柏铭科技根据实际情况来探讨一下。华为通过近40年的努...
- ## [打通VoNR是什么意思?](http://mp.weixin.qq.com/s?src=11&timestamp=1613952004&ver=2905&signature=nmXhYYPrslXUxa3*4SLYsqZ7Vv7P-MnrlplYRYYv-ZS15Z*UgDDPZTv5U*BkaN1XulcCmXNohqJxlbpLZtPH47hlZ2ZKl4renxLHovb87QznBQwtKU3M-QnLlOxMUjSt&new=1)
- > 我们打通 VoNR了！伴随着5G商用步伐推进，各家大厂都宣布自己打通VoNR了。不久前，创新公司千通科技公司也传来打通VoNR的好消息！打通VoNR到底是什么意思？有什么意义呢？什么叫VoNR？尽管不断增长的数据业务需...
 # IT 技术 
+ ## [您遵循过这些Jenkins优秀实践吗？](http://developer.51cto.com/art/202102/646493.htm)
+ > 您遵循过这些Jenkins优秀实践吗？
+ ## [996加班骗局被揭穿，背后真相值得深思！](http://news.51cto.com/art/202102/646494.htm)
+ > 996加班骗局被揭穿，背后真相值得深思！
  ## [促进企业业务繁荣发展的十大数据分析趋势](http://bigdata.51cto.com/art/202102/646491.htm)
  > 促进企业业务繁荣发展的十大数据分析趋势
  ## [【廉环话】防疫一周年后的IT治理思考 --可用性、关系与财务管理](http://developer.51cto.com/art/202102/646366.htm)
@@ -25,26 +20,28 @@ categories: IT NEWS
  > 智能自动化：重新定义生命科学企业的价值
  ## [微软公布Solarwinds黑客事件调查报告：少量代码泄露，不会被用于攻击用户](http://netsecurity.51cto.com/art/202102/646420.htm)
  > 微软公布Solarwinds黑客事件调查报告：少量代码泄露，不会被用于攻击用户
- ## [为什么有些大公司的技术弱爆了？](http://news.51cto.com/art/202102/646368.htm)
- > 为什么有些大公司的技术弱爆了？
- ## [鸿蒙js开发14 自定义构建购物计算组件&表单组件](http://developer.51cto.com/art/202102/646303.htm)
- > 鸿蒙js开发14 自定义构建购物计算组件&amp;表单组件
- ## [MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03](http://fellow.51cto.com/art/202008/623591.htm?qd=51ctojrzd)
- > MySQL主从复制项目实施与维护02(MGR)_MySQL高可用复制与分布式集群架构03
- ## [微软下月将为 Microsoft Word 加入文本预测功能](http://os.51cto.com/art/202102/646538.htm)
- > 2月22日消息 据 Mspoweruser 报道，微软将在下个月为 Windows 版 Microsoft Word 提供文本预测功能。
- ## [Windows10 21H2更新曝光：开始菜单/任务栏大变样、圆角矩形化](http://os.51cto.com/art/202102/646537.htm)
- > 由于不打算推出Windows 11，微软的做法是对Windows10进行不断的迭代，为给用户带来新鲜感，除了功能，还要
- ## [常见的初级排序算法，这次全搞懂](http://developer.51cto.com/art/202102/646536.htm)
- > 相信所有的程序员刚开始接触到的算法都会是排序算法，因为排序在对数据处理和计算有这重要的地位，排序算法
- ## [经典屏保被Flash玩坏？盘点同样给力的屏保软件](http://os.51cto.com/art/202102/646535.htm)
- > 前段时间，微软删除了Win10内置的Flash组件，直接导致了包括Fliqlo（翻页屏保）在内的一众软件工具失效。尽
- ## [对象到对象映射-AutoMapper](http://developer.51cto.com/art/202102/646534.htm)
- > 通常，这是当一种类型看起来与另一种类型不一样时，已经存在转换函数，并且您希望从“松散”类型变为更强的
- ## [什么是TLS/SSL中间人攻击？这样解释，外行人也听懂了](http://netsecurity.51cto.com/art/202102/646533.htm)
- > 经常浏览网络安全相关文章的时候，经常看到“中间人攻击”的字样，这个词颇有神秘感，很多人却不知道到底什
- ## [自动驾驶/全息投影！电影中的黑科技距离我们有多远](http://ai.51cto.com/art/202102/646532.htm)
- > 一直以来电影都是人们对于未来或者未知的憧憬，里面有很多看似科幻的黑科技，有一些很无厘头，而另外还有一
+ ## [2021年软考信息系统项目管理师-上午历年真题解析视频课程](http://fellow.51cto.com/art/202012/637599.htm?qd=51ctojrzd)
+ > 2021年软考信息系统项目管理师-上午历年真题解析视频课程
+ ## [Java基础入门之异常的那些事儿](http://developer.51cto.com/art/202102/646551.htm)
+ > 这篇文章我们主要介绍Java基础入门之try...catch、finally、throws关键字和抛出异常知识，一起来学习下吧!
+ ## [Kubernetes Pod应用性能分析工具 Kubectl Flame](http://os.51cto.com/art/202102/646549.htm)
+ > 在Kubernetes集群中运行的应用程序上执行分析时，甚至更加困难。需要部署一个包含配置文件修改的新容器映像
+ ## [Activity显示界面历险记](http://mobile.51cto.com/anews-646547.htm)
+ > 在Activity显示View的过程中，有一些重要的角色总让人理不清，比如PhoneWindow、DecorView、ViewRootImpl。
+ ## [如何在 JS 中的数组开头添加元素?](http://developer.51cto.com/art/202102/646546.htm)
+ > 今天，我们来一起学习一下如何把元素添加到元素的首个元素。
+ ## [一文读懂虚拟现实（VR）产业最新发展趋势](http://mobile.51cto.com/vrar-646548.htm)
+ > 展望2021年，虚拟现实产业的关键技术不断突破，消费级、行业级虚拟现实产品和行业应用解决方案供给将更为丰
+ ## [基本命令学习之Linux压缩和解压缩命令](http://os.51cto.com/art/202102/646541.htm)
+ > Linux下的压缩和解压缩工具比较多，有时经常记不住，这里给大家汇总一下，方便大家查阅。
+ ## [分布式链路追踪，要怎么玩下?](http://developer.51cto.com/art/202102/646542.htm)
+ > 在具体介绍分布式链路追踪系统之前，我们首先需要理解下什么是链路追踪?在本专栏前面关于监控系统的介绍中
+ ## [2.5.U-Boot源码分析1-启动阶段-U-B](http://fellow.51cto.com/art/202102/646502.htm)
+ > 本课程为uboot学习的第5部分，主要内容是uboot启动的阶段start.S文件中的汇编初始化
+ ## [10 个内存引发的大坑，你能躲开几个？](http://stor.51cto.com/art/202102/646544.htm)
+ > 对程序员来说内存相关的 bug 排查难度几乎和多线程问题并驾齐驱，当程序出现运行异常时可能距离真正有 bug
+ ## [图解经典的进程调度算法](http://developer.51cto.com/art/202102/646545.htm)
+ > 文中的很多图片来源我考研时看的网课，B 站上应该还能找到，王道考研出品的操作系统系列，各位可以去看看，
  ## [惊悚！特斯拉在无人墓地感应到行人](https://blog.csdn.net/m0_46163918/article/details/113915194)
  > 惊悚！特斯拉在无人墓地感应到行人
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
@@ -65,16 +62,16 @@ categories: IT NEWS
  > Markdown语法图文全面详解(10分钟学会)
  ## [当事人：现在就是非常后悔，开工那天没去上班，老板不仅省了我的开工红包，连我人都省了](https://blog.csdn.net/Androiddddd/article/details/113867449)
  > 当事人：现在就是非常后悔，开工那天没去上班，老板不仅省了我的开工红包，连我人都省了
- ## [ConvTranspose2d原理，深度网络如何进行上采样？](https://blog.csdn.net/qq_27261889/article/details/86304061)
- > ConvTranspose2d原理，深度网络如何进行上采样？
- ## [没想到 Python 中竟然还藏着这些稀奇古怪的东西...](https://blog.csdn.net/u013486414/article/details/104873811)
- > 
+ ## [2020年8月程序员工资统计，平均14401元，下跌势头止住了](https://blog.csdn.net/juwikuang/article/details/107748463)
+ > 2020年8月程序员工资统计，平均14401元，下跌势头止住了
+ ## [Python学习目录](https://blog.csdn.net/zhanshen112/article/details/90339777)
+ > Python学习目录
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [\[Python图像处理\] 一.图像处理基础知识及OpenCV入门函数](https://blog.csdn.net/Eastmount/article/details/81748802)
- > \[Python图像处理\] 一.图像处理基础知识及OpenCV入门函数
- ## [使用VS Code进行Qt开发](https://blog.csdn.net/weixin_43669941/article/details/108921714)
- > 使用VS Code进行Qt开发
+ ## [Vue一到三年面试题总结](https://blog.csdn.net/weixin_43606158/article/details/99131527)
+ > Vue一到三年面试题总结
+ ## [R语言Copula函数股市相关性建模：模拟Random Walk(随机游走)](https://blog.csdn.net/qq_19600291/article/details/106064443)
+ > R语言Copula函数股市相关性建模：模拟Random Walk(随机游走)
 # 人工智能 
  ## [如何让酝酿8年的想法在1小时内实现？](https://blog.csdn.net/SeaCloudHill/article/details/113421966)
  > 如何让酝酿8年的想法在1小时内实现？
