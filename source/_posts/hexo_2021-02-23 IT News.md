@@ -1,22 +1,15 @@
 ---
 title: 2021-02-23 IT News
 copyright: true
-date: 2021-02-23 08:07:30
+date: 2021-02-23 09:08:01
 tags: IT NEWS
 categories: IT NEWS
 ---
-# IT 新闻 
- ## [给中国智能电动车产业的战略建议](http://mp.weixin.qq.com/s?src=11&timestamp=1614038405&ver=2907&signature=tnfSxVvdvnJPbu13-4owympVllCVJaFSuhl17StN4Ig86HQ4Z8z19geQiXNBkWGZn*OiZmBA8CaAxAEQ*F8YahKGfS8BkiKzIzPycj0u8lPfpkDJJRJsClo0jNOOs8uU&new=1)
- > 《中国汽车科技趋势报告（2021年）》　正式发布中国智能电动产业崛起的战略意义，无论怎么强调都不为过。2021年，会是中国智能电动车产业崛起的关键一年。 一 智能电动车产业的兴起，一定程度上与中国的国运息息...
- ## [以色列公司Aleph Farms推出首个3D打印肋眼牛排](http://mp.weixin.qq.com/s?src=11&timestamp=1614038405&ver=2907&signature=fw0PRptHrVJuioRRr9FKPNma*IQ-KtyIKO-tqzETvwSsTtWIyiU8Y*Kzfrl3Vku4TrBMSfjbb5SARpGC8qLDxq5R3lNg6qFjG6KF3GXdsDf84kV8xdDkSylar2DVP5P-&new=1)
- > 近日，一家名为Aleph Farms的以色列公司推出世界首个3D打印肋眼牛排，使用真正的牛肉细胞培育出牛肉，然后使用3D打印技术打印出整块牛排。全程都经过了严格的把控，保证了最终成品牛排的肉质、口感和营养都绝佳...
- ## [如何共创5G新价值?华为丁耘发布5GtoB解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1614038405&ver=2907&signature=XmBlVbvbLJ6SAtTy7bnK3VGD6MJ5YD44lAyKUutk*3dH7RdrSU1DZmptP0sGSHrWMWte4ICiWg5rL*1HRC3GMyCnMxslUaqlogrYUG2A*GJEkZvIP*43UL-wfvcIPZKt&new=1)
- > MWC2021上海展于2月23日-25日，在上海召开。作为2021年首个全球规模最大的ICT盛会，5G商业成功毫无疑问成为展会主角。谈及作为第四次工业革命开端的5G，很多人在关心5G网络的真实更速度、真实的时延，但是行业最...
- ## [3nm工艺稳了?揭秘新一代晶体管结构](http://mp.weixin.qq.com/s?src=11&timestamp=1614038405&ver=2907&signature=Wv0wBa5O0s6wvQqUMODIqdMq0e63BIwv1xduU1ep0g0tYwJLMQhMqfhWegzg8nMoVnXJFWY84W-VwF3U2bUGE*P*xADJLi1FsarzaWg5KA6-BIHl5V2DgNIZvveQOFp0&new=1)
- > GAA FET将取代FinFET，但过渡的过程将是困难且昂贵的。”一些晶圆代工厂仍在基于下一代全能栅极晶体管开发新工艺，包括更先进的高迁移率版本，但是将这些技术投入生产将是困难且昂贵的。英特尔、三星、台积电和...
- ## [德州大停电加剧全球芯片供应短缺，凸显美国在芯片行业的领导地位](http://mp.weixin.qq.com/s?src=11&timestamp=1614038405&ver=2907&signature=iM0T4meFZvbtE48-Uw717cYJHuh3uevAjLP43LSYGKf5DTYwM**BA2aZk0I3nTNeOuH-1b--*PplEfXgnCoB2x*ByakFG1PZO7cDOdGyhTD7knyPsS5fdJ43tqGSsxUP&new=1)
- > 媒体报道指出由于德州大停电，当地政府部门要求三星、恩智浦、英飞凌等芯片企业在当地的工厂暂停生产，此举将加剧全球芯片供应短缺问题，这凸显出美国在全球芯片市场的领导地位。近几十年来美国生产的芯片占全球...
 # IT 技术 
+ ## [【廉环话】防疫一周年后的IT治理思考 --能力、知识、问题与请求管理](http://www.cioage.com/art/202102/646692.htm)
+ > 【廉环话】防疫一周年后的IT治理思考 --能力、知识、问题与请求管理
+ ## [牛皮！几张图就把Nginx剖析的明明白白](http://server.51cto.com/os-646751.htm)
+ > 牛皮！几张图就把Nginx剖析的明明白白
  ## [Linux Mint vs Ubuntu：哪个更适合初学者？](http://os.51cto.com/art/202102/646691.htm)
  > Linux Mint vs Ubuntu：哪个更适合初学者？
  ## [您遵循过这些Jenkins优秀实践吗？](http://developer.51cto.com/art/202102/646493.htm)
@@ -27,12 +20,20 @@ categories: IT NEWS
  > 促进企业业务繁荣发展的十大数据分析趋势
  ## [都2021年了，为什么想回看5分钟前写的代码就这么难](http://news.51cto.com/art/202102/646315.htm)
  > 都2021年了，为什么想回看5分钟前写的代码就这么难
- ## [抛弃归一化，深度学习模型准确率却达到了前所未有的水平](http://ai.51cto.com/art/202102/646344.htm)
- > 抛弃归一化，深度学习模型准确率却达到了前所未有的水平
- ## [鸿蒙带你玩转3516！修改系统源码！随心所欲去使用自己心爱的字体包！](http://developer.51cto.com/art/202102/646445.htm)
- > 鸿蒙带你玩转3516！修改系统源码！随心所欲去使用自己心爱的字体包！
- ## [【118】-简单网络的概念](http://fellow.51cto.com/art/202101/642417.htm?qd=51ctojrzd)
- > 【118】-简单网络的概念
+ ## [ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）](http://fellow.51cto.com/art/202012/636704.htm?qd=51ctojrzd)
+ > ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）
+ ## [微软推Windows10“杀手更新”：建议所有用户升级卸载Flash Player](http://os.51cto.com/art/202102/646755.htm)
+ > 微软为Windows 10用户推出了“杀手更新”，你敢升级吗？
+ ## [“分层自治、垂直协同”架构是实现无线自动驾驶网络的基石](http://ai.51cto.com/art/202102/646754.htm)
+ > 移动网络走向自动驾驶，是5G时代应对运维复杂度提升的最佳途径。“分层自治、垂直协同”架构是实现无线自动
+ ## [勒索病毒再进化：新型Awesome勒索不仅加密还留后门！](http://netsecurity.51cto.com/art/202102/646753.htm)
+ > 近日，深信服安全团队捕获到一款使用Go语言编写的勒索病毒。此次捕获的样本有勒索及后门两个功能，并且能指
+ ## [微软将为 Windows10提供全新的多任务处理功能，多屏幕可运行多个虚拟桌面](http://os.51cto.com/art/202102/646748.htm)
+ > 2月23日消息 据外媒 Windows Latest 今日报道，借助 Windows 10 Sun Valley 更新，微软将带来更多的方法帮
+ ## [为什么说Volatile+Interrupt是停止线程优雅的姿势？](http://developer.51cto.com/art/202102/646747.htm)
+ > 调用stop方法，会让正在运行的线程直接中止，有可能会让一些清理性的工作得不到完成。并且stop已经被标记为
+ ## [你应该会喜欢的5个自定义 Hook](http://developer.51cto.com/art/202102/646746.htm)
+ > Hooks 非常适合 React 组件模型和构建应用程序的新方法。Hooks 可以覆盖类的所有用例，同时在整个应用程序
  ## [93.7%的程序员！竟然都不知道Redis为什么默认16个数据库？](http://stor.51cto.com/art/202102/646745.htm)
  > 在实际项目中redis常被应用于做缓存，分布式锁/消息队列等。但是在搭建配置好redis服务器后很多朋友应该会
  ## [新年上班第一天生产环境分布式文件系统崩了！！](http://developer.51cto.com/art/202102/646744.htm)
@@ -41,20 +42,8 @@ categories: IT NEWS
  > 本篇给大家介绍npm发布包以及更新包还有需要注意的几点问题，希望能够帮助到你！
  ## [一篇文章带你了解SVG stroke属性](http://developer.51cto.com/art/202102/646741.htm)
  > 本文基于Html基础，介绍了stoke属性。添加不一样的属性实现不同的效果，对于每一种属性进行详细的讲解通过
- ## [Windows10“精神分裂”要治了！Windows10设置面板要大改](http://os.51cto.com/art/202102/646698.htm)
- > Win10的一大为人诟病之处，在于很多功能和UI都并不整齐划一，例如控制面板和设置，就是一个很好的例子。你
- ## [冷知识：笔记本电脑插电和不插电性能差异有多大？](http://biz.51cto.com/art/202102/646697.htm)
- > 时下，很多人平时的工作、生活都离不开笔记本电脑，而且对于很多商务用户来说，不插电使用笔记本电脑已经成
- ## [我国多项技术赶超美国，AI、5G囊括在内，美国卡脖子越来越难](http://ai.51cto.com/art/202102/646696.htm)
- > 中美同作为世界强国，在诸多方面都有着较量，特别是在科技方面更是如此。中国在科技方面已经取得了比较显著
- ## [中国互联网大发展下，普通人如何在新机遇中赚钱](http://news.51cto.com/art/202102/646695.htm)
- > 第47次的《中国互联网络发展状况统计报告》中的数据显示，截止2020年12月，中国的网民规模已达到9.89亿，按
- ## [这场数字货币泡沫盛宴何时结束？](http://blockchain.51cto.com/art/202102/646694.htm)
- > 最近两个月，不管是比特币和以太坊，还是BNB以及各类DeFi代币都以疯狂的势头上涨，虽然22号下午有一波回调
- ## [大数据透露春节消费新趋势](http://bigdata.51cto.com/art/202102/646693.htm)
- > 今年春节黄金周期间，全国零售和餐饮企业销售额首次突破万亿元，根据电商大数据显示，春节消费市场正在处于
- ## [30000台苹果电脑遭恶意软件入侵，包括最新的M1系列](https://blog.csdn.net/weixin_39787242/article/details/113937092)
- > 30000台苹果电脑遭恶意软件入侵，包括最新的M1系列
+ ## [应用上云2小时烧掉近50万，创始人：差点破产](https://blog.csdn.net/weixin_39787242/article/details/113941122)
+ > 应用上云2小时烧掉近50万，创始人：差点破产
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
  > 【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -65,8 +54,8 @@ categories: IT NEWS
  > 
  ## [Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程](https://blog.csdn.net/csdnnews/article/details/113881947)
  > Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程
- ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
- > 
+ ## [加入 『100个程序员的收藏夹』社区，查看他们私藏的高质量技术文章](https://mark.cloud.csdn.net/p/z0ymvg0o)
+ > 加入 『100个程序员的收藏夹』社区，查看他们私藏的高质量技术文章
  ## [明年，我要用 AI 给全村写对联](https://blog.csdn.net/HyperAI/article/details/113840196)
  > 明年，我要用 AI 给全村写对联
  ## [Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144)
