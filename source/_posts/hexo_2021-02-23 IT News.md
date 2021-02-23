@@ -1,10 +1,25 @@
 ---
 title: 2021-02-23 IT News
 copyright: true
-date: 2021-02-23 09:08:01
+date: 2021-02-23 10:08:44
 tags: IT NEWS
 categories: IT NEWS
 ---
+# IT 新闻 
+ ## [\[报告\]汽车用户体验2020设计趋势研究(附38页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=5KLmJUsp5cra*saPY804G0qB83DSrH*PtBWtiHUgtpCNmht*M6oQJ*3LZhZq83*QN2ccRhKU7UBnJbrYdXlV-id4F1Yq56aRKEA7PZ-veYEYgigufE0Sq8E22sdjWQED&new=1)
+ > 关于汽车的发展方向中，“智能”无疑是最重要的趋势。从运载系统和出行工具的角度看，智能汽车会深刻改变人类的出行模式与驾驶方式。在自动驾驶的时代，人类可以从复杂且繁琐的驾驶任务中解脱出来，人在汽车中的...
+ ## [器件|通宇通讯拟定增9亿元 加码光器件、光模块项目](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=t1NFaefuIKEOjQI5lZMzt25RrOnM20NFKQ6tfwcF-9ItDvaDK5lYmEzWa54USwlN4tjp4jpej8jwtLeBxbfc6XVvjXjAmuqTwZ1wnHHdRXRHT611E0pCdwsvery8FCWy&new=1)
+ > 新 闻 导 读通宇通信拟定增募资不超过9亿元，用于收购深圳光为少数股东股权项目、高速光通信器件、光模块研发及生产项目、武汉研发中心建设项目、无线通信系统研发及产业化项目和补充流动资金。  ICC讯 近日，...
+ ## [德州大停电加剧全球芯片供应短缺，凸显美国在芯片行业的领导地位](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=iM0T4meFZvbtE48-Uw717cYJHuh3uevAjLP43LSYGKfNHPV45uLNIw3dR9WBxXrFqZh0KvqTp-z8x6ELI8I3tfUhRIfo8U-yLytBNcyYopWt1RPInc8VAbM1ClQSgVoe&new=1)
+ > 媒体报道指出由于德州大停电，当地政府部门要求三星、恩智浦、英飞凌等芯片企业在当地的工厂暂停生产，此举将加剧全球芯片供应短缺问题，这凸显出美国在全球芯片市场的领导地位。近几十年来美国生产的芯片占全球...
+ ## [如何共创5G新价值?华为丁耘发布5GtoB解决方案](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=XmBlVbvbLJ6SAtTy7bnK3VGD6MJ5YD44lAyKUutk*3ca8Fc5ZzB8K5YZt6ZAf*TZSzpxCEOxPM9ywHN1te69GDWvbb-r1ovZJBrGCI6szLVwU29oqKvyOiQOxoWbE09l&new=1)
+ > MWC2021上海展于2月23日-25日，在上海召开。作为2021年首个全球规模最大的ICT盛会，5G商业成功毫无疑问成为展会主角。谈及作为第四次工业革命开端的5G，很多人在关心5G网络的真实更速度、真实的时延，但是行业最...
+ ## [给中国智能电动车产业的战略建议](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=tnfSxVvdvnJPbu13-4owympVllCVJaFSuhl17StN4IgCBpF6bSkkzKFakFuCrpTI9e-e7JkN-*ES*PcCoLLL-O314aUkRtv1pgqH5m6g54yKAWZJZT3MvCqiagHurIPf&new=1)
+ > 《中国汽车科技趋势报告（2021年）》　正式发布中国智能电动产业崛起的战略意义，无论怎么强调都不为过。2021年，会是中国智能电动车产业崛起的关键一年。 一 智能电动车产业的兴起，一定程度上与中国的国运息息...
+ ## [3nm工艺稳了?揭秘新一代晶体管结构](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=Wv0wBa5O0s6wvQqUMODIqdMq0e63BIwv1xduU1ep0g00b-W1jhj7xOdepm90YjJEV7qMZqjlIekDycYA7sXTdMp1ZioXSkgLGVVe4WaqT465NKcD8Wnl7KeiK4-Z2PhI&new=1)
+ > GAA FET将取代FinFET，但过渡的过程将是困难且昂贵的。”一些晶圆代工厂仍在基于下一代全能栅极晶体管开发新工艺，包括更先进的高迁移率版本，但是将这些技术投入生产将是困难且昂贵的。英特尔、三星、台积电和...
+ ## [以色列公司Aleph Farms推出首个3D打印肋眼牛排](http://mp.weixin.qq.com/s?src=11&timestamp=1614045604&ver=2907&signature=fw0PRptHrVJuioRRr9FKPNma*IQ-KtyIKO-tqzETvwTIceBzsF0S6VC7S*erra4wcwBTX8SAahnaFjIDI95YbJYnbwwtBbL1riw1lyMxv*BPFhv7UX2jIHxu7KazIqTx&new=1)
+ > 近日，一家名为Aleph Farms的以色列公司推出世界首个3D打印肋眼牛排，使用真正的牛肉细胞培育出牛肉，然后使用3D打印技术打印出整块牛排。全程都经过了严格的把控，保证了最终成品牛排的肉质、口感和营养都绝佳...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT治理思考 --能力、知识、问题与请求管理](http://www.cioage.com/art/202102/646692.htm)
  > 【廉环话】防疫一周年后的IT治理思考 --能力、知识、问题与请求管理
@@ -12,36 +27,36 @@ categories: IT NEWS
  > 牛皮！几张图就把Nginx剖析的明明白白
  ## [Linux Mint vs Ubuntu：哪个更适合初学者？](http://os.51cto.com/art/202102/646691.htm)
  > Linux Mint vs Ubuntu：哪个更适合初学者？
+ ## [2021年，你应该关注的10个SaaS大趋势](http://cloud.51cto.com/art/202102/646461.htm)
+ > 2021年，你应该关注的10个SaaS大趋势
+ ## [从微信小程序到鸿蒙JS开发-menu&toast&dialog](http://developer.51cto.com/art/202102/646644.htm)
+ > 从微信小程序到鸿蒙JS开发-menu&amp;toast&amp;dialog
+ ## [漫画 | C语言哭了，过年回家，只有我还没对象](http://zhuanlan.51cto.com/art/202102/646448.htm)
+ > 漫画 | C语言哭了，过年回家，只有我还没对象
  ## [您遵循过这些Jenkins优秀实践吗？](http://developer.51cto.com/art/202102/646493.htm)
  > 您遵循过这些Jenkins优秀实践吗？
- ## [996加班骗局被揭穿，背后真相值得深思！](http://news.51cto.com/art/202102/646494.htm)
- > 996加班骗局被揭穿，背后真相值得深思！
- ## [促进企业业务繁荣发展的十大数据分析趋势](http://bigdata.51cto.com/art/202102/646491.htm)
- > 促进企业业务繁荣发展的十大数据分析趋势
- ## [都2021年了，为什么想回看5分钟前写的代码就这么难](http://news.51cto.com/art/202102/646315.htm)
- > 都2021年了，为什么想回看5分钟前写的代码就这么难
- ## [ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）](http://fellow.51cto.com/art/202012/636704.htm?qd=51ctojrzd)
- > ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）
- ## [微软推Windows10“杀手更新”：建议所有用户升级卸载Flash Player](http://os.51cto.com/art/202102/646755.htm)
- > 微软为Windows 10用户推出了“杀手更新”，你敢升级吗？
- ## [“分层自治、垂直协同”架构是实现无线自动驾驶网络的基石](http://ai.51cto.com/art/202102/646754.htm)
- > 移动网络走向自动驾驶，是5G时代应对运维复杂度提升的最佳途径。“分层自治、垂直协同”架构是实现无线自动
- ## [勒索病毒再进化：新型Awesome勒索不仅加密还留后门！](http://netsecurity.51cto.com/art/202102/646753.htm)
- > 近日，深信服安全团队捕获到一款使用Go语言编写的勒索病毒。此次捕获的样本有勒索及后门两个功能，并且能指
- ## [微软将为 Windows10提供全新的多任务处理功能，多屏幕可运行多个虚拟桌面](http://os.51cto.com/art/202102/646748.htm)
- > 2月23日消息 据外媒 Windows Latest 今日报道，借助 Windows 10 Sun Valley 更新，微软将带来更多的方法帮
- ## [为什么说Volatile+Interrupt是停止线程优雅的姿势？](http://developer.51cto.com/art/202102/646747.htm)
- > 调用stop方法，会让正在运行的线程直接中止，有可能会让一些清理性的工作得不到完成。并且stop已经被标记为
- ## [你应该会喜欢的5个自定义 Hook](http://developer.51cto.com/art/202102/646746.htm)
- > Hooks 非常适合 React 组件模型和构建应用程序的新方法。Hooks 可以覆盖类的所有用例，同时在整个应用程序
- ## [93.7%的程序员！竟然都不知道Redis为什么默认16个数据库？](http://stor.51cto.com/art/202102/646745.htm)
- > 在实际项目中redis常被应用于做缓存，分布式锁/消息队列等。但是在搭建配置好redis服务器后很多朋友应该会
- ## [新年上班第一天生产环境分布式文件系统崩了！！](http://developer.51cto.com/art/202102/646744.htm)
- > 今天，就和小伙伴们分享下，这次生产环境分布式文件系统出现的问题，以及我是如何10分钟排查问题和解决问题
- ## [npm发布包以及更新包还有需要注意的几点问题（这里以发布vue插件为例）](http://developer.51cto.com/art/202102/646742.htm)
- > 本篇给大家介绍npm发布包以及更新包还有需要注意的几点问题，希望能够帮助到你！
- ## [一篇文章带你了解SVG stroke属性](http://developer.51cto.com/art/202102/646741.htm)
- > 本文基于Html基础，介绍了stoke属性。添加不一样的属性实现不同的效果，对于每一种属性进行详细的讲解通过
+ ## [生产环境Linux+ASM+Oracle11g安装配置与管理入门_Oracle数据库视频教程03](http://fellow.51cto.com/art/202012/636946.htm?qd=51ctojrzd)
+ > 生产环境Linux+ASM+Oracle11g安装配置与管理入门_Oracle数据库视频教程03
+ ## [从微信小程序到鸿蒙JS开发-表单组件&注册登录模块](http://developer.51cto.com/art/202102/646655.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [到2025年，全球数据中心市场将投资4321.4亿美元](http://network.51cto.com/art/202102/646772.htm)
+ > 据安全研究机构Frost &amp; Sullivan的分析发现，全球持续的高水平技术部署将导致数据创建的激增，推动对数据处
+ ## [物联网和数据使用如何帮助进入新常态](http://iot.51cto.com/art/202102/646771.htm)
+ > 随着企业向前发展，并希望在2021年进入“新常态”，物联网技术和数据的使用带来了一线曙光，有望帮助开启更
+ ## [中国云计算市场规模将达1000亿美元！](http://cloud.51cto.com/art/202102/646770.htm)
+ > 云计算作为当前企业IT基础架构技术的不二之选，已走过探索实践阶段，迎来了多样化全面化的发展时期。
+ ## [Gartner：2021年全球低码开发技术市场将大幅增长23％](http://network.51cto.com/art/202102/646767.htm)
+ > 根据Gartner的最新预测，到2021年全球低代码开发技术市场总额将达到138亿美元，比2020年增长22.6%。疫情期
+ ## [三大运营商一月份运营数据公布：中国电信5G用户即将“破亿”](http://network.51cto.com/art/202102/646765.htm)
+ > 转眼间，春节假期已经过完。不少人都回到了工作岗位上，三大运营商也迎来了2021年复工后的首月运营数据报告
+ ## [未来不再需要驾驶员和考驾照？自动驾驶汽车离我们到底还有多远？](http://ai.51cto.com/art/202102/646766.htm)
+ > 目前自动驾驶汽车真的能像电影中描绘的那么美好吗？现在的自动驾驶技术又到了哪一步呢？就让我们一一道来。
+ ## [关于MVCC，我之前写错了，这次我改好了！](http://developer.51cto.com/art/202102/646761.htm)
+ > 要说幻读，首先要了解MVCC，MVCC叫做多版本并发控制，实际上就是保存了数据在某个时间节点的快照。
+ ## [手把手教你利用Python轻松拆分Excel为多个CSV文件](http://developer.51cto.com/art/202102/646760.htm)
+ > 本文介绍了如何利用Python对Excel文件进行拆分处理，实现可以根据任意列的内容进行拆分。轻轻松松几行Pytho
+ ## [自动驾驶出租车要来了！](http://ai.51cto.com/art/202102/646762.htm)
+ > 自动驾驶出租车体验如何？车上有没有司机？会不会迷失方向？2月19日，本报记者来到武汉经开区人工智能科技
  ## [应用上云2小时烧掉近50万，创始人：差点破产](https://blog.csdn.net/weixin_39787242/article/details/113941122)
  > 应用上云2小时烧掉近50万，创始人：差点破产
  ## [【牛年第一课】2021年全新AI训练营开课了：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/d3029067fcfaf723ce443f8678aa1bac?utm_source=eduxy_gexing_xtk)
@@ -54,8 +69,8 @@ categories: IT NEWS
  > 
  ## [Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程](https://blog.csdn.net/csdnnews/article/details/113881947)
  > Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程
- ## [加入 『100个程序员的收藏夹』社区，查看他们私藏的高质量技术文章](https://mark.cloud.csdn.net/p/z0ymvg0o)
- > 加入 『100个程序员的收藏夹』社区，查看他们私藏的高质量技术文章
+ ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
+ > 
  ## [明年，我要用 AI 给全村写对联](https://blog.csdn.net/HyperAI/article/details/113840196)
  > 明年，我要用 AI 给全村写对联
  ## [Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144)
@@ -89,21 +104,23 @@ categories: IT NEWS
  > 产品设计及运营的难言之隐。
  ## [Android 注解处理器使用攻略](https://blog.csdn.net/qq_17766199/article/details/113816175)
  > Android 注解处理器使用攻略
+ ## [OpenCV-Python图像处理：仿射变换详解及案例](https://blog.csdn.net/LaoYuanPython/article/details/113832562)
+ > 
  ## [开源数据库管理系统现在比商业产品更受欢迎](https://blog.csdn.net/weixin_46199817/article/details/113857437)
  > 开源数据库管理系统现在比商业产品更受欢迎
- ## [【C++】算法集锦（5）：BFS算法](https://blog.csdn.net/qq_43762191/article/details/113915792)
- > 【C++】算法集锦（5）：BFS算法
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [2021年的学习Flag：只争朝夕，不负韶华](https://blog.csdn.net/Eastmount/article/details/113855031)
  > 2021年的学习Flag：只争朝夕，不负韶华
  ## [与2017年度两位图灵奖得主的虚拟对话](https://blog.csdn.net/SeaCloudHill/article/details/113814887)
  > 与2017年度两位图灵奖得主的虚拟对话
- ## [【人生苦短，我学 Python】进阶篇——文件处理（Day15）](https://blog.csdn.net/wjinjie/article/details/113874056)
- > 
- ## [自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名](https://blog.csdn.net/hepu8/article/details/113883459)
- > 自己做量化交易软件(41)自编仿通达信公式及自编因子公式的计算速度比较及因子公式结果排名
+ ## [25 万行逆向源码遭下架！](https://blog.csdn.net/csdnnews/article/details/113904013)
+ > 25 万行逆向源码遭下架！
+ ## [华为 跨域虚拟专用网络-OptionC2方案](https://blog.csdn.net/HYD696/article/details/112974690)
+ > 华为 跨域虚拟专用网络-OptionC2方案
 # PM 
+ ## [“谈婚论嫁”这一人生大项目如何做需求分析？](http://www.chanpin100.com/article/113578)
+ > 过年回家，你被逼着相亲，或者被催着结婚了吗？说实话，对于那些被逼着相亲，或者被催着结婚的同学，我还真有点小羡慕，因为我从来没有过这方面的体验。这并不是我在“凡尔赛”，而是我家里压根没人操心这事啊...
  ## [为什么大公司看不上有小公司工作经验的产品经理？](http://www.chanpin100.com/article/113586)
  > 这是一道知乎上讨论比较激烈的问题，我的答案是企业是理性的，企业招聘讲究：人岗匹配，所以不存在看的上看不上。
  ## [产品经理面试题之为什么做产品经理？](http://www.chanpin100.com/article/113585)
@@ -116,9 +133,5 @@ categories: IT NEWS
  > 作为互联网老兵，经历了PC时代整个的搜索战争，直至移动时代360搜索、搜狗搜索的接连败北，中间数年时间搜索领域几乎无战事。
  ## [让设计师同事认可的提需求方法-数据指导产品设计](http://www.chanpin100.com/article/113574)
  > 最近项目中遇到小程序迭代的需求，因为行业比较特殊，所以用户群体也比较特殊。公益养老行业，使用小程序的用户都是志愿者，最初只是从客户和项目干系人处了解到大部分用户年龄相对比较大，老年人居多。
- ## [【产品经理免费公开课】2021热门行业全景式剖析](http://www.chanpin100.com/article/113577)
- > 想必各位小伙伴都已经正式开工了吧！2021年新的一年，新的开始。那么，2021年热门行业有哪些呢？本期公开课就让高玮老师来为大家进行深度剖析。
- ## [互联网人口红利殆尽丨电商行业数字化转型突破流量壁垒](http://www.chanpin100.com/article/113570)
- > 目前我国互联网的渗透率已接近饱和状态，随着互联网人口红利殆尽，电商销售增速也呈放缓趋势，进入了存量争夺的竞争阶段。
 
     
