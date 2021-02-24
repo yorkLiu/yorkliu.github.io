@@ -1,22 +1,26 @@
 ---
 title: 2021-02-24 IT News
 copyright: true
-date: 2021-02-24 08:03:15
+date: 2021-02-24 09:06:19
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [MWC21上海直击：逆势飞扬的展锐](http://mp.weixin.qq.com/s?src=11&timestamp=1614124805&ver=2909&signature=qaJJbxDhKkW5oMsuVUmPZmtmbgCd7RcGT-n5cH7MdqgNedfpeIMNqv*BTB6jjjkdJ87ia-YjvdsXJ*vkVrJkaeFlWyeNCDMY3TeSR6JHX34J-St7O14wrqnlnGgwPNJ5&new=1)
- > 2020年肆虐全球的新冠疫情，让无数企业都遭受了重挫。然而却有一家中国科技企业，面对形势严峻的疫情却迎难而上，反危为机，最终实现了令人瞩目的逆势飞扬。这家与众不同的中国企业，就是在上海MWC 2021世界移动...
- ## [5G毫米波展区闪耀MWC上海，一展生态新图景](http://mp.weixin.qq.com/s?src=11&timestamp=1614124805&ver=2909&signature=tCiMzGipARx0QBWGHNcLjOZFXIa6eAsqTkIndwq4xqxgsYspVu*bvWNQJGu15993YsfqL*zpYfgqFJ45MUVsB8i4nMvp99d1hT9YEzFzQEqsaUTE*fBrYlfJak8NMKTv&new=1)
- > Qualcomm要闻—由中国联通和GSMA主办、高通技术公司支持的5G毫米波展区精彩亮相，向与会观众充分展示了5G毫米波赋能各行各业的极致性能与丰富应用今日，全球移动通信产业年度盛会2021世界移动通信大会（MWC）在...
- ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家](http://mp.weixin.qq.com/s?src=11&timestamp=1614124805&ver=2909&signature=Hc3dFeZH0TYXTuvQy7dIrtvoh458Md1ETVKJO-mjLwrByb-6OgotL7rwgbT2PcDh2qtSAqFFyS1gItMwzHYX0v2m2d*dFVUjyJDlM8lsacj9eJez75bTNFfeIrzLFrSP&new=1)
- > 编辑|智东西内参近日，知名投资管理公司方舟投资（ARK Investment Management LLC）发布了最新的《Big Ideas》报告，这家由“女版巴菲特”之称的凯瑟琳·伍德创建的投资公司从2017年起，在每年年初发布一期《Bi
- ## [华为提出多领域数字化共振：一切为了加速电信业数智化转型](http://mp.weixin.qq.com/s?src=11&timestamp=1614124805&ver=2909&signature=WKoc7Qylz4L18xBNF7GoWts4SxAlZzkvsRcFjoiNe0wVUi27YJZa7cbx8nHiKMaE1AEEMbhVPvnbfVI-CVNZEwVnunGK2j1*EX6lG2m7mrLLees2cOSiNkazevDASJP2&new=1)
- > 在近日上海举行的2021MWC大会上，人们不仅能看到最新的技术、产品、软硬件设备，还有诸多创新的理论和理念。在展会期间举行的华为DAY0数字化运营运维转型论坛上，华为全球技术服务部总裁汤启兵在主题发言中提出...
- ## [35年行业观察!盘点仓储物流技术6大发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1614124805&ver=2909&signature=vVfXUCEMyoGr6VMJXWB1ibYocAFYUqf5TifslH6g492UTsRzmgLfBJnWBphMnklNsMh4BWqTqygD3oC*CHP22muM1DRZQrMQbAxn4uflYp60xmcy9s3JFCXPKyb*xLA8&new=1)
+ ## [35年行业观察!盘点仓储物流技术6大发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1614128404&ver=2909&signature=vVfXUCEMyoGr6VMJXWB1ibYocAFYUqf5TifslH6g492UTsRzmgLfBJnWBphMnklNC2RpjRfNsc7J*Fl05WVhDqm8ist7ScxIuL4LxRINe-I9tRKkca1g-ijQ3YW32UO5&new=1)
  > 仓储物流技术是企业建立先进合理的仓储物流系统的关键，而市场需求和科技进步共同推动了全球仓储物流技术的快速发展。 作者：房殿军 同济大学教授博士生导师房殿军博士，教授，专注物流与供应链研究35年，与德国...
+ ## [华为提出多领域数字化共振：一切为了加速电信业数智化转型](http://mp.weixin.qq.com/s?src=11&timestamp=1614128404&ver=2909&signature=WKoc7Qylz4L18xBNF7GoWts4SxAlZzkvsRcFjoiNe0wVUi27YJZa7cbx8nHiKMaEQyAbS5DXsCSYPrILuT94sVPkH0kV9H9UphkAXTmM0a-2wBmy3piglDGNyOVFkb44&new=1)
+ > 在近日上海举行的2021MWC大会上，人们不仅能看到最新的技术、产品、软硬件设备，还有诸多创新的理论和理念。在展会期间举行的华为DAY0数字化运营运维转型论坛上，华为全球技术服务部总裁汤启兵在主题发言中提出...
+ ## [5G毫米波展区闪耀MWC上海，一展生态新图景](http://mp.weixin.qq.com/s?src=11&timestamp=1614128404&ver=2909&signature=tCiMzGipARx0QBWGHNcLjOZFXIa6eAsqTkIndwq4xqxgsYspVu*bvWNQJGu15993iAtpaqUWQR3MbsQeWXhxU4CFXxzUb4hsMgGiXOzYV95ia67AWUa4CHu9kJ6de0m3&new=1)
+ > Qualcomm要闻—由中国联通和GSMA主办、高通技术公司支持的5G毫米波展区精彩亮相，向与会观众充分展示了5G毫米波赋能各行各业的极致性能与丰富应用今日，全球移动通信产业年度盛会2021世界移动通信大会（MWC）在...
+ ## [MWC21上海直击：逆势飞扬的展锐](http://mp.weixin.qq.com/s?src=11&timestamp=1614128404&ver=2909&signature=qaJJbxDhKkW5oMsuVUmPZmtmbgCd7RcGT-n5cH7MdqgNedfpeIMNqv*BTB6jjjkdkpVNK7gp4we-pcAF2ats0JM5tAxVncCHgHU2tC*f9klES8taGuRyhXWwlVS*cqJ-&new=1)
+ > 2020年肆虐全球的新冠疫情，让无数企业都遭受了重挫。然而却有一家中国科技企业，面对形势严峻的疫情却迎难而上，反危为机，最终实现了令人瞩目的逆势飞扬。这家与众不同的中国企业，就是在上海MWC 2021世界移动...
+ ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家](http://mp.weixin.qq.com/s?src=11&timestamp=1614128404&ver=2909&signature=Hc3dFeZH0TYXTuvQy7dIrtvoh458Md1ETVKJO-mjLwrByb-6OgotL7rwgbT2PcDh33Il9LwgGU69vsvS5CCo-wR2YFJTsV2YBIc50ACH9IbyAhCHL1PfrNcRX641LEqO&new=1)
+ > 编辑|智东西内参近日，知名投资管理公司方舟投资（ARK Investment Management LLC）发布了最新的《Big Ideas》报告，这家由“女版巴菲特”之称的凯瑟琳·伍德创建的投资公司从2017年起，在每年年初发布一期《Bi
 # IT 技术 
+ ## [7种代码工具，帮助您提高团队工作效率](http://developer.51cto.com/art/202102/646870.htm)
+ > 7种代码工具，帮助您提高团队工作效率
+ ## [在线等，Kafka如果丢了消息怎么办？](http://developer.51cto.com/art/202102/646916.htm)
+ > 在线等，Kafka如果丢了消息怎么办？
  ## [人工智能和机器学习在金融科技领域的应用和发展](http://ai.51cto.com/art/202102/646869.htm)
  > 人工智能和机器学习在金融科技领域的应用和发展
  ## [【廉环话】防疫一周年后的IT治理思考 --能力、知识、问题与请求管理](http://www.cioage.com/art/202102/646692.htm)
@@ -27,14 +31,22 @@ categories: IT NEWS
  > 牛皮！几张图就把Nginx剖析的明明白白
  ## [Linux Mint vs Ubuntu：哪个更适合初学者？](http://os.51cto.com/art/202102/646691.htm)
  > Linux Mint vs Ubuntu：哪个更适合初学者？
- ## [近千片段、25种类别，阿里等开源遮挡场景的视频实例分割数据集](http://news.51cto.com/art/202102/646783.htm)
- > 近千片段、25种类别，阿里等开源遮挡场景的视频实例分割数据集
- ## [2021年，你应该关注的10个SaaS大趋势](http://cloud.51cto.com/art/202102/646461.htm)
- > 2021年，你应该关注的10个SaaS大趋势
- ## [1.1.ARM那些你得知道的事儿-ARM裸机开篇部分](http://fellow.51cto.com/art/202101/639567.htm?qd=51ctojrzd)
- > 1.1.ARM那些你得知道的事儿-ARM裸机开篇部分
- ## [应用上云2小时烧掉近50万，创始人：差点破产](https://blog.csdn.net/weixin_39787242/article/details/113941122)
- > 应用上云2小时烧掉近50万，创始人：差点破产
+ ## [Oracle性能优化之执行计划管理_Oracle性能优化与故障诊断教程01](http://fellow.51cto.com/art/202012/636003.htm?qd=51ctojrzd)
+ > Oracle性能优化之执行计划管理_Oracle性能优化与故障诊断教程01
+ ## [在线等，Kafka如果丢了消息怎么办？](http://developer.51cto.com/art/202102/646916.htm)
+ > Kafka 存在丢消息的问题，消息丢失会发生在 Broker，Producer 和 Consumer 三种。
+ ## [二分搜索树，你还要我怎样？](http://developer.51cto.com/art/202102/646912.htm)
+ > 树是一种很特别的数据结构，树这种数据结构叫做 “树” 就是因为它 长得像一棵树 。但是这棵树画成的图长得
+ ## [MySQL随机恢复的优化改进](http://database.51cto.com/art/202102/646910.htm)
+ > 关于随机恢复，最近做了一些改进和整理，发现有些细节的工作比想象中要复杂得多，原本我提出了成功率达到1
+ ## [Rust与Python：为什么Rust可以取代Python](http://developer.51cto.com/art/202102/646909.htm)
+ > Rust是一种多范式语言，使开发人员能够构建可靠且高效的软件。Rust注重安全和性能，类似于C和C++，速度快，
+ ## [使用 React/Hooks 时需要注意过时的闭包!](http://developer.51cto.com/art/202102/646911.htm)
+ > Hooks 简化了 React 组件内部状态和副作用的管理。此外，可以将重复的逻辑提取到自定义 Hooks 中，以在整个
+ ## [看完这篇文章，别再说不会 Redis 的高级特性了](http://stor.51cto.com/art/202102/646908.htm)
+ > Redis 作为后端工程师必备的技能，阿粉每次面试的时候都会被问到，阿粉特意把公号前面发过的 Redis 系列文
+ ## [27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构](https://blog.csdn.net/weixin_39787242/article/details/113994078)
+ > 27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构
  ## [Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程](https://blog.csdn.net/csdnnews/article/details/113881947)
  > Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -51,18 +63,18 @@ categories: IT NEWS
  > 极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车
  ## [Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144)
  > Markdown语法图文全面详解(10分钟学会)
- ## [Flink本地Web UI报错：Could not start rest endpoint on any port in port range 8081](https://blog.csdn.net/Lcumin/article/details/113181238)
- > Flink本地Web UI报错：Could not start rest endpoint on any port in port range 8081
- ## [基于Unity的2d动画游戏-------------------c开发](https://blog.csdn.net/weixin_43795683/article/details/109142594)
- > 基于Unity的2d动画游戏-------------------c开发
- ## [js渲染10万数据列表，不阻塞UI](https://blog.csdn.net/weixin_43889562/article/details/113128957)
- > js渲染10万数据列表，不阻塞UI
+ ## [GitHub开源推荐 | 一个轻量级Qt UI库](https://blog.csdn.net/u011012932/article/details/110730026)
+ > GitHub开源推荐 | 一个轻量级Qt UI库
+ ## [异步编程Ajax的详解，并对其进行封装整理](https://blog.csdn.net/l_ppp/article/details/108921610)
+ > 异步编程Ajax的详解，并对其进行封装整理
+ ## [中国知网爬虫](https://blog.csdn.net/weixin_42830697/article/details/103181039)
+ > 中国知网爬虫
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [推荐一款好用的单片机点阵字库生成工具](https://blog.csdn.net/weixin_43640306/article/details/113309735)
- > 推荐一款好用的单片机点阵字库生成工具
- ## [javascript 的七种继承方式（一）原型链](https://blog.csdn.net/lixiaosenlin/article/details/108081241)
- > 
+ ## [RNN](https://blog.csdn.net/zhaojc1995/article/details/80572098)
+ > RNN
+ ## [C(Csharp)基础教程(上)(菜鸟教程笔记)](https://blog.csdn.net/mahoon411/article/details/109442403)
+ > C(Csharp)基础教程(上)(菜鸟教程笔记)
 # 人工智能 
  ## [如何让酝酿8年的想法在1小时内实现？](https://blog.csdn.net/SeaCloudHill/article/details/113421966)
  > 如何让酝酿8年的想法在1小时内实现？
