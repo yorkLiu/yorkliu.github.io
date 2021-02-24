@@ -1,32 +1,48 @@
 ---
 title: 2021-02-24 IT News
 copyright: true
-date: 2021-02-24 12:03:57
+date: 2021-02-24 17:05:42
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [双双大跌，特斯拉股价与比特币挂钩；腾讯推「吃鸡」云游戏，仅 15.7M；微博拟赴港上市，筹资 7 亿美元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=1pttVaVnYLnxZpefwBbahDl9hect5sGx0jG92OETE2vvSzFQNKCAOMxdkFurRpIp6PwoXUGEAN3nLjMffCqYKGBgQGyKzNsXr98ks5Uh-biRf2FyUEjaNmCZQa9BNJ9e&new=1)
- > 消息称微博聘请投行安排香港二次上市，或筹集 7 亿美元据两位知情人士透露，新浪微博已经聘请高盛、瑞士信贷以及里昂证券准备帮助其在香港二次上市。知情人士表示，新浪微博计划于 2021 年下半年二次上市，可能...
- ## [入驻厂商超200家，“全球3D打印产品库”被网易/中新网/新浪等多家媒体报道](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=t5z3abadLf6zU6GdhKeZ08P5OXFdyT3qCDRQJOnJTXSQLVqtyQqauZEgFsicL68fL*-uVkKHQY2OhPuYllrsfUxuSj7yIQvpEPbkqltCmgbxxD0I*0YM56tyM0oa7WHh&new=1)
- > 2021年2月22日，南极熊在北京正式发布全新升级版“全球3D打印产品库”，并且晚上8点在微信视频号进行了产品直播发布，引起了非常大的关注。△目前，南极熊全球3D打印产品库已经突破200+家3D打印相关企业入驻，上...
- ## [辽宁省公布《关于做好公立医疗机构“互联网+医疗服务”项目管理工作的通知》](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=*REm5-QDVYN6K0UIldVq*P-vV*9IyfhaX6bfGRhND6Hsc2k8ZoztTTFoCBKT1dEEYyV3C5*vVW5SB6KoEjIEkYZDc85t2Hxt*dWqxgs5FfkxcqbejBUELd-5YJhPhUhQ&new=1)
- > 近日，辽宁省卫健委公布了《关于做好公立医疗机构“互联网+医疗服务”项目管理工作的通知》，明确了该省允许的10项“互联网+医疗服务”项目，以规范医疗机构“互联网+医疗服务”价格行为，维护患者与医疗机构的...
- ## [智慧城市的6大关键技术](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=dtreHzwA18wjLLjEC6ym-zxYwnMc6vKB4hR4FFr5rZm3GGID6ZFBv3CGCpb3Oj0vQjCfQZOMcGNfzjXpJhovo0o1p8caj3pDTf21xlkZwquGSqN*49G725peFsa-dH2V&new=1)
- > E安全2月24日讯   据Tech Republic研究，到2020年，智能城市产业预计将成为一个价值4000亿美元的市场，全球将有600个城市向智慧城市转型。麦肯锡在Tech Republic上发表的研究报告称，到2025年，这些城市预计
- ## [周鸿祎：微信靠摇妹子起家；红米 K40 未发布就炸?真相来了；Firefox 86 新增 Cookie 隔离功能|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=yXBTlxRmcRwDaf8xOnBpphAfcGh4f*fip7kDm674wdl4XeFIu4YI0CDk918v7YRdhGXs-7kC90iHs2JnlY*7SsceI3gRLdJUgIh6qVVXvQo3rxne3aDPBBx32iZTHsbO&new=1)
+ ## [\[CFM深度专访\]慧荣科技总经理Wallace Kou谈“芯”危机下的“思”与“变”](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=vkQ9eLey2b4eLxcqgmH2eOK0KR9pXn4rZec6x4UtKgnzadrNBNhZzwnUyRvA1qsqinznBbHan9c4-GMMcCAIbrCZr8sONfaDBv25qHjhNd83AAujQ8wZ3bAjy*gpHlQI&new=1)
+ > 牛年伊始，万象更新，而全球芯片短缺潮却因近期接连发生的日本福岛地震、德州停电导致瑞萨、三星、恩智浦、英飞凌等多家半导体厂商产能受损而达到“高潮”。对存储产业链来讲，芯片短缺造成的影响是复杂而深远的...
+ ## [预告|2020-2021年中国云计算产业全景洞察研究报告](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=9zjdFzR3SCv7Dnjw45bkhliK*hmMLRpH0rkJjA973xvKt0jDu7ABIxaU4LhMCJEx42IPsARgVkjT840Qkd653nBJtgJdGWk4VivgPyHgabGtOe8A2EnNKeHk-4xVwUuU&new=1)
+ > 云计算在中国12年发展迎来重大的商业抓手——数字化。云计算支撑数字化，数字化促进云计算深化，实现传统信息化到数字化的时代跳跃，云计算成为最坚实的桥梁。中国云计算市场发展开始深刻改变社会各个领域的形态...
+ ## [被黑客“脱裤”，ClubHouse面临一场隐私劫难](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=CE4RqhvfRTih7qhaGqQ2whLE7o6Y-xo0shEmulGT1*6t6Wz5yGAEdGZlQ8B23HzhJBXI5YOfVyzdPqovGsSF-yj9GGzXxMJ73HOhkROJN*IQSVfU7phpI1sAfyKkm3Bd&new=1)
+ > 近日在硅谷和中国互联网圈风靡的语音聊天室应用ClubHouse无疑是已经沉寂了五年的互联网创新冰河期的一把烈火，事实上，无论是中国的BAT（搜索、电商、社交/游戏）、还是硅谷的FAANG（社交、智能手机、电商、视频...
+ ## [公交智能转型之路：自动驾驶、手脉识别、语音交互，深兰以人工智能打造“功夫熊猫”](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=7WaAvfrME12LofEyASwcfPzpNW9kz6V3pQLqNie25oq0oF4WZqBDqdaD1QuotC0Su3w3H7KaVfDUE5CJDtdwlqIEJ2nZYYaBXfa5X7rffs2uWyYansFh6M5j7BvN7WsW&new=1)
+ > 深兰科技自2017年开始尝试整车设计，一路至今，推出多项应用成果，同时取得多个城市的自动驾驶牌测试照。经过三年中无数次的钻研和打磨，最终形成的熊猫智能公交整合自动驾驶技术、手脉识别系统、语音交互、精准...
+ ## [最新!货拉拉致歉，启动整改!](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=VgwKEq6RfuNE7iekj1gxfRKMV*sybI0a47GnXYbdrnMe0A4dyoFCLioWSgTu3kXVl9bRvwF80aq3J8PHl2f00JpMsRGVWWRpMAZtLbiq1v7D-5MTe7xHKjycjsKr2Ywf&new=1)
+ > 24日，互联网物流企业货拉拉发布公告，就“女子车某某租乘货拉拉网约车跳车身亡事件”，向离世女乘客车某某家属表达歉意，承认平台存在产品安全功能不完善等问题，并表示立即推进整改工作。货拉拉表示，在相关部...
+ ## [华为董事陈黎芳：相信技术的力量，科技不该被政治化和妖魔化](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=z1Ha1IQKAKdyiORnPnJ0AwQ*paxjCQQb1kgnwmSg3ODO2VII5ZBHYDA046KN0iOTFv9tKNmoQLcVrZsQe527O3tC4rJekVj3XdSAg-o3AFV1wAqhYJJ-9MLzPdbkPS-s&new=1)
+ > 在2021年2月22日的“互联共荣（Connected for Shared Prosperity）”论坛上，华为公司高级副总裁、董事陈黎芳作了主题为《相信技术的力量》的主旨发言。她认为：从历史上看，人类社会的每一次巨大变革和进步，都...
+ ## [特斯拉“灵异事件”背后，智能驾驶随时变身智障驾驶](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=VwBka8GqzQn5Sty*na4Sdu4r2Ytdgp1rRbK1gQMYH3aDWGWyadxuHPeBEN6g7ONEI6eCLnumnKdK6pb8-D0m4i3geAz3eAetnJ6KRlJmL15hwLTEsDbFY7ruhrRA18Sn&new=1)
+ > 一家科技公司，因为“灵异事件”上热搜，这事就挺魔幻的。 一辆特斯拉Model 3，大白天的停在一个空旷无人的墓地里，车主一低头发现中控屏AP显示区域内，车头前方出现几个人影在做无规则运动，这意味着车辆识别到...
+ ## [安全无小事|一站式云原生监控平台帮助企业动态定位云端高风险资产](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=i9YELQ2aa9XaHCkkF3GyJqSk7NM4ql02bBLAAJvfraxtmx3kdaoOSyjb6jbYF*Fn7djG-KWn0a1ubm9TnDwMZcFwSr7lfz5t4szNVb6Vkgeuo-HDxsLx4BgcYgRY1XKf&new=1)
+ > （本文阅读时间：3分钟）对于很多转型路上的客户，已经习惯于利用云端的弹性及便捷的方式开启一些新型的业务。然而，从安全监控的角度，却找不到合适的方式来看到云端所发生的事情。如果使用传统的本地监控方式...
+ ## [周鸿祎：微信靠摇妹子起家；红米 K40 未发布就炸?真相来了；Firefox 86 新增 Cookie 隔离功能|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=yXBTlxRmcRwDaf8xOnBpphAfcGh4f*fip7kDm674wdkGsu-YUuHqbh80PFwzkWMcbdiS64OhglRQeJQzVMlfC*zhA96IHlkdAYcBWy9bkZg1TJmn18ucceCRGMJLll0j&new=1)
  > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [器件|铭普光磁取得一项涉及光通信技术领域的发明专利证书](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=JSMltpdxGkTut0nFc21iR28S2HshyS2sQovwLEg259ywMehBdgK9QBt-5M6z44sRive4tTgMCjtHc4XFerJZhMhmlYjYaHIQWxso*MPhuXyQjlesbhA1K5QYgRBdNIjk&new=1)
+ ## [智慧城市的6大关键技术](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=dtreHzwA18wjLLjEC6ym-zxYwnMc6vKB4hR4FFr5rZnYAjNDRC8ocIEP9vQXsdtwn9g5mVP1OqPFa8jcWq4DIyXZlcxabWWk5*ar3nlq5kzVwlRQ5yRuwpBYNtjoNY7z&new=1)
+ > E安全2月24日讯   据Tech Republic研究，到2020年，智能城市产业预计将成为一个价值4000亿美元的市场，全球将有600个城市向智慧城市转型。麦肯锡在Tech Republic上发表的研究报告称，到2025年，这些城市预计
+ ## [双双大跌，特斯拉股价与比特币挂钩；腾讯推「吃鸡」云游戏，仅 15.7M；微博拟赴港上市，筹资 7 亿美元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=1pttVaVnYLnxZpefwBbahDl9hect5sGx0jG92OETE2tfI8J2d03tqeYtEPKyuBPdLXFw7R8BP2Szr2YFBlKVhAYctMaEi*M39oYemeVWLyESnvc0*P4NvdQ3IBh6cZ5D&new=1)
+ > 消息称微博聘请投行安排香港二次上市，或筹集 7 亿美元据两位知情人士透露，新浪微博已经聘请高盛、瑞士信贷以及里昂证券准备帮助其在香港二次上市。知情人士表示，新浪微博计划于 2021 年下半年二次上市，可能...
+ ## [入驻厂商超200家，“全球3D打印产品库”被网易/中新网/新浪等多家媒体报道](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=t5z3abadLf6zU6GdhKeZ08P5OXFdyT3qCDRQJOnJTXSfq*U0wjNzTQ46aVjaWf1R74exRCOiL8srg-omkQWfaaMQEWO6cgllJhysqXdq208dliG19hzTfdaZ2*FTVJ8H&new=1)
+ > 2021年2月22日，南极熊在北京正式发布全新升级版“全球3D打印产品库”，并且晚上8点在微信视频号进行了产品直播发布，引起了非常大的关注。△目前，南极熊全球3D打印产品库已经突破200+家3D打印相关企业入驻，上...
+ ## [辽宁省公布《关于做好公立医疗机构“互联网+医疗服务”项目管理工作的通知》](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=*REm5-QDVYN6K0UIldVq*P-vV*9IyfhaX6bfGRhND6E20NBy*F7HRVyNpx-j2h-y3OODU05I49v6vUSSqHkvpQMmT3k91D6oFZb47iKPmkibB*oPEPgCnhc1WEDx3OMG&new=1)
+ > 近日，辽宁省卫健委公布了《关于做好公立医疗机构“互联网+医疗服务”项目管理工作的通知》，明确了该省允许的10项“互联网+医疗服务”项目，以规范医疗机构“互联网+医疗服务”价格行为，维护患者与医疗机构的...
+ ## [器件|铭普光磁取得一项涉及光通信技术领域的发明专利证书](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=JSMltpdxGkTut0nFc21iR28S2HshyS2sQovwLEg259xuxnNkLoM53MqSycVD98GZHeGNV-izZfPovJnEr6OUn*5pqw5OfA908AYuJ0-dB0h-ebz5fRkGWsMJaiK*MIfo&new=1)
  > 新 闻 导 读铭普光磁近日取得一项“光模块信号处理方法、装置、光模块及可读存储介质”发明专利证书，进一步提升铭普光磁在光通信领域的核心竞争力。  ICC讯 铭普光磁(002902.SZ)发布公告，公司于近日取得一项...
- ## [35年行业观察!盘点仓储物流技术6大发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=vVfXUCEMyoGr6VMJXWB1ibYocAFYUqf5TifslH6g493rLPv4MjCc-tE8HENQMzSH9PnhRf3DzDGkkhJLHscfvnYiAzRV-nlhvjPIF2qBXM8sxpwP9cuTEEf2i7EIG3*d&new=1)
+ ## [35年行业观察!盘点仓储物流技术6大发展趋势!](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=vVfXUCEMyoGr6VMJXWB1ibYocAFYUqf5TifslH6g492EtJBWNOrthl8NYfeWIIztMQW4D*iGvxUv7FyjvAYieY4Ga-6QAkIp3oHyxJDIcb3FItamnSpkCrOfz07GyyoV&new=1)
  > 仓储物流技术是企业建立先进合理的仓储物流系统的关键，而市场需求和科技进步共同推动了全球仓储物流技术的快速发展。 作者：房殿军 同济大学教授博士生导师房殿军博士，教授，专注物流与供应链研究35年，与德国...
- ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=Hc3dFeZH0TYXTuvQy7dIrtvoh458Md1ETVKJO-mjLwqZB9z-eoX5MCnjqDj*-WrAwnQKbeatCsLI-47LyP99yya7ewRC71HQLYirpkJAA8t07hr1HkFezE-W51IkwVS9&new=1)
+ ## [女版巴菲特的15个趋势预测：寻找下一个特斯拉，2021成为人生赢家](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=Hc3dFeZH0TYXTuvQy7dIrtvoh458Md1ETVKJO-mjLwoo8xyVp-nsxpBBFM0xBWO0LCVC*3XJzzYAwyqHg3xnrod5xwVvxg7Nvzk*6CnGHVnVid-Pt0RO1TeuECmXuFTV&new=1)
  > 编辑|智东西内参近日，知名投资管理公司方舟投资（ARK Investment Management LLC）发布了最新的《Big Ideas》报告，这家由“女版巴菲特”之称的凯瑟琳·伍德创建的投资公司从2017年起，在每年年初发布一期《Bi
- ## [MWC21上海直击：逆势飞扬的展锐](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=qaJJbxDhKkW5oMsuVUmPZmtmbgCd7RcGT-n5cH7MdqiwvJRiurRFhtGbtt2eq2cIVCE8a8azLcrZViuPeXFbvFt6lROsl1Rjk8C6vFmo3yVc8XkAjdvUZKnX5MguzBOx&new=1)
+ ## [MWC21上海直击：逆势飞扬的展锐](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=qaJJbxDhKkW5oMsuVUmPZmtmbgCd7RcGT-n5cH7MdqgsrgRuOaAYPbG2oWvjet6*MoxFuChnY7ujWiH6NWhDgtk1kWWUk6K8axUMoyhJSCxDKgobxaQytAjVlrQJ*KHp&new=1)
  > 2020年肆虐全球的新冠疫情，让无数企业都遭受了重挫。然而却有一家中国科技企业，面对形势严峻的疫情却迎难而上，反危为机，最终实现了令人瞩目的逆势飞扬。这家与众不同的中国企业，就是在上海MWC 2021世界移动...
- ## [5G毫米波展区闪耀MWC上海，一展生态新图景](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=tCiMzGipARx0QBWGHNcLjOZFXIa6eAsqTkIndwq4xqz2Hgx7Hg1DoMStyukI8Ig7Vu1RYeaW6eubwFPDuNd88NzCTTIVkA8f4rbpsGP47wJjeYVJMsstVaGTJ3WFGxI0&new=1)
+ ## [5G毫米波展区闪耀MWC上海，一展生态新图景](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=tCiMzGipARx0QBWGHNcLjOZFXIa6eAsqTkIndwq4xqxeNzHbrwUOKno76zpN1aErfrLboZC0tOmd5ZudW4tgugdbEwyW0y6PMzzQCPZiCkbeYrgQ2Jk1HTo-fC2pwTJs&new=1)
  > Qualcomm要闻—由中国联通和GSMA主办、高通技术公司支持的5G毫米波展区精彩亮相，向与会观众充分展示了5G毫米波赋能各行各业的极致性能与丰富应用今日，全球移动通信产业年度盛会2021世界移动通信大会（MWC）在...
- ## [华为提出多领域数字化共振：一切为了加速电信业数智化转型](http://mp.weixin.qq.com/s?src=11&timestamp=1614139204&ver=2909&signature=WKoc7Qylz4L18xBNF7GoWts4SxAlZzkvsRcFjoiNe0xwALXGyaFMQzQTG8*s0rj*O31NXMfELQcf528JkBKSGFui2ey*OACT4*SQhPXzGUoRUsgKu42yBPPebD4Kyr2U&new=1)
+ ## [华为提出多领域数字化共振：一切为了加速电信业数智化转型](http://mp.weixin.qq.com/s?src=11&timestamp=1614157205&ver=2909&signature=WKoc7Qylz4L18xBNF7GoWts4SxAlZzkvsRcFjoiNe0yrlMEhpEZ9oBQDsUIMnDfUXB3tD*WRS3zQUTBGUWFNRI16T7HD1Z5*s4YfAioxpRneRppj*5KizO2-bO4Zh4rV&new=1)
  > 在近日上海举行的2021MWC大会上，人们不仅能看到最新的技术、产品、软硬件设备，还有诸多创新的理论和理念。在展会期间举行的华为DAY0数字化运营运维转型论坛上，华为全球技术服务部总裁汤启兵在主题发言中提出...
 # IT 技术 
  ## [7种代码工具，帮助您提高团队工作效率](http://developer.51cto.com/art/202102/646870.htm)
@@ -43,58 +59,28 @@ categories: IT NEWS
  > 运维“冷”思考：一文聊聊高可用的“异地多活”架构设计
  ## [取代传统超融合！HCIaaS（超融合即服务）或将成为新的趋势](http://stor.51cto.com/art/202102/646854.htm)
  > 取代传统超融合！HCIaaS（超融合即服务）或将成为新的趋势
- ## [Oracle体系结构与运维维护管理入门（15个Oracle运维管理生产案例）](http://fellow.51cto.com/art/202101/638289.htm?qd=51ctojrzd)
- > Oracle体系结构与运维维护管理入门（15个Oracle运维管理生产案例）
- ## [全球近3万台Mac电脑已感染恶意软件Silver Sparrow，尚不清楚其目标](http://netsecurity.51cto.com/art/202102/646969.htm)
- > 最近几天，安全研究人员连续发现两款针对苹果M1芯片的恶意软件，一款是Silver Sparrow(银雀)，另一款是GoSe
- ## [如何计算函数的执行时间？](http://developer.51cto.com/art/202102/646967.htm)
- > 函数的执行时间的统计在嵌入式系统中会被频繁的用到，知识点很重要，本文从程序内计算一个函数的执行时间，
- ## [运营商内部会议再提如何竞争 称不要打价格战不许破坏市场](http://network.51cto.com/art/202102/646966.htm)
- > 日前，在运营商内部领导会议上，知情人士向运营商财经网独家爆料称，运营商们在会上再提该如何竞争，还称不
- ## [5G，物联网和人工智能等将会掀起怎样的风波呢？](http://network.51cto.com/art/202102/646964.htm)
- > 归根结底，这将导致所谓的“数据垄断”，即对数据的更好访问，因为这是使数据以积极的方式更好地访问的最佳
- ## [SQLServer常用的日期和时间函数梳理](http://database.51cto.com/art/202102/646962.htm)
- > 今天给大家分享SQLServer常用的日期和时间函数相关的知识，希望对大家能有所帮助！
- ## [微软Windows 10 21H1发布，如何快速升级到新版本](http://os.51cto.com/art/202102/646961.htm)
- > 微软已经正式发布了对Windows 10 21H1版的更新，这次更新变化将很小，并且对“设置”应用进行了较小的更改
- ## [图样图森破-Pyecharts之柱状图](http://bigdata.51cto.com/art/202102/646963.htm)
- > pyecharts团队将其支持的图表类型归纳为以下几个类型：基本图表、直角坐标系图表、树型图表、地理图表、3D
- ## [这些IDE和代码编辑器你用过几个？](http://developer.51cto.com/art/202102/646959.htm)
- > 首先我们应该分辨 IDE 和代码编辑器之间的区别。简单的说，IDE 是一组集成在一起的工具：文本编辑器、编译
- ## [2021年需要了解的5种网络趋势](http://network.51cto.com/art/202102/646958.htm)
- > 2020年12月14日，大规模的网络中断导致谷歌公司为美国用户提供的服务中断或宕机。Google Calendar、Gmail、
- ## [这7项网络安全成本最容易被忽视，千万别给你的企业埋雷](http://netsecurity.51cto.com/art/202102/646957.htm)
- > 企业的网络安全预算是否涵盖了所有领域？本文介绍了预算规划人员经常忽视或者未能解决的7项开支。
- ## [27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构](https://blog.csdn.net/weixin_39787242/article/details/113994078)
- > 27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构
- ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
- > 
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
- > 
- ## [Python详细知识体系总结(2021版)](https://blog.csdn.net/weixin_47654912/article/details/111362057)
- > 
- ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
- > 
- ## [Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程](https://blog.csdn.net/csdnnews/article/details/113881947)
- > Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程
- ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
- > 
- ## [明年，我要用 AI 给全村写对联](https://blog.csdn.net/HyperAI/article/details/113840196)
- > 明年，我要用 AI 给全村写对联
- ## [极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车](https://blog.csdn.net/weixin_39786569/article/details/113928844)
- > 极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车
- ## [Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144)
- > Markdown语法图文全面详解(10分钟学会)
- ## [Flink本地Web UI报错：Could not start rest endpoint on any port in port range 8081](https://blog.csdn.net/Lcumin/article/details/113181238)
- > Flink本地Web UI报错：Could not start rest endpoint on any port in port range 8081
- ## [基于Unity的2d动画游戏-------------------c开发](https://blog.csdn.net/weixin_43795683/article/details/109142594)
- > 基于Unity的2d动画游戏-------------------c开发
- ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
- > 
- ## [js渲染10万数据列表，不阻塞UI](https://blog.csdn.net/weixin_43889562/article/details/113128957)
- > js渲染10万数据列表，不阻塞UI
- ## [推荐一款好用的单片机点阵字库生成工具](https://blog.csdn.net/weixin_43640306/article/details/113309735)
- > 推荐一款好用的单片机点阵字库生成工具
+ ## [Unity编程之C编程“入门篇”(第1部)](http://fellow.51cto.com/art/202101/639108.htm?qd=51ctojrzd)
+ > Unity编程之C编程“入门篇”(第1部)
+ ## [LaTex 排版 （2）：表格](http://os.51cto.com/art/202102/647021.htm)
+ > LaTeX 提供了许多工具来创建和定制表格，在本系列中，我们将使用 tabular 和 tabularx 环境来创建和定制表
+ ## [芯片级边缘AI驱动下一代物联网](http://ai.51cto.com/art/202102/647020.htm)
+ > 基于AI的机器学习技术已经超越了基于云的数据中心，因为重要的IoT传感器数据的处理越来越接近数据最初所在
+ ## [物联网是否需要5G连接？](http://iot.51cto.com/art/202102/647019.htm)
+ > 物联网的安装数量正在迅速增长，管理咨询公司麦肯锡（McKinsey）估计，到2025年，每年的经济影响将超过110
+ ## [LaTeX 排版（1）：列表](http://os.51cto.com/art/202102/647018.htm)
+ > 本系列基于前文《在 Fedora 上用 LaTex 和 TeXstudio 排版你的文档》和《LaTeX 基础》，本文即系列的第一部
+ ## [企业应用的转折点：内存计算技术](http://news.51cto.com/art/202102/647015.htm)
+ > 在过去的50年里，信息技术的迅猛发展对各个行业企业的成功产生了巨大的影响。这种成功归结于快速而准确处理
+ ## [Android春季更新前瞻：密码检查、定时短信发送、TalkBack改进等](http://mobile.51cto.com/android-647010.htm)
+ > 谷歌今天预告了即将在 Android 中引入的诸多新功能，包括密码检查工具、定时短信发送、改进屏幕阅读器 Talk
+ ## [微服务下，接口性能优化的一些总结](http://news.51cto.com/art/202102/647006.htm)
+ > 如果是自己写的代码，加上又熟悉业务场景，很容易就知道性能瓶颈点。但如果上来就去优化别人的代码，甚至
+ ## [为什么比特币将取代美元成为全球储备资产](http://blockchain.51cto.com/art/202102/646998.htm)
+ > 疫情持续一年，美国经济衰退不可避免。数据显示，美国GDP年化萎缩对其造成的冲击不言而喻。有人认为，由于
+ ## [一行 JavaScript 代码搞定这些操作！收藏了](http://developer.51cto.com/art/202102/646989.htm)
+ > JavaScript 是一门神奇的语言，它的某些特性让人捉摸不透，但其简洁和灵活性也让人爱不释手。有些功能逻辑
+ ## [安卓能帮你检查密码泄露了！还有信息定时发送等多项功能优化](http://news.51cto.com/art/202102/647007.htm)
+ > 密码泄露，现在能在登录之前收到提醒了！再也不用熬夜给异国好友发消息了……
 # 人工智能 
  ## [散户暴动，空头投降，下一波会不会是比特币？](https://blog.csdn.net/BEYONDMA/article/details/113434567)
  > 散户暴动，空头投降，下一波会不会是比特币？
@@ -127,6 +113,32 @@ categories: IT NEWS
  ## [HaaS EDU物联网教育开发板来啦！漂亮的不像开发板！](https://blog.csdn.net/HaaSTech/article/details/113950958)
  > HaaS EDU物联网教育开发板来啦！漂亮的不像开发板！
 # PM 
+ ## [教培企业怎么借势热点营销 撬动品牌传播力？](http://www.chanpin100.com/article/113606)
+ > 策划一场热点营销只需要做好4个步骤教培企业就可以借助热点轻松撬动品牌传播力，做出一场高转化、高精准的引流直播​，为品牌增加曝光度，为平台增加活跃度了。
+ ## [什么样的人比较适合做产品经理？](http://www.chanpin100.com/article/113616)
+ > 什么样的人比较适合做产品经理呢？经验其实并不那么重要，重要的是沟通，学习能力，同理心，行动能力。这几个基本素质是需要高于技能能力的，下边请看具体介绍。
+ ## [产品经理应该具备的五点特质 你身上都有哪些？](http://www.chanpin100.com/article/113617)
+ > 随着互联网日新月异地发展，现在产品经理这个行业已经受到越来越多人的追捧。那么对于一名产品经理来说，都应该具备哪些特质呢？本文给大家聊一聊产品经理应具备的五种特质，看看你身上有哪些。
+ ## [教育企业3步撬动流量 打造高质量引流直播课堂！](http://www.chanpin100.com/article/113605)
+ > 一场成功的引流直播并不难，只需要把握直播前-中-后每一个环节，围绕引流的目标做设计，将机构的亮点展示出来，给潜在用户带来价值感。
+ ## [2021年教培机构如何抓住视频号的流量？](http://www.chanpin100.com/article/113604)
+ > 近几年，从微信公众号的营销到短视频带货风靡，无数商家或个人在流量的时代挣得盆满钵满。多数的传统行业也敏锐地抓住互联网的流量成就了逆袭之路。做好视频号运营，为自己的线上平台引流、内容变现做好辅助！
+ ## [产品经理要怎样管理项目进度](http://www.chanpin100.com/article/113614)
+ > 产品经理不仅注重产出，更注重结果。我们不仅关注时间表和日期，而且更关注目标或要完成的工作。产品经理需要定义产品问题，找到好的解决方案，用当前场景下最好的产品设计解决用户的问题。
+ ## [一文讲透B端产品和C端产品的差异](http://www.chanpin100.com/article/113603)
+ > 对于互联网从业者尤其是产品经理来说，B端和C端产品最熟悉不过，但极少有人能说清这两者的差异。说这个话题之前，我们先探讨两个问题：
+ ## [产品经理常见面试题分享](http://www.chanpin100.com/article/113613)
+ > 产品经理去面试之前，最长干的一件事情是什么？那指定是刷题呀！每多刷一道面试题就多一分成功的保障。下边小编来为大家分享一波产品经理常见面试题及参考答案。
+ ## [B端产品经理和C端产品经理有哪些区别](http://www.chanpin100.com/article/113612)
+ > “B端产品注重产品对企业的价值传递，而C端产品更多的是向终端的消费者提供一种服务或者一种价值。”无论你是B端产品还是C端产品，你的产品的基本技能都是一样的，比如需求分析、产品规划、逻辑思维、交互设计、数据分析、沟通和执行。
+ ## [K12在线教育行业痛点及三大破局方法](http://www.chanpin100.com/article/113602)
+ > 2020年的疫情“黑天鹅”事件推动了在线教育迎来新的转机。数据显示，2020年中国在线教育用户规模达3766万人，市场规模达4858亿元，增速上升至20.2%。
+ ## [恭喜！神策数据荣获“2020InfoQ最佳技术社区驱动力奖”](http://www.chanpin100.com/article/113597)
+ > 近日，在 InfoQ“开发者生态共创计划”中，神策数据凭借大数据领域的前沿实践积累和高质量的技术内容输出，荣获“2020 InfoQ 最佳技术社区驱动力”奖项。
+ ## [人造肉市场的“中国式困局”](http://www.chanpin100.com/article/113592)
+ > 人造肉想拓展大众市场时，会遇到一个“需求悖论”：那些人造肉的最大消费者，平时可能已经很少吃肉；而那些喜欢吃肉的大众消费者，根本不会选择口感一般的人造肉。
+ ## [教培机构如何利用视频号为知识店铺引流？8种方法让你的店铺流量暴涨](http://www.chanpin100.com/article/113590)
+ > 视频号与微信生态全面打通，用户可以从朋友圈、公众号文章等跳转至视频号，视频号也可以直接跳转到公众号文章，一系列操作让用户可以更快地沉淀到私域流量池中。
  ## [微信8.0VSClubhouse](http://www.chanpin100.com/article/113589)
  > 年前我看了微信十周年演讲会，对张小龙的产品设计理念深感佩服。刚好最近体验了一把突然串红的clubhouse，想聊聊两款社交的产品共通点。
  ## [如何精准挖掘用户需求？这三个雷区不能踩！](http://www.chanpin100.com/article/113587)
@@ -139,15 +151,5 @@ categories: IT NEWS
  > 最近接到一个需求，为Super会员做一个订单记录页面。当时觉得页面比较简单，没什么好设计的。但是通过用户场景分析后，觉得还有很多的细节需要打磨。
  ## [常见必问面试问题一面试自我介绍3分钟、离职原因、期望薪资…（含面试技巧和答案）](http://www.chanpin100.com/article/113580)
  > 不管求职哪个岗位都必问的常见面试题（含面试问题和参考答案）。每个面试问题的参考答案，都是可以直接拿来即用，直接套用模板即可！
- ## [一名成功的产品经理有哪些特点？](http://www.chanpin100.com/article/113598)
- > 一名成功的产品经理有内在的动机——你总是在寻找改进的方法，填补组织的空白，并不断交付更好的产品。那么，一名成功的产品经理又哪些特点呢？请看本文的具体介绍。
- ## [产品经理基础知识之工作职能介绍](http://www.chanpin100.com/article/113596)
- > 随着互联网的发展，为了提高员工的集中度和效率，工作职责越来越细化，从而催化了一个中间枢纽职位：产品经理。今天小编为大家带来的产品经理基础知识是关于产品经理的工作职能介绍的。
- ## [产品经理基础知识之工作内容介绍](http://www.chanpin100.com/article/113595)
- > 有一些刚入门的产品经理对自身的工作内容有点拎不清。今天小编要为大家讲的产品经理基础知识就是产品经理工作内容的相关介绍。
- ## [产品经理基础知识之必备技能介绍](http://www.chanpin100.com/article/113594)
- > 在每个公司，产品管理的角色可能看起来完全不同。许多产品经理的职责与产品营销、项目管理和用户体验重叠。不管你的工作岗位描述如何，每个产品经理都必须具备出色的基本技能。
- ## [产品经理该怎样对产品方案进行决策](http://www.chanpin100.com/article/113593)
- > 决策是行为的选择，产品经理在选择方案时通常使用熟悉的方案。产品经理的工作由各种决策组成，其中最常见的是“做还是不做”和“如何做”。好的决策应该是通过科学的方案做出理性的判断，通过数据的支持得出正确的结论，不是凭产品经理的感觉。
 
     
