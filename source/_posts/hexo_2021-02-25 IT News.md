@@ -1,30 +1,38 @@
 ---
 title: 2021-02-25 IT News
 copyright: true
-date: 2021-02-25 12:10:00
+date: 2021-02-25 17:08:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [长飞公司发布“X贝”光纤品牌 为国内光纤光缆企业首次](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=NBfHfDF0uNQxN1-ETQ6VeaK42GaaLJM*CS2lnD69jhRg8sd6CJDVT7KOI431ldg-sS5Ge7mc2RvkTcz7nO8Zlcbpnc81ZgHKklcYqzV1*wgMQYjIbLmutTp6AWQoKeUd&new=1)
- > 2月24日，在2021 MWC上海大会期间，长飞光纤光缆股份有限公司（以下简称“长飞公司”，股票代码：601869.SH、06869.HK）在上海嘉里酒店隆重举行“X贝”光纤品牌发布会，这是国内光纤光缆企业首次发布光纤品牌。...
- ## [随着攻击载体的多样化，与勒索相关的DDoS攻击不断上升](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=4kWfHs9Mu3E7Fj7huTCYW7zIpJJ5IhMblx7WNn*N89zESB3nI71n3fbdmGB-nq8w7mdsFK-kOB9gEtkC8S*GnJDd-4-aFqemJbh-O50XsZvezfxSylW8TWSFPbUOBwz9&new=1)
- > E安全2月24日讯 近日，据《Daily Swig》对一系列安全供应商的调查显示，去年，随着攻击载体的复杂性和多样性趋势，与勒索相关的DDoS攻击不断上升。DDoS，即分布式拒绝服务攻击，其类型主要包括容量攻击、基于协...
- ## [大疆将在3月发布新品；滴滴出行或计划进入西欧市场；理想汽车计划2023年推纯电动车|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=f1uL2vzg6eKNOJLk8L4kORjxkd-vIpbRWL3dOjUlBcc*v3T1bYnCj6CDqPT5Xtd7RNdoNsUYDRg9cXlrubxwvRFvNmWCk8amtS8i34mCq9PLHVEEfbkNm4HDz033zd4U&new=1)
- > 图 / DJIHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【大疆将在3月2日发布新品】大疆将在3月2日22点发布新品。据大疆表示，这次发布的将是“全新物种，重构飞行想象”。此外，大疆3月份计划...
- ## [金属/碳纤维3D打印厂商Markforged宣布上市：营收4.5亿，估值135亿，募资27亿](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=Xmq97jLJk5Tcfa*wdkis3GeWTdS3TXzPE0IH6ZRSjxAx7IVZ1GkQMyiVhbxmMPcDpFR55SL9Y6jW8LjBzN4L2q5arzVF1ghl0PgT0fHiC0g8eyPlk-rNGGba61gRMHr1&new=1)
- > 南极熊导读：股市大涨后，美国3D打印公司的资本运作越演越烈，不断开启新的并购或IPO上市，收割资金和其他优秀的公司。2021年2月25日，南极熊获悉，金属和碳纤维3D打印厂商Markforged，在美东时间2月24日宣布借...
- ## [突发!滴滴崩溃；苹果因强制“开发者使用苹果登录”遭反垄断调查；gRPC 1.36.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=RxJwcdqNjohQFEzrht3aywSWcpky7WqHOCKIyJkeJK6bCsh5*OHXUFFKkmVpGC-bC-K-bT2N4pMOw3N-BFi-ktxgtJb1Bb3EaxjVMHJ*K8-IHqmVA6mSVDBn5boVOxYD&new=1)
+ ## [埃森哲2021技术展望:技术堆栈成竞争关键，数字孪生投资增加](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=-1MI76MiOzHCxfe06wO-bob2Zc-ECSx98npsBeUKVb-9eSfPTJhU120LThXDIQeI12ruWTLmwonYwX6qWUh*H-qtnQ8R0DTg-yw4Ws3ej90wsr9sZQMUelyXwwwRfeOO&new=1)
+ > 埃森哲最新的技术展望报告显示，公司领导者应停止等待新常态的到来，并将业务和技术战略合并为一个有凝聚力的计划。这是制定大流行后战略和掌握变化的关键一步。报告还确定了未来三年企业加速和掌握变革要立即解...
+ ## [国家卫健委：首批5G医疗应用优秀案例评选结果出炉(附名录)](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=RugS9ASSNlaScfeA8pi0SyGCl6VHVU2-kFvmjrUDu2y-L0IRSv3oFenuBKKe*5DlpBXkW9dqVUZQFBNKOVcY8BxaMVHVH4c94OzKYr5CjOqecnHzNFms7n39pUvQQkAw&new=1)
+ > 近日,国家卫健委5G医疗卫生行业标准项目组(以下简称“标准工作组”)宣布,首批5G医疗应用优秀案例评选结果出炉,涵盖远程医疗、患者服务、研究探索三大类别。经过专家组评议,从首批30余家申报医院案例中遴选出甲级...
+ ## [LG将向更多电视业者开放授权使用webOS作业系统](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=4-GMOtJUEVkwA0G1wr5lsEaIluRiTt7RLSxKX7MxFy-MqtyBldh0yLq8ybi4F2491TueblrdlqSmx7fdSfVNJoB0n676pQq2a8y-bbP3hI1HhlSETCEK*Uc0mX7MLaPx&new=1)
+ > LG宣布，将向其他电视机种开放使用旗下webOS作业系统，藉此扩展此款作业系统使用生态。依照LG说明，授权使用产品不仅限于智能连网电视，还包含机上盒、电视棒等装置，同时目前合作品牌包含RCA、Ayonz、康佳 (Kon...
+ ## [深度学习后，图灵奖得主Bengio研究核心是什么?因果表示学习](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=vzx1UTYZ91iFvZvm0eDzy8jyVNYFMrV3c-zLLv9CxVfYVC76VKiSLWwarrLv0ANjmy6qfkW3iqgEXcI7z0dU73Tsryw*6f0Qy3XRFKJ2CHU-aAZgruGZXA8KxHk6MjP5&new=1)
+ > 机器之心报道编辑：魔王、杜伟在近日发表的一篇论文中，图灵奖得主 Yoshua Bengio 等详细介绍了其团队当前的研究重心：将机器学习与因果推理相结合的因果表示学习。研究者不仅全面回顾了因果推理的基础概念，并...
+ ## [突发!滴滴崩溃；苹果因强制“开发者使用苹果登录”遭反垄断调查；gRPC 1.36.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=RxJwcdqNjohQFEzrht3aywSWcpky7WqHOCKIyJkeJK45hfFynASsYyNMajMkGVeGjP2DzwF6Sx3XVsBOIuMRkEMqGboSSPcpZOF*xbi6FxsIHF9sn*oVDAHdqNJOik*y&new=1)
  > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
- ## [\[焦点\]比特币重挫超13%，数十万人爆仓，拖累特斯拉股价，但其背后的技术也能帮助物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=nfKd-bBQD9I87oectryslhDPIt6hnNGnAcNKF8WGLjGx-z*NFbd1R2wDhiz6tX7rrvF*7b*dnQZh5O0ESB0pykAIBx3VXPaFvhwMISBE7ktkFPtkREcY6j3iZQuNjjdU&new=1)
+ ## [金属/碳纤维3D打印厂商Markforged宣布上市：营收4.5亿，估值135亿，募资27亿](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=Xmq97jLJk5Tcfa*wdkis3GeWTdS3TXzPE0IH6ZRSjxCYu8GZU2TeISWCWTHWu0jxk0-NK5wcHjl5kFT7aVLNswvRj7eJpOahFw72thYgz3IVJjAVZdhDp2vKp1m5uxIM&new=1)
+ > 南极熊导读：股市大涨后，美国3D打印公司的资本运作越演越烈，不断开启新的并购或IPO上市，收割资金和其他优秀的公司。2021年2月25日，南极熊获悉，金属和碳纤维3D打印厂商Markforged，在美东时间2月24日宣布借...
+ ## [随着攻击载体的多样化，与勒索相关的DDoS攻击不断上升](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=4kWfHs9Mu3E7Fj7huTCYW7zIpJJ5IhMblx7WNn*N89xjAPCJ0qw6smctgaAK2dbeVea9xqTMfSAhlsgmmarbN5lG1JtTx865ivkzdOjS65Swb6N5zc88yLP70E97H7mC&new=1)
+ > E安全2月24日讯 近日，据《Daily Swig》对一系列安全供应商的调查显示，去年，随着攻击载体的复杂性和多样性趋势，与勒索相关的DDoS攻击不断上升。DDoS，即分布式拒绝服务攻击，其类型主要包括容量攻击、基于协...
+ ## [大疆将在3月发布新品；滴滴出行或计划进入西欧市场；理想汽车计划2023年推纯电动车|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=f1uL2vzg6eKNOJLk8L4kORjxkd-vIpbRWL3dOjUlBccBgTMu46xxgzepPTMEfIHlXDwaGKB-EdasSHh9XARYMfnhWH*d3Nfnyhfs8BC-8sFW5AxLB5zxKxVZi1uZIdp8&new=1)
+ > 图 / DJIHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【大疆将在3月2日发布新品】大疆将在3月2日22点发布新品。据大疆表示，这次发布的将是“全新物种，重构飞行想象”。此外，大疆3月份计划...
+ ## [长飞公司发布“X贝”光纤品牌 为国内光纤光缆企业首次](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=NBfHfDF0uNQxN1-ETQ6VeaK42GaaLJM*CS2lnD69jhRcnRGPY7dppZzgcwz7*X0gCdp5BJyHKAtrvvBBNncqu3p*vmtSvSEVLVLjM83GvmXZMuh-2uxMrE3Q7wAG0NE4&new=1)
+ > 2月24日，在2021 MWC上海大会期间，长飞光纤光缆股份有限公司（以下简称“长飞公司”，股票代码：601869.SH、06869.HK）在上海嘉里酒店隆重举行“X贝”光纤品牌发布会，这是国内光纤光缆企业首次发布光纤品牌。...
+ ## [\[焦点\]比特币重挫超13%，数十万人爆仓，拖累特斯拉股价，但其背后的技术也能帮助物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=nfKd-bBQD9I87oectryslhDPIt6hnNGnAcNKF8WGLjFoVt-UDonGIqjmph2WpxciOsMa1WMttL6GqiNL8h7lTLtCzLMOBRdm144AqsUbjbOr*QvLZVUVt5Mc244oQ2M-&new=1)
  > 继2月22日短线暴跌致36万人爆仓后，比特币再次迎来了新一轮的暴跌。据路透社2月23日消息，比特币价格当日大跌，拖累了近日刚透露在比特币领域投资了15亿美元的特斯拉股价，与此同时，也重创了持有特斯拉股票的几...
- ## [反超移动!中国电信5G用户即将“破亿”](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=a7E1xd-qJe7CsVl5x05giEzViiFJzcqgWvdpOYiCbduy-aX3IFLUQJXJX3hJMVjXK4Y5qz8eJ8hX27jfUI9R1t20aFCz85bHdGtvvrckGHEu3Y078Rk5j04oUk1iYaEg&new=1)
+ ## [反超移动!中国电信5G用户即将“破亿”](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=a7E1xd-qJe7CsVl5x05giEzViiFJzcqgWvdpOYiCbdv-ORsPPkA7k3xaA7C0WngsEKrrnBgdniOQ*wYck3BhRCsBbrQqLupJRNZM1-KgfAO5vBJ3pE5u80ZDJHcb-ssH&new=1)
  > 原标题：三大运营商一月份运营数据公布：中国电信5G用户即将“破亿”转眼间，春节假期已经过完。不少人都回到了工作岗位上，三大运营商也迎来了2021年复工后的首月运营数据报告。和2020年最后一个月的成绩相比，...
- ## [清华大学：人脸识别技术爆出巨大丑闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=iJpkiAHLOCTnDSo-kirVvSFvwjM4*FLHGfwl5YsQrcdULr0d-4d7yTYD1QIQlqXBnSCDajRUX*aTRBF2OeLVvd-RgMq96cp1nnsMiQ-YIMYZAaXFX6yWJ41kndWjGmut&new=1)
+ ## [清华大学：人脸识别技术爆出巨大丑闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=iJpkiAHLOCTnDSo-kirVvSFvwjM4*FLHGfwl5YsQrcebbGhd2M0vr6fMGpHPuMvXI8UFzPhSLA*KhAO98wkHkgQcMxJxYf1oGpb2h*m2gnZTn-wyh29sQe0amXBU0JeO&new=1)
  > 人脸识别技术，爆出巨大丑闻。刚刚，清华大学的一条重大发现，利用人脸识别技术的漏洞，“ 15分钟解锁19个陌生智能国产手机 ”的事件，惊呆了我们技术圈的小伙伴 。这起事件，如果用嘴简单的语言来形容就是：“ ...
- ## [MWCS 2021|精彩继续](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=0obbkUnAQ8m8pjzudACIPSaoBfe6sROODg*8Owh1Pbus9gkcvd91lWlXuLfaqx5i5r0nypXy3rxAF6p7IYd8ngjzF6hegKv4k*3XzWBmAvbBd3UCpERYbqg9ppp797nK&new=1)
+ ## [MWCS 2021|精彩继续](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=0obbkUnAQ8m8pjzudACIPSaoBfe6sROODg*8Owh1Pbt3ZXVkIktafTRCER5UDN4eydRcFoqiurqrlVqROpzdeQpjW9sXlXmgwzwps9he85ixknXYUUNXfDdNjvtshVSm&new=1)
  > ......现场直击1华为 徐伟忠：中国的5G频谱分配，全球最佳2中兴通讯：筑路数字经济，为行业注入5G之心3新华三 李立：分享了在持续推进“5G+工业互联网”方面的一些思考4瑞斯康达：“云网融合”解决方案5GSMA 合...
- ## [还在观望 M1 Mac?这个网站可以帮助你决定是否入手](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=rRBL-9NHlV5WruuYQQ2rS0W4nU0PmM8J8rkFbSYwCmtDIii2AVhSQr6bOmQLT5gZocteHUyAywbwvsTk5w9EpwcTS7iJ6yTJc3DmWo5rzIoAAcbtTwKJ1027SU1AqC4*&new=1)
+ ## [还在观望 M1 Mac?这个网站可以帮助你决定是否入手](http://mp.weixin.qq.com/s?src=11&timestamp=1614243604&ver=2911&signature=rRBL-9NHlV5WruuYQQ2rS0W4nU0PmM8J8rkFbSYwCmunl212IcbPyVwGPgDza9FuJNRSKFQofPTleHYRqpLvA1rrrc6zrAXzmcORgEdp1Z5fnKLiFWBdaHVMyRN2kS9r&new=1)
  > 去年 11 月，苹果正式推出搭载自研芯片 M1 的三款 Mac 产品。M1 芯片采用 ARM 架构而非英特尔的 X86 架构，而目前市场上的主流软件大部分只适配了 X86 架构，因此适配性问题从发布之日起就不可避免。尽管苹果有...
 # IT 技术 
  ## [为什么CTO、技术总监、架构师都不写代码，还这么牛？](http://news.51cto.com/art/202102/647130.htm)
@@ -33,106 +41,107 @@ categories: IT NEWS
  > 构建前瞻性应用架构的优秀实践
  ## [终于有人把 "高可用" 说清楚了！](http://developer.51cto.com/art/202102/647086.htm)
  > 终于有人把 &quot;高可用&quot; 说清楚了！
+ ## [人工智能在登陆火星的“毅力号”火星探测器中的应用](http://ai.51cto.com/art/202102/647106.htm)
+ > 人工智能在登陆火星的“毅力号”火星探测器中的应用
  ## [如何在Windows上运行Apache Kafka？](http://os.51cto.com/art/202102/647034.htm)
  > 如何在Windows上运行Apache Kafka？
  ## [硅谷大厂也看「名校学历」？Reddit小哥灵魂拷问引起热议](http://news.51cto.com/art/202102/646948.htm)
  > 硅谷大厂也看「名校学历」？Reddit小哥灵魂拷问引起热议
  ## [嵌入式开发小白跟连老师学鸿蒙设备开发之Hello World](http://developer.51cto.com/art/202102/647003.htm)
  > 嵌入式开发小白跟连老师学鸿蒙设备开发之Hello World
- ## [如何正确且快速构建Docker优质的安全镜像](http://developer.51cto.com/art/202102/646837.htm)
- > 如何正确且快速构建Docker优质的安全镜像
- ## [思科网络工程师--从零开始学CCNA实验视频课程【送PT 7.2】](http://fellow.51cto.com/art/202101/638403.htm?qd=51ctojrzd)
- > 思科网络工程师--从零开始学CCNA实验视频课程【送PT 7.2】
- ## [如何为企业业务选择备份解决方案?](http://stor.51cto.com/art/202102/647123.htm)
- > 为了为运营的业务而选择合适的备份解决方案，企业需要考虑多种因素。一些行业专家对此进行了探讨和分析，并
- ## [2021年中国医疗人工智能产业全景图谱](http://ai.51cto.com/art/202102/647120.htm)
- > 医疗人工智能产业上游主要是为行业提供基础技术支持的行业，如医疗数据挖掘、算法等，典型企业有碳云智能、
- ## [GSMA刘鸿：5G专网谁来建？交给运营商来完成](http://network.51cto.com/art/202102/647119.htm)
- > 随着5G商用的深入推进，5G专网需求迅速爆发，关于5G专网的建设模式、建设主体等问题，也成为业界讨论的热点
- ## [2021年还要不要学编程？看完这20年的薪水曲线再决定](http://news.51cto.com/art/202102/647121.htm)
- > 早在2000年代初期，那时的技术和软件还被称为「信息技术」（IT）或「信息和通信技术」(ICT)，开发人员仍被
- ## [克服云安全挑战的5种方法](http://cloud.51cto.com/art/202102/647116.htm)
- > 随着云计算服务支出比以往任何时候都要多，全球主要的公共云提供商之间争夺市场份额的斗争日益激烈。他们采
- ## [物联网安全需要从一种保护性手段发展到保护他人免受伤害手段](http://iot.51cto.com/art/202102/647111.htm)
- > 在物联网时代，外部效应日益严重，这就是为什么我们呼吁把安全从作为一种保护性手段转变为保护他人免受伤害
- ## [人工智能如何改变制造业和工业物联网？](http://ai.51cto.com/art/202102/647110.htm)
- > 许多组织在其工业物联网（IIoT）应用中采用了各种AI算法来做出实时决策。
- ## [实用的运营工作方法论，让你掌握基础核心能力](http://news.51cto.com/art/202102/647113.htm)
- > 运营的方法有很多种，本文将与大家聊聊关于运营的一些方法论，这些基础的方法会伴随着你整个运营生涯，可以
- ## [人工智能在登陆火星的“毅力号”火星探测器中的应用](http://ai.51cto.com/art/202102/647106.htm)
- > 在2月18日成功登陆火星之后，美国宇航局(NASA)发射的“毅力号”火星探测器已经从多种机载人工智能系统中获
- ## [人工智能奇点与人类未来](http://ai.51cto.com/art/202102/647107.htm)
- > “奇点”是描述人工智能（AI）及其社会影响未来前景的重要概念。推动AI进一步发展而趋近奇点，将AI奇点
- ## [拼多多为什么越来越受资本青睐？](https://blog.csdn.net/weixin_39787242/article/details/114024260)
- > 拼多多为什么越来越受资本青睐？
- ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
+ ## [【李宁】移动开发实战之Android5.x新特性视频课程](http://fellow.51cto.com/art/202101/638493.htm?qd=51ctojrzd)
+ > 【李宁】移动开发实战之Android5.x新特性视频课程
+ ## [11道嵌入式笔试题，看下你会几道？](http://os.51cto.com/art/202102/647171.htm)
+ > 本篇和大家探讨11道嵌入式笔试题，希望对你有所帮助。
+ ## [2021 全球政府 IT 支出预计将达 4830 亿美元](http://www.cioage.com/art/202102/647170.htm)
+ > 市场研究公司 Gartner 的最新预测指出，到 2021 年，全球政府 IT 支出预计将达到 4830 亿美元，相较 2020
+ ## [微软 Windows10 Dev 预览版 21322 发布：隐藏 3D 对象文件夹、暂移除触摸键盘改进](http://os.51cto.com/art/202102/647167.htm)
+ > 2 月 25 日消息 微软博客发布，今天在 Dev 开发频道发布了针对 Insiders 的 Windows 10 预览版 Build 21322
+ ## [C++多线程编程之创建线程篇](http://developer.51cto.com/art/202102/647166.htm)
+ > 多线程是程序员必须掌握的一门技术，本文主要是针对于C++新标准中多线程库，需要具备一定C++基础方可学习。
+ ## [微软开源 AI 诊断工具 Error Analysis](http://os.51cto.com/art/202102/647165.htm)
+ > Error Analysis 使用机器学习技术，助数据科学家更好地了解模型错误模式。
+ ## [Go 语言新提案：添加模糊测试支持](http://developer.51cto.com/art/202102/647163.htm)
+ > Go 语言增加了支持模糊测试 (Fuzz Test) 的新提案。据介绍，此项提案会为 Go 添加新的testing.F类型，在_te
+ ## [官方论文代码放出，OpenAI是如何实现图像版GPT-3的？](http://news.51cto.com/art/202102/647162.htm)
+ > 今年年初，OpenAI 图像版 GPT-3、120 亿参数的 DALL-E 刷屏社区，这个大型模型可以将以自然语言形式表达的
+ ## [Python语言这几年的编程语言排行趋势](http://developer.51cto.com/art/202102/647161.htm)
+ > PYPL 编程语言排行榜和 Hacker News 招聘趋势都已经出炉。Hacker News 招聘趋势的数据由 Hacker News 新闻
+ ## [双微信怎么弄？几步就能学会微信双开](http://mobile.51cto.com/app-show-647158.htm)
+ > 前段时间正好在拜年，聊天后发现，一个许久不见的阿姨也开始做起了微商。真是世事难预料，永远也想不到你身
+ ## [这个图聚类Python工具火了：社群结构可视化、检测](http://news.51cto.com/art/202102/647156.htm)
+ > 最近，又有一款Python可视化工具火了。这一次，功能是针对图聚类问题的社群结构进行检测、可视化。
+# 人工智能 
+ ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
+ > 编程方式建视频——GitHub 热点速览 v.21.07
+ ## [OpenCV-Python图像处理：仿射变换详解及案例](https://blog.csdn.net/LaoYuanPython/article/details/113832562)
  > 
- ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ ## [Linux 内核和 Windows 内核有什么区别？](https://blog.csdn.net/qq_34827674/article/details/113876849)
+ > Linux 内核和 Windows 内核有什么区别？
+ ## [批评代码而不是人！15年程序员的职场箴言](https://blog.csdn.net/csdnnews/article/details/113931092)
+ > 批评代码而不是人！15年程序员的职场箴言
+ ## [27岁华裔青年成疫情预测界新星](https://blog.csdn.net/weixin_39787030/article/details/113948894)
+ > 27岁华裔青年成疫情预测界新星
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [放弃FastJson！一篇就够，Jackson的功能原来如此之牛（万字干货）](https://blog.csdn.net/wo541075754/article/details/114006957)
  > 
- ## [Python详细知识体系总结(2021版)](https://blog.csdn.net/weixin_47654912/article/details/111362057)
- > 
- ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
- > 
- ## [Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程](https://blog.csdn.net/csdnnews/article/details/113881947)
- > Linux 登陆火星，占有率再超 Windows，NASA 还在 GitHub 发布源码教程
- ## [大揭秘：程序员工作也可以成为享受！](https://blog.csdn.net/csdnsevenn/article/details/112671886)
- > 
- ## [狗狗变形记：任选4点的投影变换warpPerspective OpenCV-Python案例](https://blog.csdn.net/LaoYuanPython/article/details/113958088)
- > 
- ## [极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车](https://blog.csdn.net/weixin_39786569/article/details/113928844)
- > 极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车
- ## [Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144)
- > Markdown语法图文全面详解(10分钟学会)
- ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
- > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
- ## [2020 年你读了哪些觉得比较好的计算机书籍？](https://blog.csdn.net/epubit17/article/details/109751478)
- > 2020 年你读了哪些觉得比较好的计算机书籍？
- ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
- > 
- ## [期刊第11期 | 愿意连上7天的班拿加班费吗？](https://blog.csdn.net/u012846795/article/details/113623079)
- > 期刊第11期 | 愿意连上7天的班拿加班费吗？
- ## [R语言用Garch模型和回归模型对股票价格分析](https://blog.csdn.net/qq_19600291/article/details/110931539)
- > R语言用Garch模型和回归模型对股票价格分析
+ ## [一个拖拽卡顿问题引发出对setTimeOut的探索](https://blog.csdn.net/mollyGO/article/details/114008483)
+ > 一个拖拽卡顿问题引发出对setTimeOut的探索
+ ## [使用 Spring 中的 @Lazy 注解](https://blog.csdn.net/universsky2015/article/details/114015047)
+ > 使用 Spring 中的 @Lazy 注解
+ ## [python爬取分析超级大乐透历史开奖数据](https://blog.csdn.net/xucan_123/article/details/113943714)
+ > python爬取分析超级大乐透历史开奖数据
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [2020年AI竞赛获奖方案复盘系列(一)  目标检测竞赛trick-华录杯违法广告检测比赛](https://blog.csdn.net/weixin_36714575/article/details/113971782)
+ > 2020年AI竞赛获奖方案复盘系列(一)  目标检测竞赛trick-华录杯违法广告检测比赛
+ ## [刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？](https://blog.csdn.net/a419240016/article/details/113931146)
+ > 刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？
+ ## [10年程序员生涯读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/113942856)
+ > 10年程序员生涯读了200多本编程书，挑出一些精华分享给大家
+ ## [Python实现接口参数拼接及加密](https://blog.csdn.net/qq_44848764/article/details/113986435)
+ > Python实现接口参数拼接及加密
 # PM 
+ ## [听说饿了么又对外卖小哥下手了？](http://www.chanpin100.com/article/113630)
+ > 简单来说，饿了么为了在春节期间留住外卖小哥继续干活，推出了一个“畅跑春节优选系列赛”的活动。类似一个闯关活动，总共7期，每期7天，活动时间为2021年1月11日~2月28日。全部完成能获得8000块的奖金，总的来说活动还是很诱人的。
+ ## [数据产品经理是做什么的](http://www.chanpin100.com/article/113650)
+ > 数据产品经理是做什么的呢？很多人对这个岗位有些许的不了解，下边小编来为大家做一下相关介绍，看过本文内容之后想必你就对数据产品经理有了一个大概了解了。
+ ## [深入洞察九大车主APP 落地汽车行业解决方案及最佳实践](http://www.chanpin100.com/article/113627)
+ > 汽车消费者从兴趣、意向、试驾、购买、用车/服务体验，到置换/增购/转介绍的整个旅程中，涉及线上线下多个数字化营销触点，其中就包括重要性日益提升的车主 APP。虽然尚未成为承载获客的第一落地点，但凭借极高的私域运营价值和车主全生命周期的覆盖能力，车主 APP 正向车企的一站式服务平台演进。提升车主 A
+ ## [数据产品经理如何撰写简历](http://www.chanpin100.com/article/113648)
+ > 数据产品经理如何撰写简历才能获得面试机会呢？大多数面试官看一份简历会花十五到二十五秒。怎样才能抓住面试官的眼睛和内心呢，本文从三个方面为大家做阐述：清晰、数据、准确。
+ ## [产品经理可以干一辈子嘛？](http://www.chanpin100.com/article/113647)
+ > 很多人可能怀疑产品经理这个岗位是否能干一辈子，在这个快速发展的时代，谁也没有办法预测是否能干一辈子，互联网讲究唯快不破，如果抱着铁饭碗的思维找工作，选职位，估计连眼下的困难都应付不了。
+ ## [签约|阿思克码xStratifyd携手构建长虹智能家电新生态](http://www.chanpin100.com/article/113615)
+ > 近日，四川长虹生态合作伙伴成都阿思克码与Stratifyd正式签署合作协议，双方致力于为长虹搭建一体化智能家电数据分析平台，高效洞察市场需求变化，数据赋能品牌策略提升，打造个性化、智能化的家电品牌服务体验。
+ ## [产品经理面试题+解析汇总（三）](http://www.chanpin100.com/article/113646)
+ > 春节一过又到了春招时节，很多人都开始准备找工作面试了，那么作为一名产品经理来说，你知道怎么才能在面试中取胜吗？今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
+ ## [如何让你的产品经理简历脱颖而出](http://www.chanpin100.com/article/113645)
+ > 产品经理比起其他互联网行业入门要求相对较低，同时产品经理的薪资也算互联网行业比较高的了。那么如何才能让你的产品经理简历在众人中脱颖而出呢？本文就来讲一下如何写出一份不错的产品经理简历。以简历中比较重要的几个部分举例来说：
+ ## [产品经理简历的两大误区](http://www.chanpin100.com/article/113644)
+ > 之前看过一些其他产品经理写的简历，发现他们的简历有很多误区。在此，为大家总结一些产品经理简历的两大误区。
+ ## [决定做产品经理后应该学什么？](http://www.chanpin100.com/article/113643)
+ > 产品经理比起其他互联网行业入门要求相对较低，同时产品经理的薪资也算互联网行业比较高的了。那么决定做产品经理之后应该学什么呢？本文主要讲一下想从事产品工作的同学应该如何培养自己的整体思维，以便在日后的工作中能更好地应对具体的工作。
+ ## [产品经理高频面试题+解析汇总（二）](http://www.chanpin100.com/article/113642)
+ > 随着现在互联网日新月异地变革与发展，产品经理这个岗位已经变得越发重要。春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
+ ## [应届生应该如何入行当产品经理？](http://www.chanpin100.com/article/113641)
+ > 产品经理比起其他互联网行业入门要求相对较低，同时产品经理的薪资也算互联网行业比较高的了。作为一名即将毕业找工作的应届生来说，如果想要入行当一名产品经理，应该如何做呢？我认为应届生求职产品经理，从树立职业方向到最终投递简历，可以分为以下几个阶段
+ ## [数据产品经理必备的数据分析方法](http://www.chanpin100.com/article/113639)
+ > 数据产品经理必备的数据分析方法有哪些呢？这是一部分人的疑问，下面就来为大家简单的介绍几种方法。各位小伙伴可以根据不同的行业，选择合适的进行深入学习呦！
+ ## [产品经理与运营人员该如何有效沟通](http://www.chanpin100.com/article/113640)
+ > 在产品生命周期中产品经理往往担任妈妈的角色而运营则更像是孩子的保姆或者说是老师，两个角色不同定位不同做的事情也就不相同。本文聊聊产品经理与运营人员在平时工作中该如何有效沟通。
+ ## [产品经理高频面试题+解析汇总（一）](http://www.chanpin100.com/article/113636)
+ > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
+ ## [产品经理如何入行 成为产品经理需要具备的能力](http://www.chanpin100.com/article/113635)
+ > 产品经理比起其他互联网行业入门要求要低，同时产品经理的薪资也算互联网行业比较高的了。大家都知道如果想要成为一名合格的产品经理，需要具备的能力是方方面面的，本文探讨一下入行成为产品经理需要具备的几个比较核心的能力。
+ ## [Axure打造最强DRD交互文档（含案例）](http://www.chanpin100.com/article/113611)
+ > 当我在网上搜寻交互文档规范时，可以搜到很多关于交互文档的结构搭建的文章，但始终没有一份较为完整的案例Demo展示，主要是因为大多数商业项目的交互文档是涉密的，无法进行分享。交互设计说明文档，即DRD是指用来承载交互设计说明，并交付给前端、测试以及开发工程师参考的文档，是一项基本功。本文作者用Axur
  ## [什么是数据产品经理](http://www.chanpin100.com/article/113634)
  > 什么是数据产品经理？其实在众多的公司当中，虽然大家的岗位都是数据产品经理，但是工作内容还是有差别的，下边请看具体介绍。
  ## [GrowingIO助力全球百强企业安盛天平 线上业务效率倍增](http://www.chanpin100.com/article/113610)
  > 创立于 1816 年、2020年位列“全球五百强”第 34 位的安盛集团，在全球拥有超过一亿的用户。安盛天平作为其在华全资子公司，目前已在全国超过 100 个城市设置分公司，为广大客户提供及时、便捷、值得信赖的保险服务。
  ## [如何成为一名合格的数据产品经理](http://www.chanpin100.com/article/113633)
  > 每个公司都有一个产品经理。根据定义，产品经理负责协调各方需求，选择业务模式，根据公司产品的生命周期进行协调、开发、营销和运营。那么，如何成为一名合格的数据产品经理呢？请看如下内容。
- ## [【产品经理免费公开课】如何建立产品壁垒](http://www.chanpin100.com/article/113632)
- > 想必各位产品经理对产品壁垒对不陌生吧！产品壁垒其实就是产品的护城河，也可以说是这个产品在这个行业中的铠甲，让其他的竞品机构没有那么快可以伤到你。本期公开课就来教教大家如何建立产品壁垒！
- ## [新手如何设计App的图标Logo？](http://www.chanpin100.com/article/113609)
- > 想要设计一款App图标logo，却不知道从何下手，也不清楚尺寸规范。针对新手，如何快速搞定app logo图标设计？借助在线设计lo​go工具，今天和大家分享移动App 的logo图标设计，现学现用容易上手的4个小套路！
- ## [教培企业如何从抖音、微博等引流至“私域流量”转化？](http://www.chanpin100.com/article/113608)
- > 教培企业如何操作，才能够精准触达用户，最大化降低流量成本损耗，将平台流量引流到自己的私域流量，再进行后续的运营转化呢？
- ## [产品经理面试题参考](http://www.chanpin100.com/article/113629)
- > 现在又到了春招时节，很多人都开始找工作了。其实，大部分产品经理面试，都会围绕两个点来提问：一是问你熟悉的事，二是问你不熟悉的事。前者是简历信息的深挖，后者是你在工作之外的思考。本文给大家整理了几道产品经理面试题目，仅供参考，希望对各位有所帮助吧。
- ## [什么是产品经理 产品经理到底是做什么的？](http://www.chanpin100.com/article/113628)
- > 随着互联网的快速发展，产品经理这一行变得越来越抢手。那么什么是产品经理，产品经理到底是做什么的呢？本文给大家讲解一下，希望能帮助到各位。
- ## [产品经理都需要具备哪些技能？](http://www.chanpin100.com/article/113626)
- > 想要成为一名合格的产品经理，需要具备的技能是方方面面的。产品经理作为打造产品最直接的负责人，要以能够恰到好处地满足用户需求为出发点。现实工作中，大多数产品经理的主要精力放在满足用户需求上，今天我们来谈一谈一个产品经理想要满足用户需求都需要具备哪些技能。
- ## [Ｂ端产品如何做好年度规划](http://www.chanpin100.com/article/113625)
- > 做年度规划时，要思考或者说要理解的第一件事是：愿景。因为，年度规划是对战略的落地执行规划，战略是基于未来的判断，所制定出来的目标，所以愿景是制定战略的前提。
- ## [2021年产品经理高频面试题](http://www.chanpin100.com/article/113624)
- > 随着互联网的快速发展，产品经理这行变得越来越重要。春节一过，找工作面试的人就多了起来，今天为大家整理了几道常见的产品经理面试题，希望能对大家有所帮助。
- ## [产品经理这一行是吃青春饭的吗](http://www.chanpin100.com/article/113623)
- > IT公司的人经常被人说的一句话就是挣得多、死得早。加班是互联网行业永恒不变的主旋律，那么对于产品经理来说，这份职业的发展真的要靠年轻力壮加班不要命来获得吗？都说35岁往往是人生的拐点，那么产品经理这份职业是不是吃青春饭的呢？
- ## [对于产品经理来说 工作内容都有哪些？](http://www.chanpin100.com/article/113622)
- > 互联网产品经理，负责整个产品的生命周期，那么，对于产品经理来说，工作内容都有哪些呢？小编大致归纳了一下，产品经理的工作流程分别为如下五个阶段
- ## [产品经理两种培训形式的区别是什么](http://www.chanpin100.com/article/113621)
- > 随着互联网高速发展，产品经理这一行越来越抢手了。目前，市面上有关产品经理的培训大致分为线上和线下两种形式，今天我们来谈一谈这两种的区别有哪些。
- ## [产品经理常见面试题有哪些？](http://www.chanpin100.com/article/113620)
- > 最近正好赶上了春招，相信在这个时候应该会有很多同学在找工作吧？本文为小伙伴们准备了一些常见的产品经理面试题，有需要的同学可以拿去，做一些准备总比面试的时候抓瞎要强。
- ## [在线课程详情页怎么写？6步助你转化率飙涨！](http://www.chanpin100.com/article/113607)
- > 如何写好一个高转化的在线课程详情页，充分把握每一个对课程感兴趣的用户？中国在线教育市场规模持续上涨，由2016年的2218亿元一路增长到2019年的4041亿元，年均增速19.71%，预计到2020年市场规模达到4858亿元，增速保持在9.61%。而受到新冠疫情的推动，预计到2020年中国在线教育用
- ## [产品经理面试-产品经理必看常见面试题及解析](http://www.chanpin100.com/article/113619)
- > 相信在这个时候找工作的小伙伴应该挺多，对于产品经理来讲，面试时都有哪些需要注意的呢？小编在这里为大家梳理了产品经理面试最常见的一些问题，希望可以帮助到大家。
- ## [新入职的产品经理首先要做什么](http://www.chanpin100.com/article/113618)
- > 一名产品经理新入职公司都需要做什么呢？好不容易入职了一家公司，那么怎么才能获得信任，让自己站住脚跟呢？请看本文介绍。
- ## [教培企业怎么借势热点营销 撬动品牌传播力？](http://www.chanpin100.com/article/113606)
- > 策划一场热点营销只需要做好4个步骤教培企业就可以借助热点轻松撬动品牌传播力，做出一场高转化、高精准的引流直播​，为品牌增加曝光度，为平台增加活跃度了。
- ## [什么样的人比较适合做产品经理？](http://www.chanpin100.com/article/113616)
- > 什么样的人比较适合做产品经理呢？经验其实并不那么重要，重要的是沟通，学习能力，同理心，行动能力。这几个基本素质是需要高于技能能力的，下边请看具体介绍。
 
     
