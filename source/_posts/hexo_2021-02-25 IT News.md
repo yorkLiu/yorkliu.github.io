@@ -1,22 +1,24 @@
 ---
 title: 2021-02-25 IT News
 copyright: true
-date: 2021-02-25 08:03:03
+date: 2021-02-25 09:10:29
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[焦点\]比特币重挫超13%，数十万人爆仓，拖累特斯拉股价，但其背后的技术也能帮助物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614211204&ver=2911&signature=nfKd-bBQD9I87oectryslhDPIt6hnNGnAcNKF8WGLjFQJU5PfzHYzO9VT3t16ShWjcH95CBrIUvr5jovLVjLgYirRYgslrbBrTnT3sBGqWdaqlr4OjYJ9sMFQzi1yyNH&new=1)
- > 继2月22日短线暴跌致36万人爆仓后，比特币再次迎来了新一轮的暴跌。据路透社2月23日消息，比特币价格当日大跌，拖累了近日刚透露在比特币领域投资了15亿美元的特斯拉股价，与此同时，也重创了持有特斯拉股票的几...
- ## [反超移动!中国电信5G用户即将“破亿”](http://mp.weixin.qq.com/s?src=11&timestamp=1614211204&ver=2911&signature=a7E1xd-qJe7CsVl5x05giEzViiFJzcqgWvdpOYiCbdvyfx2ewrmQeFM979a4FkPnG-XTwqS--Jq6VNqGSBLqVg*zr-j7Mqtk6PhkwJw6xfMAFAinW8G1PkQupw5-qUcn&new=1)
+ ## [反超移动!中国电信5G用户即将“破亿”](http://mp.weixin.qq.com/s?src=11&timestamp=1614214805&ver=2911&signature=a7E1xd-qJe7CsVl5x05giEzViiFJzcqgWvdpOYiCbdvyfx2ewrmQeFM979a4FkPnnbz5d72RcJf4z88lOTCFQdR9D23YPyWAR5-gEoOfxG1waHnHoyku7USPlqNF*Rmo&new=1)
  > 原标题：三大运营商一月份运营数据公布：中国电信5G用户即将“破亿”转眼间，春节假期已经过完。不少人都回到了工作岗位上，三大运营商也迎来了2021年复工后的首月运营数据报告。和2020年最后一个月的成绩相比，...
- ## [还在观望 M1 Mac?这个网站可以帮助你决定是否入手](http://mp.weixin.qq.com/s?src=11&timestamp=1614211204&ver=2911&signature=rRBL-9NHlV5WruuYQQ2rS0W4nU0PmM8J8rkFbSYwCmsoq5KvY87n8U9hCYmcc53GEhKu-mvjG*fUhZGIX4uRoVvq3gtvpYfWTQKBiaLncV5YuH3z4Lr44j42euYDXnJd&new=1)
+ ## [\[焦点\]比特币重挫超13%，数十万人爆仓，拖累特斯拉股价，但其背后的技术也能帮助物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614214805&ver=2911&signature=nfKd-bBQD9I87oectryslhDPIt6hnNGnAcNKF8WGLjFQJU5PfzHYzO9VT3t16ShWPbnb-mRQ0Wq1rVhpaBYz*jDJU3vpmyfr5FmYCEVgRQMGQXKvH0aUuTIhQoiUjBdy&new=1)
+ > 继2月22日短线暴跌致36万人爆仓后，比特币再次迎来了新一轮的暴跌。据路透社2月23日消息，比特币价格当日大跌，拖累了近日刚透露在比特币领域投资了15亿美元的特斯拉股价，与此同时，也重创了持有特斯拉股票的几...
+ ## [还在观望 M1 Mac?这个网站可以帮助你决定是否入手](http://mp.weixin.qq.com/s?src=11&timestamp=1614214805&ver=2911&signature=rRBL-9NHlV5WruuYQQ2rS0W4nU0PmM8J8rkFbSYwCmsoq5KvY87n8U9hCYmcc53GyZ-OT7PBTbCTGPA*dATXbRQ5xzerEaPdGaBMjVgLnHErvOep67qRQV-nazgkxDLS&new=1)
  > 去年 11 月，苹果正式推出搭载自研芯片 M1 的三款 Mac 产品。M1 芯片采用 ARM 架构而非英特尔的 X86 架构，而目前市场上的主流软件大部分只适配了 X86 架构，因此适配性问题从发布之日起就不可避免。尽管苹果有...
- ## [MWCS 2021|精彩继续](http://mp.weixin.qq.com/s?src=11&timestamp=1614211204&ver=2911&signature=0obbkUnAQ8m8pjzudACIPSaoBfe6sROODg*8Owh1PbvrnmUMO-qzCGf-z*EAxa2BCJWuMjvuZlQuPW93-rMFW**nsVY28RYIPsse-as1E09Efslapn06k*QcqyKYOrCh&new=1)
- > ......现场直击1华为 徐伟忠：中国的5G频谱分配，全球最佳2中兴通讯：筑路数字经济，为行业注入5G之心3新华三 李立：分享了在持续推进“5G+工业互联网”方面的一些思考4瑞斯康达：“云网融合”解决方案5GSMA 合...
- ## [清华大学：人脸识别技术爆出巨大丑闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1614211204&ver=2911&signature=iJpkiAHLOCTnDSo-kirVvSFvwjM4*FLHGfwl5YsQrccJU6ORHN89Ux5SUqOAClXkFkkuWs-LHdJar2UWI*36e-lRBilVqsCQppV0a2dtrwECQTiGYjZkz3HiBoMkV0bp&new=1)
+ ## [清华大学：人脸识别技术爆出巨大丑闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1614214805&ver=2911&signature=iJpkiAHLOCTnDSo-kirVvSFvwjM4*FLHGfwl5YsQrccJU6ORHN89Ux5SUqOAClXkyMCaBVzgQte2D-jQgc--WrxipeXIlWbBsUHK*PoVrNNuYDj3DsG1ZMV9THhyrkO2&new=1)
  > 人脸识别技术，爆出巨大丑闻。刚刚，清华大学的一条重大发现，利用人脸识别技术的漏洞，“ 15分钟解锁19个陌生智能国产手机 ”的事件，惊呆了我们技术圈的小伙伴 。这起事件，如果用嘴简单的语言来形容就是：“ ...
+ ## [MWCS 2021|精彩继续](http://mp.weixin.qq.com/s?src=11&timestamp=1614214805&ver=2911&signature=0obbkUnAQ8m8pjzudACIPSaoBfe6sROODg*8Owh1PbvrnmUMO-qzCGf-z*EAxa2BlPDAuj8kFqdrz3InLrOA5KzKF8qjgqBp3ARXm0ls0IxujB3*B-GXinvkfRt2UMa2&new=1)
+ > ......现场直击1华为 徐伟忠：中国的5G频谱分配，全球最佳2中兴通讯：筑路数字经济，为行业注入5G之心3新华三 李立：分享了在持续推进“5G+工业互联网”方面的一些思考4瑞斯康达：“云网融合”解决方案5GSMA 合...
 # IT 技术 
+ ## [构建前瞻性应用架构的优秀实践](http://developer.51cto.com/art/202102/647035.htm)
+ > 构建前瞻性应用架构的优秀实践
  ## [如何在Windows上运行Apache Kafka？](http://os.51cto.com/art/202102/647034.htm)
  > 如何在Windows上运行Apache Kafka？
  ## [7种代码工具，帮助您提高团队工作效率](http://developer.51cto.com/art/202102/646870.htm)
@@ -29,12 +31,14 @@ categories: IT NEWS
  > 小心这个把我坑惨的MySQL双引号！
  ## [从微信小程序到鸿蒙JS开发-页面路由](http://developer.51cto.com/art/202102/646818.htm)
  > 从微信小程序到鸿蒙JS开发-页面路由
- ## [运维“冷”思考：一文聊聊高可用的“异地多活”架构设计](http://news.51cto.com/art/202102/646943.htm)
- > 运维“冷”思考：一文聊聊高可用的“异地多活”架构设计
- ## [【127】-以太网背景介绍](http://fellow.51cto.com/art/202101/642229.htm?qd=51ctojrzd)
- > 【127】-以太网背景介绍
+ ## [Python公开课视频课程-基础篇（无讲师答疑）](http://fellow.51cto.com/art/202101/641790.htm?qd=51ctojrzd)
+ > Python公开课视频课程-基础篇（无讲师答疑）
+ ## [【死磕JVM】JVM快速入门之前戏篇](http://developer.51cto.com/art/202102/647081.htm)
+ > Java是一门可以跨平台的语言，但是Java本身是不可以实现跨平台的，需要JVM实现跨平台。javac编译好后的clas
  ## [SonarQube代码扫描与代码基线关联](http://os.51cto.com/art/202102/647080.htm)
  > 本篇给大家介绍SonarQube代码扫描与代码基线的相关知识，代码扫描先安装好SonarQube服务器， 然后安装Sonar
+ ## [面试官：JavaScript的数据类型你了解多少？](http://developer.51cto.com/art/202102/647079.htm)
+ > 作为JavaScript的入门知识点，Js数据类型在整个JavaScript的学习过程中其实尤为重要。最常见的是边界数据类
  ## [安卓12颜值飙升！安卓12带来全新壁纸主题系统](http://mobile.51cto.com/android-647078.htm)
  > 近日，Google已经向Pixel设备发布了最新一代安卓系统安卓12的第一个开发者预览版。现在根据Android Authori
  ## [用着更爽！Windows10新版将带来多任务重大改进](http://os.51cto.com/art/202102/647077.htm)
@@ -59,16 +63,16 @@ categories: IT NEWS
  > 极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车
  ## [Markdown语法图文全面详解(10分钟学会)](https://blog.csdn.net/u014061630/article/details/81359144)
  > Markdown语法图文全面详解(10分钟学会)
- ## [Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战](https://blog.csdn.net/songlh1234/article/details/84317617)
- > Python+unittest+requests 接口自动化测试框架搭建 完整的框架搭建过程 实战
- ## [【Unity3D从入门到进阶】文章目录及设置这个专栏的初衷](https://blog.csdn.net/q764424567/article/details/106081465)
- > 
+ ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
+ > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
+ ## [2020 年你读了哪些觉得比较好的计算机书籍？](https://blog.csdn.net/epubit17/article/details/109751478)
+ > 2020 年你读了哪些觉得比较好的计算机书籍？
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Jetson Nano 从入门到实战（案例：Opencv配置、人脸检测、二维码检测）](https://blog.csdn.net/qianbin3200896/article/details/103760640)
- > Jetson Nano 从入门到实战（案例：Opencv配置、人脸检测、二维码检测）
- ## [微信小程序 谈谈在大学初次写项目的体验](https://blog.csdn.net/qq_41464123/article/details/104982019)
- > 
+ ## [期刊第11期 | 愿意连上7天的班拿加班费吗？](https://blog.csdn.net/u012846795/article/details/113623079)
+ > 期刊第11期 | 愿意连上7天的班拿加班费吗？
+ ## [R语言用Garch模型和回归模型对股票价格分析](https://blog.csdn.net/qq_19600291/article/details/110931539)
+ > R语言用Garch模型和回归模型对股票价格分析
 # 人工智能 
  ## [散户暴动，空头投降，下一波会不会是比特币？](https://blog.csdn.net/BEYONDMA/article/details/113434567)
  > 散户暴动，空头投降，下一波会不会是比特币？
