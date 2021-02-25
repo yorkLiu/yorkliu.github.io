@@ -1,62 +1,70 @@
 ---
 title: 2021-02-25 IT News
 copyright: true
-date: 2021-02-25 10:08:01
+date: 2021-02-25 12:10:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [反超移动!中国电信5G用户即将“破亿”](http://mp.weixin.qq.com/s?src=11&timestamp=1614218405&ver=2911&signature=a7E1xd-qJe7CsVl5x05giEzViiFJzcqgWvdpOYiCbdvyfx2ewrmQeFM979a4FkPnVwUx2vBQ9j68wvOSXsZajpQQIey5YbtsZzhahhwhXd8C37NOUorjD9tZw4JT2od5&new=1)
- > 原标题：三大运营商一月份运营数据公布：中国电信5G用户即将“破亿”转眼间，春节假期已经过完。不少人都回到了工作岗位上，三大运营商也迎来了2021年复工后的首月运营数据报告。和2020年最后一个月的成绩相比，...
- ## [MWCS 2021|精彩继续](http://mp.weixin.qq.com/s?src=11&timestamp=1614218405&ver=2911&signature=0obbkUnAQ8m8pjzudACIPSaoBfe6sROODg*8Owh1PbvrnmUMO-qzCGf-z*EAxa2BFwNLZpIUNWK9VFIgDjKPfJXhqr4iD20YYzD0wra3LBcuMRJGX1h9nbrOClltfDSC&new=1)
- > ......现场直击1华为 徐伟忠：中国的5G频谱分配，全球最佳2中兴通讯：筑路数字经济，为行业注入5G之心3新华三 李立：分享了在持续推进“5G+工业互联网”方面的一些思考4瑞斯康达：“云网融合”解决方案5GSMA 合...
- ## [清华大学：人脸识别技术爆出巨大丑闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1614218405&ver=2911&signature=iJpkiAHLOCTnDSo-kirVvSFvwjM4*FLHGfwl5YsQrccJU6ORHN89Ux5SUqOAClXkmP0XquVZAtQ42qdHsNXx4iD3H4n*RDaaNcX94DBW55SBNKSPDZ8y5x-NGQuyjKCs&new=1)
- > 人脸识别技术，爆出巨大丑闻。刚刚，清华大学的一条重大发现，利用人脸识别技术的漏洞，“ 15分钟解锁19个陌生智能国产手机 ”的事件，惊呆了我们技术圈的小伙伴 。这起事件，如果用嘴简单的语言来形容就是：“ ...
- ## [\[焦点\]比特币重挫超13%，数十万人爆仓，拖累特斯拉股价，但其背后的技术也能帮助物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614218405&ver=2911&signature=nfKd-bBQD9I87oectryslhDPIt6hnNGnAcNKF8WGLjFQJU5PfzHYzO9VT3t16ShWNRVRCz-J7WgRxCNj26y3t6hs*8Xevj*3SVEHZLoOjTuDI8W3D1B0wZ070WIreOuL&new=1)
- > 继2月22日短线暴跌致36万人爆仓后，比特币再次迎来了新一轮的暴跌。据路透社2月23日消息，比特币价格当日大跌，拖累了近日刚透露在比特币领域投资了15亿美元的特斯拉股价，与此同时，也重创了持有特斯拉股票的几...
- ## [长飞公司发布“X贝”光纤品牌 为国内光纤光缆企业首次](http://mp.weixin.qq.com/s?src=11&timestamp=1614218405&ver=2911&signature=NBfHfDF0uNQxN1-ETQ6VeaK42GaaLJM*CS2lnD69jhQD*xlYhCyFwbsu41dyHGYvD25IGsioMoPM9VW-5JZeKeDqbGuM0FMHfdJZ9QoNeD0uTsASlXSVda6KGXdJgGnN&new=1)
+ ## [长飞公司发布“X贝”光纤品牌 为国内光纤光缆企业首次](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=NBfHfDF0uNQxN1-ETQ6VeaK42GaaLJM*CS2lnD69jhRg8sd6CJDVT7KOI431ldg-sS5Ge7mc2RvkTcz7nO8Zlcbpnc81ZgHKklcYqzV1*wgMQYjIbLmutTp6AWQoKeUd&new=1)
  > 2月24日，在2021 MWC上海大会期间，长飞光纤光缆股份有限公司（以下简称“长飞公司”，股票代码：601869.SH、06869.HK）在上海嘉里酒店隆重举行“X贝”光纤品牌发布会，这是国内光纤光缆企业首次发布光纤品牌。...
- ## [还在观望 M1 Mac?这个网站可以帮助你决定是否入手](http://mp.weixin.qq.com/s?src=11&timestamp=1614218405&ver=2911&signature=rRBL-9NHlV5WruuYQQ2rS0W4nU0PmM8J8rkFbSYwCmsoq5KvY87n8U9hCYmcc53GyUHtOoXu4RdFKl64Xw1RCfuSpC4m55NiLIBfG8VWohiAdYX0coR5W6I4YtmMg2nl&new=1)
+ ## [随着攻击载体的多样化，与勒索相关的DDoS攻击不断上升](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=4kWfHs9Mu3E7Fj7huTCYW7zIpJJ5IhMblx7WNn*N89zESB3nI71n3fbdmGB-nq8w7mdsFK-kOB9gEtkC8S*GnJDd-4-aFqemJbh-O50XsZvezfxSylW8TWSFPbUOBwz9&new=1)
+ > E安全2月24日讯 近日，据《Daily Swig》对一系列安全供应商的调查显示，去年，随着攻击载体的复杂性和多样性趋势，与勒索相关的DDoS攻击不断上升。DDoS，即分布式拒绝服务攻击，其类型主要包括容量攻击、基于协...
+ ## [大疆将在3月发布新品；滴滴出行或计划进入西欧市场；理想汽车计划2023年推纯电动车|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=f1uL2vzg6eKNOJLk8L4kORjxkd-vIpbRWL3dOjUlBcc*v3T1bYnCj6CDqPT5Xtd7RNdoNsUYDRg9cXlrubxwvRFvNmWCk8amtS8i34mCq9PLHVEEfbkNm4HDz033zd4U&new=1)
+ > 图 / DJIHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【大疆将在3月2日发布新品】大疆将在3月2日22点发布新品。据大疆表示，这次发布的将是“全新物种，重构飞行想象”。此外，大疆3月份计划...
+ ## [金属/碳纤维3D打印厂商Markforged宣布上市：营收4.5亿，估值135亿，募资27亿](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=Xmq97jLJk5Tcfa*wdkis3GeWTdS3TXzPE0IH6ZRSjxAx7IVZ1GkQMyiVhbxmMPcDpFR55SL9Y6jW8LjBzN4L2q5arzVF1ghl0PgT0fHiC0g8eyPlk-rNGGba61gRMHr1&new=1)
+ > 南极熊导读：股市大涨后，美国3D打印公司的资本运作越演越烈，不断开启新的并购或IPO上市，收割资金和其他优秀的公司。2021年2月25日，南极熊获悉，金属和碳纤维3D打印厂商Markforged，在美东时间2月24日宣布借...
+ ## [突发!滴滴崩溃；苹果因强制“开发者使用苹果登录”遭反垄断调查；gRPC 1.36.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=RxJwcdqNjohQFEzrht3aywSWcpky7WqHOCKIyJkeJK6bCsh5*OHXUFFKkmVpGC-bC-K-bT2N4pMOw3N-BFi-ktxgtJb1Bb3EaxjVMHJ*K8-IHqmVA6mSVDBn5boVOxYD&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [\[焦点\]比特币重挫超13%，数十万人爆仓，拖累特斯拉股价，但其背后的技术也能帮助物联网发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=nfKd-bBQD9I87oectryslhDPIt6hnNGnAcNKF8WGLjGx-z*NFbd1R2wDhiz6tX7rrvF*7b*dnQZh5O0ESB0pykAIBx3VXPaFvhwMISBE7ktkFPtkREcY6j3iZQuNjjdU&new=1)
+ > 继2月22日短线暴跌致36万人爆仓后，比特币再次迎来了新一轮的暴跌。据路透社2月23日消息，比特币价格当日大跌，拖累了近日刚透露在比特币领域投资了15亿美元的特斯拉股价，与此同时，也重创了持有特斯拉股票的几...
+ ## [反超移动!中国电信5G用户即将“破亿”](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=a7E1xd-qJe7CsVl5x05giEzViiFJzcqgWvdpOYiCbduy-aX3IFLUQJXJX3hJMVjXK4Y5qz8eJ8hX27jfUI9R1t20aFCz85bHdGtvvrckGHEu3Y078Rk5j04oUk1iYaEg&new=1)
+ > 原标题：三大运营商一月份运营数据公布：中国电信5G用户即将“破亿”转眼间，春节假期已经过完。不少人都回到了工作岗位上，三大运营商也迎来了2021年复工后的首月运营数据报告。和2020年最后一个月的成绩相比，...
+ ## [清华大学：人脸识别技术爆出巨大丑闻!](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=iJpkiAHLOCTnDSo-kirVvSFvwjM4*FLHGfwl5YsQrcdULr0d-4d7yTYD1QIQlqXBnSCDajRUX*aTRBF2OeLVvd-RgMq96cp1nnsMiQ-YIMYZAaXFX6yWJ41kndWjGmut&new=1)
+ > 人脸识别技术，爆出巨大丑闻。刚刚，清华大学的一条重大发现，利用人脸识别技术的漏洞，“ 15分钟解锁19个陌生智能国产手机 ”的事件，惊呆了我们技术圈的小伙伴 。这起事件，如果用嘴简单的语言来形容就是：“ ...
+ ## [MWCS 2021|精彩继续](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=0obbkUnAQ8m8pjzudACIPSaoBfe6sROODg*8Owh1Pbus9gkcvd91lWlXuLfaqx5i5r0nypXy3rxAF6p7IYd8ngjzF6hegKv4k*3XzWBmAvbBd3UCpERYbqg9ppp797nK&new=1)
+ > ......现场直击1华为 徐伟忠：中国的5G频谱分配，全球最佳2中兴通讯：筑路数字经济，为行业注入5G之心3新华三 李立：分享了在持续推进“5G+工业互联网”方面的一些思考4瑞斯康达：“云网融合”解决方案5GSMA 合...
+ ## [还在观望 M1 Mac?这个网站可以帮助你决定是否入手](http://mp.weixin.qq.com/s?src=11&timestamp=1614225604&ver=2911&signature=rRBL-9NHlV5WruuYQQ2rS0W4nU0PmM8J8rkFbSYwCmtDIii2AVhSQr6bOmQLT5gZocteHUyAywbwvsTk5w9EpwcTS7iJ6yTJc3DmWo5rzIoAAcbtTwKJ1027SU1AqC4*&new=1)
  > 去年 11 月，苹果正式推出搭载自研芯片 M1 的三款 Mac 产品。M1 芯片采用 ARM 架构而非英特尔的 X86 架构，而目前市场上的主流软件大部分只适配了 X86 架构，因此适配性问题从发布之日起就不可避免。尽管苹果有...
 # IT 技术 
+ ## [为什么CTO、技术总监、架构师都不写代码，还这么牛？](http://news.51cto.com/art/202102/647130.htm)
+ > 为什么CTO、技术总监、架构师都不写代码，还这么牛？
  ## [构建前瞻性应用架构的优秀实践](http://developer.51cto.com/art/202102/647035.htm)
  > 构建前瞻性应用架构的优秀实践
  ## [终于有人把 "高可用" 说清楚了！](http://developer.51cto.com/art/202102/647086.htm)
  > 终于有人把 &quot;高可用&quot; 说清楚了！
  ## [如何在Windows上运行Apache Kafka？](http://os.51cto.com/art/202102/647034.htm)
  > 如何在Windows上运行Apache Kafka？
- ## [7种代码工具，帮助您提高团队工作效率](http://developer.51cto.com/art/202102/646870.htm)
- > 7种代码工具，帮助您提高团队工作效率
- ## [在线等，Kafka如果丢了消息怎么办？](http://developer.51cto.com/art/202102/646916.htm)
- > 在线等，Kafka如果丢了消息怎么办？
- ## [人工智能和机器学习在金融科技领域的应用和发展](http://ai.51cto.com/art/202102/646869.htm)
- > 人工智能和机器学习在金融科技领域的应用和发展
- ## [小心这个把我坑惨的MySQL双引号！](http://database.51cto.com/art/202102/646925.htm)
- > 小心这个把我坑惨的MySQL双引号！
- ## [MySQL数据库基础入门培训课程_MySQL数据库基础入门与项目实战01](http://fellow.51cto.com/art/202012/635282.htm?qd=51ctojrzd)
- > MySQL数据库基础入门培训课程_MySQL数据库基础入门与项目实战01
- ## [区块链与数字货币的当代意义](http://blockchain.51cto.com/art/202102/647094.htm)
- > 自从区块链的概念在2008年被中本聪提出来以后，一直被大力的推荐，民间也涌现出越来越多的区块链布道者，那
- ## [数字化转型将如何影响2021年的商业房地产市场](http://www.cioage.com/art/202102/647092.htm)
- > 在《德勤2021年商业房地产展望》报告中，数据显示新冠肺炎疫情对商业房地产业产生了系统性的影响。
- ## [项目管理工具（3）：关键路径法原](http://fellow.51cto.com/art/202102/647037.htm)
- > 学会关键路径法的原理和使用方法，并能在实际中使用
- ## [云计算是否适合你的商业模式](http://cloud.51cto.com/art/202102/647090.htm)
- > 云计算描述了一个基于互联网协议，为IT服务的新补充，消费，和交付模式，它通常涉及到提供动态可扩展性和虚
- ## [5G 高中低频段缺一不可](http://network.51cto.com/art/202102/647087.htm)
- > 对于绝大多数用户而言，几乎都在使用中频段的 5G 网络，不过 5G 网络同样需要低频段与高频段来解决覆盖、容
- ## [Windows100新预览版21322推送：此电脑一级目录终于移除3D对象文件夹](http://os.51cto.com/art/202102/647085.htm)
- > 今晨，微软面向Dev通道的Insider会员推送Windows 10新预览版，操作系统版本号Build 21322。
- ## [Java基础入门之异常、异常分类、异常防护解析](http://developer.51cto.com/art/202102/647083.htm)
- > 这篇文章我们主要介绍Java基础入门之异常、异常分类、异常防护知识，一起来学习下吧!
- ## [关于现代包管理器的深度思考-为什么现在我更推荐 pnpm 而不是 npm/yarn?](http://developer.51cto.com/art/202102/647082.htm)
- > 这篇文章给大家分享一个业内一款出色的包管理器――pnpm。目前 GitHub 已经有 star 9.8k，现在已经相对成熟
- ## [【死磕JVM】JVM快速入门之前戏篇](http://developer.51cto.com/art/202102/647081.htm)
- > Java是一门可以跨平台的语言，但是Java本身是不可以实现跨平台的，需要JVM实现跨平台。javac编译好后的clas
- ## [SonarQube代码扫描与代码基线关联](http://os.51cto.com/art/202102/647080.htm)
- > 本篇给大家介绍SonarQube代码扫描与代码基线的相关知识，代码扫描先安装好SonarQube服务器， 然后安装Sonar
- ## [27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构](https://blog.csdn.net/weixin_39787242/article/details/113994078)
- > 27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构
+ ## [硅谷大厂也看「名校学历」？Reddit小哥灵魂拷问引起热议](http://news.51cto.com/art/202102/646948.htm)
+ > 硅谷大厂也看「名校学历」？Reddit小哥灵魂拷问引起热议
+ ## [嵌入式开发小白跟连老师学鸿蒙设备开发之Hello World](http://developer.51cto.com/art/202102/647003.htm)
+ > 嵌入式开发小白跟连老师学鸿蒙设备开发之Hello World
+ ## [如何正确且快速构建Docker优质的安全镜像](http://developer.51cto.com/art/202102/646837.htm)
+ > 如何正确且快速构建Docker优质的安全镜像
+ ## [思科网络工程师--从零开始学CCNA实验视频课程【送PT 7.2】](http://fellow.51cto.com/art/202101/638403.htm?qd=51ctojrzd)
+ > 思科网络工程师--从零开始学CCNA实验视频课程【送PT 7.2】
+ ## [如何为企业业务选择备份解决方案?](http://stor.51cto.com/art/202102/647123.htm)
+ > 为了为运营的业务而选择合适的备份解决方案，企业需要考虑多种因素。一些行业专家对此进行了探讨和分析，并
+ ## [2021年中国医疗人工智能产业全景图谱](http://ai.51cto.com/art/202102/647120.htm)
+ > 医疗人工智能产业上游主要是为行业提供基础技术支持的行业，如医疗数据挖掘、算法等，典型企业有碳云智能、
+ ## [GSMA刘鸿：5G专网谁来建？交给运营商来完成](http://network.51cto.com/art/202102/647119.htm)
+ > 随着5G商用的深入推进，5G专网需求迅速爆发，关于5G专网的建设模式、建设主体等问题，也成为业界讨论的热点
+ ## [2021年还要不要学编程？看完这20年的薪水曲线再决定](http://news.51cto.com/art/202102/647121.htm)
+ > 早在2000年代初期，那时的技术和软件还被称为「信息技术」（IT）或「信息和通信技术」(ICT)，开发人员仍被
+ ## [克服云安全挑战的5种方法](http://cloud.51cto.com/art/202102/647116.htm)
+ > 随着云计算服务支出比以往任何时候都要多，全球主要的公共云提供商之间争夺市场份额的斗争日益激烈。他们采
+ ## [物联网安全需要从一种保护性手段发展到保护他人免受伤害手段](http://iot.51cto.com/art/202102/647111.htm)
+ > 在物联网时代，外部效应日益严重，这就是为什么我们呼吁把安全从作为一种保护性手段转变为保护他人免受伤害
+ ## [人工智能如何改变制造业和工业物联网？](http://ai.51cto.com/art/202102/647110.htm)
+ > 许多组织在其工业物联网（IIoT）应用中采用了各种AI算法来做出实时决策。
+ ## [实用的运营工作方法论，让你掌握基础核心能力](http://news.51cto.com/art/202102/647113.htm)
+ > 运营的方法有很多种，本文将与大家聊聊关于运营的一些方法论，这些基础的方法会伴随着你整个运营生涯，可以
+ ## [人工智能在登陆火星的“毅力号”火星探测器中的应用](http://ai.51cto.com/art/202102/647106.htm)
+ > 在2月18日成功登陆火星之后，美国宇航局(NASA)发射的“毅力号”火星探测器已经从多种机载人工智能系统中获
+ ## [人工智能奇点与人类未来](http://ai.51cto.com/art/202102/647107.htm)
+ > “奇点”是描述人工智能（AI）及其社会影响未来前景的重要概念。推动AI进一步发展而趋近奇点，将AI奇点
+ ## [拼多多为什么越来越受资本青睐？](https://blog.csdn.net/weixin_39787242/article/details/114024260)
+ > 拼多多为什么越来越受资本青睐？
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -85,38 +93,13 @@ categories: IT NEWS
  > 期刊第11期 | 愿意连上7天的班拿加班费吗？
  ## [R语言用Garch模型和回归模型对股票价格分析](https://blog.csdn.net/qq_19600291/article/details/110931539)
  > R语言用Garch模型和回归模型对股票价格分析
-# 人工智能 
- ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
- > 编程方式建视频——GitHub 热点速览 v.21.07
- ## [Linux 内核和 Windows 内核有什么区别？](https://blog.csdn.net/qq_34827674/article/details/113876849)
- > Linux 内核和 Windows 内核有什么区别？
- ## [批评代码而不是人！15年程序员的职场箴言](https://blog.csdn.net/csdnnews/article/details/113931092)
- > 批评代码而不是人！15年程序员的职场箴言
- ## [27岁华裔青年成疫情预测界新星](https://blog.csdn.net/weixin_39787030/article/details/113948894)
- > 27岁华裔青年成疫情预测界新星
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [放弃FastJson！一篇就够，Jackson的功能原来如此之牛（万字干货）](https://blog.csdn.net/wo541075754/article/details/114006957)
- > 
- ## [一个拖拽卡顿问题引发出对setTimeOut的探索](https://blog.csdn.net/mollyGO/article/details/114008483)
- > 一个拖拽卡顿问题引发出对setTimeOut的探索
- ## [使用 Spring 中的 @Lazy 注解](https://blog.csdn.net/universsky2015/article/details/114015047)
- > 使用 Spring 中的 @Lazy 注解
- ## [python爬取分析超级大乐透历史开奖数据](https://blog.csdn.net/xucan_123/article/details/113943714)
- > python爬取分析超级大乐透历史开奖数据
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [2020年AI竞赛获奖方案复盘系列(一)  目标检测竞赛trick-华录杯违法广告检测比赛](https://blog.csdn.net/weixin_36714575/article/details/113971782)
- > 2020年AI竞赛获奖方案复盘系列(一)  目标检测竞赛trick-华录杯违法广告检测比赛
- ## [刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？](https://blog.csdn.net/a419240016/article/details/113931146)
- > 刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？
- ## [10年程序员生涯读了200多本编程书，挑出一些精华分享给大家](https://blog.csdn.net/zhiguigu/article/details/113942856)
- > 10年程序员生涯读了200多本编程书，挑出一些精华分享给大家
- ## [Python实现接口参数拼接及加密](https://blog.csdn.net/qq_44848764/article/details/113986435)
- > Python实现接口参数拼接及加密
- ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
- > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
+ ## [什么是数据产品经理](http://www.chanpin100.com/article/113634)
+ > 什么是数据产品经理？其实在众多的公司当中，虽然大家的岗位都是数据产品经理，但是工作内容还是有差别的，下边请看具体介绍。
+ ## [GrowingIO助力全球百强企业安盛天平 线上业务效率倍增](http://www.chanpin100.com/article/113610)
+ > 创立于 1816 年、2020年位列“全球五百强”第 34 位的安盛集团，在全球拥有超过一亿的用户。安盛天平作为其在华全资子公司，目前已在全国超过 100 个城市设置分公司，为广大客户提供及时、便捷、值得信赖的保险服务。
+ ## [如何成为一名合格的数据产品经理](http://www.chanpin100.com/article/113633)
+ > 每个公司都有一个产品经理。根据定义，产品经理负责协调各方需求，选择业务模式，根据公司产品的生命周期进行协调、开发、营销和运营。那么，如何成为一名合格的数据产品经理呢？请看如下内容。
  ## [【产品经理免费公开课】如何建立产品壁垒](http://www.chanpin100.com/article/113632)
  > 想必各位产品经理对产品壁垒对不陌生吧！产品壁垒其实就是产品的护城河，也可以说是这个产品在这个行业中的铠甲，让其他的竞品机构没有那么快可以伤到你。本期公开课就来教教大家如何建立产品壁垒！
  ## [新手如何设计App的图标Logo？](http://www.chanpin100.com/article/113609)
@@ -151,11 +134,5 @@ categories: IT NEWS
  > 策划一场热点营销只需要做好4个步骤教培企业就可以借助热点轻松撬动品牌传播力，做出一场高转化、高精准的引流直播​，为品牌增加曝光度，为平台增加活跃度了。
  ## [什么样的人比较适合做产品经理？](http://www.chanpin100.com/article/113616)
  > 什么样的人比较适合做产品经理呢？经验其实并不那么重要，重要的是沟通，学习能力，同理心，行动能力。这几个基本素质是需要高于技能能力的，下边请看具体介绍。
- ## [产品经理应该具备的五点特质 你身上都有哪些？](http://www.chanpin100.com/article/113617)
- > 随着互联网日新月异地发展，现在产品经理这个行业已经受到越来越多人的追捧。那么对于一名产品经理来说，都应该具备哪些特质呢？本文给大家聊一聊产品经理应具备的五种特质，看看你身上有哪些。
- ## [教育企业3步撬动流量 打造高质量引流直播课堂！](http://www.chanpin100.com/article/113605)
- > 一场成功的引流直播并不难，只需要把握直播前-中-后每一个环节，围绕引流的目标做设计，将机构的亮点展示出来，给潜在用户带来价值感。
- ## [2021年教培机构如何抓住视频号的流量？](http://www.chanpin100.com/article/113604)
- > 近几年，从微信公众号的营销到短视频带货风靡，无数商家或个人在流量的时代挣得盆满钵满。多数的传统行业也敏锐地抓住互联网的流量成就了逆袭之路。做好视频号运营，为自己的线上平台引流、内容变现做好辅助！
 
     
