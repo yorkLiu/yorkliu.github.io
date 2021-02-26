@@ -1,24 +1,26 @@
 ---
 title: 2021-02-26 IT News
 copyright: true
-date: 2021-02-26 08:03:41
+date: 2021-02-26 09:09:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [韩国5G为何率先“点亮未来”?LG U+前CEO李相哲详解](http://mp.weixin.qq.com/s?src=11&timestamp=1614297604&ver=2913&signature=KG9StjBuCgKQ3l98hpzfwYoD220*wM1KPQxiVCQOINQqYeKvbj06g5bfSBBS3bAKej9xQGFqMA4FY*vmqnIdn1lSUf5Xl0h3qR8UeeO7spYk6F6*kSMeJ4dlHGHFZMiV&new=1)
- > 2月23日开幕的2021MWC上海展，与往年最大的不同是，首次以线上、线下混合模式举办，所以有不少无法来中国的海外运营商代表，通过线上采访，分享了各自5G实践和理解。本届大会5G依然是主旋律，诸多行业和业务因为...
- ## [比特币疯魔估值：从0到600万美元，值吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1614297604&ver=2913&signature=JImKOowRgk0ZmbHjcZbYe9*Ao*dSC-ygz2-GXIHsq35qzxCCBxm9fYoS0WrT7GC-UAA0kmwVAkkg3XJ-2ZzpVBXdvUBtdpQL1afSojVQw7KlSqvMz5qU38em8orbk8Uv&new=1)
- > 刚刚冲上万亿美元市值的比特币，又走出了一波震荡行情。2月22日下午1点起，比特币价格从高点58000美元上方一路下挫，2月23日晚最低下探至45000美元左右，跌幅超过20%，市值一度蒸发超过2000亿美元。 截至2021年2...
- ## [深切缅怀为脱贫攻坚献出宝贵生命的电信人!](http://mp.weixin.qq.com/s?src=11&timestamp=1614297604&ver=2913&signature=skoDPT4g6WCEnX0flQ*O0H7sn5WvcGMbMPvkoyo4yYwgCBhZ39UUllz3qKdnQ21zBb2JKXJtfTKIy3E29VHevJJZon*oGvW1gLmyT51K0SHdhepi5KykzI0WAWYEXAEx&new=1)
+ ## [深切缅怀为脱贫攻坚献出宝贵生命的电信人!](http://mp.weixin.qq.com/s?src=11&timestamp=1614301204&ver=2913&signature=skoDPT4g6WCEnX0flQ*O0H7sn5WvcGMbMPvkoyo4yYzejb7mhqVI*asEpthk6UsqdPXBwK38oMnhCFPrGNl7cDpZnwZknyxFKwpcHVd9FGn5geM-pHsCHC1GO5Fkoqq2&new=1)
  > 2月25日上午，全国脱贫攻坚总结表彰大会在北京人民大会堂隆重举行。大会对全国脱贫攻坚先进个人、先进集体进行了表彰。2015年以来，在工信部等部委的领导下，中国电信、中国移动、中国联通、中国铁塔等信息通信...
- ## [IPO观察：四年亏损6亿、在手现金缩水9成，青云科技拿什么挑战阿里、腾讯、华为?](http://mp.weixin.qq.com/s?src=11&timestamp=1614297604&ver=2913&signature=NmTlu9pDJhQuh5yist7APfS*Cr91MTIyOaggjG1TdTvDEuy0vre4cQ1UKbFDofmyF0pnY8r7iDQbslfkp2Ns0vSPg3ehmWRRjQAledAy9fMIFDd6P9RhNzzqUJW-hBgZ&new=1)
- > 被市场冠名“混合云先行者”的青云科技，即将登陆科创板资本市场。2021年2月23日，作为兼具公有云、私有云业务的青云科技开启了IPO招股环节，公司将于2月26日进入路演询价阶段，初步预计3月5日即将亮相科创板。...
- ## [MWC上海展：这些物联网元素值得注意!](http://mp.weixin.qq.com/s?src=11&timestamp=1614297604&ver=2913&signature=QKnT*taPV4tqSfElQqFSR95YcUMzlxJoNeWucVVBMhj3k2-ZTh8Mnapqbxuo67rjwrIe1y4PzFTZ1L0UvqUiJVVJQg8dCd*mGtQgJv4cMHRTN4KPqHy93us-5kdxRHZf&new=1)
+ ## [比特币疯魔估值：从0到600万美元，值吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1614301204&ver=2913&signature=JImKOowRgk0ZmbHjcZbYe9*Ao*dSC-ygz2-GXIHsq372fD30P0ALhVV-7GCrW5QdNtFGn2xWfyNCCc9cUrwJhcfSp3FbC6-w0D*1V1A*8BR1NH8o2eSxcujoqqazOJK2&new=1)
+ > 刚刚冲上万亿美元市值的比特币，又走出了一波震荡行情。2月22日下午1点起，比特币价格从高点58000美元上方一路下挫，2月23日晚最低下探至45000美元左右，跌幅超过20%，市值一度蒸发超过2000亿美元。 截至2021年2...
+ ## [MWC上海展：这些物联网元素值得注意!](http://mp.weixin.qq.com/s?src=11&timestamp=1614301204&ver=2913&signature=QKnT*taPV4tqSfElQqFSR95YcUMzlxJoNeWucVVBMhj2k2jeKU-aggTtfIGP2qAdeqz8wzk8hzUOKAAc5FBr4V19Ve2txpwSK0ogAkZjKeE2uDKn0LOi28tPyLlMIcnN&new=1)
  > 2月23日-25日，2021MWC上海展正式举办，以「和合共生」为主题的本次展会，重点展示5G、物联网、智能家居、人工智能、智能出行等新技术突破和产业生态。图片来自MWC上海展官方以下是OFweek君为您整理的一些值得注...
+ ## [韩国5G为何率先“点亮未来”?LG U+前CEO李相哲详解](http://mp.weixin.qq.com/s?src=11&timestamp=1614301204&ver=2913&signature=KG9StjBuCgKQ3l98hpzfwYoD220*wM1KPQxiVCQOINSrw1U5Lg5hRT5zEajm--LIne46SQZyXY3fGf0cqWq77c3rHqJ8lQzD*BXZ7CKL0OVnE*t355F45Hr4bHY7-cZ2&new=1)
+ > 2月23日开幕的2021MWC上海展，与往年最大的不同是，首次以线上、线下混合模式举办，所以有不少无法来中国的海外运营商代表，通过线上采访，分享了各自5G实践和理解。本届大会5G依然是主旋律，诸多行业和业务因为...
+ ## [IPO观察：四年亏损6亿、在手现金缩水9成，青云科技拿什么挑战阿里、腾讯、华为?](http://mp.weixin.qq.com/s?src=11&timestamp=1614301204&ver=2913&signature=NmTlu9pDJhQuh5yist7APfS*Cr91MTIyOaggjG1TdTut1GXRX4dA*KxtySoDXv9LnbJs221-KBtmqshEQymm91zkIgokJiZQVtyUy2vIQZjtRnNJ5wlt1wDP2JnFSHtB&new=1)
+ > 被市场冠名“混合云先行者”的青云科技，即将登陆科创板资本市场。2021年2月23日，作为兼具公有云、私有云业务的青云科技开启了IPO招股环节，公司将于2月26日进入路演询价阶段，初步预计3月5日即将亮相科创板。...
 # IT 技术 
  ## [吊打MySQL，MariaDB到底强在哪？](http://database.51cto.com/art/202102/647279.htm)
  > 吊打MySQL，MariaDB到底强在哪？
+ ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
+ > 值得推荐的七大流行Web开发技术栈
  ## [什么是熄灯数据中心？可能在新应用和边缘采用](http://server.51cto.com/Datacenter-647206.htm)
  > 什么是熄灯数据中心？可能在新应用和边缘采用
  ## [为什么CTO、技术总监、架构师都不写代码，还这么牛？](http://news.51cto.com/art/202102/647130.htm)
@@ -29,10 +31,14 @@ categories: IT NEWS
  > 终于有人把 &quot;高可用&quot; 说清楚了！
  ## [人工智能在登陆火星的“毅力号”火星探测器中的应用](http://ai.51cto.com/art/202102/647106.htm)
  > 人工智能在登陆火星的“毅力号”火星探测器中的应用
- ## [如何在Windows上运行Apache Kafka？](http://os.51cto.com/art/202102/647034.htm)
- > 如何在Windows上运行Apache Kafka？
- ## [Oracle数据库补丁管理及实战_Oracle视频教程_基础深入与核心技术07](http://fellow.51cto.com/art/202012/636947.htm?qd=51ctojrzd)
- > Oracle数据库补丁管理及实战_Oracle视频教程_基础深入与核心技术07
+ ## [大公司Java面试题解析视频课程](http://fellow.51cto.com/art/202101/638494.htm?qd=51ctojrzd)
+ > 大公司Java面试题解析视频课程
+ ## [我怎么不知道RocketMQ生产者有这么多用法？](http://cloud.51cto.com/art/202102/647284.htm)
+ > 消息队列RocketMQ版是阿里云基于Apache RocketMQ构建的低延迟、高并发、高可用、高可靠的分布式消息中间件
+ ## [高频考点之六大进程通信机制](http://os.51cto.com/art/202102/647283.htm)
+ > 初学操作系统的时候，我就一直懵逼，为啥进程同步与互斥机制里有信号量机制，进程通信里又有信号量机制，然
+ ## [如何面对繁杂的数据需求？](http://bigdata.51cto.com/art/202102/647282.htm)
+ > ，最近有一位数据新人小伙伴伴私聊我：在平时的工作中会面临着大量的数据需求，不仅多，而且杂，请问如何处
  ## [被抛弃的WebDAV，从未有过青春！](http://developer.51cto.com/art/202102/647281.htm)
  > 谁都想定标准，但谁也不想遵循标准，这是人之本性，也是大厂商的纠结之处。随波逐流会失去话语权，搞独立又
  ## [聊聊Git版本控制工具使用说明和规范](http://os.51cto.com/art/202102/647280.htm)
@@ -47,14 +53,8 @@ categories: IT NEWS
  > 今天要分享的是 tcpdump，它是 Linux 系统中特别有用的网络工具，通常用于故障诊断、网络分析，功能非常的
  ## [为什么推荐使用For-Each而不是For循环遍历元素？](http://developer.51cto.com/art/202102/647274.htm)
  > for循环是平时写代码用的最多的，但是之前看《Effective java》，大佬在某些场景写并不推荐。结合着自己之
- ## [常见的初级排序算法，这次全搞懂](http://developer.51cto.com/art/202102/647273.htm)
- > 相信所有的程序员刚开始接触到的算法都会是排序算法，因为排序在对数据处理和计算有这重要的地位，排序算法
- ## [数据分析方法和思维―5w2h](http://bigdata.51cto.com/art/202102/647272.htm)
- > 5W2H分析方法从问题出发，有一套科学完整的分析思路，对造成问题的原因进行推测，并提出相应的解决方案，最
- ## [图解霍夫曼编码，教不会我吃一包辣条](http://developer.51cto.com/art/202102/647271.htm)
- > 今天来给大家普及一下霍夫曼编码（Huffman Coding），一种用于无损数据压缩的熵编码算法，由美国计算机科学
- ## [受黑客攻击影响，《赛博朋克 2077》补丁推迟发布](https://blog.csdn.net/m0_46163918/article/details/114098191)
- > 受黑客攻击影响，《赛博朋克 2077》补丁推迟发布
+ ## [因在公司上不正经网站，我没过试用期…](https://blog.csdn.net/weixin_39787242/article/details/114091979)
+ > 因在公司上不正经网站，我没过试用期…
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
  > 
  ## [CSDN请你吃汤圆啦！](https://blog.csdn.net/csdnsearch/article/details/113998061)
@@ -73,16 +73,16 @@ categories: IT NEWS
  > 极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车
  ## [爱奇艺一程序员用 10 万元“买”了个北京户口](https://blog.csdn.net/csdnsevenn/article/details/114005834)
  > 爱奇艺一程序员用 10 万元“买”了个北京户口
- ## [2018秋招C/C++面试题总结](https://blog.csdn.net/u013457167/article/details/82814413)
- > 2018秋招C/C++面试题总结
- ## [Qt项目架构经验总结](https://blog.csdn.net/feiyangqingyun/article/details/113985170)
- > Qt项目架构经验总结
+ ## [提取视频中的音频——python三行程序搞定](https://blog.csdn.net/qq_34769162/article/details/107910036)
+ > 
+ ## [百度Hydra工具在移动端UI兼容性测试上的高效应用](https://blog.csdn.net/lihui49/article/details/113850822)
+ > 百度Hydra工具在移动端UI兼容性测试上的高效应用
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Java高质量面试总结](https://blog.csdn.net/JewaveOxford/article/details/104727515)
- > 
- ## [vs2019 开始自己的第一个C++程序](https://blog.csdn.net/qq_36556893/article/details/88605617)
- > vs2019 开始自己的第一个C++程序
+ ## [\[记录三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目前端部分完善](https://blog.csdn.net/gitchatxiaomi/article/details/108149927)
+ > \[记录三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目前端部分完善
+ ## [2020学习前端开发有前途吗？（建议收藏）](https://blog.csdn.net/gitchatxiaomi/article/details/108446097)
+ > 2020学习前端开发有前途吗？（建议收藏）
 # 人工智能 
  ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
  > 编程方式建视频——GitHub 热点速览 v.21.07
