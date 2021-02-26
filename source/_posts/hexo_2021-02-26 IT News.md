@@ -1,62 +1,68 @@
 ---
 title: 2021-02-26 IT News
 copyright: true
-date: 2021-02-26 10:08:51
+date: 2021-02-26 12:09:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中科光芯完成新一轮融资 加快5G基站建设及光芯片产能扩充](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=CQ7V3cs24iDkRHocb4A3B5fYNR0ybbyxV0NEUHJsmklqmRLRg1-101p0DQgWiMfOH8IjVLl4FvXdNQemFCaRH4RA1KPSuKFjIPHW12PYTF46JciifWiakE-q7Fjhe*B8&new=1)
+ ## [中科光芯完成新一轮融资 加快5G基站建设及光芯片产能扩充](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=CQ7V3cs24iDkRHocb4A3B5fYNR0ybbyxV0NEUHJsmknG0giWYfjCniMWYaf9IOEskTMkcz6S2jbHY8H3CtvyOL-5H0bkrlXuK9PeF0Jl4l15enPYUv8yhdRmSJAhv9FI&new=1)
  > 新 闻 导 读中科光芯完成新一轮数亿元人民币融资，君联资本领投，厦门建发集团、复星集团参与投资。中科光芯将扩充5G基站和数据中心25G DFB光芯片和光模块以及可调谐系列产品的产能。  ICC讯 近日，光通信芯片...
- ## [韩国5G为何率先“点亮未来”?LG U+前CEO李相哲详解](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=KG9StjBuCgKQ3l98hpzfwYoD220*wM1KPQxiVCQOINSrw1U5Lg5hRT5zEajm--LICC5XnqG-IRq9OCXChj0pQri-3RzVG4csvI9BpxqdFKSEJGs0N7eCJ08DgTSueq8D&new=1)
- > 2月23日开幕的2021MWC上海展，与往年最大的不同是，首次以线上、线下混合模式举办，所以有不少无法来中国的海外运营商代表，通过线上采访，分享了各自5G实践和理解。本届大会5G依然是主旋律，诸多行业和业务因为...
- ## [比特币疯魔估值：从0到600万美元，值吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=JImKOowRgk0ZmbHjcZbYe9*Ao*dSC-ygz2-GXIHsq372fD30P0ALhVV-7GCrW5Qd7JpHA4VXVeWO8paQNSKW9bzQ9lLtJHPNPMWbL7gWQEz60A9aUFIA3b0nRJs0RKN5&new=1)
- > 刚刚冲上万亿美元市值的比特币，又走出了一波震荡行情。2月22日下午1点起，比特币价格从高点58000美元上方一路下挫，2月23日晚最低下探至45000美元左右，跌幅超过20%，市值一度蒸发超过2000亿美元。 截至2021年2...
- ## [\[报告\]2021汽车智能化深度研究(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=S2bZzohVxoj7wfpih9SI7cElbsThH4eosczrt6n5gdvFRdzqzk*738zgDcfiwscQROt8ezxFVm7Qb-wqj9medmHsnqHwvqzEmPDex**tCMYDOPAvvRRwtSaJEsg2qVZ5&new=1)
+ ## [\[报告\]2021汽车智能化深度研究(附51页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=S2bZzohVxoj7wfpih9SI7cElbsThH4eosczrt6n5gdtB3p0pVhGehH6TDjnXK*ff-og1kkMdiFVLMUcuqk6dclaKLgcwxllLg98I5jFbicBlAZaEBkPa8dJgFIp3-2zR&new=1)
  > 智能汽车是汽车工业史上又一次伟大的范式转移，也是现代汽车工业走向互联网文明的“垓下之战”。作为移动互联网浪潮下划时代的产物，智能手机与智能汽车的发展皆遵循着“交互的变革-架构的升级-生态的演变”这一...
- ## [MWC上海展：这些物联网元素值得注意!](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=QKnT*taPV4tqSfElQqFSR95YcUMzlxJoNeWucVVBMhj2k2jeKU-aggTtfIGP2qAdW-eVZr3i8YqPHZytFNGV6JGlIEC6BkoxStfI5sAG8WYummWICsYVgg-jOtgjvoX3&new=1)
+ ## [智慧城市建设所需的13大岗位](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=*G7HK6bLTRT-reve*GLasuY9biF2-69Ms6EaCHBz0tYzFVTl7zLHk0i8-0ubtvUqi19J8T69W4EAz-4sjkZdJfiPgWvzKtjmQgeMP-leVo9tRQhIvoDqWcP*6tUJka2X&new=1)
+ > E安全2月26日讯   随着城市人口越来越多，为了创新和迈向智慧城市，城市需要开始经历数字化转型。建设智慧城市所需的基础设施，相应地催生了对具有新技能的新工作岗位的需求。研究显示，当前全球正以每小时进驻1...
+ ## [市场变局：3D Systems推FFF工业3D打印机，Stratasys收购光固化3D打印公司](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=mcMyrRVgBVdnEPg2iJ6dmCQk5X6RSaTMT6F*-hHy5qDPf47RsG8*mFyF6AKjLYSGxGEac3kNsqZR9MT6NdIPbYgo8bwfaCwqFNCBsvWVnfmRf6Cpf2HXTak1ULQPNZSY&new=1)
+ > 南极熊导读：作为全球3D打印领域的两大龙头企业（年营收均达6亿美元），3D Systems和Stratasys一直在专注自己的技术领域，比如3D Systems主打的SLA光固化、SLS、SLM、MJP等3D打印技术，而Stratasys主
+ ## [当数字人类无限接近于真人，我们该兴奋还是恐惧?](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=JSzagjziRfRfNQPjIpoiks827iDXDo37I8zNTQlMCiP8UwlFuG-N0XlxIt95lnCblITRgs41s8sJJuASXWQedx2F9p74uNsvDshWXsUByh*AGPOMnrcVeONpzx*De9ZJ&new=1)
+ > 前不久，Epic Game公司旗下的虚幻引擎平台发布全新工具MetaHuman Creator，宣称能够让所有人在几分钟内创造出照片级的逼真定制数字人类，而且配备完整的骨骼、毛发和服装。在虚幻引擎平台的首页上，“数字人类就...
+ ## [比特币疯魔估值：从0到600万美元，值吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=JImKOowRgk0ZmbHjcZbYe9*Ao*dSC-ygz2-GXIHsq35GZ7tIGKbEd*uoDSyGntWkgLQKYuGcIJKF1xuBPQfc*moZxzBxQ7-BWY9PN*hiC849*ZLpW2f0U3GE2qe2O9PK&new=1)
+ > 刚刚冲上万亿美元市值的比特币，又走出了一波震荡行情。2月22日下午1点起，比特币价格从高点58000美元上方一路下挫，2月23日晚最低下探至45000美元左右，跌幅超过20%，市值一度蒸发超过2000亿美元。 截至2021年2...
+ ## [MWC上海展：这些物联网元素值得注意!](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=QKnT*taPV4tqSfElQqFSR95YcUMzlxJoNeWucVVBMhgg1HmC7Wp4i16UoENBRKTy5a9LMneDMIYtLUEaGCHizL95cKTHcxjN3X7iDEgyobywKIiLARMsskLMk0ZHMCic&new=1)
  > 2月23日-25日，2021MWC上海展正式举办，以「和合共生」为主题的本次展会，重点展示5G、物联网、智能家居、人工智能、智能出行等新技术突破和产业生态。图片来自MWC上海展官方以下是OFweek君为您整理的一些值得注...
- ## [深切缅怀为脱贫攻坚献出宝贵生命的电信人!](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=skoDPT4g6WCEnX0flQ*O0H7sn5WvcGMbMPvkoyo4yYzejb7mhqVI*asEpthk6UsqgpDEC7g5yRJFhqS6Do62QbGNSI6-JH8ZCnwwQJy0XW6mRXKQUFxqCH0IEOpQBCJt&new=1)
+ ## [韩国5G为何率先“点亮未来”?LG U+前CEO李相哲详解](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=KG9StjBuCgKQ3l98hpzfwYoD220*wM1KPQxiVCQOINTwhx-irvOM5C*c10H-xDMnYoXY6NenXxqtsQi3GZvMgkARD0uXwrHOZjHhh2yQfxIQrTJ1qHpw0AhPqFRdfN06&new=1)
+ > 2月23日开幕的2021MWC上海展，与往年最大的不同是，首次以线上、线下混合模式举办，所以有不少无法来中国的海外运营商代表，通过线上采访，分享了各自5G实践和理解。本届大会5G依然是主旋律，诸多行业和业务因为...
+ ## [深切缅怀为脱贫攻坚献出宝贵生命的电信人!](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=skoDPT4g6WCEnX0flQ*O0H7sn5WvcGMbMPvkoyo4yYy8yCZMQBtJ9Gea9Uldf53kj*X*bDWL07qp8WZo1ur5cuCxIfyfnjiD-9rYJNdEN-lDINXbd7bwflMtU*zxpSAe&new=1)
  > 2月25日上午，全国脱贫攻坚总结表彰大会在北京人民大会堂隆重举行。大会对全国脱贫攻坚先进个人、先进集体进行了表彰。2015年以来，在工信部等部委的领导下，中国电信、中国移动、中国联通、中国铁塔等信息通信...
- ## [IPO观察：四年亏损6亿、在手现金缩水9成，青云科技拿什么挑战阿里、腾讯、华为?](http://mp.weixin.qq.com/s?src=11&timestamp=1614304805&ver=2913&signature=NmTlu9pDJhQuh5yist7APfS*Cr91MTIyOaggjG1TdTut1GXRX4dA*KxtySoDXv9LOjyWAOHg0teP-u1Or9EYi7Lsi5uE9cLXBjaMNoIgW2sPXOt3UCb5kSX8LSyx5B3M&new=1)
+ ## [IPO观察：四年亏损6亿、在手现金缩水9成，青云科技拿什么挑战阿里、腾讯、华为?](http://mp.weixin.qq.com/s?src=11&timestamp=1614312005&ver=2913&signature=NmTlu9pDJhQuh5yist7APfS*Cr91MTIyOaggjG1TdTte5OIXjV3m0TD-OPNKQHNNWeCZXdwgDYcXzmLP8*mHpSe2FO7ab70LYKJ*sf33bo0wuGtInxLkbTrjG6S4rfO*&new=1)
  > 被市场冠名“混合云先行者”的青云科技，即将登陆科创板资本市场。2021年2月23日，作为兼具公有云、私有云业务的青云科技开启了IPO招股环节，公司将于2月26日进入路演询价阶段，初步预计3月5日即将亮相科创板。...
 # IT 技术 
- ## [2021 年 Java 开发者生产力报告](http://developer.51cto.com/art/202102/646975.htm)
- > 2021 年 Java 开发者生产力报告
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
  > 值得推荐的七大流行Web开发技术栈
+ ## [微服务架构下，企业该如何技术选型呢？](http://developer.51cto.com/art/202102/646986.htm)
+ > 微服务架构下，企业该如何技术选型呢？
  ## [什么是熄灯数据中心？可能在新应用和边缘采用](http://server.51cto.com/Datacenter-647206.htm)
  > 什么是熄灯数据中心？可能在新应用和边缘采用
- ## [吊打MySQL，MariaDB到底强在哪？](http://database.51cto.com/art/202102/647279.htm)
- > 吊打MySQL，MariaDB到底强在哪？
- ## [为什么CTO、技术总监、架构师都不写代码，还这么牛？](http://news.51cto.com/art/202102/647130.htm)
- > 为什么CTO、技术总监、架构师都不写代码，还这么牛？
- ## [构建前瞻性应用架构的优秀实践](http://developer.51cto.com/art/202102/647035.htm)
- > 构建前瞻性应用架构的优秀实践
- ## [终于有人把 "高可用" 说清楚了！](http://developer.51cto.com/art/202102/647086.htm)
- > 终于有人把 &quot;高可用&quot; 说清楚了！
- ## [ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）](http://fellow.51cto.com/art/202012/636704.htm?qd=51ctojrzd)
- > ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）
- ## [物联网自动化革命始于家庭](http://iot.51cto.com/art/202102/647296.htm)
- > 如今，物联网设备的进步已经改变了家庭自动化领域的可能范围。曾经耗资数十万美元的高端控制系统可以与物联
- ## [MrbMiner：伊朗加密货币挖矿恶意软件攻击SQL服务器](http://netsecurity.51cto.com/art/202102/647292.htm)
- > 研究人员发现一个与伊朗软件公司有关的加密货币挖矿恶意软件――MrbMiner。
- ## [5G演进峰会大咖论道：如何推动5G可持续发展？](http://network.51cto.com/art/202102/647290.htm)
- > 当前5G已在全球规模商用，推动了行业数字化转型。但我们认识到，面向未来十年，为了支撑从万物互联到万物智
- ## [工业远程访问真得风险巨大令人恐惧吗？](http://netsecurity.51cto.com/art/202102/647289.htm)
- > 说到工业远程访问，这些不过是诸多好处当中的几个例子而已。但仍有许多客户不愿意采纳远程访问。不仅如此，
- ## [新型恶意软件“Silver Sparrow”已感染了近三万台Mac，且已扩散到153个国家/地区](http://netsecurity.51cto.com/art/202102/647288.htm)
- > 新型恶意软件“Silver Sparrow”已感染了近三万台Mac，且已扩散到153个国家/地区
- ## [我怎么不知道RocketMQ生产者有这么多用法？](http://cloud.51cto.com/art/202102/647284.htm)
- > 消息队列RocketMQ版是阿里云基于Apache RocketMQ构建的低延迟、高并发、高可用、高可靠的分布式消息中间件
- ## [高频考点之六大进程通信机制](http://os.51cto.com/art/202102/647283.htm)
- > 初学操作系统的时候，我就一直懵逼，为啥进程同步与互斥机制里有信号量机制，进程通信里又有信号量机制，然
- ## [如何面对繁杂的数据需求？](http://bigdata.51cto.com/art/202102/647282.htm)
- > ，最近有一位数据新人小伙伴伴私聊我：在平时的工作中会面临着大量的数据需求，不仅多，而且杂，请问如何处
- ## [被抛弃的WebDAV，从未有过青春！](http://developer.51cto.com/art/202102/647281.htm)
- > 谁都想定标准，但谁也不想遵循标准，这是人之本性，也是大厂商的纠结之处。随波逐流会失去话语权，搞独立又
- ## [聊聊Git版本控制工具使用说明和规范](http://os.51cto.com/art/202102/647280.htm)
- > Git 是Linux 开源社区为Linux的开发与维护而开发的一个项目，目前已被广泛应用，关于版本控制工具各有特点
+ ## [如何鉴别一个区块链项目的真假？](http://blockchain.51cto.com/art/202102/646982.htm)
+ > 如何鉴别一个区块链项目的真假？
+ ## [鸿蒙HarmonyOS三方件开发指南-GifImage](http://developer.51cto.com/art/202102/647005.htm)
+ > 鸿蒙HarmonyOS三方件开发指南-GifImage
+ ## [2021 年 Java 开发者生产力报告](http://developer.51cto.com/art/202102/646975.htm)
+ > 2021 年 Java 开发者生产力报告
+ ## [五款值得拥有的 Linux 媒体播放器](http://os.51cto.com/art/202102/646984.htm)
+ > 五款值得拥有的 Linux 媒体播放器
+ ## [在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程](http://fellow.51cto.com/art/202101/639334.htm?qd=51ctojrzd)
+ > 在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程
+ ## [政策还是市场？谁是推动物联网发展的主力](http://iot.51cto.com/art/202102/647327.htm)
+ > 本文主要化繁就简，主要从2个方面出发阐述国内物联网在信息化时代下发展推手。
+ ## [开源开发者的真正价值几何？经济学家给出答案](http://news.51cto.com/art/202102/647326.htm)
+ > 一份新报告发现，开源技术具有尚未开发出来的巨大潜力。对于大多数开源开发者来说，这项技术的价值已经得到
+ ## [遭勒索软件攻击，赛博朋克2077补丁跳票](http://zhuanlan.51cto.com/art/202102/647325.htm)
+ > 《赛博朋克2077》(Cyber Punk 2077)的开发商CD Projekt Red(CDPR)昨天宣布，由于此前遭受网络攻击，广大玩
+ ## [2021年值得关注的人工智能趋势](http://ai.51cto.com/art/202102/647322.htm)
+ > 人工智能技术如今得到越来越多的应用，从研发疫苗到在线购物再到农业种植，人们期望在2021年看到更多的发展
+ ## [Gartner 2021 年数据和分析领域十大趋势](http://news.51cto.com/art/202102/647324.htm)
+ > 从AI到小数据和图形技术，数据和分析领导者应考虑充分利用这些趋势。
+ ## [畸形的URL前缀钓鱼攻击激增了6000%](http://netsecurity.51cto.com/art/202102/647321.htm)
+ > 研究人员表示，网络攻击者通过在钓鱼邮件URL中翻转反斜线构造畸形的链接，来逃避安全软件的防护。
+ ## [云安全的11个挑战及应对策略](http://netsecurity.51cto.com/art/202102/647318.htm)
+ > 组织将其业务迁移到云端之前，需要了解可能面临的云安全挑战，以及如何应对这些挑战。
+ ## [大厂接口测试都在用的技术-Diff（附源码）](http://developer.51cto.com/art/202102/647319.htm)
+ > Diff是Unix系统的一个很重要的工具程序。它用来比较两个文本文件的差异，是代码版本管理的基石之一。
+ ## [如何使用PyCaret-低代码ML库](http://developer.51cto.com/art/202102/647317.htm)
+ > 在本文中，我将演示如何使用PyCaret快速轻松地构建机器学习项目并为部署准备最终模型。
+ ## [C++和C++程序员谁先完蛋？](http://developer.51cto.com/art/202102/647315.htm)
+ > AI很有可能最终取代我，也许不是以程序员的身份，而是以C ++程序员的身份。但是一些新技术将杀死C ++本身的
  ## [因在公司上不正经网站，我没过试用期…](https://blog.csdn.net/weixin_39787242/article/details/114091979)
  > 因在公司上不正经网站，我没过试用期…
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
@@ -77,16 +83,16 @@ categories: IT NEWS
  > 极客日报第 72 期：特斯拉在无人墓地感应到行人；Maxell 再诉苹果侵权；小米造车尚未到正式立项阶段；华为与奔驰展开合作 HMS for Car 登陆 S 级轿车
  ## [爱奇艺一程序员用 10 万元“买”了个北京户口](https://blog.csdn.net/csdnsevenn/article/details/114005834)
  > 爱奇艺一程序员用 10 万元“买”了个北京户口
- ## [提取视频中的音频——python三行程序搞定](https://blog.csdn.net/qq_34769162/article/details/107910036)
- > 
- ## [百度Hydra工具在移动端UI兼容性测试上的高效应用](https://blog.csdn.net/lihui49/article/details/113850822)
- > 百度Hydra工具在移动端UI兼容性测试上的高效应用
+ ## [2018秋招C/C++面试题总结](https://blog.csdn.net/u013457167/article/details/82814413)
+ > 2018秋招C/C++面试题总结
+ ## [Qt项目架构经验总结](https://blog.csdn.net/feiyangqingyun/article/details/113985170)
+ > Qt项目架构经验总结
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [\[记录三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目前端部分完善](https://blog.csdn.net/gitchatxiaomi/article/details/108149927)
- > \[记录三\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目前端部分完善
- ## [2020学习前端开发有前途吗？（建议收藏）](https://blog.csdn.net/gitchatxiaomi/article/details/108446097)
- > 2020学习前端开发有前途吗？（建议收藏）
+ ## [Java高质量面试总结](https://blog.csdn.net/JewaveOxford/article/details/104727515)
+ > 
+ ## [vs2019 开始自己的第一个C++程序](https://blog.csdn.net/qq_36556893/article/details/88605617)
+ > vs2019 开始自己的第一个C++程序
 # 人工智能 
  ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
  > 编程方式建视频——GitHub 热点速览 v.21.07
@@ -119,6 +125,12 @@ categories: IT NEWS
  ## [文本数据增强方法](https://blog.csdn.net/herosunly/article/details/113997077)
  > 文本数据增强方法
 # PM 
+ ## [元宵节到了！产品经理快来一起打灯谜](http://www.chanpin100.com/article/113656)
+ > 元宵节打灯谜一直是一个传统的节目。灯谜简洁明了，最大程度上体现了汉语的深刻性。在此，小编给大家分享一些灯谜，产品经理之间可以用来娱乐一下！
+ ## [2021年元宵节借势文案分享](http://www.chanpin100.com/article/113655)
+ > 元宵节是我国的一个传统节日，也称为上元节。每年农历正月十五，是中国传统节日之一。正月是农历的第一个月。古人称“夜”为“宵”。正月十五是一年中的第一个月圆之夜，所以叫“元宵节”。那么，元宵节的文案该如何写呢？小编为大家整理了四种元宵文案，希望能帮到你。
+ ## [元宵节！送你一份产品经理常见面试问题](http://www.chanpin100.com/article/113654)
+ > 产品经理的面试说白了就是面试官考察你的思维方式。面试一个产品经理，首先要有产品经理的思维，学习产品经理的思维方式，只有这样你才能在面试中脱颖而出。值此元宵节之际，产品壹佰小编为大家分享产品经理常见面试问题。
  ## [产品经理的私房菜文案篇](http://www.chanpin100.com/article/113637)
  > 一位产品经理如果会写文案，就像如虎添翼般，设计出的产品能更吸引用户的注意。产品设计跟文案撰写其实本质上是非常相近的，两者的目的都是「沟通」，差别仅在于前者多偏向图像传达，而后者则是以文字阐述想法。
  ## [未经“七年之痒”的春晚x微博会共赴“十年之约”？](http://www.chanpin100.com/article/113631)
@@ -153,11 +165,5 @@ categories: IT NEWS
  > 数据产品经理必备的数据分析方法有哪些呢？这是一部分人的疑问，下面就来为大家简单的介绍几种方法。各位小伙伴可以根据不同的行业，选择合适的进行深入学习呦！
  ## [产品经理与运营人员该如何有效沟通](http://www.chanpin100.com/article/113640)
  > 在产品生命周期中产品经理往往担任妈妈的角色而运营则更像是孩子的保姆或者说是老师，两个角色不同定位不同做的事情也就不相同。本文聊聊产品经理与运营人员在平时工作中该如何有效沟通。
- ## [产品经理高频面试题+解析汇总（一）](http://www.chanpin100.com/article/113636)
- > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
- ## [产品经理如何入行 成为产品经理需要具备的能力](http://www.chanpin100.com/article/113635)
- > 产品经理比起其他互联网行业入门要求要低，同时产品经理的薪资也算互联网行业比较高的了。大家都知道如果想要成为一名合格的产品经理，需要具备的能力是方方面面的，本文探讨一下入行成为产品经理需要具备的几个比较核心的能力。
- ## [Axure打造最强DRD交互文档（含案例）](http://www.chanpin100.com/article/113611)
- > 当我在网上搜寻交互文档规范时，可以搜到很多关于交互文档的结构搭建的文章，但始终没有一份较为完整的案例Demo展示，主要是因为大多数商业项目的交互文档是涉密的，无法进行分享。交互设计说明文档，即DRD是指用来承载交互设计说明，并交付给前端、测试以及开发工程师参考的文档，是一项基本功。本文作者用Axur
 
     
