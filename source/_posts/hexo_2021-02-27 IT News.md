@@ -1,19 +1,19 @@
 ---
 title: 2021-02-27 IT News
 copyright: true
-date: 2021-02-27 08:02:55
+date: 2021-02-27 09:06:11
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“点亮未来”演播间\[三\]：对话LG U+前CEO李相哲](http://mp.weixin.qq.com/s?src=11&timestamp=1614384004&ver=2915&signature=e0lsyna7I3UwN-c-giZhsMzHNsZyiSCrmE8Xzvskg4keVT0rHP6QZnxZSGQhSfAI8weTzy0bF7yKg4NqN6dnfHIWUcutWUSXw8a0Rn0KUkZ2dTI5xvsuwe4qOvUAy5U3&new=1)
- > 2021世界移动大会上海，期间，华为“点亮未来”演播间正式开播。演播间采用线上线下结合的形式，邀请来自全球的运营商、产业链伙伴、垂直行业领导者、行业组织的专家代表等分享5G、云网融合等ICT技术的创新应用...
- ## [小米「造」过车了，又轮到华为了](http://mp.weixin.qq.com/s?src=11&timestamp=1614384004&ver=2915&signature=oktL8beoBNO62QeSYqVOC-eeOK9FR0BWu1EjmEd9HUCh**Qc0QgSUaCGiUF8W5yeOmlIbgV2lbf18ZTu8P5ViUTPVqzZT6u6OP2Z-ZH9vGVXcuOi5dcGqQSxEqXkMAL5&new=1)
+ ## [小米「造」过车了，又轮到华为了](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=oktL8beoBNO62QeSYqVOC-eeOK9FR0BWu1EjmEd9HUCh**Qc0QgSUaCGiUF8W5ye1mpJe-uBXidQg8GWbcbl4XJgOzHxaBt4TiCXbkOlfZyv3lJIWlkdzKGUj3GwmFEP&new=1)
  > 华为要造自有品牌汽车的消息再度热传，这次，还是路透社。据路透社2月26日消息，四名消息人士告诉路透社，「华为正打算生产自有品牌汽车，今年可能推出部分车种」，报道称，这是华为在美国制裁打击下「正寻求策...
- ## [MWCS热议“智能云网”：能否助运营商向DICT转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1614384004&ver=2915&signature=lEStf69uSog33PR2UXJuJ-FeiX1kE1OHn2iMl0CkJdN*VdDGuc0lNcaYLN-PTR9ICI5CJlrHusXMVtdgnZjMgJwBG3L6yG*IqjrFMpjk4DemCJy21OQdEFEmNA*jrsjZ&new=1)
- > 近期笔者赶赴上海参加2021MWC，发现云网融合是非常热门的话题。为什么这个话题这么热？随着企业上云的服务需求不断发展，运营商必须要提供最优的云技术与网络的融合，勤耕“云网融合”，才可以满足千行百业的各...
- ## [MWC21上海直击：高通力推5G毫米波](http://mp.weixin.qq.com/s?src=11&timestamp=1614384004&ver=2915&signature=HMkFQdOfW9mTXhBl*JhIjtZ5n-4zsl3hTX7YY7YnXT-7r246Ff2XAHVEuXxmGLwyftA8P83MmedbMH4P1h9VemORH0ggbLn4*mpehxeI7aPM0s4eKpfQjZjLNT7HgdGz&new=1)
+ ## [MWC21上海直击：高通力推5G毫米波](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=HMkFQdOfW9mTXhBl*JhIjtZ5n-4zsl3hTX7YY7YnXT-7r246Ff2XAHVEuXxmGLwyXSgbwBAYp2RxxN4uEOvmMxXayxuULlJ3kvtAzLi2G05SClVyMZj-ArTuy0WVGwA7&new=1)
  > 在2021年MWC世界移动通信大会·上海展会上，由中国联通和GSMA主办、高通技术公司支持的5G毫米波展区，向与会观众充分展示了5G毫米波赋能各行各业的极致性能与丰富应用。“要释放5G的全部潜能，高频的毫米波频段...
+ ## [“点亮未来”演播间\[三\]：对话LG U+前CEO李相哲](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=e0lsyna7I3UwN-c-giZhsMzHNsZyiSCrmE8Xzvskg4keVT0rHP6QZnxZSGQhSfAIaCDu*oFi5j12-rF-5KsurNTqf*nY7bIe2s7d*OINiX5Idm-QCMnbgWsEFR5DyaVI&new=1)
+ > 2021世界移动大会上海，期间，华为“点亮未来”演播间正式开播。演播间采用线上线下结合的形式，邀请来自全球的运营商、产业链伙伴、垂直行业领导者、行业组织的专家代表等分享5G、云网融合等ICT技术的创新应用...
+ ## [MWCS热议“智能云网”：能否助运营商向DICT转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=lEStf69uSog33PR2UXJuJ-FeiX1kE1OHn2iMl0CkJdN*VdDGuc0lNcaYLN-PTR9Iqkd8YZt6OnlcUcnfNePeTMrv3q9O4crJmVRrcBpdCXIV2-al-KTfyFBn5CqV42y6&new=1)
+ > 近期笔者赶赴上海参加2021MWC，发现云网融合是非常热门的话题。为什么这个话题这么热？随着企业上云的服务需求不断发展，运营商必须要提供最优的云技术与网络的融合，勤耕“云网融合”，才可以满足千行百业的各...
 # IT 技术 
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
  > 值得推荐的七大流行Web开发技术栈
@@ -29,8 +29,16 @@ categories: IT NEWS
  > 2021 年 Java 开发者生产力报告
  ## [五款值得拥有的 Linux 媒体播放器](http://os.51cto.com/art/202102/646984.htm)
  > 五款值得拥有的 Linux 媒体播放器
- ## [.NET软件开发――C语言基础视频课程](http://fellow.51cto.com/art/202012/638070.htm?qd=51ctojrzd)
- > .NET软件开发――C语言基础视频课程
+ ## [Spring4.0基础与提升视频教程（没有答疑服务）](http://fellow.51cto.com/art/202101/640710.htm?qd=51ctojrzd)
+ > Spring4.0基础与提升视频教程（没有答疑服务）
+ ## [比特币年耗电量首次公布：排进全球前30耗电大户](http://blockchain.51cto.com/art/202102/647427.htm)
+ > 近日，剑桥研究人员公布的比特币耗电指数显示，如果把比特币视作一个国家，它将位列全球耗电量最大的前30国
+ ## [微软 Windows10 可选更新：最新的 KB4601382 修复了 HDR 刷新率问题和游戏渲染问题](http://os.51cto.com/art/202102/647426.htm)
+ > 2月27日消息 微软早些时候已恢复 “因假期带来的更新延期”，最新一次的 Windows 10 可选更新 KB4601382 现
+ ## [Windows10 太阳谷更新界面大变，消息称微软将其称为 “新 Windows”进行营销](http://os.51cto.com/art/202102/647425.htm)
+ > 2 月 27 日消息 据外媒 Windows Latest 报道，微软正计划公布新版 Windows 10，该公司可能会考虑将 Windows
+ ## [挖矿为何狂抢显卡而非CPU？显卡缺货到底何时休](http://network.51cto.com/art/202102/647424.htm)
+ > 最近对于PC玩家来说，无疑是一段噩梦般的日子。想要买新电脑或者升级配置的朋友突然发现，零件买不全了！除
  ## [开源的最大谎言](http://os.51cto.com/art/202102/647423.htm)
  > 开发人员对开源软件有很多假设，因为我们通常不会为此付费。话虽这么说，这些假设是错误的，并影响到项目本
  ## [CSO指南：全球最危险也最有名的勒索软件清单](http://netsecurity.51cto.com/art/202102/647384.htm)
