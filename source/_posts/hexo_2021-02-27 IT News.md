@@ -1,18 +1,22 @@
 ---
 title: 2021-02-27 IT News
 copyright: true
-date: 2021-02-27 09:06:11
+date: 2021-02-27 10:10:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [小米「造」过车了，又轮到华为了](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=oktL8beoBNO62QeSYqVOC-eeOK9FR0BWu1EjmEd9HUCh**Qc0QgSUaCGiUF8W5ye1mpJe-uBXidQg8GWbcbl4XJgOzHxaBt4TiCXbkOlfZyv3lJIWlkdzKGUj3GwmFEP&new=1)
- > 华为要造自有品牌汽车的消息再度热传，这次，还是路透社。据路透社2月26日消息，四名消息人士告诉路透社，「华为正打算生产自有品牌汽车，今年可能推出部分车种」，报道称，这是华为在美国制裁打击下「正寻求策...
- ## [MWC21上海直击：高通力推5G毫米波](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=HMkFQdOfW9mTXhBl*JhIjtZ5n-4zsl3hTX7YY7YnXT-7r246Ff2XAHVEuXxmGLwyXSgbwBAYp2RxxN4uEOvmMxXayxuULlJ3kvtAzLi2G05SClVyMZj-ArTuy0WVGwA7&new=1)
+ ## [秦淮区孙丽副区长一行莅临云创考察调研](http://mp.weixin.qq.com/s?src=11&timestamp=1614391204&ver=2915&signature=jrFWsbhOmMmg29*3fjQIFVz3za2g1grgaSLV01pbd8Z9xisfg554mf*3fNCEmilX1Uc021fqQkcxtyKmIjEnJdIqq5oBuPU2gr25ijxHurIRiVkNybejfA3OH3xCQ74c&new=1)
+ > 2月26日上午，南京市秦淮区孙丽副区长、地方金融监督管理局严伟局长一行莅临云创，云创大数据总裁刘鹏教授与董事会秘书孙志刚共同接待了来宾。 此次孙丽副区长一行莅临云创，旨在考察调研云创企业发展情况。在交...
+ ## [MWC21上海直击：高通力推5G毫米波](http://mp.weixin.qq.com/s?src=11&timestamp=1614391204&ver=2915&signature=HMkFQdOfW9mTXhBl*JhIjtZ5n-4zsl3hTX7YY7YnXT9rLdmS-M5eziKmb1k03MkHypy*rfkI4pz*pMbuJjXJUSkZVu2wjQwpMoFDFcBKtBIFfH40sb3uT4EcC2xn7iZW&new=1)
  > 在2021年MWC世界移动通信大会·上海展会上，由中国联通和GSMA主办、高通技术公司支持的5G毫米波展区，向与会观众充分展示了5G毫米波赋能各行各业的极致性能与丰富应用。“要释放5G的全部潜能，高频的毫米波频段...
- ## [“点亮未来”演播间\[三\]：对话LG U+前CEO李相哲](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=e0lsyna7I3UwN-c-giZhsMzHNsZyiSCrmE8Xzvskg4keVT0rHP6QZnxZSGQhSfAIaCDu*oFi5j12-rF-5KsurNTqf*nY7bIe2s7d*OINiX5Idm-QCMnbgWsEFR5DyaVI&new=1)
+ ## [从“跟随”到“并跑”：中国工业机器人补短板](http://mp.weixin.qq.com/s?src=11&timestamp=1614391204&ver=2915&signature=IPuiTVe859A4*vaMCucPacpf0NJZClxXQWGFcyBRhwsRpfONHY07hVS-EdCtnGPPxJJO98Whzek9Vd4nw*El4ot3qrimwVIOmAZZ1cFIeJM=&new=1)
+ > 经济观察报 记者 李华清 2月初，工信部的官方微信公众号发布消息称，2020年1-12月，全国工业机器人完成产量237068台，同比增长19.1%。19.1%的同比增长率，已经是近3年来中国工业机器人完成产量的最高增长幅度。...
+ ## [“点亮未来”演播间\[三\]：对话LG U+前CEO李相哲](http://mp.weixin.qq.com/s?src=11&timestamp=1614391204&ver=2915&signature=e0lsyna7I3UwN-c-giZhsMzHNsZyiSCrmE8Xzvskg4lCFms7UAJIjd--EWaW1Kea*dqs87UK6itpeO2Fc61CgAHB1AOaBQnaJtWeRbMf7M5eN6wj8IIwyTtEh0VhnnYh&new=1)
  > 2021世界移动大会上海，期间，华为“点亮未来”演播间正式开播。演播间采用线上线下结合的形式，邀请来自全球的运营商、产业链伙伴、垂直行业领导者、行业组织的专家代表等分享5G、云网融合等ICT技术的创新应用...
- ## [MWCS热议“智能云网”：能否助运营商向DICT转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1614387605&ver=2915&signature=lEStf69uSog33PR2UXJuJ-FeiX1kE1OHn2iMl0CkJdN*VdDGuc0lNcaYLN-PTR9Iqkd8YZt6OnlcUcnfNePeTMrv3q9O4crJmVRrcBpdCXIV2-al-KTfyFBn5CqV42y6&new=1)
+ ## [小米「造」过车了，又轮到华为了](http://mp.weixin.qq.com/s?src=11&timestamp=1614391204&ver=2915&signature=oktL8beoBNO62QeSYqVOC-eeOK9FR0BWu1EjmEd9HUBaZr8qpphCldBdYprOrXUv6JKtkOVT6I943CQCrxMJkpki3twlr*ioCMKqgONZf9pgvX2Ms9HdOejfIn8O-57J&new=1)
+ > 华为要造自有品牌汽车的消息再度热传，这次，还是路透社。据路透社2月26日消息，四名消息人士告诉路透社，「华为正打算生产自有品牌汽车，今年可能推出部分车种」，报道称，这是华为在美国制裁打击下「正寻求策...
+ ## [MWCS热议“智能云网”：能否助运营商向DICT转型?](http://mp.weixin.qq.com/s?src=11&timestamp=1614391204&ver=2915&signature=lEStf69uSog33PR2UXJuJ-FeiX1kE1OHn2iMl0CkJdPoYPlCsre0hdxCxI91faWbAiOaq4IIc*X0zXEOZZAXNr2ngcor-Mn4xKHft6q1dplBt5cIXz*4vtkGlLg9ZTVK&new=1)
  > 近期笔者赶赴上海参加2021MWC，发现云网融合是非常热门的话题。为什么这个话题这么热？随着企业上云的服务需求不断发展，运营商必须要提供最优的云技术与网络的融合，勤耕“云网融合”，才可以满足千行百业的各...
 # IT 技术 
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
@@ -29,8 +33,12 @@ categories: IT NEWS
  > 2021 年 Java 开发者生产力报告
  ## [五款值得拥有的 Linux 媒体播放器](http://os.51cto.com/art/202102/646984.htm)
  > 五款值得拥有的 Linux 媒体播放器
- ## [Spring4.0基础与提升视频教程（没有答疑服务）](http://fellow.51cto.com/art/202101/640710.htm?qd=51ctojrzd)
- > Spring4.0基础与提升视频教程（没有答疑服务）
+ ## [听强哥说Java之Java初级教程](http://fellow.51cto.com/art/202101/639889.htm?qd=51ctojrzd)
+ > 听强哥说Java之Java初级教程
+ ## [手把手教你4种方法用Python批量实现多Excel多Sheet合并](http://developer.51cto.com/art/202102/647434.htm)
+ > 前两天给大家分享了Python自动化文章：手把手教你利用Python轻松拆分Excel为多个CSV文件，而后在Python进阶
+ ## [Windows 10是绝唱！微软新系统开始换版本号了](http://os.51cto.com/art/202102/647429.htm)
+ > 在昨天的一系列推文中，可靠的微软泄密者 &quot;WalkingCat &quot;先是预告 &quot;新Windows &quot;将在下个月到来，不过他后来
  ## [比特币年耗电量首次公布：排进全球前30耗电大户](http://blockchain.51cto.com/art/202102/647427.htm)
  > 近日，剑桥研究人员公布的比特币耗电指数显示，如果把比特币视作一个国家，它将位列全球耗电量最大的前30国
  ## [微软 Windows10 可选更新：最新的 KB4601382 修复了 HDR 刷新率问题和游戏渲染问题](http://os.51cto.com/art/202102/647426.htm)
