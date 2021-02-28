@@ -1,22 +1,28 @@
 ---
 title: 2021-02-28 IT News
 copyright: true
-date: 2021-02-28 12:05:05
+date: 2021-02-28 17:07:35
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [打破质量管理瓶颈!佛吉亚巧用AI异音检测!](http://mp.weixin.qq.com/s?src=11&timestamp=1614484805&ver=2917&signature=5d-bn-5isrVt62CGFvlidgFN2RR0adYDC-Rn85ti8e4xWtgqmWDyOBylwd5GuiNPb18o70qcfWShi8M3ws*2*e6Rh5TQ-rPNpZyqFP8ObtqybItdiz1*4UVBQXhz-XbM&new=1)
- > 导 读 ( 文/ e-works )本文为往年“中国智能制造最佳实践奖”参评案例，全面介绍了世界知名汽车零部件供应商佛吉亚实施智能制造的过程、步骤、重点与难点、获得效益等，分享建设过程中的经验，供广大制造业行业...
- ## [金属3D打印龙头铂力特：市值130亿，营收4.2亿，在建工程15.7亿，员工数将达1300人](http://mp.weixin.qq.com/s?src=11&timestamp=1614484805&ver=2917&signature=Bwf2LeWEt3RKfzSalosz9P5f0aZVilcyni6B4Gs6GLOKwTvwWvrdSzHJ-5ShUTpQLuQnnFmpwFtMAYpbvw7F5u8-5A0MlKToFtWil8LAMzkrDK4h6g5ixKy0BXfgSLsg&new=1)
- > 南极熊导读：西安铂力特，是中国金属3D打印的龙头厂商。△北京时间2021年2月26日，股价162.88，市值130亿人民币2021年2月28日，南极熊注意到浙商证券发布了一份关于铂力特的研报，铂力特当前股价为162.88元/股，...
- ## [2021年2月程序员工资最新出炉!网友：这下跳槽稳了](http://mp.weixin.qq.com/s?src=11&timestamp=1614484805&ver=2917&signature=n87s61OYbqev-4zmlHqwYwbZCnIKQkvJAV18AWQHNUmhJIq9qYSzL9SPzLli12f2My9ze-loFwP5DRtIblTrkOrKhb8MmVdMqTdcSezAdri8kkOZcZefOtNkOSXbJJW9&new=1)
- > 来自：CSDN，作者：有数可据来源：https://blog.csdn.net/juwikuang/article/details/1137297122021年2月采集样本370020人。2021年2月程序员平均工资15144元，工资中位数
- ## [可以将iPhone 12面部识别隐藏在屏下!中兴做到了 全球唯一](http://mp.weixin.qq.com/s?src=11&timestamp=1614484805&ver=2917&signature=7lw-RW5KHiEJCRN0WsY7m0LFHYEJ4L44nQY5usqIHMhFiifP8L-ofUgw5zFsazkD0oKqT7pvr1zMDXeVD7VERcDZQXptrqcWWorNZIO1lEknOA2PfA6rkSGbtRK0qRkN&new=1)
+ ## [马斯克正在成为“全球带货第一人”](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=bJn07wFu0hKZzamYkkSdzscBsMcCtH2DZ1vnvr-RwQhIAiKXXg3bkYtnLfAMglcshRssD9oUvf5gZuea7LkuUkgezRHEQ4rEntzpwnPTzCioLUfhIovD7i3JMl8eLG9I&new=1)
+ > “科技向善月度观察”由腾讯研究院汇编，每月整理最新一月全网科技向善相关资讯、观点与实践产品，为科技向善的探索注入全新动力。一个机器人警察，正在纽约的街头游荡。这是纽约警方部署的机器狗，名为Digdog，...
+ ## [AI公司英伟达又有了新的押注方向](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=RQZuH-AJdwZ42R5UBpAFiWMLZy2z0F2AhvYY1YnJfzkF4VR1023LuRgxEaqI6cD-fMLX-nObKAgg2curKpg2zvVYydElhGeHU21Phw8lYM8SmZq23Nao8AcmHXmwO9kX&new=1)
+ > 作者丨Decode邮箱丨oudi@pingwest.com2021 年 2 月 25 日，英伟达公布了 2021 财年 Q4 和全年（2020 年 2 月至 2021 年 1 月）财报。2021 财年 Q4 对英伟达来说，是又一个创纪录的季
+ ## [可以将iPhone 12面部识别隐藏在屏下!中兴做到了 全球唯一](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=7lw-RW5KHiEJCRN0WsY7m0LFHYEJ4L44nQY5usqIHMgooiqhSGRd1fdEiWU1YhhgP0cBJ9IcBbsHX*hHmw3v2qrt98M7M4*5A1KbaiqID9dT9jhdi4STZhudbGR2Rb7J&new=1)
  > 在MWC上海站，中兴展示了屏下3D结构光技术，是业内唯一一家实现这一技术的厂商。2月27日消息，中兴通讯吕钱浩指出，中兴全球首发的屏下3D结构光能够实现3D建模活体识别，这样就能保证面部识别的高安全和高可靠性...
- ## [爱立信：全球超过60%毫米波商用网络使用爱立信设备](http://mp.weixin.qq.com/s?src=11&timestamp=1614484805&ver=2917&signature=NzePmkJVM1tRlzVzZIvY-oW6G0eo9hDfDAA54mkAeB23Js2l3MVaXY2tuRao8Eqq8oOgGLC9MurkA3vdYcTkpk2v5rBZ3Tu485dJewZoZ5TAzzvpOfwUH4cBSIPp43xe&new=1)
+ ## [美国当前的工业现状与问题是什么?](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=HlrwQNjdW6VJvfC*yM5Lo44uT4SZC8MjivN-6KKlofs6r0MYIiI1AW2eOnVlcbx064oJDJW49z2dWt9asPtVXocqJt8X84QpXyeCWKtXHKdpGaSWwCOdUJGZgUziZ35I&new=1)
+ > 1月14日，美国国防部发布了《 2020财年工业能力报告》（以下简称“报告”），记录了国防工业基础的风险和脆弱性，COVID-19的主要影响，以及进行的相关投资和计划。该报告提出要建立强大、有弹性、安全和创新的工...
+ ## [金属3D打印龙头铂力特：市值130亿，营收4.2亿，在建工程15.7亿，员工数将达1300人](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=Bwf2LeWEt3RKfzSalosz9P5f0aZVilcyni6B4Gs6GLOFnmtsAtt0lTpB9vOka5qLK1-MxDzxTd0b54FZVUj--DSzhVaNReayxolEeOb0GRsoqsdF41fHUCTZivNHOxg-&new=1)
+ > 南极熊导读：西安铂力特，是中国金属3D打印的龙头厂商。△北京时间2021年2月26日，股价162.88，市值130亿人民币2021年2月28日，南极熊注意到浙商证券发布了一份关于铂力特的研报，铂力特当前股价为162.88元/股，...
+ ## [爱立信：全球超过60%毫米波商用网络使用爱立信设备](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=NzePmkJVM1tRlzVzZIvY-oW6G0eo9hDfDAA54mkAeB1r1ELLiAYiEcspSJiC9*mZuplUqVCT8v3BotsCeOtNAqeo7E5PULg1iGvIPEu-z11oGorsWkmjY85UMcrm0WiE&new=1)
  > 在“2021 MWC上海”期间举行的“5G毫米波+体育大会”上，爱立信东北亚区网络产品线部门总监吴日平表示：当前全球超过60%的毫米波商用网络使用的都是出自于爱立信的设备。在吴日平看来，5G毫米波的技术特点主要是...
- ## [中国石油天然气股份有限公司长庆油田分公司与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1614484805&ver=2917&signature=Kli5So9rqP6VCN9hqyRuJIP*svp9OasyjfGquJqIgRGjig71WuH*9OqlO8m5ve2b6PPL-g78yIbdSiFmmnn-Y2FOUEvUaX40EscjMg0YeKANPwDLju7cvB0LUWGEzAFK&new=1)
+ ## [打破质量管理瓶颈!佛吉亚巧用AI异音检测!](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=5d-bn-5isrVt62CGFvlidgFN2RR0adYDC-Rn85ti8e4sTFy9UyWfsNuTHkH6KOk*FPR*276suF4GInbw*Z4isBcjG8-yG*SGXYmHQ4cXGK4efswroD3H8k66fUwkZC2X&new=1)
+ > 导 读 ( 文/ e-works )本文为往年“中国智能制造最佳实践奖”参评案例，全面介绍了世界知名汽车零部件供应商佛吉亚实施智能制造的过程、步骤、重点与难点、获得效益等，分享建设过程中的经验，供广大制造业行业...
+ ## [2021年2月程序员工资最新出炉!网友：这下跳槽稳了](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=n87s61OYbqev-4zmlHqwYwbZCnIKQkvJAV18AWQHNUl2uM1a9fkeI7-RKU0WJwnlCwy6dSRMqbreq5pKARrIycXYpgHbjPIqcUXj5hr0PYe9eLo7dAjBWZQT7Lt6uxXi&new=1)
+ > 来自：CSDN，作者：有数可据来源：https://blog.csdn.net/juwikuang/article/details/1137297122021年2月采集样本370020人。2021年2月程序员平均工资15144元，工资中位数
+ ## [中国石油天然气股份有限公司长庆油田分公司与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1614502804&ver=2917&signature=Kli5So9rqP6VCN9hqyRuJIP*svp9OasyjfGquJqIgRGuCb5Duo6FRxlgiN96pL*ndNnWglJJRvqlO0x6MDUG4e*nooZvUGpa9XFnGVZF-oymB6yAXKTBFvRy4iMH7x6m&new=1)
  > 2月26日，中国石油天然气股份有限公司长庆油田分公司（以下简称“长庆油田”）与华为技术有限公司（以下简称“华为”）在西安签署战略合作协议。长庆油田党委书记付锁堂，副总经理石道涵，总地质师李松泉，首席...
 # IT 技术 
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
@@ -33,28 +39,58 @@ categories: IT NEWS
  > 2021 年 Java 开发者生产力报告
  ## [五款值得拥有的 Linux 媒体播放器](http://os.51cto.com/art/202102/646984.htm)
  > 五款值得拥有的 Linux 媒体播放器
- ## [【吴刚大讲堂】Photoshop(PS)软件基础实用技巧标准视频教程](http://fellow.51cto.com/art/202012/635875.htm?qd=51ctojrzd)
- > 【吴刚大讲堂】Photoshop(PS)软件基础实用技巧标准视频教程
- ## [SpringBoot2.x整合体系之HelloWorld工程](http://developer.51cto.com/art/202102/647497.htm)
- > SSM框架对于新手来说，往往死在配置，有时候你会发现即使按照教程一步一步走，最后还是会出错。
- ## [2021年的4个开源对象存储平台](http://stor.51cto.com/art/202102/647496.htm)
- > 在本文中，我们将向您介绍四个有用的开放源代码对象存储平台，这些平台包含健壮的功能，并在2021年成为巨大
- ## [勒索，恶意软件和残酷的骗局-恶意软件2021年报告](http://netsecurity.51cto.com/art/202102/647495.htm)
- > 去年，攻击者以出乎意料的方式利用了COVID-19公共卫生危机，不仅在全球疫情大流行最初的短短几个月中造成了
- ## [你可能不知道的 CSS 负值技巧与细节](http://developer.51cto.com/art/202102/647494.htm)
- > 写本文的起因是，一天在群里有同学说误打误撞下，使用负的 outline-offset 实现了加号。嗯?好奇的我马上也
- ## [注意到没？微信新表情戒烟了](http://mobile.51cto.com/app-show-647493.htm)
- > 原来经过云端更新，微信自带的表情包面板里，代表“悠闲的”绿帽小黄人从之前的吸着一根雪茄变成了嘴角上扬
- ## [微软 Windows10 《闹钟和时钟》抢先获得全新 “太阳谷”界面 UI：新增圆角元素](http://os.51cto.com/art/202102/647492.htm)
- > 2月28日消息 外媒 Windows Latest 报道，微软对 Windows 10 默认应用的策略多年来一直是个灾难，一些应用如
- ## [面试官不讲武德，居然让我讲讲蠕虫和金丝雀！](http://netsecurity.51cto.com/art/202102/647491.htm)
- > 蠕虫是一种可以自我复制的代码，并且通过网络传播，通常无需人为干预就能传播。蠕虫病毒入侵并完全控制一台
- ## [Zookeeper实现分布式锁的原理](http://bigdata.51cto.com/art/202102/647490.htm)
- > 相信大部分面试都是说用 Redis 去实现分布式锁，用 Zookeeper 实现分布式锁相对而言遇到的较少，最近在整理
- ## [项目中数据库密码没有加密导致了数据泄露！！](http://database.51cto.com/art/202102/647489.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [提前享用Windows10新UI？这Windows10魔改工具颜值爆表](http://os.51cto.com/art/202102/647487.htm)
- > 我们知道今年微软会发布Windows10 21H2，新的Windows10系统会全面使用Fluent Design新UI，一改现在Windows1
+ ## [【135】-type类型字段实验](http://fellow.51cto.com/art/202101/642416.htm?qd=51ctojrzd)
+ > 【135】-type类型字段实验
+ ## [重磅！七国首脑会议决定制裁Go语言！](http://developer.51cto.com/art/202102/647522.htm)
+ > 2021年2月， 编程语言的七国集团峰会在风景优美的Linux庄园如期召开。C, Java, Python, JavaScript , C++ ,
+ ## [混合云的未来将往何处去？三大关键词：边缘计算、自动化、云原生](http://cloud.51cto.com/art/202102/647521.htm)
+ > 2020年对于云计算领域来说是具有标志性的一年。这一年，混合多云领域的发展势头最为迅猛。很多企业都在积极
+ ## [大数据和人工智能-从机械思维到统计思维](http://bigdata.51cto.com/art/202102/647520.htm)
+ > 今天准备写一篇文章来谈大数据，人工智能和事物认知问题解决之间的关系逻辑。因此这篇文章不会谈底层的实现
+ ## [这轮加密货币牛市，我何时变现？](http://blockchain.51cto.com/art/202102/647519.htm)
+ > 最近有不少朋友都留言问我到底有没有变现手中的筹码？我估计可能是由于这次的大跌来得太突然，也太猛烈，所
+ ## [这才是厉害程序员的标配！](http://news.51cto.com/art/202102/647518.htm)
+ > 好几个读者问：如何成为厉害的程序员？编码能力如何成长。回答完后，有些心得也给大家分享下。
+ ## [边缘计算云原生开源方案选型比较](http://cloud.51cto.com/art/202102/647517.htm)
+ > 随着Kubernetes已经成为容器编排和调度的事实标准，各大公有云厂商都已经基于Kubernetes提供了完善的Kubern
+ ## [恶意软件开发语言正从C/C++转向Go 近年来呈爆发式增长](http://netsecurity.51cto.com/art/202102/647516.htm)
+ > 根据网络安全公司 Intezer 本周发布的一份报告，自 2017 年以来使用 Go 编程语言编写的恶意软件数量呈现爆
+ ## [为什么越来越多的程序员不喜欢去外包公司工作了](http://news.51cto.com/art/202102/647513.htm)
+ > 最近正处于招聘的旺季，用人企业也纷纷加大力度开始招兵买马，为一年的生产计划储备好所需要的人力资源。
+ ## [黑客利用Firefox恶意扩展窃取Gmail和浏览器数据](http://netsecurity.51cto.com/art/202102/647514.htm)
+ > 根据网络安全公司 Proofpoint 近期发布的调查报告，一个代号为 TA413 的组织近日利用恶意的 Firefox 插件，
+ ## [漏洞预警，VMware远程代码执行漏洞的严重等级达到9.8（满分10）](http://zhuanlan.51cto.com/art/202102/647515.htm)
+ > 2021 年 2 月 23 日，VMware 公司发布漏洞安全公告，VMware 多个组件存在远程代码执行、堆溢出漏洞和信息泄
+ ## [为什么CTO、技术总监、架构师都不写代码，还这么厉害](https://blog.csdn.net/m0_46163918/article/details/114097054)
+ > 为什么CTO、技术总监、架构师都不写代码，还这么厉害
+ ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
+ > 
+ ## [3月涨薪季，充电拿Offer：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/5ebd0f76ba8d19050a0cd67f7aad5c5b?utm_source=eduxy_gxhzd_xtk)
+ > 3月涨薪季，充电拿Offer：计算机视觉/深度学习/AI神经网络/图像识别
+ ## [Python详细知识体系总结(2021版)](https://blog.csdn.net/weixin_47654912/article/details/111362057)
+ > 
+ ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
+ > 
+ ## [希望我能帮助你：关于软件开发的建议](https://blog.csdn.net/weixin_38575258/article/details/113982795)
+ > 希望我能帮助你：关于软件开发的建议
+ ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
+ > 
+ ## [狗狗变形记：任选4点的投影变换warpPerspective OpenCV-Python案例](https://blog.csdn.net/LaoYuanPython/article/details/113958088)
+ > 
+ ## [大厂面试干货：大厂社招与HR沟通offer经验分享](https://blog.csdn.net/songguangfan/article/details/114108038)
+ > 大厂面试干货：大厂社招与HR沟通offer经验分享
+ ## [爱奇艺一程序员用 10 万元“买”了个北京户口](https://blog.csdn.net/csdnsevenn/article/details/114005834)
+ > 爱奇艺一程序员用 10 万元“买”了个北京户口
+ ## [【目标检测】RCNN算法详解](https://blog.csdn.net/shenxiaolu1984/article/details/51066975)
+ > 【目标检测】RCNN算法详解
+ ## [C语言结构体（struct）常见使用方法](https://blog.csdn.net/huqinweI987/article/details/23625823)
+ > C语言结构体（struct）常见使用方法
+ ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
+ > 
+ ## [OpenCV实现机器人对物体进行移动跟随](https://blog.csdn.net/Arcann/article/details/109531059)
+ > OpenCV实现机器人对物体进行移动跟随
+ ## [网络编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104903925)
+ > 
 # 人工智能 
  ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
  > 编程方式建视频——GitHub 热点速览 v.21.07
@@ -84,7 +120,7 @@ categories: IT NEWS
  > 刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？
  ## [Golang如何体现面向对象三大特征之封装？](https://blog.csdn.net/weixin_44736475/article/details/114177630)
  > Golang如何体现面向对象三大特征之封装？
- ## [【scrapy】实战爬取前程无忧职位信息](https://blog.csdn.net/weixin_46521587/article/details/114095161)
- > 【scrapy】实战爬取前程无忧职位信息
+ ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
+ > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 
     
