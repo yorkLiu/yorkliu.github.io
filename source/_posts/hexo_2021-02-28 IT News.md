@@ -1,20 +1,20 @@
 ---
 title: 2021-02-28 IT News
 copyright: true
-date: 2021-02-28 08:02:39
+date: 2021-02-28 09:03:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国石油天然气股份有限公司长庆油田分公司与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1614470405&ver=2917&signature=Kli5So9rqP6VCN9hqyRuJIP*svp9OasyjfGquJqIgRGjcV6ojSQ-7Wqj5*Th7CQt1Aq8XFVtToFj6hMHNuACFmFuNAhRD*juPu9XkKI4wPcEcW00PBKe0TJrQwbq75Kr&new=1)
+ ## [中国石油天然气股份有限公司长庆油田分公司与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=Kli5So9rqP6VCN9hqyRuJIP*svp9OasyjfGquJqIgRGjcV6ojSQ-7Wqj5*Th7CQtdvFSLim5OCisayYt9Z7g5--ZKbRV0mwFLLh4m5DnDMn1-9ZTuFDd9-Hm5Zta1Pnk&new=1)
  > 2月26日，中国石油天然气股份有限公司长庆油田分公司（以下简称“长庆油田”）与华为技术有限公司（以下简称“华为”）在西安签署战略合作协议。长庆油田党委书记付锁堂，副总经理石道涵，总地质师李松泉，首席...
- ## [打破质量管理瓶颈!佛吉亚巧用AI异音检测!](http://mp.weixin.qq.com/s?src=11&timestamp=1614470405&ver=2917&signature=5d-bn-5isrVt62CGFvlidgFN2RR0adYDC-Rn85ti8e4cHEYsnt609oAwYsLcVXuiFjxw*CJkIKL-TYFbVMajqHbNCXRxn8OM0QlxQhcPvvedug9g9v4H*dO8maSpr0he&new=1)
+ ## [打破质量管理瓶颈!佛吉亚巧用AI异音检测!](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=5d-bn-5isrVt62CGFvlidgFN2RR0adYDC-Rn85ti8e4cHEYsnt609oAwYsLcVXuiJ0m11uIucxgkGJv4Cbte4eJYciXA8AnSrP3N3hltDXJVHrNHXndb34sg6mD8DTZb&new=1)
  > 导 读 ( 文/ e-works )本文为往年“中国智能制造最佳实践奖”参评案例，全面介绍了世界知名汽车零部件供应商佛吉亚实施智能制造的过程、步骤、重点与难点、获得效益等，分享建设过程中的经验，供广大制造业行业...
- ## [可以将iPhone 12面部识别隐藏在屏下!中兴做到了 全球唯一](http://mp.weixin.qq.com/s?src=11&timestamp=1614470405&ver=2917&signature=7lw-RW5KHiEJCRN0WsY7m0LFHYEJ4L44nQY5usqIHMixJZdzmj2T2tP3AW1apVyWhGBoilXfB60hX0n7pJJIKCYs3GXEM6Hs7wMATz8HLzu3pErZ4SMLWNrV*r*EaL6U&new=1)
+ ## [可以将iPhone 12面部识别隐藏在屏下!中兴做到了 全球唯一](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=7lw-RW5KHiEJCRN0WsY7m0LFHYEJ4L44nQY5usqIHMixJZdzmj2T2tP3AW1apVyWdNRxn9n8e6dgMd8s8mFwkQmh8yOwcMcUCE7Y1LA3a3So8Eo6iFdiIXBD1dXmBrbp&new=1)
  > 在MWC上海站，中兴展示了屏下3D结构光技术，是业内唯一一家实现这一技术的厂商。2月27日消息，中兴通讯吕钱浩指出，中兴全球首发的屏下3D结构光能够实现3D建模活体识别，这样就能保证面部识别的高安全和高可靠性...
- ## [爱立信：全球超过60%毫米波商用网络使用爱立信设备](http://mp.weixin.qq.com/s?src=11&timestamp=1614470405&ver=2917&signature=NzePmkJVM1tRlzVzZIvY-oW6G0eo9hDfDAA54mkAeB0oOCY3jPbwAcd02ut*McXLFvVn98g1FQVvvxfy0rOkpiEm9fdMv59hid-lXRg9qu-zB48u88Q8tO6ISI0WxM**&new=1)
+ ## [爱立信：全球超过60%毫米波商用网络使用爱立信设备](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=NzePmkJVM1tRlzVzZIvY-oW6G0eo9hDfDAA54mkAeB0oOCY3jPbwAcd02ut*McXLI1jsbN5ul47ccja-nmCTpdaDLHYWLOLkZ10Y6EUvXVqZCWknG1OnD6WjQl4NZoxf&new=1)
  > 在“2021 MWC上海”期间举行的“5G毫米波+体育大会”上，爱立信东北亚区网络产品线部门总监吴日平表示：当前全球超过60%的毫米波商用网络使用的都是出自于爱立信的设备。在吴日平看来，5G毫米波的技术特点主要是...
- ## [2021年2月程序员工资最新出炉!网友：这下跳槽稳了](http://mp.weixin.qq.com/s?src=11&timestamp=1614470405&ver=2917&signature=n87s61OYbqev-4zmlHqwYwbZCnIKQkvJAV18AWQHNUl-YjOTafKVv9b-Yp9uJcccq*NKlbuD3R3t7RQR4N6N9mA*R0PyO9nrfHXsVyLYOd4kXx683ZQqhnCJOxUbrMkw&new=1)
+ ## [2021年2月程序员工资最新出炉!网友：这下跳槽稳了](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=n87s61OYbqev-4zmlHqwYwbZCnIKQkvJAV18AWQHNUl-YjOTafKVv9b-Yp9uJcccoYB0MuKbkjsVB2tUPFD3hD4f3VA*Os*bryWmF-3H6eUEJ-GYkxXiQeVmiPKaV3dQ&new=1)
  > 来自：CSDN，作者：有数可据来源：https://blog.csdn.net/juwikuang/article/details/1137297122021年2月采集样本370020人。2021年2月程序员平均工资15144元，工资中位数
 # IT 技术 
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
@@ -31,10 +31,18 @@ categories: IT NEWS
  > 2021 年 Java 开发者生产力报告
  ## [五款值得拥有的 Linux 媒体播放器](http://os.51cto.com/art/202102/646984.htm)
  > 五款值得拥有的 Linux 媒体播放器
- ## [【127】-以太网背景介绍](http://fellow.51cto.com/art/202101/642229.htm?qd=51ctojrzd)
- > 【127】-以太网背景介绍
+ ## [网络攻防案例精讲视频课程](http://fellow.51cto.com/art/202101/639328.htm?qd=51ctojrzd)
+ > 网络攻防案例精讲视频课程
+ ## [你可能不知道的 CSS 负值技巧与细节](http://developer.51cto.com/art/202102/647494.htm)
+ > 写本文的起因是，一天在群里有同学说误打误撞下，使用负的 outline-offset 实现了加号。嗯?好奇的我马上也
+ ## [注意到没？微信新表情戒烟了](http://mobile.51cto.com/app-show-647493.htm)
+ > 原来经过云端更新，微信自带的表情包面板里，代表“悠闲的”绿帽小黄人从之前的吸着一根雪茄变成了嘴角上扬
+ ## [微软 Windows10 《闹钟和时钟》抢先获得全新 “太阳谷”界面 UI：新增圆角元素](http://os.51cto.com/art/202102/647492.htm)
+ > 2月28日消息 外媒 Windows Latest 报道，微软对 Windows 10 默认应用的策略多年来一直是个灾难，一些应用如
  ## [提前享用Windows10新UI？这Windows10魔改工具颜值爆表](http://os.51cto.com/art/202102/647487.htm)
  > 我们知道今年微软会发布Windows10 21H2，新的Windows10系统会全面使用Fluent Design新UI，一改现在Windows1
+ ## [可视化搭建平台的参考网格线设计](http://developer.51cto.com/art/202102/647486.htm)
+ > 最近一工作一直很忙, H5-Dooring也在持续更新迭代中, 接下来笔者将带大家介绍一下H5-Dooring的新功能, 并介
  ## [对年轻人来说，什么才是好的工作？](https://blog.csdn.net/weixin_39787242/article/details/114093009)
  > 对年轻人来说，什么才是好的工作？
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
