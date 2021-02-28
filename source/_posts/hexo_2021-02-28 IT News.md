@@ -1,21 +1,21 @@
 ---
 title: 2021-02-28 IT News
 copyright: true
-date: 2021-02-28 09:03:52
+date: 2021-02-28 10:03:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [中国石油天然气股份有限公司长庆油田分公司与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=Kli5So9rqP6VCN9hqyRuJIP*svp9OasyjfGquJqIgRGjcV6ojSQ-7Wqj5*Th7CQtdvFSLim5OCisayYt9Z7g5--ZKbRV0mwFLLh4m5DnDMn1-9ZTuFDd9-Hm5Zta1Pnk&new=1)
- > 2月26日，中国石油天然气股份有限公司长庆油田分公司（以下简称“长庆油田”）与华为技术有限公司（以下简称“华为”）在西安签署战略合作协议。长庆油田党委书记付锁堂，副总经理石道涵，总地质师李松泉，首席...
- ## [打破质量管理瓶颈!佛吉亚巧用AI异音检测!](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=5d-bn-5isrVt62CGFvlidgFN2RR0adYDC-Rn85ti8e4cHEYsnt609oAwYsLcVXuiJ0m11uIucxgkGJv4Cbte4eJYciXA8AnSrP3N3hltDXJVHrNHXndb34sg6mD8DTZb&new=1)
- > 导 读 ( 文/ e-works )本文为往年“中国智能制造最佳实践奖”参评案例，全面介绍了世界知名汽车零部件供应商佛吉亚实施智能制造的过程、步骤、重点与难点、获得效益等，分享建设过程中的经验，供广大制造业行业...
- ## [可以将iPhone 12面部识别隐藏在屏下!中兴做到了 全球唯一](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=7lw-RW5KHiEJCRN0WsY7m0LFHYEJ4L44nQY5usqIHMixJZdzmj2T2tP3AW1apVyWdNRxn9n8e6dgMd8s8mFwkQmh8yOwcMcUCE7Y1LA3a3So8Eo6iFdiIXBD1dXmBrbp&new=1)
+ ## [可以将iPhone 12面部识别隐藏在屏下!中兴做到了 全球唯一](http://mp.weixin.qq.com/s?src=11&timestamp=1614477604&ver=2917&signature=7lw-RW5KHiEJCRN0WsY7m0LFHYEJ4L44nQY5usqIHMixJZdzmj2T2tP3AW1apVyWHZzHSiZJxqpuuzgWAiz6WKMkjwgbTqAvF*bDunulUc4TqpfjoeiHR3OY2DNDzfth&new=1)
  > 在MWC上海站，中兴展示了屏下3D结构光技术，是业内唯一一家实现这一技术的厂商。2月27日消息，中兴通讯吕钱浩指出，中兴全球首发的屏下3D结构光能够实现3D建模活体识别，这样就能保证面部识别的高安全和高可靠性...
- ## [爱立信：全球超过60%毫米波商用网络使用爱立信设备](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=NzePmkJVM1tRlzVzZIvY-oW6G0eo9hDfDAA54mkAeB0oOCY3jPbwAcd02ut*McXLI1jsbN5ul47ccja-nmCTpdaDLHYWLOLkZ10Y6EUvXVqZCWknG1OnD6WjQl4NZoxf&new=1)
- > 在“2021 MWC上海”期间举行的“5G毫米波+体育大会”上，爱立信东北亚区网络产品线部门总监吴日平表示：当前全球超过60%的毫米波商用网络使用的都是出自于爱立信的设备。在吴日平看来，5G毫米波的技术特点主要是...
- ## [2021年2月程序员工资最新出炉!网友：这下跳槽稳了](http://mp.weixin.qq.com/s?src=11&timestamp=1614474004&ver=2917&signature=n87s61OYbqev-4zmlHqwYwbZCnIKQkvJAV18AWQHNUl-YjOTafKVv9b-Yp9uJcccoYB0MuKbkjsVB2tUPFD3hD4f3VA*Os*bryWmF-3H6eUEJ-GYkxXiQeVmiPKaV3dQ&new=1)
+ ## [2021年2月程序员工资最新出炉!网友：这下跳槽稳了](http://mp.weixin.qq.com/s?src=11&timestamp=1614477604&ver=2917&signature=n87s61OYbqev-4zmlHqwYwbZCnIKQkvJAV18AWQHNUl-YjOTafKVv9b-Yp9uJcccZVrwkmjWx60YL3cPYErsQ3snWsCBE0GaIAdANOR3cqxzcwLYrkDkg354DG5Kb556&new=1)
  > 来自：CSDN，作者：有数可据来源：https://blog.csdn.net/juwikuang/article/details/1137297122021年2月采集样本370020人。2021年2月程序员平均工资15144元，工资中位数
+ ## [中国石油天然气股份有限公司长庆油田分公司与华为签署战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1614477604&ver=2917&signature=Kli5So9rqP6VCN9hqyRuJIP*svp9OasyjfGquJqIgRGjcV6ojSQ-7Wqj5*Th7CQtvwqMdFvz45xUiktdQTBklEiEcwBYZuIMJ-MRVdGcBr0l1Rd4Mfxr2H-iW9RQ124r&new=1)
+ > 2月26日，中国石油天然气股份有限公司长庆油田分公司（以下简称“长庆油田”）与华为技术有限公司（以下简称“华为”）在西安签署战略合作协议。长庆油田党委书记付锁堂，副总经理石道涵，总地质师李松泉，首席...
+ ## [打破质量管理瓶颈!佛吉亚巧用AI异音检测!](http://mp.weixin.qq.com/s?src=11&timestamp=1614477604&ver=2917&signature=5d-bn-5isrVt62CGFvlidgFN2RR0adYDC-Rn85ti8e4cHEYsnt609oAwYsLcVXui06orkS0N7b7r69hEKkAN6tPtmQInhW0qRjB7y4lUY4DJUsqyiQny1-o7riapuJJf&new=1)
+ > 导 读 ( 文/ e-works )本文为往年“中国智能制造最佳实践奖”参评案例，全面介绍了世界知名汽车零部件供应商佛吉亚实施智能制造的过程、步骤、重点与难点、获得效益等，分享建设过程中的经验，供广大制造业行业...
+ ## [爱立信：全球超过60%毫米波商用网络使用爱立信设备](http://mp.weixin.qq.com/s?src=11&timestamp=1614477604&ver=2917&signature=NzePmkJVM1tRlzVzZIvY-oW6G0eo9hDfDAA54mkAeB0oOCY3jPbwAcd02ut*McXLJ7bZX7zP50C5gqdTdb2a1hRbH-*EbzatOXsPuIPci3KMjbVB6Ze4a6IHcldtz0oL&new=1)
+ > 在“2021 MWC上海”期间举行的“5G毫米波+体育大会”上，爱立信东北亚区网络产品线部门总监吴日平表示：当前全球超过60%的毫米波商用网络使用的都是出自于爱立信的设备。在吴日平看来，5G毫米波的技术特点主要是...
 # IT 技术 
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
  > 值得推荐的七大流行Web开发技术栈
@@ -31,8 +31,10 @@ categories: IT NEWS
  > 2021 年 Java 开发者生产力报告
  ## [五款值得拥有的 Linux 媒体播放器](http://os.51cto.com/art/202102/646984.htm)
  > 五款值得拥有的 Linux 媒体播放器
- ## [网络攻防案例精讲视频课程](http://fellow.51cto.com/art/202101/639328.htm?qd=51ctojrzd)
- > 网络攻防案例精讲视频课程
+ ## [MySQL数据库备份恢复基础知识讲解_MySQL数据库备份与恢复01](http://fellow.51cto.com/art/202012/634845.htm?qd=51ctojrzd)
+ > MySQL数据库备份恢复基础知识讲解_MySQL数据库备份与恢复01
+ ## [勒索，恶意软件和残酷的骗局-恶意软件2021年报告](http://netsecurity.51cto.com/art/202102/647495.htm)
+ > 去年，攻击者以出乎意料的方式利用了COVID-19公共卫生危机，不仅在全球疫情大流行最初的短短几个月中造成了
  ## [你可能不知道的 CSS 负值技巧与细节](http://developer.51cto.com/art/202102/647494.htm)
  > 写本文的起因是，一天在群里有同学说误打误撞下，使用负的 outline-offset 实现了加号。嗯?好奇的我马上也
  ## [注意到没？微信新表情戒烟了](http://mobile.51cto.com/app-show-647493.htm)
@@ -43,8 +45,8 @@ categories: IT NEWS
  > 我们知道今年微软会发布Windows10 21H2，新的Windows10系统会全面使用Fluent Design新UI，一改现在Windows1
  ## [可视化搭建平台的参考网格线设计](http://developer.51cto.com/art/202102/647486.htm)
  > 最近一工作一直很忙, H5-Dooring也在持续更新迭代中, 接下来笔者将带大家介绍一下H5-Dooring的新功能, 并介
- ## [对年轻人来说，什么才是好的工作？](https://blog.csdn.net/weixin_39787242/article/details/114093009)
- > 对年轻人来说，什么才是好的工作？
+ ## [逆向工程发现苹果 M1 未公开的秘密：矩阵协处理器](https://blog.csdn.net/weixin_39787242/article/details/114029262)
+ > 逆向工程发现苹果 M1 未公开的秘密：矩阵协处理器
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
  > 
  ## [3月涨薪季，充电拿Offer：计算机视觉/深度学习/AI神经网络/图像识别](https://marketing.csdn.net/p/5ebd0f76ba8d19050a0cd67f7aad5c5b?utm_source=eduxy_gxhzd_xtk)
@@ -63,15 +65,15 @@ categories: IT NEWS
  > 大厂面试干货：大厂社招与HR沟通offer经验分享
  ## [爱奇艺一程序员用 10 万元“买”了个北京户口](https://blog.csdn.net/csdnsevenn/article/details/114005834)
  > 爱奇艺一程序员用 10 万元“买”了个北京户口
- ## [Java面试不通过？这篇文章你看了吗？](https://blog.csdn.net/weixin_44563573/article/details/107760021)
- > Java面试不通过？这篇文章你看了吗？
- ## [我要偷偷的学Python，然后惊呆所有人（第十四天）](https://blog.csdn.net/qq_43762191/article/details/109824836)
- > 我要偷偷的学Python，然后惊呆所有人（第十四天）
+ ## [【目标检测】RCNN算法详解](https://blog.csdn.net/shenxiaolu1984/article/details/51066975)
+ > 【目标检测】RCNN算法详解
+ ## [C语言结构体（struct）常见使用方法](https://blog.csdn.net/huqinweI987/article/details/23625823)
+ > C语言结构体（struct）常见使用方法
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [⭐ 李宏毅2020机器学习资料汇总](https://blog.csdn.net/iteapoy/article/details/105382315)
- > 
- ## [80%以上的应届毕业生看了我的面经都拿到了心仪的大厂offer](https://blog.csdn.net/Charmve/article/details/104987309)
+ ## [OpenCV实现机器人对物体进行移动跟随](https://blog.csdn.net/Arcann/article/details/109531059)
+ > OpenCV实现机器人对物体进行移动跟随
+ ## [网络编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104903925)
  > 
 # 人工智能 
  ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
