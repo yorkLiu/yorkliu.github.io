@@ -1,58 +1,64 @@
 ---
 title: 2021-03-01 IT News
 copyright: true
-date: 2021-03-01 09:09:22
+date: 2021-03-01 10:05:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“点亮未来”演播间\[四\]：对话泰国玛希隆大学医学主任Prof.Dr.Prasit Watanapa](http://mp.weixin.qq.com/s?src=11&timestamp=1614560404&ver=2919&signature=wevo951FBmYzEjpKsibjW29BLPKjFI4pzoCwSnvioZu1ovUNoBpWOrrFPjx72NEqvIN5lGEDaajbstWeGLHZvWeXO1Q8rs1tSzb0wsq7f5f0P4KflsVeYlDRWKS*qJF4&new=1)
- > 2021 MWC 上海期间，华为“点亮未来”演播间正式开播。演播间采用线上线下结合的形式，邀请来自全球的运营商、产业链伙伴、垂直行业领导者、行业组织的专家代表等分享5G、云网融合等ICT技术的创新应用、成功实践...
- ## [警钟长鸣!今年首单破坏通信网络案判决：三人故意剪断光缆均获有期徒刑](http://mp.weixin.qq.com/s?src=11&timestamp=1614560404&ver=2919&signature=n4x1sd0fv-cRKlbhluXXs9UUi1G33P2sduCSqYaU8VCkdq2QkzonYTT0PVwDReRUDOB5enBJXytV*N-VPc1eDUE*QyODy7okMDqhC0uAvgT5H*EavswDO5TlzwW6Ebhu&new=1)
+ ## [7点见|深圳国资接盘23%苏宁易购股份；侵犯隐私脸书被判天价赔偿](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=dOJIVlPVHou9TM*LfSlg0PRKavrxSXUQPd9-nvVyNHjq6mnp-*sfCF28zWTjOnoD39qMjU30Jpp9LTUvtPtwM2M3VoyzFPq70p7j7KseHkZ74U1rsHWsXfeOOQX5xkiZ&new=1)
+ > 各位小伙伴早上好呀！中国探月工程首任总指挥栾恩杰介绍，未来我国将研制100吨级的重型运载火箭，以满足走向更深远太空的需求。目前，论证阶段已基本完成，进入立项后续阶段，重型火箭的研究工作有望在“十四五...
+ ## [瞭望丨左右人工智能生态的根技术，我国发展如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=J0H5xUq7edboMBopU6tPYfmbtOialFtRuEbc8ErUrKpXps-IK5O8eWarQN5h-KaN2hw89rw*r7lDleGMz*D2uHnPg8*h*go9EdiLGOHSeaVsig9L6-nZ4KhqMzSVS0Jy&new=1)
+ > 三篇文章透析当前人工智能发展◆ 《解码人工智能根技术》随着中美竞争态势加剧，人工智能成为大国竞争的新焦点。与美国相比，我国目前人工智能的短板就是关键根技术的缺失“十四五”时期人工智能规划需要关注的...
+ ## [警钟长鸣!今年首单破坏通信网络案判决：三人故意剪断光缆均获有期徒刑](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=n4x1sd0fv-cRKlbhluXXs9UUi1G33P2sduCSqYaU8VCkdq2QkzonYTT0PVwDReRUbnlkDAALkWM2HqTZaIPG7*23x61byrDdFGyJAcRQjZWhVnn7YNJrrKalyhFe606u&new=1)
  > 新年伊始，深圳首单判决破坏基础通信网络案件浮出水面，3人故意剪断深圳移动光缆均被判处有期徒刑，为保护城市基础通信设施、护航高质量发展警钟长鸣。记者从这起公开审理的案件获悉，3名被告均系某运营商员工，...
- ## [\[前瞻\]物联网产业将分四个阶段不断发展，未来几年将大幅成长](http://mp.weixin.qq.com/s?src=11&timestamp=1614560404&ver=2919&signature=vUh39wDwFRwqW1zEiJExROBl*fNPRGSG2n6AGrXqzxsYGeiWIStgN8Jx-JT*iPDpmmaegDDJO9wwgZcVnr*vwY1cJB2Mo5*VZ5EI0SnOhXh4xlFp*7u1iMxv70rWqq79&new=1)
+ ## [\[报告\]自动驾驶加速，智能汽车时代来临(附37页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=8j0G8A4mWl9FO8TXwn9rghDcrj*Dk9-Oujmv5yaalJ7hhJBYDXtNFzj2XfGAEl*wubJ5Z9v6pxrmUthkOIo88RSvkpXkH3KGhBI3F2PxocCh9GakH5kc7DobKdLOSqmu&new=1)
+ > 本文提供完整版报告下载，请查看文后提示。以下为报告节选：......文│中信证券本报告共计：37页。如欲获取完整版PPT文件，请扫描下方二维码加入“车友圈”获取。重磅推荐需要批量下载和及时更新最新汽车行业...
+ ## [\[前瞻\]物联网产业将分四个阶段不断发展，未来几年将大幅成长](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=vUh39wDwFRwqW1zEiJExROBl*fNPRGSG2n6AGrXqzxsYGeiWIStgN8Jx-JT*iPDpGxiwemMmU0mAJjh8yILQFdNx*2oavVGCvtvafxNNXvtMXo4dyDxvYQZBO9HOx6QF&new=1)
  > 近日，据台湾《经济日报》消息，2月24日至5月6日，由研华科技主导的研华全球伙伴线上高峰论坛－Advantech Connect将续三个月进行超过20场以上的线上主题论坛，研华科技是工业物联网领域知名厂商。本次论坛，将以...
- ## [客厅娱乐迎来变革者，华为“全场景体验生态”造梦?|上海MWC直击](http://mp.weixin.qq.com/s?src=11&timestamp=1614560404&ver=2919&signature=n-R7NErSqtkqmb0yo5R5omtpbyNRseU5Abo2siTKbbmxP3XXn*Kv5IMk7YRSYXC867qqkeULyDj4feMokTqTAuNBWPvCkxV7zOmNethde*DRhRHXahlGqkhJ6KxZqsXB&new=1)
+ ## [“点亮未来”演播间\[四\]：对话泰国玛希隆大学医学主任Prof.Dr.Prasit Watanapa](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=wevo951FBmYzEjpKsibjW29BLPKjFI4pzoCwSnvioZu1ovUNoBpWOrrFPjx72NEqsMLiZLS4cNGozqJfz94NmOEw8*h6W8eyaRCctx83INBe8xHlEkaz8k9QqS7lQ1jw&new=1)
+ > 2021 MWC 上海期间，华为“点亮未来”演播间正式开播。演播间采用线上线下结合的形式，邀请来自全球的运营商、产业链伙伴、垂直行业领导者、行业组织的专家代表等分享5G、云网融合等ICT技术的创新应用、成功实践...
+ ## [客厅娱乐迎来变革者，华为“全场景体验生态”造梦?|上海MWC直击](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=n-R7NErSqtkqmb0yo5R5omtpbyNRseU5Abo2siTKbbmxP3XXn*Kv5IMk7YRSYXC8ZqZWrIXv3pegv0G8VmgQe9FbVZXBJk8W-KdTRJTGGdEfswW7kw379q85B*QO4Avr&new=1)
  > 导语华为建立的全场景体验生态中，包括智慧出行、运动健康、智慧办公、智能家居和影音娱乐五大场景，这其中，影音娱乐是最受用户关注的场景。当消费者可以在自家客厅看着大屏电视欣赏最新大片，可以通过智能音箱...
- ## [2021 MWC 上海呈现网络创新趋势：中国联通唐雄燕畅谈云网融合2.0](http://mp.weixin.qq.com/s?src=11&timestamp=1614560404&ver=2919&signature=ocgQsM*47Eji8GXbVEz-bRRJyfMy3xWzRDmk*JctEfPG3QWaq*Ii5Eb4yXmwZn*PlP62VTUNLMlCjsL2b3LscBAwLQNZ0ywbN0hFyuCd6zJTTpo0FVbQPSvJvNfi9M9H&new=1)
+ ## [2021 MWC 上海呈现网络创新趋势：中国联通唐雄燕畅谈云网融合2.0](http://mp.weixin.qq.com/s?src=11&timestamp=1614564004&ver=2919&signature=ocgQsM*47Eji8GXbVEz-bRRJyfMy3xWzRDmk*JctEfPG3QWaq*Ii5Eb4yXmwZn*Pettg93xhe2VV4pA7HF4Ra0LAXDP7bFle2EQwZcUcWEFgNHgKHtMBa1ZgWdMD9Ip6&new=1)
  > 在刚刚举行的2021MWC上海展会期间，除了5G，云网融合脱颖而出，成为另一大热点。多位运营商、行业专家、设备商等产业链一起探讨云网融合话题。在2021 MWC 上海华为“点亮未来”演播间，中国联通研究院首席科学家...
 # IT 技术 
  ## [适合Web开发者的十大数据库优化实践](http://database.51cto.com/art/202103/647540.htm)
  > 适合Web开发者的十大数据库优化实践
- ## [CTO不写代码，凭什么拿高工资？](http://news.51cto.com/art/202103/647544.htm)
- > CTO不写代码，凭什么拿高工资？
- ## [Linux用户宝典：使用Conda创建NodeJS虚拟环境](http://os.51cto.com/art/202103/647538.htm)
- > Linux用户宝典：使用Conda创建NodeJS虚拟环境
  ## [血一般的教训，请慎用Insert Into Select](http://database.51cto.com/art/202103/647543.htm)
  > 血一般的教训，请慎用Insert Into Select
+ ## [Linux用户宝典：使用Conda创建NodeJS虚拟环境](http://os.51cto.com/art/202103/647538.htm)
+ > Linux用户宝典：使用Conda创建NodeJS虚拟环境
+ ## [鸿蒙HarmonyOS三方件开发指南-cropper图片裁剪](http://developer.51cto.com/art/202102/647345.htm)
+ > 鸿蒙HarmonyOS三方件开发指南-cropper图片裁剪
+ ## [P7砖家：对不起，我要跑路了！](http://news.51cto.com/art/202103/647545.htm)
+ > P7砖家：对不起，我要跑路了！
+ ## [如何在React中处理组件交互？](http://developer.51cto.com/art/202102/647352.htm)
+ > 如何在React中处理组件交互？
  ## [值得推荐的七大流行Web开发技术栈](http://developer.51cto.com/art/202102/647209.htm)
  > 值得推荐的七大流行Web开发技术栈
- ## [微服务架构下，企业该如何技术选型呢？](http://developer.51cto.com/art/202102/646986.htm)
- > 微服务架构下，企业该如何技术选型呢？
- ## [什么是熄灯数据中心？可能在新应用和边缘采用](http://server.51cto.com/Datacenter-647206.htm)
- > 什么是熄灯数据中心？可能在新应用和边缘采用
- ## [Linux平台MySQL安装配置与管理入门_MySQL数据库基础与项目实战03](http://fellow.51cto.com/art/202012/635274.htm?qd=51ctojrzd)
- > Linux平台MySQL安装配置与管理入门_MySQL数据库基础与项目实战03
- ## [物联网产业将分四个阶段不断发展，未来几年将大幅成长](http://iot.51cto.com/art/202103/647613.htm)
- > 本次论坛，将以AIoT Vision为主题，聚焦工业物联网、嵌入式物联网、WISE-PaaS物联云平台、智慧城市方案与服
- ## [我嘞个去，慢查询竟把系统搞崩了](http://database.51cto.com/art/202103/647606.htm)
- > 通常情况下，SQL 慢查询一般只会导致应用服务响应变慢，但在去年双十一活动时，我碰到了一个慢查询把整个网
- ## [Node.js Stream 模块 Pipe 方法使用与实现原理分析](http://developer.51cto.com/art/202103/647605.htm)
- > 通过流我们可以将一大块数据拆分为一小部分一点一点的流动起来，而无需一次性全部读入，在 Linux 下我们可
- ## [死磕归并排序算法](http://developer.51cto.com/art/202103/647603.htm)
- > 要将一个数组排序，可以先将数组分为两个数组分别排序，然后再将结果归并在一起，重复递归这个过程，直到数
- ## [工作两三年了，整不明白架构图都画啥？](http://developer.51cto.com/art/202103/647601.htm)
- > 一提到画图很多人就想站起来喊，”内卷“、”内卷啦“、”PPT工程师“，但程序代码本身就是一种数学逻辑的
- ## [关于 Java 注解（annotation）编程](http://developer.51cto.com/art/202103/647602.htm)
- > 今天在看以前写的代码，发现自己对注解的了解还不是非常透彻，经常选择性就忽视了对注解实现的探究，遂查询
- ## [一篇带给你kubernetes的多个可视化管理工具](http://os.51cto.com/art/202103/647600.htm)
- > Kubernetes已经成为大规模部署容器化应用程序一种标准方式。但是，Kubernetes本身却是非常复杂，作为新手是
- ## [Java泛型你必须知道的知识](http://developer.51cto.com/art/202103/647599.htm)
- > Java 泛型（generics）是 JDK 5 中引入的一个新特性, 泛型提供了编译时类型安全检测机制，该机制允许程序员
- ## [微软 Edge Canary 预览版支持调整垂直标签页大小，文字显示更全](http://os.51cto.com/art/202103/647597.htm)
- > 微软 Edge 浏览器 Canary 预览版每日一更，为用户提供最新的测试功能。此前该版本浏览器带来了标签页搜索、
- ## [微信“戒烟”背后揭秘：北京市控烟协会曾给马化腾写信](http://mobile.51cto.com/app-show-647596.htm)
- > 2月28日，腾讯公司官方微博宣布，最近……戒烟了――代表“酷”绿帽小黄人表情，从之前的吸着一根雪茄，变
+ ## [Oracle性能优化之性能调整与SQL优化_Oracle性能优化与故障诊断08](http://fellow.51cto.com/art/202012/636009.htm?qd=51ctojrzd)
+ > Oracle性能优化之性能调整与SQL优化_Oracle性能优化与故障诊断08
+ ## [Hinton独立发布44页论文：给你们个idea，自己去试吧](http://news.51cto.com/art/202103/647629.htm)
+ > 深度学习推动了 AI 领域成为目前最热门的学科，但引领这一风潮的先驱者，如 Geoffrey Hinton，正期待对神经
+ ## [鸿蒙HarmonyOS三方件开发指南-Updownfile](http://developer.51cto.com/art/202103/647343.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [标准让区块链人才更专业化](http://blockchain.51cto.com/art/202103/647627.htm)
+ > 近日人力资源社会保障部与工业和信息化部联合颁布了三个国家职业技术技能标准，其中包括了区块链工程技术
+ ## [这7道关于闭包的面试题，你能答对几个？](http://developer.51cto.com/art/202103/647626.htm)
+ > 每个JavaScript程序员都必须知道闭包是什么。在JavaScript面试中，你很可能会被问到闭包的概念。以下是7个
+ ## [2020年遭勒索型DDoS攻击的金融服务公司超100家](http://netsecurity.51cto.com/art/202103/647624.htm)
+ > 2020年，多个国家超100家金融服务公司遭遇同一黑客团伙发起的一波勒索型分布式拒绝服务(DDoS)攻击。
+ ## [2021年值得学习的5种编程语言](http://developer.51cto.com/art/202103/647623.htm)
+ > 在本文中，我将为您提供5种软件行业中是必不可少的编程语言，高薪的技能和他们的优势，缺点，以及它们使用
+ ## [RBAC模型整合数据权限](http://bigdata.51cto.com/art/202103/647621.htm)
+ > 在项目实际开发中我们不光要控制一个用户能访问哪些资源，还需要控制用户只能访问资源中的某部分数据。
+ ## [换手机也舍不得卸载的9个宝藏APP，款款精挑细选，请低调使用](http://mobile.51cto.com/ahot-647622.htm)
+ > 今天我就给大家安利9个宝藏APP，换手机也舍不得卸载，款款都是精挑细选，还请大家低调使用哦。
+ ## [十问2021：高效机房能成为冷水机组行业发展新趋势吗？](http://server.51cto.com/BuildDC-647620.htm)
+ > 对于2021年离心机市场的发展，市场共同的观点是，最近几年一直很火的细分产品――磁悬浮离心机的推陈出新还
+ ## [微软Windows10 21H1 已开始为 PC 电脑准备，启用包大小仅 22KB](http://os.51cto.com/art/202103/647619.htm)
+ > 3月1日消息 外媒 Windows Latest 报道，Windows 10 21H1 更新推出时间预计将在 2021 年 5 月 / 6 月，并将
  ## [放弃大厂高薪的程序员，涌进体制内](https://blog.csdn.net/weixin_39787242/article/details/114093540)
  > 放弃大厂高薪的程序员，涌进体制内
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
@@ -73,16 +79,16 @@ categories: IT NEWS
  > 爱奇艺一程序员用 10 万元“买”了个北京户口
  ## [元宵节就要到了，花灯要不要来一盏？3D的那种](https://blog.csdn.net/xufive/article/details/114058247)
  > 元宵节就要到了，花灯要不要来一盏？3D的那种
- ## [真惨！连各大编程语言都摆起地摊了！](https://blog.csdn.net/xuanyuan_fsx/article/details/106658585)
- > 
- ## [前端面试题（持续更新中）](https://blog.csdn.net/weixin_39940684/article/details/102939078)
- > 前端面试题（持续更新中）
+ ## [R语言时间序列TAR阈值自回归模型](https://blog.csdn.net/qq_19600291/article/details/79699403)
+ > R语言时间序列TAR阈值自回归模型
+ ## [C简单学生信息管理系统（C课程设计）](https://blog.csdn.net/robot_sh/article/details/110942448)
+ > C简单学生信息管理系统（C课程设计）
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [R语言中的时间序列分析模型：ARIMA-ARCH / GARCH模型分析股票价格](https://blog.csdn.net/qq_19600291/article/details/105914564)
- > R语言中的时间序列分析模型：ARIMA-ARCH / GARCH模型分析股票价格
- ## [5道选择题全做错，说起项目头头是道，这样的求职者能录用吗？](https://blog.csdn.net/X8i0Bev/article/details/111148191)
- > 5道选择题全做错，说起项目头头是道，这样的求职者能录用吗？
+ ## [R语言dplyr包：高效数据处理函数（filter、group_by、mutate、summarise）](https://blog.csdn.net/LEEBELOVED/article/details/84977378)
+ > R语言dplyr包：高效数据处理函数（filter、group_by、mutate、summarise）
+ ## [校园闲置物品（跳蚤市场）交易平台的设计与实现](https://blog.csdn.net/ppjjhh666/article/details/105027113)
+ > 校园闲置物品（跳蚤市场）交易平台的设计与实现
 # 人工智能 
  ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
  > 编程方式建视频——GitHub 热点速览 v.21.07
@@ -114,5 +120,8 @@ categories: IT NEWS
  > Golang如何体现面向对象三大特征之封装？
  ## [【scrapy】实战爬取前程无忧职位信息](https://blog.csdn.net/weixin_46521587/article/details/114095161)
  > 【scrapy】实战爬取前程无忧职位信息
+# PM 
+ ## [摹客在线设计支持下载离线演示包！](http://www.chanpin100.com/article/113663)
+ > 摹客本次更新在线设计部分，推出了“下载离线演示包”的功能！摹客协作部分，新增“快速入门”模块，还支持切图代码自动生成等。
 
     
