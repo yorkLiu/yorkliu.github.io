@@ -1,22 +1,26 @@
 ---
 title: 2021-03-02 IT News
 copyright: true
-date: 2021-03-02 08:18:22
+date: 2021-03-02 09:15:24
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [卖到断货!全面爆发!哈尔滨9区9县市今年全部准备好……](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=shke1kOMlJNsD5Cayrib4Wrn*3xz*DsGSnLMi8tQA4jaDuellGh-VbCR9Vb0GSUTQNzEXXa4yf6IJkwiE4uEtpf1XRAlOwnxO-R86oDE5smeVVXiUsDCT3yz9KkY5meE&new=1)
- > 2020年是我国5G手机加速放量的一年配图来自摄图网去年，我省建设了 1.8 万个 5G 基站。其中，哈市 9 区 9 县、市核心区域及重要交通干线、重要场景区域已实现 5G 信号覆盖。今年，5G 网络建设将基本覆盖全省县城...
- ## [众专家为何热议5G演进?新应用需求驱动，实现可持续发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=D*cS61bVkDvtMtfSWewq6mH7cT35aBLO5lFcbsirA07VUmD1rg4h2N2663JrMoKfXvPjfnygq*59l*672s-nuqWbeku40niwW5OcR145IAX9Sa7STP3o3FTWcDA-xgvu&new=1)
- > 2021 MWC上海展刚刚结束，许多亮点仍然记忆犹新。而笔者发现有一热词在展区和论坛中出现频率极高，被多次提及，就是“5G演进”。中国移动研究院副院长黄宇红在GSMA主办的5G演进峰会上，对5G演进的需求和发展方向...
- ## [运营商的苦日子真的要来了?!](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=arSSw4BZpHShuchmfgKAsh0*2XRx3VvxnwNbBu4M-hpelt0lZpWXkByJ2szLoVVBUsL7Iqt0GdIS4rdEPGuVxIjXLf2BQ0qbYif1Unr55qSdwQJa2QqCY0A-hwclg9sF&new=1)
- > 3月1日，国务院新闻办举行工业和信息化发展情况新闻发布会，工业和信息化部部长肖亚庆表示，要进一步提升工业信息化对外开放，全面开放一般制造业，有序开放电信领域外资准入的限制，吸引更多外资、高端制造业项...
- ## [由于2021年第一季度营收强劲，惠普股价上涨7%](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=ployC6VyaNrcC6aeq8on1KLF-w1-BwmZbymmQ-WB5sZrh8ftkK9fMcATwWAdfTyfu-fGfVZAx4dzxw8aPq4Bh00ACukrNy2eK1jyV3*B--OGk4GzfuHMvlXve*l5k-3S&new=1)
- > 惠普公司（HPQ）的最新财务业绩显示，该公司在2021年第一季度的表现好于预期，导致其股价在发布该数据后不久上涨了7％。在第一季度，惠普创造了156亿美元的收入，比2020年第一季度的146亿美元增长了7％。因此，...
- ## [苹果是怎样把我们变成「电子人」的?](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=EYbqLCuHAyPXkA5JivLEoWZA4yf3QAPd0SLonFJmoDpNezcDtEoIWs9fSPrC5ZkM*E3qHlIBFYBgWV24mD36gNunMhLGmmRfHmXwtcC9tJbIasGahgYhbv7rpozuJSJG&new=1)
+ ## [苹果是怎样把我们变成「电子人」的?](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=EYbqLCuHAyPXkA5JivLEoWZA4yf3QAPd0SLonFJmoDpNezcDtEoIWs9fSPrC5ZkMS7BPUSj3tEwcjAru3xrBn6ju71PEGnvjHTiT28UtmBq2zMr5w2sCyOoTgWNi9ncR&new=1)
  > 20 世纪 60 年代，NASA 的两位科学家 Manfred Clynes 和 Nathan S. Kline 在对宇宙旅行的研究中，提出了赛博格（Cyborg）的概念。20 世纪后半叶以来，赛博格在许多科幻文学和影视作品中，都描绘了人类
+ ## [众专家为何热议5G演进?新应用需求驱动，实现可持续发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=D*cS61bVkDvtMtfSWewq6mH7cT35aBLO5lFcbsirA07VUmD1rg4h2N2663JrMoKfhgqW4HsqpqgHATKN52Z0iHJEq*Uih95kevBkwbe5aBX6TlbXpk3t*WnGp8fqRrRg&new=1)
+ > 2021 MWC上海展刚刚结束，许多亮点仍然记忆犹新。而笔者发现有一热词在展区和论坛中出现频率极高，被多次提及，就是“5G演进”。中国移动研究院副院长黄宇红在GSMA主办的5G演进峰会上，对5G演进的需求和发展方向...
+ ## [由于2021年第一季度营收强劲，惠普股价上涨7%](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=ployC6VyaNrcC6aeq8on1KLF-w1-BwmZbymmQ-WB5sZrh8ftkK9fMcATwWAdfTyfduTfAxVt0tMtcM2IiUt38awjLH503VS2q-ewdrZpw5PURK-zYQ3r1UvteHp1jjoz&new=1)
+ > 惠普公司（HPQ）的最新财务业绩显示，该公司在2021年第一季度的表现好于预期，导致其股价在发布该数据后不久上涨了7％。在第一季度，惠普创造了156亿美元的收入，比2020年第一季度的146亿美元增长了7％。因此，...
+ ## [运营商的苦日子真的要来了?!](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=arSSw4BZpHShuchmfgKAsh0*2XRx3VvxnwNbBu4M-hpelt0lZpWXkByJ2szLoVVBql0n5VeisG*fw1w1OIDNJbf-99uTXsIPNu-GZQJPM5DTd67SJjxLiAkuDBFbHBf3&new=1)
+ > 3月1日，国务院新闻办举行工业和信息化发展情况新闻发布会，工业和信息化部部长肖亚庆表示，要进一步提升工业信息化对外开放，全面开放一般制造业，有序开放电信领域外资准入的限制，吸引更多外资、高端制造业项...
+ ## [卖到断货!全面爆发!哈尔滨9区9县市今年全部准备好……](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=shke1kOMlJNsD5Cayrib4Wrn*3xz*DsGSnLMi8tQA4jaDuellGh-VbCR9Vb0GSUTZIsFyD53Y38HJrFDvpISQD4clJ5da5zy*N0hpCFj*kippPrZ7Kmx70oJDurGnCLU&new=1)
+ > 2020年是我国5G手机加速放量的一年配图来自摄图网去年，我省建设了 1.8 万个 5G 基站。其中，哈市 9 区 9 县、市核心区域及重要交通干线、重要场景区域已实现 5G 信号覆盖。今年，5G 网络建设将基本覆盖全省县城...
 # IT 技术 
+ ## [公司悄悄部署了一个东西，盯着你・・・](http://netsecurity.51cto.com/art/202103/647756.htm)
+ > 公司悄悄部署了一个东西，盯着你・・・
+ ## [开源式框架Xamarin与React Native大比拼](http://developer.51cto.com/art/202103/647753.htm)
+ > 开源式框架Xamarin与React Native大比拼
  ## [项目管理指南：提示、策略、最佳实践](http://www.cioage.com/art/202103/647752.htm)
  > 项目管理指南：提示、策略、最佳实践
  ## [现在最好玩的AI竟然来自一个家谱公司？](http://news.51cto.com/art/202103/647707.htm)
@@ -27,28 +31,28 @@ categories: IT NEWS
  > 血一般的教训，请慎用Insert Into Select
  ## [Linux用户宝典：使用Conda创建NodeJS虚拟环境](http://os.51cto.com/art/202103/647538.htm)
  > Linux用户宝典：使用Conda创建NodeJS虚拟环境
- ## [256变4096：分库分表扩容如何实现平滑数据迁移？](http://developer.51cto.com/art/202103/647637.htm)
- > 256变4096：分库分表扩容如何实现平滑数据迁移？
- ## [鸿蒙HarmonyOS三方件开发指南-cropper图片裁剪](http://developer.51cto.com/art/202102/647345.htm)
- > 鸿蒙HarmonyOS三方件开发指南-cropper图片裁剪
- ## [【王佩丰】PowerPoint2010视频教程](http://fellow.51cto.com/art/202101/640940.htm?qd=51ctojrzd)
- > 【王佩丰】PowerPoint2010视频教程
+ ## [标杆徐2018 Linux自动化运维系列①: CentOS7系统应用与实践](http://fellow.51cto.com/art/202012/635273.htm?qd=51ctojrzd)
+ > 标杆徐2018 Linux自动化运维系列①: CentOS7系统应用与实践
+ ## [关于区块链技术与比特币的关系，你知道吗？](http://blockchain.51cto.com/art/202103/647816.htm)
+ > 相信很多人都听说过大名鼎鼎的比特币和区块链，那么比特币和区块链有什么区别呢？在这里，我们从技术层面进
+ ## [区块链开发中使用的很受欢迎的编程语言](http://blockchain.51cto.com/art/202103/647815.htm)
+ > 目前，我们正处于一个新兴的区块链开发产业中。区块链技术还处于起步阶段，但是这种破坏性技术已经成功席卷
+ ## [阿里巴巴Druid，轻松实现MySQL数据库加密！](http://database.51cto.com/art/202103/647809.htm)
+ > 本文我们使用阿里巴巴开源的 Druid 实现了 MySQL 的密码加密，Druid 的加密过程非常方便，无需编写任何代码
+ ## [前端基础知识整理汇总二](http://developer.51cto.com/art/202103/647806.htm)
+ > 接上昨天的《前端基础知识整理汇总（上）》，这些知识虽然是很基础的，但是对于系统的梳理还是非常有帮助的
+ ## [C 正则表达式，你会几个？](http://developer.51cto.com/art/202103/647805.htm)
+ > 最近写爬虫时需要用到正则表达式，有段时间没有使用正则表达式现在渐渐感觉有些淡忘，现在使用还需要去查询
+ ## [我喜欢的 12 个VSCode 插件！](http://developer.51cto.com/art/202103/647807.htm)
+ > VSCode 之所以是如此出色的代码编辑器，其原因之一是由社区创建的庞大的插件库，从而提高了开发人员的工作
+ ## [如何友好的处理 WebApi 中抛出的错误](http://developer.51cto.com/art/202103/647803.htm)
+ > 微软的 ASP.NET Web API 是一个轻量级的web框架，可用来构建基于 http 无状态的rest服务，异常是一种运行时
+ ## [Java8 新特性全面介绍，强烈建议收藏](http://developer.51cto.com/art/202103/647804.htm)
+ > Java 8 已经发布很久了，很多报道表明 Java 8 是一次重大的版本升级，虽然我们的 JDK 环境也升级到1.8，但
  ## [比特币历经两波牛市 你竟没搞懂它的价值](http://blockchain.51cto.com/art/202103/647800.htm)
  > 比特币到底有没有价值?这个问题至今困扰着很多人!你要说它没有价值，可眼看着比特币在近期曾飙升至5.8万美
  ## [如何使用Python创建自己的加密货币](http://blockchain.51cto.com/art/202103/647801.htm)
  > 随着当前加密货币的兴起，区块链在技术界引起了轰动。这项技术之所以吸引了如此多的关注，主要是因为它具
- ## [安装 Linux，只需三步](http://os.51cto.com/art/202103/647802.htm)
- > 操作系统的安装看似神秘，但其实很简单。以下是成功安装 Linux 的步骤。
- ## [Ansible 剧本快速入门指南](http://os.51cto.com/art/202103/647798.htm)
- > 我们已经写了两篇关于 Ansible 的文章，这是第三篇。如果你是 Ansible 新手，我建议你阅读下面这两篇文章，
- ## [Windows 10即将全面大改版！Windows 10应用的全新UI曝光](http://os.51cto.com/art/202103/647797.htm)
- > 我们知道微软将会在今年下半年推出Win10 21H2新版，这个版本的Win10会带来全新的“Sun Valley”界面。现在
- ## [漫话：如何给女朋友解释为什么Java不支持多继承？](http://developer.51cto.com/art/202103/647796.htm)
- > 面向对象的编程语言有三个重要的基本特性：封装、继承和多态。而很多人认为继承是Java面向对象编程技术的一
- ## [Kafka又出问题了！](http://developer.51cto.com/art/202103/647795.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [聊聊.NET 5 部署在Docker上运行](http://developer.51cto.com/art/202103/647794.htm)
- > 创建一个ASP.NET Core Web应用程序，选中启用Docker支持。自动帮我们创建一个Dockerfile文件。
  ## [捅了“蚂蚁窝”？怎么大家都在唱《蚂蚁呀嘿》](https://blog.csdn.net/m0_46163918/article/details/114262994)
  > 捅了“蚂蚁窝”？怎么大家都在唱《蚂蚁呀嘿》
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
@@ -69,16 +73,16 @@ categories: IT NEWS
  > 元宵节就要到了，花灯要不要来一盏？3D的那种
  ## [linux系统安装Git](https://blog.csdn.net/weixin_44682554/article/details/114207285)
  > linux系统安装Git
- ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
- > 
- ## [【C】一篇文章搞懂C语言的自定义类型之结构体的从入门到入坟](https://blog.csdn.net/weixin_45437022/article/details/106974565)
- > 
+ ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
+ > 漫画：为什么C语言永不过时？
+ ## [vscode 前端常用插件推荐](https://blog.csdn.net/jiandan1127/article/details/85957003)
+ > vscode 前端常用插件推荐
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机](https://blog.csdn.net/m0_46163918/article/details/112311218)
- > Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机
- ## [安卓测试避错！常见的Appium相关问题及解决方案](https://blog.csdn.net/rjcs666/article/details/111034196)
- > 安卓测试避错！常见的Appium相关问题及解决方案
+ ## [C基础教程](https://blog.csdn.net/weixin_39089928/article/details/87009515)
+ > C基础教程
+ ## [图书管理系统（Java   MySQL）](https://blog.csdn.net/qq_35793285/article/details/85209242)
+ > 图书管理系统（Java   MySQL）
 # 人工智能 
  ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
  > 编程方式建视频——GitHub 热点速览 v.21.07
