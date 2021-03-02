@@ -1,58 +1,62 @@
 ---
 title: 2021-03-02 IT News
 copyright: true
-date: 2021-03-02 09:15:24
+date: 2021-03-02 10:08:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果是怎样把我们变成「电子人」的?](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=EYbqLCuHAyPXkA5JivLEoWZA4yf3QAPd0SLonFJmoDpNezcDtEoIWs9fSPrC5ZkMS7BPUSj3tEwcjAru3xrBn6ju71PEGnvjHTiT28UtmBq2zMr5w2sCyOoTgWNi9ncR&new=1)
+ ## [2021“数博发布”领先科技成果征集推介会举行](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=-QUiW15ypiHXbutkMr457l*papvn*ZWSkGhBz9y5j0klAPkF6n9Eymj8pNL1h-Xub2eqgSX7j9JDB28MPL1Hh0WcSIHXfwBEXyeZw90N37Q=&new=1)
+ > 本报讯 3月1日，2021“数博发布”领先科技成果征集推介会在北京举行。　　本次活动由数博会组委会、中国互联网协会共同主办，杰汇创新公司承办。推介会上，北京布科思科技、深圳黄鹂智能科技、北京博实联创...
+ ## [董事长专访|爱科科技方小卫：为智能设备武装“大脑”](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=eibSk15PsvdWHe9W6alFxXbpEl2r8gmrYxtBkCg5daYGg-S-Qe3ak6*sgHsQ4EyBbPTeD1svdYyYh7MVW5t*ghwBHcN11Ds-5WcCF6oE2UY=&new=1)
+ > 从CAD软件起家，手握精密运动控制系统的核心技术，通过为智能装备提供“核心大脑”，助力我国工业转型升级——随着杭州爱科科技股份有限公司（简称“爱科科技”）步入发行环节，科创板将迎来一员智能切割设...
+ ## [苹果是怎样把我们变成「电子人」的?](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=EYbqLCuHAyPXkA5JivLEoWZA4yf3QAPd0SLonFJmoDoYC5aEUSYzyBwfShZA0qxTblegcND2Afjt25JVZp0E8CxntZSWx56haAbIHUdBChCLM*lEj3tdJAJZDiUJafVu&new=1)
  > 20 世纪 60 年代，NASA 的两位科学家 Manfred Clynes 和 Nathan S. Kline 在对宇宙旅行的研究中，提出了赛博格（Cyborg）的概念。20 世纪后半叶以来，赛博格在许多科幻文学和影视作品中，都描绘了人类
- ## [众专家为何热议5G演进?新应用需求驱动，实现可持续发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=D*cS61bVkDvtMtfSWewq6mH7cT35aBLO5lFcbsirA07VUmD1rg4h2N2663JrMoKfhgqW4HsqpqgHATKN52Z0iHJEq*Uih95kevBkwbe5aBX6TlbXpk3t*WnGp8fqRrRg&new=1)
+ ## [众专家为何热议5G演进?新应用需求驱动，实现可持续发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=D*cS61bVkDvtMtfSWewq6mH7cT35aBLO5lFcbsirA07S*6mwCVmiN-pBHOy5NyNX*xbLmtWmsuEPQWqi3bXOKh3uD3ex5evog4f3UBLsb9WNnML3Usgh7RNvq0y22O14&new=1)
  > 2021 MWC上海展刚刚结束，许多亮点仍然记忆犹新。而笔者发现有一热词在展区和论坛中出现频率极高，被多次提及，就是“5G演进”。中国移动研究院副院长黄宇红在GSMA主办的5G演进峰会上，对5G演进的需求和发展方向...
- ## [由于2021年第一季度营收强劲，惠普股价上涨7%](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=ployC6VyaNrcC6aeq8on1KLF-w1-BwmZbymmQ-WB5sZrh8ftkK9fMcATwWAdfTyfduTfAxVt0tMtcM2IiUt38awjLH503VS2q-ewdrZpw5PURK-zYQ3r1UvteHp1jjoz&new=1)
+ ## [由于2021年第一季度营收强劲，惠普股价上涨7%](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=ployC6VyaNrcC6aeq8on1KLF-w1-BwmZbymmQ-WB5sZftPU5P9BOjIVf0lYquGyxmRabRKseBGzf1bxUztzJdhcFgLt3BGsg2HsXfQXZpHp86Qetg6cxt6epKJkuSAS0&new=1)
  > 惠普公司（HPQ）的最新财务业绩显示，该公司在2021年第一季度的表现好于预期，导致其股价在发布该数据后不久上涨了7％。在第一季度，惠普创造了156亿美元的收入，比2020年第一季度的146亿美元增长了7％。因此，...
- ## [运营商的苦日子真的要来了?!](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=arSSw4BZpHShuchmfgKAsh0*2XRx3VvxnwNbBu4M-hpelt0lZpWXkByJ2szLoVVBql0n5VeisG*fw1w1OIDNJbf-99uTXsIPNu-GZQJPM5DTd67SJjxLiAkuDBFbHBf3&new=1)
+ ## [运营商的苦日子真的要来了?!](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=arSSw4BZpHShuchmfgKAsh0*2XRx3VvxnwNbBu4M-hoyOiwJMH89SkIXKz8UZoZ59JJDUXSzT3fp294x8vK0F332zCWc2LJhe4p7imejIs82hNmZ0mbGuT0*nlWHB98g&new=1)
  > 3月1日，国务院新闻办举行工业和信息化发展情况新闻发布会，工业和信息化部部长肖亚庆表示，要进一步提升工业信息化对外开放，全面开放一般制造业，有序开放电信领域外资准入的限制，吸引更多外资、高端制造业项...
- ## [卖到断货!全面爆发!哈尔滨9区9县市今年全部准备好……](http://mp.weixin.qq.com/s?src=11&timestamp=1614646805&ver=2921&signature=shke1kOMlJNsD5Cayrib4Wrn*3xz*DsGSnLMi8tQA4jaDuellGh-VbCR9Vb0GSUTZIsFyD53Y38HJrFDvpISQD4clJ5da5zy*N0hpCFj*kippPrZ7Kmx70oJDurGnCLU&new=1)
+ ## [卖到断货!全面爆发!哈尔滨9区9县市今年全部准备好……](http://mp.weixin.qq.com/s?src=11&timestamp=1614650405&ver=2921&signature=shke1kOMlJNsD5Cayrib4Wrn*3xz*DsGSnLMi8tQA4g2QCDfTVAFGb1z9bZbfQYKxxQMRuIqnZvrCYXCpz0d1mp05c2m4WsCpGXz26jNmXf5yHvZEUYGv*TcZfw-QFhb&new=1)
  > 2020年是我国5G手机加速放量的一年配图来自摄图网去年，我省建设了 1.8 万个 5G 基站。其中，哈市 9 区 9 县、市核心区域及重要交通干线、重要场景区域已实现 5G 信号覆盖。今年，5G 网络建设将基本覆盖全省县城...
 # IT 技术 
- ## [公司悄悄部署了一个东西，盯着你・・・](http://netsecurity.51cto.com/art/202103/647756.htm)
- > 公司悄悄部署了一个东西，盯着你・・・
  ## [开源式框架Xamarin与React Native大比拼](http://developer.51cto.com/art/202103/647753.htm)
  > 开源式框架Xamarin与React Native大比拼
- ## [项目管理指南：提示、策略、最佳实践](http://www.cioage.com/art/202103/647752.htm)
- > 项目管理指南：提示、策略、最佳实践
+ ## [公司悄悄部署了一个东西，盯着你・・・](http://netsecurity.51cto.com/art/202103/647756.htm)
+ > 公司悄悄部署了一个东西，盯着你・・・
+ ## [项目管理指南：提示、策略、具体实践](http://www.cioage.com/art/202103/647752.htm)
+ > 项目管理指南：提示、策略、具体实践
+ ## [鸿蒙HarmonyOS三方件开发指南-SwipeLayout侧滑删除](http://developer.51cto.com/art/202103/647703.htm)
+ > 鸿蒙HarmonyOS三方件开发指南-SwipeLayout侧滑删除
  ## [现在最好玩的AI竟然来自一个家谱公司？](http://news.51cto.com/art/202103/647707.htm)
  > 现在最好玩的AI竟然来自一个家谱公司？
  ## [适合Web开发者的十大数据库优化实践](http://database.51cto.com/art/202103/647540.htm)
  > 适合Web开发者的十大数据库优化实践
  ## [血一般的教训，请慎用Insert Into Select](http://database.51cto.com/art/202103/647543.htm)
  > 血一般的教训，请慎用Insert Into Select
- ## [Linux用户宝典：使用Conda创建NodeJS虚拟环境](http://os.51cto.com/art/202103/647538.htm)
- > Linux用户宝典：使用Conda创建NodeJS虚拟环境
- ## [标杆徐2018 Linux自动化运维系列①: CentOS7系统应用与实践](http://fellow.51cto.com/art/202012/635273.htm?qd=51ctojrzd)
- > 标杆徐2018 Linux自动化运维系列①: CentOS7系统应用与实践
- ## [关于区块链技术与比特币的关系，你知道吗？](http://blockchain.51cto.com/art/202103/647816.htm)
- > 相信很多人都听说过大名鼎鼎的比特币和区块链，那么比特币和区块链有什么区别呢？在这里，我们从技术层面进
- ## [区块链开发中使用的很受欢迎的编程语言](http://blockchain.51cto.com/art/202103/647815.htm)
- > 目前，我们正处于一个新兴的区块链开发产业中。区块链技术还处于起步阶段，但是这种破坏性技术已经成功席卷
- ## [阿里巴巴Druid，轻松实现MySQL数据库加密！](http://database.51cto.com/art/202103/647809.htm)
- > 本文我们使用阿里巴巴开源的 Druid 实现了 MySQL 的密码加密，Druid 的加密过程非常方便，无需编写任何代码
- ## [前端基础知识整理汇总二](http://developer.51cto.com/art/202103/647806.htm)
- > 接上昨天的《前端基础知识整理汇总（上）》，这些知识虽然是很基础的，但是对于系统的梳理还是非常有帮助的
- ## [C 正则表达式，你会几个？](http://developer.51cto.com/art/202103/647805.htm)
- > 最近写爬虫时需要用到正则表达式，有段时间没有使用正则表达式现在渐渐感觉有些淡忘，现在使用还需要去查询
- ## [我喜欢的 12 个VSCode 插件！](http://developer.51cto.com/art/202103/647807.htm)
- > VSCode 之所以是如此出色的代码编辑器，其原因之一是由社区创建的庞大的插件库，从而提高了开发人员的工作
- ## [如何友好的处理 WebApi 中抛出的错误](http://developer.51cto.com/art/202103/647803.htm)
- > 微软的 ASP.NET Web API 是一个轻量级的web框架，可用来构建基于 http 无状态的rest服务，异常是一种运行时
- ## [Java8 新特性全面介绍，强烈建议收藏](http://developer.51cto.com/art/202103/647804.htm)
- > Java 8 已经发布很久了，很多报道表明 Java 8 是一次重大的版本升级，虽然我们的 JDK 环境也升级到1.8，但
- ## [比特币历经两波牛市 你竟没搞懂它的价值](http://blockchain.51cto.com/art/202103/647800.htm)
- > 比特币到底有没有价值?这个问题至今困扰着很多人!你要说它没有价值，可眼看着比特币在近期曾飙升至5.8万美
- ## [如何使用Python创建自己的加密货币](http://blockchain.51cto.com/art/202103/647801.htm)
- > 随着当前加密货币的兴起，区块链在技术界引起了轰动。这项技术之所以吸引了如此多的关注，主要是因为它具
+ ## [ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）](http://fellow.51cto.com/art/202012/636704.htm?qd=51ctojrzd)
+ > ThinkPHP5标准教程（第二部：路由控制器篇）（七日成蝶）
+ ## [工信部：推进制造强国和网络强国建设不断迈上新台阶](http://network.51cto.com/art/202103/647845.htm)
+ > 党的十九届五中全会擘画了“十四五”乃至更长时期发展的宏伟蓝图，强调坚持把发展经济的着力点放在实体经济
+ ## [到2030年，蜂窝物联网连接将达到35亿](http://iot.51cto.com/art/202103/647843.htm)
+ > 根据StrategyAnalytics的最新研究，到2020年，5G在物联网连接中所占比例不到1%，但到2030年，5G在所有物联
+ ## [如何避免Java项目中的循环依赖问题](http://developer.51cto.com/art/202103/647839.htm)
+ > 当我们开发一个Java项目时，我们要做的第一件事就是添加我们需要使用的依赖项，库或框架。为此，我们使用依
+ ## [安全研究人员在LastPass发现7个跟踪器](http://netsecurity.51cto.com/art/202103/647837.htm)
+ > 据外媒报道，一位安全研究人员在LastPass密码管理器应用中发现了7个跟踪器。
+ ## [鼓吹5G套餐用户发展已经凉凉，或许还为时过早](http://network.51cto.com/art/202103/647835.htm)
+ > 三大运营商都于今日公布了2021年1月份经营报告。中国联通延续了此前的一贯做法仍未公布5G用户发展情况，中
+ ## [Python轻量级循环-列表推导式](http://developer.51cto.com/art/202103/647833.htm)
+ > Python 列表推导式(list comprehension)利用其他列表创建新的列表，工作方式类似于for循环，使用列表推导式
+ ## [5G需要什么样的专网方案](http://network.51cto.com/art/202103/647834.htm)
+ > MWC2021上海展全方位地展示了5G的成果，让业界对5G的未来充满信心。包括运营商在内的多家厂商在展会期间发
+ ## [程序员必备的10大GitHub仓库](http://developer.51cto.com/art/202103/647832.htm)
+ > GitHub 不仅是维护代码的好工具，而且是学习和成长的好工具。身为一个软件开发者，我一直在寻找有用的 GitH
+ ## [系统出故障不用怕，从Windows 10的秘密备份还原注册表](http://os.51cto.com/art/202103/647831.htm)
+ > Windows 10秘密地在RegBack文件夹中备份了注册表，可以使用它来将计算机手动还原到正常工作状态。
+ ## [从微信小程序到鸿蒙JS开发-JS调用Java](http://developer.51cto.com/art/202103/647701.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
  ## [捅了“蚂蚁窝”？怎么大家都在唱《蚂蚁呀嘿》](https://blog.csdn.net/m0_46163918/article/details/114262994)
  > 捅了“蚂蚁窝”？怎么大家都在唱《蚂蚁呀嘿》
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
@@ -73,48 +77,50 @@ categories: IT NEWS
  > 元宵节就要到了，花灯要不要来一盏？3D的那种
  ## [linux系统安装Git](https://blog.csdn.net/weixin_44682554/article/details/114207285)
  > linux系统安装Git
- ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
- > 漫画：为什么C语言永不过时？
- ## [vscode 前端常用插件推荐](https://blog.csdn.net/jiandan1127/article/details/85957003)
- > vscode 前端常用插件推荐
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ > 
+ ## [【C】一篇文章搞懂C语言的自定义类型之结构体的从入门到入坟](https://blog.csdn.net/weixin_45437022/article/details/106974565)
+ > 
  ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
  > 
- ## [C基础教程](https://blog.csdn.net/weixin_39089928/article/details/87009515)
- > C基础教程
- ## [图书管理系统（Java   MySQL）](https://blog.csdn.net/qq_35793285/article/details/85209242)
- > 图书管理系统（Java   MySQL）
+ ## [Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机](https://blog.csdn.net/m0_46163918/article/details/112311218)
+ > Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机
+ ## [安卓测试避错！常见的Appium相关问题及解决方案](https://blog.csdn.net/rjcs666/article/details/111034196)
+ > 安卓测试避错！常见的Appium相关问题及解决方案
 # 人工智能 
- ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
- > 编程方式建视频——GitHub 热点速览 v.21.07
- ## [Linux 内核和 Windows 内核有什么区别？](https://blog.csdn.net/qq_34827674/article/details/113876849)
- > Linux 内核和 Windows 内核有什么区别？
- ## [27岁华裔青年成疫情预测界新星](https://blog.csdn.net/weixin_39787030/article/details/113948894)
- > 27岁华裔青年成疫情预测界新星
- ## [放弃FastJson！一篇就够，Jackson的功能原来如此之牛（万字干货）](https://blog.csdn.net/wo541075754/article/details/114006957)
- > 
- ## [一个拖拽卡顿问题引发出对setTimeOut的探索](https://blog.csdn.net/mollyGO/article/details/114008483)
- > 一个拖拽卡顿问题引发出对setTimeOut的探索
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [使用 Spring 中的 @Lazy 注解](https://blog.csdn.net/universsky2015/article/details/114015047)
- > 使用 Spring 中的 @Lazy 注解
  ## [元宵节就要到了，花灯要不要来一盏？3D的那种](https://blog.csdn.net/xufive/article/details/114058247)
  > 元宵节就要到了，花灯要不要来一盏？3D的那种
  ## [JavaScript 游戏开发：手把手实现碰撞物理引擎](https://blog.csdn.net/fengqiuzhihua/article/details/114156010)
  > JavaScript 游戏开发：手把手实现碰撞物理引擎
  ## [漫谈TCP加速的笑话](https://blog.csdn.net/dog250/article/details/114163558)
  > 漫谈TCP加速的笑话
+ ## [做了五年Android,我顿悟了...](https://blog.csdn.net/xuexiangjys/article/details/114242914)
+ > 做了五年Android,我顿悟了...
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [Python OpenCV 图像处理之直方图相关知识细节，学点细的](https://blog.csdn.net/hihell/article/details/114245686)
+ > 
+ ## [Chapter One : 开启 Python 之旅](https://blog.csdn.net/xw1680/article/details/114261028)
+ > Chapter One : 开启 Python 之旅
+ ## [西北大学发布猴脸识别论文，公开 10 种动物面部数据集](https://blog.csdn.net/HyperAI/article/details/114128341)
+ > 西北大学发布猴脸识别论文，公开 10 种动物面部数据集
+ ## [PyTorch 神经网络气温预测](https://blog.csdn.net/weixin_46274168/article/details/114204284)
+ > PyTorch 神经网络气温预测
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [新手学Python之Jupyter Notebook学习](https://blog.csdn.net/herosunly/article/details/114132752)
- > 新手学Python之Jupyter Notebook学习
- ## [刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？](https://blog.csdn.net/a419240016/article/details/113931146)
- > 刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？
- ## [win10安装小爱同学 UWP](https://blog.csdn.net/weixin_40943540/article/details/114195217)
- > win10安装小爱同学 UWP
- ## [鸟哥的Linux私房菜基础学习篇 第6章的重点探索](https://blog.csdn.net/ClaireTang1/article/details/114107600)
- > 鸟哥的Linux私房菜基础学习篇 第6章的重点探索
+ ## [泰坦尼克号建模分析-你能活下来吗？](https://blog.csdn.net/Eddy364/article/details/114242697)
+ > 泰坦尼克号建模分析-你能活下来吗？
+ ## [无需Avatarify 无需剪辑工具 一键生成多人版 “蚂蚁呀嘿“视频](https://blog.csdn.net/txyugood/article/details/114156690)
+ > 无需Avatarify 无需剪辑工具 一键生成多人版 “蚂蚁呀嘿“视频
+ ## [用 Python 画了几个国家的国旗](https://blog.csdn.net/ityard/article/details/114208689)
+ > 用 Python 画了几个国家的国旗
+ ## [java 面向对象 第一章：对象和封装](https://blog.csdn.net/Tongbo_/article/details/114239674)
+ > java 面向对象 第一章：对象和封装
+ ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
+ > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
+ ## [我在神策做研发丨不会判断市场需求的研发不是好码农](http://www.chanpin100.com/article/113684)
+ > 在神策做研发的这些年，林黄在不同阶段肩负着不同的使命，也拥有了独一无二的人生经历，如今，神策产品矩阵中的智能功能已经应用于各行业多个标杆客户，为客户带来了显著的效果和收入提升。他相信，2021 将又会产生一个又一个发光发亮的精彩瞬间。
  ## [教育机构如何通过短视频捧红老师？](http://www.chanpin100.com/article/113683)
  > 短视频是目前各个领域发展的风口之一，今年蓬勃发展的在线教育行业也在此领域跃跃欲试，那些爆款的教育短视频是怎么制作而成的？
  ## [教培机构如何搭建线上商城和线下门店的联合运营？](http://www.chanpin100.com/article/113682)
@@ -153,7 +159,5 @@ categories: IT NEWS
  > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
  ## [一名产品经理需要掌握哪些基本技能](http://www.chanpin100.com/article/113693)
  > 想成为一名优秀的产品经理，基本技能的掌握是必不可少的。那么，一名产品经理需要掌握哪些基本技能呢？下边请看本文的具体介绍。
- ## [代理商签约丨见证2021·西牛建材发展新速度](http://www.chanpin100.com/article/113669)
- > “天下武功，唯快不破”，西牛建材旗帜，再立数城！西牛建材开工第四天，我们已经迎来四批客户来公司参观考察，新年开门红！西牛建材2021新一年的计划开展以来，得到了广泛的关注，凭借西牛建材在行业中的影响力，陆续不断的有行业从业者咨询和考察西牛建材城市合伙人、代理商项目。
 
     
