@@ -1,0 +1,155 @@
+---
+title: 2021-03-02 IT News
+copyright: true
+date: 2021-03-02 08:18:22
+tags: IT NEWS
+categories: IT NEWS
+---
+# IT 新闻 
+ ## [卖到断货!全面爆发!哈尔滨9区9县市今年全部准备好……](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=shke1kOMlJNsD5Cayrib4Wrn*3xz*DsGSnLMi8tQA4jaDuellGh-VbCR9Vb0GSUTQNzEXXa4yf6IJkwiE4uEtpf1XRAlOwnxO-R86oDE5smeVVXiUsDCT3yz9KkY5meE&new=1)
+ > 2020年是我国5G手机加速放量的一年配图来自摄图网去年，我省建设了 1.8 万个 5G 基站。其中，哈市 9 区 9 县、市核心区域及重要交通干线、重要场景区域已实现 5G 信号覆盖。今年，5G 网络建设将基本覆盖全省县城...
+ ## [众专家为何热议5G演进?新应用需求驱动，实现可持续发展](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=D*cS61bVkDvtMtfSWewq6mH7cT35aBLO5lFcbsirA07VUmD1rg4h2N2663JrMoKfXvPjfnygq*59l*672s-nuqWbeku40niwW5OcR145IAX9Sa7STP3o3FTWcDA-xgvu&new=1)
+ > 2021 MWC上海展刚刚结束，许多亮点仍然记忆犹新。而笔者发现有一热词在展区和论坛中出现频率极高，被多次提及，就是“5G演进”。中国移动研究院副院长黄宇红在GSMA主办的5G演进峰会上，对5G演进的需求和发展方向...
+ ## [运营商的苦日子真的要来了?!](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=arSSw4BZpHShuchmfgKAsh0*2XRx3VvxnwNbBu4M-hpelt0lZpWXkByJ2szLoVVBUsL7Iqt0GdIS4rdEPGuVxIjXLf2BQ0qbYif1Unr55qSdwQJa2QqCY0A-hwclg9sF&new=1)
+ > 3月1日，国务院新闻办举行工业和信息化发展情况新闻发布会，工业和信息化部部长肖亚庆表示，要进一步提升工业信息化对外开放，全面开放一般制造业，有序开放电信领域外资准入的限制，吸引更多外资、高端制造业项...
+ ## [由于2021年第一季度营收强劲，惠普股价上涨7%](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=ployC6VyaNrcC6aeq8on1KLF-w1-BwmZbymmQ-WB5sZrh8ftkK9fMcATwWAdfTyfu-fGfVZAx4dzxw8aPq4Bh00ACukrNy2eK1jyV3*B--OGk4GzfuHMvlXve*l5k-3S&new=1)
+ > 惠普公司（HPQ）的最新财务业绩显示，该公司在2021年第一季度的表现好于预期，导致其股价在发布该数据后不久上涨了7％。在第一季度，惠普创造了156亿美元的收入，比2020年第一季度的146亿美元增长了7％。因此，...
+ ## [苹果是怎样把我们变成「电子人」的?](http://mp.weixin.qq.com/s?src=11&timestamp=1614643204&ver=2921&signature=EYbqLCuHAyPXkA5JivLEoWZA4yf3QAPd0SLonFJmoDpNezcDtEoIWs9fSPrC5ZkM*E3qHlIBFYBgWV24mD36gNunMhLGmmRfHmXwtcC9tJbIasGahgYhbv7rpozuJSJG&new=1)
+ > 20 世纪 60 年代，NASA 的两位科学家 Manfred Clynes 和 Nathan S. Kline 在对宇宙旅行的研究中，提出了赛博格（Cyborg）的概念。20 世纪后半叶以来，赛博格在许多科幻文学和影视作品中，都描绘了人类
+# IT 技术 
+ ## [项目管理指南：提示、策略、最佳实践](http://www.cioage.com/art/202103/647752.htm)
+ > 项目管理指南：提示、策略、最佳实践
+ ## [现在最好玩的AI竟然来自一个家谱公司？](http://news.51cto.com/art/202103/647707.htm)
+ > 现在最好玩的AI竟然来自一个家谱公司？
+ ## [适合Web开发者的十大数据库优化实践](http://database.51cto.com/art/202103/647540.htm)
+ > 适合Web开发者的十大数据库优化实践
+ ## [血一般的教训，请慎用Insert Into Select](http://database.51cto.com/art/202103/647543.htm)
+ > 血一般的教训，请慎用Insert Into Select
+ ## [Linux用户宝典：使用Conda创建NodeJS虚拟环境](http://os.51cto.com/art/202103/647538.htm)
+ > Linux用户宝典：使用Conda创建NodeJS虚拟环境
+ ## [256变4096：分库分表扩容如何实现平滑数据迁移？](http://developer.51cto.com/art/202103/647637.htm)
+ > 256变4096：分库分表扩容如何实现平滑数据迁移？
+ ## [鸿蒙HarmonyOS三方件开发指南-cropper图片裁剪](http://developer.51cto.com/art/202102/647345.htm)
+ > 鸿蒙HarmonyOS三方件开发指南-cropper图片裁剪
+ ## [【王佩丰】PowerPoint2010视频教程](http://fellow.51cto.com/art/202101/640940.htm?qd=51ctojrzd)
+ > 【王佩丰】PowerPoint2010视频教程
+ ## [比特币历经两波牛市 你竟没搞懂它的价值](http://blockchain.51cto.com/art/202103/647800.htm)
+ > 比特币到底有没有价值?这个问题至今困扰着很多人!你要说它没有价值，可眼看着比特币在近期曾飙升至5.8万美
+ ## [如何使用Python创建自己的加密货币](http://blockchain.51cto.com/art/202103/647801.htm)
+ > 随着当前加密货币的兴起，区块链在技术界引起了轰动。这项技术之所以吸引了如此多的关注，主要是因为它具
+ ## [安装 Linux，只需三步](http://os.51cto.com/art/202103/647802.htm)
+ > 操作系统的安装看似神秘，但其实很简单。以下是成功安装 Linux 的步骤。
+ ## [Ansible 剧本快速入门指南](http://os.51cto.com/art/202103/647798.htm)
+ > 我们已经写了两篇关于 Ansible 的文章，这是第三篇。如果你是 Ansible 新手，我建议你阅读下面这两篇文章，
+ ## [Windows 10即将全面大改版！Windows 10应用的全新UI曝光](http://os.51cto.com/art/202103/647797.htm)
+ > 我们知道微软将会在今年下半年推出Win10 21H2新版，这个版本的Win10会带来全新的“Sun Valley”界面。现在
+ ## [漫话：如何给女朋友解释为什么Java不支持多继承？](http://developer.51cto.com/art/202103/647796.htm)
+ > 面向对象的编程语言有三个重要的基本特性：封装、继承和多态。而很多人认为继承是Java面向对象编程技术的一
+ ## [Kafka又出问题了！](http://developer.51cto.com/art/202103/647795.htm)
+ > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
+ ## [聊聊.NET 5 部署在Docker上运行](http://developer.51cto.com/art/202103/647794.htm)
+ > 创建一个ASP.NET Core Web应用程序，选中启用Docker支持。自动帮我们创建一个Dockerfile文件。
+ ## [捅了“蚂蚁窝”？怎么大家都在唱《蚂蚁呀嘿》](https://blog.csdn.net/m0_46163918/article/details/114262994)
+ > 捅了“蚂蚁窝”？怎么大家都在唱《蚂蚁呀嘿》
+ ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
+ > 
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
+ > 
+ ## [Python详细知识体系总结(2021版)](https://blog.csdn.net/weixin_47654912/article/details/111362057)
+ > 
+ ## [在线等：“实习拿到两个不太好的offer，去腾讯还是去阿里？”](https://blog.csdn.net/CSDNedu/article/details/109227298)
+ > 
+ ## [AI 浪淘沙  week （222-226）](https://blog.csdn.net/weixin_39787030/article/details/114141246)
+ > AI 浪淘沙  week （222-226）
+ ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
+ > 
+ ## [大厂面试干货：大厂社招与HR沟通offer经验分享](https://blog.csdn.net/songguangfan/article/details/114108038)
+ > 大厂面试干货：大厂社招与HR沟通offer经验分享
+ ## [元宵节就要到了，花灯要不要来一盏？3D的那种](https://blog.csdn.net/xufive/article/details/114058247)
+ > 元宵节就要到了，花灯要不要来一盏？3D的那种
+ ## [linux系统安装Git](https://blog.csdn.net/weixin_44682554/article/details/114207285)
+ > linux系统安装Git
+ ## [面试了一个 31 岁程序员，让我有所触动，30岁以上的程序员该何去何从？](https://blog.csdn.net/qq_16855077/article/details/105154922)
+ > 
+ ## [【C】一篇文章搞懂C语言的自定义类型之结构体的从入门到入坟](https://blog.csdn.net/weixin_45437022/article/details/106974565)
+ > 
+ ## [Python核心资料：Django+Scrapy+Hadoop+数据挖掘+机器学习+Python精选视频（限时福利免费领）](https://blog.csdn.net/CSDNedu/article/details/110436923)
+ > 
+ ## [Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机](https://blog.csdn.net/m0_46163918/article/details/112311218)
+ > Golang蠕虫将Windows和Linux服务器变成门罗币挖矿机
+ ## [安卓测试避错！常见的Appium相关问题及解决方案](https://blog.csdn.net/rjcs666/article/details/111034196)
+ > 安卓测试避错！常见的Appium相关问题及解决方案
+# 人工智能 
+ ## [编程方式建视频——GitHub 热点速览 v.21.07](https://blog.csdn.net/a419240016/article/details/113820314)
+ > 编程方式建视频——GitHub 热点速览 v.21.07
+ ## [Linux 内核和 Windows 内核有什么区别？](https://blog.csdn.net/qq_34827674/article/details/113876849)
+ > Linux 内核和 Windows 内核有什么区别？
+ ## [27岁华裔青年成疫情预测界新星](https://blog.csdn.net/weixin_39787030/article/details/113948894)
+ > 27岁华裔青年成疫情预测界新星
+ ## [放弃FastJson！一篇就够，Jackson的功能原来如此之牛（万字干货）](https://blog.csdn.net/wo541075754/article/details/114006957)
+ > 
+ ## [一个拖拽卡顿问题引发出对setTimeOut的探索](https://blog.csdn.net/mollyGO/article/details/114008483)
+ > 一个拖拽卡顿问题引发出对setTimeOut的探索
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [使用 Spring 中的 @Lazy 注解](https://blog.csdn.net/universsky2015/article/details/114015047)
+ > 使用 Spring 中的 @Lazy 注解
+ ## [元宵节就要到了，花灯要不要来一盏？3D的那种](https://blog.csdn.net/xufive/article/details/114058247)
+ > 元宵节就要到了，花灯要不要来一盏？3D的那种
+ ## [JavaScript 游戏开发：手把手实现碰撞物理引擎](https://blog.csdn.net/fengqiuzhihua/article/details/114156010)
+ > JavaScript 游戏开发：手把手实现碰撞物理引擎
+ ## [漫谈TCP加速的笑话](https://blog.csdn.net/dog250/article/details/114163558)
+ > 漫谈TCP加速的笑话
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [新手学Python之Jupyter Notebook学习](https://blog.csdn.net/herosunly/article/details/114132752)
+ > 新手学Python之Jupyter Notebook学习
+ ## [刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？](https://blog.csdn.net/a419240016/article/details/113931146)
+ > 刚学会 C++ 的小白用这个开源框架，做个 RPC 服务要多久？
+ ## [win10安装小爱同学 UWP](https://blog.csdn.net/weixin_40943540/article/details/114195217)
+ > win10安装小爱同学 UWP
+ ## [鸟哥的Linux私房菜基础学习篇 第6章的重点探索](https://blog.csdn.net/ClaireTang1/article/details/114107600)
+ > 鸟哥的Linux私房菜基础学习篇 第6章的重点探索
+# PM 
+ ## [教育机构如何通过短视频捧红老师？](http://www.chanpin100.com/article/113683)
+ > 短视频是目前各个领域发展的风口之一，今年蓬勃发展的在线教育行业也在此领域跃跃欲试，那些爆款的教育短视频是怎么制作而成的？
+ ## [教培机构如何搭建线上商城和线下门店的联合运营？](http://www.chanpin100.com/article/113682)
+ > 2020年受疫情影响，教育行业是受到冲击的行业之一，线下教培机构纷纷被按下暂停键，在线教育逆势上扬，视频课、音频课、直播课等在线教育场景受到家长、学生、职场人士等群体的认可和喜爱，线下教培机构转型线上成了教育行业发展的趋势。
+ ## [产品经理的岗位职责有哪些？](http://www.chanpin100.com/article/113704)
+ > 随着互联网的高速发展，产品经理这一行业变得越来越热门了，成为大家追求的一个热门岗位。那么，产品经理的岗位职责都有哪些呢？本文带大家来了解一下。
+ ## [转型做产品经理 需要什么方面的能力？](http://www.chanpin100.com/article/113703)
+ > 现在有越来越多的人选择转型做产品经理，因为产品经理真的是一个发展很好、薪资也很不错的岗位，本文来聊一聊转型做产品经理都需要什么方面的能力。
+ ## [运营到底是一个怎么样的岗位？](http://www.chanpin100.com/article/113702)
+ > 随着互联网的高速发展，越来越多的人选择产品运营这个行业，那么运营到底是一个怎么样的岗位呢？它的种类都有哪些、日常工作都是什么，本文会跟大家聊一聊这个话题。
+ ## [用户访谈技巧|别再问用户想要什么啦！](http://www.chanpin100.com/article/113681)
+ > 如果你正在制作和销售产品，你需要了解你的客户。毕竟，他们是你要让他们开心的人，所以知道什么对他们有好处是有必要的。用户访谈是用户研究人员用来了解客户群的一种方法。你与某人一对一地交谈，了解他们的愿望和需求。
+ ## [什么是互联网运营？互联网运营是做什么的？](http://www.chanpin100.com/article/113701)
+ > 随着互联网的快速发展，互联网运营随之应运而生，成为一个抢手的行业。本文分三部分介绍一下什么是互联网运营以及互联网运营是做什么的，希望能对各位有所帮助。
+ ## [零基础如何转行做运营？](http://www.chanpin100.com/article/113700)
+ > 有些小伙伴可能是零基础转行想做产品运营的，想必都会有所疑问吧，零基础要如何转行做运营呢？针对这个问题，本文会从运营工作的几大分类出发给大家介绍一下。
+ ## [弹幕与年轻人 正在深刻地改变彼此](http://www.chanpin100.com/article/113680)
+ > 《赘婿》，无疑是2021年第一部爆款剧。过去一周，这部剧相关话题频繁登上各大热搜。特别的是，话题赘婿弹幕接连几天多次上榜，阅读量超过4亿。甚至网上有了一个固定模板：《XX（人物）时，建议别开弹幕，怕你笑到肚子疼》。
+ ## [刀友访谈：从0到1说产品 价值超过所有收费课！](http://www.chanpin100.com/article/113670)
+ > 众所周知，墨刀原型是产品经理们最好的工作利器，高低保真原型都不在话下，结果有一个人不拿墨刀做原型，却喜欢搞一些花里胡哨的东西，举几个例子：
+ ## [产品应懂技术术语（网络类）](http://www.chanpin100.com/article/113699)
+ > 产品经理也要懂一些技术术语，这样才能在平时的工作中与技术人员更好地沟通。本文整理了一些产品经理应该懂的网络类技术术语，希望能帮助到大家。
+ ## [设计大赛冠军和他的《随收鲸》](http://www.chanpin100.com/article/113667)
+ > 设计师罗人玮凭借作品《随收鲸》从2000余名参赛选手中脱颖而出，斩获了2020摹客·飞书产品设计大赛最佳设计奖。
+ ## [我为什么选择了数据分析（5000字心得总结）](http://www.chanpin100.com/article/113698)
+ > 数据分析是指用适当的统计分析方法对收集来的大量数据进行分析，将它们加以汇总和理解并消化，在近些年随着互联网的发展也变成了一个很热门的行业。本文总结了作者选择数据分析的心路历程，希望可以对各位有所帮助。
+ ## [“互联网+旅游”重构旅游行业产业链 开拓旅游市场新模式](http://www.chanpin100.com/article/113665)
+ > “互联网+”通过重构旅游行业产业链，从依托优势资源、地段、信息等维度保证客源的持续稳定输入，以流量变现，实现客流招揽。
+ ## [产品必懂技术术语（后台类）](http://www.chanpin100.com/article/113697)
+ > 作为一名产品经理，在懂得如何经营好一款产品的同时，也少不了要懂一些技术方面的知识，这样才能在日常工作中与技术人员更好地沟通，本文整理了产品必懂的后台类技术术语，希望能对你有所帮助。
+ ## [致星球保持思考](http://www.chanpin100.com/article/113664)
+ > 在星球上，你可以像翻阅答案之书一样，解答此刻心中的疑惑；在星球上，你可以默默做自己做个小透明，慢慢成长；在星球上，你可以寻找自己的价值；在星球上，你可以是个分享者，是个领路人；在星球上，你可以构建属于自己的小星球…
+ ## [最新遇到的产品经理面试题分享](http://www.chanpin100.com/article/113696)
+ > 最近又到了跳槽找工作的时候，在面试中怎样才能把自己的优势发挥出来？下面是学员在最新的产品经理面试中遇到的面试题，这里连同答案一起分享给大家。
+ ## [产品经理面试题+解析汇总（五）](http://www.chanpin100.com/article/113694)
+ > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
+ ## [一名产品经理需要掌握哪些基本技能](http://www.chanpin100.com/article/113693)
+ > 想成为一名优秀的产品经理，基本技能的掌握是必不可少的。那么，一名产品经理需要掌握哪些基本技能呢？下边请看本文的具体介绍。
+ ## [代理商签约丨见证2021·西牛建材发展新速度](http://www.chanpin100.com/article/113669)
+ > “天下武功，唯快不破”，西牛建材旗帜，再立数城！西牛建材开工第四天，我们已经迎来四批客户来公司参观考察，新年开门红！西牛建材2021新一年的计划开展以来，得到了广泛的关注，凭借西牛建材在行业中的影响力，陆续不断的有行业从业者咨询和考察西牛建材城市合伙人、代理商项目。
+
+    
