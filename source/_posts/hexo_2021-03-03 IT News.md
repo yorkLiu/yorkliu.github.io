@@ -1,22 +1,26 @@
 ---
 title: 2021-03-03 IT News
 copyright: true
-date: 2021-03-03 08:03:11
+date: 2021-03-03 09:08:21
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为了整明白苹果电脑到底会不会中毒，我真的把病毒拷了进去](http://mp.weixin.qq.com/s?src=11&timestamp=1614729604&ver=2923&signature=pcJIcPuXh7Zxip01msRFfUL*4HXS8gAhoVnWsZ047H1N-thnIYNLH9XVS*gmvQFQyn51eA74VTUPBxIx6rCYCcE4levs1jqeJChwxZqVXuv4fr6w0Ry9lxpz1AVXAjVR&new=1)
- > 来源：差评各位看标题就知道，托尼又干了一件作死的事儿。。。事情是这样的。前两天，突然有个很久没联系的学妹找到托尼，问最近有没有什么好的 Windows 笔记本可以推荐。她说她买了没两个月的 MacBook 中了病毒...
- ## [因北美暴风雪，Linus Torvalds 遭遇六天断电后发布了内核“冰封废土”](http://mp.weixin.qq.com/s?src=11&timestamp=1614729604&ver=2923&signature=9j5mUtoC6LeuFjh*HtqcVK-C14mNAgyquPzKxyw4wvFqJFykeFsTZOM7PxUqDNuYz5m77*zLL7qa*vgoSYx24gpW7qr1qWlC25m3WnOs87N5kIse82NxbJwc-9arAJK4&new=1)
+ ## [因北美暴风雪，Linus Torvalds 遭遇六天断电后发布了内核“冰封废土”](http://mp.weixin.qq.com/s?src=11&timestamp=1614733204&ver=2923&signature=9j5mUtoC6LeuFjh*HtqcVK-C14mNAgyquPzKxyw4wvFG1lX7MrGzBRH6kU5nfDgKYtNKGcG4AZUGU**ErWqIatj8tLXdA2LmaNSlD4Zy1fZr2fOjEiL6GQumjuIYmBix&new=1)
  > 美国恶劣天气导致 Linux 之父家中断电断网六天：内核更新延期近段时间，美国遭遇恶劣天气侵袭，一些州和城市出现了大停电的情况。居住在俄勒冈州波特兰的 Linux 之父 Linus Torvalds 同样遇到了上述问题，他在最...
- ## [独家对话华为邱雪峰：中国如何建成全球最大、最稳的5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614729604&ver=2923&signature=xkGBzeWwp6ncMCQo5TaS3eROOQNHn5*KPE-VNYU1y3GSs3*eSjQZ1Kx8MEGuSl10QNBktY-orbyq8hGDrGiNLa5m-yfFYHXvBF67-StIpAWv9Lct7dp8T2007MipIPa-&new=1)
+ ## [独家对话华为邱雪峰：中国如何建成全球最大、最稳的5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614733204&ver=2923&signature=xkGBzeWwp6ncMCQo5TaS3eROOQNHn5*KPE-VNYU1y3G9hpoxUhjo-GHISQDZTSvxPr6MwPoUDgsrZkyOtwIB1JQHubxUR-5331DSj7*D9kqEDAc3SQFw8pylB1cumloD&new=1)
  > 在2021 MWC 上海展期间，笔者独家对话华为分组核心网产品线总裁邱雪峰。说到5G网络建设，除了大家熟悉的基站、终端，还包括很多环节。其中，5G核心网因其在网络中的特殊“核心”地位，对网络稳定性、业务创新性...
- ## [社交的进化(下)|从虚实集成世界到赛博空间](http://mp.weixin.qq.com/s?src=11&timestamp=1614729604&ver=2923&signature=Rc3KKB42FdSarywfwfF6--ZsjcdjXbTGjGB9KV4d8P-haT6XqOhEM1t9FlVTHsw9v6NDj1tfCbn2bLb8TYD*Hfo9-0cSCj12wSzn5fsgxImnESwRVdbGa*QjCuH5Om3X&new=1)
+ ## [为了整明白苹果电脑到底会不会中毒，我真的把病毒拷了进去](http://mp.weixin.qq.com/s?src=11&timestamp=1614733204&ver=2923&signature=pcJIcPuXh7Zxip01msRFfUL*4HXS8gAhoVnWsZ047H0qrz38yGCtn3iHTJUMTf7oPirpeCXPWOfkjzqP2Qr3CJsBimgCgpdmG5yJaa2-xetpB47ljrT1C9lYRonHTOYO&new=1)
+ > 来源：差评各位看标题就知道，托尼又干了一件作死的事儿。。。事情是这样的。前两天，突然有个很久没联系的学妹找到托尼，问最近有没有什么好的 Windows 笔记本可以推荐。她说她买了没两个月的 MacBook 中了病毒...
+ ## [社交的进化(下)|从虚实集成世界到赛博空间](http://mp.weixin.qq.com/s?src=11&timestamp=1614733204&ver=2923&signature=Rc3KKB42FdSarywfwfF6--ZsjcdjXbTGjGB9KV4d8P9oDaqNvDgWHd5benq9711DFkdzEL7L5-15RZ2BeFZDCbj5-6ScITaci-TkHHxEh5S9JuTrZmvfS3zHC-E9q59i&new=1)
  > 在社交的进化（上）篇，我们讨论了随着社交需求的演变与社交网络发展，“全真互联网”在未来是值得期待的社交形态。 这个概念是由Pony（马化腾）首次提出的。按照他的观点：“当虚拟世界和真实世界的大门打开，...
- ## [柯瑞文重磅发声!中国电信新发展方向定了!](http://mp.weixin.qq.com/s?src=11&timestamp=1614729604&ver=2923&signature=RSCFXA5iztFnhx4JuKV3dmPBUfm14UYafZ4tOHadzDJLv25Kh8lbv8LSLK2838UMbGaUMLl7dyjhDtusFTZxTVAu0Hvzrro*8qAKlDfpaeWmjEEmx8ac-62BEhvKZ92u&new=1)
+ ## [柯瑞文重磅发声!中国电信新发展方向定了!](http://mp.weixin.qq.com/s?src=11&timestamp=1614733204&ver=2923&signature=RSCFXA5iztFnhx4JuKV3dmPBUfm14UYafZ4tOHadzDIwaFWWbtKcFbbsoMqQel0Rb5nXecVYWFyekjQhCTPB44SPOiKvY2g3hKo9cGB*Aa0Tc-EoUFYIgZdq33hjwAT1&new=1)
  > 中国电信董事长柯瑞文：单打独斗行不通！在2021世界移动通信大会 ·上海（MWCS）开幕式上，中国电信集团有限公司董事长柯瑞文通过线上的方式发表了题为“Hello 5G 和合共生”的主题演讲，分享了中国电信对未来5G...
 # IT 技术 
+ ## [2021年影响企业的自然语言处理趋势](http://ai.51cto.com/art/202103/647953.htm)
+ > 2021年影响企业的自然语言处理趋势
+ ## [因为会MySQL查询优化，领导给我升职了](http://database.51cto.com/art/202103/647954.htm)
+ > 因为会MySQL查询优化，领导给我升职了
  ## [Crowdsec：一款面向Linux的现代化协作式大型多人防火墙](http://netsecurity.51cto.com/art/202103/647952.htm)
  > Crowdsec：一款面向Linux的现代化协作式大型多人防火墙
  ## [一个MySQL建表需求的讨论和引导](http://database.51cto.com/art/202103/647868.htm)
@@ -27,34 +31,30 @@ categories: IT NEWS
  > 公司悄悄部署了一个东西，盯着你・・・
  ## [项目管理指南：提示、策略、具体实践](http://www.cioage.com/art/202103/647752.htm)
  > 项目管理指南：提示、策略、具体实践
- ## [鸿蒙HarmonyOS三方件开发指南-SwipeLayout侧滑删除](http://developer.51cto.com/art/202103/647703.htm)
- > 鸿蒙HarmonyOS三方件开发指南-SwipeLayout侧滑删除
- ## [现在最好玩的AI竟然来自一个家谱公司？](http://news.51cto.com/art/202103/647707.htm)
- > 现在最好玩的AI竟然来自一个家谱公司？
- ## [SQL Server数据库设计和开发基础篇视频课程](http://fellow.51cto.com/art/202101/640712.htm?qd=51ctojrzd)
- > SQL Server数据库设计和开发基础篇视频课程
- ## [程序员过关斩将--领导说我的类的职责不单一](http://developer.51cto.com/art/202103/648004.htm)
- > 软件实体应该是可扩展，而不可修改的。也就是说，对扩展是开放的，而对修改是封闭的。这个原则是诸多面向对
- ## [你做过代码 Review 吗？](http://developer.51cto.com/art/202103/648005.htm)
- > 想要做好一场合格的代码 Review，首先我们需要知道代码 Review 的过程中都有哪些角色以及需要怎样的流程。
- ## [Linux 命令被劫持了，怎么处理](http://os.51cto.com/art/202103/648003.htm)
- > 在一些应急场景中，我们经常会遇到有些木马会替换常用的系统命令进行伪装，即使我们清理了木马，执行ps、ne
- ## [微软确认：“下一代 Windows10”将不可思议](http://os.51cto.com/art/202103/648002.htm)
- > 3 月 3 日消息 太阳谷更新将是 Windows 10 的大事件，现在这一点终于得到了微软官方的确认，微软称下一代 W
- ## [VR用户大调查：VR比体感游戏主机更好玩？](http://mobile.51cto.com/vrar-648001.htm)
- > 近年来在Quest和Quest 2推动下，大家对于VR的接受度越来越高，使用的人也越来越多。尤其是2020年的一场疫情
- ## [微软发布 Windows 10 预览补丁：修复可损坏 NTFS 格式磁盘漏洞，21322 版本以上不受影响](http://os.51cto.com/art/202103/648000.htm)
- > IT之家3月2日消息 上个月， BleepingComputer 发现了 Win10 中出现的一个漏洞，该漏洞几乎允许所有用户（包
- ## [使用Node.js还可以发邮件？](http://developer.51cto.com/art/202103/647999.htm)
- > 今天，我们给大家开发一个小效果。篇幅比较短，主要给大家展示效果。
- ## [微软 Edge 浏览器宣布 PDF 阅读功能大更新：将支持目录和阅读进度保存](http://os.51cto.com/art/202103/647998.htm)
- > IT之家3月2日消息 微软在其 Edge 浏览器官方网站发布了 PDF 阅读器路线图的更新。
- ## [我国5G建设与发展成效显著，6G布局行将起航](http://network.51cto.com/art/202103/647996.htm)
- > 未来3年左右我国5G建设与部署还将保持高度推进态势，逐步实现更广泛区域的网络覆盖，并解决实际应用中的各
- ## [最接地气的数据分析详细流程，看这篇就够了！](http://bigdata.51cto.com/art/202103/647995.htm)
- > 无论你是刚接触数据分析，还是一位分析大神，我想很多人都不知道，数据分析究竟是什么，或者说数据分析的本
- ## [北京大龄码农去顺丰送快递的真实体验](https://blog.csdn.net/m0_46163918/article/details/114261613)
- > 北京大龄码农去顺丰送快递的真实体验
+ ## [XenServer6.0管理视频教程](http://fellow.51cto.com/art/202101/641168.htm?qd=51ctojrzd)
+ > XenServer6.0管理视频教程
+ ## [如何排查Java应用的死锁](http://developer.51cto.com/art/202103/648023.htm)
+ > 如何构造一个死锁呢?很简单，只要让线程1占有对象a的锁后，再去请求对象b的锁。与此同时，对象2已经占有了
+ ## [微软确认：Windows 10下月全面抛弃经典版Edge浏览器](http://os.51cto.com/art/202103/648020.htm)
+ > 今天，微软方面正式确认，经典版Edge浏览器将于下月和我们彻底说再见。为了取代这个已经不支持的应用，其将
+ ## [从Service到WorkManager](http://developer.51cto.com/art/202103/648013.htm)
+ > 关于Service，想必大家都太熟悉了，今天我们就再回顾下它的使用、概念、区别、变更历史等等。
+ ## [Dotnet的垃圾回收](http://developer.51cto.com/art/202103/648012.htm)
+ > 在早期C++的时候，内存分配和释放都是由我们手动处理的，而在公共语言进行时CLR中，多了一个垃圾收集器GC，
+ ## [Include Cpp？还可以这样？](http://developer.51cto.com/art/202103/648011.htm)
+ > 前两天突然看见部门有个项目的代码里通篇全是include &quot;xxx.cpp&quot;，我表示从来没见过这种写法，引发了我的一
+ ## [前端基础知识整理汇总（下）](http://developer.51cto.com/art/202103/648010.htm)
+ > 接上前面两期的内容，《前端基础知识整理汇总(上)》、《前端基础知识整理汇总(中)》，如果你还没有看前面内
+ ## [这些 JavaScript函数让你的工作更加 So Easy!](http://developer.51cto.com/art/202103/648009.htm)
+ > 本篇带给大家使用这些 JavaScript函数让你的工作更加 So Easy!希望能够帮助到你。
+ ## [这些 JavaScript函数让你的工作更加 So Easy!](http://developer.51cto.com/art/202103/648008.htm)
+ > 你是否有一个DDL，它每n分钟显示一天的时间?用这个函数。
+ ## [单线程的Redis为什么能支持10w+的QPS?](http://developer.51cto.com/art/202103/648007.htm)
+ > 我们经常听到Redis是一个单线程程序。准确的说Redis是一个多线程程序，只不过请求处理的部分是用一个线程来
+ ## [CAS与ABA问题及解决方式](http://os.51cto.com/art/202103/648006.htm)
+ > 要了解ABA问题，我们得先知道什么是CAS，CAS 全称是 compare and swap，是一种用于在多线程环境下实现同步
+ ## [这老哥把GPU当暖气用，省钱了](https://blog.csdn.net/m0_46163918/article/details/114285372)
+ > 这老哥把GPU当暖气用，省钱了
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -71,49 +71,18 @@ categories: IT NEWS
  > 元宵节就要到了，花灯要不要来一盏？3D的那种
  ## [做了五年Android,我顿悟了...](https://blog.csdn.net/xuexiangjys/article/details/114242914)
  > 做了五年Android,我顿悟了...
- ## [用鸿蒙开发AI应用（六）UI篇](https://blog.csdn.net/weixin_47479625/article/details/112343440)
- > 用鸿蒙开发AI应用（六）UI篇
- ## [Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）](https://blog.csdn.net/qq_41282258/article/details/98961667)
- > Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）
- ## [双目测距理论及其python实现！](https://blog.csdn.net/dulingwen/article/details/98071584)
- > 双目测距理论及其python实现！
- ## [Python教程（从不懂到入门）](https://blog.csdn.net/alex27933/article/details/107519511)
+ ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
+ > 张一鸣：“我需要的人才，至少具备这三个标准！”
+ ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
+ > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
+ ## [Pytest和Allure测试框架-超详细版+实战](https://blog.csdn.net/qq_42610167/article/details/101204066)
+ > Pytest和Allure测试框架-超详细版+实战
+ ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
+ > 漫画：为什么C语言永不过时？
+ ## [Python基础知识总结（期末复习精简版）](https://blog.csdn.net/m0_46521785/article/details/106414720)
  > 
- ## [C语言实现八大排序算法（一）](https://blog.csdn.net/bluesliuf/article/details/89043746)
- > C语言实现八大排序算法（一）
- ## [【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持](https://blog.csdn.net/u010099080/article/details/53418159)
- > 【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持
-# 人工智能 
- ## [元宵节就要到了，花灯要不要来一盏？3D的那种](https://blog.csdn.net/xufive/article/details/114058247)
- > 元宵节就要到了，花灯要不要来一盏？3D的那种
- ## [JavaScript 游戏开发：手把手实现碰撞物理引擎](https://blog.csdn.net/fengqiuzhihua/article/details/114156010)
- > JavaScript 游戏开发：手把手实现碰撞物理引擎
- ## [漫谈TCP加速的笑话](https://blog.csdn.net/dog250/article/details/114163558)
- > 漫谈TCP加速的笑话
- ## [做了五年Android,我顿悟了...](https://blog.csdn.net/xuexiangjys/article/details/114242914)
- > 做了五年Android,我顿悟了...
- ## [新手学Python之Jupyter Notebook学习](https://blog.csdn.net/herosunly/article/details/114132752)
- > 新手学Python之Jupyter Notebook学习
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [Python OpenCV 图像处理之直方图相关知识细节，学点细的](https://blog.csdn.net/hihell/article/details/114245686)
- > 
- ## [Chapter One : 开启 Python 之旅](https://blog.csdn.net/xw1680/article/details/114261028)
- > Chapter One : 开启 Python 之旅
- ## [西北大学发布猴脸识别论文，公开 10 种动物面部数据集](https://blog.csdn.net/HyperAI/article/details/114128341)
- > 西北大学发布猴脸识别论文，公开 10 种动物面部数据集
- ## [PyTorch 神经网络气温预测](https://blog.csdn.net/weixin_46274168/article/details/114204284)
- > PyTorch 神经网络气温预测
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [泰坦尼克号建模分析-你能活下来吗？](https://blog.csdn.net/Eddy364/article/details/114242697)
- > 泰坦尼克号建模分析-你能活下来吗？
- ## [无需Avatarify 无需剪辑工具 一键生成多人版 “蚂蚁呀嘿“视频](https://blog.csdn.net/txyugood/article/details/114156690)
- > 无需Avatarify 无需剪辑工具 一键生成多人版 “蚂蚁呀嘿“视频
- ## [用 Python 画了几个国家的国旗](https://blog.csdn.net/ityard/article/details/114208689)
- > 用 Python 画了几个国家的国旗
- ## [java 面向对象 第一章：对象和封装](https://blog.csdn.net/Tongbo_/article/details/114239674)
- > java 面向对象 第一章：对象和封装
+ ## [R语言用Garch模型和回归模型对股票价格分析](https://blog.csdn.net/qq_19600291/article/details/110931539)
+ > R语言用Garch模型和回归模型对股票价格分析
 # PM 
  ## [创客匠人CEO蒋洪波：知识付费没有死 只是在发生剧烈转变](http://www.chanpin100.com/article/113709)
  > 厦门创匠信息科技股份有限公司专注为教育培训讲师、机构等内容创业者提供：内容付费、营销系统、用户管理、直播互动、品牌传播等内容付费一站式解决方案，产品集合了视频、音频、图文、直播、活动、社群、问答、商城等主流内容付费形式，提供的内容变现形式包括公众号、小程序、APP、PC网校。
