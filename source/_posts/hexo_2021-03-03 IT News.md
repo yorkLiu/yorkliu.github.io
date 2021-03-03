@@ -1,32 +1,46 @@
 ---
 title: 2021-03-03 IT News
 copyright: true
-date: 2021-03-03 10:14:11
+date: 2021-03-03 12:05:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [讯石直播|3月12日 —— 探讨5G和数据中心波分应用和市场机遇，欢迎关注!](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=r3q0-Ci5TrmX*0nX0QYncDSIoPePsC-DkaN7GrUtmoXcBhXLXm-sUqTwBovBfnn-TgLsO1VY9pp*IXP7urnfMougTiETae26NheVaf0jb5PUGARdJ0QPEMK9lXCWA3Hy&new=1)
+ ## [郭明錤：新 iPhone Pro 将用打孔屏；人大代表建议微信降低支付手续费；第一家太空酒店 2025 年开建|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=bDOiYcPIRd*BwENjUD-qM*0ltnHgSKxxi107ZWBdXmm4Lxa6O248JuFnd7afKofXQMS9M0QEA2d5hTFlyrAjGCozWIxp2AE*jmMI73Fb*HCw55gF4Emm45SQb97gfiuP&new=1)
+ > 雅虎日本、Line 合并完成：日本第一 IT 企业诞生据日本广播协会报道，3 月 1 日起，软银集团旗下 Z Holding(前身为雅虎日本)、Line 两家公司正式实施经营合并，日本最大的 IT 企业由此诞生。新公司拥有大约 2.3 ...
+ ## [网络安全的经济学“原罪”：利润私有化，亏损社会化](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=7KLA31q6SRovWTHkjPnG-PRqTRjnbz4kkHW85reZ1qJ2zcUsW3YiFw8hCGKpWSr**ddT7LvwLiHEccZeYHaLOVMDau1wHHMZF-wer60Jz8HKFKgyFADIgx7BiftWwnCx&new=1)
+ > 科技和行业垄断巨头们为什么敢于大肆掠夺个人隐私数据，同时又不断挤压网络安全预算，无视由此给个人、社会和国家造成的巨大安全风险？例如，为什么手机运营商明知道SIM卡交换攻击的可怕，却并不愿采取（更高成...
+ ## [通知：邀请3D打印院校/研究所/培训机构入驻产品库](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=cAPK2NnP5ZfmFSyxQnaf2NUr*0LQkaveNirMI9TyAHDNL*IDHu3da4HJ--ln-is5J2jdHaQ2VzpUceypTRpePXc8PBrDq3VjZHH-hPgjmG4tmqvF6QG5dMnqBV8OYgtD&new=1)
+ > 2021年2月，南极熊推出全球3D打印产品库之后，引起大量的关注，每天都有大量用户来浏览查询。其中还有很多对3D打印感兴趣的学生群体，以及一批寻找3D打印技术或者人才的企业单位。所以，南极熊特别设置了“教育...
+ ## [华为：今年至少 3 亿台设备使用鸿蒙；增长 7%，互联网人薪资报告出炉；英特尔侵犯芯片专利被判赔偿 22 亿美元|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=KZJSV3BUtkDfFQ*udTGM3uC0ZEYg6mSWJhayRtQrljAFutNDQPf*wNTj4zSA5dfkhEyzDcWWOUG-9cdj4ht992CACv095clkHiqeAMgrHNUdHlf4vfFgkUIIhBOlaO0V&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [推动“扶老上网”服务 让老干部享受数字化便利](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=ZTTY2DRzMcIFFS94oa1zkKC42ZZExv0shTARV6U*EyaQRba5CD91nWFRfXOA1USAUarr4BGina9SsqEM4AX2PhDMcdhJO9Dw4BymL-oipWM=&new=1)
+ > 本报讯 为让更多老干部享受数字化生活的便利，连日来，白云区委老干部局来到离退休干部家中，为他们送去专门定制的《智能手机日常软件使用方法》，手把手指导离退休干部使用“数字黔老”APP，在“扶老上网”...
+ ## [全国政协委员、佳都科技董事长刘伟：抓住大发展机遇 朝世界级智能化技术企业奋进](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=4n7RoDMCkgx3sXCmu4TafG86bbZRBoEiQmJSY9Tw0WARuxeJWgKE8VX9oALeGiGF7XZKIhHhjoEMkofAEJxzdDenao48kpHeI4QFsEM0BJQ=&new=1)
+ > 2021年是“十四五”开局之年，国家在推动科技创新、产业升级、扩大内需、深化改革等方面将有不少新举措、新政策，对企业而言正是抓住机遇、大干快上的好时期。当前，佳都科技董事长刘伟最看好两个领域的发展...
+ ## [讯石直播|3月12日 —— 探讨5G和数据中心波分应用和市场机遇，欢迎关注!](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=r3q0-Ci5TrmX*0nX0QYncDSIoPePsC-DkaN7GrUtmoV28ewKfb0H7ilyt1JEK6U-GuiLLpC*7sqbfJvtArqUfjH9OXF8xwxTpubbNB1sLNf8Pm*lbare0-QPywhcb0y3&new=1)
  > 新闻导读3月12日，讯石将举办“2021讯石直播—探讨5G和数据中心波分应用和市场机遇”，围绕5G和数据中心光网络的波分复用技术价值和市场机遇，探讨各类小型化、高密度、波分复用技术发展，欢迎扫描文中二维码免...
- ## [\[报告\]2020年中国汽车智能化年度总结(附38页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=g-2fmZlERWvdb2JrsI7fFacycrYIoMQMb3WnKrhmqAyTVH6W7OyHHa-br9lHcMBvE3XE2fpQOWUMCppgJ*WsHhHrTB3YpRPRxXHB6Qjh5IZmAwbNsnMniaZ*Qn-IkPVr&new=1)
+ ## [\[报告\]2020年中国汽车智能化年度总结(附38页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=g-2fmZlERWvdb2JrsI7fFacycrYIoMQMb3WnKrhmqAyQtvd64hIBN-antkOVQZYdu91DV*O0fQjvecfELZNxNmugd-YpgYmZ5qbkHMNxxmRwaozkSynekSMkB*Am9OM1&new=1)
  > 近日，IHS Markit发布了《中国汽车智能化年度总结》，依据智能汽车市场状况，对汽车智能化发展历程、现状以及未来发展方向做出详细分析。以下为报告节选：......文│IHS Markit本报告共计：38页。如欲获取完整版...
- ## [7点见|大年三十拼多多日活用户首超淘宝；蔚来股价暴跌13%](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=2i9dkbB4CAgKA2V6flni4SdAycTiPWU-F0hUlgWIew923c5v0crIaldWp7kvKUtmxIDyX*hY1nCaulb*ZxBH7eTnw4Yb-Um*mdOR-WJw8VbpAoB-YUOyY*Syz3D1L5FT&new=1)
+ ## [7点见|大年三十拼多多日活用户首超淘宝；蔚来股价暴跌13%](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=2i9dkbB4CAgKA2V6flni4SdAycTiPWU-F0hUlgWIew831Nyyl*BjaBTKlaFrq4lFkhqE7naWk46KlJBh9KoaITKh0uNWnkZhR-O9a4T-XMuWcfna1p12qnBzUHiSNWyF&new=1)
  > 各位小伙伴早上好呀！ 上一交易日，美股电动车公司股价集体大跌。中概电动车三杰跌幅最大，蔚来股价大跌13%，小鹏汽车跌11.27%，理想汽车跌8.20%。特斯拉股价也大跌4.45%，收于686.44美元。以下是今天的早报！逛...
- ## [因北美暴风雪，Linus Torvalds 遭遇六天断电后发布了内核“冰封废土”](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=9j5mUtoC6LeuFjh*HtqcVK-C14mNAgyquPzKxyw4wvFG1lX7MrGzBRH6kU5nfDgKop0CglnNnOQiTGsCcpTlCTlS5-jyLp21c2fX8HMVtLrGt0Jb79FGaqT18ywV-9wL&new=1)
+ ## [因北美暴风雪，Linus Torvalds 遭遇六天断电后发布了内核“冰封废土”](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=9j5mUtoC6LeuFjh*HtqcVK-C14mNAgyquPzKxyw4wvHU7zRwIzBy48PrlN9B6dOEzUTWw6bE4PhuJaNt3oRTrLmxwxPHJ-HzIlb*ewj7G*mUv3b*z3CCyDNl4szCUgni&new=1)
  > 美国恶劣天气导致 Linux 之父家中断电断网六天：内核更新延期近段时间，美国遭遇恶劣天气侵袭，一些州和城市出现了大停电的情况。居住在俄勒冈州波特兰的 Linux 之父 Linus Torvalds 同样遇到了上述问题，他在最...
- ## [柯瑞文重磅发声!中国电信新发展方向定了!](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=RSCFXA5iztFnhx4JuKV3dmPBUfm14UYafZ4tOHadzDIwaFWWbtKcFbbsoMqQel0RFECllwbvxob2TO2iOYUaheQ5dJUbh8EKwT5easY1wQVAFujxY3PLocsx3VMkBRbL&new=1)
+ ## [柯瑞文重磅发声!中国电信新发展方向定了!](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=RSCFXA5iztFnhx4JuKV3dmPBUfm14UYafZ4tOHadzDLLUOMSEOxRAKmi5CEUvuiK6MTIWlzr7FRU9SSMjqYxcVqTqSXmGqIkHw70rE45Snyax1vrxQYRABX-NWUVGCbs&new=1)
  > 中国电信董事长柯瑞文：单打独斗行不通！在2021世界移动通信大会 ·上海（MWCS）开幕式上，中国电信集团有限公司董事长柯瑞文通过线上的方式发表了题为“Hello 5G 和合共生”的主题演讲，分享了中国电信对未来5G...
- ## [独家对话华为邱雪峰：中国如何建成全球最大、最稳的5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=xkGBzeWwp6ncMCQo5TaS3eROOQNHn5*KPE-VNYU1y3G9hpoxUhjo-GHISQDZTSvxwuzOyVp-IrELA1fAInxAxAdP85Bhd0eMau59xk4Sh6os9WsY7rqpKxwF4h2mOFiT&new=1)
+ ## [独家对话华为邱雪峰：中国如何建成全球最大、最稳的5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=xkGBzeWwp6ncMCQo5TaS3eROOQNHn5*KPE-VNYU1y3F62TMqtKxzHOFkYlrmepTed-*YtBcgr7bH9*AB9*749Vi9BHgwweae92sW5gGbEGlR7rQBgr206sW2m2M0G8iY&new=1)
  > 在2021 MWC 上海展期间，笔者独家对话华为分组核心网产品线总裁邱雪峰。说到5G网络建设，除了大家熟悉的基站、终端，还包括很多环节。其中，5G核心网因其在网络中的特殊“核心”地位，对网络稳定性、业务创新性...
- ## [为了整明白苹果电脑到底会不会中毒，我真的把病毒拷了进去](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=pcJIcPuXh7Zxip01msRFfUL*4HXS8gAhoVnWsZ047H0qrz38yGCtn3iHTJUMTf7oRPzofYzmo4OFmTIowPWUK1v6l5vhDh6IIlSkpgyVtOa8tzlAV21yt5yVCoyZELS3&new=1)
+ ## [为了整明白苹果电脑到底会不会中毒，我真的把病毒拷了进去](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=pcJIcPuXh7Zxip01msRFfUL*4HXS8gAhoVnWsZ047H3j2GhLJbVnU72vys6vKOvl4rMWvxh2vY7rNmmN*4l-IScw-o2f4qawOsZKqjrU3HqBZCyOMnfjOQB-9emdrBRZ&new=1)
  > 来源：差评各位看标题就知道，托尼又干了一件作死的事儿。。。事情是这样的。前两天，突然有个很久没联系的学妹找到托尼，问最近有没有什么好的 Windows 笔记本可以推荐。她说她买了没两个月的 MacBook 中了病毒...
- ## [社交的进化(下)|从虚实集成世界到赛博空间](http://mp.weixin.qq.com/s?src=11&timestamp=1614736804&ver=2923&signature=Rc3KKB42FdSarywfwfF6--ZsjcdjXbTGjGB9KV4d8P9oDaqNvDgWHd5benq9711Dl21gm2hwOuzFgVaWvR8R3lmK4ECwfiPDzVHPeNvwR0s8uFfClEzIQVu2BnrxAbq*&new=1)
+ ## [社交的进化(下)|从虚实集成世界到赛博空间](http://mp.weixin.qq.com/s?src=11&timestamp=1614744005&ver=2923&signature=Rc3KKB42FdSarywfwfF6--ZsjcdjXbTGjGB9KV4d8P8kdEIuujsqfvp7LBMqwJZZ9i92qEc79aubMIL4sDwsUjmot5H5-TwNvLmqoM7GFmbUDc9TEXOk9WRBmGj84G4n&new=1)
  > 在社交的进化（上）篇，我们讨论了随着社交需求的演变与社交网络发展，“全真互联网”在未来是值得期待的社交形态。 这个概念是由Pony（马化腾）首次提出的。按照他的观点：“当虚拟世界和真实世界的大门打开，...
 # IT 技术 
  ## [因为会做MySQL查询优化，领导给我升职了](http://database.51cto.com/art/202103/647954.htm)
  > 因为会做MySQL查询优化，领导给我升职了
  ## [2021年影响企业的自然语言处理趋势](http://ai.51cto.com/art/202103/647953.htm)
  > 2021年影响企业的自然语言处理趋势
+ ## [生产环境下高并发程序崩溃？麻州大学让多线程软件故障分析自动化](http://news.51cto.com/art/202103/647926.htm)
+ > 生产环境下高并发程序崩溃？麻州大学让多线程软件故障分析自动化
  ## [鸿蒙的JS开发部模式17：鸿蒙的系统能力的应用模块](http://developer.51cto.com/art/202103/647909.htm)
  > 鸿蒙的JS开发部模式17：鸿蒙的系统能力的应用模块
  ## [勒索未遂公布数据库，荷兰票务平台Ticketcounter 190万用户邮箱泄露](http://netsecurity.51cto.com/art/202103/647950.htm)
@@ -35,30 +49,28 @@ categories: IT NEWS
  > Crowdsec：一款面向Linux的现代化协作式大型多人防火墙
  ## [趣说“容器技术”，女朋友让我白话它的精彩故事！](http://cloud.51cto.com/art/202103/648025.htm)
  > 趣说“容器技术”，女朋友让我白话它的精彩故事！
- ## [开源式框架Xamarin与React Native大比拼](http://developer.51cto.com/art/202103/647753.htm)
- > 开源式框架Xamarin与React Native大比拼
- ## [ETL之PDI/Kettle培训实战教程-57个案例（数据迁移、抽取同步、转换加载）](http://fellow.51cto.com/art/202101/642004.htm?qd=51ctojrzd)
- > ETL之PDI/Kettle培训实战教程-57个案例（数据迁移、抽取同步、转换加载）
- ## [网络安全的经济学“原罪”：利润私有化，亏损社会化](http://zhuanlan.51cto.com/art/202103/648036.htm)
- > 科技和行业垄断巨头们为什么敢于大肆掠夺个人隐私数据，同时又不断挤压网络安全预算，无视由此给个人、社会
- ## [揭秘开源商业的底层系统：我们为什么看好开源商业？](http://news.51cto.com/art/202103/648034.htm)
- > 《GGV中美企服20年采访札记》系GGV过去20年中，在企业服务行业大浪淘金后的成果和收获，通过GGV投资人与企
- ## [如何解决身份验证系统的安全问题](http://netsecurity.51cto.com/art/202103/648033.htm)
- > 关于身份验证系统如何发挥作用以提供本地和国际不同部门之间的信任和互操作性，行业人士存在一些不同的观点
- ## [鸿蒙第三方组件-图片裁剪组件](http://os.51cto.com/art/202103/647907.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [拳打育碧脚踢佳能，勒索软件怎么就这么强](http://netsecurity.51cto.com/art/202103/648032.htm)
- > 有数据显示，整个2020年，勒索软件攻击事件已突破历史最高点，几款流行的勒索家族已经攻陷了全球数百家知名
- ## [新家老家网络大升级 WiFi6这的那么香吗？](http://network.51cto.com/art/202103/648031.htm)
- > 新年伊始，不少朋友开始“琢磨”起装新家的事宜，随着人们对网络的依赖，不少家庭纷纷重视起家庭网络的搭建
- ## [Mac新恶意软件Silver Sparrow的奥秘](http://netsecurity.51cto.com/art/202103/648028.htm)
- > 网络安全公司Red Canary上周发布了有关一种名为Silver Sparrow的Mac新恶意软件的调查结果。
- ## [面向数据中心基础设施管理的5个关键物联网应用](http://iot.51cto.com/art/202103/648027.htm)
- > 物联网数据的庞大数量和结构在安全性、存储管理、服务器和网络方面都带来了挑战，但物联网也为优化数据中心
- ## [快速提升电脑上网速度的方法](http://os.51cto.com/art/202103/648026.htm)
- > 今天呢，我再来给大家介绍一种快速提升电脑网速的方法，操作也是非常地简单。它的原理是通过操作系统根据网
- ## [云计算在教育领域将发挥哪些优势？](http://cloud.51cto.com/art/202103/648022.htm)
- > 云计算是指可以在任何地方共享计算资源的一种设施，而不受用户位置的影响。接下来，就给大家详细介绍一下云
+ ## [大公司Java面试题解析视频课程](http://fellow.51cto.com/art/202101/638494.htm?qd=51ctojrzd)
+ > 大公司Java面试题解析视频课程
+ ## [十分钟从Java 8到Java 15](http://developer.51cto.com/art/202103/648072.htm)
+ > 我将展示每个Java版本的至少一项重大改进，一直到2020年秋季发布的Java 15都有。
+ ## [天下武功，唯快不破：提升字符串格式化效率的小技巧](http://developer.51cto.com/art/202103/648071.htm)
+ > 在嵌入式项目开发中，字符串格式化是很常见的操作，我们一般都会使用 C 库中的 sprintf 系列函数来完成格式
+ ## [软件工程必看――10条你最容易忽视的经典法则](http://news.51cto.com/art/202103/648069.htm)
+ > 本文列出了10条经常被忽视的软件工程法则，包括康威定律、布鲁克斯定律、扎温斯基定律、帕金森定律、帕累托
+ ## [微信表情符号已写入判决书](http://mobile.51cto.com/app-show-648068.htm)
+ > IT之家 3 月 3 日消息 据法治日报报道，如今表情符号已经成为呈堂证供的一部分，登上多地法院判决书等司法
+ ## [人工智能预算在增加，但部署挑战依然存在](http://ai.51cto.com/art/202103/648067.htm)
+ > Algorithmia的一份新报告发现，用于人工智能的企业预算正在迅速增加，但是仍然存在重大的部署挑战。
+ ## [2021年企业云计算战略7种趋势](http://cloud.51cto.com/art/202103/648066.htm)
+ > 对于大多数IT领导者来说，企业执行云计算战略将带来更多的好处，以下是在2021年塑造企业云计算战略的主要趋
+ ## [\[谭科\]ExcelVBA_01\[初级实战\]](http://fellow.51cto.com/art/202103/647966.htm)
+ > 通过实例，学习VBA编程，提高工作效率。
+ ## [GitHub报告显示香港码农大爆发：转行只因工资高](http://news.51cto.com/art/202103/648070.htm)
+ > 2020年初GitHub发布年度开源大榜，香港的开发者增速在全球国家和地区中排名第二位。香港在互联网时代刚开始
+ ## [引爆5G应用，5G专网大有可为](http://network.51cto.com/art/202103/648063.htm)
+ > 当前，5G网络建设进入快车道，公共通信网络（以下简称公网）正以前所未有的态势飞速发展。在生活中，人们用
+ ## [复旦教授调研新发现：越贵的手机打车越贵](http://mobile.51cto.com/comment-648064.htm)
+ > 3月3日消息，据媒体报道，最近上海复旦大学教授孙金云带领团队做了一项“手机打车软件打车”调研。
  ## [这老哥把GPU当暖气用，省钱了](https://blog.csdn.net/m0_46163918/article/details/114285372)
  > 这老哥把GPU当暖气用，省钱了
  ## [未来十年，Python的“霸榜”地位还能保住吗？](https://blog.csdn.net/CSDNedu/article/details/113995474)
@@ -77,18 +89,18 @@ categories: IT NEWS
  > 元宵节就要到了，花灯要不要来一盏？3D的那种
  ## [做了五年Android,我顿悟了...](https://blog.csdn.net/xuexiangjys/article/details/114242914)
  > 做了五年Android,我顿悟了...
- ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
- > 张一鸣：“我需要的人才，至少具备这三个标准！”
- ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
- > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
- ## [Pytest和Allure测试框架-超详细版+实战](https://blog.csdn.net/qq_42610167/article/details/101204066)
- > Pytest和Allure测试框架-超详细版+实战
- ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
- > 漫画：为什么C语言永不过时？
- ## [Python基础知识总结（期末复习精简版）](https://blog.csdn.net/m0_46521785/article/details/106414720)
+ ## [用鸿蒙开发AI应用（六）UI篇](https://blog.csdn.net/weixin_47479625/article/details/112343440)
+ > 用鸿蒙开发AI应用（六）UI篇
+ ## [Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）](https://blog.csdn.net/qq_41282258/article/details/98961667)
+ > Windows环境下Anaconda3安装配置pytorch详细步骤（踩坑汇总）
+ ## [双目测距理论及其python实现！](https://blog.csdn.net/dulingwen/article/details/98071584)
+ > 双目测距理论及其python实现！
+ ## [Python教程（从不懂到入门）](https://blog.csdn.net/alex27933/article/details/107519511)
  > 
- ## [R语言用Garch模型和回归模型对股票价格分析](https://blog.csdn.net/qq_19600291/article/details/110931539)
- > R语言用Garch模型和回归模型对股票价格分析
+ ## [C语言实现八大排序算法（一）](https://blog.csdn.net/bluesliuf/article/details/89043746)
+ > C语言实现八大排序算法（一）
+ ## [【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持](https://blog.csdn.net/u010099080/article/details/53418159)
+ > 【TensorFlow】Windows10 64 位下安装 TensorFlow - 官方原生支持
 # 人工智能 
  ## [【车载IoT】国标《电动汽车远程服务与管理系统技术规范》：协议数据包结构及定义（重点）](https://blog.csdn.net/XiuHua_Wu/article/details/113732636)
  > 【车载IoT】国标《电动汽车远程服务与管理系统技术规范》：协议数据包结构及定义（重点）
@@ -121,6 +133,14 @@ categories: IT NEWS
  ## [（四 Hystrix 熔断器 什么是熔断器？ 什么是Hystrix？为什么要熔断器 Hystrix用来做什么？ 作用是什么？）手摸手带你一起搭建 Spring cloud 微服务 理论+实践+解析](https://blog.csdn.net/qq_39150049/article/details/112341376)
  > （四 Hystrix 熔断器 什么是熔断器？ 什么是Hystrix？为什么要熔断器 Hystrix用来做什么？ 作用是什么？）手摸手带你一起搭建 Spring cloud 微服务 理论+实践+解析
 # PM 
+ ## [产品经理与产品运营的前景和区别是什么](http://www.chanpin100.com/article/113737)
+ > 作为一个资深互联网人，我需要说的是，我早年做过运营，做过产品，做过技术，因为我也是从运营转到了产品。不要听那些没转行的唠叨，更不要听产品经理怎么转行的分析。本文就来为大家介绍一下产品经理与产品运营的前景和区别是什么。
+ ## [互联网产品经理实践法则分享（下）](http://www.chanpin100.com/article/113735)
+ > 本文是互联网产品经理实践法则分享的最后一篇了，如果你有什么不明白的地方可以在下方留言给小编哦！小编会第一时间回复的。
+ ## [互联网产品经理实践法则分享（中）](http://www.chanpin100.com/article/113734)
+ > 在上一篇文章中，我们为大家分享了四条互联网产品经理实践法则，本文将继续为大家分享相关内容。请看如下具体介绍。
+ ## [互联网产品经理实践法则分享（上）](http://www.chanpin100.com/article/113733)
+ > 即使是资深的产品经理，也难免会犯一些错误，最终导致产品走样。总结错误和经验是一种快速且有效的学习方法。本文为大家分享互联网产品经理的实践法则。
  ## [产品经理核心竞争力：同理心](http://www.chanpin100.com/article/113710)
  > 纵观各大厂产品经理能力模型都有非常多的能力要求和技能，但没有同理心/共情能力一项，但如果追溯本源很多软技能和硬技能中的都源于同理心，比如数据分析，沟通能力，用户研究，用户体验，市场营销，人才培养……等等。
  ## [创客匠人CEO蒋洪波：知识付费没有死 只是在发生剧烈转变](http://www.chanpin100.com/article/113709)
@@ -153,13 +173,5 @@ categories: IT NEWS
  > 当你努力准备好简历时，一些公司向你伸出橄榄枝。在你去面试之前，你必须自己回答这些问题，以帮助你提高面试成功的机会。请看如下具体问题介绍。
  ## [产品经理面试常见问题（二）](http://www.chanpin100.com/article/113722)
  > 对于刚离校的新人来说，因为没有实践经验，面试失败可能是家常便饭。为了帮助这些新人，本文整理了一些产品经理面试常见问题，希望能够帮到大家。
- ## [为什么 985 的代码敲不过三本的？](http://www.chanpin100.com/article/113721)
- > 找工作是一个双向的选择，好在不合适还能换，但入了一个不适合自己的坑，可能那几年时间就白搭了，到最后食之无味，弃之可惜。我就说说身边的一些真实例子。
- ## [产品经理面试常见问题（一）](http://www.chanpin100.com/article/113718)
- > 在面试过程中，能力是第一要素，其次是技巧。面试肯定是有技巧的，但是如果没有扎实的基本功，那其实是本末倒置。下边分享一些产品经理面试常见问题。
- ## [废掉一个产品经理最常见的方式 就是天天画原型](http://www.chanpin100.com/article/113719)
- > 最近有朋友向我抱怨：回顾两年产品生涯，突然发现自己好像一直在忙着画原型，Axure倒是用的更顺手了，其他一点长进都没有。很多同学都会陷入这种看似很忙很充实的工作节奏，实则没有成长。产品经理，一直闲着或是忙成狗都不重要，重要的是你是否知道自己在做什么。
- ## [产品经理面试题+解析汇总（六）](http://www.chanpin100.com/article/113717)
- > 现在正是金三银四的大好时机，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
 
     
