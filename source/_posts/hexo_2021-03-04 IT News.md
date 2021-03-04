@@ -1,52 +1,56 @@
 ---
 title: 2021-03-04 IT News
 copyright: true
-date: 2021-03-04 09:10:45
+date: 2021-03-04 10:05:47
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [刚刚，天翼云独家中标荣耀中国区IT基础建设项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1614819604&ver=2925&signature=SqA5Ccum0PWbRWhwKMNKID2QAbOJpa4hp4BCL91uTh5G4VCthPKMRNffPAND2CyutF4juFtZQ69EiRSpdTlM3uIsOzQLct*CodOkjoMZR0L7XQrvuJCBDHE4FakvOKvx&new=1)
- > 热烈庆祝中国电信天翼云独家中标荣耀中国区IT基础建设项目！继苹果iCloud项目后天翼云又一个具有里程碑意义的大单。该项目三年资源需求规模超过3万台服务器，是天翼云单一客户服务器规模最大的云基础设施项目。...
- ## [全国政协委员沈南鹏提案：降低私家车使用强度，人工智能助力碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1614819604&ver=2925&signature=324YrMM5DfhcsRgMxY*YWsWpe6w5rKjPNEcqDh5Kf4hGHRCBsnwcpbDS0atxA5AVfTOpTZpdHMAz-JwLyYdoN90pNRM6AZTv8FtCqtmeKinLrFpbh0kKAHuRqpoPGnue&new=1)
- > 2021年两会开幕在即，全国政协委员、红杉资本中国基金创始及执行合伙人沈南鹏带来了6份提案，涉及近年来社会关注的热点话题，包括碳达峰、种子开发与耕地保护、物流数字化、医疗器械企业上市科创板、医疗高值耗...
- ## [解读天翼云新动作：助企业畅享工业互联网标识解析体系红利](http://mp.weixin.qq.com/s?src=11&timestamp=1614819604&ver=2925&signature=2IFCLJu-XB*XbSNU2UNElbJaRno3l62dDHVgTYhz-Qey8uW2uKWl2S68HyOSZ7wolBO8eYC3AY3KVPKOUzrLeG7s8AaqBijLJZmR3CUWkWheHe76GFx5qOVTqxB0WsvN&new=1)
+ ## [解读天翼云新动作：助企业畅享工业互联网标识解析体系红利](http://mp.weixin.qq.com/s?src=11&timestamp=1614823204&ver=2925&signature=2IFCLJu-XB*XbSNU2UNElbJaRno3l62dDHVgTYhz-Qd60l7ZZoSzQoZW7hh-05uEV78ZYjE6A351Ul49uII77Q6Pa5taQns2taveNCHoSjlnQacXq37A-8RTZfTJFs8e&new=1)
  > 你去超市买菜、买水果，如果能通过产品上的“身份证”标识，追溯产品生产、储藏、销售各个环节，你是不是会对产品更放心？因为能追溯，整个产品市场链条以次充好等难度加大。而基于此，市场管理者可根据海量商品...
+ ## [7点见|中芯国际订购12亿美元光刻机；丁磊亲自负责网易云音乐](http://mp.weixin.qq.com/s?src=11&timestamp=1614823204&ver=2925&signature=SDIN-a0YkjASrTa7yhnnWPoCuj2zI7MpK56h2tkZ2CDUqB3xdB*wJ4cVSmtNDvJ0AahMvCyCq-lTf-XygwZWlelsF7Ui*GsftZ1aRhW3HMGkKUuPRZqZxXGopntjjEOV&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！市场监管总局处罚十荟团等五家社区团购企业：存在低价倾销行为市场监管总局根据价格监测线索，先后对橙心优选科技发展有限公司、上海禹璨信息技术有限公司、深圳美团优...
+ ## [极米科技上市首日暴涨3倍，但智能投影仍有这些问题需要关注](http://mp.weixin.qq.com/s?src=11&timestamp=1614823204&ver=2925&signature=nqgcQbT736U3ZQoUZbQo9Jfg0xSyehCDU6iXTFDhdHMaiMkFJ7F*0iATav-oFKP8IX6ypUndd9*sBjLpxSWeupqaUI5vwkWTZ5fr1sYqMaw=&new=1)
+ > 经济观察网 记者 任晓宁 实习生 卢硕 3月3日，极米科技科创板上市首日，股价翻了3倍。极米科技股票发行价为133.73元/股，盘中最高冲至611.15元。截至收盘，极米科技报530.01元，涨幅296.33%，总市值265亿元。作...
+ ## [全国政协委员沈南鹏提案：降低私家车使用强度，人工智能助力碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1614823204&ver=2925&signature=324YrMM5DfhcsRgMxY*YWsWpe6w5rKjPNEcqDh5Kf4hPoL0FXKKnRUlaoDlsIwoeQsy42A1-a32cuNPu9qfheGbnc7FmXOEFb2NBkoQrx3rGrIM5G-jyAABjLkGwvLMM&new=1)
+ > 2021年两会开幕在即，全国政协委员、红杉资本中国基金创始及执行合伙人沈南鹏带来了6份提案，涉及近年来社会关注的热点话题，包括碳达峰、种子开发与耕地保护、物流数字化、医疗器械企业上市科创板、医疗高值耗...
 # IT 技术 
- ## [什么是移动边缘计算（MEC）？](http://network.51cto.com/art/202103/648114.htm)
- > 什么是移动边缘计算（MEC）？
- ## [万恶的Scan，30万单就这样没了...](http://developer.51cto.com/art/202103/648155.htm)
- > 万恶的Scan，30万单就这样没了...
+ ## [日志到底该怎么打印？](http://developer.51cto.com/art/202103/648246.htm)
+ > 日志到底该怎么打印？
  ## [Lambda架构概览：工作原理、优缺点和适用场景](http://developer.51cto.com/art/202103/648113.htm)
  > Lambda架构概览：工作原理、优缺点和适用场景
+ ## [万恶的Scan，30万单就这样没了...](http://developer.51cto.com/art/202103/648155.htm)
+ > 万恶的Scan，30万单就这样没了...
+ ## [什么是移动边缘计算（MEC）？](http://network.51cto.com/art/202103/648114.htm)
+ > 什么是移动边缘计算（MEC）？
+ ## [从“天地一体”到“移动组网”，中国量子通信产业是如何“炼成”的？](http://news.51cto.com/art/202103/648209.htm)
+ > 从“天地一体”到“移动组网”，中国量子通信产业是如何“炼成”的？
+ ## [专业开发者眼中的HarmonyOS：专访资深软件开发工程师张荣超](http://os.51cto.com/art/202103/648134.htm)
+ > 专业开发者眼中的HarmonyOS：专访资深软件开发工程师张荣超
  ## [安卓VS鸿蒙第三方件切换宝典 V1.0](http://developer.51cto.com/art/202103/648105.htm)
  > 安卓VS鸿蒙第三方件切换宝典 V1.0
- ## [巨头翻船？英特尔被判侵权VLSI专利，需赔偿21.8亿，半个季度利润没了](http://zhuanlan.51cto.com/art/202103/648103.htm)
- > 巨头翻船？英特尔被判侵权VLSI专利，需赔偿21.8亿，半个季度利润没了
- ## [因为会做MySQL查询优化，领导给我升职了](http://database.51cto.com/art/202103/647954.htm)
- > 因为会做MySQL查询优化，领导给我升职了
- ## [冷淡的面试官，让我手写LRU缓存淘汰算法打发时间！](http://stor.51cto.com/art/202103/647733.htm)
- > 冷淡的面试官，让我手写LRU缓存淘汰算法打发时间！
- ## [鸿蒙开源第三方组件 -B站开源弹幕库引擎的迁移（上）](http://os.51cto.com/art/202103/648104.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [微软开源低代码编程语言 Power Fx，基于 Excel](http://os.51cto.com/art/202103/648230.htm)
- > 微软宣布推出新的开源编程语言 Power Fx，一种基于 Microsoft Excel 的低代码公式语言;将可以在整个 Micros
- ## [一篇文章简述Java交换变量和字符串基础](http://developer.51cto.com/art/202103/648225.htm)
- > 本文主要介绍了变量交换、String类初始化、字符串的基本操作。变量交换详解介绍了两个变量是如何交换的，通
- ## [前端进阶:原生JavaScript实现具有进度监听的文件上传预览组件](http://developer.51cto.com/art/202103/648221.htm)
- > 本文主要介绍如何使用原生js，通过面向对象的方式实现一个文件上传预览的组件，该组件利用FileReader来实现
- ## [查漏补缺synchronized和ReentrantLock的基本原理](http://developer.51cto.com/art/202103/648220.htm)
- > synchronized基本原理是通过CPU指令实现的。ReentrantLock是通过AQS(AbstractQueuedSynchronizer)实现的。
- ## [未来三年，区块链将如何促进工业互联网的创新发展？](http://blockchain.51cto.com/art/202103/648219.htm)
- > 本文通过分析区块链技术优势，以及在工业互联网创新发展行动计划中的重点任务，从“创新、融合、可信”角度
- ## [如何编写神奇的「插件机制」，优化基于 Antd Table 封装表格的混乱代码](http://developer.51cto.com/art/202103/648222.htm)
- > 以及开发过程中出现代码的耦合，难以维护问题，进而延伸探索插件机制在组件中的设计和使用，虽然本文设计的
- ## [2021年，更多支付巨头将采用加密货币](http://blockchain.51cto.com/art/202103/648217.htm)
- > 众所周知，基于区块链的付款比传统的付款方式更快，更具成本效益。但是，由于数字资产的波动性，以加密方式
- ## [Java8新特性系列-默认方法和静态方法](http://developer.51cto.com/art/202103/648218.htm)
- > 在Java 8之前，默认情况下，接口中的所有方法都是公共的和抽象的。但是这一限制在Java 8中被打破了，Java 8
- ## [苹果允许用户将iCloud照片转移到谷歌相册](http://mobile.51cto.com/news-648214.htm)
- > 日前，苹果公司本周推出了一项新服务，旨在使iCloud用户快速，轻松地将其存储的照片和视频转移到Google相册
+ ## [Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训](http://fellow.51cto.com/art/202012/636254.htm?qd=51ctojrzd)
+ > Oracle Goldengate数据库复制与容灾项目_Goldengate实施维护_OGG实战培训
+ ## [云计算的下半场：云原生计算](http://cloud.51cto.com/art/202103/648243.htm)
+ > 从云计算诞生至今，中美两国走了两条不同的发展路线，这与两国的各自国情是有密切关系的。
+ ## [这 7 道关于this的面试题，你能答对几个？](http://developer.51cto.com/art/202103/648242.htm)
+ > 在 JavaScript 中，this 是函数调用上下文。正是由于 this 的行为很复杂，所以在 JavaScript 面试中，总是
+ ## [Gartner口中的SASE，为什么会成为国内外追捧的热点](http://zhuanlan.51cto.com/art/202103/648241.htm)
+ > Gartner表示SASE将取代现有的网络和安全模型。这一全新网络安全模型的提出，迅速成为国内外研究热点。
+ ## [太强了！Apache 开源超级项目Pulsar](http://news.51cto.com/art/202103/648240.htm)
+ > 本文作者为 Jesse Anderson。内容由 StreamNative 翻译并整理。 本文以三个实际使用场景为例，从 CTO 的视
+ ## [中国电信：持续打造“网边云用服”一体的5G专网综合解决方案](http://network.51cto.com/art/202103/648237.htm)
+ > 随着“新基建”的持续推进，业界对通过5G技术实现数字化转型的需求更加迫切。由于不同行业信息化特征差异明
+ ## [图解网络犯罪团伙间关系](http://netsecurity.51cto.com/art/202103/648238.htm)
+ > 网络安全报告往往将黑客团伙及其恶意软件/黑客行动当成独立事件加以描述，但实际上，网络犯罪圈子并不大，
+ ## [这篇文章让你花10分钟读懂微服务](http://developer.51cto.com/art/202103/648248.htm)
+ > 在本文中，我将讨论什么是微服务，它们为何如此重要。我们将从微服务历史以及它们与单体架构的比较开始。
+ ## [Go语言恶意软件暴增20倍](http://zhuanlan.51cto.com/art/202103/648236.htm)
+ > 根据以色列安全公司Intezer的最新报告《地鼠年：2020年恶意软件综述》，在过去的四年中，随着国家黑客和网
+ ## [DoppelPaymer勒索软件的最新攻击趋势总结](http://netsecurity.51cto.com/art/202103/648235.htm)
+ > 2020年12月初，FBI发布了关于DoppelPaymer的警告，这是一个新出现的勒索软件家族，于2019年首次被发现，当
+ ## [Redis 的 8 大数据类型，写得非常好！](http://news.51cto.com/art/202103/648247.htm)
+ > 最近这几天的面试每一场都问到了，但是感觉回答的并不好，还有很多需要梳理的知识点，这里通过几篇 Redis
  ## [手机“缺芯”真相](https://blog.csdn.net/m0_46163918/article/details/114305081)
  > 手机“缺芯”真相
  ## [AI 浪淘沙  week （222-226）](https://blog.csdn.net/weixin_39787030/article/details/114141246)
@@ -109,6 +113,8 @@ categories: IT NEWS
  ## [（四 Hystrix 熔断器 什么是熔断器？ 什么是Hystrix？为什么要熔断器 Hystrix用来做什么？ 作用是什么？）手摸手带你一起搭建 Spring cloud 微服务 理论+实践+解析](https://blog.csdn.net/qq_39150049/article/details/112341376)
  > （四 Hystrix 熔断器 什么是熔断器？ 什么是Hystrix？为什么要熔断器 Hystrix用来做什么？ 作用是什么？）手摸手带你一起搭建 Spring cloud 微服务 理论+实践+解析
 # PM 
+ ## [「产品社群」话题讨论精华·第1期](http://www.chanpin100.com/article/113731)
+ > 从本周开始，我们会收集和总结每天下午社群话题的优质回答，每周六整理推送给大家！周四话题：面试场景，当面试官问：简单介绍一下你做的某某产品时，你会从哪些方面介绍你的产品？
  ## [AI产品经理的技术常识——分词](http://www.chanpin100.com/article/113713)
  > 对于AI产品经理而言，了解AI算法的工作原理有助于和技术人员沟通协作，以及设计出可落地的AI产品。本文简单介绍自然语言处理技术（NLP）绕不开的一个环节——分词。希望对大家有所帮助。
  ## [设计效能 | QQ动漫的设计系统之路](http://www.chanpin100.com/article/113758)
@@ -147,7 +153,5 @@ categories: IT NEWS
  > 这是比较有意思的一篇文章，本文用诙谐幽默的语言阐述了一个现在比较普遍的现象：996工作制问题。下面请看本文的内容，产品经理被强制996以后该怎么办，相信看完之后你会有不一样的感受。
  ## [产品经理面试题+解析汇总（七）](http://www.chanpin100.com/article/113742)
  > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。
- ## [互联网产品经理须具备的商业思维分享](http://www.chanpin100.com/article/113741)
- > 近年来，互联网公司越来越重视产品经理的商业思维能力。公司对产品经理的期望不仅仅是绘制原型图，整理需求，更重要的是为企业创造商业价值。所以，互联网产品经理必须要具备一定的商业思维。本文为大家介绍一下商业思维怎样培养。
 
     
