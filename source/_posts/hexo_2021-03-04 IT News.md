@@ -1,50 +1,54 @@
 ---
 title: 2021-03-04 IT News
 copyright: true
-date: 2021-03-04 08:04:11
+date: 2021-03-04 09:10:45
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全国政协委员沈南鹏提案：降低私家车使用强度，人工智能助力碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1614816004&ver=2925&signature=324YrMM5DfhcsRgMxY*YWsWpe6w5rKjPNEcqDh5Kf4hGHRCBsnwcpbDS0atxA5AV93vKqQkn8GFNFU5Bg3pbxQR-zCyqDA0UVGzQFf1ZgIXpyaZDZUG67E6zfFzMnOLO&new=1)
- > 2021年两会开幕在即，全国政协委员、红杉资本中国基金创始及执行合伙人沈南鹏带来了6份提案，涉及近年来社会关注的热点话题，包括碳达峰、种子开发与耕地保护、物流数字化、医疗器械企业上市科创板、医疗高值耗...
- ## [解读天翼云新动作：助企业畅享工业互联网标识解析体系红利](http://mp.weixin.qq.com/s?src=11&timestamp=1614816004&ver=2925&signature=2IFCLJu-XB*XbSNU2UNElbJaRno3l62dDHVgTYhz-Qey8uW2uKWl2S68HyOSZ7worBvI-tEEdEEk*tLH0JUX5u6BPob2VC6kkmXxTU4hLq2QRKxhh394*qYhzFe4zfvl&new=1)
- > 你去超市买菜、买水果，如果能通过产品上的“身份证”标识，追溯产品生产、储藏、销售各个环节，你是不是会对产品更放心？因为能追溯，整个产品市场链条以次充好等难度加大。而基于此，市场管理者可根据海量商品...
- ## [刚刚，天翼云独家中标荣耀中国区IT基础建设项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1614816004&ver=2925&signature=SqA5Ccum0PWbRWhwKMNKID2QAbOJpa4hp4BCL91uTh5G4VCthPKMRNffPAND2CyuWc2oPkfCm450IfShvzvzZY66RvDJp1vGrsqi64W9i4hAonnCPDJD6v5apakTO5-e&new=1)
+ ## [刚刚，天翼云独家中标荣耀中国区IT基础建设项目!](http://mp.weixin.qq.com/s?src=11&timestamp=1614819604&ver=2925&signature=SqA5Ccum0PWbRWhwKMNKID2QAbOJpa4hp4BCL91uTh5G4VCthPKMRNffPAND2CyutF4juFtZQ69EiRSpdTlM3uIsOzQLct*CodOkjoMZR0L7XQrvuJCBDHE4FakvOKvx&new=1)
  > 热烈庆祝中国电信天翼云独家中标荣耀中国区IT基础建设项目！继苹果iCloud项目后天翼云又一个具有里程碑意义的大单。该项目三年资源需求规模超过3万台服务器，是天翼云单一客户服务器规模最大的云基础设施项目。...
+ ## [全国政协委员沈南鹏提案：降低私家车使用强度，人工智能助力碳达峰](http://mp.weixin.qq.com/s?src=11&timestamp=1614819604&ver=2925&signature=324YrMM5DfhcsRgMxY*YWsWpe6w5rKjPNEcqDh5Kf4hGHRCBsnwcpbDS0atxA5AVfTOpTZpdHMAz-JwLyYdoN90pNRM6AZTv8FtCqtmeKinLrFpbh0kKAHuRqpoPGnue&new=1)
+ > 2021年两会开幕在即，全国政协委员、红杉资本中国基金创始及执行合伙人沈南鹏带来了6份提案，涉及近年来社会关注的热点话题，包括碳达峰、种子开发与耕地保护、物流数字化、医疗器械企业上市科创板、医疗高值耗...
+ ## [解读天翼云新动作：助企业畅享工业互联网标识解析体系红利](http://mp.weixin.qq.com/s?src=11&timestamp=1614819604&ver=2925&signature=2IFCLJu-XB*XbSNU2UNElbJaRno3l62dDHVgTYhz-Qey8uW2uKWl2S68HyOSZ7wolBO8eYC3AY3KVPKOUzrLeG7s8AaqBijLJZmR3CUWkWheHe76GFx5qOVTqxB0WsvN&new=1)
+ > 你去超市买菜、买水果，如果能通过产品上的“身份证”标识，追溯产品生产、储藏、销售各个环节，你是不是会对产品更放心？因为能追溯，整个产品市场链条以次充好等难度加大。而基于此，市场管理者可根据海量商品...
 # IT 技术 
- ## [万恶的Scan，30万单就这样没了...](http://developer.51cto.com/art/202103/648155.htm)
- > 万恶的Scan，30万单就这样没了...
  ## [什么是移动边缘计算（MEC）？](http://network.51cto.com/art/202103/648114.htm)
  > 什么是移动边缘计算（MEC）？
+ ## [万恶的Scan，30万单就这样没了...](http://developer.51cto.com/art/202103/648155.htm)
+ > 万恶的Scan，30万单就这样没了...
+ ## [Lambda架构概览：工作原理、优缺点和适用场景](http://developer.51cto.com/art/202103/648113.htm)
+ > Lambda架构概览：工作原理、优缺点和适用场景
+ ## [安卓VS鸿蒙第三方件切换宝典 V1.0](http://developer.51cto.com/art/202103/648105.htm)
+ > 安卓VS鸿蒙第三方件切换宝典 V1.0
  ## [巨头翻船？英特尔被判侵权VLSI专利，需赔偿21.8亿，半个季度利润没了](http://zhuanlan.51cto.com/art/202103/648103.htm)
  > 巨头翻船？英特尔被判侵权VLSI专利，需赔偿21.8亿，半个季度利润没了
  ## [因为会做MySQL查询优化，领导给我升职了](http://database.51cto.com/art/202103/647954.htm)
  > 因为会做MySQL查询优化，领导给我升职了
  ## [冷淡的面试官，让我手写LRU缓存淘汰算法打发时间！](http://stor.51cto.com/art/202103/647733.htm)
  > 冷淡的面试官，让我手写LRU缓存淘汰算法打发时间！
- ## [2021年影响企业的自然语言处理趋势](http://ai.51cto.com/art/202103/647953.htm)
- > 2021年影响企业的自然语言处理趋势
- ## [生产环境下高并发程序崩溃？麻州大学让多线程软件故障分析自动化](http://news.51cto.com/art/202103/647926.htm)
- > 生产环境下高并发程序崩溃？麻州大学让多线程软件故障分析自动化
- ## [Oracle存储结构深入分析与管理_Oracle视频教程_基础深入与核心技术03](http://fellow.51cto.com/art/202101/638497.htm?qd=51ctojrzd)
- > Oracle存储结构深入分析与管理_Oracle视频教程_基础深入与核心技术03
- ## [微软将开启 PC Windows10 20H2 正式版强制升级](http://os.51cto.com/art/202103/648203.htm)
- > 3月4日消息 外媒 Windows Latest 报道，在未来几周或几个月内，微软表示将开始在运行过时版本操作系统的设
- ## [RocketMQ事务消息如何保证数据的一致性](http://developer.51cto.com/art/202103/648202.htm)
- > 分布式事务是大厂面试必问题，而目前大部分公司都是采用可靠消息来保证数据的最终一种性，通常会采用 Rocke
- ## [酷炫！巧用 -webkit-box-reflect 倒影实现各类动效](http://developer.51cto.com/art/202103/648201.htm)
- > 今天的文章非常有趣，简单的一行代码，让 CSS 动效的 Level 提升不少。
- ## [你会被手机偷拍吗？这个检测App简直太良心](http://mobile.51cto.com/app-show-648198.htm)
- > 众所周知，安卓系统在隐私方面存在很多诟病。在很多情况下，安卓App可以随意读取手机中的照片、剪贴板、通
- ## [动动手指就有钱收！个人所得税App退税教程](http://mobile.51cto.com/app-show-648197.htm)
- > 个人所得税可以退税了!只需要动动手指头，就有机会获得一笔额外的退税收入。那么个人所得税退税流程到底是
- ## [一文搞懂MySQL体系架构！！](http://database.51cto.com/art/202103/648157.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [一日一技：微信开发自定义菜单](http://developer.51cto.com/art/202103/648156.htm)
- > 自定义菜单能够帮助公众号丰富界面，让用户更好更快地理解公众号的功能。一般情况下，不管是创建或者修改菜
- ## [互联网打工人薪资怎样？ 快来看这这份报告](https://blog.csdn.net/m0_46163918/article/details/114281199)
- > 互联网打工人薪资怎样？ 快来看这这份报告
+ ## [鸿蒙开源第三方组件 -B站开源弹幕库引擎的迁移（上）](http://os.51cto.com/art/202103/648104.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [微软开源低代码编程语言 Power Fx，基于 Excel](http://os.51cto.com/art/202103/648230.htm)
+ > 微软宣布推出新的开源编程语言 Power Fx，一种基于 Microsoft Excel 的低代码公式语言;将可以在整个 Micros
+ ## [一篇文章简述Java交换变量和字符串基础](http://developer.51cto.com/art/202103/648225.htm)
+ > 本文主要介绍了变量交换、String类初始化、字符串的基本操作。变量交换详解介绍了两个变量是如何交换的，通
+ ## [前端进阶:原生JavaScript实现具有进度监听的文件上传预览组件](http://developer.51cto.com/art/202103/648221.htm)
+ > 本文主要介绍如何使用原生js，通过面向对象的方式实现一个文件上传预览的组件，该组件利用FileReader来实现
+ ## [查漏补缺synchronized和ReentrantLock的基本原理](http://developer.51cto.com/art/202103/648220.htm)
+ > synchronized基本原理是通过CPU指令实现的。ReentrantLock是通过AQS(AbstractQueuedSynchronizer)实现的。
+ ## [未来三年，区块链将如何促进工业互联网的创新发展？](http://blockchain.51cto.com/art/202103/648219.htm)
+ > 本文通过分析区块链技术优势，以及在工业互联网创新发展行动计划中的重点任务，从“创新、融合、可信”角度
+ ## [如何编写神奇的「插件机制」，优化基于 Antd Table 封装表格的混乱代码](http://developer.51cto.com/art/202103/648222.htm)
+ > 以及开发过程中出现代码的耦合，难以维护问题，进而延伸探索插件机制在组件中的设计和使用，虽然本文设计的
+ ## [2021年，更多支付巨头将采用加密货币](http://blockchain.51cto.com/art/202103/648217.htm)
+ > 众所周知，基于区块链的付款比传统的付款方式更快，更具成本效益。但是，由于数字资产的波动性，以加密方式
+ ## [Java8新特性系列-默认方法和静态方法](http://developer.51cto.com/art/202103/648218.htm)
+ > 在Java 8之前，默认情况下，接口中的所有方法都是公共的和抽象的。但是这一限制在Java 8中被打破了，Java 8
+ ## [苹果允许用户将iCloud照片转移到谷歌相册](http://mobile.51cto.com/news-648214.htm)
+ > 日前，苹果公司本周推出了一项新服务，旨在使iCloud用户快速，轻松地将其存储的照片和视频转移到Google相册
+ ## [手机“缺芯”真相](https://blog.csdn.net/m0_46163918/article/details/114305081)
+ > 手机“缺芯”真相
  ## [AI 浪淘沙  week （222-226）](https://blog.csdn.net/weixin_39787030/article/details/114141246)
  > AI 浪淘沙  week （222-226）
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -57,18 +61,18 @@ categories: IT NEWS
  > 程序员为什么要挤破头也要进大厂？别说是拧螺丝，递扳手我也愿意去！
  ## [年终福利 | “社区之星”（年度贡献者）成长故事征集](https://blog.csdn.net/csdnsevenn/article/details/111387076)
  > 
- ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
- > 手把手教你使用R语言制作临床决策曲线
- ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
- > 
- ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
- > 张一鸣：“我需要的人才，至少具备这三个标准！”
- ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
- > 一文看懂YOLO v3
- ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
- > 移动端UI一致性解决方案
- ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
- > 详解BP神经网络
+ ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
+ > 5 分钟带你弄懂 k-means 聚类
+ ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
+ > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
+ ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
+ > C语言贪吃蛇（详解）——链表实现
+ ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
+ > 机器学习之KNN最邻近分类算法
+ ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
+ > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
+ ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
+ > C/C++  经典面试题（一）之常考概念【持续更新】
  ## [Python AI机器人玩农药 “开外挂”，青铜变王者，起飞！](https://blog.csdn.net/zhiguigu/article/details/113995458)
  > Python AI机器人玩农药 “开外挂”，青铜变王者，起飞！
  ## [Java真的要没落了？](https://blog.csdn.net/Taobaojishu/article/details/114267469)
