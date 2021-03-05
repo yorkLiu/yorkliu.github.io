@@ -1,58 +1,60 @@
 ---
 title: 2021-03-05 IT News
 copyright: true
-date: 2021-03-05 09:10:00
+date: 2021-03-05 10:08:35
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全球芯片短缺，除中芯国际外还有另一家中国芯片企业获益甚巨，业绩倍速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=a-sHoK497WYvnS3yqo4lDNC507O9onGts6-hQg7wjjj6*577NjuJGUcgu8sUDUmwt1F**59R7xcrewsnIpw3HYoywhMEUD0PT8T0sOXgYT3GM-WnCjLRsd8MCwdMsIog&new=1)
- > 从去年四季度以来，芯片短缺问题蔓延，这让中国最大的芯片代工企业中芯国际获益，它采购先进芯片制造设备的限制被放松，近期与光刻机巨头阿斯麦签署了12亿美元的采购清单，其实除了中芯国际之外，另一家中国芯片...
- ## [2021年，深圳“5G智慧之城”将大踏步向前](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=nyosPEfyiH3iDaioMLFZyRWouMrGJsTlJb8jXM0c9KrN3PdQ55nioOB6Sn1qD0pZmTaO5VQJ10etBWO*DNYN3d9qAuE7y8s8j3vbrA95k-lbYfPGvubcvrDvctCIyQla&new=1)
- > 3月4日，我们进入“两会”时间。业界预测，在本次“两会”中，科技创新将会是代表们讨论话题的重中之重。因为科技创新将推动智慧城市发展，促进数字经济繁荣。记得去年的3月4日，我国提出加大以5G为首的新基建投...
- ## [苹果今年全球开发者大会WWDC或将再次线上举行](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=zK9FCuA37j6XJrw80NSj4nMDHNWPYCoyQQhzWoFT49G187kQBPAN3UMEB8l56riNRfoGR4DgF*Rt51070XuFflNkxan7E4qseAfrYnuVGUq1aaOOB8-7grCpyxaGLOnt&new=1)
- > 3月4日消息，受新冠肺炎大流行的影响，一些备受瞩目的会议举办方本周纷纷宣布原定于春季和夏季举行的活动被推迟或完全取消，这也意味着苹果可能会再次线上举办全球开发者大会（WWDC）。据报道，出于公共安全考虑...
- ## [两会声音|全国政协委员、360集团创始人周鸿祎：网络安全问题是“数字时代的‘必答题’”](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=gB1VpA2*LYlGxh1Co9g9iHLd-v5YpDPZTZtcbhRsNX2Cr6Xrg*ZMYyRUbs8D6rkkK6EE2HuWtkBxjB3CNl4tpEwdN28AT9jEF1hkcz5-nAU=&new=1)
- > 经济观察网 记者 钱玉娟 3月4日下午，全国政协委员、360集团创始人周鸿祎出现在全国政协十三届四次会议的首场“委员通道”中。据悉，这是周鸿祎履职全国政协委员以来第四次参会。在他看来，网络安全不仅关乎国家...
- ## [人事：中国联通省级大将 任集团重要部门一把手!](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=d0FLGn129dpF3ZfM0xOYKIxM6SsgErMei9YWZsWxZv3805K2JG9mK8ufKz5OgRReBQBj2qpL*k8FxBRnNdLnC3vs1emEMhxVSrP*I0KETzh9fmQOkNdMBf6bGdm3RvS*&new=1)
+ ## [人事：中国联通省级大将 任集团重要部门一把手!](http://mp.weixin.qq.com/s?src=11&timestamp=1614909604&ver=2927&signature=d0FLGn129dpF3ZfM0xOYKIxM6SsgErMei9YWZsWxZv3805K2JG9mK8ufKz5OgRRe2yV4UIom-Rcsh7kbzeRT94cTNA0ggMiUDg9tXI7nWEo6LyD3RzgYsO91r-dT*Jg4&new=1)
  > 近日，运营商情报获悉，原天津联通总经理王鑫接替马红兵任中国联通集团云网运营中心总经理。较早前王鑫在内蒙古联通任职多年，2017年调任天津联通总经理，任职期间天津联通效益水平持续改善，市场份额提升排名领...
+ ## [两会声音|全国政协委员、360集团创始人周鸿祎：网络安全问题是“数字时代的‘必答题’”](http://mp.weixin.qq.com/s?src=11&timestamp=1614909604&ver=2927&signature=gB1VpA2*LYlGxh1Co9g9iHLd-v5YpDPZTZtcbhRsNX3MYI4BaYfcjX*SrnmSG99GsOSq6p0a*gzkRNxBReC7mEyKz9iCkXDYj0-TmIuzVtM=&new=1)
+ > 经济观察网 记者 钱玉娟 3月4日下午，全国政协委员、360集团创始人周鸿祎出现在全国政协十三届四次会议的首场“委员通道”中。据悉，这是周鸿祎履职全国政协委员以来第四次参会。在他看来，网络安全不仅关乎国家...
+ ## [全球芯片短缺，除中芯国际外还有另一家中国芯片企业获益甚巨，业绩倍速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1614909604&ver=2927&signature=a-sHoK497WYvnS3yqo4lDNC507O9onGts6-hQg7wjjj6*577NjuJGUcgu8sUDUmwNI2XgfWeOCnvo8ktxDi1seo3WABaH*FpYeRm7gbRDLKlCHSPCpRYP*LeMWZsUo1r&new=1)
+ > 从去年四季度以来，芯片短缺问题蔓延，这让中国最大的芯片代工企业中芯国际获益，它采购先进芯片制造设备的限制被放松，近期与光刻机巨头阿斯麦签署了12亿美元的采购清单，其实除了中芯国际之外，另一家中国芯片...
+ ## [关注|仕佳光子：2020年净利扭亏为盈 400G光模块用AWG芯片在客户导入过程中](http://mp.weixin.qq.com/s?src=11&timestamp=1614909604&ver=2927&signature=cZpbYdckWxv*HaGN9TzztDA80T3W5T49wBC7i6XrUX7ZVnlec-kWx5AWvh6cZhm9AnWiLEQBswygeaMnpLthD29*6afCr0p8AnTeuhCdIwiG4kt6ihTO6S8CT9Ns66Dp&new=1)
+ > 新闻导读仕佳光子接待证券机构调研，就公司基本情况及主导产品行业情况进了沟通交流。仕佳光子从 10G PON 领域切入DFB 激光器芯片领域，其中25G DFB 激光器芯片目前尚处于研发阶段。AWG芯片方面，应用于100G 光...
+ ## [2021年，深圳“5G智慧之城”将大踏步向前](http://mp.weixin.qq.com/s?src=11&timestamp=1614909604&ver=2927&signature=nyosPEfyiH3iDaioMLFZyRWouMrGJsTlJb8jXM0c9KrN3PdQ55nioOB6Sn1qD0pZWLm9PuQKlCam7Q90S14CAIHa4HkdObRVX*jyzwXtkhZS9HjMMK-QXBpTlQpMVk-U&new=1)
+ > 3月4日，我们进入“两会”时间。业界预测，在本次“两会”中，科技创新将会是代表们讨论话题的重中之重。因为科技创新将推动智慧城市发展，促进数字经济繁荣。记得去年的3月4日，我国提出加大以5G为首的新基建投...
+ ## [苹果今年全球开发者大会WWDC或将再次线上举行](http://mp.weixin.qq.com/s?src=11&timestamp=1614909604&ver=2927&signature=zK9FCuA37j6XJrw80NSj4nMDHNWPYCoyQQhzWoFT49G187kQBPAN3UMEB8l56riN7w1CB6DfDxPqUImQJE9F0Igv5WQk7l*VzAL9FFlwCvFVCgqbC3zUmjFc9wO29K63&new=1)
+ > 3月4日消息，受新冠肺炎大流行的影响，一些备受瞩目的会议举办方本周纷纷宣布原定于春季和夏季举行的活动被推迟或完全取消，这也意味着苹果可能会再次线上举办全球开发者大会（WWDC）。据报道，出于公共安全考虑...
 # IT 技术 
- ## [如何采用强化学习选择客户更加关注的广告](http://ai.51cto.com/art/202103/648351.htm)
- > 如何采用强化学习选择客户更加关注的广告
- ## [Jupyter Notebooks：您一直在寻觅的基于Web的开发工具](http://developer.51cto.com/art/202103/648350.htm)
- > Jupyter Notebooks：您一直在寻觅的基于Web的开发工具
+ ## [如何采用强化学习帮助选择客户更加关注的广告](http://ai.51cto.com/art/202103/648351.htm)
+ > 如何采用强化学习帮助选择客户更加关注的广告
+ ## [谷歌气球的人工智能为何令开发者自己感到惊奇](http://ai.51cto.com/art/202103/648425.htm)
+ > 谷歌气球的人工智能为何令开发者自己感到惊奇
  ## [凉凉，老板叫我开发一个简单的工作流引擎...](http://developer.51cto.com/art/202103/648356.htm)
  > 凉凉，老板叫我开发一个简单的工作流引擎...
+ ## [Jupyter Notebooks：您一直在寻觅的基于Web的开发工具](http://developer.51cto.com/art/202103/648350.htm)
+ > Jupyter Notebooks：您一直在寻觅的基于Web的开发工具
+ ## [给华为反馈的鸿蒙HarmonyOS Bug与解决进度，涉及底层、Java、JS等](http://developer.51cto.com/art/202103/648284.htm)
+ > 给华为反馈的鸿蒙HarmonyOS Bug与解决进度，涉及底层、Java、JS等
  ## [日志到底应该怎么打印？](http://developer.51cto.com/art/202103/648246.htm)
  > 日志到底应该怎么打印？
  ## [Lambda架构概览：工作原理、优缺点和适用场景](http://developer.51cto.com/art/202103/648113.htm)
  > Lambda架构概览：工作原理、优缺点和适用场景
- ## [万恶的Scan，30万单就这样没了...](http://developer.51cto.com/art/202103/648155.htm)
- > 万恶的Scan，30万单就这样没了...
- ## [什么是移动边缘计算（MEC）？](http://network.51cto.com/art/202103/648114.htm)
- > 什么是移动边缘计算（MEC）？
- ## [2021年软考信息系统项目管理师-基础知识(下) 新大纲视频培训课程](http://fellow.51cto.com/art/202101/640010.htm?qd=51ctojrzd)
- > 2021年软考信息系统项目管理师-基础知识(下) 新大纲视频培训课程
+ ## [2021年软考网络工程师--上午历年真题解析视频课程](http://fellow.51cto.com/art/202012/637837.htm?qd=51ctojrzd)
+ > 2021年软考网络工程师--上午历年真题解析视频课程
+ ## [鸿蒙开源第三方组件-B站开源弹幕库引擎的迁移（下）](http://os.51cto.com/art/202103/648283.htm)
+ > 本期，我们将以弹幕库为例，让大家了解开源三方件是如何从安卓迁移到鸿蒙的！
+ ## [打造更好的数字经济科技公司大佬都在关注什么？](http://network.51cto.com/art/202103/648428.htm)
+ > 3月4日，多位科技公司负责人，以全国人大代表或政协委员的身份公布了自己的两会建议。记者整理发现，算力基
+ ## [一文带你读懂Base64编码](http://developer.51cto.com/art/202103/648424.htm)
+ > 相信很多同学在工作中，经常会用到Base64编码，那大家知道为什么会有Base64编码吗?我们为什么要使用它呢，
+ ## [手把手教你在Windows下设置分布式队列Celery的心跳轮询](http://os.51cto.com/art/202103/648423.htm)
+ > 大家好，我是吴老板。用Celery 官方的话来说，Celery 是一个非常优秀的分布式队列，可应用于分布式共享中间
+ ## [Go 面试题： New 和 Make 是什么，差异在哪？](http://news.51cto.com/art/202103/648421.htm)
+ > 在 Go 语言中，有两个比较雷同的内置函数，分别是 new 和 make 方法，其主要用途都是用于分配相应类型的内
  ## [微软 Edge 89 稳定版推送：垂直标签、启动提速](http://os.51cto.com/art/202103/648420.htm)
  > 3 月 5 日消息 微软 Edge 浏览器的稳定版今天已经更新到 89.0.774.45 版本，这次更新带来了许多功能。
  ## [IBM Security：助力抗击新冠肺炎疫情的多个行业遭网络攻击](http://netsecurity.51cto.com/art/202103/648419.htm)
  > 近日，IBM Security发布了2021年IBM X-Force威胁情报指数报告，重点阐述了网络攻击在2020年经历的演变。
  ## [香港最快网速的5G运营商是谁？Speedtest公布结果](http://network.51cto.com/art/202103/648418.htm)
  > 据网络测试网站Speedtest最新报告显示，中国移动香港(CMHK)的5G网络下载速度达到211.53 Mbps，成为香港5G网
+ ## [Hive必会SQL语法Explode 和 Lateral View](http://database.51cto.com/art/202103/648416.htm)
+ > 在业务系统中是存贮在非关系型数据库中，用json存储的概率比较大，直接导入hive为基础的数仓系统中，就需要
  ## [为什么Delete表数据，磁盘空间却还是被占用](http://database.51cto.com/art/202103/648417.htm)
  > 最近有个上位机获取下位机上报数据的项目，由于上报频率比较频繁且数据量大，导致数据增长过快，磁盘占用多
- ## [再出发：Skywalking 8.4安装指南](http://os.51cto.com/art/202103/648414.htm)
- > 这篇文章仅做分享，因为刚刚涉猎这一块，在慢慢学习，不好做过多讲解，毕竟也是刚开始学习国内的资料不太多
- ## [设计模式系列之桥接模式](http://developer.51cto.com/art/202103/648415.htm)
- > 桥接模式是一种结构型设计模式， 可将一个大类或一系列紧密相关的类拆分为抽象和实现两个独立的层次结构，
- ## [技术架构涵盖内容和演变过程总结](http://developer.51cto.com/art/202103/648413.htm)
- > 对于刚接触编程的新人来说，可能并能很清楚的知道架构是怎么来的，都包括什么内容。如果非得说什么架构，那
- ## [记一次Linux内核崩溃kdump,crash,vmcore](http://os.51cto.com/art/202103/648410.htm)
- > Linux内核发送崩溃时，kdump会生成一个内核转储文件vmcore。 可以通过分析vmcore分析出内核崩溃的原因。
- ## [图样图森破-Pyecharts复合图](http://bigdata.51cto.com/art/202103/648409.htm)
- > 上一篇文章中我们介绍了柱状图的创建和配置，在第一篇文章中也附上了有关于折线图的代码示例。那么当你接到
- ## [这个安卓自动化APP我愿称它为神器!](http://mobile.51cto.com/app-show-648408.htm)
- > 用过安卓手机的差友应该知道，得益于 Android 系统的开放性，平时我们只需借助某些软件，很轻易就可以在安
  ## [程序员因违反《竞业协议》赔偿腾讯近百万](https://blog.csdn.net/weixin_39787242/article/details/114366467)
  > 程序员因违反《竞业协议》赔偿腾讯近百万
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -69,21 +71,23 @@ categories: IT NEWS
  > 
  ## [高薪程序员也躲不过35岁这一关..当能力与年龄脱节，我们该如何自救](https://blog.csdn.net/m0_52650621/article/details/114264814)
  > 高薪程序员也躲不过35岁这一关..当能力与年龄脱节，我们该如何自救
- ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
- > 手把手教你使用R语言制作临床决策曲线
- ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
- > 
- ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
- > 张一鸣：“我需要的人才，至少具备这三个标准！”
- ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
- > 一文看懂YOLO v3
- ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
- > 移动端UI一致性解决方案
- ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
- > 详解BP神经网络
+ ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
+ > 5 分钟带你弄懂 k-means 聚类
+ ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
+ > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
+ ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
+ > C语言贪吃蛇（详解）——链表实现
+ ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
+ > 机器学习之KNN最邻近分类算法
+ ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
+ > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
+ ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
+ > C/C++  经典面试题（一）之常考概念【持续更新】
  ## [神仙打架！今年计算机考研爆炸实况！](https://blog.csdn.net/csseky/article/details/114255617)
  > 神仙打架！今年计算机考研爆炸实况！
 # 人工智能 
+ ## [“复制粘贴”发明人，竟是物理学博士转行做程序媛！](https://blog.csdn.net/csdnsevenn/article/details/109323775)
+ > “复制粘贴”发明人，竟是物理学博士转行做程序媛！
  ## [【车载IoT】国标《电动汽车远程服务与管理系统技术规范》：协议数据包结构及定义（重点）](https://blog.csdn.net/XiuHua_Wu/article/details/113732636)
  > 【车载IoT】国标《电动汽车远程服务与管理系统技术规范》：协议数据包结构及定义（重点）
  ## [OpenCV-Python图像处理：透视变换概念、矩阵及实现案例详解](https://blog.csdn.net/LaoYuanPython/article/details/114003964)
@@ -92,29 +96,29 @@ categories: IT NEWS
  > JavaScript 游戏开发：手把手实现碰撞物理引擎
  ## [漫谈TCP加速的笑话](https://blog.csdn.net/dog250/article/details/114163558)
  > 漫谈TCP加速的笑话
- ## [做了五年Android,我顿悟了...](https://blog.csdn.net/xuexiangjys/article/details/114242914)
- > 做了五年Android,我顿悟了...
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [做了五年Android,我顿悟了...](https://blog.csdn.net/xuexiangjys/article/details/114242914)
+ > 做了五年Android,我顿悟了...
  ## [2021年3月中国编程语言排行榜，c++加油，超过java指日可待](https://blog.csdn.net/juwikuang/article/details/114275954)
  > 2021年3月中国编程语言排行榜，c++加油，超过java指日可待
  ## [到底谁在使用低代码？钉钉低代码用户画像：非IT人员占8成](https://blog.csdn.net/FL63Zv9Zou86950w/article/details/114283547)
  > 到底谁在使用低代码？钉钉低代码用户画像：非IT人员占8成
  ## [100 行代码写一个图片验证码组件](https://blog.csdn.net/zhangxin09/article/details/114285776)
  > 100 行代码写一个图片验证码组件
- ## [我最喜欢的 12 个VSCode 插件！](https://blog.csdn.net/qq449245884/article/details/114298467)
- > 我最喜欢的 12 个VSCode 插件！
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [“5G 太耗电，关掉它！”](https://blog.csdn.net/csdnnews/article/details/114297918)
- > “5G 太耗电，关掉它！”
- ## [C语言实现三子棋小游戏---超详细讲解](https://blog.csdn.net/JunFengYiHan/article/details/114308340)
- > C语言实现三子棋小游戏---超详细讲解
- ## [马化腾曾遭多年“威胁”：饱受烟害十年的“大兵”，终于戒烟了](https://blog.csdn.net/csdnsevenn/article/details/114266691)
- > 马化腾曾遭多年“威胁”：饱受烟害十年的“大兵”，终于戒烟了
- ## [PyTorch 卷积神经网络简介](https://blog.csdn.net/weixin_46274168/article/details/114281272)
- > PyTorch 卷积神经网络简介
+ ## [我最喜欢的 12 个VSCode 插件！](https://blog.csdn.net/qq449245884/article/details/114298467)
+ > 我最喜欢的 12 个VSCode 插件！
+ ## [Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统](https://blog.csdn.net/csdnnews/article/details/114370718)
+ > Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统
+ ## [结构体及结构体内存对齐讲解](https://blog.csdn.net/DR5200/article/details/114317261)
+ > 结构体及结构体内存对齐讲解
+ ## [智能车AI电磁部署学习 (二)](https://blog.csdn.net/u012662615/article/details/114368850)
+ > 智能车AI电磁部署学习 (二)
 # PM 
+ ## [《赘婿》中的商业设定是否可行](http://www.chanpin100.com/article/113760)
+ > 《赘婿》很搞笑，也是一部经商剧，将现代商业模式搬到古代，分分钟击溃传统商业模式，但是你有没有想过，这些商业玩法确实可行吗？
  ## [产品运营的分类有哪些 如何入职产品运营？](http://www.chanpin100.com/article/113792)
  > 产品运营的分类都有哪些，如何才能成功入职产品运营呢？这些问题你都知道吗，如果不清楚没关系，下面请看本文的介绍，相信看完之后你会有答案的。
  ## [产品经理必知的概念定义](http://www.chanpin100.com/article/113791)
@@ -153,7 +157,5 @@ categories: IT NEWS
  > 随着 “她经济”崛起，女神节成为企业营销不可错过的好机会。女性相关细分赛道的教培企业如何借势女神节宣传？
  ## [【产品经理免费公开课】产品经理如何打造一份邀约不断的简历](http://www.chanpin100.com/article/113775)
  > 说到面试，这个问题不论在哪个行业都是一大热门问题。那么，产品经理应该如何打造一份邀约不断的简历呢？本期公开课由车马老师为大家做这方面的分享，有兴趣的小伙伴可以来免费报名学习呦！
- ## [产品经理的六大工作职责分享](http://www.chanpin100.com/article/113773)
- > 产品经理的工作职责都有哪些呢？很多刚入门的产品经理心中不禁存在着这样的疑问。本文将为大家着重介绍一些产品经理的六大工作职责。
 
     
