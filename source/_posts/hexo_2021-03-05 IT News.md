@@ -1,22 +1,24 @@
 ---
 title: 2021-03-05 IT News
 copyright: true
-date: 2021-03-05 08:04:45
+date: 2021-03-05 09:10:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全球芯片短缺，除中芯国际外还有另一家中国芯片企业获益甚巨，业绩倍速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1614902404&ver=2927&signature=a-sHoK497WYvnS3yqo4lDNC507O9onGts6-hQg7wjjj6*577NjuJGUcgu8sUDUmwNbgmMalgi9Extllm63W8q7TfV30uZeQcCJRLjxYcpQ1Pi*hLZwsUKMtDLrrdqRwy&new=1)
+ ## [全球芯片短缺，除中芯国际外还有另一家中国芯片企业获益甚巨，业绩倍速增长](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=a-sHoK497WYvnS3yqo4lDNC507O9onGts6-hQg7wjjj6*577NjuJGUcgu8sUDUmwt1F**59R7xcrewsnIpw3HYoywhMEUD0PT8T0sOXgYT3GM-WnCjLRsd8MCwdMsIog&new=1)
  > 从去年四季度以来，芯片短缺问题蔓延，这让中国最大的芯片代工企业中芯国际获益，它采购先进芯片制造设备的限制被放松，近期与光刻机巨头阿斯麦签署了12亿美元的采购清单，其实除了中芯国际之外，另一家中国芯片...
- ## [2021年，深圳“5G智慧之城”将大踏步向前](http://mp.weixin.qq.com/s?src=11&timestamp=1614902404&ver=2927&signature=nyosPEfyiH3iDaioMLFZyRWouMrGJsTlJb8jXM0c9KrN3PdQ55nioOB6Sn1qD0pZzRZ*ZR9q3bQOdw9ss7nHrP9XUlcr-NDkZP9ZnnP4mPul0uqCv**7Tc2N3MQGWBcW&new=1)
+ ## [2021年，深圳“5G智慧之城”将大踏步向前](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=nyosPEfyiH3iDaioMLFZyRWouMrGJsTlJb8jXM0c9KrN3PdQ55nioOB6Sn1qD0pZmTaO5VQJ10etBWO*DNYN3d9qAuE7y8s8j3vbrA95k-lbYfPGvubcvrDvctCIyQla&new=1)
  > 3月4日，我们进入“两会”时间。业界预测，在本次“两会”中，科技创新将会是代表们讨论话题的重中之重。因为科技创新将推动智慧城市发展，促进数字经济繁荣。记得去年的3月4日，我国提出加大以5G为首的新基建投...
- ## [苹果今年全球开发者大会WWDC或将再次线上举行](http://mp.weixin.qq.com/s?src=11&timestamp=1614902404&ver=2927&signature=zK9FCuA37j6XJrw80NSj4nMDHNWPYCoyQQhzWoFT49G187kQBPAN3UMEB8l56riNka4jR9vUjKW6g-ItLtwxPO17Yy*cf2j5UlKzwwhUlUxZG-BJfZ6Yar0w2mUKRgRv&new=1)
+ ## [苹果今年全球开发者大会WWDC或将再次线上举行](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=zK9FCuA37j6XJrw80NSj4nMDHNWPYCoyQQhzWoFT49G187kQBPAN3UMEB8l56riNRfoGR4DgF*Rt51070XuFflNkxan7E4qseAfrYnuVGUq1aaOOB8-7grCpyxaGLOnt&new=1)
  > 3月4日消息，受新冠肺炎大流行的影响，一些备受瞩目的会议举办方本周纷纷宣布原定于春季和夏季举行的活动被推迟或完全取消，这也意味着苹果可能会再次线上举办全球开发者大会（WWDC）。据报道，出于公共安全考虑...
- ## [两会声音|全国政协委员、360集团创始人周鸿祎：网络安全问题是“数字时代的‘必答题’”](http://mp.weixin.qq.com/s?src=11&timestamp=1614902404&ver=2927&signature=gB1VpA2*LYlGxh1Co9g9iHLd-v5YpDPZTZtcbhRsNX16pC02cG7UmT1RvBElld4jxeKh3gKQT8oH9*XH4b7iYo7QU*-JdFejv-4i2yCxqLs=&new=1)
+ ## [两会声音|全国政协委员、360集团创始人周鸿祎：网络安全问题是“数字时代的‘必答题’”](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=gB1VpA2*LYlGxh1Co9g9iHLd-v5YpDPZTZtcbhRsNX2Cr6Xrg*ZMYyRUbs8D6rkkK6EE2HuWtkBxjB3CNl4tpEwdN28AT9jEF1hkcz5-nAU=&new=1)
  > 经济观察网 记者 钱玉娟 3月4日下午，全国政协委员、360集团创始人周鸿祎出现在全国政协十三届四次会议的首场“委员通道”中。据悉，这是周鸿祎履职全国政协委员以来第四次参会。在他看来，网络安全不仅关乎国家...
- ## [人事：中国联通省级大将 任集团重要部门一把手!](http://mp.weixin.qq.com/s?src=11&timestamp=1614902404&ver=2927&signature=d0FLGn129dpF3ZfM0xOYKIxM6SsgErMei9YWZsWxZv3805K2JG9mK8ufKz5OgRReNrWR13G9lvsuSCDdGaAg*yriz2zvpBzXccS6jBhaoRQxKBqZNv1E2wLLVk4oPnNB&new=1)
+ ## [人事：中国联通省级大将 任集团重要部门一把手!](http://mp.weixin.qq.com/s?src=11&timestamp=1614906005&ver=2927&signature=d0FLGn129dpF3ZfM0xOYKIxM6SsgErMei9YWZsWxZv3805K2JG9mK8ufKz5OgRReBQBj2qpL*k8FxBRnNdLnC3vs1emEMhxVSrP*I0KETzh9fmQOkNdMBf6bGdm3RvS*&new=1)
  > 近日，运营商情报获悉，原天津联通总经理王鑫接替马红兵任中国联通集团云网运营中心总经理。较早前王鑫在内蒙古联通任职多年，2017年调任天津联通总经理，任职期间天津联通效益水平持续改善，市场份额提升排名领...
 # IT 技术 
+ ## [如何采用强化学习选择客户更加关注的广告](http://ai.51cto.com/art/202103/648351.htm)
+ > 如何采用强化学习选择客户更加关注的广告
  ## [Jupyter Notebooks：您一直在寻觅的基于Web的开发工具](http://developer.51cto.com/art/202103/648350.htm)
  > Jupyter Notebooks：您一直在寻觅的基于Web的开发工具
  ## [凉凉，老板叫我开发一个简单的工作流引擎...](http://developer.51cto.com/art/202103/648356.htm)
@@ -29,32 +31,30 @@ categories: IT NEWS
  > 万恶的Scan，30万单就这样没了...
  ## [什么是移动边缘计算（MEC）？](http://network.51cto.com/art/202103/648114.htm)
  > 什么是移动边缘计算（MEC）？
- ## [从“天地一体”到“移动组网”，中国量子通信产业是如何“炼成”的？](http://news.51cto.com/art/202103/648209.htm)
- > 从“天地一体”到“移动组网”，中国量子通信产业是如何“炼成”的？
- ## [Hyper-V 3.0入门（HyperV安装+虚拟机创建、管理、迁移+虚拟磁盘管理）](http://fellow.51cto.com/art/202101/640236.htm?qd=51ctojrzd)
- > Hyper-V 3.0入门（HyperV安装+虚拟机创建、管理、迁移+虚拟磁盘管理）
+ ## [2021年软考信息系统项目管理师-基础知识(下) 新大纲视频培训课程](http://fellow.51cto.com/art/202101/640010.htm?qd=51ctojrzd)
+ > 2021年软考信息系统项目管理师-基础知识(下) 新大纲视频培训课程
+ ## [微软 Edge 89 稳定版推送：垂直标签、启动提速](http://os.51cto.com/art/202103/648420.htm)
+ > 3 月 5 日消息 微软 Edge 浏览器的稳定版今天已经更新到 89.0.774.45 版本，这次更新带来了许多功能。
+ ## [IBM Security：助力抗击新冠肺炎疫情的多个行业遭网络攻击](http://netsecurity.51cto.com/art/202103/648419.htm)
+ > 近日，IBM Security发布了2021年IBM X-Force威胁情报指数报告，重点阐述了网络攻击在2020年经历的演变。
+ ## [香港最快网速的5G运营商是谁？Speedtest公布结果](http://network.51cto.com/art/202103/648418.htm)
+ > 据网络测试网站Speedtest最新报告显示，中国移动香港(CMHK)的5G网络下载速度达到211.53 Mbps，成为香港5G网
+ ## [为什么Delete表数据，磁盘空间却还是被占用](http://database.51cto.com/art/202103/648417.htm)
+ > 最近有个上位机获取下位机上报数据的项目，由于上报频率比较频繁且数据量大，导致数据增长过快，磁盘占用多
+ ## [再出发：Skywalking 8.4安装指南](http://os.51cto.com/art/202103/648414.htm)
+ > 这篇文章仅做分享，因为刚刚涉猎这一块，在慢慢学习，不好做过多讲解，毕竟也是刚开始学习国内的资料不太多
+ ## [设计模式系列之桥接模式](http://developer.51cto.com/art/202103/648415.htm)
+ > 桥接模式是一种结构型设计模式， 可将一个大类或一系列紧密相关的类拆分为抽象和实现两个独立的层次结构，
+ ## [技术架构涵盖内容和演变过程总结](http://developer.51cto.com/art/202103/648413.htm)
+ > 对于刚接触编程的新人来说，可能并能很清楚的知道架构是怎么来的，都包括什么内容。如果非得说什么架构，那
  ## [记一次Linux内核崩溃kdump,crash,vmcore](http://os.51cto.com/art/202103/648410.htm)
  > Linux内核发送崩溃时，kdump会生成一个内核转储文件vmcore。 可以通过分析vmcore分析出内核崩溃的原因。
  ## [图样图森破-Pyecharts复合图](http://bigdata.51cto.com/art/202103/648409.htm)
  > 上一篇文章中我们介绍了柱状图的创建和配置，在第一篇文章中也附上了有关于折线图的代码示例。那么当你接到
  ## [这个安卓自动化APP我愿称它为神器!](http://mobile.51cto.com/app-show-648408.htm)
  > 用过安卓手机的差友应该知道，得益于 Android 系统的开放性，平时我们只需借助某些软件，很轻易就可以在安
- ## [实现Web端指纹登录](http://netsecurity.51cto.com/art/202103/648407.htm)
- > 现在越来越多的笔记本电脑内置了指纹识别，用于快速从锁屏进入桌面，一些客户端的软件也支持通过指纹来认证
- ## [关于MySQL日志，我与阿里P9都聊了些啥？](http://database.51cto.com/art/202103/648405.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [使用fiddler抓包微信公众号和小程序](http://os.51cto.com/art/202103/648406.htm)
- > 目前微信公众号和小程序应用越来越多，那么我们如何对二者进行抓包进而在测试中更加准确的定位问题呢?目前
- ## [分析：存量争夺战越发明显，宽带作用或将进一步凸显](http://network.51cto.com/art/202103/648404.htm)
- > 5G用户基本上都是从4G转化而来。即便5G网络覆盖能力再强，这在一定程度上也很难形成对移动电话用户发展的有
- ## [VIAVI发布最新报告 2020年5G网络已覆盖1336个城市](http://network.51cto.com/art/202103/648403.htm)
- > 近日，通信网络测试服务、监控和保障解决方案的供应商VIAVI Solutions公司发布了一份《5G部署
- ## [Windows10将迎来翻天覆地变化！今年第一个更新来了](http://os.51cto.com/art/202103/648401.htm)
- > 微软已经多次高调宣传，Win10将会在今年下半年迎来21H2更新，这个版本的变动可以称得上翻天覆地，最大的改
- ## [使用Docker对容器资源进行限制](http://stor.51cto.com/art/202103/648358.htm)
- > 在服务器当中，假设iis服务部署多个站点，那么只要其中一个站点出问题，假设是cpu100%，或者是内存爆满，那
- ## [春招旺季提前，北上深杭平均招聘月薪过万](https://blog.csdn.net/weixin_39787242/article/details/114366342)
- > 春招旺季提前，北上深杭平均招聘月薪过万
+ ## [程序员因违反《竞业协议》赔偿腾讯近百万](https://blog.csdn.net/weixin_39787242/article/details/114366467)
+ > 程序员因违反《竞业协议》赔偿腾讯近百万
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
