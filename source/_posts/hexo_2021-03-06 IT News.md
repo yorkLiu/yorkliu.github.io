@@ -1,20 +1,20 @@
 ---
 title: 2021-03-06 IT News
 copyright: true
-date: 2021-03-06 08:03:49
+date: 2021-03-06 09:06:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [运营商5G要赚到钱：该怎么建5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614988804&ver=2929&signature=66x4EAmaSqYAvYA*0Y*7d7G*UeJXZwC31-A5jjskq0iaB*blmlvuuqmEYYt4yVuMAnuTbCO-e795ja*WCxG3GZKtDtSdDIKBwJSWS-FgD0Ha0jmSIbyhVTKaZnHdRRS5&new=1)
- > 2021年，5G发展进入第三年，全球5G运营商都希望释放5G网络红利，一方面发展5G VR、高清视频、5G消息等toC业务，另一方面在积极探索煤矿、港口、医疗等5GtoB业务。华为参与到全球诸多运营商5G SA核心网建设中，助...
- ## [科技巨头接下来的计划，都在「两会」剧透了](http://mp.weixin.qq.com/s?src=11&timestamp=1614988804&ver=2929&signature=pVCHMn6s8ys0v90OIIX79dJpeblT7jxAQkafzJIR2z2VL7PKKiLIKh*kbVKmEXAJmgQsya1dAyg*wyNt4g5n-Jre-4zZmhxPeUHjqRwh9yPcKlRLr-IrbtlDYB9LCAsE&new=1)
+ ## [科技巨头接下来的计划，都在「两会」剧透了](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=pVCHMn6s8ys0v90OIIX79dJpeblT7jxAQkafzJIR2z034gTlJfDkRHLDLtR8iWtouoOehcpt-roP3aNq1JGcUK42TQy-lL*TAPPIT3MuvU2JAsvKi*XESfsCL6jo7B8D&new=1)
  > 芯片、新能源和适老化成为焦点。近日，全国「两会」正式启幕，在「十四五」开局之年，贯彻新发展理念、构建新发展格局、推动高质量发展成为中国未来发展主题。3 月 3 日，百度、网易、360 等一众科技巨头纷纷发...
- ## [中通服、浪潮江苏多位来宾到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1614988804&ver=2929&signature=zgNY7EUpMUPlpqkJYkHwaYWk8D6JAJL8Y766zkBaCfhhMX70MBs9rhqRc1EX4KE-eJa4ig4*rqAmqkJlFFztI-0twcQT*F51mNLvVdNbLPzmooqPYIbSkaB4a1mwjebo&new=1)
- > 3月5日，中通服咨询设计研究院有限公司集团客户部教育行业总监傅斌一行，以及浪潮集团江苏分公司两位来宾到访，云创大数据总裁刘鹏教授、刘立宏总监、王军总监共同接待了来宾。交流座谈过程中，云创方面向来宾介...
- ## [Snapmaker完成A轮融资 将强化3D打印机模块化属性](http://mp.weixin.qq.com/s?src=11&timestamp=1614988804&ver=2929&signature=Elq76JoVqETdZFFHJouUcY2Qu3M7pvbDruAEEyba-kVYVargJk4gXruZyr6IhlfMjYGFxcmXbiqLgWPAxolRuzXYYMrr7UdS*orjDCs21PmgHUJYe4gYhRMmv1TBGaKg&new=1)
+ ## [Snapmaker完成A轮融资 将强化3D打印机模块化属性](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=Elq76JoVqETdZFFHJouUcY2Qu3M7pvbDruAEEyba-kVp9dbsas8QrYoEMnAmnIHnr17RHRiHpkntbFDlfPBqyVhocd7jdaARTdkCvVksL8cIZCh4OnBwIKPtVfGZt76P&new=1)
  > 3月5日消息，桌面级数字制造工具研发公司Snapmaker（快造科技）近日完成数千万元的A轮融资，此轮融资将主要用于人才招募与供应链建设。在此次A轮融资前，Snapmaker曾于2017年和2019年两次登陆众筹平台Kickstarte...
- ## [腾讯：这可是一只“骨骼清奇”的狗](http://mp.weixin.qq.com/s?src=11&timestamp=1614988804&ver=2929&signature=PVzahPWW36fex8xzj7rJ6beuT5CQA0doqdQ3pA-I2Rwaf44MojsSnMzPPT-d8xHN49OLJJmHVBWRqikSyDx2Ca7ZNE6M6nBpzTUokJT2ZVPzuu*9DIMd4-9zW*bmT606&new=1)
+ ## [中通服、浪潮江苏多位来宾到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=zgNY7EUpMUPlpqkJYkHwaYWk8D6JAJL8Y766zkBaCfhUtfVzL-F1wh6C1G2n7RDdGrJiv-nFo*MTGS3b8Hb600dgDygT6UaTrItopCkXm3qdyILyzReAFzp9CtH-CUjR&new=1)
+ > 3月5日，中通服咨询设计研究院有限公司集团客户部教育行业总监傅斌一行，以及浪潮集团江苏分公司两位来宾到访，云创大数据总裁刘鹏教授、刘立宏总监、王军总监共同接待了来宾。交流座谈过程中，云创方面向来宾介...
+ ## [运营商5G要赚到钱：该怎么建5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=66x4EAmaSqYAvYA*0Y*7d7G*UeJXZwC31-A5jjskq0iWNFUuY0Djp4YYeVWRZ1eyzw848fC9wxf0JsBuV2fRZQ*rMjoM0XfNlakUO2x9DMIDgE7V1LYtWhKbvM1HJHHt&new=1)
+ > 2021年，5G发展进入第三年，全球5G运营商都希望释放5G网络红利，一方面发展5G VR、高清视频、5G消息等toC业务，另一方面在积极探索煤矿、港口、医疗等5GtoB业务。华为参与到全球诸多运营商5G SA核心网建设中，助...
+ ## [腾讯：这可是一只“骨骼清奇”的狗](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=PVzahPWW36fex8xzj7rJ6beuT5CQA0doqdQ3pA-I2RwCs*DJXlG83DWFx-dHXH-eXIW1oVFngY2xf5sDk-bgpV4WsfbfrTlO42w*m1FExEx932Z4DfB1fIWzBYr*RAKq&new=1)
  > 整理 | 寇雪芹出品 | AI科技大本营（rgznai100）3月2日，腾讯在微博、微信等多个平台发布消息称，增加了一名“新成员”——机器狗Max。这只机器狗是腾讯首个多模态四足机器人，软硬件都由 Robotics X实验室自研...
 # IT 技术 
  ## [如何采用强化学习帮助选择客户更加关注的广告](http://ai.51cto.com/art/202103/648351.htm)
@@ -31,8 +31,12 @@ categories: IT NEWS
  > 给华为反馈的鸿蒙HarmonyOS Bug与解决进度，涉及底层、Java、JS等
  ## [QS榜单发布：计算机专业排名MIT斯坦福霸榜，清北进入前20](http://news.51cto.com/art/202103/648312.htm)
  > QS榜单发布：计算机专业排名MIT斯坦福霸榜，清北进入前20
- ## [ThinkPHP5标准教程（第六部：模板篇）（七日成蝶）](http://fellow.51cto.com/art/202012/636480.htm?qd=51ctojrzd)
- > ThinkPHP5标准教程（第六部：模板篇）（七日成蝶）
+ ## [UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03](http://fellow.51cto.com/art/202007/622204.htm?qd=51ctojrzd)
+ > UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03
+ ## [聊聊Redis6 新特性介绍](http://developer.51cto.com/art/202103/648646.htm)
+ > Redis 6 主要的变化有：SSL、ACLs、RESP3、客户端缓存、线程I/O、Redis benchmark 中的集群支持和改进的Red
+ ## [小爱同学竟然推出了PC版？带你体验电脑版小爱](http://os.51cto.com/art/202103/648640.htm)
+ > 近日有网友发现，Windows10应用商店里竟然出现了“小爱同学”的身影，还支持在所有Windows10设备上安装。话
  ## [Windows10近年最大改进！Windows1021H2新特性抢先看](http://os.51cto.com/art/202103/648639.htm)
  > 今年下半年发布的Windows10 21H2(太阳谷项目)，则被微软称之为史上最重要的界面升级。那么这传说中的“太阳
  ## [微软正在测试 Edge 浏览器 “计算器”功能：可算一元二次方程，还可截屏计算](http://os.51cto.com/art/202103/648638.htm)
@@ -55,18 +59,18 @@ categories: IT NEWS
  > 
  ## [北京大龄码农去顺丰送快递的真实体验](https://blog.csdn.net/m0_46163918/article/details/114261613)
  > 北京大龄码农去顺丰送快递的真实体验
- ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
- > 5 分钟带你弄懂 k-means 聚类
- ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
- > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
- ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
- > C语言贪吃蛇（详解）——链表实现
- ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
- > 机器学习之KNN最邻近分类算法
- ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
- > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
- ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
- > C/C++  经典面试题（一）之常考概念【持续更新】
+ ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
+ > 手把手教你使用R语言制作临床决策曲线
+ ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
+ > 
+ ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
+ > 张一鸣：“我需要的人才，至少具备这三个标准！”
+ ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
+ > 一文看懂YOLO v3
+ ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
+ > 移动端UI一致性解决方案
+ ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
+ > 详解BP神经网络
  ## [神仙打架！今年计算机考研爆炸实况！](https://blog.csdn.net/csseky/article/details/114255617)
  > 神仙打架！今年计算机考研爆炸实况！
 # 人工智能 
