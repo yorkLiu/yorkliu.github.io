@@ -1,21 +1,25 @@
 ---
 title: 2021-03-06 IT News
 copyright: true
-date: 2021-03-06 09:06:01
+date: 2021-03-06 10:06:09
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [科技巨头接下来的计划，都在「两会」剧透了](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=pVCHMn6s8ys0v90OIIX79dJpeblT7jxAQkafzJIR2z034gTlJfDkRHLDLtR8iWtouoOehcpt-roP3aNq1JGcUK42TQy-lL*TAPPIT3MuvU2JAsvKi*XESfsCL6jo7B8D&new=1)
- > 芯片、新能源和适老化成为焦点。近日，全国「两会」正式启幕，在「十四五」开局之年，贯彻新发展理念、构建新发展格局、推动高质量发展成为中国未来发展主题。3 月 3 日，百度、网易、360 等一众科技巨头纷纷发...
- ## [Snapmaker完成A轮融资 将强化3D打印机模块化属性](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=Elq76JoVqETdZFFHJouUcY2Qu3M7pvbDruAEEyba-kVp9dbsas8QrYoEMnAmnIHnr17RHRiHpkntbFDlfPBqyVhocd7jdaARTdkCvVksL8cIZCh4OnBwIKPtVfGZt76P&new=1)
- > 3月5日消息，桌面级数字制造工具研发公司Snapmaker（快造科技）近日完成数千万元的A轮融资，此轮融资将主要用于人才招募与供应链建设。在此次A轮融资前，Snapmaker曾于2017年和2019年两次登陆众筹平台Kickstarte...
- ## [中通服、浪潮江苏多位来宾到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=zgNY7EUpMUPlpqkJYkHwaYWk8D6JAJL8Y766zkBaCfhUtfVzL-F1wh6C1G2n7RDdGrJiv-nFo*MTGS3b8Hb600dgDygT6UaTrItopCkXm3qdyILyzReAFzp9CtH-CUjR&new=1)
- > 3月5日，中通服咨询设计研究院有限公司集团客户部教育行业总监傅斌一行，以及浪潮集团江苏分公司两位来宾到访，云创大数据总裁刘鹏教授、刘立宏总监、王军总监共同接待了来宾。交流座谈过程中，云创方面向来宾介...
- ## [运营商5G要赚到钱：该怎么建5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=66x4EAmaSqYAvYA*0Y*7d7G*UeJXZwC31-A5jjskq0iWNFUuY0Djp4YYeVWRZ1eyzw848fC9wxf0JsBuV2fRZQ*rMjoM0XfNlakUO2x9DMIDgE7V1LYtWhKbvM1HJHHt&new=1)
+ ## [\[报告\]2020中国新能源乘用车市场格局分析(附20页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=5SPAB6bD5525cEM4enPoM2RfmXhdi*yJPg01DdUjkvwVlUhBAz5fWQJS390Gfk5ZfjcrS98EPH9zXx5dmhyFc*I0onCihlBw1fCmdQpZj8a6CXdiRB7u6f3x0OcZOlp9&new=1)
+ > 在供给增加、需求提升叠加政府政策背景下中国新能源乘用车稳步回升，我们将从市场环境、整体及细分市场销量表现、未来发展趋势等方面将为您深度解读2020年中国新能源汽车市场！以下为报告节选：▲报告视频讲解.....
+ ## [运营商5G要赚到钱：该怎么建5G核心网?](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=66x4EAmaSqYAvYA*0Y*7d7G*UeJXZwC31-A5jjskq0iWNFUuY0Djp4YYeVWRZ1eyjN290uW2ypFKpw0ZwBTrJaN*Nsp1PGN8-Lwl72doQGShkoh3CKT8VliQ2XQbs6QL&new=1)
  > 2021年，5G发展进入第三年，全球5G运营商都希望释放5G网络红利，一方面发展5G VR、高清视频、5G消息等toC业务，另一方面在积极探索煤矿、港口、医疗等5GtoB业务。华为参与到全球诸多运营商5G SA核心网建设中，助...
- ## [腾讯：这可是一只“骨骼清奇”的狗](http://mp.weixin.qq.com/s?src=11&timestamp=1614992404&ver=2929&signature=PVzahPWW36fex8xzj7rJ6beuT5CQA0doqdQ3pA-I2RwCs*DJXlG83DWFx-dHXH-eXIW1oVFngY2xf5sDk-bgpV4WsfbfrTlO42w*m1FExEx932Z4DfB1fIWzBYr*RAKq&new=1)
+ ## [通知：看南极熊3D打印资讯，直达全球3D打印厂商](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=VwmD9xJd9inLix0OuZpXA0moPBJfPJAMTtTwPTzuE*Amz3-j1fTMMwC8z3fvVsIYU38*Zv7t0glhWzA9FoiON3IGHiCNJwQo7r6hOGao8qhYeFupMlblSwKkM1Y73tUQ&new=1)
+ > “我平时经常上南极熊看3D打印资讯，中意某个产品的时候，是否可以直接联系厂商啊？”有熊友读者问南极熊。这个想法太好了！于是南极熊网站https://www.nanjixiong.com便打通全球3D打印产品库https://product.
+ ## [Snapmaker完成A轮融资 将强化3D打印机模块化属性](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=Elq76JoVqETdZFFHJouUcY2Qu3M7pvbDruAEEyba-kVp9dbsas8QrYoEMnAmnIHnnTbUeGnq5e3WgQh-Xxg7nTB5t3apmhFygQhJpKIMjEozvI*dV1*WAjXrnOF1Gub6&new=1)
+ > 3月5日消息，桌面级数字制造工具研发公司Snapmaker（快造科技）近日完成数千万元的A轮融资，此轮融资将主要用于人才招募与供应链建设。在此次A轮融资前，Snapmaker曾于2017年和2019年两次登陆众筹平台Kickstarte...
+ ## [腾讯：这可是一只“骨骼清奇”的狗](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=PVzahPWW36fex8xzj7rJ6beuT5CQA0doqdQ3pA-I2RwCs*DJXlG83DWFx-dHXH-e4kR0tFNJ9m20EcGOKwDABcFPBwyO2OGsKMstOwddN*SGr---dMSXzogMuryyYafG&new=1)
  > 整理 | 寇雪芹出品 | AI科技大本营（rgznai100）3月2日，腾讯在微博、微信等多个平台发布消息称，增加了一名“新成员”——机器狗Max。这只机器狗是腾讯首个多模态四足机器人，软硬件都由 Robotics X实验室自研...
+ ## [科技巨头接下来的计划，都在「两会」剧透了](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=pVCHMn6s8ys0v90OIIX79dJpeblT7jxAQkafzJIR2z034gTlJfDkRHLDLtR8iWtoBg367uqn1*cHPgR3eQcHB7QUQnTfmTWiOzith-NFE1aqvv3x67CMPdcvEOmFCKGr&new=1)
+ > 芯片、新能源和适老化成为焦点。近日，全国「两会」正式启幕，在「十四五」开局之年，贯彻新发展理念、构建新发展格局、推动高质量发展成为中国未来发展主题。3 月 3 日，百度、网易、360 等一众科技巨头纷纷发...
+ ## [中通服、浪潮江苏多位来宾到访云创](http://mp.weixin.qq.com/s?src=11&timestamp=1614996004&ver=2929&signature=zgNY7EUpMUPlpqkJYkHwaYWk8D6JAJL8Y766zkBaCfhUtfVzL-F1wh6C1G2n7RDdxpX3GBF8SNEw2iKoHycG3tPW-zHRkj3kn1TDY6u1FbTFmYi8LD2VWd2ak3krbgy3&new=1)
+ > 3月5日，中通服咨询设计研究院有限公司集团客户部教育行业总监傅斌一行，以及浪潮集团江苏分公司两位来宾到访，云创大数据总裁刘鹏教授、刘立宏总监、王军总监共同接待了来宾。交流座谈过程中，云创方面向来宾介...
 # IT 技术 
  ## [如何采用强化学习帮助选择客户更加关注的广告](http://ai.51cto.com/art/202103/648351.htm)
  > 如何采用强化学习帮助选择客户更加关注的广告
@@ -31,8 +35,10 @@ categories: IT NEWS
  > 给华为反馈的鸿蒙HarmonyOS Bug与解决进度，涉及底层、Java、JS等
  ## [QS榜单发布：计算机专业排名MIT斯坦福霸榜，清北进入前20](http://news.51cto.com/art/202103/648312.htm)
  > QS榜单发布：计算机专业排名MIT斯坦福霸榜，清北进入前20
- ## [UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03](http://fellow.51cto.com/art/202007/622204.htm?qd=51ctojrzd)
- > UNIX/LINUX操作系统性能工具_MySQL数据库性能优化与运维诊断03
+ ## [Linux/Unix操作系统基础知识_Oracle数据库入门系列教程03](http://fellow.51cto.com/art/202012/636000.htm?qd=51ctojrzd)
+ > Linux/Unix操作系统基础知识_Oracle数据库入门系列教程03
+ ## [VirusTotal 现Spectre漏洞利用](http://netsecurity.51cto.com/art/202103/648650.htm)
+ > 研究人员Julien Voisin近日在VirusTotal 上发现了Spectre 漏洞的在野利用。
  ## [聊聊Redis6 新特性介绍](http://developer.51cto.com/art/202103/648646.htm)
  > Redis 6 主要的变化有：SSL、ACLs、RESP3、客户端缓存、线程I/O、Redis benchmark 中的集群支持和改进的Red
  ## [小爱同学竟然推出了PC版？带你体验电脑版小爱](http://os.51cto.com/art/202103/648640.htm)
@@ -43,8 +49,8 @@ categories: IT NEWS
  > IT之家 3月5日消息 微软 Edge 浏览器 Canary 频道每天都会更新，并会频繁添加新功能和修复程序。最近，Micr
  ## [awk：一个强大的文本分析工具](http://os.51cto.com/art/202103/648636.htm)
  > awk 是流式编辑器，针对文档中的行来操作，一行一行地执行。awk 可以非常方便、高效地操作文档以及字符，从
- ## [三年白干！程序员孙某因违反《竞业协议》赔偿腾讯 97.6 万元，返还 15.8 万元...](https://blog.csdn.net/csdnsevenn/article/details/114311405)
- > 三年白干！程序员孙某因违反《竞业协议》赔偿腾讯 97.6 万元，返还 15.8 万元...
+ ## [“远程办公”用户达3.46亿，一年每人可节省1.4万](https://blog.csdn.net/weixin_39787242/article/details/114393118)
+ > “远程办公”用户达3.46亿，一年每人可节省1.4万
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -59,18 +65,18 @@ categories: IT NEWS
  > 
  ## [北京大龄码农去顺丰送快递的真实体验](https://blog.csdn.net/m0_46163918/article/details/114261613)
  > 北京大龄码农去顺丰送快递的真实体验
- ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
- > 手把手教你使用R语言制作临床决策曲线
- ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
- > 
- ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
- > 张一鸣：“我需要的人才，至少具备这三个标准！”
- ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
- > 一文看懂YOLO v3
- ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
- > 移动端UI一致性解决方案
- ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
- > 详解BP神经网络
+ ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
+ > 5 分钟带你弄懂 k-means 聚类
+ ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
+ > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
+ ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
+ > C语言贪吃蛇（详解）——链表实现
+ ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
+ > 机器学习之KNN最邻近分类算法
+ ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
+ > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
+ ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
+ > C/C++  经典面试题（一）之常考概念【持续更新】
  ## [神仙打架！今年计算机考研爆炸实况！](https://blog.csdn.net/csseky/article/details/114255617)
  > 神仙打架！今年计算机考研爆炸实况！
 # 人工智能 
