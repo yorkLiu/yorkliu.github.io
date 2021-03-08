@@ -1,60 +1,60 @@
 ---
 title: 2021-03-08 IT News
 copyright: true
-date: 2021-03-08 08:05:27
+date: 2021-03-08 09:13:16
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[本周小结\]工信部解绑2.1GHz频段；政府工作报告：中小企业宽带和专线资费再降10%；两会提案：运营商农村区域共享700M](http://mp.weixin.qq.com/s?src=11&timestamp=1615161604&ver=2933&signature=ro0MXn-LdqBkWorp8t6KkO7DHvBgkYS8ttD0e3BzJtq*9t3BW1k295dvwDtjafELTAjcYThEH11NlHsIwE2wJoY7s0pmq0erlCgsLSj0KrIlenIYqe2Loa7ZPPS9lcyE&new=1)
- > 周报WEEKLY本周热点有工信部解绑2.1GHz频段；政府工作报告：中小企业宽带和专线资费再降10%；两会提案：运营商农村区域共享700M• 第129期 •工信部解绑2.1GHz频段3月5日在2021年MWC上海展开幕式上，中国工信部...
- ## [诺基亚已裁员11000人](http://mp.weixin.qq.com/s?src=11&timestamp=1615161604&ver=2933&signature=chu6pnorGZBXI3*ZSedoFh3smf403DmrprG6ZYpEX-ZI3cJO6JtaG6tdURxtpjiFmYF6miu4IX4umS7-ljLHriahFtKojyU80BSkR1cWxfMB7a0vOkkZDwB6pp3tvrHI&new=1)
+ ## [诺基亚已裁员11000人](http://mp.weixin.qq.com/s?src=11&timestamp=1615165204&ver=2933&signature=chu6pnorGZBXI3*ZSedoFh3smf403DmrprG6ZYpEX-ZI3cJO6JtaG6tdURxtpjiFmP0heHto4f0duNnY75FZOhVljJCbwe7YZA34noDFBx*8qg5o5FlcX6JlM1-nmE5A&new=1)
  > 来自LightReading报道称，在2019年至2020年两年间，诺基亚已裁员11000人。文中引用来源诺基亚的数据显示，2018年诺基亚员工数量为103083人，而2020年为92039人，这意味着诺基亚的员工人数在短短两年内下降了11
- ## [大地震!突发，刘强东再曝猛料!又是一场风暴!](http://mp.weixin.qq.com/s?src=11&timestamp=1615161604&ver=2933&signature=HqfloQkxFLDsHwnfIogty5IY7orS22xlCNe3rZfeRVNha9cUY3YocDOdqt2MWXlcgk2Vvyjz52QMSFk2rk8GmRAb1zueHipEfl4qwsDkpl5858uH3PC4EzYJax20iJP2&new=1)
- > 01真的不敢相信，这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！就在万物复苏之际，沉默已久的刘强东，突然扔出一枚超级核弹，炸的整个物流业措手不及、快递员胆战心惊。刘强东...
- ## [MySQL数据库排名第一；谷歌发布 Flutter 2；“蚂蚁呀嘿”下架..](http://mp.weixin.qq.com/s?src=11&timestamp=1615161604&ver=2933&signature=Q7NPTqRLV918detFOF9LRDg8w4BDHN29OO7wD*N98jhbhTZOJbQCgUcXstyT3TjXadglxTr2bYNt2Yk3v6sO5Ua3ob9PmmJvGxEGsGdgHXA-w8us9E6pd-YXtVY67t-w&new=1)
+ ## [MySQL数据库排名第一；谷歌发布 Flutter 2；“蚂蚁呀嘿”下架..](http://mp.weixin.qq.com/s?src=11&timestamp=1615165204&ver=2933&signature=Q7NPTqRLV918detFOF9LRDg8w4BDHN29OO7wD*N98jhbhTZOJbQCgUcXstyT3TjX9kNbsQbOnLOkadczNsKsUKJY1T6WeG3LS25O1vPsb4t9H0AAoRkmwaNReFQ4pVpW&new=1)
  > 开发者资讯MySQL数据库排名第一DB-Engines最近发布了2021年3月份的数据库排名。该网站根据数据库管理系统的受欢迎程度对其进行排名，实时统计了364种数据库的排名指数。前10名的排行情况详见下图： 2021年3月前1...
- ## [首批千万5G用户被当作小白鼠，运营商已无情抛弃，5G手机销量或下跌](http://mp.weixin.qq.com/s?src=11&timestamp=1615161604&ver=2933&signature=-CX7Lsev2LCzo9pYc6QuuuZIWydP81PRazTHQDVEx8VFyC13xrJOPf3WXLKNrNcgrWCS5*iM13voYWr2eJSeaExvJjQPW6O07eQCFv2jVd0zVeEGpkAdBmY*w-pMHIDQ&new=1)
+ ## [首批千万5G用户被当作小白鼠，运营商已无情抛弃，5G手机销量或下跌](http://mp.weixin.qq.com/s?src=11&timestamp=1615165204&ver=2933&signature=-CX7Lsev2LCzo9pYc6QuuuZIWydP81PRazTHQDVEx8VFyC13xrJOPf3WXLKNrNcg0VjbMr3DUVbozcQRETDFFEizBdvvJrM71iIZA5FhopwReCJ2FD9Yili8VB78L6o5&new=1)
  > 继中国联通宣布将关闭5G NSA基站之后，日前有用户发现他的5G NSA制式手机也已无法接入中国电信的5G网络，这意味着中国电信和中国联通都将关闭5G NSA基站而改用5G SA建设5G网络，这意味着早期千万5G NSA手机用户...
+ ## [\[本周小结\]工信部解绑2.1GHz频段；政府工作报告：中小企业宽带和专线资费再降10%；两会提案：运营商农村区域共享700M](http://mp.weixin.qq.com/s?src=11&timestamp=1615165204&ver=2933&signature=ro0MXn-LdqBkWorp8t6KkO7DHvBgkYS8ttD0e3BzJtq*9t3BW1k295dvwDtjafELQpNnmO6Zb9r7QkpkSbMsjslsrTDl0cZpLSW5T7iYwa9DQASz7H-VdNFIUGSFAD7v&new=1)
+ > 周报WEEKLY本周热点有工信部解绑2.1GHz频段；政府工作报告：中小企业宽带和专线资费再降10%；两会提案：运营商农村区域共享700M• 第129期 •工信部解绑2.1GHz频段3月5日在2021年MWC上海展开幕式上，中国工信部...
+ ## [大地震!突发，刘强东再曝猛料!又是一场风暴!](http://mp.weixin.qq.com/s?src=11&timestamp=1615165204&ver=2933&signature=HqfloQkxFLDsHwnfIogty5IY7orS22xlCNe3rZfeRVNha9cUY3YocDOdqt2MWXlcHfW8p4G2doIQwSjmdgy1-Itj2WRkCKDHw2bWKI1IDFpotD02C-7mwVkFrtNEzspC&new=1)
+ > 01真的不敢相信，这个时代变化之快让人无法想象！一个个脑洞大开的创新，让人眼花缭乱，目眩神迷！就在万物复苏之际，沉默已久的刘强东，突然扔出一枚超级核弹，炸的整个物流业措手不及、快递员胆战心惊。刘强东...
 # IT 技术 
+ ## [细说Java内存管理：栈、堆、引用类型](http://developer.51cto.com/art/202103/648745.htm)
+ > 细说Java内存管理：栈、堆、引用类型
+ ## [我就不信35岁做不了程序员......](http://news.51cto.com/art/202103/648748.htm)
+ > 我就不信35岁做不了程序员......
+ ## [吐血总结：技术大佬都是怎么学习的？](http://news.51cto.com/art/202103/648747.htm)
+ > 吐血总结：技术大佬都是怎么学习的？
+ ## [刚进来的小伙伴说负载均衡，还是太年轻了！](http://zhuanlan.51cto.com/art/202103/648746.htm)
+ > 刚进来的小伙伴说负载均衡，还是太年轻了！
  ## [如何衡量对话型人工智能聊天机器人的成功](http://ai.51cto.com/art/202103/648744.htm)
  > 如何衡量对话型人工智能聊天机器人的成功
  ## [如何采用强化学习帮助选择客户更加关注的广告](http://ai.51cto.com/art/202103/648351.htm)
  > 如何采用强化学习帮助选择客户更加关注的广告
  ## [谷歌气球的人工智能为何令开发者自己感到惊奇](http://ai.51cto.com/art/202103/648425.htm)
  > 谷歌气球的人工智能为何令开发者自己感到惊奇
- ## [凉凉，老板叫我开发一个简单的工作流引擎...](http://developer.51cto.com/art/202103/648356.htm)
- > 凉凉，老板叫我开发一个简单的工作流引擎...
- ## [Jupyter Notebooks：您一直在寻觅的基于Web的开发工具](http://developer.51cto.com/art/202103/648350.htm)
- > Jupyter Notebooks：您一直在寻觅的基于Web的开发工具
- ## [基于区块链的去中心化应用的四种架构模式](http://blockchain.51cto.com/art/202103/648343.htm)
- > 基于区块链的去中心化应用的四种架构模式
- ## [给华为反馈的鸿蒙HarmonyOS Bug与解决进度，涉及底层、Java、JS等](http://developer.51cto.com/art/202103/648284.htm)
- > 给华为反馈的鸿蒙HarmonyOS Bug与解决进度，涉及底层、Java、JS等
- ## [【王顶】软件测试入门必备：软件测试基础](http://fellow.51cto.com/art/202101/641270.htm?qd=51ctojrzd)
- > 【王顶】软件测试入门必备：软件测试基础
- ## [巧用大白鲨(WireShark)抓包，看透网络请求](http://network.51cto.com/art/202103/648793.htm)
- > 前段时间，因为同事需要分析数据，所以使用了WireShark，但是呢，小伙子不太知道怎么抓取数据，于是就来询
- ## [Windows10 KB4601319 更新后，部分用户文件历史记录备份功能失效](http://os.51cto.com/art/202103/648791.htm)
- > 3月8日消息 微软于 2 月 10 日为 Win10 v2004、20H2 推送了 KB4601319 更新。新更新修复了 TCP/IP 栈的安全
- ## [微软 Xbox 主机即将获得 Chromium 版 Edge 浏览器](http://os.51cto.com/art/202103/648789.htm)
- > IT之家 3 月 8 日消息 外媒报道，在微软发布了由谷歌 Chromium 渲染引擎支持的全新 Edge 浏览器一年多后，
- ## [我熬夜开发了一款简约实用、支持多平台的Markdown在线编辑器（开源）](http://developer.51cto.com/art/202103/648785.htm)
- > 之前，一直想开发一款属于自己的Markdown编辑器，主要是自己平常写文章可以更加灵活操作，另外扩宽自己的视
- ## [微软 Office 13901.20036 预览版发布：可自动保存加密文档](http://os.51cto.com/art/202103/648784.htm)
- > 3月7日消息 微软于 3 月 5 日推送了 Office 13901.20036 预览版，带来了众多新功能以及改进。其中，针对 Ex
- ## [不输电脑浏览器！你可知手机浏览器还能这么玩](http://mobile.51cto.com/app-show-648783.htm)
- > 在PC版的浏览器中，用户可以通过安装各种各样的插件来为浏览器增添许多实用的附加功能，去广告、解除网页限
- ## [职场实用Excel软件入门](http://fellow.51cto.com/art/202103/648755.htm)
- > 学习完本课程后可熟练使用Excel软件，让你从小白蜕变成办公高手，高效办公，升职加薪加薪加薪！
- ## [【译】 刚出炉的 Grid 布局备忘录，拿走！](http://developer.51cto.com/art/202103/648752.htm)
- > 通过本文和大家一起重新认识 CSS Grid 布局 。以下内容是2021年，你使用 Grid 布局可以做的所有事情的备忘
- ## [聊聊Spring中的各项注解](http://developer.51cto.com/art/202103/648751.htm)
- > 作者个人研发的在高并发场景下，提供的简单、稳定、可扩展的延迟消息队列框架，具有精准的定时任务和延迟队
- ## [ElasticSearch+NLog实现.Net Core分布式日志管理](http://os.51cto.com/art/202103/648750.htm)
- > 在系统中，如果将日志作为文件输出，查看系统日志将非常不便;如果将日志保存到数据库中，又不能进行全文搜
- ## [北上广，是程序员最好的归宿？](https://blog.csdn.net/csdnnews/article/details/114157030)
- > 北上广，是程序员最好的归宿？
+ ## [七日成蝶-特别说明课](http://fellow.51cto.com/art/202012/637603.htm?qd=51ctojrzd)
+ > 七日成蝶-特别说明课
+ ## [详解Spring 如何创建 Bean 对象？](http://developer.51cto.com/art/202103/648807.htm)
+ > 本文在前文的基础上又进一步细化，主要从整体上探讨了 Spring 如何创建单例的 bean 对象。
+ ## [牛刀小试-《你好，李焕英》影评词云](http://bigdata.51cto.com/art/202103/648805.htm)
+ > 最近，贾玲导演的电影《你好，李焕英》在春节档一众电影中脱颖而出，成为了一匹黑马，更是中国影史上第三部
+ ## [怎么理解 onStart可见但不可交互](http://developer.51cto.com/art/202103/648804.htm)
+ > onStart生命周期表示Activity可见，那为什么不能交互呢?这个问题看似简单，但涉及到的面还是比较多的，比如
+ ## [MySQL读写分离，写完读不到问题如何解决](http://database.51cto.com/art/202103/648803.htm)
+ > 今天我们来详细了解一下主从同步延迟时读写分离发生写后读不到的问题，依次讲解问题出现的原因，解决策略以
+ ## [公用事业公司利用物联网的8种方式](http://iot.51cto.com/art/202103/648801.htm)
+ > 物联网的引入已经改变了医疗保健、零售、制造和农业等多个行业。同样，物联网在公用事业中的出现将减少该行
+ ## [细数微软Exchange的那些高危漏洞](http://netsecurity.51cto.com/art/202103/648800.htm)
+ > 在一些场景里，我们可能需要同时在多台服务器上执行命令，如果一台台登录服务器执行嘛，这效率未免太低了。
+ ## [查漏补缺@DateTimeFormat到底干了些啥](http://developer.51cto.com/art/202103/648799.htm)
+ > Spring中的转换器、格式化器是整个Spring技术栈体系中非常重要的一份子，是众多高级特性的基础支撑。
+ ## [微软 Windows10全新云剪贴板上手体验：更强复制粘贴，采用流畅设计](http://os.51cto.com/art/202103/648797.htm)
+ > 3月8日消息 外媒 Windows Latest 报道，目前，用户经常会发现在社交媒体网站上插入媒体内容，以及在 Window
+ ## [如何高效地使用 Git](http://os.51cto.com/art/202103/648796.htm)
+ > Git 是一个免费且开源的版本控制系统，是目前最为流行的 源代码管理 工具，本篇文章从 Git 的基本指令到进
+ ## [如何在 ASP.NET Core MVC 5 中处理未知的 Action](http://developer.51cto.com/art/202103/648795.htm)
+ > ASP.NET Core MVC 5 是一个轻量级，开源的，利于单元测试的基于 ASP.NET Core 运行时的 web 框架，在开发时
+ ## [程序员的“黄金时代”，死去又重来？](https://blog.csdn.net/m0_46163918/article/details/114385200)
+ > 程序员的“黄金时代”，死去又重来？
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -69,18 +69,18 @@ categories: IT NEWS
  > 
  ## [Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统](https://blog.csdn.net/csdnnews/article/details/114370718)
  > Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统
- ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
- > 5 分钟带你弄懂 k-means 聚类
- ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
- > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
- ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
- > C语言贪吃蛇（详解）——链表实现
- ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
- > 机器学习之KNN最邻近分类算法
- ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
- > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
- ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
- > C/C++  经典面试题（一）之常考概念【持续更新】
+ ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
+ > 手把手教你使用R语言制作临床决策曲线
+ ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
+ > 
+ ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
+ > 张一鸣：“我需要的人才，至少具备这三个标准！”
+ ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
+ > 一文看懂YOLO v3
+ ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
+ > 移动端UI一致性解决方案
+ ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
+ > 详解BP神经网络
  ## [神仙打架！今年计算机考研爆炸实况！](https://blog.csdn.net/csseky/article/details/114255617)
  > 神仙打架！今年计算机考研爆炸实况！
 # 人工智能 
@@ -108,11 +108,11 @@ categories: IT NEWS
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [PyTorch 1.8 发布，支持 AMD，优化大规模训练](https://blog.csdn.net/HyperAI/article/details/114408315)
  > PyTorch 1.8 发布，支持 AMD，优化大规模训练
- ## [3行python代码实现聊天机器人](https://blog.csdn.net/m0_46278037/article/details/114364504)
- > 3行python代码实现聊天机器人
  ## [太秀了！用Excel也能实现和Python数据分析一样的功能！](https://blog.csdn.net/jake_tian/article/details/114383727)
  > 太秀了！用Excel也能实现和Python数据分析一样的功能！
  ## [leetcode541. 反转字符串 II（字符串一律用py秒杀）](https://blog.csdn.net/hebtu666/article/details/114397405)
  > leetcode541. 反转字符串 II（字符串一律用py秒杀）
+ ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
+ > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 
     
