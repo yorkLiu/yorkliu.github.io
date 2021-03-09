@@ -1,30 +1,38 @@
 ---
 title: 2021-03-09 IT News
 copyright: true
-date: 2021-03-09 10:10:14
+date: 2021-03-09 12:07:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [清华大学团队：人脸识别技术，爆出巨大丑闻](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=B44hjMbKptFwZqv-pUjg4BRzIIDk-6NiztU7TsH5hQtspaSt2qzVh49NIH-fDz-BE880ZESwQZAMUJTDCB6ad7r97ugmzTPz04aOb58-643LDaUzkKLPRCgsC1aCPU-U&new=1)
- > 一人脸识别技术，爆出巨大丑闻。刚刚，清华大学的一条重大发现，利用人脸识别技术的漏洞，“ 15分钟解锁19个陌生智能国产手机 ”的事件，惊呆了我们科技圈的小伙伴 。这起事件，如果用嘴简单的语言来形容就是：...
- ## [7点见|小鹏第四季度营收超预期；苹果春季发布会或于本月23日召开](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=kNEls5C-Vl3ybyIHgi2L*Wag-iNGkdSxW-bg9pbVnzM-ycUjQsrOt5O*VJxYSCa1A95EftziPlBGKbXscg*HqtMQ9y0cICRK2n1yTCqbHnaDQIjVLBDxV5JFEFrL9Ktc&new=1)
- > 各位小伙伴早上好呀！中国载人航天工程总设计师周建平接受央视国防军事频道记者采访时透露，我国空间站建成后，将发射一个空间巡天望远镜。这个望远镜的口径达两米，视场角比哈勃空间望远镜大300多倍，将探索宇...
- ## [苹果发布 iOS 14.4.1正式版更新；华为正式发布“女性开发者计划”；百度商家口碑 4 月 2 日将全面停止运营|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=l3ERaerFnDd05ayupVHa0UmMwS-tiMyXYIXVf5aK*sfQUpdEEfwHlTy1mVuEg09UOB9RDbFTq6nR7AHAp6ZK0YIr6DIuGqUnEjoHK0*H2PZYVRBjR2r1eiIB813K10yX&new=1)
+ ## [拓展5G覆盖、提升用户体验，中国联通发布2021年度5G终端白皮书!](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=odpkQX7Oaz8oviwMZsfaxbb9wsLJ8hRpb-1H7yplWrGTNIEDX*WZTEbzCWTLbvHw*hI62yUWwU0*Q6ECiK-GDhg4AJ0W-jr5qVZVYuIebkr13PnDvlr2h*7zdjJ6ZB-x&new=1)
+ > 2021年是“十四五”规划开局之年，也是中国联通以数字化转型推动高质量发展的关键之年。中国联通深入贯彻落实党中央、国务院关于网络强国的战略部署，加快5G网络建设速度，提升5G终端性能，为广大用户带来极速的...
+ ## [下一代SOC的支点：如何选择SOAR解决方案?](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=OqDNlPEH1BVNZWrD8QS0FuA1r8B5BJKu37qe8yoni*y7b3jzltdVpzDmWT0ionOd7RE8k8voHgsqKe1k4UxTmKt7UlcH6*sKtkcWk1wUGjf3pqQXoYi0gagGubV9j4N2&new=1)
+ > SOAR（安全编排、自动化和响应）被看作是下一代SOC的标志性方案，同时也是提升安全运营效率的关键机制。众所周知，下一代SOC的重点是提高检测和响应能力。但是今天的现状是，SOC运营团队不堪重负，误报率居高不...
+ ## [筹集3亿元，市值近13亿元!大尺寸3D打印 Massivit 3D在以色列IPO上市](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=RCWRFGt1V1upOaNFoyrNrdpe4oLATCnqEoR3x6e4oYA53SyYa-RJINMVNkdwRFYtwPsbzpbPcG-CTPAG4XsWX3BklbpTY8iHKkwxkV-4n3zh7qY7On4nwlqzIdf*bzmE&new=1)
+ > 还记得以色列大尺寸3D打印机制造商Massivit 3D吗？2021年1月底，南极熊曾报道这家公司即将在特拉维夫证券交易所（TASE）IPO上市。2021年3月7日，南极熊获悉，这家公司已完成IPO，成功筹集了5000万美元。这是Mass...
+ ## [2020年全球勒索软件造成了3.7亿美元损失](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=caSvco9UUooGrlVO1vf*m8GndWYj3bHXvT71SMx56tzufJoF0MS9IF4VYWmQpVzGa1rjnPIc886UuAIF0ZDCu5-hezn3IUo4XdW9Ui9OiWR7-su0CID3C4NXGcRqFGKp&new=1)
+ > E安全3月9日讯 一些安全专家表示，勒索软件在2020年主导了网络犯罪领域，这主要由于其带来的巨额利润，以及勒索软件对于攻击者来说相对容易使用——包括对新兴的网络犯罪即服务市场的支持。区块链分析公司Chaina...
+ ## [苹果发布 iOS 14.4.1正式版更新；华为正式发布“女性开发者计划”；百度商家口碑 4 月 2 日将全面停止运营|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=l3ERaerFnDd05ayupVHa0UmMwS-tiMyXYIXVf5aK*sdtLnv*MjdrWc2p0StrBFhzMMY7N1Ib8UZ9jIqMM165KLpWfu0mBpihZ8cmSlIm3yHkhz1QDz6D5OUd12kchgUQ&new=1)
  > 图 / IC photoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【小鹏汽车财报电话会议：2021年底小鹏超充站将超过500座】在最新的财报电话会议上，小鹏汽车董事长兼CEO何小鹏预计，2021年底，小...
- ## [光惠激光完成近2亿融资C轮融资 万瓦级激光器出货近500台](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=9HZavf53QX7oWzDNid6ZYywzU6uNWI3uQ9f62KN1cTnn*DisxcM*IHZfFhu8jMxjrVdxNWD7HcF8go5AjkCFGJIGINYBOKzGvMdLKApsFEthkM4QmZW6UWwhlGJsIJRo&new=1)
+ ## [清华大学团队：人脸识别技术，爆出巨大丑闻](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=B44hjMbKptFwZqv-pUjg4BRzIIDk-6NiztU7TsH5hQut6-t3WAE1kBCAfY7toiw2jcApyabVgMlPcONp8Jhf-Asv98QqeQTckqbVXJlYYF0ECnxTHZ0UEHyw3wAF3PB4&new=1)
+ > 一人脸识别技术，爆出巨大丑闻。刚刚，清华大学的一条重大发现，利用人脸识别技术的漏洞，“ 15分钟解锁19个陌生智能国产手机 ”的事件，惊呆了我们科技圈的小伙伴 。这起事件，如果用嘴简单的语言来形容就是：...
+ ## [7点见|小鹏第四季度营收超预期；苹果春季发布会或于本月23日召开](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=kNEls5C-Vl3ybyIHgi2L*Wag-iNGkdSxW-bg9pbVnzNMZ2279vo8Baa5zm84n2QD3S3NHaObxBvg1QLqL0r5srk5FY*nb9K3UGb57Ikz*jvxi*U4gCcKjbXPLrNKzNVP&new=1)
+ > 各位小伙伴早上好呀！中国载人航天工程总设计师周建平接受央视国防军事频道记者采访时透露，我国空间站建成后，将发射一个空间巡天望远镜。这个望远镜的口径达两米，视场角比哈勃空间望远镜大300多倍，将探索宇...
+ ## [光惠激光完成近2亿融资C轮融资 万瓦级激光器出货近500台](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=9HZavf53QX7oWzDNid6ZYywzU6uNWI3uQ9f62KN1cTkTUuAgyY7GjyUs6byyCiqsCJMg6-j9OuTu40Ddv72nDV2K6NeMUiKujpIENRN-Ni3R6VNo3BN-2YT*kNvds44U&new=1)
  > OFweek激光网获悉，光惠（上海）激光科技有限公司（以下简称“GW”）于近期完成近2亿元融资。本次C轮融资由德同资本、架桥资本等领投，青浦产业基金、南通产业基金等联合参与，老股东启高资本跟投。同时，本轮融...
- ## [4月9日|2021讯石厦门光通信高峰论坛隆重来袭](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=VGQqM1tIbBEDVjtARtt9rIM3gB0FTX44ukDZLiIwLEV2*jdt4UIL6PZyD58kQ4ydHXhp8dhz9*B7qRrYljXz2vcWT-AA94ZFsDdrBTT0QEoCKOO0rFpR2Mlnz*3PmYWx&new=1)
+ ## [4月9日|2021讯石厦门光通信高峰论坛隆重来袭](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=VGQqM1tIbBEDVjtARtt9rIM3gB0FTX44ukDZLiIwLEXkh2xqRf1bVCQ1itr3oay7yKA7Pk2YzN3t4Fdq2giZd6zDID0k*5wrwf5K-8g0BXHqv5EyD9YslQbKKn768PWd&new=1)
  > 新闻导读由深圳市讯石信息咨询有限公司主办，厦门市三安集成电路有限公司协办的“2021讯石厦门光通信高峰论坛”将于4月9日在厦门举办，汇聚光通讯产业链，探讨2021年可能到来的更大市场机遇。欢迎报名参与！  ...
- ## [5G数字转型战略家：5G是数字化基石，全球政策应支持](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=xVPznmgSkRJzo7W-*7YiJokSo6vO4bhhJ3cyHdxAeVltlCXKSWYuEcLYAeRepMc8qnucVNVDre9afcp9a762qPF7xkWck2f1GGXEtxkZqvXRBTpVRjn*G8lb80DQtlHt&new=1)
+ ## [5G数字转型战略家：5G是数字化基石，全球政策应支持](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=xVPznmgSkRJzo7W-*7YiJokSo6vO4bhhJ3cyHdxAeVklwY59bFQzwFaoW7tPtdVDiRqc1Xo47EHhoeUkEABgv-LchyVDYejzQGj9MtC0kt*17udO8oIDbs2xJo8kEiom&new=1)
  > 过去几年，能源、交通、医疗等诸多行业，都在积极推动数字化转型。据IDC预测，到2023年，中国由数字化产品和服务驱动的数字经济的占比将达到51.3%，大量新型企业将应运而生。如今5G商用进入第三年，5G对行业数字...
- ## [\[逆流\]小米赢得全球首个跨国禁诉令?这可能只是《长江日报》的一个误解……](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=vJwmbsMI9GggbYl8DY4O*FX5dY3gekzGmMwVVP77OMgYs4shXf7Mqft3TC8eAHuOipBTuTEgbC4U4OgcPhlIpjOX5JnXdOAzZVPpu1LzUAmESqjTPi4dEQ-GSt9X-1Ns&new=1)
+ ## [\[逆流\]小米赢得全球首个跨国禁诉令?这可能只是《长江日报》的一个误解……](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=vJwmbsMI9GggbYl8DY4O*FX5dY3gekzGmMwVVP77OMgUMKtOZUOf7mgcF8q1YaoscVEnM1GLJjDKLqSZTI*14JRKtF*uMTja7YvzsFunM*KtPWKfJzQeRkO6UrAJavbI&new=1)
  > 图片源自小米官网据武汉市政府网站引用的、来自《长江日报》3月3日的消息称，武汉市中级人民法院（武汉中院）发出了全球首个「跨国禁诉令」，提起诉讼的一方是中国公司——小米（小米通讯技术公司，以及相关关联...
- ## [ROBOT IN!英特尔智能机器人创新应用2021正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=hdqpZIfTR4E1ftZ*MtPOREYoXGTukPoaQapK6*Y-KPmBOagvpd78G5IsOLluaz3pV*SlCPHuPgtVPY8J8P5fO1GyK*hfTFGLmwe69WfU3gUUyWSLy*GGYyaziLwWEwHl&new=1)
+ ## [ROBOT IN!英特尔智能机器人创新应用2021正式启动](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=hdqpZIfTR4E1ftZ*MtPOREYoXGTukPoaQapK6*Y-KPmJFAxy2RkFf16qQTLjN1*0HoFNF5YuvnZXwlrgmituMr6OfT6WT1gIaEPyDz4jqwpUm6MiXRmR6C7auMtvnbDN&new=1)
  > 人工智能、万物互联、5G 和云计算日趋成熟，智能机器人产业也进入蓬勃发展期。智慧未来城市的发展与产业升级的迫切需求推动着机器人广泛融入工作和生活的各个领域。随着全面智能化时代的来临，机器人产业开始进...
- ## [好日子正在过去，大疆在国内外市场面临众多对手的围攻](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=f59Uq9MmqMl1ELpVpSrwg-Q1P3U7FcBlWNYWY6TUsii8f8rpG-wYE1dvdc9xHomOGNE4X4dmfgXQzJn44BQRmOuHTvmEww438IoWNxShKX4CmiF39mUERZJ4Ln6eb*YA&new=1)
+ ## [好日子正在过去，大疆在国内外市场面临众多对手的围攻](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=f59Uq9MmqMl1ELpVpSrwg-Q1P3U7FcBlWNYWY6TUsihRF61pT8d*azpS88tgNovDRyeVimGSTQX*mVAq2GbZBCjWWNSUj7yR3kNz0K9HbPrHOOze2V7ngpoB*qp3cb6O&new=1)
  > 大疆在全球无人机市场依然居于第一名，但是如今传出了一些不利消息，主要是它在国内外市场均面临着众多竞争对手的挑战，随着这些竞争对手的发展，大疆正面临阴霾。欧美市场无疑是全球最具价值的两大市场，这两大...
- ## [电子游戏、路由器、PS5，还有什么不能挖矿?](http://mp.weixin.qq.com/s?src=11&timestamp=1615255204&ver=2935&signature=sO9VZO9ldGSYQOsCW2gK52MWP2KkJei376L4Y1VKpK4vd9AtTe8-7zULGQUNCAzo-CZ9G900suu2-TxvUCiB8STErtca9ZE5pybvQnRZUP*ZKxSFGtVIKYYqbiJsCaRu&new=1)
+ ## [电子游戏、路由器、PS5，还有什么不能挖矿?](http://mp.weixin.qq.com/s?src=11&timestamp=1615262404&ver=2935&signature=sO9VZO9ldGSYQOsCW2gK52MWP2KkJei376L4Y1VKpK6QV*hxHunK7bHTM1inyyv2tc9JlpkMYFvnTP-PZo7CuZDK0WpSWksNewuFXq0mpeHwrSXPOrVeNUk0xL8-cWTk&new=1)
  > 大约从 2018 年开始，我就一直在后悔自己过去没有入手比特币。后悔这种情绪，几乎是人类所有情感中，最没有建设性与生产力的。它借由如今生活方方面面的不如意，暗示出不同选择不同结果的未来，和做白日梦并没有...
 # IT 技术 
  ## [适合开发者的七种Python代码审查工具](http://developer.51cto.com/art/202103/648946.htm)
@@ -33,36 +41,36 @@ categories: IT NEWS
  > 看完这个“秒杀”设计方案！我有点慌了
  ## [在组织的未来发展中，企业是否会采用超自动化？](http://ai.51cto.com/art/202103/648945.htm)
  > 在组织的未来发展中，企业是否会采用超自动化？
+ ## [2021年中国程序员薪资和生活现状调查报告](http://news.51cto.com/art/202103/648895.htm)
+ > 2021年中国程序员薪资和生活现状调查报告
+ ## [多所名校联合Adobe，用这项开源算法「透视」了一封300多年前的信](http://news.51cto.com/art/202103/649024.htm)
+ > 多所名校联合Adobe，用这项开源算法「透视」了一封300多年前的信
  ## [专业开发者眼中的鸿蒙HarmonyOS：专访资深软件开发工程师张荣超](http://os.51cto.com/art/202103/648891.htm)
  > 专业开发者眼中的鸿蒙HarmonyOS：专访资深软件开发工程师张荣超
- ## [细说Java内存管理：栈、堆、引用类型](http://developer.51cto.com/art/202103/648745.htm)
- > 细说Java内存管理：栈、堆、引用类型
- ## [如何通过Serverless提高Java微服务治理效率？](http://developer.51cto.com/art/202103/648522.htm)
- > 如何通过Serverless提高Java微服务治理效率？
- ## [刚进来的小伙伴说负载均衡，还是太年轻了！](http://zhuanlan.51cto.com/art/202103/648746.htm)
- > 刚进来的小伙伴说负载均衡，还是太年轻了！
- ## [【119】-同轴电缆](http://fellow.51cto.com/art/202101/642223.htm?qd=51ctojrzd)
- > 【119】-同轴电缆
- ## [说一说你不了解的5G另一面](http://network.51cto.com/art/202103/649026.htm)
- > 目前，国内政策主要围绕着5G的建设和应用展开。工信部发布了《基础电子元器件产业发展行动计划（2021-2023
- ## [996与互联网思维](http://news.51cto.com/art/202103/649025.htm)
- > 前一段时间互联网巨头们好似疯狂的在推崇996、白加黑、007、5+2这种近乎歇斯底里的工作方式，说是新时代的
- ## [多所名校联合 Adobe，用这项开源算法「透视」了一封 300 多年前的信](http://news.51cto.com/art/202103/649024.htm)
- > 最近，一项技术帮助历史学家们解决了这一难题――科学家们首次在不打开、不破坏信件的前提下“阅读”了封印
- ## [BICS：5G设备连接性可解锁新的物联网用例](http://iot.51cto.com/art/202103/649022.htm)
- > 全球语音运营商和移动数据服务提供商BICS在其SIMforThings解决方案中增加了5G连接性，从而使公司，OEM和硬
- ## [数字化转型，就是一个算法掌控一切的虚拟世界？](http://www.cioage.com/art/202103/649018.htm)
- > 随着5G建设的铺开，“数字化转型”这个词仿佛也一并站在了镁光灯下，各种展会，论坛上也都讨论地热火朝天。
- ## [2021网络系统流行架构](http://news.51cto.com/art/202103/649027.htm)
- > 2021年了，看看网络系统的流行架构。系统的质量属性要满足客户需求，所以架构的第一出发点也是需求。
- ## [我国工业互联网快速发展还需迈过哪些坎？](http://network.51cto.com/art/202103/649014.htm)
- > 作为第四次工业革命的重要基石，工业互联网为产业数字化提供了关键基础设施支撑和产业生态基础，成为数字
- ## [分布式存储的技术趋势（一）：三副本的弊端](http://stor.51cto.com/art/202103/649016.htm)
- > 虽然分布式存储的SDS理念很好，横向扩展能力不错，自动添加和删除节点都是优势，但与传统集中式存储（磁盘
- ## [鸿蒙的JS开发部模式18：鸿蒙的文件上传到Python服务器端](http://developer.51cto.com/art/202103/648890.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [ES2019 中8个非常有用的功能](http://developer.51cto.com/art/202103/649009.htm)
- > ES2019 规范是对 JavaScript的小规模扩展，但仍带来了一些有趣的功能。本文向你展示八个 ES2019 的功能，这
+ ## [这些 Linux 的“自动化”技巧，教你轻松完成任务](http://os.51cto.com/art/202103/649037.htm)
+ > 这些 Linux 的“自动化”技巧，教你轻松完成任务
+ ## [学习如何高效备战软考网络工程师视频课程](http://fellow.51cto.com/art/202012/636483.htm?qd=51ctojrzd)
+ > 学习如何高效备战软考网络工程师视频课程
+ ## [McAfee在美被控参与加密货币欺诈](http://netsecurity.51cto.com/art/202103/649069.htm)
+ > 美国司法部近日表示，反病毒软件先驱、创办 McAfee 公司的 John McAfee 被指控犯有加密货币欺诈和洗钱两项
+ ## [Guake 终端：一个灵感来自于 FPS 游戏的 Linux 终端](http://os.51cto.com/art/202103/649068.htm)
+ > 使用 Guake 终端这个可自定义且强大的适合各种用户的工具快速访问你的终端。
+ ## [更加环保的数据中心需要的不仅仅是风力发电场](http://network.51cto.com/art/202103/649066.htm)
+ > 许下为新建的数据中心设施采用可再生能源电力的承诺，是数据中心行业向前迈出的一大步，但是原有的传统数据
+ ## [5个问题，理清做用户画像的成功之道](http://bigdata.51cto.com/art/202103/649067.htm)
+ > 用户画像人人都想做，可用户数据从哪里来呢?今天就结合一个问题，详细讲解一下。话不多说，直接上场景。
+ ## [年度指数报告发现人工智能正在“产业化”但需要更好的指标和测试](http://ai.51cto.com/art/202103/649064.htm)
+ > 据外媒VentureBeat报道，中国在人工智能研究论文总数上已经超过了美国，获得资金的人工智能初创公司越来越
+ ## [Linux服务器上必备的4个开源工具](http://os.51cto.com/art/202103/649063.htm)
+ > 2021年，Linux更加受欢迎了，今天就和大家分享4个可以在Linux上运行的开源服务器。
+ ## [PyTorch 1.8发布，支持AMD GPU和Python函数转换](http://zhuanlan.51cto.com/art/202103/649062.htm)
+ > 近日，PyTorch 团队发布了 PyTorch 1.8 版本。该版本整合了自去年 10 月 1.7 版本发布以来的 3000 多次 com
+ ## [值得尝试的 3 个 Linux 终端](http://os.51cto.com/art/202103/649061.htm)
+ > Linux 让你能够选择你喜欢的终端界面，而不是它强加的界面。在 2021 年，人们喜欢 Linux 的理由比以往任何
+ ## [关于人脸识别系统的8大常见问题](http://ai.51cto.com/art/202103/649059.htm)
+ > 得益于当今智能手机和笔记本电脑中的面部识别功能，许多人都熟悉面部识别技术的概念。
+ ## [云计算之外的思考：智能边缘是计算和人工智能的未来](http://ai.51cto.com/art/202103/649055.htm)
+ > 在未来的几年中，边缘计算的应用将急剧上升。边缘计算和人工智能技术的结合已经催生出全新的功能。在探索这
  ## [CTO 写低级 Bug，致公司 70 GB 数据遭泄露！](https://blog.csdn.net/csdnnews/article/details/114384909)
  > CTO 写低级 Bug，致公司 70 GB 数据遭泄露！
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -108,6 +116,8 @@ categories: IT NEWS
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [DeepMind 研发的围棋 AI AlphaGo 是如何下棋的？](https://blog.csdn.net/epubit17/article/details/114475822)
  > DeepMind 研发的围棋 AI AlphaGo 是如何下棋的？
+ ## [新手学Python之学会查阅API文档](https://blog.csdn.net/herosunly/article/details/114534983)
+ > 新手学Python之学会查阅API文档
  ## [3行python代码实现假聊天机器人](https://blog.csdn.net/m0_46278037/article/details/114364504)
  > 3行python代码实现假聊天机器人
  ## [\[数学\]二维对数正态分布的概率分布，期望，方差和相关系数](https://blog.csdn.net/qq_36308895/article/details/114391266)
@@ -122,9 +132,11 @@ categories: IT NEWS
  > 学习随笔（1）
  ## [Python游戏(1) —— 猜单词](https://blog.csdn.net/weixin_47472573/article/details/114481856)
  > Python游戏(1) —— 猜单词
- ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
- > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
+ ## [如何成为一名AI产品经理](http://www.chanpin100.com/article/113859)
+ > 在校生和传统狐狸王产品经理如何才能成为一名AI产品经理呢？想必这是很多人心中的一个疑问。本文为大家详细介绍一下方法，解答大家心中的疑虑。
+ ## [AI产品经理是什么](http://www.chanpin100.com/article/113857)
+ > 产品经理也是有很多种类的，那么，AI产品经理是什么呢？AI产品经理的岗位职责有哪些呢？AI产品经理和传统互联网产品经理有哪些区别呢？请看本文的具体介绍。
  ## [动效设计如何完美对接开发？](http://www.chanpin100.com/article/113819)
  > 这篇文章起源于工作中一次与开发对接动效时遇到的诸多问题，一定也有许多人跟我一样遇到这些问题，所以想把自己一些经验分享给大家。
  ## [设计师必须了解的7个实用性技术知识](http://www.chanpin100.com/article/113818)
@@ -161,9 +173,5 @@ categories: IT NEWS
  > 职业规划考验的是一个人的决策能力和收集信息的能力。那么，新手产品经理的职业规划该如何做呢？请看本文的详细讲解。
  ## [产品经理 一定要走出这个泥潭...](http://www.chanpin100.com/article/113844)
  > 不少做产品经理的同学都反馈，产品经理工作多、杂、乱。每天很忙，忙不到尽头。白天忙沟通，晚上忙写需求。忙细节，忙流程，忙讨论，忙原型。一整天忙下来，也不知道自己在忙什么，为什么这么忙。当你也遇到「每天很忙，但又不知道忙什么」时，说明工作方法和思路出了问题。
- ## [产品经理面试时遇到职业规划问题该如何回答](http://www.chanpin100.com/article/113842)
- > 面试的时候，相信很多小伙伴都遇到这样一个问题:“你未来三到五年的职业规划是什么？”面对这样的问题，尤其是工作经验不足的求职者，不敢轻易开口，毕竟信心不足；也有一些求职者担心说得太多，让他们显得野心勃勃。本文将为大家介绍一下产品经理面试时遇到职业规划问题该如何回答。
- ## [产品经理面试题+解析汇总（十）](http://www.chanpin100.com/article/113843)
- > 现在正是金三银四春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。本文是产品经理面试题解析汇总第十章。
 
     
