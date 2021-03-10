@@ -1,58 +1,62 @@
 ---
 title: 2021-03-10 IT News
 copyright: true
-date: 2021-03-10 09:09:40
+date: 2021-03-10 10:20:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [升级你的机器人方案|英特尔MSK智能移动设备试用申请!](http://mp.weixin.qq.com/s?src=11&timestamp=1615338004&ver=2937&signature=uuT0NFSYtmdpAVrD64ef3HOUBD3ejzXInCBvkCvpFOhgN9zhTgiwynxcS4aRGnYLGeqAqK3uUbNzoku83m6ibsx1bPXVKyf9eMi-qQ9mfkx-XzW4WSmZb85p*Au4usXb&new=1)
- > 数字技术的进步正在推动传统行业与设备的改变。从市场趋势中我们可以看到，以往的静态和被动服务的自助设备正在逐渐转变为移动智能和主动服务。自主的、互动性强的移动设备正在赋能自助机和服务型机器人产业。为...
- ## [如何支撑运营商“大象跳舞”?华为汪亦凡详解数智平台GDE](http://mp.weixin.qq.com/s?src=11&timestamp=1615338004&ver=2937&signature=fCta7ofFQr6TN7aFknLeP6VNHZFW27t9sVtFbCb3ewTmG7D4wlebmS2z5etruuvW3OLaQN7RF5p1y7saBTx9SIqXeWbHVSqvN-FjTPtPwo-W1QMSNOZnD3a*LeWnHfvU&new=1)
- > 纵观通信行业，不论是全球火热建设的5G网络，还是行业热议的云网融合，其目的都是为行业数字化转型服务。如果将各行业看作数字化的终点站，那运营商无疑在数字化转型中扮演着运输者的角色，其肩负着将数据、算力...
- ## [一旦连上网络，你就成为了别人的免费打工仔](http://mp.weixin.qq.com/s?src=11&timestamp=1615338004&ver=2937&signature=M4VptZZq7ICAoOJPbqA6SGGTIBz5Iv-GtNgvA7wB6nR0lNaVwzaQrrAZ1fxCyczuwU3yMbWyAF58-SwGfqzUmedrUPoXOOcFiL2StdGo--lZ4jg5h1qoxriyjug4t6wP&new=1)
- > 对我们普通网络用户而言，互联网时代没有白嫖。相信我们每个人在年幼时都曾幻想过这么一件事：只要全国十几亿人，每个人都给我一块钱。不，只要一分钱，我就可以成为千万富翁了！而我们若是将这种稚嫩幻想，告知...
- ## [全球首款智能汽车人首次开箱，WEY摩卡0距离体验](http://mp.weixin.qq.com/s?src=11&timestamp=1615338004&ver=2937&signature=*y**Q*5FjMAWoG89A3rn8smbMSrEoroZ28KIojyXE59H72bRzQ7hhX8c1Ei1BNglFdzyEMunWu-hD-DcwsQy8QIQ8t32*UJ-MTWi2btBJ1TaXDEdyQhlo6Dl9wr0EONe&new=1)
- > 3月9日19:00，全球首款智能汽车人WEY摩卡迎来了首次黑科技开箱直播，国际超模奚梦瑶、科技大咖王自如现身开箱直播间，带领观众首次0距离互动体验摩卡智能黑科技，直观感受新一代智能汽车人背后的未来智慧出行理...
- ## [全国两会报道 这些融媒“黑科技”闪亮登场](http://mp.weixin.qq.com/s?src=11&timestamp=1615338004&ver=2937&signature=FolGUbKJUJL7B1mjkdnDT6NsOhHikeOiHM8GfUs-AQZDH9crFitWGCJ12zsPB1qUwZGOAJ05dfcGFd7SVcIL4cy11XGsFAPiYv3IQP-6pU1QuitMc2ZnsdRG5n*FtP7p&new=1)
+ ## [\[报告\]车联网发展现状及趋势分析(附52页PPT文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=LJyJtGZepAv64DfKE8ZT0mavQOnixyh6*ZOQFjMXB3H-odpKO*1XPpQ2eeqbO3hnG2rkUrosWTdqQLCbGGMRrG2FcYQpEb*vAcdBBLB-zZi7wOlLXwm4M89x0XtRtcMh&new=1)
+ > 车联网的概念分为V2C人车互动、V2V车车交互和V2X万物互联三个阶段。◆V2C人车互动发展阶段的两大内涵为人机交互界面的数字化，和基于单车相关数据服务应用多元化；◆V2V车车交互主要基于传感技术与车车通信技术...
+ ## [全国两会报道 这些融媒“黑科技”闪亮登场](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=FolGUbKJUJL7B1mjkdnDT6NsOhHikeOiHM8GfUs-AQaJZz5jlttZWpZteTucbkJKGoFlfGVDGoKAIei8kF8-QDFt3RdGy2eNa-zMDdDYMYKatJsA1IelblZU6qrhrxyR&new=1)
  > 智能创作机器人、5G沉浸式跨屏访谈、全息影像媒体技术……今年两会媒体亮出哪些“黑科技”？本文一一盘点。 人民日报：智能创作机器人两会报道期间，人民日报智慧媒体研究院研发的集5G智能采访+AI辅助创作+新闻...
+ ## [升级你的机器人方案|英特尔MSK智能移动设备试用申请!](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=uuT0NFSYtmdpAVrD64ef3HOUBD3ejzXInCBvkCvpFOhvBbAZPm9ms-wLFf*cAWfLZljUCmup2EsjNL5rZ0vZCz9Mq7wUerlTqpdVbnIpc4-bS8gSXYDfoINurAWYvmbU&new=1)
+ > 数字技术的进步正在推动传统行业与设备的改变。从市场趋势中我们可以看到，以往的静态和被动服务的自助设备正在逐渐转变为移动智能和主动服务。自主的、互动性强的移动设备正在赋能自助机和服务型机器人产业。为...
+ ## [专访星河精铸|专注精密压铸领域23年 2021年获新大客户合作认可!](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=lPbPp8vdAD5EOduoE5RNxSmfwwFrzz2DcyJCpQEKVBnRFgBSgYU6uPKCOJdlir1xG4t2KgHWQQQ4d-WDsrB908Ard*Zg*xYU8ANcgmbB8jkok*-u5vkVMb1aNUm0KpoK&new=1)
+ > 新闻导读讯石拜访参观国内光通讯、连接器及精密压铸壳体产品细分领域的优秀企业——东莞星河精铸，向总经理唐征平先生及营销总监杨冬先生了解公司一路走来的发展历程及最新动态。  ICC讯 近日，讯石受邀参观国...
+ ## [如何支撑运营商“大象跳舞”?华为汪亦凡详解数智平台GDE](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=fCta7ofFQr6TN7aFknLeP6VNHZFW27t9sVtFbCb3ewQ2wS1ZL0uRjFzPjHxzE0AOTbNMHqudT-NvntG4XCB8HJHosGKAwWEBSXmUdcAOu9ESlFonnme2ngXuPqxwCnXe&new=1)
+ > 纵观通信行业，不论是全球火热建设的5G网络，还是行业热议的云网融合，其目的都是为行业数字化转型服务。如果将各行业看作数字化的终点站，那运营商无疑在数字化转型中扮演着运输者的角色，其肩负着将数据、算力...
+ ## [一旦连上网络，你就成为了别人的免费打工仔](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=M4VptZZq7ICAoOJPbqA6SGGTIBz5Iv-GtNgvA7wB6nQQnkZbfpmBWCvXIP2iNwboc1kyeHF-qvoho9CBntxQjsNuH7rjLNgEUSELME40IhO8cQjoFBNle6*S6MVhVwCV&new=1)
+ > 对我们普通网络用户而言，互联网时代没有白嫖。相信我们每个人在年幼时都曾幻想过这么一件事：只要全国十几亿人，每个人都给我一块钱。不，只要一分钱，我就可以成为千万富翁了！而我们若是将这种稚嫩幻想，告知...
+ ## [全球首款智能汽车人首次开箱，WEY摩卡0距离体验](http://mp.weixin.qq.com/s?src=11&timestamp=1615341604&ver=2937&signature=*y**Q*5FjMAWoG89A3rn8smbMSrEoroZ28KIojyXE5-vmVVyStvPjWEbWVWnzMn2PRqEgDqQZTmYqnVG33RSvQX52UaIb*rYVWnG-0goReGTh1neipE4pJ*VcUbHbzCz&new=1)
+ > 3月9日19:00，全球首款智能汽车人WEY摩卡迎来了首次黑科技开箱直播，国际超模奚梦瑶、科技大咖王自如现身开箱直播间，带领观众首次0距离互动体验摩卡智能黑科技，直观感受新一代智能汽车人背后的未来智慧出行理...
 # IT 技术 
  ## [无服务安全性的策略、工具和实践](http://server.51cto.com/sSecurity-649123.htm)
  > 无服务安全性的策略、工具和实践
- ## [深夜，一个程序从虚拟机跑了出来...](http://virtual.51cto.com/art/202103/649127.htm)
- > 深夜，一个程序从虚拟机跑了出来...
  ## [什么是解决方案架构师？IT业务协调的关键角色](http://developer.51cto.com/art/202103/649121.htm)
  > 什么是解决方案架构师？IT业务协调的关键角色
+ ## [深夜，一个程序从虚拟机跑了出来...](http://virtual.51cto.com/art/202103/649127.htm)
+ > 深夜，一个程序从虚拟机跑了出来...
+ ## [通过鸿蒙自定义属性，来创造一个可以为所欲为的自定义标题组件](http://developer.51cto.com/art/202103/649088.htm)
+ > 通过鸿蒙自定义属性，来创造一个可以为所欲为的自定义标题组件
  ## [适合开发者的七种Python代码审查工具](http://developer.51cto.com/art/202103/648946.htm)
  > 适合开发者的七种Python代码审查工具
  ## [看完这个“秒杀”设计方案！我有点慌了](http://developer.51cto.com/art/202103/648948.htm)
  > 看完这个“秒杀”设计方案！我有点慌了
  ## [在组织的未来发展中，企业是否会采用超自动化？](http://ai.51cto.com/art/202103/648945.htm)
  > 在组织的未来发展中，企业是否会采用超自动化？
- ## [2021年中国程序员薪资和生活现状调查报告](http://news.51cto.com/art/202103/648895.htm)
- > 2021年中国程序员薪资和生活现状调查报告
- ## [网工教你思科华为系列（1）-基础交换技术篇](http://fellow.51cto.com/art/202102/645409.htm?qd=51ctojrzd)
- > 网工教你思科华为系列（1）-基础交换技术篇
- ## [如何扫除农村地区5G网络盲区？](http://network.51cto.com/art/202103/649187.htm)
- > 5G网络建设，广大的农村地区也是关键一环，如何在地广人稀的乡镇和农村市场做到覆盖率和成本的双赢?
- ## [Java编程内功-数据结构与算法「单链表」](http://developer.51cto.com/art/202103/649183.htm)
- > 本篇继续给大家介绍Java编程内功数据结构与算法，今天主要介绍有关单链表的相关知识，希望能够帮助到你。
- ## [按需部署：中国电信计划2021年开通32万座5G基站](http://network.51cto.com/art/202103/649181.htm)
- > 中国电信指出，2021年将按需部署5G网络，中高流量地区采用3.5GHz扩充容量;县城和部分乡镇采用2.1GHz实现广
- ## [McAfee将企业安全业务以40亿美元出售给STG](http://netsecurity.51cto.com/art/202103/649180.htm)
- > 安全厂商 McAfee 宣布计划以 40 亿美元的价格将其企业安全业务出售给以 Symphony Technology Group(STG)为
- ## [听句劝! Nacos集群搭建可以看看这篇教程](http://os.51cto.com/art/202103/649179.htm)
- > Nacos(Naming and Configuration Service)致力于帮助您发现、配置和管理微服务。Nacos 提供了一组简单易用
- ## [鹅厂二面，Nginx回忆录](http://server.51cto.com/sOS-649173.htm)
- > 上周二面鹅厂，面试官问出了“nginx你了解吗?”这样宽泛直白的句式，我一时抓不到重点，一时语噻。下班想了
- ## [七个关于"this"面试题，你能回答上来吗？](http://developer.51cto.com/art/202103/649171.htm)
- > 在JavaScript中，this 表示函数调用上下文。this难点在于它有一个复杂的行为，这也是面试中经常被考的点。
- ## [Findmnt 命令查找已挂载的文件系统](http://os.51cto.com/art/202103/649172.htm)
- > findmnt命令用于列出Linux中已挂载的文件系统。该命令将在/etc/fstab, /etc/mtab或者/proc/self/mountinfo
- ## [Dotnet的数据定位和匹配](http://stor.51cto.com/art/202103/649175.htm)
- > 最近项目紧，还要不停出差。所以，写个短点的、最近经常用到的内容：数据定位和匹配。
- ## [满屏的if-else，怎么消灭它们？](http://developer.51cto.com/art/202103/649174.htm)
- > 过多的if-else不仅导致程序运行效率低下，而且导致代码圈复杂度过高。如果大家有使用过静态代码分析工具，
+ ## [嵌入式Linux进阶：现场编写高级驱动与调试技巧(韦东山2期)](http://fellow.51cto.com/art/202101/640003.htm?qd=51ctojrzd)
+ > 嵌入式Linux进阶：现场编写高级驱动与调试技巧(韦东山2期)
+ ## [微软推送Windows 10新更新：移除经典版Edge浏览器！](http://os.51cto.com/art/202103/649211.htm)
+ > 微软面向所有支持的Windows 10系统发布了累积更新，其中还包括正在Beta频道测试的Windows 10 21H1版本。本
+ ## [边缘计算与云计算：哪种效率更高？](http://cloud.51cto.com/art/202103/649209.htm)
+ > 在这篇文章中，我将讨论边缘计算是否会蒸发云计算。另外，您将了解每种技术的优点和缺点。让我们深入了解边
+ ## [探究最短路问题：Dijkstra算法](http://developer.51cto.com/art/202103/649205.htm)
+ > 最短路问题最短路问题(Shortest Path Problems)：给定一个网络，网络的边上有权重，找一条从给定起点到给定
+ ## [微信小程序开发中常见的设计败笔](http://mobile.51cto.com/news-649204.htm)
+ > 虽然微信小程序的开发难度要低于网页开发和APP开发，再者，微信小程序开发可以使用很多微信提供的设计组建
+ ## [迈克菲本人被诉加密货币欺诈](http://netsecurity.51cto.com/art/202103/649202.htm)
+ > 迈克菲计算机安全软件公司的创始人被控参与“拉高出货”骗局，在推特上哄抬加密货币价格不当获利。
+ ## [Vue用prerender-spa-plugin做SEO优化](http://developer.51cto.com/art/202103/649200.htm)
+ > 自己弄了个博客网站，运行了很久，一直没被收录，才发现SEO对单页面不太友好。上网学习并实践了一下，我们
+ ## [华为HCIP考证题库讲解](http://fellow.51cto.com/art/202103/649130.htm)
+ > 帮助学习者通过HCIP考试
+ ## [如何评价一款App的稳定性和质量？](http://mobile.51cto.com/hot-649198.htm)
+ > 「崩溃」与「卡顿」、「异常退出」等一样，是影响App稳定性常见的三种情况。相关数据显示，当iOS的崩溃率超
+ ## [从技术专家到技术管理，我对管理的思考](http://news.51cto.com/art/202103/649197.htm)
+ > 工作第七个年头，我从技术专家，变成了一名技术管理者。最近一直在忙碌中思考如何成为一名优秀的技术管理者
+ ## [Linux下的Hi3861一站式鸿蒙开发烧录（附工具）](http://developer.51cto.com/art/202103/649087.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
  ## [TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌](https://blog.csdn.net/csdnnews/article/details/114581912)
  > TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -69,52 +73,54 @@ categories: IT NEWS
  > 
  ## [Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统](https://blog.csdn.net/csdnnews/article/details/114370718)
  > Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统
- ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
- > 5 分钟带你弄懂 k-means 聚类
- ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
- > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
- ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
- > C语言贪吃蛇（详解）——链表实现
- ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
- > 机器学习之KNN最邻近分类算法
- ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
- > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
- ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
- > C/C++  经典面试题（一）之常考概念【持续更新】
+ ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
+ > 手把手教你使用R语言制作临床决策曲线
+ ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
+ > 
+ ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
+ > 张一鸣：“我需要的人才，至少具备这三个标准！”
+ ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
+ > 一文看懂YOLO v3
+ ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
+ > 移动端UI一致性解决方案
+ ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
+ > 详解BP神经网络
  ## [MATLAB从入门到精通系列之几个实用小技巧](https://blog.csdn.net/wenyusuran/article/details/114088833)
  > MATLAB从入门到精通系列之几个实用小技巧
 # 人工智能 
- ## [“复制粘贴”发明人，竟是物理学博士转行做程序媛！](https://blog.csdn.net/csdnsevenn/article/details/109323775)
- > “复制粘贴”发明人，竟是物理学博士转行做程序媛！
- ## [Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统](https://blog.csdn.net/csdnnews/article/details/114370718)
- > Google 重磅发布 Flutter 2 ！一套代码横扫 5 大系统
  ## [用AI变革新药研发，终极目标是延缓衰老，这家创业公司迎来“里程碑”](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/114376886)
  > 用AI变革新药研发，终极目标是延缓衰老，这家创业公司迎来“里程碑”
+ ## [谁说女生不适合当程序员？14 位顶尖 IT 技术女神驾到，共论成长之路！](https://blog.csdn.net/csdnnews/article/details/114396550)
+ > 谁说女生不适合当程序员？14 位顶尖 IT 技术女神驾到，共论成长之路！
  ## [PyTorch 1.8 发布，支持 AMD，优化大规模训练](https://blog.csdn.net/HyperAI/article/details/114408315)
  > 
- ## [PyTorch 词向量模型简介](https://blog.csdn.net/weixin_46274168/article/details/114465682)
- > PyTorch 词向量模型简介
+ ## [再探 Compose 版本的玩安卓](https://blog.csdn.net/haojiagou/article/details/114476160)
+ > 再探 Compose 版本的玩安卓
+ ## [只懂 Git 如何成为架构砖家？从代码的物理分析说起](https://blog.csdn.net/gmszone/article/details/114505149)
+ > 只懂 Git 如何成为架构砖家？从代码的物理分析说起
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [DeepMind 研发的围棋 AI AlphaGo 是如何下棋的？](https://blog.csdn.net/epubit17/article/details/114475822)
- > DeepMind 研发的围棋 AI AlphaGo 是如何下棋的？
- ## [新手学Python之学会查阅API文档](https://blog.csdn.net/herosunly/article/details/114534983)
- > 新手学Python之学会查阅API文档
- ## [3行python代码实现假聊天机器人(慎入：这是假机器人！！！)](https://blog.csdn.net/m0_46278037/article/details/114364504)
- > 3行python代码实现假聊天机器人(慎入：这是假机器人！！！)
- ## [\[数学\]二维对数正态分布的概率分布，期望，方差和相关系数](https://blog.csdn.net/qq_36308895/article/details/114391266)
- > \[数学\]二维对数正态分布的概率分布，期望，方差和相关系数
+ ## [Linux初期在中国的发展](https://blog.csdn.net/SeaCloudHill/article/details/114526981)
+ > Linux初期在中国的发展
+ ## [漫画：什么是 “锦标赛排序” ？](https://blog.csdn.net/bjweimengshu/article/details/114528400)
+ > 漫画：什么是 “锦标赛排序” ？
+ ## [喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖](https://blog.csdn.net/xufive/article/details/114530480)
+ > 喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖
+ ## [爬虫工程师想拿更高薪，这点不要忽略](https://blog.csdn.net/qq_41482589/article/details/114586382)
+ > 爬虫工程师想拿更高薪，这点不要忽略
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [21.牛牛掷硬币](https://blog.csdn.net/qq_45874107/article/details/114538567)
- > 21.牛牛掷硬币
- ## [神仙打架！今年计算机考研爆炸实况！](https://blog.csdn.net/csseky/article/details/114255617)
- > 神仙打架！今年计算机考研爆炸实况！
- ## [学习随笔（1）](https://blog.csdn.net/FANXINGrUOCHEe/article/details/114376272)
- > 学习随笔（1）
- ## [Python游戏(1) —— 猜单词](https://blog.csdn.net/weixin_47472573/article/details/114481856)
- > Python游戏(1) —— 猜单词
+ ## [新手学Python之学会查阅API文档](https://blog.csdn.net/herosunly/article/details/114534983)
+ > 新手学Python之学会查阅API文档
+ ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
+ > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
+ ## [MATLAB从入门到精通系列之几个实用小技巧](https://blog.csdn.net/wenyusuran/article/details/114088833)
+ > MATLAB从入门到精通系列之几个实用小技巧
+ ## [TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌](https://blog.csdn.net/csdnnews/article/details/114581912)
+ > TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌
 # PM 
+ ## [基金+？+热搜=基金业新机遇？](http://www.chanpin100.com/article/113855)
+ > 从“基金社交”“进基的巨人”“基金相亲”到 基金大跌 跌妈不认 基金暴跌年轻人为什么躲不过被收割 等微博热搜，均洋溢着青春的“燥红”与“绿意”。
  ## [什么是生鲜电商？生鲜电商的发展历程是怎样的？](http://www.chanpin100.com/article/113881)
  > 随着互联网的高速发展，生鲜电商行业也变得越来越抢手，本文重点给大家分析一下什么是生鲜电商，生鲜电商的发展历程是怎样的这两个问题，希望能对想入行生鲜电商行业的人员有所帮助吧。
  ## [生鲜电商小程序的优点有哪些？](http://www.chanpin100.com/article/113880)
@@ -153,7 +159,5 @@ categories: IT NEWS
  > 做B端产品不同于C端产品，C端产品通常流量和变现是分离的，而B端产品产品本身就需要售卖和变现，因此做B端产品给产品定价是绕不开的问题。本篇聊聊B端产品定价的话题。
  ## [产品经理面试题+解析汇总（十一）](http://www.chanpin100.com/article/113869)
  > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。本文是产品经理面试题+解析汇总第十一章。
- ## [移动端APP的加载与刷新策略设计](http://www.chanpin100.com/article/113823)
- > 数据加载分为两种情况：页面有缓存和页面无缓存。大家可以尝试关掉WiFi和4G，然后打开淘宝和美团，你会发现它们的首页都是有内容的，或者说只会存在少部分内容缺失，这时候页面的内容就是上次打开APP缓存的内容。
 
     
