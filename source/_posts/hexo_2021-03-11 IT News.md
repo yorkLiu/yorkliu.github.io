@@ -1,58 +1,72 @@
 ---
 title: 2021-03-11 IT News
 copyright: true
-date: 2021-03-11 10:18:06
+date: 2021-03-11 12:09:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [一文简单读懂5G核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=wFZi4PRwtQjXDUF6PKwoxal7gKiGxy4UBP*gvNSXMggBXvNPSOmdYHBai0S8xl*I6NeMqm654a*VuzShwjfVDvHHTdK2*Qy7MKZrj2VCGRmV6bDlp9As7vCaFE7yTwPs&new=1)
- > 系统架构 在5GC中，每个节点称为网络功能（NF），下面简要介绍一下每个NF的名称及功能。• NSSF（网络切片选择功能）管理网络切片相关信息，比如负责为终端选择网络切片• AUSF（认证服务器功能）完成用户接入的...
- ## [年度报告|欢迎订购讯石2021《全球光通讯市场现状分析及预测》](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=PGzMTsTqJdS65GziujD7*DVXdRzZ6-qffi5OAT4*JXUrknzAUzGg7ivZ97E0xAxctNgHiWgFLgW1rXktiogZqX*ep5EL4g9klJlI9Phk04CiejYUgJOuRPtfRzA2FFOT&new=1)
+ ## [创过业的摄像人都被逼成了全能选手](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=ai4XYFDsa0TVkQjL7Vb4RdeoQRQBlLN9YswBIkOoKWMK060wvX4OYKoaTrgNOPDqL768J0EQsw279WOJIPcvmmUigMFLpnLep8nYIEACmtIGTPfN6HCtfQHG*jgH543s&new=1)
+ > 摄像人创业很简单吗？在不少外人看来是不难，只要买台摄像机然后接活就可以了，似乎这样你就能享受自由支配的时间和不菲的收入，从而走上人生巅峰……日前有国外同行分享了一名摄像人从全职到创业所需要经过的步...
+ ## [沃达丰呼吁制定新的网络安全政策以帮助中小企业](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=ygs3IPJcazK2HBj5DtpcfjVuj85kJ9lflMYM0hzLD1ioMh7g8lBA3wxR*rPSRJ5qEPlIoFae799o3Srlq0McGqAv3JiXcXjjWCPJQE0uDTfKnH28UFONvwOF6f0YQ7yG&new=1)
+ > E安全3月11日讯 电信巨头沃达丰呼吁引入新的网络安全政策，以帮助英国的小型企业从全球健康大流行的影响中恢复过来。在近日发布的一份声明中，该公司要求鲍里斯·约翰逊政府通过为国家网络安全中心提供更多支持...
+ ## [两会十三大网络安全提案](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=DNF85lnX3nKarjmTuU4aVUz3qpvm2FxKtaM7AkLstsiyp3lk3oxB*VtkNNVd0ZYYZ91jhQp*-xm5ignStn3cARv9DnVJARMDW5IM6T-vmn33nfLxnBC8tuhPn6qOIWYL&new=1)
+ > 聚焦两会2021年3月4日-10日21世纪的第三个十年，随着远程办公常态化、企业数字化转型深化、网络犯罪产业化、互联网巴尔干化，网络安全正在成为全球数字化变革和科技创新的主角。随着网络的飞速发展，同时也给国...
+ ## [凯普林推出国内首款330μm千瓦级高亮度工业蓝光激光器](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=ECP3jGuAy7D7CCtYB*KQAMNIJLG4nWy8XY71jV-cUCrSgLQe7stzeFw1zuAH-vQnHtcxRtWF-cyCfxuVAYENOKps-ZZMBydvnEAiUBu3Pb2iEbRvI9PsPgtmRogsfJ-l&new=1)
+ > 引言：半导体激光因其丰富的光谱带宽以及直接的电激励方式，在光谱选择、高电光效率和连续光输出、长期寿命上具有不可比拟的优势。激光的波长越短，对应的光束衍射极限BPP越小，聚焦本领越强，可耦合进芯径更小...
+ ## [百度92年程序员因“篡改数据”被抓；运营商辟谣首批 5G 用户被抛弃；特斯拉回应上海工厂摄像头被入侵|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=sls17pT5k5oBDsaptxRDsHfe0uevlDtbpA-2c2sKzQiKS3*oLwf2bfiL9RCrsEwMVgNMCL396FD-s-ycUJWAXZ09DK5WTlgP5dLoovca4wIR7WwmDr6BUSL*omYD*lbQ&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 张红月出品 | CSDN（ID：CSDNnews）快来收听极客头条音频版吧，...
+ ## [苹果计划在慕尼黑建设芯片中心；甲骨文第三财季净利同比增长95%；Grab或通过SPAC方式赴美上市|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=o6q3OmHDPe1URGgn6Op-llUEeneyyQeQi-3KIfIjPrr6zngHVmXdN*l3FSBqRwTIbRdLC-zjBWciQEOEXg76vpOSh9QDu0-UqqVrSifs6ULcNFIPU6cgtc47r6mYjzPj&new=1)
+ > 图 / IC photoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【甲骨文第三财季净利同比增长95%】甲骨文发布2021财年第三财季财报显示，其第三财季总营收为100.85亿美元，同比增长3%，不计入汇...
+ ## [专访Markforged：机器学习赋能3D打印生态系统，复合材料3D打印潜力可达百亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=YX5fg-1K1mXnDB0829JpKkSi2t4z6JPS6bDdFl4k9JPOxWSdDnVQnLqTdPVHlgxOSJtozXxbki-At-ERoFOYGjZ7nMvqkdxIrHH-wbpggiQZzQrbWjvkUTCOxg5oe2D9&new=1)
+ > 金属和碳纤维3D打印创业公司Markforged，2020年营收达7000万美元，已在2021年2月宣布借壳上市纽交所，估值21亿美元，募资4.25亿美元。△基于FFF挤出技术的Markforged Metal X 金属3D打印机△Mark
+ ## [年度报告|欢迎订购讯石2021《全球光通讯市场现状分析及预测》](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=PGzMTsTqJdS65GziujD7*DVXdRzZ6-qffi5OAT4*JXX7z3wsXadMyMe6ge6*3UgLOQOd-Mf3OX7z2yXN18GAUAizqb0hWWgerWeipMLLNnZO7LTMis*TXtOnTORKtAnk&new=1)
  > 新闻导读2021年3月，ICC推出新的一年一度光通讯市场调研报告《全球光通讯市场现状分析及预测》。该报告内容主要包括2020年全球光通讯市场发展现状总结分析以及未来几年光通讯市场发展预测，具体内容涵盖从运营商...
- ## [\[报告\]2020年新能源乘用车白皮书(附86页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=4E2hV9CuZ85HjzFYHDqbnDbv2PK-Cw2tBkV9Sbg8yAEUhILtMbjBdJa1rBh5IE48mY1YZpAo1glxQKrqQaD5qYlFJUlzS*iz9YtVOP4EXdOhus-jxOn6iTbiuhqb2tkF&new=1)
+ ## [一文简单读懂5G核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=wFZi4PRwtQjXDUF6PKwoxal7gKiGxy4UBP*gvNSXMgjFhPIVq1fKTiBkS-FL6cgmIdY*30GxUS0tAFv4*ijaOCf9xXzXrVBzZIvHibcttt4pnlcvZ3reWGHjem69JWBR&new=1)
+ > 系统架构 在5GC中，每个节点称为网络功能（NF），下面简要介绍一下每个NF的名称及功能。• NSSF（网络切片选择功能）管理网络切片相关信息，比如负责为终端选择网络切片• AUSF（认证服务器功能）完成用户接入的...
+ ## [\[报告\]2020年新能源乘用车白皮书(附86页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=4E2hV9CuZ85HjzFYHDqbnDbv2PK-Cw2tBkV9Sbg8yAELrKoGKkGXxyygo08M0p7x3zN6iWMoDivUcPCfNMc7x36KHEUwEBDBa7HrXfECW4g4DFtFwP25BYEwtzzR2VL0&new=1)
  > 近日，汽车行业数据综合服务平台大搜车智云联合百度指数发布《2020年新能源乘用车白皮书》。白皮书显示，十年时间，中国新能源乘用车销量由2000台增长至114万台，销量发生翻天覆地变化。去年7月份才上市的五菱宏...
- ## [开启用户运营新时代!2021中国汽车消费论坛即将举办|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=708mOoHe4cyzfPdY0sHV*akJhDejfsqNBJcv*A1wFT8j-fq23HwXTYjmU73vqSb5E0aNE7qt37KHBDFAuxVS0hBlW3HUDjqxVgs-5McEPdsM2IC6Jee9vcYpAJJ9B2RT&new=1)
+ ## [开启用户运营新时代!2021中国汽车消费论坛即将举办|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=708mOoHe4cyzfPdY0sHV*akJhDejfsqNBJcv*A1wFT*-21NNwm75lS6cn6Kw2pAfpqShGn6*xfKXocjZNeGXyw73TK4rg3s202LFTGVgmwWhhCUgMahcQy15ONyF5Zbw&new=1)
  > 作者 | 孙勇● ● ●由中国汽车流通协会与寰球汽车集团共同主办的“2021中国汽车消费论坛”，将于3月20日在北京举办。　　据了解，这是两家单位第二次联手举办中国汽车消费论坛，并将今年论坛的主题确定为：“开...
- ## [诺基亚：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=FMqGmjXKlpTSusMnqw1GzPQ5AB3Ku2q1xYmGq*NWMoLaLk89OPmayVaKwGgtJhwG986lLrTst*OZUDb-oJXWcZ6pgpdRrGtereyecPG2jjnmWL-kXFY80QcMPEPErCYd&new=1)
+ ## [诺基亚：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1615435204&ver=2939&signature=FMqGmjXKlpTSusMnqw1GzPQ5AB3Ku2q1xYmGq*NWMoKQxN4mLRqAEib8KOLZYhKK1WKrH7GYVZKwwa4le7fonjoueu70iQ14*F3KjIoXeC1u6-amlzP8qZMssTV99hnq&new=1)
  > 点击「创业派」，选择「设为星标」每晚大概9点10分，与30万创业者一起成长谁说卖掉手机业务就活不了了？大不了再转型呗。作者：杨凯来源：华商韬略（ID：hstl8888）商场如战场，可怕的不是断臂求生，而是因为没...
 # IT 技术 
- ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
- > 从头捋了一遍Epoll原理，收获颇丰！
- ## [【廉环话】防疫一周年后的IT项目管理思考 --需求评估](http://www.cioage.com/art/202103/649353.htm)
- > 【廉环话】防疫一周年后的IT项目管理思考 --需求评估
+ ## [【廉环话】防疫一周年后的IT项目管理思考 -- 需求评估](http://www.cioage.com/art/202103/649353.htm)
+ > 【廉环话】防疫一周年后的IT项目管理思考 -- 需求评估
  ## [您了解分区存储吗？现在该使用它了](http://stor.51cto.com/art/202103/649352.htm)
  > 您了解分区存储吗？现在该使用它了
+ ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
+ > 从头捋了一遍Epoll原理，收获颇丰！
+ ## [音频处理问题难？快使用Tensorflow构建一个语音识别模型](http://developer.51cto.com/art/202103/649301.htm)
+ > 音频处理问题难？快使用Tensorflow构建一个语音识别模型
+ ## [一次深夜优化MySQL亿级数据分页的奇妙经历](http://database.51cto.com/art/202103/649471.htm)
+ > 一次深夜优化MySQL亿级数据分页的奇妙经历
+ ## [鸿蒙开源第三方件组件-轮播组件Banner](http://os.51cto.com/art/202103/649267.htm)
+ > 鸿蒙开源第三方件组件-轮播组件Banner
  ## [无服务安全性的策略、工具和实践](http://server.51cto.com/sSecurity-649123.htm)
  > 无服务安全性的策略、工具和实践
- ## [下一代SOC的支点：如何选择SOAR解决方案？](http://zhuanlan.51cto.com/art/202103/649053.htm)
- > 下一代SOC的支点：如何选择SOAR解决方案？
- ## [谷歌用 "FLoC "取代浏览器Cookie的做法被指责](http://netsecurity.51cto.com/art/202103/649214.htm)
- > 谷歌用 &quot;FLoC &quot;取代浏览器Cookie的做法被指责
- ## [什么是解决方案架构师？IT业务协调的关键角色](http://developer.51cto.com/art/202103/649121.htm)
- > 什么是解决方案架构师？IT业务协调的关键角色
- ## [PacketTracer GNS3和VMWare搭建网络学习环境视频课程](http://fellow.51cto.com/art/202101/641268.htm?qd=51ctojrzd)
- > PacketTracer GNS3和VMWare搭建网络学习环境视频课程
- ## [以AI为先的微软，为什么要停止对技术的过度称颂？](http://news.51cto.com/art/202103/649455.htm)
- > 微软宣布已豪掷75亿美元收购游戏开发商B社母公司，进一步加码游戏业务。 这一系列的举动不仅让人好奇，微软
- ## [一篇文章搞定Java字符串的基本操作知识](http://developer.51cto.com/art/202103/649452.htm)
- > 本文主要介绍了字符串的转换、替换和删除空格、判断。字符串转换介绍了的方法，通过例子帮助理解这个字符串
- ## [2021年确保业务成功的最具影响力的IT趋势](http://www.cioage.com/art/202103/649449.htm)
- > 技术进步在许多方面影响着商业领域的发展。新技术、新兴技术以及经过测试的技术解决方案，将决定着全球各行
- ## [美国零日漏洞市场不为人知的故事](http://netsecurity.51cto.com/art/202103/649448.htm)
- > 零日漏洞是间谍工具与网络武器的原材料，由于国家资源的支撑，漏洞交易的利润巨大，这也是中间人从来不公开
- ## [基于SpringBoot与数据库表记录的方式实现分布式锁](http://database.51cto.com/art/202103/649451.htm)
- > 今天演示一下最简单的分布式锁方案――基于数据库表记录的分布式锁.
- ## [4 个打造多媒体和共享服务器的开源工具](http://news.51cto.com/art/202103/649447.htm)
- > 在 2021 年，人们喜欢 Linux 的理由比以往任何时候都多。在这个系列中，我将分享 21 个使用 Linux 的不同
- ## [为创新应用铺路 全光网络从企业飞入寻常百姓家](http://network.51cto.com/art/202103/649446.htm)
- > 从拨号上网到adsl，再到光纤入户，短短20多年时间家庭上网速度从56Kbps发展到如今的最高千兆宽带，我们亲身
- ## [Firefox 86 将支持 “Total Cookie Protection”，限制通过跨网站 Cookie 共享追踪用户](http://netsecurity.51cto.com/art/202103/649442.htm)
- > Mozilla正式发布Firefox 86火狐浏览器了，支持Linux、Windows和MacOS操作系统
- ## [企业纷纷入局，迅速扩大5G专网“朋友圈”](http://network.51cto.com/art/202103/649439.htm)
- > 步入2021年，业界对于5G专网的呼声越来越高。5G专网正在迈向技术成熟、应用百花齐放的阶段。
- ## [微软 Windows10 Dev 预览版 21332 发布：《新闻和兴趣》又重新设计，删除三款预装应用](http://os.51cto.com/art/202103/649438.htm)
- > 3月11日消息 今天，微软面向 Dev 预览通道发布了 Windows 10 Insider build 21332 系统更新。这个新构建版
+ ## [2021年软考软件设计师--基础知识实战培训视频课程](http://fellow.51cto.com/art/202101/638872.htm?qd=51ctojrzd)
+ > 2021年软考软件设计师--基础知识实战培训视频课程
+ ## [Linux 基金会将推出代码签名及验证服务](http://os.51cto.com/art/202103/649485.htm)
+ > 近日，Linux 基金会宣布将联合红帽、Google 和普渡大学推出免费的「sigstore」服务，让开发者可以对开源软
+ ## [Wordpress 计划放弃对 IE 11 的支持](http://os.51cto.com/art/202103/649484.htm)
+ > 在全球范围内最知名，也是最受欢迎的博客平台 WordPress 正在考虑放弃对 Internet Explorer 11 的支持，因
+ ## [微软 Windows10 Reunion 预览版 v0.5 发布：统一 Windows32 和 UWP 应用体验](http://os.51cto.com/art/202103/649483.htm)
+ > 3月11日消息 在 Build 2020 大会上，微软宣布了一个新项目 Project Reunion，让 Windows 10 平台的应用开发
+ ## [为什么你的数据总是丢？](http://bigdata.51cto.com/art/202103/649481.htm)
+ > 大数据分析最核心的是数据，而数据的发送尤为重要。如何保证数据能够完整、准确、及时地上传到指定的服务端
+ ## [数码杂谈：哪些手机技术没有太大的使用意义？](http://mobile.51cto.com/app-show-649478.htm)
+ > 随着手机行业的发展，手机的品牌不断变少，一场腥风血雨竞争后，留下了这些优秀的手机型号，也有繁华出众的
+ ## [鸿蒙内核源码分析(异常接管篇) | 中文注解HarmonyOS源码](http://os.51cto.com/art/202103/649268.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [5G技术对这20个产业的冲击](http://network.51cto.com/art/202103/649476.htm)
+ > 5G，这个因应物联网（IoT）设备数量的增加以及数据量的增加而开发出来的新时代产物，所影响的不是只有科技
+ ## [在Windows 10下搭建Python+VSCode数据分析台](http://developer.51cto.com/art/202103/649479.htm)
+ > python对我个人来说最吸引人的地方就是学习起来简单,万物皆为变量,相信看过python之禅的各位一定知道,pytho
+ ## [金融公链上的隐私性和透明度可以兼得吗？](http://blockchain.51cto.com/art/202103/649474.htm)
+ > 比特币作为无可争辩的、最具开创性的加密货币之王，却似乎并没有较好地解决一个区块链重要问题――隐私。
+ ## [Redis 高可用篇：你管这叫主从架构数据同步原理？](http://stor.51cto.com/art/202103/649470.htm)
+ > 高可用有两个含义：一是数据尽量不丢失，二是服务尽可能提供服务。 AOF 和 RDB 保证了数据持久化尽量不丢失
  ## [一发入魂的音乐，如何来到你的耳边？](https://blog.csdn.net/m0_46163918/article/details/114637589)
  > 一发入魂的音乐，如何来到你的耳边？
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -69,18 +83,18 @@ categories: IT NEWS
  > 
  ## [淘宝系统出现漏洞，给淘宝客服反应，竟然是这个态度](https://blog.csdn.net/weixin_40986713/article/details/114535429)
  > 淘宝系统出现漏洞，给淘宝客服反应，竟然是这个态度
- ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
- > 5 分钟带你弄懂 k-means 聚类
- ## [C面向对象_静态和实例，静态类和实例类，静态成员和实例成员](https://blog.csdn.net/u011127019/article/details/111059829)
- > C面向对象_静态和实例，静态类和实例类，静态成员和实例成员
- ## [C语言贪吃蛇（详解）——链表实现](https://blog.csdn.net/yc1515707718/article/details/80461396)
- > C语言贪吃蛇（详解）——链表实现
- ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
- > 机器学习之KNN最邻近分类算法
- ## [阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议](https://blog.csdn.net/Android578/article/details/113680812)
- > 阿里35岁Android程序员晋升无望，该何去何从，在线等网友给点建议
- ## [C/C++  经典面试题（一）之常考概念【持续更新】](https://blog.csdn.net/hsq1596753614/article/details/80249605)
- > C/C++  经典面试题（一）之常考概念【持续更新】
+ ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
+ > 手把手教你使用R语言制作临床决策曲线
+ ## [为什么你学了N遍Springboot，至今还是学生项目？你的问题都在这里！](https://blog.csdn.net/chaitoudaren/article/details/105745335)
+ > 
+ ## [张一鸣：“我需要的人才，至少具备这三个标准！”](https://blog.csdn.net/star_nwe/article/details/112845187)
+ > 张一鸣：“我需要的人才，至少具备这三个标准！”
+ ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
+ > 一文看懂YOLO v3
+ ## [移动端UI一致性解决方案](https://blog.csdn.net/MeituanTech/article/details/110211899)
+ > 移动端UI一致性解决方案
+ ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
+ > 详解BP神经网络
  ## [MATLAB从入门到精通系列之几个实用小技巧](https://blog.csdn.net/wenyusuran/article/details/114088833)
  > MATLAB从入门到精通系列之几个实用小技巧
 # 人工智能 
@@ -115,6 +129,8 @@ categories: IT NEWS
  ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
  > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
 # PM 
+ ## [生鲜电商平台有哪几种模式](http://www.chanpin100.com/article/113914)
+ > 生鲜电商可以说是目前一个很火热的行业，很多人都想进入生鲜电商行业，但是却对生鲜电商行业不是很了解。今天，小编为大家介绍一下生鲜电商平台有哪几种模式这个问题。
  ## [【产品经理免费公开课】2021高薪数据产品经理3步进阶攻略](http://www.chanpin100.com/article/113910)
  > 2021年数据产品经理怎样才能做到高薪就业呢？数据产品经理的学习路线是怎样的呢？想知道这些内容的小伙伴，一定不可错过本期的免费公开课。
  ## [产品经理如何画流程图？](http://www.chanpin100.com/article/113883)
@@ -153,7 +169,5 @@ categories: IT NEWS
  > 互联网发展实在太快，快到前几年还火的东西，转眼之间已经销声匿迹，比如前几年大火的互联网金融，各种P2P平台如雨后春笋般涌现出来，没几年时间就爆雷的暴雷，跑路的跑路，留下一地鸡毛。
  ## [产品经理面试题+解析汇总（十二）](http://www.chanpin100.com/article/113895)
  > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。本文是产品经理面试题+解析汇总第十二章。
- ## [盒马五年 新零售已成“万花筒”](http://www.chanpin100.com/article/113864)
- > 过去的2020年，直播带货、社区团购成为舆论焦点，可很少人知道，已经提出五六年的新零售业态，已从当初的一种概念，变幻出各种各样的新形态。
 
     
