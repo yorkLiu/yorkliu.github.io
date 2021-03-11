@@ -1,17 +1,21 @@
 ---
 title: 2021-03-11 IT News
 copyright: true
-date: 2021-03-11 09:24:42
+date: 2021-03-11 10:18:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [开启用户运营新时代!2021中国汽车消费论坛即将举办|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1615424404&ver=2939&signature=708mOoHe4cyzfPdY0sHV*akJhDejfsqNBJcv*A1wFT8j-fq23HwXTYjmU73vqSb5xDT2oHerrKi8p49CjeG-GlHFfcIRYvUGJ5JRceXCVNTVpECijh2vkz-7pQn3PiiI&new=1)
- > 作者 | 孙勇● ● ●由中国汽车流通协会与寰球汽车集团共同主办的“2021中国汽车消费论坛”，将于3月20日在北京举办。　　据了解，这是两家单位第二次联手举办中国汽车消费论坛，并将今年论坛的主题确定为：“开...
- ## [诺基亚：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1615424404&ver=2939&signature=FMqGmjXKlpTSusMnqw1GzPQ5AB3Ku2q1xYmGq*NWMoLaLk89OPmayVaKwGgtJhwG1nlzXmuc5n1VWaIFuYA6zErEIetQnzBpEchznrPe5xQkhJvMb4wkGS9obnBE5YBf&new=1)
- > 点击「创业派」，选择「设为星标」每晚大概9点10分，与30万创业者一起成长谁说卖掉手机业务就活不了了？大不了再转型呗。作者：杨凯来源：华商韬略（ID：hstl8888）商场如战场，可怕的不是断臂求生，而是因为没...
- ## [一文简单读懂5G核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615424404&ver=2939&signature=wFZi4PRwtQjXDUF6PKwoxal7gKiGxy4UBP*gvNSXMggBXvNPSOmdYHBai0S8xl*I1gRrs8ju-36kcuXsGRUIqzzMoyG62KycZaeZSRJhr0pxFzZeb8l02FTchWwDpUwP&new=1)
+ ## [一文简单读懂5G核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=wFZi4PRwtQjXDUF6PKwoxal7gKiGxy4UBP*gvNSXMggBXvNPSOmdYHBai0S8xl*I6NeMqm654a*VuzShwjfVDvHHTdK2*Qy7MKZrj2VCGRmV6bDlp9As7vCaFE7yTwPs&new=1)
  > 系统架构 在5GC中，每个节点称为网络功能（NF），下面简要介绍一下每个NF的名称及功能。• NSSF（网络切片选择功能）管理网络切片相关信息，比如负责为终端选择网络切片• AUSF（认证服务器功能）完成用户接入的...
+ ## [年度报告|欢迎订购讯石2021《全球光通讯市场现状分析及预测》](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=PGzMTsTqJdS65GziujD7*DVXdRzZ6-qffi5OAT4*JXUrknzAUzGg7ivZ97E0xAxctNgHiWgFLgW1rXktiogZqX*ep5EL4g9klJlI9Phk04CiejYUgJOuRPtfRzA2FFOT&new=1)
+ > 新闻导读2021年3月，ICC推出新的一年一度光通讯市场调研报告《全球光通讯市场现状分析及预测》。该报告内容主要包括2020年全球光通讯市场发展现状总结分析以及未来几年光通讯市场发展预测，具体内容涵盖从运营商...
+ ## [\[报告\]2020年新能源乘用车白皮书(附86页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=4E2hV9CuZ85HjzFYHDqbnDbv2PK-Cw2tBkV9Sbg8yAEUhILtMbjBdJa1rBh5IE48mY1YZpAo1glxQKrqQaD5qYlFJUlzS*iz9YtVOP4EXdOhus-jxOn6iTbiuhqb2tkF&new=1)
+ > 近日，汽车行业数据综合服务平台大搜车智云联合百度指数发布《2020年新能源乘用车白皮书》。白皮书显示，十年时间，中国新能源乘用车销量由2000台增长至114万台，销量发生翻天覆地变化。去年7月份才上市的五菱宏...
+ ## [开启用户运营新时代!2021中国汽车消费论坛即将举办|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=708mOoHe4cyzfPdY0sHV*akJhDejfsqNBJcv*A1wFT8j-fq23HwXTYjmU73vqSb5E0aNE7qt37KHBDFAuxVS0hBlW3HUDjqxVgs-5McEPdsM2IC6Jee9vcYpAJJ9B2RT&new=1)
+ > 作者 | 孙勇● ● ●由中国汽车流通协会与寰球汽车集团共同主办的“2021中国汽车消费论坛”，将于3月20日在北京举办。　　据了解，这是两家单位第二次联手举办中国汽车消费论坛，并将今年论坛的主题确定为：“开...
+ ## [诺基亚：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1615428004&ver=2939&signature=FMqGmjXKlpTSusMnqw1GzPQ5AB3Ku2q1xYmGq*NWMoLaLk89OPmayVaKwGgtJhwG986lLrTst*OZUDb-oJXWcZ6pgpdRrGtereyecPG2jjnmWL-kXFY80QcMPEPErCYd&new=1)
+ > 点击「创业派」，选择「设为星标」每晚大概9点10分，与30万创业者一起成长谁说卖掉手机业务就活不了了？大不了再转型呗。作者：杨凯来源：华商韬略（ID：hstl8888）商场如战场，可怕的不是断臂求生，而是因为没...
 # IT 技术 
  ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
  > 从头捋了一遍Epoll原理，收获颇丰！
@@ -27,28 +31,28 @@ categories: IT NEWS
  > 谷歌用 &quot;FLoC &quot;取代浏览器Cookie的做法被指责
  ## [什么是解决方案架构师？IT业务协调的关键角色](http://developer.51cto.com/art/202103/649121.htm)
  > 什么是解决方案架构师？IT业务协调的关键角色
- ## [Metasploit针对MSSQL服务安全测试实践课程](http://fellow.51cto.com/art/202101/642488.htm?qd=51ctojrzd)
- > Metasploit针对MSSQL服务安全测试实践课程
- ## [Java编程内功-数据结构与算法「环形链表与约瑟夫问题」](http://developer.51cto.com/art/202103/649429.htm)
- > 本篇继续给大家带来Java编程内功-数据结构与算法相关内容，今天主要介绍环形链表与约瑟夫问题的相关知识。
- ## [Java用poi完成Excel导出数据脱敏](http://os.51cto.com/art/202103/649418.htm)
- > 脱敏的百度百科的定义：是指对某些敏感信息通过脱敏规则进行数据的变形，实现敏感隐私数据的可靠保护。在涉
- ## [JVM源码分析-对象的创建过程](http://developer.51cto.com/art/202103/649417.htm)
- > 我们使用main函数创建School的一个对象，那么这个过程发生了哪些事情？在JVM内存中多了什么呢？让我们一起
- ## [监控公司 Verkada 确认遭大规模黑客入侵：已通知 FBI](http://netsecurity.51cto.com/art/202103/649411.htm)
- > 北京时间 3 月 11 日消息，监控摄像头公司 Verkada 周三表示，公司已就大规模黑客入侵事件联系了美国联邦调
- ## [微软 Windows10 21H1 ISO 官方镜像预览版 Build 19043 下载](http://os.51cto.com/art/202103/649409.htm)
- > 3月11日消息 外媒 Windows Latest 报道，如果你一直在等待 Windows 10 21H1 的 ISO 镜像，现在有一些好消息
- ## [人工智能专用SoC芯片IP需求分析](http://ai.51cto.com/art/202103/649410.htm)
- > 目前支持AI计算开发的半导体有独立加速器和 in-memory/near-memory 计算技术两种。独立加速器以某种方式连
- ## [学Linux到底学什么？在线Linux帮你低成本练习](http://os.51cto.com/art/202103/649408.htm)
- > 我们常常听到很多人说要学学Linux或者被人告知说应该学学Linux，那么学Linux到底要学什么?
- ## [CPU 空闲时在干嘛？](http://biz.51cto.com/art/202103/649413.htm)
- > 假设你正在用计算机浏览网页，当网页加载完成后你开始阅读，此时你没有移动鼠标，没有敲击键盘，也没有网络
- ## [分布式系统的 CAP 定理与 BASE 理论](http://developer.51cto.com/art/202103/649412.htm)
- > 最近在总结之前面试腾讯财付通考察注册中心的知识点，但写着写着发现有很多功能点需要基础理论铺垫，因此决
- ## [常见的垃圾回收器你知道有哪些吗？](http://developer.51cto.com/art/202103/649406.htm)
- > 作为一个 Java 开发，在面试的过程中垃圾回收器是经常会被问到的一个问题，随着 Java 的发展，垃圾回收器也
+ ## [PacketTracer GNS3和VMWare搭建网络学习环境视频课程](http://fellow.51cto.com/art/202101/641268.htm?qd=51ctojrzd)
+ > PacketTracer GNS3和VMWare搭建网络学习环境视频课程
+ ## [以AI为先的微软，为什么要停止对技术的过度称颂？](http://news.51cto.com/art/202103/649455.htm)
+ > 微软宣布已豪掷75亿美元收购游戏开发商B社母公司，进一步加码游戏业务。 这一系列的举动不仅让人好奇，微软
+ ## [一篇文章搞定Java字符串的基本操作知识](http://developer.51cto.com/art/202103/649452.htm)
+ > 本文主要介绍了字符串的转换、替换和删除空格、判断。字符串转换介绍了的方法，通过例子帮助理解这个字符串
+ ## [2021年确保业务成功的最具影响力的IT趋势](http://www.cioage.com/art/202103/649449.htm)
+ > 技术进步在许多方面影响着商业领域的发展。新技术、新兴技术以及经过测试的技术解决方案，将决定着全球各行
+ ## [美国零日漏洞市场不为人知的故事](http://netsecurity.51cto.com/art/202103/649448.htm)
+ > 零日漏洞是间谍工具与网络武器的原材料，由于国家资源的支撑，漏洞交易的利润巨大，这也是中间人从来不公开
+ ## [基于SpringBoot与数据库表记录的方式实现分布式锁](http://database.51cto.com/art/202103/649451.htm)
+ > 今天演示一下最简单的分布式锁方案――基于数据库表记录的分布式锁.
+ ## [4 个打造多媒体和共享服务器的开源工具](http://news.51cto.com/art/202103/649447.htm)
+ > 在 2021 年，人们喜欢 Linux 的理由比以往任何时候都多。在这个系列中，我将分享 21 个使用 Linux 的不同
+ ## [为创新应用铺路 全光网络从企业飞入寻常百姓家](http://network.51cto.com/art/202103/649446.htm)
+ > 从拨号上网到adsl，再到光纤入户，短短20多年时间家庭上网速度从56Kbps发展到如今的最高千兆宽带，我们亲身
+ ## [Firefox 86 将支持 “Total Cookie Protection”，限制通过跨网站 Cookie 共享追踪用户](http://netsecurity.51cto.com/art/202103/649442.htm)
+ > Mozilla正式发布Firefox 86火狐浏览器了，支持Linux、Windows和MacOS操作系统
+ ## [企业纷纷入局，迅速扩大5G专网“朋友圈”](http://network.51cto.com/art/202103/649439.htm)
+ > 步入2021年，业界对于5G专网的呼声越来越高。5G专网正在迈向技术成熟、应用百花齐放的阶段。
+ ## [微软 Windows10 Dev 预览版 21332 发布：《新闻和兴趣》又重新设计，删除三款预装应用](http://os.51cto.com/art/202103/649438.htm)
+ > 3月11日消息 今天，微软面向 Dev 预览通道发布了 Windows 10 Insider build 21332 系统更新。这个新构建版
  ## [一发入魂的音乐，如何来到你的耳边？](https://blog.csdn.net/m0_46163918/article/details/114637589)
  > 一发入魂的音乐，如何来到你的耳边？
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -80,39 +84,41 @@ categories: IT NEWS
  ## [MATLAB从入门到精通系列之几个实用小技巧](https://blog.csdn.net/wenyusuran/article/details/114088833)
  > MATLAB从入门到精通系列之几个实用小技巧
 # 人工智能 
- ## [用AI变革新药研发，终极目标是延缓衰老，这家创业公司迎来“里程碑”](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/114376886)
- > 用AI变革新药研发，终极目标是延缓衰老，这家创业公司迎来“里程碑”
- ## [谁说女生不适合当程序员？14 位顶尖 IT 技术女神驾到，共论成长之路！](https://blog.csdn.net/csdnnews/article/details/114396550)
- > 谁说女生不适合当程序员？14 位顶尖 IT 技术女神驾到，共论成长之路！
- ## [PyTorch 1.8 发布，支持 AMD，优化大规模训练](https://blog.csdn.net/HyperAI/article/details/114408315)
- > 
  ## [再探 Compose 版本的玩安卓](https://blog.csdn.net/haojiagou/article/details/114476160)
  > 再探 Compose 版本的玩安卓
  ## [只懂 Git 如何成为架构砖家？从代码的物理分析说起](https://blog.csdn.net/gmszone/article/details/114505149)
  > 只懂 Git 如何成为架构砖家？从代码的物理分析说起
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [Linux初期在中国的发展](https://blog.csdn.net/SeaCloudHill/article/details/114526981)
  > Linux初期在中国的发展
  ## [漫画：什么是 “锦标赛排序” ？](https://blog.csdn.net/bjweimengshu/article/details/114528400)
  > 漫画：什么是 “锦标赛排序” ？
  ## [喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖](https://blog.csdn.net/xufive/article/details/114530480)
  > 喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖
- ## [爬虫工程师想拿更高薪，这点不要忽略](https://blog.csdn.net/qq_41482589/article/details/114586382)
- > 爬虫工程师想拿更高薪，这点不要忽略
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [iOS 应用启动慢的原因找到了！](https://blog.csdn.net/csdnnews/article/details/114558457)
+ > iOS 应用启动慢的原因找到了！
+ ## [有关程序员的经典名言我知道的有这些！](https://blog.csdn.net/epubit17/article/details/114597332)
+ > 有关程序员的经典名言我知道的有这些！
+ ## [超详细傻瓜iPhone自定义来电铃声教程](https://blog.csdn.net/mydo/article/details/114603369)
+ > 超详细傻瓜iPhone自定义来电铃声教程
+ ## [使用 Flink 前需要知道的  10 个『陷阱』](https://blog.csdn.net/weixin_44904816/article/details/114610092)
+ > 使用 Flink 前需要知道的  10 个『陷阱』
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [新手学Python之学会查阅API文档](https://blog.csdn.net/herosunly/article/details/114534983)
- > 新手学Python之学会查阅API文档
+ ## [使用React Hooks 时要避免的5个错误！](https://blog.csdn.net/qq449245884/article/details/114624062)
+ > 
+ ## [人脸识别对动画无效，迪士尼打造动画专用人脸识别库](https://blog.csdn.net/HyperAI/article/details/114633786)
+ > 人脸识别对动画无效，迪士尼打造动画专用人脸识别库
+ ## [超好用的网站推荐（持续更新）](https://blog.csdn.net/xq151750111/article/details/114453144)
+ > 超好用的网站推荐（持续更新）
  ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
  > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
- ## [MATLAB从入门到精通系列之几个实用小技巧](https://blog.csdn.net/wenyusuran/article/details/114088833)
- > MATLAB从入门到精通系列之几个实用小技巧
- ## [TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌](https://blog.csdn.net/csdnnews/article/details/114581912)
- > TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌
 # PM 
+ ## [【产品经理免费公开课】2021高薪数据产品经理3步进阶攻略](http://www.chanpin100.com/article/113910)
+ > 2021年数据产品经理怎样才能做到高薪就业呢？数据产品经理的学习路线是怎样的呢？想知道这些内容的小伙伴，一定不可错过本期的免费公开课。
  ## [产品经理如何画流程图？](http://www.chanpin100.com/article/113883)
- > 产品经理技能讲解、产品新人必学。
+ > 之前我分享了如何用xmind来整理自己的思考，今天再分享如何把自己思考的功能，通过流程图的形式呈现出来。之所以要用流程图的形式呈现，主要是为了程序员好懂，也是便于更好管理自己的产品。
  ## [国内生鲜电商的发展趋势是怎么样的？](http://www.chanpin100.com/article/113907)
  > 生鲜电商指用电子商务的手段在互联网上直接销售生鲜类产品，是近些年开始流行起来的一种新模式，那么国内生鲜电商的发展趋势是怎么样的？本文一起探讨一下。
  ## [国内主流生鲜电商平台都有哪些](http://www.chanpin100.com/article/113906)
@@ -149,7 +155,5 @@ categories: IT NEWS
  > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。本文是产品经理面试题+解析汇总第十二章。
  ## [盒马五年 新零售已成“万花筒”](http://www.chanpin100.com/article/113864)
  > 过去的2020年，直播带货、社区团购成为舆论焦点，可很少人知道，已经提出五六年的新零售业态，已从当初的一种概念，变幻出各种各样的新形态。
- ## [能源管理可视化破冰而出 数字孪生打破传统运维僵局](http://www.chanpin100.com/article/113860)
- > 图扑软件（Hightopo）数据可视化平台可以搭建三维仿真地图，在地图上以三维立体模型、动画等方式展现能源企业业务范围、能源资源地理位置分布、仿真环境，并对接实时运营数据，以三维图形图表展现业绩数据等。
 
     
