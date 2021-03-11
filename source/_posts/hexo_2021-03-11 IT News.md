@@ -1,20 +1,22 @@
 ---
 title: 2021-03-11 IT News
 copyright: true
-date: 2021-03-11 08:06:01
+date: 2021-03-11 09:24:42
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [诺基亚：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1615420804&ver=2939&signature=FMqGmjXKlpTSusMnqw1GzPQ5AB3Ku2q1xYmGq*NWMoLaLk89OPmayVaKwGgtJhwGD3XsDbGnHkhwHFhtQU1jZSpy3iKFb06EgqHteq2FDdntIQImT8ui4dq1VNEa8DHM&new=1)
- > 点击「创业派」，选择「设为星标」每晚大概9点10分，与30万创业者一起成长谁说卖掉手机业务就活不了了？大不了再转型呗。作者：杨凯来源：华商韬略（ID：hstl8888）商场如战场，可怕的不是断臂求生，而是因为没...
- ## [开启用户运营新时代!2021中国汽车消费论坛即将举办|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1615420804&ver=2939&signature=708mOoHe4cyzfPdY0sHV*akJhDejfsqNBJcv*A1wFT8j-fq23HwXTYjmU73vqSb5ebJ1kyfheMGe9iotsaOgO3iri1Lu2FW2mPrg0TREyYdka4SXKfOrf6y7NTiVGYAo&new=1)
+ ## [开启用户运营新时代!2021中国汽车消费论坛即将举办|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1615424404&ver=2939&signature=708mOoHe4cyzfPdY0sHV*akJhDejfsqNBJcv*A1wFT8j-fq23HwXTYjmU73vqSb5xDT2oHerrKi8p49CjeG-GlHFfcIRYvUGJ5JRceXCVNTVpECijh2vkz-7pQn3PiiI&new=1)
  > 作者 | 孙勇● ● ●由中国汽车流通协会与寰球汽车集团共同主办的“2021中国汽车消费论坛”，将于3月20日在北京举办。　　据了解，这是两家单位第二次联手举办中国汽车消费论坛，并将今年论坛的主题确定为：“开...
- ## [一文简单读懂5G核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615420804&ver=2939&signature=wFZi4PRwtQjXDUF6PKwoxal7gKiGxy4UBP*gvNSXMggBXvNPSOmdYHBai0S8xl*IRHg6zWCBDUJaK1npFBVcfPpXdudywY45oWNaLOKUNxzb6pK98h13tvbe879lCJaH&new=1)
+ ## [诺基亚：你以为它死了，其实它已重回世界第二](http://mp.weixin.qq.com/s?src=11&timestamp=1615424404&ver=2939&signature=FMqGmjXKlpTSusMnqw1GzPQ5AB3Ku2q1xYmGq*NWMoLaLk89OPmayVaKwGgtJhwG1nlzXmuc5n1VWaIFuYA6zErEIetQnzBpEchznrPe5xQkhJvMb4wkGS9obnBE5YBf&new=1)
+ > 点击「创业派」，选择「设为星标」每晚大概9点10分，与30万创业者一起成长谁说卖掉手机业务就活不了了？大不了再转型呗。作者：杨凯来源：华商韬略（ID：hstl8888）商场如战场，可怕的不是断臂求生，而是因为没...
+ ## [一文简单读懂5G核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615424404&ver=2939&signature=wFZi4PRwtQjXDUF6PKwoxal7gKiGxy4UBP*gvNSXMggBXvNPSOmdYHBai0S8xl*I1gRrs8ju-36kcuXsGRUIqzzMoyG62KycZaeZSRJhr0pxFzZeb8l02FTchWwDpUwP&new=1)
  > 系统架构 在5GC中，每个节点称为网络功能（NF），下面简要介绍一下每个NF的名称及功能。• NSSF（网络切片选择功能）管理网络切片相关信息，比如负责为终端选择网络切片• AUSF（认证服务器功能）完成用户接入的...
 # IT 技术 
  ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
  > 从头捋了一遍Epoll原理，收获颇丰！
+ ## [【廉环话】防疫一周年后的IT项目管理思考 --需求评估](http://www.cioage.com/art/202103/649353.htm)
+ > 【廉环话】防疫一周年后的IT项目管理思考 --需求评估
  ## [您了解分区存储吗？现在该使用它了](http://stor.51cto.com/art/202103/649352.htm)
  > 您了解分区存储吗？现在该使用它了
  ## [无服务安全性的策略、工具和实践](http://server.51cto.com/sSecurity-649123.htm)
@@ -25,32 +27,30 @@ categories: IT NEWS
  > 谷歌用 &quot;FLoC &quot;取代浏览器Cookie的做法被指责
  ## [什么是解决方案架构师？IT业务协调的关键角色](http://developer.51cto.com/art/202103/649121.htm)
  > 什么是解决方案架构师？IT业务协调的关键角色
- ## [深夜，一个程序从虚拟机跑了出来...](http://virtual.51cto.com/art/202103/649127.htm)
- > 深夜，一个程序从虚拟机跑了出来...
- ## [MySQL逻辑备份恢复实战2之mydumper_MySQL数据库备份与恢复04](http://fellow.51cto.com/art/202012/634847.htm?qd=51ctojrzd)
- > MySQL逻辑备份恢复实战2之mydumper_MySQL数据库备份与恢复04
+ ## [Metasploit针对MSSQL服务安全测试实践课程](http://fellow.51cto.com/art/202101/642488.htm?qd=51ctojrzd)
+ > Metasploit针对MSSQL服务安全测试实践课程
+ ## [Java编程内功-数据结构与算法「环形链表与约瑟夫问题」](http://developer.51cto.com/art/202103/649429.htm)
+ > 本篇继续给大家带来Java编程内功-数据结构与算法相关内容，今天主要介绍环形链表与约瑟夫问题的相关知识。
+ ## [Java用poi完成Excel导出数据脱敏](http://os.51cto.com/art/202103/649418.htm)
+ > 脱敏的百度百科的定义：是指对某些敏感信息通过脱敏规则进行数据的变形，实现敏感隐私数据的可靠保护。在涉
+ ## [JVM源码分析-对象的创建过程](http://developer.51cto.com/art/202103/649417.htm)
+ > 我们使用main函数创建School的一个对象，那么这个过程发生了哪些事情？在JVM内存中多了什么呢？让我们一起
+ ## [监控公司 Verkada 确认遭大规模黑客入侵：已通知 FBI](http://netsecurity.51cto.com/art/202103/649411.htm)
+ > 北京时间 3 月 11 日消息，监控摄像头公司 Verkada 周三表示，公司已就大规模黑客入侵事件联系了美国联邦调
  ## [微软 Windows10 21H1 ISO 官方镜像预览版 Build 19043 下载](http://os.51cto.com/art/202103/649409.htm)
  > 3月11日消息 外媒 Windows Latest 报道，如果你一直在等待 Windows 10 21H1 的 ISO 镜像，现在有一些好消息
  ## [人工智能专用SoC芯片IP需求分析](http://ai.51cto.com/art/202103/649410.htm)
  > 目前支持AI计算开发的半导体有独立加速器和 in-memory/near-memory 计算技术两种。独立加速器以某种方式连
+ ## [学Linux到底学什么？在线Linux帮你低成本练习](http://os.51cto.com/art/202103/649408.htm)
+ > 我们常常听到很多人说要学学Linux或者被人告知说应该学学Linux，那么学Linux到底要学什么?
+ ## [CPU 空闲时在干嘛？](http://biz.51cto.com/art/202103/649413.htm)
+ > 假设你正在用计算机浏览网页，当网页加载完成后你开始阅读，此时你没有移动鼠标，没有敲击键盘，也没有网络
+ ## [分布式系统的 CAP 定理与 BASE 理论](http://developer.51cto.com/art/202103/649412.htm)
+ > 最近在总结之前面试腾讯财付通考察注册中心的知识点，但写着写着发现有很多功能点需要基础理论铺垫，因此决
  ## [常见的垃圾回收器你知道有哪些吗？](http://developer.51cto.com/art/202103/649406.htm)
  > 作为一个 Java 开发，在面试的过程中垃圾回收器是经常会被问到的一个问题，随着 Java 的发展，垃圾回收器也
- ## [联通电信辟谣首批5G用户被抛弃：不可能采取一刀切激进做法](http://network.51cto.com/art/202103/649403.htm)
- > 针对外界谣传的“首批千万5G用户被当作小白鼠，运营商已无情抛弃”，联通、电信方面回应称，不可能采取一刀
- ## [陪了大家20多年的技术要被干掉了 你以后看到的广告会变少吗？](http://os.51cto.com/art/202103/649402.htm)
- > 最近，谷歌公布了这么一个消息。公告还挺长的，主要说的是：谷歌将淘汰第三方 Cookie ，且此后不会建立替代
- ## [加速6G布局，卫星互联网或将成为关键](http://network.51cto.com/art/202103/649401.htm)
- > 在此背景下，工信部新闻发言人田玉龙表示，2021年我国发展的重点，一是有序推进5G网络建设，二是加快6G的布
- ## [直击智能技术：UWB将如何为未来的物联网技术增加新的维度](http://iot.51cto.com/art/202103/649400.htm)
- > 许多主要消费品牌都开始将UWB（超宽带）技术接入智能家居、企业和车辆当中。UWB独有的优势使其将在未来物联
- ## [Linux中消息队列的使用](http://os.51cto.com/art/202103/649304.htm)
- > 今天带小伙伴们学习了消息队列相关的内容，先简单介绍下消息队列，然后对消息队列相关的结构及函数进行学习
- ## [iPhone拍的照片电脑打不开？Windows10需要这样做](http://os.51cto.com/art/202103/649398.htm)
- > 最近有朋友向笔者吐槽，iPhone拍的照片放到电脑后，竟然打不开，这究竟是怎么回事？那么Windows10要如何才
- ## [Windows10又出Bug！更新导致备份损坏摄像头故障](http://os.51cto.com/art/202103/649360.htm)
- > Win10自发布以来，一直问题不断，甚至被部分用户戏称为“Bug10”。现在，Win10又出问题了！上个月Win10推送
- ## [十二年了，阿里云终于盈利了](https://blog.csdn.net/m0_46163918/article/details/114636819)
- > 十二年了，阿里云终于盈利了
+ ## [一发入魂的音乐，如何来到你的耳边？](https://blog.csdn.net/m0_46163918/article/details/114637589)
+ > 一发入魂的音乐，如何来到你的耳边？
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -111,6 +111,8 @@ categories: IT NEWS
  ## [TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌](https://blog.csdn.net/csdnnews/article/details/114581912)
  > TIOBE 3 月编程语言：Swift 一路低走，Java 份额大跌
 # PM 
+ ## [产品经理如何画流程图？](http://www.chanpin100.com/article/113883)
+ > 产品经理技能讲解、产品新人必学。
  ## [国内生鲜电商的发展趋势是怎么样的？](http://www.chanpin100.com/article/113907)
  > 生鲜电商指用电子商务的手段在互联网上直接销售生鲜类产品，是近些年开始流行起来的一种新模式，那么国内生鲜电商的发展趋势是怎么样的？本文一起探讨一下。
  ## [国内主流生鲜电商平台都有哪些](http://www.chanpin100.com/article/113906)
@@ -149,7 +151,5 @@ categories: IT NEWS
  > 过去的2020年，直播带货、社区团购成为舆论焦点，可很少人知道，已经提出五六年的新零售业态，已从当初的一种概念，变幻出各种各样的新形态。
  ## [能源管理可视化破冰而出 数字孪生打破传统运维僵局](http://www.chanpin100.com/article/113860)
  > 图扑软件（Hightopo）数据可视化平台可以搭建三维仿真地图，在地图上以三维立体模型、动画等方式展现能源企业业务范围、能源资源地理位置分布、仿真环境，并对接实时运营数据，以三维图形图表展现业绩数据等。
- ## [B端产品状态的设计](http://www.chanpin100.com/article/113858)
- > 在B端产品设计中，很多人觉得“状态”的设计非常简单，只不过是几个简短的词汇。但是知易行难，实际上是有很多注意要点的，也会有很多坑。
 
     
