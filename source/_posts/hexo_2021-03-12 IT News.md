@@ -1,24 +1,28 @@
 ---
 title: 2021-03-12 IT News
 copyright: true
-date: 2021-03-12 08:08:22
+date: 2021-03-12 09:16:46
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [联通终于公布5G用户数，中国过亿5G用户仍然用着4G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1615507205&ver=2941&signature=CjspuTTOmJn5JO2J3kmwSsglNsWF6B6nFpyQHB200B7dXbYnFshTuzmB0ldgjdoBhFUc1CnTJQ4hXG2pXbnzNZqMra1Yujx-ZRKq003ddqft8Jw5*EClg-wxJD6f-sF0&new=1)
- > 中国联通终于公布了它的5G用户数，2020年底达到7083万，加上另外两家运营商的5G用户数已超过3.2亿，然而如果与中国市场销售的5G手机数量相比，就会发现其中有过亿5G用户仍然用着4G手机。此前中国移动、中国电信...
- ## [7083万5G套餐用户数!2021年新增5G基站数32万!中国联通发布2020年度业绩](http://mp.weixin.qq.com/s?src=11&timestamp=1615507205&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*0yCs2QWXJaVC8eXJECB--ijkCJbmm09eGBxdmHnmnJSsXz64h8HuXd7rkmGcunggIR4VtUFgt0kSaiU4YpnygN&new=1)
- > 3月11日，中国联通发布2020年度业绩。报告显示，中国联通2020年服务收入为人民币2758亿元，同比增长4.3%，领先行业平均的3.6%；净利润为125亿元，同比增长10.3%。报告中首次公布了中国联通5G套餐用户数，截至202...
- ## [聚焦物流设备的预测性维护](http://mp.weixin.qq.com/s?src=11&timestamp=1615507205&ver=2941&signature=fdXJx9loMvT6czfZgFn5Kd3i7OwVDrbDFZsxuMOclff-NV6t7*prpgbC4Ql7DI11CwbCpD7d9N27p*fy8weFDOgQB3vdTlR5n5HJB2qT9ksJfGpOaKMxGHNruVWOXC4Z&new=1)
+ ## [聚焦物流设备的预测性维护](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=fdXJx9loMvT6czfZgFn5Kd3i7OwVDrbDFZsxuMOclfdorWNm7ONx7iDSKxk3aWMEXMRtNFMAZPBFAQ*a2zyR2-4cgPv*HrEMZ01HGnTkGlJNmMDagnPuLgiT2S*xA9ve&new=1)
  > 近年来，国内物流系统建设项目大幅增加，应用在各个行业领域的物流设备数量急剧上升。目前，设备发生故障后的紧急抢修、定期维护保养是最常采用的物流设备维保服务模式。随着物联网技术和信息技术的快速发展，物...
- ## [菲律宾运营商Globe谈5G：发力FWA业务，升级融合核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615507205&ver=2941&signature=8Q573SiwNGkLySbPnrgMM1j2bv177MY5hBbMnrldxshUq7XDZx3bJjNQ6V1Sgxuc5qquA-HaCUxsQivwA7SfvJ4-vYVYUfK5p*6jXQDozcM07-kZKxxyzDde3MCXLJZ1&new=1)
+ ## [联通终于公布5G用户数，中国过亿5G用户仍然用着4G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=CjspuTTOmJn5JO2J3kmwSsglNsWF6B6nFpyQHB200B5Pd6BVOVJajSWLsyq-FFziIQIJBg7kwTrPtqXRl1Hmc5DDNlr75ZPUZYjevEOnjohX9jYdqxDk*f7vzqCgVmxy&new=1)
+ > 中国联通终于公布了它的5G用户数，2020年底达到7083万，加上另外两家运营商的5G用户数已超过3.2亿，然而如果与中国市场销售的5G手机数量相比，就会发现其中有过亿5G用户仍然用着4G手机。此前中国移动、中国电信...
+ ## [7083万5G套餐用户数!2021年新增5G基站数32万!中国联通发布2020年度业绩](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*2NFFpyG2O69GJrkIKKV*QmokW5aaxCGoACV2J8*ZATUkRgbgUsrjm2N2KiuwHL46-wXUklQpV7qTeZk-2HaoH8&new=1)
+ > 3月11日，中国联通发布2020年度业绩。报告显示，中国联通2020年服务收入为人民币2758亿元，同比增长4.3%，领先行业平均的3.6%；净利润为125亿元，同比增长10.3%。报告中首次公布了中国联通5G套餐用户数，截至202...
+ ## [菲律宾运营商Globe谈5G：发力FWA业务，升级融合核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=8Q573SiwNGkLySbPnrgMM1j2bv177MY5hBbMnrldxshOk-M5VKdnCISQlHpBmllgyc3U9C92mdTGr-SDSaM972**M1bWYPAKdDcqlmZc1ZEUWdjvjXqaQk7tzEuZMI6h&new=1)
  > 2020年5G高速发展，截至2020年底，全球有149家运营商在57个国家和地区商用5G网络。截至目前，中国累计开通5G基站超80万个，5G手机终端连接数突破2亿户，成为全球最大的5G市场。大家也许很好奇，除韩国、中国等在...
- ## [TCL寻求一家合资企业，成立自己的半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615507205&ver=2941&signature=k2VktiUXCAfzRaJB9tbUkRFWcAgSrsgtGyCgHBaKn2cWsWbG3lGEdNugM5xfPvMm4vL5xRT8W3Knqbgu23NEV1qKD-PZsCKrXyw*OuvAXQonbhcdW5K*wNQ7HMUg*I2A&new=1)
+ ## [TCL寻求一家合资企业，成立自己的半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=k2VktiUXCAfzRaJB9tbUkRFWcAgSrsgtGyCgHBaKn2eLwLijAxj3EywxMBF6niBzGxC-aDDPF5oZGfWdQslLbsH7bGYaFNHckAPNjBXjU9*FG0DUpD2Ir3GOs7GdyUGv&new=1)
  > 本周早些时候，TCL Technology宣布计划成立一家合资公司，以建立自己的基于半导体技术的公司TCL Semiconductor Technology CoLtd。根据163News的报道，该公司寻求向半导体产业发展，甚至提出了10亿
 # IT 技术 
+ ## [今天我才知道Redis有7种数据类型...](http://stor.51cto.com/art/202103/649648.htm)
+ > 今天我才知道Redis有7种数据类型...
  ## [如何快速验证您的Kubernetes配置文件？](http://developer.51cto.com/art/202103/649640.htm)
  > 如何快速验证您的Kubernetes配置文件？
+ ## [2021年新兴的十大区块链技术趋势](http://blockchain.51cto.com/art/202103/649639.htm)
+ > 2021年新兴的十大区块链技术趋势
  ## [【廉环话】防疫一周年后的IT项目管理思考 -- 需求评估](http://www.cioage.com/art/202103/649353.htm)
  > 【廉环话】防疫一周年后的IT项目管理思考 -- 需求评估
  ## [稳定性保障6步走：高可用系统大促作战指南](http://zhuanlan.51cto.com/art/202103/649237.htm)
@@ -27,34 +31,30 @@ categories: IT NEWS
  > 您了解分区存储吗？现在该使用它了
  ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
  > 从头捋了一遍Epoll原理，收获颇丰！
- ## [音频处理问题难？快使用Tensorflow构建一个语音识别模型](http://developer.51cto.com/art/202103/649301.htm)
- > 音频处理问题难？快使用Tensorflow构建一个语音识别模型
- ## [一次深夜优化MySQL亿级数据分页的奇妙经历](http://database.51cto.com/art/202103/649471.htm)
- > 一次深夜优化MySQL亿级数据分页的奇妙经历
- ## [Oracle RMAN备份恢复3（项目篇）_Oracle备份恢复与数据迁移教程05](http://fellow.51cto.com/art/202012/637146.htm?qd=51ctojrzd)
- > Oracle RMAN备份恢复3（项目篇）_Oracle备份恢复与数据迁移教程05
- ## [餐饮机器人迎来市场发力期](http://ai.51cto.com/art/202103/649691.htm)
- > 近年来，在机器人产业发展如火如荼的情况下，餐饮传统行业逐渐焕发第二春。“机器换人”所带来的“餐饮无人
- ## [朝鲜黑客利用关键零日漏洞对Windows 10下手：微软正面解决](http://netsecurity.51cto.com/art/202103/649690.htm)
- > 微软终于出手，封掉了Windows 10上的一个零日漏洞，要知道这个漏洞之前被朝鲜黑客疯狂利用。
- ## [详解Argo Workflows-Kubernetes的工作流引擎](http://os.51cto.com/art/202103/649689.htm)
- > Argo Workflows是一个开源项目，为Kubernetes提供container-native工作流程，其主要通过Kubernetes CRD实现
- ## [比特币暴涨重回巅峰！专家：将加剧芯片短缺、危及环境安全](http://blockchain.51cto.com/art/202103/649687.htm)
- > 前几天，美图公司正式发布公告称，公司购买了大概2.6亿元的比特币、以太币，这也是继特斯拉之后第一家中国
- ## [比特币价格重新大涨 微博突然封杀三大交易所](http://blockchain.51cto.com/art/202103/649685.htm)
- > 奇怪的是，今天微博突然封杀了三大交易平台的微博账号，消息称国内三大加密货币交易所火币网、欧易（原OKEx
- ## [微信再更新：以后咱们能在电脑上刷朋友圈了](http://mobile.51cto.com/app-show-649684.htm)
- > 今天世超刷微博的时候看到一条消息：微信 Mac 版更新到 3.0.0 了。不过，目前不是全量推送，只有小部分用户
- ## [bug 守恒定律再现：微软承认最新Windows10 更新会致使某些用户电脑蓝屏死机，正努力修复](http://os.51cto.com/art/202103/649683.htm)
- > 3月12日消息 微软现在已确认 2021 年 3 月的累积更新对连接到某些打印机的电脑造成严重影像。此前有用户反
- ## [Edge这隐藏功能太给力！让Edge浏览器瞬间秒开](http://os.51cto.com/art/202103/649682.htm)
- > 近日微软面向全体Windows 10用户，推送了新版Edge浏览器，“竖向标签栏”自然成为最亮眼的那个点。其实除了
- ## [ASP.NET Core Api网关Ocelot初探](http://network.51cto.com/art/202103/649649.htm)
- > Ocelot面向使用.NET运行微型服务/面向服务的体系结构的人员，这些体系结构需要在系统中具有统一的入口点。
- ## [今年的5G手机，必须具备这些功能！](http://network.51cto.com/art/202103/649647.htm)
- > 近期，移动和联通双双发布了更新版的5G手机白皮书，大体勾勒出了5G手机的能力，相当于对手机厂商提出了明确
- ## [追平台积电，中芯国际部分订单已排至明年](https://blog.csdn.net/weixin_39787242/article/details/114663260)
- > 追平台积电，中芯国际部分订单已排至明年
+ ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
+ > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [开源云盘利器：Nextcloud 21私有云盘搭建](http://os.51cto.com/art/202103/649705.htm)
+ > 这款产品就不多介绍了，进来看的小伙伴多少有点了解，就直接进入正题，如果有不了解的小伙伴可以自行查阅，
+ ## [92 年百度程序员被抓，给我们警示什么？](http://news.51cto.com/art/202103/649702.htm)
+ > 今天看到一条新闻，一个 92 年的百度程序员，为了 “挣外快”，越权干起了业务审核部门的活。通过编写脚本
+ ## [帮你精通JS: 函数式array.forEach的8个案例](http://developer.51cto.com/art/202103/649701.htm)
+ > JavaScript是当今流行语言中对函数式编程支持最好的编程语言。我们继续构建函数式编程的基础，接下来，我
+ ## [LeetCode题解之跳跃游戏](http://developer.51cto.com/art/202103/649699.htm)
+ > 给定一个非负整数数组 nums ，你最初位于数组的 第一个下标 。数组中的每个元素代表你在该位置可以跳跃的最
+ ## [新型Ryuk勒索软件变种具备自我传播能力](http://netsecurity.51cto.com/art/202103/649697.htm)
+ > 法国国家网络安全机构 ANSSI 的专家近日发现了一种新型 Ryuk 勒索软件变种，该变种增加了蠕虫的功能，可以
+ ## [Gartner：数据中台需要组装式数据分析体验](http://bigdata.51cto.com/art/202103/649695.htm)
+ > 根据Gartner的预测，到2023年60%的企业机构将组装三个或更多分析解决方案中的组件，从而建立以决策为导向的
+ ## [起因222个摄像头，特斯拉工厂教会IoT行业的事](http://iot.51cto.com/art/202103/649696.htm)
+ > 所有的迹象都表明，全球范围内，从政府采购、消费者购买到制造商本身，都处于一个物联网安全意识增长的阶段
+ ## [美运营商确认仅高级用户可享受C频段5G信号](http://network.51cto.com/art/202103/649694.htm)
+ > 据外媒报道，有消息人士确认，美国电信运营商Verizon旗下用户需开通Premium Unlimited不限量高级流量套餐才
+ ## [我们这一课讨论主从复制(Primary/Backup Replication)](http://developer.51cto.com/art/202103/649693.htm)
+ > 这一课讨论关于容错(Fault-Tolerance)和复制(Replication)的问题，主要研究 VMware FT 的论文 ―― The Des
+ ## [Kubernetes生产实践之Redis-cluster](http://os.51cto.com/art/202103/649692.htm)
+ > 在Kubernetes中部署Redis集群面临挑战，因为每个Redis实例都依赖于一个配置文件，该文件可以跟踪其他集群实
+ ## [因代码泄密，苹果将在电脑上使用人脸识别](https://blog.csdn.net/weixin_39787242/article/details/114663304)
+ > 因代码泄密，苹果将在电脑上使用人脸识别
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
