@@ -1,66 +1,82 @@
 ---
 title: 2021-03-12 IT News
 copyright: true
-date: 2021-03-12 12:10:31
+date: 2021-03-12 17:14:43
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [诺基亚：你以为它死了，其实它已重回世界第二!](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=q0kYVh1UlzQLgYSM0bZx*g6xUkhjVJSa8r-cF2D-ssA1EtpNSUiVnqLX-5sRFT0CtuQZ7d9lYDQagg4TwUjssHt3Ol1xACJIRkrhDfCyRWWkNmnYNUB7j0UYiYEBbSvW&new=1)
- > 商场如战场，可怕的不是断臂求生，而是因为没有断臂求生的魄力最后搞得满盘皆输。毕竟，只有活下去才有翻盘的机会。01“你才是诺基亚，你全家都是诺基亚”2013年9月2日是诺基亚手机的“最后一天”。经过数轮艰难...
- ## [近半数美国人认为其公司在疫情期间应对网络安全威胁不力](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=V157Ih0Xnfn6AnWnOrUO2TuURqlnNJCQZzb1H2oLp30BiyecMC4U-CKOpg7m6v3a*YFULVWdhzptsqb-bSrZhzQb15j5MoF49XPGU905-a0o9yhRd5b5teH9juqms*Mr&new=1)
- > E安全3月12日讯 一项新的调查显示，超过一半的美国人认为，他们的公司在应对全球新冠疫情期间的网络安全问题不力。2月，科技公司 Lynx Software 向大流行期间受雇的1,000名美国人询问了自COVID-19爆发以来其雇主...
- ## [TCL寻求一家合资企业，成立自己的半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=k2VktiUXCAfzRaJB9tbUkRFWcAgSrsgtGyCgHBaKn2dIWuI3AoAOlh4r1MjeKIvjVrxtbHi2oefnis6WC8LSXrx0DZ2iijx6KJR1v-8SG1PH2XVmo0C*Uh-Eo0hldDzu&new=1)
- > 本周早些时候，TCL Technology宣布计划成立一家合资公司，以建立自己的基于半导体技术的公司TCL Semiconductor Technology CoLtd。根据163News的报道，该公司寻求向半导体产业发展，甚至提出了10亿
- ## [7点见|小米将回购百亿港元股份；货拉拉宣布上线录音录像功能](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=IXsSotBmGjMhTWPDmLw4WVSWis7D9AG1RcS*83LIy6luItWH*XtFex7QbpCy4*keUHf8ZaZgcDtvftdWcMcETtQ0zHa7EiawmQUcMJ3YiF2l2OvvAEuk27ctRI7qu1LM&new=1)
- > 各位小伙伴早上好呀！今年两会期间，5G手机、5G录音笔等几乎成为上会记者“标配”。人民网记者配备的一款基于高通5G解决方案的直播背包格外吸引眼球。这款背包类似一台小型电脑，搭配外接摄像机，直播背包就可轻...
- ## [\[报告\]2021年2月汽车工业经济运行情况(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=UUO7uEzt2VpVQ3hnIT1GKlsBuXujny*Tvyj6ll-dkUaZkv6uk0Qu-xqduj*QjYhNtjbSMTmSkPDYkXwG2rrwbnfeJMUG29U3sOROqMELR0-xwMbFq0SQCks*qsPjH9U*&new=1)
+ ## [拥有大量技术的微软，为何不再吹嘘技术本身?](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=odTlVxxPhTwghiVq1Ooq1Uwsl-ZohxwFcH0YQywA2TU7wGZjaEgzX4HCN8BP8LG05CxfkMif7y7Zp5jedk2YYq-CmcJizR6kusg603HWXEsPrit4h1o*7hh*dx8N*oVs&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作近期，美国科技巨头微软公司动作频频。自今年2月下旬起，微软就和新闻媒体及出版商“抱团”向谷歌和Facebook施压，要求这些公司对新闻内容付费。3月12日，微软将以“...
+ ## [数智方案为利刃，开辟零售新纪元\[有奖互动\]](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=m1QBqgoVd-*naMnDiMCan4UAoEzhCGwTXJqE2PUiTkAXF-tXu0FyJWenfCClK3lJlV4RwqRKhjxGjk7f6b93UrkabR4focapKAIcY1t4p-2bjaVt86YwEf5mrft3zCiX&new=1)
+ > （本文阅读时间：2分钟）推荐阅读华山论“见”训练场 | 三大秘技将安全威胁消除于无形深入思考：医疗数字化创新的趋势在哪？这里有一个免费试用 Surface Pro 7+ 商用版的机会，等你来！精彩活动炸裂！微软重磅推...
+ ## [求推荐，可以突破公司对一些网站的屏蔽的软件或方法?](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=qj4mTaLbYf2G5UHaUnVN9r6FB2B9a23MXcvdlQRKkS2so4W6ErXDog45Zgyfo8hbc5U-gHC34PQg0shnV0dmMdS4V-Rt3bN-E3h9GwGHO-LI4bfeTtjf8u63EgAHFmVb&new=1)
+ > 这是一个很有意思的问题，来自问题频道：求推荐，可以突破公司对一些网站的屏蔽的软件或方法？这个问题原来是这样的：公司对一些娱乐性的网站进行了屏蔽，如斗鱼、网易云等等，关键是，B站也给屏蔽。。。我上班...
+ ## [大量数据丢失且无法恢复!欧洲云服务巨头数据中心起火](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=iCfS9Gotzcc7Ek9Rgilchd-WlIu5zBStz2VyqYwSQRnVHxA8QYdRIqukp*dqncvw7*PFelB20I*SVs4Lq2N9F9XNzYSfvWHB1V-1yiVP5ghDXU*AFSAFqtmIsYUqCcUS&new=1)
+ > 数据中心起火事件频频发生，这次 OVH 数据中心被大火烧毁又堪称是数据中心历史上史无前例的灾难性事件，数据中心到底该如何保护呢？作者 | 郑丽媛出品 | CSDN（ID：CSDNnews）报！请注意，你的数据正在燃烧，且...
+ ## [纵维立方与未知大陆签订广告服务协议，共推桌面3D打印机](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=lZO1x6oAwQTmBBhNJNyeavDaD88ena5ctdM2fOReqpPhTs-ayw5crkrCPjnJz-RgyvrPMyjZUmtCCM--bfq675Ta-51Fz8M3iWzTRvDO7Nllbg6UoZoYZsHiykEQugA3&new=1)
+ > 2021年2月18日，纵维立方与未知大陆签订广告服务协议，将共同推广桌面3D打印机到消费者市场。纵维立方是专业的3D打印机生产制造商，具有极强的研发销售能力，2016年即开启了海内外自主品牌之路，目前公司业务范...
+ ## [关注两会焦点，这个平台带你全面了解5G行业应用](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*1-SuimbHuUNpmSja*670bh4mfuhn5wCPW-dqYYbY5Sct4WzXZ9Qw2PCt74Q-D48YKj1hEHWP7ZkR7gB6EmAvXw&new=1)
+ > 今年两会期间，5G再度成为关键热词。继去年政府工作报告提出“拓展5G应用”，今年的政府工作报告再次提到5G应用，强调“加大5G网络和千兆光网建设力度，丰富应用场景”。大家都知道，5G的最大价值在于以丰富多彩...
+ ## [为什么管理数据中心中的加密将会越来越难](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=wU5JpI2TBhffSF3Lp6nwBfOsH6byVcbHZUX6L--pL6J1tt82d2T36F0nRiIPuW8D9JiQ*hjB-gldtzegh2d0Bw8Sti*5Od1XkbP8yWizv9sidcaX3SxYWtcMOe48W3pw&new=1)
+ > 关键讯息，D1时间送达！组织需要知道谁负责所有密钥。其他痛点包括缺乏熟练的人员以及孤立或零散的密钥管理系统。加密技术在不断发展，要在所有加密算法上保持领先地位是一个挑战。加密涉及一些繁重复杂的数学运...
+ ## [Microsoft Ignite China 课程看点大揭秘!](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=m1QBqgoVd-*naMnDiMCan4UAoEzhCGwTXJqE2PUiTkDUgTox8xXLY7siWmyzJ6uuOmjoU-hDUp0hbP28Wy197Yxc94s6w7Ve0R3tliH4XHdBsdVG2Siwt906YBFG4PJT&new=1)
+ > （本文阅读时间：5分钟）科技予力众生，加速企业数字化转型，科技发展风向标——Microsoft Ignite 全球技术大会将于3月2-4日展开。为中国定制的 Microsoft Ignite China 也正如火如荼热烈报名中。微软公司首席
+ ## [初鉴初创：中国网络安全创业公司HOT51](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=wMw0iluwvzlTX0AaT4QdgSp*aGmQRohrNzqQWNVftMGwkFS1RBCW2VDdAe80u5JDE9893T7MLyHcM61gchB6zJpwTyNRd5rhNhbtv29kdY0fvj8Rn6XVjCCpifq4ggrr&new=1)
+ > 近年来网络安全产业发展迅速，整体市场规模逐年攀升，从企业数量、市场规模、收入水平等方面都有着明显发展。网络安全企业的百家争鸣，推动了行业的迅速发展，同时产生的大量新的市场需求。新安全厂商不断涌现，...
+ ## [\[报告\]2021年2月汽车工业经济运行情况(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=UUO7uEzt2VpVQ3hnIT1GKlsBuXujny*Tvyj6ll-dkUbB44emYFbTlPzztSXKWggiqzNotNzz4uIGNygleE5G0e99i-DU7BzBOSa0lT1N4vro9DJAT6bgEgVUz*D9Ix0U&new=1)
  > 2月，汽车产销分别完成150.3万辆和145.5万辆，环比分别下降37.1%和41.9%，同比分别增长4.2倍和3.6倍。本月产销同比呈现大幅增长的原因有两点，一是2020年2月受疫情影响导致产销基数水平较低，二是当前市场需求仍...
- ## [联通终于公布5G用户数，中国过亿5G用户仍然用着4G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=CjspuTTOmJn5JO2J3kmwSsglNsWF6B6nFpyQHB200B6W8N51GyLwpKAJO4ViaKBFnUKMSxUFHcTEmeiGFlo4vsQd2RXSspiLanOlzXDBfSOxrmUmtPLj83L3n9vc5oiG&new=1)
+ ## [近半数美国人认为其公司在疫情期间应对网络安全威胁不力](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=V157Ih0Xnfn6AnWnOrUO2TuURqlnNJCQZzb1H2oLp31HsrJG4f*SnzL*UneIWoZliq0DW4IGAZHM2PELYfxZvdFpDVdA*OhCBo-V*GNC7ZvcAVxXfIL3K1anHcf0F2-U&new=1)
+ > E安全3月12日讯 一项新的调查显示，超过一半的美国人认为，他们的公司在应对全球新冠疫情期间的网络安全问题不力。2月，科技公司 Lynx Software 向大流行期间受雇的1,000名美国人询问了自COVID-19爆发以来其雇主...
+ ## [7点见|小米将回购百亿港元股份；货拉拉宣布上线录音录像功能](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=IXsSotBmGjMhTWPDmLw4WVSWis7D9AG1RcS*83LIy6l0YGI8JTkiX5l9aAQqRT0c21RTGSkyt1u6Z4CB1ebZZGf0c7iHN2qZR1uR6G0h4lt5*HZzckgOfnAws1XXFVS5&new=1)
+ > 各位小伙伴早上好呀！今年两会期间，5G手机、5G录音笔等几乎成为上会记者“标配”。人民网记者配备的一款基于高通5G解决方案的直播背包格外吸引眼球。这款背包类似一台小型电脑，搭配外接摄像机，直播背包就可轻...
+ ## [诺基亚：你以为它死了，其实它已重回世界第二!](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=q0kYVh1UlzQLgYSM0bZx*g6xUkhjVJSa8r-cF2D-ssBY9vk2AEI7cvwhQajNX82CdZ04wuIfEK0MenzqqPUoJLv*F89ZfMwzDN3DAQvxxYTxiAqBqPqETODNkXwFPaxx&new=1)
+ > 商场如战场，可怕的不是断臂求生，而是因为没有断臂求生的魄力最后搞得满盘皆输。毕竟，只有活下去才有翻盘的机会。01“你才是诺基亚，你全家都是诺基亚”2013年9月2日是诺基亚手机的“最后一天”。经过数轮艰难...
+ ## [TCL寻求一家合资企业，成立自己的半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=k2VktiUXCAfzRaJB9tbUkRFWcAgSrsgtGyCgHBaKn2cLyvETyA5gL0gYR06uRESTCOxdMeXblPmtUm9syb0lfiDqXiha1VXhOzUZPkPym5J0LP15m3lEePsev1L9frap&new=1)
+ > 本周早些时候，TCL Technology宣布计划成立一家合资公司，以建立自己的基于半导体技术的公司TCL Semiconductor Technology CoLtd。根据163News的报道，该公司寻求向半导体产业发展，甚至提出了10亿
+ ## [联通终于公布5G用户数，中国过亿5G用户仍然用着4G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=CjspuTTOmJn5JO2J3kmwSsglNsWF6B6nFpyQHB200B58pHFrDourP-bgUb4qbz-XA19MQNnxIdrlDTa5d4HxjI2JZ3UNY3GIK9C6C90P8isGZ5qt0DxnPShO2H1AIlNZ&new=1)
  > 中国联通终于公布了它的5G用户数，2020年底达到7083万，加上另外两家运营商的5G用户数已超过3.2亿，然而如果与中国市场销售的5G手机数量相比，就会发现其中有过亿5G用户仍然用着4G手机。此前中国移动、中国电信...
- ## [菲律宾运营商Globe谈5G：发力FWA业务，升级融合核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=8Q573SiwNGkLySbPnrgMM1j2bv177MY5hBbMnrldxsi82h8-pvchX-o8mo9-PV5XM*UtqQyUuc700IfWoTXJU57fx0e4OPdhPRTBi43wIBIauijdebFCjYSYGyJLy2S5&new=1)
+ ## [菲律宾运营商Globe谈5G：发力FWA业务，升级融合核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=8Q573SiwNGkLySbPnrgMM1j2bv177MY5hBbMnrldxsjQSAWZ4Jqjcr8lfY*cHwPFL8a8xtUHzeyTIP2n0CsZhzfIq1dzbndtWxjKIC3RI2L8JNZuxbuUSvg7eTK-TX0t&new=1)
  > 2020年5G高速发展，截至2020年底，全球有149家运营商在57个国家和地区商用5G网络。截至目前，中国累计开通5G基站超80万个，5G手机终端连接数突破2亿户，成为全球最大的5G市场。大家也许很好奇，除韩国、中国等在...
- ## [聚焦物流设备的预测性维护](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=fdXJx9loMvT6czfZgFn5Kd3i7OwVDrbDFZsxuMOclfeDGl5NvaUJWF5QeCJTz*kqD1xykzmxexvlu6Tylx3O0VMU3WwrcWBK-da33HBPBzbm1CN2T3IDfDmvl5y8kJXL&new=1)
+ ## [聚焦物流设备的预测性维护](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=fdXJx9loMvT6czfZgFn5Kd3i7OwVDrbDFZsxuMOclfchzM4kRKCKBBJL0O4vmgSETStdztutVynHwGG2LGWDYFPbR5bFUspvR4em7vX4l*dFAYJlGOL8AioqwgaUa00C&new=1)
  > 近年来，国内物流系统建设项目大幅增加，应用在各个行业领域的物流设备数量急剧上升。目前，设备发生故障后的紧急抢修、定期维护保养是最常采用的物流设备维保服务模式。随着物联网技术和信息技术的快速发展，物...
- ## [7083万5G套餐用户数!2021年新增5G基站数32万!中国联通发布2020年度业绩](http://mp.weixin.qq.com/s?src=11&timestamp=1615521604&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*3wFmqkvDAw4JKmzvF-7HIdAHch0VoRd7EeFD*gbpo4ZxTdsWmNL*cs*vS3vHV2Hno5cJgs-NyVKmLGSijo6N7i&new=1)
+ ## [7083万5G套餐用户数!2021年新增5G基站数32万!中国联通发布2020年度业绩](http://mp.weixin.qq.com/s?src=11&timestamp=1615539604&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*2uB7S56nRj4fo11zL-iHm2hYe0hvQiOYtzfMUimJdKakKZJ-urFcVJ2fDiR*74OwEBnhYfVNORALWyjCj3zzfH&new=1)
  > 3月11日，中国联通发布2020年度业绩。报告显示，中国联通2020年服务收入为人民币2758亿元，同比增长4.3%，领先行业平均的3.6%；净利润为125亿元，同比增长10.3%。报告中首次公布了中国联通5G套餐用户数，截至202...
 # IT 技术 
  ## [今天我才知道Redis有7种数据类型...](http://stor.51cto.com/art/202103/649648.htm)
  > 今天我才知道Redis有7种数据类型...
- ## [如何快速验证您的Kubernetes配置文件？](http://developer.51cto.com/art/202103/649640.htm)
- > 如何快速验证您的Kubernetes配置文件？
  ## [2021年新兴的十大区块链技术趋势](http://blockchain.51cto.com/art/202103/649639.htm)
  > 2021年新兴的十大区块链技术趋势
- ## [【廉环话】防疫一周年后的IT项目管理思考 -- 需求评估](http://www.cioage.com/art/202103/649353.htm)
- > 【廉环话】防疫一周年后的IT项目管理思考 -- 需求评估
- ## [稳定性保障6步走：高可用系统大促作战指南](http://zhuanlan.51cto.com/art/202103/649237.htm)
- > 稳定性保障6步走：高可用系统大促作战指南
- ## [您了解分区存储吗？现在该使用它了](http://stor.51cto.com/art/202103/649352.htm)
- > 您了解分区存储吗？现在该使用它了
- ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
- > 从头捋了一遍Epoll原理，收获颇丰！
- ## [MySQL初始化过程与源码分析入门_MySQL数据库基础深入与核心解析01](http://fellow.51cto.com/art/202012/635036.htm?qd=51ctojrzd)
- > MySQL初始化过程与源码分析入门_MySQL数据库基础深入与核心解析01
- ## [物联网设备：楼宇自动化行业变革的海洋](http://iot.51cto.com/art/202103/649751.htm)
- > 物联网设备如何改变楼宇自动化行业？在传统的自动化建筑中，需要安装一个独立的专有网络来与环境系统和简单
- ## [研究机构在新报告中定义人工智能卖方和买方成功的途径](http://ai.51cto.com/art/202103/649748.htm)
- > 研究机构Strategy Analytics公司在一份新报告中指出，人工智能产品的供应商及其用户都可以通过对客户旅程的
- ## [备战软考――网络工程师上午真题解](http://fellow.51cto.com/art/202103/649651.htm)
- > 本教程解析软考网络工程师上午真题。课程涉及新考纲之后的近四年真题。
- ## [云计算的好处](http://cloud.51cto.com/art/202103/649747.htm)
- > 云计算为企业的业务提供众多优势。这是一个虚拟办公室，可让用户进行设置，以灵活地随时随地与公司联系。随
- ## [解读：5G行业应用，为什么不温不火？需要各方全面参与](http://network.51cto.com/art/202103/649745.htm)
- > 虽然最高层再次明确了提速降费指标要求并被各路人士积极解读，但是5G依然是大家的关注焦点，其耀眼成色非常
- ## [为什么管理数据中心中的加密将会越来越难](http://server.51cto.com/Datacenter-649737.htm)
- > 加密是加强网络安全的一个核心原则，网络攻击者通常无法窃取已经加密的数据。很多黑客无法获取采用良好加密
- ## [996工作制究竟是好是坏？](http://news.51cto.com/art/202103/649736.htm)
- > 最近几天，996工作制话题再次被推上热搜，996工作制到底合不合理重新引起社会广泛的探讨。全国政协委员李国
- ## [如何利用传感器控制数据中心能耗](http://server.51cto.com/BuildDC-649733.htm)
- > 数据中心非常耗电。随着数字内容、大数据、电子商务和互联网流量的爆炸式增长，数据中心已成为全球增长最快
- ## [工业数字化转型 IT与OT不应成为瓶颈](http://www.cioage.com/art/202103/649734.htm)
- > 随着工业化的不断推进，越来越多的人工操作将被软件或机器所替代，工业自动化程度也将得到大幅提升，而这都
+ ## [手机1秒生成3D全息图，MIT团队新作](http://news.51cto.com/art/202103/649538.htm)
+ > 手机1秒生成3D全息图，MIT团队新作
+ ## [如何快速验证您的Kubernetes配置文件？](http://developer.51cto.com/art/202103/649640.htm)
+ > 如何快速验证您的Kubernetes配置文件？
  ## [为摩尔定律“续命”，小芯片何时普及？](http://news.51cto.com/art/202103/649739.htm)
- > 目前小芯片只为少数公司提供了竞争优势，这一为摩尔定律“续命”的技术想要普及，面临技术方面的挑战，包括
+ > 为摩尔定律“续命”，小芯片何时普及？
+ ## [鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里](http://developer.51cto.com/art/202103/649531.htm)
+ > 鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里
+ ## [92年百度程序员被抓，给我们警示什么？](http://news.51cto.com/art/202103/649702.htm)
+ > 92年百度程序员被抓，给我们警示什么？
+ ## [小技巧-优雅实现页面刷新(vue)](http://developer.51cto.com/art/202103/649788.htm)
+ > 在vue项目中使用this.$router.push()方法来跳转不同路径,如果跳转相同的路径的话会发现页面并没有刷新，而
+ ## [在 Linux 上安装官方 Evernote 客户端](http://os.51cto.com/art/202103/649787.htm)
+ > Evernote 是一款流行的笔记应用。它在推出时是一个革命性的产品。从那时起，已经有好几个这样的应用，可以
+ ## [是什么在阻碍女性成为一名程序员？](http://network.51cto.com/art/202103/649786.htm)
+ > 随着经济技术的进步，劳动的概念范围正在不断扩大，在工厂有劳动，在农田有劳动，现在在计算机旁，同样有劳
+ ## [Windows 10又出Bug！更新导致备份受影响了](http://os.51cto.com/art/202103/649784.htm)
+ > Win10又出问题了！上个月Win10推送了最新的二月份累积更新，修复了不少故障，但却又引入了新的问题。
+ ## [到2030年，哪些人工智能应用将蓬勃发展？](http://ai.51cto.com/art/202103/649783.htm)
+ > 尽管人工智能和机器学习的应用确实非常复杂，并具有潜在的危险，但我个人的观点是，在这十年中，人们与这些
+ ## [Linux基金会推出免费代码签名服务](http://zhuanlan.51cto.com/art/202103/649782.htm)
+ > Linux Foundation、Red Hat、Google和Purdue近日推出了免费的“sigstore”代码签名服务，该服务使开发人员
+ ## [黑吃黑？俄罗斯四大黑客论坛相继遭黑客攻击，网友：小丑竟是我自己](http://zhuanlan.51cto.com/art/202103/649781.htm)
+ > 根据安全博客Krebsonsecurity报道，过去数周，为数以千计“资深”网络犯罪分子服务的四个老牌俄语黑客论坛
+ ## [已招募多位重量级人物 DeepMind将在纽约搭建AI研究团队](http://ai.51cto.com/art/202103/649779.htm)
+ > 2014年，谷歌曾收购英国人工智能实验室DeepMind，目前，DeepMind正计划在纽约成立一个研究团队。
+ ## [微软 Windows 10 21H2 将减少臃肿软件数量](http://os.51cto.com/art/202103/649777.htm)
+ > 外媒 Windows Latest 报道，当你购买一台新电脑时，你希望它是纯净的，有较少的内置应用程序。不幸的是，大
+ ## [Facebook 工程师总结的 14 种算法面试模式](http://news.51cto.com/art/202103/649778.htm)
+ > 咱们在面试程序员岗位时往往需要经历一个编程面试过程，雇主会借此考验面试者的技术实力。然而，这些技术问
  ## [因代码泄密，苹果将在电脑上使用人脸识别](https://blog.csdn.net/weixin_39787242/article/details/114663304)
  > 因代码泄密，苹果将在电脑上使用人脸识别
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -123,6 +139,30 @@ categories: IT NEWS
  ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
  > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
 # PM 
+ ## [求职篇：跳槽时如何让工资大涨](http://www.chanpin100.com/article/113956)
+ > 首先，我们必须要明白入职时薪水的多少非常重要，决定了你接下来几年的收入曲线。因为入职后，要涨薪需要基于多方面的考核，时间上要达到一定的入职年限，能力水平上要达到一定的要求，历史绩效要达到头部的比例，只有满足这些条件，才能加薪。
+ ## [产品经理如何写（BRD）商业需求文档？](http://www.chanpin100.com/article/113919)
+ > BRD文档作为产品三大文档之一，可以说非常重要，它决定你的这个项目能不能做？因为开弓没有回头箭，不打无准备之仗。
+ ## [产品经理面试题+解析汇总（十四）](http://www.chanpin100.com/article/113954)
+ > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。本文是产品经理面试题+解析汇总第十四章。
+ ## [Stratifyd获Forrester认可 入选全球推荐服务商](http://www.chanpin100.com/article/113918)
+ > Stratifyd近期入围了Forrester 2021呼叫中心客户服务技术Tech Tide报告，并成为“交互分析”领域的投资推荐企业，产品力再获认可。
+ ## [微信高保真原型图--验证码登录](http://www.chanpin100.com/article/113912)
+ > 大家好，我将发布微信高保真原型图制作一系列文章，第一部分文章为微信登录——验证码登录系列。
+ ## [超全的生鲜B2B&B2C企业汇总—生鲜配送的“生马”马拉松之路](http://www.chanpin100.com/article/113909)
+ > 马拉松最近好多好频繁啊，很多城市都有自己冠名的马拉松，今天要介绍的“生马”不是深圳马拉松，而是生鲜配送企业的马拉松。生鲜配送以2014年为元年，这场马拉松注定既长又艰辛，参赛人员也多，赛况也比百团大战更加激烈，在这个号称4万亿的市场，人人都在布局，人人都是马拉松选手。此次“生马”一共有8支代表队，共
+ ## [幼儿园、早教、托管、小学家长端APP原型](http://www.chanpin100.com/article/113917)
+ > 幼儿园、早教、托管、小学家长端APP原型主要为设计、开发、测试、运营人员明确幼儿园、托管、早教、小学具体产品的需求，以确保对行业的了解，熟悉具体的业务流程、原型设计、交互方法。
+ ## [手机、平板、智能手表内联框原型模板](http://www.chanpin100.com/article/113916)
+ > 提供各种手机、平板、智能手表模板，模板已做好内联框关联，并已做好交互设计，页面为按尺寸设计，符合设计规划，应用时调整范围少。
+ ## [AI产品经理需要了解的算法分享（四）](http://www.chanpin100.com/article/113948)
+ > 如果算法要按照历史来划分的话，可以分为三个阶段。在古代，算法可以认为是程序化、规则化仪式的过程，通过该过程实现特定的目标和传递规则；在中世纪，算法是辅助数学运算的过程；在现代，算法是逻辑过程，由机器和数字计算机完全机械化和自动化。本文继续为大家分享AI产品经理需要了解的算法知识。
+ ## [AI产品经理需要了解的算法分享（三）](http://www.chanpin100.com/article/113947)
+ > 中世纪拉丁语algorismus是指使用印度数字进行四种基本数学运算，即加减乘除的程序和捷径。随后，术语算法被用来表达任何逐步的逻辑过程，并成为计算逻辑的核心。下边，本文将为大家继续分享AI产品经理需要了解的算法知识。
+ ## [AI产品经理需要了解的算法分享（二）](http://www.chanpin100.com/article/113945)
+ > 在上一篇文章当中，我们为大家介绍了算法的由来，也为大家介绍了四种常见的算法。下边本文继续为大家分享AI产品经理需要了解的算法知识。
+ ## [AI产品经理需要了解的算法分享（一）](http://www.chanpin100.com/article/113943)
+ > 什么是算法呢？算法一词来源于波斯学者al-Khwarizmi名字的拉丁化。9世纪他在巴格达写了一本名为《印度数字计算》的作品，该作品向西方引入了印度教的数字和相应的计算数字的新方法，即算法。那么，AI产品经理需要了解的算法有哪些呢，请看本文的分享。
  ## [AI产品经理必备的常识及术语分享](http://www.chanpin100.com/article/113942)
  > AI产品经理自然要了解当前人工智能领域的基本技术啦！本文主要为大家介绍一下NLP领域人工智能产品经理必备的常识和术语。希望能给大家带来帮助。
  ## [【产品经理免费公开课】用投资人的眼光选择就业方向](http://www.chanpin100.com/article/113940)
@@ -139,29 +179,5 @@ categories: IT NEWS
  > 在上一篇文章中，我们已经简要地列举了几大类产品经理笔试面试过程中的经典问题，希望大家都能把这些面试题吃透，学会举一反三，在以后的面试中能够轻松应对。本文是2021年产品经理经典笔试面试题的下篇。
  ## [2021年产品经理经典笔试面试题（上）](http://www.chanpin100.com/article/113932)
  > 无论你想选择做哪个行业的产品经理，面试都是你跨入这行的一个必要环节。本文会把产品经理的面试分为几大类进行汇总，一起来看一看2021年各大厂的产品经理经典笔试面试题都有哪些吧。
- ## [大厂常用的几种灰度发布方案](http://www.chanpin100.com/article/113931)
- > 灰度发布是指在黑与白之间，能够平滑过渡的一种发布方式。AB test就是一种灰度发布方式，让一部分用户继续用A，一部分用户开始用B，如果用户对B没有什么反对意见，那么逐步扩大范围，把所有用户都迁移到B上面来。
- ## [钉钉6.0发布对SaaS应用未来的影响](http://www.chanpin100.com/article/113930)
- > 继企业微信的年度发布大会之后，另外一款重量级的企业应用工具——钉钉在2021年1月14日正式发布钉钉6.0版本，并公开新的战略方向。
- ## [聊聊成都火爆的「共享猫咪」](http://www.chanpin100.com/article/113908)
- > 项飚在十三邀中说”附近的人的消失“，我们越来越只有血缘关系的亲人以及世界的远方，我们关注明星的八卦、关心社会事件、关注成功的商人，却很少跟你隔壁小伙说几句话。
- ## [【精简版·5分钟】张小龙：微信十年的产品思考](http://www.chanpin100.com/article/113929)
- > 公众号只适合少数人，因为大部分人写不了文章。随着时间的推移，视频化表达成为了普通人的习惯。视频化表达应该是下一个十年内容领域的一个主题，于是在2019年，我们没问公司要资源就悄悄做了视频号。
- ## [给刚入行产品经理的21条建议](http://www.chanpin100.com/article/113899)
- > 人人都是产品经理的时代过去了，想单凭侃两句行业、未来、趋势就能哄住老板已经不可能了，现在拼的是真才实学，你可以说是卷，我认为卷的好！
- ## [转转投诉量激增背后 二手电商该怎么解决信任痛点？](http://www.chanpin100.com/article/113898)
- > 依赖供应链的二手手机赛道里，只有流量是无法求得长远生存的，尤其是转转的流量采买模式已经面临失效。
- ## [知识库产品大多是无用垃圾？！包括钉钉、飞书、有道](http://www.chanpin100.com/article/113928)
- > 为什么写这篇文章？有3个原因：1）帮前客户做解决方案预研；2）见过太多失败案例；3）市面上缺少满意的产品。照例，先说下笔者的视角基础，笔者前公司有自己的知识库产品，所在团队也试用过多款外部产品，另外与数位有知识库的企业员工做过深度交流，还收集了几十家企业的调研问卷。
- ## [产品经理面试题+解析汇总（十三）](http://www.chanpin100.com/article/113927)
- > 春节一过又到了春招时节，很多人都开始准备找工作面试了。今天为大家整理了几道常见的产品经理面试题目，仅供参考，希望能对大家有所帮助。本文是产品经理面试题+解析汇总第十三章。
- ## [签约丨神策数据携手百丽国际专注品牌零售行业数字化未来](http://www.chanpin100.com/article/113894)
- > 未来，神策数据将持续赋能品牌零售行业数字化解决方案落地与增长，以消费者为中心，从实际业务场景出发，为百丽的数字化转型提供强有力支持！
- ## [「数运联盟全新京东运营提升计划」暨战略联盟发布会圆满启动](http://www.chanpin100.com/article/113889)
- > 2021年3月5日，由北京运营宝科技有限公司、京东星宇电竞(北京)文化传播有限公司和北京睿利众屹软件有限公司三方联合主办召开的“运筹帷幄 睿智前行”战略联盟发布会在上海静安瑞吉酒店圆满落下帷幕。
- ## [朔州开发区3D可视化——打造全新一代综合性智慧城市](http://www.chanpin100.com/article/113888)
- > 对园区的建设管理进行全方位升级打造，整合园区资源，建立自主创新服务体系，极大地降低园区企业的运营成本，提高工作效率，加强园区的创新、服务和管理能力。通过加入图扑软件（Hightopo ）的大屏的可视化，能及时利用、挖掘、传递数据。使数据有效化的及时呈现和传递，通过提取出关键、有效的信息，并以酷炫的视
- ## [产品经理的私房菜作画篇](http://www.chanpin100.com/article/113886)
- > 如果产品经理一定要很会画画，去当画家不是更好？！有人说，画画艺术是感性的，它是艺术家对自身情感的抒发，不须在乎别人眼光，着重于自身；而产品设计是理性的，因其代表的是产品经理洞察客户需求后，针对用户需求以产品思维所提出的解决方案，须能与用户达到沟通的效果。对于产品经理而言，学画画的重点不在于作画的技巧
 
     
