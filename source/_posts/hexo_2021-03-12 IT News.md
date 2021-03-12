@@ -1,21 +1,25 @@
 ---
 title: 2021-03-12 IT News
 copyright: true
-date: 2021-03-12 09:16:46
+date: 2021-03-12 10:19:13
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [聚焦物流设备的预测性维护](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=fdXJx9loMvT6czfZgFn5Kd3i7OwVDrbDFZsxuMOclfdorWNm7ONx7iDSKxk3aWMEXMRtNFMAZPBFAQ*a2zyR2-4cgPv*HrEMZ01HGnTkGlJNmMDagnPuLgiT2S*xA9ve&new=1)
- > 近年来，国内物流系统建设项目大幅增加，应用在各个行业领域的物流设备数量急剧上升。目前，设备发生故障后的紧急抢修、定期维护保养是最常采用的物流设备维保服务模式。随着物联网技术和信息技术的快速发展，物...
- ## [联通终于公布5G用户数，中国过亿5G用户仍然用着4G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=CjspuTTOmJn5JO2J3kmwSsglNsWF6B6nFpyQHB200B5Pd6BVOVJajSWLsyq-FFziIQIJBg7kwTrPtqXRl1Hmc5DDNlr75ZPUZYjevEOnjohX9jYdqxDk*f7vzqCgVmxy&new=1)
- > 中国联通终于公布了它的5G用户数，2020年底达到7083万，加上另外两家运营商的5G用户数已超过3.2亿，然而如果与中国市场销售的5G手机数量相比，就会发现其中有过亿5G用户仍然用着4G手机。此前中国移动、中国电信...
- ## [7083万5G套餐用户数!2021年新增5G基站数32万!中国联通发布2020年度业绩](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*2NFFpyG2O69GJrkIKKV*QmokW5aaxCGoACV2J8*ZATUkRgbgUsrjm2N2KiuwHL46-wXUklQpV7qTeZk-2HaoH8&new=1)
- > 3月11日，中国联通发布2020年度业绩。报告显示，中国联通2020年服务收入为人民币2758亿元，同比增长4.3%，领先行业平均的3.6%；净利润为125亿元，同比增长10.3%。报告中首次公布了中国联通5G套餐用户数，截至202...
- ## [菲律宾运营商Globe谈5G：发力FWA业务，升级融合核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=8Q573SiwNGkLySbPnrgMM1j2bv177MY5hBbMnrldxshOk-M5VKdnCISQlHpBmllgyc3U9C92mdTGr-SDSaM972**M1bWYPAKdDcqlmZc1ZEUWdjvjXqaQk7tzEuZMI6h&new=1)
+ ## [7点见|小米将回购百亿港元股份；货拉拉宣布上线录音录像功能](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=IXsSotBmGjMhTWPDmLw4WVSWis7D9AG1RcS*83LIy6nB2KSa27XRCVGLq0WE4i63KAvnBEEolLgE2N84XJ*jZrFraMZrVs9XHxsowkzxWh2lyYjh*yWrfqpQvcB0u3X0&new=1)
+ > 各位小伙伴早上好呀！今年两会期间，5G手机、5G录音笔等几乎成为上会记者“标配”。人民网记者配备的一款基于高通5G解决方案的直播背包格外吸引眼球。这款背包类似一台小型电脑，搭配外接摄像机，直播背包就可轻...
+ ## [菲律宾运营商Globe谈5G：发力FWA业务，升级融合核心网](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=8Q573SiwNGkLySbPnrgMM1j2bv177MY5hBbMnrldxshOk-M5VKdnCISQlHpBmllgWvzOCcTHqHJxvJ0-cwkrYp9GosfjkuB7Ocp1ZHrpmsboTjgSI29ASrO0lGj1j26z&new=1)
  > 2020年5G高速发展，截至2020年底，全球有149家运营商在57个国家和地区商用5G网络。截至目前，中国累计开通5G基站超80万个，5G手机终端连接数突破2亿户，成为全球最大的5G市场。大家也许很好奇，除韩国、中国等在...
- ## [TCL寻求一家合资企业，成立自己的半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615510804&ver=2941&signature=k2VktiUXCAfzRaJB9tbUkRFWcAgSrsgtGyCgHBaKn2eLwLijAxj3EywxMBF6niBzGxC-aDDPF5oZGfWdQslLbsH7bGYaFNHckAPNjBXjU9*FG0DUpD2Ir3GOs7GdyUGv&new=1)
+ ## [\[报告\]2021年2月汽车工业经济运行情况(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=UUO7uEzt2VpVQ3hnIT1GKlsBuXujny*Tvyj6ll-dkUaDEUGEZBxtJXAVzKDEzoerwmll*k94veUhRlo5pmSpNovJQGZt-d8TN-n5AVXEMDwNiSk0y6cnE55ACRzmASVY&new=1)
+ > 2月，汽车产销分别完成150.3万辆和145.5万辆，环比分别下降37.1%和41.9%，同比分别增长4.2倍和3.6倍。本月产销同比呈现大幅增长的原因有两点，一是2020年2月受疫情影响导致产销基数水平较低，二是当前市场需求仍...
+ ## [TCL寻求一家合资企业，成立自己的半导体公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=k2VktiUXCAfzRaJB9tbUkRFWcAgSrsgtGyCgHBaKn2eLwLijAxj3EywxMBF6niBzpgHfAijdU0DSOBgYNaEemDNe3rIc-mIidgYIb84SbRBEncEFXgNfWMFIi1t4*WB-&new=1)
  > 本周早些时候，TCL Technology宣布计划成立一家合资公司，以建立自己的基于半导体技术的公司TCL Semiconductor Technology CoLtd。根据163News的报道，该公司寻求向半导体产业发展，甚至提出了10亿
+ ## [联通终于公布5G用户数，中国过亿5G用户仍然用着4G手机](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=CjspuTTOmJn5JO2J3kmwSsglNsWF6B6nFpyQHB200B5Pd6BVOVJajSWLsyq-FFziDYxmvn3hO0JrvOuRUMRGVOjrCl-gj*6Qe2aL0UAx0IPYqh13Sb7USRwbTwGPS8XK&new=1)
+ > 中国联通终于公布了它的5G用户数，2020年底达到7083万，加上另外两家运营商的5G用户数已超过3.2亿，然而如果与中国市场销售的5G手机数量相比，就会发现其中有过亿5G用户仍然用着4G手机。此前中国移动、中国电信...
+ ## [聚焦物流设备的预测性维护](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=fdXJx9loMvT6czfZgFn5Kd3i7OwVDrbDFZsxuMOclfdorWNm7ONx7iDSKxk3aWMEQShdeoNZCUoceEc-Z4pI6CWl7mMqlERYX2cLaOX7AiHfWVG6-l*rIJOcHuP6BEA2&new=1)
+ > 近年来，国内物流系统建设项目大幅增加，应用在各个行业领域的物流设备数量急剧上升。目前，设备发生故障后的紧急抢修、定期维护保养是最常采用的物流设备维保服务模式。随着物联网技术和信息技术的快速发展，物...
+ ## [7083万5G套餐用户数!2021年新增5G基站数32万!中国联通发布2020年度业绩](http://mp.weixin.qq.com/s?src=11&timestamp=1615514404&ver=2941&signature=FmLr8eHJFIaq-YUOlCHBDrbalUYDumdNJB1emhyZj*2NFFpyG2O69GJrkIKKV*Qmf9FMG9xhcGvdaxlhXRCmTMRibaXh-5NJL*dqb0fs91fazavVdh5pE1Yk8UaNZpgT&new=1)
+ > 3月11日，中国联通发布2020年度业绩。报告显示，中国联通2020年服务收入为人民币2758亿元，同比增长4.3%，领先行业平均的3.6%；净利润为125亿元，同比增长10.3%。报告中首次公布了中国联通5G套餐用户数，截至202...
 # IT 技术 
  ## [今天我才知道Redis有7种数据类型...](http://stor.51cto.com/art/202103/649648.htm)
  > 今天我才知道Redis有7种数据类型...
@@ -31,28 +35,28 @@ categories: IT NEWS
  > 您了解分区存储吗？现在该使用它了
  ## [从头捋了一遍Epoll原理，收获颇丰！](http://os.51cto.com/art/202103/649405.htm)
  > 从头捋了一遍Epoll原理，收获颇丰！
- ## [MySQL培训速成教程（七）：MySQL备份恢复实战教程](http://fellow.51cto.com/art/202007/622201.htm?qd=51ctojrzd)
- > MySQL培训速成教程（七）：MySQL备份恢复实战教程
+ ## [【王佩丰】Excel 2010系列视频教程](http://fellow.51cto.com/art/202101/641582.htm?qd=51ctojrzd)
+ > 【王佩丰】Excel 2010系列视频教程
+ ## [更纯净，微软 Windows10 21H2 重大更新将减少系统臃肿软件数量](http://os.51cto.com/art/202103/649714.htm)
+ > 3月12日消息 外媒 Windows Latest 报道，当你购买一台新电脑时，你希望它是纯净的，有较少的内置应用程序。
+ ## [大数据杀熟频发，别让云计算变成“云算计”](http://bigdata.51cto.com/art/202103/649712.htm)
+ > 今年两会，大数据技术衍发出的平台监管、弹窗广告、大数据杀熟等各类问题引发关注。就如何规制大数据杀熟，
+ ## [一篇带给你MySQL逻辑架构](http://database.51cto.com/art/202103/649711.htm)
+ > 与其他数据库相比，MySQL并不是完美的，却是足够灵活，能够适应高要求的环境。在开发中，MySQL是勾勾在项目
+ ## [Java编程内功-数据结构与算法「栈(Stack)」](http://developer.51cto.com/art/202103/649709.htm)
+ > 栈是限制线性表中元素的插入和删除只能在线性表的同一端进行的一种特殊线性表.允许插入和删除的一端,为变化
+ ## [这5款电脑装机必备软件，B站20w人推荐，究竟好在哪里？](http://network.51cto.com/art/202103/649708.htm)
+ > 你的电脑上有哪些好用的软件?今天给大家分享5款电脑装机必备软件，在B站上有20w人推荐，下面一起来看看，究
+ ## [实战 | Java读取Word，包含表格!](http://developer.51cto.com/art/202103/649706.htm)
+ > Spire.Doc for Java 是一款专业的 Java Word 组件，开发人员使用它可以轻松地将 Word 文档创建、读取、编辑
+ ## [硬核！一文学完Flink流计算常用算子](http://bigdata.51cto.com/art/202103/649704.htm)
+ > link和Spark类似，也是一种一站式处理的框架;既可以进行批处理(DataSet)，也可以进行实时处理(DataStream)
+ ## [你以为在做的是微服务？不！你只是做了个比单体还糟糕的分布式单体！](http://zhuanlan.51cto.com/art/202103/649703.htm)
+ > 今天我们就来聊聊这个有趣的话题：分布式单体。各位看官，看看你们公司是不是也犯了这样的错误?
  ## [开源云盘利器：Nextcloud 21私有云盘搭建](http://os.51cto.com/art/202103/649705.htm)
  > 这款产品就不多介绍了，进来看的小伙伴多少有点了解，就直接进入正题，如果有不了解的小伙伴可以自行查阅，
  ## [92 年百度程序员被抓，给我们警示什么？](http://news.51cto.com/art/202103/649702.htm)
  > 今天看到一条新闻，一个 92 年的百度程序员，为了 “挣外快”，越权干起了业务审核部门的活。通过编写脚本
- ## [帮你精通JS: 函数式array.forEach的8个案例](http://developer.51cto.com/art/202103/649701.htm)
- > JavaScript是当今流行语言中对函数式编程支持最好的编程语言。我们继续构建函数式编程的基础，接下来，我
- ## [LeetCode题解之跳跃游戏](http://developer.51cto.com/art/202103/649699.htm)
- > 给定一个非负整数数组 nums ，你最初位于数组的 第一个下标 。数组中的每个元素代表你在该位置可以跳跃的最
- ## [新型Ryuk勒索软件变种具备自我传播能力](http://netsecurity.51cto.com/art/202103/649697.htm)
- > 法国国家网络安全机构 ANSSI 的专家近日发现了一种新型 Ryuk 勒索软件变种，该变种增加了蠕虫的功能，可以
- ## [Gartner：数据中台需要组装式数据分析体验](http://bigdata.51cto.com/art/202103/649695.htm)
- > 根据Gartner的预测，到2023年60%的企业机构将组装三个或更多分析解决方案中的组件，从而建立以决策为导向的
- ## [起因222个摄像头，特斯拉工厂教会IoT行业的事](http://iot.51cto.com/art/202103/649696.htm)
- > 所有的迹象都表明，全球范围内，从政府采购、消费者购买到制造商本身，都处于一个物联网安全意识增长的阶段
- ## [美运营商确认仅高级用户可享受C频段5G信号](http://network.51cto.com/art/202103/649694.htm)
- > 据外媒报道，有消息人士确认，美国电信运营商Verizon旗下用户需开通Premium Unlimited不限量高级流量套餐才
- ## [我们这一课讨论主从复制(Primary/Backup Replication)](http://developer.51cto.com/art/202103/649693.htm)
- > 这一课讨论关于容错(Fault-Tolerance)和复制(Replication)的问题，主要研究 VMware FT 的论文 ―― The Des
- ## [Kubernetes生产实践之Redis-cluster](http://os.51cto.com/art/202103/649692.htm)
- > 在Kubernetes中部署Redis集群面临挑战，因为每个Redis实例都依赖于一个配置文件，该文件可以跟踪其他集群实
  ## [因代码泄密，苹果将在电脑上使用人脸识别](https://blog.csdn.net/weixin_39787242/article/details/114663304)
  > 因代码泄密，苹果将在电脑上使用人脸识别
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -69,18 +73,18 @@ categories: IT NEWS
  > 
  ## [有些段子，只有程序员看了之后会狂笑不止，一般人根本看不懂](https://blog.csdn.net/zhiguigu/article/details/114537490)
  > 有些段子，只有程序员看了之后会狂笑不止，一般人根本看不懂
- ## [数字图像处理-DFT&DCT&WHT&小波变换分解重构(Matlab)](https://blog.csdn.net/qq_23023937/article/details/109158715)
- > 数字图像处理-DFT&amp;DCT&amp;WHT&amp;小波变换分解重构(Matlab)
- ## [购书网站前端实现（HTML+CSS+JavaScript）](https://blog.csdn.net/Charzous/article/details/108407720)
- > 购书网站前端实现（HTML+CSS+JavaScript）
- ## [10 万字 Spring Boot 学习笔记（带完整目录）以及对应的源码免费分享给大家](https://blog.csdn.net/eson_15/article/details/104347476)
- > 
- ## [Python对商店数据进行lstm和xgboost销售量时间序列建模预测分析](https://blog.csdn.net/qq_19600291/article/details/105670930)
- > Python对商店数据进行lstm和xgboost销售量时间序列建模预测分析
- ## [vue实现PC端分辨率适配](https://blog.csdn.net/weixin_41257563/article/details/97266234)
- > vue实现PC端分辨率适配
- ## [C语言程序设计 立体化教程 --- 人民邮电出版社](https://blog.csdn.net/weixin_43760254/article/details/88172767)
- > C语言程序设计 立体化教程 --- 人民邮电出版社
+ ## [Vuejs学习笔记（全）](https://blog.csdn.net/qq_22174779/article/details/87907036)
+ > Vuejs学习笔记（全）
+ ## [如何用 Python 画出 69 岁老同志？](https://blog.csdn.net/qq_33570092/article/details/110152715)
+ > 如何用 Python 画出 69 岁老同志？
+ ## [使用python进行ABAQUS的二次开发的简要说明（by Young 2017.06.27）](https://blog.csdn.net/young2203/article/details/81937268)
+ > 使用python进行ABAQUS的二次开发的简要说明（by Young 2017.06.27）
+ ## [R语言中的PCA分析与可视化](https://blog.csdn.net/nikang3148/article/details/85246555)
+ > R语言中的PCA分析与可视化
+ ## [OpenCV实现机器人对物体进行移动跟随](https://blog.csdn.net/Arcann/article/details/109531059)
+ > OpenCV实现机器人对物体进行移动跟随
+ ## [JavaScript最大的秘密](https://blog.csdn.net/coderising/article/details/107873199)
+ > JavaScript最大的秘密
  ## [A站、B站、C站、D站、E站、F站、G站、H站、I站、J站、K站、L站、M站、N站、O站、P站、Q站、R站、S站、T站、U站、V站、W站、X站、Y站、Z站都是什么网站？Q站是什么？](https://blog.csdn.net/tianpeng1996/article/details/114528812)
  > A站、B站、C站、D站、E站、F站、G站、H站、I站、J站、K站、L站、M站、N站、O站、P站、Q站、R站、S站、T站、U站、V站、W站、X站、Y站、Z站都是什么网站？Q站是什么？
 # 人工智能 
@@ -110,11 +114,15 @@ categories: IT NEWS
  > 
  ## [人脸识别对动画无效，迪士尼打造动画专用人脸识别库](https://blog.csdn.net/HyperAI/article/details/114633786)
  > 人脸识别对动画无效，迪士尼打造动画专用人脸识别库
- ## [超好用的网站推荐（持续更新）](https://blog.csdn.net/xq151750111/article/details/114453144)
- > 超好用的网站推荐（持续更新）
+ ## [用超级简单的C语言实现人机五子棋（键盘控制）](https://blog.csdn.net/qq_53678306/article/details/114608102)
+ > 用超级简单的C语言实现人机五子棋（键盘控制）
  ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
  > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
 # PM 
+ ## [【产品经理免费公开课】用投资人的眼光选择就业方向](http://www.chanpin100.com/article/113940)
+ > 目前正是2021年的金三银四求职高峰期，很多人对于就业方向的选择存在着一些困惑？该怎样选择一个合适自己的就业方向呢？让我们一起跟随本期的免费公开课来看一下，产品经理怎样用投资人的眼光选择就业方向。
+ ## [校园资讯、视频、文章、活动、圈子、投票移动端原型](http://www.chanpin100.com/article/113915)
+ > 校园资讯、视频、文章、活动、圈子、投票、服务、专区移动端原型主要为设计、开发、测试、运营人员明确校园资讯活动服务平台的需求，以确保对行业的了解，熟悉具体的业务流程、原型设计、交互方法。
  ## [什么是社区团购？社区团购的发展趋势如何？](http://www.chanpin100.com/article/113937)
  > 本文小编会谈一谈有关社区团购这个最近开始流程的模式，什么是社区团购？社区团购为什么会这么火爆？社区团购的发展趋势如何？请看本文的介绍。
  ## [社区团购要怎么做才能做好？](http://www.chanpin100.com/article/113936)
@@ -151,9 +159,5 @@ categories: IT NEWS
  > 如果产品经理一定要很会画画，去当画家不是更好？！有人说，画画艺术是感性的，它是艺术家对自身情感的抒发，不须在乎别人眼光，着重于自身；而产品设计是理性的，因其代表的是产品经理洞察客户需求后，针对用户需求以产品思维所提出的解决方案，须能与用户达到沟通的效果。对于产品经理而言，学画画的重点不在于作画的技巧
  ## [产品经理的工作职责是什么 需要具备什么能力？](http://www.chanpin100.com/article/113885)
  > 在很多方面，产品经理的角色仍然是个谜。近年来，许多公司才开始有这个职位角色，但很少有公司能正确地将这个角色融入其运作中。因此，产品经理的角色被许多业内人士误解并且错误地实践。我希望跟大家分享我从产品经理工作中获得的经验教训。
- ## [产品经理如何绘制功能清单？](http://www.chanpin100.com/article/113884)
- > 今天来讲讲产品功能清单，主要是通过是什么？为什么的思路带领大家学习了解。另外分享一些我工作中的设置产品功能清单的经验，纯干货分享。
- ## [社区团购的本质是怎样的](http://www.chanpin100.com/article/113924)
- > 很多人对于“社区团购的本质是怎样的”这个问题都很关心，本文将从社区场景+团购模式+社会属性+C2B零售为大家进行解析，欢迎小伙伴留言讨论哦！
 
     
