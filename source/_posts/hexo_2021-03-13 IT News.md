@@ -1,21 +1,21 @@
 ---
 title: 2021-03-13 IT News
 copyright: true
-date: 2021-03-13 08:06:13
+date: 2021-03-13 10:20:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [《启发俱乐部》广东专场圆满收官 中国联通“创新与智慧同行”品牌内核新诠释](http://mp.weixin.qq.com/s?src=11&timestamp=1615593604&ver=2943&signature=E0eZS0Fw6bwijLQlM142UMyrOGhI8p1FmikeqTn8DiL9Lmrjm5xS-5IVTJVXLryMo9dOVO6HR4YTPS2MppyiD*F4r*i1cLbFk-0ucb19NhAYrXOw15hAtQIMf9dGCx-H&new=1)
- > 3月10日，运营商情报了解到，由中国联通独家冠名的《启发俱乐部》第二季最后一期节目在花城广州播出。《启发俱乐部》第二季主讲人、得到创始人罗振宇亲临广东专场，与现场500多位观众展开了一场精彩纷呈的互动交...
- ## [打破美国的领先优势，中国和欧洲均大力投资芯片产业](http://mp.weixin.qq.com/s?src=11&timestamp=1615593604&ver=2943&signature=UbW-AhPTe2R*SCTy6LAgy2vmjPbwgDA-e*umg9OYSyMuOUaTJT2oEAEEJsTRAZVqdCrkHlSFS*BhWl9iakuQ*ddtqb1EAcW-PxyTPCwcEU8zpthPqhLzPlkPWyhS0jcy&new=1)
+ ## [打破美国的领先优势，中国和欧洲均大力投资芯片产业](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=UbW-AhPTe2R*SCTy6LAgy2vmjPbwgDA-e*umg9OYSyOTG-v*ZbKEYNdpo3hocexxpnUZglV3UHAe9NA*6r7qpaOxSSAlHDCn3uYOF1zq8qSZYkAyVsCk530-VgukMGLM&new=1)
  > 近期欧洲计划投入万亿人民币的资金支持欧洲的芯片产业发展，这是在中国推出两期集成电路产业基金3000多亿之后，又一个经济体强烈发展自己的芯片产业。在全球芯片市场，美国依然是巨无霸，有分析指出美国依然占据...
- ## [全网最详细，5G的区别只有网速?频段也很重要](http://mp.weixin.qq.com/s?src=11&timestamp=1615593604&ver=2943&signature=MWeWyxKoxv4IxtU0ZlHkKjMvIOzrznDPgA5RSvk9JqSJaDVJ3h4C2jw*RZFUJ2VWggId7PqB-uDEJUAI4tmzJ8tvNc684uSoMGA*xElLbfwHRmM857*dC4B2wrrymTB2&new=1)
+ ## [全网最详细，5G的区别只有网速?频段也很重要](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=MWeWyxKoxv4IxtU0ZlHkKjMvIOzrznDPgA5RSvk9JqRCD93CaD9DUmkCXomcn34aXjhVjqDuD3Hqv8eij5JSfx9zh9qBgctgrLEx1od2M2BeJ7GxocxCpRSjsC4us1YM&new=1)
  > 前言最近一段时间，关于5G的争议格外多，大致的可以参考一下之前的文章：猝不及防的打脸？基站升级后5G手机无法用5G。所以今天来讲讲三大运营商在布局5G的种种无奈...PS：今天本来是发广告，但是最近阅读量下滑...
- ## [AI独角兽旷视科技IPO获受理!创业十年成为最“硬”AI公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615593604&ver=2943&signature=fHh2dWpchIPhlBvY7WlzyRuTVzG98MOV3T0Z4gTx*0nSsOWTOXUS7tBApOfFGjc7rLlKi-LUAdWK739QkNvCkYPsOUz5DWMHMDGWpUPXcYMctnsvEBNLgyUr*EaEC9Jb&new=1)
+ ## [AI独角兽旷视科技IPO获受理!创业十年成为最“硬”AI公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=fHh2dWpchIPhlBvY7WlzyRuTVzG98MOV3T0Z4gTx*0lrrm5ym1wuRiD83pJh475EfvzH79QsICsXrxaJMYR34ipvQfzRPLspYGXIDYEMilDOZ*0fkfi-jw7EvfIH258Z&new=1)
  > 2017~2019年，旷视营收从3亿元增长至12.6亿元，涨幅超300%。作者 | 李水青编辑 | 漠影、心缘智东西3月12日消息，刚刚，上交所官网显示，AI独角兽旷视科技科创板IPO申请获受理。招股书显示，成立于2011年的旷视科...
- ## [自动驾驶传感器的下一个战场：4D毫米波雷达](http://mp.weixin.qq.com/s?src=11&timestamp=1615593604&ver=2943&signature=5vdQWuyWkXqxqenTWxdte*YGwagIjOR183iA-RWU7BACi8cE4nlqduf9y76nOoBQQPEpFhUig7ZQbt5L-xqoh1BhzHFYKfuCTQJRUyCwwzuBjt8kBcsLtvg7MVmn5pAt&new=1)
+ ## [自动驾驶传感器的下一个战场：4D毫米波雷达](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=5vdQWuyWkXqxqenTWxdte*YGwagIjOR183iA-RWU7BAyONBWE1r*5OWG4IU8qjfeVMP6jwI1r4N61CAmK*hoUUWlczGK-bN*UFRGR7tjCew2XFeyp55maFdDOSJZJZO4&new=1)
  > 中国汽车科技趋势沙龙（第一期）开始报名啦“等特斯拉哪天真的开始用了，市场马上就火爆了。”在激光雷达之后，4D毫米波雷达极有可能成为自动驾驶传感器市场上的下一个爆点。这一市场上的活跃玩家，既有大陆这样...
+ ## [《启发俱乐部》广东专场圆满收官 中国联通“创新与智慧同行”品牌内核新诠释](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=E0eZS0Fw6bwijLQlM142UMyrOGhI8p1FmikeqTn8DiIBxQyF9V-jyOnyLZiArBqzHrXXakSqM8jKrtK3UfzdwHcJloMLEj*vLoYlWzHwWc10htE*HUP2EwW9Y75j0nmN&new=1)
+ > 3月10日，运营商情报了解到，由中国联通独家冠名的《启发俱乐部》第二季最后一期节目在花城广州播出。《启发俱乐部》第二季主讲人、得到创始人罗振宇亲临广东专场，与现场500多位观众展开了一场精彩纷呈的互动交...
 # IT 技术 
  ## [今天我才知道Redis有7种数据类型...](http://stor.51cto.com/art/202103/649648.htm)
  > 今天我才知道Redis有7种数据类型...
@@ -31,8 +31,20 @@ categories: IT NEWS
  > 为摩尔定律“续命”，小芯片何时普及？
  ## [鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里](http://developer.51cto.com/art/202103/649531.htm)
  > 鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里
- ## [C语言C++学习指南（C语言C++零基础入门）视频课程](http://fellow.51cto.com/art/202101/638633.htm?qd=51ctojrzd)
- > C语言C++学习指南（C语言C++零基础入门）视频课程
+ ## [Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1](http://fellow.51cto.com/art/202012/635764.htm?qd=51ctojrzd)
+ > Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1
+ ## [使HTML 5数字输入仅接受整数](http://developer.51cto.com/art/202103/649864.htm)
+ > 使用HTML 5属性来限制可以发送到服务器的内容，然后使用Javascript增强它，以限制用户可以在第一个地方输入
+ ## [俄罗斯外交部发言人提议要对互联网公司进行普遍监管](http://netsecurity.51cto.com/art/202103/649863.htm)
+ > 俄罗斯外交部发言人 Maria Zakharova 近日表示，社交网络中有政治目的的内容应该加强监管。
+ ## [美国外国投资委员会批准 SK海力士收购Intel闪存业务又获突破](http://stor.51cto.com/art/202103/649862.htm)
+ > 芯片制造商SK海力士表示，他们已经获得美国外国投资委员会(CFIUS)的批准，拟以90亿美元的价格收购IntelQ
+ ## [ABI Research：5G切片将带来200亿美元的收入](http://network.51cto.com/art/202103/649861.htm)
+ > 全球科技市场咨询公司ABI Research发现，完整的切片机制预计将在2024年实现，届时5G切片将产生200亿
+ ## [致大量知名站点瘫痪，云服务商OVH数据中心遭烧毁](http://netsecurity.51cto.com/art/202103/649860.htm)
+ > 近日，位于法国斯特拉斯堡的OVH数据中心被大火烧毁，导致大量知名站点瘫痪，成为数据中心史无前例的灾难事
+ ## [T-Mobile计划三年内提供超容量5G网络](http://network.51cto.com/art/202103/649859.htm)
+ > 据外媒报道，T-Mobile计划到2023年底向90%的美国人提供“超容量5G”。
  ## [OLTP与OLAP概念、主要区别和完美实践](http://database.51cto.com/art/202103/649855.htm)
  > OLTP、OLAP、VDI和SPC-1是当前性能评估中常见的三类业务场景。SPC-1是业界通用的随机IOPS型的IO模型，在不
  ## [5G行业终端起航！519款5G终端，303款已商用](http://network.51cto.com/art/202103/649854.htm)
@@ -41,12 +53,8 @@ categories: IT NEWS
  > 据报道，美国康奈尔大学最近就在苹果M1处理器上做了研究，他们的一个目标就是限制或者禁用JavaScrit脚本的
  ## [跟随 Chrome：微软 Edge 浏览器发行周期缩短至 4 周](http://os.51cto.com/art/202103/649851.htm)
  > 3月13日消息 就在不久前，谷歌宣布将 Chrome 浏览器的发行周期由 6 周缩短至 4 周。根据外媒 TheVerge 消息
- ## [支付宝绝不止买买买！这些超实用功能你知多少](http://mobile.51cto.com/hot-649850.htm)
- > 提起支付宝，大家一定不会陌生,什么线下收款呀、抢红包呀、水电费缴纳、理财投资等等，几乎所有与钱有关联
- ## [M1版MacBook有硬伤？SSD损耗巨大到底咋回事](http://stor.51cto.com/art/202103/649849.htm)
- > 最近M1版MacBook却引发了一些争议，有用户发现在使用一段时间后，SSD的写入数据量非常巨大。要知道，SSD中N
- ## [《互联网人退化简史》](https://blog.csdn.net/m0_46163918/article/details/114700293)
- > 《互联网人退化简史》
+ ## [汽车巨头不愿被 “羞辱”，苹果造车重回代工模式](https://blog.csdn.net/weixin_39787242/article/details/114695333)
+ > 汽车巨头不愿被 “羞辱”，苹果造车重回代工模式
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
@@ -61,51 +69,51 @@ categories: IT NEWS
  > 
  ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
  > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
- ## [Sitadel ：Web安全扫描工具](https://blog.csdn.net/qq_25879801/article/details/110008097)
- > Sitadel ：Web安全扫描工具
- ## [我的大学生涯（大二腾讯校招实习生）](https://blog.csdn.net/weixin_43882276/article/details/105571343)
+ ## [Java多线程：彻底搞懂线程池](https://blog.csdn.net/u013541140/article/details/95225769)
+ > Java多线程：彻底搞懂线程池
+ ## [【斗鱼直播源】浏览器抓取真实直播源地址(纯前端JS & PHP解析源码)](https://blog.csdn.net/zy1281539626/article/details/112426275)
+ > 【斗鱼直播源】浏览器抓取真实直播源地址(纯前端JS &amp; PHP解析源码)
+ ## [Python3从零开始搭建一个语音对话机器人](https://blog.csdn.net/NIeson2012/article/details/96476878)
+ > Python3从零开始搭建一个语音对话机器人
+ ## [终于弄明白 i = i++和 i = ++i 了](https://blog.csdn.net/qq_44377709/article/details/106643703)
  > 
- ## [R语言使用多元AR-GARCH模型衡量市场风险](https://blog.csdn.net/qq_19600291/article/details/105916352)
- > R语言使用多元AR-GARCH模型衡量市场风险
- ## [Pytest和Allure测试框架-超详细版+实战](https://blog.csdn.net/qq_42610167/article/details/101204066)
- > Pytest和Allure测试框架-超详细版+实战
- ## [老程序员薪水被应届生倒挂了，不爽就跳槽？还是老老实实提升自己的技术重要！](https://blog.csdn.net/bugmiao/article/details/113629764)
- > 老程序员薪水被应届生倒挂了，不爽就跳槽？还是老老实实提升自己的技术重要！
- ## [autojs脚本代码大全(实战演练1)](https://blog.csdn.net/qq_30931547/article/details/113057665)
- > autojs脚本代码大全(实战演练1)
+ ## [这些常见的PHP漏洞，如果你不知道，就别说自己是个攻城狮](https://blog.csdn.net/weixin_41635750/article/details/109822456)
+ > 
+ ## [SpringBoot2.0集成WebSocket，实现后台向前端推送信息](https://blog.csdn.net/moshowgame/article/details/80275084)
+ > SpringBoot2.0集成WebSocket，实现后台向前端推送信息
  ## [A站、B站、C站、D站、E站、F站、G站、H站、I站、J站、K站、L站、M站、N站、O站、P站、Q站、R站、S站、T站、U站、V站、W站、X站、Y站、Z站都是什么网站？Q站是什么？](https://blog.csdn.net/tianpeng1996/article/details/114528812)
  > A站、B站、C站、D站、E站、F站、G站、H站、I站、J站、K站、L站、M站、N站、O站、P站、Q站、R站、S站、T站、U站、V站、W站、X站、Y站、Z站都是什么网站？Q站是什么？
 # 人工智能 
+ ## [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
+ > 前方危险：MySQL UPDATE 语句的非标准实现
+ ## [【图文详解】Java 优先级队列 PriorityQueue](https://blog.csdn.net/universsky2015/article/details/114465207)
+ > 【图文详解】Java 优先级队列 PriorityQueue
  ## [再探 Compose 版本的玩安卓](https://blog.csdn.net/haojiagou/article/details/114476160)
  > 再探 Compose 版本的玩安卓
  ## [只懂 Git 如何成为架构砖家？从代码的物理分析说起](https://blog.csdn.net/gmszone/article/details/114505149)
  > 只懂 Git 如何成为架构砖家？从代码的物理分析说起
  ## [Linux初期在中国的发展](https://blog.csdn.net/SeaCloudHill/article/details/114526981)
  > Linux初期在中国的发展
- ## [漫画：什么是 “锦标赛排序” ？](https://blog.csdn.net/bjweimengshu/article/details/114528400)
- > 漫画：什么是 “锦标赛排序” ？
- ## [喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖](https://blog.csdn.net/xufive/article/details/114530480)
- > 喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖
  ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
  > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [漫画：什么是 “锦标赛排序” ？](https://blog.csdn.net/bjweimengshu/article/details/114528400)
+ > 漫画：什么是 “锦标赛排序” ？
+ ## [iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践](https://blog.csdn.net/ByteDanceTech/article/details/114528899)
+ > iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践
+ ## [喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖](https://blog.csdn.net/xufive/article/details/114530480)
+ > 喜欢书法的程序员看过来：15行代码抓取兰亭序全文单字高清字帖
  ## [iOS 应用启动慢的原因找到了！](https://blog.csdn.net/csdnnews/article/details/114558457)
  > iOS 应用启动慢的原因找到了！
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [有关程序员的经典名言我知道的有这些！](https://blog.csdn.net/epubit17/article/details/114597332)
  > 有关程序员的经典名言我知道的有这些！
  ## [超详细傻瓜iPhone自定义来电铃声教程](https://blog.csdn.net/mydo/article/details/114603369)
  > 超详细傻瓜iPhone自定义来电铃声教程
  ## [使用 Flink 前需要知道的  10 个『陷阱』](https://blog.csdn.net/weixin_44904816/article/details/114610092)
  > 使用 Flink 前需要知道的  10 个『陷阱』
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [使用React Hooks 时要避免的5个错误！](https://blog.csdn.net/qq449245884/article/details/114624062)
  > 
- ## [人脸识别对动画无效，迪士尼打造动画专用人脸识别库](https://blog.csdn.net/HyperAI/article/details/114633786)
- > 人脸识别对动画无效，迪士尼打造动画专用人脸识别库
- ## [用超级简单的C语言实现人机五子棋（键盘控制）](https://blog.csdn.net/qq_53678306/article/details/114608102)
- > 用超级简单的C语言实现人机五子棋（键盘控制）
- ## [推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】](https://blog.csdn.net/m0_52650621/article/details/114582792)
- > 推荐52个堪称神器的学习网站，每天坚持一小时，让你受益一生【上】
 # PM 
  ## [软硬件产品经理的区别是什么？](http://www.chanpin100.com/article/113965)
  > 软件产品经理也叫做互联网产品经理，它的发源要比硬件产品经理晚，那么这二者的区别在哪里？下面请看本文关于软硬件产品经理的区别是什么的相关内容。
