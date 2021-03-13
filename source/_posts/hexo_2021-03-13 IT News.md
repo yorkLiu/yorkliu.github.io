@@ -1,20 +1,26 @@
 ---
 title: 2021-03-13 IT News
 copyright: true
-date: 2021-03-13 10:20:25
+date: 2021-03-13 12:18:08
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [打破美国的领先优势，中国和欧洲均大力投资芯片产业](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=UbW-AhPTe2R*SCTy6LAgy2vmjPbwgDA-e*umg9OYSyOTG-v*ZbKEYNdpo3hocexxpnUZglV3UHAe9NA*6r7qpaOxSSAlHDCn3uYOF1zq8qSZYkAyVsCk530-VgukMGLM&new=1)
+ ## [2021数博会“数博发布”之领先 科技成果系列征集推介会收官](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=F05FyKky7JWPnkkpeJCpBpIBwbqqMXR12M6Yi3LxpPewrkSGN66c6Tqr6awqudRS77mktVdsEAcqP4TWG2WNJwqF0Xjmmg90XNSDbmlCGkM=&new=1)
+ > 本报讯 3月12日，2021中国国际大数据产业博览会“数博发布”之领先科技成果系列征集推介会（贵阳专场）举行，这是本次系列征集推介会的收官之站。　　本次推介会由数博会组委会、中国互联网协会共同主办，贵...
+ ## [来!和你聊聊全球3D打印上市公司和价值](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=HKDBa1NeHfTOUqxYihuQERnERCUIMcbR5fzPzl9AXtGQTapI63l2X7fJ6Vmq5A8cjtF6LEOctB4p7ewLlLKdcOt0fbXWctWK3*EGZ0LMcKOK72rQ7kyEVHUFuPRyfLgh&new=1)
+ > 自从2021年2月的全球3D打印产品库直播发布会后，不少用户纷纷给南极熊留言表示意犹未尽，希望来一期关于3D打印上市公司的直播，交流一下行业和技术的发展。好的，那就来吧！△2021年3月17日，南极熊将在微信视频...
+ ## [小芯片大安全：数字隔离器的前世今生丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=kAcHZe1SJUvfx5fI0U5Nc1iiLx42orVJy3u90RDuKXW14AqQ86CQNnvrS2ZdQHwttItXHZMRbY*a1t0R0wAPpFi5ABRa4Fx-fBwrcQhW9QZ9Siis8Ww0twYVxnFfr5Yl&new=1)
+ > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
+ ## [打破美国的领先优势，中国和欧洲均大力投资芯片产业](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=UbW-AhPTe2R*SCTy6LAgy2vmjPbwgDA-e*umg9OYSyOTG-v*ZbKEYNdpo3hocexxfPxIceul*3fLXz*PzMam2Ir*BQK3zVbqRiIjPB9PZcsRTtfGGDr00rXqe5YUCmZC&new=1)
  > 近期欧洲计划投入万亿人民币的资金支持欧洲的芯片产业发展，这是在中国推出两期集成电路产业基金3000多亿之后，又一个经济体强烈发展自己的芯片产业。在全球芯片市场，美国依然是巨无霸，有分析指出美国依然占据...
- ## [全网最详细，5G的区别只有网速?频段也很重要](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=MWeWyxKoxv4IxtU0ZlHkKjMvIOzrznDPgA5RSvk9JqRCD93CaD9DUmkCXomcn34aXjhVjqDuD3Hqv8eij5JSfx9zh9qBgctgrLEx1od2M2BeJ7GxocxCpRSjsC4us1YM&new=1)
+ ## [全网最详细，5G的区别只有网速?频段也很重要](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=MWeWyxKoxv4IxtU0ZlHkKjMvIOzrznDPgA5RSvk9JqRCD93CaD9DUmkCXomcn34apkWI6nZww-n3LkKWWSDwrpJhemQ3gy5c74TUrqeJjgn*VMZRFvFOAhDp2PyWsDEX&new=1)
  > 前言最近一段时间，关于5G的争议格外多，大致的可以参考一下之前的文章：猝不及防的打脸？基站升级后5G手机无法用5G。所以今天来讲讲三大运营商在布局5G的种种无奈...PS：今天本来是发广告，但是最近阅读量下滑...
- ## [AI独角兽旷视科技IPO获受理!创业十年成为最“硬”AI公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=fHh2dWpchIPhlBvY7WlzyRuTVzG98MOV3T0Z4gTx*0lrrm5ym1wuRiD83pJh475EfvzH79QsICsXrxaJMYR34ipvQfzRPLspYGXIDYEMilDOZ*0fkfi-jw7EvfIH258Z&new=1)
+ ## [AI独角兽旷视科技IPO获受理!创业十年成为最“硬”AI公司](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=fHh2dWpchIPhlBvY7WlzyRuTVzG98MOV3T0Z4gTx*0lrrm5ym1wuRiD83pJh475E-exeXIZ-oy-qvRF0WiNOWGF9uRwkmKHqKYIAPpFNxm*BUrulI1AaARsPXH9E4Xjt&new=1)
  > 2017~2019年，旷视营收从3亿元增长至12.6亿元，涨幅超300%。作者 | 李水青编辑 | 漠影、心缘智东西3月12日消息，刚刚，上交所官网显示，AI独角兽旷视科技科创板IPO申请获受理。招股书显示，成立于2011年的旷视科...
- ## [自动驾驶传感器的下一个战场：4D毫米波雷达](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=5vdQWuyWkXqxqenTWxdte*YGwagIjOR183iA-RWU7BAyONBWE1r*5OWG4IU8qjfeVMP6jwI1r4N61CAmK*hoUUWlczGK-bN*UFRGR7tjCew2XFeyp55maFdDOSJZJZO4&new=1)
+ ## [自动驾驶传感器的下一个战场：4D毫米波雷达](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=5vdQWuyWkXqxqenTWxdte*YGwagIjOR183iA-RWU7BAyONBWE1r*5OWG4IU8qjfed6XWYrpG33VQHn8BHmkFRM8BCgkEUVPoZg0p38OyQ6d1ATVrwkezBlA0avromoN0&new=1)
  > 中国汽车科技趋势沙龙（第一期）开始报名啦“等特斯拉哪天真的开始用了，市场马上就火爆了。”在激光雷达之后，4D毫米波雷达极有可能成为自动驾驶传感器市场上的下一个爆点。这一市场上的活跃玩家，既有大陆这样...
- ## [《启发俱乐部》广东专场圆满收官 中国联通“创新与智慧同行”品牌内核新诠释](http://mp.weixin.qq.com/s?src=11&timestamp=1615600804&ver=2943&signature=E0eZS0Fw6bwijLQlM142UMyrOGhI8p1FmikeqTn8DiIBxQyF9V-jyOnyLZiArBqzHrXXakSqM8jKrtK3UfzdwHcJloMLEj*vLoYlWzHwWc10htE*HUP2EwW9Y75j0nmN&new=1)
+ ## [《启发俱乐部》广东专场圆满收官 中国联通“创新与智慧同行”品牌内核新诠释](http://mp.weixin.qq.com/s?src=11&timestamp=1615608004&ver=2943&signature=E0eZS0Fw6bwijLQlM142UMyrOGhI8p1FmikeqTn8DiIBxQyF9V-jyOnyLZiArBqzrVdcTJzPXVCvFJ8gfutg1fZZOprijI-CYgM4tIVbq*tCm95xF64wm8EO*PWbMJhF&new=1)
  > 3月10日，运营商情报了解到，由中国联通独家冠名的《启发俱乐部》第二季最后一期节目在花城广州播出。《启发俱乐部》第二季主讲人、得到创始人罗振宇亲临广东专场，与现场500多位观众展开了一场精彩纷呈的互动交...
 # IT 技术 
  ## [今天我才知道Redis有7种数据类型...](http://stor.51cto.com/art/202103/649648.htm)
@@ -31,8 +37,14 @@ categories: IT NEWS
  > 为摩尔定律“续命”，小芯片何时普及？
  ## [鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里](http://developer.51cto.com/art/202103/649531.htm)
  > 鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里
- ## [Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1](http://fellow.51cto.com/art/202012/635764.htm?qd=51ctojrzd)
- > Oracle数据库职业前景与学习方法_Oracle数据库学习入门系列教程1
+ ## [C++升华篇之俄罗斯方块（七日成蝶）](http://fellow.51cto.com/art/202012/637344.htm?qd=51ctojrzd)
+ > C++升华篇之俄罗斯方块（七日成蝶）
+ ## [C如何在Windows中操作IIS设置FTP服务器](http://server.51cto.com/sOS-649867.htm)
+ > FTP(File Transfer Protocol)是TCP/IP网络上两台计算机传送文件的协议，使得主机间可以共享文件.可以将 Int
+ ## [盘点Python定义函数基础知识](http://developer.51cto.com/art/202103/649866.htm)
+ > 本文基于Python基础，介绍了函数定义。定义函数时，需要确定函数名和参数个数；如果有必要，可以先对参数的
+ ## [苹果Find My特征bug暴露用户位置信息](http://netsecurity.51cto.com/art/202103/649865.htm)
+ > 研究人员发现苹果Find My特征存在漏洞，可能会暴露用户历史位置信息。
  ## [使HTML 5数字输入仅接受整数](http://developer.51cto.com/art/202103/649864.htm)
  > 使用HTML 5属性来限制可以发送到服务器的内容，然后使用Javascript增强它，以限制用户可以在第一个地方输入
  ## [俄罗斯外交部发言人提议要对互联网公司进行普遍监管](http://netsecurity.51cto.com/art/202103/649863.htm)
@@ -47,14 +59,8 @@ categories: IT NEWS
  > 据外媒报道，T-Mobile计划到2023年底向90%的美国人提供“超容量5G”。
  ## [OLTP与OLAP概念、主要区别和完美实践](http://database.51cto.com/art/202103/649855.htm)
  > OLTP、OLAP、VDI和SPC-1是当前性能评估中常见的三类业务场景。SPC-1是业界通用的随机IOPS型的IO模型，在不
- ## [5G行业终端起航！519款5G终端，303款已商用](http://network.51cto.com/art/202103/649854.htm)
- > 对于每一代移动通信技术的发展，一个简单且直观的印象是：1G、2G解决了在移动过程中打电话的问题，3G、4G着
- ## [安全人员发现CPU重大漏洞：AMD、Intel、苹果、三星纷纷中招](http://netsecurity.51cto.com/art/202103/649852.htm)
- > 据报道，美国康奈尔大学最近就在苹果M1处理器上做了研究，他们的一个目标就是限制或者禁用JavaScrit脚本的
- ## [跟随 Chrome：微软 Edge 浏览器发行周期缩短至 4 周](http://os.51cto.com/art/202103/649851.htm)
- > 3月13日消息 就在不久前，谷歌宣布将 Chrome 浏览器的发行周期由 6 周缩短至 4 周。根据外媒 TheVerge 消息
- ## [汽车巨头不愿被 “羞辱”，苹果造车重回代工模式](https://blog.csdn.net/weixin_39787242/article/details/114695333)
- > 汽车巨头不愿被 “羞辱”，苹果造车重回代工模式
+ ## [克制授信，蚂蚁集团将严控年轻人额度](https://blog.csdn.net/weixin_39787242/article/details/114695438)
+ > 克制授信，蚂蚁集团将严控年轻人额度
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
