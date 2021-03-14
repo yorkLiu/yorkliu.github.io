@@ -1,21 +1,23 @@
 ---
 title: 2021-03-14 IT News
 copyright: true
-date: 2021-03-14 09:08:59
+date: 2021-03-14 10:15:28
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [牛聘|2021年度岗位招聘第3期](http://mp.weixin.qq.com/s?src=11&timestamp=1615683604&ver=2945&signature=*WBMKAa6lSQAqx3qY8RbQQNasxRHxXXehCCvMwOi2P7x9Yu*AT7oH3PdkTOrwx9qD6hLizuaX-8espdl7xJeRk0ID8z9ZpuJZbMHyzaskeznSAfJg8I7Btm3NZSBVZ-U&new=1)
- > 牛聘是安全牛旗下的垂直招聘平台，为了帮助安全牛会员企业更好的解决用人的需求，牛聘每周六陆续发布会员企业的招聘信息，发布顺序根据会员企业招聘信息提交时间和用人紧迫程度综合而定，本次发布2021年度岗位招...
- ## [中国电信孤注一掷重磅成立新公司，](http://mp.weixin.qq.com/s?src=11&timestamp=1615683604&ver=2945&signature=6oTea3EOZsuMidklcmdm*ErLwkzkb6kWEeW6*wPlmGwLm681Nm6au-PuCBileQCEVwfHX150ENuuqLvJfcEeO9XvsQr2wN5pQ2gV*8sVo8xTHZuGxOOQtZnBv0H-5G9I&new=1)
- > 运营商情报了解到，中国电信对新业务的笃定和战略布局在三家运营商之中可谓一直冲在最前方，从去年中国电信提出“云改数转”，电信集团层面到各省分都在有序的传导、贯彻、执行。从5G SA全球规模商用到云网融合...
- ## [种春草肥禾，织数字天下](http://mp.weixin.qq.com/s?src=11&timestamp=1615683604&ver=2945&signature=sA-E6p9zFOuun0YfulTXep0xvCFXGch36qCqDoAgHhTTGPl51IJ2RnxPaHlC2r-osXtZtUGZ6yiuLjACgUQRq*LSWMIcivl6z1k0zR86eH6DKcPciVOQ7ENFgLviyEKK&new=1)
- > ——本文作者 脑极体进入3月，和春天一起到来的，还有各行各业与数智科技相触碰后所显现的勃勃生机。我们知道，十三五期间，科技成为支撑中国高质量发展的“新动能”，即便是在2020年疫情影响的不利环境下，许多...
- ## [BUF大事件丨黑客入侵 15 万个监控摄像头；低级Bug导致网站被两度攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1615683604&ver=2945&signature=AMGwYc811U0gtYb9WYJZdmigeW-ccQ3xeEBwTU4aGcLihsiODa*C3QWuwVxmtJu-YgirWwDYhRnQbYDZFZEDpvStodMcYsrxCF1oGqcRwPRScVpLjDNXkTfbQlpCEdxy&new=1)
- > 本周BUF大事件还是为大家带来了新鲜有趣的安全新闻，黑客入侵 15 万个监控摄像头，特斯拉上海仓库视频曝光；CTO写低级Bug致网站被攻击；微软邮件漏洞导致3万个美国机构遭攻击；《2021国内甲方企业安全建设预算调...
- ## [与小米、华为、海康、中兴、海能达、大华相关的3条则新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1615683604&ver=2945&signature=WIsS95NWX*2UftQtdL9UtQmOIJc6Hfl6bfKTMe4fO1Fw1kX7Cieo-3I9llqbHIrDeP8eQToqDTZyZ6e4wS2xUS4MZifk5ky9aoV6O9Sui*I62VEG06Y1m6YjJDsdZ3Cj&new=1)
+ ## [与小米、华为、海康、中兴、海能达、大华相关的3条则新闻](http://mp.weixin.qq.com/s?src=11&timestamp=1615687205&ver=2945&signature=WIsS95NWX*2UftQtdL9UtQmOIJc6Hfl6bfKTMe4fO1Fw1kX7Cieo-3I9llqbHIrDzZlDpMg77cur4Vpg6Bo80WZh4woWfBMgX-2PdDTvnlAkmKh4T93H277C9mls0Ue8&new=1)
  > 美法官阻止国防部对小米禁令生效3月13日，综合彭博社和路透社的消息，华盛顿的一位联邦法官禁止了美国国防部此前对美国企业投资小米公司作出的限制。此前，美国国防部作出的限制，所基于的理由是小米公司与中国...
+ ## [牛聘|2021年度岗位招聘第3期](http://mp.weixin.qq.com/s?src=11&timestamp=1615687205&ver=2945&signature=*WBMKAa6lSQAqx3qY8RbQQNasxRHxXXehCCvMwOi2P7x9Yu*AT7oH3PdkTOrwx9qG2xTkUZGSdLQR6T6d7oRPHftxfFMJFDWQgLoeeZcOEHsWHJOVG-SDwrv3rQxukJA&new=1)
+ > 牛聘是安全牛旗下的垂直招聘平台，为了帮助安全牛会员企业更好的解决用人的需求，牛聘每周六陆续发布会员企业的招聘信息，发布顺序根据会员企业招聘信息提交时间和用人紧迫程度综合而定，本次发布2021年度岗位招...
+ ## [BUF大事件丨黑客入侵 15 万个监控摄像头；低级Bug导致网站被两度攻击](http://mp.weixin.qq.com/s?src=11&timestamp=1615687205&ver=2945&signature=AMGwYc811U0gtYb9WYJZdmigeW-ccQ3xeEBwTU4aGcLihsiODa*C3QWuwVxmtJu-hIwKgdAF89j4wiv4xNRaBzdoJSJ1FfH08n-9kuMwbh3csUcetDXzIEvFfiWOWEJy&new=1)
+ > 本周BUF大事件还是为大家带来了新鲜有趣的安全新闻，黑客入侵 15 万个监控摄像头，特斯拉上海仓库视频曝光；CTO写低级Bug致网站被攻击；微软邮件漏洞导致3万个美国机构遭攻击；《2021国内甲方企业安全建设预算调...
+ ## [中国电信孤注一掷重磅成立新公司，](http://mp.weixin.qq.com/s?src=11&timestamp=1615687205&ver=2945&signature=6oTea3EOZsuMidklcmdm*ErLwkzkb6kWEeW6*wPlmGwLm681Nm6au-PuCBileQCERleJOggAAyCGsjWuwrOgrLZEqMSW4bge0FyZB3unpi2izV-lcDtrZdGOfXYrEwLe&new=1)
+ > 运营商情报了解到，中国电信对新业务的笃定和战略布局在三家运营商之中可谓一直冲在最前方，从去年中国电信提出“云改数转”，电信集团层面到各省分都在有序的传导、贯彻、执行。从5G SA全球规模商用到云网融合...
+ ## [美国认定华为、海康威视等威胁其国家安全，部分通信产品将被拆除!华为曾起诉](http://mp.weixin.qq.com/s?src=11&timestamp=1615687205&ver=2945&signature=k9OOXzjGcjYu47oQZ5km7x9QPJ7jMmotlxXYc4MPTeg1jgFsXj4NoBR1xMK*TUfMlI8eakouhHO1tlb4l8Ful170i0z9IqIul2rAH6ovirffljyof0hq2zpuGy5B9y58&new=1)
+ > 美国方面对中企的打压仍未止步。当地时间3月12日，美国联邦通信委员会（FCC）公共安全部和国土安全局（HHS）周五将包括华为在内的五家中国公司纳入不可信供应商名单，理由是认为这些企业生产的电信设备和服务，...
+ ## [种春草肥禾，织数字天下](http://mp.weixin.qq.com/s?src=11&timestamp=1615687205&ver=2945&signature=sA-E6p9zFOuun0YfulTXep0xvCFXGch36qCqDoAgHhTTGPl51IJ2RnxPaHlC2r-ouvXnGrx5oJ7kolKGLMWmtaQK*JFYTuLYB9FHYBr8wUw1NwTn63z4gTQl7EVF9A8h&new=1)
+ > ——本文作者 脑极体进入3月，和春天一起到来的，还有各行各业与数智科技相触碰后所显现的勃勃生机。我们知道，十三五期间，科技成为支撑中国高质量发展的“新动能”，即便是在2020年疫情影响的不利环境下，许多...
 # IT 技术 
  ## [今天我才知道Redis有7种数据类型...](http://stor.51cto.com/art/202103/649648.htm)
  > 今天我才知道Redis有7种数据类型...
@@ -31,8 +33,10 @@ categories: IT NEWS
  > 为摩尔定律“续命”，小芯片何时普及？
  ## [鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里](http://developer.51cto.com/art/202103/649531.htm)
  > 鸿蒙内核源码分析(汇编汇总篇) | 鸿蒙所有的汇编代码都在这里
- ## [MySQL逻辑备份恢复实战2之mydumper_MySQL数据库备份与恢复04](http://fellow.51cto.com/art/202012/634847.htm?qd=51ctojrzd)
- > MySQL逻辑备份恢复实战2之mydumper_MySQL数据库备份与恢复04
+ ## [HTML和CSS 6小时学习经典视频教程](http://fellow.51cto.com/art/202101/639894.htm?qd=51ctojrzd)
+ > HTML和CSS 6小时学习经典视频教程
+ ## [1400万个Amazon和eBay帐户数据被泄露](http://netsecurity.51cto.com/art/202103/649934.htm)
+ > 近日，有匿名用户在一个著名的黑客网站上披露了来自 Amazon 和 eBay 的 1400 万帐户数据。
  ## [Java编程内功-数据结构与算法「前缀，中缀，后缀」](http://developer.51cto.com/art/202103/649932.htm)
  > 本篇继续给大家介绍关于Java编程的相关知识，今天主要介绍数据结构与算法「前缀，中缀，后缀」，希望能够帮
  ## [帮你精通JS：函数式array逻辑判断的7个高阶函数](http://developer.51cto.com/art/202103/649931.htm)
@@ -47,8 +51,8 @@ categories: IT NEWS
  > 尽管DevOps仍然是组织节省时间和金钱，提高质量并缩短产品上市时间的最佳解决方案，但确实需要升级和集成现
  ## [简直就是剪视频的神兵利器！剪映专业版体验](http://os.51cto.com/art/202103/649926.htm)
  > 随着短视频的火爆，视频编辑软件也越来越吃香。一款好用的视频编辑软件能帮助用户更快更好的剪辑出一段精彩
- ## [微软承认最新Win10更新会致电脑蓝屏死机](https://blog.csdn.net/weixin_39787242/article/details/114695554)
- > 微软承认最新Win10更新会致电脑蓝屏死机
+ ## [苹果13/Pro刘海凹槽更小，或搭载屏下指纹识别](https://blog.csdn.net/weixin_39787242/article/details/114755271)
+ > 苹果13/Pro刘海凹槽更小，或搭载屏下指纹识别
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
