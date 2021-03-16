@@ -1,20 +1,22 @@
 ---
 title: 2021-03-16 IT News
 copyright: true
-date: 2021-03-16 08:08:12
+date: 2021-03-16 09:16:07
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[观察\]向“米兰”进军，AMD驱动数据中心再创新](http://mp.weixin.qq.com/s?src=11&timestamp=1615852805&ver=2949&signature=2Ql17DErY3dVP9ZutCCKWbjZ6aEQ9q3Gv1aWUgf7K6oA0jx4tyTyv29czuOIZLhiXEC-z7AKALtUSQVWVPC26RD04l*zT8I0cMI3*OIqbj5ADKr4VcDHIe*Crm*CljzU&new=1)
+ ## [\[观察\]向“米兰”进军，AMD驱动数据中心再创新](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=2Ql17DErY3dVP9ZutCCKWbjZ6aEQ9q3Gv1aWUgf7K6oA0jx4tyTyv29czuOIZLhiqlopb4BMkGCRzb4ScpX48bP0T4ttlUt0ohIpwhDdgpAK-prnBOPASk8Mj4hSPImV&new=1)
  > 申耀的科技观察读懂科技，赢取未来！毫无疑问，今天无论是产业变革还是技术迭代都在不断的加速演进：一方面，整个产业正经历着从消费互联网到产业互联网的转变；另一方面，整个技术创新也正经历着从基础设施云化...
- ## [\[故障\]欧洲最大云服务商遭遇火灾，阿里云、腾讯云、华为云有哪些宕机故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1615852805&ver=2949&signature=Cs6bamQnFdrvE83QYBwZF2Z*VZWfA8YzYzLFpt*sNjLJRRw4RdotbevyjKPj7EKgBzDD5DvJgEVcmQJAwCIW-pr7cFBW3z146BDY9R*6rv945F8Yb9vLHeUtvm9OaEfY&new=1)
+ ## [\[故障\]欧洲最大云服务商遭遇火灾，阿里云、腾讯云、华为云有哪些宕机故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=Cs6bamQnFdrvE83QYBwZF2Z*VZWfA8YzYzLFpt*sNjLJRRw4RdotbevyjKPj7EKgTLUPLsF3ezTBXcBHfefInK87*xYp4tBZl7uudGwe-U4bxxHsxEihqjMRadG6Yaey&new=1)
  > 近日，欧洲最大的云服务商——OVH位于法国斯特拉斯堡的数据中心遭遇了严重的火灾。 据悉，OVH在该区域共有4个数据中心，发生起火的SBG2数据中心被完全烧毁，SBG1的建筑物部分受损，SBG3因受到消防保护暂未受影响...
- ## [一图看懂 2021 央视 3.15 晚会](http://mp.weixin.qq.com/s?src=11&timestamp=1615852805&ver=2949&signature=WYthTPbDWzf-*mckzRhgDxFESPDsu2UySmeS5x197ZzfUEClPg9ARC4kBUWIhlLsHqsBYEKX8fsTTBxbvO2tYYg29xa*qlVc4yntbE0TL92LSrxkJFYfRZ*-Cx-Q9tRj&new=1)
+ ## [一图看懂 2021 央视 3.15 晚会](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=WYthTPbDWzf-*mckzRhgDxFESPDsu2UySmeS5x197ZzfUEClPg9ARC4kBUWIhlLsfCO0ZmpcDPW9HMYZJx7GNqufhckrt2gjJ6yPEWiqZ70zeWk9xngJu4B35iLB1Qz3&new=1)
  > 文 | DoNews 刘文轩被誉为“老百姓最想看的晚会”，央视 3.15 晚会已经走过了30年的历史，它像一面镜子，一方面映照着中国经济的不断发展变化；另一方面，它将消费中的问题也真实披露在消费者面前。每一年315，...
- ## [央视315刚刚曝光：很多人手机常用的软件竟如此之坑](http://mp.weixin.qq.com/s?src=11&timestamp=1615852805&ver=2949&signature=ewKiSg7IyLPIBEAhzdJx9UUUQkY*Rzg5AQFOUrWnCjgBGZ6tsr-6LCLprSShFzB4V1Dx38l2wT556Sr*CcTjDA2VtpKP6YerJpqTgLt0IPWpOYWHhYUVix9j8g1smCk2&new=1)
+ ## [央视315刚刚曝光：很多人手机常用的软件竟如此之坑](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=ewKiSg7IyLPIBEAhzdJx9UUUQkY*Rzg5AQFOUrWnCjgBGZ6tsr-6LCLprSShFzB46fIh7TEf7hOM5lEgdH5p*vc1x1wK8cB9W4aNTl4ZAF6NccIEzxVJ7pW0udMHSsvT&new=1)
  > 今天是一年一度的消费者权益保护日，也就是我们俗称的315。央视每年的今天都会召开一个晚会来揭露各行各业内的侵犯消费者权益的事件。今年就提到了4个方面，而其中一个方面则是小智这篇文章要重点讲的，不少人都...
 # IT 技术 
+ ## [用于数字化和从图像中提取特征的六个预先训练的深度学习模型](http://ai.51cto.com/art/202103/650142.htm)
+ > 用于数字化和从图像中提取特征的六个预先训练的深度学习模型
  ## [如何加大IRPStackSize以改善Windows 10中的网络速度？](http://os.51cto.com/art/202103/650141.htm)
  > 如何加大IRPStackSize以改善Windows 10中的网络速度？
  ## [大意了，1次亿级数据分页优化搞了半夜！](http://database.51cto.com/art/202103/650144.htm)
@@ -27,38 +29,38 @@ categories: IT NEWS
  > 如何用Wav2Vec 2.0将语音转换成文本
  ## [如何使用DNS构建无成本的区块链数据库](http://database.51cto.com/art/202103/649936.htm)
  > 如何使用DNS构建无成本的区块链数据库
- ## [如何为您的平台选择正确的API网关](http://developer.51cto.com/art/202103/650016.htm)
- > 如何为您的平台选择正确的API网关
- ## [Oracle 11g数据库课程【PL/Sql】](http://fellow.51cto.com/art/202101/640711.htm?qd=51ctojrzd)
- > Oracle 11g数据库课程【PL/Sql】
+ ## [Linux运维入门及进阶全新经典视频课程-老男孩Linux（1）](http://fellow.51cto.com/art/202101/641369.htm?qd=51ctojrzd)
+ > Linux运维入门及进阶全新经典视频课程-老男孩Linux（1）
+ ## [为什么 Kubernetes 要替换 Docker](http://cloud.51cto.com/art/202103/650198.htm)
+ > 为什么这么设计(Why’s THE Design)是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇
+ ## [面试常问，工作常用的Redis持久化机制](http://developer.51cto.com/art/202103/650196.htm)
+ > redis是一个内存数据库，数据保存在内存中，但是我们都知道内存的数据变化是很快的，也容易发生丢失。幸好R
+ ## [315 镜头下，险恶的互联网扒掉的都是我们「隐私信息」的『底裤』](http://news.51cto.com/art/202103/650195.htm)
+ > 我们今天聊一聊昨晚央视 315 打假晚会这件事吧。主要公布了 9 个事件，简单梳理了一下。
+ ## [测试同学上手Spring 之IoC深入解析](http://developer.51cto.com/art/202103/650197.htm)
+ > 想要理解Spring，必须要掌握的两个知识点就是IoC和AOP，在这里我首先带大家了解一下什么是IoC。为大家上手S
+ ## [使用Webhook为Kubernetes实现基于标签的权限控制](http://cloud.51cto.com/art/202103/650191.htm)
+ > Kubernetes支持名称空间级别的权限控制。但是，有时这不能满足我们的要求。例如，在Akraino ICN项目中，我
+ ## [你已经是一个优秀的开发者了吗？我不是！](http://news.51cto.com/art/202103/650192.htm)
+ > 作为一名培训师，我定期监督学员，通过适当的入职培训和技术内容的教学，他们慢慢的从初学者成为真正的开发
+ ## [为什么航天器、导弹喜欢用单片机，而不是嵌入式系统？](http://os.51cto.com/art/202103/650190.htm)
+ > 前几天和一个在某研究所的发小聊天，他说：现在的航空、航天和导弹等武器装备中，控制系统几乎都是用单片机
  ## [老人用机如何避开安全陷阱 牢记这几条“铁律”](http://network.51cto.com/art/202103/650188.htm)
  > 随着移动互联的发展，不同年龄段的人群都有机会享受数字生活带来的便利，这其中也包括数以亿计的老年朋友。
  ## [Windows10下发新补丁：修复蓝屏、打印机抽风等问题](http://os.51cto.com/art/202103/650187.htm)
  > 上周，微软确认，Win10 3月补丁KB5000802可能会让部分打印机(京瓷、理光等受灾严重)遭遇APC_INDEX_MISMATCH
- ## [Python 列表的应用场景有哪些？你使用对了吗？](http://developer.51cto.com/art/202103/650183.htm)
- > 我们在前几篇文章中依次介绍了列表的特性和用法、列表推导式、列表的底层实现。今天来聊一聊列表在实际开发
- ## [9 个 Node.js 开发人员喜欢的开源工具](http://os.51cto.com/art/202103/650182.htm)
- > 我最近在 StackOverflow 上读到了一项调查，该调查称超过 49％ 的开发人员在其项目中使用了 Node.js。这结
- ## [分层架构演化：从单体的插件化演化所引起的思考](http://developer.51cto.com/art/202103/650181.htm)
- > 最近，在为 Coco 优化分层架构之时，我陷入了各种决策困难之中。所以我通过不断地延迟决策，以摸清更适合
- ## [海量人脸信息已被搜集：315 晚会曝光人脸识别乱象](http://ai.51cto.com/art/202103/650180.htm)
- > 3月15日消息 一年一度的央视财经 3.15 晚会正在进行中，从前言来看主要曝光问题涉及 9 个方面：第一弹即为
- ## [给机器人装上蝗虫耳朵，以色列科学家实现生物传感器新突破](http://ai.51cto.com/art/202103/650179.htm)
- > 通俗来讲，要想让机器人 “听见”，就需要麦克风阵列将声音信号转换为电信号，随后经过对电信号进行处理，
- ## [315 晚会：手机清理类软件将老人推向诈骗深渊](http://network.51cto.com/art/202103/650178.htm)
- > 3 月 15 日消息 在今晚的 315 晚会上，央视曝光了手机上清理类软件给老年人带来的困扰。
- ## [如何让你的开源项目更有展现力?](http://os.51cto.com/art/202103/650175.htm)
- > 今天讲的内容不是纯纯的技术干货, 而是笔者在做开源项目中用到的一些工具, 可以让我们的开源项目更加富有展
- ## [Windows10三月更新蓝屏翻车！教你如何修复这大Bug](http://os.51cto.com/art/202103/650174.htm)
- > 在3月9日，微软向Windows10用户推送了3月累积更新。其中，面向Win10 2004、Windows10 20H2推送的补丁具体代
- ## [程序员必读的涨薪指南](https://blog.csdn.net/m0_46163918/article/details/114689788)
- > 程序员必读的涨薪指南
+ ## [面试官:Java中实例对象存储在哪？](http://stor.51cto.com/art/202103/650193.htm)
+ > 低级语言是计算机认识的语言、高级语言是程序员认识的语言。如何从高级语言转换成低级语言呢?这个过程其实
+ ## [微软研究团队成员自曝删改不利数据，量子计算重大进展是假的](https://blog.csdn.net/m0_46163918/article/details/114832495)
+ > 微软研究团队成员自曝删改不利数据，量子计算重大进展是假的
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
- ## [开源是靠爱发电吗？](https://csdnnews.blog.csdn.net/article/details/114652695)
+ ## [【盖楼抽奖】快速提升1倍工作效率！ CSDN官方出品的浏览器插件来啦！！](https://blog.csdn.net/csdnsearch/article/details/109745540)
  > 
  ## [你以为在做的是微服务？不！你只是做了个比单体还糟糕的分布式单体！](https://blog.csdn.net/dyc87112/article/details/114687154)
  > 你以为在做的是微服务？不！你只是做了个比单体还糟糕的分布式单体！
+ ## [被“钱”困住的开源开发者们！](https://blog.csdn.net/csdnnews/article/details/114652695)
+ > 被“钱”困住的开源开发者们！
  ## [一场大火，让云计算巨头的数据中心化为灰烬！10 万Rust 游戏玩家的数据永久丢失，无法恢复](https://blog.csdn.net/csdnnews/article/details/114693606)
  > 一场大火，让云计算巨头的数据中心化为灰烬！10 万Rust 游戏玩家的数据永久丢失，无法恢复
  ## [欧洲最大云服务公司 OVH 法国机房着火：1个数据中心被完全烧毁、部分客户数据完全丢失且无法恢复](https://blog.csdn.net/csdnnews/article/details/114652675)
@@ -79,8 +81,6 @@ categories: IT NEWS
  > 《聊天大话C语言》（1）我在大佬群里问基础问题没人理？
  ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
- ## [阿里二面:MQ消费端遇到瓶颈该怎么办](https://blog.csdn.net/prestigeding/article/details/114825955)
- > 阿里二面:MQ消费端遇到瓶颈该怎么办
 # 人工智能 
  ## [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
  > 前方危险：MySQL UPDATE 语句的非标准实现
