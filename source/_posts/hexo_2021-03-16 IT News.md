@@ -1,56 +1,68 @@
 ---
 title: 2021-03-16 IT News
 copyright: true
-date: 2021-03-16 10:11:22
+date: 2021-03-16 12:14:31
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [央视315刚刚曝光：很多人手机常用的软件竟如此之坑](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=ewKiSg7IyLPIBEAhzdJx9UUUQkY*Rzg5AQFOUrWnCjjEdGXkOnX3sJ62ptJWB1s45ldasAM9kURycmXk2oOPk7HRnG3xpfbs-fe52tgooWpsvA-hWuwTEvZxZxxj3VOH&new=1)
+ ## [处置“3·15”晚会曝光App，北京组织下架违规应用](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=810LeivTq5LrWLaaZaQL-8*K1UECAwJLPi9-FU*Pm3BGMBx*jZyOmOy6T0TI1c9uWDVhYSh8PSfT8qdSuVIAcvUoKcg*GqAUcEMpUOvs6rM=&new=1)
+ > 记者3月16日从市通信管理局获悉，该局高度重视App侵权行为，针对央视“3.15”晚会曝光的手机清理类软件第一时间启动处置机制，在工信部指导下，目前该局已组织北京地区App应用商店对被曝光的App进行了下架处理。...
+ ## [央视“3·15”晚会成“隐私专场”](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=FQVKrvOt5*VkfS8BE*bHWMjzo1YR2Md4l7-mFnGeqFXbcNsQ5V4I87etu*VdWt8t67VKUyzvNmT5zjXL5frWy0qXvWS0nhgWjxdZcB38sd5aLMYQOxIpWiWT6GfwG8zu&new=1)
+ > 今年的央视“3·15”晚会，隐私保护成了最大“亮点”。继食品安全、环境安全和健康安全之后，“隐私安全”首次成了央视315的焦点话题。商家人脸识别、简历大数据、专坑老年人的手机“清理”软件、搜索引擎及浏览...
+ ## [高能来袭!戴尔官网Latitude企业级硬核商务本低至5.4折，3199元带回家!](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=Os2XIWytWD12sTxpAq97X*aSJbEJs*j*lyfoh-gLyLL*UbPlzHbYK7yL3TiYVH7HipeCB514CG2Pdl2eNDQJwE12mc3nez3zWywTi1Vg7Tfhent3OjNGy7VXC87d4qa5&new=1)
+ > 初创小企业不想花太多钱在设备上？又不想买到质量差售后无的笔记本、台式机？来戴尔小企业官网商城超多高能电脑正值春季优惠返修率超低稳定安全用得住！企业级客户专享福利小企业客户：百人以下公司机构1.关注公...
+ ## [美媒调查：60%美国科技行业受访者支持与中国科技公司开展更紧密合作](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=pa9z*1TgeuvU5dMO95tt6Ekfi413HAa2O2DNHEgNLL5WT1GVrAtrtMHYTeuzoVC5y53Zn9KXAQ3tjoFVnu2h7fuUGzYP3TSEZLKuhgEKkzY=&new=1)
+ > 【环球网报道 记者 侯佳欣】就在美国政府和某些机构炒作“中国黑客”话题之际，一项美媒最新公布的民调显示，56%的美国科技行业受访者认为美国对中国科技公司限制过头，60%的受访者支持与中国科技公司开展更紧密...
+ ## [在数字经济领域创先争优 助推贵阳贵安高质量发展](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=P4OYHTANsKyqEULS3aGxEo41Tkuk7fVGSmrPZBCSs-*mhpOJM0sCIauklmLy5FyFgnh2Lggw*nK-spsWH3j1cBTH6NDe4UGGH-ioih5rG1U=&new=1)
+ > “习近平总书记春节前夕视察贵州，对贵州工作提出明确要求，为贵阳贵安深入实施大数据战略行动、以数字经济为新动能助推经济社会高质量发展指明了前进方向。”贵阳市大数据发展管理局党委书记、局长吴宏春说...
+ ## [国产3D打印切片软件ideaMaker 4.1.0 新版：强大的纹理功能](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=5OLGO9jVZwMuTziCmgjII3aKmdc*inQspYcp9oKhkQQL8DcHZvx3tL1NmI4dRmK8aTGrB584Y1WKlSLL2g50FLB6OeRMQgJjMMy4*5-mfpB9Pw29Up*83T0K6KObL3QO&new=1)
+ > △微信预约直播，聊聊全球3D打印上市公司及价值2021年3月15日，全球最流行的3D打印切片软件之一 ideaMaker新版本——ideaMaker 4.1.0正式对外发布。ideaMaker作为Raise3D自主研发的软件，Raise3D
+ ## [央视315刚刚曝光：很多人手机常用的软件竟如此之坑](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=ewKiSg7IyLPIBEAhzdJx9UUUQkY*Rzg5AQFOUrWnCjjEdGXkOnX3sJ62ptJWB1s4Kvwqc4OUBkI-kcxwdtsQl6rrFmexFqjUVFJTaE1iGWJGdbVytXngS8WtCx5b16Cr&new=1)
  > 今天是一年一度的消费者权益保护日，也就是我们俗称的315。央视每年的今天都会召开一个晚会来揭露各行各业内的侵犯消费者权益的事件。今年就提到了4个方面，而其中一个方面则是小智这篇文章要重点讲的，不少人都...
- ## [\[故障\]欧洲最大云服务商遭遇火灾，阿里云、腾讯云、华为云有哪些宕机故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=Cs6bamQnFdrvE83QYBwZF2Z*VZWfA8YzYzLFpt*sNjLOpRMvmL270HKpvYAp-d*Rlf-OtJExkmGR45Sv7i96ohZRZRlAfceCBBBzLDn6ekvo7YMcdLtUm5ThiV4bCfif&new=1)
+ ## [\[故障\]欧洲最大云服务商遭遇火灾，阿里云、腾讯云、华为云有哪些宕机故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=Cs6bamQnFdrvE83QYBwZF2Z*VZWfA8YzYzLFpt*sNjLOpRMvmL270HKpvYAp-d*R*8-uYWZRU*NA-IouHX7Rxyh8ru7aSHzmOLMq1SrsRd1p2tHtSsLcczIRAIEo3JQf&new=1)
  > 近日，欧洲最大的云服务商——OVH位于法国斯特拉斯堡的数据中心遭遇了严重的火灾。 据悉，OVH在该区域共有4个数据中心，发生起火的SBG2数据中心被完全烧毁，SBG1的建筑物部分受损，SBG3因受到消防保护暂未受影响...
- ## [一图看懂 2021 央视 3.15 晚会](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=WYthTPbDWzf-*mckzRhgDxFESPDsu2UySmeS5x197Zy0pIl6WhJsn3uGrOjtMJ3kl9ZyYFK43HeFTEvVhSnlhkX6SEzDoJqbaU*5eji309PtMpliR4t6YzbEL*4GdTGg&new=1)
+ ## [一图看懂 2021 央视 3.15 晚会](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=WYthTPbDWzf-*mckzRhgDxFESPDsu2UySmeS5x197Zy0pIl6WhJsn3uGrOjtMJ3kNjACcb0RAunh9H14LTnVytL9oV3-w6x0Mv0HZQoNeptQV4pBM-SKx3BaiFrrNi0y&new=1)
  > 文 | DoNews 刘文轩被誉为“老百姓最想看的晚会”，央视 3.15 晚会已经走过了30年的历史，它像一面镜子，一方面映照着中国经济的不断发展变化；另一方面，它将消费中的问题也真实披露在消费者面前。每一年315，...
- ## [\[观察\]向“米兰”进军，AMD驱动数据中心再创新](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=2Ql17DErY3dVP9ZutCCKWbjZ6aEQ9q3Gv1aWUgf7K6odKWyUVubPOhBMdDO5dcbwNunB1a-jZG5nIpj3P-gNjzFhDZDFe-leEOk492o*DIss1qjIGMqDWHDbDA6Ii4E-&new=1)
+ ## [\[观察\]向“米兰”进军，AMD驱动数据中心再创新](http://mp.weixin.qq.com/s?src=11&timestamp=1615867204&ver=2949&signature=2Ql17DErY3dVP9ZutCCKWbjZ6aEQ9q3Gv1aWUgf7K6odKWyUVubPOhBMdDO5dcbwkgEHrxpWC26ThzErR20oUWLxBmf3rNj*-Soa4TxZb9CeOj2mMCD1lJWUp3vSNsPl&new=1)
  > 申耀的科技观察读懂科技，赢取未来！毫无疑问，今天无论是产业变革还是技术迭代都在不断的加速演进：一方面，整个产业正经历着从消费互联网到产业互联网的转变；另一方面，整个技术创新也正经历着从基础设施云化...
 # IT 技术 
+ ## [雷军“复活”米聊后又推HEYY，但别忘了Clubhouse的隐私安全问题](http://netsecurity.51cto.com/art/202103/650256.htm)
+ > 雷军“复活”米聊后又推HEYY，但别忘了Clubhouse的隐私安全问题
  ## [用于数字化和从图像中提取特征的六个预先训练的深度学习模型](http://ai.51cto.com/art/202103/650142.htm)
  > 用于数字化和从图像中提取特征的六个预先训练的深度学习模型
+ ## [中台数据库设计：我选MongoDB，毅然放弃MySQL](http://database.51cto.com/art/202103/650100.htm)
+ > 中台数据库设计：我选MongoDB，毅然放弃MySQL
  ## [如何加大IRPStackSize以改善Windows 10中的网络速度？](http://os.51cto.com/art/202103/650141.htm)
  > 如何加大IRPStackSize以改善Windows 10中的网络速度？
+ ## [315 镜头下，险恶的互联网扒掉的都是我们「隐私信息」的『底裤』](http://news.51cto.com/art/202103/650195.htm)
+ > 315 镜头下，险恶的互联网扒掉的都是我们「隐私信息」的『底裤』
  ## [大意了，1次亿级数据分页优化搞了半夜！](http://database.51cto.com/art/202103/650144.htm)
  > 大意了，1次亿级数据分页优化搞了半夜！
- ## [到底该用Kotlin开发Android应用，还是用Java？](http://developer.51cto.com/art/202103/649957.htm)
- > 到底该用Kotlin开发Android应用，还是用Java？
- ## [Facebook工程师总结的14种算法面试模式](http://news.51cto.com/art/202103/649778.htm)
- > Facebook工程师总结的14种算法面试模式
- ## [如何用Wav2Vec 2.0将语音转换成文本](http://developer.51cto.com/art/202103/649956.htm)
- > 如何用Wav2Vec 2.0将语音转换成文本
- ## [如何使用DNS构建无成本的区块链数据库](http://database.51cto.com/art/202103/649936.htm)
- > 如何使用DNS构建无成本的区块链数据库
- ## [Linux运维入门及进阶全新经典视频课程-老男孩Linux（1）](http://fellow.51cto.com/art/202101/641369.htm?qd=51ctojrzd)
- > Linux运维入门及进阶全新经典视频课程-老男孩Linux（1）
- ## [为什么 Kubernetes 要替换 Docker](http://cloud.51cto.com/art/202103/650198.htm)
- > 为什么这么设计(Why’s THE Design)是一系列关于计算机领域中程序设计决策的文章，我们在这个系列的每一篇
- ## [面试常问，工作常用的Redis持久化机制](http://developer.51cto.com/art/202103/650196.htm)
- > redis是一个内存数据库，数据保存在内存中，但是我们都知道内存的数据变化是很快的，也容易发生丢失。幸好R
- ## [315 镜头下，险恶的互联网扒掉的都是我们「隐私信息」的『底裤』](http://news.51cto.com/art/202103/650195.htm)
- > 我们今天聊一聊昨晚央视 315 打假晚会这件事吧。主要公布了 9 个事件，简单梳理了一下。
- ## [测试同学上手Spring 之IoC深入解析](http://developer.51cto.com/art/202103/650197.htm)
- > 想要理解Spring，必须要掌握的两个知识点就是IoC和AOP，在这里我首先带大家了解一下什么是IoC。为大家上手S
- ## [使用Webhook为Kubernetes实现基于标签的权限控制](http://cloud.51cto.com/art/202103/650191.htm)
- > Kubernetes支持名称空间级别的权限控制。但是，有时这不能满足我们的要求。例如，在Akraino ICN项目中，我
- ## [你已经是一个优秀的开发者了吗？我不是！](http://news.51cto.com/art/202103/650192.htm)
- > 作为一名培训师，我定期监督学员，通过适当的入职培训和技术内容的教学，他们慢慢的从初学者成为真正的开发
- ## [为什么航天器、导弹喜欢用单片机，而不是嵌入式系统？](http://os.51cto.com/art/202103/650190.htm)
- > 前几天和一个在某研究所的发小聊天，他说：现在的航空、航天和导弹等武器装备中，控制系统几乎都是用单片机
- ## [老人用机如何避开安全陷阱 牢记这几条“铁律”](http://network.51cto.com/art/202103/650188.htm)
- > 随着移动互联的发展，不同年龄段的人群都有机会享受数字生活带来的便利，这其中也包括数以亿计的老年朋友。
- ## [Windows10下发新补丁：修复蓝屏、打印机抽风等问题](http://os.51cto.com/art/202103/650187.htm)
- > 上周，微软确认，Win10 3月补丁KB5000802可能会让部分打印机(京瓷、理光等受灾严重)遭遇APC_INDEX_MISMATCH
- ## [面试官:Java中实例对象存储在哪？](http://stor.51cto.com/art/202103/650193.htm)
- > 低级语言是计算机认识的语言、高级语言是程序员认识的语言。如何从高级语言转换成低级语言呢?这个过程其实
+ ## [【死磕JVM】一道面试题引发的“栈帧”！！！](http://virtual.51cto.com/art/202103/650176.htm)
+ > 【死磕JVM】一道面试题引发的“栈帧”！！！
+ ## [【曾贤志】Excel函数宝典大全（数据分析利剑 完整版）](http://fellow.51cto.com/art/202101/640480.htm?qd=51ctojrzd)
+ > 【曾贤志】Excel函数宝典大全（数据分析利剑 完整版）
+ ## [雷军“复活”米聊后又推HEYY，但别忘了Clubhouse的隐私安全问题](http://netsecurity.51cto.com/art/202103/650256.htm)
+ > 小米复活米聊还没有多久，马上又推出了HEYY，全力对标Clubhouse，杀入语音社交市场。这也不怪小米“心急”
+ ## [5张图，看懂数据分析体系](http://bigdata.51cto.com/art/202103/650255.htm)
+ > 讲数据分析体系的文章很多，经常是开篇一句：互联网分析体系……，下边几百个指标blabla汹涌而出。搞得很多
+ ## [2020年全球数据中心交换机收入下滑3%](http://network.51cto.com/art/202103/650253.htm)
+ > 根据Dell&x27;Oro Group的最新报告，全球数据中心交换机市场收入在2020年下降了个位数，符合该调研公司的预期。
+ ## [物联网服装：新的可穿戴设备](http://iot.51cto.com/art/202103/650252.htm)
+ > 随着物联网的飞速发展，可穿戴设备因其诱人的潜在应用而成为最新的物联网前沿。
+ ## [如何找到优秀的服务器虚拟化管理软件](http://server.51cto.com/Operation-650247.htm)
+ > 选择适合的服务器虚拟化管理软件对于满足组织当前和未来的需求至关重要。
+ ## [5个确保边缘计算安全的最佳实践，助你提升企业“免疫力”](http://netsecurity.51cto.com/art/202103/650242.htm)
+ > 考虑到数据和基础架构暴露在攻击者面前带来很大的风险，期望充分发挥边缘计算优势的企业需要采取相应步骤以
+ ## [Kubernetes的CLI是使用什么技术实现的？](http://developer.51cto.com/art/202103/650248.htm)
+ > Cobra是一个用于创建强大的现代CLI应用程序的库，也是一个用于生成应用程序和命令文件的程序。Cobra用于许
+ ## [危机过后确保网络安全的4种方法](http://netsecurity.51cto.com/art/202103/650240.htm)
+ > 行业专家指出，企业高管和董事会成员在面临安全威胁时需要将更多的精力放在网络安全上。首席信息安全官(CIS
+ ## [CVE-2021-21193：Chrome 0-Day漏洞](http://netsecurity.51cto.com/art/202103/650239.htm)
+ > 近日，研究人员发现一个Chrome 0-Day漏洞的在野利用。
+ ## [有关AIOps的6个误解和解释](http://ai.51cto.com/art/202103/650236.htm)
+ > 你认为DevOps很难理解吗?可以先了解AIOps。调研机构Gartner公司于5年前首次创造了这个术语，AIOps的含义如
  ## [微软研究团队成员自曝删改不利数据，量子计算重大进展是假的](https://blog.csdn.net/m0_46163918/article/details/114832495)
  > 微软研究团队成员自曝删改不利数据，量子计算重大进展是假的
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -65,22 +77,22 @@ categories: IT NEWS
  > 一场大火，让云计算巨头的数据中心化为灰烬！10 万Rust 游戏玩家的数据永久丢失，无法恢复
  ## [欧洲最大云服务公司 OVH 法国机房着火：1个数据中心被完全烧毁、部分客户数据完全丢失且无法恢复](https://blog.csdn.net/csdnnews/article/details/114652675)
  > 欧洲最大云服务公司 OVH 法国机房着火：1个数据中心被完全烧毁、部分客户数据完全丢失且无法恢复
- ## [Java高质量面试总结](https://blog.csdn.net/JewaveOxford/article/details/104727515)
- > 
- ## [vue+element-ui 后台管理实战项目](https://blog.csdn.net/qq_43353619/article/details/110246669)
- > vue+element-ui 后台管理实战项目
- ## [vscode中搭建Golang开发环境（图文并茂）](https://blog.csdn.net/mall_lucy/article/details/112920410)
- > vscode中搭建Golang开发环境（图文并茂）
- ## [解决M1芯片版本安装Sketch问题 M1芯片安装那个Sketch版本？Sketch已完美支持M1芯片安装 支持big sur系统](https://blog.csdn.net/maike588/article/details/113838414)
- > 解决M1芯片版本安装Sketch问题 M1芯片安装那个Sketch版本？Sketch已完美支持M1芯片安装 支持big sur系统
- ## [前端面试题（持续更新中）](https://blog.csdn.net/weixin_39940684/article/details/102939078)
- > 前端面试题（持续更新中）
+ ## [阿里云服务器搭建wordpress个人博客——学生优惠，专属网站](https://blog.csdn.net/weixin_46654114/article/details/107835953)
+ > 阿里云服务器搭建wordpress个人博客——学生优惠，专属网站
+ ## [如何将Eclipse设置为中文版](https://blog.csdn.net/a2580ah/article/details/108511527)
+ > 如何将Eclipse设置为中文版
+ ## [Thinkphp在添加、修改、删除数据时，自动更新Cache缓存的方法](https://blog.csdn.net/qq15577969/article/details/114281835)
+ > Thinkphp在添加、修改、删除数据时，自动更新Cache缓存的方法
+ ## [程序员带娃有多“恐怖” ？！](https://blog.csdn.net/iodjSVf8U1J7KYc/article/details/110675338)
+ > 程序员带娃有多“恐怖” ？！
+ ## [Java中23种设计模式的详细介绍](https://blog.csdn.net/JewaveOxford/article/details/103083241)
+ > Java中23种设计模式的详细介绍
+ ## [python情感分析（真实案例完整流程）](https://blog.csdn.net/yawei_liu1688/article/details/79011697)
+ > python情感分析（真实案例完整流程）
  ## [《聊天大话C语言》（1）我在大佬群里问基础问题没人理？](https://blog.csdn.net/A757291228/article/details/114240763)
  > 《聊天大话C语言》（1）我在大佬群里问基础问题没人理？
  ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
- ## [阿里二面:MQ消费端遇到瓶颈该怎么办](https://blog.csdn.net/prestigeding/article/details/114825955)
- > 阿里二面:MQ消费端遇到瓶颈该怎么办
 # 人工智能 
  ## [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
  > 前方危险：MySQL UPDATE 语句的非标准实现
@@ -113,6 +125,10 @@ categories: IT NEWS
  ## [基于深度学习的恶意代码分类（一）](https://blog.csdn.net/qq_45056216/article/details/114848507)
  > 基于深度学习的恶意代码分类（一）
 # PM 
+ ## [短视频运营的工作内容都有什么](http://www.chanpin100.com/article/114003)
+ > 短视频行业作为移动互联网领域发展迅速的行业，近年来呈现出爆炸式增长。对于短视频的商业模式，市场一度担心此行业的未来。然而，很快短视频行业的企业家找到了一种特殊的变现模式，那就是短视频+电商。那么，短视频运营的工作内容都有什么呢？请看本文的具体介绍。
+ ## [短视频运营技巧有哪些](http://www.chanpin100.com/article/114002)
+ > 不论是哪个行业，想要做好做大，都是有运营技巧的，短视频也不例外。那么，短视频运营技巧有哪些呢？请看本文的具体介绍内容。
  ## [学习考试员工管理知识库PC后台原型](http://www.chanpin100.com/article/113971)
  > 本原型根据目前主要为线框图，让用户学习了解如何规划题目管理、员工管理、考试管理、部门管理的相关功能。
  ## [证件照、AI拍照、电子照、云拍照小程序原型](http://www.chanpin100.com/article/113970)
@@ -149,9 +165,5 @@ categories: IT NEWS
  > 现在正值金三银四，很多人都想抓住这个机会一跃成名，我身边的人也是在疯狂投简历找工作，分析一下为什么现在换工作的人这么多吧：一是三四月份大家都拿完年终奖了，这个时候走比较不亏；二是在这个时候也有大量的工作机会，许多公司都在这个时候进行招聘以求人才。
  ## [产品经理如何正确的使用需求池？](http://www.chanpin100.com/article/113939)
  > 什么是需求池？简单的总结为，需求池就是把收集到的各方需求放到一个地方存储，然后分析，整理，规划。产品经理工作中，往往会收到来自用户、老板、同事等各方需求，面对如此多的需求，如果都记在自己的大脑里，会很混乱，且容易忘记。
- ## [产品经理如何理解mvp理念？](http://www.chanpin100.com/article/113938)
- > 对于互联网行业而言，mvp是指最小可行性产品，这在精益创业是中很重要的概念。也就是当你臆想一款产品时，你会想到它有什么功能，以及能解决用户什么需求。但若没有经过用户验证，你想的再好未必会被用户接受。
- ## [B站布局支付 是未雨绸缪还是被动出击？](http://www.chanpin100.com/article/113992)
- > B站为什么要做支付？坊间有诸多传闻，比如涉足互联网金融、跟风操作等，其中，比较被大众认同的是：B站被支付宝、paypal等第三方支付平台剥削得太狠了，想自己搞支付。
 
     
