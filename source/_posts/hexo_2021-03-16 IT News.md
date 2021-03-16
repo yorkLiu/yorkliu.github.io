@@ -1,19 +1,19 @@
 ---
 title: 2021-03-16 IT News
 copyright: true
-date: 2021-03-16 09:16:07
+date: 2021-03-16 10:11:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [\[观察\]向“米兰”进军，AMD驱动数据中心再创新](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=2Ql17DErY3dVP9ZutCCKWbjZ6aEQ9q3Gv1aWUgf7K6oA0jx4tyTyv29czuOIZLhiqlopb4BMkGCRzb4ScpX48bP0T4ttlUt0ohIpwhDdgpAK-prnBOPASk8Mj4hSPImV&new=1)
- > 申耀的科技观察读懂科技，赢取未来！毫无疑问，今天无论是产业变革还是技术迭代都在不断的加速演进：一方面，整个产业正经历着从消费互联网到产业互联网的转变；另一方面，整个技术创新也正经历着从基础设施云化...
- ## [\[故障\]欧洲最大云服务商遭遇火灾，阿里云、腾讯云、华为云有哪些宕机故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=Cs6bamQnFdrvE83QYBwZF2Z*VZWfA8YzYzLFpt*sNjLJRRw4RdotbevyjKPj7EKgTLUPLsF3ezTBXcBHfefInK87*xYp4tBZl7uudGwe-U4bxxHsxEihqjMRadG6Yaey&new=1)
- > 近日，欧洲最大的云服务商——OVH位于法国斯特拉斯堡的数据中心遭遇了严重的火灾。 据悉，OVH在该区域共有4个数据中心，发生起火的SBG2数据中心被完全烧毁，SBG1的建筑物部分受损，SBG3因受到消防保护暂未受影响...
- ## [一图看懂 2021 央视 3.15 晚会](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=WYthTPbDWzf-*mckzRhgDxFESPDsu2UySmeS5x197ZzfUEClPg9ARC4kBUWIhlLsfCO0ZmpcDPW9HMYZJx7GNqufhckrt2gjJ6yPEWiqZ70zeWk9xngJu4B35iLB1Qz3&new=1)
- > 文 | DoNews 刘文轩被誉为“老百姓最想看的晚会”，央视 3.15 晚会已经走过了30年的历史，它像一面镜子，一方面映照着中国经济的不断发展变化；另一方面，它将消费中的问题也真实披露在消费者面前。每一年315，...
- ## [央视315刚刚曝光：很多人手机常用的软件竟如此之坑](http://mp.weixin.qq.com/s?src=11&timestamp=1615856405&ver=2949&signature=ewKiSg7IyLPIBEAhzdJx9UUUQkY*Rzg5AQFOUrWnCjgBGZ6tsr-6LCLprSShFzB46fIh7TEf7hOM5lEgdH5p*vc1x1wK8cB9W4aNTl4ZAF6NccIEzxVJ7pW0udMHSsvT&new=1)
+ ## [央视315刚刚曝光：很多人手机常用的软件竟如此之坑](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=ewKiSg7IyLPIBEAhzdJx9UUUQkY*Rzg5AQFOUrWnCjjEdGXkOnX3sJ62ptJWB1s45ldasAM9kURycmXk2oOPk7HRnG3xpfbs-fe52tgooWpsvA-hWuwTEvZxZxxj3VOH&new=1)
  > 今天是一年一度的消费者权益保护日，也就是我们俗称的315。央视每年的今天都会召开一个晚会来揭露各行各业内的侵犯消费者权益的事件。今年就提到了4个方面，而其中一个方面则是小智这篇文章要重点讲的，不少人都...
+ ## [\[故障\]欧洲最大云服务商遭遇火灾，阿里云、腾讯云、华为云有哪些宕机故事?](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=Cs6bamQnFdrvE83QYBwZF2Z*VZWfA8YzYzLFpt*sNjLOpRMvmL270HKpvYAp-d*Rlf-OtJExkmGR45Sv7i96ohZRZRlAfceCBBBzLDn6ekvo7YMcdLtUm5ThiV4bCfif&new=1)
+ > 近日，欧洲最大的云服务商——OVH位于法国斯特拉斯堡的数据中心遭遇了严重的火灾。 据悉，OVH在该区域共有4个数据中心，发生起火的SBG2数据中心被完全烧毁，SBG1的建筑物部分受损，SBG3因受到消防保护暂未受影响...
+ ## [一图看懂 2021 央视 3.15 晚会](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=WYthTPbDWzf-*mckzRhgDxFESPDsu2UySmeS5x197Zy0pIl6WhJsn3uGrOjtMJ3kl9ZyYFK43HeFTEvVhSnlhkX6SEzDoJqbaU*5eji309PtMpliR4t6YzbEL*4GdTGg&new=1)
+ > 文 | DoNews 刘文轩被誉为“老百姓最想看的晚会”，央视 3.15 晚会已经走过了30年的历史，它像一面镜子，一方面映照着中国经济的不断发展变化；另一方面，它将消费中的问题也真实披露在消费者面前。每一年315，...
+ ## [\[观察\]向“米兰”进军，AMD驱动数据中心再创新](http://mp.weixin.qq.com/s?src=11&timestamp=1615860004&ver=2949&signature=2Ql17DErY3dVP9ZutCCKWbjZ6aEQ9q3Gv1aWUgf7K6odKWyUVubPOhBMdDO5dcbwNunB1a-jZG5nIpj3P-gNjzFhDZDFe-leEOk492o*DIss1qjIGMqDWHDbDA6Ii4E-&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！毫无疑问，今天无论是产业变革还是技术迭代都在不断的加速演进：一方面，整个产业正经历着从消费互联网到产业互联网的转变；另一方面，整个技术创新也正经历着从基础设施云化...
 # IT 技术 
  ## [用于数字化和从图像中提取特征的六个预先训练的深度学习模型](http://ai.51cto.com/art/202103/650142.htm)
  > 用于数字化和从图像中提取特征的六个预先训练的深度学习模型
@@ -65,22 +65,22 @@ categories: IT NEWS
  > 一场大火，让云计算巨头的数据中心化为灰烬！10 万Rust 游戏玩家的数据永久丢失，无法恢复
  ## [欧洲最大云服务公司 OVH 法国机房着火：1个数据中心被完全烧毁、部分客户数据完全丢失且无法恢复](https://blog.csdn.net/csdnnews/article/details/114652675)
  > 欧洲最大云服务公司 OVH 法国机房着火：1个数据中心被完全烧毁、部分客户数据完全丢失且无法恢复
- ## [阿里云服务器搭建wordpress个人博客——学生优惠，专属网站](https://blog.csdn.net/weixin_46654114/article/details/107835953)
- > 阿里云服务器搭建wordpress个人博客——学生优惠，专属网站
- ## [如何将Eclipse设置为中文版](https://blog.csdn.net/a2580ah/article/details/108511527)
- > 如何将Eclipse设置为中文版
- ## [Thinkphp在添加、修改、删除数据时，自动更新Cache缓存的方法](https://blog.csdn.net/qq15577969/article/details/114281835)
- > Thinkphp在添加、修改、删除数据时，自动更新Cache缓存的方法
- ## [程序员带娃有多“恐怖” ？！](https://blog.csdn.net/iodjSVf8U1J7KYc/article/details/110675338)
- > 程序员带娃有多“恐怖” ？！
- ## [Java中23种设计模式的详细介绍](https://blog.csdn.net/JewaveOxford/article/details/103083241)
- > Java中23种设计模式的详细介绍
- ## [python情感分析（真实案例完整流程）](https://blog.csdn.net/yawei_liu1688/article/details/79011697)
- > python情感分析（真实案例完整流程）
+ ## [Java高质量面试总结](https://blog.csdn.net/JewaveOxford/article/details/104727515)
+ > 
+ ## [vue+element-ui 后台管理实战项目](https://blog.csdn.net/qq_43353619/article/details/110246669)
+ > vue+element-ui 后台管理实战项目
+ ## [vscode中搭建Golang开发环境（图文并茂）](https://blog.csdn.net/mall_lucy/article/details/112920410)
+ > vscode中搭建Golang开发环境（图文并茂）
+ ## [解决M1芯片版本安装Sketch问题 M1芯片安装那个Sketch版本？Sketch已完美支持M1芯片安装 支持big sur系统](https://blog.csdn.net/maike588/article/details/113838414)
+ > 解决M1芯片版本安装Sketch问题 M1芯片安装那个Sketch版本？Sketch已完美支持M1芯片安装 支持big sur系统
+ ## [前端面试题（持续更新中）](https://blog.csdn.net/weixin_39940684/article/details/102939078)
+ > 前端面试题（持续更新中）
  ## [《聊天大话C语言》（1）我在大佬群里问基础问题没人理？](https://blog.csdn.net/A757291228/article/details/114240763)
  > 《聊天大话C语言》（1）我在大佬群里问基础问题没人理？
  ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
+ ## [阿里二面:MQ消费端遇到瓶颈该怎么办](https://blog.csdn.net/prestigeding/article/details/114825955)
+ > 阿里二面:MQ消费端遇到瓶颈该怎么办
 # 人工智能 
  ## [前方危险：MySQL UPDATE 语句的非标准实现](https://blog.csdn.net/horses/article/details/110238573)
  > 前方危险：MySQL UPDATE 语句的非标准实现
@@ -88,31 +88,33 @@ categories: IT NEWS
  > 【图文详解】Java 优先级队列 PriorityQueue
  ## [iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践](https://blog.csdn.net/ByteDanceTech/article/details/114528899)
  > iOS 稳定性问题治理：卡死崩溃监控原理及最佳实践
- ## [有关程序员的经典名言我知道的有这些！](https://blog.csdn.net/epubit17/article/details/114597332)
- > 有关程序员的经典名言我知道的有这些！
- ## [超详细傻瓜iPhone自定义来电铃声教程](https://blog.csdn.net/mydo/article/details/114603369)
- > 超详细傻瓜iPhone自定义来电铃声教程
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [使用 Flink 前需要知道的  10 个『陷阱』](https://blog.csdn.net/weixin_44904816/article/details/114610092)
- > 使用 Flink 前需要知道的  10 个『陷阱』
- ## [使用React Hooks 时要避免的5个错误！](https://blog.csdn.net/qq449245884/article/details/114624062)
- > 
  ## [Flink 1.12.2 源码分析 : 相关启动脚本](https://blog.csdn.net/zhanglong_4444/article/details/114631783)
  > Flink 1.12.2 源码分析 : 相关启动脚本
- ## [人脸识别对动画无效，迪士尼打造动画专用人脸识别库](https://blog.csdn.net/HyperAI/article/details/114633786)
- > 人脸识别对动画无效，迪士尼打造动画专用人脸识别库
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [手摸手Go 并发编程基石atomic](https://blog.csdn.net/sydhappy/article/details/114650607)
  > 手摸手Go 并发编程基石atomic
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [go-zero微服务框架代码生成神器goctl原理分析（一）](https://blog.csdn.net/qq8864/article/details/114656942)
  > go-zero微服务框架代码生成神器goctl原理分析（一）
  ## [网易伏羲论文入选 CVPR：AI 感知表情能力或实现巨大突破！](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/114683538)
  > 网易伏羲论文入选 CVPR：AI 感知表情能力或实现巨大突破！
  ## [最新电脑版微信可以刷朋友圈啦](https://blog.csdn.net/lantian_123/article/details/114684937)
  > 最新电脑版微信可以刷朋友圈啦
+ ## [60秒定位问题，十倍程序员的Debug日常](https://blog.csdn.net/taos_data/article/details/114688639)
+ > 
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [Dubbo源码解析：基于Extensible XML authoring 扩展Spring XML元素](https://blog.csdn.net/zzti_erlie/article/details/114693044)
+ > Dubbo源码解析：基于Extensible XML authoring 扩展Spring XML元素
+ ## [在PostgreSQL中使用ltree处理层次结构数据](https://blog.csdn.net/weixin_46199817/article/details/114819040)
+ > 在PostgreSQL中使用ltree处理层次结构数据
+ ## [在 CSDN 博客 100 天技术日更的 Flag，我做到了！](https://blog.csdn.net/hihell/article/details/114388493)
+ > 在 CSDN 博客 100 天技术日更的 Flag，我做到了！
+ ## [基于深度学习的恶意代码分类（一）](https://blog.csdn.net/qq_45056216/article/details/114848507)
+ > 基于深度学习的恶意代码分类（一）
 # PM 
+ ## [学习考试员工管理知识库PC后台原型](http://www.chanpin100.com/article/113971)
+ > 本原型根据目前主要为线框图，让用户学习了解如何规划题目管理、员工管理、考试管理、部门管理的相关功能。
  ## [证件照、AI拍照、电子照、云拍照小程序原型](http://www.chanpin100.com/article/113970)
  > 本原型根据目前比较热门的云电子照需求做的一个小程序原型，包括AI拍照，生成照片、订单等相关功能。
  ## [直播录播文件屏幕共享后台、讲师、个人三端原型](http://www.chanpin100.com/article/113969)
@@ -151,7 +153,5 @@ categories: IT NEWS
  > 对于互联网行业而言，mvp是指最小可行性产品，这在精益创业是中很重要的概念。也就是当你臆想一款产品时，你会想到它有什么功能，以及能解决用户什么需求。但若没有经过用户验证，你想的再好未必会被用户接受。
  ## [B站布局支付 是未雨绸缪还是被动出击？](http://www.chanpin100.com/article/113992)
  > B站为什么要做支付？坊间有诸多传闻，比如涉足互联网金融、跟风操作等，其中，比较被大众认同的是：B站被支付宝、paypal等第三方支付平台剥削得太狠了，想自己搞支付。
- ## [以C端产品思维和方法做B端产品？](http://www.chanpin100.com/article/113991)
- > 本篇文章，我们来讨论一个近两年，尤其是今年，在B端产品经理圈子中经常被提及的话题。以C端产品经理的思维和方法来做B端产品。
 
     
