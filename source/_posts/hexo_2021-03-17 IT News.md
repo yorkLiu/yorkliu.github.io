@@ -1,22 +1,30 @@
 ---
 title: 2021-03-17 IT News
 copyright: true
-date: 2021-03-17 08:07:07
+date: 2021-03-17 09:11:25
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [诺基亚宣布裁员10000人](http://mp.weixin.qq.com/s?src=11&timestamp=1615939204&ver=2951&signature=hYVaXxp-VOYNzxpFH-fCUCuIybZNJmZts9pu6E1sx71o**HeAg-70Wh1Ic0iaA3kqwgyMJpoD07MVE9ByWFKRWWCEX-W1fZwM8GwjAiYXsX5vjNmbolSvWYXTM1j-w7R&new=1)
- > 几个小时前，诺基亚官网宣布将裁员多达10000人，以降低成本，加大5G等领域的研发投入。声明中表示，到2023年底，诺基亚计划将其成本基础降低约6亿欧元，这些削减的成本将用于增加研发投入，提升未来能力，以及工...
- ## [完成1亿元B轮融资，数数科技的这套工具凭什么成游戏行业标配](http://mp.weixin.qq.com/s?src=11&timestamp=1615939204&ver=2951&signature=*VvS-LM-MbHz82GyicSZK3UTry7D4XX6VBQDJrJNn2Yl3pZ13iRTzeiv77teFUQECqbwyWwnSXBEEDWmqQ89UP4NJDyGSPB7mwnf2NAVMUrbxB04hbFEbNhjDk9ImQGk&new=1)
+ ## [完成1亿元B轮融资，数数科技的这套工具凭什么成游戏行业标配](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=*VvS-LM-MbHz82GyicSZK3UTry7D4XX6VBQDJrJNn2YyQdnIlRGN5KqaXjz4tUsbrNCFtp1Gqy0d3zYRyWZXaBk1pJyD1MynXX-pdyj*2AQ3xEBOU98ZHizg*LjX3hqy&new=1)
  > 3月16日，游戏大数据分析服务提供商数数科技，在2021战略发布会上宣布完成1亿元B轮融资，由蓝湖资本领投，金沙江创投和线性资本跟投。数数科技以游戏大数据分析系统Thinking Analytics（以下简称TA）闻名业内。T...
- ## [太突然!沉默已久的马云终于出手!全新机遇来临!](http://mp.weixin.qq.com/s?src=11&timestamp=1615939204&ver=2951&signature=MXD27Ejil7x*SJ0uaV-Evr8ucPaiXzXAd3UkMmXcixFXHknMn2RfmJgs0GRPG-EFTTgoc7h58OZOmBkHteD08WVqeRtkgEJmD*ZR9pEPWcnNRwjzqdfRLPdZXSq0eyHh&new=1)
- > 刚刚，杭州传来大消息！马云的阿里人工智能取得重大突破，攻克心血管识别，比传统提速百倍！医学界一片哗然！马云表示，未来中国的机会不是弯道超车，而是“换道超车”，中国有机会在人工智能、5G等领域实现换道...
- ## [华为宣布开收5G专利费](http://mp.weixin.qq.com/s?src=11&timestamp=1615939204&ver=2951&signature=ci5kWxPnKdvBxO1yicDpf01KHhhQ4oErO415sTBSF373Lr5yIXb4AoMO4yIbSCKih0DvFC0p9YY40PY*wfNBVna1kXyT2NG9IL*r9dYr4iKtSLZ1qxdUwV6PZlDkraKx&new=1)
- > ► 文 观察者网 赵挪亚3月16日下午，华为在深圳举办“知识产权：保护科技创新的前进引擎”论坛，并发布《创新和知识产权白皮书2020》，重点介绍华为2010年之前在创新和知识产权方面的历史实践，通过历史数据和关...
- ## [华为要收5G手机专利费了，该怎么看?](http://mp.weixin.qq.com/s?src=11&timestamp=1615939204&ver=2951&signature=aRJP7MjYq0HewvxENpVmwzYK*XnZB5wK61awtClp4Wkou8dOD-qsNSyBUyfXKwyPyPEV0UFsMrsFRhupIbPmEPWPVmilIZM1qQkS*kfMgtSEpAXRqrG*K60xECz5PGf5&new=1)
+ ## [7点见|华为将对5G专利收取使用费；蚂蚁集团最新估值缩水1/3](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=12Ntf2NwgvUgbcsmXYmH6bHqq8cw1ODVPT4SFUChLp90WJ41yvJaglXDnWvdHf6vKpzpPr2dvCKVQOAecOKhGRRGSgcaWisD82m-BXcoaI5sfAakaBOMN-i*mwBxgEF2&new=1)
+ > 各位小伙伴早上好呀！3月16日，“奋斗者”号全海深载人潜水器正式交付给中科院深海科学与工程研究所，这标志着“奋斗者”号的研制已完成并通过了海试现场验收。今后，奋斗者号将向全球科学家开放。2020年11月...
+ ## [这个大学破纪录，真牛!](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=IW2fTt7kXtbP6S8ayfWjVnmdQuQy-QEliDR58hNonIK9h7NS*o0qVQ523aMqxfs-mIiV4N1iFjNFNFSb04LSALRcKavNZ*kzWwljS9*V5C-UNBCMjHaGhKi9Dmo3IM*x&new=1)
+ > 生活中你有没有这样的体验？无线网络信号特别不好上网慢还总掉线……不要紧，也许很快就能得到解决！华中科技大学电信学院尹海帆教授研究团队自主研发的基于智能超表面的无线通信原型系统创造了业界最高性能纪录...
+ ## [AT&T公布5G和FTTP部署目标](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=RN5rmGFMNWjnqlQs5sidxBFNC03iFxDbUGUHUbIujaacD8My4hfwNV4BhBku7aK40ikM0AsFOSlnSnZLFiOTCA1z0RBKzsjqLOWzLZAydOPGqGJdr3rZ3Hr9QJimUe1l&new=1)
+ > 新闻导读AT&amp;T将在2022-2024年间投资60-80亿美元部署新的中频带C频段频谱，并计划在2021年将FTTP部署到横跨90多个城域区域的另外300多万个住宅和商业大楼。  ICC讯 近日，AT&amp;T在分析师活动中表示，将在2022年至
+ ## [华为要收5G手机专利费了，该怎么看?](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=aRJP7MjYq0HewvxENpVmwzYK*XnZB5wK61awtClp4WlygVjbFb9-4MG2WlOYOfIiXRdOJmwrVmnptvMDjdCNA665tS4tKeQ7KUrhSV6cTt*J6frZ-rV5g6JLOFHWaaSW&new=1)
  > 3月16日，华为在深圳宣布要开始收5G专利费，并公布5G专利费率：每台手机上限2.5美元。华为预计2019-2021年专利许可费为12-13亿美元。据我了解，华为、高通、诺基亚、爱立信等少数几家科技企业，拥有较多的通信必...
+ ## [诺基亚宣布裁员10000人](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=hYVaXxp-VOYNzxpFH-fCUCuIybZNJmZts9pu6E1sx73s*xmC5DzdYA2Y2wYxG0I*SHq0irldsgIPwRykuy-DfrI14GK1zxdoQFvrrp5Ccrnr2zdJS75vfSHevRsFUHfJ&new=1)
+ > 几个小时前，诺基亚官网宣布将裁员多达10000人，以降低成本，加大5G等领域的研发投入。声明中表示，到2023年底，诺基亚计划将其成本基础降低约6亿欧元，这些削减的成本将用于增加研发投入，提升未来能力，以及工...
+ ## [太突然!沉默已久的马云终于出手!全新机遇来临!](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=MXD27Ejil7x*SJ0uaV-Evr8ucPaiXzXAd3UkMmXcixGhj5PQXM*DV26e*1kg3Ae4v*P9wtyzh6O-UYULpoCCsHn-yBJ7tfdt4DWsbVRjqg9zxmw8l2sLxb5gU2ecg7Yj&new=1)
+ > 刚刚，杭州传来大消息！马云的阿里人工智能取得重大突破，攻克心血管识别，比传统提速百倍！医学界一片哗然！马云表示，未来中国的机会不是弯道超车，而是“换道超车”，中国有机会在人工智能、5G等领域实现换道...
+ ## [华为宣布开收5G专利费](http://mp.weixin.qq.com/s?src=11&timestamp=1615942809&ver=2951&signature=ci5kWxPnKdvBxO1yicDpf01KHhhQ4oErO415sTBSF34RAFH5mnX26DwKZ0aCSV0qVHBtj7Y76CLDnO3dDmbF05xQvzO9rCOak9ywweBskyEu3N0vVp-1LfKU5dGl9NE-&new=1)
+ > ► 文 观察者网 赵挪亚3月16日下午，华为在深圳举办“知识产权：保护科技创新的前进引擎”论坛，并发布《创新和知识产权白皮书2020》，重点介绍华为2010年之前在创新和知识产权方面的历史实践，通过历史数据和关...
 # IT 技术 
+ ## [【廉环话】防疫一周年后的IT项目管理思考 --需求评估](http://www.cioage.com/art/202103/650313.htm)
+ > 【廉环话】防疫一周年后的IT项目管理思考 --需求评估
  ## [解读NoSQL文档数据库](http://database.51cto.com/art/202103/650315.htm)
  > 解读NoSQL文档数据库
  ## [用于数字化和从图像中提取特征的六个预先训练的深度学习模型](http://ai.51cto.com/art/202103/650142.htm)
@@ -29,31 +37,33 @@ categories: IT NEWS
  > 如何加大IRPStackSize以改善Windows 10中的网络速度？
  ## [大意了，1次亿级数据分页优化搞了半夜！](http://database.51cto.com/art/202103/650144.htm)
  > 大意了，1次亿级数据分页优化搞了半夜！
- ## [鸿蒙内核源码分析(系统调用篇) | 图解系统调用全貌](http://os.51cto.com/art/202103/650121.htm)
- > 鸿蒙内核源码分析(系统调用篇) | 图解系统调用全貌
- ## [Oracle性能优化之性能跟踪工具_Oracle性能优化与故障诊断教程04](http://fellow.51cto.com/art/202012/636006.htm?qd=51ctojrzd)
- > Oracle性能优化之性能跟踪工具_Oracle性能优化与故障诊断教程04
- ## [Java 16 正式发布，已经是Java 8的两倍了](http://developer.51cto.com/art/202103/650376.htm)
- > Oracle要感谢为ARM，SAP，Red Hat和腾讯等组织工作的开发人员所做的杰出贡献。我们也很高兴看到较小的组织(
- ## [如何一步一步设计一个大规模复杂的系统](http://developer.51cto.com/art/202103/650375.htm)
- > 简而言之，面试前有足够的准备是系统设计面试成功的关键，上述步骤可以指导我们设计一个复杂的大规模系统，
- ## [微软 Windows10 Build 19043.899（21H1） 正式删除经典 Edge 浏览器](http://os.51cto.com/art/202103/650373.htm)
- > 3月17日消息 外媒 Windows Latest 报道，大家可能已经知道，Windows 10 目前预装了三个浏览器。其中微软 Ed
- ## [Telegraf+InfluxDBv2实现主机监控](http://os.51cto.com/art/202103/650372.htm)
- > 做这篇文章是因为一个朋友想要做Telegraf监控，存入到InfluxDB里，虽然我不理解为什么要这么做，但还是一本
- ## [帮你精通JS：函数式编程的七件武器之array.filter](http://developer.51cto.com/art/202103/650371.htm)
- > 我们何其幸运！这个世界上竟然还有几乎完全支持FP编程的流行语言，这种语言就是StackOverflow上历年兵器排
- ## [一次远程命令执行引发的应急响应](http://netsecurity.51cto.com/art/202103/650322.htm)
- > 在发现入侵事件时，基于入侵现象进行排查，结合日志进行关联分析，对未知情况作合理的猜测，还原攻击场景，
- ## [Windows 平台安装配置 MongoDB](http://os.51cto.com/art/202103/650321.htm)
- > 由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。MongoDB 是一个介于关系数据库和非
- ## [深入分析EF Core事务提交,分布式事务](http://developer.51cto.com/art/202103/650320.htm)
- > 虽然所有关系数据库提供程序都支持事务，但在调用事务 API 时，可能会引发其他提供程序类型或不执行任何操
- ## [迷惑行为赏析：把 jpg 图片加密后卖了 247 万](https://blog.csdn.net/csdnnews/article/details/114860016)
- > 迷惑行为赏析：把 jpg 图片加密后卖了 247 万
+ ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
+ > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [可能对递归理解的还不够！还差得远！](http://developer.51cto.com/art/202103/650400.htm)
+ > 本篇讲通过求斐波那契数列和二分法再来深入分析一波递归算法的时间和空间复杂度，细心看完，会刷新对递归的
+ ## [蓝屏后续：微软发布Windows10可选质量更新](http://os.51cto.com/art/202103/650402.htm)
+ > 在今天发布的 Windows 10 系统更新中，微软修复了“APC_INDEX_MISATCH”和“win32kfull.sys”两个蓝屏错误
+ ## [Windows 10下发新补丁 修复蓝屏、打印出错等问题](http://os.51cto.com/art/202103/650398.htm)
+ > 上周，微软承认Win10 3月补丁KB5000802可能会让部分打印机（京瓷、理光等受灾严重）遭遇APC_INDEX_MISMATCH
+ ## [珍藏多年的12个资源网站，一次全给你，绝对让你大饱眼福](http://mobile.51cto.com/ahot-650399.htm)
+ > 先问大家一个问题，平时你们需要资源，都是从哪里找的呢?我想大部分人都是问度娘的吧，但是如果连度娘都解
+ ## [SpringBoot一个提升N倍性能的操作](http://developer.51cto.com/art/202103/650391.htm)
+ > 一般我们在spring项目中都是在方法或者是类上添加事务支持，我们在项目中使用事务的姿势了。这里是方法级别
+ ## [如何用SQL只统计工作日的数据？](http://database.51cto.com/art/202103/650387.htm)
+ > 因为我们工作中其实很多时候确实只需要统计大家工作日的数据，比如考勤，有的甚至还有排除一些法定节假日(
+ ## [关于Python可视化Dash工具―Choropleth_Mapbox地图实现](http://developer.51cto.com/art/202103/650386.htm)
+ > GeoJSON是一种对各种地理数据结构进行编码的格式，GeoJSON是用json的语法表达和存储地理数据，可以说是json
+ ## [教你在 Linux 中使用 Lsusb命令 显示有关USB设备信息](http://os.51cto.com/art/202103/650385.htm)
+ > 在Linux中我们使用lsusb命令列出USB设备及其属性，lsusb用于显示系统中的USB总线及其连接的设备信息。下面
+ ## [如何编写更好的 JS 代码！](http://developer.51cto.com/art/202103/650383.htm)
+ > Javascript 是浏览器可以理解的语言，它用于加载动态内容而无需刷新页面。今天列举一些用用更少的代码又更
+ ## [三星被加拿大运营商选为独家供应商](http://network.51cto.com/art/202103/650380.htm)
+ > 近日，三星电子官网发布消息称，加拿大电信运营商SaskTel已选择三星作为其4G/5G RAN和核心网的独家供应商。
+ ## [程序员爆改《GTA OL》代码后加载速度快了 70%，R 星采纳并奖励 1 万美元](https://blog.csdn.net/m0_46163918/article/details/114883180)
+ > 程序员爆改《GTA OL》代码后加载速度快了 70%，R 星采纳并奖励 1 万美元
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
- ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
+ ## [开源是靠爱发电吗？](https://csdnnews.blog.csdn.net/article/details/114652695)
  > 
  ## [你以为在做的是微服务？不！你只是做了个比单体还糟糕的分布式单体！](https://blog.csdn.net/dyc87112/article/details/114687154)
  > 你以为在做的是微服务？不！你只是做了个比单体还糟糕的分布式单体！
