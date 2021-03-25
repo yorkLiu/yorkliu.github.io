@@ -1,20 +1,24 @@
 ---
 title: 2021-03-25 IT News
 copyright: true
-date: 2021-03-25 08:01:02
+date: 2021-03-25 09:01:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616628604&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hDFdB4doW*dJDW*otSGwkfqZL2Us9BwvsaaLAuOHYHknQRdUW9D*SeDEip851O*53o4USIgQGxGwC0GgZVxs5TB&new=1)
- > 3月23日，中国联通在京发布CUBE-Net 3.0网络创新体系。中国联通集团公司总经理陈忠岳，副总经理买彦州出席会议。买彦州在会上致辞。行业专家、合作伙伴代表及新闻媒体等百余嘉宾在现场参加会议。 中国联通主动对...
- ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616628604&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2PHhud9amHZYbEA*6uWh9iSm*Bw0XHB7waPRK7tcb3qRBZB4GB6fzfffZi6rTxFma2X0nxDy06AMyUh4BB0mOgj&new=1)
+ ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2NrIbxm2hNCFTJx4o12jqEdtsBagLBbLhrO1zfDHZv3oIBhVeOaiCXA3y8PzlBCqQSAz*Aprbnp*9LxkRtjT2Mh&new=1)
  > 今年“3•15”晚会曝光了科勒使用万店掌摄像头非法采集顾客人脸信息引发强烈关注近日江苏省张家港市市场监督管理局对辖区内商户进行专项排查后发现名创优品等门店仍存在类似情况近日，张家港市市场监督管理局执...
- ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616628604&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr2Dz47chDgtx4-S*NnFm2hg-B1hGe8hg*j3CeTTF06LBRgz50srdQVYzTwe5LG6LQQYeljaRh-9lEN5XGGefsQl&new=1)
- > 3D打印机制造商VELO3D现在确认已通过与空白支票公司JAWS Spitfire Acquisition Corporation的SPAC合并，达成公开上市的最终协议。该交易预计将在2021年下半年完成，届时合并后的实体在纽约证券交易所（
- ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616628604&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5WL*Qne*9n11vOQ5EVBGf4jL74eW6y94THyixkS4OBoQ6phrwXzkPB6C2U3ldeWmyxS9ln4bCFh6ZPAEDiPtVvT&new=1)
+ ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYio1Q6slXKKtcN3WU6DfWfe3WAQXqfNSgUDMGOmjFM272KF20R8q30NQ5cCU4TTt90c=&new=1)
+ > 3月23日上午，市委书记蔡奇到海淀区调研数字经济发展。他强调，北京是数字经济的蓝海，建设全球数字经济标杆城市必须要有标杆企业。要立足自身优势，瞄准世界一流，鼓励支持企业加大关键核心技术研发力度，取得...
+ ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5Vjs0lzgyYCmJobFAMs*IzFZwYx7TarcGbeW02s5eBz69DbjAm0JsBElkEJ*k12RShAT8ck9lp-6G4evlsnSUKK&new=1)
  > 近日，网络安全评级和风险监控平台SecurityScorecard宣布在E轮融资中筹集了1.8亿美元。成立于2013年的SecurityScorecard帮助包括诺基亚、AXA、Liberty Mutual和Cadence Bank等公司评
+ ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr3z5RRlVepUFY8ZgPDfOeIyJyoC4REUJX-I1djZ3en7fWrYtp8sh4VgWhjJ0fMm*LGUjULGxnNqCCqt6o2Jseq2&new=1)
+ > 3D打印机制造商VELO3D现在确认已通过与空白支票公司JAWS Spitfire Acquisition Corporation的SPAC合并，达成公开上市的最终协议。该交易预计将在2021年下半年完成，届时合并后的实体在纽约证券交易所（
+ ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hALtFH4daC2xOWQudu3dHJVgoXz6MBZFyx*XqVtmX7nmHnbM1kTg26NCDSIxMiqOYkS0Ahs2iw8j4IfvfZd*QGk&new=1)
+ > 3月23日，中国联通在京发布CUBE-Net 3.0网络创新体系。中国联通集团公司总经理陈忠岳，副总经理买彦州出席会议。买彦州在会上致辞。行业专家、合作伙伴代表及新闻媒体等百余嘉宾在现场参加会议。 中国联通主动对...
 # IT 技术 
+ ## [求职者撰写首席信息官简历的9个优秀实践](http://www.cioage.com/art/202103/652347.htm)
+ > 求职者撰写首席信息官简历的9个优秀实践
  ## [【廉环话】防疫一周年后的IT项目管理思考 --测试、部署、发布](http://www.cioage.com/art/202103/651978.htm)
  > 【廉环话】防疫一周年后的IT项目管理思考 --测试、部署、发布
  ## [阿里终面：优秀的代码都是如何分层的？](http://developer.51cto.com/art/202103/652080.htm)
@@ -27,12 +31,12 @@ categories: IT NEWS
  > 刷了这么多题，你了解自己代码的内存消耗么？
  ## [【Arduino实验室】NB的玩法，鸿蒙版远程控制交通信号灯-ESP8266联网](http://os.51cto.com/art/202103/651841.htm)
  > 【Arduino实验室】NB的玩法，鸿蒙版远程控制交通信号灯-ESP8266联网
- ## [一个SQL错误的问题让我找到了公司框架中三个Bug](http://database.51cto.com/art/202103/651858.htm)
- > 一个SQL错误的问题让我找到了公司框架中三个Bug
- ## [Oracle基础与提升视频课程](http://fellow.51cto.com/art/202101/638285.htm?qd=51ctojrzd)
- > Oracle基础与提升视频课程
+ ## [RHCE认证免费培训视频课程](http://fellow.51cto.com/art/202101/641590.htm?qd=51ctojrzd)
+ > RHCE认证免费培训视频课程
  ## [微软对Windows 10视觉效果大调整：全新图标陆续启用！](http://os.51cto.com/art/202103/652526.htm)
  > 微软正在给Windows 10的视觉效果进行大调整，其中一个最明显的展现就是系统不少图标都更换了。
+ ## [有意思！强大的 SVG 滤镜](http://developer.51cto.com/art/202103/652525.htm)
+ > 本文罗列的滤镜效果更多的是单个效果或者很少几个组合在一起的效果，实际的使用或者应用到应用场景下其实会
  ## [连戳一戳都能撤回了！手机QQ新版体验](http://mobile.51cto.com/app-show-652524.htm)
  > 手机QQ又又又更新了，发布了8.6.0最新版。这次的更新解决了一个困扰了不少用户的问题，还有几个小变化，一
  ## [刷版本or真改进？微信最新测试版亮点速览](http://mobile.51cto.com/app-show-652523.htm)
@@ -41,8 +45,8 @@ categories: IT NEWS
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
- ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
- > Spring Boot 高效入门实战
+ ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
+ > 
  ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
  ## [教小师妹学多线程，看完我写的例子，脸红成那样！](https://blog.csdn.net/Yao__Shun__Yu/article/details/115183646)
