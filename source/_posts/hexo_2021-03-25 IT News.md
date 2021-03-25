@@ -1,26 +1,30 @@
 ---
 title: 2021-03-25 IT News
 copyright: true
-date: 2021-03-25 10:00:57
+date: 2021-03-25 12:02:10
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2NrIbxm2hNCFTJx4o12jqEdr2R4f6hjGwRVH2FzlezQBoo2MSzrzvc4Nte5cc4WfQAxiw-IAmgwnc2S3lVvFssx&new=1)
- > 今年“3•15”晚会曝光了科勒使用万店掌摄像头非法采集顾客人脸信息引发强烈关注近日江苏省张家港市市场监督管理局对辖区内商户进行专项排查后发现名创优品等门店仍存在类似情况近日，张家港市市场监督管理局执...
- ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYiqmi0WwnQLIrM4ZwOelhyV4KoBMPzymZTp4gSQf5WLnqPE2tfajK6GXEsaVBDHZlFw=&new=1)
- > 3月23日上午，市委书记蔡奇到海淀区调研数字经济发展。他强调，北京是数字经济的蓝海，建设全球数字经济标杆城市必须要有标杆企业。要立足自身优势，瞄准世界一流，鼓励支持企业加大关键核心技术研发力度，取得...
- ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5Vjs0lzgyYCmJobFAMs*IzFvacSk7Fcb98yjSvz8n-b*URF01brCO3raHh7CK5K3UnyWmkVz-NUbGZhqtIXmitl&new=1)
- > 近日，网络安全评级和风险监控平台SecurityScorecard宣布在E轮融资中筹集了1.8亿美元。成立于2013年的SecurityScorecard帮助包括诺基亚、AXA、Liberty Mutual和Cadence Bank等公司评
- ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr3z5RRlVepUFY8ZgPDfOeIy-tTBu0kxRq9OtITTVOA0r16NY77deNgFJMZzORYVe-bSsd85eiXSaNjbylb7gzWp&new=1)
+ ## [全球缺“芯”!英特尔公布大计划：斥资200亿美元建芯片工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=8*f3i13H5jsCbaw7VSOQLH-94HhXpCdlUcrOVObj1lgVMD9iL15Cb0k*fk*QCznBJtSe1Bbhz39HKhcS8ok2Klvdi60jv5CiV-jr3JJh9rYuGbyc*9fJwGL5COgwyemf&new=1)
+ > 权威、深度、实用的财经资讯都在这里“英特尔回来了，现在是全新的英特尔。”英特尔新任CEO帕特·基尔辛格23日宣布。当日，英特尔披露了芯片扩张计划：将斥资200亿美元建芯片工厂。2020年下半年以来，“缺芯”潮...
+ ## [猎豹移动季报图解：营收同比降56%高级副总裁周品离职](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=z7vZetDVGYHeV6GdO*ajF5qYzRgZJ5N9n0Xy7b2Z8v86gmSUHAnx8FrkRSeL**l4KharbRoEJ8DGuNCvokRVbAEzYw71NK1eWnVupN8cDzCkJpNbMe2-et1GLL1*GwJr&new=1)
+ > 雷帝网 雷建平 3月23日报道猎豹移动（NYSE:CMCM）今日公布财报。财报显示，猎豹移动2020年营收为15.586亿元（约2.389亿美元），同比下滑56.6%。猎豹移动2020年归属于股东的净利润为4.167亿元（约合6390万美元
+ ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr27NVXZ4uMg0YkYE2Q2cXiNz2m2jLENhWCpR6iOD3S1RMZZ94W0orWOZhnj7h0WTkk1B9iTYdI3fRrNFsZsAoAX&new=1)
  > 3D打印机制造商VELO3D现在确认已通过与空白支票公司JAWS Spitfire Acquisition Corporation的SPAC合并，达成公开上市的最终协议。该交易预计将在2021年下半年完成，届时合并后的实体在纽约证券交易所（
- ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hALtFH4daC2xOWQudu3dHJVfWa17wlcwB*opypolvvmO*YJP3LuY1iRDvKdfko1DL1WtFNr-LEJlxvw-AbgceHY&new=1)
+ ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYir*n3u8NOaJOzvp3N4-u5M0OWSG08P-W9i5CKhmMy7sPVBMvFCGnkxlqzK0qPb58c8=&new=1)
+ > 3月23日上午，市委书记蔡奇到海淀区调研数字经济发展。他强调，北京是数字经济的蓝海，建设全球数字经济标杆城市必须要有标杆企业。要立足自身优势，瞄准世界一流，鼓励支持企业加大关键核心技术研发力度，取得...
+ ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2NCUZj8O9Fcn6to1-b0VODS4U7-d5PFIfA-Up0U2P6spK-ukNlVaDntljByF5ldRVOR8p23wdtlh1S2C4m1ZOcj&new=1)
+ > 今年“3•15”晚会曝光了科勒使用万店掌摄像头非法采集顾客人脸信息引发强烈关注近日江苏省张家港市市场监督管理局对辖区内商户进行专项排查后发现名创优品等门店仍存在类似情况近日，张家港市市场监督管理局执...
+ ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5WNxybV-O8vLIel957tF1t-RCFd*0Am2xmjETrAVtp16GVQtcbsezMzkMYHZkronsV*ZARt3S0WjUq7mWub0cxi&new=1)
+ > 近日，网络安全评级和风险监控平台SecurityScorecard宣布在E轮融资中筹集了1.8亿美元。成立于2013年的SecurityScorecard帮助包括诺基亚、AXA、Liberty Mutual和Cadence Bank等公司评
+ ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hCOYVxYwdH1iczgVNE0EWAf11bhteotwtlDXXNLpEfso3ifU6MTcq5XN7UcJn07BFyu7hv*fvVNSjoospVmghPe&new=1)
  > 3月23日，中国联通在京发布CUBE-Net 3.0网络创新体系。中国联通集团公司总经理陈忠岳，副总经理买彦州出席会议。买彦州在会上致辞。行业专家、合作伙伴代表及新闻媒体等百余嘉宾在现场参加会议。 中国联通主动对...
 # IT 技术 
  ## [针对SREs和DevOps的十大开源项目](http://developer.51cto.com/art/202103/652349.htm)
  > 针对SREs和DevOps的十大开源项目
- ## [面试官上来就问MySQL事物，瑟瑟发抖...](http://database.51cto.com/art/202103/652534.htm)
- > 面试官上来就问MySQL事物，瑟瑟发抖...
+ ## [面试官上来就问MySQL事务，瑟瑟发抖...](http://database.51cto.com/art/202103/652534.htm)
+ > 面试官上来就问MySQL事务，瑟瑟发抖...
  ## [求职者撰写首席信息官简历的9个优秀实践](http://www.cioage.com/art/202103/652347.htm)
  > 求职者撰写首席信息官简历的9个优秀实践
  ## [鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程](http://developer.51cto.com/art/202103/652352.htm)
@@ -31,90 +35,64 @@ categories: IT NEWS
  > 阿里终面：优秀的代码都是如何分层的？
  ## [大数据黑市交易触目惊心：平均每人至少有4条个人信息泄露](http://bigdata.51cto.com/art/202103/652123.htm)
  > 大数据黑市交易触目惊心：平均每人至少有4条个人信息泄露
- ## [思科RS CCNA认证考试课程培训](http://fellow.51cto.com/art/202101/639336.htm?qd=51ctojrzd)
- > 思科RS CCNA认证考试课程培训
- ## [Selector在HarmonyOS中的使用](http://developer.51cto.com/art/202103/652351.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [软件测试的未来：2021年需要关注的15大软件测试趋势](http://developer.51cto.com/art/202103/652537.htm)
- > 随着最新趋势被引入IT领域，QA测试有了很大的进步和发展。本文将助你探索几大2021年最热门的软件测试趋势。
- ## [机器人大牛 Daniela Rus 领衔！MIT 新算法实现软体机器人「本体感知」](http://news.51cto.com/art/202103/652535.htm)
- > 软体机器人的发展离不开包括材料学、机器人学、生物力学、传感与控制在内的多学科进步，近年来相关学科迅速
- ## [微服务面试必问的Dubbo，这么详细还怕自己找不到工作？](http://server.51cto.com/Micro-652532.htm)
- > Dubbo 起源于阿里巴巴，对于我们做电商开发的人来说，基本是首选的技术，那么为何一个区区 soa 服务治理框
- ## [十点详解C++异常处理 一文助你全面剖析C++异常处理机制](http://developer.51cto.com/art/202103/652528.htm)
- > 在C语言的世界中，对错误的处理总是围绕着两种方法：一是使用整型的返回值标识错误;二是使用errno宏(可以简
- ## [从低代码到无代码：可视化逻辑编排](http://news.51cto.com/art/202103/652540.htm)
- > 近年来，关于低代码（LowCode）和无代码（NoCode）的讨论在前端社区内越来越火，简单的说低代码就是通过编
- ## [微软对Windows 10视觉效果大调整：全新图标陆续启用！](http://os.51cto.com/art/202103/652526.htm)
- > 微软正在给Windows 10的视觉效果进行大调整，其中一个最明显的展现就是系统不少图标都更换了。
- ## [有意思！强大的 SVG 滤镜](http://developer.51cto.com/art/202103/652525.htm)
- > 本文罗列的滤镜效果更多的是单个效果或者很少几个组合在一起的效果，实际的使用或者应用到应用场景下其实会
- ## [连戳一戳都能撤回了！手机QQ新版体验](http://mobile.51cto.com/app-show-652524.htm)
- > 手机QQ又又又更新了，发布了8.6.0最新版。这次的更新解决了一个困扰了不少用户的问题，还有几个小变化，一
- ## [刷版本or真改进？微信最新测试版亮点速览](http://mobile.51cto.com/app-show-652523.htm)
- > 前几天，微信PC版被很多“果粉”们刷屏，本以为Windows版会很快到来，结果等了半天，却等来了手机版更新的
- ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
- > 半小时一篇文过完C语言基础知识点
- ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
- > 
- ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
- > 
- ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
- > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
- ## [教小师妹学多线程，看完我写的例子，脸红成那样！](https://blog.csdn.net/Yao__Shun__Yu/article/details/115183646)
- > 
- ## [学习jQuery这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/109683256)
- > 学习jQuery这一篇就够了
- ## [\[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态](https://blog.csdn.net/Smell_rookie/article/details/108704245)
- > \[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态
- ## [【C语言】百行代码实现—俄罗斯方块](https://blog.csdn.net/Jacksqh/article/details/108034749)
- > 
- ## [深度特征融合---高低层（多尺度）特征融合](https://blog.csdn.net/xys430381_1/article/details/88370733)
- > 深度特征融合---高低层（多尺度）特征融合
- ## [Golang面向对象编程—工厂模式创建实例](https://blog.csdn.net/weixin_44736475/article/details/114176256)
- > Golang面向对象编程—工厂模式创建实例
- ## [xctf 攻防世界 web](https://blog.csdn.net/m0_55854679/article/details/114597133)
- > xctf 攻防世界 web
- ## [常见处理器MCU、MPU、DSP、FPGA等嵌入式处理器概念](https://blog.csdn.net/thisway_diy/article/details/114916402)
- > 常见处理器MCU、MPU、DSP、FPGA等嵌入式处理器概念
- ## [【电影推荐】扎导版《正义联盟》](https://blog.csdn.net/Engine_Treasure/article/details/115059854)
- > 【电影推荐】扎导版《正义联盟》
- ## [自此，每一个想跟我斗图的人，下场都很难看【Python一键爬取海量表情包，斗图狂魔必备】](https://blog.csdn.net/zhiguigu/article/details/115068468)
- > 自此，每一个想跟我斗图的人，下场都很难看【Python一键爬取海量表情包，斗图狂魔必备】
- ## [能长期做到以下32点的程序员，达到月薪30K往上，不太难：](https://blog.csdn.net/weixin_44106334/article/details/114821215)
- > 能长期做到以下32点的程序员，达到月薪30K往上，不太难：
+ ## [【软件测试】JavaScript完整课程基础学习必备](http://fellow.51cto.com/art/202101/642490.htm?qd=51ctojrzd)
+ > 【软件测试】JavaScript完整课程基础学习必备
+ ## [职场大神必备5款Windows 10办公神器，良心且强大](http://os.51cto.com/art/202103/652626.htm)
+ > 工作久了，每个人会有私藏的几款，电脑上装机必备神器，能让工作效率提高几倍都不止。这里就来分享5款，我
+ ## [云计算应用中的7个常见问题及其解决方法](http://cloud.51cto.com/art/202103/652625.htm)
+ > 行业专家指出，云计算技术使组织大规模运行应用程序和服务变得更加容易。然而，云计算也带来了一些问题。
+ ## [终于有人把网络爬虫讲明白了](http://developer.51cto.com/art/202103/652623.htm)
+ > 人们正在以前所未有的速度转向互联网，我们在互联网上所做的很多行为产生了大量的“用户数据”，比如微博、
+ ## [你可能永远不知道的记事本功能](http://os.51cto.com/art/202103/652622.htm)
+ > 记事本是Windows中最古老的内置应用程序之一，可以说，它也是你可以在Windows上找到的最简单的文本编辑器。
+ ## [数字化转型之路 到底怎么走？](http://www.cioage.com/art/202103/652618.htm)
+ > “数字化”一词已经多次出现在“两会”代表提案和政府工作报告中，如今又以重墨写入“十四五”规划和2035远
+ ## [2021年将塑造创新的五大技术趋势](http://ai.51cto.com/art/202103/652615.htm)
+ > 我们正在见证一场全球范围内的大规模数字化转型。技术正在加速创新、灵活性和业务增长。企业正在通过融入人
+ ## [Molson Coors对网络攻击事件展开了调查](http://netsecurity.51cto.com/art/202103/652591.htm)
+ > 这家跨国啤酒公司并没有声明是什么类型的攻击导致了 &quot;系统中断&quot;，但它正在积极的展开调查努力让网络恢复正
+ ## [2021年值得关注的5个IT行业发展趋势](http://network.51cto.com/art/202103/652588.htm)
+ > 根据CompTIA公司最近发布的一份调查报告，2021年的IT发展趋势与2020年相比可能并没有太大的不同，并指出了
+ ## [我对这6款优秀的电脑软件，没有任何抵抗力](http://network.51cto.com/art/202103/652587.htm)
+ > 优秀的电脑软件能极大提高我们的工作效率，今天我就给大家分享6款非常不错的电脑软件，希望对你有所帮助。
+ ## [AIOps“入坑”之前必须了解的知识](http://ai.51cto.com/art/202103/652574.htm)
+ > 通过本文介绍的五个基本步骤，企业有望充分发挥AIOps的强大威能，由此构建起更易于运营、且使用感受更为友
 # 人工智能 
- ## [\[译\]尤雨溪: Vite 会取代 vue-cli 吗？](https://blog.csdn.net/GetIdea/article/details/114436725)
- > \[译\]尤雨溪: Vite 会取代 vue-cli 吗？
- ## [解读 Flutter 全平台开发的误解与偏见](https://blog.csdn.net/ZuoYueLiang/article/details/114659075)
- > 解读 Flutter 全平台开发的误解与偏见
- ## [【译】听尤雨溪聊：下一代前端构建工具 ViteJS 中英双语字幕](https://blog.csdn.net/liuyan19891230/article/details/114683798)
- > 【译】听尤雨溪聊：下一代前端构建工具 ViteJS 中英双语字幕
  ## [n行Python代码系列：四行程序分离HTML报文中的程序代码](https://blog.csdn.net/LaoYuanPython/article/details/114729045)
  > 
- ## [假装很忙的2个命令行工具](https://blog.csdn.net/lantian_123/article/details/114979551)
- > 假装很忙的2个命令行工具
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [PyTorch 深度度量学习无敌 Buff：九大模块、随意调用](https://blog.csdn.net/HyperAI/article/details/114980587)
- > 
- ## [报告总监，他...在代码里面 “下毒” 了](https://blog.csdn.net/hihell/article/details/114991239)
- > 报告总监，他...在代码里面 “下毒” 了
- ## [一文归纳Ai调参炼丹之法](https://blog.csdn.net/qq_40877422/article/details/115007656)
- > 一文归纳Ai调参炼丹之法
  ## [Redis之父Antirez谈副业与主业](https://blog.csdn.net/universsky2015/article/details/115046795)
  > Redis之父Antirez谈副业与主业
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [Java中七个潜在的内存泄露风险，你知道几个？](https://blog.csdn.net/DD_Dddd/article/details/115063104)
  > Java中七个潜在的内存泄露风险，你知道几个？
- ## [python web py入门（4）-从数据库读取数据显示到网页](https://blog.csdn.net/caimouse/article/details/79297728)
- > python web py入门（4）-从数据库读取数据显示到网页
- ## [亲身历时两个月，这可能是一篇最全面的2021大厂技术岗实习面经](https://blog.csdn.net/JeremyZhao1998/article/details/115107621)
- > 亲身历时两个月，这可能是一篇最全面的2021大厂技术岗实习面经
- ## [工作几年，想换技术方向，怎么办？](https://blog.csdn.net/xuanyuan_fsx/article/details/115073680)
- > 工作几年，想换技术方向，怎么办？
+ ## [谷歌低调了 5 年的 Fuchsia OS，终于有望面世了！](https://blog.csdn.net/csdnnews/article/details/115135832)
+ > 谷歌低调了 5 年的 Fuchsia OS，终于有望面世了！
+ ## [一份DevOps工程师职责清单，待你查阅](https://blog.csdn.net/fly910905/article/details/115148471)
+ > 一份DevOps工程师职责清单，待你查阅
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [面试官：你是如何判断一个线程池需要创建多少个线程](https://blog.csdn.net/prestigeding/article/details/115151783)
+ > 面试官：你是如何判断一个线程池需要创建多少个线程
+ ## [全球首个 AI 说唱歌手 TikTok 发新歌，东西方审美差异巨大](https://blog.csdn.net/HyperAI/article/details/115152973)
+ > 全球首个 AI 说唱歌手 TikTok 发新歌，东西方审美差异巨大
+ ## [对Go 1.16 io/fs设计的第一感觉：得劲儿！](https://blog.csdn.net/bigwhite20xx/article/details/115153211)
+ > 对Go 1.16 io/fs设计的第一感觉：得劲儿！
+ ## [今天你的App崩了吗](https://blog.csdn.net/x359981514/article/details/115153760)
+ > 今天你的App崩了吗
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [畅想数据湖](https://blog.csdn.net/WindyQCF/article/details/115154313)
+ > 畅想数据湖
+ ## [不是“重复”造轮子，百度飞桨框架2.0如何俘获人心](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/115163307)
+ > 不是“重复”造轮子，百度飞桨框架2.0如何俘获人心
+ ## [pgbackrest 实践](https://blog.csdn.net/weixin_46199817/article/details/115167166)
+ > pgbackrest 实践
+ ## [编程为什么有趣？浅谈编程的快乐。](https://blog.csdn.net/universsky2015/article/details/115169006)
+ > 编程为什么有趣？浅谈编程的快乐。
 # PM 
+ ## [产品经理面试问答之你不是目标人群怎样做好APP](http://www.chanpin100.com/article/114215)
+ > 面试的时候，有些面试官难免会问一些很刁钻的问题，比如你不是目标人群该怎样做好APP？这个问题就有一些难度了，该如何作答请看本篇产品经理面试问答的内容。
+ ## [产品经理面试问答之从零开始做一款产品你要怎样做](http://www.chanpin100.com/article/114211)
+ > 从零开始做一款产品你要怎样做？这个问题并不一定会遇到，但是还是要为大家解答一番，这样大家在面试中遇到这个问题时就可以从容应对了。下边，请看本篇产品经理面试问答分享的内容。
  ## [产品经理书籍推荐（含产品、运营、设计）](http://www.chanpin100.com/article/114182)
  > 这里是我从业多年积累的互联网产品经理有关书籍，附有「免费」下载链接，一共分为「产品」、「交互」、「运营」、「管理」、「用户」、「数据」等6个类别。
  ## [产品上线 该这么做才算到位！（附Checklist）](http://www.chanpin100.com/article/114207)
@@ -151,9 +129,5 @@ categories: IT NEWS
  > 2016年被称为知识付费元年，知识付费的兴起和良性发展，让越来越多的教育培训机构加入到知识付费行业。教育培训机构和教育大咖纷纷打造线上商学院，开启了线上、线下联合发展的新教育模式。
  ## [2021年零售行业做好私域流量的三个关键点](http://www.chanpin100.com/article/114164)
  > 在私域发展趋势下，零售企业要想做好私域运营，就一定要找到适合自己的打法，选择适合的运营工具，做好引流获客和精细化运营工作，把握私域生态机遇，实现零售市场的新增长。
- ## [【产品说·第一期】产品经理那些事儿](http://www.chanpin100.com/article/114194)
- > 你是不是总会听到“产品经理将是未来创业做CEO的最佳人选”的话。也许是抱着改变世界的梦想，以及一本《人人都是产品经理》的书让很多人觉得人人都是产品经理，但这个入门容易精通难的职业，注定会让外围的人不停的徘徊。
- ## [订单系统：订单拆单规则与流程详解](http://www.chanpin100.com/article/114193)
- > 用户在电商平台上一次购物，通常会将多个商家的多个商品作为一个订单提交，同时也会使用各种优惠券和满减。支付完成后，后台对这一订单是如何进行分拆的，拆分后系统对资金，供应商，运费，优惠折扣如何处理呢，请往下看 。
 
     
