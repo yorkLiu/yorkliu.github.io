@@ -1,38 +1,50 @@
 ---
 title: 2021-03-25 IT News
 copyright: true
-date: 2021-03-25 09:01:10
+date: 2021-03-25 10:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2NrIbxm2hNCFTJx4o12jqEdtsBagLBbLhrO1zfDHZv3oIBhVeOaiCXA3y8PzlBCqQSAz*Aprbnp*9LxkRtjT2Mh&new=1)
+ ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2NrIbxm2hNCFTJx4o12jqEdr2R4f6hjGwRVH2FzlezQBoo2MSzrzvc4Nte5cc4WfQAxiw-IAmgwnc2S3lVvFssx&new=1)
  > 今年“3•15”晚会曝光了科勒使用万店掌摄像头非法采集顾客人脸信息引发强烈关注近日江苏省张家港市市场监督管理局对辖区内商户进行专项排查后发现名创优品等门店仍存在类似情况近日，张家港市市场监督管理局执...
- ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYio1Q6slXKKtcN3WU6DfWfe3WAQXqfNSgUDMGOmjFM272KF20R8q30NQ5cCU4TTt90c=&new=1)
+ ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYiqmi0WwnQLIrM4ZwOelhyV4KoBMPzymZTp4gSQf5WLnqPE2tfajK6GXEsaVBDHZlFw=&new=1)
  > 3月23日上午，市委书记蔡奇到海淀区调研数字经济发展。他强调，北京是数字经济的蓝海，建设全球数字经济标杆城市必须要有标杆企业。要立足自身优势，瞄准世界一流，鼓励支持企业加大关键核心技术研发力度，取得...
- ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5Vjs0lzgyYCmJobFAMs*IzFZwYx7TarcGbeW02s5eBz69DbjAm0JsBElkEJ*k12RShAT8ck9lp-6G4evlsnSUKK&new=1)
+ ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5Vjs0lzgyYCmJobFAMs*IzFvacSk7Fcb98yjSvz8n-b*URF01brCO3raHh7CK5K3UnyWmkVz-NUbGZhqtIXmitl&new=1)
  > 近日，网络安全评级和风险监控平台SecurityScorecard宣布在E轮融资中筹集了1.8亿美元。成立于2013年的SecurityScorecard帮助包括诺基亚、AXA、Liberty Mutual和Cadence Bank等公司评
- ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr3z5RRlVepUFY8ZgPDfOeIyJyoC4REUJX-I1djZ3en7fWrYtp8sh4VgWhjJ0fMm*LGUjULGxnNqCCqt6o2Jseq2&new=1)
+ ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr3z5RRlVepUFY8ZgPDfOeIy-tTBu0kxRq9OtITTVOA0r16NY77deNgFJMZzORYVe-bSsd85eiXSaNjbylb7gzWp&new=1)
  > 3D打印机制造商VELO3D现在确认已通过与空白支票公司JAWS Spitfire Acquisition Corporation的SPAC合并，达成公开上市的最终协议。该交易预计将在2021年下半年完成，届时合并后的实体在纽约证券交易所（
- ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616634004&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hALtFH4daC2xOWQudu3dHJVgoXz6MBZFyx*XqVtmX7nmHnbM1kTg26NCDSIxMiqOYkS0Ahs2iw8j4IfvfZd*QGk&new=1)
+ ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616635804&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hALtFH4daC2xOWQudu3dHJVfWa17wlcwB*opypolvvmO*YJP3LuY1iRDvKdfko1DL1WtFNr-LEJlxvw-AbgceHY&new=1)
  > 3月23日，中国联通在京发布CUBE-Net 3.0网络创新体系。中国联通集团公司总经理陈忠岳，副总经理买彦州出席会议。买彦州在会上致辞。行业专家、合作伙伴代表及新闻媒体等百余嘉宾在现场参加会议。 中国联通主动对...
 # IT 技术 
+ ## [针对SREs和DevOps的十大开源项目](http://developer.51cto.com/art/202103/652349.htm)
+ > 针对SREs和DevOps的十大开源项目
+ ## [面试官上来就问MySQL事物，瑟瑟发抖...](http://database.51cto.com/art/202103/652534.htm)
+ > 面试官上来就问MySQL事物，瑟瑟发抖...
  ## [求职者撰写首席信息官简历的9个优秀实践](http://www.cioage.com/art/202103/652347.htm)
  > 求职者撰写首席信息官简历的9个优秀实践
+ ## [鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程](http://developer.51cto.com/art/202103/652352.htm)
+ > 鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程
  ## [【廉环话】防疫一周年后的IT项目管理思考 --测试、部署、发布](http://www.cioage.com/art/202103/651978.htm)
  > 【廉环话】防疫一周年后的IT项目管理思考 --测试、部署、发布
  ## [阿里终面：优秀的代码都是如何分层的？](http://developer.51cto.com/art/202103/652080.htm)
  > 阿里终面：优秀的代码都是如何分层的？
  ## [大数据黑市交易触目惊心：平均每人至少有4条个人信息泄露](http://bigdata.51cto.com/art/202103/652123.htm)
  > 大数据黑市交易触目惊心：平均每人至少有4条个人信息泄露
- ## [为Windows 10高级用户开发的优秀微软工具](http://os.51cto.com/art/202103/651972.htm)
- > 为Windows 10高级用户开发的优秀微软工具
- ## [刷了这么多题，你了解自己代码的内存消耗么？](http://developer.51cto.com/art/202103/652075.htm)
- > 刷了这么多题，你了解自己代码的内存消耗么？
- ## [【Arduino实验室】NB的玩法，鸿蒙版远程控制交通信号灯-ESP8266联网](http://os.51cto.com/art/202103/651841.htm)
- > 【Arduino实验室】NB的玩法，鸿蒙版远程控制交通信号灯-ESP8266联网
- ## [RHCE认证免费培训视频课程](http://fellow.51cto.com/art/202101/641590.htm?qd=51ctojrzd)
- > RHCE认证免费培训视频课程
+ ## [思科RS CCNA认证考试课程培训](http://fellow.51cto.com/art/202101/639336.htm?qd=51ctojrzd)
+ > 思科RS CCNA认证考试课程培训
+ ## [Selector在HarmonyOS中的使用](http://developer.51cto.com/art/202103/652351.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [软件测试的未来：2021年需要关注的15大软件测试趋势](http://developer.51cto.com/art/202103/652537.htm)
+ > 随着最新趋势被引入IT领域，QA测试有了很大的进步和发展。本文将助你探索几大2021年最热门的软件测试趋势。
+ ## [机器人大牛 Daniela Rus 领衔！MIT 新算法实现软体机器人「本体感知」](http://news.51cto.com/art/202103/652535.htm)
+ > 软体机器人的发展离不开包括材料学、机器人学、生物力学、传感与控制在内的多学科进步，近年来相关学科迅速
+ ## [微服务面试必问的Dubbo，这么详细还怕自己找不到工作？](http://server.51cto.com/Micro-652532.htm)
+ > Dubbo 起源于阿里巴巴，对于我们做电商开发的人来说，基本是首选的技术，那么为何一个区区 soa 服务治理框
+ ## [十点详解C++异常处理 一文助你全面剖析C++异常处理机制](http://developer.51cto.com/art/202103/652528.htm)
+ > 在C语言的世界中，对错误的处理总是围绕着两种方法：一是使用整型的返回值标识错误;二是使用errno宏(可以简
+ ## [从低代码到无代码：可视化逻辑编排](http://news.51cto.com/art/202103/652540.htm)
+ > 近年来，关于低代码（LowCode）和无代码（NoCode）的讨论在前端社区内越来越火，简单的说低代码就是通过编
  ## [微软对Windows 10视觉效果大调整：全新图标陆续启用！](http://os.51cto.com/art/202103/652526.htm)
  > 微软正在给Windows 10的视觉效果进行大调整，其中一个最明显的展现就是系统不少图标都更换了。
  ## [有意思！强大的 SVG 滤镜](http://developer.51cto.com/art/202103/652525.htm)
@@ -50,19 +62,19 @@ categories: IT NEWS
  ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
  ## [教小师妹学多线程，看完我写的例子，脸红成那样！](https://blog.csdn.net/Yao__Shun__Yu/article/details/115183646)
- > 教小师妹学多线程，看完我写的例子，脸红成那样！
- ## [干货干货~C语言版学生成绩管理系统【数据结构课程设计，百行代码实现功能强化版（内附源码）】](https://blog.csdn.net/qq_44888152/article/details/108539125)
- > 干货干货~C语言版学生成绩管理系统【数据结构课程设计，百行代码实现功能强化版（内附源码）】
- ## [计算机复试面试题总结](https://blog.csdn.net/liupeng19970119/article/details/88316368)
- > 计算机复试面试题总结
- ## [手把手教你使用R语言制作临床决策曲线](https://blog.csdn.net/dege857/article/details/112461198)
- > 手把手教你使用R语言制作临床决策曲线
- ## [字节跳动面试题：你的平均薪水是多少？](https://blog.csdn.net/zhongyangzhong/article/details/112343029)
- > 字节跳动面试题：你的平均薪水是多少？
- ## [用Unity3d仿制前几日爆红的“合成大西瓜”小游戏源码](https://blog.csdn.net/qq_33789001/article/details/113599262)
- > 用Unity3d仿制前几日爆红的“合成大西瓜”小游戏源码
- ## [R语言分组求和，分组求平均值，分组计数](https://blog.csdn.net/santiagozhang/article/details/113883415)
- > R语言分组求和，分组求平均值，分组计数
+ > 
+ ## [学习jQuery这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/109683256)
+ > 学习jQuery这一篇就够了
+ ## [\[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态](https://blog.csdn.net/Smell_rookie/article/details/108704245)
+ > \[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态
+ ## [【C语言】百行代码实现—俄罗斯方块](https://blog.csdn.net/Jacksqh/article/details/108034749)
+ > 
+ ## [深度特征融合---高低层（多尺度）特征融合](https://blog.csdn.net/xys430381_1/article/details/88370733)
+ > 深度特征融合---高低层（多尺度）特征融合
+ ## [Golang面向对象编程—工厂模式创建实例](https://blog.csdn.net/weixin_44736475/article/details/114176256)
+ > Golang面向对象编程—工厂模式创建实例
+ ## [xctf 攻防世界 web](https://blog.csdn.net/m0_55854679/article/details/114597133)
+ > xctf 攻防世界 web
  ## [常见处理器MCU、MPU、DSP、FPGA等嵌入式处理器概念](https://blog.csdn.net/thisway_diy/article/details/114916402)
  > 常见处理器MCU、MPU、DSP、FPGA等嵌入式处理器概念
  ## [【电影推荐】扎导版《正义联盟》](https://blog.csdn.net/Engine_Treasure/article/details/115059854)
@@ -103,6 +115,8 @@ categories: IT NEWS
  ## [工作几年，想换技术方向，怎么办？](https://blog.csdn.net/xuanyuan_fsx/article/details/115073680)
  > 工作几年，想换技术方向，怎么办？
 # PM 
+ ## [产品经理书籍推荐（含产品、运营、设计）](http://www.chanpin100.com/article/114182)
+ > 这里是我从业多年积累的互联网产品经理有关书籍，附有「免费」下载链接，一共分为「产品」、「交互」、「运营」、「管理」、「用户」、「数据」等6个类别。
  ## [产品上线 该这么做才算到位！（附Checklist）](http://www.chanpin100.com/article/114207)
  > 经过前期调研、冥想、写需求、撕逼、画饼等等一系列努力之后，产品终于要上线了！产品经理，长舒一口气：又搞定一单！产品上线，产品经理的工作结束，是这样的么？
  ## [新人入职需要做什么](http://www.chanpin100.com/article/114206)
@@ -141,7 +155,5 @@ categories: IT NEWS
  > 你是不是总会听到“产品经理将是未来创业做CEO的最佳人选”的话。也许是抱着改变世界的梦想，以及一本《人人都是产品经理》的书让很多人觉得人人都是产品经理，但这个入门容易精通难的职业，注定会让外围的人不停的徘徊。
  ## [订单系统：订单拆单规则与流程详解](http://www.chanpin100.com/article/114193)
  > 用户在电商平台上一次购物，通常会将多个商家的多个商品作为一个订单提交，同时也会使用各种优惠券和满减。支付完成后，后台对这一订单是如何进行分拆的，拆分后系统对资金，供应商，运费，优惠折扣如何处理呢，请往下看 。
- ## [读懂本文 即可从0到1设计电商评价产品](http://www.chanpin100.com/article/114192)
- > 我们经常听说某地方的特色产品或景色，如东北的猪肉炖粉条、武汉的热干面、四川火锅。你在没有实际尝过的时候，为什么也会很肯定地说这些地方的美食特别好，而且还会慕名而去呢？
 
     
