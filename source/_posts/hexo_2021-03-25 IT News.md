@@ -1,62 +1,92 @@
 ---
 title: 2021-03-25 IT News
 copyright: true
-date: 2021-03-25 12:02:10
+date: 2021-03-25 17:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全球缺“芯”!英特尔公布大计划：斥资200亿美元建芯片工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=8*f3i13H5jsCbaw7VSOQLH-94HhXpCdlUcrOVObj1lgVMD9iL15Cb0k*fk*QCznBJtSe1Bbhz39HKhcS8ok2Klvdi60jv5CiV-jr3JJh9rYuGbyc*9fJwGL5COgwyemf&new=1)
+ ## [全球缺“芯”!英特尔公布大计划：斥资200亿美元建芯片工厂](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=8*f3i13H5jsCbaw7VSOQLH-94HhXpCdlUcrOVObj1li*p*nNNs8W4sZSE09pbM7wCSEd2l5srVIFcBvyQa-Y*cGsXELE8uWVSR6xckO6ZP4i6VskW60DPFinlr7SIgwj&new=1)
  > 权威、深度、实用的财经资讯都在这里“英特尔回来了，现在是全新的英特尔。”英特尔新任CEO帕特·基尔辛格23日宣布。当日，英特尔披露了芯片扩张计划：将斥资200亿美元建芯片工厂。2020年下半年以来，“缺芯”潮...
- ## [猎豹移动季报图解：营收同比降56%高级副总裁周品离职](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=z7vZetDVGYHeV6GdO*ajF5qYzRgZJ5N9n0Xy7b2Z8v86gmSUHAnx8FrkRSeL**l4KharbRoEJ8DGuNCvokRVbAEzYw71NK1eWnVupN8cDzCkJpNbMe2-et1GLL1*GwJr&new=1)
+ ## [猎豹移动季报图解：营收同比降56%高级副总裁周品离职](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=z7vZetDVGYHeV6GdO*ajF5qYzRgZJ5N9n0Xy7b2Z8v-N7Gv9D-t*VlpZ1Izur3BnV3czTVln0Hm9x530fDwUPz09mLt*fClSNdyWpMrjZz9ZwqyFvncwfo8Fz0CJAZt5&new=1)
  > 雷帝网 雷建平 3月23日报道猎豹移动（NYSE:CMCM）今日公布财报。财报显示，猎豹移动2020年营收为15.586亿元（约2.389亿美元），同比下滑56.6%。猎豹移动2020年归属于股东的净利润为4.167亿元（约合6390万美元
- ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr27NVXZ4uMg0YkYE2Q2cXiNz2m2jLENhWCpR6iOD3S1RMZZ94W0orWOZhnj7h0WTkk1B9iTYdI3fRrNFsZsAoAX&new=1)
+ ## [无支撑金属3D打印机制造商VELO3D将在纽交所上市](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=9tOM63WFkumq1AZgtleIo6LmSv3PAm0z*XT0VO0BXr0gdCAIqZEG5otSQXrf29opP5Mmbgo2TKU5fII7yxsacxJcMdwiWBovvBEcFSsk3wYcz3JwFok-whUPRySMyXiF&new=1)
  > 3D打印机制造商VELO3D现在确认已通过与空白支票公司JAWS Spitfire Acquisition Corporation的SPAC合并，达成公开上市的最终协议。该交易预计将在2021年下半年完成，届时合并后的实体在纽约证券交易所（
- ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYir*n3u8NOaJOzvp3N4-u5M0OWSG08P-W9i5CKhmMy7sPVBMvFCGnkxlqzK0qPb58c8=&new=1)
+ ## [蔡奇调研北京数字经济这片蓝海，强调建设全球数字经济标杆城市必须要有标杆企业](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=MpHKJX1KFkX3vc6zU9HmM7KjHwV5hXl9AXL-TSPwYioybR4u0eEXHDi2hlYI1KWZHiD8dzr5g38gjRo6gwV5piHf-mi5x5aBboVA*ipJKJk=&new=1)
  > 3月23日上午，市委书记蔡奇到海淀区调研数字经济发展。他强调，北京是数字经济的蓝海，建设全球数字经济标杆城市必须要有标杆企业。要立足自身优势，瞄准世界一流，鼓励支持企业加大关键核心技术研发力度，取得...
- ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2NCUZj8O9Fcn6to1-b0VODS4U7-d5PFIfA-Up0U2P6spK-ukNlVaDntljByF5ldRVOR8p23wdtlh1S2C4m1ZOcj&new=1)
+ ## [“名创优品”被立案调查!](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=bftz3iHVbhpHq7xcB6FUJX-bLd77-OuR42AaE5UzZ2MxXrAuuOb9ZVas3*9NY0zMwAUc3IDPO9IiXz2MjoGZDK7zNxDSjnYqGYzAMjG2yfsXSrluw587cBFhHqEnQNo6&new=1)
  > 今年“3•15”晚会曝光了科勒使用万店掌摄像头非法采集顾客人脸信息引发强烈关注近日江苏省张家港市市场监督管理局对辖区内商户进行专项排查后发现名创优品等门店仍存在类似情况近日，张家港市市场监督管理局执...
- ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5WNxybV-O8vLIel957tF1t-RCFd*0Am2xmjETrAVtp16GVQtcbsezMzkMYHZkronsV*ZARt3S0WjUq7mWub0cxi&new=1)
+ ## [安全风险评级风口到来：SecurityScorecard融资1.8亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=2w-Jd2j83K0gsIfILjSRdDyjPCp--Ss8M79qAW0De5VieqA6bkWvyXT22aCGREesURsETwPJmw5zEYF0zqXK1aSdFIUYhDO4khAjWVO73Dc3zsxSsNL3gw3ICO-RZxZK&new=1)
  > 近日，网络安全评级和风险监控平台SecurityScorecard宣布在E轮融资中筹集了1.8亿美元。成立于2013年的SecurityScorecard帮助包括诺基亚、AXA、Liberty Mutual和Cadence Bank等公司评
- ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616644803&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hCOYVxYwdH1iczgVNE0EWAf11bhteotwtlDXXNLpEfso3ifU6MTcq5XN7UcJn07BFyu7hv*fvVNSjoospVmghPe&new=1)
+ ## [CUBE-Net 3.0发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1616661004&ver=2967&signature=orFc9yjVsOJvhYUQrbj-i43BVF3JoyQJjxhXlj6O*hBFmcF6FkvytK8KFSCjuRj3XO-eSn4VZYl4lI6CqjolKIvE8eS4BOHT6GTDWHNkrUUqXqIxs4hZJFLfpTZWxGAb&new=1)
  > 3月23日，中国联通在京发布CUBE-Net 3.0网络创新体系。中国联通集团公司总经理陈忠岳，副总经理买彦州出席会议。买彦州在会上致辞。行业专家、合作伙伴代表及新闻媒体等百余嘉宾在现场参加会议。 中国联通主动对...
 # IT 技术 
  ## [针对SREs和DevOps的十大开源项目](http://developer.51cto.com/art/202103/652349.htm)
  > 针对SREs和DevOps的十大开源项目
  ## [面试官上来就问MySQL事务，瑟瑟发抖...](http://database.51cto.com/art/202103/652534.htm)
  > 面试官上来就问MySQL事务，瑟瑟发抖...
+ ## [当GAN生成图像可以卡音效，这个Python包只需几行代码](http://news.51cto.com/art/202103/652305.htm)
+ > 当GAN生成图像可以卡音效，这个Python包只需几行代码
  ## [求职者撰写首席信息官简历的9个优秀实践](http://www.cioage.com/art/202103/652347.htm)
  > 求职者撰写首席信息官简历的9个优秀实践
+ ## [软件测试的未来：2021年需要关注的15大软件测试趋势](http://developer.51cto.com/art/202103/652537.htm)
+ > 软件测试的未来：2021年需要关注的15大软件测试趋势
  ## [鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程](http://developer.51cto.com/art/202103/652352.htm)
  > 鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程
- ## [【廉环话】防疫一周年后的IT项目管理思考 --测试、部署、发布](http://www.cioage.com/art/202103/651978.htm)
- > 【廉环话】防疫一周年后的IT项目管理思考 --测试、部署、发布
- ## [阿里终面：优秀的代码都是如何分层的？](http://developer.51cto.com/art/202103/652080.htm)
- > 阿里终面：优秀的代码都是如何分层的？
- ## [大数据黑市交易触目惊心：平均每人至少有4条个人信息泄露](http://bigdata.51cto.com/art/202103/652123.htm)
- > 大数据黑市交易触目惊心：平均每人至少有4条个人信息泄露
- ## [【软件测试】JavaScript完整课程基础学习必备](http://fellow.51cto.com/art/202101/642490.htm?qd=51ctojrzd)
- > 【软件测试】JavaScript完整课程基础学习必备
- ## [职场大神必备5款Windows 10办公神器，良心且强大](http://os.51cto.com/art/202103/652626.htm)
- > 工作久了，每个人会有私藏的几款，电脑上装机必备神器，能让工作效率提高几倍都不止。这里就来分享5款，我
- ## [云计算应用中的7个常见问题及其解决方法](http://cloud.51cto.com/art/202103/652625.htm)
- > 行业专家指出，云计算技术使组织大规模运行应用程序和服务变得更加容易。然而，云计算也带来了一些问题。
- ## [终于有人把网络爬虫讲明白了](http://developer.51cto.com/art/202103/652623.htm)
- > 人们正在以前所未有的速度转向互联网，我们在互联网上所做的很多行为产生了大量的“用户数据”，比如微博、
- ## [你可能永远不知道的记事本功能](http://os.51cto.com/art/202103/652622.htm)
- > 记事本是Windows中最古老的内置应用程序之一，可以说，它也是你可以在Windows上找到的最简单的文本编辑器。
- ## [数字化转型之路 到底怎么走？](http://www.cioage.com/art/202103/652618.htm)
- > “数字化”一词已经多次出现在“两会”代表提案和政府工作报告中，如今又以重墨写入“十四五”规划和2035远
- ## [2021年将塑造创新的五大技术趋势](http://ai.51cto.com/art/202103/652615.htm)
- > 我们正在见证一场全球范围内的大规模数字化转型。技术正在加速创新、灵活性和业务增长。企业正在通过融入人
- ## [Molson Coors对网络攻击事件展开了调查](http://netsecurity.51cto.com/art/202103/652591.htm)
- > 这家跨国啤酒公司并没有声明是什么类型的攻击导致了 &quot;系统中断&quot;，但它正在积极的展开调查努力让网络恢复正
- ## [2021年值得关注的5个IT行业发展趋势](http://network.51cto.com/art/202103/652588.htm)
- > 根据CompTIA公司最近发布的一份调查报告，2021年的IT发展趋势与2020年相比可能并没有太大的不同，并指出了
- ## [我对这6款优秀的电脑软件，没有任何抵抗力](http://network.51cto.com/art/202103/652587.htm)
- > 优秀的电脑软件能极大提高我们的工作效率，今天我就给大家分享6款非常不错的电脑软件，希望对你有所帮助。
- ## [AIOps“入坑”之前必须了解的知识](http://ai.51cto.com/art/202103/652574.htm)
- > 通过本文介绍的五个基本步骤，企业有望充分发挥AIOps的强大威能，由此构建起更易于运营、且使用感受更为友
+ ## [微服务面试必问的Dubbo，这么详细还怕自己找不到工作？](http://server.51cto.com/Micro-652532.htm)
+ > 微服务面试必问的Dubbo，这么详细还怕自己找不到工作？
+ ## [Excel函数应用课程-初级](http://fellow.51cto.com/art/202101/639566.htm?qd=51ctojrzd)
+ > Excel函数应用课程-初级
+ ## [手把手教你用Python轻松玩转SQL注入](http://developer.51cto.com/art/202103/652745.htm)
+ > 大家好，我是黄伟。相信大家经常有听到过SQL注入啥的，但是并不是特别了解；小编以前就是经常听别人说，但
+ ## [650万名以色列公民数据在网络泄露](http://netsecurity.51cto.com/art/202103/652725.htm)
+ > 据外媒报道，当地时间周一，数百万名以色列公民的选民登记和个人信息在网上被泄露，两天之后，该国将举行一
+ ## [实现图深度学习复杂研究性质任务太头疼？这个新工具包帮你应对](http://news.51cto.com/art/202103/652729.htm)
+ > 深度学习是目前AI领域最热门的方向之一，目前PyG和DGL等主流图深度学习框架大多是实现图深度学习的基本操作
+ ## [各国央行数字货币区别](http://blockchain.51cto.com/art/202103/652723.htm)
+ > 在IMF审查的174个成员国中，只有大约40个成员国被合法允许发行数字货币。当前，我国的数字人民币正在紧张测
+ ## [一文探究目前数字货币面临的挑战](http://blockchain.51cto.com/art/202103/652722.htm)
+ > 通常来讲，加密货币的收益远高于纸币。那比特币的货币挑战是什么呢？
+ ## [库克推迟发布会「找奸细」，爆料人被「逼」剃光眉毛](http://news.51cto.com/art/202103/652733.htm)
+ > 疯传了许久的3月苹果发布会，似乎推迟到4月了！难道库克此前故意释放假时间「找奸细」？
+ ## [优化Pytorch模型训练的小技巧](http://ai.51cto.com/art/202103/652721.htm)
+ > 在本文中，我将描述并展示4种不同的Pytorch训练技巧的代码，这些技巧是我个人发现的，用于改进我的深度学
+ ## [女性能不能从事大数据行业？我们用数据说话](http://bigdata.51cto.com/art/202103/652718.htm)
+ > 如果说互联网行业是男程序员的天下，这一定是当今社会中的偏见了。女性力量已经开始逐渐在各行各业崭露头
+ ## [GitHub 访问不了？用这个方法轻松解决](http://news.51cto.com/art/202103/652739.htm)
+ > Github是全球最大的代码开源平台，许多程序员都会通过它寻找一些优质的开源项目，或者在上面托管自己创建的
+ ## [智慧物流大势所趋，机器人、无人机、5G价值凸显](http://ai.51cto.com/art/202103/652717.htm)
+ > 为解决物流供需平衡性问题，企业们开始寻求发展无人化、智能化的配送新模式，智慧物流应运而生。
+ ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
+ > 半小时一篇文过完C语言基础知识点
+ ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
+ > 
+ ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
+ > Spring Boot 高效入门实战
+ ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
+ > 我离职了
+ ## [Django 做个小后台，细节在完善一点点，滚雪球学 Python 第三阶段](https://blog.csdn.net/hihell/article/details/115204870)
+ > Django 做个小后台，细节在完善一点点，滚雪球学 Python 第三阶段
+ ## [学习jQuery这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/109683256)
+ > 学习jQuery这一篇就够了
+ ## [\[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态](https://blog.csdn.net/Smell_rookie/article/details/108704245)
+ > \[记录三\]Vue+node+koa2+mysql+nginx+redis，全栈开发小程序和管理员管理系统项目——token校验登录态
+ ## [【C语言】百行代码实现—俄罗斯方块](https://blog.csdn.net/Jacksqh/article/details/108034749)
+ > 
+ ## [深度特征融合---高低层（多尺度）特征融合](https://blog.csdn.net/xys430381_1/article/details/88370733)
+ > 深度特征融合---高低层（多尺度）特征融合
+ ## [Golang面向对象编程—工厂模式创建实例](https://blog.csdn.net/weixin_44736475/article/details/114176256)
+ > Golang面向对象编程—工厂模式创建实例
+ ## [xctf 攻防世界 web](https://blog.csdn.net/m0_55854679/article/details/114597133)
+ > xctf 攻防世界 web
+ ## [常见处理器MCU、MPU、DSP、FPGA等嵌入式处理器概念](https://blog.csdn.net/thisway_diy/article/details/114916402)
+ > 常见处理器MCU、MPU、DSP、FPGA等嵌入式处理器概念
+ ## [【电影推荐】扎导版《正义联盟》](https://blog.csdn.net/Engine_Treasure/article/details/115059854)
+ > 【电影推荐】扎导版《正义联盟》
+ ## [自此，每一个想跟我斗图的人，下场都很难看【Python一键爬取海量表情包，斗图狂魔必备】](https://blog.csdn.net/zhiguigu/article/details/115068468)
+ > 自此，每一个想跟我斗图的人，下场都很难看【Python一键爬取海量表情包，斗图狂魔必备】
+ ## [能长期做到以下32点的程序员，达到月薪30K往上，不太难：](https://blog.csdn.net/weixin_44106334/article/details/114821215)
+ > 能长期做到以下32点的程序员，达到月薪30K往上，不太难：
 # 人工智能 
  ## [n行Python代码系列：四行程序分离HTML报文中的程序代码](https://blog.csdn.net/LaoYuanPython/article/details/114729045)
  > 
@@ -89,6 +119,28 @@ categories: IT NEWS
  ## [编程为什么有趣？浅谈编程的快乐。](https://blog.csdn.net/universsky2015/article/details/115169006)
  > 编程为什么有趣？浅谈编程的快乐。
 # PM 
+ ## [创客匠人：在线教育平台最常用的高效引流课程形式](http://www.chanpin100.com/article/114196)
+ > 在线教育平台层出不穷，随着互联网+5G的迅速发展，越来越多的教培机构、教育企业开始布局线上领域，使得在线教育平台如雨后春笋般涌现。
+ ## [产品运营与新媒体运营相比二者有什么区别？](http://www.chanpin100.com/article/114225)
+ > 产品运营与新媒体运营相比二者有什么区别？这可能是每一个即将踏入产品运营行业的同学都会有的疑惑，傻傻分不清产品运营与新媒体运营有什么区别，今天小编就来介绍一下二者的区别以及发展前景。
+ ## [产品运营到底是做什么的？谈谈与产品经理和其他运营岗位最大的区别](http://www.chanpin100.com/article/114224)
+ > 产品运营到底是做什么的？这应该是每一个刚入这行的小伙伴都会有的疑问，本文就给大家解答一下这个问题，谈一谈产品运营与产品经理和其他运营岗位最大的区别是什么。
+ ## [【报告分享】2021数字化转型白皮书](http://www.chanpin100.com/article/114195)
+ > 当前，以云计算、大数据、物联网、人工智能、5G为代表的Cloud2.0新技术集群的融合发展，推动着技术范式的转变，并与各行各业广泛渗透和融通，成为新工业革命的主要驱动力，是改变生产生活方式、产业变革升级的强大新动能。
+ ## [AWE上的楚河汉界：博世等延续高端优势 海尔智家换道生态](http://www.chanpin100.com/article/114191)
+ > 2021AWE在经历一个“小波折”后，终于在3月23日开展。作为与美国CES、德国IFA并称的全球最知名三大消费电子大会之一，由于是疫后首个在线下开展，其关注度一时间达到一个峰值。为了适应“新形势”，AWE还首创了全行业同时在线直播模式，数百家家电与消费电子企业，也将在京东、淘宝、快手等电商/直播平
+ ## [为什么微信红包不能撤回？](http://www.chanpin100.com/article/114190)
+ > 为什么微信不给你撤回红包？这个问题可以理解成，为什么不做需求？回想一下，平时不做需求的正当理由有哪些？
+ ## [走在穿搭潮流前线 做最时尚的服装品牌！](http://www.chanpin100.com/article/114187)
+ > 服装界的流行趋势不断在变，不创新，不进步，终将会被时代淘汰。服装品牌要时刻保持潮流的敏感度，以最快的速度，跟随市场更迭步伐，多元化开发符合潮流趋势的新产品，做时尚潮流的先行者。
+ ## [产品经理面试问答之你还有什么要问的吗](http://www.chanpin100.com/article/114220)
+ > 在面试进行到尾声的时候，面试官一般都会问面试者你还有什么要问的吗？这个问题其实也是有坑的，一个问不好，就算前边面的再好，也会毁在这个问题上。这个问题该如何回答，请看本篇产品经理面试问答的内容。
+ ## [产品经理面试问答之你个性上最大的优缺点是什么](http://www.chanpin100.com/article/114218)
+ > 你个性上最大的优缺点是什么？这个问题哪些该说哪些不该说也是有很多门道的。想知道该如何作答请看本篇产品经理面试问答的内容。
+ ## [【产品经理免费公开课】大厂竞逐的企业服务为什么成了新热点](http://www.chanpin100.com/article/114217)
+ > 互联网下半场，toC岗位难度高，职位在减少？从钉钉到企业微信到飞书，企业服务却成为了数字化时代的热点。如何了解企业业务流、信息流、数据流，更好的完善工作？在企业服务转型中如何通过数据带来提升？本期产品经理免费公开课为你揭晓答案！
+ ## [产品经理面试问答之你对薪资有什么要求](http://www.chanpin100.com/article/114216)
+ > 很多人在面试的时候都会被面试问，你对薪资有什么要求。其实大家心知肚明，我对薪资的要求就是一定要高。但是真回答起来指定不能这样说的，那么该如何作答，请看本篇产品经理面试问答的内容。
  ## [产品经理面试问答之你不是目标人群怎样做好APP](http://www.chanpin100.com/article/114215)
  > 面试的时候，有些面试官难免会问一些很刁钻的问题，比如你不是目标人群该怎样做好APP？这个问题就有一些难度了，该如何作答请看本篇产品经理面试问答的内容。
  ## [产品经理面试问答之从零开始做一款产品你要怎样做](http://www.chanpin100.com/article/114211)
@@ -107,27 +159,5 @@ categories: IT NEWS
  > 马上到一年一度的毕业季了，大家是否也都开始考虑求职啦？让我看看有没有意向求职产品经理的小伙伴咧～别着急，这不是招聘广告，这是实打实的干货，让你对产品经理一岗有个明确的认识，轻松战胜毕业季～！
  ## [互联网产品运营到底是做什么的？](http://www.chanpin100.com/article/114203)
  > 在现在这个互联网时代，产品运营已经不像以前那样只是传统意义上的产品运营了，应运而生的是互联网产品运营，因为这个时代我们做什么几乎都离不开互联网。那么，互联网产品运营到底是做什么的？下面请看小编的介绍。
- ## [产品经理书单大全](http://www.chanpin100.com/article/114180)
- > 这可能是史上最全的产品经理书单，包括：1.产品入门，2.产品分析，3.产品设计，4.沟通管理，5.思维升级，6.商业哲学
- ## [产品运营推广的途径有哪些](http://www.chanpin100.com/article/114202)
- > 目前来看，产品运营这个岗位还是比较受人欢迎的，因为它的薪资待遇也蛮不错的，发展前景也挺好，所以很多人都想投身运营岗位，而且产品运营的门槛也不算高。那么，产品运营推广的途径都有哪些？下面请看本文的介绍。
- ## [如何搭建优惠券营销体系？](http://www.chanpin100.com/article/114178)
- > 最近刚完成电商平台的优惠券体系的规划，决定将整个优惠券体系搭建的过程整理成文字以供交流，也方便自己也复盘一下整个过程，欢迎拍砖。
- ## [产品运营推广的内容形态有哪些](http://www.chanpin100.com/article/114201)
- > 都说产品经理就相当于一个产品的母亲，产品运营相当于一个产品的保姆，他们的作用同样都是非常重要的。本文给大家介绍一下产品运营推广的内容形态都有哪些，希望能帮助到你。
- ## [产品运营的框架是什么样子的？](http://www.chanpin100.com/article/114200)
- > 随着互联网的高速发展，产品运营这个岗位变得真的是越来越重要了，几乎每一个产品的发展壮大都离不开产品运营人员，接下来本文会给大家介绍产品运营的框架是什么样的，希望能有所帮助。
- ## [在线教育大数据营销平台实战（应用篇）](http://www.chanpin100.com/article/114177)
- > 本文内容均从作者真实实践过程出发，结合在线教育业务背景和当时的客观条件，深入分析大数据营销平台实战，尽可能详细地为大家阐述企业数据化之路由底层建设到 MVP 方案，再到推广落地的完整过程。接上篇大数据营销平台搭建后，本文将侧重于数据产品推广应用。
- ## [产品运营的工作都有哪些？（下）](http://www.chanpin100.com/article/114199)
- > 随着互联网的快速发展，产品运营这个岗位受到了越来越多人的追捧，在上一篇文章中，我们已经给大家简单介绍了产品运营的工作内容，本文继续为大家介绍。
- ## [创客匠人【智能管家】助力商家：高效管理店铺提升运营效率](http://www.chanpin100.com/article/114172)
- > 知识店铺商家在运营自己的平台时，经常会遇到平台上有待处理事项却无法及时发现的问题，包括店铺资料的完善、商品库存及上架问题、订单消息通知、流量短信数量预警、店铺营销设置等...
- ## [产品运营的工作都有哪些？（上）](http://www.chanpin100.com/article/114198)
- > 产品运营从字面上理解，是负责从产品的孕育、出生、各个年龄段到长寿百岁甚至死亡，都与运营密切相关，今天我们一起探讨一下产品运营的工作都有哪些吧。
- ## [被20000+教培机构共同选择的创客匠人究竟有何魅力？](http://www.chanpin100.com/article/114169)
- > 2016年被称为知识付费元年，知识付费的兴起和良性发展，让越来越多的教育培训机构加入到知识付费行业。教育培训机构和教育大咖纷纷打造线上商学院，开启了线上、线下联合发展的新教育模式。
- ## [2021年零售行业做好私域流量的三个关键点](http://www.chanpin100.com/article/114164)
- > 在私域发展趋势下，零售企业要想做好私域运营，就一定要找到适合自己的打法，选择适合的运营工具，做好引流获客和精细化运营工作，把握私域生态机遇，实现零售市场的新增长。
 
     
