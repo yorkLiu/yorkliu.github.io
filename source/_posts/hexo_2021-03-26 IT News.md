@@ -1,47 +1,47 @@
 ---
 title: 2021-03-26 IT News
 copyright: true
-date: 2021-03-26 09:00:57
+date: 2021-03-26 10:01:54
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 技术 
+ ## [Angular、React与Vue，那个框架更好？](http://developer.51cto.com/art/202103/652791.htm)
+ > Angular、React与Vue，那个框架更好？
  ## [如何通过可穿戴设备中的数据进行健康监测](http://mobile.51cto.com/ahot-652788.htm)
  > 如何通过可穿戴设备中的数据进行健康监测
  ## [6亿数据秒级查询，ClickHouse太快了！](http://database.51cto.com/art/202103/652829.htm)
  > 6亿数据秒级查询，ClickHouse太快了！
+ ## [鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现](http://developer.51cto.com/art/202102/647151.htm)
+ > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [针对SREs和DevOps的十大开源项目](http://developer.51cto.com/art/202103/652349.htm)
  > 针对SREs和DevOps的十大开源项目
  ## [面试官上来就问MySQL事务，瑟瑟发抖...](http://database.51cto.com/art/202103/652534.htm)
  > 面试官上来就问MySQL事务，瑟瑟发抖...
  ## [当GAN生成图像可以卡音效，这个Python包只需几行代码](http://news.51cto.com/art/202103/652305.htm)
  > 当GAN生成图像可以卡音效，这个Python包只需几行代码
- ## [求职者撰写首席信息官简历的9个优秀实践](http://www.cioage.com/art/202103/652347.htm)
- > 求职者撰写首席信息官简历的9个优秀实践
- ## [软件测试的未来：2021年需要关注的15大软件测试趋势](http://developer.51cto.com/art/202103/652537.htm)
- > 软件测试的未来：2021年需要关注的15大软件测试趋势
- ## [Linux基础教程技术实战.入门教程](http://fellow.51cto.com/art/202103/650809.htm?qd=51ctojrzd)
- > Linux基础教程技术实战.入门教程
- ## [软件架构编年史：单体架构](http://developer.51cto.com/art/202103/652892.htm)
- > 默认的架构风格就是构建一个单体。我的意思是，最开始应用程序就只有一个文件，然后应用程序开始由多个文件
- ## [数据分析师技能加点攻略](http://bigdata.51cto.com/art/202103/652891.htm)
- > 我做分析的过程中经常用到的一些理论，工具和技能。如果把数据分析当作功夫，那么技能是外功，理论是内功，
- ## [曝微软正将 Windows10「任务栏」从 Explorer.exe 中移出：响应将更流畅稳定](http://os.51cto.com/art/202103/652890.htm)
- > 所有最新版本的 Windows 10 和其他版本中，任务栏和 explorer.exe 一直共存。“Explorer.exe”进程负责文件
- ## [使用 gdu 进行更快的磁盘使用情况检查](http://os.51cto.com/art/202103/652888.htm)
- > 在 Linux 终端中有两种常用的 检查磁盘使用情况的方法：du 命令和 df 命令。du 命令更多的是用来检查目录的
- ## [Windows 10批量换装新图标：五彩缤纷 舒服多了](http://os.51cto.com/art/202103/652887.htm)
- > 微软近日通过开发者渠道，向内测用户推送了Windows 10 Build 21343 (RS_PRERELEASE)预览版本，最主要的变化
- ## [免费的安全软件落寞！让人唏嘘](http://netsecurity.51cto.com/art/202103/652884.htm)
- > 当年免费安全软件仍然在市场上活跃的已经寥寥无几，对于用户来说，要不要安装安全软件已经是一个问题。近年
- ## [聊聊我的操作系统及日常应用软件](http://network.51cto.com/art/202103/652882.htm)
- > 今天给大家分享几个我常用的操作系统及日常应用软件，看看有没有你喜欢的！
- ## [大佬也Hashcode方法上翻船了，不小心秀了一把！](http://developer.51cto.com/art/202103/652881.htm)
- > 大佬解决问题思路值得我们先学习一波，在大佬决定最终放弃的前，给我发消息了，问有兴趣看一看没。有这么奇
- ## [搞定Tomcat重要参数调优！](http://server.51cto.com/sOS-652880.htm)
- > tomcat这只老猫为何能活过普通猫咪能活的年龄?这与它轻巧的构造有关，还与它卓越的性能有关。现在的tomcat
- ## [SpringCloud Alibaba实战之SpringCloud Gateway 请求响应日志](http://database.51cto.com/art/202103/652879.htm)
- > 请求响应日志是日常开发调试定位问题的重要手段，在微服务中引入SpringCloud Gateway后我们希望在网关层统
+ ## [数据结构严蔚敏C语言版-手把手教你实现数据结构视频课程](http://fellow.51cto.com/art/202101/638496.htm?qd=51ctojrzd)
+ > 数据结构严蔚敏C语言版-手把手教你实现数据结构视频课程
+ ## [超详细的秒杀高并发设计，运维快收藏起来](http://news.51cto.com/art/202103/652930.htm)
+ > 我们如何设计一个秒杀系统呢？对于秒杀系统应该考虑哪些问题？如何设计出健壮的秒杀系统？本文我们就来探讨
+ ## [通信业务下滑不断 运营商新增长点何时来](http://network.51cto.com/art/202103/652926.htm)
+ > 近期中国移动发布财报，2020年三大运营商营收、利润均实现同比增长。
+ ## [安全服务公司 Mimecast 确认 SolarWinds 黑客窃取了公司内部多个项目源代码](http://netsecurity.51cto.com/art/202103/652924.htm)
+ > 据SolarWinds公司的最新消息，黑客入侵Mimecast网络，作为SolarWinds间谍活动的一部分，黑客窃取了这家安全
+ ## [云服务器1M的带宽到底多大？90%的网站够用了](http://network.51cto.com/art/202103/652923.htm)
+ > 1M，作为云服务器最低的带宽配置，到底能承受多大的流量?那么云服务器的带宽，到底多大够用?1M的带宽，流量
+ ## [是的，这是2021年优秀的CSS框架](http://developer.51cto.com/art/202103/652921.htm)
+ > 我经常看到初级前端或后端开发人员问：什么是最好的CSS框架?因此，在多年来学习和使用很多CSS技术之后，我
+ ## [HarmonyOS APP组件分享(四)](http://os.51cto.com/art/202103/652749.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [13个云原生工具帮助你快速发布软件产品](http://cloud.51cto.com/art/202103/652919.htm)
+ > Cloud Native Technologies可帮助您快速提供软件产品，同时降低运营IT成本。让我们看看贵公司如何成为13个
+ ## [Meticulous Research：2027年农业物联网市场规模将达327.5亿美元](http://iot.51cto.com/art/202103/652918.htm)
+ > 农业物联网使用机器人、无人机、远程传感器和计算机成像，并结合不断进步的机器学习和分析工具，监测作物、
+ ## [对出现的两个新的勒索软件变体――AlumniLocker和Humble的分析](http://netsecurity.51cto.com/art/202103/652915.htm)
+ > 趋势科技的研究人员最近发现了两个新的勒索软件变体――AlumniLocker和Humble，它们表现出不同的复杂行为和
+ ## [工程师应该怎么学习](http://news.51cto.com/art/202103/652920.htm)
+ > 只要一日自诩工程师，就没有办法放弃学习。现在很多年轻的程序员会从网络博客来学习技术，但博客内容大多缺
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -52,18 +52,18 @@ categories: IT NEWS
  > 我离职了
  ## [Django 做个小后台，细节在完善一点点，滚雪球学 Python 第三阶段](https://blog.csdn.net/hihell/article/details/115204870)
  > Django 做个小后台，细节在完善一点点，滚雪球学 Python 第三阶段
- ## [2019PHP面试题大全](https://blog.csdn.net/weixin_43243070/article/details/86058624)
- > 2019PHP面试题大全
- ## [Java高质量面试总结](https://blog.csdn.net/JewaveOxford/article/details/104727515)
+ ## [初学计算机语言者（C语言，C++，java，python，C）](https://blog.csdn.net/zzc15768234368/article/details/109882718)
+ > 初学计算机语言者（C语言，C++，java，python，C）
+ ## [IDEA这些既好用又好玩的三十多个宝贝插件你还不知道吗？](https://blog.csdn.net/weixin_46285416/article/details/107853987)
  > 
- ## [\[记录一\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目训练](https://blog.csdn.net/gitchatxiaomi/article/details/108098130)
- > \[记录一\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目训练
- ## [vs2019安装和使用教程（详细）](https://blog.csdn.net/qq_36556893/article/details/88603729)
- > vs2019安装和使用教程（详细）
- ## [TCGA数据库的利用（二）—— 数据处理！](https://blog.csdn.net/weixin_42512684/article/details/90172633)
- > TCGA数据库的利用（二）—— 数据处理！
- ## [《数据结构》C语言版（严蔚敏版） 全书知识梳理 + 练习习题详解（超详细清晰易懂）](https://blog.csdn.net/weixin_45697774/article/details/105529696)
- > 
+ ## [C++STL容器总结](https://blog.csdn.net/weixin_41588502/article/details/87978490)
+ > C++STL容器总结
+ ## [机器学习算法（一）SVM](https://blog.csdn.net/qq_31347869/article/details/88071930)
+ > 机器学习算法（一）SVM
+ ## [R语言分布滞后线性和非线性模型（DLMs和DLNMs）分析时间序列数据](https://blog.csdn.net/qq_19600291/article/details/114632269)
+ > R语言分布滞后线性和非线性模型（DLMs和DLNMs）分析时间序列数据
+ ## [使用Vant 组件 \[“usingcomponents“\]\[“van-button“\]: “@vant/weapp/button/index“ 未找到：](https://blog.csdn.net/zfy21104/article/details/112506248)
+ > 使用Vant 组件 \[“usingcomponents“\]\[“van-button“\]: “@vant/weapp/button/index“ 未找到：
  ## [终于知道为啥网页不让我复制粘贴了！](https://blog.csdn.net/devcloud/article/details/115167819)
  > 终于知道为啥网页不让我复制粘贴了！
  ## [学编程，有人苦苦坚持却半途而废，有人是边玩边学反而学有所成？](https://blog.csdn.net/zhiguigu/article/details/115131918)
@@ -104,6 +104,8 @@ categories: IT NEWS
  ## [编程为什么有趣？浅谈编程的快乐。](https://blog.csdn.net/universsky2015/article/details/115169006)
  > 编程为什么有趣？浅谈编程的快乐。
 # PM 
+ ## [能源绿色管控：天然气站启动数字化转型 工业企业该如何突围？](http://www.chanpin100.com/article/114212)
+ > 可视化、数字化、智能化监管是燃气产业的发展趋势，大大提高了管理效率，节约了大量人力和物力。随着信息化的迅速发展，Hightopo可视化技术与智能监管相结合，可以结合有效的预警方案，确保生产的安全高效进行。
  ## [如何理解互联网产品ToC与ToB的差异](http://www.chanpin100.com/article/114209)
  > 先进行简单的概念区分：ToC（To Customer）：面向个体用户，ToB（To Business）：面向企业用户。虽然仅仅是面向的客户不同，两种类型的产品在业务上的差别却非常大。
  ## [聊聊产品经理的四个重要阶段](http://www.chanpin100.com/article/114235)
@@ -142,7 +144,5 @@ categories: IT NEWS
  > 为什么微信不给你撤回红包？这个问题可以理解成，为什么不做需求？回想一下，平时不做需求的正当理由有哪些？
  ## [走在穿搭潮流前线 做最时尚的服装品牌！](http://www.chanpin100.com/article/114187)
  > 服装界的流行趋势不断在变，不创新，不进步，终将会被时代淘汰。服装品牌要时刻保持潮流的敏感度，以最快的速度，跟随市场更迭步伐，多元化开发符合潮流趋势的新产品，做时尚潮流的先行者。
- ## [产品经理面试问答之你还有什么要问的吗](http://www.chanpin100.com/article/114220)
- > 在面试进行到尾声的时候，面试官一般都会问面试者你还有什么要问的吗？这个问题其实也是有坑的，一个问不好，就算前边面的再好，也会毁在这个问题上。这个问题该如何回答，请看本篇产品经理面试问答的内容。
 
     
