@@ -1,7 +1,7 @@
 ---
 title: 2021-03-27 IT News
 copyright: true
-date: 2021-03-27 10:01:24
+date: 2021-03-27 12:01:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,26 +20,28 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [JavaWEB核心编程视频教程（无讲师答疑）](http://fellow.51cto.com/art/202101/639104.htm?qd=51ctojrzd)
- > JavaWEB核心编程视频教程（无讲师答疑）
+ ## [【129】-TCPIP标准](http://fellow.51cto.com/art/202101/642231.htm?qd=51ctojrzd)
+ > 【129】-TCPIP标准
+ ## [数据库索引，终于懂了](http://zhuanlan.51cto.com/art/202103/653323.htm)
+ > 不少朋友留言问MySQL索引底层的实现，让我讲讲B+树。知其然，知其所以然，讲懂B+树其实不难，今天更多聊聊
+ ## [我从高效数据科学家那里偷走的15个习惯](http://zhuanlan.51cto.com/art/202103/653320.htm)
+ > 当涉及到数据科学领域时，你需要使用一些书中的所有技巧，以使自己获得一个使你超越终点的优势。那么，为什
+ ## [美国要实现科技复兴，能指望拜登吗？](http://zhuanlan.51cto.com/art/202103/653318.htm)
+ > 不管是好是坏，特朗普政府的美国科技政策，以及之前奥巴马总统的科技政策，往往会设定全球优先事项，新政府
+ ## [Python函数的参数类型和使用技巧](http://developer.51cto.com/art/202103/653317.htm)
+ > 先来定义一个计算体重指数(BMI)的函数。体重指数就是体重与身高的平方之比，其中体重以千克为单位，身高以
+ ## [技术新趋势：SaaS安全配置管理(SSPM)](http://netsecurity.51cto.com/art/202103/653315.htm)
+ > 在当下攻击者和恶意行为横行的网络时代里，大部分企业都需要将云端配置的安全性作为一个重要先决条件。
+ ## [刚上报数据泄露，律师和警察就找到了我](http://netsecurity.51cto.com/art/202103/653314.htm)
+ > 白帽工程师Rob Dyke向非营利组织Apperta报告了一起数据泄露事件，该组织对他负责人的披露表示感谢，同时也
+ ## [Gartner：2021年政府应关注的十大业务趋势](http://www.cioage.com/art/202103/653312.htm)
+ > 随着2021年的到来，政府领导者仍将面临疫情及其后果所带来的不断变化的挑战，在此背景下，Gartner评估了202
+ ## [Gartner发布2021年八大安全和风险管理趋势](http://netsecurity.51cto.com/art/202103/653311.htm)
+ > 随着新冠疫情加速数字化业务转型并给传统网络安全实践带来挑战，为了能够快速重塑自己所在的企业机构，安全
+ ## [Cisco Jabber爆多安全漏洞](http://netsecurity.51cto.com/art/202103/653308.htm)
+ > ​研究人员在Cisco Jabber客户端发现多个安全漏洞。
  ## [微软为 Windows101909 推送 KB5000850 更新，修复资源管理器搜索等问题](http://os.51cto.com/art/202103/653307.htm)
  > 微软为 Windows101909 推送 KB5000850 更新，本次更新包含了诸多功能修复和改善，会推送给家庭版、企业版本
- ## [到2026年，亚太地区Wi-Fi 6和6E市场规模将达85.59亿美元](http://network.51cto.com/art/202103/653306.htm)
- > Wi-Fi 6在网络速度，容量和响应速度方面比上一代产品更具优势。由于1024-QAM调制方案和上行链路资源
- ## [到2027年，全球AI医疗成像解决方案市场规模将达47.206亿美元](http://ai.51cto.com/art/202103/653305.htm)
- > 由于临床决策的复杂性不断增加，人工智能医疗成像解决方案的市场需求越来越高。人工智能在医学成像中的融合
- ## [新冠疫苗可预约免费打！教你用微信预约新冠疫苗](http://mobile.51cto.com/ahot-653304.htm)
- > 微信新冠疫苗预约服务位于微信首页搜索框中，用户只需要在搜索框中直接输入“新冠疫苗”即可显示当地的新冠
- ## [界面UI即将大改！Windows1021H2最新预览版抢先看](http://os.51cto.com/art/202103/653303.htm)
- > 微软发布了最新Windows 10 Build 21337更新,这个预览版隶属于21H2，这也是Windows 10将会进行界面UI全新升
- ## [5G如何为数字经济发展按下“加速键”](http://network.51cto.com/art/202103/653265.htm)
- > 在轰轰烈烈的5G浪潮下，有关5G的信息铺天盖地。自2019年10月底5G正式商用以来，一年多的发展让“5G不是单纯
- ## [4款前端开发工具，新手小白怎么选？](http://developer.51cto.com/art/202103/653263.htm)
- > 刚刚开始学习前端的时候，改怎么样选择一个比较好的开发工具？常常有人会来问我这样的问题，今天我们一起来
- ## [数字人民币如何“匿名”？怎样保护隐私？](http://blockchain.51cto.com/art/202103/653261.htm)
- > “碰一碰”“扫一扫”，这些被我们逐渐熟悉的移动支付方式，一方面带来了便捷的支付体验，另一方面也令不少
- ## [软件开发10年学会的一些东西](http://news.51cto.com/art/202103/653258.htm)
- > 近期我整理了一下软件开发这十年来需要学的东西，很实用的都是，一起来学习下吧。
  ## [还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法](https://blog.csdn.net/wenyusuran/article/details/114093268)
  > 还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -71,36 +73,36 @@ categories: IT NEWS
  ## [程序员，45岁](https://blog.csdn.net/mogoweb/article/details/114909017)
  > 程序员，45岁
 # 人工智能 
- ## [n行Python代码系列：四行程序分离HTML报文中的程序代码](https://blog.csdn.net/LaoYuanPython/article/details/114729045)
- > 
- ## [Redis之父Antirez谈副业与主业](https://blog.csdn.net/universsky2015/article/details/115046795)
- > Redis之父Antirez谈副业与主业
- ## [Java中七个潜在的内存泄露风险，你知道几个？](https://blog.csdn.net/DD_Dddd/article/details/115063104)
- > Java中七个潜在的内存泄露风险，你知道几个？
  ## [数字技术战略：开发者体验 —— 内部工具的“最后一公里”](https://blog.csdn.net/gmszone/article/details/115107279)
  > 数字技术战略：开发者体验 —— 内部工具的“最后一公里”
  ## [谷歌低调了 5 年的 Fuchsia OS，终于有望面世了！](https://blog.csdn.net/csdnnews/article/details/115135832)
  > 谷歌低调了 5 年的 Fuchsia OS，终于有望面世了！
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [一份DevOps工程师职责清单，待你查阅](https://blog.csdn.net/fly910905/article/details/115148471)
  > 一份DevOps工程师职责清单，待你查阅
  ## [面试官：你是如何判断一个线程池需要创建多少个线程](https://blog.csdn.net/prestigeding/article/details/115151783)
  > 面试官：你是如何判断一个线程池需要创建多少个线程
  ## [全球首个 AI 说唱歌手 TikTok 发新歌，东西方审美差异巨大](https://blog.csdn.net/HyperAI/article/details/115152973)
  > 全球首个 AI 说唱歌手 TikTok 发新歌，东西方审美差异巨大
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [对Go 1.16 io/fs设计的第一感觉：得劲儿！](https://blog.csdn.net/bigwhite20xx/article/details/115153211)
  > 对Go 1.16 io/fs设计的第一感觉：得劲儿！
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [今天你的App崩了吗](https://blog.csdn.net/x359981514/article/details/115153760)
  > 今天你的App崩了吗
  ## [畅想数据湖](https://blog.csdn.net/WindyQCF/article/details/115154313)
  > 畅想数据湖
  ## [不是“重复”造轮子，百度飞桨框架2.0如何俘获人心](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/115163307)
  > 不是“重复”造轮子，百度飞桨框架2.0如何俘获人心
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
  ## [深入JVM - Code Cache内存池](https://blog.csdn.net/renfufei/article/details/115165919)
  > 深入JVM - Code Cache内存池
+ ## [pgbackrest 实践](https://blog.csdn.net/weixin_46199817/article/details/115167166)
+ > pgbackrest 实践
+ ## [编程为什么有趣？浅谈编程的快乐。](https://blog.csdn.net/universsky2015/article/details/115169006)
+ > 编程为什么有趣？浅谈编程的快乐。
+ ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
+ > 我离职了
 # PM 
  ## [针对5种用户类型 在线教育如何低成本邀新？](http://www.chanpin100.com/article/114213)
  > 通过分析不同类型用户，有针对性地进行活动，源源不断往私域流量池里引流，再进行口碑营销，这样教培企业就形成了一个健康的获客矩阵，可持续地驱动用户增长。
@@ -124,9 +126,5 @@ categories: IT NEWS
  > 在面试产品经理的过程中，面试官有时会让你说一下你是怎样理解用户体验的？那么这个问题该如何回答呢？请看本篇产品经理面试问答的分享内容。
  ## [产品经理面试问答之怎么做自我介绍](http://www.chanpin100.com/article/114243)
  > 请你做下简单的自我介绍，想必每一个面试者都会遇到这个问题吧！这个问题基本是面试对话的开场，那么该怎么做自我介绍呢？请看本篇产品经理面试问答的内容。
- ## [产品经理面试问答之你手里有哪些offer](http://www.chanpin100.com/article/114242)
- > 有些面试官在面试产品经理的时候，会问面试者手里有哪些offer？会怎样进行选择。这个问题该如何回答面试官呢？请看本篇产品经理面试问答的内容。
- ## [产品经理面试问答之你的职业规划是怎样的](http://www.chanpin100.com/article/114240)
- > 很多面试官在面试的时候会问到面试者的职业规划是怎样的，这个问题其实还是很好回答的，具体怎么回答，请看本篇产品经理面试问答的内容。
 
     
