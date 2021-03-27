@@ -1,7 +1,7 @@
 ---
 title: 2021-03-27 IT News
 copyright: true
-date: 2021-03-27 08:00:59
+date: 2021-03-27 09:01:19
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,8 +20,16 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [存储备份容灾技术基础培训课程_存储技术_容灾备份_Oracle视频教程_数据库容灾与复制01](http://fellow.51cto.com/art/202012/637242.htm?qd=51ctojrzd)
- > 存储备份容灾技术基础培训课程_存储技术_容灾备份_Oracle视频教程_数据库容灾与复制01
+ ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
+ > Docker快速入门视频课程（通俗易懂）
+ ## [到2026年，亚太地区Wi-Fi 6和6E市场规模将达85.59亿美元](http://network.51cto.com/art/202103/653306.htm)
+ > Wi-Fi 6在网络速度，容量和响应速度方面比上一代产品更具优势。由于1024-QAM调制方案和上行链路资源
+ ## [到2027年，全球AI医疗成像解决方案市场规模将达47.206亿美元](http://ai.51cto.com/art/202103/653305.htm)
+ > 由于临床决策的复杂性不断增加，人工智能医疗成像解决方案的市场需求越来越高。人工智能在医学成像中的融合
+ ## [新冠疫苗可预约免费打！教你用微信预约新冠疫苗](http://mobile.51cto.com/ahot-653304.htm)
+ > 微信新冠疫苗预约服务位于微信首页搜索框中，用户只需要在搜索框中直接输入“新冠疫苗”即可显示当地的新冠
+ ## [界面UI即将大改！Windows1021H2最新预览版抢先看](http://os.51cto.com/art/202103/653303.htm)
+ > 微软发布了最新Windows 10 Build 21337更新,这个预览版隶属于21H2，这也是Windows 10将会进行界面UI全新升
  ## [5G如何为数字经济发展按下“加速键”](http://network.51cto.com/art/202103/653265.htm)
  > 在轰轰烈烈的5G浪潮下，有关5G的信息铺天盖地。自2019年10月底5G正式商用以来，一年多的发展让“5G不是单纯
  ## [4款前端开发工具，新手小白怎么选？](http://developer.51cto.com/art/202103/653263.htm)
@@ -40,18 +48,18 @@ categories: IT NEWS
  > 我离职了
  ## [脸打肿都不要忘了呀，Java 重写时应当遵守的 11 条规则！！](https://blog.csdn.net/qing_gee/article/details/115250288)
  > 脸打肿都不要忘了呀，Java 重写时应当遵守的 11 条规则！！
- ## [网络编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104903925)
- > 
- ## [Laravel 8 反序列化分析](https://blog.csdn.net/qq_38154820/article/details/114610513)
- > Laravel 8 反序列化分析
- ## [【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）](https://blog.csdn.net/Mind_programmonkey/article/details/77164682)
- > 【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）
- ## [【C++】智能指针详解](https://blog.csdn.net/flowing_wind/article/details/81301001)
- > 【C++】智能指针详解
- ## [专业之旅——GitHub 热点速览 Vol.45](https://blog.csdn.net/a419240016/article/details/109589897)
- > 专业之旅——GitHub 热点速览 Vol.45
- ## [往通俗点地说C/C++的不同之处（面对新手向）(1)](https://blog.csdn.net/weixin_45677047/article/details/105013579)
- > 
+ ## [蓝桥杯Python这一篇就够了-训练系统题库合集（包括VIP试题）&数据结构与算法](https://blog.csdn.net/Harry______/article/details/109683177)
+ > 蓝桥杯Python这一篇就够了-训练系统题库合集（包括VIP试题）&amp;数据结构与算法
+ ## [centos如何搭建SOCKS5服务器？](https://blog.csdn.net/ipiohiuhn/article/details/114321482)
+ > centos如何搭建SOCKS5服务器？
+ ## [C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）](https://blog.csdn.net/weixin_44044411/article/details/104276757)
+ > C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）
+ ## [用最直接的大白话来聊一聊Java中的反射机制](https://blog.csdn.net/ju_362204801/article/details/90578678)
+ > 用最直接的大白话来聊一聊Java中的反射机制
+ ## [带你快速了解Flutter的发展和应用](https://blog.csdn.net/anyRTC/article/details/114010822)
+ > 带你快速了解Flutter的发展和应用
+ ## [Java学习路线从入门到入土](https://blog.csdn.net/qq_45077173/article/details/108691139)
+ > Java学习路线从入门到入土
  ## [终于知道为啥网页不让我复制粘贴了！](https://blog.csdn.net/devcloud/article/details/115167819)
  > 终于知道为啥网页不让我复制粘贴了！
  ## [学编程，有人苦苦坚持却半途而废，有人是边玩边学反而学有所成？](https://blog.csdn.net/zhiguigu/article/details/115131918)
