@@ -1,7 +1,7 @@
 ---
 title: 2021-03-27 IT News
 copyright: true
-date: 2021-03-27 12:01:58
+date: 2021-03-27 17:01:49
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,50 +20,50 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [【129】-TCPIP标准](http://fellow.51cto.com/art/202101/642231.htm?qd=51ctojrzd)
- > 【129】-TCPIP标准
+ ## [【李宁】移动开发实战之Android5.x新特性视频课程](http://fellow.51cto.com/art/202101/638493.htm?qd=51ctojrzd)
+ > 【李宁】移动开发实战之Android5.x新特性视频课程
+ ## [四十岁的软件开发人员是什么样子的？](http://developer.51cto.com/art/202103/653363.htm)
+ > 想想看：2019年StackOverflow进行的一项调查显示，美国的平均编码经验时长为14.1年。对于上过大学的受访者
+ ## [SAP洞察：什么是物联网](http://iot.51cto.com/art/202103/653350.htm)
+ > 物联网是配备有传感器，软件和相关技术的互连对象和设备(又称“物”)，可以与其他设备或系统进行数据的传输
+ ## [Silverfish：第一个利用 SolarWinds 漏洞以入侵欧盟国家的组织](http://netsecurity.51cto.com/art/202103/653345.htm)
+ > 一家名为 Prodaft 的瑞士网络安全公司声称发现了与 SolarWinds 攻击有关的另一起网络攻击。
  ## [数据库索引，终于懂了](http://zhuanlan.51cto.com/art/202103/653323.htm)
  > 不少朋友留言问MySQL索引底层的实现，让我讲讲B+树。知其然，知其所以然，讲懂B+树其实不难，今天更多聊聊
+ ## [用JavaScript实现队列](http://developer.51cto.com/art/202103/653322.htm)
+ > 在本文中，我将描述队列数据这个结构：它都有哪些操作以及在 JavaScript 中怎样实现。
+ ## [从一道毫无人性的刁钻面试题说起](http://developer.51cto.com/art/202103/653321.htm)
+ > 在 JavaScript 中，你可以不用英文字母与数字，就执行 console.log(1) 吗？
+ ## [Unity编程之C编程“基础篇”(第2](http://fellow.51cto.com/art/202103/653270.htm)
+ > 学习Unity脚本语言，为开发unity项目做语言技术准备。
  ## [我从高效数据科学家那里偷走的15个习惯](http://zhuanlan.51cto.com/art/202103/653320.htm)
  > 当涉及到数据科学领域时，你需要使用一些书中的所有技巧，以使自己获得一个使你超越终点的优势。那么，为什
+ ## [在 promise 中 then 和 finally 有什么区别](http://developer.51cto.com/art/202103/653319.htm)
+ > 看上去 promise.prototype.then() 和 promise.prototype.finally 似乎非常相似。但是你需要明白它们有一些
  ## [美国要实现科技复兴，能指望拜登吗？](http://zhuanlan.51cto.com/art/202103/653318.htm)
  > 不管是好是坏，特朗普政府的美国科技政策，以及之前奥巴马总统的科技政策，往往会设定全球优先事项，新政府
- ## [Python函数的参数类型和使用技巧](http://developer.51cto.com/art/202103/653317.htm)
- > 先来定义一个计算体重指数(BMI)的函数。体重指数就是体重与身高的平方之比，其中体重以千克为单位，身高以
- ## [技术新趋势：SaaS安全配置管理(SSPM)](http://netsecurity.51cto.com/art/202103/653315.htm)
- > 在当下攻击者和恶意行为横行的网络时代里，大部分企业都需要将云端配置的安全性作为一个重要先决条件。
- ## [刚上报数据泄露，律师和警察就找到了我](http://netsecurity.51cto.com/art/202103/653314.htm)
- > 白帽工程师Rob Dyke向非营利组织Apperta报告了一起数据泄露事件，该组织对他负责人的披露表示感谢，同时也
- ## [Gartner：2021年政府应关注的十大业务趋势](http://www.cioage.com/art/202103/653312.htm)
- > 随着2021年的到来，政府领导者仍将面临疫情及其后果所带来的不断变化的挑战，在此背景下，Gartner评估了202
- ## [Gartner发布2021年八大安全和风险管理趋势](http://netsecurity.51cto.com/art/202103/653311.htm)
- > 随着新冠疫情加速数字化业务转型并给传统网络安全实践带来挑战，为了能够快速重塑自己所在的企业机构，安全
- ## [Cisco Jabber爆多安全漏洞](http://netsecurity.51cto.com/art/202103/653308.htm)
- > ​研究人员在Cisco Jabber客户端发现多个安全漏洞。
- ## [微软为 Windows101909 推送 KB5000850 更新，修复资源管理器搜索等问题](http://os.51cto.com/art/202103/653307.htm)
- > 微软为 Windows101909 推送 KB5000850 更新，本次更新包含了诸多功能修复和改善，会推送给家庭版、企业版本
- ## [还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法](https://blog.csdn.net/wenyusuran/article/details/114093268)
- > 还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法
- ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
- > 
- ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
- > 
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
- ## [脸打肿都不要忘了呀，Java 重写时应当遵守的 11 条规则！！](https://blog.csdn.net/qing_gee/article/details/115250288)
- > 脸打肿都不要忘了呀，Java 重写时应当遵守的 11 条规则！！
- ## [蓝桥杯Python这一篇就够了-训练系统题库合集（包括VIP试题）&数据结构与算法](https://blog.csdn.net/Harry______/article/details/109683177)
- > 蓝桥杯Python这一篇就够了-训练系统题库合集（包括VIP试题）&amp;数据结构与算法
- ## [centos如何搭建SOCKS5服务器？](https://blog.csdn.net/ipiohiuhn/article/details/114321482)
- > centos如何搭建SOCKS5服务器？
- ## [C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）](https://blog.csdn.net/weixin_44044411/article/details/104276757)
- > C语言图形化界面——含图形、按钮、鼠标、进度条等部件制作（带详细代码、讲解及注释）
- ## [用最直接的大白话来聊一聊Java中的反射机制](https://blog.csdn.net/ju_362204801/article/details/90578678)
- > 用最直接的大白话来聊一聊Java中的反射机制
- ## [带你快速了解Flutter的发展和应用](https://blog.csdn.net/anyRTC/article/details/114010822)
- > 带你快速了解Flutter的发展和应用
- ## [Java学习路线从入门到入土](https://blog.csdn.net/qq_45077173/article/details/108691139)
- > Java学习路线从入门到入土
+ ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
+ > 
+ ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
+ > Spring Boot 高效入门实战
+ ## [还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法](https://blog.csdn.net/wenyusuran/article/details/114093268)
+ > 还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法
+ ## [AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》](https://blog.csdn.net/qq_41185868/article/details/115254121)
+ > AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&amp;董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》
+ ## [网络编程面试题（2020最新版）](https://blog.csdn.net/ThinkWon/article/details/104903925)
+ > 
+ ## [Laravel 8 反序列化分析](https://blog.csdn.net/qq_38154820/article/details/114610513)
+ > Laravel 8 反序列化分析
+ ## [【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）](https://blog.csdn.net/Mind_programmonkey/article/details/77164682)
+ > 【实战】如何通过html+css+mysql+php来快速的制作动态网页（以制作一个博客网站为列）
+ ## [【C++】智能指针详解](https://blog.csdn.net/flowing_wind/article/details/81301001)
+ > 【C++】智能指针详解
+ ## [专业之旅——GitHub 热点速览 Vol.45](https://blog.csdn.net/a419240016/article/details/109589897)
+ > 专业之旅——GitHub 热点速览 Vol.45
+ ## [往通俗点地说C/C++的不同之处（面对新手向）(1)](https://blog.csdn.net/weixin_45677047/article/details/105013579)
+ > 
  ## [终于知道为啥网页不让我复制粘贴了！](https://blog.csdn.net/devcloud/article/details/115167819)
  > 终于知道为啥网页不让我复制粘贴了！
  ## [学编程，有人苦苦坚持却半途而废，有人是边玩边学反而学有所成？](https://blog.csdn.net/zhiguigu/article/details/115131918)
@@ -110,21 +110,5 @@ categories: IT NEWS
  > 神策数据将继续与浙商银行深入合作，通过全面创新的产品和服务，赋能浙商银行数字化转型，为客户提供开放、高效、灵活、共享、极致的综合金融服务。
  ## [内容付费时代已来 培训讲师如何打造线上品牌？](http://www.chanpin100.com/article/114228)
  > 内容付费时代已经来临了，越来越多讲师，教育培训机构发现线上课程，打造自己专属品牌，实现知识变现。
- ## [【原创】CEO应该如何搭建数字化领导组织](http://www.chanpin100.com/article/114223)
- > 在数字化浪潮席卷各行各业之际，传统的由上到下层级森严的组织模式已不再适应新时代的发展要求。数字时代下的商业环境，对用户需求的响应速度、服务的精准度、用户体验的个性化都提出了更高要求。
- ## [知识付费平台现状：供应商、购买者议价能力较弱](http://www.chanpin100.com/article/114222)
- > 随着信息过度膨胀而导致的优质信息匮乏、移动支付技术在各领域的渗透等，我国知识付费行业迅速进入到了快速发展期，在视频、音频、图书、影像等各领域都绽放了别样色彩，如以喜马拉雅FM、创客​匠人、知乎Live等为代表的知识付费平台方兴未艾，成为互联网产业的一匹黑马，耳边的生意火了起来。
- ## [对世界的认知边界决定了我们赚钱的范围！](http://www.chanpin100.com/article/114221)
- > 感觉身边很多人都迫切希望能够获取更多的收入，用于改善生活或者其他消费。包括自己也是同样如此，但是对于赚钱这个事情，我比较认同一句话：人只能赚到认知范围内的钱，你所赚的每一分钱，都是你对这个世界认知的变现；你所亏的每一分钱，都是因为对这个世界认知有缺陷，当一个人的财富大于自己认知的时候，这个社会有 1
- ## [关于比心、猎游APP的产品对比分析报告](http://www.chanpin100.com/article/114219)
- > 对比心和猎游平台的市场概况、用户群体、产品功能和产品体验几个角度分析，进行差异性对比，并总结特点。
- ## [在线教育平台如何使用留量思维助力老带新裂变增长？](http://www.chanpin100.com/article/114214)
- > 在线教育平台利用留量思维，能够更高效地做好老带新裂变增长，助力平台实现用户的快速增长和品牌形象的树立。
- ## [产品经理面试问答之介绍一下你的实习经历（一）](http://www.chanpin100.com/article/114246)
- > 如果你是初入职场的产品经理面试官可能还会问到你的实习经历，让你做一下介绍。同时介绍一下实习过程中遇到的困难，如何解决的等。具体内容就来看下本篇产品经理面试问答的内容吧！
- ## [产品经理面试问答之怎样理解用户体验](http://www.chanpin100.com/article/114245)
- > 在面试产品经理的过程中，面试官有时会让你说一下你是怎样理解用户体验的？那么这个问题该如何回答呢？请看本篇产品经理面试问答的分享内容。
- ## [产品经理面试问答之怎么做自我介绍](http://www.chanpin100.com/article/114243)
- > 请你做下简单的自我介绍，想必每一个面试者都会遇到这个问题吧！这个问题基本是面试对话的开场，那么该怎么做自我介绍呢？请看本篇产品经理面试问答的内容。
 
     
