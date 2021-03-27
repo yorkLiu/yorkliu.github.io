@@ -1,7 +1,7 @@
 ---
 title: 2021-03-27 IT News
 copyright: true
-date: 2021-03-27 09:01:19
+date: 2021-03-27 10:01:24
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,8 +20,10 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [Docker快速入门视频课程（通俗易懂）](http://fellow.51cto.com/art/202008/622835.htm?qd=51ctojrzd)
- > Docker快速入门视频课程（通俗易懂）
+ ## [JavaWEB核心编程视频教程（无讲师答疑）](http://fellow.51cto.com/art/202101/639104.htm?qd=51ctojrzd)
+ > JavaWEB核心编程视频教程（无讲师答疑）
+ ## [微软为 Windows101909 推送 KB5000850 更新，修复资源管理器搜索等问题](http://os.51cto.com/art/202103/653307.htm)
+ > 微软为 Windows101909 推送 KB5000850 更新，本次更新包含了诸多功能修复和改善，会推送给家庭版、企业版本
  ## [到2026年，亚太地区Wi-Fi 6和6E市场规模将达85.59亿美元](http://network.51cto.com/art/202103/653306.htm)
  > Wi-Fi 6在网络速度，容量和响应速度方面比上一代产品更具优势。由于1024-QAM调制方案和上行链路资源
  ## [到2027年，全球AI医疗成像解决方案市场规模将达47.206亿美元](http://ai.51cto.com/art/202103/653305.htm)
@@ -38,14 +40,14 @@ categories: IT NEWS
  > “碰一碰”“扫一扫”，这些被我们逐渐熟悉的移动支付方式，一方面带来了便捷的支付体验，另一方面也令不少
  ## [软件开发10年学会的一些东西](http://news.51cto.com/art/202103/653258.htm)
  > 近期我整理了一下软件开发这十年来需要学的东西，很实用的都是，一起来学习下吧。
- ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
- > 半小时一篇文过完C语言基础知识点
+ ## [还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法](https://blog.csdn.net/wenyusuran/article/details/114093268)
+ > 还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
  > 
- ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
- > 我离职了
+ ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
+ > 半小时一篇文过完C语言基础知识点
  ## [脸打肿都不要忘了呀，Java 重写时应当遵守的 11 条规则！！](https://blog.csdn.net/qing_gee/article/details/115250288)
  > 脸打肿都不要忘了呀，Java 重写时应当遵守的 11 条规则！！
  ## [蓝桥杯Python这一篇就够了-训练系统题库合集（包括VIP试题）&数据结构与算法](https://blog.csdn.net/Harry______/article/details/109683177)
@@ -126,7 +128,5 @@ categories: IT NEWS
  > 有些面试官在面试产品经理的时候，会问面试者手里有哪些offer？会怎样进行选择。这个问题该如何回答面试官呢？请看本篇产品经理面试问答的内容。
  ## [产品经理面试问答之你的职业规划是怎样的](http://www.chanpin100.com/article/114240)
  > 很多面试官在面试的时候会问到面试者的职业规划是怎样的，这个问题其实还是很好回答的，具体怎么回答，请看本篇产品经理面试问答的内容。
- ## [能源绿色管控：天然气站启动数字化转型 工业企业该如何突围？](http://www.chanpin100.com/article/114212)
- > 可视化、数字化、智能化监管是燃气产业的发展趋势，大大提高了管理效率，节约了大量人力和物力。随着信息化的迅速发展，Hightopo可视化技术与智能监管相结合，可以结合有效的预警方案，确保生产的安全高效进行。
 
     
