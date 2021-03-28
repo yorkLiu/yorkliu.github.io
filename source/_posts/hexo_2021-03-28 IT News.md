@@ -1,7 +1,7 @@
 ---
 title: 2021-03-28 IT News
 copyright: true
-date: 2021-03-28 12:01:34
+date: 2021-03-28 17:02:39
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,8 +20,14 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [Oracle数据库锁管理及锁分析_Oracle视频教程_基础深入与核心技术06](http://fellow.51cto.com/art/202012/637137.htm?qd=51ctojrzd)
- > Oracle数据库锁管理及锁分析_Oracle视频教程_基础深入与核心技术06
+ ## [Vue 快速开发入门课程](http://fellow.51cto.com/art/202008/622831.htm?qd=51ctojrzd)
+ > Vue 快速开发入门课程
+ ## [图解：5G毫米波峰值速率计算](http://network.51cto.com/art/202103/653766.htm)
+ > 5G能提供非常高的上网速率，因此被经常用高速公路来类比。本期，蜉蝣君不妨把这个类比精细化，看看哪些因素
+ ## [如何在 C9 中使用程序 (Top-Level)](http://developer.51cto.com/art/202103/653717.htm)
+ > 顶级程序的底层逻辑到底是怎么样的，它本质上是一种语法糖，一种编译器的特性，也就是说你没有写模板代码的
+ ## [想和你聊聊操作系统的内存管理](http://stor.51cto.com/art/202103/653709.htm)
+ > 在虚拟地址空间中，相邻的段所对应的物理内存空间可以不相邻，操作系统能够实现物理内存资源的离散分配，但
  ## [Windows10重磅功能获得改进！系统沙盒将迎来性能升级](http://os.51cto.com/art/202103/653691.htm)
  > 微软在2019年五月更新的Win10系统中加入了沙盒功能，用户在遇到可疑程序与文件的时候，可以放在系统沙盒里
  ## [三大运营商日赚4亿？！移动+电信+联通+铁塔 < 腾讯](http://network.51cto.com/art/202103/653690.htm)
@@ -36,34 +42,28 @@ categories: IT NEWS
  > 接口幂等性是指用户对于同一操作发起的一次请求或者多次请求的结果是一致的，不会因为多次点击而产生了副作
  ## [解构VR：虚拟现实技术如何在情感与道德上影响社会？](http://mobile.51cto.com/-653648.htm)
  > 作为一项技术，虚拟现实只是加剧了一系列关于艺术的争论：它到底是像传染病一样肆虐，对社会有害呢？还是在
- ## [什么是工业物联网？](http://iot.51cto.com/art/202103/653638.htm)
- > 工业物联网定义：是指在工业应用中使用连接的机器、设备和传感器。
- ## [一篇带给你多线程死锁详解](http://developer.51cto.com/art/202103/653635.htm)
- > 在线程A持有锁L并想获得锁M的同时，线程B持有锁M并尝试获得锁L，那么这两个线程将永远地等待下去，这种情况
- ## [Python 文本数据预处理实践](http://developer.51cto.com/art/202103/653636.htm)
- > 在进行数据分析与可视化之前，得先处理好数据，而很多时候需要处理的都是文本数据，本文总结了一些文本预
  ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
- ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
- > Spring Boot 高效入门实战
+ ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
+ > 
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》](https://blog.csdn.net/qq_41185868/article/details/115254121)
  > AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&amp;董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》
- ## [原理+论文+实战：60篇由浅入深的时间序列预测/分类教程汇总](https://blog.csdn.net/weixin_39653948/article/details/105571760)
- > 
- ## [基于springboot的文件上传](https://blog.csdn.net/qq_43137699/article/details/109479055)
- > 基于springboot的文件上传
- ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
- > 人工智能教程 - 前言
- ## [基于SSM的校园二手交易平台的设计与实现](https://blog.csdn.net/wsk1103/article/details/80214238)
- > 基于SSM的校园二手交易平台的设计与实现
- ## [分类变量、有序变量与数值变量相关性分析方法总结及 R 语言应用](https://blog.csdn.net/weixin_39982225/article/details/104875676)
- > 分类变量、有序变量与数值变量相关性分析方法总结及 R 语言应用
- ## [PyQt5 图形界面-用Qt Designer来设计UI界面，并转化为python代码运行实例演示](https://blog.csdn.net/qq_38161040/article/details/85245112)
- > PyQt5 图形界面-用Qt Designer来设计UI界面，并转化为python代码运行实例演示
+ ## [陈同学整理的10个可以写到简历上C++项目](https://blog.csdn.net/vjhghjghj/article/details/108633790)
+ > 陈同学整理的10个可以写到简历上C++项目
+ ## [Python 快速入门](https://blog.csdn.net/karsa__/article/details/107965386)
+ > Python 快速入门
+ ## [vuex刷新后数据丢失怎么解决](https://blog.csdn.net/gitchatxiaomi/article/details/108914088)
+ > vuex刷新后数据丢失怎么解决
+ ## [PHP的一些安全设置](https://blog.csdn.net/liuxingjiaoyuC/article/details/114277711)
+ > PHP的一些安全设置
+ ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
+ > 漫画：为什么C语言永不过时？
+ ## [白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程](https://blog.csdn.net/weixin_46654114/article/details/107326630)
+ > 白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程
  ## [听说你买的基金又“绿了”,手把手教你用 Python选出好基金](https://blog.csdn.net/zhiguigu/article/details/114967447)
  > 听说你买的基金又“绿了”,手把手教你用 Python选出好基金
  ## [程序员，45岁](https://blog.csdn.net/mogoweb/article/details/114909017)
