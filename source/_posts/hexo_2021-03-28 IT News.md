@@ -1,7 +1,7 @@
 ---
 title: 2021-03-28 IT News
 copyright: true
-date: 2021-03-28 10:01:37
+date: 2021-03-28 12:01:34
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,48 +20,50 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [Dreamweaver视频教程【李炎恢老师】](http://fellow.51cto.com/art/202101/641170.htm?qd=51ctojrzd)
- > Dreamweaver视频教程【李炎恢老师】
- ## [Http协议你都了解吗？](http://network.51cto.com/art/202103/653639.htm)
- > 通过 HTTP 或者 HTTPS 协议请求的资源由统一资源标识符(Uniform Resource Identifiers，URI)来标识。由 HTT
+ ## [Oracle数据库锁管理及锁分析_Oracle视频教程_基础深入与核心技术06](http://fellow.51cto.com/art/202012/637137.htm?qd=51ctojrzd)
+ > Oracle数据库锁管理及锁分析_Oracle视频教程_基础深入与核心技术06
+ ## [Windows10重磅功能获得改进！系统沙盒将迎来性能升级](http://os.51cto.com/art/202103/653691.htm)
+ > 微软在2019年五月更新的Win10系统中加入了沙盒功能，用户在遇到可疑程序与文件的时候，可以放在系统沙盒里
+ ## [三大运营商日赚4亿？！移动+电信+联通+铁塔 < 腾讯](http://network.51cto.com/art/202103/653690.htm)
+ > 近日三大运营商先后发布了2020年经营报告。整体行业发展状况有所好转，至少无论营收还是利润都是正向增长，
+ ## [微软希望将任务栏从explorer.exe分离出来](http://os.51cto.com/art/202103/653665.htm)
+ > 在 Windows 10 系统中，用户需要通过任务管理器来从重启电脑或者 Windows Explorer 进程。为了彻底解决这些
+ ## [网络钓鱼骗局利用伪造的 Google reCAPTCHA 系统窃取Office 365凭据](http://netsecurity.51cto.com/art/202103/653658.htm)
+ > Microsoft用户受到了成千上万的网络钓鱼电子邮件的攻击，这是一次持续不选的攻击，目的是窃取用户的Office
+ ## [干货：SQL Server数据库基于PowerDesigner逆向工程生成PDM文件](http://database.51cto.com/art/202103/653656.htm)
+ > 今天给大家介绍如何使用PowerDesigner的逆向工程生成SQLServer数据库的设计文档。希望对大家能有所帮助!
+ ## [聊聊高并发下如何保证接口的幂等性？](http://developer.51cto.com/art/202103/653641.htm)
+ > 接口幂等性是指用户对于同一操作发起的一次请求或者多次请求的结果是一致的，不会因为多次点击而产生了副作
+ ## [解构VR：虚拟现实技术如何在情感与道德上影响社会？](http://mobile.51cto.com/-653648.htm)
+ > 作为一项技术，虚拟现实只是加剧了一系列关于艺术的争论：它到底是像传染病一样肆虐，对社会有害呢？还是在
+ ## [什么是工业物联网？](http://iot.51cto.com/art/202103/653638.htm)
+ > 工业物联网定义：是指在工业应用中使用连接的机器、设备和传感器。
+ ## [一篇带给你多线程死锁详解](http://developer.51cto.com/art/202103/653635.htm)
+ > 在线程A持有锁L并想获得锁M的同时，线程B持有锁M并尝试获得锁L，那么这两个线程将永远地等待下去，这种情况
  ## [Python 文本数据预处理实践](http://developer.51cto.com/art/202103/653636.htm)
  > 在进行数据分析与可视化之前，得先处理好数据，而很多时候需要处理的都是文本数据，本文总结了一些文本预
- ## [聊聊Java中的转发与重定向](http://developer.51cto.com/art/202103/653634.htm)
- > 转发和重定向都是实现页面跳转,也就是说，当我们访问一个 Servlet 的时候 ，Servlet 帮我们跳转到另一个界
- ## [尘封27年后：Windows 95隐藏彩蛋终被曝光](http://os.51cto.com/art/202103/653633.htm)
- > Windows爱好者和逆向工程师Albacore一直在研究Windows 95的代码，并在IE4 Internet Mail发现了至今尚未曝光
- ## [微软 Windows10 21H2 「太阳谷」更新将从上下文菜单中删除 “用 Paint 3D 编辑”](http://os.51cto.com/art/202103/653632.htm)
- > 微软确认，3D Viewer 和 Paint 3D 将不再在 Windows 10 的纯净安装中预装。文件资源管理器中的 3D 对象文件
- ## [在 Linux 上将你的 Windows 系统转换为虚拟机](http://os.51cto.com/art/202103/653631.htm)
- > 下面是我如何配置 VirtualBox 虚拟机以在我的 Linux 工作站上使用物理的 Windows 操作系统。
- ## [Java Web项目如何windows桌面运行？](http://developer.51cto.com/art/202103/653630.htm)
- > 数据接口开发 能够页面展示的小项目，能够在本地运行就行，不需要放到网上，摸索了一阵之后，想到 idea将we
- ## [微软为在WindowsUI 3中剔除了Pivot控件而向开发者致歉](http://os.51cto.com/art/202103/653629.htm)
- > 微软在WindowsUI 3中剔除了Pivot控件，在 GitHub 上引发了长达数周的争议。微软方面给出的解释是，由于使用
- ## [Windows10重磅功能改进！系统沙盒将迎来性能升级](http://os.51cto.com/art/202103/653628.htm)
- > 在Windows10今年下半年到来的21H2更新中，微软将会为Windows10沙盒配置一个新的运行环境，带来更好的性能，
- ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
- > 半小时一篇文过完C语言基础知识点
+ ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
+ > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
  > Spring Boot 高效入门实战
- ## [奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺](https://blog.csdn.net/qing_gee/article/details/114824416)
- > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
+ ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
+ > 半小时一篇文过完C语言基础知识点
  ## [AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》](https://blog.csdn.net/qq_41185868/article/details/115254121)
  > AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&amp;董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》
- ## [陈同学整理的10个可以写到简历上C++项目](https://blog.csdn.net/vjhghjghj/article/details/108633790)
- > 陈同学整理的10个可以写到简历上C++项目
- ## [Python 快速入门](https://blog.csdn.net/karsa__/article/details/107965386)
- > Python 快速入门
- ## [vuex刷新后数据丢失怎么解决](https://blog.csdn.net/gitchatxiaomi/article/details/108914088)
- > vuex刷新后数据丢失怎么解决
- ## [PHP的一些安全设置](https://blog.csdn.net/liuxingjiaoyuC/article/details/114277711)
- > PHP的一些安全设置
- ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
- > 漫画：为什么C语言永不过时？
- ## [白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程](https://blog.csdn.net/weixin_46654114/article/details/107326630)
- > 白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程
+ ## [原理+论文+实战：60篇由浅入深的时间序列预测/分类教程汇总](https://blog.csdn.net/weixin_39653948/article/details/105571760)
+ > 
+ ## [基于springboot的文件上传](https://blog.csdn.net/qq_43137699/article/details/109479055)
+ > 基于springboot的文件上传
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
+ ## [基于SSM的校园二手交易平台的设计与实现](https://blog.csdn.net/wsk1103/article/details/80214238)
+ > 基于SSM的校园二手交易平台的设计与实现
+ ## [分类变量、有序变量与数值变量相关性分析方法总结及 R 语言应用](https://blog.csdn.net/weixin_39982225/article/details/104875676)
+ > 分类变量、有序变量与数值变量相关性分析方法总结及 R 语言应用
+ ## [PyQt5 图形界面-用Qt Designer来设计UI界面，并转化为python代码运行实例演示](https://blog.csdn.net/qq_38161040/article/details/85245112)
+ > PyQt5 图形界面-用Qt Designer来设计UI界面，并转化为python代码运行实例演示
  ## [听说你买的基金又“绿了”,手把手教你用 Python选出好基金](https://blog.csdn.net/zhiguigu/article/details/114967447)
  > 听说你买的基金又“绿了”,手把手教你用 Python选出好基金
  ## [程序员，45岁](https://blog.csdn.net/mogoweb/article/details/114909017)
