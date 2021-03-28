@@ -1,7 +1,7 @@
 ---
 title: 2021-03-28 IT News
 copyright: true
-date: 2021-03-28 08:01:13
+date: 2021-03-28 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -20,8 +20,12 @@ categories: IT NEWS
  > 鸿蒙Java开发模式11：鸿蒙图片裁剪功能的实现
  ## [刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画](http://news.51cto.com/art/202103/652825.htm)
  > 刷题太遭罪怎么办？这个算法基地专为小白量身打造，还带动画
- ## [存储备份容灾技术基础培训课程_存储技术_容灾备份_Oracle视频教程_数据库容灾与复制01](http://fellow.51cto.com/art/202012/637242.htm?qd=51ctojrzd)
- > 存储备份容灾技术基础培训课程_存储技术_容灾备份_Oracle视频教程_数据库容灾与复制01
+ ## [Elasticsearch分布式数据库与ELK大数据平台实战培训（上部）](http://fellow.51cto.com/art/202101/642000.htm?qd=51ctojrzd)
+ > Elasticsearch分布式数据库与ELK大数据平台实战培训（上部）
+ ## [微软为在WindowsUI 3中剔除了Pivot控件而向开发者致歉](http://os.51cto.com/art/202103/653629.htm)
+ > 微软在WindowsUI 3中剔除了Pivot控件，在 GitHub 上引发了长达数周的争议。微软方面给出的解释是，由于使用
+ ## [Windows10重磅功能改进！系统沙盒将迎来性能升级](http://os.51cto.com/art/202103/653628.htm)
+ > 在Windows10今年下半年到来的21H2更新中，微软将会为Windows10沙盒配置一个新的运行环境，带来更好的性能，
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -32,18 +36,18 @@ categories: IT NEWS
  > 奉劝那些想把编程学好的学弟学妹们！呕心沥血，袒露心声，掏心掏肺
  ## [AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》](https://blog.csdn.net/qq_41185868/article/details/115254121)
  > AI公开课：03月26日未来十年 AI如何进化—圆桌探讨(乌镇智库理事长、CSDN 创始人&amp;董事长、智源人工智能研究院副院长)之《AI：昨天 · 今天 · 明天》
- ## [陈同学整理的10个可以写到简历上C++项目](https://blog.csdn.net/vjhghjghj/article/details/108633790)
- > 陈同学整理的10个可以写到简历上C++项目
- ## [Python 快速入门](https://blog.csdn.net/karsa__/article/details/107965386)
- > Python 快速入门
- ## [vuex刷新后数据丢失怎么解决](https://blog.csdn.net/gitchatxiaomi/article/details/108914088)
- > vuex刷新后数据丢失怎么解决
- ## [PHP的一些安全设置](https://blog.csdn.net/liuxingjiaoyuC/article/details/114277711)
- > PHP的一些安全设置
- ## [漫画：为什么C语言永不过时？](https://blog.csdn.net/coderising/article/details/108989083)
- > 漫画：为什么C语言永不过时？
- ## [白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程](https://blog.csdn.net/weixin_46654114/article/details/107326630)
- > 白嫖阿里云服务器！创建个人博客只需五步骤——小白都能看会的详细过程
+ ## [原理+论文+实战：60篇由浅入深的时间序列预测/分类教程汇总](https://blog.csdn.net/weixin_39653948/article/details/105571760)
+ > 
+ ## [基于springboot的文件上传](https://blog.csdn.net/qq_43137699/article/details/109479055)
+ > 基于springboot的文件上传
+ ## [人工智能教程 - 前言](https://blog.csdn.net/jiangjunshow/article/details/77338485)
+ > 人工智能教程 - 前言
+ ## [基于SSM的校园二手交易平台的设计与实现](https://blog.csdn.net/wsk1103/article/details/80214238)
+ > 基于SSM的校园二手交易平台的设计与实现
+ ## [分类变量、有序变量与数值变量相关性分析方法总结及 R 语言应用](https://blog.csdn.net/weixin_39982225/article/details/104875676)
+ > 分类变量、有序变量与数值变量相关性分析方法总结及 R 语言应用
+ ## [PyQt5 图形界面-用Qt Designer来设计UI界面，并转化为python代码运行实例演示](https://blog.csdn.net/qq_38161040/article/details/85245112)
+ > PyQt5 图形界面-用Qt Designer来设计UI界面，并转化为python代码运行实例演示
  ## [听说你买的基金又“绿了”,手把手教你用 Python选出好基金](https://blog.csdn.net/zhiguigu/article/details/114967447)
  > 听说你买的基金又“绿了”,手把手教你用 Python选出好基金
  ## [程序员，45岁](https://blog.csdn.net/mogoweb/article/details/114909017)
