@@ -1,68 +1,76 @@
 ---
 title: 2021-03-29 IT News
 copyright: true
-date: 2021-03-29 10:01:00
+date: 2021-03-29 12:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [恒驰汽车量产在即，智能网联发布会透露重要信息](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=PgowvQ1KG0Y-L0Frd2SsFSCXVCj4KB*T*6UKE8XtQhgI*vjgqJSNpIy58SkPtM4NJxXWmnRdqZZUoK*zEcXKRVzmNGVnFPMJcD5LDgKEYOQ*kTj-liWxTz-MHsWVLqWl&new=1)
+ ## [华为拿下支付牌照；共享充电宝又集体涨价；小米11 青春版率先搭载骁龙780G|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=1*d0w8eHl1luL2NEmzc-iCyY9rkX0Pjvrw7K71eGCoooH7OUsTwUXzM24dd18X1XdKimme*vH38LaDHel3Cy3HSEyLT*0OB-QTMUzf-4vSHNSTkTz5wxieKDNDCdJGm4&new=1)
+ > 图 / IC photoHello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【有赞发布2020年业绩：连锁商家门店数量10倍增长，总交易额破千亿】中国有赞发布2020年业绩。业绩显示，2020年全年，有赞服务的商...
+ ## [马斯克：超越苹果，只要几个月；iPhone 13 mini 配置曝光；利润创记录，索尼发7个月工资奖金|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=SGWjfgUjo2PcHzvv2N88p5U1onADtmIAYXQPuBe*10Wq1wHlZ0xDn9EM41TwbxizdkJdfka6WgFs6XuiPBF1QY9jeldiuCilT5Xu7*590STsgH2xTlTfUOuSse2HpbrA&new=1)
+ > 索尼利润创纪录，日本员工将获得 7 个月薪水奖金根据索尼公司今年 2 月发布的财报显示，索尼的游戏业务将迎来有史以来最好的一年。从去年 11 月首发到 12 月 31 日之间，PS5 出货量为 450 万台。其该季度净利润...
+ ## [网络安全的“自动驾驶分级”](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=knCst9nilV2nKQXUzEtY0EckYHksu2dSRKMYeyxhWDxvxI4hwf5nSFyrmJ5cOuU61w4A7oZuPeBhDCmkxNsZePVZolSWaV9YxK1mUpFjj0Jw30db2gvjcf*8S6saGk5c&new=1)
+ > 近年来，业界关于安全运营自动化以及自主安全的预期众说纷纭，莫衷一是。多年来，领先的网络安全厂商和分析机构安全向分析师和运营团队保证，单调乏味的安全运营工作被交给机器的好日子正在到来，但不幸的是，今...
+ ## [打造“智慧校园”提升教育质量](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=V2JyUEH7cMyHeqCvYvUfFieCOQJjtkGoGOauBAIZ1xt0Q1r6c3Ay4minZn5vq7EN2-GR3gYq5YDEL6HJZQn52FQIc8MYT3B5*6BwydCU*K4=&new=1)
+ > 最近，贵阳高新区企业贵州京师城投智慧教育产业股份有限公司正在为4月的全市体育中考做准备。该公司自主研发的贵阳市体育中考与健康大数据管理平台，可通过考试设备智能物联，实现考试过程透明化、成绩发布...
+ ## [恒驰汽车量产在即，智能网联发布会透露重要信息](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=PgowvQ1KG0Y-L0Frd2SsFSCXVCj4KB*T*6UKE8XtQhgI*vjgqJSNpIy58SkPtM4NpFwrJ3yK29suBXjL4vOdAqX1kom5GVIAiURgL6S7fQczYKAYkXvw8i9Cm0ns3wyr&new=1)
  > 3月25日，恒大汽车召开恒驰智能网联发布会，公布了一系列重磅产品及未来恒驰汽车的技术亮点。这些成果包括智能座舱、超算力平台、智能生态圈等尖端科技成果。特别是该公司联手腾讯、百度，历时1年11个月研发的H-...
- ## [\[本周小结\]三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=bv6JhaD-Hz81DE6oLc2fNCODjSiKbHY5x*g9-Ux0XhqfYUw*ICu5yHqfbiARf0d4CSm63p6AWUqgGYFrawCe8tQuohSyiX7r4aDUe5jBQvVLgANYVCGrgmFgOdPMb3So&new=1)
+ ## [\[本周小结\]三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=bv6JhaD-Hz81DE6oLc2fNCODjSiKbHY5x*g9-Ux0XhqfYUw*ICu5yHqfbiARf0d4sBpvOS*XbdgMg5Ovu4P9GaX02qhr32oRbAvFfgN-NnL3YemnkdDujq0nAThBeqQz&new=1)
  > 周报WEEKLY本周热点有三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景• 第132期 •三大运营商2020年财报解读3月26日近日，三大运营商发布了2020年财务报告。作为“十三五”的收官之年，...
- ## [邢志宏在全市跨境电商暨商务工作电视电话会议上强调：增创跨境电商发展新优势](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=IcrL9KuiNh2eAiHZ7GBZWDExS277qay1wHCn9YRb1jhqZTe*046DhAt2ptAxRgru7emj37jkMwWXEPxxWlni*SQBFgAGrzR85L4rhhiYGBF*IOj4POkGFVtqOLW1uapf&new=1)
+ ## [邢志宏在全市跨境电商暨商务工作电视电话会议上强调：增创跨境电商发展新优势](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=IcrL9KuiNh2eAiHZ7GBZWDExS277qay1wHCn9YRb1jhqZTe*046DhAt2ptAxRgru2fUxqadXnhSxL5fmd84t16agCn4BiEfbzzxSPBABjgCeUN-rK*gq-*ytJ6Lh1AeC&new=1)
  > 3月26日，我市召开跨境电商暨商务工作电视电话会议。市委副书记、市长邢志宏强调，要认真贯彻落实党中央国务院和省委省政府决策部署，凝心聚力、抢抓机遇、加压奋进，增创跨境电商发展新优势，为争创社会主...
- ## [中国互联网的第一次，走向全球并被美国两大巨头模仿学习](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=QRqYfNx90jcUPyI6wv217DIkUV0nuk6MPmsOs6qP2ArhN7VMLrMtZaeTQkN6-OcrI6qxIg5RgRayE2H0oTtNMBIhICinSkh4e*22WbKOkZvMTLNqkEdxwcSvpkvdI5R5&new=1)
+ ## [中国互联网的第一次，走向全球并被美国两大巨头模仿学习](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=QRqYfNx90jcUPyI6wv217DIkUV0nuk6MPmsOs6qP2ArhN7VMLrMtZaeTQkN6-OcrKal4drCJnZ7UcteHARQ5NxEJr99vnapx9Iuf1bDDNYlHay9e9XS6blRvjQE-zgRY&new=1)
  > 日前美国互联网巨头Youtube在印度市场上线Shorts功能，并表示“Shorts”的灵感来自TikTok，这是继Facebook之后第二家美国互联网企业模仿学习Tik Tok。中国互联网行业的强大已为世界所认可，这里诞生了阿里巴巴、...
- ## [沉入海底 2 年的微软数据中心浮出水面：故障率只有陆地上的 1/8，除了长点贝类和藻类完全没问题](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=U2U6maNVwOK3P-brdoJrwHl3CLEvN4anjEzju*bn-jIolbSRSY5W4qwcwjDoJvxlcOOyLU9wXAiAwCla7Y85SimmV0VYKEU0yqGKBiL-fL4gO*Tthhctiyp7E-JBXLEm&new=1)
+ ## [沉入海底 2 年的微软数据中心浮出水面：故障率只有陆地上的 1/8，除了长点贝类和藻类完全没问题](http://mp.weixin.qq.com/s?src=11&timestamp=1616988602&ver=2975&signature=U2U6maNVwOK3P-brdoJrwHl3CLEvN4anjEzju*bn-jIolbSRSY5W4qwcwjDoJvxlbML0YiXxdcrEiWfVgxv7trVpV775LAoBLmHH*9a*p20G8EC*RFmYZqu*Ui1J406S&new=1)
  > 来自：直观学机械、蓝点网 综合整理2014年微软首次提出了水下数据中心概念，当时认为这个概念有望为沿海人口提供高速云服务，并节省能源。2015年，微软在太平洋开展为期105天的部署过程中证明了水下数据中心概念...
 # IT 技术 
  ## [如何实现有效的Kubernetes成本优化](http://developer.51cto.com/art/202103/653836.htm)
  > 如何实现有效的Kubernetes成本优化
- ## [入职第一天，就和公司后端闹掰了！](http://news.51cto.com/art/202103/653832.htm)
- > 入职第一天，就和公司后端闹掰了！
  ## [永远不要在代码中使用“User”这个词！](http://developer.51cto.com/art/202103/653826.htm)
  > 永远不要在代码中使用“User”这个词！
+ ## [妙哉！那个用文言文编程的小哥，从28万行唐诗中找出了对称矩阵](http://news.51cto.com/art/202103/653961.htm)
+ > 妙哉！那个用文言文编程的小哥，从28万行唐诗中找出了对称矩阵
  ## [为什么新兴的数据趋势需要一种全新的数据处理理念？](http://bigdata.51cto.com/art/202103/653835.htm)
  > 为什么新兴的数据趋势需要一种全新的数据处理理念？
+ ## [入职第一天，就和公司后端闹掰了！](http://news.51cto.com/art/202103/653832.htm)
+ > 入职第一天，就和公司后端闹掰了！
  ## [我，37岁程序员，大把公司抢着要！](http://news.51cto.com/art/202103/653828.htm)
  > 我，37岁程序员，大把公司抢着要！
  ## [鸿蒙开源第三方组件―Zbar_ohos条形码阅读器](http://os.51cto.com/art/202103/653158.htm)
  > 鸿蒙开源第三方组件―Zbar_ohos条形码阅读器
- ## [程序员修炼之如何提高Debug效率](http://developer.51cto.com/art/202103/653056.htm)
- > 程序员修炼之如何提高Debug效率
- ## [从零开始自学《网络工程师》基础技能篇视频课程](http://fellow.51cto.com/art/202101/639569.htm?qd=51ctojrzd)
- > 从零开始自学《网络工程师》基础技能篇视频课程
- ## [240万座5G基站够用吗？全力建设5G网络，运营商得花多少钱](http://network.51cto.com/art/202103/653957.htm)
- > 按照中国联通和中国电信公布的未来5G网络建设计划，以及推算的中国移动的5G网络建设计划，截至2023年底，我
- ## [SpringBoot这些常用注解你该知道](http://developer.51cto.com/art/202103/653953.htm)
- > 本篇给大家介绍SpringBoot的一些些常用注解，用在 Spring Boot 主类上，标识这是一个 Spring Boot 应用，用
- ## [详解SpringBoot中的异步调用@Async](http://developer.51cto.com/art/202103/653941.htm)
- > 本篇带给大家SpringBoot中的异步调用@Async，在SpringBoot中，只需要给方法加上@Async注解，就能将同步方法
- ## [忙里偷闲又把自己的JWT实现改进了一下](http://developer.51cto.com/art/202103/653937.htm)
- > 在目前最新的Spring Security中默认使用了Nimbus的 JOSE 库nimbus-jose-jwt。这个库目前是 JOSE 最常用的类
- ## [妙哉！那个用文言文编程的小哥，从28万行唐诗中找出了对称矩阵](http://news.51cto.com/art/202103/653961.htm)
- > 创造这个奇妙组合的，不是文学研究大师，而是一位程序员小哥。他用计算机，找出了所有符合规律的古诗，还在
- ## [三大电信运营商2020年日赚3.87亿元](http://network.51cto.com/art/202103/653934.htm)
- > 2020年，三大运营商整体经营业绩保持平稳，合计营收约1.47万亿元，共取得净利润1412亿元，平均日赚约3.87亿
- ## [在 Linux 中限制Python程序所能使用的最大内存](http://developer.51cto.com/art/202103/653923.htm)
- > 如果程序开发不当，可能会出现占用过多内存的情况。特别是在Docker里面，如果Python程序占用太多内存，可能
- ## [学C++，80%都是为了搞竞赛、凑一门语言？网友：莫钓鱼](http://news.51cto.com/art/202103/653954.htm)
- > 一旦一个人掌握C++基础，能用C++开发软件，那么学习99%的其它语言都不会有障碍。
- ## [Chrome 浏览器测试版新增阅读清单功能，教你如何开启](http://os.51cto.com/art/202103/653919.htm)
- > 目前的 Canary 版 Chrome 浏览器带来了阅读清单功能(Reading List)，用户可以下载进行体验。本文就教你如何
- ## [深度学习神经网络的预测间隔](http://ai.51cto.com/art/202103/653913.htm)
- > 通常，用于回归问题的预测模型(即预测数值)进行点预测。这意味着他们可以预测单个值，但不能提供任何有关该
- ## [《看聊天记录都学不会C语言？太菜了吧》（11）2分钟领悟数组](https://blog.csdn.net/A757291228/article/details/115265397)
- > 《看聊天记录都学不会C语言？太菜了吧》（11）2分钟领悟数组
+ ## [MySQL SQL语言基础入门与数据类型_MySQL数据库SQL语言开发与应用实战01](http://fellow.51cto.com/art/202012/635039.htm?qd=51ctojrzd)
+ > MySQL SQL语言基础入门与数据类型_MySQL数据库SQL语言开发与应用实战01
+ ## [让大数据更好为司法赋能（治理之道）](http://bigdata.51cto.com/art/202103/653991.htm)
+ > 大数据发展日新月异，对法治建设产生深远影响。习近平总书记强调：“善于获取数据、分析数据、运用数据，是
+ ## [大数据平台构建智慧城市赋能中心](http://bigdata.51cto.com/art/202103/653989.htm)
+ > 城市大数据平台源于政府早期建设的政务数据共享交换平台，并将政务数据共享交换平台的能力极大的拓展。目前
+ ## [将在2021年颠覆业务发展的十种技术_IT技术周刊第669期](http://news.51cto.com/art/202103/653992.htm)
+ > 技术资讯尽在技术周刊
+ ## [注意：伪造成系统更新的安卓恶意软件可监控用户](http://netsecurity.51cto.com/art/202103/653984.htm)
+ > Zimperium研究人员发现一款伪造成系统更新的安卓恶意软件可监控用户。
+ ## [FIN8团伙更新后门恶意软件后重出江湖](http://netsecurity.51cto.com/art/202103/653983.htm)
+ > 网络金融犯罪团伙在对销售站点的系统发起大范围攻击之前，正在进行小范围的试验性攻击。
+ ## [浅谈如何有效落地DevSecOps](http://netsecurity.51cto.com/art/202103/653980.htm)
+ > 简单来说，DevOps就是要消除两个传统的竖井团队(开发和运营)之间的障碍。在DevOps模型中，开发和运营团队在
+ ## [微软这个开源项目碉堡了！草图秒变HTML代码](http://news.51cto.com/art/202103/653975.htm)
+ > 近日，Microsoft开发了一种人工智能的网页设计工具，能够将网站草图转换为功能性HTML代码。
+ ## [如何使用业务流程管理来协调微服务、人员和机器人](http://ai.51cto.com/art/202103/653976.htm)
+ > 如果一些组织的DevOps团队正在规划流程自动化，那么需要了解业务流程管理(BPM)引擎的灵活性以及如何正确实
+ ## [Linux磁盘挂载和docker安装](http://os.51cto.com/art/202103/653977.htm)
+ > 本篇给大家介绍Linux磁盘挂载和docker安装的相关内容，Linux服务器的操作是一个手熟的过程，一些不常用的命
+ ## [FBS外汇交易平台遭遇重大数据泄漏](http://netsecurity.51cto.com/art/202103/653969.htm)
+ > 近日，WizCase安全团队在扫描FBS服务器时发现了严重的数据泄露事件，数以百万计的机密记录，包括用户姓名、
+ ## [面试居然问到了StampedLock，我却是啥都不知道...](https://blog.csdn.net/qq_35190492/article/details/115290027)
+ > 面试居然问到了StampedLock，我却是啥都不知道...
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
  > Spring Boot 高效入门实战
- ## [疑难杂症：系统雪崩到底是为什么](https://blog.csdn.net/BEYONDMA/article/details/115264503)
- > 疑难杂症：系统雪崩到底是为什么
- ## [【云驻共创】初探数通网络开放可编程](https://blog.csdn.net/qq_43475285/article/details/115278998)
- > 【云驻共创】初探数通网络开放可编程
+ ## [\[Python MoviePy 音视频开发零基础到实战\] 一、用6条代码为你的视频裁剪以及添加水印](https://blog.csdn.net/A757291228/article/details/115270366)
+ > \[Python MoviePy 音视频开发零基础到实战\] 一、用6条代码为你的视频裁剪以及添加水印
+ ## [Python快速构建神经网络](https://blog.csdn.net/ZackSock/article/details/115292795)
+ > Python快速构建神经网络
  ## [vue.cli项目封装全局axios，封装请求，封装公共的api和调用请求的全过程](https://blog.csdn.net/weixin_43216105/article/details/98877960)
  > vue.cli项目封装全局axios，封装请求，封装公共的api和调用请求的全过程
  ## [解析面试常问题之JavaScript中的闭包概念及应用，顺便普及一下大家口中常说的内存泄漏问题](https://blog.csdn.net/l_ppp/article/details/107130054)
@@ -115,6 +123,10 @@ categories: IT NEWS
  ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
  > 我离职了
 # PM 
+ ## [产品运营必备的素质有哪些](http://www.chanpin100.com/article/114261)
+ > 众所周知，互联网行业有三大主流角色：开发、产品和运营。他们相爱相杀，共同完成产品从上线到实现的伟大使命。今天我们来谈谈运营，作为一名产品运营必备的素质有哪些呢？
+ ## [产品经理面试问答之介绍一下你的实习经历（二）](http://www.chanpin100.com/article/114259)
+ > 在上一篇文章中，我们为大家讲解了介绍一下你的实习经历的一些相关内容，本篇产品经理面试问答将接续为大家分享相关的内容，请看下文的详细内容。
  ## [家电大佬“围观”友商产品 套系家电发展来到分水岭](http://www.chanpin100.com/article/114236)
  > 3月23日，备受瞩目的家电盛会2021AWE于上海虹桥国家会展中心正式拉开帷幕。展会上众品牌云集，在为我们展示家电行业丰硕成果的同时，更有各家品牌的领导者现场感受行业新趋势。
 
