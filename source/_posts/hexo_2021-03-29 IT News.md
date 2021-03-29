@@ -1,58 +1,58 @@
 ---
 title: 2021-03-29 IT News
 copyright: true
-date: 2021-03-29 09:02:28
+date: 2021-03-29 10:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [沉入海底 2 年的微软数据中心浮出水面：故障率只有陆地上的 1/8，除了长点贝类和藻类完全没问题](http://mp.weixin.qq.com/s?src=11&timestamp=1616979602&ver=2975&signature=U2U6maNVwOK3P-brdoJrwHl3CLEvN4anjEzju*bn-jJpie-hU11Y5v1Ee8xAXmWSH9o84mnJ97Lg7TOtK*Fla0yvxel4wOO9vdXKBMZE76iDDI5qLM*lTplFl7kPYiOQ&new=1)
- > 来自：直观学机械、蓝点网 综合整理2014年微软首次提出了水下数据中心概念，当时认为这个概念有望为沿海人口提供高速云服务，并节省能源。2015年，微软在太平洋开展为期105天的部署过程中证明了水下数据中心概念...
- ## [邢志宏在全市跨境电商暨商务工作电视电话会议上强调：增创跨境电商发展新优势](http://mp.weixin.qq.com/s?src=11&timestamp=1616979602&ver=2975&signature=IcrL9KuiNh2eAiHZ7GBZWDExS277qay1wHCn9YRb1jik9BAKJEW*3J0Q58D4s29g-eYEI8kqLSZ6JD*93U5qgm12Xwwpn991tor46PY2Is9bibf6hUt6*2vPtpIaXGoF&new=1)
- > 3月26日，我市召开跨境电商暨商务工作电视电话会议。市委副书记、市长邢志宏强调，要认真贯彻落实党中央国务院和省委省政府决策部署，凝心聚力、抢抓机遇、加压奋进，增创跨境电商发展新优势，为争创社会主...
- ## [中国互联网的第一次，走向全球并被美国两大巨头模仿学习](http://mp.weixin.qq.com/s?src=11&timestamp=1616979602&ver=2975&signature=QRqYfNx90jcUPyI6wv217DIkUV0nuk6MPmsOs6qP2ArhMXKKskyU937U9itac2E-eMyJuhjSuHj64jGGfiOhC97YfGClIHkjBvPRu0Y2LfV-3G99HTu62r0x3oc3N*dz&new=1)
- > 日前美国互联网巨头Youtube在印度市场上线Shorts功能，并表示“Shorts”的灵感来自TikTok，这是继Facebook之后第二家美国互联网企业模仿学习Tik Tok。中国互联网行业的强大已为世界所认可，这里诞生了阿里巴巴、...
- ## [\[本周小结\]三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景](http://mp.weixin.qq.com/s?src=11&timestamp=1616979602&ver=2975&signature=bv6JhaD-Hz81DE6oLc2fNCODjSiKbHY5x*g9-Ux0XhoeHdZIRlsF2UKd6Mf5b1bOq42piuUO21ZF5ImvcFhg6eKEfQOtR14ULBmZKECgdDU62yoJ1ZmwwUEnm8wsW0*C&new=1)
- > 周报WEEKLY本周热点有三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景• 第132期 •三大运营商2020年财报解读3月26日近日，三大运营商发布了2020年财务报告。作为“十三五”的收官之年，...
- ## [恒驰汽车量产在即，智能网联发布会透露重要信息](http://mp.weixin.qq.com/s?src=11&timestamp=1616979602&ver=2975&signature=PgowvQ1KG0Y-L0Frd2SsFSCXVCj4KB*T*6UKE8XtQhjoQ4r65cndl7GYsFOpaM4liM8jGlJnjkld5bAN832G-2tTCNpUiHFAhhVlZDKf920g9I1TNSe7XOh2N*a1LAYc&new=1)
+ ## [恒驰汽车量产在即，智能网联发布会透露重要信息](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=PgowvQ1KG0Y-L0Frd2SsFSCXVCj4KB*T*6UKE8XtQhgI*vjgqJSNpIy58SkPtM4NJxXWmnRdqZZUoK*zEcXKRVzmNGVnFPMJcD5LDgKEYOQ*kTj-liWxTz-MHsWVLqWl&new=1)
  > 3月25日，恒大汽车召开恒驰智能网联发布会，公布了一系列重磅产品及未来恒驰汽车的技术亮点。这些成果包括智能座舱、超算力平台、智能生态圈等尖端科技成果。特别是该公司联手腾讯、百度，历时1年11个月研发的H-...
+ ## [\[本周小结\]三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=bv6JhaD-Hz81DE6oLc2fNCODjSiKbHY5x*g9-Ux0XhqfYUw*ICu5yHqfbiARf0d4CSm63p6AWUqgGYFrawCe8tQuohSyiX7r4aDUe5jBQvVLgANYVCGrgmFgOdPMb3So&new=1)
+ > 周报WEEKLY本周热点有三大运营商2020年财报解读；运营商2月成绩单；中国联通提出现阶段6G愿景• 第132期 •三大运营商2020年财报解读3月26日近日，三大运营商发布了2020年财务报告。作为“十三五”的收官之年，...
+ ## [邢志宏在全市跨境电商暨商务工作电视电话会议上强调：增创跨境电商发展新优势](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=IcrL9KuiNh2eAiHZ7GBZWDExS277qay1wHCn9YRb1jhqZTe*046DhAt2ptAxRgru7emj37jkMwWXEPxxWlni*SQBFgAGrzR85L4rhhiYGBF*IOj4POkGFVtqOLW1uapf&new=1)
+ > 3月26日，我市召开跨境电商暨商务工作电视电话会议。市委副书记、市长邢志宏强调，要认真贯彻落实党中央国务院和省委省政府决策部署，凝心聚力、抢抓机遇、加压奋进，增创跨境电商发展新优势，为争创社会主...
+ ## [中国互联网的第一次，走向全球并被美国两大巨头模仿学习](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=QRqYfNx90jcUPyI6wv217DIkUV0nuk6MPmsOs6qP2ArhN7VMLrMtZaeTQkN6-OcrI6qxIg5RgRayE2H0oTtNMBIhICinSkh4e*22WbKOkZvMTLNqkEdxwcSvpkvdI5R5&new=1)
+ > 日前美国互联网巨头Youtube在印度市场上线Shorts功能，并表示“Shorts”的灵感来自TikTok，这是继Facebook之后第二家美国互联网企业模仿学习Tik Tok。中国互联网行业的强大已为世界所认可，这里诞生了阿里巴巴、...
+ ## [沉入海底 2 年的微软数据中心浮出水面：故障率只有陆地上的 1/8，除了长点贝类和藻类完全没问题](http://mp.weixin.qq.com/s?src=11&timestamp=1616983202&ver=2975&signature=U2U6maNVwOK3P-brdoJrwHl3CLEvN4anjEzju*bn-jIolbSRSY5W4qwcwjDoJvxlcOOyLU9wXAiAwCla7Y85SimmV0VYKEU0yqGKBiL-fL4gO*Tthhctiyp7E-JBXLEm&new=1)
+ > 来自：直观学机械、蓝点网 综合整理2014年微软首次提出了水下数据中心概念，当时认为这个概念有望为沿海人口提供高速云服务，并节省能源。2015年，微软在太平洋开展为期105天的部署过程中证明了水下数据中心概念...
 # IT 技术 
+ ## [如何实现有效的Kubernetes成本优化](http://developer.51cto.com/art/202103/653836.htm)
+ > 如何实现有效的Kubernetes成本优化
  ## [入职第一天，就和公司后端闹掰了！](http://news.51cto.com/art/202103/653832.htm)
  > 入职第一天，就和公司后端闹掰了！
  ## [永远不要在代码中使用“User”这个词！](http://developer.51cto.com/art/202103/653826.htm)
  > 永远不要在代码中使用“User”这个词！
- ## [如何实现有效的Kubernetes成本优化](http://developer.51cto.com/art/202103/653836.htm)
- > 如何实现有效的Kubernetes成本优化
  ## [为什么新兴的数据趋势需要一种全新的数据处理理念？](http://bigdata.51cto.com/art/202103/653835.htm)
  > 为什么新兴的数据趋势需要一种全新的数据处理理念？
  ## [我，37岁程序员，大把公司抢着要！](http://news.51cto.com/art/202103/653828.htm)
  > 我，37岁程序员，大把公司抢着要！
+ ## [鸿蒙开源第三方组件―Zbar_ohos条形码阅读器](http://os.51cto.com/art/202103/653158.htm)
+ > 鸿蒙开源第三方组件―Zbar_ohos条形码阅读器
  ## [程序员修炼之如何提高Debug效率](http://developer.51cto.com/art/202103/653056.htm)
  > 程序员修炼之如何提高Debug效率
- ## [Angular、React与Vue，那个框架更好？](http://developer.51cto.com/art/202103/652791.htm)
- > Angular、React与Vue，那个框架更好？
- ## [虚拟化技术-vSphere实验环境建设与学习引导视频课程](http://fellow.51cto.com/art/202101/638401.htm?qd=51ctojrzd)
- > 虚拟化技术-vSphere实验环境建设与学习引导视频课程
- ## [面试官：你是如何评估一个线程池需要设置多少个线程](http://developer.51cto.com/art/202103/653903.htm)
- > ava并发编程是大厂第一轮面试中的高频面试题，而线程池又是其中的典型代表，本文将梳理关于线程池的工作机
- ## [物联网智能野生动物追踪和监测系统的6大好处](http://iot.51cto.com/art/202103/653900.htm)
- > 野生动物保护面临着越来越多的挑战，这使得物联网智能野生动物跟踪和监测系统的出现成为自然资源保护者、研
- ## [2021 年 Web 核心性能指标是什么？谷歌工程师告诉你，FMP 过时啦！](http://netsecurity.51cto.com/art/202103/653894.htm)
- > 性能指标对于网站来说是一个长期需要努力优化提升的目标，谷歌为此推出了一系列工具，本文我想给大家介绍 w
- ## [宏回应遭网络攻击：已采取措施且不打算支付赎金](http://netsecurity.51cto.com/art/202103/653892.htm)
- > 5000万美元的赎金，折合人民币3.25亿元，这应是迄今为止勒索攻击团伙开出的最高赎金额了。
- ## [Mega密码重置阻止Black Kingdom勒索软件](http://netsecurity.51cto.com/art/202103/653891.htm)
- > 在最近针对Microsoft Exchange服务器的ProxyLogon攻击中，研究人员发现Black Kingdom勒索软件，该勒索软件
- ## [网上交易经纪商数据泄露，数十亿FBS记录被曝光](http://netsecurity.51cto.com/art/202103/653888.htm)
- > FBS 外汇交易平台上数百万人的机密信息，包括姓名、密码、电子邮件地址、护照号码、居民ID、信用卡、金融交
- ## [帮你精通Emacs：配置日程，日记与日历的详细步骤](http://os.51cto.com/art/202103/653887.htm)
- > 本篇给大家详细介绍关于Emacs配置日程，日记与日历，希望对你有所帮助！
- ## [Node.js v15.x 新特性 ― 控制器对象 AbortController](http://developer.51cto.com/art/202103/653885.htm)
- > Node.js v15.0.0 提供了一个全局实用 API AbortController，用于在选定的基于 Promise API 中发出取消信号
- ## [Jenkins Pipeline动态使用Git分支名称的技巧，可以触类旁通的那种](http://os.51cto.com/art/202103/653884.htm)
- > 一般成熟的项目流程都会通过 Jenkins Pipeline 来做 CI 部分，在默认 Jenkins 环境配置中，Jenkins Pipelin
- ## [面试如何过五关斩六将？](http://developer.51cto.com/art/202103/653883.htm)
- > 今天，师兄就给大家讲讲，面试中一般会有哪些问题，这些问题的考点在哪里，我们该如何回答才是加分项。教你
+ ## [从零开始自学《网络工程师》基础技能篇视频课程](http://fellow.51cto.com/art/202101/639569.htm?qd=51ctojrzd)
+ > 从零开始自学《网络工程师》基础技能篇视频课程
+ ## [240万座5G基站够用吗？全力建设5G网络，运营商得花多少钱](http://network.51cto.com/art/202103/653957.htm)
+ > 按照中国联通和中国电信公布的未来5G网络建设计划，以及推算的中国移动的5G网络建设计划，截至2023年底，我
+ ## [SpringBoot这些常用注解你该知道](http://developer.51cto.com/art/202103/653953.htm)
+ > 本篇给大家介绍SpringBoot的一些些常用注解，用在 Spring Boot 主类上，标识这是一个 Spring Boot 应用，用
+ ## [详解SpringBoot中的异步调用@Async](http://developer.51cto.com/art/202103/653941.htm)
+ > 本篇带给大家SpringBoot中的异步调用@Async，在SpringBoot中，只需要给方法加上@Async注解，就能将同步方法
+ ## [忙里偷闲又把自己的JWT实现改进了一下](http://developer.51cto.com/art/202103/653937.htm)
+ > 在目前最新的Spring Security中默认使用了Nimbus的 JOSE 库nimbus-jose-jwt。这个库目前是 JOSE 最常用的类
+ ## [妙哉！那个用文言文编程的小哥，从28万行唐诗中找出了对称矩阵](http://news.51cto.com/art/202103/653961.htm)
+ > 创造这个奇妙组合的，不是文学研究大师，而是一位程序员小哥。他用计算机，找出了所有符合规律的古诗，还在
+ ## [三大电信运营商2020年日赚3.87亿元](http://network.51cto.com/art/202103/653934.htm)
+ > 2020年，三大运营商整体经营业绩保持平稳，合计营收约1.47万亿元，共取得净利润1412亿元，平均日赚约3.87亿
+ ## [在 Linux 中限制Python程序所能使用的最大内存](http://developer.51cto.com/art/202103/653923.htm)
+ > 如果程序开发不当，可能会出现占用过多内存的情况。特别是在Docker里面，如果Python程序占用太多内存，可能
+ ## [学C++，80%都是为了搞竞赛、凑一门语言？网友：莫钓鱼](http://news.51cto.com/art/202103/653954.htm)
+ > 一旦一个人掌握C++基础，能用C++开发软件，那么学习99%的其它语言都不会有障碍。
+ ## [Chrome 浏览器测试版新增阅读清单功能，教你如何开启](http://os.51cto.com/art/202103/653919.htm)
+ > 目前的 Canary 版 Chrome 浏览器带来了阅读清单功能(Reading List)，用户可以下载进行体验。本文就教你如何
+ ## [深度学习神经网络的预测间隔](http://ai.51cto.com/art/202103/653913.htm)
+ > 通常，用于回归问题的预测模型(即预测数值)进行点预测。这意味着他们可以预测单个值，但不能提供任何有关该
  ## [《看聊天记录都学不会C语言？太菜了吧》（11）2分钟领悟数组](https://blog.csdn.net/A757291228/article/details/115265397)
  > 《看聊天记录都学不会C语言？太菜了吧》（11）2分钟领悟数组
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -114,5 +114,8 @@ categories: IT NEWS
  > 编程为什么有趣？浅谈编程的快乐。
  ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
  > 我离职了
+# PM 
+ ## [家电大佬“围观”友商产品 套系家电发展来到分水岭](http://www.chanpin100.com/article/114236)
+ > 3月23日，备受瞩目的家电盛会2021AWE于上海虹桥国家会展中心正式拉开帷幕。展会上众品牌云集，在为我们展示家电行业丰硕成果的同时，更有各家品牌的领导者现场感受行业新趋势。
 
     
