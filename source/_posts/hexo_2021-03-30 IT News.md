@@ -1,22 +1,24 @@
 ---
 title: 2021-03-30 IT News
 copyright: true
-date: 2021-03-30 08:00:57
+date: 2021-03-30 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [未知大陆第一届3D打印用户大会将于2021年9月10日举办](http://mp.weixin.qq.com/s?src=11&timestamp=1617060602&ver=2977&signature=OgZ1AP1HUFIQyDYsrmil5CZnEbicB1sVxPXTk4MvBuyE4ewhUDRiP*gRAzBpi9oHbla0MKqN*RVLC2b-hd1t7dC3RtQo1DPCFudXiBu3VL1QL7-lEBEmFAP8Ba*e*otV&new=1)
- > 2021年1月18日，全球领先的数字制造云平台未知大陆对外发布公告，将于2021年9月10日在深圳国际会展中心举办首届3D打印用户大会。3D打印作为最核心的数字制造技术，正在潜移默化地改变着传统制造业的设计、小批量...
- ## [企业需要关注的零信任 24 问](http://mp.weixin.qq.com/s?src=11&timestamp=1617060602&ver=2977&signature=j*SXlu9RZBPF4ilA1coz4EWLwl1GFGQ65q*S9UKCUOb91f39j4KhVDDD8tZXyICGaBHx*nAgHsTlf5yBthu7cmo1uHitdLYBgqw3SvqW-x6fHLzB-uIjvp3VjeunDAW6&new=1)
- > 在产业数字化升级与业务上云的趋势下，传统企业保护边界逐渐被瓦解，企业被攻击面大幅增加，零信任这一网络安全的理念受到更多的关注，国内外围绕零信任展开大量的研究和实践。那么零信任到底是什么？它有什么优...
- ## [华为联合德勤中国发布海关管理数字化转型白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1617060602&ver=2977&signature=nwTIdBOZdmMJ0cb6gkDUdSchqW6pe4prpreD6WcJ1bZH9GrqFG-qZcxtk*SFmSc1mJ*AuUt9*M6IQC-GOlMgzf4XScIonYMg4CNQ3BLPuIeHlGJI7jElCW3W-Urxc5Gi&new=1)
- > 2021年华为行业数字化转型大会期间，华为联合德勤中国发布了《从质的提升到智的飞跃——海关管理的数字化转型》白皮书。白皮书主要提出：在后疫情时代与数字化浪潮下，各国海关积极投身数字化转型以增强全球供应...
- ## [亚信科技这个增长势头，有点猛啊!](http://mp.weixin.qq.com/s?src=11&timestamp=1617060602&ver=2977&signature=TSooabNCE2iB4kveDmefB4hkR2kxKJI7VhA-vOi9IMgRuC1tW*OXAUbOCVql272A43hNY9sSj9SAOUnIx3AxlMogDvQeK8VxfbmVJ4ZenY3mEKQFbkOKVMR0J7HT6Xvs&new=1)
+ ## [亚信科技这个增长势头，有点猛啊!](http://mp.weixin.qq.com/s?src=11&timestamp=1617066002&ver=2977&signature=TSooabNCE2iB4kveDmefB4hkR2kxKJI7VhA-vOi9IMgRuC1tW*OXAUbOCVql272AShYemCU5rpfKp5BbAXTZFWKJdoQwkpxhl2QlPtN0Np91ez-Ja2D8i38oKWKWs8F3&new=1)
  > 【摘要】在大家正猛挖新基建蛋糕，苦寻5G成熟商业模式的当下，亚信的增长逻辑更是极具参考意义。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体3月23日，亚信科技（01675.HK）发布了最新年报。首先，看财务数据，...
- ## [快讯：中国电信集团政企板块新增BG(行业事业部)](http://mp.weixin.qq.com/s?src=11&timestamp=1617060602&ver=2977&signature=yKAx5gYU5twnWumYu94B*eYIeMa8j0E2hf0vjAsne0UdH83yJXrLoDNOpE1d84E9QYAmcmodF4zEp4OMe8n08GxL5SUMI47pe3wTgqFvC*12jMjeoGDu4QAtKDAZ3VO2&new=1)
+ ## [快讯：中国电信集团政企板块新增BG(行业事业部)](http://mp.weixin.qq.com/s?src=11&timestamp=1617066002&ver=2977&signature=yKAx5gYU5twnWumYu94B*eYIeMa8j0E2hf0vjAsne0UdH83yJXrLoDNOpE1d84E95*ZehLLf6Qo*r232iDY0fs1qBd1tlOE*Cuzv2-mmPB5bRk-HUYkkzny5nbYmbvSX&new=1)
  > 运营商情报了解到，为增强垂直行业业务覆盖，近期中国电信集团新增金融行业事业部、互联网行业事业部一部、互联网行业事业部二部，近期已开始进行框架竞聘。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 ...
+ ## [企业需要关注的零信任 24 问](http://mp.weixin.qq.com/s?src=11&timestamp=1617066002&ver=2977&signature=j*SXlu9RZBPF4ilA1coz4EWLwl1GFGQ65q*S9UKCUOb91f39j4KhVDDD8tZXyICGu8TJNCZe9mhbIXwiIKBujNcfk-4yBlw48nTrCwtZs-UU1WdmSRNh0oEAKsASNYpX&new=1)
+ > 在产业数字化升级与业务上云的趋势下，传统企业保护边界逐渐被瓦解，企业被攻击面大幅增加，零信任这一网络安全的理念受到更多的关注，国内外围绕零信任展开大量的研究和实践。那么零信任到底是什么？它有什么优...
+ ## [未知大陆第一届3D打印用户大会将于2021年9月10日举办](http://mp.weixin.qq.com/s?src=11&timestamp=1617066002&ver=2977&signature=OgZ1AP1HUFIQyDYsrmil5CZnEbicB1sVxPXTk4MvBuyE4ewhUDRiP*gRAzBpi9oHKoonTJwi-XUNWueoaViSAOO5pThqxfj2Wp84UngopmGz2KyEo731FUsDMVAydYfF&new=1)
+ > 2021年1月18日，全球领先的数字制造云平台未知大陆对外发布公告，将于2021年9月10日在深圳国际会展中心举办首届3D打印用户大会。3D打印作为最核心的数字制造技术，正在潜移默化地改变着传统制造业的设计、小批量...
+ ## [华为联合德勤中国发布海关管理数字化转型白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1617066002&ver=2977&signature=nwTIdBOZdmMJ0cb6gkDUdSchqW6pe4prpreD6WcJ1bZH9GrqFG-qZcxtk*SFmSc1ylPxJAp5A8QN-WEe7QR*YkzA*7Xx7dJQeFlNPPtKqRvVNyXe-OfySmhZkXZ5q26N&new=1)
+ > 2021年华为行业数字化转型大会期间，华为联合德勤中国发布了《从质的提升到智的飞跃——海关管理的数字化转型》白皮书。白皮书主要提出：在后疫情时代与数字化浪潮下，各国海关积极投身数字化转型以增强全球供应...
 # IT 技术 
+ ## [如何使用semanage和避免禁用SELinux？](http://developer.51cto.com/art/202103/654136.htm)
+ > 如何使用semanage和避免禁用SELinux？
  ## [如何实现有效的Kubernetes成本优化](http://developer.51cto.com/art/202103/653836.htm)
  > 如何实现有效的Kubernetes成本优化
  ## [NameNode是用了什么神秘技术来支撑元数据百万并发读写的](http://bigdata.51cto.com/art/202103/653825.htm)
@@ -29,22 +31,26 @@ categories: IT NEWS
  > 永远不要在代码中使用“User”这个词！
  ## [利用 Npm 的缺陷，他获得了 130,000 美元的赏金](http://news.51cto.com/art/202103/653877.htm)
  > 利用 Npm 的缺陷，他获得了 130,000 美元的赏金
- ## [鸿蒙开源第三方组件―Zbar_ohos条形码阅读器](http://os.51cto.com/art/202103/653158.htm)
- > 鸿蒙开源第三方组件―Zbar_ohos条形码阅读器
- ## [Power Query操作入门及应用视频课程](http://fellow.51cto.com/art/202007/622208.htm?qd=51ctojrzd)
- > Power Query操作入门及应用视频课程
+ ## [Cisco网络工程师和网络安全视频课程（完整版）](http://fellow.51cto.com/art/202101/641274.htm?qd=51ctojrzd)
+ > Cisco网络工程师和网络安全视频课程（完整版）
+ ## [【Parcel 2 + Vue 3】从0到1搭建一款极快，零配置的Vue3项目构建工具](http://developer.51cto.com/art/202103/654330.htm)
+ > 今天我将会带领大家认识一个新的Vue3项目构建工具――parcel-vue-cli。本篇文章我将带大家如何从0到1开发一
+ ## [警惕！不正当竞争又重演：通过推销低价5G套餐变相开展流量不正当竞争操作](http://network.51cto.com/art/202103/654329.htm)
+ > 一方面是5G流量套餐的超低价推销，一方面是宽带规模的持续扩大，叠加起来必然导致手机上网流量收入的下滑。
  ## [iOS微信表情包上限变成999个：安卓又落后了](http://mobile.51cto.com/app-show-654328.htm)
  > 近日，iOS版微信升级到8.0.3版本，iOS微信的表情包上限开放到了999个，增加了2倍还多。有不少安卓用户在感
  ## [即将迎来大改版！Windows10全新文件管理器上手体验](http://os.51cto.com/art/202103/654327.htm)
  > 微软已经确认，在Windows10 21H2中，文件资源管理器将会得到改进。这次文件资源管理器的改动将会和微软公司
  ## [使用Javascript和Css3实现一个转盘小游戏(实战篇)](http://developer.51cto.com/art/202103/654326.htm)
  > 本文技术路线采用和上篇文章教你用200行代码写一个爱豆拼拼乐H5小游戏（附源码）同样的技术,即均使用本人自
+ ## [【雷神通关】《CTO精讲计算机技术](http://fellow.51cto.com/art/202103/654303.htm)
+ > 分享CTO工作多年的经验心得和干货，学生可以系统地学习计算机知识，更快地提升计算机技能，少走弯路。
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
- ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
- > 
+ ## [Spring Boot 高效入门实战](https://ask.csdn.net/questions/7408691)
+ > Spring Boot 高效入门实战
  ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
  > 我离职了
  ## [《看聊天记录都学不会C语言？太菜了吧》（12）循环有多容易？你看一眼就怀...](https://blog.csdn.net/A757291228/article/details/115304115)
