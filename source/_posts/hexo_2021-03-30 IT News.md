@@ -1,74 +1,86 @@
 ---
 title: 2021-03-30 IT News
 copyright: true
-date: 2021-03-30 10:01:24
+date: 2021-03-30 12:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [未知大陆第一届3D打印用户大会将于2021年9月10日举办](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=OgZ1AP1HUFIQyDYsrmil5CZnEbicB1sVxPXTk4MvBuyE4ewhUDRiP*gRAzBpi9oHVVjt1cuEcfZhoVU-SLGQlAfait2nxhBdtMq0eutHw0JIERDBfq8a7Bp7ky1drc1m&new=1)
+ ## [新网络架构CUBE-Net 3.0究竟“新”在哪里?](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=mi5dQ2pi9MnjI0wRma-gNEE6RbH8L6ZSJRF*91qsOG60DIoXhySY3Gux6bgphctJrT-mzXT8QVXa7k4B6YyQj3Aa9RxdysK8-r7Q0Ap30*DAFmiME*qRJoq9*c3BnX9f&new=1)
+ > 近日，十三届全国人大四次会议表决通过了关于国民经济和社会发展第十四个五年规划和2035年远景目标纲要的决议。纲要中特别提到，迎接数字时代，激活数据要素潜能，推进网络强国建设，加快建设数字经济、数字社会...
+ ## [“黑客主义”死灰复燃](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=hnww-YCtqTdFJituAwj3xKQkbfMDzuvj-RyVPCqflB8UmXiUhVGByLcxMnYBd2TH2NKqyvZPA76WkDt7XZ*uRoRFFeborUVo*2no9iyGB16vQT*wbXU-LxdLWtkl9nTz&new=1)
+ > 近日，路透社撰文指出，在美国政府和数以万计企业焦头烂额抵抗俄罗斯等大型国家黑客攻击活动的同时，另一种网络威胁正在兴起：激进的黑客开始寻求表达政治观点。近期三起重大黑客事件宣告了“新黑客主义”（Hack...
+ ## [推14款高性能3D打印工程线材，塑料改性龙头银禧科技瞄准FDM零部件生产级需求](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=hVEpnNB6i5l3xkvWFJ7UAlc0MVaCkM2yC79dJmA8RGLNM*arC4aZ2N96li7g-NFsSkIynITHkQ1OGkIC-C1nszIOM5ZpKBpQvz6s8x2Udd1FrVdxdI2n4CgoSF0Ha7Rd&new=1)
+ > 南极熊导读：3D打印材料是3D打印技术的源头，可以说在很大程度上决定了3D打印零部件的性能和应用领域。3D打印材料的重要性不言而喻，但由于用量小等原因，受重视的程度并不够。然而，国内有一家新材料巨头一直在...
+ ## [勇做全球区块链“分布式存储”领航者](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=efeU13jJorOfSCVjldvyeeH4ebzXnR1rbZMFJpsRtRefmtdZgvEIbT*-PI8DmwchOh8L26zcXoiAuCCGrw5-g-HdBKj34w*o6PbP3hmiB5k=&new=1)
+ > 被评为中国区块链行业最具合作价值企业、AAA级信用企业，受邀出席第三届深圳分布式存储行业大会并做主旨演讲……在过去的三年里，贵州矿无界科技有限公司（下称“贵州矿无界科技”）在分布式存储领域不断开...
+ ## [小米举办春季发布会；索尼将关闭 PS3 等线上游戏商店；微信iOS版更新|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=dduWQg7tuuqPPhqMvKefSJZj1asYe*yCc0CXCKROjDKRR6v3dO-bDxL-TqIhqdeSj-dQt2vc0z0jKhPsyALUJSajEw-gwXcCIxmfqhGGyaeIfhTmd-w2-DftkW38wAHm&new=1)
+ > Hello，大家早上好！又是元气满满的一天，先来浏览新鲜的早报吧～【小米举办春季发布会】3月29日，小米举行春季发布会，由于产品过多，分成了上下两场来进行。昨晚的上半场发布了：小米 11 Pro、小米 11 Ultra、...
+ ## [莱尔科技网上路演秀实力](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=2sEl2wVvO3YJG1h6J8HW4AFU8ruae00ZHA1iC-v17tAjeIu1P-9tymh*FTiDHjKD2*9Ats1sumxirxJBDbEBEwhxyd52Z*JIZBQSU9au760=&new=1)
+ > 3月29日下午，科创板拟上市公司莱尔科技在上证路演中心、中国证券网举行网上路演。在3个小时的网上路演中，投资者向莱尔科技管理层提出了上百个问题，涉及公司现状、技术优势、行业发展等多个方面，莱尔科技...
+ ## [未知大陆第一届3D打印用户大会将于2021年9月10日举办](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=OgZ1AP1HUFIQyDYsrmil5CZnEbicB1sVxPXTk4MvBuzBEcdRkLf2bW5BNF5FyDhVzbftoq5lxcg9D61S8gZy5KDazO1IpFuMzdBYYUTva237xYWK-VTmZeEKrEgKjCAX&new=1)
  > 2021年1月18日，全球领先的数字制造云平台未知大陆对外发布公告，将于2021年9月10日在深圳国际会展中心举办首届3D打印用户大会。3D打印作为最核心的数字制造技术，正在潜移默化地改变着传统制造业的设计、小批量...
- ## [5G光通·承载未来!2021讯石厦门光通信高峰论坛参会企业名单公布](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=kekH6LKh7O2tHPc7MaLrGdk4Y3t-wrtCq03SY5Sp-jVDhuNXN57-CdA*T3V*sLiaC1w7sWo0zk5-wenx5TMC9NcLZTwRIhi4aM37Eq3SEYEMcESzHj3Df4rZ1D2gsznE&new=1)
+ ## [5G光通·承载未来!2021讯石厦门光通信高峰论坛参会企业名单公布](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=kekH6LKh7O2tHPc7MaLrGdk4Y3t-wrtCq03SY5Sp-jUhAu78YykSbAmibgJbFcsPCDX5oteSYDdVZ8KMdkU-qy9bszd6Cj3neKDcwJ06-Jf-6a8yQiMppUvlpJAZ-qmv&new=1)
  > 新闻导读4月9日，由讯石主办，携手三安集成协办的的“2021讯石厦门光通信高峰论坛”将在厦门举办，汇聚光通讯产业链，探讨2021年可能到来的更大市场机遇。现议程已公布，欢迎扫码报名参与!ICC讯   5G光通，承载...
- ## [快讯：中国电信集团政企板块新增BG(行业事业部)](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=yKAx5gYU5twnWumYu94B*eYIeMa8j0E2hf0vjAsne0UdH83yJXrLoDNOpE1d84E9QddLehy5eh6Q1r5LWUM-2ququVUycB6L**j*DkBU4Mp8uWx-r22F493UrnBSsEWL&new=1)
+ ## [快讯：中国电信集团政企板块新增BG(行业事业部)](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=yKAx5gYU5twnWumYu94B*eYIeMa8j0E2hf0vjAsne0Wha8yq9-aVZw3SGIdjyvmkzKiVWBnondcVFcOtDHXXYhB**pYSasi0VudI-EC5UiDAYysriEefWY9r68wvkrod&new=1)
  > 运营商情报了解到，为增强垂直行业业务覆盖，近期中国电信集团新增金融行业事业部、互联网行业事业部一部、互联网行业事业部二部，近期已开始进行框架竞聘。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 ...
- ## [多项重磅政策落地在即 数字经济超60万亿市场空间待启](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=2sEl2wVvO3YJG1h6J8HW4AFU8ruae00ZHA1iC-v17tAE4bdTBklcY0eNT9wWriLwK-JfV3LM5MW*Jb2X8zoBi5ykBKCZSU-kL-eQGOVjyGM=&new=1)
+ ## [多项重磅政策落地在即 数字经济超60万亿市场空间待启](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=2sEl2wVvO3YJG1h6J8HW4AFU8ruae00ZHA1iC-v17tBJ2yf1-VQ10XRwJRwVP71PSkYoLxja8wysFg-donrpdQuPRKGC5xeBaJtuBjvNT2o=&new=1)
  > “十四五”规划纲要勾勒出未来五年数字经济发展蓝图，在此背景下，多方将进一步加强顶层设计，“十四五”数字经济专项规划、新时期推动“互联网+”政策文件、“十四五”新型基础设施建设规划等一系列重磅政...
- ## [5亿虚开发票案牵出“人脸识别破解术”黑产，15分钟非法破解19款手机|电讯调查](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=Z0x5Zwt3xZmLp9v49kwfn5DI-Ec9-QH40d*Y4h1Y8AwR7PbX*rR-zBwrwLGIqdSc2Vs9NujnZ7T6o9GSmZKAEWOnUb8*3XZ92B*D-eF5kP5feyvTV42eqm14IcXDZ-wj&new=1)
+ ## [5亿虚开发票案牵出“人脸识别破解术”黑产，15分钟非法破解19款手机|电讯调查](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=Z0x5Zwt3xZmLp9v49kwfn5DI-Ec9-QH40d*Y4h1Y8AyY82fRBotVlap8obUxtT4AdrJrWxR8BriJZ2gUGt*QD8Ml2qJZkCakLKVKnHWf2VzJiTGaT2rflEOHTgM9uxga&new=1)
  > “人脸识别破解术”成黑产业，护“脸”亟须查缺补漏上海检方公诉的一起涉案金额超5亿元的虚开发票案，牵出非法人脸识别案来源：3月30日《新华每日电讯》记者：新华每日电讯兰天鸣人脸识别作为一种易用性强的生物...
- ## [亚信科技这个增长势头，有点猛啊!](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=TSooabNCE2iB4kveDmefB4hkR2kxKJI7VhA-vOi9IMgRuC1tW*OXAUbOCVql272ARTkaKHAM5SjjX9**Drq*v1T5YCIHsNAilRg40wsFHK3OvTEw1*uaizbezb*PguI1&new=1)
+ ## [亚信科技这个增长势头，有点猛啊!](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=TSooabNCE2iB4kveDmefB4hkR2kxKJI7VhA-vOi9IMjPrmcGZyrCVBpSCx7B9yAkO1Tgt-0GpnifksDKnoxJWddOBC4Z4HLxDT7UecQspWr9pxIQMn-ii-fyQFAdIScV&new=1)
  > 【摘要】在大家正猛挖新基建蛋糕，苦寻5G成熟商业模式的当下，亚信的增长逻辑更是极具参考意义。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体3月23日，亚信科技（01675.HK）发布了最新年报。首先，看财务数据，...
- ## [企业需要关注的零信任 24 问](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=j*SXlu9RZBPF4ilA1coz4EWLwl1GFGQ65q*S9UKCUOb91f39j4KhVDDD8tZXyICGO86a9aa7CWVcTiH9V-vj0myrlSHZ-Xq-PM73F7iHNQE3Nkk1qdHnoHMzVQY84En3&new=1)
+ ## [企业需要关注的零信任 24 问](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=j*SXlu9RZBPF4ilA1coz4EWLwl1GFGQ65q*S9UKCUOa5FG*S0cTo57Zg7Mtx-I-iPmWkj5qoEtowxKSBF6ZkKYtfJEDq9eweGYnoSBS2k9yfEyu6lOUCJEhmRM45KCUj&new=1)
  > 在产业数字化升级与业务上云的趋势下，传统企业保护边界逐渐被瓦解，企业被攻击面大幅增加，零信任这一网络安全的理念受到更多的关注，国内外围绕零信任展开大量的研究和实践。那么零信任到底是什么？它有什么优...
- ## [华为联合德勤中国发布海关管理数字化转型白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1617069602&ver=2977&signature=nwTIdBOZdmMJ0cb6gkDUdSchqW6pe4prpreD6WcJ1bZH9GrqFG-qZcxtk*SFmSc1OgO8CvfAkxVS2R409kcDn0ckEGIDOa5R19OUeJUfgkiwjM8Mn*mQr*gtbe9oe0GD&new=1)
+ ## [华为联合德勤中国发布海关管理数字化转型白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1617075002&ver=2977&signature=nwTIdBOZdmMJ0cb6gkDUdSchqW6pe4prpreD6WcJ1bYAifDp4KRdWFvFYt4IO1jDTYwiIAQ5HvR8on5PaTTlFgsYK3*CM4DILB*oGy*Bza4H3X7M4MUTvK1tM-Iauyo4&new=1)
  > 2021年华为行业数字化转型大会期间，华为联合德勤中国发布了《从质的提升到智的飞跃——海关管理的数字化转型》白皮书。白皮书主要提出：在后疫情时代与数字化浪潮下，各国海关积极投身数字化转型以增强全球供应...
 # IT 技术 
  ## [七大自动化持续代码审查工具](http://developer.51cto.com/art/202103/654137.htm)
  > 七大自动化持续代码审查工具
+ ## [支付宝加密规则，你真的懂吗？](http://netsecurity.51cto.com/art/202103/654394.htm)
+ > 支付宝加密规则，你真的懂吗？
+ ## [前端 | Vue 3生命周期完整指南](http://developer.51cto.com/art/202103/654332.htm)
+ > 前端 | Vue 3生命周期完整指南
  ## [如何使用semanage和避免禁用SELinux？](http://developer.51cto.com/art/202103/654136.htm)
  > 如何使用semanage和避免禁用SELinux？
+ ## [报告：IT人员薪水上涨，心理问题也随工作量增长](http://news.51cto.com/art/202103/654348.htm)
+ > 报告：IT人员薪水上涨，心理问题也随工作量增长
  ## [鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程](http://developer.51cto.com/art/202103/652352.htm)
  > 鸿蒙内核源码分析(中断切换篇) | 汇编注解中断切换实现全过程
- ## [如何实现有效的Kubernetes成本优化](http://developer.51cto.com/art/202103/653836.htm)
- > 如何实现有效的Kubernetes成本优化
- ## [NameNode是用了什么神秘技术来支撑元数据百万并发读写的](http://bigdata.51cto.com/art/202103/653825.htm)
- > NameNode是用了什么神秘技术来支撑元数据百万并发读写的
- ## [妙哉！那个用文言文编程的小哥，从28万行唐诗中找出了对称矩阵](http://news.51cto.com/art/202103/653961.htm)
- > 妙哉！那个用文言文编程的小哥，从28万行唐诗中找出了对称矩阵
- ## [为什么新兴的数据趋势需要一种全新的数据处理理念？](http://bigdata.51cto.com/art/202103/653835.htm)
- > 为什么新兴的数据趋势需要一种全新的数据处理理念？
- ## [Python入门精讲视频，从入门到精通](http://fellow.51cto.com/art/202007/622440.htm?qd=51ctojrzd)
- > Python入门精讲视频，从入门到精通
- ## [HarmonyOS APP组件分享(五)](http://os.51cto.com/art/202103/654115.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [3月网络安全领域重要动态速览](http://netsecurity.51cto.com/art/202103/654377.htm)
- > 随着互联网的快速发展，网络安全无疑也是新的焦点。那么在即将过去的3月份，国内网络安全行业有呈现出哪些
- ## [工信部刘郁林：千兆光网是新型基础设施的承载底座](http://network.51cto.com/art/202103/654359.htm)
- > 3月29日消息，在今天举办的“千兆光网助力数字经济新增长主题论坛”上，工业和信息化部、信息通信发展司副
- ## [盘点一款Python二级考试模拟软件，带你轻松过关二级Python考试](http://developer.51cto.com/art/202103/654353.htm)
- > 今天给大家讲的这个软件，主要是想让大家通过这个软件能将自己的Python基础进一步提高。很多会写Python的小
- ## [微软为 PowerPoint 推出 AI 自动对齐功能，图形可一键排版](http://os.51cto.com/art/202103/654352.htm)
- > 根据外媒 mspoweruser 消息，微软今日宣布为 PowerPoint 推出 Auto Fix 自动对齐功能，该功能目前暂不支持
- ## [测试同学上手Spring 之AOP最易懂的解析](http://developer.51cto.com/art/202103/654351.htm)
- > 今天来介绍Spring的另一个核心技术点AOP，AOP的概念不好理解，希望大家仔细阅读文章并按照文章中的代码进行
- ## [报告：IT 人员薪水上涨，心理问题也随工作量增长](http://news.51cto.com/art/202103/654348.htm)
- > Harvey Nash 发布的一份《Technology &amp; Talent Study 2021》研究报告指出，全球超过半数(55%)的 IT 专业人
- ## [新型 Android 恶意软件冒充为"系统更新"窃取用户数据](http://netsecurity.51cto.com/art/202103/654347.htm)
- > 本周，Zimperium zLabs 的研究人员对外发出警告，提醒 Android 用户注意一款复杂的新型恶意软件。
- ## [黑客入侵 PHP 的 Git 服务器，试图提交后门代码](http://netsecurity.51cto.com/art/202103/654340.htm)
- > 近日，PHP 团队发现其 git.php.net 服务器被入侵，官方仓库中出现了两个恶意提交，并且这些提交伪造了 PHP
- ## [自动驾驶汽车四个关键因素 2040年可达500亿美元规模](http://ai.51cto.com/art/202103/654337.htm)
- > 尽管现今许多厂商尝试将自动驾驶应用在物流、自动驾驶出租车和个人拥有的车辆上，但目前看起来，其仍旧处于
+ ## [猛增174K Star！前端非常流行的十大超级开源项目](http://news.51cto.com/art/202103/654396.htm)
+ > 猛增174K Star！前端非常流行的十大超级开源项目
+ ## [Oracle备份恢复迁移之expdp/impdp_Oracle备份恢复与数据迁移教程10](http://fellow.51cto.com/art/202012/637349.htm?qd=51ctojrzd)
+ > Oracle备份恢复迁移之expdp/impdp_Oracle备份恢复与数据迁移教程10
+ ## [什么样的程序员，在35岁以后，依然被公司抢着要？](http://news.51cto.com/art/202103/654411.htm)
+ > 有个话题叫做“程序员的悲哀是什么？”于是，有很多数程序员说出自己的命门：最大的悲哀就是以为自己挣到很
+ ## [三大运营商物联网用户超11亿，万物互联带来万亿连接价值](http://iot.51cto.com/art/202103/654410.htm)
+ > 运营商物联网发展驶入快车道。工信部最新通报数据显示，运营商蜂窝物联网用户增长较快，截至2月末，三家运
+ ## [比特币与艺术品的价值观](http://blockchain.51cto.com/art/202103/654408.htm)
+ > 人们之所以愿意挖矿，是因为比特币能兑换成现实的中的货币，而这种功能实际上只是人为炒作出来的，它本身并
+ ## [数字人民币大提速意味着什么？](http://blockchain.51cto.com/art/202103/654407.htm)
+ > 这几天六大银行到处宣传那个“数字人民币钱包”，一般只要申请就可以获得开通，从而成为数字人民币的用户，
+ ## [要人工智能 不要“人工智障”](http://ai.51cto.com/art/202103/654406.htm)
+ > 人工智能发展带来便利的同时，烦恼和问题也着实不少：拨打银行热线，智能客服答非所问，想转人工太不容易；
+ ## [Windows10运行对话框的这些强大功能你知道多少？](http://os.51cto.com/art/202103/654404.htm)
+ > 在Windows10系统下，按下键盘之上的“Win + R”组合键，会打开“运行”对话框，可以使用该对话框快速启动许
+ ## [AdDuplex：近30%的Windows 10 PC现在使用的是20H2版本](http://biz.51cto.com/art/202103/654403.htm)
+ > AdDuplex发布了关于Windows 10版本使用情况的月度报告，数据来源是3月份基于从5000个使用AdDuplex SDK v.2
+ ## [Canalys警告：未能在网络安全上投入更多资金的企业将面临“大量倒闭”](http://netsecurity.51cto.com/art/202103/654401.htm)
+ > 分析公司Canalys警告说，未能在网络安全上投入更多资金的企业将面临 &quot;大量倒闭&quot;。因为研究人员发现过去的12
+ ## [人工智能，自动化和工作的未来以及需要关注和解决的问题](http://ai.51cto.com/art/202103/654399.htm)
+ > 自动化和人工智能(AI)正在改变企业，而且将通过对生产力所做的贡献来促进经济增长。它们还将有助于解决从健
+ ## [IBM宣布推出首个针对量子计算机编程的开发者认证](http://news.51cto.com/art/202103/654398.htm)
+ > IBM宣布推出首个针对量子计算机编程的开发者认证。虽然量子计算可能还处于起步阶段，但业内大多数专家会告
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
  > 
- ## [Python 内置模块之 re 库，一文搞定正则表达式初阶用法，滚雪球学 Python 第 13 篇](https://blog.csdn.net/hihell/article/details/114648366)
- > Python 内置模块之 re 库，一文搞定正则表达式初阶用法，滚雪球学 Python 第 13 篇
- ## [《看聊天记录都学不会C语言？太菜了吧》（12）循环有多容易？你看一眼就怀...](https://blog.csdn.net/A757291228/article/details/115304115)
- > 《看聊天记录都学不会C语言？太菜了吧》（12）循环有多容易？你看一眼就怀...
+ ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
+ > 我离职了
+ ## [嗯，在我们这读书就是唯一的出路](https://blog.csdn.net/qq_35190492/article/details/115313823)
+ > 嗯，在我们这读书就是唯一的出路
  ## [【接口测试】【postman】postman通过脚本获取Token并自动加入请求头实现Token的参数化](https://blog.csdn.net/u010521062/article/details/114941970)
  > 【接口测试】【postman】postman通过脚本获取Token并自动加入请求头实现Token的参数化
  ## [Python基础知识总结（期末复习精简版）](https://blog.csdn.net/m0_46521785/article/details/106414720)
@@ -92,37 +104,43 @@ categories: IT NEWS
 # 人工智能 
  ## [数字技术战略：开发者体验 —— 内部工具的“最后一公里”](https://blog.csdn.net/gmszone/article/details/115107279)
  > 数字技术战略：开发者体验 —— 内部工具的“最后一公里”
- ## [谷歌低调了 5 年的 Fuchsia OS，终于有望面世了！](https://blog.csdn.net/csdnnews/article/details/115135832)
- > 谷歌低调了 5 年的 Fuchsia OS，终于有望面世了！
- ## [一份DevOps工程师职责清单，待你查阅](https://blog.csdn.net/fly910905/article/details/115148471)
- > 一份DevOps工程师职责清单，待你查阅
- ## [面试官：你是如何判断一个线程池需要创建多少个线程](https://blog.csdn.net/prestigeding/article/details/115151783)
- > 面试官：你是如何判断一个线程池需要创建多少个线程
- ## [全球首个 AI 说唱歌手 TikTok 发新歌，东西方审美差异巨大](https://blog.csdn.net/HyperAI/article/details/115152973)
- > 全球首个 AI 说唱歌手 TikTok 发新歌，东西方审美差异巨大
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [对Go 1.16 io/fs设计的第一感觉：得劲儿！](https://blog.csdn.net/bigwhite20xx/article/details/115153211)
- > 对Go 1.16 io/fs设计的第一感觉：得劲儿！
- ## [今天你的App崩了吗](https://blog.csdn.net/x359981514/article/details/115153760)
- > 今天你的App崩了吗
- ## [畅想数据湖](https://blog.csdn.net/WindyQCF/article/details/115154313)
- > 畅想数据湖
- ## [不是“重复”造轮子，百度飞桨框架2.0如何俘获人心](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/115163307)
- > 不是“重复”造轮子，百度飞桨框架2.0如何俘获人心
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [漫谈socket-io的基本原理](https://blog.csdn.net/u010349169/article/details/115107507)
+ > 漫谈socket-io的基本原理
  ## [深入JVM - Code Cache内存池](https://blog.csdn.net/renfufei/article/details/115165919)
  > 深入JVM - Code Cache内存池
- ## [pgbackrest 实践](https://blog.csdn.net/weixin_46199817/article/details/115167166)
- > pgbackrest 实践
- ## [编程为什么有趣？浅谈编程的快乐。](https://blog.csdn.net/universsky2015/article/details/115169006)
- > 编程为什么有趣？浅谈编程的快乐。
  ## [我离职了](https://blog.csdn.net/qq_35190492/article/details/115190346)
  > 我离职了
+ ## [这些关于线程池相关的高频面试题你都知道吗](https://blog.csdn.net/prestigeding/article/details/115190789)
+ > 这些关于线程池相关的高频面试题你都知道吗
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [JDK 16 对 ZGC 的增强](https://blog.csdn.net/weixin_45583158/article/details/115191620)
+ > JDK 16 对 ZGC 的增强
+ ## [三大前端构建工具横评，谁是性能之王！](https://blog.csdn.net/weixin_46837985/article/details/115191848)
+ > 三大前端构建工具横评，谁是性能之王！
+ ## [从苏宁电器到卡巴斯基（第二部）第03篇：我在卡巴的日子 III](https://blog.csdn.net/ioio_jy/article/details/115200752)
+ > 从苏宁电器到卡巴斯基（第二部）第03篇：我在卡巴的日子 III
+ ## [自由软件之父回归 FSF，遭 1933 人、21 家组织联名抵制！](https://blog.csdn.net/csdnnews/article/details/115215838)
+ > 自由软件之父回归 FSF，遭 1933 人、21 家组织联名抵制！
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [多个库，多条路，Python 到底有多少命令行参数解析库？](https://blog.csdn.net/hihell/article/details/115268044)
+ > 多个库，多条路，Python 到底有多少命令行参数解析库？
+ ## [PyTorch训练加速技巧](https://blog.csdn.net/qq_31768873/article/details/115294744)
+ > PyTorch训练加速技巧
+ ## [Python快速构建神经网络](https://blog.csdn.net/ZackSock/article/details/115292795)
+ > Python快速构建神经网络
+ ## [A*算法，转基因干饭迷宫老鼠与游戏中的寻路](https://blog.csdn.net/qq_45795847/article/details/115309455)
+ > A*算法，转基因干饭迷宫老鼠与游戏中的寻路
 # PM 
+ ## [产品运营需要具备哪些基本意识](http://www.chanpin100.com/article/114286)
+ > 想要做好产品运营工作，小编觉得要学两个方面，一是意识，二是技能。本篇文章主要为大家介绍一下产品运营需要具备哪些基本意识，请看本文的具体介绍。
+ ## [产品运营的主要工作内容有哪些](http://www.chanpin100.com/article/114283)
+ > 在了解产品运营之前，我们必须先了解产品。今天，本篇文章主要从产品生命周期的逻辑来谈谈产品运营的主要工作内容有哪些。接下来，请看本文的分享。
  ## [周鸿祎：面对用户永远要放下](http://www.chanpin100.com/article/114252)
  > 我最近在看《周鸿祎自述：我的互联网方法论》，其中有段话挺触动我的。做产品必定是个痛苦的过程。用户永远是对的，我们不能对用户发脾气，有时候甚至需要放下自尊，因为在用户面前，自尊没用。
+ ## [山顶Talk第二十期：起底支付宝亿级产品的底层逻辑](http://www.chanpin100.com/article/114284)
+ > 如今，移动支付已经成为大多数人日常生活中密不可分的一部分，支付宝作为其中最具代表性的产品，目前在中国第三方支付交易规模的市场份额上仍旧保持着第一，并且在线下扫码支付环境中，支付宝也有着5成以上的市场占有率，远领先于第二名的微信支付，成为当之无愧的国民级产品。
  ## [产品运营面试之资讯类App每天推送几次较合理？](http://www.chanpin100.com/article/114280)
  > 随着互联网的快速发展，产品运营岗变得至关重要。今天给大家分享的面试题目是：资讯类App每天推送几次较合理？希望能帮助各位同学通过面试。
  ## [产品运营面试之如果你运营美团外卖 如何做好骑手春节期间的保障？](http://www.chanpin100.com/article/114279)
@@ -155,11 +173,5 @@ categories: IT NEWS
  > 小程序官方文档有些场景写的不是很全面，有些api也不好找，在对小程序进行产品功能设计时，很容易会出现产品需求填写不完整、需求逻辑不清晰、需求没法实现的情况，下面列出产品经理容易忽略的一些业务场景。
  ## [一文了解“2021年中国数字经济发展趋势”](http://www.chanpin100.com/article/114244)
  > 展望2021年，数字技术创新应用向更大范围、更高层次和更深程度拓展，我国数字经济红利将进一步释放，向着数据流通服务创新加快、数字经济与实体经济更深层次融合、数字基建全面推进、新业态新模式日益成熟、治理数字化更加务实、数字贸易水平进一步提升等方向迈进。
- ## [阿里成立MMC事业群 社区团购为何如此火？](http://www.chanpin100.com/article/114241)
- > 今年3月22日，据多家媒体报道，阿里巴巴已于近期成立MMC事业群，负责人由阿里B2B事业群总裁戴珊兼任。该事业群聚焦于社区团购业务，整合了零售通的社区团购业务和盒马集市业务，被内部人士成为“买买菜”。在本月初的内部会议上，戴珊表示，针对社区团购项目的投入不设上限，MMC事业群第一站是郑州。
- ## [降维打击：数据可视化降本增效 传统制造业价值即将扭转！](http://www.chanpin100.com/article/114239)
- > 工业互联网能让冰冷机器变成智能设备，采用智能数据采集，准确实时地采集每一台设备的运行数据，图扑软件（Hightopo） 3D 数据可视化平台能帮助客户远程管理设备，提供远程监测、预警、监控等。在设备维护方面，企业可以利用工业互联网平台来分析设备历史数据及实时运行数据，从而监测设备运行状况，并在设备存
- ## [没时间读书？给你五本最佳产品书单和省时读书技巧！](http://www.chanpin100.com/article/114238)
- > 天气渐暖心燥热，学习学习不能停！为了让广大刀友们书单及时更新，今天为大家带来了优秀产品人Lisa Mo Wagner认为必读的前五本产品书～
 
     
