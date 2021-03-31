@@ -1,11 +1,15 @@
 ---
 title: 2021-03-31 IT News
 copyright: true
-date: 2021-03-31 08:01:02
+date: 2021-03-31 09:02:39
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 技术 
+ ## [什么是持续集成（CI）/持续交付（CD）管道？](http://developer.51cto.com/art/202103/654477.htm)
+ > 什么是持续集成（CI）/持续交付（CD）管道？
+ ## [八种实用的免费游戏开发软件工具](http://developer.51cto.com/art/202103/654476.htm)
+ > 八种实用的免费游戏开发软件工具
  ## [SaaS的四条不等式你了解吗？](http://cloud.51cto.com/art/202103/654334.htm)
  > SaaS的四条不等式你了解吗？
  ## [七大自动化持续代码审查工具](http://developer.51cto.com/art/202103/654137.htm)
@@ -16,22 +20,28 @@ categories: IT NEWS
  > 前端 | Vue 3生命周期完整指南
  ## [如何使用semanage和避免禁用SELinux？](http://developer.51cto.com/art/202103/654136.htm)
  > 如何使用semanage和避免禁用SELinux？
- ## [主要针对儿童的吸费APP每年收入超过4亿美元](http://zhuanlan.51cto.com/art/202103/654423.htm)
- > 主要针对儿童的吸费APP每年收入超过4亿美元
- ## [报告：IT人员薪水上涨，心理问题也随工作量增长](http://news.51cto.com/art/202103/654348.htm)
- > 报告：IT人员薪水上涨，心理问题也随工作量增长
- ## [MySQL InnoDB存储引擎深入分析与管理_MySQL数据库基础深入与核心解析04](http://fellow.51cto.com/art/202012/635034.htm?qd=51ctojrzd)
- > MySQL InnoDB存储引擎深入分析与管理_MySQL数据库基础深入与核心解析04
- ## [WiFi 6我需要升级吗？看这里就知道](http://network.51cto.com/art/202103/654668.htm)
- > WiFi 6对比WiFi 5，其技术超越是全方位的,，更换WiFi 6路由还是很有必要的。但如果家中没有WiFi 6的终端，
- ## [6城实测！加持了超级上行的5G上行能跑多快？](http://network.51cto.com/art/202103/654667.htm)
- > 截至2020年底，我国已累计拥有超过2亿5G联接。超级上行的出现，通过向“上行千兆”这一目标的迈进，为提供5
- ## [2021年3月物联网领域重要动态速览](http://iot.51cto.com/art/202103/654666.htm)
- > 2021年3月以来，物联网领域就持续涌现出了不少新动态，涉及融资、新品、产业布局、技术研发等多个方面，今
- ## [微信3.0.0 Mac正式版发布：终于开放朋友圈](http://mobile.51cto.com/app-show-654665.htm)
- > 微信3.0.0 Mac版还支持浏览聊天中分享的视频号视频和视频号直播，支持在OS X 10.14版本及以上系统开启深色
- ## [Redis 6.X Sentinel 哨兵集群搭建](http://os.51cto.com/art/202103/654663.htm)
- > 今天码哥带大家完成在 CentOS 7 中安装 Redis 6.x 教程。在学习 Redis 之前，我们需要先搭建一套哨兵环境。
+ ## [\[完整\]ExcelVBA整合Access/SQLServer编程](http://fellow.51cto.com/art/202101/639333.htm?qd=51ctojrzd)
+ > \[完整\]ExcelVBA整合Access/SQLServer编程
+ ## [了解IT安全原则最薄弱的一环](http://netsecurity.51cto.com/art/202103/654693.htm)
+ > 组织的IT安全基础架构不是一个整体。它由多个部分组成，这些部分必须协同工作，以最大程度地降低组织防御遭
+ ## [勒索软件即服务是企业面临的全新重大问题](http://netsecurity.51cto.com/art/202103/654691.htm)
+ > 事实证明，勒索软件即服务对于那些想在网络勒索行动中分一杯羹但又不一定具备开发自己的恶意软件技能的网络
+ ## [从视频中学习 Facebook推出新人工智能项目](http://ai.51cto.com/art/202103/654683.htm)
+ > 近十年来，人工智能系统在语音、视觉识别方面取得了重大进展。正因为如此，人工智能对获取的数据集的依赖程
+ ## [安全观点：如何更有效地执行大规模安全扫描](http://netsecurity.51cto.com/art/202103/654684.htm)
+ > 在这篇文章中，我们将研究互联网中的宏错误配置问题，并学习如何使用Netz来帮助我们了解相关问题。Netz是一
+ ## [如何创造创新文化](http://iot.51cto.com/art/202103/654680.htm)
+ > 这种文化在获取物联网（IoT）的好处时尤其重要，因为物联网的实施触及整个组织的人员和流程――创新文化对
+ ## [各国抢6G可能增加6G碎片化风险](http://network.51cto.com/art/202103/654679.htm)
+ > 随着地缘政治逐步扩散、COVID-19疫情带来的健康危机、以及环保议题抬头，对于6G的投资从来就没有如此重要过
+ ## [Vue3 Teleport 简介，请过目，这个是真的好用！](http://developer.51cto.com/art/202103/654673.htm)
+ > 关于 ve3 的一个新特性已经讨论了一段时间了，那就是 Portals(传送门) ，它的功能是将模板HTML移动到DOM不
+ ## [《精通react/vue组件设计》之配合React Portals实现一个功能强大的抽屉组件](http://developer.51cto.com/art/202103/654672.htm)
+ > 作为数据驱动的领导者react/vue等MVVM框架的出现,帮我们减少了工作中大量的冗余代码, 一切皆组件的思想深得
+ ## [SQL Server基础：TOP、OFFSET-FETCH、SET ROWCOUNT用法笔记](http://database.51cto.com/art/202103/654671.htm)
+ > 今天给大家介绍一下TOP、OFFSET-FETCH、SET ROWCOUNT用法笔记，希望对大家能有所帮助!
+ ## [比特币诈骗应用上架苹果 App Store，盗走 iPhone 用户 60 多万美金](http://netsecurity.51cto.com/art/202103/654670.htm)
+ > 来自 Sensor Tower 的数据显示，1 月 22 日至 2 月 3 日，假 Trezor 应用在 App Store 上被下载了约 1000
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
