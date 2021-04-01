@@ -1,60 +1,74 @@
 ---
 title: 2021-04-01 IT News
 copyright: true
-date: 2021-04-01 10:03:21
+date: 2021-04-01 12:02:51
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [硬核华为!去年狂砸1418亿搞研发，净利646亿≈1.37个茅台，对鸿蒙、汽车、养猪等都有回应](http://mp.weixin.qq.com/s?src=11&timestamp=1617242402&ver=2981&signature=050j4rgIHPpb-xv*NhAs9*eAYavdlItulYNz32wkbDXFedH3Ro9WvkIA*E3Ifcm*qR1tweOYsHd39vBYToFrL3pgcRmPakEIFOrK3TSEMw*HczwAoI2*cH*21cDCgMyj&new=1)
- > 在新冠疫情和美国制裁的重重压力下，华为依旧交出了一份稳健的答卷。3月31日下午，华为正式出炉2020年业绩报告。报告显示，业绩增长基本实现了经营预期，其中销售收入8914亿元人民币，同比增长3.8%，净利润646亿...
- ## [发力“双千兆”，中国移动专家为何强调5G半有源前传?](http://mp.weixin.qq.com/s?src=11&timestamp=1617242402&ver=2981&signature=GsSom-qV7SptYh4p4ZsPaspe1eWIna61J7BDGD0L*Bi55LU8CWzwHShqeYwasGc0SW5Phg6yt4o6nAZgxAQ2aBcxpAj9rdki6s8SXHX29MIhJiKsg1B-2kje7Fh46uMV&new=1)
- > “5G商用，承载先行”成为行业共识。在5G基站建设中，一张高质量的承载网络是“5G改变社会”的有力支撑。工信部3月24日印发的《“双千兆”网络协同发展行动计划（2021-2023年）》，要求5G和光宽能向单个用户提供...
- ## [中国移动撇除虚假5G用户，或是导致5G用户增速放缓的原因](http://mp.weixin.qq.com/s?src=11&timestamp=1617242402&ver=2981&signature=taTKwFXHdcOzt9YRSJhhxs8sBss7Y8C3JLnHsO86QWSCSl0LuKbchvo9Kf6DP9bkJX8d4VzaTFeFXTaEZ2dK1PPuJ7uhfK0Rk7BQ2S-GR9b5uPuWPpnfnYuXVAXWc0IS&new=1)
- > 三大运营商均公布了2月份的5G用户净增数，中国移动的净增5G用户数最少，这让人怀疑这家中国最大的运营商是否还能在5G时代保持绝对领先优势，不过如果仔细分析或许事实并非如此。由于各方的压力，2020年三大运营...
- ## [10年来最重要创新 ARM发布AMRv9指令集：IPC性能大涨30%](http://mp.weixin.qq.com/s?src=11&timestamp=1617242402&ver=2981&signature=anoMO8WT-Qnc-M32fSmHL*L2-lnViHqfy8*IXUHl07qR87I7TsYZbhgTU1tENeGd3hyzvJwyWKGoHK8Gi3NlOQr03VeUqEmQnEeLumnramwmK8SSw4k0bGeJwSIf-Psi&new=1)
- > 来源：快科技今天凌晨，ARM正式推出了ARMv9指令集，官方称之为10年来最重要的创新，将是未来3000亿ARM芯片的基础。包括目前性能最强的Cortex-X1/A78在内，现在所用的ARM芯片还是基于ARMv8.x指令集的，2011年首次
- ## [华为2020年研发投入超过BATJ总和](http://mp.weixin.qq.com/s?src=11&timestamp=1617242402&ver=2981&signature=HBrVIVOUhtN7HlhRQ2ViN8QM7lZpNoUEYfTZUUsYIRCgM9GkKWuwVF0syHp4sFb7iRXDPiFs07557uM853bJZ1khSGp50srHbOOcQr5UCwk=&new=1)
+ ## [通过身份程序满足数据隐私法规合规性的3个步骤](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=fra1tWeIMVMKbAOTrOORre67hFRYc*S1x5AoGaKj3gBryhrUFNyuYrv2AiI*tA8hs6S*EZOassilx*coZjx1A4i52RYFCPVnpSXpUsWT8dOJ8FMl4Ebxn8hTXQs8wNrl&new=1)
+ > E安全3月31日讯  在过去的几个月中，SolarWinds和Exchange的攻击强化了网络安全是一项关键业务功能。因此，PWC最近的一份报告发现，55％的企业高管计划在2021年增加其网络安全预算，而51％的企业计划在一年内增...
+ ## [芯片荒?全球半导体产业网络安全一地鸡毛](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=eEw2PBoPuk5PSG*4lHBIvACbW44DepclRCNTj2*5WDXNHRt5*Eu6ObHKEpRqP3uuLVhIM*sTdQMT6eXbxOfXZANSYwzdjh2QD-Shon*lAOsSH3FmOAJuPJYyYwT-xTwW&new=1)
+ > 苏伊士运河的“堵船”疏通了，但肆虐全球数月的芯片荒却没有任何缓解的迹象，相反，还从汽车行业蔓延到智能手机甚至家电行业，甚至高端抽油烟机这样的白色家电的生产都受到影响。疫情一方面导致半导体产能降低，...
+ ## [淘宝特价版招聘：年薪50万，35岁以上优先；1900万：一线城市财富自由的入门级门槛；鸿蒙OS成武汉大学专业选修课|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=sGlpQDqp8QJxyxKAbqL1U1bc47b52wHYcucVHSBQSJ6zYhRov9Fv0uwQzvuWFBCR5X8ijSAvLot8C8k4KSmekHbrpxqegWUGhgVjA82B3LxewiuIyAT2sRJJm0EYJskw&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！华为：20...
+ ## [\[报告\]2021汽车芯片行业深度研究(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=2ZiLowN-cARGeYGEGzRTWFsEKJZLdErhuNhD2puZ-XvPfllgq3ZQTXmVqicgjJPgy6YygZiSkTiN91PWNoVnEuWaVIv8T4Wk45MXPq6dw2T3cB78zr5JgFBrgyiF0vnC&new=1)
+ > 未来汽车的终局，是实现自动驾驶的智能终端。自动驾驶将成为科技巨头竞争角逐的技术浪潮，而汽车芯片，特别是自动驾驶芯片，将处于自动驾驶技术浪潮的制高点。自动驾驶的实现，将依赖汽车的感知层、决策层和执行...
+ ## [规划30台工业3D打印机力挺河南，实地探访“中部增材制造创新中心”](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=*eI56Lhl2G4Xx9QRl86D-AHrNxYq9N8yFRBUvoehzoBWQh-eR-Y9YQQpkKOcWECdXuD4teOP7u26qruasP1-iMrZBv2ldJYAuhN74PO-cL2MINqOUoi61BJfmMAXZu1c&new=1)
+ > △陶瓷3D打印相关展会推荐南极熊导读：近几年，国内的3D打印产业发展迅速，成为航空航天、医疗、工业、手板等行业的创新利器。然而，3D打印产业在各个区域的发展并不均衡，主要集中在华东和华南市场，而中部地区...
+ ## [华为2020年研发投入超过BATJ总和](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=HBrVIVOUhtN7HlhRQ2ViN8QM7lZpNoUEYfTZUUsYIRC6dW2xXuSyrrecWaa37AGfoyJwbCPd3Kk7*jsTn1jgMhd04K*h-XEdr8x9KDfbuHA=&new=1)
  > 在前所未有的外部挑战下，华为2020年营收和盈利双双实现正增长，表现出极强的韧性。3月31日，华为发布2020年度业绩报告，实现销售收入8914亿元，同比增长3.8%；净利润646亿元，同比增长3.2%。华为轮值董事长...
- ## [2021 WWDC，6 月 8 日举行，Glasses?](http://mp.weixin.qq.com/s?src=11&timestamp=1617242402&ver=2981&signature=MjUqJEHsffT8Y65CJjcRHvu7jtJH5IC8H08CEYNFkHi3o5CbVTrbGo5uroNS7J85wWidF3ku11VyYogsPhHtqZjDI7GxhhzSB3dbP0uaYJ5WbV6alLf8RNav3UXnWvYA&new=1)
+ ## [经开区一季度 引进六个新基建项目](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=GUEImPK*a7EvpEJO7-jVRpX2MUR3qF*KBBVbqyKZZecdIO6bVEeG98Yk6rokuf6jwKneHDmq92MzArbatn3vRadgfOKOIGfSB2ZL9pwpUm4=&new=1)
+ > 本报讯 3月31日，记者从经开区获悉，一季度，经开区大力开展招商引资，引进6个新基建项目，涉及城市智能服务、智能设备制造、大数据安全等领域。　　6个新基建项目包括：贵州随身译智能科技有限公司的未来城...
+ ## [贾跃亭发twitter称将与小米联合造车；华为宣布加入造车阵营|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=ytFyhF1QoQsAnoZ3DWsjhGwMQXAknbhC0q8u9ufXgSzkqRwxfBi2ylrKSOBkTl8YuSKGHI66Nzl0*zOkOKvzTKXNbcN2CZdFjJtjLeHq1cKhI0qhJWg1hnlsgm*yqst4&new=1)
+ > 图 / IC photoHello，大家愚人节快乐，又是元气满满的一天，先来浏览新鲜的早报吧～【贾跃亭发twitter称与小米联合造车；五月初确定回国】今日早间，贾跃亭在其twitter上宣布将于五月初回国，并与小米联合继续造...
+ ## [硬核华为!去年狂砸1418亿搞研发，净利646亿≈1.37个茅台，对鸿蒙、汽车、养猪等都有回应](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=050j4rgIHPpb-xv*NhAs9*eAYavdlItulYNz32wkbDXFedH3Ro9WvkIA*E3Ifcm*0qkiekqxSk5QBdaKXzTyaUsX3kjMd1U8CsNcfr04DmrQaRYMsHgfBn-i6gQNjpMh&new=1)
+ > 在新冠疫情和美国制裁的重重压力下，华为依旧交出了一份稳健的答卷。3月31日下午，华为正式出炉2020年业绩报告。报告显示，业绩增长基本实现了经营预期，其中销售收入8914亿元人民币，同比增长3.8%，净利润646亿...
+ ## [发力“双千兆”，中国移动专家为何强调5G半有源前传?](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=GsSom-qV7SptYh4p4ZsPaspe1eWIna61J7BDGD0L*Bi55LU8CWzwHShqeYwasGc0TobYfo3cD1S0Gve1F8wHdjBFNC6wvKkJHdsl5mo3*EMhbSg6rH8GepbFu3BD9AMw&new=1)
+ > “5G商用，承载先行”成为行业共识。在5G基站建设中，一张高质量的承载网络是“5G改变社会”的有力支撑。工信部3月24日印发的《“双千兆”网络协同发展行动计划（2021-2023年）》，要求5G和光宽能向单个用户提供...
+ ## [中国移动撇除虚假5G用户，或是导致5G用户增速放缓的原因](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=taTKwFXHdcOzt9YRSJhhxs8sBss7Y8C3JLnHsO86QWSCSl0LuKbchvo9Kf6DP9bkPqJFSej2ABJwAd99ylTsb1Co8WJdVP*gQNPdn3716IGDKW1*TAz09ZdE69*v1fjw&new=1)
+ > 三大运营商均公布了2月份的5G用户净增数，中国移动的净增5G用户数最少，这让人怀疑这家中国最大的运营商是否还能在5G时代保持绝对领先优势，不过如果仔细分析或许事实并非如此。由于各方的压力，2020年三大运营...
+ ## [10年来最重要创新 ARM发布AMRv9指令集：IPC性能大涨30%](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=anoMO8WT-Qnc-M32fSmHL*L2-lnViHqfy8*IXUHl07qR87I7TsYZbhgTU1tENeGdd2quA97I-p998lJRRV7DbY3yFoJokJQTWrknri3Vw4Ba3UHon1HYRsYySxGDRVGe&new=1)
+ > 来源：快科技今天凌晨，ARM正式推出了ARMv9指令集，官方称之为10年来最重要的创新，将是未来3000亿ARM芯片的基础。包括目前性能最强的Cortex-X1/A78在内，现在所用的ARM芯片还是基于ARMv8.x指令集的，2011年首次
+ ## [2021 WWDC，6 月 8 日举行，Glasses?](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=MjUqJEHsffT8Y65CJjcRHvu7jtJH5IC8H08CEYNFkHi3o5CbVTrbGo5uroNS7J85l**vbglZmJUmziFglzgzuH87GuphXwP3U41G*3CSlZbH7Cy6t2IdTztkPAjAzyLR&new=1)
  > 苹果今天确认，第三十二届全球开发者大会 WWDC 将于 6 月 7 日至 11 日（北京时间 6 月 8 日至 12 日）举行，并再度采用完全在线形式。WWDC21 免费向所有开发者开放，将为 iOS、iPadOS、macOS、watchO
 # IT 技术 
  ## [5大Web应用安全威胁与7大防护措施](http://netsecurity.51cto.com/art/202104/654891.htm)
  > 5大Web应用安全威胁与7大防护措施
  ## [数据库 | “分库分表”，还能这么玩！](http://database.51cto.com/art/202104/654919.htm)
  > 数据库 | “分库分表”，还能这么玩！
+ ## [用Ansible自动化系统管理员的五个日常任务](http://os.51cto.com/art/202104/654922.htm)
+ > 用Ansible自动化系统管理员的五个日常任务
  ## [如何清空DNS缓存以提升Windows 10的网络性能？](http://os.51cto.com/art/202104/654890.htm)
  > 如何清空DNS缓存以提升Windows 10的网络性能？
+ ## [还在惊讶3D打印房子？这个半价的3D打印小区都被抢空了](http://news.51cto.com/art/202103/654789.htm)
+ > 还在惊讶3D打印房子？这个半价的3D打印小区都被抢空了
+ ## [10年重大更新！对决英特尔，ARM v9架构正式发布，华为海思还有使用权吗？](http://news.51cto.com/art/202103/654790.htm)
+ > 10年重大更新！对决英特尔，ARM v9架构正式发布，华为海思还有使用权吗？
  ## [强大的鸿蒙开发环境 - DevEco Studio 2.1 Beta3发布](http://developer.51cto.com/art/202103/654812.htm)
  > 强大的鸿蒙开发环境 - DevEco Studio 2.1 Beta3发布
- ## [什么是持续集成（CI）/持续交付（CD）管道？](http://developer.51cto.com/art/202103/654477.htm)
- > 什么是持续集成（CI）/持续交付（CD）管道？
- ## [我司MongoDB如何扛住千万级QPS？](http://stor.51cto.com/art/202103/654736.htm)
- > 我司MongoDB如何扛住千万级QPS？
- ## [八种实用的免费游戏开发软件工具](http://developer.51cto.com/art/202103/654476.htm)
- > 八种实用的免费游戏开发软件工具
- ## [基础课：Windows Server 2012系统管理视频课程](http://fellow.51cto.com/art/202101/639573.htm?qd=51ctojrzd)
- > 基础课：Windows Server 2012系统管理视频课程
+ ## [在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程](http://fellow.51cto.com/art/202101/639334.htm?qd=51ctojrzd)
+ > 在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程
  ## [鸿蒙内核源码分析(中断概念篇) | 外人眼中权势滔天的当红海公公](http://os.51cto.com/art/202104/654794.htm)
  > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [Linux+Windows: 程序崩溃时，在 C++ 代码中，如何获取函数调用栈信息](http://developer.51cto.com/art/202104/654981.htm)
+ > 这篇文章主要讲述在 Linux 和 Windows 这 2 个平台上，如何用C++ 来捕获函数调用栈里的信息。
+ ## [Redis 为什么变慢了？一文教你定位与排查分析](http://news.51cto.com/art/202104/654980.htm)
+ > 这篇文章我们就来分析一下 Redis 在使用过程中，经常会遇到的延迟问题以及如何定位和分析。
+ ## [如何通过广泛、集成和自动化的网络安全保护所有边缘设备](http://netsecurity.51cto.com/art/202104/654978.htm)
+ > 边缘设备的激增使当今的网络变得越来越难以保护。网络攻击者正在利用这样一个事实，即许多组织对安全采取的
+ ## [一篇带给你MySQL锁机制](http://database.51cto.com/art/202104/654977.htm)
+ > 锁按照锁粒度分为：全局锁、表锁和行锁。行锁是引擎层的实现，我们文中描述的行锁都是基于InnoDB存储引擎的
+ ## [Java基础入门知识之交换变量和String类初始化](http://developer.51cto.com/art/202104/654966.htm)
+ > 本文主要介绍了变量交换、String类初始化、字符串的基本操作。变量交换详解介绍了两个变量是如何交换的，通
+ ## [一张“纸条”就能骗过AI，OpenAI最先进的视觉模型就这？](http://news.51cto.com/art/202104/654973.htm)
+ > 通过关键词理解描绘出一张新图像对于人类来讲可能不是什么难事，但对于AI来讲，则需要它具有极高的视觉识别
+ ## [专家：推动5G应用创新恰逢其时](http://network.51cto.com/art/202104/654963.htm)
+ > 当前，加快5G网络建设是适合国家、经济社会和产业发展需求的。当然，这并不意味着5G网络建设就是要盲目地大
  ## [下一代的模板引擎：lit-html](http://developer.51cto.com/art/202104/654933.htm)
  > 今天来看看基于这个原生技术，Google 二次封存的框架 lit-html。今天会重点介绍  lit-html 的用法以及优势
- ## [Redis 高可用篇：你管这叫 Sentinel 哨兵集群原理](http://developer.51cto.com/art/202104/654931.htm)
- > 哨兵是 Redis 的一种运行模式，它专注于对 Redis 实例(主节点、从节点)运行状态的监控，并能够在主节点发生
- ## [Google安全团队该不该披露疑似美国政府的黑客行动？](http://netsecurity.51cto.com/art/202104/654932.htm)
- > 最近，谷歌安全团队披露了一项黑客攻击行动，但该黑客组织疑似是为美国政府及其盟友工作，进行网络反恐行动
- ## [微软出手：Edge 浏览器或将很快默认阻止网站自动播放视频](http://os.51cto.com/art/202104/654930.htm)
- > 微软已经在 Edge Canary 浏览器中添加了一个名为 “限制自动播放默认设置”的新 flag 标志。这将允许微软将
- ## [面试官问我zookeeper选举过程，我当场给他讲了源码](http://os.51cto.com/art/202104/654929.htm)
- > 本文主要是基于 zookeeper 3.8.0 讲解， 主要是通过源码的维度来分析 zookeeper 选举过程 对于 zookeeper
- ## [如何解决 React.useEffect() 的无限循环](http://developer.51cto.com/art/202104/654928.htm)
- > 使用useEffect()时，你可能会遇到一个陷阱，那就是组件渲染的无限循环。在这篇文章中，会讲一下产生无限循
- ## [CSS3 3D 行星运转 && 浏览器渲染原理](http://developer.51cto.com/art/202104/654925.htm)
- > 本文通过一个 3D Web 动画的实例，详细的捋一捋浏览器整个渲染页面的过程及原理。
- ## [2021年3月云计算领域重要动态速览](http://cloud.51cto.com/art/202104/654921.htm)
- > 2020年以来，上云成为一股潮流和一种趋势。在越来越多资本和企业加码布局云计算的背景下，其市场也是迎来井
- ## [用 Ansible 自动化系统管理员的 5 个日常任务](http://os.51cto.com/art/202104/654922.htm)
- > Ansible 是一个工具，它可以帮助你更轻松、更快速地完成日常任务，这样你就可以更有效地利用时间，比如学习
+ ## [哭了！2020图灵奖颁给编程的回忆――Jeff Dean 的编译启蒙书](http://news.51cto.com/art/202104/654982.htm)
+ > 刚刚，2020年图灵奖揭晓！影响了数代人的「龙书」作者――阿尔佛雷德・艾侯 (Alfred Aho)和杰弗里・戴维・
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -63,20 +77,20 @@ categories: IT NEWS
  > 
  ## [这篇不讨好任何人的回忆录，记录了我从双非学校到BAT/TMD六offer的原因](https://blog.csdn.net/hebtu666/article/details/115355061)
  > 这篇不讨好任何人的回忆录，记录了我从双非学校到BAT/TMD六offer的原因
- ## [大厂Offer收割机：Netty优雅的网络写设计之连坏4问](https://blog.csdn.net/prestigeding/article/details/115314509)
- > 大厂Offer收割机：Netty优雅的网络写设计之连坏4问
- ## [JavaScript脚本语⾔&基础语法&笔记总结](https://blog.csdn.net/JontyLi/article/details/109635117)
- > JavaScript脚本语⾔&amp;基础语法&amp;笔记总结
- ## [\[记录一\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目训练](https://blog.csdn.net/gitchatxiaomi/article/details/108098130)
- > \[记录一\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目训练
- ## [VSCode插件大全｜VSCode高级玩家之第二篇](https://blog.csdn.net/TriDiamond6/article/details/105604427)
+ ## [Java 基础高频面试题（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115364158)
  > 
- ## [Unity 背包系统的完整实现（基于MVC框架思想）](https://blog.csdn.net/xinzhilinger/article/details/113696369)
- > Unity 背包系统的完整实现（基于MVC框架思想）
- ## [学JDBC，这一篇就够了](https://blog.csdn.net/qq_43674132/article/details/95171884)
- > 学JDBC，这一篇就够了
- ## [Python3从零开始搭建一个语音对话机器人](https://blog.csdn.net/NIeson2012/article/details/96476878)
- > Python3从零开始搭建一个语音对话机器人
+ ## [C/C++描述 第十一届蓝桥杯省赛 C/C++ 大学B组 第一场(2020.7.5) 试题  题目+题解](https://blog.csdn.net/qq_43422111/article/details/107208904)
+ > 
+ ## [JS的100道经典面试题（一）只看这四篇就够了，收藏起来以后偷偷看](https://blog.csdn.net/qq_43291759/article/details/109746828)
+ > JS的100道经典面试题（一）只看这四篇就够了，收藏起来以后偷偷看
+ ## [Dom树 CSS树 渲染树(render树) 规则、原理](https://blog.csdn.net/weixin_45820444/article/details/109013996)
+ > Dom树 CSS树 渲染树(render树) 规则、原理
+ ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
+ > 一文看懂YOLO v3
+ ## [啥?十大排序算法，来这看看-基本思想+动画演示+C语言实现](https://blog.csdn.net/weixin_45761327/article/details/105908057)
+ > 
+ ## [关于Visual Studio 2019安装时VS installer无法下载文件，进度条为0，显示网络有问题的解决办法](https://blog.csdn.net/qq_43085848/article/details/109901050)
+ > 关于Visual Studio 2019安装时VS installer无法下载文件，进度条为0，显示网络有问题的解决办法
  ## [终于知道为啥网页不让我复制粘贴了！](https://blog.csdn.net/devcloud/article/details/115167819)
  > 终于知道为啥网页不让我复制粘贴了！
  ## [每天自学两小时Python，三个月学通月入20K](https://blog.csdn.net/bobin666/article/details/115306426)
@@ -88,35 +102,39 @@ categories: IT NEWS
 # 人工智能 
  ## [漫谈socket-io的基本原理](https://blog.csdn.net/u010349169/article/details/115107507)
  > 漫谈socket-io的基本原理
- ## [JDK 16 对 ZGC 的增强](https://blog.csdn.net/weixin_45583158/article/details/115191620)
- > JDK 16 对 ZGC 的增强
  ## [程序员如何高效阅读源码(视频版)](https://blog.csdn.net/prestigeding/article/details/115290252)
  > 程序员如何高效阅读源码(视频版)
  ## [Python函数的参数类型和使用技巧](https://blog.csdn.net/xufive/article/details/115298728)
  > Python函数的参数类型和使用技巧
  ## [OpenCV-Python图形图像处理：制作雪花飘落特效](https://blog.csdn.net/LaoYuanPython/article/details/115298737)
  > 
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [从苏宁电器到卡巴斯基（第二部）第05篇：我在卡巴的日子 V](https://blog.csdn.net/ioio_jy/article/details/115307755)
  > 从苏宁电器到卡巴斯基（第二部）第05篇：我在卡巴的日子 V
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [三机齐发！五大全球首发的“安卓机皇”4999元起，“安卓之光” 5999元起](https://blog.csdn.net/csdnnews/article/details/115314669)
  > 三机齐发！五大全球首发的“安卓机皇”4999元起，“安卓之光” 5999元起
  ## [2020 年前端技术发展盘点](https://blog.csdn.net/TriDiamond6/article/details/115316583)
  > 2020 年前端技术发展盘点
- ## [Python快速构建神经网络](https://blog.csdn.net/ZackSock/article/details/115292795)
- > Python快速构建神经网络
+ ## [Vue 3 生命周期完整指南](https://blog.csdn.net/qq449245884/article/details/115341203)
+ > Vue 3 生命周期完整指南
+ ## [图灵奖今日出炉，“龙书” 作者、编程语言大佬 Alfred Aho 和 Jeffrey Ullman 获奖](https://blog.csdn.net/AMiner2006/article/details/115357101)
+ > 图灵奖今日出炉，“龙书” 作者、编程语言大佬 Alfred Aho 和 Jeffrey Ullman 获奖
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [新手小白入门编程第1讲 计算机基础知识 JAVA基础知识](https://blog.csdn.net/weixin_43884234/article/details/115343616)
+ > 新手小白入门编程第1讲 计算机基础知识 JAVA基础知识
+ ## [C语言毕业啦！！！（内附超详细知识框架图）](https://blog.csdn.net/chenlong_cxy/article/details/115350810)
+ > C语言毕业啦！！！（内附超详细知识框架图）
+ ## [\[Python人工智能\] 二十九.什么是生成对抗网络GAN？基础原理和代码普及(1)](https://blog.csdn.net/Eastmount/article/details/115256149)
+ > \[Python人工智能\] 二十九.什么是生成对抗网络GAN？基础原理和代码普及(1)
  ## [河海哥上岸了，HoHai University 专硕，电子信息。](https://blog.csdn.net/qq_41376740/article/details/115317478)
  > 河海哥上岸了，HoHai University 专硕，电子信息。
- ## [吴恩达机器学习课程作业（一）基于python实现 详细解析](https://blog.csdn.net/cc512613/article/details/115309287)
- > 吴恩达机器学习课程作业（一）基于python实现 详细解析
- ## [看完这篇博客，Python Django 你就学会一半了](https://blog.csdn.net/hihell/article/details/115284224)
- > 看完这篇博客，Python Django 你就学会一半了
- ## [批量梯度下降法(BGD)拟合曲线——Python实现](https://blog.csdn.net/Twilightzsj/article/details/115326848)
- > 批量梯度下降法(BGD)拟合曲线——Python实现
 # PM 
+ ## [马老师一分钟谈数字化：数据中台是数字化转型最高效的承载方式](http://www.chanpin100.com/article/114290)
+ > （之所以说）数据中台驱动数字化转型，是因为（企业）转型落地的话，需要一个平台承载它，这只是一种承载的方式。
+ ## [「话题」为什么微信红包不能撤回、语音不能转发？](http://www.chanpin100.com/article/114337)
+ > 微信红包为什么不能撤回？微信为什么坚持把“通讯录”作为四大主页面之一？新版本的微信在添加好友和接受好用添加时，为什么强制用户选择朋友权限：朋友圈、仅聊天？在微信，文字图片视频都能转发，为什么偏偏语音不能转发？好友QQ空间的动态，可以看到陌生人的评论，好友微信朋友圈却看不到陌生人的评论。怎么看待这两个
  ## [产品运营面试之你为什么选择我们公司的运营岗位？](http://www.chanpin100.com/article/114332)
  > 今天给大家分享的产品运营面试题是，你为什么会选择我们公司的运营岗位？下面请看本文的介绍，希望能为正打算参加面试的同学提供一个回答的思路。
  ## [产品运营面试之你认为什么是运营？](http://www.chanpin100.com/article/114331)
@@ -151,9 +169,5 @@ categories: IT NEWS
  > 前段时间，在朋友圈看到有人发免费领纸的活动。当然，直觉告诉我，这要么是骗子，要么就是哪家的拉新活动。
  ## [口才培训机构如何入局在线教育？](http://www.chanpin100.com/article/114272)
  > 随着经济的不断发展及国家政策的支持，我国口才培训行业近年来得到长足的发展，2011年我国口才培训人数约401万人，到2017年达到了1315万人，近几年口才培训人数情况如下图所示：
- ## [一篇文章介绍清楚“什么是增长黑客”](http://www.chanpin100.com/article/114318)
- > 在移动互联网红利期结束的大背景下，增长黑客作为一种从硅谷传来的方法论备受重视。这是一份增长黑客入门的介绍，带你了解硅谷主流的增长黑客工作方法，和增长团队的常见分工。
- ## [【产品运营免费公开课】金三银四涨薪季 如何顺势进大厂](http://www.chanpin100.com/article/114317)
- > 2021年金三银四涨薪季已经来到，那么该如何借助这股势头进大厂拿高薪呢？本期免费公开课请来了栀枝微课CEO类类老师为大家深度剖析，助你提升核心竞争力，冲击大拿拿高薪offer。有兴趣的小伙伴记得报名哦！
 
     
