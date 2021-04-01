@@ -1,37 +1,51 @@
 ---
 title: 2021-04-01 IT News
 copyright: true
-date: 2021-04-01 12:02:51
+date: 2021-04-01 17:01:20
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [通过身份程序满足数据隐私法规合规性的3个步骤](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=fra1tWeIMVMKbAOTrOORre67hFRYc*S1x5AoGaKj3gBryhrUFNyuYrv2AiI*tA8hs6S*EZOassilx*coZjx1A4i52RYFCPVnpSXpUsWT8dOJ8FMl4Ebxn8hTXQs8wNrl&new=1)
+ ## [冬奥测试活动打响，这十支团队全力保障通信](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=LDJoMknX7KqSajaJE5ekmlM58pw1Zt1NDYHJPk9Z-W5G1SBQ7S6Iy6mEeYfKGiMeNbIrdt9ScsQDNyXaPUR*YY1TWXk-qrPq78YM7EJpfpE=&new=1)
+ > 4月1日起，北京冬奥会的冰上项目测试活动正式打响。当日中国联通冬奥运行保障统筹组披露，十支中国联通保障团队同日已投入冬奥会冰上测试活动的通信保障工作。这次的赛期为10天，报名参加本次冰上项目测试活动的...
+ ## [华为业绩创历史新高背后](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=DQzsH3iceTc6SvGsfWKOVvSscgLFie*cw8zk8cWeBdOGPcVSjVuEh3*pDwFnBw2Plu9cyTyHa7*iUDFTAEl8TYiH1zeEGkqc8ByHdlMqm7xunOaRQHf*ktQUf6T-eag5&new=1)
+ > 去年，我们报道过华为被美国列入实体清单后，面对巨大的困难。尽管当时他们仍然取得亮眼的业绩，但当时美国蕴酿着要进一步制裁，华为即将面对更大的困境。因此，当时华为轮值董事长徐直军，在发布会接受传媒采访...
+ ## [数字转型时代，没有谁可以唱独角戏](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=zrfBBir0sJA2KDIWbNnmpH60hxWzKZ-okWD0CAgL*eNR*aPXIBcj8v4DmRCuJok*zmcKGE45ALtrlc4Z73m9Ngn4*UKnpDLAFXKfSjpAtUUKjJBvwudcNQR3ip0EvIwn&new=1)
+ > 通过智慧城轨，一图管控400多个工地安全，隐患识别率提升超过30%，日常巡检工作量减少35%；通过智慧港口，港口提高10%到20%的装卸能力……透过华为2020年年报，人们看到华为与253家世界500强企业、全球700多个城...
+ ## [年收入达8914亿元 华为“活下来”背后是对未来的焦虑|风眼深度](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=6uurejSFgED*FpPww0H8cp7mPu0L5*Ar-762SuGveSEGRzj0DCrLFZsucTNWnPD4SXwHUem0XL7zVxfk*SN6R9MAO96ihoPLxnSABVpOv*oDAIWGXD75UEV94qKwmQTE&new=1)
+ > 出品 《风眼》深度报道组 凤凰网科技 凤凰新闻客户端 作者 | 徐硕编辑 | 孔祥明微信编辑 孟莎莎导语：在美国的打压下，华为三大核心业务增速放缓，海外业务全面下滑，新的利润增长点在哪？ “2020年是华为最为艰...
+ ## [将 Linux 移植到 M1 Mac 真的太难了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=sGlpQDqp8QJxyxKAbqL1U1bc47b52wHYcucVHSBQSJ78*nCFmBc6ONulaAw7M7t6XEuip2tIkFiWjHoYkVP73T*ZYIj1kyodPU3btaXlxy*Pl2vOPSr2kq5O-CEuEfLu&new=1)
+ > 【CSDN 编者按】自去年苹果自研 M1 芯片发布之后，激发了无数用户的体验热情，与此同时，也吸引大批开发者在 M1 上开启探索模式。其中，国外一位资深操作系统移植专家 Hector Martin 发起了一项名为「Asahi Linu...
+ ## [华为发布2020年度财报|轮值董事长胡厚崑：地缘政治带来的不确定性，必将是常态化的挑战!](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=ehbd1YpBW16hpu1O*xlEdN9CFIk-egOO2AUuqPjPb11kN2f4bv15VRokyVuubcqtIRGjdEVFJ2TR6iu4YOARYKNa1juURvo1XpmXD9cGeoLvOykGaBI6E62d5pu*tzXF&new=1)
+ > 【摘要】华为业绩增长速度放缓，但基本实现了经营预期。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：蓝血研究本文来源：蓝血研究（lanxueyanjiu），第一财经杂谈投稿邮箱：631255063@qq.com3月31日下
+ ## [如何通过广泛、集成和自动化的网络安全保护所有边缘设备](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=dNmRyGgdu8iakss9GFRagokaRJg0m2AcN8mT6-GsMyGklVzU5xj6IDYzXroTE6ybkyz3Wtvb8jy4JJ6bEKXsUHluHEHhCUJD12LNU5RmQUtztXTdTwBkmOcViwqYnpZc&new=1)
+ > 关键讯息，D1时间送达！通过将安全性和网络结合在一起，安全性不再充当叠加层。与其相反，需要了解网络功能，可以动态调整配置、策略和协议，以确保持续的保护和一致的实施。许多组织都在朝着平台方法迈进，但是...
+ ## [工业互联 智造未来|联通物联网荣获江苏省工业互联网发展示范企业(工业互联网平台类)称号](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=6l4YL9XI8tjfmuQ30wrLvSE2G9h5f1*VclubuEGC7jmGYl1lf*V8HYYGgH9wqQwt6DJabts7xQFumXvK0kJdHzcIHOD3h49JpbKZzqpYWL5x2J8QFXYqJduf5wqUVypZ&new=1)
+ > 2021年3月24日，由江苏省工业和信息化厅、苏州市人民政府指导的2021年长三角数字化转型大会在苏州召开。工信部信息技术发展司两化融合推进处处长冯伟、江苏省工业和信息化厅副厅长胡学同、浙江省经济和信息化厅...
+ ## [Arm发布全新Armv9指令集 可不受美国约束授权华为使用](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=JM*FrqBw*JKO27mf0x-Wyt58jnvf9Y3ASOFwdrI7EhNlCq7qdIJZDSvqbheawGBSuhRJbBRFZavrt86EIPwyXb3DLM2nJa9ogZTjos6gA44=&new=1)
+ > 经济观察网 沈建缘 实习记者 张迅之/文 3月31日，Arm在Arm visions day上宣布推出Arm®v9架构，以满足全球对功能日益强大的安全、人工智能（AI）和专用处理的需求。Armv9 架构有三个侧重点，分别是 AI、矢量和 D
+ ## [通过身份程序满足数据隐私法规合规性的3个步骤](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=fra1tWeIMVMKbAOTrOORre67hFRYc*S1x5AoGaKj3gAe1KfkbNl9gb76bIwBxzS6nyN1lvgceZxl91BjYIb5zk*u4JkTid1Hr9u-pJoBUubEOnp4vLAvSfvVUMFCgs9z&new=1)
  > E安全3月31日讯  在过去的几个月中，SolarWinds和Exchange的攻击强化了网络安全是一项关键业务功能。因此，PWC最近的一份报告发现，55％的企业高管计划在2021年增加其网络安全预算，而51％的企业计划在一年内增...
- ## [芯片荒?全球半导体产业网络安全一地鸡毛](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=eEw2PBoPuk5PSG*4lHBIvACbW44DepclRCNTj2*5WDXNHRt5*Eu6ObHKEpRqP3uuLVhIM*sTdQMT6eXbxOfXZANSYwzdjh2QD-Shon*lAOsSH3FmOAJuPJYyYwT-xTwW&new=1)
- > 苏伊士运河的“堵船”疏通了，但肆虐全球数月的芯片荒却没有任何缓解的迹象，相反，还从汽车行业蔓延到智能手机甚至家电行业，甚至高端抽油烟机这样的白色家电的生产都受到影响。疫情一方面导致半导体产能降低，...
- ## [淘宝特价版招聘：年薪50万，35岁以上优先；1900万：一线城市财富自由的入门级门槛；鸿蒙OS成武汉大学专业选修课|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=sGlpQDqp8QJxyxKAbqL1U1bc47b52wHYcucVHSBQSJ6zYhRov9Fv0uwQzvuWFBCR5X8ijSAvLot8C8k4KSmekHbrpxqegWUGhgVjA82B3LxewiuIyAT2sRJJm0EYJskw&new=1)
- > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！华为：20...
- ## [\[报告\]2021汽车芯片行业深度研究(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=2ZiLowN-cARGeYGEGzRTWFsEKJZLdErhuNhD2puZ-XvPfllgq3ZQTXmVqicgjJPgy6YygZiSkTiN91PWNoVnEuWaVIv8T4Wk45MXPq6dw2T3cB78zr5JgFBrgyiF0vnC&new=1)
+ ## [\[报告\]2021汽车芯片行业深度研究(附44页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=2ZiLowN-cARGeYGEGzRTWFsEKJZLdErhuNhD2puZ-Xt2wzs2XX1dJjB28czZuR3hwriBQK3TUCy0pHC7k-lmKwa6nVX-S7vGrTJOMTXqNjqvX8j-xOt2NneqvFX1B3Eq&new=1)
  > 未来汽车的终局，是实现自动驾驶的智能终端。自动驾驶将成为科技巨头竞争角逐的技术浪潮，而汽车芯片，特别是自动驾驶芯片，将处于自动驾驶技术浪潮的制高点。自动驾驶的实现，将依赖汽车的感知层、决策层和执行...
- ## [规划30台工业3D打印机力挺河南，实地探访“中部增材制造创新中心”](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=*eI56Lhl2G4Xx9QRl86D-AHrNxYq9N8yFRBUvoehzoBWQh-eR-Y9YQQpkKOcWECdXuD4teOP7u26qruasP1-iMrZBv2ldJYAuhN74PO-cL2MINqOUoi61BJfmMAXZu1c&new=1)
+ ## [杭州人工智能技术应用再下一城 国家级人工智能创新应用先导区揭牌](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=JM*FrqBw*JKO27mf0x-Wyt58jnvf9Y3ASOFwdrI7EhMXEKejpyF*EeRPSrSUJs8N9*zkeB1P6u8qKq7SA45EocG25rb152RI3oZxgX3gzWg=&new=1)
+ > 经济观察网 记者 陈姗 人工智能在智慧城市、数字企业两大领域如何落地应用？如何让人工智能技术与实体经济，特别是与中国制造深度融合？3月30日，在“智涌钱塘”2021 AI Cloud生态大会上，杭州国家人工智能创新...
+ ## [芯片荒?全球半导体产业网络安全一地鸡毛](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=eEw2PBoPuk5PSG*4lHBIvACbW44DepclRCNTj2*5WDVnv3SH99kILMUbRXn8Pm3x0igpCd6G7WpcJ42pvDACtH7QYXgCnnmhHwPcGirpTyOyqanH4M4nN5D4PPLCn-5d&new=1)
+ > 苏伊士运河的“堵船”疏通了，但肆虐全球数月的芯片荒却没有任何缓解的迹象，相反，还从汽车行业蔓延到智能手机甚至家电行业，甚至高端抽油烟机这样的白色家电的生产都受到影响。疫情一方面导致半导体产能降低，...
+ ## [淘宝特价版招聘：年薪50万，35岁以上优先；1900万：一线城市财富自由的入门级门槛；鸿蒙OS成武汉大学专业选修课|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=sGlpQDqp8QJxyxKAbqL1U1bc47b52wHYcucVHSBQSJ4hufR228Y9EpHenPcUy21fecFGtjqklwlsjUI48x7kgpWlqpSAcbGrp8L6qGCAm4V1KDbX*rEdlxusvnqDSrW6&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 丁恩华出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！华为：20...
+ ## [规划30台工业3D打印机力挺河南，实地探访“中部增材制造创新中心”](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=*eI56Lhl2G4Xx9QRl86D-AHrNxYq9N8yFRBUvoehzoBxE*0sMm5ZfqAKZr3xV2CKZ4nc5JTKeMB6ZYmjx40ay4fWuGn1r7MyyLuCJZg6mkeU5H7P*irtY-iKzaZ*F4ep&new=1)
  > △陶瓷3D打印相关展会推荐南极熊导读：近几年，国内的3D打印产业发展迅速，成为航空航天、医疗、工业、手板等行业的创新利器。然而，3D打印产业在各个区域的发展并不均衡，主要集中在华东和华南市场，而中部地区...
- ## [华为2020年研发投入超过BATJ总和](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=HBrVIVOUhtN7HlhRQ2ViN8QM7lZpNoUEYfTZUUsYIRC6dW2xXuSyrrecWaa37AGfoyJwbCPd3Kk7*jsTn1jgMhd04K*h-XEdr8x9KDfbuHA=&new=1)
+ ## [华为2020年研发投入超过BATJ总和](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=HBrVIVOUhtN7HlhRQ2ViN8QM7lZpNoUEYfTZUUsYIRD7qqYHJVdtx0JNkdff05hI9-nIbszO3St8vOKKxTVvk9PDTpGtwo4h3AlWyquzwb0=&new=1)
  > 在前所未有的外部挑战下，华为2020年营收和盈利双双实现正增长，表现出极强的韧性。3月31日，华为发布2020年度业绩报告，实现销售收入8914亿元，同比增长3.8%；净利润646亿元，同比增长3.2%。华为轮值董事长...
- ## [经开区一季度 引进六个新基建项目](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=GUEImPK*a7EvpEJO7-jVRpX2MUR3qF*KBBVbqyKZZecdIO6bVEeG98Yk6rokuf6jwKneHDmq92MzArbatn3vRadgfOKOIGfSB2ZL9pwpUm4=&new=1)
+ ## [经开区一季度 引进六个新基建项目](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=GUEImPK*a7EvpEJO7-jVRpX2MUR3qF*KBBVbqyKZZed1irnbg5aUP-1r8zaVYDyIzjGjCD0jeKUmmOM2pIpWFftVJm30bWojhhhSV9qWq-8=&new=1)
  > 本报讯 3月31日，记者从经开区获悉，一季度，经开区大力开展招商引资，引进6个新基建项目，涉及城市智能服务、智能设备制造、大数据安全等领域。　　6个新基建项目包括：贵州随身译智能科技有限公司的未来城...
- ## [贾跃亭发twitter称将与小米联合造车；华为宣布加入造车阵营|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=ytFyhF1QoQsAnoZ3DWsjhGwMQXAknbhC0q8u9ufXgSzkqRwxfBi2ylrKSOBkTl8YuSKGHI66Nzl0*zOkOKvzTKXNbcN2CZdFjJtjLeHq1cKhI0qhJWg1hnlsgm*yqst4&new=1)
+ ## [贾跃亭发twitter称将与小米联合造车；华为宣布加入造车阵营|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=ytFyhF1QoQsAnoZ3DWsjhGwMQXAknbhC0q8u9ufXgSx4yNS5xVcJg2x5KFnIL55oohhBIqiNUhVZ9Q*gF93yNAfEcqZgcZQRCaBHGXwag9-PkbrQy4AF9nUHxu7keHNu&new=1)
  > 图 / IC photoHello，大家愚人节快乐，又是元气满满的一天，先来浏览新鲜的早报吧～【贾跃亭发twitter称与小米联合造车；五月初确定回国】今日早间，贾跃亭在其twitter上宣布将于五月初回国，并与小米联合继续造...
- ## [硬核华为!去年狂砸1418亿搞研发，净利646亿≈1.37个茅台，对鸿蒙、汽车、养猪等都有回应](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=050j4rgIHPpb-xv*NhAs9*eAYavdlItulYNz32wkbDXFedH3Ro9WvkIA*E3Ifcm*0qkiekqxSk5QBdaKXzTyaUsX3kjMd1U8CsNcfr04DmrQaRYMsHgfBn-i6gQNjpMh&new=1)
+ ## [硬核华为!去年狂砸1418亿搞研发，净利646亿≈1.37个茅台，对鸿蒙、汽车、养猪等都有回应](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=050j4rgIHPpb-xv*NhAs9*eAYavdlItulYNz32wkbDUyRTVNkNobj0TR9D4PesuFrmEg-xbsyhFdUspx65OBEJTOTJfPecsGGf05psEQMpEDt6lrHNgIaiMtYz6B39f0&new=1)
  > 在新冠疫情和美国制裁的重重压力下，华为依旧交出了一份稳健的答卷。3月31日下午，华为正式出炉2020年业绩报告。报告显示，业绩增长基本实现了经营预期，其中销售收入8914亿元人民币，同比增长3.8%，净利润646亿...
- ## [发力“双千兆”，中国移动专家为何强调5G半有源前传?](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=GsSom-qV7SptYh4p4ZsPaspe1eWIna61J7BDGD0L*Bi55LU8CWzwHShqeYwasGc0TobYfo3cD1S0Gve1F8wHdjBFNC6wvKkJHdsl5mo3*EMhbSg6rH8GepbFu3BD9AMw&new=1)
+ ## [发力“双千兆”，中国移动专家为何强调5G半有源前传?](http://mp.weixin.qq.com/s?src=11&timestamp=1617267602&ver=2981&signature=GsSom-qV7SptYh4p4ZsPaspe1eWIna61J7BDGD0L*BgXFJmQRmwFM5qxacNN-y-TLXZrvKLoLTih5K7PdWeSBZCEL2YlBozJ9djEBxLttT4Eh36zZZ7BOxStZUicdByl&new=1)
  > “5G商用，承载先行”成为行业共识。在5G基站建设中，一张高质量的承载网络是“5G改变社会”的有力支撑。工信部3月24日印发的《“双千兆”网络协同发展行动计划（2021-2023年）》，要求5G和光宽能向单个用户提供...
- ## [中国移动撇除虚假5G用户，或是导致5G用户增速放缓的原因](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=taTKwFXHdcOzt9YRSJhhxs8sBss7Y8C3JLnHsO86QWSCSl0LuKbchvo9Kf6DP9bkPqJFSej2ABJwAd99ylTsb1Co8WJdVP*gQNPdn3716IGDKW1*TAz09ZdE69*v1fjw&new=1)
- > 三大运营商均公布了2月份的5G用户净增数，中国移动的净增5G用户数最少，这让人怀疑这家中国最大的运营商是否还能在5G时代保持绝对领先优势，不过如果仔细分析或许事实并非如此。由于各方的压力，2020年三大运营...
- ## [10年来最重要创新 ARM发布AMRv9指令集：IPC性能大涨30%](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=anoMO8WT-Qnc-M32fSmHL*L2-lnViHqfy8*IXUHl07qR87I7TsYZbhgTU1tENeGdd2quA97I-p998lJRRV7DbY3yFoJokJQTWrknri3Vw4Ba3UHon1HYRsYySxGDRVGe&new=1)
- > 来源：快科技今天凌晨，ARM正式推出了ARMv9指令集，官方称之为10年来最重要的创新，将是未来3000亿ARM芯片的基础。包括目前性能最强的Cortex-X1/A78在内，现在所用的ARM芯片还是基于ARMv8.x指令集的，2011年首次
- ## [2021 WWDC，6 月 8 日举行，Glasses?](http://mp.weixin.qq.com/s?src=11&timestamp=1617249602&ver=2981&signature=MjUqJEHsffT8Y65CJjcRHvu7jtJH5IC8H08CEYNFkHi3o5CbVTrbGo5uroNS7J85l**vbglZmJUmziFglzgzuH87GuphXwP3U41G*3CSlZbH7Cy6t2IdTztkPAjAzyLR&new=1)
- > 苹果今天确认，第三十二届全球开发者大会 WWDC 将于 6 月 7 日至 11 日（北京时间 6 月 8 日至 12 日）举行，并再度采用完全在线形式。WWDC21 免费向所有开发者开放，将为 iOS、iPadOS、macOS、watchO
 # IT 技术 
  ## [5大Web应用安全威胁与7大防护措施](http://netsecurity.51cto.com/art/202104/654891.htm)
  > 5大Web应用安全威胁与7大防护措施
@@ -41,64 +55,34 @@ categories: IT NEWS
  > 用Ansible自动化系统管理员的五个日常任务
  ## [如何清空DNS缓存以提升Windows 10的网络性能？](http://os.51cto.com/art/202104/654890.htm)
  > 如何清空DNS缓存以提升Windows 10的网络性能？
+ ## [无需手工设计，从零开始搜索损失函数](http://news.51cto.com/art/202103/654786.htm)
+ > 无需手工设计，从零开始搜索损失函数
  ## [还在惊讶3D打印房子？这个半价的3D打印小区都被抢空了](http://news.51cto.com/art/202103/654789.htm)
  > 还在惊讶3D打印房子？这个半价的3D打印小区都被抢空了
- ## [10年重大更新！对决英特尔，ARM v9架构正式发布，华为海思还有使用权吗？](http://news.51cto.com/art/202103/654790.htm)
- > 10年重大更新！对决英特尔，ARM v9架构正式发布，华为海思还有使用权吗？
  ## [强大的鸿蒙开发环境 - DevEco Studio 2.1 Beta3发布](http://developer.51cto.com/art/202103/654812.htm)
  > 强大的鸿蒙开发环境 - DevEco Studio 2.1 Beta3发布
- ## [在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程](http://fellow.51cto.com/art/202101/639334.htm?qd=51ctojrzd)
- > 在VMware Workstation虚拟机中安装Mac OS X操作系统视频课程
- ## [鸿蒙内核源码分析(中断概念篇) | 外人眼中权势滔天的当红海公公](http://os.51cto.com/art/202104/654794.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [Linux+Windows: 程序崩溃时，在 C++ 代码中，如何获取函数调用栈信息](http://developer.51cto.com/art/202104/654981.htm)
- > 这篇文章主要讲述在 Linux 和 Windows 这 2 个平台上，如何用C++ 来捕获函数调用栈里的信息。
- ## [Redis 为什么变慢了？一文教你定位与排查分析](http://news.51cto.com/art/202104/654980.htm)
- > 这篇文章我们就来分析一下 Redis 在使用过程中，经常会遇到的延迟问题以及如何定位和分析。
- ## [如何通过广泛、集成和自动化的网络安全保护所有边缘设备](http://netsecurity.51cto.com/art/202104/654978.htm)
- > 边缘设备的激增使当今的网络变得越来越难以保护。网络攻击者正在利用这样一个事实，即许多组织对安全采取的
- ## [一篇带给你MySQL锁机制](http://database.51cto.com/art/202104/654977.htm)
- > 锁按照锁粒度分为：全局锁、表锁和行锁。行锁是引擎层的实现，我们文中描述的行锁都是基于InnoDB存储引擎的
- ## [Java基础入门知识之交换变量和String类初始化](http://developer.51cto.com/art/202104/654966.htm)
- > 本文主要介绍了变量交换、String类初始化、字符串的基本操作。变量交换详解介绍了两个变量是如何交换的，通
- ## [一张“纸条”就能骗过AI，OpenAI最先进的视觉模型就这？](http://news.51cto.com/art/202104/654973.htm)
- > 通过关键词理解描绘出一张新图像对于人类来讲可能不是什么难事，但对于AI来讲，则需要它具有极高的视觉识别
- ## [专家：推动5G应用创新恰逢其时](http://network.51cto.com/art/202104/654963.htm)
- > 当前，加快5G网络建设是适合国家、经济社会和产业发展需求的。当然，这并不意味着5G网络建设就是要盲目地大
- ## [下一代的模板引擎：lit-html](http://developer.51cto.com/art/202104/654933.htm)
- > 今天来看看基于这个原生技术，Google 二次封存的框架 lit-html。今天会重点介绍  lit-html 的用法以及优势
- ## [哭了！2020图灵奖颁给编程的回忆――Jeff Dean 的编译启蒙书](http://news.51cto.com/art/202104/654982.htm)
- > 刚刚，2020年图灵奖揭晓！影响了数代人的「龙书」作者――阿尔佛雷德・艾侯 (Alfred Aho)和杰弗里・戴维・
- ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
- > 半小时一篇文过完C语言基础知识点
- ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
- > 
- ## [高效使用CSDN的新方式](https://blog.csdn.net/weixin_44463441/article/details/113615053)
- > 
- ## [这篇不讨好任何人的回忆录，记录了我从双非学校到BAT/TMD六offer的原因](https://blog.csdn.net/hebtu666/article/details/115355061)
- > 这篇不讨好任何人的回忆录，记录了我从双非学校到BAT/TMD六offer的原因
- ## [Java 基础高频面试题（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115364158)
- > 
- ## [C/C++描述 第十一届蓝桥杯省赛 C/C++ 大学B组 第一场(2020.7.5) 试题  题目+题解](https://blog.csdn.net/qq_43422111/article/details/107208904)
- > 
- ## [JS的100道经典面试题（一）只看这四篇就够了，收藏起来以后偷偷看](https://blog.csdn.net/qq_43291759/article/details/109746828)
- > JS的100道经典面试题（一）只看这四篇就够了，收藏起来以后偷偷看
- ## [Dom树 CSS树 渲染树(render树) 规则、原理](https://blog.csdn.net/weixin_45820444/article/details/109013996)
- > Dom树 CSS树 渲染树(render树) 规则、原理
- ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
- > 一文看懂YOLO v3
- ## [啥?十大排序算法，来这看看-基本思想+动画演示+C语言实现](https://blog.csdn.net/weixin_45761327/article/details/105908057)
- > 
- ## [关于Visual Studio 2019安装时VS installer无法下载文件，进度条为0，显示网络有问题的解决办法](https://blog.csdn.net/qq_43085848/article/details/109901050)
- > 关于Visual Studio 2019安装时VS installer无法下载文件，进度条为0，显示网络有问题的解决办法
- ## [终于知道为啥网页不让我复制粘贴了！](https://blog.csdn.net/devcloud/article/details/115167819)
- > 终于知道为啥网页不让我复制粘贴了！
- ## [每天自学两小时Python，三个月学通月入20K](https://blog.csdn.net/bobin666/article/details/115306426)
- > 每天自学两小时Python，三个月学通月入20K
- ## [一个爬虫代码价值 7000 万](https://blog.csdn.net/qq_33570092/article/details/115154075)
- > 一个爬虫代码价值 7000 万
- ## [Java程序员都要懂得知识点：反射](https://blog.csdn.net/devcloud/article/details/115294908)
- > Java程序员都要懂得知识点：反射
+ ## [渗透测试工程师――WiFi攻防视频课程](http://fellow.51cto.com/art/202012/635042.htm?qd=51ctojrzd)
+ > 渗透测试工程师――WiFi攻防视频课程
+ ## [2020年全球数据泄漏超过去15年总和](http://zhuanlan.51cto.com/art/202104/655081.htm)
+ > 根据Canalys的最新报告“网络安全的下一步”，2020年数据泄露呈现爆炸式增长，短短12个月内泄露的记录比过
+ ## [真正的5G年：它对云技术意味着什么](http://network.51cto.com/art/202104/655080.htm)
+ > 随着5G基础设施的部署和云计算资源向网络边缘延伸，云基础设施与通信网络的融合和融合日益加剧，这一趋势很
+ ## [怎样写出可读性高的代码？](http://developer.51cto.com/art/202104/655079.htm)
+ > 若要编写思路清晰的代码，第一步就是要将可读性放在第一位。这也意味着势必要降低其他因素的优先级。如果把
+ ## [在macOS中寻找大文件夹](http://os.51cto.com/art/202104/655078.htm)
+ > macOS 最新版的系统已经出来很长一段时间了，我一直想升级，但是一直都没有升级。因为我的硬盘空间不够。
+ ## [2.3万亿美元，拜登公布大基建计划：对标罗斯福新政，特斯拉股票大涨](http://zhuanlan.51cto.com/art/202104/655077.htm)
+ > 当地时间3月31日，美国总统拜登在宾夕法尼亚州匹兹堡发表讲话，宣布了一项数额高达 2.3 万亿美元的基础设施
+ ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
+ > AI加速器通常会简化或删除其他部分，以提高硬件的峰值计算能力，但是却难以解决在内存和通信上的难题。
+ ## [云原生安全形势越来越严峻，2020年全球云安全威胁榜单解读](http://cloud.51cto.com/art/202104/655071.htm)
+ > Hackmageddon统计了2020年云安全威胁数据，从这些数据可以看出黑客对云服务的恶意利用和攻击频率越来越高，
+ ## [物联网部署的六大必备要素](http://iot.51cto.com/art/202104/655067.htm)
+ > 并非所有物联网设备都是“智能”的。实际上，有很多只是便宜的单用途设备，它们位于网络的边缘，并通过网关
+ ## [在识别细胞结构上，AI做到了人类不能做的事情](http://news.51cto.com/art/202104/655072.htm)
+ > 在识别细胞结构的过程中，深度学习发挥了重要作用。2017 年，该团队提出利用深度学习来识别未标记细胞明视
+ ## [虚拟现实(VR)和增强现实(AR)面临的五大挑战](http://mobile.51cto.com/ahot-655064.htm)
+ > 尽管近年来取得了进步，但是虚拟现实（Virtual Reality）和增强现实（Augmented Reality）面临的挑战仍然存
 # 人工智能 
  ## [漫谈socket-io的基本原理](https://blog.csdn.net/u010349169/article/details/115107507)
  > 漫谈socket-io的基本原理
@@ -131,6 +115,34 @@ categories: IT NEWS
  ## [河海哥上岸了，HoHai University 专硕，电子信息。](https://blog.csdn.net/qq_41376740/article/details/115317478)
  > 河海哥上岸了，HoHai University 专硕，电子信息。
 # PM 
+ ## [抽奖活动(iOS+Android+H5+后台)](http://www.chanpin100.com/article/114309)
+ > 一个转盘抽奖活动，包括App端、web端，以及后台管理平台。可以满足绝大部分的抽奖活动设计。App和web端：抽奖、分享、活动声明和规则等
+ ## [产品经理如何跳出画图工具人](http://www.chanpin100.com/article/114345)
+ > 不知不觉已经工作快10年了，这些年下来我接触过很多产品同学，但是在我接触下来却发现整个产品群体的从业者工作水平参差不齐，甚至有很多产品同学工作了四五年还是处于一个初级阶段。
+ ## [积分商城（产品管理+App+H5+运营后台+基础统计+财务结算）](http://www.chanpin100.com/article/114308)
+ > 积分商城（产品管理 + App + H5 + 运营后台 + 基础统计 + 财务结算）
+ ## [SaaS订阅模式的本质](http://www.chanpin100.com/article/114347)
+ > 许多公司正在从永久许可模式转向基于订阅的许可模式。这种定价模式对消费者和企业是双赢的。它允许消费者使用他们以前负担不起的软件，并允许企业专注于更有效的增量开发，并可能在更长的时间内获得更多的资金。
+ ## [【每周一问】如何写好产品白皮书？](http://www.chanpin100.com/article/114346)
+ > 产品白皮书，本质上来说是一份产品出品方正式的产品介绍性文档，但在现实中，对多数“互联网产品经理”来说，输出这份文档机会并不多。
+ ## [产品经理基本功系列（三）：如何利用好数据](http://www.chanpin100.com/article/114344)
+ > 上篇文章给大家分享了产品设计相关的基本功，产品设计完成后紧接着就需要设计、开发、测试相关人员支持落地上线。除此之外，产品经理平时还需持续关注业务的数据情况，避免出现异常，或者寻找业务增长点。利用数据的场景太多了，那么产品经理该如何利用好数据呢？
+ ## [莱克立式吸尘器将重现iPhone效应？](http://www.chanpin100.com/article/114307)
+ > 互联网时代科技催生变革，变革推动发展。以手机市场为例，2014年iPhone 4横空出世，当时可谓红极一时，几乎没有任何一款手机可与之相媲美，诺基亚的领头地位也就此被苹果反超。
+ ## [A/B实验 了解一下](http://www.chanpin100.com/article/114343)
+ > A/B实验，是一种验证假设的方法，其核心方法及原理分别是对照实验及假设检验。在实际实验时会从总体抽取部分个体组成样本单位，并从个体实验结果推断总体结果。
+ ## [“3·15”后企业营销要注意这三点才能真正做好私域运营](http://www.chanpin100.com/article/114342)
+ > 在315晚会上，用户隐私信息泄露、虚假广告、弱势群体骗局等消费陷阱和黑暗内幕被揭露。一些商家打着“私域运营”的旗号，实则侵害消费者的权益。如何改变这一现状，2021年我们应该如何进行私域运营呢？
+ ## [2021年中国游戏行业人才供需洞察](http://www.chanpin100.com/article/114302)
+ > 易观分析数据显示，中国游戏研运企业员工规模超过70万人，这使游戏成为了社会就业中的重点行业之一，不仅提供了大量就业岗位，也在培养人才方向作出了巨大贡献。
+ ## [中手游业绩增速夺魁 IP游戏生态持续深化](http://www.chanpin100.com/article/114300)
+ > 2021年3月24日盘后，中手游（0302.HK）发布2020年全年业绩，全年营业收入达到38.20亿元，同比增长25.8%，净利润6.90亿，同比增长183.8%，经调整净利润8.07亿元，同比增长32.1%。
+ ## [未来知识付费平台的价值将越来越大！](http://www.chanpin100.com/article/114298)
+ > 随着移动互联网的普及，知识付费越来越火，人们已经习惯利用碎片时间去进行高效学习。
+ ## [如何搭建在线教育平台](http://www.chanpin100.com/article/114297)
+ > 在互联网时代，教育模式日新月异。今年在受到疫情的冲击下，学校和教培机构开展线下教学困难，一些教育机构不得不从线下转型到线上，在线教育迎来了激烈的争夺战。由此可见对于学校和教培机构来说，搭建一个好的在线教育平台系统尤为重要。
+ ## [知识付费店铺 三招教你内容变现](http://www.chanpin100.com/article/114296)
+ > 随着移动智能设备的普及，人们可以随时随地通过网络获取需要的内容。而不少的知识需要通过付费才能够获取，为了满足学习需求，也有很多人愿意付出这一笔费用。无论你想学什么内容，职场技能、小语种、升学考试、生活常识、理财消费等，都可以通过线上的方式进行学习。
  ## [马老师一分钟谈数字化：数据中台是数字化转型最高效的承载方式](http://www.chanpin100.com/article/114290)
  > （之所以说）数据中台驱动数字化转型，是因为（企业）转型落地的话，需要一个平台承载它，这只是一种承载的方式。
  ## [「话题」为什么微信红包不能撤回、语音不能转发？](http://www.chanpin100.com/article/114337)
@@ -141,33 +153,5 @@ categories: IT NEWS
  > 在当今这个互联网时代，我们一般说运营指的就是互联网公司的产品运营，那么如果在面试中遇到问你你认为什么是运营要如何回答呢？接下来请看本文的内容。
  ## [产品运营面试之你还有什么想了解的？](http://www.chanpin100.com/article/114330)
  > 一般在面试的最后环节，面试官基本上都会问你还有什么想要了解的、还有什么想要问的，对于这个问题应该怎么回答呢？下面请看本文的介绍。
- ## [产品运营面试之你为什么觉得自己适合这个岗位？](http://www.chanpin100.com/article/114329)
- > 要想在面试中给考官留下一个好印象，平时的能力积累是一方面，提前做好面试的准备也是必不可少的。像接下来要给大家分享的面试题，你为什么觉得自己适合产品运营这个岗位，你只要对大致的答题思路有所了解就不至于在面试的时候打怵了。接下来请看本文的具体内容。
- ## [Stratifyd报告解读：大数据之下的定制家居消费体验洞察](http://www.chanpin100.com/article/114287)
- > 专注于非结构化文本评论分析的AI大数据分析公司Stratifyd近期也做了一些研究。Stratifyd采集了几大主流电商平台上消费者关于四大定制家居品牌（下文以A、B、C、D指代）的公开评论信息，从产品、价格、物流、服务多个维度进行了深入分析和对比。
- ## [如何避免水肥一体化过量灌溉？开启智慧管理一个屏幕轻松搞定](http://www.chanpin100.com/article/114285)
- > 我国农业现代化的进程加快。结合着中国土地面积大,但耕地面积比例并不高的实际情况下，更大力推举智能农业，以提高整体的农业产量和改善农业能源消耗量和农业生态环境是符合时代发展的举措。基于 Hightopo 的 3D 数据可视化方案，使得数据可视化在各行各业充满了无限的可能，连接未来，为企业提速猛进。
- ## [B端竞品信息获取那么困难 我们应该如何做竞品分析呢？](http://www.chanpin100.com/article/114282)
- > 痛过了解市场状况以及竞品们的分析细分行业竞争者，了解其定价、销售方式、销售额，核心功能、差异化功能、研发周期等优点缺点，来对症下药，打造自己的产品的差异性，从而赢得市场份额。
- ## [产品运营面试之如果让你负责XXX 你会怎么做？](http://www.chanpin100.com/article/114328)
- > 产品运营在现在的互联网公司中算是不错的一个职位，因为它的薪资还算可观，而且未来的发展前景也很不错，今天小编分享一道产品运营的面试题，希望能对大家面试有所帮助。
- ## [大数据杀熟磨刀霍霍 拒当“韭菜”如何破题算法黑箱？](http://www.chanpin100.com/article/114281)
- > 因在央视315宣传片中重点“露面”，外卖平台大数据杀熟问题又一次成为全网热议的话题。外卖属于高频消费，因此更易成为大数据杀熟的对象，很多消费者不知不觉中就被平台割了韭菜。纵观过去几年的大数据杀熟，花样繁多、手段多变，消费者可谓防不胜防，会员会被收割、老用户会被收割，甚至使用iPhone/更贵的手机也
- ## [产品运营面试之你怎么理解这份工作？](http://www.chanpin100.com/article/114326)
- > 随着互联网的快速发展，产品运营岗位变得越来越重要，今天要给大家分享的面试题目是你怎样理解我们公司这个岗位的工作，希望本文的分享能对你有所帮助。
- ## [产品运营面试之XXX项目是怎么做的？](http://www.chanpin100.com/article/114324)
- > 对于有一定工作经验的运营人士来说，在换工作面试的时候可能会被问到之前的XXX项目具体是怎么做的，本文来给大家好好分析一下这道题的回答技巧，希望能对即将参加面试的你有帮助。
- ## [产品运营面试之简单介绍一下你自己](http://www.chanpin100.com/article/114322)
- > 自我介绍是面试的时候必不可少会问到的，虽然看起来这个问题很简单，但是不提前准备准备也容易面试的时候抓瞎。下面就跟随小编一起看看产品运营面试之简单介绍一下你自己这道题的解答方法吧。
- ## [近20位专家出席中欧餐饮协会卓越服务论坛分享数智化经验](http://www.chanpin100.com/article/114275)
- > 3月19-21日，中欧校友餐饮生态协会2021年首场活动在上海苏州两地完美落幕。这次以“开创分享·美味盛宴”为主题的活动得到了中欧国际工商学院、中欧校友关系事务部、中欧校友总会以及各位教授、校友的大力支持。其中马晓东、忻榕教授、陈威如教授、邵志东、陆伟等20位专家为活动分享了自己的经验和见解。
- ## [分享：新形势下的工业互联网和数字化转型之路](http://www.chanpin100.com/article/114273)
- > 在2021工业互联网创新发展促经济数字化转型大会期间，工业互联网产业联盟秘书长、中国信息通信研究院院长余晓晖出席会议并针对《新形势下的工业互联网和数字化转型之路》发表演讲。
- ## [12个最佳实践让你服务好SaaS客户](http://www.chanpin100.com/article/114319)
- > SaaS不光要提供产品，还要提供足够好的服务，让客户更好的使用产品。今天编译的文章，提供一个如何服务好客户的思路。想要一个成功的 SaaS 业务吗? 那么你就需要一个优秀的客户支持部门。
- ## [卧底骗子群 我不仅赚了钱还学到了这些套路](http://www.chanpin100.com/article/114316)
- > 前段时间，在朋友圈看到有人发免费领纸的活动。当然，直觉告诉我，这要么是骗子，要么就是哪家的拉新活动。
- ## [口才培训机构如何入局在线教育？](http://www.chanpin100.com/article/114272)
- > 随着经济的不断发展及国家政策的支持，我国口才培训行业近年来得到长足的发展，2011年我国口才培训人数约401万人，到2017年达到了1315万人，近几年口才培训人数情况如下图所示：
 
     
