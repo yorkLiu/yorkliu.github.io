@@ -1,22 +1,24 @@
 ---
 title: 2021-04-01 IT News
 copyright: true
-date: 2021-04-01 08:03:23
+date: 2021-04-01 09:01:44
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [硬核华为!去年狂砸1418亿搞研发，净利646亿≈1.37个茅台，对鸿蒙、汽车、养猪等都有回应](http://mp.weixin.qq.com/s?src=11&timestamp=1617235202&ver=2981&signature=050j4rgIHPpb-xv*NhAs9*eAYavdlItulYNz32wkbDWQkf-*D9b97nMW7HZV4sVGH1gwlpBcbCWIDIlTvWAEW3bW7RPxxtCvFgTtSPMgblQ2c7X243ZgMKxa2vBjiuFi&new=1)
+ ## [硬核华为!去年狂砸1418亿搞研发，净利646亿≈1.37个茅台，对鸿蒙、汽车、养猪等都有回应](http://mp.weixin.qq.com/s?src=11&timestamp=1617238802&ver=2981&signature=050j4rgIHPpb-xv*NhAs9*eAYavdlItulYNz32wkbDWQkf-*D9b97nMW7HZV4sVG*LYXBYWAmHTfjnRd9DbcSIp-daUPAOGZ1Mi0QV5CT-4iThWs12it2j*Yw9*19rWd&new=1)
  > 在新冠疫情和美国制裁的重重压力下，华为依旧交出了一份稳健的答卷。3月31日下午，华为正式出炉2020年业绩报告。报告显示，业绩增长基本实现了经营预期，其中销售收入8914亿元人民币，同比增长3.8%，净利润646亿...
- ## [2021 WWDC，6 月 8 日举行，Glasses?](http://mp.weixin.qq.com/s?src=11&timestamp=1617235202&ver=2981&signature=MjUqJEHsffT8Y65CJjcRHvu7jtJH5IC8H08CEYNFkHine3FuJDDNmWGLSnQ3f7AGAK9GET8yHqnA43I*FXp2M9NR2QPWJWc97D-5B9cLtocm9DMHTdvRJl2vLqk-4qoj&new=1)
+ ## [2021 WWDC，6 月 8 日举行，Glasses?](http://mp.weixin.qq.com/s?src=11&timestamp=1617238802&ver=2981&signature=MjUqJEHsffT8Y65CJjcRHvu7jtJH5IC8H08CEYNFkHine3FuJDDNmWGLSnQ3f7AG1Seoyo8FyrMohzyQI3FK6LUfRbgK7RK2dk52ErbWxqmznh8Dsi6rRrPacPliXy-7&new=1)
  > 苹果今天确认，第三十二届全球开发者大会 WWDC 将于 6 月 7 日至 11 日（北京时间 6 月 8 日至 12 日）举行，并再度采用完全在线形式。WWDC21 免费向所有开发者开放，将为 iOS、iPadOS、macOS、watchO
- ## [发力“双千兆”，中国移动专家为何强调5G半有源前传?](http://mp.weixin.qq.com/s?src=11&timestamp=1617235202&ver=2981&signature=GsSom-qV7SptYh4p4ZsPaspe1eWIna61J7BDGD0L*BiTSZr9xwSp3hnvWy0XO2KBFgnlnvo7IWfpggZeifV89oS0vRhzWivbwA8SM3BmtIoyuM4qAk7O04c3RBoigzDv&new=1)
+ ## [发力“双千兆”，中国移动专家为何强调5G半有源前传?](http://mp.weixin.qq.com/s?src=11&timestamp=1617238802&ver=2981&signature=GsSom-qV7SptYh4p4ZsPaspe1eWIna61J7BDGD0L*BiTSZr9xwSp3hnvWy0XO2KBSznuiOCZKhql*JTDyTiCnTe2BuHgwDEVk8n3gBDN51wT7RNIncB1EaXXXMlxcagF&new=1)
  > “5G商用，承载先行”成为行业共识。在5G基站建设中，一张高质量的承载网络是“5G改变社会”的有力支撑。工信部3月24日印发的《“双千兆”网络协同发展行动计划（2021-2023年）》，要求5G和光宽能向单个用户提供...
- ## [中国移动撇除虚假5G用户，或是导致5G用户增速放缓的原因](http://mp.weixin.qq.com/s?src=11&timestamp=1617235202&ver=2981&signature=taTKwFXHdcOzt9YRSJhhxs8sBss7Y8C3JLnHsO86QWSwXVzJ7vyKLl*tWol2InFwHUEvmIL4pjqYXBeym3veI5Vjn2UIGCyZZaIIS8-08Y4GYGloAU5nI4HwqsxnZfyU&new=1)
- > 三大运营商均公布了2月份的5G用户净增数，中国移动的净增5G用户数最少，这让人怀疑这家中国最大的运营商是否还能在5G时代保持绝对领先优势，不过如果仔细分析或许事实并非如此。由于各方的压力，2020年三大运营...
- ## [10年来最重要创新 ARM发布AMRv9指令集：IPC性能大涨30%](http://mp.weixin.qq.com/s?src=11&timestamp=1617235202&ver=2981&signature=anoMO8WT-Qnc-M32fSmHL*L2-lnViHqfy8*IXUHl07q5m97mPkspgOtRgYCx-PEuPd3KUhMOImzO8G8nHzyo*TplwXpRCl2SDdMx4iuN2NUNwnOv80wPsqXvAlzg7A6x&new=1)
+ ## [10年来最重要创新 ARM发布AMRv9指令集：IPC性能大涨30%](http://mp.weixin.qq.com/s?src=11&timestamp=1617238802&ver=2981&signature=anoMO8WT-Qnc-M32fSmHL*L2-lnViHqfy8*IXUHl07q5m97mPkspgOtRgYCx-PEu8O8Sw50mGrXHPeZFGunuo7F69Mo4gWQgfEMDrg3F865uQxXjBUD7qmaJOi*4KdmX&new=1)
  > 来源：快科技今天凌晨，ARM正式推出了ARMv9指令集，官方称之为10年来最重要的创新，将是未来3000亿ARM芯片的基础。包括目前性能最强的Cortex-X1/A78在内，现在所用的ARM芯片还是基于ARMv8.x指令集的，2011年首次
+ ## [中国移动撇除虚假5G用户，或是导致5G用户增速放缓的原因](http://mp.weixin.qq.com/s?src=11&timestamp=1617238802&ver=2981&signature=taTKwFXHdcOzt9YRSJhhxs8sBss7Y8C3JLnHsO86QWSwXVzJ7vyKLl*tWol2InFwZXkpjSDBaM874Hxwhrd0Krcpwfiyq2EWtTDL82D1B-YmWfYeT56SMD-hJSZd8FeD&new=1)
+ > 三大运营商均公布了2月份的5G用户净增数，中国移动的净增5G用户数最少，这让人怀疑这家中国最大的运营商是否还能在5G时代保持绝对领先优势，不过如果仔细分析或许事实并非如此。由于各方的压力，2020年三大运营...
 # IT 技术 
+ ## [5大Web应用安全威胁与7大防护措施](http://netsecurity.51cto.com/art/202104/654891.htm)
+ > 5大Web应用安全威胁与7大防护措施
  ## [如何清空DNS缓存以提升Windows 10的网络性能？](http://os.51cto.com/art/202104/654890.htm)
  > 如何清空DNS缓存以提升Windows 10的网络性能？
  ## [“分库分表”，还能这么玩！](http://database.51cto.com/art/202104/654919.htm)
@@ -29,10 +31,16 @@ categories: IT NEWS
  > 八种实用的免费游戏开发软件工具
  ## [酒店用机器学习，预测哪些客人会放鸽子](http://ai.51cto.com/art/202103/654627.htm)
  > 酒店用机器学习，预测哪些客人会放鸽子
- ## [这里有CIO们未来五年的挑战清单，你准备好了吗？](http://www.cioage.com/art/202103/654719.htm)
- > 这里有CIO们未来五年的挑战清单，你准备好了吗？
- ## [MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05](http://fellow.51cto.com/art/202008/622832.htm?qd=51ctojrzd)
- > MySQL运维管理与监控诊断_MySQL数据库性能优化与运维诊断05
+ ## [【曾贤志】Power Query For Excel数据处理利器（第1季 基础操作篇）](http://fellow.51cto.com/art/202012/637604.htm?qd=51ctojrzd)
+ > 【曾贤志】Power Query For Excel数据处理利器（第1季 基础操作篇）
+ ## [Google安全团队该不该披露疑似美国政府的黑客行动？](http://netsecurity.51cto.com/art/202104/654932.htm)
+ > 最近，谷歌安全团队披露了一项黑客攻击行动，但该黑客组织疑似是为美国政府及其盟友工作，进行网络反恐行动
+ ## [微软出手：Edge 浏览器或将很快默认阻止网站自动播放视频](http://os.51cto.com/art/202104/654930.htm)
+ > 微软已经在 Edge Canary 浏览器中添加了一个名为 “限制自动播放默认设置”的新 flag 标志。这将允许微软将
+ ## [面试官问我zookeeper选举过程，我当场给他讲了源码](http://os.51cto.com/art/202104/654929.htm)
+ > 本文主要是基于 zookeeper 3.8.0 讲解， 主要是通过源码的维度来分析 zookeeper 选举过程 对于 zookeeper
+ ## [如何解决 React.useEffect() 的无限循环](http://developer.51cto.com/art/202104/654928.htm)
+ > 使用useEffect()时，你可能会遇到一个陷阱，那就是组件渲染的无限循环。在这篇文章中，会讲一下产生无限循
  ## [CSS3 3D 行星运转 && 浏览器渲染原理](http://developer.51cto.com/art/202104/654925.htm)
  > 本文通过一个 3D Web 动画的实例，详细的捋一捋浏览器整个渲染页面的过程及原理。
  ## [2021年3月云计算领域重要动态速览](http://cloud.51cto.com/art/202104/654921.htm)
@@ -51,18 +59,18 @@ categories: IT NEWS
  > 这篇不讨好任何人的回忆录，记录了我从双非学校到BAT/TMD六offer的原因
  ## [android加密参数定位方法](https://blog.csdn.net/weixin_43582101/article/details/115355563)
  > android加密参数定位方法
- ## [JavaScript脚本语⾔&基础语法&笔记总结](https://blog.csdn.net/JontyLi/article/details/109635117)
- > JavaScript脚本语⾔&amp;基础语法&amp;笔记总结
- ## [\[记录一\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目训练](https://blog.csdn.net/gitchatxiaomi/article/details/108098130)
- > \[记录一\] Vue(全家桶)+node+koa2+mysql+nginx+redis，全栈博客项目训练
- ## [VSCode插件大全｜VSCode高级玩家之第二篇](https://blog.csdn.net/TriDiamond6/article/details/105604427)
+ ## [C/C++描述 第十一届蓝桥杯省赛 C/C++ 大学B组 第一场(2020.7.5) 试题  题目+题解](https://blog.csdn.net/qq_43422111/article/details/107208904)
  > 
- ## [Unity 背包系统的完整实现（基于MVC框架思想）](https://blog.csdn.net/xinzhilinger/article/details/113696369)
- > Unity 背包系统的完整实现（基于MVC框架思想）
- ## [学JDBC，这一篇就够了](https://blog.csdn.net/qq_43674132/article/details/95171884)
- > 学JDBC，这一篇就够了
- ## [Python3从零开始搭建一个语音对话机器人](https://blog.csdn.net/NIeson2012/article/details/96476878)
- > Python3从零开始搭建一个语音对话机器人
+ ## [JS的100道经典面试题（一）只看这四篇就够了，收藏起来以后偷偷看](https://blog.csdn.net/qq_43291759/article/details/109746828)
+ > JS的100道经典面试题（一）只看这四篇就够了，收藏起来以后偷偷看
+ ## [Dom树 CSS树 渲染树(render树) 规则、原理](https://blog.csdn.net/weixin_45820444/article/details/109013996)
+ > Dom树 CSS树 渲染树(render树) 规则、原理
+ ## [一文看懂YOLO v3](https://blog.csdn.net/litt1e/article/details/88907542)
+ > 一文看懂YOLO v3
+ ## [啥?十大排序算法，来这看看-基本思想+动画演示+C语言实现](https://blog.csdn.net/weixin_45761327/article/details/105908057)
+ > 
+ ## [关于Visual Studio 2019安装时VS installer无法下载文件，进度条为0，显示网络有问题的解决办法](https://blog.csdn.net/qq_43085848/article/details/109901050)
+ > 关于Visual Studio 2019安装时VS installer无法下载文件，进度条为0，显示网络有问题的解决办法
  ## [终于知道为啥网页不让我复制粘贴了！](https://blog.csdn.net/devcloud/article/details/115167819)
  > 终于知道为啥网页不让我复制粘贴了！
  ## [每天自学两小时Python，三个月学通月入20K](https://blog.csdn.net/bobin666/article/details/115306426)
