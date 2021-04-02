@@ -1,22 +1,28 @@
 ---
 title: 2021-04-02 IT News
 copyright: true
-date: 2021-04-02 08:01:58
+date: 2021-04-02 09:01:46
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [3年砸1000亿美元扩产?2022年将暂停晶圆价格折扣?台积电回应来了](http://mp.weixin.qq.com/s?src=11&timestamp=1617321602&ver=2983&signature=eIw5qiw3JS3vVsnUgRt7Mt3-t8gOzIdcLAWrCAoSsINxdPQt3AiUZ40kA3USPm45u9c6l3pqlZkMWa9i6MZxQrH1fdvEQGcBmLIC9hctEZNlcBqaa873CwERTVRU0-*R&new=1)
- > 4月1日消息，昨日市场流传出一封台积电总裁魏哲家发出的信件，其中提到了台积电未来3年计划投资1000亿美元扩充产能的计划，以及将自今年12月31日起暂停未来一年的晶圆降价等消息。在该信件中，魏哲家指出，台积...
- ## [一图看懂华为2020年年报中的华为企业业务](http://mp.weixin.qq.com/s?src=11&timestamp=1617321602&ver=2983&signature=frBqSihS2ONRsUXdRim2J*3SKfDh3rVhaoxUXcaT-iK*aeL2*nnF0GNEUV9zvP4qGainBuYeJ7WcS5LfuucNbUHpkp-Ltdkzzlhw8LG9YGxDYdBwfM11AL4vhIAaotIM&new=1)
- > 你的每一次“在看”，我都看得见！
- ## [小米和华为比造车，或许就差一辆极狐|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1617321602&ver=2983&signature=70QHCv5qmuKh8OL4rUlg4z3KPxmHuHy*v80S*ozziaThPTEazJvzyGVtzKu54KoWg5tRVo8D6KHIDefsTbDXJnQ2jTbSFPM-Z00J0D5TyGGGjdqlkyIG3iZhdH76iiUU&new=1)
- > 作者 | 李响● ● ●传闻已久的小米造车业务终于被小米集团官方证实，3月30日，小米集团发布港股公告称：“本公司董事会正式批准智能电动汽车业务立项”，该公告意味着小米正式官宣进入智能电动车领域，让本就竞...
- ## [苹果 AR/VR 头戴设备未来几个月内发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1617321602&ver=2983&signature=mYtli4-0COoXhM5ZQxwHWQ5N8DhMr75so-CVdaz4uX5iDNNIFDsY6BH45iXSOVx4DabBwBX93OdkgBPuaj1NDG5dWqq3VFayIuxYAgrcviJ4zVCrsEX1j4wBEdBvKMVb&new=1)
- > 根据彭博社 Mark Gurman 爆料，苹果计划在未来几个月内发布 MR 头戴设备，MR 是 mixed-reality ，也就是 AR（增强现实）和 VR（虚拟现实）的混合。此外，MR 头戴设备发布会将是线下举行，不是线上虚拟发布会。有
- ## [快讯!运营商将适时取消部分新增类考核](http://mp.weixin.qq.com/s?src=11&timestamp=1617321602&ver=2983&signature=mujHdkYAhl3QB7zx4*KCMceScKI3Jf4ZEMN3j8EdzIXVZCnXLwpGMXjXVCjIp90M52SDjppKlIB*0*2We*0kdF5m4YtUadbkQV0gO*NZaHJUfV99ZoO6W0FNO*iboGgk&new=1)
+ ## [《可穿戴设备与AI技术医疗应用和保健场景》汇编](http://mp.weixin.qq.com/s?src=11&timestamp=1617325203&ver=2983&signature=dA2r4DGfseSgsvoP8uTm2f7zTgB6AAidvkMETsT8BaqwrovZmUIJ6TNyqXxg223zpJoUhzQcMsK5lCoL7wVQZO1Y35ZKp4mcO4pZZbG-2HH2107Z4IYmr0**uCbvl5Kx&new=1)
+ > 随着5G时代的到来、AI技术成熟发展，人们不再困惑可穿戴设备的医疗保健应用了，更多的是关注如何选择适合个人健康的“标配”可穿戴设备，或医疗级监护可穿戴设备。毫不夸张讲，今天的都市居民几乎人人都有智能手...
+ ## [快讯!运营商将适时取消部分新增类考核](http://mp.weixin.qq.com/s?src=11&timestamp=1617325203&ver=2983&signature=mujHdkYAhl3QB7zx4*KCMceScKI3Jf4ZEMN3j8EdzIXVZCnXLwpGMXjXVCjIp90MxakW2VQ4pVUmavx5XwoQLCnR7Wk0Ea9RRa41r9EDQoLai060mBtJCl5ArCzEoWuv&new=1)
  > 步入2021年，随着社会经济发展和社会进步，通信业面临着前所未有的机遇和挑战。当前，运营商各单位普遍采用了绩效管理机制的考核管理办法，的确，机制的引入给通信事业的发展带来了活力与动力，但同时，现阶段的...
+ ## [3年砸1000亿美元扩产?2022年将暂停晶圆价格折扣?台积电回应来了](http://mp.weixin.qq.com/s?src=11&timestamp=1617325203&ver=2983&signature=eIw5qiw3JS3vVsnUgRt7Mt3-t8gOzIdcLAWrCAoSsINxdPQt3AiUZ40kA3USPm45XRCkhxIT*rcT7EoRIvmgQyNTANp*6ZFeKbHwOc1rnv1X4ILYy0N2uRLK8Wcxrqf8&new=1)
+ > 4月1日消息，昨日市场流传出一封台积电总裁魏哲家发出的信件，其中提到了台积电未来3年计划投资1000亿美元扩充产能的计划，以及将自今年12月31日起暂停未来一年的晶圆降价等消息。在该信件中，魏哲家指出，台积...
+ ## [小米和华为比造车，或许就差一辆极狐|汽车预言家](http://mp.weixin.qq.com/s?src=11&timestamp=1617325203&ver=2983&signature=70QHCv5qmuKh8OL4rUlg4z3KPxmHuHy*v80S*ozziaThPTEazJvzyGVtzKu54KoWFug*2KUm-DETd9vEkC0OIJbvzmJqnIP-w00oJpPmFnfnlt-5ObvbPmcELbYqxfvx&new=1)
+ > 作者 | 李响● ● ●传闻已久的小米造车业务终于被小米集团官方证实，3月30日，小米集团发布港股公告称：“本公司董事会正式批准智能电动汽车业务立项”，该公告意味着小米正式官宣进入智能电动车领域，让本就竞...
+ ## [苹果 AR/VR 头戴设备未来几个月内发布!](http://mp.weixin.qq.com/s?src=11&timestamp=1617325203&ver=2983&signature=mYtli4-0COoXhM5ZQxwHWQ5N8DhMr75so-CVdaz4uX5iDNNIFDsY6BH45iXSOVx40aMB6IkVtml4TCY-czlN1gTen0qFbzsuvvy4gHKFzQq1ih5FxnpbqLZYXpuNhWd3&new=1)
+ > 根据彭博社 Mark Gurman 爆料，苹果计划在未来几个月内发布 MR 头戴设备，MR 是 mixed-reality ，也就是 AR（增强现实）和 VR（虚拟现实）的混合。此外，MR 头戴设备发布会将是线下举行，不是线上虚拟发布会。有
+ ## [一图看懂华为2020年年报中的华为企业业务](http://mp.weixin.qq.com/s?src=11&timestamp=1617325203&ver=2983&signature=frBqSihS2ONRsUXdRim2J*3SKfDh3rVhaoxUXcaT-iK*aeL2*nnF0GNEUV9zvP4q6M5ueNYUwMtHlA*xV4lL*JH3hVZlntwnLsIV3fAnNmLsHJ3-MqfWn4eryGx96yFy&new=1)
+ > 你的每一次“在看”，我都看得见！
 # IT 技术 
+ ## [针对自动化测试的23种Node.js优秀实践](http://developer.51cto.com/art/202104/655059.htm)
+ > 针对自动化测试的23种Node.js优秀实践
+ ## [换掉Logback，我用Log4j2！](http://developer.51cto.com/art/202104/655236.htm)
+ > 换掉Logback，我用Log4j2！
  ## [站点可靠性工程师（SRE）的7个常见工作面试问题](http://www.cioage.com/art/202104/655060.htm)
  > 站点可靠性工程师（SRE）的7个常见工作面试问题
  ## [5大Web应用安全威胁与7大防护措施](http://netsecurity.51cto.com/art/202104/654891.htm)
@@ -27,12 +33,20 @@ categories: IT NEWS
  > 用Ansible自动化系统管理员的五个日常任务
  ## [如何清空DNS缓存以提升Windows 10的网络性能？](http://os.51cto.com/art/202104/654890.htm)
  > 如何清空DNS缓存以提升Windows 10的网络性能？
- ## [无需手工设计，从零开始搜索损失函数](http://news.51cto.com/art/202103/654786.htm)
- > 无需手工设计，从零开始搜索损失函数
- ## [还在惊讶3D打印房子？这个半价的3D打印小区都被抢空了](http://news.51cto.com/art/202103/654789.htm)
- > 还在惊讶3D打印房子？这个半价的3D打印小区都被抢空了
- ## [一-Python高级自动化开发工程师微职位：Python基础](http://fellow.51cto.com/art/202012/636702.htm?qd=51ctojrzd)
- > 一-Python高级自动化开发工程师微职位：Python基础
+ ## [ThinkPHP5标准教程（第七部：综合应用篇【上】）（七日成蝶）](http://fellow.51cto.com/art/202012/636477.htm?qd=51ctojrzd)
+ > ThinkPHP5标准教程（第七部：综合应用篇【上】）（七日成蝶）
+ ## [谷歌宣布退出2021年MWC世界移动通信大会](http://network.51cto.com/art/202104/655240.htm)
+ > 4月1日，谷歌官方宣布，公司将不会参加今年的世界移动通信大会。
+ ## [Hitachi斥资95亿美元收购软件工程公司GlobalLogic](http://news.51cto.com/art/202104/655239.htm)
+ > 日本工业巨头日立公司(Hitachi)已经签署一项价值95亿美元的协议，收购总部位于加州的软件工程公司GlobalLog
+ ## [Markets and Markets：2027年，5G企业市场规模将达109亿美元](http://network.51cto.com/art/202104/655238.htm)
+ > 根据市场研究机构Markets and Markets发布的最新市场研究报告预测，5G企业市场规模将从2021年
+ ## [研究人员将5G网络转换成物联网电网](http://network.51cto.com/art/202104/655237.htm)
+ > 据外媒，来自佐治亚理工学院的研究人员开发了一种灵活的基于Rotman透镜的整流天线系统，该技术可以将5G网络
+ ## [Gin集成Casbin进行访问权限控制](http://os.51cto.com/art/202104/655234.htm)
+ > Casbin是一个强大的、高效的开源访问控制框架，其权限管理机制支持多种访问控制模型，Casbin只负责访问控制
+ ## [死磕 36 个 JS 手写题（搞懂后，提升真的大）](http://developer.51cto.com/art/202104/655233.htm)
+ > 这篇文章总体上分为 2 类手写题，前半部分可以归纳为是常见需求，后半部分则是对现有技术的实现.
  ## [SQL Server子查询相关知识笔记](http://database.51cto.com/art/202104/655232.htm)
  > 今天给大家介绍以下SQLServer子查询相关知识，希望对大家能有所帮助!
  ## [搭上宠物经济东风，机器人应用开辟全新市场](http://ai.51cto.com/art/202104/655228.htm)
@@ -41,12 +55,6 @@ categories: IT NEWS
  > 当你使用 Bash 编写脚本时，有时你需要从一个文件中读取数据或向一个文件写入数据。有时文件可能包含配置选
  ## [2021年3月区块链领域重要动态速览](http://blockchain.51cto.com/art/202104/655226.htm)
  > 数字经济的快速发展对区块链技术提出了巨大需求，除了金融领域的数字货币之外，区块链技术在物流、版权、交
- ## [一次 Docker 镜像的逆向工程](http://os.51cto.com/art/202104/655224.htm)
- > Docker 镜像的格式比想象的透明多了。虽然还需要做一些侦查工作，但只要解剖一个镜像文件，就能发现很多东
- ## [大数加减乘除，一文彻底搞定](http://developer.51cto.com/art/202104/655225.htm)
- > 大数加减频频登上笔试的舞台，其实就是很大很大数字(可能远超32、64位，基础类型无法表示)的加减法，在Java
- ## [Windows10革命性改进！驱动程序将和系统目录分离](http://os.51cto.com/art/202104/655222.htm)
- > 目前微软已经开始测试新的个性化设置和触控键盘，并改进文件资源管理器的触控体验，实装使用某些新图标。让
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
