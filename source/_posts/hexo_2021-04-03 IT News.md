@@ -1,21 +1,25 @@
 ---
 title: 2021-04-03 IT News
 copyright: true
-date: 2021-04-03 10:02:40
+date: 2021-04-03 12:03:22
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [研究发现 Android手机收集的用户数据是iPhone的20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1617415204&ver=2985&signature=fKSNucM2rHn7NwGxGS3KK1Sv9QDzFPYGHuBLUutqSxjMMFLSBcfCpUj4MCSl6314KxWmzqeq5rWTgC4CHNrdPoKQaHdNXELKIzrhBUuomOI-6ah8MbdO*1-AVt3DWswf&new=1)
- > 据 ArsTechnica 报道，学院的计算机系统主席研究员道格·莱斯表示，iOS 和 Android 都在不断收集所谓的遥测数据，并分别将其发送回苹果和谷歌。这些信息的范围从将 SIM 卡插入智能手机到与硬件和应用交互。当用...
- ## [炸!英特尔新品终于来啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1617415204&ver=2985&signature=7JzGfrTP2zUGmIqXZPKVFeNDKtrZUTpT66*alWYg4ERfy1A6C4WhEfwsHCLiugwH*XxTogp0j4By3O92K9NlkZSaam3310kAEr-UNGq3rG*RD3A6EvwqB2UcDcHQ7-4W&new=1)
- > 全球顶尖的芯片公司，发起力来，比武侠小说里的男主还要厉害。4月7日晚7点，在半导体行业上呼风唤雨的英特尔将迎来一场新品发布会——第三代英特尔至强可扩展处理器。点击视频，看英特尔发布会详情这个处理器，...
- ## [千兆光网生意要做大做强，运营商该怎么建网?](http://mp.weixin.qq.com/s?src=11&timestamp=1617415204&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzAK2-kCPSA5OALvB-htGOeeM52OVkxsYs3ZNV7LfTYTdgkM2FoPgtR39Jiw0q0LqoYCLxF5pkptB5s6XrkFss4vG&new=1)
- > 迈入2021年，国家加大对千兆宽带行业的支持力度。先是今年我国政府工作报告明确要求加大5G网络与千兆光网建设力度，丰富应用场景。这把千兆光网的战略地位，提升到国家级新高度。之后3月24日，工信部发布《“双...
- ## [你一直看不上的 MR 头显，却一次出货 200 亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1617415204&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAiwlRIXoJf58LYPVsXDUNCfFvISDQs3A-gqN2WKDWAQFQVAC-zWx-EehmXRN3CkYTDqyif1yxUKW8pwhfpOjuzC&new=1)
- > 一款可以强力拉动消费者购买硬件的应用，人们管它叫「杀手级应用」。那么，MR 的杀手级应用是「战争」？2018 年 11 月，微软就赢得了美国陆军 4.8 亿美元的合同，在随后的两年给军方定制混合现实（MR）眼镜，首...
- ## [亿咖通科技：国际化布局再落子|寰球车评](http://mp.weixin.qq.com/s?src=11&timestamp=1617415204&ver=2985&signature=qEpVtcBZngTx4LI9LuVmWq742RFA2U-dQ0D1Y7B0wOyRSO1ETcF1fMu70O51gLzHShx3f4VM3WInVquTVXaFcGaLu2lSfEDAKyMFHhqC9Bf8nlyiHbva*URTyH*gb67U&new=1)
+ ## [亿咖通科技：国际化布局再落子|寰球车评](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=qEpVtcBZngTx4LI9LuVmWq742RFA2U-dQ0D1Y7B0wOyupq4nvfM8bxg8mWaKKx2q2-42PWu*yY9Ujsj29BGejjgCiMJJKKKoruu-0Z9yoyt6pK0Jww*wImRyYK4aAX13&new=1)
  > 3月23日，亿咖通科技宣布与沃尔沃汽车成立合资公司。合资公司将坐落于瑞典哥德堡，预计将于2021年第三季度正式投入运营。作为双方的共同愿景，合资公司将共同研发适用全球的新一代智能座舱系统。亿咖通科技CEO沈...
+ ## [Cortana 的谢幕，不一定是产品问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=a4ZgRgOEHMJQAL21zeVFgOtgXmZZRum9RfX-5WNMuLXIAhtXl5o83DjfHNIAmdC1c4J8LjTT9PS2VU3UkD-kIG56Zr8fkJdzYnTzZimO4C9DNQcO6rn83EoKaVjmQSqD&new=1)
+ > 整理 | Carol出品 | CSDN（ID:CSDNnews）据微软官方消息，其面向 iOS 和 Android 系统 Cortana 应用已经在 2021 年 3 月 31 日正式停止服务，结束了对第三方 Cortana 的所有支持。公
+ ## [苹果拒绝用第三方 SDK 擅自追踪用户的应用；Google Play 限制应用查看设备的应用列表|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=ZcWyt0W3PDsw8ci7Cduh1p6nX7DC5gsxrUzN1UPwu1e9TJi4ctvTkistCsL0Pv9Qs64fVJ4g3fdl5kvtmwsu9uUxDSO-zGa*L-7TAMq-GHSWSPhL4Rb6ejg393Ln5TsD&new=1)
+ > 图 / IC photoHello，大家愚人节快乐，来浏览新鲜的早报吧～【苹果开始拒绝使用第三方 SDK 未经同意追踪用户的应用】苹果开始拒绝使用第三方 SDK 未经同意跟踪用户的应用。应用开发商可以通过部分第三方 SDK 利...
+ ## [研究发现 Android手机收集的用户数据是iPhone的20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=fKSNucM2rHn7NwGxGS3KK1Sv9QDzFPYGHuBLUutqSxgdwlM90L5tGd3SAOfDtNkbQnGCxBxo2MDESclhiElzDUcxr8kYROEKJtOoWS8Bq4V2iShF61w-qzCtBc3m2Yvu&new=1)
+ > 据 ArsTechnica 报道，学院的计算机系统主席研究员道格·莱斯表示，iOS 和 Android 都在不断收集所谓的遥测数据，并分别将其发送回苹果和谷歌。这些信息的范围从将 SIM 卡插入智能手机到与硬件和应用交互。当用...
+ ## [炸!英特尔新品终于来啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=7JzGfrTP2zUGmIqXZPKVFeNDKtrZUTpT66*alWYg4EQQJ5VfcUCRrUCIevVBPn-ebqlKzBF8B0Y-uTeq4HD9I1IuNfZAcfVeAbmCUOFbL16afh3N9y3WSzl0ByFVJhmb&new=1)
+ > 全球顶尖的芯片公司，发起力来，比武侠小说里的男主还要厉害。4月7日晚7点，在半导体行业上呼风唤雨的英特尔将迎来一场新品发布会——第三代英特尔至强可扩展处理器。点击视频，看英特尔发布会详情这个处理器，...
+ ## [千兆光网生意要做大做强，运营商该怎么建网?](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzAK5tezuH4RfhSFyX2yR0oFxB5ahASDoKZ1VX1k1*0SI0h4yfayySNIlkUqQWjA1DWtpGH3qT6so39vEQ4br4TS6&new=1)
+ > 迈入2021年，国家加大对千兆宽带行业的支持力度。先是今年我国政府工作报告明确要求加大5G网络与千兆光网建设力度，丰富应用场景。这把千兆光网的战略地位，提升到国家级新高度。之后3月24日，工信部发布《“双...
+ ## [你一直看不上的 MR 头显，却一次出货 200 亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAjkvg9g7d3e4U-lhP6UZkE0GeXSb6brvkrM2e*TAtxrr1I7bQJWAD3tasvcn9YUdYnMnqelryL-hIGX8P3qEwDa&new=1)
+ > 一款可以强力拉动消费者购买硬件的应用，人们管它叫「杀手级应用」。那么，MR 的杀手级应用是「战争」？2018 年 11 月，微软就赢得了美国陆军 4.8 亿美元的合同，在随后的两年给军方定制混合现实（MR）眼镜，首...
 # IT 技术 
  ## [针对自动化测试的 23 种 Node.js 优秀实践](http://developer.51cto.com/art/202104/655059.htm)
  > 针对自动化测试的 23 种 Node.js 优秀实践
@@ -31,8 +35,8 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?
  ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
  > AI训练的最大障碍不是算力，而是“内存墙”
- ## [ClickHouse数据库培训实战 （PB级大数据分析平台、大规模分布式集群架构）](http://fellow.51cto.com/art/202101/642562.htm?qd=51ctojrzd)
- > ClickHouse数据库培训实战 （PB级大数据分析平台、大规模分布式集群架构）
+ ## [实战微课-5分钟学习软考网络工程师考什么](http://fellow.51cto.com/art/202012/635757.htm?qd=51ctojrzd)
+ > 实战微课-5分钟学习软考网络工程师考什么
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -90,8 +94,8 @@ categories: IT NEWS
  > Spring Boot 定义接口的方法是否可以声明为 private？
  ## [慌了，老大让我将线上的服务器升配，咋搞？](https://blog.csdn.net/u010889990/article/details/115371538)
  > 慌了，老大让我将线上的服务器升配，咋搞？
- ## [新手小白入门编程第1讲 计算机基础知识 JAVA基础知识](https://blog.csdn.net/weixin_43884234/article/details/115343616)
- > 新手小白入门编程第1讲 计算机基础知识 JAVA基础知识
+ ## [Flutter Boost 混合开发框架初探](https://blog.csdn.net/xiangzhihong8/article/details/115380924)
+ > Flutter Boost 混合开发框架初探
  ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
  > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
