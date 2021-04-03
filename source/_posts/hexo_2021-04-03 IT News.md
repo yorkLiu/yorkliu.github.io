@@ -1,24 +1,38 @@
 ---
 title: 2021-04-03 IT News
 copyright: true
-date: 2021-04-03 12:03:22
+date: 2021-04-03 17:01:32
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [亿咖通科技：国际化布局再落子|寰球车评](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=qEpVtcBZngTx4LI9LuVmWq742RFA2U-dQ0D1Y7B0wOyupq4nvfM8bxg8mWaKKx2q2-42PWu*yY9Ujsj29BGejjgCiMJJKKKoruu-0Z9yoyt6pK0Jww*wImRyYK4aAX13&new=1)
- > 3月23日，亿咖通科技宣布与沃尔沃汽车成立合资公司。合资公司将坐落于瑞典哥德堡，预计将于2021年第三季度正式投入运营。作为双方的共同愿景，合资公司将共同研发适用全球的新一代智能座舱系统。亿咖通科技CEO沈...
- ## [Cortana 的谢幕，不一定是产品问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=a4ZgRgOEHMJQAL21zeVFgOtgXmZZRum9RfX-5WNMuLXIAhtXl5o83DjfHNIAmdC1c4J8LjTT9PS2VU3UkD-kIG56Zr8fkJdzYnTzZimO4C9DNQcO6rn83EoKaVjmQSqD&new=1)
+ ## [特斯拉：不降价才是「割韭菜」；腾讯天美营收 100 亿美元，全球最大；小米成中国第一手机厂商|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAjj7917QuyJOMR7OByeKNMkbDfKsVbSImU3JDGuNh4US-gC9xn1k2pZ-XDbo4WObSRGqxXV4djWHCw9VTD0jpZJ&new=1)
+ > 小米成中国第一大手机厂商，全球市场份额达 13%4 月 2 日消息，Counterpoint 数据显示，今年 2 月份，小米集团手机全球市场份额达到 13%，成为中国第一大手机厂商。此外，华为全球市场份额跌至 4%。三星稳坐全球...
+ ## [本源量子与晶合集成共建量子计算芯片联合实验室](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=Oz7XPGit*EDqW4hcw18Gl0kFR4Uao3L4AG*l4eHcO1gUwvG3uKX55Z2D50czeyoFNqvISC31WRv3hiJXbrQQGpIfyDY*uvmogQFWOnfkWHY=&new=1)
+ > 邓向阳等出席签约仪式　　4月2日，合肥本源量子计算科技有限责任公司和合肥晶合集成电路股份有限公司共建量子计算芯片联合实验室签约仪式在合肥举行。安徽省领导邓向阳、张红文出席签约仪式。　　量子科技是...
+ ## [韦乐平谈千兆光网：加速云网融合，开启全光2.0时代](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzALhAZa4eleSuRzO5kYyF4EO*viYz5*PhabammUmN4x4150mOKYBtE1z6bdj5o5sYRYmJpuSYgEY6Ng4VeoJBkWG&new=1)
+ > “以千兆光网为代表的F5G已进入快车道，结合云和AI，实现光联万物，激发数字经济新动能。”在3月29日中国信息通信研究院举办的“千兆光网助力数字经济新增长”论坛上，工业和信息化部通信科学技术委员会常务副主...
+ ## [未知大陆创建3D打印行业直播联盟，欢迎加入连线](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=lq7IdNnY0-FSyqzRe0OGTdVw1sUuDEsp963JTKP3UCO5yfX9dXOETDeylB6gm9aLFG1S8PNh19NQv*V9kQXzsxDCbskpzSaRdMZXY*TXpGzL76LeGl2lspfkyp7inE8f&new=1)
+ > 2021年4月1日，未知大陆建立3D打印行业直播联盟群，并首次通过抖音直播PK的方式连线了3D打印企业负责人，双方在线进行了新颖、热情的行业互动。直播现在已经成为人们生活的一部分，各行各业都出现在直播中引发了...
+ ## [70元10个ID，全国数万家庭摄像头遭入侵，按刺激程度标价，物联网安全如此不堪一击?](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=ofmqzNY1HB1AMx5Bi23b2Hxk8EpJf7KUngCXAPwGPb7oUv-7z0Rw-1Y7pElvNPYoe0Kem2tYeW0YiO0jVcl9QmSohAlAVgq6nnrz-vv1qG3ksewmkys3fxe4E2yVGy0b&new=1)
+ > 【摘要】触目惊心的价格背后是日渐猖獗的偷拍黑色产业链。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：物联网智库本文来源：物联网智库（iot101）杂谈投稿邮箱：631255063@qq.com日前，一张令人震惊...
+ ## [华为曾把GE作为标杆，为什么现在学微软而非苹果](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=fLaPqChK2JztMBampz93XXUjuxShJ29TmPa6RVoaxycYMWyH*aBjTELu32HC9EP5QU26O08IXfFk9OEJt66IFfctmCRlnciRS0Q*nizUPnjJb3jaW7mTujMq5tpNyKMT&new=1)
+ > 作者｜徐昙 苹果创立于1976年4月1日的愚人节，微软创立于1975年，具体日期不详。两家企业竟然只差了一岁，但长期给人的感觉，苹果是个年轻的企业，微软是个老年企业，这种错觉是怎么产生的呢？很大的可能，是苹...
+ ## [Cortana 的谢幕，不一定是产品问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=a4ZgRgOEHMJQAL21zeVFgOtgXmZZRum9RfX-5WNMuLUR8OfWvcqiu2Ct4IxTvZJ6AbrzXHlRic3D1fU-OtHKM0cvNXuczT1I-ZXRn-mxbZspMYAwwedfHoQOhW0fmcES&new=1)
  > 整理 | Carol出品 | CSDN（ID:CSDNnews）据微软官方消息，其面向 iOS 和 Android 系统 Cortana 应用已经在 2021 年 3 月 31 日正式停止服务，结束了对第三方 Cortana 的所有支持。公
- ## [苹果拒绝用第三方 SDK 擅自追踪用户的应用；Google Play 限制应用查看设备的应用列表|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=ZcWyt0W3PDsw8ci7Cduh1p6nX7DC5gsxrUzN1UPwu1e9TJi4ctvTkistCsL0Pv9Qs64fVJ4g3fdl5kvtmwsu9uUxDSO-zGa*L-7TAMq-GHSWSPhL4Rb6ejg393Ln5TsD&new=1)
- > 图 / IC photoHello，大家愚人节快乐，来浏览新鲜的早报吧～【苹果开始拒绝使用第三方 SDK 未经同意追踪用户的应用】苹果开始拒绝使用第三方 SDK 未经同意跟踪用户的应用。应用开发商可以通过部分第三方 SDK 利...
- ## [研究发现 Android手机收集的用户数据是iPhone的20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=fKSNucM2rHn7NwGxGS3KK1Sv9QDzFPYGHuBLUutqSxgdwlM90L5tGd3SAOfDtNkbQnGCxBxo2MDESclhiElzDUcxr8kYROEKJtOoWS8Bq4V2iShF61w-qzCtBc3m2Yvu&new=1)
+ ## [数字经济活跃!1至2月规上互联网企业完成业务收入同比增29%](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=Oz7XPGit*EDqW4hcw18Gl0kFR4Uao3L4AG*l4eHcO1i1ACvyxcAIuM9xMRRicXL9vjKtJjyi92*f-*av3EcGSgQckQUQQKPpXRtU49cb1PA=&new=1)
+ > 新华社北京4月3日电（记者张辛欣）记者近日从工信部获悉，1至2月，我国规模以上互联网企业完成业务收入同比增长达29%，各类平台蓬勃发展，互联网平台服务企业实现业务收入同比增长达84.8%。　　网络销售平台...
+ ## [研究发现 Android手机收集的用户数据是iPhone的20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=fKSNucM2rHn7NwGxGS3KK1Sv9QDzFPYGHuBLUutqSxhKHUtmqJbWThLORLAzZRsywVciMTMeALsGc1OIM8ol36YiRclKeJfAvgNKOJ4Yk9lB8WZZ543TTSyVwyI7-qMK&new=1)
  > 据 ArsTechnica 报道，学院的计算机系统主席研究员道格·莱斯表示，iOS 和 Android 都在不断收集所谓的遥测数据，并分别将其发送回苹果和谷歌。这些信息的范围从将 SIM 卡插入智能手机到与硬件和应用交互。当用...
- ## [炸!英特尔新品终于来啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=7JzGfrTP2zUGmIqXZPKVFeNDKtrZUTpT66*alWYg4EQQJ5VfcUCRrUCIevVBPn-ebqlKzBF8B0Y-uTeq4HD9I1IuNfZAcfVeAbmCUOFbL16afh3N9y3WSzl0ByFVJhmb&new=1)
+ ## [亿咖通科技：国际化布局再落子|寰球车评](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=qEpVtcBZngTx4LI9LuVmWq742RFA2U-dQ0D1Y7B0wOyquTpWioZWUch4TTUXDJbTtrPCohm798qIoW-H4MatsNAP*9Q15IWU19*BeGF5yt8vz9RUJKGTjMGJvbLpP2Yw&new=1)
+ > 3月23日，亿咖通科技宣布与沃尔沃汽车成立合资公司。合资公司将坐落于瑞典哥德堡，预计将于2021年第三季度正式投入运营。作为双方的共同愿景，合资公司将共同研发适用全球的新一代智能座舱系统。亿咖通科技CEO沈...
+ ## [苹果拒绝用第三方 SDK 擅自追踪用户的应用；Google Play 限制应用查看设备的应用列表|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=ZcWyt0W3PDsw8ci7Cduh1p6nX7DC5gsxrUzN1UPwu1fLOgAgP9naMWObFkDpHScHMcfVTMBuUesUmKimzxwpmq0XCutR41TQ*PJtTeJUmC8zOqpSXlhSNQTxzwuJ*P1q&new=1)
+ > 图 / IC photoHello，大家早上好，来浏览新鲜的早报吧～【苹果开始拒绝使用第三方 SDK 未经同意追踪用户的应用】苹果开始拒绝使用第三方 SDK 未经同意跟踪用户的应用。应用开发商可以通过部分第三方 SDK 利用类...
+ ## [炸!英特尔新品终于来啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=7JzGfrTP2zUGmIqXZPKVFeNDKtrZUTpT66*alWYg4ERBZH6L5TX1KRBk7WovG7Tlm-opEvgeX1J-T6ipDR8Vt-tCWsCnTfhx-NYpZWfFE9ggOvJkylqm7KUAFH89WLkB&new=1)
  > 全球顶尖的芯片公司，发起力来，比武侠小说里的男主还要厉害。4月7日晚7点，在半导体行业上呼风唤雨的英特尔将迎来一场新品发布会——第三代英特尔至强可扩展处理器。点击视频，看英特尔发布会详情这个处理器，...
- ## [千兆光网生意要做大做强，运营商该怎么建网?](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzAK5tezuH4RfhSFyX2yR0oFxB5ahASDoKZ1VX1k1*0SI0h4yfayySNIlkUqQWjA1DWtpGH3qT6so39vEQ4br4TS6&new=1)
+ ## [千兆光网生意要做大做强，运营商该怎么建网?](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzAJYLv0YlF2KR9SWhAVinoPxOwBrpL1tNp0yU5xY5pBeZjnxXO9*W4swMBI2FdIccHkrG84mXkrFnxhse9otYE7-&new=1)
  > 迈入2021年，国家加大对千兆宽带行业的支持力度。先是今年我国政府工作报告明确要求加大5G网络与千兆光网建设力度，丰富应用场景。这把千兆光网的战略地位，提升到国家级新高度。之后3月24日，工信部发布《“双...
- ## [你一直看不上的 MR 头显，却一次出货 200 亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1617422403&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAjkvg9g7d3e4U-lhP6UZkE0GeXSb6brvkrM2e*TAtxrr1I7bQJWAD3tasvcn9YUdYnMnqelryL-hIGX8P3qEwDa&new=1)
+ ## [你一直看不上的 MR 头显，却一次出货 200 亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1617440403&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAgAhg6KW4tihH5z*D6SDmLw*yNGQrI64cJIV*7oc2UUJ6nJFxmzy0b42cUXqo5ErBz6YBiTZQ94Y8D4zhYcugSd&new=1)
  > 一款可以强力拉动消费者购买硬件的应用，人们管它叫「杀手级应用」。那么，MR 的杀手级应用是「战争」？2018 年 11 月，微软就赢得了美国陆军 4.8 亿美元的合同，在随后的两年给军方定制混合现实（MR）眼镜，首...
 # IT 技术 
  ## [针对自动化测试的 23 种 Node.js 优秀实践](http://developer.51cto.com/art/202104/655059.htm)
@@ -35,8 +49,26 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?
  ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
  > AI训练的最大障碍不是算力，而是“内存墙”
- ## [实战微课-5分钟学习软考网络工程师考什么](http://fellow.51cto.com/art/202012/635757.htm?qd=51ctojrzd)
- > 实战微课-5分钟学习软考网络工程师考什么
+ ## [.NET软件开发――C语言基础视频课程](http://fellow.51cto.com/art/202012/638070.htm?qd=51ctojrzd)
+ > .NET软件开发――C语言基础视频课程
+ ## [桌面小工具回归：Windows 10 将支持微软 Edge 浏览器浮动搜索功能](http://os.51cto.com/art/202104/655577.htm)
+ > IT之家4月3日消息 微软曾在 Windows Vista 中引入过一个叫做 “桌面小工具”的功能，该功能可在 Windows 桌
+ ## [绝对让你大开眼界！11组微信小技巧你都会玩么](http://mobile.51cto.com/ahot-655575.htm)
+ > 顶着国民社交神器的光环，微信这几年的发展可以用顺风顺水来形容。这玩的人一多，各种稀奇古怪的要求也就来
+ ## [Windows10仍可免费升级？免费升级Windows10需要注意啥](http://os.51cto.com/art/202104/655574.htm)
+ > 我们知道，Win10在推出之时，推出过为期一年的免费升级活动。
+ ## [用这三个命令，快速查看硬盘使用的分区类型：MBR或GPT](http://stor.51cto.com/art/202104/655573.htm)
+ > 对硬盘进行分区可能没有你想象的那么简单，重要的是要知道采用哪种样式。当前只有两种样式：主引导记录（MB
+ ## [前所未有的变化：疫情正快速塑造着科技与未来](http://ai.51cto.com/art/202104/655572.htm)
+ > 2019年12月，人们还在为即将到来的2020新年满怀欣喜――2020这个数字读起来都是那么的舒心顺口。大家对新年
+ ## [如何成为多编程语言人才？这有一份独门诀窍](http://developer.51cto.com/art/202104/655571.htm)
+ > 学习一种新的编程语言就像学一门新的语言。相信许多学习两门或多门语言的朋友都会认同，在双语或多语言间转
+ ## [交通的“十字路口”：自动驾驶的未来会是什么样子？](http://ai.51cto.com/art/202104/655570.htm)
+ > 科技发展日新月异，交通领域正迎来一个关键的“十字路口”。人类历史上一次发生如此之大变革还是在一百多年
+ ## [统治50年：为什么SQL在如今仍然很重要？](http://database.51cto.com/art/202104/655569.htm)
+ > SQL是如今最普遍使用的编程语言之一，我们不该忘记它悠久的历史。它的旅程始于现代计算的黎明，在两位图灵
+ ## [七个Python库：帮你构建第一个数据科学应用程序](http://developer.51cto.com/art/202104/655568.htm)
+ > 我需要学习什么来创建第一个数据科学应用程序？Web 部署如何？我需要学习Flash或 Django的Web 应用程序吗？
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -47,18 +79,18 @@ categories: IT NEWS
  > python你TM太皮了——区区30行代码就能记录键盘的一举一动
  ## [出现吧，Python Web 菜谱系统的首页，不会前端技术，也能做](https://blog.csdn.net/hihell/article/details/115384915)
  > 出现吧，Python Web 菜谱系统的首页，不会前端技术，也能做
- ## [字节跳动面试题：你的平均薪水是多少？](https://blog.csdn.net/zhongyangzhong/article/details/112343029)
- > 字节跳动面试题：你的平均薪水是多少？
- ## [.NET 5.0 正式版发布了！](https://blog.csdn.net/kebi007/article/details/109616747)
- > .NET 5.0 正式版发布了！
- ## [Ubuntu16.04 Caffe 安装步骤记录（超详尽）](https://blog.csdn.net/yhaolpz/article/details/71375762)
- > Ubuntu16.04 Caffe 安装步骤记录（超详尽）
- ## [测试Leader : " JIRA玩的很6, BUG面板做的很不错 "](https://blog.csdn.net/tester_sc/article/details/112855894)
- > 测试Leader : &quot; JIRA玩的很6, BUG面板做的很不错 &quot;
- ## [ssm框架从controller层返回json格式数据到页面](https://blog.csdn.net/qq_41150890/article/details/108423328)
- > ssm框架从controller层返回json格式数据到页面
- ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
- > 5 分钟带你弄懂 k-means 聚类
+ ## [万字图解Java多线程](https://blog.csdn.net/qq_35598736/article/details/108431422)
+ > 万字图解Java多线程
+ ## [Python爬取视频之爱情电影及解密TS文件和两种合并ts的方法](https://blog.csdn.net/a1191835397/article/details/107147105)
+ > 
+ ## [Python-Tkinter图形化界面设计（详细教程 ）](https://blog.csdn.net/RNG_uzi_/article/details/89792518)
+ > Python-Tkinter图形化界面设计（详细教程 ）
+ ## [2018秋招C/C++面试题总结](https://blog.csdn.net/u013457167/article/details/82814413)
+ > 2018秋招C/C++面试题总结
+ ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
+ > android studio安装教程
+ ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
+ > 机器学习之KNN最邻近分类算法
  ## [马斯克的火箭又炸了，这次可能怪美国宇航管理局：因督导员迟到，星舰原型SN11被迫在浓雾中发射...](https://blog.csdn.net/QbitAI/article/details/115364918)
  > 马斯克的火箭又炸了，这次可能怪美国宇航管理局：因督导员迟到，星舰原型SN11被迫在浓雾中发射...
  ## [复试平均分397分！清华大学计算机考研](https://blog.csdn.net/csseky/article/details/115291478)
@@ -98,46 +130,5 @@ categories: IT NEWS
  > Flutter Boost 混合开发框架初探
  ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
  > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
-# PM 
- ## [6000字干货：如何从0到1策划一场裂变增长活动？](http://www.chanpin100.com/article/114357)
- > 公众号经过 9 年发展，随便一场活动就能涨粉数万的流量盛宴已不在。活动同质化严重，平台政策趋严，用户也在一次次被“割”中成长。2021年，做裂变活动还有机会吗？怎么做，才能实现涨粉最大化？
- ## [加速数字化转型的两大原因是什么？](http://www.chanpin100.com/article/114353)
- > 我国正在大力倡导的“新基建”成为推动企业数字化转型的新动力。2020 年突如其来的新冠疫情影响了全球经济发展和国民生活，但也迫使企业积极找寻出路，进一步加快数字化转型的步伐。
- ## [数据平台或中台数据产品经理主要负责什么？](http://www.chanpin100.com/article/114385)
- > 随着人工智能、大数据的发展，数据产品经理这个岗位受到越来越多的青睐，今天本文主要探讨的内容是数据平台或中台数据产品经理在工作中主要负责什么。
- ## [易观千帆荣获“商业新知2020年度新耀之星优秀创作者”](http://www.chanpin100.com/article/114350)
- > 3月31日，商业新知创作者大会（管理&amp;专业岗位场）在京举行，本次活动面向管理、市场、产品、运营、财务、法务、人资、信息化、技术研发、设计等众多专业岗位创作者。会上公布了2020年度管理&amp;专业岗位类“新耀之星”创作者榜单，易观千帆从数万创作者中脱颖而出，荣获“商业新知2020年度新耀之星优秀创作者”。
- ## [如何从0到1构建埋点体系](http://www.chanpin100.com/article/114348)
- > 作为业务埋点对接人，需要想清楚埋点系统所承担的用途是什么？它在整个公司业务体系中的定位是什么？如果没有对这个工具定位好，后续推广使用及跨部门合作时，可能会产生冲突或者与其他工具的定位重复或矛盾。
- ## [我是否适合转行做数据产品经理？](http://www.chanpin100.com/article/114379)
- > 随着互联网的迅速发展，人工智能、大数据等新型行业纷纷涌现，数据产品经理现在是一个非常抢手的岗位，平均月薪也很高，那么怎样判断自己是否适合转行做数据产品经理呢？
- ## [马老师一分钟谈数字化：执行路线是数字化转型的核心](http://www.chanpin100.com/article/114341)
- > 数字化转型落地是一个跨界的综合体，也就是说你要懂这个体系和方法论，你在某一个环节的失败会导致你这个东西（数字化转型）失败。
- ## [节能降耗——搭建绿色IDC能耗与管控系统](http://www.chanpin100.com/article/114340)
- > 图扑软件（Hightopo）的数据中心3D可视化系统将多种复杂的管理系统信息聚集在虚拟仿真环境下，以人类最直观的理解形式展现，大幅度提升了信息交互和操控的效率，减少时间损耗和信息的浪费，保证信息的及时性和准确性。
- ## [到底什么是数据产品经理 工作内容有哪些？](http://www.chanpin100.com/article/114376)
- > 随着移动互联网的日渐成熟，随之而来的是大数据、人工智能、云计算等新兴的行业和新兴技术，数据分析师、数据产品经理等岗位也变得日渐火爆，平均月薪能达到27K左右，那么到底什么是数据产品经理？工作内容有哪些？本文就来谈论一下这个问题。
- ## [如何设计一个落地页才算得上是一个好的落地页？](http://www.chanpin100.com/article/114339)
- > 在营销过程中经常会遇到这种问题：做了很多广告投放，也做了很多优化的工作，投放页面每天的流量和点击消费都很高，可是获取的客户线索和购买率就是上不去。
- ## [数据分析必看书籍高阶篇](http://www.chanpin100.com/article/114375)
- > 前两篇文章分别给大家介绍了数据分析必看的入门书籍和进阶书籍，本篇文章给大家介绍一下数据分析必看的一些高阶书籍，希望大家都可以成长为数据大牛！
- ## [空有一堆数据 不会分析怎么办？](http://www.chanpin100.com/article/114338)
- > 一般在日常工作中，数据分析的任务都会以需求的方式呈现，如果在需求中有对背景和分析目的进行交代，无论是有数据还是没数据，至少有了大概的方向。
- ## [数据分析必看书籍进阶篇](http://www.chanpin100.com/article/114374)
- > 对学习数据分析的各位同学来说，如何快速、系统地对数据分析有一个宏观的系统把握，阅读相关书籍是不二的选择，书籍是前人的智慧总结，本文给大家介绍几本数据分析必看的进阶书籍。
- ## [人人都是原研哉：50秒制作小米新LOGO](http://www.chanpin100.com/article/114370)
- > 超椭圆往往都是依靠一些数学的公式绘制出来的。至于这个公式，不局限于一种，最终效果也肯定有一定的区别。比如下图中的公式虽然和原研哉的不同，但依然可以实现类似的效果。
- ## [小米高调杀入造车赛道 新能源汽车产业有望乘风破浪](http://www.chanpin100.com/article/114372)
- > 3月30日晚，小米集团在港交所公告称，董事会正式批准智能电动汽车业务立项，拟成立一家全资子公司，集团首席执行官雷军先生将兼任智能电动汽车业务的首席执行官。首期投资为100亿元人民币，预计未来10年投资额100亿美元。至此，传闻已久的“小米造车”正式官宣！
- ## [慢慢拆:美篇IOS端产品分析报告](http://www.chanpin100.com/article/114335)
- > 超细致分享，纯干货分享，正着看，反着读都会有收获的产品分析报告！本文不是指导文件，没有相关说明文字和理论内容，全是干货，建议有3~5年以上的经验的PM阅 读比较好。
- ## [大国AI竞赛加速 东南亚正在成为中国“AI后花园”？](http://www.chanpin100.com/article/114334)
- > 日前，百度在港交所二次上市，三位素人“敲钟者”中，来自百度山西数据标注基地的年轻妈妈郭梅引起了外界注意，和她一起AI数据标注师这个看起来偏“冷门”的职业，也首次为大众所熟知。
- ## [数据分析必看书籍入门篇](http://www.chanpin100.com/article/114371)
- > 对于数据分析初学者来说，多多阅读专业相关的书籍是很有益的。这里小编给大家推荐四本书，适合刚进入数据分析领域的新手，可以从阅读这些书籍开始学习。
- ## [山顶Talk第二十一期：用投资人的眼光选择就业方向](http://www.chanpin100.com/article/114368)
- > 2021年作为疫后职场流动的重启之年,伴随着“金三银四”求职季的到来,人才市场也迎来了期盼已久的热闹景象。在此利好背景下,“如何找到一份心仪的工作”成为无数职场人最关心的问题。
- ## [互联网公司用户调研方法详解](http://www.chanpin100.com/article/114333)
- > 个产品的发布会经历产品概念期、设计开发期、宣传推广期、平稳发展期、产品衰退期，产品在不同的阶段用户调研的目的也不一样。
 
     
