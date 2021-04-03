@@ -1,21 +1,21 @@
 ---
 title: 2021-04-03 IT News
 copyright: true
-date: 2021-04-03 08:01:25
+date: 2021-04-03 09:03:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [炸!英特尔新品终于来啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1617408003&ver=2985&signature=7JzGfrTP2zUGmIqXZPKVFeNDKtrZUTpT66*alWYg4ESh0bstRQvsKy75RgwHaw02jGEfmM1*kmAR65iD6EBYgTkyErehTnOVJfW5BQ4Oh0DQz2nhwmoWhVIMcu5G-iXN&new=1)
- > 全球顶尖的芯片公司，发起力来，比武侠小说里的男主还要厉害。4月7日晚7点，在半导体行业上呼风唤雨的英特尔将迎来一场新品发布会——第三代英特尔至强可扩展处理器。点击视频，看英特尔发布会详情这个处理器，...
- ## [研究发现 Android手机收集的用户数据是iPhone的20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1617408003&ver=2985&signature=fKSNucM2rHn7NwGxGS3KK1Sv9QDzFPYGHuBLUutqSxitkD4mkcJevYKm-rBCEGs470SRyfy*1XkLNgbltsxWYzIfQBBgnArSBUXoOTXkCd71XlfmW*nfPEDnP2mb-peI&new=1)
- > 据 ArsTechnica 报道，学院的计算机系统主席研究员道格·莱斯表示，iOS 和 Android 都在不断收集所谓的遥测数据，并分别将其发送回苹果和谷歌。这些信息的范围从将 SIM 卡插入智能手机到与硬件和应用交互。当用...
- ## [你一直看不上的 MR 头显，却一次出货 200 亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1617408003&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAhRIcCXLPrmeyFH9qyrVLLtPuzDZXyv-gSFaD1CUlWcC1EpUEo*jV82QsgK3JdNjcnIS91JoGvB*mQCNRCiJ3PV&new=1)
+ ## [你一直看不上的 MR 头显，却一次出货 200 亿美元](http://mp.weixin.qq.com/s?src=11&timestamp=1617411604&ver=2985&signature=19Nu8ZPoRpHsvSYhlfQ3Nvzut1u7rjtLvB8ZbMyjxAiwlRIXoJf58LYPVsXDUNCf9vJmHu*iUXHdh8ca3li3243u*cLWhq2ex12DPkwVXfbMvemkEt58UMClt8kNyJpj&new=1)
  > 一款可以强力拉动消费者购买硬件的应用，人们管它叫「杀手级应用」。那么，MR 的杀手级应用是「战争」？2018 年 11 月，微软就赢得了美国陆军 4.8 亿美元的合同，在随后的两年给军方定制混合现实（MR）眼镜，首...
- ## [千兆光网生意要做大做强，运营商该怎么建网?](http://mp.weixin.qq.com/s?src=11&timestamp=1617408003&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzAJEAX4SnNmy0aiGCy2ZJwXMaNNx*EWfgWeXIyzuJQgJTbVjCKz-tfqPPQSLRyijOZnIdjHyNmd21vtNDaYsD8z-&new=1)
- > 迈入2021年，国家加大对千兆宽带行业的支持力度。先是今年我国政府工作报告明确要求加大5G网络与千兆光网建设力度，丰富应用场景。这把千兆光网的战略地位，提升到国家级新高度。之后3月24日，工信部发布《“双...
- ## [亿咖通科技：国际化布局再落子|寰球车评](http://mp.weixin.qq.com/s?src=11&timestamp=1617408003&ver=2985&signature=qEpVtcBZngTx4LI9LuVmWq742RFA2U-dQ0D1Y7B0wOwWpH3Np*XRYEhIj9unlyADZFAdqAbvCjPf9VD2UGioOM04goE1kfm6ayq5H2Uu5jOmbWZwJA7hH3HsGFfcCQEv&new=1)
+ ## [研究发现 Android手机收集的用户数据是iPhone的20倍](http://mp.weixin.qq.com/s?src=11&timestamp=1617411604&ver=2985&signature=fKSNucM2rHn7NwGxGS3KK1Sv9QDzFPYGHuBLUutqSxjMMFLSBcfCpUj4MCSl6314sdOWGHnMmGX8mfrRhgZXvZOM0BNmy3s8DiaaRy6TzmuxwXBOpn7*kg12htQb1JrM&new=1)
+ > 据 ArsTechnica 报道，学院的计算机系统主席研究员道格·莱斯表示，iOS 和 Android 都在不断收集所谓的遥测数据，并分别将其发送回苹果和谷歌。这些信息的范围从将 SIM 卡插入智能手机到与硬件和应用交互。当用...
+ ## [亿咖通科技：国际化布局再落子|寰球车评](http://mp.weixin.qq.com/s?src=11&timestamp=1617411604&ver=2985&signature=qEpVtcBZngTx4LI9LuVmWq742RFA2U-dQ0D1Y7B0wOyRSO1ETcF1fMu70O51gLzH*vqd9c5m1zoAyK6nv8gygO2wZ2jDH0fyrbkXJVfKqL9luRBjn4q8nR6NG2LI1yWI&new=1)
  > 3月23日，亿咖通科技宣布与沃尔沃汽车成立合资公司。合资公司将坐落于瑞典哥德堡，预计将于2021年第三季度正式投入运营。作为双方的共同愿景，合资公司将共同研发适用全球的新一代智能座舱系统。亿咖通科技CEO沈...
+ ## [千兆光网生意要做大做强，运营商该怎么建网?](http://mp.weixin.qq.com/s?src=11&timestamp=1617411604&ver=2985&signature=47YNFVR6vmvWUHDSS4dDOXlyQSurT0FHRL9LxMrrzAK2-kCPSA5OALvB-htGOeeMdCsrbIqUK9nSn6OWhu9HMPrRVeanXUZkmRBVuEa9gzI9V-Dj0PgHc-wLLlgyaaz5&new=1)
+ > 迈入2021年，国家加大对千兆宽带行业的支持力度。先是今年我国政府工作报告明确要求加大5G网络与千兆光网建设力度，丰富应用场景。这把千兆光网的战略地位，提升到国家级新高度。之后3月24日，工信部发布《“双...
+ ## [炸!英特尔新品终于来啦!](http://mp.weixin.qq.com/s?src=11&timestamp=1617411604&ver=2985&signature=7JzGfrTP2zUGmIqXZPKVFeNDKtrZUTpT66*alWYg4ERfy1A6C4WhEfwsHCLiugwHdGxi4HE7kixgrvqzMw87ljPV0XPKD7CGo8ii2SGpjpShibMKwbYnl7OwT64Hn7cC&new=1)
+ > 全球顶尖的芯片公司，发起力来，比武侠小说里的男主还要厉害。4月7日晚7点，在半导体行业上呼风唤雨的英特尔将迎来一场新品发布会——第三代英特尔至强可扩展处理器。点击视频，看英特尔发布会详情这个处理器，...
 # IT 技术 
  ## [针对自动化测试的 23 种 Node.js 优秀实践](http://developer.51cto.com/art/202104/655059.htm)
  > 针对自动化测试的 23 种 Node.js 优秀实践
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?
  ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
  > AI训练的最大障碍不是算力，而是“内存墙”
- ## [【曾贤志】Excel函数宝典大全（数据分析利剑 完整版）](http://fellow.51cto.com/art/202101/640480.htm?qd=51ctojrzd)
- > 【曾贤志】Excel函数宝典大全（数据分析利剑 完整版）
+ ## [Xhtml实战视频教程【李炎恢老师】](http://fellow.51cto.com/art/202101/640232.htm?qd=51ctojrzd)
+ > Xhtml实战视频教程【李炎恢老师】
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -43,18 +43,18 @@ categories: IT NEWS
  > python你TM太皮了——区区30行代码就能记录键盘的一举一动
  ## [出现吧，Python Web 菜谱系统的首页，不会前端技术，也能做](https://blog.csdn.net/hihell/article/details/115384915)
  > 出现吧，Python Web 菜谱系统的首页，不会前端技术，也能做
- ## [万字图解Java多线程](https://blog.csdn.net/qq_35598736/article/details/108431422)
- > 万字图解Java多线程
- ## [Python爬取视频之爱情电影及解密TS文件和两种合并ts的方法](https://blog.csdn.net/a1191835397/article/details/107147105)
- > 
- ## [Python-Tkinter图形化界面设计（详细教程 ）](https://blog.csdn.net/RNG_uzi_/article/details/89792518)
- > Python-Tkinter图形化界面设计（详细教程 ）
- ## [2018秋招C/C++面试题总结](https://blog.csdn.net/u013457167/article/details/82814413)
- > 2018秋招C/C++面试题总结
- ## [android studio安装教程](https://blog.csdn.net/Y74364/article/details/96121530)
- > android studio安装教程
- ## [机器学习之KNN最邻近分类算法](https://blog.csdn.net/pengjunlee/article/details/82713047)
- > 机器学习之KNN最邻近分类算法
+ ## [字节跳动面试题：你的平均薪水是多少？](https://blog.csdn.net/zhongyangzhong/article/details/112343029)
+ > 字节跳动面试题：你的平均薪水是多少？
+ ## [.NET 5.0 正式版发布了！](https://blog.csdn.net/kebi007/article/details/109616747)
+ > .NET 5.0 正式版发布了！
+ ## [Ubuntu16.04 Caffe 安装步骤记录（超详尽）](https://blog.csdn.net/yhaolpz/article/details/71375762)
+ > Ubuntu16.04 Caffe 安装步骤记录（超详尽）
+ ## [测试Leader : " JIRA玩的很6, BUG面板做的很不错 "](https://blog.csdn.net/tester_sc/article/details/112855894)
+ > 测试Leader : &quot; JIRA玩的很6, BUG面板做的很不错 &quot;
+ ## [ssm框架从controller层返回json格式数据到页面](https://blog.csdn.net/qq_41150890/article/details/108423328)
+ > ssm框架从controller层返回json格式数据到页面
+ ## [5 分钟带你弄懂 k-means 聚类](https://blog.csdn.net/huangfei711/article/details/78480078)
+ > 5 分钟带你弄懂 k-means 聚类
  ## [马斯克的火箭又炸了，这次可能怪美国宇航管理局：因督导员迟到，星舰原型SN11被迫在浓雾中发射...](https://blog.csdn.net/QbitAI/article/details/115364918)
  > 马斯克的火箭又炸了，这次可能怪美国宇航管理局：因督导员迟到，星舰原型SN11被迫在浓雾中发射...
  ## [复试平均分397分！清华大学计算机考研](https://blog.csdn.net/csseky/article/details/115291478)
@@ -63,37 +63,6 @@ categories: IT NEWS
  > 每天自学两小时Python，三个月学通月入20K
  ## [嵌入式 C 语言（上）](https://blog.csdn.net/thisway_diy/article/details/115159796)
  > 嵌入式 C 语言（上）
-# 人工智能 
- ## [漫谈socket-io的基本原理](https://blog.csdn.net/u010349169/article/details/115107507)
- > 漫谈socket-io的基本原理
- ## [CSDN 统一标签设计  征求反馈](https://blog.csdn.net/SoftwareTeacher/article/details/115250622)
- > CSDN 统一标签设计  征求反馈
- ## [Python函数的参数类型和使用技巧](https://blog.csdn.net/xufive/article/details/115298728)
- > Python函数的参数类型和使用技巧
- ## [OpenCV-Python图形图像处理：制作雪花飘落特效](https://blog.csdn.net/LaoYuanPython/article/details/115298737)
- > 
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [从苏宁电器到卡巴斯基（第二部）第05篇：我在卡巴的日子 V](https://blog.csdn.net/ioio_jy/article/details/115307755)
- > 从苏宁电器到卡巴斯基（第二部）第05篇：我在卡巴的日子 V
- ## [三机齐发！五大全球首发的“安卓机皇”4999元起，“安卓之光” 5999元起](https://blog.csdn.net/csdnnews/article/details/115314669)
- > 三机齐发！五大全球首发的“安卓机皇”4999元起，“安卓之光” 5999元起
- ## [2020 年前端技术发展盘点](https://blog.csdn.net/TriDiamond6/article/details/115316583)
- > 2020 年前端技术发展盘点
- ## [Vue 3 生命周期完整指南](https://blog.csdn.net/qq449245884/article/details/115341203)
- > Vue 3 生命周期完整指南
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [图灵奖今日出炉，“龙书” 作者、编程语言大佬 Alfred Aho 和 Jeffrey Ullman 获奖](https://blog.csdn.net/AMiner2006/article/details/115357101)
- > 图灵奖今日出炉，“龙书” 作者、编程语言大佬 Alfred Aho 和 Jeffrey Ullman 获奖
- ## [Spring Boot 定义接口的方法是否可以声明为 private？](https://blog.csdn.net/u012702547/article/details/115365730)
- > Spring Boot 定义接口的方法是否可以声明为 private？
- ## [慌了，老大让我将线上的服务器升配，咋搞？](https://blog.csdn.net/u010889990/article/details/115371538)
- > 慌了，老大让我将线上的服务器升配，咋搞？
- ## [新手小白入门编程第1讲 计算机基础知识 JAVA基础知识](https://blog.csdn.net/weixin_43884234/article/details/115343616)
- > 新手小白入门编程第1讲 计算机基础知识 JAVA基础知识
- ## [AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛](https://blog.csdn.net/Tencent_TEG/article/details/101088096)
- > AI种番茄！腾讯xWUR智慧温室大赛预赛揭晓，农科院和三星等五队挺进决赛
 # PM 
  ## [6000字干货：如何从0到1策划一场裂变增长活动？](http://www.chanpin100.com/article/114357)
  > 公众号经过 9 年发展，随便一场活动就能涨粉数万的流量盛宴已不在。活动同质化严重，平台政策趋严，用户也在一次次被“割”中成长。2021年，做裂变活动还有机会吗？怎么做，才能实现涨粉最大化？
