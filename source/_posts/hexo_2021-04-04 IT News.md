@@ -1,20 +1,20 @@
 ---
 title: 2021-04-04 IT News
 copyright: true
-date: 2021-04-04 08:01:47
+date: 2021-04-04 09:03:03
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [“一带一路”智能传感与物联网合作联盟助力沿线国家智能互联](http://mp.weixin.qq.com/s?src=11&timestamp=1617494404&ver=2987&signature=nMKPRaZt7f4NWnzsiKXKNKz9lGRo3E-0MBDlSZcWrQuCiIG3WwBmfhoBhr7QQcQhQboAGbBgulPFThD*JxprnkJFwit396OnmdacZHcxi1k=&new=1)
- > 新华社北京4月3日电（记者王思北）经中国科协批准，由中国仪器仪表学会发起的“一带一路”智能传感与物联网合作联盟日前举办专题研讨会。与会人士认为，联盟的筹办将有助于推动沿线国家智能互联，助力传感与...
- ## [视频|美军IVAS功能解析，微软218.8亿美元合同背后](http://mp.weixin.qq.com/s?src=11&timestamp=1617494404&ver=2987&signature=rRzeYLdeqXlORTtdCPurvkNGQJRDLWO4i*LFP5XtiEzMXAiPyUPq5HFEovlucNXZNHjRCsT349ZodvF2soYZO0pRoepGsQCJuXrPf4MCc1zano68frBc845cefQWfMdE&new=1)
- > Esther｜编辑4月1日彭博报道，美国陆军正式宣布与微软签订固定价格制造合同，合同中表明微软将为美军IVAS头显项目定制基于HoloLens的军用头显。据悉，这份合同首次在三年前曝光，而现在则公布了合同的更多细节，...
- ## [小米百亿美元投入意欲在汽车行业占有一席之地，百度提醒需要千亿](http://mp.weixin.qq.com/s?src=11&timestamp=1617494404&ver=2987&signature=3erN6dgnFImGwjZ4Rj-EoXSxbNIGzPfbOftHSofJHDOH8c9VjcwbGggelU0cUlZTLk2mL1THWlMDnr67AisrmU4Kh-Fwwvm1zxWhBWhQ3pjTYYDDGtA5--1kv4LlAeh9&new=1)
+ ## [小米百亿美元投入意欲在汽车行业占有一席之地，百度提醒需要千亿](http://mp.weixin.qq.com/s?src=11&timestamp=1617498003&ver=2987&signature=3erN6dgnFImGwjZ4Rj-EoXSxbNIGzPfbOftHSofJHDOH8c9VjcwbGggelU0cUlZTtTIcoQakY1u*EDArZ3-h*nGRUmgLcEeG7ouQsFqnux2ARZSC1-vJXHll1aVpn9ni&new=1)
  > 小米正式成立汽车项目后，表示未来10年将投入百亿美元，然而国内自动驾驶技术领导者百度创始人李彦宏表示仅是去年就已投入200亿人民币，百度研发自动驾驶技术累计投入估计高达千亿，这给小米警示要在汽车行业取...
- ## [曹老师发了一条信息，说小米之所以敢造车，是确信华为大概率不会回归手机业务了。这则消息听了让人伤心。虽然我从来不是华为手机用户，但华为在手机市场的缺失，不管是对于中国的手机产业链也好(对苹果依赖度更高了)，还是对于中国经济本身来说(缺了一个向上突破的领域)都不是好事。而且这样的消失是被迫的，是在战略压力下付出的代价，更让人唏嘘了。现在中国众多企业选择智能汽车作为下一个突破点，那么智能汽车产业最强的国家是个呢?有一天威胁到它的地位的时候会不会采取同样的手段。我不敢说。只是希望，中国的企业有一天能够不因非商业因素而退出市场竞争。](http://mp.weixin.qq.com/s?src=11&timestamp=1617494404&ver=2987&signature=53XMs5S07KQ5xwp3EM3aetVpbhCon7NRy3LQgSmwuDnscvGm*mZTXXoJJYnDaxD1HhZO-yILHYP-z5JvJH0IfHknlvXrlG5cckChj1uJfQ9FjZSIQ9t4gwWg2VGxXhy1&new=1)
+ ## [视频|美军IVAS功能解析，微软218.8亿美元合同背后](http://mp.weixin.qq.com/s?src=11&timestamp=1617498003&ver=2987&signature=rRzeYLdeqXlORTtdCPurvkNGQJRDLWO4i*LFP5XtiEzMXAiPyUPq5HFEovlucNXZqjLTXFKHs7Xay5LvvWDd2VtrESLxGywBGDDyBoFyg8cdZWPmNKGo88BHzL6qTI2w&new=1)
+ > Esther｜编辑4月1日彭博报道，美国陆军正式宣布与微软签订固定价格制造合同，合同中表明微软将为美军IVAS头显项目定制基于HoloLens的军用头显。据悉，这份合同首次在三年前曝光，而现在则公布了合同的更多细节，...
+ ## [曹老师发了一条信息，说小米之所以敢造车，是确信华为大概率不会回归手机业务了。这则消息听了让人伤心。虽然我从来不是华为手机用户，但华为在手机市场的缺失，不管是对于中国的手机产业链也好(对苹果依赖度更高了)，还是对于中国经济本身来说(缺了一个向上突破的领域)都不是好事。而且这样的消失是被迫的，是在战略压力下付出的代价，更让人唏嘘了。现在中国众多企业选择智能汽车作为下一个突破点，那么智能汽车产业最强的国家是个呢?有一天威胁到它的地位的时候会不会采取同样的手段。我不敢说。只是希望，中国的企业有一天能够不因非商业因素而退出市场竞争。](http://mp.weixin.qq.com/s?src=11&timestamp=1617498003&ver=2987&signature=53XMs5S07KQ5xwp3EM3aetVpbhCon7NRy3LQgSmwuDnscvGm*mZTXXoJJYnDaxD1wYQ-MSVcOE14OLv6CDjhYcrz-nmjLX23GnL2MoLZ8pFkDxKCrGdWvejlFxlFHdX1&new=1)
  > 曹老师发了一条信息，说小米之所以敢造车，是确信华为大概率不会回归手机业务了。这则消息听了让人伤心。虽然我从来不是华为手机用户，但华为在手机市场的缺失，不管是对于中国的手机产业链也好（对苹果依赖度更...
- ## [中国移动OpenUPF回顾与展望：解耦计划稳步推进，今年或将行业落地](http://mp.weixin.qq.com/s?src=11&timestamp=1617494404&ver=2987&signature=W796PyLjqDr2h0DI2An*vGAJVcFE4AijWI7VXh0L17YWDnIgog*eWz-p70iqLc5k88r1gSNOpzNeY*uTsjLQ*Jkf8HCksgMjHEXqDy2wnPA3lyK6h5*aSWHLNwY5rxXt&new=1)
+ ## [“一带一路”智能传感与物联网合作联盟助力沿线国家智能互联](http://mp.weixin.qq.com/s?src=11&timestamp=1617498003&ver=2987&signature=nMKPRaZt7f4NWnzsiKXKNKz9lGRo3E-0MBDlSZcWrQt2eJBjTfRUNiLUhe1Ba8hW6WHJIQl14OJmgggb9NFRlTfw*H6bMB5a3G1NtA62Exg=&new=1)
+ > 新华社北京4月3日电（记者王思北）经中国科协批准，由中国仪器仪表学会发起的“一带一路”智能传感与物联网合作联盟日前举办专题研讨会。与会人士认为，联盟的筹办将有助于推动沿线国家智能互联，助力传感与...
+ ## [中国移动OpenUPF回顾与展望：解耦计划稳步推进，今年或将行业落地](http://mp.weixin.qq.com/s?src=11&timestamp=1617498003&ver=2987&signature=W796PyLjqDr2h0DI2An*vGAJVcFE4AijWI7VXh0L17YWDnIgog*eWz-p70iqLc5kbe4LJiWnZ92xMgHYlaUh3ngfvO--vkjntYJJfcOhoFZAEm34MMQPZLDO-KmlNWo4&new=1)
  > 2020年是我国5G SA商用元年，SA网络具备网络切片、边缘计算等一系列新特性，不仅可以服务于传统公众网用户，还能满足垂直行业需求，是推动移动通信技术进入通用领域的催化剂。而UPF是5G和垂直行业的连接点，行业...
 # IT 技术 
  ## [针对自动化测试的 23 种 Node.js 优秀实践](http://developer.51cto.com/art/202104/655059.htm)
@@ -31,8 +31,12 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?
  ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
  > AI训练的最大障碍不是算力，而是“内存墙”
- ## [IT小技巧：U盘装系统、密码破解、远程控制与数据恢复视频课程](http://fellow.51cto.com/art/202101/640479.htm?qd=51ctojrzd)
- > IT小技巧：U盘装系统、密码破解、远程控制与数据恢复视频课程
+ ## [MySQL主从复制项目实施与维护01(MR)_MySQL高可用复制与分布式集群架构02](http://fellow.51cto.com/art/202007/622447.htm?qd=51ctojrzd)
+ > MySQL主从复制项目实施与维护01(MR)_MySQL高可用复制与分布式集群架构02
+ ## [NewsFlash: 一款支持 Feedly 的现代开源 Feed 阅读器](http://os.51cto.com/art/202104/655618.htm)
+ > 我最近遇到一个很棒的 RSS 阅读器 NewsFlash。它支持通过基于网页的 Feed 阅读器增加 feed，例如 Feedly 和
+ ## [如何用 C++ 读写文件](http://developer.51cto.com/art/202104/655617.htm)
+ > 如果你知道如何在 C++ 中使用输入输出（I/O）流，那么（原则上）你便能够处理任何类型的输入输出设备。
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
