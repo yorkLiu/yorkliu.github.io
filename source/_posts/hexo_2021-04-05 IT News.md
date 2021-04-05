@@ -1,21 +1,21 @@
 ---
 title: 2021-04-05 IT News
 copyright: true
-date: 2021-04-05 09:03:42
+date: 2021-04-05 10:02:52
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [本周大新闻|微软拿下美军218亿美元订单，苹果、Snap AR眼镜或将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1617584404&ver=2989&signature=oLMeB8KzuprOiJ37IDVxpflH7MD9GAwb1dFPEr5Dp3UHEfFqBKvSJ7UaEU0EdFTYPSUbukJMhbxSJPEASSc5MSB*V7Za0bXtrKxfb84hul4CutLDZpbUwIDXUMSgPZM9&new=1)
- > hi188｜编辑本周大新闻，AR方面，微软与美军签订预计高达218.8亿美元IVAS军事AR头显项目订单；彭博报道苹果MR头显(开发者版)几个月后发布；The Information报道Snap AR眼镜（开发者版）将在5月发布；Niant
- ## [“缺芯潮”蔓延到摩托车行业了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1617584404&ver=2989&signature=xhtrR129Eml81anvBJA77YY2d4JMHVyGG6SgBfZ-CbjtgzfSqVb-UO7wsbS-*1*b115SJs7NvyW9*LKtgEUAkKAVJS7MeJnZYdY*V-zpaSNB17ALqYrCVVGNWkPHrj8U&new=1)
- > 国内外摩托车资讯！2020提起芯片危机时好像还只是和华为等有关。 但看着2021的摩托车市场，好像“缺芯荒”已然从手机电脑互联网端蔓延到了摩托车。有人说“缺芯”是由于疫情所致，由于疫情导致大量工厂延缓生产...
- ## [在党史学习教育中发挥融媒体优势](http://mp.weixin.qq.com/s?src=11&timestamp=1617584404&ver=2989&signature=2LH*AhRHoPUrJuoTks3vzwj0uOiM1BJJ4JIBh2TrRH3jawqbatF2SI*KvQe3LT3iTMzCm5Egij2jdiSvqe0RhuWlNGqo7Gq5l6tSPTAZoLKwMTMhn9gkKTKQLQ8kkZh3&new=1)
- > 编辑同志：　　伴随着信息社会不断发展，新兴媒体影响越来越大。媒介格局、舆论环境、话语主体、传播方式等都在发生变化，报刊、广播、电视等传统媒体与微博、微信、APP、网站等新兴媒体相互融合。在党史学习教...
- ## [聚集前沿!硅光集成与数据中心应用线上研讨会召开在即](http://mp.weixin.qq.com/s?src=11&timestamp=1617584404&ver=2989&signature=wvAG*sr7q97vXult8mjoBoKkZ6NBtjWIXe40VYh0xWCBEl06wHKHgFameWeSdYOtZDVXY2-1e99DTnrm52TzfuF6g74OSj2tJo2hF1HQ9LofTNvzZYP7wgSnPID8EIQM&new=1)
- > ‍‍‍‍‍‍‍‍‍‍‍会议名称：硅光集成与数据中心应用线上研讨会会议时间：2021年4月7日 14:00-17:05会议形式：线上研讨会，C114通信网全程直播主办单位：CIOE中国光博会、C114通信网协办单位：深圳市光学光...
- ## [人事：中国电信两地省级高管调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1617584404&ver=2989&signature=6CDyarfWjWFyw0RWD5RG4iCxBDwqkBsmz66Il1iTeSpbxkU6WzvUrGxg7F-BuEpOJq9JCtm5LeLHVP5tW*YllsSmewRhWzlPVqJWYan8nbriBDOqg8z8TkKWoCPTH3CC&new=1)
+ ## [人事：中国电信两地省级高管调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1617588004&ver=2989&signature=6CDyarfWjWFyw0RWD5RG4iCxBDwqkBsmz66Il1iTeSpbxkU6WzvUrGxg7F-BuEpOWM3wZzmGVTFUXfRE55Fh55tWIFL6myftNGw*3JBU31wfzOzG02gP1el8laTvhuxa&new=1)
  > 运营商情报获悉，近期中国电信省级管理层部分人事调整：陕西电信副总经理李延平任职黑龙江电信总经理。安徽电信政企客户部沈阿强任湖南电信副总经理。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责...
+ ## [本周大新闻|微软拿下美军218亿美元订单，苹果、Snap AR眼镜或将发布](http://mp.weixin.qq.com/s?src=11&timestamp=1617588004&ver=2989&signature=oLMeB8KzuprOiJ37IDVxpflH7MD9GAwb1dFPEr5Dp3UHEfFqBKvSJ7UaEU0EdFTYkZ4tQMDt5TaCspY2nQu4A6HCurCiRUWKGE0uDz-ldbV4fRBztGaTs07bEiBBZj3Y&new=1)
+ > hi188｜编辑本周大新闻，AR方面，微软与美军签订预计高达218.8亿美元IVAS军事AR头显项目订单；彭博报道苹果MR头显(开发者版)几个月后发布；The Information报道Snap AR眼镜（开发者版）将在5月发布；Niant
+ ## [在党史学习教育中发挥融媒体优势](http://mp.weixin.qq.com/s?src=11&timestamp=1617588004&ver=2989&signature=2LH*AhRHoPUrJuoTks3vzwj0uOiM1BJJ4JIBh2TrRH3jawqbatF2SI*KvQe3LT3i268wNYCWaTLh7pAwFnfBlkH*B3WxoSrE7N5CRYQukqkbF8fGtnJFh-0616M14dZg&new=1)
+ > 编辑同志：　　伴随着信息社会不断发展，新兴媒体影响越来越大。媒介格局、舆论环境、话语主体、传播方式等都在发生变化，报刊、广播、电视等传统媒体与微博、微信、APP、网站等新兴媒体相互融合。在党史学习教...
+ ## [聚集前沿!硅光集成与数据中心应用线上研讨会召开在即](http://mp.weixin.qq.com/s?src=11&timestamp=1617588004&ver=2989&signature=wvAG*sr7q97vXult8mjoBoKkZ6NBtjWIXe40VYh0xWCBEl06wHKHgFameWeSdYOtgYQabyAmZnnxMzfNbfH*HGbi7JNcTM*xhjjmteFiYQjV0V26Et7gP5XNclIMqREa&new=1)
+ > ‍‍‍‍‍‍‍‍‍‍‍会议名称：硅光集成与数据中心应用线上研讨会会议时间：2021年4月7日 14:00-17:05会议形式：线上研讨会，C114通信网全程直播主办单位：CIOE中国光博会、C114通信网协办单位：深圳市光学光...
+ ## [“缺芯潮”蔓延到摩托车行业了吗?](http://mp.weixin.qq.com/s?src=11&timestamp=1617588004&ver=2989&signature=xhtrR129Eml81anvBJA77YY2d4JMHVyGG6SgBfZ-CbjtgzfSqVb-UO7wsbS-*1*bCk6p51JiSR5Q-Ku3x8dEJpOc3EHU1mJIhgIMkigvwzpALjfemkm2B1Wsnl5UnYOt&new=1)
+ > 国内外摩托车资讯！2020提起芯片危机时好像还只是和华为等有关。 但看着2021的摩托车市场，好像“缺芯荒”已然从手机电脑互联网端蔓延到了摩托车。有人说“缺芯”是由于疫情所致，由于疫情导致大量工厂延缓生产...
 # IT 技术 
  ## [针对自动化测试的 23 种 Node.js 优秀实践](http://developer.51cto.com/art/202104/655059.htm)
  > 针对自动化测试的 23 种 Node.js 优秀实践
@@ -31,8 +31,8 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?
  ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
  > AI训练的最大障碍不是算力，而是“内存墙”
- ## [【125】-CSMA CD工作过程](http://fellow.51cto.com/art/202101/642228.htm?qd=51ctojrzd)
- > 【125】-CSMA CD工作过程
+ ## [马哥教育2016Linux培训教程-Linux入门学习和基础命令](http://fellow.51cto.com/art/202101/638282.htm?qd=51ctojrzd)
+ > 马哥教育2016Linux培训教程-Linux入门学习和基础命令
  ## [Python基础之进制和数据类型](http://developer.51cto.com/art/202104/655958.htm)
  > 本文基于Python基础，主要讲解了进制和数值类型。通过一个个小项目详细的讲解和图片的效果展示，以期让读者
  ## [Java基础入门之Calendar类和DateFormat类](http://developer.51cto.com/art/202104/655957.htm)
