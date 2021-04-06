@@ -1,22 +1,28 @@
 ---
 title: 2021-04-06 IT News
 copyright: true
-date: 2021-04-06 08:01:00
+date: 2021-04-06 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [为什么你只看得下去纸质书?这项研究告诉你大脑更活跃的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1617667204&ver=2991&signature=Hch-ezuj9k9oTgPdZchXq-qSsuAwq7WKzUvU-b9YNLrR9-yEQWBoz6R-YiIdB*cSPnSCEnBFchwEg8n6q3pDkc9dvsXKDp245Nm1JDxdQTkaJESHKAiK2KEay8trTkMU&new=1)
+ ## [为什么你只看得下去纸质书?这项研究告诉你大脑更活跃的关键](http://mp.weixin.qq.com/s?src=11&timestamp=1617670804&ver=2991&signature=Hch-ezuj9k9oTgPdZchXq-qSsuAwq7WKzUvU-b9YNLrca5gKyxRFpmY242nvp7HIDuoVUf13GAZDoS4pOz6uX5FwChlJOsU614Wk72FFqN0J2sgkWpFnNq3-ei0kLTW0&new=1)
  > 本文作者：协和小卒手机、平板电脑等移动设备使用正在改变人们的日常工作学习方式，甚至有的实验室已经在尝试无纸化记录。平时阅读文献的时候，许多人可能有把文献打印出来阅读的习惯。明明电子产品也有高亮、备...
- ## [Java 版权一案，谷歌终战胜 Oracle；Python 发布3.9.4；LG关停智能手机业务；Facebook数据再泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1617667204&ver=2991&signature=Jt9GoJTt9Zw*6JG4gXsXiZOYAZKuv6HlAErMz0PLamVvlZU6rnpUMJzGw3r1i1hjbLJUvPvTf*ALRHEHJCuQlovffLJS6wA294ihHoplb0mxcvD5EOVUeU2BYpqdXq4J&new=1)
- > 喜大普奔，谷歌终战胜 Oracle十年前，Oracle 认为谷歌将37个 Java API 的“结构、序列和组织”复制到了 Android 中，侵犯了 Oracle 的版权。谷歌回应称，API 就像字母或语法，是用来创建程序的基本元素。4月
- ## [眼球追踪VR+面部追踪模块，网友打造最强MetaHuman虚拟人方案](http://mp.weixin.qq.com/s?src=11&timestamp=1617667204&ver=2991&signature=JIbZrvR78AnRb53QHWWjgCDtvr5P6rnJ41n7sgfgqerJlzChoz-*Bk57s2cSBxsRdOYnhHCDmoVWG0otRfJK8rF9ZrddtgdVl2n4MdBj52KHB5k6igB9jgZmOpsIq*q7&new=1)
- > Esther｜编辑Epic不久前发布全新的浏览器工具MetaHuman Creator，该工具基于像素流和云端技术，可以让你在网页端创建高保真的3D虚拟形象，结合动作捕捉技术，这种虚拟形象可实时模拟你的面部表情和身体动作。可...
- ## [西门子医疗王皓：数字化转型与中国高速增长同步 大中华区营收增长预期超过12%](http://mp.weixin.qq.com/s?src=11&timestamp=1617667204&ver=2991&signature=ido78diKYXbq-HX3YCKLnVZenF0AKF*ouEMzQNTZx0bzphfMF1UsqadkO7ECawoXcI0uyb1NLaqM60UTAfOd6bslhBkGTpGAjkiWYD76F2g=&new=1)
- > 经济观察网 沈建缘/文 数据正在成为商业世界新的资源，也将给医疗行业的产品和服务模式带来巨大变革。面对人口老龄化现实和降低医疗成本的需求，人工智能和数字化正成为关键的解决之道。西门子医疗希望，其数字...
- ## [重大调整!中国移动这两个部门要合并了?改革已经开始了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617667204&ver=2991&signature=32trNzUGCVALu8j8jbmN5kzz5OwSzvAKaxx4ENz8hpqW676798prb*-McibJ0SaOpeg-i3M0ayMGJ6GJL81w1RcyUpdmCO-uSwD4vFjNGG5MCzHSe1lIhJBLBbuV-xw-&new=1)
+ ## [重大调整!中国移动这两个部门要合并了?改革已经开始了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617670804&ver=2991&signature=32trNzUGCVALu8j8jbmN5kzz5OwSzvAKaxx4ENz8hpqKU3NmTIgWlhMzOYeTWkC8cBBPfZb18OhNhTmbnEofXphwzE2nSMyRYJ3okdLhbcAsZhmxjetz*cxf8hB4mGZ2&new=1)
  > 发达的网络，突破了时间和空间的限制，打破了人群和知识的界限，同时也崛起了互联网经济。运营商曾经靠广铺线下渠道，地毯式代理获得了飞速增长。然而在现在，当初的线下发展模式已经无法满足当下人们的需求。线...
+ ## [眼球追踪VR+面部追踪模块，网友打造最强MetaHuman虚拟人方案](http://mp.weixin.qq.com/s?src=11&timestamp=1617670804&ver=2991&signature=JIbZrvR78AnRb53QHWWjgCDtvr5P6rnJ41n7sgfgqeo0rsVe90XnoBjs151SHDRcR174DLd0IAvlZ-TtsxQQQtedGhCc45*O4rJNl8ZuCYGqKdzV2a3wunQRMYzH3vuO&new=1)
+ > Esther｜编辑Epic不久前发布全新的浏览器工具MetaHuman Creator，该工具基于像素流和云端技术，可以让你在网页端创建高保真的3D虚拟形象，结合动作捕捉技术，这种虚拟形象可实时模拟你的面部表情和身体动作。可...
+ ## [西门子医疗王皓：数字化转型与中国高速增长同步 大中华区营收增长预期超过12%](http://mp.weixin.qq.com/s?src=11&timestamp=1617670804&ver=2991&signature=ido78diKYXbq-HX3YCKLnVZenF0AKF*ouEMzQNTZx0b39IoUqXv4Xy9aGDMlINNUuUA9lWhlt*y*6lMKAmfE9VyoUMiYMFqeHrg2Izt6gUw=&new=1)
+ > 经济观察网 沈建缘/文 数据正在成为商业世界新的资源，也将给医疗行业的产品和服务模式带来巨大变革。面对人口老龄化现实和降低医疗成本的需求，人工智能和数字化正成为关键的解决之道。西门子医疗希望，其数字...
+ ## [Java 版权一案，谷歌终战胜 Oracle；Python 发布3.9.4；LG关停智能手机业务；Facebook数据再泄露](http://mp.weixin.qq.com/s?src=11&timestamp=1617670804&ver=2991&signature=Jt9GoJTt9Zw*6JG4gXsXiZOYAZKuv6HlAErMz0PLamWJAzLpjm3nuX8tCIoa1pIR2vt4iMpm3ofGzfZb7YCOxvaYXtMeYbIjxjcSOeYersa9ImIk4h8OMDMObiRzc2FM&new=1)
+ > 喜大普奔，谷歌终战胜 Oracle十年前，Oracle 认为谷歌将37个 Java API 的“结构、序列和组织”复制到了 Android 中，侵犯了 Oracle 的版权。谷歌回应称，API 就像字母或语法，是用来创建程序的基本元素。4月
 # IT 技术 
+ ## [人体姿态评估技术的开发与实现](http://ai.51cto.com/art/202104/655998.htm)
+ > 人体姿态评估技术的开发与实现
+ ## [懵了！女朋友突然问我MVCC实现原理](http://developer.51cto.com/art/202104/656031.htm)
+ > 懵了！女朋友突然问我MVCC实现原理
+ ## [组织应该采用数据湖的7个原因](http://database.51cto.com/art/202104/655997.htm)
+ > 组织应该采用数据湖的7个原因
  ## [针对自动化测试的 23 种 Node.js 优秀实践](http://developer.51cto.com/art/202104/655059.htm)
  > 针对自动化测试的 23 种 Node.js 优秀实践
  ## [换掉Java的老牌日志框架Logback，我用Log4j2！](http://developer.51cto.com/art/202104/655236.htm)
@@ -25,14 +31,18 @@ categories: IT NEWS
  > 站点可靠性工程师（SRE）的7个常见工作面试问题
  ## [Redis为什么变慢了？教你定位与排查分析](http://news.51cto.com/art/202104/654980.htm)
  > Redis为什么变慢了？教你定位与排查分析
- ## [5步创建一个具有Serverless用户身份验证的React项目](http://developer.51cto.com/art/202104/655091.htm)
- > 5步创建一个具有Serverless用户身份验证的React项目
- ## [鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?](http://developer.51cto.com/art/202104/655088.htm)
- > 鸿蒙内核源码分析(原子操作篇) | 是谁在为原子操作保驾护航?
- ## [AI训练的最大障碍不是算力，而是“内存墙”](http://news.51cto.com/art/202104/655074.htm)
- > AI训练的最大障碍不是算力，而是“内存墙”
- ## [生产应用Linux上Oracle+WebLogic项目实施_WebLogic中间件维护与管理07](http://fellow.51cto.com/art/202101/639335.htm?qd=51ctojrzd)
- > 生产应用Linux上Oracle+WebLogic项目实施_WebLogic中间件维护与管理07
+ ## [ThinkPHP5标准教程（第七部：综合应用篇【上】）（七日成蝶）](http://fellow.51cto.com/art/202012/636477.htm?qd=51ctojrzd)
+ > ThinkPHP5标准教程（第七部：综合应用篇【上】）（七日成蝶）
+ ## [升级WiFi 6会给企业带来哪些改变？](http://network.51cto.com/art/202104/656035.htm)
+ > 从2020年开始WiFi 6市场占有率将显著增长，随着WiFi 6芯片的成熟及支持WiFi 6终端的日益普及，到2023年预计
+ ## [掉一根头发，彻底搞懂二叉搜索树](http://developer.51cto.com/art/202104/656034.htm)
+ > 对于二叉排序树而言，本章重点关注其实现方式以及插入、删除步骤流程，我们会手写一个二叉排序树，二叉树遍
+ ## [盘点微信各种隐藏小功能！看到第一个就愣住了](http://mobile.51cto.com/app-show-656033.htm)
+ > 我为大家整理的一些相对实用的微信小技巧，但微信作为一款国民级软件，其玩法可远不止于此，而且随着版本更
+ ## [我问导师，Vue3有没有对应工具来生成漂亮的文档？ 用 Vitepress](http://developer.51cto.com/art/202104/656032.htm)
+ > Vue3 有没有对应制作文档的工具。于是，我去查了一些资料，发现，Vue3和新的Vite构建工具为我们提供了另一
+ ## [微软 Windows10 周二更新：移除旧版 Edge 浏览器](http://os.51cto.com/art/202104/656030.htm)
+ > 微软 Edge 传统版本将随着 4 月份的 Windows 10 周二补丁更新发布而被移除。微软在 3 月为 Windows 10 21H1
  ## [2021年，云计算和边缘计算增势将加剧](http://cloud.51cto.com/art/202104/656029.htm)
  > 到2021年，云的采用将部分受到对容器、Kubernetes和无服务器计算等云本地技术的支持的推动。另外，边缘计算
  ## [Redis 6.X Cluster 集群搭建](http://os.51cto.com/art/202104/656026.htm)
@@ -47,8 +57,8 @@ categories: IT NEWS
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [听我讲完redo log、binlog原理，面试官老脸一红](https://blog.csdn.net/qq_39390545/article/details/115214802)
- > 听我讲完redo log、binlog原理，面试官老脸一红
+ ## [从小白程序员到大厂高级技术专家我看过哪些书籍？](https://blog.csdn.net/l1028386804/article/details/115415167)
+ > 从小白程序员到大厂高级技术专家我看过哪些书籍？
  ## [ML之FE：基于单个csv文件数据集(自动切分为两个dataframe表)利用featuretools工具实现自动特征生成/特征衍生](https://blog.csdn.net/qq_41185868/article/details/115448504)
  > ML之FE：基于单个csv文件数据集(自动切分为两个dataframe表)利用featuretools工具实现自动特征生成/特征衍生
  ## [白嫖免费域名＋免费服务器](https://blog.csdn.net/Simon_477/article/details/108989298)
@@ -71,5 +81,36 @@ categories: IT NEWS
  > 每天自学两小时Python，但是没有方向怎么办？整理了最详细的学习路线和规划
  ## [我终于知道公司前端为啥不加班了…](https://blog.csdn.net/devcloud/article/details/115320354)
  > 我终于知道公司前端为啥不加班了…
+# 人工智能 
+ ## [CSDN 统一标签设计  征求反馈](https://blog.csdn.net/SoftwareTeacher/article/details/115250622)
+ > CSDN 统一标签设计  征求反馈
+ ## [图灵奖今日出炉，“龙书” 作者、编程语言大佬 Alfred Aho 和 Jeffrey Ullman 获奖](https://blog.csdn.net/AMiner2006/article/details/115357101)
+ > 图灵奖今日出炉，“龙书” 作者、编程语言大佬 Alfred Aho 和 Jeffrey Ullman 获奖
+ ## [源代码从 300 行到 172,000 行，它用了 23 年](https://blog.csdn.net/csdnnews/article/details/115364737)
+ > 源代码从 300 行到 172,000 行，它用了 23 年
+ ## [Spring Boot 定义接口的方法是否可以声明为 private？](https://blog.csdn.net/u012702547/article/details/115365730)
+ > Spring Boot 定义接口的方法是否可以声明为 private？
+ ## [慌了，老大让我将线上的服务器升配，咋搞？](https://blog.csdn.net/u010889990/article/details/115371538)
+ > 慌了，老大让我将线上的服务器升配，咋搞？
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [Flutter Boost 混合开发框架初探](https://blog.csdn.net/xiangzhihong8/article/details/115380924)
+ > Flutter Boost 混合开发框架初探
+ ## [大厂面经分享——来聊聊我的阿里云P7面试经历](https://blog.csdn.net/songguangfan/article/details/115386378)
+ > 大厂面经分享——来聊聊我的阿里云P7面试经历
+ ## [你会在 JitPack 上创建依赖库吗？](https://blog.csdn.net/haojiagou/article/details/115391998)
+ > 你会在 JitPack 上创建依赖库吗？
+ ## [PySwarms(Python粒子群优化工具包)的使用:GlobalBestPSO例子解析](https://blog.csdn.net/weixin_48266461/article/details/115286079)
+ > PySwarms(Python粒子群优化工具包)的使用:GlobalBestPSO例子解析
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://blog.csdn.net/hihell/article/details/115421584)
+ > 难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系
+ ## [一篇文章“简单”认识《人工神经网络》](https://blog.csdn.net/qq_41204464/article/details/115420602)
+ > 一篇文章“简单”认识《人工神经网络》
+ ## [这是什么“虎狼之词”啊！！！程序员的健康问题，看一线老中医怎么说！！！](https://blog.csdn.net/qq_43762191/article/details/115412660)
+ > 这是什么“虎狼之词”啊！！！程序员的健康问题，看一线老中医怎么说！！！
+ ## [从小白程序员到大厂高级技术专家我看过哪些书籍？](https://blog.csdn.net/l1028386804/article/details/115415167)
+ > 从小白程序员到大厂高级技术专家我看过哪些书籍？
 
     
