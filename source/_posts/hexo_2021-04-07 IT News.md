@@ -1,22 +1,28 @@
 ---
 title: 2021-04-07 IT News
 copyright: true
-date: 2021-04-07 08:00:57
+date: 2021-04-07 09:01:15
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617751804&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT0-J3LiP1cul3VBXR5EPyec*zY4urT9rxbRancyrvXokveU1vGVWQWN9MprEqkKGfd75ul9h7TrW1EYdPdxNsyA&new=1)
- > 近日，位于我国四川的三星堆遗址又上新了，出土众多珍贵文物，给我们更多3000多年前的“信息数据”。这再次吸引了世界的目光。我们感谢三星堆，保存了部分我们民族的记忆，让历史变得“更厚”了。遗憾的是，几千...
- ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617751804&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcnz6h4G03ZE9eD1QrUl5NStGeb*r9Om0fDKPUjuJoNvq0I70Wdm2wY8HH67Z5-mwDsJKNK7RJL5Z9zyy9e1HVSY&new=1)
- > 对于用户、开发者而言，iOS 14.5都是太有意义了，因为这将推动iOS系统根本改变。据悉，苹果今天提醒开发者，将从iOS 14.5，iPadOS 14.5和tvOS 14.5发布后，开始执行IDFA的新政策。在发布这些系统更新后，开发者...
- ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617751804&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3jT4XNY-LALIwh-URXvG*SELntE36CkN8w2xbbh*bWaG0ktbEytju9NMVQQGREh4Y60XZXt9qWcbOUNXnH3Cik&new=1)
- > 2020年6月15日，美国运营商T-Mobile发生了一起罕见的网络重大事故。全国范围内的语音和短信服务中断长达12小时。事后，美国FCC主席公开表示这起重大网络事故“不可接受”，并随后对T-Mobile展开了调查。全国范围...
- ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617751804&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjtup5tskaDAkTGSZv8K-e6Rxo3dfI8R4tDA8-JOxQwHM4Q4eG8i50PLqr404OOvZdk74ccrWWE2fUS63P*UdLZ&new=1)
+ ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjtup5tskaDAkTGSZv8K-e6AB-u5t5ERUnwb5Z33eeFM5bgSKfqXLTRCTx*EFw86p-8AoE6lt761B9msTZ5j27Y&new=1)
  > 125页PPT读懂华为数据之道。下文从技术、流程、管理等多个维度系统地讲解了华为数据治理和数字化转型的实践和方法论。
- ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617751804&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlYo1EVmuOqGXk6LAo7DzSKPE7qam7sqgnozA1gei-KOc1qQFT8U3Byped2Bmuj1b4dMeRHJFPbHQ-WrNzdIc7Hd&new=1)
+ ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT0-J3LiP1cul3VBXR5EPyecVdl0CYTwVAmrXUQbkfRKwEGpXjHK*o61--h1BOKFOG1C8GHeMgOaM47soQuuY6ti&new=1)
+ > 近日，位于我国四川的三星堆遗址又上新了，出土众多珍贵文物，给我们更多3000多年前的“信息数据”。这再次吸引了世界的目光。我们感谢三星堆，保存了部分我们民族的记忆，让历史变得“更厚”了。遗憾的是，几千...
+ ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlYo1EVmuOqGXk6LAo7DzSKP0TN2u3ny*ZDK73bO05bKGBDrD-pcDpowNrwrk8u--*GmJxr02nVvi3zKCkmcQp7J&new=1)
  > 人工智能、区块链、云计算和大数据等数字技术以迅雷不及掩耳之势将人类社会带入了数字经济时代，第四次工业革命以势不可挡之势由此拉开了大幕。为此，全球诸国就发展数字经济展开了新一轮竞逐。我国已将发展数字...
+ ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3jT4XNY-LALIwh-URXvG*StypSL8ef-bfU-YZ18a9rM1-OY763C0wZe5kHE*81Tvy3mNsffNrhLGSZOQnvuURJ&new=1)
+ > 2020年6月15日，美国运营商T-Mobile发生了一起罕见的网络重大事故。全国范围内的语音和短信服务中断长达12小时。事后，美国FCC主席公开表示这起重大网络事故“不可接受”，并随后对T-Mobile展开了调查。全国范围...
+ ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcnz6h4G03ZE9eD1QrUl5NStY0HPjeid8J0lERl9f*ZumzIDMNYH1pahkXVDTB0mei92TSPS-nh*cxaVenaR27o6&new=1)
+ > 对于用户、开发者而言，iOS 14.5都是太有意义了，因为这将推动iOS系统根本改变。据悉，苹果今天提醒开发者，将从iOS 14.5，iPadOS 14.5和tvOS 14.5发布后，开始执行IDFA的新政策。在发布这些系统更新后，开发者...
 # IT 技术 
+ ## [11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
+ > 11种流行的渗透测试工具
+ ## [再见了，公司的“烂系统”](http://developer.51cto.com/art/202104/656140.htm)
+ > 再见了，公司的“烂系统”
+ ## [JDK 17：Java 17有何新看点？](http://developer.51cto.com/art/202104/656131.htm)
+ > JDK 17：Java 17有何新看点？
  ## [人体姿态评估技术的开发与实现](http://ai.51cto.com/art/202104/655998.htm)
  > 人体姿态评估技术的开发与实现
  ## [懵了！女朋友突然问我MVCC实现原理](http://developer.51cto.com/art/202104/656031.htm)
@@ -25,14 +31,18 @@ categories: IT NEWS
  > MySQL不香吗，为啥还要Elasticsearch？
  ## [组织应该采用数据湖的7个原因](http://database.51cto.com/art/202104/655997.htm)
  > 组织应该采用数据湖的7个原因
- ## [管理 | 第1次带项目，我干赔了...](http://developer.51cto.com/art/202104/656077.htm)
- > 管理 | 第1次带项目，我干赔了...
- ## [预览器和编辑器双重发力，DevEco Studio 2.1 Beta 3强势来袭](http://os.51cto.com/art/202104/655359.htm)
- > 预览器和编辑器双重发力，DevEco Studio 2.1 Beta 3强势来袭
- ## [解决机器学习最大弊病？马普所联合Google再探「因果学习」](http://news.51cto.com/art/202104/656066.htm)
- > 解决机器学习最大弊病？马普所联合Google再探「因果学习」
- ## [Bootstrap(HTML5前端库设计开发)视频课程](http://fellow.51cto.com/art/202101/638635.htm?qd=51ctojrzd)
- > Bootstrap(HTML5前端库设计开发)视频课程
+ ## [【曾贤志】Excel表格视频教程（绝招篇）](http://fellow.51cto.com/art/202101/638871.htm?qd=51ctojrzd)
+ > 【曾贤志】Excel表格视频教程（绝招篇）
+ ## [一文学会LirbeNMS安装~优秀开源的SNMP设备监控软件](http://os.51cto.com/art/202104/656188.htm)
+ > 这篇主要讲安装的过程，大家在使用开源软件的时候不要抱有免费的软件，商业的体验的心态，那是不可能的，该
+ ## [测试开发必须掌握的知识点：Java反射](http://developer.51cto.com/art/202104/656185.htm)
+ > Java反射是Java被视为动态(或准动态)语言的一个关键性质。这个机制允许程序在运行时通过Reflection APIs取
+ ## [微软为 Windows 10  21H2 适配了新的用户离开自动锁屏检测功能](http://os.51cto.com/art/202104/656184.htm)
+ > 据外媒 WindowsLatest，随着 Windows 10 Sun Valley 的更新，微软将为这一项功能引入原生控件。因为目前你
+ ## [仓储自动化很火，软银斥资28亿美元收购AutoStore 40%股份](http://ai.51cto.com/art/202104/656183.htm)
+ > 近日，软银集团股份有限公司同意斥资28亿美元收购挪威仓储自动化公司AutoStore 40%的股份。据悉，这
+ ## [美国司法部警告：网络犯罪分子正在利用疫苗调查和钓鱼工具窃取用户个人信息](http://netsecurity.51cto.com/art/202104/656182.htm)
+ > 近期，美国司法部警告称，网络犯罪分子正在利用虚假的疫苗种后调查来对广大用户进行网络钓鱼攻击，并窃取用
  ## [为什么说边缘计算是计算的未来？](http://cloud.51cto.com/art/202104/656181.htm)
  > 总之，2021年，边缘计算将成为云计算的重要组成部分，尤其在混合云生态环境下，边缘计算将在靠近用户设备及
  ## [2021年需要学习的5种编程语言](http://developer.51cto.com/art/202104/656180.htm)
@@ -43,8 +53,6 @@ categories: IT NEWS
  > 4月5日外媒报道，OnlyFans的279位创作者帐号内容在网上流传，除了网站付费内容，其中还包含大量创作者未分
  ## [一篇文章带你了解CSS定位知识](http://developer.51cto.com/art/202104/656177.htm)
  > 本文基于Html基础，主要介绍了CSS中四种定位的方式。对于四种的定位表现形式，用丰富的案例 ，代码效果图的
- ## [JavaScript 中如何实现并发控制？](http://developer.51cto.com/art/202104/656176.htm)
- > 本文阿宝哥带大家详细分析async-pool 异步任务并发控制的具体实现，同时为了让大家能够更好地理解 async-po
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -55,18 +63,18 @@ categories: IT NEWS
  > 难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系
  ## [\[译\] APT分析报告：08.漏洞利用图谱–通过查找作者的指纹来寻找漏洞](https://blog.csdn.net/Eastmount/article/details/109135222)
  > \[译\] APT分析报告：08.漏洞利用图谱–通过查找作者的指纹来寻找漏洞
- ## [MATLAB06:数字图像处理](https://blog.csdn.net/ncepu_Chen/article/details/103120698)
- > MATLAB06:数字图像处理
- ## [利用Python读取和修改Excel文件（包括xls文件和xlsx文件）——基于xlrd、xlwt和openpyxl模块](https://blog.csdn.net/sinat_28576553/article/details/81275650)
- > 利用Python读取和修改Excel文件（包括xls文件和xlsx文件）——基于xlrd、xlwt和openpyxl模块
- ## [HaaS UI小程序解决方案基础教学之五： JSAPI文件管理](https://blog.csdn.net/HaaSTech/article/details/112825816)
- > HaaS UI小程序解决方案基础教学之五： JSAPI文件管理
- ## [用opencv给彦女王生成一副蒙太奇画像](https://blog.csdn.net/qq_43667130/article/details/107892516)
+ ## [一文讲透窗口函数](https://blog.csdn.net/junhongzhang/article/details/114609541)
+ > 一文讲透窗口函数
+ ## [前端技术体系与发展计划](https://blog.csdn.net/u011068996/article/details/106501992)
  > 
- ## [推荐10个堪称神器的 Java 学习网站](https://blog.csdn.net/qing_gee/article/details/102781522)
- > 推荐10个堪称神器的 Java 学习网站
- ## [c语言指针的有关总结](https://blog.csdn.net/jgdabc/article/details/108453145)
- > c语言指针的有关总结
+ ## [详解BP神经网络](https://blog.csdn.net/fanxin_i/article/details/80212906)
+ > 详解BP神经网络
+ ## [学JDBC，这一篇就够了](https://blog.csdn.net/qq_43674132/article/details/95171884)
+ > 学JDBC，这一篇就够了
+ ## [你不是学生，你是开发者](https://blog.csdn.net/weixin_44950174/article/details/106203163)
+ > 
+ ## [R语言建立和可视化混合效应模型mixed effect model](https://blog.csdn.net/qq_19600291/article/details/114145428)
+ > R语言建立和可视化混合效应模型mixed effect model
  ## [一个爬虫代码价值 7000 万](https://blog.csdn.net/qq_33570092/article/details/115154075)
  > 一个爬虫代码价值 7000 万
  ## [一行代码值 200 万？雷军公开小米新 Logo 引吐槽](https://blog.csdn.net/P5dEyT322JACS/article/details/115364480)
