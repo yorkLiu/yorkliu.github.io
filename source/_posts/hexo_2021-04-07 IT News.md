@@ -1,30 +1,42 @@
 ---
 title: 2021-04-07 IT News
 copyright: true
-date: 2021-04-07 12:00:56
+date: 2021-04-07 17:01:05
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [LG 退出手机市场；苹果新专利可让 iPhone 支持电池预警；小米首款汽车售价区间或在10-30万元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=O2Yo6WsWevTw6pZav7ikMIu8310nq8ofImbR3ldmaEqa7nUMPy5HicmbKuXmKxgJ7WbRyKlDj6ZP1i37MY1GozXVbJS90Qaw19AKpIscORZPV2lvqcVM1nGsf38opiGW&new=1)
- > 图 / LGHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【LG 宣布退出手机市场】韩国 LG 电子正式宣布退出手机市场，现有的手机库存将会继续销售，现有的设备将会继续提供售后支持服务和软件更...
- ## [专访|WOORIRO：5G需求仍需酝酿 数据中心市场未来可期](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=vle3raoLzvjrx61wn0FfMczZQ4fBvmtm*O0OvCj6WyPqKwH0swv*n*uhWytCgjczA1Km3caJzIznKF2PbDNCY2RNe4dyTGLqZV20HGQT8-IUKFqWAsWmvv89untijvmo&new=1)
- > 新闻导读讯石采访韩国光芯片公司WOORIRO中国区负责人李承月。公司一季度5G市场需求中25G APD出货量比多，集中在DWDM模块需求，预计今年上半年，5G市场仍处于消化的阶段，而国内数据中心是值得期待的市场。ICC讯 ...
- ## [报名：2μm超高精度光固化3D打印系统及应用，摩方精密直播](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=woNA43PSz-rFUMEkR8N3L7VfBuUveJPaW9pmg8wU*MGEX6Z-AdFQ5coTajt0*UGqd3vwJzL4iLU130EHa7CKGOvIqdyWyuqtNukpoLWs1ydThyFOnpNUpTrybh8cVzjP&new=1)
+ ## [\[报告\]2021智能电动汽车行业深度研究(附70页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=7amTOuHIZ2n5IXh5onr975UZh*ELmdBTUIcuFXlAC-Q3O2Lje0iWuQnzvFq5NRLeG0MjbvUMXdST-Txd5sbr7bkvEJwKrueU6kzMXJm3lVharY7cIFt425ydmpztf6wf&new=1)
+ > 智能电动汽车将成汽车产品竞争主战场，更是下一代移动互联网AIoT最重要的产品平台。基于保守假设，我们预计，到2025年，中国电动汽车销量规模将超700万辆（CAGR 39%），其中绝大多数具备智能配置。以特斯拉为代...
+ ## [亚马逊神秘项目被曝光：800人花四年倾力打造，豪赌下个未来](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=cozGXWUYGHbzd1qNl9Zp9zebIMAxiOqFZd8Iu89ys8EdQRlRRtaRCGVRJfBZbYwj8oYyI*X0Yq0ZQMIifxk2QKmoL-YI9vqZgQUsHeR3SwmTJbGvFMT*VLM9ZzfqSAnI&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作在二十年前的一些科幻或动漫剧集里，主人公都会有一个家庭用的机器人，或能帮忙洗衣做饭，或能帮忙解决作业。总之，这些人形的机器人看起来无所不能。家庭机器人，图...
+ ## [将在2021年改变商业格局的10项技术](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=hY*y-NUuT52LFJj0TXVaeXzV9rtu6E33NPVFPEFwbvEOLUK1jXLJKp39uUXRcmBxz8f2xwZlNh8qmmQHuiO9axaaXGO0d0S3q7hsf0vzpJGTjwy17CGUdNpg8kONICcs&new=1)
+ > 关键讯息，D1时间送达！从人工智能到无服务器计算，本文中列出的10项颠覆性技术和趋势正在改变新冠病毒疫情之后的商业格局。IT领导者和行业分析师对哪些技术可能在2021年构成最具破坏性潜力，随着新冠病毒疫情的...
+ ## [正式更名!](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=HBg0KEkC7Q5XVCb4fwIL*mFgG8L7ZQ4Ch4lYxkBGR0uukJ*2EQDNSzLW9VljHqXQCjUBMFV4TLXiVFdck4C3CrTC6oLKRFyUF8hfjxElVfN*vNTpErMr7uSri7EcW-8D&new=1)
+ > 十年锐变，焕新升级中国联通手机营业厅APP正式更名为“中国联通APP”一起来了解一下！ 在服务用户十年之际中国联通APP将迎来它的全新形象由陪伴通心粉的小紫人蜕变为全新的联通中国结来源：中国联通
+ ## [VR/AR白皮书2021出炉!产业起飞阶段来临，五横两纵技术发力\[附下载\]|智东西内参](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=zlP3ZshTjxmJHBJ3CYwhhvRfgdlaOV82mt0LKjuO9v24XfdgL89HdUBVUoXr2sZh0QynBqilKoF8S9JHkUszQ5NtctkSovQNxBDrHbJ3s6oOgkHnFKgx4pmTMgp0vWNH&new=1)
+ > VR、AR迎来了快车道关键发力窗口期。编辑 | 智东西内参现在，“新基建”已成为拉动投资、促进消费、稳定就业和提升综合实力的重要抓手，如何加载高质量的业务生态成为释放新基建发展动能的关键。当前，以虚拟现...
+ ## [尼康收购金属3D打印初创公司Morf3D](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=JRt8OleCVg-h-FdKvNlcAtbZBBjAYHxw--4bAVNx18OrMdynjqRJucHGhN8PIe9s4McPVUtao3xa1sp7Cd9LlBAGfqQ7Ql5TyB5pWpi-c5fZ1tU6cws5mvJ6m4h49BDf&new=1)
+ > 近日，尼康公司宣布以未公开的价格收购了加利福尼亚州Morf3D公司El Segundo的多数股权。Joris认为尼康可能会收购Renishaw的计量部门，事实证明，日本巨头尼康实际上是看中了金属3D打印服务。Morf3D是一家3D打印...
+ ## [报名：2μm超高精度光固化3D打印系统及应用，摩方精密直播](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=woNA43PSz-rFUMEkR8N3L7VfBuUveJPaW9pmg8wU*MGX78DeMVuFYEFANd4TKXibWzFKcPUtNw25n-ADdHBhBkupCn*0vCnRfZOYUa1J2I9PcmN9xql3iksOT2YPEH87&new=1)
  > 直播时间：2021年4月14日（周三）15:00直播主题：2μm超高精度光固化3D打印系统及其应用合作：南极熊3D打印直播平台报名直播及下载资料：△微信扫码填写报名3D打印技术即增材成型技术，从成型工艺上看，3D打印技...
- ## [原SAP全球副总裁「邓永富」加盟金蝶：任金蝶云·苍穹事业部总经理，集团副总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=pddsZaw6uIOe*9YwhlUlP3peLC*dXFPea-O3EPuJPTVkTHBhPRMrwzYr8Qt8f*43ukhKQ8flw0w1vHNA4HhdgIzz3PG1H-lvHdCd786fJwyLwpC4nbyPiQsjU*W0wSHA&new=1)
- > 2021年4月6日，金蝶集团内部发文，任命邓永富先生担任副总裁、金蝶云·苍穹事业部总经理。公开资料显示，邓永富一直深耕于IT行业，在商业软件领域有近20年丰富经验，曾就职于江苏省计算技术研究所、金蝶软件、SA...
- ## [贵州省智慧医疗健康专家委员会成立](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=IP2xkTte*MrOvwKFnd-hr3rC1fJ1D6I0r6TpXqlT2sqlYrEXjGVTW1xN6ivUKd1kBdOoA-lChAHhremLPeDPx4pXNiten2F9Fwvi7RQn9bI=&new=1)
+ ## [贵州省智慧医疗健康专家委员会成立](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=IP2xkTte*MrOvwKFnd-hr3rC1fJ1D6I0r6TpXqlT2sqgLqkeWQXzZ0mGwi30x0l3fxw9xKmWpBUy3dZF1a0LaP*yvglSsZIby22mD0o2*rk=&new=1)
  > 本报讯 近日，贵州省智慧医疗健康专家委员会正式在贵州省人民医院成立。贵州省智慧医疗健康专家委员会是行业沟通及交流平台，特邀清华大学人工智能研究院张钹院士为专家委员会首席专家，清华大学长庚医院董...
- ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcn8lAStCoq8aDgRmALWmDwyhDG7Rls3u*uI20kZSpBgJFxY2S0dISFIBOgtmfa*3RL0W*NM78VMKVx3lzyNsKKx&new=1)
+ ## [LG 退出手机市场；苹果新专利可让 iPhone 支持电池预警；小米首款汽车售价区间或在10-30万元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=O2Yo6WsWevTw6pZav7ikMIu8310nq8ofImbR3ldmaEqkkIlDLhzzN-ZcJB2jGaiITyY4zVN9kMZ03lE-mjyYZDaj0y7WBMOndepKaeQqwaAcNbNn5hlT-XeKgUDOyLc*&new=1)
+ > 图 / LGHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【LG 宣布退出手机市场】韩国 LG 电子正式宣布退出手机市场，现有的手机库存将会继续销售，现有的设备将会继续提供售后支持服务和软件更...
+ ## [专访|WOORIRO：5G需求仍需酝酿 数据中心市场未来可期](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=vle3raoLzvjrx61wn0FfMczZQ4fBvmtm*O0OvCj6WyOHl9M6HYKqm9YFK0PB1d*VSE*KSOyzeWnwqj7oI2CFDbPsJ4UWIdKFiFbOTYx1hUmkgufm0rtIj3fRtHtb2lHI&new=1)
+ > 新闻导读讯石采访韩国光芯片公司WOORIRO中国区负责人李承月。公司一季度5G市场需求中25G APD出货量比多，集中在DWDM模块需求，预计今年上半年，5G市场仍处于消化的阶段，而国内数据中心是值得期待的市场。ICC讯 ...
+ ## [原SAP全球副总裁「邓永富」加盟金蝶：任金蝶云·苍穹事业部总经理，集团副总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=pddsZaw6uIOe*9YwhlUlP3peLC*dXFPea-O3EPuJPTWY-75yDyTgjhe8cFtsanqSTsJTqjbt2-Yjudgml9JR*Jay*l8*ZS90umC*jcODtZmWNSWXmTnBTsnn7mrtXkUI&new=1)
+ > 2021年4月6日，金蝶集团内部发文，任命邓永富先生担任副总裁、金蝶云·苍穹事业部总经理。公开资料显示，邓永富一直深耕于IT行业，在商业软件领域有近20年丰富经验，曾就职于江苏省计算技术研究所、金蝶软件、SA...
+ ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcnya-6yjiPx5P1bxs-cvAaYM2fxOoATcvyPrjJAQX45EfF3Py90F-s5BgCsArO7wcznB16EcyRW1SioIrzAAlxd&new=1)
  > 对于用户、开发者而言，iOS 14.5都是太有意义了，因为这将推动iOS系统根本改变。据悉，苹果今天提醒开发者，将从iOS 14.5，iPadOS 14.5和tvOS 14.5发布后，开始执行IDFA的新政策。在发布这些系统更新后，开发者...
- ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3a06abTENOkGPk1lZMvOa1wBqrioMy5muYTm83PUhjK-QZ*nUU3PIqA25lV3BR-c3WcxvzN9b29L579T*Qm1RO&new=1)
+ ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU2oFTWoL5T6Ij3n81hbufF6SCxulqI7AK2xUdfK6wc6XD3qX7UeCCOOHEgEq7DwcEUpPUAUa-uU7Th8GgLwJqJv&new=1)
  > 2020年6月15日，美国运营商T-Mobile发生了一起罕见的网络重大事故。全国范围内的语音和短信服务中断长达12小时。事后，美国FCC主席公开表示这起重大网络事故“不可接受”，并随后对T-Mobile展开了调查。全国范围...
- ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjT0PlBPT0OElJ*wnKvqKaYkgB4HqQ7N03hRXTGmVltVdz5qciS0n9Ws5h2uiWOMF-ENjCVDAVweH*DriKMeTZV&new=1)
+ ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBglnqBgZj3*HAWgzZy4l43GKkiQKH6MSJymcSuzV*b5lRGFgjVBB1YZqiYwswIL9H90cmgp2GIQSJCJ4xzb0lpc&new=1)
  > 125页PPT读懂华为数据之道。下文从技术、流程、管理等多个维度系统地讲解了华为数据治理和数字化转型的实践和方法论。
- ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT05V5Zz01bseUV*-sx3bA2Zg67gEew3km2aLHBQokrYgngLTTwySJsTePDYWhatMZ6DveNSQA27scqObj-ke8oh&new=1)
+ ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT1R1SRyd4FrSQFSKBvj9bGsVOEVg*dTyfKE5fhe*iakqlWAnYltrbtrruHLJG4Y0p63WXDw1ySDCyy8KBA9xuKb&new=1)
  > 近日，位于我国四川的三星堆遗址又上新了，出土众多珍贵文物，给我们更多3000多年前的“信息数据”。这再次吸引了世界的目光。我们感谢三星堆，保存了部分我们民族的记忆，让历史变得“更厚”了。遗憾的是，几千...
- ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlaTmLOrDE9exqpMm66TBNYx5gC5NZCML4XJ3PVtm9tteCRdCiPfd7D9zTvTP7N09ub*wkgZYWAJOx4bqNqwgirO&new=1)
+ ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617786004&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlabI7uDxe5bIKCnl8YeEXjcculSklsFBzgepjKcVkMwcwxs0gQJHP1eKfwjueq2aAtNuF6wWrAcu6ZrQWwTaEow&new=1)
  > 人工智能、区块链、云计算和大数据等数字技术以迅雷不及掩耳之势将人类社会带入了数字经济时代，第四次工业革命以势不可挡之势由此拉开了大幕。为此，全球诸国就发展数字经济展开了新一轮竞逐。我国已将发展数字...
 # IT 技术 
  ## [值得推荐的11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
@@ -41,36 +53,36 @@ categories: IT NEWS
  > 只要你一句话，马斯克就得留扫把头，项目已开源
  ## [培养好编码习惯，更好地产出和维护成果](http://developer.51cto.com/art/202104/656111.htm)
  > 培养好编码习惯，更好地产出和维护成果
- ## [JavaScript编程入门视频课程](http://fellow.51cto.com/art/202012/638065.htm?qd=51ctojrzd)
- > JavaScript编程入门视频课程
- ## [区块链技术解决信任问题](http://blockchain.51cto.com/art/202104/656220.htm)
- > 区块链技术基于分布式账本技术，通过数学算法和现实经济的方式组合，在区块链上形成一套共识机制，从而使区
- ## [成都某安全公司爆仓3个亿，把警方的钱都亏完了！](http://netsecurity.51cto.com/art/202104/656217.htm)
- > 有粉丝向黑箱爆个大瓜，币圈发生了一个奇葩的事件，据称成都某区块链安全公司的CMO做空比特币亏损高达3个亿
- ## [干货！七个Python库助你构建数据科学应用程序](http://developer.51cto.com/art/202104/656215.htm)
- > 近几年，Python 在数据科学行业的发展十分迅猛，也正因为如此，对于希望提升应用程序功能的数据科学家和机
- ## [双向流动性是加密全球化的关键](http://blockchain.51cto.com/art/202104/656208.htm)
- > 全球经济中最重要的事情之一就是商品和服务的流动。货币被用来促进这些流动，但是诸如高通胀率和货币操
- ## [物联网如何推动医药行业下一波发展](http://iot.51cto.com/art/202104/656206.htm)
- > 通过实施物联网平台、解决方案和服务，制药公司可以数字化和连接重要功能，提高效率，确保产品质量和合规性
- ## [区块链技术在商标领域的应用研究](http://blockchain.51cto.com/art/202104/656204.htm)
- > 区块链技术因其去中心化、防篡改、共识机制及时间戳等特点，在很多领域已经被深入应用。目前，区块链技术在
- ## [Javascript的对象拷贝](http://developer.51cto.com/art/202104/656205.htm)
- > 在开始之前，我先普及一些基础知识。Javascript 的对象只是指向内存中某个位置的指针。这些指针是可变的，
- ## [人脸识别技术推广受信息泄露困扰](http://ai.51cto.com/art/202104/656201.htm)
- > 在“风口”，更在“刀尖”――最近一年，或许没有哪一项新技术比人脸识别更配得上“毁誉参半”这个词。
- ## [避免用户成“大数据杀熟”的“工具人”](http://bigdata.51cto.com/art/202104/656199.htm)
- > 移动互联网时代，大数据深度融入人们的日常生活，个性化定制服务已成常态，比用户更“了解”自己的很可能不
- ## [特斯拉安全吗？自动驾驶汽车亟需“网络安全带”](http://zhuanlan.51cto.com/art/202104/656202.htm)
- > 电动汽车、自动化驾驶、车联网和共享出行正在汽车行业掀起一场深刻的数字革命，但一个关键事实经常被狂热的
- ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
- > 半小时一篇文过完C语言基础知识点
+ ## [华为认证网络工程师（HCIA）-路由交换视频教程【购买课程送配套图书】](http://fellow.51cto.com/art/202012/635519.htm?qd=51ctojrzd)
+ > 华为认证网络工程师（HCIA）-路由交换视频教程【购买课程送配套图书】
+ ## [物联网连接技术入门指南](http://iot.51cto.com/art/202104/656275.htm)
+ > 从通过智能监控改善业务流程，设计先进的互联设备系统，到实现应用程序设计，物联网已经进入了几乎所有的业
+ ## [工信部：适老版 App 严禁广告弹窗，网站需提供特大字体](http://mobile.51cto.com/app-show-656272.htm)
+ > IT之家4月7日消息 为了抓好互联网应用适老化及无障碍改造专项行动，工信部 4 月 7 日发布了《互联网网站适
+ ## [6个你可能还不知道的微信冷知识，每一个都令人相见恨晚](http://mobile.51cto.com/ahot-656270.htm)
+ > 微信除了聊天、刷朋友圈，其实还有很多实用功能。下面这6个你可能还不知道的微信冷知识，每一个都令人相见
+ ## [区块链和数字货币是未来发展的必然趋势](http://blockchain.51cto.com/art/202104/656269.htm)
+ > 伴随着互联网的发展，信息共享的深度广度发生了深刻变化。尤其是移动互联网的急速发展，带来了颠覆性变化，
+ ## [新手学编程有哪些要求？准备什么？](http://news.51cto.com/art/202104/656268.htm)
+ > 新手学编程有哪些要求？准备什么？想学编程需要具备数学的基本常识，熟悉常用的英语词汇，有一定的计算机基
+ ## [国内5G领先10倍，美企丢下“5G门槛”，转头和韩企开发6G](http://network.51cto.com/art/202104/656267.htm)
+ > 在5G领域落后中国十倍，外企被迫联合转战6G。近年来国内5G通讯技术取得了飞速发展，反观美国，由于款项迟迟
+ ## [软件开发是一个失败者的游戏](http://news.51cto.com/art/202104/656265.htm)
+ > 伟大的代码不节省您的时间，但坏代码会杀死你您需要知道软件开发的游戏，所以您可以有效地发挥作用。
+ ## [为什么说区块链教育普及是去中心化未来的必要条件？](http://blockchain.51cto.com/art/202104/656263.htm)
+ > 区块链是实现个人自由的绝佳工具。要成为主流，它需要克服投机和猜疑的污名。最好的方法是通过教育。
+ ## [比特币的哈希率创历史新高](http://blockchain.51cto.com/art/202104/656261.htm)
+ > 随着新旧采矿机的上线，比特币的哈希率（一种衡量网络总功耗和挖掘输出的方法）正在与价格同步上涨，已达到
+ ## [DeFi革新医疗行业的5大途径](http://blockchain.51cto.com/art/202104/656258.htm)
+ > 在COVID-19疫情持续的背景下，去中心化金融（DeFi）市场的增长可能会改变医疗保健行业的规则。
+ ## [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://blog.csdn.net/hihell/article/details/115421584)
+ > 难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://blog.csdn.net/hihell/article/details/115421584)
- > 难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系
+ ## [看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针](https://blog.csdn.net/A757291228/article/details/115453468)
+ > 看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针
  ## [深入 Java 源码来剖析 hashCode，从此菜不再是原罪](https://blog.csdn.net/qing_gee/article/details/115475819)
  > 深入 Java 源码来剖析 hashCode，从此菜不再是原罪
  ## [一文讲透窗口函数](https://blog.csdn.net/junhongzhang/article/details/114609541)
@@ -125,6 +137,22 @@ categories: IT NEWS
  ## [【技术流派】双目立体视觉系统空间精度：精确定量分析](https://blog.csdn.net/rs_lys/article/details/115442565)
  > 【技术流派】双目立体视觉系统空间精度：精确定量分析
 # PM 
+ ## [达观数据智能财务审核机器人 助力央企财务共享中心智能转型](http://www.chanpin100.com/article/114386)
+ > 达观数据拥有以NLP自然语言处理为核心的智能文本处理能力矩阵，能够在丰富的场景下实现对各种文档文件的抽取、审核、比对等等，实现对文档的智能化处理。达观数据将RPA与OCR、NLP等AI技术进行深度融合，以OCR作为RPA的“双眼”，以NLP作为RPA的“大脑”，大幅拓展RPA在财务领域的适用场景。
+ ## [技术型产品经理与系统结构设计浅谈](http://www.chanpin100.com/article/114384)
+ > 产品经理需要懂技术吗？这是一个永远有人在讨论，永远没有答案的问题。而作为一个从技术转做产品的人，本人在工作中总结了自己的一些感悟，与大家分享探讨。
+ ## [时隔数年 VR卷土重来](http://www.chanpin100.com/article/114428)
+ > 在这个新概念层出不穷的世界，你或许听说过Gartner曲线，很多新技术趋势，往往会有两轮热度：第一轮，是在诞生伊始，在舆论的亢奋声中，它往往流于概念，难于落地，也让热情逐渐冷却——但在冷却过程中，在远离聚光灯的地方，它其实正在低调酝酿，被开发成更成熟的产品，并被市场逐渐接受，最终真正走向社会，从而带
+ ## [后端产品经理的核心能力是什么？](http://www.chanpin100.com/article/114383)
+ > 后端产品经理是整个后端业务需求的整理者，需要串起整个业务的前中后所有流程。后端业务往往并不像前端需求那样简单易于理解
+ ## [如何在一周内快速搞懂一个陌生行业！](http://www.chanpin100.com/article/114382)
+ > 换了工作，从一个行业跳到另一个行业，从熟悉变成陌生，这样的经历，这是作为产品经常会遇到的情况。面对未知领域既兴奋又焦虑。
+ ## [医疗产品设计的原则有哪些](http://www.chanpin100.com/article/114427)
+ > 以用户为中心的设计在医疗产品设计领域得到广泛应用，技术的进步为医疗设备的使用体验的提高提供了诸多机遇。医用设备的使用对象是特殊人群，因此，其设计的思路要有针对性。以下小编简单介绍一下医疗产品设计的原则有哪些，让我们一起来了解一下。
+ ## [医疗产品设计的发展趋势是怎样的](http://www.chanpin100.com/article/114424)
+ > 伴随着物联网产业的不断发展，智能医疗也在不断涌现。国内还越来越重视对公共医疗卫生领域智能医疗产品的投资，未来的医疗产品将更加智能化、个性化、移动化和信息化。那么，医疗产品设计的发展趋势是怎样的呢？请看本文的介绍。
+ ## [好的工业产品设计需要具备什么](http://www.chanpin100.com/article/114423)
+ > 当今社会经济、科技的迅速发展，不仅给人们带来了丰富的物质生活，而且也加速了整个现代社会运行在物质上的满足，使人们对物质的需求更加重视。想做好的工业产品设计，光有创意是不够的，还需要具备什么呢？请看本文的介绍。
  ## [产品设计的切入点有哪些](http://www.chanpin100.com/article/114422)
  > 产品设计的切入点有哪些呢？每个产品设计都需要寻找自己的切入点，否则设计就会无根无据，难以立竿见影，容易被淘汰。对产品设计的切入有三个不同的角度：人、企业和社会。三个方面比较全面地涵盖了设计的切入角度，每一个都涵盖了不同的切入点。
  ## [产品设计必看书籍有哪些](http://www.chanpin100.com/article/114420)
@@ -149,21 +177,5 @@ categories: IT NEWS
  > 内容推荐的规则每个平台都有各自的算法，大平台的更加复杂；作为一个初创产品，前期如何去做一些简单的热度推荐呢？其实需要注意的就几点，热度量化的推荐，时间衰减、推荐边际的拓展尝试
  ## [数据产品经理是从何而来的？](http://www.chanpin100.com/article/114412)
  > 数据产品经理近些年成为了比较火热的一个热门岗位，那么大家知道它的起源是什么吗？下面请看本文小编关于数据产品经理是从何而来的介绍。
- ## [揭秘：藤匠企微SCRM如何满足教育行业私域运营需求？](http://www.chanpin100.com/article/114407)
- > 在营销成本越来越高，获客难度越来越大，转化率效果不尽如人意的背景下，教培企业开始意识到，只有把用户留在自己的私域流量池里，才能赢在跑道上，甚至是生存下来，于是很多教培企业选择在这个关口，开始了自己在私域上的布局。
- ## [浅析中介管理系统首页设计](http://www.chanpin100.com/article/114410)
- > 对于任何一个SaaS系统来说，首页都是极为重要的。首页既是一个系统的门面，又是绝佳的信息展示台。公司公告、待办审批、系统消息、工单任务这些需要紧急处理的消息展示在首页
- ## [2021年2月出行APP榜单 多模式并进迈向碳中和](http://www.chanpin100.com/article/114405)
- > 2021年一季度，网约车行业供给层面发生诸多变化。就业务场景创新层面，各网约车企业纷纷推出“助老模式”,化解老年人出行的数字化鸿沟问题；换电模式实现在网约车层面加码，将极大提升行业的供给效率；政策层面，各地纷纷加强网约车的新能源化供给，持续助力行业迈向碳中和。本轮供给层面的变革，是政策和企业创新的高
- ## [数据分析系列｜如何培养数据意识？](http://www.chanpin100.com/article/114409)
- > 写文章一年多了，这是第44个驿馆。回顾了下：每一个驿站分享一个知识点，比较零散，没能串联成线。对于作者来说：随心写，相对容易。但对读者来说，并不见得是一件好事。
- ## [开发口中的「接口」到底是什么](http://www.chanpin100.com/article/114408)
- > 什么是接口？接口是后端设计的一套供给第三方使用的方法。(第三方指前端/后端)接口通过网络协议来调用，我们最常用的协议是HTTP协议。在定义一个接口时，会写好接口路径和接口方法名的映射，然后前端通过接口路径来调用方法。
- ## [中台实战（16）：一个案例搞懂中台共性抽取](http://www.chanpin100.com/article/114406)
- > 相信大家一定在很多网上讨论中台的文章中看到一句类似的话，叫做中台建设的本质就是抽取共性，从而在企业内部进行复用。但是究竟要什么是抽取共性呢？
- ## [产品经理如何避免项目延期](http://www.chanpin100.com/article/114378)
- > 产品经理在工作之于是需要兼顾项目管理的工作的，那我们如何来管控项目，避免项目延期呢
- ## [创客匠人助力知识付费更好发展](http://www.chanpin100.com/article/114377)
- > 知识付费离不开优质的内容产生，而优质内容的产生往往来源于在线教育、K12教育、自媒体、机构等等种，产出好的内容价值知识付费才能更好地发展。
 
     
