@@ -1,64 +1,68 @@
 ---
 title: 2021-04-07 IT News
 copyright: true
-date: 2021-04-07 10:00:58
+date: 2021-04-07 12:00:56
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcn8lAStCoq8aDgRmALWmDwyugBFvRMmfGTIhrZ0TNmNlOWH2aRHpkYVe6oZaBLyc*FxplqYIu3IlOyi3JGNRtU3&new=1)
- > 对于用户、开发者而言，iOS 14.5都是太有意义了，因为这将推动iOS系统根本改变。据悉，苹果今天提醒开发者，将从iOS 14.5，iPadOS 14.5和tvOS 14.5发布后，开始执行IDFA的新政策。在发布这些系统更新后，开发者...
- ## [原SAP全球副总裁「邓永富」加盟金蝶：任金蝶云·苍穹事业部总经理，集团副总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=pddsZaw6uIOe*9YwhlUlP3peLC*dXFPea-O3EPuJPTVkTHBhPRMrwzYr8Qt8f*43Mk24S8EpQiep2ENjftsXQsAecbmytp4YwSKbutLSLyW0rxDZFYuDDLVhifiTnyns&new=1)
- > 2021年4月6日，金蝶集团内部发文，任命邓永富先生担任副总裁、金蝶云·苍穹事业部总经理。公开资料显示，邓永富一直深耕于IT行业，在商业软件领域有近20年丰富经验，曾就职于江苏省计算技术研究所、金蝶软件、SA...
- ## [LG 退出手机市场；苹果新专利可让 iPhone 支持电池预警；小米首款汽车售价区间或在10-30万元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=O2Yo6WsWevTw6pZav7ikMIu8310nq8ofImbR3ldmaEqa7nUMPy5HicmbKuXmKxgJ98QGxtcOfmUOy-OmzLsoJwPP1xDhsU9RSj2cVahRqSY6yW1FKUdFMaTMAf92jRwd&new=1)
+ ## [LG 退出手机市场；苹果新专利可让 iPhone 支持电池预警；小米首款汽车售价区间或在10-30万元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=O2Yo6WsWevTw6pZav7ikMIu8310nq8ofImbR3ldmaEqa7nUMPy5HicmbKuXmKxgJ7WbRyKlDj6ZP1i37MY1GozXVbJS90Qaw19AKpIscORZPV2lvqcVM1nGsf38opiGW&new=1)
  > 图 / LGHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【LG 宣布退出手机市场】韩国 LG 电子正式宣布退出手机市场，现有的手机库存将会继续销售，现有的设备将会继续提供售后支持服务和软件更...
- ## [专访|WOORIRO：5G需求仍需酝酿 数据中心市场未来可期](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=vle3raoLzvjrx61wn0FfMczZQ4fBvmtm*O0OvCj6WyPqKwH0swv*n*uhWytCgjczYiFlpWijwkd*j7JZQATjF59YJ6DAsuLb6Q40mbgb4VTaBhR*Q-ckZisSaZNz1Arj&new=1)
+ ## [专访|WOORIRO：5G需求仍需酝酿 数据中心市场未来可期](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=vle3raoLzvjrx61wn0FfMczZQ4fBvmtm*O0OvCj6WyPqKwH0swv*n*uhWytCgjczA1Km3caJzIznKF2PbDNCY2RNe4dyTGLqZV20HGQT8-IUKFqWAsWmvv89untijvmo&new=1)
  > 新闻导读讯石采访韩国光芯片公司WOORIRO中国区负责人李承月。公司一季度5G市场需求中25G APD出货量比多，集中在DWDM模块需求，预计今年上半年，5G市场仍处于消化的阶段，而国内数据中心是值得期待的市场。ICC讯 ...
- ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3a06abTENOkGPk1lZMvOa1hRiwvov9XaY22jtjECtiKrDdD8iwBdIe0AjG0JinOhSEMYui31P7OslxKZyxXief&new=1)
+ ## [报名：2μm超高精度光固化3D打印系统及应用，摩方精密直播](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=woNA43PSz-rFUMEkR8N3L7VfBuUveJPaW9pmg8wU*MGEX6Z-AdFQ5coTajt0*UGqd3vwJzL4iLU130EHa7CKGOvIqdyWyuqtNukpoLWs1ydThyFOnpNUpTrybh8cVzjP&new=1)
+ > 直播时间：2021年4月14日（周三）15:00直播主题：2μm超高精度光固化3D打印系统及其应用合作：南极熊3D打印直播平台报名直播及下载资料：△微信扫码填写报名3D打印技术即增材成型技术，从成型工艺上看，3D打印技...
+ ## [原SAP全球副总裁「邓永富」加盟金蝶：任金蝶云·苍穹事业部总经理，集团副总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=pddsZaw6uIOe*9YwhlUlP3peLC*dXFPea-O3EPuJPTVkTHBhPRMrwzYr8Qt8f*43ukhKQ8flw0w1vHNA4HhdgIzz3PG1H-lvHdCd786fJwyLwpC4nbyPiQsjU*W0wSHA&new=1)
+ > 2021年4月6日，金蝶集团内部发文，任命邓永富先生担任副总裁、金蝶云·苍穹事业部总经理。公开资料显示，邓永富一直深耕于IT行业，在商业软件领域有近20年丰富经验，曾就职于江苏省计算技术研究所、金蝶软件、SA...
+ ## [贵州省智慧医疗健康专家委员会成立](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=IP2xkTte*MrOvwKFnd-hr3rC1fJ1D6I0r6TpXqlT2sqlYrEXjGVTW1xN6ivUKd1kBdOoA-lChAHhremLPeDPx4pXNiten2F9Fwvi7RQn9bI=&new=1)
+ > 本报讯 近日，贵州省智慧医疗健康专家委员会正式在贵州省人民医院成立。贵州省智慧医疗健康专家委员会是行业沟通及交流平台，特邀清华大学人工智能研究院张钹院士为专家委员会首席专家，清华大学长庚医院董...
+ ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcn8lAStCoq8aDgRmALWmDwyhDG7Rls3u*uI20kZSpBgJFxY2S0dISFIBOgtmfa*3RL0W*NM78VMKVx3lzyNsKKx&new=1)
+ > 对于用户、开发者而言，iOS 14.5都是太有意义了，因为这将推动iOS系统根本改变。据悉，苹果今天提醒开发者，将从iOS 14.5，iPadOS 14.5和tvOS 14.5发布后，开始执行IDFA的新政策。在发布这些系统更新后，开发者...
+ ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3a06abTENOkGPk1lZMvOa1wBqrioMy5muYTm83PUhjK-QZ*nUU3PIqA25lV3BR-c3WcxvzN9b29L579T*Qm1RO&new=1)
  > 2020年6月15日，美国运营商T-Mobile发生了一起罕见的网络重大事故。全国范围内的语音和短信服务中断长达12小时。事后，美国FCC主席公开表示这起重大网络事故“不可接受”，并随后对T-Mobile展开了调查。全国范围...
- ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjT0PlBPT0OElJ*wnKvqKaYfIOtxsXgTEEZv0psHmE7zmoQWx6QkcvL67EsvHbv-WsqaeaYRBYhgQMikitrjxp9&new=1)
+ ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjT0PlBPT0OElJ*wnKvqKaYkgB4HqQ7N03hRXTGmVltVdz5qciS0n9Ws5h2uiWOMF-ENjCVDAVweH*DriKMeTZV&new=1)
  > 125页PPT读懂华为数据之道。下文从技术、流程、管理等多个维度系统地讲解了华为数据治理和数字化转型的实践和方法论。
- ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT05V5Zz01bseUV*-sx3bA2ZrsCwcja555MVTzTvHF3LRL82sLFpNQOjA2ScOS1BNf6lWn5YIVNFoHhLtvw4cSr7&new=1)
+ ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT05V5Zz01bseUV*-sx3bA2Zg67gEew3km2aLHBQokrYgngLTTwySJsTePDYWhatMZ6DveNSQA27scqObj-ke8oh&new=1)
  > 近日，位于我国四川的三星堆遗址又上新了，出土众多珍贵文物，给我们更多3000多年前的“信息数据”。这再次吸引了世界的目光。我们感谢三星堆，保存了部分我们民族的记忆，让历史变得“更厚”了。遗憾的是，几千...
- ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlaTmLOrDE9exqpMm66TBNYxNO-L6kl89EiNm4UCvKx84V1OsSvddYWC8EtNEmi-fv7E8W9LvLKcVHTwrC59E1bf&new=1)
+ ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617768004&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlaTmLOrDE9exqpMm66TBNYx5gC5NZCML4XJ3PVtm9tteCRdCiPfd7D9zTvTP7N09ub*wkgZYWAJOx4bqNqwgirO&new=1)
  > 人工智能、区块链、云计算和大数据等数字技术以迅雷不及掩耳之势将人类社会带入了数字经济时代，第四次工业革命以势不可挡之势由此拉开了大幕。为此，全球诸国就发展数字经济展开了新一轮竞逐。我国已将发展数字...
 # IT 技术 
- ## [11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
- > 11种流行的渗透测试工具
- ## [再见了，公司的“烂系统”](http://developer.51cto.com/art/202104/656140.htm)
- > 再见了，公司的“烂系统”
+ ## [值得推荐的11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
+ > 值得推荐的11种流行的渗透测试工具
+ ## [开发 | 再见了，公司的“烂系统”](http://developer.51cto.com/art/202104/656140.htm)
+ > 开发 | 再见了，公司的“烂系统”
  ## [JDK 17：Java 17有何新看点？](http://developer.51cto.com/art/202104/656131.htm)
  > JDK 17：Java 17有何新看点？
- ## [人体姿态评估技术的开发与实现](http://ai.51cto.com/art/202104/655998.htm)
- > 人体姿态评估技术的开发与实现
- ## [懵了！女朋友突然问我MVCC实现原理](http://developer.51cto.com/art/202104/656031.htm)
- > 懵了！女朋友突然问我MVCC实现原理
- ## [MySQL不香吗，为啥还要Elasticsearch？](http://database.51cto.com/art/202104/656071.htm)
- > MySQL不香吗，为啥还要Elasticsearch？
- ## [组织应该采用数据湖的7个原因](http://database.51cto.com/art/202104/655997.htm)
- > 组织应该采用数据湖的7个原因
- ## [【曾贤志】Excel表格视频教程（绝招篇）](http://fellow.51cto.com/art/202101/638871.htm?qd=51ctojrzd)
- > 【曾贤志】Excel表格视频教程（绝招篇）
- ## [一文学会LirbeNMS安装~优秀开源的SNMP设备监控软件](http://os.51cto.com/art/202104/656188.htm)
- > 这篇主要讲安装的过程，大家在使用开源软件的时候不要抱有免费的软件，商业的体验的心态，那是不可能的，该
- ## [测试开发必须掌握的知识点：Java反射](http://developer.51cto.com/art/202104/656185.htm)
- > Java反射是Java被视为动态(或准动态)语言的一个关键性质。这个机制允许程序在运行时通过Reflection APIs取
- ## [微软为 Windows 10  21H2 适配了新的用户离开自动锁屏检测功能](http://os.51cto.com/art/202104/656184.htm)
- > 据外媒 WindowsLatest，随着 Windows 10 Sun Valley 的更新，微软将为这一项功能引入原生控件。因为目前你
- ## [仓储自动化很火，软银斥资28亿美元收购AutoStore 40%股份](http://ai.51cto.com/art/202104/656183.htm)
- > 近日，软银集团股份有限公司同意斥资28亿美元收购挪威仓储自动化公司AutoStore 40%的股份。据悉，这
- ## [美国司法部警告：网络犯罪分子正在利用疫苗调查和钓鱼工具窃取用户个人信息](http://netsecurity.51cto.com/art/202104/656182.htm)
- > 近期，美国司法部警告称，网络犯罪分子正在利用虚假的疫苗种后调查来对广大用户进行网络钓鱼攻击，并窃取用
- ## [为什么说边缘计算是计算的未来？](http://cloud.51cto.com/art/202104/656181.htm)
- > 总之，2021年，边缘计算将成为云计算的重要组成部分，尤其在混合云生态环境下，边缘计算将在靠近用户设备及
- ## [2021年需要学习的5种编程语言](http://developer.51cto.com/art/202104/656180.htm)
- > 随着对程序员和开发人员的需求不断增加，对编程语言的需求也确实在不断增加。以下是2021年最受欢迎的5种编
- ## [卫星物联网商业服务启动，Myriota及Sateliot捷足先登](http://iot.51cto.com/art/202104/656179.htm)
- > 两家卫星新创公司锁定物联网（IoT）市场，在2021年3月发射了第一颗卫星，分别是Myriota及Sateliot公司。
- ## [付费成人网站OnlyFans数百名创作者内容泄露，可能有你关注的YouTube博主](http://netsecurity.51cto.com/art/202104/656178.htm)
- > 4月5日外媒报道，OnlyFans的279位创作者帐号内容在网上流传，除了网站付费内容，其中还包含大量创作者未分
- ## [一篇文章带你了解CSS定位知识](http://developer.51cto.com/art/202104/656177.htm)
- > 本文基于Html基础，主要介绍了CSS中四种定位的方式。对于四种的定位表现形式，用丰富的案例 ，代码效果图的
+ ## [值得现在就去尝试的四款开源聊天应用软件](http://os.51cto.com/art/202104/656127.htm)
+ > 值得现在就去尝试的四款开源聊天应用软件
+ ## [鸿蒙IDE迎来重大更新，新特性足以让你尖叫](http://os.51cto.com/art/202104/656117.htm)
+ > 鸿蒙IDE迎来重大更新，新特性足以让你尖叫
+ ## [只要你一句话，马斯克就得留扫把头，项目已开源](http://news.51cto.com/art/202104/656126.htm)
+ > 只要你一句话，马斯克就得留扫把头，项目已开源
+ ## [培养好编码习惯，更好地产出和维护成果](http://developer.51cto.com/art/202104/656111.htm)
+ > 培养好编码习惯，更好地产出和维护成果
+ ## [JavaScript编程入门视频课程](http://fellow.51cto.com/art/202012/638065.htm?qd=51ctojrzd)
+ > JavaScript编程入门视频课程
+ ## [区块链技术解决信任问题](http://blockchain.51cto.com/art/202104/656220.htm)
+ > 区块链技术基于分布式账本技术，通过数学算法和现实经济的方式组合，在区块链上形成一套共识机制，从而使区
+ ## [成都某安全公司爆仓3个亿，把警方的钱都亏完了！](http://netsecurity.51cto.com/art/202104/656217.htm)
+ > 有粉丝向黑箱爆个大瓜，币圈发生了一个奇葩的事件，据称成都某区块链安全公司的CMO做空比特币亏损高达3个亿
+ ## [干货！七个Python库助你构建数据科学应用程序](http://developer.51cto.com/art/202104/656215.htm)
+ > 近几年，Python 在数据科学行业的发展十分迅猛，也正因为如此，对于希望提升应用程序功能的数据科学家和机
+ ## [双向流动性是加密全球化的关键](http://blockchain.51cto.com/art/202104/656208.htm)
+ > 全球经济中最重要的事情之一就是商品和服务的流动。货币被用来促进这些流动，但是诸如高通胀率和货币操
+ ## [物联网如何推动医药行业下一波发展](http://iot.51cto.com/art/202104/656206.htm)
+ > 通过实施物联网平台、解决方案和服务，制药公司可以数字化和连接重要功能，提高效率，确保产品质量和合规性
+ ## [区块链技术在商标领域的应用研究](http://blockchain.51cto.com/art/202104/656204.htm)
+ > 区块链技术因其去中心化、防篡改、共识机制及时间戳等特点，在很多领域已经被深入应用。目前，区块链技术在
+ ## [Javascript的对象拷贝](http://developer.51cto.com/art/202104/656205.htm)
+ > 在开始之前，我先普及一些基础知识。Javascript 的对象只是指向内存中某个位置的指针。这些指针是可变的，
+ ## [人脸识别技术推广受信息泄露困扰](http://ai.51cto.com/art/202104/656201.htm)
+ > 在“风口”，更在“刀尖”――最近一年，或许没有哪一项新技术比人脸识别更配得上“毁誉参半”这个词。
+ ## [避免用户成“大数据杀熟”的“工具人”](http://bigdata.51cto.com/art/202104/656199.htm)
+ > 移动互联网时代，大数据深度融入人们的日常生活，个性化定制服务已成常态，比用户更“了解”自己的很可能不
+ ## [特斯拉安全吗？自动驾驶汽车亟需“网络安全带”](http://zhuanlan.51cto.com/art/202104/656202.htm)
+ > 电动汽车、自动化驾驶、车联网和共享出行正在汽车行业掀起一场深刻的数字革命，但一个关键事实经常被狂热的
  ## [半小时一篇文过完C语言基础知识点](https://blog.csdn.net/A757291228/article/details/115119859)
  > 半小时一篇文过完C语言基础知识点
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -81,46 +85,50 @@ categories: IT NEWS
  > 
  ## [R语言建立和可视化混合效应模型mixed effect model](https://blog.csdn.net/qq_19600291/article/details/114145428)
  > R语言建立和可视化混合效应模型mixed effect model
- ## [一个爬虫代码价值 7000 万](https://blog.csdn.net/qq_33570092/article/details/115154075)
- > 一个爬虫代码价值 7000 万
- ## [一行代码值 200 万？雷军公开小米新 Logo 引吐槽](https://blog.csdn.net/P5dEyT322JACS/article/details/115364480)
- > 一行代码值 200 万？雷军公开小米新 Logo 引吐槽
- ## [我终于知道公司前端为啥不加班了…](https://blog.csdn.net/devcloud/article/details/115320354)
- > 我终于知道公司前端为啥不加班了…
+ ## [10个非常适合菜鸟练手的Python项目，墙裂建议收藏！](https://blog.csdn.net/cainiao_python/article/details/115191488)
+ > 10个非常适合菜鸟练手的Python项目，墙裂建议收藏！
+ ## [ArrayList去除重复元素](https://blog.csdn.net/weixin_46561196/article/details/115333811)
+ > ArrayList去除重复元素
+ ## [35岁的程序员被公司辞退，往往是这三个原因，现实又残酷](https://blog.csdn.net/weixin_55596273/article/details/115306362)
+ > 35岁的程序员被公司辞退，往往是这三个原因，现实又残酷
  ## [今天给没用过Git的新人简单培训了一下](https://blog.csdn.net/qq_35067322/article/details/115107189)
  > 今天给没用过Git的新人简单培训了一下
 # 人工智能 
- ## [CSDN 统一标签设计  征求反馈](https://blog.csdn.net/SoftwareTeacher/article/details/115250622)
- > CSDN 统一标签设计  征求反馈
- ## [源代码从 300 行到 172,000 行，它用了 23 年](https://blog.csdn.net/csdnnews/article/details/115364737)
- > 源代码从 300 行到 172,000 行，它用了 23 年
- ## [Spring Boot 定义接口的方法是否可以声明为 private？](https://blog.csdn.net/u012702547/article/details/115365730)
- > Spring Boot 定义接口的方法是否可以声明为 private？
- ## [慌了，老大让我将线上的服务器升配，咋搞？](https://blog.csdn.net/u010889990/article/details/115371538)
- > 慌了，老大让我将线上的服务器升配，咋搞？
+ ## [n行Python代码系列：五行代码实现两个视频画中画播放](https://blog.csdn.net/LaoYuanPython/article/details/114807364)
+ > 
+ ## [聊聊机器学习中的那些花儿：标准化、归一化、正则化、离散化和白化](https://blog.csdn.net/xufive/article/details/115345361)
+ > 聊聊机器学习中的那些花儿：标准化、归一化、正则化、离散化和白化
  ## [Flutter Boost 混合开发框架初探](https://blog.csdn.net/xiangzhihong8/article/details/115380924)
  > Flutter Boost 混合开发框架初探
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [大厂面经分享——来聊聊我的阿里云P7面试经历](https://blog.csdn.net/songguangfan/article/details/115386378)
  > 大厂面经分享——来聊聊我的阿里云P7面试经历
  ## [你会在 JitPack 上创建依赖库吗？](https://blog.csdn.net/haojiagou/article/details/115391998)
  > 你会在 JitPack 上创建依赖库吗？
- ## [PySwarms(Python粒子群优化工具包)的使用:GlobalBestPSO例子解析](https://blog.csdn.net/weixin_48266461/article/details/115286079)
- > PySwarms(Python粒子群优化工具包)的使用:GlobalBestPSO例子解析
- ## [一篇文章“简单”认识《人工神经网络》](https://blog.csdn.net/qq_41204464/article/details/115420602)
- > 一篇文章“简单”认识《人工神经网络》
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [隐藏与篡改Linux命令行参数](https://blog.csdn.net/dog250/article/details/115411814)
+ > 隐藏与篡改Linux命令行参数
+ ## [【清明专刊】悼念逝去老友司徒正美，致敬曾改变世界的Flash](https://blog.csdn.net/BEYONDMA/article/details/115412820)
+ > 【清明专刊】悼念逝去老友司徒正美，致敬曾改变世界的Flash
+ ## [困在“墙”里的中年程序员](https://blog.csdn.net/mogoweb/article/details/115435753)
+ > 困在“墙”里的中年程序员
+ ## [Redis源码剖析之AOF](https://blog.csdn.net/xindoo/article/details/115447240)
+ > Redis源码剖析之AOF
  ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
  > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [三万多字长文！让你秒懂编译原理(四)——第四章 语法分析—自上而下分析](https://blog.csdn.net/m0_46413065/article/details/115353558)
- > 三万多字长文！让你秒懂编译原理(四)——第四章 语法分析—自上而下分析
- ## [BP神经网络算法 原理讲解以及底层代码复现](https://blog.csdn.net/weixin_52328678/article/details/115441076)
- > BP神经网络算法 原理讲解以及底层代码复现
- ## [打开我的收藏夹 -- Python数据分析杂谈](https://blog.csdn.net/qq_43762191/article/details/115429705)
- > 打开我的收藏夹 -- Python数据分析杂谈
- ## [必先利其器——Python机器学习环境搭建](https://blog.csdn.net/weixin_51456385/article/details/115428131)
- > 必先利其器——Python机器学习环境搭建
+ ## [谷歌胜诉！10年Java版权案终结](https://blog.csdn.net/weixin_39786569/article/details/115453662)
+ > 谷歌胜诉！10年Java版权案终结
+ ## [重磅官宣：Nacos2.0 发布，性能提升 10 倍](https://blog.csdn.net/yunqiinsight/article/details/115461919)
+ > 重磅官宣：Nacos2.0 发布，性能提升 10 倍
+ ## [人脸识别原理详解：使用tfrecord集合网络训练所有数据](https://blog.csdn.net/tyler_download/article/details/115462948)
+ > 人脸识别原理详解：使用tfrecord集合网络训练所有数据
+ ## [【技术流派】双目立体视觉系统空间精度：精确定量分析](https://blog.csdn.net/rs_lys/article/details/115442565)
+ > 【技术流派】双目立体视觉系统空间精度：精确定量分析
 # PM 
+ ## [产品设计的切入点有哪些](http://www.chanpin100.com/article/114422)
+ > 产品设计的切入点有哪些呢？每个产品设计都需要寻找自己的切入点，否则设计就会无根无据，难以立竿见影，容易被淘汰。对产品设计的切入有三个不同的角度：人、企业和社会。三个方面比较全面地涵盖了设计的切入角度，每一个都涵盖了不同的切入点。
+ ## [产品设计必看书籍有哪些](http://www.chanpin100.com/article/114420)
+ > 产品设计是从制定新产品设计任务书开始，到产品样机设计为止的一系列技术工作。想要提升自己的设计水准，有些书籍还是很有必要看的。那么，产品设计必看书籍有哪些呢？请看本文的介绍。
  ## [产品的复盘与自我反省](http://www.chanpin100.com/article/114381)
  > 产品经理定期对自己的工作以及产品的复盘与反省，是个人提升和产品优化的非常重要的一步，我们应该从那些方面去审视自己的产品呢？
  ## [业务中台和数据中台到底有什么关系？](http://www.chanpin100.com/article/114418)
@@ -157,9 +165,5 @@ categories: IT NEWS
  > 产品经理在工作之于是需要兼顾项目管理的工作的，那我们如何来管控项目，避免项目延期呢
  ## [创客匠人助力知识付费更好发展](http://www.chanpin100.com/article/114377)
  > 知识付费离不开优质的内容产生，而优质内容的产生往往来源于在线教育、K12教育、自媒体、机构等等种，产出好的内容价值知识付费才能更好地发展。
- ## [产品设计中有哪些人性化的理念](http://www.chanpin100.com/article/114404)
- > 产品设计者通过在设计形式和功能等方面注入“人性化”的元素，赋予产品设计者“人性化”的性格，使其具有情感、个性、情趣和生命。那么，产品设计中有哪些人性化的理念呢？
- ## [你所不知道的“马斯克”](http://www.chanpin100.com/article/114395)
- > 是什么样的社会机制、商业环境、文化成就了埃隆·马斯克？你可以从这个奇人身上得到一些启迪，但不要梦想成为这样的人。
 
     
