@@ -1,21 +1,27 @@
 ---
 title: 2021-04-07 IT News
 copyright: true
-date: 2021-04-07 09:01:15
+date: 2021-04-07 10:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjtup5tskaDAkTGSZv8K-e6AB-u5t5ERUnwb5Z33eeFM5bgSKfqXLTRCTx*EFw86p-8AoE6lt761B9msTZ5j27Y&new=1)
- > 125页PPT读懂华为数据之道。下文从技术、流程、管理等多个维度系统地讲解了华为数据治理和数字化转型的实践和方法论。
- ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT0-J3LiP1cul3VBXR5EPyecVdl0CYTwVAmrXUQbkfRKwEGpXjHK*o61--h1BOKFOG1C8GHeMgOaM47soQuuY6ti&new=1)
- > 近日，位于我国四川的三星堆遗址又上新了，出土众多珍贵文物，给我们更多3000多年前的“信息数据”。这再次吸引了世界的目光。我们感谢三星堆，保存了部分我们民族的记忆，让历史变得“更厚”了。遗憾的是，几千...
- ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlYo1EVmuOqGXk6LAo7DzSKP0TN2u3ny*ZDK73bO05bKGBDrD-pcDpowNrwrk8u--*GmJxr02nVvi3zKCkmcQp7J&new=1)
- > 人工智能、区块链、云计算和大数据等数字技术以迅雷不及掩耳之势将人类社会带入了数字经济时代，第四次工业革命以势不可挡之势由此拉开了大幕。为此，全球诸国就发展数字经济展开了新一轮竞逐。我国已将发展数字...
- ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3jT4XNY-LALIwh-URXvG*StypSL8ef-bfU-YZ18a9rM1-OY763C0wZe5kHE*81Tvy3mNsffNrhLGSZOQnvuURJ&new=1)
- > 2020年6月15日，美国运营商T-Mobile发生了一起罕见的网络重大事故。全国范围内的语音和短信服务中断长达12小时。事后，美国FCC主席公开表示这起重大网络事故“不可接受”，并随后对T-Mobile展开了调查。全国范围...
- ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617757204&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcnz6h4G03ZE9eD1QrUl5NStY0HPjeid8J0lERl9f*ZumzIDMNYH1pahkXVDTB0mei92TSPS-nh*cxaVenaR27o6&new=1)
+ ## [苹果公布iOS 14新版：推动iOS系统根本改变!](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=RnY4HpzCzQ3ru79Z5cLGg-KnIQbhi3n7dAPSyK91mcn8lAStCoq8aDgRmALWmDwyugBFvRMmfGTIhrZ0TNmNlOWH2aRHpkYVe6oZaBLyc*FxplqYIu3IlOyi3JGNRtU3&new=1)
  > 对于用户、开发者而言，iOS 14.5都是太有意义了，因为这将推动iOS系统根本改变。据悉，苹果今天提醒开发者，将从iOS 14.5，iPadOS 14.5和tvOS 14.5发布后，开始执行IDFA的新政策。在发布这些系统更新后，开发者...
+ ## [原SAP全球副总裁「邓永富」加盟金蝶：任金蝶云·苍穹事业部总经理，集团副总裁](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=pddsZaw6uIOe*9YwhlUlP3peLC*dXFPea-O3EPuJPTVkTHBhPRMrwzYr8Qt8f*43Mk24S8EpQiep2ENjftsXQsAecbmytp4YwSKbutLSLyW0rxDZFYuDDLVhifiTnyns&new=1)
+ > 2021年4月6日，金蝶集团内部发文，任命邓永富先生担任副总裁、金蝶云·苍穹事业部总经理。公开资料显示，邓永富一直深耕于IT行业，在商业软件领域有近20年丰富经验，曾就职于江苏省计算技术研究所、金蝶软件、SA...
+ ## [LG 退出手机市场；苹果新专利可让 iPhone 支持电池预警；小米首款汽车售价区间或在10-30万元|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=O2Yo6WsWevTw6pZav7ikMIu8310nq8ofImbR3ldmaEqa7nUMPy5HicmbKuXmKxgJ98QGxtcOfmUOy-OmzLsoJwPP1xDhsU9RSj2cVahRqSY6yW1FKUdFMaTMAf92jRwd&new=1)
+ > 图 / LGHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【LG 宣布退出手机市场】韩国 LG 电子正式宣布退出手机市场，现有的手机库存将会继续销售，现有的设备将会继续提供售后支持服务和软件更...
+ ## [专访|WOORIRO：5G需求仍需酝酿 数据中心市场未来可期](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=vle3raoLzvjrx61wn0FfMczZQ4fBvmtm*O0OvCj6WyPqKwH0swv*n*uhWytCgjczYiFlpWijwkd*j7JZQATjF59YJ6DAsuLb6Q40mbgb4VTaBhR*Q-ckZisSaZNz1Arj&new=1)
+ > 新闻导读讯石采访韩国光芯片公司WOORIRO中国区负责人李承月。公司一季度5G市场需求中25G APD出货量比多，集中在DWDM模块需求，预计今年上半年，5G市场仍处于消化的阶段，而国内数据中心是值得期待的市场。ICC讯 ...
+ ## [一条光纤传输中断后，如何引发了全网VoLTE瘫痪?](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=Yf8yBFUnR8GaSpX5fK2vVvqYF7Ozmlh1PdXXiJmRaU3a06abTENOkGPk1lZMvOa1hRiwvov9XaY22jtjECtiKrDdD8iwBdIe0AjG0JinOhSEMYui31P7OslxKZyxXief&new=1)
+ > 2020年6月15日，美国运营商T-Mobile发生了一起罕见的网络重大事故。全国范围内的语音和短信服务中断长达12小时。事后，美国FCC主席公开表示这起重大网络事故“不可接受”，并随后对T-Mobile展开了调查。全国范围...
+ ## [华为内部数据治理PPT，请收好!](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=dnCcX7I48NyURnwHI93HJKW3I9kwRpsKiggF1wzCFBjT0PlBPT0OElJ*wnKvqKaYfIOtxsXgTEEZv0psHmE7zmoQWx6QkcvL67EsvHbv-WsqaeaYRBYhgQMikitrjxp9&new=1)
+ > 125页PPT读懂华为数据之道。下文从技术、流程、管理等多个维度系统地讲解了华为数据治理和数字化转型的实践和方法论。
+ ## [数字敦煌带来启示：华为与伙伴要如何开启数据保护新未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=A4p7WPFVmODGHxUTsM756lPF8iTDk8d0rMviCXLGBT05V5Zz01bseUV*-sx3bA2ZrsCwcja555MVTzTvHF3LRL82sLFpNQOjA2ScOS1BNf6lWn5YIVNFoHhLtvw4cSr7&new=1)
+ > 近日，位于我国四川的三星堆遗址又上新了，出土众多珍贵文物，给我们更多3000多年前的“信息数据”。这再次吸引了世界的目光。我们感谢三星堆，保存了部分我们民族的记忆，让历史变得“更厚”了。遗憾的是，几千...
+ ## [5G建设持续推进，通信行业未来前景如何?](http://mp.weixin.qq.com/s?src=11&timestamp=1617760804&ver=2993&signature=cfM7dkprUS98YqbI68XmK6Hme7nlCChlGYV4KQZhSlaTmLOrDE9exqpMm66TBNYxNO-L6kl89EiNm4UCvKx84V1OsSvddYWC8EtNEmi-fv7E8W9LvLKcVHTwrC59E1bf&new=1)
+ > 人工智能、区块链、云计算和大数据等数字技术以迅雷不及掩耳之势将人类社会带入了数字经济时代，第四次工业革命以势不可挡之势由此拉开了大幕。为此，全球诸国就发展数字经济展开了新一轮竞逐。我国已将发展数字...
 # IT 技术 
  ## [11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
  > 11种流行的渗透测试工具
@@ -61,8 +67,8 @@ categories: IT NEWS
  > 
  ## [难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系](https://blog.csdn.net/hihell/article/details/115421584)
  > 难以置信！一篇文章就梳理清楚了 Python OpenCV 的知识体系
- ## [\[译\] APT分析报告：08.漏洞利用图谱–通过查找作者的指纹来寻找漏洞](https://blog.csdn.net/Eastmount/article/details/109135222)
- > \[译\] APT分析报告：08.漏洞利用图谱–通过查找作者的指纹来寻找漏洞
+ ## [深入 Java 源码来剖析 hashCode，从此菜不再是原罪](https://blog.csdn.net/qing_gee/article/details/115475819)
+ > 深入 Java 源码来剖析 hashCode，从此菜不再是原罪
  ## [一文讲透窗口函数](https://blog.csdn.net/junhongzhang/article/details/114609541)
  > 一文讲透窗口函数
  ## [前端技术体系与发展计划](https://blog.csdn.net/u011068996/article/details/106501992)
@@ -115,6 +121,8 @@ categories: IT NEWS
  ## [必先利其器——Python机器学习环境搭建](https://blog.csdn.net/weixin_51456385/article/details/115428131)
  > 必先利其器——Python机器学习环境搭建
 # PM 
+ ## [产品的复盘与自我反省](http://www.chanpin100.com/article/114381)
+ > 产品经理定期对自己的工作以及产品的复盘与反省，是个人提升和产品优化的非常重要的一步，我们应该从那些方面去审视自己的产品呢？
  ## [业务中台和数据中台到底有什么关系？](http://www.chanpin100.com/article/114418)
  > 今天本文探讨的主题是业务中台和数据中台之间的关系是怎样的，希望今天的分享能够让你对业务中台和数据中台有一个更清晰的认识。
  ## [到底应该怎样理解数据中台呢？](http://www.chanpin100.com/article/114417)
@@ -153,7 +161,5 @@ categories: IT NEWS
  > 产品设计者通过在设计形式和功能等方面注入“人性化”的元素，赋予产品设计者“人性化”的性格，使其具有情感、个性、情趣和生命。那么，产品设计中有哪些人性化的理念呢？
  ## [你所不知道的“马斯克”](http://www.chanpin100.com/article/114395)
  > 是什么样的社会机制、商业环境、文化成就了埃隆·马斯克？你可以从这个奇人身上得到一些启迪，但不要梦想成为这样的人。
- ## [十年产品感悟万字好文 产品日常思维47问——下](http://www.chanpin100.com/article/114393)
- > “很多人都表示对产品有兴趣，我觉得对产品来说问题在于如何做成一个好产品，而不是去做什么样的产品”  十年老司机：老虎色
 
     
