@@ -1,58 +1,60 @@
 ---
 title: 2021-04-08 IT News
 copyright: true
-date: 2021-04-08 09:00:58
+date: 2021-04-08 10:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DdyXc*--SYOT45qkd2uUyd86FdA8wVHUnc4VMFmiF31eEw4ZXqUqgOJ4saqaAIp913wqTI1SD7hNb8VcWWllFk7&new=1)
- > 以科大讯飞为首的科技创新型企业不仅通过自己旗下产品重新定义办“AI+办公”，让国人对中国的AI实力有了一个较为清晰的认知，也在推动我国产业智能化升级中做出巨大贡献，让世界看到了“中国智造”的未来蓝图。...
- ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4zlZO4B54Kk1Y0bZM9bpVviBwLiDSpKGg-0w7UfEMMGgFSSM9VRS35cMVHm5EAEK0nQcFZ-7fz4jfFaVI8WMeCG&new=1)
- > 较为知名的清华系芯片公司多达27家，2019年中国IC设计前十强中，清华系贡献了4个席位。从赴美创立豪威科技的陈大同，到一路买买买的赵伟国，创业、投资、并购、升级，互相提携互相成就，是这一代清华人的故事主...
- ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76UTrpqOWHEu-KkgKseS03HfrDW50M7jiC6Fj4tEPi1SyDs6PfM7NjGDcrxL0wJbd1JKUrsZWo56kZTgYiMhk9wZ&new=1)
+ ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76UTrpqOWHEu-KkgKseS03HfTFEtEttgHo0Mx5*5bxJ8ZmHHWk8IRiDsvVCtb81omGjVLGw7oXF-9XZ6fPvaFImU&new=1)
  > 摘要◎超越终端的多维增长战略。◎协同创新，一个杀手级场景。◎更多结构变化与市值管理。◎最好的时刻？赶在后面，写这一话题，只是让你意识到，小米造车，或有更多潜在动机与发展隐秘。造车的最后成效，未必比...
- ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-ppwPrY65k3YeW-yd0e2gpwmO3MAA34bu4gjC5Lg*edF5CLr*Rvd59QVylza9NujPbcUHoS4CpxpuN*96fj5ac*d&new=1)
- > 近日，原中国移动贵州有限公司董事长芈大伟受贿案细节曝光。裁判文书网公布的刑事判决书显示，在1995-2016年的20余年间，芈大伟先后利用职务便利收受个人及单位行贿2056.26万元，近10家企业卷入，其中A股上市公...
- ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTvM-t6-BQPg003xtSY9yQecmLaiz-uD2pE3ESF1YpJmorL7ufRGumUDc6R8uX*ppgHk9*E20vD1Nw6ezIWIYfX5&new=1)
+ ## [专访|迅特通信魏志坚：2020年国内运营商波分集采份额第一 积极配合5G相关研究工作](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=tBCkYv4GU3FpcKawPzWGyfzrCkgUuCgBQnNtghU9mXg09H7RG1o2RUX*aerDzSGDI6sJkRj3ot1Ex8JPpQvBJWNpeN*0*pg0dDcJ*dTlB0u7NjKJdEXPReUbTXPkLgGQ&new=1)
+ > 新闻导读讯石专访迅特通信首席技术官—魏志坚博士，听其回顾公司2020年的发展，分享迅特通信能在5G潮流中脱颖而出的关键。2020年，迅特通信在国内三大运营商5G网络建设相关集采项目中屡创佳绩，实现全年25G前传...
+ ## [想拥有柯南一样的变声器?安排!丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=a1tq76gA98fBDn4*78y9FzJKNyN7-xv1Lp9gf4GgsQwUNlJY*qoka9LUETUsdwJfrOr9zT40*DXBkUzyo5O1wMQjQhB62TeeFjabByg*w7n63AxfUHa7Emk1Ksan4fMp&new=1)
+ > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
+ ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTvM-t6-BQPg003xtSY9yQecG5eUWGOYyMe0KzseMa--1PMWLaBc7bTeIuEdPeH6iTCvZdOiRhIg6SZTV1PLqYtp&new=1)
  > 微软推出了其Java发行版Microsoft Build of OpenJDK预览版，称其为“协作和贡献于Java生态系统的新方式”。Microsoft Build of OpenJDK预览版基于OpenJDK源代码为Java 11提供了微
+ ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-ppwPrY65k3YeW-yd0e2gpwm*iEFBsPePX02W0zXZmwIyr3FiHt9pHulO8NLGCrhcQe1wLSaPTv9UTDUvdfsX10u&new=1)
+ > 近日，原中国移动贵州有限公司董事长芈大伟受贿案细节曝光。裁判文书网公布的刑事判决书显示，在1995-2016年的20余年间，芈大伟先后利用职务便利收受个人及单位行贿2056.26万元，近10家企业卷入，其中A股上市公...
+ ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DdyXc*--SYOT45qkd2uUyd8nDdS0KMPP9ETDdMyMMlDMy0p1zswhignyALrEuMsaaaxqliruBKWXSiLBFaUfS18&new=1)
+ > 以科大讯飞为首的科技创新型企业不仅通过自己旗下产品重新定义办“AI+办公”，让国人对中国的AI实力有了一个较为清晰的认知，也在推动我国产业智能化升级中做出巨大贡献，让世界看到了“中国智造”的未来蓝图。...
+ ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4zlZO4B54Kk1Y0bZM9bpVviu5iqHX6YRGBsvzrk8EpyO*fVNjTso8YBwAnLt9H9ZWOG7tx9MHRqq3gFLEQuPMO3&new=1)
+ > 较为知名的清华系芯片公司多达27家，2019年中国IC设计前十强中，清华系贡献了4个席位。从赴美创立豪威科技的陈大同，到一路买买买的赵伟国，创业、投资、并购、升级，互相提携互相成就，是这一代清华人的故事主...
 # IT 技术 
+ ## [【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更](http://www.cioage.com/art/202104/656271.htm)
+ > 【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更
+ ## [这个勒索病毒笑死我了，哈哈哈哈...](http://netsecurity.51cto.com/art/202104/656294.htm)
+ > 这个勒索病毒笑死我了，哈哈哈哈...
  ## [值得推荐的四大开源混合云平台](http://cloud.51cto.com/art/202104/656273.htm)
  > 值得推荐的四大开源混合云平台
+ ## [鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据](http://developer.51cto.com/art/202104/656264.htm)
+ > 鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据
  ## [值得推荐的11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
  > 值得推荐的11种流行的渗透测试工具
  ## [开发 | 再见了，公司的“烂系统”](http://developer.51cto.com/art/202104/656140.htm)
  > 开发 | 再见了，公司的“烂系统”
  ## [JDK 17：Java 17有何新看点？](http://developer.51cto.com/art/202104/656131.htm)
  > JDK 17：Java 17有何新看点？
- ## [值得现在就去尝试的四款开源聊天应用软件](http://os.51cto.com/art/202104/656127.htm)
- > 值得现在就去尝试的四款开源聊天应用软件
- ## [鸿蒙IDE迎来重大更新，新特性足以让你尖叫](http://os.51cto.com/art/202104/656117.htm)
- > 鸿蒙IDE迎来重大更新，新特性足以让你尖叫
- ## [只要你一句话，马斯克就得留扫把头，项目已开源](http://news.51cto.com/art/202104/656126.htm)
- > 只要你一句话，马斯克就得留扫把头，项目已开源
- ## [【123】-串口电缆介质](http://fellow.51cto.com/art/202101/642226.htm?qd=51ctojrzd)
- > 【123】-串口电缆介质
  ## [西部数据助力IPFS解决方案，全系列产品赋能存储架构革新](http://stor.51cto.com/art/202104/656303.htm)
  > 企业需要用更新、更多的技术来加速存储架构的革新，让用户以更低成本，更可靠、更快速地存储和访问数据。借
- ## [关于Android架构，你是否还在生搬硬套？](http://mobile.51cto.com/ahot-656347.htm)
- > 本文不会具体去讲什么是MVC、MVP、MVVM，但我描述的点应该都是这些模式的基石，从本质上讲明白为什么这样做
- ## [高盛掌门人：比特币监管将迎来重大变革](http://blockchain.51cto.com/art/202104/656346.htm)
- > 高盛(Goldman Sachs)首席执行官大卫・所罗门(David Solomon)表示，他认为比特币和数字货币市场很快将
- ## [继把数据中心沉入海底后，微软又把服务器浸入了“按摩浴缸”](http://zhuanlan.51cto.com/art/202104/656345.htm)
- > 最近，微软又公开宣布，将其服务器浸入“浴缸中”，以提高其性能和能效。
- ## [清华大学刘雷波：互联网大厂用传统思维造芯，或会碰到瓶颈](http://news.51cto.com/art/202104/656344.htm)
- > “对于缺芯涨价的问题不用太过于恐慌，经过一段时间之后一定会趋于合理。”近日，在搜狐科技举办的《中国创
- ## [IDC：2020 年中国网络市场同比增长 7.5%，交换机、路由器、WLAN 均有增长](http://network.51cto.com/art/202104/656343.htm)
- > 日前，IDC 发布的《2020 年网络市场跟踪报告》显示，2020 年全球网络市场规模为 490.1 亿美元，与去年同期
- ## [隐私专家呼吁调查谷歌：未经允许追踪 Android 用户](http://netsecurity.51cto.com/art/202104/656342.htm)
- > 据报道，隐私维权者马克斯 ・ 施雷姆斯(Max Schrems)今日向法国监管机构投诉谷歌，指控谷歌在未经许可的情
- ## [微软 Windows 10 Dev 预览版 21354 发布：Windows 附件、管理工具等从 “开始”删除](http://os.51cto.com/art/202104/656341.htm)
- > 微软表示，当他们的工程师在内部周期进行开发工作时，微软可能会优先考虑在某些特定分支完成开发工作，并可
- ## [NASA前局长加入卫星互联网公司Viasat](http://network.51cto.com/art/202104/656340.htm)
- > 据外媒，前美国宇航局管理员Jim Bridenstine已确认入职卫星互联网公司Viasat，并加入了Viasat的董事会，据J
- ## [私募公司CVC欲将东芝私有化 预计花费超200亿美元](http://news.51cto.com/art/202104/656339.htm)
- > 近日，私募股权公司CVC Capital Partners提议通过一项收购要约，他们计划将日本最大的半导体制
+ ## [5G基站越来越多，它的辐射到底有多大?](http://network.51cto.com/art/202104/656358.htm)
+ > 5G基站分配到天线输出口的功率仅为4瓦，与此相对应的是，家用照明灯每盏的功率为15瓦到40瓦，故5G基站辐射
+ ## [程序员写好技术文章的几点小技巧](http://news.51cto.com/art/202104/656360.htm)
+ > 和所有人强调的一样，好文章最重要的是要有好的内容，好的技术文章要让读者有益。如果你想写一篇爆款文章，
+ ## [对手机应用程序过度索权说“不”](http://mobile.51cto.com/app-show-656359.htm)
+ > 目前移动互联网快速发展，手机应用程序（APP）迅速普及，一些APP通过捆绑功能索取个人信息授权，用户拒绝授
+ ## [自动驾驶卡车提速，商业化落地还要多久？](http://ai.51cto.com/art/202104/656357.htm)
+ > 自动驾驶技术在卡车等B端领域的应用正在提速。4月7日，滴滴自动驾驶子公司发布消息称，该公司计划开启新的
+ ## [机器人的未来：人机协作](http://ai.51cto.com/art/202104/656356.htm)
+ > 传感器技术、计算能力和边缘处理方面的空前进步可以为机器人提供强大的人工智能功能，但这取决于所有生态系
+ ## [鸿蒙内核源码分析(CPU篇) | 内核是如何描述CPU的 ?](http://os.51cto.com/art/202104/656266.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [专家发现Facebook for WordPress插件中存在两个漏洞](http://netsecurity.51cto.com/art/202104/656355.htm)
+ > 官方Facebook for WordPress插件中的关键漏洞可能被滥用以进行远程代码执行攻击。
+ ## [iOS 15原来长这样！苹果官方应用泄露玄机：设计更好看了](http://mobile.51cto.com/iphone-656353.htm)
+ > Apple Music for Artists是一款面向音乐人和唱片公司的专业应用，主要提供单曲/累计购买量和购买地点图等数
+ ## [SSD硬盘问世30年 厂商超200家：HDD仅剩3家](http://biz.51cto.com/art/202104/656351.htm)
+ > 尽管最近闪存价格有所上涨，SSD硬盘也因此水涨船高，但是大家装机基本上都会选择SSD而非HDD机械硬盘了，毕
  ## [看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针](https://blog.csdn.net/A757291228/article/details/115453468)
  > 看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -61,20 +63,20 @@ categories: IT NEWS
  > 
  ## [经过笔试和多轮技术面试我居然败给了HR面？](https://blog.csdn.net/weixin_44895651/article/details/115384049)
  > 经过笔试和多轮技术面试我居然败给了HR面？
- ## [初识Mongdb之数据查询篇（三）](https://blog.csdn.net/weixin_47723732/article/details/115086940)
- > 初识Mongdb之数据查询篇（三）
- ## [Web安全-浅析网页暗链与挂马攻击](https://blog.csdn.net/weixin_39190897/article/details/114196050)
- > Web安全-浅析网页暗链与挂马攻击
- ## [基于Python的OpenCV人脸检测](https://blog.csdn.net/m0_45161766/article/details/107545960)
- > 
- ## [element-ui实现input输入框金额数字添加千分位组件](https://blog.csdn.net/xh_960125/article/details/114387755)
- > element-ui实现input输入框金额数字添加千分位组件
- ## [Webpack-5【babel编译ES6、编译插件、全局-局部垫片】](https://blog.csdn.net/Yesterday_Tomorrow/article/details/114290676)
- > Webpack-5【babel编译ES6、编译插件、全局-局部垫片】
- ## [【kimol君的无聊小发明】—用python写PDF转换器](https://blog.csdn.net/kimol_justdo/article/details/109267805)
- > 【kimol君的无聊小发明】—用python写PDF转换器
- ## [贪吃蛇代码--c语言版 visual c++6.0打开](https://blog.csdn.net/weixin_46627433/article/details/108956493)
- > 贪吃蛇代码--c语言版 visual c++6.0打开
+ ## [大意！6行代码，“报废”5片单片机！](https://blog.csdn.net/m0_38106923/article/details/115381201)
+ > 大意！6行代码，“报废”5片单片机！
+ ## [R语言 | 二分类和多分类的逻辑回归实现](https://blog.csdn.net/icefountain/article/details/106105110)
+ > R语言 | 二分类和多分类的逻辑回归实现
+ ## [python经典练习题之九九乘法表、打印菱形、打印对顶三角形、斐波拉契数列、素数...](https://blog.csdn.net/bigzql/article/details/109665291)
+ > python经典练习题之九九乘法表、打印菱形、打印对顶三角形、斐波拉契数列、素数...
+ ## [我要偷偷的学Python，然后惊呆所有人（第三天）](https://blog.csdn.net/qq_43762191/article/details/109153886)
+ > 我要偷偷的学Python，然后惊呆所有人（第三天）
+ ## [适合 C++ 新手学习的开源项目——在 GitHub 学编程](https://blog.csdn.net/a419240016/article/details/109506295)
+ > 适合 C++ 新手学习的开源项目——在 GitHub 学编程
+ ## [\[GO语言基础\] 五.顺序控制语句和条件控制语句（if、else、switch）](https://blog.csdn.net/Eastmount/article/details/113804706)
+ > \[GO语言基础\] 五.顺序控制语句和条件控制语句（if、else、switch）
+ ## [快速排序算法——C/C++](https://blog.csdn.net/weixin_42109012/article/details/91645051)
+ > 快速排序算法——C/C++
  ## [Java版斗地主代码免费复制](https://blog.csdn.net/qq_33007465/article/details/114838384)
  > Java版斗地主代码免费复制
  ## [MySQL基础语句总结](https://blog.csdn.net/weixin_55086330/article/details/115028662)
@@ -115,6 +117,8 @@ categories: IT NEWS
  ## [【技术流派】双目立体视觉系统空间精度：精确定量分析](https://blog.csdn.net/rs_lys/article/details/115442565)
  > 【技术流派】双目立体视觉系统空间精度：精确定量分析
 # PM 
+ ## [深度剖析小米新logo凭什么值200W？](http://www.chanpin100.com/article/114445)
+ > 近期，令整个互联网界为之哗然的，无疑就是小米的新logo事件了。尤其是当雷布斯宣称，思考了整整3年的时间，花费了200W打造的新logo亮相时，简直惊掉了我的双下巴。。。
  ## [数据产品经理都需要什么样的能力？（三）](http://www.chanpin100.com/article/114443)
  > 本文是数据产品经理需要具备什么样的能力的最后一篇介绍，前两篇文章给大家介绍了数据方面的能力和业务抽象理解能力，本文介绍最后一种能力即项目协调管理等软技能。
  ## [数据产品经理都需要什么样的能力？（二）](http://www.chanpin100.com/article/114442)
@@ -153,7 +157,5 @@ categories: IT NEWS
  > 后端产品经理是整个后端业务需求的整理者，需要串起整个业务的前中后所有流程。后端业务往往并不像前端需求那样简单易于理解
  ## [如何在一周内快速搞懂一个陌生行业！](http://www.chanpin100.com/article/114382)
  > 换了工作，从一个行业跳到另一个行业，从熟悉变成陌生，这样的经历，这是作为产品经常会遇到的情况。面对未知领域既兴奋又焦虑。
- ## [医疗产品设计的原则有哪些](http://www.chanpin100.com/article/114427)
- > 以用户为中心的设计在医疗产品设计领域得到广泛应用，技术的进步为医疗设备的使用体验的提高提供了诸多机遇。医用设备的使用对象是特殊人群，因此，其设计的思路要有针对性。以下小编简单介绍一下医疗产品设计的原则有哪些，让我们一起来了解一下。
 
     
