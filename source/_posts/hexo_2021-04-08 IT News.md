@@ -1,37 +1,51 @@
 ---
 title: 2021-04-08 IT News
 copyright: true
-date: 2021-04-08 12:01:06
+date: 2021-04-08 17:01:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021年上海TCT 3D打印展 参展商名单(必须收藏)](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=Hkr3F5HDqmPKvwP7GMU29AdKiJxeXuOmc2x7GxHQy8Ese6Fgq4unwkPPDnog8CvzkVy4ufoI6q6-y9rVAY5K7wkdPWnA8tmgo9WZjagiIF9CDVbgdv4kkvFgl20TfcpF&new=1)
- > A65 国际 中佑精密材料股份有限公司H40 TCT 上海复志信息技术有限公司G60 TCT 沙迪克机电（上海）有限公司F40 TCT 苏州西帝摩三维打印科技有限公司K08 TCT 苏州诺曼比尔材料科技有限公司K30 TCT 东莞远铸智能科
- ## [工信部就智能网联汽车准入征求意见"安全"成关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=KGrrPPQEha6YvjpwKk7jAFSR6Kp8lR5Py0aLWNPGXOgPlvPJGT3iLt2BwrP6DSHzFMj3gXStyh13rdSbcOvWKqTCFYfvyHNcIdaKMNZheyzlVTrHiMzZRrS6cBmIVB9q&new=1)
- > 经济日报-中国经济网北京4月7日讯 据工信部今日发布消息，为加强道路机动车辆生产企业及产品准入管理，推动智能网联汽车产业健康有序发展，工业和信息化部装备工业一司组织编制了《智能网联汽车生产企业及产品准...
- ## [零信任的四大误区](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=Z05IPm8F5vRFcvIhx2n4*Um3rRU--r0kre3lEWBLsPEzPyK-rO1OzxT2v6i6FYA1Gef*Ur9FicX0nmJXIpUBtBJzXJRv0ZaFQ07FbWLLu4Kqyh60aSKz81OwUy9TVSpa&new=1)
+ ## [刚刚，上汽和腾讯牵手了，这一领域将迎来大变化](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=6MqANoIzC6uT7zgxJ7upH9HwCJRMIEaDLPrv8cFCERzH88r0DOW7Sd12H7Na4bfyd2bnanHoJhfxKso5Nq0MBzH-NYy6Xk8lyjai66VGCClut4DIJx3Az35F77FAPiV3&new=1)
+ > 前两天，一位名叫“green”的黑客通过“一些技术手段”将特斯拉车内摄像头的拍摄画面提取出来，并上传到了社交媒体上。不出意料，“特斯拉车内摄像头高清画面”登上了微博热搜榜。有网友吐槽：“视频平台会员看...
+ ## [牛聘|2021年度岗位招聘第6期](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=Z05IPm8F5vRFcvIhx2n4*Um3rRU--r0kre3lEWBLsPFmU9yYfM1tmsxLSxJeNnBKNAXjByLPYc8XVuXQYxvFy9w9DjeXeStlHIKLVFTBrjDpfr9BUeRjksktcMtN1nis&new=1)
+ > 牛聘是安全牛旗下的垂直招聘平台，为了帮助安全牛会员企业更好的解决用人的需求，牛聘每周陆续发布会员企业的招聘信息，发布顺序根据会员企业招聘信息提交时间和用人紧迫程度综合而定，本次发布2021年度岗位招聘...
+ ## [继云计算巨头失火事件后，微软决定送数据中心去“泡澡”!](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=HtNLi9VMLk5hDVVtiyZCj5Xn*-pxhLTKORI0d1u8Nf5n*jzZiSv3DtxhuvKU2e4yWl3sgkfTGCiYHIO9iLtiafbmPancPdbjPF7iAgphQJbkMZ7A3GrUClNdE-Cdnz-1&new=1)
+ > 整理 | 郑丽媛出品 | CSDN（ID：CSDNnews）上个月，欧洲云服务巨头 OVH 数据中心起火，导致大量网站瘫痪，甚至部分客户数据完全丢失且无法恢复。彼时，有关数据中心保护的话题一度引起热议，其中“散热”更一直...
+ ## [戴森最新吸尘器，竟用上了无人车和宇宙飞船黑科技](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=Wxlzwvsxa11ha7b4GxT2cLwbsoSNjCuKUtYCwkMhPxpKOV6NkTc2rlufnrl4yuN1Aek9ewUZZmuLFZza7e70PuAzzeavFe9j7GuO8Oe6ou8crfWOohteChSz7M2Nm7Sy&new=1)
+ > 允中 发自 凹非寺 量子位 报道 | 公众号 QbitAI这些技术，之前不太能预料到有一天会用在吸尘器产品中。激光探测，之前主要用于太空物距计算的技术，主要原理是将接收的激光信号变化变成电信号，将光信息转换成电...
+ ## [当云计算飞向深空](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=qyQXQj435oPZv39I0elTWR1*7QXKJrISCNcHcF2IrY6jw-ZGHmx*ojserNM40V5vVb1fefkt*pB8bVfM82ywWRrpsWXnSauiK-25-QBGhc44Fnl742dZQa9wbFDaWKAk&new=1)
+ > 热点追踪 / 深度探讨 / 实地探访 / 商务合作我们多次说起过，当下的“上云”浪潮，源自无数来自于扎实产业土地的真实需求：工厂需要AI，机器人需要算力，城市需要智慧，流媒体需要高清低时延的体验……照此逻辑...
+ ## [最新发布!未来三年，雄安交通运输将有这些新变化](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=yRgcP5zXrPBAxCcjmCHI2s7WC1t1f3m0j**Ivj2wDs8MsLG2V5gfbApSRLcb5uu22wbsoqLZyYLCR-0VcgzIdiDp*SzdcRJMWfwwY5PhnqTiySWNPXD4QkNAHII4-Nk2&new=1)
+ > 近日，河北省政府新闻办召开“河北交通运输实施新型基础设施建设三年行动计划”新闻发布会。近日，河北省政府新闻办召开“河北交通运输实施新型基础设施建设三年行动计划”新闻发布会。河北日报记者曹智摄在京津...
+ ## [什么工作?政府工作报告连续5年部署，总理开国常会再出新招](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=CnNNzCGMx3quiVMYTb4b3mK5Zztgu3wLIAF9ILsg6ahq3DXWCQ0OZC3QJDLdtOU9TdDg6Xkvs3j5Q-brmgJW8k3PXSfGhspl26X5KURE*8IwozfRWa*nDkea9m0fMUA0&new=1)
+ > 资料图在《政府工作报告》连续5年部署“网络提速降费”相关工作后，李克强总理4月7日主持召开国务院常务会议，部署持续推进网络提速降费，提升网络和服务质量。“要进一步推动办实办好提速降费，承诺的政策不打...
+ ## [零信任的四大误区](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=Z05IPm8F5vRFcvIhx2n4*Um3rRU--r0kre3lEWBLsPHPB**yu29vCNV2jZ*4UF1NNnYUrp6iY8MmPZSy0R4-e4U67*Hc3Zau*XpvV7JjzWtT1rF4vhq6ep8BQB44Q2Ns&new=1)
  > 11年前诞生的零信任安全模型已被网络安全产业的思想领袖和企业CISO们广泛接受。而当拥有无穷预算和资源的Google通过BeyondCorp项目践行和验证了零信任框架的有效性后，零信任安全模型进入了产品化和商业化的快车...
- ## [SpaceX力挺，估值100亿：无支撑金属3D打印厂商Velo3D上市路演PPT](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=k5*R-v4S8Mx8b4y449QK*3r1AFHTkNI1wpYmhYqoOI1DixRthd-s0Dk4Kd3S-TKipean8WFi6P2yrdB0KFKnDYDB0ry-hSDDkvTUf4HHyhRvCDOFrlDH*gExAcl6DuMP&new=1)
+ ## [2021年提速降费目标：全面提速、精准降费、疏通堵点](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=p8w5QaXBLZzmZBiwTv1dUaO0Cq8e19kBM5FZvgyIwBnjflqGM5y9qivVvJ8DG4uSsjPhhVhyYow8xHO4Qd*pOgfqV7af8kva*5duDVEhZpLbl2wVxW2rLl6gHqlZj0jQ&new=1)
+ > 【摘要】5G网络建设的要有所放缓，“适度超前”。| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：付亮本文来源：竞争情报应用（fuliang_ci）杂谈投稿邮箱：631255063@qq.com国务院总理李克强4月7日主持...
+ ## [这个马化腾和扎克伯格同时热捧的概念，究竟是噱头还是人类的未来?](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=N7GoJWeD1nyWx9bgkeYiaOov2GheWCUtquYNVJlDf80PnuF5vFpCuSX7omfLVhXInp62SDhNxwxqy-AJWF7gXMIFBwqF7NcsEiAdVVbGthiWBoZQc15jUkk8oMiWE4hB&new=1)
+ > 作者｜Juny邮箱｜zhangjunyue@pingwest.com编辑｜Vicky Xiao来源｜硅星人（guixingren123）“我们前几天又投了一个Metaverse相关的公司，这个概念最近越来越火，感觉下一个风口要来了。”在华尔
+ ## [2021年上海TCT 3D打印展 参展商名单(必须收藏)](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=Hkr3F5HDqmPKvwP7GMU29AdKiJxeXuOmc2x7GxHQy8HpyU9RhMZ06MqsGyHlUV8W3sqGbjrZTBrsVhAeNEO0Qp3xix*XFnY-B56MmDXFOhR-SS2Zoc1istjXFvC0USfK&new=1)
+ > A65 国际 中佑精密材料股份有限公司H40 TCT 上海复志信息技术有限公司G60 TCT 沙迪克机电（上海）有限公司F40 TCT 苏州西帝摩三维打印科技有限公司K08 TCT 苏州诺曼比尔材料科技有限公司K30 TCT 东莞远铸智能科
+ ## [SpaceX力挺，估值100亿：无支撑金属3D打印厂商Velo3D上市路演PPT](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=k5*R-v4S8Mx8b4y449QK*3r1AFHTkNI1wpYmhYqoOI3H58i3B8GAh6-NqLPp8lNyHDjEoDpFbILN-pOkxMnm5oxQEXA2z1-M0RicCQCGlmKpiGCz1l8yDEzf7rO5kzu2&new=1)
  > △陶瓷3D打印相关展会推荐南极熊导读：无支撑金属3D打印厂商VELO3D是近几年发展最快的3D打印创业公司之一，成立6年估值就已达16亿美元（约合100亿人民币）。它到底是做什么的，在讲述一个什么样的故事，来打动投...
- ## [百度网盘海外版上传下载不限速；一季度北京平均月薪达11187元;苹果 CEO 增加新候选人|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=HtNLi9VMLk5hDVVtiyZCj5Xn*-pxhLTKORI0d1u8Nf7cKpmXc*yg4onwqZ6lANCY2QtB6yx9UxX13f9e-DyxQtwPMyUq5B-Az5C1PqNkBs2v*8jFC486h9Cmv-qgJHhm&new=1)
+ ## [百度网盘海外版上传下载不限速；一季度北京平均月薪达11187元;苹果 CEO 增加新候选人|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=HtNLi9VMLk5hDVVtiyZCj5Xn*-pxhLTKORI0d1u8Nf7QmyckHhbHOoIKMFePkLMbhzne9Ad0GGX*d2Y-8eUACeuwvqjlzzVn8lqQ1NbdgNO8-vuIZx59N2O7Yr3Infnz&new=1)
  > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！闲鱼申请...
- ## [贵州数据开放水平位列全国第四](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=uGjoiN0OZP3fECf-K6YYJUD3f4Eak-zMDKaUfetSQHC*x*7dtc9wtGIFzVOpXz9IGKWMlqA7ubszngmU9oVchqhg4mYaK2ealjVWO9iJaUU=&new=1)
+ ## [工信部就智能网联汽车准入征求意见"安全"成关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=KGrrPPQEha6YvjpwKk7jAFSR6Kp8lR5Py0aLWNPGXOg-yljdCpYytKgc9p*fTJtLJ38w9uJlFusem04iyddAU5OyoSmu1L2FK8qFgJRFzUGD04i53A9OneR9mA53yAmI&new=1)
+ > 经济日报-中国经济网北京4月7日讯 据工信部今日发布消息，为加强道路机动车辆生产企业及产品准入管理，推动智能网联汽车产业健康有序发展，工业和信息化部装备工业一司组织编制了《智能网联汽车生产企业及产品准...
+ ## [贵州数据开放水平位列全国第四](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=uGjoiN0OZP3fECf-K6YYJUD3f4Eak-zMDKaUfetSQHA9zRk*MCzVgEw8V2gkUkNSjZU1FySa3n-ZVcNIBehZkE-G5S1KF6uoS*aC1u3G*iQ=&new=1)
  > 本报讯 4月7日，记者从贵阳市大数据发展管理局获悉，中央网信办近日发布《2020年各地公共信息资源开放进展情况》，总结了2020年全国31个省（区、市）数据开放情况。其中，贵州省因“建设省级数据开放平台并...
- ## [专访|迅特通信魏志坚：2020年国内运营商波分集采份额第一 积极配合5G相关研究工作](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=tBCkYv4GU3FpcKawPzWGyfzrCkgUuCgBQnNtghU9mXjMBwJwNmew05zrX*i8PcFS0tnUDkPNcMTg9XVmFtmMdCcIzfKMb*bZBCgZCqRA8LJ-V0YAyAq6hknPol8jjUWv&new=1)
+ ## [专访|迅特通信魏志坚：2020年国内运营商波分集采份额第一 积极配合5G相关研究工作](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=tBCkYv4GU3FpcKawPzWGyfzrCkgUuCgBQnNtghU9mXgJb3XPZIQY14777hGgJrnFLpv-Xv3WNsJ2rTHVCyIeVuhgupuqoEVqD8J*30yYPb0asBZZw6l3hKawqZcAmAih&new=1)
  > 新闻导读讯石专访迅特通信首席技术官—魏志坚博士，听其回顾公司2020年的发展，分享迅特通信能在5G潮流中脱颖而出的关键。2020年，迅特通信在国内三大运营商5G网络建设相关集采项目中屡创佳绩，实现全年25G前传...
- ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76WNbpFjUp50Q2VLKzSuJ0bCiT*Jo7qRUeTo5gFDdMR2nCRzmB3y5stMAeBEqxGN0T26Uy2pCmLjhUxT3orPCp1H&new=1)
+ ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76XM7AHpaEfhax8mF*RgBLKCk*xs9KDkfWTxhXRBZYIfybIUc7vD*1w13HHsJoBz1AHlFJ3aVpgrvZJUyiKcEx1D&new=1)
  > 摘要◎超越终端的多维增长战略。◎协同创新，一个杀手级场景。◎更多结构变化与市值管理。◎最好的时刻？赶在后面，写这一话题，只是让你意识到，小米造车，或有更多潜在动机与发展隐秘。造车的最后成效，未必比...
- ## [想拥有柯南一样的变声器?安排!丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=a1tq76gA98fBDn4*78y9FzJKNyN7-xv1Lp9gf4GgsQw-j3WmESXlWn81gj*gDh2qXxsRRqrdnYTWvNAjHv7Z60gzhnrTXSYoWbDRx-7WEgD8Cz9em1J9wFUaFTq-lEwX&new=1)
+ ## [想拥有柯南一样的变声器?安排!丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=a1tq76gA98fBDn4*78y9FzJKNyN7-xv1Lp9gf4GgsQysw9fOiruSs4WYSbqpqihgFztH66ICGcK83H7vK*2MHthyyxG49tZP-JugS0Ajc3cpYQC1gfFAG51HufPbpBcN&new=1)
  > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
- ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTtQ3h*bhjptWg7EVCqnLpt0Vca88lcbB39M2j9hA3SKwC-0TLz-cqD7RIuLZ3J3vzM4WHQgnCK2NFJ7uuPvtj8u&new=1)
+ ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTtGOLnljgyoN6bpnZpC3G6oKnK1opyBCiTfseMYLujPVBJScpkbXgETJ6rlooBm-8iELvkQq4K*QzrxnHb1xXUy&new=1)
  > 微软推出了其Java发行版Microsoft Build of OpenJDK预览版，称其为“协作和贡献于Java生态系统的新方式”。Microsoft Build of OpenJDK预览版基于OpenJDK源代码为Java 11提供了微
- ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-poKst-bHxzEjsvMx-z-bL59Ka3Ugil20iVLjcSJ2HHWLS4VvIopMi0pIzHQCF2PTOfEKeBZT3Yb2n0PHBvW0Yiq&new=1)
+ ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617872404&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-prYaIx38GWlUJ6IWa9RMUr9W7ZZbPu35aRkBGlmjMb5*-jw5bzuA1d8s7e*FGccFXhLtR8NY9HyIkWHNQjBc-yr&new=1)
  > 近日，原中国移动贵州有限公司董事长芈大伟受贿案细节曝光。裁判文书网公布的刑事判决书显示，在1995-2016年的20余年间，芈大伟先后利用职务便利收受个人及单位行贿2056.26万元，近10家企业卷入，其中A股上市公...
- ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DcjOUPoX3tXKGb-vm8T1CSYpEAmy0pByGw53Zb3LJZwcyxJaUYLYL5VKoYy7D3g8feNDP9rPMUoP4VQN2GyIdUt&new=1)
- > 以科大讯飞为首的科技创新型企业不仅通过自己旗下产品重新定义办“AI+办公”，让国人对中国的AI实力有了一个较为清晰的认知，也在推动我国产业智能化升级中做出巨大贡献，让世界看到了“中国智造”的未来蓝图。...
- ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4wQcrOmlweNwRaNnsgH7WBbq*0GP6EyAYDNPNW1uf88ivayhJu3ICkn21Wx0ZQlokDYQ-1ka3Kvy*MZWgWud7jX&new=1)
- > 较为知名的清华系芯片公司多达27家，2019年中国IC设计前十强中，清华系贡献了4个席位。从赴美创立豪威科技的陈大同，到一路买买买的赵伟国，创业、投资、并购、升级，互相提携互相成就，是这一代清华人的故事主...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更](http://www.cioage.com/art/202104/656271.htm)
  > 【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更
@@ -47,50 +61,50 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据
  ## [深夜12点，头秃的那家伙，还在用CSS处理图片上的文字](http://developer.51cto.com/art/202104/656336.htm)
  > 深夜12点，头秃的那家伙，还在用CSS处理图片上的文字
- ## [手把手带你快速做专业的项目文档实战讲解视频课程](http://fellow.51cto.com/art/202101/638405.htm?qd=51ctojrzd)
- > 手把手带你快速做专业的项目文档实战讲解视频课程
+ ## [ThinkPHP6企业网站开发实战](http://fellow.51cto.com/art/202103/650810.htm?qd=51ctojrzd)
+ > ThinkPHP6企业网站开发实战
  ## [西部数据助力IPFS解决方案，全系列产品赋能存储架构革新](http://stor.51cto.com/art/202104/656303.htm)
  > 企业需要用更新、更多的技术来加速存储架构的革新，让用户以更低成本，更可靠、更快速地存储和访问数据。借
- ## [2026年防伪验证和品牌保护市场规模将达到37亿美元](http://zhuanlan.51cto.com/art/202104/656387.htm)
- > 根据MarketsandMarkets的数据，产品防伪认证和品牌保护市场预计将从2021年的25亿美元增长到2026年的37亿美
- ## [六大人工智能应用将改变制造业！](http://ai.51cto.com/art/202104/656384.htm)
- > 如今，智能化、网络化、数字化已成为推进当前制造业领域加速前进的重要动力，也成为中国制造向中国智造转型
- ## [大数据安全分析之大数据分析的技术架构及关键技术](http://bigdata.51cto.com/art/202104/656383.htm)
- > 大数据分析利用大数据技术对海量数据的高效计算能力，结合关联分析、深度学习、机器学习算法等手段，对各种
- ## [大数据安全分析之大数据技术有什么优势](http://bigdata.51cto.com/art/202104/656382.htm)
- > 为什么要用大数据技术进行安全分析呢？大数据技术有什么优势呢？我们来看看吧。
- ## [人工智能正在重塑数字营销行业](http://ai.51cto.com/art/202104/656379.htm)
- > 人工智能已经成为数字营销领域中至关重要的技术，全球各地的数字营销人员都在利用人工智能来简化和优化营销
- ## [都5G时代了，你还不知道什么是移动边缘计算（MEC）？](http://cloud.51cto.com/art/202104/656376.htm)
- > 虽然我们对移动技术非常熟悉，并且可以在与边缘计算相结合时推断出它的含义，但实际上却更加令人困惑：移动
- ## [云原生究竟意味着什么？](http://cloud.51cto.com/art/202104/656373.htm)
- > 在本系列文章中，我们将从几个不同的角度探讨本机云，当然包括技术和基础架构，还包括架构，设计，以及可能
- ## [每个数据工程师都应该知道的7个数据库概念](http://database.51cto.com/art/202104/656372.htm)
- > 如果您准备接受数据工程职位面试，则必须了解数据库的所有主要概念。我将尝试尽可能简单地解释数据库的7个
- ## [Java基础入门之SimpleDateFormat类和List接口](http://developer.51cto.com/art/202104/656368.htm)
- > 本文主要介绍了SimpleDateFormat类、List接口、JDK5.0新特性--foreach循环。
- ## [看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针](https://blog.csdn.net/A757291228/article/details/115453468)
- > 看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针
+ ## [人工智能将如何重塑房地产行业](http://ai.51cto.com/art/202104/656444.htm)
+ > 随着数字化进程的不断推进，人工智能在促进房地产经济增长方面发挥着重要作用。
+ ## [我们从2021谷歌I/O大会给的谜题中发现了隐藏信息](http://news.51cto.com/art/202104/656439.htm)
+ > 还是受疫情影响，今年I/O将完全在线上举办，同时对所有人免费，只要在线注册就可以参加。
+ ## [区块链进军娱乐业 会如何助推新的商业模式？](http://blockchain.51cto.com/art/202104/656437.htm)
+ > 以下是将重塑娱乐行业的区块链的五个优秀用例。
+ ## [科技强大的美国，怎么就输了5G](http://network.51cto.com/art/202104/656436.htm)
+ > 美国各大运营商并没有发布准确的5G基站数，根据各方信息判断，美国现有5G基站数应该在2-3万个，这个数字完
+ ## [我作为码农犯的四个错误，当我成为CTO时我才能理解](http://news.51cto.com/art/202104/656432.htm)
+ > 高级开发人员不是了解技术的各个方面的人。它是一个帮助我们公司建立一个伟大产品的人，即使这要求他们越过
+ ## [刷脸支付还没普及，央行已经公布新型支付方式，马云这次措手不及](http://ai.51cto.com/art/202104/656429.htm)
+ > 现在社会科技发展飞快，许多支付方式也已经普及，例如微信支付、支付宝支付等，这些利用手机支付的方式近年
+ ## [中国低代码开发平台的混战――一次说清楚低代码](http://mobile.51cto.com/ahot-656427.htm)
+ > 这两年，无论是资本层面，还是企业IT部门的关注，“低代码”都是绝对的热点。互联网圈也似在一夜之间冒出了
+ ## [“口罩厂”霍尼韦尔搞出的量子计算机，刚刚获得Nature认可](http://news.51cto.com/art/202104/656438.htm)
+ > 就在刚刚，它把自家“杀手锏”的细节内容发布到了Nature。
+ ## [“杀熟”之后“杀富”，警惕大数据作恶新变种](http://bigdata.51cto.com/art/202104/656426.htm)
+ > 近期有媒体报道称，在深圳的不同地方，线上点单某同款商品，定位在豪宅区的价格要高出近30%。网友不禁感叹
+ ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
+ > 0 基础 Java 自学之路（2021年最新版）
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [那些年我在CSDN追过的安全白帽大佬，respect](https://blog.csdn.net/Eastmount/article/details/115468089)
- > 那些年我在CSDN追过的安全白帽大佬，respect
- ## [初识Mongodb之MapReduce操作篇](https://blog.csdn.net/weixin_47723732/article/details/115502821)
- > 初识Mongodb之MapReduce操作篇
- ## [Web安全-浅析网页暗链与挂马攻击](https://blog.csdn.net/weixin_39190897/article/details/114196050)
- > Web安全-浅析网页暗链与挂马攻击
- ## [基于Python的OpenCV人脸检测](https://blog.csdn.net/m0_45161766/article/details/107545960)
- > 
- ## [element-ui实现input输入框金额数字添加千分位组件](https://blog.csdn.net/xh_960125/article/details/114387755)
- > element-ui实现input输入框金额数字添加千分位组件
- ## [Webpack-5【babel编译ES6、编译插件、全局-局部垫片】](https://blog.csdn.net/Yesterday_Tomorrow/article/details/114290676)
- > Webpack-5【babel编译ES6、编译插件、全局-局部垫片】
- ## [【kimol君的无聊小发明】—用python写PDF转换器](https://blog.csdn.net/kimol_justdo/article/details/109267805)
- > 【kimol君的无聊小发明】—用python写PDF转换器
- ## [贪吃蛇代码--c语言版 visual c++6.0打开](https://blog.csdn.net/weixin_46627433/article/details/108956493)
- > 贪吃蛇代码--c语言版 visual c++6.0打开
+ ## [看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针](https://blog.csdn.net/A757291228/article/details/115453468)
+ > 看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针
+ ## [《看聊天记录都学不会C语言？太菜了吧》（19）巩固开始，数字1、2、3、4能够组成多少个 3 位数的不同的排列](https://blog.csdn.net/A757291228/article/details/115509229)
+ > 《看聊天记录都学不会C语言？太菜了吧》（19）巩固开始，数字1、2、3、4能够组成多少个 3 位数的不同的排列
+ ## [R语言 | 二分类和多分类的逻辑回归实现](https://blog.csdn.net/icefountain/article/details/106105110)
+ > R语言 | 二分类和多分类的逻辑回归实现
+ ## [python经典练习题之九九乘法表、打印菱形、打印对顶三角形、斐波拉契数列、素数...](https://blog.csdn.net/bigzql/article/details/109665291)
+ > python经典练习题之九九乘法表、打印菱形、打印对顶三角形、斐波拉契数列、素数...
+ ## [我要偷偷的学Python，然后惊呆所有人（第三天）](https://blog.csdn.net/qq_43762191/article/details/109153886)
+ > 我要偷偷的学Python，然后惊呆所有人（第三天）
+ ## [适合 C++ 新手学习的开源项目——在 GitHub 学编程](https://blog.csdn.net/a419240016/article/details/109506295)
+ > 适合 C++ 新手学习的开源项目——在 GitHub 学编程
+ ## [\[GO语言基础\] 五.顺序控制语句和条件控制语句（if、else、switch）](https://blog.csdn.net/Eastmount/article/details/113804706)
+ > \[GO语言基础\] 五.顺序控制语句和条件控制语句（if、else、switch）
+ ## [快速排序算法——C/C++](https://blog.csdn.net/weixin_42109012/article/details/91645051)
+ > 快速排序算法——C/C++
  ## [Java版斗地主代码免费复制](https://blog.csdn.net/qq_33007465/article/details/114838384)
  > Java版斗地主代码免费复制
  ## [MySQL基础语句总结](https://blog.csdn.net/weixin_55086330/article/details/115028662)
@@ -131,6 +145,32 @@ categories: IT NEWS
  ## [TIOBE 4 月榜单：上古编程语言 Fortran 击败 Objective-C，PHP、Go 下滑](https://blog.csdn.net/csdnnews/article/details/115475053)
  > TIOBE 4 月榜单：上古编程语言 Fortran 击败 Objective-C，PHP、Go 下滑
 # PM 
+ ## [关于知识付费项目的五大总结](http://www.chanpin100.com/article/114429)
+ > 当前的知识付费的整个市场是什么样的情况？今年出的关于整个去年知识付费的一些数据报告，整理得出三条结论和特点。
+ ## [【to B管理端】消息反馈设计盘点](http://www.chanpin100.com/article/114460)
+ > 消息反馈按照消息的操作方角度分类，可分为主动消息和被动消息，主动消息是用户主动操作后，系统提示的消息，比如toolTip、toast、dialog。被动消息是用户被动提醒的系统消息，比如平台公告、站内信。
+ ## [斯图飞腾Stratifyd携手全球领先洗护品牌 数据赋能决策升级](http://www.chanpin100.com/article/114426)
+ > 近日，Stratifyd与全球某知名洗发护发品牌正式达成合作。该品牌将借助Stratifyd敏捷AI驱动的体验分析平台，提升用户需求挖掘与市场竞争力分析，更精准地把握消费者心理，了解市场发展动态，抢占发展先机。
+ ## [屏幕背后的秘密：4大国产终端厂商用户都是谁？](http://www.chanpin100.com/article/114425)
+ > 移动终端，在今天来看，已经不仅仅是作为通讯设备，更是被当作钱包、是读物、是社交工具、是娱乐载体……特别是在竞争日趋激烈的智能手机市场，每一个细节都有可能造就新的风口，而了解品牌背后的用户画像，知道终端用户的需求、喜好、消费观等，就显得尤为重要。
+ ## [数字化时代都说企业转型迫在眉睫 如何转型成了关键？](http://www.chanpin100.com/article/114421)
+ > Hightopo就是通过数据进行科学决策，充分重视数据的留存和运用，为金融企业、医疗机构、政府系统、电信企业等都提供大量优质信息。 数字化正在以前所未有的速度重塑着商业蓝图，图扑（Hightopo）数字化案例恰好可以满足企业转型需求，为企业达成高效率低成本目的。
+ ## [山顶Talk第二十二期：从知乎上市解读兴趣社区发展逻辑](http://www.chanpin100.com/article/114457)
+ > 随着5G等通信技术的革新,用户流量红利也接近尾声,而“内容为王”的理念至今却仍未过时,由此所诞生的内容社区也随着中文互联网的演进而不断精细化发展。其中,知乎作为最受瞩目的品牌之一,也从曾经的 “高端小众社区”,转变为坐拥亿级大众用户规模的内容社区,并成功在纽交所挂牌上市,在这背后,也有着许多值得挖掘
+ ## [【数智对话专栏】政府如何推进数字化转型构建数字经济？](http://www.chanpin100.com/article/114419)
+ > “数智对话专栏”精选于2021企业数字化转型落地高峰论坛暨《数字化转型方法论》新书发布会上的嘉宾所提到的精彩观点。本文将为读者带来由河南省文化和旅游厅信息中心主任李全民、首席数据官联盟会长刘冬冬、佳格天地董事长张弓、国云数据创始人马晓东四位大咖分享的《政府如何推进数字化转型，构建数字经济》精彩内容。
+ ## [管理者必看！你花很多钱做的数据中台可能是假的](http://www.chanpin100.com/article/114389)
+ > 如今，数据中台受到数字化转型企业的追捧，市场上出现了很多所谓的“数据中台”，真伪难辨、乱象横生。
+ ## [规范在线教育有序发展 加大线上教育资源建设](http://www.chanpin100.com/article/114388)
+ > 2020年已经过去，在这个特殊的一年里，经过疫情刺激，学生得到了很好的市场教育，各大在线教育平台高速发展，在线教育行业迎来新一轮的疯狂增长。
+ ## [职场充电营！百万福利助力学员职场进阶](http://www.chanpin100.com/article/114455)
+ > 四月春招浪潮来袭，升职加薪在此一举，开课吧“职场充电营”在第二季度开工日，为学员准备了助力职场进阶的高能导师团、福利满满的“职场自习室”以及购课专享的福利大礼包。此外，还有超值的“百万助学金”和“职场VIP室”，带领学员掌握职场必备技能，满足数字化人才在职场“放电”的需求，用最强的跳槽攻略决胜四月！
+ ## [医疗产品设计的需求怎样提炼](http://www.chanpin100.com/article/114454)
+ > 在进行医疗产品设计时，首先要明确医疗产品的设计需求。一般情况下，设计者在与客户沟通设计需求时，所获得的信息多为零散的、碎片的，需要进一步整理分析，提炼简洁清晰的设计需求点。那么，医疗产品设计的需求怎样提炼呢？请看如下介绍。
+ ## [创意产品设计如何才能做好](http://www.chanpin100.com/article/114451)
+ > 当我们进行产品设计时，很多设计者都想做有创意的产品设计。但在当今这个产品层出不穷、更新很快的时代，想要设计出好的产品创意，是非常困难的。那么，创意产品设计如何才能做好？请看本文的介绍。
+ ## [产品设计公司如何提升自身能力](http://www.chanpin100.com/article/114449)
+ > 市场上的产品供不应求，消费者的选择范围越来越广，企业要想使自己的产品能突显重围，就必须找一家专业的设计公司来设计，所以产品设计公司提高自己的设计能力是非常必要的。那么，产品设计公司如何提升自身能力呢？请看本文的介绍。
  ## [产品设计的基本原则是什么](http://www.chanpin100.com/article/114448)
  > 产品设计开始之前，我们需要充分了解产品的相关要求和原则，在设计过程中灵活运用，才能做出用户满意的产品。那么，产品设计的基本原则是什么呢？请看本文的介绍。
  ## [产品设计的基本要求有哪些](http://www.chanpin100.com/article/114447)
@@ -145,31 +185,5 @@ categories: IT NEWS
  > 根据各个大厂的招聘需求和工作职责，对不同技能标签进行聚类分析，发现除一般产品经理的基本技能外，数据能力、业务抽象理解能力和项目协调管理能力对数据产品经理的能力模型尤为重要。
  ## [数据产品经理的工作内容有哪些？](http://www.chanpin100.com/article/114440)
  > 小编观察了许多公司的数据产品经理，然后发现他们虽然名义上都是数据产品经理，但是不同的公司负责的事情却不一样，今天本文就来探讨一下数据产品经理的工作内容都有哪些。
- ## [数据中台产品经理主要负责什么工作内容？](http://www.chanpin100.com/article/114439)
- > “中台”这个词儿是一个火热到发烫的词汇，几乎随处都可以见到听到这个词，那么一个数据中台产品经理主要负责的工作内容都有哪些呢？下面请看本文的介绍。
- ## [什么样的公司适合建设中台？](http://www.chanpin100.com/article/114438)
- > 数据中台是一套可持续“让企业的数据用起来”的机制，是一种战略选择和组织形式，那么对于企业来讲，什么样的公司适合建设中台呢？下面请看本文的内容。
- ## [如何提升产品转化率？一个行动公式就够了](http://www.chanpin100.com/article/114437)
- > 你有没有为提升转化率困扰过？没关系，本篇文章为你分享提升转化率的方法，希望能帮助到你。（这是曾经的一篇旧文，第三点是对旧文的补充和完善）
- ## [为什么被喷的总是产品经理？](http://www.chanpin100.com/article/114436)
- > 昨天在某社区看到产品同行的吐槽：程序员写个bug，大家都觉得理所当然；但产品经理的方案出一个漏洞，哪怕这个漏洞无足轻重，都会被怒怼，恨不得ma没了那种…
- ## [一个套路 拆解常见数据分析需求](http://www.chanpin100.com/article/114435)
- > 现实环境的数据分析工作和Kaggle题目之间，最大的区别在于kaggle上的问题往往非常清晰。预测类问题，你只需要把预测做的足够准确就能拿高分。
- ## [俞军：产品经理必备的2个模型](http://www.chanpin100.com/article/114390)
- > 最近花了点时间看完了《俞军产品方法论》，抛开编排杂乱、内容冗余等阅读体验问题，这本书的核心内容还是很值得产品经理们花点时间看一看的。
- ## [五步梳理产品原型](http://www.chanpin100.com/article/114434)
- > 产品经理强调用户体验，更多表现在用户流程和产品页面整合。清晰简单的用户流程能帮助用户更高效快捷的达到目的。而在产品页面整合上，合理的布局和信息的展示，能更便捷的帮助用户理解信息。
- ## [MVP:如何制定产品战略规划（制定产品路线图）？](http://www.chanpin100.com/article/114394)
- > 产品战略规划是指产品规划人员通过调查研究，在了解环境、理解战略、了解市场客户、了解竞争对手、了解外在机会与风险，以及市场和技术发展态势的基础上，根据公司自身的情况和发展方向，制定出可以把握市场机会，满足消费者需要的产品的远景目标和实施该远景目标的战略、战术的过程。
- ## [产品经理这么回答面试题 也能进大厂了吧](http://www.chanpin100.com/article/114391)
- > 最近正直春招黄金季，无论是大厂还是小厂，都有很多面试机会。近来有不少小伙伴找大寸老师看简历，也会咨询一些面试的问题。
- ## [达观AI+RPA证券行业解决方案：智能办公机器人十大落地场景](http://www.chanpin100.com/article/114387)
- > 达观将自主研发的机器视觉、OCR、自然语言处理、RPA等产品技术与证券业务融合，并协同深入投资银行业务场景，快速识别IPO发行相关文档、年报、财报、流水账单、发票、合同、印章等复杂非结构化半结构化金融文档，并进行智能结构化解析，结合抽取、比对、审核等功能实现全文内容复核，可自动地执行业务流程推动证券
- ## [达观数据智能财务审核机器人 助力央企财务共享中心智能转型](http://www.chanpin100.com/article/114386)
- > 达观数据拥有以NLP自然语言处理为核心的智能文本处理能力矩阵，能够在丰富的场景下实现对各种文档文件的抽取、审核、比对等等，实现对文档的智能化处理。达观数据将RPA与OCR、NLP等AI技术进行深度融合，以OCR作为RPA的“双眼”，以NLP作为RPA的“大脑”，大幅拓展RPA在财务领域的适用场景。
- ## [技术型产品经理与系统结构设计浅谈](http://www.chanpin100.com/article/114384)
- > 产品经理需要懂技术吗？这是一个永远有人在讨论，永远没有答案的问题。而作为一个从技术转做产品的人，本人在工作中总结了自己的一些感悟，与大家分享探讨。
- ## [时隔数年 VR卷土重来](http://www.chanpin100.com/article/114428)
- > 在这个新概念层出不穷的世界，你或许听说过Gartner曲线，很多新技术趋势，往往会有两轮热度：第一轮，是在诞生伊始，在舆论的亢奋声中，它往往流于概念，难于落地，也让热情逐渐冷却——但在冷却过程中，在远离聚光灯的地方，它其实正在低调酝酿，被开发成更成熟的产品，并被市场逐渐接受，最终真正走向社会，从而带
 
     
