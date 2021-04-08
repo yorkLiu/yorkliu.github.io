@@ -1,22 +1,24 @@
 ---
 title: 2021-04-08 IT News
 copyright: true
-date: 2021-04-08 08:00:58
+date: 2021-04-08 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617838204&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DfInxMHUwypZ2xN5cWyKoN3I8B5LNrcWIQo4LNr8Z*mrQ0e07rRDG*72C4OdjMaFhrSv-uS6YWNm*O7bS9PXxZe&new=1)
+ ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DdyXc*--SYOT45qkd2uUyd86FdA8wVHUnc4VMFmiF31eEw4ZXqUqgOJ4saqaAIp913wqTI1SD7hNb8VcWWllFk7&new=1)
  > 以科大讯飞为首的科技创新型企业不仅通过自己旗下产品重新定义办“AI+办公”，让国人对中国的AI实力有了一个较为清晰的认知，也在推动我国产业智能化升级中做出巨大贡献，让世界看到了“中国智造”的未来蓝图。...
- ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617838204&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTvQM-DLDmCnqi*41m0CukWU6AUMA9jxoZ12PyUD-kzKJNZer9ZSO7PCx0QoRxhx*sFHA84D0XnBJNs0eO9McOLl&new=1)
- > 微软推出了其Java发行版Microsoft Build of OpenJDK预览版，称其为“协作和贡献于Java生态系统的新方式”。Microsoft Build of OpenJDK预览版基于OpenJDK源代码为Java 11提供了微
- ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617838204&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-ppEDzfh-pdlCp6KjZWuL5HuCPdBWsCxxfUd4yvTYefEXfM1GeAjfCeL0udpBpiYnCZBGLw22ke-kMitWxsPw6pu&new=1)
- > 近日，原中国移动贵州有限公司董事长芈大伟受贿案细节曝光。裁判文书网公布的刑事判决书显示，在1995-2016年的20余年间，芈大伟先后利用职务便利收受个人及单位行贿2056.26万元，近10家企业卷入，其中A股上市公...
- ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617838204&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76U7Co*uMyCAualdEQAOXeujbvSKRVJlhMvte8QIffnxNvx5lQVaud3rdV7fOfG1TqUllTFzg6egpIDdUW*XrzbH&new=1)
- > 摘要◎超越终端的多维增长战略。◎协同创新，一个杀手级场景。◎更多结构变化与市值管理。◎最好的时刻？赶在后面，写这一话题，只是让你意识到，小米造车，或有更多潜在动机与发展隐秘。造车的最后成效，未必比...
- ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617838204&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4xGeIekgvt3LFuZfcn*GVk6Qin5BKbMAg3ffsqHVha4h8fh9NlWhhVDk8QS*ZsS1*EiQ-wLdMiNAXCkLezkJBgF&new=1)
+ ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4zlZO4B54Kk1Y0bZM9bpVviBwLiDSpKGg-0w7UfEMMGgFSSM9VRS35cMVHm5EAEK0nQcFZ-7fz4jfFaVI8WMeCG&new=1)
  > 较为知名的清华系芯片公司多达27家，2019年中国IC设计前十强中，清华系贡献了4个席位。从赴美创立豪威科技的陈大同，到一路买买买的赵伟国，创业、投资、并购、升级，互相提携互相成就，是这一代清华人的故事主...
+ ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76UTrpqOWHEu-KkgKseS03HfrDW50M7jiC6Fj4tEPi1SyDs6PfM7NjGDcrxL0wJbd1JKUrsZWo56kZTgYiMhk9wZ&new=1)
+ > 摘要◎超越终端的多维增长战略。◎协同创新，一个杀手级场景。◎更多结构变化与市值管理。◎最好的时刻？赶在后面，写这一话题，只是让你意识到，小米造车，或有更多潜在动机与发展隐秘。造车的最后成效，未必比...
+ ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-ppwPrY65k3YeW-yd0e2gpwmO3MAA34bu4gjC5Lg*edF5CLr*Rvd59QVylza9NujPbcUHoS4CpxpuN*96fj5ac*d&new=1)
+ > 近日，原中国移动贵州有限公司董事长芈大伟受贿案细节曝光。裁判文书网公布的刑事判决书显示，在1995-2016年的20余年间，芈大伟先后利用职务便利收受个人及单位行贿2056.26万元，近10家企业卷入，其中A股上市公...
+ ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617843604&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTvM-t6-BQPg003xtSY9yQecmLaiz-uD2pE3ESF1YpJmorL7ufRGumUDc6R8uX*ppgHk9*E20vD1Nw6ezIWIYfX5&new=1)
+ > 微软推出了其Java发行版Microsoft Build of OpenJDK预览版，称其为“协作和贡献于Java生态系统的新方式”。Microsoft Build of OpenJDK预览版基于OpenJDK源代码为Java 11提供了微
 # IT 技术 
+ ## [值得推荐的四大开源混合云平台](http://cloud.51cto.com/art/202104/656273.htm)
+ > 值得推荐的四大开源混合云平台
  ## [值得推荐的11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
  > 值得推荐的11种流行的渗透测试工具
  ## [开发 | 再见了，公司的“烂系统”](http://developer.51cto.com/art/202104/656140.htm)
@@ -29,20 +31,28 @@ categories: IT NEWS
  > 鸿蒙IDE迎来重大更新，新特性足以让你尖叫
  ## [只要你一句话，马斯克就得留扫把头，项目已开源](http://news.51cto.com/art/202104/656126.htm)
  > 只要你一句话，马斯克就得留扫把头，项目已开源
- ## [培养好编码习惯，更好地产出和维护成果](http://developer.51cto.com/art/202104/656111.htm)
- > 培养好编码习惯，更好地产出和维护成果
- ## [JavaScript轻松入门经典视频教程](http://fellow.51cto.com/art/202101/638498.htm?qd=51ctojrzd)
- > JavaScript轻松入门经典视频教程
+ ## [【123】-串口电缆介质](http://fellow.51cto.com/art/202101/642226.htm?qd=51ctojrzd)
+ > 【123】-串口电缆介质
  ## [西部数据助力IPFS解决方案，全系列产品赋能存储架构革新](http://stor.51cto.com/art/202104/656303.htm)
  > 企业需要用更新、更多的技术来加速存储架构的革新，让用户以更低成本，更可靠、更快速地存储和访问数据。借
- ## [人工智能和物联网将走向何方？](http://ai.51cto.com/art/202104/656334.htm)
- > 人工智能和物联网的关系日益紧密，这意味着，一个更智能的未来可能会比我们想象的更早出现。那么，人工智能
- ## [到2025年，机器学习市场规模将达967亿美元](http://ai.51cto.com/art/202104/656333.htm)
- > 市场调查机构Grand View Research最近发布的《机器学习市场报告2025》预计，到2025年，全球机
- ## [Excel表格数据乱七八糟？教你几招轻松搞定](http://os.51cto.com/art/202104/656332.htm)
- > 表格处理中的数据有效性，已经是老生常谈了。在单机时代，我们的选择并不多，但随着云表格、云表单的加入，
- ## [Windows 10新特性再曝光！设置和任务栏菜单大改进](http://os.51cto.com/art/202104/656331.htm)
- > 在Windows10 21H2中，系统的界面UI以及多个功能模块都会迎来一次大更新。Windows10的设置面板和任务栏菜单
+ ## [关于Android架构，你是否还在生搬硬套？](http://mobile.51cto.com/ahot-656347.htm)
+ > 本文不会具体去讲什么是MVC、MVP、MVVM，但我描述的点应该都是这些模式的基石，从本质上讲明白为什么这样做
+ ## [高盛掌门人：比特币监管将迎来重大变革](http://blockchain.51cto.com/art/202104/656346.htm)
+ > 高盛(Goldman Sachs)首席执行官大卫・所罗门(David Solomon)表示，他认为比特币和数字货币市场很快将
+ ## [继把数据中心沉入海底后，微软又把服务器浸入了“按摩浴缸”](http://zhuanlan.51cto.com/art/202104/656345.htm)
+ > 最近，微软又公开宣布，将其服务器浸入“浴缸中”，以提高其性能和能效。
+ ## [清华大学刘雷波：互联网大厂用传统思维造芯，或会碰到瓶颈](http://news.51cto.com/art/202104/656344.htm)
+ > “对于缺芯涨价的问题不用太过于恐慌，经过一段时间之后一定会趋于合理。”近日，在搜狐科技举办的《中国创
+ ## [IDC：2020 年中国网络市场同比增长 7.5%，交换机、路由器、WLAN 均有增长](http://network.51cto.com/art/202104/656343.htm)
+ > 日前，IDC 发布的《2020 年网络市场跟踪报告》显示，2020 年全球网络市场规模为 490.1 亿美元，与去年同期
+ ## [隐私专家呼吁调查谷歌：未经允许追踪 Android 用户](http://netsecurity.51cto.com/art/202104/656342.htm)
+ > 据报道，隐私维权者马克斯 ・ 施雷姆斯(Max Schrems)今日向法国监管机构投诉谷歌，指控谷歌在未经许可的情
+ ## [微软 Windows 10 Dev 预览版 21354 发布：Windows 附件、管理工具等从 “开始”删除](http://os.51cto.com/art/202104/656341.htm)
+ > 微软表示，当他们的工程师在内部周期进行开发工作时，微软可能会优先考虑在某些特定分支完成开发工作，并可
+ ## [NASA前局长加入卫星互联网公司Viasat](http://network.51cto.com/art/202104/656340.htm)
+ > 据外媒，前美国宇航局管理员Jim Bridenstine已确认入职卫星互联网公司Viasat，并加入了Viasat的董事会，据J
+ ## [私募公司CVC欲将东芝私有化 预计花费超200亿美元](http://news.51cto.com/art/202104/656339.htm)
+ > 近日，私募股权公司CVC Capital Partners提议通过一项收购要约，他们计划将日本最大的半导体制
  ## [看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针](https://blog.csdn.net/A757291228/article/details/115453468)
  > 看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
