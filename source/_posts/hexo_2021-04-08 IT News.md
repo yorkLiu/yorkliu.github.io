@@ -1,24 +1,36 @@
 ---
 title: 2021-04-08 IT News
 copyright: true
-date: 2021-04-08 10:00:59
+date: 2021-04-08 12:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76UTrpqOWHEu-KkgKseS03HfTFEtEttgHo0Mx5*5bxJ8ZmHHWk8IRiDsvVCtb81omGjVLGw7oXF-9XZ6fPvaFImU&new=1)
- > 摘要◎超越终端的多维增长战略。◎协同创新，一个杀手级场景。◎更多结构变化与市值管理。◎最好的时刻？赶在后面，写这一话题，只是让你意识到，小米造车，或有更多潜在动机与发展隐秘。造车的最后成效，未必比...
- ## [专访|迅特通信魏志坚：2020年国内运营商波分集采份额第一 积极配合5G相关研究工作](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=tBCkYv4GU3FpcKawPzWGyfzrCkgUuCgBQnNtghU9mXg09H7RG1o2RUX*aerDzSGDI6sJkRj3ot1Ex8JPpQvBJWNpeN*0*pg0dDcJ*dTlB0u7NjKJdEXPReUbTXPkLgGQ&new=1)
+ ## [2021年上海TCT 3D打印展 参展商名单(必须收藏)](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=Hkr3F5HDqmPKvwP7GMU29AdKiJxeXuOmc2x7GxHQy8Ese6Fgq4unwkPPDnog8CvzkVy4ufoI6q6-y9rVAY5K7wkdPWnA8tmgo9WZjagiIF9CDVbgdv4kkvFgl20TfcpF&new=1)
+ > A65 国际 中佑精密材料股份有限公司H40 TCT 上海复志信息技术有限公司G60 TCT 沙迪克机电（上海）有限公司F40 TCT 苏州西帝摩三维打印科技有限公司K08 TCT 苏州诺曼比尔材料科技有限公司K30 TCT 东莞远铸智能科
+ ## [工信部就智能网联汽车准入征求意见"安全"成关键词](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=KGrrPPQEha6YvjpwKk7jAFSR6Kp8lR5Py0aLWNPGXOgPlvPJGT3iLt2BwrP6DSHzFMj3gXStyh13rdSbcOvWKqTCFYfvyHNcIdaKMNZheyzlVTrHiMzZRrS6cBmIVB9q&new=1)
+ > 经济日报-中国经济网北京4月7日讯 据工信部今日发布消息，为加强道路机动车辆生产企业及产品准入管理，推动智能网联汽车产业健康有序发展，工业和信息化部装备工业一司组织编制了《智能网联汽车生产企业及产品准...
+ ## [零信任的四大误区](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=Z05IPm8F5vRFcvIhx2n4*Um3rRU--r0kre3lEWBLsPEzPyK-rO1OzxT2v6i6FYA1Gef*Ur9FicX0nmJXIpUBtBJzXJRv0ZaFQ07FbWLLu4Kqyh60aSKz81OwUy9TVSpa&new=1)
+ > 11年前诞生的零信任安全模型已被网络安全产业的思想领袖和企业CISO们广泛接受。而当拥有无穷预算和资源的Google通过BeyondCorp项目践行和验证了零信任框架的有效性后，零信任安全模型进入了产品化和商业化的快车...
+ ## [SpaceX力挺，估值100亿：无支撑金属3D打印厂商Velo3D上市路演PPT](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=k5*R-v4S8Mx8b4y449QK*3r1AFHTkNI1wpYmhYqoOI1DixRthd-s0Dk4Kd3S-TKipean8WFi6P2yrdB0KFKnDYDB0ry-hSDDkvTUf4HHyhRvCDOFrlDH*gExAcl6DuMP&new=1)
+ > △陶瓷3D打印相关展会推荐南极熊导读：无支撑金属3D打印厂商VELO3D是近几年发展最快的3D打印创业公司之一，成立6年估值就已达16亿美元（约合100亿人民币）。它到底是做什么的，在讲述一个什么样的故事，来打动投...
+ ## [百度网盘海外版上传下载不限速；一季度北京平均月薪达11187元;苹果 CEO 增加新候选人|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=HtNLi9VMLk5hDVVtiyZCj5Xn*-pxhLTKORI0d1u8Nf7cKpmXc*yg4onwqZ6lANCY2QtB6yx9UxX13f9e-DyxQtwPMyUq5B-Az5C1PqNkBs2v*8jFC486h9Cmv-qgJHhm&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！闲鱼申请...
+ ## [贵州数据开放水平位列全国第四](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=uGjoiN0OZP3fECf-K6YYJUD3f4Eak-zMDKaUfetSQHC*x*7dtc9wtGIFzVOpXz9IGKWMlqA7ubszngmU9oVchqhg4mYaK2ealjVWO9iJaUU=&new=1)
+ > 本报讯 4月7日，记者从贵阳市大数据发展管理局获悉，中央网信办近日发布《2020年各地公共信息资源开放进展情况》，总结了2020年全国31个省（区、市）数据开放情况。其中，贵州省因“建设省级数据开放平台并...
+ ## [专访|迅特通信魏志坚：2020年国内运营商波分集采份额第一 积极配合5G相关研究工作](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=tBCkYv4GU3FpcKawPzWGyfzrCkgUuCgBQnNtghU9mXjMBwJwNmew05zrX*i8PcFS0tnUDkPNcMTg9XVmFtmMdCcIzfKMb*bZBCgZCqRA8LJ-V0YAyAq6hknPol8jjUWv&new=1)
  > 新闻导读讯石专访迅特通信首席技术官—魏志坚博士，听其回顾公司2020年的发展，分享迅特通信能在5G潮流中脱颖而出的关键。2020年，迅特通信在国内三大运营商5G网络建设相关集采项目中屡创佳绩，实现全年25G前传...
- ## [想拥有柯南一样的变声器?安排!丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=a1tq76gA98fBDn4*78y9FzJKNyN7-xv1Lp9gf4GgsQwUNlJY*qoka9LUETUsdwJfrOr9zT40*DXBkUzyo5O1wMQjQhB62TeeFjabByg*w7n63AxfUHa7Emk1Ksan4fMp&new=1)
+ ## [小米造车，一个最好的时刻](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=-lAdGIiDbZ9I2E1Y7EjMnplgtv01P2OL7m5yhXPG76WNbpFjUp50Q2VLKzSuJ0bCiT*Jo7qRUeTo5gFDdMR2nCRzmB3y5stMAeBEqxGN0T26Uy2pCmLjhUxT3orPCp1H&new=1)
+ > 摘要◎超越终端的多维增长战略。◎协同创新，一个杀手级场景。◎更多结构变化与市值管理。◎最好的时刻？赶在后面，写这一话题，只是让你意识到，小米造车，或有更多潜在动机与发展隐秘。造车的最后成效，未必比...
+ ## [想拥有柯南一样的变声器?安排!丨智言智语](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=a1tq76gA98fBDn4*78y9FzJKNyN7-xv1Lp9gf4GgsQw-j3WmESXlWn81gj*gDh2qXxsRRqrdnYTWvNAjHv7Z60gzhnrTXSYoWbDRx-7WEgD8Cz9em1J9wFUaFTq-lEwX&new=1)
  > 编者按: 智显未来，洞见新知。中科院之声与中国科学院自动化研究所联合开设“智言智语”科普专栏，为你介绍人工智能相关知识与故事，从最新成果到背后趣闻，带你徜徉AI空间，看人工智能如何唤醒万物，让世界变得...
- ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTvM-t6-BQPg003xtSY9yQecG5eUWGOYyMe0KzseMa--1PMWLaBc7bTeIuEdPeH6iTCvZdOiRhIg6SZTV1PLqYtp&new=1)
+ ## [微软推出开源Java发行版Microsoft Build of OpenJDK预览版](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=kKzePIrOOJHeGtZSqKEYCFU-tw5rcNlP*cDrvFCDyTtQ3h*bhjptWg7EVCqnLpt0Vca88lcbB39M2j9hA3SKwC-0TLz-cqD7RIuLZ3J3vzM4WHQgnCK2NFJ7uuPvtj8u&new=1)
  > 微软推出了其Java发行版Microsoft Build of OpenJDK预览版，称其为“协作和贡献于Java生态系统的新方式”。Microsoft Build of OpenJDK预览版基于OpenJDK源代码为Java 11提供了微
- ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-ppwPrY65k3YeW-yd0e2gpwm*iEFBsPePX02W0zXZmwIyr3FiHt9pHulO8NLGCrhcQe1wLSaPTv9UTDUvdfsX10u&new=1)
+ ## [中国移动省公司一把手带全家"致富"：大哥吃回扣 二哥吃空饷](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=IdtUE5Nrl0DFucqO8U889epWitlIxRiiIAYjD4zj-poKst-bHxzEjsvMx-z-bL59Ka3Ugil20iVLjcSJ2HHWLS4VvIopMi0pIzHQCF2PTOfEKeBZT3Yb2n0PHBvW0Yiq&new=1)
  > 近日，原中国移动贵州有限公司董事长芈大伟受贿案细节曝光。裁判文书网公布的刑事判决书显示，在1995-2016年的20余年间，芈大伟先后利用职务便利收受个人及单位行贿2056.26万元，近10家企业卷入，其中A股上市公...
- ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DdyXc*--SYOT45qkd2uUyd8nDdS0KMPP9ETDdMyMMlDMy0p1zswhignyALrEuMsaaaxqliruBKWXSiLBFaUfS18&new=1)
+ ## [全国两会的「老朋友」：科大讯飞如何「抢占会议室」?](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=IW1WRhUyVw2wBgrlWt4hIZFtMQQeCTMQY4Npww1k6DcjOUPoX3tXKGb-vm8T1CSYpEAmy0pByGw53Zb3LJZwcyxJaUYLYL5VKoYy7D3g8feNDP9rPMUoP4VQN2GyIdUt&new=1)
  > 以科大讯飞为首的科技创新型企业不仅通过自己旗下产品重新定义办“AI+办公”，让国人对中国的AI实力有了一个较为清晰的认知，也在推动我国产业智能化升级中做出巨大贡献，让世界看到了“中国智造”的未来蓝图。...
- ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617847204&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4zlZO4B54Kk1Y0bZM9bpVviu5iqHX6YRGBsvzrk8EpyO*fVNjTso8YBwAnLt9H9ZWOG7tx9MHRqq3gFLEQuPMO3&new=1)
+ ## [6000亿市值!27位清华学霸，扛起中国芯片半壁江山…清华系最牛半导体公司浮出水面?](http://mp.weixin.qq.com/s?src=11&timestamp=1617854404&ver=2995&signature=PtkRzCMpfM0Mn2E-NoOuipQrR86MrKg219yMFQ3E*4wQcrOmlweNwRaNnsgH7WBbq*0GP6EyAYDNPNW1uf88ivayhJu3ICkn21Wx0ZQlokDYQ-1ka3Kvy*MZWgWud7jX&new=1)
  > 较为知名的清华系芯片公司多达27家，2019年中国IC设计前十强中，清华系贡献了4个席位。从赴美创立豪威科技的陈大同，到一路买买买的赵伟国，创业、投资、并购、升级，互相提携互相成就，是这一代清华人的故事主...
 # IT 技术 
  ## [【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更](http://www.cioage.com/art/202104/656271.htm)
@@ -27,56 +39,58 @@ categories: IT NEWS
  > 这个勒索病毒笑死我了，哈哈哈哈...
  ## [值得推荐的四大开源混合云平台](http://cloud.51cto.com/art/202104/656273.htm)
  > 值得推荐的四大开源混合云平台
+ ## [关于Android架构，你是否还在生搬硬套？](http://mobile.51cto.com/ahot-656347.htm)
+ > 关于Android架构，你是否还在生搬硬套？
+ ## [学习队列，看这一篇就够了！](http://developer.51cto.com/art/202104/656335.htm)
+ > 学习队列，看这一篇就够了！
  ## [鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据](http://developer.51cto.com/art/202104/656264.htm)
  > 鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据
- ## [值得推荐的11种流行的渗透测试工具](http://netsecurity.51cto.com/art/202104/656133.htm)
- > 值得推荐的11种流行的渗透测试工具
- ## [开发 | 再见了，公司的“烂系统”](http://developer.51cto.com/art/202104/656140.htm)
- > 开发 | 再见了，公司的“烂系统”
- ## [JDK 17：Java 17有何新看点？](http://developer.51cto.com/art/202104/656131.htm)
- > JDK 17：Java 17有何新看点？
+ ## [深夜12点，头秃的那家伙，还在用CSS处理图片上的文字](http://developer.51cto.com/art/202104/656336.htm)
+ > 深夜12点，头秃的那家伙，还在用CSS处理图片上的文字
+ ## [手把手带你快速做专业的项目文档实战讲解视频课程](http://fellow.51cto.com/art/202101/638405.htm?qd=51ctojrzd)
+ > 手把手带你快速做专业的项目文档实战讲解视频课程
  ## [西部数据助力IPFS解决方案，全系列产品赋能存储架构革新](http://stor.51cto.com/art/202104/656303.htm)
  > 企业需要用更新、更多的技术来加速存储架构的革新，让用户以更低成本，更可靠、更快速地存储和访问数据。借
- ## [5G基站越来越多，它的辐射到底有多大?](http://network.51cto.com/art/202104/656358.htm)
- > 5G基站分配到天线输出口的功率仅为4瓦，与此相对应的是，家用照明灯每盏的功率为15瓦到40瓦，故5G基站辐射
- ## [程序员写好技术文章的几点小技巧](http://news.51cto.com/art/202104/656360.htm)
- > 和所有人强调的一样，好文章最重要的是要有好的内容，好的技术文章要让读者有益。如果你想写一篇爆款文章，
- ## [对手机应用程序过度索权说“不”](http://mobile.51cto.com/app-show-656359.htm)
- > 目前移动互联网快速发展，手机应用程序（APP）迅速普及，一些APP通过捆绑功能索取个人信息授权，用户拒绝授
- ## [自动驾驶卡车提速，商业化落地还要多久？](http://ai.51cto.com/art/202104/656357.htm)
- > 自动驾驶技术在卡车等B端领域的应用正在提速。4月7日，滴滴自动驾驶子公司发布消息称，该公司计划开启新的
- ## [机器人的未来：人机协作](http://ai.51cto.com/art/202104/656356.htm)
- > 传感器技术、计算能力和边缘处理方面的空前进步可以为机器人提供强大的人工智能功能，但这取决于所有生态系
- ## [鸿蒙内核源码分析(CPU篇) | 内核是如何描述CPU的 ?](http://os.51cto.com/art/202104/656266.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [专家发现Facebook for WordPress插件中存在两个漏洞](http://netsecurity.51cto.com/art/202104/656355.htm)
- > 官方Facebook for WordPress插件中的关键漏洞可能被滥用以进行远程代码执行攻击。
- ## [iOS 15原来长这样！苹果官方应用泄露玄机：设计更好看了](http://mobile.51cto.com/iphone-656353.htm)
- > Apple Music for Artists是一款面向音乐人和唱片公司的专业应用，主要提供单曲/累计购买量和购买地点图等数
- ## [SSD硬盘问世30年 厂商超200家：HDD仅剩3家](http://biz.51cto.com/art/202104/656351.htm)
- > 尽管最近闪存价格有所上涨，SSD硬盘也因此水涨船高，但是大家装机基本上都会选择SSD而非HDD机械硬盘了，毕
+ ## [2026年防伪验证和品牌保护市场规模将达到37亿美元](http://zhuanlan.51cto.com/art/202104/656387.htm)
+ > 根据MarketsandMarkets的数据，产品防伪认证和品牌保护市场预计将从2021年的25亿美元增长到2026年的37亿美
+ ## [六大人工智能应用将改变制造业！](http://ai.51cto.com/art/202104/656384.htm)
+ > 如今，智能化、网络化、数字化已成为推进当前制造业领域加速前进的重要动力，也成为中国制造向中国智造转型
+ ## [大数据安全分析之大数据分析的技术架构及关键技术](http://bigdata.51cto.com/art/202104/656383.htm)
+ > 大数据分析利用大数据技术对海量数据的高效计算能力，结合关联分析、深度学习、机器学习算法等手段，对各种
+ ## [大数据安全分析之大数据技术有什么优势](http://bigdata.51cto.com/art/202104/656382.htm)
+ > 为什么要用大数据技术进行安全分析呢？大数据技术有什么优势呢？我们来看看吧。
+ ## [人工智能正在重塑数字营销行业](http://ai.51cto.com/art/202104/656379.htm)
+ > 人工智能已经成为数字营销领域中至关重要的技术，全球各地的数字营销人员都在利用人工智能来简化和优化营销
+ ## [都5G时代了，你还不知道什么是移动边缘计算（MEC）？](http://cloud.51cto.com/art/202104/656376.htm)
+ > 虽然我们对移动技术非常熟悉，并且可以在与边缘计算相结合时推断出它的含义，但实际上却更加令人困惑：移动
+ ## [云原生究竟意味着什么？](http://cloud.51cto.com/art/202104/656373.htm)
+ > 在本系列文章中，我们将从几个不同的角度探讨本机云，当然包括技术和基础架构，还包括架构，设计，以及可能
+ ## [每个数据工程师都应该知道的7个数据库概念](http://database.51cto.com/art/202104/656372.htm)
+ > 如果您准备接受数据工程职位面试，则必须了解数据库的所有主要概念。我将尝试尽可能简单地解释数据库的7个
+ ## [Java基础入门之SimpleDateFormat类和List接口](http://developer.51cto.com/art/202104/656368.htm)
+ > 本文主要介绍了SimpleDateFormat类、List接口、JDK5.0新特性--foreach循环。
  ## [看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针](https://blog.csdn.net/A757291228/article/details/115453468)
  > 看聊天记录都学不会C语言？太菜了吧》（17）5分钟搞懂指针与多重指针
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [经过笔试和多轮技术面试我居然败给了HR面？](https://blog.csdn.net/weixin_44895651/article/details/115384049)
- > 经过笔试和多轮技术面试我居然败给了HR面？
- ## [大意！6行代码，“报废”5片单片机！](https://blog.csdn.net/m0_38106923/article/details/115381201)
- > 大意！6行代码，“报废”5片单片机！
- ## [R语言 | 二分类和多分类的逻辑回归实现](https://blog.csdn.net/icefountain/article/details/106105110)
- > R语言 | 二分类和多分类的逻辑回归实现
- ## [python经典练习题之九九乘法表、打印菱形、打印对顶三角形、斐波拉契数列、素数...](https://blog.csdn.net/bigzql/article/details/109665291)
- > python经典练习题之九九乘法表、打印菱形、打印对顶三角形、斐波拉契数列、素数...
- ## [我要偷偷的学Python，然后惊呆所有人（第三天）](https://blog.csdn.net/qq_43762191/article/details/109153886)
- > 我要偷偷的学Python，然后惊呆所有人（第三天）
- ## [适合 C++ 新手学习的开源项目——在 GitHub 学编程](https://blog.csdn.net/a419240016/article/details/109506295)
- > 适合 C++ 新手学习的开源项目——在 GitHub 学编程
- ## [\[GO语言基础\] 五.顺序控制语句和条件控制语句（if、else、switch）](https://blog.csdn.net/Eastmount/article/details/113804706)
- > \[GO语言基础\] 五.顺序控制语句和条件控制语句（if、else、switch）
- ## [快速排序算法——C/C++](https://blog.csdn.net/weixin_42109012/article/details/91645051)
- > 快速排序算法——C/C++
+ ## [那些年我在CSDN追过的安全白帽大佬，respect](https://blog.csdn.net/Eastmount/article/details/115468089)
+ > 那些年我在CSDN追过的安全白帽大佬，respect
+ ## [初识Mongodb之MapReduce操作篇](https://blog.csdn.net/weixin_47723732/article/details/115502821)
+ > 初识Mongodb之MapReduce操作篇
+ ## [Web安全-浅析网页暗链与挂马攻击](https://blog.csdn.net/weixin_39190897/article/details/114196050)
+ > Web安全-浅析网页暗链与挂马攻击
+ ## [基于Python的OpenCV人脸检测](https://blog.csdn.net/m0_45161766/article/details/107545960)
+ > 
+ ## [element-ui实现input输入框金额数字添加千分位组件](https://blog.csdn.net/xh_960125/article/details/114387755)
+ > element-ui实现input输入框金额数字添加千分位组件
+ ## [Webpack-5【babel编译ES6、编译插件、全局-局部垫片】](https://blog.csdn.net/Yesterday_Tomorrow/article/details/114290676)
+ > Webpack-5【babel编译ES6、编译插件、全局-局部垫片】
+ ## [【kimol君的无聊小发明】—用python写PDF转换器](https://blog.csdn.net/kimol_justdo/article/details/109267805)
+ > 【kimol君的无聊小发明】—用python写PDF转换器
+ ## [贪吃蛇代码--c语言版 visual c++6.0打开](https://blog.csdn.net/weixin_46627433/article/details/108956493)
+ > 贪吃蛇代码--c语言版 visual c++6.0打开
  ## [Java版斗地主代码免费复制](https://blog.csdn.net/qq_33007465/article/details/114838384)
  > Java版斗地主代码免费复制
  ## [MySQL基础语句总结](https://blog.csdn.net/weixin_55086330/article/details/115028662)
@@ -90,18 +104,18 @@ categories: IT NEWS
  > 
  ## [聊聊机器学习中的那些花儿：标准化、归一化、正则化、离散化和白化](https://blog.csdn.net/xufive/article/details/115345361)
  > 聊聊机器学习中的那些花儿：标准化、归一化、正则化、离散化和白化
- ## [Flutter Boost 混合开发框架初探](https://blog.csdn.net/xiangzhihong8/article/details/115380924)
- > Flutter Boost 混合开发框架初探
- ## [大厂面经分享——来聊聊我的阿里云P7面试经历](https://blog.csdn.net/songguangfan/article/details/115386378)
- > 大厂面经分享——来聊聊我的阿里云P7面试经历
- ## [你会在 JitPack 上创建依赖库吗？](https://blog.csdn.net/haojiagou/article/details/115391998)
- > 你会在 JitPack 上创建依赖库吗？
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [Android 11 变更及适配攻略](https://blog.csdn.net/qq_17766199/article/details/115351949)
+ > Android 11 变更及适配攻略
+ ## [经过 8 万画作+人工注释训练，算法学会了赏析名画](https://blog.csdn.net/HyperAI/article/details/115410505)
+ > 经过 8 万画作+人工注释训练，算法学会了赏析名画
  ## [隐藏与篡改Linux命令行参数](https://blog.csdn.net/dog250/article/details/115411814)
  > 隐藏与篡改Linux命令行参数
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
  ## [【清明专刊】悼念逝去老友司徒正美，致敬曾改变世界的Flash](https://blog.csdn.net/BEYONDMA/article/details/115412820)
  > 【清明专刊】悼念逝去老友司徒正美，致敬曾改变世界的Flash
+ ## [HashMap面试，看这一篇就够了](https://blog.csdn.net/DD_Dddd/article/details/115427040)
+ > HashMap面试，看这一篇就够了
  ## [困在“墙”里的中年程序员](https://blog.csdn.net/mogoweb/article/details/115435753)
  > 困在“墙”里的中年程序员
  ## [Redis源码剖析之AOF](https://blog.csdn.net/xindoo/article/details/115447240)
@@ -114,9 +128,13 @@ categories: IT NEWS
  > 重磅官宣：Nacos2.0 发布，性能提升 10 倍
  ## [人脸识别原理详解：使用tfrecord集合网络训练所有数据](https://blog.csdn.net/tyler_download/article/details/115462948)
  > 人脸识别原理详解：使用tfrecord集合网络训练所有数据
- ## [【技术流派】双目立体视觉系统空间精度：精确定量分析](https://blog.csdn.net/rs_lys/article/details/115442565)
- > 【技术流派】双目立体视觉系统空间精度：精确定量分析
+ ## [TIOBE 4 月榜单：上古编程语言 Fortran 击败 Objective-C，PHP、Go 下滑](https://blog.csdn.net/csdnnews/article/details/115475053)
+ > TIOBE 4 月榜单：上古编程语言 Fortran 击败 Objective-C，PHP、Go 下滑
 # PM 
+ ## [产品设计的基本原则是什么](http://www.chanpin100.com/article/114448)
+ > 产品设计开始之前，我们需要充分了解产品的相关要求和原则，在设计过程中灵活运用，才能做出用户满意的产品。那么，产品设计的基本原则是什么呢？请看本文的介绍。
+ ## [产品设计的基本要求有哪些](http://www.chanpin100.com/article/114447)
+ > 一款好的产品，只有在技术性能、经济指标、整体造型、操作使用、可维护性等方面能做到统筹兼顾，协调一致，设计合理，才能受到用户的喜爱。那么，产品设计的基本要求有哪些呢？请看本文的介绍。
  ## [深度剖析小米新logo凭什么值200W？](http://www.chanpin100.com/article/114445)
  > 近期，令整个互联网界为之哗然的，无疑就是小米的新logo事件了。尤其是当雷布斯宣称，思考了整整3年的时间，花费了200W打造的新logo亮相时，简直惊掉了我的双下巴。。。
  ## [数据产品经理都需要什么样的能力？（三）](http://www.chanpin100.com/article/114443)
@@ -153,9 +171,5 @@ categories: IT NEWS
  > 产品经理需要懂技术吗？这是一个永远有人在讨论，永远没有答案的问题。而作为一个从技术转做产品的人，本人在工作中总结了自己的一些感悟，与大家分享探讨。
  ## [时隔数年 VR卷土重来](http://www.chanpin100.com/article/114428)
  > 在这个新概念层出不穷的世界，你或许听说过Gartner曲线，很多新技术趋势，往往会有两轮热度：第一轮，是在诞生伊始，在舆论的亢奋声中，它往往流于概念，难于落地，也让热情逐渐冷却——但在冷却过程中，在远离聚光灯的地方，它其实正在低调酝酿，被开发成更成熟的产品，并被市场逐渐接受，最终真正走向社会，从而带
- ## [后端产品经理的核心能力是什么？](http://www.chanpin100.com/article/114383)
- > 后端产品经理是整个后端业务需求的整理者，需要串起整个业务的前中后所有流程。后端业务往往并不像前端需求那样简单易于理解
- ## [如何在一周内快速搞懂一个陌生行业！](http://www.chanpin100.com/article/114382)
- > 换了工作，从一个行业跳到另一个行业，从熟悉变成陌生，这样的经历，这是作为产品经常会遇到的情况。面对未知领域既兴奋又焦虑。
 
     
