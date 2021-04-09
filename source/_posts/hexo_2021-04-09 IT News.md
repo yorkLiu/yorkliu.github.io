@@ -1,22 +1,28 @@
 ---
 title: 2021-04-09 IT News
 copyright: true
-date: 2021-04-09 08:01:08
+date: 2021-04-09 09:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [全屋Wi-Fi，你真的了解吗?来看看华为的全面解读](http://mp.weixin.qq.com/s?src=11&timestamp=1617926404&ver=2997&signature=-3W9vSa1TdYEci*e8Nl*WMz2zwO*OlCtQN902JIDW2PPV2rVjhiXBdx-P6tQ1j7QHRj4G2GLi48OdbiUnXQfaVv-oRAAh8DIWFJTFQyHPGiXmPu9-KUGIsPdNCYz9HLh&new=1)
- > 以前，家庭宽带上网只是浏览网页、聊聊QQ，对Wi-Fi网络性能要求不太高，只需单路由覆盖家中主要活动区域就行了。但随着视频、直播、游戏等应用兴起，对沉浸式和互动体验要求更高，对家庭Wi-Fi网络的覆盖、速率、...
- ## [再见 Win10!下一代操作系统要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617926404&ver=2997&signature=e5DO2ntOsLgeb6aO-h4icssQGTi7gRoRlLENVbpoVDdyNL-BKFBZSMtLNfqN1v45ruJ*sKUVVEdz8k9vIGJVvXFZFKw-MP8y3el*bCTHIBI8Wga5WSqYRe5D7jEyjkY0&new=1)
+ ## [再见 Win10!下一代操作系统要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=e5DO2ntOsLgeb6aO-h4icssQGTi7gRoRlLENVbpoVDdTP0LPJGl9BSO6CwzlweWGSVTdPd5GdIgJh2gK4*Oh0MyntryEg1bFT8ECLoGJcU*rbo7qWQBi63BNV5gJOjpW&new=1)
  > 来自：快科技，作者：雪花链接：https://news.mydrivers.com/1/735/735091.html据最新消息称，Windows 10X有望于春季结束前向OEM厂商推送。起初微软希望为双屏设备打造专属的Windows 10
- ## [天津市人民政府与华为技术有限公司签署深化战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1617926404&ver=2997&signature=f04Coma1vwqdQ8wLoixH2WeqqOccKzCWxb*rAN9Uxb67TopykukeBaPJTf2CeXEPRXOgRLV47FNS-us0xqE0kLdZUeO0ayHeyv8Z5hdF*8baPvk6GNs*CcQ4kaXejHGU&new=1)
- > 4月8日，天津市人民政府与华为技术有限公司（以下简称：华为）签署深化战略合作协议，旨在加快数字产业化和产业数字化转型，深化人工智能产业合作，加快建设“天津智港”。天津市委书记李鸿忠，市委副书记、市长...
- ## [助力企业重塑业务，亚马逊云科技打造“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1617926404&ver=2997&signature=1pRs-KtXvtzVjKDO9RLnHJxaXyy3tIu3Y*SjEL0VLgEGATXYXeNYTkSFuJQv1MTRjZB93IrIVhycZ*Sj0iKTU-QaKJ3IH3c0KpVQiipgs2I4BuMO9xa6bfjcl6n7uUhR&new=1)
+ ## [全屋Wi-Fi，你真的了解吗?来看看华为的全面解读](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=-3W9vSa1TdYEci*e8Nl*WMz2zwO*OlCtQN902JIDW2OUFEtdSzJZUGrV*Kh7HXWymMqjxG9OdrHJJwQCfsl2VkzE7RYuSkVPGyUwGlh4cAUWDE9kM8kEmbhTIaXLAbho&new=1)
+ > 以前，家庭宽带上网只是浏览网页、聊聊QQ，对Wi-Fi网络性能要求不太高，只需单路由覆盖家中主要活动区域就行了。但随着视频、直播、游戏等应用兴起，对沉浸式和互动体验要求更高，对家庭Wi-Fi网络的覆盖、速率、...
+ ## [助力企业重塑业务，亚马逊云科技打造“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=1pRs-KtXvtzVjKDO9RLnHJxaXyy3tIu3Y*SjEL0VLgF*uXci5fhohymxdcRWFIYtl*jf2wVit2bZLzCEH2VMrOfsnkLKtBTLNLV3JIZ1aLlqvVPBlDzPBw0N3VeFQ*Ff&new=1)
  > 对于企业来说，重塑业务究竟有多重要？50年前的《财富》500强企业中，如今仍然留在榜单上的只剩下17%；20年前的《财富》500强企业中，如今还在榜单上的公司也只有50%。面对激烈市场竞争中的惊涛骇浪，企业时时刻...
- ## [关于北斗掉线问题，从使用方来谈谈卫星定位的问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617926404&ver=2997&signature=YHHLNQGOwrAwxDxM1o*SD4Px3aoYmsuxi1gEknJSIA*uvXJhaGeGSBlqhDg1mMpjUXhyMyB0mi2vhmpYjjYYN2EGubppdDqJt2A2QYZO2CgF6R-NHD-7hTEY-m4V2GmK&new=1)
+ ## [天津市人民政府与华为技术有限公司签署深化战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=f04Coma1vwqdQ8wLoixH2WeqqOccKzCWxb*rAN9Uxb6WEcGX1vOIjlvEmiPgq1n60IC*rgf0GriuhHlaPWNVmNDomn2SrNeF1Cl38EFAoAW9mQvmkg-j8ggGNVciDKLp&new=1)
+ > 4月8日，天津市人民政府与华为技术有限公司（以下简称：华为）签署深化战略合作协议，旨在加快数字产业化和产业数字化转型，深化人工智能产业合作，加快建设“天津智港”。天津市委书记李鸿忠，市委副书记、市长...
+ ## [关于北斗掉线问题，从使用方来谈谈卫星定位的问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=YHHLNQGOwrAwxDxM1o*SD4Px3aoYmsuxi1gEknJSIA8SPJt1wlogYzaVaYJGJUqtbPkosgp1KJsnR5L3OapPp4tNVX66jdD5Plj7EvE5YNO5tdImbhvXdtTeHwRcIiQ6&new=1)
  > 北斗“掉线”，货车司机自杀，由此引发了各方对于卫星导航的高度关注，对于卫星导航的技术问题颇为复杂，柏铭科技尝试从现实使用中来说说卫星导航的应用。笔者在一家非私营客运公司工作，早在数年前，上级部门就...
 # IT 技术 
+ ## [部署和使用Anchore映像漏洞扫描器](http://developer.51cto.com/art/202104/656445.htm)
+ > 部署和使用Anchore映像漏洞扫描器
+ ## [奔溃！老板叫我设计一个亿级API网关](http://network.51cto.com/art/202104/656469.htm)
+ > 奔溃！老板叫我设计一个亿级API网关
+ ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
+ > 自动化框架Selenium与Cypress，哪家强？
  ## [【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更](http://www.cioage.com/art/202104/656271.htm)
  > 【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更
  ## [这个勒索病毒笑死我了，哈哈哈哈...](http://netsecurity.51cto.com/art/202104/656294.htm)
@@ -25,24 +31,28 @@ categories: IT NEWS
  > 值得推荐的四大开源混合云平台
  ## [关于Android架构，你是否还在生搬硬套？](http://mobile.51cto.com/ahot-656347.htm)
  > 关于Android架构，你是否还在生搬硬套？
- ## [学习队列，看这一篇就够了！](http://developer.51cto.com/art/202104/656335.htm)
- > 学习队列，看这一篇就够了！
- ## [鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据](http://developer.51cto.com/art/202104/656264.htm)
- > 鸿蒙内核源码分析(消息队列篇) | 进程间如何异步解耦传递大数据
- ## [深夜12点，头秃的那家伙，还在用CSS处理图片上的文字](http://developer.51cto.com/art/202104/656336.htm)
- > 深夜12点，头秃的那家伙，还在用CSS处理图片上的文字
- ## [极简JAVA二：JAVA面向对象](http://fellow.51cto.com/art/202007/622445.htm?qd=51ctojrzd)
- > 极简JAVA二：JAVA面向对象
- ## [微软翻译应用即将在 Windows 10 应用商店下架，安卓 / iOS 不受影响](http://os.51cto.com/art/202104/656506.htm)
- > 微软翻译应用于 2015 年首先登陆 Windows 10，这款软件此前在 Windows Phone 上也推出过，但随后停止更新和
- ## [使用这个开源工具来监控 Python 中的变量](http://os.51cto.com/art/202104/656505.htm)
- > Watchpoints 是一个简单但功能强大的工具，可以帮助你在调试 Python 时监控变量。
- ## [只是时间问题！并不缺钱的运营商，即将迎来大面积上市潮](http://network.51cto.com/art/202104/656503.htm)
- > 虽然运营商的光环早已褪去，而且当前的股票市场也不够景气，但是这都无法阻挡运营商为争抢我国5G全球领先而
- ## [承诺不“大数据杀熟” 京东、美团、携程等10平台签署承诺书](http://bigdata.51cto.com/art/202104/656502.htm)
- > 市市场监管局、市商务局以及华南理工大学法学专家们就相关问题与各企业代表进行互动交流探讨。严正指出当前
- ## [Windows 10新改进再曝光！显示和摄像头设置有革新](http://os.51cto.com/art/202104/656501.htm)
- > 根据Windows Lastest的报道，微软正在测试新的显示以及摄像头设置界面，这些新元素将会出现在Windows 10 21
+ ## [【雷神通关】《CTO精讲计算机技术系列》之一职场篇2之如何选择行业方向](http://fellow.51cto.com/art/202103/650808.htm?qd=51ctojrzd)
+ > 【雷神通关】《CTO精讲计算机技术系列》之一职场篇2之如何选择行业方向
+ ## [微软收获220亿美元的合同，将为美国陆军配备12000个AR头盔！](http://zhuanlan.51cto.com/art/202104/656520.htm)
+ > 近日，微软赢得了一份为美军提供基于HoloLens的耳机的合同。这份合同的价值可能在10年内高达218.8亿美元，C
+ ## [浅探 Web Worker 与 JavaScript 沙箱](http://developer.51cto.com/art/202104/656519.htm)
+ > 本文接下来的内容，将介绍我在探索基于 Web Worker 实现 JavaScript 沙箱隔离方案过程中的一些资料收集、理
+ ## [一篇文章看懂网络保险](http://netsecurity.51cto.com/art/202104/656517.htm)
+ > 各种类型的网络攻击正在成为所有机构组织的大麻烦，并且，由于不存在一劳永逸的防护方案和百分之百的安全措
+ ## [黑客论坛公开泄露Facebook超5亿数据](http://netsecurity.51cto.com/art/202104/656515.htm)
+ > 近期，Facebook的用户数据再一次遭到严重泄露。泄露内容于某黑客论坛公布，这是迄今为止Facebook最严重的数
+ ## [有意思！CSS 文字装饰还能这样玩~](http://developer.51cto.com/art/202104/656516.htm)
+ > 本文将讲讲两个比较新的文字装饰的概念 text-decoration 与 text-emphasis，在最后，还会讲解使用 backgrou
+ ## [数据库，索引优秀实践](http://database.51cto.com/art/202104/656514.htm)
+ > 数据库索引通常很糟糕。只有在设计和有效地使用时才实现数据库索引的权力。否则，索引是磁盘空间和数据库性
+ ## [数字化转型艰难，CEO、CIO的数字技能是否足够?](http://www.cioage.com/art/202104/656513.htm)
+ > 数字化转型是一个漫长而复杂的过程，影响成功的因素很多，但是领导层非常关键，多数业内人士认为数字化转型
+ ## [eSentire警告防范新型网络钓鱼攻击](http://netsecurity.51cto.com/art/202104/656512.htm)
+ > 据外媒，近日安全公司eSentire发出警告称新型网络钓鱼攻击已经盯上了在领英等平台上找寻新的工作机会的人。
+ ## [微软 Edge 浏览器 “自动填充密码”功能将支持 Windows Hello 验证](http://os.51cto.com/art/202104/656511.htm)
+ > 在 Edge 浏览器 Canary 通道的最新版本中，微软正在测试一项重要安全功能――“自动填充密码”将支持 Windo
+ ## [数据分析常见效应&定律](http://bigdata.51cto.com/art/202104/656510.htm)
+ > 今天师兄整理了一下咱们数分领域常见的效应和规律，希望可以帮大家。
  ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
  > 0 基础 Java 自学之路（2021年最新版）
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -53,18 +63,18 @@ categories: IT NEWS
  > 3w 字长文爆肝 Java 基础面试题！太顶了！！！
  ## [Sentinel实现动态配置的集群流控](https://blog.csdn.net/jiuqiyuliang/article/details/115524800)
  > Sentinel实现动态配置的集群流控
- ## [webpack5 基础配置（2） postcss使用  file-loader](https://blog.csdn.net/lin_fightin/article/details/115098438)
- > webpack5 基础配置（2） postcss使用  file-loader
- ## [我奶奶都能看得懂的超详细万字讲解——线程操作图片粒子化飞散及复原](https://blog.csdn.net/yuanrunze/article/details/115456318)
- > 我奶奶都能看得懂的超详细万字讲解——线程操作图片粒子化飞散及复原
- ## [Upload-labs 1-21关 靶场通关攻略(全网最全最完整)](https://blog.csdn.net/weixin_47598409/article/details/115050869)
- > Upload-labs 1-21关 靶场通关攻略(全网最全最完整)
- ## [JavaScript学习（变量）](https://blog.csdn.net/m0_46384159/article/details/115292693)
- > JavaScript学习（变量）
- ## [Element-ui el-time-picker绑定的数据更新后不渲染的问题](https://blog.csdn.net/qq_42456564/article/details/114926034)
- > Element-ui el-time-picker绑定的数据更新后不渲染的问题
- ## [常用 json javabean 互转](https://blog.csdn.net/zyz_YZJ/article/details/115443741)
- > 常用 json javabean 互转
+ ## [02、webpack管理资源](https://blog.csdn.net/qq_41620231/article/details/115018164)
+ > 02、webpack管理资源
+ ## [JVM概述](https://blog.csdn.net/qdzjo/article/details/115441040)
+ > JVM概述
+ ## [javascript表格信息增添与删除](https://blog.csdn.net/qq_51649438/article/details/115415134)
+ > javascript表格信息增添与删除
+ ## [Python GUI](https://blog.csdn.net/weixin_41102528/article/details/115426053)
+ > Python GUI
+ ## [JavaScript中关于预编译、作用域链和闭包的理解](https://blog.csdn.net/Mr_changxin/article/details/115269651)
+ > JavaScript中关于预编译、作用域链和闭包的理解
+ ## [【Vue】实战项目：电商后台管理系统（Element-UI）（一）前后端搭建 - 登录界面 - 主页界面](https://blog.csdn.net/weixin_44972008/article/details/114194474)
+ > 【Vue】实战项目：电商后台管理系统（Element-UI）（一）前后端搭建 - 登录界面 - 主页界面
  ## [java简易小游戏](https://blog.csdn.net/liuxin2002/article/details/115441170)
  > java简易小游戏
  ## [【C语言基础学习笔记】一、初始C语言（3）](https://blog.csdn.net/QIYICat/article/details/115487259)
