@@ -1,58 +1,62 @@
 ---
 title: 2021-04-09 IT News
 copyright: true
-date: 2021-04-09 09:00:59
+date: 2021-04-09 10:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [再见 Win10!下一代操作系统要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=e5DO2ntOsLgeb6aO-h4icssQGTi7gRoRlLENVbpoVDdTP0LPJGl9BSO6CwzlweWGSVTdPd5GdIgJh2gK4*Oh0MyntryEg1bFT8ECLoGJcU*rbo7qWQBi63BNV5gJOjpW&new=1)
- > 来自：快科技，作者：雪花链接：https://news.mydrivers.com/1/735/735091.html据最新消息称，Windows 10X有望于春季结束前向OEM厂商推送。起初微软希望为双屏设备打造专属的Windows 10
- ## [全屋Wi-Fi，你真的了解吗?来看看华为的全面解读](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=-3W9vSa1TdYEci*e8Nl*WMz2zwO*OlCtQN902JIDW2OUFEtdSzJZUGrV*Kh7HXWymMqjxG9OdrHJJwQCfsl2VkzE7RYuSkVPGyUwGlh4cAUWDE9kM8kEmbhTIaXLAbho&new=1)
- > 以前，家庭宽带上网只是浏览网页、聊聊QQ，对Wi-Fi网络性能要求不太高，只需单路由覆盖家中主要活动区域就行了。但随着视频、直播、游戏等应用兴起，对沉浸式和互动体验要求更高，对家庭Wi-Fi网络的覆盖、速率、...
- ## [助力企业重塑业务，亚马逊云科技打造“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=1pRs-KtXvtzVjKDO9RLnHJxaXyy3tIu3Y*SjEL0VLgF*uXci5fhohymxdcRWFIYtl*jf2wVit2bZLzCEH2VMrOfsnkLKtBTLNLV3JIZ1aLlqvVPBlDzPBw0N3VeFQ*Ff&new=1)
+ ## [助力企业重塑业务，亚马逊云科技打造“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=1pRs-KtXvtzVjKDO9RLnHJxaXyy3tIu3Y*SjEL0VLgF*uXci5fhohymxdcRWFIYtlmO7BG-VSWsIDDzBagiYHzM6x4o*6VMkEjif6v7b*qbsMT6DHxnMYXkwSEtl7UVI&new=1)
  > 对于企业来说，重塑业务究竟有多重要？50年前的《财富》500强企业中，如今仍然留在榜单上的只剩下17%；20年前的《财富》500强企业中，如今还在榜单上的公司也只有50%。面对激烈市场竞争中的惊涛骇浪，企业时时刻...
- ## [天津市人民政府与华为技术有限公司签署深化战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=f04Coma1vwqdQ8wLoixH2WeqqOccKzCWxb*rAN9Uxb6WEcGX1vOIjlvEmiPgq1n60IC*rgf0GriuhHlaPWNVmNDomn2SrNeF1Cl38EFAoAW9mQvmkg-j8ggGNVciDKLp&new=1)
- > 4月8日，天津市人民政府与华为技术有限公司（以下简称：华为）签署深化战略合作协议，旨在加快数字产业化和产业数字化转型，深化人工智能产业合作，加快建设“天津智港”。天津市委书记李鸿忠，市委副书记、市长...
- ## [关于北斗掉线问题，从使用方来谈谈卫星定位的问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617930004&ver=2997&signature=YHHLNQGOwrAwxDxM1o*SD4Px3aoYmsuxi1gEknJSIA8SPJt1wlogYzaVaYJGJUqtbPkosgp1KJsnR5L3OapPp4tNVX66jdD5Plj7EvE5YNO5tdImbhvXdtTeHwRcIiQ6&new=1)
+ ## [关于北斗掉线问题，从使用方来谈谈卫星定位的问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=YHHLNQGOwrAwxDxM1o*SD4Px3aoYmsuxi1gEknJSIA8SPJt1wlogYzaVaYJGJUqtKr80g8MUNniL7--zlf*UXoVbncA8Jg2rxl4FJPeh5-5FcihFuWPxIXpl7qDt-uyt&new=1)
  > 北斗“掉线”，货车司机自杀，由此引发了各方对于卫星导航的高度关注，对于卫星导航的技术问题颇为复杂，柏铭科技尝试从现实使用中来说说卫星导航的应用。笔者在一家非私营客运公司工作，早在数年前，上级部门就...
+ ## [天津市人民政府与华为技术有限公司签署深化战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=f04Coma1vwqdQ8wLoixH2WeqqOccKzCWxb*rAN9Uxb6WEcGX1vOIjlvEmiPgq1n6-O1YKBnk6gPnv829hWjgunTt1ltRM5g3YcZsPhY*R5nHK0j9ByDV1A*CwYyl24de&new=1)
+ > 4月8日，天津市人民政府与华为技术有限公司（以下简称：华为）签署深化战略合作协议，旨在加快数字产业化和产业数字化转型，深化人工智能产业合作，加快建设“天津智港”。天津市委书记李鸿忠，市委副书记、市长...
+ ## [锵锵三人行：祖似杰、李君和贾可，深谈SOA平台](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=LGjtyK*ZMYtBNXCAP9TbBBOVesFIzayEDxWJbF5KUHd9MYZIFA4fw0zF*z*i3C1Z1Gu2qNQKRk*WtGvGEBGcQbPHokzdAVJU9LdomL6ut-0ue9gTtjnVusu0xhgZH3cw&new=1)
+ > 撰文 / 钱亚光编辑 / 张  南设计 / 赵昊然全球首个汽车SOA平台开发者大会？是的，全球，而且首个。那么它是形容SOA平台还是开发者大会的。实际上，兼而有之，两个都是全球首个。谁干的？上汽集团。2021年4月9日...
+ ## [7点见|美国将7个中国超级计算机实体列入实体清单；传字节开发独立电商App](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=XFgq0XhGOTkBInE5RWMWpidsxjMiq5dBhD2PZMmw6AVmes2EEa9EYsXGDnQkSUWCzDrE3HWg2h*Sn7ePKxaAoCfZW7VXZ8M9BUlji88zhDz6K7Kte2TYE-8KifKuL2wy&new=1)
+ > 各位小伙伴早上好呀！ 以下是今天的早报！又打压！美商务部宣称将7个中国超级计算机实体列入“实体清单”俄罗斯卫星网消息称，美国商务部网站8日发布公告宣称，将7个中国超级计算机实体列入所谓“实体清单”，声...
+ ## [再见 Win10!下一代操作系统要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=e5DO2ntOsLgeb6aO-h4icssQGTi7gRoRlLENVbpoVDdTP0LPJGl9BSO6CwzlweWGJq-q34eIrVzBoe5h09bhuloIdqPS3TsakJqWriVOTJ9OoH3L33czEgnjrAiIHF2L&new=1)
+ > 来自：快科技，作者：雪花链接：https://news.mydrivers.com/1/735/735091.html据最新消息称，Windows 10X有望于春季结束前向OEM厂商推送。起初微软希望为双屏设备打造专属的Windows 10
+ ## [全屋Wi-Fi，你真的了解吗?来看看华为的全面解读](http://mp.weixin.qq.com/s?src=11&timestamp=1617933604&ver=2997&signature=-3W9vSa1TdYEci*e8Nl*WMz2zwO*OlCtQN902JIDW2OUFEtdSzJZUGrV*Kh7HXWy0vOTFJjAJbCeBq2Ay-TXiFp6rHI0sTZf0RrHQRwUerNT1canV*CnqY9VXMxPvHar&new=1)
+ > 以前，家庭宽带上网只是浏览网页、聊聊QQ，对Wi-Fi网络性能要求不太高，只需单路由覆盖家中主要活动区域就行了。但随着视频、直播、游戏等应用兴起，对沉浸式和互动体验要求更高，对家庭Wi-Fi网络的覆盖、速率、...
 # IT 技术 
- ## [部署和使用Anchore映像漏洞扫描器](http://developer.51cto.com/art/202104/656445.htm)
- > 部署和使用Anchore映像漏洞扫描器
- ## [奔溃！老板叫我设计一个亿级API网关](http://network.51cto.com/art/202104/656469.htm)
- > 奔溃！老板叫我设计一个亿级API网关
  ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
  > 自动化框架Selenium与Cypress，哪家强？
+ ## [奔溃！老板叫我设计一个亿级API网关](http://network.51cto.com/art/202104/656469.htm)
+ > 奔溃！老板叫我设计一个亿级API网关
+ ## [部署和使用Anchore映像漏洞扫描器](http://developer.51cto.com/art/202104/656445.htm)
+ > 部署和使用Anchore映像漏洞扫描器
+ ## [鸿蒙开源第三方组件―uCrop_ohos图片裁剪组件](http://os.51cto.com/art/202104/656428.htm)
+ > 鸿蒙开源第三方组件―uCrop_ohos图片裁剪组件
  ## [【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更](http://www.cioage.com/art/202104/656271.htm)
  > 【廉环话】防疫一周年后的IT项目管理思考 --验收、监控、改进、变更
  ## [这个勒索病毒笑死我了，哈哈哈哈...](http://netsecurity.51cto.com/art/202104/656294.htm)
  > 这个勒索病毒笑死我了，哈哈哈哈...
  ## [值得推荐的四大开源混合云平台](http://cloud.51cto.com/art/202104/656273.htm)
  > 值得推荐的四大开源混合云平台
- ## [关于Android架构，你是否还在生搬硬套？](http://mobile.51cto.com/ahot-656347.htm)
- > 关于Android架构，你是否还在生搬硬套？
- ## [【雷神通关】《CTO精讲计算机技术系列》之一职场篇2之如何选择行业方向](http://fellow.51cto.com/art/202103/650808.htm?qd=51ctojrzd)
- > 【雷神通关】《CTO精讲计算机技术系列》之一职场篇2之如何选择行业方向
- ## [微软收获220亿美元的合同，将为美国陆军配备12000个AR头盔！](http://zhuanlan.51cto.com/art/202104/656520.htm)
- > 近日，微软赢得了一份为美军提供基于HoloLens的耳机的合同。这份合同的价值可能在10年内高达218.8亿美元，C
- ## [浅探 Web Worker 与 JavaScript 沙箱](http://developer.51cto.com/art/202104/656519.htm)
- > 本文接下来的内容，将介绍我在探索基于 Web Worker 实现 JavaScript 沙箱隔离方案过程中的一些资料收集、理
- ## [一篇文章看懂网络保险](http://netsecurity.51cto.com/art/202104/656517.htm)
- > 各种类型的网络攻击正在成为所有机构组织的大麻烦，并且，由于不存在一劳永逸的防护方案和百分之百的安全措
- ## [黑客论坛公开泄露Facebook超5亿数据](http://netsecurity.51cto.com/art/202104/656515.htm)
- > 近期，Facebook的用户数据再一次遭到严重泄露。泄露内容于某黑客论坛公布，这是迄今为止Facebook最严重的数
- ## [有意思！CSS 文字装饰还能这样玩~](http://developer.51cto.com/art/202104/656516.htm)
- > 本文将讲讲两个比较新的文字装饰的概念 text-decoration 与 text-emphasis，在最后，还会讲解使用 backgrou
- ## [数据库，索引优秀实践](http://database.51cto.com/art/202104/656514.htm)
- > 数据库索引通常很糟糕。只有在设计和有效地使用时才实现数据库索引的权力。否则，索引是磁盘空间和数据库性
- ## [数字化转型艰难，CEO、CIO的数字技能是否足够?](http://www.cioage.com/art/202104/656513.htm)
- > 数字化转型是一个漫长而复杂的过程，影响成功的因素很多，但是领导层非常关键，多数业内人士认为数字化转型
- ## [eSentire警告防范新型网络钓鱼攻击](http://netsecurity.51cto.com/art/202104/656512.htm)
- > 据外媒，近日安全公司eSentire发出警告称新型网络钓鱼攻击已经盯上了在领英等平台上找寻新的工作机会的人。
- ## [微软 Edge 浏览器 “自动填充密码”功能将支持 Windows Hello 验证](http://os.51cto.com/art/202104/656511.htm)
- > 在 Edge 浏览器 Canary 通道的最新版本中，微软正在测试一项重要安全功能――“自动填充密码”将支持 Windo
- ## [数据分析常见效应&定律](http://bigdata.51cto.com/art/202104/656510.htm)
- > 今天师兄整理了一下咱们数分领域常见的效应和规律，希望可以帮大家。
+ ## [Oracle备份恢复迁移之exp/imp_Oracle备份恢复与数据迁移视频教程09](http://fellow.51cto.com/art/202012/637244.htm?qd=51ctojrzd)
+ > Oracle备份恢复迁移之exp/imp_Oracle备份恢复与数据迁移视频教程09
+ ## [Mozilla 将终止对 Firefox for Fire TV 浏览器的支持](http://os.51cto.com/art/202104/656539.htm)
+ > Mozilla 近日透露，他们将于 2021 年 4 月 30 日终止对亚马逊 Fire TV 和 Echo Show 的 Firefox 浏览器提供
+ ## [突发！美国再次瞄准中国超算，飞腾、申威等 7 大实体被列入管制清单](http://news.51cto.com/art/202104/656536.htm)
+ > 当地时间 2021 年 4 月 8 日，美国商务部发布公告称，将 7 家中国超算实体列入管制清单。
+ ## [创建一个成熟的GitOps流水线，需要做哪些决定？](http://developer.51cto.com/art/202104/656537.htm)
+ > 在本文中，我将通过一家公司的故事来解释其中的一些挑战。这家公司从一个零散的小创业公司采用GitOps，成长
+ ## [Hi3516如何连接WiFi（三）](http://os.51cto.com/art/202104/656424.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [微软商店的翻译应用即将消失](http://os.51cto.com/art/202104/656532.htm)
+ > 今天晚些时候，微软结束其Windows 10的翻译应用(Microsoft Translator)的运营。据该公司称，从4月9日起，Wi
+ ## [Java世纪审判在争什么？](http://news.51cto.com/art/202104/656530.htm)
+ > 本周，美国最高法院以6比2的结果裁定安卓没有侵犯甲骨文公司的Java编程语言的版权。一般的老百姓不大会关心
+ ## [为什么信不过AI看病？数据集小、可靠性差，AI医疗任重道远](http://zhuanlan.51cto.com/art/202104/656531.htm)
+ > 近年来，AI 在医疗诊断中的应用受到了越来越多的关注，也出现了一些实际的应用场景，如药物筛选、AI 诊断。
+ ## [泄露用户隐私信息，意大利启动对微软旗下 LinkedIn 调查](http://netsecurity.51cto.com/art/202104/656529.htm)
+ > 当地时间周四晚间，意大利隐私监管机构在一份声明中表示，由于 LinkedIn 用户数据泄露，包括用户 id、全名
+ ## [再获AV-TEST 认可！深信服 EDR 成为国内首家获得满分的企业级终端安全产品](http://ai.51cto.com/art/202104/656534.htm)
+ > 深信服 EDR 通过利用多引擎漏斗式的检测机制加快检测速度，减少性能消耗；通过人工智能 SAVE 引擎增强泛化
+ ## [将位置数据纳入物联网部署中对零售业至关重要](http://iot.51cto.com/art/202104/656528.htm)
+ > 基于物联网的位置邻近性还意味着，当顾客在商店附近并且以前下载过商店的应用程序时，他们可以获得折扣、特
  ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
  > 0 基础 Java 自学之路（2021年最新版）
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -61,20 +65,20 @@ categories: IT NEWS
  > 
  ## [3w 字长文爆肝 Java 基础面试题！太顶了！！！](https://blog.csdn.net/qq_36894974/article/details/115505102)
  > 3w 字长文爆肝 Java 基础面试题！太顶了！！！
- ## [Sentinel实现动态配置的集群流控](https://blog.csdn.net/jiuqiyuliang/article/details/115524800)
- > Sentinel实现动态配置的集群流控
- ## [02、webpack管理资源](https://blog.csdn.net/qq_41620231/article/details/115018164)
- > 02、webpack管理资源
- ## [JVM概述](https://blog.csdn.net/qdzjo/article/details/115441040)
- > JVM概述
- ## [javascript表格信息增添与删除](https://blog.csdn.net/qq_51649438/article/details/115415134)
- > javascript表格信息增添与删除
- ## [Python GUI](https://blog.csdn.net/weixin_41102528/article/details/115426053)
- > Python GUI
- ## [JavaScript中关于预编译、作用域链和闭包的理解](https://blog.csdn.net/Mr_changxin/article/details/115269651)
- > JavaScript中关于预编译、作用域链和闭包的理解
- ## [【Vue】实战项目：电商后台管理系统（Element-UI）（一）前后端搭建 - 登录界面 - 主页界面](https://blog.csdn.net/weixin_44972008/article/details/114194474)
- > 【Vue】实战项目：电商后台管理系统（Element-UI）（一）前后端搭建 - 登录界面 - 主页界面
+ ## [TensorFlow2入门指南 | 03 回归问题实战](https://blog.csdn.net/wjinjie/article/details/115533903)
+ > TensorFlow2入门指南 | 03 回归问题实战
+ ## [webpack5 基础配置（2） postcss使用  file-loader](https://blog.csdn.net/lin_fightin/article/details/115098438)
+ > webpack5 基础配置（2） postcss使用  file-loader
+ ## [我奶奶都能看得懂的超详细万字讲解——线程操作图片粒子化飞散及复原](https://blog.csdn.net/yuanrunze/article/details/115456318)
+ > 我奶奶都能看得懂的超详细万字讲解——线程操作图片粒子化飞散及复原
+ ## [Upload-labs 1-21关 靶场通关攻略(全网最全最完整)](https://blog.csdn.net/weixin_47598409/article/details/115050869)
+ > Upload-labs 1-21关 靶场通关攻略(全网最全最完整)
+ ## [JavaScript学习（变量）](https://blog.csdn.net/m0_46384159/article/details/115292693)
+ > JavaScript学习（变量）
+ ## [Element-ui el-time-picker绑定的数据更新后不渲染的问题](https://blog.csdn.net/qq_42456564/article/details/114926034)
+ > Element-ui el-time-picker绑定的数据更新后不渲染的问题
+ ## [常用 json javabean 互转](https://blog.csdn.net/zyz_YZJ/article/details/115443741)
+ > 常用 json javabean 互转
  ## [java简易小游戏](https://blog.csdn.net/liuxin2002/article/details/115441170)
  > java简易小游戏
  ## [【C语言基础学习笔记】一、初始C语言（3）](https://blog.csdn.net/QIYICat/article/details/115487259)
