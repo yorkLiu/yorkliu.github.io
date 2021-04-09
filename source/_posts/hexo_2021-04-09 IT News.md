@@ -1,40 +1,52 @@
 ---
 title: 2021-04-09 IT News
 copyright: true
-date: 2021-04-09 12:01:00
+date: 2021-04-09 17:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [很强大：全球3D打印实时快讯微信小程序上线](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=ELCWqlpwbFALFsnBy3xB9t3mFnq6PgPQt-XNi0J4I7sHEeXVmgxpwfCew8eU1iKSFV8sZIWo2p6T8V2AcTeQ9*NR*gJ-5Lb7pnBsNqBYzXyBV5oSdV9E0R3nO9C29XHG&new=1)
- > 南极熊小通知：国内外3D打印实时快讯微信小程序上线了哦请点击打开体验并收藏。3D打印新鲜事，每天看它就够了。
- ## [全屏云视代，融竞犇新篇!2021年AOC渠道大会隆重召开](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=6d1yyyeq*FHNZMl6jtfwmSSICeXsH1B*sjSSvbS-zp-gxEgAc5ahg2v1*i-PN35de3H10YqemGSwlispg**1VS62tai6EoBo9EisHV*RqF-uE3QEGhAiZaXrPizccfwG&new=1)
+ ## [让科技成为“金德强们”的帮手而非负累](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=Cgrx5AXKiXlYJxEtoc61nYPt7XHxA1tgqj880IcP*P*JdxYHgUaKxSVOuPJCzzZ4blg*7RdhClC0Ry6bRcrLJydr4Kmo4ACg7X3Rn0f-7cQ=&new=1)
+ > 远山/文 河北沧州泊头市货车司机金德强， 4月5日途经唐山市丰润区超限检查站时，因北斗定位掉线，被处以扣车、罚款2000元。或因不能接受此罚款，金德强服农药自杀，最终抢救无效去世。当地回应称，已就此事展开...
+ ## [重磅!从晋江传出的最新画面!现场沸腾了……](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=g75S5pGzRWvip0z5cbWENSPz7FRCAeWuKs3Dw039UoOzK05OYwTjlShuEQIDXKVXU15ASH3nBDFxgEb8iLBLhsNvmMVB8zEy2dp3NrUM-f1LcnKWJlp321xkZiDdVcaE&new=1)
+ > 昨日中国电信“5G工业云网中国行”福建站福建新一代信息技术与纺织行业融合高峰论坛泉州市5G应用创新发展中心揭牌仪式在晋江隆重举办为推动5G、工业互联网、大数据等新一代信息技术与实体经济深度融合，大力发展...
+ ## [华为或于7月卖车 手机销量打三折“鸿蒙”家电补位](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=RNk-InoXblbRWqIHV--bnFQ6xqWSkPd1AE6uJHKs3d0UD6RHx-GrzaWgVxjIv*E8vojN72abx6AePpOzlTNRX7hjgG99jOPDotcu1sQS0Wiep3OMLCOE7Upm5hJxvz-b&new=1)
+ > 图源：东方IC30秒快读1华为手机缺芯后，据主力经销商透露，华为手机销量打了三折，原因是没货。2华为或于7月卖车。最新消息显示，华为与北汽将在4月17日于上海发布新一代智能纯电轿车阿尔法S，而据《IT时报》了...
+ ## [全屏云视代，融竞犇新篇!2021年AOC渠道大会隆重召开](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=6d1yyyeq*FHNZMl6jtfwmSSICeXsH1B*sjSSvbS-zp-Sdp0NZHI1WD31s1ZcBS1aCijsclB5MMUpffa08l87AhsNUS5E9RXfBqRYeL86j8WO8FWLW1l3fhNVfRnQUSY*&new=1)
  > 沧海横流，方显英雄本色；青山矗立，不堕凌云之志。2021年4月7日，全球知名的专业显示设备提供商和品牌商AOC携全国渠道合作伙伴在如诗如画的云南大理召开了以“全屏云视代，融竞犇新篇”为主题的AOC渠道大会。▲...
- ## [支持加密支付，Signal走上不归路?](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=sZhm*GRmgYSulUbnrnohePa*GYqReqsL9hXImF7NgZ47cPkiYUuBD3hksnR1fTh53X11Mgr7Re25-KP793VXKmGneHC4W-RErDBq4ckOsdP5n4ClTrh7JCmRLyg*5mnY&new=1)
+ ## [Alex Smola领衔，40余位大咖畅聊机器学习技术与应用|INNOVATE 2021](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=gMzUBeI0Mz3seo-ZwUaEdJbFsMx6JEpwStxXwwrpLBueyNg*zp-1NAQzp5gZ1MkNMgOaPQO5Q*U0Dch3SGVcSLxElIZ7-oed7c7bOLrebx6qifTH-8wFo3BflR4PDUqv&new=1)
+ > 随着 AI 技术的不断落地，越来越多的企业开始将 AI 集成到自身的产品体系中。然而，使用传统方法构建机器学习模型会遇到很多问题，如算力消耗过大、调参过程繁琐、专业知识要求高等。这些问题给企业的大规模机器...
+ ## [\[观察\]加速IPFS基础设施落地，西部数据的三重独特优势](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=vPFtJh6TBgePThjL1ReK8LNWkTuzRHuNgOULTPpAJP*orohKQ9CJWcVy2z*voUYvOhw6VNuP4FVGttvI3tF0furbWIDiKopP335zJ8o8QeYwy*yepBbST6KXwv-K8PXN&new=1)
+ > 申耀的科技观察读懂科技，赢取未来！可以看到，今天现实物理世界与虚拟数字世界的融合，让数据出现了爆炸式增长。根据IDC白皮书预测，2018年至2025年中国的数据量将以30%的年平均增长速度领先全球，预计在2025年...
+ ## [特斯拉“偷窥”没人管?工信部：智能网联汽车将实施准入管理](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=xBqnOenAjoESDNP*6LCNtWiI-ewB32V0q5ZrpCtYCCe2NMZUXmQHmPiGf6*bylOEjonRXk7GgzdmKpHFItu7xYTBLKA4h6cQH9wxf5DihS7gGlepH-bdpY7EPQtVgden&new=1)
+ > 记者丨孙桐桐特斯拉“隐私门”事件仍在发酵。日前，一段国外黑客发布的特斯拉车内高清画面显示，特斯拉车内摄像头能够清晰地记录驾乘人员的动作、姿态甚至面部微表情。这或许意味着，特斯拉车主的隐私正面临被侵...
+ ## [武汉解封一周年：激光企业过得怎样?](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=U5CcpwAS504cZunA0jJReaADkAPI8PaL1ue7MFxdxT6ncyrhNoNVTSqC221uEtCDZYARK8*ijL-dz6xyEnmINbUPGVB8R7dat1Slj86NHHi9kHLujRThubicDXy7oRkp&new=1)
+ > 2020年1月23日10时起，当时的新冠肺炎重灾区武汉开始实施全面封城，全市城市公交、地铁、轮渡、长途客运暂停运营机场、火车站离汉通道暂时关闭。经过一线医护人员的艰苦奋战及全国人民通力合作，武汉于4月8日零...
+ ## [为什么端到端加密应成为企业的重要事项](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=0knodE8AiE0UpYWVD7rTzqmhYXrbW6wtfZowayxbRAhZhvcHsYbDvDTNnfcv7oTRe2R00QjoW4oysm46fG7RHr6McC3m524DK3ga7A8r1z6oDu5O*ywAZN4Ffze0VI3f&new=1)
+ > 关键讯息，D1时间送达！对于恶意行为者针对互联网服务提供商和政府机构的监视和攻击行为来说，端到端的加密数据将让其难以理解。端到端加密为防止数据泄露提供了强大的屏障。万一恶意行为者入侵企业服务器，他们...
+ ## [倒计时一天|CITE2021 工业互联网发展与安全峰会](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=MEy1JFOp7vyoCE7mVvNT2zxAk7Ju93zigpEkzdd7Qf459-1Q21zPDL9eDqILJOTsrbS-FEooE5HxPQ1y*d8ILcRQM1dUKGRGt2PM6a5hotGCYOnnSePGj5I2g4nRga6N&new=1)
+ > 为深入贯彻落实《工业互联网创新发展行动计划(2021-2023年)》，第九届中国电子信息博览会组委会决定召开“CITE2021工业互联网发展与安全峰会”，坚持“创新为核、安全为先、数据赋能、产业先行”为理念，持续提...
+ ## [很强大：全球3D打印实时快讯微信小程序上线](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=ELCWqlpwbFALFsnBy3xB9t3mFnq6PgPQt-XNi0J4I7sNr8vcIztKgPrkf7XMym*6SD5xrA0j5*BxB5D-eq4gELQQSxoatoNBT76E9Zju*wY356nhk8kTYHdzo98rWlC5&new=1)
+ > 南极熊小通知：国内外3D打印实时快讯微信小程序上线了哦请点击打开体验并收藏。3D打印新鲜事，每天看它就够了。
+ ## [支持加密支付，Signal走上不归路?](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=sZhm*GRmgYSulUbnrnohePa*GYqReqsL9hXImF7NgZ5zcFwgKb5KKRoyLMn3BTVJ08TIHBW7bYmNO8U82MsEyM1lNg8NMEoWR*iqYeO*8xsmYIg1-KjrRussTHuu-7gY&new=1)
  > 本周三，美国大选以来用户群呈爆炸式增长的加密通讯应用Signal宣布，将在其快速增长的加密通信网络中推出用户点对点支付功能。为此，它集成了对加密货币MobileCoin（MOB）的支持。MobileCoin是一种数字现金形式...
- ## [美国关键众议院领导人敦促将网络安全纳入基础设施法案](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=-v7jrM*63JK06xBKPHY*TRxSbVVDmAy8SBxKpvPmM3iYqSQX8z94AknCdUkyRr0TKNEWU0q*AmzD-tTBwLStMXgsb6cadeJo5ewJwO7mjS-G-ZIPZ7VW0NA0kD8rx3kG&new=1)
+ ## [美国关键众议院领导人敦促将网络安全纳入基础设施法案](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=-v7jrM*63JK06xBKPHY*TRxSbVVDmAy8SBxKpvPmM3gv7oh63WZRyhYRqUgcYlHfplpShQNl40-iHpjKJP2cMLDeZaxmoqC9YPYXsRq8MKzZrPXBjOJZqC4NFWOCGUVh&new=1)
  > E安全4月7日讯   众议院代表伊薇特·克拉克众议院重要小组主席周三表示，在围绕拜登总统的基础设施提案进行谈判的过程中，她将敦促纳入保护关键系统的语言。众议院代表伊薇特·克拉克众议院重要小组主席周三表示...
- ## [“全球通蓝色梦想公益计划——筑梦黔行” 系列公益活动为爱起航](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=T9q4GcVvH0w3coXSud0zU2uPb3XtqDK-WbB16TVqBGQj8r9tj24Dqfo1ojY6N9eyR3xbWcNHj399kcGzKwsJ9vcAj9epxbm8t07Pty8jVUs=&new=1)
+ ## [“全球通蓝色梦想公益计划——筑梦黔行” 系列公益活动为爱起航](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=T9q4GcVvH0w3coXSud0zU2uPb3XtqDK-WbB16TVqBGSx4GC1DYSmSBnS*vopuBcNswnLSS4LNPsXSyBbRyqrAEBj8u3L6lkZnTMKr5CDbFU=&new=1)
  > 2020年10月，由中国移动全球通品牌发起，在国家乡村振兴局（原国务院扶贫办公室）的关心指导下，联合教育部、中国教育发展基金会、中国移动慈善基金，共同开展了“全球通蓝色梦想公益计划”。贵州的五个地市...
- ## [HomePod 支持QQ音乐与网易云音乐；小鹏汽车将在武汉建立工厂；小米宣布回购1902万股|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=VZbfZmZp8xq6xWKHeHleeX5uJ0Y9uqp-FZGrA5jCjy8fsVHMZMxXiDqchIPEul1RnG4HvG60hElGICY-QggDe95W8kZAfPx0V30QVrrNxcmMtRqzpGqrsUc5hkc1UPJs&new=1)
+ ## [HomePod 支持QQ音乐与网易云音乐；小鹏汽车将在武汉建立工厂；小米宣布回购1902万股|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=VZbfZmZp8xq6xWKHeHleeX5uJ0Y9uqp-FZGrA5jCjy-hEHGPplHcA7C*9cV7Oj8KHb4NiQX-1H5DcrgA4FbTTmdUNioht*h47SgW5JsyXB7BZs2z5zTN7GPjXD0UZ71p&new=1)
  > 图 / UnsplashHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【HomePod 支持QQ音乐与网易云音乐】HomePod 以及 HomePod mini 推出升级，现已支持QQ音乐、网易云音乐。适配后的 Home
- ## [助力企业重塑业务，亚马逊云科技打造“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=1pRs-KtXvtzVjKDO9RLnHJxaXyy3tIu3Y*SjEL0VLgF6EKP1fV16uF0CK2h127K4xEoUdUuX*ZISs6YyCUsoLwjT*uc6RyhHbgfX0UWqxPEeVEIRGPjEH6EhV*cjD0BF&new=1)
+ ## [助力企业重塑业务，亚马逊云科技打造“三驾马车”](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=1pRs-KtXvtzVjKDO9RLnHJxaXyy3tIu3Y*SjEL0VLgEgOWY1bgeZqacBH2hdz-avI3yiPseypUsNNeH-kUmjG7GNAoPNYkhBpZcTg9LKiw4qDIKNnlT1EaF3TGIHpUDx&new=1)
  > 对于企业来说，重塑业务究竟有多重要？50年前的《财富》500强企业中，如今仍然留在榜单上的只剩下17%；20年前的《财富》500强企业中，如今还在榜单上的公司也只有50%。面对激烈市场竞争中的惊涛骇浪，企业时时刻...
- ## [关于北斗掉线问题，从使用方来谈谈卫星定位的问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=YHHLNQGOwrAwxDxM1o*SD4Px3aoYmsuxi1gEknJSIA-SS2A-opqOVgWyYg4zx4EMLGZNXnu*3ahDL14*yUqWt7CuDqa8TNrfGAtWyHllORV-TSg-3VOmgPQRsRjB5MkD&new=1)
+ ## [关于北斗掉线问题，从使用方来谈谈卫星定位的问题](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=YHHLNQGOwrAwxDxM1o*SD4Px3aoYmsuxi1gEknJSIA8zDUCFh3cgrCLwIg5Uri8ASp1DtyelMZZ0ZcVVuhFJRjhSUUMtEIfHGpomv7bKEU7bnCTP*04J-jPiwSLzhD1p&new=1)
  > 北斗“掉线”，货车司机自杀，由此引发了各方对于卫星导航的高度关注，对于卫星导航的技术问题颇为复杂，柏铭科技尝试从现实使用中来说说卫星导航的应用。笔者在一家非私营客运公司工作，早在数年前，上级部门就...
- ## [天津市人民政府与华为技术有限公司签署深化战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=f04Coma1vwqdQ8wLoixH2WeqqOccKzCWxb*rAN9Uxb6Xj7qXod-ru3C0rN4msKMt*SQVC22HCaXgF*u4CvlOr**uCjrBZ1RohQmYMKz7JFUsBmFwhxy-919WPHYvLIOC&new=1)
+ ## [天津市人民政府与华为技术有限公司签署深化战略合作协议](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=f04Coma1vwqdQ8wLoixH2WeqqOccKzCWxb*rAN9Uxb6vO3K0TZ0wR7kz9XfXww65OQHmlOFKc8EczvrJVfEtpVB89AVLSwndi2azJvLoGFMogtHuzlIPe*mQNqteCLKH&new=1)
  > 4月8日，天津市人民政府与华为技术有限公司（以下简称：华为）签署深化战略合作协议，旨在加快数字产业化和产业数字化转型，深化人工智能产业合作，加快建设“天津智港”。天津市委书记李鸿忠，市委副书记、市长...
- ## [锵锵三人行：祖似杰、李君和贾可，深谈SOA平台](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=LGjtyK*ZMYtBNXCAP9TbBBOVesFIzayEDxWJbF5KUHfwlqvQqwYN3pf3miiaWIkuQL-OLrEGRN7dLwHjYrxEcrxlk0Q3lrkFUF05PkWvE*qjMdi*j6A0WzdZZK2L5NIh&new=1)
+ ## [锵锵三人行：祖似杰、李君和贾可，深谈SOA平台](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=LGjtyK*ZMYtBNXCAP9TbBBOVesFIzayEDxWJbF5KUHfpYNLEbkrEtr4pHmNzykY27hxhnmLRBZQ7rfY2uLIBVjtis3QmSdwVktByyfH3SDxaJfmTvAbIj8RX11psumkR&new=1)
  > 撰文 / 钱亚光编辑 / 张  南设计 / 赵昊然全球首个汽车SOA平台开发者大会？是的，全球，而且首个。那么它是形容SOA平台还是开发者大会的。实际上，兼而有之，两个都是全球首个。谁干的？上汽集团。2021年4月9日...
- ## [7点见|美国将7个中国超级计算机实体列入实体清单；传字节开发独立电商App](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=XFgq0XhGOTkBInE5RWMWpidsxjMiq5dBhD2PZMmw6AX5cUqvhEgifDE3JH5MBw8c4L4JPopODOIkiFj6ixSJXWhqxvc*wNyVJhOiPBrWvm3TFDrBBNP8mD8DMc0qY9F0&new=1)
+ ## [7点见|美国将7个中国超级计算机实体列入实体清单；传字节开发独立电商App](http://mp.weixin.qq.com/s?src=11&timestamp=1617958804&ver=2997&signature=XFgq0XhGOTkBInE5RWMWpidsxjMiq5dBhD2PZMmw6AUFbTPCJPf8qnXNCHxerI8tYNHW-xDO1UDktKj-oKrDKJYFRzqQaU-G9OlIqaa7dy-M9fpLlX4a-RM*qPKVqMK5&new=1)
  > 各位小伙伴早上好呀！ 以下是今天的早报！又打压！美商务部宣称将7个中国超级计算机实体列入“实体清单”俄罗斯卫星网消息称，美国商务部网站8日发布公告宣称，将7个中国超级计算机实体列入所谓“实体清单”，声...
- ## [再见 Win10!下一代操作系统要来了!](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=e5DO2ntOsLgeb6aO-h4icssQGTi7gRoRlLENVbpoVDe8M9AZ7lpmpK*93KuIAHvC6BVj2spzaOF5MStwF-ImiP1TBWxAT8Sl4aJQ2wKu9UAOX*zw4pKdjoISeVxNJFP3&new=1)
- > 来自：快科技，作者：雪花链接：https://news.mydrivers.com/1/735/735091.html据最新消息称，Windows 10X有望于春季结束前向OEM厂商推送。起初微软希望为双屏设备打造专属的Windows 10
- ## [全屋Wi-Fi，你真的了解吗?来看看华为的全面解读](http://mp.weixin.qq.com/s?src=11&timestamp=1617940804&ver=2997&signature=-3W9vSa1TdYEci*e8Nl*WMz2zwO*OlCtQN902JIDW2O6oBCikAFIOwKa5g6y3urvrAERUQtyBygrfvQVXPw3ZlWFlyf*TZji4XhB5Joy*SWjnNQWGe90MrOhQXoVe23i&new=1)
- > 以前，家庭宽带上网只是浏览网页、聊聊QQ，对Wi-Fi网络性能要求不太高，只需单路由覆盖家中主要活动区域就行了。但随着视频、直播、游戏等应用兴起，对沉浸式和互动体验要求更高，对家庭Wi-Fi网络的覆盖、速率、...
 # IT 技术 
- ## [在Ubuntu Linux上安装Windows 10的最简单方法](http://os.51cto.com/art/202104/656560.htm)
- > 在Ubuntu Linux上安装Windows 10的最简单方法
  ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
  > 自动化框架Selenium与Cypress，哪家强？
  ## [奔溃！老板叫我设计一个亿级API网关](http://network.51cto.com/art/202104/656469.htm)
@@ -47,28 +59,30 @@ categories: IT NEWS
  > 鸿蒙开源第三方组件―uCrop_ohos图片裁剪组件
  ## [创建一个成熟的GitOps流水线，需要做哪些决定？](http://developer.51cto.com/art/202104/656537.htm)
  > 创建一个成熟的GitOps流水线，需要做哪些决定？
- ## [Linux生产环境Oracle RAC集群安装配置与管理_Oracle 11gR2 RAC培训教程7](http://fellow.51cto.com/art/202012/637836.htm?qd=51ctojrzd)
- > Linux生产环境Oracle RAC集群安装配置与管理_Oracle 11gR2 RAC培训教程7
- ## [云计算发展和变化的7种方式](http://cloud.51cto.com/art/202104/656565.htm)
- > “云”是人们一直在使用的定义并不明确的术语之一。就像政客在陷入困境时喜欢说解决问题的方法更多的是“教
- ## [企业在应用人工智能时不可不知的5个误区](http://ai.51cto.com/art/202104/656562.htm)
- > 研究表明，70%以上的企业如今将人工智能视为游戏规则的改变者。然而，目前使用人工智能或计划很快使用人工
- ## [一篇带给你Go 语言的数组与切片](http://developer.51cto.com/art/202104/656561.htm)
- > 数组是一组类型相同的，长度固定的，按数字编号排列的数据序列。由于 go 语言中，数组的类型相同且长度固定
- ## [详解SQL中的排名问题](http://database.51cto.com/art/202104/656555.htm)
- > 今天给大家介绍一下SQL Server排名中经常用到的ROW_NUMBER()，RANK()，DENSE_RANK()，NTILE()这四个好兄弟
- ## [下一代信息技术：自旋电子学革命可能就在一念之间](http://news.51cto.com/art/202104/656559.htm)
- > 自旋电子学是一种利用电子自旋方向而不是电荷来编码数据的新型电子学。尽管科学家们在这个非常年轻的领域取
- ## [减掉臃肿软件数量！Windows 10 21H2优化设置：增强屏幕/摄像头](http://os.51cto.com/art/202104/656551.htm)
- > 代号为 Sun Valley，即将于今年秋季到来的Windows 10 21H2功能更新将进一步优化和整合设置应用。在今天发布
- ## [分享一些提升编程效率的轮子](http://developer.51cto.com/art/202104/656553.htm)
- > Python 是世界上最受欢迎的编程语言之一，只要你有需求，Python 就有对应的解决方案，仅 PyPI 就有 4.7 万
- ## [MIT科学家设计的新系统可以在几小时内创造出海星机器人](http://news.51cto.com/art/202104/656556.htm)
- > 据外媒报道，在研究水下海洋生物时，如果能使用一种不会因为对动物来说显得不自然而吓到它们的设备，就会有
- ## [大数据安全分析之网络安全10大安全漏洞盘点](http://bigdata.51cto.com/art/202104/656550.htm)
- > 以下为大数据安全分析之网络安全10大安全漏洞盘点的相关知识整理，以供大家参考。
- ## [为什么端到端加密应成为企业的重要事项](http://netsecurity.51cto.com/art/202104/656548.htm)
- > 近年来，端到端加密已变得非常流行，尤其是在消费者消息传递应用程序市场中。Signal、Telegram、WhatsApp、
+ ## [在Ubuntu Linux上安装Windows 10的最简单方法](http://os.51cto.com/art/202104/656560.htm)
+ > 在Ubuntu Linux上安装Windows 10的最简单方法
+ ## [【曾贤志】Excel实战应用教程（办公小白从这里开始 2013版）](http://fellow.51cto.com/art/202101/639799.htm?qd=51ctojrzd)
+ > 【曾贤志】Excel实战应用教程（办公小白从这里开始 2013版）
+ ## [2021年颠覆科技界的10大物联网趋势](http://iot.51cto.com/art/202104/656599.htm)
+ > 在整个2021年，通过一些新技术的兴起和现有技术的加速，我们将看到一些有趣的发展。看看来自不同提供商的各
+ ## [推荐 10 个标星 100 K 的 GitHub 开源项目](http://news.51cto.com/art/202104/656596.htm)
+ > 这是一个 102K Star 的开源项目，这个仓库汇集了诸多优质资源，教你如何构建一些属于自己的东西，内容主要
+ ## [大佬，第三方组件的Hooks为啥报错了？](http://developer.51cto.com/art/202104/656594.htm)
+ > 有朋友在工作中遇到了一个问题，第三方组件的Hooks为啥报错了？本篇就详细介绍一下解决的过程。
+ ## [扫码支付要被淘汰！二维码退出历史舞台已成定局](http://network.51cto.com/art/202104/656590.htm)
+ > 无论从安全性、便捷性上，借由数字人民币催生的数字钱包一定会取代二维码，二维码退出历史舞台已成定局。
+ ## [CPU比GPU训练神经网络快十几倍，英特尔：别用矩阵运算了](http://news.51cto.com/art/202104/656589.htm)
+ > 神经网络训练通常是 GPU 大显身手的领域，然而莱斯大学和英特尔等机构对 GPU 的地位发起了挑战。
+ ## [投资加密货币会有哪些风险？](http://blockchain.51cto.com/art/202104/656588.htm)
+ > 作为一种全新的数字化发明，对于某些人来说，可能很难理解是什么赋予了比特币，以太坊或数千种不同的加密货
+ ## [4月编程语言排行Fortran 击败 Objective-C](http://developer.51cto.com/art/202104/656587.htm)
+ > 时隔7年，Objective-C首次跌出TOP20，Swift上位成功。随着跨平台工具的崛起，以及全球数字化进程的加快，还
+ ## [树莓派驱动，MIT打造的寄居蟹机器人「能做任何事」](http://news.51cto.com/art/202104/656591.htm)
+ > 如何能让动作有限的机器人掌握无数种能力？MIT 研究者们从会换住所的寄居蟹那里得到灵感，开发出了换壳机器
+ ## [人工智能在物流运输中的未来作用](http://ai.51cto.com/art/202104/656586.htm)
+ > 随着物流和货运组织变得越来越数字化，企业将能够收集越来越多的关于其客户、供应链、交货、车队、司机等方
+ ## [2021年，你选择使用iPhone还是Android手机？](http://mobile.51cto.com/ahot-656585.htm)
+ > 关于iPhone和Android手机哪个好用的讨论从未停止，有人喜欢iPhone的简洁流畅，有人钟爱安卓的开源开放，两
  ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
  > 0 基础 Java 自学之路（2021年最新版）
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -77,8 +91,8 @@ categories: IT NEWS
  > 
  ## [3w 字长文爆肝 Java 基础面试题！太顶了！！！](https://blog.csdn.net/qq_36894974/article/details/115505102)
  > 3w 字长文爆肝 Java 基础面试题！太顶了！！！
- ## [TensorFlow2入门指南 | 02 回归问题实战](https://blog.csdn.net/wjinjie/article/details/115533903)
- > TensorFlow2入门指南 | 02 回归问题实战
+ ## [80行快乐代码与你窥探爬虫的数据深渊——教你如何高效快速任意爬虫（附大量项目案例和语法解析文章）](https://blog.csdn.net/weixin_47723732/article/details/115547779)
+ > 80行快乐代码与你窥探爬虫的数据深渊——教你如何高效快速任意爬虫（附大量项目案例和语法解析文章）
  ## [webpack5 基础配置（2） postcss使用  file-loader](https://blog.csdn.net/lin_fightin/article/details/115098438)
  > webpack5 基础配置（2） postcss使用  file-loader
  ## [我奶奶都能看得懂的超详细万字讲解——线程操作图片粒子化飞散及复原](https://blog.csdn.net/yuanrunze/article/details/115456318)
@@ -153,23 +167,5 @@ categories: IT NEWS
  > CDO作为企业数字化转型的主要推动者，在进行数字化转型之前，首先要确定资金和目标。是否拥有充足的资金决定了企业能否顺利推进数字化转型。因此，CDO需要规划企业数字化转型所需的资金，确保转型中可用的资金充足，并拟好自己的KPI。
  ## [昨天数据为何跌了30%？4个技巧轻松应对老板发问](http://www.chanpin100.com/article/114462)
  > 在职场上，背KPI指标的同学都知道，遇到下面这种情况，一定是头皮发麻、肾上腺素激增的。那就是，老板突然在微信群里发问，昨天的数据为什么下跌了30%？为了表示积极，作为小弟的我们秒回了句：稍等我去看下。
- ## [关于知识付费项目的五大总结](http://www.chanpin100.com/article/114429)
- > 当前的知识付费的整个市场是什么样的情况？今年出的关于整个去年知识付费的一些数据报告，整理得出三条结论和特点。
- ## [【to B管理端】消息反馈设计盘点](http://www.chanpin100.com/article/114460)
- > 消息反馈按照消息的操作方角度分类，可分为主动消息和被动消息，主动消息是用户主动操作后，系统提示的消息，比如toolTip、toast、dialog。被动消息是用户被动提醒的系统消息，比如平台公告、站内信。
- ## [斯图飞腾Stratifyd携手全球领先洗护品牌 数据赋能决策升级](http://www.chanpin100.com/article/114426)
- > 近日，Stratifyd与全球某知名洗发护发品牌正式达成合作。该品牌将借助Stratifyd敏捷AI驱动的体验分析平台，提升用户需求挖掘与市场竞争力分析，更精准地把握消费者心理，了解市场发展动态，抢占发展先机。
- ## [屏幕背后的秘密：4大国产终端厂商用户都是谁？](http://www.chanpin100.com/article/114425)
- > 移动终端，在今天来看，已经不仅仅是作为通讯设备，更是被当作钱包、是读物、是社交工具、是娱乐载体……特别是在竞争日趋激烈的智能手机市场，每一个细节都有可能造就新的风口，而了解品牌背后的用户画像，知道终端用户的需求、喜好、消费观等，就显得尤为重要。
- ## [数字化时代都说企业转型迫在眉睫 如何转型成了关键？](http://www.chanpin100.com/article/114421)
- > Hightopo就是通过数据进行科学决策，充分重视数据的留存和运用，为金融企业、医疗机构、政府系统、电信企业等都提供大量优质信息。 数字化正在以前所未有的速度重塑着商业蓝图，图扑（Hightopo）数字化案例恰好可以满足企业转型需求，为企业达成高效率低成本目的。
- ## [山顶Talk第二十二期：从知乎上市解读兴趣社区发展逻辑](http://www.chanpin100.com/article/114457)
- > 随着5G等通信技术的革新,用户流量红利也接近尾声,而“内容为王”的理念至今却仍未过时,由此所诞生的内容社区也随着中文互联网的演进而不断精细化发展。其中,知乎作为最受瞩目的品牌之一,也从曾经的 “高端小众社区”,转变为坐拥亿级大众用户规模的内容社区,并成功在纽交所挂牌上市,在这背后,也有着许多值得挖掘
- ## [【数智对话专栏】政府如何推进数字化转型构建数字经济？](http://www.chanpin100.com/article/114419)
- > “数智对话专栏”精选于2021企业数字化转型落地高峰论坛暨《数字化转型方法论》新书发布会上的嘉宾所提到的精彩观点。本文将为读者带来由河南省文化和旅游厅信息中心主任李全民、首席数据官联盟会长刘冬冬、佳格天地董事长张弓、国云数据创始人马晓东四位大咖分享的《政府如何推进数字化转型，构建数字经济》精彩内容。
- ## [管理者必看！你花很多钱做的数据中台可能是假的](http://www.chanpin100.com/article/114389)
- > 如今，数据中台受到数字化转型企业的追捧，市场上出现了很多所谓的“数据中台”，真伪难辨、乱象横生。
- ## [规范在线教育有序发展 加大线上教育资源建设](http://www.chanpin100.com/article/114388)
- > 2020年已经过去，在这个特殊的一年里，经过疫情刺激，学生得到了很好的市场教育，各大在线教育平台高速发展，在线教育行业迎来新一轮的疯狂增长。
 
     
