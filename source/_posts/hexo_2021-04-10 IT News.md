@@ -1,32 +1,42 @@
 ---
 title: 2021-04-10 IT News
 copyright: true
-date: 2021-04-10 12:00:55
+date: 2021-04-10 17:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [阿里因「二选一」被重罚 182 亿元；谷歌首款智能手表曝光；顺丰巨亏 9 亿跌停，王卫道歉|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=9cTsFa6Wjsrh36B8oWt3K5KNl69MHLuVsvN9GGRAtoGn0NPoUerkUe9hYhb7lVDW8HrwoLyKuWIS55OoBOBdEF9dEsRVw3pVchKE0bbUhi2-2SQ2qhTi2n27rRYJ6tzI&new=1)
+ ## [华为云又变阵!人事架构一周两次大调整，徐直军任董事长、余承东为CEO](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=SX*bkz1M2OitEb34TmgYWGiaerEK4tiSrsyuxS983R8giuuxPipbHk7TOccVolkyZ4t18fsqdL*GFj7L3icK6GKjAG5Alk6fo3lRibGZBuig0lu5lL*nJsyNiBEWNH1g&new=1)
+ > 【摘要】华为云是不是要独立运营了？| 科 | 技 | 杂 | 谈 |中国通信行业第一自媒体本文作者：杨丽本文来源：雷锋网（leiphone-sz）杂谈投稿邮箱：631255063@qq.com据第一财经等多家媒体报道，4月9日下午，华为再...
+ ## [加注数字化时代 英特尔发布第三代可扩展处理器](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=Jwfowi9lXiZRJvXBYfhLGz3Zo-a4wSAPmeZkI0b5r3tlfToUsv0dMOTQxkcSBaKznaVebuwqvY-nqC9qnx7dRn3wyxR8Q8NaLIVLU2aN3lc=&new=1)
+ > 经济观察网 沈建缘 实习记者 张迅之/文 为了继续推动以数据为中心的战略，4月7日，芯片制造厂商英特尔在北京宣布推出全新的数据中心平台。该平台以英特尔首款采用10nm制程工艺设计生产的第三代英特尔®至强®可...
+ ## [5G光通·承载未来!2021讯石厦门光通信高峰论坛成功举办!](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=07Ub1VQP5V0mctIGbCM4YICW6nBdSOIsDL-ZRSoR8PAgustZZ2j82ftG2TqHAaRxXli7IU2CsSewrJHZjJOBWX*MWeQpHiopyLge8c*CDMejszwOUUQrKaWOAjVe-Olw&new=1)
+ > 新闻导读4月9日，《2021讯石厦门光通信高峰论坛》在厦门成功举办，本次会议由讯石咨询主办、三安集成协办，厦门优迅、三优光电、特发信息、VIAVI和芯诺通讯提供支持，本次论坛出席嘉宾约370余人，参会单位及企业...
+ ## [解读同带泵浦技术：超大功率光纤激光器的必选路线](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=0ELTT31AbW1a-DkcX7Eazl*qrv9cuJEGsfowYRIroJeI6MF6LyLH83Klu9wdLuveXxL7XqXBMvDqGmVWcwh8MVoE-Cw1vQZixDnethJMwx*YwloGmbrMOm2BD1pXH5wm&new=1)
+ > 光纤激光器结构紧凑、电光效率高，一个重要的原因是采用半导体激光器作为泵浦源。半导体激光器采用PN结作为发光光源，电泵浦直接出光，电光效率在50%左右。目前单芯片出光功率已经突破30W，采用空间合成、偏振合...
+ ## [市科协调研欧莱雅中国研发和创新中心](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=4aGlncDcUjuQasnXp3p5Nj0NXeHYL2oISgn-3OWDOrfNtmj3k7wG8n7JQej6fZzOZ*tvrLyISRVv4zSFaERRvGvLGu-*dxv-c3Eu2CJRi-ij9nneY*PYIZzpYeZU4WWh&new=1)
+ > 为加强与世界500强企业交流与合作，协同推进“国际科技会客厅”建设，4月7日，市科协党组书记、副主席马兴发带队赴欧莱雅中国研发和创新中心调研，与企业相关负责人进行交流座谈。　　欧莱雅中国研发和创新...
+ ## [阿里因「二选一」被重罚 182 亿元；谷歌首款智能手表曝光；顺丰巨亏 9 亿跌停，王卫道歉|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=9cTsFa6Wjsrh36B8oWt3K5KNl69MHLuVsvN9GGRAtoHWKmRWIaQPvZuRKjBFQRcyinwJouBWaaV*QPlpvhUDy5gE3lG65JdaBb6spJ9Wdp2o4Xs67D4MYOe2RIX4OniK&new=1)
  > 朝公司「独立化」运作？华为云新人事任命：徐直军任董事长4 月 9 日下午，华为再次发文对华为云业务进行了新的人事任命。记者从多个独立信源了解到，在此次任命中，华为轮值董事长徐直军被任命华为云董事长，华...
- ## [手把手教你使用 AdGuard，告别广告烦扰和隐私泄露，还能运行脚本](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=Y9BwcKxaNk7lgTnY1o3RqY9EvJK8lhK1pUaEb*ya4Wg4D6XvGMzl5drCO9C368*rZG0IapBKO8-rRyAsmvnytEwKa9jI3ivGtPym7jihDJi*HHSsO3Ln1d4agGezFQQ8&new=1)
- > AdGuard 是强大的广告拦截专家，可帮助你清除浏览器页面广告、保护隐私防止追踪，让你不再受恶意软件的困扰、还可以替代油猴插件来安装运行浏览器脚本。- 强大的广告拦截高效阻挡各种类型的广告、减少页面加载时...
- ## [UNIZ新一代齿科专用光固化3D打印机SLASH 2 PLUS亮相健博会](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=bIlewh4eGvOXpY0NA0Fv0GsBUcyAXF*vJchEni6lZYN6tP0GdQaK0i-TJGAgsE2aro9CtSd12FcHFytnkRj8jCDLMckiEKArQ2qaCWL9l-MwPhyzlTnNolim2TMhzeqr&new=1)
- > 小通知：国内外3D打印实时快讯微信小程序上线了哦，请点击进入全球3D打印实时快讯 在全球许多国家尚未摆脱疫情阴霾笼罩的大背景下，2021年4月8日至11日，世界大健康博览会在成功“战疫”令世界惊叹的武汉如期举...
- ## [创·未来|创想三维7周年庆典暨3D打印产业峰会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=j8kawCiB85KuTKPYBSTbjG60weUbUvr4IEiu420ciSVmLhJHzfaLAgwDtUPm8m3y-9rz*Dq6vagXcDGt2aBccT4ahhvd9taxYuOgKSWD6rn5fjaYnP4sr2z*dugI-J2q&new=1)
- > 2021年4月9日下午，以&quot;创·未来&quot;为主题的创想三维7周年庆典暨3D打印产业峰会在深圳宝立方国际酒店圆满举办。创想三维联合创始人陈春、刘辉林、敖丹军、唐京科以及来自业内外的领导嘉宾、精英人士、媒体等1000多...
- ## [\[报告\]2020中国智能汽车产业研究(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=s48rNwPvjp8-k917EanqrJba5iCJ5ha7C2IA-ihwZ--eL1FfLPH4llq7WXx0Te3Ayde1piLUUsz7oovqUGc9gVMJ8OXVqqjPYBwyJ7mMVLEhvSwb02u4zPhAMBoDeM*N&new=1)
+ ## [\[报告\]2020中国智能汽车产业研究(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=s48rNwPvjp8-k917EanqrJba5iCJ5ha7C2IA-ihwZ--EFW9vWsGHJ5P4U0I*CydC5uVzpHgzO3oIar09SOH27Jxj5j8p03Iiebman64JocXMEsYSAaB0Bk*mmEwriwEt&new=1)
  > 随着能源、环境、安全及交通拥堵所带来的问题日益凸显，智能汽车能够综合实现安全、节能、环保及舒适行驶，提高交通效率，成为当前汽车产业的创新热点和发展方向。在信息化浪潮中，物联网、云计算、大数据、移动...
- ## [为什么说2021是数字化转型关键年?](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=7CMDiLA4sH55SUvrdb3C-o89gGOOEX6COpWZbvhKfIQDSuR849qfechLT6aEkOYQvPnuZvkrnqznTDv7fUD9BKN-s8Trk7s7U01q4qsAJTzGzebX*CthFVCrCg3E152R&new=1)
+ ## [创·未来|创想三维7周年庆典暨3D打印产业峰会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=j8kawCiB85KuTKPYBSTbjG60weUbUvr4IEiu420ciSUGurmeMO0pNuOwO1xugUxTIC2Xp0QqVTRTVEPI8*WKl2sQPCCtx9UCSH1ofSzAq4-ZM9PMnWwl3BZWI*eTw5hf&new=1)
+ > 2021年4月9日下午，以&quot;创·未来&quot;为主题的创想三维7周年庆典暨3D打印产业峰会在深圳宝立方国际酒店圆满举办。创想三维联合创始人陈春、刘辉林、敖丹军、唐京科以及来自业内外的领导嘉宾、精英人士、媒体等1000多...
+ ## [手把手教你使用 AdGuard，告别广告烦扰和隐私泄露，还能运行脚本](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=Y9BwcKxaNk7lgTnY1o3RqY9EvJK8lhK1pUaEb*ya4WjmdvopwTB71F2ZuLyDC4OTHgIbvzcveWWLgHLzVIO*86O0Hw5aEF-0gE-SQ4OhTWObK61qOpvMmfYrAjbAzdSP&new=1)
+ > AdGuard 是强大的广告拦截专家，可帮助你清除浏览器页面广告、保护隐私防止追踪，让你不再受恶意软件的困扰、还可以替代油猴插件来安装运行浏览器脚本。- 强大的广告拦截高效阻挡各种类型的广告、减少页面加载时...
+ ## [UNIZ新一代齿科专用光固化3D打印机SLASH 2 PLUS亮相健博会](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=bIlewh4eGvOXpY0NA0Fv0GsBUcyAXF*vJchEni6lZYN26bJLw8PrQSoJTrjo3yGL9t0pl4VXjxeiTQhWDnrk4WwhgRSBEN0ZZPBQI8F5NHTqj*bsyQAo5ntB8AOO0zd*&new=1)
+ > 小通知：国内外3D打印实时快讯微信小程序上线了哦，请点击进入全球3D打印实时快讯 在全球许多国家尚未摆脱疫情阴霾笼罩的大背景下，2021年4月8日至11日，世界大健康博览会在成功“战疫”令世界惊叹的武汉如期举...
+ ## [为什么说2021是数字化转型关键年?](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=7CMDiLA4sH55SUvrdb3C-o89gGOOEX6COpWZbvhKfIQ1I*C22KdJ2kEXntczQIGoen8YPOZeN3iGc3km0H*hFdkjfDwDWltLUlRIpnCPN4Xd6MAMDV0EuZg*58qZ-6xh&new=1)
  > “加快数字化发展，协同推进数字产业化和产业数字化转型，建设数字中国。”这是李克强总理在今年政府工作报告中提到的内容。值得注意的是，数字化转型在今年两会期间被多次提到，可以预见，2021年将是重点围绕数...
- ## [今天的深圳又刷屏了!第九届中国电子信息博览会在这里开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=qm7Kd0ihJC4x7hSrouHp-9YG1Jr8t*CtjmbFXdUlb6gm1o4EPhQsr8bQ1Y9DOXumglmNylJ5JcYPmS*m0hf8aT42TDbXWRFGXKQEdHJoMo8MSaMatCQDkCHjktSqkFVn&new=1)
+ ## [今天的深圳又刷屏了!第九届中国电子信息博览会在这里开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=qm7Kd0ihJC4x7hSrouHp-9YG1Jr8t*CtjmbFXdUlb6hUa0IdPm3zdbdxEIlmlNgrsdVLMggDkD3hdCFV19nRXqKlj2HF*UAhpjh-4ei5FrKJ8o*hXcTUE1oqmrIXEx9J&new=1)
  > 4月9日，第九届中国电子信息博览会（简称CITE2021）在深圳举办。深圳市人民政府市长陈如桂、广东省人民政府副秘书长陈岸明、工业和信息化部电子信息司司长乔跃山出席开幕式并先后致辞。北京大学教授、工业和信息...
- ## [多举措开展 党史学习教育](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=xJhEHXLJhBzJlSDJf6ReRBRi9kuOkuHyFB8d2fX338SVcm9U2TXkGjnRsMkSf*2duoundhe0Dy3fXOr8LMz5YXXpEgtSTRYfewD1DZrTpWQ=&new=1)
+ ## [多举措开展 党史学习教育](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=xJhEHXLJhBzJlSDJf6ReRBRi9kuOkuHyFB8d2fX338RhUGELN*zt4DIACWlEcDpukrKgO5t*Ja4Pa5iy83C4ruM65vbTFJ*rnHWahmgZteo=&new=1)
  > 本报讯 连日来，市工商产业投资集团公司党委多举措开展党史学习教育。　　推出“党史一刻”学习专栏。依托企业微信公众号和官网主页， 推出“党史一刻”学习专栏，每天推送1篇有关党史的文章供全体党员干部...
- ## [智能门禁在社区安全建设中扮演着重要角色](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=uTE26TRLFwwVIyVVGp87Dx3En*zPJL2PxS5mg4PvPgqRTOgBSFNueOqnGqFRmY72w-cHcfrgqu24fqMemZ2sbpGNl5benpO0-KvHya-xjWYOKAcB33ptyBPRc3ENeRKS&new=1)
+ ## [智能门禁在社区安全建设中扮演着重要角色](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=uTE26TRLFwwVIyVVGp87Dx3En*zPJL2PxS5mg4PvPgpPPNdu413lt9HG5DEfBucqCkPf9qur0L6VgGQARq4gopLqw5stKlTWxrNTSYXYH*B6C4r31irigty6qnhmfJnF&new=1)
  > 随着物联网技术不断升级，智能门禁、智能停车、智能监控等系统逐渐成为智慧社区的主力。在安全建设与便捷性上不断提升，给社区居民生活带来科技体验与上佳感受。智能门禁作为智慧社区模块的一部分，在社区安全建...
- ## [PON方案VS全光以太网，谁能破解园区业务承载挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=YyoxcliaL6DYGzcPBuRuw9pp4sCatUwnJ2qWmzTruxf3MEbe*I36lo40BTRpHOsn2FCnuWgUpNgKPQIgYWdp60nRyXOdMVoJ7z08movw0qGz7cdqKEiNtGGaPPm8meG1&new=1)
+ ## [PON方案VS全光以太网，谁能破解园区业务承载挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=YyoxcliaL6DYGzcPBuRuw9pp4sCatUwnJ2qWmzTruxdPkNpXonC89NgvBwzxmddUFubIcgj3-xLu7Jvazypu87QpkyU1-aultcQJKyegZz3HdT8AX2Zunh7KtOBH*Ny-&new=1)
  > 3月初，我国在政府工作报告中提到了“加大5G网络和千兆光网建设力度，丰富应用场景”，全光网络又一次成为基础网络领域所关注的热点。其实，在学校、医院等园区，网络升级需求旺盛。比如在教育行业，中国规划202...
- ## [爱立信CEO鲍毅康复盘：2020年扭转乾坤 员工是战略核心](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=soSjKO4fbCddL4YmY-gxKsZzUVGjNn8mjpRDsVV8dRpjFIDSHnRCwm9Tt4gXwYoGg65CDreEszSHQPF-JZklLZkKLHJa1VeHdcqK88oG31EgrvDnLvdA4Eycz-OmjGD*&new=1)
+ ## [爱立信CEO鲍毅康复盘：2020年扭转乾坤 员工是战略核心](http://mp.weixin.qq.com/s?src=11&timestamp=1618045204&ver=2999&signature=soSjKO4fbCddL4YmY-gxKsZzUVGjNn8mjpRDsVV8dRryPOnjV7tVZTxxLj7isrTx6F*MayNTQC0s3sHLyaTFnhSui*QmB8r1wv2-SWQ5313S04SZkF-kG-1oOQxjPafO&new=1)
  > 在爱立信2021年股东对话大会上，爱立信总裁兼首席执行官鲍毅康（Börje Ekholm）总结了2020年期间企业的重点业务战略、财务表现以及应对全球疫情时的所采取的措施。扭转乾坤爱立信在过去一年中实现了财务目标，...
 # IT 技术 
  ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
@@ -43,8 +53,10 @@ categories: IT NEWS
  > 创建一个成熟的GitOps流水线，需要做哪些决定？
  ## [在Ubuntu Linux上安装Windows 10的最简单方法](http://os.51cto.com/art/202104/656560.htm)
  > 在Ubuntu Linux上安装Windows 10的最简单方法
- ## [2021年软考系统集成项目管理工程师--基础知识（下）视频培训课程](http://fellow.51cto.com/art/202101/639110.htm?qd=51ctojrzd)
- > 2021年软考系统集成项目管理工程师--基础知识（下）视频培训课程
+ ## [企业级WebLogic12c集群配置与项目实施_WebLogic中间件维护与管理05](http://fellow.51cto.com/art/202012/637240.htm?qd=51ctojrzd)
+ > 企业级WebLogic12c集群配置与项目实施_WebLogic中间件维护与管理05
+ ## [Plausible：注重隐私的 Google Analytics 替代方案](http://os.51cto.com/art/202104/656664.htm)
+ > Plausible是一款简单的、对隐私友好的分析工具。它可以帮助你分析独立访客数量、页面浏览量、跳出率和访问
  ## [用.env文件为NodeJS加载环境变量](http://developer.51cto.com/art/202104/656663.htm)
  > 使用环境变量是配置 Node.js 程序的好方法。而且许多包或模块可以基于不同的 NODE_ENV 变量的值表现出不同
  ## [终于有人把OSI和TCP的作用讲清楚了](http://network.51cto.com/art/202104/656662.htm)
@@ -63,38 +75,6 @@ categories: IT NEWS
  > 研究人员在报告中表示，这种类型的攻击代表着Charming Kitten(也称为Phosphorus，Ajax或TA453)在网络攻击目
  ## [微软 Windows 10将添加 “设备用法”提示功能，以帮助小白用户使用电脑](http://os.51cto.com/art/202104/656655.htm)
  > 微软将在 Windows 10“个性化”设置中添加一项名叫 “设备用法(Device Usage)”的选项，该选项开启后，Wind
- ## [微软 Edge 浏览器测试 Workspaces 功能，类似 Chrome 的标签分组](http://os.51cto.com/art/202104/656654.htm)
- > Chrome浏览器有一个标签组（Tab Groups）功能，对于需要经常打开大量网页的用户非常好用，可以让用户减少标
- ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
- > 0 基础 Java 自学之路（2021年最新版）
- ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
- > 
- ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
- > 
- ## [3w 字长文爆肝 Java 基础面试题！太顶了！！！](https://blog.csdn.net/qq_36894974/article/details/115505102)
- > 3w 字长文爆肝 Java 基础面试题！太顶了！！！
- ## [Spring Boot简介与快速搭建](https://blog.csdn.net/jiuqiyuliang/article/details/115554161)
- > Spring Boot简介与快速搭建
- ## [一款可以让大型iOS工程编译速度提升50%的工具](https://blog.csdn.net/MeituanTech/article/details/114260817)
- > 一款可以让大型iOS工程编译速度提升50%的工具
- ## [Golang------Linux环境安装](https://blog.csdn.net/IvyXYW/article/details/114966232)
- > Golang------Linux环境安装
- ## [Spring源码之动态代理实现](https://blog.csdn.net/huangzhilin2015/article/details/115255075)
- > Spring源码之动态代理实现
- ## [C(Csharp)基础教程(上)(菜鸟教程笔记)](https://blog.csdn.net/mahoon411/article/details/109442403)
- > C(Csharp)基础教程(上)(菜鸟教程笔记)
- ## [FPGA数字滤波----梯形成形设计](https://blog.csdn.net/qq_46907522/article/details/114342696)
- > FPGA数字滤波----梯形成形设计
- ## [简单的学生成绩管理系统](https://blog.csdn.net/qq_46062435/article/details/114838800)
- > 简单的学生成绩管理系统
- ## [Linux 常用命令集合](https://blog.csdn.net/weixin_44451022/article/details/115416046)
- > Linux 常用命令集合
- ## [Javascript常用函数、方法速查手册（建议收藏）](https://blog.csdn.net/weixin_43742274/article/details/115288667)
- > Javascript常用函数、方法速查手册（建议收藏）
- ## [普歌-前端复习总结HTML+CSS-超详细，超全面（内容较多，建议收藏）](https://blog.csdn.net/weixin_52791256/article/details/115405104)
- > 普歌-前端复习总结HTML+CSS-超详细，超全面（内容较多，建议收藏）
- ## [0行代码，实现植物大战僵尸脚本](https://blog.csdn.net/weixin_43691058/article/details/115475885)
- > 0行代码，实现植物大战僵尸脚本
 # 人工智能 
  ## [百万年薪程序员必会的五种技术](https://blog.csdn.net/weixin_42259925/article/details/109395988)
  > 百万年薪程序员必会的五种技术
