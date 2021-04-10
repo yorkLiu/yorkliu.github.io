@@ -1,20 +1,32 @@
 ---
 title: 2021-04-10 IT News
 copyright: true
-date: 2021-04-10 10:01:02
+date: 2021-04-10 12:00:55
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智能门禁在社区安全建设中扮演着重要角色](http://mp.weixin.qq.com/s?src=11&timestamp=1618018204&ver=2999&signature=uTE26TRLFwwVIyVVGp87Dx3En*zPJL2PxS5mg4PvPgrmP7pl6VhZ0qOT2-3qlm2JHCxG8lZq-Um*KygCVOiTjbdeXfaKEhikh0PJm41ZzmbhK6W*feHdh2f7lJhXGiKt&new=1)
- > 随着物联网技术不断升级，智能门禁、智能停车、智能监控等系统逐渐成为智慧社区的主力。在安全建设与便捷性上不断提升，给社区居民生活带来科技体验与上佳感受。智能门禁作为智慧社区模块的一部分，在社区安全建...
- ## [PON方案VS全光以太网，谁能破解园区业务承载挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1618018204&ver=2999&signature=YyoxcliaL6DYGzcPBuRuw9pp4sCatUwnJ2qWmzTruxc0aB9qDflru6bf*nZhhV6E6YnaEM3v6504n0Y0UR*e2hpaiQvlO9V8bbPeSWhAjUGEd1kDTqI8e3sMWcfOffIK&new=1)
- > 3月初，我国在政府工作报告中提到了“加大5G网络和千兆光网建设力度，丰富应用场景”，全光网络又一次成为基础网络领域所关注的热点。其实，在学校、医院等园区，网络升级需求旺盛。比如在教育行业，中国规划202...
- ## [为什么说2021是数字化转型关键年?](http://mp.weixin.qq.com/s?src=11&timestamp=1618018204&ver=2999&signature=7CMDiLA4sH55SUvrdb3C-o89gGOOEX6COpWZbvhKfITLezQGvazVxPFBW71d-*buIhQ0yr82SutL8M7qAwoZ4grMYYUVU8ZKPZOQ61QOKDc--TCnX5aU66kMEW2fFpq2&new=1)
+ ## [阿里因「二选一」被重罚 182 亿元；谷歌首款智能手表曝光；顺丰巨亏 9 亿跌停，王卫道歉|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=9cTsFa6Wjsrh36B8oWt3K5KNl69MHLuVsvN9GGRAtoGn0NPoUerkUe9hYhb7lVDW8HrwoLyKuWIS55OoBOBdEF9dEsRVw3pVchKE0bbUhi2-2SQ2qhTi2n27rRYJ6tzI&new=1)
+ > 朝公司「独立化」运作？华为云新人事任命：徐直军任董事长4 月 9 日下午，华为再次发文对华为云业务进行了新的人事任命。记者从多个独立信源了解到，在此次任命中，华为轮值董事长徐直军被任命华为云董事长，华...
+ ## [手把手教你使用 AdGuard，告别广告烦扰和隐私泄露，还能运行脚本](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=Y9BwcKxaNk7lgTnY1o3RqY9EvJK8lhK1pUaEb*ya4Wg4D6XvGMzl5drCO9C368*rZG0IapBKO8-rRyAsmvnytEwKa9jI3ivGtPym7jihDJi*HHSsO3Ln1d4agGezFQQ8&new=1)
+ > AdGuard 是强大的广告拦截专家，可帮助你清除浏览器页面广告、保护隐私防止追踪，让你不再受恶意软件的困扰、还可以替代油猴插件来安装运行浏览器脚本。- 强大的广告拦截高效阻挡各种类型的广告、减少页面加载时...
+ ## [UNIZ新一代齿科专用光固化3D打印机SLASH 2 PLUS亮相健博会](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=bIlewh4eGvOXpY0NA0Fv0GsBUcyAXF*vJchEni6lZYN6tP0GdQaK0i-TJGAgsE2aro9CtSd12FcHFytnkRj8jCDLMckiEKArQ2qaCWL9l-MwPhyzlTnNolim2TMhzeqr&new=1)
+ > 小通知：国内外3D打印实时快讯微信小程序上线了哦，请点击进入全球3D打印实时快讯 在全球许多国家尚未摆脱疫情阴霾笼罩的大背景下，2021年4月8日至11日，世界大健康博览会在成功“战疫”令世界惊叹的武汉如期举...
+ ## [创·未来|创想三维7周年庆典暨3D打印产业峰会圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=j8kawCiB85KuTKPYBSTbjG60weUbUvr4IEiu420ciSVmLhJHzfaLAgwDtUPm8m3y-9rz*Dq6vagXcDGt2aBccT4ahhvd9taxYuOgKSWD6rn5fjaYnP4sr2z*dugI-J2q&new=1)
+ > 2021年4月9日下午，以&quot;创·未来&quot;为主题的创想三维7周年庆典暨3D打印产业峰会在深圳宝立方国际酒店圆满举办。创想三维联合创始人陈春、刘辉林、敖丹军、唐京科以及来自业内外的领导嘉宾、精英人士、媒体等1000多...
+ ## [\[报告\]2020中国智能汽车产业研究(附31页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=s48rNwPvjp8-k917EanqrJba5iCJ5ha7C2IA-ihwZ--eL1FfLPH4llq7WXx0Te3Ayde1piLUUsz7oovqUGc9gVMJ8OXVqqjPYBwyJ7mMVLEhvSwb02u4zPhAMBoDeM*N&new=1)
+ > 随着能源、环境、安全及交通拥堵所带来的问题日益凸显，智能汽车能够综合实现安全、节能、环保及舒适行驶，提高交通效率，成为当前汽车产业的创新热点和发展方向。在信息化浪潮中，物联网、云计算、大数据、移动...
+ ## [为什么说2021是数字化转型关键年?](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=7CMDiLA4sH55SUvrdb3C-o89gGOOEX6COpWZbvhKfIQDSuR849qfechLT6aEkOYQvPnuZvkrnqznTDv7fUD9BKN-s8Trk7s7U01q4qsAJTzGzebX*CthFVCrCg3E152R&new=1)
  > “加快数字化发展，协同推进数字产业化和产业数字化转型，建设数字中国。”这是李克强总理在今年政府工作报告中提到的内容。值得注意的是，数字化转型在今年两会期间被多次提到，可以预见，2021年将是重点围绕数...
- ## [今天的深圳又刷屏了!第九届中国电子信息博览会在这里开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618018204&ver=2999&signature=qm7Kd0ihJC4x7hSrouHp-9YG1Jr8t*CtjmbFXdUlb6jL0GlenveY6YfWjstAUT7UuR8rH75ydWNpHyeNFIjeBah4gj600ozoHdv2ZCyuz8yRo1P0F0z8GH*UFcb-XCQ7&new=1)
+ ## [今天的深圳又刷屏了!第九届中国电子信息博览会在这里开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=qm7Kd0ihJC4x7hSrouHp-9YG1Jr8t*CtjmbFXdUlb6gm1o4EPhQsr8bQ1Y9DOXumglmNylJ5JcYPmS*m0hf8aT42TDbXWRFGXKQEdHJoMo8MSaMatCQDkCHjktSqkFVn&new=1)
  > 4月9日，第九届中国电子信息博览会（简称CITE2021）在深圳举办。深圳市人民政府市长陈如桂、广东省人民政府副秘书长陈岸明、工业和信息化部电子信息司司长乔跃山出席开幕式并先后致辞。北京大学教授、工业和信息...
- ## [爱立信CEO鲍毅康复盘：2020年扭转乾坤 员工是战略核心](http://mp.weixin.qq.com/s?src=11&timestamp=1618018204&ver=2999&signature=soSjKO4fbCddL4YmY-gxKsZzUVGjNn8mjpRDsVV8dRpVRn4knxsAwBvXbbNE8SaFvaRK-4KZCt6p7YJv90*8iba0atuW9RetrYYMHqMRut6Ht6YF2cscZ4FJP1UA*m0T&new=1)
+ ## [多举措开展 党史学习教育](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=xJhEHXLJhBzJlSDJf6ReRBRi9kuOkuHyFB8d2fX338SVcm9U2TXkGjnRsMkSf*2duoundhe0Dy3fXOr8LMz5YXXpEgtSTRYfewD1DZrTpWQ=&new=1)
+ > 本报讯 连日来，市工商产业投资集团公司党委多举措开展党史学习教育。　　推出“党史一刻”学习专栏。依托企业微信公众号和官网主页， 推出“党史一刻”学习专栏，每天推送1篇有关党史的文章供全体党员干部...
+ ## [智能门禁在社区安全建设中扮演着重要角色](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=uTE26TRLFwwVIyVVGp87Dx3En*zPJL2PxS5mg4PvPgqRTOgBSFNueOqnGqFRmY72w-cHcfrgqu24fqMemZ2sbpGNl5benpO0-KvHya-xjWYOKAcB33ptyBPRc3ENeRKS&new=1)
+ > 随着物联网技术不断升级，智能门禁、智能停车、智能监控等系统逐渐成为智慧社区的主力。在安全建设与便捷性上不断提升，给社区居民生活带来科技体验与上佳感受。智能门禁作为智慧社区模块的一部分，在社区安全建...
+ ## [PON方案VS全光以太网，谁能破解园区业务承载挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=YyoxcliaL6DYGzcPBuRuw9pp4sCatUwnJ2qWmzTruxf3MEbe*I36lo40BTRpHOsn2FCnuWgUpNgKPQIgYWdp60nRyXOdMVoJ7z08movw0qGz7cdqKEiNtGGaPPm8meG1&new=1)
+ > 3月初，我国在政府工作报告中提到了“加大5G网络和千兆光网建设力度，丰富应用场景”，全光网络又一次成为基础网络领域所关注的热点。其实，在学校、医院等园区，网络升级需求旺盛。比如在教育行业，中国规划202...
+ ## [爱立信CEO鲍毅康复盘：2020年扭转乾坤 员工是战略核心](http://mp.weixin.qq.com/s?src=11&timestamp=1618027204&ver=2999&signature=soSjKO4fbCddL4YmY-gxKsZzUVGjNn8mjpRDsVV8dRpjFIDSHnRCwm9Tt4gXwYoGg65CDreEszSHQPF-JZklLZkKLHJa1VeHdcqK88oG31EgrvDnLvdA4Eycz-OmjGD*&new=1)
  > 在爱立信2021年股东对话大会上，爱立信总裁兼首席执行官鲍毅康（Börje Ekholm）总结了2020年期间企业的重点业务战略、财务表现以及应对全球疫情时的所采取的措施。扭转乾坤爱立信在过去一年中实现了财务目标，...
 # IT 技术 
  ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
@@ -31,18 +43,28 @@ categories: IT NEWS
  > 创建一个成熟的GitOps流水线，需要做哪些决定？
  ## [在Ubuntu Linux上安装Windows 10的最简单方法](http://os.51cto.com/art/202104/656560.htm)
  > 在Ubuntu Linux上安装Windows 10的最简单方法
- ## [Oracle性能优化之资源管理_Oracle性能优化与故障诊断教程06](http://fellow.51cto.com/art/202012/636007.htm?qd=51ctojrzd)
- > Oracle性能优化之资源管理_Oracle性能优化与故障诊断教程06
+ ## [2021年软考系统集成项目管理工程师--基础知识（下）视频培训课程](http://fellow.51cto.com/art/202101/639110.htm?qd=51ctojrzd)
+ > 2021年软考系统集成项目管理工程师--基础知识（下）视频培训课程
+ ## [用.env文件为NodeJS加载环境变量](http://developer.51cto.com/art/202104/656663.htm)
+ > 使用环境变量是配置 Node.js 程序的好方法。而且许多包或模块可以基于不同的 NODE_ENV 变量的值表现出不同
+ ## [终于有人把OSI和TCP的作用讲清楚了](http://network.51cto.com/art/202104/656662.htm)
+ > 之前我有提到过OSI参考模型和TCP参考模型，这两个模型可以说是互联网的基石，今天我们将这一部分内容展开。
+ ## [黑客可以利用TCP/IP发动哪些攻击？](http://netsecurity.51cto.com/art/202104/656661.htm)
+ > TCP/IP是网络最基本的通信协议，任何厂家生产的计算机系统，只要遵守该协议，就能与因特网互联互通。但是，
+ ## [领英5亿数据在暗网出售](http://netsecurity.51cto.com/art/202104/656660.htm)
+ > 在Facebook 5亿数据泄露事件发生后，又有5亿领英用户数据在暗网出售，出售者还用200万用户记录作为证明。
+ ## [通俗的解释，黑客是怎么攻击系统的？](http://netsecurity.51cto.com/art/202104/656659.htm)
+ > 从电脑走进百姓家里开始，各种黑客攻击事件就一直伴随着互联网的成长。从千年虫到熊猫烧香，再到WannaCry，
+ ## [研究报告指出：到2027年，5G服务市场规模将超2503亿美元](http://network.51cto.com/art/202104/656658.htm)
+ > 报告显示，从2020年到2027年，全球5G服务市场预计将以约29.7%的年复合增长率增长，到2027年市场规模将超过2
+ ## [83%的企业曾遭受固件攻击，仅29%分配了固件防护预算](http://netsecurity.51cto.com/art/202104/656657.htm)
+ > 近日，微软发布了名为《Security Signals》的研究报告。报告显示，过去两年中，83%的组织至少遭受了一次固
+ ## [Charming Kitten APT组织针对医学研究人员发动攻击](http://netsecurity.51cto.com/art/202104/656656.htm)
+ > 研究人员在报告中表示，这种类型的攻击代表着Charming Kitten(也称为Phosphorus，Ajax或TA453)在网络攻击目
  ## [微软 Windows 10将添加 “设备用法”提示功能，以帮助小白用户使用电脑](http://os.51cto.com/art/202104/656655.htm)
  > 微软将在 Windows 10“个性化”设置中添加一项名叫 “设备用法(Device Usage)”的选项，该选项开启后，Wind
  ## [微软 Edge 浏览器测试 Workspaces 功能，类似 Chrome 的标签分组](http://os.51cto.com/art/202104/656654.htm)
  > Chrome浏览器有一个标签组（Tab Groups）功能，对于需要经常打开大量网页的用户非常好用，可以让用户减少标
- ## [N卡新驱动带来黑科技？教你大幅提升游戏性能](http://os.51cto.com/art/202104/656653.htm)
- > 无论是NV的BAR还是AMD的SAM，都是改变了游戏数据I/O流程的革命性技术，这黑科技大大减少游戏数据的延迟，提
- ## [甚至连Excel都落于下风！WPS这些功能你都知道吗](http://network.51cto.com/art/202104/656652.htm)
- > WPS和Excel这样的Office套件还存在差距，但在很多功能上，WPS的优秀设计令它的体验让Excel也甘拜下风！
- ## [到2027年，5G服务市场规模将超2503亿美元](http://network.51cto.com/art/202104/656651.htm)
- > 从2020年到2027年，全球5G服务市场预计将以约29.7%的年复合增长率增长，到2027年市场规模将超过2503亿美元
  ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
  > 0 基础 Java 自学之路（2021年最新版）
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
