@@ -1,21 +1,21 @@
 ---
 title: 2021-04-10 IT News
 copyright: true
-date: 2021-04-10 08:00:59
+date: 2021-04-10 09:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [智能门禁在社区安全建设中扮演着重要角色](http://mp.weixin.qq.com/s?src=11&timestamp=1618011004&ver=2999&signature=uTE26TRLFwwVIyVVGp87Dx3En*zPJL2PxS5mg4PvPgrmP7pl6VhZ0qOT2-3qlm2Jm2xk*Fq2jFffLOYrXTeFxbMBAdf5vaf2MZA3ImU0AweZHmi7Um6oEU4xxbe2tIap&new=1)
- > 随着物联网技术不断升级，智能门禁、智能停车、智能监控等系统逐渐成为智慧社区的主力。在安全建设与便捷性上不断提升，给社区居民生活带来科技体验与上佳感受。智能门禁作为智慧社区模块的一部分，在社区安全建...
- ## [今天的深圳又刷屏了!第九届中国电子信息博览会在这里开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618011004&ver=2999&signature=qm7Kd0ihJC4x7hSrouHp-9YG1Jr8t*CtjmbFXdUlb6jL0GlenveY6YfWjstAUT7Ubp6itkpExTduuujmfGaUpmSjBBCPJ4GXttQ1OWmFUmAPKqSovB2yGmthxiavqLwO&new=1)
- > 4月9日，第九届中国电子信息博览会（简称CITE2021）在深圳举办。深圳市人民政府市长陈如桂、广东省人民政府副秘书长陈岸明、工业和信息化部电子信息司司长乔跃山出席开幕式并先后致辞。北京大学教授、工业和信息...
- ## [爱立信CEO鲍毅康复盘：2020年扭转乾坤 员工是战略核心](http://mp.weixin.qq.com/s?src=11&timestamp=1618011004&ver=2999&signature=soSjKO4fbCddL4YmY-gxKsZzUVGjNn8mjpRDsVV8dRpVRn4knxsAwBvXbbNE8SaFsH*NttvHvK9dFH2cdhuNY6p9B6CoTe4WoIr-SRQrjC8LnoI9OTHCBD91KBzvlyKo&new=1)
+ ## [爱立信CEO鲍毅康复盘：2020年扭转乾坤 员工是战略核心](http://mp.weixin.qq.com/s?src=11&timestamp=1618014604&ver=2999&signature=soSjKO4fbCddL4YmY-gxKsZzUVGjNn8mjpRDsVV8dRpVRn4knxsAwBvXbbNE8SaFdnNvKQmCq29ZN5jBgx5YrZQk24xqcY-ufat0bRocrCoXQjNqaJiSSwo9CScIvEMJ&new=1)
  > 在爱立信2021年股东对话大会上，爱立信总裁兼首席执行官鲍毅康（Börje Ekholm）总结了2020年期间企业的重点业务战略、财务表现以及应对全球疫情时的所采取的措施。扭转乾坤爱立信在过去一年中实现了财务目标，...
- ## [为什么说2021是数字化转型关键年?](http://mp.weixin.qq.com/s?src=11&timestamp=1618011004&ver=2999&signature=7CMDiLA4sH55SUvrdb3C-o89gGOOEX6COpWZbvhKfITLezQGvazVxPFBW71d-*bu58JCQv*zlPhkfdG-y-rQsxR6vMak2vRylu3ZXkQP*luffEAUmsiMkYB1tbnSwlDp&new=1)
- > “加快数字化发展，协同推进数字产业化和产业数字化转型，建设数字中国。”这是李克强总理在今年政府工作报告中提到的内容。值得注意的是，数字化转型在今年两会期间被多次提到，可以预见，2021年将是重点围绕数...
- ## [PON方案VS全光以太网，谁能破解园区业务承载挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1618011004&ver=2999&signature=YyoxcliaL6DYGzcPBuRuw9pp4sCatUwnJ2qWmzTruxc0aB9qDflru6bf*nZhhV6EW3EZ1Cje4g9c2Wnj-qD6*-3jCyrFWT6-jQi57MLyj9fcs8u-cpYLwqLRxlVG6PzV&new=1)
+ ## [PON方案VS全光以太网，谁能破解园区业务承载挑战?](http://mp.weixin.qq.com/s?src=11&timestamp=1618014604&ver=2999&signature=YyoxcliaL6DYGzcPBuRuw9pp4sCatUwnJ2qWmzTruxc0aB9qDflru6bf*nZhhV6EnByYCTP7a51VCGqCGzFKoDYovdBW-CWgR0cbn9NMxhIHk1-D0N-6AUI5Rk5Bi1S0&new=1)
  > 3月初，我国在政府工作报告中提到了“加大5G网络和千兆光网建设力度，丰富应用场景”，全光网络又一次成为基础网络领域所关注的热点。其实，在学校、医院等园区，网络升级需求旺盛。比如在教育行业，中国规划202...
+ ## [今天的深圳又刷屏了!第九届中国电子信息博览会在这里开幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618014604&ver=2999&signature=qm7Kd0ihJC4x7hSrouHp-9YG1Jr8t*CtjmbFXdUlb6jL0GlenveY6YfWjstAUT7UW*CBsHH5jNESN9KMoLka1yWnstM5531PDa0HwYFMahc65z75oMerDbIMWoZLcluG&new=1)
+ > 4月9日，第九届中国电子信息博览会（简称CITE2021）在深圳举办。深圳市人民政府市长陈如桂、广东省人民政府副秘书长陈岸明、工业和信息化部电子信息司司长乔跃山出席开幕式并先后致辞。北京大学教授、工业和信息...
+ ## [为什么说2021是数字化转型关键年?](http://mp.weixin.qq.com/s?src=11&timestamp=1618014604&ver=2999&signature=7CMDiLA4sH55SUvrdb3C-o89gGOOEX6COpWZbvhKfITLezQGvazVxPFBW71d-*buBZf5a7mL4S4*GE6dx09aSo-c-TfSdwcbMjsGAbM9sZ08KB5mAKfynBeIzH2HNDON&new=1)
+ > “加快数字化发展，协同推进数字产业化和产业数字化转型，建设数字中国。”这是李克强总理在今年政府工作报告中提到的内容。值得注意的是，数字化转型在今年两会期间被多次提到，可以预见，2021年将是重点围绕数...
+ ## [智能门禁在社区安全建设中扮演着重要角色](http://mp.weixin.qq.com/s?src=11&timestamp=1618014604&ver=2999&signature=uTE26TRLFwwVIyVVGp87Dx3En*zPJL2PxS5mg4PvPgrmP7pl6VhZ0qOT2-3qlm2JX7Ss7G*RA3*4k0JyKR*nUE3r8YKmpj3dDMSbiFyoC5X9YSVi6lcAJJVTt0WZpLeb&new=1)
+ > 随着物联网技术不断升级，智能门禁、智能停车、智能监控等系统逐渐成为智慧社区的主力。在安全建设与便捷性上不断提升，给社区居民生活带来科技体验与上佳感受。智能门禁作为智慧社区模块的一部分，在社区安全建...
 # IT 技术 
  ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
  > 自动化框架Selenium与Cypress，哪家强？
@@ -31,8 +31,16 @@ categories: IT NEWS
  > 创建一个成熟的GitOps流水线，需要做哪些决定？
  ## [在Ubuntu Linux上安装Windows 10的最简单方法](http://os.51cto.com/art/202104/656560.htm)
  > 在Ubuntu Linux上安装Windows 10的最简单方法
- ## [全国计算机等级考试二级C语言视频课程（完整版）](http://fellow.51cto.com/art/202101/639898.htm?qd=51ctojrzd)
- > 全国计算机等级考试二级C语言视频课程（完整版）
+ ## [Excel函数应用课程-初级](http://fellow.51cto.com/art/202101/639566.htm?qd=51ctojrzd)
+ > Excel函数应用课程-初级
+ ## [微软 Edge 浏览器测试 Workspaces 功能，类似 Chrome 的标签分组](http://os.51cto.com/art/202104/656654.htm)
+ > Chrome浏览器有一个标签组（Tab Groups）功能，对于需要经常打开大量网页的用户非常好用，可以让用户减少标
+ ## [N卡新驱动带来黑科技？教你大幅提升游戏性能](http://os.51cto.com/art/202104/656653.htm)
+ > 无论是NV的BAR还是AMD的SAM，都是改变了游戏数据I/O流程的革命性技术，这黑科技大大减少游戏数据的延迟，提
+ ## [甚至连Excel都落于下风！WPS这些功能你都知道吗](http://network.51cto.com/art/202104/656652.htm)
+ > WPS和Excel这样的Office套件还存在差距，但在很多功能上，WPS的优秀设计令它的体验让Excel也甘拜下风！
+ ## [到2027年，5G服务市场规模将超2503亿美元](http://network.51cto.com/art/202104/656651.htm)
+ > 从2020年到2027年，全球5G服务市场预计将以约29.7%的年复合增长率增长，到2027年市场规模将超过2503亿美元
  ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
  > 0 基础 Java 自学之路（2021年最新版）
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -43,18 +51,18 @@ categories: IT NEWS
  > 3w 字长文爆肝 Java 基础面试题！太顶了！！！
  ## [Spring Boot简介与快速搭建](https://blog.csdn.net/jiuqiyuliang/article/details/115554161)
  > Spring Boot简介与快速搭建
- ## [一款可以让大型iOS工程编译速度提升50%的工具](https://blog.csdn.net/MeituanTech/article/details/114260817)
- > 一款可以让大型iOS工程编译速度提升50%的工具
- ## [Golang------Linux环境安装](https://blog.csdn.net/IvyXYW/article/details/114966232)
- > Golang------Linux环境安装
- ## [Spring源码之动态代理实现](https://blog.csdn.net/huangzhilin2015/article/details/115255075)
- > Spring源码之动态代理实现
- ## [C(Csharp)基础教程(上)(菜鸟教程笔记)](https://blog.csdn.net/mahoon411/article/details/109442403)
- > C(Csharp)基础教程(上)(菜鸟教程笔记)
- ## [FPGA数字滤波----梯形成形设计](https://blog.csdn.net/qq_46907522/article/details/114342696)
- > FPGA数字滤波----梯形成形设计
- ## [简单的学生成绩管理系统](https://blog.csdn.net/qq_46062435/article/details/114838800)
- > 简单的学生成绩管理系统
+ ## [书架项目代码](https://blog.csdn.net/weixin_45228198/article/details/115453444)
+ > 书架项目代码
+ ## [爬虫系列（2）：暴力爬虫——基于selenium和xpath定位方法爬取某个话题下的微博内容](https://blog.csdn.net/weixin_42466310/article/details/115213945)
+ > 爬虫系列（2）：暴力爬虫——基于selenium和xpath定位方法爬取某个话题下的微博内容
+ ## [Spring - @Conditional全解](https://blog.csdn.net/yangshangwei/article/details/115413988)
+ > Spring - @Conditional全解
+ ## [Unity个人游戏开发总结——UI框架](https://blog.csdn.net/qq_35465882/article/details/114501847)
+ > Unity个人游戏开发总结——UI框架
+ ## [机器学习平台——TensorFlow学习笔记](https://blog.csdn.net/weixin_44456692/article/details/115406653)
+ > 机器学习平台——TensorFlow学习笔记
+ ## [设计稿（UI视图）自动生成代码方案的探索](https://blog.csdn.net/MeituanTech/article/details/115222778)
+ > 设计稿（UI视图）自动生成代码方案的探索
  ## [Linux 常用命令集合](https://blog.csdn.net/weixin_44451022/article/details/115416046)
  > Linux 常用命令集合
  ## [Javascript常用函数、方法速查手册（建议收藏）](https://blog.csdn.net/weixin_43742274/article/details/115288667)
