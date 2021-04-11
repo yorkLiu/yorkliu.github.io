@@ -1,21 +1,23 @@
 ---
 title: 2021-04-11 IT News
 copyright: true
-date: 2021-04-11 09:01:03
+date: 2021-04-11 10:00:57
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [CITE2021工业互联网发展与安全峰会在深圳成功召开](http://mp.weixin.qq.com/s?src=11&timestamp=1618102804&ver=3001&signature=IFjXNEQys1*J*lOTO2*Af7Wnopd7milvWUu9q*cvnrNGIdON1*ORTLY0l2zM2IdB9180oJhvlu9va2WzVu4eGxcORfTGGqJSP452zYr*QoW3m29qimqDI5yVFkb0cSV8&new=1)
- > 4月10日，CITE2021工业互联网发展与安全峰会在深圳成功举行。随着新一代信息通信技术与实体经济深度融合, 工业数字化转型进程加速，传统工业控制系统正逐步走向开放互联，工业互联网作为全要素、全产业链、全价...
- ## [运营商员工收入低主要是工作没技术含量，就值这个价!](http://mp.weixin.qq.com/s?src=11&timestamp=1618102804&ver=3001&signature=LGkrRir8xwRoUa*lS6*qp2XY1*6IdHkj5AVk-GHtBMpOE0UQ3F2kY4rYrMAq6O7czpCruCk8YO5wqFB8NPG6uoqIlsP-qRgmPhF7uzvLzfvgRghqac55iUFGnFL6fTRX&new=1)
- > 综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
- ## [重大突破!华为公开“耦合光的光学芯片及其制造方法”发明专利](http://mp.weixin.qq.com/s?src=11&timestamp=1618102804&ver=3001&signature=OHETCeXf7z93vpAWyv12MDWVDCgGbf2SVpEyv9sNcYohWvHrfd3ohY5u4eEzd-wKky9Hfeg63qrJ4iaD6NtQnLtz5SZV*3z3n2jSbptmHVTJh-CIPR5ktUd5jvJPmiOx&new=1)
- > 近日，华为技术有限公司公开一项名为“耦合光的光学芯片及其制造方法”的发明专利，申请日期为2019年2月，公开号为CN112601995A。该专利摘要显示，本发明提供一种用于在光学芯片与另一光学器件之间耦合光的光学...
- ## [议程及参会名单确定，“2021平板产业赋能教育装备创新峰会”明日开启](http://mp.weixin.qq.com/s?src=11&timestamp=1618102804&ver=3001&signature=9KsogWikTNhs8F5o52GCx0tKOj*vx9KwdaJM4ApLnz-zsEmeFTYYPmDu4exVyTb2qXz**VVMMtotfdvEiXhlsZ3BfTkrWqUi-JKXDECGnC41u3VKHfpeJ4GffIHncZLs&new=1)
+ ## [议程及参会名单确定，“2021平板产业赋能教育装备创新峰会”明日开启](http://mp.weixin.qq.com/s?src=11&timestamp=1618104604&ver=3001&signature=9KsogWikTNhs8F5o52GCx0tKOj*vx9KwdaJM4ApLnz-zsEmeFTYYPmDu4exVyTb2NpfjQWnHslboLBUhcH3bAw5n7Okr0nhG2nUN0Ld9K2IGNQEgqBRM5K152IbYFtgr&new=1)
  > 自2010年苹果iPad发布之后，引爆了整个平板市场，在经过了4年多爆发式增长之后，2015年平板电脑市场开始拐头向下，到2019年为止，全球平板电脑市场持续5年的下滑，迫使大量厂商逃离。然而，2020年全球平板电脑市...
- ## [小科普|https://是啥意思?](http://mp.weixin.qq.com/s?src=11&timestamp=1618102804&ver=3001&signature=PPyNJwggpEsSq3hibipaAf*nnoniYNP1bekArYDKpWNejcR5fO3JXlkn-7OywM5*J1UZALQmFlO5cEw*FgFX*YlnTeib*nX3hAxrruZT4nvEbek5arng4bc18Wf8ITKh&new=1)
+ ## [重大突破!华为公开“耦合光的光学芯片及其制造方法”发明专利](http://mp.weixin.qq.com/s?src=11&timestamp=1618104604&ver=3001&signature=OHETCeXf7z93vpAWyv12MDWVDCgGbf2SVpEyv9sNcYohWvHrfd3ohY5u4eEzd-wKOBTYYodfeo05qQWKDfKanuvP2JeW9-DjAzeIZnnw*Jt3NgUQYxturV-3rljfmbyk&new=1)
+ > 近日，华为技术有限公司公开一项名为“耦合光的光学芯片及其制造方法”的发明专利，申请日期为2019年2月，公开号为CN112601995A。该专利摘要显示，本发明提供一种用于在光学芯片与另一光学器件之间耦合光的光学...
+ ## [\[报告\]2021年3月汽车工业经济运行情况(附26页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618104604&ver=3001&signature=JHPlde4X-NopKfLVoXVX4mrQLISAALcymJ1ymssFZpny8yKxy2aKiYW3vYObC1yc3wSfbBOka6M5jpDqrTovT27aZ1mWaHon7kiHuP*p9yz80d2OIkvDgO*5usRkecnP&new=1)
+ > 3月，汽车产销分别完成246.2万辆和252.6万辆，环比分别增长63.9%和73.6%，同比分别增长71.6%和74.9%。本月受同期低基数因素影响，产销同比依然呈现大幅增长的态势。1-3月，汽车产销分别完成635.2万辆和648.4万辆
+ ## [小科普|https://是啥意思?](http://mp.weixin.qq.com/s?src=11&timestamp=1618104604&ver=3001&signature=PPyNJwggpEsSq3hibipaAf*nnoniYNP1bekArYDKpWNejcR5fO3JXlkn-7OywM5*ftqMmwp16w7Bdyb2pCV0NjqWjup6y-6lCYZtkDnTNXx0lIe1T8gIDwFmOcjeAq9v&new=1)
  > 我们打开一个网页，如今只需要点一下图标就可以了，哪怕输入网页，也只要“xxx.com”其他都会自动补全，过去咱们知道了www是万维网的意思（戳这里），那再前面的https://是个啥呢？了解HTTPS之前，得先了解HTTP...
+ ## [运营商员工收入低主要是工作没技术含量，就值这个价!](http://mp.weixin.qq.com/s?src=11&timestamp=1618104604&ver=3001&signature=LGkrRir8xwRoUa*lS6*qp2XY1*6IdHkj5AVk-GHtBMpOE0UQ3F2kY4rYrMAq6O7cO-zknoB9vu0QdZo9dlc3gu6hYLhWnFKwAv9MzbsiDYppBcaEPcEN2dN6wZyc6Vzh&new=1)
+ > 综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报据说通信人都关注了阅一手情报，早知天下事
+ ## [CITE2021工业互联网发展与安全峰会在深圳成功召开](http://mp.weixin.qq.com/s?src=11&timestamp=1618104604&ver=3001&signature=IFjXNEQys1*J*lOTO2*Af7Wnopd7milvWUu9q*cvnrNGIdON1*ORTLY0l2zM2IdBu2jXWFgYsvN3MUls*7V8fye35swC7TV5Ht2BgRIYRgKt70jWwcZXoLE2-akly23Y&new=1)
+ > 4月10日，CITE2021工业互联网发展与安全峰会在深圳成功举行。随着新一代信息通信技术与实体经济深度融合, 工业数字化转型进程加速，传统工业控制系统正逐步走向开放互联，工业互联网作为全要素、全产业链、全价...
 # IT 技术 
  ## [自动化框架Selenium与Cypress，哪家强？](http://developer.51cto.com/art/202104/656446.htm)
  > 自动化框架Selenium与Cypress，哪家强？
@@ -31,8 +33,16 @@ categories: IT NEWS
  > 创建一个成熟的GitOps流水线，需要做哪些决定？
  ## [在Ubuntu Linux上安装Windows 10的最简单方法](http://os.51cto.com/art/202104/656560.htm)
  > 在Ubuntu Linux上安装Windows 10的最简单方法
- ## [ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09](http://fellow.51cto.com/art/202007/622206.htm?qd=51ctojrzd)
- > ProxySQL读写分离中间件项目实施与维护_MySQL高可用复制与分布式集群架构09
+ ## [C 语言-视频课程](http://fellow.51cto.com/art/202012/635518.htm?qd=51ctojrzd)
+ > C 语言-视频课程
+ ## [浅析Python装饰器中的@property](http://developer.51cto.com/art/202104/656704.htm)
+ > 本文基于Python基础，介绍了@property 如何把方法变成了属性。通过案例的分析，代码的展示。介绍了@propert
+ ## [23 个非常实用的 Shell 拿来就用脚本实例](http://os.51cto.com/art/202104/656703.htm)
+ > 为大家整理了23个实例，通过23个实战经典脚本实例，展示了shell脚本编程的实用技术和常见工具用法。大家只
+ ## [学会这10种定时任务，我有点飘了](http://developer.51cto.com/art/202104/656702.htm)
+ > 我今天给大家总结10种非常实用的定时任务，总有一种是适合你的。
+ ## [从开发一款基于Vue技术栈的全栈热重载生产环境脚手架，我学到了什么？](http://developer.51cto.com/art/202104/656701.htm)
+ > 今天，我们来搞一个新东西，名字叫基于Vue技术栈的全栈热重载生产环境脚手架。实话说，这个名字我想了很久
  ## [一测吓你一大跳！快来测测手机有啥隐私风险](http://mobile.51cto.com/app-show-656699.htm)
  > 目前已经有手机系统和安全APP在监测到这些滥用权限的行为时会给用户发出提醒，那么你的手机有没有这种功能
  ## [0 基础 Java 自学之路（2021年最新版）](https://blog.csdn.net/v123411739/article/details/115498947)
