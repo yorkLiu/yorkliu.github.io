@@ -1,22 +1,24 @@
 ---
 title: 2021-04-13 IT News
 copyright: true
-date: 2021-04-13 08:01:06
+date: 2021-04-13 09:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [芯片圈变天了!英伟达推出首个CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618272004&ver=3005&signature=EyQWDl6F96gqE0pqHBLAAF3J0nCWDttNpeqMa7nKn6417nwV-WIcI1hH7WEuonoKqD5Ss5CQmtjdeZ*g5KmFO98vl6OKbvO1*RRkI7V9aMXLaj-0oKyZoGT8zACcH-Cq&new=1)
- > 老黄你变了！GPU之王英伟达首推CPU。作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达...
- ## [芯片制裁怎么办?华为云有变?还造不造车?华为分析师大会回应一切!(附演讲&问答全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1618272004&ver=3005&signature=C10WaIbh6gdlMfYjvGEfpeSKPb5UBX6ukx6T7mRE1O0OYwI-TriEWd*hdltrLmW5TblC57W-xiDvUniOwjbAF-cviMsJDaCOYK-aga1Vre16Us5TOKlBQ2Jy8QhgFOUY&new=1)
+ ## [芯片制裁怎么办?华为云有变?还造不造车?华为分析师大会回应一切!(附演讲&问答全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=C10WaIbh6gdlMfYjvGEfpeSKPb5UBX6ukx6T7mRE1O0OYwI-TriEWd*hdltrLmW5ZUaBjFC3ml9R3ZOyrN24nUBNJvB-gC7EE2iWe67y*ieprSNDQyPEFRp-HJxG7T0Z&new=1)
  > 自动驾驶不输特斯拉？芯片制裁怎么办？5G能力被夸大？华为分析师大会回应一切！来源:新财富(ID:newfortune)作者:张天伦 经历了美国多轮打压，承受了割爱荣耀品牌的重压，2021年4月12日，华为第十八届全球分析师...
- ## [乱云飞渡仍从容](http://mp.weixin.qq.com/s?src=11&timestamp=1618272004&ver=3005&signature=agtR6f0BEi49pZMoHglYMLACbeR22Yf*4yfbgC3vnzyaeHhHGvS82MvNzft2cw2-I-LvHQlm14F*T2Cta8ibAnu86sVliBkb375J3uNW0HyKnSVEVkwLSapykwVA-M3l&new=1)
- > 华为公司第18届全球分析师大会12日在深圳开幕。本届大会以“构建万物互联的智能世界”为主题，400多名行业分析师、财经分析师、各行业意见领袖及媒体现场参会，同时来自全球的分析师与媒体也通过线上与会，一起...
- ## [徐直军：华为对移出“实体清单”不抱幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1618272004&ver=3005&signature=QsH*0M954xJTQ0pmbsdyhiI0HKgcakFImyLyyZEo9oshIqvtlpyptF5hZ-OzLiqeD2hNMYykxgNGzkZLdq8gJ7A3R1kctbu81vzPjD8soR0jNWazIaRYZRAoMLaxizno&new=1)
- > “华为对从‘实体清单’中摘出来不抱任何幻想，将长期在‘实体清单’下工作和生活，现在所有的整体战略和具体的举措都是围绕华为人长期在‘实体清单’下还能生存和发展。”华为轮值董事长徐直军在2021华为全球分...
- ## [人事快讯：中国电信省级高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618272004&ver=3005&signature=l3WJH8A03I7GOENC8KE3jmjGM5dmQp2vCAsIVCQR7zRFbMWA-75P4WGO-RRr-cOJYl68JHSZ2xX5nEGI2WUIzwMaj-fW8oIo1GDkWAJFOfsxwbPVrClA45Z-pHga355R&new=1)
+ ## [人事快讯：中国电信省级高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=l3WJH8A03I7GOENC8KE3jmjGM5dmQp2vCAsIVCQR7zRFbMWA-75P4WGO-RRr-cOJ8yOKIl***ZOCaEN4pROBKXkTjT-1vcUh74k2RgAHs0NzT4-*0GfuFnpN8UIo-EN8&new=1)
  > 近期，运营商情报从多方获悉：原中国电信集团企业战略部潘露任四川电信副总经理原中国电信集团云网运营部副总经理王桂荣任科技创新部总经理综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校...
+ ## [芯片圈变天了!英伟达推出首个CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=EyQWDl6F96gqE0pqHBLAAF3J0nCWDttNpeqMa7nKn6417nwV-WIcI1hH7WEuonoKLxLYKAR7HOem2cYeoiSBePDPangNe75QWhGFQeeTF3YeYNtNMcdbxU7IUeiJzplc&new=1)
+ > 老黄你变了！GPU之王英伟达首推CPU。作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达...
+ ## [乱云飞渡仍从容](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=agtR6f0BEi49pZMoHglYMLACbeR22Yf*4yfbgC3vnzyaeHhHGvS82MvNzft2cw2-HuL61k6sOEhyFyqPogY61hYsGp*rKk6slHWBJC2X4IJ5cLBrlxnftGjZY*8XEQf3&new=1)
+ > 华为公司第18届全球分析师大会12日在深圳开幕。本届大会以“构建万物互联的智能世界”为主题，400多名行业分析师、财经分析师、各行业意见领袖及媒体现场参会，同时来自全球的分析师与媒体也通过线上与会，一起...
+ ## [徐直军：华为对移出“实体清单”不抱幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=QsH*0M954xJTQ0pmbsdyhiI0HKgcakFImyLyyZEo9oshIqvtlpyptF5hZ-OzLiqeYuPbhU8DxmoHjr9IBHsxzoBjNGo3wNonJcHcC8S9Xs2EeXLG6D8nrOBSI*ugIVqq&new=1)
+ > “华为对从‘实体清单’中摘出来不抱任何幻想，将长期在‘实体清单’下工作和生活，现在所有的整体战略和具体的举措都是围绕华为人长期在‘实体清单’下还能生存和发展。”华为轮值董事长徐直军在2021华为全球分...
 # IT 技术 
+ ## [好文档对于开发者的重要性](http://developer.51cto.com/art/202104/656936.htm)
+ > 好文档对于开发者的重要性
  ## [满屏的if-else，怎么消灭它们？](http://developer.51cto.com/art/202104/656972.htm)
  > 满屏的if-else，怎么消灭它们？
  ## [微众银行：分布式架构之高可用](http://news.51cto.com/art/202104/656884.htm)
@@ -29,10 +31,14 @@ categories: IT NEWS
  > 使云存储再次简单的两个建议
  ## [学会这10种定时任务，我有点飘了](http://developer.51cto.com/art/202104/656702.htm)
  > 学会这10种定时任务，我有点飘了
- ## [技术转管理，就要丢掉技术吗？](http://news.51cto.com/art/202104/656741.htm)
- > 技术转管理，就要丢掉技术吗？
- ## [Unity编程之C编程“入门篇”(第1部)](http://fellow.51cto.com/art/202101/639108.htm?qd=51ctojrzd)
- > Unity编程之C编程“入门篇”(第1部)
+ ## [JavaWEB核心编程视频教程（无讲师答疑）](http://fellow.51cto.com/art/202101/639104.htm?qd=51ctojrzd)
+ > JavaWEB核心编程视频教程（无讲师答疑）
+ ## [节前，没了灵魂的伙，在学习值和引用之间的区别](http://developer.51cto.com/art/202104/656979.htm)
+ > 在JavaScript中，可以通过值和引用传递。两者之间的主要区别是，按值传递发生在赋值基本类型的时候，而赋值
+ ## [新爆料证实 Windows 10应用窗口正变得圆角化](http://os.51cto.com/art/202104/656978.htm)
+ > 在微软发布的 Windows 10 的 Tips 应用中的截图中，首次意外地泄露了界面的变化。之后这些图被删除了，如下
+ ## [比试一下：Swagger3就是比2简单粗暴](http://developer.51cto.com/art/202104/656977.htm)
+ > 接口文档总是很烦人，我曾经尝试过用Postman来编写和分享项目文档，感觉还不错。但是最近项目紧，我没有额
  ## [git stash 命令实用指南](http://developer.51cto.com/art/202104/656974.htm)
  > 本文将介绍 git stash 命令，并探讨一些有用的暂存变更的选项。本文假定你对 Git 概念 有基本的了解，并对
  ## [使用 Elixir 语言编写一个小游戏](http://developer.51cto.com/art/202104/656973.htm)
@@ -47,28 +53,28 @@ categories: IT NEWS
  > etcd 是兼具一致性和高可用性的键值数据库，可用于服务发现以及配置中心。ETCD 采用 raft 一致性算法，基于
  ## [C 可控类型，你知道几个？](http://developer.51cto.com/art/202104/656964.htm)
  > C 单问号 ? 与 双问号 ?? ? : 单问号用于对 int,double,bool 等无法直接赋值为 null 的数据类型进行 null
- ## [超硬核！数据库原理学霸笔记，保证你考试/面试都能应付](https://blog.csdn.net/hebtu666/article/details/115613082)
- > 超硬核！数据库原理学霸笔记，保证你考试/面试都能应付
+ ## [万字长文爆肝Python基础入门【巨详细，一学就会】](https://blog.csdn.net/weixin_44985880/article/details/115622253)
+ > 
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [万字长文爆肝Python基础入门【巨详细，一学就会】](https://blog.csdn.net/weixin_44985880/article/details/115622253)
- > 
+ ## [超硬核！数据库原理学霸笔记，保证你考试/面试都能应付](https://blog.csdn.net/hebtu666/article/details/115613082)
+ > 超硬核！数据库原理学霸笔记，保证你考试/面试都能应付
  ## [数据结构算法：基于C语言用图实现最短路径，太妙了！](https://blog.csdn.net/lucky51222/article/details/115634407)
  > 数据结构算法：基于C语言用图实现最短路径，太妙了！
- ## [万恶的马赛克---OpenCV-Python开发指南（51）](https://blog.csdn.net/liyuanjinglyj/article/details/115174520)
- > 万恶的马赛克---OpenCV-Python开发指南（51）
- ## [2020前端面试总结（持续更新）](https://blog.csdn.net/zlzbt/article/details/106688918)
- > 
- ## [CNN特征提取结果可视化——hooks简单应用](https://blog.csdn.net/qq_34769162/article/details/115567093)
- > CNN特征提取结果可视化——hooks简单应用
- ## [第45届ICPC 昆明站 临时模板补充](https://blog.csdn.net/qq_33957603/article/details/115441412)
- > 第45届ICPC 昆明站 临时模板补充
- ## [【项目展示】自己用C语言编写的五子棋小程序](https://blog.csdn.net/weixin_41018509/article/details/115557449)
- > 【项目展示】自己用C语言编写的五子棋小程序
- ## [AI算法让图片动起来，特朗普和蒙娜丽莎深情合唱《Unravel》](https://blog.csdn.net/c406495762/article/details/108142140)
- > 
+ ## [用JS简单实现Vue的双向绑定](https://blog.csdn.net/dkm123456/article/details/115531729)
+ > 用JS简单实现Vue的双向绑定
+ ## [B站疯传，一整套Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！](https://blog.csdn.net/A_7878520/article/details/115548648)
+ > B站疯传，一整套Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！
+ ## [小小白学Springboot（七）——Thymeleaf国际化页面](https://blog.csdn.net/weixin_44162239/article/details/115414902)
+ > 小小白学Springboot（七）——Thymeleaf国际化页面
+ ## [Java基础面试题](https://blog.csdn.net/weixin_44881854/article/details/115413472)
+ > Java基础面试题
+ ## [Zabbix监控系统（基于CentOS7）](https://blog.csdn.net/JoebeeTang/article/details/109189799)
+ > Zabbix监控系统（基于CentOS7）
+ ## [消息推送——产品运营不可或缺的用户触达方式](https://blog.csdn.net/weixin_44708240/article/details/109389813)
+ > 消息推送——产品运营不可或缺的用户触达方式
  ## [【C语言从青铜到王者】第零篇·与C语言来个约会](https://blog.csdn.net/qq_51379868/article/details/115429796)
  > 【C语言从青铜到王者】第零篇·与C语言来个约会
  ## [MySQL 运维 - 从零开始学习 | 超详细](https://blog.csdn.net/qq_42427971/article/details/114001450)
