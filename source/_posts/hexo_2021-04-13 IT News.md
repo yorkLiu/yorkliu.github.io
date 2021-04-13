@@ -1,58 +1,66 @@
 ---
 title: 2021-04-13 IT News
 copyright: true
-date: 2021-04-13 09:01:00
+date: 2021-04-13 10:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [芯片制裁怎么办?华为云有变?还造不造车?华为分析师大会回应一切!(附演讲&问答全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=C10WaIbh6gdlMfYjvGEfpeSKPb5UBX6ukx6T7mRE1O0OYwI-TriEWd*hdltrLmW5ZUaBjFC3ml9R3ZOyrN24nUBNJvB-gC7EE2iWe67y*ieprSNDQyPEFRp-HJxG7T0Z&new=1)
- > 自动驾驶不输特斯拉？芯片制裁怎么办？5G能力被夸大？华为分析师大会回应一切！来源:新财富(ID:newfortune)作者:张天伦 经历了美国多轮打压，承受了割爱荣耀品牌的重压，2021年4月12日，华为第十八届全球分析师...
- ## [人事快讯：中国电信省级高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=l3WJH8A03I7GOENC8KE3jmjGM5dmQp2vCAsIVCQR7zRFbMWA-75P4WGO-RRr-cOJ8yOKIl***ZOCaEN4pROBKXkTjT-1vcUh74k2RgAHs0NzT4-*0GfuFnpN8UIo-EN8&new=1)
- > 近期，运营商情报从多方获悉：原中国电信集团企业战略部潘露任四川电信副总经理原中国电信集团云网运营部副总经理王桂荣任科技创新部总经理综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校...
- ## [芯片圈变天了!英伟达推出首个CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=EyQWDl6F96gqE0pqHBLAAF3J0nCWDttNpeqMa7nKn6417nwV-WIcI1hH7WEuonoKLxLYKAR7HOem2cYeoiSBePDPangNe75QWhGFQeeTF3YeYNtNMcdbxU7IUeiJzplc&new=1)
+ ## [芯片圈变天了!英伟达推出首个CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=EyQWDl6F96gqE0pqHBLAAF3J0nCWDttNpeqMa7nKn6417nwV-WIcI1hH7WEuonoKKCrhjXG16N0fxysH*iTTGic0lRmAi3mUXRhyJyHV4saXiARKoFD2q9tWDeQUrcx7&new=1)
  > 老黄你变了！GPU之王英伟达首推CPU。作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达...
- ## [乱云飞渡仍从容](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=agtR6f0BEi49pZMoHglYMLACbeR22Yf*4yfbgC3vnzyaeHhHGvS82MvNzft2cw2-HuL61k6sOEhyFyqPogY61hYsGp*rKk6slHWBJC2X4IJ5cLBrlxnftGjZY*8XEQf3&new=1)
+ ## [\[报告\]2021年中国商用车市场研究(附62页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=aasb3N*Tj*yx1zHBz1aLLQRSkbwWJCqUHIvgFMs4glFvxUMDgKVVvze8XYJbWrdRnlnMO68rjo*nqp4NvOERxCGC-lKw*PkBBormMezO*FItGbrCuMoOmduz*hqAsAT0&new=1)
+ > 2020年，受国Ⅲ车辆淘汰、治超加严、新基建投资增长以及营销多元化等因素的影响，商用车全年销量呈现逆势上扬。全年商用车终端销量达到454万辆，同比增长18.7%，创年度历史新高，是目前处于存量竞争中的汽车市场...
+ ## [讯石专访|武汉永鼎光电子：从芯片到器件 以技术、可靠性、性价比赢得市场](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=AUh4cWTCBcksbblscumw54w8QIlxDBx7fv2EVtTEq9RZfWQFTz7vJVZtlBlj1R1PGvTTlClQSpi**222t4zqhC8hjRgKacqyDGwhELJdfHQX2lcAm0YlGHqhKsZUs9w1&new=1)
+ > 新闻导读讯石专访武汉永鼎光电子副总经理徐炎先生，了解公司的发展历程及现状。武汉永鼎光电子重点产品为芯片类器件和光电集成模块，为国外的系统商提供无热型AWG等产品，为数据中心光模块公司提供CWDM4/LAN-WDM...
+ ## [英伟达CPU问世：ARM架构，对比x86实现十倍性能提升](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=D05-ezfW218FWX-8LYBXdwjxtcwwyJwIq1J9CHFAtx5nEjdIs78AIUnqxgxgmNs2PGHeCYtovSEtQlFshRhrxZ2QPzL-zTTHKi2K7N9wGWS4xViTPvK5DmHtGcgHHW4e&new=1)
+ > 机器之心报道机器之心编辑部收购 Arm 还没有定论，但英伟达的 Arm 架构 CPU 已经出现了。英特尔现在可能正感受到不一样的压力。「只需一张 GeForce 显卡，每个学生都可以拥有一台超级计算机，这正是 Alex Krizhe...
+ ## [贵阳市产业科技支撑重点项目 技术需求征集活动启动](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=eN66TsNzebtLM3DD*v838Vs1tu5ypZPeWXw9fxAqWNEiJMjqr7twlnS5jC1zAD*gaNp6oWFdiLqAHU4wsA8KlWiTcM1r83FHzjPXL0BlrmA=&new=1)
+ > 本报讯 4月12日，记者从贵阳市科技局获悉，2021年贵阳市产业科技支撑重点项目技术需求征集活动启动，申报单位需于4月30日前将填写完成的征集表电子版发送至市科技局战略规划与重大专项处进行申报。　　据悉...
+ ## [芯片制裁怎么办?华为云有变?还造不造车?华为分析师大会回应一切!(附演讲&问答全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=C10WaIbh6gdlMfYjvGEfpeSKPb5UBX6ukx6T7mRE1O0OYwI-TriEWd*hdltrLmW5UYzcdq3hJS9AUmqO*szVkGUjf3SxpXRgPqRfnI2TImWSKbmcRVFZboNatNQteYPH&new=1)
+ > 自动驾驶不输特斯拉？芯片制裁怎么办？5G能力被夸大？华为分析师大会回应一切！来源:新财富(ID:newfortune)作者:张天伦 经历了美国多轮打压，承受了割爱荣耀品牌的重压，2021年4月12日，华为第十八届全球分析师...
+ ## [人事快讯：中国电信省级高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=l3WJH8A03I7GOENC8KE3jmjGM5dmQp2vCAsIVCQR7zRFbMWA-75P4WGO-RRr-cOJsKVmNnduhAGFJ6rTgM*j81lVYyXxbRfQdID3fggIocMYP3387hDIryOMWc6RxIrN&new=1)
+ > 近期，运营商情报从多方获悉：原中国电信集团企业战略部潘露任四川电信副总经理原中国电信集团云网运营部副总经理王桂荣任科技创新部总经理综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校...
+ ## [乱云飞渡仍从容](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=agtR6f0BEi49pZMoHglYMLACbeR22Yf*4yfbgC3vnzyaeHhHGvS82MvNzft2cw2-IAwzxDjg7BP*yZ005Ru1o*2cDBy5rt9frEymapu0-jEhAZ*x2ktP1D9i7X0tpj70&new=1)
  > 华为公司第18届全球分析师大会12日在深圳开幕。本届大会以“构建万物互联的智能世界”为主题，400多名行业分析师、财经分析师、各行业意见领袖及媒体现场参会，同时来自全球的分析师与媒体也通过线上与会，一起...
- ## [徐直军：华为对移出“实体清单”不抱幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1618273804&ver=3005&signature=QsH*0M954xJTQ0pmbsdyhiI0HKgcakFImyLyyZEo9oshIqvtlpyptF5hZ-OzLiqeYuPbhU8DxmoHjr9IBHsxzoBjNGo3wNonJcHcC8S9Xs2EeXLG6D8nrOBSI*ugIVqq&new=1)
+ ## [徐直军：华为对移出“实体清单”不抱幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=QsH*0M954xJTQ0pmbsdyhiI0HKgcakFImyLyyZEo9oshIqvtlpyptF5hZ-OzLiqe-kn*f9YylgFoQS6Jbk4gjhVVLmiEQ7JzD52cwV0sqz4Q9etfIvDDczVs2tP-g-hb&new=1)
  > “华为对从‘实体清单’中摘出来不抱任何幻想，将长期在‘实体清单’下工作和生活，现在所有的整体战略和具体的举措都是围绕华为人长期在‘实体清单’下还能生存和发展。”华为轮值董事长徐直军在2021华为全球分...
 # IT 技术 
+ ## [机器学习在铁路缺陷检测中的实际应用](http://ai.51cto.com/art/202104/656937.htm)
+ > 机器学习在铁路缺陷检测中的实际应用
+ ## [探究稳定币及其在加密生态系统中的价值定位](http://blockchain.51cto.com/art/202104/656934.htm)
+ > 探究稳定币及其在加密生态系统中的价值定位
  ## [好文档对于开发者的重要性](http://developer.51cto.com/art/202104/656936.htm)
  > 好文档对于开发者的重要性
+ ## [5G背景下的物联网技术在物流行业中的应用](http://network.51cto.com/art/202104/656904.htm)
+ > 5G背景下的物联网技术在物流行业中的应用
  ## [满屏的if-else，怎么消灭它们？](http://developer.51cto.com/art/202104/656972.htm)
  > 满屏的if-else，怎么消灭它们？
- ## [微众银行：分布式架构之高可用](http://news.51cto.com/art/202104/656884.htm)
- > 微众银行：分布式架构之高可用
- ## [启动机器学习/深度学习项目的八种方法](http://ai.51cto.com/art/202104/656740.htm)
- > 启动机器学习/深度学习项目的八种方法
- ## [黑客用GitHub服务器挖矿，三天跑了3万个任务，代码惊现中文](http://news.51cto.com/art/202104/656819.htm)
- > 黑客用GitHub服务器挖矿，三天跑了3万个任务，代码惊现中文
- ## [使云存储再次简单的两个建议](http://cloud.51cto.com/art/202104/656739.htm)
- > 使云存储再次简单的两个建议
- ## [学会这10种定时任务，我有点飘了](http://developer.51cto.com/art/202104/656702.htm)
- > 学会这10种定时任务，我有点飘了
- ## [JavaWEB核心编程视频教程（无讲师答疑）](http://fellow.51cto.com/art/202101/639104.htm?qd=51ctojrzd)
- > JavaWEB核心编程视频教程（无讲师答疑）
- ## [节前，没了灵魂的伙，在学习值和引用之间的区别](http://developer.51cto.com/art/202104/656979.htm)
- > 在JavaScript中，可以通过值和引用传递。两者之间的主要区别是，按值传递发生在赋值基本类型的时候，而赋值
- ## [新爆料证实 Windows 10应用窗口正变得圆角化](http://os.51cto.com/art/202104/656978.htm)
- > 在微软发布的 Windows 10 的 Tips 应用中的截图中，首次意外地泄露了界面的变化。之后这些图被删除了，如下
- ## [比试一下：Swagger3就是比2简单粗暴](http://developer.51cto.com/art/202104/656977.htm)
- > 接口文档总是很烦人，我曾经尝试过用Postman来编写和分享项目文档，感觉还不错。但是最近项目紧，我没有额
- ## [git stash 命令实用指南](http://developer.51cto.com/art/202104/656974.htm)
- > 本文将介绍 git stash 命令，并探讨一些有用的暂存变更的选项。本文假定你对 Git 概念 有基本的了解，并对
- ## [使用 Elixir 语言编写一个小游戏](http://developer.51cto.com/art/202104/656973.htm)
- > 通过编写“猜数字”游戏来学习 Elixir 编程语言，并将它与一个你熟知的语言做对比。
- ## [从需求出发设计一条开源持续部署流水线](http://os.51cto.com/art/202104/656970.htm)
- > 本次实践从需求出发到部署，采用大部分开源工具链Jira+GitLab+Jenkins+Spinnaker. Jira作为需求和任务管理
- ## [Windows 10界面设计有变化！新版开始菜单要这样改](http://os.51cto.com/art/202104/656967.htm)
- > Windows 10新版中，开始菜单和搜索相互独立分离，而搜索也将会增添一些新特性。例如，微软正在计划让Edge浏
- ## [太惨了！蓝屏了，我的文章没了](http://developer.51cto.com/art/202104/656966.htm)
- > Linux上咱们使用tcpdump抓取数据包时，底层使用的核心库就是libpcap，这是一个开源项目，在Windows上对应的
- ## [Kubernetes存储大脑之etcd](http://stor.51cto.com/art/202104/656965.htm)
- > etcd 是兼具一致性和高可用性的键值数据库，可用于服务发现以及配置中心。ETCD 采用 raft 一致性算法，基于
- ## [C 可控类型，你知道几个？](http://developer.51cto.com/art/202104/656964.htm)
- > C 单问号 ? 与 双问号 ?? ? : 单问号用于对 int,double,bool 等无法直接赋值为 null 的数据类型进行 null
+ ## [鸿蒙内核源码分析(事件控制篇) | 任务间多对多的同步方案](http://os.51cto.com/art/202104/656921.htm)
+ > 鸿蒙内核源码分析(事件控制篇) | 任务间多对多的同步方案
+ ## [AI一键去纹身，几秒钟让你看见明星「真面目」](http://news.51cto.com/art/202104/656883.htm)
+ > AI一键去纹身，几秒钟让你看见明星「真面目」
+ ## [【王佩丰】Excel 图表实战 视频教程](http://fellow.51cto.com/art/202012/635878.htm?qd=51ctojrzd)
+ > 【王佩丰】Excel 图表实战 视频教程
+ ## [做好这三个关键点就可以更好的实现前端业务组件库](http://news.51cto.com/art/202104/657006.htm)
+ > 对于前端同学来说， 业务组件库肯定不陌生，很多前端团队都会选择建设业务组件库来解决
+ ## [重罚阿里的“榔头”能否敲醒互联网巨头？](http://network.51cto.com/art/202104/657004.htm)
+ > 国家市场监管总局依法对阿里巴巴集团处以182.28亿元罚款，起因是阿里巴巴集团涉嫌实施滥用市场支配地位。这
+ ## [一季度全球PC出货量飙升32% 创21年最快增速](http://biz.51cto.com/art/202104/657003.htm)
+ > 市场研究公司 Gartner 周一发布的报告显示，今年一季度全球个人电脑(PC)出货量达6990万台，同比增长 32%，
+ ## [鸿蒙内核源码分析(信号量篇) | 信号量解决任务同步问题](http://os.51cto.com/art/202104/656923.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [JavaScript之走近原型链](http://developer.51cto.com/art/202104/657001.htm)
+ > 原型链是JavaScript这门语言设计的十分有意思的地方之一。在解析原型链之前，我们需要了解以下几个重要的概
+ ## [Nodejs系列之使用V8编写C++插件](http://developer.51cto.com/art/202104/657000.htm)
+ > 本文介绍在写c++插件时，简单又常用的写法，其实本质上，写插件的难处在于底层的能力和对libuv、v8的了解。
+ ## [信通院：3月国内5G手机出货量2749.8万部 同比增长76.2%](http://network.51cto.com/art/202104/656999.htm)
+ > 2020年是5G发展元年，2021年是5G用户发展的加速之年。从近期三大运营商发布的5G用户数量来看，也可以看出5G
+ ## [聊聊网络设备那点儿事儿](http://network.51cto.com/art/202104/656996.htm)
+ > 可能有的朋友会想，为什么我家里只有无线路由器，却没有交换机?交换机是干嘛的?跟路由器有什么区别?这回我
+ ## [什么是DevOps？一份简单易懂的教程](http://os.51cto.com/art/202104/656998.htm)
+ > DevOps是对已建立的 IT流程的简化或者自动化。这里有一个简短的教程来帮助你理解和开始使用 DevOps。
+ ## [详细了解 InnoDB 内存结构及其原理](http://stor.51cto.com/art/202104/656997.htm)
+ > 聊了一下MySQL和InnoDB的日志，和两次写，总的来说算是一个入门级别的介绍，这篇文章就来详细介绍一下InnoD
  ## [万字长文爆肝Python基础入门【巨详细，一学就会】](https://blog.csdn.net/weixin_44985880/article/details/115622253)
  > 
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -61,8 +69,8 @@ categories: IT NEWS
  > 
  ## [超硬核！数据库原理学霸笔记，保证你考试/面试都能应付](https://blog.csdn.net/hebtu666/article/details/115613082)
  > 超硬核！数据库原理学霸笔记，保证你考试/面试都能应付
- ## [数据结构算法：基于C语言用图实现最短路径，太妙了！](https://blog.csdn.net/lucky51222/article/details/115634407)
- > 数据结构算法：基于C语言用图实现最短路径，太妙了！
+ ## [Python爬虫：BeatifulSoap解析HTML报文的三个实用技巧](https://blog.csdn.net/LaoYuanPython/article/details/115496708)
+ > Python爬虫：BeatifulSoap解析HTML报文的三个实用技巧
  ## [用JS简单实现Vue的双向绑定](https://blog.csdn.net/dkm123456/article/details/115531729)
  > 用JS简单实现Vue的双向绑定
  ## [B站疯传，一整套Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！](https://blog.csdn.net/A_7878520/article/details/115548648)
@@ -115,6 +123,8 @@ categories: IT NEWS
  ## [新版的ARMv9到底牛在哪？](https://blog.csdn.net/BEYONDMA/article/details/115494678)
  > 新版的ARMv9到底牛在哪？
 # PM 
+ ## [设计公司集团官网原型](http://www.chanpin100.com/article/114491)
+ > 这是一个展示品牌设计行业额公司官网/企业站，通过对公司的业务、文化、服务案例等的综合展示，为用户呈现一个立体的、有良好印象和品牌形象的企业集团，该作品，除了在静态上体现设计公司独有的特质之外，还通过更为细致的、柔和的交互样式，为用户浏览网站提供良好的操作体验和感受。
  ## [B端产品经理之什么是2B产品？](http://www.chanpin100.com/article/114522)
  > 对于想入门B端产品经理的小伙伴来讲，首先需要弄清楚什么是2B产品，这是最基本要掌握的点，什么是2B产品？下面请看本文的内容。
  ## [做好B端产品要关注哪些数据指标？](http://www.chanpin100.com/article/114521)
@@ -153,7 +163,5 @@ categories: IT NEWS
  > 一大早，人还在地铁，就被群里的大佬们侃侃而谈的阔论刷屏了。大佬做了个调查：社区团的价格，在你们所在的城市，是否具备价格和体验上的优势呢？
  ## [【数智对话专栏】数字经济时代 IT人如何面对变幻？](http://www.chanpin100.com/article/114477)
  > “数智对话专栏”精选于2021企业数字化转型落地高峰论坛暨《数字化转型方法论》新书发布会上的嘉宾所提到的精彩观点。本文将为读者带来由亿欧EqualOcean董事总经理王彬、 万国数据高级副总裁卢东明、国云数据创始人马晓东三位大咖分享的《数字经济时代，IT人如何面对变幻？》精彩内容。
- ## [可视化大屏炫酷高档 结合智能楼宇会变成什么样？](http://www.chanpin100.com/article/114476)
- > 图扑软件（Hightopo）三维仿真智能楼宇的一切数据都将基于楼宇的三维仿真模型来绑定并展现。在保持与实际建筑完全一致的前提下致力于展现高精度的模型，可依据具体需求制作科幻或写实风格的建筑模型，以满足实际项目的多样化展示需求。
 
     
