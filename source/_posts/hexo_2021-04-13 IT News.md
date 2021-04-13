@@ -1,28 +1,40 @@
 ---
 title: 2021-04-13 IT News
 copyright: true
-date: 2021-04-13 10:00:59
+date: 2021-04-13 12:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [芯片圈变天了!英伟达推出首个CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=EyQWDl6F96gqE0pqHBLAAF3J0nCWDttNpeqMa7nKn6417nwV-WIcI1hH7WEuonoKKCrhjXG16N0fxysH*iTTGic0lRmAi3mUXRhyJyHV4saXiARKoFD2q9tWDeQUrcx7&new=1)
- > 老黄你变了！GPU之王英伟达首推CPU。作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达...
- ## [\[报告\]2021年中国商用车市场研究(附62页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=aasb3N*Tj*yx1zHBz1aLLQRSkbwWJCqUHIvgFMs4glFvxUMDgKVVvze8XYJbWrdRnlnMO68rjo*nqp4NvOERxCGC-lKw*PkBBormMezO*FItGbrCuMoOmduz*hqAsAT0&new=1)
- > 2020年，受国Ⅲ车辆淘汰、治超加严、新基建投资增长以及营销多元化等因素的影响，商用车全年销量呈现逆势上扬。全年商用车终端销量达到454万辆，同比增长18.7%，创年度历史新高，是目前处于存量竞争中的汽车市场...
- ## [讯石专访|武汉永鼎光电子：从芯片到器件 以技术、可靠性、性价比赢得市场](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=AUh4cWTCBcksbblscumw54w8QIlxDBx7fv2EVtTEq9RZfWQFTz7vJVZtlBlj1R1PGvTTlClQSpi**222t4zqhC8hjRgKacqyDGwhELJdfHQX2lcAm0YlGHqhKsZUs9w1&new=1)
- > 新闻导读讯石专访武汉永鼎光电子副总经理徐炎先生，了解公司的发展历程及现状。武汉永鼎光电子重点产品为芯片类器件和光电集成模块，为国外的系统商提供无热型AWG等产品，为数据中心光模块公司提供CWDM4/LAN-WDM...
- ## [英伟达CPU问世：ARM架构，对比x86实现十倍性能提升](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=D05-ezfW218FWX-8LYBXdwjxtcwwyJwIq1J9CHFAtx5nEjdIs78AIUnqxgxgmNs2PGHeCYtovSEtQlFshRhrxZ2QPzL-zTTHKi2K7N9wGWS4xViTPvK5DmHtGcgHHW4e&new=1)
- > 机器之心报道机器之心编辑部收购 Arm 还没有定论，但英伟达的 Arm 架构 CPU 已经出现了。英特尔现在可能正感受到不一样的压力。「只需一张 GeForce 显卡，每个学生都可以拥有一台超级计算机，这正是 Alex Krizhe...
- ## [贵阳市产业科技支撑重点项目 技术需求征集活动启动](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=eN66TsNzebtLM3DD*v838Vs1tu5ypZPeWXw9fxAqWNEiJMjqr7twlnS5jC1zAD*gaNp6oWFdiLqAHU4wsA8KlWiTcM1r83FHzjPXL0BlrmA=&new=1)
+ ## [LG开放webOS智能电视系统：电视流媒体平台整合](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=CZljxnZ1tebXBJ2NZU69qNd0hXr1VtYwlKVgDbVlxrgzaK0CRAgmD2yhlU-HQ*VjbNvCI87X1qo1492Ql0y5cP9vNA0N6v7bj1Y5TeM5ahP1oIy5bljfHtv-VSHsfE95&new=1)
+ > StrategyAnalytics发布报告称，LG宣布将向其他供应商开放其webOS电视平台，这清楚地表明，电视流媒体平台的整合阶段进展顺利。　　根据StrategyAnalytics最近的研究，目前世界上有13亿台联网电视设备在使用的...
+ ## [因财务造假，贾跃亭被罚 2.41 亿元；华为徐直军重申不造成：但将推子品牌汽车；Gradle 7.0 发布|极客头条](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=JWdoSsLlDTjZW4-vl*ZF0daE8Np9R5t6L1k2bN2OMQivZpfEEOcDipX89vRSb3fPwOCJPpZbBDMsszLGaPqgYjufO333dXOQEzHindgnp4DslTbvDxi9zd5AkyGMI7TQ&new=1)
+ > 「极客头条」—— 技术人员的新闻圈！CSDN 的读者朋友们早上好哇，「极客头条」来啦，快来看今天都有哪些值得我们技术人关注的重要新闻吧。整理 | 梦依丹出品 | CSDN（ID：CSDNnews）一分钟速览新闻点！华为轮值...
+ ## [瞭望|追芯探路③：“老实是最大的捷径”](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=svNgi2cYwpmc4fgW90TDEzQAdj9GstEAQeOl3egO4T0s92z9uGJQkPI*ivz8*Wt8-YUwlKZaZMzs*-aWwcCNveTyFcyZ8kc1vkJXidNxG*uWC5CPT54R0RlhqRSl7xau&new=1)
+ > ◆ 中国发展集成电路产业成功的标志，是打造出世界上第三套生态体系◆ 我国计算机发展现在是第三阶段，目标是在市场化条件下实现自主性◆ 现在还是有不少地方依赖“市场换技术”的模式，多款CPU、整机产线一拥而...
+ ## [2021年美国网络安全：制止疯狂](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=BHj5YXIlYrDOuAXKbXh0h5dlZNQtYjRFC084sGZHrp-R0UD379SJ*TbdAJnswlzgRjJ6EAV70c01uIlvZE--aWU1Bg4FEuYL*7lZuQ*ajXsqsJbdIMB0WLWzJq7c6936&new=1)
+ > E安全4月12日讯   据近日美国媒体报道：2021年网络安全的挑战比以往任何时候都更大。幸运的是，正确的战略防御措施甚至可以帮助价值最高的目标经受严峻的攻击。软件已吞噬了整个世界。结果，世界可以被黑客入侵...
+ ## [贵阳市产业科技支撑重点项目 技术需求征集活动启动](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=eN66TsNzebtLM3DD*v838Vs1tu5ypZPeWXw9fxAqWNEg3nwxKuVE0NM2NauFi1LKsicgJCnrjWKcZl7cUryOFA4LDMU3EWCNhG19BZgxLcQ=&new=1)
  > 本报讯 4月12日，记者从贵阳市科技局获悉，2021年贵阳市产业科技支撑重点项目技术需求征集活动启动，申报单位需于4月30日前将填写完成的征集表电子版发送至市科技局战略规划与重大专项处进行申报。　　据悉...
- ## [芯片制裁怎么办?华为云有变?还造不造车?华为分析师大会回应一切!(附演讲&问答全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=C10WaIbh6gdlMfYjvGEfpeSKPb5UBX6ukx6T7mRE1O0OYwI-TriEWd*hdltrLmW5UYzcdq3hJS9AUmqO*szVkGUjf3SxpXRgPqRfnI2TImWSKbmcRVFZboNatNQteYPH&new=1)
+ ## [“不造车”的华为敲定三大车企合作伙伴](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=4JW8ogK-iWNlEFvW7wuXs8YTFGdCfss3Viogbj*g38SjLkELEzCnXHWT6DZuNVrGzISllmfqhnBrGvkR4tqW3PlTONPKvNiCcBV32vq32DI=&new=1)
+ > 4月12日，华为公司第18届全球分析师大会在深圳开幕，华为轮值董事长徐直军在会上阐述了下一个十年华为的五大战略重心，并详解“华为为何不造车”。　　徐直军表示，华为未来将强力投资智能汽车产业部件，做...
+ ## [英伟达CPU问世：ARM架构，对比x86实现十倍性能提升](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=D05-ezfW218FWX-8LYBXdwjxtcwwyJwIq1J9CHFAtx6Tn9Y34IId9Dr8r9t6AmuI6dtkzgJ*i9xumtE-SQUeJSjFixgdACj4-q3FNFs8lUf5YuZUUJn74VFg4Lk81hcZ&new=1)
+ > 机器之心报道机器之心编辑部收购 Arm 还没有定论，但英伟达的 Arm 架构 CPU 已经出现了。英特尔现在可能正感受到不一样的压力。「只需一张 GeForce 显卡，每个学生都可以拥有一台超级计算机，这正是 Alex Krizhe...
+ ## [讯石专访|武汉永鼎光电子：从芯片到器件 以技术、可靠性、性价比赢得市场](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=AUh4cWTCBcksbblscumw54w8QIlxDBx7fv2EVtTEq9Q2VUEETIVDMtDkdUuFsL39hPHC0kvZ56APdwV*PHMupEKa9Vkz4g6o6aUnSIvai7bqYRRjpBBcRFsHMh8EiWQH&new=1)
+ > 新闻导读讯石专访武汉永鼎光电子副总经理徐炎先生，了解公司的发展历程及现状。武汉永鼎光电子重点产品为芯片类器件和光电集成模块，为国外的系统商提供无热型AWG等产品，为数据中心光模块公司提供CWDM4/LAN-WDM...
+ ## [新款比亚迪宋Pro发布；三星Galaxy S22 Ultra将搭载2亿像素主摄|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=dQQCNQNAyw1WszfVkUO4-hL*cIqFHMSstKNnie6GF7ZD67FoNWWKWGDyqNZdbXxkArzTLaUs0LryITk3bF-y1*Y*dNcpfNcmYLBYEkdF8P8BpbaoZWuygp7T*es5tACh&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【新款比亚迪宋Pro发布】新款比亚迪宋Pro在12日晚间发布，车型尺寸方面，长宽高分别为4650/1860/1700mm，轴距为2712mm。除了在设
+ ## [芯片圈变天了!英伟达推出首个CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=EyQWDl6F96gqE0pqHBLAAF3J0nCWDttNpeqMa7nKn6702-ewnmWlCMfwhnAEnNaDs9nyKF7YJk49UqACw6hwdh1LfkqB*Y2Z1aNLp2d2LP9F1jyvSEV*Hc8KcAsX4sTb&new=1)
+ > 老黄你变了！GPU之王英伟达首推CPU。作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达...
+ ## [\[报告\]2021年中国商用车市场研究(附62页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=aasb3N*Tj*yx1zHBz1aLLQRSkbwWJCqUHIvgFMs4glEXDK83CFEjD1GIlIXfd*-kN1uITqTkVgGEu3WuSsmw6VzcsTienBsyRjMXF4Z8XwzR3DgvyvjsPsCgbFL9bOLi&new=1)
+ > 2020年，受国Ⅲ车辆淘汰、治超加严、新基建投资增长以及营销多元化等因素的影响，商用车全年销量呈现逆势上扬。全年商用车终端销量达到454万辆，同比增长18.7%，创年度历史新高，是目前处于存量竞争中的汽车市场...
+ ## [芯片制裁怎么办?华为云有变?还造不造车?华为分析师大会回应一切!(附演讲&问答全文)](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=C10WaIbh6gdlMfYjvGEfpeSKPb5UBX6ukx6T7mRE1O1IHygvzEVqfd2VBwY*bKxoZdAdJWF8T7k-K9JF2KmDr41I6H8hdPL21yGKUg1AASByo4xCAVjyuIx12gM5t7Z7&new=1)
  > 自动驾驶不输特斯拉？芯片制裁怎么办？5G能力被夸大？华为分析师大会回应一切！来源:新财富(ID:newfortune)作者:张天伦 经历了美国多轮打压，承受了割爱荣耀品牌的重压，2021年4月12日，华为第十八届全球分析师...
- ## [人事快讯：中国电信省级高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=l3WJH8A03I7GOENC8KE3jmjGM5dmQp2vCAsIVCQR7zRFbMWA-75P4WGO-RRr-cOJsKVmNnduhAGFJ6rTgM*j81lVYyXxbRfQdID3fggIocMYP3387hDIryOMWc6RxIrN&new=1)
+ ## [人事快讯：中国电信省级高管任职调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=l3WJH8A03I7GOENC8KE3jmjGM5dmQp2vCAsIVCQR7zRf8uDgX4uXaHww9*N2ZRb1Gwar193TNQxE1ByXHNVwQDacu8nO1v5-NRUzczP0v5ECzRjWte301xkomfUCU8bx&new=1)
  > 近期，运营商情报从多方获悉：原中国电信集团企业战略部潘露任四川电信副总经理原中国电信集团云网运营部副总经理王桂荣任科技创新部总经理综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校...
- ## [乱云飞渡仍从容](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=agtR6f0BEi49pZMoHglYMLACbeR22Yf*4yfbgC3vnzyaeHhHGvS82MvNzft2cw2-IAwzxDjg7BP*yZ005Ru1o*2cDBy5rt9frEymapu0-jEhAZ*x2ktP1D9i7X0tpj70&new=1)
+ ## [乱云飞渡仍从容](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=agtR6f0BEi49pZMoHglYMLACbeR22Yf*4yfbgC3vnzx2PZY5zEImrFlN1pMhvuADO019C*wRTEvf2pVq15TWlwgzSqZ56WmkXImtIq3jwaMwTnBkxxKYkzjkgOeg0a62&new=1)
  > 华为公司第18届全球分析师大会12日在深圳开幕。本届大会以“构建万物互联的智能世界”为主题，400多名行业分析师、财经分析师、各行业意见领袖及媒体现场参会，同时来自全球的分析师与媒体也通过线上与会，一起...
- ## [徐直军：华为对移出“实体清单”不抱幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1618279204&ver=3005&signature=QsH*0M954xJTQ0pmbsdyhiI0HKgcakFImyLyyZEo9oshIqvtlpyptF5hZ-OzLiqe-kn*f9YylgFoQS6Jbk4gjhVVLmiEQ7JzD52cwV0sqz4Q9etfIvDDczVs2tP-g-hb&new=1)
+ ## [徐直军：华为对移出“实体清单”不抱幻想](http://mp.weixin.qq.com/s?src=11&timestamp=1618286404&ver=3005&signature=QsH*0M954xJTQ0pmbsdyhiI0HKgcakFImyLyyZEo9otqUmq9jKneLH-qkb*gpIWI2-idKTHNVJDLujZAZaLm*PreG8tb*INRYgRRkglruxkGo-btTfz7Fg5nYByMQKSD&new=1)
  > “华为对从‘实体清单’中摘出来不抱任何幻想，将长期在‘实体清单’下工作和生活，现在所有的整体战略和具体的举措都是围绕华为人长期在‘实体清单’下还能生存和发展。”华为轮值董事长徐直军在2021华为全球分...
 # IT 技术 
  ## [机器学习在铁路缺陷检测中的实际应用](http://ai.51cto.com/art/202104/656937.htm)
@@ -39,28 +51,28 @@ categories: IT NEWS
  > 鸿蒙内核源码分析(事件控制篇) | 任务间多对多的同步方案
  ## [AI一键去纹身，几秒钟让你看见明星「真面目」](http://news.51cto.com/art/202104/656883.htm)
  > AI一键去纹身，几秒钟让你看见明星「真面目」
- ## [【王佩丰】Excel 图表实战 视频教程](http://fellow.51cto.com/art/202012/635878.htm?qd=51ctojrzd)
- > 【王佩丰】Excel 图表实战 视频教程
- ## [做好这三个关键点就可以更好的实现前端业务组件库](http://news.51cto.com/art/202104/657006.htm)
- > 对于前端同学来说， 业务组件库肯定不陌生，很多前端团队都会选择建设业务组件库来解决
- ## [重罚阿里的“榔头”能否敲醒互联网巨头？](http://network.51cto.com/art/202104/657004.htm)
- > 国家市场监管总局依法对阿里巴巴集团处以182.28亿元罚款，起因是阿里巴巴集团涉嫌实施滥用市场支配地位。这
- ## [一季度全球PC出货量飙升32% 创21年最快增速](http://biz.51cto.com/art/202104/657003.htm)
- > 市场研究公司 Gartner 周一发布的报告显示，今年一季度全球个人电脑(PC)出货量达6990万台，同比增长 32%，
- ## [鸿蒙内核源码分析(信号量篇) | 信号量解决任务同步问题](http://os.51cto.com/art/202104/656923.htm)
- > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
- ## [JavaScript之走近原型链](http://developer.51cto.com/art/202104/657001.htm)
- > 原型链是JavaScript这门语言设计的十分有意思的地方之一。在解析原型链之前，我们需要了解以下几个重要的概
- ## [Nodejs系列之使用V8编写C++插件](http://developer.51cto.com/art/202104/657000.htm)
- > 本文介绍在写c++插件时，简单又常用的写法，其实本质上，写插件的难处在于底层的能力和对libuv、v8的了解。
- ## [信通院：3月国内5G手机出货量2749.8万部 同比增长76.2%](http://network.51cto.com/art/202104/656999.htm)
- > 2020年是5G发展元年，2021年是5G用户发展的加速之年。从近期三大运营商发布的5G用户数量来看，也可以看出5G
- ## [聊聊网络设备那点儿事儿](http://network.51cto.com/art/202104/656996.htm)
- > 可能有的朋友会想，为什么我家里只有无线路由器，却没有交换机?交换机是干嘛的?跟路由器有什么区别?这回我
- ## [什么是DevOps？一份简单易懂的教程](http://os.51cto.com/art/202104/656998.htm)
- > DevOps是对已建立的 IT流程的简化或者自动化。这里有一个简短的教程来帮助你理解和开始使用 DevOps。
- ## [详细了解 InnoDB 内存结构及其原理](http://stor.51cto.com/art/202104/656997.htm)
- > 聊了一下MySQL和InnoDB的日志，和两次写，总的来说算是一个入门级别的介绍，这篇文章就来详细介绍一下InnoD
+ ## [【112】综合拓扑局部排错-丁某-20201110](http://fellow.51cto.com/art/202101/642003.htm?qd=51ctojrzd)
+ > 【112】综合拓扑局部排错-丁某-20201110
+ ## [关于隐私权设置，Facebook和苹果在“杠”的同时，Mozilla可遭殃了！](http://netsecurity.51cto.com/art/202104/657035.htm)
+ > 在Facebook建议将其作为更新的隐私增强功能的补救措施后，苹果最近推出的隐私增强功能导致在线营销人员向Mo
+ ## [iPhone为何成为大家出国的第一选择？这三点很重要](http://mobile.51cto.com/hot-657034.htm)
+ > 你有没有发现一个现象，就是为何大家出国首选的都是iPhone，而不是我们所能买到的其它手机？小黑曾经也有同
+ ## [中国信通院何宝宏：数据中心已成为技术创新的制高点](http://network.51cto.com/art/202104/657032.htm)
+ > 在近日举行的“硅光集成与数据中心应用线上研讨会”上，中国信息通信研究院云计算与大数据研究所所长何宝宏
+ ## [法国数字货币发展方兴未艾](http://blockchain.51cto.com/art/202104/657031.htm)
+ > 法国中央银行法兰西银行在官网表示，由私人或私企发行的加密货币引发的种种风险，推动国家和金融监管机构进
+ ## [邬贺铨：工业互联网讲起来容易做起来比较难](http://www.cioage.com/art/202104/657028.htm)
+ > 近日，在“建设数字中国，产业如何数字化发展?”论坛上，中国工程院院士、著名通信专家邬贺铨表示：“我们
+ ## [人工智能伦理治理亟需迈向实践阶段](http://ai.51cto.com/art/202104/657025.htm)
+ > 从“原则”到“实践”，是AI伦理领域的发展方向。目前，我国已提出了AI伦理相关的原则、框架等，如《新一代
+ ## [越用越慢的网盘，到底是不是未来的个人存储形态](http://stor.51cto.com/art/202104/657023.htm)
+ > 你还在用网盘吗？速度如何？云盘“堕落”成这样的时代，到底还是未来的存储形态吗？
+ ## [为什么说混合多云才是上云的正确通道？](http://cloud.51cto.com/art/202104/657021.htm)
+ > 云计算的扩展性和灵活性一直为人称道，企业往往会根据所需选择不同的部署模式。对于零售、娱乐、电商等周期
+ ## [130万名用户信息被挂在网上，Clubhouse数据泄露](http://netsecurity.51cto.com/art/202104/657019.htm)
+ > 外媒报道，Clubhouse没能逃脱数据泄露的噩运，其包含130万Clubhouse用户记录的SQL数据库在一个人气黑客论坛
+ ## [Edge Canary有了一个新的工作空间功能 你现在就可以试试了](http://os.51cto.com/art/202104/657017.htm)
+ > 微软基于Chromium的Edge浏览器获得新功能的频率相当高，现在，另一个有用的功能可能即将出现。正如Reddit用
  ## [万字长文爆肝Python基础入门【巨详细，一学就会】](https://blog.csdn.net/weixin_44985880/article/details/115622253)
  > 
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -69,8 +81,8 @@ categories: IT NEWS
  > 
  ## [超硬核！数据库原理学霸笔记，保证你考试/面试都能应付](https://blog.csdn.net/hebtu666/article/details/115613082)
  > 超硬核！数据库原理学霸笔记，保证你考试/面试都能应付
- ## [Python爬虫：BeatifulSoap解析HTML报文的三个实用技巧](https://blog.csdn.net/LaoYuanPython/article/details/115496708)
- > Python爬虫：BeatifulSoap解析HTML报文的三个实用技巧
+ ## [【数据库原理及应用】经典题库附答案（14章全）——第五章：关系数据理论](https://blog.csdn.net/lucky51222/article/details/115642237)
+ > 【数据库原理及应用】经典题库附答案（14章全）——第五章：关系数据理论
  ## [用JS简单实现Vue的双向绑定](https://blog.csdn.net/dkm123456/article/details/115531729)
  > 用JS简单实现Vue的双向绑定
  ## [B站疯传，一整套Python、网络爬虫、人工智能学习资料，白拿不谢，叫我老好人！](https://blog.csdn.net/A_7878520/article/details/115548648)
@@ -94,35 +106,39 @@ categories: IT NEWS
 # 人工智能 
  ## [百万年薪程序员必会的五种技术](https://blog.csdn.net/weixin_42259925/article/details/109395988)
  > 百万年薪程序员必会的五种技术
- ## [还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法](https://blog.csdn.net/wenyusuran/article/details/114093268)
- > 还在为数学建模的事发愁？带你一起来看看数模竞赛中必备的经典算法
- ## [Android 11 变更及适配攻略](https://blog.csdn.net/qq_17766199/article/details/115351949)
- > Android 11 变更及适配攻略
- ## [大意！6行代码，“报废”5片单片机！](https://blog.csdn.net/m0_38106923/article/details/115381201)
- > 大意！6行代码，“报废”5片单片机！
- ## [经过 8 万画作+人工注释训练，算法学会了赏析名画](https://blog.csdn.net/HyperAI/article/details/115410505)
- > 经过 8 万画作+人工注释训练，算法学会了赏析名画
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [那些年我在CSDN追过的安全白帽大佬，respect](https://blog.csdn.net/Eastmount/article/details/115468089)
- > 那些年我在CSDN追过的安全白帽大佬，respect
- ## [TIOBE 4 月榜单：上古编程语言 Fortran 击败 Objective-C，PHP、Go 下滑](https://blog.csdn.net/csdnnews/article/details/115475053)
- > TIOBE 4 月榜单：上古编程语言 Fortran 击败 Objective-C，PHP、Go 下滑
- ## [今日头条 ANR 优化实践系列 - Barrier 导致主线程假死](https://blog.csdn.net/ByteDanceTech/article/details/115475302)
- > 今日头条 ANR 优化实践系列 - Barrier 导致主线程假死
- ## [ClickHouse性能优化？试试物化视图](https://blog.csdn.net/zlt2000/article/details/115477384)
- > ClickHouse性能优化？试试物化视图
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [极客日报第98期：雷军回应小米新 Logo 争议；马化腾排名第 15 位，2021 全球亿万富豪榜出炉！谷歌将停止使用甲骨文的财务软件](https://blog.csdn.net/weixin_39786569/article/details/115478039)
- > 极客日报第98期：雷军回应小米新 Logo 争议；马化腾排名第 15 位，2021 全球亿万富豪榜出炉！谷歌将停止使用甲骨文的财务软件
+ ## [PL/pgSQL编写postgresql函数之基本语句](https://blog.csdn.net/qq_39727113/article/details/111201450)
+ > PL/pgSQL编写postgresql函数之基本语句
  ## [十分钟教你掌握CPU缓存](https://blog.csdn.net/songguangfan/article/details/115479861)
  > 十分钟教你掌握CPU缓存
- ## [Android 启动优化（六）- 深入理解布局优化](https://blog.csdn.net/gdutxiaoxu/article/details/115484286)
- > Android 启动优化（六）- 深入理解布局优化
- ## [新版的ARMv9到底牛在哪？](https://blog.csdn.net/BEYONDMA/article/details/115494678)
- > 新版的ARMv9到底牛在哪？
+ ## [极客日报第99期：百度网盘海外版上传下载不限速；一季度北京平均月薪达11187元；苹果 CEO 增加新候选人](https://blog.csdn.net/weixin_39786569/article/details/115504888)
+ > 极客日报第99期：百度网盘海外版上传下载不限速；一季度北京平均月薪达11187元；苹果 CEO 增加新候选人
+ ## [android gradle 多渠道打包小结](https://blog.csdn.net/Double2hao/article/details/115531299)
+ > android gradle 多渠道打包小结
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [疑难杂症:导航装置的高可用](https://blog.csdn.net/BEYONDMA/article/details/115531681)
+ > 疑难杂症:导航装置的高可用
+ ## [官宣！DolphinScheduler 毕业成为 Apache 软件基金会顶级项目](https://blog.csdn.net/csdnnews/article/details/115536623)
+ > 官宣！DolphinScheduler 毕业成为 Apache 软件基金会顶级项目
+ ## [照猫画虎，分分钟学会的Matplotlib技巧：反转轴、绘制双轴和定制刻度](https://blog.csdn.net/xufive/article/details/115540318)
+ > 照猫画虎，分分钟学会的Matplotlib技巧：反转轴、绘制双轴和定制刻度
+ ## [一文看懂：如何从源头防止数据隐私泄露](https://blog.csdn.net/Matrix_element/article/details/115552381)
+ > 一文看懂：如何从源头防止数据隐私泄露
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [Android WebView 踩坑日记，字体怎么突然变小了？？？](https://blog.csdn.net/gdutxiaoxu/article/details/115552615)
+ > Android WebView 踩坑日记，字体怎么突然变小了？？？
+ ## [重磅官宣：Nacos2.0性能提升10倍](https://blog.csdn.net/alitech2017/article/details/115555948)
+ > 重磅官宣：Nacos2.0性能提升10倍
+ ## [Go语言“十诫”\[译\]](https://blog.csdn.net/bigwhite20xx/article/details/115562167)
+ > Go语言“十诫”\[译\]
+ ## [实时 OLAP， 从 0 到 1](https://blog.csdn.net/weixin_44904816/article/details/115562335)
+ > 实时 OLAP， 从 0 到 1
 # PM 
+ ## [产品经理简历中的关键词有哪些](http://www.chanpin100.com/article/114528)
+ > 产品经理简历中的关键词有哪些？因为要找的是产品经理的职位，简历一定要体现出与职位相匹配的关键词。一定要记住前面这句话，这就是你的通关秘诀！下边请看具体内容。
+ ## [产品经理简历中的一些错误你了解了吗？](http://www.chanpin100.com/article/114525)
+ > 产品经理简历中的一些错误你了解了吗？很多人觉得写简历的时候去复制一些别人的模板就可以了，这是一个错误的想法。因为别人能面试通过不是单纯靠的简历，而是真正的付出过努力。下边为大家介绍简历中的一些错误，希望你能帮到大家。
  ## [设计公司集团官网原型](http://www.chanpin100.com/article/114491)
  > 这是一个展示品牌设计行业额公司官网/企业站，通过对公司的业务、文化、服务案例等的综合展示，为用户呈现一个立体的、有良好印象和品牌形象的企业集团，该作品，除了在静态上体现设计公司独有的特质之外，还通过更为细致的、柔和的交互样式，为用户浏览网站提供良好的操作体验和感受。
  ## [B端产品经理之什么是2B产品？](http://www.chanpin100.com/article/114522)
@@ -159,9 +175,5 @@ categories: IT NEWS
  > 在线教育”和“直播”无疑是2020年持续到2021年的年度热词,受到社会各界广泛关注。根据艾瑞咨询数据,2020年中国在线教育行业市场规模达到2573亿元,过去4年的CAGR达 34.5%,整体线上化率为23-25%。
  ## [做好一个产品经理 我还是决定从画原型开始](http://www.chanpin100.com/article/114479)
  > 还在相信那个所谓的“废掉一个产品经理，就是天天让他画原型”的推文吗？看完这篇你就懂了，《做好产品经理，我还是决定从画原型开始》，原型是检验一个产品经理是否优秀的标准之一，《产品就该这么学》首发，你很值得一看
- ## [大厂的社区团购是引领颠覆行业的那风吗](http://www.chanpin100.com/article/114478)
- > 一大早，人还在地铁，就被群里的大佬们侃侃而谈的阔论刷屏了。大佬做了个调查：社区团的价格，在你们所在的城市，是否具备价格和体验上的优势呢？
- ## [【数智对话专栏】数字经济时代 IT人如何面对变幻？](http://www.chanpin100.com/article/114477)
- > “数智对话专栏”精选于2021企业数字化转型落地高峰论坛暨《数字化转型方法论》新书发布会上的嘉宾所提到的精彩观点。本文将为读者带来由亿欧EqualOcean董事总经理王彬、 万国数据高级副总裁卢东明、国云数据创始人马晓东三位大咖分享的《数字经济时代，IT人如何面对变幻？》精彩内容。
 
     
