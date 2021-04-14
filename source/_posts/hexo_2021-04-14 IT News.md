@@ -1,22 +1,24 @@
 ---
 title: 2021-04-14 IT News
 copyright: true
-date: 2021-04-14 08:02:53
+date: 2021-04-14 09:04:18
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [2021年云南省医疗卫生行业网络安全技能培训圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618358404&ver=3007&signature=YnqTOQpDID35Wp2NNu7Tv3L4a3JKVdiDIkOZv-FVDBBXNV3J5zp7lLHyXiDHPbg-91IdTYpNdwbwNtwbN9j*wu00hu9Q9QrZ7gQ9S2Me6BpIT20zjs4GYW7-w8OE0Pqr&new=1)
- > 为落实习近平总书记关于网络信息安全与卫生健康事业发展的系列重要讲话精神，深入贯彻《中华人民共和国网络安全法》，提高云南省医疗行业网络安全意识，提升网络安全实战攻防能力，云南省计算机学会数字医疗专业...
- ## [重磅，又一巨头入局汽车圈!](http://mp.weixin.qq.com/s?src=11&timestamp=1618358404&ver=3007&signature=O9ZPJ22vY8xfNRzlcpsNd5rSW9whGJgRpuyZfHaCxn7GiBRYCF-HA6b1twWW2nENIT7XyiO3sJkbAvUeWoL1p-w-vjCT2QHUAOX*9Sw8GO9jb2VH04UFX*ozx7XPFrpn&new=1)
- > “造车热”已经从手机互联网企业蔓延到了无人机企业。有深厚技术储备的大疆，终于出手了。4月12日，大疆车载官微宣布，将于4月19日的上海车展上发布相关产品。这也宣告了大疆正式切入汽车赛道。当然，目前来看，...
- ## [字节开启员工期权兑换，126美元每股；](http://mp.weixin.qq.com/s?src=11&timestamp=1618358404&ver=3007&signature=tPb7uYoW8oiez9hd-3lj6xeIVB8zEmt7D7Y2FMfO8fbQRHsRMoW6CtfRUbDG6URekfB51517fYi7LzUEJkqtsjeCjlKNWeoa9Ujy0QzUIWf3nD*By*xpH4BY*pbQU3nc&new=1)
+ ## [字节开启员工期权兑换，126美元每股；](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=tPb7uYoW8oiez9hd-3lj6xeIVB8zEmt7D7Y2FMfO8faP3FOhNmsqRMa8gUP9--HUMiCb63fh8dOYDSHM0QFnLheA5p3bOsZDgwSGniixnE2YrQ6wp4*ehQAw2bD5BeXw&new=1)
  > 字节跳动将开启员工期权兑换，价格为126美元/股银柿财经消息，记者从多位字节跳动员工处获悉，字节跳动即将开启2020年度员工期权兑换计划，主要岗位员工可选将年终奖兑换成期权，价格为126美元/股，目前外部市场...
- ## [芯片圈变天了!英伟达推出首个数据中心CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618358404&ver=3007&signature=8WMx6IGOtP*HbGKUmINGWOgrSVMajeZrSTcQL0*UOnWvLl-TpgyycCnbQ4zzl0nxaNgYQdPFS2eJEBWv0yGcFCEtmmXn3kA0Nt078dCjcKDo2xNxFWLiwl8RQVkIlKw1&new=1)
- > 芯东西（ID：aichip001）作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达）创始人黄...
- ## [一个电子眼抵很多个上市公司，人类正变成机器的奴隶?电子眼：糟糕!被你们人类发现了](http://mp.weixin.qq.com/s?src=11&timestamp=1618358404&ver=3007&signature=zZYrDH77rT4avUPe-nQTP*V2dzNqOGEoipjE0gQxF5HVLmV7dEHojp8YdhPEcMII2zTjMWABnWLKespRtpR2AgzPuZFdmWDkfCh-d6ri27tLP21gseSg4N4ZUYNZixSD&new=1)
+ ## [2021年云南省医疗卫生行业网络安全技能培训圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=YnqTOQpDID35Wp2NNu7Tv3L4a3JKVdiDIkOZv-FVDBCaGvDXPace64ehokNnzINRnL5LYaJTV9xR-LQ0sgTazHOmC-s3IB*E07YyA0Zba0T4u59yQIAPPmN71IQxz*-5&new=1)
+ > 为落实习近平总书记关于网络信息安全与卫生健康事业发展的系列重要讲话精神，深入贯彻《中华人民共和国网络安全法》，提高云南省医疗行业网络安全意识，提升网络安全实战攻防能力，云南省计算机学会数字医疗专业...
+ ## [一个电子眼抵很多个上市公司，人类正变成机器的奴隶?电子眼：糟糕!被你们人类发现了](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=zZYrDH77rT4avUPe-nQTP*V2dzNqOGEoipjE0gQxF5Hp0iRrUwTI10WP9uEsx92vOoQW4godgdAZJaCCKQVW62-KSN7Vn34hSVoxHSvHAZa0P-XRLlU7u4Myav0XjE9S&new=1)
  > APP显示广东佛山一高速路口有62万个违章，网友实测3分钟27个，而该电子眼是去年3月18日启用的，刚好一年，这意味着罚款超过1.2亿元，估计已超过了很多上市公司的利润。一个电子眼抵很多个上市公司，确实让人叹为...
+ ## [芯片圈变天了!英伟达推出首个数据中心CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=8WMx6IGOtP*HbGKUmINGWOgrSVMajeZrSTcQL0*UOnVj9fNerb5XZfczdkL5AjcOMUyOxWIWCFFLq7dTKqp3-mudICNg63LU1OTRf9Hg6mBct7ZcddekAlERcQMvoSTJ&new=1)
+ > 芯东西（ID：aichip001）作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达）创始人黄...
+ ## [重磅，又一巨头入局汽车圈!](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=O9ZPJ22vY8xfNRzlcpsNd5rSW9whGJgRpuyZfHaCxn6Hs3GimO72mfaZFj1KPnAyK5*EcafrXgKOzycWQgZysDfOB5ikvCglE7t7SM6zww5Le**jSxSzwPolFV1pO0cR&new=1)
+ > “造车热”已经从手机互联网企业蔓延到了无人机企业。有深厚技术储备的大疆，终于出手了。4月12日，大疆车载官微宣布，将于4月19日的上海车展上发布相关产品。这也宣告了大疆正式切入汽车赛道。当然，目前来看，...
 # IT 技术 
+ ## [MongoDB与MySQL，该如何从中选用数据库？](http://database.51cto.com/art/202104/657104.htm)
+ > MongoDB与MySQL，该如何从中选用数据库？
  ## [MXLinux为什么是下载量最大的Linux桌面发行版？](http://os.51cto.com/art/202104/657102.htm)
  > MXLinux为什么是下载量最大的Linux桌面发行版？
  ## [JVM新生代、老年代的默认比值真的是1:2吗？](http://virtual.51cto.com/art/202104/657205.htm)
@@ -29,22 +31,28 @@ categories: IT NEWS
  > 好文档对于开发者的重要性
  ## [5G背景下的物联网技术在物流行业中的应用](http://network.51cto.com/art/202104/656904.htm)
  > 5G背景下的物联网技术在物流行业中的应用
- ## [满屏的if-else，怎么消灭它们？](http://developer.51cto.com/art/202104/656972.htm)
- > 满屏的if-else，怎么消灭它们？
+ ## [华为HCNA、HCNP、HCIE从考试到实战视频课程](http://fellow.51cto.com/art/202101/640235.htm?qd=51ctojrzd)
+ > 华为HCNA、HCNP、HCIE从考试到实战视频课程
+ ## [HDFS中的Java和Python API接口连接](http://bigdata.51cto.com/art/202104/657216.htm)
+ > 今天进入HDFS中的Java和Python的API操作，后面可能介绍Scala的相关的。
+ ## [继Elastic怒喷云服务商白嫖之后，AWS 终于退出ES的开源分支：OpenSearch！](http://news.51cto.com/art/202104/657215.htm)
+ > 一直关注DD的朋友应该还记得，今年年初时Elastic公司曾宣布改变其名下的开源协议，而对此AWS(Amazon Web Se
+ ## [如何使用Lighthouse性能检测工具](http://developer.51cto.com/art/202104/657214.htm)
+ > 最近做性能检测工具，很多知识点不清楚，打算查缺补漏，接下来从官方提供的性能检测工具Lighthouse(灯塔)开
+ ## [一篇带给你Swift ― 协议（Protocol）](http://developer.51cto.com/art/202104/657213.htm)
+ > 协议定义了一个蓝图，规定了用来实现某一特定任务或者功能的方法、属性，以及其他需要的东西。类、结构体和
+ ## [何时何地使用 Vue 的作用域插槽](http://developer.51cto.com/art/202104/657209.htm)
+ > 尽管Vue 作用域插槽是一个非常简单的概念-让插槽内容可以访问子组件数据，这在设计出色的组件方面很有用处
+ ## [Read 文件一个字节实际会发生多大的磁盘IO？](http://stor.51cto.com/art/202104/657211.htm)
+ > 在日常开发中一些看似司空见惯的问题上，我觉得可能大多数人其实并没有真正理解，或者理解的不够透彻。
+ ## [一文说通C的属性Attribute](http://developer.51cto.com/art/202104/657212.htm)
+ > 属性Attributes在C中很常用，但事实上很多人对这个东西又很陌生。从概念上讲，属性提供的是将元数据关系到
+ ## [复制并输出一个“数组”，Python 和 C++ 分别需要几步？](http://developer.51cto.com/art/202104/657210.htm)
+ > Python 和 C++ 是笔者喜欢并在使用的两种编程语言。Python 以其开发效率著称，而 C++ 运行效率无疑更高一筹
  ## [新截图确认：Windows 10将获得新圆角UI设计！](http://os.51cto.com/art/202104/657208.htm)
  > 在Windows 10及其各种官方应用中，微软从未停止测试新的用户界面设计。目前在系统方面微软正积极推进圆角设
  ## [如何在 ASP.NET Core 中使用内置的 Json 格式化日期 ？](http://developer.51cto.com/art/202104/657207.htm)
  > 最近我正准备把一个 Asp.Net Core WebAPI 项目从 2.2 升级到 3.0，在新版本中我打算用 System.Text.Json 来
- ## [Java函数式断言接口Predicate的一个小小实践](http://developer.51cto.com/art/202104/657206.htm)
- > 最近在搞Excel导入，数据校验是少不了的，但是不同的数据字段有不同的校验策略，五花八门的，甚至不确定，
- ## [聊聊Nodejs的错误处理](http://developer.51cto.com/art/202104/657204.htm)
- > 当操作系统收到一个发给该socket的rst包的时候会执行tcp_reset，我们看到当socket处于发送syn包等待ack的时
- ## [C 封装，你会吗？](http://developer.51cto.com/art/202104/657203.htm)
- > 封装 被定义为&quot;把一个或多个项目封闭在一个物理的或者逻辑的包中&quot;。在面向对象程序设计方法论中，封装是为
- ## [深入剖析Python最强大图片处理模块--Pillow](http://developer.51cto.com/art/202104/657201.htm)
- > Pillow作为一个图片模块。可谓是真的简便强大，它的前身是PIL，后来将他取代，现在的pillow 可谓是一家独大
- ## [报告指出：中国人工智能专利申请数量居全球首位](http://ai.51cto.com/art/202104/657200.htm)
- > 中国在自然语言处理、芯片技术、机器学习等10多个人工智能子领域的科研产出水平居于世界前列。而在人机交互
  ## [万字长文爆肝Python基础入门【巨详细，一学就会】](https://blog.csdn.net/weixin_44985880/article/details/115622253)
  > 
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -55,18 +63,18 @@ categories: IT NEWS
  > 聊聊自学，让你事半功倍的学习网站和工具
  ## [\[译\] APT分析报告：09.伊朗APT34更新武器库——SideTwist变体](https://blog.csdn.net/Eastmount/article/details/115618075)
  > \[译\] APT分析报告：09.伊朗APT34更新武器库——SideTwist变体
- ## [【保姆级教程】Spring Boot单元测试(Controller层的Header处有Token验证的详细示例代码)，文末介绍Postman 的基本使用](https://blog.csdn.net/Tianc666/article/details/112434830)
- > 【保姆级教程】Spring Boot单元测试(Controller层的Header处有Token验证的详细示例代码)，文末介绍Postman 的基本使用
- ## [Rollup](https://blog.csdn.net/fanfanyuyu/article/details/115671974)
- > Rollup
- ## [视频中的自监督学习：Predicting Motion and Appearance Statistics](https://blog.csdn.net/weixin_42443072/article/details/115645112)
- > 视频中的自监督学习：Predicting Motion and Appearance Statistics
- ## [webpack打包css报错（已解决）：UnhandledPromiseRejectionWarning: TypeError: this.getResolve is not a function](https://blog.csdn.net/qq_43377853/article/details/108485499)
- > webpack打包css报错（已解决）：UnhandledPromiseRejectionWarning: TypeError: this.getResolve is not a function
- ## [【ECharts系列|04可视化大屏】ECharts可视化经典案例总结](https://blog.csdn.net/weixin_41937552/article/details/115413720)
- > 【ECharts系列|04可视化大屏】ECharts可视化经典案例总结
- ## [.NET 基础面试题（二）](https://blog.csdn.net/gangzhucoll/article/details/115609854)
- > .NET 基础面试题（二）
+ ## [UI设计日常工作](https://blog.csdn.net/m0_52900812/article/details/115681715)
+ > UI设计日常工作
+ ## [在VScode中添加代码块(含C++指令生成代码)](https://blog.csdn.net/m0_53680064/article/details/115673106)
+ > 在VScode中添加代码块(含C++指令生成代码)
+ ## [（python）项目《外星人入侵》【上】](https://blog.csdn.net/misakisaigao/article/details/115467282)
+ > （python）项目《外星人入侵》【上】
+ ## [VirtualBox下安装CentOS以及JDK、Hadoop的安装与配置【详细】](https://blog.csdn.net/weixin_45092215/article/details/115586593)
+ > VirtualBox下安装CentOS以及JDK、Hadoop的安装与配置【详细】
+ ## [STM32-modbus rtu 之主机程序](https://blog.csdn.net/wangzibigan/article/details/77722939)
+ > STM32-modbus rtu 之主机程序
+ ## [C++模板入门](https://blog.csdn.net/qq_43560037/article/details/115452514)
+ > C++模板入门
  ## [斩获 offer 的 Java 面试宝典](https://blog.csdn.net/qq_27790011/article/details/115593401)
  > 斩获 offer 的 Java 面试宝典
  ## [【C语言从青铜到王者】第零篇·与C语言来个约会](https://blog.csdn.net/qq_51379868/article/details/115429796)
