@@ -1,20 +1,26 @@
 ---
 title: 2021-04-14 IT News
 copyright: true
-date: 2021-04-14 09:04:18
+date: 2021-04-14 10:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [字节开启员工期权兑换，126美元每股；](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=tPb7uYoW8oiez9hd-3lj6xeIVB8zEmt7D7Y2FMfO8faP3FOhNmsqRMa8gUP9--HUMiCb63fh8dOYDSHM0QFnLheA5p3bOsZDgwSGniixnE2YrQ6wp4*ehQAw2bD5BeXw&new=1)
- > 字节跳动将开启员工期权兑换，价格为126美元/股银柿财经消息，记者从多位字节跳动员工处获悉，字节跳动即将开启2020年度员工期权兑换计划，主要岗位员工可选将年终奖兑换成期权，价格为126美元/股，目前外部市场...
- ## [2021年云南省医疗卫生行业网络安全技能培训圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=YnqTOQpDID35Wp2NNu7Tv3L4a3JKVdiDIkOZv-FVDBCaGvDXPace64ehokNnzINRnL5LYaJTV9xR-LQ0sgTazHOmC-s3IB*E07YyA0Zba0T4u59yQIAPPmN71IQxz*-5&new=1)
+ ## [2021年云南省医疗卫生行业网络安全技能培训圆满落幕](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=YnqTOQpDID35Wp2NNu7Tv3L4a3JKVdiDIkOZv-FVDBCaGvDXPace64ehokNnzINRHcWkbYkbCFfEeS1AAjPje3UgXzrWHXJHU6KNcfRRAludbzfIAPQqDrRpq5gk4meJ&new=1)
  > 为落实习近平总书记关于网络信息安全与卫生健康事业发展的系列重要讲话精神，深入贯彻《中华人民共和国网络安全法》，提高云南省医疗行业网络安全意识，提升网络安全实战攻防能力，云南省计算机学会数字医疗专业...
- ## [一个电子眼抵很多个上市公司，人类正变成机器的奴隶?电子眼：糟糕!被你们人类发现了](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=zZYrDH77rT4avUPe-nQTP*V2dzNqOGEoipjE0gQxF5Hp0iRrUwTI10WP9uEsx92vOoQW4godgdAZJaCCKQVW62-KSN7Vn34hSVoxHSvHAZa0P-XRLlU7u4Myav0XjE9S&new=1)
+ ## [字节开启员工期权兑换，126美元每股；](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=tPb7uYoW8oiez9hd-3lj6xeIVB8zEmt7D7Y2FMfO8faP3FOhNmsqRMa8gUP9--HUBBbaCeSu*kg6tUsNe*UAyiOQO5Fq7tS0QnyRnd7Gs8jUxBJJFHaflCpVEroSBhgs&new=1)
+ > 字节跳动将开启员工期权兑换，价格为126美元/股银柿财经消息，记者从多位字节跳动员工处获悉，字节跳动即将开启2020年度员工期权兑换计划，主要岗位员工可选将年终奖兑换成期权，价格为126美元/股，目前外部市场...
+ ## [7点见|苹果4月21日凌晨举行新品发布会；美团回应“大股东抛售传闻”](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=fuQjXyc184eB-7bvUHO4sWjSvnJTBL0Mc4wAaZywlGVwscm6TXRzWuaZYyVV9zXazw00BI-gTfvZarlieqACOKNgJlCdzZZbmh3taWsaoTMpG600iCfiNsWgohDEDVP0&new=1)
+ > 各位小伙伴早上好呀！以下是今天的早报！苹果宣布4月21日举行新品发布会 新款iPad/AIrTag或亮相北京时间4月14日，苹果正式发布邀请函，确认将在北京时间4月21日凌晨1点（美国时间4月20日）举行新品发布会。和去...
+ ## [讯石专访|罗博特科戴军：携手ficonTec赋能光通讯自动化 助力中国市场先进制造](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=lJRNjf9c0HWkYDXwvFLZCz4t03yxvLfOJ1BIWmD3*xYVf-MhoST7Z9k8XzkKUm1J0CyDqGXJGEVGFctNyTX97kh4WvaMRUuz-tiEM5u0NcZJ1oNewTVR8mG5Sfm1tJkG&new=1)
+ > 新闻导读罗博特科董事长戴军先生接受了讯石专访，阐述新一代信息传输技术的意义，并携手全球光电子系统自动化装配和测试先进制造商ficonTec助力中国光电子、光通讯市场向高端转型升级。ICC讯    随着“十四五”...
+ ## [重磅|2021年上海国际车展展前报告(附90页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=jaewDYFYDe2pfD335BjKyimTL8XLn-DOqFAnSqWJGki7qIa6XN4zKNmt22oH2xmE2M8ZOKBuWkQp*kv4po0m094kbq*jnXfM6NIBD-wi8Ov5MVGwtcEvDqIP1gUQbTKg&new=1)
+ > 第十九届上海国际汽车工业展览会（简称：2021上海车展）将于2021年4月19日至28日在国家会展中心（上海）精彩亮相，预计展览总面积36万平方米。尽管全球车市仍较低迷，但中外车企对上海车展高度重视，均以高规格...
+ ## [一个电子眼抵很多个上市公司，人类正变成机器的奴隶?电子眼：糟糕!被你们人类发现了](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=zZYrDH77rT4avUPe-nQTP*V2dzNqOGEoipjE0gQxF5Hp0iRrUwTI10WP9uEsx92v9KkkeeY9aVJ6kzl2LNHKr*yX0GxR8nxbtBMCI6l8mjyh6c1Hws2vghGMvVCebr01&new=1)
  > APP显示广东佛山一高速路口有62万个违章，网友实测3分钟27个，而该电子眼是去年3月18日启用的，刚好一年，这意味着罚款超过1.2亿元，估计已超过了很多上市公司的利润。一个电子眼抵很多个上市公司，确实让人叹为...
- ## [芯片圈变天了!英伟达推出首个数据中心CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=8WMx6IGOtP*HbGKUmINGWOgrSVMajeZrSTcQL0*UOnVj9fNerb5XZfczdkL5AjcOMUyOxWIWCFFLq7dTKqp3-mudICNg63LU1OTRf9Hg6mBct7ZcddekAlERcQMvoSTJ&new=1)
+ ## [芯片圈变天了!英伟达推出首个数据中心CPU，狂捧Arm生态](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=8WMx6IGOtP*HbGKUmINGWOgrSVMajeZrSTcQL0*UOnVj9fNerb5XZfczdkL5AjcOwCXNzd6SoqckdwscjA-efsEF-Bu9Bn0NDfIdIuV1xIG78pSAK*THCmimGlaoT-Vi&new=1)
  > 芯东西（ID：aichip001）作者 | 心缘编辑 | 漠影芯东西4月13日报道，今日凌晨，一年一度影响人工智能及高性能计算技术盛会NVIDIA GTC如期而至，这是GTC大会继去年后第二次在线上举行。NVIDIA（英伟达）创始人黄...
- ## [重磅，又一巨头入局汽车圈!](http://mp.weixin.qq.com/s?src=11&timestamp=1618362004&ver=3007&signature=O9ZPJ22vY8xfNRzlcpsNd5rSW9whGJgRpuyZfHaCxn6Hs3GimO72mfaZFj1KPnAyK5*EcafrXgKOzycWQgZysDfOB5ikvCglE7t7SM6zww5Le**jSxSzwPolFV1pO0cR&new=1)
+ ## [重磅，又一巨头入局汽车圈!](http://mp.weixin.qq.com/s?src=11&timestamp=1618363804&ver=3007&signature=O9ZPJ22vY8xfNRzlcpsNd5rSW9whGJgRpuyZfHaCxn6Hs3GimO72mfaZFj1KPnAya5hZWwZ1cRq3t7Hnm28ozm8zB2e2udfhHCggo*bw-eZCeWVnioy9w44vRVSYdVRp&new=1)
  > “造车热”已经从手机互联网企业蔓延到了无人机企业。有深厚技术储备的大疆，终于出手了。4月12日，大疆车载官微宣布，将于4月19日的上海车展上发布相关产品。这也宣告了大疆正式切入汽车赛道。当然，目前来看，...
 # IT 技术 
  ## [MongoDB与MySQL，该如何从中选用数据库？](http://database.51cto.com/art/202104/657104.htm)
@@ -23,36 +29,36 @@ categories: IT NEWS
  > MXLinux为什么是下载量最大的Linux桌面发行版？
  ## [JVM新生代、老年代的默认比值真的是1:2吗？](http://virtual.51cto.com/art/202104/657205.htm)
  > JVM新生代、老年代的默认比值真的是1:2吗？
+ ## [在HarmonyOS中用AI识别图中文字](http://os.51cto.com/art/202104/657072.htm)
+ > 在HarmonyOS中用AI识别图中文字
  ## [机器学习在铁路缺陷检测中的实际应用](http://ai.51cto.com/art/202104/656937.htm)
  > 机器学习在铁路缺陷检测中的实际应用
  ## [探究稳定币及其在加密生态系统中的价值定位](http://blockchain.51cto.com/art/202104/656934.htm)
  > 探究稳定币及其在加密生态系统中的价值定位
  ## [好文档对于开发者的重要性](http://developer.51cto.com/art/202104/656936.htm)
  > 好文档对于开发者的重要性
- ## [5G背景下的物联网技术在物流行业中的应用](http://network.51cto.com/art/202104/656904.htm)
- > 5G背景下的物联网技术在物流行业中的应用
- ## [华为HCNA、HCNP、HCIE从考试到实战视频课程](http://fellow.51cto.com/art/202101/640235.htm?qd=51ctojrzd)
- > 华为HCNA、HCNP、HCIE从考试到实战视频课程
- ## [HDFS中的Java和Python API接口连接](http://bigdata.51cto.com/art/202104/657216.htm)
- > 今天进入HDFS中的Java和Python的API操作，后面可能介绍Scala的相关的。
- ## [继Elastic怒喷云服务商白嫖之后，AWS 终于退出ES的开源分支：OpenSearch！](http://news.51cto.com/art/202104/657215.htm)
- > 一直关注DD的朋友应该还记得，今年年初时Elastic公司曾宣布改变其名下的开源协议，而对此AWS(Amazon Web Se
- ## [如何使用Lighthouse性能检测工具](http://developer.51cto.com/art/202104/657214.htm)
- > 最近做性能检测工具，很多知识点不清楚，打算查缺补漏，接下来从官方提供的性能检测工具Lighthouse(灯塔)开
- ## [一篇带给你Swift ― 协议（Protocol）](http://developer.51cto.com/art/202104/657213.htm)
- > 协议定义了一个蓝图，规定了用来实现某一特定任务或者功能的方法、属性，以及其他需要的东西。类、结构体和
- ## [何时何地使用 Vue 的作用域插槽](http://developer.51cto.com/art/202104/657209.htm)
- > 尽管Vue 作用域插槽是一个非常简单的概念-让插槽内容可以访问子组件数据，这在设计出色的组件方面很有用处
- ## [Read 文件一个字节实际会发生多大的磁盘IO？](http://stor.51cto.com/art/202104/657211.htm)
- > 在日常开发中一些看似司空见惯的问题上，我觉得可能大多数人其实并没有真正理解，或者理解的不够透彻。
- ## [一文说通C的属性Attribute](http://developer.51cto.com/art/202104/657212.htm)
- > 属性Attributes在C中很常用，但事实上很多人对这个东西又很陌生。从概念上讲，属性提供的是将元数据关系到
- ## [复制并输出一个“数组”，Python 和 C++ 分别需要几步？](http://developer.51cto.com/art/202104/657210.htm)
- > Python 和 C++ 是笔者喜欢并在使用的两种编程语言。Python 以其开发效率著称，而 C++ 运行效率无疑更高一筹
- ## [新截图确认：Windows 10将获得新圆角UI设计！](http://os.51cto.com/art/202104/657208.htm)
- > 在Windows 10及其各种官方应用中，微软从未停止测试新的用户界面设计。目前在系统方面微软正积极推进圆角设
- ## [如何在 ASP.NET Core 中使用内置的 Json 格式化日期 ？](http://developer.51cto.com/art/202104/657207.htm)
- > 最近我正准备把一个 Asp.Net Core WebAPI 项目从 2.2 升级到 3.0，在新版本中我打算用 System.Text.Json 来
+ ## [马哥教育2016Linux培训教程-Linux入门学习和基础命令](http://fellow.51cto.com/art/202101/638282.htm?qd=51ctojrzd)
+ > 马哥教育2016Linux培训教程-Linux入门学习和基础命令
+ ## [Chrome 和 Edge 浏览器被曝存在远程代码执行漏洞](http://netsecurity.51cto.com/art/202104/657235.htm)
+ > 一位安全研究人员在 Twitter 上发布了一个远程代码执行的零日漏洞，该漏洞可在当前版本的 Google Chrome 和
+ ## [5G专网为何会受到制造业发达国家的青睐？](http://network.51cto.com/art/202104/657232.htm)
+ > 对全球多数大型企业而言，部署5G专网已经成为首选，对于工业环境的企业更是如此。
+ ## [Ubuntu 21.04 将 Home 目录默认设置为私有](http://os.51cto.com/art/202104/657234.htm)
+ > Ubuntu 官方博客宣布，即将发布的 Ubuntu 21.04 会将 Home 目录默认设置为私有。
+ ## [FSF 决定任命 RMS，RMS：有问题冲我来](http://news.51cto.com/art/202104/657231.htm)
+ > 距离 Richard M. Stallman(RMS)宣布重返 FSF 董事会这一消息已经过去了几周的时间，在经历了一番支持者和反
+ ## [北邮孙松林：直面5G困境，从产业破局](http://network.51cto.com/art/202104/657227.htm)
+ > 北京邮电大学教授、博士生导师孙松林发表演讲表示，我国5G产业进展神速，但也面临多方困境。我们需要直面困
+ ## [避免对微服务的误解](http://server.51cto.com/Micro-657225.htm)
+ > 当下的时代，每隔一段时间就会出现一种新概念或新技术，它带来了希望、炒作的热点，貌似可以拯救全世界一样
+ ## [企业如何利用人工智能、物联网、增强现实、虚拟现实、区块链和大数据来留住客户](http://www.cioage.com/art/202104/657222.htm)
+ > 企业正在实施诸如人工智能(AI)、物联网(IoT)、增强现实(AR)、虚拟现实(VR)、区块链和大数据之类的现代技术
+ ## [Kubernetes网络概念初探](http://network.51cto.com/art/202104/657224.htm)
+ > 本文将使用系统模型的方法探索Kubernetes网络。我们将开发一个简单的模型来了解容器与容器间的通信以及Pod
+ ## [常用App内存占用量哪个让你抓狂？](http://mobile.51cto.com/app-show-657221.htm)
+ > 不少内存有限用户都应该遇到过手机卡顿无响应的问题，那一时刻你可能非常苦恼吧!哪怕你忍受得住几个月，最
+ ## [OpenHarmony 1.1.0 LTS 正式发布](http://os.51cto.com/art/202104/657074.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
  ## [万字长文爆肝Python基础入门【巨详细，一学就会】](https://blog.csdn.net/weixin_44985880/article/details/115622253)
  > 
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -61,20 +67,20 @@ categories: IT NEWS
  > 
  ## [聊聊自学，让你事半功倍的学习网站和工具](https://blog.csdn.net/c406495762/article/details/115646358)
  > 聊聊自学，让你事半功倍的学习网站和工具
- ## [\[译\] APT分析报告：09.伊朗APT34更新武器库——SideTwist变体](https://blog.csdn.net/Eastmount/article/details/115618075)
- > \[译\] APT分析报告：09.伊朗APT34更新武器库——SideTwist变体
- ## [UI设计日常工作](https://blog.csdn.net/m0_52900812/article/details/115681715)
- > UI设计日常工作
- ## [在VScode中添加代码块(含C++指令生成代码)](https://blog.csdn.net/m0_53680064/article/details/115673106)
- > 在VScode中添加代码块(含C++指令生成代码)
- ## [（python）项目《外星人入侵》【上】](https://blog.csdn.net/misakisaigao/article/details/115467282)
- > （python）项目《外星人入侵》【上】
- ## [VirtualBox下安装CentOS以及JDK、Hadoop的安装与配置【详细】](https://blog.csdn.net/weixin_45092215/article/details/115586593)
- > VirtualBox下安装CentOS以及JDK、Hadoop的安装与配置【详细】
- ## [STM32-modbus rtu 之主机程序](https://blog.csdn.net/wangzibigan/article/details/77722939)
- > STM32-modbus rtu 之主机程序
- ## [C++模板入门](https://blog.csdn.net/qq_43560037/article/details/115452514)
- > C++模板入门
+ ## [携程面试官问我怎么划分 Java 虚拟机内存区域，相见恨晚！](https://blog.csdn.net/qing_gee/article/details/115543232)
+ > 携程面试官问我怎么划分 Java 虚拟机内存区域，相见恨晚！
+ ## [【保姆级教程】Spring Boot单元测试(Controller层的Header处有Token验证的详细示例代码)，文末介绍Postman 的基本使用](https://blog.csdn.net/Tianc666/article/details/112434830)
+ > 【保姆级教程】Spring Boot单元测试(Controller层的Header处有Token验证的详细示例代码)，文末介绍Postman 的基本使用
+ ## [Rollup](https://blog.csdn.net/fanfanyuyu/article/details/115671974)
+ > Rollup
+ ## [视频中的自监督学习：Predicting Motion and Appearance Statistics](https://blog.csdn.net/weixin_42443072/article/details/115645112)
+ > 视频中的自监督学习：Predicting Motion and Appearance Statistics
+ ## [webpack打包css报错（已解决）：UnhandledPromiseRejectionWarning: TypeError: this.getResolve is not a function](https://blog.csdn.net/qq_43377853/article/details/108485499)
+ > webpack打包css报错（已解决）：UnhandledPromiseRejectionWarning: TypeError: this.getResolve is not a function
+ ## [【ECharts系列|04可视化大屏】ECharts可视化经典案例总结](https://blog.csdn.net/weixin_41937552/article/details/115413720)
+ > 【ECharts系列|04可视化大屏】ECharts可视化经典案例总结
+ ## [.NET 基础面试题（二）](https://blog.csdn.net/gangzhucoll/article/details/115609854)
+ > .NET 基础面试题（二）
  ## [斩获 offer 的 Java 面试宝典](https://blog.csdn.net/qq_27790011/article/details/115593401)
  > 斩获 offer 的 Java 面试宝典
  ## [【C语言从青铜到王者】第零篇·与C语言来个约会](https://blog.csdn.net/qq_51379868/article/details/115429796)
@@ -115,6 +121,8 @@ categories: IT NEWS
  ## [实时 OLAP， 从 0 到 1](https://blog.csdn.net/weixin_44904816/article/details/115562335)
  > 实时 OLAP， 从 0 到 1
 # PM 
+ ## [分享：新冠疫情对中国企业影响评估报告](http://www.chanpin100.com/article/114511)
+ > 新型冠状病毒肺炎 COVID-19，自 2019 年首次在中国发现，已于 2020 年 3 月 11 日被世界卫生组织（WHO）正式宣布为“全球大流行”。一年多以来，中国疫情防控已初见成效。中国政府为控制疫情传播采取了强有力的隔离防控措施，每日新增确诊人数在2020年2月中旬达到峰值后局势得到扭转。
  ## [B端产品经理工作流程之如何做产品设计？](http://www.chanpin100.com/article/114558)
  > 在做完业务规划、实现了需求分析之后，B端产品经理就要进入到产品设计阶段了，本文给大家讲一下B端产品经理工作流程之如何做产品设计，希望本文的分享能帮助到你。
  ## [B端产品经理工作流程之如何做需求分析？](http://www.chanpin100.com/article/114557)
@@ -153,7 +161,5 @@ categories: IT NEWS
  > 产品经理，近几年很火的一个行业，但是大多数的产品经理都有过转行的想法，那么大家有没有想过产品经理转行能做什么呢？这是一个值得深思的问题，今天就跟大家一起探讨一下。
  ## [MVP：如何寻找新市场 开发新产品？](http://www.chanpin100.com/article/114504)
  > 面对激烈的市场竞争，中小企业要想脱颖而出，不得不选择市场细分领域进行深耕细作积累资本、经验、优势，而后向市场主导者发起进攻，从而获取更大的生存空间和利润。
- ## [策略产品经理是做什么的？](http://www.chanpin100.com/article/114543)
- > 互联网在不断的发展，产品经理这个行业也在不断细分，常见的有功能产品经理，B端产品经理和数据产品经理等，近几年策略产品经理这个职位开始映入大家的眼帘，那么策略产品经理到底是做什么的呢？我们一起来了解一下吧！
 
     
