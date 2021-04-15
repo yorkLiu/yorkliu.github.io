@@ -1,20 +1,26 @@
 ---
 title: 2021-04-15 IT News
 copyright: true
-date: 2021-04-15 09:01:00
+date: 2021-04-15 10:01:01
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [云米：「关于未来家的样子，我有个不同想法」](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=zkb-ajRDQtlVJxjKs-PeYEPJp1sBXRuD2wzOj3D6X2dIc3O2FB442rsjb4xW60xBeXPvNPgdRCdU7Jiyd4V-gwaYc*gkhfyPVp763NGLtA965QJav6rqALCyenT6urAE&new=1)
- > 你的房子会像人一样思考吗？想象一下，未来一个真正拥有智慧与智能的家是怎样的模样？其实，有关于全屋智能的概念存在已久，业界并没有一个明确、清晰的定义，人们生活中依然有很多令人感到头大的琐事。你能想象...
- ## [五年三千亿加码创新背后 上汽“决战”智能汽车新赛道](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=803W3*UbmBLd3tiCn1KvNBztCscGbkHMm373KZF8ifsCJ7L5kHeY1V116sLQ7XJFu29TNeaZ8yNkAd0p*1-vOfLgI5hylVrRHZ2cxOSSai3qkNEQ-6VishhFwWn1g0DG&new=1)
- > 在发布“全球首款量产互联网汽车”整整1738天后，上汽集团再度“领跑”智能汽车新赛道。4月9日，全球首个汽车SOA开发者大会——上汽零束SOA平台开发者大会在上海召开，上汽集团对外发布“银河”智能汽车全栈解决...
- ## [华为高度重视云计算，或意在解决芯片困境](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=kDIVzSpG4Y1y3DxTzCcya-0GrvKTAC5kRgDwGRtIPd0XQJ6ihoRYlw2Ga2WO6jAoXqBsCrZONI54HOsza19EdvyPN3RNyf99iQ6-klXFSC2sWJn7CpRDah*suCcNeQf3&new=1)
- > 华为云去年曾与其他业务合并为一个大业务部门，不过经过一年多时间的运作之后却又被拆分出来成为一级业务部门，此举可能与它希望解决当下的芯片困境有关。华为云已拥有强大的实力，作为后来者，华为云曾远远落后...
- ## [英特尔CEO表达悲观：全球芯片供应短缺问题将持续多年](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=z9WqE0-272rErnD3p6UUlFiNP3-6B25gO95NW8SN3D6x2NQOI*ouAsvVPqh-BYBQ6hGA5at6F*Q1D4Zu7UuZpgd1wV2vn7IrQTo9yBBABMtm3vzgoqQZktsAkXUsUKMr&new=1)
+ ## [\[报告\]2021中国车联网行业发展趋势研究(附54页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=qvP2QksJZ0Vaz48BhSPmgQqMnT67tpv-Ovli2w7g1NHuEOGG5lQcgofxQVLCpnMRaaL5HZL4*GsO7SWMZXnuoXkjH-tE5*F4sBjK4Spfa7E0trqO4nbYjvQjFPVigwhf&new=1)
+ > 车联网产业是汽车、电子、信息通信、道路交通运输等行业深度融合的新型产业形态。在经历车载信息服务发展阶段后，2021年，中国车联网产业渐入佳境，数字化商业运营一触即发，开启全面迈入了汽车智能网联化发展的...
+ ## [英特尔CEO表达悲观：全球芯片供应短缺问题将持续多年](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=z9WqE0-272rErnD3p6UUlFiNP3-6B25gO95NW8SN3D51tq5x7aJ5evtI*u6hL8qJSShih50p6Md53YGK4GjUXsRMUXGHPHrShfzf5FB5HqZn1LEsR1wlk3AuuwYeRtRx&new=1)
  > 4月14日消息，英特尔首席执行官帕特·盖尔辛格（Pat Gelsinger）在参加白宫芯片峰会后接受采访时称，由于需求飙升和生产能力有限，重创汽车行业和其他制造商的全球芯片供应短缺问题将需要“几年”时间来缓解。盖...
- ## [美国突然传来凶讯，让人不寒而栗!](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=KUHaSjXrV*NKwZTCN3rSIMwnQxh67Ta7mNfJ*9NC6RmvCy2*Eg9rG3iNX-n8D7XeMeHMuTrDOE2lxDfsciiSndSI35yxcJhnGQYg-WI4OEV1JZLAJTClFCWEFeT4bwKm&new=1)
+ ## [华为高度重视云计算，或意在解决芯片困境](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=kDIVzSpG4Y1y3DxTzCcya-0GrvKTAC5kRgDwGRtIPd0uxaPUqmmkiXXp5B05wXDJwcTnerOGjbHCtz9ugmH0Tg5H2jtnVZslAFFDe0cXwCgeWk1CHvBnvT1AFk1urf7x&new=1)
+ > 华为云去年曾与其他业务合并为一个大业务部门，不过经过一年多时间的运作之后却又被拆分出来成为一级业务部门，此举可能与它希望解决当下的芯片困境有关。华为云已拥有强大的实力，作为后来者，华为云曾远远落后...
+ ## [武警贵阳支队南明中队通过智慧党建VR体验、党史故事分享会等方式深入开展党史学习教育](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=EFch4HvjgWOLKDVlTnTNZ7O7KLnOrBDBC2zYH5h5G7YX20-7IX-IGrr3kgpHk4MDqufwhgsm3ZSGTS2jVHKzKZriwnn4i53ASrXuruccpac=&new=1)
+ > 连日来，武警贵阳支队南明中队通过智慧党建VR体验、党史故事分享会等方式深入开展党史学习教育。通过党史学习，进一步激发广大官兵学史、知史、悟史的积极性和主动性，让大家在学思践悟中传承红色基因、强化...
+ ## [7点见|小鹏激光雷达量产车P5发布；特斯拉或建“云上贵州”模式数据中心](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=wfuy-yJn-k9zyuzaatvKkTzWMk3nNnuuMmInb6MMmhfcAWIS3ymsXO1vYVS67tru6KiwmMQIU*kdXbpQiRFVlnLyZLcgWGc8UpSTRQq1qRvRg6b78lYD*UCZlSjzM61V&new=1)
+ > 各位小伙伴早上好呀！以下是今天的早报！配激光雷达量产车/第二季度上市 小鹏P5紧凑型纯电动轿车首发4月14日，小鹏汽车旗下的第三款全新车型—小鹏P5首发亮相。新车是一款全新紧凑型纯电动三厢轿车，并采用了与P...
+ ## [云米：「关于未来家的样子，我有个不同想法」](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=zkb-ajRDQtlVJxjKs-PeYEPJp1sBXRuD2wzOj3D6X2dT3FOENkdgtqJw7GhLiyYrB*t7dZWvKOTzEQz-GiLh1olsV2fA-Zmv7b-FJXDRwGGewEkVMPkRpq3iIw8y85kw&new=1)
+ > 你的房子会像人一样思考吗？想象一下，未来一个真正拥有智慧与智能的家是怎样的模样？其实，有关于全屋智能的概念存在已久，业界并没有一个明确、清晰的定义，人们生活中依然有很多令人感到头大的琐事。你能想象...
+ ## [五年三千亿加码创新背后 上汽“决战”智能汽车新赛道](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=803W3*UbmBLd3tiCn1KvNBztCscGbkHMm373KZF8ifsCcpAMmiORyXNsL*Fzi-pXST*jAwMicEK9HPjFWBTC06RO2L1KNbZ2b0bqstbROii4L7LDZE2BRPKTrfv*Y*HI&new=1)
+ > 在发布“全球首款量产互联网汽车”整整1738天后，上汽集团再度“领跑”智能汽车新赛道。4月9日，全球首个汽车SOA开发者大会——上汽零束SOA平台开发者大会在上海召开，上汽集团对外发布“银河”智能汽车全栈解决...
+ ## [美国突然传来凶讯，让人不寒而栗!](http://mp.weixin.qq.com/s?src=11&timestamp=1618450204&ver=3009&signature=KUHaSjXrV*NKwZTCN3rSIMwnQxh67Ta7mNfJ*9NC6RmzQvL00HZjiIEj9HHXrEchdmF*O6Zm-GE1gWJYjioA*g77g2HNOKzwKkWzH6lDWAnNzTzA6Vwzyq-R4*gy1uDR&new=1)
  > 美国突然传来凶讯，让人不寒而栗！谁也不会想到，机器人在AI助力下进化的这么快，看过视频中最新版本的机器人简直叫人不寒而栗！波士顿动力又放出一波新视频，其机器人的进步，再度让全世界为之震惊！看吧，在最...
 # IT 技术 
  ## [五大首选React Native数据库](http://database.51cto.com/art/202104/657388.htm)
@@ -23,16 +29,26 @@ categories: IT NEWS
  > 求你了，别再纠结线程池大小了！
  ## [人工智能优先战略将从哪里开始？](http://ai.51cto.com/art/202104/657371.htm)
  > 人工智能优先战略将从哪里开始？
+ ## [鸿蒙系统的启动流程](http://os.51cto.com/art/202104/657318.htm)
+ > 鸿蒙系统的启动流程
  ## [MongoDB与MySQL，该如何从中选用数据库？](http://database.51cto.com/art/202104/657104.htm)
  > MongoDB与MySQL，该如何从中选用数据库？
  ## [MXLinux为什么是下载量最大的Linux桌面发行版？](http://os.51cto.com/art/202104/657102.htm)
  > MXLinux为什么是下载量最大的Linux桌面发行版？
  ## [2021最受欢迎的编程语言排行：苹果编程语言Objective-C被Swift取代](http://news.51cto.com/art/202104/657013.htm)
  > 2021最受欢迎的编程语言排行：苹果编程语言Objective-C被Swift取代
- ## [JVM新生代、老年代的默认比值真的是1:2吗？](http://virtual.51cto.com/art/202104/657205.htm)
- > JVM新生代、老年代的默认比值真的是1:2吗？
- ## [C++入门 视频课程](http://fellow.51cto.com/art/202101/638491.htm?qd=51ctojrzd)
- > C++入门 视频课程
+ ## [使用组策略批量部署软件视频课程](http://fellow.51cto.com/art/202101/641363.htm?qd=51ctojrzd)
+ > 使用组策略批量部署软件视频课程
+ ## [鸿蒙系统获取当前的网络状态以及监听网络状态](http://os.51cto.com/art/202104/657310.htm)
+ > 文章由鸿蒙社区产出，想要了解更多内容请前往：51CTO和华为官方战略合作共建的鸿蒙技术社区https://harmony
+ ## [5 分钟快速上手 Pytest 测试框架](http://developer.51cto.com/art/202104/657452.htm)
+ > 本次内容主要简单介绍了一下 pytest 概念及其核心特性，我们可以看到 pytest 在测试部分是多么易用。pytest
+ ## [盘点Python加密解密模块hashlib的7种加密算法](http://developer.51cto.com/art/202104/657451.htm)
+ > 在程序中我们经常可以看到有很多的加密算法，比如说MD5 sha1等，今天我们就来了解下这下加密算法的吧，在了
+ ## [2021年八大物联网预测](http://iot.51cto.com/art/202104/657450.htm)
+ > 随着企业在“新常态”中的不断创新，我们预计物联网的重要性将在今年进一步提高。根据最新的物联网趋势，以
+ ## [用 Go struct 不能犯的一个低级错误！](http://developer.51cto.com/art/202104/657449.htm)
+ > 既然我们知道了他是在代码优化阶段被优化的，那么相对的，知道了原理的我们也可以借助在 go 编译运行时的 g
  ## [Zabbix 5.2由浅入深之监控Apache](http://os.51cto.com/art/202104/657448.htm)
  > 该章节比较简单，利用的就是apache的mod_status模块，但是注意如果存在跳转的情况（http--&gt;https）会出现30
  ## [聊聊从Vue.js源码中我学到了精妙方法](http://developer.51cto.com/art/202104/657445.htm)
@@ -43,16 +59,6 @@ categories: IT NEWS
  > 经历在规模上使用微型前端的优势和痛苦后，我决定记录这段旅程并分享一些“优秀实践”。
  ## [关于容器，你需要知道这7件事](http://developer.51cto.com/art/202104/657441.htm)
  > 容器无处不在，它们从根本上改变了IT领域。容器化为企业带来了巨大的价值和广泛的利益，几乎所有近期的业务
- ## [Spring声明式事务在哪些情况下会失效？](http://developer.51cto.com/art/202104/657440.htm)
- > 在Spring中事务管理的方式有两种，编程式事务和声明式事务。先详细介绍一下两种事务的实现方式
- ## [Check Point《2021 年移动安全报告》显示，在过去一年中，全球几乎每个组织都经历了一次移动恶意软件攻击](http://netsecurity.51cto.com/art/202104/657439.htm)
- > 新报告揭露了从恶意应用到勒索软件攻击等对企业移动设备的最新威胁，并首次探讨了从企业移动设备管理系统下
- ## [ParkMobile暴露2100万用户的车牌数据](http://netsecurity.51cto.com/art/202104/657438.htm)
- > 据外媒报道，有人正在网络犯罪论坛上出售在北美颇受欢迎的移动停车应用ParkMobile的2100万客户的账户信息。
- ## [用了很多动效，介绍 4个很 Nice 的 Veu 路由过渡动效！](http://developer.51cto.com/art/202104/657436.htm)
- > 在今天的文章中，我们介绍使用Vue Router过渡的基础知识，然后再介绍一些基本示例，希望能给大家一些启发和
- ## [高通、爱立信和OPPO实现欧洲首个5G SA网络商用](http://network.51cto.com/art/202104/657437.htm)
- > 据外媒报道，OPPO、爱立信和高通近日宣布，他们已将沃达丰的5G SA网络在德国商用。
  ## [一万字一篇文20分钟学会C语言和Python，十四年编程经验老鸟传授经验之道](https://blog.csdn.net/A757291228/article/details/115683842)
  > 一万字一篇文20分钟学会C语言和Python，十四年编程经验老鸟传授经验之道
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
@@ -61,20 +67,20 @@ categories: IT NEWS
  > 
  ## [通宵总结！值得你收藏的Git命令清单（全），切莫书到用时方恨少](https://blog.csdn.net/qq_39390545/article/details/115695909)
  > 通宵总结！值得你收藏的Git命令清单（全），切莫书到用时方恨少
- ## [超赞！两张小抄，带你 “迅速” 掌握Pandas “数据清洗” 流程！](https://blog.csdn.net/weixin_41261833/article/details/115701374)
- > 超赞！两张小抄，带你 “迅速” 掌握Pandas “数据清洗” 流程！
- ## [使用postman断言时遇到的坑之tests中设置的全局变量，只有在接口执行完成后，才会生效](https://blog.csdn.net/Test_the_rookie/article/details/115703232)
- > 使用postman断言时遇到的坑之tests中设置的全局变量，只有在接口执行完成后，才会生效
- ## [Swift5.2 Control  IOSMap(苹果地图)](https://blog.csdn.net/weixin_38716347/article/details/115643763)
- > Swift5.2 Control  IOSMap(苹果地图)
- ## [Android 百度图像识别（详细步骤+源码）](https://blog.csdn.net/qq_38436214/article/details/115378957)
- > Android 百度图像识别（详细步骤+源码）
- ## [明解c/c++程序的内存模型--内存四区](https://blog.csdn.net/weixin_54575205/article/details/115586417)
- > 明解c/c++程序的内存模型--内存四区
- ## [二维哈希](https://blog.csdn.net/m0_55678840/article/details/115707519)
- > 二维哈希
- ## [Java进阶知识——注解](https://blog.csdn.net/mydesss/article/details/115604708)
- > Java进阶知识——注解
+ ## [我要偷偷学习C，然后学习GIS二次开发之试题汇总（附答案）](https://blog.csdn.net/lucky51222/article/details/115703495)
+ > 我要偷偷学习C，然后学习GIS二次开发之试题汇总（附答案）
+ ## [PHP通过curl获取json数据进行数组分页](https://blog.csdn.net/weiguang102/article/details/115707419)
+ > PHP通过curl获取json数据进行数组分页
+ ## [Datawhale集成学习-投票法的原理和案例分析](https://blog.csdn.net/weixin_42007974/article/details/115707842)
+ > Datawhale集成学习-投票法的原理和案例分析
+ ## [好看的跳转页面go.php源码](https://blog.csdn.net/liuguiqinghaha/article/details/115708528)
+ > 好看的跳转页面go.php源码
+ ## [python爬虫--爬取网易云音乐评论](https://blog.csdn.net/qq_43710889/article/details/115445431)
+ > python爬虫--爬取网易云音乐评论
+ ## [Java 方法 递归使用及练习](https://blog.csdn.net/rain67/article/details/115641175)
+ > Java 方法 递归使用及练习
+ ## [Vue组件库 View UI快速入门 环境配置](https://blog.csdn.net/qq_41464123/article/details/115490056)
+ > Vue组件库 View UI快速入门 环境配置
  ## [Linux常用命令（非常详细！）](https://blog.csdn.net/lq56789/article/details/115605128)
  > Linux常用命令（非常详细！）
  ## [JavaScript逐点突破系列之this是什么？了解完这7点很多疑惑都解决](https://blog.csdn.net/Kepler_II/article/details/115639392)
@@ -115,6 +121,8 @@ categories: IT NEWS
  ## [总结了这67个pandas函数，完美解决数据处理，拿来即用！](https://blog.csdn.net/weixin_41261833/article/details/115598697)
  > 总结了这67个pandas函数，完美解决数据处理，拿来即用！
 # PM 
+ ## [马老师一分钟谈数字化：数字化转型的变革模式（一）](http://www.chanpin100.com/article/114542)
+ > 数字化转型有三种颠覆的模式，一种是战略上颠覆，一种是效率上颠覆，还有一种体验上（颠覆）。
  ## [售前产品经理是做什么的？](http://www.chanpin100.com/article/114595)
  > 售前产品经理是做什么的？它和产品经理有什么区别？需要哪些技能？今天我们就来了解一下！实际上这两个职位核心关注点应该是相同的，都是客户需求和产品价值。只是具体聚焦不同而已。
  ## [知识付费的行业前景和常见模式](http://www.chanpin100.com/article/114540)
@@ -153,7 +161,5 @@ categories: IT NEWS
  > 之前我们调研了北京和上海的产品经理薪资水平，今天来分享一下深圳产品经理的薪资水平，这些数据都是花了大量时间进行整理的哦，希望能帮到准备求职的同学们，一起来看看吧！
  ## [【连载 17】 证伪模型](http://www.chanpin100.com/article/114580)
  > 产品经理在求职面试的过程中，总会遇到“成功例”相关的问题，面试官希望通过求职者的成功案例，判断求职者是否具备相应的产品能力。这很不公平，但却很现实。
- ## [2021年教培企业要如何做好私域流量？](http://www.chanpin100.com/article/114526)
- > 教育机构陷入“招生难”、“续课少”、“转介绍率低”的困境，免费的、可随时触达的私域流量成为了教培机构实现营销增长的有力武器。
 
     
