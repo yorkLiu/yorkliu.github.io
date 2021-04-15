@@ -1,24 +1,28 @@
 ---
 title: 2021-04-15 IT News
 copyright: true
-date: 2021-04-15 08:00:59
+date: 2021-04-15 09:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [五年三千亿加码创新背后 上汽“决战”智能汽车新赛道](http://mp.weixin.qq.com/s?src=11&timestamp=1618443004&ver=3009&signature=803W3*UbmBLd3tiCn1KvNBztCscGbkHMm373KZF8ifsCJ7L5kHeY1V116sLQ7XJFiJ3ywf3iQQmsOznU8Tzv7GF043IJbk9jMLKs2EfRHuNO3NXzp1T-Za681ZUdzn7u&new=1)
- > 在发布“全球首款量产互联网汽车”整整1738天后，上汽集团再度“领跑”智能汽车新赛道。4月9日，全球首个汽车SOA开发者大会——上汽零束SOA平台开发者大会在上海召开，上汽集团对外发布“银河”智能汽车全栈解决...
- ## [云米：「关于未来家的样子，我有个不同想法」](http://mp.weixin.qq.com/s?src=11&timestamp=1618443004&ver=3009&signature=zkb-ajRDQtlVJxjKs-PeYEPJp1sBXRuD2wzOj3D6X2dIc3O2FB442rsjb4xW60xBZ85PyQ6mxzMzvxR*vE4ZL4XOl6Ufyvagtdxn24UZTcGFUp-gilib*if2C11DYNzP&new=1)
+ ## [云米：「关于未来家的样子，我有个不同想法」](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=zkb-ajRDQtlVJxjKs-PeYEPJp1sBXRuD2wzOj3D6X2dIc3O2FB442rsjb4xW60xBeXPvNPgdRCdU7Jiyd4V-gwaYc*gkhfyPVp763NGLtA965QJav6rqALCyenT6urAE&new=1)
  > 你的房子会像人一样思考吗？想象一下，未来一个真正拥有智慧与智能的家是怎样的模样？其实，有关于全屋智能的概念存在已久，业界并没有一个明确、清晰的定义，人们生活中依然有很多令人感到头大的琐事。你能想象...
- ## [华为高度重视云计算，或意在解决芯片困境](http://mp.weixin.qq.com/s?src=11&timestamp=1618443004&ver=3009&signature=kDIVzSpG4Y1y3DxTzCcya-0GrvKTAC5kRgDwGRtIPd0XQJ6ihoRYlw2Ga2WO6jAoJn7V7Qb-XrP4hTLHxoOZoNUFlp8TSC289eo1xwVU7h3*q4D9PzbHZimgv5iU1OcU&new=1)
+ ## [五年三千亿加码创新背后 上汽“决战”智能汽车新赛道](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=803W3*UbmBLd3tiCn1KvNBztCscGbkHMm373KZF8ifsCJ7L5kHeY1V116sLQ7XJFu29TNeaZ8yNkAd0p*1-vOfLgI5hylVrRHZ2cxOSSai3qkNEQ-6VishhFwWn1g0DG&new=1)
+ > 在发布“全球首款量产互联网汽车”整整1738天后，上汽集团再度“领跑”智能汽车新赛道。4月9日，全球首个汽车SOA开发者大会——上汽零束SOA平台开发者大会在上海召开，上汽集团对外发布“银河”智能汽车全栈解决...
+ ## [华为高度重视云计算，或意在解决芯片困境](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=kDIVzSpG4Y1y3DxTzCcya-0GrvKTAC5kRgDwGRtIPd0XQJ6ihoRYlw2Ga2WO6jAoXqBsCrZONI54HOsza19EdvyPN3RNyf99iQ6-klXFSC2sWJn7CpRDah*suCcNeQf3&new=1)
  > 华为云去年曾与其他业务合并为一个大业务部门，不过经过一年多时间的运作之后却又被拆分出来成为一级业务部门，此举可能与它希望解决当下的芯片困境有关。华为云已拥有强大的实力，作为后来者，华为云曾远远落后...
- ## [英特尔CEO表达悲观：全球芯片供应短缺问题将持续多年](http://mp.weixin.qq.com/s?src=11&timestamp=1618443004&ver=3009&signature=z9WqE0-272rErnD3p6UUlFiNP3-6B25gO95NW8SN3D6x2NQOI*ouAsvVPqh-BYBQz0S*MMY7GSg00Rgy01rR-WkV9kAprTlC8UX1yQuTaMVCcVDtui6JWFp0wpxhsSyP&new=1)
+ ## [英特尔CEO表达悲观：全球芯片供应短缺问题将持续多年](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=z9WqE0-272rErnD3p6UUlFiNP3-6B25gO95NW8SN3D6x2NQOI*ouAsvVPqh-BYBQ6hGA5at6F*Q1D4Zu7UuZpgd1wV2vn7IrQTo9yBBABMtm3vzgoqQZktsAkXUsUKMr&new=1)
  > 4月14日消息，英特尔首席执行官帕特·盖尔辛格（Pat Gelsinger）在参加白宫芯片峰会后接受采访时称，由于需求飙升和生产能力有限，重创汽车行业和其他制造商的全球芯片供应短缺问题将需要“几年”时间来缓解。盖...
- ## [美国突然传来凶讯，让人不寒而栗!](http://mp.weixin.qq.com/s?src=11&timestamp=1618443004&ver=3009&signature=KUHaSjXrV*NKwZTCN3rSIMwnQxh67Ta7mNfJ*9NC6RmvCy2*Eg9rG3iNX-n8D7XeF6s66YapZ-z7IRmxttjp5nWL1ZxRiITI-JSuTAFfyFIrOGDY5bpOxt*8dyWLKklQ&new=1)
+ ## [美国突然传来凶讯，让人不寒而栗!](http://mp.weixin.qq.com/s?src=11&timestamp=1618446604&ver=3009&signature=KUHaSjXrV*NKwZTCN3rSIMwnQxh67Ta7mNfJ*9NC6RmvCy2*Eg9rG3iNX-n8D7XeMeHMuTrDOE2lxDfsciiSndSI35yxcJhnGQYg-WI4OEV1JZLAJTClFCWEFeT4bwKm&new=1)
  > 美国突然传来凶讯，让人不寒而栗！谁也不会想到，机器人在AI助力下进化的这么快，看过视频中最新版本的机器人简直叫人不寒而栗！波士顿动力又放出一波新视频，其机器人的进步，再度让全世界为之震惊！看吧，在最...
 # IT 技术 
+ ## [五大首选React Native数据库](http://database.51cto.com/art/202104/657388.htm)
+ > 五大首选React Native数据库
  ## [求你了，别再纠结线程池大小了！](http://developer.51cto.com/art/202104/657424.htm)
  > 求你了，别再纠结线程池大小了！
+ ## [人工智能优先战略将从哪里开始？](http://ai.51cto.com/art/202104/657371.htm)
+ > 人工智能优先战略将从哪里开始？
  ## [MongoDB与MySQL，该如何从中选用数据库？](http://database.51cto.com/art/202104/657104.htm)
  > MongoDB与MySQL，该如何从中选用数据库？
  ## [MXLinux为什么是下载量最大的Linux桌面发行版？](http://os.51cto.com/art/202104/657102.htm)
@@ -27,32 +31,36 @@ categories: IT NEWS
  > 2021最受欢迎的编程语言排行：苹果编程语言Objective-C被Swift取代
  ## [JVM新生代、老年代的默认比值真的是1:2吗？](http://virtual.51cto.com/art/202104/657205.htm)
  > JVM新生代、老年代的默认比值真的是1:2吗？
- ## [超快的PNG图像解码器！速度提升2.75倍，比老大哥libpng还安全](http://news.51cto.com/art/202104/657073.htm)
- > 超快的PNG图像解码器！速度提升2.75倍，比老大哥libpng还安全
- ## [在HarmonyOS中用AI识别图中文字](http://os.51cto.com/art/202104/657072.htm)
- > 在HarmonyOS中用AI识别图中文字
- ## [MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04](http://fellow.51cto.com/art/202008/623588.htm?qd=51ctojrzd)
- > MySQL性能分析与优化调整_MySQL数据库性能优化与运维诊断04
- ## [2021年了，还只会一种 CSS 实现三角形的方式？](http://developer.51cto.com/art/202104/657425.htm)
- > 而 CSS 发展到今天，其实有很多有意思的仅仅使用 CSS 就能绘制出来的三角形的方式，本文将具体罗列讲讲。
- ## [一篇文章带你了解C 索引器](http://developer.51cto.com/art/202104/657423.htm)
- > 索引器(Indexer) 允许一个对象可以像数组一样使用下标的方式来访问。当您为类定义一个索引器时，该类的行为
- ## [Chrome刷版本刷到了90！Chrome 90新功能一览](http://os.51cto.com/art/202104/657422.htm)
- > 在未来数天内，Chrome 90会推送给所有Chrome用户，只需要等待浏览器自动升级即可。如果想要手动更新，也可
- ## [Linux 内核进程管理之基础](http://os.51cto.com/art/202104/657421.htm)
- > 没有废话，内存管理暂时告一段落，正式进入进程管理的内容。task_struct 结构体内容太多，这里只列出部分成
- ## [如何在 Java 中优雅地分割 String 字符串](http://developer.51cto.com/art/202104/657393.htm)
- > 相信很多同学都知道，String 类中的 split 方法可以进行字符串分割，然而日常使用起来却仅限于 str.split(
- ## [MarketsandMarkets：亚太将成5G物联网市场增长最快的地区](http://network.51cto.com/art/202104/657392.htm)
- > 根据MarketsandMarkets的数据显示，到2026年，5G物联网市场规模预计将从2021年的26亿美元增长到402亿美元，
+ ## [C++入门 视频课程](http://fellow.51cto.com/art/202101/638491.htm?qd=51ctojrzd)
+ > C++入门 视频课程
+ ## [Zabbix 5.2由浅入深之监控Apache](http://os.51cto.com/art/202104/657448.htm)
+ > 该章节比较简单，利用的就是apache的mod_status模块，但是注意如果存在跳转的情况（http--&gt;https）会出现30
+ ## [聊聊从Vue.js源码中我学到了精妙方法](http://developer.51cto.com/art/202104/657445.htm)
+ > 如果我们的应用需要创建很多新的对象，并且这些对象还有许多的方法，为了节省内存，我们建议把这些方法都定
+ ## [在Vue.js中加载字体的优秀做法(适应于其他静态资源)](http://developer.51cto.com/art/202104/657444.htm)
+ > 添加字体不应该对性能产生负面影响。在本文中，我们将探讨在 Vue 应用程序中加载字体的优秀实践。
+ ## [微型前端的优秀实践](http://developer.51cto.com/art/202104/657443.htm)
+ > 经历在规模上使用微型前端的优势和痛苦后，我决定记录这段旅程并分享一些“优秀实践”。
+ ## [关于容器，你需要知道这7件事](http://developer.51cto.com/art/202104/657441.htm)
+ > 容器无处不在，它们从根本上改变了IT领域。容器化为企业带来了巨大的价值和广泛的利益，几乎所有近期的业务
+ ## [Spring声明式事务在哪些情况下会失效？](http://developer.51cto.com/art/202104/657440.htm)
+ > 在Spring中事务管理的方式有两种，编程式事务和声明式事务。先详细介绍一下两种事务的实现方式
+ ## [Check Point《2021 年移动安全报告》显示，在过去一年中，全球几乎每个组织都经历了一次移动恶意软件攻击](http://netsecurity.51cto.com/art/202104/657439.htm)
+ > 新报告揭露了从恶意应用到勒索软件攻击等对企业移动设备的最新威胁，并首次探讨了从企业移动设备管理系统下
+ ## [ParkMobile暴露2100万用户的车牌数据](http://netsecurity.51cto.com/art/202104/657438.htm)
+ > 据外媒报道，有人正在网络犯罪论坛上出售在北美颇受欢迎的移动停车应用ParkMobile的2100万客户的账户信息。
+ ## [用了很多动效，介绍 4个很 Nice 的 Veu 路由过渡动效！](http://developer.51cto.com/art/202104/657436.htm)
+ > 在今天的文章中，我们介绍使用Vue Router过渡的基础知识，然后再介绍一些基本示例，希望能给大家一些启发和
+ ## [高通、爱立信和OPPO实现欧洲首个5G SA网络商用](http://network.51cto.com/art/202104/657437.htm)
+ > 据外媒报道，OPPO、爱立信和高通近日宣布，他们已将沃达丰的5G SA网络在德国商用。
  ## [一万字一篇文20分钟学会C语言和Python，十四年编程经验老鸟传授经验之道](https://blog.csdn.net/A757291228/article/details/115683842)
  > 一万字一篇文20分钟学会C语言和Python，十四年编程经验老鸟传授经验之道
  ## [Java架构师成长路线总结2021版（持续更新）](https://blog.csdn.net/weixin_48013460/article/details/111885274)
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [从大一到如今肝了四年算法，如何系统且全面着学习算法？](https://blog.csdn.net/m0_37907797/article/details/115700483)
- > 从大一到如今肝了四年算法，如何系统且全面着学习算法？
+ ## [通宵总结！值得你收藏的Git命令清单（全），切莫书到用时方恨少](https://blog.csdn.net/qq_39390545/article/details/115695909)
+ > 通宵总结！值得你收藏的Git命令清单（全），切莫书到用时方恨少
  ## [超赞！两张小抄，带你 “迅速” 掌握Pandas “数据清洗” 流程！](https://blog.csdn.net/weixin_41261833/article/details/115701374)
  > 超赞！两张小抄，带你 “迅速” 掌握Pandas “数据清洗” 流程！
  ## [使用postman断言时遇到的坑之tests中设置的全局变量，只有在接口执行完成后，才会生效](https://blog.csdn.net/Test_the_rookie/article/details/115703232)
