@@ -1,20 +1,20 @@
 ---
 title: 2021-04-16 IT News
 copyright: true
-date: 2021-04-16 08:01:02
+date: 2021-04-16 09:01:30
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [产品展示|云创大规模人脸比对机，一秒做7亿次人脸比对!](http://mp.weixin.qq.com/s?src=11&timestamp=1618529404&ver=3011&signature=tvKHFMRqPC2UQB*aa7bdfwHc575ZAg4MkmzL1ylzNgPI1P8gxvzTuY53Y9ZrqznDYNLtZIYG-TeMpFLvD5u3Z1yqK56LkBS9eUHNXJxT1n4RdM8fO2pc0PGQ8uqtu5Go&new=1)
+ ## [产品展示|云创大规模人脸比对机，一秒做7亿次人脸比对!](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=tvKHFMRqPC2UQB*aa7bdfwHc575ZAg4MkmzL1ylzNgNphUqxThl-1MEEvgEUeyNHDzPYPTdpaE7GEQdOhQLBrAy-I6G0oRrRrn2*dBFdq0V7GIwo0LBQ05-F9EILDelq&new=1)
  > 一秒钟做7亿次人脸比对！成本降低10倍以上！本机作为主流的人工智能人脸识别算法后段的比对专用机，与各家算法兼容。
- ## [华为行业数字化转型方法论白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1618529404&ver=3011&signature=8apf7Yf4xbpvlucW0ux35hlRYTVuFqyfb5rX67mqRs3rz5X7p3eZ5gq3DeUx9Whxqvj9KOSe5*Hhohf2oROFXDSm337iZ-MmGkwbWir1sZKOmdp7dq*8wanKr5UZbeG*&new=1)
- > 写在前面数字化转型势在必行，这已成为所有企业CIO的共识。但在现实中，很多数字化转型计划还是陷入重重困难，其原因大多在于企业内部对数字化转型的认知还不够透彻。尤其是对于那些业务正处于发展和上升期的公...
- ## [人事：中国电信集团这个部门一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618529404&ver=3011&signature=OKaGWJwF6dEsgS-oZEbnzW48uPsEKNvH*9-6HBBvfQhIkTRiQSl9bJm8489b3w*COr4XoS5p8tnGZll24FXgTLiYmEV04QfY7QTdvMOGn7eA*AIKwpqTSXA*zrI0iBhj&new=1)
- > 运营商情报获悉，原黑龙江电信总经理王峰任职中国电信集团客户服务部总经理。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [华为认清现实，鸿蒙系统用户目标从3亿大幅打折至1亿](http://mp.weixin.qq.com/s?src=11&timestamp=1618529404&ver=3011&signature=s9ApX7qQk1XBuc*UX*hF5fgNWekNte7D88lfFCWutv2OKgpabDZLhFOmG3PzvKnqjCFLs8uElwed6zjgMOZySZ*vz7q4kiVKco04TunZpUToRi6Glwi2HOf2tc-o6vft&new=1)
+ ## [华为认清现实，鸿蒙系统用户目标从3亿大幅打折至1亿](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=s9ApX7qQk1XBuc*UX*hF5fgNWekNte7D88lfFCWutv34gcSqoNmKV8liYJZz-*KG3TkDHZZKUxiF9pOzcnhb5oRCZ1hDbZ3OaAJ*VtkOU8IC0I0bx3jXx8EcQ*wYhzj6&new=1)
  > 近日《21世纪经济报道》报道指出在华为第十八届分析师大会上，华为轮值董事长徐直军预期今年鸿蒙系统接入的设备将只有1亿，较此前的3亿预期目标减少了三分之二，为何华为方面对鸿蒙系统的预期目标大幅打折呢？《...
- ## [破解千兆光网确定性体验保障和变现难题，华为推全光自动驾驶网络方案2.0](http://mp.weixin.qq.com/s?src=11&timestamp=1618529404&ver=3011&signature=brYPKbXZPzrGl4zvZ2LOmFNtcapOjD6jGaDKgbygsJ1djrvuO6MVrOmS2NFniofVNaSV9bbidTNc-gPcHVk0WN0xAr-3eJ9nh0s*omo5DZU8Ovab3s1ZqXfNMq5a6TM4&new=1)
+ ## [人事：中国电信集团这个部门一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=OKaGWJwF6dEsgS-oZEbnzW48uPsEKNvH*9-6HBBvfQimlzITcPSBMwOnZqBZ3yE5Cn1DI3CiNUO2Utm9sxI8DIdSdu129mD-013XJQWtnGL5xozJprpGPRHIwF3qJo1z&new=1)
+ > 运营商情报获悉，原黑龙江电信总经理王峰任职中国电信集团客户服务部总经理。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
+ ## [华为行业数字化转型方法论白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=8apf7Yf4xbpvlucW0ux35hlRYTVuFqyfb5rX67mqRs07Qm3U8CgEmlG*nyAicrendRy-78998rsiBjdIHb6BUalN1mm0C2mVtnmlU4S6jNs0hUEm3VvxvwXMrXoUAbpI&new=1)
+ > 写在前面数字化转型势在必行，这已成为所有企业CIO的共识。但在现实中，很多数字化转型计划还是陷入重重困难，其原因大多在于企业内部对数字化转型的认知还不够透彻。尤其是对于那些业务正处于发展和上升期的公...
+ ## [破解千兆光网确定性体验保障和变现难题，华为推全光自动驾驶网络方案2.0](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=brYPKbXZPzrGl4zvZ2LOmFNtcapOjD6jGaDKgbygsJ1bZYO8ijG8bYr2cYgGm69IfNeBDr1WzeBKEUIls38TmjG1tfjPUlkHUPaR-daN93019Y*NhblGa4i8wECY4dER&new=1)
  > 大家可能遇到或听到过这样的懊恼场景：当你在家与伙伴玩游戏，或者开视频会议时，网络突然卡住，甚至断掉；当孩子在线上听课时，老师讲课画面和声音却总是断断续续；当企业进行大宗金融交易时，遭遇网络时延变长...
 # IT 技术 
  ## [大学四年，工作四年，我把私藏了 8 年的网站全贡献出来了！！！](https://blog.csdn.net/qq_36894974/article/details/115719970)
