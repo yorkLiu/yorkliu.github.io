@@ -1,20 +1,22 @@
 ---
 title: 2021-04-16 IT News
 copyright: true
-date: 2021-04-16 09:01:30
+date: 2021-04-16 10:01:06
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [产品展示|云创大规模人脸比对机，一秒做7亿次人脸比对!](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=tvKHFMRqPC2UQB*aa7bdfwHc575ZAg4MkmzL1ylzNgNphUqxThl-1MEEvgEUeyNHDzPYPTdpaE7GEQdOhQLBrAy-I6G0oRrRrn2*dBFdq0V7GIwo0LBQ05-F9EILDelq&new=1)
+ ## [果然芯片之王!净利率达40%、日赚3.57亿，市值≈A股芯片板块总和1.6倍!这样回应芯片短缺…](http://mp.weixin.qq.com/s?src=11&timestamp=1618538404&ver=3011&signature=BXXE*bxkJhOpl8huU-LQdy-U1TR**scqOkXgJNn*EsMERWxG*jQOC2069PoouPbKrMOMFB6mqWWu4bAUqPCGLHvNlP5Naq*u73iOMBPS1xFiOuxDGvyR9x*nxapnlcMf&new=1)
+ > 4月15日，台积电（TSM）发布了2021财年第一季度财报。财报显示，第一季度合并营收为 3624.1亿元新台币（约合835亿人民币)，同比增长16.7%；净利润为1397亿元新台币(约合322亿人民币)，同比增长19.4%，毛利率50.5
+ ## [产品展示|云创大规模人脸比对机，一秒做7亿次人脸比对!](http://mp.weixin.qq.com/s?src=11&timestamp=1618538404&ver=3011&signature=tvKHFMRqPC2UQB*aa7bdfwHc575ZAg4MkmzL1ylzNgNphUqxThl-1MEEvgEUeyNHvJ8OiYvIMs5zsPCPF2RwBUumZUWqee6-b8qQqfZFWtQ6kJehRnuBG1o6K1Uz9pEW&new=1)
  > 一秒钟做7亿次人脸比对！成本降低10倍以上！本机作为主流的人工智能人脸识别算法后段的比对专用机，与各家算法兼容。
- ## [华为认清现实，鸿蒙系统用户目标从3亿大幅打折至1亿](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=s9ApX7qQk1XBuc*UX*hF5fgNWekNte7D88lfFCWutv34gcSqoNmKV8liYJZz-*KG3TkDHZZKUxiF9pOzcnhb5oRCZ1hDbZ3OaAJ*VtkOU8IC0I0bx3jXx8EcQ*wYhzj6&new=1)
+ ## [华为认清现实，鸿蒙系统用户目标从3亿大幅打折至1亿](http://mp.weixin.qq.com/s?src=11&timestamp=1618538404&ver=3011&signature=s9ApX7qQk1XBuc*UX*hF5fgNWekNte7D88lfFCWutv34gcSqoNmKV8liYJZz-*KGE4zl-j73f9G6U9Ua6VifFayEp5nCq8iP6G0ptp6VLRo-tld7yteW**i17BxOtnSE&new=1)
  > 近日《21世纪经济报道》报道指出在华为第十八届分析师大会上，华为轮值董事长徐直军预期今年鸿蒙系统接入的设备将只有1亿，较此前的3亿预期目标减少了三分之二，为何华为方面对鸿蒙系统的预期目标大幅打折呢？《...
- ## [人事：中国电信集团这个部门一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=OKaGWJwF6dEsgS-oZEbnzW48uPsEKNvH*9-6HBBvfQimlzITcPSBMwOnZqBZ3yE5Cn1DI3CiNUO2Utm9sxI8DIdSdu129mD-013XJQWtnGL5xozJprpGPRHIwF3qJo1z&new=1)
+ ## [人事：中国电信集团这个部门一把手调整!](http://mp.weixin.qq.com/s?src=11&timestamp=1618538404&ver=3011&signature=OKaGWJwF6dEsgS-oZEbnzW48uPsEKNvH*9-6HBBvfQimlzITcPSBMwOnZqBZ3yE586j*EaywhbUCd--rqPtSjF2g53DOQfltfpqtxl3v9Ulr0UwZpiQbbE6nwtCSYm0f&new=1)
  > 运营商情报获悉，原黑龙江电信总经理王峰任职中国电信集团客户服务部总经理。综合：运营商情报监制：肖斌 张泉 刘立红编辑：姜涵 徐梅责编：赵爽校对：马晓蒙运营商情报
- ## [华为行业数字化转型方法论白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=8apf7Yf4xbpvlucW0ux35hlRYTVuFqyfb5rX67mqRs07Qm3U8CgEmlG*nyAicrendRy-78998rsiBjdIHb6BUalN1mm0C2mVtnmlU4S6jNs0hUEm3VvxvwXMrXoUAbpI&new=1)
+ ## [华为行业数字化转型方法论白皮书](http://mp.weixin.qq.com/s?src=11&timestamp=1618538404&ver=3011&signature=8apf7Yf4xbpvlucW0ux35hlRYTVuFqyfb5rX67mqRs07Qm3U8CgEmlG*nyAicrenvlrn01q86xkE-0O0AcKqCuUH4ECP21iM3bcJ0wKb8*SJ8iicOOXpPoCsCglEORFo&new=1)
  > 写在前面数字化转型势在必行，这已成为所有企业CIO的共识。但在现实中，很多数字化转型计划还是陷入重重困难，其原因大多在于企业内部对数字化转型的认知还不够透彻。尤其是对于那些业务正处于发展和上升期的公...
- ## [破解千兆光网确定性体验保障和变现难题，华为推全光自动驾驶网络方案2.0](http://mp.weixin.qq.com/s?src=11&timestamp=1618534804&ver=3011&signature=brYPKbXZPzrGl4zvZ2LOmFNtcapOjD6jGaDKgbygsJ1bZYO8ijG8bYr2cYgGm69IfNeBDr1WzeBKEUIls38TmjG1tfjPUlkHUPaR-daN93019Y*NhblGa4i8wECY4dER&new=1)
+ ## [破解千兆光网确定性体验保障和变现难题，华为推全光自动驾驶网络方案2.0](http://mp.weixin.qq.com/s?src=11&timestamp=1618538404&ver=3011&signature=brYPKbXZPzrGl4zvZ2LOmFNtcapOjD6jGaDKgbygsJ1bZYO8ijG8bYr2cYgGm69IbVOke82adcr2Bed4EX0gOOU92DURJmfRg0eQi3yX1B8M2eyiikqiQFQ*2ILQM6RY&new=1)
  > 大家可能遇到或听到过这样的懊恼场景：当你在家与伙伴玩游戏，或者开视频会议时，网络突然卡住，甚至断掉；当孩子在线上听课时，老师讲课画面和声音却总是断断续续；当企业进行大宗金融交易时，遭遇网络时延变长...
 # IT 技术 
  ## [大学四年，工作四年，我把私藏了 8 年的网站全贡献出来了！！！](https://blog.csdn.net/qq_36894974/article/details/115719970)
@@ -23,10 +25,10 @@ categories: IT NEWS
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [一万字一篇文20分钟学会C语言和Python，十四年编程经验老鸟传授经验之道](https://blog.csdn.net/A757291228/article/details/115683842)
- > 一万字一篇文20分钟学会C语言和Python，十四年编程经验老鸟传授经验之道
- ## [被拖欠2个月工资，最后我拿到了6个月《打工人的那些事》](https://blog.csdn.net/qq_26525215/article/details/115733238)
- > 被拖欠2个月工资，最后我拿到了6个月《打工人的那些事》
+ ## [这是最全的一篇！！！浏览器输入网址后发什么了什么？](https://blog.csdn.net/qq_36894974/article/details/115720479)
+ > 这是最全的一篇！！！浏览器输入网址后发什么了什么？
+ ## [Springboot 集成 i8n，两行代码实现国际化，你不想学吗？](https://blog.csdn.net/chenlixiao007/article/details/115741029)
+ > Springboot 集成 i8n，两行代码实现国际化，你不想学吗？
  ## [\[设计模式C++\]观察者模式](https://blog.csdn.net/weixin_44972997/article/details/115470217)
  > \[设计模式C++\]观察者模式
  ## [PyQT5 主窗口打开新窗口(帮助文档)](https://blog.csdn.net/xianvfx/article/details/115694734)
@@ -81,6 +83,8 @@ categories: IT NEWS
 # PM 
  ## [产品经理如何打造爆款产品？跟着大神一起学习！](http://www.chanpin100.com/article/114604)
  > 随着互联网的高速发展，产品经理的需求量也越来越大，那么如何打造出一款优秀的新产品呢？这是我们今天要分享的内容。产品经理这个行业看似简单，实则非常考验能力，所以我们要不断充电，这样才不会被淘汰。
+ ## [在线教育行业观察！2021年Q1在线教育行业数据及ASO投放报告](http://www.chanpin100.com/article/114575)
+ > 从2020年至今，在线教育经历了爆发式增长、稳步发展以及当下的沉淀阶段，在线教育已然进入到了拼内力、赢口碑、新增长的“下半场”。
  ## [知识服务是知识付费的价值回归](http://www.chanpin100.com/article/114579)
  > 进入21世纪的大潮以来，越来越多的人开始投向知识付费这个行业。包括创客匠人、知乎、喜马拉雅FM等平台，都逐渐开放了这个功能。
  ## [免费阅读平台增势迅猛 番茄小说或将领跑赛道](http://www.chanpin100.com/article/114577)
@@ -117,7 +121,5 @@ categories: IT NEWS
  > 对于一家以产品为主导的创业公司来说，客户的反馈对于开发平台、找到适合的产品和市场以及教育投资者是至关重要的。在专门的销售计划到位前或者缺少个性化的引导流程时，很少有机会听到用户告诉你他们喜欢什么和不喜欢什么。
  ## [数字化转型最致命的4个误区和3个错误](http://www.chanpin100.com/article/114560)
  > 对于所有企业来说，数字化转型都是新鲜事物，都在摸着石头过河，再加上数字化转型本身是一个极其复杂的系统工程，很多企业在数字化转型的过程中难免会遇到各种问题，甚至犯各种错误，有些错误的代价非常大，企业要尽可能避免。
- ## [产品经理必知的7种容错机制](http://www.chanpin100.com/article/114623)
- > 子曰：知错能改，善莫大焉。产品经理说：且慢！容我想想......可能很多时候，我们在设计产品时，主要精力投在主流程上，想如何完成闭环，如何节省步骤，提高用户体验，对于异常情况，就是给出友好的提示和引导。
 
     
