@@ -1,24 +1,34 @@
 ---
 title: 2021-04-17 IT News
 copyright: true
-date: 2021-04-17 12:00:57
+date: 2021-04-17 17:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [硅湖职业技术学院副校长张琦教授一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=h7fIUWoiAF8FTdoKTQGUT0Hg0udtZ2zd0xzcwWwNFfOqxWZWW3Dqvo8rcwKcya4NJurPs8BMJK5tzVt0tql*v04KXbIlx48hIXupxxR*WyOHZWpfJnXUk2K9WeJIyk2D&new=1)
- > 4月16日，硅湖职业技术学院副校长张琦教授、计算机科学与技术学院院长薛胜军、学员旅旅长闻年喜到访，云创大数据总裁刘鹏教授、张伟总监等共同接待了来宾。交流座谈中，云创方面向来宾介绍了公司在大数据存储与...
- ## [马斯克带货的狗狗币大涨 200%；苹果音乐调整版税，播一次 0.01 美元；水滴递交招股书，年营收 30 亿元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=G*h90XsS59KdIodu11o3ZN2VL8f5onefnUTbUxRLOdPyXevIQiQVyAwgSXAicTwWM-2Av1K7TNGldrnH0QVWjy*2PURUISr5hq0iijsgO4WEmTHk6rVk5G2Yberoz9oN&new=1)
+ ## [Wi-Fi列表总有TP-LINK?这个神秘品牌到底啥来路](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=YYzYxg1nHjxJ*cRYcnsfDNZYAadMs7BNjb4BJnpCZ1h5gu6Q8kOiXqc7vxFxRdeaTc4amgi9VR2AUlOdHkpnQmkaci092SScgsKEtg8GlynlSkbE*5kffTLG-nVaJyv4&new=1)
+ > 家用路由器领域，思科和华为都不是它的对手。全文2752字，阅读约需8分钟文 | X科技实验室当你打开手机的Wi-Fi搜索页面，是不是经常会看到“TP-LINK”几个字？你是否和我一样好奇过，这几个英文字母是什么？肯定...
+ ## [2021世界电信日大会将成河南特色数字化能力展示平台](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=nn4M2snIqC*INMLO9LkXfcCV6OE7N2EjdwsOqcdC294cR9Lco68259uttEsd9Q34FAhfEBVA95Kf72AhnKSU803Rzp78TOW-EM7YhGuxMW5kEW4XvWh9YgTrbLH-vxwB&new=1)
+ > 4月16日，2021年世界电信和信息社会日大会新闻发布会在京召开。河南省通信管理局党组成员、一级巡视员孙力进行了精彩致辞。作为我国信息通信领域的顶级盛会，世界电信和信息社会日大会第一次在京外举办就放到了...
+ ## [太空机器人可能长啥样?一起来看看这个“精神小伙”](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=-rYImNYVSgKkTtqxVKgiv7XUO2KR86I7NIYaTguUm*Tm5TrjCB04Q6v8oqIuztx4QmHeeYIgyVcFE04G6-4xlpwraAb6lt89nkwyvITvZIbinMjm5twuzoStSlgtp79O&new=1)
+ > 你心目中的太空机器人，是这样？↓还是这样？↓太科幻了吧！实际上，我们今天要看的机器人，长这样↓它的学名是双足大仿人机器人。这是一种在形态、行为和思维层面类似于人的机器人，目标是完成人能完成的多种任...
+ ## [Azure Stack HCI 实战六大绝招](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=p*RH25q6XaodI3sb8uulKXOGrFNwvoUSpV7n4Mo5s1*kTMlNpn9xVxm1d8c4VTETfKmtpyoegA-PBq5eML7vZYqM0bqPQjNPusHb6o5Qc9Wo5xCyk*Z5ZL5QRE*MmFOY&new=1)
+ > （本文阅读时间：5分钟）上一期我们为大家介绍了微软全新的超融合操作系统 Azure Stack HCI，错过的小伙伴可以通过视频快速回顾一下：为了帮助企业应对日益复杂的混合基础架构，IT 部门需要管理并维护横跨本地、...
+ ## [华为携手郎朗 开启VR音乐新未来](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=D7aQNbq4VfY9ANdS7z77-D0**2HIdUUlKjmOoMPACe8rKvXze1QT8ovsip8fmyw0IZW14pe3X5j73CLQsvRvK09ilxneNG89dPipyfyNGd8DmSwY-DosscmlwxAY*69M&new=1)
+ > 得益于人们对超大带宽利用、超低时延利用以及海量连接应用的需求，5G在正式商用的第一年便得到迅速推广，以VR、AR为代表的千行百业也迎来了全新的基础技术平台。作为一项早已从技术成熟曲线中“毕业”了的技术，...
+ ## [马斯克带货的狗狗币大涨 200%；苹果音乐调整版税，播一次 0.01 美元；水滴递交招股书，年营收 30 亿元|极客早知道](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=G*h90XsS59KdIodu11o3ZN2VL8f5onefnUTbUxRLOdNY6N53kTILONMqqr*msT7yglr5prJXJeKCAyPXzR144VBCyhsmxR*xurYMbO3ngjY1obDr-cRiLvo3vekcdHic&new=1)
  > 水滴公司提交 IPO 招股书：2020 年营收同比大增一倍至 30 亿元北京时间 4 月 17 日消息，水滴公司在美国当地时间周五向美国证券交易委员会（SEC）提交了 IPO（首次公开招股）申请文件。这份文件显示，水滴公司计...
- ## [\[报告\]2021佛吉亚企业研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=baGNPJD2Ql5QVpEIcyV9bcWaCLXstrGysl6Zq-IEurhs3qRT2qZp9KlPi0WTos2jXwHI6gEcmGy7-s5gBfbViFQeemAii-MyVPlrv21HMH1olwFl7JZqnI9oLroRjJOD&new=1)
+ ## [\[报告\]2021佛吉亚企业研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=baGNPJD2Ql5QVpEIcyV9bcWaCLXstrGysl6Zq-IEurhq4yWxO-4r0eQcA9hjNTJtlD9ncnTCkTEY0voR3LNlWJ4uEMb1Idpx7Zj21eMCdDTW64i5R0veGoJCxUQeSBE5&new=1)
  > 创立于1997年的佛吉亚集团已发展成为全球领先的汽车零部件科技公司，在其四大产品业务领域：汽车座椅系统、汽车内饰系统、歌乐汽车电子和绿动智行系统均处于全球领先地位, 围绕智享未来座舱和创赢绿动未来这两大...
- ## [华为朱慧敏谈5G节奏：技术持续创新演进，商业正循环来临](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=ULKhmEWF0CU-NnHxotr4yLbZKKC1N-AfA2sQvu9aelKTHa0-2mdKwtOyE1VP38UN9Se1goCCjxUYY9zfpfUdEpzWPEBfktq4WVKxPzlTkl3LWYs27fW592pLHjOhDMVb&new=1)
+ ## [硅湖职业技术学院副校长张琦教授一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=h7fIUWoiAF8FTdoKTQGUT0Hg0udtZ2zd0xzcwWwNFfNINEa8CALEiJOFOo5VGip33q7-1xreg*A15PnBscOZQ0A4y2qQtLyEGZyLn*L-YYhlPC1TpjwTDAwXURhVEOqY&new=1)
+ > 4月16日，硅湖职业技术学院副校长张琦教授、计算机科学与技术学院院长薛胜军、学员旅旅长闻年喜到访，云创大数据总裁刘鹏教授、张伟总监等共同接待了来宾。交流座谈中，云创方面向来宾介绍了公司在大数据存储与...
+ ## [华为朱慧敏谈5G节奏：技术持续创新演进，商业正循环来临](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=ULKhmEWF0CU-NnHxotr4yLbZKKC1N-AfA2sQvu9aelKI4i8dShpbUfXXTLpzN-0QVdf1YTgJG6zcrEdFTnp4BXh5LO59hcBTrASIjIX1tygZnabTyLFVfYLgY2BuYkMm&new=1)
  > 如果说2019年是5G商用元年，2020年是5G发展“加速期”，那么2021年就是5G的商用规模化的探索期。随着全球范围内运营商不断加码，目前全球5G网络建设很可观，而我国不论是基站数量，还是业务创新、产业生态都已走...
- ## [失去华为这个客户，台积电从中国大陆获得营收占比剧降](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=xmdsfuH3yxvs5YZQkSHKSkTryZvTwMaiAGd4Rj9IFUCWvcPuzwuV6f-nvMm9kLLYYIMNVjBx2HAk5EaNkJeSZ4F5CuCb7P84Vt4gHjBjl5nkwoQIqhsQcGt3Rb3SUeUc&new=1)
+ ## [失去华为这个客户，台积电从中国大陆获得营收占比剧降](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=xmdsfuH3yxvs5YZQkSHKSkTryZvTwMaiAGd4Rj9IFUDr6bfT2D8oNIGXP62GQmpYzO*uUWQuDIh1aE7BOjLYOiVEqQ5J9OZU3QXooIx2TAO796hiM7XnlPt-DRHWMf9Z&new=1)
  > 前魅族副总裁分析台积电今年一季度的业绩指出，中国大陆芯片企业为台积电贡献的营收占比从22%剧降至6%，显示出台积电失去华为这个重要客户之后导致它与中国大陆芯片企业的合作关系变淡。台积电和华为曾有数年的...
- ## [从2021年中国智能家居市场10大预测，看你我的家未来会怎样?](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=OLXYhWK8A7DfI11AO8wJ3PICsT-Tkj5xdZVyAVxXB9B1qSR7RobSo03D9X1K-52AzOCNf4HRqeM*g39L0rE7h1hAq8KezHmNWDoPeEMAoslbjvUXcn15JGkCPq6WBP8I&new=1)
+ ## [从2021年中国智能家居市场10大预测，看你我的家未来会怎样?](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=OLXYhWK8A7DfI11AO8wJ3PICsT-Tkj5xdZVyAVxXB9CZaicBDn8GjvZu8B3aKYswsAm2xfH-RmZwnyT3G0bIvrB6j8NwuTSoKttN-u6mgK-1WNRkbq5xxmmurCy0GA2U&new=1)
  > 从火热的互联网风口概念，到智能音箱、智能门锁、扫地机器人等产品销量的井喷，在过去十余年间，智能家居产品不断渗透进人们的日常生活。随着5G+AIoT时代的来临，智能家居正逐步从碎片化单品朝全屋智能、空间智...
- ## [拆分云BG、不造车、定义5.5G，华为未来该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1618630204&ver=3013&signature=qJsz5Dz6uxpksun2*1-vagOlbn9GK8*rcRi*CE9zXGaknj-ykS3Be0rHuqPRLceEKVGoUkzklITHAOlaZyNvfzzEFetfccmDHAgznQOuRj9pETsYaRX6Z9J5hjZMQdtl&new=1)
+ ## [拆分云BG、不造车、定义5.5G，华为未来该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1618648204&ver=3013&signature=qJsz5Dz6uxpksun2*1-vagOlbn9GK8*rcRi*CE9zXGb96onics10uYaDzZGYE61gAvGMM7Ax6Hg*kLNL*7oC0I80Xtd4FCo1ZGnSPjmzJRPepxdR5SW86lgLkbYKuYUn&new=1)
  > 撰文 | 李昊原编辑 | 杨博丞题图 | IC Photo“活下来”。这个听起来有些悲凉的字眼，是徐直军在华为2020年的财报发布会上提出的。2019年，华为被列入实体清单，在那场发布会前夕，美国商务部又将制裁程度进一步...
 # IT 技术 
  ## [【全网首发】言简意赅的Python全套语法，内附详细知识点和思维导图！【强烈建议收藏！】](https://blog.csdn.net/weixin_47723732/article/details/115681843)
@@ -29,28 +39,28 @@ categories: IT NEWS
  > 
  ## [五年了，我在 CSDN 的两个一百万。](https://blog.csdn.net/c406495762/article/details/115743776)
  > 五年了，我在 CSDN 的两个一百万。
- ## [【Java从入门到天黑|02】SE入门之Java基础](https://blog.csdn.net/weixin_41937552/article/details/115773331)
- > 【Java从入门到天黑|02】SE入门之Java基础
- ## [element-ui设置dialog点击空白不关闭](https://blog.csdn.net/u013008898/article/details/115730832)
- > element-ui设置dialog点击空白不关闭
- ## [Python基础笔记](https://blog.csdn.net/Roy_Allen/article/details/115443173)
- > Python基础笔记
- ## [C语言循环语句笔记详解以及练习-折半查找算法、猜数字游戏](https://blog.csdn.net/attemptendeavor/article/details/115614345)
- > C语言循环语句笔记详解以及练习-折半查找算法、猜数字游戏
- ## [vue的数据响应原理](https://blog.csdn.net/weixin_41277748/article/details/115680611)
- > vue的数据响应原理
- ## [斩获 offer 的 Java 面试宝典](https://blog.csdn.net/qq_27790011/article/details/115593401)
- > 斩获 offer 的 Java 面试宝典
- ## [Vue、ElementUI配合Node、multiparty模块实现图片上传并反显_小demo](https://blog.csdn.net/qq_43291759/article/details/115656523)
- > Vue、ElementUI配合Node、multiparty模块实现图片上传并反显_小demo
+ ## [金三银四已接近尾声，进大厂，你准备好了吗？过五关斩六将七轮面试终拿互联网大厂Offer！！（建议收藏）](https://blog.csdn.net/l1028386804/article/details/115773466)
+ > 金三银四已接近尾声，进大厂，你准备好了吗？过五关斩六将七轮面试终拿互联网大厂Offer！！（建议收藏）
+ ## [3.3.3 其他vector操作](https://blog.csdn.net/Tall_and_Cold/article/details/115773795)
+ > 3.3.3 其他vector操作
+ ## [C语言：文件操作集合，干货满满！](https://blog.csdn.net/weixin_51306225/article/details/115276515)
+ > C语言：文件操作集合，干货满满！
+ ## [发布一个npm 组件库 vue](https://blog.csdn.net/qq_38935512/article/details/115730925)
+ > 发布一个npm 组件库 vue
+ ## [BUUCTF：\[XNUCA2019Qualifier\]EasyPHP -- 关于.htaccess 的各种配置操作，](https://blog.csdn.net/Zero_Adam/article/details/115740087)
+ > BUUCTF：\[XNUCA2019Qualifier\]EasyPHP -- 关于.htaccess 的各种配置操作，
+ ## [Python工程师必备：基础能力提升50篇文章合集](https://blog.csdn.net/csdnstudent/article/details/115623843)
+ > Python工程师必备：基础能力提升50篇文章合集
+ ## [java小程序：控制台字符动画](https://blog.csdn.net/qq_46275158/article/details/115572094)
+ > java小程序：控制台字符动画
  ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
  > MySQL详细学习教程（建议收藏）
  ## [爬虫入门级别教程(小白水平)](https://blog.csdn.net/qq_45911278/article/details/115653853)
  > 爬虫入门级别教程(小白水平)
- ## [Tomcat和Servlet的学习笔记总结](https://blog.csdn.net/m0_46494737/article/details/115701347)
- > Tomcat和Servlet的学习笔记总结
- ## [是科研人就要快！加速你的算法！](https://blog.csdn.net/Zhaoxi_Li/article/details/115303253)
- > 是科研人就要快！加速你的算法！
+ ## [Vue安装到精通 项目实战（2021最新！）](https://blog.csdn.net/weixin_53601359/article/details/115680277)
+ > Vue安装到精通 项目实战（2021最新！）
+ ## [服务器上快速搭建个人网站（SpringBoot项目）](https://blog.csdn.net/Lzy410992/article/details/115695616)
+ > 服务器上快速搭建个人网站（SpringBoot项目）
 # 人工智能 
  ## [PL/pgSQL编写postgresql函数（二）--基本语句](https://blog.csdn.net/qq_39727113/article/details/111201450)
  > PL/pgSQL编写postgresql函数（二）--基本语句
@@ -117,9 +127,5 @@ categories: IT NEWS
  > 在我们进入日常体验设计过程中，大部分标准流程下会进行用户访谈、竞品分析以及可用性测试等方法，而且这个还是比较规范的团队才会，目前也是我所在团队常常进行的流程环节，在此之前，更多的是直觉经验判断进行设计。
  ## [给你支6招：用户无操作时的优化思路](http://www.chanpin100.com/article/114664)
  > 在我们日常使用APP时，多多少少存在一些‘无操作’的场景，比如在使用app时途中有事，放下手机暂时离开了，或者一直滑动屏幕但没有任何点击行为...
- ## [携程回港二次上市 三个问题和三个答案](http://www.chanpin100.com/article/114608)
- > 自2019年以来，中概股掀起一波回归热潮，阿里巴巴、网易、百度、哔哩哔哩等13家在美上市的企业已相继在港实现二次上市，其中不乏创新股价翻倍的企业。
- ## [国内电商场景大战中 企业如何寻找有效增长点？这里有答案了](http://www.chanpin100.com/article/114596)
- > 在目前国内电商的市场格局下，电商企业之间的竞争已经从过去的流量之争、货源之争转变为场景之争，即在用户心中以产品本身的特征占领一席之地。那么如何在国内电商场景大战中，寻找增长机会呢？
 
     
