@@ -1,21 +1,23 @@
 ---
 title: 2021-04-17 IT News
 copyright: true
-date: 2021-04-17 09:01:11
+date: 2021-04-17 10:00:59
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [从2021年中国智能家居市场10大预测，看你我的家未来会怎样?](http://mp.weixin.qq.com/s?src=11&timestamp=1618621203&ver=3013&signature=OLXYhWK8A7DfI11AO8wJ3PICsT-Tkj5xdZVyAVxXB9A0f1MoMjPm8lBFQ0-KMusHcbaw6Z9j8ktX2JFSiB*HdRC**QwB0plFENCniTvXkgOd-SZCHuVK7tTdUG6xS7Cn&new=1)
- > 从火热的互联网风口概念，到智能音箱、智能门锁、扫地机器人等产品销量的井喷，在过去十余年间，智能家居产品不断渗透进人们的日常生活。随着5G+AIoT时代的来临，智能家居正逐步从碎片化单品朝全屋智能、空间智...
- ## [拆分云BG、不造车、定义5.5G，华为未来该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1618621203&ver=3013&signature=qJsz5Dz6uxpksun2*1-vagOlbn9GK8*rcRi*CE9zXGZ-mwS4Cbkp-stpYdmdjClveZY6koBpet8fherDz-oMf02W9niDgxIv3hMMa1E9*8L2zTr7XjlOAO9pNzowB7XK&new=1)
- > 撰文 | 李昊原编辑 | 杨博丞题图 | IC Photo“活下来”。这个听起来有些悲凉的字眼，是徐直军在华为2020年的财报发布会上提出的。2019年，华为被列入实体清单，在那场发布会前夕，美国商务部又将制裁程度进一步...
- ## [硅湖职业技术学院副校长张琦教授一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1618621203&ver=3013&signature=h7fIUWoiAF8FTdoKTQGUT0Hg0udtZ2zd0xzcwWwNFfOOqfQHu-flyMtC9JATcPbTG*ndnT6IIiC74UjB1pAUVm5k-1aXF4QdAYYUFIO6Wp2IIt5N0G6Yj6ZqRL3BjfQs&new=1)
- > 4月16日，硅湖职业技术学院副校长张琦教授、计算机科学与技术学院院长薛胜军、学员旅旅长闻年喜到访，云创大数据总裁刘鹏教授、张伟总监等共同接待了来宾。交流座谈中，云创方面向来宾介绍了公司在大数据存储与...
- ## [华为朱慧敏谈5G节奏：技术持续创新演进，商业正循环来临](http://mp.weixin.qq.com/s?src=11&timestamp=1618621203&ver=3013&signature=ULKhmEWF0CU-NnHxotr4yLbZKKC1N-AfA2sQvu9aelI0-I21-SavW7J1SucJRKYOJP7bu5wdVTkvoJGkJFfuXfsMILb*Y97WabPdEL6sG3CGwtEKWEgr2*d1tG4wuRyx&new=1)
- > 如果说2019年是5G商用元年，2020年是5G发展“加速期”，那么2021年就是5G的商用规模化的探索期。随着全球范围内运营商不断加码，目前全球5G网络建设很可观，而我国不论是基站数量，还是业务创新、产业生态都已走...
- ## [失去华为这个客户，台积电从中国大陆获得营收占比剧降](http://mp.weixin.qq.com/s?src=11&timestamp=1618621203&ver=3013&signature=xmdsfuH3yxvs5YZQkSHKSkTryZvTwMaiAGd4Rj9IFUCUdECbvVzTJs-fcP5*4a5HuaXa3VMe1ieIEIiD1tJWQoO-gJJHXtB3ABNQHc2uZCbY-GChQsGOVF4jyCwt7vaL&new=1)
+ ## [失去华为这个客户，台积电从中国大陆获得营收占比剧降](http://mp.weixin.qq.com/s?src=11&timestamp=1618623004&ver=3013&signature=xmdsfuH3yxvs5YZQkSHKSkTryZvTwMaiAGd4Rj9IFUCUdECbvVzTJs-fcP5*4a5HKKirmRtn2k9fIjo2CNYwVJaCBbuouIa5*AmhlOdMZZKZJsdnlAl*uvdirSBXIixv&new=1)
  > 前魅族副总裁分析台积电今年一季度的业绩指出，中国大陆芯片企业为台积电贡献的营收占比从22%剧降至6%，显示出台积电失去华为这个重要客户之后导致它与中国大陆芯片企业的合作关系变淡。台积电和华为曾有数年的...
+ ## [硅湖职业技术学院副校长张琦教授一行到访](http://mp.weixin.qq.com/s?src=11&timestamp=1618623004&ver=3013&signature=h7fIUWoiAF8FTdoKTQGUT0Hg0udtZ2zd0xzcwWwNFfOOqfQHu-flyMtC9JATcPbTg5*69Rf5*OpeBbEJUxbma5EIpCTTUK8YzwHxziyVIepQW504UnAZYdPdUmj4QmO4&new=1)
+ > 4月16日，硅湖职业技术学院副校长张琦教授、计算机科学与技术学院院长薛胜军、学员旅旅长闻年喜到访，云创大数据总裁刘鹏教授、张伟总监等共同接待了来宾。交流座谈中，云创方面向来宾介绍了公司在大数据存储与...
+ ## [华为朱慧敏谈5G节奏：技术持续创新演进，商业正循环来临](http://mp.weixin.qq.com/s?src=11&timestamp=1618623004&ver=3013&signature=ULKhmEWF0CU-NnHxotr4yLbZKKC1N-AfA2sQvu9aelI0-I21-SavW7J1SucJRKYOFeK0zRAMMazQtLJ5L0IUUBUJuLNxhgaltPSwnpkq8qCI*Nj4QF-j9GqIoJsDv1h9&new=1)
+ > 如果说2019年是5G商用元年，2020年是5G发展“加速期”，那么2021年就是5G的商用规模化的探索期。随着全球范围内运营商不断加码，目前全球5G网络建设很可观，而我国不论是基站数量，还是业务创新、产业生态都已走...
+ ## [\[报告\]2021佛吉亚企业研究(附24页PDF文件下载)](http://mp.weixin.qq.com/s?src=11&timestamp=1618623004&ver=3013&signature=baGNPJD2Ql5QVpEIcyV9bcWaCLXstrGysl6Zq-IEurhbD*qRCfLFuhqc2ati46lrZZGQPzZrMJAFkA67DfnFmfm7ehDuufm5vMk-lxaOdxJsN7wZ1ZwRQDVin56ExPkR&new=1)
+ > 创立于1997年的佛吉亚集团已发展成为全球领先的汽车零部件科技公司，在其四大产品业务领域：汽车座椅系统、汽车内饰系统、歌乐汽车电子和绿动智行系统均处于全球领先地位, 围绕智享未来座舱和创赢绿动未来这两大...
+ ## [从2021年中国智能家居市场10大预测，看你我的家未来会怎样?](http://mp.weixin.qq.com/s?src=11&timestamp=1618623004&ver=3013&signature=OLXYhWK8A7DfI11AO8wJ3PICsT-Tkj5xdZVyAVxXB9A0f1MoMjPm8lBFQ0-KMusHywb0IBQr3-lrpcdNiIzvUOTsc6m-NZXaHdkmclph5R-DCfqxe6nyKTwC0yD1SDVl&new=1)
+ > 从火热的互联网风口概念，到智能音箱、智能门锁、扫地机器人等产品销量的井喷，在过去十余年间，智能家居产品不断渗透进人们的日常生活。随着5G+AIoT时代的来临，智能家居正逐步从碎片化单品朝全屋智能、空间智...
+ ## [拆分云BG、不造车、定义5.5G，华为未来该怎么走?](http://mp.weixin.qq.com/s?src=11&timestamp=1618623004&ver=3013&signature=qJsz5Dz6uxpksun2*1-vagOlbn9GK8*rcRi*CE9zXGZ-mwS4Cbkp-stpYdmdjClvdnFc9N52GQZGRpYmZHQEkUMTBDvuoUhrXzAOMeO-LTRldZ0yuJiEL9Ss5BfGKExH&new=1)
+ > 撰文 | 李昊原编辑 | 杨博丞题图 | IC Photo“活下来”。这个听起来有些悲凉的字眼，是徐直军在华为2020年的财报发布会上提出的。2019年，华为被列入实体清单，在那场发布会前夕，美国商务部又将制裁程度进一步...
 # IT 技术 
  ## [【全网首发】言简意赅的Python全套语法，内附详细知识点和思维导图！【强烈建议收藏！】](https://blog.csdn.net/weixin_47723732/article/details/115681843)
  > 【全网首发】言简意赅的Python全套语法，内附详细知识点和思维导图！【强烈建议收藏！】
@@ -27,26 +29,26 @@ categories: IT NEWS
  > 五年了，我在 CSDN 的两个一百万。
  ## [爬虫百战穿山甲（4）：帮学弟学妹们看看高考选科走班指南](https://blog.csdn.net/qq_43762191/article/details/115764651)
  > 爬虫百战穿山甲（4）：帮学弟学妹们看看高考选科走班指南
- ## [3.3.3 其他vector操作](https://blog.csdn.net/Tall_and_Cold/article/details/115773795)
- > 3.3.3 其他vector操作
- ## [C语言：文件操作集合，干货满满！](https://blog.csdn.net/weixin_51306225/article/details/115276515)
- > C语言：文件操作集合，干货满满！
- ## [发布一个npm 组件库 vue](https://blog.csdn.net/qq_38935512/article/details/115730925)
- > 发布一个npm 组件库 vue
- ## [BUUCTF：\[XNUCA2019Qualifier\]EasyPHP -- 关于.htaccess 的各种配置操作，](https://blog.csdn.net/Zero_Adam/article/details/115740087)
- > BUUCTF：\[XNUCA2019Qualifier\]EasyPHP -- 关于.htaccess 的各种配置操作，
- ## [Python工程师必备：基础能力提升50篇文章合集](https://blog.csdn.net/csdnstudent/article/details/115623843)
- > Python工程师必备：基础能力提升50篇文章合集
- ## [java小程序：控制台字符动画](https://blog.csdn.net/qq_46275158/article/details/115572094)
- > java小程序：控制台字符动画
- ## [去年两万多买的Python教程，现在分享给大家](https://blog.csdn.net/weixin_56957149/article/details/115676104)
- > 去年两万多买的Python教程，现在分享给大家
+ ## [element-ui设置dialog点击空白不关闭](https://blog.csdn.net/u013008898/article/details/115730832)
+ > element-ui设置dialog点击空白不关闭
+ ## [Python基础笔记](https://blog.csdn.net/Roy_Allen/article/details/115443173)
+ > Python基础笔记
+ ## [C语言循环语句笔记详解以及练习-折半查找算法、猜数字游戏](https://blog.csdn.net/attemptendeavor/article/details/115614345)
+ > C语言循环语句笔记详解以及练习-折半查找算法、猜数字游戏
+ ## [vue的数据响应原理](https://blog.csdn.net/weixin_41277748/article/details/115680611)
+ > vue的数据响应原理
+ ## [斩获 offer 的 Java 面试宝典](https://blog.csdn.net/qq_27790011/article/details/115593401)
+ > 斩获 offer 的 Java 面试宝典
+ ## [Vue、ElementUI配合Node、multiparty模块实现图片上传并反显_小demo](https://blog.csdn.net/qq_43291759/article/details/115656523)
+ > Vue、ElementUI配合Node、multiparty模块实现图片上传并反显_小demo
  ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
  > MySQL详细学习教程（建议收藏）
  ## [爬虫入门级别教程(小白水平)](https://blog.csdn.net/qq_45911278/article/details/115653853)
  > 爬虫入门级别教程(小白水平)
  ## [Tomcat和Servlet的学习笔记总结](https://blog.csdn.net/m0_46494737/article/details/115701347)
  > Tomcat和Servlet的学习笔记总结
+ ## [JVM运行时数据区（详解+面试）](https://blog.csdn.net/qdzjo/article/details/115741193)
+ > JVM运行时数据区（详解+面试）
 # 人工智能 
  ## [PL/pgSQL编写postgresql函数（二）--基本语句](https://blog.csdn.net/qq_39727113/article/details/111201450)
  > PL/pgSQL编写postgresql函数（二）--基本语句
