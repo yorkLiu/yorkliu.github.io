@@ -1,7 +1,7 @@
 ---
 title: 2021-04-18 IT News
 copyright: true
-date: 2021-04-18 09:01:02
+date: 2021-04-18 10:01:38
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -14,20 +14,20 @@ categories: IT NEWS
  > 
  ## [五年了，我在 CSDN 的两个一百万。](https://blog.csdn.net/c406495762/article/details/115743776)
  > 五年了，我在 CSDN 的两个一百万。
- ## [【神经网络】综合篇——人工神经网络、卷积神经网络、循环神经网络、生成对抗网络](https://blog.csdn.net/qq_41204464/article/details/115797030)
- > 【神经网络】综合篇——人工神经网络、卷积神经网络、循环神经网络、生成对抗网络
- ## [众数回归R语言包 modalreg](https://blog.csdn.net/weixin_43705953/article/details/115757074)
- > 众数回归R语言包 modalreg
- ## [Java中Class对象详述](https://blog.csdn.net/dkm123456/article/details/115732790)
- > Java中Class对象详述
- ## [IP子网划分](https://blog.csdn.net/m0_50744953/article/details/115791059)
- > IP子网划分
- ## [cookie和session](https://blog.csdn.net/weixin_47124571/article/details/115767122)
- > cookie和session
- ## [在如今互联网推广中，如何做好网站内容运营](https://blog.csdn.net/chenggeseo/article/details/115742765)
- > 在如今互联网推广中，如何做好网站内容运营
- ## [vue-cli+webpack搭建一个多页面应用](https://blog.csdn.net/The_upside_of_down/article/details/115770236)
- > vue-cli+webpack搭建一个多页面应用
+ ## [和阿里面试官互喷程序异常处理的最佳实践!](https://blog.csdn.net/qq_33589510/article/details/115803274)
+ > 和阿里面试官互喷程序异常处理的最佳实践!
+ ## [Error: Cannot find module 等问题 - npm篇](https://blog.csdn.net/qq_40968685/article/details/115693385)
+ > Error: Cannot find module 等问题 - npm篇
+ ## [熊海CMS1.0 代码审计](https://blog.csdn.net/rfrder/article/details/115793445)
+ > 熊海CMS1.0 代码审计
+ ## [R语言交叉验证（详细）](https://blog.csdn.net/yawei_liu1688/article/details/79142088)
+ > R语言交叉验证（详细）
+ ## [Node-RED系列（十七）：使用自定义UI节点网与flow交互](https://blog.csdn.net/github_35631540/article/details/115775190)
+ > Node-RED系列（十七）：使用自定义UI节点网与flow交互
+ ## [go interface 是否可以比较](https://blog.csdn.net/weixin_43753680/article/details/115614722)
+ > go interface 是否可以比较
+ ## [VUE+Canvas实现雷霆战机打字类小游戏](https://blog.csdn.net/denglouhen/article/details/115629918)
+ > VUE+Canvas实现雷霆战机打字类小游戏
  ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
  > MySQL详细学习教程（建议收藏）
  ## [网络常识（上）](https://blog.csdn.net/m0_37741420/article/details/115693357)
