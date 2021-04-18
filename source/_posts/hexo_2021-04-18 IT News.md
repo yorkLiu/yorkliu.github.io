@@ -1,7 +1,7 @@
 ---
 title: 2021-04-18 IT News
 copyright: true
-date: 2021-04-18 10:01:38
+date: 2021-04-18 12:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -30,42 +30,42 @@ categories: IT NEWS
  > VUE+Canvas实现雷霆战机打字类小游戏
  ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
  > MySQL详细学习教程（建议收藏）
- ## [网络常识（上）](https://blog.csdn.net/m0_37741420/article/details/115693357)
- > 网络常识（上）
  ## [蓝桥杯软件类竞赛---手算题攻略](https://blog.csdn.net/weixin_43914593/article/details/115795620)
  > 蓝桥杯软件类竞赛---手算题攻略
  ## [网络基本功：OSI模型、TCP/IP协议及握挥手、网络模式、主机网络配置](https://blog.csdn.net/bnnpyhk/article/details/115768995)
  > 网络基本功：OSI模型、TCP/IP协议及握挥手、网络模式、主机网络配置
+ ## [爬虫入门级别教程(小白水平)](https://blog.csdn.net/qq_45911278/article/details/115653853)
+ > 爬虫入门级别教程(小白水平)
 # 人工智能 
- ## [PL/pgSQL编写postgresql函数（二）--基本语句](https://blog.csdn.net/qq_39727113/article/details/111201450)
- > PL/pgSQL编写postgresql函数（二）--基本语句
  ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
  > 技术转管理，就要丢掉技术吗？
- ## [照猫画虎，分分钟学会的Matplotlib技巧：反转轴、绘制双轴和定制刻度](https://blog.csdn.net/xufive/article/details/115540318)
- > 照猫画虎，分分钟学会的Matplotlib技巧：反转轴、绘制双轴和定制刻度
- ## [Android WebView 踩坑日记，字体怎么突然变小了？？？](https://blog.csdn.net/gdutxiaoxu/article/details/115552615)
- > Android WebView 踩坑日记，字体怎么突然变小了？？？
- ## [Go语言“十诫”\[译\]](https://blog.csdn.net/bigwhite20xx/article/details/115562167)
- > Go语言“十诫”\[译\]
- ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
- > 检索20万颗星星只需10秒！这款AI产品能“擎天”
- ## [实时 OLAP， 从 0 到 1](https://blog.csdn.net/weixin_44904816/article/details/115562335)
- > 实时 OLAP， 从 0 到 1
- ## [总结了这67个pandas函数，完美解决数据处理，拿来即用！](https://blog.csdn.net/weixin_41261833/article/details/115598697)
- > 总结了这67个pandas函数，完美解决数据处理，拿来即用！
- ## [Gradle项目的jar发布到私有仓库](https://blog.csdn.net/boling_cavalry/article/details/115609899)
- > Gradle项目的jar发布到私有仓库
- ## [极客日报第101期：苹果拒绝参加反垄断听证会；FFmpeg 4.4 发布](https://blog.csdn.net/weixin_39786569/article/details/115612593)
- > 极客日报第101期：苹果拒绝参加反垄断听证会；FFmpeg 4.4 发布
- ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
- > 盘点当下大热的 7 大 Github 机器学习『创新』项目
- ## [TensorFlow Probability 联合分布变分推断工具，估计权重的贝叶斯可信区间更简单](https://blog.csdn.net/tensorflowforum/article/details/115613368)
- > TensorFlow Probability 联合分布变分推断工具，估计权重的贝叶斯可信区间更简单
- ## [UNIX的名字是我起的——对话 UNIX 开发者：Brian W. Kernighan](https://blog.csdn.net/programmer_editor/article/details/115616666)
- > UNIX的名字是我起的——对话 UNIX 开发者：Brian W. Kernighan
  ## [答应我，这次搞懂 I/O 多路复用！](https://blog.csdn.net/qq_34827674/article/details/115619261)
  > 答应我，这次搞懂 I/O 多路复用！
- ## [Jetpack框架探究03：ViewModel组件的使用与源码分析](https://blog.csdn.net/AndrExpert/article/details/115637722)
- > Jetpack框架探究03：ViewModel组件的使用与源码分析
+ ## [苹果“撞上”反垄断，围墙花园能否坚挺？](https://blog.csdn.net/csdnnews/article/details/115649568)
+ > 苹果“撞上”反垄断，围墙花园能否坚挺？
+ ## [无侵入性的在日志中打印对象的关键字段](https://blog.csdn.net/hollis_chuang/article/details/115680754)
+ > 无侵入性的在日志中打印对象的关键字段
+ ## [支持超过4000字节的varchar2类型](https://blog.csdn.net/bisal/article/details/115683157)
+ > 支持超过4000字节的varchar2类型
+ ## [检索20万颗星星只需10秒！这款AI产品能“擎天”](https://blog.csdn.net/qq_28168421/article/details/101088205)
+ > 检索20万颗星星只需10秒！这款AI产品能“擎天”
+ ## [我国首个 JS 语言提案在 ECMA 进入 Stage 3](https://blog.csdn.net/Taobaojishu/article/details/115683219)
+ > 我国首个 JS 语言提案在 ECMA 进入 Stage 3
+ ## [详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？](https://blog.csdn.net/EDDYCJY/article/details/115683313)
+ > 详解 Go 程序的启动流程，你知道 g0，m0 是什么吗？
+ ## [13个你一定要知道的PyTorch特性](https://blog.csdn.net/u011984148/article/details/115683325)
+ > 13个你一定要知道的PyTorch特性
+ ## [【Python深度学习前传】用NumPy获取数组的值、分片以及改变数组的维度](https://blog.csdn.net/nokiaguy/article/details/115689176)
+ > 【Python深度学习前传】用NumPy获取数组的值、分片以及改变数组的维度
+ ## [盘点当下大热的 7 大 Github 机器学习『创新』项目](https://blog.csdn.net/qq_28168421/article/details/101088174)
+ > 盘点当下大热的 7 大 Github 机器学习『创新』项目
+ ## [TensorFlow2简单入门- Keras 模型: Sequential 顺序模型和 Model 模型](https://blog.csdn.net/qq_38251616/article/details/115690530)
+ > TensorFlow2简单入门- Keras 模型: Sequential 顺序模型和 Model 模型
+ ## [腾讯云TDSQL数据库核心技术理论取得进展 ，同时发布数据异常检测工具](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/115700177)
+ > 腾讯云TDSQL数据库核心技术理论取得进展 ，同时发布数据异常检测工具
+ ## [用Python通过摄像头进行视频录制](https://blog.csdn.net/LaoYuanPython/article/details/115716366)
+ > 
+ ## [你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了](https://blog.csdn.net/devcloud/article/details/115720138)
+ > 你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了
 
     
