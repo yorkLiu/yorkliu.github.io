@@ -1,7 +1,7 @@
 ---
 title: 2021-04-18 IT News
 copyright: true
-date: 2021-04-18 12:00:58
+date: 2021-04-18 17:00:58
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -16,26 +16,26 @@ categories: IT NEWS
  > 五年了，我在 CSDN 的两个一百万。
  ## [和阿里面试官互喷程序异常处理的最佳实践!](https://blog.csdn.net/qq_33589510/article/details/115803274)
  > 和阿里面试官互喷程序异常处理的最佳实践!
- ## [Error: Cannot find module 等问题 - npm篇](https://blog.csdn.net/qq_40968685/article/details/115693385)
- > Error: Cannot find module 等问题 - npm篇
- ## [熊海CMS1.0 代码审计](https://blog.csdn.net/rfrder/article/details/115793445)
- > 熊海CMS1.0 代码审计
- ## [R语言交叉验证（详细）](https://blog.csdn.net/yawei_liu1688/article/details/79142088)
- > R语言交叉验证（详细）
- ## [Node-RED系列（十七）：使用自定义UI节点网与flow交互](https://blog.csdn.net/github_35631540/article/details/115775190)
- > Node-RED系列（十七）：使用自定义UI节点网与flow交互
- ## [go interface 是否可以比较](https://blog.csdn.net/weixin_43753680/article/details/115614722)
- > go interface 是否可以比较
- ## [VUE+Canvas实现雷霆战机打字类小游戏](https://blog.csdn.net/denglouhen/article/details/115629918)
- > VUE+Canvas实现雷霆战机打字类小游戏
+ ## [众数回归R语言包 modalreg](https://blog.csdn.net/weixin_43705953/article/details/115757074)
+ > 众数回归R语言包 modalreg
+ ## [Java中Class对象详述](https://blog.csdn.net/dkm123456/article/details/115732790)
+ > Java中Class对象详述
+ ## [IP子网划分](https://blog.csdn.net/m0_50744953/article/details/115791059)
+ > IP子网划分
+ ## [cookie和session](https://blog.csdn.net/weixin_47124571/article/details/115767122)
+ > cookie和session
+ ## [在如今互联网推广中，如何做好网站内容运营](https://blog.csdn.net/chenggeseo/article/details/115742765)
+ > 在如今互联网推广中，如何做好网站内容运营
+ ## [vue-cli+webpack搭建一个多页面应用](https://blog.csdn.net/The_upside_of_down/article/details/115770236)
+ > vue-cli+webpack搭建一个多页面应用
+ ## [网络知识（上）](https://blog.csdn.net/m0_37741420/article/details/115693357)
+ > 网络知识（上）
  ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
  > MySQL详细学习教程（建议收藏）
  ## [蓝桥杯软件类竞赛---手算题攻略](https://blog.csdn.net/weixin_43914593/article/details/115795620)
  > 蓝桥杯软件类竞赛---手算题攻略
  ## [网络基本功：OSI模型、TCP/IP协议及握挥手、网络模式、主机网络配置](https://blog.csdn.net/bnnpyhk/article/details/115768995)
  > 网络基本功：OSI模型、TCP/IP协议及握挥手、网络模式、主机网络配置
- ## [爬虫入门级别教程(小白水平)](https://blog.csdn.net/qq_45911278/article/details/115653853)
- > 爬虫入门级别教程(小白水平)
 # 人工智能 
  ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
  > 技术转管理，就要丢掉技术吗？
