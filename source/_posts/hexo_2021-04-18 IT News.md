@@ -1,7 +1,7 @@
 ---
 title: 2021-04-18 IT News
 copyright: true
-date: 2021-04-18 08:00:56
+date: 2021-04-18 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -32,8 +32,8 @@ categories: IT NEWS
  > MySQL详细学习教程（建议收藏）
  ## [网络常识（上）](https://blog.csdn.net/m0_37741420/article/details/115693357)
  > 网络常识（上）
- ## [爬虫入门级别教程(小白水平)](https://blog.csdn.net/qq_45911278/article/details/115653853)
- > 爬虫入门级别教程(小白水平)
+ ## [蓝桥杯软件类竞赛---手算题攻略](https://blog.csdn.net/weixin_43914593/article/details/115795620)
+ > 蓝桥杯软件类竞赛---手算题攻略
  ## [网络基本功：OSI模型、TCP/IP协议及握挥手、网络模式、主机网络配置](https://blog.csdn.net/bnnpyhk/article/details/115768995)
  > 网络基本功：OSI模型、TCP/IP协议及握挥手、网络模式、主机网络配置
 # 人工智能 
