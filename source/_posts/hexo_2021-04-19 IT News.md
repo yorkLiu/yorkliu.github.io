@@ -1,7 +1,7 @@
 ---
 title: 2021-04-19 IT News
 copyright: true
-date: 2021-04-19 09:01:02
+date: 2021-04-19 10:01:03
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -30,12 +30,12 @@ categories: IT NEWS
  > ConcurentHashMap源码分析
  ## [网络知识（上）](https://blog.csdn.net/m0_37741420/article/details/115693357)
  > 网络知识（上）
- ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
- > MySQL详细学习教程（建议收藏）
  ## [2021最适合Java程序员学习路线，面经和面试题1000道](https://blog.csdn.net/weixin_55932383/article/details/115794470)
  > 2021最适合Java程序员学习路线，面经和面试题1000道
- ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
- > 【Python】 Python小游戏-贪吃蛇大冒险
+ ## [MySQL详细学习教程（建议收藏）](https://blog.csdn.net/qq_45173404/article/details/115712758)
+ > MySQL详细学习教程（建议收藏）
+ ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
+ > 这11款chrome神器，用起来爽到爆
 # 人工智能 
  ## [技术转管理，就要丢掉技术吗？](https://blog.csdn.net/yellowzf3/article/details/113488299)
  > 技术转管理，就要丢掉技术吗？
@@ -67,5 +67,8 @@ categories: IT NEWS
  > 
  ## [你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了](https://blog.csdn.net/devcloud/article/details/115720138)
  > 你眼中的程序员 VS 程序员眼中的自己，是时候打破代沟了
+# PM 
+ ## [数字化转型失败的6种原因](http://www.chanpin100.com/article/114622)
+ > 一些企业数字化转型开始时的方向便是错误的，或者开始时方向是正确的，但是后来越走越偏，导致技术和业务脱节，各自按照不同的发展轨迹前行。导致这种情况的原因可能是公司管理层对数字化转型工作关注度不足，没能及时纠正数字化团队的转型路径。
 
     
