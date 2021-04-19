@@ -1,7 +1,7 @@
 ---
 title: 2021-04-19 IT News
 copyright: true
-date: 2021-04-19 08:00:57
+date: 2021-04-19 09:01:02
 tags: IT NEWS
 categories: IT NEWS
 ---
@@ -12,8 +12,8 @@ categories: IT NEWS
  > 
  ## [chrome开发者助手插件v2.10发布，提升开发效率不再只是口号](https://blog.csdn.net/weixin_44463441/article/details/115077074)
  > 
- ## [五年了，我在 CSDN 的两个一百万。](https://blog.csdn.net/c406495762/article/details/115743776)
- > 五年了，我在 CSDN 的两个一百万。
+ ## [没错！python只需要一行代码！！！实现文件共享服务器！！！](https://blog.csdn.net/weixin_42350212/article/details/115801715)
+ > 没错！python只需要一行代码！！！实现文件共享服务器！！！
  ## [龙芯的全新自主指令集到底强在何处？](https://blog.csdn.net/BEYONDMA/article/details/115829327)
  > 龙芯的全新自主指令集到底强在何处？
  ## [Vue3.0学习 - 第三节，Vue3 组合api的理解（setup）](https://blog.csdn.net/csl125/article/details/115635372)
