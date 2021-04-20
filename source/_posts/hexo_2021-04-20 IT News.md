@@ -1,20 +1,26 @@
 ---
 title: 2021-04-20 IT News
 copyright: true
-date: 2021-04-20 09:00:59
+date: 2021-04-20 10:01:00
 tags: IT NEWS
 categories: IT NEWS
 ---
 # IT 新闻 
- ## [百度：打造最强量产自动驾驶引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=t-bl9D*vj9PGK8A6p73bOKVmXKyS1cMcqancxJXZUpy2S8z-M8kLbahwEmQHwlzXhqVzWD22MSjGsZ0h1zEfkvQkacKDmTBS6cgD-2RV0-57sNYMEFT9xpuELFhKpARd&new=1)
+ ## [线上线下“双管齐下”让老年人共享便捷](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=tzbXJws4fm2ko3BS6bpzRZ*HB9DvKD1VtzOm7CLO0k3hhHHMC4L5Rk7jiBXTcC2ou*AKrb1fFF9d9wYPFDEsGfMQVQGQC4OpH47wMNIhVJI=&new=1)
+ > 本报讯 记者4月19日从贵州省政务服务中心获悉，日前发布的《贵州省便利老年人办事服务工作实施方案》明确，通过设置必要的线下办事渠道和优化“互联网+政务服务”应用，“双管齐下”优化政务服务，进一步推...
+ ## [韩国采用网络共享来促进农村5G部署](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=bwUL1mG2TPTMKOcmdM*iexlTBX4DZPdBgV418v3L*T1428PtE-6IBapeAeABvKIuHhZdvV0caTT6mE-rjq1t0TnEhgjuCodQD-uMlNVf9QAYn1W*VgagUWRmTEhWdEka&new=1)
+ > 新闻导读韩国科学和信息通信技术部(MSIT)上周宣布，三家移动网络运营商LG Uplus、韩国电信(KT)和SK电信(SK Telecom)将在偏远的沿海和农村城镇共享他们的5G网络，以加快部署速度。ICC讯 据外媒报道称，最近韩国移...
+ ## [特斯拉回应上海车展事件；GameStop CEO将于7月底辞职；Microsoft Edge 加入儿童模式|Do早报](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=0FEB5xZ09ipHIHUPcqehiYTJD1-dgssVm*IJATK7NxxGofWp-yAwVQxo9ViZAJGqhHt2UrHG4gEGQ3Lu2eQsDWzej7o8iExYHwuGimaRpbEcJ3dY0s8Q8vFyTXtbeOIO&new=1)
+ > 图 / IC photoHello，大家早上好，又是元气满满的一天，先来浏览新鲜的早报吧～【特斯拉回应上海车展事件】特斯拉微博回应上海车展上关于特斯拉产品安全问题的疑问和关注：如果是特斯拉产品的问题，特斯拉一定坚...
+ ## [百度：打造最强量产自动驾驶引擎](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=t-bl9D*vj9PGK8A6p73bOKVmXKyS1cMcqancxJXZUpz*xGaBW6fEyKPCrEQmG*EJut6QQwrybNirf1kEAqx2lotYdP8h9dorvCeQjJehTNIRhlCf9qG76XUIgsV8bp81&new=1)
  > 2021年上海车展，自动驾驶巨头百度誓言要捍卫自己在该市场的领导者地位，并开始在多条战线上主动出击。 汽车产业，正在跑步进入自动驾驶时代，与此同时，自动驾驶巨头之间的激烈战斗已经打响。 在燃油车自动驾驶...
- ## [日本厚劳省出示用数字货币支付工资的制度方案|悦读全球](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=tCKugSIIvhXmbb7D2ZsseN30AGBMSU6psuvU6mx3z54wjv5bnu38uHm8ECwMAd6lw9Svm5hHAws8S*2y1S8sFoU1eD87zCXu1GfOdeB8otU=&new=1)
+ ## [日本厚劳省出示用数字货币支付工资的制度方案|悦读全球](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=tCKugSIIvhXmbb7D2ZsseN30AGBMSU6psuvU6mx3z56iaHfGkgxj5MQyzhAjtwK74R0zcRqdw7l*AyK*ES8LIZlswfr8*hypL*8rILhmPGA=&new=1)
  > 悦读全球（2021.04.19）日本厚劳省出示用数字货币支付工资的制度方案日本厚生劳动省19日，围绕利用通过电子信息进行交易的“数字货币”支付工资，向劳动政策审议会小组会出示了一项大致方案，内容是在保证安全性...
- ## [十年锐变，焕然升级 中国联通APP全新出发](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=uIF4s8TNy6n-ctoOz3GPht0unHOpGMVRzafdN4qET029PUTXdVcpbst7LlddBJeKDIR7lfw9kB0FR2*Xv-KvJJQtTV4wvr4QCRGZTc9PyID*UO*tLfps1qUFxdQVhJzr&new=1)
+ ## [十年锐变，焕然升级 中国联通APP全新出发](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=uIF4s8TNy6n-ctoOz3GPht0unHOpGMVRzafdN4qET02kC*TYdwGjqsBQLIDxihrlETrFnnnHP38Z0E8vxTYRrSs6fQZLvFnwmsrAJ1cMeJQP7LSGjljaw9IY36TaX7Ut&new=1)
  > 2021年4月6日，中国联通手机营业厅APP正式更名为“中国联通APP”，并从服务、生活、娱乐、财富等方面进行全面升级，致力于为客户提供更温暖的智慧体验，创造更便捷、更个性化的美好生活。在服务用户十年之际，中...
- ## [专访华为全球网络安全与用户隐私保护官：华为没有什么最高机密](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=uKET3hd90KzI4s48rgYvbdcldxxzX7X2GhQIFaUbjsaPAY-fXhRgJIKRI*VOchl-HCUHMq31vNuXpDm1bnIsARmr3wTGTwdrFrWZ6HEBrdG8DPYGUVX9AnHj1NTJqUPB&new=1)
+ ## [专访华为全球网络安全与用户隐私保护官：华为没有什么最高机密](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=uKET3hd90KzI4s48rgYvbdcldxxzX7X2GhQIFaUbjsY5vZgvlTSdk902C-I7Bo83NuKKeA6IVX4KYe2M9ETMO1Q86ttvm3FobkIdqvfeIn7fuvv8BoX6ptY9WbS1Xc6X&new=1)
  > 华为公司顾问田涛在2013年至2019年6年时间内，对华为上至高层下至普通员工共几百人进行了访谈，集结成了一部《华为访谈录》。本文节选自《华为访谈录》中，田涛于2014年4月24日对话华为全球网络安全与用户隐私保...
- ## [华为彭红华：推进头部行业尽快实现5GtoB规模复制](http://mp.weixin.qq.com/s?src=11&timestamp=1618878603&ver=3019&signature=*EED-8lq-2tgOE5LKDvz9Z8lNOOl-3UTKd5ZwBahW9cVNs2gv2JOLFnCQUFDk3e7Ddh-HxoMnWe9FgtX0*8W9B1jypp9FpKiy-7LnE2DLs6dru4YasKiz9VZLNyVAR1o&new=1)
+ ## [华为彭红华：推进头部行业尽快实现5GtoB规模复制](http://mp.weixin.qq.com/s?src=11&timestamp=1618884004&ver=3019&signature=*EED-8lq-2tgOE5LKDvz9Z8lNOOl-3UTKd5ZwBahW9ev2O*wOZuLJEK29-iqh57O4ACUK6gBDECy4vFmowA5Bp9ug2nPjGOhZt0LK8D6TFXkRrMi0jSbxSEU354pQILn&new=1)
  > 在华为第18届全球分析师大会期间，华为5G产品线总裁彭红华在媒体圆桌会议上表示，5G产业发展早期人们会关注合同数，随着商用进程不断推进，现在5G竞争力要看网络的实际表现，以及为运营商和客户带来的价值。彭红...
 # IT 技术 
  ## [聊一聊我在 B 站上自学编程的经历吧！](https://blog.csdn.net/qq_36894974/article/details/115861554)
@@ -25,20 +31,20 @@ categories: IT NEWS
  > 
  ## [6年Java老鸟聊聊新人到底要不要学Java，从事互联网《打工人的那些事》](https://blog.csdn.net/qq_26525215/article/details/115870774)
  > 6年Java老鸟聊聊新人到底要不要学Java，从事互联网《打工人的那些事》
- ## [Spring Aop基本流程原理](https://blog.csdn.net/github_37130188/article/details/115842643)
- > Spring Aop基本流程原理
- ## [Ajax请求的使用](https://blog.csdn.net/qq_39794062/article/details/115803834)
- > Ajax请求的使用
+ ## [C语言实现自动出题、单词拼写等功能，附带管理员模式](https://blog.csdn.net/linZinan_/article/details/115712808)
+ > C语言实现自动出题、单词拼写等功能，附带管理员模式
+ ## [JVM——（1）为什么学习虚拟机](https://blog.csdn.net/zhouhengzhe/article/details/115840007)
+ > JVM——（1）为什么学习虚拟机
  ## [40篇最受网友欢迎的HTML精选文章合集](https://blog.csdn.net/csdnstudent/article/details/115863023)
  > 
- ## [计算机基础](https://blog.csdn.net/weixin_41675900/article/details/115636156)
- > 计算机基础
- ## [CUDA C/C++ 流和并发](https://blog.csdn.net/qq_32285693/article/details/115829653)
- > CUDA C/C++ 流和并发
- ## [GraphiIcs UI层级覆盖详细攻略](https://blog.csdn.net/qq_42489774/article/details/115694763)
- > GraphiIcs UI层级覆盖详细攻略
- ## [Python颜值打分小工具，给你的自拍美照打个分吧](https://blog.csdn.net/MC_Kitty/article/details/115833341)
- > Python颜值打分小工具，给你的自拍美照打个分吧
+ ## [Spring Boot 2从入门到入坟 | 基础入门篇：Hello World入门](https://blog.csdn.net/yerenyuan_pku/article/details/115803913)
+ > Spring Boot 2从入门到入坟 | 基础入门篇：Hello World入门
+ ## [golang martini 包的简单使用](https://blog.csdn.net/xiaobinqt/article/details/115749581)
+ > golang martini 包的简单使用
+ ## [Java面试——RPC](https://blog.csdn.net/zhengzhaoyang122/article/details/115801156)
+ > Java面试——RPC
+ ## [autojs颜色渐变效果](https://blog.csdn.net/snailuncle2/article/details/115711714)
+ > autojs颜色渐变效果
  ## [这11款chrome神器，用起来爽到爆](https://blog.csdn.net/lisu061714112/article/details/115798332)
  > 这11款chrome神器，用起来爽到爆
  ## [【Python】 Python小游戏-贪吃蛇大冒险](https://blog.csdn.net/weixin_45087775/article/details/115798632)
@@ -81,6 +87,8 @@ categories: IT NEWS
 # PM 
  ## [教你用项目管理思维做产品 打造核心竞争力！](http://www.chanpin100.com/article/114686)
  > 现在的人才市场竞争愈发激烈，为了能够应对各种风险，提高自己的价值，你要找到项目管理的核心，并且学会用项目管理的思维来做产品，这样才能创造核心竞争力，成为一个高级的产品经理！
+ ## [产品经理的私房菜：腾讯产品能力模型（序章）](http://www.chanpin100.com/article/114671)
+ > 编辑导语：为了解决”产品经理“职业成长中，不自信的问题。本系列就围绕”腾讯产品的能力模型“，一起从头梳理，每一个能力项的提升思路。希望大家从梳理过程中，找到提升的方向！
  ## [产品经理怎样做功能与原型设计？](http://www.chanpin100.com/article/114718)
  > 产品经理要如何才能做好功能设计与原型设计？这个问题你了解多少？对于产品经理这个岗位来说，会些技术是有必要的，因为他们的工作还涉及到功能、原型等设计。
  ## [产品经理怎样做好线上线下使用流程设计？](http://www.chanpin100.com/article/114716)
@@ -115,7 +123,5 @@ categories: IT NEWS
  > 产品经理应聚焦四大阶段：市场、测试、体验和业务表现，还应借助第三方数据统计SDK，如友盟+U-App快速集成采集数据，节省采集成本高。另一个是解决标准问题，同时拥有标准化统计逻辑，可以有效解决指标不统一的问题，并分析流量来源、行为分析、留存及漏斗，以及整个分析过程。
  ## [“限制广告”之后 教育机构要如何寻找新的流量洼地？](http://www.chanpin100.com/article/114641)
  > 在存量运营时代，教育企业要想在激烈的市场竞争中拔得头筹，不仅要搭建好线上教育平台，还需要做好私域用户的运营。
- ## [产品经理的工作总结应该怎么写？帮你轻松涨工资](http://www.chanpin100.com/article/114704)
- > 产品经理的工作总结应该怎么写？相信这是每个产品人都头疼的事情。一份好的总结可以帮助你升职加薪，因为你的总结足够突出，老板就会印象深刻，这样离涨工资还远吗？甚至还能拿一大笔的年终奖，是不是想想都很兴奋？
 
     
